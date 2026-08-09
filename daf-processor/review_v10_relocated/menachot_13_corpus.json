@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Intro & Half-Measures",
+    "candidates": [
+      "Intro & Half-Measures",
+      "Eating vs. Burning",
+      "Tanna Identification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mishna stating that eating and burning do not combine, and the gemara's immediate inference about eating plus eating \u2014 are precisely what the 'Intro & Half-Measures' prose describes, including the ruling that the offering is kasher and the she'ein achilah ve-haktarah mitztarpin principle, making the current placement correct.",
+      "chosen_heading": "Intro & Half-Measures",
+      "current_heading": "Intro & Half-Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Tanna Identification",
+    "candidates": [
+      "Eating vs. Burning",
+      "Tanna Identification",
+      "Abaye Rejects Inference",
+      "Previous Mishna Cited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question of 'man tanna' \u2014 who taught the latter clause of the mishna \u2014 and Rabbi Yirmiyah's answer identifying Rabbi Eliezer, which is precisely what the 'Tanna Identification' prose section describes.",
+      "chosen_heading": "Tanna Identification",
+      "current_heading": "Tanna Identification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Previous Mishna Cited",
+    "candidates": [
+      "Abaye Rejects Inference",
+      "Previous Mishna Cited",
+      "Simple Meaning Prevails"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Rejects Inference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 cites the Rabbi Eliezer mishna that prompts Abaye's rejection, and Item 2 is Abaye's actual reinterpretation \u2014 both belong under 'Abaye Rejects Inference' which describes exactly this move.",
+      "second_heading": "Previous Mishna Cited",
+      "second_confidence": "high",
+      "second_reason": "Items 3 and 4 present the Gemara's challenge ('what does this teach us?') citing the previous mishna explicitly and then pressing the redundancy argument \u2014 matching perfectly the 'Previous Mishna Cited' prose about that explicit prior mishna and the *diyukim* that fail scrutiny.",
+      "current_heading": "Previous Mishna Cited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Simple Meaning Prevails",
+    "candidates": [
+      "Simple Meaning Prevails",
+      "Rashbam Commentary",
+      "Levona Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage continues the exact Gemara discussion described in 'Simple Meaning Prevails' \u2014 the question of why the mishna needs to state le'echol u'lehaktir explicitly, the inference from the reisha, and the conclusion that eating and burning do not combine even when each is ki orchiah \u2014 matching the prose of heading 0 precisely.",
+      "chosen_heading": "Simple Meaning Prevails",
+      "current_heading": "Simple Meaning Prevails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Levona Case",
+    "candidates": [
+      "Rashbam Commentary",
+      "Levona Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Hadran (concluding formula) that ends the perek, and the Rashbam Commentary prose explicitly references 'following the Hadran alach kol haminachot that concludes the perek' as the transition point into that section's discussion.",
+      "chosen_heading": "Rashbam Commentary",
+      "current_heading": "Levona Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Levona Case",
+    "candidates": [
+      "Levona Case",
+      "Reish Lakish Explains",
+      "Two Bowls Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items constitute the mishna and the opening gemara discussion about why the tanna uses the phrase 'Rabbi Yosei concedes,' which is precisely the content described in the 'Levona Case' prose section.",
+      "chosen_heading": "Levona Case",
+      "current_heading": "Levona Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Two Bowls Case",
+    "candidates": [
+      "Reish Lakish Explains",
+      "Two Bowls Case",
+      "Rabbi Yose's Real Reason",
+      "No Dependency Relation",
+      "Order Independence",
+      "Same Vessel Logic",
+      "Rabbi Yanai's View",
+      "Rav Yirmiyah on Havicha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion of the principle 'ein matir mefagel et hamatir' \u2014 covering Reish Lakish's extension to the two bowls of frankincense, the Gemara's challenge about why the extension is needed, the objection and resolution about Rabbi Yose's real reason, and the Rabbis' counter-position based on the 'same vessel' logic \u2014 which precisely matches the 'Two Bowls Case' heading's prose discussion of exactly these sub-topics.",
+      "chosen_heading": "Two Bowls Case",
+      "current_heading": "Two Bowls Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Rav Yirmiyah on Havicha",
+    "candidates": [
+      "Rabbi Yose's Real Reason",
+      "No Dependency Relation",
+      "Order Independence",
+      "Same Vessel Logic",
+      "Rabbi Yanai's View",
+      "Rav Yirmiyah on Havicha",
+      "Four Avodot Listed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yirmiyah on Havicha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yirmiyah's explanation of Rabbi Yanai's ruling on likut levona bezar via holacha, which is precisely what candidate 5 ('Rav Yirmiyah on Havicha') describes in its prose.",
+      "second_heading": "Four Avodot Listed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Mari citing the mishna's list of the four avodot (kometz, placing in vessel, molich, maktir) as support, which is exactly what candidate 6 ('Four Avodot Listed') describes in its prose.",
+      "current_heading": "Rav Yirmiyah on Havicha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Four Avodot Listed",
+    "candidates": [
+      "Four Avodot Listed",
+      "Noten Bikli Debate",
+      "Necessity Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the question of what avodah noten bikli performs and the challenge to the kabbalah comparison, which matches exactly the 'Noten Bikli Debate' prose, not the 'Four Avodot Listed' prose which only covers the uncontested parallels (kemitzah, holacha, haktarah).",
+      "chosen_heading": "Noten Bikli Debate",
+      "current_heading": "Four Avodot Listed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Necessity Principle",
+    "candidates": [
+      "Noten Bikli Debate",
+      "Necessity Principle",
+      "Noten Bikli = Kabbala",
+      "Kabbala vs Noten Bikli"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the necessity-based rationale ('since it is not possible to perform without first doing X, the act is significant and perforce considered like...'), which is precisely what the 'Necessity Principle' section's prose describes and analyzes.",
+      "chosen_heading": "Necessity Principle",
+      "current_heading": "Necessity Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Kabbala vs Noten Bikli",
+    "candidates": [
+      "Noten Bikli = Kabbala",
+      "Kabbala vs Noten Bikli",
+      "Mishna Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's rejection of the mechanical difference objection and its resolution via kedushat kli, which is precisely what candidate 0 ('Noten Bikli = Kabbala') describes \u2014 the reversal back to the structural parallel \u2014 whereas candidate 1's prose already presupposes this resolution and moves on to its implications for likut levona.",
+      "chosen_heading": "Noten Bikli = Kabbala",
+      "current_heading": "Kabbala vs Noten Bikli",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Kabbala vs Noten Bikli",
+      "Mishna Setup",
+      "Rabbi Yose's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, and the 'Mishna Setup' prose directly introduces and describes exactly this Mishna about shechting the two lambs with intent to eat one loaf the next day and the lechem hapanim case.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Mishna Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Rabbi Yose's Position",
+    "candidates": [
+      "Rabbi Yose's Position",
+      "Rabbis' Position (II)",
+      "Rav Huna Explains",
+      "Thought = Action Logic",
+      "Textual Source",
+      "Baraita Cited"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna Explains",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's statement that Rabbi Yose holds piggul of the right thigh does not render the left thigh piggul, which is precisely what candidate 2 ('Rav Huna Explains') describes.",
+      "second_heading": "Thought = Action Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 elaborates the logical argument (thought is no stronger than action/impurity) and the verse mimenu, which corresponds exactly to candidates 3 ('Thought = Action Logic') and 4 ('Textual Source') \u2014 but since the logical argument is the primary content and leads into the verse, candidate 3 is the better match for the start of that elaboration.",
+      "current_heading": "Rabbi Yose's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Baraita Cited",
+    "candidates": [
+      "Rabbis' Position (II)",
+      "Rav Huna Explains",
+      "Thought = Action Logic",
+      "Textual Source",
+      "Baraita Cited",
+      "Tanna Identified",
+      "One Unit Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's objection to Rav Huna citing the baraita about needing pigul intent regarding both loaves with a kezayit, which is precisely what the 'Baraita Cited' section's prose describes.",
+      "chosen_heading": "Baraita Cited",
+      "current_heading": "Baraita Cited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "One Unit Theory",
+    "candidates": [
+      "Tanna Identified",
+      "One Unit Theory",
+      "Distinct Objects Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tanna Identified",
+      "first_confidence": "high",
+      "first_reason": "Item 1 identifies the baraita as Rabbi Yose's opinion and explains why the Rabbis' view is excluded, then introduces the 'one body' theory \u2014 this matches the 'Tanna Identified' prose which is precisely about identifying whose view the baraita reflects and the one-unit reasoning.",
+      "second_heading": "Distinct Objects Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 poses the counter-question about the 'two distinct bodies' reading and asks how the two half-kezayit measures could combine \u2014 this matches the 'Distinct Objects Theory' prose exactly.",
+      "current_heading": "One Unit Theory",
+      "moved": true
+    }
+  }
+]

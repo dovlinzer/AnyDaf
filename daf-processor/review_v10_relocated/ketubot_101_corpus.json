@@ -1,0 +1,467 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mema'enes Definition",
+    "candidates": [
+      "Mema'enes Definition",
+      "Shniya Category",
+      "Ailonis Definition",
+      "No Ketubah Rationale",
+      "Rashi: Peiros/Mezonos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces all three cases (mema'enes, shniya, ailonis) together as a unit, and the current heading 'Mema'enes Definition' is where the mishnah text is introduced \u2014 the subsequent headings each discuss the prose elaboration of individual cases or the rulings, making the opening mishna text correctly placed at the first heading where it is first encountered.",
+      "chosen_heading": "Mema'enes Definition",
+      "current_heading": "Mema'enes Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rashi: Peiros/Mezonos",
+    "candidates": [
+      "Shniya Category",
+      "Ailonis Definition",
+      "No Ketubah Rationale",
+      "Rashi: Peiros/Mezonos",
+      "Forbidden Marriages Label"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that if a husband knowingly married an ailonis from the start she receives a ketubah \u2014 this is a specific ruling about the ailonis category that directly complements the 'Ailonis Definition' section's discussion of mekach ta'ut and the presumption of error, clarifying when that presumption is overridden.",
+      "chosen_heading": "Ailonis Definition",
+      "current_heading": "Rashi: Peiros/Mezonos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Forbidden Marriages Label",
+    "candidates": [
+      "Rashi: Peiros/Mezonos",
+      "Forbidden Marriages Label",
+      "Rashi: Rabbinic vs",
+      "Rav: No Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists exactly the biblically forbidden marriages (widow to High Priest, divorc\u00e9e/chalutzah to common priest, mamzeret/nesinah to Israelite, Jewish woman to mamzer/Gibeonite) and rules they receive a ketubah \u2014 precisely what the 'Forbidden Marriages Label' prose describes and discusses.",
+      "chosen_heading": "Forbidden Marriages Label",
+      "current_heading": "Forbidden Marriages Label",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Rav: No Ketubah",
+    "candidates": [
+      "Rashi: Rabbinic vs",
+      "Rav: No Ketubah",
+      "Shmuel: Miaun vs. Get"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav: No Ketubah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's teaching that a minor divorced by get also has no ketubah, which matches exactly the prose under 'Rav: No Ketubah' describing Rav's expansive view that even a get cannot create ketubah entitlement.",
+      "second_heading": "Shmuel: Miaun vs. Get",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Shmuel's contrasting position that mi'un forfeits the ketubah but a get entitles her to one, which matches precisely the 'Shmuel: Miaun vs. Get' prose describing this exact distinction.",
+      "current_heading": "Rav: No Ketubah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Shmuel: Miaun vs. Get",
+    "candidates": [
+      "Shmuel: Miaun vs. Get",
+      "Shmuel: Three-Month Wait"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between mi'un and get regarding disqualification from brothers and priesthood, which is precisely what the prose in heading 0 describes.",
+      "chosen_heading": "Shmuel: Miaun vs. Get",
+      "current_heading": "Shmuel: Miaun vs. Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Shmuel: Three-Month Wait",
+    "candidates": [
+      "Shmuel: Three-Month Wait",
+      "Eliezer vs. Yehoshua",
+      "Eliezer: No Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly address the three-month waiting period distinction between a mema'enes and one who receives a get, which is exactly what the 'Shmuel: Three-Month Wait' section prose describes, including the specific chiddush Shmuel was adding beyond the already-known mishna.",
+      "chosen_heading": "Shmuel: Three-Month Wait",
+      "current_heading": "Shmuel: Three-Month Wait",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Eliezer: No Effect",
+    "candidates": [
+      "Eliezer vs. Yehoshua",
+      "Eliezer: No Effect",
+      "Yehoshua: Binding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with 'Let us say that this dispute is parallel to a tannaitic dispute' \u2014 it is the gemara's framing move that introduces the Eliezer/Yehoshua baraita, which matches heading 0's prose about the gemara asking whether the Rav/Shmuel dispute can be traced to a tanaitic disagreement, not heading 1 which discusses only Rabbi Eliezer's position in isolation.",
+      "chosen_heading": "Eliezer vs. Yehoshua",
+      "current_heading": "Eliezer: No Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Yehoshua: Binding",
+    "candidates": [
+      "Eliezer: No Effect",
+      "Yehoshua: Binding",
+      "Rav & Shmuel Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehoshua's position that a minor's marriage is fully binding with all marital consequences except exit by mi'un, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Yehoshua: Binding",
+      "current_heading": "Yehoshua: Binding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Rav & Shmuel Dispute",
+    "candidates": [
+      "Rav & Shmuel Dispute",
+      "Rashi: Husband Incentive",
+      "Mother's Protection",
+      "Rav's Asymmetry Logic",
+      "Shmuel on Milog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's mapping of the Rav/Shmuel dispute onto the Rabbi Eliezer/Rabbi Yehoshua dispute, including the refinement that the real dispute is aliba deRabbi Yehoshua \u2014 exactly what the current heading's prose describes.",
+      "chosen_heading": "Rav & Shmuel Dispute",
+      "current_heading": "Rav & Shmuel Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Shmuel on Milog",
+    "candidates": [
+      "Rashi: Husband Incentive",
+      "Mother's Protection",
+      "Rav's Asymmetry Logic",
+      "Shmuel on Milog",
+      "Pappa's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the Gemara about bla'os and Shmuel's distinction between nichsei milog and nichsei tzon barzel, which is precisely what the prose of candidate 3 ('Shmuel on Milog') explains and contextualizes.",
+      "chosen_heading": "Shmuel on Milog",
+      "current_heading": "Shmuel on Milog",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Pappa's Question",
+    "candidates": [
+      "Pappa's Question",
+      "Ailonit Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's question about the mema'enes case and the idy ve'idy shakla / lo shakla reasoning, which is precisely what heading 0 'Pappa's Question' discusses in its prose.",
+      "chosen_heading": "Pappa's Question",
+      "current_heading": "Pappa's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Ailonit Logic",
+    "candidates": [
+      "Ailonit Logic",
+      "Shniya Reciprocal Penalty",
+      "Cloak as Principal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly works through the *ailonit* case and concludes that Shmuel's ruling should be the opposite if applied to an *ailonit* \u2014 exactly the logic described in the 'Ailonit Logic' prose section.",
+      "chosen_heading": "Ailonit Logic",
+      "current_heading": "Ailonit Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Cloak as Principal",
+    "candidates": [
+      "Shniya Reciprocal Penalty",
+      "Cloak as Principal",
+      "Nachman Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the Sages' reciprocal penalty applied to the shniya case, which is precisely what candidate 0 ('Shniya Reciprocal Penalty') describes, not the cloak-as-principal discussion of candidate 1 where it currently sits.",
+      "chosen_heading": "Shniya Reciprocal Penalty",
+      "current_heading": "Cloak as Principal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Nachman Disagrees",
+    "candidates": [
+      "Cloak as Principal",
+      "Nachman Disagrees",
+      "Shmuel: Base vs. Tosefes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rav Shimi bar Ashi's inference that a cloak is karna/principal, and the objection from Rav Na\u1e25man that it is peira) directly discuss the 'cloak as principal' question, which is precisely what heading 0's prose addresses \u2014 the inference from Rav Kahana that a cloak brought into a marriage is treated as principal, not produce.",
+      "chosen_heading": "Cloak as Principal",
+      "current_heading": "Nachman Disagrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Shmuel: Base vs. Tosefes",
+    "candidates": [
+      "Shmuel: Base vs. Tosefes",
+      "Anti-Halachic Women",
+      "Divorced Woman Keeps Item"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Shmuel's ruling distinguishing the base ketubah (maneh/masayim) from the tosefes, and the baraita confirming it \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Shmuel: Base vs. Tosefes",
+      "current_heading": "Shmuel: Base vs. Tosefes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Divorced Woman Keeps Item",
+    "candidates": [
+      "Anti-Halachic Women",
+      "Divorced Woman Keeps Item",
+      "Huna: Adultery/Clothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both women who violate Jewish law (overet al dat) losing all ketubah rights AND the shem ra case in one continuous text, but the prose under heading 0 ('Anti-Halachic Women') explicitly describes 'ein lahem tosefes, v'chol sheken maneh masayim' which matches the first half of the passage, and the shem ra clause at the end is part of the same Talmudic unit \u2014 heading 0's prose is a clearly better match for the passage's primary content than the current placement under 'Divorced Woman Keeps Item' which only addresses the shem ra portion.",
+      "chosen_heading": "Anti-Halachic Women",
+      "current_heading": "Divorced Woman Keeps Item",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Huna: Adultery/Clothing",
+    "candidates": [
+      "Divorced Woman Keeps Item",
+      "Huna: Adultery/Clothing",
+      "Worn Clothing Forfeiture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rav Huna's ruling that adultery does not forfeit worn clothing, which is exactly what heading 1 ('Huna: Adultery/Clothing') describes in its prose.",
+      "chosen_heading": "Huna: Adultery/Clothing",
+      "current_heading": "Huna: Adultery/Clothing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Worn Clothing Forfeiture",
+    "candidates": [
+      "Worn Clothing Forfeiture",
+      "Consensus: Adulteress",
+      "Huna: Ailonit & Knowledge",
+      "Almanah: No Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the same dispute about whether an adulteress forfeits her extant worn clothing, with item 1 presenting Rav Na\u1e25man's correction and item 2 attributing the stricter view to Rabbi Mena\u1e25em \u2014 exactly the content described in candidate 0's prose, while candidate 1 ('Consensus: Adulterist') describes the same material but as a resolution/summary that fits after the dispute is laid out, and the current placement under 'Worn Clothing Forfeiture' correctly captures both the dispute and its resolution as one continuous unit.",
+      "chosen_heading": "Worn Clothing Forfeiture",
+      "current_heading": "Worn Clothing Forfeiture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Almanah: No Knowledge",
+    "candidates": [
+      "Consensus: Adulteress",
+      "Huna: Ailonit & Knowledge",
+      "Almanah: No Knowledge",
+      "Yehudah: Ailonit Almanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav Huna's principle about the ailonit (wife and not a wife) with the knowledge-based distinction, which is precisely what heading 1 'Huna: Ailonit & Knowledge' describes; the almanah contrast is part of Rav Huna's same statement and belongs with the ailonit ruling under that heading, not under the separate 'Almanah: No Knowledge' heading where it currently sits.",
+      "chosen_heading": "Huna: Ailonit & Knowledge",
+      "current_heading": "Almanah: No Knowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Yehudah: Ailonit Almanah",
+    "candidates": [
+      "Almanah: No Knowledge",
+      "Yehudah: Ailonit Almanah",
+      "Metivta: Declaration vs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda's ruling that both ailonit and almanah follow the same knowledge-based rule, which is precisely what the 'Yehudah: Ailonit Almanah' section's prose describes and analyzes.",
+      "chosen_heading": "Yehudah: Ailonit Almanah",
+      "current_heading": "Yehudah: Ailonit Almanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Metivta: Declaration vs",
+    "candidates": [
+      "Metivta: Declaration vs",
+      "Huna's Misreading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain \u2014 objection from baraita, reinterpretation, counter-question, and second baraita refutation \u2014 that collectively constitute the tiyuvta of Rav Huna, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Metivta: Declaration vs",
+      "current_heading": "Metivta: Declaration vs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Huna's Misreading",
+    "candidates": [
+      "Huna's Misreading",
+      "Resolution: Ailonit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Huna being misled by the mishna and his reasoning about the ailonit/almanah distinction, which exactly matches the 'Huna's Misreading' prose, while candidate 1 covers the gemara's resolution (the corrective explanation), which is only the final clause of this passage.",
+      "chosen_heading": "Huna's Misreading",
+      "current_heading": "Huna's Misreading",
+      "moved": false
+    }
+  }
+]

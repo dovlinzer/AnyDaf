@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Consequences of Impurity",
+    "candidates": [
+      "Opening Remarks",
+      "Perek Focus & Exceptions",
+      "Practical Relevance",
+      "First List Items",
+      "Half-Kav Bones",
+      "Quarter-Kav Exception",
+      "Three Modes of Tumah",
+      "Barley-Grain Bone",
+      "Consequences of Impurity",
+      "Yehuda's Warning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Modes of Tumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna text listing the three modes of tumah (maga, massa, ohel) and the barley-grain bone exception, which directly corresponds to heading 6 'Three Modes of Tumah' whose prose discusses exactly 'v'al magaan v'al masaan v'al ahilan' and the barley-grain bone's limited tumah scope.",
+      "second_heading": "Consequences of Impurity",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mishna text about the consequences of impurity (shaving, sprinkling on days three and seven, negating prior days, bringing offerings), which directly matches heading 8 'Consequences of Impurity' whose prose explicitly discusses these exact consequences.",
+      "current_heading": "Consequences of Impurity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Yehuda's Warning",
+    "candidates": [
+      "Yehuda's Warning",
+      "Sumchos Forces Entry",
+      "Yehuda's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose describes \u2014 Rabbi Yehuda's warning to his students not to admit Rabbi Meir's students, including the characterization of them as kantranim \u2014 and ends just as Sumchos forces entry, which is the subject of heading 1.",
+      "chosen_heading": "Yehuda's Warning",
+      "current_heading": "Yehuda's Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Yehuda's Objection",
+    "candidates": [
+      "Sumchos Forces Entry",
+      "Yehuda's Objection",
+      "Yosi's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Sumchos reporting Rabbi Meir's teaching (matching heading 0's prose about Sumchos forcing entry and citing Rabbi Meir) and Rabbi Yehuda's angry objection (matching heading 1), but since it is a single continuous unit that begins with Sumchos's report \u2014 which is the trigger for everything \u2014 and heading 0's prose explicitly describes this exact quote ('kach shana li Rabbi Meir... listing both al hameis and al kezayis min hameis'), the passage is a better fit under heading 0, with Yehuda's reaction being the natural conclusion of that same narrative beat already described there.",
+      "chosen_heading": "Sumchos Forces Entry",
+      "current_heading": "Yehuda's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Yosi's Defense",
+    "candidates": [
+      "Yehuda's Objection",
+      "Yosi's Defense",
+      "Nefel Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei's defense of Torah honor (yomru Meir shachav...) and his justification for the explicit statement about a corpse without an olive-bulk of flesh, which is precisely what the 'Yosi's Defense' section prose describes.",
+      "chosen_heading": "Yosi's Defense",
+      "current_heading": "Yosi's Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Nefel Discussion",
+    "candidates": [
+      "Nefel Discussion",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's formulation about a nefel whose limbs had not yet become joined to sinews, which is precisely what the 'Nefel Discussion' prose describes and analyzes.",
+      "chosen_heading": "Nefel Discussion",
+      "current_heading": "Nefel Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Torah vs. Personalities",
+      "Netzel Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about rov binyano and rov minyano without a quarter-kav of bones, which is precisely what the 'Rava's Answer' section discusses in detail.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Netzel Definition",
+    "candidates": [
+      "Torah vs. Personalities",
+      "Netzel Definition",
+      "Identifying Netzel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines netzel as congealed flesh and boiled liquid, which directly matches the 'Netzel Definition' prose that explains exactly these two definitions (basar hameis shekarash and mochal she'hirtiach).",
+      "chosen_heading": "Netzel Definition",
+      "current_heading": "Netzel Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Identifying Netzel",
+    "candidates": [
+      "Identifying Netzel",
+      "Netzel for Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question-and-answer sequence about the role of congealing in identifying netzel, which is precisely what the 'Identifying Netzel' prose discusses in detail.",
+      "chosen_heading": "Identifying Netzel",
+      "current_heading": "Identifying Netzel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Netzel for Animals",
+    "candidates": [
+      "Netzel for Animals",
+      "Tumat Chamurah Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's dilemma about whether netzel applies to animals, which is exactly what the 'Netzel for Animals' section prose describes.",
+      "chosen_heading": "Netzel for Animals",
+      "current_heading": "Netzel for Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Tumat Chamurah Doctrine",
+    "candidates": [
+      "Tumat Chamurah Doctrine",
+      "Question Moot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's contrast between the two opinions (tumah chamurah ad lager vs. ad lekelev) specifically to show when the netzel question is moot vs. still live \u2014 which is precisely what the 'Question Moot' prose discusses, not the doctrinal explanation of the principle itself covered in 'Tumat Chamurah Doctrine'.",
+      "chosen_heading": "Question Moot",
+      "current_heading": "Tumat Chamurah Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Question Moot",
+    "candidates": [
+      "Tumat Chamurah Doctrine",
+      "Question Moot",
+      "Pouring Not Connected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the tosefta challenge and its resolution (asrach/dust deflection) that candidate 1's prose explicitly describes as part of the lekelev discussion, matching perfectly.",
+      "chosen_heading": "Question Moot",
+      "current_heading": "Question Moot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Pouring Not Connected",
+    "candidates": [
+      "Pouring Not Connected",
+      "Honey Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about nitzok (pouring) being tahor, which is precisely what heading 0 discusses, not the honey exceptions of heading 1.",
+      "chosen_heading": "Pouring Not Connected",
+      "current_heading": "Pouring Not Connected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Honey Exception",
+    "candidates": [
+      "Honey Exception",
+      "Beit Shammai View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the exception for zifim honey and batter (tzapichit), which matches exactly the 'Honey Exception' section's prose about thick honey and waxy cakes being treated as solids rather than liquids.",
+      "chosen_heading": "Honey Exception",
+      "current_heading": "Honey Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Beit Shammai View",
+    "candidates": [
+      "Beit Shammai View",
+      "Nitzok Question",
+      "Two Criteria",
+      "Fat of Corpse Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Shammai View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Beit Shammai statement about thick porridge pulling back, which is precisely what the 'Beit Shammai View' prose discusses.",
+      "second_heading": "Nitzok Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rami bar \u1e24ama's dilemma about whether nitzok applies to foods, which is exactly what the 'Nitzok Question' prose introduces.",
+      "current_heading": "Beit Shammai View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Fat of Corpse Proof",
+    "candidates": [
+      "Nitzok Question",
+      "Two Criteria",
+      "Fat of Corpse Proof",
+      "Liquefied Fat Paradox",
+      "Rav Zeira Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's proof directly addresses the question of whether nitzok applies to foods (yesh/ein nitzok le'ochlin), which is precisely what the 'Nitzok Question' section introduces, not the fat-of-corpse analysis that comes later.",
+      "chosen_heading": "Nitzok Question",
+      "current_heading": "Fat of Corpse Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Zeira Answer",
+    "candidates": [
+      "Liquefied Fat Paradox",
+      "Rav Zeira Answer",
+      "Ravina-Ashi Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Zeira's explanation about the column of fire causing recongealing, which is precisely what the 'Rav Zeira Answer' section's prose describes and analyzes.",
+      "chosen_heading": "Rav Zeira Answer",
+      "current_heading": "Rav Zeira Answer",
+      "moved": false
+    }
+  }
+]

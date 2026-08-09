@@ -126,7 +126,7 @@
           "timestamp": "20:59"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -333,7 +333,7 @@
           "timestamp": "50:20"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -371,7 +371,7 @@
           "timestamp": "53:26"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -806,5 +806,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 13,
+  "amud_b_timestamp": "52:01",
+  "amud_b_micro_title": "Local Official",
+  "shiur_start_daf": 80,
+  "shiur_start_amud": "a"
 }

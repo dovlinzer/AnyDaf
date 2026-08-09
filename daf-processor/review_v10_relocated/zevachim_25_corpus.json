@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Rabbi Shimon & Kabbalah",
+    "candidates": [
+      "Rabbi Shimon & Kabbalah",
+      "Etzba vs. Kohen",
+      "Chatas, Olah, Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is entirely about Rava's principle that either 'etzba' or 'kehunah' triggers the right-hand requirement, followed by Abaye's challenges and resolutions \u2014 exactly what candidate 1 ('Etzba vs. Kohen') describes in its prose.",
+      "chosen_heading": "Etzba vs. Kohen",
+      "current_heading": "Rabbi Shimon & Kabbalah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Chatas, Olah, Mincha",
+    "candidates": [
+      "Etzba vs. Kohen",
+      "Chatas, Olah, Mincha",
+      "Rava's Yad Yad",
+      "Taking vs. Receiving",
+      "Extra Yad Needed",
+      "No Kiddush Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are directly about the 'etzba vs. kohen' principle \u2014 specifically whether a verse mentioning only 'kohen' (without 'etzba') suffices to impose the right-hand requirement according to Rabbi Shimon, which is exactly what heading 0 ('Etzba vs. Kohen') describes in its prose.",
+      "chosen_heading": "Etzba vs. Kohen",
+      "current_heading": "Chatas, Olah, Mincha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "No Kiddush Kometz",
+    "candidates": [
+      "Rava's Yad Yad",
+      "Taking vs. Receiving",
+      "Extra Yad Needed",
+      "No Kiddush Kometz",
+      "Kohen as Kli Sharet",
+      "Kodesh Kodashim Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The current heading 'No Kiddush Kometz' prose explicitly discusses Rabbi Shimon's permitting left hand for kabbalas ha-dam, his not requiring kiddush kometz, and the resulting challenge to Rava's yad-yad gezerah shavah \u2014 all four items fit this section perfectly.",
+      "chosen_heading": "No Kiddush Kometz",
+      "current_heading": "No Kiddush Kometz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Kodesh Kodashim Drasha",
+    "candidates": [
+      "Kohen as Kli Sharet",
+      "Kodesh Kodashim Drasha",
+      "Hand vs. Vessel",
+      "Sinner's Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the core drasha from 'kodesh kodashim hi k'chatas v'k'asham' and its interpretation regarding hand vs. vessel, which is precisely what the 'Kodesh Kodashim Drasha' prose section describes.",
+      "chosen_heading": "Kodesh Kodashim Drasha",
+      "current_heading": "Kodesh Kodashim Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Sinner's Mincha",
+    "candidates": [
+      "Hand vs. Vessel",
+      "Sinner's Mincha",
+      "Even Sinner Needs Right",
+      "Chachamim Universal",
+      "Body vs. Vessel",
+      "Mishna Spilled Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states 'lo nitzrecha ela le-kometz minchas chotei' and explains that Rava's yad yad teaches even the sinner's mincha requires the right hand \u2014 which is precisely what candidate 2 ('Even Sinner Needs Right') discusses, using nearly identical language and concepts.",
+      "chosen_heading": "Even Sinner Needs Right",
+      "current_heading": "Sinner's Mincha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Mishna Spilled Blood",
+    "candidates": [
+      "Even Sinner Needs Right",
+      "Chachamim Universal",
+      "Body vs. Vessel",
+      "Mishna Spilled Blood",
+      "Midam Hapar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Mishna about blood spilled on the floor before collection, which is precisely what the 'Mishna Spilled Blood' section's prose discusses.",
+      "chosen_heading": "Mishna Spilled Blood",
+      "current_heading": "Mishna Spilled Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Midam Hapar",
+    "candidates": [
+      "Midam Hapar",
+      "Mem Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three types of blood excluded from the priestly collection (blood of soul vs. skin vs. exudate), which is precisely what the prose under 'Midam Hapar' describes.",
+      "chosen_heading": "Midam Hapar",
+      "current_heading": "Midam Hapar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Mem Derivation",
+    "candidates": [
+      "Mem Derivation",
+      "Raising Knife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the mem derivation technique (gorin u-mosifin ve-dorshin) and Rav's teaching about collecting all the blood, which is precisely what the 'Mem Derivation' prose section describes.",
+      "chosen_heading": "Mem Derivation",
+      "current_heading": "Mem Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Raising Knife",
+    "candidates": [
+      "Raising Knife",
+      "Knife Contamination",
+      "Wiping Knife"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Knife Contamination",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss collecting all the blood of the bull and the derivation from the verse about remainder blood \u2014 matching candidate 1 'Knife Contamination' only loosely, but actually best fitting under a heading about blood collection; however, candidate 1's prose about the knife-blood being analogous to blood spilled on the floor and the requirement for direct flow from animal to vessel is a better match than candidate 0 ('Raising Knife') for items 1-2, since items 1-2 concern the collection requirement and the verse interpretation, not the knife-raising ruling.",
+      "second_heading": "Raising Knife",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is exactly the ruling about raising the knife after slaughter (Rav Yehuda in Shmuel's name, yagbi'a sakin le-ma'alah) which is precisely what candidate 0 'Raising Knife' discusses in its prose.",
+      "current_heading": "Raising Knife",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Wiping Knife",
+    "candidates": [
+      "Knife Contamination",
+      "Wiping Knife",
+      "Veins Positioning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses wiping blood from the knife using the rim of the bowl, which is precisely what the 'Wiping Knife' section discusses.",
+      "chosen_heading": "Wiping Knife",
+      "current_heading": "Wiping Knife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Veins Positioning",
+    "candidates": [
+      "Veins Positioning",
+      "Bottom Falls Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the requirement for positioning the severed veins over the vessel (ridin l'toch ha-kli / ridin tzarichin she-yiru avir kli), which is precisely what the 'Veins Positioning' prose section describes.",
+      "chosen_heading": "Veins Positioning",
+      "current_heading": "Veins Positioning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Bottom Falls Out",
+    "candidates": [
+      "Bottom Falls Out",
+      "Water Para Aduma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Asi's dilemma about the bottom of the bowl breaking before blood reaches the airspace, which matches exactly what the 'Bottom Falls Out' section's prose discusses.",
+      "chosen_heading": "Bottom Falls Out",
+      "current_heading": "Bottom Falls Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Water Para Aduma",
+    "candidates": [
+      "Water Para Aduma",
+      "Airspace Keshesofo Lanua",
+      "Indirect Vessel Entry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the barrel/pipe baraita about Para Aduma water, which is precisely what candidate 0's prose describes and analyzes in detail.",
+      "chosen_heading": "Water Para Aduma",
+      "current_heading": "Water Para Aduma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Indirect Vessel Entry",
+    "candidates": [
+      "Airspace Keshesofo Lanua",
+      "Indirect Vessel Entry",
+      "Edible Items Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Rav Yosef/Rav Kahana/Rabba versions of the Rav Assi\u2013Rabbi Yochanan exchange about airspace (avir she-sofo lanuach vs. ein sofo lanuach), which is precisely what candidate 0's prose describes, whereas candidate 1's prose discusses the resolution/conclusion of that same topic and candidate 2 shifts to an entirely different Mishnah about edible items.",
+      "chosen_heading": "Airspace Keshesofo Lanua",
+      "current_heading": "Indirect Vessel Entry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Edible Items Invalid",
+    "candidates": [
+      "Indirect Vessel Entry",
+      "Edible Items Invalid",
+      "Tahara Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah about hands, feet, vegetable leaves, reed leaves, and nut leaves as conduits for Para Aduma water, along with the principle about susceptibility to tumah \u2014 exactly what the 'Edible Items Invalid' prose describes.",
+      "chosen_heading": "Edible Items Invalid",
+      "current_heading": "Edible Items Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Tahara Source",
+    "candidates": [
+      "Tahara Source",
+      "Hand Transport Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the rule from the verse about purity (Leviticus 11:36), directly matching the 'Tahara Source' prose which discusses exactly this verse and the principle that havayatan must occur al yedei taharah.",
+      "chosen_heading": "Tahara Source",
+      "current_heading": "Tahara Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Hand Transport Problem",
+    "candidates": [
+      "Hand Transport Problem",
+      "Passing Water Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the avir kli principle as a conclusion drawn from the mishna about water flowing from one's hand into a barrel, which matches the 'Hand Transport Problem' prose that explains exactly this derivation \u2014 the current placement is correct.",
+      "chosen_heading": "Hand Transport Problem",
+      "current_heading": "Hand Transport Problem",
+      "moved": false
+    }
+  }
+]

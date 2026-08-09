@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Three Attributes",
+    "candidates": [
+      "Yetzer Hara Removal",
+      "Historical Context",
+      "Keruvim & Idolatry",
+      "Rav Kook Leibowitz Debate",
+      "Rav Kook's Position",
+      "Leibowitz Critique",
+      "Apollo-Dionysian Tension",
+      "Three Attributes",
+      "Prophets & Their Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Giddel/Rav Mattana's debate about 'gadol' and Rabbi Yehoshua ben Levi's explanation of why the Men of the Great Assembly were so named \u2014 are precisely what the 'Three Attributes' prose section describes, making the current placement correct.",
+      "chosen_heading": "Three Attributes",
+      "current_heading": "Three Attributes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Prophets & Their Times",
+    "candidates": [
+      "Prophets & Their Times",
+      "Truth in Liturgy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Anshei Knesset HaGedolah's reinterpretation of God's might and awesomeness, which is precisely what the 'Prophets & Their Times' prose discusses in detail, including the exact phrases kovesh es yitzro, erech apayim lareshaim, and the survival of Israel among the nations.",
+      "chosen_heading": "Prophets & Their Times",
+      "current_heading": "Prophets & Their Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Truth in Liturgy",
+    "candidates": [
+      "Truth in Liturgy",
+      "Tradition vs. Truth",
+      "Jumping Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Elazar's answer about why Jeremiah and Daniel could omit Moshe's formulation \u2014 because God is truthful and they could not lie about Him \u2014 which is precisely what the 'Truth in Liturgy' prose discusses, including the specific phrase 'amiti' and the reasoning about not speaking falsely about God.",
+      "chosen_heading": "Truth in Liturgy",
+      "current_heading": "Truth in Liturgy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Jumping Rules",
+    "candidates": [
+      "Tradition vs. Truth",
+      "Jumping Rules",
+      "Single Topic Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the contradiction between skipping in Torah vs. Prophets, and its resolution via the turgeman/translator criterion \u2014 are precisely what candidate 1 ('Jumping Rules') describes in its prose, making it the clear and correct home for this passage.",
+      "chosen_heading": "Jumping Rules",
+      "current_heading": "Jumping Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Single Topic Exception",
+    "candidates": [
+      "Single Topic Exception",
+      "Absorption & Continuity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-resolution sequence (the baraita challenges a prior resolution, then Abaye resolves it with the single-topic/two-topics distinction), and the 'Absorption & Continuity' prose explicitly discusses Abaye's clarification about single vs. multiple topics in the context of listener absorption \u2014 which is precisely what these two items introduce and resolve.",
+      "chosen_heading": "Absorption & Continuity",
+      "current_heading": "Single Topic Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Absorption & Continuity",
+    "candidates": [
+      "Single Topic Exception",
+      "Absorption & Continuity",
+      "Trei Asar Order",
+      "Avoiding Scroll Delay",
+      "Torah Integrity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses skipping within Torah (one topic) vs. Prophets (two topics), not skipping between prophetic books, but permitting skipping within Trei Asar, and the prohibition against going backward \u2014 all of which is precisely what candidate 2 ('Trei Asar Order') describes in its prose.",
+      "chosen_heading": "Trei Asar Order",
+      "current_heading": "Absorption & Continuity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Torah Integrity",
+    "candidates": [
+      "Trei Asar Order",
+      "Avoiding Scroll Delay",
+      "Torah Integrity",
+      "Switching Scrolls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Kohen Gadol's declaration before reciting from memory and its purpose of avoiding aspersions on the Torah scroll, which is precisely what the 'Torah Integrity' section's prose describes.",
+      "chosen_heading": "Torah Integrity",
+      "current_heading": "Torah Integrity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Switching Scrolls",
+    "candidates": [
+      "Switching Scrolls",
+      "Blessing Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about why the High Priest reads the Numbers portion by heart rather than furling the scroll or bringing a second scroll, which is precisely what the 'Switching Scrolls' prose section discusses in detail.",
+      "chosen_heading": "Switching Scrolls",
+      "current_heading": "Switching Scrolls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Blessing Structure",
+    "candidates": [
+      "Blessing Structure",
+      "Shomea Tefillah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage enumerates all eight blessings recited by the High Priest after the Torah reading, which is precisely what the 'Blessing Structure' section's prose discusses in detail.",
+      "chosen_heading": "Blessing Structure",
+      "current_heading": "Blessing Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Shomea Tefillah",
+    "candidates": [
+      "Shomea Tefillah",
+      "Sacrifice to Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines the eighth bracha 'shear tefillah' with the formula 'rinah tchinah bakashah' and its seal 'shome'a tefillah,' which is precisely what the prose under heading 0 ('Shomea Tefillah') discusses.",
+      "chosen_heading": "Shomea Tefillah",
+      "current_heading": "Shomea Tefillah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Sacrifice to Prayer",
+    "candidates": [
+      "Sacrifice to Prayer",
+      "First Linen Set",
+      "First Gold Set"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Mishnah teaching about the High Priest reading Torah and the burned bull and goat being performed simultaneously, which directly relates to the 'First Linen Set' section describing the Kohen Gadol's Torah reading in white linen garments during Yom Kippur's central avodah.",
+      "chosen_heading": "First Linen Set",
+      "current_heading": "Sacrifice to Prayer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "First Gold Set",
+    "candidates": [
+      "First Linen Set",
+      "First Gold Set",
+      "Rabbi Eliezer Split",
+      "Rabbi Akiva Morning",
+      "Second Linen Set",
+      "Third Gold Set",
+      "Personal Garments"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "First Linen Set",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a Gemara conclusion about the 'multitude of people' principle relating to the Torah reading in white linen garments, which belongs under 'First Linen Set' that discusses the Torah reading phase.",
+      "second_heading": "First Gold Set",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new Mishna detailing the garment-change sequence from linen to gold after the Torah reading, which fits the 'First Gold Set' section describing the change into golden garments and subsequent offerings.",
+      "current_heading": "First Gold Set",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Personal Garments",
+    "candidates": [
+      "Rabbi Eliezer Split",
+      "Rabbi Akiva Morning",
+      "Second Linen Set",
+      "Third Gold Set",
+      "Personal Garments",
+      "Mishnah Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the High Priest donning his personal clothes (bigdei atzmo) after completing the service, being escorted home, and making a feast for his loved ones \u2014 exactly what the 'Personal Garments' section prose discusses.",
+      "chosen_heading": "Personal Garments",
+      "current_heading": "Personal Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Mishnah Ambiguity",
+    "candidates": [
+      "Mishnah Ambiguity",
+      "Baraita Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present the Gemara's dilemmas about Rabbi Akiva's ambiguous statement and the unresolved questions about the bull, goat, and imurei chatat \u2014 exactly what the 'Mishnah Ambiguity' prose describes in detail.",
+      "chosen_heading": "Mishnah Ambiguity",
+      "current_heading": "Mishnah Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Baraita Clarification",
+    "candidates": [
+      "Baraita Clarification",
+      "Scriptural Linking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's statement identifying the two valid sources and the baraita from the school of Shmuel presenting Rabbi Eliezer's position \u2014 are precisely the content described in candidate 0's prose about the baraita clarification.",
+      "chosen_heading": "Baraita Clarification",
+      "current_heading": "Baraita Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Scriptural Linking",
+    "candidates": [
+      "Scriptural Linking",
+      "Akiva Ordering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Akiva's Tosefta opinion with its scriptural basis (milvad olas haboker), which is precisely what the 'Scriptural Linking' section's prose discusses \u2014 the scriptural linkage principle underlying Rabbi Akiva's position.",
+      "chosen_heading": "Scriptural Linking",
+      "current_heading": "Scriptural Linking",
+      "moved": false
+    }
+  }
+]

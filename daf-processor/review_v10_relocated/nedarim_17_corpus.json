@@ -1,0 +1,201 @@
+[
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Logic Constraints",
+    "candidates": [
+      "Opening & Prior Issues",
+      "Language & Effect Scope",
+      "New Mishna Overview",
+      "Nazir as Status",
+      "Conditional Nazir",
+      "Hovering Nezirut",
+      "No Overlay Principle",
+      "Parallel Shevua Case",
+      "Mushba Ve'omed",
+      "Shevua Concepts",
+      "Shevua on Mitzvot",
+      "Parallel Structures",
+      "Logic Constraints",
+      "Nezirut Termination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna passage introducing 'yesh neder betoch neder ve'ein shevua betoch shevua' with its nazirite example is precisely what the 'New Mishna Overview' section describes as the content of daf 17's new mishna.",
+      "chosen_heading": "New Mishna Overview",
+      "current_heading": "Logic Constraints",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Nezirut Termination",
+    "candidates": [
+      "Logic Constraints",
+      "Nezirut Termination",
+      "Distinction Required",
+      "Extra Day Principle",
+      "Two Interpretations",
+      "Complete Identity",
+      "Mishna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna's distinction between 'nazir today/nazir tomorrow' versus 'nazir today/nazir today,' which is precisely what the 'Distinction Required' section's prose describes.",
+      "chosen_heading": "Distinction Required",
+      "current_heading": "Nezirut Termination",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Mishna Challenge",
+    "candidates": [
+      "Distinction Required",
+      "Extra Day Principle",
+      "Two Interpretations",
+      "Complete Identity",
+      "Mishna Challenge",
+      "Figs-Grapes Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge to Rav Huna from the mishna \u2014 asking why the mishna didn't distinguish between shifted and identical nazirite declarations \u2014 and the conclusion that it is 'difficult,' which is precisely what candidate 4 ('Mishna Challenge') describes in its prose.",
+      "chosen_heading": "Mishna Challenge",
+      "current_heading": "Mishna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Figs-Grapes Query",
+    "candidates": [
+      "Figs-Grapes Query",
+      "Rava's Example",
+      "Implication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous challenge-and-response sequence about the mishna's 'vow within a vow / oath within an oath' and Rav Huna's position, which is precisely what the 'Figs-Grapes Query' prose discusses \u2014 the analogous shevua case involving figs and grapes and whether a second oath takes effect when there is partial non-overlap.",
+      "chosen_heading": "Figs-Grapes Query",
+      "current_heading": "Figs-Grapes Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Implication",
+    "candidates": [
+      "Rava's Example",
+      "Implication",
+      "Disagreement",
+      "Redundancy",
+      "Distinctness Model",
+      "Single Statement",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabba's ruling about figs-and-grapes oaths and its implication that the second shevua took effect, which matches heading 0 ('Rava's Example') whose prose describes exactly this scenario \u2014 the figs-and-grapes oath, the korban separation, and the chatzi shiur ruling \u2014 rather than the current placement under 'Implication' which discusses the interpretive consequences of that ruling (a separate analytical step).",
+      "chosen_heading": "Rava's Example",
+      "current_heading": "Implication",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Disagreement",
+      "Redundancy",
+      "Distinctness Model",
+      "Single Statement",
+      "Case Setup",
+      "Retroactive Effect",
+      "Rav Huna Defense",
+      "Rav Huna's Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items present the baraita about two neziruyot and the Gemara's interrogation of its circumstances (hayom/lemakhar vs. hayom/hayom), which is precisely the content of the 'Rav Huna Defense' prose \u2014 defending Rav Huna by reading the case as one with temporal offset (hayom/lemakhar), not the identical double declaration.",
+      "chosen_heading": "Rav Huna Defense",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Rav Huna's Concession",
+    "candidates": [
+      "Retroactive Effect",
+      "Rav Huna Defense",
+      "Rav Huna's Concession",
+      "Sequential vs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Huna Defense",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 constitute the refutation of Rav Huna and the Gemara's defense via hayom/lemakhar or simultaneous acceptance, which matches the 'Rav Huna Defense' prose exactly.",
+      "second_heading": "Rav Huna's Concession",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 form a new objection from Rav Hamnuna and its resolution via kibel shtei nezirus be'vas achas, matching the 'Rav Huna's Concession' prose which explicitly discusses simultaneous acceptance and Rav Huna's agreement in that case.",
+      "current_heading": "Rav Huna's Concession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Sequential vs",
+    "candidates": [
+      "Sequential vs",
+      "Ran's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses the comparative stringency of oaths versus vows, which doesn't align well with either candidate's prose about sequential nezirut declarations and hatara \u2014 but the Ran's Solution section, dealing with vows (nedarim) and their nullification, is marginally closer than the Sequential vs section, though neither is a strong match.",
+      "chosen_heading": "Ran's Solution",
+      "current_heading": "Sequential vs",
+      "moved": true
+    }
+  }
+]

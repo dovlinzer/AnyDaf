@@ -1,0 +1,348 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Shelamim Lishmah Review",
+    "candidates": [
+      "Shelamim Lishmah Review",
+      "Four Avodot Lishmah",
+      "Zerika as Root",
+      "Ravina Klal Prat Klal",
+      "Rav Achai Objection",
+      "Rabbi Yishmael Method",
+      "Expansion Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together constitute Ravina's klal u-prat u-klal answer (item 1), the objection by Rav A\u1e25a of Difti that the two klalim are dissimilar (item 2), and Ravina's resolution via the school of Rabbi Yishmael concluding with mah haprat meforash avodah u-veinan lishmah (item 3) \u2014 which is precisely what candidate 3 ('Ravina Klal Prat Klal') describes, and candidates 4 and 5 cover the objection and Rabbi Yishmael response as sub-components of that same derivation unit.",
+      "chosen_heading": "Ravina Klal Prat Klal",
+      "current_heading": "Shelamim Lishmah Review",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Expansion Principles",
+    "candidates": [
+      "Four Avodot Lishmah",
+      "Zerika as Root",
+      "Ravina Klal Prat Klal",
+      "Rav Achai Objection",
+      "Rabbi Yishmael Method",
+      "Expansion Principles",
+      "Shkulim Hem Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items present the two alternative ways of applying 'k'ein haprat' \u2014 one based on liability for performing avodah outside the Temple (yielding shechitah and zerikah) and one based on tzafun and chatat ha-penimiyot (yielding shechitah and kabbalah) \u2014 which is precisely what the 'Expansion Principles' prose describes.",
+      "chosen_heading": "Expansion Principles",
+      "current_heading": "Expansion Principles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Shkulim Hem Principle",
+    "candidates": [
+      "Shkulim Hem Principle",
+      "Zot HaTorah Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to content explicitly described in the 'Shkulim Hem Principle' prose: item 1 covers the shkulim hem / ika lemaimar hachi principle and the alternative chada v'chada teki b'milsa formulation, and item 2 covers the zrikah mid'Rav Ashi nafka alternative approach \u2014 all three of which are specifically discussed in that section's prose.",
+      "chosen_heading": "Shkulim Hem Principle",
+      "current_heading": "Shkulim Hem Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Zot HaTorah Expansion",
+    "candidates": [
+      "Zot HaTorah Expansion",
+      "Should It Be Invalid?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of question-and-answer extending the lishmah requirement from eil nazir to shelamim to all korbanot, which is precisely what the 'Zot HaTorah Expansion' prose describes.",
+      "chosen_heading": "Zot HaTorah Expansion",
+      "current_heading": "Zot HaTorah Expansion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Should It Be Invalid?",
+    "candidates": [
+      "Should It Be Invalid?",
+      "Meakev Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives from a verse that all offerings are equated to peace offerings requiring lishmah for both shinuy kodesh and shinuy baalim \u2014 this is precisely the source being discussed in the Meakev Requirements section, which specifically mentions shinuy kodesh and multiple pesukim as the basis for raising the question of pesul.",
+      "chosen_heading": "Meakev Requirements",
+      "current_heading": "Should It Be Invalid?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Meakev Requirements",
+    "candidates": [
+      "Should It Be Invalid?",
+      "Meakev Requirements",
+      "Motza Sefatecha Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks exactly why a korban slaughtered shelo lishmah should not be disqualified \u2014 which matches heading 0's prose ('ema, heicha de-shachatei shelo lishmah lifselu \u2014 why should a korban performed shelo lishmah not simply be rendered invalid entirely?') precisely, not the meakev principle discussion of heading 1.",
+      "chosen_heading": "Should It Be Invalid?",
+      "current_heading": "Meakev Requirements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Motza Sefatecha Pasuk",
+    "candidates": [
+      "Motza Sefatecha Pasuk",
+      "Three Pesukim Combined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's interpretation of the motza sefatecha verse (Deuteronomy 23:24), explaining how neder vs. nedavah status depends on proper performance, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Motza Sefatecha Pasuk",
+      "current_heading": "Motza Sefatecha Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Three Pesukim Combined",
+    "candidates": [
+      "Three Pesukim Combined",
+      "Reish Lakish: Mid Status",
+      "Olah After Death Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the necessity of both 'motza sefatecha' and 'zot hatorah' and what each contributes \u2014 exactly what candidate 0's prose describes about the two pesukim being mutually necessary and complementary.",
+      "chosen_heading": "Three Pesukim Combined",
+      "current_heading": "Three Pesukim Combined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Olah After Death Example",
+    "candidates": [
+      "Reish Lakish: Mid Status",
+      "Olah After Death Example",
+      "Asham Not After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 12 items form a continuous discussion of Reish Lakish's conceptual challenge about the intermediate status of offerings (kasher but not mirtza), including Rabbi Elazar's responses, Reish Lakish's dismissal, and the subsequent resolution via Abaye \u2014 all directly addressing the logical tension Reish Lakish raised, which is precisely what heading 0 ('Reish Lakish: Mid Status') describes in its prose.",
+      "chosen_heading": "Reish Lakish: Mid Status",
+      "current_heading": "Olah After Death Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Asham Not After Death",
+    "candidates": [
+      "Olah After Death Example",
+      "Asham Not After Death",
+      "Reish Lakish: Motza Sefat",
+      "Gemara Challenges Motza",
+      "Otah Lechatas Source",
+      "Chatat Distinction",
+      "Asham Meratze Question",
+      "Kal VaChomer Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items are part of the Gemara's dialectical argument establishing that an asham performed shelo lishmah does not propitiate \u2014 rejecting peace offering as proof, then using burnt offering in a combined inference \u2014 which is exactly the kal va-chomer / comparative argument about olah and asham that section 7 ('Kal VaChomer Olah') discusses.",
+      "chosen_heading": "Kal VaChomer Olah",
+      "current_heading": "Asham Not After Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Kal VaChomer Olah",
+    "candidates": [
+      "Reish Lakish: Motza Sefat",
+      "Gemara Challenges Motza",
+      "Otah Lechatas Source",
+      "Chatat Distinction",
+      "Asham Meratze Question",
+      "Kal VaChomer Olah",
+      "Comparing Korbanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage continues the back-and-forth comparison of korbanot (todah, olah, shelamim, asham) through a series of objections and rebuttals \u2014 including 'todah tochiah,' 'mah le-todah she-kein te'unim lechem,' 'olah u-shelamim yochiachu,' 've-chazar ha-din,' and the final rejection via 'ba'in be-neder u-vindavah' \u2014 which matches exactly the 'Comparing Korbanot' prose describing the step-by-step Gemara challenges to the kal va-chomer, concluding with Rava's derivation from the hekesh of 'zot ha-torah.'",
+      "chosen_heading": "Comparing Korbanot",
+      "current_heading": "Kal VaChomer Olah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Comparing Korbanot",
+    "candidates": [
+      "Comparing Korbanot",
+      "Common Denominator",
+      "Rava's Zot HaTorah",
+      "Not Connected to Chatat",
+      "Otah Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks why we compare the asham to shelamim rather than to chatat, which is precisely the question that section 3 ('Not Connected to Chatat') discusses in its prose.",
+      "chosen_heading": "Not Connected to Chatat",
+      "current_heading": "Comparing Korbanot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Otah Exclusion",
+    "candidates": [
+      "Common Denominator",
+      "Rava's Zot HaTorah",
+      "Not Connected to Chatat",
+      "Otah Exclusion",
+      "Three Rabbis Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states that the Merciful One excluded other offerings via the word 'otah' (it), which is precisely the 'Otah Exclusion' content described in candidate 3's prose.",
+      "chosen_heading": "Otah Exclusion",
+      "current_heading": "Otah Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Three Rabbis Discussion",
+    "candidates": [
+      "Three Rabbis Discussion",
+      "Asham Reincarnated Form",
+      "Motaro Becomes Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the discussion among Rav Huna, Rav Na\u1e25man, and Rav Sheshet about Reish Lakish's difficulty with the asham, which is precisely what candidate 0 ('Three Rabbis Discussion') describes \u2014 the mnemonic introduces the participants, item 2 states the difficulty and Rabbi Elazar's potential answer, and item 3 is Rav Sheshet's immediate rejoinder within that same conversation.",
+      "chosen_heading": "Three Rabbis Discussion",
+      "current_heading": "Three Rabbis Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Motaro Becomes Olah",
+    "candidates": [
+      "Asham Reincarnated Form",
+      "Motaro Becomes Olah",
+      "Precedent: Middle Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the chatat/asham comparison via the word 'hu' and the motar exception, which is precisely what the prose of 'Motaro Becomes Olah' explains \u2014 the Gemara's response that chatat's motar case is excluded by 'hu' and the subsequent challenge that 'hu' is also written regarding asham.",
+      "chosen_heading": "Motaro Becomes Olah",
+      "current_heading": "Motaro Becomes Olah",
+      "moved": false
+    }
+  }
+]

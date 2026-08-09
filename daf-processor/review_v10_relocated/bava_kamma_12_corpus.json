@@ -1,0 +1,441 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Neharde'a & Pumbedita",
+    "candidates": [
+      "Gobvin min ha-avadim",
+      "Rav Nachman's objection",
+      "Ulla's real position",
+      "Neharde'a & Pumbedita",
+      "Rav Nachman's threat",
+      "Rava's challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ulla's real position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Ulla's true position revealed after Rav Nachman left, which is precisely what candidate 2 ('Ulla's real position') discusses.",
+      "second_heading": "Neharde'a & Pumbedita",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the incidents in Neharde'a and Pumbedita where judges collected from slaves, plus Rav Nachman's threat to reverse those rulings, which matches candidate 3 ('Neharde'a & Pumbedita') and candidate 4 \u2014 but since the Neharde'a/Pumbedita facts and Rav Nachman's threat are combined in one passage and candidate 3's prose discusses both cities while candidate 4 covers the threat separately, the current placement under candidate 3 is the best single home for this item.",
+      "current_heading": "Neharde'a & Pumbedita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rava's challenge",
+    "candidates": [
+      "Rav Nachman's threat",
+      "Rava's challenge",
+      "Rav Nachman's defense",
+      "Pruzbul on land/slaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rava directly challenging Rav Nachman by listing the authorities (Ulla, Rabbi Elazar, judges of Neharde'a, Rav Chana bar Bizna) and asking whose opinion he follows, which matches exactly the prose of 'Rava's challenge.'",
+      "chosen_heading": "Rava's challenge",
+      "current_heading": "Rava's challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Pruzbul on land/slaves",
+    "candidates": [
+      "Rav Nachman's defense",
+      "Pruzbul on land/slaves",
+      "Pruzbul principle",
+      "Kinyan Agav principle",
+      "Slaves third category",
+      "Tosafot's distinction",
+      "First braita details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with 'Rav Na\u1e25man said to him: I know a baraita' \u2014 which is precisely the moment described in candidate 0's prose ('ana matnita yedana \u2014 I know only the braita'), making candidate 0 the correct home for this passage rather than candidate 1 which discusses the content of the baraita separately.",
+      "chosen_heading": "Rav Nachman's defense",
+      "current_heading": "Pruzbul on land/slaves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "First braita details",
+    "candidates": [
+      "Pruzbul principle",
+      "Kinyan Agav principle",
+      "Slaves third category",
+      "Tosafot's distinction",
+      "First braita details",
+      "Kinyan Agav explained",
+      "Slaves and chattel",
+      "Second braita intro",
+      "Slaves: Land or Chattel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the 'leima k'tana'ei' introduction and the two contrasting baraitot \u2014 exactly what heading 4's prose describes as its content, covering the tannaic dispute proposal and the baraita working through combinations of property types including the contradiction raised by the second baraita.",
+      "chosen_heading": "First braita details",
+      "current_heading": "First braita details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Slaves: Land or Chattel",
+    "candidates": [
+      "Kinyan Agav explained",
+      "Slaves and chattel",
+      "Second braita intro",
+      "Slaves: Land or Chattel",
+      "Everyone agrees like land",
+      "Kinyan Agav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slaves: Land or Chattel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's proposal that the two braitot dispute whether slaves are like land or chattel, which is precisely what heading 3 ('Slaves: Land or Chattel') describes.",
+      "second_heading": "Everyone agrees like land",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ika's rejection of that proposal, arguing everyone agrees slaves are like land and reconciling the two braitot differently, which matches exactly the prose of heading 4 ('Everyone agrees like land').",
+      "current_heading": "Slaves: Land or Chattel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Kinyan Agav",
+    "candidates": [
+      "Everyone agrees like land",
+      "Kinyan Agav",
+      "Stability requirement",
+      "Slaves move, don't work",
+      "Slaves like chattel",
+      "Kinyan chatzer concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna from Kiddushin and Chizkiyah's derivation from Chronicles establishing the scriptural basis for kinyan agav, which is precisely what the 'Kinyan Agav' section's prose describes.",
+      "chosen_heading": "Kinyan Agav",
+      "current_heading": "Kinyan Agav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Kinyan chatzer concept",
+    "candidates": [
+      "Stability requirement",
+      "Slaves move, don't work",
+      "Slaves like chattel",
+      "Kinyan chatzer concept",
+      "Chatzer mehalechet",
+      "Conditions for chatzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 'ikka de'amri' version of Rav Ika's reasoning, which starts from the premise that everyone agrees slaves are like movable property (ke-metaltelin), exactly what candidate 2's prose describes as 'de-chulei alma avdi ke-metaltelin dami.'",
+      "chosen_heading": "Slaves like chattel",
+      "current_heading": "Kinyan chatzer concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Conditions for chatzer",
+    "candidates": [
+      "Chatzer mehalechet",
+      "Conditions for chatzer",
+      "Limited explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 challenging the slave-as-chatzer concept because a slave is a mobile courtyard that cannot acquire \u2014 directly matches heading 0's prose about 'chatzer mehalechet hi' and the premise that a slave walks around freely, before Rava's ruling about standing/sitting is introduced in heading 1.",
+      "chosen_heading": "Chatzer mehalechet",
+      "current_heading": "Conditions for chatzer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Limited explanation",
+    "candidates": [
+      "Conditions for chatzer",
+      "Limited explanation",
+      "Land acquires slaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The halakhic conclusion that a bound slave functions as a chatzer directly resolves the condition established in candidate 0's prose, which explains that only a bound slave can serve as a chatzer for acquisition.",
+      "chosen_heading": "Conditions for chatzer",
+      "current_heading": "Limited explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Land acquires slaves",
+    "candidates": [
+      "Land acquires slaves",
+      "Distinction if chattel",
+      "Kinyan Agav problem",
+      "Moving vs. non-moving",
+      "Moving land concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items address the contradiction between the two baraitot about acquiring slaves through land possession and the resolution that the distinction turns on whether the slaves are physically standing within the land \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Land acquires slaves",
+      "current_heading": "Land acquires slaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Moving land concept",
+    "candidates": [
+      "Distinction if chattel",
+      "Kinyan Agav problem",
+      "Moving vs. non-moving",
+      "Moving land concept",
+      "Land as one unit",
+      "Liens as central",
+      "Exceptions for kinyanim",
+      "Me'ila principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items address the structural question of why a slave must be standing within the land when classified as land (ke-karka), working through Shmuel's ten-fields principle and resolving it with the 'moving land vs. non-moving land' distinction and the sadna de-ara chad hu concept \u2014 exactly what the 'Moving land concept' prose describes.",
+      "chosen_heading": "Moving land concept",
+      "current_heading": "Moving land concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Me'ila principle",
+    "candidates": [
+      "Land as one unit",
+      "Liens as central",
+      "Exceptions for kinyanim",
+      "Me'ila principle",
+      "What is me'ila?",
+      "Kodshim Kalim example",
+      "Attribution",
+      "Mammon ba'alim",
+      "Damage liability",
+      "Oath braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together introduce and analyze the Mishnah's principle of 'property for which there is no me'ila obligation,' which is precisely what the 'Me'ila principle' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Me'ila principle",
+      "current_heading": "Me'ila principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Oath braita",
+    "candidates": [
+      "What is me'ila?",
+      "Kodshim Kalim example",
+      "Attribution",
+      "Mammon ba'alim",
+      "Damage liability",
+      "Oath braita",
+      "Me'ila extension",
+      "Priest kiddushin case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The baraita about 'u-ma'ala ma'al b'Hashem' extending to kodshim kalim as mammon ba'alim is precisely what the 'Oath braita' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Oath braita",
+      "current_heading": "Oath braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Priest kiddushin case",
+    "candidates": [
+      "Me'ila extension",
+      "Priest kiddushin case",
+      "Not his property",
+      "Mishulchan gavoa",
+      "Contradiction emerges",
+      "Living vs. slaughtered",
+      "After slaughter change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah about a kohen betrothing with his portion and asks if it contradicts Rabbi Yosei HaGelili, which is exactly what the 'Priest kiddushin case' section describes.",
+      "chosen_heading": "Priest kiddushin case",
+      "current_heading": "Priest kiddushin case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "After slaughter change",
+    "candidates": [
+      "Not his property",
+      "Mishulchan gavoa",
+      "Contradiction emerges",
+      "Living vs. slaughtered",
+      "After slaughter change",
+      "Rashi-Tosafot debate",
+      "Bechor sales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly states that even Rabbi Yosei HaGelili concedes that after slaughter the kohen receives from God's table (mishulchan gavoa), which is precisely what heading 4 'After slaughter change' discusses in its prose.",
+      "chosen_heading": "After slaughter change",
+      "current_heading": "After slaughter change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Bechor sales",
+    "candidates": [
+      "Rashi-Tosafot debate",
+      "Bechor sales",
+      "Rav Nachman limit",
+      "With Beis HaMikdash",
+      "Rava's challenge (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous sugya about bechor sales: item 1 raises the mishna about selling a bechor, item 2 is Rav Nachman's qualification (currently under 'Rav Nachman limit'), and item 3 is Rava's objection \u2014 but the prose of 'Bechor sales' (candidate 1) describes exactly this entire unit including the braita, the kiddushin proof, and the vindication of Rabbi Yosi HaGlili, making it the best single home for all three items.",
+      "chosen_heading": "Bechor sales",
+      "current_heading": "Bechor sales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Rava's challenge (II)",
+    "candidates": [
+      "Rav Nachman limit",
+      "With Beis HaMikdash",
+      "Rava's challenge (II)",
+      "Matnas kehuna",
+      "Owner's portion only",
+      "Bechor as matnas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are part of the same continuous Gemara exchange: Ravina's answer about bechor b'chutz la'aretz following Rabbi Shimon (item 1), the Gemara's follow-up challenge about why Ravina didn't simply resolve the tension by distinguishing Rabbi Yosei HaGelili from the Rabbis (items 2-3) \u2014 this entire chain is precisely what the prose of candidate 2 ('Rava's challenge II') describes, including Ravina's proposal about chutz la'aretz and Rabbi Shimon.",
+      "chosen_heading": "Rava's challenge (II)",
+      "current_heading": "Rava's challenge (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Bechor as matnas",
+    "candidates": [
+      "Matnas kehuna",
+      "Owner's portion only",
+      "Bechor as matnas",
+      "Not usable kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the *mishulchan gavoah* resolution, which is precisely what heading 0 ('Matnas kehuna') describes as the definitive resolution \u2014 the Gemara's answer that gifts of the priesthood are different because the kohen acquires them from God's table.",
+      "chosen_heading": "Matnas kehuna",
+      "current_heading": "Bechor as matnas",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,493 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Two Institutions",
+    "candidates": [
+      "Civil vs. Capital",
+      "Yerushalmi: Adam",
+      "God's Joy",
+      "Wine & Secrets",
+      "Two Institutions",
+      "Gematria Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the sons of Rabbi \u1e24iyya sitting silently at the meal and Rabbi giving them wine so they would speak \u2014 which is precisely what candidate 3 ('Wine & Secrets') describes in its prose, before they actually deliver their teaching about the two institutions.",
+      "chosen_heading": "Wine & Secrets",
+      "current_heading": "Two Institutions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Gematria Wine",
+    "candidates": [
+      "Two Institutions",
+      "Gematria Wine",
+      "Hastening Evil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi \u1e24iyya's gematria explanation (yayin=70, sod=70, nichnas yayin yatza sod), which is exactly what the 'Gematria Wine' prose section discusses in detail \u2014 the current placement is correct.",
+      "chosen_heading": "Gematria Wine",
+      "current_heading": "Gematria Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Hastening Evil",
+    "candidates": [
+      "Hastening Evil",
+      "Yechanya Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the question about God hastening evil and answers it, which is exactly what the 'Hastening Evil' section prose describes, while the Yechanya Exile section covers the subsequent example/elaboration.",
+      "chosen_heading": "Hastening Evil",
+      "current_heading": "Hastening Evil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Yechanya Exile",
+    "candidates": [
+      "Yechanya Exile",
+      "852 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the exile of Jeconiah and interprets 'hecharash vehamasger elef,' which is precisely what the 'Yechanya Exile' section's prose describes.",
+      "chosen_heading": "Yechanya Exile",
+      "current_heading": "Yechanya Exile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "852 Years",
+    "candidates": [
+      "852 Years",
+      "No Partnership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Ulla's teaching about the two-year hastening of exile relative to venoshantem's gematria of 852, and Rav Acha bar Yaakov's corollary about divine 'soon' equaling 852 years \u2014 exactly what the '852 Years' prose section describes.",
+      "chosen_heading": "852 Years",
+      "current_heading": "852 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "No Partnership",
+    "candidates": [
+      "No Partnership",
+      "Stamp Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the baraita listing reasons why Adam was created alone, and candidate 0's prose explicitly covers all four reasons including heretics, righteous/wicked, family rivalries, and robbers \u2014 exactly matching the content of both items.",
+      "chosen_heading": "No Partnership",
+      "current_heading": "No Partnership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Stamp Metaphor",
+    "candidates": [
+      "Stamp Metaphor",
+      "Three Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the stamp metaphor baraita and its follow-up question about why faces differ, which is precisely what the 'Stamp Metaphor' prose section discusses in detail.",
+      "chosen_heading": "Stamp Metaphor",
+      "current_heading": "Stamp Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Three Differences",
+    "candidates": [
+      "Three Differences",
+      "Gnat Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Meir's teaching on the three ways people differ (voice, appearance, thought) directly matches the 'Three Differences' section's prose, which discusses exactly this baraita and its explanations.",
+      "chosen_heading": "Three Differences",
+      "current_heading": "Three Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Gnat Before",
+    "candidates": [
+      "Gnat Before",
+      "King's Parable",
+      "Seven Pillars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a baraita about Adam being created on erev Shabbat with three reasons (no partner in creation, mosquito preceded you, enter mitzvah immediately), and the current heading's prose directly discusses all three of these reasons in the same order.",
+      "chosen_heading": "Gnat Before",
+      "current_heading": "Gnat Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Seven Pillars",
+    "candidates": [
+      "King's Parable",
+      "Seven Pillars",
+      "Meal & Rivers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the 'king's parable' passage \u2014 the mashal itself (item 1) and its scriptural grounding/decoding (item 2) \u2014 and candidate 0's prose explicitly describes this exact content: the mashal of the king who built a palace and prepared a feast, followed by the Proverbs verses that ground it.",
+      "chosen_heading": "King's Parable",
+      "current_heading": "Seven Pillars",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Meal & Rivers",
+    "candidates": [
+      "Seven Pillars",
+      "Meal & Rivers",
+      "Fool Tempted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the contradiction between 'al gappei' and 'al kisse' and its resolution regarding Adam and Eve, which is precisely what the 'Meal & Rivers' section prose describes.",
+      "chosen_heading": "Meal & Rivers",
+      "current_heading": "Meal & Rivers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Fool Tempted",
+    "candidates": [
+      "Fool Tempted",
+      "Dust Gathered",
+      "Body & Head"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the fool/tempted man (mi peti), the woman telling him to sin, and the adulterer lacking understanding \u2014 exactly what the 'Fool Tempted' prose describes.",
+      "chosen_heading": "Fool Tempted",
+      "current_heading": "Fool Tempted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Body & Head",
+    "candidates": [
+      "Dust Gathered",
+      "Body & Head",
+      "Hours 1-4",
+      "Hours 5-8",
+      "Hours 9-12"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dust Gathered",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Meir's teaching that Adam's dust was gathered from the entire world, which matches exactly the 'Dust Gathered' section's prose about golmi rau einecha and God's eyes sweeping the earth.",
+      "second_heading": "Body & Head",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Oshaya/Rav's geographic breakdown (torso from Bavel, head from Eretz Yisrael, limbs from other lands, buttocks from Akra De'agma), which matches precisely the 'Body & Head' section's prose discussing the same breakdown and Rav Acha's addition about agvotav.",
+      "current_heading": "Body & Head",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Hours 9-12",
+    "candidates": [
+      "Hours 1-4",
+      "Hours 5-8",
+      "Hours 9-12",
+      "Adam Heretic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Hours 9-12",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the twelve hours of Adam's first day and Rami bar Chama's comment on the prooftext, which is exactly what candidate 2 ('Hours 9-12') discusses in its prose.",
+      "second_heading": "Adam Heretic",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 describe Rav Yehuda/Rav's midrash about God consulting angels before creating Adam and their destruction, which matches candidate 3 ('Adam Heretic') whose prose begins with Rav Yehuda in the name of Rav speaking about Adam ha-Rishon.",
+      "current_heading": "Hours 9-12",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Adam Heretic",
+    "candidates": [
+      "Adam Heretic",
+      "Heart Wandered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Adam's physical dimensions before and after his sin and his language \u2014 topics that naturally follow the 'Heart Wandered' section's discussion of Adam's post-sin diminishment, and none of them relate to the 'Adam Heretic' prose about Adam being an epikoros/min pulling his foreskin.",
+      "chosen_heading": "Heart Wandered",
+      "current_heading": "Adam Heretic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Heart Wandered",
+    "candidates": [
+      "Heart Wandered",
+      "Denied Principle",
+      "Learn Torah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Heart Wandered",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about Reish Lakish's teaching on Adam seeing future generations and Rabbi Akiva, which fits under 'Heart Wandered' as a continuation of the Adam discussion, while items 2-3 about Adam being a heretic/denier are the actual content that heading 0's prose describes.",
+      "second_heading": "Denied Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 discuss Adam as a heretic (min) and denier of fundamental principle (kofer be-ikar), which is precisely what headings 0 and 1 describe in their prose \u2014 but item 2 belongs under heading 0 ('Heart Wandered') which discusses both the min accusation and drawing the foreskin, and item 3 belongs under heading 1 ('Denied Principle') which discusses Rav Nachman's kofer be-ikar teaching.",
+      "current_heading": "Heart Wandered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Learn Torah",
+    "candidates": [
+      "Denied Principle",
+      "Learn Torah",
+      "Internal Heretics",
+      "Answer Beside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Eliezer's teaching about being diligent to learn Torah and knowing how to respond to the apikoros, which matches exactly the 'Learn Torah' section's prose describing this very Avot citation.",
+      "chosen_heading": "Learn Torah",
+      "current_heading": "Learn Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Answer Beside",
+    "candidates": [
+      "Internal Heretics",
+      "Answer Beside",
+      "Akiva: Two",
+      "Yosi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yo\u1e25anan's principle that heretical challenges have their answers alongside them, the specific biblical examples, and the Gemara's question about why plural language is used with the answer about divine consultation \u2014 are explicitly discussed together in the 'Answer Beside' prose, which covers exactly this content including the hanach lama li question and Rabbi Yo\u1e25anan's teaching about the heavenly court.",
+      "chosen_heading": "Answer Beside",
+      "current_heading": "Answer Beside",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Yosi Challenge",
+    "candidates": [
+      "Akiva: Two",
+      "Yosi Challenge",
+      "Footstool"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Akiva's answer (one throne for Him, one for David) and Rabbi Yosi's challenge, making it a single unit that begins with Akiva's position \u2014 matching candidate 0's prose which introduces both Akiva's answer and notes the debate, rather than candidate 1 which presupposes the passage already established Akiva's view and focuses only on Yosi's objection.",
+      "chosen_heading": "Akiva: Two",
+      "current_heading": "Yosi Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Footstool",
+    "candidates": [
+      "Yosi Challenge",
+      "Footstool",
+      "Only Rav Idi",
+      "Metatron Q",
+      "Metatron A"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether Rabbi Akiva accepted Rabbi Yosi's correction, then cites a baraita showing Rabbi Akiva using 'echad le-din ve-echad le-tzedaka' \u2014 which is exactly what the 'Yosi Challenge' prose describes as the proof that he accepted the rebuke; Rabbi Elazar ben Azarya's footstool comment appears within this same baraita as context, not as a separate topic.",
+      "chosen_heading": "Yosi Challenge",
+      "current_heading": "Footstool",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Metatron A",
+    "candidates": [
+      "Only Rav Idi",
+      "Metatron Q",
+      "Metatron A",
+      "Sodom Q",
+      "Lemech A"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete Metatron exchange between Rav Idit and the min \u2014 the question about 'come up to the Lord,' the Metatron answer, the worship challenge, and the rejection of Metatron even as a guide \u2014 which is precisely what the 'Metatron A' prose describes in full detail.",
+      "chosen_heading": "Metatron A",
+      "current_heading": "Metatron A",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Lemech A",
+    "candidates": [
+      "Sodom Q",
+      "Lemech A",
+      "R. Meir Learning",
+      "Teaching Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with the heretic's challenge about the Sodom verse, which is what heading 0 ('Sodom Q') explicitly describes, and the full exchange (launderer's answer + Rabbi Meir attribution) all flows from that single question, making heading 0 the correct home for the entire passage.",
+      "chosen_heading": "Sodom Q",
+      "current_heading": "Lemech A",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Teaching Division",
+    "candidates": [
+      "R. Meir Learning",
+      "Teaching Division",
+      "Fox Parables"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the teaching division (one-third halakha, one-third aggada, one-third parables) and the fox parables count in a single Gemara statement, and the current placement under 'Teaching Division' correctly captures the full quoted text, which combines both elements.",
+      "chosen_heading": "Teaching Division",
+      "current_heading": "Teaching Division",
+      "moved": false
+    }
+  }
+]

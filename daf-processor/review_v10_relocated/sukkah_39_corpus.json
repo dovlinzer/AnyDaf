@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Baruch Haba Rule",
+    "candidates": [
+      "Hallel & Response",
+      "Technical Definition",
+      "Torah & Megillah",
+      "Baruch Haba Rule",
+      "Context & Completion",
+      "Local Customs",
+      "Rebbi's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together cover exactly what heading 3 ('Baruch Haba Rule') describes: Rava's ruling about not pausing mid-phrase in 'baruch haba b'shem Hashem' and the parallel ruling for Kaddish's 'yehei shmei rabba mevorach', which is precisely the content of the passage.",
+      "chosen_heading": "Baruch Haba Rule",
+      "current_heading": "Baruch Haba Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rebbi's Practice",
+    "candidates": [
+      "Context & Completion",
+      "Local Customs",
+      "Rebbi's Practice",
+      "Odecha Hashem",
+      "Poetic Structure",
+      "Ana Hashem",
+      "Levarech Yevarech",
+      "Blessing at End",
+      "Shmuel's Principle",
+      "Over L'Asiyasan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna's rule about local custom to repeat (makom shenahagu lichfol) and then cites the baraisa about Rebbi and Rabbi Elazar ben Perata, which fits under 'Local Customs' where the prose explicitly introduces kefilah and the makom shenahagu lichfol rule \u2014 the current placement under 'Rebbi's Practice' splits what is a single unified Talmudic passage from its natural introductory heading.",
+      "chosen_heading": "Local Customs",
+      "current_heading": "Rebbi's Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Over L'Asiyasan",
+    "candidates": [
+      "Odecha Hashem",
+      "Poetic Structure",
+      "Ana Hashem",
+      "Levarech Yevarech",
+      "Blessing at End",
+      "Shmuel's Principle",
+      "Over L'Asiyasan",
+      "Going Before",
+      "Mitzvah vs Liturgy",
+      "Pesukei D'Zimra",
+      "Hallel as Mitzvah",
+      "Melech Mehulal",
+      "Taking Lulav",
+      "Esrog Position",
+      "Nanuim Complete",
+      "Netilat Yadayim",
+      "Nanuim Status",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses the linguistic derivation of 'over' meaning 'before/prior to' from biblical verses, which is precisely what the 'Over L'Asiyasan' section's prose describes.",
+      "chosen_heading": "Over L'Asiyasan",
+      "current_heading": "Over L'Asiyasan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Going Before",
+      "Mitzvah vs Liturgy",
+      "Pesukei D'Zimra",
+      "Hallel as Mitzvah",
+      "Melech Mehulal",
+      "Taking Lulav",
+      "Esrog Position",
+      "Nanuim Complete",
+      "Netilat Yadayim",
+      "Nanuim Status",
+      "Mishnah Setup",
+      "Esrog vs Lulav",
+      "No Gift Given",
+      "Free Gift Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The Mishna passage about purchasing a lulav during shemitah and receiving an esrog as a gift is exactly what the 'Mishnah Setup' prose introduces and discusses.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Mishnah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Free Gift Strategy",
+    "candidates": [
+      "Esrog vs Lulav",
+      "No Gift Given",
+      "Free Gift Strategy",
+      "Three Meals Limit",
+      "Money Kedusha",
+      "Kedusha Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks what happens if the seller refuses to give the esrog as a gift and then proposes Rav Huna's solution, which matches the 'No Gift Given' heading's prose exactly; the current placement under 'Free Gift Strategy' is where the answer belongs, but the question itself (which is what this Gemara text presents) belongs under heading 1.",
+      "chosen_heading": "No Gift Given",
+      "current_heading": "Free Gift Strategy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Kedusha Transfer",
+    "candidates": [
+      "Three Meals Limit",
+      "Money Kedusha",
+      "Kedusha Transfer",
+      "Esrog Cost",
+      "Am Ha'aretz Risk",
+      "Intent to Sell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita establishing the three-meals limit and the remedy for transferring excess money, which is precisely what candidate 0 ('Three Meals Limit') discusses in its prose, making it a clearly better match than the current placement under 'Kedusha Transfer' (candidate 2).",
+      "chosen_heading": "Three Meals Limit",
+      "current_heading": "Kedusha Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Intent to Sell",
+    "candidates": [
+      "Esrog Cost",
+      "Am Ha'aretz Risk",
+      "Intent to Sell",
+      "Family Workarounds",
+      "Fixed Stand",
+      "Reselling Profit",
+      "Lulav Parallel",
+      "Lulav by Blossoming",
+      "Esrog Question",
+      "Esrog Irrigation",
+      "Vegetable Analogy",
+      "Rabban Gamliel Debate",
+      "Bikkurim Sources",
+      "Tree Traits",
+      "Vegetable Trait"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the rules about purchasing ownerless vs. safeguarded Sabbatical-Year produce from an am ha'aretz and the three-meal limit \u2014 precisely the topic of candidate 1 ('Am Ha'aretz Risk'), which discusses the ways an am ha'aretz might misuse shemitah money and the permitted uses, fitting far better than the current placement under 'Intent to Sell.'",
+      "chosen_heading": "Am Ha'aretz Risk",
+      "current_heading": "Intent to Sell",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Vegetable Trait",
+    "candidates": [
+      "Family Workarounds",
+      "Fixed Stand",
+      "Reselling Profit",
+      "Lulav Parallel",
+      "Lulav by Blossoming",
+      "Esrog Question",
+      "Esrog Irrigation",
+      "Vegetable Analogy",
+      "Rabban Gamliel Debate",
+      "Bikkurim Sources",
+      "Tree Traits",
+      "Vegetable Trait",
+      "Abutulmos Testimony"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lulav Parallel",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the lulav/esrog question and the answer that esrog follows lekita, matching the 'Lulav Parallel'/'Lulav by Blossoming'/'Esrog Question'/'Esrog Irrigation' chain \u2014 but most precisely the 'Lulav Parallel' section which sets up exactly this exchange, while item 1's content about lulav bar shishis and esrog batar lekita best fits under 'Lulav Parallel' (index 3) as the direct Gemara response to that structural question.",
+      "second_heading": "Rabban Gamliel Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cite the Mishnah in Bikkurim about esrog being like a tree for shemitah (chanata) and like a vegetable for maaser (lekita), with the Rabban Gamliel/Rabbi Eliezer dispute \u2014 this matches precisely the 'Rabban Gamliel Debate' section (index 8) which describes exactly this objection and the citation of both opinions regarding shemitah going by chanata.",
+      "current_heading": "Vegetable Trait",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Abutulmos Testimony",
+    "candidates": [
+      "Vegetable Trait",
+      "Abutulmos Testimony",
+      "Final Ruling",
+      "Lulav Status",
+      "Esrog Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Avtolemos testifying in the name of five elders about esrog following picking time for maaser, and the Usha ruling extending this to shemitah \u2014 exactly what the 'Abutulmos Testimony' section's prose describes.",
+      "chosen_heading": "Abutulmos Testimony",
+      "current_heading": "Abutulmos Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Esrog Status",
+    "candidates": [
+      "Final Ruling",
+      "Lulav Status",
+      "Esrog Status",
+      "Lulav Kedusha Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage culminates in the ruling of the sages at Usha that the esrog follows picking time for both maaser and shemitah, which is precisely what the 'Final Ruling' section's prose describes as the operative conclusion.",
+      "chosen_heading": "Final Ruling",
+      "current_heading": "Esrog Status",
+      "moved": true
+    }
+  }
+]

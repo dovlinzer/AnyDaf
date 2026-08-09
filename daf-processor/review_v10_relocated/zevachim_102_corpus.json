@@ -1,0 +1,391 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Moshe Zar Proof",
+    "candidates": [
+      "Moshe Kohen Question",
+      "Kehunah Origins",
+      "Pinchas Non-Kohen",
+      "Moshe Zar Proof",
+      "Negaim Aharon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the single baraita challenge (meisivei) about Miriam's tzara'at \u2014 who quarantined her, the double impossibility (Moshe=zar, Aharon=karov), and God's resolution \u2014 which is precisely what the 'Moshe Zar Proof' prose describes in full detail.",
+      "chosen_heading": "Moshe Zar Proof",
+      "current_heading": "Moshe Zar Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Negaim Aharon",
+    "candidates": [
+      "Negaim Aharon",
+      "Elisheva Five Joys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous exchange about whether Moses being barred from examining nega'im proves he was not a priest, which is precisely what the 'Negaim Aharon' prose describes \u2014 the challenge and Rav Na\u1e25man bar Yitz\u1e25ak's resolution that nega'im is a special case requiring Aharon's descendants specifically.",
+      "chosen_heading": "Negaim Aharon",
+      "current_heading": "Negaim Aharon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Elisheva Five Joys",
+    "candidates": [
+      "Elisheva Five Joys",
+      "Pinchas Future Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about Elisheva's five joys, which is exactly what the 'Elisheva Five Joys' section prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Elisheva Five Joys",
+      "current_heading": "Elisheva Five Joys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Pinchas Future Status",
+    "candidates": [
+      "Pinchas Future Status",
+      "God's Anger Result"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita's reference to 'her brother-in-law being a king' and the inference about whether Moses was a High Priest, with the counter-response 'eima af melech,' which is exactly what the 'Pinchas Future Status' prose describes and analyzes.",
+      "chosen_heading": "Pinchas Future Status",
+      "current_heading": "Pinchas Future Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "God's Anger Result",
+    "candidates": [
+      "God's Anger Result",
+      "Chachamim Miluim",
+      "Rav Kehunah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita discussing God's anger against Moses and its mark (roshem), which is precisely what the 'God's Anger Result' prose section describes in detail, including Rabbi Yehoshua ben Korcha's principle and Rabbi Shimon ben Yochai's application of it to the word 'ha-Levi'.",
+      "chosen_heading": "God's Anger Result",
+      "current_heading": "God's Anger Result",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rav Kehunah",
+    "candidates": [
+      "Chachamim Miluim",
+      "Rav Kehunah",
+      "Charon Af Principle",
+      "Moshe Pharaoh Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the 'yesh omrim' position (Rav's view) that Moses retained priesthood personally while his descendants became Levites, along with the gemara's mai ve'omer question about the second proof-verse \u2014 all of which is precisely what candidate 1 ('Rav Kehunah') discusses in its prose.",
+      "chosen_heading": "Rav Kehunah",
+      "current_heading": "Rav Kehunah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Moshe Pharaoh Anger",
+    "candidates": [
+      "Charon Af Principle",
+      "Moshe Pharaoh Anger",
+      "Fear of Kings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Moshe-Pharaoh slapping episode and the subsequent challenge/resolution involving Reish Lakish's seemingly contradictory positions, which is precisely what the 'Moshe Pharaoh Anger' prose describes in detail.",
+      "chosen_heading": "Moshe Pharaoh Anger",
+      "current_heading": "Moshe Pharaoh Anger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Fear of Kings",
+    "candidates": [
+      "Fear of Kings",
+      "Moshe Kingship",
+      "Halom Hereditary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly illustrate the principle of 'fear of kingship' (eimas malchus) \u2014 Rabbi Yannai's teaching about Moshe's deference to Pharaoh and Rabbi Yochanan's teaching about Elijah running before Achav \u2014 which is precisely what the 'Fear of Kings' prose section discusses.",
+      "chosen_heading": "Fear of Kings",
+      "current_heading": "Fear of Kings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Halom Hereditary",
+    "candidates": [
+      "Moshe Kingship",
+      "Halom Hereditary",
+      "Mishnah Rule",
+      "Kol Zachar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about whether 'halom' implies hereditary kingship, covering Ulla's teaching, Rava's objection, the Saul counter-example and its two resolutions, and the general principle of hereditary greatness \u2014 exactly what the 'Halom Hereditary' prose describes.",
+      "chosen_heading": "Halom Hereditary",
+      "current_heading": "Halom Hereditary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Kol Zachar",
+    "candidates": [
+      "Mishnah Rule",
+      "Kol Zachar",
+      "Avoda vs Achila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the consecutive baraitot deriving from 'kol zachar' the rules about blemished priests receiving portions, which is precisely what the 'Kol Zachar' section's prose describes in detail.",
+      "chosen_heading": "Kol Zachar",
+      "current_heading": "Kol Zachar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Avoda vs Achila",
+    "candidates": [
+      "Avoda vs Achila",
+      "Rule Exceptions",
+      "Achila Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the kelapei layya objection, Rav Sheshet's eipoch, and Rav Ashi's l'olam lo teipoch with the tamei analogy \u2014 all of which are explicitly described in the 'Avoda vs Achila' prose and nowhere else.",
+      "chosen_heading": "Avoda vs Achila",
+      "current_heading": "Avoda vs Achila",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Achila Reading",
+    "candidates": [
+      "Rule Exceptions",
+      "Achila Reading",
+      "Dam Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together trace exactly the gemara's move from the avodah reading to the achilah reading (rauy l'achilah ka'amar), the katan objection and ha lo katani response, and the final retreat to the original avodah reading with rachmana rabyei \u2014 precisely what the 'Achila Reading' prose describes in full.",
+      "chosen_heading": "Achila Reading",
+      "current_heading": "Achila Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Dam Status",
+    "candidates": [
+      "Dam Status",
+      "Abba Shaul",
+      "Rav Ashi Query"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dam Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the mishna's rule about tumah at the time of zerikat ha-dam being the determinative moment, which matches the 'Dam Status' prose exactly.",
+      "second_heading": "Abba Shaul",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Abba Shaul's dissenting position requiring tahara at both dam and chalavim, which matches the 'Abba Shaul' prose exactly.",
+      "current_heading": "Dam Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Ashi Query",
+    "candidates": [
+      "Abba Shaul",
+      "Rav Ashi Query",
+      "Mincha Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's dilemma about a kohen who became impure between sprinkling and burning of fats, exactly matching the 'Rav Ashi Query' section's prose description of nitma beintayim and the teiku conclusion.",
+      "chosen_heading": "Rav Ashi Query",
+      "current_heading": "Rav Ashi Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Mincha Request",
+    "candidates": [
+      "Mincha Request",
+      "Chatas Pivot",
+      "Shelamim Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the tvul yom's initial request for a mincha portion and the ensuing kal va-chomer exchange between him and the pure kohen \u2014 exactly the scenario described in the 'Mincha Request' prose.",
+      "chosen_heading": "Mincha Request",
+      "current_heading": "Mincha Request",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Shelamim Request",
+    "candidates": [
+      "Chatas Pivot",
+      "Shelamim Request",
+      "Dejected Exit",
+      "Bechor Question",
+      "Tosafot Achai",
+      "Bathroom Question",
+      "Bathhouse Prohibition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 10,
+      "first_heading": "Chatas Pivot",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-10 cover the chatas pivot through the shelamim exchange and the dejected exit, with items 1-5 on chatas fitting 'Chatas Pivot' better than 'Shelamim Request' as the dominant content starting point.",
+      "second_heading": "Bechor Question",
+      "second_confidence": "high",
+      "second_reason": "Items 11-15 are Rav Achai's distinct academic question about whether the tvul yom should have also requested a bechor share, which matches the 'Bechor Question' prose exactly.",
+      "current_heading": "Shelamim Request",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Bathhouse Prohibition",
+    "candidates": [
+      "Dejected Exit",
+      "Bechor Question",
+      "Tosafot Achai",
+      "Bathroom Question",
+      "Bathhouse Prohibition",
+      "Torah vs Korbanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks how Rabbi Elazar could contemplate Torah in the bathroom, which is exactly what the 'Bathroom Question' prose describes, while the current placement under 'Bathhouse Prohibition' describes the answer/resolution rather than the question itself.",
+      "chosen_heading": "Bathroom Question",
+      "current_heading": "Bathhouse Prohibition",
+      "moved": true
+    }
+  }
+]

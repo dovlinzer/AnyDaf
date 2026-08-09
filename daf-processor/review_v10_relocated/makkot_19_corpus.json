@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Rav Sheshes Opinion",
+    "candidates": [
+      "Bikurim Timing Question",
+      "Rav Yehudah Opinion",
+      "Rabbi Eliezer Position",
+      "Rav Sheshes Opinion",
+      "Rabbi Ishmael Query",
+      "Korbanot vs Non-Korbanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava bar Adda/Rabbi Yitz\u1e25ak's ruling that a non-kohen becomes liable for eating bikurim from when they enter the Temple, followed by the supporting baraita of Rabbi Eliezer \u2014 exactly what candidate 1 ('Rav Yehudah Opinion') describes, including the 'misheyiru pnei habayis' formulation and the Rabbi Eliezer baraita about portions inside vs. outside the azarah.",
+      "chosen_heading": "Rav Yehudah Opinion",
+      "current_heading": "Rav Sheshes Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Korbanot vs Non-Korbanot",
+    "candidates": [
+      "Rabbi Ishmael Query",
+      "Korbanot vs Non-Korbanot",
+      "Logical Distinction",
+      "Bikurim as Proof",
+      "Textual Link Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Ishmael Query",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Sheshet's standalone ruling that hanachah invalidates bikurim but kriyah does not, which is the side-point about bikurim discussed in candidate 0's prose about Rabbi Ishmael's question context, and it precedes the baraita in the essay's logical flow.",
+      "second_heading": "Logical Distinction",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the baraita establishing the logical argument from bechor and the bikurim counter-proof, which matches candidate 2 ('Logical Distinction') and candidate 3 ('Bikurim as Proof') \u2014 and since items 2-3 form one continuous dialectical unit, candidate 2 is the better single home as it opens the baraita's argument that items 2 and 3 together develop.",
+      "current_heading": "Korbanot vs Non-Korbanot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Textual Link Analysis",
+    "candidates": [
+      "Logical Distinction",
+      "Bikurim as Proof",
+      "Textual Link Analysis",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the hekesh (juxtaposition) of ma'aser to bechor from the verse in Deuteronomy 14:23, and raises the question about why the baraita doesn't refute using bikurim's kriyah and hanachah requirements \u2014 which matches precisely the 'Textual Link Analysis' section's prose about the verse juxtaposing ma'aser and bechor and deriving that ma'aser requires the Beis Hamikdash.",
+      "chosen_heading": "Textual Link Analysis",
+      "current_heading": "Textual Link Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Rav Ashi Challenge",
+      "Gezeirah Shavah",
+      "Kedushah Rishonah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's challenge and resolution regarding why the baraisa omitted kriyah (citing the case of the ger's bikurim), which matches precisely the 'Rav Ashi Challenge' prose description.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Kedushah Rishonah",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Kedushah Rishonah",
+      "Kedushah Categories",
+      "Ravina Position",
+      "Blood/Flesh Link",
+      "Flesh-Blood Linkage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gezeirah Shavah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses why the 'common factor' analogy fails due to the altar connection of bechor and bikurim, which is exactly what heading 0 ('Gezeirah Shavah') discusses \u2014 the refutation of the mah hatzad argument and the reliance on hekesh instead.",
+      "second_heading": "Kedushah Rishonah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 directly asks what Rabbi Yishmael holds about kedushah rishonah and its persistence after destruction, which is precisely what heading 1 ('Kedushah Rishonah') discusses in its prose.",
+      "current_heading": "Kedushah Rishonah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Flesh-Blood Linkage",
+    "candidates": [
+      "Kedushah Categories",
+      "Ravina Position",
+      "Blood/Flesh Link",
+      "Flesh-Blood Linkage",
+      "Redundancy Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together present Ravina's answer linking flesh to blood via hekesh, the challenge about double-derived limudim, and the resolution that ma'aser dagan is non-sacred and blood/flesh are one matter \u2014 exactly what the 'Flesh-Blood Linkage' prose section discusses in detail.",
+      "chosen_heading": "Flesh-Blood Linkage",
+      "current_heading": "Flesh-Blood Linkage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Redundancy Issue",
+    "candidates": [
+      "Redundancy Issue",
+      "Resolution Offered",
+      "Two Violations",
+      "Rabbi Shimon Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's question about redundancy between the two mishnayot AND Rabbi Yosei bar \u1e24anina's resolution, but the current heading 'Redundancy Issue' has prose that explicitly describes both the question and anticipates the resolution, making it the best single home \u2014 however, since the passage includes the resolution, candidate 0's prose actually covers the full context of the question being raised, and the passage currently sits there correctly.",
+      "chosen_heading": "Redundancy Issue",
+      "current_heading": "Redundancy Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rabbi Shimon Source",
+    "candidates": [
+      "Resolution Offered",
+      "Two Violations",
+      "Rabbi Shimon Source",
+      "Pasuk Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita quoted by Rabbi Shimon establishing the prohibition from 'lo vi'arti mimenu b'tamei' and asks where the explicit warning against eating is found, which is precisely what the 'Rabbi Shimon Source' section's prose describes.",
+      "chosen_heading": "Rabbi Shimon Source",
+      "current_heading": "Rabbi Shimon Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Pasuk Analysis",
+    "candidates": [
+      "Pasuk Analysis",
+      "Redemption When Tamei",
+      "Se'eto Interpretation",
+      "One Footstep Rule",
+      "Partial Entry Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Pasuk Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the prohibition against eating tamei ma'aser sheni, deriving it from the gezerah shavah of 'bish'arecha,' which matches exactly the 'Pasuk Analysis' prose.",
+      "second_heading": "Redemption When Tamei",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 discuss the source for redeeming tamei ma'aser sheni (Rabbi Elazar's derivation from 'ki lo tuchal se'eto') and the extension to tahor ma'aser sheni one stride outside Jerusalem (Rav Beivai/Rav Asi), matching the 'Redemption When Tamei' and subsequent headings \u2014 item 4 starts a structurally new topic with its own question about redemption.",
+      "current_heading": "Pasuk Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Partial Entry Scenario",
+    "candidates": [
+      "Redemption When Tamei",
+      "Se'eto Interpretation",
+      "One Footstep Rule",
+      "Partial Entry Scenario",
+      "Fullness Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose of 'Partial Entry Scenario' discusses: Rav \u1e24anina and Rav Hoshaya's dilemma about the entrance of Jerusalem, the obvious case where the person is outside and the burden inside, and the uncertain reverse scenario where the person is inside and the burden is outside.",
+      "chosen_heading": "Partial Entry Scenario",
+      "current_heading": "Partial Entry Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Fullness Principle",
+    "candidates": [
+      "Fullness Principle",
+      "Rav Pappa Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly teaches the 'mimmilluakha' (fullness) principle, which is exactly what the prose under heading 0 discusses, whereas heading 1 is about Rav Pappa's subsequent question about the stick.",
+      "chosen_heading": "Fullness Principle",
+      "current_heading": "Fullness Principle",
+      "moved": false
+    }
+  }
+]

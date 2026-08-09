@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Four Locusts Listed",
+    "candidates": [
+      "Four Locusts Listed",
+      "Tana D'bei Rav Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'with regard to what do they disagree?' and answers 'they disagree with regard to a creature whose head is long' \u2014 this is precisely the question-and-answer the prose of heading 0 describes as the gemara asking what concrete difference separates the two approaches, with the answer turning on 'b'rosh arukh.'",
+      "chosen_heading": "Four Locusts Listed",
+      "current_heading": "Four Locusts Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Tana D'bei Rav Approach",
+    "candidates": [
+      "Tana D'bei Rav Approach",
+      "Rabbi Yishmael Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the tana d'bei rav's klal u'prat reasoning, matching the prose under heading 0 which explains exactly this approach including the phrases d'mineih in/d'la d'mineih lo and the elongated head exclusion.",
+      "chosen_heading": "Tana D'bei Rav Approach",
+      "current_heading": "Tana D'bei Rav Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rabbi Yishmael Approach",
+    "candidates": [
+      "Rabbi Yishmael Approach",
+      "Elongated Head Question",
+      "Two Klals Not Equal",
+      "Yishmael's Flexibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yishmael Approach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the tana d'bei Rabbi Yishmael's klal u'prat u'klal structure, which is exactly what heading 0 ('Rabbi Yishmael Approach') describes in its prose.",
+      "second_heading": "Two Klals Not Equal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the challenge that the first klal is not equivalent to the latter klal, which is precisely what heading 2 ('Two Klals Not Equal') discusses in its prose.",
+      "current_heading": "Rabbi Yishmael Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Yishmael's Flexibility",
+    "candidates": [
+      "Elongated Head Question",
+      "Two Klals Not Equal",
+      "Yishmael's Flexibility",
+      "Ribui Miyut Approach",
+      "Chagav Alone Enough?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states that the tanna of Rabbi Yishmael's school applies klal u'prat to cases like this even when the klals are unequal, and that this very sugya is the source for that principle throughout the Talmud \u2014 precisely what the 'Yishmael's Flexibility' section's prose discusses.",
+      "chosen_heading": "Yishmael's Flexibility",
+      "current_heading": "Yishmael's Flexibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Chagav Alone Enough?",
+    "candidates": [
+      "Ribui Miyut Approach",
+      "Chagav Alone Enough?",
+      "Salam Dismisses Head",
+      "Leminehu Final Check",
+      "Opposite Names Used",
+      "Mar Ki Atrei Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question of whether 'chagav' alone suffices without all the simanim, the pushback of 'm'heicha teisei,' and the answer involving salam's role \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Chagav Alone Enough?",
+      "current_heading": "Chagav Alone Enough?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Mar Ki Atrei Ruling",
+    "candidates": [
+      "Salam Dismisses Head",
+      "Leminehu Final Check",
+      "Opposite Names Used",
+      "Mar Ki Atrei Ruling",
+      "No Shechita Needed",
+      "Halachot Gedolot Source",
+      "Aiver Min HaChai",
+      "Scales Imply Fins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks why the two baraitot use opposite identifications for salam and chargol, which is precisely what candidate 2 ('Opposite Names Used') describes as its topic, before the mar ki atrei resolution follows in candidate 3.",
+      "chosen_heading": "Opposite Names Used",
+      "current_heading": "Mar Ki Atrei Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Scales Imply Fins",
+    "candidates": [
+      "No Shechita Needed",
+      "Halachot Gedolot Source",
+      "Aiver Min HaChai",
+      "Scales Imply Fins",
+      "Immature Scales OK",
+      "Why Both Fins Scales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are from the baraita about fish that lack scales at the time of examination but are still permitted \u2014 exactly the content described in the 'Scales Imply Fins' prose, which explicitly discusses the sultanit/afyan and the list of fish (akunas, afunas, etc.) that shed scales when removed from water.",
+      "chosen_heading": "Scales Imply Fins",
+      "current_heading": "Scales Imply Fins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Why Both Fins Scales",
+    "candidates": [
+      "Immature Scales OK",
+      "Why Both Fins Scales",
+      "Disambiguation",
+      "Armor of Scales"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Immature Scales OK",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna from Niddah stating the scales/fins relationship, which the prose under 'Immature Scales OK' explicitly introduces and discusses as 'tnan hatam' establishing that scales guarantee fins.",
+      "second_heading": "Why Both Fins Scales",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of why the Torah mentions both fins and scales if scales alone suffice, which is precisely what the 'Why Both Fins Scales' prose section is discussing.",
+      "current_heading": "Why Both Fins Scales",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Armor of Scales",
+    "candidates": [
+      "Disambiguation",
+      "Armor of Scales",
+      "Yagdil Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the question 've-hashta de-katav Rachmana snapir ve-kaskeset' and the derivation from the Goliath armor verse to establish that kaskeset means scales, then restates the question about why snapir is needed \u2014 exactly the content described in the 'Armor of Scales' section prose.",
+      "chosen_heading": "Armor of Scales",
+      "current_heading": "Armor of Scales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Yagdil Torah",
+    "candidates": [
+      "Yagdil Torah",
+      "700 Species Known",
+      "Adam Named All",
+      "Kol Asher Yikra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Abbahu and tana devei Rabbi Yishmael citing 'yagdil Torah ve-yadir,' which is precisely the topic discussed in candidate 0's prose about the principle of multiplying Torah words for grandeur.",
+      "chosen_heading": "Yagdil Torah",
+      "current_heading": "Yagdil Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Kol Asher Yikra",
+    "candidates": [
+      "700 Species Known",
+      "Adam Named All",
+      "Kol Asher Yikra",
+      "Eat & Don't Eat",
+      "Aseh Docheh Lo",
+      "Two Eating Mentions",
+      "Running Water Rule",
+      "Vessels Wells OK",
+      "Wells Cisterns",
+      "Wells Cisterns",
+      "Mayim Chayim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eat & Don't Eat",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita about why the Torah states both positive and negative commandments for fish, matching heading 3 'Eat & Don't Eat' which describes exactly this baraita and its question about redundancy.",
+      "second_heading": "Two Eating Mentions",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 elaborate on which water sources require kosher simanim (vessels vs. seas/rivers), directly matching heading 5 'Two Eating Mentions' which introduces the gemara's analysis of the double 'eating' language and what water contexts trigger the simanim requirement.",
+      "current_heading": "Kol Asher Yikra",
+      "moved": true
+    }
+  }
+]

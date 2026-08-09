@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Fat & Impurity: Kodshim",
+    "candidates": [
+      "Four + One Overview",
+      "Fat & Impurity: Kodshim",
+      "Rabbi Meir's Sixth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the four sin offerings and one guilt offering case, which matches the 'Four + One Overview' prose that explicitly describes this mishnah presenting 'a single kezayis that carries within it four distinct sin offerings and one asham,' whereas the current placement under 'Fat & Impurity: Kodshim' contains the detailed breakdown prose that should follow the mishnah.",
+      "chosen_heading": "Four + One Overview",
+      "current_heading": "Fat & Impurity: Kodshim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbi Meir's Sixth",
+    "candidates": [
+      "Fat & Impurity: Kodshim",
+      "Rabbi Meir's Sixth",
+      "Can Forbiddance Stack",
+      "Three Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Meir's statement about Shabbat liability and the Sages' rebuttal, which directly matches the 'Rabbi Meir's Sixth' section prose describing exactly this exchange.",
+      "chosen_heading": "Rabbi Meir's Sixth",
+      "current_heading": "Rabbi Meir's Sixth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Three Exceptions",
+    "candidates": [
+      "Can Forbiddance Stack",
+      "Three Exceptions",
+      "Fat Becomes Kodshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether Rabbi Meir holds issur chal al issur and introduces issur kolel and issur mosif as exceptions \u2014 exactly what the 'Can Forbiddance Stack' prose describes, not the detailed explanation of the three exceptions given in 'Three Exceptions'.",
+      "chosen_heading": "Can Forbiddance Stack",
+      "current_heading": "Three Exceptions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Fat Becomes Kodshim",
+    "candidates": [
+      "Three Exceptions",
+      "Fat Becomes Kodshim",
+      "Notar Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Exceptions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses a tamei person whose impurity adds a prohibition to already-forbidden fat \u2014 this is issur kolel, matching the 'Three Exceptions' prose description of becoming tamei as the classic issur kolel example.",
+      "second_heading": "Fat Becomes Kodshim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses fat that was initially forbidden only in eating and then consecrated, adding issur hana'ah \u2014 this is precisely the issur chamur case described in the 'Fat Becomes Kodshim' prose.",
+      "current_heading": "Fat Becomes Kodshim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Notar Case",
+    "candidates": [
+      "Notar Case",
+      "Yom Kippur Addition",
+      "Five Chataos Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the notar case and the Yom Kippur addition in a single continuous Talmudic excerpt, and the current placement under 'Notar Case' is where the text begins, with the Yom Kippur portion being a continuation of the same gemara passage that the 'Notar Case' prose introduces.",
+      "chosen_heading": "Notar Case",
+      "current_heading": "Notar Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Five Chataos Challenge",
+    "candidates": [
+      "Yom Kippur Addition",
+      "Five Chataos Challenge",
+      "One Limb/One Kezayit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's challenge of why not enumerate five chataos by including piggul, and explains that piggul and notar cannot coexist in one animal \u2014 exactly the content described in the 'Five Chataos Challenge' prose.",
+      "chosen_heading": "Five Chataos Challenge",
+      "current_heading": "Five Chataos Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "One Limb/One Kezayit",
+    "candidates": [
+      "One Limb/One Kezayit",
+      "Beth Habliah Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All eight items trace the gemara's narrowing constraints from one limb to one kezayis, including Ulla's rule, Rami bar \u1e24ama's dilemma, the Yom Kippur complication, and the three answers (Rabbi Zeira, Rav Pappa, Rav Adda bar A\u1e25a) \u2014 exactly the content described in the 'One Limb/One Kezayit' prose.",
+      "chosen_heading": "One Limb/One Kezayit",
+      "current_heading": "One Limb/One Kezayit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Beth Habliah Limit",
+    "candidates": [
+      "Beth Habliah Limit",
+      "Meir's Shabbat Idea",
+      "Why Specify Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Sages' measurement of the beit habli'ah (throat capacity) limiting a single act of eating to two kezaysim, which is precisely what the 'Beth Habliah Limit' prose describes.",
+      "chosen_heading": "Beth Habliah Limit",
+      "current_heading": "Beth Habliah Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Why Specify Shabbat",
+    "candidates": [
+      "Meir's Shabbat Idea",
+      "Why Specify Shabbat",
+      "Carrying Weakness",
+      "Carrying Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's question-and-answer exchange about why Rabbi Meir specifies Shabbat rather than simply stating liability for carrying, including Rafram's inference and the immediate challenge to it \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Why Specify Shabbat",
+      "current_heading": "Why Specify Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Carrying Permitted",
+    "candidates": [
+      "Carrying Weakness",
+      "Carrying Permitted",
+      "Rejection of Rafram",
+      "Six from One Act",
+      "Daughter/Sister Case"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Daughter/Sister Case",
+    "candidates": [
+      "Rejection of Rafram",
+      "Six from One Act",
+      "Daughter/Sister Case",
+      "Granddaughter Case",
+      "Father Marriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna introducing the six sin offerings from one act of intercourse belongs under 'Six from One Act,' which explicitly describes this transition and the yesh biah achas vechayav aleha shesh chatos case \u2014 the current placement under 'Daughter/Sister Case' is wrong because that heading's prose already presupposes the mishna has been introduced and discusses the gemara's analysis of the daughter/sister scenario, while items 1-4 here constitute the mishna and its immediate gemara explanation that the 'Six from One Act' heading introduces.",
+      "chosen_heading": "Six from One Act",
+      "current_heading": "Daughter/Sister Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Father Marriage Case",
+    "candidates": [
+      "Granddaughter Case",
+      "Father Marriage Case",
+      "Multiple Penalties",
+      "Yossi Rejects Stacking"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Granddaughter Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text covering the granddaughter case and wife's daughter case, which matches the 'Granddaughter Case' prose describing exactly these mishna passages and their enumerated prohibitions.",
+      "second_heading": "Father Marriage Case",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara discussion of Rabbi Yosei's ruling about the father marrying the granddaughter, Rabbi Yochanan's levirate marriage resolution, Rabbi Ya'akov's explanation of the transgression, and the baraita about kallat bno being a secondary forbidden relative \u2014 all of which matches the 'Father Marriage Case' prose precisely.",
+      "current_heading": "Father Marriage Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Yossi Rejects Stacking",
+    "candidates": [
+      "Multiple Penalties",
+      "Yossi Rejects Stacking",
+      "Yossi Agrees Mosif"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's challenge to Rabbi Yosei \u2014 quoting the mishna and baraita to ask whether he holds issur chal al issur \u2014 which is precisely the content described in candidate 1's prose about Rabbi Yosei's position on stacking prohibitions and the mother-in-law/married woman cases.",
+      "chosen_heading": "Yossi Rejects Stacking",
+      "current_heading": "Yossi Rejects Stacking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Yossi Agrees Mosif",
+    "candidates": [
+      "Yossi Agrees Mosif",
+      "First Prohibition Wins",
+      "Father Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Abbahu and Ravin/Rabbi Yochanan stating 'modeh Rabbi Yossi be-issur mosif,' which is precisely what the prose of heading 0 introduces and discusses.",
+      "chosen_heading": "Yossi Agrees Mosif",
+      "current_heading": "Yossi Agrees Mosif",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Father Example",
+    "candidates": [
+      "First Prohibition Wins",
+      "Father Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about what constitutes issur mosif in the grandfather-marrying-granddaughter case, answered by the 'de-ika bra le-saba' principle, which is precisely what the 'Father Example' prose section describes.",
+      "chosen_heading": "Father Example",
+      "current_heading": "Father Example",
+      "moved": false
+    }
+  }
+]

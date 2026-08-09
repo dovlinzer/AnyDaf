@@ -1,0 +1,275 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Multiple Collaterals",
+    "candidates": [
+      "Shmuel's Framework",
+      "Broom Handle Case",
+      "Rashi's Exchange",
+      "One vs. Two Objects",
+      "Multiple Collaterals",
+      "Shmuel vs. Mishnah",
+      "Rashi vs. Tosafot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Multiple Collaterals",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 cover Shmuel's ruling on one vs. two handles and Rav Na\u1e25man's extension to two handles and mixed collateral (handle + silver ingot), which is precisely what candidate 4 ('Multiple Collaterals') discusses in detail including the Nehardaei opinion.",
+      "second_heading": "Shmuel vs. Mishnah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's challenge to Shmuel from the mishnah \u2014 the debtor who could simply say 'you already received payment via the collateral' \u2014 which is exactly what candidate 5 ('Shmuel vs. Mishnah') is about.",
+      "current_heading": "Multiple Collaterals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rashi vs. Tosafot",
+    "candidates": [
+      "Shmuel vs. Mishnah",
+      "Rashi vs. Tosafot",
+      "Asmachta Analysis",
+      "Tannaitic Setup",
+      "R. Eliezer Chinam",
+      "R. Akiva Full Debt",
+      "With Document",
+      "Equal Value Condition",
+      "Shomer Status",
+      "Kinyan Principle",
+      "Tzedakah Verse",
+      "Enhanced Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's resolution 'masnisin b'defarish, Shmuel b'delo parish' which is the exact quote the prose of heading 0 ('Shmuel vs. Mishnah') discusses as resolving the contradiction between Shmuel and the mishnah, whereas heading 1 ('Rashi vs. Tosafot') discusses the subsequent debate about which direction the distinction runs.",
+      "chosen_heading": "Shmuel vs. Mishnah",
+      "current_heading": "Rashi vs. Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Enhanced Obligation",
+    "candidates": [
+      "Asmachta Analysis",
+      "Tannaitic Setup",
+      "R. Eliezer Chinam",
+      "R. Akiva Full Debt",
+      "With Document",
+      "Equal Value Condition",
+      "Shomer Status",
+      "Kinyan Principle",
+      "Tzedakah Verse",
+      "Enhanced Obligation",
+      "Post-Loan Taking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita introducing the tannaitic dispute (Rabbi Eliezer vs. Rabbi Akiva) plus the additional clause about a loan with a shtar, which is precisely what the 'Tannaitic Setup' prose describes as the Gemara asking whether Shmuel's position reflects a broader tannaitic dispute concerning hamalveh et chavero al hamashkon ve'avad hamashkon.",
+      "chosen_heading": "Tannaitic Setup",
+      "current_heading": "Enhanced Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Post-Loan Taking",
+    "candidates": [
+      "Enhanced Obligation",
+      "Post-Loan Taking",
+      "Shomer Avedah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks what circumstances divide Rabbi Eliezer and Rabbi Akiva \u2014 specifically whether the collateral was worth the loan amount or not \u2014 which is the exact analytical question the 'Enhanced Obligation' prose sets up when it says the tanna'im are divided on whether kinyan applies and signals the Gemara's unease before moving to the post-loan distinction.",
+      "chosen_heading": "Enhanced Obligation",
+      "current_heading": "Post-Loan Taking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Shomer Avedah",
+    "candidates": [
+      "Post-Loan Taking",
+      "Shomer Avedah",
+      "Rabbah vs. Rav Yosef",
+      "Collateral as Mitzvah",
+      "Mitzvah Exemption",
+      "Loan vs. Holding",
+      "Using Collateral",
+      "Shemitah Scenario",
+      "Whole Debt Protected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-7 form a continuous chain discussing Rabbi Yitzchak's kinyan principle, the post-loan vs. at-the-time distinction, and then the Rabbah/Rav Yosef shomer avedah dispute \u2014 all of which the 'Rabbah vs. Rav Yosef' prose describes directly, whereas the current placement ('Shomer Avedah') only covers the setup and the 'Rabbah vs. Rav Yosef' section covers the actual cited dispute with Rabba and Rav Yosef that dominates items 5-7.",
+      "chosen_heading": "Rabbah vs. Rav Yosef",
+      "current_heading": "Shomer Avedah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Whole Debt Protected",
+    "candidates": [
+      "Rabbah vs. Rav Yosef",
+      "Collateral as Mitzvah",
+      "Mitzvah Exemption",
+      "Loan vs. Holding",
+      "Using Collateral",
+      "Shemitah Scenario",
+      "Whole Debt Protected",
+      "Partial Annulment",
+      "Full Embodiment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items together present the baraita about shemitah and collateral and begin analyzing it, which corresponds precisely to heading 5 ('Shemitah Scenario') whose prose describes revisiting Shmuel's framework in the shemitah context and introduces the mishnah about hamalveh et chavero al hamashkon venichnesah shemitah \u2014 the exact content of these items.",
+      "chosen_heading": "Shemitah Scenario",
+      "current_heading": "Whole Debt Protected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Full Embodiment",
+    "candidates": [
+      "Partial Annulment",
+      "Full Embodiment",
+      "Unrepresented Portion",
+      "Reminder Only",
+      "Three Models",
+      "Model 1: Full",
+      "Model 2: Value",
+      "Model 3: Reminder",
+      "Gemara Summary",
+      "All Oaths Topic",
+      "Torah Oaths",
+      "Modeh B'Miktzat",
+      "Ed Echad",
+      "Shvuat Shomrim",
+      "Rabbinic Oaths",
+      "Presumption",
+      "Employee Case",
+      "Employee Collects",
+      "R. Yehuda Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage concludes with the Gemara's rejection that the mashkon represents any portion of the debt, explaining it is 'merely a reminder' (l'zikharon devarim b'alma), which directly matches the 'Reminder Only' section's prose about this third position.",
+      "chosen_heading": "Reminder Only",
+      "current_heading": "Full Embodiment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "R. Yehuda Reversal",
+    "candidates": [
+      "Unrepresented Portion",
+      "Reminder Only",
+      "Three Models",
+      "Model 1: Full",
+      "Model 2: Value",
+      "Model 3: Reminder",
+      "Gemara Summary",
+      "All Oaths Topic",
+      "Torah Oaths",
+      "Modeh B'Miktzat",
+      "Ed Echad",
+      "Shvuat Shomrim",
+      "Rabbinic Oaths",
+      "Presumption",
+      "Employee Case",
+      "Employee Collects",
+      "R. Yehuda Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage is a Hadaran (concluding formula marking the end of a tractate chapter) and does not match any of the candidate prose sections precisely, but it signals a conclusion/transition rather than belonging to any specific substantive discussion; with no clearly better match, and the Hadaran appearing after the R. Yehuda discussion, the current placement (index 16) is as plausible as any other nearby heading.",
+      "chosen_heading": "Unrepresented Portion",
+      "current_heading": "R. Yehuda Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "R. Yehuda Reversal",
+    "candidates": [
+      "R. Yehuda Reversal",
+      "Robbery Victim",
+      "Victim Collects",
+      "R. Yehuda Partial",
+      "Assault Case",
+      "Assault Collects",
+      "R. Yehuda Assault",
+      "Mishnah Ratio",
+      "Tosafot Object",
+      "Rabbeinu Tam",
+      "Coin Thickness",
+      "Historical Ratios"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yehuda Reversal",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the Mishnah's opening statement and the hired worker case (with Rabbi Yehuda's partial admission requirement), which matches heading 0 ('R. Yehuda Reversal') that discusses the baseline rule and Rabbi Yehuda's modeh b'miktzat predicate for the employee case.",
+      "second_heading": "Robbery Victim",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 begin the robbery victim case with its own new facts and witnesses, matching heading 1 ('Robbery Victim') which discusses the nigzal case with unauthorized entry testimony.",
+      "current_heading": "R. Yehuda Reversal",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Privacy Assumption",
+    "candidates": [
+      "Intro: Two Models",
+      "Vayikra Purpose",
+      "Moshe Distance",
+      "Derech Eretz Principle",
+      "Privacy Assumption",
+      "Speech as Relational",
+      "Both Hold Essentials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses both the derech eretz principle (vayikra before vayedaber) and the lemor/confidentiality principle, with the latter being the main focus \u2014 which matches exactly the prose of candidate 4 ('Privacy Assumption') describing Rav Menashya's derivation from lemor regarding the prohibition to repeat information without explicit permission.",
+      "chosen_heading": "Privacy Assumption",
+      "current_heading": "Privacy Assumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Both Hold Essentials",
+    "candidates": [
+      "Speech as Relational",
+      "Both Hold Essentials",
+      "Miluim vs. Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the inference that both amora'im agree all written elements of the miluim are me'akev AND the dispute between Rabbi Yochanan and Rabbi Chanina, which together constitute exactly what the 'Both Hold Essentials' prose discusses \u2014 the implicit shared premise plus the immediately following broader dispute about which elements count.",
+      "chosen_heading": "Both Hold Essentials",
+      "current_heading": "Both Hold Essentials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Miluim vs. Future",
+    "candidates": [
+      "Miluim vs. Future",
+      "Semicha Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Miluim vs. Future' prose, which explicitly describes the tistayeim conclusion about Rabbi Yochanan and the mai beinaihu question that follows.",
+      "chosen_heading": "Miluim vs. Future",
+      "current_heading": "Miluim vs. Future",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Semicha Analysis",
+    "candidates": [
+      "Semicha Analysis",
+      "Blood and Kapara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's statement about semikhah as the practical difference between the two opinions regarding miluim, which is precisely what the 'Semicha Analysis' prose describes.",
+      "chosen_heading": "Semicha Analysis",
+      "current_heading": "Semicha Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Blood and Kapara",
+    "candidates": [
+      "Blood and Kapara",
+      "Semicha Paradox",
+      "Waving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks from where we derive that semikhah does not invalidate and cites the baraita questioning whether semikhah achieves kapara, which is precisely what the 'Blood and Kapara' section's prose describes and analyzes.",
+      "chosen_heading": "Blood and Kapara",
+      "current_heading": "Blood and Kapara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Waving",
+    "candidates": [
+      "Semicha Paradox",
+      "Waving",
+      "Seven-Day Separation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Semicha Paradox",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about semikhah that the 'Semicha Paradox' prose explicitly quotes and discusses (the k'ilu lo kiper v'chiper formulation applied to semikhah), while items 2-3 introduce Rav Nachman bar Yitzchak's identification of tenuphah as the next disputed point, which the 'Waving' section's prose directly discusses.",
+      "second_heading": "Waving",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rav Nachman bar Yitzchak's statement about tenuphah and the supporting baraita proving tenuphah is not me'akev in future generations, which is precisely the content described in the 'Waving' section's prose.",
+      "current_heading": "Waving",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Seven-Day Separation",
+    "candidates": [
+      "Seven-Day Separation",
+      "Dressing & Anointing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the seven-day separation (prisha shiva) \u2014 Rav Pappa identifying it as the practical difference between opinions, and the Gemara deriving from the mishnah's language that it is not me'akev l'dorot \u2014 which is precisely what the 'Seven-Day Separation' prose discusses.",
+      "chosen_heading": "Seven-Day Separation",
+      "current_heading": "Seven-Day Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Dressing & Anointing",
+    "candidates": [
+      "Dressing & Anointing",
+      "Tetzaveh vs. Acharei Mot",
+      "Minimum Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement identifying ribui shiva u'meshicha shiva as the practical difference between Rabbi Yochanan and Rabbi Chanina, which is precisely what the 'Dressing & Anointing' section's prose discusses.",
+      "chosen_heading": "Dressing & Anointing",
+      "current_heading": "Dressing & Anointing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Minimum Requirements",
+    "candidates": [
+      "Tetzaveh vs. Acharei Mot",
+      "Minimum Requirements",
+      "Kakah Exactness",
+      "Pesach Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the baraita deriving that failure to anoint/don multiple garments for seven days does not invalidate offerings throughout the generations, and the source for the ab initio requirement of seven days of anointment \u2014 exactly the content described in the 'Minimum Requirements' prose.",
+      "chosen_heading": "Minimum Requirements",
+      "current_heading": "Minimum Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Pesach Gezeirah",
+    "candidates": [
+      "Kakah Exactness",
+      "Pesach Gezeirah",
+      "Three Proofs",
+      "Nadav Avihu Death",
+      "Mincha Eating",
+      "Chattas Question",
+      "Shlomim Permission",
+      "Rashi's Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kakah Exactness",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the initial proof from 'kakah' and the subsequent challenge about matters not written in that context, matching exactly the prose of 'Kakah Exactness' which discusses Rabbi Yitzchak bar Bisna's derivation from 'kakha' and the question about elements not in Tetzaveh.",
+      "second_heading": "Pesach Gezeirah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the three answers (Rav Nachman's gezeirah shavah on 'pesach', Rav Mesharshiya's proof, and Rav Ashi's proof), but the current placement 'Pesach Gezeirah' only covers Rav Nachman's answer while 'Three Proofs' covers Rav Mesharshiya and Rav Ashi \u2014 however since all three are a single continuous chain answering the same question, they belong together under 'Pesach Gezeirah' which is where the challenge and its answers are discussed together.",
+      "current_heading": "Pesach Gezeirah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rashi's Reading",
+    "candidates": [
+      "Three Proofs",
+      "Nadav Avihu Death",
+      "Mincha Eating",
+      "Chattas Question",
+      "Shlomim Permission",
+      "Rashi's Reading",
+      "Michnasayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita explaining the three variant phrases (ki chein tzuveisi, ka'asher tziveisi, ka'asher tziva Hashem) and their specific meanings is the content introduced and framed by the 'Nadav Avihu Death' section's prose, which explicitly states that the gemara pursues this digression about the threefold repetition appearing on Yom HaShmini.",
+      "chosen_heading": "Nadav Avihu Death",
+      "current_heading": "Rashi's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Michnasayim",
+    "candidates": [
+      "Rashi's Reading",
+      "Michnasayim",
+      "Esheris Ha'eiphah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei bar \u1e24anina's statement about michnasayim not being written in the parsha but derived from 'vezeh hadavar,' which is precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Michnasayim",
+      "current_heading": "Michnasayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Esheris Ha'eiphah",
+    "candidates": [
+      "Esheris Ha'eiphah",
+      "Contradiction Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of candidate 0, which describes the gezeirah shavah of zeh-zeh for asiris ha'eiphah and then cites Rabbi Yochanan in the name of Rabbi Shimon ben Yochai about mikra parsha being me'akev \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Esheris Ha'eiphah",
+      "current_heading": "Esheris Ha'eiphah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Contradiction Resolution",
+    "candidates": [
+      "Contradiction Resolution",
+      "Future World Query",
+      "Order Contradictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Contradiction Resolution' prose: the initial question about how Moses dressed the priests, the gemara's objection (mai de-heva heva), and the reframing toward future practice \u2014 all of which that section's prose explicitly discusses.",
+      "chosen_heading": "Contradiction Resolution",
+      "current_heading": "Contradiction Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Order Contradictions",
+    "candidates": [
+      "Future World Query",
+      "Order Contradictions",
+      "Two Dressing Orders",
+      "Cloak/Hat Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the question of how Moses dressed them and presents the initial dispute, which corresponds to the 'Order Contradictions' section that discusses the contradictory pesukim and the gemara proceeding to analyze the order of dressing.",
+      "chosen_heading": "Order Contradictions",
+      "current_heading": "Order Contradictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Cloak/Hat Agreement",
+    "candidates": [
+      "Two Dressing Orders",
+      "Cloak/Hat Agreement",
+      "Belt Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's statement distinguishing the undisputed case (tunic and mitre) from the disputed case (belt), which matches exactly the prose of 'Cloak/Hat Agreement' \u2014 the current placement is correct.",
+      "chosen_heading": "Cloak/Hat Agreement",
+      "current_heading": "Cloak/Hat Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Belt Dispute",
+    "candidates": [
+      "Belt Dispute",
+      "Sequential Uninterrupted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute about whether the High Priest's belt is the same as the common priest's belt, which is explicitly described in the 'Belt Dispute' prose as the explanation each side gives for the other's proof-text.",
+      "chosen_heading": "Belt Dispute",
+      "current_heading": "Belt Dispute",
+      "moved": false
+    }
+  }
+]

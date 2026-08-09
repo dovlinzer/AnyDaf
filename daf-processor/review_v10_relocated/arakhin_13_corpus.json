@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Koresh to Darius",
+    "candidates": [
+      "Twin Destructions",
+      "420-Year Puzzle",
+      "Six Years Excluded",
+      "Koresh to Darius",
+      "'Amar' vs 'Amar'",
+      "Stam d'Gemara",
+      "Yechezkel's 14 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Ashi's answer and its scriptural proof \u2014 the six-year gap before Ezra's ascent \u2014 which is precisely what heading 2 ('Six Years Excluded') describes, including the note that the Gemara derives the six-year figure from the chain of verses that follows.",
+      "chosen_heading": "Six Years Excluded",
+      "current_heading": "Koresh to Darius",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Yechezkel's 14 Years",
+    "candidates": [
+      "'Amar' vs 'Amar'",
+      "Stam d'Gemara",
+      "Yechezkel's 14 Years",
+      "Kalev's Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Israel counting seventeen Jubilees, the fourteen-year gap from Yechezkel's vision, and why counting couldn't begin immediately upon entry \u2014 exactly what the 'Yechezkel's 14 Years' section prose describes.",
+      "chosen_heading": "Yechezkel's 14 Years",
+      "current_heading": "Yechezkel's 14 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Kalev's Age",
+    "candidates": [
+      "Kalev's Age",
+      "Division of Land",
+      "Mishnah's Six",
+      "Rashi's System"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kalev's Age",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 derive the seven years of conquest from Caleb's age, matching heading 0's prose which walks through exactly this Caleb-based arithmetic.",
+      "second_heading": "Division of Land",
+      "second_confidence": "high",
+      "second_reason": "Item 3 asks from where we derive the seven years of division and offers two answers, matching heading 1's prose which discusses precisely these two answers including the Ezekiel 'fourteenth year' calculation.",
+      "current_heading": "Kalev's Age",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rashi's System",
+    "candidates": [
+      "Division of Land",
+      "Mishnah's Six",
+      "Rashi's System",
+      "Ben Bag Bag"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Mishna about six lambs, the Gemara's objection about additional offerings, the resolution that the phrase is merely a mnemonic, and the four-day inspection rule attributed to Ben Bag Bag \u2014 are precisely the content described in the 'Mishnah's Six' prose, which walks through exactly this sequence of Mishna, objection, 'tana b'alma ka'ei' answer, 'simana b'alma', and the four-day pre-inspection requirement.",
+      "chosen_heading": "Mishnah's Six",
+      "current_heading": "Rashi's System",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Ben Bag Bag",
+    "candidates": [
+      "Rashi's System",
+      "Ben Bag Bag",
+      "General Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ben Bag Bag's gezerah shavah derivation using the shared root sh-m-r between the tamid and Pesach verses, which is precisely what the 'Ben Bag Bag' section's prose describes.",
+      "chosen_heading": "Ben Bag Bag",
+      "current_heading": "Ben Bag Bag",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "General Minimum",
+    "candidates": [
+      "General Minimum",
+      "Trumpets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly supports the 'General Minimum' section's discussion of the Gemara's linguistic analysis of 'k'dei Shabbat' versus 'l'Shabbat' as evidence that Shabbat is used as a mnemonic/reference point rather than specifying a purpose-driven minimum.",
+      "chosen_heading": "General Minimum",
+      "current_heading": "General Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Trumpets",
+    "candidates": [
+      "Trumpets",
+      "Harps & Tosa",
+      "Cymbals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the maximum number of trumpets (up to 120) based on the verse from II Chronicles, which is precisely what the 'Trumpets' section prose describes.",
+      "chosen_heading": "Trumpets",
+      "current_heading": "Trumpets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Cymbals",
+    "candidates": [
+      "Harps & Tosa",
+      "Cymbals",
+      "Mishnah's 12",
+      "Minors' Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the cymbal being played alone, the derivation from the verse about Asaph, and the grammatical question about the dual form 'metziltayim' \u2014 all of which are precisely what the 'Cymbals' section prose discusses.",
+      "chosen_heading": "Cymbals",
+      "current_heading": "Cymbals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Minors' Role",
+    "candidates": [
+      "Mishnah's 12",
+      "Minors' Role",
+      "R. Eliezer b. Yaakov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single Mishnah that covers both the twelve-Levite minimum and the minors' role; it belongs under heading 0 ('Mishnah's 12') which is the opening of that Mishnah, since the entire text is one unified Mishna that should be introduced once, and heading 0's prose explicitly quotes and introduces this very Mishnah including the twelve-Levite rule that opens it.",
+      "chosen_heading": "Mishnah's 12",
+      "current_heading": "Minors' Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "R. Eliezer b. Yaakov",
+    "candidates": [
+      "Minors' Role",
+      "R. Eliezer b. Yaakov",
+      "Rav Pappa's Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer ben Yaakov's statement about minors not counting in the twelve, not ascending the platform, and being called 'tzoarei haLevi'im' \u2014 exactly what the prose under heading 1 ('R. Eliezer b. Yaakov') discusses.",
+      "chosen_heading": "R. Eliezer b. Yaakov",
+      "current_heading": "R. Eliezer b. Yaakov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Pappa's Math",
+    "candidates": [
+      "Rav Pappa's Math",
+      "Divrei HaYamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav Pappa's derivation of the number twelve from nine harps, two lyres, and one cymbal, which is precisely what candidate 0 ('Rav Pappa's Math') discusses in its prose.",
+      "chosen_heading": "Rav Pappa's Math",
+      "current_heading": "Rav Pappa's Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Divrei HaYamim",
+    "candidates": [
+      "Divrei HaYamim",
+      "Voices Only",
+      "R. Yehuda's Strings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the permissibility of minor Levites in the Azarah from a verse in Ezra about Jeshua and his sons, which matches exactly the prose in candidate 0 discussing Rabbi Yochanan's derivation from that same verse regarding minors and the shir.",
+      "chosen_heading": "Divrei HaYamim",
+      "current_heading": "Divrei HaYamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "R. Yehuda's Strings",
+    "candidates": [
+      "Voices Only",
+      "R. Yehuda's Strings",
+      "Nevel vs Kinnor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the Gemara's question of whether the Mishnah contradicts Rabbi Yehuda \u2014 starting from the Mishnah's distinction between nevel and kinnor, through Rabbi Yehuda's baraita about strings, ending with the proof that Rabbi Yehuda equates them \u2014 and this entire unit is precisely what heading 0 ('Voices Only') describes: the Mishnah's distinction and the Gemara's challenge leima matnitin dela k'Rabbi Yehuda, while heading 1 ('R. Yehuda's Strings') describes only the baraita content and its resolution, which is the next section.",
+      "chosen_heading": "Voices Only",
+      "current_heading": "R. Yehuda's Strings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Nevel vs Kinnor",
+    "candidates": [
+      "R. Yehuda's Strings",
+      "Nevel vs Kinnor",
+      "Soadei vs Tza'arei",
+      "Pure Voices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's resolution ('afilu teima Rabbi Yehuda, l'olam haba...') explaining why the kinnor of olam haba is called a nevel due to its increased strings and fuller sound, which is precisely what candidate 1's prose describes and analyzes.",
+      "chosen_heading": "Nevel vs Kinnor",
+      "current_heading": "Nevel vs Kinnor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Pure Voices",
+    "candidates": [
+      "Soadei vs Tza'arei",
+      "Pure Voices"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Soadei vs Tza'arei",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the baraita using 'soadei' and the Gemara's explanation of why the Mishnah uses 'tza'arei' instead, which is precisely the content heading 0 ('Soadei vs Tza'arei') discusses, while heading 1 only covers the voice explanation and the hadran closing.",
+      "second_heading": "Pure Voices",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran formula closing the chapter, which heading 1's prose explicitly references ('Hadran alach elu ne'erachin \u2014 and with that we complete another chapter').",
+      "current_heading": "Pure Voices",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Idol Underneath",
+    "candidates": [
+      "Previous Stages",
+      "Made for Idolatry",
+      "Added Materials",
+      "Tashmish",
+      "Three Categories",
+      "Planted for Idolatry",
+      "Pruned Tree",
+      "Idol Underneath",
+      "Grafting Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself presenting all three categories of asherah trees, which directly corresponds to the 'Three Categories' section whose prose explicitly introduces this mishna as organized around three distinct categories.",
+      "chosen_heading": "Three Categories",
+      "current_heading": "Idol Underneath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Grafting Required",
+    "candidates": [
+      "Idol Underneath",
+      "Grafting Required",
+      "Bittul Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara teaching from Rabbi Yannai's school about grafting onto the tree's trunk, which is exactly what the 'Grafting Required' section's prose discusses.",
+      "chosen_heading": "Grafting Required",
+      "current_heading": "Grafting Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Bittul Context",
+    "candidates": [
+      "Bittul Context",
+      "Doesn't Redefine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge ('But didn't we learn gido ufaslo') that prompts the reframing to bittul context, which is precisely what the 'Bittul Context' prose describes as the gemara's immediate resistance and subsequent reframing.",
+      "chosen_heading": "Bittul Context",
+      "current_heading": "Bittul Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Doesn't Redefine",
+    "candidates": [
+      "Doesn't Redefine",
+      "Shmuel's View",
+      "Rabbi Elazar's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of whether grafting onto the tree's body redefines the entire tree as forbidden, which is precisely what the 'Doesn't Redefine' section's prose discusses \u2014 the mahu de-teima argument and the ka mashma lan conclusion that only the grafted portion is affected.",
+      "chosen_heading": "Doesn't Redefine",
+      "current_heading": "Doesn't Redefine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rabbi Elazar's Challenge",
+    "candidates": [
+      "Shmuel's View",
+      "Rabbi Elazar's Challenge",
+      "Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's statement and Rabbi Elazar's objection from the mishnah about pruning being required, which matches exactly the prose of 'Rabbi Elazar's Challenge' that describes this precise exchange.",
+      "chosen_heading": "Rabbi Elazar's Challenge",
+      "current_heading": "Rabbi Elazar's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Attribution",
+    "candidates": [
+      "Attribution",
+      "Base vs. Growth",
+      "All Agree New"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's attribution to Rabbi Yosei bar Yehuda and the contrast with the Rabbanan's position, which is precisely what the 'Attribution' section's prose discusses.",
+      "chosen_heading": "Attribution",
+      "current_heading": "Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "All Agree New",
+    "candidates": [
+      "Base vs. Growth",
+      "All Agree New",
+      "Yossi vs. Rabbis",
+      "Scriptural Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's objection questioning the assumption that the dispute concerns additional growth, which matches heading 0's prose about Rav Ashi proposing a fundamentally different reading \u2014 heading 1 describes the conclusion of his proposal (that new growth is forbidden), which is the second half of his argument, not this opening challenge.",
+      "chosen_heading": "Base vs. Growth",
+      "current_heading": "All Agree New",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Scriptural Proofs",
+    "candidates": [
+      "Yossi vs. Rabbis",
+      "Scriptural Proofs",
+      "Accommodating Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal directly with the scriptural proofs underlying the Rabbi Yosei bar Yehuda vs. Rabbis dispute \u2014 the verses 'tisrefun ba-esh' and 'tigadun' and how they map to each position \u2014 which is precisely what the 'Scriptural Proofs' prose describes, including the identification of the tree as 'ilan she-neta'o ul-vasof avdo' and the note about reversing the attribution of verses.",
+      "chosen_heading": "Scriptural Proofs",
+      "current_heading": "Scriptural Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Accommodating Both",
+    "candidates": [
+      "Accommodating Both",
+      "Yossi's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the rejection of Rav Ashi's suggestion by asking 'who teaches the mishna requiring pruning,' arguing it fits neither the Rabbis nor Rabbi Yosei bar Yehuda \u2014 exactly what the prose under 'Accommodating Both' describes.",
+      "chosen_heading": "Accommodating Both",
+      "current_heading": "Accommodating Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Yossi's Position",
+    "candidates": [
+      "Yossi's Position",
+      "Rabbis' Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses specifically the Rabbi Yosei bar Yehuda interpretation (bistama vs. lopped/trimmed cases), which is exactly what Heading 0 'Yossi's Position' prose covers in detail.",
+      "chosen_heading": "Yossi's Position",
+      "current_heading": "Yossi's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rabbis' Position",
+    "candidates": [
+      "Rabbis' Position",
+      "Mishnah Structure",
+      "Rabbi Shimon",
+      "Tzidon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis' position and why the mishnah needed to specify pruning even according to the rabbanan, which is precisely what the 'Rabbis' Position' prose section addresses.",
+      "chosen_heading": "Rabbis' Position",
+      "current_heading": "Rabbis' Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Tzidon Story",
+    "candidates": [
+      "Mishnah Structure",
+      "Rabbi Shimon",
+      "Tzidon Story",
+      "Sages' View",
+      "Rav's Criterion",
+      "Shmuel's Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna defining asherah and the Gemara clarifying the three-case structure and the Rabbi Shimon/Rabbanan dispute \u2014 are precisely what the 'Mishnah Structure' prose describes: the eizu hi asherah question, the two undisputed cases, and the one disputed case.",
+      "chosen_heading": "Mishnah Structure",
+      "current_heading": "Tzidon Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Shmuel's Extension",
+    "candidates": [
+      "Sages' View",
+      "Rav's Criterion",
+      "Shmuel's Extension",
+      "Sign Not Cause",
+      "Shade Prohibition"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shade Prohibition",
+    "candidates": [
+      "Sign Not Cause",
+      "Shade Prohibition",
+      "Types of Shade"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishnah text directly introduces the shade prohibition, the sitting/passing distinction, and the tumah rules that candidate 1's prose explicitly discusses and introduces.",
+      "chosen_heading": "Shade Prohibition",
+      "current_heading": "Shade Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Types of Shade",
+    "candidates": [
+      "Types of Shade",
+      "Benefit vs. Tumah",
+      "Impurity Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the distinction between tzel komato and tzel tzilah and the two alternative readings of Rabbah bar bar Chana's statement in the name of Rabbi Yochanan \u2014 exactly what the 'Types of Shade' prose describes.",
+      "chosen_heading": "Types of Shade",
+      "current_heading": "Types of Shade",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Impurity Source",
+    "candidates": [
+      "Benefit vs. Tumah",
+      "Impurity Source",
+      "Public Domain",
+      "Forced Passage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the source of tumah under an asherah \u2014 item 1 explains it is due to tikrovet avodah zarah beneath the tree, and item 2 identifies Rabbi Yehuda ben Beteira's derivation that tikrovet avodah zarah transmits ohel-tumah, which is precisely what the 'Impurity Source' prose describes.",
+      "chosen_heading": "Impurity Source",
+      "current_heading": "Impurity Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Forced Passage",
+    "candidates": [
+      "Public Domain",
+      "Forced Passage",
+      "Alternative Paths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's dilemma about whether 'avar' means after the fact or lechatchila, and the positions of Rabbi Yitzchak ben Elazar and Rabbi Yochanan \u2014 exactly what the 'Forced Passage' prose describes.",
+      "chosen_heading": "Forced Passage",
+      "current_heading": "Forced Passage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Alternative Paths",
+    "candidates": [
+      "Alternative Paths",
+      "Rav Sheshet Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the 'no disagreement' resolution based on whether an alternative path exists, which is precisely what the 'Alternative Paths' prose elaborates on.",
+      "chosen_heading": "Alternative Paths",
+      "current_heading": "Alternative Paths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rav Sheshet Story",
+    "candidates": [
+      "Rav Sheshet Story",
+      "Vegetables Allowed",
+      "Lettuce Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Sheshet story \u2014 the challenge and its resolution about adam chashuv shani \u2014 which is precisely what the 'Rav Sheshet Story' prose describes.",
+      "chosen_heading": "Rav Sheshet Story",
+      "current_heading": "Rav Sheshet Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Lettuce Forbidden",
+    "candidates": [
+      "Vegetables Allowed",
+      "Lettuce Forbidden",
+      "Rabbi Yossi",
+      "Two Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers all three elements: vegetables in rainy season (heading 0), lettuce forbidden (heading 1), and Rabbi Yosei's view (heading 2), so it belongs under the first heading 'Vegetables Allowed' where the passage begins, rather than being placed mid-passage under 'Lettuce Forbidden'.",
+      "chosen_heading": "Vegetables Allowed",
+      "current_heading": "Lettuce Forbidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Two Factors",
+    "candidates": [
+      "Rabbi Yossi",
+      "Two Factors",
+      "Two Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rabbi Yosei holds zeh v'zeh gorem is forbidden and the Rabbis hold it is permitted \u2014 this is precisely the framing question that introduces the 'Two Factors' (zeh v'zeh gorem) discussion, matching that section's prose exactly.",
+      "chosen_heading": "Two Factors",
+      "current_heading": "Two Factors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Two Sources",
+    "candidates": [
+      "Two Sources",
+      "Orlah Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 0's prose discusses: Rabbi Yossi grinding and throwing an idol, the rabbanan's objection about fertilizer, and the lo yidbak verse \u2014 all of which are the content the 'Two Sources' section explicitly addresses.",
+      "chosen_heading": "Two Sources",
+      "current_heading": "Two Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Orlah Contradiction",
+    "candidates": [
+      "Orlah Contradiction",
+      "Indirect Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the contradiction between the Rabbis and Rabbi Yosei's positions, which corresponds to the 'Orlah Contradiction' section that discusses the striking problem of Rabbi Yossi appearing to take opposite positions.",
+      "chosen_heading": "Orlah Contradiction",
+      "current_heading": "Orlah Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Indirect Benefit",
+    "candidates": [
+      "Indirect Benefit",
+      "Offset Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 resolving Rabbi Yosei's contradiction, raising the Rabbanan contradiction, offering 'ifoch,' and then 've-ee bayit eima lo tifoch' \u2014 are explicitly described and discussed in the 'Indirect Benefit' prose, which traces exactly this sequence and even references Rav Mari's principle as the next topic, making it the clear home for all three items.",
+      "chosen_heading": "Indirect Benefit",
+      "current_heading": "Indirect Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Offset Principle",
+    "candidates": [
+      "Offset Principle",
+      "Orlah Grafted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the offset principle (foliage benefit vs. shade damage) which is precisely what the prose under 'Offset Principle' discusses as the gemara's resolution regarding the rabbanan's position on planting beneath an asherah.",
+      "chosen_heading": "Offset Principle",
+      "current_heading": "Offset Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Orlah Grafted",
+    "candidates": [
+      "Orlah Grafted",
+      "Contradictory Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit probing Rabbi Yosei's position on zeh v'zeh gorem via the orlah nut case, exactly matching the 'Orlah Grafted' prose which discusses Rav Yehuda/Rav's ruling and the confirming baraita ('modeh Rabbi Yossi she-im nata ve-hivrich ve-hirkiv mutar').",
+      "chosen_heading": "Orlah Grafted",
+      "current_heading": "Orlah Grafted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Contradictory Sources",
+    "candidates": [
+      "Contradictory Sources",
+      "Position Clarification",
+      "Transition Forward"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Contradictory Sources",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the two contradictory baraitot about the field and cow, which is exactly what the 'Contradictory Sources' prose describes.",
+      "second_heading": "Position Clarification",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the gemara's answer that these baraitot reflect Rabbi Eliezer and the Rabbanan (not Rabbi Yosei and the Rabbanan), which is precisely what the 'Position Clarification' prose discusses.",
+      "current_heading": "Contradictory Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Transition Forward",
+    "candidates": [
+      "Position Clarification",
+      "Transition Forward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks which Rabbi Eliezer/Rabbanan dispute is meant and begins examining the leaven dispute \u2014 this is the inquiry that follows the 'Position Clarification' prose identifying Rabbi Eliezer and the rabbanan as the authors, not the 'Transition Forward' prose which summarizes conclusions already reached.",
+      "chosen_heading": "Position Clarification",
+      "current_heading": "Transition Forward",
+      "moved": true
+    }
+  }
+]

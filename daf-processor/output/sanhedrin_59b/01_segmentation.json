@@ -29,7 +29,7 @@
           "timestamp": "01:26"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -121,7 +121,7 @@
           "timestamp": "25:25"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -193,8 +193,8 @@
           "timestamp": "42:11"
         }
       ],
-      "sefaria_index": 33,
-      "matched": false
+      "sefaria_index": 42,
+      "matched": true
     },
     {
       "title": "Keriah (Tearing Garments): When It Is Required and When the Tear Remains Unsewn",
@@ -212,7 +212,7 @@
           "timestamp": "44:20"
         }
       ],
-      "sefaria_index": 33,
+      "sefaria_index": 42,
       "matched": false
     },
     {
@@ -518,6 +518,6 @@
   "amud_b_segment_index": 3,
   "amud_b_timestamp": "13:24",
   "amud_b_micro_title": "Milah Exception",
-  "shiur_start_daf": 59,
-  "shiur_start_amud": "a"
+  "shiur_start_daf": 58,
+  "shiur_start_amud": "b"
 }

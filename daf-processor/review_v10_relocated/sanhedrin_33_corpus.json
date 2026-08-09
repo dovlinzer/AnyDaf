@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Reversibility Rules",
+    "candidates": [
+      "Opening & Framework",
+      "Opening Procedure",
+      "Reversibility Rules",
+      "Mumche Distinction",
+      "Rashi's Logic",
+      "Liability & Mumche"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in the 'Reversibility Rules' section prose: the mishna's rule about reversing civil rulings and the contradicting source stating 'ma she'asa asa' with the judge paying from his own funds.",
+      "chosen_heading": "Reversibility Rules",
+      "current_heading": "Reversibility Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Liability & Mumche",
+    "candidates": [
+      "Mumche Distinction",
+      "Rashi's Logic",
+      "Liability & Mumche",
+      "Higher Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's mumche/non-mumche distinction and the immediate Gemara challenge to it, which directly corresponds to heading 0 ('Mumche Distinction') whose prose explicitly describes Rav Yosef's 'lo kashya \u2014 kan bemumcheh, kan beshe'eino mumcheh' resolution that this passage contains.",
+      "chosen_heading": "Mumche Distinction",
+      "current_heading": "Liability & Mumche",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Higher Authority",
+    "candidates": [
+      "Liability & Mumche",
+      "Higher Authority",
+      "Rav Sheshet's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Na\u1e25man's distinction based on whether a greater court exists in wisdom and number, which is precisely the content described in the 'Higher Authority' prose section.",
+      "chosen_heading": "Higher Authority",
+      "current_heading": "Higher Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav Sheshet's View",
+    "candidates": [
+      "Rav Sheshet's View",
+      "What is Dvar Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheshet's distinction between ta'ah bidvar mishnah and ta'ah beshikul hadaat, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Rav Sheshet's View",
+      "current_heading": "Rav Sheshet's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "What is Dvar Mishna",
+    "candidates": [
+      "What is Dvar Mishna",
+      "What is Shikul Hadaat",
+      "Implication & Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the scope of 'dvar mishnah' \u2014 whether it extends to Tosefta rulings (Rabbi \u1e24iyya and Rabbi Oshaya), then to Rav and Shmuel, then to the current generation \u2014 which is precisely what the prose under 'What is Dvar Mishna' describes.",
+      "chosen_heading": "What is Dvar Mishna",
+      "current_heading": "What is Dvar Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Implication & Logic",
+    "candidates": [
+      "What is Shikul Hadaat",
+      "Implication & Logic",
+      "Canonization Issues",
+      "Story Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines shikul hadaat via Rav Pappa's statement, which is precisely what candidate 0's prose discusses, not the implication/logic section where it currently sits.",
+      "chosen_heading": "What is Shikul Hadaat",
+      "current_heading": "Implication & Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Story Setup",
+    "candidates": [
+      "Canonization Issues",
+      "Story Setup",
+      "Akiva's Solution",
+      "Gemara's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the story setup \u2014 the incident of Rabbi Tarfon's ruling on the cow, the Yavneh reversal based on Todos the doctor's testimony, and Rav Hamnuna's initial framing of the challenge \u2014 which is precisely what the 'Story Setup' prose describes, before the challenge's resolution is addressed under 'Gemara's Challenge'.",
+      "chosen_heading": "Story Setup",
+      "current_heading": "Story Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Gemara's Challenge",
+    "candidates": [
+      "Akiva's Solution",
+      "Gemara's Challenge",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the *chada ve-od ka-amar* answer explaining Rabbi Akiva's dual argument, which is precisely what the 'Gemara's Challenge' prose section discusses and explains in detail.",
+      "chosen_heading": "Gemara's Challenge",
+      "current_heading": "Gemara's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Practical Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's question about the force of Rav Hamnuna's objection regarding the cow already fed to the dogs, which is precisely what the 'Resolution' section's prose discusses and explains.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Practical Limits",
+    "candidates": [
+      "Practical Limits",
+      "Rav Chisda's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's argument about why Rabbi Akiva said what he did \u2014 specifically the logic that if ta'ah bidvar Mishna chozer, Rabbi Akiva could have simply said the ruling was void and Tarfon did nothing, which is exactly what the 'Practical Limits' prose discusses.",
+      "chosen_heading": "Practical Limits",
+      "current_heading": "Practical Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav Chisda's Principle",
+    "candidates": [
+      "Rav Chisda's Principle",
+      "Tosefta Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's distinction between natal venatan beyad and its absence, which is exactly what candidate 0's prose discusses as Rav \u1e24isda's principle for resolving the contradiction between the mishnayot.",
+      "chosen_heading": "Rav Chisda's Principle",
+      "current_heading": "Rav Chisda's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Tosefta Context",
+    "candidates": [
+      "Tosefta Context",
+      "Mishna Context",
+      "Patur Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items deal with the tension between 'patur ata' being equivalent to natal venatan beyad and the mishna's claim that civil rulings can be reversed both to exempt and to obligate, which is precisely what the 'Patur Problem' prose describes in detail.",
+      "chosen_heading": "Patur Problem",
+      "current_heading": "Tosefta Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Patur Problem",
+    "candidates": [
+      "Mishna Context",
+      "Patur Problem",
+      "Ravina's Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the goel hadam objection, the bein bein language problem, and the kashya conclusion \u2014 all of which are explicitly described in the 'Patur Problem' prose section.",
+      "chosen_heading": "Patur Problem",
+      "current_heading": "Patur Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Ravina's Clarification",
+    "candidates": [
+      "Ravina's Clarification",
+      "Other Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's explanation about collateral (mashkon) being physically taken, which is precisely what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Ravina's Clarification",
+      "current_heading": "Ravina's Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Other Examples",
+    "candidates": [
+      "Other Examples",
+      "Innocence Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly how purity rulings constitute 'natal venatan beyad' through physical acts (touching a creeping animal, mixing produce), which is precisely what the 'Other Examples' prose discusses.",
+      "chosen_heading": "Other Examples",
+      "current_heading": "Other Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Innocence Reversal",
+    "candidates": [
+      "Innocence Reversal",
+      "No Double Jeopardy",
+      "Meisit Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Innocence Reversal",
+      "first_confidence": "high",
+      "first_reason": "Item 1 derives the rule for bringing back a convicted defendant from 'naki al taharog,' which is precisely what the 'Innocence Reversal' prose discusses.",
+      "second_heading": "No Double Jeopardy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives the prohibition on reopening an acquitted defendant's case from 'tzadik al taharog,' which is precisely what the 'No Double Jeopardy' prose discusses.",
+      "current_heading": "Innocence Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Meisit Exception",
+    "candidates": [
+      "No Double Jeopardy",
+      "Meisit Exception",
+      "Extension: Galus & Malkos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the meisit exception with the exact verses cited in candidate 1's prose, making the current placement correct.",
+      "chosen_heading": "Meisit Exception",
+      "current_heading": "Meisit Exception",
+      "moved": false
+    }
+  }
+]

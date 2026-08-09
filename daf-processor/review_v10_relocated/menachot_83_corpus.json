@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Abraham & Isaac",
+    "candidates": [
+      "Intro: Pesach Debate",
+      "Chozer u'Melamed",
+      "Rabbi Akiva's Source",
+      "Zot HaTorah Intro",
+      "Olah: Knife",
+      "Abraham & Isaac",
+      "Mincha: Male Kohanim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chozer u'Melamed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the uvetarbitza question about chozer u-melamed be-hekesh and the answer that kula chada milta hi, which precisely matches heading 1 ('Chozer u'Melamed') prose.",
+      "second_heading": "Rabbi Akiva's Source",
+      "second_confidence": "high",
+      "second_reason": "Items 2-8 cover Rabbi Akiva's source from Shmuel/Rabbi Elazar's exposition of 'Zot HaTorah' (Leviticus 7:37), including olah/knife, minchah/male kohanim, and the tannaic dispute \u2014 exactly matching heading 2 ('Rabbi Akiva's Source') and the subsequent Zot HaTorah exposition sections, with item 2 being the clear start of that new derivation.",
+      "current_heading": "Abraham & Isaac",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Mincha: Male Kohanim",
+    "candidates": [
+      "Abraham & Isaac",
+      "Mincha: Male Kohanim",
+      "Chatat: Sanctifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the chatat law 'mah chatat mekadesh be-valua af kol mekadesh be-valua,' which is the exact text quoted and explained in the 'Mincha: Male Kohanim' section's prose ('Ve-la-chatat: mah chatat mekadesh be-valua af kol mekadesh be-valua'), making the current placement correct.",
+      "chosen_heading": "Mincha: Male Kohanim",
+      "current_heading": "Mincha: Male Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chatat: Sanctifies",
+    "candidates": [
+      "Chatat: Sanctifies",
+      "Asham: No Embryo",
+      "Miluim: Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the asham-based derivation that a fetal sac and placenta are not sacred in any korban, along with the two underlying assumptions (veladot kodashim be-havayatan and danin efshar mi-she-ee efshar), which is exactly what the 'Chatat: Sanctifies' prose section discusses in detail.",
+      "chosen_heading": "Chatat: Sanctifies",
+      "current_heading": "Chatat: Sanctifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Miluim: Burning",
+    "candidates": [
+      "Asham: No Embryo",
+      "Miluim: Burning",
+      "Shelamim: Pigul"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Miluim: Burning",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the miluim/burning passage, which is explicitly discussed in candidate 1's prose about notar meat being burned and live animals not being burned as notar.",
+      "second_heading": "Shelamim: Pigul",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the shelamim/piggul passage, and while candidate 1's prose briefly mentions it at the end, candidate 2 ('Shelamim: Pigul') is the dedicated section for this topic.",
+      "current_heading": "Miluim: Burning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Shelamim: Pigul",
+    "candidates": [
+      "Shelamim: Pigul",
+      "Akiva's Chatat Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Akiva's derivation of mekadesh be-valua from the minchah and the necessity of writing the rule for both minchah and chatat, which is precisely what the 'Shelamim: Pigul' prose describes in detail.",
+      "chosen_heading": "Shelamim: Pigul",
+      "current_heading": "Shelamim: Pigul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Akiva's Chatat Use",
+    "candidates": [
+      "Akiva's Chatat Use",
+      "Akiva: Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly correspond to the content described in candidate 0's prose: the chatat-based derivation for chulin funds (items 1-2), the daytime requirement shown to be superfluous via 'yom tzavoto' (item 3), and the right-hand requirement shown to be superfluous via Rabba bar bar \u1e24ana/Reish Lakish (item 4), with the Gemara concluding 'kidi nasba' for both \u2014 exactly matching the 'Akiva's Chatat Use' section.",
+      "chosen_heading": "Akiva's Chatat Use",
+      "current_heading": "Akiva's Chatat Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Akiva: Mincha",
+    "candidates": [
+      "Akiva: Mincha",
+      "Akiva: Chatat Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about the guilt offering (asham) teaching that bones are permitted is explicitly discussed in the prose under heading 0 ('Akiva: Mincha'), which directly quotes and explains this exact baraita about asham bones being permitted.",
+      "chosen_heading": "Akiva: Mincha",
+      "current_heading": "Akiva: Mincha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Akiva: Chatat Only",
+    "candidates": [
+      "Akiva: Chatat Only",
+      "Akiva: Asham Bones",
+      "Pesach Pasuk Issue",
+      "Motar Pesach",
+      "Three Pesukim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0 ('Akiva: Chatat Only') describes: Rabbi Akiva's use of the u-zavachta Pesach pasuk for Rav Nachman's ruling about motar Pesach becoming a shelamim, followed by the challenge from Shmuel's father's pasuk and the baraita about 'keshev' \u2014 all of which are detailed in that section's prose.",
+      "chosen_heading": "Akiva: Chatat Only",
+      "current_heading": "Akiva: Chatat Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Three Pesukim",
+    "candidates": [
+      "Akiva: Asham Bones",
+      "Pesach Pasuk Issue",
+      "Motar Pesach",
+      "Three Pesukim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in candidate 0's prose: the three pesukim needed to teach that a motar Pesach becomes a shelamim, with the three distinct cases (passed time and year, passed time but not year, neither passed), and the necessity argument (tzricha) \u2014 all of which are explicitly laid out in candidate 0's prose but only superficially referenced in candidate 3.",
+      "chosen_heading": "Akiva: Asham Bones",
+      "current_heading": "Three Pesukim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Three Pesukim",
+    "candidates": [
+      "Three Pesukim",
+      "Pesach Cases",
+      "Grain Sources",
+      "Choice Flour"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna discusses which meal offerings may come from new vs. old grain and from Eretz Yisrael vs. outside, with the Omer and Shtei HaLechem as exceptions \u2014 precisely the topic introduced in the 'Grain Sources' section's prose about the braita challenging the mishna on old vs. new grain for those same offerings.",
+      "chosen_heading": "Grain Sources",
+      "current_heading": "Three Pesukim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Choice Flour",
+    "candidates": [
+      "Pesach Cases",
+      "Grain Sources",
+      "Choice Flour",
+      "Old Grain Braita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pesach Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the mishna's closing discussion of choice grain locations (Makhnis, Zatcha, Aforayim) which candidate 0 'Pesach Cases' and especially its prose about muvchar/alfa le-solet directly addresses, but candidate 0's prose is actually the best match as it explicitly discusses these exact place names and the kol ha-aratzot hayu kesherot clause.",
+      "second_heading": "Grain Sources",
+      "second_confidence": "high",
+      "second_reason": "Items 3-9 are the Gemara's discussion of the old-grain baraita (Omer and Shtei HaLechem from yashan), the biblical derivations, and the challenge from 'reishit'/'chadashah', which is precisely what candidate 1 'Grain Sources' discusses in its prose.",
+      "current_heading": "Choice Flour",
+      "moved": true
+    }
+  }
+]

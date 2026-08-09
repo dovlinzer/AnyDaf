@@ -1,0 +1,422 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rain & Irrigation",
+    "candidates": [
+      "Cloak & Conditions",
+      "Waiving vs. Hana'ah",
+      "Nedarim Parallel",
+      "Rain & Irrigation",
+      "Money vs. Cloak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the sharecropper/irrigation case (hahu gavra de-amar lei le-ariseh) and the Rav Yosef/Rabba dispute, which is precisely what candidate 3 'Rain & Irrigation' describes in its prose.",
+      "chosen_heading": "Rain & Irrigation",
+      "current_heading": "Rain & Irrigation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Money vs. Cloak",
+    "candidates": [
+      "Money vs. Cloak",
+      "Gittin Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's proposal that Rav Yosef follows the rabbanan and Rabba follows Rabban Shimon ben Gamliel, followed by the immediate rejection of that alignment \u2014 exactly what the 'Money vs. Cloak' prose describes.",
+      "chosen_heading": "Money vs. Cloak",
+      "current_heading": "Money vs. Cloak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Gittin Specificity",
+    "candidates": [
+      "Gittin Specificity",
+      "Hiding Practice",
+      "Deposit Institution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between the get context (husband intends to vex her) and the sharecropper/irrigation context (mishum arrucha - for profit), which is exactly what the prose under 'Gittin Specificity' explains.",
+      "chosen_heading": "Gittin Specificity",
+      "current_heading": "Gittin Specificity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Deposit Institution",
+    "candidates": [
+      "Hiding Practice",
+      "Deposit Institution",
+      "Rava's Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the hiding practice and Hillel's institution together as a single mishna unit, but its content covers the full arc from 'hiding' through 'deposit takkana' \u2014 however, candidate 0 ('Hiding Practice') explicitly introduces this very mishna from Arakhin and describes both the hiding abuse and the seller's inability to deposit money, making it the better home for the quoted text which opens with 'at first the purchaser would hide,' while candidate 1 focuses only on Hillel's response; since the passage begins with the hiding practice and candidate 0's prose introduces the entire mishna including both elements, candidate 0 is the clearer match.",
+      "chosen_heading": "Hiding Practice",
+      "current_heading": "Deposit Institution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Rava's Inference",
+    "candidates": [
+      "Deposit Institution",
+      "Rava's Inference",
+      "Rav Pappa Challenge",
+      "Ambiguity Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rava's inference from Hillel's takkana, the logical proof, and Rav Pappa's objection \u2014 form one continuous dialectical unit that is fully described in the 'Rava's Inference' section's prose, which explicitly covers both Rava's reasoning and anticipates the Rav Pappa challenge as part of the same discussion.",
+      "chosen_heading": "Rava's Inference",
+      "current_heading": "Rava's Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Ambiguity Remains",
+    "candidates": [
+      "Rav Pappa Challenge",
+      "Ambiguity Remains",
+      "Rabban Shimon Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the alternative version (v'ika d'amri) where Rava initiates the inference from Hillel's takkana and Rav Pappa challenges it \u2014 precisely what the 'Ambiguity Remains' prose describes as the alternative exchange that the gemara leaves unresolved.",
+      "chosen_heading": "Ambiguity Remains",
+      "current_heading": "Ambiguity Remains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rabban Shimon Rule",
+    "candidates": [
+      "Rabban Shimon Rule",
+      "Paper Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Rabba bar bar \u1e24ana/Rabbi Yo\u1e25anan statement listing the three exceptions to Rabban Shimon ben Gamliel's authority, which is precisely what the 'Rabban Shimon Rule' prose section describes.",
+      "chosen_heading": "Rabban Shimon Rule",
+      "current_heading": "Rabban Shimon Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Paper Condition",
+    "candidates": [
+      "Paper Condition",
+      "Rav Chisda Explains",
+      "Abaye Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself stating the two clauses about 'the paper is mine' vs. 'on condition you return the paper,' which is exactly what the prose under 'Paper Condition' introduces and discusses.",
+      "chosen_heading": "Paper Condition",
+      "current_heading": "Paper Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Abaye Challenge",
+    "candidates": [
+      "Rav Chisda Explains",
+      "Abaye Challenge",
+      "Doubling Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda Explains",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Chisda's explanation invoking Rabban Shimon ben Gamliel and monetary substitution, which is precisely what the 'Rav Chisda Explains' prose describes.",
+      "second_heading": "Abaye Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's challenge distinguishing extant from non-extant objects, which is exactly what the 'Abaye Challenge' prose describes.",
+      "current_heading": "Abaye Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Doubling Requirement",
+    "candidates": [
+      "Doubling Requirement",
+      "Rava Objection",
+      "Tnai Precedes Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's resolution that the baraita follows Rabbi Meir's requirement for a compound condition and that the husband failed to double his condition \u2014 exactly what the 'Doubling Requirement' prose discusses.",
+      "chosen_heading": "Doubling Requirement",
+      "current_heading": "Doubling Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Tnai Precedes Act",
+    "candidates": [
+      "Rava Objection",
+      "Tnai Precedes Act",
+      "Different Domains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rava's objection to Abaye \u2014 he raises the doubling problem, derives from bnei Gad u'vnei Reuven that tnai must precede maaseh, and concludes that the real reason is maaseh preceding tnai \u2014 which matches candidate 0's prose describing Rava's challenge and his turn to a different formal deficiency, not candidate 1 which describes the tnai-precedes-maaseh rule as already established background.",
+      "chosen_heading": "Rava Objection",
+      "current_heading": "Tnai Precedes Act",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Different Domains",
+    "candidates": [
+      "Tnai Precedes Act",
+      "Different Domains",
+      "Tnai Kaful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Adda bar Ahava's objection about tnai and maaseh being in the same domain (bidavar echad), which is precisely what candidate 1 'Different Domains' discusses in its prose.",
+      "chosen_heading": "Different Domains",
+      "current_heading": "Different Domains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Tnai Kaful",
+    "candidates": [
+      "Tnai Kaful",
+      "Three Categories",
+      "Intent & Demands",
+      "Avoiding Evil Eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rav Ashi's statement that 'al menas' is like 'me'achshav' (from now) directly supports the discussion of how 'al menas' conditions work and their immediate effect, which is the subject of the 'Tnai Kaful' section discussing the esrog given 'al menas l'hachazir' and how 'al menas' conditions function throughout Shas.",
+      "chosen_heading": "Tnai Kaful",
+      "current_heading": "Tnai Kaful",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Avoiding Evil Eye",
+    "candidates": [
+      "Three Categories",
+      "Intent & Demands",
+      "Avoiding Evil Eye",
+      "Yes Before No"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel's institution of the deathbed get formula, which is precisely what the 'Avoiding Evil Eye' section's prose discusses \u2014 the takkana, the specific text prescribed, and the reason for beginning with the negative case.",
+      "chosen_heading": "Avoiding Evil Eye",
+      "current_heading": "Avoiding Evil Eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Yes Before No",
+    "candidates": [
+      "Yes Before No",
+      "Implicit Duration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the precise wording requirements for a conditional get \u2014 the 'a person does not hasten calamity' principle, the requirement that condition precede action, Rava's objection about affirmative before negative (hen kodem l'lav), and the final tripartite formulation \u2014 which exactly matches the 'Yes Before No' section's prose about these same requirements.",
+      "chosen_heading": "Yes Before No",
+      "current_heading": "Yes Before No",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Implicit Duration",
+    "candidates": [
+      "Implicit Duration",
+      "Death Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the service/nursing conditions and the death exemption ruling, but its primary content \u2014 introducing the Mishna's conditions and the nursing duration debate \u2014 matches Candidate 0's prose exactly, while Candidate 1's prose discusses the interpretive debate about the death clause which is commentary beyond the Mishna text itself.",
+      "chosen_heading": "Implicit Duration",
+      "current_heading": "Implicit Duration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Death Exemption",
+    "candidates": [
+      "Death Exemption",
+      "Explicit Duration",
+      "Rabban Shimon Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifies a two-year duration condition and addresses the case where the son dies or the father waives service without anger resulting in an invalid get \u2014 precisely the content described in the 'Explicit Duration' prose.",
+      "chosen_heading": "Explicit Duration",
+      "current_heading": "Death Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rabban Shimon Rule",
+    "candidates": [
+      "Explicit Duration",
+      "Rabban Shimon Rule",
+      "One Day Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabban Shimon ben Gamliel's principle that any hindrance not caused by her renders the get valid, which is precisely what the 'Rabban Shimon Rule' section's prose describes.",
+      "chosen_heading": "Rabban Shimon Rule",
+      "current_heading": "Rabban Shimon Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "One Day Question",
+    "candidates": [
+      "One Day Question",
+      "Lenient vs. Strict",
+      "Interpretation Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question 'do we require all of this time?' and the contradicting baraita about one day of service/nursing being sufficient \u2014 exactly the content described in the 'One Day Question' prose, which directly summarizes this contradiction.",
+      "chosen_heading": "One Day Question",
+      "current_heading": "One Day Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Interpretation Method",
+    "candidates": [
+      "Lenient vs. Strict",
+      "Interpretation Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav \u1e24isda's resolution attributing the Mishna and baraita to different tannaitic opinions (Rabbis vs. Rabban Shimon ben Gamliel), including the refinement that the baraita follows Rabban Shimon ben Gamliel's leniency \u2014 exactly what the 'Lenient vs. Strict' prose describes, whereas 'Interpretation Method' describes a later, more refined framing that these items lead into but do not themselves contain.",
+      "chosen_heading": "Lenient vs. Strict",
+      "current_heading": "Interpretation Method",
+      "moved": true
+    }
+  }
+]

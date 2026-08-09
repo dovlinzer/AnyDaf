@@ -1,0 +1,165 @@
+[
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Both Are Tikrah",
+    "candidates": [
+      "Planks Overview",
+      "Mishnah: Three Views",
+      "Beit Shammai: Both Acts",
+      "Beit Hillel: One Act",
+      "Rabbi Meir: Replace Only",
+      "Two Problem Types",
+      "Beit Hillel via Intent",
+      "Beit Shammai via Gezeira",
+      "Gemara: Shammai Reread",
+      "Rabbi Meir: No Dispute",
+      "Repetition Problem",
+      "Chiya: Different Issues",
+      "Gemara Rejects",
+      "Both Are Tikrah",
+      "Rav: Categorical",
+      "Shmuel: Threshold",
+      "Shmuel's Problem",
+      "Bitul Tikrah",
+      "Mishnah Text",
+      "50% Threshold",
+      "Wall Debate"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 12,
+      "first_heading": "Mishnah: Three Views",
+      "first_confidence": "high",
+      "first_reason": "The mishna text presents the three-way dispute (Beit Shammai, Beit Hillel, Rabbi Meir) about a roof without plaster, which matches heading 1 'Mishnah: Three Views' describing exactly this case of tikrah she-ein aleha ma'aziva with Rabbi Yehuda framing a Beit Shammai/Beit Hillel dispute followed by Rabbi Meir's ruling.",
+      "second_heading": "Both Are Tikrah",
+      "second_confidence": "high",
+      "second_reason": "The gemara segment covers the full arc from Beit Hillel's taasah rationale through the Beit Shammai reread, Rabbi Meir's 'lo necheluku' claim, the repetition problem, Rabbi Chiyya bar Abba's vessel-decree alternative, its rejection via Rav Yehuda/Rav's ruling, the forced conclusion that both mishnayot concern gezeirat tikrah, and finally the Rav vs. Shmuel application \u2014 all of which corresponds to heading 13 'Both Are Tikrah' which summarizes this entire extended gemara discussion.",
+      "third_heading": "Mishnah Text",
+      "third_confidence": "high",
+      "third_reason": "The mishna about roofing with metal skewers or bed boards (shfudin/aruchot ha-mittah) with equal spacing matches heading 18 'Mishnah Text' which describes exactly this next mishna about ha-mekareh sukato bi-shfudin o be-aruchot ha-mittah.",
+      "current_heading": "Both Are Tikrah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Wall Debate",
+    "candidates": [
+      "Rav: Categorical",
+      "Shmuel: Threshold",
+      "Shmuel's Problem",
+      "Bitul Tikrah",
+      "Mishnah Text",
+      "50% Threshold",
+      "Wall Debate",
+      "Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the Gemara introducing the parutz ke-omeid debate between Rav Pappa and Rav Huna son of Rav Yehoshua regarding walls/partitions, which is precisely what the 'Wall Debate' section's prose describes.",
+      "chosen_heading": "Wall Debate",
+      "current_heading": "Wall Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Solutions",
+    "candidates": [
+      "Solutions",
+      "Leg Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the solutions to reconciling the mishnah with Rav Huna son of Rav Yehoshua's stricter position \u2014 Rav Huna's own interpretation (entering and emerging), Rabbi Ami's bema'atif solution, and Rava's sheti/erev solution \u2014 which matches exactly what the 'Solutions' prose describes.",
+      "chosen_heading": "Solutions",
+      "current_heading": "Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Leg Problem",
+    "candidates": [
+      "Leg Problem",
+      "Segmented Bed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous unit: item 1 raises Rabbi Ami bar Tavyomei's ruling about worn vessels as a potential explanation for the mishna's bed boards, and item 2 is the Gemara's rejection of that explanation via Rabbi \u1e24anan's ruling \u2014 exactly the flow described in candidate 0's prose.",
+      "chosen_heading": "Leg Problem",
+      "current_heading": "Leg Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Segmented Bed",
+    "candidates": [
+      "Segmented Bed",
+      "Half-Bed Status",
+      "Function Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's question about where Rabbi \u1e24anan's ruling was stated and the mishna that answers it, which is precisely what the 'Segmented Bed' prose describes \u2014 invoking the Mishnah Kelim ruling and Rabbi \u1e24anan's specification of which bed segments retain kli status.",
+      "chosen_heading": "Segmented Bed",
+      "current_heading": "Segmented Bed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Function Test",
+    "candidates": [
+      "Half-Bed Status",
+      "Function Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the functional test of leaning bed segments against a wall and sitting on them, which matches exactly the 'Function Test' section's prose discussion of le-mismichinhu aguda and related functional use.",
+      "chosen_heading": "Function Test",
+      "current_heading": "Function Test",
+      "moved": false
+    }
+  }
+]

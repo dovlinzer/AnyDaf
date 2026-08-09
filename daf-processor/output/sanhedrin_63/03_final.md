@@ -1,6 +1,7 @@
-# Sanhedrin 63 — Daf Yomi Shiur
-
+[DAF:62b]
 ## Abaye/Rava Debate
+
+
 
 ### Oved Me'ahava Review
 
@@ -24,19 +25,13 @@ Abaye's position and Rava's position diverge in a specific domain. Where everyon
 
 ## Chiluk Avodot Issue
 
-### Multiple Acts Problem
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַמֵּי: זִיבַּח וְקִיטֵּר וְנִיסֵּךְ בְּהֶעְלֵם אֶחָד, אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמַר אַבָּיֵי: מַאי טַעְמָא דְּרַבִּי אַמֵּי? אָמַר קְרָא ״לֹא תָעׇבְדֵם״, הַכָּתוּב עֲשָׂאָן כּוּלָּן עֲבוֹדָה אַחַת.
->
-> **Translation:** **Rabbi Ami says:** If one **sacrificed** an animal as an idolatrous offering **and burned** incense **and poured a libation,** all **in** the course of **one lapse of awareness, he is obligated** to bring **only one** sin-offering. **Abaye says: What is the reason for** the opinion of **Rabbi Ami? The verse states: "Nor worship them"** (Exodus 20:5). **The verse renders all** the various rites of worship as **one rite.**
+
+### Multiple Acts Problem
 
 Yesterday's discussion also introduced the question of *chiluk melachot* by *Shabbos* versus *chiluk avodot* by *avoda zara* — whether performing multiple distinct acts of idol worship in a single state of forgetfulness requires multiple *chata'ot* or only one. By *Shabbos*, forgetting entirely that it is *Shabbos* means that no matter how many *melachot* one performs, only a single *korban* is required. But if one remembers it is *Shabbos* while forgetting that a particular act is a *melacha*, one brings a separate *korban* for each *melacha* — that is *chiluk melachot*, the principle that each *melacha* is distinct. The question is whether a parallel principle of *chiluk avodot* applies to *avoda zara*, making each form of worship a separate *korban*.
 
 ### Rav Zakkai Rejected
-
-> **Hebrew/Aramaic:** וּמִי אָמַר אַבָּיֵי הָכִי? וְהָאָמַר אַבָּיֵי: שָׁלֹשׁ הִשְׁתַּחֲוָאוֹת בַּעֲבוֹדָה זָרָה לָמָּה?
->
-> **Translation:** The Gemara asks: **And does Abaye** actually **say this? But doesn't Abaye say: Why** are there **three** mentions in the Torah of the prohibition against **bowing to** an object of **idol worship?** The prohibition against bowing to an idol appears three times: "You shall not bow to them nor worship them" (Exodus 20:5), "You shall not bow to their gods nor worship them" (Exodus 23:24), and "For you shall bow to no other god" (Exodus 34:14).
 
 A *baraita* attributed to Rav Zakkai appeared to hold that even if one performed *zivuach*, *kitor*, and *niseich* — slaughtering, burning incense, and libation — in a single state of forgetfulness, only one *korban* is required. Rabbi Yochanan rejected this outright, insisting on the principle of *chiluk avodot*. A second *baraita* appeared to raise the same difficulty, and Rabbi Yochanan likewise refused to accept it.
 
@@ -44,7 +39,12 @@ A *baraita* attributed to Rav Zakkai appeared to hold that even if one performed
 
 ## Shabbat/Other Aveirot
 
+
+
 ### Baraita Structure
+
+> **Hebrew/Aramaic:** מַאי קוּשְׁיָא? דִּלְמָא לְעוֹלָם אֵימָא לָךְ: רֵישָׁא בַּעֲבוֹדָה זָרָה, וְסֵיפָא בִּשְׁאָר מִצְוֹת.
+> **Translation:** The Gemara challenges this conclusion: **What is the difficulty** in interpreting the *baraita* as referring to idol worship? **Actually, perhaps I will say to you** that **the first clause** of the *baraita* is referring **to** the contrast between Shabbat and **idol worship, and the last clause** is referring **to** the contrast between Shabbat and **other mitzvot.**
 
 At the point where the current sugya resumes — approximately twelve lines from the bottom of the page — the Gemara asks *mai kushya*: why is this *baraita* actually a problem? The Gemara proposes a resolution: *dilma le'olam eima lach* — perhaps the two halves of the *baraita* are simply addressing different subjects. The *reisha*, the first part that contrasts multiple sin offerings versus one, is speaking about *avoda zara*: multiple *melachot* on *Shabbos* yield multiple *korbanot*, while multiple *avodot* of *avoda zara* yield only one. That position works if one accepts that there is no *chiluk avodot* by *avoda zara*.
 
@@ -52,17 +52,17 @@ The *seifa* — the second half of the *baraita*, which addresses whether one br
 
 ### Shogeg Lo Miskavein
 
-> **Hebrew/Aramaic:** וְשָׁגַג בְּלֹא מִתְכַּוֵּין, דְּקָסָבַר רוֹק הוּא וּבְלָעוֹ. מַה שֶׁאֵין כֵּן בַּשַּׁבָּת, דְּפָטוּר. שֶׁנִּתְכַּוֵּין לְהַגְבִּיהַּ אֶת הַתָּלוּשׁ וְחָתַךְ אֶת הַמְחוּבָּר – פָּטוּר.
->
-> **Translation:** **And** the *halakha* of one who transgressed other mitzvot **unwittingly, without intent** to perform the act, is referring to, e.g., a case **where** one has forbidden fat in his mouth and **thinks it is spittle, and he swallows it.** In that case he must bring an offering for his transgression, **which is not so with regard to** the *halakhot* of **Shabbat, where** in a parallel case one would be **exempt. As,** for example, one who **intended to lift** a plant that was **detached** from the ground **and** mistakenly **severed** a plant still **attached** to the ground is **exempt.** One is not liable for an unintentional act of labor on Shabbat.
-
 How would the contrast between *Shabbos* and other *aveiros* work in this context? The Gemara introduces the category of *shogeg belo miskavein* — an unintentional act where the person was not even attempting to perform the transgression in question.
 
 ### Ruku u-Valo'o Example
 
 The Gemara's example for other *aveiros* is the case of *roku u-valo'o*: a person has something liquid in their mouth, believes it is their own saliva, and swallows it — only to discover it was forbidden fat. This would still obligate a *korban*, even though the person was not intending to eat anything at all.
 
+> **Hebrew/Aramaic:** וְשָׁגַג בְּלֹא מִתְכַּוֵּין, דְּקָסָבַר רוֹק הוּא וּבְלָעוֹ. מַה שֶׁאֵין כֵּן בַּשַּׁבָּת, דְּפָטוּר. שֶׁנִּתְכַּוֵּין לְהַגְבִּיהַּ אֶת הַתָּלוּשׁ וְחָתַךְ אֶת הַמְחוּבָּר – פָּטוּר.
+> **Translation:** **And** the *halakha* of one who transgressed other mitzvot **unwittingly, without intent** to perform the act, is referring to, e.g., a case **where** one has forbidden fat in his mouth and **thinks it is spittle, and he swallows it.** In that case he must bring an offering for his transgression, **which is not so with regard to** the *halakhot* of **Shabbat, where** in a parallel case one would be **exempt. As,** for example, one who **intended to lift** a plant that was **detached** from the ground **and** mistakenly **severed** a plant still **attached** to the ground is **exempt.** One is not liable for an unintentional act of labor on Shabbat.
+
 ### Grass Picking Example
+
 
 The parallel case by *Shabbos* is one who intended to pick up a blade of grass that appeared already to be detached from the ground — *sheniskavein l'hagbi'ah es ha-talush* — and in the process of picking it up, inadvertently severed it from the soil — *ve-chatach es ha-mechubar*. In that case, one is exempt from a *korban*.
 
@@ -78,8 +78,7 @@ The general rule, applicable not only to *Shabbos* but across all *aveiros*, is 
 
 ### Chalavim V'arayot
 
-> **Hebrew/Aramaic:** וְכִדְרַב נַחְמָן אָמַר שְׁמוּאֵל, דְּאָמַר: הַמִּתְעַסֵּק בַּחֲלָבִים וּבַעֲרָיוֹת – חַיָּיב, שֶׁכֵּן נֶהֱנֶה; הַמִּתְעַסֵּק בְּשַׁבָּת – פָּטוּר, מְלֶאכֶת מַחְשֶׁבֶת אָסְרָה תּוֹרָה.
->
+> **Hebrew/Aramaic:** וְכִדְרַב נַחְמָן אָמַר שְׁמוּאֵל, דְּאָמַר: הַמִּתְעַסֵּק בַּחֲלָבִים וּבַעֲרָיוֹת – חַיָּיב, שֶׁכֵּן נֶהֱנֶה; הַמִּתְעַסֵּק בְּשַׁבָּת – פָּטוּר, מְלֶאכֶת מַחְשֶׁבֶת אָסְרָה תּוֹרָה.
 > **Translation:** **And** this distinction is **in accordance with** the statement **that Rav Naḥman** says that **Shmuel says, as he says: One who acts unawares with** forbidden **fats or with those with whom sexual relations are forbidden,** i.e., one who accidentally consumed forbidden fat or engaged in forbidden sexual intercourse, without intending to perform the act at all (see *Yevamot* 54a), is **obligated** to bring a sin-offering, **since he derived pleasure** from the transgression. But **one who acts unawares on Shabbat,** performing forbidden labor, is **exempt,** as **the Torah prohibits** only **planned labor.**
 
 The single exception to this exemption for *misasek* is forbidden fats and forbidden sexual relations — *chalavim va'arayot*. In those cases, even a *misasek* is liable for a *korban*. The Gemara's explanation, as stated by Rav Nachman in the name of Shmuel, is *sheken nehene*: the person derived bodily benefit from the act. When someone derives direct physical pleasure from an act — whether through eating or through sexual congress — the fact of that benefit prevents them from fully disassociating themselves from the act. You cannot say "the forbidden fat got eaten" when the reality is that your body received that experience. The benefit binds you to the act regardless of your intention.
@@ -90,9 +89,11 @@ A brief observation is worth noting here, though the Gemara itself does not purs
 
 ### Rabbi Yochanan's Method
 
-> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּלָא מוֹקֵים מַתְנִיתָא רֵישָׁא בְּחַד טַעְמָא וְסֵיפָא בְּחַד טַעְמָא.
->
+> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּלָא מוֹקֵים מַתְנִיתָא רֵישָׁא בְּחַד טַעְמָא וְסֵיפָא בְּחַד טַעְמָא.
 > **Translation:** Since the *baraita* can be explained in this manner, the Gemara explains why Rabbi Yoḥanan rejected it anyway: **Rabbi Yoḥanan** conforms **to his** standard line of **reasoning,** in **that he does not interpret the first clause** of **a *baraita* with one explanation and the last clause** of the same *baraita* **with one** other **explanation.** Rabbi Yoḥanan does not accept the premise that a *baraita* can be referring to a different matter in each clause unless it states so explicitly.
+
+> **Hebrew/Aramaic:** דְּאָמַר רַבִּי יוֹחָנָן: מַאן דִּמְתַרְגֵּם לִי חָבִית אַלִּיבָּא דְּחַד תַּנָּא, מוֹבֵילְנָא מָאנֵיהּ בָּתְרֵיהּ לְבֵי מַסּוּתָא.
+> **Translation:** **As Rabbi Yoḥanan says: Whoever explains to me** the mishna concerning **a barrel** (*Bava Metzia* 40b) **in accordance with** the opinion **of one *tanna*, I will carry his clothes after him to the bathhouse,** i.e., I will attend him as a servant, as although that mishna can be explained by dividing it into two different opinions, I do not accept that type of explanation. Therefore, Rabbi Yoḥanan does not accept the suggestion that the first clause of the *baraita* here is referring to idol worship and the last clause is referring to other mitzvot.
 
 The Gemara then supplies the reason Rabbi Yochanan refused to accept this entire resolution. Rabbi Yochanan operates by the principle that a problematic *mishna* or *baraita* cannot be resolved by splitting it — reading the *reisha* as addressing one set of circumstances and the *seifa* as addressing an entirely different set. He insists that a *baraita* must be interpretable as a unified whole under a single set of conditions.
 
@@ -102,23 +103,41 @@ The Gemara supports this by citing a famous episode in which Rabbi Yochanan stru
 
 ## Rav Ami Teaching
 
+
+
+[DAF:63a]
 ### Rav Ami's Position
 
 The Gemara now turns to a direct statement of Rav Ami: if one performed *ziveiach*, *kiter*, and *niseich* — the three acts of slaughter, incense-burning, and libation — in a single state of forgetfulness, *eino chayav ela achat*: one is liable for only one *korban*.
 
+> **Hebrew/Aramaic:** גּוּפָא,
+> **Translation:** § The Gemara discusses **the** matter **itself,** namely, whether one who engages in several forms of idol worship in the same lapse of awareness brings more than one sin-offering.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַמֵּי: זִיבַּח וְקִיטֵּר וְנִיסֵּךְ בְּהֶעְלֵם אֶחָד, אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמַר אַבָּיֵי: מַאי טַעְמָא דְּרַבִּי אַמֵּי? אָמַר קְרָא ״לֹא תָעׇבְדֵם״, הַכָּתוּב עֲשָׂאָן כּוּלָּן עֲבוֹדָה אַחַת.
+> **Translation:** **Rabbi Ami says:** If one **sacrificed** an animal as an idolatrous offering **and burned** incense **and poured a libation,** all **in** the course of **one lapse of awareness, he is obligated** to bring **only one** sin-offering. **Abaye says: What is the reason for** the opinion of **Rabbi Ami? The verse states: “Nor worship them”** (Exodus 20:5). **The verse renders all** the various rites of worship as **one rite.**
+
 ### Lo Ta'avdeim Proof
+
 
 Abaye explains Rav Ami's reasoning: the verse says *lo ta'avdeim* — do not worship them — subsuming all acts of *avoda* under a single generic term. The *hakatuv* thereby treats all those acts as a unified category, which is why a single *korban* covers all three performed in one *he'lem* — one state of unawareness. One might object that the same logic could apply to *Shabbos*, where the verse says *lo ta'aseh kol melacha*, but the Gemara does not develop that counter-argument here and moves on.
 
 ### Hishtachava Problem
 
-> **Hebrew/Aramaic:** וּמִי אָמַר אַבָּיֵי הָכִי? וְהָאָמַר אַבָּיֵי: שָׁלֹשׁ הִשְׁתַּחֲוָאוֹת בַּעֲבוֹדָה זָרָה לָמָּה? אַחַת לִכְדַרְכָּהּ, וְאַחַת שֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְחַלֵּק.
->
-> **Translation:** The Gemara asks: **And does Abaye** actually **say this? But doesn't Abaye say: Why** are there **three** mentions of the prohibition against **bowing to** an object of **idol worship? One** is **for** an idol for which bowing is **its** standard **manner** of worship, **and one** is a prohibition against bowing to an idol even if bowing is **not its** standard **manner** of worship, **and one** mention is **to divide** idol worship into categories, as one is obligated to bring an offering for every type of worship that he performed.
-
 This reasoning immediately raises a difficulty: the verse also says *lo tishtachaveh* — do not bow down — and *hishtachava* is conspicuously absent from Rav Ami's list of three acts. Moreover, the prohibition of *hishtachava* appears three times in the Torah. Why the repetition, and how does it relate to the unifying logic of *lo ta'avdeim*?
 
 ### Three Hishtachavot
+
+> **Hebrew/Aramaic:** וּמִי אָמַר אַבָּיֵי הָכִי? וְהָאָמַר אַבָּיֵי: שָׁלֹשׁ הִשְׁתַּחֲוָאוֹת בַּעֲבוֹדָה זָרָה לָמָּה?
+> **Translation:** The Gemara asks: **And does Abaye** actually **say this? But doesn’t Abaye say: Why** are there **three** mentions in the Torah of the prohibition against **bowing to** an object of **idol worship?** The prohibition against bowing to an idol appears three times: “You shall not bow to them nor worship them” (Exodus 20:5), “You shall not bow to their gods nor worship them” (Exodus 23:24), and “For you shall bow to no other god” (Exodus 34:14).
+
+> **Hebrew/Aramaic:** אַחַת לִכְדַרְכָּהּ, וְאַחַת שֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְחַלֵּק.
+> **Translation:** The reason is that **one** mention is **for** an idol for which bowing is **its** standard **manner** of worship, **and one** mention is a prohibition against bowing to an idol even if bowing is **not its** standard **manner** of worship, **and one** mention is **to divide** idol worship into categories, as one is obligated to bring an offering for every type of worship that he performed. Evidently, Abaye’s opinion is not in accordance with Rabbi Ami’s statement that one is obligated to bring one sin-offering for all of his acts of idol worship.
+
+> **Hebrew/Aramaic:** לִדְבָרָיו דְּרַבִּי אַמֵּי קָאָמַר, וְלֵיהּ לָא סְבִירָא לֵיהּ.
+> **Translation:** The Gemara answers: Abaye **stated** his reason **in accordance with the statement of Rabbi Ami, but** he **himself does not hold accordingly.**
+
+> **Hebrew/Aramaic:** גּוּפָא, אָמַר אַבָּיֵי: שָׁלֹשׁ הִשְׁתַּחֲוָאוֹת בַּעֲבוֹדָה זָרָה לָמָּה? אַחַת לִכְדַרְכָּהּ, וְאַחַת שֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְחַלֵּק.
+> **Translation:** The Gemara discusses **the** matter **itself** that **Abaye says: Why** are there **three** mentions of the prohibition against **bowing to** an object of **idol worship? One** is **for** an idol for which bowing is **its** standard **manner** of worship, **and one** is a prohibition against bowing to an idol even if bowing is **not its** standard **manner** of worship, **and one** mention is **to divide** idol worship into categories.
 
 Abaye explains that each of the three instances of *lo tishtachaveh* serves a distinct purpose. One addresses *hishtachava k'darkah* — bowing down in the standard manner of that *avoda zara*'s worship. One addresses *shelo k'darkah* — bowing down even when it is not the normal mode of worship for that idol. And the third is *l'challek* — to indicate that *hishtachava* is a separate and distinct act that generates its own *korban* independently from the other three.
 
@@ -128,9 +147,11 @@ The Gemara then notes that when Abaye presents this explanation of Rav Ami's pos
 
 ### K'Darkah Definition
 
-> **Hebrew/Aramaic:** לִכְדַרְכָּהּ, מֵ״אֵיכָה יַעַבְדוּ הַגּוֹיִם הָאֵלֶּה״ נָפְקָא. אֶלָּא, אַחַת כְּדַרְכָּהּ וְשֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְשֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְחַלֵּק.
->
-> **Translation:** The Gemara asks: Why is a verse necessary **for** the prohibition against bowing to an idol for which bowing is **its** standard **manner** of worship? That prohibition **is** already **derived from** the verse: "Take heed to yourself that you not be ensnared to follow them…saying, **how do these nations serve** their gods, so I will do likewise" (Deuteronomy 12:30), which indicates that one is liable for worshipping an idol in the manner that the gentiles worship it. **Rather,** Abaye's statement should be understood as follows: **One** mention of the prohibition is **for** an idol for which **its** typical **manner** of worship is similar to bowing in that the idol is worshipped in an honorable manner, **but** bowing is **not its** typical **manner** of worship, as it is not typically worshipped by bowing. **And one** mention is a prohibition against bowing to an idol even if it is **not** similar to **its** standard **manner** of worship at all. **And one** mention is **to divide** idol worship into categories.
+> **Hebrew/Aramaic:** לִכְדַרְכָּהּ, מֵ״אֵיכָה יַעַבְדוּ הַגּוֹיִם הָאֵלֶּה״ נָפְקָא.
+> **Translation:** The Gemara asks: Why is a verse necessary **for** the prohibition against bowing to an idol for which bowing is **its** standard **manner** of worship? That prohibition **is** already **derived from** the verse: “Take heed to yourself that you not be ensnared to follow them…saying, **how do these nations serve** their gods, so I will do likewise” (Deuteronomy 12:30), which indicates that one is liable for worshipping an idol in the manner that the gentiles worship it.
+
+> **Hebrew/Aramaic:** אֶלָּא, אַחַת כְּדַרְכָּהּ וְשֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְשֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְחַלֵּק.
+> **Translation:** **Rather,** Abaye’s statement should be understood as follows: **One** mention of the prohibition is **for** an idol for which **its** typical **manner** of worship is similar to bowing in that the idol is worshipped in an honorable manner, **but** bowing is **not its** typical **manner** of worship, as it is not typically worshipped by bowing. **And one** mention is a prohibition against bowing to an idol even if it is **not** similar to **its** standard **manner** of worship at all. **And one** mention is **to divide** idol worship into categories.
 
 The Gemara then revisits the definition of *k'darkah* in the context of *hishtachava*. One might object: if bowing down in the standard manner of a given *avoda zara* is already covered by the general verse — *eich ya'avdu ha-goyim ha-eleh* — which captures whatever form of worship is natural and customary for a given idol, why is a separate *pasuk* needed for *k'darkah* bowing?
 
@@ -140,11 +161,12 @@ The Gemara resolves this: the *k'darkah* addressed by the separate *pasuk* is no
 
 ## Verbal Acceptance
 
+
+
 ### Eli Ata Statement
 
-> **Hebrew/Aramaic:** הַמְקַבְּלוֹ עָלָיו בֶּאֱלוֹהַּ, הָאוֹמֵר לוֹ ״אֵלִי אַתָּה״.
->
-> **Translation:** § The mishna includes among those liable for idol worship **one who** declares that he **accepts** an idol **upon himself as a god** and **one who says to** an idol: **You are my god.**
+> **Hebrew/Aramaic:** הַמְקַבְּלוֹ עָלָיו בֶּאֱלוֹהַּ, הָאוֹמֵר לוֹ ״אֵלִי אַתָּה״. אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ אָמַר רַב: כֵּיוָן שֶׁאָמַר לוֹ ״אֵלִי אַתָּה״ – חַיָּיב.
+> **Translation:** § The mishna includes among those liable for idol worship **one who** declares that he **accepts** an idol **upon himself as a god** and **one who says to** an idol: **You are my god. Rav Naḥman says** that **Rabba bar Avuh says** that **Rav says: Once** a person **said to** an idol: **You are my god,** he is **liable** even if he did not worship it.
 
 The Mishna includes among the acts of *avoda zara* that carry the death penalty the act of *mekablo alav b'elo'ah* — verbally accepting an idol as one's god — specifically the declaration *eli ata*: "You are my god."
 
@@ -154,25 +176,17 @@ What is striking about the Gemara's treatment of this case is what it does not d
 
 ### Rav Nachman Teaching
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ אָמַר רַב: כֵּיוָן שֶׁאָמַר לוֹ ״אֵלִי אַתָּה״ – חַיָּיב.
->
-> **Translation:** **Rav Naḥman says** that **Rabba bar Avuh says** that **Rav says: Once** a person **said to** an idol: **You are my god,** he is **liable** even if he did not worship it.
+> **Hebrew/Aramaic:** לְמַאי? אִי לִקְטָלָא, מַתְנִיתִין הִיא! אֶלָּא לְקׇרְבָּן.
+> **Translation:** The Gemara asks: The transgressor is liable **to** receive **what** punishment? **If** he is liable **to** receive the **death** penalty, Rav’s statement is superfluous, as this **is** stated in **the mishna. Rather,** Rav means that one who does so unwittingly is obligated **to** bring **an offering.**
 
 Rav Nachman, citing Rabbah bar Avuha citing Rav, states: *keivan she'amar lo eli ata chayav* — as soon as one says "You are my god" to an idol, one is liable. The Gemara probes what precisely this adds. If the ruling concerns liability to execution — *le-ktala* — that is already explicit in the Mishna and requires no new teaching. What Rav must therefore be adding is liability to bring a *korban* — that is, if one made this declaration *be-shogeg*, thinking it was permitted, one must bring a sin offering.
-
-### This is a Korban Matter
-
-> **Hebrew/Aramaic:** לְמַאי? אִי לִקְטָלָא, מַתְנִיתִין הִיא! אֶלָּא לְקׇרְבָּן.
->
-> **Translation:** The Gemara asks: The transgressor is liable **to** receive **what** punishment? **If** he is liable **to** receive the **death** penalty, Rav's statement is superfluous, as this **is** stated in **the mishna. Rather,** Rav means that one who does so unwittingly is obligated **to** bring **an offering.**
 
 This raises a significant difficulty. There is a principle derived from the verse *ve-asah me-achat me-henna* that a *korban* for *avoda zara* requires a physical act. Verbal declarations generally do not satisfy this requirement. Indeed, it is sometimes easier to incur the death penalty than to become liable for a *korban*: blasphemy against God — *megadef* — is punishable by death based solely on a verbal act, yet one would not automatically assume a *korban* follows from that.
 
 ### Rabbi Akiva Debate
 
-> **Hebrew/Aramaic:** וַאֲפִילּוּ לְרַבָּנַן? וְהָתַנְיָא: אֵינוֹ חַיָּיב אֶלָּא עַל דָּבָר שֶׁיֵּשׁ בּוֹ מַעֲשֶׂה, כְּגוֹן זִיבּוּחַ וְקִיטּוּר וְנִיסּוּךְ וְהִשְׁתַּחֲוָאָה. וְאָמַר רֵישׁ לָקִישׁ: מַאן תְּנָא הִשְׁתַּחֲוָאָה? רַבִּי עֲקִיבָא הִיא, דְּאָמַר לָא בָּעֵינַן מַעֲשֶׂה. מִכְּלָל דְּרַבָּנַן סָבְרִי בָּעֵינַן מַעֲשֶׂה.
->
-> **Translation:** The Gemara asks: **And** is this statement true **even according to** the opinion of **the Rabbis? But isn't it taught** in a *baraita*: One **is obligated** to bring a sin-offering for unwitting idol worship **only for a matter,** a transgression, **that involves an action, e.g., sacrificing** an offering, **or burning** incense, **or pouring** a libation, **or bowing? And Reish Lakish says: Who** is the *tanna* who **taught bowing** among these examples? **It is Rabbi Akiva, who says** that **we do not require** a significant **action** in order to render one liable to bring a sin-offering; a minimal action is sufficient. **By inference, the Rabbis,** who disagree with Rabbi Akiva, **maintain** that **we require** a significant **action.** If bowing is not considered a significant action, then all the more so speech alone is not considered a significant action.
+> **Hebrew/Aramaic:** וַאֲפִילּוּ לְרַבָּנַן? וְהָתַנְיָא: אֵינוֹ חַיָּיב אֶלָּא עַל דָּבָר שֶׁיֵּשׁ בּוֹ מַעֲשֶׂה, כְּגוֹן זִיבּוּחַ וְקִיטּוּר וְנִיסּוּךְ וְהִשְׁתַּחֲוָאָה. וְאָמַר רֵישׁ לָקִישׁ: מַאן תְּנָא הִשְׁתַּחֲוָאָה? רַבִּי עֲקִיבָא הִיא, דְּאָמַר לָא בָּעֵינַן מַעֲשֶׂה. מִכְּלָל דְּרַבָּנַן סָבְרִי בָּעֵינַן מַעֲשֶׂה.
+> **Translation:** The Gemara asks: **And** is this statement true **even according to** the opinion of **the Rabbis? But isn’t it taught** in a *baraita*: One **is obligated** to bring a sin-offering for unwitting idol worship **only for a matter,** a transgression, **that involves an action, e.g., sacrificing** an offering, **or burning** incense, **or pouring** a libation, **or bowing? And Reish Lakish says: Who** is the *tanna* who **taught bowing** among these examples? **It is Rabbi Akiva, who says** that **we do not require** a significant **action** in order to render one liable to bring a sin-offering; a minimal action is sufficient. **By inference, the Rabbis,** who disagree with Rabbi Akiva, **maintain** that **we require** a significant **action.** If bowing is not considered a significant action, then all the more so speech alone is not considered a significant action.
 
 The Gemara explains: *ve-afilu le-rabbanan* — but even granting the rule that verbal acts are insufficient for a *korban*, the Gemara questions whether this ruling about *eli ata* can stand. A *baraita* teaches explicitly: *eino chayav ela davar she-yesh bo ma'aseh* — one is only liable to bring a *korban* for *avoda zara* if there is an act associated with it — citing *zivuach*, *kitor*, *niseich*, and *hishtachava* as examples.
 
@@ -182,19 +196,21 @@ This is the crux of the debate between Rabbi Akiva and the *rabbanan*. Rabbi Aki
 
 The Yerushalmi, it should be noted, suggests a distinction between the two. Speech, one might argue, is not primarily a physical act at all: its significance lies not in the movement of the lips but in the thought expressed through those lips. Speech is the outward expression of a mental reality, making it more a cognitive act than a physical one. Bowing down falls between these poles: like speech, one does not interact with or change anything external to oneself, yet unlike speech, its significance is not primarily the communication of an idea. Whether a signed gesture would be treated as speech or as a physical act along this analysis remains an intriguing open question — but the Gemara's operative position is to treat the two as equivalent.
 
-### So Must Be Rabbi Akiva
-
-> **Hebrew/Aramaic:** כִּי קָאָמַר רַב נָמֵי, לְרַבִּי עֲקִיבָא קָאָמַר.
->
-> **Translation:** The Gemara answers: **Rav, too, when he states** that one who says to an idol: You are my god, is obligated to bring a sin-offering, **he states** this **according to** the opinion of **Rabbi Akiva.**
-
 So the Gemara's conclusion is that the ruling about *eli ata* generating a *korban* can only stand according to Rabbi Akiva, who holds that a minimal act — including a verbal one — suffices for *korban* liability.
 
 ### Heksha Linkage
 
-> **Hebrew/Aramaic:** לְרַבִּי עֲקִיבָא, פְּשִׁיטָא! הַיְינוּ מְגַדֵּף. מַהוּ דְּתֵימָא: עַד כָּאן לָא מְחַיֵּיב רַבִּי עֲקִיבָא קׇרְבָּן אֶלָּא בִּמְגַדֵּף, דִּכְתִיב בֵּיהּ כָּרֵת. אֲבָל הָכָא, דְּלָא כְּתִיב בֵּיהּ כָּרֵת, אֵימָא לָא. קָא מַשְׁמַע לַן דְּאִתַּקּוֹשֵׁי אִתַּקּוּשׁ, דִּכְתִיב: ״וַיִּשְׁתַּחֲווּ לוֹ וַיִּזְבְּחוּ לוֹ וַיֹּאמְרוּ וְגוֹ׳״.
->
-> **Translation:** The Gemara asks: If Rav states this **according to** the opinion of **Rabbi Akiva,** isn't it **obvious** that the transgressor is obligated to bring a sin-offering? **This is** identical to the *halakha* of **a blasphemer,** whom Rabbi Akiva obligates to bring an offering despite the lack of an action. The Gemara answers: Rav states this **lest you say** that **Rabbi Akiva obligates** one to bring **an offering** for a transgression that does not involve an action **only in** the case of **a blasphemer, as it is written** explicitly **with regard to** a blasphemer that he receives ***karet*** in the verse: "He blasphemes the Lord, and that soul shall be excised [*nikhreta*] from among his people" (Numbers 15:30). **But here,** with regard to one who accepts an idol as his god, **where *karet* is not written** explicitly, one might **say** that he is **not** obligated to bring an offering. Therefore, Rav **teaches us that** he is obligated to bring an offering, as the Torah **compares** the acceptance of an idol as a god to a case of active idol worship; **as it is written:** "They have made themselves a molten calf, **and have bowed to it, and have sacrificed to it, and said:** These are your gods, Israel, which brought you up out of the land of Egypt" (Exodus 32:8).
+> **Hebrew/Aramaic:** כִּי קָאָמַר רַב נָמֵי, לְרַבִּי עֲקִיבָא קָאָמַר.
+> **Translation:** The Gemara answers: **Rav, too, when he states** that one who says to an idol: You are my god, is obligated to bring a sin-offering, **he states** this **according to** the opinion of **Rabbi Akiva.**
+
+> **Hebrew/Aramaic:** לְרַבִּי עֲקִיבָא, פְּשִׁיטָא! הַיְינוּ מְגַדֵּף.
+> **Translation:** The Gemara asks: If Rav states this **according to** the opinion of **Rabbi Akiva,** isn’t it **obvious** that the transgressor is obligated to bring a sin-offering? **This is** identical to the *halakha* of **a blasphemer,** whom Rabbi Akiva obligates to bring an offering despite the lack of an action.
+
+> **Hebrew/Aramaic:** מַהוּ דְּתֵימָא: עַד כָּאן לָא מְחַיֵּיב רַבִּי עֲקִיבָא קׇרְבָּן אֶלָּא בִּמְגַדֵּף, דִּכְתִיב בֵּיהּ כָּרֵת. אֲבָל הָכָא, דְּלָא כְּתִיב בֵּיהּ כָּרֵת, אֵימָא לָא.
+> **Translation:** The Gemara answers: Rav states this **lest you say** that **Rabbi Akiva obligates** one to bring **an offering** for a transgression that does not involve an action **only in** the case of **a blasphemer, as it is written** explicitly **with regard to** a blasphemer that he receives ***karet*** in the verse: “He blasphemes the Lord, and that soul shall be excised [*nikhreta*] from among his people” (Numbers 15:30). **But here,** with regard to one who accepts an idol as his god, **where *karet* is not written** explicitly, one might **say** that he is **not** obligated to bring an offering.
+
+> **Hebrew/Aramaic:** קָא מַשְׁמַע לַן דְּאִתַּקּוֹשֵׁי אִתַּקּוּשׁ, דִּכְתִיב: ״וַיִּשְׁתַּחֲווּ לוֹ וַיִּזְבְּחוּ לוֹ וַיֹּאמְרוּ וְגוֹ׳״.
+> **Translation:** Therefore, Rav **teaches us that** he is obligated to bring an offering, as the Torah **compares** the acceptance of an idol as a god to a case of active idol worship; **as it is written:** “They have made themselves a molten calf, **and have bowed to it, and have sacrificed to it, and said:** These are your gods, Israel, which brought you up out of the land of Egypt” (Exodus 32:8).
 
 The Gemara then notes: *le-Rabbi Akiva peshita* — within Rabbi Akiva's position, there is no novelty here. If verbal blasphemy brings a *korban*, surely verbal acceptance of *avoda zara* does too. What then is Rav's teaching adding?
 
@@ -202,9 +218,13 @@ The Gemara answers: one might have thought Rabbi Akiva limits his position about
 
 To this the Gemara responds: *kamashma lan de-hekkesha hikkesh* — the Torah teaches through a *heksha*, a linkage, that all acts of *avoda zara* are united in a single framework. The verse reads: *vayishtachavu lo vayizbechu lo vayomru eileh elohecha Yisrael asher he'elucha me-eretz Mitzrayim* — they bowed down to it, slaughtered to it, and declared "these are your gods, Israel, who brought you out of Egypt." By placing the verbal declaration in the same verse as slaughter — the clearest physical act — the Torah links all three: slaughter, bowing down, and verbal acceptance. Since slaughter unquestionably requires a *korban*, so too, via this *heksha*, do the other two. This is the source that justifies the ruling — at least according to Rabbi Akiva — that *eli ata* generates a *korban*.
 
+At this point it is worth pausing to flag a question the Gemara does not address but which presses itself upon any careful reader. We now have a source explaining why *eli ata* generates a *korban* — but we still have no source explaining why *eli ata* makes one liable to execution in the first place. Saying "you are my god" to an idol may well violate *lo yihyeh lecha elohim acheirim al panai* — accepting another god — but that is not the same as actually worshipping one. Where does the Torah tell us that the verbal declaration itself constitutes an act of *avoda zara* punishable by death? This question the Gemara leaves open here, and it is precisely this gap that drives a significant debate between Tosafot and the Ramban, to which we will now turn.
+
 ---
 
 ## Tosafot/Ramban Views
+
+
 
 ### Tosafot Position
 
@@ -226,19 +246,22 @@ For the Ramban, who sees the essence of *avoda zara* as accepting another god, o
 
 ## Golden Calf Agada
 
+
+
 ### Rabbi Yochanan View
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אִלְמָלֵא וָיו שֶׁבְּ״הֶעֱלוּךָ״, נִתְחַיְּיבוּ שׂוֹנְאֵיהֶם שֶׁלְּיִשְׂרָאֵל כְּלָיָיה.
->
-> **Translation:** With regard to the aforementioned verse, **Rabbi Yoḥanan says: Were it not for the *vav* in** the term: **"Which brought you up [*he'elukha*],"** giving it a plural form, **the haters of the Jewish people,** a euphemism used to refer to the Jewish people themselves, **would have been sentenced to destruction** for their idol worship. Since they recognized that God had taken them out of Egypt, and thought that He had merely made the golden calf His partner, the Jewish people were spared.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אִלְמָלֵא וָיו שֶׁבְּ״הֶעֱלוּךָ״, נִתְחַיְּיבוּ שׂוֹנְאֵיהֶם שֶׁל יִשְׂרָאֵל כְּלָיָיה.
+> **Translation:** With regard to the aforementioned verse, **Rabbi Yoḥanan says: Were it not for the *vav* in** the term: **“Which brought you up [*he’elukha*],”** giving it a plural form, **the haters of the Jewish people,** a euphemism used to refer to the Jewish people themselves, **would have been sentenced to destruction** for their idol worship. Since they recognized that God had taken them out of Egypt, and thought that He had merely made the golden calf His partner, the Jewish people were spared.
+
+> **Hebrew/Aramaic:** כְּתַנָּאֵי: אֲחֵרִים אוֹמְרִים, אִלְמָלֵא וָיו שֶׁבְּ״הֶעֱלוּךָ״, נִתְחַיְּיבוּ שׂוֹנְאֵיהֶם שֶׁל יִשְׂרָאֵל כְּלָיָיה.
+> **Translation:** The Gemara comments: Rabbi Yoḥanan’s opinion is **like** one side of the following dispute between ***tanna’im*: Others say: Were it not for the *vav* in** the term: **“Which brought you up [*he’elukha*],” the haters of the Jewish people would have been sentenced to destruction.**
 
 The Gemara now turns to a remarkable *agadic* passage. Rabbi Yochanan states: *ilmala vav shebe'heelucha* — were it not for the plural form in the word *heelucha* ("who brought you up") — *nitchayvu resha'im she-beYisrael kelaya*: the wicked among Israel would have deserved complete destruction. The people said "these are your gods" — *eileh elohecha* — in the plural, not "this is your god" in the singular. That plural, Rabbi Yochanan argues, shows that even at the moment of the calf's worship, the people did not exclude God. God remained among the gods they acknowledged, and because they did not fully reject God, they were not deserving of annihilation.
 
 ### Rabbi Shimon Objection
 
-> **Hebrew/Aramaic:** כְּתַנָּאֵי: אֲחֵרִים אוֹמְרִים, אִלְמָלֵא וָיו שֶׁבְּ״הֶעֱלוּךָ״, נִתְחַיְּיבוּ שׂוֹנְאֵיהֶם שֶׁלְּיִשְׂרָאֵל כְּלָיָיה. אָמַר לוֹ רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי: וַהֲלֹא כׇּל הַמְשַׁתֵּף שֵׁם שָׁמַיִם וְדָבָר אַחֵר נֶעֱקָר מִן הָעוֹלָם, שֶׁנֶּאֱמַר ״בִּלְתִּי לַה׳ לְבַדּוֹ״! אֶלָּא מָה תַּלְמוּד לוֹמַר ״אֲשֶׁר הֶעֱלוּךָ״? שֶׁאִיוּוּ אֱלוֹהוֹת הַרְבֵּה.
->
-> **Translation:** The Gemara comments: Rabbi Yoḥanan's opinion is **like** one side of the following dispute between ***tanna'im*: Others say: Were it not for the *vav* in** the term: **"Which brought you up [*he'elukha*]," the haters of the Jewish people would have been sentenced to destruction.** **Rabbi Shimon ben Yoḥai said to him: But isn't anyone who links the name of Heaven and something else,** a euphemism for an idol, **uprooted from the world? As it is stated:** "He who sacrifices to the gods, **save to the Lord only,** shall be utterly destroyed" (Exodus 22:19). The fact that the Jewish people included God in their idolatrous statement could not have saved them from destruction. **Rather, what** is the meaning when **the verse states: "Which brought you up"** in the plural? The verse teaches **that** the Jewish people **desired many gods;** they were not satisfied with the golden calf alone.
+> **Hebrew/Aramaic:** אָמַר לוֹ רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי: וַהֲלֹא כׇּל הַמְשַׁתֵּף שֵׁם שָׁמַיִם וְדָבָר אַחֵר נֶעֱקָר מִן הָעוֹלָם, שֶׁנֶּאֱמַר ״בִּלְתִּי לַה׳ לְבַדּוֹ״! אֶלָּא מָה תַּלְמוּד לוֹמַר ״אֲשֶׁר הֶעֱלוּךָ״? שֶׁאִיוּוּ אֱלוֹהוֹת הַרְבֵּה.
+> **Translation:** **Rabbi Shimon ben Yoḥai said to him: But isn’t anyone who links the name of Heaven and something else,** a euphemism for an idol, **uprooted from the world? As it is stated:** “He who sacrifices to the gods, **save to the Lord only,** shall be utterly destroyed” (Exodus 22:19). The fact that the Jewish people included God in their idolatrous statement could not have saved them from destruction. **Rather, what** is the meaning when **the verse states: “Which brought you up”** in the plural? The verse teaches **that** the Jewish people **desired many gods;** they were not satisfied with the golden calf alone.
 
 A competing *tannaitic* position — cited as *acheirim omrim* — agrees with Rabbi Yochanan's formulation, only to be challenged by Rabbi Shimon bar Yochai. Rabbi Shimon objects: *vahalo kol ha-mishtatef shem shamayim ve-davar acher ne'ekar min ha'olam* — anyone who combines God's name with something else deserves to be destroyed. Saying "these are your gods" — placing God and the calf in the same category — is not a mitigating factor; it is equally, perhaps even more, damnable than outright rejection. So what, according to Rabbi Shimon, does the plural *heelucha* teach? *She'ivu elohut harbeh* — it indicates that they yearned for many gods, showing the depth of their theological rebelliousness, not the survival of their faith in God.
 
@@ -254,27 +277,20 @@ Had they fully pushed God aside, they would have been annihilated, as Rabbi Yoch
 
 ## Non-Classic Acts
 
-### Hugging/Kissing Acts
 
-> **Hebrew/Aramaic:** אֲבָל הַמְגַפֵּף וְהַמְנַשֵּׁק, הַמְכַבֵּד וְהַמְרַבֵּץ כּוּ׳.
->
-> **Translation:** § The mishna teaches: **But** with regard to **one who hugs** an idol, **or one who kisses** it, **or one who cleans** it, **or one who sprays** water before it, he transgresses a prohibition but is not liable to receive capital punishment.
+
+### Hugging/Kissing Acts
 
 The Mishna addresses a category of acts involving an idol that do not constitute classic worship: hugging it, kissing it, sweeping before it, washing it, anointing it, clothing it, honoring it in similar ways. These carry a *lav* — a negative prohibition — but not the death penalty, since they are not the normative forms of worship.
 
 ### Avdimi Teaching
 
-> **Hebrew/Aramaic:** כִּי אֲתָא רַב דִּימִי, אָמַר רַבִּי אֶלְעָזָר: עַל כּוּלָּם לוֹקֶה, חוּץ מֵהַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ.
->
-> **Translation:** **When Rav Dimi came** from Eretz Yisrael to Babylonia, he said that **Rabbi Elazar says: For all of** the transgressions listed in the mishna one **is not flogged, with the exception of one who vows in** an idol's **name and one who affirms** his statement by an oath **in its name.**
+> **Hebrew/Aramaic:** אֲבָל הַמְגַפֵּף וְהַמְנַשֵּׁק, הַמְכַבֵּד וְהַמְרַבֵּץ כּוּ׳. כִּי אֲתָא רַב דִּימִי, אָמַר רַבִּי אֶלְעָזָר: עַל כּוּלָּם לוֹקֶה, חוּץ מֵהַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ.
+> **Translation:** § The mishna teaches: **But** with regard to **one who hugs** an idol, **or one who kisses** it, **or one who cleans** it, **or one who sprays** water before it, he transgresses a prohibition but is not liable to receive capital punishment. **When Rav Dimi came** from Eretz Yisrael to Babylonia, he said that **Rabbi Elazar says: For all of** these actions one **is flogged, with the exception** of the cases stated later in the mishna **of one who vows in** an idol’s **name and one who affirms** his statement by an oath **in its name.**
 
 When Avdimi came from Eretz Yisrael, he transmitted in the name of Rabbi Elazar: for all of these acts of honor and adoration, one receives lashes — *loke* — with the exception of one who vows in the name of another god or swears in the name of another god. For vowing and swearing, Avdimi says, there are no lashes.
 
 ### No Lashing Vows
-
-> **Hebrew/Aramaic:** מַאי שְׁנָא הַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ דְּלָא לָקֵי? מִשּׁוּם דְּהָוֵה לֵיהּ לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה. הָנֵי נָמֵי לָאו שֶׁבִּכְלָלוּת הוּא, וְאֵין לוֹקִין עַל לָאו שֶׁבִּכְלָלוּת.
->
-> **Translation:** The Gemara asks: **What is different** about these cases, **one who vows in** an idol's **name and one who affirms** his statement by an oath **in its name, that** the transgressors **are not flogged?** It is **because they are** each an example of **a prohibition that does not involve an action. These** actions **too,** namely, hugging or kissing an idol and the like, are not punishable by lashes; one who performs them violates **a general prohibition, and one is not flogged for** violating **a general prohibition,** i.e., one that contains several prohibitions.
 
 Why no lashes for vowing and swearing in the name of another god? The Gemara's initial answer is straightforward: *mishum de-havei lav she-ein bo ma'aseh* — because it is a prohibition not involving a physical act. It is purely verbal, and the general rule is that lashes require a physical act of transgression.
 
@@ -284,23 +300,56 @@ This answer, however, immediately generates a counter-question: if vowing and sw
 
 This raises an obvious difficulty: the prohibition of *melacha* on *Yom Tov* — *kol melachas avodah lo ta'asu* — is also seemingly broad. One does receive lashes for *melacha* on *Yom Tov*, and the phrasing appears equally generic. Why is that not a *lav she-bichlalut*?
 
+[DAF:63b]
 ### Tosafot Solution
 
-> **Hebrew/Aramaic:** דְּתַנְיָא: מִנַּיִן לְאוֹכֵל מִן הַבְּהֵמָה קוֹדֶם שֶׁתֵּצֵא נַפְשָׁהּ שֶׁהוּא בְּלֹא תַעֲשֶׂה? תַּלְמוּד לוֹמַר: ״לֹא תֹאכְלוּ עַל הַדָּם״.
->
-> **Translation:** **As** this principle **is taught** in a *baraita*: **From where** is it derived **that one who eats from an animal before its soul departs is** in transgression **of a prohibition? The verse states: "You shall not eat with the blood"** (Leviticus 19:26), meaning, you shall not eat from the animal while its soul, which is referred to in the Torah as blood, is still within it.
+> **Hebrew/Aramaic:** מַאי שְׁנָא הַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ דְּלָא לָקֵי? מִשּׁוּם דְּהָוֵה לֵיהּ לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה. הָנֵי נָמֵי לָאו שֶׁבִּכְלָלוֹת הוּא, וְאֵין לוֹקִין עַל לָאו שֶׁבִּכְלָלוֹת.
+> **Translation:** The Gemara asks: **What is different** about these cases, **one who vows in** an idol’s **name and one who affirms** his statement by an oath **in its name, that** the transgressors **are not flogged?** It is **because they are** each an example of **a prohibition that does not involve an action. These** actions **too,** namely, hugging or kissing an idol and the like, are not punishable by lashes; one who performs them violates **a general prohibition, and one is not flogged for** violating **a general prohibition,** i.e., one that contains several prohibitions.
+
+> **Hebrew/Aramaic:** דְּתַנְיָא: מִנַּיִן לְאוֹכֵל מִן הַבְּהֵמָה קוֹדֶם שֶׁתֵּצֵא נַפְשָׁהּ שֶׁהוּא בְּלֹא תַעֲשֶׂה? תַּלְמוּד לוֹמַר: ״לֹא תֹאכְלוּ עַל הַדָּם״.
+> **Translation:** **As** this principle **is taught** in a *baraita*: **From where** is it derived **that one who eats from an animal before its soul departs is** in transgression **of a prohibition? The verse states: “You shall not eat with the blood”** (Leviticus 19:26), meaning, you shall not eat from the animal while its soul, which is referred to in the Torah as blood, is still within it.
+
+> **Hebrew/Aramaic:** דָּבָר אַחֵר: ״לֹא תֹאכְלוּ עַל הַדָּם״ – לֹא תֹּאכְלוּ בָּשָׂר, וַעֲדַיִן דָּם בְּמִזְרָק.
+> **Translation:** The *baraita* adds: **Another matter** is derived from the verse **“You shall not eat with the blood”: You shall not eat** the **meat** of an offering **while** its **blood is still in the bowl,** as it has not yet been sprinkled on the altar. The meat of an offering may be eaten by the priests only after its blood is sprinkled.
+
+> **Hebrew/Aramaic:** רַבִּי דּוֹסָא אוֹמֵר: מִנַּיִין שֶׁאֵין מַבְרִין עַל הֲרוּגֵי בֵּית דִּין? תַּלְמוּד לוֹמַר: ״לֹא תֹאכְלוּ עַל הַדָּם״.
+> **Translation:** The *baraita* continues: **Rabbi Dosa says: From where** is it derived **that** although in general, after a deceased person is buried, the mourners are provided by others with a meal, others **do not provide** the mourners **with a meal** after the burial **of those executed by the court? The verse states: “You shall not eat with the blood,”** which is interpreted to mean: You shall not eat a mourners’ meal after the burial of one who was executed.
+
+> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא אוֹמֵר: מִנַּיִן לְסַנְהֶדְרִין שֶׁהָרְגוּ אֶת הַנֶּפֶשׁ, שֶׁאֵין טוֹעֲמִין כְּלוּם כׇּל אוֹתוֹ הַיּוֹם? תַּלְמוּד לוֹמַר: ״לֹא תֹאכְלוּ עַל הַדָּם״.
+> **Translation:** **Rabbi Akiva says: From where** is it derived with regard **to a Sanhedrin that killed a soul,** i.e., that sentenced a person to death, **that** the judges **may not taste anything that entire day** that they sentenced him? **The verse states: “You shall not eat with the blood.”**
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אַזְהָרָה לְבֵן סוֹרֵר וּמוֹרֶה מִנַּיִן? תַּלְמוּד לוֹמַר: ״לֹא תֹאכְלוּ עַל הַדָּם״.
+> **Translation:** **Rabbi Yoḥanan says: From where is** the **prohibition against** the behavior of **a stubborn and rebellious son** derived? While the Torah states the punishment given to a stubborn and rebellious son, the prohibition against his actions, namely, stealing money from his parents in order to eat a gluttonous meal of meat and wine in the company of lowly men, is not explicit. **The verse states: “You shall not eat with the blood,”** which is interpreted to mean that one may not eat in a manner that is punishable by death. This concludes the *baraita*.
+
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי אָבִין בַּר חִיָּיא, וְאִיתֵּימָא רַבִּי אָבִין בַּר כָּהֲנָא: עַל כּוּלָּם אֵינוֹ לוֹקֶה, מִשּׁוּם דְּהָוֵה לֵיהּ לָאו שֶׁבִּכְלָלוֹת.
+> **Translation:** **And Rabbi Avin bar Ḥiyya says, and some say** it is **Rabbi Avin bar Kahana** who says this: **For all of** the prohibitions that the Sages derive from this verse, one **is not flogged** for transgressing them, **as it is a general prohibition** that is referring to several different actions. Therefore, since the prohibition against hugging or kissing an idol is also derived from a general prohibition, it should not be punishable by lashes, contrary to the opinion of Rav Dimi.
+
+> **Hebrew/Aramaic:** אֶלָּא, כִּי אֲתָא רָבִין אָמַר רַבִּי אֶלְעָזָר: עַל כּוּלָּן אֵינוֹ לוֹקֶה, חוּץ מִן הַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ.
+> **Translation:** **Rather, when Ravin came** from Eretz Yisrael to Babylonia, he related a different version of what **Rabbi Elazar says: For all of** the transgressions listed in the mishna one **is not flogged, with the exception of one who vows in** an idol’s **name and one who affirms** his statement by an oath **in its name.**
+
+> **Hebrew/Aramaic:** מַאי שְׁנָא אַהָנָךְ דְּלָא לָקֵי? דְּהָוֵה לֵיהּ לָאו שֶׁבִּכְלָלוֹת. הָנֵי נָמֵי לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה נִינְהוּ.
+> **Translation:** The Gemara asks: **What is different about** transgressing **those** prohibitions for **which one is not flogged?** It is **that they are** each an example of **a general prohibition,** as explained previously. **These** cases **too,** namely, one who vows or takes an oath in the name of an idol, **are** included in **a prohibition that does not involve an action,** and therefore the transgressors are not punishable by lashes.
+
+> **Hebrew/Aramaic:** הָהוּא כְּרַבִּי יְהוּדָה, דְּאָמַר: לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה – לוֹקִין עָלָיו.
+> **Translation:** The Gemara answers: **That** *halakha* of Rabbi Eliezer’s is **in accordance with** the opinion of **Rabbi Yehuda, who says** with regard to **a prohibition that does not involve an action** that **one is flogged for** violating **it.**
+
+> **Hebrew/Aramaic:** דְּתַנְיָא: ״לֹא תוֹתִירוּ מִמֶּנּוּ עַד בֹּקֶר״ – בָּא הַכָּתוּב לִיתֵּן עֲשֵׂה אַחַר לֹא תַעֲשֶׂה,
+> **Translation:** **As it is taught** in a *baraita* with regard to the Paschal offering: The verse states: **“And you shall not leave any of it until morning;** but that which remains of it until morning you shall burn with fire” (Exodus 12:10). **The verse comes to provide a positive** mitzva to burn the leftover meat **after the prohibition** against leaving it over was violated,
+
+> **Hebrew/Aramaic:** לוֹמַר שֶׁאֵין לוֹקִין עָלָיו, דִּבְרֵי רַבִּי יְהוּדָה.
+> **Translation:** **to say that one is not flogged for** transgressing the prohibition, as any prohibition that can be rectified by the performance of a positive mitzva does not carry a punishment of lashes. This is **the statement of Rabbi Yehuda.**
+
+> **Hebrew/Aramaic:** רַבִּי יַעֲקֹב אוֹמֵר: לֹא מִן הַשֵּׁם הוּא זֶה, אֶלָּא מִשּׁוּם דְּהָוֵה לֵיהּ לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה, וְכׇל לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה אֵין לוֹקִין עָלָיו.
+> **Translation:** **Rabbi Ya’akov says: This is not for** that **reason. Rather,** it is **because it is a prohibition that does not involve an action.** The transgression is simply the failure to consume all the meat during the allotted time rather than the performance of an action. **And one is not flogged for** the violation of **any prohibition that does not involve an action.**
+
+> **Hebrew/Aramaic:** מִכְּלָל דְּרַבִּי יְהוּדָה סָבַר: לוֹקִין עָלָיו.
+> **Translation:** The Gemara concludes: **By inference, Rabbi Yehuda holds** that in general, **one is flogged for** the violation of a prohibition that does not involve an action. It can therefore be inferred that one who vows or takes an oath in the name of an idol is liable to be flogged according to Rabbi Yehuda’s opinion, even though no action is involved.
 
 Tosafot addresses this directly. The principle of *lav she-bichlalut* disqualifies lashes only where the prohibition is so abstract that it fails to specify what conduct is meant. Tosafot gives examples: the prohibition against eating anything other than roasted meat from the *Korban Pesach* — *tzali esh* — is more specific, because even though it excludes multiple modes of preparation, you know what it is referring to. Similarly, the prohibition applying to a *nazir* — *kol asher ye'aseh mi-gefen* — specifies a category concretely enough to support lashes. By contrast, the prohibition *lo ta'avdeim* in the context of hugging, kissing, and acts of honor that are not classic worship is far too abstract: the verse says "do not worship them," and these are not even standard worship at all. Applying that phrase to them is so attenuated that it cannot be the basis for lashes.
 
 The *meleches avodah* formulation on *Yom Tov*, by contrast, contains an adjective — it specifies *laborious* work, not any work, adding enough specificity to escape the *lav she-bichlalut* problem.
 
 The Gemara reinforces the principle through the famous verse *lo sochlu al ha-dam* — do not eat while the blood is still flowing — which *Rishonim* derive to encompass a wildly diverse range of prohibitions: eating from an animal before it has fully expired, eating sacrificial meat while the blood has not yet been presented on the altar, the mourner's meal for relatives of those executed by the court, and the prohibition on the court eating on the day they administer a death sentence. Rabbi Yochanan adds that this verse also serves as the source for the prohibition warning the *ben sorer u-moreh*. Rashi explains the last as: do not engage in eating that will bring about your blood being spilled. The Gemara concludes that despite all these distinct applications, one receives lashes for none of them — *al kulam eino lokei* — because a prohibition that encompasses such heterogeneous cases is the quintessential *lav she-bichlalut*.
-
-### Different Version From Ravin
-
-> **Hebrew/Aramaic:** אֶלָּא, כִּי אֲתָא רָבִין אָמַר רַבִּי אֶלְעָזָר: עַל כּוּלָּן אֵינוֹ לוֹקֶה, חוּץ מִן הַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ. מַאי שְׁנָא אַהָנָךְ דְּלָא לָקֵי? דְּהָוֵה לֵיהּ לָאו שֶׁבִּכְלָלוֹת. הָנֵי נָמֵי לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה נִינְהוּ. הָהוּא כְּרַבִּי יְהוּדָה, דְּאָמַר: לָאו שֶׁאֵין בּוֹ מַעֲשֶׂה – לוֹקִין עָלָיו.
->
-> **Translation:** **Rather, when Ravin came** from Eretz Yisrael to Babylonia, he related a different version of what **Rabbi Elazar says: For all of** the transgressions listed in the mishna one **is not flogged, with the exception of one who vows in** an idol's **name and one who affirms** his statement by an oath **in its name.** The Gemara asks: **What is different about** transgressing **those** prohibitions for **which one is not flogged?** It is **that they are** each an example of **a general prohibition,** as explained previously. **These** cases **too,** namely, one who vows or takes an oath in the name of an idol, **are** included in **a prohibition that does not involve an action,** and therefore the transgressors are not punishable by lashes. The Gemara answers: **That** *halakha* of Rabbi Eliezer's is **in accordance with** the opinion of **Rabbi Yehuda, who says** with regard to **a prohibition that does not involve an action** that **one is flogged for** violating **it.**
 
 The Gemara then reverses Avdimi's ruling entirely. The version transmitted by Ravin in the name of Rabbi Elazar states the opposite: *al kulan eino lokei* — one receives no lashes for any of the acts in the Mishna — except precisely for vowing and swearing in the name of another god. For those, one does receive lashes, because the prohibition is specific and explicit — derived from the verse *shem elohim acherim lo tazkiru, lo yishama al picha* — not a vague generic formulation. But since the *rabbanan* hold that lashes require a physical act, the issue requires the position of Rabbi Yehuda, who holds that lashes apply even to a *lav she-ein bo ma'aseh* — a prohibition that lacks a physical component — to explain why lashes would apply to swearing as well.
 
@@ -310,19 +359,25 @@ The evidence for Rabbi Yehuda's position is the *baraita* concerning *lo sosiru*
 
 ## Vows/Oaths Prohibition
 
-### Lo Tazkiru Verse
 
-> **Hebrew/Aramaic:** גּוּפָא, אָמַר אַבָּיֵי: שָׁלֹשׁ הִשְׁתַּחֲוָאוֹת בַּעֲבוֹדָה זָרָה לָמָּה? אַחַת לִכְדַרְכָּהּ, וְאַחַת שֶׁלֹּא כְּדַרְכָּהּ, וְאַחַת לְחַלֵּק.
->
-> **Translation:** The Gemara discusses **the** matter **itself** that **Abaye says: Why** are there **three** mentions of the prohibition against **bowing to** an object of **idol worship? One** is **for** an idol for which bowing is **its** standard **manner** of worship, **and one** is a prohibition against bowing to an idol even if bowing is **not its** standard **manner** of worship, **and one** mention is **to divide** idol worship into categories.
+
+### Lo Tazkiru Verse
 
 The Gemara now turns to the verse *ve-shem elohim acherim lo tazkiru* — "and the name of other gods you shall not mention" — and unpacks its scope through a *baraita*.
 
-### Mention Examples
+> **Hebrew/Aramaic:** הַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ, הֲרֵי זֶה בְּלֹא תַעֲשֶׂה. הַנּוֹדֵר בִּשְׁמוֹ וְהַמְקַיֵּים בִּשְׁמוֹ, מְנָלַן?
+> **Translation:** § The mishna teaches with regard to **one who vows in** the **name of** an idol **and one who affirms** his statement by an oath **in its name,** that **this** person is in transgression **of a prohibition.** The Gemara asks: **From where do we** derive that **one who vows in** the **name of** an idol **and one who affirms** his statement by an oath **in its name** transgresses a prohibition?
 
-> **Hebrew/Aramaic:** דְּתַנְיָא: ״וְשֵׁם אֱלֹהִים אֲחֵרִים לֹא תַזְכִּירוּ״ – שֶׁלֹּא יֹאמַר אָדָם לַחֲבֵירוֹ ״שְׁמוֹר לִי בְּצַד עֲבוֹדָה זָרָה פְּלוֹנִית״. ״לֹא יִשָּׁמַע עַל פִּיךָ״ – שֶׁלֹּא יִדּוֹר בִּשְׁמוֹ וְלֹא יְקַיֵּים בִּשְׁמוֹ, וְלֹא יִגְרוֹם לַאֲחֵרִים שִׁידְּרוּ בִּשְׁמוֹ וְשֶׁיְּקַיְּימוּ בִּשְׁמוֹ.
->
-> **Translation:** The Gemara answers: **As it is taught** in a *baraita* that the meaning of the verse: **"And make no mention of the name of the other gods,** neither let it be heard out of your mouth" (Exodus 23:13), is **that a person may not say to another: Wait for me next to such and such** an object of **idol worship.** The meaning of the statement **"neither let it be heard out of your mouth"** is **that** one **may not vow in** the **name of** an idol, **nor affirm** his statement by an oath **in its name, nor cause others,** i.e., gentiles, **to vow in its name or affirm** their statements by an oath **in its name.**
+> **Hebrew/Aramaic:** דְּתַנְיָא: ״וְשֵׁם אֱלֹהִים אֲחֵרִים לֹא תַזְכִּירוּ״ – שֶׁלֹּא יֹאמַר אָדָם לַחֲבֵירוֹ ״שְׁמוֹר לִי בְּצַד עֲבוֹדָה זָרָה פְּלוֹנִית״. ״לֹא יִשָּׁמַע עַל פִּיךָ״ – שֶׁלֹּא יִדּוֹר בִּשְׁמוֹ וְלֹא יְקַיֵּים בִּשְׁמוֹ, וְלֹא יִגְרוֹם לַאֲחֵרִים שִׁידְּרוּ בִּשְׁמוֹ וְשֶׁיְּקַיְּימוּ בִּשְׁמוֹ.
+> **Translation:** The Gemara answers: **As it is taught** in a *baraita* that the meaning of the verse: **“And make no mention of the name of the other gods,** neither let it be heard out of your mouth” (Exodus 23:13), is **that a person may not say to another: Wait for me next to such and such** an object of **idol worship.** The meaning of the statement **“neither let it be heard out of your mouth”** is **that** one **may not vow in** the **name of** an idol, **nor affirm** his statement by an oath **in its name, nor cause others,** i.e., gentiles, **to vow in its name or affirm** their statements by an oath **in its name.**
+
+> **Hebrew/Aramaic:** דָּבָר אַחֵר: ״לֹא יִשָּׁמַע עַל פִּיךָ״ – אַזְהָרָה לַמֵּסִית וְלַמַּדִּיחַ.
+> **Translation:** **Alternatively,** the statement **“neither let it be heard out of your mouth”** can be interpreted as **a prohibition against one who incites** another to worship idols **and against one who subverts** an entire city to do so. The prohibition against inciting others to engage in idol worship can be derived from this verse.
+
+> **Hebrew/Aramaic:** מֵסִית, בְּהֶדְיָא כְּתִיב בֵּיהּ: ״וְכׇל יִשְׂרָאֵל יִשְׁמְעוּ וְיִרָאוּ וְגוֹ׳״. אֶלָּא, אַזְהָרָה לַמַּדִּיחַ.
+> **Translation:** The Gemara asks: Why must the prohibition against **an inciter** be derived from here? **It is written explicitly in that regard,** in the verse concerning the inciter’s punishment: **“And all Israel shall hear, and fear,** and shall do no more of any such wickedness as this is in your midst” (Deuteronomy 13:12). This is clearly a prohibition against inciting others to worship idols. **Rather,** the verse “neither let it be heard out of your mouth” is **a prohibition against one who subverts** an entire city to engage in idol worship; this prohibition is not stated elsewhere.
+
+### Mention Examples
 
 The *baraita* derives from *lo tazkiru* the prohibition against mentioning the names of other gods in everyday speech. The example given: one may not say to a friend, *shemor li be-tzad avodas kochavim peloni* — wait for me by that such-and-such idol — because in doing so one has casually invoked the name of a foreign deity.
 
@@ -332,31 +387,24 @@ The verse continues: *lo yishama al picha* — it shall not be heard through you
 
 ### Causing Others Oath
 
-From the same phrase — *lo yishama al picha* — the *baraita* also derives that one may not cause others to swear by the name of another god. The scope extends even to non-Jews: if your conduct results in a non-Jew taking an oath in the name of their deity, you have violated *lo yishama al picha*. One further derivation from this phrase: *azhara le-madiach* — a warning against the one who incites an entire town toward *avoda zara*. While the incitement of an individual is prohibited by an explicit verse — *ve-chol Yisrael yishme'u ve-yira'un* — the analogous prohibition for inciting a community was not otherwise stated, and *lo yishama al picha* provides the source.
 
-> **Hebrew/Aramaic:** דָּבָר אַחֵר: ״לֹא יִשָּׁמַע עַל פִּיךָ״ – אַזְהָרָה לַמֵּסִית וְלַמַּדִּיחַ. מֵסִית, בְּהֶדְיָא כְּתִיב בֵּיהּ: ״וְכׇל יִשְׂרָאֵל יִשְׁמְעוּ וְיִרָאוּ וְגוֹ׳״. אֶלָּא, אַזְהָרָה לַמַּדִּיחַ.
->
-> **Translation:** **Alternatively,** the statement **"neither let it be heard out of your mouth"** can be interpreted as **a prohibition against one who incites** another to worship idols **and against one who subverts** an entire city to do so. The prohibition against inciting others to engage in idol worship can be derived from this verse. The Gemara asks: Why must the prohibition against **an inciter** be derived from here? **It is written explicitly in that regard,** in the verse concerning the inciter's punishment: **"And all Israel shall hear, and fear,** and shall do no more of any such wickedness as this is in your midst" (Deuteronomy 13:12). This is clearly a prohibition against inciting others to worship idols. **Rather,** the verse "neither let it be heard out of your mouth" is **a prohibition against one who subverts** an entire city to engage in idol worship; this prohibition is not stated elsewhere.
+From the same phrase — *lo yishama al picha* — the *baraita* also derives that one may not cause others to swear by the name of another god. The scope extends even to non-Jews: if your conduct results in a non-Jew taking an oath in the name of their deity, you have violated *lo yishama al picha*. One further derivation from this phrase: *azhara le-madiach* — a warning against the one who incites an entire town toward *avoda zara*. While the incitement of an individual is prohibited by an explicit verse — *ve-chol Yisrael yishme'u ve-yira'un* — the analogous prohibition for inciting a community was not otherwise stated, and *lo yishama al picha* provides the source.
 
 A note on the relationship between the two prohibitions: why does one need a verse prohibiting vows and oaths in the name of another god, if one is already prohibited from merely mentioning the name? One might say — and this appears to be the Rambam's position — that the *ikkar* prohibition, the core biblical prohibition, is the use of the divine name in a formal religious act: the vow or the oath. The prohibition against casual mention is secondary, perhaps rabbinic in character. Tosafot, however, understands even the casual mention as a biblical prohibition. This distinction has practical implications for how one treats the invocation of divine names associated with other religions in everyday discourse.
 
 ### Partnership Prohibition
 
-> **Hebrew/Aramaic:** וְלֹא יִגְרוֹם לַאֲחֵרִים שֶׁיִּדְּרוּ בִּשְׁמוֹ וְשֶׁיְּקַיְּימוּ בִּשְׁמוֹ. מְסַיְּיעָא לֵיהּ לַאֲבוּהּ דִּשְׁמוּאֵל, דְּאָמַר אֲבוּהּ דִּשְׁמוּאֵל: אָסוּר לְאָדָם שֶׁיַּעֲשֶׂה שׁוּתָּפוּת עִם הַנׇּכְרִי, שֶׁמָּא יִתְחַיֵּיב לוֹ שְׁבוּעָה וְנִשְׁבָּע בַּעֲבוֹדָה זָרָה שֶׁלּוֹ, וְהַתּוֹרָה אָמְרָה: ״לֹא יִשָּׁמַע עַל פִּיךָ״.
->
-> **Translation:** The *baraita* teaches: **And** one may **not cause others,** i.e., gentiles, **to vow in** the **name of** an idol **or affirm** their statements by an oath **in its name.** The Gemara comments: The *baraita* **supports** the opinion of **Shmuel's father, as Shmuel's father says: It is prohibited for a person to enter** into **a partnership with a gentile, lest** their joint ventures lead them to quarrel, and his gentile partner **will be obligated to take an oath to him, and he will take an oath in** the name of **his** object of **idol worship; and the Torah states: "Neither let it be heard out of your mouth,"** which includes causing a gentile to take an oath in the name of an idol.
-
 The Gemara notes that Abba de-Shmuel's teaching is supported by this analysis: *asur le-adam she-ya'aseh shutafus im ha-oved kochavim* — it is forbidden to enter into a business partnership with an idolater. The concern is concrete: *shema yitchayeiv lo shvua* — the idolater may become obligated to take an oath in the course of the partnership, and when he does so, he will naturally swear in the name of his deity. Since the Jew would have been the proximate cause of that oath being taken, they will have violated *lo yishama al picha*. The obligation of honesty in commerce, in the absence of forensic accounting, was enforced through oaths — and this makes partnership with an idolater a structurally problematic arrangement.
+
+This prohibition extends, it should be noted, even beyond the partnership context. Even where there is no ongoing commercial relationship, a Jew may find themselves in a situation — a loan dispute, for instance — where demanding an oath from a non-Jew becomes practically necessary. In all such cases, the same concern applies. And this raises a question worth pausing on: given that one is prohibited from even casually mentioning the name of another god, why does the Torah need a separate verse to prohibit causing another to take an oath in that name? The prohibition against mention would seem to cover the more serious case already. As noted in the previous section, this is precisely the question that divides the Rambam and Tosafot, with consequences for how broadly *lo yishama al picha* operates in everyday speech — including, for example, the degree of care one must exercise when invoking names associated with other religions in ordinary discourse. That practical question also bears directly on the situation of medieval Jews dealing commercially with Christians, a tension Rabbeinu Tam addresses in the passage that follows.
 
 ---
 
 ## Tosafot Christianity
 
-### Rabbeinu Tam Allow
 
-> **Hebrew/Aramaic:** כִּי אֲתָא עוּלָּא, בָּת בְּקַלְנְבוֹ. אֲמַר לֵיהּ רָבָא: וְהֵיכָא בָּת מָר? אֲמַר לֵיהּ: בְּקַלְנְבוֹ. אֲמַר לֵיהּ: וְהָכְתִיב ״וְשֵׁם אֱלֹהִים אֲחֵרִים לֹא תַזְכִּירוּ״? אֲמַר לֵיהּ, הָכִי אָמַר רַבִּי יוֹחָנָן: כׇּל עֲבוֹדָה זָרָה הַכְּתוּבָה בַּתּוֹרָה – מוּתָּר לְהַזְכִּיר שְׁמָהּ.
->
-> **Translation:** **When Ulla came** from Eretz Yisrael to Babylonia, **he lodged in** a place called **Kalnevo. Rava said to him: And where did the Master lodge?** Ulla **said to him: In Kalnevo.** Rava **said to him: But isn't it written: "And make no mention of the name of the other gods"?** Kalnevo is the name of an idol. Ulla **said to him: This** is what **Rabbi Yoḥanan said:** With regard to **any** object of **idol worship that is written in the Torah, it is permitted to mention its name.**
+
+### Rabbeinu Tam Allow
 
 The discussion of *lo yishama al picha* raises a pressing practical question: how did medieval Jews conduct financial dealings with Christians, who would inevitably be called upon to take oaths in the course of litigation or commerce? Rabbeinu Tam rules that it is permitted to take an oath from a Christian, at least to prevent financial loss. His reasoning is grounded in a principle found in the first chapter of *Avoda Zara*: one may collect a debt from a non-Jew even before his holiday because this is considered *ke-matzil mi-yadam* — saving one's assets from their possession.
 

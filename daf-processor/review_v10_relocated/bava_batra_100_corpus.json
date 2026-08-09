@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Landowner's Swap",
+    "candidates": [
+      "Landowner's Swap",
+      "Rav Ashi's Principle",
+      "Why Both Roads?",
+      "Rabbi Eliezer Cited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about any side-path being circuitous because it is close for one person and far for another, which is precisely what candidate 1 ('Rav Ashi's Principle') describes in its prose.",
+      "chosen_heading": "Rav Ashi's Principle",
+      "current_heading": "Landowner's Swap",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbi Eliezer Cited",
+    "candidates": [
+      "Rav Ashi's Principle",
+      "Why Both Roads?",
+      "Rabbi Eliezer Cited",
+      "Communities as Robbers?",
+      "Rav Gidel's Lost Path",
+      "Two Versions of Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly what candidate 2's prose describes: the gemara answering that the mishna follows Rabbi Eliezer's opinion, citing the baraita via Rabbi Yehuda about 'rabbim sheberu derech leatzmam' \u2014 which is precisely what candidate 2 ('Rabbi Eliezer Cited') is about.",
+      "chosen_heading": "Rabbi Eliezer Cited",
+      "current_heading": "Rabbi Eliezer Cited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Two Versions of Rav",
+    "candidates": [
+      "Communities as Robbers?",
+      "Rav Gidel's Lost Path",
+      "Two Versions of Rav",
+      "Better Explanation Needed",
+      "Rav Yehuda's Seizure",
+      "Rashbam Tones Down"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Communities as Robbers?",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the 'are the public robbers?' objection AND Rav Giddel's lost-path answer, which maps precisely onto heading 0 ('Communities as Robbers?') whose prose asks exactly that question and heading 1 ('Rav Gidel's Lost Path') which elaborates Rav Gidel's resolution \u2014 but since item 1 is a single inseparable unit containing the question and its answer, and heading 0's prose explicitly frames the lost-path explanation as part of its own discussion while heading 1's prose is entirely about Rav Gidel's explanation, item 1 belongs under heading 1 which is the fuller match for Rav Gidel's content.",
+      "second_heading": "Two Versions of Rav",
+      "second_confidence": "high",
+      "second_reason": "Item 2 \u2014 the challenge about why Rav rules against Rabbi Eliezer and the resolution that there are two independent versions of Rav's position (man d'masni ha lo masni ha) \u2014 matches heading 2 ('Two Versions of Rav') exactly, which is also the current placement.",
+      "current_heading": "Two Versions of Rav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rashbam Tones Down",
+    "candidates": [
+      "Better Explanation Needed",
+      "Rav Yehuda's Seizure",
+      "Rashbam Tones Down",
+      "Walking Acquires"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and introduces Rav Yehuda's statement about the rabbim taking possession of a border strip, which is precisely what candidate 1 ('Rav Yehuda's Seizure') discusses as its central topic.",
+      "chosen_heading": "Rav Yehuda's Seizure",
+      "current_heading": "Rashbam Tones Down",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Walking Acquires",
+    "candidates": [
+      "Rashbam Tones Down",
+      "Walking Acquires",
+      "Abraham's Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Eliezer's mechanism of acquisition via walking (hiluch) and the baraita contrasting Rabbi Eliezer with the Rabbis on whether walking acquires, which is precisely what the 'Walking Acquires' section's prose describes.",
+      "chosen_heading": "Walking Acquires",
+      "current_heading": "Walking Acquires",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Abraham's Walking",
+    "candidates": [
+      "Abraham's Walking",
+      "Sages' Objection",
+      "Vineyard Path Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar's explanation of Rabbi Eliezer's reasoning (from the verse about Abraham walking the land) and the Rabbis' response about chavivusa, and heading 0's prose explicitly discusses both elements together as a unit, making it the correct placement.",
+      "chosen_heading": "Abraham's Walking",
+      "current_heading": "Abraham's Walking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Vineyard Path Exception",
+    "candidates": [
+      "Sages' Objection",
+      "Vineyard Path Exception",
+      "Vineyard Path Width"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbis' concession to Rabbi Eliezer regarding vineyard paths acquired by walking, which is precisely what the 'Vineyard Path Exception' prose discusses.",
+      "chosen_heading": "Vineyard Path Exception",
+      "current_heading": "Vineyard Path Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Vineyard Path Width",
+    "candidates": [
+      "Vineyard Path Width",
+      "Path Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yitzchak bar Ami's ruling on vineyard path width with the bundle-of-branches measurement and the fence/no-fence qualification, which is precisely what the 'Vineyard Path Width' prose section discusses.",
+      "chosen_heading": "Vineyard Path Width",
+      "current_heading": "Vineyard Path Width",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Path Measurements",
+    "candidates": [
+      "Path Measurements",
+      "King & Grave Roads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the measurements of private paths and public roads (four cubits, eight cubits, sixteen cubits, thirty-two cubits for cities of refuge), which is exactly the content described in the 'Path Measurements' prose.",
+      "chosen_heading": "Path Measurements",
+      "current_heading": "Path Measurements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "King & Grave Roads",
+    "candidates": [
+      "King & Grave Roads",
+      "Grave Revocation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the king's thoroughfare with no fixed measure and the grave path with no fixed measure \u2014 are explicitly discussed in the 'King & Grave Roads' prose, which addresses both derech hamelech and derech hakever in detail.",
+      "chosen_heading": "King & Grave Roads",
+      "current_heading": "King & Grave Roads",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Grave Revocation",
+    "candidates": [
+      "Grave Revocation",
+      "Ma'amad Ritual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about selling one's grave, path, ma'amad place, and eulogy site, with the family's right to bury against the buyer's will due to pgam mishpacha \u2014 exactly what the 'Grave Revocation' prose section discusses in detail.",
+      "chosen_heading": "Grave Revocation",
+      "current_heading": "Grave Revocation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Ma'amad Ritual",
+    "candidates": [
+      "Ma'amad Ritual",
+      "Ma'amad Purposes",
+      "Rabbi Yehuda's Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the core ritual of seven standings and sittings and its derivation from the seven instances of 'hevel' in Kohelet, which is precisely what the 'Ma'amad Ritual' section's prose discusses.",
+      "chosen_heading": "Ma'amad Ritual",
+      "current_heading": "Ma'amad Ritual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabbi Yehuda's Account",
+    "candidates": [
+      "Ma'amad Purposes",
+      "Rabbi Yehuda's Account",
+      "Rav Avya's Mistakes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's description of the seven standings and sittings ritual with the 'amdu yekarim / shevu yekarim' formulation and the Rabbis' challenge about Shabbat permissibility, which is precisely what the 'Rabbi Yehuda's Account' prose section discusses.",
+      "chosen_heading": "Rabbi Yehuda's Account",
+      "current_heading": "Rabbi Yehuda's Account",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Rav Avya's Mistakes",
+    "candidates": [
+      "Rav Avya's Mistakes",
+      "Cave Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ma'amad u'moshav ceremony and Rav Avya's mistakes, exactly matching the prose of heading 0 which covers all four mistakes and the objection regarding Shabbat.",
+      "chosen_heading": "Rav Avya's Mistakes",
+      "current_heading": "Rav Avya's Mistakes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Cave Dimensions",
+    "candidates": [
+      "Cave Dimensions",
+      "Niche Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers the cave dimensions (four by six amot, eight niches) and begins the niche specifications, but the content quoted ends before the width measurement, matching the Cave Dimensions prose which discusses the overall chamber layout and niche count/placement.",
+      "chosen_heading": "Cave Dimensions",
+      "current_heading": "Cave Dimensions",
+      "moved": false
+    }
+  }
+]

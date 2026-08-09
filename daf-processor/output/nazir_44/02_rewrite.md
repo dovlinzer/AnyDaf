@@ -246,11 +246,6 @@ The *braita* presents both possibilities. Perhaps *pesach ohel moed* literally d
 
 The *braita* rejects the literal reading on grounds of *derekh bizayon* — disrespect for the *makom hamikdash*. Performing a shaving on the Temple grounds themselves would be degrading to the sacred space. Therefore, *pesach ohel moed* in this context must be read as a reference to the *shlamim* and not as a literal geographic designation. The shaving takes place wherever the *shlamim* are being prepared.
 
-## Pesach Timing
-
-### Door Requirement
-
-Abba Chanan cites a teaching in the name of Rabbi Eliezer: *v'gilach hanazir pesach ohel moed, kol zman she-ein pesach ohel moed pasuach eino megalei'ach* — as long as the doors of the *Ohel Moed* are not open, the Nazir may not shave. This reading does not treat *pesach ohel moed* as a purely metaphorical reference to the *shlamim*. Rather, it understands the phrase to mean that the shaving must occur while the *Ohel Moed* is open — whenever and wherever the shaving takes place, even in the *Ezrat Nashim*, the doors must be open. This is analogous to the rule governing *shlamim*: if the doors were closed when the *shlamim* was slaughtered, the *korban* is *pasul*. The shaving of the Nazir is similarly rendered invalid if the doors were not open at the time.
 
 ## Gender Distinction
 

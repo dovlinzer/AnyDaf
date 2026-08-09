@@ -1,0 +1,406 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Blowing Path Through",
+    "candidates": [
+      "Blowing Path Through",
+      "Cemetery Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the beit haperas ruling, the blowing technique, and the trampled path ruling \u2014 all of which are precisely what the 'Blowing Path Through' prose section describes.",
+      "chosen_heading": "Blowing Path Through",
+      "current_heading": "Blowing Path Through",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Cemetery Placement",
+    "candidates": [
+      "Cemetery Placement",
+      "Ohel Zaruk Debate",
+      "Non-Jewish Land Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's ruling about placing an eruv in a cemetery and the baraita explaining the shida/teiva/migdal solution, which is precisely what the 'Cemetery Placement' prose section discusses.",
+      "chosen_heading": "Cemetery Placement",
+      "current_heading": "Cemetery Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Non-Jewish Land Case",
+    "candidates": [
+      "Ohel Zaruk Debate",
+      "Non-Jewish Land Case",
+      "Rashi on Access"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the tannaic dispute between Rabbi Yehuda HaNasi and Rabbi Yosei son of Rabbi Yehuda about entering eretz ha'amim in a carriage/crate/cupboard, which is precisely what the 'Non-Jewish Land Case' prose describes.",
+      "chosen_heading": "Non-Jewish Land Case",
+      "current_heading": "Non-Jewish Land Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Rashi on Access",
+    "candidates": [
+      "Rashi on Access",
+      "Tosafot Distinction",
+      "Food Tahor Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the mechanism of how a kohen can travel to a grave site in a carriage/crate/cupboard (ohel zaruk) and the dispute about whether a moving tent counts as a tent \u2014 which directly addresses the 'Food Tahor Status' section's scenario of mearvin l'kohen tahor b'trumah tehora b'kever and how he can access it, not the Rashi/Tosafot framing of the prior sections.",
+      "chosen_heading": "Food Tahor Status",
+      "current_heading": "Rashi on Access",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Food Tahor Status",
+    "candidates": [
+      "Tosafot Distinction",
+      "Food Tahor Status",
+      "Rod Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses how teruma placed on a grave avoids becoming tamei \u2014 through not being rendered susceptible to impurity or being kneaded with fruit juice \u2014 which is precisely what the 'Food Tahor Status' section discusses.",
+      "chosen_heading": "Food Tahor Status",
+      "current_heading": "Food Tahor Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rod Mechanism",
+    "candidates": [
+      "Rod Mechanism",
+      "Rod as Ohel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks how the kohen retrieves the food and answers with flat wooden utensils that don't contract impurity, which matches exactly the 'Rod Mechanism' section's prose about using bepashutei k'lei eitz delo m'kabli tumah to retrieve the food without contracting tumah.",
+      "chosen_heading": "Rod Mechanism",
+      "current_heading": "Rod Mechanism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rod as Ohel",
+    "candidates": [
+      "Rod as Ohel",
+      "Pointed Rod",
+      "Issurei Hana'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks whether the utensil forms an ohel over the grave and answers by holding it sideways, which directly matches the 'Rod as Ohel' section's prose about the ohel problem raised by extending something over a grave.",
+      "chosen_heading": "Rod as Ohel",
+      "current_heading": "Rod as Ohel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Issurei Hana'ah",
+    "candidates": [
+      "Pointed Rod",
+      "Issurei Hana'ah",
+      "Mitzvot Not Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the Rabbinic prohibition of acquiring a halachic home via issurei hana'ah, which is precisely what the 'Issurei Hana'ah' section's prose discusses.",
+      "chosen_heading": "Issurei Hana'ah",
+      "current_heading": "Issurei Hana'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Mitzvot Not Benefit",
+    "candidates": [
+      "Mitzvot Not Benefit",
+      "Mitzvah-Only Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle 'mitzvot lav lehanot nitnu' as the basis for Rabbi Yehuda's permissive ruling, which matches the 'Mitzvot Not Benefit' section's prose discussing exactly this principle and Rabbi Yehuda's position.",
+      "chosen_heading": "Mitzvot Not Benefit",
+      "current_heading": "Mitzvot Not Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Mitzvah-Only Purpose",
+    "candidates": [
+      "Mitzvah-Only Purpose",
+      "Rav Yosef Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 0's prose describes: Rava's response to the 'leima k'tannai' challenge, reframing the tannaic dispute as being about whether an eruv may be made for discretionary purposes rather than about the nature of mitzvah-benefit.",
+      "chosen_heading": "Mitzvah-Only Purpose",
+      "current_heading": "Mitzvah-Only Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rav Yosef Position",
+    "candidates": [
+      "Rav Yosef Position",
+      "Food Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the challenge to Rav Yosef's independently stated ruling ('ein me'arvin ella lidvar mitzvah') and asks whether it reflects a tannaic dispute \u2014 exactly what the 'Rav Yosef Position' prose describes.",
+      "chosen_heading": "Rav Yosef Position",
+      "current_heading": "Rav Yosef Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Food Protection",
+    "candidates": [
+      "Food Protection",
+      "Demai Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yosef's explanation of the dispute about whether one has ongoing interest in eiruv food after it takes halachic effect, which is precisely what the 'Food Protection' section's prose elaborates on.",
+      "chosen_heading": "Food Protection",
+      "current_heading": "Food Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Demai Permitted",
+    "candidates": [
+      "Demai Permitted",
+      "Ma'aser Rishon Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the demai case \u2014 the mishna permitting eiruv with demai, the gemara's migo argument about becoming poor, and the Beit Shammai/Beit Hillel dispute about feeding the poor demai \u2014 exactly matching the 'Demai Permitted' prose.",
+      "chosen_heading": "Demai Permitted",
+      "current_heading": "Demai Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Ma'aser Rishon Case",
+    "candidates": [
+      "Ma'aser Rishon Case",
+      "Tevel Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Gemara's question about why the mishna states the obvious, Reish Lakish's ruling exempting early-collected ma'aser from terumah gedolah, and Rav Pappa's challenge with Abaye's resolution about the 'pile' case \u2014 are precisely the content described in the 'Ma'aser Rishon Case' prose, which is the current placement.",
+      "chosen_heading": "Ma'aser Rishon Case",
+      "current_heading": "Ma'aser Rishon Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Tevel Prohibited",
+    "candidates": [
+      "Tevel Prohibited",
+      "Incapable Persons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items discuss the mishna's rulings on prohibited foods for eruv (tevel, first tithe without teruma, unredeemed second tithe and hekdesh), along with the Abaye/Rav Pappa exchange about teruma gedola \u2014 exactly the content described in the 'Tevel Prohibited' prose section.",
+      "chosen_heading": "Tevel Prohibited",
+      "current_heading": "Tevel Prohibited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Incapable Persons",
+    "candidates": [
+      "Incapable Persons",
+      "Techumin vs. Chatzeirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 sending an eruv via a deaf-mute, imbecile, minor, or one who rejects eruv \u2014 is directly discussed in candidate 0's prose, which describes exactly these categories and their halachic disqualification.",
+      "chosen_heading": "Incapable Persons",
+      "current_heading": "Incapable Persons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Techumin vs. Chatzeirot",
+    "candidates": [
+      "Techumin vs. Chatzeirot",
+      "Non-Believer Agent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's resolution distinguishing eruv techumin from eruv chatzeiros, which is precisely what the 'Techumin vs. Chatzeirot' prose section addresses.",
+      "chosen_heading": "Techumin vs. Chatzeirot",
+      "current_heading": "Techumin vs. Chatzeirot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Non-Believer Agent",
+    "candidates": [
+      "Non-Believer Agent",
+      "Indirect Transport"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies the 'one who does not accept eiruv' as a Kuti (Samaritan), which is precisely what the 'Non-Believer Agent' section's prose discusses \u2014 Rav Chisda's identification of the kuti and his principled rejection of rabbinic eruv law disqualifying him as an agent.",
+      "chosen_heading": "Non-Believer Agent",
+      "current_heading": "Non-Believer Agent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Indirect Transport",
+    "candidates": [
+      "Indirect Transport",
+      "Observation Required",
+      "Chazakah Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the concern that an incapable courier may not deliver the eiruv and Rav \u1e24isda's answer that the sender must stand and watch (b'omed v'ro'eh), which is precisely what the 'Observation Required' prose describes.",
+      "chosen_heading": "Observation Required",
+      "current_heading": "Indirect Transport",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Chazakah Principle",
+    "candidates": [
+      "Observation Required",
+      "Chazakah Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the chazakah shaliach oseh shlichuto principle \u2014 its application, its original context (the elephant/monkey baraita with Rav \u1e24isda and Rav Ye\u1e25iel), and Rav Na\u1e25man's qualification \u2014 which is precisely what the 'Chazakah Principle' prose describes.",
+      "chosen_heading": "Chazakah Principle",
+      "current_heading": "Chazakah Principle",
+      "moved": false
+    }
+  }
+]

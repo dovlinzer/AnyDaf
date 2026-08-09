@@ -1,0 +1,245 @@
+[
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Fire vs. Sun Heating",
+      "Toldos Chama/Or",
+      "Egg/Kettle Case",
+      "Tverya Incident",
+      "Rav Ika Query",
+      "Showering Definition",
+      "Three Positions",
+      "Resolve Tverya",
+      "Yom Tov Problem",
+      "Ramban: Lo Pelug",
+      "Tosafot: Taanug",
+      "Modern Practice",
+      "Vessel vs. Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Ika bar Chanina's statement resolving the Tverya difficulty by identifying the case as full-body showering and attributing the ruling to a specific Tanna \u2014 exactly what the 'Rav Ika Query' section's prose describes.",
+      "chosen_heading": "Rav Ika Query",
+      "current_heading": "Three Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Vessel vs. Ground",
+    "candidates": [
+      "Resolve Tverya",
+      "Yom Tov Problem",
+      "Ramban: Lo Pelug",
+      "Tosafot: Taanug",
+      "Modern Practice",
+      "Vessel vs. Ground",
+      "Challenge to Distinction",
+      "Halacha: Hands/Face/Feet",
+      "Explicit vs. Inferred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes exactly Rav Chisda's initial formulation distinguishing vessel from ground, which is precisely what the 'Vessel vs. Ground' section's prose discusses.",
+      "chosen_heading": "Vessel vs. Ground",
+      "current_heading": "Vessel vs. Ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Explicit vs. Inferred",
+    "candidates": [
+      "Challenge to Distinction",
+      "Halacha: Hands/Face/Feet",
+      "Explicit vs. Inferred",
+      "Rav: Limb by Limb",
+      "Shmuel: Limited Areas",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete explicit-vs-inferred discussion: the machriya doctrine, the matlaniyot exception, the mishna/beraita qualification, and Rabba bar bar Chana's resolution \u2014 all of which are precisely what the 'Explicit vs. Inferred' section's prose describes.",
+      "chosen_heading": "Explicit vs. Inferred",
+      "current_heading": "Explicit vs. Inferred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Rav: Limb by Limb",
+      "Shmuel: Limited Areas",
+      "Baraita Challenge",
+      "Rava's Teaching",
+      "Rabba's Practice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the amoraic dispute between Rav and Shmuel and the baraita challenges to Rav's 'limb by limb' interpretation, which is precisely what the 'Baraita Challenge' prose describes.",
+      "second_heading": "Rava's Teaching",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rabba's distinct reformulation of Rav's position (leaving out one limb entirely) and its conclusive refutation, which matches the 'Rava's Teaching' prose exactly.",
+      "current_heading": "Baraita Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rabba's Practice",
+    "candidates": [
+      "Rava's Teaching",
+      "Rabba's Practice",
+      "Stringency/Leniency Rule",
+      "Rama Allowance",
+      "Sealed Bathhouse",
+      "Erev Yom Tov Closure",
+      "Bnei Brak Incident"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba's Practice",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rav Yosef's question about Rabba's practice and Abaye's uncertainty, which is precisely what the 'Rabba's Practice' prose describes.",
+      "second_heading": "Stringency/Leniency Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the ke-chumrei/ke-kulei qualification \u2014 Rabba followed Rav's stringencies but not leniencies \u2014 which is exactly what the 'Stringency/Leniency Rule' prose discusses.",
+      "current_heading": "Rabba's Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Bnei Brak Incident",
+    "candidates": [
+      "Stringency/Leniency Rule",
+      "Rama Allowance",
+      "Sealed Bathhouse",
+      "Erev Yom Tov Closure",
+      "Bnei Brak Incident",
+      "Initial Permission",
+      "Ban Bathing",
+      "Ban Steam Bath",
+      "Ban Hot Springs",
+      "Permit Hot Springs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The Bnei Brak Incident prose (heading 4) explicitly covers the beraisa about sealed bathhouses, the Bnei Brak story, and transitions into the historical development of restrictions, making it the best single home for all three items despite heading 3 also discussing related material.",
+      "chosen_heading": "Bnei Brak Incident",
+      "current_heading": "Bnei Brak Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Permit Hot Springs",
+    "candidates": [
+      "Initial Permission",
+      "Ban Bathing",
+      "Ban Steam Bath",
+      "Ban Hot Springs",
+      "Permit Hot Springs",
+      "Warming Principle",
+      "Water Flask"
+    ],
+    "result": {
+      "best_index": 4,
+      "action": "single",
+      "chosen_heading": "Permit Hot Springs",
+      "current_heading": "Permit Hot Springs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Water Flask",
+    "candidates": [
+      "Warming Principle",
+      "Water Flask",
+      "Rabbi Yehuda: Oil",
+      "Rabban Shimon: Oil",
+      "Oil as Bishul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains two beraitot \u2014 one about warming before a bonfire and rinsing in cold water, and one about a heated towel on the intestines \u2014 both of which are explicitly discussed in the 'Warming Principle' prose, which directly quotes and explains both beraitot, whereas the 'Water Flask' prose discusses a different beraita about placing a flask before a fire and the yad soledet bo threshold.",
+      "chosen_heading": "Warming Principle",
+      "current_heading": "Water Flask",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Oil as Bishul",
+    "candidates": [
+      "Rabbi Yehuda: Oil",
+      "Rabban Shimon: Oil",
+      "Oil as Bishul",
+      "Lenient: Oil OK",
+      "Strict: Oil Problem",
+      "Middle: Oil Limits",
+      "Most Strict: Oil",
+      "Yad Soledet Intro",
+      "Oil/Water Same",
+      "Infant Scald Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Oil as Bishul",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the baraita (tanna kamma, Rabbi Yehuda, Rabban Shimon ben Gamliel) and the Amoraic dispute about oil's status according to the first tanna, which is exactly what heading 2 ('Oil as Bishul') discusses.",
+      "second_heading": "Yad Soledet Intro",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents Rav Yehuda/Shmuel's unifying rule equating oil and water under the yad soledet bo standard, plus Rachava's infant-scald definition, which matches heading 7 ('Yad Soledet Intro') precisely.",
+      "current_heading": "Oil as Bishul",
+      "moved": true
+    }
+  }
+]

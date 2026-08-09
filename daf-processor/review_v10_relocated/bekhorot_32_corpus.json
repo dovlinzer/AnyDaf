@@ -1,0 +1,430 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "Hekdesh Benefit Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question about when hekdesh receives benefit \u2014 exactly the content described in the 'Hekdesh Benefit Timing' prose, not the mishna overview.",
+      "chosen_heading": "Hekdesh Benefit Timing",
+      "current_heading": "Mishna Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Hekdesh Benefit Timing",
+    "candidates": [
+      "Mishna Overview",
+      "Hekdesh Benefit Timing",
+      "Retroactive Valuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of when hekdesh benefits (before or after redemption) and raises the difficulty that 'before redemption' conflicts with the requirement of ha'amadah veha'arachah for a living animal \u2014 precisely what the 'Hekdesh Benefit Timing' section's prose describes.",
+      "chosen_heading": "Hekdesh Benefit Timing",
+      "current_heading": "Hekdesh Benefit Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Retroactive Valuation",
+    "candidates": [
+      "Retroactive Valuation",
+      "Conceptual Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain addressing the mishna's ruling about post-redemption sale and how the benefit to hekdesh comes from the initial redemption being valued higher because of permitted marketplace sale \u2014 exactly what the 'Retroactive Valuation' prose describes.",
+      "chosen_heading": "Retroactive Valuation",
+      "current_heading": "Retroactive Valuation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Conceptual Distinction",
+    "candidates": [
+      "Conceptual Distinction",
+      "Bechor Sales Question",
+      "Torah Sources",
+      "Orphans Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bechor Sales Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question about whether bechor can be sold in the marketplace versus at home, and whether ma'aser can be sold at all \u2014 exactly the content described in candidate 1's prose about the bechor sales question and the pressing question of ma'aser behemah.",
+      "second_heading": "Torah Sources",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita citing the Torah verses 'lo tipadeh' and 'lo yiga'el' to establish that ma'aser cannot be sold in any form, which is precisely what candidate 2's prose describes as the braisa setting out the relevant verses and creating tension with the mishna.",
+      "current_heading": "Conceptual Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Orphans Exception",
+    "candidates": [
+      "Bechor Sales Question",
+      "Torah Sources",
+      "Orphans Exception",
+      "Rav Idi's Attribution",
+      "Torah Transmission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Sheshet's overnight difficulty and morning resolution identifying the mishna as dealing with orphans' ma'aser behemah and the principle of hashavas aveidah, which is precisely what the 'Orphans Exception' section's prose discusses.",
+      "chosen_heading": "Orphans Exception",
+      "current_heading": "Orphans Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Torah Transmission",
+    "candidates": [
+      "Rav Idi's Attribution",
+      "Torah Transmission",
+      "Hashavas Aveidah",
+      "Havla'ah & Orphans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete teaching about why attribution matters \u2014 the Rav Idi incident plus the Rav Yehuda/Rav teaching about dwelling in two worlds plus the Rabbi Yochanan/Rabbi Shimon ben Yochai teaching plus the Rabbi Yitzchak ben Ze'eiri verse \u2014 and candidate 1's prose explicitly discusses all of this content in sequence, making it the clear and correct home.",
+      "chosen_heading": "Torah Transmission",
+      "current_heading": "Torah Transmission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Havla'ah & Orphans",
+    "candidates": [
+      "Hashavas Aveidah",
+      "Havla'ah & Orphans",
+      "Abaye vs Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita's two cases \u2014 selling ma'aser behemah of orphans and the havla'ah technique for slaughtered ma'aser behemah \u2014 are precisely what candidate 1's prose describes and analyzes in detail.",
+      "chosen_heading": "Havla'ah & Orphans",
+      "current_heading": "Havla'ah & Orphans",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Abaye vs Rava",
+    "candidates": [
+      "Abaye vs Rava",
+      "Lulav-Etrog Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's reading of the baraita \u2014 that it presents a single case where orphans may sell ma'aser behemah only via havla'ah \u2014 which is precisely the content the 'Abaye vs Rava' section prose describes as Abaye's position.",
+      "chosen_heading": "Abaye vs Rava",
+      "current_heading": "Abaye vs Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Lulav-Etrog Analogy",
+    "candidates": [
+      "Lulav-Etrog Analogy",
+      "Tmura Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the lulav-etrog analogy and the distinction between non-evident inclusion (etrog/lulav) and evident inclusion (ma'aser behemah), culminating in Rava's reading of the two clauses \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Lulav-Etrog Analogy",
+      "current_heading": "Lulav-Etrog Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Tmura Context",
+    "candidates": [
+      "Tmura Context",
+      "Rabbinic Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's proof from the verse about tmura and its application mechayim, which is precisely what the 'Tmura Context' prose describes \u2014 the argument that lo yiga'el applies only while the animal is alive, before the rabbinic extension is introduced in the next section.",
+      "chosen_heading": "Tmura Context",
+      "current_heading": "Tmura Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Rabbinic Extension",
+    "candidates": [
+      "Rabbinic Extension",
+      "Alternate Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's distinction between davar ha'nishom mechayim and davar she'eino nishom mechayim, and the orphan exception \u2014 precisely the content described in the 'Rabbinic Extension' prose.",
+      "chosen_heading": "Rabbinic Extension",
+      "current_heading": "Rabbinic Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Alternate Derivation",
+    "candidates": [
+      "Alternate Derivation",
+      "Bones Absorption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Shmuel bar Rav Yitzchak's alternate derivation from Deuteronomy 12:15 that blemished animal-tithe may be sold normally, which matches perfectly with the 'Alternate Derivation' prose describing exactly this position and this verse.",
+      "chosen_heading": "Alternate Derivation",
+      "current_heading": "Alternate Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Bones Absorption",
+    "candidates": [
+      "Bones Absorption",
+      "Sheep vs Cow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about including meat value in bones, which matches the 'Bones Absorption' section's prose describing exactly this question, before the resolution and dispute details covered in 'Sheep vs Cow'.",
+      "chosen_heading": "Bones Absorption",
+      "current_heading": "Bones Absorption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Sheep vs Cow",
+    "candidates": [
+      "Sheep vs Cow",
+      "Verse Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the resolution of the dispute between Rabbi Chiya and Rabbi Shimon bar Rabbi regarding bones of small vs. large animals and locale-based customs, which is precisely what the 'Sheep vs Cow' prose describes.",
+      "chosen_heading": "Sheep vs Cow",
+      "current_heading": "Sheep vs Cow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Verse Parallels",
+    "candidates": [
+      "Verse Parallels",
+      "Rav Chanina Link",
+      "Ha'avarah Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the Gemara's analysis \u2014 item 1 states the baraita's prohibitions and asks the derivation question, item 2 gives Rav \u1e24innana/Rav Dimi's gezeirah shavah answer \u2014 and the 'Verse Parallels' prose explicitly describes exactly this content: the three prohibitions from bechor, ma'aser, and charamim, followed by the question of how lo yiga'el by ma'aser prohibits selling, which is precisely what these two items address.",
+      "chosen_heading": "Verse Parallels",
+      "current_heading": "Verse Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Ha'avarah Challenge",
+    "candidates": [
+      "Rav Chanina Link",
+      "Ha'avarah Challenge",
+      "Exact Phrase Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage traces the Gemara's attempt to establish that 'lo yiga'el' is free by ma'aser through the ha'avarah bridge to bechor, testing each category's unique stringency (kedushah merachem, kadesh lefanav ule'acharayiv, charamim applying to all), which is precisely what the 'Ha'avarah Challenge' prose describes.",
+      "chosen_heading": "Ha'avarah Challenge",
+      "current_heading": "Ha'avarah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Exact Phrase Link",
+    "candidates": [
+      "Exact Phrase Link",
+      "Rava's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about the gezeirah shavah methodology \u2014 deriving from geula/geula vs. pediya/geula, the Rabbi Yishmael school's principle about non-identical terms, the qualification that identical terms are preferred when available, and the resulting derivation chain \u2014 which matches precisely the 'Exact Phrase Link' prose discussion.",
+      "chosen_heading": "Exact Phrase Link",
+      "current_heading": "Exact Phrase Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Rava's Approach",
+    "candidates": [
+      "Rava's Approach",
+      "Tmura Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rava's argument \u2014 the superfluity of 'lo yiga'el' by charamim, the baraita supporting the two-state analysis of cherem, and the transfer to ma'aser rather than bechor \u2014 which is precisely what the 'Rava's Approach' prose section describes in detail.",
+      "chosen_heading": "Rava's Approach",
+      "current_heading": "Rava's Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Tmura Logic",
+    "candidates": [
+      "Tmura Logic",
+      "Alive vs Dead Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tmura Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers Rav Ashi's initial statement that 'lo yiga'el' means 'lo yimacher' and his proof-text, which matches the 'Tmura Logic' prose describing exactly this derivation from the tmura context.",
+      "second_heading": "Alive vs Dead Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 develop the incoherence of reading 'lo yiga'el' literally (requiring ha'amadah veha'arachah after slaughter) and conclude 'ela shma mina lo yimacher,' which matches perfectly the 'Alive vs Dead Logic' prose describing the kal vachomer argument and the final conclusion.",
+      "current_heading": "Tmura Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Alive vs Dead Logic",
+    "candidates": [
+      "Alive vs Dead Logic",
+      "Why Use Lo Yiga'el"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether an animal prohibited from redemption while alive could be redeemed after slaughter, and the counterargument that stronger kedushah while alive restricts redemption \u2014 exactly the 'Alive vs Dead Logic' content described in candidate 0's prose.",
+      "chosen_heading": "Alive vs Dead Logic",
+      "current_heading": "Alive vs Dead Logic",
+      "moved": false
+    }
+  }
+]

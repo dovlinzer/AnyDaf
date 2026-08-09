@@ -1,0 +1,519 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tanu Rabbanan",
+    "candidates": [
+      "Mishnah Setup",
+      "Tanu Rabbanan",
+      "Sum 1-60",
+      "Rabbi's Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about specifying a minchah in one vessel with unknown esronim, which is exactly what the 'Tanu Rabbanan' section's prose discusses and explains.",
+      "chosen_heading": "Tanu Rabbanan",
+      "current_heading": "Tanu Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Rabbi's Count",
+    "candidates": [
+      "Sum 1-60",
+      "Rabbi's Count",
+      "Core Debate",
+      "Chullin Entry",
+      "Rabbi Forbids",
+      "Chachamim Allow",
+      "Rava Corrects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi's Count",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita with the three-part uncertainty case and the dispute between Rabbis and Rabbi Yehuda HaNasi about totals (300 vs 9,150), which is precisely what heading 'Rabbi's Count' discusses.",
+      "second_heading": "Chullin Entry",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav \u1e24isda's framework about the dispute centering on whether chullin may be brought into the azarah, which matches heading 'Chullin Entry' exactly.",
+      "current_heading": "Rabbi's Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rava Corrects",
+    "candidates": [
+      "Core Debate",
+      "Chullin Entry",
+      "Rabbi Forbids",
+      "Chachamim Allow",
+      "Rava Corrects",
+      "Two Kematzim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement rejecting the chullin framework and identifying the true dispute as whether chovah and nedavah may be mixed, which is precisely what the 'Rava Corrects' section's prose describes.",
+      "chosen_heading": "Rava Corrects",
+      "current_heading": "Rava Corrects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Two Kematzim",
+    "candidates": [
+      "Two Kematzim",
+      "Mixed Kematzim",
+      "Kohen's Intent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Kematzim",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the Rabbis vs. Rabbi Yehuda HaNasi dispute and Abaye's question about two kematzim with Rava's answer \u2014 exactly what heading 0 'Two Kematzim' describes.",
+      "second_heading": "Mixed Kematzim",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the follow-up objection that each handful is drawn from a mixture of chovah and nedavah portions, which is precisely what heading 1 'Mixed Kematzim' is about.",
+      "current_heading": "Two Kematzim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Kohen's Intent",
+    "candidates": [
+      "Mixed Kematzim",
+      "Kohen's Intent",
+      "No Nedava Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's answer that the matter depends on the kohen's intent, with the exact formulation about wherever the priest's hand reaches being chovah or nedavah, which is precisely what the 'Kohen's Intent' section's prose describes and explains.",
+      "chosen_heading": "Kohen's Intent",
+      "current_heading": "Kohen's Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "No Nedava Problem",
+    "candidates": [
+      "No Nedava Problem",
+      "Fuel Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present Abaye's question to Rava about the order of burning the two handfuls and the associated problems (shirayim lacking, bal taktiru), which is precisely what the 'No Nedava Problem' prose section describes in detail.",
+      "chosen_heading": "No Nedava Problem",
+      "current_heading": "No Nedava Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Fuel Solution",
+    "candidates": [
+      "Fuel Solution",
+      "Alternate Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda son of Rabbi Shimon ben Pazi's 'fuel solution' and Rabbi Eliezer's baraita, which is precisely what Candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Fuel Solution",
+      "current_heading": "Fuel Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Alternate Framework",
+    "candidates": [
+      "Alternate Framework",
+      "Objection to Acha",
+      "Touching Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a's alternative framework proposal to Rav Ashi, which is exactly what the 'Alternate Framework' prose section describes.",
+      "chosen_heading": "Alternate Framework",
+      "current_heading": "Alternate Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Touching Vessels",
+    "candidates": [
+      "Objection to Acha",
+      "Touching Vessels",
+      "Nedava Guarantee",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's objection explaining why mixing chovah with nedavah would allow a technical workaround (touching vessels), which is precisely the content described in candidate 0's prose about the objection to Acha's proposal.",
+      "chosen_heading": "Objection to Acha",
+      "current_heading": "Touching Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Nedava Guarantee",
+      "Rava's Answer",
+      "Oil Mishnah",
+      "One Log Problem",
+      "Chachamim vs. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's exact statement explaining the dispute in terms of the Rabbi Eliezer ben Yaakov/Rabbanan disagreement, which is precisely what the 'Rava's Answer' section prose describes.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Chachamim vs. Eliezer",
+    "candidates": [
+      "Oil Mishnah",
+      "One Log Problem",
+      "Chachamim vs. Eliezer",
+      "Ashi's Framework",
+      "Minimum View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 cites the mishna about sixty log vs. one log (matching heading 0 'Oil Mishnah' exactly), and items 2-3 are Rava's explanation of how Rabbanan and Rabbi each align with those opinions \u2014 all three items together form the unit that heading 0's prose describes, while heading 2 'Chachamim vs. Eliezer' describes only items 2-3 without item 1's mishna citation.",
+      "chosen_heading": "Oil Mishnah",
+      "current_heading": "Chachamim vs. Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Minimum View",
+    "candidates": [
+      "Ashi's Framework",
+      "Minimum View",
+      "Exact View",
+      "Verified Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's complete statement introducing the alternative framework (that the dispute concerns bringing a large offering when obligated to bring a small one), which belongs under the 'Ashi's Framework' heading that specifically discusses Rav Ashi's proposal, rather than being split across the subsequent headings that cover the Rabbis' and Rabbi's individual positions.",
+      "chosen_heading": "Ashi's Framework",
+      "current_heading": "Minimum View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Verified Debate",
+    "candidates": [
+      "Exact View",
+      "Verified Debate",
+      "Why Mincha Differs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about whether this debate has already been documented elsewhere, which is precisely what the 'Verified Debate' section's prose describes \u2014 noting the existing mishna record of the same dispute and asking why it needs to be stated again.",
+      "chosen_heading": "Verified Debate",
+      "current_heading": "Verified Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Why Mincha Differs",
+    "candidates": [
+      "Why Mincha Differs",
+      "Bottom Line",
+      "Wood Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the classic tzricha argument explaining why both the minchah case and the animal case needed to be stated, which is precisely what the 'Why Mincha Differs' prose discusses in detail.",
+      "chosen_heading": "Why Mincha Differs",
+      "current_heading": "Why Mincha Differs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Wood Rules",
+    "candidates": [
+      "Bottom Line",
+      "Wood Rules",
+      "Frankincense"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bottom Line",
+      "first_confidence": "medium",
+      "first_reason": "The mnemonic summarizes upcoming mishnayot and serves as a closing/transitional device wrapping up the prior section before the new Mishnah begins, making it a better fit under 'Bottom Line' as a concluding bridge than under 'Wood Rules'.",
+      "second_heading": "Wood Rules",
+      "second_confidence": "high",
+      "second_reason": "The Mishna about vowing wood (etzim) with the minimum of two logs is precisely what the 'Wood Rules' prose discusses, including the same Tosafot distinction about singular vs. plural.",
+      "current_heading": "Wood Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Frankincense",
+    "candidates": [
+      "Frankincense",
+      "Precious Metals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the five halakhot pertaining to handfuls of frankincense, which is precisely what the 'Frankincense' section's prose describes.",
+      "chosen_heading": "Frankincense",
+      "current_heading": "Frankincense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Precious Metals",
+    "candidates": [
+      "Precious Metals",
+      "Default is Frankincense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses minimum donation amounts for gold, silver, and copper, and the case of specifying but forgetting the amount \u2014 all of which are explicitly addressed in the 'Precious Metals' section prose.",
+      "chosen_heading": "Precious Metals",
+      "current_heading": "Precious Metals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Default is Frankincense",
+    "candidates": [
+      "Default is Frankincense",
+      "Frankincense Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the voluntary wood offering (korban etzim) \u2014 the baraita establishing it, Rabbi's view that it requires salt and hagasha, Rava's extension to kmitza, and Rav Pappa's conclusion that wood requires wood \u2014 all of which are explicitly described and analyzed in the prose under 'Default is Frankincense'.",
+      "chosen_heading": "Default is Frankincense",
+      "current_heading": "Default is Frankincense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Frankincense Kometz",
+    "candidates": [
+      "Frankincense Kometz",
+      "Uncertainty Rule",
+      "Why Frankincense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the minimum quantity of frankincense being a kometz derived from the verse about the meal offering, which is exactly what the 'Frankincense Kometz' section's prose describes.",
+      "chosen_heading": "Frankincense Kometz",
+      "current_heading": "Frankincense Kometz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Why Frankincense",
+    "candidates": [
+      "Uncertainty Rule",
+      "Why Frankincense",
+      "Exceptions Discussed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Uncertainty Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's two rulings \u2014 the default frankincense rule and the uncertainty rule \u2014 and candidate 0 ('Uncertainty Rule') explicitly discusses the 'I specified but don't know what I specified' case that Item 1 covers.",
+      "second_heading": "Why Frankincense",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 are the Gemara's challenge-and-response sequence explaining why frankincense is uniquely 'entirely sacrificed on the altar' (burnt offering has its hide; bird burnt offering has crop and feathers), which matches candidate 1 ('Why Frankincense') precisely.",
+      "current_heading": "Why Frankincense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Exceptions Discussed",
+    "candidates": [
+      "Exceptions Discussed",
+      "Mental Default",
+      "Gold Coin",
+      "Silver Coin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the wine libations and minchat nesachim exceptions, which are explicitly described in the 'Exceptions Discussed' prose (candidate 0) with matching terminology and content.",
+      "chosen_heading": "Exceptions Discussed",
+      "current_heading": "Exceptions Discussed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Silver Coin",
+    "candidates": [
+      "Mental Default",
+      "Gold Coin",
+      "Silver Coin",
+      "Regional Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the gold dinar minimum, Rabbi Elazar's ruling about 'matbe'a' (coin vs. ingot), and Rav Pappa's statement that people don't make gold perutot \u2014 all of which match the 'Gold Coin' section's prose exactly, whereas the current 'Silver Coin' section discusses silver-related rulings.",
+      "chosen_heading": "Gold Coin",
+      "current_heading": "Silver Coin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Regional Context",
+    "candidates": [
+      "Silver Coin",
+      "Regional Context",
+      "Copper Fork"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 've-dilma naska/Rabbi Elazar' and 've-dilma priti/Rav Sheshes' challenges together, and the prose under 'Silver Coin' (heading 0) explicitly discusses both of these points in sequence, making it the better home for the complete passage.",
+      "chosen_heading": "Silver Coin",
+      "current_heading": "Regional Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Copper Fork",
+    "candidates": [
+      "Copper Fork",
+      "Iron Spike"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the copper minimum (ma'ah silver / small copper hook) and Abaye's explanation of its Temple use, which exactly matches the 'Copper Fork' section's prose content.",
+      "chosen_heading": "Copper Fork",
+      "current_heading": "Copper Fork",
+      "moved": false
+    }
+  }
+]

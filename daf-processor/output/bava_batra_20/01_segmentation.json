@@ -19,8 +19,8 @@
           "timestamp": "01:47"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Snow, Hail, Frost, and Water: Temporary Objects That Do Not Minimize the Window",
@@ -33,7 +33,7 @@
           "timestamp": "06:03"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -52,7 +52,7 @@
           "timestamp": "19:27"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -569,5 +569,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "19:27",
+  "amud_b_micro_title": "Salt to Sefer Torah",
+  "shiur_start_daf": 20,
+  "shiur_start_amud": "a"
 }

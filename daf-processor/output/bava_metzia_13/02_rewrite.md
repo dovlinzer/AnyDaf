@@ -168,9 +168,7 @@ If so, why return it to the *malveh* at all? The *Gemara* cites Rabbi Natan bar 
 
 ### Elazar Reading
 
-Rabbi Elazar now articulates the reading of the *Mishnah* that Shmuel's approach implies: *machlokes b'she'ein chayav modeh* — the debate in the *Mishnah* between Rabbi Meir and the *chachamim* concerns the case where Shimeon does not admit the loan. Rabbi Meir permits returning the document when there are no liens because he holds such a document is utterly worthless. The *chachamim* forbid returning it in any case — with or without liens — because they hold that even a document without written liens can collect, and therefore it remains a dangerous instrument that could be used against Shimeon.
-
----
+Rabbi Elazar now introduces his reading of the *Mishnah*: *machlokes b'she'ein chayiv modeh* — the debate between Rabbi Meir and the *Rabbanan* applies specifically to the case where the borrower does not admit the loan. Rabbi Meir holds that a *shtar* without *achrayus nechasim* is entirely worthless — it cannot collect from liened or free property — and the *Rabbanan* hold that such a document can nonetheless collect.
 
 ## With/Without Liens (II)
 

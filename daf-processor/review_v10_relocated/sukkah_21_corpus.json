@@ -1,0 +1,334 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishna: Bed Negates",
+    "candidates": [
+      "Intro: Second Perek",
+      "Mishna: Bed Negates",
+      "R. Yehuda: Elders Silent",
+      "R. Shimon: Tavi Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the opening mishna ruling (one who sleeps beneath the bed did not fulfill the obligation) and Rabbi Yehuda's dissent from silence of elders, and the current placement under 'Mishna: Bed Negates' covers both elements with its prose, while candidate 2 ('R. Yehuda: Elders Silent') covers only the second half \u2014 since the mishna text is a single unit, it belongs under the heading that introduces the whole mishna, which is candidate 1.",
+      "chosen_heading": "Mishna: Bed Negates",
+      "current_heading": "Mishna: Bed Negates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "R. Shimon: Tavi Story",
+    "candidates": [
+      "R. Yehuda: Elders Silent",
+      "R. Shimon: Tavi Story",
+      "Tosafot: Tavi Analysis",
+      "Gemara: 10 Tefachim",
+      "Shmuel: Consistency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly recounts the Tavi story and the ruling about sleeping under a bed, which is precisely what the prose under 'R. Shimon: Tavi Story' describes.",
+      "chosen_heading": "R. Shimon: Tavi Story",
+      "current_heading": "R. Shimon: Tavi Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Shmuel: Consistency",
+    "candidates": [
+      "Tosafot: Tavi Analysis",
+      "Gemara: 10 Tefachim",
+      "Shmuel: Consistency",
+      "Oholos: Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the challenge 'veha lika asarah' (lacking ten handbreadths) and gives Shmuel's answer, but the core content \u2014 the problem of the bed lacking ten tefachim \u2014 matches candidate 1's prose which describes exactly this challenge, while candidate 2's prose covers Shmuel's consistency across cases which goes beyond what this brief Gemara excerpt contains.",
+      "chosen_heading": "Gemara: 10 Tefachim",
+      "current_heading": "Shmuel: Consistency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Oholos: Intro",
+    "candidates": [
+      "Shmuel: Consistency",
+      "Oholos: Intro",
+      "R. Yehuda: Intent",
+      "R. Yehuda: Mishkan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the mishna from Oholos (echad chor shecharu mayim, sheratzim, melach, madbach avanim, soar shel korot) that the 'Oholos: Intro' prose explicitly introduces and discusses in detail.",
+      "chosen_heading": "Oholos: Intro",
+      "current_heading": "Oholos: Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "R. Yehuda: Mishkan",
+    "candidates": [
+      "R. Yehuda: Intent",
+      "R. Yehuda: Mishkan",
+      "Rabbis: Ribui",
+      "Courtyard on Rock"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yehuda: Intent",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states Rabbi Yehuda's ruling that a non-man-made tent is not an ohel, which matches heading 0 ('R. Yehuda: Intent') whose prose explicitly discusses that very rule and its application.",
+      "second_heading": "R. Yehuda: Mishkan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives Rabbi Yehuda's position via gezeirah shavah from the Mishkan and then states the Rabbis' ribui response, matching heading 1 ('R. Yehuda: Mishkan') whose prose describes exactly this textual derivation and the ma lehalan bidei adam inference.",
+      "current_heading": "R. Yehuda: Mishkan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Courtyard on Rock",
+    "candidates": [
+      "Rabbis: Ribui",
+      "Courtyard on Rock",
+      "Children Born There",
+      "Oxen & Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the contradiction about courtyards built in Jerusalem atop rock with a hollow space beneath due to grave-in-the-depths concerns, which is precisely what the 'Courtyard on Rock' section's prose discusses as the Gemara's challenge to Rabbi Yehuda's position.",
+      "chosen_heading": "Courtyard on Rock",
+      "current_heading": "Courtyard on Rock",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Oxen & Doors",
+    "candidates": [
+      "Children Born There",
+      "Oxen & Doors",
+      "R. Yosef: Bucket",
+      "Beraita: No Doors",
+      "Oxen: Natural Ohel",
+      "Size of Head"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the oxen with doors, children sitting on them with stone cups, descending at the Siloam pool to fill the cups, and Rabbi Yosei's stringency about lowering from place \u2014 all of which directly matches the 'Oxen & Doors' section prose, where the current placement is correct.",
+      "chosen_heading": "Oxen & Doors",
+      "current_heading": "Oxen & Doors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Size of Head",
+    "candidates": [
+      "R. Yosef: Bucket",
+      "Beraita: No Doors",
+      "Oxen: Natural Ohel",
+      "Size of Head",
+      "Testing Consistency",
+      "Abaye: No Need",
+      "Rava: Safety Risk"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beraita: No Doors",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita that Rabbi Yehuda relied on oxen rather than doors and immediately raises the contradiction with his own principle that a non-man-made tent is not an ohel \u2014 exactly what candidates 1 and 2 discuss, with candidate 1's prose introducing the baraita and candidate 2's prose noting the contradiction; since item 1 contains both the baraita introduction and the contradiction observation, candidate 2 ('Oxen: Natural Ohel') is the better single home as its prose explicitly addresses the tension raised.",
+      "second_heading": "Size of Head",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Dimi's transmission of Rabbi Elazar's ruling that Rabbi Yehuda concedes when the structure is a fistbreadth, plus the supporting baraita about caves and rock fissures \u2014 precisely the content described in candidate 3 ('Size of Head') whose prose covers malei egrof, the concession for caves, and the supporting baraita.",
+      "current_heading": "Size of Head",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Rava: Safety Risk",
+    "candidates": [
+      "Testing Consistency",
+      "Abaye: No Need",
+      "Rava: Safety Risk",
+      "Above vs. Below",
+      "Rib Cage Protects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rava: Safety Risk",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the door/ox debate (Abaye's and Rava's explanations plus the confirming baraita), all discussed under the 'Rava: Safety Risk' prose which explicitly covers Rava's explanation and the baraita confirmation.",
+      "second_heading": "Above vs. Below",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces the new objection about the bed measuring several fistbreadths and the question of oxen being 'made for above,' which matches the 'Above vs. Below' prose discussing the structural objection that oxen are made to serve the space above.",
+      "current_heading": "Rava: Safety Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rib Cage Protects",
+    "candidates": [
+      "Above vs. Below",
+      "Rib Cage Protects",
+      "Bed vs. Ox",
+      "Permanent or Temp?",
+      "R. Yehuda: Temp Void",
+      "Both: Dirat Keva",
+      "R. Shimon: Temp Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss why oxen qualify as an ohel despite being 'made to serve the space above' \u2014 Ravin/Rabbi Elazar's answer (they protect shepherds) is challenged, then Rava's answer (rib cage protects innards) follows \u2014 this entire exchange is the Gemara's response to the structural objection raised in the 'Above vs. Below' section, not the resolution that belongs under 'Rib Cage Protects' alone, since item 1 (Ravin/Rabbi Elazar) is also part of that same discussion.",
+      "chosen_heading": "Above vs. Below",
+      "current_heading": "Rib Cage Protects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "R. Shimon: Temp Matters",
+    "candidates": [
+      "Bed vs. Ox",
+      "Permanent or Temp?",
+      "R. Yehuda: Temp Void",
+      "Both: Dirat Keva",
+      "R. Shimon: Temp Matters",
+      "Mishna: Bed Legs",
+      "R. Yehuda: Stand Alone"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Permanent or Temp?",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the ibba'it eima alternative explanation (Rabbi Yehuda's dirat keva reasoning) and the resulting dispute with Rabbi Shimon about whether a temporary ohel negates a permanent one, matching the prose of candidates 1-4 which discuss the permanent/temporary dwelling framework.",
+      "second_heading": "Mishna: Bed Legs",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce a new mishna-related baraita about Tavi sleeping under the bed and the conversation of Rabban Gamliel \u2014 a self-contained new unit about slaves being exempt from sukka and the significance of Torah scholars' conversation, matching candidate 5 'Mishna: Bed Legs' as the next section's opening material, though the content about Tavi actually precedes the bed-legs mishna discussion.",
+      "current_heading": "R. Shimon: Temp Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "R. Yehuda: Stand Alone",
+    "candidates": [
+      "Mishna: Bed Legs",
+      "R. Yehuda: Stand Alone",
+      "Two Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full mishna text including both the Chachamim's ruling and Rabbi Yehuda's opinion, and candidate 0 ('Mishna: Bed Legs') is specifically dedicated to introducing this entire mishna, while candidate 1 only covers Rabbi Yehuda's position in isolation.",
+      "chosen_heading": "Mishna: Bed Legs",
+      "current_heading": "R. Yehuda: Stand Alone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Two Reasons",
+    "candidates": [
+      "R. Yehuda: Stand Alone",
+      "Two Reasons",
+      "On Top vs. By",
+      "Which Reason?",
+      "Indirect Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's question about Rabbi Yehuda's rationale and the two Amoraic opinions (impermanence vs. supporting with something susceptible to tumah), which is precisely what the 'Two Reasons' section's prose discusses.",
+      "chosen_heading": "Two Reasons",
+      "current_heading": "Two Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Indirect Support",
+    "candidates": [
+      "On Top vs. By",
+      "Which Reason?",
+      "Indirect Support"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Indirect Support",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the iron skewers case that distinguishes the two reasons, which is explicitly described in candidate 2's prose about shipudin shel barzel and the practical question of metal-frame sukkot.",
+      "second_heading": "On Top vs. By",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's ruling about schach placed atop vs. leaning on the bed, which matches candidate 0's prose exactly \u2014 the distinction between schach supported by the bed versus merely present above it.",
+      "current_heading": "Indirect Support",
+      "moved": true
+    }
+  }
+]

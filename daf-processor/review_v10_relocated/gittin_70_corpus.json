@@ -1,0 +1,626 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hemorrhoids Remedy",
+    "candidates": [
+      "Hemorrhoids Remedy",
+      "Hip Weakness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a remedy for hemorrhoids (leruchshasa), matching exactly the 'Hemorrhoids Remedy' section's prose about the same condition, ingredients, and diluted beer alternative.",
+      "chosen_heading": "Hemorrhoids Remedy",
+      "current_heading": "Hemorrhoids Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Hip Weakness",
+    "candidates": [
+      "Hip Weakness",
+      "Bladder Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a treatment for shigrona involving rolling fish brine sixty times on each thigh, which matches exactly the 'Hip Weakness' section's prose about shiggrona, fish brine, and rubbing sixty times on each side.",
+      "chosen_heading": "Hip Weakness",
+      "current_heading": "Hip Weakness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Bladder Stones",
+    "candidates": [
+      "Bladder Stones",
+      "Genital Ailments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe remedies for bladder stones (litzmireta/tzamirta) \u2014 the tar/leek/wine mixture and the alternative suspended objects \u2014 which exactly matches the 'Bladder Stones' prose summary.",
+      "chosen_heading": "Bladder Stones",
+      "current_heading": "Bladder Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Genital Ailments",
+    "candidates": [
+      "Genital Ailments",
+      "Skin Lesions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe remedies for tzimra (fever) and genital ailments, and the prose under 'Genital Ailments' explicitly discusses all of them \u2014 the louse/urination remedy, tzimra barana, and tzimra gavna treatments \u2014 in the same order as the passage items.",
+      "chosen_heading": "Genital Ailments",
+      "current_heading": "Genital Ailments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Skin Lesions",
+    "candidates": [
+      "Skin Lesions",
+      "Rav Shimi Case",
+      "Persian Spear Poison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the wheat-kernel remedy for lichen planus and the Rav Shimi bar Ashi narrative in a single Talmudic unit, and the 'Skin Lesions' section's prose already describes both elements (the remedy and the Rav Shimi case), making it the correct unified home for this passage.",
+      "chosen_heading": "Skin Lesions",
+      "current_heading": "Skin Lesions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Persian Spear Poison",
+    "candidates": [
+      "Rav Shimi Case",
+      "Persian Spear Poison",
+      "Wasp Ingestion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel's statement about Persian spear wounds and palliative care with fatty meat and wine, which matches exactly the 'Persian Spear Poison' section's prose discussion.",
+      "chosen_heading": "Persian Spear Poison",
+      "current_heading": "Persian Spear Poison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Wasp Ingestion",
+    "candidates": [
+      "Wasp Ingestion",
+      "Beef & Moonlight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about swallowing a hornet/wasp and the palliative use of sharp vinegar directly matches the 'Wasp Ingestion' section's prose, which discusses exactly this teaching from Rav Idi bar Avin.",
+      "chosen_heading": "Wasp Ingestion",
+      "current_heading": "Wasp Ingestion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Beef & Moonlight",
+    "candidates": [
+      "Beef & Moonlight",
+      "Overeating Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yehoshua ben Levi's teaching about eating ox meat with turnip and sleeping in moonlight during Tammuz causing achilu, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Beef & Moonlight",
+      "current_heading": "Beef & Moonlight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Overeating Debate",
+    "candidates": [
+      "Overeating Debate",
+      "Achilu Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss overeating causing achilu and the definition of achilu (fire of the bones), which is precisely what the 'Overeating Debate' prose describes, including the dates digression and the Rabbi Elazar/Abaye explanation of achilu.",
+      "chosen_heading": "Overeating Debate",
+      "current_heading": "Overeating Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Achilu Treatment",
+    "candidates": [
+      "Achilu Treatment",
+      "Two-Thirds Full"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the remedy for achilu \u2014 the duration principle and the specific treatment protocol \u2014 which is precisely what the 'Achilu Treatment' prose section discusses.",
+      "chosen_heading": "Achilu Treatment",
+      "current_heading": "Achilu Treatment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Two-Thirds Full",
+    "candidates": [
+      "Two-Thirds Full",
+      "Stomach Health"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source for the 'eat a third, drink a third, leave a third' teaching that the prose under heading 0 directly discusses and analyzes.",
+      "chosen_heading": "Two-Thirds Full",
+      "current_heading": "Two-Thirds Full",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Stomach Health",
+    "candidates": [
+      "Stomach Health",
+      "White Wine Disease"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi \u1e24iyya's teachings on avoiding intestinal disease, dipping foods, stopping eating before full, and not delaying relieving oneself matches exactly the 'Stomach Health' section's prose description.",
+      "chosen_heading": "Stomach Health",
+      "current_heading": "Stomach Health",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "White Wine Disease",
+    "candidates": [
+      "White Wine Disease",
+      "Wine Quality",
+      "Morning Warmth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Mar Ukva's statement about inferior white wine causing vitak AND Rav Hisda's classification of sixty wine types, and candidate 1 ('Wine Quality') explicitly discusses Rav Hisda's sixty types of wine with red aromatic wine as best and inferior white wine as worst, making it the better match for the complete passage; the current placement (candidate 0) only covers the first half.",
+      "chosen_heading": "Wine Quality",
+      "current_heading": "White Wine Disease",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Morning Warmth",
+    "candidates": [
+      "Wine Quality",
+      "Morning Warmth",
+      "Bloodletting Effect",
+      "Eating Mitigation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yehuda's statement about sitting by a fire in Nisan mornings, rubbing oil, and going into the sun causing vitak \u2014 exactly what the 'Morning Warmth' prose section describes.",
+      "chosen_heading": "Morning Warmth",
+      "current_heading": "Morning Warmth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Eating Mitigation",
+    "candidates": [
+      "Bloodletting Effect",
+      "Eating Mitigation",
+      "Travel Exhaustion",
+      "Bathroom Waiting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita about bloodletting leading to weak/ra'atan children AND Rav Pappa's qualification about eating, which together form one unit that belongs under 'Bloodletting Effect' \u2014 the current split between headings 0 and 1 is artificial, and the prose of heading 0 already describes both the baraita and ra'atan while heading 1's prose describes only Rav Pappa's addendum separately.",
+      "chosen_heading": "Bloodletting Effect",
+      "current_heading": "Eating Mitigation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Bathroom Waiting",
+    "candidates": [
+      "Travel Exhaustion",
+      "Bathroom Waiting",
+      "Standing Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabba bar Rav Huna statement about travel exhaustion causing weak children AND the baraita about bathroom waiting, but candidate 0 ('Travel Exhaustion') explicitly discusses Rabba bar Rav Huna's statement about returning from a journey, while candidate 1 ('Bathroom Waiting') covers only the baraita portion \u2014 however, since both items are a single Talmudic passage, and the travel statement comes first and is the primary unit, and candidate 0's prose explicitly addresses this exact content while candidate 1 only covers the second half, the passage as a whole is better placed under candidate 0, which introduces the topic that leads into the bathroom baraita.",
+      "chosen_heading": "Travel Exhaustion",
+      "current_heading": "Bathroom Waiting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Standing Position",
+    "candidates": [
+      "Bathroom Waiting",
+      "Standing Position",
+      "Delirium Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the health consequences of different intercourse positions (standing causes spasms/avit, sitting or woman-on-top causes dalarya), which directly matches the 'Standing Position' prose that discusses exactly these positions and their health effects on participants.",
+      "chosen_heading": "Standing Position",
+      "current_heading": "Standing Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Delirium Treatment",
+    "candidates": [
+      "Delirium Treatment",
+      "Sexual Weakness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the remedy for dalarya/dulyaria (dardara/dardura, identified as saffron of thorns) and the methods of Rav Pappa and Rav Pappi, which precisely matches the prose in 'Delirium Treatment'.",
+      "chosen_heading": "Delirium Treatment",
+      "current_heading": "Delirium Treatment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Sexual Weakness",
+    "candidates": [
+      "Sexual Weakness",
+      "Three Weakeners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a remedy for sexual weakness and Rabbi Yochanan's testimony about returning to his youth, which directly matches the 'Sexual Weakness' section's prose.",
+      "chosen_heading": "Sexual Weakness",
+      "current_heading": "Sexual Weakness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Three Weakeners",
+    "candidates": [
+      "Three Weakeners",
+      "Three Shattering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about three things that diminish a person's strength (fear, travel, sin) matches exactly the prose in candidate 0, 'Three Weakeners.'",
+      "chosen_heading": "Three Weakeners",
+      "current_heading": "Three Weakeners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Three Shattering",
+    "candidates": [
+      "Three Shattering",
+      "Five Fatal Things"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses three things that break/shatter the body (eating, drinking, and intercourse while standing), which matches exactly the 'Three Shattering' section's prose, not the 'Five Fatal Things' section which discusses five different activities done and then immediately standing up.",
+      "chosen_heading": "Three Shattering",
+      "current_heading": "Three Shattering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Five Fatal Things",
+    "candidates": [
+      "Five Fatal Things",
+      "Six Lethal Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes five actions that bring one closer to death, which matches exactly the 'Five Fatal Things' section prose, not the 'Six Lethal Acts' section which describes a different list of six sequential actions.",
+      "chosen_heading": "Five Fatal Things",
+      "current_heading": "Five Fatal Things",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Six Lethal Acts",
+    "candidates": [
+      "Six Lethal Acts",
+      "Order Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the six lethal acts and Rabbi Yochanan's order requirement together, and the current heading's prose accurately summarizes both elements, making it the correct placement.",
+      "chosen_heading": "Six Lethal Acts",
+      "current_heading": "Six Lethal Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Order Requirement",
+    "candidates": [
+      "Order Requirement",
+      "Eight Moderation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's statement about order causing death vs. weakness, and the Me'oret case, which matches exactly what the 'Order Requirement' prose describes.",
+      "chosen_heading": "Order Requirement",
+      "current_heading": "Order Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Eight Moderation",
+    "candidates": [
+      "Eight Moderation",
+      "Eight Semen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists eight things harmful in large amounts but beneficial in small amounts, which matches exactly the 'Eight Moderation' section's prose about travel, derech eretz, wealth, work, wine, sleep, hot water, and bloodletting.",
+      "chosen_heading": "Eight Moderation",
+      "current_heading": "Eight Moderation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Eight Semen",
+    "candidates": [
+      "Eight Semen",
+      "Mishna Case",
+      "Write Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the eight things that diminish semen, bloodletting above/below the testicles, and dodder in/out of season \u2014 exactly the content described in the 'Eight Semen' prose.",
+      "chosen_heading": "Eight Semen",
+      "current_heading": "Eight Semen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Write Timing",
+    "candidates": [
+      "Mishna Case",
+      "Write Timing",
+      "Sleeping vs Shote"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the mishna's ruling on the kordaikos case and the dispute between Reish Lakish and Rabbi Yochanan about timing of writing the get, matching 'Mishna Case' and 'Write Timing' \u2014 but since items 1-2 together cover both the mishna ruling and the Reish Lakish/Rabbi Yochanan dispute with Rabbi Yochanan's reasoning, they best fit under 'Write Timing' which explicitly discusses both positions and their rationale.",
+      "second_heading": "Sleeping vs Shote",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the root of the dispute \u2014 Reish Lakish comparing kordaikos to sleeping and Rabbi Yochanan comparing it to a shote \u2014 which is precisely what the 'Sleeping vs Shote' prose section discusses in detail.",
+      "current_heading": "Write Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Sleeping vs Shote",
+    "candidates": [
+      "Write Timing",
+      "Sleeping vs Shote",
+      "Treatability Test",
+      "Slit Throat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's probing of why Rabbi Yochanan doesn't compare to a sleeper and why Reish Lakish doesn't compare to a shote \u2014 exactly the content described in the 'Sleeping vs Shote' prose, including the lo mechusar ma'aseh / sami b'yadan distinctions and the remedy of red meat and diluted wine.",
+      "chosen_heading": "Sleeping vs Shote",
+      "current_heading": "Sleeping vs Shote",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Slit Throat",
+    "candidates": [
+      "Treatability Test",
+      "Slit Throat",
+      "Death Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge from Shmuel's ruling about the slit throat, the baraita about the dismembered/crucified man, and the Gemara's resolution distinguishing physical weakness (kechishuta) from mental confusion (da'atei shagishta) \u2014 are precisely the content described in the 'Slit Throat' section's prose.",
+      "chosen_heading": "Slit Throat",
+      "current_heading": "Slit Throat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Death Testimony",
+    "candidates": [
+      "Death Testimony",
+      "No Exile",
+      "Contributing Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the question-and-answer unit about whether Shmuel's ruling on testimony contradicts his ruling on get-writing, resolved by 'chai hu vesofu lamut,' which is precisely what the 'Death Testimony' prose describes.",
+      "chosen_heading": "Death Testimony",
+      "current_heading": "Death Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Contributing Factors",
+    "candidates": [
+      "No Exile",
+      "Contributing Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous exchange about why throat-slitting doesn't result in exile, which is precisely what heading 0 ('No Exile') introduces \u2014 the question of why exile doesn't apply \u2014 while heading 1's prose already summarizes and analyzes this entire exchange as background material rather than presenting it fresh.",
+      "chosen_heading": "No Exile",
+      "current_heading": "Contributing Factors",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishnah: Simanim",
+    "candidates": [
+      "Perek Bet Overview",
+      "Mishnah: Simanim",
+      "Rabbi Yehuda & Vridim",
+      "Majority Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself introducing the simanim rules, and the prose under 'Mishnah: Simanim' directly summarizes and discusses the exact content of this Mishnah \u2014 the one/two siman requirement, the majority rule, the half-siman invalidity, and the restatement of the majority rule.",
+      "chosen_heading": "Mishnah: Simanim",
+      "current_heading": "Mishnah: Simanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Majority Requirement",
+    "candidates": [
+      "Rabbi Yehuda & Vridim",
+      "Majority Requirement",
+      "Rav Kahana: Shach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference from 'ha-shochet' about b'di-eved vs. le-chatechila, and the two resolutions (one siman in a bird, majority of one siman), which is precisely what the 'Majority Requirement' prose section analyzes.",
+      "chosen_heading": "Majority Requirement",
+      "current_heading": "Majority Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Rav Kahana: Shach",
+    "candidates": [
+      "Rav Kahana: Shach",
+      "Shach Challenged"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic introducing Rav Kahana's statement and the statement itself \u2014 are precisely what candidate 0's prose describes: the derivation that shechita must be at the neck via the wordplay on shach/chata'ehu, which is the content of candidate 0 ('Rav Kahana: Shach').",
+      "chosen_heading": "Rav Kahana: Shach",
+      "current_heading": "Rav Kahana: Shach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Shach Challenged",
+    "candidates": [
+      "Shach Challenged",
+      "Chateihu & Gistra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the tail and ear challenges with their responses (sach/blood of the soul), which is precisely what the 'Shach Challenged' prose describes.",
+      "chosen_heading": "Shach Challenged",
+      "current_heading": "Shach Challenged",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Chateihu & Gistra",
+    "candidates": [
+      "Chateihu & Gistra",
+      "Rav Yeimar: Flow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the classic Gemara sequence of 'you cannot derive it from a verse \u2192 it comes from tradition \u2192 what then does the verse teach? \u2192 de-lo le-shaveih gistra,' which is exactly what the 'Rav Yeimar: Flow' prose describes, including the explicit mention of ve-le-ta'ameich, tradition, and de-lo le-shaveih gistra in that section's prose.",
+      "chosen_heading": "Rav Yeimar: Flow",
+      "current_heading": "Chateihu & Gistra",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Rav Yeimar: Flow",
+    "candidates": [
+      "Chateihu & Gistra",
+      "Rav Yeimar: Flow",
+      "Rabbi Yishmael: Sachat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Yeimar's derivation and its challenges/resolution \u2014 the flow-based drasha, the nose/heart objections, and the gistra teaching \u2014 which is precisely what heading 1 ('Rav Yeimar: Flow') describes in its prose.",
+      "chosen_heading": "Rav Yeimar: Flow",
+      "current_heading": "Rav Yeimar: Flow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Rabbi Yishmael: Sachat",
+    "candidates": [
+      "Rabbi Yishmael: Sachat",
+      "Rabbi Chiya: Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rabbi Yishmael school's drasha (ve-sachat from the place of speech) and its challenges/resolution, which the prose under heading 0 describes in detail including the dam ha-nefesh objection and the conclusion that slaughter from the neck is learned from tradition.",
+      "chosen_heading": "Rabbi Yishmael: Sachat",
+      "current_heading": "Rabbi Yishmael: Sachat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rabbi Chiya: Olah",
+    "candidates": [
+      "Rabbi Chiya: Olah",
+      "Torah Links Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items deal with Rabbi \u1e24iyya's derivation that slaughter is from the neck based on the olah verses (Leviticus 1:8, 1:12), including the resolution of the baraita's internal tension between the two verses and the teaching about covering the place of slaughter with fat \u2014 exactly the content described in the 'Rabbi Chiya: Olah' prose section.",
+      "chosen_heading": "Rabbi Chiya: Olah",
+      "current_heading": "Rabbi Chiya: Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Torah Links Birds",
+    "candidates": [
+      "Torah Links Birds",
+      "Bar Kappara: Spectrum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous baraita discussion about 'zot torat ha-beheimah ve-ha-of' \u2014 the tumah comparison, the shechita equation, Rabbi Eliezer's neck-derivation, and the use of 'zot' \u2014 which is precisely what the prose of heading 0 ('Torah Links Birds') describes in detail.",
+      "chosen_heading": "Torah Links Birds",
+      "current_heading": "Torah Links Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Bar Kappara: Spectrum",
+    "candidates": [
+      "Bar Kappara: Spectrum",
+      "Fish & Asifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Bar Kappara's spectrum-based derivation from the verse in Leviticus 11:46, which is precisely what the 'Bar Kappara: Spectrum' section's prose describes and analyzes.",
+      "chosen_heading": "Bar Kappara: Spectrum",
+      "current_heading": "Bar Kappara: Spectrum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Fish & Asifa",
+    "candidates": [
+      "Fish & Asifa",
+      "Birds: One Siman",
+      "Galilean Drasha",
+      "Scales on Legs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation that fish require no shechita from the Numbers verse contrasting slaughter of flocks with gathering of fish, and the challenge/resolution involving quail \u2014 exactly the content described in the 'Fish & Asifa' prose.",
+      "chosen_heading": "Fish & Asifa",
+      "current_heading": "Fish & Asifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Scales on Legs",
+    "candidates": [
+      "Birds: One Siman",
+      "Galilean Drasha",
+      "Scales on Legs",
+      "Two Narratives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Galilean preacher's cosmological framework (the core content of candidate 1's prose) and Rav Shmuel Kaputka's scales observation (candidate 2's prose), but since it is a single unified text item covering both elements together, it belongs under the 'Galilean Drasha' heading which introduces the full passage, with the scales remark being an appendage to that drasha rather than a standalone section.",
+      "chosen_heading": "Galilean Drasha",
+      "current_heading": "Scales on Legs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Two Narratives",
+    "candidates": [
+      "Scales on Legs",
+      "Two Narratives",
+      "Mud Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Roman official's question to Rabban Yochanan ben Zakkai about the contradiction between the two verses on bird creation, which is exactly what the 'Two Narratives' prose section describes as its content.",
+      "chosen_heading": "Two Narratives",
+      "current_heading": "Two Narratives",
+      "moved": false
+    }
+  }
+]

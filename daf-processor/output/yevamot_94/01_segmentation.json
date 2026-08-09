@@ -49,7 +49,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Problem of Incentives: Why the Sister-in-Law Might Not Investigate Properly When Hating the Brother-in-Law",
@@ -67,8 +67,8 @@
           "timestamp": "09:04"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Sheshet's Resolution: The Mishna Proves Nothing About Single Witness Credibility",
@@ -91,8 +91,8 @@
           "timestamp": "16:40"
         }
       ],
-      "sefaria_index": 6,
-      "matched": false
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Principle of When a Single Witness Is Believed: Tied to Whether the Person Is 'Trapped' (Agunah Concern)",
@@ -115,7 +115,7 @@
           "timestamp": "28:10"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -197,8 +197,8 @@
           "timestamp": "46:36"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Rabbi Akiva's Position: Even Sister-in-Law and Brother's Wife Require Get in Certain Circumstances",
@@ -221,7 +221,7 @@
           "timestamp": "50:44"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -528,5 +528,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "37:30",
+  "amud_b_micro_title": "Sister Marriage",
+  "shiur_start_daf": 94,
+  "shiur_start_amud": "a"
 }

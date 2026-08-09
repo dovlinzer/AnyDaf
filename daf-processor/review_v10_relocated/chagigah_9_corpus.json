@@ -1,0 +1,339 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Chiger Case",
+    "candidates": [
+      "Korbanot & Tashlumin",
+      "Yochanan vs. Oshaya",
+      "Chiger Case",
+      "Exemption Parity",
+      "Nazir & Night Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rabbi Yochanan and Rabbi Oshaya over the meaning of tashlumin (item 1) and the practical difference between their positions via the chiger case (item 2), which together constitute the core content described in the 'Yochanan vs. Oshaya' prose \u2014 the chiger case is merely the illustration of their dispute, not a standalone topic, and the 'Chiger Case' heading's prose already summarizes this material as a consequence of that dispute.",
+      "chosen_heading": "Yochanan vs. Oshaya",
+      "current_heading": "Chiger Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Nazir & Night Status",
+    "candidates": [
+      "Exemption Parity",
+      "Nazir & Night Status",
+      "Nazir Tumah Case",
+      "Night Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce the challenge to Rabbi Yochanan's position via the nazir/tumah case and Chizkiya's ruling, which is precisely what heading 1 ('Nazir & Night Status') describes \u2014 the gemara's challenge through the nazir analogy and Chizkiya's distinction between day and night tumah.",
+      "chosen_heading": "Nazir & Night Status",
+      "current_heading": "Nazir & Night Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Night Classification",
+    "candidates": [
+      "Nazir Tumah Case",
+      "Night Classification",
+      "Zav Night Flows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 Rabbi Yochanan's nazirite ruling, Rabbi Yirmiyah's Pesach Sheni answer, Rav Pappa's objection about regel bifnei atzmo, and Rav Pappa's alternative resolution about laila eino mechusar zman \u2014 which is precisely the content described in candidate 1's prose about the Night Classification section.",
+      "chosen_heading": "Night Classification",
+      "current_heading": "Night Classification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Zav Night Flows",
+    "candidates": [
+      "Zav Night Flows",
+      "Zav Flow Count",
+      "Yochanan's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yochanan's ruling about one flow at night and two in the day, which is precisely the teaching introduced and explained in the 'Zav Night Flows' prose section.",
+      "chosen_heading": "Zav Night Flows",
+      "current_heading": "Zav Night Flows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Yochanan's Position",
+    "candidates": [
+      "Zav Flow Count",
+      "Yochanan's Position",
+      "Alternative View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction with Rabbi Yochanan's position and the gemara's resolution that he spoke according to the opposing view \u2014 precisely what candidate 1's prose describes.",
+      "chosen_heading": "Yochanan's Position",
+      "current_heading": "Yochanan's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Alternative View",
+    "candidates": [
+      "Alternative View",
+      "Chesaron Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Sheisha son of Rav Idi's objection and Rav Yosef's principle about nighttime emissions, which is precisely what the 'Alternative View' prose describes.",
+      "chosen_heading": "Alternative View",
+      "current_heading": "Alternative View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Chesaron Definition",
+    "candidates": [
+      "Chesaron Definition",
+      "Braita Examples",
+      "Bar Hei Hei's Verse",
+      "Hillel's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna about the passed Festival, Bar Hei Hei's question about 'lehimanot,' and the baraita's examples \u2014 are precisely the content described in candidate 0's prose about the Kohelet verse, Bar Hei Hei's challenge to Hillel, and the social exclusion interpretation, with the baraita confirmation also mentioned in candidate 1; however, candidate 0's prose explicitly covers all three items including the baraita confirmation in its discussion, and the current placement under 'Chesaron Definition' matches the passage's content best since candidate 1 ('Braita Examples') only discusses the baraita in isolation whereas the passage presents all three items as one continuous unit.",
+      "chosen_heading": "Chesaron Definition",
+      "current_heading": "Chesaron Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Hillel's Response",
+    "candidates": [
+      "Braita Examples",
+      "Bar Hei Hei's Verse",
+      "Hillel's Response",
+      "Donkey Market"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Bar Hei Hei's question and Hillel's response about the verse in Malachi and the hundred-versus-hundred-and-one illustration, which is exactly what heading 2 ('Hillel's Response') discusses in its prose.",
+      "chosen_heading": "Hillel's Response",
+      "current_heading": "Hillel's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Donkey Market",
+    "candidates": [
+      "Donkey Market",
+      "Poverty Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the donkey market exchange between Bar Hei Hei and Hillel, which is precisely what the 'Donkey Market' section's prose discusses in detail.",
+      "chosen_heading": "Donkey Market",
+      "current_heading": "Donkey Market",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Poverty Gift",
+    "candidates": [
+      "Poverty Gift",
+      "Red Strap Image",
+      "Mamzer Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Elijah/Bar Hei Hei exchange about poverty as God's gift AND Shmuel/Rav Yosef's folk saying about the red bridle, and the current heading's prose explicitly discusses both elements together, making it the correct home for the entire passage.",
+      "chosen_heading": "Poverty Gift",
+      "current_heading": "Poverty Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Mamzer Case",
+    "candidates": [
+      "Red Strap Image",
+      "Mamzer Case",
+      "Theft Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rabbi Shimon ben Menasya's mishna definition of 'meuvat lo yuchal litkon' involving a mamzer, and the Gemara's inference about whether a child must be born \u2014 precisely what the 'Mamzer Case' prose section discusses.",
+      "chosen_heading": "Mamzer Case",
+      "current_heading": "Mamzer Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Theft Contrast",
+    "candidates": [
+      "Theft Contrast",
+      "Torah Sage Departure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Shimon ben Menasya about theft/robbery vs. adultery, which is precisely what the 'Theft Contrast' prose section discusses in detail.",
+      "chosen_heading": "Theft Contrast",
+      "current_heading": "Theft Contrast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Torah Sage Departure",
+    "candidates": [
+      "Torah Sage Departure",
+      "Incest vs. Adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the Torah scholar who departs from Torah \u2014 Rabbi Shimon ben Yo\u1e25ai's lamb/camel/pig analogy and Rabbi Yehuda ben Lakish's wandering bird verses \u2014 which is precisely what the 'Torah Sage Departure' prose discusses in detail.",
+      "chosen_heading": "Torah Sage Departure",
+      "current_heading": "Torah Sage Departure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Incest vs. Adultery",
+    "candidates": [
+      "Incest vs. Adultery",
+      "Rape vs. Willing",
+      "Kohen Status",
+      "Halakha to Mikra"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Incest vs. Adultery",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the incest vs. adultery contradiction, matching heading 0's prose about 'lo kashya, kan be'achoto penuyah, kan be'eishet ish' and the distinction between unmarried sister and married woman.",
+      "second_heading": "Rape vs. Willing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the rape vs. willing resolution and the kohen's wife distinction, which maps directly to headings 1 and 2 \u2014 but since item 2 contains both the rape/willing and kohen distinctions together, and heading 1's prose explicitly covers both the rape/willing resolution and notes the kohen case belongs to a further resolution, the closer match for this combined text is heading 1, with the kohen content being the bridge to heading 2.",
+      "current_heading": "Incest vs. Adultery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Halakha to Mikra",
+    "candidates": [
+      "Rape vs. Willing",
+      "Kohen Status",
+      "Halakha to Mikra",
+      "Talmud to Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's teaching about leaving halakha for mikra resulting in 'no peace,' which is precisely what the 'Halakha to Mikra' section's prose describes.",
+      "chosen_heading": "Halakha to Mikra",
+      "current_heading": "Halakha to Mikra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Talmud to Mishnah",
+    "candidates": [
+      "Talmud to Mishnah",
+      "Switching Gemarot",
+      "Tosafot's Nuance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's statement about leaving Talmud for Mishna and Rabbi Yochanan's statement about switching Talmudim, and the current heading 'Talmud to Mishnah' under index 0 is where it sits, but the content spans both headings 0 and 1 \u2014 however, since the passage is a single continuous Gemara excerpt presenting both opinions together, and the current placement under heading 0 is the first opinion discussed, keeping it there is appropriate as the essay's prose for heading 0 explicitly discusses Shmuel's ruling which opens this passage.",
+      "chosen_heading": "Talmud to Mishnah",
+      "current_heading": "Talmud to Mishnah",
+      "moved": false
+    }
+  }
+]

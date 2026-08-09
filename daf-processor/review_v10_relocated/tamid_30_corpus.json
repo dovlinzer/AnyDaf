@@ -1,0 +1,263 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Ma'aleh Evarim",
+    "candidates": [
+      "Service Roles Overview",
+      "Shechita & Zrika",
+      "Dishing Altar & Menorah",
+      "Payis & Allocation",
+      "Ma'aleh Evarim",
+      "Morning Readiness Check",
+      "Barkai Signal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the second lottery roles (shechita, zrika, dishun mizbeach hapnimi, dishun hamenorah, ma'aleh evarim), the enumeration of limbs brought to the ramp, and the conclusion of the lottery \u2014 exactly what heading 2 ('Dishing Altar & Menorah') introduces when it says the mishnah turns to those who bring the limbs after the four roles, and discusses the sequence of the listing versus actual performance order.",
+      "chosen_heading": "Dishing Altar & Menorah",
+      "current_heading": "Ma'aleh Evarim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Barkai Signal",
+    "candidates": [
+      "Morning Readiness Check",
+      "Barkai Signal",
+      "Pre-Dawn Error",
+      "Sheep Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the appointed one's command to go check if the time for slaughter has arrived AND the barkai signal/Matya ben Shmuel's formulation, but the 'Morning Readiness Check' prose explicitly discusses the memuneh's command 'tze'u ure'u im higia zeman shechita' which is the opening of this mishnah passage, while the 'Barkai Signal' prose covers the second half \u2014 however, since the mishnah text is a single unit and candidate 0's prose directly quotes and discusses the same opening phrase of this passage, it is a slightly better anchor; that said, confidence is low since the passage spans both sections.",
+      "chosen_heading": "Morning Readiness Check",
+      "current_heading": "Barkai Signal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Sheep Inspection",
+    "candidates": [
+      "Pre-Dawn Error",
+      "Sheep Inspection",
+      "Four Chambers",
+      "Chamber of Seals",
+      "Vessels & Gold",
+      "Final Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the instruction to bring a lamb from the Chamber of the Lambs and lists the four chambers of the Beit Hamoked, which directly matches the 'Sheep Inspection' section's prose discussing the lishkat hatla'im and its location, while the 'Four Chambers' section only begins after this foundational description.",
+      "chosen_heading": "Sheep Inspection",
+      "current_heading": "Sheep Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Final Inspection",
+    "candidates": [
+      "Four Chambers",
+      "Chamber of Seals",
+      "Vessels & Gold",
+      "Final Inspection",
+      "Pesach Ohel Moed",
+      "Small Door & Keys",
+      "North/South Doors",
+      "Ezekiel's Prophecy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Vessels & Gold",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form Mishna 3:4 covering the ninety-three vessels and the final inspection by torchlight, which directly matches the 'Vessels & Gold' and 'Final Inspection' prose \u2014 but since items 1-2 are a continuous unit about vessels and inspection, and the 'Vessels & Gold' prose explicitly discusses the ninety-three vessels while 'Final Inspection' prose covers the torch examination, both items 1-2 fit best under 'Final Inspection' (index 3) which discusses both the gold cup, the torch inspection, and transitions to the dishun topic.",
+      "second_heading": "Final Inspection",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Mishna 3:5, a new mishnah opening an entirely new topic about the priests carrying four vessels for the dishun of the inner altar and menorah, which is precisely what the 'Final Inspection' prose (index 3) discusses in its second half regarding mi shezachah bedishun and the four vessels including the basket, jug, and two keys.",
+      "current_heading": "Final Inspection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Ezekiel's Prophecy",
+    "candidates": [
+      "Pesach Ohel Moed",
+      "Small Door & Keys",
+      "North/South Doors",
+      "Ezekiel's Prophecy",
+      "Opening Main Gate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the two wickets (northern and southern) in the main gate, which is precisely what the 'North/South Doors' section prose discusses, including the kohen entering through the northern pishpash \u2014 the Ezekiel verse about the southern door being sealed is part of this same mishnah unit introducing both doors.",
+      "chosen_heading": "North/South Doors",
+      "current_heading": "Ezekiel's Prophecy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Opening Main Gate",
+    "candidates": [
+      "Ezekiel's Prophecy",
+      "Opening Main Gate",
+      "Gate Heard Far",
+      "Temple Sounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the priest opening the wicket, traversing to the large gate, removing the bolt and locks, and the slaughterer waiting to hear the gate open \u2014 exactly what the 'Opening Main Gate' prose discusses.",
+      "chosen_heading": "Opening Main Gate",
+      "current_heading": "Opening Main Gate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Temple Sounds",
+    "candidates": [
+      "Gate Heard Far",
+      "Temple Sounds",
+      "Incense Smell"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gate Heard Far",
+      "first_confidence": "high",
+      "first_reason": "Item 1 opens with the sound of the great gate (sha'ar hagadol), which is precisely what the 'Gate Heard Far' section's prose discusses as its primary example.",
+      "second_heading": "Temple Sounds",
+      "second_confidence": "high",
+      "second_reason": "Item 2 continues the catalogue of Temple sounds (magreifa, song, shofar, High Priest's voice) that the 'Temple Sounds' prose explicitly enumerates in detail.",
+      "current_heading": "Temple Sounds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Incense Smell",
+    "candidates": [
+      "Incense Smell",
+      "Slaughter Location",
+      "Pillars & Hooks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes smelling the incense from Jericho and the sneezing goats anecdote, which is exactly what the 'Incense Smell' section's prose discusses.",
+      "chosen_heading": "Incense Smell",
+      "current_heading": "Incense Smell",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Pillars & Hooks",
+    "candidates": [
+      "Slaughter Location",
+      "Pillars & Hooks",
+      "Marble Tables",
+      "Altar Ashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the slaughter location (north of the altar) and the pillars/hooks/marble tables as a single continuous mishna, but the prose under 'Slaughter Location' (index 0) encompasses all of this content including the marble tables, making it the best unified home for the full mishna text.",
+      "chosen_heading": "Slaughter Location",
+      "current_heading": "Pillars & Hooks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Altar Ashes",
+    "candidates": [
+      "Marble Tables",
+      "Altar Ashes",
+      "Menorah Candles",
+      "Two Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the priest removing ashes from the inner altar (dishun mizbeach hapnimi) using his hands and sweeping the remainder into a basket, which is precisely what the 'Altar Ashes' section's prose discusses in detail.",
+      "chosen_heading": "Altar Ashes",
+      "current_heading": "Altar Ashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Two Stages",
+    "candidates": [
+      "Menorah Candles",
+      "Two Stages",
+      "Stone & Steps",
+      "Pitcher & Exit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the two-stage process of cleaning the menorah \u2014 leaving two burning lamps, extinguishing and relighting them from other burning lamps, then cleaning the rest \u2014 which is exactly what the 'Two Stages' prose discusses.",
+      "chosen_heading": "Two Stages",
+      "current_heading": "Two Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Pitcher & Exit",
+    "candidates": [
+      "Stone & Steps",
+      "Pitcher & Exit"
+    ],
+    "result": null
+  }
+]

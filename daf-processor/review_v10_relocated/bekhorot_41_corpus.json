@@ -1,0 +1,466 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Doubled Ear Case",
+    "candidates": [
+      "Daf Opening",
+      "Doubled Ear Case",
+      "Pig Tail Standard",
+      "Korban Relevance",
+      "Yerushalmi Questions",
+      "Mouth & Legs Swollen",
+      "Ears Doubled Rule",
+      "Rounded Tail Shape"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Doubled Ear Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah presenting the doubled ear and pig-tail cases, which is exactly what the 'Doubled Ear Case' prose introduces and discusses.",
+      "second_heading": "Mouth & Legs Swollen",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara baraita about swollen mouth/legs and doubled ears, which is precisely what the 'Mouth & Legs Swollen' prose describes.",
+      "current_heading": "Doubled Ear Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rounded Tail Shape",
+    "candidates": [
+      "Pig Tail Standard",
+      "Korban Relevance",
+      "Yerushalmi Questions",
+      "Mouth & Legs Swollen",
+      "Ears Doubled Rule",
+      "Rounded Tail Shape",
+      "Vertebrae Count",
+      "Rav Huna Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Gamliel's ruling about a kid's tail resembling a pig's tail and Rav Pappa's clarification about roundness/curliness, which is precisely what the 'Rounded Tail Shape' prose section discusses.",
+      "chosen_heading": "Rounded Tail Shape",
+      "current_heading": "Rounded Tail Shape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rav Huna Error",
+    "candidates": [
+      "Vertebrae Count",
+      "Rav Huna Error",
+      "Yavelet & Mouth",
+      "Eyes & Ears Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover exactly what candidate 1's prose describes: the baraita refuting Rav Huna's vertebrae count and the gemara's explanation of why Rav Huna was misled by the mishnah (reisha be-gedi ve-seifa be-taleh), which is the current placement.",
+      "chosen_heading": "Rav Huna Error",
+      "current_heading": "Rav Huna Error",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Eyes & Ears Size",
+    "candidates": [
+      "Yavelet & Mouth",
+      "Eyes & Ears Size",
+      "Testicle Ratio",
+      "Yavelet Conflict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full mishnah including yavelet, damaged bones, and dislocated jaw (heading 0's content), as well as the eye/ear size distinction (heading 1) and Rabbi Yehuda's testicle ruling (heading 2), but the current placement under 'Eyes & Ears Size' is wrong \u2014 the passage starts with yavelet and mouth content, so heading 0 ('Yavelet & Mouth') is the natural home for the entire mishna block, as it introduces Rabbi \u1e24anina ben Antigonus and covers all the content that the essay then unpacks section by section.",
+      "chosen_heading": "Yavelet & Mouth",
+      "current_heading": "Eyes & Ears Size",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Yavelet Conflict",
+    "candidates": [
+      "Testicle Ratio",
+      "Yavelet Conflict",
+      "Yavelet w/ w/o Bone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the opening gemara challenge (yavelet listed as mum vs. not a mum) and the first resolution (body vs. eye distinction), which is precisely the content described in the 'Yavelet Conflict' prose \u2014 the three-way tension and the ha begufa ha be'ayna answer that the gemara then goes on to challenge and refine.",
+      "chosen_heading": "Yavelet Conflict",
+      "current_heading": "Yavelet Conflict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Yavelet w/ w/o Bone",
+    "candidates": [
+      "Yavelet w/ w/o Bone",
+      "Eye vs Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly establishes the bone/no-bone distinction that is the subject of the 'Yavelet w/ w/o Bone' section's prose summary.",
+      "chosen_heading": "Yavelet w/ w/o Bone",
+      "current_heading": "Yavelet w/ w/o Bone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Eye vs Body",
+    "candidates": [
+      "Eye vs Body",
+      "White of Eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about the yavelet (wart/skin flap) \u2014 distinguishing bone vs. no bone, eye vs. body, black vs. white of eye \u2014 which is precisely what the 'Eye vs Body' prose describes in detail, including the Rabbi Eliezer ruling, the shachar/lavan distinction, and the ein mumim belavan objection.",
+      "chosen_heading": "Eye vs Body",
+      "current_heading": "Eye vs Body",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "White of Eye",
+    "candidates": [
+      "White of Eye",
+      "Calf Tail Rule"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "White of Eye",
+      "current_heading": "White of Eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Calf Tail Rule",
+    "candidates": [
+      "Calf Tail Rule",
+      "Joint Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the calf tail rule and the joint definition within the same mishna, but its primary content about the tail not reaching the arkov and the Sages' confirmation matches the 'Calf Tail Rule' section's prose more closely, and the current placement is correct since the mishna is a single unit that begins with the tail rule.",
+      "chosen_heading": "Calf Tail Rule",
+      "current_heading": "Calf Tail Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Joint Definition",
+    "candidates": [
+      "Joint Definition",
+      "Consensus Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the upper vs. lower joint distinction and the camel comparison, which is exactly what the 'Joint Definition' section's prose describes.",
+      "chosen_heading": "Joint Definition",
+      "current_heading": "Joint Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Consensus Mishna",
+    "candidates": [
+      "Consensus Mishna",
+      "Middle Category",
+      "White Spots",
+      "Inner Molars",
+      "Scabs & Warts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the wrap-up Mishna, the Gemara's question about redundancy, and the resolution about individual opinions being codified as consensus \u2014 are precisely what the 'Consensus Mishna' prose describes.",
+      "chosen_heading": "Consensus Mishna",
+      "current_heading": "Consensus Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Scabs & Warts",
+    "candidates": [
+      "Middle Category",
+      "White Spots",
+      "Inner Molars",
+      "Scabs & Warts",
+      "Age Sick Smelly",
+      "Tumtum Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah introducing the entire middle category, and heading 0 ('Middle Category') is specifically written to introduce this mishnah as a whole \u2014 whereas headings 1-5 cover individual subsections within it.",
+      "chosen_heading": "Middle Category",
+      "current_heading": "Scabs & Warts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Tumtum Case",
+    "candidates": [
+      "Age Sick Smelly",
+      "Tumtum Case",
+      "Androgynos Issue",
+      "Rabbi Yishmael View",
+      "Sages' View",
+      "Garav Resolution",
+      "Three Garav Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both tumtum and androgynos together in one mishnah text, and candidate 1 ('Tumtum Case') is the heading that begins this combined discussion, with candidates 2-4 serving as sub-sections of the same passage's content \u2014 the current placement at the opening heading for this block is correct.",
+      "chosen_heading": "Tumtum Case",
+      "current_heading": "Tumtum Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Three Garav Types",
+    "candidates": [
+      "Androgynos Issue",
+      "Rabbi Yishmael View",
+      "Sages' View",
+      "Garav Resolution",
+      "Three Garav Types",
+      "Three Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together form the complete Gemara discussion resolving the tension between the mishna's treatment of garav/\u1e25azazit and their explicit mention in the Torah \u2014 exactly what candidate 3 ('Garav Resolution') describes, including the three-types resolution that candidate 3's prose explicitly covers at the end.",
+      "chosen_heading": "Garav Resolution",
+      "current_heading": "Three Garav Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Three Exclusions",
+    "candidates": [
+      "Three Garav Types",
+      "Three Exclusions",
+      "Sin-Related Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the derivation and necessity of the three exclusions (old, sick, foul-smelling animals) from the threefold 'min' in the verse, which is precisely what the 'Three Exclusions' prose describes.",
+      "chosen_heading": "Three Exclusions",
+      "current_heading": "Three Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Sin-Related Animals",
+    "candidates": [
+      "Sin-Related Animals",
+      "Single Witness Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the derivation of sin-related animal exclusions from the verse in Leviticus 1:2, matching precisely the prose under 'Sin-Related Animals' which describes the same baraita and its exclusions (rove'a, nirva, hane'evad, hamuktza, hanogei'ach).",
+      "chosen_heading": "Sin-Related Animals",
+      "current_heading": "Sin-Related Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Single Witness Rule",
+    "candidates": [
+      "Single Witness Rule",
+      "Rava's Question",
+      "Male Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the single witness/owner testimony rule explaining why a verse is needed despite animals being liable to death \u2014 exactly what the 'Single Witness Rule' prose discusses.",
+      "chosen_heading": "Single Witness Rule",
+      "current_heading": "Single Witness Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Male Status",
+    "candidates": [
+      "Rava's Question",
+      "Male Status",
+      "Practical Difference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Male Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20137 cover the tumtum/androgynos slaughter problem, the charutz debate, Abaye's and Rava's resolutions, and Rabbi Yishmael's position \u2014 all the material that candidate 1's prose describes as the background to Rava's dilemma.",
+      "second_heading": "Rava's Question",
+      "second_confidence": "high",
+      "second_reason": "Item 8 is precisely Rava's dilemma about Rabbi Yishmael's reasoning (pshita lei vs. safek/im timtzo lomar), which is exactly what candidate 0's prose introduces and discusses.",
+      "current_heading": "Male Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Practical Difference",
+    "candidates": [
+      "Practical Difference",
+      "Torah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the practical differences (flogging for shearing/labor and giving to a kohen), which is precisely what the 'Practical Difference' section's prose discusses.",
+      "chosen_heading": "Practical Difference",
+      "current_heading": "Practical Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Torah Proof",
+    "candidates": [
+      "Torah Proof",
+      "Legal vs Factual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita of Rabbi Ilai citing Rabbi Yishmael and the 'im timtzo lomar' response, which is precisely what Candidate 0's prose describes as its content.",
+      "chosen_heading": "Torah Proof",
+      "current_heading": "Torah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Legal vs Factual",
+    "candidates": [
+      "Legal vs Factual",
+      "Final Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the baraita excluding tumtum and androgynos from burnt offerings, and the subsequent analysis of whether it fits the first tanna (safek), the latter Rabbis, or Rabbi Yishmael, culminating in the resolution that two psukim exist by bechor as well \u2014 is precisely what the 'Legal vs Factual' prose describes in detail.",
+      "chosen_heading": "Legal vs Factual",
+      "current_heading": "Legal vs Factual",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Har HaBayis Structure",
+    "candidates": [
+      "Atziba Storage",
+      "Har HaBayis Structure",
+      "Mishnah Aravah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Nachman correction about placing lulavim on the itztaba bench (not the roof), which is exactly what candidate 0 ('Atziba Storage') describes, while candidate 1 ('Har HaBayis Structure') only mentions Rechava/Rav Yehuda's statement as a follow-on detail after that correction.",
+      "chosen_heading": "Atziba Storage",
+      "current_heading": "Har HaBayis Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Mishnah Aravah",
+    "candidates": [
+      "Har HaBayis Structure",
+      "Mishnah Aravah",
+      "Tekiah & Circumambulation",
+      "Ana Hashem Recitation",
+      "Seven Circuits",
+      "Taking Leave",
+      "Erev Shabbos Prep",
+      "Chariyos Ritual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah describing the aravah ritual in full, and candidate 1 ('Mishnah Aravah') is explicitly the section whose prose introduces and discusses this exact Mishnah text.",
+      "chosen_heading": "Mishnah Aravah",
+      "current_heading": "Mishnah Aravah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Chariyos Ritual",
+    "candidates": [
+      "Tekiah & Circumambulation",
+      "Ana Hashem Recitation",
+      "Seven Circuits",
+      "Taking Leave",
+      "Erev Shabbos Prep",
+      "Chariyos Ritual",
+      "Post-Hoshana Rabbah",
+      "Gematria Analysis",
+      "Kabbalistic Exile",
+      "Pronunciation Debate",
+      "Motza Tax Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes k'maasehu bechol/Shabbat, the golden basins (gigiyot shel zahav) for keeping aravah fresh, and then the chariyot and etrog-eating customs \u2014 the Erev Shabbos prep section (index 4) explicitly discusses this 'k'maasehu bechol kach maasehu beShabbat' content and the golden barrels, making it the clear home for this mishnah text, while the chariyot and etrog details that follow are also covered there and in adjacent sections but the passage as a whole opens with the Shabbat prep theme.",
+      "chosen_heading": "Erev Shabbos Prep",
+      "current_heading": "Chariyos Ritual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Motza Tax Exemption",
+    "candidates": [
+      "Post-Hoshana Rabbah",
+      "Gematria Analysis",
+      "Kabbalistic Exile",
+      "Pronunciation Debate",
+      "Motza Tax Exemption",
+      "Branch Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's explanation that Motza was called Kalanya (a military colony) and was renamed Motza because it was exempt from royal tax (karga), which is precisely what the 'Motza Tax Exemption' section's prose describes.",
+      "chosen_heading": "Motza Tax Exemption",
+      "current_heading": "Motza Tax Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Branch Height",
+    "candidates": [
+      "Branch Height",
+      "Base Placement",
+      "Altar Architecture",
+      "Height Calculations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the willow branches being numerous, long, and eleven cubits tall so they overhang the altar by one cubit \u2014 exactly the content described in the 'Branch Height' prose, which explicitly references this baraita about branches being eleven amot tall and arching over the mizbe'ach by one amah.",
+      "chosen_heading": "Branch Height",
+      "current_heading": "Branch Height",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Height Calculations",
+    "candidates": [
+      "Base Placement",
+      "Altar Architecture",
+      "Height Calculations",
+      "Isru Chag Drasha",
+      "Altar Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Mareimar's statement concluding that branches were placed on the yesod (base) rather than the ground, which is precisely what the 'Base Placement' section's prose describes, including the same reasoning about eleven amot being insufficient from ground level.",
+      "chosen_heading": "Base Placement",
+      "current_heading": "Height Calculations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Altar Sacrifice",
+    "candidates": [
+      "Isru Chag Drasha",
+      "Altar Sacrifice",
+      "Eating Restraint",
+      "Natural Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are continuous derivations from the same verse (Psalms 118:27) \u2014 Item 1 is Rabbi Abbahu/Rabbi Elazar's drasha about lulav-binding equaling altar-building, and Item 2 is the parallel statement about festive eating \u2014 both of which are explicitly discussed together in the 'Altar Sacrifice' prose.",
+      "chosen_heading": "Altar Sacrifice",
+      "current_heading": "Altar Sacrifice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Natural Direction",
+    "candidates": [
+      "Eating Restraint",
+      "Natural Direction",
+      "Eternal Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the teaching that mitzvot must be performed in the direction of natural growth (derech gdilasan), citing atzei shittim omdim, which is precisely what the 'Natural Direction' section's prose describes.",
+      "chosen_heading": "Natural Direction",
+      "current_heading": "Natural Direction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Eternal Standing",
+    "candidates": [
+      "Eternal Standing",
+      "Merit Statements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly discusses the three interpretations of 'atzei shittim omdim' including the eternal standing teaching, which is precisely what the prose in candidate 0 ('Eternal Standing') describes and elaborates upon.",
+      "chosen_heading": "Eternal Standing",
+      "current_heading": "Eternal Standing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Merit Statements",
+    "candidates": [
+      "Merit Statements",
+      "18,000 Righteous",
+      "Lit Lens Vision",
+      "Lamed-Vavniks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the merit/few-righteous statements by Rabbi Shimon bar Yochai quoted in the same chain of transmission, and candidate 0's prose explicitly discusses both the 'absolve the entire world' statement (item 1) and the 'bnei aliyah v'hein mu'atin' statement (item 2), making it the clear home for this passage.",
+      "chosen_heading": "Merit Statements",
+      "current_heading": "Merit Statements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Lamed-Vavniks",
+    "candidates": [
+      "18,000 Righteous",
+      "Lit Lens Vision",
+      "Lamed-Vavniks",
+      "Praising Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whether those who see through a 'bright partition' (aspaklaria hameira) are really so few, which directly matches the 'Lit Lens Vision' section's prose about pressing on whether only two see through a lit lens, before resolving the contradiction \u2014 the lamed-vavniks resolution is the answer to that question, making it part of that section's flow rather than a standalone section.",
+      "chosen_heading": "Lit Lens Vision",
+      "current_heading": "Lamed-Vavniks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Praising Altar",
+    "candidates": [
+      "Lamed-Vavniks",
+      "Praising Altar",
+      "Lulav vs Aravah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge of combining God's name with the altar in the departure formula and the Gemara's resolution, which is precisely what the 'Praising Altar' section's prose discusses.",
+      "chosen_heading": "Praising Altar",
+      "current_heading": "Praising Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Lulav vs Aravah",
+    "candidates": [
+      "Lulav vs Aravah",
+      "One Heart Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's reasoning for Rabbi Yo\u1e25anan ben Beroka's opinion, the dual interpretation of 'kappot' (one for lulav, one for the altar), and the Rabbis' deficient spelling argument \u2014 all of which are precisely what the 'Lulav vs Aravah' prose section describes.",
+      "chosen_heading": "Lulav vs Aravah",
+      "current_heading": "Lulav vs Aravah",
+      "moved": false
+    }
+  }
+]

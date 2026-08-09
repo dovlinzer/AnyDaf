@@ -1,0 +1,367 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Pure Gold Lips",
+    "candidates": [
+      "Lamps Not Attached",
+      "Menorah: One Gold Unit",
+      "Pure Gold Lips",
+      "Todah Half Log",
+      "Double Oil Mention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous baraita discussion \u2014 Rabbi Yehoshua ben Kor\u1e25a's ruling that lamps are not from the talent, the derivation from 'all these vessels' meaning gold, the objection that gold is already explicit, and the resolution about the mouths of the lamps \u2014 which matches exactly the prose of candidate 1 ('Menorah: One Gold Unit'), not the current placement 2 whose prose already summarizes the resolution (\u05dc\u05d0 \u05e0\u05e6\u05e8\u05db\u05d4 \u05d0\u05dc\u05d0 \u05dc\u05e4\u05d9 \u05e0\u05e8\u05d5\u05ea) as if it belongs there alone.",
+      "chosen_heading": "Menorah: One Gold Unit",
+      "current_heading": "Pure Gold Lips",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Double Oil Mention",
+    "candidates": [
+      "Todah Half Log",
+      "Double Oil Mention",
+      "Three Oil Mentions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with Rabbi Akiva's derivation from the double mention of 'with oil' and the Gemara's challenge and resolution of the \u05e8\u05d9\u05d1\u05d5\u05d9 \u05d0\u05d7\u05e8 \u05e8\u05d9\u05d1\u05d5\u05d9 principle, which is precisely what the 'Double Oil Mention' prose describes.",
+      "chosen_heading": "Double Oil Mention",
+      "current_heading": "Double Oil Mention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Three Oil Mentions",
+    "candidates": [
+      "Three Oil Mentions",
+      "Halacha L'Moshe",
+      "Mesorah & Shiurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the division of the half-log of oil among the three types of unleavened meal offerings (loaves, wafers, and poached loaves), which is precisely what the 'Three Oil Mentions' section prose describes in detail.",
+      "chosen_heading": "Three Oil Mentions",
+      "current_heading": "Three Oil Mentions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Mesorah & Shiurim",
+    "candidates": [
+      "Halacha L'Moshe",
+      "Mesorah & Shiurim",
+      "Fixed Log Measure",
+      "Metzora Paradigm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar ben Azaryah's direct rebuke of Rabbi Akiva's hermeneutical method and his declaration that these shiurim are halacha l'Moshe miSinai \u2014 exactly what candidate 0's prose discusses, including the specific quote about multiplying 'beshemen beshemen' and the methodological rejection of Rabbi Akiva's approach.",
+      "chosen_heading": "Halacha L'Moshe",
+      "current_heading": "Mesorah & Shiurim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Metzora Paradigm",
+    "candidates": [
+      "Fixed Log Measure",
+      "Metzora Paradigm",
+      "Log Ratio Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fixed Log Measure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the mishna's general rule that one measures with a log for all standard meal offerings, which matches the 'Fixed Log Measure' section's prose about always measuring with a log even for large meal offerings.",
+      "second_heading": "Metzora Paradigm",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita deriving the log-per-tenth ratio from the poor leper verse, which matches exactly the 'Metzora Paradigm' section's prose discussing that same baraita and its derivation.",
+      "current_heading": "Metzora Paradigm",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Log Ratio Debate",
+    "candidates": [
+      "Log Ratio Debate",
+      "Derivation Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the debate between Rabbi Ne\u1e25emya/Rabbi Eliezer and the Rabbis about whether the word \u05e2\u05e9\u05e8\u05d5\u05df in the leper verse is redundant, which is precisely what the 'Log Ratio Debate' prose describes in full detail.",
+      "chosen_heading": "Log Ratio Debate",
+      "current_heading": "Log Ratio Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Derivation Methods",
+    "candidates": [
+      "Derivation Methods",
+      "Hin Conversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses what the Rabbis derive from '\u05dc\u05de\u05e0\u05d7\u05d4 \u05d5\u05dc\u05d5\u05d2 \u05e9\u05de\u05df' versus Rabbi Ne\u1e25emya and Rabbi Eliezer, including the minimum size of a \u05de\u05e0\u05d7\u05d4 (\u05e2\u05e9\u05e8\u05d5\u05df) and the two teachings derived simultaneously \u2014 all of which is explicitly addressed in the 'Derivation Methods' prose.",
+      "chosen_heading": "Derivation Methods",
+      "current_heading": "Derivation Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Hin Conversion",
+    "candidates": [
+      "Hin Conversion",
+      "Menorah Night Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the derivation of log/hin quantities for bull, ram, and lamb offerings and the gematria proof that one hin equals twelve log \u2014 exactly what the 'Hin Conversion' prose describes.",
+      "chosen_heading": "Hin Conversion",
+      "current_heading": "Hin Conversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Menorah Night Oil",
+    "candidates": [
+      "Menorah Night Oil",
+      "Estimation Methods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Menorah Night Oil",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita deriving the half-log requirement from 'evening to morning,' which matches exactly the 'Menorah Night Oil' prose discussing the verse-based derivation and the \u05d7\u05db\u05de\u05d9\u05dd's estimation.",
+      "second_heading": "Estimation Methods",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the two methods (top-down vs. bottom-up) by which the Sages conducted their estimation, which matches exactly the 'Estimation Methods' prose discussing those two views and their rationales.",
+      "current_heading": "Menorah Night Oil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Estimation Methods",
+    "candidates": [
+      "Estimation Methods",
+      "Tosafot Challenge",
+      "Par-Ayil Mix OK",
+      "Keves Mix Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the rationale behind the two estimation methods (increasing vs. decreasing quantity), which is exactly what the 'Estimation Methods' section prose discusses.",
+      "chosen_heading": "Estimation Methods",
+      "current_heading": "Estimation Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Keves Mix Forbidden",
+    "candidates": [
+      "Tosafot Challenge",
+      "Par-Ayil Mix OK",
+      "Keves Mix Forbidden",
+      "Blila First",
+      "Burn Separately"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the complete Mishna text covering the rules for mixing libations \u2014 items 1-2 introduce the permissive cases (bulls/rams, lambs/lambs, individual/communal, day/previous day), item 3 gives the prohibition and the blila qualification, and item 4 adds the omer lamb case \u2014 and candidate 1 ('Par-Ayil Mix OK') is the opening section that introduces this very Mishna, while the current placement under 'Keves Mix Forbidden' only covers part of it; the full Mishna unit belongs under the heading that introduces it.",
+      "chosen_heading": "Par-Ayil Mix OK",
+      "current_heading": "Keves Mix Forbidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Burn Separately",
+    "candidates": [
+      "Blila First",
+      "Burn Separately",
+      "Wine Mixing Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's contradiction from the baraita about '\u05d5\u05d4\u05e7\u05d8\u05d9\u05e8\u05d5' \u2014 that fats must be burned separately \u2014 which is precisely what the 'Burn Separately' section's prose describes as its central challenge.",
+      "chosen_heading": "Burn Separately",
+      "current_heading": "Burn Separately",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Wine Mixing Criteria",
+    "candidates": [
+      "Wine Mixing Criteria",
+      "Double Flour Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion about when wine libations may be mixed together, culminating in Abaye's final resolution that matches exactly the prose of 'Wine Mixing Criteria.'",
+      "chosen_heading": "Wine Mixing Criteria",
+      "current_heading": "Wine Mixing Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Double Flour Only",
+    "candidates": [
+      "Double Flour Only",
+      "Niskah-Nisko Equation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita discussing why the lamb's meal offering flour is doubled but wine and oil are not, which exactly matches the 'Double Flour Only' prose describing the same baraita with the same verses and reasoning.",
+      "chosen_heading": "Double Flour Only",
+      "current_heading": "Double Flour Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Niskah-Nisko Equation",
+    "candidates": [
+      "Niskah-Nisko Equation",
+      "Asham Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the veniskah/venisko derivation and the equation of oil and wine quantities, which is precisely what the 'Niskah-Nisko Equation' prose describes.",
+      "chosen_heading": "Niskah-Nisko Equation",
+      "current_heading": "Niskah-Nisko Equation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Asham Identity",
+    "candidates": [
+      "Asham Identity",
+      "Identity Retention Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Both items together \u2014 Rabbi Yo\u1e25anan's ruling and Rav Menashya's objection \u2014 form a continuous dispute on the same question of whether an \u05d0\u05e9\u05dd \u05de\u05e6\u05d5\u05e8\u05e2 slaughtered \u05e9\u05dc\u05d0 \u05dc\u05e9\u05de\u05d5 retains its identity, and the current heading's prose explicitly discusses both Rabbi Yo\u1e25anan's principle and the underlying identity question, while heading 1's prose already covers the challenge and its ramifications as a separate elaboration; however, since both items are really one continuous exchange, keeping them under the heading that introduces Rabbi Yo\u1e25anan's statement (index 0) is the better fit.",
+      "chosen_heading": "Asham Identity",
+      "current_heading": "Asham Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Identity Retention Test",
+    "candidates": [
+      "Identity Retention Test",
+      "Ein Hachi Nami"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the specific cases of the morning and afternoon \u05ea\u05de\u05d9\u05d3 brought \u05e9\u05dc\u05d0 \u05dc\u05e9\u05de\u05d5 requiring two logs of wood, which are explicitly described as part of Rav Menashya bar Gadata's challenge in the 'Identity Retention Test' prose, not the 'Ein Hachi Nami' affirmative response.",
+      "chosen_heading": "Identity Retention Test",
+      "current_heading": "Identity Retention Test",
+      "moved": false
+    }
+  }
+]

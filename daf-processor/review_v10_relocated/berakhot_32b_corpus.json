@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Prayer > Good Deeds",
+    "candidates": [
+      "Prayer > Good Deeds",
+      "Tosafot: Both Required",
+      "Fasting > Charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's statement that prayer is greater than good deeds with the proof from Moses, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Prayer > Good Deeds",
+      "current_heading": "Prayer > Good Deeds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Fasting > Charity",
+    "candidates": [
+      "Tosafot: Both Required",
+      "Fasting > Charity",
+      "Prayer > Sacrifices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's statement that fasting is greater than charity because one involves the body and the other only money, which is precisely what the 'Fasting > Charity' section discusses.",
+      "chosen_heading": "Fasting > Charity",
+      "current_heading": "Fasting > Charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Prayer > Sacrifices",
+    "candidates": [
+      "Prayer > Sacrifices",
+      "Kohen/Murder/Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar's teaching that prayer is greater than sacrifices, which is exactly what the 'Prayer > Sacrifices' section prose discusses.",
+      "chosen_heading": "Prayer > Sacrifices",
+      "current_heading": "Prayer > Sacrifices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Kohen/Murder/Blessing",
+    "candidates": [
+      "Kohen/Murder/Blessing",
+      "Locked Gates/Tears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yo\u1e25anan's ruling that a priest who killed may not perform the Priestly Blessing is directly discussed in the 'Kohen/Murder/Blessing' section's prose, which explicitly describes this exact ruling and its source verse.",
+      "chosen_heading": "Kohen/Murder/Blessing",
+      "current_heading": "Kohen/Murder/Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Locked Gates/Tears",
+    "candidates": [
+      "Locked Gates/Tears",
+      "Iron Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Elazar's statement about locked gates of prayer/tears and Rava's ruling about cloudy days \u2014 are explicitly discussed together in the 'Locked Gates/Tears' prose, which covers exactly these two passages in sequence.",
+      "chosen_heading": "Locked Gates/Tears",
+      "current_heading": "Locked Gates/Tears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Iron Wall",
+    "candidates": [
+      "Iron Wall",
+      "Long Prayer/Learn Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about the iron wall separating Israel from their Father in Heaven is directly discussed in the 'Iron Wall' section's prose, which quotes and analyzes this exact statement from Rabbi Elazar.",
+      "chosen_heading": "Iron Wall",
+      "current_heading": "Iron Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Long Prayer/Learn Torah",
+    "candidates": [
+      "Long Prayer/Learn Torah",
+      "Heartache/Solution",
+      "Persist/Retry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi \u1e24anin/Rabbi \u1e24anina's statement that prolonged prayer is answered, with the proof from Moses praying forty days \u2014 exactly what the 'Long Prayer/Learn Torah' section's prose describes.",
+      "chosen_heading": "Long Prayer/Learn Torah",
+      "current_heading": "Long Prayer/Learn Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Persist/Retry",
+    "candidates": [
+      "Heartache/Solution",
+      "Persist/Retry",
+      "Four Need Strength"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Heartache/Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the objection from Rabbi \u1e24iyya bar Abba and its resolution (the heartache/remedy discussion), which is precisely what Candidate 0's prose describes in detail.",
+      "second_heading": "Persist/Retry",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi \u1e24ama bar \u1e24anina's teaching to pray again if unanswered, which matches Candidate 1's prose exactly, including the same verse (Psalms 27:14) and the same theme of persisting in prayer.",
+      "current_heading": "Persist/Retry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Four Need Strength",
+    "candidates": [
+      "Four Need Strength",
+      "God Remembers Israel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the complete baraita about four things requiring bolstering (Torah, good deeds, prayer, occupation) with their biblical proofs, which matches exactly the prose under heading 0 'Four Need Strength'.",
+      "chosen_heading": "Four Need Strength",
+      "current_heading": "Four Need Strength",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "God Remembers Israel",
+    "candidates": [
+      "God Remembers Israel",
+      "Hour Before/After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous midrash on Isaiah 49:14\u201315 about Zion feeling forsaken/forgotten, God's cosmic response, the dialogue about the Golden Calf and Sinai, and Rabbi Elazar's confirmation \u2014 exactly what the prose of 'God Remembers Israel' describes in detail.",
+      "chosen_heading": "God Remembers Israel",
+      "current_heading": "God Remembers Israel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Hour Before/After",
+    "candidates": [
+      "Hour Before/After",
+      "King/Greeting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items concern the hour before/after prayer, the pious men's practice, and the blessing of their Torah and work \u2014 exactly what the 'Hour Before/After' prose section discusses in detail.",
+      "chosen_heading": "Hour Before/After",
+      "current_heading": "Hour Before/After",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "King/Greeting",
+    "candidates": [
+      "King/Greeting",
+      "Officer Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the mishna about not responding to a king, Rav Yosef's qualification about non-Jewish kings, the objection from the baraita about a dangerous person/carriage, and the resolution \u2014 are explicitly discussed in the 'King/Greeting' prose, making it the clear and correct home for this passage.",
+      "chosen_heading": "King/Greeting",
+      "current_heading": "King/Greeting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Officer Story",
+    "candidates": [
+      "Officer Story",
+      "Danger/Interruption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous narrative of the pious man and the officer (hegmon), which is precisely what the 'Officer Story' prose describes in detail.",
+      "chosen_heading": "Officer Story",
+      "current_heading": "Officer Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Danger/Interruption",
+    "candidates": [
+      "Danger/Interruption",
+      "Chanina/Arod Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover the continuous discussion about when one must interrupt prayer due to danger (snake vs. scorpion, pit of snakes, oxen), which is precisely what the 'Danger/Interruption' section's prose describes in detail.",
+      "chosen_heading": "Danger/Interruption",
+      "current_heading": "Danger/Interruption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Chanina/Arod Story",
+    "candidates": [
+      "Chanina/Arod Story",
+      "Rain/Resurrection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete Rabbi \u1e24anina ben Dosa / arvad story, which the prose under heading 0 ('Chanina/Arod Story') discusses in full detail, including the heel-on-the-hole, the arvad dying, the shoulder-carrying to the beit midrash, and the closing 'woe' statement.",
+      "chosen_heading": "Chanina/Arod Story",
+      "current_heading": "Chanina/Arod Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Rain/Resurrection",
+    "candidates": [
+      "Rain/Resurrection",
+      "Request for Rain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna introducing rain/havdala placements, the gemara's question about rain in the resurrection blessing, and Rav Yosef's answer equating rain with resurrection \u2014 are precisely the content discussed in the 'Rain/Resurrection' prose section.",
+      "chosen_heading": "Rain/Resurrection",
+      "current_heading": "Rain/Resurrection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Request for Rain",
+    "candidates": [
+      "Request for Rain",
+      "Havdalah/Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the request for rain in birkat hashanim and Rav Yosef's parnasah rationale, which is exactly what the 'Request for Rain' section's prose discusses.",
+      "chosen_heading": "Request for Rain",
+      "current_heading": "Request for Rain",
+      "moved": false
+    }
+  }
+]

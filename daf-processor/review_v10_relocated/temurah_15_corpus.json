@@ -1,0 +1,324 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Abaye's Question",
+    "candidates": [
+      "Abaye's Question",
+      "Neder vs. Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's challenge about deriving shalmei nazir vs. shalmei pesach from the verse, which is precisely what the prose under 'Abaye's Question' describes.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Abaye's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Neder vs. Obligation",
+    "candidates": [
+      "Neder vs. Obligation",
+      "Private Altar Rule",
+      "Avshalom's Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about the private altar principle and the Mishnah about nezirut offerings on a private altar followed by 'samei mikan nezirus' \u2014 are explicitly discussed in candidate 0's prose, which quotes and explains both the baraita (zeh haklal) and the Mishnah (hamenachos v'hanezirus) and the response to cross out 'nezirus', making it the clearest match for this passage's specific content.",
+      "chosen_heading": "Neder vs. Obligation",
+      "current_heading": "Neder vs. Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Avshalom's Vow",
+    "candidates": [
+      "Private Altar Rule",
+      "Avshalom's Vow",
+      "Chevron Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's discussion of Absalom's vow \u2014 questioning whether the nazirite offering is a neder, and then debating where exactly the vow was made (Hebron vs. Geshur) \u2014 which is precisely what the 'Avshalom's Vow' section's prose describes.",
+      "chosen_heading": "Avshalom's Vow",
+      "current_heading": "Avshalom's Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Chevron Clarified",
+    "candidates": [
+      "Chevron Clarified",
+      "Individual Chattat",
+      "Communal Status",
+      "Five Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items directly correspond to the content described in 'Chevron Clarified' prose: items 1-3 cover the debate about why Absalom went to Hebron (to fetch sheep vs. to sacrifice, and the resolution about heter bamos), and items 4-5 cover the forty-year calculation explained through Rabbi Nehorai/Rabbi Yehoshua's baraita \u2014 both explicitly discussed in that section's prose.",
+      "chosen_heading": "Chevron Clarified",
+      "current_heading": "Chevron Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Five Categories",
+    "candidates": [
+      "Individual Chattat",
+      "Communal Status",
+      "Five Categories",
+      "Found Before"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Individual Chattat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah itself stating the rule about individual vs. communal chatat, which the prose under 'Individual Chattat' explicitly introduces and paraphrases.",
+      "second_heading": "Communal Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the machloket between Rabbi Yehuda (tamus) and Rabbi Shimon (principled distinction based on three inapplicable categories), which is precisely what the 'Communal Status' prose describes, including citing Rabbi Yehuda's dissent with the word 'tamus' and Rabbi Shimon's reasoning.",
+      "current_heading": "Five Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Found Before",
+    "candidates": [
+      "Five Categories",
+      "Found Before",
+      "Timing Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Found Before",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 introduce the baraita about bringing one of two sin offerings and the dispute about what happens to the second animal, which is precisely what the 'Found Before' prose describes.",
+      "second_heading": "Timing Issue",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20135 resolve the contradiction between the baraita and the mishna through the timing distinction (bish'as hafrashah vs. bish'as kaparah) and the Rabbi/Rabbanan framework, which is exactly what the 'Timing Issue' prose discusses.",
+      "current_heading": "Found Before",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Timing Issue",
+    "candidates": [
+      "Timing Issue",
+      "Rav Papa Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whether anyone holds that a communal sin offering whose owners achieved atonement must die, which is precisely the question the 'Rav Papa Ruling' prose addresses \u2014 it sets up Rav Papa's ruling distinguishing between kiperu ba'aleha and meisu ba'aleha for a chatat tzibur.",
+      "chosen_heading": "Rav Papa Ruling",
+      "current_heading": "Timing Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rav Papa Ruling",
+    "candidates": [
+      "Timing Issue",
+      "Rav Papa Ruling",
+      "Corporate Entity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous unit: the baraita about Ezra's returning exiles (item 1), Rava's explanation of the sin-offering burned as olah (item 2), the Gemara's challenge about chatat tzibur shemeisu ba'aleha (item 3), and Rav Papa's resolution (item 4) \u2014 exactly the content described in candidate 1's prose about the communal chatat case and Rav Papa's ruling.",
+      "chosen_heading": "Rav Papa Ruling",
+      "current_heading": "Rav Papa Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Corporate Entity",
+    "candidates": [
+      "Corporate Entity",
+      "Rosh Chodesh Proof",
+      "Ezra's Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's derivation of 'ein tzibur meis' from the Rosh Chodesh/pilgrimage goats brought from trumat halishka, which is precisely what the 'Rosh Chodesh Proof' prose describes \u2014 the verse suggestion and its rejection (item 1) leads directly into the trumat halishka proof (item 2), and candidate 1's prose explicitly covers both the verse rejection and the trumat halishka demonstration.",
+      "chosen_heading": "Rosh Chodesh Proof",
+      "current_heading": "Corporate Entity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Ezra's Return",
+    "candidates": [
+      "Rosh Chodesh Proof",
+      "Ezra's Return",
+      "Crying vs. Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the alternative answer (ve'ibba'it eima) that the sin offerings were brought for living survivors who had witnessed the first Temple \u2014 exactly what the 'Ezra's Return' section prose describes: considering whether the Ezra korbanot reflect continuity through surviving members, supported by the very verse cited in the passage (Ezra 3:12).",
+      "chosen_heading": "Ezra's Return",
+      "current_heading": "Ezra's Return",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Crying vs. Shofar",
+    "candidates": [
+      "Crying vs. Shofar",
+      "Intentional Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether the weepers were a minority or majority, citing Ezra 3:13 to prove they were not a minority \u2014 exactly what the 'Crying vs. Shofar' section prose discusses.",
+      "chosen_heading": "Crying vs. Shofar",
+      "current_heading": "Crying vs. Shofar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Intentional Sins",
+    "candidates": [
+      "Intentional Sins",
+      "Special Exception",
+      "Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's question about intentional sins and Rabbi Yochanan's answer about horaat sha'ah, but the question portion about intentional worshippers is the primary content being flagged, and heading 0's prose explicitly sets up this exact tension \u2014 making it the natural home for this combined question-and-answer unit, especially since heading 1 ('Special Exception') only covers Rabbi Yochanan's answer in isolation.",
+      "chosen_heading": "Intentional Sins",
+      "current_heading": "Intentional Sins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Purpose",
+    "candidates": [
+      "Special Exception",
+      "Purpose",
+      "Complete Person"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's reasoning that establishes the conclusion of 'horaat sha'ah' (provisional edict), which directly belongs under the 'Special Exception' heading where Rabbi Yochanan's answer of horaat sha'ah is introduced, not under 'Purpose' which discusses the implications of that conclusion.",
+      "chosen_heading": "Special Exception",
+      "current_heading": "Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Complete Person",
+    "candidates": [
+      "Purpose",
+      "Complete Person",
+      "Lost Halachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Yosef ben Yoezer and Yosef ben Yochanan and the meaning of 'eshkolot' as 'ish shehakol bo' directly matches the 'Complete Person' section's prose, which explicitly discusses this same Mishnah, these same figures, and the gloss of eshkol as a person in whom everything is found.",
+      "chosen_heading": "Complete Person",
+      "current_heading": "Complete Person",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Lost Halachot",
+    "candidates": [
+      "Lost Halachot",
+      "Mesorah Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All four items form a continuous chain \u2014 the initial statement about Torah study until Yosef ben Yoezer, an objection from the forgotten halachot, and its resolution \u2014 which matches the 'Lost Halachot' section's prose about the challenge to perfect transmission, though the resolution material also aligns with 'Mesorah Standard'; since the full passage is one unit and the current placement covers the core question being addressed, it is retained there.",
+      "chosen_heading": "Lost Halachot",
+      "current_heading": "Lost Halachot",
+      "moved": false
+    }
+  }
+]

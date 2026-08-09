@@ -1,0 +1,462 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Exception",
+    "candidates": [
+      "Tanu Rabbanan",
+      "Torah First",
+      "Exception",
+      "Marriage First",
+      "Millstone",
+      "V'lo Pligi",
+      "Rashi's Explanation",
+      "Babylonian Model",
+      "Monogamy/Polygamy",
+      "EY Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita introduced by 'tanu rabbanan' covering all three elements (learn first, exception if impossible, Shmuel's halakhic ruling), and heading 0 'Tanu Rabbanan' explicitly describes this baraita as the opening passage being discussed, while headings 1-3 cover the essay author's analysis of its individual components.",
+      "chosen_heading": "Tanu Rabbanan",
+      "current_heading": "Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "EY Model",
+    "candidates": [
+      "Marriage First",
+      "Millstone",
+      "V'lo Pligi",
+      "Rashi's Explanation",
+      "Babylonian Model",
+      "Monogamy/Polygamy",
+      "EY Model",
+      "Rav Huna Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's millstone statement, which belongs under the 'Millstone' heading whose prose explicitly discusses this exact quote and image.",
+      "chosen_heading": "Millstone",
+      "current_heading": "EY Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Huna Story",
+    "candidates": [
+      "EY Model",
+      "Rav Huna Story",
+      "Ben Esrim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Rav \u1e24isda/Rav Hamnuna/Rav Huna story about the sudra and marriage, which is precisely what the 'Rav Huna Story' prose section describes.",
+      "chosen_heading": "Rav Huna Story",
+      "current_heading": "Rav Huna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Ben Esrim",
+    "candidates": [
+      "Ben Esrim",
+      "God's Wait"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's position about ben esrim and hirhur aveira, which is exactly what the 'Ben Esrim' section's prose describes.",
+      "chosen_heading": "Ben Esrim",
+      "current_heading": "Ben Esrim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "God's Wait",
+    "candidates": [
+      "God's Wait",
+      "Rav Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes God waiting until age twenty and then cursing the unmarried man, which is precisely what the 'God's Wait' section's prose discusses \u2014 Rava's statement about divine exasperation at age twenty.",
+      "chosen_heading": "God's Wait",
+      "current_heading": "God's Wait",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Rav Chisda",
+    "candidates": [
+      "Rav Chisda",
+      "Age Range",
+      "Two Views"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Chisda's personal testimony about marrying at sixteen, which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Age Range",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rava's teaching to Rabbi Natan bar Ami about the age range for marrying off one's son, which is exactly what candidate 1's prose describes.",
+      "current_heading": "Rav Chisda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Two Views",
+    "candidates": [
+      "Age Range",
+      "Two Views",
+      "How Far Teach",
+      "Zevulun Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the tannaitic dispute between Rabbi Yehuda and Rabbi Nechemiah with the two age ranges and the verse 'chanoch la-na'ar,' which is precisely what the 'Two Views' section's prose describes.",
+      "chosen_heading": "Two Views",
+      "current_heading": "Two Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Zevulun Example",
+    "candidates": [
+      "How Far Teach",
+      "Zevulun Example",
+      "Mikra Only",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from the opening question ('to what extent is a person obligated to teach his son Torah?') through the Zevulun ben Dan example and the baraita objection with Rava's clarification, all of which is introduced by heading 0 ('How Far Teach') whose prose explicitly frames this entire discussion, making it the single best home for the complete passage.",
+      "chosen_heading": "How Far Teach",
+      "current_heading": "Zevulun Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Mikra Only",
+      "Rava's View",
+      "Debate",
+      "Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the 'ke-Zevulun ben Dan ve-lo ke-Zevulun ben Dan' reconciliation \u2014 distinguishing the generational scope from the content limitation (mikra alone) \u2014 which is precisely what Rava's View prose describes.",
+      "chosen_heading": "Rava's View",
+      "current_heading": "Rava's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Generations",
+    "candidates": [
+      "Debate",
+      "Generations",
+      "Grandson = Sinai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the tension between the two verses about teaching sons vs. sons' sons, the compounding-generations idea, and the exclusion of daughters \u2014 precisely what the 'Generations' prose describes.",
+      "chosen_heading": "Generations",
+      "current_heading": "Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Grandson = Sinai",
+    "candidates": [
+      "Grandson = Sinai",
+      "Handkerchief"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the Rabbi Yehoshua ben Levi statement about teaching one's grandson Torah being like receiving it from Sinai, which is precisely what heading 0 ('Grandson = Sinai') discusses in its prose.",
+      "chosen_heading": "Grandson = Sinai",
+      "current_heading": "Grandson = Sinai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Handkerchief",
+    "candidates": [
+      "Handkerchief",
+      "Ve-Hodastem",
+      "Before Eating",
+      "Beis Midrash",
+      "Three Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire story from the encounter with Rabbi Yehoshua ben Levi wearing a simple cloth (disna) on his head, through his reply about ve-hodastem, and the subsequent practices of Rabbi \u1e24iyya bar Abba and Rabba bar Rav Huna \u2014 but the current placement (heading 0, 'Handkerchief') introduces the story, while headings 1-3 each cover only a sub-portion; since the passage as a single unit encompasses all these elements, the best single heading for the whole passage is heading 0 where it currently sits, as that heading's prose introduces the full narrative context.",
+      "chosen_heading": "Handkerchief",
+      "current_heading": "Handkerchief",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Three Parts",
+    "candidates": [
+      "Ve-Hodastem",
+      "Before Eating",
+      "Beis Midrash",
+      "Three Parts",
+      "Daily Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Safra's teaching in the name of Rabbi Yehoshua ben Chananya about reading 'veshinnantam' as 'veshillashtam' (divide into three), which is precisely what the 'Three Parts' section's prose discusses.",
+      "chosen_heading": "Three Parts",
+      "current_heading": "Three Parts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Daily Division",
+    "candidates": [
+      "Daily Division",
+      "Rambam",
+      "Why Sofrim",
+      "Halfway Points"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the tripartite division of learning and the objection/answer about dividing years vs. days, which is precisely what the 'Daily Division' section's prose discusses and analyzes.",
+      "chosen_heading": "Daily Division",
+      "current_heading": "Daily Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Halfway Points",
+    "candidates": [
+      "Rambam",
+      "Why Sofrim",
+      "Halfway Points",
+      "Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists the specific midpoint calculations (vav of gachon, darosh darash, vehitgalach, ayin of ya'ar, vehu rachum) which is precisely what the 'Halfway Points' section prose describes.",
+      "chosen_heading": "Halfway Points",
+      "current_heading": "Halfway Points",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Precision",
+    "candidates": [
+      "Precision",
+      "Limited Knowledge",
+      "Numbers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Yosef's question about which side the vav falls on AND the proposal to count AND the response about expertise \u2014 the current heading 'Precision' captures the setup and proposal, while 'Limited Knowledge' captures the punchline, but since the passage includes all of it and the current placement already contains the full context of Rav Yosef's dilemma and the counting proposal, it fits reasonably under heading 0, though heading 1's prose more precisely describes the concluding statement about not being experts in deficient/plene forms.",
+      "chosen_heading": "Precision",
+      "current_heading": "Precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Numbers",
+    "candidates": [
+      "Limited Knowledge",
+      "Numbers",
+      "Regional Variations",
+      "Sharp Words",
+      "Like Sister",
+      "Arrows"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Regional Variations",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Yosef's dilemma about the midpoint verse and Rav Acha bar Adda's report about regional divisions of pesukim, which matches exactly the 'Regional Variations' prose discussing Rav Acha bar Adda and the Eretz Yisrael tradition of dividing that same verse into three.",
+      "second_heading": "Numbers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita recording the total count of 5,888 pesukim with comparisons to Psalms and Chronicles, which matches exactly the 'Numbers' prose that cites this same beraita and those same figures.",
+      "current_heading": "Numbers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Arrows",
+    "candidates": [
+      "Regional Variations",
+      "Sharp Words",
+      "Like Sister",
+      "Arrows",
+      "Enemies",
+      "Love"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita on 'veshinnantam' meaning sharpness \u2014 item 1 introduces the teaching and item 2 provides the supporting verses \u2014 which precisely matches the 'Sharp Words' section's prose about Torah being sharp in one's mouth and answering immediately with fluency.",
+      "chosen_heading": "Sharp Words",
+      "current_heading": "Arrows",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Love",
+    "candidates": [
+      "Enemies",
+      "Love",
+      "Mashal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full quote about enemies and love together, and candidate 0's prose explicitly discusses and introduces this entire passage (both the 'enemies' and the 'love' conclusion), making it the natural home, while candidate 1 only discusses the love portion as if the enemies portion were already covered.",
+      "chosen_heading": "Enemies",
+      "current_heading": "Love",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Mashal",
+    "candidates": [
+      "Love",
+      "Mashal",
+      "Tavlin",
+      "Protection",
+      "Without Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita about *v'samtem* read as *sam tam* and the mashal of the father placing a bandage on his son's wound, which is precisely what the 'Mashal' section's prose describes and analyzes.",
+      "chosen_heading": "Mashal",
+      "current_heading": "Mashal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Without Torah",
+    "candidates": [
+      "Tavlin",
+      "Protection",
+      "Without Torah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tavlin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents God's declaration about creating the yetzer hara and Torah as its antidote, which is precisely what the 'Tavlin' prose discusses.",
+      "second_heading": "Without Torah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the consequences of not engaging in Torah and the evil inclination crouching at the door, which matches exactly the 'Without Torah' prose section.",
+      "current_heading": "Without Torah",
+      "moved": true
+    }
+  }
+]

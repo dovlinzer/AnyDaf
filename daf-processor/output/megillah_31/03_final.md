@@ -1,10 +1,9 @@
-# Megillah 31 — Daf Yomi Shiur
-
+[DAF:30b]
 ## Rosh Chodesh Tevet
 
-> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: בְּפֶסַח קוֹרִין בְּפָרָשַׁת מוֹעֲדוֹת וּמַפְטִירִין בְּפֶסַח גִּלְגָּל, וְהָאִידָּנָא דְּאִיכָּא תְּרֵי יוֹמֵי, יוֹמָא קַמָּא — בְּפֶסַח גִּלְגָּל, וּלְמָחָר — בְּפֶסַח יֹאשִׁיָּהוּ.
->
-> **Translation:** GEMARA: **The Sages taught** in a *baraita*: **On** the first day of **Passover,** the congregation **reads from the portion of the Festivals** (Leviticus 22:26–23:44), **and they read as the *haftara*** the account of the **Passover** celebrated at **Gilgal** (Joshua 5:2–14). The Gemara comments: **And nowadays,** in the Diaspora, **when there are two** Festival **days of Passover, on the first day** they read as the *haftara* the account of the **Passover** celebrated **at Gilgal, and on the next day** they read **from** the account of the **Passover** observed **by Josiah** (II Kings 23).
+
+
+### Multiple Scrolls Setup
 
 The daf opens with a case requiring multiple *sifrei Torah*: when *Rosh Chodesh Tevet* falls on *Shabbat*, one encounters the unusual convergence of *Rosh Chodesh* and *Chanukah* on the same *Shabbat*, creating the well-known situation of three *sifrei Torah*. The *Gemara* earlier addressed the *Shabbat* scenario, and now turns to the weekday case.
 
@@ -30,6 +29,8 @@ When *Rosh Chodesh Tevet* falls on a weekday, *Rav Yitzchak Naphcha* rules that 
 
 ## Shekalim/Ki Tissa
 
+
+
 ### Shekalim Before Ki Tissa
 
 The *Gemara* now addresses what happens when *Parshat Shekalim* falls on the *Shabbat* of *Va'ata Tetzaveh* — the *Shabbat* immediately preceding *Ki Tissa*, whose opening section constitutes the *Shekalim* reading. *Rav Yitzchak Naphcha* proposes a tidy solution: read six *aliyot* from *Va'ata Tetzaveh* through to *Ki Tissa*, and use the seventh *aliyah* to read the beginning of *Ki Tissa* — namely, the *Shekalim* passage — through *Ve'asita*. The cycle of *Va'ata Tetzaveh* is thereby completed and the special reading is incorporated as the seventh *aliyah*.
@@ -52,13 +53,11 @@ The final case: *Parshat Shekalim* falls directly on the *Shabbat* of *Ki Tissa*
 
 ---
 
-## Special Parshiyot Calendar
+## Special Parshiyot & Adar
+
+
 
 ### Rosh Chodesh Mid-Week
-
-> **Hebrew/Aramaic:** מַתְנִי׳ בַּפֶּסַח קוֹרִין בְּפָרָשַׁת מוֹעֲדוֹת שֶׁל תּוֹרַת כֹּהֲנִים. בָּעֲצֶרֶת — ״שִׁבְעָה שָׁבוּעוֹת״. בְּרֹאשׁ הַשָּׁנָה — ״בַּחֹדֶשׁ הַשְּׁבִיעִי בְּאֶחָד לַחֹדֶשׁ״. בְּיוֹם הַכִּפּוּרִים — ״אַחֲרֵי מוֹת״. בְּיוֹם טוֹב הָרִאשׁוֹן שֶׁל חַג קוֹרִין בְּפָרָשַׁת מוֹעֲדוֹת שֶׁבְּתוֹרַת כֹּהֲנִים, וּבִשְׁאָר כׇּל יְמוֹת הַחַג בְּקׇרְבְּנוֹת הַחַג.
->
-> **Translation:** MISHNA: **On** the first day of **Passover,** the congregation **reads from the portion of the Festivals of Leviticus** (Leviticus 22:26–23:44). **On *Shavuot*** they read the portion of **"Seven weeks"** (Deuteronomy 16:9–12). **On Rosh HaShana** they read the portion of "And **on the seventh month on the first of the month"** (Leviticus 23:23–25). **On Yom Kippur** they read the portion of **"After the death"** (Leviticus 16). **On the first Festival day of *Sukkot* they read from the portion of the Festivals of Leviticus** (Leviticus 22:26–23:44), **and on the other days of *Sukkot*** they read selections **from** the portion of **the offerings of *Sukkot*** (Numbers 29:12–39).
 
 The *Gemara* now turns to the broader calendrical framework: how to ensure that the four special *parshiyot* fall in their proper places relative to *Purim*, *Rosh Chodesh Nissan*, and *Pesach*. The *Shekalim* reading must precede *Rosh Chodesh Adar* in order to give the community sufficient time to bring their *shekalim* before the money-changers set out their tables.
 
@@ -80,7 +79,7 @@ The *Gemara* then cites the *baraita* directly: *eizo hi Shabbat rishona — kol
 
 ### R. Shimon on Erev Shabbat
 
-A *tannaitic* dispute is then cited: *mesargin le-Shabbatot divrei Rabbi Yehuda Hanasi* — one may insert breaks (skip *Shabbatot*) between the special readings, according to *Rabbi Yehuda Hanasi*. *Rabbi Shimon ben Elazar* disagrees and says *ein mesargin* — one does not skip. He qualifies: when does he say one does not skip? *Bizman she-chal lihiyot be-Erev Shabbat* — when *Rosh Chodesh Adar* falls on *Erev Shabbat*. In that scenario, following *Shmuel*'s position and reading *Shekalim* the following *Shabbat* (the 2nd of *Adar*), the subsequent *Shabbatot* fall on the 9th, 16th, 23rd, and 30th — a perfect alignment requiring no skips. *Zachor* falls before *Purim*, *Parah* follows *Purim*, *Hachodesh* precedes *Rosh Chodesh Nissan*, and everything works without gaps.
+A *tannaitic* dispute is then cited: *mesargin le-Shabbatot divrei Rabbi Yehuda Hanasi* — one may insert breaks (skip *Shabbatot*) between the special readings, according to *Rabbi Yehuda Hanasi*. *Rabbi Shimon ben Elazar* disagrees and says *ein mesargin* — one does not skip. He qualifies: when does he say one does not skip? *Bizman she-chal lihyot be-Erev Shabbat* — when *Rosh Chodesh Adar* falls on *Erev Shabbat*. In that scenario, following *Shmuel*'s position and reading *Shekalim* the following *Shabbat* (the 2nd of *Adar*), the subsequent *Shabbatot* fall on the 9th, 16th, 23rd, and 30th — a perfect alignment requiring no skips. *Zachor* falls before *Purim*, *Parah* follows *Purim*, *Hachodesh* precedes *Rosh Chodesh Nissan*, and everything works without gaps.
 
 *Eimatai ani omer ein mesargin* — *Rabbi Shimon ben Elazar* is saying: this is the *one* scenario in which the calendar works out naturally without any skipping, and that is precisely when *Rosh Chodesh* falls on *Erev Shabbat*. In all other cases — when it falls in the middle of the week — one must read *Shekalim* the preceding *Shabbat* (which may be in *Shevat*), and a skip will inevitably be required to bring *Zachor* to just before *Purim*. The debate between *Rav* and *Shmuel* thus maps onto the dispute between *Rabbi Yehuda Hanasi* and *Rabbi Shimon ben Elazar*.
 
@@ -89,6 +88,8 @@ The *halakha* is ruled in all cases like *Rav*.
 ---
 
 ## Zachor & Purim
+
+
 
 ### Rav Advances
 
@@ -107,6 +108,7 @@ The same structural question arises regarding *Parshat Zachor*: what happens whe
 *Shmuel* counters: *keivan de-ika mukafin de-avdi ba-chamishah asar* — since there are walled cities (*mukafin*) that observe *Purim* on the 15th, and the *Shabbat* following a Friday *Purim* would coincide with their observance, *asiya ve-zchira behadi hadadi ka'asya* — at least for them, the action and remembrance occur simultaneously. This grounds *Zachor* on the same day as *Purim*, giving it some residual relationship to the obligation even for those who observed on the 14th. The argument is admittedly unusual, as the *mukafin* are a minority, but it is *Shmuel*'s consistent reasoning.
 
 ### Baraita Proof
+
 
 The *Gemara* attempts to prove the matter from the *Mishnah*, which states *uva-shniyah Zachor* — the second special *Shabbat* is *Zachor*. The first scenario of the *Mishnah* is *Rosh Chodesh Adar* falling on *Shabbat*, which means *Purim* falls on the 14th, which is *Erev Shabbat* — precisely the case under dispute. The *Mishnah* says the second reading is *Zachor*, implying it is read the *Shabbat* before *Purim* even in that scenario — a proof for *Rav*.
 
@@ -130,6 +132,8 @@ It should be noted that in our fixed calendar, *Purim* cannot fall on *Shabbat* 
 
 ## Parah Adumah
 
+
+
 ### Third Shabbat Definition
 
 The *Gemara* now turns to the third special *Shabbat*, *Parshat Parah*. The *baraita* defines it as *kol she-smucha le-Purim me-achareiha* — any *Shabbat* immediately following *Purim*.
@@ -148,13 +152,14 @@ In all other scenarios, the *Shabbat* before *Rosh Chodesh Nissan* serves as *Ha
 
 ---
 
-## Four Parshiyot (II)
+## Four Parshiyot
+
+
 
 ### Complete Baraita
 
-> **Hebrew/Aramaic:** בַּחֲנוּכָּה — בַּנְּשִׂיאִים. בַּפּוּרִים — ״וַיָּבֹא עֲמָלֵק״. בְּרָאשֵׁי חֳדָשִׁים — ״וּבְרָאשֵׁי חׇדְשֵׁיכֶם״. רֹאשׁ חֹדֶשׁ שֶׁחָל לִהְיוֹת בְּשַׁבָּת, מַפְטִירִין ״וְהָיָה מִדֵּי חֹדֶשׁ בְּחׇדְשׁוֹ״. חָל לִהְיוֹת בְּאֶחָד בַּשַּׁבָּת, מֵאֶתְמוֹל מַפְטִירִין ״וַיֹּאמֶר לוֹ יְהוֹנָתָן מָחָר חֹדֶשׁ״.
->
-> **Translation:** The *baraita* continues: **On** each day of **Hanukkah** they read a selection **from** the portion of the dedication of the altar by **the** tribal **princes** (Numbers 7), **and they read as the *haftara* from** the portion of **the lamps of Zechariah** (Zechariah 2:14–4:7). The Gemara comments: **And if it occurs that there are two *Shabbatot*** during Hanukkah, **on the first** Shabbat they read **from** the portion of **the lamps of Zechariah, and on the latter one** they read **from** the portion of **the lamps of Solomon** (I Kings 7:40–50), which discusses the lamps in the Temple. The *baraita* continues: **On Purim** they read the portion of **"And Amalek came"** (Exodus 17:8–16). **On the New Moon** they read the portion of **"And in the beginnings of your month"** (Numbers 28:11–15). When **the New Moon occurs on Shabbat, they read as the *haftara*** the portion that concludes with **"And it shall come to pass that every New Moon,** and every Shabbat, shall all flesh come to bow down on the ground before Me"** (Isaiah 66), as it mentions both Shabbat and the New Moon. When the New Moon **occurs on Sunday, on the previous day,** i.e., Shabbat, **they read as the *haftara*** the portion of **"And Jonathan said to him: Tomorrow is the New Moon"** (I Samuel 20:18–42), which describes events that took place on the eve of the New Moon.
+> **Hebrew/Aramaic:** וְאֵיזוֹ הִיא שַׁבָּת רְבִיעִית — כֹּל שֶׁחָל רֹאשׁ חֹדֶשׁ נִיסָן לִהְיוֹת בְּתוֹכָהּ, וַאֲפִילּוּ בְּעֶרֶב שַׁבָּת.
+> **Translation:** **And which is the fourth Shabbat?** The Shabbat of **whichever** week **during which the New Moon of Nisan occurs, and** this is the case **even** if it occurs **on Friday.**
 
 The *Gemara* now quotes the complete *baraita* encompassing all four special *Shabbatot*. When *Rosh Chodesh Adar* falls on *Shabbat*, one reads *Ki Tissa* (the *Shekalim* section) with a *haftarah* from the episode of *Yehoyada ha-Kohen* — also about the *shekalim*. The *baraita* then defines each *Shabbat* in turn:
 
@@ -184,7 +189,9 @@ The reason *Rosh Chodesh* cannot fall on Thursday is simply the structure of the
 
 ---
 
-## Concluding Remarks
+## Four Parshiyot (II)
+
+
 
 ### Divine Name Note
 
@@ -194,15 +201,16 @@ A brief but practically important observation arises: *Rashi*'s calendar present
 
 ## Regular Parshiyot
 
-### Return to Order
 
-> **Hebrew/Aramaic:** בַּחֲמִישִׁית חוֹזְרִין לִכְסִדְרָן וְכוּ׳. לְסֵדֶר מַאי? רַבִּי אַמֵּי אָמַר: לְסֵדֶר פָּרָשִׁיּוֹת הוּא חוֹזֵר. רַבִּי יִרְמְיָה אָמַר: לְסֵדֶר הַפְטָרוֹת הוּא חוֹזֵר.
->
-> **Translation:** The mishna states: **On the fifth** Shabbat, **we resume the** regular weekly **order.** The Gemara clarifies the mishna's intent: **To the order** of **what** does one resume? **Rabbi Ami said: One resumes the** regular weekly **order of** Torah **portions.** Rabbi Ami holds that on the weeks on which the special portions are read, the regular weekly Torah portion is not read at all, and therefore the cycle is resumed only on the fifth Shabbat. **Rabbi Yirmeya said: One resumes the** regular weekly **order of the *haftarot*.** Rabbi Yirmeya holds that even on the *Shabbatot* on which the special portions are read, the regular weekly portion is still read; the special portion is read by the last reader as the *maftir*. However, the *haftara* of the regular cycle is entirely replaced with a portion from the Prophets that parallels the special portion. As such, it is the cycle of *haftarot* that is resumed on the fifth Shabbat.
+
+### Return to Order
 
 On the fifth *Shabbat* following the sequence of special *parshiyot*, the *Gemara* states *bachamishi chozrin le-ke-sidran* — one returns to the normal order of readings. The question is: what is the "normal order" that has been interrupted?
 
 ### Rav Ami vs Yirmiyah
+
+> **Hebrew/Aramaic:** בַּחֲמִישִׁית חוֹזְרִין לִכְסִדְרָן וְכוּ׳. לְסֵדֶר מַאי? רַבִּי אַמֵּי אָמַר: לְסֵדֶר פָּרָשִׁיּוֹת הוּא חוֹזֵר. רַבִּי יִרְמְיָה אָמַר: לְסֵדֶר הַפְטָרוֹת הוּא חוֹזֵר.
+> **Translation:** § The mishna states: **On the fifth** Shabbat, **we resume the** regular weekly **order.** The Gemara clarifies the mishna’s intent: **To the order** of **what** does one resume? **Rabbi Ami said: One resumes the** regular weekly **order of** Torah **portions.** Rabbi Ami holds that on the weeks on which the special portions are read, the regular weekly Torah portion is not read at all, and therefore the cycle is resumed only on the fifth Shabbat. **Rabbi Yirmeya said: One resumes the** regular weekly **order of the *haftarot*.** Rabbi Yirmeya holds that even on the *Shabbatot* on which the special portions are read, the regular weekly portion is still read; the special portion is read by the last reader as the *maftir*. However, the *haftara* of the regular cycle is entirely replaced with a portion from the Prophets that parallels the special portion. As such, it is the cycle of *haftarot* that is resumed on the fifth Shabbat.
 
 *Rav Ami* says *le-seder parshiyot* — one returns to the normal sequential reading of the weekly *parsha*. His position implies that during the special *Shabbatot*, the regular *parsha* was not read at all, only the special reading. (How one would divide such a reading into seven *aliyot* is admittedly unclear.) *Rabbi Yirmeya* says *le-seder haftarot hu chozer* — one returns to the normal *haftarot*. His position aligns with the *Bavli*'s general assumption throughout this discussion: that the regular *parsha* continues to be read and only the *haftarah* is changed, or the special *Shekalim* (and *Zachor* etc.) reading is added as *shvi'i* or *maftir*.
 
@@ -210,49 +218,53 @@ On the fifth *Shabbat* following the sequence of special *parshiyot*, the *Gemar
 
 ### Weekday vs Shabbat
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: כְּווֹתֵיהּ דְּרַבִּי אַמֵּי מִסְתַּבְּרָא, דִּתְנַן: לַכֹּל מַפְסִיקִין, לְרָאשֵׁי חֳדָשִׁים, לַחֲנוּכָּה, וּלְפוּרִים, לְתַעֲנִיּוֹת, וּלְמַעֲמָדוֹת, וּלְיוֹם הַכִּפּוּרִים.
->
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: כְּווֹתֵיהּ דְּרַבִּי אַמֵּי מִסְתַּבְּרָא, דִּתְנַן: לַכֹּל מַפְסִיקִין, לְרָאשֵׁי חֳדָשִׁים, לַחֲנוּכָּה, וּלְפוּרִים, לְתַעֲנִיּוֹת, וּלְמַעֲמָדוֹת, וּלְיוֹם הַכִּפּוּרִים.
 > **Translation:** **Abaye said: It stands to reason** that one should rule **in accordance with** the opinion **of Rabbi Ami, as we learned** in the mishna: **For all** special days, **we interrupt** the regular order of readings, and a special portion relating to the character of the day is read. This applies **to the New Moons, to Hanukkah, and to Purim, to fast days, and to** non-priestly **watches, and to Yom Kippur.**
+
+> **Hebrew/Aramaic:** בִּשְׁלָמָא לְמַאן דְּאָמַר: לְסֵדֶר פָּרָשִׁיּוֹת הוּא חוֹזֵר — הַיְינוּ דְּאִיכָּא פָּרָשָׁה בְּחוֹל. אֶלָּא לְמַאן דְּאָמַר: לְסֵדֶר הַפְטָרוֹת הוּא חוֹזֵר — הַפְטָרָה בְּחוֹל מִי אִיכָּא?
+> **Translation:** Abaye explains his proof: **Granted, according to the one who said that one resumes the** regular weekly **order of** Torah **portions, this** statement in the mishna **is** referring to the fact **that there is** a reading of the weekly Torah **portion on weekdays.** If one of the special days listed in the mishna occurs on Monday or Thursday, the weekly Torah reading is replaced by the special portion for that day. **However, according to one who said** that **one resumes the** regular weekly **order of *haftarot*,** what could the mishna mean when it says that the regular cycle is interrupted? **Is there a *haftara* on weekdays?** The mishna therefore supports Rabbi Ami’s opinion.
+
+> **Hebrew/Aramaic:** וְאִידַּךְ — הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא.
+> **Translation:** **And the other one,** Rabbi Yirmeya, would counter: **This** case is **as it is, and that** case is **as it is.** On days when there is a *haftara*, the reference in the mishna is to the order of the *haftarot*. On weekdays, when there is no *haftara*, the reference is to the order of the Torah readings. Therefore, no proof can be deduced from the mishna.
+
+> **Hebrew/Aramaic:** וּבְתַעֲנִיּוֹת לְמָה לִי הַפְסָקָה? לִיקְרֵי מִצַּפְרָא בְּעִנְיָנָא דְיוֹמָא, וּבְמִנְחָה בְּתַעֲנִיתָא! מְסַיַּיע לֵיהּ לְרַב הוּנָא, דְּאָמַר רַב הוּנָא: מִצַּפְרָא כִּינּוּפְיָא.
+> **Translation:** The Gemara asks: **But on fast days, why do I** need to have any **interruption** of the regular order of Torah readings? **Let us read in the morning** the regular weekly portion **of the matter of the day, and in the afternoon** service let us read the portion **of a fast day.** The Gemara comments: This **supports** the statement of **Rav Huna, for Rav Huna said: From the morning** of communal fasts, **a gathering** is held in the synagogue. The community leaders examine the conduct of the townspeople and admonish those whose behavior is found wanting. Therefore, there is no time in the morning to read the Torah portion for fast days.
+
+> **Hebrew/Aramaic:** הֵיכִי עָבְדִינַן? אָמַר אַבָּיֵי: מִצַּפְרָא לְפַלְגֵיהּ דְּיוֹמָא מְעַיְּינִינַן בְּמִילֵּי דְמָתָא. מִפַּלְגֵיהּ דְּיוֹמָא לְפַנְיָא, רִיבְעָא דְיוֹמָא קָרוּ וּמַפְטְרִי, וְרִיבְעָא דְיוֹמָא בָּעוּ רַחֲמֵי, שֶׁנֶּאֱמַר: ״וַיִּקְרְאוּ בְּסֵפֶר תּוֹרַת ה׳ אֱלֹהֵיהֶם רְבִיעִית הַיּוֹם וּרְבִיעִית (הַיּוֹם) מִתְוַודִּים וּמִשְׁתַּחֲוִים״.
+> **Translation:** The Gemara asks: **What does** the community **do** on a public fast day? **Abaye said: From the morning until the middle of the day,** the community gathers in the synagogue, and the leaders **examine the affairs of the town** to determine whether and how the people’s conduct needs to be improved. **From the middle of the day until the evening, a quarter of the day** is spent **reading** from the Torah **and reading the *haftara*, and a quarter of the day** is spent **praying, as it is stated: “And they read in the book of the Torah of the Lord their God one quarter of the day, and a quarter of the day they confessed, and they prostrated themselves** before the Lord their God” (Nehemiah 9:3).
+
+> **Hebrew/Aramaic:** וְאֵיפוֹךְ אֲנָא? לָא סָלְקָא דַּעְתָּךְ, דִּכְתִיב: ״וְאֵלַי יֵאָסְפוּ כֹּל חָרֵד בְּדִבְרֵי אֱלֹהֵי יִשְׂרָאֵל עַל מַעַל הַגּוֹלָה וַאֲנִי יוֹשֵׁב מְשׁוֹמֵם עַד לְמִנְחַת הָעָרֶב״, וּכְתִיב: ״וּבְמִנְחַת הָעֶרֶב קַמְתִּי מִתַּעֲנִיתִי״.
+> **Translation:** The Gemara objects: **But** perhaps **I should reverse** the order, and the first half of the day should be spent reading from the Torah and praying, and the second half of the day should be spent examining the affairs of the townspeople. The Gemara answers: **It should not enter your mind** to say this, **as it is written: “Then everyone who trembled at the words of the God of Israel due to the transgression of the exiles gathered around me, and I sat appalled until the evening offering”** (Ezra 9:4), **and it is written** in the next verse: **“And at the evening offering I arose from my fast,** and having rent my garment and my mantle; I fell on my knees, and I spread out my hands to the Lord my God” (Ezra 9:5). This indicates that the first half of a public fast should be dedicated to an inspection of the community’s behavior, and the rest of the day should be devoted to prayer.
 
 The *Gemara* cites the *Mishnah* in support: *le-chol mafsikin* — for all special occasions one interrupts the normal reading — *le-Rashei Chodashim, le-Chanukah, le-Purim, le-Ta'aniyot, u-le-Ma'amadot, le-Yom HaKippurim*. This is the proof for *Rav Ami*: *bishlama* if you have been interrupting the reading of the *Torah* itself (the *parsha*), then the formulation "one interrupts" makes perfect sense — and crucially, two items on this list, *ta'aniyot* and *ma'amadot*, cannot happen on *Shabbat*. These are weekday events. On a weekday there is no *haftarah* to interrupt; what one is interrupting is the Torah reading itself.
 
-> **Hebrew/Aramaic:** וְאִידַּךְ — הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא.
->
-> **Translation:** **And the other one,** Rabbi Yirmeya, would counter: **This** case is **as it is, and that** case is **as it is.** On days when there is a *haftara*, the reference in the mishna is to the order of the *haftarot*. On weekdays, when there is no *haftara*, the reference is to the order of the Torah readings. Therefore, no proof can be deduced from the mishna.
-
 The response for *Rabbi Yirmeya* — *ha ke-d-itah ve-ha ke-d-itah* — is that each case operates in its own context. When the special occasion falls on a weekday (*ta'aniyot*, *ma'amadot*, *Chanukah* on a Monday), one interrupts the actual Torah reading. When it falls on *Shabbat*, one preserves the *parsha* and changes only the *haftarah*. The simpler reading of the *Mishnah*, however, clearly supports *Rav Ami* — that the interruption refers to the Torah reading itself.
 
-> **Hebrew/Aramaic:** וּבְתַעֲנִיּוֹת לְמָה לִי הַפְסָקָה? לִיקְרֵי מִצַּפְרָא בְּעִנְיָנָא דְיוֹמָא, וּבְמִנְחָה בְּתַעֲנִיתָא! מְסַיַּיע לֵיהּ לְרַב הוּנָא, דְּאָמַר רַב הוּנָא: מִצַּפְרָא כִּינּוּפְיָא.
->
-> **Translation:** The Gemara asks: **But on fast days, why do I** need to have any **interruption** of the regular order of Torah readings? **Let us read in the morning** the regular weekly portion **of the matter of the day, and in the afternoon** service let us read the portion **of a fast day.** The Gemara comments: This **supports** the statement of **Rav Huna, for Rav Huna said: From the morning** of communal fasts, **a gathering** is held in the synagogue. The community leaders examine the conduct of the townspeople and admonish those whose behavior is found wanting. Therefore, there is no time in the morning to read the Torah portion for fast days.
-
-The *Gemara* presses *Rabbi Yirmeya*'s position further: if one is trying to preserve the normal reading as much as possible (as *Rabbi Yirmeya* holds for *Shabbat*), why not do the same for *ta'aniyot* — read the normal weekday portion in *Shacharit* and reserve the special *ta'anit* reading for *Mincha*? The *Gemara* responds: this proves *Rav Huna*'s statement. *Rav Huna* says *mi-safra kinufya* — in the morning of a *ta'anit*, the community is occupied gathering and assessing communal conduct (*milei de-mata*), taking stock of what needs to be corrected, and beginning the process of communal *teshuvah*.
-
-> **Hebrew/Aramaic:** הֵיכִי עָבְדִינַן? אָמַר אַבָּיֵי: מִצַּפְרָא לְפַלְגֵיהּ דְּיוֹמָא מְעַיְּינִינַן בְּמִילֵּי דְמָתָא. מִפַּלְגֵיהּ דְּיוֹמָא לְפַנְיָא, רִיבְעָא דְיוֹמָא קָרוּ וּמַפְטְרִי, וְרִיבְעָא דְיוֹמָא בָּעוּ רַחֲמֵי, שֶׁנֶּאֱמַר: ״וַיִּקְרְאוּ בְּסֵפֶר תּוֹרַת ה׳ אֱלֹהֵיהֶם רְבִיעִית הַיּוֹם וּרְבִיעִית (הַיּוֹם) מִתְוַודִּים וּמִשְׁתַּחֲוִים״.
->
-> **Translation:** The Gemara asks: **What does** the community **do** on a public fast day? **Abaye said: From the morning until the middle of the day,** the community gathers in the synagogue, and the leaders **examine the affairs of the town** to determine whether and how the people's conduct needs to be improved. **From the middle of the day until the evening, a quarter of the day** is spent **reading** from the Torah **and reading the *haftara*, and a quarter of the day** is spent **praying, as it is stated: "And they read in the book of the Torah of the Lord their God one quarter of the day, and a quarter of the day they confessed, and they prostrated themselves** before the Lord their God" (Nehemiah 9:3).
-
-*Abaye* elaborates: from morning until midday one examines the affairs of the community; from midday until evening one devotes a quarter of the day to Torah reading and *haftarah*, and the final quarter to *tefillah*, confessions, and supplication. The source is the *pasuk* in *Ezra-Nechemiah*: *va-yikre'u be-sefer torat Hashem Elokeihem revi'it ha-yom* — they read in the Torah a quarter of the day — *u-revi'it mitvadim u-mishtachavim* — and another quarter confessing and bowing. The morning is not about ritual but about moral accounting; therefore the Torah reading cannot be split between morning and afternoon and must take place entirely in the afternoon. The *inyana de-yoma* in *Shacharit* and the *ta'anit* portion in *Mincha* is not a viable option.
+The *Gemara* presses *Rabbi Yirmeya*'s position further: if one is trying to preserve the normal reading as much as possible (as *Rabbi Yirmeya* holds for *Shabbat*), why not do the same for *ta'aniyot* — read the normal weekday portion in *Shacharit* and reserve the special *ta'anit* reading for *Mincha*? The *Gemara* responds: this proves *Rav Huna*'s statement. *Rav Huna* says *mi-safra kinufya* — in the morning of a *ta'anit*, the community is occupied gathering and assessing communal conduct (*milei de-mata*), taking stock of what needs to be corrected, and beginning the process of communal *teshuvah*. *Abaye* elaborates: from morning until midday one examines the affairs of the community; from midday until evening one devotes a quarter of the day to Torah reading and *haftarah*, and the final quarter to *tefillah*, confessions, and supplication. The source is the *pasuk* in *Ezra-Nechemiah*: *va-yikre'u be-sefer torat Hashem Elokeihem revi'it ha-yom* — they read in the Torah a quarter of the day — *u-revi'it mitvadim u-mishtachavim* — and another quarter confessing and bowing. The morning is not about ritual but about moral accounting; therefore the Torah reading cannot be split between morning and afternoon and must take place entirely in the afternoon. The *inyana de-yoma* in *Shacharit* and the *ta'anit* portion in *Mincha* is not a viable option.
 
 ---
 
 ## Festival Readings
 
+
+
 ### Festival Parshiyot
 
-> **Hebrew/Aramaic:** בְּרָכוֹת וּקְלָלוֹת. אֵין מַפְסִיקִין בִּקְלָלוֹת, אֶלָּא אֶחָד קוֹרֵא אֶת כּוּלָּן.
->
-> **Translation:** they read the portion of **blessings and curses** (Leviticus, chapter 26). **One should not interrupt** the reading of the **curses** by having two different people read them. **Rather, one person reads all of them.**
+> **Hebrew/Aramaic:** מַתְנִי׳ בַּפֶּסַח קוֹרִין בְּפָרָשַׁת מוֹעֲדוֹת שֶׁל תּוֹרַת כֹּהֲנִים. בָּעֲצֶרֶת — ״שִׁבְעָה שָׁבוּעוֹת״. בְּרֹאשׁ הַשָּׁנָה — ״בַּחֹדֶשׁ הַשְּׁבִיעִי בְּאֶחָד לַחֹדֶשׁ״. בְּיוֹם הַכִּפּוּרִים — ״אַחֲרֵי מוֹת״. בְּיוֹם טוֹב הָרִאשׁוֹן שֶׁל חַג קוֹרִין בְּפָרָשַׁת מוֹעֲדוֹת שֶׁבְּתוֹרַת כֹּהֲנִים, וּבִשְׁאָר כׇּל יְמוֹת הַחַג בְּקׇרְבְּנוֹת הַחַג.
+> **Translation:** MISHNA: **On** the first day of **Passover,** the congregation **reads from the portion of the Festivals of Leviticus** (Leviticus 22:26–23:44). **On *Shavuot*** they read the portion of **“Seven weeks”** (Deuteronomy 16:9–12). **On Rosh HaShana** they read the portion of “And **on the seventh month on the first of the month”** (Leviticus 23:23–25). **On Yom Kippur** they read the portion of **“After the death”** (Leviticus 16). **On the first Festival day of *Sukkot* they read from the portion of the Festivals of Leviticus** (Leviticus 22:26–23:44), **and on the other days of *Sukkot*** they read selections **from** the portion of **the offerings of *Sukkot*** (Numbers 29:12–39).
 
 The final *Mishnah* of *Masechet Megillah* catalogues the Torah readings for the festivals and special occasions throughout the year. On *Pesach* one reads from *Parshat Moadot* in *Parshat Emor* in *Vayikra* — *shor o chesev o ez ki yivaled*. On *Shavuot* (*Atzeret*) one reads *shiva shavuot*. On *Rosh Hashanah* — *ba-chodesh ha-shvi'i*, the section in *Emor* dealing with the first of the seventh month. On *Yom Kippur* — *Acharei Mot*, the *avodah* section. On the first day of *Sukkot* one reads from *Parshat Moadot she-be-Torat Kohanim* — the large section in *Emor* — *shor o chesev o ez*, covering all the festival *korbanot*. On *Chol Ha-Moed* one reads from *korbanot ha-chag* — the specific *Sukkot* offerings — from *Pinchas*, not from *Emor*.
 
 The *Mishnah* does not specify *Chol Ha-Moed Pesach*, a point the *Gemara* will address in the *baraita*.
 
+[DAF:31b]
 ### Other Special Days
 
-> **Hebrew/Aramaic:** בַּחֲנוּכָּה — בַּנְּשִׂיאִים. בַּפּוּרִים — ״וַיָּבֹא עֲמָלֵק״. בְּרָאשֵׁי חֳדָשִׁים — ״וּבְרָאשֵׁי חׇדְשֵׁיכֶם״. בְּמַעֲמָדוֹת — בְּמַעֲשֵׂה בְרֵאשִׁית. בְּתַעֲנִיּוֹת —
->
-> **Translation:** **On** each day of **Hanukkah** they read selections **from** the portion of the dedication of the altar by **the** tribal **princes** (Numbers 7). **On Purim** they read the portion of **"And Amalek came"** (Exodus 17:8–16). **On the New Moon** they read the portion of **"And in the beginnings of your months"** (Numbers 28:11–15). **And in the** non-priestly **watches** they read **the act of Creation** (Genesis 1:1–2:3). The Jewish people were divided into twenty-four watches. Each week, it would be the turn of a different watch to send representatives to Jerusalem to be present in the Temple to witness the sacrificial service. Those remaining behind would fast during the week, from Monday to Thursday, offer special prayers, and read the account of Creation from the Torah. **On fast days,**
+> **Hebrew/Aramaic:** בַּחֲנוּכָּה — בַּנְּשִׂיאִים. בַּפּוּרִים — ״וַיָּבֹא עֲמָלֵק״. בְּרָאשֵׁי חֳדָשִׁים — ״וּבְרָאשֵׁי חׇדְשֵׁיכֶם״. בְּמַעֲמָדוֹת — בְּמַעֲשֵׂה בְרֵאשִׁית. בְּתַעֲנִיּוֹת —
+> **Translation:** **On** each day of **Hanukkah** they read selections **from** the portion of the dedication of the altar by **the** tribal **princes** (Numbers 7). **On Purim** they read the portion of **“And Amalek came”** (Exodus 17:8–16). **On the New Moon** they read the portion of **“And in the beginnings of your months”** (Numbers 28:11–15). **And in the** non-priestly **watches** they read **the act of Creation** (Genesis 1:1–2:3). The Jewish people were divided into twenty-four watches. Each week, it would be the turn of a different watch to send representatives to Jerusalem to be present in the Temple to witness the sacrificial service. Those remaining behind would fast during the week, from Monday to Thursday, offer special prayers, and read the account of Creation from the Torah. **On fast days,**
+
+> **Hebrew/Aramaic:** בְּרָכוֹת וּקְלָלוֹת. אֵין מַפְסִיקִין בִּקְלָלוֹת, אֶלָּא אֶחָד קוֹרֵא אֶת כּוּלָּן.
+> **Translation:** they read the portion of **blessings and curses** (Leviticus, chapter 26). **One should not interrupt** the reading of the **curses** by having two different people read them. **Rather, one person reads all of them.**
 
 On *Chanukah* one reads from the *nesi'im* section in *Nasso* in *Bamidbar*. On *Purim* one reads *Vayavo Amalek*. On *Rosh Chodesh* — *u-ve-rashei chodsheikhem*. For the *ma'amadot* — the representatives of the people who stood in correspondence with the *kohanim* serving in the *Beit Ha-Mikdash* — one reads from *ma'aseh bereishit*, as we learned in *Masechet Ta'anit*. On *ta'aniyot* one reads *brachot u-klalot* — the section of blessings and curses, which *Rashi* identifies as *Bechukotai*. This is notable, since the full *Masechet Ta'anit* was studied without encountering this ruling, nor is it common practice today. The logic is clear, however: on fast days occasioned by drought or communal suffering, reading the *klalot* is meant to heighten awareness of consequence and intensify the call to *teshuvah*.
 
@@ -262,16 +274,14 @@ One does not divide the *klalot* between multiple *aliyot*: *ein mafsikin ba-kla
 
 ### Weekday Readings
 
-> **Hebrew/Aramaic:** בְּשֵׁנִי וּבַחֲמִישִׁי, בַּשַּׁבָּת בַּמִּנְחָה — קוֹרִין כְּסִדְרָן, וְאֵין עוֹלִים לָהֶם מִן הַחֶשְׁבּוֹן.
->
+> **Hebrew/Aramaic:** בְּשֵׁנִי וּבַחֲמִישִׁי, בַּשַּׁבָּת בַּמִּנְחָה — קוֹרִין כְּסִדְרָן, וְאֵין עוֹלִים לָהֶם מִן הַחֶשְׁבּוֹן.
 > **Translation:** **On Mondays, and on Thursdays,** and **on Shabbat during the afternoon** service, **they read in accordance** with the regular weekly **order,** i.e., they proceed to read the first section of the Torah portion that follows the portion that was read on the previous Shabbat morning. **However,** these readings **are not counted** as a progression **in the reckoning** of reading the Torah portions, i.e., they do not proceed on Monday to read the section that immediately follows the section read on Shabbat during the afternoon, and then the following section on Thursday. Rather, until the reading on the following Shabbat morning, they return to and read the same first section of the Torah portion that follows the portion that was read on the previous Shabbat morning.
 
 Monday, Thursday, and *Shabbat Mincha* readings follow the normal sequential *parsha* but do not count toward the division for the following *Shabbat*. One does not reason that since, for example, *kohen* and *levi* were already called to *aliyot* earlier in the week, one may begin on *Shabbat* with *shlishi*.
 
 ### Source Pasuk
 
-> **Hebrew/Aramaic:** שֶׁנֶּאֱמַר: ״וַיְדַבֵּר מֹשֶׁה אֶת מוֹעֲדֵי ה׳ אֶל בְּנֵי יִשְׂרָאֵל״, מִצְוָתָן שֶׁיְּהוּ קוֹרִין כׇּל אֶחָד וְאֶחָד בִּזְמַנּוֹ.
->
-> **Translation:** On Festivals and holidays, they read a portion relating to the character of the day, **as** it **is stated: "And Moses declared to the children of Israel the appointed seasons of the Lord"** (Leviticus 23:44), which indicates that part of **the mitzva** of the Festivals is **that** the people **should read** the portion relating to them, **each one in its** appointed **time.**
+> **Hebrew/Aramaic:** שֶׁנֶּאֱמַר: ״וַיְדַבֵּר מֹשֶׁה אֶת מוֹעֲדֵי ה׳ אֶל בְּנֵי יִשְׂרָאֵל״, מִצְוָתָן שֶׁיְּהוּ קוֹרִין כׇּל אֶחָד וְאֶחָד בִּזְמַנּוֹ.
+> **Translation:** On Festivals and holidays, they read a portion relating to the character of the day, **as** it **is stated: “And Moses declared to the children of Israel the appointed seasons of the Lord”** (Leviticus 23:44), which indicates that part of **the mitzva** of the Festivals is **that** the people **should read** the portion relating to them, **each one in its** appointed **time.**
 
 The *Mishnah* closes with the *pasuk* that grounds this entire framework: *Vayidaber Moshe et mo'adei Hashem el b'nei Yisrael* — and *Moshe* spoke of the appointed times of God to the children of Israel. The institution of reading about each *mo'ed* during its appointed time is derived from this verse: *mitzvatan she-yihyu korin kol echad va-echad bi-zmano* — it is their obligation to read about each one in its proper time, linking *kri'at ha-Torah* to the rhythm of the sacred calendar.

@@ -1,0 +1,209 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Mishnah: During Shemitah",
+    "candidates": [
+      "Opening Remarks",
+      "Mishnah: Before Shemitah",
+      "Mishnah: During Shemitah",
+      "Two Readings Explained",
+      "Rav & Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the full Mishnah text covering both the before-Shemitah and during-Shemitah rulings as well as the food-only vow cases, but its opening clause and primary focus matches heading 1 ('Mishnah: Before Shemitah'), which introduces this exact Mishnah and its ruling about entering the field and overhanging produce before shevi'it \u2014 the subsequent headings then provide the essay's prose analysis of the Mishnah's later clauses.",
+      "chosen_heading": "Mishnah: Before Shemitah",
+      "current_heading": "Mishnah: During Shemitah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav & Shmuel Position",
+    "candidates": [
+      "Two Readings Explained",
+      "Rav & Shmuel Position",
+      "R. Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rav and Shmuel's position that a vow before shevi'it remains in effect even after shevi'it arrives, while a vow during shevi'it allows eating from overhanging produce \u2014 exactly what the 'Rav & Shmuel Position' prose describes.",
+      "chosen_heading": "Rav & Shmuel Position",
+      "current_heading": "Rav & Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "R. Yochanan Position",
+    "candidates": [
+      "R. Yochanan Position",
+      "Property Access & Gezerim",
+      "Ownership & Power",
+      "Initial Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling of Rabbi Yochanan and Reish Lakish about nechasai alecha before and during shemitah, which is exactly what the prose under 'R. Yochanan Position' describes and explains.",
+      "chosen_heading": "R. Yochanan Position",
+      "current_heading": "R. Yochanan Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Initial Proposal",
+    "candidates": [
+      "Property Access & Gezerim",
+      "Ownership & Power",
+      "Initial Proposal",
+      "Mishnah Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items constitute the Gemara's single continuous dialectical sequence proposing, challenging, and refining the fundamental dispute between Rav/Shmuel and Rabbi Yo\u1e25anan/Reish Lakish about whether a person can render something forbidden beyond his ownership \u2014 exactly what the 'Initial Proposal' prose describes in detail.",
+      "chosen_heading": "Initial Proposal",
+      "current_heading": "Initial Proposal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Mishnah Evidence",
+    "candidates": [
+      "Mishnah Evidence",
+      "Linguistic Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah about 'your house/field' vs. 'this house/this field' with the possessive/demonstrative distinction, which is precisely what the Mishnah Evidence prose discusses in detail as the 'further Mishnah that is decisive.'",
+      "chosen_heading": "Mishnah Evidence",
+      "current_heading": "Mishnah Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Linguistic Resolution",
+    "candidates": [
+      "Linguistic Resolution",
+      "Possessive/Demonstrative",
+      "Rights vs. Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's resolution that Rav/Shmuel and Rabbi Yochanan/Reish Lakish do not disagree but addressed different linguistic formulations (nechasim elu vs. nechasai), which is precisely what the 'Linguistic Resolution' section's prose discusses.",
+      "chosen_heading": "Linguistic Resolution",
+      "current_heading": "Linguistic Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rights vs. Vow",
+    "candidates": [
+      "Possessive/Demonstrative",
+      "Rights vs. Vow",
+      "Ulla's Limitation",
+      "R. Shimon Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage asks exactly why the neder prevents entry during shevi'it given that the produce is ownerless and the land is also rendered ownerless \u2014 this is precisely the question posed in the 'Rights vs. Vow' section prose, which sets up the tension between the Torah's grant of access on shemitah and the neder's prohibition.",
+      "chosen_heading": "Rights vs. Vow",
+      "current_heading": "Rights vs. Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "R. Shimon Gezeirah",
+    "candidates": [
+      "Ulla's Limitation",
+      "R. Shimon Gezeirah",
+      "Mishnah Prohibitions",
+      "Gemara Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Ulla's statement (about trees on the borders) AND Rabbi Shimon ben Elyakim's gezeirah statement as a single Talmudic unit, and candidate 0 ('Ulla's Limitation') is where Ulla's answer belongs \u2014 the current placement under 'R. Shimon Gezeirah' only covers the second part, but since both opinions appear together as one quoted passage, the natural home is under the heading that introduces the first opinion (Ulla), which then flows into R. Shimon's elaboration.",
+      "chosen_heading": "Ulla's Limitation",
+      "current_heading": "R. Shimon Gezeirah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Gemara Question",
+    "candidates": [
+      "Mishnah Prohibitions",
+      "Gemara Question",
+      "R. Yose View",
+      "Abaye Gezeirah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Prohibitions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah itself, and candidate 0 ('Mishnah Prohibitions') is explicitly dedicated to describing that Mishnah's list of prohibited transactions.",
+      "second_heading": "Gemara Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question about which direction of each transaction confers benefit, which is precisely what candidate 1 ('Gemara Question') discusses in its prose.",
+      "current_heading": "Gemara Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Abaye Gezeirah",
+    "candidates": [
+      "R. Yose View",
+      "Abaye Gezeirah",
+      "Sale Benefit & Avoda Zara"
+    ],
+    "result": null
+  }
+]

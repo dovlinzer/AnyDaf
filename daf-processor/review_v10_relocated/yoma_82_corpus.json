@@ -1,0 +1,404 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rava: Peppers & Ginger",
+    "candidates": [
+      "Intro: Unfit Foods",
+      "Rava: Peppers & Ginger",
+      "Baraita: Peppers & Orlah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about chewing pepper and ginger on Yom Kippur being exempt, which directly matches the prose of candidate 1 ('Rava: Peppers & Ginger') describing exactly this content.",
+      "chosen_heading": "Rava: Peppers & Ginger",
+      "current_heading": "Rava: Peppers & Ginger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Baraita: Peppers & Orlah",
+    "candidates": [
+      "Baraita: Peppers & Orlah",
+      "Moist vs. Dry Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Meir's baraita about pepper and orlah, which is exactly what the prose under 'Baraita: Peppers & Orlah' discusses in detail.",
+      "chosen_heading": "Baraita: Peppers & Orlah",
+      "current_heading": "Baraita: Peppers & Orlah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Moist vs. Dry Resolution",
+    "candidates": [
+      "Moist vs. Dry Resolution",
+      "Himalta Spice Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly resolves the moist/dry contradiction about pepper on Yom Kippur, which is exactly what the 'Moist vs. Dry Resolution' section's prose describes.",
+      "chosen_heading": "Moist vs. Dry Resolution",
+      "current_heading": "Moist vs. Dry Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Himalta Spice Case",
+    "candidates": [
+      "Himalta Spice Case",
+      "Leaves: Reed vs. Grape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the himalta spice case with Ravina, Mareimar, and Rav Na\u1e25man's ruling, resolving the wet/dry distinction \u2014 exactly what the prose under 'Himalta Spice Case' describes.",
+      "chosen_heading": "Himalta Spice Case",
+      "current_heading": "Himalta Spice Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Leaves: Reed vs. Grape",
+    "candidates": [
+      "Leaves: Reed vs. Grape",
+      "Brine & Vinegar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses reed leaves vs. grapevine shoots and the dispute between Rabbi Yitz\u1e25ak from Migdal and Rav Kahana about what qualifies as grapevine shoots, which matches exactly the prose under 'Leaves: Reed vs. Grape'.",
+      "chosen_heading": "Leaves: Reed vs. Grape",
+      "current_heading": "Leaves: Reed vs. Grape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Brine & Vinegar",
+    "candidates": [
+      "Brine & Vinegar",
+      "Rebbi: Vinegar Effect",
+      "Rav Gidal Retraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the brine/murays exemption and the inference about vinegar's liability, which matches heading 0's prose about the parallel distinction for liquids and the question of which tannaitic opinion the mishna follows \u2014 the identification of Rabbi Yehuda HaNasi is part of this same unit, not a separate section.",
+      "chosen_heading": "Brine & Vinegar",
+      "current_heading": "Brine & Vinegar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rav Gidal Retraction",
+    "candidates": [
+      "Rebbi: Vinegar Effect",
+      "Rav Gidal Retraction",
+      "Eating vs. Soul-Settling",
+      "Mishna: No Affliction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of Rav Giddel bar Menashe's public ruling, the community's misapplication of it, and his angry clarification with the three distinctions (bedi'eved vs. lechatchila, purta vs. tuba, chai vs. mazug), which is precisely what the 'Rav Gidal Retraction' prose describes.",
+      "chosen_heading": "Rav Gidal Retraction",
+      "current_heading": "Rav Gidal Retraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mishna: No Affliction",
+    "candidates": [
+      "Eating vs. Soul-Settling",
+      "Mishna: No Affliction",
+      "Rav Chisda: Health"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about children not being afflicted on Yom Kippur but being trained beforehand, which is precisely what the 'Mishna: No Affliction' section's prose introduces and discusses.",
+      "chosen_heading": "Mishna: No Affliction",
+      "current_heading": "Mishna: No Affliction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav Chisda: Health",
+    "candidates": [
+      "Rav Chisda: Health",
+      "Rav Huna: Age Progression",
+      "Rav Nachman: Year Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Chisda's resolution distinguishing between a feeble (chola) and healthy (bari) child, which is precisely what the prose under 'Rav Chisda: Health' describes.",
+      "chosen_heading": "Rav Chisda: Health",
+      "current_heading": "Rav Chisda: Health",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav Nachman: Year Later",
+    "candidates": [
+      "Rav Huna: Age Progression",
+      "Rav Nachman: Year Later",
+      "Reconciling Opinions",
+      "Rabbi Yochanan Dissent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rav Huna, Rav Nachman, and Rabbi Yochanan) as a single Talmudic unit, but it belongs under 'Rav Huna: Age Progression' (index 0) since that heading's prose introduces and explains the full quoted text, while the current placement under 'Rav Nachman: Year Later' only covers part of the passage's content.",
+      "chosen_heading": "Rav Huna: Age Progression",
+      "current_heading": "Rav Nachman: Year Later",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rabbi Yochanan Dissent",
+    "candidates": [
+      "Reconciling Opinions",
+      "Rabbi Yochanan Dissent",
+      "Rabba bar Shmuel Braita",
+      "Rava: Chinuch Types",
+      "Tosafot: Chinuch Concept",
+      "Practical Enforcement",
+      "Pregnant Woman Case",
+      "Sick Person Protocol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of the dispute between Rav Huna/Rav Nachman and Rabbi Yochanan over the mishna's 'one year or two years' language, the baraita of Rabba bar Shmuel, and the resolution via 'trei chinuchei havei' \u2014 exactly what heading 1 ('Rabbi Yochanan Dissent') describes in its prose.",
+      "chosen_heading": "Rabbi Yochanan Dissent",
+      "current_heading": "Rabbi Yochanan Dissent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Sick Person Protocol",
+    "candidates": [
+      "Rabba bar Shmuel Braita",
+      "Rava: Chinuch Types",
+      "Tosafot: Chinuch Concept",
+      "Practical Enforcement",
+      "Pregnant Woman Case",
+      "Sick Person Protocol",
+      "Gradations of Relief"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna that opens with the pregnant woman case (ubra she-hericha), and the prose under 'Pregnant Woman Case' explicitly quotes and discusses this exact mishna text including the tashiv nafshah language \u2014 it covers both the pregnant woman and sick person clauses as a unified mishna.",
+      "chosen_heading": "Pregnant Woman Case",
+      "current_heading": "Sick Person Protocol",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Gradations of Relief",
+    "candidates": [
+      "Sick Person Protocol",
+      "Gradations of Relief",
+      "Nothing Before Pikuach",
+      "Avodah Zarah Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the graduated procedure of dipping into sauce, then giving sauce, then the fat itself \u2014 which is precisely what the 'Gradations of Relief' section's prose discusses, including the principle of committing the lesser transgression first.",
+      "chosen_heading": "Gradations of Relief",
+      "current_heading": "Gradations of Relief",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Avodah Zarah Basis",
+    "candidates": [
+      "Nothing Before Pikuach",
+      "Avodah Zarah Basis",
+      "Rebbi Eliezer Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening of Rabbi Eliezer's derivation \u2014 asking why both 'with all your soul' and 'with all your might' are stated \u2014 which directly matches the 'Avodah Zarah Basis' prose description of deriving the rule from Rabbi Eliezer's teaching about be-chol nafshecha and be-chol me'odecha.",
+      "chosen_heading": "Avodah Zarah Basis",
+      "current_heading": "Avodah Zarah Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rebbi Eliezer Drasha",
+    "candidates": [
+      "Rebbi Eliezer Drasha",
+      "Betrayal Principle",
+      "Sex & Murder Derivation",
+      "Mutual Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Eliezer's drasha explaining why both 'with all your soul' and 'with all your might' are needed for different human types \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Rebbi Eliezer Drasha",
+      "current_heading": "Rebbi Eliezer Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Mutual Derivation",
+    "candidates": [
+      "Betrayal Principle",
+      "Sex & Murder Derivation",
+      "Mutual Derivation",
+      "Rava's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita of Rabbi Yehuda HaNasi deriving forbidden sexual relations and murder from the verse about the betrothed woman \u2014 which is precisely what heading 1 ('Sex & Murder Derivation') introduces, while heading 2 ('Mutual Derivation') discusses the bilateral teaching that follows, which is the Gemara's analysis of that baraita rather than the baraita itself.",
+      "chosen_heading": "Sex & Murder Derivation",
+      "current_heading": "Mutual Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rava's Story",
+    "candidates": [
+      "Mutual Derivation",
+      "Rava's Story",
+      "Rambam: Oness Exception",
+      "Sex: Erection Test",
+      "First Woman: Calmed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's story about the man ordered to kill by the village ruler, which is precisely what the 'Rava's Story' section's prose describes and analyzes.",
+      "chosen_heading": "Rava's Story",
+      "current_heading": "Rava's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "First Woman: Calmed",
+    "candidates": [
+      "Rambam: Oness Exception",
+      "Sex: Erection Test",
+      "First Woman: Calmed",
+      "Rebbi: Righteous Fetus",
+      "Rabbi Yochanan Birth",
+      "Second Woman: Not Calmed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the entire narrative of the pregnant woman who smelled food, being whispered to that it is Yom Kippur, being calmed, Rebbi reading the verse, and Rabbi Yochanan being born \u2014 which spans headings 2-4, but the current placement under 'First Woman: Calmed' is the opening of this unified story, and since all items must go under one heading, heading 2 is the best single home as it introduces the full narrative unit.",
+      "chosen_heading": "First Woman: Calmed",
+      "current_heading": "First Woman: Calmed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Second Woman: Not Calmed",
+    "candidates": [
+      "Rebbi: Righteous Fetus",
+      "Rabbi Yochanan Birth",
+      "Second Woman: Not Calmed",
+      "Rebbi: Wicked Fetus",
+      "Shabtai Identity",
+      "Moral Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the second pregnant woman who smelled food, came before Rabbi \u1e24anina, was whispered to, and did not accept the whisper \u2014 which is precisely what the 'Second Woman: Not Calmed' section's prose describes.",
+      "chosen_heading": "Second Woman: Not Calmed",
+      "current_heading": "Second Woman: Not Calmed",
+      "moved": false
+    }
+  }
+]

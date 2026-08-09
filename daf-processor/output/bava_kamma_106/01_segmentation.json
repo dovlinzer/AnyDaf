@@ -86,8 +86,8 @@
           "timestamp": "20:43"
         }
       ],
-      "sefaria_index": 0,
-      "matched": true
+      "sefaria_index": 28,
+      "matched": false
     },
     {
       "title": "Rav Huna's Radical Position: Oath as Complete Payment",
@@ -158,8 +158,8 @@
           "timestamp": "34:00"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Challenge from Rav Hamnuna: Multiple Oaths and Liability",
@@ -182,8 +182,8 @@
           "timestamp": "40:29"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Rava's Attempted Limitation of Rav Huna's Position",
@@ -206,7 +206,7 @@
           "timestamp": "45:51"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -235,7 +235,7 @@
           "timestamp": "50:10"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -249,7 +249,7 @@
           "timestamp": "53:52"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": false
     }
   ],
@@ -438,5 +438,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "50:10",
+  "amud_b_micro_title": "Hamnuna's Real Q",
+  "shiur_start_daf": 106,
+  "shiur_start_amud": "a"
 }

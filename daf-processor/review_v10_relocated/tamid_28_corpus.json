@@ -1,0 +1,399 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Squash & Porridge",
+    "candidates": [
+      "Cup Cleaning",
+      "Squash & Porridge",
+      "Officer Circulation",
+      "Sleeping Detection",
+      "Burning Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the exception for squash (kra) and porridge (daisa) and the molten lead simile, which is precisely what the 'Squash & Porridge' section's prose describes.",
+      "chosen_heading": "Squash & Porridge",
+      "current_heading": "Squash & Porridge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Burning Garments",
+    "candidates": [
+      "Officer Circulation",
+      "Sleeping Detection",
+      "Burning Garments",
+      "Ancient Discipline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Mishnah from Middot about the officer circulating among the watches, detecting sleeping watchmen, and burning their garments \u2014 exactly what heading 0 ('Officer Circulation') introduces with its prose about *tnan hatam* and the Mishnah from Middot being cited here.",
+      "chosen_heading": "Officer Circulation",
+      "current_heading": "Burning Garments",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Ancient Discipline",
+    "candidates": [
+      "Burning Garments",
+      "Ancient Discipline",
+      "Rebbi's Path",
+      "Rebuke Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya bar Abba's report of Rabbi Yo\u1e25anan's reaction to the mishna about punishing involuntary sleep, which is precisely what the 'Ancient Discipline' prose describes and discusses in detail.",
+      "chosen_heading": "Ancient Discipline",
+      "current_heading": "Ancient Discipline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rebuke Blessing",
+    "candidates": [
+      "Rebbi's Path",
+      "Rebuke Blessing",
+      "Emunah Trust",
+      "Rebuke Heaven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the baraita of Rabbi Yehuda HaNasi asking 'which is the upright path' and giving his answer (love of admonition) plus the 'some say' opinion about faithfulness \u2014 candidate 0's prose explicitly discusses this baraita in full, while candidates 1 and 2 discuss only the subsequent elaborations on each of those opinions separately.",
+      "chosen_heading": "Rebbi's Path",
+      "current_heading": "Rebuke Blessing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rebuke Heaven",
+    "candidates": [
+      "Emunah Trust",
+      "Rebuke Heaven",
+      "Lottery Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about rebuking for Heaven's sake, meriting God's portion, and the cord of chesed is directly discussed in the 'Rebuke Heaven' section's prose.",
+      "chosen_heading": "Rebuke Heaven",
+      "current_heading": "Rebuke Heaven",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Lottery Problem",
+    "candidates": [
+      "Lottery Problem",
+      "Before/After Edict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the internal contradiction (ha-gufa kashya) discussed in the 'Lottery Problem' prose \u2014 the tension between the first clause implying no lottery and the second clause implying a lottery \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Lottery Problem",
+      "current_heading": "Lottery Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Before/After Edict",
+    "candidates": [
+      "Before/After Edict",
+      "Broken Leg"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's resolution, the supporting mishna about the race, and the detail about extending fingers \u2014 are explicitly discussed in the 'Before/After Edict' prose, which quotes and explains all these elements as part of the pre-takkana procedure.",
+      "chosen_heading": "Before/After Edict",
+      "current_heading": "Before/After Edict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Broken Leg",
+    "candidates": [
+      "Broken Leg",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of the broken leg and the resulting enactment of the lottery, which is exactly what the 'Broken Leg' section's prose discusses.",
+      "chosen_heading": "Broken Leg",
+      "current_heading": "Broken Leg",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Rava's View",
+      "Pispas Opening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement explaining that both clauses of the Mishnah describe post-enactment procedure and that 'whoever wants to participate rises early and immerses,' which directly matches the 'Rava's View' prose discussing Rava's interpretation of the Mishnah's meaning.",
+      "chosen_heading": "Rava's View",
+      "current_heading": "Rava's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Pispas Opening",
+    "candidates": [
+      "Pispas Opening",
+      "Group Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes taking the key, opening the pishpesh/wicket, entering the courtyard, and the priests following with torches \u2014 exactly what the 'Pispas Opening' prose discusses in detail.",
+      "chosen_heading": "Pispas Opening",
+      "current_heading": "Pispas Opening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Group Division",
+    "candidates": [
+      "Group Division",
+      "Chavitin Start",
+      "Washing First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the division into two groups walking east and west along the portico and their inspection until reaching the chavitin chamber, which matches exactly the prose of heading 0 'Group Division' rather than heading 1 which focuses on the greeting and announcement after arrival.",
+      "chosen_heading": "Group Division",
+      "current_heading": "Group Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Washing First",
+    "candidates": [
+      "Chavitin Start",
+      "Washing First",
+      "Alone Walk",
+      "Kiyor Machinery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the lottery winner for trumat hadeshen being warned not to touch the vessel before washing from the kiyor, and notes where the machtah is placed \u2014 exactly what the 'Washing First' prose discusses.",
+      "chosen_heading": "Washing First",
+      "current_heading": "Washing First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Kiyor Machinery",
+    "candidates": [
+      "Alone Walk",
+      "Kiyor Machinery",
+      "Altar Ascent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Alone Walk",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the priest walking alone by the altar's light with no lamp and being unseen, which matches exactly the 'Alone Walk' prose discussing *ein adam nichnas imo*, no candle, walking by the fire's light, and the other priests not seeing him.",
+      "second_heading": "Kiyor Machinery",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes hearing the sound of Ben Katin's mechanism, the priests recognizing the time for sanctification, and taking the silver coal pan to ascend the altar \u2014 the first half matches the 'Kiyor Machinery' prose about the wooden gear mechanism and the signal to wash, and the final clause about taking the silver shovel and ascending leads into 'Altar Ascent'.",
+      "current_heading": "Kiyor Machinery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Altar Ascent",
+    "candidates": [
+      "Altar Ascent",
+      "Ash Piling",
+      "Balcony Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes heaping the coals on the floor three handbreadths from the ramp at the spot where bird-crop, inner altar ashes, and Candelabrum ashes are placed \u2014 exactly what the 'Ash Piling' section's prose discusses in detail, including the same three-handbreadths detail and the same three deposit types.",
+      "chosen_heading": "Ash Piling",
+      "current_heading": "Altar Ascent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Balcony Question",
+    "candidates": [
+      "Ash Piling",
+      "Balcony Question",
+      "Service Sequence",
+      "Water Heating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the Gemara's question about whether wooden porticoes existed in the azara, Rabbi Eliezer ben Yaakov's prohibition, and Rav \u1e24isda's resolution that the porticoes were made of stone \u2014 exactly what the 'Balcony Question' prose describes.",
+      "chosen_heading": "Balcony Question",
+      "current_heading": "Balcony Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Water Heating",
+    "candidates": [
+      "Service Sequence",
+      "Water Heating",
+      "Kohanim Rush",
+      "Clear Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question about whether chavitin precedes the Tamid and the baraita/Rav Yehuda answer \u2014 exactly the content described in candidate 0's prose about 'Service Sequence,' which explicitly discusses minayin she'ein davar kodem la-Tamid, ha-olah olah rishona, and the chavitin not being offered before the Tamid.",
+      "chosen_heading": "Service Sequence",
+      "current_heading": "Water Heating",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Clear Meat",
+    "candidates": [
+      "Kohanim Rush",
+      "Clear Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The hadaran formula marks the end of a chapter/tractate and doesn't clearly match either section's prose content, so the current placement is retained by default.",
+      "chosen_heading": "Clear Meat",
+      "current_heading": "Clear Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Clear Meat",
+    "candidates": [
+      "Clear Meat",
+      "Side Placement",
+      "Ash Pile",
+      "Festival Ashes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Clear Meat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the priests ascending with shovels and forks to clear unconsumed limbs, which matches the 'Clear Meat' prose discussing the magrefot/tzinorot ascent and the evarim/fedarim that hadn't burned through.",
+      "second_heading": "Side Placement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes clearing limbs to the sides of the altar and onto the sovev/ramp, which matches the 'Side Placement' prose discussing sokin/tzidei ha-mizbe'ach and the sovev arrangement exactly.",
+      "current_heading": "Clear Meat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Festival Ashes",
+    "candidates": [
+      "Side Placement",
+      "Ash Pile",
+      "Festival Ashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the tapuach (ash pile), its size of 300 kor, the festival practice of not clearing it, and the priest's diligence \u2014 all of which are explicitly discussed in the 'Ash Pile' prose, which covers the tapuach in detail including the 300 kur figure, whereas the 'Festival Ashes' section's prose actually summarizes this same content as its own conclusion, suggesting the passage belongs under 'Ash Pile' where it is first introduced.",
+      "chosen_heading": "Ash Pile",
+      "current_heading": "Festival Ashes",
+      "moved": true
+    }
+  }
+]

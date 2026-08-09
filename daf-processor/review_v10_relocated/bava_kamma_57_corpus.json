@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rabba vs. Rav Yosef",
+    "candidates": [
+      "Rabba vs. Rav Yosef",
+      "Rabba's Position",
+      "Rav Yosef: Hana'ah",
+      "Osek Bemitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dispute between Rabba and Rav Yosef about the status of a shomer aveidah, which is exactly what the prose under heading 0 describes as the opening machloket of the sugya.",
+      "chosen_heading": "Rabba vs. Rav Yosef",
+      "current_heading": "Rabba vs. Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Osek Bemitzvah",
+    "candidates": [
+      "Rabba's Position",
+      "Rav Yosef: Hana'ah",
+      "Osek Bemitzvah",
+      "Rav Yosef: Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabba's and Rav Yosef's positions in a single Talmudic excerpt, but since this is a single unified text item containing both opinions, it most naturally belongs under the first heading 'Rabba's Position' where the discussion begins, as the essay then elaborates each position separately in subsequent sections \u2014 however, given that candidate 0's prose covers Rabba and candidate 1's prose covers Rav Yosef's hana'ah argument (which is exactly what this passage contains), the passage as a whole unit introducing both positions fits best under candidate 0 as the opening statement before the detailed analysis unfolds.",
+      "chosen_heading": "Rabba's Position",
+      "current_heading": "Osek Bemitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Yosef: Obligation",
+    "candidates": [
+      "Osek Bemitzvah",
+      "Rav Yosef: Obligation",
+      "Pnei Yehoshua",
+      "Proof from Tosefta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the alternative explanation of Rav Yosef's position based on compelled divine obligation ('keivan d'Rachmana shabdei b'al karchai'), which is precisely what the 'Rav Yosef: Obligation' prose describes.",
+      "chosen_heading": "Rav Yosef: Obligation",
+      "current_heading": "Rav Yosef: Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Proof from Tosefta",
+    "candidates": [
+      "Pnei Yehoshua",
+      "Proof from Tosefta",
+      "Morning vs. Afternoon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pnei Yehoshua",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a mnemonic summary device that wraps up the preceding discussion and introduces what follows, and item 2 begins Rav Yosef's objection to Rabba \u2014 the mnemonic is a structural marker signaling a new unit, and the prose under 'Pnei Yehoshua' is the last section before the Tosefta challenge begins.",
+      "second_heading": "Proof from Tosefta",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 are the complete exchange between Rav Yosef and Rabba about the Tosefta (hechezira limkom sheyirena), which matches precisely the 'Proof from Tosefta' prose describing that same challenge and Rabba's response about peshia/negligence.",
+      "current_heading": "Proof from Tosefta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Morning vs. Afternoon",
+    "candidates": [
+      "Morning vs. Afternoon",
+      "Yam Shel Shlomo",
+      "Always Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two cases of morning vs. afternoon return and their respective liability outcomes, which is exactly what the 'Morning vs. Afternoon' section's prose describes.",
+      "chosen_heading": "Morning vs. Afternoon",
+      "current_heading": "Morning vs. Afternoon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Always Liable",
+    "candidates": [
+      "Yam Shel Shlomo",
+      "Always Liable",
+      "Animals Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's challenge about 'l'olam' meaning liability even in the shomer's house, which is precisely what the 'Always Liable' section's prose describes.",
+      "chosen_heading": "Always Liable",
+      "current_heading": "Always Liable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Animals Exception",
+    "candidates": [
+      "Animals Exception",
+      "Animals vs. Objects",
+      "Torah Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's direct statement conceding the animals exception and explaining why animals require extra safeguarding, which is precisely what the 'Animals Exception' prose discusses.",
+      "chosen_heading": "Animals Exception",
+      "current_heading": "Animals Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Torah Language",
+    "candidates": [
+      "Animals vs. Objects",
+      "Torah Language",
+      "Unenclosed Properties",
+      "Enclosed vs. Awareness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the drasha from hashev/tashivem about returning to the house vs. garden or ruin, which is precisely what the 'Torah Language' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Torah Language",
+      "current_heading": "Torah Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Enclosed vs. Awareness",
+    "candidates": [
+      "Unenclosed Properties",
+      "Enclosed vs. Awareness",
+      "Abaye's Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical unit: item 1 raises the question about enclosed vs. unenclosed properties, item 2 (Rav Yosef) resolves it by invoking the da'at ba'alim distinction, and item 3 cites Rabbi Elazar's ruling supporting that resolution \u2014 exactly the content described in the 'Enclosed vs. Awareness' prose.",
+      "chosen_heading": "Enclosed vs. Awareness",
+      "current_heading": "Enclosed vs. Awareness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Abaye's Source",
+    "candidates": [
+      "Abaye's Source",
+      "Definition of Claim",
+      "Armed Robbers",
+      "Ganav vs. Gazlan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form Abaye's challenge and Rav Yosef's immediate response about the kefel payment in the context of shomer aveidah, which is precisely what heading 0 ('Abaye's Source') discusses \u2014 the challenge from Rabbi Yochanan's ruling and Rav Yosef's armed bandit reply are all part of the same exchange that heading 0's prose covers.",
+      "chosen_heading": "Abaye's Source",
+      "current_heading": "Abaye's Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Ganav vs. Gazlan",
+    "candidates": [
+      "Definition of Claim",
+      "Armed Robbers",
+      "Ganav vs. Gazlan",
+      "Baraita Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Abaye-Rav Yosef exchange about whether listim mezuyan is a gazlan or ganav, which is precisely what candidate 2 ('Ganav vs. Gazlan') describes in its prose.",
+      "chosen_heading": "Ganav vs. Gazlan",
+      "current_heading": "Ganav vs. Gazlan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Baraita Rule",
+    "candidates": [
+      "Baraita Rule",
+      "Limited Exception",
+      "Immediate Payment",
+      "Thief Found Later",
+      "Machloket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's objection from the baraita \u2014 item 1 introduces the objection and item 2 is the baraita's content \u2014 which is precisely what the 'Baraita Rule' prose describes: the baraita's argument that a shomer sachar does not pay kefel, used to challenge Rav Yosef's position.",
+      "chosen_heading": "Baraita Rule",
+      "current_heading": "Baraita Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Machloket",
+    "candidates": [
+      "Limited Exception",
+      "Immediate Payment",
+      "Thief Found Later",
+      "Machloket",
+      "Rabbi Zeira",
+      "Intellectual Honesty",
+      "Why Kefel?",
+      "Owner Present",
+      "Ralbag Logic",
+      "Cushioning Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 11 items form a continuous chain: items 1-2 are Abaye's objection and Rav Yosef's response about the limited exception for listim mezuyan, items 3-5 are a second objection from a baraita about the borrower's a fortiori inference and Rav Yosef's reply, and items 6-11 introduce the socher case, the machloket between Rabbi Yehuda and Rabbi Meir (including Rabba bar Avuha's reversal), and Rabbi Zeira's resolution \u2014 exactly matching the 'Machloket' heading's prose which covers the socher case, the savruha ke-Rabbi Yehuda analysis, and the Rabba bar Avuha reversal.",
+      "chosen_heading": "Machloket",
+      "current_heading": "Machloket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Cushioning Benefit",
+    "candidates": [
+      "Rabbi Zeira",
+      "Intellectual Honesty",
+      "Why Kefel?",
+      "Owner Present",
+      "Ralbag Logic",
+      "Cushioning Benefit",
+      "Rav's Position"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Damage Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly makes the distinction between the animal being damaged versus the animal causing damage to others \u2014 exactly the content described in candidate 1's prose about 'damage direction' and the limits of the *hayah lah she-lo tochal* defense.",
+      "chosen_heading": "Damage Direction",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  }
+]

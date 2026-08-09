@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Forgot Eruv: Private Home",
+    "candidates": [
+      "Non-Jew Labor, Mitzvah",
+      "BaHaG & Opinions",
+      "Mechallel Shabbat Status",
+      "Rambam & Rav Moshe",
+      "Tzedoki & Habitual",
+      "Chashad Distinction",
+      "Forgot Eruv: Private Home",
+      "All Waive to One Person",
+      "Two Receivers Problem",
+      "Give & Receive Rules",
+      "Shammai vs. Hillel",
+      "Reassertion Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items are the opening of the Mishna on 69b covering the case of one resident who forgot to make an eruv and the consequences for carrying \u2014 exactly what heading 6 ('Forgot Eruv: Private Home') describes in its prose.",
+      "chosen_heading": "Forgot Eruv: Private Home",
+      "current_heading": "Forgot Eruv: Private Home",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Reassertion Debate",
+    "candidates": [
+      "All Waive to One Person",
+      "Two Receivers Problem",
+      "Give & Receive Rules",
+      "Shammai vs. Hillel",
+      "Reassertion Debate",
+      "Separate Domains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the Beit Shammai/Beit Hillel timing dispute for bittul reshut AND the Rabbi Meir/Rabbi Yehuda reassertion debate, and candidate 3 ('Shammai vs. Hillel') explicitly discusses the timing dispute while candidate 4 ('Reassertion Debate') discusses the reassertion content \u2014 but the passage begins with the timing question, and candidate 3's prose covers that first dispute, while candidate 4's prose covers exactly the Rabbi Meir/Rabbi Yehuda content that follows; since the passage contains both disputes together as one mishna unit and candidate 3 is the earlier heading that introduces the timing dispute (the first topic in the passage), and candidate 4's prose already fully describes the reassertion content, the passage most naturally belongs under candidate 3 which begins the discussion of this combined mishna \u2014 however, candidate 4's prose is actually a perfect match for the full passage content including both disputes, making the current placement the best fit.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Reassertion Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Separate Domains",
+    "candidates": [
+      "Reassertion Debate",
+      "Separate Domains",
+      "House Independence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the dilemma and resolution described in the 'Separate Domains' prose: the Gemara infers that the house is forbidden while the courtyard is permitted, then asks how that is possible and resolves it by distinguishing between waiving rights in the courtyard versus the house.",
+      "chosen_heading": "Separate Domains",
+      "current_heading": "Separate Domains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "House Independence",
+    "candidates": [
+      "House Independence",
+      "Guest Status Asymmetry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why their houses are permitted to him (he is a guest of theirs), which is exactly what the prose under 'House Independence' explains with the same Aramaic terms (veshelhen muttar lo u'lahem, mai taama, dehavei oreiach legabeihu).",
+      "chosen_heading": "House Independence",
+      "current_heading": "House Independence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Guest Status Asymmetry",
+    "candidates": [
+      "Guest Status Asymmetry",
+      "Conditional Waiver Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the guest asymmetry ruling, the inference about sequential waivers, and the Gemara's rejection of that inference \u2014 are explicitly discussed together in the 'Guest Status Asymmetry' prose, which covers exactly these points in sequence.",
+      "chosen_heading": "Guest Status Asymmetry",
+      "current_heading": "Guest Status Asymmetry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Conditional Waiver Fails",
+    "candidates": [
+      "Conditional Waiver Fails",
+      "Case 1: Non-Participant",
+      "Case 2: Two Give to One",
+      "Case 3: Give & Receive",
+      "Case 3b: Two Give to One",
+      "Case 4",
+      "Case 5: Two vs Two Non-P",
+      "Case 6: Non-Participants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what Candidate 0's prose describes: two people who forgot to make an eruv, others waiving to both, then one waiving to the other, and why this fails because the initial waiver was ineffective \u2014 matching the 'Conditional Waiver Fails' section precisely.",
+      "chosen_heading": "Conditional Waiver Fails",
+      "current_heading": "Conditional Waiver Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Case 6: Non-Participants",
+    "candidates": [
+      "Case 1: Non-Participant",
+      "Case 2: Two Give to One",
+      "Case 3: Give & Receive",
+      "Case 3b: Two Give to One",
+      "Case 4",
+      "Case 5: Two vs Two Non-P",
+      "Case 6: Non-Participants",
+      "Rava: Deaths Hypothesis",
+      "Abaye: Collective Rep",
+      "Case Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "medium",
+      "reason": "The passage discusses the Gemara's question about why the mishna's 'one may give rights' clause is needed, and the answer involving the novel teaching that two may give rights along with the decree-concern about renouncing to two \u2014 this matches the Case Analysis section's discussion of Cases 2 and 3's chiddushim (specifically the 'mahu de-teima / ka mashma lan' language and the concern about abandoning eruv practice), rather than Case 6's prose which discusses entirely different failing cases.",
+      "chosen_heading": "Case Analysis",
+      "current_heading": "Case 6: Non-Participants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Case Analysis",
+    "candidates": [
+      "Rava: Deaths Hypothesis",
+      "Abaye: Collective Rep",
+      "Case Analysis",
+      "Givers; Receivers Debate",
+      "Rava's Question",
+      "Continuation vs. New",
+      "Rav Nachman Answer",
+      "Begin Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage works through each case of the baraita explaining the chiddush according to both Abaye and Rava, which is precisely what the 'Case Analysis' prose describes in detail.",
+      "chosen_heading": "Case Analysis",
+      "current_heading": "Case Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Begin Permitted",
+    "candidates": [
+      "Givers; Receivers Debate",
+      "Rava's Question",
+      "Continuation vs. New",
+      "Rav Nachman Answer",
+      "Begin Permitted",
+      "Sealed Openings",
+      "Walls Fall",
+      "Begin Forbidden",
+      "Wall Built on Shabbat",
+      "Bittul Exception",
+      "Dies Before Shabbat",
+      "Dies on Shabbat",
+      "Marketplace to Courtyard",
+      "Forbidden Until Bittul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage \u2014 from Rava's initial dilemma about whether an heir may perform bittul reshut, through Rav Nachman's answer, the baraita challenge, and all the subsequent cases \u2014 is the continuous discussion of the heir question that heading 1 ('Rava's Question') explicitly introduces, whereas the current placement under heading 4 ('Begin Permitted') only covers the baraita principle that appears mid-discussion as a challenge, not the framing question itself.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Begin Permitted",
+      "moved": true
+    }
+  }
+]

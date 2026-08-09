@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Six Formulations",
+    "candidates": [
+      "Six Formulations",
+      "Ambiguous Formulations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the six formulations presented in two groups of three and the gemara's explanation for why they are split, which exactly matches the prose under 'Six Formulations'.",
+      "chosen_heading": "Six Formulations",
+      "current_heading": "Six Formulations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Ambiguous Formulations",
+    "candidates": [
+      "Ambiguous Formulations",
+      "Charufah Usage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists exactly the ambiguous formulations (meiyuchedet, meyu'edet, ezrati, negdati, atzurati, tzalati, segurati, tachtai, tefusati, lekuchati) that are discussed in candidate 0's prose, which directly addresses this series of dilemmas.",
+      "chosen_heading": "Ambiguous Formulations",
+      "current_heading": "Ambiguous Formulations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Charufah Usage",
+    "candidates": [
+      "Charufah Usage",
+      "Context Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Context Requirement",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses 'leku\u1e25ati' (my taken one) as a valid betrothal term, which seems to be a closing resolution of a prior dilemma rather than the charufati discussion; however, the prose under 'Charufah Usage' does not explicitly mention this term, suggesting it may belong to a prior section not listed here, yet the current placement is the closest available.",
+      "second_heading": "Charufah Usage",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 discuss exactly the charufati dilemma, the baraita, the Judean usage, and the gemara's two-stage revision that the 'Charufah Usage' prose describes in detail.",
+      "current_heading": "Charufah Usage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Context Requirement",
+    "candidates": [
+      "Context Requirement",
+      "Yossi vs. Yehudah",
+      "Halachah Follows R. Yossi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous gemara discussion about the context requirement for ambiguous betrothal expressions \u2014 whether the parties must be mid-conversation about kiddushin \u2014 which is precisely what the 'Context Requirement' prose describes, including the Rabbi Yose/Yehudah mishna citation, the teiku resolution, and the middle-case analysis about ambiguous statements being more problematic than silence.",
+      "chosen_heading": "Context Requirement",
+      "current_heading": "Context Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Halachah Follows R. Yossi",
+    "candidates": [
+      "Yossi vs. Yehudah",
+      "Halachah Follows R. Yossi",
+      "Witnesses & Intent",
+      "Divorce Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about the case of speaking with a woman about her get/kiddushin without clarifying \u2014 covering the Rabbi Yosei/Rabbi Yehudah dispute, the 'asukin be-oto inyan' qualification, Abaye's elaboration, and the final ruling that halachah follows Rabbi Yosei \u2014 which matches exactly the prose of candidate 1 ('Halachah Follows R. Yossi').",
+      "chosen_heading": "Halachah Follows R. Yossi",
+      "current_heading": "Halachah Follows R. Yossi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Divorce Language",
+    "candidates": [
+      "Witnesses & Intent",
+      "Divorce Language",
+      "Reversed Language",
+      "Le'Atzmaych Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Divorce Language",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers valid divorce formulations (meshulachet, megureshet, muteret le-chol adam), which is precisely what the 'Divorce Language' prose describes.",
+      "second_heading": "Reversed Language",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the ineffective switched formulas (bat chorin said to wife, muteret le-chol adam said to slave), which is exactly what the 'Reversed Language' prose describes.",
+      "current_heading": "Divorce Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Le'Atzmaych Question",
+    "candidates": [
+      "Reversed Language",
+      "Le'Atzmaych Question",
+      "Ein Li Esek Bakh",
+      "Ono Document"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Le'Atzmaych Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 directly address the 'harei at le-atzmekh' question and the kal va-chomer from the get shichrur baraita, which is precisely what candidate 1's prose describes.",
+      "second_heading": "Ein Li Esek Bakh",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the new question of 'ein li esek bakh' said to a slave, which is exactly what candidate 2's prose describes as its topic.",
+      "current_heading": "Le'Atzmaych Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Ono Document",
+    "candidates": [
+      "Ein Li Esek Bakh",
+      "Ono Document",
+      "Loan Disqualified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe exactly what candidate 1 ('Ono Document') prose describes: Rav Nachman/Rav Chanin citing the case of selling a slave to a gentile requiring a get shichrur, followed by Rabban Shimon ben Gamliel's qualification about the ono document and Rav Sheshet's explanation of its formula \u2014 the current placement is correct.",
+      "chosen_heading": "Ono Document",
+      "current_heading": "Ono Document",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Loan Disqualified",
+    "candidates": [
+      "Loan Disqualified",
+      "Extending Loan Term",
+      "Ribit Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and begin to clarify Abaye's ruling on betrothal with a loan versus the benefit of a loan, which is precisely what the 'Loan Disqualified' section's prose discusses \u2014 the basic ruling that kiddushin with a loan fails and the opening clarification of what 'benefit of the loan' means.",
+      "chosen_heading": "Loan Disqualified",
+      "current_heading": "Loan Disqualified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Ribit Problem",
+    "candidates": [
+      "Extending Loan Term",
+      "Ribit Problem",
+      "Loan Forgiveness",
+      "Conditional Gift Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'lo tzricha de-arvach lah zimna' (he extended the time for her) directly explains the mechanism of extending a loan term, which is the specific content discussed in the 'Extending Loan Term' section's prose, not the 'Ribit Problem' section where it currently sits.",
+      "chosen_heading": "Extending Loan Term",
+      "current_heading": "Ribit Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Conditional Gift Cases",
+    "candidates": [
+      "Loan Forgiveness",
+      "Conditional Gift Cases",
+      "Conditional Gifts (II)",
+      "Girsa Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the core Rava passage about matanah al menat lehachzir across the various domains (mecher, kiddushin, pidyon haben, terumah) plus the Gemara's internal challenge about the etrog case \u2014 exactly what the 'Conditional Gift Cases' prose describes as the content it introduces and the tension it sets up.",
+      "chosen_heading": "Conditional Gift Cases",
+      "current_heading": "Conditional Gift Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Girsa Dispute",
+    "candidates": [
+      "Conditional Gifts (II)",
+      "Girsa Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's corrected girsa ruling and Rav Huna's confirmation, which is precisely what the 'Girsa Dispute' section's prose describes in detail.",
+      "chosen_heading": "Girsa Dispute",
+      "current_heading": "Girsa Dispute",
+      "moved": false
+    }
+  }
+]

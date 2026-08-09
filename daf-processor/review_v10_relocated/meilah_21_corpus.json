@@ -1,0 +1,439 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Window/Box Case",
+    "candidates": [
+      "Intro to Daf 21",
+      "Ravad's Expansion",
+      "Shlichus Yad vs Rights",
+      "Rambam on Kedusha Loss",
+      "Intro to Shaliach",
+      "Window/Box Case",
+      "Act of Meilah Location",
+      "Shaliach Deviation",
+      "Incompetent Agents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing both the window/chest case and the shaliach deviation case, and the prose of 'Intro to Shaliach' (index 4) explicitly sets up this mishnah at the top of daf 21a as the entry point to the chapter, making it the natural home before the case-by-case analysis begins.",
+      "chosen_heading": "Intro to Shaliach",
+      "current_heading": "Window/Box Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Incompetent Agents",
+    "candidates": [
+      "Act of Meilah Location",
+      "Shaliach Deviation",
+      "Incompetent Agents",
+      "Gemara Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about sending consecrated money through a deaf-mute, imbecile, or minor, which is precisely what the 'Incompetent Agents' section prose describes and analyzes.",
+      "chosen_heading": "Incompetent Agents",
+      "current_heading": "Incompetent Agents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Gemara Question",
+    "candidates": [
+      "Gemara Question",
+      "Olives Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items relate to the competent-agent sub-case (sender remembers, storekeeper becomes mo'el, the prutah redemption remedy) and the Gemara's immediate question on that mishna \u2014 all explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Gemara Question",
+      "current_heading": "Gemara Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Olives Analogy",
+    "candidates": [
+      "Olives Analogy",
+      "Monkey/Elephant Proof",
+      "Tosafos Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the opening question about incompetent messengers and Rabbi Elazar's olives-vat analogy with its supporting mishna from Teharot \u2014 exactly what the 'Olives Analogy' prose describes.",
+      "chosen_heading": "Olives Analogy",
+      "current_heading": "Olives Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Tosafos Challenge",
+    "candidates": [
+      "Monkey/Elephant Proof",
+      "Tosafos Challenge",
+      "Causal Involvement",
+      "Shav Ve'afikeih",
+      "Braisa: One Remembers",
+      "Both Remember",
+      "Problem of Ones",
+      "Mountains/Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's proof from the monkey/elephant eiruv case, which is precisely what the 'Monkey/Elephant Proof' section's prose describes, not the Tosafos challenge that follows it.",
+      "chosen_heading": "Monkey/Elephant Proof",
+      "current_heading": "Tosafos Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Mountains/Hair",
+    "candidates": [
+      "Causal Involvement",
+      "Shav Ve'afikeih",
+      "Braisa: One Remembers",
+      "Both Remember",
+      "Problem of Ones",
+      "Mountains/Hair",
+      "Half/Half Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the challenge from the baraita (nizkar ba'al habayis velo nizkar shaliach) and Rav Sheshet's resolution, which is precisely what candidate 2 ('Braisa: One Remembers') describes \u2014 the contradiction between the mishnah and the baraita about who is mo'el when only one party remembers \u2014 with candidate 3 ('Both Remember') handling Rav Sheshet's answer, but since item 2 is Rav Sheshet's resolution and item 1 is the contradiction, they belong together under the heading that introduces the braisa contradiction, which is candidate 2.",
+      "chosen_heading": "Braisa: One Remembers",
+      "current_heading": "Mountains/Hair",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Half/Half Case",
+    "candidates": [
+      "Mountains/Hair",
+      "Half/Half Case",
+      "Both Not Moel",
+      "Store Deviation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah presenting the half/half case where neither party is liable for me'ilah, which is exactly what the 'Half/Half Case' prose discusses.",
+      "chosen_heading": "Half/Half Case",
+      "current_heading": "Half/Half Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Store Deviation",
+    "candidates": [
+      "Both Not Moel",
+      "Store Deviation",
+      "Etrog/Pomegranate",
+      "Rabbi Yehuda Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Store Deviation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the store-deviation case where the agent reverses which store he visits for lamps vs. wicks, which is precisely what the 'Store Deviation' prose discusses.",
+      "second_heading": "Etrog/Pomegranate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new case (two perutot, etrog instruction, agent buys etrog and pomegranate) that matches the 'Etrog/Pomegranate' prose exactly.",
+      "current_heading": "Store Deviation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rabbi Yehuda Dispute",
+    "candidates": [
+      "Etrog/Pomegranate",
+      "Rabbi Yehuda Dispute",
+      "Shirt/Tallis Case",
+      "Cheap Shirt",
+      "Half Purchase Inference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shirt/Tallis Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 opens the shirt/tallis case (gold dinar given, instructions to buy a robe), which is exactly what heading 2 'Shirt/Tallis Case' describes.",
+      "second_heading": "Cheap Shirt",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yehuda's dissent on the shirt case ('I wanted a large robe and you brought me a small inferior one'), which is precisely what heading 3 'Cheap Shirt' describes.",
+      "current_heading": "Rabbi Yehuda Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Half Purchase Inference",
+    "candidates": [
+      "Shirt/Tallis Case",
+      "Cheap Shirt",
+      "Half Purchase Inference",
+      "Sale Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's inference about an agent who purchases a half-kor when instructed to buy a full kor, which is precisely what the 'Half Purchase Inference' prose section discusses.",
+      "chosen_heading": "Half Purchase Inference",
+      "current_heading": "Half Purchase Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Sale Resolution",
+    "candidates": [
+      "Sale Resolution",
+      "Sale vs Half Task",
+      "Full Expenditure Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's challenge to the 'worth six for three' resolution \u2014 item 1 introduces that reading and item 2 immediately refutes it with Rabbi Yehuda's statement \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Sale Resolution",
+      "current_heading": "Sale Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Full Expenditure Point",
+    "candidates": [
+      "Sale vs Half Task",
+      "Full Expenditure Point",
+      "Kitnis Concession",
+      "Why Kitnis Differs",
+      "Bargain Principle",
+      "Rav Papa's Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Full Expenditure Point",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's explanation of Rabbi Yehuda's 'full expenditure' argument \u2014 exactly the content described in the 'Full Expenditure Point' prose about spending the full dinar to get a shirt worth two dinars.",
+      "second_heading": "Kitnis Concession",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the Tosefta's kitnis concession by Rabbi Yehuda, which is precisely what the 'Kitnis Concession' section's prose describes as the braisa cited next in the sugya.",
+      "current_heading": "Full Expenditure Point",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rav Papa's Answer",
+    "candidates": [
+      "Kitnis Concession",
+      "Why Kitnis Differs",
+      "Bargain Principle",
+      "Rav Papa's Answer",
+      "Bound/Unbound",
+      "Implicit Permission",
+      "Chanvani Liability",
+      "Rambam View",
+      "Regular Homeowner",
+      "Chanvani Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's resolution about fixed-price markets (kanei kanei, beperuta), which is precisely what the 'Rav Papa's Answer' section prose describes.",
+      "chosen_heading": "Rav Papa's Answer",
+      "current_heading": "Rav Papa's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Chanvani Status",
+    "candidates": [
+      "Bound/Unbound",
+      "Implicit Permission",
+      "Chanvani Liability",
+      "Rambam View",
+      "Regular Homeowner",
+      "Chanvani Status",
+      "Coin Drop",
+      "Rabbi Akiva",
+      "Chachamim View",
+      "Batel BeRov Q",
+      "Asham Taluy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself (the primary text), which introduces all the cases \u2014 bound/unbound with a money changer, homeowner, and storekeeper dispute \u2014 and belongs under the 'Bound/Unbound' heading that opens discussion of this mishnah, not under 'Chanvani Status' which discusses only the final dispute about the storekeeper.",
+      "chosen_heading": "Bound/Unbound",
+      "current_heading": "Chanvani Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Asham Taluy",
+    "candidates": [
+      "Coin Drop",
+      "Rabbi Akiva",
+      "Chachamim View",
+      "Batel BeRov Q",
+      "Asham Taluy",
+      "Status/Ownership",
+      "Explicit Exemption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Coin Drop",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the core mishnah dispute between Rabbi Akiva and the Chachamim about when me'ilah occurs, which matches heading 0 ('Coin Drop') that introduces exactly this scenario of a hekdesh coin falling into a purse or being declared without specification.",
+      "second_heading": "Explicit Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the u-modeh Rabbi Akiva le-Chachamim concession case (pruta min hakis vs. pruta bekis), which heading 6 ('Explicit Exemption') explicitly describes in its prose with the same language and distinction.",
+      "current_heading": "Asham Taluy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Explicit Exemption",
+    "candidates": [
+      "Status/Ownership",
+      "Explicit Exemption",
+      "In vs From",
+      "Reish Lakish Q",
+      "Yochanan Answer",
+      "Oxen Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Reish Lakish's challenge to Rabbi Yo\u1e25anan (mai shna reisha u-mai shna seifa) and Rabbi Yo\u1e25anan's direct response, which is exactly what candidate 3 ('Reish Lakish Q') and candidate 4 ('Yochanan Answer') describe \u2014 but since both items form one continuous exchange (question + answer), they belong under the heading whose prose introduces Reish Lakish's challenge, i.e., candidate 3, with the answer naturally following; however, since candidate 4's prose describes Rabbi Yo\u1e25anan's answer (lo yipater kis zeh) which is item 2's content, and the two items are one unbroken exchange, the best single heading that captures the opening of this exchange is candidate 3.",
+      "chosen_heading": "Reish Lakish Q",
+      "current_heading": "Explicit Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Oxen Parallel",
+    "candidates": [
+      "In vs From",
+      "Reish Lakish Q",
+      "Yochanan Answer",
+      "Oxen Parallel",
+      "Wine/Breira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the oxen parallel contradiction raised by Reish Lakish (via Ravin) and Rabbi Yochanan's answer about 'lo yipater kis zeh min hahekdesh,' which matches precisely what the 'Oxen Parallel' prose section describes.",
+      "chosen_heading": "Oxen Parallel",
+      "current_heading": "Oxen Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166,
+      167,
+      168,
+      169
+    ],
+    "current_heading": "Wine/Breira",
+    "candidates": [
+      "Wine/Breira",
+      "Breira Challenge",
+      "Final Resolution",
+      "End of Meilah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Final Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous sugya about the breira challenge and its resolution (lo yipater kis zeh min hahekdesh), matching the 'Final Resolution' section's prose about how the seifa works with explicit declaration.",
+      "second_heading": "End of Meilah",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the hadran/closing formula marking the end of Masechet Meilah, which belongs under 'End of Meilah'.",
+      "current_heading": "Wine/Breira",
+      "moved": true
+    }
+  }
+]

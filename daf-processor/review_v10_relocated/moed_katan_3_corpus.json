@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Categories Applied",
+    "candidates": [
+      "Davar ha'avad & Tircha",
+      "Rabba vs. Rav Yosef",
+      "Categories Applied",
+      "Chol HaMoed Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the kilayim verse from Leviticus, directly supporting the discussion in 'Categories Applied' about how the Rabba\u2013Rav Yosef debate extends to kilayim and the question of mekayem kilayim carrying liability.",
+      "chosen_heading": "Categories Applied",
+      "current_heading": "Categories Applied",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Chol HaMoed Logic",
+    "candidates": [
+      "Chol HaMoed Logic",
+      "Tircha vs. Melacha",
+      "Shemita Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's return to cite the mishna's opening statement about irrigating during Chol HaMoed and shemita, which directly matches the 'Chol HaMoed Logic' section's prose that begins by citing exactly this mishna text.",
+      "chosen_heading": "Chol HaMoed Logic",
+      "current_heading": "Chol HaMoed Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Shemita Problem",
+    "candidates": [
+      "Tircha vs. Melacha",
+      "Shemita Problem",
+      "Rabbi's Two Shemitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'but shemita?' and questions how watering can be permitted during the sabbatical year \u2014 exactly matching the 'Shemita Problem' section's prose which describes this as the central question the Gemara sets out to resolve.",
+      "chosen_heading": "Shemita Problem",
+      "current_heading": "Shemita Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rabbi's Two Shemitot",
+    "candidates": [
+      "Rabbi's Two Shemitot",
+      "Conditional Application",
+      "Post-Churban Status",
+      "Avot vs. Toladot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's statement and the baraita recording Rabbi's derivation of two shemitot from the verse, which is precisely what the prose in heading 0 ('Rabbi's Two Shemitot') describes.",
+      "chosen_heading": "Rabbi's Two Shemitot",
+      "current_heading": "Rabbi's Two Shemitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Avot vs. Toladot",
+    "candidates": [
+      "Conditional Application",
+      "Post-Churban Status",
+      "Avot vs. Toladot",
+      "Textual Evidence",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Post-Churban Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi's conditional equation of shemitat karka and shemitat kesafim, which is precisely what candidates 0 and 1 discuss \u2014 the post-churban status and conditional application of shemita \u2014 not the avot/toladot distinction.",
+      "second_heading": "Avot vs. Toladot",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 present Rava's avot/toladot argument and the textual derivation from the shemita verse, which is exactly what candidate 2 ('Avot vs. Toladot') and candidate 3 ('Textual Evidence') discuss, and the current placement under candidate 2 is correct for this block.",
+      "current_heading": "Avot vs. Toladot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Textual Evidence",
+      "Baraita Challenge",
+      "Asmachta Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are the baraita challenge to Rava's position, deriving broad prohibitions from 'sadcha lo, karmecha lo' and then carving out a limiting principle \u2014 exactly what the 'Baraita Challenge' prose describes in detail.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Asmachta Resolution",
+    "candidates": [
+      "Asmachta Resolution",
+      "Lashes Question",
+      "Klal u'Prat Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the asmachta rejection, the question about kiskus being permitted, and Rav Ukva bar \u1e24ama's two-type resolution \u2014 are explicitly discussed in the 'Asmachta Resolution' prose, which is the current placement and clearly the best match.",
+      "chosen_heading": "Asmachta Resolution",
+      "current_heading": "Asmachta Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Klal u'Prat Rule",
+    "candidates": [
+      "Lashes Question",
+      "Klal u'Prat Rule",
+      "No Rabbi Avin",
+      "Rava's Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The entire passage is a continuous sugya about the lashes dispute for plowing, centered on the klal u'frat u'klal hermeneutical discussion including its rejection and the baraita challenge, which Candidate 1's prose explicitly describes as its topic.",
+      "chosen_heading": "Klal u'Prat Rule",
+      "current_heading": "Klal u'Prat Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rava's Specificity",
+    "candidates": [
+      "No Rabbi Avin",
+      "Rava's Specificity",
+      "Dimi's Confusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly support Rava's framework discussed in candidate 1: item 1 is the baraita showing many labors are prohibited (the broad view), and item 2 is the Gemara's rejection limiting those prohibitions to rabbinic law \u2014 precisely the distinction between Biblical and Rabbinic liability that candidate 1's prose elaborates as Rava's limiting position.",
+      "chosen_heading": "Rava's Specificity",
+      "current_heading": "Rava's Specificity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Dimi's Confusion",
+    "candidates": [
+      "Dimi's Confusion",
+      "Tosefet as Activities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records Rav Dimi's report and his confession of not knowing the teaching or the addition, which is precisely what heading 0 ('Dimi's Confusion') and its prose describe.",
+      "chosen_heading": "Dimi's Confusion",
+      "current_heading": "Dimi's Confusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Tosefet as Activities",
+    "candidates": [
+      "Tosefet as Activities",
+      "Tosefet as Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Elazar's view that the tosefet in question refers to plowing (charisha) as an additional activity derived via klal u'frat u'klal, and the reasoning for exemption from lashes based on the Torah's specific enumeration \u2014 precisely what the 'Tosefet as Activities' prose describes.",
+      "chosen_heading": "Tosefet as Activities",
+      "current_heading": "Tosefet as Activities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Tosefet as Days",
+    "candidates": [
+      "Tosefet as Days",
+      "Mishna Periods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yo\u1e25anan's interpretation of tosefet as extra days added before Rosh HaShana of shemita, the derivation from 'bacharish u'vakatzir tishbot,' and the question of whether lashes apply \u2014 all of which are precisely what the 'Tosefet as Days' prose section discusses in detail.",
+      "chosen_heading": "Tosefet as Days",
+      "current_heading": "Tosefet as Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Mishna Periods",
+    "candidates": [
+      "Mishna Periods",
+      "Gamliel Annuls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the full Mishnaic passage from Shevi'it about plowing cutoff periods (orchard and white field) plus Rabbi Shimon's standardization, which is exactly what the 'Mishna Periods' prose describes in detail.",
+      "chosen_heading": "Mishna Periods",
+      "current_heading": "Mishna Periods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Gamliel Annuls",
+    "candidates": [
+      "Gamliel Annuls",
+      "Override Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Rabban Gamliel and his court voting to nullify the two periods, which is exactly what the 'Gamliel Annuls' section's prose describes.",
+      "chosen_heading": "Gamliel Annuls",
+      "current_heading": "Gamliel Annuls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Override Problem",
+    "candidates": [
+      "Override Problem",
+      "Stipulation Clause"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the question about how Rabban Gamliel's court could override Beit Shammai and Beit Hillel's ordinance, which is precisely what the 'Override Problem' section's prose describes and quotes.",
+      "chosen_heading": "Override Problem",
+      "current_heading": "Override Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Stipulation Clause",
+    "candidates": [
+      "Stipulation Clause",
+      "Eser Netiyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the stipulation clause text ('whoever wishes to nullify may come and nullify it'), which is precisely what the 'Stipulation Clause' prose section discusses.",
+      "chosen_heading": "Stipulation Clause",
+      "current_heading": "Stipulation Clause",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Eser Netiyot",
+    "candidates": [
+      "Eser Netiyot",
+      "Implication",
+      "Month & Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question 'Is this theirs?' and the answer that these three halakhot are from Sinai, which is exactly what the prose under 'Eser Netiyot' describes as the focus of that section.",
+      "chosen_heading": "Eser Netiyot",
+      "current_heading": "Eser Netiyot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Month & Extension",
+    "candidates": [
+      "Implication",
+      "Month & Extension",
+      "Rabbinic Portion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yitzchak's teaching that the halacha l'Moshe mi'Sinai established a thirty-day tosefet before Rosh Hashanah, and that Beit Shammai and Beit Hillel extended it from Pesach and Shavuot, which is precisely what the 'Month & Extension' prose section explains.",
+      "chosen_heading": "Month & Extension",
+      "current_heading": "Month & Extension",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Motar: Meir vs. Yochanan",
+    "candidates": [
+      "Intro: Labor Ownership",
+      "Rashi vs. Tosafot",
+      "Motar: Meir vs. Yochanan",
+      "After Death Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's answer about the latter clause (seifa) being necessary because of the dispute between Rabbi Meir and Rabbi Yochanan HaSandlar regarding the surplus (motar), which is precisely what the 'Motar: Meir vs. Yochanan' section's prose describes.",
+      "chosen_heading": "Motar: Meir vs. Yochanan",
+      "current_heading": "Motar: Meir vs. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "After Death Kiddushin",
+    "candidates": [
+      "After Death Kiddushin",
+      "Davar Shelo Ba L'olam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly concern the debate about whether Rabbi Meir's position rests on davar shelo ba l'olam or on his ability to compel her earnings (Reish Lakish's alternative), followed by a challenge from a baraita showing Rabbi Meir does hold davar shelo ba l'olam \u2014 precisely the content described in candidate 1's prose.",
+      "chosen_heading": "Davar Shelo Ba L'olam",
+      "current_heading": "After Death Kiddushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Davar Shelo Ba L'olam",
+    "candidates": [
+      "After Death Kiddushin",
+      "Davar Shelo Ba L'olam",
+      "Motar Sanctified Alive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the inferential debate about what can be learned from Rabbi Meir's mishna versus the baraita, which aligns with the 'Davar Shelo Ba L'olam' section's discussion of how Rabbi Meir's position is understood and what the core of the dispute actually is.",
+      "chosen_heading": "Davar Shelo Ba L'olam",
+      "current_heading": "Davar Shelo Ba L'olam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Motar Sanctified Alive",
+    "candidates": [
+      "Motar Sanctified Alive",
+      "Forfeiture Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute about when the surplus becomes consecrated \u2014 Rav and Shmuel saying after death vs. Rav Adda bar Ahava saying while alive \u2014 which is precisely what the 'Motar Sanctified Alive' section's prose discusses.",
+      "chosen_heading": "Motar Sanctified Alive",
+      "current_heading": "Motar Sanctified Alive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Forfeiture Conditions",
+    "candidates": [
+      "Forfeiture Conditions",
+      "Common-to-Common Logic",
+      "Fixed-to-Fixed Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's question about which scenario (with/without mezonot and ma'ah kesef) underlies the dispute, and then resolves it as the case where he provides mezonot but not ma'ah kesef \u2014 exactly what the 'Forfeiture Conditions' prose describes as the gemara examining which configuration causes the husband to forfeit rights to the motar.",
+      "chosen_heading": "Forfeiture Conditions",
+      "current_heading": "Forfeiture Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Fixed-to-Fixed Logic",
+    "candidates": [
+      "Common-to-Common Logic",
+      "Fixed-to-Fixed Logic",
+      "Practical Consequences",
+      "Pin Money Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the common-to-common (midi deshachich) and fixed-to-fixed (midi dekaitz) positions simultaneously as a paired explanation of their disagreement, which matches heading 0's prose that introduces and explains both views together, rather than heading 1 which focuses solely on elaborating the fixed-to-fixed position.",
+      "chosen_heading": "Common-to-Common Logic",
+      "current_heading": "Fixed-to-Fixed Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Pin Money Baraita",
+    "candidates": [
+      "Practical Consequences",
+      "Pin Money Baraita",
+      "Gemara Reinterprets",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All three items form a continuous chain of objections and answers about whether the ma'ah kesef corresponds to core ma'aseh yadeha or the motar, which matches the 'Pin Money Baraita' section's description of the mishnah challenge \u2014 though the final resolution item 3 also fits 'Gemara Reinterprets'; keeping current placement is preferred since the prose of heading 1 explicitly describes the very mishnah and its quota clause that items 2-3 address, and heading 2's prose summarizes the resolution rather than hosting the raw text.",
+      "chosen_heading": "Pin Money Baraita",
+      "current_heading": "Pin Money Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Gemara Reinterprets",
+      "Shmuel's Position",
+      "Konam vs. Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records Shmuel's ruling that the halakha follows Rabbi Yo\u1e25anan the Cobbler, which is precisely what candidate 1 ('Shmuel's Position') discusses \u2014 Shmuel's ruling halacha ke-Rabbi Yochanan HaSandlar and its implications for davar shelo ba l'olam.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Shmuel's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Konam vs. Kiddushin",
+    "candidates": [
+      "Konam vs. Kiddushin",
+      "Konam at Divorce",
+      "Motar Yedei Hadachak",
+      "Divorce Trigger Rule",
+      "Identity Change Power",
+      "Identity Examples",
+      "Fruit Analogy",
+      "Abaye's Logic",
+      "Hands Exist Now",
+      "Ownership Objection",
+      "Future Ownership Trigger",
+      "Resurfacing Ownership",
+      "Death Before Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous dialectical unit about whether Shmuel's ruling like Rabbi Yochanan ben Nuri regarding konam contradicts his ruling like Rabbi Yochanan HaSandlar, with successive attempts at resolution (hadafa, Rav Yosef's konam distinction, Abaye's objection, Rav Huna's hands-exist answer, and the divorce-trigger), which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Konam vs. Kiddushin",
+      "current_heading": "Konam vs. Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Death Before Divorce",
+    "candidates": [
+      "Konam at Divorce",
+      "Motar Yedei Hadachak",
+      "Divorce Trigger Rule",
+      "Identity Change Power",
+      "Identity Examples",
+      "Fruit Analogy",
+      "Abaye's Logic",
+      "Hands Exist Now",
+      "Ownership Objection",
+      "Future Ownership Trigger",
+      "Resurfacing Ownership",
+      "Death Before Divorce",
+      "Field Repurchase",
+      "Lack of Control"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the gemara's challenge 'is there anything that cannot be consecrated now but can be consecrated in the future?' and Rabbi Elai's field-repurchase response, which is exactly what the prose under 'Death Before Divorce' (index 11) describes.",
+      "chosen_heading": "Death Before Divorce",
+      "current_heading": "Death Before Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Lack of Control",
+    "candidates": [
+      "Field Repurchase",
+      "Lack of Control",
+      "Body Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of Rabbi Yirmiyah's objection and Rav Pappa's counter-objection about field analogies, which is precisely what the 'Lack of Control' prose describes \u2014 Rabbi Yirmiyah's reformulated analogy (post-sale declaration = void) and Rav Pappa's distinction between full ownership vs. body ownership (*gufa beyadah hu*) and the mortgage analogy.",
+      "chosen_heading": "Lack of Control",
+      "current_heading": "Lack of Control",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Body Ownership",
+    "candidates": [
+      "Body Ownership",
+      "Identity vs. Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Sheisha's and Rav Ashi's successive objections about the mortgaged-field analogy and the woman's inability to divorce herself \u2014 precisely the content described in candidate 0's prose about the ten-year redemption analogy and Rav Ashi's decisive objection.",
+      "chosen_heading": "Body Ownership",
+      "current_heading": "Body Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Identity vs. Ownership",
+    "candidates": [
+      "Identity vs. Ownership",
+      "Husband's Lien Strength"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's resolution that konamot operate through kedushat haguf and cites Rava's rule about hekdesh/chametz/shichrur abrogating liens \u2014 precisely the content discussed in the 'Identity vs. Ownership' prose section.",
+      "chosen_heading": "Identity vs. Ownership",
+      "current_heading": "Identity vs. Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Husband's Lien Strength",
+    "candidates": [
+      "Husband's Lien Strength",
+      "Core Duties List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Sages reinforcing the husband's lien to prevent the konam from taking effect during marriage, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Husband's Lien Strength",
+      "current_heading": "Husband's Lien Strength",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Core Duties List",
+    "candidates": [
+      "Core Duties List",
+      "Slaves Reduce Duties",
+      "Four Slaves Freedom",
+      "Idleness Leads Zeimah",
+      "Vow Against Labor",
+      "Divorce Consequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself enumerating the wife's domestic duties and the maidservant sliding scale, which is precisely what the 'Core Duties List' prose introduces and describes.",
+      "chosen_heading": "Core Duties List",
+      "current_heading": "Core Duties List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Divorce Consequence",
+    "candidates": [
+      "Slaves Reduce Duties",
+      "Four Slaves Freedom",
+      "Idleness Leads Zeimah",
+      "Vow Against Labor",
+      "Divorce Consequence",
+      "Grinding Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's statement about idleness leading to licentiousness (zimmah) AND Rabban Shimon ben Gamliel's statement about idleness leading to shiamum, and candidate 2 ('Idleness Leads Zeimah') explicitly discusses both Rabbi Eliezer's ruling and notes the seamstress work rationale, making it the natural home for the combined quote \u2014 while candidates 3 and 4 split the discussion artificially.",
+      "chosen_heading": "Idleness Leads Zeimah",
+      "current_heading": "Divorce Consequence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Grinding Explained",
+    "candidates": [
+      "Divorce Consequence",
+      "Grinding Explained",
+      "Not Like Rabbi Hiyya",
+      "Three Purposes",
+      "Husbands' Duties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about 'tochenet' and the two answers (matchenet/hand mill), which is exactly what the 'Grinding Explained' section's prose describes.",
+      "chosen_heading": "Grinding Explained",
+      "current_heading": "Grinding Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Husbands' Duties",
+    "candidates": [
+      "Not Like Rabbi Hiyya",
+      "Three Purposes",
+      "Husbands' Duties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire quoted text \u2014 the introductory note that the mishna disagrees with Rabbi Hiyya plus all three of his teachings and the practical advice \u2014 and heading 0 ('Not Like Rabbi Hiyya') with its prose about the gemara noting the mishna does not accord with Rabbi Hiyya is the best single home, since headings 1 and 2 split the content artificially while heading 0 introduces the whole unit.",
+      "chosen_heading": "Not Like Rabbi Hiyya",
+      "current_heading": "Husbands' Duties",
+      "moved": true
+    }
+  }
+]

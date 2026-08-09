@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Contradiction Setup",
+    "candidates": [
+      "Night as Zman",
+      "Chasheicha Levels",
+      "Torah vs. Rabbinic",
+      "Lulav & Tzitzit",
+      "Action vs State",
+      "Kedusha Boundaries",
+      "Contradiction Setup",
+      "Erev Shabbat Context",
+      "Safek Chasheicha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly presents the contradiction between Rabba bar Rav Huna's two rulings and the Gemara's resolution that the removal ruling was stated on Erev Shabbat \u2014 which is precisely what the 'Contradiction Setup' prose describes.",
+      "chosen_heading": "Contradiction Setup",
+      "current_heading": "Contradiction Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Safek Chasheicha",
+    "candidates": [
+      "Erev Shabbat Context",
+      "Safek Chasheicha",
+      "Source Text",
+      "R. Yosi vs. R. Akiva",
+      "Reconciling Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'mai kasavar' challenge about Rabba bar Rav Huna's position regarding night and Shabbat as tefillin times, which is precisely what the 'Safek Chasheicha' prose describes and analyzes.",
+      "chosen_heading": "Safek Chasheicha",
+      "current_heading": "Safek Chasheicha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Reconciling Views",
+    "candidates": [
+      "Source Text",
+      "R. Yosi vs. R. Akiva",
+      "Reconciling Views",
+      "R. Akiva Ot",
+      "Sign Function",
+      "Tosafot Ot",
+      "Chol HaMoed",
+      "Gemara Position",
+      "Ashkenazi Minhag",
+      "No-Bracha Option",
+      "R. Elazar's Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Source Text",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita presenting the verse mi-yamim yamima and the dispute between Rabbi Yosi HaGelili and Rabbi Akiva about whether it applies to tefillin \u2014 exactly what heading 0 ('Source Text') describes.",
+      "second_heading": "R. Yosi vs. R. Akiva",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's answer that Rabbi Akiva derives the Shabbat/Yom Tov exemption from the 'ot' verse, which is precisely what heading 1 ('R. Yosi vs. R. Akiva') describes as Rabbi Akiva's alternative derivation from a different source.",
+      "current_heading": "Reconciling Views",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "R. Elazar's Rule",
+    "candidates": [
+      "R. Akiva Ot",
+      "Sign Function",
+      "Tosafot Ot",
+      "Chol HaMoed",
+      "Gemara Position",
+      "Ashkenazi Minhag",
+      "No-Bracha Option",
+      "R. Elazar's Rule",
+      "Lishmoran",
+      "Halacha Without Moring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's and Rabbi Yochanan's dispute about donning tefillin after sunset (violating a positive mitzva vs. a prohibition) and the Gemara's analysis of whether they disagree about Rabbi Avin/Rabbi Ile'a's principle regarding 'hishamer/pen/al' \u2014 exactly what the prose under heading 7 describes.",
+      "chosen_heading": "R. Elazar's Rule",
+      "current_heading": "R. Elazar's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Halacha Without Moring",
+    "candidates": [
+      "Lishmoran",
+      "Halacha Without Moring",
+      "Mashmesh Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage begins with Rabbi Elazar's statement about safeguarding tefillin (lishomran) before moving to Ravina/Rav Ashi, and candidate 0's prose directly introduces the lishomran exception \u2014 however candidate 1 also covers the Ravina/Rav Ashi story extensively, so the passage spans both sections; yet since the passage opens with the lishomran ruling that candidate 0 is specifically about, and candidate 1's prose already describes the Ravina story in its own words (suggesting the Gemara quote belongs earlier to introduce what candidate 1 then analyzes), candidate 0 is the better home for the quoted text itself.",
+      "chosen_heading": "Lishmoran",
+      "current_heading": "Halacha Without Moring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Mashmesh Concept",
+    "candidates": [
+      "Mashmesh Concept",
+      "Yad Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rabba bar Rav Huna statement about mashmesh/touching tefillin derived via kal va-chomer from the tzitz, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Mashmesh Concept",
+      "current_heading": "Mashmesh Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Yad Definition",
+    "candidates": [
+      "Yad Definition",
+      "R. Natan Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the derivation that 'yad' means the left hand and Rabbi Yosei Ha\u1e24orem's objection about 'yad yemino,' which is precisely what the 'Yad Definition' prose describes in detail.",
+      "chosen_heading": "Yad Definition",
+      "current_heading": "Yad Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "R. Natan Logic",
+    "candidates": [
+      "R. Natan Logic",
+      "R. Akiva Spelling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Natan's derivation from u-keshartem/u-chesavtem and the follow-up question about Rabbi Yosei Ha\u1e24orem, which is precisely what the 'R. Natan Logic' prose section describes.",
+      "chosen_heading": "R. Natan Logic",
+      "current_heading": "R. Natan Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "R. Akiva Spelling",
+    "candidates": [
+      "R. Akiva Spelling",
+      "Lefty Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'R. Akiva Spelling' prose, which explicitly describes Rav Ashi's derivation from yadkha written with a heh, the challenge about kaf-chet/koach, the mi-ksiv-be-chet response, and the tannaitic dispute over what yadkha with a heh includes (lerabbot et ha-giddem) and the baraita about ein lo zroa patur \u2014 all of which are the exact content of items 1 and 2.",
+      "chosen_heading": "R. Akiva Spelling",
+      "current_heading": "R. Akiva Spelling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Lefty Rule",
+    "candidates": [
+      "Lefty Rule",
+      "Tosafot Balance",
+      "Action vs Wearing",
+      "Gidem Status",
+      "Rema Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about a left-handed person (itter) and Abaye's resolution regarding the ambidextrous person, which is precisely what the 'Lefty Rule' section prose describes.",
+      "chosen_heading": "Lefty Rule",
+      "current_heading": "Lefty Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rema Ruling",
+    "candidates": [
+      "Tosafot Balance",
+      "Action vs Wearing",
+      "Gidem Status",
+      "Rema Ruling",
+      "Shel Rosh Pivot",
+      "Rav Moshe Detail",
+      "Father's Testament",
+      "Hand Placement",
+      "Two Heads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage from the school of Menashe defines 'al yadecha' as the bicep (kiboret) and 'bein einecha' as the crown of the head, with Rabbi Yannai specifying the soft spot of a baby's brain \u2014 this directly matches the 'Hand Placement' section's prose about where tefillin are placed on the arm (kiboret) and the corresponding head placement derivation.",
+      "chosen_heading": "Hand Placement",
+      "current_heading": "Rema Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Two Heads",
+    "candidates": [
+      "Shel Rosh Pivot",
+      "Rav Moshe Detail",
+      "Father's Testament",
+      "Hand Placement",
+      "Two Heads",
+      "Head Placement",
+      "R. Eliezer Ot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Two Heads",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are the two-heads passage about pidyon ha-ben and tefillin on two heads, which the 'Two Heads' prose explicitly describes in detail including the Pleimo exchange, the elder's ruling of ten sela, and Rami bar Chama's braita about 'ach' limiting redemption resolved by 'de-vegulgolet tela Rachmana'.",
+      "second_heading": "Hand Placement",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens a new topic \u2014 the baraita establishing that 'al yadecha' means the bicep (kiboret) via a hekkesh to head placement \u2014 which is precisely what the 'Hand Placement' prose describes as its subject matter.",
+      "current_heading": "Two Heads",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "R. Eliezer Ot",
+    "candidates": [
+      "Head Placement",
+      "R. Eliezer Ot",
+      "Covering Custom",
+      "Wound Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's 'lecha le-ot' argument and Rabbi Yitzchak's heart-placement derivation for tefillin shel yad placement, which directly matches the prose of candidate 1 discussing Rabbi Eliezer's 'eino tzarich' principle and the lecha le-ot reasoning for upper arm placement.",
+      "chosen_heading": "R. Eliezer Ot",
+      "current_heading": "R. Eliezer Ot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Wound Story",
+    "candidates": [
+      "Covering Custom",
+      "Wound Story",
+      "R. Yehuda Negaim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Rav Ashi/Ameimar wound story and the debate about 'lecha le-ot' meaning location vs. covering obligation, which is precisely what the 'Wound Story' prose section discusses.",
+      "chosen_heading": "Wound Story",
+      "current_heading": "Wound Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127
+    ],
+    "current_heading": "R. Yehuda Negaim",
+    "candidates": [
+      "R. Yehuda Negaim",
+      "Tefillin Summary",
+      "Tzitzit Intro"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tefillin Summary",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the korcha/baldness derivation (a different baraita), not Rabbi Yehuda's negaim argument, and belongs under 'R. Yehuda Negaim' only if it precedes it \u2014 but actually item 1 is the preceding baraita about 'bein einecha' and korcha that sets up the discussion, which the 'R. Yehuda Negaim' prose explicitly contrasts ('distinct from the korcha analogy'), so item 1 is the korcha baraita that precedes Rabbi Yehuda's ruling, while items 2\u20133 are Rabbi Yehuda's negaim derivation that the prose of 'R. Yehuda Negaim' directly describes.",
+      "second_heading": "R. Yehuda Negaim",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are precisely Rabbi Yehuda's negaim-based derivation \u2014 the hekkesh between arm and head, and the exclusion of the literal 'between the eyes' due to multiple negaim categories \u2014 which is exactly what the 'R. Yehuda Negaim' prose describes.",
+      "current_heading": "R. Yehuda Negaim",
+      "moved": true
+    }
+  }
+]

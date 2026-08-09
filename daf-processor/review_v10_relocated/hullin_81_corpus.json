@@ -1,0 +1,347 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rabbi Zeira's Position",
+    "candidates": [
+      "Yesterday's Review",
+      "Rabbi Shimon vs. Sages",
+      "Rabbi Zeira's Position",
+      "Lav Haba Miklal Aseh",
+      "Tosafot's Explanation",
+      "Avtolkai's Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly Rabbi Zeira's statement about mechussar zman being nitko le'asei derived from 'miyom hashmini vahal'ah yeratzeh,' which is precisely what the prose of heading 2 ('Rabbi Zeira's Position') describes.",
+      "chosen_heading": "Rabbi Zeira's Position",
+      "current_heading": "Rabbi Zeira's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Avtolkai's Contradiction",
+    "candidates": [
+      "Lav Haba Miklal Aseh",
+      "Tosafot's Explanation",
+      "Avtolkai's Contradiction",
+      "Night vs. Day Distinction",
+      "Tosafot: Night Disqualif.",
+      "Ken Ta'aseh Verse",
+      "Rav Hamnuna's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Avtoriki's contradiction between the two verses about the seventh night versus the eighth day, which is precisely what candidate 2 ('Avtolkai's Contradiction') describes in its prose.",
+      "chosen_heading": "Avtolkai's Contradiction",
+      "current_heading": "Avtolkai's Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Hamnuna's Report",
+    "candidates": [
+      "Night vs. Day Distinction",
+      "Tosafot: Night Disqualif.",
+      "Ken Ta'aseh Verse",
+      "Rav Hamnuna's Report",
+      "No Valid First Slaughter",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage reports Rav Hamnuna's statement in Rabbi Shimon's name that oto ve'et beno does not apply to Kodashim, which is exactly what the prose under 'Rav Hamnuna's Report' describes.",
+      "chosen_heading": "Rav Hamnuna's Report",
+      "current_heading": "Rav Hamnuna's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "No Valid First Slaughter",
+      "Rava's Challenge",
+      "Both Sacrifices Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely Rava's objection from the baraita about oto ve'et beno with sacrificial animals slaughtered outside, which is exactly what candidate 1 ('Rava's Challenge') describes in its prose.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Both Sacrifices Outside",
+    "candidates": [
+      "Both Sacrifices Outside",
+      "One In, One Out"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Both Sacrifices Outside",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the question about karet for the second animal and Rava's resolution for the 'both outside' scenario, matching exactly the 'Both Sacrifices Outside' prose.",
+      "second_heading": "One In, One Out",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the 'one outside, one inside' scenario with its rulings for both Rabbis and Shimon, matching exactly the 'One In, One Out' prose.",
+      "current_heading": "Both Sacrifices Outside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "One In, One Out",
+    "candidates": [
+      "One In, One Out",
+      "Rava Reinterprets",
+      "Meat Permissibility Key"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the second ordering (first inside, second outside) with the Sages' and Rabbi Shimon's rulings, which is explicitly discussed in the 'One In, One Out' prose section as 'Second ordering \u2014 the first korban is slaughtered inside the Beit HaMikdash, the second outside.'",
+      "chosen_heading": "One In, One Out",
+      "current_heading": "One In, One Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Meat Permissibility Key",
+    "candidates": [
+      "Rava Reinterprets",
+      "Meat Permissibility Key",
+      "Hasra'at Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's objection that if oto ve'et beno did not apply to Kodashim at all, the second slaughter outside the Temple should incur karet \u2014 this is precisely the logical argument Rava uses to establish that the prohibition does apply to Kodashim, which is exactly what the 'Rava Reinterprets' prose describes.",
+      "chosen_heading": "Rava Reinterprets",
+      "current_heading": "Meat Permissibility Key",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Hasra'at Safek",
+    "candidates": [
+      "Meat Permissibility Key",
+      "Hasra'at Safek",
+      "Oto Ve'et Beno: Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together articulate Rava's position that lashes do not apply to kodashim because the forewarning at the moment of shechitah is uncertain (hasra'at safek), which is precisely what the 'Hasra'at Safek' section's prose discusses.",
+      "chosen_heading": "Hasra'at Safek",
+      "current_heading": "Hasra'at Safek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Oto Ve'et Beno: Sacrifice",
+    "candidates": [
+      "Oto Ve'et Beno: Sacrifice",
+      "Chullin Then Olah",
+      "Olah Then Chullin",
+      "Olah Never Counts",
+      "Achilas Mizbe'ach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava's case of chullin slaughtered first and then a peace offering (shelamim) slaughtered second, resulting in exemption due to hasra'at safek \u2014 exactly matching the 'Chullin Then Olah' section's prose about the first case where chullin is slaughtered first followed by a korban, yielding patur.",
+      "chosen_heading": "Chullin Then Olah",
+      "current_heading": "Oto Ve'et Beno: Sacrifice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Achilas Mizbe'ach",
+    "candidates": [
+      "Chullin Then Olah",
+      "Olah Then Chullin",
+      "Olah Never Counts",
+      "Achilas Mizbe'ach",
+      "Mishnah's Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Items 3-4 present the Rabbi Ya'akov/Rabbi Yo\u1e25anan ruling that 'achilas mizbe'ach shema achilah' with its proof-verse, which is precisely what the prose of heading 3 ('Achilas Mizbe'ach') discusses, and items 1-2 present Rava's cases of chullin/olah combinations that lead into that discussion \u2014 all four items form a continuous unit under the current heading.",
+      "chosen_heading": "Achilas Mizbe'ach",
+      "current_heading": "Achilas Mizbe'ach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Mishnah's Cases",
+    "candidates": [
+      "Mishnah's Cases",
+      "Shimon vs. Sages Dispute",
+      "Agreed Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself enumerating the specific cases (tereifa, avodah zarah, parah adumah, shor haniskal, eglah arufah), which matches heading 0's prose that describes exactly these enumerated cases, while heading 1 discusses the dispute's logic and heading 2 discusses agreed-upon exempt cases.",
+      "chosen_heading": "Mishnah's Cases",
+      "current_heading": "Mishnah's Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Agreed Cases",
+    "candidates": [
+      "Shimon vs. Sages Dispute",
+      "Agreed Cases",
+      "Idolatry First",
+      "Eating First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes cases where everyone agrees one is exempt from oto ve'et beno \u2014 shechitah that results in neveilah, nocher, and me'aker \u2014 which is exactly what the 'Agreed Cases' prose discusses.",
+      "chosen_heading": "Agreed Cases",
+      "current_heading": "Agreed Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Eating First",
+    "candidates": [
+      "Idolatry First",
+      "Eating First",
+      "Yochanan's Objection",
+      "Yochanan's Exception",
+      "Partial Warning Exception",
+      "Lakish's Position",
+      "Rav Dimi's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the complete sugya of Reish Lakish's ruling, Rabbi Yochanan's objection, and the partial-warning exception with Reish Lakish's response \u2014 this entire unit begins with Reish Lakish's distinction about which animal was slaughtered first for idolatry, making heading 0 ('Idolatry First') the natural home for the whole passage, while the current placement under 'Eating First' only captures the second half of Reish Lakish's ruling.",
+      "chosen_heading": "Idolatry First",
+      "current_heading": "Eating First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rav Dimi's Report",
+    "candidates": [
+      "Yochanan's Objection",
+      "Yochanan's Exception",
+      "Partial Warning Exception",
+      "Lakish's Position",
+      "Rav Dimi's Report",
+      "Yochanan: Real Punishment",
+      "Lakish: Sin-Based",
+      "Why Both Cases Needed",
+      "Rashi vs. Tosafot",
+      "Rashi's Approach",
+      "Tosafot's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage reports Rav Dimi's account of the dispute between Rabbi Yochanan and Reish Lakish regarding unwitting transgressors liable to death or lashes combined with a monetary liability, which is exactly what the 'Rav Dimi's Report' prose section introduces and describes.",
+      "chosen_heading": "Rav Dimi's Report",
+      "current_heading": "Rav Dimi's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Tosafot's Approach",
+    "candidates": [
+      "Yochanan: Real Punishment",
+      "Lakish: Sin-Based",
+      "Why Both Cases Needed",
+      "Rashi vs. Tosafot",
+      "Rashi's Approach",
+      "Tosafot's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's 'u'tzricha' argument explaining why both cases needed to be stated \u2014 exactly what candidate 2 ('Why Both Cases Needed') describes in its prose.",
+      "chosen_heading": "Why Both Cases Needed",
+      "current_heading": "Tosafot's Approach",
+      "moved": true
+    }
+  }
+]

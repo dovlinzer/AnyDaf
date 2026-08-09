@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Doubtful Case Split",
+    "candidates": [
+      "Opening & BK Parallel",
+      "Cow-Donkey Exchange",
+      "Slave Birth Dispute",
+      "BK Goring Case",
+      "Doubtful Case Split",
+      "Two Slaves/Fields"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text presents both the cow-donkey exchange and the maidservant birth case together, and candidate 1's prose ('Cow-Donkey Exchange') explicitly introduces this mishna with its opening case and the yalda dispute, making it the natural home for this passage rather than 'Doubtful Case Split' which discusses the ruling and Rashi's question about chalipin framing.",
+      "chosen_heading": "Cow-Donkey Exchange",
+      "current_heading": "Doubtful Case Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Two Slaves/Fields",
+    "candidates": [
+      "Doubtful Case Split",
+      "Two Slaves/Fields",
+      "Bari v. Shema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes someone with two slaves (one large, one small) and two fields (one large, one small) with a dispute about which was sold, which matches exactly the prose of candidate 1 'Two Slaves/Fields'.",
+      "chosen_heading": "Two Slaves/Fields",
+      "current_heading": "Two Slaves/Fields",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Bari v. Shema",
+    "candidates": [
+      "Bari v. Shema",
+      "Bari v. Bari Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the bari v. shema scenarios (buyer certain/seller doubtful, then seller certain/buyer doubtful), which is precisely what the prose under heading 0 discusses, including both sub-cases and the reference to Tosafot HaRosh's observation.",
+      "chosen_heading": "Bari v. Shema",
+      "current_heading": "Bari v. Shema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Bari v. Bari Split",
+    "candidates": [
+      "Bari v. Bari Split",
+      "Seller's Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full case statement 'ze omer gadol ve'ze omer katan... yishava hamocher shehakatan machar' which the prose under heading 0 directly introduces and paraphrases, while heading 1's prose discusses the ruling and its implications as a follow-up analysis.",
+      "chosen_heading": "Bari v. Bari Split",
+      "current_heading": "Bari v. Bari Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Seller's Oath",
+    "candidates": [
+      "Seller's Oath",
+      "Chazaka Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'ze omer eini yodea ve'ze omer eini yodea \u2013 yachloku' is the exact text the 'Chazaka Question' prose explicitly identifies as its focus, discussing why the ruling is yachloku in the mutual-ignorance case.",
+      "chosen_heading": "Chazaka Question",
+      "current_heading": "Seller's Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Chazaka Question",
+    "candidates": [
+      "Seller's Oath",
+      "Chazaka Question",
+      "Ownerless Area"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge of why the parties divide (amaya yachloku) and the chazaka/hamotzi mechavero argument, which is exactly what the 'Chazaka Question' prose describes as the Gemara's initial move.",
+      "chosen_heading": "Chazaka Question",
+      "current_heading": "Chazaka Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Ownerless Area",
+    "candidates": [
+      "Ownerless Area",
+      "Original Owner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the cow standing in a marsh and the maidservant in an alley \u2014 ownerless/neutral areas \u2014 which is precisely what the 'Ownerless Area' prose discusses with the same specific details.",
+      "chosen_heading": "Ownerless Area",
+      "current_heading": "Ownerless Area",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Original Owner",
+    "candidates": [
+      "Original Owner",
+      "Sumchus Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's suggestion to use chazakat mara kamma and the counter-argument hamotzi mechavero alav hara'aya, which is precisely what the 'Original Owner' section's prose describes.",
+      "chosen_heading": "Original Owner",
+      "current_heading": "Original Owner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Sumchus Position",
+    "candidates": [
+      "Sumchus Position",
+      "Rabbanan Position",
+      "Sumchus Bari/Bari"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's identification of the mishna's ruling with Sumchus and his principle, which is exactly what the 'Sumchus Position' prose section describes.",
+      "chosen_heading": "Sumchus Position",
+      "current_heading": "Sumchus Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Sumchus Bari/Bari",
+    "candidates": [
+      "Rabbanan Position",
+      "Sumchus Bari/Bari",
+      "Pregnant Chazaka",
+      "Rava Limits Sumchus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge asking whether Sumchus applies to bari v'bari and Rabba bar Rav Huna's affirmative answer \u2014 are precisely the content described in the 'Rabbanan Position' prose, which explicitly quotes 'eimur d'amar Sumchus b'shema v'shema' and raises the bari v'bari question, whereas the current heading 'Sumchus Bari/Bari' only describes Rabba bar Rav Huna's answer without the preceding challenge.",
+      "chosen_heading": "Rabbanan Position",
+      "current_heading": "Sumchus Bari/Bari",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Rava Limits Sumchus",
+    "candidates": [
+      "Pregnant Chazaka",
+      "Rava Limits Sumchus",
+      "Doubt Resolution Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items constitute the continuous gemara discussion of Rava's limitation of Sumchus to shema v'shema cases versus Rabba bar Rav Huna's broader reading, which is precisely what the 'Rava Limits Sumchus' prose describes.",
+      "chosen_heading": "Rava Limits Sumchus",
+      "current_heading": "Rava Limits Sumchus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Doubt Resolution Methods",
+    "candidates": [
+      "Doubt Resolution Methods",
+      "Different Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Sumakhos conceding where a Torah oath is required, which directly relates to the 'Different Items' section's discussion of the oath requirement in the bari v'bari slave case and the various shevu'ah complications being resolved there.",
+      "chosen_heading": "Different Items",
+      "current_heading": "Doubt Resolution Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Different Items",
+    "candidates": [
+      "Doubt Resolution Methods",
+      "Different Items",
+      "Rav's Value Theory",
+      "Shmuel's Accessories"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Different Items",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the three objections to requiring an oath (no modeh bemiktzat, heilach, ein nishba'in al ha'avadim), which directly match the 'Different Items' prose describing all three problems that must be resolved.",
+      "second_heading": "Rav's Value Theory",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-6 present Rav's monetary reconstruction (okimta of beta'ano dmei) and Shmuel's accessories interpretation with the gemara's challenge and resolution, but since 'Rav's Value Theory' prose only describes Rav's answer, items 5-6 about Shmuel may belong under 'Shmuel's Accessories' \u2014 however the split point is clearly after item 3 where Rav's answer begins, and items 4-6 together form the resolution sequence best anchored at Rav's section as the start of the answers.",
+      "current_heading": "Different Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Shmuel's Accessories",
+    "candidates": [
+      "Rav's Value Theory",
+      "Shmuel's Accessories",
+      "Uncut Cloth Theory",
+      "Redundancy Objection",
+      "Rabbi Meir Slaves",
+      "Rabban Gamliel",
+      "Both or Slaves Only?",
+      "Meir-Land Agreement",
+      "Baraita Oath Dispute",
+      "Grapes Status",
+      "Hybrid Status",
+      "Back to Oshaya",
+      "Accessory Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Hoshaya's objection to Shmuel's interpretation \u2014 pointing out that the mishna says 'slave' not 'garment' \u2014 which directly challenges Shmuel's accessories/garment reconstruction, exactly what the 'Shmuel's Accessories' section discusses.",
+      "chosen_heading": "Shmuel's Accessories",
+      "current_heading": "Shmuel's Accessories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Accessory Oath",
+    "candidates": [
+      "Uncut Cloth Theory",
+      "Redundancy Objection",
+      "Rabbi Meir Slaves",
+      "Rabban Gamliel",
+      "Both or Slaves Only?",
+      "Meir-Land Agreement",
+      "Baraita Oath Dispute",
+      "Grapes Status",
+      "Hybrid Status",
+      "Back to Oshaya",
+      "Accessory Oath",
+      "Minor Items Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Hoshaya's okimta (slave with garment, field with sheaves), the objection about mismatched garment claims, and Rav Pappa's b'yalfei resolution \u2014 exactly what the 'Accessory Oath' prose describes.",
+      "chosen_heading": "Accessory Oath",
+      "current_heading": "Accessory Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Minor Items Effect",
+    "candidates": [
+      "Minor Items Effect",
+      "Both Ignorant Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage covers exactly the content described in 'Minor Items Effect' prose: Rav Sheshet's zokekin objection (item 1), his Rabbi Meir alternative reading (item 2), the Rabban Gamliel complication (item 3), the heilach problem resolved by Rava (item 4), and then the extended discussion of Rabbi Meir's position on slaves vs. land (items 5-16), all of which the prose explicitly describes as part of Rav Sheshet's counter-proposal and its difficulties.",
+      "chosen_heading": "Minor Items Effect",
+      "current_heading": "Minor Items Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Both Ignorant Split",
+    "candidates": [
+      "Both Ignorant Split",
+      "Sumchus Doubtful Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'both say I do not know' clause and identifies it as Sumchus's rule \u2014 exactly what heading 0's prose describes, not the complex bari v'bari analysis in heading 1.",
+      "chosen_heading": "Both Ignorant Split",
+      "current_heading": "Both Ignorant Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Sumchus Doubtful Split",
+    "candidates": [
+      "Sumchus Doubtful Split",
+      "Sumchus-Rabbanan Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the contradiction between the latter clause (bari v'bari, seller takes oath) and Rabba bar Rav Huna's expansive reading of Sumchus, which is precisely what the prose of heading 0 discusses.",
+      "chosen_heading": "Sumchus Doubtful Split",
+      "current_heading": "Sumchus Doubtful Split",
+      "moved": false
+    }
+  }
+]

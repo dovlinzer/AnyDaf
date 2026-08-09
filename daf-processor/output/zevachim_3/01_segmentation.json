@@ -24,8 +24,8 @@
           "timestamp": "00:49"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Minah vs. Lo Minah: The Principle That Only Things of the Same Kind Destroy",
@@ -82,7 +82,7 @@
           "timestamp": "14:04"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -425,5 +425,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "22:01",
+  "amud_b_micro_title": "Both Positions",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "b"
 }

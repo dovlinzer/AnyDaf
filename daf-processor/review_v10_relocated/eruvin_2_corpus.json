@@ -1,0 +1,391 @@
+[
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Fourth Wall Need",
+    "candidates": [
+      "Scope",
+      "Two Types",
+      "Bread & Ownership",
+      "Distance Extension",
+      "Shabbos Parallel",
+      "Walls Focus",
+      "Mavoi Definition",
+      "Chatzer vs Mavoi",
+      "Open vs Closed",
+      "Ownership Q&A",
+      "Rabbinical Unification",
+      "Fourth Wall Need",
+      "Twenty Cubit Height",
+      "Ten Cubit Width",
+      "Doorway Concept",
+      "Tzuras Hapesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna's ruling that a crossbeam higher than twenty cubits must be lowered, and Rabbi Yehuda's dissent \u2014 exactly what the 'Twenty Cubit Height' section's prose describes.",
+      "chosen_heading": "Twenty Cubit Height",
+      "current_heading": "Fourth Wall Need",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Tzuras Hapesach",
+    "candidates": [
+      "Twenty Cubit Height",
+      "Ten Cubit Width",
+      "Doorway Concept",
+      "Tzuras Hapesach",
+      "Modern Practice",
+      "Language Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tzuras hapesach exception \u2014 that even an opening wider than ten cubits requires no diminishment if it has the form of a doorway \u2014 which is precisely what the 'Tzuras Hapesach' section's prose describes.",
+      "chosen_heading": "Tzuras Hapesach",
+      "current_heading": "Tzuras Hapesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Language Difference",
+    "candidates": [
+      "Modern Practice",
+      "Language Difference",
+      "Rashi: Pesulah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's observation about the language difference between Sukkah (pesulah) and mavoi (takanta), which is precisely what the 'Language Difference' section's prose describes.",
+      "chosen_heading": "Language Difference",
+      "current_heading": "Language Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rashi: Pesulah",
+    "candidates": [
+      "Rashi: Pesulah",
+      "Tosafot Question",
+      "Terseness Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's first answer distinguishing sukkah (biblical, hence 'pesulah') from mavoi (rabbinic, hence 'rectification'), which is precisely what the prose under 'Rashi: Pesulah' describes.",
+      "chosen_heading": "Rashi: Pesulah",
+      "current_heading": "Rashi: Pesulah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Terseness Reason",
+    "candidates": [
+      "Tosafot Question",
+      "Terseness Reason",
+      "R. Yehuda Ulam",
+      "Chachamim Heichal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that Sukkah uses 'pesulah' because it has numerous matters (multiple disqualifications) while mavoi uses rectification language because it has fewer matters \u2014 exactly the content described in the 'Terseness Reason' prose.",
+      "chosen_heading": "Terseness Reason",
+      "current_heading": "Terseness Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Chachamim Heichal",
+    "candidates": [
+      "R. Yehuda Ulam",
+      "Chachamim Heichal",
+      "Sanctity Divide"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav Yehuda's statement attributing the Rabbis' derivation to the Heichal and Rabbi Yehuda's to the Ulam, plus the supporting mishna giving both dimensions \u2014 exactly what the 'Chachamim Heichal' prose discusses in full detail.",
+      "chosen_heading": "Chachamim Heichal",
+      "current_heading": "Chachamim Heichal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Sanctity Divide",
+    "candidates": [
+      "Sanctity Divide",
+      "Verse Dispute",
+      "United Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the Rabbis' position that the sanctity of the Heichal and Ulam are distinct and that 'petach ohel moed' refers to the Heichal's doorway, which is precisely what the 'Sanctity Divide' prose describes.",
+      "chosen_heading": "Sanctity Divide",
+      "current_heading": "Sanctity Divide",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "United Sanctity",
+    "candidates": [
+      "Verse Dispute",
+      "United Sanctity",
+      "Application Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address Rabbi Yehuda's reasoning (unified sanctity / the composite verse) and the Rabbanan's rebuttal \u2014 exactly the content described in the 'United Sanctity' prose.",
+      "chosen_heading": "United Sanctity",
+      "current_heading": "United Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Application Question",
+    "candidates": [
+      "Application Question",
+      "Doors Open Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of how a verse written about the Tabernacle can be applied to the Temple, which is precisely the 'Application Question' heading's topic.",
+      "chosen_heading": "Application Question",
+      "current_heading": "Application Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Doors Open Rule",
+    "candidates": [
+      "Doors Open Rule",
+      "Name Exchange",
+      "Textual Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's statement establishing the mutual name-exchange principle (Tabernacle called Temple and Temple called Tabernacle), which is exactly what the 'Name Exchange' prose section describes, using the Rav Yehuda/Shmuel ruling only as proof that this equivalence must hold \u2014 not as the primary focus.",
+      "chosen_heading": "Name Exchange",
+      "current_heading": "Doors Open Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Textual Sources",
+    "candidates": [
+      "Name Exchange",
+      "Textual Sources",
+      "Courtyard Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the Gemara's derivation of the mutual name exchange between Mishkan and Mikdash, matching the 'Textual Sources' prose which describes precisely these two verses and the reasoning behind them.",
+      "chosen_heading": "Textual Sources",
+      "current_heading": "Textual Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Courtyard Option",
+    "candidates": [
+      "Courtyard Option",
+      "Gate vs Door"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the question of why one shouldn't derive doorway parameters from the courtyard gate of the Tabernacle, which is exactly what the 'Courtyard Option' prose describes \u2014 the challenge posed before the rejection is explained.",
+      "chosen_heading": "Courtyard Option",
+      "current_heading": "Courtyard Option",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Gate vs Door",
+    "candidates": [
+      "Gate vs Door",
+      "Height Reread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly rejects deriving a doorway standard from the courtyard gate because it is called 'the doorway of the gate of the courtyard' not simply 'a doorway,' which directly matches the 'Gate vs Door' section's prose about gates being categorically different from standard doorways.",
+      "chosen_heading": "Gate vs Door",
+      "current_heading": "Gate vs Door",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Height Reread",
+    "candidates": [
+      "Height Reread",
+      "Petach Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the alternative reading (be-govah hu di-chtiv) and its objection/resolution, which is precisely what the 'Height Reread' prose describes in detail.",
+      "chosen_heading": "Height Reread",
+      "current_heading": "Height Reread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Petach Source",
+    "candidates": [
+      "Petach Source",
+      "Doors Question",
+      "Privacy, Not Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Petach Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 all concern whether Rabbi Yehuda derived his dimensions from the Ulam doorway or from kings' entrances, matching the 'Petach Source' prose precisely.",
+      "second_heading": "Doors Question",
+      "second_confidence": "high",
+      "second_reason": "Item 7 raises the challenge that deriving from the Heichal should require doors, which is exactly the content described in the 'Doors Question' prose.",
+      "current_heading": "Petach Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Privacy, Not Status",
+    "candidates": [
+      "Doors Question",
+      "Privacy, Not Status",
+      "Width Exception Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly answers that the Heichal doors were for privacy (tzniusa) only, not to confer doorway status, which is precisely what the 'Privacy, Not Status' section's prose describes.",
+      "chosen_heading": "Privacy, Not Status",
+      "current_heading": "Privacy, Not Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Width Exception Q",
+    "candidates": [
+      "Width Exception Q",
+      "According to Rav",
+      "Recitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the challenge about how tzuras hapesach can permit wider than ten amos when the Heichal itself had a tzuras hapesach yet was only ten amos wide, which is exactly what the 'Width Exception Q' prose describes.",
+      "chosen_heading": "Width Exception Q",
+      "current_heading": "Width Exception Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Recitation",
+    "candidates": [
+      "According to Rav",
+      "Recitation",
+      "Rav's Objection",
+      "Implication",
+      "Modern Eruv Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with 'As that is the reason only according to Rav' and then provides the narrative proof (Rav Yehuda teaching \u1e24iyya bar Rav before Rav), which directly supports the prose of candidate 0 explaining that these difficulties apply only according to Rav's reading.",
+      "chosen_heading": "According to Rav",
+      "current_heading": "Recitation",
+      "moved": true
+    }
+  }
+]

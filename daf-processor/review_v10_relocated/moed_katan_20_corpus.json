@@ -1,0 +1,463 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "No Bathing Until Night",
+    "candidates": [
+      "No Bathing Until Night",
+      "Rav Pappi & Rav Pappa",
+      "Three-Authority Girsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct statement of Rav Huna son of Rav Yehoshua's ruling that everyone agrees the mourner may not bathe until nightfall when the third day falls on erev haregel, which is precisely what heading 0 ('No Bathing Until Night') discusses in its prose.",
+      "chosen_heading": "No Bathing Until Night",
+      "current_heading": "No Bathing Until Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Three-Authority Girsa",
+    "candidates": [
+      "Rav Pappi & Rav Pappa",
+      "Three-Authority Girsa",
+      "Regel Count Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both versions of the tradition \u2014 the two-authority version (Rav Pappi and Rav Pappa affirming Rav Huna's ruling) and the alternative three-authority version \u2014 and heading 0 ('Rav Pappi & Rav Pappa') with its prose describes exactly this complete unit, while heading 1 ('Three-Authority Girsa') only covers the alternative version, suggesting the passage was split incorrectly and belongs entirely under heading 0.",
+      "chosen_heading": "Rav Pappi & Rav Pappa",
+      "current_heading": "Three-Authority Girsa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Regel Count Question",
+    "candidates": [
+      "Three-Authority Girsa",
+      "Regel Count Question",
+      "Shiva vs Shloshim",
+      "Rava: No Count",
+      "Five Days Postponed",
+      "Work by Others",
+      "No Nichum Aveilim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's question to Rava about whether the Festival counts toward the thirty-day mourning period, which is precisely what the 'Regel Count Question' prose describes as its topic.",
+      "chosen_heading": "Regel Count Question",
+      "current_heading": "Regel Count Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "No Nichum Aveilim",
+    "candidates": [
+      "Shiva vs Shloshim",
+      "Rava: No Count",
+      "Five Days Postponed",
+      "Work by Others",
+      "No Nichum Aveilim",
+      "Personal vs Communal",
+      "Full Postponement",
+      "Community First Four Days",
+      "No Mourning Last Three",
+      "Braita Challenge",
+      "Confirmation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together present the baraita's ruling about the five postponed days and culminate in the general principle distinguishing personal mourning practices (interrupted by regel) from communal practices like nichum aveilim (not interrupted), which is precisely what the 'Personal vs Communal' prose section discusses.",
+      "chosen_heading": "Personal vs Communal",
+      "current_heading": "No Nichum Aveilim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Confirmation",
+    "candidates": [
+      "Personal vs Communal",
+      "Full Postponement",
+      "Community First Four Days",
+      "No Mourning Last Three",
+      "Braita Challenge",
+      "Confirmation",
+      "Three Days Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Braita Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 constitute the baraita challenge to Rava culminating in tiyuvta, matching exactly the 'Braita Challenge' prose about kavro b'tchilat haregel and the conclusive refutation.",
+      "second_heading": "Confirmation",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Ravin transmitting Rabbi Yochanan's confirmation (afilu kavro baregel), which the 'Confirmation' prose explicitly describes as the established halacha following the refutation of Rava.",
+      "current_heading": "Confirmation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Three Days Requirement",
+    "candidates": [
+      "Three Days Requirement",
+      "Beis Shammai vs Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about kefiyat hamitah and the dispute between Rabbi Eliezer (three days) and the Rabbis (even one day/one hour), which is precisely what the 'Three Days Requirement' prose describes and analyzes.",
+      "chosen_heading": "Three Days Requirement",
+      "current_heading": "Three Days Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Beis Shammai vs Hillel",
+    "candidates": [
+      "Beis Shammai vs Hillel",
+      "One Hour Sufficient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Elazar bar Rabbi Shimon identifying the dispute between Beit Shammai (three days) and Beit Hillel (one day), which is precisely what the prose of candidate 0 discusses.",
+      "chosen_heading": "Beis Shammai vs Hillel",
+      "current_heading": "Beis Shammai vs Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "One Hour Sufficient",
+    "candidates": [
+      "One Hour Sufficient",
+      "Rava: Three Days",
+      "Ravina: One Hour"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's 'even one hour' ruling AND Rava's three-day ruling, but the current placement under 'One Hour Sufficient' is correct since the passage as a whole introduces both opinions together, and the essay separates them into different sections by treating Rava's ruling independently in candidate 1 \u2014 however, since the passage contains BOTH statements, it belongs where it currently sits as it leads with Rabbi Yochanan's lenient position, which is the heading's focus.",
+      "chosen_heading": "One Hour Sufficient",
+      "current_heading": "One Hour Sufficient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Ravina: One Hour",
+    "candidates": [
+      "Rava: Three Days",
+      "Ravina: One Hour",
+      "Holiday Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's visit to Sura on the Euphrates and his ruling of 'even one day, even one hour,' which precisely matches the prose under 'Ravina: One Hour.'",
+      "chosen_heading": "Ravina: One Hour",
+      "current_heading": "Ravina: One Hour",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Holiday Reversal",
+    "candidates": [
+      "Holiday Reversal",
+      "Shemini Atzeret",
+      "Distant Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the derivation of seven-day mourning from 'I will turn your Festivals into mourning,' which is exactly what the 'Holiday Reversal' section's prose describes.",
+      "chosen_heading": "Holiday Reversal",
+      "current_heading": "Holiday Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Distant Report",
+    "candidates": [
+      "Shemini Atzeret",
+      "Distant Report",
+      "Close Report Full",
+      "Distant One Day",
+      "Thirty Day Boundary",
+      "Lenient Opinion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Distant Report",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge about deriving from Shavuot and Reish Lakish's teaching on distant tidings, which is precisely what heading 1 ('Distant Report') discusses.",
+      "second_heading": "Close Report Full",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita defining shemu'ah kerovah and rechokah with the dispute between Rabbi Akiva and the Rabbis, which matches heading 2 ('Close Report Full') that introduces the tannaitic teaching on these laws.",
+      "current_heading": "Distant Report",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Lenient Opinion",
+    "candidates": [
+      "Close Report Full",
+      "Distant One Day",
+      "Thirty Day Boundary",
+      "Lenient Opinion",
+      "Rabbi Chanina",
+      "Rav Natan Bar Ami"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabba bar bar \u1e24ana's statement about following the lenient opinion in mourning, which is exactly what the 'Lenient Opinion' section's prose discusses in detail.",
+      "chosen_heading": "Lenient Opinion",
+      "current_heading": "Lenient Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rav Natan Bar Ami",
+    "candidates": [
+      "Rabbi Chanina",
+      "Rav Natan Bar Ami",
+      "Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both cases (Rav \u1e24anina and Rav Natan bar Ami) as a single Talmudic unit, and heading 0 ('Rabbi Chanina') is where the combined passage begins, matching the prose that introduces Rav \u1e24anina's case first and then Rav Natan's as a parallel \u2014 both belong under the first heading rather than being split across two headings.",
+      "chosen_heading": "Rabbi Chanina",
+      "current_heading": "Rav Natan Bar Ami",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Rav Natan Bar Ami",
+      "Challenge",
+      "Minority Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita challenge distinguishing parents from the five other relatives, which is exactly what the 'Challenge' section's prose describes and discusses.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Minority Opinion",
+    "candidates": [
+      "Minority Opinion",
+      "Exchange Dialog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly about Rava's response citing a baraita as a minority opinion (da'at yachid), matching the 'Minority Opinion' section prose perfectly.",
+      "chosen_heading": "Minority Opinion",
+      "current_heading": "Minority Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Exchange Dialog",
+    "candidates": [
+      "Exchange Dialog",
+      "Demonstration",
+      "Three Inferences"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Exchange Dialog",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the exchange dialog where Rabbi Chiya asks Rav about his father, which is precisely what heading 0's prose describes.",
+      "second_heading": "Demonstration",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concludes with Rabbi Chiya instructing his servant to remove his shoes and carry his garments to the bathhouse \u2014 the deliberate demonstration described in heading 1's prose.",
+      "current_heading": "Exchange Dialog",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Three Inferences",
+    "candidates": [
+      "Demonstration",
+      "Three Inferences",
+      "Regel Transition",
+      "Shabbat Transition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly lists the three inferences (shma mina tlas) from Rabbi \u1e24iyya's conduct, which matches perfectly with the 'Three Inferences' section's prose discussing exactly those same three halachos.",
+      "chosen_heading": "Three Inferences",
+      "current_heading": "Three Inferences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Shabbat Transition",
+    "candidates": [
+      "Regel Transition",
+      "Shabbat Transition",
+      "Practice Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage resolves a contradiction between Rabbi \u1e24iyya and Rabbi A\u1e25iyya by identifying them as two different people, which is a clarifying note that fits best under 'Practice Timing' as a resolution/conclusion rather than under the Shabbat Transition which discusses a specific halakhic ruling about Shabbat timing.",
+      "chosen_heading": "Practice Timing",
+      "current_heading": "Shabbat Transition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Practice Timing",
+    "candidates": [
+      "Shabbat Transition",
+      "Practice Timing",
+      "Tear Clothes Debate",
+      "Kria in Shiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei bar Avin's ruling about the Festival transition and Rabbi Adda's teaching about Shabbat transition, which is precisely what the 'Shabbat Transition' section's prose describes \u2014 extending the principle to Shabbat when the shemu'ah becomes rechokah by motzaei Shabbat.",
+      "chosen_heading": "Shabbat Transition",
+      "current_heading": "Practice Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Kria in Shiva",
+    "candidates": [
+      "Tear Clothes Debate",
+      "Kria in Shiva",
+      "Parents Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full debate between Rabbi Mani and Rabbi Chanina about whether kria is performed, which is the core content described in candidate 0 ('Tear Clothes Debate'), while candidate 1 ('Kria in Shiva') covers only Rabbi Mani's challenge to Rabbi Chanina \u2014 yet the passage includes both the initial dispute and the challenge, making candidate 0 the better home since it introduces the entire question and both positions.",
+      "chosen_heading": "Tear Clothes Debate",
+      "current_heading": "Kria in Shiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Parents Exception",
+    "candidates": [
+      "Kria in Shiva",
+      "Parents Exception",
+      "Parents Honor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Parents Exception",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (the baraita about obtaining a garment during/after shiva and Rabbi Zeira's distinction between the five relatives and parents) are explicitly described in candidate 1's prose under 'Parents Exception'.",
+      "second_heading": "Parents Honor",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the Gemara's resolution that the post-shiva kria for parents is lichvod aviv v'imo) is explicitly described in candidate 2's prose under 'Parents Honor'.",
+      "current_heading": "Parents Exception",
+      "moved": true
+    }
+  }
+]

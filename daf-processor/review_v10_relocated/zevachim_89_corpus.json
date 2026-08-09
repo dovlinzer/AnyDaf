@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Menalan Derivation",
+    "candidates": [
+      "Mishna Kol HaTadir",
+      "Rashi Examples",
+      "Tamid Over Musafim",
+      "Musafim Hierarchy",
+      "Parshat Pinchas Source",
+      "Menalan Derivation",
+      "Rabbi Ila's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's 'menalan' question about deriving the ordering principle among musafim themselves, which is precisely what the prose of candidate 5 ('Menalan Derivation') describes.",
+      "chosen_heading": "Menalan Derivation",
+      "current_heading": "Menalan Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rabbi Ila's Drasha",
+    "candidates": [
+      "Rabbi Ila's Drasha",
+      "Abaye's Counter",
+      "Mishna HaMikudash",
+      "Chatat vs. Olah Blood"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rabbi Ila's Drasha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are Rabbi Ile'a's derivation from 'ka'eleh' and the gemara's challenge-and-response chain, which matches exactly the prose of candidate 0 ('Rabbi Ila's Drasha').",
+      "second_heading": "Abaye's Counter",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is Abaye's counter-derivation from 'gufa d'kra', which matches exactly the prose of candidate 1 ('Abaye's Counter').",
+      "current_heading": "Rabbi Ila's Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Chatat vs. Olah Blood",
+    "candidates": [
+      "Abaye's Counter",
+      "Mishna HaMikudash",
+      "Chatat vs. Olah Blood",
+      "Sanctity Matrix",
+      "Chatat-Asham-Toda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text introducing the principle 'kol hamikudash mechaveiro kodem lachaveiro' along with its two applications (chattat vs olah blood, olah limbs vs chattat portions), which corresponds precisely to the 'Mishna HaMikudash' section whose prose describes this same mishna introducing the kedusha-based principle \u2014 the current placement under 'Chatat vs. Olah Blood' is too narrow, as that heading covers only the elaboration of the applications, not the mishna's introductory statement.",
+      "chosen_heading": "Mishna HaMikudash",
+      "current_heading": "Chatat vs. Olah Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Chatat-Asham-Toda",
+    "candidates": [
+      "Sanctity Matrix",
+      "Chatat-Asham-Toda",
+      "Toda-Shelamim",
+      "Shelamim-Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the chattat-asham-todah-eil nazir-shelamim ordering, and the prose of heading 1 ('Chatat-Asham-Toda') explicitly discusses the chattat/asham/todah/eil nazir comparisons that match the passage's content, making the current placement correct.",
+      "chosen_heading": "Chatat-Asham-Toda",
+      "current_heading": "Chatat-Asham-Toda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Shelamim-Bechor",
+    "candidates": [
+      "Toda-Shelamim",
+      "Shelamim-Bechor",
+      "Ma'aser-Ofot",
+      "Mincha Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the shelamim-bechor and bechor-ma'aser comparisons, matching the prose of candidate 1 which explicitly addresses semichah, nesachim, tenufah, kedusha m'rechem, and v'ne'echal lakohanim.",
+      "chosen_heading": "Shelamim-Bechor",
+      "current_heading": "Shelamim-Bechor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Mincha Distinctions",
+    "candidates": [
+      "Ma'aser-Ofot",
+      "Mincha Distinctions",
+      "Source Question",
+      "Levites' Bulls",
+      "Par Sheni Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full sequence from ma'aser preceding birds, birds preceding mincha, minchat chote preceding minchat nedava, and chattat ha'of preceding olat ha'of \u2014 the prose under 'Ma'aser-Ofot' (candidate 0) explicitly discusses all these transitions as a unified block, whereas candidate 1 ('Mincha Distinctions') only covers the latter portion, making candidate 0 the clearly better home for the entire passage.",
+      "chosen_heading": "Ma'aser-Ofot",
+      "current_heading": "Mincha Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Par Sheni Question",
+    "candidates": [
+      "Source Question",
+      "Levites' Bulls",
+      "Par Sheni Question",
+      "Chatat/Olah Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the baraita about the Levites' two bulls (par sheni / parshat Behaaloscha), which is exactly what heading 1 'Levites' Bulls' describes \u2014 the gemara's citation of the beraita grounded in the consecration of the Levi'im \u2014 whereas the current placement under 'Par Sheni Question' (index 2) describes only the middle portion of this baraita's reasoning, and index 1's prose explicitly introduces this entire beraita unit.",
+      "chosen_heading": "Levites' Bulls",
+      "current_heading": "Par Sheni Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Chatat/Olah Split",
+    "candidates": [
+      "Par Sheni Question",
+      "Chatat/Olah Split",
+      "Dam vs. Limbs",
+      "No Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address why all four blood placements of the chattat precede the olah \u2014 the question in item 1 and Ravina's answer plus the western sages' answer in item 2 \u2014 which is precisely what the 'Chatat/Olah Split' prose describes in detail, including the chatat haleviim argument and the 'hoil v'hitchil b'matanot gomeir' principle.",
+      "chosen_heading": "Chatat/Olah Split",
+      "current_heading": "Chatat/Olah Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "No Inference",
+    "candidates": [
+      "Dam vs. Limbs",
+      "No Inference",
+      "Dam Olah vs. Chatat",
+      "No Inference (2)",
+      "Olah vs. Asham"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "No Inference",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-6 cover the first two dilemmas (dam chattat/evarei olah and dam olah/imurei chattat) with their no-inference conclusions, matching the current heading's prose about attempts to resolve from the mishna canceling out.",
+      "second_heading": "Olah vs. Asham",
+      "second_confidence": "high",
+      "second_reason": "Items 7-11 introduce the third distinct dilemma about dam olah vs. dam asham, which precisely matches heading 4's prose about that specific question.",
+      "current_heading": "No Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Olah vs. Asham",
+    "candidates": [
+      "Dam Olah vs. Chatat",
+      "No Inference (2)",
+      "Olah vs. Asham",
+      "Ranking Dam",
+      "Asham Lower"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the gemara rejecting an explanation and then using the mishna's language 'mipnei shedama nittan' as precise diction to confirm the subject is sacrificial portions (imurim) not blood \u2014 this is exactly what the 'Asham Lower' prose describes when it notes 'the gemara notes that the mishna's language \u2014 mipnei shedama nittan \u2014 is specifically about the blood.'",
+      "chosen_heading": "Asham Lower",
+      "current_heading": "Olah vs. Asham",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Asham Lower",
+    "candidates": [
+      "Ranking Dam",
+      "Asham Lower",
+      "Asham Price",
+      "Kodshei vs. Kalim",
+      "Toda Over Shelamim",
+      "Shelamim Communal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's challenge that the asham should precede the chattat due to its fixed value (kitzva) and the response that greater altar applications (ribui d'mizbeiach) override this, which is precisely what the 'Asham Price' section's prose describes.",
+      "chosen_heading": "Asham Price",
+      "current_heading": "Asham Lower",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Shelamim Communal",
+    "candidates": [
+      "Asham Price",
+      "Kodshei vs. Kalim",
+      "Toda Over Shelamim",
+      "Shelamim Communal",
+      "Eating Days Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the asham (kodshei kodashim) precedes the toda and eil nazir despite their requiring loaves, which is precisely the content discussed in the 'Kodshei vs. Kalim' section about the categorical distinction between kodshei kodashim and kodashim kalim overriding other qualities.",
+      "chosen_heading": "Kodshei vs. Kalim",
+      "current_heading": "Shelamim Communal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Eating Days Priority",
+    "candidates": [
+      "Shelamim Communal",
+      "Eating Days Priority",
+      "Toda vs. Eil Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the challenge that shelamim should precede because they exist communally, which matches the 'Shelamim Communal' prose that discusses exactly this challenge, while the current heading covers the gemara's response/rejection \u2014 splitting the challenge and its answer across headings.",
+      "chosen_heading": "Shelamim Communal",
+      "current_heading": "Eating Days Priority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Toda vs. Eil Nazir",
+    "candidates": [
+      "Toda vs. Eil Nazir",
+      "Bread Types Decide",
+      "Shelamim Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the dilemma (ibaia lehu) about toda vs. eil nazir and its resolution, which is precisely what heading 0's prose describes as the content of that section.",
+      "chosen_heading": "Toda vs. Eil Nazir",
+      "current_heading": "Toda vs. Eil Nazir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Shelamim Mitzvot",
+    "candidates": [
+      "Bread Types Decide",
+      "Shelamim Mitzvot",
+      "Bechor M'Rechem",
+      "Bechor Priority",
+      "Ma'aser Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the challenge (bechor's kedusha m'rechem and priestly eating) and the resolution (mitzvot yeteiros adifei), which is precisely what heading 2 'Bechor M'Rechem' describes in its prose.",
+      "chosen_heading": "Bechor M'Rechem",
+      "current_heading": "Shelamim Mitzvot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Ma'aser Power",
+    "candidates": [
+      "Bechor M'Rechem",
+      "Bechor Priority",
+      "Ma'aser Power",
+      "Mammals Over Birds",
+      "Birds Kodshei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the bechor preceding ma'aser with kedusha m'rechem as the operative principle, which matches candidate 1's prose exactly, while candidate 2 ('Ma'aser Power') discusses the challenge/rejection but the passage itself is the full exchange that belongs under the 'Bechor Priority' heading where the conclusion (bechor wins via kedusha m'rechem) is the focus.",
+      "chosen_heading": "Bechor Priority",
+      "current_heading": "Ma'aser Power",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Birds Kodshei",
+    "candidates": [
+      "Mammals Over Birds",
+      "Birds Kodshei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's challenge that bird offerings are kodshei kodashim and should precede ma'aser, then rejects it with 'min zvach adif', which is precisely what the 'Birds Kodshei' prose describes.",
+      "chosen_heading": "Birds Kodshei",
+      "current_heading": "Birds Kodshei",
+      "moved": false
+    }
+  }
+]

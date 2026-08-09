@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Shimon's Derivation",
+    "candidates": [
+      "Shimon's Derivation",
+      "Why Repeat?",
+      "Kal V'Chomer Problem",
+      "Rava's Five Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question-and-answer about why the Torah enumerates each category explicitly rather than using a single general prohibition \u2014 exactly the content described in the 'Why Repeat?' prose section about *leyachadei lehu lavei lechol chad v'chad*.",
+      "chosen_heading": "Why Repeat?",
+      "current_heading": "Shimon's Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rava's Five Lashes",
+    "candidates": [
+      "Why Repeat?",
+      "Kal V'Chomer Problem",
+      "Rava's Five Lashes",
+      "Kodshei Kodashim",
+      "Boundary Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses why the verse 've-zar lo yochel ki kodesh heim' does not add a sixth lav \u2014 because it only applies when the food is fit for kohanim, which matches exactly the prose under 'Kodshei Kodashim' (candidate 3), not the prose under 'Rava's Five Lashes' (candidate 2) which covers the initial count of five.",
+      "chosen_heading": "Kodshei Kodashim",
+      "current_heading": "Rava's Five Lashes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Boundary Violation",
+    "candidates": [
+      "Kodshei Kodashim",
+      "Boundary Violation",
+      "Pasul Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'basadeh tereifah' verse and the principle of chutz limechitzoso, with the Gemara's answer that the prohibition only applies where the meat is fit inside \u2014 exactly the content described in the 'Boundary Violation' section prose.",
+      "chosen_heading": "Boundary Violation",
+      "current_heading": "Boundary Violation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Pasul Meat",
+    "candidates": [
+      "Pasul Meat",
+      "Eliezer's Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Eliezer's derivation from 'lo ye'achel ki kodesh hu' that any disqualified sanctified item carries a prohibition against eating, and the Gemara's response that this applies only where the item was initially fit \u2014 precisely what the 'Pasul Meat' prose describes.",
+      "chosen_heading": "Pasul Meat",
+      "current_heading": "Pasul Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Eliezer's Olah",
+    "candidates": [
+      "Eliezer's Olah",
+      "Kohen & Chattat",
+      "Lav from Asei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Eliezer's baraita about 'kalil tihye' imposing a prohibition on eating an olah, and the Gemara's confirmation that Rava's count is based on this verse \u2014 exactly what the prose under 'Eliezer's Olah' describes.",
+      "chosen_heading": "Eliezer's Olah",
+      "current_heading": "Eliezer's Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Lav from Asei",
+    "candidates": [
+      "Kohen & Chattat",
+      "Lav from Asei",
+      "Rava Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Giddel's statement about a kohen eating chattat/asham before sprinkling and the verse derivation, which corresponds directly to the 'Kohen & Chattat' section's prose about this new statement and its source, not the 'Lav from Asei' section which discusses the theoretical principle about lav haba miklal asei.",
+      "chosen_heading": "Kohen & Chattat",
+      "current_heading": "Lav from Asei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rava Objects",
+    "candidates": [
+      "Lav from Asei",
+      "Rava Objects",
+      "Zar Exempt",
+      "Zarus Relevance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's objection using the kosher animal verse to challenge the principle that a lav derived from an asei has the force of a lav, which matches exactly the prose under 'Rava Objects.'",
+      "chosen_heading": "Rava Objects",
+      "current_heading": "Rava Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Zarus Relevance",
+    "candidates": [
+      "Zar Exempt",
+      "Zarus Relevance",
+      "Hanacha Makev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the corrected version of Rav Giddel/Rav's ruling that a zar eating chattat or asham before zrikas hadam is exempt, which is precisely what the 'Zar Exempt' prose describes as the corrected statement (*ela i itmar hachi itmar*), while the current placement under 'Zarus Relevance' corresponds to the reasoning/derivation that follows, not the statement itself.",
+      "chosen_heading": "Zar Exempt",
+      "current_heading": "Zarus Relevance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Hanacha Makev",
+    "candidates": [
+      "Zarus Relevance",
+      "Hanacha Makev",
+      "Rot Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar's ruling that hanacha is me'akev and kriya is not, which is exactly what the 'Hanacha Makev' section's prose introduces and discusses.",
+      "chosen_heading": "Hanacha Makev",
+      "current_heading": "Hanacha Makev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rot Proof",
+    "candidates": [
+      "Rot Proof",
+      "Zeira's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge using the 'yirkavu' (rot) ruling from Rabbi Elazar citing Rabbi Hoshaya, which is exactly what the 'Rot Proof' section's prose discusses \u2014 the contradiction arising from the rot ruling and its implication about kriya being essential.",
+      "chosen_heading": "Rot Proof",
+      "current_heading": "Rot Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Zeira's Principle",
+    "candidates": [
+      "Zeira's Principle",
+      "Yochanan Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Zeira's principle directly, which is exactly what the 'Zeira's Principle' section discusses in detail.",
+      "chosen_heading": "Zeira's Principle",
+      "current_heading": "Zeira's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Yochanan Contradiction",
+    "candidates": [
+      "Yochanan Contradiction",
+      "Shimon vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi A\u1e25a bar Ya'akov's teaching that creates the contradiction within Rabbi Yo\u1e25anan's own statements, which is precisely what heading 0 ('Yochanan Contradiction') describes \u2014 the remi d'Rabbi Yochanan a'Rabbi Yochanan and the question from Rabbi Asi about when bikkurim become permitted to priests.",
+      "chosen_heading": "Yochanan Contradiction",
+      "current_heading": "Yochanan Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Shimon vs. Rabbanan",
+    "candidates": [
+      "Shimon vs. Rabbanan",
+      "Hinachto Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the contradiction (kashya) and its resolution (lo kashya) between Rabbi Yochanan's statements on recitation and placement, which is precisely what the 'Shimon vs. Rabbanan' prose describes \u2014 resolving keria a-keria via Rabbi Shimon vs. Rabbanan and hanacha a-hanacha via Rabbi Yehuda vs. Rabbanan.",
+      "chosen_heading": "Shimon vs. Rabbanan",
+      "current_heading": "Shimon vs. Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Hinachto Debate",
+    "candidates": [
+      "Hinachto Debate",
+      "Zar Chiyuv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly develop the 'Hinachto Debate' prose: item 1 is Rabbi Yehuda's baraita on ve-hinachto as tenufa, item 2 introduces Rabbi Eliezer ben Yaakov as the opposing tanna, and item 3 gives the yad-yad gezeira shava connecting bikkurim and shelamim \u2014 all explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Hinachto Debate",
+      "current_heading": "Hinachto Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Zar Chiyuv",
+    "candidates": [
+      "Zar Chiyuv",
+      "Re'iya Pnei Bayis",
+      "Sheshes's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question of when a zar becomes liable for eating bikkurim and the answer (re'iyat pnei ha-bayis), which is exactly what candidate 0 ('Zar Chiyuv') describes \u2014 the liability question and its operative moment \u2014 making the current placement correct.",
+      "chosen_heading": "Zar Chiyuv",
+      "current_heading": "Zar Chiyuv",
+      "moved": false
+    }
+  }
+]

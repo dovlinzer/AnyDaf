@@ -59,7 +59,7 @@
           "timestamp": "04:57"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -180,8 +180,8 @@
           "timestamp": "20:00"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Continued Kohelet 12: The Almond Tree Blossoms, the Grasshopper Drags, Desire Fails",
@@ -550,5 +550,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "29:40",
+  "amud_b_micro_title": "Communal Shiva",
+  "shiur_start_daf": 152,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,277 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Rav Nachman's Rule",
+    "candidates": [
+      "Mishnah: Forced Get",
+      "Rav Nachman's Rule",
+      "Rambam: Yetzer Hara",
+      "Non-Jewish Court Get",
+      "Four-Case Chart",
+      "Abaye's Challenge",
+      "Tanna: Semicha Needed",
+      "Beit Din Agency",
+      "Common vs. Rare Matters",
+      "Tosafot: Gerim & Shlichus",
+      "Mishnah: Rumor Status"
+    ],
+    "result": {
+      "best_index": 10,
+      "action": "single",
+      "chosen_heading": "Mishnah: Rumor Status",
+      "current_heading": "Rav Nachman's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Mishnah: Rumor Status",
+    "candidates": [
+      "Rambam: Yetzer Hara",
+      "Non-Jewish Court Get",
+      "Four-Case Chart",
+      "Abaye's Challenge",
+      "Tanna: Semicha Needed",
+      "Beit Din Agency",
+      "Common vs. Rare Matters",
+      "Tosafot: Gerim & Shlichus",
+      "Mishnah: Rumor Status",
+      "Rav Ashi: Post-Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All seven items discuss the Gemara's analysis of the mishnah's ruling about rumors of betrothal/divorce \u2014 specifically Shmuel's instruction to 'clarify the matter,' the dispute with Rav Huna about whether a married woman's acceptance of betrothal suppresses the rumor, and what happens if the matter cannot be clarified \u2014 all of which directly elaborates the mishnah about rumor status introduced in heading 8.",
+      "chosen_heading": "Mishnah: Rumor Status",
+      "current_heading": "Mishnah: Rumor Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav Ashi: Post-Marriage",
+    "candidates": [
+      "Rav Ashi: Post-Marriage",
+      "Pritzuta Rumors",
+      "Tannaim Debate",
+      "R. Yochanan: Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage about competing rumors (yatza aleiha kol mize umize) with Rav Pappa and Ameimar's rulings doesn't perfectly match any candidate's prose, but it relates most closely to the reinterpretation of rumor-based kol discussions under Rav Ashi's section, and the current placement is as defensible as any other option.",
+      "chosen_heading": "Rav Ashi: Post-Marriage",
+      "current_heading": "Rav Ashi: Post-Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "R. Yochanan: Two",
+    "candidates": [
+      "Pritzuta Rumors",
+      "Tannaim Debate",
+      "R. Yochanan: Two",
+      "Baraita: No Concern"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 4,
+      "first_heading": "R. Yochanan: Two",
+      "first_confidence": "high",
+      "first_reason": "The halakhic ruling 'she is permitted to both of them' is a concluding ruling that fits the 'R. Yochanan: Two' section which discusses evidentiary standards for divorce-related matters, and is the natural conclusion to that sugya.",
+      "second_heading": "R. Yochanan: Two",
+      "second_confidence": "high",
+      "second_reason": "This Mishna about Beit Shammai, Beit Hillel, and Rabbi Akiva debating grounds for divorce (ervat davar) is the Mishna that the 'R. Yochanan: Two' prose explicitly discusses, referencing the gezeirah shavah between 'davar' in the divorce verse and 'davar' in the witnesses verse.",
+      "third_heading": "R. Yochanan: Two",
+      "third_confidence": "high",
+      "third_reason": "This Gemara baraita records Beit Hillel and Beit Shammai's debate over the words 'ervat davar' and the derivation using 'al pi shenei edim yakum davar,' which is precisely what the 'R. Yochanan: Two' prose describes when it discusses Beit Shammai's use of the gezeirah shavah.",
+      "current_heading": "R. Yochanan: Two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Baraita: No Concern",
+    "candidates": [
+      "Baraita: No Concern",
+      "Baraita Extended"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "Neither candidate's prose discusses Rabbi Akiva's position on divorce or Reish Lakish's four meanings of 'ki,' making this passage a poor fit for both, but candidate 1 is slightly less mismatched as it deals with extended baraita content rather than the specific rumor-concern enumeration in candidate 0.",
+      "chosen_heading": "Baraita Extended",
+      "current_heading": "Baraita: No Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Baraita Extended",
+    "candidates": [
+      "Baraita Extended",
+      "Ulla: Circumstantial",
+      "Got Married Today"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage discusses the interpretation of 'ki' in the divorce verse \u2014 Beit Shammai vs. Rabbi Akiva on grounds for divorce \u2014 which relates to the broader discussion of divorce intentions and conditions found in the 'Got Married Today' section, rather than the baraita about rumors or Ulla's circumstantial evidence framework.",
+      "chosen_heading": "Got Married Today",
+      "current_heading": "Baraita Extended",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Got Married Today",
+    "candidates": [
+      "Ulla: Circumstantial",
+      "Got Married Today",
+      "Named Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All three items are consecutive questions to Rava about divorce conduct, and Candidate 1 is the only section whose prose explicitly addresses this material (specifically item 3), making it the best available home for the entire passage.",
+      "chosen_heading": "Got Married Today",
+      "current_heading": "Got Married Today",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Named Witnesses",
+    "candidates": [
+      "Named Witnesses",
+      "Abaye's Question",
+      "Chisda vs. Sheshes",
+      "Regional Practice",
+      "Unripe Dates Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "low",
+      "reason": "The passage from Rabbi Meir's baraita about attitudes toward women does not obviously match any of the candidate prose sections, but it most plausibly fits as an illustration appended to the 'Unripe Dates Case' discussion, or alternatively reflects a misplacement relative to a section not fully represented here; since no candidate clearly discusses this content, I prefer the closest available option with low confidence rather than the current placement under 'Named Witnesses.'",
+      "chosen_heading": "Unripe Dates Case",
+      "current_heading": "Named Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Unripe Dates Case",
+    "candidates": [
+      "Abaye's Question",
+      "Chisda vs. Sheshes",
+      "Regional Practice",
+      "Unripe Dates Case",
+      "Unknown Son",
+      "Minor Appears Grown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "low",
+      "reason": "This passage discusses a wife who bathes where men bathe and the Torah-level obligation to divorce such a wicked wife, which does not match any of the candidate headings about kol/rumor nullification cases \u2014 the current placement is retained by default as no candidate is a clearly better match.",
+      "chosen_heading": "Unripe Dates Case",
+      "current_heading": "Unripe Dates Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Minor Appears Grown",
+    "candidates": [
+      "Unknown Son",
+      "Minor Appears Grown",
+      "Mishnah: Amtala",
+      "Timing of Amtala",
+      "Possibility Suffices",
+      "Tenai Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yehuda and Rabbi Yo\u1e25anan's dispute about Malachi 2:16 regarding divorce/sending away one's wife, which has no connection to the rumor/kol/amatla discussion in any of the other candidates, and does not belong under 'Minor Appears Grown' \u2014 it appears to be misplaced entirely, but among the given candidates, none discuss divorce; however, since the task guarantees the true home is in this list, this passage about divorce (sinas ha'shalach) is most plausibly connected to the 'Tenai Example' section which deals with remarriage and divorce-related concerns, making it the closest match, though confidence is low given the poor fit across all candidates.",
+      "chosen_heading": "Tenai Example",
+      "current_heading": "Minor Appears Grown",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Tenai Example",
+    "candidates": [
+      "Mishnah: Amtala",
+      "Timing of Amtala",
+      "Possibility Suffices",
+      "Tenai Example",
+      "Limits of Possibility",
+      "Consequence Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "low",
+      "reason": "These items discuss the sanctity of a first marriage and the gravity of divorcing one's first wife \u2014 content that does not clearly match any of the candidate headings, which are all about amatla/kol/rumor doctrine; the current placement under 'Tenai Example' is no better or worse than the others, so the current placement is retained with low confidence.",
+      "chosen_heading": "Tenai Example",
+      "current_heading": "Tenai Example",
+      "moved": false
+    }
+  }
+]

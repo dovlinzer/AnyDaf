@@ -1,0 +1,300 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rabbi Eliezer Approach",
+    "candidates": [
+      "Intro: Hermeneutics",
+      "Klal U'Prat Rules",
+      "Ribuy U'Miut Rules",
+      "Miut V'Ribuy Correction",
+      "Rabbis' Dispute",
+      "Rabbi Eliezer Approach",
+      "Rabbanan Approach",
+      "Pri U'Psolet Pri",
+      "Third Term Function",
+      "Final Prat Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly answers the gemara's question 'be-mai kamiflagi' by explaining that Rabbi Elazar uses ribuy u'miut while the Rabbanan use klal u'prat, which is precisely what candidate 4 ('Rabbis' Dispute') describes in its prose.",
+      "chosen_heading": "Rabbis' Dispute",
+      "current_heading": "Rabbi Eliezer Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Final Prat Effect",
+    "candidates": [
+      "Rabbanan Approach",
+      "Pri U'Psolet Pri",
+      "Third Term Function",
+      "Final Prat Effect",
+      "V'Ad Zag Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation of 'pri u'psolet pri' \u2014 rejecting 'pri gamur' as the abstraction, explaining why the hermeneutic must include unripe grapes, and clarifying what counts as fruit vs. fruit waste \u2014 which is precisely what the 'Pri U'Psolet Pri' section's prose describes.",
+      "chosen_heading": "Pri U'Psolet Pri",
+      "current_heading": "Final Prat Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "V'Ad Zag Explained",
+    "candidates": [
+      "Final Prat Effect",
+      "V'Ad Zag Explained",
+      "The Problem",
+      "Answer 1: Dependent",
+      "Answer 2: Dual Use",
+      "Syntax & Semantics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains what 'af kol pri' includes (unripe grapes), what 'af kol psolet pri' includes (wormy grapes via Rav Kahana), and what 'v'ad zag' includes (what is in between via Ravina) \u2014 these are all elaborations of the Rabbanan's prat klal u'prat hermeneutic and its specific inclusions, which is precisely what the 'Final Prat Effect' prose discusses, including the explicit mention of pri u'psolet pri and the role of mechartzanim v'ad zag as the final prat.",
+      "chosen_heading": "Final Prat Effect",
+      "current_heading": "V'Ad Zag Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Syntax & Semantics",
+    "candidates": [
+      "The Problem",
+      "Answer 1: Dependent",
+      "Answer 2: Dual Use",
+      "Syntax & Semantics",
+      "Linguistic Defense",
+      "Three Terms Query",
+      "Empirical Silence",
+      "Concession Theory",
+      "Schools Consistency",
+      "Consistency Issue",
+      "Guardian Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-5 are entirely about the dual-use analysis of 'mechartzanim v'ad zag' \u2014 whether Rabbi Elazar ben Azaryah can hold like the Rabbanan while still using the phrase for his own halakha \u2014 which is precisely what the 'Answer 2: Dual Use' prose describes, not the 'Syntax & Semantics' section where it currently sits.",
+      "chosen_heading": "Answer 2: Dual Use",
+      "current_heading": "Syntax & Semantics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Guardian Example",
+    "candidates": [
+      "Linguistic Defense",
+      "Three Terms Query",
+      "Empirical Silence",
+      "Concession Theory",
+      "Schools Consistency",
+      "Consistency Issue",
+      "Guardian Example",
+      "Korban Example",
+      "Critique of Examples",
+      "Objection & Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Abbahu deriving the prat klal u'prat principle from the guardian (shomrim) passage, which is precisely what the 'Guardian Example' section's prose describes.",
+      "chosen_heading": "Guardian Example",
+      "current_heading": "Guardian Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Objection & Defense",
+    "candidates": [
+      "Korban Example",
+      "Critique of Examples",
+      "Objection & Defense",
+      "Behemah vs. Chayah",
+      "Maaser Passage",
+      "First Klal",
+      "Prat Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous exchange between Rava and Rav Yehuda of Diskarta about why the cattle-offering pasuk cannot serve as the source for prat klal u'prat, which is precisely what the 'Objection & Defense' section's prose describes.",
+      "chosen_heading": "Objection & Defense",
+      "current_heading": "Objection & Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Prat Examples",
+    "candidates": [
+      "Behemah vs. Chayah",
+      "Maaser Passage",
+      "First Klal",
+      "Prat Examples",
+      "Second Klal",
+      "Abstraction Rule",
+      "Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce the Maaser Sheni baraita as the paradigmatic klal prat u'klal source, which is precisely what the 'Maaser Passage' prose describes \u2014 a transparent three-part structure serving as the ideal illustration of the hermeneutic.",
+      "chosen_heading": "Maaser Passage",
+      "current_heading": "Prat Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Exclusions",
+    "candidates": [
+      "Second Klal",
+      "Abstraction Rule",
+      "Exclusions",
+      "Outer Klal Function",
+      "Broadening Effect",
+      "Outer Prat Function",
+      "Limiting Effect",
+      "Common Result"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the klal u'prat u'klal rule and derives the two abstracted characteristics (pri m'pri and gidulei karka), which is precisely what the 'Abstraction Rule' section's prose describes.",
+      "chosen_heading": "Abstraction Rule",
+      "current_heading": "Exclusions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Common Result",
+    "candidates": [
+      "Outer Klal Function",
+      "Broadening Effect",
+      "Outer Prat Function",
+      "Limiting Effect",
+      "Common Result",
+      "Single Aspect Suffices"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Broadening Effect",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses what the second klal accomplishes in klal u'prat u'klal \u2014 it broadens the scope \u2014 which matches the 'Broadening Effect' prose exactly.",
+      "second_heading": "Outer Prat Function",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the parallel question about the second prat in prat u'klal u'prat, which matches the 'Outer Prat Function' prose that poses precisely that question.",
+      "current_heading": "Common Result",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Single Aspect Suffices",
+    "candidates": [
+      "Common Result",
+      "Single Aspect Suffices",
+      "Dual Aspect Required",
+      "Both Seem Universal",
+      "Dissimilarity Limit",
+      "Application Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Single Aspect Suffices",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 directly address the practical difference between klal u'prat u'klal and prat klal u'prat \u2014 one aspect vs. two aspects of similarity \u2014 which is exactly what headings 'Single Aspect Suffices' and 'Dual Aspect Required' discuss together.",
+      "second_heading": "Both Seem Universal",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens an entirely new comparative question about prat u'klal versus miut v'ribuy, which matches the 'Both Seem Universal' heading's prose precisely.",
+      "current_heading": "Single Aspect Suffices",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Application Example",
+    "candidates": [
+      "Dual Aspect Required",
+      "Both Seem Universal",
+      "Dissimilarity Limit",
+      "Application Example",
+      "Vine Products",
+      "Leaves Contradiction",
+      "Unresolved Issue",
+      "The Question",
+      "Rhetorical Answer",
+      "Yishmael Principle",
+      "Structural Signal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly answers the question of what distinguishes prat u'klal from miut v'ribuy when both seem to yield universal inclusion \u2014 it provides the specific difference (leaves vs. tendrils), which is exactly what the 'Both Seem Universal' section sets up as the problem to be resolved.",
+      "chosen_heading": "Both Seem Universal",
+      "current_heading": "Application Example",
+      "moved": true
+    }
+  }
+]

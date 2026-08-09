@@ -1,0 +1,250 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Half-Kezayit Proof",
+    "candidates": [
+      "Pigul Overview",
+      "Shavuot Lambs & Loaves",
+      "Rabbi Yosi's Narrow View",
+      "Half-Kezayit Proof",
+      "Attribution Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's reasoning about the baraita involving a kezayit drawn from both loaves \u2014 identifying it as Rabbi Yosi's position and probing whether the two loaves can combine \u2014 which is precisely what the 'Half-Kezayit Proof' prose describes.",
+      "chosen_heading": "Half-Kezayit Proof",
+      "current_heading": "Half-Kezayit Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Attribution Question",
+    "candidates": [
+      "Attribution Question",
+      "Chatzi Matir Concept",
+      "Same Thought Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's deflection identifying the baraita as belonging to Rabbi Yehuda HaNasi rather than Rabbi Yosi, which is precisely what the 'Attribution Question' section's prose describes.",
+      "chosen_heading": "Attribution Question",
+      "current_heading": "Attribution Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Same Thought Requirement",
+    "candidates": [
+      "Chatzi Matir Concept",
+      "Same Thought Requirement",
+      "Rashi on Lebona",
+      "Inner Chatat Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items are a continuous Gemara discussion about whether Rebbi follows the Rabbanan or Rabbi Yosi, the reinterpretation of 'bishteihen' vs 'bishneihem', and the meaning of 'l'olam' \u2014 precisely the content described in the 'Same Thought Requirement' prose section.",
+      "chosen_heading": "Same Thought Requirement",
+      "current_heading": "Same Thought Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Inner Chatat Proof",
+    "candidates": [
+      "Rashi on Lebona",
+      "Inner Chatat Proof",
+      "Blood Spilling Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the baraita about inner chatat pigul cited by Rav Ashi, which the 'Inner Chatat Proof' prose explicitly describes in detail \u2014 the cases of standing outside/inside and intending acts outside/inside, matching the baraita's enumeration precisely.",
+      "chosen_heading": "Inner Chatat Proof",
+      "current_heading": "Inner Chatat Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Blood Spilling Problem",
+    "candidates": [
+      "Blood Spilling Problem",
+      "Meat Becomes Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the question of whether blood can become piggul and cites the mishna listing items exempt from piggul \u2014 exactly what the 'Blood Spilling Problem' prose describes, before the conclusion about meat is drawn.",
+      "chosen_heading": "Blood Spilling Problem",
+      "current_heading": "Blood Spilling Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Meat Becomes Pigul",
+    "candidates": [
+      "Meat Becomes Pigul",
+      "Kometz Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the a fortiori argument about blood/meat and pigul spreading from one thigh to the other, which is precisely what the 'Meat Becomes Pigul' section's prose discusses in detail.",
+      "chosen_heading": "Meat Becomes Pigul",
+      "current_heading": "Meat Becomes Pigul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Kometz Proof",
+    "candidates": [
+      "Kometz Proof",
+      "Unit Definition",
+      "Torah's Dual Language",
+      "Interdependence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Ravina proof about the kometz/shirayim case, which the 'Kometz Proof' prose explicitly describes in detail \u2014 the question of what becomes piggul, the rejection of the kometz becoming piggul, and the kal vachomer inference about the shirayim.",
+      "chosen_heading": "Kometz Proof",
+      "current_heading": "Kometz Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Interdependence",
+    "candidates": [
+      "Unit Definition",
+      "Torah's Dual Language",
+      "Interdependence",
+      "Separate Creation",
+      "Conceptual Combination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's full statement \u2014 'hainu ta'ama de'Rabbi Yose' plus the dual guf echad/shnei gufim formulation \u2014 which the 'Unit Definition' prose explicitly quotes and discusses as its central conclusion, making it the clearest match.",
+      "chosen_heading": "Unit Definition",
+      "current_heading": "Interdependence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Conceptual Combination",
+    "candidates": [
+      "Separate Creation",
+      "Conceptual Combination",
+      "Generalized Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the ervinhu/pilginhu rule \u2014 mixing vs. separating intent and its effect on pigul \u2014 which is precisely what the 'Conceptual Combination' prose explains and contextualizes.",
+      "chosen_heading": "Conceptual Combination",
+      "current_heading": "Conceptual Combination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Generalized Principle",
+    "candidates": [
+      "Generalized Principle",
+      "Shechita & Zrika",
+      "Which Avodot Combine",
+      "Matirin Opinion",
+      "Distant Avodot View",
+      "Levi's Position",
+      "Rabbi vs. Rabbis",
+      "Rabbi's View Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yo\u1e25anan's dilemma about piggul in loaves of a thanks offering and baked meal offerings, and Rav Ta\u1e25lifa's answer extending Rabbi Yosi's principle \u2014 exactly what the 'Generalized Principle' prose describes.",
+      "chosen_heading": "Generalized Principle",
+      "current_heading": "Generalized Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Rabbi's View Clarified",
+    "candidates": [
+      "Shechita & Zrika",
+      "Which Avodot Combine",
+      "Matirin Opinion",
+      "Distant Avodot View",
+      "Levi's Position",
+      "Rabbi vs. Rabbis",
+      "Rabbi's View Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All six items form one continuous discussion: the baraita about shechita/zerika combining (item 1), the amoraic dispute about which avodot combine (items 2-3), Levi's challenge and Rava's resolution via Rabbi vs. Rabbanan (items 3-5), and Abaye's objection distinguishing chatzi matir from kulo matir followed by Rava bar Rav Chanan's further pressing (items 5-6) \u2014 exactly the content described in heading 6's prose about Abaye clarifying Rabbi's view and Rava bar Rav Chanan's closing argument.",
+      "chosen_heading": "Rabbi's View Clarified",
+      "current_heading": "Rabbi's View Clarified",
+      "moved": false
+    }
+  }
+]

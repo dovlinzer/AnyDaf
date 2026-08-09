@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Kemitzah Variations",
+    "candidates": [
+      "Kemitzah Overview",
+      "Chafinah Between Fingers",
+      "Identical or Distinct Q",
+      "Verb Analysis",
+      "Rav Papa Clarifies",
+      "Kemitzah Normal Way",
+      "Kemitzah Variations",
+      "Teiku on Kemitzah",
+      "Teiku",
+      "Two Interpretations",
+      "Chafinah Normal Way"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 5 ('Kemitzah Normal Way') describes: Rav Papa's statement that it is obvious the kemitzah should be done in the normal way people scoop, followed by his dilemmas about variations (fingertips, bottom-up, from the sides) \u2014 which is the content of candidate 5's prose, not candidate 6 which merely elaborates those same variations without the 'pishita li' opening that begins this passage.",
+      "chosen_heading": "Kemitzah Normal Way",
+      "current_heading": "Kemitzah Variations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Chafinah Normal Way",
+    "candidates": [
+      "Teiku on Kemitzah",
+      "Teiku",
+      "Two Interpretations",
+      "Chafinah Normal Way",
+      "Chafinah Variations",
+      "Teiku on Chafinah",
+      "Kometz on Wall",
+      "Two Answers",
+      "Tosafot: Kli Sharet",
+      "Inverted Vessel",
+      "Two Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rav Papa's obvious ruling about the normal manner of chafinah (pishita li melo chofnov) followed by his dilemmas about variations, which matches heading 3 'Chafinah Normal Way' whose prose explicitly discusses Rav Papa's pishita li statement and the normal scooping method before noting the variations raise questions \u2014 the current placement is correct.",
+      "chosen_heading": "Chafinah Normal Way",
+      "current_heading": "Chafinah Normal Way",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Two Readings",
+    "candidates": [
+      "Chafinah Variations",
+      "Teiku on Chafinah",
+      "Kometz on Wall",
+      "Two Answers",
+      "Tosafot: Kli Sharet",
+      "Inverted Vessel",
+      "Two Readings",
+      "Smooth or Heaping",
+      "T'fufot Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Items 1-3 together present Rav Papa's question about sticking the kometz to the wall and Mar bar Rav Ashi's question about inverting the vessel \u2014 both belong under 'Inverted Vessel' (index 5), which is the section whose prose introduces Mar bar Rav Ashi's dilemma about inverting the vessel and frames both questions together, rather than 'Two Readings' (index 6) which discusses interpretations of the inverted vessel case rather than presenting the Talmudic text itself.",
+      "chosen_heading": "Inverted Vessel",
+      "current_heading": "Two Readings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "T'fufot Answer",
+    "candidates": [
+      "Smooth or Heaping",
+      "T'fufot Answer",
+      "Blood Spill Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's dilemma AND Rabbi Abba's resolution, so the entire unit belongs under the 'Smooth or Heaping' heading which introduces the question, rather than splitting it across two headings.",
+      "chosen_heading": "Smooth or Heaping",
+      "current_heading": "T'fufot Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Blood Spill Rule",
+    "candidates": [
+      "T'fufot Answer",
+      "Blood Spill Rule",
+      "Dam Me'hapar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna about blood spilling before and after proper reception, which is exactly what the 'Blood Spill Rule' prose describes as the paradigm mishna being introduced.",
+      "chosen_heading": "Blood Spill Rule",
+      "current_heading": "Blood Spill Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Dam Me'hapar",
+    "candidates": [
+      "Dam Me'hapar",
+      "Hermeneutic Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the rules about lifeblood vs. skin blood vs. squeezed blood from 'midam hapar,' which is precisely what the prose under heading 0 discusses, not the second hermeneutic derivation about catching blood directly from the animal discussed in heading 1.",
+      "chosen_heading": "Dam Me'hapar",
+      "current_heading": "Dam Me'hapar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Hermeneutic Analysis",
+    "candidates": [
+      "Hermeneutic Analysis",
+      "All Blood Required",
+      "Hermeneutic Rules",
+      "Chafinah Scatter Q",
+      "Hand as Throat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the argument that the 'mem' of 'midam' cannot mean 'some blood' because Rav Yehuda already requires all the blood, so the mem is available to be repositioned \u2014 which is precisely what candidate 1 ('All Blood Required') describes, including Rav Yehuda's ruling and the conclusion that the mem is freed up for reinterpretation.",
+      "chosen_heading": "All Blood Required",
+      "current_heading": "Hermeneutic Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Hand as Throat",
+    "candidates": [
+      "All Blood Required",
+      "Hermeneutic Rules",
+      "Chafinah Scatter Q",
+      "Hand as Throat",
+      "Hand as Kli Sharet",
+      "Teiku (II)",
+      "Why Chafinah Not Kemitzah",
+      "Analogy Difference",
+      "Four Avodot Model",
+      "Leftover Status",
+      "Rambam Rules",
+      "Pigul in Chafinah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's dilemma about scattered ketoret and the two possible answers (hand as throat vs. hand as kli sharet) concluding with teiku \u2014 this is the full question that candidate 2's prose ('Chafinah Scatter Q') describes as its topic, whereas the current placement under 'Hand as Throat' covers only one side of the dilemma rather than the whole passage.",
+      "chosen_heading": "Chafinah Scatter Q",
+      "current_heading": "Hand as Throat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Pigul in Chafinah",
+    "candidates": [
+      "Hand as Kli Sharet",
+      "Teiku (II)",
+      "Why Chafinah Not Kemitzah",
+      "Analogy Difference",
+      "Four Avodot Model",
+      "Leftover Status",
+      "Rambam Rules",
+      "Pigul in Chafinah",
+      "Learn or Not",
+      "Tevul Yom Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's dilemma about whether a disqualifying thought during the chafinah of the ketoret invalidates the rite, which is precisely what the 'Pigul in Chafinah' section's prose introduces and discusses.",
+      "chosen_heading": "Pigul in Chafinah",
+      "current_heading": "Pigul in Chafinah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Tevul Yom Braita",
+    "candidates": [
+      "Learn or Not",
+      "Tevul Yom Braita",
+      "Kli Sharet Unity",
+      "Time Matters Logic",
+      "Proof Gap",
+      "Pigul in Coals",
+      "Preparatory Like Main",
+      "Teiku (II)",
+      "Left Hand Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the Tevul Yom baraita \u2014 item 1 is Rav Shimi bar Ashi's proof from Rabbi Akiva's ruling about tevul yom disqualifying the handful, incense, frankincense, and coals, and item 2 is the gemara's explanation of the logical chain from tevul yom to lina to machshava \u2014 exactly matching the 'Tevul Yom Braita' section's prose description.",
+      "chosen_heading": "Tevul Yom Braita",
+      "current_heading": "Tevul Yom Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Left Hand Question",
+    "candidates": [
+      "Kli Sharet Unity",
+      "Time Matters Logic",
+      "Proof Gap",
+      "Pigul in Coals",
+      "Preparatory Like Main",
+      "Teiku (II)",
+      "Left Hand Question",
+      "Kaf in Left Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's dilemma about improper thoughts during the raking/scooping of coals (chatiyat gechalim) and the question of machshirei mitzvah k'mitzvah, which is precisely what candidate 3 ('Pigul in Coals') discusses in its prose.",
+      "chosen_heading": "Pigul in Coals",
+      "current_heading": "Left Hand Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Kaf in Left Hand",
+    "candidates": [
+      "Left Hand Question",
+      "Kaf in Left Hand",
+      "Olah Limb Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma about left-hand holacha and Rav Sheshet's answer, which is the question and its resolution \u2014 this belongs under 'Left Hand Question' where the prose frames the theoretical dilemma, while the current placement 'Kaf in Left Hand' describes the answer's implications, which is commentary on the passage rather than the passage itself.",
+      "chosen_heading": "Left Hand Question",
+      "current_heading": "Kaf in Left Hand",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Olah Limb Precedent",
+    "candidates": [
+      "Olah Limb Precedent",
+      "Essential vs. Limbs",
+      "Me'akva Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's suggestion to derive left-hand holacha permissibility from the mishna about carrying the right leg in the left hand \u2014 exactly what the 'Olah Limb Precedent' prose describes.",
+      "chosen_heading": "Olah Limb Precedent",
+      "current_heading": "Olah Limb Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Me'akva Restriction",
+    "candidates": [
+      "Essential vs. Limbs",
+      "Me'akva Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's rejection ('if from there, I would have said...') which is exactly the content described in candidate 0's prose about rejecting the proof because holacha d'la me'akva kapara differs from holacha d'me'akva kapara \u2014 candidate 0 describes this rejection step, while candidate 1 describes the conclusion/teaching that follows.",
+      "chosen_heading": "Essential vs. Limbs",
+      "current_heading": "Me'akva Restriction",
+      "moved": true
+    }
+  }
+]

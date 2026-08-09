@@ -1,0 +1,392 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Three Baraitot",
+    "candidates": [
+      "Mishnah Overview",
+      "Conditions vs. Objects",
+      "R. Shimon: Leshevach",
+      "Three Baraitot",
+      "Rashi's Cases",
+      "Gemara's Question",
+      "Tosafot Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the three baraitot about 'this goblet' and the Gemara's resolution distinguishing water, wine, and oil/brine, which is precisely what the 'Three Baraitot' section prose describes.",
+      "chosen_heading": "Three Baraitot",
+      "current_heading": "Three Baraitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Tosafot Distinction",
+    "candidates": [
+      "Rashi's Cases",
+      "Gemara's Question",
+      "Tosafot Distinction",
+      "Woman's Shaliach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about Rabbi Shimon's position using the wine/vinegar case to challenge why gold instead of silver should validate kiddushin, which is precisely what the 'Gemara's Question' section's prose describes.",
+      "chosen_heading": "Gemara's Question",
+      "current_heading": "Tosafot Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Woman's Shaliach",
+    "candidates": [
+      "Tosafot Distinction",
+      "Woman's Shaliach",
+      "Makpid vs. Mareh Makom",
+      "Language Objection",
+      "Woman Appoints"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Shimi bar Ashi finding Abaye explaining the Mishnah to his son, presenting the shaliach scenario (silver vs. gold dinar), which is precisely what the 'Woman's Shaliach' prose describes as Abaye's resolution involving a man's shaliach and the kefida/mareh makom distinction.",
+      "chosen_heading": "Woman's Shaliach",
+      "current_heading": "Woman's Shaliach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Woman Appoints",
+    "candidates": [
+      "Makpid vs. Mareh Makom",
+      "Language Objection",
+      "Woman Appoints",
+      "Identification Question",
+      "Abaye Reports",
+      "Get Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Language Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the linguistic objections (hiskadshi li vs. lo, nimtza) that the 'Language Objection' prose explicitly describes as showing Abaye's reading cannot be correct.",
+      "second_heading": "Woman Appoints",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's alternative reading involving the woman's shaliach and the wrapped coin, which matches exactly what the 'Woman Appoints' prose describes.",
+      "current_heading": "Woman Appoints",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Get Analogy",
+    "candidates": [
+      "Identification Question",
+      "Abaye Reports",
+      "Get Analogy",
+      "Get Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's report listing the three Tanna'im who hold 'mareh makom,' with item 1 being his opening statement and item 2 being the Mishnah cited as proof for Rabban Shimon ben Gamliel \u2014 exactly what the 'Abaye Reports' prose describes.",
+      "chosen_heading": "Abaye Reports",
+      "current_heading": "Get Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Get Decision",
+    "candidates": [
+      "Get Analogy",
+      "Get Decision",
+      "Limits of Doctrine",
+      "R. Elazar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Ashi's clarification about the case where a shaliach wrote one type of get when the regional custom dictated the other, establishing that all agree this is kefida \u2014 exactly what the 'Get Decision' prose describes.",
+      "chosen_heading": "Get Decision",
+      "current_heading": "Get Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "R. Elazar Case",
+    "candidates": [
+      "Limits of Doctrine",
+      "R. Elazar Case",
+      "Ulla's Position",
+      "Yichus Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly support the R. Elazar / mareh makom discussion: item 1 establishes the precise dispute context (ordinary vs. tied document, kefida vs. mareh makom) and item 2 is the Rabbi Elazar mishna from Gittin that proves his mareh makom principle \u2014 exactly what the 'R. Elazar Case' prose describes in detail.",
+      "chosen_heading": "R. Elazar Case",
+      "current_heading": "R. Elazar Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Yichus Objection",
+    "candidates": [
+      "Ulla's Position",
+      "Yichus Objection",
+      "Baraita Agreement",
+      "Silence Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Ulla's statement about yichus and the baraita confirmation, which together form the content described in the 'Yichus Objection' section prose, and the current placement correctly captures the full unit including the baraita that immediately follows Ulla's statement.",
+      "chosen_heading": "Yichus Objection",
+      "current_heading": "Yichus Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Silence Proof",
+    "candidates": [
+      "Baraita Agreement",
+      "Silence Proof",
+      "Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely Rav Ashi's argument that Rabbi Shimon's silence in the mishnah about kohen/levi/mamzer/natin cases proves he concedes those rulings, which is exactly what the 'Silence Proof' section's prose describes.",
+      "chosen_heading": "Silence Proof",
+      "current_heading": "Silence Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Objection",
+    "candidates": [
+      "Objection",
+      "Gemara Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form Mar bar Rav Ashi's objection and its immediate resolution (peliv be-reisha ve-hu ha-din le-seifa), which is exactly what the 'Objection' prose describes \u2014 the challenge from the daughter/maidservant case and the answer that Rabbi Shimon stated his position once and it applies to all similar cases.",
+      "chosen_heading": "Objection",
+      "current_heading": "Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Gemara Response",
+    "candidates": [
+      "Gemara Response",
+      "Megudelet Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection/rebuttal explaining why silence about yichusin is meaningful unlike silence about monetary cases, which matches exactly the 'Gemara Response' prose discussing hatam idi ve-idi shvach mamon versus shvach yichusin.",
+      "chosen_heading": "Gemara Response",
+      "current_heading": "Gemara Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Megudelet Definition",
+    "candidates": [
+      "Megudelet Definition",
+      "Reader Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the alternative interpretation of *megudelet* as a hairdresser who gossips, which is precisely what candidate 0's prose elaborates on in detail.",
+      "chosen_heading": "Megudelet Definition",
+      "current_heading": "Megudelet Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Reader Condition",
+    "candidates": [
+      "Reader Condition",
+      "Learner Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the 'kraina'/'kara ana' condition \u2014 the baraita about reading three verses, Rabbi Yehuda's Targum requirement, and the distinction between kraina and kara ana \u2014 all of which are explicitly discussed in the 'Reader Condition' prose.",
+      "chosen_heading": "Reader Condition",
+      "current_heading": "Reader Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Learner Condition",
+    "candidates": [
+      "Learner Condition",
+      "Student Condition",
+      "Sage Condition",
+      "Valiant",
+      "Rich"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Learner Condition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the 'shoneh'/'tanna' condition (learning/studying), matching exactly the 'Learner Condition' prose which covers the \u1e24izkiyya/Rabbi Yo\u1e25anan dispute, the baraita objection, and the tanina/tanna ana distinction.",
+      "second_heading": "Student Condition",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the entirely new case of 'al menat she-ani talmid' and 'al menat she-ani chacham', matching the 'Student Condition' prose which discusses the talmid standard and the Shimon ben Azzai/ben Zoma benchmark \u2014 a new self-contained unit beginning a different condition.",
+      "current_heading": "Learner Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rich",
+    "candidates": [
+      "Student Condition",
+      "Sage Condition",
+      "Valiant",
+      "Rich",
+      "Righteous",
+      "Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the 'gibbor' (strong) and 'ashir' (wealthy) conditions together, and candidate 2 ('Valiant') is where this combined passage begins, with candidate 3 ('Rich') covering only the second half \u2014 the full passage belongs under 'Valiant' since it opens with the gibbor condition.",
+      "chosen_heading": "Valiant",
+      "current_heading": "Rich",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Wicked",
+    "candidates": [
+      "Righteous",
+      "Wicked",
+      "Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the 'righteous' and 'wicked' conditions in a single Talmudic quote, and the prose under heading 0 ('Righteous') explicitly discusses both cases together, while heading 1 ('Wicked') is meant to discuss only the wicked case in isolation after the quote has already been cited.",
+      "chosen_heading": "Righteous",
+      "current_heading": "Wicked",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Distribution",
+    "candidates": [
+      "Wicked",
+      "Distribution",
+      "Elam's Haughtiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the ten kav distributions of wisdom, beauty, wealth, poverty, and arrogance across the world, which exactly matches the prose of candidate 1 ('Distribution') that summarizes these same five qualities and their recipients.",
+      "chosen_heading": "Distribution",
+      "current_heading": "Distribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Elam's Haughtiness",
+    "candidates": [
+      "Elam's Haughtiness",
+      "Other Traits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about whether arrogance descended to Babylonia or Elam, and the prose under heading 0 ('Elam's Haughtiness') precisely describes all three items in sequence.",
+      "chosen_heading": "Elam's Haughtiness",
+      "current_heading": "Elam's Haughtiness",
+      "moved": false
+    }
+  }
+]

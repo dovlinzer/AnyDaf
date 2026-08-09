@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Reish Lakish's Stringency",
+    "candidates": [
+      "Re'iyat Panim/Korban",
+      "Reish Lakish's Stringency",
+      "Rav Yochanan's Leniency",
+      "Beraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items constitute the continuous debate between Rabbi Yo\u1e25anan and Reish Lakish over what 're'iyah' means (appearance in the courtyard vs. appearance with a korban), which is precisely what heading 0 ('Re'iyat Panim/Korban') describes as its opening topic, including the clarification that the dispute concerns the rest of the Festival days and the baraita challenges \u2014 all of which flow from that single opening question.",
+      "chosen_heading": "Re'iyat Panim/Korban",
+      "current_heading": "Reish Lakish's Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Beraita Challenge",
+    "candidates": [
+      "Rav Yochanan's Leniency",
+      "Beraita Challenge",
+      "Ikar HaRegel",
+      "Yera'eh Yera'eh",
+      "Free Seeing Argument",
+      "Final Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the beraita challenge from Rabbi Yose son of Rabbi Yehuda about appearing at the three regalim, which is exactly what the 'Beraita Challenge' prose describes \u2014 including the challenge based on kol zechurecha and lo yera'u fanai reikam, and Rabbi Yochanan's response of be-ikar haregel.",
+      "chosen_heading": "Beraita Challenge",
+      "current_heading": "Beraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Final Agreement",
+    "candidates": [
+      "Ikar HaRegel",
+      "Yera'eh Yera'eh",
+      "Free Seeing Argument",
+      "Final Agreement",
+      "Paradox Explained",
+      "Gemara as Reconstruction",
+      "Understanding the Device",
+      "Dynamic Transmission",
+      "One Korban Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yo\u1e25anan challenging Reish Lakish with the 'yireh/yera'eh' wordplay and the 'just as I see you for free, so too you see Me for free' argument, which is precisely what the 'Yera'eh Yera'eh' section's prose describes.",
+      "chosen_heading": "Yera'eh Yera'eh",
+      "current_heading": "Final Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "One Korban Only",
+    "candidates": [
+      "Paradox Explained",
+      "Gemara as Reconstruction",
+      "Understanding the Device",
+      "Dynamic Transmission",
+      "One Korban Only",
+      "Bal Tosif Issue",
+      "Multiple Korbanos OK",
+      "Hokeir Raglecha",
+      "Sin vs Free-Will"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items establish the core point of the genuine dispute \u2014 that everyone agrees one may appear without a korban on subsequent visits, and the disagreement concerns bringing an additional korban \u2014 which is precisely what the 'One Korban Only' prose section introduces and discusses.",
+      "chosen_heading": "One Korban Only",
+      "current_heading": "One Korban Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Sin vs Free-Will",
+    "candidates": [
+      "Bal Tosif Issue",
+      "Multiple Korbanos OK",
+      "Hokeir Raglecha",
+      "Sin vs Free-Will",
+      "Rav Yosef's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yochanan's objection from 'hokeir raglecha,' Rabbi Levi's resolution distinguishing sin-offerings from burnt-offerings, and the corroborating baraita \u2014 are precisely what the 'Sin vs Free-Will' prose describes, making the current placement correct.",
+      "chosen_heading": "Sin vs Free-Will",
+      "current_heading": "Sin vs Free-Will",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav Yosef's Reading",
+    "candidates": [
+      "Rav Yosef's Reading",
+      "Abaye's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's initial interpretation of 'may not appear partially' \u2014 that one with ten sons should not send five now and five tomorrow \u2014 which matches exactly the prose under 'Rav Yosef's Reading.'",
+      "chosen_heading": "Rav Yosef's Reading",
+      "current_heading": "Rav Yosef's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Abaye's Logic",
+    "candidates": [
+      "Abaye's Logic",
+      "Excluding the Unfit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection calling it obvious ('peshita') that splitting sons between days would make some negligent and some vigilant, which directly matches the prose under 'Abaye's Logic.'",
+      "chosen_heading": "Abaye's Logic",
+      "current_heading": "Abaye's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Excluding the Unfit",
+    "candidates": [
+      "Excluding the Unfit",
+      "Rashi's View",
+      "Obligatory vs Optional",
+      "Three Korban Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the A\u1e25erim baraita about the mekametz, copper smelter, and tanner being exempt from re'iyah due to offensive odors, which is precisely what the prose under 'Excluding the Unfit' describes.",
+      "chosen_heading": "Excluding the Unfit",
+      "current_heading": "Excluding the Unfit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Three Korban Types",
+    "candidates": [
+      "Rashi's View",
+      "Obligatory vs Optional",
+      "Three Korban Types",
+      "Olat Re'iyah Rules",
+      "Shalmei Simcha",
+      "Dense Mishnah",
+      "Rejoicing Through Meat",
+      "Simcha Flexibility",
+      "Pure Gift Concept",
+      "Celebration Offering",
+      "Yom Tov Restriction",
+      "Chisurei Mechsara",
+      "Olat Re'iyah Principle",
+      "Pesach Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The entire passage \u2014 from the Mishna introducing the chullin/ma'aser distinction through the Gemara's chisurei mechsara resolution \u2014 forms one continuous discussion of the obligatory vs. optional offering principle, which heading 1 explicitly introduces as the topic of this mishnah.",
+      "chosen_heading": "Obligatory vs Optional",
+      "current_heading": "Three Korban Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Pesach Distinction",
+    "candidates": [
+      "Olat Re'iyah Rules",
+      "Shalmei Simcha",
+      "Dense Mishnah",
+      "Rejoicing Through Meat",
+      "Simcha Flexibility",
+      "Pure Gift Concept",
+      "Celebration Offering",
+      "Yom Tov Restriction",
+      "Chisurei Mechsara",
+      "Olat Re'iyah Principle",
+      "Pesach Distinction",
+      "Arba'ah Asar Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the mishnah specifies the chagigah of the first day of Pesach (the fifteenth) versus the chagigat arba'ah asar (the fourteenth), which is precisely what the 'Pesach Distinction' section's prose discusses.",
+      "chosen_heading": "Pesach Distinction",
+      "current_heading": "Pesach Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Arba'ah Asar Status",
+    "candidates": [
+      "Arba'ah Asar Status",
+      "Why No Pre-Sanctified",
+      "Ulla's Tofel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the conclusion that the chagigat arba'ah asar is not a Torah-level obligation, which is precisely the topic of the 'Arba'ah Asar Status' section and its prose discussion about why this offering may be brought from ma'aser funds.",
+      "chosen_heading": "Arba'ah Asar Status",
+      "current_heading": "Arba'ah Asar Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Ulla's Tofel",
+    "candidates": [
+      "Why No Pre-Sanctified",
+      "Ulla's Tofel",
+      "Chizkiyah's Position",
+      "Rav Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's answer ('be-tofel') to the question of why Beit Hillel permits ma'aser for the chagigah offering, which is precisely what the 'Ulla's Tofel' section's prose describes.",
+      "chosen_heading": "Ulla's Tofel",
+      "current_heading": "Ulla's Tofel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Rav Yochanan",
+    "candidates": [
+      "Chizkiyah's Position",
+      "Rav Yochanan",
+      "Tannaitic Sources",
+      "Missat Yadecha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Chizkiyah's and Rabbi Yochanan's positions in a single Talmudic quote, but the prose under heading 0 ('Chizkiyah's Position') is where this source text is introduced and explained first, while heading 1 discusses Rabbi Yochanan's view in essay prose without needing to re-quote the Aramaic \u2014 the quoted passage itself belongs at the point where both positions are first introduced, which is under Chizkiyah's section.",
+      "chosen_heading": "Chizkiyah's Position",
+      "current_heading": "Rav Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Missat Yadecha",
+    "candidates": [
+      "Tannaitic Sources",
+      "Missat Yadecha",
+      "Ma'aser Behema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are tannaitic baraita sources supporting the Amoraic positions of \u1e24izkiya and Rabbi Yo\u1e25anan, and candidate 0 ('Tannaitic Sources') explicitly describes the Gemara citing braitot in support of each view, making it the natural home for both items.",
+      "chosen_heading": "Tannaitic Sources",
+      "current_heading": "Missat Yadecha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Ma'aser Behema",
+    "candidates": [
+      "Missat Yadecha",
+      "Ma'aser Behema",
+      "Sikra Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses fulfilling the simcha obligation with ma'aser behema on the later days of Passover and asks why it cannot be used on the first day of Yom Tov, which is precisely what the 'Ma'aser Behema' section's prose describes.",
+      "chosen_heading": "Ma'aser Behema",
+      "current_heading": "Ma'aser Behema",
+      "moved": false
+    }
+  }
+]

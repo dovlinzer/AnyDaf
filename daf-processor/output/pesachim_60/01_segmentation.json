@@ -98,7 +98,7 @@
           "timestamp": "13:37"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -153,7 +153,7 @@
         }
       ],
       "sefaria_index": 2,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Owners (Le'ochlav) Case: Mixed Intention Regarding Eaters",
@@ -196,7 +196,7 @@
           "timestamp": "32:00"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -372,7 +372,7 @@
           "timestamp": "49:47"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -416,7 +416,7 @@
           "timestamp": "53:07"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     }
   ],
@@ -653,5 +653,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "32:56",
+  "amud_b_micro_title": "Two Avodot Case",
+  "shiur_start_daf": 59,
+  "shiur_start_amud": "b"
 }

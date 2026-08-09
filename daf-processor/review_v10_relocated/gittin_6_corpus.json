@@ -1,0 +1,460 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Every Letter Present",
+    "candidates": [
+      "lishmah vs. Signatures",
+      "Both Positions Align",
+      "Every Letter Present",
+      "Leniency & Chumras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Bar Haddaya coming before Rabbi A\u1e25ai who instructs him to stand over every letter, then going to Rabbi Ami and Rabbi Asi \u2014 exactly the content discussed in the 'Every Letter Present' section's prose.",
+      "chosen_heading": "Every Letter Present",
+      "current_heading": "Every Letter Present",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Leniency & Chumras",
+    "candidates": [
+      "Leniency & Chumras",
+      "Earlier Gittin Concern",
+      "One Line Suffices",
+      "Hearing Quill/Klaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the chumra argument and its rejection via 'motzi la'az al gittin harishonim,' which is precisely what the current heading's prose discusses.",
+      "chosen_heading": "Leniency & Chumras",
+      "current_heading": "Leniency & Chumras",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Hearing Quill/Klaf",
+    "candidates": [
+      "Earlier Gittin Concern",
+      "One Line Suffices",
+      "Hearing Quill/Klaf",
+      "Medinat Hayam Case",
+      "Bifani Meaning",
+      "Sofer Marketplace"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One Line Suffices",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbah bar bar \u1e24ana's case and Rabbi Elazar's one-line ruling plus Rav Ashi's 'sound of quill' statement, which is precisely what candidate 1 ('One Line Suffices') and candidate 2 ('Hearing Quill/Klaf') discuss \u2014 but since items 1-2 are already placed under candidate 2 and candidate 1's prose explicitly covers the Rabbah bar bar \u1e24ana/Rabbi Elazar case while candidate 2's prose covers Rav Ashi, items 1-2 (ending with Rav Ashi's statement) belong under candidate 1 which discusses that entire sequence through Rav Ashi.",
+      "second_heading": "Medinat Hayam Case",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the baraita supporting Rav Ashi and the gemara's interrogation of the upstairs/downstairs case, which is exactly what candidates 3 ('Medinat Hayam Case') and 4 ('Bifani Meaning') discuss \u2014 item 3 belongs under candidate 3 and item 4 under candidate 4, but as a unit items 3-4 fit candidate 3 as the baraita and its immediate analysis form one continuous passage.",
+      "current_heading": "Hearing Quill/Klaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Sofer Marketplace",
+    "candidates": [
+      "Medinat Hayam Case",
+      "Bifani Meaning",
+      "Sofer Marketplace",
+      "Distraction Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly analyzes who is 'entering and exiting' from the baraita \u2014 concluding it must refer to the sofer rather than the shaliach \u2014 which is precisely what the 'Sofer Marketplace' prose describes.",
+      "chosen_heading": "Sofer Marketplace",
+      "current_heading": "Sofer Marketplace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Distraction Concern",
+    "candidates": [
+      "Distraction Concern",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'lo tzricha' answer about the sofer going to the market and returning, which is exactly what the 'Distraction Concern' prose describes.",
+      "chosen_heading": "Distraction Concern",
+      "current_heading": "Distraction Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Two Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav vs. Shmuel debate about Babylonia's status for gittin, which is precisely what heading 0's prose introduces and explains.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Two Explanations",
+    "candidates": [
+      "Two Explanations",
+      "Rav Huna Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous sugya \u2014 proposal, rejection, and resolution \u2014 about why Rav and Shmuel disagree, which matches exactly what the 'Two Explanations' prose describes.",
+      "chosen_heading": "Two Explanations",
+      "current_heading": "Two Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rav Huna Statement",
+    "candidates": [
+      "Rav Huna Statement",
+      "Rashi: Yeshivot",
+      "Borders & Geography"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rav Huna tradition about Babylonia being treated like Eretz Yisrael for gittin from when Rav arrived, which is precisely what the prose in candidate 0 describes.",
+      "chosen_heading": "Rav Huna Statement",
+      "current_heading": "Rav Huna Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Borders & Geography",
+    "candidates": [
+      "Rashi: Yeshivot",
+      "Borders & Geography",
+      "Exception Principle",
+      "Tosafot Alternative",
+      "Yuchasin Parallel",
+      "Bridge Arch Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi Yirmiya's objection from the mishnah's geographic borders and his own self-resolution, which is precisely what the 'Borders & Geography' prose section describes.",
+      "chosen_heading": "Borders & Geography",
+      "current_heading": "Borders & Geography",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Bridge Arch Limit",
+    "candidates": [
+      "Exception Principle",
+      "Tosafot Alternative",
+      "Yuchasin Parallel",
+      "Bridge Arch Limit",
+      "One-Way Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Pappa's view (same dispute as yuchasin applies to gittin) and Rav Yosef's view (dispute only for yuchasin; for gittin everyone agrees on the bridge arch), and the 'Yuchasin Parallel' prose explicitly discusses both positions together \u2014 Rav Papa's rule and the question of whether the two criteria produce identical borders \u2014 making it the clear home for the entire passage.",
+      "chosen_heading": "Yuchasin Parallel",
+      "current_heading": "Bridge Arch Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "One-Way Requirement",
+    "candidates": [
+      "Bridge Arch Limit",
+      "One-Way Requirement",
+      "Marketplace Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24isda's asymmetric one-way requirement between Aktisphon and Bei Ardeshir and raises the question of whether this is due to a lishmah differential, which matches exactly the prose under 'One-Way Requirement' that discusses this same scenario and the gemara's leima kasavar question.",
+      "chosen_heading": "One-Way Requirement",
+      "current_heading": "One-Way Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Marketplace Effect",
+    "candidates": [
+      "Marketplace Effect",
+      "Reshus Division",
+      "Neighborhood Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe exactly the marketplace-based asymmetry (city B knows city A's signatures because travelers go there to trade, but not vice versa because they are preoccupied) that candidate 0's prose explicitly discusses.",
+      "chosen_heading": "Marketplace Effect",
+      "current_heading": "Marketplace Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Neighborhood Division",
+    "candidates": [
+      "Reshus Division",
+      "Neighborhood Division",
+      "Transience Principle",
+      "Mechuza Context",
+      "Modern Application",
+      "No Need Statement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reshus Division",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the three Amoraic positions (Rabba bar Avuh, Rav Sheshet, and Rava) on geographic divisions, which aligns with heading 0 ('Reshus Division') that discusses Rav bar Avuha's requirement across a reshus harabim \u2014 the passage covers all three positions as a unit introducing the geographic dispute, and heading 0's prose explicitly addresses this comparative framework starting with Rav bar Avuha.",
+      "second_heading": "Mechuza Context",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's qualification of Rava's ruling specifically because of Mechuza's mobile population (*shani benei Mechuza de'naidi*), which matches heading 3 ('Mechuza Context') whose prose explicitly discusses this exact qualification about Mechuza as a cosmopolitan commercial center with unusual mobility.",
+      "current_heading": "Neighborhood Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "No Need Statement",
+    "candidates": [
+      "Transience Principle",
+      "Mechuza Context",
+      "Modern Application",
+      "No Need Statement",
+      "If Said, Works",
+      "Witness Prevention"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Need Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rav Kahana story about bringing a get between Sura and Nehardea and asking Rav whether the declaration is needed \u2014 exactly what candidate 3's prose describes.",
+      "second_heading": "If Said, Works",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's follow-up 've'ee avad mahni' \u2014 if one did say it, it works \u2014 which is precisely what candidate 4's prose discusses, including the protection it provides against the husband's challenge.",
+      "current_heading": "No Need Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Witness Prevention",
+    "candidates": [
+      "If Said, Works",
+      "Witness Prevention",
+      "Ilai Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about the man from Kfar Sisai asking Rabbi Yishmael whether he needs to declare bifani nechtav, which matches precisely the content described in candidate 1's prose about this exact incident.",
+      "chosen_heading": "Witness Prevention",
+      "current_heading": "Witness Prevention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Ilai Challenge",
+    "candidates": [
+      "Ilai Challenge",
+      "Heter Established"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Ilai's challenge regarding Kfar Sisai's proximity and Rabbi Meir's ruling about Akko, which is precisely what the 'Ilai Challenge' section prose describes.",
+      "chosen_heading": "Ilai Challenge",
+      "current_heading": "Ilai Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Heter Established",
+    "candidates": [
+      "Heter Established",
+      "Incomplete Hearing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yishmael's 'shtok bni shtok' response declaring that since the matter went forth as a heter it stands, which is precisely what the 'Heter Established' section's prose discusses.",
+      "chosen_heading": "Heter Established",
+      "current_heading": "Heter Established",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Incomplete Hearing",
+    "candidates": [
+      "Incomplete Hearing",
+      "Travel Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Rabbi Elai didn't hear Rabbi Yishmael's complete statement (lo siyemuh kamei), which is precisely what the 'Incomplete Hearing' section's prose addresses.",
+      "chosen_heading": "Incomplete Hearing",
+      "current_heading": "Incomplete Hearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Travel Leniency",
+    "candidates": [
+      "Travel Leniency",
+      "Travel Rationale",
+      "Trust Question",
+      "Harsh Missive",
+      "Verse Critique",
+      "Klaf Scoring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous discussion about Rabbi Evyatar's ruling that no declaration is needed for gittin traveling from Babylonia to Eretz Yisrael, and the gemara's probe and rejection of the lishmah-only rationale in favor of the witness availability explanation \u2014 exactly what the 'Travel Leniency' prose describes.",
+      "chosen_heading": "Travel Leniency",
+      "current_heading": "Travel Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Klaf Scoring",
+    "candidates": [
+      "Travel Rationale",
+      "Trust Question",
+      "Harsh Missive",
+      "Verse Critique",
+      "Klaf Scoring",
+      "Authority Standards",
+      "Tradition vs. Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly concern the 'klaf scoring' (sirtut) issue: item 1 introduces Rav Yosef's critique that Rabbi Evyatar wrote without scoring, and item 2 gives Rav Yitzchak's and the baraita's ruling on how many words require scoring \u2014 exactly what candidate 4's prose describes.",
+      "chosen_heading": "Klaf Scoring",
+      "current_heading": "Klaf Scoring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Tradition vs. Logic",
+    "candidates": [
+      "Authority Standards",
+      "Tradition vs. Logic",
+      "Tradition Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's full argument including both parts (the challenge to Rav Yosef's critique and the tradition/logic distinction), and heading 0 'Authority Standards' best captures the overarching content \u2014 the question of whether not knowing Rabbi Yitzchak's ruling disqualifies someone as a great authority \u2014 while headings 1 and 2 only cover sub-portions of what is a single unified statement by Abaye.",
+      "chosen_heading": "Authority Standards",
+      "current_heading": "Tradition vs. Logic",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Adjacent Rooftops",
+    "candidates": [
+      "Four Amot Wall",
+      "Adjacent Rooftops",
+      "Trespass Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Rav Na\u1e25man/Shmuel teaching including both the roof-adjacent-to-courtyard rule (four amot) and the between-rooftops distinction, which candidate 0's prose explicitly discusses as a unified teaching before the subsequent analysis in candidates 1 and 2.",
+      "chosen_heading": "Four Amot Wall",
+      "current_heading": "Adjacent Rooftops",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Trespass Concern",
+    "candidates": [
+      "Adjacent Rooftops",
+      "Trespass Concern",
+      "Higher Yard Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's reasoning about the purpose of the ten-tefachim partition (hezek reiyah vs. trespass vs. animals) and concludes it is for trespass prevention, which is precisely what the 'Trespass Concern' section's prose describes and analyzes.",
+      "chosen_heading": "Trespass Concern",
+      "current_heading": "Trespass Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Higher Yard Exemption",
+    "candidates": [
+      "Higher Yard Exemption",
+      "Rav Huna Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of a courtyard higher than a neighbor's roof and the question of whether 'ein nizkakin lo' means no obligation at all or only exemption from four cubits, which is precisely what the 'Higher Yard Exemption' section's prose analyzes in detail.",
+      "chosen_heading": "Higher Yard Exemption",
+      "current_heading": "Higher Yard Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Rav Huna Opinion",
+    "candidates": [
+      "Rav Huna Opinion",
+      "Rav Chisda Opinion",
+      "Upper Tenant Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav \u1e24isda's ruling and the supporting baraita \u2014 are explicitly discussed together in candidate 1's prose ('Rav Chisda Opinion'), which mentions both elyon mesayeya milimata uboneh and the baraita citation tanyah kevata de-Rav Chisda, matching the content of items 1 and 2 precisely.",
+      "chosen_heading": "Rav Chisda Opinion",
+      "current_heading": "Rav Huna Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Upper Tenant Refusal",
+    "candidates": [
+      "Rav Chisda Opinion",
+      "Upper Tenant Refusal",
+      "Ten Tefachim Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the narrative of the two tenants \u2014 the lower story collapsing and the upper tenant refusing to cooperate \u2014 which is precisely what heading 1 ('Upper Tenant Refusal') discusses in its prose, including the specific dialogue about crawling in and out on one's belly.",
+      "chosen_heading": "Upper Tenant Refusal",
+      "current_heading": "Upper Tenant Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Ten Tefachim Threshold",
+    "candidates": [
+      "Ten Tefachim Threshold",
+      "Stipulation & Heikhal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav \u1e24ama's ruling about the ten-handbreadth threshold and the lower tenant's domain claim, which is precisely what the 'Ten Tefachim Threshold' prose section discusses.",
+      "chosen_heading": "Ten Tefachim Threshold",
+      "current_heading": "Ten Tefachim Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Stipulation & Heikhal",
+    "candidates": [
+      "Stipulation & Heikhal",
+      "Normal Usage Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the stipulation between parties and the consequence of rebuilding when such a stipulation exists, which directly matches the 'Stipulation & Heikhal' section's prose about prior stipulations triggering rebuilding obligations.",
+      "chosen_heading": "Stipulation & Heikhal",
+      "current_heading": "Stipulation & Heikhal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Normal Usage Standards",
+    "candidates": [
+      "Normal Usage Standards",
+      "Window Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Nachman's standard of 'as people normally live' and Rav Huna's Me\u1e25oza bundle example, which is precisely what the 'Normal Usage Standards' prose section describes and analyzes.",
+      "chosen_heading": "Normal Usage Standards",
+      "current_heading": "Normal Usage Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Window Solutions",
+    "candidates": [
+      "Window Solutions",
+      "Rav Chama Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the extended negotiation between the builder and neighbor about window solutions, which is precisely what heading 0's prose describes in detail, including all the objections and counteroffers culminating in the neighbor's refusal to be troubled \u2014 with Rav \u1e24ama's ruling at the end of item 2 being the closing line of that same case, already anticipated in heading 0's prose summary.",
+      "chosen_heading": "Window Solutions",
+      "current_heading": "Window Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Chama Ruling",
+    "candidates": [
+      "Rav Chama Ruling",
+      "Brothers' Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'hainu hach' question and the storehouse/straw-and-wood answer, which is explicitly discussed in the Rav Chama Ruling prose.",
+      "chosen_heading": "Rav Chama Ruling",
+      "current_heading": "Rav Chama Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Brothers' Division",
+    "candidates": [
+      "Brothers' Division",
+      "Vineyards Precedent",
+      "Air Space Question",
+      "Name & Identity",
+      "Shmuel Position",
+      "Keep Original Shtar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All nine items form one continuous discussion about the two brothers who divided their estate (hall and garden), including the challenge from the vineyard baraita, the airspace resolution, the 'name only' argument, and the Shmuel/Neharde'a principle \u2014 all of which are covered in the 'Brothers' Division' prose.",
+      "chosen_heading": "Brothers' Division",
+      "current_heading": "Brothers' Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Keep Original Shtar",
+    "candidates": [
+      "Vineyards Precedent",
+      "Air Space Question",
+      "Name & Identity",
+      "Shmuel Position",
+      "Keep Original Shtar",
+      "Rav Chama Summary",
+      "Final Psak Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case discussed in 'Keep Original Shtar' prose: orphans holding a shtar against which a tavra (receipt) was produced, and Rav Chama's ruling to neither collect nor tear up the document.",
+      "chosen_heading": "Keep Original Shtar",
+      "current_heading": "Keep Original Shtar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Final Psak Decision",
+    "candidates": [
+      "Rav Chama Summary",
+      "Final Psak Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ravina's ruling (halakha follows Rav Chama except the receipt case) and Mar Zutra's dissent (even the receipt case follows Rav Chama) \u2014 are precisely the content described in the 'Final Psak Decision' prose, which quotes both positions verbatim and explains their reasoning.",
+      "chosen_heading": "Final Psak Decision",
+      "current_heading": "Final Psak Decision",
+      "moved": false
+    }
+  }
+]

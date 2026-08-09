@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "R. Yehuda's View",
+    "candidates": [
+      "Context & Setup",
+      "Lashes & Payment",
+      "R. Yehuda's View",
+      "Sex Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita introduces the dual penalty of lashes and one hundred sela, which is precisely what the 'Lashes & Payment' section's prose describes as its topic, before Rabbi Yehuda's qualification is discussed separately in the next section.",
+      "chosen_heading": "Lashes & Payment",
+      "current_heading": "R. Yehuda's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Sex Requirement",
+    "candidates": [
+      "R. Yehuda's View",
+      "Sex Requirement",
+      "Lashes Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the mapping of the baraita's dispute onto Rabbi Eliezer ben Yaakov vs. Rabbanan regarding the sex requirement, the two readings of the baraita (items 1-2), and the challenge/resolution regarding Rabbi Yehuda's position on lashes and money (items 3-5), which is precisely what the 'Sex Requirement' prose describes.",
+      "chosen_heading": "Sex Requirement",
+      "current_heading": "Sex Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Lashes Explained",
+    "candidates": [
+      "Lashes Explained",
+      "Witness Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Lashes Explained' explicitly discusses all six items: the baraita on v'anshu/veyisru, Rabbi Abbahu's chain derivation, and the dispute between Rabbi Elazar and Rabbi Natan over the prohibitory lav for motzi shem ra, including why each sage doesn't use the other's verse.",
+      "chosen_heading": "Lashes Explained",
+      "current_heading": "Lashes Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Witness Liability",
+    "candidates": [
+      "Witness Liability",
+      "Edge Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with the defamer case where witnesses testify on their own accord, Rabbi Yehuda's requirement of hiring witnesses, the gezeira shava of 'sima sima,' and Rabbi Yirmeyah's unresolved dilemmas \u2014 all of which are explicitly discussed in the 'Witness Liability' prose.",
+      "chosen_heading": "Witness Liability",
+      "current_heading": "Witness Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Edge Cases",
+    "candidates": [
+      "Edge Cases",
+      "Pesuk Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Ashi's dilemmas about defaming regarding a first marriage or a brother's marriage, and the resolution from Rabbi Yona's baraita excluding the yavam \u2014 are precisely what the 'Edge Cases' prose discusses in detail.",
+      "chosen_heading": "Edge Cases",
+      "current_heading": "Edge Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Pesuk Analysis",
+    "candidates": [
+      "Pesuk Analysis",
+      "Kedarkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items comprise the baraita describing the defamation procedure and the systematic pesuk-by-pesuk analysis of the dispute between the Rabbis and Rabbi Eliezer ben Yaakov, which is precisely what the 'Pesuk Analysis' prose describes in detail.",
+      "chosen_heading": "Pesuk Analysis",
+      "current_heading": "Pesuk Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Kedarkah",
+    "candidates": [
+      "Kedarkah",
+      "Bookend",
+      "Paternal Rights",
+      "Father's Control"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic discussion about the kedarkah/shelo kedarkah distinction in motzi shem ra, which is exactly what the 'Kedarkah' section's prose describes in detail, including the same Rabbi Yochanan ruling, the same challenge about the Rabbanan vs. Rabbi Eliezer ben Yaakov, and Rav Kahana's correction.",
+      "chosen_heading": "Kedarkah",
+      "current_heading": "Kedarkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Father's Control",
+    "candidates": [
+      "Bookend",
+      "Paternal Rights",
+      "Father's Control",
+      "Husband's Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers the full range of paternal rights including betrothal modes, found items, earnings, vow nullification, and get reception \u2014 the prose under 'Paternal Rights' (index 1) introduces this entire Mishnah, while index 2 only discusses the secondary rights beyond betrothal, making index 1 the correct home for the complete Mishnah text.",
+      "chosen_heading": "Paternal Rights",
+      "current_heading": "Father's Control",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Husband's Rights",
+    "candidates": [
+      "Father's Control",
+      "Husband's Rights",
+      "Obligations",
+      "Money Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the husband's additional rights (peiros) and his obligations (sustenance, redemption, burial) plus Rabbi Yehuda's minimum burial requirement, which maps precisely to the 'Obligations' section prose rather than the 'Husband's Rights' section which focuses only on the rights/peiros aspect.",
+      "chosen_heading": "Obligations",
+      "current_heading": "Husband's Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Money Source",
+    "candidates": [
+      "Obligations",
+      "Money Source",
+      "Father as Master"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses deriving the father's entitlement to betrothal money from the verse about the Hebrew maidservant, which is precisely what the 'Money Source' section's prose discusses.",
+      "chosen_heading": "Money Source",
+      "current_heading": "Money Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Father as Master",
+    "candidates": [
+      "Father as Master",
+      "Ketanah vs Naarah",
+      "Shevach Ne'urim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of whether the betrothal money goes to the daughter herself and refutes it using the verse 'I gave my daughter to this man,' which is precisely what the 'Father as Master' section's prose describes.",
+      "chosen_heading": "Father as Master",
+      "current_heading": "Father as Master",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Shevach Ne'urim",
+    "candidates": [
+      "Ketanah vs Naarah",
+      "Shevach Ne'urim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the ketanah/naarah distinction and then answers it with the verse \u2014 the entire unit (question + answer) belongs under 'Ketanah vs Naarah', which describes exactly this dialectic, while the current heading 'Shevach Ne'urim' describes only the aftermath/continuation of that answer.",
+      "chosen_heading": "Ketanah vs Naarah",
+      "current_heading": "Shevach Ne'urim",
+      "moved": true
+    }
+  }
+]

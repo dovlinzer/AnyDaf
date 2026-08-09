@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Off-Season Vegetables",
+    "candidates": [
+      "Integration vs. Distinct.",
+      "Antoninus & Rabbi",
+      "Sefer Josippon Account",
+      "Roman Oath & Caesar",
+      "Caesar Etymology",
+      "Onkelos Recognition",
+      "Goyim as Ge'im",
+      "Yaakov-Eisav Paradigm",
+      "Off-Season Vegetables",
+      "Cucumber Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is specifically about the 'al tikrei' reading of 'goyim' as 'ge'im' applied to Antoninus and Rabbi, which is exactly what the prose under heading 6 ('Goyim as Ge'im') describes, whereas the current placement (heading 8, 'Off-Season Vegetables') only covers the secondary detail about year-round vegetables.",
+      "chosen_heading": "Goyim as Ge'im",
+      "current_heading": "Off-Season Vegetables",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Cucumber Debate",
+    "candidates": [
+      "Off-Season Vegetables",
+      "Cucumber Debate",
+      "Birth Death Holiday",
+      "Funeral Pyre Dispute",
+      "Chashivuta Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Baraisa from the school of Rabbi Yishmael about cucumbers being harmful as swords and the Gemara's resolution distinguishing large from small cucumbers, which is precisely what the 'Cucumber Debate' prose describes.",
+      "chosen_heading": "Cucumber Debate",
+      "current_heading": "Cucumber Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Chashivuta Framework",
+    "candidates": [
+      "Birth Death Holiday",
+      "Funeral Pyre Dispute",
+      "Chashivuta Framework",
+      "Torah Source Burning",
+      "What Burned",
+      "Onkelos Burning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Funeral Pyre Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous dialectical unit about the dispute between Rabbi Meir and the Rabbis regarding whether burning is a chuka or chashivuta, which matches the 'Funeral Pyre Dispute' and 'Chashivuta Framework' prose \u2014 but since items 1-3 span both headings 0-2, the best single home for the dialectic (challenge and resolution) is heading 1 'Funeral Pyre Dispute' which introduces the dispute and the baraita challenge, with the resolution naturally following.",
+      "second_heading": "Torah Source Burning",
+      "second_confidence": "high",
+      "second_reason": "Item 4 returns to the baraita itself ('gufah') to discuss the Torah source for burning kings and nesi'im, which precisely matches heading 3 'Torah Source Burning' whose prose discusses the same baraita and the Jeremiah pasuk about Tzidkiyahu.",
+      "current_heading": "Chashivuta Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Onkelos Burning",
+    "candidates": [
+      "Torah Source Burning",
+      "What Burned",
+      "Onkelos Burning",
+      "Hobbling Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses what is burned upon the deaths of kings/nesi'im and the incident of Onkelos burning seventy mana at Rabban Gamliel's funeral, which is precisely what the 'Onkelos Burning' section's prose addresses.",
+      "chosen_heading": "Onkelos Burning",
+      "current_heading": "Onkelos Burning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Hobbling Animals",
+    "candidates": [
+      "Hobbling Animals",
+      "Tza'ar & Kavod",
+      "Animal Suffering Narrow",
+      "Benefit Permissible",
+      "Lock Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the hobbling/detaching of animal hooves upon a king's death \u2014 the horse he rode, kosher animals, and the calf pulling his coach \u2014 which exactly matches the 'Hobbling Animals' section prose that walks through these same questions and answers in the same order.",
+      "chosen_heading": "Hobbling Animals",
+      "current_heading": "Hobbling Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Lock Interpretations",
+    "candidates": [
+      "Tza'ar & Kavod",
+      "Animal Suffering Narrow",
+      "Benefit Permissible",
+      "Lock Interpretations",
+      "Eisav Riding Yaakov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's discussion of 'yom tiklachat zikno' (the day of shaving the beard) and the question about whether the holiday involves leaving or removing the blurit/locks, which is precisely what the prose in candidate 3 ('Lock Interpretations') describes.",
+      "chosen_heading": "Lock Interpretations",
+      "current_heading": "Lock Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Eisav Riding Yaakov",
+    "candidates": [
+      "Eisav Riding Yaakov",
+      "Adam HaRishon Clothes",
+      "Rabbi Yishmael Head",
+      "Yaakov Forgery Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together describe the full ritual \u2014 the scalp of Rabbi Yishmael, the gold weight, the onyx-paved markets, and the proclamation \u2014 which is precisely what heading 2 ('Rabbi Yishmael Head') discusses in its prose, covering everything from the martyr's face through the gold tax and the onyx streets leading into the announcement.",
+      "chosen_heading": "Rabbi Yishmael Head",
+      "current_heading": "Eisav Riding Yaakov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Yaakov Forgery Claim",
+    "candidates": [
+      "Adam HaRishon Clothes",
+      "Rabbi Yishmael Head",
+      "Yaakov Forgery Claim",
+      "Final Woe Line",
+      "Annual Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Rav Ashi's comment directly addresses the 'achva demarna zaifana' proclamation and the word-order ambiguity of the forgery claim about Yaakov, which is precisely what the prose under 'Yaakov Forgery Claim' discusses.",
+      "chosen_heading": "Yaakov Forgery Claim",
+      "current_heading": "Yaakov Forgery Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Annual Only",
+    "candidates": [
+      "Final Woe Line",
+      "Annual Only",
+      "Five Temples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Annual Only",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks why the seventy-year Roman spectacle is not in the Mishnah and answers that the Mishnah lists only annual holidays \u2014 exactly what the 'Annual Only' prose describes.",
+      "second_heading": "Five Temples",
+      "second_confidence": "high",
+      "second_reason": "Item 2 lists the Roman, Persian, and Babylonian festivals, which matches the 'Five Temples' prose that opens with those exact festival lists before moving on to the five fixed idolatry sites.",
+      "current_heading": "Annual Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Five Temples",
+    "candidates": [
+      "Five Temples",
+      "Daily Worship Sites"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the five established temples of idol worship, which is exactly what the 'Five Temples' section prose describes, including the same temples and Rav Dimi's additions.",
+      "chosen_heading": "Five Temples",
+      "current_heading": "Five Temples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Daily Worship Sites",
+    "candidates": [
+      "Daily Worship Sites",
+      "Holiday Day Only",
+      "Merchant Holiday"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains what 'kevuin' (fixed/established) means \u2014 that these temples have year-round, daily worship \u2014 which matches exactly the 'Daily Worship Sites' prose discussion about permanent ongoing centers of idolatrous worship.",
+      "chosen_heading": "Daily Worship Sites",
+      "current_heading": "Daily Worship Sites",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Merchant Holiday",
+    "candidates": [
+      "Holiday Day Only",
+      "Merchant Holiday",
+      "Market Days Activity",
+      "Practical Impossibility",
+      "Fear of Anger",
+      "City Suburb Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with Shmuel's ruling that in the Diaspora only the festival day itself is prohibited \u2014 which is exactly what heading 0 ('Holiday Day Only') describes \u2014 and then continues with the question about the Arab merchants' festival, making heading 0 the correct home for the entire passage rather than heading 1 which covers only the second half.",
+      "chosen_heading": "Holiday Day Only",
+      "current_heading": "Merchant Holiday",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "City Suburb Rule",
+    "candidates": [
+      "Market Days Activity",
+      "Practical Impossibility",
+      "Fear of Anger",
+      "City Suburb Rule",
+      "Rambam Stricter",
+      "Rambam Exile",
+      "Path Determination",
+      "Onlooker Assumption",
+      "Maris Ayin Scope",
+      "Pilgrimage Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The prose under 'City Suburb Rule' explicitly describes and explains this exact Mishnah \u2014 the city/suburb idol worship rules and the road travel question \u2014 matching the passage's content precisely.",
+      "chosen_heading": "City Suburb Rule",
+      "current_heading": "City Suburb Rule",
+      "moved": false
+    }
+  }
+]

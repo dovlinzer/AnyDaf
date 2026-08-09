@@ -24,8 +24,8 @@
           "timestamp": "01:46"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Significance of the את (Et) Particle and Shimon Ha'amsuni's Integrity",
@@ -183,7 +183,7 @@
           "timestamp": "20:43"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -595,5 +595,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "17:51",
+  "amud_b_micro_title": "Exceptions",
+  "shiur_start_daf": 57,
+  "shiur_start_amud": "a"
 }

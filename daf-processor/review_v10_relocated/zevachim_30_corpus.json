@@ -1,0 +1,181 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "First Thought Locks",
+    "candidates": [
+      "Piggul Definition",
+      "Avodot & Achilot",
+      "Tanna Kamma vs. R. Yehuda",
+      "Ilfa: Two Avodot",
+      "One Avodah Not Piggul",
+      "Sequential Within One",
+      "First Thought Locks",
+      "Tmura Olah Shelamim",
+      "Meir vs. Yossi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items \u2014 Ilfa vs. Rabbi Yochanan on one vs. two avodot, the challenge from the mishnah's structure, its resolution, and the difficulty from 'zeh ha-klal' \u2014 are precisely the content described in the 'First Thought Locks' prose, which explicitly covers all these sub-discussions in sequence.",
+      "chosen_heading": "First Thought Locks",
+      "current_heading": "First Thought Locks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Meir vs. Yossi",
+    "candidates": [
+      "Tmura Olah Shelamim",
+      "Meir vs. Yossi",
+      "Abaye: Packaged Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Meir vs. Yossi",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the Mishna dispute between Rabbi Meir and Rabbi Yossi about sequential declarations, which is precisely what candidate 1 ('Meir vs. Yossi') discusses in detail.",
+      "second_heading": "Abaye: Packaged Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 poses the new dilemma about simultaneous declaration ('olah u-shelamim') and 'lachatzot', which is exactly what candidate 2 ('Abaye: Packaged Case') addresses with Abaye's ruling on the conjunctive case.",
+      "current_heading": "Meir vs. Yossi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Abaye: Packaged Case",
+    "candidates": [
+      "Abaye: Packaged Case",
+      "Rava: First Word",
+      "Shechita Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's statement (vadai modeh Rabbi Meir) and Rava's rejoinder (adayin hi machloket), and the current heading 'Abaye: Packaged Case' covers both statements together as a unit, with Rava's prose section (index 1) describing only Rava's position separately \u2014 but since this single quoted passage contains both voices and is already correctly placed under the heading that introduces the context for the exchange, it belongs under index 0.",
+      "chosen_heading": "Abaye: Packaged Case",
+      "current_heading": "Abaye: Packaged Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Shechita Process",
+    "candidates": [
+      "Rava: First Word",
+      "Shechita Process",
+      "Discrete Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute Rava's challenge to Abaye about shechita being like 'lachatzot' and Abaye's response invoking 'yeshna la-shechita mi-techila ve-ad sof,' which is precisely what the 'Shechita Process' prose describes in detail.",
+      "chosen_heading": "Shechita Process",
+      "current_heading": "Shechita Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Discrete Acts",
+    "candidates": [
+      "Discrete Acts",
+      "One Kezayit Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 13 items form a continuous chain discussing kmitza, minchat chotei, psi'ot, and the Rabbi Meir/Rabbi Yehuda/Rabbi Yosei dispute about tefos lashon rishon \u2014 exactly the content described in the 'Discrete Acts' prose section.",
+      "chosen_heading": "Discrete Acts",
+      "current_heading": "Discrete Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "One Kezayit Query",
+    "candidates": [
+      "One Kezayit Query",
+      "R. Shimon Inference",
+      "Abbreviated Texts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage from Ulla/Rav Oshaya asks precisely whether the mishnah's text reads 'kezayit kezayit' or 'kezayit ve-kezayit,' which is the exact textual question that the 'Abbreviated Texts' section's prose discusses as the core problem \u2014 Levi not knowing whether his abbreviated text was complete.",
+      "chosen_heading": "Abbreviated Texts",
+      "current_heading": "One Kezayit Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Abbreviated Texts",
+    "candidates": [
+      "R. Shimon Inference",
+      "Abbreviated Texts",
+      "Established Status",
+      "Inferring Girsa",
+      "Bundling Exception",
+      "Separate Kezayitim",
+      "One Q, Two Answers",
+      "Conclusion: Vav Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous discussion about why Levi asked about 'an olive-bulk the next day outside' rather than 'an olive-bulk and an olive-bulk,' and how asking one question could yield two answers \u2014 exactly what candidate 6 ('One Q, Two Answers') describes in its prose.",
+      "chosen_heading": "One Q, Two Answers",
+      "current_heading": "Abbreviated Texts",
+      "moved": true
+    }
+  }
+]

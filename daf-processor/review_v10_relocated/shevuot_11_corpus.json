@@ -1,0 +1,264 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Ulla's Statement",
+    "candidates": [
+      "Ulla's Statement",
+      "Kedusha Disappearance",
+      "Ketores Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the response 'amar lei \u2014 ktores kamarta? sha'ani ktores d'kedushat damim hi' that the 'Ketores Proof' prose explicitly describes as appearing at the end of 11b, distinguishing ketores as having only kedushat damim rather than kedushat haguf.",
+      "chosen_heading": "Ketores Proof",
+      "current_heading": "Ulla's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Ketores Proof",
+    "candidates": [
+      "Kedusha Disappearance",
+      "Ketores Proof",
+      "Ketores Kedushat Damim",
+      "Tvul Yom Challenge",
+      "Braita on Ketores",
+      "Meilah & Pasul",
+      "Braita-Mishna Gap",
+      "Rashi: No Lina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form one continuous dialectical exchange (Rabba challenging Rav \u1e24isda's kedushat damim claim via the tvul yom baraita, then Rav \u1e24isda responding with the lina argument from the Me'ilah mishna) that directly constitutes the analytical work described in candidate 2's prose about examining whether ketores can be dismissed as mere kedushat damim after grinding.",
+      "chosen_heading": "Ketores Kedushat Damim",
+      "current_heading": "Ketores Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rashi: No Lina",
+    "candidates": [
+      "Ketores Kedushat Damim",
+      "Tvul Yom Challenge",
+      "Braita on Ketores",
+      "Meilah & Pasul",
+      "Braita-Mishna Gap",
+      "Rashi: No Lina",
+      "Tosafot: Lina Timing",
+      "Ketores Full Kedusha",
+      "Rabba's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabba's statement that incense is different because its form remains unchanged throughout the entire year, which is precisely the initial answer discussed under 'Rashi: No Lina' \u2014 the explanation that lina does not apply to ketores because it does not deteriorate.",
+      "chosen_heading": "Rashi: No Lina",
+      "current_heading": "Rashi: No Lina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rabba's Answer",
+    "candidates": [
+      "Tosafot: Lina Timing",
+      "Ketores Full Kedusha",
+      "Rabba's Answer",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question 'to where has the sanctity gone?' and Rabba's answer about conditional stipulation, which the 'Ketores Full Kedusha' prose explicitly anticipates as the next step \u2014 it ends by stating 'that explanation is what must now be supplied,' making this passage the direct continuation of that section's setup rather than belonging under 'Rabba's Answer' which describes the resolution in retrospect.",
+      "chosen_heading": "Ketores Full Kedusha",
+      "current_heading": "Rabba's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Rabba's Answer",
+      "Abaye's Challenge",
+      "Earmarking Answer",
+      "Application",
+      "Lost YK Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's challenge AND Rabba's resolution distinguishing 'lidmei olah' from 'lidmei nesachim', which is precisely the content described in the 'Earmarking Answer' prose section, not merely the challenge portion.",
+      "chosen_heading": "Earmarking Answer",
+      "current_heading": "Abaye's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Lost YK Animals",
+    "candidates": [
+      "Earmarking Answer",
+      "Application",
+      "Lost YK Animals",
+      "Rare vs Common"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute Abaye's objection from the baraita about the lost Yom Kippur bull and goat, which is precisely what the 'Lost YK Animals' section prose describes \u2014 the challenge about why lev beis din matneh aleihem doesn't apply to these lost communal sin-offerings.",
+      "chosen_heading": "Lost YK Animals",
+      "current_heading": "Lost YK Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rare vs Common",
+    "candidates": [
+      "Rare vs Common",
+      "Parah Adumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that lost animals are different because they are uncommon, which is exactly what the 'Rare vs Common' section's prose discusses.",
+      "chosen_heading": "Rare vs Common",
+      "current_heading": "Rare vs Common",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Parah Adumah",
+    "candidates": [
+      "Parah Adumah",
+      "Parah as Bedek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's challenge using the parah adumah case and the baraita about its redemption scenarios, which is exactly what the 'Parah Adumah' section prose describes \u2014 the counter-case and the question it raises \u2014 before the answer (sha'ani parah d'kodshei bedek habayis) is addressed in the next section.",
+      "chosen_heading": "Parah Adumah",
+      "current_heading": "Parah Adumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Parah as Bedek",
+    "candidates": [
+      "Parah as Bedek",
+      "Parah Cost Clause"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ha'amada v'ha'aracha requirement, Rabbi Shimon's view on kodshei bedek habayis vs. kodshei mizbeach, and the contradiction from Reish Lakish's statement about redemption upon the pyre \u2014 exactly the content described in the 'Parah as Bedek' prose.",
+      "chosen_heading": "Parah as Bedek",
+      "current_heading": "Parah as Bedek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Parah Cost Clause",
+    "candidates": [
+      "Parah Cost Clause",
+      "Mishna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'parah is different because its price is very high' reasoning and the subsequent question about redeeming it for its hide/the camel's ear adage \u2014 exactly the content described in the 'Parah Cost Clause' prose.",
+      "chosen_heading": "Parah Cost Clause",
+      "current_heading": "Parah Cost Clause",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Mishna Position",
+    "candidates": [
+      "Mishna Position",
+      "Why Not Lev Beis Din",
+      "School Dispute",
+      "Rabbanan vs Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact exchange in the mishna where the Rabbis challenge Rabbi Shimon about interchanging communal korbanot and he responds that all come to atone for tumat mikdash v'kodashav \u2014 precisely what the 'Mishna Position' prose discusses.",
+      "chosen_heading": "Mishna Position",
+      "current_heading": "Mishna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rabbanan vs Shimon",
+    "candidates": [
+      "Why Not Lev Beis Din",
+      "School Dispute",
+      "Rabbanan vs Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question 'why not say lev beis din matneh aleihem' and its answer (Rabbi Shimon rejects this principle, proved by the tamidim ruling), and candidate 0's prose explicitly discusses both the question and the answer together as one unit, while candidates 1 and 2 split the answer artificially.",
+      "chosen_heading": "Why Not Lev Beis Din",
+      "current_heading": "Rabbanan vs Shimon",
+      "moved": true
+    }
+  }
+]

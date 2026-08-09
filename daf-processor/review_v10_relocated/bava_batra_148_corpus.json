@@ -1,0 +1,215 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rav Nachman Ruling",
+    "candidates": [
+      "De-Oraisa Status",
+      "Shmuel Debt Transfer",
+      "Yerusha Model Foundation",
+      "Gemara Resolution",
+      "Rav Nachman Ruling",
+      "Kinyan: Transfer Req.",
+      "Conditional Language Mat",
+      "Tanu Rabbanan",
+      "Rava Debt Transfer",
+      "Rav Pappa Yerusha Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's ruling about a shchiv mera saying 'let so-and-so reside/eat fruit' being ineffective without transferring actual ownership, which is precisely what the 'Rav Nachman Ruling' section's prose describes.",
+      "chosen_heading": "Rav Nachman Ruling",
+      "current_heading": "Rav Nachman Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rav Pappa Yerusha Answer",
+    "candidates": [
+      "Kinyan: Transfer Req.",
+      "Conditional Language Mat",
+      "Tanu Rabbanan",
+      "Rava Debt Transfer",
+      "Rav Pappa Yerusha Answer",
+      "Rav Acha Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the challenge to the principle (item 1: the Gemara's question whether Rav Nachman holds milta de-leita b'vari leita b'shchiv mera, followed by the citation of Rava's ruling on debt transfer) and the beginning of Rav Pappa's answer \u2014 but the challenge/question portion (item 1) and the debt-transfer ruling with Rav Pappa's brief answer (item 2) are precisely what candidate 3 ('Rava Debt Transfer') describes: Rava citing Rav Nachman on transferring a debt by shchiv mera and the apparent contradiction to the principle just established.",
+      "chosen_heading": "Rava Debt Transfer",
+      "current_heading": "Rav Pappa Yerusha Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Acha Alternative",
+    "candidates": [
+      "Rav Pappa Yerusha Answer",
+      "Rav Acha Alternative",
+      "Debt Transfer Conclusion",
+      "Tree/Fruit Split Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav A\u1e25a son of Rav Ika's alternative approach using ma'amad sheloshtan to show a loan can be transferred among healthy parties, which is exactly what the 'Rav Acha Alternative' prose describes.",
+      "chosen_heading": "Rav Acha Alternative",
+      "current_heading": "Rav Acha Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Tree/Fruit Split Question",
+    "candidates": [
+      "Debt Transfer Conclusion",
+      "Tree/Fruit Split Question",
+      "Makom Peiri Principle",
+      "Self-Interest Distinction",
+      "House/Upper Floor Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the core dilemma about palm tree/fruit split and Rav Nachman's initial resolution, which is precisely what the 'Tree/Fruit Split Question' prose describes as the *iba'ya lehu* question about *shiyer mekom peirot o lo shiyer* \u2014 the current placement is correct.",
+      "chosen_heading": "Tree/Fruit Split Question",
+      "current_heading": "Tree/Fruit Split Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "House/Upper Floor Case",
+    "candidates": [
+      "Makom Peiri Principle",
+      "Self-Interest Distinction",
+      "House/Upper Floor Case",
+      "Concrete Transfer Rule",
+      "Kol Nechasav Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the house/upper-story case (Reish Lakish's ruling, the dilemma about selling to two people vs. reserving for oneself, Rav Nachman's resolution via Rav Zevid's zizin principle, and the analogy back to makom peiri), which is precisely what the 'House/Upper Floor Case' prose describes.",
+      "chosen_heading": "House/Upper Floor Case",
+      "current_heading": "House/Upper Floor Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Kol Nechasav Requirement",
+    "candidates": [
+      "Concrete Transfer Rule",
+      "Kol Nechasav Requirement",
+      "Mechaleik vs. Nimlach",
+      "Last Recipient Status",
+      "Hidden Assets Concern",
+      "Kol Nechasav: Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Rav Nachman's ruling about examining whether a shchiv mera's sequential distribution is k'mechaleik or b'nimlach, which is precisely what heading 2 ('Mechaleik vs. Nimlach') describes, not the general kol nechasav requirement discussed under heading 1.",
+      "chosen_heading": "Mechaleik vs. Nimlach",
+      "current_heading": "Kol Nechasav Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Kol Nechasav: Language",
+    "candidates": [
+      "Mechaleik vs. Nimlach",
+      "Last Recipient Status",
+      "Hidden Assets Concern",
+      "Kol Nechasav: Language",
+      "Retraction Question",
+      "Braita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the 'hidden assets concern' (chashinan shema yesh lo nechasim b'medina acheret) \u2014 item 1 is Rav Nachman's ruling that triggers the concern, and item 2 is the Gemara's question about how the mishna's ruling can ever apply given that concern, along with the two resolutions (Rav Chama's 'kol nechasai' language and Mar bar Rav Ashi's chazakah) \u2014 all of which belongs under the 'Hidden Assets Concern' heading rather than the subsequent 'Kol Nechasav: Language' heading where it currently sits.",
+      "chosen_heading": "Hidden Assets Concern",
+      "current_heading": "Kol Nechasav: Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Braita Evidence",
+    "candidates": [
+      "Retraction Question",
+      "Braita Evidence",
+      "Retention Hypothesis",
+      "Amad Question",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma of chazara b'miktzat and the braita evidence (kulam le-rishon u-miktzatan le-sheni) with the question 'mai lav b'shemat,' which is precisely what the 'Braita Evidence' section's prose describes.",
+      "chosen_heading": "Braita Evidence",
+      "current_heading": "Braita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Final Resolution",
+    "candidates": [
+      "Retention Hypothesis",
+      "Amad Question",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-2 present the 'amad' hypothesis and the seifa proof supporting it, which matches heading 0's prose about the Gemara's resistance via the amad reading and the seifa reasoning; items 3-4 (Rav Yeimar's challenge and the final halakha) are also part of this continuous dialectic that heading 0 introduces, and heading 1 and 2's prose covers these same sub-arguments but heading 0 is the primary home since it frames the entire amad discussion including the seifa proof that anchors items 1-2.",
+      "chosen_heading": "Retention Hypothesis",
+      "current_heading": "Final Resolution",
+      "moved": true
+    }
+  }
+]

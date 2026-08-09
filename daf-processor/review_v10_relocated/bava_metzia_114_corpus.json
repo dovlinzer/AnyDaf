@@ -1,0 +1,398 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Kol Yisrael Bnei Melachim",
+    "candidates": [
+      "Intro to Mesadrim",
+      "Kol Yisrael Bnei Melachim",
+      "Fancy vs. Basic Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita cited in the 'Kol Yisrael Bnei Melachim' section's prose, which explicitly describes this exact baraita about stripping the expensive cloak and the contradicting baraisos in the names of Rabbi Yishmael and Rabbi Akiva declaring all Jews fit for that garment.",
+      "chosen_heading": "Kol Yisrael Bnei Melachim",
+      "current_heading": "Kol Yisrael Bnei Melachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Fancy vs. Basic Garment",
+    "candidates": [
+      "Fancy vs. Basic Garment",
+      "Tosafot on Plows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about the plow distinction and Rava bar Rabba's answer about a silver plow, which is precisely what the 'Fancy vs. Basic Garment' section's prose describes.",
+      "chosen_heading": "Fancy vs. Basic Garment",
+      "current_heading": "Fancy vs. Basic Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Tosafot on Plows",
+    "candidates": [
+      "Tosafot on Plows",
+      "Rav Chana's Challenge",
+      "Abaye's Response",
+      "Question Raised"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chana's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav \u1e24agga's objection \u2014 why should the creditor bear this burden \u2014 which matches candidate 1's prose about Rav Chana's challenge (*u-leima lei lav alai ramya*).",
+      "second_heading": "Abaye's Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's answer citing 'v'lacha tihyeh tzedakah,' which matches candidate 2's prose about Abaye's response (*ivra aleika rami\u2026 she-ne'emar v'lacha tihyeh tzedakah*) exactly.",
+      "current_heading": "Tosafot on Plows",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Question Raised",
+    "candidates": [
+      "Rav Chana's Challenge",
+      "Abaye's Response",
+      "Question Raised",
+      "Rabin's Letter",
+      "Non-Erech Donation Case",
+      "Kal V'Chomer Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Question Raised",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the dilemma of whether mesadrim applies to a baal chov via gezerah shavah from erchin, which is precisely what the 'Question Raised' prose describes.",
+      "second_heading": "Rabin's Letter",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravin's letter reporting that he asked all his teachers and received no answer, then raises the related question about a pledge to hekdesh \u2014 exactly what the 'Rabin's Letter' prose describes.",
+      "current_heading": "Question Raised",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Kal V'Chomer Argument",
+    "candidates": [
+      "Rabin's Letter",
+      "Non-Erech Donation Case",
+      "Kal V'Chomer Argument",
+      "Nidon B'Kvodo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the kal v'chomer argument from Rabbi Ya'akov/Rabbi Yirmeya AND Rabbi Yo\u1e25anan's counter-argument, both of which are described in candidate 2's prose and candidate 3's prose respectively, but since they appear as a single unified Talmudic passage and candidate 2's heading 'Kal V'Chomer Argument' is where it currently sits and its prose explicitly covers both the kal v'chomer and notes Rabbi Yochanan's position, the current placement is the correct one.",
+      "chosen_heading": "Kal V'Chomer Argument",
+      "current_heading": "Kal V'Chomer Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Nidon B'Kvodo",
+    "candidates": [
+      "Nidon B'Kvodo",
+      "Verse Limits to Erchin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'nidon b'khvodo' derivation from 'neder b'erkecha' by the other Sages, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Nidon B'Kvodo",
+      "current_heading": "Nidon B'Kvodo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Verse Limits to Erchin",
+    "candidates": [
+      "Verse Limits to Erchin",
+      "Reverse Kal V'Chomer",
+      "Hekdesh Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the kal v'chomer from erchin to baal chov and the limiting word 'hu,' which is precisely what candidate 0's prose describes in detail, including the temporal limitation 'ad she-yehei b'makhuto mitchilato v'ad sofo.'",
+      "chosen_heading": "Verse Limits to Erchin",
+      "current_heading": "Verse Limits to Erchin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Hekdesh Exempt",
+    "candidates": [
+      "Reverse Kal V'Chomer",
+      "Hekdesh Exempt",
+      "Cemetery Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the kal v'chomer question about hekdesh returning collateral, the verse-based answer about blessing, the challenge from the eating/blessing verse, and the final tzedakah exclusion \u2014 are precisely what candidate 1 ('Hekdesh Exempt') describes in its prose, and the current placement is correct.",
+      "chosen_heading": "Hekdesh Exempt",
+      "current_heading": "Hekdesh Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Cemetery Encounter",
+    "candidates": [
+      "Cemetery Encounter",
+      "Eliyahu's Source",
+      "Naked Person Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the cemetery encounter and Elijah's response about the gezerah shavah, and the current heading 'Cemetery Encounter' with its prose directly describes Rabbah bar Avuha finding Eliyahu in a non-Jewish cemetery and asking about arrangements for a debtor, which matches the full content of this single passage.",
+      "chosen_heading": "Cemetery Encounter",
+      "current_heading": "Cemetery Encounter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Naked Person Question",
+    "candidates": [
+      "Eliyahu's Source",
+      "Naked Person Question",
+      "Kohen in Cemetery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of a naked person not separating teruma and the verse 'v'lo yireh becha ervas davar', which is exactly what the 'Naked Person Question' section's prose describes.",
+      "chosen_heading": "Naked Person Question",
+      "current_heading": "Naked Person Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Kohen in Cemetery",
+    "candidates": [
+      "Kohen in Cemetery",
+      "Four vs. Six Sedarim",
+      "Gan Eden Leaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly depicts the exchange about Elijah standing in a cemetery and his citation of Rabbi Shimon ben Yo\u1e25ai's baraita about gentile graves not conveying impurity, which is precisely what the 'Kohen in Cemetery' section's prose discusses.",
+      "chosen_heading": "Kohen in Cemetery",
+      "current_heading": "Kohen in Cemetery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Gan Eden Leaves",
+    "candidates": [
+      "Four vs. Six Sedarim",
+      "Gan Eden Leaves",
+      "Olam HaBa Warning",
+      "Cloak Fragrance Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Elijah leading Rabbah bar Avuha into Gan Eden and instructing him to remove his cloak and gather leaves, which is precisely what the 'Gan Eden Leaves' section's prose discusses.",
+      "chosen_heading": "Gan Eden Leaves",
+      "current_heading": "Gan Eden Leaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Cloak Fragrance Sale",
+    "candidates": [
+      "Olam HaBa Warning",
+      "Cloak Fragrance Sale",
+      "Distribution & Parallels",
+      "Tosafot's Position",
+      "Mashkon vs. Geviyah",
+      "Rambam's Ruling",
+      "Ein Merahamin",
+      "Baraita on Poor/Rich"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the voice warning about consuming Olam HaBa AND the cloak fragrance sale and distribution, meaning it spans what the essay splits into headings 0, 1, and 2, but the current placement under heading 1 misses the warning voice content which belongs under heading 0 \u2014 however since the entire passage is one continuous narrative unit, it most naturally belongs under heading 0 ('Olam HaBa Warning') which introduces the scene that the rest of the passage completes, and the prose under heading 0 already describes the warning that opens this passage.",
+      "chosen_heading": "Olam HaBa Warning",
+      "current_heading": "Cloak Fragrance Sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Baraita on Poor/Rich",
+    "candidates": [
+      "Distribution & Parallels",
+      "Tosafot's Position",
+      "Mashkon vs. Geviyah",
+      "Rambam's Ruling",
+      "Ein Merahamin",
+      "Baraita on Poor/Rich",
+      "Friend Lending Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita about 'if he is a poor man you shall not sleep with his collateral' with Rav Sheshet's explanation, which is precisely what the prose in candidate 5 ('Baraita on Poor/Rich') describes.",
+      "chosen_heading": "Baraita on Poor/Rich",
+      "current_heading": "Baraita on Poor/Rich",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Friend Lending Rules",
+    "candidates": [
+      "Friend Lending Rules",
+      "Rav Sheshet Clarifies",
+      "Rava's Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Sheshet's clarification of the baraita's internal contradiction \u2014 reinterpreting 'eino chayav lehachazir' and explaining that 'v'over bechol hashemos halalu' refers to the latter clause \u2014 which matches candidate 1's prose precisely.",
+      "chosen_heading": "Rav Sheshet Clarifies",
+      "current_heading": "Friend Lending Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Rava's Clarification",
+    "candidates": [
+      "Rav Sheshet Clarifies",
+      "Rava's Clarification",
+      "Rav Shizi's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's interpretation with the temporal distinction between collateral taken at the time of the loan versus after, and the referral of 'transgresses all these labels' to the first clause \u2014 precisely what the prose under 'Rava's Clarification' describes.",
+      "chosen_heading": "Rava's Clarification",
+      "current_heading": "Rava's Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Rav Shizi's Teaching",
+    "candidates": [
+      "Rav Shizi's Teaching",
+      "Day/Night Problem",
+      "Solution Explained",
+      "Death & Reclaim",
+      "Rabbi Meir's Challenge",
+      "Shmita & Movables",
+      "Rav Adda's Refinement",
+      "Incentive to Repay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange between Rav Sheizevi and Rava about reconciling the two verses on day/night garments, which is precisely what heading 0 ('Rav Shizi's Teaching') describes in its prose.",
+      "chosen_heading": "Rav Shizi's Teaching",
+      "current_heading": "Rav Shizi's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Incentive to Repay",
+    "candidates": [
+      "Day/Night Problem",
+      "Solution Explained",
+      "Death & Reclaim",
+      "Rabbi Meir's Challenge",
+      "Shmita & Movables",
+      "Rav Adda's Refinement",
+      "Incentive to Repay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugyah: Rabbi Yochanan's ruling about reclaiming collateral from heirs, Rabbi Meir's challenge about why one returns and retakes the mashkon, the Gemara's inference that the benefits depend on retaking, and Rav Adda's resolution \u2014 exactly the content described in candidate 3 ('Rabbi Meir's Challenge') and its natural continuation through candidate 4 ('Shmita & Movables') and 5 ('Rav Adda's Refinement'), but the passage as a whole is best anchored under candidate 3 where Rabbi Meir's challenge is introduced, since that is the opening dispute this entire passage develops.",
+      "chosen_heading": "Rabbi Meir's Challenge",
+      "current_heading": "Incentive to Repay",
+      "moved": true
+    }
+  }
+]

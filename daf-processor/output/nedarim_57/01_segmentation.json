@@ -39,7 +39,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Distinction Between Konam and Action-Based Language: Impact on Chilufim and Gidulim Forbidden Status",
@@ -58,7 +58,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Zaro Kalah and Ein Zaro Kalah: Two Categories of Growth and Their Different Forbidden Status",
@@ -82,7 +82,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Wife's Labor Vow with Temporal Qualifier: Position of Modifier Determines Scope of Prohibition",
@@ -163,8 +163,8 @@
           "timestamp": "33:57"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Gemara on Gidulim: Does Growth Nullify via Bittul or Remain Forbidden? Onion and Orlah Cases",
@@ -522,5 +522,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 3
+  "amud_b_sefaria_index": 3,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "23:01",
+  "amud_b_micro_title": "Scenario Setup",
+  "shiur_start_daf": 56,
+  "shiur_start_amud": "b"
 }

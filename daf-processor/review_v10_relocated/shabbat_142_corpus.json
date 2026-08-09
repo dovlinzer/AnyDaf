@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Stone vs. Coin Question",
+    "candidates": [
+      "Intro: Child/Basket Cases",
+      "Rava's Secondary Items",
+      "Gemara's Challenge",
+      "Rabbi Yannai's Exception",
+      "Stone vs. Coin Question",
+      "Garment Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yannai's Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna's child-with-stone case and Rabbi Yannai's answer about a baby with longing for its father, which is precisely what heading 3 ('Rabbi Yannai's Exception') describes.",
+      "second_heading": "Stone vs. Coin Question",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the gemara's question about why a stone is specified rather than a dinar, and Rava's answer about the father retrieving a dropped coin, which matches exactly the content described in heading 4 ('Stone vs. Coin Question').",
+      "current_heading": "Stone vs. Coin Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Garment Baraita",
+    "candidates": [
+      "Garment Baraita",
+      "Basis (Basis) Principle",
+      "Fruit Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita supporting Rava's principle about carrying clothes folded vs. worn, and the compound case of carrying a person with his garments \u2014 exactly what the 'Garment Baraita' prose describes in detail.",
+      "chosen_heading": "Garment Baraita",
+      "current_heading": "Garment Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Fruit Requirement",
+    "candidates": [
+      "Basis (Basis) Principle",
+      "Fruit Requirement",
+      "Shake-Out Objection",
+      "Stone as Plug Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the basket-with-stone case from start to finish \u2014 the basis objection, Rabbi Yochanan's fruit answer, and the shake-out/soiled-fruit exchange \u2014 all of which the 'Basis Principle' section introduces as its topic, whereas the current and subsequent headings each cover only sub-portions of what this single unified Talmudic passage contains.",
+      "chosen_heading": "Basis (Basis) Principle",
+      "current_heading": "Fruit Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Stone as Plug Solution",
+    "candidates": [
+      "Shake-Out Objection",
+      "Stone as Plug Solution",
+      "Terumah Mixing Rules",
+      "Rav Chisda's Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the shake-out objection ('v'liernahu niurei') and the answer about the broken basket, which the prose of heading 0 explicitly anticipates and sets up as the next logical question after the fruit-spoiling answer.",
+      "chosen_heading": "Shake-Out Objection",
+      "current_heading": "Stone as Plug Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Chisda's Conditions",
+    "candidates": [
+      "Terumah Mixing Rules",
+      "Rav Chisda's Conditions",
+      "Baraita Challenge",
+      "Grain vs. Space Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Chisda's ruling distinguishing between tehorah on bottom vs. on top, which is precisely what the 'Rav Chisda's Conditions' section prose describes.",
+      "chosen_heading": "Rav Chisda's Conditions",
+      "current_heading": "Rav Chisda's Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Grain vs. Space Need",
+    "candidates": [
+      "Baraita Challenge",
+      "Grain vs. Space Need",
+      "Rava's Reading Context"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with the soiled fruits clarification and then the baraita challenge/refutation of Rav \u1e24isda, which is exactly what the 'Baraita Challenge' section prose describes.",
+      "second_heading": "Grain vs. Space Need",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav \u1e24isda's distinction between 'for its own purpose' vs 'for its place' and the follow-up question about what impelled that reading, which matches precisely the 'Grain vs. Space Need' section prose.",
+      "current_heading": "Grain vs. Space Need",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rava's Reading Context",
+    "candidates": [
+      "Rava's Reading Context",
+      "Rabbi Yehudah's Allowance",
+      "Why Special Case?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's argument that the mishna's precise language supports Rav Chisda's position, using the cushion/coins case and Rabbi Yochanan's ruling \u2014 exactly what the prose under 'Rava's Reading Context' discusses.",
+      "chosen_heading": "Rava's Reading Context",
+      "current_heading": "Rava's Reading Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Why Special Case?",
+    "candidates": [
+      "Rabbi Yehudah's Allowance",
+      "Why Special Case?",
+      "Mental Designation Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a single continuous Talmudic discussion about why Rabbi Yehuda permits lifting teruma on Shabbat \u2014 first proposing Rabbi Eliezer's principle, then rejecting it as only applying stringently, then proposing Rabbi Shimon as the source \u2014 which matches exactly what candidate 1's prose describes.",
+      "chosen_heading": "Why Special Case?",
+      "current_heading": "Why Special Case?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Mental Designation Method",
+    "candidates": [
+      "Mental Designation Method",
+      "Fixing vs. Bitul",
+      "Stone on Barrel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about Rabbi Yehuda's alignment with Rabbi Shimon ben Elazar's mental designation principle, exactly matching the 'Mental Designation Method' prose which traces this same sequence: the baraita's introduction, the challenge from another baraita showing they disagree, and the resolution that Rabbi Yehuda's position is more far-reaching but built on the same underlying logic.",
+      "chosen_heading": "Mental Designation Method",
+      "current_heading": "Mental Designation Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Stone on Barrel",
+    "candidates": [
+      "Fixing vs. Bitul",
+      "Stone on Barrel",
+      "Focus on Heter Principle",
+      "Sorting Legumes Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishna about a stone on a barrel and coins on a cushion, which is precisely what the 'Stone on Barrel' prose describes in detail, including the tilting of the barrel, the case where it is among other barrels, the coins on the pillow, and the leather cushion.",
+      "chosen_heading": "Stone on Barrel",
+      "current_heading": "Stone on Barrel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Sorting Legumes Yom Tov",
+    "candidates": [
+      "Focus on Heter Principle",
+      "Sorting Legumes Yom Tov",
+      "Money on Pillow Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Money on Pillow Rules",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the basis l'davar ha'asur ruling (forgot vs. intentionally placed), which belongs under 'Money on Pillow Rules' where Rav Huna/Rav's ruling about shochea'ch vs. maniach and basis are discussed.",
+      "second_heading": "Sorting Legumes Yom Tov",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 form a continuous discussion about the tanna behind the heter/issur exertion principle, identifying it as Rabban Shimon ben Gamliel via the legumes-on-Yom-Tov case, then resolving the barrel analogy \u2014 exactly the content described in 'Sorting Legumes Yom Tov' prose.",
+      "current_heading": "Sorting Legumes Yom Tov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Money on Pillow Rules",
+    "candidates": [
+      "Money on Pillow Rules",
+      "Wallet Trick",
+      "Brick Generalization",
+      "Sack in Reshut Harabbim"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Money on Pillow Rules",
+      "current_heading": "Money on Pillow Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Sack in Reshut Harabbim",
+    "candidates": [
+      "Wallet Trick",
+      "Brick Generalization",
+      "Sack in Reshut Harabbim",
+      "Rav Ashi's Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three cases (Rabbi Oshaya's purse, Rav Yitzchak's brick, and Rabbi Yochanan's saddlebag) and belongs under a single heading; heading 0 ('Wallet Trick') is the first of the sequence but the passage covers all three sub-cases, yet since the essay has separate headings for each sub-case and the passage must go under one, the content spans headings 0-2 \u2014 however, since the current placement is heading 2 and the passage begins with the mishna introduction and covers all three rulings sequentially, it most naturally anchors under heading 0 where the first ruling (Rabbi Oshaya/purse) is discussed, as that is where the gemara unit begins.",
+      "chosen_heading": "Wallet Trick",
+      "current_heading": "Sack in Reshut Harabbim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Rav Ashi's Restriction",
+    "candidates": [
+      "Sack in Reshut Harabbim",
+      "Rav Ashi's Restriction",
+      "Abaye/Rava on Shekaach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact statements of Mar Zutra and Rav Ashi that are directly quoted and explained in candidate 1's prose, making it the clear home for this text.",
+      "chosen_heading": "Rav Ashi's Restriction",
+      "current_heading": "Rav Ashi's Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Abaye/Rava on Shekaach",
+    "candidates": [
+      "Abaye/Rava on Shekaach",
+      "Raw Pigeon Edibility",
+      "Dog Food & Intended Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye/Rava's practices, Rav Yosef's mockery, and Abaye/Rava's explanations about being an adam chashuv \u2014 are precisely the content described in heading 0's prose, which walks through each of these moments in sequence.",
+      "chosen_heading": "Abaye/Rava on Shekaach",
+      "current_heading": "Abaye/Rava on Shekaach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Dog Food & Intended Use",
+    "candidates": [
+      "Raw Pigeon Edibility",
+      "Dog Food & Intended Use",
+      "Duck Intestines Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question probing Rava's reasoning about raw edibility (chazi l'umtza) and asking whether this implies Rava holds like Rabbi Yehuda \u2014 this is exactly the content described in the 'Raw Pigeon Edibility' prose, which discusses this precise Talmudic question, not the answer/conclusion discussed under 'Dog Food & Intended Use'.",
+      "chosen_heading": "Raw Pigeon Edibility",
+      "current_heading": "Dog Food & Intended Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Duck Intestines Precedent",
+    "candidates": [
+      "Dog Food & Intended Use",
+      "Duck Intestines Precedent",
+      "Nolad & Broken Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's instruction to roast a duck and throw the intestines to the cat, and the Gemara's answer that the intestines were already on his mind from the previous day because they would putrefy \u2014 are precisely the content described in the 'Duck Intestines Precedent' section's prose.",
+      "chosen_heading": "Duck Intestines Precedent",
+      "current_heading": "Duck Intestines Precedent",
+      "moved": false
+    }
+  }
+]

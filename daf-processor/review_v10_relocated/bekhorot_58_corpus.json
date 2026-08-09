@@ -1,0 +1,440 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Three Gornim",
+    "candidates": [
+      "Three Gornim",
+      "Two Primary Halachot",
+      "Rosh Hashanah Divider",
+      "Birthing Periods",
+      "Regalim Connection",
+      "Animals for Pilgrims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's question 'why three times?' and Rabba bar Sheila's answer about churfi/afli/kayiti, which is exactly what the 'Birthing Periods' section's prose describes.",
+      "chosen_heading": "Birthing Periods",
+      "current_heading": "Three Gornim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Animals for Pilgrims",
+    "candidates": [
+      "Two Primary Halachot",
+      "Rosh Hashanah Divider",
+      "Birthing Periods",
+      "Regalim Connection",
+      "Animals for Pilgrims",
+      "Behavioral Assumptions",
+      "Mitzvah Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's question 'why these specific times' and Rabbi Tanchum's answer about animals being available for pilgrims, which is precisely what heading 3 ('Regalim Connection') describes \u2014 the u'mai shna behani zimni question and Rabbi Tanchum ish Kfar Akko's answer about kedei she'tehei behema metzuya le'olei regalim.",
+      "chosen_heading": "Regalim Connection",
+      "current_heading": "Animals for Pilgrims",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Mitzvah Preference",
+    "candidates": [
+      "Behavioral Assumptions",
+      "Mitzvah Preference",
+      "Pras Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the period is called 'goren' (d'tavlu k'goren), which is explicitly discussed in the 'Mitzvah Preference' prose section that mentions this exact explanation.",
+      "chosen_heading": "Mitzvah Preference",
+      "current_heading": "Mitzvah Preference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Pras Definition",
+    "candidates": [
+      "Pras Definition",
+      "Learning Period",
+      "Two Weeks Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the definition of 'pras' as fifteen days, which is precisely what the 'Pras Definition' section's prose discusses.",
+      "chosen_heading": "Pras Definition",
+      "current_heading": "Pras Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Two Weeks Option",
+    "candidates": [
+      "Learning Period",
+      "Two Weeks Option",
+      "Ben Azzai Dates",
+      "Rabbi Akiva Flexible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Abbahu's definition of 'peros' as half, explains half of the thirty-day learning period, and cites the baraita about thirty days \u2014 all of which directly corresponds to the 'Learning Period' section's prose about palga d'hilchot Pesach and the thirty-day window, not the 'Two Weeks Option' section which only covers Rabban Shimon ben Gamliel's dissent.",
+      "chosen_heading": "Learning Period",
+      "current_heading": "Two Weeks Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Rabbi Akiva Flexible",
+    "candidates": [
+      "Ben Azzai Dates",
+      "Rabbi Akiva Flexible",
+      "Adar Month Debate",
+      "Delay Rationale",
+      "Elul Separation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Adar Month Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 directly explains the Rabbi Akiva vs. Ben Azzai dispute over whether Adar is always deficient or sometimes full, which is precisely what the 'Adar Month Debate' prose describes.",
+      "second_heading": "Delay Rationale",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains why the 1st of Sivan is used instead of fifteen days before Shavuot due to scarcity of animals, which matches exactly the 'Delay Rationale' prose discussion.",
+      "current_heading": "Rabbi Akiva Flexible",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Elul Separation",
+    "candidates": [
+      "Adar Month Debate",
+      "Delay Rationale",
+      "Elul Separation",
+      "29th Av Clarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains ben Azzai's reasoning that Elul animals are tithed by themselves, which is precisely the content discussed in the 'Elul Separation' section's prose.",
+      "chosen_heading": "Elul Separation",
+      "current_heading": "Elul Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "29th Av Clarity",
+    "candidates": [
+      "29th Av Clarity",
+      "1st Nissan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the 30th of Av is not used as the goren date \u2014 because Av is sometimes defective (only 29 days), making the 30th fall on Rosh Chodesh Elul \u2014 which is precisely what the prose of '29th Av Clarity' discusses.",
+      "chosen_heading": "29th Av Clarity",
+      "current_heading": "29th Av Clarity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "1st Nissan",
+    "candidates": [
+      "1st Nissan",
+      "29th Elul Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why Rabbi Elazar and Rabbi Shimon set the first goren on 1st Nisan (following Rabban Shimon ben Gamliel's two-week rule) and the second on 1st Sivan, which matches exactly the prose under heading 0 about the 1st Nissan goren and the Rabban Gamliel/shtei shabbatot reasoning.",
+      "chosen_heading": "1st Nissan",
+      "current_heading": "1st Nissan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "29th Elul Boundary",
+    "candidates": [
+      "29th Elul Boundary",
+      "Two Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the third goren falls on the 29th of Elul because Rabbi Elazar and Rabbi Shimon hold rosh hashanah le'ma'aser behemah is the 1st of Tishrei, which is precisely what the '29th Elul Boundary' prose section discusses.",
+      "chosen_heading": "29th Elul Boundary",
+      "current_heading": "29th Elul Boundary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Two Reasons",
+    "candidates": [
+      "Two Reasons",
+      "Tosafot Question",
+      "Conceptual Questions",
+      "Three RH Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the exact Gemara exchange \u2014 the mishna's question about why the 29th of Elul rather than 1st of Tishrei, the objection about the need for a distinction between new and old animals, and the resolution via *chada ve-od ka'amar* \u2014 which is precisely what the 'Two Reasons' prose describes in detail.",
+      "chosen_heading": "Two Reasons",
+      "current_heading": "Two Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Three RH Options",
+    "candidates": [
+      "Tosafot Question",
+      "Conceptual Questions",
+      "Three RH Options",
+      "Ben Azzai Admits",
+      "Elul Separation",
+      "Make a Decision",
+      "Self-Appraisal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Meir's position (1st of Elul) alongside Ben Azzai's response to the competing positions, which is precisely what the 'Three RH Options' prose describes \u2014 the explicit three-way debate about rosh hashanah le'ma'aser behemah and the background against which Ben Azzai's dilemma must be understood.",
+      "chosen_heading": "Three RH Options",
+      "current_heading": "Three RH Options",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Self-Appraisal",
+    "candidates": [
+      "Ben Azzai Admits",
+      "Elul Separation",
+      "Make a Decision",
+      "Self-Appraisal",
+      "Mesorah Answer",
+      "Tosafot Clarify",
+      "Rambam Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge 'let us see whose reasoning is more persuasive' and the objection about Ben Azzai's ability to adjudicate, which corresponds precisely to the 'Make a Decision' section's prose about the Gemara pressing Ben Azzai to analyze competing positions rather than defaulting to stringency.",
+      "chosen_heading": "Make a Decision",
+      "current_heading": "Self-Appraisal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rambam Issue",
+    "candidates": [
+      "Mesorah Answer",
+      "Tosafot Clarify",
+      "Rambam Issue",
+      "Three Groups",
+      "Av-Tishrei Combine",
+      "Rava Solution",
+      "Certainty Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement that the ruling was transmitted by tradition from Haggai, Zechariah, and Malachi, which directly matches the 'Mesorah Answer' section's prose about this exact quote and its meaning.",
+      "chosen_heading": "Mesorah Answer",
+      "current_heading": "Rambam Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Certainty Principle",
+    "candidates": [
+      "Three Groups",
+      "Av-Tishrei Combine",
+      "Rava Solution",
+      "Certainty Principle",
+      "Standard Way",
+      "Be'di'eved Option",
+      "Tenth vs. Percent",
+      "RY Disagrees",
+      "Safek Created"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Rava Solution",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20137 form a continuous discussion of Ben Azzai's ruling on Elul animals, the Av/Elul/Tishrei scenario, Rava's solution, and the certainty principle (vadai/safek), all of which match the 'Rava Solution' and 'Certainty Principle' sections but are better anchored under 'Rava Solution' as the baraita setup leads directly into Rava's case.",
+      "second_heading": "Standard Way",
+      "second_confidence": "high",
+      "second_reason": "Item 8 is a new Mishna (marked 'MISHNA:') describing the procedural method of tithing animals in a pen, which matches the 'Standard Way' prose exactly.",
+      "current_heading": "Certainty Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Safek Created",
+    "candidates": [
+      "Standard Way",
+      "Be'di'eved Option",
+      "Tenth vs. Percent",
+      "RY Disagrees",
+      "Safek Created",
+      "Sacred Status",
+      "Mother Incentive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 4 ('Safek Created') describes: the scenario where a counted animal jumps back creating uncertainty (safek) exempting the remaining animals, and the separate case where the tithed animal jumps back requiring the flock to graze until blemished \u2014 both are discussed in heading 4 and 5's prose, but the full mishna text covering both scenarios matches the current placement under 'Safek Created' which introduces the jumping-back problem.",
+      "chosen_heading": "Safek Created",
+      "current_heading": "Safek Created",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Mother Incentive",
+    "candidates": [
+      "Sacred Status",
+      "Mother Incentive",
+      "Treifa Exclusion",
+      "Staff Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe the counting procedure \u2014 the pen/mother setup, the requirement that animals pass voluntarily, and Rav Huna's decree about purchased and orphaned animals \u2014 which is precisely what the 'Mother Incentive' prose discusses.",
+      "chosen_heading": "Mother Incentive",
+      "current_heading": "Mother Incentive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Staff Mitzvah",
+    "candidates": [
+      "Treifa Exclusion",
+      "Staff Mitzvah",
+      "Verbal vs. Mental",
+      "Reject Percent",
+      "Terumah Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita covers both the treifa exclusion AND the staff mitzvah in a single passage, but candidate 0 ('Treifa Exclusion') explicitly frames it as deriving laws from 'kol asher yaavor tachat hashevet' including the treifa exclusion, while candidate 1 ('Staff Mitzvah') covers the staff and b'di'eved validity \u2014 however, since the baraita begins with the treifa exclusion and then moves to the staff, and candidate 0's prose explicitly describes this combined derivation, it is a slightly better fit, though the current placement under 'Staff Mitzvah' is also defensible given that section's prose closely matches the latter half of the baraita.",
+      "chosen_heading": "Treifa Exclusion",
+      "current_heading": "Staff Mitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161,
+      162
+    ],
+    "current_heading": "Terumah Analogy",
+    "candidates": [
+      "Verbal vs. Mental",
+      "Reject Percent",
+      "Terumah Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reject Percent",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the 'tenth' requirement debate (verbal vs. mental counting, and Rabbi Yosei's dissent that any one-of-ten suffices), which aligns with 'Reject Percent' prose about asiri requiring sequential counting vs. proportional removal.",
+      "second_heading": "Terumah Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins the Abba Elazar ben Gomel terumah analogy that underpins Rabbi Yosei's position, which is precisely what the 'Terumah Analogy' prose describes.",
+      "current_heading": "Terumah Analogy",
+      "moved": true
+    }
+  }
+]

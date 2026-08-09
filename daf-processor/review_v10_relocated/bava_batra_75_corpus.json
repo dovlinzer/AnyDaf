@@ -1,0 +1,501 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rahav's Slaying",
+    "candidates": [
+      "Rahav's Slaying",
+      "Rahav Identity",
+      "Rahav's Stench"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes God commanding the minister of the sea to swallow all waters, the angel's refusal, and God striking him dead \u2014 exactly what the 'Rahav's Slaying' section prose describes, including the same Job 26:12 proof-text.",
+      "chosen_heading": "Rahav's Slaying",
+      "current_heading": "Rahav's Slaying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rahav's Stench",
+    "candidates": [
+      "Rahav Identity",
+      "Rahav's Stench",
+      "Creation Myths",
+      "Jordan's Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the identification of Rahav as the sea's minister AND the stench detail in one continuous statement by Rabbi Yitzchak, but the Rahav Identity section's prose explicitly addresses this inference ('shema mina sar shel yam Rahav shemo') while the current placement's prose (Rahav's Stench) also covers this content \u2014 however, since the passage begins with the identity inference and the stench is secondary, and candidate 0 explicitly discusses this exact reasoning including the circularity of the proof, candidate 0 is a slightly better match, though confidence is medium given the overlap.",
+      "chosen_heading": "Rahav Identity",
+      "current_heading": "Rahav's Stench",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Jordan's Path",
+    "candidates": [
+      "Creation Myths",
+      "Jordan's Path",
+      "Beasts' Confidence",
+      "Seven Seas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Jordan's course from Pamyas through various seas to the Mediterranean and ultimately to the leviathan's mouth, which is precisely what the 'Jordan's Path' section's prose discusses.",
+      "chosen_heading": "Jordan's Path",
+      "current_heading": "Jordan's Path",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Seven Seas",
+    "candidates": [
+      "Beasts' Confidence",
+      "Seven Seas",
+      "Gabriel's Hunt",
+      "Hunger & Steam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Seven Seas",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Dimi's teaching about the seven seas and four rivers surrounding Eretz Yisrael, which perfectly matches the 'Seven Seas' section prose.",
+      "second_heading": "Gabriel's Hunt",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 describe Gabriel's future hunt of the leviathan with God's assistance, which exactly matches the 'Gabriel's Hunt' section prose.",
+      "current_heading": "Seven Seas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Hunger & Steam",
+    "candidates": [
+      "Gabriel's Hunt",
+      "Hunger & Steam",
+      "Eden Cooling",
+      "Thirst & Recovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the leviathan's hunger causing it to emit breath that boils the deep waters, which is exactly what the 'Hunger & Steam' section prose discusses, and the Eden-cooling detail is a continuation of the same passage naturally covered there.",
+      "chosen_heading": "Hunger & Steam",
+      "current_heading": "Hunger & Steam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Thirst & Recovery",
+    "candidates": [
+      "Eden Cooling",
+      "Thirst & Recovery",
+      "The Feast",
+      "Friends & Markets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the leviathan making furrows when thirsty and the depth taking seventy years to recover, which matches exactly the 'Thirst & Recovery' section prose.",
+      "chosen_heading": "Thirst & Recovery",
+      "current_heading": "Thirst & Recovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Friends & Markets",
+    "candidates": [
+      "The Feast",
+      "Friends & Markets",
+      "Merit Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (the feast from leviathan's flesh and the commerce from its remainder) are part of the same continuous passage about the leviathan feast, and candidate 0's prose explicitly discusses the feast from leviathan's flesh with the same verse 'yichru alav chaverim' \u2014 candidate 1's prose also covers this material but is clearly a continuation/elaboration section, while candidate 0 is the primary home for the feast discussion where these items naturally open.",
+      "chosen_heading": "The Feast",
+      "current_heading": "Friends & Markets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Merit Levels",
+    "candidates": [
+      "Friends & Markets",
+      "Merit Levels",
+      "Wall Covering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the graduated merit system for rewards from the leviathan's skin (sukkah \u2192 tziltzel \u2192 anak \u2192 kameia), which is precisely what the 'Merit Levels' prose discusses.",
+      "chosen_heading": "Merit Levels",
+      "current_heading": "Merit Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Wall Covering",
+    "candidates": [
+      "Wall Covering",
+      "Gate Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the leviathan's skin being spread on Jerusalem's walls with its radiance illuminating the world, which matches perfectly with the 'Wall Covering' section's prose discussing exactly this content including the same Isaiah verse.",
+      "chosen_heading": "Wall Covering",
+      "current_heading": "Wall Covering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Gate Materials",
+    "candidates": [
+      "Gate Materials",
+      "Block Dimensions",
+      "Student's Mockery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the interpretation of 'kadkhod' and the angelic/amora'im dispute over whether it means onyx or jasper, which directly matches the prose in 'Gate Materials' that explains this exact debate and its resolution.",
+      "chosen_heading": "Gate Materials",
+      "current_heading": "Gate Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Student's Mockery",
+    "candidates": [
+      "Block Dimensions",
+      "Student's Mockery",
+      "Divine Punishment",
+      "Two Hundred Cubits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of the student's mockery and its aftermath, which is precisely what heading 1 ('Student's Mockery') describes in its prose, covering the sneering, the sea voyage, the angelic vision, and the student's return to Rabbi Yo\u1e25anan \u2014 the divine punishment detail in item 2 is the conclusion of this same narrative unit that heading 1's prose already summarizes.",
+      "chosen_heading": "Student's Mockery",
+      "current_heading": "Student's Mockery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Two Hundred Cubits",
+    "candidates": [
+      "Divine Punishment",
+      "Two Hundred Cubits",
+      "Temple Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Meir's interpretation of 'komemiyyut' as two hundred cubits (two times Adam's height), which matches exactly the 'Two Hundred Cubits' section's prose discussion of this very baraita.",
+      "chosen_heading": "Two Hundred Cubits",
+      "current_heading": "Two Hundred Cubits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Temple Height",
+    "candidates": [
+      "Temple Height",
+      "Height Paradox",
+      "Window Blocks",
+      "Canopy Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda's statement about 100-cubit stature corresponding to the heikhal, which is exactly what the 'Temple Height' prose describes, and the brief resolution about windows is secondary content already anticipated in that section's context.",
+      "chosen_heading": "Temple Height",
+      "current_heading": "Temple Height",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Canopy Merit",
+    "candidates": [
+      "Height Paradox",
+      "Window Blocks",
+      "Canopy Merit",
+      "Isaiah's Seven",
+      "Burning Jealousy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rabbah's teaching about seven canopies for each righteous person, which is precisely what 'Canopy Merit' prose describes as its subject matter.",
+      "chosen_heading": "Canopy Merit",
+      "current_heading": "Canopy Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Burning Jealousy",
+    "candidates": [
+      "Isaiah's Seven",
+      "Burning Jealousy",
+      "Moses & Joshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses smoke and fire in the chuppah with Rabbi Chanina's teachings about stinginess toward Torah scholars and burning jealousy from others' canopies, which is precisely what the 'Burning Jealousy' section's prose describes and analyzes.",
+      "chosen_heading": "Burning Jealousy",
+      "current_heading": "Burning Jealousy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Moses & Joshua",
+    "candidates": [
+      "Moses & Joshua",
+      "Eden's Treasures",
+      "Eleven Canopies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Moses and Joshua's comparative glory, matching the prose under 'Moses & Joshua' which explicitly discusses the same verse, the sun/moon metaphor, and the woe exclamation.",
+      "chosen_heading": "Moses & Joshua",
+      "current_heading": "Moses & Joshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Eleven Canopies",
+    "candidates": [
+      "Eden's Treasures",
+      "Eleven Canopies",
+      "Chiram's Pride"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three statements (Rabbi \u1e24ama bar \u1e24anina's ten canopies, Mar Zutra's eleven, and Rabbi Yo\u1e25anan's comment on gold) as a unit, and heading 0's prose explicitly discusses Rabbi \u1e24ama bar \u1e24anina's teaching about ten chupot as its primary focus, making it the better home for the complete passage rather than splitting it under heading 1 which only covers the latter two opinions.",
+      "chosen_heading": "Eden's Treasures",
+      "current_heading": "Eleven Canopies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Chiram's Pride",
+    "candidates": [
+      "Eleven Canopies",
+      "Chiram's Pride",
+      "Two Jerusalems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's interpretation of 'melechet tupayecha u-nekevecha' regarding Hiram of Tyre, which is precisely what candidate 1 ('Chiram's Pride') discusses, including the two readings about orifices and the decree of death on Adam \u2014 all explicitly covered in that section's prose.",
+      "chosen_heading": "Chiram's Pride",
+      "current_heading": "Chiram's Pride",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Two Jerusalems",
+    "candidates": [
+      "Two Jerusalems",
+      "Three Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between Jerusalem of this world and the World-to-Come, which is exactly what the 'Two Jerusalems' prose section describes.",
+      "chosen_heading": "Two Jerusalems",
+      "current_heading": "Two Jerusalems",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Three Names",
+    "candidates": [
+      "Three Names",
+      "Called Holy",
+      "Jerusalem's Measure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Names",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the teaching that three things are called by God's name (tzaddikim, Mashiach, Jerusalem), which is precisely what heading 0 'Three Names' discusses in its prose.",
+      "second_heading": "Called Holy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concludes the three-names prooftexts and then transitions to Rabbi Elazar's teaching that 'holy' will be declared before the righteous, which is exactly what heading 1 'Called Holy' discusses in its prose.",
+      "current_heading": "Three Names",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Jerusalem's Measure",
+    "candidates": [
+      "Called Holy",
+      "Jerusalem's Measure",
+      "No Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly continue the discussion of Jerusalem being raised three parasangs \u2014 item 1 establishes the height and item 2 addresses the ease of ascending to that height and confirms the cloud's altitude \u2014 exactly matching the 'Jerusalem's Measure' prose.",
+      "chosen_heading": "Jerusalem's Measure",
+      "current_heading": "Jerusalem's Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "No Walls",
+    "candidates": [
+      "No Walls",
+      "Added Structures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Zechariah passage about measuring Jerusalem and the angels' protest against limiting it, which is precisely what the 'No Walls' prose section discusses in detail.",
+      "chosen_heading": "No Walls",
+      "current_heading": "No Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Added Structures",
+    "candidates": [
+      "Added Structures",
+      "Building Sizes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the additions God will make to Jerusalem (gardens, towers, fortifications, small houses), which matches the 'Added Structures' section's prose discussing those specific additions, while 'Building Sizes' focuses on the comparison to Tzippori's prosperity and the baraita testimony.",
+      "chosen_heading": "Added Structures",
+      "current_heading": "Added Structures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Building Sizes",
+    "candidates": [
+      "Building Sizes",
+      "Size Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Building Sizes' explicitly describes Rabbi Yosei's baraita about seeing Tzippori in its prosperity and the markets of pot-scraping sellers, which is exactly what this passage contains.",
+      "chosen_heading": "Building Sizes",
+      "current_heading": "Building Sizes",
+      "moved": false
+    }
+  }
+]

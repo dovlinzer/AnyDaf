@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Food Restrictions",
+    "candidates": [
+      "Beis Din's Role",
+      "Beis Din Representation",
+      "Reading the Service",
+      "Animal Parade",
+      "Roleplay Explanation",
+      "Food Restrictions",
+      "Gemara's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishnah passage covers the entire sequence described in candidates 0-5 (Beis Din elders, reading the service, animal parade, food restrictions), so it belongs under the first heading 'Beis Din's Role' which introduces this mishnah of daf 18 and its content.",
+      "chosen_heading": "Beis Din's Role",
+      "current_heading": "Food Restrictions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Gemara's Question",
+    "candidates": [
+      "Food Restrictions",
+      "Gemara's Question",
+      "Kohen Gadol Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's question about whether we would appoint a High Priest who never learned to read, which is exactly what the 'Gemara's Question' section prose discusses.",
+      "chosen_heading": "Gemara's Question",
+      "current_heading": "Gemara's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Kohen Gadol Requirements",
+    "candidates": [
+      "Kohen Gadol Requirements",
+      "Bayis Rishon/Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about the Kohen Gadol needing to be greater than his brethren in strength, beauty, wisdom, and wealth \u2014 including the Acherim ruling about elevating him from his brethren's property \u2014 is precisely what the prose under heading 0 describes and analyzes.",
+      "chosen_heading": "Kohen Gadol Requirements",
+      "current_heading": "Kohen Gadol Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Bayis Rishon/Sheni",
+    "candidates": [
+      "Bayis Rishon/Sheni",
+      "Goats Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yosef's distinction between the First and Second Temple periods and Rav Asi's story about Martha bas Baithos bribing King Yannai, which is exactly what the 'Bayis Rishon/Sheni' section prose discusses in detail.",
+      "chosen_heading": "Bayis Rishon/Sheni",
+      "current_heading": "Bayis Rishon/Sheni",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Goats Excluded",
+    "candidates": [
+      "Goats Excluded",
+      "Influence Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact Q&A sequence (why goats excluded, then why bulls are different) that candidate 0's prose explicitly discusses in detail, making it the clear and correct placement.",
+      "chosen_heading": "Goats Excluded",
+      "current_heading": "Goats Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Influence Distinction",
+    "candidates": [
+      "Influence Distinction",
+      "Foods Causing Emission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Influence Distinction' explicitly quotes and discusses this exact Ravina saying (the nephew/policeman folk saying) in the context of the kohen gadol's knowledge and agency over the kohanim versus the broader Israel.",
+      "chosen_heading": "Influence Distinction",
+      "current_heading": "Influence Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Foods Causing Emission",
+    "candidates": [
+      "Foods Causing Emission",
+      "Zav vs. Baal Keri",
+      "Foods for Zav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss foods that cause seminal emission specifically in the context of the High Priest on Erev Yom Kippur, which is precisely what the 'Foods Causing Emission' section's prose addresses in detail.",
+      "chosen_heading": "Foods Causing Emission",
+      "current_heading": "Foods Causing Emission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Foods for Zav",
+    "candidates": [
+      "Zav vs. Baal Keri",
+      "Foods for Zav",
+      "Five Things Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about what foods to avoid feeding a zav (the chagavi/gabam acronyms), which is precisely what the 'Foods for Zav' prose section describes and analyzes.",
+      "chosen_heading": "Foods for Zav",
+      "current_heading": "Foods for Zav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Five Things Tumah",
+    "candidates": [
+      "Five Things Tumah",
+      "Arugula Digression",
+      "Guest Etiquette"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Five Things Tumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the five foods that cause impurity, which is exactly what heading 0 ('Five Things Tumah') describes in its prose.",
+      "second_heading": "Arugula Digression",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the arugula digression (Rabbi Meir identifying orot, Rabbi Yochanan's etymology, Rav Huna's practical advice, Rav Papa's qualification), which matches heading 1 ('Arugula Digression') precisely.",
+      "current_heading": "Five Things Tumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Guest Etiquette",
+    "candidates": [
+      "Arugula Digression",
+      "Guest Etiquette",
+      "Rav's Announcement",
+      "Bigamy Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the guest etiquette ruling (eggs and the host's garment) and Rav's/Rav Nachman's announcements, and the current placement under 'Guest Etiquette' (index 1) whose prose explicitly discusses both the egg ruling and the garment ruling is the correct home, as the announcement portion naturally flows from that context and is part of the same Talmudic passage.",
+      "chosen_heading": "Guest Etiquette",
+      "current_heading": "Guest Etiquette",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Bigamy Question",
+    "candidates": [
+      "Rav's Announcement",
+      "Bigamy Question",
+      "Reputation Solution",
+      "Dam Chimud Issue",
+      "Yichud Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita of Rabbi Eliezer ben Yaakov about the bigamy/multiple-wives concern and the Sages' response about their reputation (kala it lehu), which maps directly to the 'Bigamy Question' heading's prose describing exactly this baraita and challenge, with the reputation answer belonging to the same unit of Talmudic exchange.",
+      "chosen_heading": "Bigamy Question",
+      "current_heading": "Bigamy Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Yichud Solution",
+    "candidates": [
+      "Reputation Solution",
+      "Dam Chimud Issue",
+      "Yichud Solution",
+      "Tosafot Objection",
+      "Transfer Authority",
+      "Ketores Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the dam chimud concern raised by Rava's ruling \u2014 item 1 is the challenge from dam chimud and item 2 is the second answer to that challenge \u2014 making candidate 1 ('Dam Chimud Issue') the natural home, even though the two answers are also described in candidate 2's prose; candidate 1's prose is specifically devoted to framing the dam chimud problem that these items resolve.",
+      "chosen_heading": "Dam Chimud Issue",
+      "current_heading": "Yichud Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Ketores Oath",
+    "candidates": [
+      "Tosafot Objection",
+      "Transfer Authority",
+      "Ketores Oath",
+      "Emotional Response",
+      "Staying Awake Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The mishnah covers both the transfer to the elders of the priesthood and the oath in one continuous passage, but the prose under 'Transfer Authority' (index 1) introduces this exact mishnah text describing the handover and the bringing to Beis Avtinas, making it the better opening home \u2014 though the oath content is then elaborated under index 2, the passage as a whole unit fits best under index 1 where the mishnah is first introduced.",
+      "chosen_heading": "Transfer Authority",
+      "current_heading": "Ketores Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Staying Awake Methods",
+    "candidates": [
+      "Emotional Response",
+      "Staying Awake Methods",
+      "Books Read",
+      "Oath Authority Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the methods for keeping the kohen gadol awake \u2014 teaching, being taught, reading, being read to \u2014 which matches the 'Staying Awake Methods' prose exactly, including the specific graduated hierarchy of scholarly capacity described there.",
+      "chosen_heading": "Staying Awake Methods",
+      "current_heading": "Staying Awake Methods",
+      "moved": false
+    }
+  }
+]

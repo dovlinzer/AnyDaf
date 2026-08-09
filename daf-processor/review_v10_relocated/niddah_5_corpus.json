@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Rava's Question",
+      "Twice-Daily Checks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabba's question about the Rabbis' reason, Abaye's response about 'her time being sufficient,' and the explanation that Rabba was sharpening Abaye's thinking \u2014 all of which is precisely what the prose under 'Rava's Question' describes.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Twice-Daily Checks",
+    "candidates": [
+      "Twice-Daily Checks",
+      "Check-Based Protection",
+      "Negligence Penalty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Rav Yehuda/Shmuel teaching about twice-daily examinations (morning and evening) and their purposes, which is exactly what the 'Twice-Daily Checks' section's prose discusses.",
+      "chosen_heading": "Twice-Daily Checks",
+      "current_heading": "Twice-Daily Checks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Negligence Penalty",
+    "candidates": [
+      "Check-Based Protection",
+      "Negligence Penalty",
+      "Three Units Problem",
+      "Lo Plug Principle",
+      "Sinner Not Rewarded"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Negligence Penalty",
+      "first_confidence": "high",
+      "first_reason": "Items 1 discusses the penalty of losing an additional onah for not examining, which matches the 'Negligence Penalty' prose exactly.",
+      "second_heading": "Three Units Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rav Pappa's three-onot objection and the two responses (lo plug and sinner not rewarded), which correspond to the 'Three Units Problem'/'Lo Plug Principle'/'Sinner Not Rewarded' sections \u2014 but since items 2 and 3 must go together and item 2's content is the three-onot problem while item 3 is the second rationale, the best single heading for both is 'Three Units Problem' as it introduces the sub-discussion that encompasses both rationales.",
+      "current_heading": "Negligence Penalty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Sinner Not Rewarded",
+    "candidates": [
+      "Three Units Problem",
+      "Lo Plug Principle",
+      "Sinner Not Rewarded",
+      "Regular Period Dispute",
+      "Four Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the 'mai beinaihu' question and its answer about ones (unforeseen circumstance), which is explicitly discussed in the 'Sinner Not Rewarded' section's prose.",
+      "chosen_heading": "Sinner Not Rewarded",
+      "current_heading": "Sinner Not Rewarded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Four Categories",
+    "candidates": [
+      "Regular Period Dispute",
+      "Four Categories",
+      "Dosa's Extension",
+      "Position Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the Mishnah's rule about a woman with a veset being dayah sha'atah, then immediately raises the Gemara's question of whether this reflects only Rabbi Dosa's view \u2014 which is precisely what the 'Regular Period Dispute' prose describes, not the 'Four Categories' section which focuses on Rabbi Eliezer's enumeration.",
+      "chosen_heading": "Regular Period Dispute",
+      "current_heading": "Four Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Position Reconciliation",
+    "candidates": [
+      "Dosa's Extension",
+      "Position Reconciliation",
+      "Final Framework",
+      "Stain Retroactivity",
+      "Analogy Logic",
+      "Chanina's Position",
+      "Meir vs. Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items are the continuous Gemara dialectic about reconciling Rabbi Dosa's and the Rabbis' positions by distinguishing b'sha'at vestah from shelo b'sha'at vestah, culminating in le-chumra mokminan \u2014 exactly the content described in the 'Position Reconciliation' prose.",
+      "chosen_heading": "Position Reconciliation",
+      "current_heading": "Position Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Meir vs. Chanina",
+    "candidates": [
+      "Final Framework",
+      "Stain Retroactivity",
+      "Analogy Logic",
+      "Chanina's Position",
+      "Meir vs. Chanina",
+      "Chanina Clarified",
+      "Age Threshold",
+      "Pre-Exam Fails"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Pre-Exam Fails",
+    "candidates": [
+      "Chanina Clarified",
+      "Age Threshold",
+      "Pre-Exam Fails",
+      "Cloth Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Shmuel's ruling that the pre-coital examination cloth does not count as a valid check, followed by Rav Kattina's explanation that the woman is too rushed to examine thoroughly \u2014 exactly the content described in the 'Pre-Exam Fails' prose.",
+      "chosen_heading": "Pre-Exam Fails",
+      "current_heading": "Pre-Exam Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Cloth Requirements",
+    "candidates": [
+      "Cloth Requirements",
+      "Mandate & Validation",
+      "Mishnah Language",
+      "Semen Coverage",
+      "Scope of Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about whether the two examination cloths in the Mishnah are pre- and post-coital or both post-coital, and why the Mishnah's ruling is necessary \u2014 exactly what Candidate 0's prose describes in detail.",
+      "chosen_heading": "Cloth Requirements",
+      "current_heading": "Cloth Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Scope of Rule",
+    "candidates": [
+      "Mandate & Validation",
+      "Mishnah Language",
+      "Semen Coverage",
+      "Scope of Rule",
+      "Preparation Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "The passage discusses how examination cloths reduce retroactive concern both for a twenty-four-hour period and from examination to examination, which fits under 'Scope of Rule' where the essay discusses the comprehensive checking regimen and retroactive concern \u2014 though none of the candidates is a perfect match, the current placement is as good as any and should be retained.",
+      "chosen_heading": "Scope of Rule",
+      "current_heading": "Scope of Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Preparation Scenario",
+    "candidates": [
+      "Preparation Scenario",
+      "Bed as Example",
+      "Zeiri's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question that section 0's prose describes \u2014 why does the Mishnah mention the bed rather than simply saying she was engaged in ta'aros \u2014 which is precisely the content of this Gemara excerpt.",
+      "chosen_heading": "Preparation Scenario",
+      "current_heading": "Preparation Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Zeiri's Teaching",
+    "candidates": [
+      "Bed as Example",
+      "Zeiri's Teaching",
+      "Inanimate Status Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage first establishes that 'her time is sufficient' explains why the bed is not rendered impure (and that me'et l'et would render it impure), then cites Zeiri in support \u2014 this sequence matches Heading 0's prose about the bed being introduced to illustrate the full scope of retroactive niddah status, whereas Heading 1's prose discusses only Zeiri's teaching in isolation without the preceding bed-reasoning that introduces it.",
+      "chosen_heading": "Bed as Example",
+      "current_heading": "Zeiri's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Inanimate Status Q",
+    "candidates": [
+      "Zeiri's Teaching",
+      "Inanimate Status Q",
+      "Human Agency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Inanimate Status Q",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the challenge about the bed lacking da'at and Ze'eiri's answer about companions carrying it, which matches exactly the prose of heading 1 ('Inanimate Status Q') describing the safek tumah difficulty and Ze'eiri's resolution via carriers.",
+      "second_heading": "Human Agency",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rabbi Yohanan's new principle about uncertain impurity caused by human agency making even a stationary vessel treated as having da'at, which corresponds precisely to heading 2 ('Human Agency') discussing how a person with da'at transmits the tumah status.",
+      "current_heading": "Inanimate Status Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Human Agency",
+    "candidates": [
+      "Human Agency",
+      "Yochanan's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items directly discuss Rabbi Yochanan's principle about uncertain tumah transmitted by human agency \u2014 exactly what candidate 1 ('Yochanan's Principle') describes in its prose, including the vessel on the ground, the objection from the baraita about wrapping in a cloak, and the resolution via Rav Hoshaya's private/public domain distinction.",
+      "chosen_heading": "Yochanan's Principle",
+      "current_heading": "Human Agency",
+      "moved": true
+    }
+  }
+]

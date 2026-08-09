@@ -29,7 +29,7 @@
           "timestamp": "02:00"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -116,7 +116,7 @@
           "timestamp": "31:10"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -474,5 +474,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "07:07",
+  "amud_b_micro_title": "Night Classification",
+  "shiur_start_daf": 9,
+  "shiur_start_amud": "a"
 }

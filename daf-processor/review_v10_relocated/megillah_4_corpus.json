@@ -1,0 +1,299 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rava: Megilla > Avodah",
+    "candidates": [
+      "Rava: Megilla > Avodah",
+      "Megilla > Talmud Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the relative weight of individual Torah study versus other obligations (specifically rejecting an argument about kavod haTorah in the context of Talmud Torah vs. megilla/avodah comparisons), which fits squarely under the 'Megilla > Talmud Torah' section prose that explicitly discusses Talmud Torah d'yachid distinctions and the hierarchy of megilla over Torah study.",
+      "chosen_heading": "Megilla > Talmud Torah",
+      "current_heading": "Rava: Megilla > Avodah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Megilla > Talmud Torah",
+    "candidates": [
+      "Rava: Megilla > Avodah",
+      "Megilla > Talmud Torah",
+      "Nazir Textual Proof",
+      "Rava's Question",
+      "Pirsumei Nisa",
+      "Kevod Habriyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous passage covering Rava's hierarchy rulings (megilla vs avodah/Torah, met mitzva vs Torah/avodah) and the baraita deriving met mitzva precedence from 'velachoto' \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Megilla > Talmud Torah",
+      "current_heading": "Megilla > Talmud Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Kevod Habriyot",
+    "candidates": [
+      "Nazir Textual Proof",
+      "Rava's Question",
+      "Pirsumei Nisa",
+      "Kevod Habriyot",
+      "Kerach & Neighbors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's dilemma between megilla and met mitzva and his resolution, which is precisely what the 'Rava's Question' section's prose describes \u2014 the unresolved relationship between mikra megilla and mes mitzvah \u2014 whereas the current placement under 'Kevod Habriyot' only discusses part of the passage's content (the resolution), not the full dilemma.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Kevod Habriyot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Kerach & Neighbors",
+    "candidates": [
+      "Kevod Habriyot",
+      "Kerach & Neighbors",
+      "Wall-Then-Settle Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Yehoshua ben Levi's ruling about walled cities and their adjacent/visible settlements, and the Gemara's elaboration (mountain/valley cases) \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Kerach & Neighbors",
+      "current_heading": "Kerach & Neighbors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Wall-Then-Settle Rule",
+    "candidates": [
+      "Wall-Then-Settle Rule",
+      "Asara Batlanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yehoshua ben Levi's ruling that a city settled before being walled is treated as a village, deriving this from Leviticus 25:29, which is precisely what the 'Wall-Then-Settle Rule' prose discusses.",
+      "chosen_heading": "Wall-Then-Settle Rule",
+      "current_heading": "Wall-Then-Settle Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Asara Batlanim",
+    "candidates": [
+      "Asara Batlanim",
+      "Destroyed City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Levi's teaching about asara batlanim in a kerach and the Gemara's question about its novelty over the Mishnah \u2014 exactly what the prose in candidate 0 analyzes.",
+      "chosen_heading": "Asara Batlanim",
+      "current_heading": "Asara Batlanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Destroyed City",
+    "candidates": [
+      "Destroyed City",
+      "City Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a destroyed walled city regaining its status and the interpretation of 'asher lo chomah,' which matches precisely the prose under 'Destroyed City' that analyzes Rabbi Yehoshua ben Levi's statement about destruction and Rabbi Eliezer bar Yosei's baraita about the dual reading of 'lo.'",
+      "chosen_heading": "Destroyed City",
+      "current_heading": "Destroyed City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "City Examples",
+    "candidates": [
+      "City Examples",
+      "Af Hen Hayu"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Af Hen Hayu",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 ('destroyed means it lost ten idlers') is the closing resolution of a prior discussion about what 'destroyed' means for a walled city's status, not part of the Lod/Ono/Gei HeHarashim discussion.",
+      "second_heading": "City Examples",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 form the complete sugya about Lod, Ono, and Gei HeHarashim being walled since Joshua's time, which matches exactly the 'City Examples' prose describing Rabbi Yehoshua ben Levi's tradition and Rabbi Elazar's resolution.",
+      "current_heading": "City Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Af Hen Hayu",
+    "candidates": [
+      "Af Hen Hayu",
+      "Women Motzi Men?",
+      "Shabbat Purim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Af Hen Hayu",
+      "first_confidence": "high",
+      "first_reason": "Item 1's first statement about women's obligation in megilla reading belongs under 'Af Hen Hayu', which is precisely about that ruling and its reasoning.",
+      "second_heading": "Shabbat Purim",
+      "second_confidence": "high",
+      "second_reason": "Item 1's second statement and Item 2's challenge about Purim on Shabbat and the baraita about asking/expounding on the day belong under 'Shabbat Purim', which discusses exactly this topic including the baraita about hilchos Pesach be-Pesach etc.",
+      "current_heading": "Af Hen Hayu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shabbat Purim",
+    "candidates": [
+      "Women Motzi Men?",
+      "Shabbat Purim",
+      "Leil v'Yom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the necessity of mentioning Purim to counter the concern (Rabba's decree) about carrying the Megilla on Shabbat, which is precisely what the 'Shabbat Purim' section's prose discusses as the true chiddush of Rabbi Yehoshua ben Levi's ruling.",
+      "chosen_heading": "Shabbat Purim",
+      "current_heading": "Shabbat Purim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Leil v'Yom",
+    "candidates": [
+      "Leil v'Yom",
+      "Shanota Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the obligation to read the Megilla at night and repeat it by day with the Psalms 22:3 proof-text, which is precisely what the 'Leil v'Yom' prose discusses, including Rashi's zeicher la-nes explanation and the asmachta methodology.",
+      "chosen_heading": "Leil v'Yom",
+      "current_heading": "Leil v'Yom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Shanota Meaning",
+    "candidates": [
+      "Shanota Meaning",
+      "Constant Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the misunderstanding of 'lishnota' as Mishna study versus its correct meaning of repetition, which is precisely what the 'Shanota Meaning' section's prose addresses.",
+      "chosen_heading": "Shanota Meaning",
+      "current_heading": "Shanota Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Constant Praise",
+    "candidates": [
+      "Constant Praise",
+      "Early Reading Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi \u1e24elbo/Ulla Bira'a's statement requiring nighttime and daytime Megilla reading, which is precisely what the 'Constant Praise' prose discusses in detail.",
+      "chosen_heading": "Constant Praise",
+      "current_heading": "Constant Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Early Reading Reason",
+    "candidates": [
+      "Early Reading Reason",
+      "Corrected Reading",
+      "Conditional Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All five items form one continuous dialectical unit \u2014 Rabbi \u1e24anina's reason (item 1), the Gemara's challenges from Monday/Thursday cases (items 2-3), Rabbi Yehudah's conditional ruling (item 4), and the corrected formulation (item 5) \u2014 but the current heading 'Early Reading Reason' covers the full arc of this discussion (introducing and then correcting the reason), whereas 'Corrected Reading' (index 1) and 'Conditional Application' (index 2) each cover only the later portions; since the passage begins with item 1 which is the initial statement that triggers everything, the current placement under 'Early Reading Reason' is the best single home for all five items together.",
+      "chosen_heading": "Early Reading Reason",
+      "current_heading": "Early Reading Reason",
+      "moved": false
+    }
+  }
+]

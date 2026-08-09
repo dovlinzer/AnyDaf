@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "R. Chanina: Skin Not Burn",
+    "candidates": [
+      "Intro: Physical Unity",
+      "R. Chanina: Skin Not Burn",
+      "R. Akiva's Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself (kol hakodashim she'eira bahen pasul kodem lehefshetan), which introduces the rule about flaying as the determining moment \u2014 exactly what the 'Intro: Physical Unity' prose explains and contextualizes, before the gemara's discussion of R. Chanina's testimony.",
+      "chosen_heading": "Intro: Physical Unity",
+      "current_heading": "R. Chanina: Skin Not Burn",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "R. Akiva's Inference",
+    "candidates": [
+      "R. Chanina: Skin Not Burn",
+      "R. Akiva's Inference",
+      "Sages Reject Proof",
+      "First Mishnah: Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's inference from Rabbi Chanina's statement about the firstborn offering found to be a tereifa after flaying, and the Rabbis' rejection of that proof \u2014 exactly what candidates 1 and 2 discuss, and since the passage combines both Rabbi Akiva's statement and the Rabbis' response in one unit, it matches the current placement under 'R. Akiva's Inference' which covers both elements in its prose.",
+      "chosen_heading": "R. Akiva's Inference",
+      "current_heading": "R. Akiva's Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "First Mishnah: Blood",
+    "candidates": [
+      "Sages Reject Proof",
+      "First Mishnah: Blood",
+      "Abaye's Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's analysis of the tension between the two mishnayot \u2014 item 1 identifies the reisha as Rabbi Elazar b'Rabbi Shimon's view, and item 2 raises the eima seifa challenge showing the seifa follows Rebbi \u2014 which is precisely what candidate 1's prose describes in detail as the content of this section.",
+      "chosen_heading": "First Mishnah: Blood",
+      "current_heading": "First Mishnah: Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Abaye's Reconciliation",
+    "candidates": [
+      "Abaye's Reconciliation",
+      "Rava's Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement reconciling the two mishnayot by noting that Rabbi concedes flaying doesn't precede sprinkling, which is precisely what the 'Abaye's Reconciliation' section discusses.",
+      "chosen_heading": "Abaye's Reconciliation",
+      "current_heading": "Abaye's Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Rava's Alternative",
+    "candidates": [
+      "Rava's Alternative",
+      "Rebbi: Blood Atones Skin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's argument reinterpreting 'before/after flaying' as 'before/after the moment it became fit for flaying' (i.e., before/after zrikat hadam), which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rava's Alternative",
+      "current_heading": "Rava's Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rebbi: Blood Atones Skin",
+    "candidates": [
+      "Rebbi: Blood Atones Skin",
+      "R. Eliezer: Blood Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda HaNasi's opinion that blood atones for the skin independently and that when the skin is still with the flesh the hide follows the flesh's status, which is precisely what the prose of heading 0 ('Rebbi: Blood Atones Skin') discusses in detail.",
+      "chosen_heading": "Rebbi: Blood Atones Skin",
+      "current_heading": "Rebbi: Blood Atones Skin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "R. Eliezer: Blood Fails",
+    "candidates": [
+      "R. Eliezer: Blood Fails",
+      "Invalid Meat Application",
+      "R. Yehoshua: Blood Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Elazar beRabbi Shimon stating that blood does not effect acceptance of the hide by itself, and the prose under heading 0 directly quotes and explains this exact text, including the key phrases 'ein hadam meratzeh al ha-or bifnei atzmo' and 'hurtza basar sha'ah achat / yafshitenu ve'oro lakohanim'.",
+      "chosen_heading": "R. Eliezer: Blood Fails",
+      "current_heading": "R. Eliezer: Blood Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "R. Yehoshua: Blood Meat",
+    "candidates": [
+      "Invalid Meat Application",
+      "R. Yehoshua: Blood Meat",
+      "R. Eliezer: Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehoshua's position that blood and meat are interdependent (im ein dam ein basar, im ein basar ein dam), which is precisely what the prose under 'R. Yehoshua: Blood Meat' discusses.",
+      "chosen_heading": "R. Yehoshua: Blood Meat",
+      "current_heading": "R. Yehoshua: Blood Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "R. Eliezer: Blood",
+    "candidates": [
+      "R. Eliezer: Blood",
+      "Gemara Equations Debates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Rabbi Eliezer's position on blood sprinkling independent of flesh, with the derivation from the verses and the teaching about the gap between the ramp and altar \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "R. Eliezer: Blood",
+      "current_heading": "R. Eliezer: Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Gemara Equations Debates",
+    "candidates": [
+      "Gemara Equations Debates",
+      "Rashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's proposal to align the hide-acceptance debate with Rabbi Eliezer/Rabbi Yehoshua and the rejection that according to Rabbi Eliezer all agree \u2014 are explicitly described in candidate 0's prose, which covers exactly 'leima man d'amar hurtza' and 'kuli alma lo pligi' as a unit.",
+      "chosen_heading": "Gemara Equations Debates",
+      "current_heading": "Gemara Equations Debates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rashi",
+    "candidates": [
+      "Rashi",
+      "Meat Becomes Invalid Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the interpretation of Rabbi Yehoshua's position (lo yizrok / hurtza) in the context of whether sprinkling effects acceptance for the hide, and the 'Rashi' section's prose explicitly addresses this same gemara passage including the citation of 'umodeh Rabbi Yehoshua she'im zarak hurtza' and the distinction between lechatchila and bediavad \u2014 matching these items precisely.",
+      "chosen_heading": "Rashi",
+      "current_heading": "Rashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Meat Becomes Invalid Case",
+    "candidates": [
+      "Meat Becomes Invalid Case",
+      "R. Yehoshua: Bediavad",
+      "Burned Offerings Object",
+      "Burning After Flaying",
+      "Treifa Discovery Case",
+      "Chanina = Rebbi Position",
+      "Why Bechor Example",
+      "Bechor: Outside Temple",
+      "Bechor Treifa Skin",
+      "Halacha: R. Akiva",
+      "Blemish Verification",
+      "Halacha: Sages on Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous sugya challenging and resolving Rabbi \u1e24anina's statement that he never saw a hide go out to be burned, which is precisely what candidate 2 ('Burned Offerings Object') describes \u2014 the gemara's objection about bulls and goats that are burned, followed by a chain of further challenges and resolutions about flaying, zrikah, Rabbi Elazar b. Rabbi Shimon, tereifa in intestines, Rabbi Akiva's bechor extension, and the final ruling, all of which flow from that initial challenge to Rabbi \u1e24anina's testimony.",
+      "chosen_heading": "Burned Offerings Object",
+      "current_heading": "Meat Becomes Invalid Case",
+      "moved": true
+    }
+  }
+]

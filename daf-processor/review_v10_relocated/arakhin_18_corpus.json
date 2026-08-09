@@ -1,0 +1,422 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Shebuot Ha'edut",
+    "candidates": [
+      "Tanna Kamma & R. Yehuda",
+      "Vehu Source",
+      "Shebuot Ha'edut",
+      "Witness Disqualifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is specifically about the Gemara objecting that Rabbi Yehuda's logic applied to 'vehu' would require a witness to be fit from beginning to end, which is precisely the shevu'at ha'edut case described in candidate 2's prose.",
+      "chosen_heading": "Shebuot Ha'edut",
+      "current_heading": "Shebuot Ha'edut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Witness Disqualifications",
+    "candidates": [
+      "Witness Disqualifications",
+      "Temporary Disqualify"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Witness Disqualifications",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the disqualification cases from the baraita, which matches heading 0's prose describing the enumerated cases of permanent disqualification (son-in-law, deaf-mute, blind, insane).",
+      "second_heading": "Temporary Disqualify",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the baraita's continuation with temporary disqualifications that are later removed and the principle 'kol shetechilaso v'sofo b'kashrus,' which precisely matches heading 1's prose about the difficult cases where disqualification is temporary and the witness is ultimately ruled kosher.",
+      "current_heading": "Witness Disqualifications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Temporary Disqualify",
+    "candidates": [
+      "Temporary Disqualify",
+      "Gezeirat Hakasuv",
+      "Vehu & Specification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the gezeiras hakasuv of 'o ra'ah o lo yagid' and how the Torah anchors the obligation to re'iyah and hagadah, which is precisely what the 'Gezeirat Hakasuv' section's prose describes.",
+      "chosen_heading": "Gezeirat Hakasuv",
+      "current_heading": "Temporary Disqualify",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Vehu & Specification",
+    "candidates": [
+      "Gezeirat Hakasuv",
+      "Vehu & Specification",
+      "Korban Metzora Rules",
+      "Inheritance Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita about singling out witnesses from a crowd versus addressing 'whoever knows,' which is precisely what the 'Vehu & Specification' prose describes in detail.",
+      "chosen_heading": "Vehu & Specification",
+      "current_heading": "Vehu & Specification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Inheritance Case",
+    "candidates": [
+      "Korban Metzora Rules",
+      "Inheritance Case",
+      "Ship Rental Income"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about the inheritance case and Rabbi Abbahu's clarification that the father is dying (goses) rather than already dead, which matches exactly the prose in the 'Inheritance Case' section.",
+      "chosen_heading": "Inheritance Case",
+      "current_heading": "Inheritance Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Ship Rental Income",
+    "candidates": [
+      "Ship Rental Income",
+      "Boat Ownership Value",
+      "R. Eliezer Tools",
+      "Age of Valued Person"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ship Rental Income",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the moribund father case and the ship/rental-fee discussion, both fitting under 'Ship Rental Income' which explicitly discusses Rav Chisda's ruling and the schirut answer.",
+      "second_heading": "Boat Ownership Value",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the objection that the ship itself (as an owned asset) should render him wealthy, which is precisely the question 'Boat Ownership Value' poses before Rabbi Eliezer's answer in the next section.",
+      "current_heading": "Ship Rental Income",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Age of Valued Person",
+    "candidates": [
+      "Boat Ownership Value",
+      "R. Eliezer Tools",
+      "Age of Valued Person",
+      "Gender Determines Price",
+      "Time of Pledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers both age-based valuation following the subject (ne'erach) and gender-based valuation following the subject, which maps directly to heading 2 ('Age of Valued Person') whose prose introduces this exact Mishnah and its rules, noting that heading 3 covers gender separately in the essay's prose but the Mishnah text itself contains both topics as one unit \u2014 and the current placement under heading 2 is where this Mishnah sits, as it introduces the combined passage.",
+      "chosen_heading": "Age of Valued Person",
+      "current_heading": "Age of Valued Person",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Time of Pledge",
+    "candidates": [
+      "Gender Determines Price",
+      "Time of Pledge",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the rule that valuation is fixed at the time of the pledge, with examples of age transitions (under five to over five, under twenty to over twenty), which matches perfectly the 'Time of Pledge' section's prose about paying based on the age category at the time of the pledge.",
+      "chosen_heading": "Time of Pledge",
+      "current_heading": "Time of Pledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Keerkecha Yakum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a baraita explaining the hekesh between damim and erchin, deriving the margalit l'kalim and lidon b'chvodo laws, which is precisely what the prose under 'Gezeirah Shavah' describes.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Keerkecha Yakum",
+    "candidates": [
+      "Keerkecha Yakum",
+      "Thirtieth Day Rule",
+      "Birthdays with Younger",
+      "Shishim Pasuk Source",
+      "Binyan Av"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about the verse 'k'erkecha yakum' being used to establish that the erech is fixed at the time of the vow rather than the time of payment, which is exactly what the prose of heading 0 discusses.",
+      "chosen_heading": "Keerkecha Yakum",
+      "current_heading": "Keerkecha Yakum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Binyan Av",
+    "candidates": [
+      "Thirtieth Day Rule",
+      "Birthdays with Younger",
+      "Shishim Pasuk Source",
+      "Binyan Av",
+      "Thirty Days Gap",
+      "R. Eliezer Month+Day"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Thirtieth Day Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the full Mishnah text introducing the thirtieth day rule and the age boundary rules \u2014 it belongs under 'Thirtieth Day Rule' which describes exactly this Mishnah content.",
+      "second_heading": "Binyan Av",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Mishnah's objection to the binyan av (can you derive a kula from a chumra?), which is precisely the content described under 'Binyan Av'.",
+      "current_heading": "Binyan Av",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "R. Eliezer Month+Day",
+    "candidates": [
+      "Thirty Days Gap",
+      "R. Eliezer Month+Day",
+      "Chodesh Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All eight items cover exactly the content described in the 'R. Eliezer Month+Day' prose: the gezeirah shavah of shana-shana, whether it is mufneh, Rabbi Yehuda HaNasi's ad v'ad bichlal principle, the baraita about Passover days, the ishtaklelu (offsetting verses) answer, and the tzara'at discussion of merosho v'ad raglav \u2014 all of which are explicitly addressed in that section's prose.",
+      "chosen_heading": "R. Eliezer Month+Day",
+      "current_heading": "R. Eliezer Month+Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Chodesh Gezeirah",
+    "candidates": [
+      "Chodesh Gezeirah",
+      "Mei'et L'Et Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the gezeirah shavah derivation and the Gemara's challenge/response about why the analogy must add a full month rather than one day \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Chodesh Gezeirah",
+      "current_heading": "Chodesh Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Mei'et L'Et Contexts",
+    "candidates": [
+      "Mei'et L'Et Contexts",
+      "Kodashim Full Year",
+      "Walled City Year",
+      "Field Redemption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mei'et L'Et Contexts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Braisa listing all the mei'et le'et domains, which matches heading 0's prose about the Braisa collecting multiple halachic domains measured mei'et le'et.",
+      "second_heading": "Kodashim Full Year",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's derivation for kodashim specifically (keves ben shnato / shnato shelo), which matches heading 1's prose about Rav Acha bar Yaakov deriving the kodashim year from the possessive form of the word.",
+      "current_heading": "Mei'et L'Et Contexts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Field Redemption",
+    "candidates": [
+      "Kodashim Full Year",
+      "Walled City Year",
+      "Field Redemption",
+      "Hebrew Servant Six Years"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Walled City Year",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the one-year redemption window for houses in walled cities derived from 'mimkaro' (of its sale), which exactly matches the 'Walled City Year' prose about *ad tom shnat mimkaro*.",
+      "second_heading": "Field Redemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the two-year restriction on redeeming a sedeh achuza derived from 'b'mispar shnei t'vuot', including the possibility of three harvests in two years, which exactly matches the 'Field Redemption' prose.",
+      "current_heading": "Field Redemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Hebrew Servant Six Years",
+    "candidates": [
+      "Hebrew Servant Six Years",
+      "Mei'et L'Et Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the six-year calculation for a Hebrew slave derived from Exodus 21:2, which matches exactly the prose under 'Hebrew Servant Six Years' about measuring six full years mei'et le'et.",
+      "chosen_heading": "Hebrew Servant Six Years",
+      "current_heading": "Hebrew Servant Six Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Mei'et L'Et Dispute",
+    "candidates": [
+      "Mei'et L'Et Dispute",
+      "Abaye Resolution",
+      "Opinion Consistency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about the Rav/Rav Yosef dispute over sons and daughters (erchin vs. Yotzei Dofen), Abaye's resolution that they don't disagree, and the follow-up question about why each Amora chose his specific example \u2014 exactly matching the 'Mei'et L'Et Dispute' prose which covers the initial dispute, while items 2-3 naturally extend that same topic before the separate 'Abaye Resolution' and 'Opinion Consistency' sections begin.",
+      "chosen_heading": "Mei'et L'Et Dispute",
+      "current_heading": "Mei'et L'Et Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Opinion Consistency",
+    "candidates": [
+      "Abaye Resolution",
+      "Opinion Consistency",
+      "Age 60 Gender Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why 'ben u-vat' (son and daughter) does not fit erchin language and that 'zachar v'nekevah' should have been used instead \u2014 precisely the point made in the 'Opinion Consistency' prose about the Braisa's language of ben u-vat not naturally describing erchin, which uses zachar v'nekevah.",
+      "chosen_heading": "Opinion Consistency",
+      "current_heading": "Opinion Consistency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Age 60 Gender Gap",
+    "candidates": [
+      "Age 60 Gender Gap",
+      "Old Age Proverbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Chizkiyah's proverb ('saba be-veita pacha, savta be-veita sima'), which is precisely what the 'Old Age Proverbs' section prose describes and explains, making it a clearly better match than the 'Age 60 Gender Gap' section which covers the setup question rather than the answer.",
+      "chosen_heading": "Old Age Proverbs",
+      "current_heading": "Age 60 Gender Gap",
+      "moved": true
+    }
+  }
+]

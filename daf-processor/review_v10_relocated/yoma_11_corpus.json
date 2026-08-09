@@ -1,0 +1,342 @@
+[
+  {
+    "quote_indices": [
+      1
+    ],
+    "current_heading": "(no heading)",
+    "candidates": [
+      "Lishkat Parhedrin Review",
+      "Gates & Mezuzot",
+      "Chovat Mitzvah",
+      "Protection vs Mitzvah",
+      "Divine Command",
+      "Three Gate Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis' vs. Rabbi Yehuda's positions on the Lishkat Parhedrin mezuzah obligation and the rabbinic decree 'shelo yomru Kohen Gadol chavush b'veit ha-asurim,' which is precisely what the 'Lishkat Parhedrin Review' prose covers.",
+      "chosen_heading": "Lishkat Parhedrin Review",
+      "current_heading": "(no heading)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Three Gate Categories",
+    "candidates": [
+      "Lishkat Parhedrin Review",
+      "Gates & Mezuzot",
+      "Chovat Mitzvah",
+      "Protection vs Mitzvah",
+      "Divine Command",
+      "Three Gate Categories",
+      "Chovat Mitzvah",
+      "Protection vs Mitzvah",
+      "Divine Command",
+      "Mechuza Gates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks which tanna taught the baraita about the Gate of Nicanor lacking a mezuza (except because of the Chamber of Parhedrin inside), then debates whether it follows the Rabbis or Rabbi Yehuda \u2014 this is a direct continuation of the Lishkat Parhedrin discussion summarized in candidate 0, not a discussion of gate categories or the broader mezuza obligation.",
+      "chosen_heading": "Lishkat Parhedrin Review",
+      "current_heading": "Three Gate Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Mechuza Gates",
+    "candidates": [
+      "Chovat Mitzvah",
+      "Protection vs Mitzvah",
+      "Divine Command",
+      "Mechuza Gates",
+      "Inhabited Chambers",
+      "Sakana & Danger"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Divine Command",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita establishing that gates of houses, courtyards, cities, and towns all require mezuza due to the divine command 'uvisharecha', which matches candidate 2's prose about the obligation being expansive because of the divine command directed at Hashem.",
+      "second_heading": "Mechuza Gates",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the Abaye-Rav Safra exchange about the gates of Mechuza and why the rabanan did not affix mezuzot, matching candidate 3's prose which describes this exact conversation about hani avulei deMechuza and the fortification explanation.",
+      "current_heading": "Mechuza Gates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Sakana & Danger",
+    "candidates": [
+      "Inhabited Chambers",
+      "Sakana & Danger",
+      "Artavin Fine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's statement about danger (mishum sakana) and the baraita about mezuzah inspection frequency, which is precisely what the 'Sakana & Danger' section's prose describes.",
+      "chosen_heading": "Sakana & Danger",
+      "current_heading": "Sakana & Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Artavin Fine",
+    "candidates": [
+      "Artavin Fine",
+      "Inspection Intervals",
+      "Rot & Theft",
+      "Tefillin Contrast",
+      "Public Danger",
+      "Rav Chaim Ruling",
+      "Six Exempt Structures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly recounts the Artavin incident and the principle that permanent danger overrides the protection of those performing a mitzva, which is precisely what the 'Artavin Fine' section's prose discusses.",
+      "chosen_heading": "Artavin Fine",
+      "current_heading": "Artavin Fine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Six Exempt Structures",
+    "candidates": [
+      "Inspection Intervals",
+      "Rot & Theft",
+      "Tefillin Contrast",
+      "Public Danger",
+      "Rav Chaim Ruling",
+      "Six Exempt Structures",
+      "Women Bathe",
+      "Rav Yehuda Dispute",
+      "Rav Papa Teaching",
+      "Ne'otot Reinterpreted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rav Kahana's baraita listing the four exempt structures (storehouse for hay, cattle barn, woodshed, general storehouse) and the initial challenge from Rav Yehuda, which is precisely what the 'Six Exempt Structures' prose introduces \u2014 the transition into structures exempt from mezuzah and the listing of those specific categories.",
+      "chosen_heading": "Six Exempt Structures",
+      "current_heading": "Six Exempt Structures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Ne'otot Reinterpreted",
+    "candidates": [
+      "Women Bathe",
+      "Rav Yehuda Dispute",
+      "Rav Papa Teaching",
+      "Ne'otot Reinterpreted",
+      "Beitcha Dwelling",
+      "Exemption List",
+      "Women Adorning",
+      "Bathhouses Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ne'otot Reinterpreted",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the core content of the ne'otot reinterpretation section: the Gemara rereads ne'otot as mitkashtot and Rav Kahana's objection from the contradicting baraita is part of that same reinterpretation discussion.",
+      "second_heading": "Beitcha Dwelling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the baraita deriving exemptions from 'beitcha \u2014 hamiyuchad lach' with the list of exempt structures and the dissenting view 'yesh mechayvin', which is precisely what the 'Beitcha Dwelling' prose describes.",
+      "current_heading": "Ne'otot Reinterpreted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Bathhouses Debate",
+    "candidates": [
+      "Beitcha Dwelling",
+      "Exemption List",
+      "Women Adorning",
+      "Bathhouses Debate",
+      "Four Filthy Places",
+      "Bathing Character",
+      "Bathhouse Repetition",
+      "Public vs Private"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the baraita listing the exempt structures and then Rav Kahana's interpretation of it \u2014 the content matches 'Women Adorning' prose which discusses the v'yesh mechayvin dispute and the meaning of ne'otot, exactly what item 2 resolves by defining ne'otot as rochtzot (bathing).",
+      "chosen_heading": "Women Adorning",
+      "current_heading": "Bathhouses Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Public vs Private",
+    "candidates": [
+      "Four Filthy Places",
+      "Bathing Character",
+      "Bathhouse Repetition",
+      "Public vs Private",
+      "Filth & Nudity",
+      "Structure Type",
+      "Dignity Standard",
+      "Core Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the resolution of the bathhouse repetition problem by distinguishing public vs. private bathhouses, which is precisely what the 'Public vs Private' section's prose describes.",
+      "chosen_heading": "Public vs Private",
+      "current_heading": "Public vs Private",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Core Agreement",
+    "candidates": [
+      "Filth & Nudity",
+      "Structure Type",
+      "Dignity Standard",
+      "Core Agreement",
+      "Temple Mount",
+      "Holy Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's challenge to Rav Yehuda's position (items 2-3 presenting the baraita that obligates barns/storehouses and then excludes gatehouse/portico/balcony via 'bayit'), with item 1 being Rav Yehuda's own reconciliation \u2014 precisely the content the 'Core Agreement' prose describes when it discusses the machloket tannaim, the beit sha'ar/achsadra/mirpeset tension, and Rav Yehuda's challenge being answered.",
+      "chosen_heading": "Core Agreement",
+      "current_heading": "Core Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Holy Exemption",
+    "candidates": [
+      "Temple Mount",
+      "Holy Exemption",
+      "Contradiction",
+      "Torah vs Rabbinic",
+      "HaMeiri Purpose",
+      "HaMeiri Sanctified",
+      "Lishkat Status",
+      "Six Exempt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Temple Mount",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses excluding bathrooms, tanneries, bathhouses, and ritual baths from mezuzah based on the 'honor' criterion \u2014 this matches candidate 0's prose about extending the baraita discussion, but more precisely it is the prior exclusion passage; however, candidate 0 is specifically about the Temple Mount extension, so item 1 (the 'honor' exclusion) actually belongs under a heading not listed \u2014 but among candidates, the 'Temple Mount' heading (0) introduces the baraita's continuation, and item 1 is the baraita passage immediately preceding item 2's Temple Mount content, making candidate 0 the closest match as the baraita context leading into that section.",
+      "second_heading": "Holy Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the Temple Mount/kodesh exemption and the tiyufta against Rav Yehuda, which matches candidate 1 ('Holy Exemption') whose prose explicitly discusses the kodesh exemption, the word beit as applying to chol structures, and the tiyufta refutation of Rav Yehuda confirming a machloket tanna'im.",
+      "current_heading": "Holy Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Six Exempt",
+    "candidates": [
+      "Contradiction",
+      "Torah vs Rabbinic",
+      "HaMeiri Purpose",
+      "HaMeiri Sanctified",
+      "Lishkat Status",
+      "Six Exempt",
+      "Counting Error",
+      "HaMadi Dispute",
+      "Meir vs Sages",
+      "Architecture Details",
+      "Abaye Clarifies",
+      "Hidden Bricks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught by Rav Shmuel bar Yehuda listing six (actually seven) gates exempt from mezuzah, along with Rava's immediate challenge about the counting discrepancy, which matches exactly the prose of heading 5 ('Six Exempt') combined with the challenge described in heading 6 \u2014 but since the baraita itself (the quoted text) is what heading 5's prose describes, the current placement is correct.",
+      "chosen_heading": "Six Exempt",
+      "current_heading": "Six Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Hidden Bricks",
+    "candidates": [
+      "Counting Error",
+      "HaMadi Dispute",
+      "Meir vs Sages",
+      "Architecture Details",
+      "Abaye Clarifies",
+      "Hidden Bricks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meir vs Sages",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about the domed gateway (kippa), Rabbi Meir obligating and Sages exempting, plus Abaye's clarification of the undisputed cases \u2014 matching the 'Meir vs Sages' prose which describes exactly this baraita content, while 'Abaye Clarifies' section also fits but Item 1 contains both the baraita introduction AND Abaye's statement as one continuous unit that the 'Meir vs Sages' heading covers.",
+      "second_heading": "Abaye Clarifies",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the precise locus of the dispute \u2014 ten high, three at base, less than four wide but enough to carve out to complete four \u2014 and the Rabbi Meir vs Rabbis principle of chokekim/ein chokekim, which exactly matches the 'Abaye Clarifies' prose describing the undisputed cases and 'Hidden Bricks' prose for the dispute details; however since Item 2 is the direct continuation of Abaye's clarification begun in Item 1, and 'Abaye Clarifies' prose explicitly covers this locus of dispute, index 4 is the best match.",
+      "current_heading": "Hidden Bricks",
+      "moved": true
+    }
+  }
+]

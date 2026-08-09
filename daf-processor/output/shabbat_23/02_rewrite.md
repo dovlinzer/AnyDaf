@@ -30,9 +30,7 @@ There is, however, an immediate exception: *isha vadai madlika* — a woman may 
 
 ### Women Obligated
 
-Rabbi Yehoshua ben Levi's ruling — *nashim chayavot b'ner Chanukah she'af hen hayu b'oto ha-nes* — establishes that women are fully obligated in *ner Chanukah*. The principle of *af hen hayu b'oto ha-nes* overcomes the general exemption of women from positive time-bound commandments (*mitzvot aseh she-hazman grama*), since women were themselves included in the miracle and therefore share in the obligation to publicize it.
-
----
+Rabbi Yehoshua ben Levi rules that *nashim chayavot b'ner Chanukah* — women are obligated in the *mitzvah* of Chanukah — *she'af hen hayu b'oto ha-nes*, because they too were included in the miracle.
 
 ## Hadlaka vs. Hanacha (II)
 

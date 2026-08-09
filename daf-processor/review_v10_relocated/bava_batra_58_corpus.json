@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Abraham's Cave",
+    "candidates": [
+      "Marking Graves",
+      "Abraham's Cave",
+      "Adam's Heels",
+      "Status of Avot",
+      "Tosafot Query",
+      "Pre-Halacha Graves",
+      "Privacy vs Display",
+      "Responsum",
+      "Beauty Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe Rabbi Bena'a's cave-marking episode \u2014 his encounter with Eliezer at Abraham's cave, his entry and survey, and his approach to Adam's cave with the Divine Voice's response \u2014 which is precisely what the 'Abraham's Cave' prose section discusses in detail.",
+      "chosen_heading": "Abraham's Cave",
+      "current_heading": "Abraham's Cave",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Beauty Hierarchy",
+    "candidates": [
+      "Adam's Heels",
+      "Status of Avot",
+      "Tosafot Query",
+      "Pre-Halacha Graves",
+      "Privacy vs Display",
+      "Responsum",
+      "Beauty Hierarchy",
+      "Grave Desecration",
+      "Beard Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items form the beauty hierarchy chain \u2014 the comparison of Sarah/Eve/Adam/Shechinah and the chain from Rav Kahana back to Adam HaRishon \u2014 which is precisely what the 'Beauty Hierarchy' section's prose describes and quotes.",
+      "chosen_heading": "Beauty Hierarchy",
+      "current_heading": "Beauty Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Beard Cutting",
+    "candidates": [
+      "Grave Desecration",
+      "Beard Cutting",
+      "Cryptic Will"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the magus rummaging through graves and being seized by the buried Rav Tovi, which matches the 'Grave Desecration' section's prose about the magician arriving at the grave and being grabbed by the beard \u2014 the 'Beard Cutting' section picks up from Abaye's intercession onward, but the Talmudic text covers the entire story from beginning to end and should sit under the heading that introduces it.",
+      "chosen_heading": "Grave Desecration",
+      "current_heading": "Beard Cutting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Cryptic Will",
+    "candidates": [
+      "Beard Cutting",
+      "Cryptic Will",
+      "Mortality Lesson",
+      "Wife's Betrayal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact incident of the cryptic will with a barrel of dirt/bones/cloth, and the prose under 'Cryptic Will' directly summarizes this same content.",
+      "chosen_heading": "Cryptic Will",
+      "current_heading": "Cryptic Will",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Wife's Betrayal",
+    "candidates": [
+      "Mortality Lesson",
+      "Wife's Betrayal",
+      "Grave Test",
+      "Character Proof",
+      "Court & Prison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scene the 'Wife's Betrayal' prose discusses: the man overhearing his wife's confession to their daughter and his deathbed declaration leaving property to one son.",
+      "chosen_heading": "Wife's Betrayal",
+      "current_heading": "Wife's Betrayal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Court & Prison",
+    "candidates": [
+      "Grave Test",
+      "Character Proof",
+      "Court & Prison",
+      "Slave Riddle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the grave test result and the subsequent slander/imprisonment, but the bulk of the content (the brothers going to slander Rabbi Bena'a before the king and his imprisonment) aligns most precisely with the 'Court & Prison' section's prose, and the current placement is correct.",
+      "chosen_heading": "Court & Prison",
+      "current_heading": "Court & Prison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Slave Riddle",
+    "candidates": [
+      "Slave Riddle",
+      "Goat Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the wife's riddle speech itself, which is exactly what the 'Slave Riddle' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Slave Riddle",
+      "current_heading": "Slave Riddle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Goat Solution",
+    "candidates": [
+      "Goat Solution",
+      "Deeper Meaning",
+      "Judge Rule",
+      "Refinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Bana'ah being summoned, solving the riddle by identifying 'zarnuka' (water skin/goat), and the court's response \u2014 exactly what the 'Goat Solution' prose discusses, and the court's declaration about sitting at the gate is just the tail end of this scene, not yet the deeper discussion in 'Judge Rule'.",
+      "chosen_heading": "Goat Solution",
+      "current_heading": "Goat Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Refinement",
+    "candidates": [
+      "Deeper Meaning",
+      "Judge Rule",
+      "Refinement",
+      "Tosafot Detail",
+      "Amended Rule",
+      "Blood Death",
+      "Objections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Bana'ah's objection to the original inscription and his refined formulation \u2014 exactly what candidate 2 ('Refinement') describes in its prose about the logical flaw and the corrected rule.",
+      "chosen_heading": "Refinement",
+      "current_heading": "Refinement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Objections",
+    "candidates": [
+      "Tosafot Detail",
+      "Amended Rule",
+      "Blood Death",
+      "Objections",
+      "Illness Correction",
+      "Wine & Health"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage covers the full arc from the original inscription (blood/death, wine/life) through Rabbi Bana'ah's objections to the corrected formulation and the court's amended inscription \u2014 but the ITEM itself contains all of this content in one continuous Talmudic quote, and the 'Blood Death' section (index 2) is where the prose introduces this entire episode, making it the most natural home for the unified passage; however the current placement under 'Objections' (index 3) is also defensible since the passage's dramatic core is the challenge and correction.",
+      "chosen_heading": "Blood Death",
+      "current_heading": "Objections",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Wine & Health",
+    "candidates": [
+      "Illness Correction",
+      "Wine & Health",
+      "Usage Rights",
+      "Spout Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about the inscription at Kappadocia listing 'anpak, anbag, antal' and identifying antal as a revi'it is explicitly discussed in the 'Wine & Health' section prose, which directly references this inscription and its interpretation.",
+      "chosen_heading": "Wine & Health",
+      "current_heading": "Wine & Health",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Spout Rule",
+    "candidates": [
+      "Usage Rights",
+      "Spout Rule",
+      "Permanence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna about the spout (marzev) having no chazaka but its place having chazaka, and the gutter pipe (mazchila) having chazaka \u2014 which is exactly what the 'Spout Rule' prose introduces and discusses.",
+      "chosen_heading": "Spout Rule",
+      "current_heading": "Spout Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Permanence",
+    "candidates": [
+      "Permanence",
+      "Windows",
+      "Window Frame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Egyptian and Tyrian ladders is explicitly discussed in the 'Permanence' section's prose, which directly addresses sulam ha-mitzri and tzuri ladder chazakah.",
+      "chosen_heading": "Permanence",
+      "current_heading": "Permanence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Window Frame",
+    "candidates": [
+      "Windows",
+      "Window Frame",
+      "Two Ends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full Mishna text defining both Egyptian and Tyrian windows and their chazakah status, which matches the 'Windows' section prose that discusses both varieties and their definitions, whereas the 'Window Frame' section prose is specifically about Rabbi Yehuda's addendum regarding frames \u2014 but since all items must go under one heading and the passage includes both the main mishna and Rabbi Yehuda's opinion, the 'Windows' heading is the better fit as it covers the primary content of the whole passage.",
+      "chosen_heading": "Windows",
+      "current_heading": "Window Frame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Two Ends",
+    "candidates": [
+      "Window Frame",
+      "Two Ends",
+      "Shorten Length",
+      "Build Below"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text explaining that a spout has no chazakah from one side but does have chazakah from two sides, which is precisely what the 'Two Ends' section's prose describes and analyzes.",
+      "chosen_heading": "Two Ends",
+      "current_heading": "Two Ends",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Build Below",
+    "candidates": [
+      "Shorten Length",
+      "Build Below"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shorten Length",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi \u1e24anina's explanation about shortening the spout's length, which matches exactly the 'Shorten Length' prose discussing me-katzro and length-based chazakah.",
+      "second_heading": "Build Below",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yirmeya bar Abba's explanation about building beneath the spout, which matches exactly the 'Build Below' prose discussing livnot tachtav and airspace rights.",
+      "current_heading": "Build Below",
+      "moved": true
+    }
+  }
+]

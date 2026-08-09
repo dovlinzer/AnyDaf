@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Pressed Figs",
+    "candidates": [
+      "Daf Overview",
+      "Mishnah Text",
+      "Packaging Issues",
+      "Stopper Debate",
+      "Side Hole Issue",
+      "Wax Smoothing",
+      "R. Yochanan Case",
+      "Pressed Figs",
+      "Sword Case",
+      "R. Nechemia",
+      "Rava's Objection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pressed Figs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Oshaya's qualification about pressed vs. separated figs and the muktzeh concern, which matches heading 7 ('Pressed Figs') exactly.",
+      "second_heading": "Sword Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about Rabban Shimon ben Gamliel using a sword to open a wine barrel, which matches heading 8 ('Sword Case') exactly \u2014 and notably the essay's heading 8 prose already describes this very baraita and its challenge to Rav Hoshaya's position.",
+      "current_heading": "Pressed Figs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rava's Objection",
+    "candidates": [
+      "Sword Case",
+      "R. Nechemia",
+      "Rava's Objection",
+      "Fig Baskets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's answer explaining what forced Rabbi Oshaya to interpret the mishnah as speaking of pressed figs, which is precisely what candidate 2 ('Rava's Objection') discusses.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Rava's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Fig Baskets",
+    "candidates": [
+      "Fig Baskets",
+      "Puncturing Query",
+      "Rashi View",
+      "Intent Question",
+      "Rav Sheshet",
+      "Gamliel Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fig Baskets",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the contradiction between two baraitot about fig/date baskets and Rabbi Ne\u1e25emya's position on muktzeh, which is precisely what the 'Fig Baskets' prose discusses.",
+      "second_heading": "Puncturing Query",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the dilemma posed to Rav Sheshet about perforating a barrel with a spear, which is the opening case described in the 'Puncturing Query' prose section.",
+      "current_heading": "Fig Baskets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Gamliel Case",
+    "candidates": [
+      "Puncturing Query",
+      "Rashi View",
+      "Intent Question",
+      "Rav Sheshet",
+      "Gamliel Case",
+      "Rav Huna",
+      "Rav Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the objection from Rabban Shimon ben Gamliel's sword case and its resolution (vaday le'ayn yafa / liphthachay miphtach), which is precisely what the 'Gamliel Case' prose describes.",
+      "chosen_heading": "Gamliel Case",
+      "current_heading": "Gamliel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rav Chisda",
+    "candidates": [
+      "Rav Huna",
+      "Rav Chisda",
+      "Sidebar",
+      "Functionality",
+      "Braita Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents BOTH Rav Huna's and Rav Chisda's positions together as a single unit of Gemara, so it belongs under the first heading ('Rav Huna') where the discussion begins, covering both opinions in sequence.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Chisda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Braita Text",
+    "candidates": [
+      "Sidebar",
+      "Functionality",
+      "Braita Text",
+      "Expand Query",
+      "Rava Layers",
+      "Chicken Coop",
+      "Weasel Fear",
+      "Expansion Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita text itself (ein nokvin nekev chadash, ve'im ba lehosif mosif, veyesh omrim, veshavin) along with the Gemara's initial question about the Tanna Kamma, which is precisely what the 'Braita Text' section's prose describes and introduces.",
+      "chosen_heading": "Braita Text",
+      "current_heading": "Braita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Expansion Dispute",
+    "candidates": [
+      "Expand Query",
+      "Rava Layers",
+      "Chicken Coop",
+      "Weasel Fear",
+      "Expansion Dispute",
+      "Halacha Ruling",
+      "Wax Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabba's full teaching: the biblical definition of a halachic opening (two-directional flow), the rabbinic gezeira based on the chicken coop, the reasoning about why enlargement is or isn't prohibited, and Rav Na\u1e25man's ruling \u2014 all of which corresponds precisely to the 'Rava Layers' section's prose about the biblical/rabbinic distinction and the chicken-coop gezeira, not the later 'Expansion Dispute' or 'Halacha Ruling' sections which only cover sub-portions.",
+      "chosen_heading": "Rava Layers",
+      "current_heading": "Expansion Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Wax Function",
+    "candidates": [
+      "Halacha Ruling",
+      "Wax Function",
+      "Wine Level Test",
+      "Rava Dispute",
+      "Real Strengthening",
+      "House Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all of: the universal permission to reperforate an old hole, Shmuel's qualifier about l'shamer vs. l'chazek, Rav Chisda's wine-level criterion, and Rava's counter-position \u2014 which together span headings 1\u20133, but the current placement under 'Wax Function' is where this unified Talmudic excerpt begins and the prose there accurately describes the passage's opening distinction (l'shamer vs. l'chazek), making it the best single home for the whole item.",
+      "chosen_heading": "Wax Function",
+      "current_heading": "Wax Function",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "House Analogy",
+    "candidates": [
+      "Wine Level Test",
+      "Rava Dispute",
+      "Real Strengthening",
+      "House Analogy",
+      "Gubsa Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Abaye's baraita supporting Rava about sealed doorways and four cubits/tum'ah, which is exactly what the 'House Analogy' prose describes.",
+      "chosen_heading": "House Analogy",
+      "current_heading": "House Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Gubsa Debate",
+    "candidates": [
+      "Gubsa Debate",
+      "Cutting Pipe",
+      "Reinstalling",
+      "First Insert",
+      "Rav Concern",
+      "Shmuel Allow",
+      "Tanai View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire gubsa debate \u2014 Rav vs. Shmuel, the three-way distinction (cutting ab initio, restoring, and the disputed middle case), and the gezeira reasoning \u2014 which maps exactly to heading 0's prose introducing the full Rav/Shmuel dispute about inserting the pipe.",
+      "chosen_heading": "Gubsa Debate",
+      "current_heading": "Gubsa Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tanai View",
+    "candidates": [
+      "Cutting Pipe",
+      "Reinstalling",
+      "First Insert",
+      "Rav Concern",
+      "Shmuel Allow",
+      "Tanai View",
+      "Rabbi Yoshi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents the tannaitic parallel (ketan'ai) that the essay's 'Tanai View' section is specifically written to introduce and discuss.",
+      "chosen_heading": "Tanai View",
+      "current_heading": "Tanai View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rabbi Yoshi",
+    "candidates": [
+      "Rabbi Yoshi",
+      "Sheshet Ruling",
+      "Leaf Spigot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what Rabbi Yoshiya's leniency applies to and concludes with the halakhic ruling in his favor, which matches the 'Rabbi Yoshi' section's prose describing the Gemara's analysis of which case Rabbi Yoshiya addresses and its conclusion.",
+      "chosen_heading": "Rabbi Yoshi",
+      "current_heading": "Rabbi Yoshi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Leaf Spigot",
+    "candidates": [
+      "Sheshet Ruling",
+      "Leaf Spigot",
+      "Gutter Fear",
+      "Tosafot Query",
+      "Tosafot Answer",
+      "Rav Ashi",
+      "Detached Leaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses whether oil (as opposed to wax) may be used to seal a perforated barrel on Shabbat, with a dispute between Rav and Shmuel about issuing a decree \u2014 this content about sealing a hole in a barrel does not match the 'Leaf Spigot' heading but rather fits best under 'Detached Leaf' only if we reconsider; actually, this passage about oil/wax sealing a barrel hole doesn't match any of the candidate headings well, but the current placement under 'Leaf Spigot' is the least wrong given the barrel context, yet the passage is clearly about a perforated barrel and oil vs. wax \u2014 looking again, none of the candidates discuss oil sealing a barrel hole, so I'll prefer the closest contextual match which is the barrel-related discussion preceding the leaf spigot topic, but since the true home must be in the list, and the content about a perforated barrel being sealed with oil references the mishna about a perforated barrel, this best fits under 'Leaf Spigot' as a related case introduced in that section's context.",
+      "chosen_heading": "Detached Leaf",
+      "current_heading": "Leaf Spigot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Detached Leaf",
+    "candidates": [
+      "Gutter Fear",
+      "Tosafot Query",
+      "Tosafot Answer",
+      "Rav Ashi",
+      "Detached Leaf",
+      "Blanket Carry",
+      "Soft/Stiff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's prohibition on using a myrtle leaf as a spout and the two reasons given (Rav Yeimar's gutter decree and Rav Ashi's cutting concern), which is the source text that the 'Gutter Fear' section's prose is directly discussing and introducing.",
+      "chosen_heading": "Gutter Fear",
+      "current_heading": "Detached Leaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Soft/Stiff",
+    "candidates": [
+      "Blanket Carry",
+      "Soft/Stiff",
+      "Rav Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the soft/intermediate/hard distinction and the Rav-Shmuel dispute framed around 'appears as a burden,' which is precisely what the 'Soft/Stiff' section's prose describes.",
+      "chosen_heading": "Soft/Stiff",
+      "current_heading": "Soft/Stiff",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Rav Refusal",
+    "candidates": [
+      "Rav Refusal",
+      "Respect Reason",
+      "Pit Cooling",
+      "Submersion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the full incident of Rav's refusal to sit on felt cloths, which is exactly what the 'Rav Refusal' section's prose discusses, including both the inference aspect and the respect reason \u2014 it belongs under the heading that introduces the inferred ruling from Rav's conduct.",
+      "chosen_heading": "Rav Refusal",
+      "current_heading": "Rav Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Submersion",
+    "candidates": [
+      "Respect Reason",
+      "Pit Cooling",
+      "Submersion",
+      "Gemara Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage covers all three cases (pit cooling, water submersion, and cold water in sun) plus the wet garments ruling, and the 'Pit Cooling' section is where this mishna is first introduced, making it the natural home for the full mishna text rather than 'Submersion' which discusses only part of it.",
+      "chosen_heading": "Pit Cooling",
+      "current_heading": "Submersion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Gemara Reason",
+    "candidates": [
+      "Submersion",
+      "Gemara Reason",
+      "Walking Wet",
+      "Drying Rules",
+      "Inner Rooms",
+      "Framework",
+      "Permitted",
+      "Prohibited",
+      "Analytical Shift",
+      "Modern Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's pshita challenges and gezeira explanations for the pit and water cases, which is precisely what the 'Gemara Reason' prose describes in detail.",
+      "chosen_heading": "Gemara Reason",
+      "current_heading": "Gemara Reason",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Intro: Tumah Heter",
+    "candidates": [
+      "Intro: Tumah Heter",
+      "Rav Yosef: Emurim",
+      "Rava: Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Intro: Tumah Heter",
+      "first_confidence": "high",
+      "first_reason": "Items 1-7 cover the baraita about zavim eating the Paschal lamb, Rabbi Eliezer's extension to bi'as mikdash, and Rav Yosef/Rava's exchange about entering the Heichal \u2014 all explicitly described in the 'Intro: Tumah Heter' prose.",
+      "second_heading": "Rav Yosef: Emurim",
+      "second_confidence": "high",
+      "second_reason": "Items 8-9 are Rav Yosef's distinct new question about eating emurim of the Paschal lamb brought in tumah, which is precisely what the 'Rav Yosef: Emurim' prose describes.",
+      "current_heading": "Intro: Tumah Heter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rava: Source",
+    "candidates": [
+      "Rav Yosef: Emurim",
+      "Rava: Source",
+      "Parallel Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement tracing the source of the tumah prohibition for emurim to the pasuk about basar, which is precisely what the 'Rava: Source' prose section describes.",
+      "chosen_heading": "Rava: Source",
+      "current_heading": "Rava: Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Parallel Rule",
+    "candidates": [
+      "Parallel Rule",
+      "Zeira: Emurim Pesach",
+      "Abaye: Burning Emurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the parallel rule between tumah of basar and tumah of emurim, which is precisely what the 'Parallel Rule' section's prose discusses.",
+      "chosen_heading": "Parallel Rule",
+      "current_heading": "Parallel Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Abaye: Burning Emurim",
+    "candidates": [
+      "Zeira: Emurim Pesach",
+      "Abaye: Burning Emurim",
+      "Mishnah: Differences",
+      "Pesach: Tenth & Hyssop"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi Zeira's question about where the emurim of pesach Mitzrayim were burned and the responses to it (Abaye's answer plus Rav Yosef's baraita), which is precisely what heading 0 'Zeira: Emurim Pesach' describes as its content \u2014 the current placement under heading 1 misattributes the passage.",
+      "chosen_heading": "Zeira: Emurim Pesach",
+      "current_heading": "Abaye: Burning Emurim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Pesach: Tenth & Hyssop",
+    "candidates": [
+      "Mishnah: Differences",
+      "Pesach: Tenth & Hyssop",
+      "Eating Requirements",
+      "Pesach L'Doros: 7 Days",
+      "Hazeh Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna listing differences between pesach Mitzrayim and pesach dorot, and the Gemara's opening derivation from 'hazeh' for the tenth-day requirement \u2014 are the direct content the prose under 'Mishnah: Differences' introduces as its launching point, whereas the current placement ('Pesach: Tenth & Hyssop') is the essay's own commentary on those details, which should follow the quoted passage rather than contain it.",
+      "chosen_heading": "Mishnah: Differences",
+      "current_heading": "Pesach: Tenth & Hyssop",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Hazeh Principle",
+    "candidates": [
+      "Eating Requirements",
+      "Pesach L'Doros: 7 Days",
+      "Hazeh Principle",
+      "Eating at Night",
+      "Va'avadta Extension",
+      "Chatzot Debate",
+      "Four-Day Inspection",
+      "Ben Bag Bag Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hazeh Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge that applying 'hazeh' to the inspection verse would limit the four-day bikur to pesach Mitzrayim alone \u2014 exactly the difficulty described in the 'Hazeh Principle' prose.",
+      "second_heading": "Ben Bag Bag Source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita of ben Bag Bag deriving the tamid's four-day inspection via gezeirah shavah, which is precisely what the 'Ben Bag Bag Source' prose describes.",
+      "current_heading": "Hazeh Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Ben Bag Bag Source",
+    "candidates": [
+      "Eating at Night",
+      "Va'avadta Extension",
+      "Chatzot Debate",
+      "Four-Day Inspection",
+      "Ben Bag Bag Source",
+      "Resolving Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage answers why the gezeirah shavah works for the tamid \u2014 because the verse says 'tishmeru' \u2014 which directly responds to the Ben Bag Bag derivation discussed in that section's prose.",
+      "chosen_heading": "Ben Bag Bag Source",
+      "current_heading": "Ben Bag Bag Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Resolving Limits",
+    "candidates": [
+      "Resolving Limits",
+      "Arel Prohibition",
+      "Ben Neichar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives that pesach dorot requires the same four-day examination as pesach Mitzrayim via 'va'avadta et ha'avodah hazot,' which is precisely the mechanism the 'Resolving Limits' prose describes \u2014 explaining how the extension verse replicates pesach Mitzrayim practices for future generations while limiting terms exclude specific elements.",
+      "chosen_heading": "Resolving Limits",
+      "current_heading": "Resolving Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Ben Neichar",
+    "candidates": [
+      "Arel Prohibition",
+      "Ben Neichar",
+      "Toshav and Sachir",
+      "Circumcision Limit",
+      "Raw vs. Roasted",
+      "Breaking Bones",
+      "Mitzrayim Unique"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Mitzrayim Unique",
+    "candidates": [
+      "Toshav and Sachir",
+      "Circumcision Limit",
+      "Raw vs. Roasted",
+      "Breaking Bones",
+      "Mitzrayim Unique",
+      "Tosefta Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The passage discusses how long the prohibition of leaven applied during pesach Mitzrayim (one day vs. one night), which fits under the 'Mitzrayim Unique' section's discussion of practices categorically restricted to or distinctive of pesach Mitzrayim, though the connection is not perfectly tight.",
+      "chosen_heading": "Mitzrayim Unique",
+      "current_heading": "Mitzrayim Unique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tosefta Details",
+    "candidates": [
+      "Tosefta Details",
+      "Rabbi Shimon",
+      "Emurim Service",
+      "Yehoshua's Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's ruling about pesach Mitzrayim lasting one night versus pesach dorot lasting seven days, which directly connects to the transition the prose in 'Yehoshua's Tradition' describes as the Gemara moving to the next mishnah and shifting from the pesach Mitzrayim\u2013pesach dorot comparison.",
+      "chosen_heading": "Yehoshua's Tradition",
+      "current_heading": "Tosefta Details",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Yehoshua's Tradition",
+    "candidates": [
+      "Rabbi Shimon",
+      "Emurim Service",
+      "Yehoshua's Tradition",
+      "Akiva: Nidcheh",
+      "Before Shechitah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishna of Rabbi Yehoshua's two contradictory traditions about temurah of a pesach, which is exactly what the prose under 'Yehoshua's Tradition' discusses \u2014 including the specific phrase shamati, tmurat pesach kreivah/einah kreivah, and ve'ein li lefareish.",
+      "chosen_heading": "Yehoshua's Tradition",
+      "current_heading": "Yehoshua's Tradition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Before Shechitah",
+    "candidates": [
+      "Akiva: Nidcheh",
+      "Before Shechitah",
+      "After Shechitah",
+      "Why Temurah?",
+      "Temurah Follows",
+      "Shechitah vs Chatzot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case where the lost Paschal lamb is found before the slaughter of the replacement, matches the prose of 'Before Shechitah' which discusses hapesach shenimtza kodem shechitat hapesach and the nidcheh status requiring grazing until a mum develops, selling, and buying a shelamim with proceeds, including the temurah's identical treatment.",
+      "chosen_heading": "Before Shechitah",
+      "current_heading": "Before Shechitah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Shechitah vs Chatzot",
+    "candidates": [
+      "After Shechitah",
+      "Why Temurah?",
+      "Temurah Follows",
+      "Shechitah vs Chatzot",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "After Shechitah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing ruling about 'after shechitah' the lost animal becomes a shelamim and so does its temurah, which matches heading 0's prose about the second case of achar shechitat hapesach.",
+      "second_heading": "Why Temurah?",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover the Gemara's challenge about why the mishnah discusses temurah, the answer about the chiddush of a temurah that cannot be brought, and the Rabba/Rabbi Zeira dispute about shechitah vs chatzot \u2014 which maps precisely onto headings 1, 2, and 3 in sequence, with item 2 under 'Why Temurah?', item 3-4 under 'Shechitah vs Chatzot'.",
+      "current_heading": "Shechitah vs Chatzot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Shechitah vs Chatzot",
+      "Rabbi Eliezer",
+      "Rava: After Shechitah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the tannaitic dispute (baraita) that maps onto the Rabba/Rabbi Zeira amoraic dispute, exactly as described in the 'Rabbi Eliezer' section's prose which explicitly discusses this baraita and Rabbi Eliezer's chatzot-based position.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  }
+]

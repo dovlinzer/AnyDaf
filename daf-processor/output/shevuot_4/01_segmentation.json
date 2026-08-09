@@ -24,8 +24,8 @@
           "timestamp": "02:38"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Testing the Malkut Solution: Can All Cases Be Explained as Intentional Violations?",
@@ -48,7 +48,7 @@
           "timestamp": "06:29"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -72,8 +72,8 @@
           "timestamp": "11:29"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Rav Yosef's Solution: Rebbi as Compiler Adopting Different Tannaitic Views",
@@ -91,7 +91,7 @@
           "timestamp": "13:12"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -120,8 +120,8 @@
           "timestamp": "16:24"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Addressing Shavuah Cases: Logical Inference About Rebbi's Position",
@@ -139,8 +139,8 @@
           "timestamp": "18:36"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Explaining Ribui u'Mi'ut: The Hermeneutic Principle of Broadening, Narrowing, and Re-broadening",
@@ -168,8 +168,8 @@
           "timestamp": "23:32"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Example of Ribui u'Mi'ut: Redeeming the Firstborn Son",
@@ -187,7 +187,7 @@
           "timestamp": "27:09"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -220,8 +220,8 @@
           "timestamp": "32:23"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Resolution: Rebbi's Exception for Pidyon HaBen When Two Generalizations Precede the Specific",
@@ -244,7 +244,7 @@
           "timestamp": "35:02"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 23,
       "matched": false
     },
     {
@@ -263,7 +263,7 @@
           "timestamp": "35:58"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 23,
       "matched": false
     }
   ],
@@ -622,5 +622,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "11:59",
+  "amud_b_micro_title": "Rebbi Synthesis",
+  "shiur_start_daf": 4,
+  "shiur_start_amud": "a"
 }

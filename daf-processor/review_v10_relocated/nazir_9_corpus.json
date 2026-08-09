@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rav Yehuda's Statement",
+    "candidates": [
+      "Perek Sheini Intro",
+      "Mishna Statement",
+      "Beis Shammai/Hillel",
+      "Rav Yehuda's Statement",
+      "Nazir = Removal",
+      "Neder/Shvua Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text presents the full case including Beit Shammai, Beit Hillel, and Rabbi Yehuda's statement together as one unit, and the 'Mishna Statement' heading is where the opening mishna of the perek is introduced and discussed, making it the natural home for the complete mishna text before the essay breaks down its components in subsequent sections.",
+      "chosen_heading": "Mishna Statement",
+      "current_heading": "Rav Yehuda's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Neder/Shvua Parallel",
+    "candidates": [
+      "Nazir = Removal",
+      "Neder/Shvua Parallel",
+      "Beis Shammai Problem",
+      "Ein Adam Motzi",
+      "Erech/Damim Example",
+      "Why Different?",
+      "Student Question",
+      "Rabbi Yosi Position",
+      "Neder Pitcho Imo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's question about why Beit Shammai rules the person is a nazir despite mentioning only figs (items foreign to nezirut), which is precisely the problem the 'Beis Shammai Problem' section describes \u2014 how a declaration mentioning only figs can create actual nezirut \u2014 before then giving Rabbi Meir's answer, which belongs to the next section.",
+      "chosen_heading": "Beis Shammai Problem",
+      "current_heading": "Neder/Shvua Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Neder Pitcho Imo",
+    "candidates": [
+      "Beis Shammai Problem",
+      "Ein Adam Motzi",
+      "Erech/Damim Example",
+      "Why Different?",
+      "Student Question",
+      "Rabbi Yosi Position",
+      "Neder Pitcho Imo",
+      "Tosafot Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yosi's principle that 'a person is held accountable for the conclusion of his statement' and the concept of 'neder upitcho imo,' which directly corresponds to the 'Rabbi Yosi Position' section (index 5) that describes Beit Hillel holding like Rabbi Yosi \u2014 the 'Neder Pitcho Imo' section (index 6) elaborates on the concept after it has been introduced.",
+      "chosen_heading": "Rabbi Yosi Position",
+      "current_heading": "Neder Pitcho Imo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Tosafot Explanation",
+    "candidates": [
+      "Neder Pitcho Imo",
+      "Tosafot Explanation",
+      "Tosafot Question",
+      "Safa Explains Reisha",
+      "End Contradicts Start",
+      "One or Two Parts?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why Beit Shammai's case isn't also a 'neder upitcho imo' \u2014 a vow with its own inherent opening \u2014 which is precisely the concept being introduced and explained in the 'Neder Pitcho Imo' section's prose.",
+      "chosen_heading": "Neder Pitcho Imo",
+      "current_heading": "Tosafot Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "One or Two Parts?",
+    "candidates": [
+      "Tosafot Question",
+      "Safa Explains Reisha",
+      "End Contradicts Start",
+      "One or Two Parts?",
+      "Version 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items explain the Gemara's resolution of the Beit Shammai/Beit Hillel dispute in Rabbi Natan's braita version \u2014 Beit Shammai following Rabbi Meir (person is nazir, then seeks dissolution) and Beit Hillel following Rabbi Shimon (statement is void as not donated in the manner of donors) \u2014 which is precisely what the 'Version 1' prose describes as the braita's different framing where everyone salvages the statement in some way.",
+      "chosen_heading": "Version 1",
+      "current_heading": "One or Two Parts?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Version 1",
+    "candidates": [
+      "One or Two Parts?",
+      "Version 1",
+      "Positions Explained",
+      "Version 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Natan's baraita with Beit Shammai saying nadur ve'nazir and Beit Hillel saying nadur ve'ein nazir, which is exactly what candidate 1's prose describes as 'Version 1' of this dispute.",
+      "chosen_heading": "Version 1",
+      "current_heading": "Version 1",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Version 2",
+    "candidates": [
+      "Positions Explained",
+      "Version 2",
+      "Three Options",
+      "Mincha Variations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the *lishana achrina* version of Rabbi Natan's baraita where Beit Shammai says nadur ve'eino nazir and Beit Hillel says lo nadur velo nazir, mapping to Rabbi Yehuda and Rabbi Shimon respectively \u2014 exactly what the 'Version 2' prose describes.",
+      "chosen_heading": "Version 2",
+      "current_heading": "Version 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Mincha Variations",
+    "candidates": [
+      "Three Options",
+      "Mincha Variations",
+      "Rabbi Shimon",
+      "Tanna Kamma ID",
+      "Understandable Mistake"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the actual mishna text listing the mincha variations (barley\u2192wheat, flour\u2192fine flour, without oil\u2192with oil, half-issaron\u2192full, one-and-a-half\u2192two), which is precisely what the 'Mincha Variations' prose introduces and describes.",
+      "chosen_heading": "Mincha Variations",
+      "current_heading": "Mincha Variations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Understandable Mistake",
+    "candidates": [
+      "Rabbi Shimon",
+      "Tanna Kamma ID",
+      "Understandable Mistake",
+      "Barley vs Lentils"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Chizkiyah's identification of the tanna kamma with Beit Shammai (item 1) and Rabbi Yochanan's alternative reading that even Beit Hillel could agree (item 2), which is precisely what the 'Tanna Kamma ID' prose describes \u2014 Chizkiyah's position followed by Rabbi Yochanan's counter-reading of the same question.",
+      "chosen_heading": "Tanna Kamma ID",
+      "current_heading": "Understandable Mistake",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Barley vs Lentils",
+    "candidates": [
+      "Understandable Mistake",
+      "Barley vs Lentils",
+      "Chizkiyah Initial",
+      "Gemara Challenge",
+      "Chizkiyah Reverses",
+      "Rava's Explanation",
+      "Small Mistake Logic",
+      "Big Mistake Logic",
+      "Rabbi Yochanan Final",
+      "Reversal Theory",
+      "Genuine Intent Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about the gemara's challenge to Chizkiyah's position (lentils vs barley, the Beit Shammai parallel, Chizkiyah's retraction, Rava's explanation, and Rabbi Yochanan's counter), which is precisely what candidate 3 ('Gemara Challenge') discusses \u2014 the pressing of Chizkiyah's internal inconsistency via the Beit Shammai/grogros parallel.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Barley vs Lentils",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Genuine Intent Theory",
+    "candidates": [
+      "Chizkiyah Initial",
+      "Gemara Challenge",
+      "Chizkiyah Reverses",
+      "Rava's Explanation",
+      "Small Mistake Logic",
+      "Big Mistake Logic",
+      "Rabbi Yochanan Final",
+      "Reversal Theory",
+      "Genuine Intent Theory",
+      "Intent Question",
+      "Beis Shammai Lock",
+      "Beis Hillel Whole",
+      "Limits of Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yochanan's 'dilma lo mibaya ka'amar' argument \u2014 the 'Reversal Theory' explaining why the mishna's use of se'orim rather than adashim does not force Chizkiyah to retract, because adashim could be read as an attempted chazara with tefos lashon rishon applying \u2014 which matches the 'Reversal Theory' prose precisely.",
+      "chosen_heading": "Reversal Theory",
+      "current_heading": "Genuine Intent Theory",
+      "moved": true
+    }
+  }
+]

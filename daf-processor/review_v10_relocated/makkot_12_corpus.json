@@ -1,0 +1,436 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Kal Vachomer & Kapara",
+    "candidates": [
+      "Intro & Gmar Din",
+      "Kal Vachomer & Kapara",
+      "Tosafot Kapara",
+      "Kohen Appointed Mid-Trial",
+      "Anointed in His Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 1's prose: Abaye's kal vachomer, the challenge about kapara through galus, and the gemara's response that it is misas kohen that atones \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Kal Vachomer & Kapara",
+      "current_heading": "Kal Vachomer & Kapara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Anointed in His Day",
+    "candidates": [
+      "Tosafot Kapara",
+      "Kohen Appointed Mid-Trial",
+      "Anointed in His Day",
+      "Kohen Responsibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara text (Rav Kahana's derivation from the verse about 'anointed during his days') that the 'Anointed in His Day' section's prose directly discusses and explains.",
+      "chosen_heading": "Anointed in His Day",
+      "current_heading": "Anointed in His Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Kohen Responsibility",
+    "candidates": [
+      "Kohen Responsibility",
+      "Death Pre-Kohen",
+      "Burial in Ir Miklat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about what responsibility the newly appointed kohen gadol bears and its answer that he should have prayed for a favorable verdict, which is precisely what the 'Kohen Responsibility' section's prose addresses.",
+      "chosen_heading": "Kohen Responsibility",
+      "current_heading": "Kohen Responsibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Burial in Ir Miklat",
+    "candidates": [
+      "Death Pre-Kohen",
+      "Burial in Ir Miklat",
+      "Disinterment & Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both scenarios \u2014 dying before exile (Abaye's ruling) and dying in the ir miklat before the kohen gadol (the baraita) \u2014 and candidate 0 'Death Pre-Kohen' introduces the full tradition with naktinan, while candidates 1 and 2 split only parts of this unified passage; however, since the passage contains both the burial-in-ir-miklat ruling AND the disinterment/return ruling, and candidate 0's prose sets up the entire tradition starting with gmar din and death before exile, it is the best single home for the complete passage.",
+      "chosen_heading": "Death Pre-Kohen",
+      "current_heading": "Burial in Ir Miklat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Disinterment & Return",
+    "candidates": [
+      "Burial in Ir Miklat",
+      "Disinterment & Return",
+      "Ben Grusha Discovered",
+      "Misas/Batla Kehunah",
+      "Korban Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Ami/Rabbi Yitz\u1e25ak Nappa\u1e25a dispute about 'meita kehunah' vs 'batla kehunah' following the ben grusha discovery, which is precisely what the 'Misas/Batla Kehunah' section's prose describes.",
+      "chosen_heading": "Misas/Batla Kehunah",
+      "current_heading": "Disinterment & Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Korban Validity",
+    "candidates": [
+      "Ben Grusha Discovered",
+      "Misas/Batla Kehunah",
+      "Korban Validity",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present exactly the content described in candidate 2's prose: item 1 introduces the Rabbi Eliezer/Rabbi Yehoshua dispute about korban validity for a ben grusha, and item 2 maps that dispute onto the meita/batla kehunah debate \u2014 precisely what candidate 2's prose describes.",
+      "chosen_heading": "Korban Validity",
+      "current_heading": "Korban Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Gemara Resolution",
+      "Korban Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Gemara's rejection of the parallel and its refined resolution distinguishing Rabbi Eliezer's position from Rabbi Yehoshua's, which is precisely what the 'Gemara Resolution' prose describes.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Korban Exception",
+    "candidates": [
+      "Korban Exception",
+      "Levites' Cemetery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Joab's errors at the altar and Reish Lakish's parallel about the angel of Rome \u2014 are explicitly discussed in detail in the 'Korban Exception' prose, which covers exactly these Gemara passages about Yoav's mistakes and the eschatological midrash of Reish Lakish.",
+      "chosen_heading": "Korban Exception",
+      "current_heading": "Korban Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Levites' Cemetery",
+    "candidates": [
+      "Levites' Cemetery",
+      "Tchum Refuge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Abbahu's ruling that cities of refuge were not given for burial and the resolution that Levites' burial is outside the city, which matches exactly the prose under 'Levites' Cemetery'.",
+      "chosen_heading": "Levites' Cemetery",
+      "current_heading": "Levites' Cemetery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Tchum Refuge",
+    "candidates": [
+      "Tchum Refuge",
+      "Yose vs. Akiva",
+      "Tannaim Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the distinction between the tchum providing refuge versus the city being the required dwelling place, and Rav Sheshet's resolution about tunnels \u2014 all of which are explicitly covered in the 'Tchum Refuge' prose.",
+      "chosen_heading": "Tchum Refuge",
+      "current_heading": "Tchum Refuge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Tannaim Sources",
+    "candidates": [
+      "Yose vs. Akiva",
+      "Tannaim Sources",
+      "Mar Zutra Opinion",
+      "Standing Before Eidah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tannaim Sources",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the baraita and the gemara's analysis of Rabbi Yosei HaGelili vs. Rabbi Akiva's reasoning, which matches exactly what candidate 1 ('Tannaim Sources') describes in its prose.",
+      "second_heading": "Mar Zutra Opinion",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Mar Zutra bar Toviyya's ruling that the blood redeemer is executed for killing the murderer outside the boundary \u2014 a position departing from both tannaim \u2014 which is precisely what candidate 2 ('Mar Zutra Opinion') describes.",
+      "current_heading": "Tannaim Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Standing Before Eidah",
+    "candidates": [
+      "Mar Zutra Opinion",
+      "Standing Before Eidah",
+      "Intentional Exit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Standing Before Eidah' prose, which explicitly discusses Rabbi Eliezer's baraita on 'ad omdo lifnei ha-eidah l'mishpat' and Rabbi Akiva's derivation that a Sanhedrin that witnessed a murder cannot adjudicate the case \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Standing Before Eidah",
+      "current_heading": "Standing Before Eidah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Intentional Exit",
+    "candidates": [
+      "Intentional Exit",
+      "End Not Harsher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the two conflicting baraitot about intentional vs. unintentional exit and their resolution via 'dibrah Torah ki-leshon b'nei adam,' which is precisely what the 'Intentional Exit' prose describes and sets up before moving to Abaye's argument in 'End Not Harsher.'",
+      "chosen_heading": "Intentional Exit",
+      "current_heading": "Intentional Exit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "End Not Harsher",
+    "candidates": [
+      "End Not Harsher",
+      "Son's Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's exact statement about 'the end not being harsher than the beginning,' which is precisely what the prose under heading 0 ('End Not Harsher') analyzes in detail.",
+      "chosen_heading": "End Not Harsher",
+      "current_heading": "End Not Harsher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Son's Status",
+    "candidates": [
+      "Son's Status",
+      "No Shaliach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two contradictory baraitot about a son serving as goel hadam against his father and the Gemara's suggestion that they reflect the Rabbi Yosei HaGelili vs. Rabbi Akiva debate, which is precisely what the 'Son's Status' section prose describes.",
+      "chosen_heading": "Son's Status",
+      "current_heading": "Son's Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "No Shaliach",
+    "candidates": [
+      "No Shaliach",
+      "Grandson Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle that a son cannot serve as an agent against his father, with the exception of mesit, which is precisely what the 'No Shaliach' prose describes.",
+      "chosen_heading": "No Shaliach",
+      "current_heading": "No Shaliach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Grandson Allowed",
+    "candidates": [
+      "Grandson Allowed",
+      "Crown Rule",
+      "Maaser Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage resolves the contradiction between two baraitot by distinguishing son (bno) from grandson (ben bno), which is exactly what the 'Grandson Allowed' section's prose describes.",
+      "chosen_heading": "Grandson Allowed",
+      "current_heading": "Grandson Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Maaser Sheni",
+    "candidates": [
+      "Crown Rule",
+      "Maaser Sheni",
+      "Yehuda Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Crown Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the 'crown rule' for ir miklat, which belongs under 'Crown Rule' whose prose explicitly describes this mishna and its ruling that hakol holech achar hanof.",
+      "second_heading": "Maaser Sheni",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the gemara's contradiction from Maaser Sheni and its resolution (dependent on chomah vs. dirah), which matches exactly the 'Maaser Sheni' prose describing the reminehu and the gemara's answer about nofo midayer/ikaro lo midayer.",
+      "current_heading": "Maaser Sheni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Yehuda Debate",
+    "candidates": [
+      "Yehuda Debate",
+      "Lechumra Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the contradiction between tithe sources and Rav Kahana's resolution attributing one baraita to Rabbi Yehuda and one to the Rabbis, which is precisely what the 'Yehuda Debate' prose describes.",
+      "chosen_heading": "Yehuda Debate",
+      "current_heading": "Yehuda Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Lechumra Reading",
+    "candidates": [
+      "Lechumra Reading",
+      "Rava Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's l'chumra argument for Maaser Sheni with both trunk-outside/boughs-inside and trunk-inside/boughs-outside cases, which is precisely what the prose under 'Lechumra Reading' describes and analyzes.",
+      "chosen_heading": "Lechumra Reading",
+      "current_heading": "Lechumra Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rava Cases",
+    "candidates": [
+      "Rava Cases",
+      "Rav Ashi Crown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Rava argument described in candidate 0's prose \u2014 the problem with 'trunk inside, crown outside' in the context of ir miklat, ending with 'ha gavai kai' (the man is standing inside), which matches the 'Ha gavra kai' point explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Rava Cases",
+      "current_heading": "Rava Cases",
+      "moved": false
+    }
+  }
+]

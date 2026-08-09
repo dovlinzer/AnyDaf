@@ -1,0 +1,426 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro & Nose Rings",
+    "candidates": [
+      "Intro & Nose Rings",
+      "Signet Ring Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains what a katla is and identifies nezamim as nose rings, which is exactly what the prose under 'Intro & Nose Rings' discusses.",
+      "chosen_heading": "Intro & Nose Rings",
+      "current_heading": "Intro & Nose Rings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Signet Ring Debate",
+    "candidates": [
+      "Signet Ring Debate",
+      "Zeira's Answer",
+      "Mixed Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the exact content described in the 'Signet Ring Debate' prose: item 1 is the inference that a signet ring is not an ornament, and item 2 is the contradiction from Kelim that a signet ring is listed among women's ornaments \u2014 precisely what that section's prose describes.",
+      "chosen_heading": "Signet Ring Debate",
+      "current_heading": "Signet Ring Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Mixed Materials",
+    "candidates": [
+      "Zeira's Answer",
+      "Mixed Materials",
+      "Rava's Gender Norms",
+      "Tum'ah vs Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rabbi Zeira's answer \u2014 item 1 is his resolution (lo kashya, this is Rabbi Nechemiah vs. the Rabbis), and items 2-3 are the baraita he cites as proof \u2014 which matches candidate 0 ('Zeira's Answer') perfectly, while the current placement under 'Mixed Materials' (candidate 1) actually describes the content of the baraita in isolation, without recognizing that it belongs as part of Zeira's answer.",
+      "chosen_heading": "Zeira's Answer",
+      "current_heading": "Mixed Materials",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Tum'ah vs Shabbat",
+    "candidates": [
+      "Rava's Gender Norms",
+      "Tum'ah vs Shabbat",
+      "Needle Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's resolution and Rav Na\u1e25man bar Yitz\u1e25ak's resolution to the contradiction between the mishnayot on rings, which is precisely what the 'Tum'ah vs Shabbat' prose discusses \u2014 noting all three answers including Rava's gender-based distinction and Rav Na\u1e25man's methodological point about tum'ah and Shabbat operating under different principles.",
+      "chosen_heading": "Tum'ah vs Shabbat",
+      "current_heading": "Tum'ah vs Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Needle Purpose",
+    "candidates": [
+      "Needle Purpose",
+      "Birit Clasp"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the purpose of an unperforated needle and Rav Yosef's answer that a woman uses it to gather her hair, which is precisely what the 'Needle Purpose' section's prose addresses.",
+      "chosen_heading": "Needle Purpose",
+      "current_heading": "Needle Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Birit Clasp",
+    "candidates": [
+      "Birit Clasp",
+      "Dual Function",
+      "Ornamental Pin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge comparing the needle to the birit (garter/clasp), which is exactly what the 'Birit Clasp' section's prose discusses in detail.",
+      "chosen_heading": "Birit Clasp",
+      "current_heading": "Birit Clasp",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Ornamental Pin",
+    "candidates": [
+      "Dual Function",
+      "Ornamental Pin",
+      "Cave Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the actual Talmudic text of Rav Adda's explanation AND Rava's gold plate resolution together, which maps to heading 0 ('Dual Function') whose prose discusses exactly this exchange \u2014 the weekday hair-parting use and the Shabbat question \u2014 while heading 1 ('Ornamental Pin') covers the author's own elaboration and conclusions drawn from Rava's answer rather than the primary text itself.",
+      "chosen_heading": "Dual Function",
+      "current_heading": "Ornamental Pin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Cave Incident",
+    "candidates": [
+      "Ornamental Pin",
+      "Cave Incident",
+      "Alternate Account",
+      "Synagogue Incident",
+      "Why Shabbat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Cave Incident",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the Mishnah and Gemara on the spiked sandal prohibition plus Shmuel's cave story with the reversed sandal causing the panic \u2014 exactly what heading 1 ('Cave Incident') describes.",
+      "second_heading": "Alternate Account",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are Rabbi Ilai's and Rami bar Yechezkel's alternate versions of the cave/synagogue incidents, which are precisely what heading 2 ('Alternate Account') and heading 3 ('Synagogue Incident') discuss \u2014 but since item 5 (Rabbi Ilai) belongs under 'Alternate Account' and item 6 (Rami bar Yechezkel) under 'Synagogue Incident', the structural seam after item 4 is real, with items 5-6 starting the alternate accounts section.",
+      "current_heading": "Cave Incident",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Why Shabbat",
+    "candidates": [
+      "Alternate Account",
+      "Synagogue Incident",
+      "Why Shabbat",
+      "Red Heifer Ashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the Gemara's discussion of why the spiked sandal prohibition applies on Shabbat and Yom Tov (but not weekdays or fast days), which is precisely what the 'Why Shabbat' prose section describes in detail.",
+      "chosen_heading": "Why Shabbat",
+      "current_heading": "Why Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Red Heifer Ashes",
+    "candidates": [
+      "Red Heifer Ashes",
+      "Strength vs Ornament"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Red Heifer Ashes' section prose, which explicitly discusses Rabbi Chananya ben Akavya's position on the Jordan River restriction and the extension from Shabbat to Yom Tov.",
+      "chosen_heading": "Red Heifer Ashes",
+      "current_heading": "Red Heifer Ashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Strength vs Ornament",
+    "candidates": [
+      "Strength vs Ornament",
+      "Five vs Seven",
+      "Positioning Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the strength-vs-ornament distinction and the nail counts in a single Talmudic excerpt, but the prose under heading 0 explicitly discusses both Rav Yehuda/Shmuel's ruling and anticipates the ornament question, making it the best single home; headings 1 and 2 split out details that are already contained in this unified passage.",
+      "chosen_heading": "Strength vs Ornament",
+      "current_heading": "Strength vs Ornament",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Positioning Detail",
+    "candidates": [
+      "Five vs Seven",
+      "Positioning Detail",
+      "Imbalanced Sandals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly details Rabbi Yochanan's explanation to Rav Shemen bar Abba of the positioning of nails (two from here, two from there, one on straps; three from here, three from there, one on straps for Rabbi Chanina), which is precisely what the 'Positioning Detail' prose describes.",
+      "chosen_heading": "Positioning Detail",
+      "current_heading": "Positioning Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Imbalanced Sandals",
+    "candidates": [
+      "Imbalanced Sandals",
+      "Modifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the baraita about the imbalanced sandal with seven/thirteen nails, the resolution that Rabbi Yo\u1e25anan follows Rabbi Nehorai (five/seven), Ifa's practical ruling, and Rav Huna's query to Rav Ashi \u2014 are explicitly discussed in the 'Imbalanced Sandals' prose, which is precisely where the passage currently sits.",
+      "chosen_heading": "Imbalanced Sandals",
+      "current_heading": "Imbalanced Sandals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Modifications",
+    "candidates": [
+      "Modifications",
+      "Cleated Sandals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss structural modifications to a sandal (sewing from within, shaping nails like tongs) that change its halachic category, which is precisely what the 'Modifications' prose section describes in detail.",
+      "chosen_heading": "Modifications",
+      "current_heading": "Modifications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Cleated Sandals",
+    "candidates": [
+      "Cleated Sandals",
+      "Non-Wearing Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's ruling about covering the entire sole with nails for traction, which is precisely what the 'Cleated Sandals' prose discusses and analyzes.",
+      "chosen_heading": "Cleated Sandals",
+      "current_heading": "Cleated Sandals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Non-Wearing Uses",
+    "candidates": [
+      "Non-Wearing Uses",
+      "Worn Down Nails",
+      "Size Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all the content discussed in this passage \u2014 the prohibition on wearing/walking, the permitted non-wearing uses, Rabbi Elazar's dissent, the worn-down nails threshold, and the leather-covered/modified nail cases \u2014 and the 'Non-Wearing Uses' section's prose is the most comprehensive match, introducing all these sub-topics together as part of the same baraita unit.",
+      "chosen_heading": "Non-Wearing Uses",
+      "current_heading": "Non-Wearing Uses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Size Difference",
+    "candidates": [
+      "Worn Down Nails",
+      "Size Difference",
+      "Context Variation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the internal contradiction in the Tosefta, Rav Sheshet's resolution (nigmemu vs. ne'ekru), and Rav \u1e24isda's small/large sandal clarification \u2014 are precisely the content described in the 'Worn Down Nails' prose, which explicitly mentions the internal contradiction and the four-or-five specification, whereas the current heading 'Size Difference' describes these same points but is clearly the wrong label for where this passage should sit.",
+      "chosen_heading": "Worn Down Nails",
+      "current_heading": "Size Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Context Variation",
+    "candidates": [
+      "Size Difference",
+      "Context Variation",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the *noteh shani* resolution of the apparent contradiction between Rebbi's seven and thirteen figures, which is precisely what the 'Context Variation' section's prose describes.",
+      "chosen_heading": "Context Variation",
+      "current_heading": "Context Variation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Final Halacha",
+    "candidates": [
+      "Final Halacha",
+      "Social Pressure",
+      "Regional Variation",
+      "Gezeirah Narrowing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gezeirah Narrowing",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 resolves the tension about Rabbi Yochanan's view by noting that an uneven sole is different \u2014 this is a narrowing/refinement of the gezeirah's application, fitting the 'Gezeirah Narrowing' prose which discusses progressive circumscription of the decree.",
+      "second_heading": "Final Halacha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is exactly the ruling about Rabbi Elazar ben Rabbi Shimon and why it needed to be stated explicitly, which matches the 'Final Halacha' prose almost word for word.",
+      "current_heading": "Final Halacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Gezeirah Narrowing",
+    "candidates": [
+      "Social Pressure",
+      "Regional Variation",
+      "Gezeirah Narrowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi \u1e24iyya's statement about social pressure (matching heading 0's prose) and the regional variation numbers (matching heading 1's prose), but since the social pressure remark and the nail counts are one continuous Gemara passage, and heading 0's prose explicitly quotes and discusses the full text including both elements while heading 1 only discusses the numbers, the passage as a whole best fits under heading 0, with heading 1 serving as a follow-on discussion of the same quoted material.",
+      "chosen_heading": "Social Pressure",
+      "current_heading": "Gezeirah Narrowing",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Maaser Sheni/Hekdesh",
+    "candidates": [
+      "Opening",
+      "Hamikadesh Bechelko",
+      "Temple Layout",
+      "Mishulchan Gavoa",
+      "Maaser Sheni/Hekdesh",
+      "Sumchos Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items \u2014 the Mishnah on betrothal with priestly portions/Maaser Sheni/Hekdesh, and the Gemara discussion about Rabbi Yosei HaGelili and mishulchan gavoa \u2014 are precisely the content described in the 'Maaser Sheni/Hekdesh' section's prose, which explicitly covers all these cases and the Rabbi Yosei HaGelili challenge and its resolution.",
+      "chosen_heading": "Maaser Sheni/Hekdesh",
+      "current_heading": "Maaser Sheni/Hekdesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Sumchos Story",
+    "candidates": [
+      "Sumchos Story",
+      "Yehuda's Response",
+      "Yosi Defends Case",
+      "Women in Azara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the narrative discussed in the 'Sumchos Story' prose: Rabbi Yehuda barring Rabbi Meir's students, Sumchos forcing his way in, and Sumchos reporting Rabbi Meir's teaching about betrothal with priestly portions.",
+      "chosen_heading": "Sumchos Story",
+      "current_heading": "Sumchos Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Women in Azara",
+    "candidates": [
+      "Yehuda's Response",
+      "Yosi Defends Case",
+      "Women in Azara",
+      "Baraita Dispute",
+      "Two Interpretations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda's Response",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yehuda's angry response questioning why women would be in the Azarah, which matches heading 0 ('Yehuda's Response') perfectly.",
+      "second_heading": "Yosi Defends Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yosi's defense of the case on three grounds, which matches heading 1 ('Yosi Defends Case') perfectly.",
+      "current_heading": "Women in Azara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Two Interpretations",
+    "candidates": [
+      "Baraita Dispute",
+      "Two Interpretations",
+      "Nimmnu v'Gamru",
+      "Rav's Position",
+      "Menachot Division",
+      "No Swapping Rule",
+      "No Cross-Type Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's explanation that both Rabbi Yehuda and Rabbi Yosi derive their positions from the same verse, interpreting 'lecha' vs 'ke-esh,' which is precisely what the 'Two Interpretations' section's prose describes.",
+      "chosen_heading": "Two Interpretations",
+      "current_heading": "Two Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "No Cross-Type Division",
+    "candidates": [
+      "Nimmnu v'Gamru",
+      "Rav's Position",
+      "Menachot Division",
+      "No Swapping Rule",
+      "No Cross-Type Division",
+      "No Ownership Proof",
+      "Lechem Hapanim Story",
+      "Chotfim Clarified"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Nimmnu v'Gamru",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe Rabbi Yochanan's report of nimnu ve-gamru, Rav's disagreement, and Abaye's alignment with Rabbi Yochanan \u2014 exactly what heading 0 ('Nimmnu v'Gamru') and heading 1 ('Rav's Position') discuss, with heading 1's prose being the better match since it covers all three figures (Rabbi Yochanan's report, Rav's dissent, and Abaye's reasoning including the Sifra proof to follow).",
+      "second_heading": "Menachot Division",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 are the extended Baraita from the Sifra about not dividing meal-offerings against animal offerings, bird offerings, etc., culminating in the kodshei kodashim/kodashim kalim point \u2014 precisely what heading 2 ('Menachot Division') and the subsequent headings describe, with the full baraita spanning headings 2-4 and item 8 matching heading 4's prose about the final kodshei kodashim/kodashim kalim extension.",
+      "current_heading": "No Cross-Type Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Chotfim Clarified",
+    "candidates": [
+      "No Ownership Proof",
+      "Lechem Hapanim Story",
+      "Chotfim Clarified",
+      "Rabbi Meir on Maaser",
+      "Yehuda Disagrees",
+      "Kodesh La-Hashem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Ownership Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Sifra baraita proving Rabbi Yehuda retracted, which is precisely what the 'No Ownership Proof' prose discusses \u2014 the stam Sifra being Rabbi Yehuda and his concession.",
+      "second_heading": "Lechem Hapanim Story",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's challenge from the Lechem HaPanim baraita about modest vs. gluttonous kohanim, which is exactly what the 'Lechem Hapanim Story' prose describes.",
+      "current_heading": "Chotfim Clarified",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Kodesh La-Hashem",
+    "candidates": [
+      "Rabbi Meir on Maaser",
+      "Yehuda Disagrees",
+      "Kodesh La-Hashem",
+      "Kodesh Distinctions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kodesh Distinctions",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses deriving the meaning of '\u1e25amtzan' (one who snatches) from biblical verses, which fits the 'Kodesh Distinctions' section's exploratory derivation discussions better than any earlier heading, though it's a loose fit \u2014 it may belong to an even earlier section not listed here.",
+      "second_heading": "Rabbi Meir on Maaser",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah and Gemara for the Maaser Sheni betrothal dispute, a self-contained new unit that belongs under 'Rabbi Meir on Maaser' where the prose explicitly introduces this Mishnah and Rabbi Meir's ruling.",
+      "current_heading": "Kodesh La-Hashem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Kodesh Distinctions",
+    "candidates": [
+      "Kodesh Distinctions",
+      "Mamon Gavoa",
+      "Woman's Consent",
+      "Rav Yeimar",
+      "Me'ilah Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the chain of objections and answers about teruma of the tithe, challah, shevi'it produce, and teruma proper \u2014 plus Ravin Sava's explanation of 'hu' \u2014 which exactly matches the 'Kodesh Distinctions' prose describing these precise tests and resolutions.",
+      "chosen_heading": "Kodesh Distinctions",
+      "current_heading": "Kodesh Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Me'ilah Concern",
+    "candidates": [
+      "Mamon Gavoa",
+      "Woman's Consent",
+      "Rav Yeimar",
+      "Me'ilah Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's dispute between Rabbi Meir and Rabbi Yehuda regarding hekdesh (consecrated property) and Rabbi Ya'akov's summary from Rabbi Yochanan, which is precisely what the 'Me'ilah Concern' section's prose discusses \u2014 the hekdesh case, the mezid/shogeg distinction, and the me'ilah concern that neither party would want to participate in transferring consecrated property to non-sacred use.",
+      "chosen_heading": "Me'ilah Concern",
+      "current_heading": "Me'ilah Concern",
+      "moved": false
+    }
+  }
+]

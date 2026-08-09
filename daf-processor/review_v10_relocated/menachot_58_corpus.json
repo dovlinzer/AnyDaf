@@ -1,0 +1,253 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Tanu Rabbanan Teaching",
+    "candidates": [
+      "Lechem HaPanim Review",
+      "New Derasha Introduction",
+      "Tanu Rabbanan Teaching",
+      "Hagasha Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the opening of the tanu rabbanan baraita asking from where we derive the prohibition of burning edible portions on the mizbeach, which is precisely what candidate 2 ('Tanu Rabbanan Teaching') describes as its content.",
+      "chosen_heading": "Tanu Rabbanan Teaching",
+      "current_heading": "Tanu Rabbanan Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Hagasha Requirements",
+    "candidates": [
+      "Hagasha Requirements",
+      "Ramp Case Dispute",
+      "Elazar Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rav Sheshet's statement that nothing of the shtei halachem or lechem hapanim goes to the fire is precisely the resolution discussed in the 'Hagasha Requirements' prose, which explicitly describes Rav Sheshet resolving the tension between hagasha requirements and the kol shemimenu l'ishim prohibition.",
+      "chosen_heading": "Hagasha Requirements",
+      "current_heading": "Hagasha Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Elazar Rationale",
+    "candidates": [
+      "Ramp Case Dispute",
+      "Elazar Rationale",
+      "Yochanan on Otam",
+      "Nedavah Hypothetical",
+      "Korban Reishit Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items introduce and elaborate the Rabbi Yochanan vs. Rabbi Elazar dispute about bringing items onto the ramp (kibesh), which is precisely what the 'Ramp Case Dispute' prose describes, not the 'Elazar Rationale' section where it currently sits.",
+      "chosen_heading": "Ramp Case Dispute",
+      "current_heading": "Elazar Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Korban Reishit Derasha",
+    "candidates": [
+      "Yochanan on Otam",
+      "Nedavah Hypothetical",
+      "Korban Reishit Derasha",
+      "Se'or Hutar Miklalo"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yochanan on Otam",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Rabbi Elazar's reasoning from 'otam' that the ramp-equals-altar rule applies only to first fruits and two loaves, which is exactly what heading 0 ('Yochanan on Otam') describes as Rabbi Elazar's position that Rabbi Yochanan must account for.",
+      "second_heading": "Nedavah Hypothetical",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20137 follow Rabbi Yochanan's alternative use of 'otam' to derive that shtei halachem cannot be brought as a nedavah, which is precisely what heading 1 ('Nedavah Hypothetical') describes.",
+      "current_heading": "Korban Reishit Derasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Se'or Hutar Miklalo",
+    "candidates": [
+      "Korban Reishit Derasha",
+      "Se'or Hutar Miklalo",
+      "Chatat HaOf Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the baraita's distinction between se'or hutar miklalo bamikdash versus devash, Rav Amram's resolution about the shtei kevasim, and the bikurim/fledglings question \u2014 exactly the content described in the 'Se'or Hutar Miklalo' prose section.",
+      "chosen_heading": "Se'or Hutar Miklalo",
+      "current_heading": "Se'or Hutar Miklalo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Chatat HaOf Analysis",
+    "candidates": [
+      "Chatat HaOf Analysis",
+      "Eliezer vs. Akiva Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rami bar \u1e24ama's question to Rav \u1e24isda about the chatat ha'of and Rav \u1e24isda's answer (kol sheshmo korban), which is precisely what the 'Chatat HaOf Analysis' prose describes.",
+      "chosen_heading": "Chatat HaOf Analysis",
+      "current_heading": "Chatat HaOf Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Eliezer vs. Akiva Debate",
+    "candidates": [
+      "Eliezer vs. Akiva Debate",
+      "Kol as Indicator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the tannaitic dispute between Rabbi Eliezer and Rabbi Akiva and the nafkah minah cases (chatat ha'of and log shemen of the metzora), which is precisely what the 'Eliezer vs. Akiva Debate' prose section discusses in detail.",
+      "chosen_heading": "Eliezer vs. Akiva Debate",
+      "current_heading": "Eliezer vs. Akiva Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Kol as Indicator",
+    "candidates": [
+      "Kol as Indicator",
+      "Abaye Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the baraita deriving that even part of the leaven and leaven in a mixed state are prohibited, which corresponds to Abaye's reading of the baraita as explained in candidate 1's prose, not the broader 'kol as indicator' discussion about why both se'or and dvash need their own kol.",
+      "chosen_heading": "Abaye Position",
+      "current_heading": "Kol as Indicator",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Abaye Position",
+    "candidates": [
+      "Kol as Indicator",
+      "Abaye Position",
+      "Rava Position",
+      "Kometz Baseline"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Abaye's interpretation that the baseline is a kezayit and kol teaches even half a kezayit, which matches the 'Abaye Position' prose exactly.",
+      "second_heading": "Rava Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's alternative interpretation that the baseline is a kometz and kol teaches even half a kometz, which matches the 'Rava Position' prose exactly.",
+      "current_heading": "Abaye Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Kometz Baseline",
+    "candidates": [
+      "Rava Position",
+      "Kometz Baseline",
+      "Rava: Four Lashes",
+      "Abaye: Generic Lav",
+      "Tosafot Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together explain the Abaye-Rava dispute over whether a kometz can be less than two zeitim and whether haktara requires a kezayit minimum, which is precisely what the 'Kometz Baseline' prose describes.",
+      "chosen_heading": "Kometz Baseline",
+      "current_heading": "Kometz Baseline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Tosafot Interpretation",
+    "candidates": [
+      "Rava: Four Lashes",
+      "Abaye: Generic Lav",
+      "Tosafot Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together present the full dispute \u2014 Rava's four-lashes position, Abaye's lav shebiklalos principle, and the two versions of Abaye's view (chada miha laki vs. chada nami lo laki with the chasimah comparison) \u2014 which is precisely what the 'Tosafot Interpretation' prose section discusses in detail, including both versions of Abaye and the contrast with Rava.",
+      "chosen_heading": "Tosafot Interpretation",
+      "current_heading": "Tosafot Interpretation",
+      "moved": false
+    }
+  }
+]

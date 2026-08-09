@@ -1,0 +1,414 @@
+[
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Kedei Hiluch Me'ah Amah",
+    "candidates": [
+      "Broader Context",
+      "Shiur Achilat Arai",
+      "Food Type Categories",
+      "Sleeping in Sukkah",
+      "Gezeirah Shema Yiradem",
+      "Tefillin Challenge",
+      "Moser Shinato",
+      "Co-Guarantor Problem",
+      "Rosho Bein Birkav",
+      "Ein Keva LeSheinah",
+      "Keva as Dwelling",
+      "Tefillin vs. Sukkah",
+      "Contradictory Braitot",
+      "Nekitum Bidei",
+      "Manach BeReisheih",
+      "Faris Sudra",
+      "Kedei Hiluch Me'ah Amah",
+      "Shinat HaSus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 16,
+      "confidence": "high",
+      "reason": "The passage directly discusses the measure of shenat arai (kedei hiluch me'ah amah), Rabbi Yaakov's ruling about grasping the retzu'ah vs. ketzitzah, and the Rabbis' distinction between arai and keva sleep in tefillin \u2014 all of which are explicitly addressed in the 'Kedei Hiluch Me'ah Amah' section's prose.",
+      "chosen_heading": "Kedei Hiluch Me'ah Amah",
+      "current_heading": "Kedei Hiluch Me'ah Amah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shinat HaSus",
+    "candidates": [
+      "Shinat HaSus",
+      "Abaye's Nap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav's teaching about the horse's sleep and its duration of sixty breaths, which is precisely what the 'Shinat HaSus' section prose discusses.",
+      "chosen_heading": "Shinat HaSus",
+      "current_heading": "Shinat HaSus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Abaye's Nap",
+    "candidates": [
+      "Abaye's Nap",
+      "Day vs. Night",
+      "Young Men Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the sleep practices of Abaye and the chain from Rav to David to the horse's sixty breaths, which is precisely what the 'Abaye's Nap' prose describes in detail.",
+      "chosen_heading": "Abaye's Nap",
+      "current_heading": "Abaye's Nap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Young Men Rule",
+    "candidates": [
+      "Day vs. Night",
+      "Young Men Rule",
+      "Wives Context",
+      "Shachach Veshmish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the baraita distinguishing day/night/young men and Abaye's resolution about wives \u2014 are precisely the content described under 'Young Men Rule', which explicitly covers Rabbi Yosei's ruling about young men, the baal keri question, and Abaye's answer about wives being present.",
+      "chosen_heading": "Young Men Rule",
+      "current_heading": "Young Men Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Shachach Veshmish",
+    "candidates": [
+      "Wives Context",
+      "Shachach Veshmish",
+      "All-Day Tefillin",
+      "Evolving Observance",
+      "Taste vs. Dates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about forgetting and having relations while wearing tefillin, which is precisely what the 'Shachach Veshmish' section's prose discusses in detail, including the specific halacha about washing hands before removing the tefillin.",
+      "chosen_heading": "Shachach Veshmish",
+      "current_heading": "Shachach Veshmish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Taste vs. Dates",
+    "candidates": [
+      "All-Day Tefillin",
+      "Evolving Observance",
+      "Taste vs. Dates",
+      "Baa Lehachmir",
+      "Rabbi Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The prose under 'Taste vs. Dates' directly introduces and discusses this exact mishna \u2014 the incident with Rabban Yochanan ben Zakkai's stew and Rabban Gamliel's two dates and bucket of water being taken up to the sukkah.",
+      "chosen_heading": "Taste vs. Dates",
+      "current_heading": "Taste vs. Dates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Rabbi Tzadok",
+    "candidates": [
+      "Baa Lehachmir",
+      "Rabbi Tzadok",
+      "Shiur Netilah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Tzadok",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the Rabbi Tzadok mishna passage) belongs under 'Rabbi Tzadok' whose prose explicitly discusses Rabbi Tzadok taking food in a handkerchief and eating outside the sukkah without benching.",
+      "second_heading": "Baa Lehachmir",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 describe the Gemara's 'chissurei mechsera' resolution and the incident of Rabban Yochanan ben Zakkai/Rabban Gamliel being told to take food to the sukka, which matches the 'Baa Lehachmir' prose discussing maase listor, chissurei mechsera, and the ruling that stringency does not constitute yuhara.",
+      "current_heading": "Rabbi Tzadok",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shiur Netilah",
+    "candidates": [
+      "Shiur Netilah",
+      "Arba Esrei Seudot",
+      "Chachamim View",
+      "Tashlumin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbi Tzadok story and its implications for the kibeitzah threshold for netilat yadayim and Birkat HaMazon, which is precisely what the 'Shiur Netilah' section's prose addresses in detail.",
+      "chosen_heading": "Shiur Netilah",
+      "current_heading": "Shiur Netilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Tashlumin",
+    "candidates": [
+      "Arba Esrei Seudot",
+      "Chachamim View",
+      "Tashlumin",
+      "Ein Tashlumin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna presents Rabbi Eliezer's fourteen-meals ruling and the Rabbis' response, which corresponds exactly to the 'Arba Esrei Seudot' section's prose introducing that very ruling, not the 'Tashlumin' section which discusses a later, separate ruling about making up the first night's meal.",
+      "chosen_heading": "Arba Esrei Seudot",
+      "current_heading": "Tashlumin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Ein Tashlumin",
+    "candidates": [
+      "Tashlumin",
+      "Ein Tashlumin",
+      "Dwelling Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's ruling about compensation (tashlumin) AND the Rabbis' rejection of it, but the prose under heading 0 ('Tashlumin') explicitly discusses both Rabbi Eliezer's position and raises the internal difficulty about Shemini Atzeret, making it the natural home for the full Gemara excerpt, whereas heading 1 ('Ein Tashlumin') only covers the Sages' rebuttal in isolation.",
+      "chosen_heading": "Tashlumin",
+      "current_heading": "Ein Tashlumin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Dwelling Analogy",
+    "candidates": [
+      "Dwelling Analogy",
+      "Free Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Eliezer's rationale via the tashvu/ke'ein taduru dwelling analogy, which is precisely what the 'Dwelling Analogy' section's prose discusses.",
+      "chosen_heading": "Dwelling Analogy",
+      "current_heading": "Dwelling Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Free Choice",
+    "candidates": [
+      "Free Choice",
+      "First Night Chiyuv",
+      "Gezeirah Shavah",
+      "Matzah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbis' interpretation of the sukkah as analogous to a dwelling with free choice in eating, which is precisely what the 'Free Choice' section's prose discusses.",
+      "chosen_heading": "Free Choice",
+      "current_heading": "Free Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Matzah Comparison",
+    "candidates": [
+      "First Night Chiyuv",
+      "Gezeirah Shavah",
+      "Matzah Comparison",
+      "No Obligation Days",
+      "Shiur Comparison",
+      "Food Type",
+      "Pesak on Rain",
+      "Tosafot Ta'avah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "First Night Chiyuv",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge \u2014 'if so, even the first Festival evening should not require sukkah' \u2014 which directly belongs under 'First Night Chiyuv', whose prose is about exactly this question of how any fixed first-night obligation can exist.",
+      "second_heading": "Gezeirah Shavah",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rabbi Yochanan's gezeirah shavah linking the fifteenth of Tishrei to the fifteenth of Nisan, and the derivation of the Passover obligation from 'ba'erev tochlu matzot', which is precisely what the 'Gezeirah Shavah' section's prose describes.",
+      "current_heading": "Matzah Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Tosafot Ta'avah",
+    "candidates": [
+      "No Obligation Days",
+      "Shiur Comparison",
+      "Food Type",
+      "Pesak on Rain",
+      "Tosafot Ta'avah",
+      "Mashlimin Bamah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Eliezer's retraction regarding fourteen meals and the question of compensation (tashlumin) for a missed first-night meal, which is precisely what the 'Mashlimin Bamah' section discusses.",
+      "chosen_heading": "Mashlimin Bamah",
+      "current_heading": "Tosafot Ta'avah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Mashlimin Bamah",
+    "candidates": [
+      "Tosafot Ta'avah",
+      "Mashlimin Bamah",
+      "Rashi Position",
+      "Tosafot Requirement",
+      "Braita Confirmation",
+      "Single Meal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question of what food constitutes valid tashlumin (compensation), concluding that minei targima works \u2014 exactly what the 'Mashlimin Bamah' prose describes.",
+      "chosen_heading": "Mashlimin Bamah",
+      "current_heading": "Mashlimin Bamah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Single Meal",
+    "candidates": [
+      "Rashi Position",
+      "Tosafot Requirement",
+      "Braita Confirmation",
+      "Single Meal",
+      "Parpara Argument",
+      "Splitting Meals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the question from King Agrippas's steward about whether eating one meal per day suffices, which is precisely what the 'Single Meal' section's prose describes.",
+      "chosen_heading": "Single Meal",
+      "current_heading": "Single Meal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Splitting Meals",
+    "candidates": [
+      "Parpara Argument",
+      "Splitting Meals",
+      "Yotzei Misukah",
+      "One Bayit",
+      "Chol Hamoed Building"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the steward's question about alternating between two sukkot, which is precisely what the 'Splitting Meals' section prose describes \u2014 the question of spending time in one sukkah and then another to fulfill the obligation.",
+      "chosen_heading": "Splitting Meals",
+      "current_heading": "Splitting Meals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158
+    ],
+    "current_heading": "Chol Hamoed Building",
+    "candidates": [
+      "Yotzei Misukah",
+      "One Bayit",
+      "Chol Hamoed Building",
+      "Sages Allow",
+      "Ship Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita citing Rabbi Eliezer's two rulings (no moving between sukkot, no building during Chol HaMoed) plus the Sages' agreement on rebuilding a collapsed sukkah is exactly what the 'Chol Hamoed Building' prose describes and attributes to this baraita.",
+      "chosen_heading": "Chol Hamoed Building",
+      "current_heading": "Chol Hamoed Building",
+      "moved": false
+    }
+  }
+]

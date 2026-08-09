@@ -74,7 +74,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Fruit Juices and the Definition of Chametz: The Debate Over Water as a Prerequisite",
@@ -107,7 +107,7 @@
           "timestamp": "32:06"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -184,7 +184,7 @@
           "timestamp": "53:21"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -213,7 +213,7 @@
           "timestamp": "57:01"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     }
   ],
@@ -435,5 +435,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "53:21",
+  "amud_b_micro_title": "Dichuiy Debate",
+  "shiur_start_daf": 53,
+  "shiur_start_amud": "b"
 }

@@ -58,7 +58,7 @@ Both Rabbi Yochanan and, ultimately, Resh Lakish agree on a second point, captur
 
 ### Posel vs Metamei
 
-Closely connected to the question of *ba'otah hayad* is the question of how *strong* the derived hand's *tumah* actually is. The *braisa* quoted by Rabbi Yose the son of Rabbi Yehuda had stated that a hand makes *kodesh pasul* but not *tamei* in the full sense. To understand this, one must recall the graduated levels of *tumah* applicable to *kodesh*: a *sheni* renders *kodesh* a *shelishi*, which can still pass on *tumah* to a *revii* — that is what it means to be *metamei kodesh*. If the derived hand is treated as a *sheni*, it would make *kodesh* a *shelishi* — and that is *metamei*. But if the derived hand is treated as a *shelishi* — a step weaker than the original — it would make *kodesh* only a *revii*, which ends the chain. That is *posel* without *metamei*. Rabbi Yose the son of Rabbi Yehuda's view, then, is that the second hand is not on a par with the first; it is weaker, a *shelishi* rather than a *sheni*.
+The Gemara now asks *mi'mai* — from where do we derive this? The answer is *mi'dekatni seifa*: from the fact that the end of the *Mishnah* repeats the rule that one hand renders the other *tamei* for *kodesh* but not for *trumah*. Since this was already stated at the opening of the *Mishnah*, the Gemara asks *ha tu lamah li* — why repeat it? The answer is *l'atuyei yad chavero*: the repetition comes to teach that not only can one's own second hand be rendered *tamei* by the first, but so too can someone else's hand.
 
 ## Lakish vs Yochanan (II)
 

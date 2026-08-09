@@ -1,0 +1,279 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Scriptural Source",
+    "candidates": [
+      "Mishnah Blood Placement",
+      "Shmuel's Position",
+      "Scriptural Source",
+      "Challenge to Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Shmuel's ruling that the meat is disqualified but the owners achieved atonement, and the scriptural derivation plus the challenge about the meat \u2014 are the core content of Shmuel's position and its immediate proof-text, which candidate 1 ('Shmuel's Position') explicitly describes, whereas candidate 2 ('Scriptural Source') is also a reasonable fit but candidate 1's prose already encompasses both the ruling and its scriptural basis and the meat/atonement distinction.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Scriptural Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Challenge to Shmuel",
+    "candidates": [
+      "Scriptural Source",
+      "Challenge to Shmuel",
+      "Invalid Kohen's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the gemara's challenge to Shmuel from the mishnah about incorrect blood placement requiring a redo, and the rejection of the 'permit the meat' answer \u2014 precisely what candidate 1's prose describes.",
+      "chosen_heading": "Challenge to Shmuel",
+      "current_heading": "Challenge to Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Invalid Kohen's Role",
+    "candidates": [
+      "Invalid Kohen's Role",
+      "Thoughts & Kabbalah",
+      "Redo Question",
+      "Rava's Principle",
+      "Mishnah Reading",
+      "Two Thoughts Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer chain about whether an unfit kohen's zrika constitutes deichuy, which is precisely what heading 0 ('Invalid Kohen's Role') describes in its prose.",
+      "chosen_heading": "Invalid Kohen's Role",
+      "current_heading": "Invalid Kohen's Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Two Thoughts Scenario",
+    "candidates": [
+      "Thoughts & Kabbalah",
+      "Redo Question",
+      "Rava's Principle",
+      "Mishnah Reading",
+      "Two Thoughts Scenario",
+      "Pigul Question",
+      "Pigul Condition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Mishnah Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 work through the challenge and resolution about Rava's principle and the correct reading of the mishna (from kabbalah onward a pasul's intent is irrelevant), which matches the 'Mishnah Reading' prose exactly.",
+      "second_heading": "Two Thoughts Scenario",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 introduce a new baraita about sequential thoughts during shechita regarding placement above/below the red line and the conditions for pigul, which matches the 'Two Thoughts Scenario' prose exactly.",
+      "current_heading": "Two Thoughts Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Pigul Condition",
+    "candidates": [
+      "Pigul Question",
+      "Pigul Condition",
+      "Scriptural Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra's statement of his principle (zrika that permits meat can cause piggul; zrika that does not permit meat cannot cause piggul), which is precisely what Candidate 1 'Pigul Condition' describes in its prose.",
+      "chosen_heading": "Pigul Condition",
+      "current_heading": "Pigul Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Scriptural Limit",
+    "candidates": [
+      "Scriptural Limit",
+      "Resh Lakish Agrees",
+      "Silent vs. Articulated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Mar Zutra's scriptural derivation, the challenge that it should not even disqualify, and Rav Na\u1e25man bar Yitz\u1e25ak's answer via machshevet hinuach \u2014 are precisely the content described in the 'Scriptural Limit' prose, which explicitly walks through all three steps in the same order.",
+      "chosen_heading": "Scriptural Limit",
+      "current_heading": "Scriptural Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Silent vs. Articulated",
+    "candidates": [
+      "Resh Lakish Agrees",
+      "Silent vs. Articulated",
+      "Pigul Analysis",
+      "Wrong Place Nothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Reish Lakish's position that 'pasul' is literal while accepting shelo bimkomo k'bimkomo dami, and then introduces the shitika/amira distinction as his resolution \u2014 all of which is the core content described in the 'Resh Lakish Agrees' section, not the 'Silent vs. Articulated' section which is meant to elaborate on that distinction as a separate analytical step.",
+      "chosen_heading": "Resh Lakish Agrees",
+      "current_heading": "Silent vs. Articulated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Wrong Place Nothing",
+    "candidates": [
+      "Pigul Analysis",
+      "Wrong Place Nothing",
+      "Reuse Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items deal with the dispute between Rabbi Yo\u1e25anan and Reish Lakish/Shmuel over wrong-place zrika, the karet clause, and their respective explanations \u2014 exactly the content described in the 'Wrong Place Nothing' prose section.",
+      "chosen_heading": "Wrong Place Nothing",
+      "current_heading": "Wrong Place Nothing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Reuse Question",
+    "candidates": [
+      "Reuse Question",
+      "Rav Chisda Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the exact challenge discussed in the 'Reuse Question' prose \u2014 if wrong-place zrika achieves nothing, why not gather and reuse the blood like blood spilled on the floor \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Reuse Question",
+      "current_heading": "Reuse Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rav Chisda Distinction",
+    "candidates": [
+      "Rav Chisda Distinction",
+      "Al Mokdah Rule",
+      "Rabbi Yehudah Exceptions",
+      "Rabbi Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Rabbi Yochanan/Rav Yitzchak bar Yosef ruling and the Rav Chisda/Avimi ruling about when blood on the altar can or cannot be reused, which is exactly what the 'Rav Chisda Distinction' prose discusses.",
+      "chosen_heading": "Rav Chisda Distinction",
+      "current_heading": "Rav Chisda Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Rabbi Shimon Position",
+    "candidates": [
+      "Al Mokdah Rule",
+      "Rabbi Yehudah Exceptions",
+      "Rabbi Shimon Position",
+      "Timing Criteria"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehudah Exceptions",
+      "first_confidence": "high",
+      "first_reason": "Items 1 is Rabbi Yehudah's position with his three exclusions, matching the 'Rabbi Yehudah Exceptions' prose exactly.",
+      "second_heading": "Rabbi Shimon Position",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present Rabbi Shimon's expansive inclusion and his exclusions, matching the 'Rabbi Shimon Position' prose exactly.",
+      "current_heading": "Rabbi Shimon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Timing Criteria",
+    "candidates": [
+      "Timing Criteria",
+      "Wrong Place vs Spilled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the inclusion/exclusion criterion based on whether disqualification occurred in sanctity, which is precisely what the 'Timing Criteria' prose explains and quotes in paraphrase.",
+      "chosen_heading": "Timing Criteria",
+      "current_heading": "Timing Criteria",
+      "moved": false
+    }
+  }
+]

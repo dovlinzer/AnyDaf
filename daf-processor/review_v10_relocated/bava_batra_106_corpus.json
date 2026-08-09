@@ -1,0 +1,240 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Boundaries vs. Estimate",
+    "candidates": [
+      "Boundaries vs. Estimate",
+      "Mishnah Ambiguity",
+      "Huna vs. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introducing the besimanav uvemetzarav case with its one-sixth tolerance threshold directly corresponds to the 'Boundaries vs. Estimate' section, which is the prose that introduces and explains this exact mishnah and its halachic framework.",
+      "chosen_heading": "Boundaries vs. Estimate",
+      "current_heading": "Boundaries vs. Estimate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Huna vs. Yehuda",
+    "candidates": [
+      "Mishnah Ambiguity",
+      "Huna vs. Yehuda",
+      "Ad Inclusive/Exclusive",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Rav Huna vs. Rav Yehuda dispute and its explanation \u2014 exactly what the 'Huna vs. Yehuda' section's prose describes in detail, including the amora'im's respective positions on whether a one-sixth discrepancy is treated as less than or more than one-sixth.",
+      "chosen_heading": "Huna vs. Yehuda",
+      "current_heading": "Huna vs. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Ad Inclusive/Exclusive",
+      "Braita Contradiction",
+      "Partial Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's objection from the baraita about the contradiction between 'higiyu' and the voiding rule of shum hadayanin, which is exactly what the 'Braita Contradiction' section's prose describes and introduces.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Partial Comparison",
+    "candidates": [
+      "Partial Comparison",
+      "Facts & Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Huna's response about the partial comparison between the baraita and the judges' assessment, which is precisely what the 'Partial Comparison' section's prose discusses.",
+      "chosen_heading": "Partial Comparison",
+      "current_heading": "Partial Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Facts & Claim",
+    "candidates": [
+      "Facts & Claim",
+      "Savar v'Kabil",
+      "Rashbam Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the facts of the case (Rav Pappa buying land, the seller's claim of twenty girive, the measurement of fifteen, and coming before Abaye), which is exactly what the 'Facts & Claim' prose describes \u2014 the ruling itself ('savarta v'kabilta') belongs to the next section.",
+      "chosen_heading": "Facts & Claim",
+      "current_heading": "Facts & Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Rashbam Explanation",
+    "candidates": [
+      "Savar v'Kabil",
+      "Rashbam Explanation",
+      "One vs. All Draw",
+      "Mishnah Rule",
+      "Eretz Yisrael Model",
+      "Gmiras Da'at"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Savar v'Kabil",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the objections and resolutions in the Rav Pappa/Abaye exchange about savar v'kabil and the one-sixth rule, which the prose of heading 0 explicitly discusses.",
+      "second_heading": "One vs. All Draw",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita of Rabbi Yosei about brothers dividing by lottery, which introduces an entirely new topic matching the prose of heading 2 about ha'achim shehalku and the goral mechanism.",
+      "current_heading": "Rashbam Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Gmiras Da'at",
+    "candidates": [
+      "One vs. All Draw",
+      "Mishnah Rule",
+      "Eretz Yisrael Model",
+      "Gmiras Da'at",
+      "Rashbam on Rav Ashi",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's challenge about requiring a receptacle and Urim VeTummim (the 'ee ma lehalan' objection) followed by Rav Ashi's answer, both of which are explicitly introduced and discussed in the 'Eretz Yisrael Model' prose section, which anticipates this exact exchange.",
+      "chosen_heading": "Eretz Yisrael Model",
+      "current_heading": "Gmiras Da'at",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Rashbam on Rav Ashi",
+      "Case Setup",
+      "Rava: Void All",
+      "Shmuel: Carve Out",
+      "Fairness Concerns",
+      "Two Divide"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the opening statement of the Rav/Shmuel dispute about two brothers who divided and a third brother arriving from overseas, which is exactly what the 'Case Setup' prose describes as the scenario being introduced.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Two Divide",
+    "candidates": [
+      "Rava: Void All",
+      "Shmuel: Carve Out",
+      "Fairness Concerns",
+      "Two Divide",
+      "Error vs. Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rava's challenge to Rav Na\u1e25man using the case of two-out-of-three partners dividing property, which is precisely what the 'Two Divide' section introduces and discusses.",
+      "chosen_heading": "Two Divide",
+      "current_heading": "Two Divide",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Error vs. Knowledge",
+    "candidates": [
+      "Error vs. Knowledge",
+      "Kam Dina Challenge",
+      "Partial Acquisition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Na\u1e25man's distinction between the partners case (knew there were three from the outset) and the brothers case (did not know there were three), which is precisely the 'Error vs. Knowledge' distinction that section 0's prose elaborates.",
+      "chosen_heading": "Error vs. Knowledge",
+      "current_heading": "Error vs. Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Partial Acquisition",
+    "candidates": [
+      "Kam Dina Challenge",
+      "Partial Acquisition",
+      "Intent Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's challenge to Abaye invoking Shmuel's *mekamtzim* position and the *kam dina* principle, along with the Rav-and-Shmuel ruling on the *kor* sale \u2014 exactly what the 'Kam Dina Challenge' prose describes, not the downstream analysis of partial acquisition or intent.",
+      "chosen_heading": "Kam Dina Challenge",
+      "current_heading": "Partial Acquisition",
+      "moved": true
+    }
+  }
+]

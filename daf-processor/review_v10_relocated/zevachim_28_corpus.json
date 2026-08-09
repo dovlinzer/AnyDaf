@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rabbi Eliezer's View",
+    "candidates": [
+      "Rabbi Eliezer's View",
+      "Blood Location Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Item 1 is Rabbi Eliezer's statement and Item 2 is the Gemara's immediate challenge to it ('what is this teaching us?'), which together form the opening of the sugya that candidate 0's prose explicitly describes as beginning with Rabbi Eliezer's statement \u2014 candidate 1's prose describes the Gemara's answer to that challenge, but the challenge itself (Item 2) is the transition point that logically belongs with the statement it questions, under heading 0.",
+      "chosen_heading": "Rabbi Eliezer's View",
+      "current_heading": "Rabbi Eliezer's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Blood Location Validity",
+    "candidates": [
+      "Blood Location Validity",
+      "Ketoret Zarah Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's answer about why Rabbi Eliezer's ruling is needed beyond the earlier source \u2014 distinguishing blood (which has a relationship with the inner altar) from a komets (which does not) \u2014 which is precisely what the 'Blood Location Validity' prose discusses in detail.",
+      "chosen_heading": "Blood Location Validity",
+      "current_heading": "Blood Location Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Ketoret Zarah Issue",
+    "candidates": [
+      "Ketoret Zarah Issue",
+      "Outer Altar Reading",
+      "Inner vs Outer Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection from the baraita about ketoret zarah and the inference that the inner altar does not sanctify \u2014 exactly what the 'Ketoret Zarah Issue' prose describes as the challenge being raised.",
+      "chosen_heading": "Ketoret Zarah Issue",
+      "current_heading": "Ketoret Zarah Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Inner vs Outer Power",
+    "candidates": [
+      "Outer Altar Reading",
+      "Inner vs Outer Power",
+      "Machsheves Chutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the resolution distinguishing inner from outer altar sanctity (ritzpa vs. kli shares), which is precisely what the 'Inner vs Outer Power' section's prose discusses and expands upon.",
+      "chosen_heading": "Inner vs Outer Power",
+      "current_heading": "Inner vs Outer Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Machsheves Chutz",
+    "candidates": [
+      "Machsheves Chutz",
+      "Chutz Limkomo",
+      "Piggul Proper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing chutz limkomo cases (wrong place, pasul without karet), and the prose under heading 0 explicitly discusses and quotes this very mishna with its enumerated cases and the ruling of pasul ve'ein bo karet.",
+      "chosen_heading": "Machsheves Chutz",
+      "current_heading": "Machsheves Chutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Piggul Proper",
+    "candidates": [
+      "Chutz Limkomo",
+      "Piggul Proper",
+      "Samuel's View",
+      "Challenge to Samuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists cases of intent to perform sacrificial acts 'tomorrow' (lemachar), resulting in piggul with karet liability, which is precisely what the 'Piggul Proper' section's prose describes.",
+      "chosen_heading": "Piggul Proper",
+      "current_heading": "Piggul Proper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Challenge to Samuel",
+    "candidates": [
+      "Samuel's View",
+      "Challenge to Samuel",
+      "Rav Huna's View",
+      "Rav Chisda's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form one continuous discussion: the initial assumption (items 1-2), Shmuel's resolution attributing the mishna to Rabbi Eliezer (item 3), the source for Rabbi Eliezer's view (item 4), the challenge from the 'zeh haklal' clause (item 5), and its resolution (item 6), followed by Rav Huna's alternative approach (item 7) \u2014 all of which exactly matches the 'Challenge to Samuel' prose description, which covers precisely this entire sequence including Rav Huna's view as a contrasting solution within the same discussion.",
+      "chosen_heading": "Challenge to Samuel",
+      "current_heading": "Challenge to Samuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Chisda's View",
+    "candidates": [
+      "Rav Huna's View",
+      "Rav Chisda's View",
+      "Rejecting Goat Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's statement that the skin of the tail is like the tail itself and that the mishna deals with the tail of a kid (goat), which is exactly what candidate 1 'Rav Chisda's View' describes.",
+      "chosen_heading": "Rav Chisda's View",
+      "current_heading": "Rav Chisda's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rejecting Goat Read",
+    "candidates": [
+      "Rejecting Goat Read",
+      "Edibility Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why Rav Huna and Rav \u1e24isda do not adopt Shmuel's split-reading approach and why Shmuel and Rav \u1e24isda do not adopt Rav Huna's position (because 'the skin of the tail is considered as the tail itself'), which matches precisely the prose in 'Rejecting Goat Read' that addresses these same mutual rejections and the or alya ka'alya dami reasoning.",
+      "chosen_heading": "Rejecting Goat Read",
+      "current_heading": "Rejecting Goat Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Edibility Standards",
+    "candidates": [
+      "Edibility Standards",
+      "Tosefta Reading",
+      "Edible Parts List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute the Gemara's exchange about why Rav \u1e24isda's interpretation is necessary despite the prior tumah mishna already establishing that skin beneath the tail is like flesh \u2014 exactly what the 'Edibility Standards' prose describes in detail, including the d'rachich mitztaref argument and the l'moshchah/kings-eat standard.",
+      "chosen_heading": "Edibility Standards",
+      "current_heading": "Edibility Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Edible Parts List",
+    "candidates": [
+      "Tosefta Reading",
+      "Edible Parts List",
+      "Olah Constraint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita/Tosefta being cited as an objection \u2014 item 1 is the Rabbis' ruling and item 2 is Elazar ben Yehuda/Rabbi Shimon's expansion \u2014 and candidate 0 ('Tosefta Reading') is the section whose prose explicitly describes this exact Tosefta citation, whereas candidate 1 ('Edible Parts List') describes the broader enumeration that follows after the Gemara has already processed the Tosefta.",
+      "chosen_heading": "Tosefta Reading",
+      "current_heading": "Edible Parts List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Olah Constraint",
+    "candidates": [
+      "Edible Parts List",
+      "Olah Constraint",
+      "Challenge to Olah",
+      "Long Pesuk Tzav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question about why the Tosefta limits the ruling to an olah (not a zevach) and Rav \u1e24isda's two responses, which is precisely what the 'Olah Constraint' prose describes \u2014 the olah limitation, its fit with Rav Huna, and the difficulty for Rav \u1e24isda with his two answers.",
+      "chosen_heading": "Olah Constraint",
+      "current_heading": "Olah Constraint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Long Pesuk Tzav",
+    "candidates": [
+      "Challenge to Olah",
+      "Long Pesuk Tzav",
+      "Raba's Division",
+      "Karet Allocation",
+      "Short Pesuk Kedoshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening of the Gemara's derivation \u2014 Shmuel's 'two verses are written' and Rabba's identification of 'shlishi' as chutz lizmano \u2014 which corresponds precisely to the 'Long Pesuk Tzav' section's prose describing mina hanei mili, Shmuel's two verses, and the third-day reference as the source for chutz lizmano.",
+      "chosen_heading": "Long Pesuk Tzav",
+      "current_heading": "Long Pesuk Tzav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Short Pesuk Kedoshim",
+    "candidates": [
+      "Raba's Division",
+      "Karet Allocation",
+      "Short Pesuk Kedoshim",
+      "Gezeirah Shavah",
+      "Karet Only Nosar",
+      "Zman & Bamah Link",
+      "Juxtaposition Logic",
+      "Inconclusive End"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Karet Allocation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the mimenu/karet allocation debate (chutz lizmano vs chutz limkomo, patach bei vs samich lei arguments), which exactly matches heading 1's prose about the 'Karet Allocation' from the word mimenu.",
+      "second_heading": "Short Pesuk Kedoshim",
+      "second_confidence": "high",
+      "second_reason": "Items 3-12 cover the Abaye/Rav Yitzchak bar Avdimi teaching about the redundant Kedoshim verse, the im eino inyan reassignment, the kodesh-kodesh gezeirah shavah for notar, and the zav/mikdash debates about which long verse governs which category \u2014 all explicitly described in heading 2's prose.",
+      "current_heading": "Short Pesuk Kedoshim",
+      "moved": true
+    }
+  }
+]

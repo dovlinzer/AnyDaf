@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tefillah & Rachamim",
+    "candidates": [
+      "Sotah, Viduy, Shema (II)",
+      "Tefillah & Rachamim",
+      "Avot vs. Korbanot",
+      "Rav Yehuda & Aramaic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that tefillah is rachamei and one may pray however one desires, which matches precisely the 'Tefillah & Rachamim' section's prose about rachamei hi and praying in any language.",
+      "chosen_heading": "Tefillah & Rachamim",
+      "current_heading": "Tefillah & Rachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rav Yehuda & Aramaic",
+    "candidates": [
+      "Avot vs. Korbanot",
+      "Rav Yehuda & Aramaic",
+      "Angels & Aramaic",
+      "Individual vs. Communal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's challenge about prayer in any language and the ruling of Rav Yehuda and Rabbi Yochanan about Aramaic, which is exactly what the 'Rav Yehuda & Aramaic' section's prose describes.",
+      "chosen_heading": "Rav Yehuda & Aramaic",
+      "current_heading": "Rav Yehuda & Aramaic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Individual vs. Communal",
+    "candidates": [
+      "Angels & Aramaic",
+      "Individual vs. Communal",
+      "Women & Vernacular",
+      "Angels & Languages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's resolution distinguishing individual from communal prayer, which is exactly what the 'Individual vs. Communal' section's prose discusses.",
+      "chosen_heading": "Individual vs. Communal",
+      "current_heading": "Individual vs. Communal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Angels & Languages",
+    "candidates": [
+      "Women & Vernacular",
+      "Angels & Languages",
+      "Hamazon Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-response unit about whether angels know Aramaic, which is precisely what the 'Angels & Languages' prose describes in detail, including the bas kol stories and Gabriel's resolution.",
+      "chosen_heading": "Angels & Languages",
+      "current_heading": "Angels & Languages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Hamazon Source",
+    "candidates": [
+      "Hamazon Source",
+      "Rashi vs. Tosafot",
+      "Hamazon & God",
+      "Oaths in Any Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage simply states the source verse for birchat hamazon being recited in any language, which matches the 'Hamazon Source' prose that introduces this exact pasuk and its relevance.",
+      "chosen_heading": "Hamazon Source",
+      "current_heading": "Hamazon Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Oaths in Any Language",
+    "candidates": [
+      "Rashi vs. Tosafot",
+      "Hamazon & God",
+      "Oaths in Any Language",
+      "Lashon Hakodesh List",
+      "Mikra Bikkurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern oaths (shevuat ha'eidut and shevuat hapikadon) being permissible in any language, which is precisely what the 'Oaths in Any Language' section prose discusses, including the specific verse and gezeirah shavah on 'techeta' mentioned in the passage.",
+      "chosen_heading": "Oaths in Any Language",
+      "current_heading": "Oaths in Any Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Mikra Bikkurim",
+    "candidates": [
+      "Lashon Hakodesh List",
+      "Mikra Bikkurim",
+      "Brachot v'Klalot Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation for mikra bikkurim requiring lashon hakodesh via the gezeirah shavah on 'aniyah,' which is precisely what the 'Mikra Bikkurim' section's prose describes.",
+      "chosen_heading": "Mikra Bikkurim",
+      "current_heading": "Mikra Bikkurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Brachot v'Klalot Source",
+    "candidates": [
+      "Brachot v'Klalot Source",
+      "Chalitzah & Kacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gezeirah shavah from 'kol' to derive that the Levites spoke in lashon hakodesh, which is exactly what the prose under 'Brachot v'Klalot Source' describes.",
+      "chosen_heading": "Brachot v'Klalot Source",
+      "current_heading": "Brachot v'Klalot Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Chalitzah & Kacha",
+    "candidates": [
+      "Chalitzah & Kacha",
+      "Rabbi Yehuda's Method",
+      "Baraita Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss Rabbi Yehuda's method: how he uses 'kakha' for two points, what he does with 'v'ansa v'amra' (using it for the Levites), and why he doesn't learn the Levites from the kol-kol gezeirah shavah \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Rabbi Yehuda's Method",
+      "current_heading": "Chalitzah & Kacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Baraita Rule",
+    "candidates": [
+      "Rabbi Yehuda's Method",
+      "Baraita Rule",
+      "Location Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita citing Rabbi Yehuda's rule about ko/kakha/aniyah/amirah requiring lashon hakodesh, which is precisely what the 'Baraita Rule' section's prose describes.",
+      "chosen_heading": "Baraita Rule",
+      "current_heading": "Baraita Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Location Description",
+    "candidates": [
+      "Location Description",
+      "Rabbi Elazar",
+      "Problems & Responses",
+      "Second Direction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Location Description",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Yehuda's interpretation of the verse and the Samaritan forgery dispute, which are both addressed in the 'Location Description' prose section.",
+      "second_heading": "Rabbi Elazar",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present Rabbi Elazar's opposing interpretation ('near the Jordan') and the resulting difficulties with the verse's descriptions, which match the 'Rabbi Elazar' prose section exactly.",
+      "current_heading": "Location Description",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Second Direction",
+    "candidates": [
+      "Rabbi Elazar",
+      "Problems & Responses",
+      "Second Direction",
+      "Aron Crosses First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the statement of Rabbi Eliezer ben Ya'akov explaining that the verse provides directional guidance for entering the land a second time, which is precisely what the 'Second Direction' section's prose describes and introduces.",
+      "chosen_heading": "Second Direction",
+      "current_heading": "Second Direction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Aron Crosses First",
+    "candidates": [
+      "Aron Crosses First",
+      "Three Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Ark traveling first and the priests carrying it, but the current heading's prose discusses this baraita's content directly, while the 'Three Times' heading's prose covers only the second half (priests carrying) plus additional material about three occasions not present in this passage.",
+      "chosen_heading": "Aron Crosses First",
+      "current_heading": "Aron Crosses First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Three Times",
+    "candidates": [
+      "Three Times",
+      "Waters Back Up"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about Rabbi Yosei's three occasions when kohanim carried the Ark is directly discussed in the prose under 'Three Times,' which explicitly mentions all three occasions.",
+      "chosen_heading": "Three Times",
+      "current_heading": "Three Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Waters Back Up",
+    "candidates": [
+      "Waters Back Up",
+      "12 Mil Dimensions",
+      "Water Speed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the backward-flowing water AND Rabbi Yehuda's 12-mil dimension statement, but since heading 0 already covers the waters turning back and heading 1's prose explicitly discusses Rabbi Yehuda's 12-mil measurement as its central topic, the passage as a whole fits better under '12 Mil Dimensions' which encompasses both elements together.",
+      "chosen_heading": "12 Mil Dimensions",
+      "current_heading": "Waters Back Up",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Water Speed",
+    "candidates": [
+      "12 Mil Dimensions",
+      "Water Speed",
+      "300 Mil Height",
+      "Kings' Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar ben Rabbi Shimon's challenge about water moving faster than people, which is exactly what the 'Water Speed' section's prose describes.",
+      "chosen_heading": "Water Speed",
+      "current_heading": "Water Speed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Kings' Response",
+    "candidates": [
+      "300 Mil Height",
+      "Kings' Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe the miraculous height of the water being seen by kings of East and West (item 1) and Rahab's parallel testimony about the Red Sea miracle (item 2), which precisely matches the 'Kings' Response' prose that discusses both the kings' reaction and Rahab's account to Joshua's messengers.",
+      "chosen_heading": "Kings' Response",
+      "current_heading": "Kings' Response",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Pappa Lenient",
+    "candidates": [
+      "Mechah & Chazakah",
+      "Tosafot's Framework",
+      "Rava's Position",
+      "Geographic Limits",
+      "Core Principle",
+      "Squatting Case",
+      "Lo Temru Leh",
+      "Rav Zvid Strict",
+      "Rav Pappa Lenient",
+      "Lo Tipku Shuta",
+      "Offered Silence",
+      "Voluntary Offers",
+      "Voluntary Offers",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's discussion of the 'lo temru leh' case with Rav Zevid and Rav Pappa's dispute, which is precisely what the 'Lo Temru Leh' section's prose introduces as the case where the owner instructs witnesses 'do not tell him.'",
+      "chosen_heading": "Lo Temru Leh",
+      "current_heading": "Rav Pappa Lenient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Lo Tipku Shuta",
+      "Offered Silence",
+      "Voluntary Offers",
+      "Voluntary Offers",
+      "Rav Nachman",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Offered Silence",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the case of witnesses volunteering 'lo amrinan leh' with Rav Zevid and Rav Pappa's dispute including the 'chavrach chavrah' principle, which matches exactly the 'Offered Silence' section's prose about amru leh lo amrinan leh.",
+      "second_heading": "Lo Tipku Shuta",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 covers 'lo tipku shuta' and 'lo mapkinan shuta' as a continuous block of related suppression cases, best fitting under 'Lo Tipku Shuta' which addresses the owner's instruction to suppress the matter entirely and Rav Pappa's implicit concession.",
+      "current_heading": "Rav Nachman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Rava's Question",
+      "Good Advice",
+      "Peiros Issue",
+      "Rava Accepts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Nachman's ruling about protest not in the possessor's presence AND Rava's challenge from Rabbi Yehuda's mishna AND the gemara's answer about 'good advice' \u2014 but the heading 'Rava's Question' (index 0) covers all of this including the resolution, as its prose explicitly discusses both the challenge and notes the word 'veyavo' while heading 1 ('Good Advice') only covers the resolution aspect; the current placement captures the full unit and matches the prose of heading 0 which discusses this entire exchange.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rava Accepts",
+    "candidates": [
+      "Good Advice",
+      "Peiros Issue",
+      "Rava Accepts",
+      "Witness Number"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the apparent contradiction that Rava challenged Rav Na\u1e25man's position yet later accepted it, which is precisely what the 'Rava Accepts' prose section describes.",
+      "chosen_heading": "Rava Accepts",
+      "current_heading": "Rava Accepts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Witness Number",
+    "candidates": [
+      "Witness Number",
+      "Two Witnesses",
+      "Three Witnesses",
+      "Lashon Hara Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the core question of how many people are required for a mechah and both competing answers (two and three), which matches the 'Witness Number' section's prose that frames this as a single unit of inquiry about the required number.",
+      "chosen_heading": "Witness Number",
+      "current_heading": "Witness Number",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Lashon Hara Link",
+    "candidates": [
+      "Two Witnesses",
+      "Three Witnesses",
+      "Lashon Hara Link",
+      "Three & Lashon Hara",
+      "Testimony vs Public"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together introduce and elaborate the suggestion that the two/three witness dispute tracks Rabbah bar Rav Huna's lashon hara teaching, which is precisely what the 'Lashon Hara Link' prose describes.",
+      "chosen_heading": "Lashon Hara Link",
+      "current_heading": "Lashon Hara Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Testimony vs Public",
+    "candidates": [
+      "Three & Lashon Hara",
+      "Testimony vs Public",
+      "Tosafot's View (II)",
+      "Private vs Public",
+      "Public Perception",
+      "Rashbam's View",
+      "Tosafot's View",
+      "Rambam's View",
+      "Rashbam Objects",
+      "Lashon Hara LeToelet",
+      "Gidol's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's two alternative resolutions of the two-vs-three witnesses dispute for mechah, which candidate 1 ('Testimony vs Public') explicitly describes in its prose as the two possibilities the gemara proposes regarding sahadusa vs gillui milta and mechah shelo befanav.",
+      "chosen_heading": "Testimony vs Public",
+      "current_heading": "Testimony vs Public",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Gidol's Case",
+    "candidates": [
+      "Tosafot's View (II)",
+      "Private vs Public",
+      "Public Perception",
+      "Rashbam's View",
+      "Tosafot's View",
+      "Rambam's View",
+      "Rashbam Objects",
+      "Lashon Hara LeToelet",
+      "Gidol's Case",
+      "Rav: Once",
+      "Reish Lakish: Mechah 3Yrs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly narrates Giddel bar Minyumi's case of issuing a mechah before three rabbis and being told he need not return the following year, which is precisely what the 'Gidol's Case' section's prose describes.",
+      "chosen_heading": "Gidol's Case",
+      "current_heading": "Gidol's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Reish Lakish: Mechah 3Yrs",
+    "candidates": [
+      "Rav: Once",
+      "Reish Lakish: Mechah 3Yrs",
+      "Rabbi Yochanan",
+      "Permanent Notice",
+      "Rava Rules",
+      "Bar Kappara's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's ruling about protesting every three years AND Rabbi Yochanan's objection about the gazlan/ke'gazlan distinction, which together form the content described in the 'Reish Lakish: Mechah 3Yrs' section's prose, and since all items belong under one heading, the current placement under that section is the best fit as it introduces both the ruling and the immediate reaction.",
+      "chosen_heading": "Reish Lakish: Mechah 3Yrs",
+      "current_heading": "Reish Lakish: Mechah 3Yrs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Bar Kappara's Rule",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Permanent Notice",
+      "Rava Rules",
+      "Bar Kappara's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling (tzarich limchos b'sof kol gimmel v'gimmel) and Bar Kappara's teaching together, and candidate 2 ('Rava Rules') explicitly discusses both elements \u2014 Rava's halacha and its implications \u2014 while candidate 3 discusses only Bar Kappara's rule, meaning the full passage (which opens with Rava's statement) better belongs under the 'Rava Rules' heading that covers the combined content.",
+      "chosen_heading": "Rava Rules",
+      "current_heading": "Bar Kappara's Rule",
+      "moved": true
+    }
+  }
+]

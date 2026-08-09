@@ -1,0 +1,438 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbi Meir's Ruling",
+    "candidates": [
+      "Mishnah Overview",
+      "Rabbi Meir's Ruling",
+      "Two Interpretations",
+      "Rabbi Yehuda's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's ruling that decreasing the ketubah below the standard amounts constitutes licentious intercourse, which is exactly what the 'Rabbi Meir's Ruling' section's prose discusses.",
+      "chosen_heading": "Rabbi Meir's Ruling",
+      "current_heading": "Rabbi Meir's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbi Yehuda's Approach",
+    "candidates": [
+      "Two Interpretations",
+      "Rabbi Yehuda's Approach",
+      "Gemara Attribution",
+      "Seifa Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rabbi Yehuda's position on writing receipts to reduce the effective ketubah amount, which is precisely what the 'Rabbi Yehuda's Approach' section's prose describes.",
+      "chosen_heading": "Rabbi Yehuda's Approach",
+      "current_heading": "Rabbi Yehuda's Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Seifa Overview",
+    "candidates": [
+      "Gemara Attribution",
+      "Seifa Overview",
+      "Achrayus Ta'us Sofer",
+      "Rabbi Meir's View",
+      "Found Loan Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the seifa of the mishnah and introduces the achrayus ta'us sofer principle, which is exactly what the 'Seifa Overview' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Seifa Overview",
+      "current_heading": "Seifa Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Found Loan Documents",
+    "candidates": [
+      "Achrayus Ta'us Sofer",
+      "Rabbi Meir's View",
+      "Found Loan Documents",
+      "Rabbi Meir Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna from Bava Metzia about found promissory notes with/without achrayus, cited as the source for Rabbi Meir's position \u2014 exactly what candidate 2 ('Found Loan Documents') describes in detail.",
+      "chosen_heading": "Found Loan Documents",
+      "current_heading": "Found Loan Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rabbi Meir Distinction",
+    "candidates": [
+      "Rabbi Meir Distinction",
+      "Mechurarin Concept",
+      "Peiros & Shevach",
+      "Mezonot Stepchildren",
+      "Documents Without Liens",
+      "Conclusion on Five Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether the entire mishnah can be attributed to Rabbi Meir with a distinction between ketubah and other documents, which is precisely what the 'Rabbi Meir Distinction' section's prose discusses.",
+      "chosen_heading": "Rabbi Meir Distinction",
+      "current_heading": "Rabbi Meir Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Conclusion on Five Items",
+    "candidates": [
+      "Mechurarin Concept",
+      "Peiros & Shevach",
+      "Mezonot Stepchildren",
+      "Documents Without Liens",
+      "Conclusion on Five Items",
+      "Contradiction Setup",
+      "Rabbi Yehuda Resolution",
+      "Alternative Rabbi Meir",
+      "Most Likely View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Conclusion on Five Items",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita listing five claims collectible only from free assets and the Gemara's inference that Rabbi Meir is the tanna, which matches candidate 4's prose about the baraita supporting Rabbi Meir's position and the conclusion about achrayus.",
+      "second_heading": "Rabbi Yehuda Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the 'if you wish say Rabbi Yehuda' resolution involving the 'hiskabalti' receipt distinction, which matches candidate 6's prose about the Rabbi Yehuda resolution using exactly that formulation.",
+      "current_heading": "Conclusion on Five Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Most Likely View",
+    "candidates": [
+      "Contradiction Setup",
+      "Rabbi Yehuda Resolution",
+      "Alternative Rabbi Meir",
+      "Most Likely View",
+      "Wife of Yisroel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 'if you wish say Rabbi Meir' alternative reading where 'chayav' means collectible only from free assets \u2014 exactly what the 'Alternative Rabbi Meir' section discusses as the reinterpretation of the mishna's conclusion to fit Rabbi Meir's position.",
+      "chosen_heading": "Alternative Rabbi Meir",
+      "current_heading": "Most Likely View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Wife of Yisroel",
+    "candidates": [
+      "Most Likely View",
+      "Wife of Yisroel",
+      "Ones Becoming Ratzon",
+      "Rav's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the statement of Shmuel's father about a raped Israelite wife being forbidden to her husband, which is precisely what the 'Wife of Yisroel' section's prose discusses and introduces.",
+      "chosen_heading": "Wife of Yisroel",
+      "current_heading": "Wife of Yisroel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rav's Challenge",
+    "candidates": [
+      "Ones Becoming Ratzon",
+      "Rav's Challenge",
+      "Rape vs. Captivity",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav's challenge to Shmuel's father from the ketubah text and its aftermath (the silence, the verse about princes, and the available answer), which is precisely what heading 1 'Rav's Challenge' describes in its prose.",
+      "chosen_heading": "Rav's Challenge",
+      "current_heading": "Rav's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Rape vs. Captivity",
+      "Rava's Ruling",
+      "Overriding Willingness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks how we can ever find a permitted rape case according to Shmuel's father, and answers that witnesses must attest to continuous screaming \u2014 this directly addresses the question of when rape is definitively established under Shmuel's father's framework, which is the topic of the 'Rape vs. Captivity' section discussing his ruling and its application.",
+      "chosen_heading": "Rape vs. Captivity",
+      "current_heading": "Rava's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Overriding Willingness",
+    "candidates": [
+      "Rava's Ruling",
+      "Overriding Willingness",
+      "Supporting Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rava's ruling (beginning with 'u'pliga de'Rava') and states his core principle about techilata be'ones, which matches exactly the prose of heading 0 ('Rava's Ruling'), while heading 1 discusses the details and implications of that ruling in depth \u2014 the introductory statement of Rava's position belongs under the heading that introduces it.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Overriding Willingness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Supporting Baraita",
+    "candidates": [
+      "Supporting Baraita",
+      "Techilata Be'ones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rava's position, and candidate 0's prose explicitly describes this as 'Tanya k'vatei d'Rava' and matches the content precisely, while candidate 1 describes it as a 'second baraita' which does not fit.",
+      "chosen_heading": "Supporting Baraita",
+      "current_heading": "Supporting Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Techilata Be'ones",
+    "candidates": [
+      "Techilata Be'ones",
+      "Wife of Kohen",
+      "Alternative Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly concludes with 'V'eizo zo eshet kohen' \u2014 the wife of a priest is forbidden even when raped \u2014 which matches exactly the 'Wife of Kohen' section's prose discussion of that specific case.",
+      "chosen_heading": "Wife of Kohen",
+      "current_heading": "Techilata Be'ones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Alternative Teaching",
+    "candidates": [
+      "Wife of Kohen",
+      "Alternative Teaching",
+      "Rav Yehuda Ruling",
+      "Willingness Objection",
+      "Fear Motivation",
+      "Freedom and Ratzon",
+      "Rambam Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the case of kidushei taut \u2014 a mistaken betrothal where even unwilling intercourse leaves the woman permitted \u2014 which matches precisely the prose of the 'Alternative Teaching' section.",
+      "chosen_heading": "Alternative Teaching",
+      "current_heading": "Alternative Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rambam Parallel",
+    "candidates": [
+      "Rav Yehuda Ruling",
+      "Willingness Objection",
+      "Fear Motivation",
+      "Freedom and Ratzon",
+      "Rambam Parallel",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all elements of Rav Yehuda's ruling in one continuous unit \u2014 his initial permissive ruling, the Rabbis' objections about bread and arrows, his 'fear' responses, and his exception for voluntary return \u2014 which maps to headings 0-3 collectively, but since all items must go under one heading and heading 0 ('Rav Yehuda Ruling') is where the passage begins and is the primary ruling being discussed, it is the best single home; however, the passage actually spans all the content of headings 0-3, and the current placement under 'Rambam Parallel' (index 4) is clearly wrong.",
+      "chosen_heading": "Rav Yehuda Ruling",
+      "current_heading": "Rambam Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Rambam Parallel",
+      "Braita Contradiction",
+      "Achashverosh & Ben Nezar",
+      "Relative Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about malchut vs. listos captives and raises the contradiction with a reverse baraita, which is exactly what the 'Braita Contradiction' section's prose describes.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Relative Status",
+    "candidates": [
+      "Achashverosh & Ben Nezar",
+      "Relative Status",
+      "Humorous Aside",
+      "Ketubah Language",
+      "Abaye's Position",
+      "Redemption Logic",
+      "Mamzeres Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items resolve contradictions between baraitot about monarchy and banditry using Ahasuerus and Ben Nezar as reference points, which is exactly what heading 0 ('Achashverosh & Ben Nezar') discusses in its prose, whereas heading 1 ('Relative Status') only covers the bandit resolution (item 2) and the passage currently sits under heading 1 which misses item 1.",
+      "chosen_heading": "Achashverosh & Ben Nezar",
+      "current_heading": "Relative Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Mamzeres Exception",
+    "candidates": [
+      "Humorous Aside",
+      "Ketubah Language",
+      "Abaye's Position",
+      "Redemption Logic",
+      "Mamzeres Exception",
+      "Specific Impediment",
+      "Application Cases",
+      "Vow & Captivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together cover exactly the content described in the 'Mamzeres Exception' prose: Abaye's ruling on almanah l'Kohen Gadol (item 1) and the mamzeret/netinah case plus Rava's counter-principle (item 2) are all discussed together in that section's prose, which explicitly treats both Abaye's position and the mamzeret distinction as part of one continuous discussion.",
+      "chosen_heading": "Mamzeres Exception",
+      "current_heading": "Mamzeres Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Vow & Captivity",
+    "candidates": [
+      "Specific Impediment",
+      "Application Cases",
+      "Vow & Captivity",
+      "Rabbi Eliezer",
+      "Rabbi Yehoshua",
+      "Timing Question",
+      "Sumchos Answer",
+      "Scheme Concern",
+      "Linking to Kohen",
+      "Abaye=R. Eliezer",
+      "Rava=R. Yehoshua",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya: the baraita about a husband who vows and his wife is taken captive (item 1), Rabbi Natan's question to Sumchos about timing (item 2), Sumchos's answer about the scheme concern (item 3), and the Gemara's linking of this tanna'itic dispute to Abaye and Rava (item 4) \u2014 all belong under the 'Vow & Captivity' heading which introduces exactly this baraita and its context.",
+      "chosen_heading": "Vow & Captivity",
+      "current_heading": "Vow & Captivity",
+      "moved": false
+    }
+  }
+]

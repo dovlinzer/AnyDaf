@@ -1,0 +1,221 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Chanina vs. Assi",
+    "candidates": [
+      "Chanina vs. Assi",
+      "Shmuel's Ability",
+      "Shmuel Exceptional",
+      "Bogeret Status",
+      "Rebbi Four Nights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete dispute between Rabbi \u1e24anina and Rabbi Asi \u2014 the statement of the dispute and the reasoning behind each position \u2014 which is precisely what the 'Chanina vs. Assi' prose describes.",
+      "chosen_heading": "Chanina vs. Assi",
+      "current_heading": "Chanina vs. Assi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rebbi Four Nights",
+    "candidates": [
+      "Shmuel's Ability",
+      "Shmuel Exceptional",
+      "Bogeret Status",
+      "Rebbi Four Nights",
+      "Period Spanning",
+      "Pre-Puberty Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss Rav's ruling about the bogeret's first night and the immediate challenge from Rebbi's four-night case \u2014 content that candidate 2 ('Bogeret Status') explicitly describes, including Rav's qualification about seeing blood, while candidate 3 ('Rebbi Four Nights') describes the challenge and the age-category puzzle that comes after this passage's content.",
+      "chosen_heading": "Bogeret Status",
+      "current_heading": "Rebbi Four Nights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Pre-Puberty Counting",
+    "candidates": [
+      "Period Spanning",
+      "Pre-Puberty Counting",
+      "One-Three Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's exploration of the 'two during ketanus, two during naarus' possibility (items 1-2) and the 'one ketanah, two naarah, one bogeret' possibility (item 3), which the prose of 'Pre-Puberty Counting' explicitly describes as problems the Gemara works through following Rav's ruling \u2014 and the current placement under that heading is correct.",
+      "chosen_heading": "Pre-Puberty Counting",
+      "current_heading": "Pre-Puberty Counting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "One-Three Split",
+    "candidates": [
+      "One-Three Split",
+      "Vat Cleaning",
+      "Twelve Months"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One-Three Split",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly continue the Gemara's resolution about the one-three split (one act as ketanah, three as naarah, with two-month intervals), which is precisely what the 'One-Three Split' prose describes.",
+      "second_heading": "Vat Cleaning",
+      "second_confidence": "low",
+      "second_reason": "Items 3-5 shift to a new narrative about Minyamin Saksana and then a tangential statement about teeth/food, which don't match any of the candidate prose sections well, but the vat-cleaning section is the next heading and items 3-5 may precede it as transitional material; however the true fit is unclear from these candidates.",
+      "current_heading": "One-Three Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Twelve Months",
+    "candidates": [
+      "Vat Cleaning",
+      "Twelve Months",
+      "Onah Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vat Cleaning",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about a woman who saw blood in her father's house and the definition of a complete 'onah' as night and half a day \u2014 this is the opening of the vat-cleaning discussion's context, but actually item 1 belongs under 'Vat Cleaning' only as the transition; however, item 1 is actually the mishna/baraita about hymenal bleeding that precedes the vat digression, so it belongs under the heading that precedes 'Vat Cleaning' \u2014 but since 'Vat Cleaning' (index 0) is the first candidate and its prose explicitly says 'the Gemara introduces what appears at first to be an unrelated topic in order to clarify the meaning of onah,' item 1 is the trigger question ('do we require all this time') that launches the vat discussion, placing it at the seam.",
+      "second_heading": "Twelve Months",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 are the vat-cleaning baraita and its Gemara analysis (winepresses, twelve months, Rabban Shimon ben Gamliel, Rabbi Yosi, yayin nesech parallel), which precisely matches the 'Twelve Months' section prose.",
+      "current_heading": "Twelve Months",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Onah Definition",
+    "candidates": [
+      "Onah Definition",
+      "Wedding Night Onah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Onah Definition",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 define the onah as twelve hours and reconcile the two traditions (o yom o layla vs. chatzi yom ve-chatzi layla) \u2014 exactly what Candidate 0's prose describes.",
+      "second_heading": "Wedding Night Onah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses reconciling 'lailah va-chatzi yom' (the wedding-night ruling) with the twelve-hour onah definition, which is precisely what Candidate 1's prose discusses.",
+      "current_heading": "Onah Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Wedding Night Onah",
+    "candidates": [
+      "Wedding Night Onah",
+      "Boel Biat Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'And if you wish say' resolution about the kesubah negotiations explaining the extended time period, which directly corresponds to the prose in 'Wedding Night Onah' discussing the second Talmudic resolution (*shani kesuva de-mashi bah tuvei*) about the marriage contract requiring extensive time.",
+      "chosen_heading": "Wedding Night Onah",
+      "current_heading": "Wedding Night Onah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Boel Biat Mitzvah",
+    "candidates": [
+      "Boel Biat Mitzvah",
+      "Ulla's Conclusion",
+      "Wedding Night Problem",
+      "Ba'al Nefesh",
+      "Stringency Origins",
+      "Ramban Rejected",
+      "Rishonim Response",
+      "Contamination Fear",
+      "Post-Tumah Stringency",
+      "Rav Chisda Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source \u2014 Rav and Shmuel's ruling that the halakha is to engage in relations once as a mitzva and then separate \u2014 which is exactly what heading 0 ('Boel Biat Mitzvah') introduces and discusses.",
+      "chosen_heading": "Boel Biat Mitzvah",
+      "current_heading": "Boel Biat Mitzvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Rav Chisda Challenge",
+    "candidates": [
+      "Ulla's Conclusion",
+      "Wedding Night Problem",
+      "Ba'al Nefesh",
+      "Stringency Origins",
+      "Ramban Rejected",
+      "Rishonim Response",
+      "Contamination Fear",
+      "Post-Tumah Stringency",
+      "Rav Chisda Challenge",
+      "Rabbinical Consensus"
+    ],
+    "result": null
+  }
+]

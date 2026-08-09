@@ -1,0 +1,742 @@
+{
+  "bava_batra_103": [],
+  "bava_batra_153": [
+    {
+      "starved_heading": "Rabbi Yaakov",
+      "window_quote_indices": [
+        68
+      ],
+      "window_current_heading": "Rabbi Natan",
+      "old_candidates": [
+        "Rabbi Natan",
+        "Field Status"
+      ],
+      "new_candidates": [
+        "Rabbi Yaakov",
+        "Rabbi Natan",
+        "Field Status"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage is Rabbi Natan's statement about burden of proof based on current health status, which is precisely what the 'Rabbi Natan' section's prose discusses in detail.",
+        "chosen_heading": "Rabbi Natan",
+        "current_heading": "Rabbi Natan",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The passage quotes Rabbi Natan's ruling about burden of proof based on current health status, which is precisely what the Rabbi Natan section's prose discusses and explains.",
+        "chosen_heading": "Rabbi Natan",
+        "current_heading": "Rabbi Natan",
+        "moved": false
+      }
+    }
+  ],
+  "bava_batra_174": [
+    {
+      "starved_heading": "Rav Pappa: Two Readings",
+      "window_quote_indices": [
+        73,
+        74,
+        75,
+        76
+      ],
+      "window_current_heading": "Rav Huna: Tzrari Issue",
+      "old_candidates": [
+        "Rav Huna: Tzrari Issue",
+        "When Can Collect"
+      ],
+      "new_candidates": [
+        "Rav Pappa: Two Readings",
+        "Rav Huna: Tzrari Issue",
+        "When Can Collect"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "All four items introduce the case of a guarantor for orphans and present the two competing reasons (Rav Pappa's mitzva argument and Rav Huna brei de-Rav Yehoshua's tzrari concern) why the guarantor cannot collect, culminating in the 'what is between them' question — exactly the content discussed in the 'Rav Huna: Tzrari Issue' prose section.",
+        "chosen_heading": "Rav Huna: Tzrari Issue",
+        "current_heading": "Rav Huna: Tzrari Issue",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "All four items together introduce the case of the guarantor for orphans and present both Rav Pappa's ruling and Rav Huna's alternative reason, which is precisely the content discussed under 'Rav Pappa: Two Readings' — the section that sets up the foundational dispute before the subsequent sections analyze its implications.",
+        "chosen_heading": "Rav Pappa: Two Readings",
+        "current_heading": "Rav Huna: Tzrari Issue",
+        "moved": true
+      }
+    },
+    {
+      "starved_heading": "Level 5: Direct Transfer",
+      "window_quote_indices": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "window_current_heading": "Rav Huna: Language Test",
+      "old_candidates": [
+        "Rav Huna: Language Test",
+        "Amoraim Debate: Labels"
+      ],
+      "new_candidates": [
+        "Level 5: Direct Transfer",
+        "Rav Huna: Language Test",
+        "Amoraim Debate: Labels"
+      ],
+      "round1_result": {
+        "action": "split",
+        "split_after": 2,
+        "first_heading": "Rav Huna: Language Test",
+        "first_confidence": "high",
+        "first_reason": "Items 1-2 contain Rav Huna's ruling on the language of standard vs. unconditional guarantees, which is precisely what candidate 0's prose discusses.",
+        "second_heading": "Amoraim Debate: Labels",
+        "second_confidence": "high",
+        "second_reason": "Items 3-4 present the dilemma of mixed formulations and Rabbi Yitzḥak's resolution, which is the opening of the debate covered in candidate 1's prose about the harder cases and the Amoraim's competing positions.",
+        "current_heading": "Rav Huna: Language Test",
+        "moved": true
+      },
+      "round2_result": {
+        "action": "split",
+        "split_after": 2,
+        "first_heading": "Rav Huna: Language Test",
+        "first_confidence": "high",
+        "first_reason": "Items 1-2 present Rav Huna's ruling on the language of areiv vs. kablan, which the prose under 'Rav Huna: Language Test' explicitly discusses in detail.",
+        "second_heading": "Amoraim Debate: Labels",
+        "second_confidence": "high",
+        "second_reason": "Items 3-4 present the dilemma of mixed formulations and Rabbi Yitzchak's resolution, which matches exactly the opening content of the 'Amoraim Debate: Labels' prose section.",
+        "current_heading": "Rav Huna: Language Test",
+        "moved": true
+      }
+    }
+  ],
+  "bava_batra_84": [
+    {
+      "starved_heading": "Overcharging Case",
+      "window_quote_indices": [
+        15,
+        16
+      ],
+      "window_current_heading": "Wronged Party Right",
+      "old_candidates": [
+        "Wronged Party Right",
+        "Undercharging Case",
+        "Apparent Circularity",
+        "Ona'ah vs Taʿut",
+        "Overclaiming Logic"
+      ],
+      "new_candidates": [
+        "Overcharging Case",
+        "Wronged Party Right",
+        "Undercharging Case",
+        "Apparent Circularity",
+        "Ona'ah vs Taʿut",
+        "Overclaiming Logic"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 2,
+        "confidence": "high",
+        "reason": "Both items together form the gemara's question (what is Rav Chisda adding if the mishna already says this?) and its answer (without Rav Chisda one might think both sides can renege in ona'ah cases, and the mishna's buyer-only right might be explained away by the 'it is bad' verse) — exactly the 'Apparent Circularity' section's prose about the objection that Rav Chisda merely restates the mishna.",
+        "chosen_heading": "Apparent Circularity",
+        "current_heading": "Wronged Party Right",
+        "moved": true
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 3,
+        "confidence": "high",
+        "reason": "Both items address the gemara's objection that Rav Chisda's ruling merely restates the mishna (mai kamashma lan masnisin hi) and the resolution explaining why the mishna alone would have been insufficient, which is precisely what the 'Apparent Circularity' section's prose describes.",
+        "chosen_heading": "Apparent Circularity",
+        "current_heading": "Wronged Party Right",
+        "moved": true
+      }
+    },
+    {
+      "starved_heading": "Consumer Preference",
+      "window_quote_indices": [
+        60
+      ],
+      "window_current_heading": "Meshicha Rule",
+      "old_candidates": [
+        "Meshicha Rule",
+        "Flax Hagbaha",
+        "Attached Items"
+      ],
+      "new_candidates": [
+        "Consumer Preference",
+        "Meshicha Rule",
+        "Flax Hagbaha",
+        "Attached Items"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The mishna passage discusses the core meshicha rule (pulling vs. measuring produce) and the pikeach renting the place, which matches exactly what the 'Meshicha Rule' prose describes, including the same details about mashach/madad and the Rashbam's note about agreed price.",
+        "chosen_heading": "Meshicha Rule",
+        "current_heading": "Meshicha Rule",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The mishna passage discusses meshicha vs. measuring as modes of acquisition for produce sales, and the 'Meshicha Rule' prose directly addresses this exact content — hamocher peros lachaveiro, mashach velo madad kana, madad velo mashach lo kana — making it the clearly correct placement.",
+        "chosen_heading": "Meshicha Rule",
+        "current_heading": "Meshicha Rule",
+        "moved": false
+      }
+    },
+    {
+      "starved_heading": "Attached Items",
+      "window_quote_indices": [
+        71
+      ],
+      "window_current_heading": "Rav Assi Position",
+      "old_candidates": [
+        "Rav Assi Position",
+        "Rav Zeira Challenge",
+        "Rav Assi Rebuttal"
+      ],
+      "new_candidates": [
+        "Attached Items",
+        "Rav Assi Position",
+        "Rav Zeira Challenge",
+        "Rav Assi Rebuttal"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage presents Rabbi Asi/Rav Assi's teaching in the name of Rabbi Yochanan about measuring and placing in a simta, which is exactly what the 'Rav Assi Position' prose section discusses.",
+        "chosen_heading": "Rav Assi Position",
+        "current_heading": "Rav Assi Position",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The passage directly quotes and translates Rabbi Asi's teaching about measuring produce placed in an alleyway (simta), which is precisely the content described in the 'Rav Assi Position' section's prose.",
+        "chosen_heading": "Rav Assi Position",
+        "current_heading": "Rav Assi Position",
+        "moved": false
+      }
+    }
+  ],
+  "bava_metzia_11": [
+    {
+      "starved_heading": "Resolving Mai Beinaihu",
+      "window_quote_indices": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "window_current_heading": "Tosafot Question",
+      "old_candidates": [
+        "Tosafot Question",
+        "Baraita Get"
+      ],
+      "new_candidates": [
+        "Resolving Mai Beinaihu",
+        "Tosafot Question",
+        "Baraita Get"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "All six items form a continuous Talmudic discussion about the precise scope of 'ein shaliach l'dvar aveirah' — Ravina's and Rav Samma's competing formulations and their nafka minos (priest/Israelite, woman rounding a minor's head) — which is exactly the content the 'Tosafot Question' prose describes as the Gemara's two formulations and their practical differences.",
+        "chosen_heading": "Tosafot Question",
+        "current_heading": "Tosafot Question",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "All six items constitute the Gemara's discussion of Ravina's and Rav Samma's two formulations of 'ein shaliach l'dvar aveirah' and the mai beinaihu between them (priest/Israelite and man/woman cases), which is precisely what the 'Resolving Mai Beinaihu' prose describes.",
+        "chosen_heading": "Resolving Mai Beinaihu",
+        "current_heading": "Tosafot Question",
+        "moved": true
+      }
+    },
+    {
+      "starved_heading": "Open Questions",
+      "window_quote_indices": [
+        70
+      ],
+      "window_current_heading": "Three Cases",
+      "old_candidates": [
+        "Three Cases",
+        "Contained Objects",
+        "Rav Yehuda/Shmuel"
+      ],
+      "new_candidates": [
+        "Open Questions",
+        "Three Cases",
+        "Contained Objects",
+        "Rav Yehuda/Shmuel"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage is the mishna itself presenting the three cases (found object, broken-legged deer, non-flying chicks) and the qualification about normal running/flying deer — exactly what the 'Three Cases' prose describes.",
+        "chosen_heading": "Three Cases",
+        "current_heading": "Three Cases",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The mishna passage directly presents the three cases (found object, broken-legged deer, non-flying chicks) and the qualification about normal deer/flying chicks, which is precisely what the 'Three Cases' prose section describes.",
+        "chosen_heading": "Three Cases",
+        "current_heading": "Three Cases",
+        "moved": false
+      }
+    }
+  ],
+  "berakhot_31b": [],
+  "gittin_18": [
+    {
+      "starved_heading": "Women's Obligations",
+      "window_quote_indices": [
+        63
+      ],
+      "window_current_heading": "Shmuel Parallel",
+      "old_candidates": [
+        "Shmuel Parallel",
+        "Chiya Ketubah",
+        "Same Matter Leniency"
+      ],
+      "new_candidates": [
+        "Women's Obligations",
+        "Shmuel Parallel",
+        "Chiya Ketubah",
+        "Same Matter Leniency"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage covers Shmuel's ruling that a ketubah is like a ma'aseh beis din and the illustrative incident of Rabbi Ḥiyya bar Rav's ketubah, both of which are discussed in candidate 0's prose, while candidates 1 and 2 are meant to cover subsequent Gemara content that qualifies or elaborates on this (the inference from Rav's silence and the 'oskim b'oto inyan' principle), and the current placement under 'Shmuel Parallel' is the correct home for this combined text.",
+        "chosen_heading": "Shmuel Parallel",
+        "current_heading": "Shmuel Parallel",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The passage contains both Shmuel's principle about ketubah being like a ma'aseh beis din (written by day, signed at night) and the illustrative case of Rabbi Ḥiyya bar Rav's ketubah with Rav's silence — exactly what candidate 1 ('Shmuel Parallel') describes, while candidate 2 ('Chiya Ketubah') covers only the Rav's silence portion and the current placement already captures the full passage correctly.",
+        "chosen_heading": "Shmuel Parallel",
+        "current_heading": "Shmuel Parallel",
+        "moved": false
+      }
+    }
+  ],
+  "hullin_88": [
+    {
+      "starved_heading": "RSBG: Growth Principle",
+      "window_quote_indices": [
+        65,
+        66
+      ],
+      "window_current_heading": "Potter's Standard",
+      "old_candidates": [
+        "Potter's Standard",
+        "Klal Tzarich l'Prat"
+      ],
+      "new_candidates": [
+        "RSBG: Growth Principle",
+        "Potter's Standard",
+        "Klal Tzarich l'Prat"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "Both items discuss the definition of fine vs. thick sand using the potter's standard and the practical difference between the two formulations, which is precisely what the 'Potter's Standard' prose section discusses in detail.",
+        "chosen_heading": "Potter's Standard",
+        "current_heading": "Potter's Standard",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "Both items discuss the potter's standard for defining fine vs. thick sand and the practical difference between the two formulations, which is precisely what the 'Potter's Standard' section prose describes.",
+        "chosen_heading": "Potter's Standard",
+        "current_heading": "Potter's Standard",
+        "moved": false
+      }
+    }
+  ],
+  "nazir_59": [
+    {
+      "starved_heading": "First Period: Besafek",
+      "window_quote_indices": [
+        37
+      ],
+      "window_current_heading": "Second Period: Complete",
+      "old_candidates": [
+        "Second Period: Complete",
+        "Yehoshua: No Split"
+      ],
+      "new_candidates": [
+        "First Period: Besafek",
+        "Second Period: Complete",
+        "Yehoshua: No Split"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage describes counting thirty days, bringing a korban tahara, and the conditional declaration about the first and second olah being either a nedavah or obligation, which directly matches the prose of 'Second Period: Complete' describing exactly this scenario and declaration.",
+        "chosen_heading": "Second Period: Complete",
+        "current_heading": "Second Period: Complete",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The passage describes the second-period ritual where the nazir counts thirty days, brings a korban tahara, and makes the conditional declaration about the first and second olot — exactly what the 'Second Period: Complete' prose discusses.",
+        "chosen_heading": "Second Period: Complete",
+        "current_heading": "Second Period: Complete",
+        "moved": false
+      }
+    }
+  ],
+  "niddah_60": [
+    {
+      "starved_heading": "Rav Papa Resolution",
+      "window_quote_indices": [
+        51
+      ],
+      "window_current_heading": "Case Setup",
+      "old_candidates": [
+        "Case Setup",
+        "Rabban Shimon View",
+        "Rabbi's Position",
+        "Agreement Cases"
+      ],
+      "new_candidates": [
+        "Rav Papa Resolution",
+        "Case Setup",
+        "Rabban Shimon View",
+        "Rabbi's Position",
+        "Agreement Cases"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage introduces the baraita about attributing a stain to a shomeret yom k'neged yom on her second day, which is exactly the case setup described in candidate 0's prose before the dispute between Rabban Shimon ben Gamliel and Rebi is introduced.",
+        "chosen_heading": "Case Setup",
+        "current_heading": "Case Setup",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The baraita about attributing a stain to a shomeret yom k'neged yom on her second day is precisely the case setup described in candidate 1's prose, which explicitly cites 'toleh b'shomeret yom k'neged yom b'sheni shelah' as the opening baraita it is analyzing.",
+        "chosen_heading": "Case Setup",
+        "current_heading": "Case Setup",
+        "moved": false
+      }
+    }
+  ],
+  "niddah_67": [
+    {
+      "starved_heading": "Chafifah Requirement",
+      "window_quote_indices": [
+        24
+      ],
+      "window_current_heading": "Hot Water Requirement",
+      "old_candidates": [
+        "Hot Water Requirement",
+        "Hot Water Benefits",
+        "Rinse Folds",
+        "Folds vs Hidden",
+        "Rauy Levilah"
+      ],
+      "new_candidates": [
+        "Chafifah Requirement",
+        "Hot Water Requirement",
+        "Hot Water Benefits",
+        "Rinse Folds",
+        "Folds vs Hidden",
+        "Rauy Levilah"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage states Ameimar's ruling in the name of Rava that a woman must wash her hair in hot water (not cold, but even sun-heated water suffices), which is precisely the content the 'Hot Water Requirement' prose describes.",
+        "chosen_heading": "Hot Water Requirement",
+        "current_heading": "Hot Water Requirement",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The passage directly quotes Ameimar's ruling about washing hair only with hot water, which is precisely what the 'Hot Water Requirement' section's prose describes.",
+        "chosen_heading": "Hot Water Requirement",
+        "current_heading": "Hot Water Requirement",
+        "moved": false
+      }
+    },
+    {
+      "starved_heading": "Invisible Food",
+      "window_quote_indices": [
+        90
+      ],
+      "window_current_heading": "Scab Timeline",
+      "old_candidates": [
+        "Scab Timeline",
+        "Eye Mucus"
+      ],
+      "new_candidates": [
+        "Invisible Food",
+        "Scab Timeline",
+        "Eye Mucus"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage discusses bloodletting incisions and the three-day threshold for whether a scab constitutes a chatzitzah, which directly matches the 'Scab Timeline' section's prose about the three-day rule for scabs over wounds.",
+        "chosen_heading": "Scab Timeline",
+        "current_heading": "Scab Timeline",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The passage discusses bloodletting incisions (ravdei dekhusilta) and the three-day threshold for whether they constitute a chatzitzah, which directly matches the 'Scab Timeline' prose discussing the three-day rule for scabs over wounds.",
+        "chosen_heading": "Scab Timeline",
+        "current_heading": "Scab Timeline",
+        "moved": false
+      }
+    },
+    {
+      "starved_heading": "Samuch Lachafifah",
+      "window_quote_indices": [
+        59
+      ],
+      "window_current_heading": "Same Day Rule",
+      "old_candidates": [
+        "Same Day Rule",
+        "No Vessels",
+        "Bathhouse Feel"
+      ],
+      "new_candidates": [
+        "Samuch Lachafifah",
+        "Same Day Rule",
+        "No Vessels",
+        "Bathhouse Feel"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "The passage directly discusses the practical difference (nafka mina) between the two versions of Rava's statement regarding chafifah timing, which is precisely what the 'Same Day Rule' prose describes and analyzes.",
+        "chosen_heading": "Same Day Rule",
+        "current_heading": "Same Day Rule",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "The passage directly addresses the practical difference (nafka mina) between the two versions of Rava's statement — samuch l'chafifah vs. same-day rule — which is precisely what the 'Same Day Rule' prose discusses.",
+        "chosen_heading": "Same Day Rule",
+        "current_heading": "Same Day Rule",
+        "moved": false
+      }
+    },
+    {
+      "starved_heading": "Day Seven Clean",
+      "window_quote_indices": [
+        165,
+        166
+      ],
+      "window_current_heading": "Retroactive Bleeding",
+      "old_candidates": [
+        "Retroactive Bleeding",
+        "Night Seven",
+        "Rabbeinu Tam"
+      ],
+      "new_candidates": [
+        "Day Seven Clean",
+        "Retroactive Bleeding",
+        "Night Seven",
+        "Rabbeinu Tam"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "Both items together present Rabbi Shimon's ruling and the rabbinic prohibition against immersion on day seven due to the concern of retroactive bleeding, which is precisely the content described in the 'Retroactive Bleeding' prose section.",
+        "chosen_heading": "Retroactive Bleeding",
+        "current_heading": "Retroactive Bleeding",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "Both items together constitute the Rabbi Shimon baraita — his interpretation of 'achar tithar' permitting day-seven immersion and the rabbis' counter-ruling prohibiting it lest she encounter doubt — which is precisely what the 'Retroactive Bleeding' prose describes as the core content of that section.",
+        "chosen_heading": "Retroactive Bleeding",
+        "current_heading": "Retroactive Bleeding",
+        "moved": false
+      }
+    },
+    {
+      "starved_heading": "Negaim Analogy",
+      "window_quote_indices": [
+        110,
+        111
+      ],
+      "window_current_heading": "Knotted Hair",
+      "old_candidates": [
+        "Knotted Hair",
+        "Single Hair",
+        "Biblical Chatzitzah",
+        "Rabbinic Safeguard"
+      ],
+      "new_candidates": [
+        "Negaim Analogy",
+        "Knotted Hair",
+        "Single Hair",
+        "Biblical Chatzitzah",
+        "Rabbinic Safeguard"
+      ],
+      "round1_result": {
+        "action": "split",
+        "split_after": 1,
+        "first_heading": "Knotted Hair",
+        "first_confidence": "high",
+        "first_reason": "Item 1 (Rabba bar Rav Huna's ruling on one knotted hair, three hairs, and uncertainty about two) matches perfectly with the 'Knotted Hair' prose which discusses exactly those rulings.",
+        "second_heading": "Single Hair",
+        "second_confidence": "high",
+        "second_reason": "Item 2 is Rabbi Yochanan's distinct, more lenient position that only one knotted hair is a problem, which is precisely what the 'Single Hair' prose describes.",
+        "current_heading": "Knotted Hair",
+        "moved": true
+      },
+      "round2_result": {
+        "action": "split",
+        "split_after": 1,
+        "first_heading": "Knotted Hair",
+        "first_confidence": "high",
+        "first_reason": "Item 1 (Rabba bar Rav Huna's ruling on one knotted hair) together with the three/two hairs ruling belongs under 'Knotted Hair', which explicitly discusses nima achas k'shura, shalosh, and shtayim — matching both items.",
+        "second_heading": "Single Hair",
+        "second_confidence": "high",
+        "second_reason": "Item 2's second half (Rabbi Yochanan's 'ein lanu ela achas') belongs under 'Single Hair', whose prose is specifically about Rabbi Yochanan's leniency that only a single knotted hair constitutes a chatzitzah.",
+        "current_heading": "Knotted Hair",
+        "moved": true
+      }
+    }
+  ],
+  "yevamot_33": [
+    {
+      "starved_heading": "Age Three Solution",
+      "window_quote_indices": [
+        101,
+        102
+      ],
+      "window_current_heading": "First Act Assumption",
+      "old_candidates": [
+        "First Act Assumption",
+        "Hymen Removal"
+      ],
+      "new_candidates": [
+        "Age Three Solution",
+        "First Act Assumption",
+        "Hymen Removal"
+      ],
+      "round1_result": {
+        "action": "single",
+        "best_index": 0,
+        "confidence": "high",
+        "reason": "Both items discuss the Gemara's challenge about sixteen vs. thirty-two sin-offerings and the resolution that Rabbi Ḥiyya counts only the first act of intercourse, which is precisely what candidate 0's prose describes as 'b'via rishona kachashiv.'",
+        "chosen_heading": "First Act Assumption",
+        "current_heading": "First Act Assumption",
+        "moved": false
+      },
+      "round2_result": {
+        "action": "single",
+        "best_index": 1,
+        "confidence": "high",
+        "reason": "Both items directly address the 'shebau ve'shanu' (repeated intercourse) resolution and the reconciliation with Rabbi Ḥiyya's sixteen sin-offerings count via 'b'via rishona kachashiv,' which is precisely what the 'First Act Assumption' prose describes.",
+        "chosen_heading": "First Act Assumption",
+        "current_heading": "First Act Assumption",
+        "moved": false
+      }
+    },
+    {
+      "starved_heading": "Multiple Transgressions",
+      "window_quote_indices": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "window_current_heading": "Separation/Pregnancy",
+      "old_candidates": [
+        "Separation/Pregnancy",
+        "Which Tanna?",
+        "Rabbi Meir Example"
+      ],
+      "new_candidates": [
+        "Multiple Transgressions",
+        "Separation/Pregnancy",
+        "Which Tanna?",
+        "Rabbi Meir Example"
+      ],
+      "round1_result": {
+        "action": "split",
+        "split_after": 4,
+        "first_heading": "Separation/Pregnancy",
+        "first_confidence": "high",
+        "first_reason": "Items 1-4 all deal with the separation/pregnancy requirement and the Gemara's proof that the switching was inadvertent (huchlafu), matching exactly the 'Separation/Pregnancy' prose.",
+        "second_heading": "Which Tanna?",
+        "second_confidence": "high",
+        "second_reason": "Item 5 asks which Tanna accepts issur kolel, issur mosif, and issur bas achas — the precise question addressed in the 'Which Tanna?' section prose.",
+        "current_heading": "Separation/Pregnancy",
+        "moved": true
+      },
+      "round2_result": {
+        "action": "split",
+        "split_after": 4,
+        "first_heading": "Separation/Pregnancy",
+        "first_confidence": "high",
+        "first_reason": "Items 1-4 all deal with the separation period, the inadvertent nature of the switching (huchlafu), and the proofs thereof — exactly what heading 1 'Separation/Pregnancy' describes.",
+        "second_heading": "Which Tanna?",
+        "second_confidence": "high",
+        "second_reason": "Item 5 opens the new Gemara question about which Tanna holds all three forms of issur chal al issur, which is precisely what heading 2 'Which Tanna?' discusses.",
+        "current_heading": "Separation/Pregnancy",
+        "moved": true
+      }
+    }
+  ]
+}

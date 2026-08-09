@@ -1,0 +1,480 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Hadar Requirement",
+    "candidates": [
+      "Previous: Gazul, Yavesh",
+      "Hadar Requirement",
+      "Baked Lulavim",
+      "Asheira, Ir Nidachas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yehuda's interpretation of 'hadar' as meaning a fruit that dwells on the tree year-round, which fits squarely under the 'Hadar Requirement' section discussing Rabbi Yehuda's rejection/reinterpretation of hadar as applied to esrog.",
+      "chosen_heading": "Hadar Requirement",
+      "current_heading": "Hadar Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Asheira, Ir Nidachas",
+    "candidates": [
+      "Baked Lulavim",
+      "Asheira, Ir Nidachas",
+      "Rava: Lo Yitol",
+      "Avodah Zarah Definition",
+      "Tashmishei AZ",
+      "Mitzvot Lav Lehenot",
+      "Halacha This-Worldly",
+      "Stolen vs. AZ Lulav",
+      "Chitutei Mechatat",
+      "Moshe's Asheira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's ruling that a lulav of avodah zarah should not be taken but if taken is kasher, which is precisely the difficulty/question that heading 2 ('Rava: Lo Yitol') describes in its prose.",
+      "chosen_heading": "Rava: Lo Yitol",
+      "current_heading": "Asheira, Ir Nidachas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Moshe's Asheira",
+    "candidates": [
+      "Rava: Lo Yitol",
+      "Avodah Zarah Definition",
+      "Tashmishei AZ",
+      "Mitzvot Lav Lehenot",
+      "Halacha This-Worldly",
+      "Stolen vs. AZ Lulav",
+      "Chitutei Mechatat",
+      "Moshe's Asheira",
+      "Niktam vs. Nisdak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items directly explain and confirm the principle of *chitutei mechatat shiurei* \u2014 the Gemara's resolution that the asheira of Moses is treated as already destroyed \u2014 which is precisely what heading 6 ('Chitutei Mechatat') is about, not the elaboration on Moshe's asheira distinction that heading 7 discusses.",
+      "chosen_heading": "Chitutei Mechatat",
+      "current_heading": "Moshe's Asheira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Niktam vs. Nisdak",
+    "candidates": [
+      "Moshe's Asheira",
+      "Niktam vs. Nisdak",
+      "Braita: Bent, Thorny"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses niktam rosho and Rav Huna's qualification about nisdak vs. niktam, which is precisely what the 'Niktam vs. Nisdak' section prose describes.",
+      "chosen_heading": "Niktam vs. Nisdak",
+      "current_heading": "Niktam vs. Nisdak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Braita: Bent, Thorny",
+    "candidates": [
+      "Braita: Bent, Thorny",
+      "Bent Lulav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita challenge and Rav Pappa's resolution regarding a split lulav, which is precisely what candidate 0's prose describes \u2014 the baraita listing saduk as pasul and Rav Papa's distinction about the bifurcated spine.",
+      "chosen_heading": "Braita: Bent, Thorny",
+      "current_heading": "Braita: Bent, Thorny",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Bent Lulav",
+    "candidates": [
+      "Bent Lulav",
+      "Symmetry Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the bent-like-a-sickle case and Rava's forward/backward distinction plus Rav Na\u1e25man's side-curvature ruling, all of which are explicitly discussed in the 'Bent Lulav' prose.",
+      "chosen_heading": "Bent Lulav",
+      "current_heading": "Bent Lulav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Symmetry Requirement",
+    "candidates": [
+      "Symmetry Requirement",
+      "Nifretzu vs. Nifra\u0434\u0443"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling about a lulav with leaves on only one side, which is exactly what the 'Symmetry Requirement' section's prose discusses and explicates.",
+      "chosen_heading": "Symmetry Requirement",
+      "current_heading": "Symmetry Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Nifretzu vs. Nifra\u0434\u0443",
+    "candidates": [
+      "Nifretzu vs. Nifra\u0434\u0443",
+      "Nifretzu as Broom",
+      "Split Tip Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's explanation that 'nifretzu' means made like a broom ('ke'hufya') and 'nifra\u0434\u0443' means merely spread apart, which directly matches the 'Nifretzu as Broom' section's prose about Rav Papa's broom explanation.",
+      "chosen_heading": "Nifretzu as Broom",
+      "current_heading": "Nifretzu vs. Nifra\u0434\u0443",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Split Tip Issue",
+    "candidates": [
+      "Nifretzu as Broom",
+      "Split Tip Issue",
+      "Rashi: Full Separation",
+      "Binding Fanned Leaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Pappa's dilemma about a split twin-leaf (nechleka hatayomes) and the two versions of Rabbi Yehoshua ben Levi's ruling, which is precisely what the 'Split Tip Issue' prose describes.",
+      "chosen_heading": "Split Tip Issue",
+      "current_heading": "Split Tip Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Binding Fanned Leaves",
+    "candidates": [
+      "Rashi: Full Separation",
+      "Binding Fanned Leaves",
+      "Kapot Tmarim Debate",
+      "Charuta Problem",
+      "Uptzala Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Binding Fanned Leaves",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehuda/Rabbi Tarfon's ruling that spread lulav leaves must be bound, which matches exactly the 'Binding Fanned Leaves' prose about binding spread leaves using the term kapot tmarim.",
+      "second_heading": "Kapot Tmarim Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravina's foundational question to Rav Ashi about how we know kapot tmarim refers to the lulav, which matches the 'Kapot Tmarim Debate' prose describing precisely this question about which part of the palm tree the verse references.",
+      "current_heading": "Binding Fanned Leaves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Uptzala Problem",
+    "candidates": [
+      "Kapot Tmarim Debate",
+      "Charuta Problem",
+      "Uptzala Problem",
+      "Kufra Case",
+      "Pleasant Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the rejection of 'uptzala' (the trunk) as a candidate for kapot tmarim, which exactly matches the 'Uptzala Problem' section's prose about the gemara rejecting the trunk because kaput implies separate elements that can be bound, not a perpetually unified structure.",
+      "chosen_heading": "Uptzala Problem",
+      "current_heading": "Uptzala Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Pleasant Ways",
+    "candidates": [
+      "Kufra Case",
+      "Pleasant Ways",
+      "Kapot Singular"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the kufra question AND Abaye's pleasant-ways answer as a single unit, and candidate 0 ('Kufra Case') introduces the kufra suggestion while candidate 1 covers only Abaye's response \u2014 since the gemara excerpt is a single exchange, it belongs under the heading that introduces the question (kufra), with Abaye's answer being the resolution of that case.",
+      "chosen_heading": "Kufra Case",
+      "current_heading": "Pleasant Ways",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Kapot Singular",
+    "candidates": [
+      "Pleasant Ways",
+      "Kapot Singular",
+      "Lulav Identified",
+      "Halacha Tradition",
+      "Leaf Overlap Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the content described in the 'Kapot Singular' prose \u2014 Rava Tosfa'ah's question about two palm clusters, the response that kapat is written without a vav, and the further question/answer about why it can't mean just one cluster (kaf vs. kapot).",
+      "chosen_heading": "Kapot Singular",
+      "current_heading": "Kapot Singular",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Leaf Overlap Rule",
+    "candidates": [
+      "Lulav Identified",
+      "Halacha Tradition",
+      "Leaf Overlap Rule",
+      "Mishna-Braita Harmony",
+      "Gei Ben Hinnom"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Leaf Overlap Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Abaye's ruling and the baraita that supports it, matching heading 2's prose about Abaye establishing the leaf-overlap distinction and the kasher/pasul ruling.",
+      "second_heading": "Mishna-Braita Harmony",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the contradiction between mishnah and baraita as a formal challenge resolved by Abaye, which matches heading 3's prose about harmonizing the apparent contradiction between the mishnah (kasher) and the baraita (pasul).",
+      "current_heading": "Leaf Overlap Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Gei Ben Hinnom",
+    "candidates": [
+      "Mishna-Braita Harmony",
+      "Gei Ben Hinnom",
+      "Three and Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the two palm trees in the Valley of Ben Hinnom and identifies the site as the entrance to Gehenna, which is precisely what the 'Gei Ben Hinnom' section prose discusses.",
+      "chosen_heading": "Gei Ben Hinnom",
+      "current_heading": "Gei Ben Hinnom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Three and Four",
+    "candidates": [
+      "Three and Four",
+      "Spine Protrusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the minimum measures of lulav (four handbreadths) and hadas/aravah (three handbreadths) so the lulav protrudes one tefach above the hadas, which is precisely what the 'Three and Four' section prose describes.",
+      "chosen_heading": "Three and Four",
+      "current_heading": "Three and Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Spine Protrusion",
+    "candidates": [
+      "Spine Protrusion",
+      "Three vs. Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Parnakh/Rabbi Yo\u1e25anan's ruling that the spine of the lulav must extend a handbreadth above the myrtle, which is precisely what the 'Spine Protrusion' section's prose discusses and explains in detail.",
+      "chosen_heading": "Spine Protrusion",
+      "current_heading": "Spine Protrusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Three vs. Four",
+    "candidates": [
+      "Three vs. Four",
+      "Five-Tefach Amah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the dispute between Shmuel and Rabbi Yochanan over whether the four-tefach lulav measurement includes or excludes the leaves, which is precisely what the 'Three vs. Four' section prose describes.",
+      "chosen_heading": "Three vs. Four",
+      "current_heading": "Three vs. Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Five-Tefach Amah",
+    "candidates": [
+      "Five-Tefach Amah",
+      "5/6 Tefach Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the shiur of hadas/aravah/lulav, Rabbi Tarfon's five-tefach amah, Rava's objection, Rav Dimi's interpretation of enlarged tefachim, and the Shmuel contradiction \u2014 exactly the content described in candidate 0's prose about the five-tefach amah discussion.",
+      "chosen_heading": "Five-Tefach Amah",
+      "current_heading": "Five-Tefach Amah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "5/6 Tefach Standard",
+    "candidates": [
+      "5/6 Tefach Standard",
+      "Hadas Invalid Cases",
+      "Berries Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Ravin's 5/6 tefach interpretation and the resolution of Shmuel's apparent contradiction via 'lo dak l'chumra,' which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "5/6 Tefach Standard",
+      "current_heading": "5/6 Tefach Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Berries Problem",
+    "candidates": [
+      "Hadas Invalid Cases",
+      "Berries Problem",
+      "Anaf Etz Avot",
+      "Eliminating Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full Mishna text covering all the hadas invalid cases (stolen, dry, asheira, ir nidachat, severed top, fallen leaves, excess berries), which maps directly to heading 0's prose that summarizes all these disqualifications together, whereas heading 1's prose focuses only on the berries-specific discussion which is just one clause of this Mishna.",
+      "chosen_heading": "Hadas Invalid Cases",
+      "current_heading": "Berries Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Eliminating Trees",
+    "candidates": [
+      "Anaf Etz Avot",
+      "Eliminating Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the identification of the myrtle from 'anaf etz avot,' the elimination of olive, plane tree, and oleander, plus the baraita about dense-leaved vs. non-dense-leaved \u2014 are precisely what candidate 1 ('Eliminating Trees') describes in its prose, including the specific trees and the reasoning used to rule each out.",
+      "chosen_heading": "Eliminating Trees",
+      "current_heading": "Eliminating Trees",
+      "moved": false
+    }
+  }
+]

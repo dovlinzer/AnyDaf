@@ -1,0 +1,386 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Testing Comparisons",
+    "candidates": [
+      "Braisa Overview",
+      "Testing Comparisons",
+      "Tosafot: Opening Analysis",
+      "Rav Yitzchak's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's full text covers all three items (techelet, tefillin, and sefarim/mezuzot) as a single unit, and the 'Braisa Overview' section is explicitly introduced as presenting this opening braisa with its central ruling, making it the natural home for the complete quoted text rather than splitting it under a subsequent analytical section.",
+      "chosen_heading": "Braisa Overview",
+      "current_heading": "Testing Comparisons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rav Yitzchak's Test",
+    "candidates": [
+      "Tosafot: Opening Analysis",
+      "Rav Yitzchak's Test",
+      "Rav Adda's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe Rav Yitz\u1e25ak son of Rav Yehuda's testing method for tekhelet \u2014 the challenge to the braisa, the mnemonic, the ingredients, and the result criteria \u2014 which is exactly what the prose under 'Rav Yitzchak's Test' discusses.",
+      "chosen_heading": "Rav Yitzchak's Test",
+      "current_heading": "Rav Yitzchak's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rav Adda's Test",
+    "candidates": [
+      "Rav Adda's Test",
+      "Testing Paradox",
+      "Mamshichi Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Adda's Test",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rav Adda's test with barley yeast, which is precisely what heading 0 ('Rav Adda's Test') discusses.",
+      "second_heading": "Testing Paradox",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains the baraita's phrase 'ein lah bedika' as referring to the act of tasting/sampling the dye, which is exactly what heading 1 ('Testing Paradox') discusses with 'a'teima'.",
+      "current_heading": "Rav Adda's Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Mamshichi Case",
+    "candidates": [
+      "Testing Paradox",
+      "Mamshichi Case",
+      "Sequential Test Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the Mar from Mashkhei case \u2014 the contradictory test results and Rav Achai's initial response \u2014 which matches exactly what the 'Mamshichi Case' prose describes, before the sequential test logic resolution covered in heading 2.",
+      "chosen_heading": "Mamshichi Case",
+      "current_heading": "Mamshichi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Sequential Test Logic",
+    "candidates": [
+      "Sequential Test Logic",
+      "Tosafot Solution",
+      "From Non-Jews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the sequential test logic (first Rav Yitzchak's test, then Rav Adda's test as a tie-breaker, concluding with 'shmu'ah ahadadi itmar') that Candidate 0's prose explicitly discusses.",
+      "chosen_heading": "Sequential Test Logic",
+      "current_heading": "Sequential Test Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "From Non-Jews",
+    "candidates": [
+      "Tosafot Solution",
+      "From Non-Jews",
+      "From Jews",
+      "Selling Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Mani's careful purchasing practice, the baraita about buying a tallis metzuyetzes from Jews vs. gentile merchants vs. gentile laypeople, and the note about selling restrictions \u2014 are precisely the content described in the 'From Non-Jews' prose section, which covers all these elements in sequence.",
+      "chosen_heading": "From Non-Jews",
+      "current_heading": "From Non-Jews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Selling Restrictions",
+    "candidates": [
+      "From Jews",
+      "Selling Restrictions",
+      "Women & Tzitzit",
+      "Daily Blessing Puzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the two reasons for prohibiting sale of tzitzit garments to non-Jews (mishum zona and Rav Yehuda's murder concern), which is precisely what the 'Selling Restrictions' prose discusses.",
+      "chosen_heading": "Selling Restrictions",
+      "current_heading": "Selling Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Daily Blessing Puzzle",
+    "candidates": [
+      "Women & Tzitzit",
+      "Daily Blessing Puzzle",
+      "Blessing Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Yehuda's practice of affixing tzitzit to his wife's garment and the immediate inference that he holds it to be she-lo hazman grama, which is precisely what heading 0 ('Women & Tzitzit') discusses \u2014 the puzzle about the morning blessing (heading 1) only begins after this inference is established, and the passage does not yet reach that resolution.",
+      "chosen_heading": "Women & Tzitzit",
+      "current_heading": "Daily Blessing Puzzle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Blessing Resolution",
+    "candidates": [
+      "Daily Blessing Puzzle",
+      "Blessing Resolution",
+      "Universal Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the resolution of why Rav Yehuda blessed each morning \u2014 citing Rebbi's ruling that one blesses upon each donning, and explaining that Rav Yehuda's modesty meant he only donned once daily \u2014 which is precisely what the 'Blessing Resolution' prose discusses.",
+      "chosen_heading": "Blessing Resolution",
+      "current_heading": "Blessing Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Universal Obligation",
+    "candidates": [
+      "Universal Obligation",
+      "Kohanim Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita stating everyone is obligated in tzitzit with Rabbi Shimon's dissent exempting women, which directly matches the 'Universal Obligation' section's prose describing exactly this content.",
+      "chosen_heading": "Universal Obligation",
+      "current_heading": "Universal Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Kohanim Exclusion",
+    "candidates": [
+      "Kohanim Exclusion",
+      "Rabbi Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the gemara's analysis of why kohanim must be explicitly included in the tzitzit obligation despite their permitted use of kilayim during Temple service, which matches exactly the 'Kohanim Exclusion' prose.",
+      "chosen_heading": "Kohanim Exclusion",
+      "current_heading": "Kohanim Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Rabbi Shimon's View",
+      "Shema Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a single continuous exegetical unit about Rabbi Shimon's exemption of night garments and women from tzitzit, the derivation from u're'isem oso, the inclusion of blind persons' garments and five-cornered garments via asher t'khasse bah, and the Rabbis' counter-reading \u2014 exactly the content described in the 'Rabbi Shimon's View' prose.",
+      "chosen_heading": "Rabbi Shimon's View",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Shema Connection",
+    "candidates": [
+      "Shema Connection",
+      "Kilayim Connection",
+      "Causation Chain",
+      "Divine Presence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shema Connection",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly correspond to the 'Shema Connection' and 'Kilayim Connection' sections: item 1 is the Shema braisa and item 2 is the kilayim braisa, both discussed sequentially in those prose sections.",
+      "second_heading": "Causation Chain",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss obligation in all mitzvot and tzitzit being equivalent to all mitzvot, which matches the 'Causation Chain' section's discussion of the comprehensive symbolic role of tzitzit and the chain of seeing-remembering-doing all commandments.",
+      "current_heading": "Shema Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Divine Presence",
+    "candidates": [
+      "Kilayim Connection",
+      "Causation Chain",
+      "Divine Presence",
+      "Seven Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita explicitly discusses the causation chain of seeing\u2192remembering\u2192doing (re'iyah mevi'ah lidei zechirah, zechirah mevi'ah lidei asiyah), which is precisely what the 'Causation Chain' prose section discusses, while the Rabbi Shimon bar Yochai teaching about Divine Presence that follows is already described in the 'Divine Presence' prose as a closing to that section.",
+      "chosen_heading": "Causation Chain",
+      "current_heading": "Divine Presence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Seven Mitzvot",
+    "candidates": [
+      "Divine Presence",
+      "Seven Mitzvot",
+      "David's Comfort"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about God surrounding Israel with mitzvot (tefillin, tzitzit, mezuzah) and David's 'seven times' verse, which is exactly what the 'Seven Mitzvot' section prose describes and analyzes.",
+      "chosen_heading": "Seven Mitzvot",
+      "current_heading": "Seven Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "David's Comfort",
+    "candidates": [
+      "David's Comfort",
+      "Three-Cord String"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes David's distress at being naked without a mitzvah, his comfort upon remembering circumcision, and his subsequent psalm about milah on the eighth day \u2014 exactly what the 'David's Comfort' prose discusses in detail.",
+      "chosen_heading": "David's Comfort",
+      "current_heading": "David's Comfort",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Three-Cord String",
+    "candidates": [
+      "Three-Cord String",
+      "Rabbi Meir Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Three-Cord String' section prose, which discusses Rabbi Eliezer ben Yaakov's teaching about tefillin, tzitzit, mezuzah, and the threefold cord verse \u2014 exactly the content of this quoted text.",
+      "chosen_heading": "Three-Cord String",
+      "current_heading": "Three-Cord String",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rabbi Meir Derivation",
+    "candidates": [
+      "Rabbi Meir Derivation",
+      "Keren Ora Insight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's teaching about tekhelet and the chain of resemblances (sea\u2192sky\u2192Throne of Glory) with the two supporting verses, which is precisely what the 'Rabbi Meir Derivation' prose section discusses.",
+      "chosen_heading": "Rabbi Meir Derivation",
+      "current_heading": "Rabbi Meir Derivation",
+      "moved": false
+    }
+  }
+]

@@ -1,6 +1,7 @@
-# Nazir 2 — Daf Yomi Shiur
-
+[DAF:2a]
 ## Intro to Nazir
+
+
 
 ### Opening & Dedication
 
@@ -28,19 +29,13 @@ The *gemara* will address momentarily why *Nazir* belongs in *Seder Nashim*. The
 
 ## Kinuyim & Yadot
 
-### Kinuyim Principle
 
-> **Hebrew/Aramaic:** כׇּל כִּינּוּיֵי נְזִירוּת — כִּנְזִירוּת.
->
-> **Translation:** MISHNA: **All substitutes** for the language **of nazirite vows are like nazirite vows** and are binding. Furthermore, intimations of nazirite vows, i.e., incomplete statements that are understood from context to be meant as nazirite vows, are considered binding nazirite vows.
+
+### Kinuyim Principle
 
 The *mishnah* opens: *kol kinuyei nezirut ke-nezirut* — all substitute expressions for *nezirut* carry the same legal force as *nezirut* itself. Even non-standard terminology, if it functions as a stand-in for the formal term, suffices to make one a *nazir*.
 
 ### Elliptical Speech
-
-> **Hebrew/Aramaic:** הָאוֹמֵר ״אֱהֵא״ — הֲרֵי זֶה נָזִיר, אוֹ ״אֱהֵא נָאֶה״ — נָזִיר, ״נָזִיק״, ״נָזִיחַ״, ״פָּזִיחַ״ — הֲרֵי זֶה נָזִיר. ״הֲרֵינִי כָּזֶה״, ״הֲרֵינִי מְסַלְסֵל״, ״הֲרֵינִי מְכַלְכֵּל״, ״הֲרֵי עָלַי לְשַׁלֵּחַ פֶּרַע״ — הֲרֵי זֶה נָזִיר.
->
-> **Translation:** Consequently, **one who says: I will be,** without further clarification, **is a nazirite,** as this is his implied intention. **Or,** if he said: **I will be beautiful,** he is **a nazirite.** The substitutes for the language of nazirite vows are as follows: If one says: I will be **a *nazik*,** a ***nazi'aḥ*,** or **a *pazi'aḥ*, he is a nazirite.** If one says: **I am hereby like this, I am hereby** a hair **curler, I am hereby growing** my **hair;** or: **It is** incumbent **upon me to grow long hair, he is a nazirite.**
 
 The *mishnah* then states: *ha-omer ahei, harei zeh nazir* — one who says "I will be," without completing the sentence, is a *nazir*. This is striking: the sentence is entirely open-ended. One could fill in that blank with any number of things. The *gemara* will explain that this case applies specifically where a *nazir* is passing in front of the speaker, such that the context fills in the ellipsis.
 
@@ -58,14 +53,15 @@ The *Ran* in *Nedarim* argued that the entire concept of language is conventiona
 
 ## Allusions & Context
 
+
+
 ### Allusive Phrases
 
 The *mishnah* continues with further examples: *harei ka-ze* — "I am like this one," presumably said while looking at a *nazir*; *harei alai mesalsel* — "I will twirl my hair"; *harei alai mechalkel* — similarly referring to attending to one's hair; and *harei alai l'shaleach pera* — "I will let my hair grow wild." In all these cases, *harei zeh nazir* — the person is a *nazir*. These are what one might call allusions with legal force: the words do not literally mean *nazir*, but the phrase, taken in context, communicates an unambiguous intent to accept *nezirut*.
 
 ### Bird Offerings
 
-> **Hebrew/Aramaic:** ״הֲרֵי עָלַי צִיפּוֹרִים״ — רַבִּי מֵאִיר אוֹמֵר: נָזִיר. וַחֲכָמִים אוֹמְרִים: אֵינוֹ נָזִיר.
->
+> **Hebrew/Aramaic:** ״הֲרֵי עָלַי צִיפּוֹרִים״ — רַבִּי מֵאִיר אוֹמֵר: נָזִיר. וַחֲכָמִים אוֹמְרִים: אֵינוֹ נָזִיר.
 > **Translation:** If one says: An obligation **is hereby** incumbent **upon me** with regard to **birds, Rabbi Meir says: He is a nazirite.** A nazirite brings two bird-offerings if he inadvertently becomes ritually impure from a corpse (Numbers 6:10), and it is understood that the individual used this indirect phrase to take a vow of naziriteship. **And the Sages say: He is not a nazirite.**
 
 A more ambiguous case follows: *harei alai tziporin* — "I hereby undertake [an obligation of] birds." Bird offerings are indeed part of the *nazir*'s *korbanot* at the conclusion of *nezirut*, but they are also the offering of a *metzora*. The statement thus does not unambiguously point to *nezirut* specifically.
@@ -77,6 +73,8 @@ A more ambiguous case follows: *harei alai tziporin* — "I hereby undertake [an
 ---
 
 ## Kinuyim & Yadot (II)
+
+
 
 ### Tosfos Analysis
 
@@ -102,19 +100,19 @@ What is interesting here is the phrase *ke'ilu amar bi-lashon ha-katuv ba-Torah*
 
 ## Why Seder Nashim
 
+
+
 ### Gemara Opening
 
-> **Hebrew/Aramaic:** גְּמָ׳ מִכְּדֵי תַּנָּא בְּסֵדֶר נָשִׁים קָאֵי, מַאי טַעְמָא תָּנֵי נָזִיר?
->
+> **Hebrew/Aramaic:** גְּמָ׳ מִכְּדֵי תַּנָּא בְּסֵדֶר נָשִׁים קָאֵי, מַאי טַעְמָא תָּנֵי נָזִיר?
 > **Translation:** GEMARA: The Gemara begins by clarifying why this tractate appears in the order of *Nashim* within the six orders of the Mishna. **Now, the *tanna* is engaged in** the study of **the order of *Nashim*,** which discusses laws concerning marriage and the resulting obligations as well as with forbidden sexual relations. **What** then **is the reason** that he **teaches** the laws of the **nazirite** here?
 
 The *gemara* opens by asking: *tana be-seder nashim ka-ei* — we are in *Seder Nashim*. *Mai ta'ama tani Nazir?* — what is the reason *Nazir* is taught here? As noted above, the simplest answer is that it follows *Nedarim*, and *Nedarim* belongs in *Nashim* because the Torah's primary treatment of *nedarim* concerns the husband's and father's power to annul. *Nazir* follows naturally in that wake.
 
 ### Sotah & Wine
 
-> **Hebrew/Aramaic:** תַּנָּא אַקְּרָא קָאֵי: ״וְהָיָה אִם לֹא תִמְצָא חֵן בְּעֵינָיו כִּי מָצָא בָהּ עֶרְוַת דָּבָר״. וְהָכִי קָאָמַר: מִי גָּרַם לָהּ לָעֲבֵירָה — יַיִן, וְקָאָמַר: כׇּל הָרוֹאֶה סוֹטָה בְּקִלְקוּלָהּ יַזִּיר עַצְמוֹ מִן הַיַּיִן.
->
-> **Translation:** The Gemara answers: **The *tanna* is engaged in** the study of **the verse** pertaining to divorce: **"Then it comes to pass, if she finds no favor in his eyes, because he has found some unseemly matter about her"** (Deuteronomy 24:1). **And this is what he is saying: What caused** the woman **to** commit the **transgression** of adultery, alluded to in the verse by the phrase "unseemly matter"? It was **wine. And** the *tanna* is **saying: Anyone who sees a *sota* in her disgrace should abstain from wine.** Consequently, tractate *Nazir* is placed in the order of *Nashim*, immediately preceding tractate *Sota*, which is about a woman suspected by her husband of having been unfaithful, and tractate *Gittin*, which discusses divorce.
+> **Hebrew/Aramaic:** תַּנָּא אַקְּרָא קָאֵי: ״וְהָיָה אִם לֹא תִמְצָא חֵן בְּעֵינָיו כִּי מָצָא בָהּ עֶרְוַת דָּבָר״. וְהָכִי קָאָמַר: מִי גָּרַם לָהּ לָעֲבֵירָה — יַיִן, וְקָאָמַר: כׇּל הָרוֹאֶה סוֹטָה בְּקִלְקוּלָהּ יַזִּיר עַצְמוֹ מִן הַיַּיִן.
+> **Translation:** The Gemara answers: **The *tanna* is engaged in** the study of **the verse** pertaining to divorce: **“Then it comes to pass, if she finds no favor in his eyes, because he has found some unseemly matter about her”** (Deuteronomy 24:1). **And this is what he is saying: What caused** the woman **to** commit the **transgression** of adultery, alluded to in the verse by the phrase “unseemly matter”? It was **wine. And** the *tanna* is **saying: Anyone who sees a *sota* in her disgrace should abstain from wine.** Consequently, tractate *Nazir* is placed in the order of *Nashim*, immediately preceding tractate *Sota*, which is about a woman suspected by her husband of having been unfaithful, and tractate *Gittin*, which discusses divorce.
 
 The *gemara*, however, offers a substantive reason of its own: *tana kra ka-ei* — the *tanna* is anchored in a biblical context. The verse discusses a husband divorcing his wife because of *ervat davar* — presumed adultery. *Mi garam lah la-aveirah?* — what caused her to sin? *Yayin* — wine. And therefore: *kol ha-ro'eh sotah be-kilkulah* — anyone who sees a *sotah* in her disgrace, as her hair is disheveled and she undergoes the ordeal, should recognize that her downfall was caused by wine and the pursuit of sensual pleasure. The appropriate response is *yazir atzmo min ha-yayin* — to disavow wine, that is, to become a *nazir*. It is worth noting the irony that this reasoning is addressed entirely to a male audience — it is the man who sees the *sotah* and resolves to become a *nazir*. One might have expected the reasoning to apply symmetrically, but the *gemara*'s framing reflects how completely the lens here is male.
 
@@ -126,67 +124,72 @@ Because *nazir* is thus connected to *sotah*, and *sotah* is placed in *Seder Na
 
 ## A-B-B-A Structure
 
+
+
 ### Missing Yadot
 
-> **Hebrew/Aramaic:** פָּתַח בְּכִינּוּיִין, וּמְפָרֵשׁ יָדוֹת.
->
-> **Translation:** § The Gemara asks a question with regard to the mishna's presentation of the different topics it addresses: The *tanna* **began with** the statement that all **substitutes** for the language of nazirite vows are considered nazirite vows, **but** then it **explains** the *halakha* of **intimations** of nazirite vows by providing examples of intimations rather than examples of substitutes for nazirite vows. Why didn't the mishna provide examples of substitutes immediately after stating the *halakha* concerning substitutes?
+> **Hebrew/Aramaic:** פָּתַח בְּכִינּוּיִין, וּמְפָרֵשׁ יָדוֹת.
+> **Translation:** § The Gemara asks a question with regard to the mishna’s presentation of the different topics it addresses: The *tanna* **began with** the statement that all **substitutes** for the language of nazirite vows are considered nazirite vows, **but** then it **explains** the *halakha* of **intimations** of nazirite vows by providing examples of intimations rather than examples of substitutes for nazirite vows. Why didn’t the mishna provide examples of substitutes immediately after stating the *halakha* concerning substitutes?
+
+> **Hebrew/Aramaic:** אָמַר רָבָא, וְאִיתֵּימָא כְּדִי: חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: כׇּל כִּינּוּיֵי נְזִירוּת — כִּנְזִירוּת, וִידוֹת נְזִירוּת — כִּנְזִירוּת, וְאֵלּוּ הֵן יָדוֹת: הָאוֹמֵר ״אֱהֵא״ — הֲרֵי זֶה נָזִיר.
+> **Translation:** **Rava said, and some say** this statement **without attribution [*kedi*]:** The mishna **is incomplete and is teaching the following: All substitutes** for the language **of nazirite vows are like nazirite vows. And** similarly, all **intimations of nazirite vows are like nazirite vows. And these are** examples of **intimations: One who says: I will be, is a nazirite.**
 
 Having established why *Nazir* belongs in *Seder Nashim*, the *gemara* turns to an internal structural question about the *mishnah* itself. The *mishnah* opened by stating *kol kinuyei nezirut ke-nezirut* — the principle of *kinuyim* — but its first concrete example was *ahei*, which is not a *kinuy* at all, but a *yad*, an elliptical sentence. So the *mishnah* seems to announce one principle and immediately illustrate a different one.
 
-### Rava's Resolution
-
-> **Hebrew/Aramaic:** אָמַר רָבָא, וְאִיתֵּימָא כְּדִי: חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: כׇּל כִּינּוּיֵי נְזִירוּת — כִּנְזִירוּת, וִידוֹת נְזִירוּת — כִּנְזִירוּת, וְאֵלּוּ הֵן יָדוֹת: הָאוֹמֵר ״אֱהֵא״ — הֲרֵי זֶה נָזִיר.
->
-> **Translation:** **Rava said, and some say** this statement **without attribution [*kedi*]:** The mishna **is incomplete and is teaching the following: All substitutes** for the language **of nazirite vows are like nazirite vows. And** similarly, all **intimations of nazirite vows are like nazirite vows. And these are** examples of **intimations: One who says: I will be, is a nazirite.**
-
 *Rava* (and some say it was stated anonymously) resolves this by the principle of *hisurei mihasra ve-hachi katani* — the *mishnah* is missing text and must be read as follows: *kol kinuyei nezirut ke-nezirut, ve-yadot nezirut ke-nezirut* — both *kinuyim* and *yadot* are effective. The *mishnah* implicitly includes *yadot* alongside *kinuyim*. The examples of *ahei* and *ahei na'eh* are then the illustrations of *yadot*, while *nazik, naziach, paziach* are the illustrations of *kinuyim*.
-
-### Parallel A-B-B-A Examples
-
-> **Hebrew/Aramaic:** וְלִפְרוֹשׁ כִּינּוּיֵי בְּרֵישָׁא! תַּנָּא מֵהָהוּא דְּסָלֵיק — הָהוּא מְפָרֵשׁ בְּרֵישָׁא. כְּדִתְנַן: בַּמֶּה מַדְלִיקִין וּבַמָּה אֵין מַדְלִיקִין, וּמְפָרֵשׁ ״אֵין מַדְלִיקִין״ בְּרֵישָׁא.
->
-> **Translation:** The Gemara asks: **But** nevertheless, **let** the *tanna* **explain** the cases of **substitutes first,** before providing examples of intimations, as the *halakha* of substitutes is mentioned before the *halakha* of intimations. The Gemara answers: The ***tanna*** employs the general style of the Mishna, which is that **the** subject **with which it concludes is the one that it explains first, as we learned** in a mishna (*Shabbat* 20b): **With what may one light** the Shabbat lamp **and with what may one not light** it? **And** the mishna **explains** the details of what **one may not light first,** before providing examples of fuel that may be used to light the Shabbat lamp.
 
 But this raises a further question: if we are inserting both categories, and the *mishnah* announced *kinuyim* first, why does it illustrate *yadot* first? The *gemara* notes that the *mishnah* appears to follow an A-B-B-A structure — announcing two categories and then discussing them in reverse order. Why would it do so?
 
-### More Parallel Examples
+### Precedent Examples
 
-> **Hebrew/Aramaic:** בַּמֶּה טוֹמְנִין וּבַמָּה אֵין טוֹמְנִין, וּמְפָרֵשׁ ״אֵין טוֹמְנִין״ בְּרֵישָׁא. בַּמָּה אִשָּׁה יוֹצְאָה וּבַמָּה אֵינָהּ יוֹצְאָה, וּמְפָרֵשׁ ״לֹא תֵּצֵא אִשָּׁה״ בְּרֵישָׁא.
->
-> **Translation:** Similarly, another mishna (*Shabbat* 47b) states: **In what may one insulate** a pot of cooked food on Shabbat eve, **and in what may one not insulate** it? **And** the mishna **explains** the cases of material in which **one may not insulate** it **first,** before providing examples of materials in which one may insulate a pot of cooked food. A third example of this style is in the following mishna (*Shabbat* 57a): **With what** items may **a woman go out** into the public domain on Shabbat **and with what** items may **she not go out? And** the mishna **explains** the items with which **a woman may not go out first,** before providing examples of items with which she may go out.
+> **Hebrew/Aramaic:** וְלִפְרוֹשׁ כִּינּוּיֵי בְּרֵישָׁא! תַּנָּא מֵהָהוּא דְּסָלֵיק — הָהוּא מְפָרֵשׁ בְּרֵישָׁא. כְּדִתְנַן: בַּמֶּה מַדְלִיקִין וּבַמָּה אֵין מַדְלִיקִין, וּמְפָרֵשׁ ״אֵין מַדְלִיקִין״ בְּרֵישָׁא.
+> **Translation:** The Gemara asks: **But** nevertheless, **let** the *tanna* **explain** the cases of **substitutes first,** before providing examples of intimations, as the *halakha* of substitutes is mentioned before the *halakha* of intimations. The Gemara answers: The ***tanna*** employs the general style of the Mishna, which is that **the** subject **with which it concludes is the one that it explains first, as we learned** in a mishna (*Shabbat* 20b): **With what may one light** the Shabbat lamp **and with what may one not light** it? **And** the mishna **explains** the details of what **one may not light first,** before providing examples of fuel that may be used to light the Shabbat lamp.
+
+> **Hebrew/Aramaic:** בַּמֶּה טוֹמְנִין וּבַמָּה אֵין טוֹמְנִין, וּמְפָרֵשׁ ״אֵין טוֹמְנִין״ בְּרֵישָׁא.
+> **Translation:** Similarly, another mishna (*Shabbat* 47b) states: **In what may one insulate** a pot of cooked food on Shabbat eve, **and in what may one not insulate** it? **And** the mishna **explains** the cases of material in which **one may not insulate** it **first,** before providing examples of materials in which one may insulate a pot of cooked food.
+
+> **Hebrew/Aramaic:** בַּמָּה אִשָּׁה יוֹצְאָה וּבַמָּה אֵינָהּ יוֹצְאָה, וּמְפָרֵשׁ ״לֹא תֵּצֵא אִשָּׁה״ בְּרֵישָׁא.
+> **Translation:** A third example of this style is in the following mishna (*Shabbat* 57a): **With what** items may **a woman go out** into the public domain on Shabbat **and with what** items may **she not go out? And** the mishna **explains** the items with which **a woman may not go out first,** before providing examples of items with which she may go out.
+
 
 The *gemara* adduces parallel examples from other *mishnayot*. *Bameh madlikin u-vameh ein madlikin* — the *mishnah* in *Shabbos* discusses what one may and may not use as a wick, and it discusses what one may *not* use first. *Bameh tomnin u-vameh ein tomnin* — the *mishnah* about insulating food discusses the prohibited cases first. *Bameh ishah yotza u-vameh eino yotza* — the *mishnah* about what a woman may carry on *Shabbos* similarly starts with the prohibited. In all these cases, the *mishnah* names both options (A and B) and then discusses B before A — a classic A-B-B-A structure.
 
-### Exception: Non-Personal Cases
+It is worth noting, however, that these examples are not quite as perfectly A-B-B-A as they might first appear. They are, in a more precise sense, A-B-B: the *mishnah* does not actually enumerate every permitted wick or every permitted form of insulation — the permitted category is effectively open-ended and cannot be exhaustively listed. What the *mishnah* does is identify the restricted class, because that is the finite, actionable set. So the structure is less a symmetrical chiasm and more a practical asymmetry: announce both poles, then focus on the one that can actually be catalogued. The underlying principle the *gemara* draws from these cases is stated as *tana me'hahu de'salik hu me'faresh be'reisha* — the *tanna* expounds first on the last topic mentioned. That is, when two categories are introduced, the discussion opens with whichever one was named second — a convention these parallel *mishnayot* all reflect.
 
-> **Hebrew/Aramaic:** וְהָתְנַן: בַּמֶּה בְּהֵמָה יוֹצְאָה וּבַמָּה אֵינָהּ יוֹצְאָה, וּמְפָרֵשׁ ״יוֹצֵא גָּמָל״ בְּרֵישָׁא. יֵשׁ נוֹחֲלִין וּמַנְחִילִין, נוֹחֲלִין וְלֹא מַנְחִילִין, מַנְחִילִין וְלֹא נוֹחֲלִין, לֹא נוֹחֲלִין וְלֹא מַנְחִילִין, וּמְפָרֵשׁ ״אֵלּוּ נוֹחֲלִין וּמַנְחִילִין״ בְּרֵישָׁא!
->
-> **Translation:** The Gemara challenges this explanation: **But didn't we learn** in a mishna (*Shabbat* 51b): **With what may an animal go out** into the public domain on Shabbat, **and with what may it not go out? And it explains** the items with which **a camel may go out first,** before providing examples of items with which it may not go out. Similarly, it is taught in another mishna (*Bava Batra* 108a): **There are** some relatives who **inherit and bequeath,** e.g., a father and son, who are heirs to each other; some who **inherit but do not bequeath;** some **bequeath but do not inherit;** and some **do not inherit and do not bequeath. And** the mishna **explains** the cases of **those** who both **inherit and bequeath first,** before providing examples of the other categories that were mentioned later in the opening clause of the mishna.
+[DAF:2b]
+### Exception Rules
+
+> **Hebrew/Aramaic:** וְהָתְנַן: בַּמֶּה בְּהֵמָה יוֹצְאָה וּבַמָּה אֵינָהּ יוֹצְאָה, וּמְפָרֵשׁ ״יוֹצֵא גָּמָל״ בְּרֵישָׁא.
+> **Translation:** The Gemara challenges this explanation: **But didn’t we learn** in a mishna (*Shabbat* 51b): **With what may an animal go out** into the public domain on Shabbat, **and with what may it not go out? And it explains** the items with which **a camel may go out first,** before providing examples of items with which it may not go out.
+
+> **Hebrew/Aramaic:** יֵשׁ נוֹחֲלִין וּמַנְחִילִין, נוֹחֲלִין וְלֹא מַנְחִילִין, מַנְחִילִין וְלֹא נוֹחֲלִין, לֹא נוֹחֲלִין וְלֹא מַנְחִילִין, וּמְפָרֵשׁ ״אֵלּוּ נוֹחֲלִין וּמַנְחִילִין״ בְּרֵישָׁא!
+> **Translation:** Similarly, it is taught in another mishna (*Bava Batra* 108a): **There are** some relatives who **inherit and bequeath,** e.g., a father and son, who are heirs to each other; some who **inherit but do not bequeath;** some **bequeath but do not inherit;** and some **do not inherit and do not bequeath. And** the mishna **explains** the cases of **those** who both **inherit and bequeath first,** before providing examples of the other categories that were mentioned later in the opening clause of the mishna.
+
+> **Hebrew/Aramaic:** אֶלָּא, לְעוֹלָם תָּנֵי הָכִי וְתָנֵי הָכִי.
+> **Translation:** **Rather,** the mishna **actually teaches** in **this** manner at times, **and** it **teaches** in **that** manner at other times. There are instances where the *tanna* begins by elaborating on the first principle mentioned in the mishna, while on other occasions he first elaborates upon the last principle mentioned.
+
+> **Hebrew/Aramaic:** אֶלָּא: הָתָם, דְּאִיסּוּרָא דְנַפְשֵׁיהּ הוּא — מְפָרֵשׁ אִיסּוּרָא דְנַפְשֵׁיהּ בְּרֵישָׁא. גַּבֵּי בְּהֵמָה, דְּאִיסּוּרָא אַיְּידֵי בְּהֵמָה הוּא דְּאָתֵי — מְפָרֵשׁ הֶיתֵּירָא בְּרֵישָׁא.
+> **Translation:** **However,** there is a rationale as to when the *tanna* employs each style. **There,** in the passages concerning the fuels one may use to light the Shabbat lamp, the materials one may use to insulate a pot on Shabbat eve, and the items with which a woman may go out on Shabbat to the public domain, **where it is** the individual’s **own prohibition** that is being discussed, the *tanna* **explains** the cases pertaining to the individual’s **own prohibition first.** By contrast, **with regard to** the mishna that addresses **an animal** carrying into the public domain on Shabbat, **where the prohibition comes by means of** the **animal,** the *tanna* **explains** what is **permitted first.**
+
+> **Hebrew/Aramaic:** גַּבֵּי ״יֵשׁ נוֹחֲלִין״ נָמֵי, מְפָרֵשׁ עִיקַּר נַחֲלָה בְּרֵישָׁא.
+> **Translation:** Similarly, **with regard to** the mishna that teaches that **there are** some relatives who **inherit** and bequeath, the *tanna* **also** had a reason for initially providing examples from the first category: He thereby **explains the principal** case of the Torah’s *halakhot* of **inheritance first.**
 
 However, the *gemara* notes that this is not a universal rule. *Bameh behemah yotza u-vameh eino yotza* — the *mishnah* about what an animal may wear on *Shabbos* starts with the permitted cases, not the prohibited. And *yesh nochalin u-manhilin* — the *mishnah* about inheritance begins with the primary case (those who both inherit and bequeath), not the last category mentioned.
-
-### Underlying Logic
-
-> **Hebrew/Aramaic:** אֶלָּא, לְעוֹלָם תָּנֵי הָכִי וְתָנֵי הָכִי. אֶלָּא: הָתָם, דְּאִיסּוּרָא דְנַפְשֵׁיהּ הוּא — מְפָרֵשׁ אִיסּוּרָא דְנַפְשֵׁיהּ בְּרֵישָׁא. גַּבֵּי בְּהֵמָה, דְּאִיסּוּרָא אַיְּידֵי בְּהֵמָה הוּא דְּאָתֵי — מְפָרֵשׁ הֶיתֵּירָא בְּרֵישָׁא.
->
-> **Translation:** **Rather,** the mishna **actually teaches** in **this** manner at times, **and** it **teaches** in **that** manner at other times. There are instances where the *tanna* begins by elaborating on the first principle mentioned in the mishna, while on other occasions he first elaborates upon the last principle mentioned. **However,** there is a rationale as to when the *tanna* employs each style. **There,** in the passages concerning the fuels one may use to light the Shabbat lamp, the materials one may use to insulate a pot on Shabbat eve, and the items with which a woman may go out on Shabbat to the public domain, **where it is** the individual's **own prohibition** that is being discussed, the *tanna* **explains** the cases pertaining to the individual's **own prohibition first.** By contrast, **with regard to** the mishna that addresses **an animal** carrying into the public domain on Shabbat, **where the prohibition comes by means of** the **animal,** the *tanna* **explains** what is **permitted first.**
 
 So neither A-B-B-A nor A-B-A-B is a fixed rule. The *gemara* therefore articulates the underlying logic case by case. When the subject concerns personal prohibitions — what *you* may or may not do — the *mishnah* leads with the prohibited, because that is what demands attention and care. When the subject concerns the animal rather than the person directly (*behemah*), there is less urgency to foreground the prohibition, and the *mishnah* begins with the permitted. When the topic is inheritance (*nochalin*), the *mishnah* starts with the primary, normative case before moving to exceptions.
 
 ### Yadot Derasha
 
-> **Hebrew/Aramaic:** גַּבֵּי ״יֵשׁ נוֹחֲלִין״ נָמֵי, מְפָרֵשׁ עִיקַּר נַחֲלָה בְּרֵישָׁא. אֶלָּא [הָכָא] לִפְרוֹשׁ כִּינּוּיֵי בְּרֵישָׁא! אֶלָּא הַיְינוּ טַעַם: יָדוֹת, הוֹאִיל וְאָתְיָין לֵיהּ מִדְּרָשָׁא, חֲבִיבִין לֵיהּ.
->
-> **Translation:** Similarly, **with regard to** the mishna that teaches that **there are** some relatives who **inherit** and bequeath, the *tanna* **also** had a reason for initially providing examples from the first category: He thereby **explains the principal** case of the Torah's *halakhot* of **inheritance first.** The Gemara now returns to its question: **But here, let** the *tanna* **explain** the cases of **substitutes first.** The Gemara explains: **Rather, this is** the **reason: Since intimations are derived from** the **exposition** of verses and are not explicitly mentioned in the Torah, they are **dear to** the *tanna* and he therefore mentions them first.
-
 What then is the logic here in *Nazir*? Why illustrate *yadot* before *kinuyim*? The *gemara* answers: *yadot hava de-atu leh midrashah chavivi leh* — the concept of *yad* is derived from a *pasuk* through *derasha*. Things derived through rabbinic *derasha* from scriptural texts occupy a beloved place; the rabbis cherish what they have derived from close reading of *pesukim* and wish to discuss it first as the concrete illustrative case. Hence, even though *kinuyim* was announced first, the *yadot* are illustrated first because they carry the prestige of scriptural derivation.
 
-### Why Announce Kinuyim First
+> **Hebrew/Aramaic:** אֶלָּא [הָכָא] לִפְרוֹשׁ כִּינּוּיֵי בְּרֵישָׁא! אֶלָּא הַיְינוּ טַעַם: יָדוֹת, הוֹאִיל וְאָתְיָין לֵיהּ מִדְּרָשָׁא, חֲבִיבִין לֵיהּ.
+> **Translation:** The Gemara now returns to its question: **But here, let** the *tanna* **explain** the cases of **substitutes first.** The Gemara explains: **Rather, this is** the **reason: Since intimations are derived from** the **exposition** of verses and are not explicitly mentioned in the Torah, they are **dear to** the *tanna* and he therefore mentions them first.
 
-> **Hebrew/Aramaic:** וְלִיפְתַּח בְּהוֹן בְּרֵישָׁא! תַּנָּא כִּי מַתְחִיל — מַתְחִיל בְּעִיקַּר קׇרְבָּן, וּלְעִנְיַן פָּירוּשֵׁי — מְפָרֵשׁ יָדוֹת בְּרֵישָׁא.
->
+> **Hebrew/Aramaic:** וְלִיפְתַּח בְּהוֹן בְּרֵישָׁא! תַּנָּא כִּי מַתְחִיל — מַתְחִיל בְּעִיקַּר קׇרְבָּן, וּלְעִנְיַן פָּירוּשֵׁי — מְפָרֵשׁ יָדוֹת בְּרֵישָׁא.
 > **Translation:** The Gemara asks: **But** if that is so, then **let him begin with them first** in the opening clause of the mishna as well. The Gemara answers: **When** the ***tanna* begins, he begins with the main offering** of the nazirite, i.e., with the *halakha* that has a basis in the Torah. **But with regard** to the **explanation** of these *halakhot*, **he explains** the cases of **intimations first,** as he favors that topic.
+
+### Final Order
+
 
 Yet if *yadot* are so beloved, one might ask: why not open the *mishnah* itself with *yadot* rather than *kinuyim*? The *gemara* answers: *ki matchil, matchil be-ikar korban* — when beginning, one begins with the more primary act. The use of substitute terms (*kinuyim*), even though these may in some cases be conventional or invented language, is a more basic, self-evident concept: you use a different word that means the same thing, and of course it counts. The concept of *yad* — that an *incomplete* sentence, never even articulating what you are accepting, can nonetheless constitute a binding speech act — is a far greater *chiddush*. Indeed, the very fact that a *derasha* was necessary to establish *yadot* proves that *kinuyim* is the more fundamental concept; *kinuyim* needs no scriptural derivation because it is simply the obvious principle that language works by meaning, not by arbitrary form.
 
@@ -196,19 +199,13 @@ So the structure is: the *mishnah* opens by announcing *kinuyim* as primary, the
 
 ## Ahei Case
 
-### Shmuel Context
 
-> **Hebrew/Aramaic:** הָאוֹמֵר ״אֱהֵא״ — הֲרֵי זֶה נָזִיר. דִּלְמָא ״אֱהֵא בְּתַעֲנִית״ קָאָמַר? אָמַר שְׁמוּאֵל: כְּגוֹן שֶׁהָיָה נָזִיר עוֹבֵר לְפָנָיו.
->
-> **Translation:** § The mishna taught: **One who says: I will be, is a nazirite.** The Gemara asks: **Perhaps he is saying: I will be fasting,** i.e., his intention is to take a vow that will obligate himself to fast rather than to be a nazirite. The Gemara answers that **Shmuel said:** The mishna is describing a case **where a nazirite was passing before him,** so that it is clear that he is taking a nazirite vow.
+
+### Shmuel Context
 
 The *gemara* now homes in on the specific case of *ahei* — "I will be." The difficulty is obvious: how does an incomplete sentence become legally binding? The person has not said what he will be. *Dilma ahei be-ta'anis kamar* — perhaps he means "I will undertake a fast," or any of a thousand other possibilities. Shmuel's answer is: *kegon she-hayah Nazir over lefanav* — the case is where a *nazir* was walking in front of him. That context fills the ellipsis and makes the meaning clear.
 
 ### Yad Categories
-
-> **Hebrew/Aramaic:** לֵימָא קָסָבַר שְׁמוּאֵל יָדַיִם שֶׁאֵינָן מוֹכִיחוֹת לָא הָוְויָין יָדַיִם? אָמְרִי: בִּזְמַן שֶׁנָּזִיר עוֹבֵר לְפָנָיו לֵיכָּא לְסַפּוֹקֵא בְּמִילְּתָא אַחֲרִינָא. אֲבָל וַדַּאי אֵין הַנָּזִיר עוֹבֵר לְפָנָיו, אָמְרִינַן: דִּלְמָא ״אֱהֵא בְּתַעֲנִית״ קָאָמַר.
->
-> **Translation:** The Gemara asks: **Shall we say** that **Shmuel holds** as a principle that **ambiguous intimations are not** considered **intimations,** i.e., they are not considered vows? The Gemara rejects this suggestion: **Say** that **when a nazirite is passing before him, there is no** reason **to doubt** his intention. There is no possibility that he is referring **to another matter,** and therefore his statement is definitely an intimation of naziriteship. **However,** it is **certainly** the case that when **a nazirite is not passing before him,** and he states: I will be, **we say** that **perhaps he is saying: I will be fasting.** It is only in the latter case, where one's intimation is so ambiguous that it offers no evidence whatsoever of his intentions, that Shmuel holds that one's statement is not considered a vow.
 
 This leads the *gemara* to examine Shmuel's position through a three-tier conceptual framework. There is a *yad mokhiach* — a contextually obvious ellipsis. There is a *yad she-eino mokhiach* — an ellipsis that probably points to a certain meaning but is not entirely unambiguous. And there is something that is not a *yad* at all — so open-ended that it cannot even be treated as a truncated speech act.
 
@@ -216,7 +213,16 @@ This leads the *gemara* to examine Shmuel's position through a three-tier concep
 
 The clearest example of a *yad mokhiach* comes from a parallel discussion in *Kiddushin*: a man standing under the *chuppah* says *harei at mekudeshes* without adding *li* — "to me." Strictly speaking, he might be acting as an agent for someone else. But given that he is present at his own wedding ceremony, surrounded by family, the omission of *li* is transparently a *yad mokhiach* — so obvious from context that there is no real ambiguity. He did not complete the sentence, but no reasonable person would doubt what he meant.
 
+By contrast, a *yad she-eino mokhiach* occupies an intermediate position: the context probably points toward a particular meaning, but not with full clarity — we have some questions, maybe it is what he meant and maybe not, but it is probably what he meant. The open question, then, is whether a *yad she-eino mokhiach* is sufficient to constitute a legally effective *yad*, or whether only a *yad mokhiach* — a fully transparent contextual ellipsis — can do that work. This is not a trivial distinction: even if the speaker later confirms that the probable interpretation was indeed his intent, the question is whether the words themselves, taken together with their context at the moment of utterance, were adequate to constitute a *yad* in the first place.
+
 ### Nazir Before Him
+
+> **Hebrew/Aramaic:** הָאוֹמֵר ״אֱהֵא״ — הֲרֵי זֶה נָזִיר. דִּלְמָא ״אֱהֵא בְּתַעֲנִית״ קָאָמַר? אָמַר שְׁמוּאֵל: כְּגוֹן שֶׁהָיָה נָזִיר עוֹבֵר לְפָנָיו.
+> **Translation:** § The mishna taught: **One who says: I will be, is a nazirite.** The Gemara asks: **Perhaps he is saying: I will be fasting,** i.e., his intention is to take a vow that will obligate himself to fast rather than to be a nazirite. The Gemara answers that **Shmuel said:** The mishna is describing a case **where a nazirite was passing before him,** so that it is clear that he is taking a nazirite vow.
+
+> **Hebrew/Aramaic:** לֵימָא קָסָבַר שְׁמוּאֵל יָדַיִם שֶׁאֵינָן מוֹכִיחוֹת לָא הָוְויָין יָדַיִם? אָמְרִי: בִּזְמַן שֶׁנָּזִיר עוֹבֵר לְפָנָיו לֵיכָּא לְסַפּוֹקֵא בְּמִילְּתָא אַחֲרִינָא. אֲבָל וַדַּאי אֵין הַנָּזִיר עוֹבֵר לְפָנָיו, אָמְרִינַן: דִּלְמָא ״אֱהֵא בְּתַעֲנִית״ קָאָמַר.
+> **Translation:** The Gemara asks: **Shall we say** that **Shmuel holds** as a principle that **ambiguous intimations are not** considered **intimations,** i.e., they are not considered vows? The Gemara rejects this suggestion: **Say** that **when a nazirite is passing before him, there is no** reason **to doubt** his intention. There is no possibility that he is referring **to another matter,** and therefore his statement is definitely an intimation of naziriteship. **However,** it is **certainly** the case that when **a nazirite is not passing before him,** and he states: I will be, **we say** that **perhaps he is saying: I will be fasting.** It is only in the latter case, where one’s intimation is so ambiguous that it offers no evidence whatsoever of his intentions, that Shmuel holds that one’s statement is not considered a vow.
+
 
 Since Shmuel specifies that the *mishnah*'s case requires a *nazir* to be passing before the speaker, the *gemara* infers that Shmuel may hold that only a *yad mokhiach* suffices — a fully transparent contextual ellipsis. A *yad she-eino mokhiach* would then not be adequate. The *gemara* raises this as a question about Shmuel's position, noting that the same issue arises in the *Kiddushin* context where Shmuel also opines.
 
@@ -224,17 +230,15 @@ The *gemara* then qualifies: even with a *nazir* walking past, the case is not s
 
 ### Korban Alternative
 
-> **Hebrew/Aramaic:** וְדִלְמָא לְפוֹטְרוֹ מִן קׇרְבְּנוֹתָיו קָאָמַר? דְּקָאָמַר בְּלִבּוֹ.
->
+> **Hebrew/Aramaic:** וְדִלְמָא לְפוֹטְרוֹ מִן קׇרְבְּנוֹתָיו קָאָמַר? דְּקָאָמַר בְּלִבּוֹ.
 > **Translation:** The Gemara asks: **But** even if he made his statement when a nazirite was passing before him, **perhaps he was saying** that he intends to purchase the animals the nazirite will need for his offerings and thereby **exempt** the nazirite **from** paying for **his** own **offerings.** The Gemara answers: This is a case **where he said in his heart** that he accepts upon himself a nazirite vow.
 
 A further complication: even with a *nazir* walking in front, the *gemara* raises the possibility that *ahei* does not mean "I will be a *nazir*" at all, but rather "let it be upon me" — meaning the speaker intends to assume responsibility for that *nazir*'s *korbanot* at the conclusion of his *nezirut*. Strange as it sounds, one person can indeed undertake to finance another's *korbanot*, relieving the *nazir* of that obligation. So even the most natural contextual reading — a *nazir* before you, you say "I will be" — admits of an alternative interpretation: not *nezirut* itself, but commitment to the other's offerings.
 
 ### Clarification Suffices
 
-> **Hebrew/Aramaic:** אִי הָכִי, מַאי לְמֵימְרָא! מַהוּ דְּתֵימָא: בָּעִינַן פִּיו וְלִבּוֹ שָׁוִין, קָא מַשְׁמַע לַן.
->
-> **Translation:** The Gemara asks: **If that is so,** then **what** is the purpose **of stating** this *halakha*? Isn't it obvious that he becomes a nazirite? The Gemara answers: It is necessary to state this *halakha*, **lest you say** that **we require his mouth and heart** to be **identical.** If that were the case, then if one did not clearly articulate his nazirite vow, he would not become a nazirite even if he intended to become one. Therefore, the mishna **teaches us** that since his words can be interpreted as referring to a nazirite vow, and that was his intention, he becomes a nazirite.
+> **Hebrew/Aramaic:** אִי הָכִי, מַאי לְמֵימְרָא! מַהוּ דְּתֵימָא: בָּעִינַן פִּיו וְלִבּוֹ שָׁוִין, קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara asks: **If that is so,** then **what** is the purpose **of stating** this *halakha*? Isn’t it obvious that he becomes a nazirite? The Gemara answers: It is necessary to state this *halakha*, **lest you say** that **we require his mouth and heart** to be **identical.** If that were the case, then if one did not clearly articulate his nazirite vow, he would not become a nazirite even if he intended to become one. Therefore, the mishna **teaches us** that since his words can be interpreted as referring to a nazirite vow, and that was his intention, he becomes a nazirite.
 
 The *gemara* resolves this by noting that the case is one where the person subsequently clarified his intention — *de-kamar be-libo*, he said (or it became clear) that he meant *nezirut*. The *gemara* then asks: if he clarified it afterward, is that not obvious? Why does the *mishnah* need to tell us anything? The answer is: *mahu de-teima be-inan piv u-libo shavin kamashma lan* — one might have thought that we require a complete alignment between words and intent at the moment of the speech act itself, such that the words must be fully self-explanatory. The *mishnah* teaches that this is not required: subsequent clarification of intent can work together with the original words to constitute a valid acceptance.
 
@@ -245,6 +249,8 @@ This brings the discussion to its conclusion. What has been illustrated here is 
 ---
 
 ## Nazir Ethics
+
+
 
 ### Nazir Sinner?
 

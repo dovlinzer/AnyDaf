@@ -1,0 +1,459 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Hitkoshshu Vakoshu",
+    "candidates": [
+      "Hitkoshshu Vakoshu",
+      "Curse & Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara unit about Rabba bar Rav Huna's forest \u2014 the challenge from 'hitkoshshu vakoshu' and its resolution regarding Parzak's forest \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Hitkoshshu Vakoshu",
+      "current_heading": "Hitkoshshu Vakoshu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Curse & Consequences",
+    "candidates": [
+      "Curse & Consequences",
+      "Equity & Justice",
+      "Wall & Gate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete narrative of Rabba bar Rav Nachman ordering the forest cut down and Rabba bar Rav Huna's curse with its consequences, which is precisely what the 'Curse & Consequences' section prose describes.",
+      "chosen_heading": "Curse & Consequences",
+      "current_heading": "Curse & Consequences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Wall & Gate",
+    "candidates": [
+      "Equity & Justice",
+      "Wall & Gate",
+      "Water Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about the wall exemption for Torah scholars and their inclusion in water source obligations, which is exactly what the 'Wall & Gate' section prose discusses.",
+      "chosen_heading": "Wall & Gate",
+      "current_heading": "Wall & Gate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Water Sources",
+    "candidates": [
+      "Water Sources",
+      "Braita on Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to content discussed in the 'Water Sources' prose: item 1 covers the qualification about rabbis not going out in a crowd (explicitly mentioned as 'rabbanan lav bnei meipak be-akhloza ninhu'), and item 2 is Rav Yehuda's ruling about river dredging and rainwater drainage (kharaya denahara, tattai/ilai), both of which are elaborated in detail in that section's prose.",
+      "chosen_heading": "Water Sources",
+      "current_heading": "Water Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Braita on Water",
+    "candidates": [
+      "Braita on Water",
+      "Shmuel's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about gardens drawing from a spring and courtyards draining into a sewer, which directly matches the prose description in heading 0 ('Braita on Water') that discusses this exact tanya nami hachi baraita.",
+      "chosen_heading": "Braita on Water",
+      "current_heading": "Braita on Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Shmuel's Rule",
+    "candidates": [
+      "Shmuel's Rule",
+      "Persian Contract",
+      "Brothers & Partners",
+      "Nahardai & Verse",
+      "Definition & Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both parts of Shmuel's rule \u2014 the riverbank occupier is brazen but not removed, and then the Persian contract changes this to removal \u2014 which is exactly what heading 0's prose describes in full, making the current placement correct.",
+      "chosen_heading": "Shmuel's Rule",
+      "current_heading": "Shmuel's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Definition & Basis",
+    "candidates": [
+      "Persian Contract",
+      "Brothers & Partners",
+      "Nahardai & Verse",
+      "Definition & Basis",
+      "Kicking Off",
+      "Kinyan Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav Yehuda/Rav statement about brothers and partners (chatsifa, no removal), Rav Nachman's disagreement (we do remove), and the dina de-bar metsara exception \u2014 exactly what the 'Brothers & Partners' prose describes.",
+      "chosen_heading": "Brothers & Partners",
+      "current_heading": "Definition & Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Kinyan Required",
+    "candidates": [
+      "Kicking Off",
+      "Kinyan Required",
+      "Below Market"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kicking Off",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Neharde'a ruling about removing the lokeach based on 'right and good,' which belongs under 'Kicking Off' \u2014 the mechanism by which the neighbor asserts his right to displace the purchaser.",
+      "second_heading": "Kinyan Required",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the dispute about whether a kinyan is required when the neighbor gave advance permission, which is precisely what the 'Kinyan Required' prose discusses in detail.",
+      "current_heading": "Kinyan Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Below Market",
+    "candidates": [
+      "Below Market",
+      "Above Market",
+      "No Ona'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the consequence of failing to perform a kinyan and then the below-market price scenario (bought for 100, worth 200), which is precisely what the 'Below Market' prose covers \u2014 the neighbor pays 100 if the discount was universal, or 200 if it was a special deal, matching item 2 exactly.",
+      "chosen_heading": "Below Market",
+      "current_heading": "Below Market",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "No Ona'ah",
+    "candidates": [
+      "Above Market",
+      "No Ona'ah",
+      "Strip in Middle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the principle 'ein ona'ah le-karka'ot' cited by Mar Kashisha/Mar the Elder in the name of Rav Nachman, which is precisely what the 'No Ona'ah' section's prose discusses as the principled basis for the pricing rules.",
+      "chosen_heading": "No Ona'ah",
+      "current_heading": "No Ona'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Strip in Middle",
+    "candidates": [
+      "Strip in Middle",
+      "Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the case of a strip of land sold from the middle of a field \u2014 item 1 addresses when the sale is valid (qualitatively distinct land) and item 2 addresses when it is not (identical quality, constituting ha'aramah) \u2014 which is precisely what the 'Strip in Middle' prose describes.",
+      "chosen_heading": "Strip in Middle",
+      "current_heading": "Strip in Middle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Gifts",
+    "candidates": [
+      "Gifts",
+      "All Properties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses gifts (matanah) and the achrayut condition affecting dina de-bar metsara, which is exactly what the 'Gifts' section prose describes.",
+      "chosen_heading": "Gifts",
+      "current_heading": "Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "All Properties",
+    "candidates": [
+      "All Properties",
+      "Non-Jewish Party"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers three exemptions (all properties, previous owners, gentile party), and while it spans both candidate topics, its first and primary clause aligns with the 'All Properties' heading where it currently sits, and the gentile clause is secondary content that the 'Non-Jewish Party' prose elaborates on independently \u2014 but since the passage is a single unified Talmudic unit listing multiple exemptions together, keeping it under its current placement is preferable to splitting.",
+      "chosen_heading": "All Properties",
+      "current_heading": "All Properties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Non-Jewish Party",
+    "candidates": [
+      "Non-Jewish Party",
+      "Mortgaged Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses buying from and selling to a non-Jew, matching exactly the 'Non-Jewish Party' section's prose about zavan me-akum, zavin le-akum, arya avrakhi, ve'asita hayashar vehatov, and cherem.",
+      "chosen_heading": "Non-Jewish Party",
+      "current_heading": "Non-Jewish Party",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Mortgaged Property",
+    "candidates": [
+      "Mortgaged Property",
+      "Distant or Bad Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses mortgaged property (*mashkanta*) and its exemption from *dina de-bar metsara*, matching precisely the prose under 'Mortgaged Property'.",
+      "chosen_heading": "Mortgaged Property",
+      "current_heading": "Mortgaged Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Distant or Bad Land",
+    "candidates": [
+      "Distant or Bad Land",
+      "Necessary Costs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses selling distant or bad land to redeem closer or better land, which is exactly what the 'Distant or Bad Land' section's prose addresses.",
+      "chosen_heading": "Distant or Bad Land",
+      "current_heading": "Distant or Bad Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Necessary Costs",
+    "candidates": [
+      "Necessary Costs",
+      "Woman & Orphans",
+      "Hierarchy",
+      "Neighbor vs. Relative"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Necessary Costs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the tax/sustenance/burial exemptions and the woman/orphans/partners exemptions, matching candidates 0 and 1 together, but since item 1 is a single continuous Talmudic passage covering all these exemptions and the current placement (candidate 0) captures the primary content, it fits best under 'Necessary Costs' which also leads into the woman/orphans discussion.",
+      "second_heading": "Hierarchy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the city-neighbor vs. field-neighbor priority hierarchy, which matches candidate 2 ('Hierarchy') discussing priority among competing claimants including the shechina de-mata kodem principle.",
+      "current_heading": "Necessary Costs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Neighbor vs. Relative",
+    "candidates": [
+      "Woman & Orphans",
+      "Hierarchy",
+      "Neighbor vs. Relative",
+      "Payment Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the neighbor vs. talmid chacham and relative vs. talmid chacham precedence rules, plus raises the neighbor vs. relative dilemma \u2014 content that directly matches the 'Hierarchy' section's prose, which explicitly describes these same comparisons, whereas the current 'Neighbor vs. Relative' heading only covers the resolution of the neighbor/relative dilemma (the verse), not the talmid chacham comparisons that open the passage.",
+      "chosen_heading": "Hierarchy",
+      "current_heading": "Neighbor vs. Relative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Payment Terms",
+    "candidates": [
+      "Neighbor vs. Relative",
+      "Payment Terms",
+      "Capability Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses how differences in coin quality (good dinars vs. weighed dinars) and coin presentation (wrapped vs. loose) affect the applicability of dina de-bar metsara, which is precisely what the 'Payment Terms' section prose describes.",
+      "chosen_heading": "Payment Terms",
+      "current_heading": "Payment Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Capability Test",
+    "candidates": [
+      "Capability Test",
+      "Building on Land",
+      "Trees on Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the capability/financial assessment test (gavra de-amid) for whether to wait for the neighbor, which is exactly what the 'Capability Test' prose section discusses.",
+      "chosen_heading": "Capability Test",
+      "current_heading": "Capability Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Trees on Land",
+    "candidates": [
+      "Building on Land",
+      "Trees on Land",
+      "Residential Priority",
+      "Natural Fence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the land/buildings case and the land/palm trees case together in one Talmudic statement, and the 'Building on Land' prose explicitly describes both relationships (landowner blocks building-owner's sale but not vice versa), making it the more complete match \u2014 though the current 'Trees on Land' heading captures part of it, the full passage belongs under the heading that introduces both principles together.",
+      "chosen_heading": "Building on Land",
+      "current_heading": "Trees on Land",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Natural Fence",
+    "candidates": [
+      "Residential Priority",
+      "Natural Fence",
+      "Multiple Neighbors"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Residential Priority",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the residential-use priority rule (yishuv adif), which matches precisely the 'Residential Priority' prose about yishuv adif and why residential use overrides bar metsara considerations.",
+      "second_heading": "Natural Fence",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the jagged-rock/palm-tree barrier test for whether bar metsara applies, which matches exactly the 'Natural Fence' prose about piska mishnita and richba de-dikla and the single-furrow criterion.",
+      "current_heading": "Natural Fence",
+      "moved": true
+    }
+  }
+]

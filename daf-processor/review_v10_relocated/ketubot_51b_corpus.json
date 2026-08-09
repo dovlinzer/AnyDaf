@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbi Meir: Be'ilat Zenut",
+    "candidates": [
+      "100/200 Zuz Standard",
+      "Rabbi Meir: Be'ilat Zenut",
+      "Censure vs. Voiding",
+      "Yehuda: Writing + Receipt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's ruling that decreasing the ketubah below the standard amounts constitutes be'ilat zenut, which is precisely what the 'Rabbi Meir: Be'ilat Zenut' section's prose discusses.",
+      "chosen_heading": "Rabbi Meir: Be'ilat Zenut",
+      "current_heading": "Rabbi Meir: Be'ilat Zenut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yehuda: Writing + Receipt",
+    "candidates": [
+      "Censure vs. Voiding",
+      "Yehuda: Writing + Receipt",
+      "Mishnah = Rabbi Meir",
+      "Liens Cannot Be Limited",
+      "Achrayut = Default"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's write-200-then-receipt-100 mechanism as a counter-argument to attributing the mishnah to Rabbi Yehuda, which is exactly what the prose in candidate 1 ('Yehuda: Writing + Receipt') describes.",
+      "chosen_heading": "Yehuda: Writing + Receipt",
+      "current_heading": "Yehuda: Writing + Receipt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Achrayut = Default",
+    "candidates": [
+      "Mishnah = Rabbi Meir",
+      "Liens Cannot Be Limited",
+      "Achrayut = Default",
+      "Lost Document Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the seifa of the mishnah \u2014 the field worth 100 dinars without the full lien formula, and the ruling that he is still obligated as t'nai beit din \u2014 which matches exactly the prose of 'Liens Cannot Be Limited' (candidate 1), not the current placement under 'Achrayut = Default' which discusses the gemara's subsequent analysis of why this reflects Rabbi Yehuda's position.",
+      "chosen_heading": "Liens Cannot Be Limited",
+      "current_heading": "Achrayut = Default",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Lost Document Baraita",
+    "candidates": [
+      "Achrayut = Default",
+      "Lost Document Baraita",
+      "Five Unencumbered Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara argument citing the Bava Metzia mishna about found promissory notes to establish Rabbi Meir's position on achrayut, exactly as described in the 'Lost Document Baraita' prose section.",
+      "chosen_heading": "Lost Document Baraita",
+      "current_heading": "Lost Document Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Five Unencumbered Items",
+    "candidates": [
+      "Five Unencumbered Items",
+      "Reconciliation: R. Yehuda",
+      "Father of Shmuel: Issur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the baraita listing five categories collectible only from free assets (b'nei chorin) and the resolution of which Tanna (Rabbi Meir or Rabbi Yehuda) authored it, which is precisely what the 'Five Unencumbered Items' prose discusses in detail.",
+      "chosen_heading": "Five Unencumbered Items",
+      "current_heading": "Five Unencumbered Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Father of Shmuel: Issur",
+    "candidates": [
+      "Reconciliation: R. Yehuda",
+      "Father of Shmuel: Issur",
+      "Rav's Challenge",
+      "Captivity vs. Rape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the father of Shmuel's ruling that a raped Israelite woman is forbidden to her husband due to the concern of 'started as rape and ended willingly,' which is precisely what the 'Father of Shmuel: Issur' section's prose discusses.",
+      "chosen_heading": "Father of Shmuel: Issur",
+      "current_heading": "Father of Shmuel: Issur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Captivity vs. Rape",
+    "candidates": [
+      "Rav's Challenge",
+      "Captivity vs. Rape",
+      "Rava: Coercion Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav's challenge to Shmuel's father and the aftermath (silence, the verse about princes, and the possible answer about captivity leniency), which is precisely what heading 0 'Rav's Challenge' describes in its prose, while heading 1 'Captivity vs. Rape' discusses only the bi'shvuyah hekilu distinction that serves as a possible answer \u2014 the current placement splits the challenge from its immediate aftermath incorrectly.",
+      "chosen_heading": "Rav's Challenge",
+      "current_heading": "Captivity vs. Rape",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Rava: Coercion Principle",
+    "candidates": [
+      "Captivity vs. Rape",
+      "Rava: Coercion Principle",
+      "Bandits & Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute between Shmuel's father and Rava about whether screaming throughout vs. subsequent willingness determines the status of a rape victim, which is precisely what the 'Rava: Coercion Principle' prose section discusses in detail.",
+      "chosen_heading": "Rava: Coercion Principle",
+      "current_heading": "Rava: Coercion Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Bandits & Fear",
+    "candidates": [
+      "Bandits & Fear",
+      "King vs. Bandit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the two baraitot supporting Rava, Rav Yehuda's ruling on mistaken betrothal, and Rav Yehuda's ruling on women stolen by bandits \u2014 are explicitly described and discussed in the 'Bandits & Fear' prose, which covers the baraita about ones/ratzon, the wife of a Kohen baraita, and the bandits scenario with the machmat yira responses.",
+      "chosen_heading": "Bandits & Fear",
+      "current_heading": "Bandits & Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "King vs. Bandit",
+    "candidates": [
+      "King vs. Bandit",
+      "Widow/Divorcee to KG",
+      "Ongoing vs. Redemption",
+      "Rava: Captivity-Specific"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the single continuous sugya resolving the contradiction between two baraitot regarding women taken by the monarchy vs. bandits, using the Ben Netzer/Ahasuerus distinction \u2014 precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "King vs. Bandit",
+      "current_heading": "King vs. Bandit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Rava: Captivity-Specific",
+    "candidates": [
+      "Widow/Divorcee to KG",
+      "Ongoing vs. Redemption",
+      "Rava: Captivity-Specific",
+      "Vow & Divorce Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Abaye/Rava dispute about when the redemption obligation applies in forbidden marriages \u2014 exactly what candidate 2 ('Rava: Captivity-Specific') discusses, including the mamzeret/Gibeonite case and Rava's captivity-specific criterion, which is the current placement.",
+      "chosen_heading": "Rava: Captivity-Specific",
+      "current_heading": "Rava: Captivity-Specific",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Vow & Divorce Baraita",
+    "candidates": [
+      "Vow & Divorce Baraita",
+      "Vow Timing Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vow & Divorce Baraita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita citing Rabbi Eliezer and Rabbi Yehoshua's dispute about redeeming a vowed-off wife, which matches exactly the 'Vow & Divorce Baraita' prose.",
+      "second_heading": "Vow Timing Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Natan's question to Sumchus about the timing of the vow versus captivity, which matches exactly the 'Vow Timing Question' prose.",
+      "current_heading": "Vow & Divorce Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Vow Timing Question",
+    "candidates": [
+      "Vow Timing Question",
+      "Debate Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Sumchus's response about vow timing (hedirah ve'levassof nishbeis vs. nishbeis ve'levassof hedirah) and the trickery concern, which is precisely what the 'Vow Timing Question' prose describes.",
+      "chosen_heading": "Vow Timing Question",
+      "current_heading": "Vow Timing Question",
+      "moved": false
+    }
+  }
+]

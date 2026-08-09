@@ -1,0 +1,195 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Four Methods Review",
+    "candidates": [
+      "Four Methods Review",
+      "Binyan Av Starting Point",
+      "Dam Kasher Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the question about binyan av as a starting point for further derivations via hekesh, gezeirah shavah, kal va-chomer, or another binyan av, which is exactly what the 'Binyan Av Starting Point' prose describes.",
+      "chosen_heading": "Binyan Av Starting Point",
+      "current_heading": "Four Methods Review",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Dam Kasher Proof",
+    "candidates": [
+      "Binyan Av Starting Point",
+      "Dam Kasher Proof",
+      "Weak Comparisons",
+      "Challenge: Kosher-Pasul",
+      "Zot Torat Ha-Olah",
+      "No Proof of Binyan Av",
+      "Source Question",
+      "Pesach Ohel Moed"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Pesach Ohel Moed",
+    "candidates": [
+      "Weak Comparisons",
+      "Challenge: Kosher-Pasul",
+      "Zot Torat Ha-Olah",
+      "No Proof of Binyan Av",
+      "Source Question",
+      "Pesach Ohel Moed",
+      "Outer Chata'ot Placement",
+      "Pesukim Analysis",
+      "Rashi Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage asks 'what is the reason' (mai ta'ama) for pouring shirei hadam on the western base and answers with the verse 'el yesod mizbe'ach ha-olah asher pesach ohel moed,' which directly matches the 'Source Question' section's prose describing the gemara asking 'shirei hadam mai ta'ama \u2014 what is the source for this halacha?'",
+      "chosen_heading": "Source Question",
+      "current_heading": "Pesach Ohel Moed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rashi Classification",
+    "candidates": [
+      "Outer Chata'ot Placement",
+      "Pesukim Analysis",
+      "Rashi Classification",
+      "First Drasha",
+      "Second Drasha",
+      "Third Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "First Drasha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the first drasha \u2014 el yesod mizbe'ach ha-olah ve-lo yesod mizbe'ach ha-penimi \u2014 which is precisely what heading 3 ('First Drasha') describes in its prose.",
+      "second_heading": "Second Drasha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the second drasha \u2014 el yesod mizbe'ach ha-olah ein lo yesod le-penimi atzmo \u2014 which is precisely what heading 4 ('Second Drasha') describes in its prose.",
+      "current_heading": "Rashi Classification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Third Drasha",
+    "candidates": [
+      "First Drasha",
+      "Second Drasha",
+      "Third Drasha",
+      "Initial vs. Remnant",
+      "Yishmael Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the drasha 'ten yesod le-mizbe'ach shel olah' which is explicitly the Third Drasha discussed in candidate 2's prose.",
+      "chosen_heading": "Third Drasha",
+      "current_heading": "Third Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Yishmael Kal Vachomer",
+    "candidates": [
+      "Initial vs. Remnant",
+      "Yishmael Kal Vachomer",
+      "Why Extra Drasha?",
+      "Mizbeach Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the question of whether the verse teaches about initial blood application for an olah, then both Rabbi Yishmael and Rabbi Akiva's kal va-chomer arguments against that reading \u2014 which is precisely what heading 0 ('Initial vs. Remnant') describes as its content, introducing both Amoraim who argue the verse is not teaching that halacha.",
+      "chosen_heading": "Initial vs. Remnant",
+      "current_heading": "Yishmael Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Mizbeach Principle",
+    "candidates": [
+      "Why Extra Drasha?",
+      "Mizbeach Principle",
+      "Counter-Interpretation",
+      "Shirayim on Yesod",
+      "Akiva Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The current 'Mizbeach Principle' section's prose explicitly covers all the content in items 1-10: the first two drashot about the inner altar having no base, the se'ir nasi case, and Rabbi Yishmael's kal va-chomer leading to the conclusion about shirayim of all outer korbanot \u2014 making it the clearest match for the entire passage.",
+      "chosen_heading": "Mizbeach Principle",
+      "current_heading": "Mizbeach Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Akiva Position",
+    "candidates": [
+      "Counter-Interpretation",
+      "Shirayim on Yesod",
+      "Akiva Position",
+      "Me'akev Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's baraita statement about the kal va-chomer from shirayim of a chatat to the initial blood of an olah, which is precisely what the 'Akiva Position' prose section describes and analyzes.",
+      "chosen_heading": "Akiva Position",
+      "current_heading": "Akiva Position",
+      "moved": false
+    }
+  }
+]

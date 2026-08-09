@@ -1,0 +1,348 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Machmetzan & Nadyan",
+    "candidates": [
+      "Mazik vs. Nizak",
+      "Machmetzan & Nadyan",
+      "Mishnah vs. Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the apparent contradiction between the mishna (three handbreadths) and the baraita (four cubits) and resolves it via Rav Na\u1e25man's distinction, which is exactly what the 'Mishnah vs. Baraita' section's prose describes.",
+      "chosen_heading": "Mishnah vs. Baraita",
+      "current_heading": "Machmetzan & Nadyan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Mishnah vs. Baraita",
+    "candidates": [
+      "Machmetzan & Nadyan",
+      "Mishnah vs. Baraita",
+      "And vs. Or Plaster"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna vs. baraita contradiction (three handbreadths vs. four cubits) and its resolution via the machmetzan/nadyan distinction, which is precisely what the 'Mishnah vs. Baraita' section's prose describes.",
+      "chosen_heading": "Mishnah vs. Baraita",
+      "current_heading": "Mishnah vs. Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "And vs. Or Plaster",
+    "candidates": [
+      "And vs. Or Plaster",
+      "Soft Ground Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the exact question of whether the mishna requires 'and plasters' or 'or plasters,' including the initial dilemma, the obvious answer, and the pushback about different damage categories \u2014 all of which are precisely described in the 'And vs. Or Plaster' prose.",
+      "chosen_heading": "And vs. Or Plaster",
+      "current_heading": "And vs. Or Plaster",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Soft Ground Case",
+    "candidates": [
+      "Soft Ground Case",
+      "Heat-Giving Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge and resolution regarding Rabbi Yehuda's ruling on soft ground (sela ha-ba b'yadayim), which is precisely what the 'Soft Ground Case' prose discusses in detail.",
+      "chosen_heading": "Soft Ground Case",
+      "current_heading": "Soft Ground Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Heat-Giving Items",
+    "candidates": [
+      "Heat-Giving Items",
+      "Two Lists Compared"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about distancing heat-generating substances and the parallel Shabbat source on hatmana insulation, which is precisely what heading 0's prose describes as the Gemara's initial move before the detailed comparison.",
+      "chosen_heading": "Heat-Giving Items",
+      "current_heading": "Heat-Giving Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Two Lists Compared",
+    "candidates": [
+      "Two Lists Compared",
+      "Rocks Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Shabbat mishna on hatmana and poses the exact comparative question about rocks vs. sand \u2014 precisely the content described in the 'Two Lists Compared' prose.",
+      "chosen_heading": "Two Lists Compared",
+      "current_heading": "Two Lists Compared",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Rocks Explanation",
+    "candidates": [
+      "Rocks Explanation",
+      "Tosafot Practice",
+      "Sand Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of Rav Yosef's explanation, Abaye's challenge with the baraita, Abaye's 'yagid alav re'o' proposal, Rava's objection to it, and Rava's final answer about rocks scratching the pot \u2014 exactly the content described in the 'Rocks Explanation' prose.",
+      "chosen_heading": "Rocks Explanation",
+      "current_heading": "Rocks Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Sand Explanation",
+    "candidates": [
+      "Tosafot Practice",
+      "Sand Explanation",
+      "Seeds Plowing Rule",
+      "Redundancy Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's exchange about Rabbi Oshaya's baraita mentioning sand as a moisture concern, and whether the mishna's existing examples (amat ha-mayim and nivrechet ha-kovsin) make sand redundant \u2014 exactly the content described in the 'Sand Explanation' prose.",
+      "chosen_heading": "Sand Explanation",
+      "current_heading": "Sand Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Redundancy Question",
+    "candidates": [
+      "Seeds Plowing Rule",
+      "Redundancy Question",
+      "Mavrich Vineyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's redundancy questions and answers about why seeds and plow are each independently mentioned, which is precisely what the 'Redundancy Question' prose describes in detail.",
+      "chosen_heading": "Redundancy Question",
+      "current_heading": "Redundancy Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Mavrich Vineyard",
+    "candidates": [
+      "Mavrich Vineyard",
+      "Ground Damage Theory",
+      "Urine Permitted?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's challenge about lateral root spread and its resolution via the mavrich mishna and Rabbi \u1e24agga's explanation \u2014 exactly the content described in the 'Mavrich Vineyard' prose, which covers both the mishna evidence and the lateral-vs-downward root question that Rabbi \u1e24agga then resolves.",
+      "chosen_heading": "Mavrich Vineyard",
+      "current_heading": "Mavrich Vineyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Urine Permitted?",
+    "candidates": [
+      "Ground Damage Theory",
+      "Urine Permitted?",
+      "Collected vs. Incidental",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's rule, Rabba bar bar Channa's permissive ruling with the verse from Melachim, and the initial question from the mishna \u2014 exactly the content described in candidate 1's prose about 'Urine Permitted?', before the resolution appears in candidate 2.",
+      "chosen_heading": "Urine Permitted?",
+      "current_heading": "Urine Permitted?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Collected vs. Incidental",
+      "Baraita Contradiction",
+      "Wafer in Window"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the baraita about urinating near a neighbor's wall, the distinction between wall materials, the refutation of Rabba bar bar \u1e24ana, and the reinterpretation of the verse \u2014 exactly the content described in the 'Baraita Contradiction' prose.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Wafer in Window",
+    "candidates": [
+      "Wafer in Window",
+      "Wafer Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Shmuel's ruling about a wafer not reducing a window's dimensions and raises the initial question about why a wafer is specified, which matches the 'Wafer in Window' prose that introduces this topic and states Shmuel's ruling \u2014 the 'Wafer Analysis' section answers that question in its prose, meaning the passage belongs under the heading that introduces the topic, not the one that answers it.",
+      "chosen_heading": "Wafer in Window",
+      "current_heading": "Wafer in Window",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Wafer Analysis",
+    "candidates": [
+      "Wafer Analysis",
+      "Susceptibility Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'lo mibeya' structure explaining why the wafer case is the novel ruling (because it might be left permanently due to being disgusting), which directly matches the Wafer Analysis prose that explains exactly this reasoning about the wafer being unappealing and potentially nullified.",
+      "chosen_heading": "Wafer Analysis",
+      "current_heading": "Wafer Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Susceptibility Rule",
+    "candidates": [
+      "Susceptibility Rule",
+      "Straw & Figs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the susceptibility-to-tumah rule and the fruit-juice reframing, which is precisely what the 'Susceptibility Rule' section's prose explains.",
+      "chosen_heading": "Susceptibility Rule",
+      "current_heading": "Susceptibility Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Straw & Figs",
+    "candidates": [
+      "Straw & Figs",
+      "Intent to Leave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the objection from the mishna about straw and figs and the Gemara's resolution working through each disqualification of the straw, which is precisely what heading 0 ('Straw & Figs') describes in its prose.",
+      "chosen_heading": "Straw & Figs",
+      "current_heading": "Straw & Figs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Intent to Leave",
+    "candidates": [
+      "Intent to Leave",
+      "Metal Barrel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about worm-infested figs (Shmuel and Rabba bar Avuh) is explicitly discussed in the 'Intent to Leave' prose as the Gemara's case-by-case resolution confirming that the braita deals with spoiled, worm-eaten figs \u2014 making the current placement correct.",
+      "chosen_heading": "Intent to Leave",
+      "current_heading": "Intent to Leave",
+      "moved": false
+    }
+  }
+]

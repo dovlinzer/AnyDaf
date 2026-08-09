@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Knot vs. Sewing",
+    "candidates": [
+      "Knot vs. Sewing",
+      "Interior Stitching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye asking about knotting a torn strap and Rav Yosef's reply about complete binding, which exactly matches the 'Knot vs. Sewing' section's prose about this same exchange.",
+      "chosen_heading": "Knot vs. Sewing",
+      "current_heading": "Knot vs. Sewing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Interior Stitching",
+    "candidates": [
+      "Interior Stitching",
+      "Puk Chazi Principle",
+      "Two Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically contains the question about interior stitching posed by Rav Acha to Rav Ashi, which is exactly what heading 0 'Interior Stitching' describes in its prose, and Rav Ashi's reply (puk chazi) is discussed separately under heading 1.",
+      "chosen_heading": "Interior Stitching",
+      "current_heading": "Interior Stitching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Two Categories",
+    "candidates": [
+      "Puk Chazi Principle",
+      "Two Categories",
+      "Tefillin Status",
+      "Minimum Shiur",
+      "Finger Length Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Papa's ruling on remnants of straps and the gemara's rejection based on the tashmishei mitzvah vs. tashmishei kedusha distinction, which is precisely what the 'Two Categories' section's prose describes in detail.",
+      "chosen_heading": "Two Categories",
+      "current_heading": "Two Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Finger Length Measure",
+    "candidates": [
+      "Tefillin Status",
+      "Minimum Shiur",
+      "Finger Length Measure",
+      "Bent vs. Straight",
+      "Two Interpretations",
+      "Shel Rosh Length",
+      "Directional Requirements",
+      "Strap Width",
+      "Raba's Method",
+      "Rav Acha's Method",
+      "Current Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the inference that straps have a minimum shiur and the answer about the measure (ad etzba tzerada) with Rav Kahana and Rav Ashi's demonstrations, which collectively belong under 'Minimum Shiur' \u2014 the heading whose prose explicitly introduces both the inference and the question of what the minimum is, before the subsequent headings break out the finger identification and bent/straight debate separately.",
+      "chosen_heading": "Minimum Shiur",
+      "current_heading": "Finger Length Measure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Current Practice",
+    "candidates": [
+      "Bent vs. Straight",
+      "Two Interpretations",
+      "Shel Rosh Length",
+      "Directional Requirements",
+      "Strap Width",
+      "Raba's Method",
+      "Rav Acha's Method",
+      "Current Practice",
+      "Halacha LeMoshe",
+      "Rashi's View",
+      "Tosafot's Objection",
+      "Black Outward",
+      "Inverted Strap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes all three Amoraim's practices (Rabba, Rav Acha bar Yaakov, and Mar brei deRavina) together, and heading 5 'Raba's Method' introduces this exact sugya about what one does with the hanging straps of the shel rosh, making it the natural home for the entire combined passage rather than splitting it across headings 5, 6, and 7.",
+      "chosen_heading": "Raba's Method",
+      "current_heading": "Current Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Inverted Strap",
+    "candidates": [
+      "Halacha LeMoshe",
+      "Rashi's View",
+      "Tosafot's Objection",
+      "Black Outward",
+      "Inverted Strap",
+      "Bathroom Concerns",
+      "God's Tefillin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the halacha leMoshe miSinai about the knot, then adds Rav Nachman's ruling about black outward, then the Rav Ashi incident \u2014 all three components are introduced together as a single Gemara unit, and the primary content (the halacha leMoshe miSinai statement) matches heading 0, with the subsequent details naturally following; the current placement under 'Inverted Strap' only captures the tail end of the passage.",
+      "chosen_heading": "Halacha LeMoshe",
+      "current_heading": "Inverted Strap",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "God's Tefillin",
+    "candidates": [
+      "Bathroom Concerns",
+      "God's Tefillin",
+      "Kesher Position",
+      "Symbolic Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about the verse 'And I will remove My hand, and you will see My back' and Rav \u1e24ana bar Bizna's teaching that God showed Moses the knot of the phylacteries \u2014 exactly what the 'God's Tefillin' section prose describes.",
+      "chosen_heading": "God's Tefillin",
+      "current_heading": "God's Tefillin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Symbolic Meaning",
+    "candidates": [
+      "Kesher Position",
+      "Symbolic Meaning",
+      "Shin Design",
+      "Time of Placement",
+      "Placement to Tightening",
+      "Literal Knot Making"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the halakhic ruling about the kesher being 'lemala' (fitting candidate 0's prose about physical position) and the symbolic reason, but candidate 0's prose explicitly discusses this Rav Yehuda ruling about the kesher position, while candidate 1's prose discusses the symbolic meaning as a commentary on the ruling \u2014 the actual Talmudic text belongs under the heading that introduces the ruling itself (candidate 0), with candidate 1's prose serving as the author's own elaboration after quoting it.",
+      "chosen_heading": "Kesher Position",
+      "current_heading": "Symbolic Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Literal Knot Making",
+    "candidates": [
+      "Shin Design",
+      "Time of Placement",
+      "Placement to Tightening",
+      "Literal Knot Making",
+      "Speech Between Two"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Speech Between Two",
+    "candidates": [
+      "Speech Between Two",
+      "Yochanan's Nusach",
+      "Rashi's Logic",
+      "Pesuk-Based Logic",
+      "Abaye & Rava Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Speech Between Two",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely Rav \u1e24isda's ruling about speaking between the two phylacteries requiring a second beracha, which is exactly what heading 0 ('Speech Between Two') describes.",
+      "second_heading": "Yochanan's Nusach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rabbi Yo\u1e25anan's ruling (sent by Rav \u1e24iyya) with the two distinct nuschaos for shel yad and shel rosh, which is exactly what heading 1 ('Yochanan's Nusach') describes.",
+      "current_heading": "Speech Between Two",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Abaye & Rava Rule",
+    "candidates": [
+      "Yochanan's Nusach",
+      "Rashi's Logic",
+      "Pesuk-Based Logic",
+      "Abaye & Rava Rule",
+      "Sefardi Custom",
+      "Ashkenazi Custom",
+      "Process vs. Separate",
+      "Aveira & Remedy",
+      "Nature of Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye and Rava's ruling that lo sach recites one beracha and sach recites two, which is precisely what the 'Abaye & Rava Rule' section's prose describes.",
+      "chosen_heading": "Abaye & Rava Rule",
+      "current_heading": "Abaye & Rava Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Nature of Problem",
+    "candidates": [
+      "Sefardi Custom",
+      "Ashkenazi Custom",
+      "Process vs. Separate",
+      "Aveira & Remedy",
+      "Nature of Problem",
+      "Putting On Order",
+      "Pesuk Order",
+      "Taking Off Order",
+      "Rabba's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita about speaking between the two tefillin constituting a sin and the connection to returning from battle is precisely what the 'Aveira & Remedy' section's prose describes and analyzes.",
+      "chosen_heading": "Aveira & Remedy",
+      "current_heading": "Nature of Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Rabba's Logic",
+    "candidates": [
+      "Putting On Order",
+      "Pesuk Order",
+      "Taking Off Order",
+      "Rabba's Logic",
+      "Action vs. State",
+      "Before Dawn"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Putting On Order",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the baraita establishing the donning/removal order AND the scriptural justification for the donning order (arm before head), which matches heading 0 ('Putting On Order') that discusses the baraita's ruling, with the pesuk justification naturally flowing into it \u2014 but more precisely, item 1 spans headings 0-1, and since heading 1 ('Pesuk Order') specifically discusses the verse-based justification for donning order that item 1 concludes with, heading 1 is the best single home for item 1 given that heading 0's prose already covers the baraita's ruling and heading 1 covers the scriptural derivation.",
+      "second_heading": "Rabba's Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rabba's explanation from Rav Huna about the removal order, which precisely matches heading 3 ('Rabba's Logic') where the current placement already sits and whose prose directly describes this content.",
+      "current_heading": "Rabba's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Before Dawn",
+    "candidates": [
+      "Action vs. State",
+      "Before Dawn",
+      "Blessing After Dawn",
+      "Sunset Limit",
+      "Two Rationales",
+      "Yaakov's Extension",
+      "Bedtime Limit",
+      "Bathroom Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita describes the case of someone rising early before dawn who fears losing their tefillin and dons them before the proper time \u2014 exactly the 'Before Dawn' scenario described in that section's prose.",
+      "chosen_heading": "Before Dawn",
+      "current_heading": "Before Dawn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Bathroom Exception",
+    "candidates": [
+      "Blessing After Dawn",
+      "Sunset Limit",
+      "Two Rationales",
+      "Yaakov's Extension",
+      "Bedtime Limit",
+      "Bathroom Exception",
+      "Rav Nachman Rules",
+      "Night Prayer Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage covers all three opinions on when tefillin must be removed (sunset, marketplace traffic, bedtime) plus the bathroom exception concession, beginning with 'until when does one wear them? Until sunset' \u2014 matching the 'Sunset Limit' heading where this discussion starts, though the content also spans headings 3-5; however, since it is a single unified Mishnaic text covering all these opinions together, placing it at the opening heading 'Sunset Limit' where the question is first posed is the most natural fit, though the current placement under 'Bathroom Exception' captures only the final clause.",
+      "chosen_heading": "Sunset Limit",
+      "current_heading": "Bathroom Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155
+    ],
+    "current_heading": "Night Prayer Dispute",
+    "candidates": [
+      "Rav Nachman Rules",
+      "Night Prayer Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact content described in the 'Night Prayer Dispute' prose: Rav Na\u1e25man's ruling (both versions), the practice of Rav \u1e24isda and Rabba bar Rav Huna praying with tefillin at night, the contrary ruling, and the resolution that their practice represents a dissenting view \u2014 all of which the candidate 1 prose explicitly describes.",
+      "chosen_heading": "Night Prayer Dispute",
+      "current_heading": "Night Prayer Dispute",
+      "moved": false
+    }
+  }
+]

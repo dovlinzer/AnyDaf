@@ -1,6 +1,7 @@
-# Shabbat 35 — Daf Yomi Shiur
-
+[DAF:34b]
 ## Bein Hashmashot Intro
+
+
 
 ### Opening Remarks
 
@@ -8,33 +9,28 @@ Today's *daf* is 35, and we are in the middle of a *sugya* in *Shas* on *bein ha
 
 ### Definition of BH
 
-> **Hebrew/Aramaic:** מִשֶּׁתִּשְׁקַע הַחַמָּה כָּל זְמַן שֶׁפְּנֵי מִזְרָח מַאֲדִימִין.
->
-> **Translation:** From when the sun sets, as long as the eastern face of the sky is reddened by the light of the sun.
-
 The *Gemara* has established that the period of *bein hashmashot* runs from the time the sun sets until the sky darkens. There is, however, a subsidiary question: perhaps even a few minutes after sunset it is still day, so long as the sky remains red. This distinction generates the difference between the two primary positions.
 
-### Two-thirds/Three-quarter…
-
-> **Hebrew/Aramaic:** אָמַר רַבָּה אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: שְׁלֹשָׁה חֶלְקֵי מִיל. מַאי שְׁלֹשָׁה חֶלְקֵי מִיל? אִילֵימָא תְּלָתָא פַּלְגֵי מִילָא — נֵימָא מִיל וּמֶחֱצָה. אֶלָּא תְּלָתָא תִּילְתֵי מִילָא — נֵימָא מִיל. אֶלָּא: תְּלָתָא רִיבְעֵי מִילָא. וְרַב יוֹסֵף אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: שְׁנֵי חֶלְקֵי מִיל.
->
-> **Translation:** Rabba said that Rav Yehuda said that Shmuel said: The time it takes to walk three parts of a *mil*. What is the meaning of three parts of a *mil*? If you say that it refers to three halves of a *mil*, let him say a *mil* and a half. Rather, if you say that it means three-thirds of a *mil*, let him simply say one *mil*. Rather, it means three-quarters of a *mil*. And Rav Yosef said that Rav Yehuda said that Shmuel said: The duration of twilight is two parts of a *mil*.
+### Redness Disappears
 
 The disagreement between two-thirds of a *mil* and three-quarters of a *mil* turns on whether *bein hashmashot* begins immediately at sunset or only once the redness of the sky has dissipated. Both versions of Rabbi Yehuda's position, however, agree that *tzeis* occurs three-quarters of a *mil* after sunset — the only question is when *bein hashmashot* itself begins. Three-quarters of 18 minutes is approximately 14 minutes; three-quarters of 24 minutes is 18 minutes. So even on the latest reckoning, *tzeis* falls between 14 and 18 minutes after sunset — a figure that will become significant once the *Gemara* in Pesachim enters the picture.
 
+[DAF:35a]
 ### Basket Digression
 
-> **Hebrew/Aramaic:** וְחִילּוּפַהּ בְּחַלְּתָא. דְּאָמַר רַבָּה: חַלְּתָא בַּת תְּרֵי כוֹרֵי — שְׁרֵי לְטַלְטוֹלַהּ, וּבַת תְּלָתָא כוֹרֵי — אֲסִיר לְטַלְטוֹלַהּ. וְרַב יוֹסֵף אָמַר: בַּת תְּלָתָא כוֹרֵי — נָמֵי שְׁרֵי, בַּת אַרְבְּעָה כוֹרֵי — אֲסִיר.
->
-> **Translation:** And with regard to the legal status of a wicker vessel their dispute is the opposite. As Rabba said with regard to a wicker vessel with a capacity of two *kor*, one is permitted to move it on Shabbat. And one with a capacity of three *kor*, one is prohibited to move it on Shabbat. It is much larger than the dimensions of a vessel and one is only permitted to move vessels on Shabbat. And Rav Yosef said: A vessel with a capacity of three *kor*, one is also permitted to move it, and only one with a capacity of four *kor*, it is prohibited to move.
-
 Before returning to *bein hashmashot*, the *Gemara* digresses briefly. The passage notes: *v'hilufa b'khalsa* — the reversal of the two-and-three pattern just seen in the debate between Rabbah and Rav Yosef also appears in an entirely different *halachic* context involving a large type of basket called a *khalsa*.
+
+> **Hebrew/Aramaic:** וְחִילּוּפַהּ בְּחַלְּתָא. דְּאָמַר רַבָּה: חַלְּתָא בַּת תְּרֵי כוֹרֵי — שְׁרֵי לְטַלְטוֹלַהּ, וּבַת תְּלָתָא כוֹרֵי — אֲסִיר לְטַלְטוֹלַהּ. וְרַב יוֹסֵף אָמַר: בַּת תְּלָתָא כוֹרֵי — נָמֵי שְׁרֵי, בַּת אַרְבְּעָה כוֹרֵי — אֲסִיר.
+> **Translation:** The Gemara comments: **And** with regard to the legal status of **a wicker vessel** their dispute **is the opposite.** In that case, the size of the vessel permitted by Rav Yosef is larger than the size of the vessel permitted by Rabba. **As Rabba said** with regard to **a wicker vessel with a capacity of two *kor*, one is permitted to move it** on Shabbat. **And one with a capacity of three *kor*, one is prohibited to move it** on Shabbat. It is much larger than the dimensions of a vessel and one is only permitted to move vessels on Shabbat. **And Rav Yosef said:** A vessel **with a capacity of three *kor*, one is also permitted** to move it, and only **one with a capacity of four *kor*,** it **is prohibited** to move.
 
 ---
 
 ## Vessel Muktzah Rules
 
+
+
 ### Rabbah vs Rav Yosef
+
 
 The *Gemara* records the following dispute. Rabbah rules: a *khalsa* holding two *kor* may be carried on *Shabbat* — it retains the status of a vessel — but one holding three *kor* may not be carried, as it is no longer considered a vessel and is therefore *muktzah*. Rav Yosef disagrees: even a *khalsa* of three *kor* may be carried, and only one of four *kor* is forbidden. A *kor* is a very large dry volume measure; we are speaking of containers of truly enormous size — perhaps comparable in volume to a large appliance.
 
@@ -46,17 +42,13 @@ It should be clarified: both Rabbah and Rav Yosef were transmitting teachings at
 
 ### Abaye's Question
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: בְּעַי מִינֵּיהּ דְּמָר בִּשְׁעַת מַעֲשֶׂה, וַאֲפִילּוּ בַּת תְּרֵי כוֹרֵי לָא שְׁרָא לִי.
->
-> **Translation:** Abaye said: I raised the dilemma before my Master, Rabbah, when it was practical, when I actually needed to know what to do, and he did not permit me to move even a vessel with a capacity of two *kor*.
-
 Abaye reports that he posed a practical question to Rabbah when an actual case arose: he had a very large basket and wished to move it. Rabbah had taught that *two kor* is permitted and *three kor* is forbidden, but in the real case Rabbah did not even permit a basket of *two kor*. This suggests Rabbah was applying a stricter standard in practice than his stated ruling implied.
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: בְּעַי מִינֵּיהּ דְּמָר בִּשְׁעַת מַעֲשֶׂה, וַאֲפִילּוּ בַּת תְּרֵי כוֹרֵי לָא שְׁרָא לִי. כְּמַאן — כְּהַאי תַּנָּא דִּתְנַן: כַּוֶּורֶת הַקַּשׁ וְכַוֶּורֶת הַקָּנִים וּבוֹר סְפִינָה אֲלֶכְּסַנְדְּרִית, אַף עַל פִּי שֶׁיֵּשׁ לָהֶם שׁוּלַיִם וְהֵן מַחֲזִיקוֹת אַרְבָּעִים סְאָה בַּלַּח שֶׁהֵן כּוֹרַיִים בַּיָּבֵשׁ — טְהוֹרִים. אָמַר אַבָּיֵי: שְׁמַע מִינַּהּ הַאי גּוּדְשָׁא תִּילְּתָא הָוֵי.
+> **Translation:** **Abaye said: I raised the dilemma before my Master,** Rabba, **when it was practical,** when I actually needed to know what to do, **and he did not permit me** to move **even** a vessel **with a capacity of two** *kor*. The Gemara explains: **In accordance with whose** opinion did Rabba issue his practical halakhic ruling? **In accordance with** the opinion of **this** *tanna* that **we learned** in the mishna discussing the laws of ritual purity: **A round straw barrel, and a round barrel** made **of reeds, and the cistern of an Alexandrian ship,** which is a large vessel placed on a boat and filled with potable water, **although** these vessels **have bottoms,** i.e., they are receptacles, since they **have a capacity of forty *se’a*** of liquid, **which is the** equivalent of **two** *kor* of **dry** goods**,** they are **ritually pure.** Even if they come into contact with a source of ritual impurity, they do not become impure. Beyond a certain size, containers are no longer considered vessels and, consequently, cannot become ritually impure. Rabba held: Since with regard to the *halakhot* of ritual impurity a vessel of two *kor* is not considered a vessel, it may not be moved on Shabbat. With regard to this mishna, **Abaye said: Learn from it** that **the surplus** of dry goods in a vessel relative to liquids **is one-third** of the contents of the vessel. It says in the mishna that a vessel that can hold forty *se’a* of liquid holds two *kor* of dry produce, which is the equivalent of sixty *se’a*.
 
 ### Mishna Connection
 
-> **Hebrew/Aramaic:** כְּמַאן — כְּהַאי תַּנָּא דִּתְנַן: כַּוֶּורֶת הַקַּשׁ וְכַוֶּורֶת הַקָּנִים וּבוֹר סְפִינָה אֲלֶכְּסַנְדְּרִית, אַף עַל פִּי שֶׁיֵּשׁ לָהֶם שׁוּלַיִם וְהֵן מַחֲזִיקוֹת אַרְבָּעִים סְאָה בַּלַּח שֶׁהֵן כּוֹרַיִים בַּיָּבֵשׁ — טְהוֹרִים.
->
-> **Translation:** In accordance with whose opinion did Rabbah issue his practical halakhic ruling? In accordance with this *tanna* that we learned in the mishna discussing the laws of ritual purity: A round straw barrel, and a round barrel made of reeds, and the cistern of an Alexandrian ship, which is a large vessel placed on a boat and filled with potable water, although these vessels have bottoms, i.e., they are receptacles, since they have a capacity of forty *se'a* of liquid, which is the equivalent of two *kor* of dry goods, they are ritually pure.
 
 The *Gemara* asks: whose position does Rabbah's strict ruling follow? It answers: *k'man k'hai tanna* — like the *Tanna* of the following *Mishnah*. The *Mishnah* lists several large containers: a *kiveret* made of straw, a *kiveret* made of reeds, a cistern, and the freshwater tank of an Alexandrian ship. An Alexandrian ship, as a student clarified, is a vessel that crosses open seas rather than hugging the coast or sailing rivers — and therefore requires a much larger freshwater supply for the journey. These containers all have a floor, which might suggest they qualify as vessels. Nevertheless, the *Mishnah* rules that if they hold 40 *se'ah* of liquid — the minimum volume of a *mikvah*, roughly the amount of water needed to fully immerse a person — which corresponds to two *kor* of dry measure, they are *tahor*, meaning they cannot become *tamei* because they are not classified as vessels at all.
 
@@ -64,23 +56,20 @@ Accordingly, once a container reaches the capacity of two *kor* dry measure, it 
 
 ### Dry/Liquid Measures
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: שְׁמַע מִינַּהּ הַאי גּוּדְשָׁא תִּילְּתָא הָוֵי.
->
-> **Translation:** Abaye said: Learn from it that the surplus of dry goods in a vessel relative to liquids is one-third of the contents of the vessel.
-
 Abaye draws an inference from the *Mishnah*'s dual formulation — 40 *se'ah* of liquid and two *kor* of dry measure — and observes: *shma mina hai gudesha tilsa havei*, we learn from this that the heaping of a dry measure adds one third. The reason two measures are cited is that a dry measure, unlike a liquid measure, permits heaping — grain piled above the rim of the container. Rashi notes that this effect is particularly pronounced when the vessel is wide but not very tall. The two *kor* of dry measure therefore exceeds the 40 *se'ah* of liquid measure by exactly one third, owing to the additional volume of the heap.
 
 ---
 
 ## Redness/Western Sky
 
+
+
 ### Abaye Watches Rava
 
-> **Hebrew/Aramaic:** אַבָּיֵי חַזְיֵיהּ לְרָבָא דְּקָא דָּאוֵי לְמַעֲרָב. אֲמַר לֵיהּ: וְהָתַנְיָא כׇּל זְמַן שֶׁפְּנֵי מִזְרָח מַאֲדִימִין? אֲמַר לֵיהּ: מִי סָבְרַתְּ פְּנֵי מִזְרָח מַמָּשׁ? לָא, פָּנִים הַמַּאֲדִימִין אֶת הַמִּזְרָח.
->
-> **Translation:** The Gemara relates: Abaye saw that Rava was gazing westward on Shabbat eve to determine whether or not the sky was red and whether or not it was twilight. Abaye said to Rava: Wasn't it taught in a *baraita* that twilight is from when the sun sets, as long as the eastern face of the sky is reddened by the light of the sun? Why, then, are you looking westward? Rava said to him: Do you hold that the reference is actually to the eastern face of the sky? No, it is referring to the face of the sky that causes the east to redden, i.e., the west.
-
 The *Gemara* returns to *bein hashmashot*. Until this point the discussion has concerned the redness of the sky and when it darkens. Now: *Abayei chazyei leRava dekahadvi lema'arav* — Abaye observed Rava peering toward the west after sunset, examining the color of the sky. This is puzzling. The earlier discussion stated that one watches the *penei mizrach* — the face of the east — to determine when the redness dissipates. Why, then, is Rava looking west?
+
+> **Hebrew/Aramaic:** אַבָּיֵי חַזְיֵיהּ לְרָבָא דְּקָא דָּאוֵי לְמַעֲרָב. אֲמַר לֵיהּ: וְהָתַנְיָא כׇּל זְמַן שֶׁפְּנֵי מִזְרָח מַאֲדִימִין? אֲמַר לֵיהּ: מִי סָבְרַתְּ פְּנֵי מִזְרָח מַמָּשׁ? לָא, פָּנִים הַמַּאֲדִימִין אֶת הַמִּזְרָח. אִיכָּא דְאָמְרִי: רָבָא חַזְיֵיהּ לְאַבָּיֵי דְּקָא דָּאוֵי לְמִזְרָח. אֲמַר לֵיהּ מִי סָבְרַתְּ פְּנֵי מִזְרָח מַמָּשׁ? פָּנִים הַמַּאֲדִימִין אֶת הַמִּזְרָח. וְסִימָנָיךְ: כַּוְּותָא.
+> **Translation:** The Gemara relates: **Abaye saw** that **Rava was gazing westward** on Shabbat eve to determine whether or not the sky was red and whether or not it was twilight. Abaye **said to** Rava: **Wasn’t it taught** in a *baraita* that twilight **is from when the sun sets, as long as the eastern face** of the sky **is reddened** by the light of the sun? Why, then, are you looking westward? Rava **said to him: Do you hold** that the reference is actually to **the eastern face** of the sky? **No,** it is referring to **the face** of the sky **that causes the east** to **redden,** i.e., the west. **Some say** a different version of that incident. **Rava saw** that **Abaye was gazing eastward. He said to him, do you hold** that the reference is to **the actual eastern face** of the sky? The reference is to **the face** of the sky **that causes the east to redden,** i.e., the west. **And your mnemonic is a window**, as it is on the wall opposite the window that one can see how much sunlight is shining through.
 
 ### Penei Mizrach Explained
 
@@ -88,13 +77,10 @@ Abaye asked Rava about this, invoking the phrase *kol zman shepenei mizrach maad
 
 ### Alternative Account
 
-> **Hebrew/Aramaic:** אִיכָּא דְאָמְרִי: רָבָא חַזְיֵיהּ לְאַבָּיֵי דְּקָא דָּאוֵי לְמִזְרָח. אֲמַר לֵיהּ מִי סָבְרַתְּ פְּנֵי מִזְרָח מַמָּשׁ? פָּנִים הַמַּאֲדִימִין אֶת הַמִּזְרָח. וְסִימָנָיךְ: כַּוְּותָא.
->
-> **Translation:** Some say a different version of that incident. Rava saw that Abaye was gazing eastward. He said to him, do you hold that the reference is to the actual eastern face of the sky? The reference is to the face of the sky that causes the east to redden, i.e., the west. And your mnemonic is a window, as it is on the wall opposite the window that one can see how much sunlight is shining through.
-
 The *Gemara* offers an alternative version of this exchange: *ika d'amri*, some say it was Rava who observed Abaye — not Abaye who observed Rava — and it was Abaye who had been looking eastward. In that version, Rava is the one who delivers the explanation that *penei mizrach* refers not to the east itself but to the face opposite the east, namely the west.
 
 ### Window Metaphor
+
 
 This second version accompanies the mnemonic *vesimanach kivsa* — think of a window, where the light source is behind the window and illuminates the wall opposite. So too, the west, where the sun descends, illuminates the eastern sky from behind, as it were.
 
@@ -103,6 +89,8 @@ Yet this reading raises at least two difficulties. First, the earlier *baraita* 
 ---
 
 ## Reconciling Gemarot
+
+
 
 ### Textual Problems
 
@@ -144,47 +132,58 @@ All of these positions are, in principle, latitude-dependent. Darkness comes at 
 
 The difficulty with Rav Moshe's position is the following. If Rabbeinu Tam's 72 minutes were empirically calibrated to France, one could argue that the equivalent in America, given the difference in latitude, is 45 minutes. But Rabbeinu Tam is not making an empirical claim about France — he is presenting a textual argument that the *Gemara* itself, rooted in the realities of *Eretz Yisrael* and Babylonia, requires 72 minutes. There is no way to derive that 72 minutes in those latitudes corresponds to 45 minutes in America. Nevertheless, Rav Moshe maintains this position. His view is that those who follow the 42 to 45 minute practice are in effect following a modified Rabbeinu Tam adjusted for location. The more straightforward understanding of the 42 to 45 minute practice, however, is that it reflects direct astronomical observation of when three stars appear — an approach that does not depend on resolving the contradiction between the *Gemarot* at all.
 
+It is also worth noting that Rabbeinu Tam's *shita* carries the weight it does in part because it became so widely accepted among the *Rishonim* — including those who lived in latitudes where one would expect the empirical pressure to run against it. The *Mechaber*, who lived in *Eretz Yisrael*, rules in accordance with Rabbeinu Tam, and does so even *l'kula* — holding that up to approximately 58 minutes after sunset it is still considered day. This is a striking ruling that virtually no one relies on in practice today. It illustrates how once a position takes on the force of a dominant *shita* among the *Rishonim*, it can persist and be applied even in contexts where the underlying observational reality would seem to cut the other way.
+
 Practically speaking, there is a strong argument against relying on Rabbeinu Tam *l'kula* under ordinary circumstances. If one routinely performs *melacha* after 45 minutes — effectively rejecting Rabbeinu Tam's *shita* week after week — it is difficult to invoke that same *shita* selectively when a situation of need arises. The coherence of one's *halachic* practice requires some consistency in which positions one takes seriously.
 
 ---
 
 ## Halachic Rulings
 
-### Rabbi Nechemiah
 
-> **Hebrew/Aramaic:** רַבִּי נְחֶמְיָה אוֹמֵר כְּדֵי שֶׁיְּהַלֵּךְ אָדָם מִשֶּׁתִּשְׁקַע הַחַמָּה חֲצִי מִיל.
->
-> **Translation:** Rabbi Neḥemya says: The duration of the twilight period is the time it takes for a person to walk half a *mil* after the sun sets.
+
+### Rabbi Nechemiah
 
 The *Gemara* now introduces Rabbi Nechemiah's position: *bein hashmashot* lasts for the time it takes a person to walk half a *mil* from sunset — approximately nine minutes.
 
 ### Mount Carmel Test
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי חֲנִינָא: הָרוֹצֶה לֵידַע שִׁיעוּרוֹ שֶׁל רַבִּי נְחֶמְיָה יַנִּיחַ חַמָּה בְּרֹאשׁ הַכַּרְמֶל וְיֵרֵד וְיִטְבּוֹל בַּיָּם וְיַעֲלֶה — וְזֶהוּ שִׁיעוּרוֹ שֶׁל רַבִּי נְחֶמְיָה.
->
-> **Translation:** Rabbi Ḥanina said: One who wants to know the precise measure of Rabbi Neḥemya's twilight should do the following: Leave the sun at the top of Mount Carmel, and descend and immerse himself in the sea, and emerge, and that is Rabbi Neḥemya's measure of the duration of twilight.
-
 Rabbi Chanina offers a practical illustration: if you want to experience the duration of Rabbi Nechemiah's *shiur*, leave the sun at the top of Mount Carmel, descend to the Mediterranean, immerse in the sea, and return to the top — that interval is the *shiur* of Rabbi Nechemiah. Mount Carmel is located near Haifa, adjacent to the Mediterranean coast, so the geography is plausible. Rashi understands this as a way of expressing the nine-minute half-*mil* — the descent, immersion, and return constituting roughly that amount of time, though the logistics of how exactly going down a mountain, performing a *tevila*, and returning maps onto nine minutes is not entirely straightforward, particularly since *ya'ale* might mean emerging from the *tevila* rather than literally climbing back up the mountain.
+
+> **Hebrew/Aramaic:** רַבִּי נְחֶמְיָה אוֹמֵר כְּדֵי שֶׁיְּהַלֵּךְ אָדָם מִשֶּׁתִּשְׁקַע הַחַמָּה חֲצִי מִיל. אָמַר רַבִּי חֲנִינָא: הָרוֹצֶה לֵידַע שִׁיעוּרוֹ שֶׁל רַבִּי נְחֶמְיָה יַנִּיחַ חַמָּה בְּרֹאשׁ הַכַּרְמֶל וְיֵרֵד וְיִטְבּוֹל בַּיָּם וְיַעֲלֶה — וְזֶהוּ שִׁיעוּרוֹ שֶׁל רַבִּי נְחֶמְיָה.
+> **Translation:** With regard to that which was taught in the *baraita* that **Rabbi Neḥemya says:** The duration of twilight is **the time** it takes **for a person to walk half a *mil* after the sun sets. Rabbi Ḥanina said: One who wants to know** the precise measure of **Rabbi Neḥemya’s** twilight should do the following: **Leave the sun at the top of** Mount **Carmel,** as when one is standing on the seashore he can still see the top of Mount Carmel in sunlight, **and descend and immerse himself in the sea, and emerge, and that is Rabbi Neḥemya’s measure** of the duration of twilight.
 
 ### Tosafot Reading
 
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי חִיָּיא: הָרוֹצֶה לִרְאוֹת בְּאֵרָהּ שֶׁל מִרְיָם יַעֲלֶה לְרֹאשׁ הַכַּרְמֶל וְיִצְפֶּה וְיִרְאֶה כְּמִין כְּבָרָה בַּיָּם — וְזוֹ הִיא בְּאֵרָהּ שֶׁל מִרְיָם. אָמַר רַב: מַעְיָן הַמִּיטַּלְטֵל טָהוֹר — וְזֶהוּ בְּאֵרָהּ שֶׁל מִרְיָם.
+> **Translation:** Because of its similarity to Rabbi Ḥanina’s statement, the Gemara cites that which **Rabbi Ḥiyya said: One who wants to see Miriam’s well,** which accompanied the Jewish people throughout their sojourn in the desert, should do the following: **He** should **climb to the top of** Mount **Carmel and look out, and** he will **see** a rock that looks **like a sieve in the sea, and that is Miriam’s well. Rav said: A spring that is portable,** i.e., that moves from place to place, is **ritually pure** and is regarded as an actual spring and not as drawn water. **And** what is a movable spring? **It is Miriam’s well.**
+
 Tosafot offers a fundamentally different reading of the passage. Rather than describing the duration of *bein hashmashot* from sunset, Tosafot understands the scenario as follows: when the sun is still at the top of Mount Carmel — meaning, before sunset — the time it takes to descend, perform a *tevila*, and return gives you an indication of when the sun will have set. In other words, it is telling a *kohen* who wishes to immerse and then eat *terumah* after dark: if you begin your descent when the sun is at the top of the mountain, you will have completed your *tevila* and ascended before sunset, ensuring that your immersion occurs during definite daytime. On this reading, the example is not about the duration of *bein hashmashot* at all but about a practical landmark for knowing when sunset is near — relevant specifically to a *kohen* who needs to time his *tevila* correctly. What remains somewhat unclear is why the *Gemara* specifies the return ascent, since once the *tevila* is complete the *kohen*'s status changes regardless of where he is physically standing.
+
+The *Gemara* then inserts a striking aggadic interlude. Rabbi Chiya teaches that one who wishes to see the well of Miriam — the miraculous well that accompanied the Jewish people through the wilderness — should go to the top of Mount Carmel, peer out, and look for something that appears like a sieve in the sea. The *Gemara* identifies this as the well of Miriam. The Talmud then cites a ruling that *mayim hamitaltelin* — moving water — is *tahor*, meaning it neither contracts impurity nor can it lose its status as a valid *mikvah*. The question is: what well actually moves? A well, by definition, is stationary. The answer given is that this is precisely the well of Miriam, which moved miraculously. Exactly where the well now rests is a matter of some discussion — various sources locate it in the Kinneret — but the *Gemara* here points toward the Mediterranean as visible from Mount Carmel, which is itself a curious detail given the geography.
 
 The extended discussion of *bein hashmashot* now arrives at a crucial ruling. Before examining it, it is worth noting that the most stringent position in this *Gemara* is Rabbi Yehuda's: from sunset until three-quarters of a *mil* is *bein hashmashot*, before which is definite day and after which is definite night. The other positions — Rabbi Nechemiah's half-*mil* and Rabbi Yosi's blink-of-an-eye — are comparatively less stringent in duration. Were it not for the *Gemara* in Pesachim and the subsequent position of Rabbeinu Tam, the natural reading of this *Gemara* would yield *tzeis* at 14 to 18 minutes after sunset as the most stringent available ruling.
 
+[DAF:35b]
 ### Two-Sided Strictness
-
-> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כְּרַבִּי יְהוּדָה לְעִנְיַן שַׁבָּת, וַהֲלָכָה כְּרַבִּי יוֹסֵי לְעִנְיַן תְּרוּמָה.
->
-> **Translation:** Rabba bar bar Ḥana said that Rabbi Yoḥanan said: The *halakha* is in accordance with the opinion of Rabbi Yehuda with regard to the matter of Shabbat, and the *halakha* is in accordance with the opinion of Rabbi Yosei with regard to the matter of *teruma*.
 
 Rabbah bar bar Channah said in the name of Rabbi Yochanan: *halakha k'Rabbi Yehuda l'inyan Shabbat* — we rule like Rabbi Yehuda for matters of *Shabbat*. *V'halakha k'Rabbi Yosi l'inyan terumah* — and we rule like Rabbi Yosi for matters of *terumah*.
 
+> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כְּרַבִּי יְהוּדָה לְעִנְיַן שַׁבָּת, וַהֲלָכָה כְּרַבִּי יוֹסֵי לְעִנְיַן תְּרוּמָה. בִּשְׁלָמָא הֲלָכָה כְּרַבִּי יְהוּדָה לְעִנְיַן שַׁבָּת — לְחוּמְרָא. אֲבָל לְעִנְיַן תְּרוּמָה — מַאי הִיא? אִילֵימָא לִטְבִילָה — סְפֵקָא הִיא?
+> **Translation:** **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: The *halakha* is in accordance with** the opinion of **Rabbi Yehuda with regard to the matter of Shabbat, and the *halakha* is in accordance with** the opinion of **Rabbi Yosei with regard to the matter of *teruma*.** The Gemara asks: **Granted,** concerning the statement that **the** *halakha* **is in accordance with** the opinion of **Rabbi Yehuda with regard to the matter of Shabbat,** as like all other cases of uncertainty, the ruling is **stringent** with regard to Torah prohibitions. **However, with regard to *teruma*, what is** the case under discussion? **If you say** that it is referring **to** the matter of **immersion,** immersion is also a case of **uncertainty** with regard to a Torah law. Why would the ruling be more lenient in that case than in the case of Shabbat?
+
+> **Hebrew/Aramaic:** אֶלָּא לַאֲכִילַת תְּרוּמָה, דְּלָא אָכְלִי כֹּהֲנִים תְּרוּמָה עַד דְּשָׁלֵים בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי.
+> **Translation:** **Rather,** it must be that the reference is with regard **to eating *teruma*. Priests may not eat *teruma* until twilight is completed, which according to Rabbi Yosei’s** opinion is slightly later than it is according to Rabbi Yehuda’s opinion.
+
 ### Strictness Explained
 
-> **Hebrew/Aramaic:** אֶלָּא לַאֲכִילַת תְּרוּמָה, דְּלָא אָכְלִי כֹּהֲנִים תְּרוּמָה עַד דְּשָׁלֵים בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי.
->
-> **Translation:** Rather, it must be that the reference is with regard to eating *teruma*. Priests may not eat *teruma* until twilight is completed, which according to Rabbi Yosei's opinion is slightly later than it is according to Rabbi Yehuda's opinion.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יְהוּדָה, כֹּהֲנִים טוֹבְלִין בּוֹ. לְמַאן? אִילֵימָא לְרַבִּי יְהוּדָה — סְפֵקָא הוּא. אֶלָּא, בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יְהוּדָה, לְרַבִּי יוֹסֵי כֹּהֲנִים טוֹבְלִין בּוֹ.
+> **Translation:** **Rav Yehuda said** that **Shmuel said:** During **Rabbi Yehuda’s twilight,** ritually impure **priests** who want to immerse themselves during the day to become ritually pure, so that sunset will follow immersion and they will be permitted to eat *teruma*, **can** still **immerse** themselves **during** that period. According to this opinion, twilight is still considered to be day. The Gemara asks: **In accordance with whose** opinion is that true? **If you say** that it is **in accordance with Rabbi Yehuda**’s own opinion, his opinion cited above is that twilight is a period of **uncertainty.** Therefore, one who immerses at that time may not eat *teruma* until after the sunset of the following day. **Rather,** the reference is to **twilight** of **Rabbi Yehuda,** in accordance with the opinion of **Rabbi Yosei. Priests** can **immerse then,** as Rabbi Yosei considers that time to still be day, and sunset will follow.
+
+> **Hebrew/Aramaic:** פְּשִׁיטָא! מַהוּ דְתֵימָא: בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי מֵישָׁךְ שָׁיֵיךְ בִּדְרַבִּי יְהוּדָה — קָא מַשְׁמַע לַן דְּשָׁלֵים בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יְהוּדָה, וַהֲדַר מַתְחֵיל בֵּין הַשְּׁמָשׁוֹת דְּרַבִּי יוֹסֵי.
+> **Translation:** The Gemara asks: It is **obvious** that according to Rabbi Yosei they are immersing themselves during the day. The Gemara answers: **Lest you say** that the **twilight** of **Rabbi Yosei is subsumed within** and takes place at the end of the twilight **of Rabbi Yehuda.** When the twilight of Rabbi Yehuda ends, Rabbi Yosei’s twilight is also over. It is already night, sunset of that day has already passed, and there is no sunset to enable them to eat *teruma*. Therefore, **he teaches us** that **Rabbi Yehuda’s twilight ends, and** only **thereafter** does **Rabbi Yosei’s twilight begin.**
+
 
 The *Gemara* unpacks this ruling. Ruling like Rabbi Yehuda for *Shabbat* is straightforward: it is *l'chumra*, the strict position, meaning *Shabbat* begins at sunset and does not end until *bein hashmashot* is complete. But what does it mean to rule like Rabbi Yosi for *terumah*? The *Gemara* first considers whether it means *kohanim* may immerse during Rabbi Yehuda's *bein hashmashot* period because according to Rabbi Yosi that period is definite day — but this is rejected, since immersion is a *d'Oraita* requirement and one cannot be lenient there.
 
@@ -204,15 +203,17 @@ In any case, the *Gemara*'s ruling as understood here remains tethered to the fr
 
 ## Stars as Markers
 
+
+
 ### Star Counting
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כּוֹכָב אֶחָד — יוֹם, שְׁנַיִם — בֵּין הַשְּׁמָשׁוֹת, שְׁלֹשָׁה — לַיְלָה. תַּנְיָא נָמֵי הָכִי: כּוֹכָב אֶחָד יוֹם, שְׁנַיִם בֵּין הַשְּׁמָשׁוֹת, שְׁלֹשָׁה לַיְלָה. אָמַר רַבִּי יוֹסֵי, לֹא כּוֹכָבִים גְּדוֹלִים הַנִּרְאִין בַּיּוֹם, וְלֹא כּוֹכָבִים קְטַנִּים שֶׁאֵין נִרְאִין אֶלָּא בַּלַּיְלָה — אֶלָּא בֵּינוֹנִים.
->
-> **Translation:** With regard to the period of twilight, Rav Yehuda said that Shmuel said: When one can see one star in the evening sky, it is still day; two stars, twilight; three stars, night. That was also taught in a *baraita*: When one can see one star in the evening sky, it is still day; two stars, twilight; three stars, night. Rabbi Yosei said: This is neither referring to large stars that are visible even during the day, nor to small stars that are visible only late at night. Rather, it is referring to medium-sized stars.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כּוֹכָב אֶחָד — יוֹם, שְׁנַיִם — בֵּין הַשְּׁמָשׁוֹת, שְׁלֹשָׁה — לַיְלָה. תַּנְיָא נָמֵי הָכִי: כּוֹכָב אֶחָד יוֹם, שְׁנַיִם בֵּין הַשְּׁמָשׁוֹת, שְׁלֹשָׁה לַיְלָה. אָמַר רַבִּי יוֹסֵי, לֹא כּוֹכָבִים גְּדוֹלִים הַנִּרְאִין בַּיּוֹם, וְלֹא כּוֹכָבִים קְטַנִּים שֶׁאֵין נִרְאִין אֶלָּא בַּלַּיְלָה — אֶלָּא בֵּינוֹנִים.
+> **Translation:** With regard to the period of twilight, **Rav Yehuda said** that **Shmuel said:** When one can see **one star** in the evening sky, it is still **day; two** stars**, twilight; three** stars, **night. That was also taught** in a *baraita*: When one can see **one star** in the evening sky**,** it is still **day; two** stars**, twilight; three** stars, **night. Rabbi Yosei said:** This is **neither** referring to **large stars that are visible** even **during the day, nor to small stars that are visible only** late **at night. Rather,** it is referring to **medium-**sized stars.
 
-Rav Yehuda said in the name of Shmuel: one star visible in the sky — it is still day; two stars — it is *bein hashmashot*; three stars — it is night. This is a striking and practical alternative to the earlier measures. Rather than counting minutes from sunset or watching the sky's color shift, one simply looks upward.
+Rav Yehuda said in the name of Shmuel: one star visible in the sky — it is still day; two stars — it is *bein hashmashot*; three stars — it is night. This is a striking and practical alternative to the earlier measures. Rather than counting minutes from sunset or watching the sky's color shift, one simply looks upward. Indeed, this may be precisely why the star-counting measure arose alongside the earlier redness-based criteria: a cloudy sky makes stars hard to see, whereas judging the color of the horizon is difficult to pinpoint with precision — how dark is dark enough? Each measure compensates for the weakness of the other. And once the earlier measure was quantified in terms of fractions of a *mil*, that quantification made it easier to apply in the abstract, but before it was so quantified, the visual criterion of redness or darkness was genuinely hard to use with confidence. The star-count, by contrast, offers something almost self-evident: you go outside, look up, count, and know.
 
 ### Baraita Confirmation
+
 
 A *baraita* confirms the identical rule: one star is day, two stars is *bein hashmashot*, three stars is night. The *baraita* also includes the teaching of Rabbi Yosi bar Avin: one who performs *melacha* during *bein hashmashot* on Friday evening and again during *bein hashmashot* on Saturday night — having thus spanned the ambiguous period on both ends of *Shabbat* — is *chayav chatat*, obligated in a sin-offering. One might think this is impossible to prove, since perhaps both acts of *melacha* fell in whichever half of the ambiguous period was "really" day. Rashi and Tosafot therefore clarify: the ruling applies when one performed *melacha* continuously throughout the entire *bein hashmashot* period on each occasion. In that case, at least some portion of the *melacha* necessarily fell during the actual *Shabbat* — whether night arrived at the beginning or the end of the ambiguous window.
 
@@ -225,10 +226,6 @@ This ruling exposes a deeper conceptual question, which connects to an earlier *
 Rabbi Yosi clarifies an essential detail: the three stars are not the large, bright bodies sometimes visible even in daylight, nor are they the faint stars that emerge only well into the night. They are *beinonim* — medium-sized, average stars.
 
 ### Rava's Objection
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי בְּרַבִּי זְבִידָא: הָעוֹשֶׂה מְלָאכָה בִּשְׁנֵי בֵּין הַשְּׁמָשׁוֹת — חַיָּיב חַטָּאת מִמָּה נַפְשָׁךְ.
->
-> **Translation:** Rabbi Yosei, son of Rabbi Zevida, said: One who performs a prohibited labor during two twilights, one between Friday and Shabbat and one between Shabbat and the conclusion of Shabbat on Saturday night, is liable to bring a sin-offering for performing a prohibited labor on Shabbat whichever way you look at it.
 
 Rava adds a further clarification consistent with the *chatat* discussion above: one is not *chayav* based merely on performing *melacha* at some moment during *bein hashmashot*. The *melacha* must be performed throughout the entire period.
 
@@ -244,11 +241,12 @@ The *chatat* rule in this context ties directly back to the conceptual question 
 
 ## Practical Signs
 
+
+
 ### Sun/Palm Trees
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא לְשַׁמָּעֵיהּ: אַתּוּן דְּלָא קִים לְכוּ בְּשִׁיעוּרָא דְרַבָּנַן, אַדְּשִׁימְשָׁא אַרֵישׂ דִּיקְלֵי אַתְלוֹ שְׁרָגָא. בְּיוֹם הַמְעוּנָּן מַאי? בְּמָתָא — חֲזִי תַּרְנְגוֹלָא. בְּדַבְרָא — עוֹרְבֵי, אִי נָמֵי — אֲדָאנֵי.
->
-> **Translation:** Rava said to his servant: You, who are not expert in the measures of the Sages, when the sun is at the top of the palm trees, light the Shabbat lights. His servant asked him: What should we do on a cloudy day, when the sun is not visible at the top of the trees? Rava said to him: In the city, watch the roosters because as evening approaches they sit on their beams. In a field, watch the ravens because they return to their nests as evening approaches. Alternatively, you can watch the plants [*adanei*] that turn westward in the evening.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי בְּרַבִּי זְבִידָא: הָעוֹשֶׂה מְלָאכָה בִּשְׁנֵי בֵּין הַשְּׁמָשׁוֹת — חַיָּיב חַטָּאת מִמָּה נַפְשָׁךְ. אֲמַר לֵיהּ רָבָא לְשַׁמָּעֵיהּ: אַתּוּן דְּלָא קִים לְכוּ בְּשִׁיעוּרָא דְרַבָּנַן, אַדְּשִׁימְשָׁא אַרֵישׂ דִּיקְלֵי אַתְלוֹ שְׁרָגָא. בְּיוֹם הַמְעוּנָּן מַאי? בְּמָתָא — חֲזִי תַּרְנְגוֹלָא. בְּדַבְרָא — עוֹרְבֵי, אִי נָמֵי — אֲדָאנֵי.
+> **Translation:** **Rabbi Yosei, son of Rabbi Zevida, said: One who performs a prohibited labor during two twilights,** one between Friday and Shabbat and one between Shabbat and the conclusion of Shabbat on Saturday night, **is liable** to bring a **sin-offering** for performing a prohibited labor on Shabbat **whichever** way **you** look at it. Whether we say that twilight is day or night, certainly one of those labors was performed on Shabbat. **Rava said to his servant: You, who are not expert in the measures of the Sages, when the sun is at the top of the palm trees, light the** Shabbat **lights.** His servant asked him: **What** should we do **on a cloudy day,** when the sun is not visible at the top of the trees? Rava said to him: **In the city, watch the roosters** because as evening approaches they sit on their beams. **In a field,** watch **the ravens** because they return to their nests as evening approaches. **Alternatively,** you can watch **the plants [*adanei*]** that turn westward in the evening. When they begin to turn westward evening is approaching.
 
 Rava said to his attendant: since you are not expert in the precise rabbinic calculations of time (*d'lo kaim-lehu b'shiurei d'rabbanan*), here is a practical guide. When the sun is level with the tops of the palm trees — *ad de-shimsha rei-sh diklei* — that is when you should light a candle, because sunset is imminent.
 
@@ -270,13 +268,14 @@ There is a further implication here. The fact that practical signs are given for
 
 ## Six Tekiot
 
+
+
 ### Six Blasts Intro
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: שֵׁשׁ תְּקִיעוֹת תּוֹקְעִין עֶרֶב שַׁבָּת. רִאשׁוֹנָה — לְהַבְטִיל אֶת הָעָם מִמְּלָאכָה שֶׁבַּשָּׂדוֹת. שְׁנִיָּה — לְהַבְטִיל עִיר וַחֲנוּיוֹת. שְׁלִישִׁית — לְהַדְלִיק אֶת הַנֵּר, דִּבְרֵי רַבִּי נָתָן. רַבִּי יְהוּדָה הַנָּשִׂיא אוֹמֵר: שְׁלִישִׁית — לַחֲלוֹץ תְּפִילִּין. וְשׁוֹהֶה כְּדֵי צְלִיַּית דָּג קָטָן אוֹ כְּדֵי לְהַדְבִּיק פַּת בַּתַּנּוּר, וְתוֹקֵעַ וּמֵרִיעַ וְתוֹקֵעַ, וְשׁוֹבֵת.
->
-> **Translation:** The Sages taught in a *baraita*: They sound six blasts on Shabbat eve to announce that Shabbat is approaching. The Gemara details what each blast signifies. The first blast is in order to stop the people from work in the fields. The second blast is to stop those who are working in the city, and to inform the proprietors to close the stores. The third is to inform them to light the Shabbat light; that is the statement of Rabbi Natan. Rabbi Yehuda HaNasi says: The third blast is to inform those who don phylacteries throughout the day to remove their phylacteries, as one does not don phylacteries on Shabbat. And he pauses after the third blast for the length of time it takes to fry a small fish or to stick bread to the sides of the oven. One who forgot to do so and needs those foods for Shabbat may do so then. And he sounds a *tekia*, and sounds a *terua*, and sounds a *tekia*, and he accepts Shabbat.
-
 A *baraita* teaches: six *tekiot* — shofar blasts — were sounded on *erev Shabbat*. This practice is associated with Jerusalem and the *Beit Hamikdash*, though there was a designated place on the Temple precincts from which the blasts were made, as discussed in the context of tractate Middot.
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: שֵׁשׁ תְּקִיעוֹת תּוֹקְעִין עֶרֶב שַׁבָּת. רִאשׁוֹנָה — לְהַבְטִיל אֶת הָעָם מִמְּלָאכָה שֶׁבַּשָּׂדוֹת. שְׁנִיָּה — לְהַבְטִיל עִיר וַחֲנוּיוֹת. שְׁלִישִׁית — לְהַדְלִיק אֶת הַנֵּר, דִּבְרֵי רַבִּי נָתָן. רַבִּי יְהוּדָה הַנָּשִׂיא אוֹמֵר: שְׁלִישִׁית — לַחֲלוֹץ תְּפִילִּין. וְשׁוֹהֶה כְּדֵי צְלִיַּית דָּג קָטָן אוֹ כְּדֵי לְהַדְבִּיק פַּת בַּתַּנּוּר, וְתוֹקֵעַ וּמֵרִיעַ וְתוֹקֵעַ, וְשׁוֹבֵת.
+> **Translation:** **The Sages taught** in a *baraita*: **They sound six blasts on Shabbat eve** to announce that Shabbat is approaching. The Gemara details what each blast signifies. The **first blast** is in order **to stop the people from work in the fields.** The **second** blast **is to stop** those who are working in **the city, and** to inform the proprietors to close the **stores.** The **third** is to inform them **to light the** Shabbat **light;** that is **the statement of Rabbi Natan. Rabbi Yehuda HaNasi says:** The **third** blast is to inform those who don phylacteries throughout the day **to remove** their **phylacteries,** as one does not don phylacteries on Shabbat. **And he pauses** after the third blast for the length of **time** it takes to **fry a small fish or to stick bread to the** sides of the **oven.** One who forgot to do so and needs those foods for Shabbat may do so then. **And he sounds a *tekia*, and sounds a *terua*, and sounds a *tekia*, and he accepts Shabbat.** It is then that Shabbat begins in every sense.
 
 ### First Blast
 
@@ -296,13 +295,16 @@ Rabbi Yehuda HaNasi offers a different understanding of the third blast: it sign
 
 ### Final Three Blasts
 
+
 After a brief interval — the time it takes to fry a small fish (*k'dei tzliyat dag katan*), or alternatively, enough time to stick bread to the oven wall and let a crust form — a final sequence of *tekiah teruah tekiah* was sounded. This three-part blast constituted the formal announcement that *Shabbat* had arrived and all *melacha* must cease.
 
 ### Babylonian Practice
 
-> **Hebrew/Aramaic:** אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: מַה נַּעֲשֶׂה לָהֶם לַבַּבְלִיִּים, שֶׁתּוֹקְעִין וּמְרִיעִין וְשׁוֹבְתִין מִתּוֹךְ מְרִיעִין. תּוֹקְעִין וּמְרִיעִין? הָווּ לְהוּ חֲמִשָּׁה! אֶלָּא: שֶׁתּוֹקְעִין וְחוֹזְרִין וְתוֹקְעִין וּמְרִיעִין, וְשׁוֹבְתִין מִתּוֹךְ מְרִיעִין. מִנְהַג אֲבוֹתֵיהֶן בִּידֵיהֶן.
->
-> **Translation:** Rabban Shimon ben Gamliel said: What shall we do to the Babylonian Jews? They stray from the custom, as they sound a *tekia* and a *terua*, and they accept Shabbat during the *terua*, i.e., upon hearing the blast of the *terua*. The Gemara asks about this: Do the Babylonians really sound only a *tekia* and a *terua* and no more blasts? If so, there are only five blasts and not six, as it was taught in the *baraita*. Rather, the correct version is: They sound a *tekia*, and they again sound a *tekia*, and then they sound a *terua*, and they accept Shabbat during the *terua*. They do so because they continue the custom of their fathers that was handed down to them.
+> **Hebrew/Aramaic:** אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: מַה נַּעֲשֶׂה לָהֶם לַבַּבְלִיִּים, שֶׁתּוֹקְעִין וּמְרִיעִין וְשׁוֹבְתִין מִתּוֹךְ מְרִיעִין. תּוֹקְעִין וּמְרִיעִין? הָווּ לְהוּ חֲמִשָּׁה! אֶלָּא: שֶׁתּוֹקְעִין וְחוֹזְרִין וְתוֹקְעִין וּמְרִיעִין, וְשׁוֹבְתִין מִתּוֹךְ מְרִיעִין. מִנְהַג אֲבוֹתֵיהֶן בִּידֵיהֶן.
+> **Translation:** **Rabban Shimon ben Gamliel said: What shall we do to the Babylonian Jews?** They stray from the custom, **as** they **sound a *tekia* and a *terua*,** and **they accept Shabbat during the *terua*,** i.e., upon hearing the blast of the *terua*. The Gemara asks about this: Do the Babylonians really **sound** only **a *tekia* and a *terua*** and no more blasts? If so, **there are** only **five** blasts and not six, as it was taught in the *baraita*. **Rather,** the correct version is: **They sound a *tekia*, and they again sound a *tekia*, and** then they **sound a *terua*, and they accept Shabbat during the *terua*.** They do so because they continue **the custom of their fathers that was handed** down **to them.**
+
+> **Hebrew/Aramaic:** מַתְנֵי לֵיהּ רַב יְהוּדָה לְרַב יִצְחָק בְּרֵיהּ: שְׁנִיָּה לְהַדְלִיק אֶת הַנֵּר. כְּמַאן? לָא כְּרַבִּי נָתָן, וְלָא כְּרַבִּי יְהוּדָה הַנָּשִׂיא! — אֶלָּא: שְׁלִישִׁית לְהַדְלִיק אֶת הַנֵּר. כְּמַאן — כְּרַבִּי נָתָן.
+> **Translation:** **Rav Yehuda taught to Rav Yitzḥak, his son:** The **second** blast that is sounded before Shabbat is to inform people **to light the light.** The Gemara asks: **In accordance with whose** opinion did he say this? It is **neither in accordance with** the opinion of **Rabbi Natan nor in accordance with** the opinion of **Rabbi Yehuda HaNasi. Rather,** certainly he told him that the **third** blast is in order to inform people **to light the light, and in accordance with whose** opinion did he say this? It is in accordance **with** the opinion of **Rabbi Natan.**
 
 Rabban Shimon ben Gamliel raises a question about the Babylonian practice: *ma na'aseh leBavliyim?* The Babylonians sounded *tekiah teruah* and then stopped in the middle of the *teruah* — *veshovtim mitoch meria*. This differs from the *tekiah teruah tekiah* prescribed above, both in the sequence and in the fact that *Shabbat* begins mid-*teruah* rather than after the sequence concludes. The *Gemara* resolves the count: they actually sounded *tekiah*, then again *tekiah teruah*, halting midway through the *teruah*. The *Gemara* responds simply: *minhag avoteihem beyadeihem* — they maintained their ancestral practice. One might note that it is also worth recalling an earlier usage of the phrase *ma na'aseh leBavliyim* — in the context of candle oils — where a similar appeal to the practical realities of communities outside *Eretz Yisrael* was invoked.
 
@@ -310,13 +312,14 @@ Rabban Shimon ben Gamliel raises a question about the Babylonian practice: *ma n
 
 ## Detailed Timeline
 
+
+
 ### First Tekiah Detail
 
-> **Hebrew/Aramaic:** תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: שֵׁשׁ תְּקִיעוֹת תּוֹקְעִין עֶרֶב שַׁבָּת. הִתְחִיל לִתְקוֹעַ תְּקִיעָה רִאשׁוֹנָה — נִמְנְעוּ הָעוֹמְדִים בַּשָּׂדֶה מִלַּעֲדוֹר וּמִלַּחְרוֹשׁ וּמִלַּעֲשׂוֹת כׇּל מְלָאכָה שֶׁבַּשָּׂדוֹת. וְאֵין הַקְּרוֹבִין רַשָּׁאִין לִיכָּנֵס עַד שֶׁיָּבוֹאוּ רְחוֹקִין, וְיִכָּנְסוּ כּוּלָּם כְּאֶחָד.
->
-> **Translation:** On a similar note, the school of Rabbi Yishmael taught in greater detail: Six blasts are sounded on Shabbat eve. When one begins sounding the first *tekia*, the people standing and working in the fields refrained from hoeing, and from plowing and from performing all labor in the fields. And those workers who work close to the city are not permitted to enter the city until those who work farther away come, so that they will all enter together.
+> **Hebrew/Aramaic:** תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: שֵׁשׁ תְּקִיעוֹת תּוֹקְעִין עֶרֶב שַׁבָּת. הִתְחִיל לִתְקוֹעַ תְּקִיעָה רִאשׁוֹנָה — נִמְנְעוּ הָעוֹמְדִים בַּשָּׂדֶה מִלַּעֲדוֹר וּמִלַּחְרוֹשׁ וּמִלַּעֲשׂוֹת כׇּל מְלָאכָה שֶׁבַּשָּׂדוֹת. וְאֵין הַקְּרוֹבִין רַשָּׁאִין לִיכָּנֵס עַד שֶׁיָּבוֹאוּ רְחוֹקִין, וְיִכָּנְסוּ כּוּלָּם כְּאֶחָד. וַעֲדַיִין חֲנוּיוֹת פְּתוּחוֹת וּתְרִיסִין מוּנָּחִין. הִתְחִיל לִתְקוֹעַ תְּקִיעָה שְׁנִיָּה, נִסְתַּלְּקוּ הַתְּרִיסִין וְנִנְעֲלוּ הַחֲנוּיוֹת, וַעֲדַיִין חַמִּין מוּנָּחִין עַל גַּבֵּי כִּירָה וּקְדֵירוֹת מוּנָּחוֹת עַל גַּבֵּי כִּירָה. הִתְחִיל לִתְקוֹעַ תְּקִיעָה שְׁלִישִׁית — סִילֵּק הַמְסַלֵּק, וְהִטְמִין הַמַּטְמִין, וְהִדְלִיק הַמַּדְלִיק. וְשׁוֹהֶה כְּדֵי צְלִיַּית דָּג קָטָן, אוֹ כְּדֵי לְהַדְבִּיק פַּת בַּתַּנּוּר, וְתוֹקֵעַ וּמֵרִיעַ וְתוֹקֵעַ וְשׁוֹבֵת.
+> **Translation:** On a similar note, **the school of Rabbi Yishmael taught** in greater detail: **Six blasts are sounded on Shabbat eve.** When **one begins sounding the first *tekia*, the people standing** and working **in the fields refrained from hoeing, and from plowing and from performing all labor in the fields. And** those **workers** who work **close** to the city **are not permitted to enter** the city **until** those who work **farther** away **come, so that they will all enter together.** Otherwise, people would suspect that the workers who came later continued to work after the blast. **And still,** at this time, the **stores** in the city **are open and** the **shutters** of the stores, upon which the storekeepers would arrange their merchandise in front of the stores, remain **in place.** When **he began sounding the second blast, the shutters were removed** from where they were placed **and the stores were locked and** in the homes, however, **hot water was still** cooking **on the stove and pots** remained **in place on the stove.** When **he began sounding the third blast,** the **one** charged with **removing** food from the stove **removed** it, **and** the **one** charged with **insulating** hot water for Shabbat so that it would not cool off **insulated** it, **and** the **one** charged with **kindling** the Shabbat lights **lit. And** the one sounding the *shofar* **pauses for** the amount of time it takes to **fry a small fish or to stick bread to the** sides of the **oven, and he sounds a *tekia*, and sounds a *terua*, and sounds a *tekia*, and accepts Shabbat.**
 
-The *tana d'vei Rabbi Yishmael* now provides a more detailed narrative account of the six-blast sequence. When the first *tekiah* began — note the language *hitchil litkoa*, "began to sound," suggesting each blast was sustained over some minutes — those working in the fields ceased plowing, hoeing, and all agricultural labor. Notably, those working closer to the city were not permitted to enter until those working further out had also gathered and converged, so that all entered together as a group.
+The *tana d'vei Rabbi Yishmael* now provides a more detailed narrative account of the six-blast sequence. When the first *tekiah* began — note the language *hitchil litkoa*, "began to sound," suggesting each blast was sustained over some minutes — those working in the fields ceased plowing, hoeing, and all agricultural labor. Notably, those working closer to the city were not permitted to enter until those working further out had also gathered and converged, so that all entered together as a group. One might initially suppose that the reason for this communal re-entry was concern for the safety of the more distant workers — that it would be dangerous to leave them alone in the fields as nightfall approached. But that consideration would apply equally, and in fact more acutely, on ordinary weekday evenings when workers returned home in genuine darkness. The safety explanation therefore cannot be the operative one, and Rashi's actual reasoning is worth attending to carefully.
 
 ### Suspicion Issue
 
@@ -324,17 +327,9 @@ Rashi explains the reason for this communal re-entry: if some workers returned t
 
 ### Second Tekiah Detail
 
-> **Hebrew/Aramaic:** וַעֲדַיִין חֲנוּיוֹת פְּתוּחוֹת וּתְרִיסִין מוּנָּחִין. הִתְחִיל לִתְקוֹעַ תְּקִיעָה שְׁנִיָּה, נִסְתַּלְּקוּ הַתְּרִיסִין וְנִנְעֲלוּ הַחֲנוּיוֹת, וַעֲדַיִין חַמִּין מוּנָּחִין עַל גַּבֵּי כִּירָה וּקְדֵירוֹת מוּנָּחוֹת עַל גַּבֵּי כִּירָה.
->
-> **Translation:** And still, at this time, the stores in the city are open and the shutters of the stores, upon which the storekeepers would arrange their merchandise in front of the stores, remain in place. When he began sounding the second blast, the shutters were removed from where they were placed and the stores were locked and in the homes, however, hot water was still cooking on the stove and pots remained in place on the stove.
-
 When the second *tekiah* began, the shutters (*trisim*) — boards that shopkeepers would remove and place on stands as display tables for their wares — were taken down, the stores were locked, and all manufacturing activity in the city ceased. Yet the kitchens were still active: hot water remained on the stove and pots continued to simmer.
 
 ### Third Tekiah Detail
-
-> **Hebrew/Aramaic:** הִתְחִיל לִתְקוֹעַ תְּקִיעָה שְׁלִישִׁית — סִילֵּק הַמְסַלֵּק, וְהִטְמִין הַמַּטְמִין, וְהִדְלִיק הַמַּדְלִיק. וְשׁוֹהֶה כְּדֵי צְלִיַּית דָּג קָטָן, אוֹ כְּדֵי לְהַדְבִּיק פַּת בַּתַּנּוּר, וְתוֹקֵעַ וּמֵרִיעַ וְתוֹקֵעַ וְשׁוֹבֵת.
->
-> **Translation:** When he began sounding the third blast, the one charged with removing food from the stove removed it, and the one charged with insulating hot water for Shabbat so that it would not cool off insulated it, and the one charged with kindling the Shabbat lights lit. And the one sounding the *shofar* pauses for the amount of time it takes to fry a small fish or to stick bread to the sides of the oven, and he sounds a *tekia*, and sounds a *terua*, and sounds a *tekia*, and accepts Shabbat.
 
 When the third *tekiah* began, those with food on the fire removed it. Those who intended to preserve heat for their *Shabbat* meals performed *hatmana* — wrapping and insulating their pots. Candles were lit. And if bread was still in the oven, one could quickly stick a fresh loaf to the wall and allow a crust to form — the last permissible act before the final announcement.
 
@@ -346,31 +341,25 @@ Then came the *tekiah teruah tekiah* — the concluding three-part blast — and
 
 ## Late Lighting/Shofar
 
-### Late Lighting Leniency
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: שָׁמַעְתִּי שֶׁאִם בָּא לְהַדְלִיק אַחַר שֵׁשׁ תְּקִיעוֹת — מַדְלִיק. שֶׁהֲרֵי נָתְנוּ חֲכָמִים שִׁיעוּר לְחַזַּן הַכְּנֶסֶת לְהוֹלִיךְ שׁוֹפָרוֹ לְבֵיתוֹ.
->
-> **Translation:** Rabbi Yosei bar Ḥanina, said: I heard that a person who was pressed for time and comes to light Shabbat lights after six blasts may light without concern, as even the moment of the sixth blast is not yet Shabbat. Proof for this is that the Sages provided the sexton of the synagogue a period of time to take his *shofar*, which he used to sound the blasts on a tall roof in the middle of the city, to his house.
+
+### Late Lighting Leniency
 
 Rabbi Yosi bar Rabbi Chanina rules: if someone has not yet lit candles by the time the six *tekiot* are completed, he may still light for a brief additional interval.
 
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: שָׁמַעְתִּי שֶׁאִם בָּא לְהַדְלִיק אַחַר שֵׁשׁ תְּקִיעוֹת — מַדְלִיק. שֶׁהֲרֵי נָתְנוּ חֲכָמִים שִׁיעוּר לְחַזַּן הַכְּנֶסֶת לְהוֹלִיךְ שׁוֹפָרוֹ לְבֵיתוֹ. אָמְרוּ לוֹ, אִם כֵּן נָתַתָּ דְּבָרֶיךָ לְשִׁיעוּרִין. אֶלָּא מָקוֹם צָנוּעַ יֵשׁ לוֹ לְחַזַּן הַכְּנֶסֶת בְּרֹאשׁ גַּגּוֹ, שֶׁשָּׁם מַנִּיחַ שׁוֹפָרוֹ. לְפִי שֶׁאֵין מְטַלְטְלִין לֹא אֶת הַשּׁוֹפָר וְלֹא אֶת הַחֲצוֹצְרוֹת.
+> **Translation:** **Rabbi Yosei bar Ḥanina, said: I heard that** a person who was pressed for time and **comes to light** Shabbat lights **after six blasts may light** without concern, as even the moment of the sixth blast is not yet Shabbat. Proof for this is **that the Sages provided the sexton of the synagogue a period** of time **to take his *shofar*,** which he used to sound the blasts on a tall roof in the middle of the city, **to his house.** Clearly, during that interval it is not yet Shabbat. He **said to him: If so**, then **you have rendered your statement** subject **to circumstances,** and it would not apply uniformly to all. Shabbat would start at a different time in each place based on the distance between the site where the *shofar* is sounded and the home of the sexton. **Rather,** Shabbat began immediately after the final blast with no pause in between. **The sexton had a concealed place on top of his roof,** where he would sound the *shofar*, **in which he would place his *shofar* because** the consensus is **that one may move neither the *shofar* nor the trumpets** on Shabbat.
+
 ### Shofar-Blower Travel
+
 
 The rationale: the Sages allotted time for the *chazan haknesset* — the one who sounded the *shofar* — to take his *shofar* home after the final blast. During that brief window, *Shabbat* has not yet fully "taken hold" in the most practical sense, and candle-lighting may still be performed.
 
 ### Objection
 
-> **Hebrew/Aramaic:** אָמְרוּ לוֹ, אִם כֵּן נָתַתָּ דְּבָרֶיךָ לְשִׁיעוּרִין.
->
-> **Translation:** The Gemara asks with regard to this last *halakha*: He said to him: If so, then you have rendered your statement subject to circumstances.
-
 The *Gemara* objects: if the permissible window depends on the distance between the *shofar*-blower's position and his home, the boundary of *Shabbat* becomes entirely subjective and flexible — which undermines the whole purpose of the communal announcement system.
 
 ### Roof Storage
-
-> **Hebrew/Aramaic:** אֶלָּא מָקוֹם צָנוּעַ יֵשׁ לוֹ לְחַזַּן הַכְּנֶסֶת בְּרֹאשׁ גַּגּוֹ, שֶׁשָּׁם מַנִּיחַ שׁוֹפָרוֹ. לְפִי שֶׁאֵין מְטַלְטְלִין לֹא אֶת הַשּׁוֹפָר וְלֹא אֶת הַחֲצוֹצְרוֹת.
->
-> **Translation:** Rather, Shabbat began immediately after the final blast with no pause in between. The sexton had a concealed place on top of his roof, where he would sound the *shofar*, in which he would place his *shofar* because the consensus is that one may move neither the *shofar* nor the trumpet on Shabbat.
 
 The *Gemara* resolves this: the *shofar*-blower has a discreet place (*makom tzanua*) on the roof of the building from which he blows, where he stores the *shofar*. He does not carry it home at all — his "travel" is simply ascending or descending a flight of stairs, a fixed and minimal amount of time. The window is therefore defined and consistent.
 

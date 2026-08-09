@@ -1,0 +1,216 @@
+[
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Chanina Dark Skin",
+    "candidates": [
+      "Ketzerit Definition",
+      "Ben Nephalim",
+      "Rashi on Shtus",
+      "Mushuvano",
+      "Rukba Standard",
+      "Ein Lo Beytzim",
+      "Maruch Ashech Disputes",
+      "Chanina Dark Skin",
+      "Knocking Knees",
+      "Ikal Bowlegged",
+      "Pikas Growth",
+      "Protruding Heel",
+      "Duck Feet",
+      "Fused Fingers",
+      "Fusion Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage explains the Gemara's interpretation of 'Kushi', 'gi\u1e25or', and 'lavkan' as skin color descriptors, which directly follows from the 'Chanina Dark Skin' section's discussion of dark complexion as a disqualifying mum and its connection to the term 'Cushi'.",
+      "chosen_heading": "Chanina Dark Skin",
+      "current_heading": "Chanina Dark Skin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Fusion Levels",
+    "candidates": [
+      "Knocking Knees",
+      "Ikal Bowlegged",
+      "Pikas Growth",
+      "Protruding Heel",
+      "Duck Feet",
+      "Fused Fingers",
+      "Fusion Levels",
+      "Extra Digit Bone",
+      "24 Digits",
+      "Yehuda Symmetry",
+      "Sages Six Digits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage discusses 'kipe'a\u1e25' meaning extremely tall or long and emaciated, which relates to physical characteristics and their praise/disparagement \u2014 this fits under the 'Sages Six Digits' section that discusses the baraita about physical characteristics, hereditary traits, and how the Gemara evaluates extreme physical features, rather than the 'Fusion Levels' section which is about fused digits.",
+      "chosen_heading": "Sages Six Digits",
+      "current_heading": "Fusion Levels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Sages Six Digits",
+    "candidates": [
+      "Extra Digit Bone",
+      "24 Digits",
+      "Yehuda Symmetry",
+      "Sages Six Digits",
+      "Shufnar Calf",
+      "Digit Limb Status",
+      "Tuma Extra Digits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage from Reish Lakish about tall/dwarf/pale/dark people not marrying each other is explicitly discussed in the prose of 'Sages Six Digits' which directly addresses the hereditary transmission concern and the skin-color examples (bohak, shachor/sh'chora).",
+      "chosen_heading": "Sages Six Digits",
+      "current_heading": "Sages Six Digits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Tuma Extra Digits",
+    "candidates": [
+      "Shufnar Calf",
+      "Digit Limb Status",
+      "Tuma Extra Digits",
+      "125 Standard",
+      "252 Bones Evidence",
+      "Tsirrim Hinges",
+      "Delathim Doors",
+      "Mafteiach Key"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 4,
+      "first_heading": "Tuma Extra Digits",
+      "first_confidence": "low",
+      "first_reason": "None of the candidate headings match the content about deaf-mute/imbecile/drunk priests and Temple service \u2014 the closest available heading is 'Tuma Extra Digits' where it currently sits, though it is a poor fit; the passage deals with priestly disqualification due to drunkenness, which does not correspond to any of the provided prose headings.",
+      "second_heading": "Tuma Extra Digits",
+      "second_confidence": "low",
+      "second_reason": "The mishna about flaws that disqualify animals but not humans (itself and its offspring, tereifa, caesarean birth, etc.) and the priest who marries forbidden women does not match any candidate heading well, but 'Tuma Extra Digits' is the current placement and no better option exists among the bone/anatomy-focused candidates.",
+      "third_heading": "Tuma Extra Digits",
+      "third_confidence": "low",
+      "third_reason": "The Gemara discussion about 'itself and its offspring' applying to Aaron and his sons vs. goats and the ruling about a priest who vows regarding a forbidden wife does not correspond to any of the provided candidate headings, which all concern skeletal anatomy and tumah, making 'Tuma Extra Digits' the least-wrong available option.",
+      "current_heading": "Tuma Extra Digits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Mafteiach Key",
+    "candidates": [
+      "125 Standard",
+      "252 Bones Evidence",
+      "Tsirrim Hinges",
+      "Delathim Doors",
+      "Mafteiach Key",
+      "Extra Bones Tuma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "low",
+      "reason": "None of the candidate sections discuss vows or a Sage dissolving them \u2014 this passage appears entirely misplaced in this bones/anatomy section, but no candidate is a clearly better match than the current placement.",
+      "chosen_heading": "Mafteiach Key",
+      "current_heading": "Mafteiach Key",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Extra Bones Tuma",
+    "candidates": [
+      "Extra Bones Tuma",
+      "Scriptural 6-6-24"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses a chain of Talmudic objections about vows (nedarim) \u2014 delineating conditions, public vows, and consent of the public \u2014 which has no connection to either candidate heading about bones/tuma or digits/counting; neither candidate matches, but candidate 1 is marginally less mismatched, though confidence is low since the true heading appears absent from the list.",
+      "chosen_heading": "Scriptural 6-6-24",
+      "current_heading": "Extra Bones Tuma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Scriptural 6-6-24",
+    "candidates": [
+      "Scriptural 6-6-24",
+      "Mamzerim Defect",
+      "Iter Lefty",
+      "Ambidextrous",
+      "Rashi Right Dominance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the halakha about vows made with public consent (al da'at harabim) and their nullification, including the case of a children's teacher \u2014 this fits under 'Mamzerim Defect' far better than 'Scriptural 6-6-24,' but actually this content about vows and public consent does not match any of the candidate headings well; however, given the automated pipeline context and that the passage clearly does not belong under 'Scriptural 6-6-24' (which discusses digit counts), and the closest thematic match among candidates is not obvious, the passage about al da'at harabim vows most plausibly belongs under heading 1 as a transitional or contextual passage the essay author included there.",
+      "chosen_heading": "Mamzerim Defect",
+      "current_heading": "Scriptural 6-6-24",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Rashi Right Dominance",
+    "candidates": [
+      "Mamzerim Defect",
+      "Iter Lefty",
+      "Ambidextrous",
+      "Rashi Right Dominance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mamzerim Defect",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses a priest who becomes impure through corpses and the distinction between acceptance vs. vow \u2014 this is a new Gemara topic unrelated to left-handedness/ambidexterity discussed in candidates 1-3, and among the candidates candidate 0 ('Mamzerim Defect') is the closest thematic neighbor as the last section before a new topic begins.",
+      "second_heading": "Rashi Right Dominance",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 is the closing Hadran formula marking the end of the chapter (\u05de\u05d5\u05bc\u05de\u05b4\u05d9\u05df \u05d0\u05b5\u05dc\u05bc\u05d5\u05bc), which is a structural endpoint that naturally closes out the final section of that chapter, currently placed under 'Rashi Right Dominance'.",
+      "current_heading": "Rashi Right Dominance",
+      "moved": true
+    }
+  }
+]

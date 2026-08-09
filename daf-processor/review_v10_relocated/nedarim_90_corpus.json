@@ -1,0 +1,151 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Woman's Dual Vow",
+    "candidates": [
+      "Conditional Vows",
+      "Rabbi Dosa's View",
+      "Rav Acha's Story",
+      "Rav Pappi Position",
+      "Lo Yachel Devaro",
+      "Woman's Dual Vow",
+      "Rishon Reinterpreted",
+      "Yesh Breira Problem",
+      "Neder Plus Nazir",
+      "Order Proof",
+      "Reverse Order",
+      "Rabbi Natan",
+      "Mareimar Report"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Woman's Dual Vow",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the first braita proof for Rav Pappi (konam on Ploni plus whoever grants hatara) and its refutation via reinterpretation of 'rishon/acharon', which matches heading 5 ('Woman's Dual Vow') and the subsequent deflection described in heading 6 ('Rishon Reinterpreted').",
+      "second_heading": "Neder Plus Nazir",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the second braita proof involving a neder plus nezirut (konam on Ploni followed by a nazirite vow contingent on dissolution) and its rejection as reflecting only Rabbi Natan's view, which matches heading 8 ('Neder Plus Nazir') and heading 11 ('Rabbi Natan').",
+      "current_heading": "Woman's Dual Vow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Mareimar Report",
+    "candidates": [
+      "Rishon Reinterpreted",
+      "Yesh Breira Problem",
+      "Neder Plus Nazir",
+      "Order Proof",
+      "Reverse Order",
+      "Rabbi Natan",
+      "Mareimar Report",
+      "Emphasis on Divro",
+      "Counterargument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together present Ravina's report of Mareimar's transmission of Rav Pappi's position \u2014 that the dispute applies only to hafara while hatara works before effectuation for everyone \u2014 which is precisely what the 'Mareimar Report' prose describes.",
+      "chosen_heading": "Mareimar Report",
+      "current_heading": "Mareimar Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Counterargument",
+    "candidates": [
+      "Emphasis on Divro",
+      "Counterargument",
+      "Conditional vs Postponed",
+      "Ran's Ruling",
+      "Postponed Vows",
+      "Transition",
+      "First Stage",
+      "Tamei Claim",
+      "Shamayim Beini"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's challenge to the second version of Rav Pappi \u2014 the dual-konam braita objection, its answer, and the nazirite braita refutation ending in tiyuvta \u2014 which is precisely what the 'Counterargument' prose describes.",
+      "chosen_heading": "Counterargument",
+      "current_heading": "Counterargument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Shamayim Beini",
+    "candidates": [
+      "Conditional vs Postponed",
+      "Ran's Ruling",
+      "Postponed Vows",
+      "Transition",
+      "First Stage",
+      "Tamei Claim",
+      "Shamayim Beini",
+      "Estrangement",
+      "Nezurah",
+      "Chazru Lomar",
+      "Natna Eineha",
+      "New Requirements",
+      "No Divorce/Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself ('barishona hayu omrim, shalosh nashim yotz'ot ve-notlot ketubbah'), which corresponds exactly to the 'First Stage' section whose prose explicitly quotes and introduces this opening formula of the mishna.",
+      "chosen_heading": "First Stage",
+      "current_heading": "Shamayim Beini",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "No Divorce/Ketubah",
+    "candidates": [
+      "Estrangement",
+      "Nezurah",
+      "Chazru Lomar",
+      "Natna Eineha",
+      "New Requirements",
+      "No Divorce/Ketubah",
+      "Agunah Problem",
+      "Non-Belief Framework",
+      "Hafkat Kiddushin",
+      "Tosafot Solution",
+      "Official vs Real"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic text of 'chazru lomar' itself \u2014 the retraction and revised rulings for all three categories \u2014 which is precisely what the 'Chazru Lomar' section's prose introduces and describes.",
+      "chosen_heading": "Chazru Lomar",
+      "current_heading": "No Divorce/Ketubah",
+      "moved": true
+    }
+  }
+]

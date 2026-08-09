@@ -1,0 +1,406 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Esnan Zonah Overview",
+    "candidates": [
+      "Esnan Zonah Overview",
+      "Rav's Position",
+      "Abaye's Position",
+      "Non-Jewish Woman",
+      "Kohen vs. Esnan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks what Rav does with the word 'toeva' and answers that he uses it for Abaye's ruling, which is precisely what the 'Rav's Position' prose describes.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Esnan Zonah Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Kohen vs. Esnan",
+    "candidates": [
+      "Rav's Position",
+      "Abaye's Position",
+      "Non-Jewish Woman",
+      "Kohen vs. Esnan",
+      "Jewish vs. Non-Jewish",
+      "Two Definitions",
+      "Rava's Inclusivity",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together develop the contrast between esnan zonah (where kiddushin not taking effect is the criterion, excluding Jewish prostitutes but including non-Jewish women) and the kohen's prohibition of zonah (where paternal attribution of offspring is the criterion, excluding non-Jewish women but including Jewish prostitutes) \u2014 exactly the content described in the 'Kohen vs. Esnan' prose.",
+      "chosen_heading": "Kohen vs. Esnan",
+      "current_heading": "Kohen vs. Esnan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Jewish vs. Non-Jewish",
+      "Two Definitions",
+      "Rava's Inclusivity",
+      "Kal Vachomer",
+      "Baraita's Threshold",
+      "Abaye's Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement and his gezera shava/yalpi me-hadadi reasoning, which is precisely what the 'Kal Vachomer' section's prose describes \u2014 learning the two prohibitions from each other across Jewish and non-Jewish cases.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Abaye's Concession",
+    "candidates": [
+      "Baraita's Threshold",
+      "Abaye's Concession",
+      "Zonah Status",
+      "Slave Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain addressing the baraita challenge to Abaye, his responses (Rabbi Akiva attribution, alternate version, Rabbi Elazar attribution), Rava's position on the almanah comparison, and the final resolution about why almanah needed to be stated \u2014 exactly matching the prose of heading 1 ('Abaye's Concession').",
+      "chosen_heading": "Abaye's Concession",
+      "current_heading": "Abaye's Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Slave Context",
+    "candidates": [
+      "Zonah Status",
+      "Slave Context",
+      "Marriage Prerequisite"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slave Context",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's euphemism answer to the preliminary difficulty about a maidservant being permitted to a slave, which is precisely what Candidate 1 ('Slave Context') describes as the Gemara's first answer.",
+      "second_heading": "Marriage Prerequisite",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Shmuel bar Rav Yitzchak's 'le-olam avdo' answer \u2014 taking the case at face value as about the slave \u2014 which is exactly what Candidate 2 ('Marriage Prerequisite') describes as the Gemara's second and preferred answer.",
+      "current_heading": "Slave Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Marriage Prerequisite",
+    "candidates": [
+      "Marriage Prerequisite",
+      "Rabbi Eliezer",
+      "Mechir Kelev Intro",
+      "Partnership Division"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Marriage Prerequisite",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara discussing the wife-and-children prerequisite for a master giving a Canaanite maidservant to a Hebrew slave, which matches exactly the 'Marriage Prerequisite' prose.",
+      "second_heading": "Mechir Kelev Intro",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna of an entirely new topic \u2014 mechir kelev \u2014 which matches the 'Mechir Kelev Intro' prose discussing what constitutes an animal exchanged for a dog.",
+      "current_heading": "Marriage Prerequisite",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Partnership Division",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Mechir Kelev Intro",
+      "Partnership Division",
+      "Category Swapping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the partners-dividing-a-flock scenario (nine sheep plus a dog vs. ten sheep) which is precisely what the 'Partnership Division' prose discusses.",
+      "chosen_heading": "Partnership Division",
+      "current_heading": "Partnership Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Category Swapping",
+    "candidates": [
+      "Category Swapping",
+      "Offspring Permitted",
+      "Exchange Not Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the category-swapping ruling (etnan kelev u-mechir zona permitted, shnayim velo arba) and the offspring ruling (hem velo vladoteihen), but the current placement under 'Category Swapping' is correct because the passage is a single mishna unit and heading 0's prose explicitly covers both the category-swapping content and the shnayim velo arba derivation that forms the majority of this passage, while heading 1 covers only the offspring sub-point which is the minor second clause.",
+      "chosen_heading": "Category Swapping",
+      "current_heading": "Category Swapping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Exchange Not Sale",
+    "candidates": [
+      "Offspring Permitted",
+      "Exchange Not Sale",
+      "Etnan Kelev Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'mechir kelev' as an exchange rather than a monetary sale, matching exactly the 'Exchange Not Sale' section's prose about zehu chalifei kelev and the derivation from the Psalms verse.",
+      "chosen_heading": "Exchange Not Sale",
+      "current_heading": "Exchange Not Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Etnan Kelev Query",
+    "candidates": [
+      "Etnan Kelev Query",
+      "Separate Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are a continuous chain of objection-and-response about whether 'mechir kelev' could mean payment for intercourse with a dog, which is precisely the question the 'Etnan Kelev Query' prose describes.",
+      "chosen_heading": "Etnan Kelev Query",
+      "current_heading": "Etnan Kelev Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Separate Categories",
+    "candidates": [
+      "Separate Categories",
+      "No Zenut Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the partners-who-divided case (nipik chada le-hai kalba) and the Gemara's resolution that the dog's value exceeds any single lamb, which is explicitly analyzed in the 'Separate Categories' prose section.",
+      "chosen_heading": "Separate Categories",
+      "current_heading": "Separate Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "No Zenut Animals",
+    "candidates": [
+      "No Zenut Animals",
+      "Offspring Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the derivation that payment for intercourse with a dog and the price of a prostitute (switched categories) are permitted, which is precisely the content of the 'No Zenut Animals' prose section.",
+      "chosen_heading": "No Zenut Animals",
+      "current_heading": "No Zenut Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Offspring Rule",
+    "candidates": [
+      "Offspring Rule",
+      "Rabbi Eliezer Treifa",
+      "Nursing Treifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 Rava's rulings on offspring of nirva'at and nogachat, the dispute about muktze/ne'evad offspring, and Rav's ruling on excrement of shor ha-niskal vs. idolatry calves with both the sevara and pasuk derivations \u2014 are explicitly covered in the 'Offspring Rule' prose, which walks through each of these points in order.",
+      "chosen_heading": "Offspring Rule",
+      "current_heading": "Offspring Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Nursing Treifa",
+    "candidates": [
+      "Rabbi Eliezer Treifa",
+      "Nursing Treifa",
+      "Beit Shammai/Hillel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Eliezer Treifa",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 constitute the opening Mishna about esnan (prostitute payment) rules for money, wine/oil/flour, and birds \u2014 these precede the Rabbi Eliezer section and candidate 0 is the closest available heading, though none perfectly matches this opening Mishna content.",
+      "second_heading": "Nursing Treifa",
+      "second_confidence": "high",
+      "second_reason": "Item 3 contains exactly the material discussed in candidate 1's prose: Rabbi Chanina ben Antignos on nursing from treifa, and the prohibition on redeeming consecrated animals that became treifa.",
+      "current_heading": "Nursing Treifa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Beit Shammai/Hillel",
+    "candidates": [
+      "Beit Shammai/Hillel",
+      "Temple Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Beit Shammai/Beit Hillel dispute over transformed esnan products (wheat\u2192flour, olives\u2192oil, grapes\u2192wine), which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Beit Shammai/Hillel",
+      "current_heading": "Beit Shammai/Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Temple Structure",
+    "candidates": [
+      "Temple Structure",
+      "Pre-Sanctified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about using esnan as a structural addition to the Temple (riku'in/beaten gold plates), with Rabbi Elazar's exclusion of the Parah Adumah and Rav \u1e24isda's identification of the Rabbis as Rabbi Yosei b'Rabbi Yehuda \u2014 exactly what the 'Temple Structure' prose describes.",
+      "chosen_heading": "Temple Structure",
+      "current_heading": "Temple Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Pre-Sanctified",
+    "candidates": [
+      "Pre-Sanctified",
+      "Korban Pesach Payment",
+      "Business Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the mishna's ruling that consecrated animals given as payment remain permitted, the a fortiori argument about birds vs. consecrated animals, and the verse 'le-chol neder' excluding pre-vowed animals \u2014 all of which are precisely the content described in the 'Pre-Sanctified' prose section.",
+      "chosen_heading": "Pre-Sanctified",
+      "current_heading": "Pre-Sanctified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Business Permission",
+    "candidates": [
+      "Korban Pesach Payment",
+      "Business Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage (Rav Hoshaya's identification of the case as registering someone for the Paschal offering, plus the baraita about 'too little for a lamb' and Rabbi's ruling about adding participants) is precisely the content described in candidate 0's prose about Rav Oshaya's answer regarding the Korban Pesach mechanism, whereas candidate 1's prose already summarizes this very baraita as background \u2014 the passage itself is the primary source that candidate 0 is explaining.",
+      "chosen_heading": "Korban Pesach Payment",
+      "current_heading": "Business Permission",
+      "moved": true
+    }
+  }
+]

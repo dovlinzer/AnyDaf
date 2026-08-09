@@ -48,7 +48,7 @@
           "timestamp": "02:47"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -82,8 +82,8 @@
           "timestamp": "07:41"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Testing the Two Approaches: The Nafka Mina (Practical Difference) with Tumah Cases",
@@ -106,7 +106,7 @@
           "timestamp": "12:02"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -125,7 +125,7 @@
           "timestamp": "14:06"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -173,7 +173,7 @@
           "timestamp": "35:39"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -264,7 +264,7 @@
           "timestamp": "59:21"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -308,7 +308,7 @@
           "timestamp": "65:30"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -322,8 +322,8 @@
           "timestamp": "67:04"
         }
       ],
-      "sefaria_index": 24,
-      "matched": false
+      "sefaria_index": 33,
+      "matched": true
     },
     {
       "title": "The Critical Principle of Continuous Action: Kama Yishei B'Ochlim (continued)",
@@ -365,8 +365,8 @@
           "timestamp": "67:05"
         }
       ],
-      "sefaria_index": 34,
-      "matched": true
+      "sefaria_index": 35,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -553,5 +553,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "35:39",
+  "amud_b_micro_title": "Middle Position",
+  "shiur_start_daf": 12,
+  "shiur_start_amud": "a"
 }

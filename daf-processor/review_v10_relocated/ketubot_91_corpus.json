@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Mishnah Ruling",
+      "Initial Question",
+      "Ben Nannas/R. Akiva",
+      "Rava's Resolution",
+      "Motar Dina Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items present the baraita with ben Nanas's ruling, Rabbi Akiva's response, and the Gemara's initial reading of their dispute \u2014 precisely what the 'Ben Nannas/R. Akiva' prose describes as the tannaitic dispute introduced by detanya and the Gemara's initial interpretation of it.",
+      "chosen_heading": "Ben Nannas/R. Akiva",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Motar Dina Question",
+    "candidates": [
+      "Mishnah Ruling",
+      "Initial Question",
+      "Ben Nannas/R. Akiva",
+      "Rava's Resolution",
+      "Motar Dina Question",
+      "Rav Yosef Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items are Rabba's report of finding the Rabbis of Rav's academy, their position, and his own correction \u2014 precisely the content described in the 'Rava's Resolution' prose, which explicitly discusses Rabba finding the Rabbis debating and arguing that everyone agrees on the principle while disputing the motar condition.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Motar Dina Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Rav Yosef Challenge",
+    "candidates": [
+      "Motar Dina Question",
+      "Rav Yosef Challenge",
+      "Hilchata Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 12 items form the continuous Talmudic passage described in the 'Rav Yosef Challenge' prose \u2014 Rav Yosef's objection to Rava, his alternative explanation, the parallel baraita of Rabbi Shimon vs. Tanna Kamma, and the Gemara's successive attempts to explain their dispute (movable property, liened property, less than a dinar) culminating in the final conclusion to reverse the positions \u2014 exactly matching the detailed summary in that section's prose.",
+      "chosen_heading": "Rav Yosef Challenge",
+      "current_heading": "Rav Yosef Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Hilchata Conclusion",
+    "candidates": [
+      "Hilchata Conclusion",
+      "Three Wives Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Mar Zutra/Rav Pappa hilchata ruling and its immediate Gemara analysis explaining why both principles must be stated explicitly \u2014 exactly what candidate 0's prose describes in its final paragraph.",
+      "chosen_heading": "Hilchata Conclusion",
+      "current_heading": "Hilchata Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Three Wives Setup",
+    "candidates": [
+      "Three Wives Setup",
+      "Why Both Rules",
+      "Two Wives Equal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items explain why both halakhic principles needed explicit statement \u2014 item 1 addresses why the three-wife/daughter scenario alone would be insufficient, and item 2 addresses the asymmetric one-in-lifetime/one-after-death case with a son \u2014 which is precisely what candidate 1 ('Why Both Rules') discusses.",
+      "chosen_heading": "Why Both Rules",
+      "current_heading": "Three Wives Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Two Wives Equal",
+    "candidates": [
+      "Why Both Rules",
+      "Two Wives Equal",
+      "With Extra Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna text describes the foundational two-wife case where the estate equals exactly the two ketubot and the orphans divide equally \u2014 precisely what the 'Two Wives Equal' section's prose discusses.",
+      "chosen_heading": "Two Wives Equal",
+      "current_heading": "Two Wives Equal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "With Extra Money",
+    "candidates": [
+      "With Extra Money",
+      "No Self-Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the 'motar dinar' surplus scenario where each set of sons collects their mother's ketubah, which is exactly what the 'With Extra Money' section's prose discusses.",
+      "chosen_heading": "With Extra Money",
+      "current_heading": "With Extra Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "No Self-Assessment",
+    "candidates": [
+      "No Self-Assessment",
+      "What Counts",
+      "R. Shimon Land Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses orphans inflating property values and the court's independent appraisal, which is precisely what the 'No Self-Assessment' prose discusses.",
+      "chosen_heading": "No Self-Assessment",
+      "current_heading": "No Self-Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "R. Shimon Land Only",
+    "candidates": [
+      "What Counts",
+      "R. Shimon Land Only",
+      "Unequal Amounts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "What Counts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses anticipated/potential inheritance not counting as 'in possession' (einan kemuchzak), which matches perfectly the 'What Counts' prose about funds not yet in hand not satisfying the motar dinar requirement.",
+      "second_heading": "R. Shimon Land Only",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Shimon's ruling that only land (nechasim she-yesh lahen achrayut) counts toward the motar dinar, which matches exactly the 'R. Shimon Land Only' prose discussing his stringency that movable property does not qualify.",
+      "current_heading": "R. Shimon Land Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Unequal Amounts",
+    "candidates": [
+      "Unequal Amounts",
+      "Depreciation Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about one wife having a thousand dinars and the other five hundred, with the motar dinar rule, is precisely the unequal amounts case described in heading 0's prose.",
+      "chosen_heading": "Unequal Amounts",
+      "current_heading": "Unequal Amounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Depreciation Case",
+    "candidates": [
+      "Depreciation Case",
+      "Bar Tsartsur Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the depreciation case (treated as obvious) and introduces the appreciation question, matching exactly the prose in heading 0 which discusses both the self-evident depreciation ruling and sets up the appreciation scenario.",
+      "chosen_heading": "Depreciation Case",
+      "current_heading": "Depreciation Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Bar Tsartsur Case",
+    "candidates": [
+      "Bar Tsartsur Case",
+      "Rav Ami Opinion",
+      "Rav Nachman Ruling",
+      "Rashi/Tosafot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav Ami Opinion",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 cover the Bar Tzartzur case from Rav Amram's referral through Rav Nachman's ruling, matching the prose of candidates 0\u20132, but candidate 1 ('Rav Ami Opinion') best fits items 1\u20132 (Rav Amram's advice, threat, and referral) while item 3 (Rav Nachman's symmetric ruling) fits candidate 2; however since items 1\u20133 form one continuous narrative chain and are currently under candidate 0, the best single home for items 1\u20133 is candidate 1 which covers Rav Amram's actions and the referral to Rav Nachman.",
+      "second_heading": "Rashi/Tosafot",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is a standalone mnemonic marker (siman) that introduces the following halakhot and structurally belongs at the start of a new section, not appended to the Bar Tzartzur narrative.",
+      "current_heading": "Bar Tsartsur Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Rashi/Tosafot",
+    "candidates": [
+      "Rav Ami Opinion",
+      "Rav Nachman Ruling",
+      "Rashi/Tosafot",
+      "Setup",
+      "Michael's Offer",
+      "Mishnah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items describe the factual setup of the case \u2014 the man with two mansions, the creditor's claim of a thousand dinars, and the sequential repossession \u2014 which matches exactly the 'Setup' prose describing the man who owed a thousand zuz, had two houses, and sold them to a buyer whom the creditor then pursued.",
+      "chosen_heading": "Setup",
+      "current_heading": "Rashi/Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Mishnah Parallel",
+    "candidates": [
+      "Setup",
+      "Michael's Offer",
+      "Mishnah Parallel",
+      "Rava Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage shows Rami bar \u1e24ama proposing the mishna analogy about orphans inflating property values, which is precisely what the 'Mishnah Parallel' section's prose describes.",
+      "chosen_heading": "Mishnah Parallel",
+      "current_heading": "Mishnah Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rava Distinction",
+    "candidates": [
+      "Rava Distinction",
+      "Mishnah Parallel",
+      "Rava Distinction",
+      "Ravina/Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement distinguishing the Mishnah case from the creditor case, which is precisely what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Rava Distinction",
+      "current_heading": "Rava Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Ravina/Rav Ashi",
+    "candidates": [
+      "Mishnah Parallel",
+      "Rava Distinction",
+      "Ravina/Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks and resolves exactly what amount is written in the authorization document for the repossessed property, with Ravina saying one thousand and Rav Avira saying five hundred \u2014 precisely the dispute described in the 'Ravina/Rav Ashi' prose, which discusses Ravina's thousand-zuz position versus the five-hundred ruling and the halakhic conclusion.",
+      "chosen_heading": "Ravina/Rav Ashi",
+      "current_heading": "Ravina/Rav Ashi",
+      "moved": false
+    }
+  }
+]

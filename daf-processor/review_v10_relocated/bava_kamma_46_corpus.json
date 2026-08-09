@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Gemara's Query",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbi Meir's View",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 discuss the baraita of Rabbi Eliezer ben Ya'akov and Rabbi Yehuda's position on reduced safeguarding for tam and muad \u2014 content about shemira standards that fits under the Rabbi Meir/Yehuda shemira dispute section rather than the Rav right/left horn section.",
+      "second_heading": "Rav's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is precisely Rav's ruling about right horn vs. left horn that candidate 0's prose explicitly identifies as the opening statement of that section.",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Gemara's Query",
+      "Rabbi Meir's View",
+      "Rabbi Yehuda's View",
+      "Gemara Objection",
+      "Resolution",
+      "Rav vs. Rav Adda",
+      "Full Muad Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question 'aliba de-man' surveying both Rabbi Meir's and Rabbi Yehuda's positions to challenge Rav's distinction, which matches exactly the 'Gemara's Query' section prose describing this survey of both authorities.",
+      "chosen_heading": "Gemara's Query",
+      "current_heading": "Rabbi Meir's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Full Muad Status",
+    "candidates": [
+      "Rabbi Yehuda's View",
+      "Gemara Objection",
+      "Resolution",
+      "Rav vs. Rav Adda",
+      "Full Muad Status",
+      "No Shemira Rule",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's resolution: Rav follows Rabbi Yehuda but rejects Rav Adda bar Ahava's tzad tamus principle, and the only genuine case of simultaneous muad/tam is the two-horn scenario \u2014 exactly what the 'Resolution' prose describes.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Full Muad Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "No Shemira Rule",
+      "Rava's Reading",
+      "Pit Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's derivation of Rabbi Eliezer's reasoning from the verse 'velo yishmrenu,' which is precisely what the 'Rava's Reading' section discusses, and the current placement is correct.",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Rava's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Pit Comparison",
+    "candidates": [
+      "Pit Comparison",
+      "Hazard Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's pit-comparison challenge to Rava's reading, directly matching the 'Pit Comparison' prose description of the bor analogy and the mishna about covering the pit.",
+      "chosen_heading": "Pit Comparison",
+      "current_heading": "Pit Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Hazard Principle",
+    "candidates": [
+      "Hazard Principle",
+      "Rashi's Logic",
+      "Tosafot Answer 1",
+      "Tosafot Answer 2",
+      "Case Setup",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Abaye/Rabbi Natan baraita about vicious dogs and unstable ladders derived from 'velo tasim damim beveitecha,' which is precisely what the 'Hazard Principle' section's prose describes.",
+      "chosen_heading": "Hazard Principle",
+      "current_heading": "Hazard Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Rashi's Logic",
+      "Tosafot Answer 1",
+      "Tosafot Answer 2",
+      "Case Setup",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The hadran formula marks the end of the previous perek and transition to a new one, which the 'Case Setup' prose explicitly identifies as the opening of a new perek introduced by the hadran declaration.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Mishnah Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Mishnah Rule",
+      "Sumchus Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah itself (the ox-gored-cow case and the cow-gored-ox reverse case), which the 'Mishnah Rule' prose explicitly discusses and explains in detail, including both scenarios and their rulings.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Sumchus Principle",
+    "candidates": [
+      "Sumchus Principle",
+      "Burden of Proof",
+      "Principle Scope",
+      "Bari vs. Shema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both Sumchus's principle (mamon ha-mutal be-safek cholkin) and the Rabbis' counter-principle (ha-motzi me-chavero alav ha-raya) as a paired unit, and the current heading 'Sumchus Principle' with its prose directly describes this Gemara's content of identifying the mishna's ruling as Sumchus's position and contrasting it with the Rabbis' view.",
+      "chosen_heading": "Sumchus Principle",
+      "current_heading": "Sumchus Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Bari vs. Shema",
+    "candidates": [
+      "Burden of Proof",
+      "Principle Scope",
+      "Bari vs. Shema",
+      "Money vs. Rov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the bari/shema extension of ha-motzi me-chavero alav ha-raya \u2014 the injured party claiming certainty while the damaging party expresses uncertainty \u2014 which is precisely what the 'Bari vs. Shema' section's prose discusses.",
+      "chosen_heading": "Bari vs. Shema",
+      "current_heading": "Bari vs. Shema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Money vs. Rov",
+    "candidates": [
+      "Money vs. Rov",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items \u2014 the ox-goring sale dispute between Rav and Shmuel, the successive attempts to resolve it by examining buyer identity and price, the explanation that rov applies in issur but not mamona, and the supporting baraita about Sumakhos \u2014 are precisely the content described in the 'Money vs. Rov' prose section.",
+      "chosen_heading": "Money vs. Rov",
+      "current_heading": "Money vs. Rov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "Verse Source",
+      "Sevara Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shmuel bar Na\u1e25mani's verse-based derivation of the burden of proof principle, which matches exactly what the 'Verse Source' section prose describes.",
+      "chosen_heading": "Verse Source",
+      "current_heading": "Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Sevara Basis",
+    "candidates": [
+      "Sevara Basis",
+      "Litigation Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Ashi's sevara objection and the redeployment of the verse to Rav Na\u1e25man's ruling about nizkakin le-toveiah techilah \u2014 are explicitly discussed together in the 'Sevara Basis' prose, which covers exactly this transition from the sevara argument to the verse's alternative application.",
+      "chosen_heading": "Sevara Basis",
+      "current_heading": "Sevara Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Litigation Order",
+    "candidates": [
+      "Litigation Order",
+      "Parallel Setup",
+      "Problem Stated",
+      "Abaye's Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Neharde'a sages' rule about attending to the defendant first when assets are depreciating, which is exactly what the 'Litigation Order' section's prose describes.",
+      "chosen_heading": "Litigation Order",
+      "current_heading": "Litigation Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Abaye's Read",
+    "candidates": [
+      "Parallel Setup",
+      "Problem Stated",
+      "Abaye's Read",
+      "Same Owner",
+      "Equal Gorers",
+      "Separate Owners",
+      "Defense Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's initial question about the mishna's ruling (why does it say 'half damage and quarter damage' when that seems to add up to three-quarters) and Abaye's resolution \u2014 this is the 'problem stated' and its immediate answer, which fits squarely under 'Problem Stated' where the prose explicitly raises the puzzle of why the mishna speaks of only chatzi nezek from the cow, before Abaye's detailed reconceptualization is elaborated in the 'Abaye's Read' section.",
+      "chosen_heading": "Problem Stated",
+      "current_heading": "Abaye's Read",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Defense Strategy",
+    "candidates": [
+      "Same Owner",
+      "Equal Gorers",
+      "Separate Owners",
+      "Defense Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items directly address the 'Defense Strategy' section's discussion of whether the victim went to the cow owner or fetus owner first, and the ika de-amri alternative \u2014 exactly what candidate 3's prose describes.",
+      "chosen_heading": "Defense Strategy",
+      "current_heading": "Defense Strategy",
+      "moved": false
+    }
+  }
+]

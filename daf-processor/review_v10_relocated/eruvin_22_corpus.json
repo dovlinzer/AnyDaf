@@ -1,0 +1,348 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Well Types & Pasei",
+    "candidates": [
+      "Rabbim Negate Mechitza",
+      "Island Walls Problem",
+      "Ownership & Natural Walls",
+      "Well Types & Pasei",
+      "R. Yehuda b. Bava",
+      "Two Criteria Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text discussing the pasei biraot leniency for different well types and the exception for a private cistern requiring a full mechitza \u2014 exactly what heading 3 ('Well Types & Pasei') describes in its prose.",
+      "chosen_heading": "Well Types & Pasei",
+      "current_heading": "Well Types & Pasei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Two Criteria Needed",
+    "candidates": [
+      "R. Yehuda b. Bava",
+      "Two Criteria Needed",
+      "R. Y.b. Bava Garden"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yehuda b. Bava",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnaic statement of Rabbi Yehuda ben Bava's position, which belongs under heading 0 ('R. Yehuda b. Bava') whose prose explicitly describes this exact ruling about pasim being permitted only for a communal well of live spring water.",
+      "second_heading": "Two Criteria Needed",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 are the Gemara's discussion of why both of Shmuel's rulings are independently necessary, which corresponds exactly to heading 1 ('Two Criteria Needed') whose prose describes this precise dual-necessity argument about public ownership and live water.",
+      "current_heading": "Two Criteria Needed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "R. Y.b. Bava Garden",
+    "candidates": [
+      "R. Y.b. Bava Garden",
+      "Stam R. Yehuda",
+      "R. Akiva Lenient",
+      "R. Yosi Rectangle",
+      "R. Eliezer Notes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the same Mishna unit about the garden/karpef, covering Rabbi Yehuda ben Bava's ruling and the subsequent opinions of Rabbi Yehuda, Rabbi Akiva, Rabbi Eliezer, Rabbi Yosei, and Rabbi Ilai \u2014 all discussed under the 'R. Y.b. Bava Garden' heading's prose, which explicitly introduces this mishna and its continuation.",
+      "chosen_heading": "R. Y.b. Bava Garden",
+      "current_heading": "R. Y.b. Bava Garden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "R. Eliezer Notes",
+    "candidates": [
+      "Stam R. Yehuda",
+      "R. Akiva Lenient",
+      "R. Yosi Rectangle",
+      "R. Eliezer Notes",
+      "Ve'od Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the second and third traditions Rabbi Ilai heard from Rabbi Eliezer \u2014 the eruv/courtyard ruling and the arkavlin/Pesach ruling \u2014 which are explicitly discussed in the 'R. Eliezer Notes' prose, making the current placement correct.",
+      "chosen_heading": "R. Eliezer Notes",
+      "current_heading": "R. Eliezer Notes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Ve'od Question",
+    "candidates": [
+      "Ve'od Question",
+      "Ve'od Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ve'od Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 pose the ve'od question and challenge, which matches the 'Ve'od Question' prose exactly.",
+      "second_heading": "Ve'od Answer",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives the gemara's answer (hasam afsiku rabbanan) which corresponds precisely to the 'Ve'od Answer' prose.",
+      "current_heading": "Ve'od Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Ve'od Answer",
+    "candidates": [
+      "Ve'od Answer",
+      "R. Akiva = T.K.?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Sukka objection and its resolution (the distinction between interruption on-topic vs. different matter), which the 'Ve'od Answer' prose explicitly describes as part of that section's discussion.",
+      "chosen_heading": "Ve'od Answer",
+      "current_heading": "Ve'od Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "R. Akiva = T.K.?",
+    "candidates": [
+      "R. Akiva = T.K.?",
+      "Precision Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Akiva's mishna ruling and the gemara's challenge 'Rabbi Akiva hainu Tanna Kamma,' which is exactly what heading 0's prose describes as the gemara's opening question about whether Rabbi Akiva is merely repeating the first tanna's position.",
+      "chosen_heading": "R. Akiva = T.K.?",
+      "current_heading": "R. Akiva = T.K.?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Precision Difference",
+    "candidates": [
+      "Precision Difference",
+      "Mishkan Source",
+      "Math Derivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Precision Difference",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the practical difference between the Tanna Kamma and Rabbi Akiva regarding the tiny amount beyond 70 and two-thirds, which is exactly what the 'Precision Difference' prose describes.",
+      "second_heading": "Mishkan Source",
+      "second_confidence": "high",
+      "second_reason": "Item 3 asks 'from where are these matters derived?' which is precisely the opening question of the 'Mishkan Source' section, where the gemara derives beit satayim from the courtyard of the Tabernacle.",
+      "current_heading": "Precision Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Math Derivation",
+    "candidates": [
+      "Mishkan Source",
+      "Math Derivation",
+      "Pasuk Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda's answer about the source (the verse about the courtyard dimensions yielding 5,000 square amot), which is precisely what the 'Mishkan Source' prose describes \u2014 deriving beit satayim from the Mishkan courtyard \u2014 whereas 'Math Derivation' discusses the geometric construction of tul chamishim ve-sovev chamishim, which is a separate step not yet reached in this passage.",
+      "chosen_heading": "Mishkan Source",
+      "current_heading": "Math Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Pasuk Meaning",
+    "candidates": [
+      "Math Derivation",
+      "Pasuk Meaning",
+      "Contradiction Noted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the plain meaning of the verse and Abaye's explanation about positioning the Mishkan at the edge of fifty cubits with fifty cubits in front and twenty on each side, which matches exactly the 'Pasuk Meaning' section's prose about ha'ameid Mishkan al sfat chamishim and the 50-by-50 open forecourt.",
+      "chosen_heading": "Pasuk Meaning",
+      "current_heading": "Pasuk Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Contradiction Noted",
+    "candidates": [
+      "Contradiction Noted",
+      "Text Emendation",
+      "Akiva vs. Yosi",
+      "Tosafot Practical",
+      "Both Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: item 1 states the contradiction between mishna and baraita, item 2 proposes resolving it by re-reading the mishna but immediately raises the new difficulty that this makes Rabbi Eliezer identical to Rabbi Yosi, and item 3 answers that difficulty \u2014 the entire sequence is exactly what candidate 0's prose describes as the contradiction requiring resolution, and candidates 1 and 2 each cover only part of this chain separately.",
+      "chosen_heading": "Contradiction Noted",
+      "current_heading": "Contradiction Noted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Both Lenient",
+    "candidates": [
+      "Text Emendation",
+      "Akiva vs. Yosi",
+      "Tosafot Practical",
+      "Both Lenient",
+      "Why Both Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage records exactly the two rulings (Rav Yosef citing Shmuel for Rabbi Yosi, Rav Beivai citing Shmuel for Rabbi Akiva) that the 'Both Lenient' section's prose explicitly describes and introduces.",
+      "chosen_heading": "Both Lenient",
+      "current_heading": "Both Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Why Both Stated",
+    "candidates": [
+      "Why Both Stated",
+      "Lot to Garden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items explain why both rulings (Rabbi Yosei and Rabbi Akiva) had to be stated, which is precisely what the 'Why Both Stated' section's prose discusses.",
+      "chosen_heading": "Why Both Stated",
+      "current_heading": "Why Both Stated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Lot to Garden",
+    "candidates": [
+      "Lot to Garden",
+      "Majority Rules",
+      "Trees Exception",
+      "R. Huna Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the ruling that a majority-planted garden transforms the karpef into a gina and prohibits carrying, which is precisely what the 'Majority Rules' section's prose discusses, not the introductory complex-case framing of 'Lot to Garden'.",
+      "chosen_heading": "Majority Rules",
+      "current_heading": "Lot to Garden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "R. Huna Limit",
+    "candidates": [
+      "Majority Rules",
+      "Trees Exception",
+      "R. Huna Limit",
+      "Beit Sasayim Threshold",
+      "Opening Rule",
+      "R. Shimon",
+      "Eruv Challenge",
+      "Lakes & Parks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Trees Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the trees-planted majority ruling (*nata rubo* \u2192 *ke-chatzer u-mutar*), which matches heading 1 ('Trees Exception') precisely, not the Rav Huna qualification discussion of heading 2.",
+      "second_heading": "R. Huna Limit",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form a continuous chain: Rav Huna's beit satayim qualification, the ke-man attribution to Rabbi Shimon, and the gemara's rejection \u2014 all of which are explicitly described in heading 2's prose ('R. Huna Limit').",
+      "current_heading": "R. Huna Limit",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Bat Arusah",
+    "candidates": [
+      "Bat Arusah",
+      "Bat Anusah",
+      "Ketubat vs. Knas"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Bat Anusah",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-4 cover the yevama and shneiyah daughter dilemmas which heading 0's prose describes as 'previous session' concluded material, so they belong under the preceding heading about shneiyot/bat shneiyah.",
+      "second_heading": "Bat Arusah",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is precisely Rava's dilemma about bat arusah, which is the exact topic heading 0's prose introduces and analyzes.",
+      "current_heading": "Bat Arusah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Ketubat vs. Knas",
+    "candidates": [
+      "Bat Anusah",
+      "Ketubat vs. Knas",
+      "House & Resources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form Rav Pappa's dilemma about the daughter of a raped woman (bat anusah) receiving mezonot, which is precisely what candidate 0's prose describes, while candidate 1's prose already contains the resolution of that dilemma and belongs to a later section.",
+      "chosen_heading": "Bat Anusah",
+      "current_heading": "Ketubat vs. Knas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "House & Resources",
+    "candidates": [
+      "Ketubat vs. Knas",
+      "House & Resources",
+      "Shmuel's Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'you shall sit in my house' stipulation, Rav Yosef's teaching about b'veiti v'lo b'vikati, and Mar bar Rav Ashi's position on mezonot, which is exactly what the 'House & Resources' prose section describes.",
+      "chosen_heading": "House & Resources",
+      "current_heading": "House & Resources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Shmuel's Proposal",
+    "candidates": [
+      "Shmuel's Proposal",
+      "Beautification Tests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Nachman/Shmuel's ruling about a widow's mezonot when proposed marriage and Rav Anan's clarification about the reasons for refusal, which is exactly what the 'Shmuel's Proposal' section's prose describes in detail.",
+      "chosen_heading": "Shmuel's Proposal",
+      "current_heading": "Shmuel's Proposal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Beautification Tests",
+    "candidates": [
+      "Beautification Tests",
+      "Court Demand Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav \u1e24isda/Rav Yosef dispute about licentiousness vs. beautification forfeiting mezonot, and the Gemara's reconciliation of those two positions \u2014 exactly what the 'Beautification Tests' prose describes.",
+      "chosen_heading": "Beautification Tests",
+      "current_heading": "Beautification Tests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Court Demand Rule",
+    "candidates": [
+      "Court Demand Rule",
+      "Mortgaging Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the operative halakha as Rav Yehuda citing Shmuel \u2014 that a widow who formally demands her ketubah in Beit Din loses mezonot \u2014 which is precisely what the 'Court Demand Rule' prose describes as the final ruling.",
+      "chosen_heading": "Court Demand Rule",
+      "current_heading": "Court Demand Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Mortgaging Ketubah",
+    "candidates": [
+      "Mortgaging Ketubah",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita challenge and its Gemara resolution about selling/pledging/apotiki vs. claiming in court \u2014 exactly the content described in the 'Mortgaging Ketubah' prose.",
+      "chosen_heading": "Mortgaging Ketubah",
+      "current_heading": "Mortgaging Ketubah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Mechoza Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records the Amoraic dispute between Rav and Shmuel about the halakha following Anshei Yehuda vs. Anshei Galil, which is precisely what the 'Rav vs. Shmuel' section's prose describes.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Mechoza Woman",
+    "candidates": [
+      "Mechoza Woman",
+      "Kav Measurement",
+      "Count or Not?",
+      "Hired Worker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Mechoza woman narrative and the geographic ruling about Nehardea's boundary, which is exactly what the 'Mechoza Woman' prose describes \u2014 including the kav measurement detail that concludes that same discussion.",
+      "chosen_heading": "Mechoza Woman",
+      "current_heading": "Mechoza Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Hired Worker",
+    "candidates": [
+      "Kav Measurement",
+      "Count or Not?",
+      "Hired Worker",
+      "Orphan & Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the widow dispute (Rav vs. Shmuel on appraising her clothes) and the reversal with the hired worker in a single Talmudic unit, and candidate 1's prose explicitly introduces this entire sugya including the widow's ketubah question, making it the natural home for the full passage rather than candidate 2 which covers only the second half.",
+      "chosen_heading": "Count or Not?",
+      "current_heading": "Hired Worker",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Orphan & Widow",
+    "candidates": [
+      "Hired Worker",
+      "Orphan & Widow",
+      "Rav Nachman Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about Rav Kahana's mnemonic (siman) 'yatma v'almana shlach u'fok' connecting the hired worker and widow cases, which is precisely what the 'Orphan & Widow' section's prose discusses.",
+      "chosen_heading": "Orphan & Widow",
+      "current_heading": "Orphan & Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Rav Nachman Resolves",
+    "candidates": [
+      "Rav Nachman Resolves",
+      "Court Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rav Na\u1e25man's ruling, Rava's challenge, and the resolution via intent \u2014 which is precisely what the 'Rav Nachman Resolves' prose describes in detail.",
+      "chosen_heading": "Rav Nachman Resolves",
+      "current_heading": "Rav Nachman Resolves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Court Story",
+    "candidates": [
+      "Court Story",
+      "Wine & Dowry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the court story of the daughter-in-law of Bar Elyashiv claiming her ketubah from orphans and Ravina's ruling following Rav, which matches perfectly with the 'Court Story' prose description.",
+      "chosen_heading": "Court Story",
+      "current_heading": "Court Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Wine & Dowry",
+    "candidates": [
+      "Wine & Dowry",
+      "Stepmother Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly match the 'Wine & Dowry' prose, which describes exactly these two cases: the depreciated dowry (Rav Idi bar Avin ruling purna leyatmei) and the appreciated wine (Rav Yosef ruling revacha leyatmei).",
+      "chosen_heading": "Wine & Dowry",
+      "current_heading": "Wine & Dowry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Stepmother Story",
+    "candidates": [
+      "Stepmother Story",
+      "Grammatical Nuance",
+      "Mishnah Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous stepmother narrative \u2014 Rabbi Yochanan's advice, Resh Lakish's counter-ruling, and Rabbi Yochanan's demurral \u2014 which is precisely what the 'Stepmother Story' prose describes in detail.",
+      "chosen_heading": "Stepmother Story",
+      "current_heading": "Stepmother Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Mishnah Overview",
+    "candidates": [
+      "Grammatical Nuance",
+      "Mishnah Overview",
+      "Yehuda's Option"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Grammatical Nuance",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 belong under 'Grammatical Nuance' \u2014 item 1 is Rabbi Abbahu's explanation of the lamed/beit distinction that the prose explicitly describes, and item 2 is the chapter-closing formula that naturally follows the end of that discussion.",
+      "second_heading": "Mishnah Overview",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening Mishnah of the next chapter discussing tosefet ketubah and Rabbi Elazar ben Azarya's qualification, which is precisely what the 'Mishnah Overview' prose describes.",
+      "current_heading": "Mishnah Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Yehuda's Option",
+    "candidates": [
+      "Yehuda's Option",
+      "Tosefet Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda's Option",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah dispute between Rabbi Yehuda and Rabbi Meir about reducing the ketubah via a receipt, which is precisely what heading 0 ('Yehuda's Option') discusses.",
+      "second_heading": "Tosefet Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara asking why the Mishnah needs to state that a husband may add to the ketubah, and the answer about not embarrassing those who cannot afford more \u2014 exactly the content described in heading 1 ('Tosefet Status').",
+      "current_heading": "Yehuda's Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Tosefet Status",
+    "candidates": [
+      "Tosefet Status",
+      "Nine Applications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the linguistic precision of 'ratza le-hosif' versus 'ratza lichtov' and supports Rabbi Aivu/Yannai's principle that tosefet has the status of the ketubah itself \u2014 exactly what the 'Tosefet Status' prose describes.",
+      "chosen_heading": "Tosefet Status",
+      "current_heading": "Tosefet Status",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav Huna's Position",
+    "candidates": [
+      "Introduction to Selling",
+      "Rav Huna's Position",
+      "Rav Yehuda Position",
+      "Baraitot & Ameimar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's and Rav Yehuda's opinions together in one Gemara unit, and the 'Introduction to Selling' prose explicitly frames the *keitzad mocheret* question that opens this passage, making it the natural home for the combined statement rather than splitting it under the individual opinion headings.",
+      "chosen_heading": "Introduction to Selling",
+      "current_heading": "Rav Huna's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Baraitot & Ameimar",
+    "candidates": [
+      "Rav Yehuda Position",
+      "Baraitot & Ameimar",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both baraitot supporting Rav Huna and Rav Yehuda respectively, which is precisely what the 'Baraitot & Ameimar' section's prose discusses \u2014 tanya kavatei deRav Huna and tanya kavatei deRav Yehuda appearing together.",
+      "chosen_heading": "Baraitot & Ameimar",
+      "current_heading": "Baraitot & Ameimar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Rav Ashi Challenge",
+      "Rav Sheshet Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Ameimar's halakhic ruling, Rav Ashi's challenge about Rav Huna, and Ameimar's 'lo shemi'a lei' response, which is precisely what the 'Rav Ashi Challenge' prose section discusses.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Sheshet Query",
+    "candidates": [
+      "Rav Sheshet Query",
+      "Liens Explained",
+      "Ketubah vs. Mezonot",
+      "Rav Yosef Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the question itself raised to Rav Sheshet about whether a woman who sells property for sustenance can later seize it for her ketubah, which is precisely what the 'Rav Sheshet Query' prose introduces and describes.",
+      "chosen_heading": "Rav Sheshet Query",
+      "current_heading": "Rav Sheshet Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav Yosef Ruling",
+    "candidates": [
+      "Liens Explained",
+      "Ketubah vs. Mezonot",
+      "Rav Yosef Ruling",
+      "Two Objections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes and explains Rav Yosef's ruling about widow/court sales and achrayut falling on the orphans, which is precisely what the 'Rav Yosef Ruling' section's prose discusses.",
+      "chosen_heading": "Rav Yosef Ruling",
+      "current_heading": "Rav Yosef Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Two Objections",
+    "candidates": [
+      "Two Objections",
+      "Sheshet's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the two-sided objection discussed in 'Two Objections' prose \u2014 the question of whether she can seize because achrayut rests on orphans, or whether the buyers can counter that she accepted personal guarantee for her own sales.",
+      "chosen_heading": "Two Objections",
+      "current_heading": "Two Objections",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Sheshet's Answer",
+    "candidates": [
+      "Sheshet's Answer",
+      "Eitza Tova or Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's direct citation of the baraita resolving the dilemma, which matches precisely the 'Sheshet's Answer' section prose describing his citation of 'mocheret veholechet ad kedei ketuvatah' and the self-limiting principle.",
+      "chosen_heading": "Sheshet's Answer",
+      "current_heading": "Sheshet's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Eitza Tova or Din",
+    "candidates": [
+      "Eitza Tova or Din",
+      "Leaving Fields",
+      "Rescission Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's rejection of the eitza tova reading and the inference 'shayra in, la shayra la,' which is precisely what the 'Leaving Fields' section's prose describes.",
+      "chosen_heading": "Leaving Fields",
+      "current_heading": "Eitza Tova or Din",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rescission Query",
+    "candidates": [
+      "Leaving Fields",
+      "Rescission Query",
+      "Oxen Example",
+      "Rav Pappa Piety"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the exact dilemma about whether a sale is reversed when the seller didn't end up needing the money, which is precisely what the 'Rescission Query' prose describes as its framing question.",
+      "chosen_heading": "Rescission Query",
+      "current_heading": "Rescission Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Pappa Piety",
+    "candidates": [
+      "Oxen Example",
+      "Rav Pappa Piety",
+      "Famine Example",
+      "Nachman Ruling",
+      "Mekach Taaut",
+      "Rashi Clarification",
+      "Buyer Concern",
+      "Nachman Response",
+      "Final Hilcheta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the setup (man sold land to Rav Pappa to buy oxen, ultimately didn't need the money) and the conclusion (Rav Pappa returned the land, acting beyond the letter of the law), and the prose under 'Oxen Example' (index 0) introduces the scenario while 'Rav Pappa Piety' (index 1) covers only the return and Gemara's rejection \u2014 but since the Gemara text is a single continuous passage encompassing both elements, and index 0's prose begins the narrative that the full quoted text covers, the passage is best placed under index 0, with the current split being an artifact of the automated pipeline dividing what should be one unified section.",
+      "chosen_heading": "Oxen Example",
+      "current_heading": "Rav Pappa Piety",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Final Hilcheta",
+    "candidates": [
+      "Famine Example",
+      "Nachman Ruling",
+      "Mekach Taaut",
+      "Rashi Clarification",
+      "Buyer Concern",
+      "Nachman Response",
+      "Final Hilcheta",
+      "Tanna Kama Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya about the Nehardea famine/mansion case \u2014 the drought scenario (item 1), the mekach ta'ut explanation (item 2), the Rami bar Shmuel exchange (item 3), and the hilcheta (item 4) \u2014 and candidate 0 ('Famine Example') is the heading whose prose introduces this entire case, making it the natural home for all four items rather than splitting them across later headings.",
+      "chosen_heading": "Famine Example",
+      "current_heading": "Final Hilcheta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Tanna Kama Rule",
+    "candidates": [
+      "Final Hilcheta",
+      "Tanna Kama Rule",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna stating the tanna kama rule that a widow may sell without beit din, which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Tanna Kama Rule",
+      "current_heading": "Tanna Kama Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Question Setup",
+      "Ulla/Chen Reason",
+      "Rashi on Chen",
+      "Rabbi Yochanan",
+      "Grushah Question",
+      "Chen Analysis",
+      "Embarrassment Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon View",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Shimon's distinction and the Gemara's opening question about the marriage widow, matching heading 0 ('Rabbi Shimon View') and the 'Question Setup' prose \u2014 but item 1 is Rabbi Shimon's view itself, which belongs under heading 0, and item 2 is the Gemara's 'granted' elaboration that sets up the question, which belongs under heading 1 ('Question Setup'); however since item 1 is the Mishnah and item 2 opens the Gemara with 'granted' before the actual question, both items 1-2 together form the setup that heading 0's prose and heading 1's prose describe, so the structural seam is after item 1 (end of Mishnah, start of Gemara).",
+      "second_heading": "Question Setup",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara's question-and-answer sequence (granted marriage widow / but what about betrothal widow \u2014 Ulla and Rabbi Yochanan answer), which matches heading 1 ('Question Setup') leading into headings 2/4, but since all of items 2-3 together cover the question setup plus Ulla and Rabbi Yochanan's answers, heading 1 is the best single home for both.",
+      "current_heading": "Rabbi Shimon View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Embarrassment Analysis",
+    "candidates": [
+      "Question Setup",
+      "Ulla/Chen Reason",
+      "Rashi on Chen",
+      "Rabbi Yochanan",
+      "Grushah Question",
+      "Chen Analysis",
+      "Embarrassment Analysis",
+      "Grushah Mishna",
+      "Grushah Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items revolve around the mishna's ruling that a grushah may sell only in beit din \u2014 item 1 sets up the grushah distinction, item 2 cites that very mishna and raises the challenge to the chen view, and item 3 resolves it via Rabbi Shimon \u2014 matching heading 7 ('Grushah Mishna') whose prose explicitly introduces that mishna and its implications.",
+      "chosen_heading": "Grushah Mishna",
+      "current_heading": "Embarrassment Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Grushah Conclusion",
+    "candidates": [
+      "Grushah Mishna",
+      "Grushah Conclusion",
+      "Heirs Baraita",
+      "Male Heirs Problem",
+      "Grace Problem",
+      "Female Heirs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question-and-answer about why the mishna needed to state the grushah case separately given Rabbi Shimon's rationale, which is precisely the content discussed in 'Grushah Conclusion' prose about the chen rationale and the distinction between almana min ha'erusin and grushah.",
+      "chosen_heading": "Grushah Conclusion",
+      "current_heading": "Grushah Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Female Heirs",
+    "candidates": [
+      "Heirs Baraita",
+      "Male Heirs Problem",
+      "Grace Problem",
+      "Female Heirs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Male Heirs Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are a question-and-answer about the 'megureshet v'einah megureshet' case (divorced/not divorced), which has nothing to do with heirs selling without beit din \u2014 this belongs under a different heading discussing who receives sustenance.",
+      "second_heading": "Heirs Baraita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the baraita about heirs selling without beit din and then works through both the embarrassment and chen rationales, which matches the 'Heirs Baraita' heading's prose about extending the widow's procedural leniency to her heirs.",
+      "current_heading": "Female Heirs",
+      "moved": true
+    }
+  }
+]

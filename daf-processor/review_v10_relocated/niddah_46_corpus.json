@@ -1,0 +1,548 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Challenge & Response",
+    "candidates": [
+      "Challenge & Response",
+      "Checking Whole Year"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Checking Whole Year",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishna text itself (the parallel rules for girls and boys, plus the prior/after time clause) which the 'Checking Whole Year' section's prose references as already established background before the Gemara's further difficulty about examining throughout the whole year.",
+      "second_heading": "Challenge & Response",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the Gemara's challenge-and-response about the redundancy between the eleven-and-a-day and twelve-and-a-day rulings, which is precisely what the 'Challenge & Response' prose describes.",
+      "current_heading": "Challenge & Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Checking Whole Year",
+    "candidates": [
+      "Checking Whole Year",
+      "Both Boundaries",
+      "Further Redundancy",
+      "Contrary Claims"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Checking Whole Year",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 ask why the 'examine throughout the twelfth year' clause and the 'eleven and a day' clause are each needed, exactly matching the 'Checking Whole Year' prose about the thirty-days-counts-as-a-year argument and the subsequent question about the starting point.",
+      "second_heading": "Both Boundaries",
+      "second_confidence": "high",
+      "second_reason": "Item 3 answers the question about the eleven-and-a-day starting point by explaining that without it one might think a precocious girl could be examined from ten-and-a-day, which matches the 'Both Boundaries' prose precisely.",
+      "current_heading": "Checking Whole Year",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Contrary Claims",
+    "candidates": [
+      "Both Boundaries",
+      "Further Redundancy",
+      "Contrary Claims",
+      "Reversed Ages",
+      "Rabbi's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly asks why the Mishna states both boundaries and answers that it is necessary to foreclose the argument that contrary claims by the girls themselves could shift the halacha \u2014 which is precisely what the 'Contrary Claims' section's prose describes.",
+      "chosen_heading": "Contrary Claims",
+      "current_heading": "Contrary Claims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Rabbi's Reason",
+    "candidates": [
+      "Reversed Ages",
+      "Rabbi's Reason",
+      "Education Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita dispute between Rabbi and Rabbi Shimon ben Elazar, Rav \u1e24isda's binah derivation for Rabbi's position, and the alternative use of the verse by Reish Lakish/Rabbi Shimon ben Menasya \u2014 are precisely the content described in the 'Rabbi's Reason' prose, which explicitly discusses all three elements in sequence.",
+      "chosen_heading": "Rabbi's Reason",
+      "current_heading": "Rabbi's Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Education Factor",
+    "candidates": [
+      "Education Factor",
+      "Peer Association",
+      "Question Framed",
+      "Vows: In-Between"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Shimon ben Elazar's reason via Rav Shmuel bar Rav Yitzchak's statement about boys frequenting their teacher's house, which is precisely what the 'Education Factor' prose discusses.",
+      "chosen_heading": "Education Factor",
+      "current_heading": "Education Factor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Vows: In-Between",
+    "candidates": [
+      "Peer Association",
+      "Question Framed",
+      "Vows: In-Between",
+      "Punishment Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the raising of the dilemma ('during the time \u2014 like before or like after?') and the immediate follow-up question about what halakha it applies to, which matches heading 1 ('Question Framed') describing the Gemara raising the broader question of whether the transitional year counts as before or after; heading 2 ('Vows: In-Between') describes the resolution/conclusion about vows, not the initial posing of the dilemma.",
+      "chosen_heading": "Question Framed",
+      "current_heading": "Vows: In-Between",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Punishment Debate",
+    "candidates": [
+      "Vows: In-Between",
+      "Punishment Debate",
+      "Sign Reference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the punishment debate (le-onshin mai) and the disagreement between Rav/Rabbi Chanina versus Rabbi Yochanan/Rabbi Yehoshua ben Levi, which is precisely what the 'Punishment Debate' prose describes.",
+      "chosen_heading": "Punishment Debate",
+      "current_heading": "Punishment Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Sign Reference",
+    "candidates": [
+      "Sign Reference",
+      "Hamnuna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's mnemonic using 'vezot lefanim be-Yisrael,' which is exactly what the 'Sign Reference' prose describes.",
+      "chosen_heading": "Sign Reference",
+      "current_heading": "Sign Reference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Hamnuna Challenge",
+    "candidates": [
+      "Hamnuna Challenge",
+      "Hair Significance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are a continuous chain \u2014 Rav Hamnuna's objection, Rava's rebuttal, the Gemara's rejection of Rava's rebuttal, and the correct reading of Rav Hamnuna's proof \u2014 all addressed in heading 0's prose, which covers exactly this dialectic.",
+      "chosen_heading": "Hamnuna Challenge",
+      "current_heading": "Hamnuna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Hair Significance",
+    "candidates": [
+      "Hair Significance",
+      "Zeira Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's proof from the verse 'ish ki yafli lindor neder' about a thirteen-year-old's vows, which matches precisely the 'Zeira Proof' section's prose description of this exact argument.",
+      "chosen_heading": "Zeira Proof",
+      "current_heading": "Hair Significance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Zeira Proof",
+    "candidates": [
+      "Hair Significance",
+      "Zeira Proof",
+      "Conclusion",
+      "Before Nine",
+      "Nine to Twelve",
+      "Yosei Dissent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's analysis of the baraita proving that hairs during the time count as before the time, which matches exactly the prose under 'Zeira Proof' describing Rav Zeira's proof from the word 'ish' and the conclusion about hairs before the age threshold carrying no legal significance.",
+      "chosen_heading": "Zeira Proof",
+      "current_heading": "Zeira Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Yosei Dissent",
+    "candidates": [
+      "Conclusion",
+      "Before Nine",
+      "Nine to Twelve",
+      "Yosei Dissent",
+      "Internal Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Na\u1e25man's citation of a baraita covering all the age ranges (nine, nine-to-twelve, and thirteen-and-a-day), and heading 1 ('Before Nine') is where this baraita is first introduced \u2014 the essay then breaks it into sub-sections, so the opening of the baraita belongs under the first substantive heading where the baraita begins, which matches 'Before Nine' as the entry point for this whole tannaitic dispute.",
+      "chosen_heading": "Before Nine",
+      "current_heading": "Yosei Dissent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Internal Tension",
+    "candidates": [
+      "Yosei Dissent",
+      "Internal Tension",
+      "Multiple Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man's observation that the baraita contradicts itself regarding whether the thirteenth year itself is shuma or siman, which is precisely what the 'Internal Tension' section's prose describes.",
+      "chosen_heading": "Internal Tension",
+      "current_heading": "Internal Tension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Multiple Readings",
+    "candidates": [
+      "Multiple Readings",
+      "Krispida Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's sequential resolution of the apparent contradiction in the baraita \u2014 proposing a tannaitic dispute, rejecting it, and offering multiple alternative readings \u2014 which is precisely what the 'Multiple Readings' prose describes.",
+      "chosen_heading": "Multiple Readings",
+      "current_heading": "Multiple Readings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Krispida Clarifies",
+    "candidates": [
+      "Krispida Clarifies",
+      "Independent Criteria",
+      "Meeun Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yosei b'Rabbi Yehuda's opinion and the supporting baraita about hairs from age nine being shuma vs. a sign, which is precisely what the 'Krispida Clarifies' prose describes and concludes with.",
+      "chosen_heading": "Krispida Clarifies",
+      "current_heading": "Krispida Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Meeun Defined",
+    "candidates": [
+      "Independent Criteria",
+      "Meeun Defined",
+      "Chalitzah Defined",
+      "Rava Uncertain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present Rava's ruling that a girl in her twelfth year may perform meeun but from twelve-and-a-day onward can neither perform meeun nor chalitzah, and the Gemara's challenge to that ruling \u2014 precisely the content described in the 'Rava Uncertain' prose.",
+      "chosen_heading": "Rava Uncertain",
+      "current_heading": "Meeun Defined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Rava Uncertain",
+    "candidates": [
+      "Chalitzah Defined",
+      "Rava Uncertain",
+      "Apparent Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's challenge 'u'mi mesafka lei' \u2014 questioning whether Rava actually has uncertainty given his own ruling about presumed puberty \u2014 and the resolution that his presumption only applies in an ordinary case, not when examination found no hairs; this is precisely the content described in the 'Apparent Paradox' prose.",
+      "chosen_heading": "Apparent Paradox",
+      "current_heading": "Rava Uncertain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Apparent Paradox",
+    "candidates": [
+      "Apparent Paradox",
+      "Rava's Assumption",
+      "Hairs Checked",
+      "Rabbinic vs. Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the scenario where the girl was examined (checked) and hairs were not found, then raises the concern that hairs may have fallen out \u2014 exactly what the 'Hairs Checked' section's prose describes.",
+      "chosen_heading": "Hairs Checked",
+      "current_heading": "Apparent Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Rabbinic vs. Biblical",
+    "candidates": [
+      "Rava's Assumption",
+      "Hairs Checked",
+      "Rabbinic vs. Biblical",
+      "Fallen Hair Concern",
+      "Post-Mitzvah Sex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between Rav Pappa and Rav Pappi about whether we are concerned that hairs fell out after a negative examination, which matches the 'Hairs Checked' section's prose about the possibility that hairs were present and fell out \u2014 not the 'Rabbinic vs. Biblical' section where they currently sit.",
+      "chosen_heading": "Hairs Checked",
+      "current_heading": "Rabbinic vs. Biblical",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Post-Mitzvah Sex",
+    "candidates": [
+      "Fallen Hair Concern",
+      "Post-Mitzvah Sex",
+      "Biblical Marriage",
+      "No Post-Mitzvah Sex"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Post-Mitzvah Sex",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the question about \u1e25alitza requiring examination (distinguishing it from meeun) and fits the 'No Post-Mitzvah Sex' section's discussion of rabbinic matters where absence of visible hairs suffices to establish minority status.",
+      "second_heading": "Fallen Hair Concern",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Dimi's ruling that we are concerned hairs may have fallen out, which directly matches the 'Fallen Hair Concern' section's prose about choshshin shema nashru and the robustness of the presumption of maturity after the age threshold.",
+      "current_heading": "Post-Mitzvah Sex",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "No Post-Mitzvah Sex",
+    "candidates": [
+      "Biblical Marriage",
+      "No Post-Mitzvah Sex",
+      "Huna: Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that when intercourse occurred only before the age of twelve (at the outset), there is no concern about fallen hairs and the matter remains rabbinic \u2014 exactly what the 'No Post-Mitzvah Sex' prose describes.",
+      "chosen_heading": "No Post-Mitzvah Sex",
+      "current_heading": "No Post-Mitzvah Sex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Huna: Lashes",
+    "candidates": [
+      "Huna: Lashes",
+      "Yafli Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Huna's ruling that a minor who consecrated food and ate it is flogged, which is exactly what the prose under 'Huna: Lashes' describes.",
+      "chosen_heading": "Huna: Lashes",
+      "current_heading": "Huna: Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Yafli Proof",
+    "candidates": [
+      "Yafli Proof",
+      "Baraita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the yafli/lo yachel derivation that heading 0's prose explicitly describes, making it the clear correct placement.",
+      "chosen_heading": "Yafli Proof",
+      "current_heading": "Yafli Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Baraita Support",
+    "candidates": [
+      "Baraita Support",
+      "Bal Yachel Issue",
+      "Adults Transgress"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraita that Rav Huna bar Yehuda cites \u2014 the introduction, the body reasoning about equating minors to adults, and the limiting verse 'zeh ha-davar' \u2014 which is precisely what the 'Baraita Support' prose describes.",
+      "chosen_heading": "Baraita Support",
+      "current_heading": "Baraita Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146,
+      147,
+      148
+    ],
+    "current_heading": "Adults Transgress",
+    "candidates": [
+      "Bal Yachel Issue",
+      "Adults Transgress",
+      "Kahana: Rabbinic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bal Yachel Issue",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the core 'whichever way you look at it' dilemma about mufla samuch le-ish being biblical or not, which is precisely what candidate 0's prose describes.",
+      "second_heading": "Adults Transgress",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-5 discuss the resolution via adults eating consecrated food, the Rav Kahana dispute, and the rabbinic asmachta conclusion, which candidate 1's prose covers (with item 5 spilling into candidate 2's territory, but candidate 1 is the better single home).",
+      "current_heading": "Adults Transgress",
+      "moved": true
+    }
+  }
+]

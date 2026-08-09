@@ -1,0 +1,157 @@
+[
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Loud voice",
+    "candidates": [
+      "Opening remarks",
+      "First Mishnah",
+      "Officials overview",
+      "Petachiah = Mordechai",
+      "Generation question",
+      "More officials",
+      "Beit Garmo & Avtinas",
+      "Rav Chizkiyah debate",
+      "Yoma reference",
+      "Garmo/Avtinas status",
+      "Rabbi Akiva",
+      "Knesset HaGedolah",
+      "Sofrim & numbering",
+      "Numerical mnemonics",
+      "Torah she-be-al-peh",
+      "Ezra the Scribe",
+      "Labor metaphor",
+      "Our struggle",
+      "Angel comparison",
+      "Donkey joke",
+      "Donkey refuses food",
+      "Proper feeding",
+      "Donkey machmir",
+      "Petachiah greatness",
+      "Sanhedrin languages",
+      "Yavneh scholars",
+      "Drought & omer",
+      "Blight story",
+      "Three women",
+      "Eye danger",
+      "Sea danger",
+      "Wolf danger",
+      "Stomach ailments",
+      "Diet problems",
+      "Wine remedies",
+      "Well digging",
+      "Cold water",
+      "Hot water",
+      "Son's death",
+      "Divine justice",
+      "God's account",
+      "Hairbreadth measure",
+      "Awe of closeness",
+      "Chasid tragedy",
+      "Refuses comfort",
+      "Pinchas questions",
+      "Pinchas refuses",
+      "Daughter alive",
+      "Two readings",
+      "Responses differ",
+      "Announcements",
+      "Loud voice",
+      "Gate locking",
+      "Krias hagever"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 51,
+      "confidence": "high",
+      "reason": "The passage describes Gevini the herald announcing in the Temple and King Agrippas hearing his voice at eight parasangs, which directly matches the 'Loud voice' section's prose about Agrippas hearing his voice eight parasangs away and giving gifts.",
+      "chosen_heading": "Loud voice",
+      "current_heading": "Loud voice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Krias hagever",
+    "candidates": [
+      "Gate locking",
+      "Krias hagever",
+      "Wick twisting",
+      "Parnasin refused",
+      "Parnasin honor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav's translation of 'krias hagever' as 'kra gavra' (the man called out) and the subsequent debate about whether 'gever' means a man or a rooster, which is precisely what the 'Krias hagever' section's prose describes.",
+      "chosen_heading": "Krias hagever",
+      "current_heading": "Krias hagever",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Parnasin honor",
+    "candidates": [
+      "Wick twisting",
+      "Parnasin refused",
+      "Parnasin honor",
+      "Signal chimes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the Ben Bevay/wick-twisting reference and the Rabbi Yosi/parnasin story as one continuous unit, but since the passage begins with 'Ben Bevay al hapakiya' (the wick twisting), heading 0 captures the start of this text; however, the content spans headings 0-2, and given the passage is a single quoted unit, heading 0 is where it begins \u2014 though the current placement at 'Parnasin honor' (2) captures the argumentative climax, the full passage starting point and the automated pipeline's likely error suggest it should open under heading 0 where the wick-twisting prose matches the passage's opening line.",
+      "chosen_heading": "Wick twisting",
+      "current_heading": "Parnasin honor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Signal chimes",
+    "candidates": [
+      "Signal chimes",
+      "Choir overseer",
+      "Beautiful melody",
+      "Kohanim amazed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Ben Arza striking the cymbal/chimes as a signal, which matches the 'Signal chimes' section's prose about Ben Arza striking the chimes to signal the levi'im to begin music.",
+      "chosen_heading": "Signal chimes",
+      "current_heading": "Signal chimes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Kohanim amazed",
+    "candidates": [
+      "Choir overseer",
+      "Beautiful melody",
+      "Kohanim amazed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Hugdas ben Levi and the song, his special melody, his thumb technique producing sounds, and the kohanim being amazed \u2014 and the prose under 'Beautiful melody' (index 1) explicitly addresses all of these elements together, making it the best single home for the entire passage.",
+      "chosen_heading": "Beautiful melody",
+      "current_heading": "Kohanim amazed",
+      "moved": true
+    }
+  }
+]

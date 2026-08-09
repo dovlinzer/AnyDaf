@@ -58,8 +58,8 @@
           "timestamp": "08:58"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Architectural and Functional Exemptions: The Avulei D'Mechuza Case and Danger to Inspectors",
@@ -218,7 +218,7 @@
           "timestamp": "30:47"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -242,7 +242,7 @@
           "timestamp": "31:43"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -286,7 +286,7 @@
           "timestamp": "45:13"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -714,5 +714,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "31:43",
+  "amud_b_micro_title": "Core Agreement",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "b"
 }

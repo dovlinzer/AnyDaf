@@ -1,0 +1,432 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Lenient to Self",
+    "candidates": [
+      "Opening & Tiflus Issue",
+      "Historical Context",
+      "R. Eliezer's Position",
+      "Rambam's Approach",
+      "Context & Realities",
+      "Theme Introduction",
+      "Rav Sheshet",
+      "Lenient to Self",
+      "Ulla's Category",
+      "Shimush Debate",
+      "Xerox & Education",
+      "Am Ha'aretz Status",
+      "Bur Classification",
+      "Kuti Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rav Sheshet/Rav Yosef bar \u1e24ama, Rabbi Zerika/Rav Huna, and Ulla) defining the rasha arum, and the 'Lenient to Self' section (index 7) explicitly introduces Rabbi Zerika's view while the preceding section (index 6) already covered Rav Sheshet \u2014 the current placement under index 7 correctly captures the continuation through Ulla's category, which flows directly into the next section's prose.",
+      "chosen_heading": "Lenient to Self",
+      "current_heading": "Lenient to Self",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Kuti Analogy",
+    "candidates": [
+      "Ulla's Category",
+      "Shimush Debate",
+      "Xerox & Education",
+      "Am Ha'aretz Status",
+      "Bur Classification",
+      "Kuti Analogy",
+      "Magus Category",
+      "Magus & Tana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the three-way debate (Rabbi Elazar, Rabbi Shmuel bar Na\u1e25mani, Rabbi Yannai) about one who 'read and learned but did not serve Torah scholars,' which is precisely what candidate 0 ('Ulla's Category') introduces as its topic, making it the natural home for this source before the debate's details are unpacked in subsequent sections.",
+      "chosen_heading": "Ulla's Category",
+      "current_heading": "Kuti Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Magus & Tana",
+    "candidates": [
+      "Magus Category",
+      "Magus & Tana",
+      "Shema Criterion",
+      "Shema Significance",
+      "Berakhot Significance",
+      "R. Meir Opinion",
+      "Tefillin Criterion",
+      "Tefillin History",
+      "Symbolic Meaning",
+      "Ben Azzai",
+      "R. Yonatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav Nachman bar Yitzchak statement about the magus chanting without understanding and the tanna teaching without knowing what he says, which is precisely what the prose of candidate 1 ('Magus & Tana') discusses in detail.",
+      "chosen_heading": "Magus & Tana",
+      "current_heading": "Magus & Tana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "R. Yonatan",
+    "candidates": [
+      "Shema Criterion",
+      "Shema Significance",
+      "Berakhot Significance",
+      "R. Meir Opinion",
+      "Tefillin Criterion",
+      "Tefillin History",
+      "Symbolic Meaning",
+      "Ben Azzai",
+      "R. Yonatan",
+      "Acheirim",
+      "Severity Scale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita that introduces all five opinions on who is an am ha'aretz, and the 'Shema Criterion' heading's prose explicitly cites this same baraita opening ('tnu rabanan, eizehu am ha'aretz?'), making it the correct home for the entire quoted passage rather than placing it under just the R. Yonatan section.",
+      "chosen_heading": "Shema Criterion",
+      "current_heading": "R. Yonatan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Severity Scale",
+    "candidates": [
+      "Acheirim",
+      "Severity Scale",
+      "Question",
+      "Connection",
+      "Tosfot Complexity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'kara velo shanah \u2014 harei zeh bur' and 'lo kara velo shanah' with the Jeremiah verse, which is exactly what the 'Severity Scale' prose section describes and analyzes.",
+      "chosen_heading": "Severity Scale",
+      "current_heading": "Severity Scale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Tosfot Complexity",
+    "candidates": [
+      "Question",
+      "Connection",
+      "Tosfot Complexity",
+      "Baraita Claim",
+      "Ravina Clarification",
+      "R. Yehoshua",
+      "Core Issue",
+      "Isha Perushah",
+      "Three Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tosfot Complexity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Yitzchak on 'shonim' and Rav Huna's teaching) is explicitly discussed in the 'Tosfot Complexity' prose which covers the yera Hashem verse, Rabbi Yitzchak's interpretation, the mahu deteima about repeated sinners, and Rav Huna's ruling.",
+      "second_heading": "Baraita Claim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the baraita about tanna'im meval'ei olam) matches the 'Baraita Claim' prose which directly introduces and describes this exact baraita about memorizers destroying the world.",
+      "current_heading": "Tosfot Complexity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Three Types",
+    "candidates": [
+      "Baraita Claim",
+      "Ravina Clarification",
+      "R. Yehoshua",
+      "Core Issue",
+      "Isha Perushah",
+      "Three Types",
+      "Pious Virgin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita listing the three types (besulah tzalyanit, almanah shovevis, katan shelo kalu chodashav) as mavlei olam, which is precisely what the 'Three Types' section's prose discusses.",
+      "chosen_heading": "Three Types",
+      "current_heading": "Three Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Pious Virgin",
+    "candidates": [
+      "Pious Virgin",
+      "Problematic Aspects",
+      "Righteous Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact Talmudic text about the maiden's prayer that Candidate 0's prose directly quotes and discusses, making it the clear home for this item.",
+      "chosen_heading": "Pious Virgin",
+      "current_heading": "Pious Virgin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Righteous Widow",
+    "candidates": [
+      "Problematic Aspects",
+      "Righteous Widow",
+      "Question Raised",
+      "Specification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic story of the widow who walked extra steps to pray at Rabbi Yochanan's beis hamidrash, which is precisely the text that candidate 1 ('Righteous Widow') discusses in its prose about kibul sachar and the almanah's extra walking.",
+      "chosen_heading": "Righteous Widow",
+      "current_heading": "Righteous Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Specification",
+    "candidates": [
+      "Question Raised",
+      "Specification",
+      "Young Scholar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly answers the question about which widow/virgin erodes the world by specifying Yo\u1e25ani bat Retivi, which matches the 'Specification' section's prose about *ki ka'amar* and *kegon Yochni bat Retivi*.",
+      "chosen_heading": "Specification",
+      "current_heading": "Specification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Young Scholar",
+    "candidates": [
+      "Young Scholar",
+      "Gap Year Problem",
+      "R. Abba",
+      "Verse Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses 'katan shelo kalu chodashav' interpreted as a Torah scholar who scorns his teachers, which is precisely what the prose under 'Young Scholar' describes.",
+      "chosen_heading": "Young Scholar",
+      "current_heading": "Young Scholar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Verse Application",
+    "candidates": [
+      "Gap Year Problem",
+      "R. Abba",
+      "Verse Application",
+      "Opposite Case",
+      "Rav Moshe",
+      "40 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Abba's statement and the supporting Rav/Rav Huna/Rabbi Abbahu teaching as one unit, and candidate 1 ('R. Abba') explicitly discusses Rabbi Abba's statement about a student who has not reached hora'ah yet rules, while candidate 2 ('Verse Application') discusses only the verse interpretation that follows \u2014 the passage as a whole belongs under the R. Abba heading where the full unit including its proof is introduced.",
+      "chosen_heading": "R. Abba",
+      "current_heading": "Verse Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "40 Years",
+    "candidates": [
+      "Opposite Case",
+      "Rav Moshe",
+      "40 Years",
+      "Rashi vs. Tosfot",
+      "Modern Application",
+      "Machos Perushim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's discussion of the forty-year threshold for issuing rulings and Rabbah's exception, which is exactly what the '40 Years' section's prose describes.",
+      "chosen_heading": "40 Years",
+      "current_heading": "40 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Machos Perushim",
+    "candidates": [
+      "Rashi vs. Tosfot",
+      "Modern Application",
+      "Machos Perushim",
+      "Seven Listed",
+      "Shichmi Type",
+      "Nikpi Type",
+      "Kizai Type",
+      "Meduchya Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Baraita listing the seven types of false pietists ('Tanu Rabbanan: shiva perushim hein'), which matches precisely the 'Seven Listed' section's prose describing that same listing.",
+      "chosen_heading": "Seven Listed",
+      "current_heading": "Machos Perushim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Meduchya Type",
+    "candidates": [
+      "Seven Listed",
+      "Shichmi Type",
+      "Nikpi Type",
+      "Kizai Type",
+      "Meduchya Type",
+      "Machovasi Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all four types (Shichmi, Nikpi, Kizai, and Meduchya) together, but since it begins with the Shichmi explanation and flows through the others, it belongs under 'Shichmi Type' where the essay prose introduces the first of these detailed explanations \u2014 however, examining more carefully, this single Gemara passage contains all four definitions and is currently placed under 'Meduchya Type' but actually begins with Shichmi, so it best belongs under the 'Shichmi Type' heading where the discussion of these definitions starts.",
+      "chosen_heading": "Shichmi Type",
+      "current_heading": "Meduchya Type",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Machovasi Type",
+    "candidates": [
+      "Meduchya Type",
+      "Machovasi Type",
+      "Ahava & Yira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'mah chovati' phrase and the Gemara's clarification that the problem is claiming prior completion of all obligations, which is exactly what the Machovasi Type prose describes.",
+      "chosen_heading": "Machovasi Type",
+      "current_heading": "Machovasi Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Ahava & Yira",
+    "candidates": [
+      "Ahava & Yira",
+      "Rav Support",
+      "Hidden vs. Revealed",
+      "Divine Justice",
+      "King Yannai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the identification of parush mei'ahava/mi'yira AND Abaye and Rava's defense citing Rav Yehuda/Rav's principle, which together form one unified unit \u2014 and the current heading's prose explicitly addresses both the problematic classification and Abaye/Rava's objection, making it the correct home for the entire passage.",
+      "chosen_heading": "Ahava & Yira",
+      "current_heading": "Ahava & Yira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "King Yannai",
+    "candidates": [
+      "Rav Support",
+      "Hidden vs. Revealed",
+      "Divine Justice",
+      "King Yannai",
+      "Tzvu'im Defined",
+      "Final Image"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Na\u1e25man bar Yitz\u1e25ak statement about hidden vs. revealed AND the King Yannai statement, and candidate 1 ('Hidden vs. Revealed') covers the full Rav Na\u1e25man quote while candidates 2-4 break it into sub-parts; the essay's prose for 'Hidden vs. Revealed' explicitly quotes 'demitamera mitamera, demigalya migalya' and then continues into the beis dina rabba and Yannai material as one unified passage.",
+      "chosen_heading": "Hidden vs. Revealed",
+      "current_heading": "King Yannai",
+      "moved": true
+    }
+  }
+]

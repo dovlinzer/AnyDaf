@@ -48,8 +48,8 @@
           "timestamp": "07:12"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Alternative Placement: Signatures Running Parallel to the Text",
@@ -351,5 +351,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "16:12",
+  "amud_b_micro_title": "Horizontal Name Integrity",
+  "shiur_start_daf": 161,
+  "shiur_start_amud": "a"
 }

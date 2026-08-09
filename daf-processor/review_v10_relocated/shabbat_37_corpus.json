@@ -1,0 +1,238 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Applying the Distinction",
+    "candidates": [
+      "Mishna Overview",
+      "Chananya's Lenient View",
+      "Gemara's Core Question",
+      "Tocha vs Al Gaba",
+      "Applying the Distinction",
+      "Double Oven Proof",
+      "Rabbi Meir's Position",
+      "Rabbi Yehuda's Position",
+      "Which Opinion?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's argument about Rabbi Chelbo's tocha/al gaba distinction bearing on the shehiya vs. chazara question, including the rejection that Rabbi Chelbo addresses the first clause and the conclusion that he addresses the latter clause (Beit Hillel's af machzirin), which is precisely what the 'Applying the Distinction' prose describes.",
+      "chosen_heading": "Applying the Distinction",
+      "current_heading": "Applying the Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Which Opinion?",
+    "candidates": [
+      "Double Oven Proof",
+      "Rabbi Meir's Position",
+      "Rabbi Yehuda's Position",
+      "Which Opinion?",
+      "Our Mishna's Position",
+      "Somech Question",
+      "Somech Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form one continuous argumentative chain: item 1 brings the double-oven baraita (already introduced under heading 0-2), item 2 uses it to press the shehiya/chazara question against Rabbi Meir and Rabbi Yehuda, and item 3 resolves the tension \u2014 exactly the content described in heading 3's prose about 'Which Opinion?'",
+      "chosen_heading": "Which Opinion?",
+      "current_heading": "Which Opinion?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Somech Allowed",
+    "candidates": [
+      "Our Mishna's Position",
+      "Somech Question",
+      "Somech Allowed",
+      "Tosefta on Ashes",
+      "Reignition Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening of the somech dilemma \u2014 the question raised and the first attempted proof from the double-oven baraita with its rejection \u2014 which is precisely what the 'Somech Question' prose describes as the initial raising and framing of the mahu lismoch question, before the Tosefta settles it (which belongs under 'Somech Allowed').",
+      "chosen_heading": "Somech Question",
+      "current_heading": "Somech Allowed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Reignition Case",
+    "candidates": [
+      "Tosefta on Ashes",
+      "Reignition Case",
+      "Tosafot's Caveat",
+      "Reignition = Fully Cooked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about whether leaning (somchin) requires garuf ve'katum, moving through Rav Safra's teaching, the notlin/somchin analogy debate, and the Tosefta's final resolution \u2014 exactly the content described in the 'Reignition Case' prose, which explicitly walks through each of these steps including the Tosefta's clarification that somchin is permitted without garuf ve'katum.",
+      "chosen_heading": "Reignition Case",
+      "current_heading": "Reignition Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Reignition = Fully Cooked",
+    "candidates": [
+      "Tosafot's Caveat",
+      "Reignition = Fully Cooked",
+      "Retam Embers",
+      "Rav Sheshet's Teaching"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Reignition = Fully Cooked",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (Rabbi Yitzchak bar Nachmani/Rav Oshaya's ruling and its Gemara discussion) are precisely what the 'Reignition = Fully Cooked' prose analyzes in detail, including the mitztemak ve-yafeh lo inference, the deflection via 'shani hacha di-katma', and the chiddush about reignition not nullifying ashes.",
+      "second_heading": "Retam Embers",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rabba bar bar Chana citing Rabbi Yochanan) is precisely the content described under 'Retam Embers', which explicitly discusses this exact ruling including the rotam coal addendum and the Gemara's explanation that the two teachings are distinguished by the rotam case.",
+      "current_heading": "Reignition = Fully Cooked",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rav Sheshet's Teaching",
+    "candidates": [
+      "Retam Embers",
+      "Rav Sheshet's Teaching",
+      "Rava's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's teaching citing Rabbi Yochanan about leaving partially cooked food on a stove lit with wood/pomace and the distinction between shehiya and hachzara, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Rav Sheshet's Teaching",
+      "current_heading": "Rav Sheshet's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rava's Defense",
+    "candidates": [
+      "Rava's Defense",
+      "Our Mishna Reread",
+      "Ashkenazi Position",
+      "Stringent Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's argument that both shehiya and chazara principles are already evident from existing mishnayot, which is precisely what the 'Rava's Defense' section's prose describes.",
+      "chosen_heading": "Rava's Defense",
+      "current_heading": "Rava's Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Stringent Position",
+    "candidates": [
+      "Our Mishna Reread",
+      "Ashkenazi Position",
+      "Stringent Position",
+      "The Dispute",
+      "Regional Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Shmuel bar Yehuda's citation of Rabbi Yochanan's stricter opinion requiring fully cooked food and permitting mitztemek ve-yafeh lo, along with the immediate challenge from those citing Rav and Shmuel \u2014 exactly the content described in the 'Stringent Position' prose.",
+      "chosen_heading": "Stringent Position",
+      "current_heading": "Stringent Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Regional Practice",
+    "candidates": [
+      "The Dispute",
+      "Regional Practice",
+      "Rav Ashi's Case",
+      "Rav Nachman's Ruling",
+      "General Principle",
+      "Stews with/without Meat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "The Dispute",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Shmuel bar Yehuda's clarification that he was citing Rabbi Yochanan's view and Rav Ukva mi-Meishan's regional practice statement \u2014 both discussed under 'The Dispute' heading's prose about the Rav/Shmuel vs. Rabbi Yochanan disagreement.",
+      "second_heading": "Regional Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the Abaye-Rav Yosef exchange about practical shehiya rulings and Rav Ashi's observation of Rav Huna with kasa deharsena, which matches exactly the 'Regional Practice' section's prose discussing those same exchanges.",
+      "current_heading": "Regional Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Stews with/without Meat",
+    "candidates": [
+      "Rav Ashi's Case",
+      "Rav Nachman's Ruling",
+      "General Principle",
+      "Stews with/without Meat",
+      "Specific Foods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Nachman's ruling (mitztemek ve-yafeh lo assur, mitztemek ve-ra lo mutar) plus the general principle about flour, the turnip stew exception with meat/guest conditions, and the specific foods \u2014 all of which are part of Rav Nachman's single extended statement, and the prose under 'Rav Nachman's Ruling' explicitly introduces this as his definitive ruling covering all these details.",
+      "chosen_heading": "Rav Nachman's Ruling",
+      "current_heading": "Stews with/without Meat",
+      "moved": true
+    }
+  }
+]

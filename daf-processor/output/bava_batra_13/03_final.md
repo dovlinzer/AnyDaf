@@ -1,12 +1,9 @@
-# Bava Batra 13 — Daf Yomi Shiur
-
+[DAF:13a]
 ## Bar Metzra & Inheritance
 
-### Two Brothers, Adjacent P…
 
-> **Hebrew/Aramaic:** תְּרֵי אַרְעָתָא אַתְּרֵי נִגְרֵי – אָמַר רַבָּה: כְּגוֹן זֶה – כּוֹפִין עַל מִדַּת סְדוֹם. מַתְקֵיף לַהּ רַב יוֹסֵף: זִמְנִין דְּהַאי מִדְּוִיל וְהַאי לָא מִדְּוִיל! וְהִלְכְתָא כְּרַב יוֹסֵף.
->
-> **Translation:** If a father leaves his two sons **two** parcels of **land next to two** water **channels [*nigrei*],** and one brother requests the field that is next to a field that he already owns, **Rabba says: In** a case **such as this,** the court **compels** people to refrain from **conduct** characteristic **of Sodom** and allows that brother to receive the field adjoining his own. **Rav Yosef objects to this,** saying that if the other brother protests and wants that parcel of land, it is not a case involving conduct characteristic of Sodom because he may have a valid reason for objecting: **Sometimes this** water channel **continues running** well, **while this** second one **does not continue running** well; therefore, the second brother wants to receive land that adjoins a water channel on both sides. The Gemara concludes: **And the *halakha*** is **in accordance with** the opinion of **Rav Yosef.**
+
+### Two Brothers Estate Div
 
 The daf opens seven lines from the bottom of 12b, at the passage beginning *trai arasa*. The context is a case of two brothers dividing an inherited estate, and the question is whether one brother may demand a preferred plot — specifically, one adjacent to land he already owns outside the estate. Under ordinary commercial law, this right is known as *dina d'bar metzra*, the law of the adjoining plot. Its basis is the principle of *v'asita hayashar v'hatov* — that one must act rightly and justly — combined with the logic of *zeh neheneh v'zeh lo chaser*: when the seller loses nothing by preferring the neighbor, and the neighbor gains considerably more than a random purchaser would, the neighbor holds something close to a right of first refusal.
 
@@ -15,10 +12,6 @@ The daf opens seven lines from the bottom of 12b, at the passage beginning *trai
 The Gemara reports that *Raba* initially thought this principle would apply even within the context of dividing an inheritance, such that one brother could insist on receiving the plot adjacent to his outside holdings.
 
 ### Rav Yosef's Objection
-
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב יוֹסֵף: אָמְרִי לֵיהּ אֲחֵי, מְעַלִּינַן לֵיהּ עִלּוּיָא כִּי נִכְסֵי דְּבֵי בַּר מָרִיּוֹן! וְהִלְכְתָא כְּרַב יוֹסֵף.
->
-> **Translation:** **Rav Yosef objects to this,** saying this is not a case involving conduct characteristic of Sodom, since the brothers can explain their refusal to grant the request. **The brothers** can **say to him: We assess this** field that you want for yourself **as** particularly **valuable, like the property of the house of bar Maryon.** The brothers can claim that the portion he wants is more desirable than the others, and for that reason they do not want to give it to him. The Gemara concludes: **And the *halakha*** is **in accordance with** the opinion of **Rav Yosef,** and the brothers can refuse the request.
 
 *Rav Yosef* rejected this. His argument, in brief, is that within an inheritance division, the other parties have a legitimate basis to resist: for us, this is worth real money.
 
@@ -34,15 +27,16 @@ The Gemara rules *v'hilchata k'Rav Yosef* — the *halacha* follows Rav Yosef, a
 
 ## Two Plots, Two Canals
 
+
+
 ### The Setup
 
 The Gemara now turns to a new case: *trai arasa a-trai nagri* — two plots of land adjacent to two irrigation canals. Imagine a northern plot and a southern plot, with one irrigation canal running along the northern edge of the northern plot and another along the southern edge of the southern plot. Two brothers inherit both plots together. How are they to divide them?
 
-### Raba's Proposal
+> **Hebrew/Aramaic:** תְּרֵי אַרְעָתָא אַתְּרֵי נִגְרֵי – אָמַר רַבָּה: כְּגוֹן זֶה – כּוֹפִין עַל מִדַּת סְדוֹם. מַתְקֵיף לַהּ רַב יוֹסֵף: זִמְנִין דְּהַאי מִדְּוִיל וְהַאי לָא מִדְּוִיל! וְהִלְכְתָא כְּרַב יוֹסֵף.
+> **Translation:** If a father leaves his two sons **two** parcels of **land next to two** water **channels [*nigrei*],** and one brother requests the field that is next to a field that he already owns, **Rabba says: In** a case **such as this,** the court **compels** people to refrain from **conduct** characteristic **of Sodom** and allows that brother to receive the field adjoining his own. **Rav Yosef objects to this,** saying that if the other brother protests and wants that parcel of land, it is not a case involving conduct characteristic of Sodom because he may have a valid reason for objecting: **Sometimes this** water channel **continues running** well, **while this** second one **does not continue running** well; therefore, the second brother wants to receive land that adjoins a water channel on both sides. The Gemara concludes: **And the *halakha*** is **in accordance with** the opinion of **Rav Yosef.**
 
-> **Hebrew/Aramaic:** תַּרְתֵּי אַחַד נִגְרָא – אָמַר רַב יוֹסֵף: כְּגוֹן זֶה – כּוֹפִין עַל מִדַּת סְדוֹם. מַתְקֵיף לַהּ אַבָּיֵי, מָצֵי אָמַר: בָּעֵינָא דְּאַפֵּישׁ אֲרִיסֵי! וְהִלְכְתָא כְּרַב יוֹסֵף; אַפּוֹשֵׁי לָאו מִילְּתָא הִיא.
->
-> **Translation:** If a father leaves his two sons **two** parcels of land **next to one channel** and one of the brothers already owns a field next to one of those parcels of land, **Rav Yosef said: In** a case **such as this,** the court **compels** people to refrain from **conduct** characteristic **of Sodom** and allows that brother to receive the field adjoining his own. **Abaye objects to this,** saying that this is not a case involving conduct characteristic of Sodom because the other brother **can say** to him: **I want** the number of **sharecroppers to increase.** If my field is in the middle and you have fields on either side, you will need more sharecroppers to work them and my field will enjoy greater security. **And the *halakha*** is **in accordance with** the opinion of **Rav Yosef** because **the increase** of sharecroppers **is** considered as **nothing,** and this is therefore not a valid reason for objecting.
+### Raba's Proposal
 
 *Raba* proposes that the division should run north-south — each brother receiving one complete plot, each with its own adjacent canal. His reasoning invokes the principle of *kofin al midat Sedom*: one cannot refuse a division that costs nothing and benefits the other party. If one brother prefers a north-south split, giving each person one unbroken parcel, the other cannot insist on an east-west split simply for the sake of obstruction. Raba's implicit premise is that having one complete, continuous plot is more convenient than two half-plots side by side, and that a north-south division accomplishes that cleanly.
 
@@ -58,21 +52,24 @@ Importantly, Tosafot notes that Rav Yosef's objection here is structurally diffe
 
 ## Two Plots, One Canal
 
-### Standard Division
 
-> **Hebrew/Aramaic:** תַּרְתֵּי אַחַד נִגְרָא – אָמַר רַב יוֹסֵף: כְּגוֹן זֶה – כּוֹפִין עַל מִדַּת סְדוֹם.
->
-> **Translation:** If a father leaves his two sons **two** parcels of land **next to one channel** and one of the brothers already owns a field next to one of those parcels of land, **Rav Yosef said: In** a case **such as this,** the court **compels** people to refrain from **conduct** characteristic **of Sodom** and allows that brother to receive the field adjoining his own.
+
+### Standard Division
 
 The Gemara now takes up *tarti achad nahara* — two plots sharing a single irrigation canal. Here, *Rav Yosef* himself agrees that the standard solution is straightforward: you divide down the center, running along the irrigation canal, so that each brother receives half of the canal. This is *kofin al midat Sedom* in its clearest form — there is no compelling argument against a clean split. Even Rav Yosef raises no objection to this.
 
 A brief clarification on Rashi's understanding of the earlier cases: Rashi actually does say that the cases in the prior segment also involved a neighboring field — one brother had a parcel already abutting the estate on a particular side, and wanted the division to run in a way that would connect his existing field to the adjacent portion of the inheritance. This reading makes the *bar metzra* issue more central to those cases than it might initially appear.
 
+> **Hebrew/Aramaic:** תַּרְתֵּי אַחַד נִגְרָא – אָמַר רַב יוֹסֵף: כְּגוֹן זֶה – כּוֹפִין עַל מִדַּת סְדוֹם. מַתְקֵיף לַהּ אַבָּיֵי, מָצֵי אָמַר: בָּעֵינָא דְּאַפֵּישׁ אֲרִיסֵי! וְהִלְכְתָא כְּרַב יוֹסֵף; אַפּוֹשֵׁי לָאו מִילְּתָא הִיא.
+> **Translation:** If a father leaves his two sons **two** parcels of land **next to one channel** and one of the brothers already owns a field next to one of those parcels of land, **Rav Yosef said: In** a case **such as this,** the court **compels** people to refrain from **conduct** characteristic **of Sodom** and allows that brother to receive the field adjoining his own. **Abaye objects to this,** saying that this is not a case involving conduct characteristic of Sodom because the other brother **can say** to him: **I want** the number of **sharecroppers to increase.** If my field is in the middle and you have fields on either side, you will need more sharecroppers to work them and my field will enjoy greater security. **And the *halakha*** is **in accordance with** the opinion of **Rav Yosef** because **the increase** of sharecroppers **is** considered as **nothing,** and this is therefore not a valid reason for objecting.
+
 ### Abaye's Objection
+
+
 
 *Abaye* challenges even this standard arrangement. The Gemara phrases his objection as follows: *matzi amar ba'ina de'afushei arisai* — he says, I want to increase the number of sharecroppers working near my field. Rashi explains the scenario as one where one brother's outside plot borders the estate on one side, and that brother wants the estate divided so that his portion is placed between two separate parcels of the other brother. His reasoning: if the other brother holds parcels on both sides of his field, there will be more sharecroppers working in the vicinity, which provides greater security and activity around his own land. The cost to the other brother — holding two non-contiguous half-parcels instead of one continuous plot — is real. Yet Abaye raises this as a potentially legitimate counter-claim to the standard division.
 
-### Sharecropper Claim Rejec…
+### Sharecropper Arguments
 
 The Gemara rejects this. *Afushei arisai lav milsa hi* — seeking more sharecroppers at another party's expense is not a valid legal claim. You cannot demand that the other person's land be fragmented in a way that inconveniences them simply because it incidentally benefits you.
 
@@ -84,10 +81,11 @@ This rejection stands in notable contrast to Rav Yosef's accepted argument in th
 
 ## Canal & River Division
 
+
+
 ### Rashi's Approach
 
-> **Hebrew/Aramaic:** חַד גִּיסָא נִגְרָא וְחַד גִּיסָא נַהֲרָא – פָּלְגִין לַהּ בְּקַרְנָא זוֹל.
->
+> **Hebrew/Aramaic:** חַד גִּיסָא נִגְרָא וְחַד גִּיסָא נַהֲרָא – פָּלְגִין לַהּ בְּקַרְנָא זוֹל.
 > **Translation:** If there is a water **channel** on **one side** of the field **and a river** on **the other side,** the field **is divided diagonally [*bekarna zol*]** between the two brothers, so that they each receive land adjoining both the river and the water channel.
 
 The Gemara introduces a final case: *chad gisa nagra v'chad gisa nahara* — one side of the property borders an irrigation canal and the other side borders a river, each offering distinct agricultural benefits. The ruling is *palginan lei bekarna zo* — divide it by the corner, diagonally.
@@ -100,21 +98,18 @@ Tosafot offers a considerably simpler reading. In Tosafot's case, the river and 
 
 ### Complete Unit Requirement
 
-> **Hebrew/Aramaic:** אֵין בָּהֶן כְּדַי לָזֶה וּכְדֵי לָזֶה, מַהוּ?
->
-> **Translation:** **What is** the *halakha* if **there is not enough for this one and that one?**
-
 Regardless of which reading one follows, the Gemara establishes a foundational requirement as it transitions to the top of 13a: *b'lo atropklin* — one cannot divide a property like a castle unless each party receives a portion that retains its own independent identity and utility, *shemo alav* — a name upon it, a recognizable complete unit. This requirement governs all of the division cases in the *mishna*: division is only compellable when each party's resulting share constitutes a full, functional thing in its own right.
 
 ---
 
 ## Gud o Agud Principle
 
+
+
 ### The Core Question
 
-> **Hebrew/Aramaic:** אֵין בָּהֶן כְּדַי לָזֶה וּכְדֵי לָזֶה, מַהוּ? רַב יְהוּדָה אָמַר: אִית דִּינָא דְּ״גוּד, אוֹ אֶגּוּד״. רַב נַחְמָן אָמַר: לֵית דִּינָא דְּ״גוּד, אוֹ אֶגּוּד״.
->
-> **Translation:** **What is** the *halakha* if **there is not enough for this one and that one?** What is to be done if one of the parties wishes to dissolve the partnership? **Rav Yehuda said: There is a *halakha*** of: Either **you set** a price **or I will set** a price. That is to say, one party can say to the other: Set a price you are willing to pay for my share, and I will sell my share to you or purchase your share from you at that price. **Rav Naḥman said: There is no *halakha*** of: Either **you set** a price **or I will set** a price; rather, the partnership continues.
+> **Hebrew/Aramaic:** וְלֹא אֶת הַטְּרַקְלִין כּוּ׳. אֵין בָּהֶן כְּדַי לָזֶה וּכְדֵי לָזֶה, מַהוּ? רַב יְהוּדָה אָמַר: אִית דִּינָא דְּ״גוּד, אוֹ אֶגּוּד״. רַב נַחְמָן אָמַר: לֵית דִּינָא דְּ״גוּד, אוֹ אֶגּוּד״.
+> **Translation:** § The mishna teaches that **a hall,** a drawing room, and the like should **not** be divided unless the two parties will be able to use their respective portions in the same manner that they had previously used them. The Gemara asks: **What is** the *halakha* if **there is not enough for this one and that one?** What is to be done if one of the parties wishes to dissolve the partnership? **Rav Yehuda said: There is a *halakha*** of: Either **you set** a price **or I will set** a price. That is to say, one party can say to the other: Set a price you are willing to pay for my share, and I will sell my share to you or purchase your share from you at that price. **Rav Naḥman said: There is no *halakha*** of: Either **you set** a price **or I will set** a price; rather, the partnership continues.
 
 Having established when division is required, the Gemara now asks the critical follow-up: *ein bahen k'dei l'zeh u'k'dei l'zeh* — what if the inheritance simply cannot be divided into two portions each large enough to qualify as a complete unit? *Mahu* — what is the *halacha*? One party wants to dissolve the partnership; the other is content to remain in it.
 
@@ -138,11 +133,10 @@ Tosafot is careful to note that the entire discussion of *gud o agud* assumes th
 
 ## Bechor & Pashut Case
 
+
+
 ### The Problem Setup
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא לְרַב נַחְמָן: לְדִידָךְ דְּאָמְרַתְּ לֵית דִּינָא דְּ״גוּד אוֹ אֶגּוּד״, בְּכוֹר וּפָשׁוּט שֶׁהִנִּיחַ לָהֶן אֲבִיהֶן עֶבֶד וּבְהֵמָה טְמֵאָה, כֵּיצַד עוֹשִׂין? אֲמַר לֵיהּ, שֶׁאֲנִי אוֹמֵר: עוֹבֵד לָזֶה יוֹם אֶחָד, וְלָזֶה שְׁנֵי יָמִים.
->
-> **Translation:** **Rava said to Rav Naḥman: According to you who say** that **there is no *halakha*** of: Either **you set** a price **or I will set** a price, **what should they do** if there was **a firstborn** son **and** an **ordinary** brother **whose father left them a slave and a non-kosher animal** as an inheritance? How are they to be divided? Rav Naḥman **said to him: I say that they work for this one,** the ordinary brother, **one day, and for the other one,** the firstborn, **two days.**
 
 *Rava* pressed *Rav Nachman* with a sharp challenge. He invoked the case of a *bechor u-pashut* — a firstborn son who receives a double share, and a non-firstborn son who receives a single share. Suppose their father left them a slave or a non-kosher animal — items that cannot be divided the way a field can be, and cannot be *shechted* and shared the way a kosher animal can. *Keitzad osin* — how are they supposed to divide this? Rava further notes that the case is framed specifically as *bechor u-pashut* rather than simply two equal brothers, because equal brothers could simply alternate days of use. With a two-to-one ownership ratio, alternating days is not a workable solution. Something must give. And if selling and splitting the proceeds is suggested — that too is itself a form of *gud o agud*, dissolving the joint ownership for money. If one brother refuses to sell and insists on retaining his share in kind, is there truly no way out?
 
@@ -152,17 +146,21 @@ The force of the challenge is this: the situation seems genuinely untenable with
 
 ### Rav Nachman's Response
 
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא לְרַב נַחְמָן: לְדִידָךְ דְּאָמְרַתְּ לֵית דִּינָא דְּ״גוּד אוֹ אֶגּוּד״, בְּכוֹר וּפָשׁוּט שֶׁהִנִּיחַ לָהֶן אֲבִיהֶן עֶבֶד וּבְהֵמָה טְמֵאָה, כֵּיצַד עוֹשִׂין? אֲמַר לֵיהּ, שֶׁאֲנִי אוֹמֵר: עוֹבֵד לָזֶה יוֹם אֶחָד, וְלָזֶה שְׁנֵי יָמִים.
+> **Translation:** **Rava said to Rav Naḥman: According to you who say** that **there is no *halakha*** of: Either **you set** a price **or I will set** a price, **what should they do** if there was **a firstborn** son **and** an **ordinary** brother **whose father left them a slave and a non-kosher animal** as an inheritance? How are they to be divided? Rav Naḥman **said to him: I say that they work for this one,** the ordinary brother, **one day, and for the other one,** the firstborn, **two days.**
+
 Rav Nachman holds his ground: *shani omer oved le-ze yom echad u-le-ze shnei yamim* — he says the slave works for one brother one day and for the other brother two days, maintaining the two-to-one ratio. Inconvenient as this is, it is not legally untenable, and therefore it does not compel the conclusion that *gud o agud* must exist. Tosafot adds a further layer: the brother who receives two consecutive days of service actually extracts more than double the value of a single day, since continuous labor is more productive than interrupted labor. This makes the arrangement even more lopsided than it first appears — yet Rav Nachman maintains it is the answer, because you cannot force a partner out of their inheritance interest.
 
 ---
 
 ## Half-Slave Case
 
+
+
 ### Partnership Problem
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: מִי שֶׁחֶצְיוֹ עֶבֶד וְחֶצְיוֹ בֶּן חוֹרִין – עוֹבֵד אֶת רַבּוֹ יוֹם אֶחָד, וְאֶת עַצְמוֹ יוֹם אֶחָד; דִּבְרֵי בֵּית הִלֵּל. בֵּית שַׁמַּאי אוֹמְרִים: תִּקַּנְתֶּם אֶת רַבּוֹ; אֶת עַצְמוֹ לֹא תִּקַּנְתֶּם! לִישָּׂא שִׁפְחָה – אֵינוֹ יָכוֹל, לִישָּׂא בַּת חוֹרִין – אֵינוֹ יָכוֹל; יִבָּטֵל?! וַהֲלֹא לֹא נִבְרָא הָעוֹלָם אֶלָּא לִפְרִיָּה וּרְבִיָּה, שֶׁנֶּאֱמַר: ״לֹא תֹהוּ בְרָאָהּ, לָשֶׁבֶת יְצָרָהּ״!
->
-> **Translation:** The Gemara **raises an objection** to Rav Yehuda's approach from what is taught in a mishna (*Gittin* 41a): **One who is half-slave half-freeman,** e.g., a slave who had been jointly owned by two people, one of whom emancipated him, **serves his master one day and himself one day;** this is **the statement of Beit Hillel. Beit Shammai say: You have remedied** the situation of **his master,** who benefits fully from all his rights to the slave, but **you have not remedied his own** situation. **He cannot marry a maidservant,** since half of him is free, and a free Jew may not marry a Canaanite maidservant. **He is** also **not able to marry a free woman,** since half of him is a slave, and a Jewish woman may not marry a Canaanite slave. And if you say **he should be idle** and not marry, **but is it not** true that **the world was created only for procreation, as it is stated: "He did not create it to be a waste; He formed it to be inhabited"** (Isaiah 45:18)?
+> **Hebrew/Aramaic:** מֵיתִיבִי: מִי שֶׁחֶצְיוֹ עֶבֶד וְחֶצְיוֹ בֶּן חוֹרִין – עוֹבֵד אֶת רַבּוֹ יוֹם אֶחָד, וְאֶת עַצְמוֹ יוֹם אֶחָד; דִּבְרֵי בֵּית הִלֵּל. בֵּית שַׁמַּאי אוֹמְרִים: תִּקַּנְתֶּם אֶת רַבּוֹ; אֶת עַצְמוֹ לֹא תִּקַּנְתֶּם! לִישָּׂא שִׁפְחָה – אֵינוֹ יָכוֹל, לִישָּׂא בַּת חוֹרִין – אֵינוֹ יָכוֹל; יִבָּטֵל?! וַהֲלֹא לֹא נִבְרָא הָעוֹלָם אֶלָּא לִפְרִיָּה וּרְבִיָּה, שֶׁנֶּאֱמַר: ״לֹא תֹהוּ בְרָאָהּ, לָשֶׁבֶת יְצָרָהּ״!
+> **Translation:** The Gemara **raises an objection** to Rav Yehuda’s approach from what is taught in a mishna (*Gittin* 41a): **One who is half-slave half-freeman,** e.g., a slave who had been jointly owned by two people, one of whom emancipated him, **serves his master one day and himself one day;** this is **the statement of Beit Hillel. Beit Shammai say: You have remedied** the situation of **his master,** who benefits fully from all his rights to the slave, but **you have not remedied his own** situation. **He cannot marry a maidservant,** since half of him is free, and a free Jew may not marry a Canaanite maidservant. **He is** also **not able to marry a free woman,** since half of him is a slave, and a Jewish woman may not marry a Canaanite slave. And if you say **he should be idle** and not marry, **but is it not** true that **the world was created only for procreation, as it is stated: “He did not create it to be a waste; He formed it to be inhabited”** (Isaiah 45:18)?
 
 The Gemara now cites the classic *mishna* from *Gittin* regarding *mi she-chatzyo eved ve-chatzi ben chorin* — a person who is half-slave and half-free. This situation arises when an *eved Kna'ani* is jointly owned by two partners and one of them frees his half without the other doing the same. The result is a human being who is simultaneously half free and half enslaved, jointly "owned" by his former master (who holds the unfree half) and by himself (who holds the free half). They are, in effect, partners in him.
 
@@ -184,11 +182,12 @@ One might think: let him simply remain unmarried. The Gemara rejects this with f
 
 ### Forced Manumission
 
-> **Hebrew/Aramaic:** אֶלָּא כּוֹפִין אֶת רַבּוֹ – וְעוֹשִׂין אוֹתוֹ בֶּן חוֹרִין, וְכוֹתְבִין שְׁטָר עַל חֲצִי דָּמָיו. וְחָזְרוּ בֵּית הִלֵּל לְהוֹרוֹת כְּדִבְרֵי בֵּית שַׁמַּאי!
->
-> **Translation:** **Rather,** the court **forces his master to make him a freeman** by emancipating the half that he owns, **and** the court **writes a bill** in which the slave accepts responsibility to pay **half his value** to his master. This was the original version of the mishna. The ultimate version of the mishna records the retraction of Beit Hillel: **And Beit Hillel retracted** its opinion and **ruled in accordance with the statement of Beit Shammai.**
+> **Hebrew/Aramaic:** אֶלָּא כּוֹפִין אֶת רַבּוֹ – וְעוֹשִׂין אוֹתוֹ בֶּן חוֹרִין, וְכוֹתְבִין שְׁטָר עַל חֲצִי דָּמָיו. וְחָזְרוּ בֵּית הִלֵּל לְהוֹרוֹת כְּדִבְרֵי בֵּית שַׁמַּאי!
+> **Translation:** **Rather,** the court **forces his master to make him a freeman** by emancipating the half that he owns, **and** the court **writes a bill** in which the slave accepts responsibility to pay **half his value** to his master. This was the original version of the mishna. The ultimate version of the mishna records the retraction of Beit Hillel: **And Beit Hillel retracted** its opinion and **ruled in accordance with the statement of Beit Shammai.** This indicates that it is only in this case, where there is the particular consideration of procreation, that the court compels one of the parties to forfeit his portion and dissolve the partnership. But in other cases there is no *halakha* of: Either you set a price or I will set a price.
 
 The solution: *kofin et rabbo ve-oseh oto ben chorin ve-chotev shtar al chatzi damav* — we compel the master to free him fully, and the slave writes a document acknowledging that he owes the master half his value. He becomes entirely free, with a monetary debt to his former master.
+
+### Beis Hillel Reverts
 
 *Ve-chazru Beis Hillel le-horot k'divrei Beis Shammai* — Beis Hillel reversed its position and ruled in accordance with Beis Shammai.
 
@@ -196,11 +195,9 @@ The solution: *kofin et rabbo ve-oseh oto ben chorin ve-chotev shtar al chatzi d
 
 ## Why Gud o Agud Fails Here
 
-### Initial Challenge
 
-> **Hebrew/Aramaic:** שָׁאנֵי הָכָא, דְּ״אֶגּוּד״ אִיכָּא, ״גּוּד״ לֵיכָּא.
->
-> **Translation:** The Gemara answers: **It is different here, because** the slave can say: **I will set** a price, but he is **not** able to say: **You set** a price. In other words, the slave cannot offer to sell himself, because his Jewish side precludes him from selling himself as a Canaanite slave. Therefore, the court would not be able force the master to sell his share, were it not for the consideration of procreation. By contrast, in a situation where either side can buy or sell, one partner can compel the other to either buy his portion or sell his portion to him.
+
+### Initial Challenge
 
 The Gemara now uses this *mishna* to probe the scope of *gud o agud*. The question is: why was the elaborate *pirya ve-rivya* reasoning necessary? If *gud o agud* applies, why not simply say — the slave can invoke *gud o agud*, either the master frees him and receives payment, or the slave sells his free half back and becomes fully enslaved again?
 
@@ -208,7 +205,11 @@ The Gemara now uses this *mishna* to probe the scope of *gud o agud*. The questi
 
 The Gemara answers: *shani hacha d'agud ika, gud leka* — in this case, *agud* exists but *gud* does not.
 
+> **Hebrew/Aramaic:** שָׁאנֵי הָכָא, דְּ״אֶגּוּד״ אִיכָּא, ״גּוּד״ לֵיכָּא.
+> **Translation:** The Gemara answers: **It is different here, because** the slave can say: **I will set** a price, but he is **not** able to say: **You set** a price. In other words, the slave cannot offer to sell himself, because his Jewish side precludes him from selling himself as a Canaanite slave. Therefore, the court would not be able force the master to sell his share, were it not for the consideration of procreation. By contrast, in a situation where either side can buy or sell, one partner can compel the other to either buy his portion or sell his portion to him.
+
 ### Halakhic Impossibility
+
 
 The *agud* — the slave offering to buy out the master's share, effectively purchasing his own freedom — is legally available. That is, in the end, precisely what the forced manumission accomplishes. But *gud* — the slave offering to sell his free half back to the master, so the master could say "fine, I'll buy you out" and re-enslave the free portion — is halakhically impossible. A Jew cannot be sold as an *eved Kna'ani*. He can only be sold as an *eved Ivri*, which is an entirely different institution. So the *gud* option — "you buy my free half" — is not genuinely available. Because the choice is asymmetric, the standard *gud o agud* mechanism does not apply, and a separate basis — the inability to fulfill *pirya ve-rivya* — was necessary to compel resolution.
 
@@ -220,21 +221,23 @@ Tosafot takes the opportunity to examine why the Gemara invokes the creation-pur
 
 ## Rich & Poor Brother
 
-### Commercial Use
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: שְׁנֵי אַחִין – אֶחָד עָנִי וְאֶחָד עָשִׁיר, וְהִנִּיחַ לָהֶן אֲבִיהֶן מֶרְחָץ וּבֵית הַבַּד; עֲשָׂאָם לְשָׂכָר – הַשָּׂכָר לָאֶמְצַע; עֲשָׂאָם לְעַצְמוֹ – הֲרֵי עָשִׁיר אוֹמֵר לֶעָנִי:
->
-> **Translation:** The Gemara suggests: **Come** and **hear** a proof from what is taught in a mishna (172a): In a case where there are **two brothers, one poor and one rich, and their father left them a bathhouse or an olive press** as an inheritance, if the father had **built** these facilities **for profit,** i.e., to charge others for using them, **the profit** that accrues after the father's death is **shared equally** by the two brothers. If the father had **built them for himself** and for the members of his household to use, the poor brother, who has little use for these amenities, cannot force the rich brother to convert the facilities to commercial use; rather, **the rich** brother can **say to the poor** brother:
+
+[DAF:13b]
+### Commercial Use
 
 The Gemara now presents the case of *shnei achim echad ani v'echad ashir* — two brothers, one poor and one rich, whose father left them a bathhouse or an olive press. If these facilities are operated commercially — rented out to the public or run as a business — the solution is straightforward: *hasachar l'emtza*, they share the revenue equally.
 
+> **Hebrew/Aramaic:** תָּא שְׁמַע: שְׁנֵי אַחִין – אֶחָד עָנִי וְאֶחָד עָשִׁיר, וְהִנִּיחַ לָהֶן אֲבִיהֶן מֶרְחָץ וּבֵית הַבַּד; עֲשָׂאָן לְשָׂכָר – הַשָּׂכָר לָאֶמְצַע; עֲשָׂאָן לְעַצְמוֹ – הֲרֵי עָשִׁיר אוֹמֵר לֶעָנִי:
+> **Translation:** The Gemara suggests: **Come** and **hear** a proof from what is taught in a mishna (172a): In a case where there are **two brothers, one poor and one rich, and their father left them a bathhouse or an olive press** as an inheritance, if the father had **built** these facilities **for profit,** i.e., to charge others for using them, **the profit** that accrues after the father’s death is **shared equally** by the two brothers. If the father had **built them for himself** and for the members of his household to use, the poor brother, who has little use for these amenities, cannot force the rich brother to convert the facilities to commercial use; rather, **the rich** brother can **say to the poor** brother:
+
+> **Hebrew/Aramaic:** ״קַח לְךָ עֲבָדִים וְיִרְחֲצוּ בַּמֶּרְחָץ״, ״קַח לְךָ זֵיתִים, וּבֹא וַעֲשֵׂה בְּבֵית הַבַּד״! הָתָם נָמֵי, ״גּוּד״ אִיכָּא, ״אֶגּוּד״ לֵיכָּא.
+> **Translation:** Go **take servants for yourself, and they will bathe in the bathhouse.** Or he can say: Go **take olives for yourself and come and transform** them into oil **in the olive press.** Evidently, the poor brother cannot say to him: Buy my share. The Gemara rejects this proof: **There too** the poor brother can say: **You set** a price and buy my share, as the rich brother has the means to buy his poor brother’s portion; but he is **not** able to say: Or else **I will set** a price and buy your share, as the poor brother does not have the money to buy his brother out.
+
 ### Private Use Problem
 
-> **Hebrew/Aramaic:** ״קַח לְךָ עֲבָדִים וְיִרְחֲצוּ בַּמֶּרְחָץ״, ״קַח לְךָ זֵיתִים, וּבֹא וַעֲשֵׂה בְּבֵית הַבַּד״! הָתָם נָמֵי, ״גּוּד״ אִיכָּא, ״אֶגּוּד״ לֵיכָּא.
->
-> **Translation:** Go **take servants for yourself, and they will bathe in the bathhouse.** Or he can say: Go **take olives for yourself and come and transform** them into oil **in the olive press.** Evidently, the poor brother cannot say to him: Buy my share. The Gemara rejects this proof: **There too** the poor brother can say: **You set** a price and buy my share, as the rich brother has the means to buy his poor brother's portion; but he is **not** able to say: Or else **I will set** a price and buy your share, as the poor brother does not have the money to buy his brother out.
 
-The difficulty arises when the facilities are private — not open to the public, not a revenue-generating enterprise. In that case, the rich brother can say to the poor one: *kach l'cha avadim v'yirchatzu ba-merchatz* — take your servants and use the bathhouse. Or: *kach l'cha zeitim u-vo v'aseh b'veit habad* — go get your olives and press them. Come whenever you like. The implication is obvious: the poor brother has no slaves to bring to the bathhouse and no olives to press. The rich brother's offer is formally equal but practically inaccessible to the poor brother.
+The difficulty arises when the facilities are private — not open to the public, not a revenue-generating enterprise. In that case, the rich brother can say to the poor one: *kach l'cha avadim v'yirchatzu ba-merchatz* — take your servants and use the bathhouse. Or: *kach l'cha zeitim u'vo v'aseh b'veit habad* — go get your olives and press them. Come whenever you like. The implication is obvious: the poor brother has no slaves to bring to the bathhouse and no olives to press. The rich brother's offer is formally equal but practically inaccessible to the poor brother.
 
 ### Rich Brother's Rights
 
@@ -252,13 +255,14 @@ The *gud* — the poor brother saying "buy me out" — is in principle available
 
 ## Tannaim Debate
 
+
+
 ### Accept Less to Exit?
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: כׇּל שֶׁאִילּוּ יֵחָלֵק וּשְׁמוֹ עָלָיו – חוֹלְקִין, אִם לָאו – מַעֲלִין אוֹתוֹ בְּדָמִים! תַּנָּאֵי הִיא – דְּתַנְיָא: ״טוֹל אַתָּה שִׁיעוּר, וַאֲנִי פָּחוֹת״ – שׁוֹמְעִין לוֹ. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין שׁוֹמְעִין לוֹ.
->
-> **Translation:** The Gemara further proposes: **Come** and **hear** a proof from what is taught in a *baraita*: **Anything which,** even after it **is divided,** each of the parts **retains the name** of the original item, **may be divided.** And **if** the parts will **not** retain the original name, the item should not be divided, but rather **its monetary** value **is assessed,** because one of the joint owners can say to the other: Either you set a price and buy it from me, or I will set a price and buy it from you. The Gemara explains: Actually, this matter **is** a dispute between ***tanna'im*, as it is taught** in a *baraita*: If a courtyard or the like was not large enough to warrant division into two, and one of the co-owners said to the other: **You take** a minimum **measure** of the courtyard, e.g., four cubits, **and I** will take **less,** the court **listens to him. Rabban Shimon ben Gamliel says: They do not listen to him.**
-
 The Gemara now cites a *tanna'ic* dispute that bears directly on the question of how a partner may exit a partnership over a non-divisible item.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: כׇּל שֶׁאִילּוּ יֵחָלֵק וּשְׁמוֹ עָלָיו – חוֹלְקִין, אִם לָאו – מַעֲלִין אוֹתוֹ בְּדָמִים! תַּנָּאֵי הִיא – דְּתַנְיָא: ״טוֹל אַתָּה שִׁיעוּר, וַאֲנִי פָּחוֹת״ – שׁוֹמְעִין לוֹ. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין שׁוֹמְעִין לוֹ.
+> **Translation:** The Gemara further proposes: **Come** and **hear** a proof from what is taught in a *baraita*: **Anything which,** even after it **is divided,** each of the parts **retains the name** of the original item, **may be divided.** And **if** the parts will **not** retain the original name, the item should not be divided, but rather **its monetary** value **is assessed,** because one of the joint owners can say to the other: Either you set a price and buy it from me, or I will set a price and buy it from you. The Gemara explains: Actually, this matter **is** a dispute between ***tanna’im*, as it is taught** in a *baraita*: If a courtyard or the like was not large enough to warrant division into two, and one of the co-owners said to the other: **You take** a minimum **measure** of the courtyard, e.g., four cubits, **and I** will take **less,** the court **listens to him. Rabban Shimon ben Gamliel says: They do not listen to him.**
 
 ### Tanna Kamma's View
 
@@ -270,37 +274,41 @@ Suppose a property is too small to be divided into two fully usable shares — s
 
 ### Missing Text Theory
 
-> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא כִּדְתָנֵי – מַאי טַעְמָא דְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל? אֶלָּא לָאו חַסּוֹרֵי מְחַסְּרָא, וְהָכִי קָאָמַר: ״טוֹל אַתָּה שִׁיעוּר וַאֲנִי פָּחוֹת״ – שׁוֹמְעִין לוֹ. וְ״גוּד אוֹ אֶגּוּד״ – נָמֵי שׁוֹמְעִין לוֹ. וַאֲתָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל לְמֵימַר: אֵין שׁוֹמְעִין לוֹ?
->
-> **Translation:** The Gemara clarifies the *baraita*: **What are the circumstances** of the case under discussion? **If we say it is** exactly **as it is taught, what is Rabban Shimon ben Gamliel's reasoning?** Why does he rule that the court ignores the party who is prepared to settle for less? **Rather, is it not that** the *baraita* **is incomplete and this** is what it **is saying:** If one of the co-owners said to the other: **You take** a minimum **measure** of the courtyard, **and I** will take **less,** all agree that the court **listens to him.** And the *tanna* of the *baraita* adds: **And** if one says: Either **you set** a price and buy it from me, **or I will set** a price and buy it from you, **they also listen to him. And Rabban Shimon ben Gamliel comes to say:** In the first case the court listens to him, but **they do not listen to him** when he says: Either you set a price or I will set a price. Accordingly, this issue is the subject of a tannaitic dispute.
+
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא כִּדְתָנֵי – מַאי טַעְמָא דְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל? אֶלָּא לָאו חַסּוֹרֵי מְחַסְּרָא, וְהָכִי קָאָמַר: ״טוֹל אַתָּה שִׁיעוּר וַאֲנִי פָּחוֹת״ – שׁוֹמְעִין לוֹ. וְ״גוּד אוֹ אֶגּוּד״ – נָמֵי שׁוֹמְעִין לוֹ. וַאֲתָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל לְמֵימַר: אֵין שׁוֹמְעִין לוֹ?
+> **Translation:** The Gemara clarifies the *baraita*: **What are the circumstances** of the case under discussion? **If we say it is** exactly **as it is taught, what is Rabban Shimon ben Gamliel’s reasoning?** Why does he rule that the court ignores the party who is prepared to settle for less? **Rather, is it not that** the *baraita* **is incomplete and this** is what it **is saying:** If one of the co-owners said to the other: **You take** a minimum **measure** of the courtyard, **and I** will take **less,** all agree that the court **listens to him.** And the *tanna* of the *baraita* adds: **And** if one says: Either **you set** a price and buy it from me, **or I will set** a price and buy it from you, **they also listen to him. And Rabban Shimon ben Gamliel comes to say:** In the first case the court does listen to him, but **they do not listen to him** when he says: Either you set a price or I will set a price. Accordingly, this issue is the subject of a tannaitic dispute.
 
 The Gemara asks: *heichi dami* — what exactly is the case, and what is the basis for Rabban Shimon ben Gamliel's objection? If the property is six *amot* and one brother freely offers to take two while giving the other four, why would Rabban Shimon ben Gamliel object? The Gemara first attempts to resolve this by positing *chasuri mechasra* — that the *braisa* is missing text. On this reading, the *braisa* should be understood as first stating the *tanna kamma's* two positions: both (a) accepting less land is valid, and (b) *gud o agud* is also valid. Rabban Shimon ben Gamliel then comes to reject specifically *gud o agud*, while the *tanna kamma* permits it. This would make the dispute a debate about *gud o agud* itself, and the *braisa* would constitute a *tanna'ic* proof that the principle is disputed.
 
 ### Complete Text Theory
 
-> **Hebrew/Aramaic:** לָא, לְעוֹלָם כִּדְקָתָנֵי; וּדְקָאָמְרַתְּ: מַאי טַעְמָא דְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל? מִשּׁוּם דְּאָמַר לֵיהּ: אִי בִּדְמֵי – לֵית לִי דְּמֵי לְמִיתַּן לָךְ; בְּמַתָּנָה – לָא נִיחָא לִי, דִּכְתִיב: ״וְשׂוֹנֵא מַתָּנֹת יִחְיֶה״.
->
-> **Translation:** The Gemara rejects this interpretation of the *baraita*: **No,** the *baraita* should **actually** be understood exactly **as it is taught. And with regard to what you said: What is Rabban Shimon ben Gamliel's reasoning?** Why can't one of the parties say that they should divide the property and he will settle for less? It is **because** the second one **can say to him: If** you want me to compensate you with **money** for the difference between my share and your share, **I have no money to give you.** And if you wish to give it to me as **a gift, I am not at ease** with that, **as it is written: "But he who hates gifts shall live"** (Proverbs 15:27). The *baraita* indicates that there is a *halakha* of: Either you set a price or I will set a price, in accordance with the opinion of Rav Yehuda.
-
 The Gemara then rejects the *chasuri mechasra* approach and reads the *braisa* as complete. *Lo le'olam ki de'katani* — the text is exactly as it stands.
 
+> **Hebrew/Aramaic:** לָא, לְעוֹלָם כִּדְקָתָנֵי; וּדְקָאָמְרַתְּ: מַאי טַעְמָא דְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל? מִשּׁוּם דְּאָמַר לֵיהּ: אִי בִּדְמֵי – לֵית לִי דְּמֵי לְמִיתַּן לָךְ; בְּמַתָּנָה – לָא נִיחָא לִי, דִּכְתִיב: ״וְשׂוֹנֵא מַתָּנֹת יִחְיֶה״.
+> **Translation:** The Gemara rejects this interpretation of the *baraita*: **No,** the *baraita* should **actually** be understood exactly **as it is taught. And with regard to what you said: What is Rabban Shimon ben Gamliel’s reasoning?** Why can’t one of the parties say that they should divide the property and he will settle for less? It is **because** the second one **can say to him: If** you want me to compensate you with **money** for the difference between my share and your share, **I have no money to give you.** And if you wish to give it to me as **a gift, I am not at ease** with that, **as it is written: “But he who hates gifts shall live”** (Proverbs 15:27). The *baraita* indicates that there is a *halakha* of: Either you set a price or I will set a price, in accordance with the opinion of Rav Yehuda.
+
 ### Poor Person's Refusal
+
 
 On this reading, Rabban Shimon ben Gamliel's objection must be understood differently. The brother taking two is, in effect, giving the other brother one extra *amma* as a gift. The recipient can object: *ei bidmei leit li dmei limitan lach* — if you expect me to pay you the difference, I don't have the money. And if the one taking less responds "no, no payment, I give it to you as a gift" — the recipient can still refuse: *lo nicha li*, I do not want it. *Dechtiv sone matanot yichyeh* — as the verse says, one who hates gifts shall live. A person has the right to refuse a gift and decline the attendant sense of obligation. The result is that the *braisa* as written is internally coherent, and the dispute between *tanna kamma* and Rabban Shimon ben Gamliel is specifically about the validity of an unequal-land exit without payment — not about *gud o agud* at all. The Gemara has thus not derived a *tanna'ic* proof on that question from this *braisa*, though the earlier *braisa* — *malu oto bedamim* — does seem to support *gud o agud* as a concept, and the Gemara treats the dispute as one among *tanna'im*.
 
 ---
 
-## Kisvei Kodesh Scroll (II)
+## Kisvei Kodesh Scrolls
+
+
 
 ### Shmuel's Teaching
 
-> **Hebrew/Aramaic:** אָמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: הָא דְּרַב יְהוּדָה – דִּשְׁמוּאֵל הִיא, דִּתְנַן: וְכִתְבֵי הַקּוֹדֶשׁ, אַף עַל פִּי שֶׁשְּׁנֵיהֶם רוֹצִים – לֹא יַחְלוֹקוּ. וְאָמַר שְׁמוּאֵל: לֹא שָׁנוּ אֶלָּא בְּכֶרֶךְ אֶחָד, אֲבָל בִּשְׁנֵי כְּרִיכוֹת – חוֹלְקִין. וְאִי סָלְקָא דַעְתָּךְ לֵית דִּינָא דְּ״גוּד״ אוֹ ״אֶגּוּד״, מַאי אִירְיָא בְּכֶרֶךְ אֶחָד? אֲפִילּוּ בִּשְׁנֵי כְּרִיכִין נָמֵי!
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: הָא דְּרַב יְהוּדָה – דִּשְׁמוּאֵל הִיא, דִּתְנַן: וְכִתְבֵי הַקּוֹדֶשׁ, אַף עַל פִּי שֶׁשְּׁנֵיהֶם רוֹצִים – לֹא יַחְלוֹקוּ. וְאָמַר שְׁמוּאֵל: לֹא שָׁנוּ אֶלָּא בְּכֶרֶךְ אֶחָד, אֲבָל בִּשְׁנֵי כְּרִיכוֹת – חוֹלְקִין. וְאִי סָלְקָא דַעְתָּךְ לֵית דִּינָא דְּ״גוּד״ אוֹ ״אֶגּוּד״, מַאי אִירְיָא בְּכֶרֶךְ אֶחָד? אֲפִילּוּ בִּשְׁנֵי כְּרִיכִין נָמֵי!
 > **Translation:** As a continuation of this discussion, **Abaye said to Rav Yosef: That** statement **of Rav Yehuda is** actually the opinion **of Shmuel,** his teacher, **as we learned** in the mishna (11a): **But** in the case of **sacred writings,** i.e., a scroll of any of the twenty-four books of the Bible, that were inherited by two people, **they may not divide** them, **even if both of them wish** to do so, because it would be a show of disrespect to cut the scroll in half. **And Shmuel said: They taught** that sacred writings should not be divided **only** if they are contained **in one scroll; but** when they are contained **in two scrolls, they may be divided. And if it should enter your mind** to say **that there is no *halakha* of:** Either **you set** a price **or I will set** a price, **why** does the *halakha* apply **specifically to one scroll? Even** if the sacred writings were contained **in two scrolls,** they should **also** not divide them, since the respective parts will not be even and one of the recipients will have to compensate the other.
 
 *Abaye* connects the *gud o agud* discussion to a teaching of *Shmuel* via the voice of *Rav Yehuda*. Our *mishna* states: *kisvei hakodesh af al pi she-shneihem rotzim lo yachloku* — when it comes to Torah scrolls, even if both parties agree to divide, they may not divide a single scroll, because cutting it would be disrespectful to the sacred text. *Shmuel* explains: *lo shanu ela be-kerach echad aval bi-shnei kerachim cholkin* — this prohibition applies only to a single scroll; if there are two separate scrolls, they may divide them.
 
 ### Abaye's Proof
+
+> **Hebrew/Aramaic:** תַּרְגְּמָא רַב שַׁלְמָן – בְּשֶׁשְּׁנֵיהֶן רוֹצִין.
+> **Translation:** **Rav Shalman interpreted** the mishna: It is referring to a case **where they both want** to divide the sacred writings; therefore, Shmuel said that they may do so when they are contained in two scrolls. But if just one of them wishes to divide them, there is no proof that he can compel the other one to accept the division.
 
 Abaye uses this to demonstrate that *gud o agud* must be a valid principle. The case of two scrolls is not assumed to be two identical scrolls — say, two copies of *Megillas Esther* — where a clean equal split is obvious. The interesting case is where one scroll is *Megillas Esther* and the other is *Megillas Rus*, one more valuable than the other given its greater length. For Shmuel's ruling to be meaningful, the division of two unequal scrolls must be achievable — meaning one party takes the more valuable scroll and pays the other the difference, or vice versa. That is precisely the structure of *gud o agud*: you take the Esther and pay me, or I take the Esther and pay you. If *gud o agud* did not exist, one partner could simply refuse any unequal split and block division altogether, making Shmuel's ruling empty in all but the most trivial cases.
 
@@ -310,11 +318,9 @@ The Gemara responds, however, that Shmuel's ruling is limited to cases where *bo
 
 ## Ameymar vs. Rav Ashi
 
-### Ameymar's Ruling
 
-> **Hebrew/Aramaic:** אָמַר אַמֵּימָר, הִלְכְתָא: אִית דִּינָא דְּ״גוּד״ אוֹ ״אֶגּוּד״. אֲמַר לֵיהּ רַב אָשֵׁי לְאַמֵּימָר: הָא דְּרַב נַחְמָן, מַאי? אֲמַר לֵיהּ: לָא שְׁמִיעָא לִי; כְּלוֹמַר, לָא סְבִירָא לִי.
->
-> **Translation:** **Ameimar said: The *halakha*** is in accordance with the opinion of Rav Yehuda that **there is a *halakha* of:** Either **you set** a price **or I will set** a price. **Rav Ashi said to Ameimar: What** about **that** statement **of Rav Naḥman,** who disagrees with Rav Yehuda and says that there is no such *halakha*? Ameimar **said to him: I do not know** of it, **that is to say, I do not maintain** this opinion.
+
+### Ameymar's Ruling
 
 The Gemara reports that *Ameymar* issued a definitive ruling: *hilchata is dina d'gud o agud* — the *halacha* is that we do accept the principle of *gud o agud*.
 
@@ -330,11 +336,15 @@ The Gemara reports that *Ameymar* issued a definitive ruling: *hilchata is dina 
 
 ## Two Maidservants Case
 
-### The Setup
 
-> **Hebrew/Aramaic:** וְלָא?! וְהָא רָבִין בַּר חִינָּנָא וְרַב דִּימִי בַּר חִינָּנָא שְׁבַק לְהוּ אֲבוּהּ תַּרְתֵּי אַמְהָתָא, חֲדָא יָדְעָא אָפְיָא וּבַשּׁוֹלֵי, וַחֲדָא יָדְעָא פִּילְכָּא וְנַוְולָא; וַאֲתוֹ לְקַמֵּיהּ דְּרָבָא, וַאֲמַר לְהוּ: לֵית דִּינָא דְּ״גוּד״ אוֹ ״אֶגּוּד״!
->
-> **Translation:** The Gemara asks: **And** is the *halakha* **not** in accordance with the opinion of Rav Naḥman? **But** it happened that **the father of Ravin bar Ḥinnana and Rav Dimi bar Ḥinnana** died and **left them two maidservants, one** of whom **knew how to bake and to cook, and the other** of whom **knew how to spin and to weave.** One of the brothers suggested that each of them take one of the maidservants entirely for himself and forfeit his rights to the other maidservant. **They came before Rava and he said to them: There is no *halakha* of:** Either **you set** a price **or I will set** a price.
+
+### The Setup (II)
+
+> **Hebrew/Aramaic:** אָמַר אַמֵּימָר, הִלְכְתָא: אִית דִּינָא דְּ״גוּד״ אוֹ ״אֶגּוּד״. אֲמַר לֵיהּ רַב אָשֵׁי לְאַמֵּימָר: הָא דְּרַב נַחְמָן, מַאי? אֲמַר לֵיהּ: לָא שְׁמִיעָא לִי; כְּלוֹמַר, לָא סְבִירָא לִי. וְלָא?! וְהָא רָבִין בַּר חִינָּנָא וְרַב דִּימִי בַּר חִינָּנָא שְׁבַק לְהוּ אֲבוּהּ תַּרְתֵּי אַמְהָתָא, חֲדָא יָדְעָא אָפְיָא וּבַשּׁוֹלֵי, וַחֲדָא יָדְעָא פִּילְכָּא וְנַוְולָא; וַאֲתוֹ לְקַמֵּיהּ דְּרָבָא, וַאֲמַר לְהוּ: לֵית דִּינָא דְּ״גוּד״ אוֹ ״אֶגּוּד״!
+> **Translation:** **Ameimar said: The *halakha*** is in accordance with the opinion of Rav Yehuda that **there is a *halakha* of:** Either **you set** a price **or I will set** a price. **Rav Ashi said to Ameimar: What** about **that** statement **of Rav Naḥman,** who disagrees with Rav Yehuda and says that there is no such *halakha*? Ameimar **said to him: I do not know** of it, **that is to say, I do not maintain** this opinion. The Gemara asks: **And** is the *halakha* **not** in accordance with the opinion of Rav Naḥman? **But** it happened that **the father of Ravin bar Ḥinnana and Rav Dimi bar Ḥinnana** died and **left them two maidservants, one** of whom **knew how to bake and to cook, and the other** of whom **knew how to spin and to weave.** One of the brothers suggested that each of them take one of the maidservants entirely for himself and forfeit his rights to the other maidservant. **They came before Rava and he said to them: There is no *halakha* of:** Either **you set** a price **or I will set** a price.
+
+> **Hebrew/Aramaic:** שָׁאנֵי הָתָם – דִּלְמַר מִיבְּעֵי לֵיהּ תַּרְוַיְיהוּ, וּלְמָר מִיבְּעֵי לֵיהּ תַּרְוַיְיהוּ; כִּי קָאָמַר לֵיהּ: שְׁקוֹל אַתְּ חֲדָא וַאֲנָא חֲדָא – לָאו ״גּוּד״ אוֹ ״אֶגּוּד״ הוּא. וְכִי לָא מָצֵי לְמֵימַר הָכִי?! וְהָא כִּתְבֵי הַקֹּדֶשׁ, דְּתַרְוַיְיהוּ מִיבְּעֵי לְהוּ, וְאָמַר שְׁמוּאֵל: לֹא שָׁנוּ אֶלָּא בְּכֶרֶךְ אֶחָד, אֲבָל בִּשְׁנֵי כְּרִיכִין – חוֹלְקִין! הָא תַּרְגְּמָא רַב שַׁלְמָן בְּשֶׁרָצוּ.
+> **Translation:** The Gemara answers: It is **different there, since this master wanted both of them and the other master wanted both of them.** Therefore, **when** one of the brothers **said to** the other: **You take one and I** will take the other **one, it is not** a case of: Either **you set** a price **or I will set** a price. The Gemara asks: **And can we not say so? But** there is the case of **sacred writings, which both of them** presumably **want, and Shmuel said: They taught** that sacred writings should not be divided **only** if they are contained **in one scroll; but** when they are contained **in two scrolls, they may be divided.** The Gemara answers: **Rav Shalman interpreted** the mishna: It is referring to a case **where they** both **want** to divide the sacred writings, and in such a case they may divide them, provided that they are in two scrolls.
 
 The Gemara then raises what appears to be a counterexample. *Rabba bar Chinana* and *Rav Dimi bar Chinana* — brothers sharing the same father's name — were left two maidservants by their father. One maidservant knew how to cook, bake, and prepare food; the other knew how to spin and weave. They came before *Rava* to resolve the dispute over how to divide them.
 
@@ -343,10 +353,6 @@ The Gemara then raises what appears to be a counterexample. *Rabba bar Chinana* 
 Rava ruled: *leit dina d'gud o agud* — there is no *halacha* of *gud o agud* here. One brother cannot tell the other: I'll take the cook and pay you the difference, or you take the cook and pay me.
 
 ### Why Difference Matters
-
-> **Hebrew/Aramaic:** שָׁאנֵי הָתָם – דִּלְמַר מִיבְּעֵי לֵיהּ תַּרְוַיְיהוּ, וּלְמָר מִיבְּעֵי לֵיהּ תַּרְוַיְיהוּ; כִּי קָאָמַר לֵיהּ: שְׁקוֹל אַתְּ חֲדָא וַאֲנָא חֲדָא – לָאו ״גּוּד״ אוֹ ״אֶגּוּד״ הוּא.
->
-> **Translation:** The Gemara answers: It is **different there, since this master wanted both of them and the other master wanted both of them.** Therefore, **when** one of the brothers **said to** the other: **You take one and I** will take the other **one, it is not** a case of: Either **you set** a price **or I will set** a price. The Gemara asks: **And can we not say so? But** there is the case of **sacred writings, which both of them** presumably **want, and Shmuel said: They taught** that sacred writings should not be divided **only** if they are contained **in one scroll; but** when they are contained **in two scrolls, they may be divided.** The Gemara answers: **Rav Shalman interpreted** the mishna: It is referring to a case **where they** both **want** to divide the sacred writings, and in such a case they may divide them, provided that they are in two scrolls.
 
 This seems to contradict Ameymar's ruling. The Gemara resolves the tension: *shani hasam, de-mar mibayei leh travaihu u-mar mibayei leh travaihu* — the case is different there, because each brother can claim he wants both servants. The cooking-baking servant and the spinning-weaving servant represent complementary skills, and a household genuinely benefits from having both. Each brother can credibly argue that his own share consists not of one servant but of a half-interest in both.
 
@@ -358,9 +364,11 @@ This reveals an important structural limit on *gud o agud*. The principle functi
 
 ## Kisvei Kodesh Scroll (II)
 
+
+
 ### The Scroll Question
 
-The Gemara now asks whether *gud o agud* could in principle allow one person to take both scrolls — demanding that the other party either take both and pay him, or accept payment and give up both.
+Returning to the scroll case, the Gemara asks whether *gud o agud* could in principle allow one person to take both scrolls — demanding that the other party either take both and pay him, or accept payment and give up both.
 
 ### Clarification
 
@@ -370,13 +378,14 @@ The Gemara answers that Shmuel's ruling — *bi-shnei kerachim cholkin* — mean
 
 ## Tanakh Attachment
 
+
+
 ### Rabbi Meir's View
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַדְבִּיק אָדָם תּוֹרָה נְבִיאִים וּכְתוּבִים כְּאֶחָד, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: תּוֹרָה בִּפְנֵי עַצְמָהּ, נְבִיאִים בִּפְנֵי עַצְמָן, וּכְתוּבִים בִּפְנֵי עַצְמָן. וַחֲכָמִים אוֹמְרִים: כׇּל אֶחָד וְאֶחָד בִּפְנֵי עַצְמוֹ.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַדְבִּיק אָדָם תּוֹרָה נְבִיאִים וּכְתוּבִים כְּאֶחָד, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: תּוֹרָה בִּפְנֵי עַצְמָהּ, נְבִיאִים בִּפְנֵי עַצְמָן, וּכְתוּבִים בִּפְנֵי עַצְמָן. וַחֲכָמִים אוֹמְרִים: כׇּל אֶחָד וְאֶחָד בִּפְנֵי עַצְמוֹ.
 > **Translation:** § The Gemara now begins a general discussion about sacred writings. **The Sages taught: A person may attach the Torah, the Prophets, and the Writings together as one** scroll; this is **the statement of Rabbi Meir. Rabbi Yehuda says: The Torah** should be a scroll **by itself,** the books of the **Prophets** a scroll **by themselves, and** the books of the **Writings** a scroll **by themselves. And the Sages say: Each one** of the books of the Prophets and the Writings should be a scroll **by itself.**
 
-The Gemara now presents a *baraita* on the separate question of whether one may physically attach all of תנ"ך in one combined scroll. *Rabbi Meir* — himself a *sofer* by trade — permits it: *madbik adam Torah Nevi'im u-Kesuvim ke-echad* — one may affix Torah, Prophets, and Writings together in a single scroll.
+The Gemara now presents a *braisa* on the separate question of whether one may physically attach all of תנ"ך in one combined scroll. *Rabbi Meir* — himself a *sofer* by trade — permits it: *madbik adam Torah Nevi'im u-Kesuvim ke-echad* — one may affix Torah, Prophets, and Writings together in a single scroll.
 
 ### Rabbi Yehuda's View
 
@@ -384,41 +393,51 @@ The Gemara now presents a *baraita* on the separate question of whether one may 
 
 ### Tosafot's Logic
 
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי יְהוּדָה: מַעֲשֶׂה בְּבַיְתוֹס בֶּן זוֹנִין, שֶׁהָיוּ לוֹ שְׁמֹנָה נְבִיאִים מְדוּבָּקִין כְּאֶחָד, עַל פִּי רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה. וְיֵשׁ אוֹמְרִים: לֹא הָיוּ לוֹ אֶלָּא אֶחָד אֶחָד בִּפְנֵי עַצְמוֹ. אָמַר רַבִּי: מַעֲשֶׂה וְהֵבִיאוּ לְפָנֵינוּ תּוֹרָה נְבִיאִים וּכְתוּבִים מְדוּבָּקִים כְּאֶחָד, וְהִכְשַׁרְנוּם.
+> **Translation:** **And Rabbi Yehuda said:** There was **an incident involving Baitos ben Zunin, who had eight** books **of the Prophets attached together as one** scroll, and he did this **with the approval of Rabbi Elazar ben Azarya. And others say that each and every one** of the books was a scroll **by itself,** in accordance with the opinion of the Sages. **Rabbi** Yehuda HaNasi **said:** There was **an incident where they brought before us the Torah, the Prophets, and the Writings attached together as one** scroll **and we** ruled in accordance with the opinion of Rabbi Meir and **deemed them fit.**
+
 Tosafot notes that one might have thought Rabbi Yehuda's concern was related to the prohibition of placing a scroll of *Nevi'im* on top of a *Sefer Torah* — a mark of disrespect, since the more sacred text should not be beneath the less sacred. Tosafot rejects this as the reasoning here, noting that the prohibition against placement applies only when the scrolls are distinct; when the parchment is physically joined, the issue is different. Instead, Tosafot identifies the operative concern as one of confusion of textual identity: *she-lo yeira hakol k'Torah o hakol k'Nevi'im* — one must not allow the entire combined scroll to be mistaken for a single category of text. If someone sees the scroll opened to *Yechezkel* but knows it also contains *Bereishit*, they might conclude that the Torah passages are merely prophetic literature — downgrading the authority of Torah. Or conversely, seeing *Bereishit* in it, a reader might assume the entirety is Torah and therefore treat later passages from Nevi'im or Kesuvim as if they carried Sinaitic authority. The integrity of each text's distinct status is the concern.
+
+This same principle is then illustrated through a narrative dispute. *Ve-amar Rav Yehuda ma'aseh be-Baytos ben Zunin* — and Rav Yehuda related a case involving Baytos ben Zunin, *she-hayu lo shemoneh nevi'im medubakim ke-echad* — who had all eight books of Nevi'im bound together in a single scroll, and this arrangement was permitted *al pi Rabbi Elazar ben Azarya*. Those eight books are Yehoshua, Shoftim, Shmuel, Melachim, Yeshaya, Yirmiya, Yechezkel, and Trei Asar. However, *ve-yesh omrim*, others contested the facts of the story, maintaining that in truth the eight scrolls were kept separate from one another, each *bifnei atzmo*. The Gemara then records that *Rebbe* himself stated: *ma'aseh ve-heviu lefanenu Torah Nevi'im u-Kesuvim medubakim ke-echad ve-hichsharnu* — a case was once brought before us in which all of Tanakh appeared in a single combined scroll, and we declared it acceptable. What exactly *hichsharnu* means here is somewhat unclear — whether Rebbe was affirming it as valid for use as a *Sefer Torah* read publicly, or merely declining to invalidate it outright — and the Gemara leaves this with some ambiguity.
 
 ### Section Spacing
 
-> **Hebrew/Aramaic:** בֵּין חוּמָּשׁ לְחוּמָּשׁ שֶׁל תּוֹרָה – אַרְבָּעָה שִׁיטִין; וְכֵן בֵּין כׇּל נָבִיא לְנָבִיא. וּבְנָבִיא שֶׁל שְׁנֵים עָשָׂר – שָׁלֹשׁ שִׁיטִין. וּמְסַיֵּים מִלְּמַטָּה, וּמַתְחִיל מִלְּמַעְלָה.
->
+> **Hebrew/Aramaic:** בֵּין חוּמָּשׁ לְחוּמָּשׁ שֶׁל תּוֹרָה – אַרְבָּעָה שִׁיטִין; וְכֵן בֵּין כׇּל נָבִיא לְנָבִיא. וּבְנָבִיא שֶׁל שְׁנֵים עָשָׂר – שָׁלֹשׁ שִׁיטִין. וּמְסַיֵּים מִלְּמַטָּה, וּמַתְחִיל מִלְּמַעְלָה.
 > **Translation:** The Gemara states: When different books are included in the same scroll, **four** empty **lines** of space should be left **between each book of the Torah, and similarly between one** book of **the Prophets and another. But** between each of the books of **the Twelve Prophets** only **three** empty **lines** should be left, because they are considered one book. **And** the scribe may **finish** a book **at the bottom** of one column **and begin** the next book **at the top** of the next column without leaving any empty space in between.
 
-The Gemara then specifies the technical spacing requirements when sections are combined. *Bein chomash le-chomash shel Torah* — between one book of the Torah and the next — there must be four blank lines, *arba'ah shitin*. This is indeed the practice in our *Sifrei Torah* today. *Ve-chein bein kol navi le-navi* — similarly, between one prophet and the next, if they appear in a combined scroll. *U-ve-navi shel shenaim asar, gimel shitin* — within *Trei Asar*, where a new prophet begins within the same book, only three blank lines are required, since it is a different author but the same *sefer*.
+
+The Gemara then specifies the technical spacing requirements when sections are combined. *Bein chomesh le-chomesh shel Torah* — between one book of the Torah and the next — there must be four blank lines, *arba'ah shitin*. This is indeed the practice in our *Sifrei Torah* today. *Ve-chein bein kol navi le-navi* — similarly, between one prophet and the next, if they appear in a combined scroll. *U-ve-navi shel shenaim asar, gimel shitin* — within *Trei Asar*, where a new prophet begins within the same book, only three blank lines are required, since it is a different author but the same *sefer*.
+
+The Gemara also states *u-mesayem milamata u-mas-chil milamala* — one ends at the bottom of a column and begins the new book at the top of the next column. Tosafot reads this as a practical instruction: when multiple *Nevi'im* appear in a single combined scroll, each new *navi* should begin at the top of a fresh column, so that if one later wishes to cut the scroll and separate the books, the division point is clean. Rashi, by contrast, understands the rule differently — as indicating that if, say, *Shemot* begins at the top of a column and *Bereishit* ended at the bottom of the previous one, the four-line break between them is not required in that case. Notably, that is not the practice we actually follow; our *Sifrei Torah* maintain the four blank lines regardless. Tosafot explicitly pushes back on this reading, maintaining that in a *Sefer Torah* at least, the four-line break is always required, independent of whether the new book begins at the top of a column.
 
 ---
 
 ## Practical Requirements
 
+
+
 ### Top Blank Space
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הָרוֹצֶה לְדַבֵּק תּוֹרָה נְבִיאִים וּכְתוּבִים כְּאֶחָד – מְדַבֵּק; וְעוֹשֶׂה בְּרֹאשׁוֹ כְּדֵי לָגוֹל עַמּוּד, וּבְסוֹפוֹ כְּדֵי לָגוֹל הֶיקֵּף; וּמְסַיֵּים מִלְּמַטָּה וּמַתְחִיל מִלְּמַעְלָה;
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הָרוֹצֶה לְדַבֵּק תּוֹרָה נְבִיאִים וּכְתוּבִים כְּאֶחָד – מְדַבֵּק; וְעוֹשֶׂה בְּרֹאשׁוֹ כְּדֵי לָגוֹל עַמּוּד, וּבְסוֹפוֹ כְּדֵי לָגוֹל הֶיקֵּף; וּמְסַיֵּים מִלְּמַטָּה וּמַתְחִיל מִלְּמַעְלָה;
 > **Translation:** **The Sages taught** in a *baraita*: **One who wishes to attach the Torah, the Prophets, and the Writings together as one** scroll **may attach** them. **He should leave enough** empty parchment **at the beginning** of the scroll **for winding around the pole** to which the beginning of the scroll is fastened. **And at the end** of the scroll he should leave enough empty parchment **for winding around the** entire **circumference** of the rolled-up scroll. **And he may finish** a book **at the bottom** of one column **and begin** the next book **at the top** of the next column without leaving any empty space between them.
 
-The Gemara cites a *baraita* that lays out the physical requirements for constructing a combined scroll of all of תנ"ך. At the top — before *Bereishit* — there must be enough blank *klaf* that the opening can be fully rolled onto the upper pole, the *Etz Chaim*, so that *Bereishit* itself is visible when the scroll is unrolled. This is called *kedei lagol amud* — sufficient to roll over the pole.
+> **Hebrew/Aramaic:** וְאִם בָּא לַחְתּוֹךְ – חוֹתֵךְ. מַאי קָאָמַר? הָכִי קָאָמַר: שֶׁאִם בָּא לַחְתּוֹךְ – חוֹתֵךְ.
+> **Translation:** **And if he wishes to cut** the scroll, **he may cut** it. The Gemara is surprised at this: **What is** the *tanna* **saying?** Why is mention made here of cutting the scroll? The Gemara answers: **This is what** the *tanna* **is saying:** He arranges the text so that if he finishes a book at the bottom of one column, he begins the next book at the top of the next column without leaving any empty space, **so that if he wishes to cut** the scroll, **he may cut** it. If he does not begin the next book at the top of the next column, he will not be able to cut the scroll, because it is not fitting for a scroll to begin with an empty space.
+
+The Gemara cites a *braisa* that lays out the physical requirements for constructing a combined scroll of all of תנ"ך. At the top — before *Bereishit* — there must be enough blank *klaf* that the opening can be fully rolled onto the upper pole, the *Etz Chaim*, so that *Bereishit* itself is visible when the scroll is unrolled. This is called *kedei lagol amud* — sufficient to roll over the pole.
 
 ### Bottom Blank Space
+
+> **Hebrew/Aramaic:** וּרְמִינְהִי: תְּחִלַּת סֵפֶר וְסוֹפוֹ – כְּדֵי לָגוֹל. כְּדֵי לָגוֹל מַאי? אִי כְּדֵי לָגוֹל עַמּוּד – קַשְׁיָא הֶקֵּף; אִי כְּדֵי לָגוֹל הֶקֵּף – קַשְׁיָא עַמּוּד!
+> **Translation:** The Gemara **raises a contradiction** between this *baraita* and another *baraita* that teaches: **Enough** parchment should be left at **the beginning of the scroll and at its end for winding.** The Gemara clarifies: **For winding** around **what? If** it means **for winding around the pole** to which the beginning of the scroll is fastened, this is **difficult** in light of what is taught in the first *baraita*, that at the end of the scroll enough parchment should be left for winding around the entire **circumference** of the scroll. And **if** it means **for winding around** the entire **circumference,** this is **difficult** in light of what is taught in the first *baraita* that at the beginning of the scroll enough parchment should be left for winding around the **pole.**
 
 At the bottom — after the final book — there must be enough blank *klaf* to wrap around the entire circumference of the scroll when it is fully rolled. The Gemara assumes here that the combined scroll is mounted on a single pole rather than two; a *Sefer Torah* is normally wound on two poles, but the combined Tanakh scroll in this discussion uses one. The requirement is *kedei lagol hekeif* — sufficient to cover the full circumference — so that the outermost surface of the rolled scroll consists of blank *klaf* rather than written text, protecting the contents and maintaining proper respect.
 
 ### Braita Procedures
 
-These two requirements — the leading blank space and the trailing blank space — frame the *braisa's* account of how such a scroll is to be constructed.
+These two requirements — the leading blank space and the trailing blank space — frame the *braisa's* account of how such a scroll is to be constructed. The *braisa* opens with the case of *ha-rotzeh ledabek Torah Nevi'im u-Kesuvim ke-echad* — one who wishes to join Torah, Nevi'im, and Kesuvim together into a single scroll. Such a combined *Tanakh* scroll is permissible, but it carries specific structural obligations at both ends. At the head of the scroll — before the very beginning of *Bereishit* — there must be sufficient blank *klaf* to wind onto the pole, the *Etz Chaim*, so that when the scroll is opened, the reader reaches *Bereishit* cleanly, with the blank portion already taken up by the roller. This is *kedei lagol amud* — enough to wrap around the pole — and it ensures that the text begins in a dignified and accessible position rather than being pressed flush against the mounting.
 
 ### Column Separation
-
-> **Hebrew/Aramaic:** וְאִם בָּא לַחְתּוֹךְ – חוֹתֵךְ.
->
-> **Translation:** **And if he wishes to cut** the scroll, **he may cut** it.
 
 *U-mesayem milamata u-mas-chil milamala* — one must conclude each book at the bottom of a column and begin the next book at the top of the following column. This requirement of column-level separation between books within the combined scroll is the focus of some discussion. Tosafot understands this requirement as ensuring a clean visual and physical boundary between each book, such that the transition from one to the next is clearly delineated. Rashi suggests an alternative reading — that when a new book begins at the top of a column and the previous one ended at the bottom, the four-line spacing between them is not required. This would imply that the column break itself substitutes for the blank-line separation. However, this does not reflect current practice, where four blank lines are maintained in a *Sefer Torah* regardless of column position, and Tosafot disagrees with Rashi's reading on this point.
 

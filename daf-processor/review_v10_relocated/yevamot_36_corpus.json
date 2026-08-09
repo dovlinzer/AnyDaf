@@ -1,0 +1,381 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rabbi Yochanan's View",
+    "candidates": [
+      "Rabbi Yochanan's View",
+      "Reish Lakish Challenges",
+      "Alt. Version of Dispute",
+      "Yibum Case",
+      "Reish Lakish's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Rabbi Yochanan's View' explicitly quotes and discusses both clauses of this mishnah \u2014 the viable-child case (item 1) and the non-viable-child case (item 2) \u2014 as the basis for Rabbi Yochanan's challenge to Reish Lakish, making this the clear home for both items.",
+      "chosen_heading": "Rabbi Yochanan's View",
+      "current_heading": "Rabbi Yochanan's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Reish Lakish's Response",
+    "candidates": [
+      "Reish Lakish Challenges",
+      "Alt. Version of Dispute",
+      "Yibum Case",
+      "Reish Lakish's Response",
+      "Abaye's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage begins with the Mishna and the core dispute between Rabbi Yochanan and Reish Lakish, which is where heading 0 starts, and the entire passage is one continuous chain of dispute and counter-challenges on the same question that flows through all the candidate headings.",
+      "chosen_heading": "Reish Lakish Challenges",
+      "current_heading": "Reish Lakish's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Abaye's Solution",
+    "candidates": [
+      "Abaye's Solution",
+      "Focus on Chalitzah",
+      "Package Deal",
+      "Child's Birth Factor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Abaye's Solution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the baraita objection, Abaye's reframing, and the Rabbi Yochanan/Reish Lakish dispute about chalitzah vs. bi'ah \u2014 all discussed under heading 0 ('Abaye's Solution') and heading 1 ('Focus on Chalitzah'), but the prose of heading 0 covers all of items 1-4 most completely.",
+      "second_heading": "Package Deal",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 present Rava's 'mamma nafshach' objection with the package-deal principle (kol ha'oleh l'yibum oleh l'chalitzah), which is precisely what heading 2 ('Package Deal') describes in its prose.",
+      "current_heading": "Abaye's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Child's Birth Factor",
+    "candidates": [
+      "Focus on Chalitzah",
+      "Package Deal",
+      "Child's Birth Factor",
+      "Supporting Baraita",
+      "Proof for Reish Lakish"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Proof for Reish Lakish",
+    "candidates": [
+      "Supporting Baraita",
+      "Proof for Reish Lakish",
+      "Husband Dies Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of challenge-and-response regarding Reish Lakish's position \u2014 the challenge from the baraita's inference, Reish Lakish's reinterpretation (hachi katani), and his explanation of the rov argument \u2014 which exactly matches the 'Proof for Reish Lakish' prose description.",
+      "chosen_heading": "Proof for Reish Lakish",
+      "current_heading": "Proof for Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Husband Dies Away",
+    "candidates": [
+      "Husband Dies Away",
+      "Nine-Month Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar's search for mishna support for Reish Lakish's opinion and the specific mishna he found, which is exactly what the prose under 'Husband Dies Away' describes before moving on to analyze it.",
+      "chosen_heading": "Husband Dies Away",
+      "current_heading": "Husband Dies Away",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Nine-Month Question",
+    "candidates": [
+      "Nine-Month Question",
+      "Abaye's Reading",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Nine-Month Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the nine-month question, the challenge to Rabbi Elazar's proof, and the Abaye bar Abba/Rav \u1e24innana reasoning about public announcements \u2014 all the content described in the 'Nine-Month Question' prose.",
+      "second_heading": "Abaye's Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is Abaye's intervention pointing out the mishnah only prohibits remarrying/yibum, not \u1e25alitza itself \u2014 exactly what the 'Abaye's Reading' prose describes.",
+      "current_heading": "Nine-Month Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Abaye's Reading",
+      "Baraita Proof",
+      "Rava Paskins",
+      "Parallel Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that explicitly supports Reish Lakish's position about chalitzah with a pregnant woman who miscarries, which is exactly what the 'Baraita Proof' section's prose describes.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Baraita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Parallel Cases",
+    "candidates": [
+      "Rava Paskins",
+      "Parallel Cases",
+      "Rabbi Eliezer Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items together constitute Rava's ruling that the halakha follows Reish Lakish in three cases, and the 'Parallel Cases' prose explicitly describes all three disputes \u2014 the deathbed bequest, the bundled language requirement, and the kinyan peirot/kinyan ha-guf debate \u2014 which is precisely what items 1\u20137 cover.",
+      "chosen_heading": "Parallel Cases",
+      "current_heading": "Parallel Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rabbi Eliezer Strict",
+    "candidates": [
+      "Rabbi Eliezer Strict",
+      "Rava & R. Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita citing Rabbi Eliezer's ruling requiring a get, which is exactly what the 'Rabbi Eliezer Strict' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Eliezer Strict",
+      "current_heading": "Rabbi Eliezer Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rava & R. Meir",
+    "candidates": [
+      "Rava & R. Meir",
+      "Nursing Woman Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement equating Rabbi Meir and Rabbi Eliezer's opinions, which directly matches the 'Rava & R. Meir' section's prose about this exact equivalence.",
+      "chosen_heading": "Rava & R. Meir",
+      "current_heading": "Rava & R. Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Nursing Woman Case",
+    "candidates": [
+      "Nursing Woman Case",
+      "Abaye Distinguishes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about marrying a pregnant or nursing woman with Rabbi Meir's and the Rabbis' positions, which is exactly what the 'Nursing Woman Case' prose discusses in detail.",
+      "chosen_heading": "Nursing Woman Case",
+      "current_heading": "Nursing Woman Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Abaye Distinguishes",
+    "candidates": [
+      "Abaye Distinguishes",
+      "Get vs. Parshan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's two-directional argument distinguishing Rabbi Eliezer's case from Rabbi Meir's case, which is precisely what the 'Abaye Distinguishes' prose describes.",
+      "chosen_heading": "Abaye Distinguishes",
+      "current_heading": "Abaye Distinguishes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Get vs. Parshan",
+    "candidates": [
+      "Get vs. Parshan",
+      "Mar Zutra's Analysis",
+      "Kohen Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's statement about requiring a get and Mar Zutra's linguistic analysis of 'yotzi' vs 'yafrish', which matches the content of candidate 1 ('Mar Zutra's Analysis') more precisely than candidate 0, which focuses only on Rava's distinction and its kohen implications.",
+      "chosen_heading": "Mar Zutra's Analysis",
+      "current_heading": "Get vs. Parshan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Kohen Problem",
+    "candidates": [
+      "Mar Zutra's Analysis",
+      "Kohen Problem",
+      "Safek Chalitza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's citation of Rabban Shimon ben Gamliel's baraita about the thirty-day viability rule, which the prose of 'Kohen Problem' explicitly describes as a prelude to Rav Ashi's question, making it a clear match for that section.",
+      "chosen_heading": "Kohen Problem",
+      "current_heading": "Kohen Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Safek Chalitza",
+    "candidates": [
+      "Safek Chalitza",
+      "Demand Chalitza?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the scenario of the child dying within thirty days and Ravina's ruling distinguishing between an Israelite's wife and a kohen's wife, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Safek Chalitza",
+      "current_heading": "Safek Chalitza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Demand Chalitza?",
+    "candidates": [
+      "Demand Chalitza?",
+      "Unresolved Kohen Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the exact same exchange \u2014 Rav Mesharshiyya's ruling in Rava's name, Ravina's challenge about the retraction, and Rav Mesharshiyya's sarcastic response \u2014 which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Demand Chalitza?",
+      "current_heading": "Demand Chalitza?",
+      "moved": false
+    }
+  }
+]

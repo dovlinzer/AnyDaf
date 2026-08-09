@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Shtei Halechem",
+    "candidates": [
+      "Intro & Menachot",
+      "Shtei Halechem",
+      "Four Winds",
+      "Ward Off Bad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mishna about the two loaves and two lambs on Shavuot and the waving procedure, which is precisely what the 'Shtei Halechem' section's prose discusses.",
+      "chosen_heading": "Shtei Halechem",
+      "current_heading": "Shtei Halechem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Ward Off Bad",
+    "candidates": [
+      "Four Winds",
+      "Ward Off Bad",
+      "Shirei Mitzvah",
+      "Satan's Eyes",
+      "Model Source",
+      "Agricultural Parallel",
+      "Tosafot Application",
+      "Prayer for Rain",
+      "Divine vs. Petition",
+      "Three Symbolisms",
+      "Journey Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four Winds",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yochanan's teaching about waving toward the four directions/heavens and the Eretz Yisrael teaching about warding off bad winds and dews, which matches heading 0 ('Four Winds') and flows into heading 1 ('Ward Off Bad') \u2014 but the prose of heading 0 explicitly covers Rabbi Yochanan's statement and the directional symbolism, making it the better fit for item 1's opening content, while the current placement under 'Ward Off Bad' also partially covers it; however, item 1 ends with 'zot omeret' which is the opening of the shirei mitzvah teaching, so item 1 actually belongs under heading 1 ('Ward Off Bad') since that section's prose explicitly covers the Eretz Yisrael teaching and item 1 contains exactly that material including the lead-in to shirei mitzvah.",
+      "second_heading": "Shirei Mitzvah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers shirei mitzvah averting calamity, Rava's application to lulav, and Rav Acha bar Yaakov's 'arrow in Satan's eye' statement, which matches heading 2 ('Shirei Mitzvah') for the first part and heading 3 ('Satan's Eyes') for the latter part, but since they form one continuous passage, heading 2 is the better single home as it opens with the shirei mitzvah conclusion that item 2 begins with.",
+      "current_heading": "Ward Off Bad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Journey Scenario",
+    "candidates": [
+      "Shirei Mitzvah",
+      "Satan's Eyes",
+      "Model Source",
+      "Agricultural Parallel",
+      "Tosafot Application",
+      "Prayer for Rain",
+      "Divine vs. Petition",
+      "Three Symbolisms",
+      "Journey Scenario",
+      "Interrupt Meal",
+      "Internal Kashya",
+      "Rav Safra",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about the traveler who takes the lulav at his table and the Gemara analyzing whether one interrupts a meal \u2014 are precisely the content described in candidate 8's prose about 'mi sheba baderech' and taking the lulav outside the beit knesset context.",
+      "chosen_heading": "Journey Scenario",
+      "current_heading": "Journey Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Interrupt Meal",
+      "Internal Kashya",
+      "Rav Safra",
+      "Rava's View",
+      "Rebbe Zeira",
+      "Chol Hamoed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form Rava's complete statement: first dismissing the Mincha comparison via d'Oraisa/d'Rabbanan, then reformulating the real internal contradiction in the mishnah \u2014 exactly what candidate 3 ('Rava's View') describes in its prose.",
+      "chosen_heading": "Rava's View",
+      "current_heading": "Rava's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Chol Hamoed",
+    "candidates": [
+      "Rebbe Zeira",
+      "Chol Hamoed",
+      "Time Principle",
+      "During Hallel",
+      "Tosafot: Shaking & Minor",
+      "Three Possibilities",
+      "Early Departure",
+      "Lechatchildlah Ideal",
+      "No Torah Source",
+      "Simcha Connection",
+      "Unobligated Reader",
+      "Word-for-Word",
+      "Curse & Ignorance",
+      "Rashi vs Tosafot",
+      "Adult Leader",
+      "Custom Variations",
+      "Women Leadership",
+      "Women Birchat",
+      "Son & Slave",
+      "Woman Blessing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chol Hamoed",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 continue the Gemara's discussion of Chol Hamoed lulav, with Rabbi Zeira resolving the contradiction by identifying the mishnah as dealing with the rabbinic days of the festival, confirmed by the 'mi sheba baderech' proof \u2014 exactly what candidate 1's prose describes.",
+      "second_heading": "Unobligated Reader",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new Mishnah (marked 'MISHNA:') introducing an entirely different topic \u2014 who recites hallel on one's behalf \u2014 which matches candidate 10's prose about 'mi shehayah eved o isha o katan makrin oto.'",
+      "current_heading": "Chol Hamoed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Woman Blessing",
+    "candidates": [
+      "Time Principle",
+      "During Hallel",
+      "Tosafot: Shaking & Minor",
+      "Three Possibilities",
+      "Early Departure",
+      "Lechatchildlah Ideal",
+      "No Torah Source",
+      "Simcha Connection",
+      "Unobligated Reader",
+      "Word-for-Word",
+      "Curse & Ignorance",
+      "Rashi vs Tosafot",
+      "Adult Leader",
+      "Custom Variations",
+      "Women Leadership",
+      "Women Birchat",
+      "Son & Slave",
+      "Woman Blessing",
+      "Curse Reason",
+      "Sociological Issue",
+      "Contemporary Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 17,
+      "confidence": "high",
+      "reason": "The baraita explicitly states that a son, slave, and woman may lead birkat hamazon for father, master, and husband respectively, followed by the curse for a man whose wife and children recite the blessing for him \u2014 precisely the content described in the 'Woman Blessing' section's prose.",
+      "chosen_heading": "Woman Blessing",
+      "current_heading": "Woman Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Contemporary Practice",
+    "candidates": [
+      "Curse Reason",
+      "Sociological Issue",
+      "Contemporary Practice",
+      "Opening Hallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about learning halachot from the hallel custom and specifically the first ruling about responding Hallelujah, which is exactly what the 'Opening Hallel' prose discusses in detail \u2014 the chazzan opening with Hallelujah and the congregation responding, and the mitzvah to respond Hallelujah.",
+      "chosen_heading": "Opening Hallel",
+      "current_heading": "Contemporary Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Opening Hallel",
+    "candidates": [
+      "Contemporary Practice",
+      "Opening Hallel",
+      "Hodu Lashem",
+      "Chapter Heads",
+      "Ana Hashem",
+      "Shomeia K'Oneh",
+      "Technical Meaning",
+      "Rambam Hierarchy",
+      "Rashi Davening",
+      "Tosafot Interruption",
+      "Tannaitic View"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Tannaitic View",
+    "candidates": [
+      "Hodu Lashem",
+      "Chapter Heads",
+      "Ana Hashem",
+      "Shomeia K'Oneh",
+      "Technical Meaning",
+      "Rambam Hierarchy",
+      "Rashi Davening",
+      "Tosafot Interruption",
+      "Tannaitic View",
+      "Yoshiyahu Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's account of Rabbi \u1e24iyya bar Abba being asked about hearing without responding (shama velo ana), which is precisely what the 'Tannaitic View' section's prose describes.",
+      "chosen_heading": "Tannaitic View",
+      "current_heading": "Tannaitic View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Yoshiyahu Source",
+    "candidates": [
+      "Yoshiyahu Source",
+      "Hearing = Reading",
+      "Humiliation Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full gemara text including both the citation of Yoshiyahu/Shaphan verses and the derivation of shomea k'oneh, matching exactly what heading 0's prose describes as the formal textual source being provided.",
+      "chosen_heading": "Yoshiyahu Source",
+      "current_heading": "Yoshiyahu Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Humiliation Proof",
+    "candidates": [
+      "Hearing = Reading",
+      "Humiliation Proof",
+      "Our Minhag",
+      "Practical Use",
+      "Self-Performance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav A\u1e25a bar Ya'akov objection and response (beshamacha velo b'karacha) that the 'Humiliation Proof' prose explicitly describes, making the current placement correct.",
+      "chosen_heading": "Humiliation Proof",
+      "current_heading": "Humiliation Proof",
+      "moved": false
+    }
+  }
+]

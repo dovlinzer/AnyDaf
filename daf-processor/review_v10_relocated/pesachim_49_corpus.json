@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "R. Eliezer b. Tzadok",
+    "candidates": [
+      "Intro: 14th on Shabbat",
+      "Rabbi Meir: Erev Shabbat",
+      "Chachamim: Bizmano",
+      "R. Eliezer b. Tzadok",
+      "Yavneh Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This is the mishnah itself introducing the topic of the 14th falling on Shabbat, presenting all three opinions (Rabbi Meir, Chachamim, Rabbi Eliezer bar Tzadok), and belongs under the introductory heading that describes opening with this very mishnah.",
+      "chosen_heading": "Intro: 14th on Shabbat",
+      "current_heading": "R. Eliezer b. Tzadok",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Yavneh Precedent",
+    "candidates": [
+      "R. Eliezer b. Tzadok",
+      "Yavneh Precedent",
+      "Multiple Mitzvot Crisis",
+      "Bittul: Last Resort",
+      "Osek b'Mitzvah",
+      "Pikuach Nefesh",
+      "Reshut: Must Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Yavneh incident with Rabbi Eliezer bar Tzadok's father and Zonin's announcement, which is precisely what the 'Yavneh Precedent' section's prose discusses in detail.",
+      "chosen_heading": "Yavneh Precedent",
+      "current_heading": "Yavneh Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Reshut: Must Return",
+    "candidates": [
+      "Multiple Mitzvot Crisis",
+      "Bittul: Last Resort",
+      "Osek b'Mitzvah",
+      "Pikuach Nefesh",
+      "Reshut: Must Return",
+      "Meat Spoilage Case",
+      "Tzofim Boundary",
+      "Line of Sight Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Multiple Mitzvot Crisis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna text introducing the scenario of one traveling to perform mitzvot who remembers chametz at home, which matches heading 0 'Multiple Mitzvot Crisis' whose prose explicitly introduces this mishnah and its cases of shechitat hapesach, bris milah, and seudat eirusin.",
+      "second_heading": "Pikuach Nefesh",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the pikuach nefesh cases (saving from gentiles, river, bandits, fire, collapsed building) and the reshut case, and heading 3 'Pikuach Nefesh' explicitly discusses lehatzil min hanochri and the same list of dangers with the ruling of bittul belibo, while the reshut case naturally follows as the tail end of that same mishna passage.",
+      "current_heading": "Reshut: Must Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Line of Sight Rule",
+    "candidates": [
+      "Meat Spoilage Case",
+      "Tzofim Boundary",
+      "Line of Sight Rule",
+      "Size Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the case of someone who left Jerusalem with consecrated meat, which is precisely what the 'Meat Spoilage Case' heading discusses as its main topic, before the subsequent headings break down the Tzofim boundary rule and line-of-sight details.",
+      "chosen_heading": "Meat Spoilage Case",
+      "current_heading": "Line of Sight Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Size Thresholds",
+    "candidates": [
+      "Line of Sight Rule",
+      "Size Thresholds",
+      "Seudas Eirusin Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rabbi Meir, Rabbi Yehudah, and the Rabbis about the size thresholds (egg-bulk vs. olive-bulk) for returning, which is precisely what the 'Size Thresholds' section's prose discusses.",
+      "chosen_heading": "Size Thresholds",
+      "current_heading": "Size Thresholds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Seudas Eirusin Debate",
+    "candidates": [
+      "Seudas Eirusin Debate",
+      "First vs Second Meal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically presents the Gemara's initial contradiction between the mishna and the baraita grouping seudat eirusin with reshut, which is exactly what the 'Seudas Eirusin Debate' section prose describes \u2014 the resolution (Rabbi Yochanan, Rav Chisda) belongs under 'First vs Second Meal'.",
+      "chosen_heading": "Seudas Eirusin Debate",
+      "current_heading": "Seudas Eirusin Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "First vs Second Meal",
+    "candidates": [
+      "First vs Second Meal",
+      "Talmid Chacham Meals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the betrothal feast dispute between Rabbi Yehuda and Rabbi Yosei, Rav Chisda's distinction between first and second meals, and the sivlonot \u2014 exactly the content described in the 'First vs Second Meal' prose.",
+      "chosen_heading": "First vs Second Meal",
+      "current_heading": "First vs Second Meal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Talmid Chacham Meals",
+    "candidates": [
+      "Talmid Chacham Meals",
+      "Bad Match Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Shimon's baraita about a talmid chacham not benefiting from a non-mitzvah feast, and Rabbi Yochanan's clarification about bat kohen/bat talmid chacham marriages as the paradigmatic example \u2014 are explicitly discussed together in the 'Talmid Chacham Meals' prose, which covers exactly this kegon mai question and answer.",
+      "chosen_heading": "Talmid Chacham Meals",
+      "current_heading": "Talmid Chacham Meals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Bad Match Examples",
+    "candidates": [
+      "Bad Match Examples",
+      "Good Match Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav \u1e24isda's explanation of the inauspicious outcomes (widow/divorced/childless/poverty) and the Gemara's resolution of the apparent contradiction via talmid chacham vs. am ha'aretz \u2014 are explicitly discussed in the 'Bad Match Examples' prose, which covers exactly this content.",
+      "chosen_heading": "Bad Match Examples",
+      "current_heading": "Bad Match Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Good Match Examples",
+    "candidates": [
+      "Good Match Examples",
+      "Marriage Obligation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Good Match Examples",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Rabbi Yehoshua/Rav Idi/Rav Pappa/Rav Kahana examples of marrying a kohenet, which are explicitly discussed in the 'Good Match Examples' prose.",
+      "second_heading": "Marriage Obligation",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 shift to a completely different topic \u2014 Rabbi Yitzchak's teaching about exile for benefiting from optional feasts, and the baraita about Torah scholars who feast excessively \u2014 which has no connection to marrying a kohenet but fits naturally under a section discussing obligations and conduct of Torah scholars, adjacent to the 'Marriage Obligation' prose.",
+      "current_heading": "Good Match Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Marriage Obligation",
+    "candidates": [
+      "Marriage Obligation",
+      "Sheketz Designation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Marriage Obligation' explicitly discusses both baraitot quoted in items 1-3 \u2014 marrying the daughter of a talmid chacham for the sake of children's education, and the grapes/vine parable \u2014 making it the clear and correct home for this passage.",
+      "chosen_heading": "Marriage Obligation",
+      "current_heading": "Marriage Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Sheketz Designation",
+    "candidates": [
+      "Sheketz Designation",
+      "Extreme Violence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Sheketz Designation' prose, which explicitly discusses the hierarchy of marriage partners culminating in the am ha'aretz characterization and then the baraita about Rabbi Yehuda HaNasi prohibiting an am ha'aretz from eating meat \u2014 exactly the two items presented.",
+      "chosen_heading": "Sheketz Designation",
+      "current_heading": "Sheketz Designation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Extreme Violence",
+    "candidates": [
+      "Extreme Violence",
+      "R. Akiva Confession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (stabbing on Yom Kippur/Shabbat, prohibition of traveling with an am ha'aretz, and tearing like a fish) are explicitly discussed together in the 'Extreme Violence' prose, which quotes and explains all three statements in sequence.",
+      "chosen_heading": "Extreme Violence",
+      "current_heading": "Extreme Violence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "R. Akiva Confession",
+    "candidates": [
+      "R. Akiva Confession",
+      "Behavioral Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's personal confession about his hatred of Torah scholars as an am ha'aretz, which is exactly what the 'R. Akiva Confession' section's prose discusses in detail.",
+      "chosen_heading": "R. Akiva Confession",
+      "current_heading": "R. Akiva Confession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Behavioral Claims",
+    "candidates": [
+      "Behavioral Claims",
+      "Mutual Hatred"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Behavioral Claims",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rabbi Meir's lion analogy and Rabbi Eliezer's business remark) are about the behavioral/dangerous nature of the am ha'aretz, matching the 'Behavioral Claims' prose which explicitly discusses both the lion analogy and related teachings.",
+      "second_heading": "Mutual Hatred",
+      "second_confidence": "medium",
+      "second_reason": "Item 3 (Rabbi \u1e24iyya's teaching about studying Torah in front of an am ha'aretz causing anguish) fits better under 'Mutual Hatred' as it addresses the antagonistic relationship between talmidei chachamim and amei ha'aretz, paralleling the mutual hostility theme of that section.",
+      "current_heading": "Behavioral Claims",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Mutual Hatred",
+    "candidates": [
+      "Mutual Hatred",
+      "Practical Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the hatred of amei ha'aretz toward Torah scholars, their wives' greater hatred, and those who studied and left \u2014 exactly what the 'Mutual Hatred' section's prose addresses.",
+      "chosen_heading": "Mutual Hatred",
+      "current_heading": "Mutual Hatred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Practical Restrictions",
+    "candidates": [
+      "Practical Restrictions",
+      "Tosafot Nuance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita listing the six restrictions and the first tanna's reasoning about returning lost property \u2014 are explicitly discussed together in the 'Practical Restrictions' prose, which covers exactly these two items in sequence.",
+      "chosen_heading": "Practical Restrictions",
+      "current_heading": "Practical Restrictions",
+      "moved": false
+    }
+  }
+]

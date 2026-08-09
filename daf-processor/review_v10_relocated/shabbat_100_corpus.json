@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Water on Water",
+    "candidates": [
+      "Water on Water",
+      "Egoz al Mayim",
+      "Egoz Bikli Tzaf",
+      "Shemen al Yayin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Egoz al Mayim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rava's 'peshita li' statement about water on water (hainu hanachasan) and the beginning of the nut-on-water case, which matches heading 1 'Egoz al Mayim' prose that explicitly discusses egoz agabi mayim as lav hainu hanachasan \u2014 but item 1 only covers up to the nut-on-water introduction, which is the transition point.",
+      "second_heading": "Egoz Bikli Tzaf",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rava's dilemma about the nut in a vessel floating on water (egoz bikli v'kli tzaf) ending with teiku, which matches exactly the prose of heading 2 'Egoz Bikli Tzaf'.",
+      "current_heading": "Water on Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Shemen al Yayin",
+    "candidates": [
+      "Egoz al Mayim",
+      "Egoz Bikli Tzaf",
+      "Shemen al Yayin",
+      "Pit with Mat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses oil floating on wine and the dispute between Rabbi Yochanan ben Nuri and the Rabbis, which is exactly what the 'Shemen al Yayin' section prose describes.",
+      "chosen_heading": "Shemen al Yayin",
+      "current_heading": "Shemen al Yayin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Pit with Mat",
+    "candidates": [
+      "Pit with Mat",
+      "Pit Filled Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Abaye's case of a pit divided by a mat and the comparison between Abaye and Rabbi Yochanan's positions, which precisely matches the 'Pit with Mat' section's prose.",
+      "chosen_heading": "Pit with Mat",
+      "current_heading": "Pit with Mat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Pit Filled Water",
+    "candidates": [
+      "Pit Filled Water",
+      "Pit Filled Fruit",
+      "Lemalah Asarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the water-filled pit (Abaye's ruling that water does not eliminate the partition) and the baraita about the sea, which are both explicitly covered in the 'Pit Filled Water' section's prose, making the current placement correct.",
+      "chosen_heading": "Pit Filled Water",
+      "current_heading": "Pit Filled Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Lemalah Asarah",
+    "candidates": [
+      "Pit Filled Fruit",
+      "Lemalah Asarah",
+      "Chokekin LeHashlim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of 'Lemalah Asarah,' which explicitly discusses the Mishnah about throwing four amos at a wall above/below ten tefachim and Rabbi Yochanan's resolution using dveilah shemeinah \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Lemalah Asarah",
+      "current_heading": "Lemalah Asarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Chokekin LeHashlim",
+    "candidates": [
+      "Chokekin LeHashlim",
+      "Tel Geometry",
+      "Islands Eruvin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the chokekin le-hashlim dispute between Rabbi Meir and the Rabbis applied to throwing into a small hole above ten tefachim, which is precisely what the prose under heading 0 describes, including the confirming baraita.",
+      "chosen_heading": "Chokekin LeHashlim",
+      "current_heading": "Chokekin LeHashlim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Islands Eruvin",
+    "candidates": [
+      "Tel Geometry",
+      "Islands Eruvin",
+      "Zarak Giglug"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the tel ha-mitlaket geometry rule (mound rising ten tefachim within four amos) and its application to eruvin via the baraita about the mavoi \u2014 all content that directly matches the 'Tel Geometry' prose, which explicitly describes this Rav Yehuda/Rav ruling and the baraita application.",
+      "chosen_heading": "Tel Geometry",
+      "current_heading": "Islands Eruvin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Zarak Giglug",
+    "candidates": [
+      "Islands Eruvin",
+      "Zarak Giglug",
+      "V'Ha Lo Nach",
+      "Ruach Nach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text about throwing within/beyond four cubits and rolling, which is precisely what the 'Zarak Giglug' section's prose introduces and discusses.",
+      "chosen_heading": "Zarak Giglug",
+      "current_heading": "Zarak Giglug",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Ruach Nach",
+    "candidates": [
+      "V'Ha Lo Nach",
+      "Ruach Nach",
+      "Rava Toch Gimel",
+      "Mareimar Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yo\u1e25anan's answer about resting on something ('nach al gabei mashehu') and the baraita about wind, which the 'V'Ha Lo Nach' section's prose explicitly discusses as a unified unit \u2014 the challenge, Rabbi Yo\u1e25anan's resolution, and the supporting baraita all belong together there.",
+      "chosen_heading": "V'Ha Lo Nach",
+      "current_heading": "Ruach Nach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Mareimar Challenge",
+    "candidates": [
+      "Rava Toch Gimel",
+      "Mareimar Challenge",
+      "Puddle Depth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Ravina-Mareimar exchange \u2014 Ravina's challenge from the Mishnah and Mareimar's response about rolling vs. descending objects \u2014 which is precisely what candidate 1 ('Mareimar Challenge') describes in its prose.",
+      "chosen_heading": "Mareimar Challenge",
+      "current_heading": "Mareimar Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Puddle Depth",
+    "candidates": [
+      "Puddle Depth",
+      "Hiluch Not Tashmish",
+      "Imot Chama Geshamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text directly introduces the puddle (rekak mayim) scenario, its depth threshold, and the public domain status \u2014 precisely what the 'Puddle Depth' prose section discusses.",
+      "chosen_heading": "Puddle Depth",
+      "current_heading": "Puddle Depth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Imot Chama Geshamim",
+    "candidates": [
+      "Hiluch Not Tashmish",
+      "Imot Chama Geshamim",
+      "Abaye Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly why the swamp/puddle scenario is stated twice \u2014 one for summer and one for winter \u2014 which is precisely what the 'Imot Chama Geshamim' prose describes, and the current placement is correct.",
+      "chosen_heading": "Imot Chama Geshamim",
+      "current_heading": "Imot Chama Geshamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Abaye Rav Ashi",
+    "candidates": [
+      "Abaye Rav Ashi",
+      "Ocean Land Transfer",
+      "Boat Reshut Yachid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's and Rav Ashi's explanations of why the mishna repeats 'swamp,' and the prose under heading 0 describes exactly these two opinions and Rav Ashi's bridge-beam ruling.",
+      "chosen_heading": "Abaye Rav Ashi",
+      "current_heading": "Abaye Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Boat Reshut Yachid",
+    "candidates": [
+      "Ocean Land Transfer",
+      "Boat Reshut Yachid",
+      "Shaking Mayim Sfinah",
+      "Rav Huna Makom",
+      "Rav Chisda Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers exactly the content described in candidate 0's prose \u2014 throwing between sea and land/boats and the patur ruling \u2014 and while it also includes the tied-boats rule discussed in candidate 1, the opening of the Mishnah with the sea-to-land transfers is the primary topic of candidate 0, which is where this Mishnah naturally belongs as the section's opening source.",
+      "chosen_heading": "Ocean Land Transfer",
+      "current_heading": "Boat Reshut Yachid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Rav Chisda Method",
+    "candidates": [
+      "Shaking Mayim Sfinah",
+      "Rav Huna Makom",
+      "Rav Chisda Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the complete dispute about drawing water from a boat \u2014 the initial statement of the two opinions (item 1), Rav Huna's reasoning (item 2), and Rav Chisda/Rabba bar Rav Huna's reasoning (item 3) \u2014 which matches heading 0's prose describing the full dispute and its two solutions, whereas headings 1 and 2 each cover only one side of the dispute.",
+      "chosen_heading": "Shaking Mayim Sfinah",
+      "current_heading": "Rav Chisda Method",
+      "moved": true
+    }
+  }
+]

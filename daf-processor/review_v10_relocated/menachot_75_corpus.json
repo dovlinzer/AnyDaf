@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Ma'afeh Tanur Offering",
+    "candidates": [
+      "Overview & Categories",
+      "Minchat Soles",
+      "Machvas & Marcheshes",
+      "Ma'afeh Tanur Offering",
+      "Pesukim Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Minchat Soles",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's answer excluding the oven-baked Mincha (Minchat Ma'afeh Tanur), which is precisely what the 'Minchat Soles' section's prose discusses \u2014 the exclusion of the oven-baked Mincha and why the Mishna's qualifier serves to exclude it.",
+      "second_heading": "Ma'afeh Tanur Offering",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 are the Baraita deriving via Gezeira Shava on 'Korbanecha' the three oil stages for Marcheshes and Machvas, which is exactly what the 'Ma'afeh Tanur Offering' section's prose describes in detail.",
+      "current_heading": "Ma'afeh Tanur Offering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Pesukim Analysis",
+    "candidates": [
+      "Pesukim Analysis",
+      "Oil Stages Explained",
+      "Combining Sources",
+      "Rabbi's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items cover the Rabbis' counter-argument from the Todah offering and Rabbi Shmuel bar Rav Yitzchak's explanation of why post-baking mixing is impossible (the quarter-log of oil cannot be distributed among multiple loaves), which is precisely what candidate 1 'Oil Stages Explained' describes in its prose.",
+      "chosen_heading": "Oil Stages Explained",
+      "current_heading": "Pesukim Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rabbi's Position",
+    "candidates": [
+      "Oil Stages Explained",
+      "Combining Sources",
+      "Rabbi's Position",
+      "Todah Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita's logical inference (kal vachomer) that wafers might also require mixing, and the Torah's explicit exclusion of this \u2014 exactly what the 'Todah Problem' prose describes as the baraita raising the kal vachomer argument and the Torah's response of 'Challos belulos velo rekikin belulin.'",
+      "chosen_heading": "Todah Problem",
+      "current_heading": "Rabbi's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Todah Problem",
+    "candidates": [
+      "Rabbi's Position",
+      "Todah Problem",
+      "Process Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Kal VaChomer argument about whether loaves require smearing and the Rava 'lo lishtamit' argument, which is precisely what the 'Todah Problem' prose describes in detail.",
+      "chosen_heading": "Todah Problem",
+      "current_heading": "Todah Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Process Explained",
+    "candidates": [
+      "Process Explained",
+      "Measurements",
+      "Two Baked Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses 'keitzad moshchan' (how one anoints) and Rav Kahana's explanation that 'k'min ki' means the Greek letter Chi, which is precisely what the 'Process Explained' section's prose describes.",
+      "chosen_heading": "Process Explained",
+      "current_heading": "Process Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Two Baked Types",
+    "candidates": [
+      "Measurements",
+      "Two Baked Types",
+      "Anointing Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the half-loaves/half-wafers case and the oil division/anointing details, which matches exactly what heading 0 ('Measurements') describes in its prose, while the current placement under heading 1 ('Two Baked Types') covers the prior foundational distinction between challos and rekikin rather than this specific half-and-half scenario.",
+      "chosen_heading": "Measurements",
+      "current_heading": "Two Baked Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Anointing Method",
+    "candidates": [
+      "Two Baked Types",
+      "Anointing Method",
+      "Half-and-Half Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the Mishna about Pesisa for vessel-prepared Minchos and Rav Pappa's exclusion of Shtei HaLechem and Lechem HaPanim, which is precisely what candidate 2 ('Half-and-Half Mix') discusses in its prose, including the 'l'ma'utei mai' question and Rav Pappa's answer.",
+      "chosen_heading": "Half-and-Half Mix",
+      "current_heading": "Anointing Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Half-and-Half Mix",
+    "candidates": [
+      "Half-and-Half Mix",
+      "Full Rekikin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the baraita deriving Pesisa and Yetzika requirements from Leviticus 2:6, with the exclusions of Shtei HaLechem/Lechem HaPanim and Ma'afeh Tanur \u2014 exactly the content described in the 'Half-and-Half Mix' prose, which explicitly discusses these derivations from 'Patot otah pitim \u2014 Mincha hi' and 'v'yatzakta aleha shemen \u2014 Mincha hi' with their limiting words 'otah,' 'aleha,' and 'hi.'",
+      "chosen_heading": "Half-and-Half Mix",
+      "current_heading": "Half-and-Half Mix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Full Rekikin",
+    "candidates": [
+      "Full Rekikin",
+      "Ptita Derivation",
+      "Folding Process",
+      "Kohanim Offerings",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's statement explaining why the oven-baked meal offering (minchat ma'afeh) requires two exclusionary terms, which is precisely what the 'Full Rekikin' prose discusses \u2014 Rava's answer that the Ma'afeh Tanur has two components (Challos and Rekikin) requiring two limiting words to exclude both from the oil-pouring rule.",
+      "chosen_heading": "Full Rekikin",
+      "current_heading": "Full Rekikin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Ptita Derivation",
+      "Folding Process",
+      "Kohanim Offerings",
+      "Rabbi Shimon View",
+      "Hamotzi Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna passage describes the full Pesisa procedure for all three categories (Minchat Yisrael, Minchat Kohanim, and Minchat Kohen Gadol) along with Rabbi Shimon's view, and candidate 0 ('Ptita Derivation') is the introductory prose that explicitly introduces this very Mishna and begins explaining its content, making it the natural home for this passage.",
+      "chosen_heading": "Ptita Derivation",
+      "current_heading": "Rabbi Shimon View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Hamotzi Source",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Hamotzi Source",
+      "Abaye Challenge",
+      "Crumb Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita deriving the method of Pesisa from 'patot otah pitim' and the reconciliation of the Mishna/Baraita regarding folding into two vs. four, which matches the 'Abaye Challenge'/'Hamotzi Source' discussion \u2014 but specifically items 1-2 fit under 'Abaye Challenge' (index 2) which discusses the baraita about folding and Rabba's reconciliation that the Mishna denies only four-fold, not two-fold folding.",
+      "second_heading": "Crumb Status",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rav Yosef's ruling about the Chavitza and the hamotzi/mezonot distinction based on olive-bulk size, along with the braita proof \u2014 exactly what 'Crumb Status' (index 3) describes in its prose.",
+      "current_heading": "Hamotzi Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Crumb Status",
+    "candidates": [
+      "Abaye Challenge",
+      "Crumb Status",
+      "Final Bracha Rule",
+      "Braita on Blessed Offering",
+      "Abaye's Crumb-Size Question",
+      "Combined Crumbs Retain Motzi",
+      "Braita on Chametz & Matzah Crumbs",
+      "Pesika Standard: Shape of Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion about crumb status and the Hamotzi blessing \u2014 Abaye's challenge about Rabbi Yishmael's school, the baraita on chametz/matzah crumbs, the she'ersan rebuttal, the plural/singular grammatical challenge, and Rav Sheshet/Rava's final ruling \u2014 which is precisely what the 'Crumb Status' section's prose describes in detail.",
+      "chosen_heading": "Crumb Status",
+      "current_heading": "Crumb Status",
+      "moved": false
+    }
+  }
+]

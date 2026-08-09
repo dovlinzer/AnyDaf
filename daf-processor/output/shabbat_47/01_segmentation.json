@@ -29,7 +29,7 @@
           "timestamp": "10:09"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -209,7 +209,7 @@
           "timestamp": "58:34"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     }
   ],
@@ -541,5 +541,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "41:23",
+  "amud_b_micro_title": "Candelabra Cases",
+  "shiur_start_daf": 47,
+  "shiur_start_amud": "a"
 }

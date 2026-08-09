@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Seven Questions Listed",
+    "candidates": [
+      "Transition & Topic Intro",
+      "Seven Questions Listed",
+      "Rabbi Yosi: Three Only",
+      "Act Details: Idol Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishnah text covers both the seven-question majority view and Rabbi Yosi's three-question minority view as a single unit, so it best fits under the introductory 'Transition & Topic Intro' heading that sets up the entire perek's content, rather than being split across the 'Seven Questions Listed' and 'Rabbi Yosi' headings.",
+      "chosen_heading": "Transition & Topic Intro",
+      "current_heading": "Seven Questions Listed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Act Details: Idol Method",
+    "candidates": [
+      "Rabbi Yosi: Three Only",
+      "Act Details: Idol Method",
+      "Purpose: Hazimah",
+      "Bdikot Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the questions about recognizing the defendant, warning him, and the specifics of idol worship (whom and how), which is precisely what the 'Act Details: Idol Method' section's prose discusses in detail.",
+      "chosen_heading": "Act Details: Idol Method",
+      "current_heading": "Act Details: Idol Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Bdikot Example",
+    "candidates": [
+      "Purpose: Hazimah",
+      "Bdikot Example",
+      "Chakiros vs. Bdikot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Ben Zakkai fig stems incident, which is precisely what the 'Bdikot Example' section's prose discusses.",
+      "chosen_heading": "Bdikot Example",
+      "current_heading": "Bdikot Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Chakiros vs. Bdikot",
+    "candidates": [
+      "Chakiros vs. Bdikot",
+      "Month/Day Errors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the difference between chakiros and bedikot, including the rules about 'I do not know' and contradictions, which is exactly what the prose under 'Chakiros vs. Bdikot' discusses.",
+      "chosen_heading": "Chakiros vs. Bdikot",
+      "current_heading": "Chakiros vs. Bdikot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Month/Day Errors",
+    "candidates": [
+      "Month/Day Errors",
+      "Hour Errors & Pesach",
+      "5th-7th Hour Boundary",
+      "Acquittal Presumption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Month/Day Errors",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss month/day discrepancies between witnesses (second vs. third, third vs. fifth of the month), which exactly matches the 'Month/Day Errors' prose.",
+      "second_heading": "Hour Errors & Pesach",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss hour-based discrepancies (two vs. three hours, three vs. five hours, Rabbi Yehuda's position, and the five vs. seven hour boundary with sun position), which exactly matches the 'Hour Errors & Pesach' prose.",
+      "current_heading": "Month/Day Errors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Acquittal Presumption",
+    "candidates": [
+      "Hour Errors & Pesach",
+      "5th-7th Hour Boundary",
+      "Acquittal Presumption",
+      "Student Elevation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the examination of the second witness, finding testimonies congruent, opening deliberations with acquittal, silencing the witness who wants to argue for acquittal and the student who wants to argue for liability, and elevating the student who argues for acquittal \u2014 all of which is precisely what the 'Acquittal Presumption' section's prose describes, including the specific concepts of poteach bizchut, meshatakin oto, and the student elevation that begins at the end of this mishna passage.",
+      "chosen_heading": "Acquittal Presumption",
+      "current_heading": "Acquittal Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Student Elevation",
+    "candidates": [
+      "Student Elevation",
+      "Adjournment & Pairs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the text about 'im yesh mamash b'divrav shom'in lo' and the accused raising his own defense, which is precisely what the 'Student Elevation' prose discusses in detail.",
+      "chosen_heading": "Student Elevation",
+      "current_heading": "Student Elevation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Adjournment & Pairs",
+    "candidates": [
+      "Adjournment & Pairs",
+      "Judge Restrictions",
+      "Day Two: Positions",
+      "Verdict Asymmetry",
+      "No Unanimous Guilt",
+      "Scribes' Role",
+      "First Vote",
+      "23-Judge Voting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content discussed under 'Adjournment & Pairs': finding merit to acquit, adjourning to the next day, pairing off judges, minimizing food, avoiding wine, deliberating through the night, and returning to court the next morning \u2014 all of which the prose under heading 0 directly addresses.",
+      "chosen_heading": "Adjournment & Pairs",
+      "current_heading": "Adjournment & Pairs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "23-Judge Voting",
+    "candidates": [
+      "Judge Restrictions",
+      "Day Two: Positions",
+      "Verdict Asymmetry",
+      "No Unanimous Guilt",
+      "Scribes' Role",
+      "First Vote",
+      "23-Judge Voting",
+      "Adding Judges",
+      "71-Judge Court"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Day Two: Positions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers judges declaring their positions on day two, the asymmetry rule (one who argued innocence cannot switch to guilt), and the scribes reminding judges who forgot \u2014 all topics explicitly discussed under 'Day Two: Positions', 'Verdict Asymmetry', and 'Scribes' Role', but the prose of heading 1 ('Day Two: Positions') directly introduces this mishna passage about judges declaring positions and the scribes' reminder, making it the best single home; however, the vote count result (12 acquit, 11 liable = acquitted) matches heading 5 ('First Vote') and heading 6 ('23-Judge Voting') more closely.",
+      "second_heading": "23-Judge Voting",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the cases where twelve convict and eleven acquit, eleven-eleven with one abstention, twenty-two one way with one abstaining, and adding judges in pairs up to seventy-one \u2014 exactly the content described in the prose of heading 6 ('23-Judge Voting') and heading 7 ('Adding Judges'), with heading 6's prose being the closest match as it quotes these precise vote tallies and the adding-of-judges rule.",
+      "current_heading": "23-Judge Voting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "71-Judge Court",
+    "candidates": [
+      "Adding Judges",
+      "71-Judge Court",
+      "Three Contexts",
+      "Gezeirah on 'Heitiv'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the 36/35 split outcomes at a 71-judge court, directly matching the '71-Judge Court' prose which explicitly discusses these same vote counts and the deadlock procedure.",
+      "chosen_heading": "71-Judge Court",
+      "current_heading": "71-Judge Court",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Gezeirah on 'Heitiv'",
+    "candidates": [
+      "Three Contexts",
+      "Gezeirah on 'Heitiv'",
+      "Case Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the derivation of the seven chakiros from three pesukim and the gezeirah shava/analogy that treats them as written together, which is precisely what candidate 1's prose discusses under 'Gezeirah on Heitiv'.",
+      "chosen_heading": "Gezeirah on 'Heitiv'",
+      "current_heading": "Gezeirah on 'Heitiv'",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Case Distinctions",
+    "candidates": [
+      "Case Distinctions",
+      "Gezeirah Mufneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the objection that the three cases are not similar to each other and then enumerate the three specific distinctions (palat/property, sayif/sword, hatra'ah/forewarning), which is precisely what the 'Case Distinctions' prose section discusses.",
+      "chosen_heading": "Case Distinctions",
+      "current_heading": "Case Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Gezeirah Mufneh",
+    "candidates": [
+      "Gezeirah Mufneh",
+      "Rav Yehudah: 11 Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover exactly the content described in the 'Gezeirah Mufneh' prose: the verbal analogy on heiteiv, the mufneh/mufneh-mitzad-echad discussion, the kal va-chomer for nechnakin and nisrafin, and the challenge from Rabbi Shimon's view that sreifa is more severe \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Gezeirah Mufneh",
+      "current_heading": "Gezeirah Mufneh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rav Yehudah: 11 Words",
+    "candidates": [
+      "Rav Yehudah: 11 Words",
+      "Rabbi Abbahu Challenge",
+      "Baraita: 8 Chakiros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to Rav Yehudah's drasha about the eleven words, the seven chakiros, the three for gezeirah shavah, and the one remaining word \u2014 exactly what candidate 0's prose describes in detail, including the Rabbi Shimon/Rabbis distinction about nisrafin and milta d'atya be-kal va-chomer.",
+      "chosen_heading": "Rav Yehudah: 11 Words",
+      "current_heading": "Rav Yehudah: 11 Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Baraita: 8 Chakiros",
+    "candidates": [
+      "Rabbi Abbahu Challenge",
+      "Baraita: 8 Chakiros",
+      "8th Q: Yovel Cycle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the content of candidate 1 ('Baraita: 8 Chakiros'): item 1 is Rabbi Abbahu's challenge and the baraita supporting eight interrogations, and item 2 is the follow-up discussion about whether asking a sub-hourly question makes sense according to Abaye/Rabbi Meir, Abaye/Rabbi Yehuda, and Rava \u2014 all of which are explicitly described in candidate 1's prose.",
+      "chosen_heading": "Baraita: 8 Chakiros",
+      "current_heading": "Baraita: 8 Chakiros",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "8th Q: Yovel Cycle",
+    "candidates": [
+      "8th Q: Yovel Cycle",
+      "Yovel Tracking Ended",
+      "Yosi Rejoinder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's exploration of 'be-kamah ba-yovel' and 'be-eizeh yovel' as candidates for an eighth chakira, which is precisely what the prose under heading 0 ('8th Q: Yovel Cycle') describes.",
+      "chosen_heading": "8th Q: Yovel Cycle",
+      "current_heading": "8th Q: Yovel Cycle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Yosi Rejoinder",
+    "candidates": [
+      "Yovel Tracking Ended",
+      "Yosi Rejoinder",
+      "Pressure Witnesses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yosi Rejoinder",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 contain Rabbi Yosei's challenge to the Rabbis and their counter-challenge, which is precisely what the 'Yosi Rejoinder' prose describes.",
+      "second_heading": "Pressure Witnesses",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the Rabbis' resolution invoking Rabbi Shimon ben Elazar's principle of pressuring witnesses, which is exactly what the 'Pressure Witnesses' prose discusses.",
+      "current_heading": "Yosi Rejoinder",
+      "moved": true
+    }
+  }
+]

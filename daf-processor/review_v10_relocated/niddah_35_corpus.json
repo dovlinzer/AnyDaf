@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Drasha: Lazachar Velan",
+    "candidates": [
+      "Ma'ayanot and Av Hatumah",
+      "Beit Shammai vs. Beit Hi\u2026",
+      "Drasha: Lazachar Velan",
+      "Beit Hillel Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yitzchak's drasha on 'lazachar velanekevah' and the Gemara's follow-up question about what 'ma'ayanoteha' means, which is precisely what candidate 2's prose describes as the content of that section.",
+      "chosen_heading": "Drasha: Lazachar Velan",
+      "current_heading": "Drasha: Lazachar Velan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Beit Hillel Reasoning",
+    "candidates": [
+      "Beit Hillel Reasoning",
+      "Beit Shammai Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Beit Shammai / Beit Hillel dialectic about why the male verse cannot be dispensed with (Beit Shammai's refutation) and Beit Hillel's counter-response \u2014 exactly the back-and-forth described in the 'Beit Shammai Defense' prose, not the one-sided Beit Hillel exposition of candidate 0.",
+      "chosen_heading": "Beit Shammai Defense",
+      "current_heading": "Beit Hillel Reasoning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Beit Shammai Defense",
+    "candidates": [
+      "Beit Hillel Reasoning",
+      "Beit Shammai Defense",
+      "Zav Minor Reiyah Rishonah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items cover the im eino inyan redirection, Beit Shammai's refutation via the zava/ones stringency, Beit Hillel's rejoinder about staying within metzora laws, and the alternative use of 'lazachar' for minors versus Beit Hillel's derivation from 'zot torat hazav' \u2014 all of which are explicitly described in the 'Beit Shammai Defense' prose.",
+      "chosen_heading": "Beit Shammai Defense",
+      "current_heading": "Beit Shammai Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Zav Minor Reiyah Rishonah",
+    "candidates": [
+      "Zav Minor Reiyah Rishonah",
+      "Rava's Proof from Braita",
+      "Rav Yosef on Metzora",
+      "Metzora Ziva Flow Status",
+      "Rava: Zov Tamei Hu",
+      "Rav Yehudah's Challenge",
+      "Rav Yehudah's Challenge",
+      "Metzora Linked to Zav",
+      "First Flow Not Ma'ayan",
+      "Reiyah Rishonah Be'ones"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Zav Minor Reiyah Rishonah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Reish Lakish's dilemma about the minor zav's first sighting and Rava's resolution from the baraita, exactly matching the 'Zav Minor Reiyah Rishonah' section and its continuation.",
+      "second_heading": "Rav Yosef on Metzora",
+      "second_confidence": "high",
+      "second_reason": "Items 4-10 open an entirely new dilemma about the first sighting of a metzora's ziva and carrying-impurity, which matches heading 2 ('Rav Yosef on Metzora') and the subsequent sections on that topic.",
+      "current_heading": "Zav Minor Reiyah Rishonah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Reiyah Rishonah Be'ones",
+    "candidates": [
+      "Rava's Proof from Braita",
+      "Rav Yosef on Metzora",
+      "Metzora Ziva Flow Status",
+      "Rava: Zov Tamei Hu",
+      "Rav Yehudah's Challenge",
+      "Rav Yehudah's Challenge",
+      "Metzora Linked to Zav",
+      "First Flow Not Ma'ayan",
+      "Reiyah Rishonah Be'ones",
+      "Mishnah on Checking Flows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Huna's ruling that the first sighting of ziva imparts impurity even when caused by ones (circumstances beyond control), and the Gemara's analysis of whether the Mishnah's examination of the first flow is about tumah or korban \u2014 exactly what heading 8 ('Reiyah Rishonah Be'ones') and its prose describe.",
+      "chosen_heading": "Reiyah Rishonah Be'ones",
+      "current_heading": "Reiyah Rishonah Be'ones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Mishnah on Checking Flows",
+    "candidates": [
+      "Mishnah on Checking Flows",
+      "Tanna Kamma vs. Rabbi El\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's attempt to derive from the second-flow clause of the Mishnah that the first-flow examination is about tumah, and the subsequent rejection (midi irya), which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Mishnah on Checking Flows",
+      "current_heading": "Mishnah on Checking Flows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Tanna Kamma vs. Rabbi El\u2026",
+    "candidates": [
+      "Tanna Kamma vs. Rabbi El\u2026",
+      "Rabbi Yitzchak's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the dispute between Tanna Kamma and Rabbi Eliezer about examining the third flow, and whether the examination is for tumah or korban purposes, with the disagreement rooted in whether 'et' is expounded \u2014 exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Tanna Kamma vs. Rabbi El\u2026",
+      "current_heading": "Tanna Kamma vs. Rabbi El\u2026",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Rabbi Yitzchak's Solution",
+    "candidates": [
+      "Rabbi Yitzchak's Solution",
+      "Zov vs. Zera Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous Gemara discussion of Rabbi Yitzchak's statement about the zav being included in the ba'al keri category, which is precisely what the prose of heading 0 describes in detail.",
+      "chosen_heading": "Rabbi Yitzchak's Solution",
+      "current_heading": "Rabbi Yitzchak's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Zov vs. Zera Description",
+    "candidates": [
+      "Zov vs. Zera Description",
+      "Beit Hillel's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's physical description of the difference between zov and zera, which is exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Zov vs. Zera Description",
+      "current_heading": "Zov vs. Zera Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Beit Hillel's Challenge",
+    "candidates": [
+      "Beit Hillel's Challenge",
+      "Beit Shammai's Response",
+      "Proof from Zavah Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Hillel's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the mishna's case of the yoledes who did not immerse, which is exactly what heading 0 ('Beit Hillel's Challenge') describes as its opening setup.",
+      "second_heading": "Beit Shammai's Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita recording Beit Shammai's rebuttal of Beit Hillel's analogy to the niddah, which is precisely what heading 1 ('Beit Shammai's Response') describes in its prose.",
+      "current_heading": "Beit Hillel's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Proof from Zavah Case",
+    "candidates": [
+      "Beit Shammai's Response",
+      "Proof from Zavah Case",
+      "Conditional Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-3 cover Beit Hillel's proof from the yoledes bezavah, Beit Shammai's 'hu hadin vehu hateshuvah' response, and the Gemara's question about apparent contradiction with a Mishnah where they agree \u2014 all of which matches the 'Conditional Agreement' prose that describes exactly these elements: the hu hadin response, the braita confirming parallel positions, and the Gemara resolving the contradiction with the Mishnah.",
+      "chosen_heading": "Conditional Agreement",
+      "current_heading": "Proof from Zavah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Conditional Agreement",
+    "candidates": [
+      "Proof from Zavah Case",
+      "Conditional Agreement",
+      "When Blood Becomes Tahor",
+      "Rav: One Wellspring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's resolution of the contradiction between the baraita (where Beit Shammai and Beit Hillel disagree about a zavah who counted) and the mishna (where they agree about one who has not yet counted), which is exactly what Candidate 1's prose describes.",
+      "chosen_heading": "Conditional Agreement",
+      "current_heading": "Conditional Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Rav: One Wellspring",
+    "candidates": [
+      "When Blood Becomes Tahor",
+      "Rav: One Wellspring",
+      "Levi: Two Wellsprings",
+      "Continuous Flow Cases",
+      "Rav's and Levi's Stringe\u2026",
+      "Connection to Beit Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Rav/Levi dispute about one vs. two wellsprings and works through the practical differences in continuous-flow cases, which is exactly what heading 1 ('Rav: One Wellspring') introduces \u2014 and items 2-5 are the natural continuation of that same dispute, all handled together under headings 1-4 but the current placement at heading 1 is where the passage begins and the entire unit belongs together; however since all 5 items span headings 1-4, the current placement at heading 1 is where item 1 sits and all items are a continuous unit starting there.",
+      "chosen_heading": "Rav: One Wellspring",
+      "current_heading": "Rav: One Wellspring",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Original Practice",
+    "candidates": [
+      "Mishnah: Duration",
+      "R. Meir: Neighbors",
+      "R. Yehuda: Three Regalim",
+      "Gemara: Whose Neighbors?",
+      "Neighbors of Location",
+      "Three-Day Journey",
+      "R. Yosef: Population Size",
+      "Abaye's Objection",
+      "Rava: Limited Duration",
+      "Ravina: Specificity Rule",
+      "Rava: Generic Announce",
+      "Original Practice",
+      "Post-Destruction Takkanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage discusses the confusion between 'third' and 'second' regel announcements and why the third regel announcement was made without specifying a number, which is precisely what the prose in 'Original Practice' describes.",
+      "chosen_heading": "Original Practice",
+      "current_heading": "Original Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Post-Destruction Takkanot",
+    "candidates": [
+      "Post-Destruction Takkanot",
+      "Forceful People Problem",
+      "Rav Ashi Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all three historical stages (pilgrimage festival announcements, synagogue/study hall announcements after the Temple's destruction, and quiet notification after oppressors proliferated), and the current heading 'Post-Destruction Takkanot' with its prose about the shift from Jerusalem to synagogues/study halls is the best umbrella for this comprehensive source text, even though it also touches on material discussed under headings 1 and 2.",
+      "chosen_heading": "Post-Destruction Takkanot",
+      "current_heading": "Post-Destruction Takkanot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Ashi Story",
+    "candidates": [
+      "Forceful People Problem",
+      "Rav Ashi Story",
+      "Stone of Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains what 'oppressors proliferating' means (aveidata le-malka) and illustrates it with Rabbi Ami's story, which directly matches the 'Forceful People Problem' prose about ha-nasim and the aveidata le-malka concern, not the 'Rav Ashi Story' heading which misattributes the protagonist.",
+      "chosen_heading": "Forceful People Problem",
+      "current_heading": "Rav Ashi Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Stone of Claims",
+    "candidates": [
+      "Rav Ashi Story",
+      "Stone of Claims",
+      "Mishnah: Marks & Trust",
+      "Announcement Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Claimant's Stone (Even To'en) in Jerusalem, which is precisely what the 'Stone of Claims' section prose discusses.",
+      "chosen_heading": "Stone of Claims",
+      "current_heading": "Stone of Claims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Announcement Debate",
+    "candidates": [
+      "Mishnah: Marks & Trust",
+      "Announcement Debate",
+      "Baraita: Witness Marks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah: Marks & Trust",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna itself about stating the lost item and the swindler, which is precisely what heading 0 ('Mishnah: Marks & Trust') describes in its prose.",
+      "second_heading": "Announcement Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 contain the Gemara debate between Rav Yehuda and Rav Nachman about what to announce (aveidata vs. gelima), including Rav Safra's resolution, which is exactly what heading 1 ('Announcement Debate') describes in its prose.",
+      "current_heading": "Announcement Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Baraita: Witness Marks",
+    "candidates": [
+      "Baraita: Witness Marks",
+      "Rav Papa Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about the historical evolution from simanim-based verification to requiring character witnesses due to proliferating swindlers, which matches precisely the prose in heading 0 ('Baraita: Witness Marks').",
+      "chosen_heading": "Baraita: Witness Marks",
+      "current_heading": "Baraita: Witness Marks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rav Papa Story",
+    "candidates": [
+      "Rav Papa Story",
+      "Work Animals Permitted",
+      "Sell Non-Work Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident about Rav Papa's father losing a donkey and the witnesses' testimony that the prose under 'Rav Papa Story' explicitly discusses.",
+      "chosen_heading": "Rav Papa Story",
+      "current_heading": "Rav Papa Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Sell Non-Work Animals",
+    "candidates": [
+      "Work Animals Permitted",
+      "Sell Non-Work Animals",
+      "12-Month Limit",
+      "Variable Time Limits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sell Non-Work Animals",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna and its dispute (Rabbi Tarfon vs Rabbi Akiva) about selling non-work animals and what to do with the proceeds, which exactly matches the 'Sell Non-Work Animals' prose.",
+      "second_heading": "12-Month Limit",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara opening the 12-month limit discussion (Rav Na\u1e25man/Shmuel) with a confirming baraita, which exactly matches the '12-Month Limit' prose.",
+      "current_heading": "Sell Non-Work Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Variable Time Limits",
+    "candidates": [
+      "12-Month Limit",
+      "Variable Time Limits",
+      "Mishnah: Use Rights",
+      "Guardian Status Debate",
+      "R. Yosef: Paid Guardian",
+      "Borrower Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items deal with the variable time limits for tending different found animals (calves, foals, geese, roosters), the contradictions between two baraitot on those periods, and their resolution \u2014 exactly what the 'Variable Time Limits' prose describes in detail.",
+      "chosen_heading": "Variable Time Limits",
+      "current_heading": "Variable Time Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Borrower Status",
+    "candidates": [
+      "Mishnah: Use Rights",
+      "Guardian Status Debate",
+      "R. Yosef: Paid Guardian",
+      "Borrower Status",
+      "Halacha: R. Tarfon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 10 items trace the Rav Yosef reinterpretation \u2014 shomer aveidah as shoel via the right to use money, the lefikach clauses of Rabbi Tarfon and Rabbi Akiva, and the avdu/ones clarification via Rabba \u2014 which is precisely what the 'Borrower Status' prose describes.",
+      "chosen_heading": "Borrower Status",
+      "current_heading": "Borrower Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Halacha: R. Tarfon",
+    "candidates": [
+      "Halacha: R. Tarfon",
+      "Abaye: Effort Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 0's prose discusses: Rav Yehuda citing Shmuel ruling like Rabbi Tarfon, and Rechava coming before Rav Yosef asking about orphans' funds and receiving that ruling in response.",
+      "chosen_heading": "Halacha: R. Tarfon",
+      "current_heading": "Halacha: R. Tarfon",
+      "moved": false
+    }
+  }
+]

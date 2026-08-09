@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rashbam Logic",
+    "candidates": [
+      "Yocheved Birth Story",
+      "Women's Wisdom",
+      "Different Orders",
+      "Yeshiva/Mesiba Rule",
+      "Significant Gap Req.",
+      "Rashbam Logic",
+      "Shkulot Hayu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the different orderings of Bnot Tzelofchad's names (by greatness/age vs. by wisdom) and derives Rabbi Ami's rule from this \u2014 exactly what the 'Different Orders' section's prose describes, before the Yeshiva/Mesiba Rule and Significant Gap sections take over for the derived rulings.",
+      "chosen_heading": "Different Orders",
+      "current_heading": "Rashbam Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Shkulot Hayu",
+    "candidates": [
+      "Rashbam Logic",
+      "Shkulot Hayu",
+      "Marriage Permission",
+      "Advice vs. Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states 'Bnot Tzelofchad shkulot hayu' and derives 'havayah achat l'chulan' from 'vatihyena,' which is precisely what the 'Shkulot Hayu' section's prose describes.",
+      "chosen_heading": "Shkulot Hayu",
+      "current_heading": "Shkulot Hayu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Advice vs. Restriction",
+    "candidates": [
+      "Marriage Permission",
+      "Advice vs. Restriction",
+      "Dor Sinai/Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces Rav Yehuda/Shmuel's teaching that the daughters of Zelophehad were permitted to marry from any tribe, which is the core claim described in the 'Marriage Permission' prose, even though the 'Advice vs. Restriction' section also discusses the same passage's resolution \u2014 the current placement at index 1 covers the explanation, but the passage itself (including both the permission and the eitza tovah explanation) is introduced under index 0's framing of the striking statement that they could marry freely.",
+      "chosen_heading": "Marriage Permission",
+      "current_heading": "Advice vs. Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Dor Sinai/Future",
+    "candidates": [
+      "Dor Sinai/Future",
+      "One Gen. Restriction",
+      "Shchutei Chutz"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Dor Sinai/Future",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the baraita's exposition of emor aleihem/ledoroteichem, the fathers/sons distinction, the bat yoreshet nachala example, and Rabba's objection with its resolution (levar miVnot Tzelofchad), all of which match candidate 0's prose description of the baraita and candidate 1's prose about the resolution.",
+      "second_heading": "Shchutei Chutz",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rava's derivation that 'zeh hadavar' limits the tribal-marriage restriction to that generation alone, which is precisely what candidate 2's prose discusses as the starting point of the shchutei chutz investigation.",
+      "current_heading": "Dor Sinai/Future",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Shchutei Chutz",
+    "candidates": [
+      "One Gen. Restriction",
+      "Shchutei Chutz",
+      "No Gezeira Shava",
+      "Zeh Hadavar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shchutei Chutz",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the challenge from shchutei chutz, the gezeira shava answer for nedarim, and the rejection of applying the same gezeira shava to daughters' inheritance \u2014 exactly the content described in candidates 'Shchutei Chutz' and 'No Gezeira Shava', but the entire chain flows as one continuous argument best housed under 'Shchutei Chutz' (candidate 1) which describes all three moves.",
+      "second_heading": "Zeh Hadavar",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the baraita elaborating the gezeira shava between shchutei chutz and nedarim regarding Aharon/his sons/all Israel and rashei hamatos, which is precisely what candidate 3 'Zeh Hadavar' describes.",
+      "current_heading": "Shchutei Chutz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Zeh Hadavar",
+    "candidates": [
+      "No Gezeira Shava",
+      "Zeh Hadavar",
+      "Three Hedyotot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses Rav A\u1e25a bar Ya'akov's teaching that the gezeira shava imports 'Aharon and his sons and all Israel' into nedarim to establish that dissolution of vows can be performed by three laymen (hedyotos), which is precisely what the 'Three Hedyotot' section's prose describes.",
+      "chosen_heading": "Three Hedyotot",
+      "current_heading": "Zeh Hadavar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Three Hedyotot",
+    "candidates": [
+      "Three Hedyotot",
+      "Rav Sheshet",
+      "Hafla'ah Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the objection from 'rashei hamatos' and its resolution via Rav \u1e24isda/Rabbi Yo\u1e25anan's teaching about a single expert (yachid mumche), which is explicitly discussed in the prose of 'Three Hedyotot' as the concluding element of that section's explanation.",
+      "chosen_heading": "Three Hedyotot",
+      "current_heading": "Three Hedyotot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Hafla'ah Concept",
+    "candidates": [
+      "Rav Sheshet",
+      "Hafla'ah Concept",
+      "Shammai/Hillel",
+      "Piv v'Libo",
+      "Temura Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheshet's statement that the gezeira shava linking rashei hamatos teaches she'eilah b'hekdesh, which is precisely what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Rav Sheshet",
+      "current_heading": "Hafla'ah Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Temura Example",
+    "candidates": [
+      "Shammai/Hillel",
+      "Piv v'Libo",
+      "Temura Example",
+      "No Hatara Hekdesh",
+      "Shechita Not Meliga"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly asks what Beit Shammai does with the 'zeh zeh' gezeira shava given that they reject she'eilah b'hekdesh, which is precisely what candidate 3 ('No Hatara Hekdesh') discusses.",
+      "chosen_heading": "No Hatara Hekdesh",
+      "current_heading": "Temura Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Shechita Not Meliga",
+    "candidates": [
+      "No Hatara Hekdesh",
+      "Shechita Not Meliga",
+      "Hafara Husband",
+      "Hatara Sage",
+      "Language Matters",
+      "Shabbat Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses what Beit Shammai derives from 'zeh hadavar' of shchutei chutz (liability for shechita but not melikah) and from 'zeh hadavar' of rashei hamatos (chacham matir vs. husband meifer), which is precisely what the 'Shechita Not Meliga' section's prose describes.",
+      "chosen_heading": "Shechita Not Meliga",
+      "current_heading": "Shechita Not Meliga",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Shabbat Exclusion",
+    "candidates": [
+      "Hafara Husband",
+      "Hatara Sage",
+      "Language Matters",
+      "Shabbat Exclusion",
+      "Mumchinim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the content described in the 'Shabbat Exclusion' prose: the baraita about vayedaber Moshe et moadei Hashem, Rabbi Yossi HaGlili's and Ben Azzai's statements, and Rabbi Yossi bar Nasan traveling to find Rav Sheshet to explain it \u2014 all of which the prose explicitly narrates.",
+      "chosen_heading": "Shabbat Exclusion",
+      "current_heading": "Shabbat Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Mumchinim",
+    "candidates": [
+      "Mumchinim",
+      "Resolved",
+      "Inherent Kedusha",
+      "Tosefet Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara exchange about Rav Sheshet's explanation that moadim require mumchin/kiddush beis din while Shabbat and hafarat nedarim do not, plus the objection from 'rashei hamatos' and its resolution \u2014 exactly what the 'Mumchinim' prose describes.",
+      "chosen_heading": "Mumchinim",
+      "current_heading": "Mumchinim",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Hekkesh Min Hahekkesh",
+    "candidates": [
+      "Me'akev Principle",
+      "Shina Lo Hakatuv",
+      "Learning Across Cases",
+      "Lemadim Lamad Milamad",
+      "Hekkesh Min Hahekkesh",
+      "Tzafon Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's statement of the 'lemadim lamad milamad' principle and its exception for kodshim, along with the tzafon/asham illustration showing why gezeirah shavah cannot build on a hekkesh \u2014 this is precisely the content described in candidate 3's prose about Rabbi Yochanan's foundational transitive derivation principle and its exceptions for kodshim.",
+      "chosen_heading": "Lemadim Lamad Milamad",
+      "current_heading": "Hekkesh Min Hahekkesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Tzafon Example",
+    "candidates": [
+      "Hekkesh Min Hahekkesh",
+      "Tzafon Example",
+      "Gezeirah Shavah Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the rejection of a proof about why tzafon must be written explicitly for the asham \u2014 specifically that the verbal analogy (binyan av or gezeirah shavah) from the chatas can be refuted because the chatas atones for karet-liable sins, which matches the Tzafon Example section's discussion of why the Torah had to state tzafon for the asham explicitly.",
+      "chosen_heading": "Tzafon Example",
+      "current_heading": "Tzafon Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Gezeirah Shavah Issue",
+    "candidates": [
+      "Tzafon Example",
+      "Gezeirah Shavah Issue",
+      "4x4 Matrix",
+      "Hekkesh \u2192 Kal Vachomer",
+      "Rabbi Yishmael Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the rejection of deriving tzafon for the asham via a gezeirah shavah (kodshei kodashim) built on a hekkesh, with the extra written instances of 'kodshei kodashim' preventing the logical refutation \u2014 directly matching the 'Gezeirah Shavah Issue' prose about why a gezeirah shavah cannot be built on a hekkesh.",
+      "chosen_heading": "Gezeirah Shavah Issue",
+      "current_heading": "Gezeirah Shavah Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Rabbi Yishmael Evidence",
+    "candidates": [
+      "4x4 Matrix",
+      "Hekkesh \u2192 Kal Vachomer",
+      "Rabbi Yishmael Evidence",
+      "Hekkesh \u2192 Binyan Av",
+      "Asham Tzafon Rule",
+      "Binyan Av Critique",
+      "Category Differences",
+      "Binyan Av Intrinsic Issue",
+      "Three-Way Paradigm",
+      "Pairwise Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together state the rule that a matter derived via hekkesh can then teach via kal vachomer, which is precisely what candidate 1 ('Hekkesh \u2192 Kal Vachomer') introduces, while candidate 2 ('Rabbi Yishmael Evidence') is the prose describing the proof \u2014 the passage belongs under the heading that states the rule being proven, not the proof section itself; however, since item 2 explicitly references the Tanna D'vei Rabbi Yishmael proof, candidate 2 is actually the better fit for the proof citation, but item 1 is the ruling statement that sets up that proof, making both items together best placed under candidate 1 as the opening claim before the evidence follows.",
+      "chosen_heading": "Hekkesh \u2192 Kal Vachomer",
+      "current_heading": "Rabbi Yishmael Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Pairwise Distinctions",
+    "candidates": [
+      "Hekkesh \u2192 Binyan Av",
+      "Asham Tzafon Rule",
+      "Binyan Av Critique",
+      "Category Differences",
+      "Binyan Av Intrinsic Issue",
+      "Three-Way Paradigm",
+      "Pairwise Distinctions",
+      "Todah from Ma'aser"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Asham Tzafon Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yirmiah's proof and the gemara's initial refutation (why not derive from olah?), matching heading 1 'Asham Tzafon Rule' and heading 2 'Binyan Av Critique' \u2014 but since item 1 is the proof attempt and item 2 is the immediate critique of that proof, they both belong under heading 1 which introduces the proof and its challenge.",
+      "second_heading": "Three-Way Paradigm",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 work through the two-source binyan av attempts and all pairwise distinctions, exactly matching heading 5 'Three-Way Paradigm' and heading 6 'Pairwise Distinctions' \u2014 item 3 introduces the two-source idea (heading 5's content) and items 4-6 work through each pairing (heading 6's content), but since item 3 is the setup for items 4-6, all belong under heading 5 as the gemara's exploration of the two-source paradigm.",
+      "current_heading": "Pairwise Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Todah from Ma'aser",
+    "candidates": [
+      "Pairwise Distinctions",
+      "Todah from Ma'aser",
+      "Sham Sham Connection",
+      "Rav Pappa Debate",
+      "Chulin Source Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the two-step derivation (shlamim via gezeirah shavah of 'sham sham', then todah via hekkesh) that section 2 'Sham Sham Connection' describes in detail, making it a clearly better match than the current placement under 'Todah from Ma'aser' which only covers the first step.",
+      "chosen_heading": "Sham Sham Connection",
+      "current_heading": "Todah from Ma'aser",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Chulin Source Issue",
+    "candidates": [
+      "Sham Sham Connection",
+      "Rav Pappa Debate",
+      "Chulin Source Issue",
+      "Restrictions Apply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra's challenge that ma'aser grain is merely chullin, which is precisely what the 'Chulin Source Issue' section's prose describes and analyzes.",
+      "chosen_heading": "Chulin Source Issue",
+      "current_heading": "Chulin Source Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Restrictions Apply",
+    "candidates": [
+      "Restrictions Apply",
+      "Source vs Application",
+      "Gezeirah Shavah Chain",
+      "Bread Types Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Ravina's question directly interrogates whether the restriction tracks the derived case (lamed) or the source (melamed) \u2014 the precise dispute between Rav Pappa and Mar Zutra that the 'Source vs Application' prose explicitly describes as embedded in this passage.",
+      "chosen_heading": "Source vs Application",
+      "current_heading": "Restrictions Apply",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Bread Types Case",
+    "candidates": [
+      "Source vs Application",
+      "Gezeirah Shavah Chain",
+      "Bread Types Case",
+      "Direct Source Challenge",
+      "Cutting Up Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of whether a gezeirah shavah can teach via another gezeirah shavah \u2014 Rami bar \u1e24ama's proof from the todah breads and Ravina's challenge to it \u2014 which is precisely what the 'Gezeirah Shavah Chain' heading introduces, not the 'Bread Types Case' heading which describes only the baraita's content without the framing question.",
+      "chosen_heading": "Gezeirah Shavah Chain",
+      "current_heading": "Bread Types Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Cutting Up Case",
+    "candidates": [
+      "Direct Source Challenge",
+      "Cutting Up Case",
+      "Gezeirah Shavah & Kal",
+      "Strength Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute Rava's alternative proof using the baraita about the par kohen mashiach and the Yom Kippur par, demonstrating gezeirah shavah built on gezeirah shavah \u2014 exactly what the 'Cutting Up Case' prose describes in detail.",
+      "chosen_heading": "Cutting Up Case",
+      "current_heading": "Cutting Up Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Strength Argument",
+    "candidates": [
+      "Gezeirah Shavah & Kal",
+      "Strength Argument",
+      "Conclusion",
+      "Gezeirah Shavah & Binyan",
+      "Kal Vachomer \u2192 Hekkesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the kal vachomer argument for gezeirah shavah\u2192kal vachomer, the objection based on rejecting Rav Pappa, and the alternative formulation \u2014 exactly matching the 'Strength Argument' prose which describes both the Rav Pappa-dependent version and the independent fallback argument using gezeirah shavah's ability to build on itself.",
+      "chosen_heading": "Strength Argument",
+      "current_heading": "Strength Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Kal Vachomer \u2192 Hekkesh",
+    "candidates": [
+      "Conclusion",
+      "Gezeirah Shavah & Binyan",
+      "Kal Vachomer \u2192 Hekkesh",
+      "Kal Vachomer & Gezeirah",
+      "Strength Comparison",
+      "Buildability Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whether a gezeirah shavah-derived matter can then teach via binyan av (paradigm), and the teiku conclusion matches exactly the prose in 'Gezeirah Shavah & Binyan' which describes this fourth combination ending in teiku.",
+      "chosen_heading": "Gezeirah Shavah & Binyan",
+      "current_heading": "Kal Vachomer \u2192 Hekkesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Buildability Logic",
+    "candidates": [
+      "Kal Vachomer & Gezeirah",
+      "Strength Comparison",
+      "Buildability Logic",
+      "Rav Pappa Dependency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the a fortiori argument for kal vachomer\u2192hekkesh using the comparison with gezeirah shavah's inability to build on hekkesh (Rabbi Yochanan) yet ability to support hekkesh as first step (Rav Pappa), and kal vachomer's demonstrated strength via Tanna D'vei Rabbi Yishmael \u2014 exactly the argument described in the 'Strength Comparison' prose.",
+      "chosen_heading": "Strength Comparison",
+      "current_heading": "Buildability Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Rav Pappa Dependency",
+    "candidates": [
+      "Buildability Logic",
+      "Rav Pappa Dependency",
+      "Kal Vachomer Followed",
+      "First Proof Attempt",
+      "Circularity Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the teiku conclusion when Rav Pappa's position is rejected, which matches exactly the 'Rav Pappa Dependency' section's prose about the argument collapsing without Rav Pappa and ending in teiku.",
+      "chosen_heading": "Rav Pappa Dependency",
+      "current_heading": "Rav Pappa Dependency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Circularity Problem",
+    "candidates": [
+      "Kal Vachomer Followed",
+      "First Proof Attempt",
+      "Circularity Problem",
+      "Non-Circular Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kal Vachomer Followed",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the Gemara's attempt to prove that kal vachomer can teach via gezeirah shavah and via kal vachomer respectively, matching the 'Kal Vachomer Followed' and 'First Proof Attempt' sections \u2014 but since both items together form the proof attempt discussed under candidate 0 (the kal vachomer followed by kal vachomer combination), they belong under candidate 0.",
+      "second_heading": "Circularity Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 3 ('ben beno shel kal vachomer') is the circularity objection that the Gemara raises against the proof attempt, which is precisely what candidate 2 'Circularity Problem' describes in its prose.",
+      "current_heading": "Circularity Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Non-Circular Proof",
+    "candidates": [
+      "Non-Circular Proof",
+      "Kal Vachomer \u2192 Binyan Av",
+      "Melikat Tereifah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly constructs the non-circular kal vachomer argument using hekkesh-cannot-learn-from-hekkesh and hekkesh-can-teach-kal-vachomer as premises, exactly matching the 'Non-Circular Proof' prose description.",
+      "chosen_heading": "Non-Circular Proof",
+      "current_heading": "Non-Circular Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Melikat Tereifah Case",
+    "candidates": [
+      "Kal Vachomer \u2192 Binyan Av",
+      "Melikat Tereifah Case",
+      "Behemah Comparison",
+      "Melikat Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the Gemara's question about whether a matter derived via kal vachomer can teach via binyan av, and Rabbi Yirmeya's 'Come and hear' introduction \u2014 this is precisely the content described in heading 0's prose, which says 'Rav Yirmiah introduces a proof from the laws of tum'ah of birds,' whereas heading 1's prose describes the case details that follow after this introductory question.",
+      "chosen_heading": "Kal Vachomer \u2192 Binyan Av",
+      "current_heading": "Melikat Tereifah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Melikat Application",
+    "candidates": [
+      "Behemah Comparison",
+      "Melikat Application",
+      "Chulin Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Meir's complete kal vachomer argument (from behemah to bird via shechitah, then extending to melikat), which is precisely what the 'Behemah Comparison' prose describes \u2014 the current placement under 'Melikat Application' captures only the second half of the argument.",
+      "chosen_heading": "Behemah Comparison",
+      "current_heading": "Melikat Application",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Five Rabid Dog Signs",
+    "candidates": [
+      "Greeting & Calendar",
+      "Daf Navigation",
+      "Mishnah Transition",
+      "Rabies Medical Facts",
+      "Five Rabid Dog Signs",
+      "Cause of Rabies",
+      "Witchcraft vs Spirit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers both the five signs of a rabid dog and the cause of rabies, and while it spans content of headings 4 and 5, the current placement under 'Five Rabid Dog Signs' is appropriate since heading 4's prose explicitly discusses this baraita and its content, and the cause question is a natural continuation within the same quoted passage.",
+      "chosen_heading": "Five Rabid Dog Signs",
+      "current_heading": "Five Rabid Dog Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Witchcraft vs Spirit",
+    "candidates": [
+      "Cause of Rabies",
+      "Witchcraft vs Spirit",
+      "Safety Protocols",
+      "Killing Method",
+      "Clothes Removal",
+      "Rav Huna Story",
+      "Hyena Leather Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mai beiniyu question, the l'miktelei b'davar hanizrak answer, and the supporting baraita with the Rav Huna story \u2014 are discussed together in the 'Witchcraft vs Spirit' section's prose, which explicitly covers the practical difference, the projectile-killing ruling, and the baraita confirming Shmuel, making the current placement correct.",
+      "chosen_heading": "Witchcraft vs Spirit",
+      "current_heading": "Witchcraft vs Spirit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Hyena Leather Remedy",
+    "candidates": [
+      "Safety Protocols",
+      "Killing Method",
+      "Clothes Removal",
+      "Rav Huna Story",
+      "Hyena Leather Remedy",
+      "Twelve-Month Protection",
+      "Golden Tube Story",
+      "Matya's Positions",
+      "Sages' Objection",
+      "Medical Authority",
+      "Rambam vs Geonim",
+      "Illness & Medicine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the hyena leather remedy with incantation and burial instructions that candidate 4 ('Hyena Leather Remedy') discusses in its prose, making the current placement correct.",
+      "chosen_heading": "Hyena Leather Remedy",
+      "current_heading": "Hyena Leather Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Illness & Medicine",
+    "candidates": [
+      "Twelve-Month Protection",
+      "Golden Tube Story",
+      "Matya's Positions",
+      "Sages' Objection",
+      "Medical Authority",
+      "Rambam vs Geonim",
+      "Illness & Medicine",
+      "Oath Dilemma",
+      "Oath Solution",
+      "Chilul Hashem",
+      "Remedy Options",
+      "Olive Pit Cure",
+      "Scurvy Causes",
+      "Scurvy Symptoms",
+      "Scurvy Progression",
+      "Throat Legitimacy",
+      "Debate Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Oath Dilemma",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the oath episode \u2014 Rabbi Yochanan swearing to the matron and then revealing the remedy publicly, plus the Gemara's resolution about the wording of the oath \u2014 which matches heading 7 ('Oath Dilemma') and 8 ('Oath Solution') but most precisely the combined oath narrative described under heading 7.",
+      "second_heading": "Remedy Options",
+      "second_confidence": "high",
+      "second_reason": "Item 3 lists the competing traditions about what medicine the matron prepared (Rav Acha, Rav Yeimar, Rav Ashi, and Abaye's Arab-advised olive pit cure), which matches exactly the prose of heading 10 ('Remedy Options') and 11 ('Olive Pit Cure').",
+      "current_heading": "Illness & Medicine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Debate Resolution",
+    "candidates": [
+      "Oath Dilemma",
+      "Oath Solution",
+      "Chilul Hashem",
+      "Remedy Options",
+      "Olive Pit Cure",
+      "Scurvy Causes",
+      "Scurvy Symptoms",
+      "Scurvy Progression",
+      "Throat Legitimacy",
+      "Debate Resolution",
+      "Baraita Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Scurvy Causes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the causes, symptoms, and the Shabbat treatment of tzefidna (including Rav Nachman bar Yitzchak's explanation that it begins in the mouth and ends in the intestines), which matches the 'Scurvy Causes' prose that discusses causes and symptom patterns \u2014 though it also bleeds into 'Scurvy Symptoms' and 'Scurvy Progression'; among all candidates, 'Scurvy Causes' (index 5) is the earliest section that begins this cluster, but since the passage covers causes AND symptoms AND progression together, the best single match covering the causes origin is index 5.",
+      "second_heading": "Throat Legitimacy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav \u1e24iyya bar Abba's question to Rabbi Yo\u1e25anan about whether he acted in accordance with Rabbi Matya ben \u1e24arash's ruling on throat ailments on Shabbat, which is precisely what the 'Throat Legitimacy' prose describes.",
+      "current_heading": "Debate Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Debate Resolution",
+      "Baraita Evidence",
+      "Mishnah Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of baraitot being introduced to identify which remedy the Chachamim concede to Matya ben Charash, culminating in the 'shema mina' conclusion about the throat medicine \u2014 exactly what the 'Baraita Evidence' prose describes.",
+      "chosen_heading": "Baraita Evidence",
+      "current_heading": "Baraita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Mishnah Structure",
+    "candidates": [
+      "Mishnah Structure",
+      "Life Overrides Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Ashi's proof from the Mishnah's structure \u2014 that the Rabbis' silence after Matya ben Charash's throat ruling indicates agreement \u2014 which is precisely what the 'Mishnah Structure' section's prose describes.",
+      "chosen_heading": "Mishnah Structure",
+      "current_heading": "Mishnah Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Life Overrides Shabbat",
+    "candidates": [
+      "Life Overrides Shabbat",
+      "Multi-Day Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the Mishnah states 'any doubt of life overrides Shabbat' and Rav Yehuda's teaching that even uncertainty regarding a future Shabbat suffices, which is precisely what the 'Life Overrides Shabbat' prose describes.",
+      "chosen_heading": "Life Overrides Shabbat",
+      "current_heading": "Life Overrides Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Multi-Day Treatment",
+    "candidates": [
+      "Multi-Day Treatment",
+      "Heated Water",
+      "All Health Needs",
+      "Immediacy Rule",
+      "No Delegation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Multi-Day Treatment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Gemara case about an eight-day treatment starting on Shabbat and the question of delaying to avoid two Shabbat violations, which is exactly what the 'Multi-Day Treatment' prose describes.",
+      "second_heading": "Heated Water",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about heating water for a sick person on Shabbat, which matches perfectly with the 'Heated Water' prose section that quotes 'mechammin chammin l'choleh b'Shabbat' and discusses treatment extending to the next Shabbat.",
+      "current_heading": "Multi-Day Treatment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "No Delegation",
+    "candidates": [
+      "Heated Water",
+      "All Health Needs",
+      "Immediacy Rule",
+      "No Delegation",
+      "Tosafot Rationale",
+      "Policy Message"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states that these acts must be done by gedolei Yisrael and not by gentiles or Samaritans, matching the 'No Delegation' section's prose about not delegating to non-Jews or minors but having Jewish adults act directly.",
+      "chosen_heading": "No Delegation",
+      "current_heading": "No Delegation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Policy Message",
+    "candidates": [
+      "Tosafot Rationale",
+      "Policy Message",
+      "Labor Stages",
+      "Dollar Test",
+      "Accidents Rule",
+      "Mishnah Position",
+      "HaMeiri View",
+      "Rav Moshe Approach",
+      "Hatzalah Practice",
+      "Lieberman Story",
+      "Opinion Hierarchy",
+      "Rosh on Women",
+      "Women Delegation",
+      "Praise for Zeal",
+      "Ocean Case",
+      "Well Case",
+      "Locked Room Case",
+      "Fire Case",
+      "Hesitation Analysis",
+      "Locked Room Urgency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "high",
+      "reason": "All three items together form the baraita about pikuach nefesh on Shabbat \u2014 the zealous one is praised, no permission from Beit Din needed, with the sea/pit/door/fire cases and the Gemara's necessity analysis \u2014 which the 'Praise for Zeal' prose explicitly introduces as the Tanu Rabanan passage about ha-zariz harei zeh meshubach and ein tzarich litol reshut mi-Beit Din.",
+      "chosen_heading": "Praise for Zeal",
+      "current_heading": "Policy Message",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Locked Room Urgency",
+    "candidates": [
+      "Labor Stages",
+      "Dollar Test",
+      "Accidents Rule",
+      "Mishnah Position",
+      "HaMeiri View",
+      "Rav Moshe Approach",
+      "Hatzalah Practice",
+      "Lieberman Story",
+      "Opinion Hierarchy",
+      "Rosh on Women",
+      "Women Delegation",
+      "Praise for Zeal",
+      "Ocean Case",
+      "Well Case",
+      "Locked Room Case",
+      "Fire Case",
+      "Hesitation Analysis",
+      "Locked Room Urgency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 17,
+      "confidence": "high",
+      "reason": "The passage directly discusses the locked room case and the argument that one could sit on the other side and amuse the child with nuts (amgozi), concluding tzericha \u2014 exactly what the 'Locked Room Urgency' prose describes.",
+      "chosen_heading": "Locked Room Urgency",
+      "current_heading": "Locked Room Urgency",
+      "moved": false
+    }
+  }
+]

@@ -82,8 +82,8 @@
           "timestamp": "13:07"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Testing the Positions: Vetch, Carobs, Gourds, and Carcasses",
@@ -121,7 +121,7 @@
           "timestamp": "29:00"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -223,7 +223,7 @@
           "timestamp": "48:26"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -497,5 +497,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "24:42",
+  "amud_b_micro_title": "Gourds Test",
+  "shiur_start_daf": 155,
+  "shiur_start_amud": "a"
 }

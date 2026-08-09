@@ -1,0 +1,322 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Source of Teaching",
+    "candidates": [
+      "Source of Teaching",
+      "Hierarchy of Deaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the source/derivation of the teaching that pidyon shevuyim is a mitzvah rabbah, which is exactly what the 'Source of Teaching' prose describes \u2014 Rava's question to Rabba bar Mari and the answer from Jeremiah 15:2 with Rabbi Yochanan's comment about the ascending severity of punishments.",
+      "chosen_heading": "Source of Teaching",
+      "current_heading": "Source of Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Hierarchy of Deaths",
+    "candidates": [
+      "Hierarchy of Deaths",
+      "Captivity Severity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the sword is worse than death, using both sevara and verse \u2014 exactly what the 'Hierarchy of Deaths' prose describes in detail.",
+      "chosen_heading": "Hierarchy of Deaths",
+      "current_heading": "Hierarchy of Deaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Captivity Severity",
+    "candidates": [
+      "Captivity Severity",
+      "Rambam's Teaching",
+      "Kuppah & Tamchui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why famine is worse than the sword and concludes that captivity is worst of all because it contains all forms of suffering \u2014 exactly the content the 'Captivity Severity' section prose addresses.",
+      "chosen_heading": "Captivity Severity",
+      "current_heading": "Captivity Severity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Kuppah & Tamchui",
+    "candidates": [
+      "Rambam's Teaching",
+      "Kuppah & Tamchui",
+      "Fund Reassignment",
+      "Community Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the kuppah and tamchui \u2014 their collection/distribution requirements, their frequency, their beneficiaries, and the permissibility of reassigning funds \u2014 which is precisely what the 'Kuppah & Tamchui' section's prose covers in detail.",
+      "chosen_heading": "Kuppah & Tamchui",
+      "current_heading": "Kuppah & Tamchui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Community Authority",
+    "candidates": [
+      "Fund Reassignment",
+      "Community Authority",
+      "Two Administrators",
+      "Coercion Ethics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the townspeople's authority to set measures, prices, and wages, and to impose fines \u2014 precisely what the 'Community Authority' section's prose analyzes in detail.",
+      "chosen_heading": "Community Authority",
+      "current_heading": "Community Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Coercion Ethics",
+    "candidates": [
+      "Two Administrators",
+      "Coercion Ethics",
+      "Butchers' Pact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 11 items cover the topics discussed under 'Two Administrators': the requirement of two for communal authority, the incident of two brothers appointed to the kuppah, the coercive power of charity collectors (seizing collateral), the resolution about rich vs. poor, the Daniel verse and its expositions about judges/charity collectors/teachers/sages, and the practical rules for charity collectors' conduct including separation, handling found coins, exchanging coins, and the single-purse stipulation \u2014 all of which are described in the 'Two Administrators' prose section, not just the 'Coercion Ethics' section where it currently sits.",
+      "chosen_heading": "Two Administrators",
+      "current_heading": "Coercion Ethics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Butchers' Pact",
+    "candidates": [
+      "Coercion Ethics",
+      "Butchers' Pact",
+      "Rava's Ruling",
+      "Adam Chashuv Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of the two butchers making their agreement and one tearing the other's hide, which is precisely what the 'Butchers' Pact' section prose describes.",
+      "chosen_heading": "Butchers' Pact",
+      "current_heading": "Butchers' Pact",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Adam Chashuv Role",
+    "candidates": [
+      "Rava's Ruling",
+      "Adam Chashuv Role",
+      "Trust Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly Rav Yeimar bar Shelamya's challenge to Rava and Rav Pappa's explanation \u2014 the precise content described in the 'Rava's Ruling' section prose, not the Ri Migash/Ramban analytical discussion in 'Adam Chashuv Role'.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Adam Chashuv Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Trust Paradox",
+    "candidates": [
+      "Adam Chashuv Role",
+      "Trust Paradox",
+      "Preliminary Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (ein mechashvin be'tzedakah im gabbei tzedakah) that the 'Trust Paradox' section's prose explicitly introduces and discusses, making it the clear home for this text.",
+      "chosen_heading": "Trust Paradox",
+      "current_heading": "Trust Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Preliminary Count",
+    "candidates": [
+      "Preliminary Count",
+      "Food Investigation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Elazar's teaching on binding up and counting money before handover to a trusted treasurer directly matches the prose in 'Preliminary Count,' which explicitly discusses this same teaching, the same verse, and the same principle of establishing clarity at the outset.",
+      "chosen_heading": "Preliminary Count",
+      "current_heading": "Preliminary Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Food Investigation",
+    "candidates": [
+      "Food Investigation",
+      "Clothing Check",
+      "Tannaitic Standard",
+      "Transient Support"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Food Investigation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Huna's position (examine for food, not clothing) with its sevara and verse derivation, matching heading 0 'Food Investigation' which describes exactly this ruling.",
+      "second_heading": "Clothing Check",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Yehuda's opposing position (examine for clothing, not food) plus the supporting baraita, matching heading 1 'Clothing Check' which describes Rav Yehuda's reversal and the baraita conclusion.",
+      "current_heading": "Food Investigation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Transient Support",
+    "candidates": [
+      "Clothing Check",
+      "Tannaitic Standard",
+      "Transient Support",
+      "Self-Sufficiency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the mishnah about transient poor persons receiving a loaf, lodging provisions, and three Shabbat meals, which is precisely what the 'Transient Support' section's prose discusses in detail.",
+      "chosen_heading": "Transient Support",
+      "current_heading": "Transient Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Self-Sufficiency",
+    "candidates": [
+      "Self-Sufficiency",
+      "Minimum Annual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the principle of door-to-door collection and communal obligation discussed in the 'Self-Sufficiency' section, which explicitly references this very Gemara story about Rav Pappa and Rav Sama.",
+      "chosen_heading": "Self-Sufficiency",
+      "current_heading": "Self-Sufficiency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Minimum Annual",
+    "candidates": [
+      "Minimum Annual",
+      "Mobilizers",
+      "Government Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the minimum annual third-of-a-shekel obligation and charity's equivalence to all mitzvot, which is precisely what the 'Minimum Annual' prose section addresses in detail.",
+      "chosen_heading": "Minimum Annual",
+      "current_heading": "Minimum Annual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Government Role",
+    "candidates": [
+      "Mobilizers",
+      "Government Role",
+      "Forced Charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mnemonic and Rabbi Elazar's teaching that causing others to give (me'aseh) is greater than giving directly, which is precisely what the 'Mobilizers' section discusses, including the same verse and the concept of matzdikei harabbim.",
+      "chosen_heading": "Mobilizers",
+      "current_heading": "Government Role",
+      "moved": true
+    }
+  }
+]

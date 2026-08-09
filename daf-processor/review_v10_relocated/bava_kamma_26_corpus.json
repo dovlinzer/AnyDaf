@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Pasuk Restriction",
+    "candidates": [
+      "R. Tarfon & Dayo",
+      "Shen/Regel in Reshut",
+      "Pasuk Restriction",
+      "Reverse Kal Vachomer",
+      "Yechetzun & Half",
+      "Murder Kal Vachomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Shen/Regel in Reshut",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the kal vachomer suggesting shen ve-regel should be liable in reshut ha-rabim and the pasuk rejections (u-vi'er bi-sdeh acher and ve-chatzu et kaspo), matching exactly the 'Shen/Regel in Reshut' and 'Pasuk Restriction' prose \u2014 and since items 1-2 belong under 'Shen/Regel in Reshut' and items 3-4 under 'Pasuk Restriction', the current placement at 'Pasuk Restriction' captures most but misses items 1-2; however the closest single heading for items 1-4 is 'Pasuk Restriction' (index 2) which describes both the kal vachomer and the pasuk responses.",
+      "second_heading": "Reverse Kal Vachomer",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 cover the reverse kal vachomer reducing shen ve-regel to chatzi nezek (rejected by yishalem), then the kal vachomer exempting keren in reshut ha-rabim (rejected by yechetzun), matching exactly the 'Reverse Kal Vachomer' and 'Yechetzun & Half' sections \u2014 but since items 5-6 fit 'Reverse Kal Vachomer' and items 7-8 fit 'Yechetzun & Half', splitting at item 6 would be more precise; however given only one split is allowed, index 3 ('Reverse Kal Vachomer') is the better anchor for items 5-8.",
+      "current_heading": "Pasuk Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Murder Kal Vachomer",
+    "candidates": [
+      "Reverse Kal Vachomer",
+      "Yechetzun & Half",
+      "Murder Kal Vachomer",
+      "Kofer Exclusion",
+      "Reverse Ox Kal",
+      "Arba'ah Devarim",
+      "Regel Kofer Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All four items form a continuous dialectical sequence about kal vachomer arguments comparing human and ox liability (kofer vs. arba'ah devarim), and the current heading 'Murder Kal Vachomer' captures the opening premise of this entire chain, even though the passage extends into the reverse inference and its refutation.",
+      "chosen_heading": "Murder Kal Vachomer",
+      "current_heading": "Murder Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Regel Kofer Query",
+    "candidates": [
+      "Kofer Exclusion",
+      "Reverse Ox Kal",
+      "Arba'ah Devarim",
+      "Regel Kofer Query",
+      "R. Tarfon Tam Kofer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute the dilemma about whether trampling (regel) that kills an infant in the injured party's domain incurs kofer, which is precisely what the 'Regel Kofer Query' prose describes.",
+      "chosen_heading": "Regel Kofer Query",
+      "current_heading": "Regel Kofer Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "R. Tarfon Tam Kofer",
+    "candidates": [
+      "R. Tarfon Tam Kofer",
+      "R. Yosei HaGalili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita stating Rabbi Tarfon's ruling that a tam or muad ox brought without permission pays full kofer, which is exactly what candidate 0's prose introduces and analyzes.",
+      "chosen_heading": "R. Tarfon Tam Kofer",
+      "current_heading": "R. Tarfon Tam Kofer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "R. Yosei HaGalili",
+    "candidates": [
+      "R. Yosei HaGalili",
+      "Nezek/Kofer Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's answer that Rabbi Tarfon derives full kofer for a tam from Rabbi Yosei HaGalili's ruling and the kal vachomer from regel, which is precisely what the prose under 'R. Yosei HaGalili' describes, including the point that regel must pay kofer in reshut ha-nizak for the comparison to be valid.",
+      "chosen_heading": "R. Yosei HaGalili",
+      "current_heading": "R. Yosei HaGalili",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Nezek/Kofer Gap",
+    "candidates": [
+      "Nezek/Kofer Gap",
+      "Regel Pays Kofer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items trace the gemara's attempt to build the kal vachomer from nezek of regel (items 1\u20134) and the ultimate failure of that approach due to counterexamples (eish, bor, keilim, keilim tmunim, adam), which is precisely what heading 0's prose describes; item 5's conclusion that the kal vachomer must rest on kofer de-regel is the closing line of that same argument and belongs with it.",
+      "chosen_heading": "Nezek/Kofer Gap",
+      "current_heading": "Nezek/Kofer Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Regel Pays Kofer",
+    "candidates": [
+      "Regel Pays Kofer",
+      "Mishnah Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Acha of Difti's argument to Ravina proving that kofer applies to regel, which is precisely what the 'Regel Pays Kofer' prose describes \u2014 the sharpening of the point that the kal vachomer must be derived from kofer de-regel, establishing that regel does pay kofer.",
+      "chosen_heading": "Regel Pays Kofer",
+      "current_heading": "Regel Pays Kofer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Mishnah Statement",
+    "candidates": [
+      "Mishnah Statement",
+      "Arba'ah Devarim Limit",
+      "Petza Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah stating adam muad le-olam, which is precisely what the 'Mishnah Statement' prose introduces and discusses.",
+      "second_heading": "Arba'ah Devarim Limit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara inference that blinding is analogous to breaking vessels, limiting the Mishnah's ruling to nezek only without arba'ah devarim, which is exactly what the 'Arba'ah Devarim Limit' prose describes.",
+      "current_heading": "Mishnah Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Petza Source",
+    "candidates": [
+      "Arba'ah Devarim Limit",
+      "Petza Source",
+      "Stone Unknown",
+      "Four Areas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the derivation of strict liability from 'petza tachat patza' and the dual teaching of that verse, which is precisely what the 'Petza Source' prose describes.",
+      "chosen_heading": "Petza Source",
+      "current_heading": "Petza Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Four Areas",
+    "candidates": [
+      "Stone Unknown",
+      "Four Areas",
+      "Stone Forgot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the legal domains (nezikin, arba'ah devarim, Shabbat, galut, and slave) for the case where the person was unaware the stone was in his lap \u2014 which is precisely what the 'Stone Unknown' prose describes, not the 'Four Areas' prose which merely summarizes the rulings without being the primary home of this text.",
+      "chosen_heading": "Stone Unknown",
+      "current_heading": "Four Areas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Stone Forgot",
+    "candidates": [
+      "Four Areas",
+      "Stone Forgot",
+      "Two/Four Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the case where one was initially aware of the stone but forgot it, then stood up causing it to fall \u2014 exactly the 'Stone Forgot' scenario discussed in that section's prose, including the same rulings on nezikin, arba'ah devarim, galut (with the bishgagah verse), Shabbat, and the Rabban Shimon ben Gamliel dispute.",
+      "chosen_heading": "Stone Forgot",
+      "current_heading": "Stone Forgot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Two/Four Case",
+    "candidates": [
+      "Two/Four Case",
+      "Four/Eight Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the intended-two-threw-four case, which is precisely what heading 0 ('Two/Four Case') discusses in its prose.",
+      "chosen_heading": "Two/Four Case",
+      "current_heading": "Two/Four Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Four/Eight Shabbat",
+    "candidates": [
+      "Four/Eight Shabbat",
+      "Already Broken"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the four/eight cubit throw case across damages, arba'ah devarim, Shabbat, galut, and slave \u2014 exactly what the prose under 'Four/Eight Shabbat' describes in detail.",
+      "chosen_heading": "Four/Eight Shabbat",
+      "current_heading": "Four/Eight Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Already Broken",
+    "candidates": [
+      "Already Broken",
+      "Pillows Grama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of breaking a vessel mid-air with a stick and the 'mana tevira tevar' reasoning, which is precisely what the 'Already Broken' section's prose discusses.",
+      "chosen_heading": "Already Broken",
+      "current_heading": "Already Broken",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Pillows Grama",
+    "candidates": [
+      "Pillows Grama",
+      "Who Is Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabba's case of throwing a vessel from a roof with cushions below, which is precisely what the 'Pillows Grama' section discusses.",
+      "chosen_heading": "Pillows Grama",
+      "current_heading": "Pillows Grama",
+      "moved": false
+    }
+  }
+]

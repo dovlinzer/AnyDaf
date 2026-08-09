@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah: Omer, Two Loaves",
+    "candidates": [
+      "Mishnah: Omer, Two Loaves",
+      "R' Yose: Omer from Chutz",
+      "Chadash De'oraita Link",
+      "Diaspora Grain Ideology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states that regarding Eretz Yisrael grain there is no dispute among the previously cited Tannaim, which is exactly the transitional statement the prose of heading 0 describes as framing the move to the Eretz Yisrael question.",
+      "chosen_heading": "Mishnah: Omer, Two Loaves",
+      "current_heading": "Mishnah: Omer, Two Loaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Diaspora Grain Ideology",
+    "candidates": [
+      "R' Yose: Omer from Chutz",
+      "Chadash De'oraita Link",
+      "Diaspora Grain Ideology",
+      "Chadash Leniency Argument",
+      "New Grain vs. Land Debate",
+      "Shomrei Sefichin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yose b'Rabbi Yehuda's baraita (item 1) and the Gemara's explanation of its internal logic via the '\u05de\u05de\u05d5\u05e9\u05d1\u05d5\u05ea\u05d9\u05db\u05dd' derivation (item 2), which is precisely what candidate 0 ('R' Yose: Omer from Chutz') describes in its prose, including the exact phrase \u05db\u05de\u05d0\u05df? \u05d3\u05dc\u05d0 \u05db\u05d4\u05d0\u05d9 \u05ea\u05e0\u05d0 and the explanation of 'ki tavou el ha'aretz.'",
+      "chosen_heading": "R' Yose: Omer from Chutz",
+      "current_heading": "Diaspora Grain Ideology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Shomrei Sefichin",
+    "candidates": [
+      "Chadash Leniency Argument",
+      "New Grain vs. Land Debate",
+      "Shomrei Sefichin",
+      "Burning Shemittah Grain",
+      "Karmel: Must Be Fresh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the Mishnah in Shekalim about guardians of sefichin being paid from the Temple treasury chamber, which is precisely what the 'Shomrei Sefichin' section's prose describes.",
+      "chosen_heading": "Shomrei Sefichin",
+      "current_heading": "Shomrei Sefichin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Karmel: Must Be Fresh",
+    "candidates": [
+      "Burning Shemittah Grain",
+      "Karmel: Must Be Fresh",
+      "Yochanan vs. Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous exchange between Rav \u1e24isda and Rami bar \u1e24ama about burning Shemittah grain for the Omer, which is precisely what the 'Burning Shemittah Grain' prose describes \u2014 including Rav \u1e24isda's rhetorical response about \u05dc\u05d3\u05d5\u05e8\u05d5\u05ea\u05d9\u05db\u05dd and the subsequent proposals about using last year's grain, making that section a clearly better match than the current 'Karmel: Must Be Fresh' heading.",
+      "chosen_heading": "Burning Shemittah Grain",
+      "current_heading": "Karmel: Must Be Fresh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Yochanan vs. Elazar",
+    "candidates": [
+      "Karmel: Must Be Fresh",
+      "Yochanan vs. Elazar",
+      "Rabba: Bikkurim Source",
+      "Omer from Barley: Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records the amoraic dispute between Rabbi Yo\u1e25anan (deriving from \u05db\u05e8\u05de\u05dc) and Rabbi Elazar (deriving from \u05e8\u05d0\u05e9\u05d9\u05ea \u05e7\u05e6\u05d9\u05e8\u05da \u05d5\u05dc\u05d0 \u05e1\u05d5\u05e3 \u05e7\u05e6\u05d9\u05e8\u05da), which is precisely what the 'Yochanan vs. Elazar' section's prose describes.",
+      "chosen_heading": "Yochanan vs. Elazar",
+      "current_heading": "Yochanan vs. Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Omer from Barley: Proofs",
+    "candidates": [
+      "Rabba: Bikkurim Source",
+      "Omer from Barley: Proofs",
+      "Tiyuvta: Conflicting Text",
+      "Omer Overrides Shemittah",
+      "Bikkurim: Seven Species"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the baraita proving the Omer comes from barley (via Rabbi Eliezer's gezera shava on 'aviv' and Rabbi Akiva's symmetry/bikkurim arguments), which is precisely what candidate 1 ('Omer from Barley: Proofs') discusses in detail, including all three proofs and the tiyuvta conclusion.",
+      "chosen_heading": "Omer from Barley: Proofs",
+      "current_heading": "Omer from Barley: Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Bikkurim: Seven Species",
+    "candidates": [
+      "Tiyuvta: Conflicting Text",
+      "Omer Overrides Shemittah",
+      "Bikkurim: Seven Species",
+      "Muvchar Menachot",
+      "Ulla: Non-Choice Bikkurim",
+      "Shtei HaLechem: Korban",
+      "Shtei HaLechem Precedence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah from Bikkurim about bringing first fruits only from the seven species and not from mountain dates or valley produce, which is precisely what candidate 2 ('Bikkurim: Seven Species') discusses in its prose.",
+      "chosen_heading": "Bikkurim: Seven Species",
+      "current_heading": "Bikkurim: Seven Species",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Shtei HaLechem Precedence",
+    "candidates": [
+      "Muvchar Menachot",
+      "Ulla: Non-Choice Bikkurim",
+      "Shtei HaLechem: Korban",
+      "Shtei HaLechem Precedence",
+      "Shavuot: Chag HaBikkurim",
+      "Boat/Roof: Not Bikkurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with Rabbah stating a halakha and Rabbi A\u1e25a bar Abba raising an objection from a baraita about the Shtei HaLechem as 'korban reshit,' which is precisely what candidate 2 ('Shtei HaLechem: Korban') describes \u2014 Rabbah recounting Ulla's ruling when challenged by Rav Acha bar Abba from a Braita about the Shtei HaLechem as a korban of firsts that must precede all other Menachot and Bikkurim.",
+      "chosen_heading": "Shtei HaLechem: Korban",
+      "current_heading": "Shtei HaLechem Precedence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Boat/Roof: Not Bikkurim",
+    "candidates": [
+      "Shavuot: Chag HaBikkurim",
+      "Boat/Roof: Not Bikkurim",
+      "Kol Tahor: Bikkurim",
+      "Two Pesukim Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the challenge from the baraita about rooftop/ship produce and Rabba's resolution that the latter clause refers to meal offerings (Menachot), which is precisely what the 'Boat/Roof: Not Bikkurim' section's prose describes.",
+      "chosen_heading": "Boat/Roof: Not Bikkurim",
+      "current_heading": "Boat/Roof: Not Bikkurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Two Pesukim Resolution",
+    "candidates": [
+      "Kol Tahor: Bikkurim",
+      "Two Pesukim Resolution",
+      "Lo Kidesh vs. Kidesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items (Rav Adda's objection, Rav Mesharshiyya's two-verses resolution, and Rav Ashi's Lachmei Todah resolution) are precisely the content described in the 'Two Pesukim Resolution' prose, which covers all three speakers and their positions on the \u05db\u05dc \u05d8\u05d4\u05d5\u05e8 \u05d1\u05d1\u05d9\u05ea\u05da difficulty.",
+      "chosen_heading": "Two Pesukim Resolution",
+      "current_heading": "Two Pesukim Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Lo Kidesh vs. Kidesh",
+    "candidates": [
+      "Lo Kidesh vs. Kidesh",
+      "Dream Defense: Mei-reis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Yo\u1e25anan vs. Reish Lakish dispute about lo kidesh/kidesh and the kachu\u0448 analogy, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Lo Kidesh vs. Kidesh",
+      "current_heading": "Lo Kidesh vs. Kidesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Dream Defense: Mei-reis",
+    "candidates": [
+      "Dream Defense: Mei-reis",
+      "Reish Lakish: Shiv'at"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's dream-based defense of Rabbi Yochanan using the merei'shit/mei'artzecha derashos, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Dream Defense: Mei-reis",
+      "current_heading": "Dream Defense: Mei-reis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Reish Lakish: Shiv'at",
+    "candidates": [
+      "Reish Lakish: Shiv'at",
+      "Mevi v'Kore vs. Eino Kore",
+      "Cave vs. Building Roof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss Reish Lakish's use of 'artzecha' for the verbal analogy to the seven species and his rejection of Rabbi Yochanan's reading of 'me'artzecha,' which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Reish Lakish: Shiv'at",
+      "current_heading": "Reish Lakish: Shiv'at",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Cave vs. Building Roof",
+    "candidates": [
+      "Mevi v'Kore vs. Eino Kore",
+      "Cave vs. Building Roof",
+      "Nakuv vs. Not Nakuv Pot",
+      "Pottery Boat: Hull Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 presents the two contradictory baraitot (mevi v'kore vs. mevi v'eino kore), and Item 2 begins the Gemara's reconciliation specifically for Reish Lakish's position \u2014 both belong under heading 0 ('Mevi v'Kore vs. Eino Kore'), which explicitly describes these two baraitot and the Gemara's effort to show how Reish Lakish reconciles them; the cave-vs-building-roof resolution in heading 1 is the continuation of that reconciliation, not where the passage introducing the contradiction should sit.",
+      "chosen_heading": "Mevi v'Kore vs. Eino Kore",
+      "current_heading": "Cave vs. Building Roof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Pottery Boat: Hull Types",
+    "candidates": [
+      "Nakuv vs. Not Nakuv Pot",
+      "Pottery Boat: Hull Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Nakuv vs. Not Nakuv Pot",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 resolve contradictions about ruins and flowerpots respectively, and candidate 0's prose explicitly discusses the nakuv/not-nakuv flowerpot distinction that item 2 addresses, while also naturally preceding the boat discussion.",
+      "second_heading": "Pottery Boat: Hull Types",
+      "second_confidence": "high",
+      "second_reason": "Item 3 resolves the contradiction between the two boat baraitot by distinguishing wooden vs. earthenware ships, which is precisely what candidate 1's prose elaborates upon in detail.",
+      "current_heading": "Pottery Boat: Hull Types",
+      "moved": true
+    }
+  }
+]

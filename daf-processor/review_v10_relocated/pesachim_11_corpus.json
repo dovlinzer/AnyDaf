@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Three Times for Bedika",
+    "candidates": [
+      "Course Intro",
+      "Gezeira Framework",
+      "Three Times for Bedika",
+      "When Bedika Ends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items constitute the Mishna itself (10b) that heading 2 'Three Times for Bedika' explicitly describes \u2014 Rabbi Yehuda's three times, the Chachamim's sequential formulation, and the ruling about concealing leftover chametz \u2014 exactly matching the prose of that section.",
+      "chosen_heading": "Three Times for Bedika",
+      "current_heading": "Three Times for Bedika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "When Bedika Ends",
+    "candidates": [
+      "When Bedika Ends",
+      "Dilma Ati L'Meichal",
+      "Chadash Counterexample"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Gemara discussion about what Rabbi Yehuda means by three times for bedika \u2014 rejecting the three-biblical-obligations theory, concluding they are sequential opportunities, and arriving at the gezeirah dilma ati l'meichal rationale \u2014 which is precisely what the 'When Bedika Ends' prose describes.",
+      "chosen_heading": "When Bedika Ends",
+      "current_heading": "When Bedika Ends",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Chadash Counterexample",
+    "candidates": [
+      "Dilma Ati L'Meichal",
+      "Chadash Counterexample",
+      "Shinuy in Harvesting",
+      "Abaye's Challenge",
+      "Shinuy Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the chadash counterexample unit: item 1 raises the contradiction from the Menachot mishna about markets filled with flour and toasted grain, and item 2 completes it with Rabbi Meir/Rabbi Yehuda's dispute and Rava's resolution \u2014 exactly what candidate 1's prose describes as the content of the 'Chadash Counterexample' section.",
+      "chosen_heading": "Chadash Counterexample",
+      "current_heading": "Chadash Counterexample",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Shinuy Resolved",
+    "candidates": [
+      "Shinuy in Harvesting",
+      "Abaye's Challenge",
+      "Shinuy Resolved",
+      "Ella Hadetnan Kashya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's challenge about grinding and sifting followed by the Gemara's resolution that shinuyim were employed at each stage (hand mill and inverted sifter), which is precisely what 'Shinuy Resolved' describes.",
+      "chosen_heading": "Shinuy Resolved",
+      "current_heading": "Shinuy Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Ella Hadetnan Kashya",
+    "candidates": [
+      "Ella Hadetnan Kashya",
+      "Abaye: Badil Minei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the difficulty from the mishna about harvesting beit hashlachim/valleys established as Rabbi Yehuda's view without any shinuy, which is precisely what heading 0's prose describes as the challenge that demolishes Rava's shinuy-based framework.",
+      "chosen_heading": "Ella Hadetnan Kashya",
+      "current_heading": "Ella Hadetnan Kashya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Abaye: Badil Minei",
+    "candidates": [
+      "Abaye: Badil Minei",
+      "Technical Non-Edibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's chadash/chametz badil minei distinction, Rava's challenge about the Rabbanan contradiction, and Rava's resolution (hu atzmo mechazer alav le-sorfo) \u2014 are explicitly discussed together in the prose under 'Abaye: Badil Minei', which covers exactly this chain of argumentation.",
+      "chosen_heading": "Abaye: Badil Minei",
+      "current_heading": "Abaye: Badil Minei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Technical Non-Edibility",
+    "candidates": [
+      "Technical Non-Edibility",
+      "Beduta Hi Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's initial statement proposing that flour and toasted grain are not edible, which is precisely what the 'Technical Non-Edibility' section describes as Rav Ashi's approach.",
+      "chosen_heading": "Technical Non-Edibility",
+      "current_heading": "Technical Non-Edibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Beduta Hi Rejection",
+    "candidates": [
+      "Beduta Hi Rejection",
+      "Lo Badil Minei Question",
+      "Shfoferet Shel Beitza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's rejection of Rav Ashi's position using the 'beduta hi' formula, which is precisely what the prose of candidate 0 describes in detail, including the specific arguments about 'mei'ikara v'ad kali' and the failed rescue via Rava's shinuy argument.",
+      "chosen_heading": "Beduta Hi Rejection",
+      "current_heading": "Beduta Hi Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Shfoferet Shel Beitza",
+    "candidates": [
+      "Lo Badil Minei Question",
+      "Shfoferet Shel Beitza",
+      "Chumra d'Shabbat",
+      "Bucket Rope Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single question-and-answer unit: Item 1 raises the challenge ('does Rabbi Yehuda always decree when lo badil minei?'), Item 2 presents the counterexample from the shfoferet mishna, and Item 3 gives the resolution (chumra d'Shabbat) \u2014 this entire dialectical unit is the content described under heading 0 ('Lo Badil Minei Question'), which explicitly describes the question being tested about Rabbi Yehuda's rule being exceptionless, whereas the current placement under 'Shfoferet Shel Beitza' only covers the counterexample mishna itself.",
+      "chosen_heading": "Lo Badil Minei Question",
+      "current_heading": "Shfoferet Shel Beitza",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Bucket Rope Dispute",
+    "candidates": [
+      "Chumra d'Shabbat",
+      "Bucket Rope Dispute",
+      "Shemen vs. Aniva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the bucket rope dispute (the rope being severed, the aniva vs. kesher distinction, and Rabbi Yehuda's alternative ruling with punda/pesikya), which is precisely the content described in the 'Bucket Rope Dispute' section's prose.",
+      "chosen_heading": "Bucket Rope Dispute",
+      "current_heading": "Bucket Rope Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Shemen vs. Aniva",
+    "candidates": [
+      "Shemen vs. Aniva",
+      "Bechor Bloodletting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the contradictions between Rabbi Yehuda's statements and the Rabbanan's statements regarding oil-feeder and bucket-rope cases, and their resolutions \u2014 exactly what the 'Shemen vs. Aniva' prose discusses in detail.",
+      "chosen_heading": "Shemen vs. Aniva",
+      "current_heading": "Shemen vs. Aniva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Bechor Bloodletting",
+    "candidates": [
+      "Bechor Bloodletting",
+      "Adam Bahul al Mamono",
+      "Chachamim Pragmatism",
+      "Combing Methods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Combing Methods",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the weaver's rope gezeirah and the bow/knot distinction, which belongs under the rope/knot topic preceding the bechor discussion, not under the bechor bloodletting section.",
+      "second_heading": "Bechor Bloodletting",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 form a continuous unit covering the bechor bloodletting baraita, Rabbi Yehuda vs. Chachamim dispute, and the adam bahul al mamono resolution, which matches the 'Bechor Bloodletting' section's prose perfectly.",
+      "current_heading": "Bechor Bloodletting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Combing Methods",
+    "candidates": [
+      "Adam Bahul al Mamono",
+      "Chachamim Pragmatism",
+      "Combing Methods",
+      "Comparative Gezeirot",
+      "Lechem vs. Kidur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous challenge-and-resolution unit about combing animals on Yom Tov and the principle of adam bahul al mamono, which is precisely what the 'Combing Methods' section's prose describes and resolves.",
+      "chosen_heading": "Combing Methods",
+      "current_heading": "Combing Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Lechem vs. Kidur",
+    "candidates": [
+      "Comparative Gezeirot",
+      "Lechem vs. Kidur",
+      "Abaye's Synthesis",
+      "Multiple Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question and answer about why Rabbi Yehuda decrees regarding chametz but not kartsuf, resolved by 'lechem b'lechem michlaf, kidor b'kartsuf lo michlaf' \u2014 exactly the content the 'Lechem vs. Kidur' prose section discusses.",
+      "chosen_heading": "Lechem vs. Kidur",
+      "current_heading": "Lechem vs. Kidur",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Wrong Time Cases",
+    "candidates": [
+      "Opening & Parallels",
+      "Kemitzah Technique",
+      "Pigul Intro",
+      "Wrong Place Cases",
+      "Wrong Time Cases",
+      "Pigul Definition",
+      "Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the full mishna that introduces the pigul topic by contrasting chutz limkomo (pasul, no kareit) with chutz lizmano (pigul, kareit), which is precisely what the 'Pigul Intro' prose describes as the fundamental distinction the mishna establishes.",
+      "chosen_heading": "Pigul Intro",
+      "current_heading": "Wrong Time Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Requirement",
+    "candidates": [
+      "Pigul Definition",
+      "Requirement",
+      "Pigul Success"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the general principle (ze haklal) distinguishing chutz limkomo from chutz lizmano across the four avodos, which is precisely what the 'Pigul Definition' prose discusses, including the four avodos, the requirement to direct thought at the appropriate object, and the pasul/kareit distinction.",
+      "chosen_heading": "Pigul Definition",
+      "current_heading": "Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Pigul Success",
+    "candidates": [
+      "Requirement",
+      "Pigul Success",
+      "Pigul Fails",
+      "Full-Portion Mix"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pigul Success",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the cases of 'karav hamatir k'mitzvato' (item 1) and the first set of 'lo karav hamatir k'mitzvato' cases involving chutz limkomo (item 2), matching the prose of headings 1 and 2 respectively, but item 1 clearly belongs under 'Pigul Success' and item 2 starts the 'Pigul Fails' section.",
+      "second_heading": "Pigul Fails",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses minchat chotei and minchat kanaot done shelo lishma combined with chutz lizmano, which the 'Pigul Fails' prose explicitly describes as a case of lo karav hamatir k'mitzvato alongside the chutz limkomo examples.",
+      "current_heading": "Pigul Success",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Full-Portion Mix",
+    "candidates": [
+      "Pigul Fails",
+      "Full-Portion Mix",
+      "Half-Portion Mix",
+      "R. Yehuda's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the compound-thought cases of k'zayis bachutz/k'zayis lemachar in both orderings and the half-portion variants, which is precisely what the 'Full-Portion Mix' prose discusses \u2014 and the half-portion cases are included in the same mishna passage, making the current placement correct.",
+      "chosen_heading": "Full-Portion Mix",
+      "current_heading": "Full-Portion Mix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "R. Yehuda's Principle",
+    "candidates": [
+      "Half-Portion Mix",
+      "R. Yehuda's Principle",
+      "Sages' Position",
+      "Question Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's 'ze haklal' principle about the sequence of pigul vs. chutz limkomo thoughts, which is precisely what heading 1 ('R. Yehuda's Principle') discusses in its prose.",
+      "chosen_heading": "R. Yehuda's Principle",
+      "current_heading": "R. Yehuda's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Question Setup",
+    "candidates": [
+      "Sages' Position",
+      "Question Setup",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening dilemma questions about whether burning the handful affects piggul status and me'ilah status for chaser shirayim, which is precisely what the 'Question Setup' prose describes as the two formally separate questions united by the deeper conceptual issue of the nature of the prohibition.",
+      "chosen_heading": "Question Setup",
+      "current_heading": "Question Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Rav Huna",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Huna's ruling distinguishing yotzei (external invalidity) from chisaron (intrinsic deficiency), which is precisely what the 'Rav Huna' prose section describes.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement contrasting yotzei (outside) with chaser (inside), which is precisely what heading 0's prose discusses in detail, including the exact Aramaic phrases and the logical argument about physical location.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Rava's Reading",
+      "Abaye's Reading",
+      "R. Eliezer Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rava's proof from Rabbi \u1e24iyya's baraita \u2014 exactly the argument described in the 'Rava's Reading' prose \u2014 showing why Rabbi \u1e24iyya omitted 'or an olive-bulk' and concluding that haktarah is effective for piggul even when shirayim are lacking.",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Rava's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "R. Eliezer Context",
+    "candidates": [
+      "Abaye's Reading",
+      "R. Eliezer Context",
+      "Consistency Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's statement ('Abaye said to Rava: No...') introducing the Rabbi Elazar argument, which belongs under the 'Abaye's Reading' heading that describes exactly this \u2014 Abaye offering his alternative reading via Rabbi Eliezer, with the subsequent heading 'R. Eliezer Context' covering the explanation/implications of that cited mishna rather than the citation itself.",
+      "chosen_heading": "Abaye's Reading",
+      "current_heading": "R. Eliezer Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Consistency Logic",
+    "candidates": [
+      "R. Eliezer Context",
+      "Consistency Logic",
+      "Lechem HaPanim",
+      "Chaser Worse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the continuous Gemara discussion about Abaye's consistency logic, the challenge regarding levonah, and the resolution via minchat chotei confirmed by Rav Dimi \u2014 exactly the content described in the 'Consistency Logic' prose.",
+      "chosen_heading": "Consistency Logic",
+      "current_heading": "Consistency Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Chaser Worse",
+    "candidates": [
+      "Lechem HaPanim",
+      "Chaser Worse",
+      "Abaye Responds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's retraction and the baraita about lechem hapanim, which is precisely what heading 0 ('Lechem HaPanim') describes, while heading 1 discusses the inference Rava draws from that baraita \u2014 a subsequent step in the argument.",
+      "chosen_heading": "Lechem HaPanim",
+      "current_heading": "Chaser Worse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Abaye Responds",
+    "candidates": [
+      "Chaser Worse",
+      "Abaye Responds",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Abaye's response to Rava \u2014 his challenge (items 1-2), his explanation (item 3), and his conclusion (item 4) \u2014 which perfectly matches the 'Abaye Responds' prose describing Abaye's rebuttal and its implications.",
+      "chosen_heading": "Abaye Responds",
+      "current_heading": "Abaye Responds",
+      "moved": false
+    }
+  }
+]

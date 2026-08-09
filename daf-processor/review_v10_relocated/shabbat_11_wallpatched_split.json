@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Lot & Sodom",
+    "candidates": [
+      "Recently Settled Cities",
+      "Lot & Sodom",
+      "Synagogue Height",
+      "Mata Mechasya",
+      "Gov't Complexity",
+      "Ishmael/Nations",
+      "Chaveirim/Scholars",
+      "Scholars/Vulnerable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lot & Sodom",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the twenty-six years calculation derived from Genesis 14:4-5, which the prose under 'Lot & Sodom' explicitly discusses as the derivation of Sedom's 26 years of peace.",
+      "second_heading": "Synagogue Height",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the entirely new ruling about synagogue roof heights, which is precisely what the 'Synagogue Height' section's prose discusses, including the same proof-text from Ezra and the qualification about poles/towers.",
+      "current_heading": "Lot & Sodom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Scholars/Vulnerable",
+    "candidates": [
+      "Synagogue Height",
+      "Mata Mechasya",
+      "Gov't Complexity",
+      "Ishmael/Nations",
+      "Chaveirim/Scholars",
+      "Scholars/Vulnerable",
+      "Sicknesses/Pains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers the full chain from Ishmael through stranger, \u1e24abar, Torah scholar, and orphan/widow, which corresponds to where the chain begins \u2014 under 'Ishmael/Nations' \u2014 and the prose there explicitly discusses all these comparisons including the chaveirim and talmid chacham references, making it the best single home for the complete quoted text.",
+      "chosen_heading": "Ishmael/Nations",
+      "current_heading": "Scholars/Vulnerable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Sicknesses/Pains",
+    "candidates": [
+      "Scholars/Vulnerable",
+      "Sicknesses/Pains",
+      "Evil Wife",
+      "Kings' Hearts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists all four comparative rankings (intestinal illness, heart pain, headache, evil wife) and the current placement under 'Sicknesses/Pains' covers the first three, which is where this combined text sits before the essay separates out the evil wife topic under its own heading.",
+      "chosen_heading": "Sicknesses/Pains",
+      "current_heading": "Sicknesses/Pains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Kings' Hearts",
+    "candidates": [
+      "Evil Wife",
+      "Kings' Hearts",
+      "Same Day Fast",
+      "Shabbat Fast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the statement about seas as ink and the incomprehensibility of governmental authority, along with Rav Mesharshiya's proof-text from Proverbs 25:3, which is precisely what the 'Kings' Hearts' section prose describes and elaborates upon.",
+      "chosen_heading": "Kings' Hearts",
+      "current_heading": "Kings' Hearts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shabbat Fast",
+    "candidates": [
+      "Same Day Fast",
+      "Shabbat Fast",
+      "Borrowed Fasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 the fire/chaff analogy, Rav \u1e24isda's 'same day' qualification, and Rav Yosef's Shabbat ruling \u2014 and candidate 0's prose explicitly covers all three, making it the natural home for the entire quoted passage rather than splitting it across headings 0 and 1.",
+      "chosen_heading": "Same Day Fast",
+      "current_heading": "Shabbat Fast",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Borrowed Fasts",
+    "candidates": [
+      "Shabbat Fast",
+      "Borrowed Fasts",
+      "Before Mincha",
+      "Interruption Rules",
+      "Torah Scholars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Yehoshua declining to eat because he is fasting, being asked about Rav Yehuda's ruling on borrowing fasts, and explaining it is a dream-fast that cannot be deferred \u2014 is precisely what the 'Borrowed Fasts' prose discusses in detail.",
+      "chosen_heading": "Borrowed Fasts",
+      "current_heading": "Borrowed Fasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Torah Scholars",
+    "candidates": [
+      "Before Mincha",
+      "Interruption Rules",
+      "Torah Scholars",
+      "Learning/Shema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's resolution that the second clause refers to Torah scholars, the baraita about chaverim interrupting for Shema but not tefilla, and Rabbi Yochanan's caveat about Rabbi Shimon ben Yochai \u2014 all of which precisely match the 'Torah Scholars' section's prose.",
+      "chosen_heading": "Torah Scholars",
+      "current_heading": "Torah Scholars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Learning/Shema",
+    "candidates": [
+      "Learning/Shema",
+      "Learning vs. Doing",
+      "Craftsman Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about not interrupting for Shema during intercalation of the year and Rabbi Elazar bar Tzadok's testimony about Yavne, which is precisely what the prose in section 0 ('Learning/Shema') describes and analyzes.",
+      "chosen_heading": "Learning/Shema",
+      "current_heading": "Learning/Shema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Craftsman Tools",
+    "candidates": [
+      "Learning vs. Doing",
+      "Craftsman Tools",
+      "Delousing",
+      "Candlelight Reading",
+      "Zavim Separated",
+      "Leaning Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna that introduces the tailor's needle, scribe's quill, delousing, candlelight reading, and zav/zava, which the 'Craftsman Tools' prose explicitly describes as the present Mishnah combining both themes of hotza'ah and Erev Shabbat activities \u2014 making it the natural home for the full Mishna text before the essay breaks it into sub-sections.",
+      "chosen_heading": "Craftsman Tools",
+      "current_heading": "Craftsman Tools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Leaning Mishna",
+    "candidates": [
+      "Delousing",
+      "Candlelight Reading",
+      "Zavim Separated",
+      "Leaning Mishna",
+      "Gezeirah Issue",
+      "Wine Vat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah from Eruvin about standing in one domain and drinking from another, which is precisely what the 'Leaning Mishna' section's prose discusses in detail.",
+      "chosen_heading": "Leaning Mishna",
+      "current_heading": "Leaning Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Wine Vat",
+    "candidates": [
+      "Gezeirah Issue",
+      "Wine Vat",
+      "Craftspeople Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the wine press clause, the karmelit dilemma between Abaye and Rava, Abaye's proof from 've-chen be-gas', and Rava/Rav Sheshet's rebuttal that 've-chen be-gas' refers to ma'asrot \u2014 are precisely the content described in the 'Wine Vat' section's prose.",
+      "chosen_heading": "Wine Vat",
+      "current_heading": "Wine Vat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Craftspeople Tools",
+    "candidates": [
+      "Craftspeople Tools",
+      "Zav Pad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the tailor's needle, the gezeira l'gezeira question, and the Rabbi Meir/Rabbi Yehuda dispute about craftspeople carrying in their professional manner \u2014 exactly what the 'Craftspeople Tools' prose describes in detail.",
+      "chosen_heading": "Craftspeople Tools",
+      "current_heading": "Craftspeople Tools",
+      "moved": false
+    }
+  }
+]

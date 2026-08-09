@@ -1,6 +1,7 @@
-# Bava Batra 109 — Daf Yomi Shiur
-
+[DAF:108b]
 ## Perek 8 Overview
+
+
 
 ### Perek Focus
 
@@ -14,11 +15,9 @@ What makes this *perek* particularly notable is its sustained focus on the *pesu
 
 ## Father's Role
 
-### Tragic Opening
 
-> **Hebrew/Aramaic:** וּמַאי דְּרָשָׁא? דְּתַנְיָא: ״שְׁאֵרוֹ״ – זֶה הָאָב; מְלַמֵּד שֶׁהָאָב קוֹדֶם לָאַחִין. יָכוֹל יְהֵא קוֹדֶם לַבֵּן? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם.
->
-> **Translation:** **And what** is the **derivation? As it is taught** in a *baraita* concerning the verse: "And if his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall inherit it" (Numbers 27:11): **"His kinsman"; this** is referring to **the father,** and the Torah **teaches that the father precedes the brothers** of the deceased in inheriting from him. One **might** have thought that the father of the deceased **should precede the son** of the deceased in inheriting from him; **the verse** therefore **states: "Next [*hakkarov*]** to him," teaching that the **closer [*karov*]** one is to the deceased, the **earlier** one is in the order of inheritance, and a son of the deceased is considered to be a closer relative to the deceased than the father of the deceased. (Bava Batra 108b)
+
+### Tragic Opening
 
 The *Mishnah* opens with the observation that a father both inherits and bequeaths. It is worth pausing on the human reality this implies: for a father to inherit from his son means that his son predeceased him, God forbid — one of the deepest tragedies a person can experience. That is a striking way to open a *perek*.
 
@@ -34,6 +33,8 @@ Two distinct questions thus present themselves. First, from where do we derive t
 
 ## Numbers 27 Pesukim
 
+
+
 ### Bnot Tzelofchad
 
 We have the explicit laws of inheritance in the *Torah* only because of the self-advocacy of *benot Tzelofchad*. Their petition — that they should not lose their father's portion simply because he had no sons — prompted the *Torah* to set forth the entire framework of *halachot* of inheritance. It is worth appreciating that an entire *perek* of the *Torah* owes its existence to the initiative of these women who insisted on their rightful place within even a patriarchal system.
@@ -44,7 +45,7 @@ The *pesukim* in *Bamidbar* 27 lay out the following order. If a man dies leavin
 
 ### Ve'avarta Language
 
-A detail of the *pesukim* will carry enormous weight in the *Gemara's* analysis: the *Torah* uses two different verbs depending on to whom the inheritance is being transferred. When speaking about relatives other than daughters, the *Torah* uses the verb *u-netatem* — you shall give. But when speaking about daughters, it uses *ve'avarta* and *ve'ahavartem* — you shall transfer over.
+A detail of the *pesukim* will carry enormous weight in the *Gemara*'s analysis: the *Torah* uses two different verbs depending on to whom the inheritance is being transferred. When speaking about relatives other than daughters, the *Torah* uses the verb *u-netatem* — you shall give. But when speaking about daughters, it uses *ve'avarta* and *ve'ahavartem* — you shall transfer over.
 
 ### Tribe Transfer
 
@@ -54,13 +55,15 @@ This distinction is not accidental. *Rebbi* will later develop a *drasha* from t
 
 ## Closeness Principle
 
+
+
 ### Father's Slot
 
 With the order of the *pesukim* before us — sons, daughters, brothers, uncles, and then *she'ero ha-karov elav* — the question presents itself: if we are going to insert the father into this hierarchy, where does he naturally belong? The answer that leaps out from a straightforward reading is: before the uncles. A man's father is clearly a closer relative to him than his father's brother. So if we follow the principle that the closer relative comes first, the obvious insertion point is between brothers and uncles — with father at position four and paternal uncles at position five.
 
 ### Father Before Brother
 
-But the *Gemara* is not satisfied with that reading. It will assert something far more striking: the father belongs not between brothers and uncles, but between daughters and brothers. Sons and daughters inherit first; then the father; then brothers. That is a significant rearrangement of what one would expect from the plain sense of the *pesukim*, and the *Gemara* must work hard to justify it.
+But the *Gemara* is not satisfied with that reading. It will assert something far more striking: the father belongs not between brothers and uncles, but between daughters and brothers. Sons and daughters inherit first; then the father; then brothers. That is a significant rearrangement of what one would expect from the plain sense of the *pesukim*, and the *Gemara* must work hard to justify it. The *Gemara*'s claim, in other words, is not merely that the father has a place in the hierarchy — which would be uncontroversial — but that against the plain reading of the *pesukim*, the father is a closer relative than the brother, and must therefore be inserted ahead of him. This is the central question the *Gemara* takes up today: not only to assert that the father inherits, and not only to affirm that inheritance follows degree of relationship, but to defend this particular and perhaps surprising placement, earlier in the order than a straightforward reading of the text would suggest. Once that placement is secured, moreover, it will turn out to have far-reaching consequences for how the entire hierarchy is derived — a principle the *Gemara* will develop shortly.
 
 ### Mishmash Mechanism
 
@@ -70,9 +73,13 @@ Once the father is inserted before the brothers, a beautiful and far-reaching pr
 
 The principle, once grasped, is surprisingly simple: the inheritance always flows first to children — sons before daughters — and if there are no surviving children, then up to the father, and then back down through his children. If a person dies leaving no sons or daughters, and no surviving descendants of sons or daughters, the estate goes to the father. If the father is already deceased, it is as though the father had inherited and died, so it passes to the father's children — the deceased's brothers and, if no brothers, sisters. If no brothers or sisters survive, we move up again to the grandfather, and down through his line. Theoretically, one could wind up with an inheritance passing to a very distant surviving descendant — a great-grandnephew, say — because the chain of ascent and descent eventually reaches someone who is alive. Even a granddaughter of a son takes precedence over a daughter at the same generational level, because within each tier the descendants of a closer relative are exhausted before moving to the next.
 
+It is also worth noting what this system is explicitly not doing: it is not asking who was emotionally close to the deceased, or who the deceased would have wanted to receive the estate. The concept of *shuda dedayani* — the view that a court may award property based on a judge's assessment of the deceased's own relational preferences — is a separate and contested principle entirely. *She'ero*, flesh, is defined by blood, not by sentiment or the closeness of a lived relationship. A brother the deceased never knew still inherits before an intimate friend who was, by every human measure, far closer.
+
 ---
 
 ## She'ero & Hakkarov
+
+
 
 ### She'ero=Father
 
@@ -88,10 +95,6 @@ The more interesting question is whether the father might be inserted between so
 
 ### Daughter Continuation
 
-> **Hebrew/Aramaic:** כֵּיוָן דִּלְעִנְיַן יִבּוּם – בֵּן וּבַת כִּי הֲדָדֵי נִינְהוּ; לְעִנְיַן נַחֲלָה נָמֵי, בֵּן וּבַת כִּי הֲדָדֵי נִינְהוּ.
->
-> **Translation:** **Since with regard to the matter of levirate marriage a son and a daughter are equivalent,** as levirate marriage is not performed if the deceased had either a son or a daughter, it stands to reason that **with regard to the matter of inheritance as well, a son and a daughter are equivalent** in that the father does not precede the daughter. (Bava Batra 109a)
-
 Here the *Gemara* makes a striking move. The rule that a brother performs *yibbum* only when the deceased left no son is stated in the *Torah* as *uven ein lo* — he has no son. *Chazal* rule, however, that even if the deceased left only a daughter, the obligation of *yibbum* does not apply, because the daughter is considered a continuation of her father. This ruling is itself a *chiddush* — the plain sense of the *pasuk* speaks of a son, and one might have thought that only a son satisfies the condition. Yet *Chazal* extended it to daughters as well, treating them as genuine continuations of the person.
 
 ### Family Structure
@@ -102,19 +105,47 @@ This *chiddush* has direct consequences for the inheritance hierarchy. The *Gema
 
 ## Father Before Uncle
 
+
+
 ### Placement Objection
 
-> **Hebrew/Aramaic:** וְאֵימָא: ״שְׁאֵרוֹ״ – זֶה הָאָב, מְלַמֵּד שֶׁהָאָב קוֹדֵם לַאֲחֵי הָאָב. יָכוֹל יַקְדִּים לָאַחִין? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם!
->
-> **Translation:** The Gemara suggests an alternative derivation: Why should the father of the deceased inherit before the brothers of the deceased? **Say** that he should inherit only before his own brothers by interpreting the verse as follows: **"His kinsman"** (Numbers 27:11), **this** is referring to **the father,** and the Torah **teaches that the father precedes the father's brothers** in inheriting from the deceased. One **might** have thought that the father of the deceased **should precede the brothers** of the deceased in inheriting from him. **The verse states: "Next [*hakkarov*]** to him," teaching that the **closer [*karov*]** one is to the deceased, the **earlier** one is in the order of inheritance. (Bava Batra 109a)
 
 Even granting that the father cannot displace daughters, one might still object: why not simply insert the father in the slot that logic obviously dictates — before the uncles, but after the brothers? The *pesukim* list brothers before uncles; the father is clearly closer than his own brothers; so let the order be sons, daughters, brothers, father, uncles. Why does the *Gemara* insist on moving the father all the way up to before the brothers?
 
+The *Gemara* pushes on precisely this point: *ve'eima she'ero ze ha'av, melamed she'av kodem l'achei ha'av* — perhaps "his relative" refers to the father, teaching that the father precedes the father's brothers. Why not simply accept that modest claim and leave it there? But then the question becomes: *yakhol yakdim l'achim?* — could one think the father might actually precede the brothers as well? After all, a brother does *yibum*, while a father famously does not — and the principle of *karov karov kodem*, the closer one comes first, is precisely what is driving this entire discussion. If the brother is considered closer than the father for purposes of *yibum*, then *halacha* itself is telling us that the brother has a stronger claim to represent the deceased's family continuity than the father does. It is worth pausing on how striking this is: the father-son relationship is, in any intuitive sense, among the most fundamental human bonds, yet the *Gemara* treats the brother as the more structurally central figure when it comes to continuing the deceased's family unit. The story of *Yehuda veTamar* is instructive here — the *Ramban* notes that in the ancient world, *yibum* was not yet restricted to the brother, and indeed it was *Yehuda* himself, the father-in-law, who ultimately fulfilled that role when his sons failed to do so. The very fact that such an arrangement required explicit explanation in that narrative, and that the Torah later confined *yibum* to the brother, is itself evidence that the *halacha* made a deliberate structural choice: the brother, not the father, is the one who stands as the natural continuation of the deceased's position. That is the evidence that the brother is closer, and if closeness governs, then the brother genuinely does precede the father in the inheritance order — a question the *Gemara* will resolve directly in the passage that follows.
+
+[DAF:109a]
 ### Logical Derivation
 
-> **Hebrew/Aramaic:** אַחֵי הָאָב לָא צְרִיכִי קְרָא; אַחֵי הָאָב מִכֹּחַ מַאן קָא אָתוּ – מִכֹּחַ אָב; קָאֵי אָב, קָא יָרְתִי אַחֵי הָאָב?!
->
-> **Translation:** **A verse is not necessary** to teach that the father of the deceased inherits before **the father's brothers,** for the following reason: **By whose virtue do the father's brothers come** to inherit from the deceased? **By virtue** of the **father,** as their right to inherit is a result of their being brothers of the father of the deceased. Could it be that while the **father is still alive, his brothers should inherit?** (Bava Batra 109a)
+> **Hebrew/Aramaic:** וּמַאי דְּרָשָׁא? דְּתַנְיָא: ״שְׁאֵרוֹ״ – זֶה הָאָב; מְלַמֵּד שֶׁהָאָב קוֹדֶם לָאַחִין. יָכוֹל יְהֵא קוֹדֶם לַבֵּן? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם.
+> **Translation:** **And what** is the **derivation? As it is taught** in a *baraita* concerning the verse: “And if his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall inherit it” (Numbers 27:11): **“His kinsman”; this** is referring to **the father,** and the Torah **teaches that the father precedes the brothers** of the deceased in inheriting from him. One **might** have thought that the father of the deceased **should precede the son** of the deceased in inheriting from him; **the verse** therefore **states: “Next [*hakkarov*]** to him,” teaching that the **closer [*karov*]** one is to the deceased, the **earlier** one is in the order of inheritance, and a son of the deceased is considered to be a closer relative to the deceased than the father of the deceased.
+
+> **Hebrew/Aramaic:** וּמָה רָאִיתָ לְרַבּוֹת אֶת הַבֵּן, וּלְהוֹצִיא אֶת הָאָח? מְרַבֶּה אֲנִי אֶת הַבֵּן – שֶׁכֵּן קָם תַּחַת אָבִיו לִיעִדָה וְלִשְׂדֵה אֲחוּזָּה.
+> **Translation:** The Gemara asks: **And what did you see to include the son** as the closer relative than the father **and to exclude the brother?** The Gemara answers: **I include the son, as he stands in place of his father to designate** a Hebrew maidservant as a wife for himself, which a brother cannot do. **And** similarly, he stands in place of his father **with regard to an ancestral field.** If a son redeems a field consecrated by his father, it is considered as though the father himself redeemed it and the field returns to the family in the Jubilee Year. By contrast, if the brother of the one who consecrated it redeems the field, it does not return to the family (see Leviticus 27:16–21).
+
+> **Hebrew/Aramaic:** אַדְּרַבָּה! מְרַבֶּה אֲנִי אֶת הָאָח, שֶׁכֵּן קָם תַּחַת אָחִיו לְיִבּוּם! כְּלוּם יֵשׁ יִבּוּם – אֶלָּא בְּמָקוֹם שֶׁאֵין בֵּן, הָא בְּמָקוֹם שֶׁיֵּשׁ בֵּן – אֵין יִבּוּם.
+> **Translation:** The Gemara asks: **On the contrary, I** should **include the brother** as the closer relative, **as he stands in his brother’s place with regard to levirate marriage,** and a son does not. The Gemara answers: This is not a valid claim, as **is there levirate marriage except in a case where there is no son? In a case where there is a son, there is no levirate marriage.** This indicates that a son stands in place of the deceased before a brother even with regard to levirate marriage.
+
+> **Hebrew/Aramaic:** טַעְמָא דְּאִיכָּא הַאי פִּירְכָא, הָא לָאו הָכִי – הֲוָה אָמֵינָא אָח עֲדִיף? תִּיפּוֹק לֵיהּ
+> **Translation:** The Gemara comments: **The reason** that a son is considered to be a closer relative than a brother **is** specifically **due to this refutation,** that where there is a son there is no levirate marriage. This indicates that **without this** refutation **I would say** that **a brother is superior** to a son in terms of how close a relative he is. The Gemara therefore asks: Why not **derive** that a son is closer to the deceased than a brother
+
+> **Hebrew/Aramaic:** דְּהָכָא תַּרְתֵּי, וְהָכָא חֲדָא!
+> **Translation:** from the fact **that here,** there are **two** examples of the superiority of a son, designation and an ancestral field, **and here,** there is only **one** demonstration of the superiority of a brother, levirate marriage?
+
+> **Hebrew/Aramaic:** שְׂדֵה אֲחוּזָּה גּוּפַהּ, מֵהַאי טַעְמָא הוּא; דְּקָא קַיְימָא לֵיהּ לְתַנָּא – כְּלוּם יֵשׁ יִבּוּם אֶלָּא בְּמָקוֹם שֶׁאֵין בֵּן, הָא יֵשׁ בֵּן אֵין יִבּוּם.
+> **Translation:** The Gemara answers: With regard to **an ancestral field itself, the *tanna* establishes his** ruling **from this** same **reason: Is there levirate marriage except in a case where there is no son? In a case where there is a son, there is no levirate marriage.** The determination that the redemption of the ancestral field by a son is in place of the redemption of the field by the father, whereas the redemption of the field by a brother is not, is based on the reasoning that the *halakha* of levirate marriage is not an indication that a brother is a closer relative than a son. Therefore, the *halakha* of an ancestral field cannot be regarded as a second example of the son’s superiority, as it stems from the first example, that of levirate marriage.
+
+> **Hebrew/Aramaic:** אֵימָא: ״שְׁאֵרוֹ״ – זֶה הָאָב, מְלַמֵּד שֶׁהָאָב קוֹדֵם לַבַּת. יָכוֹל יַקְדִּים לַבֵּן? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם!
+> **Translation:** The Gemara suggests an alternative derivation: Why should the father of the deceased inherit before only the brothers? **Say** that he should inherit before the daughter of the deceased as well by interpreting the verse as follows: **“His kinsman”** (Numbers 27:11), **this** is referring to **the father,** and the Torah **teaches that the father precedes the daughter** of the deceased in inheriting from him. One **might** have thought that the father of the deceased **should precede the son** of the deceased in inheriting from him. **The verse** therefore **states: “Next [*hakkarov*]** to him,” teaching that the **closer [*karov*]** one is to the deceased, the **earlier** one is in the order of inheritance.
+
+> **Hebrew/Aramaic:** כֵּיוָן דִּלְעִנְיַן יִבּוּם – בֵּן וּבַת כִּי הֲדָדֵי נִינְהוּ; לְעִנְיַן נַחֲלָה נָמֵי, בֵּן וּבַת כִּי הֲדָדֵי נִינְהוּ.
+> **Translation:** This suggestion is rejected: **Since with regard to the matter of levirate marriage a son and a daughter are equivalent,** as levirate marriage is not performed if the deceased had either a son or a daughter, it stands to reason that **with regard to the matter of inheritance as well, a son and a daughter are equivalent** in that the father does not precede the daughter.
+
+> **Hebrew/Aramaic:** וְאֵימָא: ״שְׁאֵרוֹ״ – זֶה הָאָב, מְלַמֵּד שֶׁהָאָב קוֹדֵם לַאֲחֵי הָאָב. יָכוֹל יַקְדִּים לָאַחִין? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם!
+> **Translation:** The Gemara suggests an alternative derivation: Why should the father of the deceased inherit before the brothers of the deceased? **Say** that he should inherit only before his own brothers by interpreting the verse as follows: **“His kinsman”** ( Numbers 27:11), **this** is referring to **the father,** and the Torah **teaches that the father precedes the father’s brothers** in inheriting from the deceased. One **might** have thought that the father of the deceased **should precede the brothers** of the deceased in inheriting from him. **The verse states: “Next [*hakkarov*]** to him,” teaching that the **closer [*karov*]** one is to the deceased, the **earlier** one is in the order of inheritance.
+
+> **Hebrew/Aramaic:** אַחֵי הָאָב לָא צְרִיכִי קְרָא; אַחֵי הָאָב מִכֹּחַ מַאן קָא אָתוּ – מִכֹּחַ אָב; קָאֵי אָב, קָא יָרְתִי אַחֵי הָאָב?!
+> **Translation:** The Gemara responds: **A verse is not necessary** to teach that the father of the deceased inherits before **the father’s brothers,** for the following reason: **By whose virtue do the father’s brothers come** to inherit from the deceased? **By virtue** of the **father,** as their right to inherit is a result of their being brothers of the father of the deceased. Could it be that while the **father is still alive, his brothers should inherit?** The Gemara therefore concludes that the father precedes the brothers of the deceased.
 
 The *Gemara's* response is elegant. *Achei ha-av lo tzrichi kra* — you do not need a special *pasuk* to tell you that the father comes before his own brothers. That is obvious. The *father's* brothers receive the inheritance only *mikoach av* — through their relationship to the father. Could one possibly imagine that the father's brothers would inherit while the father himself is still alive? Of course not. If the father is alive, he takes before his brothers — that requires no derivation whatsoever.
 
@@ -124,9 +155,8 @@ And precisely because it is so obvious that the father precedes his brothers, no
 
 ### Textual Indicator
 
-> **Hebrew/Aramaic:** וְהָא קְרָאֵי לָאו הָכִי כְּתִיבִי – דִּכְתִיב: ״וְאִם אֵין אַחִים לְאָבִיו וְגוֹ׳״! קְרָאֵי שֶׁלֹּא כְּסִדְרָן כְּתִיבִי.
->
-> **Translation:** The Gemara challenges: **But the verses are not written that way, as it is written:** "And if he has no brothers, then you shall give his inheritance to his father's brothers" (Numbers 27:10), and only later is it written: **"And if his father has no brothers,** then you shall give his inheritance to his kinsman who is next to him" (Numbers 27:11), indicating that the father, whose right to inherit is derived from the term "kinsman," inherits only after the brothers of the deceased and his own brothers. The Gemara explains: The **verses are not written in order,** since as explained earlier, it is not reasonable that the father's brothers inherit before the father. Therefore, it must be that the inheritance of the father is not written in its proper place, and he may inherit even before the brothers of the deceased. (Bava Batra 109a)
+> **Hebrew/Aramaic:** וְהָא קְרָאֵי לָאו הָכִי כְּתִיבִי – דִּכְתִיב: ״וְאִם אֵין אַחִים לְאָבִיו וְגוֹ׳״! קְרָאֵי שֶׁלֹּא כְּסִדְרָן כְּתִיבִי.
+> **Translation:** The Gemara challenges: **But the verses are not written that way, as it is written:** “And if he has no brothers, then you shall give his inheritance to his father’s brothers” (Numbers 27:10), and only later is it written: **“And if his father has no brothers,** then you shall give his inheritance to his kinsman who is next to him” (Numbers 27:11), indicating that the father, whose right to inherit is derived from the term “kinsman,” inherits only after the brothers of the deceased and his own brothers. The Gemara explains: The **verses are not written in order,** since as explained earlier, it is not reasonable that the father’s brothers inherit before the father. Therefore, it must be that the inheritance of the father is not written in its proper place, and he may inherit even before the brothers of the deceased.
 
 But the *Torah* does use a special indicator — *she'ero ha-karov elav* — to insert the father into the hierarchy. Since that indicator is doing real work, it must be communicating something that would *not* have been obvious without it. The only placement that qualifies — the one that genuinely requires a *pasuk* to establish — is the father's precedence over the *brothers*, not merely over the uncles. The *pasuk* is therefore teaching us that the father comes before the brothers, even though one might logically have expected the brother to come first. That is the *chiddush* the *pasuk* is communicating.
 
@@ -134,11 +164,18 @@ But the *Torah* does use a special indicator — *she'ero ha-karov elav* — to 
 
 ## Ve'avarta Derivation
 
+
+
 ### Ve'avarta Drasha
 
-> **Hebrew/Aramaic:** וְהַאי תַּנָּא מַיְיתֵי לַהּ מֵהָכָא – דְּתַנְיָא: אֶת זוֹ דָּרַשׁ רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי: ״אִישׁ כִּי יָמוּת וּבֵן אֵין לוֹ וְגוֹ׳״ – בִּמְקוֹם בַּת אַתָּה מַעֲבִיר נַחֲלָה מִן הָאָב, וְאִי אַתָּה מַעֲבִיר נַחֲלָה מִן הָאָב בִּמְקוֹם אַחִין.
->
-> **Translation:** The Gemara records an additional derivation for the *halakha* that the father precedes the brothers of the deceased. **And this *tanna* cites it from here, as it is taught** in a *baraita*: **Rabbi Yishmael, son of Rabbi Yosei, taught this** *halakha*: It is written: **"If a man dies, and has no son,** then you shall pass his inheritance to his daughter" (Numbers 27:8). In the rest of the passage the verse employs the phrase "and you shall give." It is only in this verse that it employs the phrase "and you shall pass." Based on this, Rabbi Yishmael teaches that **in a case** where there is **a daughter, you pass an inheritance** to her **from** one who appears to have precedence, namely, **the father, and** by inference, **you do not pass** the **inheritance from the father in a case** where there are **brothers** of the deceased. (Bava Batra 109a)
+> **Hebrew/Aramaic:** וְהַאי תַּנָּא מַיְיתֵי לַהּ מֵהָכָא – דְּתַנְיָא: אֶת זוֹ דָּרַשׁ רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי: ״אִישׁ כִּי יָמוּת וּבֵן אֵין לוֹ וְגוֹ׳״ – בִּמְקוֹם בַּת אַתָּה מַעֲבִיר נַחֲלָה מִן הָאָב, וְאִי אַתָּה מַעֲבִיר נַחֲלָה מִן הָאָב בִּמְקוֹם אַחִין.
+> **Translation:** § The Gemara records an additional derivation for the *halakha* that the father precedes the brothers of the deceased. **And this *tanna* cites it from here, as it is taught** in a *baraita*: **Rabbi Yishmael, son of Rabbi Yosei, taught this** *halakha*: It is written: **“If a man dies, and has no son,** then you shall pass his inheritance to his daughter” (Numbers 27:8). In the rest of the passage the verse employs the phrase “and you shall give.” It is only in this verse that it employs the phrase “and you shall pass.” Based on this, Rabbi Yishmael teaches that **in a case** where there is **a daughter, you pass an inheritance** to her **from** one who appears to have precedence, namely, **the father, and** by inference, **you do not pass** the **inheritance from the father in a case** where there are **brothers** of the deceased.
+
+> **Hebrew/Aramaic:** וְאֵימָא: בִּמְקוֹם בַּת אַתָּה מַעֲבִיר נַחֲלָה מִן הָאַחִין,
+> **Translation:** The Gemara asks: **But** why not **say** that **in a case** where there is **a daughter, you pass** the **inheritance** to her **from the brothers,**
+
+> **Hebrew/Aramaic:** וְאִי אַתָּה מַעֲבִיר נַחֲלָה מִן הָאָב אֲפִילּוּ בִּמְקוֹם בַּת! אִם כֵּן, לָא נִכְתּוֹב רַחֲמָנָא ״וְהַעֲבַרְתֶּם״!
+> **Translation:** **but you do not pass an inheritance from the father even in a case** where there is **a daughter,** so that the father precedes the daughter in the order of inheritance? The Gemara answers: **If so, the Merciful One would not write: “Then you shall pass** the inheritance to his daughter” (Numbers 27:8). This indicates that the logical order of inheritance is being overridden, as the fact that the daughter precedes the brothers of the deceased is due to her being a closer relative of his. It is obvious that the Torah intends that she precede even the father.
 
 A second *tanna* derives the same conclusion — that the father precedes the brothers — from a different *pasuk*. *Rabbi Yishmael berabi Yosei* focuses on the word *ve'ha'avartem* in the verse *ish ki yamut uven ein lo ve'ha'avartem et nachalato le-vito*. The word *ve'ha'avartem* — you shall transfer — implies that the inheritance is being taken away from someone who would otherwise have been entitled to it and redirected to the daughter. The *Torah* is saying: instead of giving it to the person who logically comes next, transfer it away from him and give it to the daughter.
 
@@ -146,19 +183,13 @@ A second *tanna* derives the same conclusion — that the father precedes the br
 
 Who is that person who would otherwise have been next in line, from whom the inheritance is being taken away and redirected to the daughter? *Rabbi Yishmael berabi Yosei* reads the *pasuk* as follows: *bi-makom bat atah ma'avir nachala min ha-av* — when there is a daughter, you take the inheritance away from the father and give it to the daughter. *Ve-ei atah ma'avir nachala min ha-av bi-makom achim* — but when there are brothers, you do not take the inheritance away from the father in their favor. In other words, the father comes before the brothers, but the daughter comes before the father.
 
-### Daughters From Brother
+It is worth pausing to notice something striking about this reading. There is nothing in the *pasuk* itself that explicitly mentions the father at all. What the *tanna* is doing is reading an assumption into the verse — namely, that the father is the one who would ordinarily have inherited next — and then reading that assumption back out again as though the *pasuk* were teaching it. We arrive at the conclusion that the father precedes the brothers not because the text says so directly, but because we first presuppose that the father belongs in that position and then interpret the word *ve'ha'avartem* as displacing him in favor of the daughter. The *pasuk* is being used to confirm an ordering that the reader has, in a sense, already supplied. This is precisely the move the *gemara* will scrutinize momentarily.
 
-> **Hebrew/Aramaic:** וְאֵימָא: בִּמְקוֹם בַּת אַתָּה מַעֲבִיר נַחֲלָה מִן הָאַחִין,
->
-> **Translation:** The Gemara asks: **But** why not **say** that **in a case** where there is **a daughter, you pass** the **inheritance** to her **from the brothers,** (Bava Batra 109a)
+### Daughters From Brother
 
 The *Gemara* presses the point: could one not read the *pasuk* differently? Perhaps the word *ve'ha'avartem* means that when there is a daughter, you take the inheritance away from the *brothers* — not from the father — and give it to the daughter. In that reading, the father would not be placed here at all; his position would be determined separately. The brothers would follow the sons, and the daughter would intervene between sons and brothers, with the father inserted before the brothers but after the daughters by a different principle.
 
 ### Father Before Daughter
-
-> **Hebrew/Aramaic:** וְאִי אַתָּה מַעֲבִיר נַחֲלָה מִן הָאָב אֲפִילּוּ בִּמְקוֹם בַּת! אִם כֵּן, לָא נִכְתּוֹב רַחֲמָנָא ״וְהַעֲבַרְתֶּם״!
->
-> **Translation:** **but you do not pass an inheritance from the father even in a case** where there is **a daughter,** so that the father precedes the daughter in the order of inheritance? The Gemara answers: **If so, the Merciful One would not write: "Then you shall pass** the inheritance to his daughter" (Numbers 27:8). (Bava Batra 109b)
 
 A second, bolder alternative: perhaps *ve'ha'avartem* should be read to mean that even the father loses out to the daughter — meaning we should insert the father even *before* the daughters, and the *Torah* is saying that when there is a daughter, you take the inheritance away even from the father and give it to her. This would place the father between sons and daughters.
 
@@ -168,33 +199,31 @@ The *Gemara* rejects this reading: *im ken lo nichtav rachmana ve'ha'avartem* �
 
 ### Patriarchy Disruption
 
-> **Hebrew/Aramaic:** וּלְמַאן דְּנָפְקָא לֵיהּ מִ״וְהַעֲבַרְתֶּם״, הַאי ״שְׁאֵרוֹ״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: ״שְׁאֵרוֹ״ – זוֹ אִשְׁתּוֹ, מְלַמֵּד שֶׁהַבַּעַל יוֹרֵשׁ אֶת אִשְׁתּוֹ.
->
-> **Translation:** Having quoted two derivations for the *halakha* that the father precedes the brothers, the Gemara proceeds to discuss them and asks: **And according to the one who derives it from** the term: **"And you shall pass," what does he do with this** term: **"His kinsman,"** which was said to refer to the father? The Gemara answers: **He requires it for that which is taught** in a *baraita*: **"His kinsman." This** is referring to **his wife,** and the Torah **teaches that a husband inherits** from **his wife.** (Bava Batra 109b)
+And what is that notable thing? The inheritance is being taken away from a *male* heir who would otherwise have been next in line, and redirected to a female. That is the *chiddush* — the disruption of the expected patriarchal order. If the father came *before* the daughters, then after the sons the next in line would be a male heir — the father — and giving it to him would involve no disruption to patriarchal continuity whatsoever. The word *ve'ha'avartem* would be superfluous; *u-netatem* would have sufficed. The word *ve'ha'avartem* is therefore necessary only because the inheritance is going to a daughter *instead of* a male heir who would otherwise come next. That male heir is the father, and therefore the father must come *after* the daughters.
 
-And what is that notable thing? The inheritance is being taken away from a *male* heir who would otherwise have been next in line, and redirected to a female. That is the *chiddush* — the disruption of the expected patriarchal order. If the father came *before* the daughters, then after the sons the next in line would be a male heir — the father — and giving it to him would involve no disruption to patriarchal continuity whatsoever. The word *ve'ha'avartem* would be superfluous; *u-netatem* would have sufficed. The word *ve'ha'avartem* is therefore necessary only because the inheritance is going to a daughter *instead of* a male heir who would otherwise come next. That male heir is the father, and therefore the father must come *after* the daughters. The *pasuk* of *ve'ha'avartem* thus establishes the same result as the first *tanna's* derivation: sons and daughters first, then the father, then the brothers.
+It is worth pausing to appreciate how significant this inclusion of daughters is for the entire inheritance chart. Once daughters are included — even in second position after sons — that principle ripples outward to every branch. If a man has no sons but has a grandson or granddaughter through a son, that granddaughter will also inherit. If there are no brothers but a brother left behind a daughter, that daughter inherits in his place. The inclusion of daughters, while subordinate to sons, reshapes the entire hierarchy wherever it applies. What is notably absent, however, is any provision for a wife: no female who stands in a lateral, non-blood relationship to the decedent enters the chart through these *psukim* at all — a point the *Gemara* will take up directly.
+
+The *pasuk* of *ve'ha'avartem* thus establishes the same result as the first *tanna's* derivation: sons and daughters first, then the father, then the brothers.
 
 ---
 
 ## Wife as She'ero
 
-### Husband Inherits Wife
 
-> **Hebrew/Aramaic:** וּלְמַאן דְּנָפְקָא לֵיהּ מִ״שְּׁאֵרוֹ״, הַאי ״וְהַעֲבַרְתֶּם״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא – רַבִּי אוֹמֵר: בְּכוּלָּן נֶאֱמַר בָּהֶן ״נְתִינָה״, וְכָאן נֶאֶמְרָה בָּהֶן ״הַעֲבָרָה״; שֶׁאֵין לְךָ שֶׁמַּעֲבִיר נַחֲלָה מִשֵּׁבֶט לְשֵׁבֶט אֶלָּא בַּת, הוֹאִיל וּבְנָהּ וּבַעְלָהּ יוֹרְשִׁין אוֹתָהּ.
->
-> **Translation:** The Gemara asks: **And according to the one who derives it from** the term: **"His kinsman," what does he do with this** term: **"And you shall pass"? He requires it for that which is taught** in a *baraita*, that **Rabbi** Yehuda HaNasi **says: In** the context of **all of** the relatives listed in the passage detailing the laws of inheritance, it **is stated concerning them** with the terminology of **giving, and** only **here,** in the context of daughters, it **is stated concerning them** with the terminology of **passing.** This teaches us **that you have no one who passes an inheritance** of land in Eretz Yisrael **from one tribe to another except for a daughter, since her son and husband inherit** from **her.** (Bava Batra 109b)
+
+[DAF:109b]
+### Husband Inherits Wife
 
 We have seen that the first *tanna* uses *she'ero ha-karov elav* to insert the father into the inheritance hierarchy. The *Gemara* now raises a second reading of *she'ero*: perhaps it refers not to the father, but to the man's wife, and the *pasuk* is teaching that a husband inherits from his wife.
 
 The *Gemara* reads *u-netatem et nachalato li-she'eiro* not as "give the inheritance to his *she'er*" — which would suggest bequeathing to the wife — but as "give what belongs to his *she'er* to him," meaning: a man inherits his wife's estate. It bears noting that whether a husband's inheritance of his wife is *de-Oraita* or *de-rabbanan* is a debate among the *rishonim*. The *Rambam* holds that it is only *de-rabbanan* and that this *drasha* is an *asmachta*, since inheritance, in his view, requires a blood relationship. Most *rishonim*, however, understand it to be *de-Oraita*, reading *she'ero ha-karov elav* as genuinely applying to a wife through the principle of *basar echad*, which we will return to shortly.
 
+> **Hebrew/Aramaic:** וּלְמַאן דְּנָפְקָא לֵיהּ מִ״וְהַעֲבַרְתֶּם״, הַאי ״שְׁאֵרוֹ״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: ״שְׁאֵרוֹ״ – זוֹ אִשְׁתּוֹ, מְלַמֵּד שֶׁהַבַּעַל יוֹרֵשׁ אֶת אִשְׁתּוֹ.
+> **Translation:** Having quoted two derivations for the *halakha* that the father precedes the brothers, the Gemara proceeds to discuss them and asks: **And according to the one who derives it from** the term: **“And you shall pass,” what does he do with this** term: **“His kinsman,”** which was said to refer to the father? The Gemara answers: **He requires it for that which is taught** in a *baraita*: **“His kinsman.” This** is referring to **his wife,** and the Torah **teaches that a husband inherits** from **his wife.**
+
 ### Closest Flesh
 
-> **Hebrew/Aramaic:** וּמִמַּאי דִּ״שְׁאֵרוֹ״ זֶה הָאָב? דִּכְתִיב: ״שְׁאֵר אָבִיךָ הִיא״. אֵימָא: ״שְׁאֵרוֹ״ – זוֹ הָאֵם, דִּכְתִיב: ״שְׁאֵר אִמְּךָ הִיא״!
->
-> **Translation:** The Gemara returns to discuss the interpretation of the term: "His kinsman" (Numbers 27:11). **And from where** does one know to derive **that** with regard to the term: **"His kinsman [*she'ero*]," this** is referring to **the father, as it is written** in the context of forbidden sexual relations: **"She is your father's kinswoman [*she'er*]"** (Leviticus 18:12)? Perhaps one should **say** instead: **"His kinswoman," this** is referring to **the mother, as it is** also **written: "For she is your mother's kinswoman [*she'er*]"** (Leviticus 18:13). (Bava Batra 109b)
-
-Why should a wife be considered *she'er* — flesh? The concept has a parallel in an entirely different domain. This week's *parsha* discusses the circumstances under which a *kohen* may become *tamei*. The *pasuk* states: *ki im li-she'eiro ha-karov elav* — only for his closest flesh relative may he defile himself — and then enumerates mother, father, son, daughter, brother, and unmarried sister. A wife is not explicitly listed. Yet *Chazal* read *she'eiro ha-karov elav* as including a wife, on the grounds that she is his closest *she'er*. The following *pasuk*, *lo yitama ba'al be'amav le-hechalo*, may even suggest in its *pshat* the opposite — that a husband should not defile himself for his wife — but *Chazal* read *she'eiro* as encompassing her. The *Rambam*, consistent with his position on inheritance, holds that a *kohen's* permission to become *tamei* for his wife is also *de-rabbanan*, with the Rabbis treating her as a *meit mitzvah* for whom the *kohen* is obligated. Most *rishonim* disagree.
+Why should a wife be considered *she'er* — flesh? The concept has a parallel in an entirely different domain. This week's *parsha* discusses the circumstances under which a *kohen* may become *tamei*. The *pasuk* states: *ki im li-she'eiro ha-karov elav* — only for his closest flesh relative may he defile himself — and then enumerates mother, father, son, daughter, brother, and unmarried sister. A wife is not explicitly listed. Yet *Chazal* read *she'eiro ha-karov elav* as including a wife, on the grounds that she is his closest *she'er*. The following *pasuk*, *lo yitama ba'al be'amav le-hechalo*, may even suggest in its *pshat* the opposite — that a husband should not defile himself for his wife — but *Chazal* read *she'eiro* as encompassing her. The *Rambam*, consistent with his position on inheritance, holds that a *kohen's* permission to become *tamei* for his wife is also *de-rabbanan*, with the Rabbis treating her as a *meit mitzvah* for whom the *kohen* is obligated — since if he is the only one available to bury her, the obligation of *meit mitzvah* applies, and on that basis alone may he become *tamei*. Most *rishonim* disagree, reading *Chazal's* inclusion of the wife as genuine *pshat* in the *pesukim*, and holding both the inheritance and the *tum'ah* permission to be *de-Oraita*.
 
 ### Onah & Flesh
 
@@ -206,21 +235,26 @@ The *Ramban* notes that while some understand *she'eirah* as referring to food a
 
 ### One Flesh
 
+
 This reading connects to the foundational verse of marriage: *ve-hayu le-basar echad* — and they shall become one flesh. Once husband and wife are *basar echad*, one flesh, the wife becomes his *she'er* — the flesh closest to him. And this, *Chazal* argue, is what entitles the reading that *she'eiro ha-karov elav* refers to his wife: there is no blood relationship between them, no biological connection, but through the union of marriage and the becoming of one flesh, she is considered closer to him than any other relative. Indeed, one could argue she is closer than any of them — he is *basar echad* with his wife in a way that he is not *basar echad* with his father, mother, son, or daughter. It is a powerful and far-reaching reading by *Chazal*, grounding both the *kohen's* right to become *tamei* for his wife and the husband's right to inherit her estate in the same concept of marital union as the ultimate closeness of flesh.
+
+There is a natural resonance here with the parallel structure running through *aveilus*, *tumah*, and *nachala* — all three tracking the same logic of continuity and closeness. One might ask, however, whether the depth of spousal grief reflected in this framework sits uneasily with the fact that *aveilus* for a spouse is shorter than for a parent. The *gemara* itself observes *ein ish meis ela le'ishto ve'ein isha meisa ela leba'alah* — a person dies, in the most immediate sense, only to his spouse — which makes the shorter mourning period surprising. The resolution is that the year-long mourning for a parent is not a measure of the depth of *aveilus* at all; it derives instead from the distinct obligation of *kibbud av va'eim*. The two obligations are tracking different things, and the duration of mourning for a parent should not be read as a verdict on the comparative intensity of grief.
 
 ---
 
 ## Rebbi's Ve'avarta
 
+
+
 ### Transfer Vs. Give
 
 *Rebbi* offers a distinct *drasha* on the word *ve'ha'avartem* that illuminates the same inheritance structure from a different angle. He observes: *be-kulah ne'emar bahen netina* — throughout the entire passage, the Torah uses the language of *giving* when speaking of all other heirs. It is only with regard to daughters that the *Torah* uses the language of *ha'avara* — transferring or passing over.
 
+> **Hebrew/Aramaic:** וּלְמַאן דְּנָפְקָא לֵיהּ מִ״שְּׁאֵרוֹ״, הַאי ״וְהַעֲבַרְתֶּם״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא – רַבִּי אוֹמֵר: בְּכוּלָּן נֶאֱמַר בָּהֶן ״נְתִינָה״, וְכָאן נֶאֶמְרָה בָּהֶן ״הַעֲבָרָה״; שֶׁאֵין לְךָ שֶׁמַּעֲבִיר נַחֲלָה מִשֵּׁבֶט לְשֵׁבֶט אֶלָּא בַּת, הוֹאִיל וּבְנָהּ וּבַעְלָהּ יוֹרְשִׁין אוֹתָהּ.
+> **Translation:** The Gemara asks: **And according to the one who derives it from** the term: **“His kinsman,” what does he do with this** term: **“And you shall pass”? He requires it for that which is taught** in a *baraita*, that **Rabbi** Yehuda HaNasi **says: In** the context of **all of** the relatives listed in the passage detailing the laws of inheritance, it **is stated concerning them** with the terminology of **giving, and** only **here,** in the context of daughters, it **is stated concerning them** with the terminology of **passing.** This teaches us **that you have no one who passes an inheritance** of land in Eretz Yisrael **from one tribe to another except for a daughter, since her son and husband inherit** from **her.**
+
 ### Tribe Transfer Reason
 
-> **Hebrew/Aramaic:** שֶׁאֵין לְךָ שֶׁמַּעֲבִיר נַחֲלָה מִשֵּׁבֶט לְשֵׁבֶט אֶלָּא בַּת, הוֹאִיל וּבְנָהּ וּבַעְלָהּ יוֹרְשִׁין אוֹתָהּ.
->
-> **Translation:** This teaches us **that you have no one who passes an inheritance** of land in Eretz Yisrael **from one tribe to another except for a daughter, since her son and husband inherit** from **her.** (Bava Batra 109b)
 
 Why the distinction? Because with daughters, the inheritance does not simply pass to the next heir within the family — it may leave the tribe entirely. A daughter who marries a man from another tribe creates the conditions for the estate to migrate: *ho-il u-vinah u-va'alah yorshin otah* — because her son and her husband inherit from her. Her son, who belongs to his father's tribe, and her husband, who is from a different tribe, will both be positioned to inherit her estate. So what was the land of one tribe can find itself, a generation or two later, in the possession of members of an entirely different tribe. The word *ve'ha'avartem* — you shall transfer — signals precisely this: that giving to a daughter is a transfer not only of property but of tribal affiliation.
 
@@ -232,17 +266,18 @@ Why the distinction? Because with daughters, the inheritance does not simply pas
 
 ## She'ero Contexts
 
-### Dual Meaning
 
-> **Hebrew/Aramaic:** אָמַר רָבָא, אָמַר קְרָא: ״מִמִּשְׁפַּחְתּוֹ וְיָרַשׁ אֹתָהּ״; מִשְׁפַּחַת אָב קְרוּיָה ״מִשְׁפָּחָה״, מִשְׁפַּחַת אֵם אֵינָהּ קְרוּיָה ״מִשְׁפָּחָה״ – דִּכְתִיב: ״לְמִשְׁפְּחֹתָם לְבֵית אֲבֹתָם״.
->
-> **Translation:** **Rava said** in response that **the verse states:** "Then you shall give his inheritance to his kinsman who is next to him **of his family, and he shall inherit it"** (Numbers 27:11), emphasizing that "kinsman" is referring specifically to someone who is of his family, and it is **the father's family** that **is called** one's **family,** while one's **mother's family is not called** one's **family.** Proof for this is found in another verse, **as it is written: "By their families, by their fathers' houses"** (Numbers 1:2). (Bava Batra 109b)
+
+### Dual Meaning
 
 A question now arises: if *she'ero* is used by the first *tanna* to insert the father into the inheritance hierarchy, how can a second *tanna* use the same word *she'ero* to teach that a husband inherits his wife? The two readings would seem to be in tension.
 
 ### Levitical Reference
 
 The *Gemara* notes that *she'er* in the sense of a marital connection does appear explicitly in the *Torah*, since the verse says *she'er avicha hi* — your father's wife is his *she'er*. This demonstrates that *she'er* can be applied to a marital relationship, providing a basis for reading it as "wife" in the inheritance context.
+
+> **Hebrew/Aramaic:** וּמִמַּאי דִּ״שְׁאֵרוֹ״ זֶה הָאָב? דִּכְתִיב: ״שְׁאֵר אָבִיךָ הִיא״. אֵימָא: ״שְׁאֵרוֹ״ – זוֹ הָאֵם, דִּכְתִיב: ״שְׁאֵר אִמְּךָ הִיא״!
+> **Translation:** § The Gemara returns to discuss the interpretation of the term: “His kinsman” (Numbers 27:11). **And from where** does one know to derive **that** with regard to the term: **“His kinsman [*she’ero*],” this** is referring to **the father, as it is written** in the context of forbidden sexual relations: **“She is your father’s kinswoman [*she’er*]”** (Leviticus 18:12)? Perhaps one should **say** instead: **“His kinswoman,” this** is referring to **the mother, as it is** also **written: “For she is your mother’s kinswoman [*she’er*]”** (Leviticus 18:13).
 
 ### Different Sources
 
@@ -260,31 +295,28 @@ The second *tanna* reads *she'ero* as a reference to the wife, deriving from the
 
 ## Patriarchy Principle
 
-### Mother vs. Daughter
 
-> **Hebrew/Aramaic:** וּמִשְׁפַּחַת אֵם אֵינָהּ קְרוּיָה ״מִשְׁפָּחָה״?! וְהָא כְּתִיב: ״וַיְהִי נַעַר מִבֵּית לֶחֶם יְהוּדָה מִמִּשְׁפַּחַת יְהוּדָה, וְהוּא לֵוִי, וְהוּא גָר שָׁם״ – הָא גוּפָא קַשְׁיָא; אָמְרַתְּ ״וְהוּא לֵוִי״ – אַלְמָא מִלֵּוִי אָתֵי, ״מִמִּשְׁפַּחַת יְהוּדָה״ – אַלְמָא מִיהוּדָה אָתֵי! אֶלָּא לָאו דַּאֲבוּהּ מִלֵּוִי, וְאִימֵּיהּ מִיהוּדָה? וְקָאָמַר ״מִמִּשְׁפַּחַת יְהוּדָה״!
->
-> **Translation:** The Gemara raises a difficulty: **And** is one's **mother's family** indeed **not called** one's **family? But it is written** in the episode of Micah forming an idol to be worshipped: **"And there was a young man of Bethlehem in Judah of the family of Judah who was a Levite, and he sojourned there"** (Judges 17:7). The Gemara explains the difficulty: **This matter itself** is **difficult. You said: "Who was a Levite,"** as **apparently he came from** the tribe of **Levi,** but the verse says: **"Of the family of Judah,"** so **apparently he came from** the tribe of **Judah. Rather, is it not that his father** was **from** the tribe of **Levi and his mother** was **from** the tribe of **Judah, and** yet the verse **says** that he was: **"Of the family of Judah"?** This appears to prove that one's mother's family is also called his family. (Bava Batra 109b)
+
+### Mother vs. Daughter
 
 Having established that daughters can inherit — an acknowledged disruption of the purely patriarchal model — the *Gemara* raises a natural follow-up question: if daughters can be included in the inheritance hierarchy despite not carrying on the patrilineal family name, why not extend the same logic to mothers? If a man dies leaving no children and no father, why shouldn't the estate pass to his mother, who is certainly a close relative? After all, both a daughter and a mother represent relationships that cut across the strictly patrilineal structure.
 
 ### Father's Family Only
 
-> **Hebrew/Aramaic:** אָמַר רָבָא בַּר רַב חָנָן: לָא; גַּבְרָא דִּשְׁמֵיהּ לֵוִי. אִי הָכִי, הַיְינוּ דְּקָאָמַר מִיכָה: ״עַתָּה יָדַעְתִּי כִּי יֵיטִיב ה׳ לִי, כִּי הָיָה לִי הַלֵּוִי לְכֹהֵן״? אִין, דְּאִיתְרְמִי לֵיהּ גַּבְרָא דִּשְׁמֵיהּ לֵוִי.
->
-> **Translation:** **Rava bar Rav Ḥanan said** in response: **No,** the verse speaks of **a man whose name** was **Levi,** but his father was of the tribe of Judah. The Gemara asks: **If that is so,** how **is that which Micah said** when that man agreed to serve as his priest: **"Now I know that the Lord will do me good, seeing that I have a Levite as my priest"** (Judges 17:13), understood? It is understood only if he was an actual Levite, not if he was from the tribe of Judah and named Levi. Rava bar Rav Ḥanan responded: **Yes,** it is understood. Micah understood the fact **that a man whose name** is **Levi happened upon him** as an auspicious sign. (Bava Batra 109b)
 
 The *Gemara* responds with a foundational principle: *mishpachat av keruyah mishpacha, mishpachat em einah keruyah mishpacha*. The father's family is called a family; the mother's family is not called a family. This is the *halachic* articulation of what patriarchy means as a descriptive term: family structure is defined through the father. Two people who share only a mother but have different fathers belong to two entirely different families. Their biological relationship is real, but they are not part of the same *mishpacha*. The family unit is constituted by the paternal line, not the maternal one.
 
+> **Hebrew/Aramaic:** אָמַר רָבָא, אָמַר קְרָא: ״מִמִּשְׁפַּחְתּוֹ וְיָרַשׁ אֹתָהּ״; מִשְׁפַּחַת אָב קְרוּיָה ״מִשְׁפָּחָה״, מִשְׁפַּחַת אֵם אֵינָהּ קְרוּיָה ״מִשְׁפָּחָה״ – דִּכְתִיב: ״לְמִשְׁפְּחֹתָם לְבֵית אֲבֹתָם״.
+> **Translation:** **Rava said** in response that **the verse states:** “Then you shall give his inheritance to his kinsman who is next to him **of his family, and he shall inherit it”** (Numbers 27:11), emphasizing that “kinsman” is referring specifically to someone who is of his family, and it is **the father’s family** that **is called** one’s **family,** while one’s **mother’s family is not called** one’s **family.** Proof for this is found in another verse, **as it is written: “By their families, by their fathers’ houses”** (Numbers 1:2).
+
 ### Father-Defined Family
+
 
 This principle has direct implications for inheritance. *Nachala* — inheritance — flows within the *mishpacha*, and since *mishpacha* is defined exclusively through the father, only relatives on the father's side can inherit. A mother, however close she may be emotionally and biologically, belongs to a different *mishpacha*. She cannot inherit from her son, because her son's *mishpacha* is his father's, not hers.
 
-### Household Evidence
+It is worth pausing to note the tension this creates with another foundational rule of Jewish law: *yechus* — status, specifically Jewish status — passes through the mother, not the father. That *mishpacha* and tribal identity are defined entirely through the paternal line, while the most consequential personal status in Jewish law runs through the maternal line, is a striking discrepancy. The lecturer flags it as a genuine *chiddush* — a surprising novelty — without resolving the tension, and it is worth sitting with that asymmetry rather than papering over it. The *gemara* will turn shortly to the textual basis for the rule itself, grounding the principle that the mother's family is not called a family in a specific *pasuk*.
 
-> **Hebrew/Aramaic:** וְכִי לֵוִי שְׁמוֹ?! וַהֲלֹא יְהוֹנָתָן שְׁמוֹ, שֶׁנֶּאֱמַר: ״וִיהוֹנָתָן בֶּן גֵּרְשֹׁם בֶּן מְנַשֶּׁה, הוּא וּבָנָיו הָיוּ כֹהֲנִים לְשֵׁבֶט הַדָּנִי״! (אֲמַר לֵיהּ: וְלִיטַעְמָיךְ) וְכִי בֶּן מְנַשֶּׁה הוּא?! וַהֲלֹא בֶּן מֹשֶׁה הוּא, דִּכְתִיב: ״בְּנֵי מֹשֶׁה גֵּרְשׁוֹם וֶאֱלִיעֶזֶר״! אֶלָּא מִתּוֹךְ שֶׁעָשָׂה מַעֲשֵׂה מְנַשֶּׁה, תְּלָאוֹ הַכָּתוּב בִּמְנַשֶּׁה; הָכָא נָמֵי, מִתּוֹךְ שֶׁעָשָׂה מַעֲשֵׂה מְנַשֶּׁה – דְּאָתֵי מִיהוּדָה, תְּלָאוֹ הַכָּתוּב בִּיהוּדָה.
->
-> **Translation:** The Gemara asks further: **But** is it **so** that **his name** was indeed **Levi; but wasn't Jonathan his name, as it is stated: "And Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of the Danites"** (Judges 18:30)? Rava bar Rav Ḥanan **said to him: And according to your reasoning,** that his name was not Levi but he was from the tribe of Levi, there is also a difficulty from that same verse: **But** is it **so** that **he** was **the son of Manasseh; but wasn't he the son of Moses, as it is written: "The sons of Moses: Gershom and Eliezer"** (I Chronicles 23:15)? Rava bar Rav Ḥanan explains the verse: **Rather,** although he was the son of Moses, **because he acted** as **Manasseh** the king of Judah, who was notorious for idol worship, **acted, the verse linked him to Manasseh** by calling him "the son of Manasseh." **Here too,** in the verse from which you seek to prove that one's mother's family is called one's family, **since he acted** as **Manasseh, who came from** the tribe of **Judah, acted, the verse linked him to Judah** by stating that he was "of the family of Judah," but he was, in fact, a Levite. (Bava Batra 109b)
+### Household Evidence
 
 The *Gemara* grounds this principle in a *pasuk: le-mishpachtam le-veit avotam* — according to their families, their father's household. The explicit linkage of *mishpacha* to *beit avotam* — the father's house — confirms that family identity is constituted through the paternal line. This is not merely a social convention; it is the *Torah's* own definition of what a family is.
 
@@ -292,27 +324,41 @@ The *Gemara* grounds this principle in a *pasuk: le-mishpachtam le-veit avotam* 
 
 ## Levi From Judah
 
+
+
 ### Apparent Contradiction
 
 With the principle of patrilineal family identity established, the *Gemara* confronts a textual challenge. The story of *Pesel Micha* includes the following description of the Levite who became *Micha's* priest: *va-yehi na'ar mi-Beit Lechem Yehuda, mi-mishpachat Yehuda, ve-hu Levi* — there was a youth from Beit Lechem Yehuda, from the family of Yehuda, and he was a Levi. This seems internally contradictory. If he was from the family of Yehuda, how could he also be a Levi? And conversely, if he was a Levi, how can the *pasuk* describe him as being from the family of Yehuda?
 
+> **Hebrew/Aramaic:** וּמִשְׁפַּחַת אֵם אֵינָהּ קְרוּיָה ״מִשְׁפָּחָה״?! וְהָא כְּתִיב: ״וַיְהִי נַעַר מִבֵּית לֶחֶם יְהוּדָה מִמִּשְׁפַּחַת יְהוּדָה, וְהוּא לֵוִי, וְהוּא גָר שָׁם״ – הָא גוּפָא קַשְׁיָא; אָמְרַתְּ ״וְהוּא לֵוִי״ – אַלְמָא מִלֵּוִי אָתֵי, ״מִמִּשְׁפַּחַת יְהוּדָה״ – אַלְמָא מִיהוּדָה אָתֵי! אֶלָּא לָאו דַּאֲבוּהּ מִלֵּוִי, וְאִימֵּיהּ מִיהוּדָה? וְקָאָמַר ״מִמִּשְׁפַּחַת יְהוּדָה״!
+> **Translation:** The Gemara raises a difficulty: **And** is one’s **mother’s family** indeed **not called** one’s **family? But it is written** in the episode of Micah forming an idol to be worshipped: **“And there was a young man of Bethlehem in Judah of the family of Judah who was a Levite, and he sojourned there”** (Judges 17:7). The Gemara explains the difficulty: **This matter itself** is **difficult. You said: “Who was a Levite,”** as **apparently he came from** the tribe of **Levi,** but the verse says: **“Of the family of Judah,”** so **apparently he came from** the tribe of **Judah. Rather, is it not that his father** was **from** the tribe of **Levi and his mother** was **from** the tribe of **Judah, and** yet the verse **says** that he was: **“Of the family of Judah”?** This appears to prove that one’s mother’s family is also called his family.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא בַּר רַב חָנָן: לָא; גַּבְרָא דִּשְׁמֵיהּ לֵוִי. אִי הָכִי, הַיְינוּ דְּקָאָמַר מִיכָה: ״עַתָּה יָדַעְתִּי כִּי יֵיטִיב ה׳ לִי, כִּי הָיָה לִי הַלֵּוִי לְכֹהֵן״? אִין, דְּאִיתְרְמִי לֵיהּ גַּבְרָא דִּשְׁמֵיהּ לֵוִי.
+> **Translation:** **Rava bar Rav Ḥanan said** in response: **No,** the verse speaks of **a man whose name** was **Levi,** but his father was of the tribe of Judah. The Gemara asks: **If that is so,** how **is that which Micah said** when that man agreed to serve as his priest: **“Now I know that the Lord will do me good, seeing that I have a Levite as my priest”** (Judges 17:13), understood? It is understood only if he was an actual Levite, not if he was from the tribe of Judah and named Levi. Rava bar Rav Ḥanan responded: **Yes,** it is understood. Micah understood the fact **that a man whose name** is **Levi happened upon him** as an auspicious sign.
+
 ### Paternal Tribe
+
 
 The straightforward resolution is that his father was a Levi and his mother was from the tribe of Yehuda. His tribal identity — Levi — follows his father, as the principle of *mishpachat av* demands. Yet the *pasuk* still describes him as *mi-mishpachat Yehuda*, from the family of Yehuda, because his mother's family, while not his primary family, is not entirely invisible either. This would seem to support the view that a mother's family can serve as at least a secondary form of family identification.
 
+The *Gemara*, however, raises an alternative reading — one that would dissolve the apparent proof entirely. *Amar Rava bar Rav Chana* — Rava bar Rav Chana said: *lo, gavra dishmeih Levi* — no, this was simply a man whose name was Levi. On this reading, *vehu Levi* tells us nothing about his tribal identity; it is merely his name. The *Gemara* notes that this reading gains some support from the very reaction of *Micha* when he secured this man as his priest: *ata yadati ki yeitiv Hashem li, ki haya li haLevi lekohen* — now I know that God will do good for me, for I have obtained a Levi as my priest. *Micha's* evident excitement makes sense either way — whether the man was a genuine Levi or merely bore the name — since even having someone named Levi serve in that role might have struck *Micha* as a favorable omen, a good *siman*. The *Gemara* acknowledges this: *in hachi nami gavra dishmeih Levi* — yes, even someone whose name just happened to be Levi could be a source of satisfaction. But the *Gemara* immediately recognizes that this reading cannot be sustained, and the man's true identity — which decisively closes off the name-based escape route — is examined next.
+
 ### True Identity
+
+> **Hebrew/Aramaic:** וְכִי לֵוִי שְׁמוֹ?! וַהֲלֹא יְהוֹנָתָן שְׁמוֹ, שֶׁנֶּאֱמַר: ״וִיהוֹנָתָן בֶּן גֵּרְשֹׁם בֶּן מְנַשֶּׁה, הוּא וּבָנָיו הָיוּ כֹהֲנִים לְשֵׁבֶט הַדָּנִי״! (אֲמַר לֵיהּ: וְלִיטַעְמָיךְ) וְכִי בֶּן מְנַשֶּׁה הוּא?! וַהֲלֹא בֶּן מֹשֶׁה הוּא, דִּכְתִיב: ״בְּנֵי מֹשֶׁה גֵּרְשׁוֹם וֶאֱלִיעֶזֶר״!
+> **Translation:** The Gemara asks further: **But** is it **so** that **his name** was indeed **Levi; but wasn’t Jonathan his name, as it is stated: “And Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of the Danites”** (Judges 18:30)? Rava bar Rav Ḥanan **said to him: And according to your reasoning,** that his name was not Levi but he was from the tribe of Levi, there is also a difficulty from that same verse: **But** is it **so** that **he** was **the son of Manasseh; but wasn’t he the son of Moses, as it is written: “The sons of Moses: Gershom and Eliezer”** (I Chronicles 23:15)?
 
 But the *Gemara* immediately challenges this reading. A different voice in the *Gemara* points out that the man's name was not simply "Levi" — that was not his name at all. His name was *Yehonatan ben Gershom ben Menashe*, as revealed later in the narrative when the Danites adopt him and his descendants as priests. And *Gershom* — as the *Gemara* knows — was the son of *Moshe Rabbeinu*. This Yehonatan was, in fact, the grandson of *Moshe* himself.
 
 ### Menashe Association
 
+
 If he was the grandson of *Moshe Rabbeinu*, why does the *pasuk* call him *ben Gershom ben Menashe* rather than *ben Gershom ben Moshe*? The *Gemara* explains: *mitoch she-asa ma'aseh Menashe* — because he acted in the manner of *Menashe*, the later king notorious for his idolatry, the *pasuk* attributed him to *Menashe*, making it as if that idolatrous king were his grandfather. This is admittedly anachronistic — *Menashe* lived many generations after the period of the Judges — but the point is homiletical: the *Katuv* associated him with the most notorious idolater in Israel's history because his behavior paralleled that legacy.
 
 ### Idolater Association
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: מִכָּאן שֶׁתּוֹלִין אֶת הַקַּלְקָלָה בַּמְקוּלְקָל. רַבִּי יוֹסֵי בַּר חֲנִינָא אָמַר, מֵהָכָא: ״וְגַם הוּא טוֹב תֹּאַר מְאֹד, וְאֹתוֹ יָלְדָה אַחֲרֵי אַבְשָׁלוֹם״ – וַהֲלֹא אֲדֹנִיָּה בֶּן חַגִּית וְאַבְשָׁלוֹם בֶּן מַעֲכָה! אֶלָּא, מִתּוֹךְ שֶׁעָשָׂה מַעֲשֵׂה אַבְשָׁלוֹם – דְּמָרַד בַּמַּלְכוּת, תְּלָאוֹ הַכָּתוּב בְּאַבְשָׁלוֹם. הָכָא נָמֵי, מִתּוֹךְ שֶׁעָשָׂה מַעֲשֵׂה מְנַשֶּׁה – תְּלָאוֹ הַכָּתוּב בִּמְנַשֶּׁה.
->
-> **Translation:** In connection with the story of Jonathan, son of Manasseh, the Gemara cites a related statement. **Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yoḥai: From here** it is learned **that corruption is linked to one who is corrupt,** as this man was linked to Manasseh and Judah despite having no familial connection to them. **Rabbi Yosei bar Ḥanina says:** That concept can be seen **from here,** in the matter of Adonijah, the son of David: **"And he was also a very handsome man; and she gave birth to him after Absalom,"** (I Kings 1:6) **but Adonijah wasn't the son of Haggith and Absalom was the son of Maachah,** so why does the verse state: "And she gave birth to him after Absalom," as if they were sons of the same mother? **Rather, since Adonijah acted** in a manner fit for **Absalom, who** also **rebelled against the monarchy, the verse linked him to Absalom,** referring to him as his full brother. **Here too,** with regard to Jonathan, **since he acted** as **Manasseh acted, the verse linked him to Manasseh.** (Bava Batra 109b)
+> **Hebrew/Aramaic:** אֶלָּא מִתּוֹךְ שֶׁעָשָׂה מַעֲשֵׂה מְנַשֶּׁה, תְּלָאוֹ הַכָּתוּב בִּמְנַשֶּׁה; הָכָא נָמֵי, מִתּוֹךְ שֶׁעָשָׂה מַעֲשֵׂה מְנַשֶּׁה – דְּאָתֵי מִיהוּדָה, תְּלָאוֹ הַכָּתוּב בִּיהוּדָה.
+> **Translation:** Rava bar Rav Ḥanan explains the verse: **Rather,** although he was the son of Moses, **because he acted** as **Manasseh** the king of Judah, who was notorious for idol worship, **acted, the verse linked him to Manasseh** by calling him “the son of Manasseh.” **Here too,** in the verse from which you seek to prove that one’s mother’s family is called one’s family, **since he acted** as **Manasseh, who came from** the tribe of **Judah, acted, the verse linked him to Judah** by stating that he was “of the family of Judah,” but he was, in fact, a Levite.
 
 With this in mind, *Rabbi Yochanan* in the name of *Rabbi Shimon bar Yochai* proposes the same solution for the phrase *mi-mishpachat Yehuda*: just as *ben Menashe* does not mean he was literally descended from *Menashe* but rather that he acted like *Menashe*, so too *mi-mishpachat Yehuda* does not mean he was literally from the family of Yehuda through his mother. It means he acted like the idolatrous members of *Yehuda*. The description is comparative and moral, not genealogical. The *Gemara* thereby rescues the principle that *mishpachat em einah keruyah mishpacha*: even in this *pasuk*, family identity through the mother is not genuinely being invoked. The reference is to character and conduct, not lineage.
 
@@ -321,6 +367,8 @@ It must be acknowledged that this resolution is somewhat strained — the *pshat
 ---
 
 ## Chiddush & Patriarchy
+
+
 
 ### Daughters Only
 

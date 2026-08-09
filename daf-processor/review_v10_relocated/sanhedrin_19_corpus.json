@@ -1,0 +1,151 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Perek Overview",
+    "candidates": [
+      "Perek Overview",
+      "Kohen Gadol Status",
+      "Erusin vs Nisu'in",
+      "Aseh vs Lo Taseh",
+      "Aseh Docheh Principle",
+      "Gzerah Biah Rishonah",
+      "Rav Meir Position",
+      "Rav Yehudah Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "None of the candidate headings address the king's exemption from judgment, \u1e25alitza, or royal marriage laws; the Perek Overview is the only heading broad enough to encompass these topics, making the current placement the best available option despite being a weak match.",
+      "chosen_heading": "Perek Overview",
+      "current_heading": "Perek Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rav Yehudah Position",
+    "candidates": [
+      "Kohen Gadol Status",
+      "Erusin vs Nisu'in",
+      "Aseh vs Lo Taseh",
+      "Aseh Docheh Principle",
+      "Gzerah Biah Rishonah",
+      "Rav Meir Position",
+      "Rav Yehudah Position",
+      "Rav Meir Pasuk",
+      "Yehudah Concern",
+      "Temple Officials",
+      "Kohen Comforts",
+      "Kohen Mourns",
+      "Mashuach Concern",
+      "Sgan Mamona",
+      "Original Practice",
+      "Positioning Rules",
+      "Two Families Dispute",
+      "Takana Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "low",
+      "reason": "This passage about David's marriages to Merab and Michal does not match any of the candidate headings well \u2014 none of the prose sections discuss David, Merab, or Michal \u2014 so defaulting to the current placement under 'Rav Yehudah Position' with low confidence, as no other candidate is a clearly better match.",
+      "chosen_heading": "Rav Yehudah Position",
+      "current_heading": "Rav Yehudah Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Takana Reversal",
+    "candidates": [
+      "Rav Meir Pasuk",
+      "Yehudah Concern",
+      "Temple Officials",
+      "Kohen Comforts",
+      "Kohen Mourns",
+      "Mashuach Concern",
+      "Sgan Mamona",
+      "Original Practice",
+      "Positioning Rules",
+      "Two Families Dispute",
+      "Takana Reversal",
+      "Shura Restoration",
+      "Child Safety Takana",
+      "Bathroom Yichud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "low",
+      "reason": "This passage discusses David and Merab/Michal betrothal disputes involving kiddushei ta'ut and the halakha of milveh, which does not match any of the candidate headings well; the current placement under 'Takana Reversal' is wrong, but no candidate heading clearly matches this content about David's mistaken betrothal, so retaining current placement with low confidence.",
+      "chosen_heading": "Takana Reversal",
+      "current_heading": "Takana Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Bathroom Yichud",
+    "candidates": [
+      "Shura Restoration",
+      "Child Safety Takana",
+      "Bathroom Yichud",
+      "Ten Person Minyan",
+      "Flexible Arrangement",
+      "Formula Question",
+      "Titnachamu Formula",
+      "Comforter Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "None of the candidate headings match this passage's content about David, Michal, Merab, betrothal with a loan and peruta, and Rabbi Yosei's method of mixed verses \u2014 the passage appears entirely misplaced relative to all candidates, but since the true home is guaranteed to be in this list and no candidate is clearly better, defaulting to current placement with low confidence.",
+      "chosen_heading": "Bathroom Yichud",
+      "current_heading": "Bathroom Yichud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Comforter Context",
+    "candidates": [
+      "Ten Person Minyan",
+      "Flexible Arrangement",
+      "Formula Question",
+      "Titnachamu Formula",
+      "Comforter Context"
+    ],
+    "result": null
+  }
+]

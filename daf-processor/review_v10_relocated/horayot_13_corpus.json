@@ -1,0 +1,492 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rabbi Yehuda Synthesis",
+    "candidates": [
+      "Mishnah Setup",
+      "Tearing & Onen",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Gemara Challenge",
+      "Rabbi Yehuda Synthesis",
+      "Tadir Principle",
+      "Mikudash Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion: the Mishnah on tearing (item 1), Rav vs. Shmuel's positions (items 2-3), the baraita challenge to Shmuel (item 3), the Rabbi Yehuda synthesis resolving the challenge (items 4-6) \u2014 exactly matching the 'Rabbi Yehuda Synthesis' prose which describes this entire chain culminating in 'Shmuel savar keRebbi Yehuda bechada ufalig leh bechada'.",
+      "chosen_heading": "Rabbi Yehuda Synthesis",
+      "current_heading": "Rabbi Yehuda Synthesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Mikudash Principle",
+    "candidates": [
+      "Tadir Principle",
+      "Mikudash Principle",
+      "Tamid Priority",
+      "Sanctity Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tadir Principle",
+      "first_confidence": "high",
+      "first_reason": "The Mishnah introduces both the tadir and mikudash principles plus the par mashiach case, matching heading 0 ('Tadir Principle') which describes the Mishnah's introduction of these organizing principles in the context of Horayot's hierarchies.",
+      "second_heading": "Tamid Priority",
+      "second_confidence": "high",
+      "second_reason": "The Gemara item (Abaye's derivation from 'milvad olas haboker asher le'olas hatamid') is precisely what heading 2 ('Tamid Priority') describes \u2014 Abaye's verse-based proof for the tadir principle.",
+      "current_heading": "Mikudash Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Sanctity Source",
+    "candidates": [
+      "Tamid Priority",
+      "Sanctity Source",
+      "Kohen Gadol Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the *mikudash* principle from the verse *vekedashto*, discussing a Kohen's priority in all matters of sanctity including Torah reading, *zimmun*, and choice portions \u2014 exactly what the 'Sanctity Source' prose discusses.",
+      "chosen_heading": "Sanctity Source",
+      "current_heading": "Sanctity Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Kohen Gadol Ox",
+    "candidates": [
+      "Kohen Gadol Ox",
+      "Beit Din Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the derivation that the bull of the anointed priest precedes the bull of the congregation in all its actions, which is precisely what the 'Kohen Gadol Ox' prose describes, including the word 'harishon' and the baraita's reasoning about the mechaper preceding the miskaper.",
+      "chosen_heading": "Kohen Gadol Ox",
+      "current_heading": "Kohen Gadol Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Beit Din Priority",
+    "candidates": [
+      "Beit Din Priority",
+      "Idolatry Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the content described in the 'Beit Din Priority' prose \u2014 the bull for unwitting communal sin preceding the bull for idol worship, with the baraita deriving that sin-offerings precede burnt-offerings, matching the current placement perfectly.",
+      "chosen_heading": "Beit Din Priority",
+      "current_heading": "Beit Din Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Idolatry Hierarchy",
+    "candidates": [
+      "Idolatry Hierarchy",
+      "Community vs. King",
+      "King Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the bull preceding the goat for idol worship offerings and the two explanations (defective spelling and 'according to the ordinance'), which is precisely what the 'Idolatry Hierarchy' prose describes.",
+      "chosen_heading": "Idolatry Hierarchy",
+      "current_heading": "Idolatry Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "King Status",
+    "candidates": [
+      "Community vs. King",
+      "King Status",
+      "Goat vs. Sheep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the communal goat vs. king's goat ordering AND the king vs. commoner ordering, and candidate 0's prose explicitly discusses both comparisons together, while candidate 1 only discusses the king vs. commoner portion \u2014 the full passage belongs under candidate 0 which addresses the complete sequence starting with the communal avoda zara goat.",
+      "chosen_heading": "Community vs. King",
+      "current_heading": "King Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Goat vs. Sheep",
+    "candidates": [
+      "King Status",
+      "Goat vs. Sheep",
+      "Grain Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Tannaim over whether the female goat or ewe of an individual takes precedence, which is exactly what the 'Goat vs. Sheep' section prose describes.",
+      "chosen_heading": "Goat vs. Sheep",
+      "current_heading": "Goat vs. Sheep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Grain Priority",
+    "candidates": [
+      "Grain Priority",
+      "Gender Priorities",
+      "Equal Danger Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Omer and shetei ha-lechem preceding their accompanying animal offerings, which is exactly what the 'Grain Priority' section's prose describes.",
+      "chosen_heading": "Grain Priority",
+      "current_heading": "Grain Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Equal Danger Rule",
+    "candidates": [
+      "Gender Priorities",
+      "Equal Danger Rule",
+      "Self & Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire Mishnah text covering all its rulings (man precedes woman in rescue/lost objects, woman precedes man in clothing/captivity, and the equal-danger exception), which corresponds to the 'Gender Priorities' section prose that summarizes all these rules together, rather than the 'Equal Danger Rule' section which discusses only the qualification and Rashi's commentary on it.",
+      "chosen_heading": "Gender Priorities",
+      "current_heading": "Equal Danger Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Self & Family",
+    "candidates": [
+      "Equal Danger Rule",
+      "Self & Family",
+      "Torah over Kingship",
+      "Meritocracy Irony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about captivity precedence (self, then rebbe, then father, then mother) is precisely what the 'Self & Family' section's prose discusses in detail.",
+      "chosen_heading": "Self & Family",
+      "current_heading": "Self & Family",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Meritocracy Irony",
+    "candidates": [
+      "Torah over Kingship",
+      "Meritocracy Irony",
+      "King over Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the rule that a Torah scholar precedes the king of Israel, which is exactly what heading 0 ('Torah over Kingship') introduces, while heading 1 ('Meritocracy Irony') contains the essay's own explanation and commentary on this very passage \u2014 meaning the quoted text belongs under the heading that introduces the rule, not under the heading that analyzes it.",
+      "chosen_heading": "Torah over Kingship",
+      "current_heading": "Meritocracy Irony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "King over Kohen",
+    "candidates": [
+      "Meritocracy Irony",
+      "King over Kohen",
+      "Kohen vs. Prophet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the king precedes the High Priest with the same verse cited in candidate 1's prose about David directing Tzadok, matching perfectly with the 'King over Kohen' section.",
+      "chosen_heading": "King over Kohen",
+      "current_heading": "King over Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Kohen vs. Prophet",
+    "candidates": [
+      "Kohen vs. Prophet",
+      "Disqualification Types",
+      "War Priest Ranking",
+      "Administrative Ranks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohen vs. Prophet",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Kohen Gadol vs. prophet passage, exactly matching the 'Kohen vs. Prophet' section's prose about Tzadok before Nathan and the Joshua/mofes derivation.",
+      "second_heading": "Disqualification Types",
+      "second_confidence": "high",
+      "second_reason": "Item 2 lists the internal hierarchy of High Priest types (anointing oil vs. multiple garments, seminal emission vs. blemish, anointed for war vs. deputy), which is a new Mishnaic unit whose content aligns with the 'Disqualification Types' and 'War Priest Ranking' sections rather than the Kohen vs. Prophet discussion.",
+      "current_heading": "Kohen vs. Prophet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Administrative Ranks",
+    "candidates": [
+      "Disqualification Types",
+      "War Priest Ranking",
+      "Administrative Ranks",
+      "Tumah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the administrative hierarchy from sgan through amarkal, gizbar, rosh mishmar, rosh beit av, down to kohen hedyot, which is precisely what the 'Administrative Ranks' section's prose discusses.",
+      "chosen_heading": "Administrative Ranks",
+      "current_heading": "Administrative Ranks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Tumah Exception",
+    "candidates": [
+      "Tumah Exception",
+      "Tribal Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the tumah dilemma between the sgan and mashuach milchama encountering a met mitzva, which is precisely what the 'Tumah Exception' prose discusses in detail.",
+      "chosen_heading": "Tumah Exception",
+      "current_heading": "Tumah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Tribal Hierarchy",
+    "candidates": [
+      "Tribal Hierarchy",
+      "Equality Condition",
+      "Torah Merit Overrides",
+      "Rav Moshe Reading",
+      "Dogs vs. Cats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items cover the tribal hierarchy Mishnah and its Gemara exposition \u2014 the ranking of Kohen/Levi/Yisrael/mamzer/nasin/ger/eved meshuchrar with scriptural derivations, the equality condition, the Torah-scholar override, and the Gibeonite/convert/slave distinctions \u2014 which exactly matches the 'Tribal Hierarchy' prose that covers all these elements together.",
+      "chosen_heading": "Tribal Hierarchy",
+      "current_heading": "Tribal Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Dogs vs. Cats",
+    "candidates": [
+      "Equality Condition",
+      "Torah Merit Overrides",
+      "Rav Moshe Reading",
+      "Dogs vs. Cats",
+      "Rat Dominance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is exactly the dog-vs-cat question answered by Rabbi Elazar using the mouse-eating logic, which is precisely what the 'Dogs vs. Cats' section's prose describes.",
+      "chosen_heading": "Dogs vs. Cats",
+      "current_heading": "Dogs vs. Cats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Rat Dominance",
+    "candidates": [
+      "Rat Dominance",
+      "Forgetting Causes",
+      "Restoring Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss why mice/rats are preyed upon due to their destructive inclination, exactly matching the 'Rat Dominance' prose which describes Rava's and Rav Papa's statements about gnawing on clothes and shovel handles.",
+      "chosen_heading": "Rat Dominance",
+      "current_heading": "Rat Dominance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Restoring Learning",
+    "candidates": [
+      "Forgetting Causes",
+      "Restoring Learning",
+      "Olive Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the forgetting and restoring lists as a single baraita unit, and heading 0 ('Forgetting Causes') is where this complete baraita belongs, since it introduces the full passage including both halves \u2014 the essay separates them artificially, but the passage as quoted is one unit best anchored under the heading that covers its opening topic.",
+      "chosen_heading": "Forgetting Causes",
+      "current_heading": "Restoring Learning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Olive Paradox",
+    "candidates": [
+      "Restoring Learning",
+      "Olive Paradox",
+      "Wine & Salt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses olive oil restoring Torah study and cites Rabbi Yochanan's paradox about olives causing forgetting while olive oil restores learning, which is exactly what the 'Olive Paradox' section's prose describes.",
+      "chosen_heading": "Olive Paradox",
+      "current_heading": "Olive Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Wine & Salt",
+    "candidates": [
+      "Wine & Salt",
+      "Learning Obstacles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss things that restore forgotten Torah study \u2014 wine/spices and dipping a finger in salt \u2014 which matches exactly the 'Wine & Salt' section's prose about chamra vereichani and the finger-in-salt dispute.",
+      "chosen_heading": "Wine & Salt",
+      "current_heading": "Wine & Salt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Learning Obstacles",
+    "candidates": [
+      "Learning Obstacles",
+      "Death-Related"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists all ten factors detrimental to Torah study as a single unit, and the 'Learning Obstacles' section's prose directly introduces and discusses this complete list, making it the correct placement for the entire passage.",
+      "chosen_heading": "Learning Obstacles",
+      "current_heading": "Learning Obstacles",
+      "moved": false
+    }
+  }
+]

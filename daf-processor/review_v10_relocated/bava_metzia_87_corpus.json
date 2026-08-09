@@ -1,0 +1,414 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Custom & Minhag",
+    "candidates": [
+      "Custom & Minhag",
+      "Angels Eating",
+      "Abraham's Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question about three calves (tongues with mustard) AND Rabbi Tan\u1e25um's teaching about not deviating from custom AND the angels appearing to eat \u2014 all of which are quoted together in one continuous Talmudic passage that belongs under the 'Custom & Minhag' heading, which discusses the full context including the minhag teaching and the angels eating detail.",
+      "chosen_heading": "Custom & Minhag",
+      "current_heading": "Custom & Minhag",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Abraham's Merit",
+    "candidates": [
+      "Angels Eating",
+      "Abraham's Merit",
+      "Textual Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that Rav Yehuda said in the name of Rav about Abraham's personal acts being repaid personally by God, which is exactly what the 'Abraham's Merit' section's prose introduces and discusses.",
+      "chosen_heading": "Abraham's Merit",
+      "current_heading": "Abraham's Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Textual Midrash",
+    "candidates": [
+      "Textual Midrash",
+      "Rabbi Chama Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the series of textual parallels between Abraham's personal acts and God's corresponding direct acts (items 1-2) plus Abraham's delegated act and God's corresponding delegated act (item 3), which is precisely what the 'Textual Midrash' prose describes in detail.",
+      "chosen_heading": "Textual Midrash",
+      "current_heading": "Textual Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rabbi Chama Dispute",
+    "candidates": [
+      "Rabbi Chama Dispute",
+      "Yukach Mayim",
+      "Arab Practices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi \u1e24ama bar \u1e24anina's three correspondences, which is exactly what the 'Rabbi Chama Dispute' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Chama Dispute",
+      "current_heading": "Rabbi Chama Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Arab Practices",
+    "candidates": [
+      "Yukach Mayim",
+      "Arab Practices",
+      "Divine Sensitivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the angels' protest about Arab foot-worship practices and the mention of Yishmael, which is precisely what the 'Arab Practices' section's prose describes in detail.",
+      "chosen_heading": "Arab Practices",
+      "current_heading": "Arab Practices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Divine Sensitivity",
+    "candidates": [
+      "Divine Sensitivity",
+      "Angels' Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover the narrative of God visiting Abraham on the third day after circumcision, Abraham sending Eliezer, and the angels withdrawing out of sensitivity \u2014 exactly what the 'Divine Sensitivity' prose section discusses in detail.",
+      "chosen_heading": "Divine Sensitivity",
+      "current_heading": "Divine Sensitivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Angels' Names",
+    "candidates": [
+      "Angels' Names",
+      "Accept/Refuse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the identities and roles of the three angels (Michael, Gabriel, Raphael), the textual difficulty about two angels going to Sodom, and the grammatical proof about who overturned the cities \u2014 all of which are explicitly discussed in the 'Angels' Names' prose section.",
+      "chosen_heading": "Angels' Names",
+      "current_heading": "Angels' Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Accept/Refuse",
+    "candidates": [
+      "Accept/Refuse",
+      "Promise & Fulfill"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses declining vs. accepting hospitality from lesser vs. greater men (mesarvin lekatan/legadol), which is precisely what the 'Accept/Refuse' section's prose describes.",
+      "chosen_heading": "Accept/Refuse",
+      "current_heading": "Accept/Refuse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Promise & Fulfill",
+    "candidates": [
+      "Promise & Fulfill",
+      "Ephron's Greed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's teaching about the righteous saying little and doing much, derived from Abraham's promise of bread versus his lavish feast \u2014 exactly what the 'Promise & Fulfill' section's prose describes.",
+      "chosen_heading": "Promise & Fulfill",
+      "current_heading": "Promise & Fulfill",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Ephron's Greed",
+    "candidates": [
+      "Ephron's Greed",
+      "Bread & Purity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ephron's greed \u2014 his initial offer versus the large payment ultimately extracted from Abraham \u2014 which is precisely what the 'Ephron's Greed' section's prose addresses.",
+      "chosen_heading": "Ephron's Greed",
+      "current_heading": "Ephron's Greed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Bread & Purity",
+    "candidates": [
+      "Bread & Purity",
+      "Courtesy Duty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (flour/fine flour stinginess, missing bread, and Sarah's niddah explanation) are explicitly discussed together in the 'Bread & Purity' prose, which covers exactly these points in sequence.",
+      "chosen_heading": "Bread & Purity",
+      "current_heading": "Bread & Purity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Courtesy Duty",
+    "candidates": [
+      "Courtesy Duty",
+      "Miraculous Nursing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the angels' question 'Where is Sarah?' \u2014 her modesty, endearing her to Abraham, sending the cup of blessing, and the dotted letters teaching courtesy \u2014 all of which are explicitly addressed in the 'Courtesy Duty' prose.",
+      "chosen_heading": "Courtesy Duty",
+      "current_heading": "Courtesy Duty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Miraculous Nursing",
+    "candidates": [
+      "Miraculous Nursing",
+      "Isaac's Features",
+      "Abraham's Prayer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Miraculous Nursing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss Sarah's beauty returning, God altering Sarah's words for peace's sake, and the school of Rabbi Yishmael's teaching on peace \u2014 all topics covered in heading 0's prose about Rav Chisda's exposition of 'acharei beloti' and the surrounding verses.",
+      "second_heading": "Isaac's Features",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 describe the feast, Sarah nursing multiple children, and Isaac's face transforming to resemble Abraham \u2014 exactly what heading 1 ('Isaac's Features') discusses as the conclusion of the nursing miracle and universal acknowledgment that Abraham fathered Isaac.",
+      "current_heading": "Miraculous Nursing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Abraham's Prayer",
+    "candidates": [
+      "Isaac's Features",
+      "Abraham's Prayer",
+      "Jacob's Sickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about Abraham praying for visible old age, which is precisely what the 'Abraham's Prayer' section discusses in detail.",
+      "chosen_heading": "Abraham's Prayer",
+      "current_heading": "Abraham's Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Jacob's Sickness",
+    "candidates": [
+      "Jacob's Sickness",
+      "Elisha's Illness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Jacob's introduction of pre-death illness AND Elisha's introduction of recoverable illness in a single continuous Talmudic unit, and the current placement under 'Jacob's Sickness' is appropriate as it begins with Jacob and the Elisha portion is a continuation of the same gemara passage, whereas the 'Elisha's Illness' section's prose goes beyond this text to discuss the three illnesses of Elisha (a separate baraita not included here).",
+      "chosen_heading": "Jacob's Sickness",
+      "current_heading": "Jacob's Sickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Elisha's Illness",
+    "candidates": [
+      "Elisha's Illness",
+      "Stipulations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Elisha's three illnesses directly matches the prose in candidate 0, which explicitly discusses 'tanu rabbanan, shlosha cholayim chala Elisha' and the same three reasons for his illnesses.",
+      "chosen_heading": "Elisha's Illness",
+      "current_heading": "Elisha's Illness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Stipulations",
+    "candidates": [
+      "Stipulations",
+      "Mishna Frame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the grammatical question about 'pat kitnit' vs 'pat vekitnit' and the employer's stipulation to feed workers only bread and legumes, which is precisely what the 'Stipulations' prose section describes.",
+      "chosen_heading": "Stipulations",
+      "current_heading": "Stipulations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Mishna Frame",
+    "candidates": [
+      "Mishna Frame",
+      "Biblical Source"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Mishna Frame",
+      "current_heading": "Mishna Frame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Biblical Source",
+      "Extending Produce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Biblical Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the biblical derivation from vineyard and standing grain verses and the verbal analogy (gezera shava) establishing which standing grain is meant, matching exactly what heading 0 ('Biblical Source') describes.",
+      "second_heading": "Extending Produce",
+      "second_confidence": "high",
+      "second_reason": "Item 6 begins the hatzad hashaveh (common denominator) argument cycling between vineyard and standing grain to extend the rule to all produce, which is precisely what heading 1 ('Extending Produce') describes.",
+      "current_heading": "Biblical Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Extending Produce",
+    "candidates": [
+      "Extending Produce",
+      "Sickle & Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the hatzad hashaveh argument extending the laborer's eating rights to all earth-grown produce, the mizbe'ach objection, Rav Pappa's kerem zayit point, and Shmuel's sickle answer \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Extending Produce",
+      "current_heading": "Extending Produce",
+      "moved": false
+    }
+  }
+]

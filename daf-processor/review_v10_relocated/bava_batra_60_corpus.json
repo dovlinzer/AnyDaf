@@ -1,0 +1,441 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Lakach Bayis Rule",
+    "candidates": [
+      "Daf 60 Intro",
+      "Chazakah to Rights",
+      "Lakach Bayis Rule",
+      "Foot Traffic",
+      "Addition & Loft",
+      "Rav Huna Subdivision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Items 1-4 form the opening Mishnah and its immediate Gemara discussion about window-opening into a shared courtyard, which fits under 'Chazakah to Rights' as an introduction to these mishnayot about neighbors and rights of use \u2014 but Candidate 2's prose also addresses these specific rules, making the current placement plausible; however, Candidate 1's prose more explicitly frames these mishnayot as a thematic unit about rights/neighbors that this Mishnah+Gemara pair naturally opens.",
+      "chosen_heading": "Chazakah to Rights",
+      "current_heading": "Lakach Bayis Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rav Huna Subdivision",
+    "candidates": [
+      "Foot Traffic",
+      "Addition & Loft",
+      "Rav Huna Subdivision",
+      "Doorways vs Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "Rav Na\u1e25man's ruling about sealing a window establishing an immediate \u1e25azakah relates to the discussion of doorways, light, and structural features as legal markers \u2014 closest to the 'Doorways vs Intent' section which discusses physical structural features (doors, construction) as proxies for legal rights, rather than the subdivision discussion of candidate 2.",
+      "chosen_heading": "Doorways vs Intent",
+      "current_heading": "Rav Huna Subdivision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Doorways vs Intent",
+    "candidates": [
+      "Doorways vs Intent",
+      "Facing Doors/Windows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the mishna's ruling about opening a house into a partners' courtyard and Rav Huna's explanation of what 'room' and 'loft' mean in terms of subdivision vs. new construction \u2014 exactly the content discussed in the 'Doorways vs Intent' prose, which explicitly references Rav Huna's structural criterion and the subdivision question.",
+      "chosen_heading": "Doorways vs Intent",
+      "current_heading": "Doorways vs Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Facing Doors/Windows",
+    "candidates": [
+      "Facing Doors/Windows",
+      "Door Size & Division",
+      "Reshut Harabim Exception",
+      "Bilam & Tents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah as a whole covers all three topics (facing doors/windows, size/division rules, and the reshut harabim exception), but the current heading 'Facing Doors/Windows' is the primary subject of this mishna and where it currently sits, and the prose under heading 0 explicitly introduces and discusses this exact mishnah text in full.",
+      "chosen_heading": "Facing Doors/Windows",
+      "current_heading": "Facing Doors/Windows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Bilam & Tents",
+    "candidates": [
+      "Door Size & Division",
+      "Reshut Harabim Exception",
+      "Bilam & Tents",
+      "Rabbah's Property View",
+      "Rava Privacy Concern",
+      "One vs Two Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text asking for the scriptural source of the prohibition and citing Rabbi Yo\u1e25anan's answer from the verse about Balaam seeing Israel's tent entrances not aligned \u2014 exactly what the 'Bilam & Tents' section prose describes.",
+      "chosen_heading": "Bilam & Tents",
+      "current_heading": "Bilam & Tents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "One vs Two Doors",
+    "candidates": [
+      "Rabbah's Property View",
+      "Rava Privacy Concern",
+      "One vs Two Doors",
+      "No Tunnels",
+      "Eliezer Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "One vs Two Doors",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 continue the same Rava/Rami bar Chama dispute about doorway enlargement and privacy (hezek re'iyah), directly matching the 'One vs Two Doors' and 'Rava Privacy Concern' discussion, with item 3 being the public domain exception that candidate 2's prose explicitly mentions.",
+      "second_heading": "No Tunnels",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is a new Mishnah ('MISHNA:') introducing an entirely different topic \u2014 tunneling beneath the public domain and projections \u2014 which is precisely what the 'No Tunnels' prose describes.",
+      "current_heading": "One vs Two Doors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Eliezer Exception",
+    "candidates": [
+      "No Tunnels",
+      "Eliezer Exception",
+      "Maintenance Issue",
+      "Zizim Prohibition",
+      "Inset Wall Solution",
+      "Bought Courtyard",
+      "Yannai & Ammi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbis' concern that the cover erodes over time without the owner being aware, which is exactly what the 'Maintenance Issue' prose describes as *zimnin demifchit velav adateih*.",
+      "chosen_heading": "Maintenance Issue",
+      "current_heading": "Eliezer Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Yannai & Ammi",
+    "candidates": [
+      "Maintenance Issue",
+      "Zizim Prohibition",
+      "Inset Wall Solution",
+      "Bought Courtyard",
+      "Yannai & Ammi",
+      "Tree Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items form the continuous Rabbi Ami story \u2014 his ruling to sever the protrusion and his explanation distinguishing the mavoi (where mechilah is possible) from the reshut harabim (where no bounded group can waive) \u2014 which is precisely what the 'Yannai & Ammi' prose describes.",
+      "chosen_heading": "Yannai & Ammi",
+      "current_heading": "Yannai & Ammi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Tree Story",
+    "candidates": [
+      "Tree Story",
+      "Self-Criticism First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together narrate the complete Rabbi Yannai tree story \u2014 his delay, overnight cutting of his own tree, and next-day ruling \u2014 which is precisely what the 'Tree Story' prose describes in full detail.",
+      "chosen_heading": "Tree Story",
+      "current_heading": "Tree Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Self-Criticism First",
+    "candidates": [
+      "Self-Criticism First",
+      "Konas Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the Reish Lakish principle about adorning/correcting oneself before others, which is precisely what the 'Self-Criticism First' section's prose discusses.",
+      "chosen_heading": "Self-Criticism First",
+      "current_heading": "Self-Criticism First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Konas Debate",
+    "candidates": [
+      "Konas Debate",
+      "Restore Wall?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the konas/hotzi dilemma (drawing back but not extending) and the Rabbi Yo\u1e25anan/Reish Lakish debate about whether one may later extend protrusions, which matches exactly the prose of heading 0, not the 'restore wall' question described in heading 1.",
+      "chosen_heading": "Konas Debate",
+      "current_heading": "Konas Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Restore Wall?",
+    "candidates": [
+      "Restore Wall?",
+      "Yaakov Resolution",
+      "Public Passage Rights",
+      "Reish Lakish View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ya'akov's explanation to Rabbi Yirmiyah bar Ta\u1e25lifa clarifying the terms of the dispute \u2014 that everyone agrees on extending protrusions and the disagreement is only about restoring the walls \u2014 which is precisely what the 'Yaakov Resolution' prose describes.",
+      "chosen_heading": "Yaakov Resolution",
+      "current_heading": "Restore Wall?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Reish Lakish View",
+    "candidates": [
+      "Yaakov Resolution",
+      "Public Passage Rights",
+      "Reish Lakish View",
+      "Plaster Prohibition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Public Passage Rights",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (Rabbi Yochanan vs Reish Lakish dispute) belongs under 'Public Passage Rights' (index 1) which discusses Rabbi Yochanan's ruling and Rav Yehuda's principle, with Reish Lakish's qualification \u2014 all part of the same dispute about restoring a wall, matching exactly what candidate 1's prose describes.",
+      "second_heading": "Plaster Prohibition",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 introduce a new case about a courtyard with projections/balconies (zizin and gezuztraot) and then pivot to a baraita about plastering prohibitions as a zecher le-churban, which is precisely the scenario described in candidate 3 'Plaster Prohibition'.",
+      "current_heading": "Reish Lakish View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Plaster Prohibition",
+    "candidates": [
+      "Reish Lakish View",
+      "Plaster Prohibition",
+      "Existing Plaster OK",
+      "Ascetics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about plastering a house with lime plaster (sid) and the permitted alternatives (sand or straw), which is exactly what the 'Plaster Prohibition' section's prose describes.",
+      "chosen_heading": "Plaster Prohibition",
+      "current_heading": "Plaster Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Ascetics",
+    "candidates": [
+      "Existing Plaster OK",
+      "Ascetics",
+      "Yehoshua's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the ascetics multiplying and their initial exchange with Rabbi Yehoshua about not eating meat or drinking wine, which matches exactly the 'Ascetics' section prose about rabu prushim and Rabbi Yehoshua engaging with them \u2014 the extended reductio argument belongs under 'Yehoshua's Logic'.",
+      "chosen_heading": "Ascetics",
+      "current_heading": "Ascetics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Yehoshua's Logic",
+    "candidates": [
+      "Yehoshua's Logic",
+      "Balanced Mourning",
+      "Specific Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text for Rabbi Yehoshua's reductio ad absurdum argument about bread, produce, and water, which is exactly what the prose under 'Yehoshua's Logic' describes and analyzes.",
+      "chosen_heading": "Yehoshua's Logic",
+      "current_heading": "Yehoshua's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Specific Measures",
+    "candidates": [
+      "Balanced Mourning",
+      "Specific Measures",
+      "Wedding Ashes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Balanced Mourning",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yehoshua's articulation of the principle of balanced mourning (not too little, not too much), which matches exactly the 'Balanced Mourning' prose discussion of that same speech and verse.",
+      "second_heading": "Specific Measures",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 describe the specific practical measures (unplastered wall, leaving food at a meal) that match exactly the 'Specific Measures' prose discussion of those same rulings by Rav Yosef, Rav \u1e24isda, and Rav Pappa.",
+      "current_heading": "Specific Measures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Wedding Ashes",
+    "candidates": [
+      "Wedding Ashes",
+      "Mourning Promise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the practices described in the 'Wedding Ashes' prose: Item 1 introduces the woman's cosmetic omission and the Psalm verse, and Item 2 explains the ashes placed on the groom's head at the wedding (rosh simchati) and where they are placed \u2014 exactly what the 'Wedding Ashes' section's prose elaborates upon.",
+      "chosen_heading": "Wedding Ashes",
+      "current_heading": "Wedding Ashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Mourning Promise",
+    "candidates": [
+      "Mourning Promise",
+      "Stricter vs Capable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about mourning for Jerusalem and meriting to see its joy, which is precisely what the 'Mourning Promise' prose discusses.",
+      "chosen_heading": "Mourning Promise",
+      "current_heading": "Mourning Promise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Stricter vs Capable",
+    "candidates": [
+      "Stricter vs Capable",
+      "Persecution View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yishmael ben Elisha's statement about not eating meat or drinking wine after the Temple's destruction and the principle that a decree the public cannot abide by is not issued, which matches exactly the prose in candidate 0 ('Stricter vs Capable').",
+      "chosen_heading": "Stricter vs Capable",
+      "current_heading": "Stricter vs Capable",
+      "moved": false
+    }
+  }
+]

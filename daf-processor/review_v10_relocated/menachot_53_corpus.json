@@ -1,0 +1,22 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Matzah Rule & Exceptions",
+    "candidates": [
+      "Chapter Overview",
+      "Matzah Rule & Exceptions",
+      "Exceptions - Not Burned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna stating the matzah rule and its exceptions (todah and shtei halechem), which is precisely what the 'Matzah Rule & Exceptions' section's prose describes and discusses.",
+      "chosen_heading": "Matzah Rule & Exceptions",
+      "current_heading": "Matzah Rule & Exceptions",
+      "moved": false
+    }
+  }
+]

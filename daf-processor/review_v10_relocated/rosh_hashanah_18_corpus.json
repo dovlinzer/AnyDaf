@@ -1,0 +1,647 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Yochanan's Teshuvah",
+    "candidates": [
+      "Yochanan's Teshuvah",
+      "Papa's Challenge",
+      "Healing Proof",
+      "RH to YK Window"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yochanan's Teshuvah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's statement that teshuva tears up the gzar din, which matches heading 0 ('Yochanan's Teshuvah') exactly.",
+      "second_heading": "Papa's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Pappa's challenge (perhaps the verse speaks before gzar din?), which matches heading 1 ('Papa's Challenge') \u2014 but the healing response in item 2 also belongs under heading 2 ('Healing Proof'); however since item 2 contains both the challenge and Abaye's healing response together, and heading 1's prose only covers the challenge while heading 2 covers the healing response, the structural seam is actually between item 1 and item 2, with item 2 best placed under heading 1 since it opens with Rav Pappa's challenge \u2014 though the full exchange (challenge + answer) matches headings 1 and 2 together, the closest single heading for item 2 as a unit is heading 1.",
+      "current_heading": "Yochanan's Teshuvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "RH to YK Window",
+    "candidates": [
+      "Papa's Challenge",
+      "Healing Proof",
+      "RH to YK Window",
+      "Yachid/Tzibur Split",
+      "Wicked\u2192Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita objection about the Rosh HaShana to Yom Kippur window and the rams of Nebaioth, which is precisely what heading 2 ('RH to YK Window') describes in its prose \u2014 the current placement is correct.",
+      "chosen_heading": "RH to YK Window",
+      "current_heading": "RH to YK Window",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Wicked\u2192Teshuvah",
+    "candidates": [
+      "Yachid/Tzibur Split",
+      "Wicked\u2192Teshuvah",
+      "Timing Solution",
+      "Righteous\u2192Backslide",
+      "Bad Timing",
+      "Challenge Logic",
+      "System Preference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wicked\u2192Teshuvah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the 'wicked on Rosh Hashanah who later repented' scenario with meager rain decreed, which is precisely what heading 1 ('Wicked\u2192Teshuvah') discusses.",
+      "second_heading": "Righteous\u2192Backslide",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the reverse scenario of righteous Jews who backslid with abundant rain decreed, which is precisely what heading 3 ('Righteous\u2192Backslide') discusses.",
+      "current_heading": "Wicked\u2192Teshuvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "System Preference",
+    "candidates": [
+      "Timing Solution",
+      "Righteous\u2192Backslide",
+      "Bad Timing",
+      "Challenge Logic",
+      "System Preference",
+      "Jonah Reversal",
+      "Sea Voyage Psalm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage poses the sharp question of why God doesn't simply tear up the gzar din for good (matching 'Challenge Logic' prose exactly), then provides the answer that it is possible to achieve the result within the existing framework \u2014 both the question and answer belong together under the heading that poses this precise challenge.",
+      "chosen_heading": "Challenge Logic",
+      "current_heading": "System Preference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Sea Voyage Psalm",
+    "candidates": [
+      "Jonah Reversal",
+      "Sea Voyage Psalm",
+      "Inverted Nuns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the psalm verses about sea voyagers that the 'Sea Voyage Psalm' prose section explicitly describes and discusses.",
+      "chosen_heading": "Sea Voyage Psalm",
+      "current_heading": "Sea Voyage Psalm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Inverted Nuns",
+    "candidates": [
+      "Inverted Nuns",
+      "Asterisk Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 explaining that crying out before gezar din is answered but after is not \u2014 directly matches the 'Asterisk Meaning' section's prose, which quotes and discusses exactly these phrases (tza'aku kodem gezar din / tza'aku le'achar gezar din), whereas the current 'Inverted Nuns' section discusses only the existence and nature of the markers themselves.",
+      "chosen_heading": "Asterisk Meaning",
+      "current_heading": "Inverted Nuns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Asterisk Meaning",
+    "candidates": [
+      "Inverted Nuns",
+      "Asterisk Meaning",
+      "Bluriah Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'hani nami keyichidim dami' (those are also considered like individuals) is explicitly quoted and explained in the 'Asterisk Meaning' section's prose, which discusses exactly this Gemara answer about sailors being regarded as yechidim rather than a tzibur.",
+      "chosen_heading": "Asterisk Meaning",
+      "current_heading": "Asterisk Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Bluriah Challenge",
+    "candidates": [
+      "Bluriah Challenge",
+      "Debtor Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the challenge posed by Beloreya/Bluriah the convert to Rabban Gamliel about the contradiction between God showing no favor and showing favor, which is exactly what the 'Bluriah Challenge' section's prose describes.",
+      "chosen_heading": "Bluriah Challenge",
+      "current_heading": "Bluriah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Debtor Parable",
+    "candidates": [
+      "Debtor Parable",
+      "God vs Man",
+      "Akiva Resolve"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the debtor parable itself, which is what candidate 0's prose explicitly describes, making the current placement correct.",
+      "chosen_heading": "Debtor Parable",
+      "current_heading": "Debtor Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Akiva Resolve",
+    "candidates": [
+      "God vs Man",
+      "Akiva Resolve",
+      "Twin Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Akiva's resolution (kodem/le'achar gzar din) and the Gemara's response (hacha nami be-yachid), which is precisely what the 'Akiva Resolve' prose describes.",
+      "chosen_heading": "Akiva Resolve",
+      "current_heading": "Akiva Resolve",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Twin Cases",
+    "candidates": [
+      "Twin Cases",
+      "Meir's Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with the twin cases of illness and tribunal judgment, which is precisely what the 'Twin Cases' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Twin Cases",
+      "current_heading": "Twin Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Meir's Prayer",
+    "candidates": [
+      "Meir's Prayer",
+      "Elazar Timing",
+      "Yitzchak Both Times",
+      "Jeremiah Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meir's Prayer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Meir's explanation that the difference in outcome is due to the quality/completeness of prayer, which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Elazar Timing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Elazar's 'before/after gzar din' explanation and Rabbi Yitzchak's rebuttal, which together correspond to candidates 1 and 2 \u2014 but since item 2 contains both Elazar and Yitzchak in one continuous exchange, and candidate 1's prose covers Elazar while candidate 2's prose covers Yitzchak, the structural seam is actually between items 1 and 2, with item 2 belonging under candidate 1 as the start of that dispute (noting the automated pipeline may further need to split Elazar from Yitzchak, but that is a single continuous dispute best placed at candidate 1).",
+      "current_heading": "Meir's Prayer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Jeremiah Contradiction",
+    "candidates": [
+      "Elazar Timing",
+      "Yitzchak Both Times",
+      "Jeremiah Contradiction",
+      "Shevu'ah Factor",
+      "Eli Oath Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether a community's gzar din can be torn up and the two contradictory Jeremiah verses, which is precisely what the 'Jeremiah Contradiction' section's prose describes.",
+      "chosen_heading": "Jeremiah Contradiction",
+      "current_heading": "Jeremiah Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Eli Oath Source",
+    "candidates": [
+      "Shevu'ah Factor",
+      "Eli Oath Source",
+      "Torah Loophole",
+      "Chesed Factor",
+      "Eli Descendants",
+      "Lifespan Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's resolution distinguishing gzar din with vs. without a shevu'ah, plus the proof text from Eli \u2014 which is exactly what candidate 0 ('Shevu'ah Factor') describes in its prose, whereas candidate 1 ('Eli Oath Source') describes only the proof text derivation that follows after the distinction is already established.",
+      "chosen_heading": "Shevu'ah Factor",
+      "current_heading": "Eli Oath Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Lifespan Evidence",
+    "candidates": [
+      "Torah Loophole",
+      "Chesed Factor",
+      "Eli Descendants",
+      "Lifespan Evidence",
+      "Death at 18",
+      "Zakkai Diagnosis"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Zakkai Diagnosis",
+    "candidates": [
+      "Death at 18",
+      "Zakkai Diagnosis",
+      "Torah Success",
+      "Never Sealed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete baraita including both the family's report and Rabban Yochanan's diagnosis and the outcome, but heading 0 ('Death at 18') is where the baraita begins and its prose explicitly introduces this baraita with 'The Gemara now presents a baraita,' making it the natural home for the entire quoted passage rather than splitting it across multiple sections.",
+      "chosen_heading": "Death at 18",
+      "current_heading": "Zakkai Diagnosis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Never Sealed",
+    "candidates": [
+      "Torah Success",
+      "Never Sealed",
+      "Sealed Verse",
+      "Can Tear Up",
+      "Isaiah Proof",
+      "When Found"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full arc of the teaching \u2014 the initial question about the communal decree never being sealed, the challenge from Jeremiah, and the resolution that it can be torn up \u2014 which matches the 'Never Sealed' section's prose introduction of this exact teaching by Rav Shmuel bar Inya citing Rav.",
+      "chosen_heading": "Never Sealed",
+      "current_heading": "Never Sealed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "When Found",
+    "candidates": [
+      "Sealed Verse",
+      "Can Tear Up",
+      "Isaiah Proof",
+      "When Found",
+      "Ten Days RH-YK",
+      "Naval Reprieve"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the verse 'dirshu Hashem be-himmatz'o' and the distinction between yachid and tzibur, which is precisely what the 'When Found' section prose discusses.",
+      "chosen_heading": "When Found",
+      "current_heading": "When Found",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Naval Reprieve",
+    "candidates": [
+      "Ten Days RH-YK",
+      "Naval Reprieve",
+      "Bnei Maron",
+      "Sheep Counting",
+      "Mountain Pass",
+      "Soldiers Ready"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the ten days between RH and YK for an individual AND the Naval story with both explanations (ten meals vs. ten days of teshuvah), which matches exactly the 'Naval Reprieve' section's prose that covers both Rav Yehuda/Rav's answer and Rav Nachman/Rabbah bar Avuha's answer about the ten days.",
+      "chosen_heading": "Naval Reprieve",
+      "current_heading": "Naval Reprieve",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Soldiers Ready",
+    "candidates": [
+      "Bnei Maron",
+      "Sheep Counting",
+      "Mountain Pass",
+      "Soldiers Ready",
+      "One Glance",
+      "Mishnah Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces and asks 'what is bnei maron?' then gives all three interpretations (sheep, mountain pass, soldiers), which is precisely what the 'Bnei Maron' section's prose says it will cover \u2014 the subsequent headings discuss each interpretation individually in the essay's prose, but the Talmudic source text presenting all three belongs under the introductory 'Bnei Maron' heading.",
+      "chosen_heading": "Bnei Maron",
+      "current_heading": "Soldiers Ready",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Mishnah Support",
+    "candidates": [
+      "One Glance",
+      "Mishnah Support",
+      "Six Month List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbah bar bar \u1e24ana's statement about a single scan AND Rav Na\u1e25man bar Yitz\u1e25ak's proof from the verse, and the prose under heading 0 ('One Glance') explicitly discusses both of these elements together, while heading 1's prose describes this same content in the past tense as already having been covered, suggesting the passage belongs under heading 0.",
+      "chosen_heading": "One Glance",
+      "current_heading": "Mishnah Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Six Month List",
+    "candidates": [
+      "Mishnah Support",
+      "Six Month List",
+      "Temple Pesach 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text listing the six months for which messengers go out matches directly with the 'Six Month List' section prose, which explicitly discusses the same content (the six months, their reasons, and the mechanics of why each month requires messengers).",
+      "chosen_heading": "Six Month List",
+      "current_heading": "Six Month List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Temple Pesach 2",
+    "candidates": [
+      "Temple Pesach 2",
+      "Minor Fasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about messengers going out in Iyyar for Pesach Sheni when the Temple stood, which is precisely what the 'Temple Pesach 2' prose discusses in detail.",
+      "chosen_heading": "Temple Pesach 2",
+      "current_heading": "Temple Pesach 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Minor Fasts",
+    "candidates": [
+      "Minor Fasts",
+      "Four Fasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks why messengers are not sent for Tammuz and Tevet, which is precisely the question described in the 'Minor Fasts' prose about ve-lifok nami ateivet ve-tamuz and the discussion of minor fast days.",
+      "chosen_heading": "Minor Fasts",
+      "current_heading": "Minor Fasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Four Fasts",
+    "candidates": [
+      "Four Fasts",
+      "Peace Determines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav \u1e24ana bar Bizna/Rabbi Shimon \u1e24asida teaching about the verse in Zechariah calling the same days both 'fast' and 'joy and gladness,' which is exactly what the 'Four Fasts' section prose describes, including the internal tension requiring resolution.",
+      "chosen_heading": "Four Fasts",
+      "current_heading": "Four Fasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Peace Determines",
+    "candidates": [
+      "Peace Determines",
+      "Three States",
+      "Tisha B'Av Special"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three states (peace\u2192joy, persecution\u2192fast, neither\u2192optional), but the current heading 'Peace Determines' and its prose directly quotes and discusses Rav Pappa's statement as a whole, making it the primary home, while 'Three States' prose only elaborates the middle condition separately.",
+      "chosen_heading": "Peace Determines",
+      "current_heading": "Peace Determines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Tisha B'Av Special",
+    "candidates": [
+      "Three States",
+      "Tisha B'Av Special",
+      "Month Numbers",
+      "Breach Tammuz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Tisha B'Av is different from other fasts due to multiplied calamities, which is exactly what the 'Tisha B'Av Special' section's prose addresses.",
+      "chosen_heading": "Tisha B'Av Special",
+      "current_heading": "Tisha B'Av Special",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Breach Tammuz",
+    "candidates": [
+      "Month Numbers",
+      "Breach Tammuz",
+      "Burn Av",
+      "Gedaliah 3 Tishrei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita introduces Rabbi Shimon's preface about four matters where he disagrees with Rabbi Akiva's expositions, which matches heading 0's prose exactly ('Rabbi Shimon prefaces the discussion by noting that there were four matters on which Rabbi Akiva offered interpretations with which he himself disagrees'), whereas heading 1's prose discusses the 17th of Tammuz and Tosafot's explanation \u2014 content not present in this passage, which only covers Rabbi Akiva's view that the ninth of Tammuz is the fast of the fourth month.",
+      "chosen_heading": "Month Numbers",
+      "current_heading": "Breach Tammuz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Gedaliah 3 Tishrei",
+    "candidates": [
+      "Burn Av",
+      "Gedaliah 3 Tishrei",
+      "Siege Teves"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      174
+    ],
+    "current_heading": "Siege Teves",
+    "candidates": [
+      "Siege Teves",
+      "Report 5 Teves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the tenth of Tevet and the siege of Babylon, explaining why it is listed last despite being chronologically first, which matches exactly the prose under 'Siege Teves' (candidate 0).",
+      "chosen_heading": "Siege Teves",
+      "current_heading": "Siege Teves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Report 5 Teves",
+    "candidates": [
+      "Report 5 Teves",
+      "Shimon Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expounds Rabbi Shimon's identification of 'tzom ha-asiri' as the fifth of Tevet and the report reaching the exile, which is precisely what the 'Report 5 Teves' section prose discusses in detail.",
+      "chosen_heading": "Report 5 Teves",
+      "current_heading": "Report 5 Teves",
+      "moved": false
+    }
+  }
+]

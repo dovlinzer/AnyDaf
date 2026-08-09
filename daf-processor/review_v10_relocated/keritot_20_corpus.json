@@ -1,0 +1,234 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Mit'asek Definition",
+      "Chalavim v'Arayos",
+      "Shabbat Mit'asek",
+      "Fundamental vs. Technical",
+      "Rabbi Shimon's View",
+      "True Mit'asek",
+      "Rabbi Yehuda",
+      "Shem Echad Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rav Oshaya's objection based on Rabbi Shimon Shezuri and Rabbi Shimon's positions, then questions what Rabbi Yehuda adds beyond their view, and concludes that the real dispute between them is whether mit'asek is liable or exempt \u2014 exactly the content described in the 'Rabbi Shimon's View' prose.",
+      "chosen_heading": "Rabbi Shimon's View",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Shem Echad Resolution",
+    "candidates": [
+      "True Mit'asek",
+      "Rabbi Yehuda",
+      "Shem Echad Resolution",
+      "Candle Baraisa",
+      "One vs. Two Breaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1 and 2 present the resolution that mit'asek is universally exempt and the Mishnah debate concerns only avad melaket milibo \u2014 distinguishing shem echad vs. shnei shemos between Rabbi Shimon Shezuri and Rabbi Yehuda \u2014 which is precisely what heading 2 ('Shem Echad Resolution') describes, and Item 3 (Rava's likedom alternative) is also addressed in that same prose section before the Candle Baraisa heading begins.",
+      "chosen_heading": "Shem Echad Resolution",
+      "current_heading": "Shem Echad Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "One vs. Two Breaths",
+    "candidates": [
+      "Candle Baraisa",
+      "One vs. Two Breaths",
+      "Machshavto",
+      "Coal Case Setup",
+      "Havara Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'light then extinguish in one breath' scenario and the Gemara's question about why the ruling isn't obvious, which is precisely what the 'One vs. Two Breaths' section's prose describes \u2014 including the nehi deakdumumi formula.",
+      "chosen_heading": "One vs. Two Breaths",
+      "current_heading": "One vs. Two Breaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Havara Dispute",
+    "candidates": [
+      "Machshavto",
+      "Coal Case Setup",
+      "Havara Dispute",
+      "Rabbi Yochanan",
+      "Ami and Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Baraisa's coal-shoveling case and the initial Gemara question about intent \u2014 exactly what heading 1 ('Coal Case Setup') describes \u2014 before the resolution about the blacksmith/smelter and mekalkel principle that belongs under heading 2 ('Havara Dispute').",
+      "chosen_heading": "Coal Case Setup",
+      "current_heading": "Havara Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Ami and Chanina",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Ami and Chanina",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Ami/Chanina interpretation about intending both to extinguish and kindle, the Tanna Kamma/Rabbi Yossi vs. Rabbi Eliezer/Rabbi Natan dispute about hav'arah, and Rava's order-based explanation \u2014 are precisely the content described in the 'Ami and Chanina' section's prose.",
+      "chosen_heading": "Ami and Chanina",
+      "current_heading": "Ami and Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Rav Ashi",
+      "Warming Case",
+      "Obligation Debate",
+      "Melacha Framework",
+      "vs. Eino Mitkavein",
+      "Blood Categories"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's explanation of the baraita in terms of eino mitkavein vs. psik reisha, which is precisely what candidate 0 ('Rav Ashi') discusses.",
+      "second_heading": "Warming Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new baraita about one who stokes coals to warm himself, which is exactly the new case described in candidate 1 ('Warming Case').",
+      "current_heading": "Rav Ashi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Blood Categories",
+    "candidates": [
+      "Warming Case",
+      "Obligation Debate",
+      "Melacha Framework",
+      "vs. Eino Mitkavein",
+      "Blood Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage 'Hadraan alach safeik achal chelev' is a closing formula (hadraan) marking the end of the chapter on safeik achal chelev, which directly precedes the new perek on blood categories described in candidate 4's prose.",
+      "chosen_heading": "Blood Categories",
+      "current_heading": "Blood Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Blood Categories",
+    "candidates": [
+      "Blood Categories",
+      "Blood Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage enumerates blood types that carry karet liability (dam shechita, dam nechira, dam ikur, dam hakaza), which is precisely what the 'Blood Categories' prose discusses, including the specific examples of kosher/non-kosher animals and the qualification about dam hakaza sheneshama yotze bo.",
+      "chosen_heading": "Blood Categories",
+      "current_heading": "Blood Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Blood Types",
+    "candidates": [
+      "Blood Types",
+      "Rabbi Yehuda",
+      "Tuma Exclusions",
+      "No Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists all the blood types that do not carry liability (spleen, heart, eggs, grasshoppers, tamtzit) plus Rabbi Yehuda's position on tamtzit, which is exactly what the 'Blood Types' prose discusses in detail.",
+      "chosen_heading": "Blood Types",
+      "current_heading": "Blood Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "No Prohibition",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Tuma Exclusions",
+      "No Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita deriving blood prohibitions through the tuma framework (kol dam lo tochalu \u2014 l'of ul'vehema), which matches precisely the 'Tuma Exclusions' heading's prose description of that same baraita and its derivation method, whereas the current placement ('No Prohibition') covers the exclusions that follow from that framework \u2014 the baraita itself belongs under 'Tuma Exclusions' where it is introduced.",
+      "chosen_heading": "Tuma Exclusions",
+      "current_heading": "No Prohibition",
+      "moved": true
+    }
+  }
+]

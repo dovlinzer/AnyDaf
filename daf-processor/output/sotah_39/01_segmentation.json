@@ -151,7 +151,7 @@
           "timestamp": "32:52"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -190,7 +190,7 @@
           "timestamp": "46:29"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -526,5 +526,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 6
+  "amud_b_sefaria_index": 6,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "34:43",
+  "amud_b_micro_title": "Yehi Ratzon Prayer",
+  "shiur_start_daf": 38,
+  "shiur_start_amud": "b"
 }

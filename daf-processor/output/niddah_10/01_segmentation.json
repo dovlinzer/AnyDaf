@@ -39,8 +39,8 @@
           "timestamp": "03:36"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Eliezer's Position: 90 Days Applies to Any Woman Regardless of Age",
@@ -68,7 +68,7 @@
           "timestamp": "10:01"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "17:33"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -150,7 +150,7 @@
           "timestamp": "37:48"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -810,5 +810,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "50:02",
+  "amud_b_micro_title": "Virgin Distinction",
+  "shiur_start_daf": 9,
+  "shiur_start_amud": "b"
 }

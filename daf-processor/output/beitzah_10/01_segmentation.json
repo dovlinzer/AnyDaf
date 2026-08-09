@@ -29,7 +29,7 @@
           "timestamp": "02:15"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -87,8 +87,8 @@
           "timestamp": "19:43"
         }
       ],
-      "sefaria_index": 12,
-      "matched": false
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Identifying Chickens After Designation: Changed Appearance and Number Discrepancies",
@@ -507,5 +507,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "18:26",
+  "amud_b_micro_title": "Visual ID Question",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "a"
 }

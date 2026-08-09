@@ -199,7 +199,7 @@
           "timestamp": "40:44"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -218,7 +218,7 @@
           "timestamp": "43:43"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 21,
       "matched": true
     }
   ],
@@ -454,5 +454,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "31:05",
+  "amud_b_micro_title": "Rav vs. R. Yochanan",
+  "shiur_start_daf": 45,
+  "shiur_start_amud": "a"
 }

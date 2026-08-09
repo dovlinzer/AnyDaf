@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Simchat Yom Tov",
+    "candidates": [
+      "Eliezer vs. Yehoshua",
+      "Firewood & Reshus",
+      "Simchat Yom Tov",
+      "All or Nothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Yehoshua's position that simchat Yom Tov is a mitzvah and how this connects back to his dispute with Rabbi Eliezer, which is precisely what the 'Simchat Yom Tov' section prose describes.",
+      "chosen_heading": "Simchat Yom Tov",
+      "current_heading": "Simchat Yom Tov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "All or Nothing",
+    "candidates": [
+      "All or Nothing",
+      "Half and Half",
+      "Samach Lifnei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's and Rabbi Yehoshua's positions as a single baraita, and the current heading 'All or Nothing' with its prose explicitly introduces this baraita and discusses Rabbi Eliezer's position, making it the natural home for the complete quoted text.",
+      "chosen_heading": "All or Nothing",
+      "current_heading": "All or Nothing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Samach Lifnei",
+    "candidates": [
+      "Half and Half",
+      "Samach Lifnei",
+      "Shavuot Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement about both tannaim deriving their positions from the same verses, with Rabbi Eliezer's 'o kulo' and Rabbi Yehoshua's 'chetzyo' \u2014 exactly what the 'Samach Lifnei' prose discusses in detail.",
+      "chosen_heading": "Samach Lifnei",
+      "current_heading": "Samach Lifnei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Shavuot Agreement",
+    "candidates": [
+      "Shavuot Agreement",
+      "Shabbat Lachem",
+      "Oneg vs. Simcha",
+      "Yom Kippur Shabbaton",
+      "Shabbat Rest",
+      "Purim Celebration",
+      "Fasting Exceptions",
+      "Erev YK Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three cases (Shavuot, Shabbat, Purim) as a single Talmudic unit introduced by the mnemonic, and it currently sits under 'Shavuot Agreement' which is the first of the three topics discussed, matching the essay's flow where subsequent headings (Shabbat Lachem, Purim Celebration) provide the prose commentary on each case separately.",
+      "chosen_heading": "Shavuot Agreement",
+      "current_heading": "Shavuot Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Erev YK Eating",
+    "candidates": [
+      "Shabbat Lachem",
+      "Oneg vs. Simcha",
+      "Yom Kippur Shabbaton",
+      "Shabbat Rest",
+      "Purim Celebration",
+      "Fasting Exceptions",
+      "Erev YK Eating",
+      "Ninth vs. Tenth",
+      "Yosef's Feast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes Mar bar Ravina's year-round fasting with three exceptions (Shavuot, Purim, erev Yom Kippur) and the reasons for each, which is precisely what the 'Fasting Exceptions' section's prose describes.",
+      "chosen_heading": "Fasting Exceptions",
+      "current_heading": "Erev YK Eating",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Yosef's Feast",
+    "candidates": [
+      "Ninth vs. Tenth",
+      "Yosef's Feast",
+      "Sheshet's Joy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's Shavuot feast with the choice calf and his explanation about Torah's role in his life, which exactly matches the prose of 'Yosef's Feast' (candidate 1).",
+      "chosen_heading": "Yosef's Feast",
+      "current_heading": "Yosef's Feast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Sheshet's Joy",
+    "candidates": [
+      "Sheshet's Joy",
+      "Torah's Role",
+      "Personal Investment",
+      "Joy Expression",
+      "Machshirei Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete Rav Sheshet story including the challenge about Torah sustaining heaven and earth and the resolution about personal motivation \u2014 all of which are discussed across headings 0, 1, and 2, but the current placement under 'Sheshet's Joy' is correct since the essay author split the commentary across multiple headings while the Talmudic text itself is a single unified passage that begins with Rav Sheshet and should sit under the heading that introduces him.",
+      "chosen_heading": "Sheshet's Joy",
+      "current_heading": "Sheshet's Joy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Machshirei Argument",
+    "candidates": [
+      "Torah's Role",
+      "Personal Investment",
+      "Joy Expression",
+      "Machshirei Argument",
+      "Burning Fats",
+      "Haza'ah Prohibited",
+      "Act vs. Preparation",
+      "Psul Concern",
+      "Eliezer's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the 'Machshirei Argument' section prose: items 1-2 cover Rav Ashi's kal v'chomer challenge and Rabbi Eliezer's response about shevut d'mitzvah adif, and item 3 is the baraita elaborating Rabbi Eliezer's machshirei argument \u2014 exactly as described in the candidate 3 prose.",
+      "chosen_heading": "Machshirei Argument",
+      "current_heading": "Machshirei Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Eliezer's Response",
+    "candidates": [
+      "Burning Fats",
+      "Haza'ah Prohibited",
+      "Act vs. Preparation",
+      "Psul Concern",
+      "Eliezer's Response",
+      "Inverse Logic",
+      "Akiva's Tradition",
+      "Eliezer Forgot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Psul Concern",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly cover the pre/post-shechita distinction and the psul concern argument with its Gemara rejection, matching 'Psul Concern' prose exactly.",
+      "second_heading": "Eliezer Forgot",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 cover the baraita about Rabbi Eliezer's reaction, Rabbi Akiva's revealed tradition, Ulla's teruma/Pesach distinction, and Rabba's objection \u2014 all matching 'Eliezer Forgot' prose precisely.",
+      "current_heading": "Eliezer's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Eliezer Forgot",
+    "candidates": [
+      "Inverse Logic",
+      "Akiva's Tradition",
+      "Eliezer Forgot",
+      "Mesorah Irony",
+      "Tiltul Question",
+      "Carrying Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's conclusion that Rabbi Eliezer forgot his own teaching and Rabbi Akiva came to remind him indirectly, which is precisely what the 'Eliezer Forgot' section's prose describes.",
+      "chosen_heading": "Eliezer Forgot",
+      "current_heading": "Eliezer Forgot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Carrying Concern",
+    "candidates": [
+      "Mesorah Irony",
+      "Tiltul Question",
+      "Carrying Concern",
+      "Obligation Override",
+      "Infant Milah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tiltul Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabba's gezeirah answer about carrying four amot, which matches heading 1 ('Tiltul Question') \u2014 the prose there explicitly asks why haza'ah is a significant shevut and anticipates exactly this answer about carrying concern.",
+      "second_heading": "Obligation Override",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the distinction between a person who is currently obligated (chiyuv incumbent) versus not yet fit, which matches heading 3 ('Obligation Override') whose prose describes precisely this conceptual distinction about gufei lo chazi and lo rami chiyuva alei.",
+      "current_heading": "Carrying Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Infant Milah",
+    "candidates": [
+      "Obligation Override",
+      "Infant Milah",
+      "Arel Karet",
+      "Tumah Hutra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rabba's and Rava's rulings about heating water for infant circumcision on Shabbat, which is precisely what the 'Infant Milah' prose section describes in detail, including the collapse of the healthy/sick distinction through 'akol cholim heim etzel milah.'",
+      "chosen_heading": "Infant Milah",
+      "current_heading": "Infant Milah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Tumah Hutra",
+    "candidates": [
+      "Arel Karet",
+      "Tumah Hutra",
+      "Tzibur Principle",
+      "Both Liable",
+      "Status Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The passage culminates in items 7-9 with the baraita about arel and tmei sheretz being liable for karet, the inference about obligation despite unfitness, and Rava's final resolution \u2014 all of which candidate 4 ('Status Fix') explicitly discusses, making it a better match than the current placement under 'Tumah Hutra'.",
+      "chosen_heading": "Status Fix",
+      "current_heading": "Tumah Hutra",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Status Fix",
+    "candidates": [
+      "Tzibur Principle",
+      "Both Liable",
+      "Status Fix",
+      "Sheretz Alternative",
+      "Tamei Yotzei",
+      "Eating Optional",
+      "Shelo Lochlav",
+      "Theoretical Fitness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange between Rav Adda bar Abba and Rava about 'shelo le-ochlav' and Rava's response distinguishing a choleh/zaken from someone who is theoretically fit (mechazi chazi, tikunei hu delo metaken), which is precisely what the 'Theoretical Fitness' section's prose describes.",
+      "chosen_heading": "Theoretical Fitness",
+      "current_heading": "Status Fix",
+      "moved": true
+    }
+  }
+]

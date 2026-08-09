@@ -73,7 +73,7 @@
           "timestamp": "09:07"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -131,7 +131,7 @@
           "timestamp": "23:00"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -165,8 +165,8 @@
           "timestamp": "25:03"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "The Metaphor and Implications: 'Spitting the Same Spit' - Discussing Ro'ah Status and Its Consequences",
@@ -189,7 +189,7 @@
           "timestamp": "28:51"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 8,
       "matched": false
     },
     {
@@ -271,8 +271,8 @@
           "timestamp": "41:53"
         }
       ],
-      "sefaria_index": 18,
-      "matched": false
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Dry Childbirth: When Exactly Does a Fetus Become Born for Tumah Purposes?",
@@ -305,7 +305,7 @@
           "timestamp": "46:04"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -334,7 +334,7 @@
           "timestamp": "48:19"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": false
     },
     {
@@ -784,5 +784,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "37:39",
+  "amud_b_micro_title": "Rabbi Abin's Answer",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "a"
 }

@@ -39,7 +39,7 @@
           "timestamp": "06:40"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -117,7 +117,7 @@
           "timestamp": "20:10"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -384,5 +384,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "01:01",
+  "amud_b_micro_title": "Abaye's Challenge",
+  "shiur_start_daf": 40,
+  "shiur_start_amud": "a"
 }

@@ -136,8 +136,8 @@
           "timestamp": "35:48"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Logical Debate: Can Asham Count for Owners When Done Shelo Lishmah?",
@@ -165,7 +165,7 @@
           "timestamp": "45:44"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -189,7 +189,7 @@
           "timestamp": "49:41"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -218,7 +218,7 @@
           "timestamp": "54:01"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 23,
       "matched": true
     }
   ],
@@ -557,5 +557,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "43:51",
+  "amud_b_micro_title": "Comparing Korbanot",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "a"
 }

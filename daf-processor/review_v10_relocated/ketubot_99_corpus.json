@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Overselling vs",
+    "candidates": [
+      "Agent Mandate",
+      "Meila & Agency",
+      "Overselling/Underselling",
+      "Woman as Agent",
+      "Overselling vs",
+      "Two Mishna Cases",
+      "Woman Takes Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna son of Rav Natan's reframing of the mishna case from overselling to underselling, which is precisely what the prose of candidate 4 ('Overselling vs') describes.",
+      "chosen_heading": "Overselling vs",
+      "current_heading": "Overselling vs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Woman Takes Loss",
+    "candidates": [
+      "Two Mishna Cases",
+      "Woman Takes Loss",
+      "Estate Takes Loss",
+      "Gezeira Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's argument about whether the mishna's first and last clauses deal with the same or different scenarios (underselling vs. not), which is precisely what the 'Two Mishna Cases' prose describes \u2014 the reasoning from 'mid'seifa bid'ozil ha'rei reisha bid'lo ozil' and the distinction between the two cases.",
+      "chosen_heading": "Two Mishna Cases",
+      "current_heading": "Woman Takes Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Gezeira Explained",
+    "candidates": [
+      "Estate Takes Loss",
+      "Gezeira Explained",
+      "Doing More"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the gezeira question \u2014 whether the first-clause case already implies the last-clause ruling, and the answer that without the mishna one might have decreed the first sale void due to the last \u2014 which is precisely what the 'Gezeira Explained' prose describes as nigzor mana rishon atu mana acharon.",
+      "chosen_heading": "Gezeira Explained",
+      "current_heading": "Gezeira Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Doing More",
+    "candidates": [
+      "Doing More",
+      "Doing Less"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case where an agent sold a full kor when authorized to sell a half-kor, confirming it as a mosif al devarav (adding to his mandate) case, which is precisely what the 'Doing More' section's prose discusses.",
+      "chosen_heading": "Doing More",
+      "current_heading": "Doing More",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Doing Less",
+    "candidates": [
+      "Doing Less",
+      "Meila Shirt Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the exact dilemma about selling a half-kor instead of a full kor, with the agent's 'I did you a favor' argument and the owner's counter about not wanting multiple sale documents \u2014 precisely the content described in the 'Doing Less' prose.",
+      "chosen_heading": "Doing Less",
+      "current_heading": "Doing Less",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Meila Shirt Example",
+    "candidates": [
+      "Meila Shirt Example",
+      "Shirt Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer analyzing the meila shirt case introduced in candidate 0's prose \u2014 exactly the gemara examination that prose says will follow.",
+      "chosen_heading": "Meila Shirt Example",
+      "current_heading": "Meila Shirt Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Shirt Dispute",
+    "candidates": [
+      "Shirt Dispute",
+      "Sale vs Inferiority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge using Rabbi Yehuda's words about wanting a 'large robe' versus receiving a 'small and bad' one, which maps directly to the 'Shirt Dispute' section's discussion of Rabbi Yehuda's position that an inferior garment is categorically different from what was requested.",
+      "chosen_heading": "Shirt Dispute",
+      "current_heading": "Shirt Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Sale vs Inferiority",
+    "candidates": [
+      "Sale vs Inferiority",
+      "Legumes Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains what 'bad' means in the shirt case \u2014 that the agent should have spent the full six sela to get a better shirt worth twelve \u2014 which directly corresponds to the 'Sale vs Inferiority' prose's explanation of Rabbi Yehuda's position about maximizing the sender's benefit when a bargain is found.",
+      "chosen_heading": "Sale vs Inferiority",
+      "current_heading": "Sale vs Inferiority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Legumes Case",
+    "candidates": [
+      "Legumes Case",
+      "One vs Many Buyers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Legumes Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are a continuous discussion about the legumes case (precision language of the mishna, Rav Pappa's explanation of fixed-price measurement), directly matching the 'Legumes Case' prose.",
+      "second_heading": "One vs Many Buyers",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 introduce an entirely new scenario \u2014 a widow selling property to multiple buyers \u2014 which is a self-contained case about one vs. many buyers, matching the 'One vs Many Buyers' prose about whether an agent can split a transaction among multiple parties.",
+      "current_heading": "Legumes Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "One vs Many Buyers",
+    "candidates": [
+      "One vs Many Buyers",
+      "Mistakes vs Latitude",
+      "Owner vs Agent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One vs Many Buyers",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the core dispute between Rav Huna vs. Rav \u1e24isda and Rabba bar Rav Huna about whether 'one buyer' excludes multiple buyers, which is exactly what the 'One vs Many Buyers' prose discusses.",
+      "second_heading": "Mistakes vs Latitude",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 recount Rav Na\u1e25man's visit to Sura and his distinction between agent discretion and agent error, which matches precisely the 'Mistakes vs Latitude' prose about Rav Na\u1e25man drawing a sharp line between execution latitude and outright mistakes.",
+      "current_heading": "One vs Many Buyers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Owner vs Agent",
+    "candidates": [
+      "Mistakes vs Latitude",
+      "Owner vs Agent",
+      "Trumah Range"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the distinction between an owner's error and an agent's error in land sales, and the principle of 'litkunei shidartich velo la'avutei,' which is exactly what the 'Owner vs Agent' prose section describes.",
+      "chosen_heading": "Owner vs Agent",
+      "current_heading": "Owner vs Agent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Trumah Range",
+    "candidates": [
+      "Trumah Range",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the trumah range proof \u2014 the mishna establishing the agent's valid range (one-fortieth to one-sixtieth) and the baraita showing the homeowner himself is not constrained to that range \u2014 which is precisely what the 'Trumah Range' prose describes in detail.",
+      "chosen_heading": "Trumah Range",
+      "current_heading": "Trumah Range",
+      "moved": false
+    }
+  }
+]

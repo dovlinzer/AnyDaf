@@ -1,0 +1,512 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Appeal Process",
+    "candidates": [
+      "Opening Context",
+      "Mishna & Pasuk",
+      "Three Courts",
+      "Rashi's Geography",
+      "Appeal Process",
+      "Tradition vs. Intellect",
+      "Final Authority",
+      "Teaching After Ruling",
+      "Ruling vs. Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items describe the step-by-step appeal process where the dissenting elder presents his case upward through the courts, saying 'kach darashti ve-kach darshu chaverai,' which is precisely what the 'Appeal Process' prose section describes.",
+      "chosen_heading": "Appeal Process",
+      "current_heading": "Appeal Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Ruling vs. Opinion",
+    "candidates": [
+      "Tradition vs. Intellect",
+      "Final Authority",
+      "Teaching After Ruling",
+      "Ruling vs. Opinion",
+      "Talmid Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the High Court's authority, then transitions to the elder returning home and the distinction between teaching his old view (exempt) versus instructing others to act (liable) \u2014 content that maps directly to 'Teaching After Ruling' and 'Ruling vs. Opinion' combined, but the passage begins with the Chamber of Hewn Stone ruling and immediately covers the return home and teaching exemption, which is the core topic of heading 2 ('Teaching After Ruling'), with the liable-to-act distinction being the natural continuation discussed there before heading 3 picks it up in prose \u2014 however, since all items must go under one heading and the passage covers both the final authority moment and the teaching/ruling distinction, and heading 2's prose explicitly covers 'shana ve-limmed ba-derech shehaya lomed' and 'patur' which is precisely what this passage states, heading 2 is the best single home.",
+      "chosen_heading": "Teaching After Ruling",
+      "current_heading": "Ruling vs. Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Talmid Exemption",
+    "candidates": [
+      "Ruling vs. Opinion",
+      "Talmid Exemption",
+      "Yipla & Mufla",
+      "Mimcha & Yoetz",
+      "Davar Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the talmid exemption and the principle that 'nimtzeu chumro kulo,' which is precisely what the 'Talmid Exemption' section's prose addresses.",
+      "chosen_heading": "Talmid Exemption",
+      "current_heading": "Talmid Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Davar Definition",
+    "candidates": [
+      "Yipla & Mufla",
+      "Mimcha & Yoetz",
+      "Davar Definition",
+      "Mishpat & Din",
+      "Blood Types",
+      "Types of Judgments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the baraita's systematic analysis of ki yipale mimcha davar, beginning with yipale/mufla and then moving through mimcha, davar, and lamishpat \u2014 the passage starts with the yipale/mufla derivation that heading 0 describes, and the full baraita unit belongs there rather than being split across multiple headings.",
+      "chosen_heading": "Yipla & Mufla",
+      "current_heading": "Davar Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Types of Judgments",
+    "candidates": [
+      "Mishpat & Din",
+      "Blood Types",
+      "Types of Judgments",
+      "Leprosy Types",
+      "Verbal Acts",
+      "Disputes & Rituals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three categories (blood types, judgment types, and leprous marks) in a single Talmudic source text, but its opening and primary subject is 'between blood and blood' (dam niddah, dam leidah, dam zivah), matching the 'Blood Types' section's prose which explicitly discusses these three types of dam and their tannaitic debates.",
+      "chosen_heading": "Blood Types",
+      "current_heading": "Types of Judgments",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Disputes & Rituals",
+    "candidates": [
+      "Leprosy Types",
+      "Verbal Acts",
+      "Disputes & Rituals",
+      "Gifts to Poor",
+      "Going Up"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three topics (divrei/charamim-arachin-hekdeshot, rivot/sotah-eglah-metzora, and be-sha'arecha/leket-shikcha-pe'ah) as a single Talmudic unit, and the 'Verbal Acts' section's prose explicitly introduces this full three-part breakdown beginning with divrei, making it the natural home for the entire passage rather than splitting it under 'Disputes & Rituals' which covers only the middle portion.",
+      "chosen_heading": "Verbal Acts",
+      "current_heading": "Disputes & Rituals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Going Up",
+    "candidates": [
+      "Gifts to Poor",
+      "Going Up",
+      "Court Location",
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Position",
+      "Rabbi Shimon Position",
+      "Rabbi Meir's Reasoning",
+      "Rabbi Yehuda Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the teaching that the Temple is higher than Eretz Yisrael and Eretz Yisrael is higher than all lands, with the Gemara's question and proof-text from Jeremiah \u2014 exactly what the 'Going Up' section's prose describes.",
+      "chosen_heading": "Going Up",
+      "current_heading": "Going Up",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Rabbi Yehuda Reading",
+    "candidates": [
+      "Court Location",
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Position",
+      "Rabbi Shimon Position",
+      "Rabbi Meir's Reasoning",
+      "Rabbi Yehuda Reading",
+      "Request & Setup",
+      "Yoetz Qualification",
+      "Month Addition Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rabbi Meir Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 present the three tannaitic positions on zaken mamre liability and their scriptural derivations, which perfectly matches heading 1 ('Rabbi Meir Position') through heading 5 ('Rabbi Yehuda Reading') \u2014 but since heading 1 explicitly introduces the baraita with all three positions and their reasoning, and the current placement is under heading 5, the entire block of items 1-4 belongs under heading 1 where the baraita is first introduced and all three positions with their derivations are discussed together.",
+      "second_heading": "Request & Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 5 \u2014 Rav Huna bar Chinana asking Rava to interpret the baraita according to Rabbi Meir, and Rava redirecting to Rav Papa \u2014 exactly matches heading 6 ('Request & Setup') whose prose describes precisely this exchange and its purpose.",
+      "current_heading": "Rabbi Yehuda Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Month Addition Debate",
+    "candidates": [
+      "Request & Setup",
+      "Yoetz Qualification",
+      "Month Addition Debate",
+      "Pesach Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the 'ki yipaleh'/'mimcha' exposition (the yoetz qualification) and the mishna about intercalating the year through all of Adar, which together constitute the content described in the 'Yoetz Qualification' prose \u2014 the mishna citation is part of that same textual unit establishing the yoetz's expertise domain, not yet a separate illustration of a month-addition debate.",
+      "chosen_heading": "Yoetz Qualification",
+      "current_heading": "Month Addition Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Pesach Connection",
+    "candidates": [
+      "Month Addition Debate",
+      "Pesach Connection",
+      "Niddah & Zava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that a calendar dispute over intercalation permits chametz on Pesach whichever way you rule, which is precisely what the 'Pesach Connection' prose describes with the same Aramaic phrase.",
+      "chosen_heading": "Pesach Connection",
+      "current_heading": "Pesach Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Niddah & Zava",
+    "candidates": [
+      "Niddah & Zava",
+      "Day Ten Dispute",
+      "Mikva Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the specific amoraic dispute about day ten (Rabbi Yochanan vs. Resh Lakish) and Rabbi Yochanan's elaboration of his position, which is precisely what the 'Day Ten Dispute' prose section describes.",
+      "chosen_heading": "Day Ten Dispute",
+      "current_heading": "Niddah & Zava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Mikva Implications",
+    "candidates": [
+      "Day Ten Dispute",
+      "Mikva Implications",
+      "Daughter Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Reish Lakish's ruling that day ten is like day eleven, which is precisely the dispute described in the 'Day Ten Dispute' section's prose, not the 'Mikva Implications' section where it currently sits.",
+      "chosen_heading": "Day Ten Dispute",
+      "current_heading": "Mikva Implications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Daughter Derivation",
+    "candidates": [
+      "Mikva Implications",
+      "Daughter Derivation",
+      "Kareis Connection",
+      "Green Blood Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together present the derivation of the prohibition against relations with one's daughter born from rape, using the double gezeirah shavah (henah-henah and zimah-zimah), which matches precisely the 'Daughter Derivation' prose describing Rava's transmission of Rav Yitzchak bar Avdimi's double gezeirah shavah.",
+      "chosen_heading": "Daughter Derivation",
+      "current_heading": "Daughter Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Green Blood Debate",
+    "candidates": [
+      "Kareis Connection",
+      "Green Blood Debate",
+      "Leidah Wellsprings",
+      "Continuous Bleeding",
+      "Zivah Childbirth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the 'bein dam l'dam' category and specifically the Akavya ben Mahalalel / Rabbis dispute over green blood (dam niddah), which is precisely what the 'Green Blood Debate' section's prose describes.",
+      "chosen_heading": "Green Blood Debate",
+      "current_heading": "Green Blood Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Zivah Childbirth",
+    "candidates": [
+      "Leidah Wellsprings",
+      "Continuous Bleeding",
+      "Zivah Childbirth",
+      "Two-Judge Ruling",
+      "Marriage Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Leidah Wellsprings",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the Rav/Levi dispute about dam leidah and its two-wellsprings debate, which is precisely what headings 0 and 1 cover (leidah wellsprings and continuous bleeding), and heading 0's prose explicitly cites 'biplugta de-Rav ve-Levi' and the same ma'ayan/shtei ma'ayanot content.",
+      "second_heading": "Zivah Childbirth",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 present the Rabbi Eliezer/Rabbi Yehoshua dispute about dam zivah and the yoledes be-zov case, which exactly matches heading 2's prose discussing 'biplugta de-Rabbi Eliezer ve-Rabbi Yehoshua' and the shlosha yamim betoch achat asar yom scenario.",
+      "current_heading": "Zivah Childbirth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Marriage Scenario",
+    "candidates": [
+      "Two-Judge Ruling",
+      "Marriage Scenario",
+      "Rabbi View",
+      "Chachamim View",
+      "Payment Marriage Link"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two-Judge Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Shmuel/Rabbi Abbahu dispute about two-judge monetary rulings, which is precisely what candidate 0 ('Two-Judge Ruling') describes in its prose.",
+      "second_heading": "Rabbi View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yehuda HaNasi's view that 'nefesh tachas nafesh' means monetary payment, which is exactly what candidate 2 ('Rabbi View') describes in its prose.",
+      "current_heading": "Marriage Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Payment Marriage Link",
+    "candidates": [
+      "Rabbi View",
+      "Chachamim View",
+      "Payment Marriage Link",
+      "Three Judges",
+      "Twenty-Three Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gezeirah shavah derivation (nesina above and nesina below) establishing that 'nefesh tachas nefesh' means monetary payment \u2014 this is precisely Rabbi's derivation described in the 'Rabbi View' prose.",
+      "chosen_heading": "Rabbi View",
+      "current_heading": "Payment Marriage Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Twenty-Three Judges",
+    "candidates": [
+      "Three Judges",
+      "Twenty-Three Judges",
+      "Compensation Link",
+      "Spot vs. Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna stating 'makkot bi-shlosha' (lashes by three) and then introduces Rabbi Yishmael's dissenting view of twenty-three, which is exactly what the 'Three Judges' section's prose describes as the starting point for the dinei makkot sub-category.",
+      "chosen_heading": "Three Judges",
+      "current_heading": "Twenty-Three Judges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Spot vs. Hair",
+    "candidates": [
+      "Compensation Link",
+      "Spot vs. Hair",
+      "Safek Status",
+      "Rabbi Yehoshua",
+      "Corner Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baheret/white-hair dispute for nig'ei adam, which is precisely what the 'Spot vs. Hair' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Spot vs. Hair",
+      "current_heading": "Spot vs. Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Corner Requirement",
+    "candidates": [
+      "Safek Status",
+      "Rabbi Yehoshua",
+      "Corner Requirement",
+      "Size Specs",
+      "Kiros Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about Rabbi Elazar son of Rabbi Shimon's requirement for two beans on two stones on two walls at a corner, which is precisely what the 'Corner Requirement' section's prose describes.",
+      "chosen_heading": "Corner Requirement",
+      "current_heading": "Corner Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Kiros Derivation",
+    "candidates": [
+      "Size Specs",
+      "Kiros Derivation",
+      "Full Spread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the textual derivation from kir/kirot that explains Rabbi Elazar ben Rabbi Shimon's position, which is precisely what the 'Kiros Derivation' section's prose describes.",
+      "chosen_heading": "Kiros Derivation",
+      "current_heading": "Kiros Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168,
+      169,
+      170
+    ],
+    "current_heading": "Full Spread",
+    "candidates": [
+      "Full Spread",
+      "Head to Toe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Head to Toe') explicitly describes the gezeirah shavah using 'kerachat ve-gabachat' for both person and garment, the parcha be-chulo tahor ruling, and the Sages' dispute \u2014 which is precisely the content of all three items, whereas candidate 0 ('Full Spread') misidentifies the rabbi as 'Nosson ben Avtulmos' and describes the content only vaguely without the gezeirah shavah detail.",
+      "chosen_heading": "Head to Toe",
+      "current_heading": "Full Spread",
+      "moved": true
+    }
+  }
+]

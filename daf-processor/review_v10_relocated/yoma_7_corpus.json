@@ -1,0 +1,213 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rav Nachman Extreme",
+    "candidates": [
+      "Hutra vs. Dechuya",
+      "Pikuach Nefesh Analogy",
+      "Tumah Meis vs. Yotzei",
+      "Melachot on Shabbat",
+      "Rav Nachman Extreme",
+      "Minchat Ha-omer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the 'ika de'amrei' formulation of Rav Nachman's extreme hutra position \u2014 that even when tahor kohanim are available, temeim may still serve \u2014 which is precisely what the prose of 'Rav Nachman Extreme' describes.",
+      "chosen_heading": "Rav Nachman Extreme",
+      "current_heading": "Rav Nachman Extreme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Minchat Ha-omer",
+    "candidates": [
+      "Minchat Ha-omer",
+      "Pikeach Ve-Shtok",
+      "Sheyirayim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's citation of the baraita about the minchat ha-omer becoming impure, which is precisely what the 'Minchat Ha-omer' section's prose describes, including the kohen announcing impurity and bringing a substitute.",
+      "chosen_heading": "Minchat Ha-omer",
+      "current_heading": "Minchat Ha-omer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Sheyirayim Exception",
+    "candidates": [
+      "Pikeach Ve-Shtok",
+      "Sheyirayim Exception",
+      "Minchat Nesachim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Sheyirayim Exception' prose \u2014 Rav Nachman's concession (modina) regarding cases where there are remnants (sheyirayim) for eating, which is precisely what that section's prose discusses.",
+      "chosen_heading": "Sheyirayim Exception",
+      "current_heading": "Sheyirayim Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Minchat Nesachim",
+    "candidates": [
+      "Minchat Nesachim",
+      "Par Avodah Zarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact baraita about minchat nesachim becoming impure and the instruction to keep silent, which matches the prose of heading 0 precisely.",
+      "chosen_heading": "Minchat Nesachim",
+      "current_heading": "Minchat Nesachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Par Avodah Zarah",
+    "candidates": [
+      "Par Avodah Zarah",
+      "Aaron's Ram",
+      "Sheep with Omer",
+      "Fixed Time Principle",
+      "Person Tamei Rule",
+      "Object Tamei Exception",
+      "Keep It Quiet",
+      "Korban Categories",
+      "Dam Shitma",
+      "Tzitz Works Objects",
+      "Tzitz Braita",
+      "Non-Fixed Tzibur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge (Item 1 suggesting the Tosefta refers to Festival bulls/rams/sheep) and Rav Nachman's rebuttal (Item 2 recategorizing all three animals as par avodah zarah, Aaron's ram, and the omer sheep), which is precisely the content described under heading 0 ('Par Avodah Zarah') where Rav Nachman's response recategorizing these three animals is discussed in detail.",
+      "chosen_heading": "Par Avodah Zarah",
+      "current_heading": "Par Avodah Zarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Non-Fixed Tzibur",
+    "candidates": [
+      "Aaron's Ram",
+      "Sheep with Omer",
+      "Fixed Time Principle",
+      "Person Tamei Rule",
+      "Object Tamei Exception",
+      "Keep It Quiet",
+      "Korban Categories",
+      "Dam Shitma",
+      "Tzitz Works Objects",
+      "Tzitz Braita",
+      "Non-Fixed Tzibur",
+      "Pigul Disqualified",
+      "Notar Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Gemara exchange about whether the tzitz braita's mention of korban tzibur challenges Rav Nachman's position of tumah hutrah b'tzibur \u2014 exactly the content described in candidate 10's prose about Rav Nachman's response (ki tanya ha-tzitz mirtzeh ad'yachid and ve-iba'is eima regarding non-fixed-time korban tzibur).",
+      "chosen_heading": "Non-Fixed Tzibur",
+      "current_heading": "Non-Fixed Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Notar Issue",
+    "candidates": [
+      "Pigul Disqualified",
+      "Notar Issue",
+      "Tumah Only",
+      "Hutrah Logic",
+      "Implication Analysis",
+      "Broken Tzitz",
+      "On Peg Debate",
+      "Yehuda: Must Wear",
+      "Shimon: Always Works",
+      "Constant Consciousness",
+      "Tefillin Analogy",
+      "Shimon: Fitness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the objection that eliminates piggul and notar as candidates for ritzuy tzitz, which is precisely what the 'Pigul Disqualified' prose describes \u2014 the systematic elimination of alternatives starting with piggul and notar, with the lo yeratzeh and lo yechashev pesukim, before concluding tumah is the only remaining category.",
+      "chosen_heading": "Pigul Disqualified",
+      "current_heading": "Notar Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Shimon: Fitness",
+    "candidates": [
+      "Tumah Only",
+      "Hutrah Logic",
+      "Implication Analysis",
+      "Broken Tzitz",
+      "On Peg Debate",
+      "Yehuda: Must Wear",
+      "Shimon: Always Works",
+      "Constant Consciousness",
+      "Tefillin Analogy",
+      "Shimon: Fitness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The entire passage covers the Rabbi Yehuda/Rabbi Shimon debate about whether the tzitz must be worn on the forehead to function, including the Yom Kippur proof, the hutrah/dechuya implication, Abaye's analysis of the broken vs. hanging tzitz cases, the 'tamid' derivations, the tefillin analogy, and the fitness criterion \u2014 all of which are explicitly discussed in the 'Shimon: Fitness' prose section.",
+      "chosen_heading": "Shimon: Fitness",
+      "current_heading": "Shimon: Fitness",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Three Observations",
+    "candidates": [
+      "Three Observations",
+      "Yochanan's Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the three observations Rabbi \u1e24iyya bar Abba made in Gavla \u2014 the pregnant women, the wine, and the lupines \u2014 which is precisely what the 'Three Observations' section prose discusses.",
+      "chosen_heading": "Three Observations",
+      "current_heading": "Three Observations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Yochanan's Rulings",
+    "candidates": [
+      "Yochanan's Rulings",
+      "Benei Torah Criterion",
+      "Milah & Tevilah",
+      "Non-Jew + Jewish Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yochanan's three rulings (mamzerim, yayin nesech, bishul akum) upon being reported to, which is exactly what heading 0 'Yochanan's Rulings' discusses.",
+      "chosen_heading": "Yochanan's Rulings",
+      "current_heading": "Yochanan's Rulings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Non-Jew + Jewish Woman",
+    "candidates": [
+      "Benei Torah Criterion",
+      "Milah & Tevilah",
+      "Non-Jew + Jewish Woman",
+      "Halacha vs. Yochanan",
+      "Nazir Safeguard Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is primarily about Rabbi Yochanan's rule that one is never a convert until both circumcision and immersion are complete, which is the exact topic of the 'Milah & Tevilah' section \u2014 the mamzer consequence from the non-Jewish union is secondary and flows from this premise.",
+      "chosen_heading": "Milah & Tevilah",
+      "current_heading": "Non-Jew + Jewish Woman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Nazir Safeguard Model",
+    "candidates": [
+      "Halacha vs. Yochanan",
+      "Nazir Safeguard Model",
+      "Shimshon Story",
+      "Raw Edibility Test",
+      "Turmusim Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text for the 'nazirite safeguard' principle (lech lech amri nezira) that candidate 1's prose explicitly discusses as the rationale for the wine prohibition.",
+      "chosen_heading": "Nazir Safeguard Model",
+      "current_heading": "Nazir Safeguard Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Turmusim Analysis",
+    "candidates": [
+      "Shimshon Story",
+      "Raw Edibility Test",
+      "Turmusim Analysis",
+      "Royal Table Standard",
+      "Modern Food Examples",
+      "Protective Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces and discusses the principle that foods eaten raw are exempt from bishul akum, which is precisely what the 'Raw Edibility Test' section's prose describes \u2014 making that section the natural home for this Gemara text, rather than the 'Turmusim Analysis' section which discusses the implications after the principle is already established.",
+      "chosen_heading": "Raw Edibility Test",
+      "current_heading": "Turmusim Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Protective Stringency",
+    "candidates": [
+      "Royal Table Standard",
+      "Modern Food Examples",
+      "Protective Stringency",
+      "Rav Kahana Position",
+      "Tosefta Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains that lupines fail the royal table standard and therefore the prohibition for Gavla residents was due to their lack of Torah knowledge, directly supporting the 'Protective Stringency' section's discussion of why a blanket stringency was applied to that community.",
+      "chosen_heading": "Protective Stringency",
+      "current_heading": "Protective Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Tosefta Contradiction",
+    "candidates": [
+      "Rav Kahana Position",
+      "Tosefta Contradiction",
+      "L'chatchila vs. Bedi'eved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Kahana's ruling and the beginning of Rav Yeimar's objection, which corresponds to the 'Rav Kahana Position' section's prose describing exactly this question posed to Rav Kahana and his prohibition ruling, while the 'Tosefta Contradiction' section's prose describes the full Tosefta content (baskets/pails, dripping juice, permitted) which only partially appears in this passage.",
+      "chosen_heading": "Rav Kahana Position",
+      "current_heading": "Tosefta Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "L'chatchila vs. Bedi'eved",
+    "candidates": [
+      "Tosefta Contradiction",
+      "L'chatchila vs. Bedi'eved",
+      "Rav Ashi's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Kahana's explicit distinction between 'hevi' (already brought, bedi'eved) and his own ruling (l'chatchila), which is precisely what the 'L'chatchila vs. Bedi'eved' section's prose describes.",
+      "chosen_heading": "L'chatchila vs. Bedi'eved",
+      "current_heading": "L'chatchila vs. Bedi'eved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav Ashi's Solution",
+    "candidates": [
+      "Rav Ashi's Solution",
+      "Wine Libation Case",
+      "Yayin Nesech & Damages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the etrog-in-wine barrel incident with Rav Ashi's instruction to hold the gentile's hand still and tip the barrel, which is precisely what the prose under heading 0 ('Rav Ashi's Solution') describes.",
+      "chosen_heading": "Rav Ashi's Solution",
+      "current_heading": "Rav Ashi's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Yayin Nesech & Damages",
+    "candidates": [
+      "Wine Libation Case",
+      "Yayin Nesech & Damages",
+      "Damages Theory",
+      "Issurei Hana'ah",
+      "Baraita Two Leniences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Ashi's case of a gentile intentionally pouring a Jew's wine as a libation, which is precisely what the 'Wine Libation Case' heading describes, not the damages ruling analysis found in the current 'Yayin Nesech & Damages' heading.",
+      "chosen_heading": "Wine Libation Case",
+      "current_heading": "Yayin Nesech & Damages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Baraita Two Leniences",
+    "candidates": [
+      "Damages Theory",
+      "Issurei Hana'ah",
+      "Baraita Two Leniences",
+      "Presence of Idol",
+      "Ein Adam Oser",
+      "Rav Ashi Compromise",
+      "Tosafot Lenient View",
+      "Rav Papa Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita cited by Rav Ashi presenting the tanna kamma's prohibition and Rabbi Yehuda ben Bava and Rabbi Yehuda ben Beteira's two leniencies, which is precisely what the 'Baraita Two Leniences' section's prose describes.",
+      "chosen_heading": "Baraita Two Leniences",
+      "current_heading": "Baraita Two Leniences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Rav Papa Ruling",
+    "candidates": [
+      "Presence of Idol",
+      "Ein Adam Oser",
+      "Rav Ashi Compromise",
+      "Tosafot Lenient View",
+      "Rav Papa Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items describe Rav Papa's ruling about the barrel of wine with the removed stopper, exactly matching the prose of candidate 4 ('Rav Papa Ruling'), which discusses this precise case including the two versions of Rav Papa's formulation.",
+      "chosen_heading": "Rav Papa Ruling",
+      "current_heading": "Rav Papa Ruling",
+      "moved": false
+    }
+  }
+]

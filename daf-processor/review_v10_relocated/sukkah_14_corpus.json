@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Apply to Stems",
+    "candidates": [
+      "Mekabel Tumah Issue",
+      "Stem Status Debate",
+      "Kavana Question",
+      "Intent for Eating",
+      "Vessels & Intent",
+      "Ambiguous Status",
+      "Action vs. Intent",
+      "Apply to Stems",
+      "Stems of Food",
+      "Bissasan Meanings",
+      "Rabbi Yossi View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items continue Rav Menashya bar Gadda's proposed recharacterization of the baraita \u2014 that everyone agrees cutting for schach creates no yad status, and the debate concerns one who cut for food and reconsidered \u2014 followed by the Gemara's challenge that machshava cannot negate a prior machshava-established status, which is precisely what the 'Kavana Question' prose describes.",
+      "chosen_heading": "Kavana Question",
+      "current_heading": "Apply to Stems",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rabbi Yossi View",
+    "candidates": [
+      "Stems of Food",
+      "Bissasan Meanings",
+      "Rabbi Yossi View",
+      "Stem Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly elaborates on the two meanings of *bissasan* (untying the bundle vs. literal trampling) and their implications, which is precisely what the 'Bissasan Meanings' section's prose discusses.",
+      "chosen_heading": "Bissasan Meanings",
+      "current_heading": "Rabbi Yossi View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Stem Function",
+    "candidates": [
+      "Rabbi Yossi View",
+      "Stem Function",
+      "Planks Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0 ('Rabbi Yossi View') explicitly discusses the literal threshing interpretation, Resh Lakish's pitchfork rationale for Rabbi Yossi's position, and the aggadic teaching about prayer likened to a pitchfork \u2014 exactly the content of all six items \u2014 whereas candidate 1 ('Stem Function') describes the gufa reexamination and the sukkah dismantling answer as its culmination, which would precede rather than contain this passage.",
+      "chosen_heading": "Rabbi Yossi View",
+      "current_heading": "Stem Function",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Planks Debate",
+    "candidates": [
+      "Planks Debate",
+      "Rav's View",
+      "Shmuel's View",
+      "Size Significance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Planks Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the planks debate and the four-tefach board ruling, which matches heading 0 ('Planks Debate') exactly, including its discussion of gezeirat tikra and the dofen akuma/sleeping provision.",
+      "second_heading": "Rav's View",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rav's and Shmuel's interpretations of the dispute, with item 3's question about boards less than three tefachim ('aren't they merely reeds') being part of the same Rav/Shmuel exchange, fitting under heading 1 ('Rav's View') which covers this exact Rav-Shmuel debate.",
+      "current_heading": "Planks Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Size Significance",
+    "candidates": [
+      "Rav's View",
+      "Shmuel's View",
+      "Size Significance",
+      "Sheets vs. Planks",
+      "Two Planks Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa explaining Shmuel's position \u2014 that below three tefachim all agree valid, above four all agree invalid, and the dispute is in between \u2014 which matches exactly the 'Shmuel's View' prose, not Rav's view or a general size-significance section.",
+      "chosen_heading": "Shmuel's View",
+      "current_heading": "Size Significance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Two Planks Case",
+    "candidates": [
+      "Sheets vs. Planks",
+      "Two Planks Case",
+      "Side Combination"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sheets vs. Planks",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern the mishna about a single board of four handbreadths and the dispute between Rav and Shmuel regarding sleeping beneath it, which is the topic of heading 0 ('Sheets vs. Planks') that introduces the mishna's teachings about sheets and planks.",
+      "second_heading": "Two Planks Case",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 introduce the new case of two sheets/planks combining and analyze it through Rav's and Shmuel's positions, which is precisely what heading 1 ('Two Planks Case') discusses \u2014 the combination question and why it works for Shmuel but is difficult for Rav.",
+      "current_heading": "Two Planks Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Side Combination",
+    "candidates": [
+      "Side Combination",
+      "Baraita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the Gemara's answer that 'joining together' refers to accumulating four cubits along the side in relation to dofen akuma, which is precisely what the 'Side Combination' section's prose describes.",
+      "chosen_heading": "Side Combination",
+      "current_heading": "Side Combination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Baraita Evidence",
+      "Persecution Account",
+      "Sakana Caveat",
+      "Shmuel Baraita",
+      "Meir's Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1 and 2 present the 'lishana acharina' (alternative version) of the Rav/Shmuel exchange about board widths, and item 3 is the brief note that baraitot support both Rav and Shmuel \u2014 all three together form the concluding note to this dispute, which is exactly what the 'Baraita Evidence' section's prose describes.",
+      "chosen_heading": "Baraita Evidence",
+      "current_heading": "Baraita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Meir's Concession",
+    "candidates": [
+      "Persecution Account",
+      "Sakana Caveat",
+      "Shmuel Baraita",
+      "Meir's Concession",
+      "Side Rotation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Persecution Account",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 form the baraita supporting Rav, including Rabbi Yehuda's persecution anecdote and the refutation that she'at hassakana is no proof \u2014 exactly what candidates 0 and 1 discuss, but since they are one continuous baraita they belong together; candidate 0 ('Persecution Account') is where the baraita supporting Rav begins, making it the best single home for items 1\u20132.",
+      "second_heading": "Shmuel Baraita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita supporting Shmuel, including Rabbi Meir's concession and Rabbi Yehuda's concession, which is precisely what candidate 2 ('Shmuel Baraita') and candidate 3 (\"Meir's Concession\") discuss \u2014 but since this is one continuous baraita it belongs under candidate 2, the heading that introduces it.",
+      "current_heading": "Meir's Concession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Side Rotation",
+    "candidates": [
+      "Meir's Concession",
+      "Side Rotation",
+      "Rav Nachman Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the amoraic dispute about rotating planks on their sides (hafkhan al tzideihen) and the opinions of Rav Huna vs. Rav \u1e24isda and Rabba bar Rav Huna, which is exactly what the 'Side Rotation' section's prose describes.",
+      "chosen_heading": "Side Rotation",
+      "current_heading": "Side Rotation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rav Nachman Rules",
+    "candidates": [
+      "Rav Nachman Rules",
+      "Huna Vindicated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman's ruling that the sukka is unfit because the boards become like metal skewers, which directly matches the prose of 'Rav Nachman Rules' and not the subsequent section about Rav Huna's reaction.",
+      "chosen_heading": "Rav Nachman Rules",
+      "current_heading": "Rav Nachman Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Huna Vindicated",
+    "candidates": [
+      "Huna Vindicated",
+      "Doorway Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna's exchange with his students about whether he had given them his reasoning, which matches exactly the prose under 'Huna Vindicated.'",
+      "chosen_heading": "Huna Vindicated",
+      "current_heading": "Huna Vindicated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Doorway Proof",
+    "candidates": [
+      "Doorway Proof",
+      "3-1 Scenario",
+      "Extension Rule",
+      "Tosafot Psak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's attempt to support Rav Huna from the baraita and the subsequent rejection/reinterpretation via the psal hayotzei principle \u2014 exactly what the 'Doorway Proof' prose describes in detail.",
+      "chosen_heading": "Doorway Proof",
+      "current_heading": "Doorway Proof",
+      "moved": false
+    }
+  }
+]

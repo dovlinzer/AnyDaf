@@ -1,0 +1,463 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Shovar Case",
+    "candidates": [
+      "Opening & Overview",
+      "Shovar Case",
+      "Tosafot on Testimony",
+      "Marriage Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the same case of Rav Yirmeya bar Abba and the shovar/receipt, and Abaye's qualification about Torah scholars not scrutinizing women \u2014 exactly what the 'Shovar Case' prose describes.",
+      "chosen_heading": "Shovar Case",
+      "current_heading": "Shovar Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Marriage Advice",
+    "candidates": [
+      "Tosafot on Testimony",
+      "Marriage Advice",
+      "Get Costs",
+      "Wife Pays Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's advice about a Torah scholar bringing an am ha-aretz when betrothing a woman, which matches exactly the 'Marriage Advice' section's prose discussion of this very statement.",
+      "chosen_heading": "Marriage Advice",
+      "current_heading": "Marriage Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Wife Pays Get",
+    "candidates": [
+      "Get Costs",
+      "Wife Pays Get",
+      "Loan Docs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the husband paying (derived from ve-chasav ve-natan) and the rabbinic shift to wife paying to prevent delay \u2014 both topics are addressed in candidate 0's prose, which discusses the husband's payment and the verse, while candidate 1's prose discusses only the later divergence; the full Gemara unit belongs under 'Get Costs' which introduces the mishna teaching and explains both the original rule and its modification.",
+      "chosen_heading": "Get Costs",
+      "current_heading": "Wife Pays Get",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Loan Docs",
+    "candidates": [
+      "Wife Pays Get",
+      "Loan Docs",
+      "Iska Case",
+      "Sale Docs",
+      "Field Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses writing a loan document for a borrower without the lender present and the question of who pays the scribe, which matches exactly the 'Loan Docs' section's prose about kotvin shtar le-loveh and ve-ha-loveh noten sechar with the pshita question.",
+      "chosen_heading": "Loan Docs",
+      "current_heading": "Loan Docs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Field Quality",
+    "candidates": [
+      "Iska Case",
+      "Sale Docs",
+      "Field Quality",
+      "Betrothal Docs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the case of selling a field because of its poor quality (be-mocher sadehu mipnei ra'assa), which is precisely what the 'Field Quality' section's prose describes.",
+      "chosen_heading": "Field Quality",
+      "current_heading": "Field Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Betrothal Docs",
+    "candidates": [
+      "Betrothal Docs",
+      "Sharecropping",
+      "Berurin Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Betrothal Docs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the betrothal document gemara (tzurba merabanan) that matches perfectly with the 'Betrothal Docs' prose discussion.",
+      "second_heading": "Sharecropping",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the sharecropping/arisut gemara (bora/fallow field) that matches perfectly with the 'Sharecropping' prose discussion \u2014 a new Mishnah case with entirely different subject matter.",
+      "current_heading": "Betrothal Docs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Berurin Definition",
+    "candidates": [
+      "Sharecropping",
+      "Berurin Definition",
+      "Copy Dispute",
+      "Midat Sodom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the definition of 'shtarei berurin' with the two explanations (shtarei ta'anata and ze borer lo echad), which is exactly what the 'Berurin Definition' section's prose describes.",
+      "chosen_heading": "Berurin Definition",
+      "current_heading": "Berurin Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Midat Sodom",
+    "candidates": [
+      "Copy Dispute",
+      "Midat Sodom",
+      "Privacy Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question about whether the dispute turns on coercing against midat Sodom behavior, which is precisely what the 'Midat Sodom' section's prose describes.",
+      "chosen_heading": "Midat Sodom",
+      "current_heading": "Midat Sodom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Privacy Concern",
+    "candidates": [
+      "Privacy Concern",
+      "Separate Copies",
+      "Mishna Setup",
+      "Penalty Clause",
+      "Yosi v. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the gemara's rejection ('No, everyone coerces') and Rabban Shimon ben Gamliel's reason about the 'ambushing lion,' which is precisely what the 'Privacy Concern' prose section explains and discusses.",
+      "chosen_heading": "Privacy Concern",
+      "current_heading": "Privacy Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Yosi v. Yehuda",
+    "candidates": [
+      "Separate Copies",
+      "Mishna Setup",
+      "Penalty Clause",
+      "Yosi v. Yehuda",
+      "Asmachta Defined",
+      "Rav Nachman Ruling",
+      "Rabbi Ami"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Penalty Clause",
+      "first_confidence": "high",
+      "first_reason": "The Mishna text describes the penalty clause arrangement (depositing the shtar with a third party and the conditional return if payment is not made by a deadline), which matches candidate 2 'Penalty Clause' prose discussing exactly that arrangement.",
+      "second_heading": "Yosi v. Yehuda",
+      "second_confidence": "high",
+      "second_reason": "The Gemara item identifying the dispute as turning on whether asmakhta is binding matches candidate 3 'Yosi v. Yehuda' prose, which introduces this as the paradigm asmachta case with Rabbi Yossi and Rabbi Yehuda's positions.",
+      "current_heading": "Yosi v. Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rabbi Ami",
+    "candidates": [
+      "Asmachta Defined",
+      "Rav Nachman Ruling",
+      "Rabbi Ami",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Nachman's ruling (attributed through Rabbah bar Avuh and Rav) AND Rabbi Ami's response in a single continuous Talmudic quote, but the essay splits them into two headings; however, since the passage begins with Rav Nachman's statement and the 'Rav Nachman Ruling' prose explicitly discusses this combined text (including Rabbi Ami's response as part of that ruling's reception), and the current placement under 'Rabbi Ami' is actually correct for the Rabbi Ami portion \u2014 yet the single passage must go under one heading \u2014 the 'Rav Nachman Ruling' section's prose best encompasses the full passage as it discusses both the ruling and notes the textual ambiguity that Rabbi Ami's reluctance reflects.",
+      "chosen_heading": "Rav Nachman Ruling",
+      "current_heading": "Rabbi Ami",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Final Conclusion",
+    "candidates": [
+      "Rabbi Ami",
+      "Final Conclusion",
+      "Replacing Erased",
+      "Procedure",
+      "Kiyum Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the final halakhic conclusion that asmakhta is not binding (ve-ein halachah ke-Rabbi Yossi), which matches exactly the 'Final Conclusion' section's prose discussing this same ruling and its implications.",
+      "chosen_heading": "Final Conclusion",
+      "current_heading": "Final Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Kiyum Language",
+    "candidates": [
+      "Replacing Erased",
+      "Procedure",
+      "Kiyum Language",
+      "Evidence Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishna about an erased promissory note, which candidate 0 ('Replacing Erased') explicitly introduces as 'the next mishna: mi she-nimchak shtar chovo,' matching the passage's content precisely before the procedural details covered in candidate 1.",
+      "chosen_heading": "Replacing Erased",
+      "current_heading": "Kiyum Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Evidence Standard",
+    "candidates": [
+      "Kiyum Language",
+      "Evidence Standard",
+      "Torn Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the precise formulaic language of the ratification document ('be-moshav tlasa havina,' identifying dayanim, recording the erased document and witnesses), which matches the 'Kiyum Language' prose exactly, while the current placement under 'Evidence Standard' only covers the second half of the baraisa about whether further proof is needed.",
+      "chosen_heading": "Kiyum Language",
+      "current_heading": "Evidence Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Torn Documents",
+    "candidates": [
+      "Torn Documents",
+      "Beis Din Tearing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torn Documents",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's rules about torn, erased, or smudged documents, which matches heading 0's prose about nikra/nitkarei/nimchak distinctions.",
+      "second_heading": "Beis Din Tearing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yehuda's Gemara clarification distinguishing a beis din tear from a non-beis din tear, which is precisely what heading 1's prose discusses.",
+      "current_heading": "Torn Documents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Beis Din Tearing",
+    "candidates": [
+      "Beis Din Tearing",
+      "Coercion Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the signs of a beis din tear (tearing through witnesses' signatures, date, and essential part, or a crisscross cut), which is precisely what the 'Beis Din Tearing' section's prose discusses.",
+      "chosen_heading": "Beis Din Tearing",
+      "current_heading": "Beis Din Tearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Coercion Context",
+    "candidates": [
+      "Coercion Context",
+      "Abaye Refuses",
+      "Double Collection",
+      "Invalid Document"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Coercion Context",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the Arabs coming to Pumbedita and the landowners requesting a duplicate deed from Abaye, which matches the 'Coercion Context' prose exactly.",
+      "second_heading": "Abaye Refuses",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's refusal citing Rav Safra's ruling against two deeds on one field, which matches the 'Abaye Refuses' prose exactly.",
+      "current_heading": "Coercion Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Invalid Document",
+    "candidates": [
+      "Abaye Refuses",
+      "Double Collection",
+      "Invalid Document",
+      "Rav Aha Objection",
+      "Abaye Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Abaye telling his scribe to write an invalid document (text on erased parchment, witnesses on clean paper), which is precisely what the 'Invalid Document' section's prose discusses.",
+      "chosen_heading": "Invalid Document",
+      "current_heading": "Invalid Document",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Abaye Clarifies",
+    "candidates": [
+      "Rav Aha Objection",
+      "Abaye Clarifies",
+      "Lost Note Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Aha's objection AND Abaye's clarification as a single exchange, and candidate 0 ('Rav Aha Objection') covers the full dialogue including Abaye's reply about writing mere alphabet letters, while candidate 1 discusses only Abaye's clarification in isolation \u2014 but since the passage is one unified exchange, it belongs under the heading that introduces the exchange, which is candidate 0.",
+      "chosen_heading": "Rav Aha Objection",
+      "current_heading": "Abaye Clarifies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Lost Note Rule",
+    "candidates": [
+      "Abaye Clarifies",
+      "Lost Note Rule",
+      "Double Collection Risk",
+      "Sale Exception",
+      "Rabban Shimon",
+      "Document Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about a lost promissory note and the rule against writing a replacement, which is exactly what the 'Lost Note Rule' prose describes.",
+      "chosen_heading": "Lost Note Rule",
+      "current_heading": "Lost Note Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Document Return",
+    "candidates": [
+      "Double Collection Risk",
+      "Sale Exception",
+      "Rabban Shimon",
+      "Document Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Shimon ben Gamliel's prohibition on replacement sale deeds AND his ruling on gift-deed return, which together belong under the 'Rabban Shimon' heading that introduces his stricter position on bills of sale \u2014 the 'Document Return' prose discusses the same content but is clearly meant as interpretive commentary following the quoted baraita, which should be placed under 'Rabban Shimon' where his view is first introduced.",
+      "chosen_heading": "Rabban Shimon",
+      "current_heading": "Document Return",
+      "moved": true
+    }
+  }
+]

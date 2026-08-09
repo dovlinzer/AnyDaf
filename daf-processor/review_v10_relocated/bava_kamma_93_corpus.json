@@ -1,0 +1,466 @@
+[
+  {
+    "quote_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "(no heading)",
+    "candidates": [
+      "Intro to Sayings",
+      "Saddle & Donkey",
+      "Hagar's Shame",
+      "Abraham's Servant",
+      "Duck's Eyes",
+      "Abigail & David",
+      "Wine & Steward",
+      "Moses & Joshua",
+      "Honey & Hunger",
+      "Bad Tree Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All 7 items are part of the continuous Rava-Rabba bar Mari series of folk sayings with biblical sources, which is described holistically in the 'Intro to Sayings' prose, though individual sayings have their own sub-headings further in the list.",
+      "chosen_heading": "Intro to Sayings",
+      "current_heading": "(no heading)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Bad Tree Parable",
+    "candidates": [
+      "Intro to Sayings",
+      "Saddle & Donkey",
+      "Hagar's Shame",
+      "Abraham's Servant",
+      "Duck's Eyes",
+      "Abigail & David",
+      "Wine & Steward",
+      "Moses & Joshua",
+      "Honey & Hunger",
+      "Bad Tree Parable",
+      "Esau & Ishmael",
+      "Jiftach Story",
+      "Connection & Purity",
+      "Starling Species",
+      "Unheeding Friend",
+      "Well Respect",
+      "Edom & Egypt",
+      "Shared Burden",
+      "Barak & Deborah",
+      "Youth & Age",
+      "Divine Guidance",
+      "Wealthy Patron",
+      "Lot & Abraham",
+      "Moser Din",
+      "Sarah's Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete exchange about the 'bad palm tree' proverb \u2014 item 1 is Rava's question and Rabba bar Mari's framework response, item 2 is the elaboration of all five sources \u2014 which is exactly what the 'Bad Tree Parable' heading's prose describes.",
+      "chosen_heading": "Bad Tree Parable",
+      "current_heading": "Bad Tree Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Sarah's Curse",
+    "candidates": [
+      "Esau & Ishmael",
+      "Jiftach Story",
+      "Connection & Purity",
+      "Starling Species",
+      "Unheeding Friend",
+      "Well Respect",
+      "Edom & Egypt",
+      "Shared Burden",
+      "Barak & Deborah",
+      "Youth & Age",
+      "Divine Guidance",
+      "Wealthy Patron",
+      "Lot & Abraham",
+      "Moser Din",
+      "Sarah's Curse",
+      "Lower Court"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unheeding Friend",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'unheeding friend' saying with its Ezekiel source, matching exactly the prose in candidate 4 ('Unheeding Friend') which describes this very proverb and verse.",
+      "second_heading": "Well Respect",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the 'well you drank from' saying (candidate 5), the Edom/Egypt verse (candidate 6), the shared burden/Barak saying (candidates 7-8), and the youth/age saying with the pillar of cloud and guardian angel verses (candidates 9-10), all of which begin with the 'well' proverb that candidate 5's prose describes.",
+      "current_heading": "Sarah's Curse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Lower Court",
+    "candidates": [
+      "Sarah's Curse",
+      "Lower Court",
+      "Cry Out First",
+      "Both Suffer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage about dragging wood after a property owner, sourced from Lot prospering by following Abram, relates thematically to the consequences of association with the wealthy/powerful \u2014 which connects better to the 'Sarah's Curse' section's discussion of Avraham and Sarah than to the legal/procedural content of the 'Lower Court' section where it currently sits.",
+      "chosen_heading": "Sarah's Curse",
+      "current_heading": "Lower Court",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Both Suffer",
+    "candidates": [
+      "Cry Out First",
+      "Both Suffer",
+      "Tosafot Version",
+      "Commoner's Curse",
+      "Abimelech's Curse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cry Out First",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav \u1e24anan's teaching about 'moser din' \u2014 passing judgment to Heaven \u2014 and being punished first, which matches candidate 0's prose about 'woe to the one who cries out more than the one being cried about' and the formal act of invoking divine judgment.",
+      "second_heading": "Both Suffer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yitz\u1e25ak's statement plus the baraita about both parties being included and the crier being punished first, which matches candidate 1's prose that explicitly discusses 'echad ha-tzo'ek ve-echad ha-nitza'ak be-mashma' and 'she-memaharim la-tzo'ek yoter min ha-nitza'ak'.",
+      "current_heading": "Both Suffer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Abimelech's Curse",
+    "candidates": [
+      "Tosafot Version",
+      "Commoner's Curse",
+      "Abimelech's Curse",
+      "Isaac's Blindness",
+      "Be Oppressed",
+      "Doves & Pigeons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yitzchak's teaching about never treating lightly a commoner's curse, which is exactly what the 'Commoner's Curse' prose section discusses, while the current placement under 'Abimelech's Curse' covers only the specific demonstration of that principle.",
+      "chosen_heading": "Commoner's Curse",
+      "current_heading": "Abimelech's Curse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Doves & Pigeons",
+    "candidates": [
+      "Isaac's Blindness",
+      "Be Oppressed",
+      "Doves & Pigeons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the teaching about being among the pursued (Rabbi Abbahu's statement) and the proof from doves and pigeons \u2014 it is one unified Talmudic passage that belongs under the 'Be Oppressed' heading, which introduces the full teaching, rather than being split across two headings.",
+      "chosen_heading": "Be Oppressed",
+      "current_heading": "Doves & Pigeons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Doves & Pigeons",
+    "candidates": [
+      "Doves & Pigeons",
+      "Blind vs. Tear",
+      "Assi's Question",
+      "Forfeit Principle",
+      "Waive Beforehand",
+      "Family Defect",
+      "Tosafot Objective",
+      "Yes Means No",
+      "Inflection Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage begins with Rav Asi bar \u1e24ama's question to Rava (mai shna reisha u-mai shna seifa) and continues through the full dialectical chain, matching candidate 2's prose which describes precisely this opening question and its context.",
+      "chosen_heading": "Assi's Question",
+      "current_heading": "Doves & Pigeons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Inflection Test",
+    "candidates": [
+      "Blind vs. Tear",
+      "Assi's Question",
+      "Forfeit Principle",
+      "Waive Beforehand",
+      "Family Defect",
+      "Tosafot Objective",
+      "Yes Means No",
+      "Inflection Test",
+      "Charity Wallet",
+      "Trustee Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yochanan's principle that 'yes can mean no and no can mean yes,' which is precisely what the 'Yes Means No' section's prose describes \u2014 Rabbi Yochanan's third explanation operating through contextual interpretation of consent statements, not through the objective-injury reasoning of Rava or Rav Sheshes.",
+      "chosen_heading": "Yes Means No",
+      "current_heading": "Inflection Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Trustee Liability",
+    "candidates": [
+      "Charity Wallet",
+      "Trustee Liability",
+      "Wood to Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous discussion: the contradiction between the mishna (Break my jug/Tear my garment \u2192 liable) and the baraita (lishmor ve-lo le-abed/li-kro'a/le-chalek la-aniyim), resolved by Rav Huna and then Rabba, followed by Rav Yosef's charity-wallet case \u2014 all of which is precisely what candidate 0 ('Charity Wallet') describes in its prose, whereas candidate 1 ('Trustee Liability') covers only the later portion (Rav Yosef/Abaye/Rava) and the current placement therefore starts too late.",
+      "chosen_heading": "Charity Wallet",
+      "current_heading": "Trustee Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Wood to Vessel",
+    "candidates": [
+      "Trustee Liability",
+      "Wood to Vessel",
+      "Wool to Garment",
+      "Pregnant Cow",
+      "Full Cycle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text describes exactly the case of robbing wood and fashioning vessels / wool and fashioning garments and paying at the time of robbery, which is precisely what the 'Wood to Vessel' section's prose discusses.",
+      "chosen_heading": "Wood to Vessel",
+      "current_heading": "Wood to Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Full Cycle",
+    "candidates": [
+      "Wool to Garment",
+      "Pregnant Cow",
+      "Full Cycle",
+      "Payment Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pregnant Cow",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the case of a pregnant cow/laden ewe stolen before birth/shearing, matching exactly the 'Pregnant Cow' prose about paying the value of a cow about to give birth and a sheep about to be shorn.",
+      "second_heading": "Full Cycle",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the full cycle case (animal became pregnant/grew wool in the robber's possession) and states the general rule meshalem ki-sha'at ha-gezeila, matching exactly the 'Full Cycle' prose.",
+      "current_heading": "Full Cycle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Payment Rule",
+    "candidates": [
+      "Payment Rule",
+      "Earlier Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the threshold examples (wood\u2192vessels vs. sanding; wool\u2192garments vs. washing) that Candidate 0's prose explicitly discusses as setting up the Gemara's next difficulty, matching the current placement perfectly.",
+      "chosen_heading": "Payment Rule",
+      "current_heading": "Payment Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Earlier Stages",
+    "candidates": [
+      "Earlier Stages",
+      "Reversible Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara raising a contradiction from a baraita about earlier transformation stages (sanding, smoothing, washing, cleaning), which is precisely what the 'Earlier Stages' prose describes and introduces.",
+      "chosen_heading": "Earlier Stages",
+      "current_heading": "Earlier Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Reversible Change",
+    "candidates": [
+      "Reversible Change",
+      "Biblical Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Abaye's explanation that the mishnah deals with reversible rabbinic-level changes (planks assembled without nails, spun wool knitted into garments) while the baraita deals with irreversible Torah-level changes, which is precisely what the 'Reversible Change' section's prose describes.",
+      "chosen_heading": "Reversible Change",
+      "current_heading": "Reversible Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Biblical Change",
+    "candidates": [
+      "Biblical Change",
+      "Identity Change",
+      "Smoothing Test",
+      "Palm Tree Planks",
+      "Whitening Wool"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's statement that the mishnah also describes biblical-level changes (pestles and felt), which is precisely what the 'Biblical Change' section's prose describes.",
+      "chosen_heading": "Biblical Change",
+      "current_heading": "Biblical Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Whitening Wool",
+    "candidates": [
+      "Identity Change",
+      "Smoothing Test",
+      "Palm Tree Planks",
+      "Whitening Wool",
+      "Libun Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly poses the question 'does whitening constitute a shinui' and raises the contradiction from the reishit ha-gez context, which is precisely what the 'Whitening Wool' section's prose describes.",
+      "chosen_heading": "Whitening Wool",
+      "current_heading": "Whitening Wool",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168,
+      169
+    ],
+    "current_heading": "Libun Debate",
+    "candidates": [
+      "Libun Debate",
+      "Degrees of Libun",
+      "Sulfur Whitening"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Libun Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Abaye's resolution (Rabbi Shimon vs. Rabbanan) and Rava's alternative resolution (naftzei vs. sarkeh), matching the 'Libun Debate' and 'Degrees of Libun' prose respectively \u2014 but since the prose of heading 0 explicitly covers Abaye's answer and heading 1 covers Rava's answer, item 1 belongs under heading 0 and item 2 belongs under heading 1.",
+      "second_heading": "Sulfur Whitening",
+      "second_confidence": "high",
+      "second_reason": "Item 3, Rabbi \u1e24iyya bar Avin's distinction between simple whitening and sulfur-bleaching, matches perfectly with the 'Sulfur Whitening' prose of heading 2.",
+      "current_heading": "Libun Debate",
+      "moved": true
+    }
+  }
+]

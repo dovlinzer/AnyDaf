@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Overview",
+    "candidates": [
+      "Mishnah Overview",
+      "R. Eliezer's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself, which directly matches the 'Mishnah Overview' prose that summarizes exactly this content about men not going out with weapons on Shabbat.",
+      "chosen_heading": "Mishnah Overview",
+      "current_heading": "Mishnah Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "R. Eliezer's View",
+    "candidates": [
+      "R. Eliezer's View",
+      "Sages' Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Eliezer's statement that weapons are ornaments, which directly matches the 'R. Eliezer's View' section prose discussing exactly this position.",
+      "chosen_heading": "R. Eliezer's View",
+      "current_heading": "R. Eliezer's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Sages' Objection",
+    "candidates": [
+      "Sages' Objection",
+      "Tachshitin Concept",
+      "Modern Applications",
+      "Weapon Definitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbis' direct statement with the Isaiah proof-text, which is precisely what candidate 0 ('Sages' Objection') discusses in its prose.",
+      "chosen_heading": "Sages' Objection",
+      "current_heading": "Sages' Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Weapon Definitions",
+    "candidates": [
+      "Tachshitin Concept",
+      "Modern Applications",
+      "Weapon Definitions",
+      "Biblical Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tachshitin Concept",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss garters and ankle chains as women's ornaments (bir\u0438\u0442/kevalim), which are tachshitin items worn on the body \u2014 fitting the 'Tachshitin Concept' prose about what counts as tachshitin and levisha.",
+      "second_heading": "Weapon Definitions",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 cover exactly the content described in the 'Weapon Definitions' prose: the kulpa definition, Rabbi Eliezer's baraita, Abaye's candle analogy, Shmuel's view on messianic times, Rabbi \u1e24iyya bar Abba's prophecy statement, and the alternate version \u2014 all present in that section's detailed prose.",
+      "current_heading": "Weapon Definitions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Biblical Proof",
+    "candidates": [
+      "Biblical Proof",
+      "Literal Meaning Principle",
+      "Learning Methodology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange about Rabbi Eliezer's biblical proof (the sword verse) and Rav Kahana's challenge to it, which is precisely what candidate 0's prose describes \u2014 the question of what textual basis supports Rabbi Eliezer, the citation of Psalms 45:4, and Rav Kahana's objection that the verse refers to Torah metaphorically.",
+      "chosen_heading": "Biblical Proof",
+      "current_heading": "Biblical Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Learning Methodology",
+    "candidates": [
+      "Literal Meaning Principle",
+      "Learning Methodology",
+      "Sharpening Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rav Kahana's personal disclosure about learning the Talmud at eighteen and not knowing ein mikra yotzei midei peshuto, and the principle of learning before analyzing \u2014 exactly what the 'Learning Methodology' prose section explicates.",
+      "chosen_heading": "Learning Methodology",
+      "current_heading": "Learning Methodology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Sharpening Model",
+    "candidates": [
+      "Sharpening Model",
+      "Cooperative Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mnemonic, Rabbi Elazar's teaching about two scholars sharpening one another, and Rav Na\u1e25man bar Yitz\u1e25ak's addition about the right hand of Torah \u2014 are explicitly discussed in the 'Sharpening Model' prose, which is exactly where the passage currently sits.",
+      "chosen_heading": "Sharpening Model",
+      "current_heading": "Sharpening Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Cooperative Model",
+    "candidates": [
+      "Cooperative Model",
+      "Self-Study Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items directly correspond to the content described in the 'Cooperative Model' prose: items 1-2 cover the nidberu/nachat teaching and Rabbi Ami's derivation about thinking upon His name, items 3-4 cover the mitzva-keeping statements, and item 5 covers Rabbi Abba's version of the listening scholars teaching \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Cooperative Model",
+      "current_heading": "Cooperative Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Self-Study Model",
+    "candidates": [
+      "Self-Study Model",
+      "Aggadic Digressions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content discussed in the 'Self-Study Model' prose: item 1 is the consequence of not listening (Shechinah departing) which the prose explicitly references as 'gormim la-Shechinah she-tistalek mi-Yisrael,' and item 2 is the Rabbi Abba/Reish Lakish teaching about two scholars being madgilim each other, which is the central subject of that entire section including Rava's qualifications.",
+      "chosen_heading": "Self-Study Model",
+      "current_heading": "Self-Study Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Aggadic Digressions",
+    "candidates": [
+      "Aggadic Digressions",
+      "Bad Dog Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Rabbi Shimon ben Lakish statements (lending/charity and Torah scholar/am ha'aretz) that Candidate 0's prose explicitly describes and analyzes in detail, making the current placement correct.",
+      "chosen_heading": "Aggadic Digressions",
+      "current_heading": "Aggadic Digressions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Bad Dog Story",
+    "candidates": [
+      "Bad Dog Story",
+      "Torah and Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Reish Lakish statement about the evil dog preventing chesed, Rav Nachman bar Yitzchak's addition about fear of Heaven, and the narrative of the woman whose fetus was displaced \u2014 are precisely the content described in the 'Bad Dog Story' prose, which explicitly discusses all three elements in sequence.",
+      "chosen_heading": "Bad Dog Story",
+      "current_heading": "Bad Dog Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Torah and Action",
+    "candidates": [
+      "Torah and Action",
+      "Biryas Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rav Huna's and Reish Lakish's interpretations of Kohelet 11:9) are explicitly discussed in the 'Torah and Action' prose, which quotes and explains both readings in detail.",
+      "chosen_heading": "Torah and Action",
+      "current_heading": "Torah and Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Biryas Definition",
+    "candidates": [
+      "Biryas Definition",
+      "Kevalim Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer chain about the definition of 'biryas' (Rav Yehuda's identification, Rav Yosef's objection, and the resolution), which is precisely what the 'Biryas Definition' prose describes.",
+      "chosen_heading": "Biryas Definition",
+      "current_heading": "Biryas Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Kevalim Structure",
+    "candidates": [
+      "Kevalim Structure",
+      "Historical Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the kevalim structure debate \u2014 whether the chain renders it a vessel, and the analogy to sound-producing metal vessels \u2014 exactly matching the 'Kevalim Structure' prose, which summarizes this entire passage verbatim.",
+      "chosen_heading": "Kevalim Structure",
+      "current_heading": "Kevalim Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Historical Account",
+    "candidates": [
+      "Historical Account",
+      "Functional Vessel",
+      "Tzitz Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's proof that the chain performs a purposeful action (kaved maaseh), establishing the kevalim as a functional vessel (kli) subject to tumah \u2014 exactly what the 'Functional Vessel' section's prose describes, including Rabbi Yirmiyah's affirmation.",
+      "chosen_heading": "Functional Vessel",
+      "current_heading": "Historical Account",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Tzitz Source",
+    "candidates": [
+      "Functional Vessel",
+      "Tzitz Source",
+      "Tzitz Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Dimi's report of Rabbi Yochanan's derivation of tumah for a woven fabric of any size from the tzitz, which is exactly what the 'Tzitz Source' prose describes.",
+      "chosen_heading": "Tzitz Source",
+      "current_heading": "Tzitz Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Tzitz Description",
+    "candidates": [
+      "Tzitz Description",
+      "Inclusive Disjunction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the physical nature of the tzitz (gold plate, not woven) and its inscription, which is exactly what the 'Tzitz Description' prose discusses, including Abaye's challenge and Rabbi Elazar b'Rabbi Yose's firsthand testimony from Rome.",
+      "chosen_heading": "Tzitz Description",
+      "current_heading": "Tzitz Description",
+      "moved": false
+    }
+  }
+]

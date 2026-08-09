@@ -1,0 +1,441 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Fixed vs. Ad Hoc",
+    "candidates": [
+      "Fixed vs. Ad Hoc",
+      "Abaye's Two Cases",
+      "Non-Fixed Operation",
+      "Rav Ashi's Reading",
+      "Baraita Confirmation"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Baraita Confirmation",
+    "candidates": [
+      "Abaye's Two Cases",
+      "Non-Fixed Operation",
+      "Rav Ashi's Reading",
+      "Baraita Confirmation",
+      "Nir Damage Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita objection against Abaye and Rav Ashi's contrasting readings, concluding with 'kashya' \u2014 exactly what the 'Baraita Confirmation' section's prose describes in detail.",
+      "chosen_heading": "Baraita Confirmation",
+      "current_heading": "Baraita Confirmation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Nir Damage Question",
+    "candidates": [
+      "Nir Damage Question",
+      "Chaff as Manure",
+      "Nevelot, Kevarot, Burski",
+      "Tannery Eastward",
+      "Rabbi Akiva Position"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Chaff as Manure",
+      "Nevelot, Kevarot, Burski",
+      "Tannery Eastward",
+      "Rabbi Akiva Position",
+      "Gemara Clarifies Distance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nevelot, Kevarot, Burski",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing nevelot, kevarot, and burski with the fifty-amah rule and directional restrictions, which matches the 'Nevelot, Kevarot, Burski' prose describing exactly these zoning regulations.",
+      "second_heading": "Gemara Clarifies Distance",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara dilemma about how to read Rabbi Akiva's position (whether fifty amot applies to all directions or the west is totally prohibited), which matches the 'Gemara Clarifies Distance' prose that describes exactly this question and its resolution.",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Gemara Clarifies Distance",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Gemara Clarifies Distance",
+      "Constant Wind Debate",
+      "Four Daily Winds",
+      "Southern Wind Harsh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that resolves the ambiguity about Rabbi Akiva's position \u2014 stating he requires fifty amot in all permitted directions and prohibits the west entirely because it is 'tadira' \u2014 which is precisely what the 'Gemara Clarifies Distance' prose describes as the resolution of that debate.",
+      "chosen_heading": "Gemara Clarifies Distance",
+      "current_heading": "Gemara Clarifies Distance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Southern Wind Harsh",
+    "candidates": [
+      "Constant Wind Debate",
+      "Four Daily Winds",
+      "Southern Wind Harsh",
+      "Constant = Shechina",
+      "Sun Bowing West"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with Rava's question about what 'tadira' (constant) means, which is precisely what the 'Constant Wind Debate' section introduces \u2014 the challenge to the simple reading of 'constant' \u2014 and the content about four winds and Ben Netz is part of that same debate, not a separate section.",
+      "chosen_heading": "Constant Wind Debate",
+      "current_heading": "Southern Wind Harsh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Sun Bowing West",
+    "candidates": [
+      "Constant = Shechina",
+      "Sun Bowing West",
+      "Departing Backwards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the reinterpretation of 'tadira' as shechina AND the Rabbi Yehoshua ben Levi proof about the hosts of heaven bowing west, and candidate 1 ('Sun Bowing West') is the section whose prose discusses exactly this Rabbi Yehoshua ben Levi citation and its implications, making it the best match for the full passage content.",
+      "chosen_heading": "Sun Bowing West",
+      "current_heading": "Sun Bowing West",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Departing Backwards",
+    "candidates": [
+      "Departing Backwards",
+      "Shechina Bechol Makom",
+      "Lightning Messengers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Ya'akov's objection about the servant backing away and bowing, and the gemara's 'kashya' conclusion \u2014 exactly what the prose under 'Departing Backwards' describes.",
+      "chosen_heading": "Departing Backwards",
+      "current_heading": "Departing Backwards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Lightning Messengers",
+    "candidates": [
+      "Shechina Bechol Makom",
+      "Lightning Messengers",
+      "Opposing Angels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Oshaya's position that the Shechina is everywhere AND contains the full lightning proof-text argument, making it a single unified unit that belongs under the heading 'Shechina Bechol Makom' which introduces this very position, rather than being split under 'Lightning Messengers' which describes only the derivative proof.",
+      "chosen_heading": "Shechina Bechol Makom",
+      "current_heading": "Lightning Messengers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Opposing Angels",
+    "candidates": [
+      "Lightning Messengers",
+      "Opposing Angels",
+      "Rav Sheshet Anywhere",
+      "Heretics Eastward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is directly about Rabbi Yishmael's school deriving that the Divine Presence is everywhere from the Zechariah verse about one angel going 'to meet' another rather than 'after him,' which is precisely what the 'Opposing Angels' prose section describes.",
+      "chosen_heading": "Opposing Angels",
+      "current_heading": "Opposing Angels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Heretics Eastward",
+    "candidates": [
+      "Rav Sheshet Anywhere",
+      "Heretics Eastward",
+      "Tosafot Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Sheshet's general principle that shechina is in every place and his instruction to his servant to orient him in any direction, which matches the 'Rav Sheshet Anywhere' prose about orienting in any direction \u2014 the east exclusion detail is secondary and the primary content of the passage is establishing his shechina bechol makom position and the any-direction instruction.",
+      "chosen_heading": "Rav Sheshet Anywhere",
+      "current_heading": "Heretics Eastward",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Tosafot Analysis",
+    "candidates": [
+      "Heretics Eastward",
+      "Tosafot Analysis",
+      "Directional Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rabbi Abbahu's statement that the Divine Presence is in the west (shechina b'ma'arav) with the etymology of 'oriyya' as 'avir Yah' is directly discussed in the Tosafot Analysis section, which extensively analyzes the amora'im who hold shechina b'ma'arav and contrasts them with those who hold shechina bechol makom.",
+      "chosen_heading": "Tosafot Analysis",
+      "current_heading": "Tosafot Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Directional Etymology",
+    "candidates": [
+      "Tosafot Analysis",
+      "Directional Etymology",
+      "Wind Direction Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives the meaning of 'ya'arof' from 'orpo' (back of the world) to explain the western wind \u2014 this is precisely the etymological connection between directional terms and their root meanings that the 'Wind Direction Names' section discusses, specifically the word *ma'arav* and western direction etymology.",
+      "chosen_heading": "Wind Direction Names",
+      "current_heading": "Directional Etymology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Wind Direction Names",
+    "candidates": [
+      "Wind Direction Names",
+      "Portico Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items interpret verses from Deuteronomy 32 as descriptions of the four winds (north, east, south), which matches the 'Wind Direction Names' section discussing directional winds and their characteristics, not the Portico Model which concerns solar return paths.",
+      "chosen_heading": "Wind Direction Names",
+      "current_heading": "Wind Direction Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Portico Model",
+    "candidates": [
+      "Portico Model",
+      "Tent Model",
+      "Seasonal Variation",
+      "Rashi's Explanation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Portico Model",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rabbi Eliezer's portico model, which is precisely what the 'Portico Model' prose describes.",
+      "second_heading": "Tent Model",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rabbi Yehoshua's tent/dome model and the Kohelet proof-text, which is exactly what the 'Tent Model' prose discusses, including the northwest corner, the kippah, and the Ecclesiastes verses about going south by day and north by night.",
+      "current_heading": "Portico Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Rashi's Explanation",
+    "candidates": [
+      "Tent Model",
+      "Seasonal Variation",
+      "Rashi's Explanation",
+      "Southern Wind Loss"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rashi's Explanation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are explicitly discussed in the 'Rashi's Explanation' prose, which describes the verses from Iyov identifying the four winds and the gemara's resolution of the tension between the southern wind as destructive whirlwind versus rain-bearing wind.",
+      "second_heading": "Southern Wind Loss",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rav \u1e24isda on 'out of the north comes gold' and the northern wind devaluing gold) belongs under 'Southern Wind Loss,' which covers Rav \u1e24isda's post-churban statements about the winds.",
+      "current_heading": "Rashi's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Southern Wind Loss",
+    "candidates": [
+      "Southern Wind Loss",
+      "Exile Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the southern wind no longer bringing rain since the Temple's destruction, which is precisely what the 'Southern Wind Loss' section's prose describes.",
+      "chosen_heading": "Southern Wind Loss",
+      "current_heading": "Southern Wind Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Exile Consequences",
+    "candidates": [
+      "Exile Consequences",
+      "Prayer Directions",
+      "Beit HaMikdash Signs",
+      "Wisdom to Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about rain no longer descending from the good storehouse since the Temple's destruction matches exactly the prose under 'Exile Consequences,' which directly discusses this Rafram bar Pappa/Rav \u1e24isda statement and its connection to exile and dwelling on the land.",
+      "chosen_heading": "Exile Consequences",
+      "current_heading": "Exile Consequences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Wisdom to Wealth",
+    "candidates": [
+      "Prayer Directions",
+      "Beit HaMikdash Signs",
+      "Wisdom to Wealth",
+      "Eretz Yisrael Orientation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yitzchak's teaching (wisdom=south, wealth=north with the Beit HaMikdash mnemonic) and Rabbi Yehoshua ben Levi's teaching (always face south), and the 'Prayer Directions' prose explicitly introduces Rabbi Yitzchak's teaching that opens this passage, making it the natural home for the entire quoted text.",
+      "chosen_heading": "Prayer Directions",
+      "current_heading": "Wisdom to Wealth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Eretz Yisrael Orientation",
+    "candidates": [
+      "Wisdom to Wealth",
+      "Eretz Yisrael Orientation",
+      "Flax Distance",
+      "Rabbi Yosi Mustard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the contradiction between Rabbi Yehoshua ben Levi's southward prayer and his westward shechina statement, plus its resolution of angling \u2014 content explicitly described in heading 0's prose \u2014 followed by Rabbi Chanina's ruling to Rav Ashi which, while also mentioned in heading 1, is part of the same continuous Gemara passage that heading 0 already covers including this exact dialectic.",
+      "chosen_heading": "Wisdom to Wealth",
+      "current_heading": "Eretz Yisrael Orientation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rabbi Yosi Mustard",
+    "candidates": [
+      "Flax Distance",
+      "Rabbi Yosi Mustard",
+      "Mutual Harm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosi's permit regarding mustard and bees with his reciprocal harm argument, which is precisely what the 'Rabbi Yosi Mustard' section's prose describes.",
+      "chosen_heading": "Rabbi Yosi Mustard",
+      "current_heading": "Rabbi Yosi Mustard",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Register Witnesses",
+    "candidates": [
+      "Ger in Authority",
+      "Rav Moshe Serarah",
+      "Ger Identity Descent",
+      "Rav Bibi Division",
+      "Register Witnesses",
+      "David's Troops"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yosei's teaching about the Old Court of Tzippori and the rationale 'dayka u'machtmi' (they examine before having witnesses sign), which is precisely what the 'Register Witnesses' section's prose describes.",
+      "chosen_heading": "Register Witnesses",
+      "current_heading": "Register Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "David's Troops",
+    "candidates": [
+      "David's Troops",
+      "Veyityachsam",
+      "Merit Ancestors",
+      "Non-Israelite Warriors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three points (Rabbi \u1e24anina's ruling, Shmuel's identification of David's troops, Rav Yosef's verse, and Rav's reason) as a unified block, and the current heading 'David's Troops' best encompasses the whole passage, while the split into separate headings for the verse and the reason reflects the essay's analytical breakdown rather than a reason to move the passage.",
+      "chosen_heading": "David's Troops",
+      "current_heading": "David's Troops",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Non-Israelite Warriors",
+    "candidates": [
+      "Veyityachsam",
+      "Merit Ancestors",
+      "Non-Israelite Warriors",
+      "Chalal Definition",
+      "Chalal L'Olam",
+      "L'Olam Mechanism",
+      "Yisrael Chalala",
+      "Rabbi Yehuda Ger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the 'Non-Israelite Warriors' problem \u2014 Zelek, Uriah, Ittai the Gittite, and the four hundred youths \u2014 which is precisely what candidate 2's prose describes in detail.",
+      "chosen_heading": "Non-Israelite Warriors",
+      "current_heading": "Non-Israelite Warriors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rabbi Yehuda Ger",
+    "candidates": [
+      "Chalal Definition",
+      "Chalal L'Olam",
+      "L'Olam Mechanism",
+      "Yisrael Chalala",
+      "Rabbi Yehuda Ger",
+      "Rabbi Eliezer Ger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna passage covers all the topics introduced in the 'Chalal Definition' section \u2014 the definition of chalal, transmission through male line, the Yisrael-chalala case, and Rabbi Yehuda's ruling on gerim \u2014 making it the umbrella heading under which this Mishna as a whole belongs, before the subsequent headings break down its individual clauses.",
+      "chosen_heading": "Chalal Definition",
+      "current_heading": "Rabbi Yehuda Ger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rabbi Eliezer Ger",
+    "candidates": [
+      "Rabbi Yehuda Ger",
+      "Rabbi Eliezer Ger",
+      "Imo Miyisrael",
+      "Rabbi Yosei Ger",
+      "Amitzri Adomi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content discussed under 'Rabbi Eliezer Ger' \u2014 Rabbi Eliezer ben Yaakov's rulings about ger/giyoret combinations and kehunah fitness \u2014 plus the 'imo miyisrael' clause and Rabbi Yosei's lenient position, all of which are introduced within this same Mishnaic passage and covered sequentially by headings 1, 2, and 3, but the current placement under heading 1 is correct as the passage as a whole unit belongs there.",
+      "chosen_heading": "Rabbi Eliezer Ger",
+      "current_heading": "Rabbi Eliezer Ger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Amitzri Adomi",
+    "candidates": [
+      "Imo Miyisrael",
+      "Rabbi Yosei Ger",
+      "Amitzri Adomi",
+      "Velo Yechalel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the meaning of 'le-olam' and the analogy to Mitzri and Adomi (three generations), which is exactly what the 'Amitzri Adomi' section's prose describes.",
+      "chosen_heading": "Amitzri Adomi",
+      "current_heading": "Amitzri Adomi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Velo Yechalel",
+    "candidates": [
+      "Velo Yechalel",
+      "Tumah Gezeirah",
+      "Zaro Both Genders",
+      "Male Carriers Only",
+      "Redundancy Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage spans all four candidate topics (the gezeirah shavah derivation, the male-emphasis point, the inclusion of daughters via 'zaro', and the transmission question), but the current placement under 'Velo Yechalel' is the opening of the derivation and serves as the entry point for the entire chain; however, candidates 1\u20133 each match portions of items 1\u20133 more specifically, and since all items form one continuous question-answer chain, the current placement is preferred with low confidence.",
+      "chosen_heading": "Velo Yechalel",
+      "current_heading": "Velo Yechalel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Redundancy Challenge",
+    "candidates": [
+      "Tumah Gezeirah",
+      "Zaro Both Genders",
+      "Male Carriers Only",
+      "Redundancy Challenge",
+      "Parallel Structure",
+      "Mikveh Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about redundancy between the Mishna's first and latter clauses, which is precisely what the 'Redundancy Challenge' section's prose describes.",
+      "chosen_heading": "Redundancy Challenge",
+      "current_heading": "Redundancy Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Mikveh Metaphor",
+    "candidates": [
+      "Parallel Structure",
+      "Mikveh Metaphor",
+      "One Parent Kasher",
+      "Woman Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Dostai's mikveh metaphor and his derivation from the verse, which is exactly what the 'Mikveh Metaphor' section's prose describes and introduces.",
+      "chosen_heading": "Mikveh Metaphor",
+      "current_heading": "Mikveh Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Woman Status",
+    "candidates": [
+      "One Parent Kasher",
+      "Woman Status",
+      "Kal V'Chomer",
+      "Kohen Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita that raises exactly the question discussed in the 'Woman Status' prose \u2014 deriving from the verse about 'his offspring' that the woman herself also becomes a chalala \u2014 and the kal vachomer answer flows directly from that question, making the current placement correct.",
+      "chosen_heading": "Woman Status",
+      "current_heading": "Woman Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Kohen Exception",
+    "candidates": [
+      "Kal V'Chomer",
+      "Kohen Exception",
+      "Status Change",
+      "B'Amav One Genre"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows the Gemara's challenge using the kohen as a counterexample (he transgressed but is not profaned) and the rejection of that counterexample (he is never profaned in any case, unlike the woman), which exactly matches the 'Kohen Exception' section's prose about the kohen proving the kal vachomer wrong and the response distinguishing the kohen's immutable status.",
+      "chosen_heading": "Kohen Exception",
+      "current_heading": "Kohen Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "B'Amav One Genre",
+    "candidates": [
+      "Status Change",
+      "B'Amav One Genre",
+      "Born Forbidden",
+      "Kohen-Specific"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the verse 'lo yechalel zaro' and the argument that 'yechalel' refers to one who was formerly fit and became profaned (the woman), along with the counterargument about the kal vachomer being refutable \u2014 exactly the content described in candidate 1's prose about the additional verse proof and the kal vachomer objection.",
+      "chosen_heading": "B'Amav One Genre",
+      "current_heading": "B'Amav One Genre",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Kohen-Specific",
+    "candidates": [
+      "Born Forbidden",
+      "Kohen-Specific",
+      "Machzir Grusha",
+      "Psul Kehuna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing the definition of chalala and the immediate question about what 'psulim' means, which matches heading 0's prose exactly ('The Gemara now turns to a broader baraita addressing the definition of chalala... The Gemara immediately asks what psulim means here').",
+      "chosen_heading": "Born Forbidden",
+      "current_heading": "Kohen-Specific",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Psul Kehuna",
+    "candidates": [
+      "Machzir Grusha",
+      "Psul Kehuna",
+      "Never Kasher",
+      "Basic Pshat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yehuda's definition of chalala as 'born from psul kehunah' and the Gemara's immediate objection about almanah/gerusha/zona who are not 'born' from such a union \u2014 precisely what the 'Psul Kehuna' prose describes.",
+      "chosen_heading": "Psul Kehuna",
+      "current_heading": "Psul Kehuna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Basic Pshat",
+    "candidates": [
+      "Never Kasher",
+      "Basic Pshat",
+      "Four Statuses",
+      "Three Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba's statement about the chalala who 'did not have a moment of fitness at all' and Rav Yitzchak bar Avin's clarification about the chalala rooted in Torah words \u2014 the first part clearly matches heading 0 ('Never Kasher') which describes exactly this content, and the second part (Rav Yitzchak bar Avin) is a direct follow-up question within the same Gemara unit, while heading 1 ('Basic Pshat') describes this second element but as if it were the primary content, whereas the full passage including Rabba's statement is best housed under heading 0.",
+      "chosen_heading": "Never Kasher",
+      "current_heading": "Basic Pshat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Three Widow",
+    "candidates": [
+      "Four Statuses",
+      "Three Widow",
+      "Separate Acts",
+      "Issur Mosif"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Three Widow",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20137 address the baraita's cases of 'almanah almanah almanah' and the Gemara's analysis of what that means \u2014 separate widows, one widow three times, forewarning, and the resolution that it is one woman widowed from three husbands \u2014 exactly matching the 'Three Widow' heading's prose.",
+      "second_heading": "Four Statuses",
+      "second_confidence": "high",
+      "second_reason": "Item 8 opens a new Gemara question about the tanna's position on issur chal al issur regarding the four-status sequence (almanah, gerusha, chalala, zonah), which matches the 'Four Statuses' heading's prose about the layering of multiple forbidden statuses and the order-dependency question.",
+      "current_heading": "Three Widow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Issur Mosif",
+    "candidates": [
+      "Separate Acts",
+      "Issur Mosif",
+      "Order Broadens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's direct statement establishing the distinction between issur chal al issur and issur mosif, which is precisely what the 'Issur Mosif' section's prose describes as its content.",
+      "chosen_heading": "Issur Mosif",
+      "current_heading": "Issur Mosif",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Order Broadens",
+    "candidates": [
+      "Order Broadens",
+      "Zonah Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the almanah\u2192gerusha\u2192chalala sequence with each stage broadening the prohibition, which is precisely what the 'Order Broadens' prose discusses.",
+      "chosen_heading": "Order Broadens",
+      "current_heading": "Order Broadens",
+      "moved": false
+    }
+  }
+]

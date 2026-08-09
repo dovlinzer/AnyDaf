@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Rabbi Meir Rule",
+    "candidates": [
+      "Todah Overview",
+      "Chutz Liz/Limk",
+      "Treifah vs. Mum",
+      "Mum Case Stated",
+      "Eliezer/Chacham",
+      "Predating Frame",
+      "Mum Status",
+      "Shelo Lishma",
+      "Psul Predating",
+      "Rabbi Meir Rule",
+      "Yehuda Corrects",
+      "Chutz Limk Focus",
+      "Eliezer: Like Pigul",
+      "Yehoshua: Like Mum",
+      "Thought vs. Physical",
+      "Eliezer's Reply",
+      "Yehoshua Improves",
+      "Eliezer Silent",
+      "Yehuda Concludes",
+      "Severity Paradox",
+      "Mirtzeh Concept",
+      "Applied to Bread",
+      "Degree Remove",
+      "Zevachim Silent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All six items constitute the baraita cited under 'Rabbi Meir Rule' \u2014 item 1 states Rabbi Meir's version of the Eliezer/Yehoshua dispute over the blemished animal, and items 2-6 give Rabbi Yehuda's correction identifying the actual dispute as chutz limkomo, exactly as the prose of heading 9 describes.",
+      "chosen_heading": "Rabbi Meir Rule",
+      "current_heading": "Rabbi Meir Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Zevachim Silent",
+    "candidates": [
+      "Yehuda Corrects",
+      "Chutz Limk Focus",
+      "Eliezer: Like Pigul",
+      "Yehoshua: Like Mum",
+      "Thought vs. Physical",
+      "Eliezer's Reply",
+      "Yehoshua Improves",
+      "Eliezer Silent",
+      "Yehuda Concludes",
+      "Severity Paradox",
+      "Mirtzeh Concept",
+      "Applied to Bread",
+      "Degree Remove",
+      "Zevachim Silent",
+      "Pigul Stays Up",
+      "Limk Debate",
+      "Amoraim Map"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eliezer Silent",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing line of the chutz limkomo debate \u2014 Rabbi Eliezer's silence/concession \u2014 which is precisely what heading 7 ('Eliezer Silent') describes.",
+      "second_heading": "Zevachim Silent",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 open a new Gemara inquiry into Rabbi Meir's distinction between tereifa and ba'al mum, which fits under heading 13 ('Zevachim Silent') that discusses how positions line up per Rabbi Meir's version and the ba'al mum case.",
+      "current_heading": "Zevachim Silent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Amoraim Map",
+    "candidates": [
+      "Pigul Stays Up",
+      "Limk Debate",
+      "Amoraim Map",
+      "Rabbah Reversal",
+      "Alternative View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover the full debate about chutz limkomo \u2014 the initial dispute (Rava vs. Rabbah), its alignment with Rabbi Yehoshua vs. Rabbi Eliezer, and Rabbah's retraction \u2014 which is precisely what candidate 1 ('Limk Debate') describes in its prose, whereas the current placement (candidate 2 'Amoraim Map') only covers item 2's content and candidate 3 ('Rabbah Reversal') only covers item 3.",
+      "chosen_heading": "Limk Debate",
+      "current_heading": "Amoraim Map",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Alternative View",
+    "candidates": [
+      "Rabbah Reversal",
+      "Alternative View",
+      "Mizbeach Rules",
+      "Papa's Question",
+      "Ikar Milsa",
+      "Bread/Wine Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the alternative view (ve-ika de-amrei) explaining why Rabbah did not retract his position unlike Rabbi Eliezer, which is precisely what the 'Alternative View' section's prose discusses in detail.",
+      "chosen_heading": "Alternative View",
+      "current_heading": "Alternative View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Bread/Wine Link",
+    "candidates": [
+      "Mizbeach Rules",
+      "Papa's Question",
+      "Ikar Milsa",
+      "Bread/Wine Link",
+      "Simple Read",
+      "Mishna Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's question about why the tanna chose the eil ha-miluim over the eil nazir, which matches exactly the prose of 'Papa's Question' rather than the 'Bread/Wine Link' section where it currently sits.",
+      "chosen_heading": "Papa's Question",
+      "current_heading": "Bread/Wine Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Mishna Case",
+    "candidates": [
+      "Simple Read",
+      "Mishna Case",
+      "Ze'iri Claim",
+      "Pasuk Support",
+      "Transfer Problem",
+      "Zrika Solution",
+      "Two Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together constitute the Ze'eiri claim and its immediate challenge-and-response: the mishna text (items 1-3) is introduced as a difficulty against Ze'eiri's ruling, and item 4 is the Gemara's resolution \u2014 all of which is precisely what candidate 2 ('Ze'iri Claim') describes, with the challenge and zrika resolution belonging to the same continuous unit that begins with Ze'eiri's statement.",
+      "chosen_heading": "Ze'iri Claim",
+      "current_heading": "Mishna Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Two Stages",
+    "candidates": [
+      "Ze'iri Claim",
+      "Pasuk Support",
+      "Transfer Problem",
+      "Zrika Solution",
+      "Two Stages",
+      "Rebbi Allow",
+      "Blood Spill"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes the Gemara identifying the position as belonging to Rabbi Yehuda HaNasi (Rebbi) who holds that two permitting factors can each elevate independently, which is exactly what the 'Two Stages' section's prose describes.",
+      "chosen_heading": "Two Stages",
+      "current_heading": "Two Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Blood Spill",
+    "candidates": [
+      "Rebbi Allow",
+      "Blood Spill",
+      "Spill vs. Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's prose in candidate 1 ('Blood Spill') directly quotes and explains the exact Aramaic text of the item \u2014 the case of blood collected in a cup and spilled \u2014 making it the clearly correct placement.",
+      "chosen_heading": "Blood Spill",
+      "current_heading": "Blood Spill",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Spill vs. Invalid",
+    "candidates": [
+      "Spill vs. Invalid",
+      "Chisda Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rabbi Elazar bar Rabbi Shimon's position on 'kol ha-omed li-zerok ke-zaruk dami,' which is precisely the principle discussed in the 'Spill vs. Invalid' prose section.",
+      "chosen_heading": "Spill vs. Invalid",
+      "current_heading": "Spill vs. Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Chisda Oil",
+    "candidates": [
+      "Chisda Oil",
+      "Yannai Stipulate",
+      "Integral Part"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's ruling about oil and Rabbi Yannai's response about beit din stipulation, and the current heading's prose explicitly frames both elements together as a single unit of discussion \u2014 the challenge from Rav \u1e24isda and Yannai's answer are presented as one integrated exchange under 'Chisda Oil'.",
+      "chosen_heading": "Chisda Oil",
+      "current_heading": "Chisda Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Integral Part",
+    "candidates": [
+      "Yannai Stipulate",
+      "Integral Part",
+      "Mar'it Ayin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why beit din cannot stipulate regarding the oil of a mincha, with the answer that the oil is an integral part of the mincha itself \u2014 exactly what the 'Integral Part' section's prose discusses.",
+      "chosen_heading": "Integral Part",
+      "current_heading": "Integral Part",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164
+    ],
+    "current_heading": "Mar'it Ayin",
+    "candidates": [
+      "Mar'it Ayin",
+      "Simultaneous Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge-and-response exchange about mar'it ayin concerns \u2014 first about reverting to chulin, then about transferring to another sacrifice \u2014 which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Mar'it Ayin",
+      "current_heading": "Mar'it Ayin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168,
+      169,
+      170
+    ],
+    "current_heading": "Simultaneous Shechita",
+    "candidates": [
+      "Simultaneous Shechita",
+      "Devarim Amurim",
+      "Concurrent Shechita",
+      "No Concurrent",
+      "Shimon Metaneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer chain examining under what circumstances (bameh devarim amurim) the mishna's ruling applies \u2014 exactly what candidate 1 'Devarim Amurim' describes \u2014 with item 1 introducing Mattitya ben Yehuda's answer, item 2 objecting that the mishna's structure should reflect that distinction internally, and item 3 resolving that it implicitly does.",
+      "chosen_heading": "Devarim Amurim",
+      "current_heading": "Simultaneous Shechita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      184
+    ],
+    "current_heading": "Shimon Metaneh",
+    "candidates": [
+      "Devarim Amurim",
+      "Concurrent Shechita",
+      "No Concurrent",
+      "Shimon Metaneh",
+      "Tamidim Case",
+      "Shimon vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rabbi Shimon ben Elazar accepts the principle of 'lev beit din metneh aleihem,' which is precisely the question that section 3 ('Shimon Metaneh') introduces in its prose.",
+      "chosen_heading": "Shimon Metaneh",
+      "current_heading": "Shimon Metaneh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Shimon vs. Chachamim",
+    "candidates": [
+      "Tamidim Case",
+      "Shimon vs. Chachamim",
+      "Alt Solution",
+      "Nesachim Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Idi bar Avin/Rabbi Yochanan statement about temidim she-lo hutzereku le-tzibbur and the dispute between Rabbi Shimon and the Rabbis, which is precisely what the 'Shimon vs. Chachamim' prose section discusses and explains.",
+      "chosen_heading": "Shimon vs. Chachamim",
+      "current_heading": "Shimon vs. Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      195
+    ],
+    "current_heading": "Nesachim Need",
+    "candidates": [
+      "Alt Solution",
+      "Nesachim Need",
+      "Ze'iri Problems",
+      "Simple Preferred",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that the daily offering case is different because there IS an alternative solution (grazing until a blemish develops), which is precisely what candidate 0 'Alt Solution' discusses \u2014 not the nesachim case where no solution exists.",
+      "chosen_heading": "Alt Solution",
+      "current_heading": "Nesachim Need",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,511 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Liability Question",
+    "candidates": [
+      "Dog/Snake Attack Case",
+      "Liability Question",
+      "Open Mouth Theory",
+      "Rashi's Explanation",
+      "Rabbi Yehuda's View",
+      "Chachamim's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All seven items form a continuous sugya debating whether an animal's mouth is like the courtyard of the mazik or nizak, and Candidate 1's prose explicitly discusses the kechatzer ha-mazik theory, the man patur question, and both exemption scenarios that appear across items 1\u20137.",
+      "chosen_heading": "Liability Question",
+      "current_heading": "Liability Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Chachamim's View",
+    "candidates": [
+      "Open Mouth Theory",
+      "Rashi's Explanation",
+      "Rabbi Yehuda's View",
+      "Chachamim's View",
+      "Capital Crime Exception",
+      "Unauthorized Entry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the mishna case of directing a snake to bite and Rav Acha bar Yaakov's explanation of both Rabbi Yehuda's and the Rabbis' positions, which is precisely what candidate 2 ('Rabbi Yehuda's View') describes in its prose \u2014 the passage introduces both sides of the dispute as a unit, and candidate 2's prose explicitly covers Rav Acha bar Yaakov's explanation of Rabbi Yehuda's venom-between-the-fangs reasoning, making it the better home for the full passage rather than candidate 3 which covers only the Rabbis' view.",
+      "chosen_heading": "Rabbi Yehuda's View",
+      "current_heading": "Chachamim's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Unauthorized Entry",
+    "candidates": [
+      "Capital Crime Exception",
+      "Unauthorized Entry",
+      "Goat Damage & Fence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the gemara's argument that the kechatzer ha-mazik principle does not apply in capital cases (le-inyan katla lo amrinan), supported by the baraita about unauthorized entry \u2014 exactly what the 'Capital Crime Exception' prose describes, whereas the current heading 'Unauthorized Entry' only captures part of the passage's content and misses the overarching le-inyan katla principle that unifies all three items.",
+      "chosen_heading": "Capital Crime Exception",
+      "current_heading": "Unauthorized Entry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Goat Damage & Fence",
+    "candidates": [
+      "Unauthorized Entry",
+      "Goat Damage & Fence",
+      "Public Warning",
+      "Forced Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the Beit Tarbu goat episode and the fence/shen liability question, which is precisely what the 'Goat Damage & Fence' section prose describes in detail, including the ke-she-chatrah answer.",
+      "chosen_heading": "Goat Damage & Fence",
+      "current_heading": "Goat Damage & Fence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Forced Slaughter",
+    "candidates": [
+      "Public Warning",
+      "Forced Slaughter",
+      "Mishna Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's public announcement warning goat owners two or three times, which matches the 'Public Warning' section's prose about the proclamation and the trei u-tlata zimnei warning \u2014 the 'Forced Slaughter' section covers what happens after non-compliance, but the quoted text includes both the warning and the slaughter instruction as one integrated announcement, and the primary content (the proclamation itself) belongs under 'Public Warning'.",
+      "chosen_heading": "Public Warning",
+      "current_heading": "Forced Slaughter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Mishna Definition",
+    "candidates": [
+      "Forced Slaughter",
+      "Mishna Definition",
+      "Rabbi Yehuda & Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna defining tam and mu'ad according to Rabbi Yehuda and Rabbi Meir, which is precisely what the 'Mishna Definition' section's prose discusses in detail.",
+      "chosen_heading": "Mishna Definition",
+      "current_heading": "Mishna Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rabbi Yehuda & Counting",
+    "candidates": [
+      "Rabbi Yehuda & Counting",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's and Rava's parsings of the verse to explain Rabbi Yehuda's position \u2014 are exactly the content described in the 'Rabbi Yehuda & Counting' prose, which explicitly discusses both Abaye's four-goring reading and Rava's three-goring reading of the same verse.",
+      "chosen_heading": "Rabbi Yehuda & Counting",
+      "current_heading": "Rabbi Yehuda & Counting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Zav/Zava Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Meir's kal va-chomer reasoning and the chachamim's zava counterexample, which is precisely what heading 0 ('Rabbi Meir's View') describes in its prose.",
+      "chosen_heading": "Rabbi Meir's View",
+      "current_heading": "Rabbi Meir's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Zav/Zava Comparison",
+    "candidates": [
+      "Zav/Zava Comparison",
+      "Mixed Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer about the zav/zava distinction using 've-zot' as a mi'ut and the hekesh from 'la-zachar ve-la-nekeva', which is precisely what the 'Zav/Zava Comparison' prose describes in detail.",
+      "chosen_heading": "Zav/Zava Comparison",
+      "current_heading": "Zav/Zava Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Mixed Positions",
+    "candidates": [
+      "Mixed Positions",
+      "Rav Nachman's Psak",
+      "Muad Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what candidate 1's prose describes: the baraita with Rabbi Yose and Rabbi Shimon (item 1), Rav Nachman's ruling citing agreement patterns (item 2), and Rava's challenge plus Rav Nachman's response invoking 'nimuko imo' (item 3) \u2014 all of which candidate 1's prose narrates in detail, while candidate 0 only covers the baraita portion.",
+      "chosen_heading": "Rav Nachman's Psak",
+      "current_heading": "Mixed Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Muad Definition",
+    "candidates": [
+      "Rav Nachman's Psak",
+      "Muad Definition",
+      "Single-Day Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma of whether the three days are to render the ox forewarned or to forewarn the owner, which matches exactly the prose of 'Muad Definition' where this she'eila is introduced.",
+      "chosen_heading": "Muad Definition",
+      "current_heading": "Muad Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Single-Day Witnesses",
+    "candidates": [
+      "Single-Day Witnesses",
+      "Beit Din Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the nafka mina of three groups of witnesses coming on one single day and the owner's argument 'hashta hu de-kamsa'adi bi,' which is exactly what the 'Single-Day Witnesses' prose describes.",
+      "chosen_heading": "Single-Day Witnesses",
+      "current_heading": "Single-Day Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Beit Din Requirement",
+    "candidates": [
+      "Beit Din Requirement",
+      "Multiple Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the requirement for testimony before both beit din and the owner simultaneously, which is precisely what the 'Beit Din Requirement' prose describes.",
+      "chosen_heading": "Beit Din Requirement",
+      "current_heading": "Beit Din Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Multiple Witnesses",
+    "candidates": [
+      "Multiple Witnesses",
+      "Third Group Hazama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes three pairs of witnesses testifying to three separate incidents and being treated as one unit for hazamah purposes \u2014 exactly what the 'Multiple Witnesses' prose discusses, including the edut achat la-hazamah concept.",
+      "chosen_heading": "Multiple Witnesses",
+      "current_heading": "Multiple Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Third Group Hazama",
+    "candidates": [
+      "Third Group Hazama",
+      "Rav Kahana's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Third Group Hazama' prose discusses: when the first group is disqualified leaving two valid testimonies (patur), and when the second group is disqualified leaving one valid testimony (patur), which is the setup before the third group's disqualification triggers full liability.",
+      "chosen_heading": "Third Group Hazama",
+      "current_heading": "Third Group Hazama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Rav Kahana's Challenge",
+    "candidates": [
+      "Rav Kahana's Challenge",
+      "Conspiracy Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical chain about the le-i'udei tora vs. le-i'udei gavra debate, culminating in Rav Kahana's challenge (item 4) which is precisely what the 'Rav Kahana's Challenge' prose describes.",
+      "chosen_heading": "Rav Kahana's Challenge",
+      "current_heading": "Rav Kahana's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Conspiracy Evidence",
+    "candidates": [
+      "Conspiracy Evidence",
+      "Third-Party Attack"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the same topic of establishing conspiracy evidence for edim zomemim \u2014 signaling, consecutive arrival (Rav Ashi), inability to identify the ox (Ravina), and the follow-up question about how such witnesses could render an ox forewarned \u2014 which is precisely what the 'Conspiracy Evidence' prose describes.",
+      "chosen_heading": "Conspiracy Evidence",
+      "current_heading": "Conspiracy Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Third-Party Attack",
+    "candidates": [
+      "Third-Party Attack",
+      "Owner's Defense",
+      "Knowledge & Prevention",
+      "Tam Challenge",
+      "Abaye Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dilemma about inciting another's dog against a third party, which is exactly what heading 0 'Third-Party Attack' describes, and while it also mentions both sides of the argument (owner's defense and knowledge/prevention), the entire Talmudic unit belongs together under the heading that introduces the she'eila.",
+      "chosen_heading": "Third-Party Attack",
+      "current_heading": "Third-Party Attack",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Abaye Response",
+    "candidates": [
+      "Owner's Defense",
+      "Knowledge & Prevention",
+      "Tam Challenge",
+      "Abaye Response",
+      "Braita Statement",
+      "First Inference",
+      "Counter-Inference",
+      "Rava's Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Zeira's challenge from the baraita about children petting an ox (the 'Tam Challenge') and Abaye's rebuttal, and the prose under candidate 2 ('Tam Challenge') explicitly describes both the inference Rabbi Zeira draws and sets up Abaye's response, making it the natural home for the entire exchange rather than splitting it across two headings.",
+      "chosen_heading": "Tam Challenge",
+      "current_heading": "Abaye Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Rava's Analysis",
+    "candidates": [
+      "Braita Statement",
+      "First Inference",
+      "Counter-Inference",
+      "Rava's Analysis",
+      "Change Principle",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Braita Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the braita about inciting a dog/snake and the two competing inferences (inciter exempt/owner liable vs. even inciter exempt), which maps directly onto candidates 0-2 covering the braita statement and its counter-inference.",
+      "second_heading": "Rava's Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's distinct ruling about one who incites a dog against himself being exempt due to the 'one who deviates' principle, which is precisely what candidate 3 ('Rava's Analysis') describes in its prose.",
+      "current_heading": "Rava's Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Change Principle",
+      "Reish Lakish",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's ruling about the two cows in the public domain, which is exactly what the 'Reish Lakish' section's prose describes and analyzes.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rava's Challenge",
+      "Rights Analysis",
+      "Mishna Payment Rates",
+      "Tarfon vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and expresses the 'ki it lach reshuta lisgu'ei alai, limva'at bi leit lach reshuta' distinction, which is the exact content that candidate 1's prose elaborates upon \u2014 the rights analysis of transit vs. kicking in reshut ha-rabim.",
+      "chosen_heading": "Rights Analysis",
+      "current_heading": "Rava's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Tarfon vs. Chachamim",
+    "candidates": [
+      "Rights Analysis",
+      "Mishna Payment Rates",
+      "Tarfon vs. Chachamim",
+      "Rabbi Tarfon's Logic",
+      "Chachamim Response",
+      "Rabbi Tarfon Clarifies",
+      "Counting Gorings",
+      "Tosafot's Position",
+      "Contradicting Tosafot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Payment Rates",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing payment rates for ox damage in reshut ha-nizak vs. reshut ha-rabim, matching the 'Mishna Payment Rates' prose exactly.",
+      "second_heading": "Tarfon vs. Chachamim",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 are the Rabbi Tarfon vs. Chachamim dispute and their back-and-forth kal va-chomer arguments, which correspond precisely to the 'Tarfon vs. Chachamim' heading and the subsequent 'Rabbi Tarfon's Logic', 'Chachamim Response', and 'Rabbi Tarfon Clarifies' headings \u2014 but as one continuous disputational unit, the machlokes section (index 2) is the best single home for the full exchange.",
+      "current_heading": "Tarfon vs. Chachamim",
+      "moved": true
+    }
+  }
+]

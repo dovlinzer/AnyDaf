@@ -100,9 +100,7 @@ Rabbi responded to his son: *hu she'al bi devar chochmah* — Levi asked me a qu
 
 ### Established Status
 
-The picture that emerges from Rabbi Yehuda's position across all these cases is consistent: once the *piggul* thought has been registered — whether across two *avodot* or, according to Rabbi Yochanan, within discrete stages of a single *avodah* — that status is established and cannot be undone by a subsequent *pasul* thought. The question "when are thoughts sufficiently bundled together that the *piggul* thought never gets to stand on its own?" is what drives the remainder of the analysis.
-
----
+The dispute between the *chachamim* and Rabbi Yehuda comes down to this: according to the *chachamim*, even after *piggul* status has been established, a subsequent invalid act at a later *avodah* can strip that status away. According to Rabbi Yehuda, once *piggul* is established, it remains — a later disqualifying act cannot undo it.
 
 ## Text Girsa
 

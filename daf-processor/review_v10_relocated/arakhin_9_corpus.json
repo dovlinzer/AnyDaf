@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Secondary Cases",
+    "candidates": [
+      "Yesterday's Nida",
+      "Rosh Chodesh Topic",
+      "Mishna Text",
+      "Lunar Structure",
+      "Standard Year",
+      "Permitted Range",
+      "Secondary Cases",
+      "Brit Milah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, and candidate 2 ('Mishna Text') is the section whose prose directly quotes and explains this exact mishna \u2014 including the 'ein pochin me'arba'a chodashim' language \u2014 making it the clear proper home for the mishna passage.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Secondary Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Brit Milah Rules",
+    "candidates": [
+      "Secondary Cases",
+      "Brit Milah Rules",
+      "Rav Huna's Limit",
+      "Nine Full Problem",
+      "Two Days & Leap",
+      "Mesharshiya Fix",
+      "Offset Correction",
+      "Ulla Reformulation",
+      "Eight Lacking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the rules for brit milah timing \u2014 the eight-to-twelve day range \u2014 which is precisely what the 'Brit Milah Rules' section's prose describes.",
+      "chosen_heading": "Brit Milah Rules",
+      "current_heading": "Brit Milah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Eight Lacking",
+    "candidates": [
+      "Rav Huna's Limit",
+      "Nine Full Problem",
+      "Two Days & Leap",
+      "Mesharshiya Fix",
+      "Offset Correction",
+      "Ulla Reformulation",
+      "Eight Lacking",
+      "Tolerance Rationale",
+      "30-Day Leap"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Nine Full Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 follow Rav Huna's interpretation discussing too many full months, the three-day/two-day problem, and Rav Mesharshiya's leap-year fix for the full-months scenario \u2014 exactly matching candidates 1-3's prose about the nine-full-month problem and the Mesharshiya correction.",
+      "second_heading": "Ulla Reformulation",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 shift to Ulla's reformulation about deficient months and apply the parallel Mesharshiya correction to the lacking-months scenario, matching candidate 5 ('Ulla Reformulation') and continuing through candidate 6 ('Eight Lacking') which discusses the three-day/two-day problem for deficient months and the 'savri itchazi' explanation.",
+      "current_heading": "Eight Lacking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "30-Day Leap",
+    "candidates": [
+      "Tolerance Rationale",
+      "30-Day Leap",
+      "RSbG Flexible",
+      "Seven vs Eight",
+      "Shavuot Fixed",
+      "RH Dates",
+      "Math Proof",
+      "At Bash Gar",
+      "2nd or 3rd Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about the length of the intercalated month (30 days vs. Rabban Shimon ben Gamliel's 'a month'), which is precisely what the '30-Day Leap' section's prose introduces as the gemara's answer to 'b'mai kamifligi.'",
+      "chosen_heading": "30-Day Leap",
+      "current_heading": "30-Day Leap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "2nd or 3rd Only",
+    "candidates": [
+      "RSbG Flexible",
+      "Seven vs Eight",
+      "Shavuot Fixed",
+      "RH Dates",
+      "Math Proof",
+      "At Bash Gar",
+      "2nd or 3rd Only",
+      "Four Days Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All five items form a single continuous dispute about why the baraita limits Rosh Hashanah to only the second or third day of Pesach \u2014 first granting that it works for Ulla, then raising the objection against Rav Huna, then Rav Huna's counter-objection that Ulla faces the same problem \u2014 exactly the content described in heading 6's prose.",
+      "chosen_heading": "2nd or 3rd Only",
+      "current_heading": "2nd or 3rd Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Four Days Only",
+    "candidates": [
+      "Four Days Only",
+      "Four Day Math",
+      "Adar Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's resolution attributing the baraita to Acheirim and states the Acheirim baraita itself, which is precisely what the prose under heading 0 ('Four Days Only') discusses.",
+      "chosen_heading": "Four Days Only",
+      "current_heading": "Four Days Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Adar Correction",
+    "candidates": [
+      "Four Day Math",
+      "Adar Correction",
+      "Exact Cycle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the objection that A\u1e25erim cannot produce yom hanaf, Rav Mesharshiyya's leap-year correction (dal yarcha l'vadei yarcha), and Rav Adda bar Ahava's question about the mitzva of sanctification \u2014 are precisely the content described in the 'Adar Correction' prose, which explicitly discusses Rav Mesharshiyya's solution and the principle that beit din manages the calendar without requiring witness testimony.",
+      "chosen_heading": "Adar Correction",
+      "current_heading": "Adar Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Exact Cycle",
+    "candidates": [
+      "Exact Cycle",
+      "Long Cycles",
+      "Five Days Some",
+      "354 Days Base"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's objection about extra days accumulating over three years and thirty years, and the Gemara's response \u2014 content that matches 'Long Cycles' prose precisely, which discusses the three-year and thirty-year accumulation cycles and the five-day gap.",
+      "chosen_heading": "Long Cycles",
+      "current_heading": "Exact Cycle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "354 Days Base",
+    "candidates": [
+      "Long Cycles",
+      "Five Days Some",
+      "354 Days Base",
+      "352-356 Range",
+      "Nazir 354"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "352-356 Range",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Shmuel's statement about the 352-356 day range and the calculation explaining it, matching candidate 3's prose exactly.",
+      "second_heading": "Nazir 354",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita objection about the nazirite vow counting 354 days for a lunar year, which matches candidate 4's prose precisely.",
+      "current_heading": "354 Days Base",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Nazir 354",
+    "candidates": [
+      "352-356 Range",
+      "Nazir 354",
+      "Nine Lacking Act",
+      "Two Full + Leap",
+      "3 Lacking Fix",
+      "RSbR Confirms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the rule that in vows one follows common speech and the majority of years (354 days), which is precisely what the 'Nazir 354' section's prose discusses as the gemara's answer to why a nazir counts 354 days rather than 356.",
+      "chosen_heading": "Nazir 354",
+      "current_heading": "Nazir 354",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "RSbR Confirms",
+    "candidates": [
+      "Nine Lacking Act",
+      "Two Full + Leap",
+      "3 Lacking Fix",
+      "RSbR Confirms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full baraita about Rabbi Yehuda HaNasi's nine deficient months \u2014 the incident itself plus Rabbi Shimon's explanation and Rabbi's confirmation \u2014 which is precisely what heading 0 ('Nine Lacking Act') introduces, while headings 1-3 discuss the analytical breakdown of that incident rather than the primary text of the baraita itself.",
+      "chosen_heading": "Nine Lacking Act",
+      "current_heading": "RSbR Confirms",
+      "moved": true
+    }
+  }
+]

@@ -221,7 +221,7 @@
           "timestamp": "38:57"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -240,7 +240,7 @@
           "timestamp": "42:18"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -311,8 +311,8 @@
           "timestamp": "51:50"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "How the Baraisa Contradicts Rabbi Elazar: The Document is Not Worthless",
@@ -335,7 +335,7 @@
           "timestamp": "54:31"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -364,7 +364,7 @@
           "timestamp": "56:55"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 21,
       "matched": false
     }
   ],
@@ -646,5 +646,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "42:18",
+  "amud_b_micro_title": "Bottle Stopper",
+  "shiur_start_daf": 13,
+  "shiur_start_amud": "a"
 }

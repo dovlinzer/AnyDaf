@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tarfon's Question",
+    "candidates": [
+      "Dead Animal Prohibition",
+      "Tarfon's Question",
+      "Rebbe Shimon Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the dead animal ruling and the Tarfon episode with the challah, which is precisely what candidate 1 ('Tarfon's Question') discusses in its prose, while candidate 0 only covers the initial dead animal ruling without the Tarfon narrative.",
+      "chosen_heading": "Tarfon's Question",
+      "current_heading": "Tarfon's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rebbe Shimon Debate",
+    "candidates": [
+      "Rebbe Shimon Debate",
+      "Healthy vs. Sickly",
+      "Kodshim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial challenge about whether the anonymous mishna conflicts with Rabbi Shimon's position, quoting the beraita about cutting gourds and carcasses \u2014 exactly what the 'Rebbe Shimon Debate' prose describes as the opening challenge (lema t'nan stama d'lo k'Rebbe Shimon).",
+      "chosen_heading": "Rebbe Shimon Debate",
+      "current_heading": "Rebbe Shimon Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Kodshim Exception",
+    "candidates": [
+      "Healthy vs. Sickly",
+      "Kodshim Exception",
+      "Impure Challah Problem",
+      "No Money Talk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items deal with the Kodshim resolution (Ze'iri's answer) and the interplay between Mar bar Ameimar and Mar brei d'Rav Yosef regarding animals that died, culminating in the 'mesuchenes' answer \u2014 exactly the content described in the 'Kodshim Exception' prose.",
+      "chosen_heading": "Kodshim Exception",
+      "current_heading": "Kodshim Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "No Money Talk",
+    "candidates": [
+      "Impure Challah Problem",
+      "No Money Talk",
+      "Equal Division Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage directly introduces the prohibition of registering for an animal on yom tov itself, which is precisely what the 'No Money Talk' section's prose discusses and explains.",
+      "chosen_heading": "No Money Talk",
+      "current_heading": "No Money Talk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Equal Division Method",
+    "candidates": [
+      "Equal Division Method",
+      "Proportion Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the 'two animals side by side' method (mevi shtei behemot) that the 'Equal Division Method' prose explains in detail, making it the clear match.",
+      "chosen_heading": "Equal Division Method",
+      "current_heading": "Equal Division Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Proportion Division",
+    "candidates": [
+      "Proportion Division",
+      "Scale Usage Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about not specifying monetary amounts (sela/two sela) but permitting proportional shares (half/third/quarter) is exactly what the 'Proportion Division' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Proportion Division",
+      "current_heading": "Proportion Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Scale Usage Debate",
+    "candidates": [
+      "Scale Usage Debate",
+      "Scale Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself presenting Rabbi Yehuda's and the Rabbis' positions on scale usage, which is exactly what heading 0 ('Scale Usage Debate') discusses in its prose, while heading 1 discusses the gemara's subsequent analysis of 'kol ikar'.",
+      "chosen_heading": "Scale Usage Debate",
+      "current_heading": "Scale Usage Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Scale Prohibition",
+    "candidates": [
+      "Scale Prohibition",
+      "Expert Butcher Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition against using scales on yom tov (even to protect meat from mice) and the qualification about the scale hanging on its ring \u2014 exactly what the 'Scale Prohibition' prose describes.",
+      "chosen_heading": "Scale Prohibition",
+      "current_heading": "Scale Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Expert Butcher Rules",
+    "candidates": [
+      "Expert Butcher Rules",
+      "Handle & Mark Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the expert butcher's prohibition against weighing meat by hand or by water displacement, which matches precisely the prose under 'Expert Butcher Rules'.",
+      "chosen_heading": "Expert Butcher Rules",
+      "current_heading": "Expert Butcher Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Handle & Mark Rules",
+    "candidates": [
+      "Handle & Mark Rules",
+      "Mana K'Neged Mana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about making a handle (beis yad) in meat and Ravina's clarification about using one's hand is directly discussed in the 'Handle & Mark Rules' section prose, which explicitly addresses this exact ruling.",
+      "chosen_heading": "Handle & Mark Rules",
+      "current_heading": "Handle & Mark Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Mana K'Neged Mana",
+    "candidates": [
+      "Mana K'Neged Mana",
+      "Bizayon vs Uvda"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Mana K'Neged Mana",
+      "current_heading": "Mana K'Neged Mana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Bizayon vs Uvda",
+    "candidates": [
+      "Bizayon vs Uvda",
+      "Knife Sharpening Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the tension within the Rabbi \u1e24iyya/Rabbi Shimon bar Rebbe story \u2014 the fish incident challenge and Rav Pappa's resolution \u2014 which the prose of candidate 0 explicitly discusses in detail.",
+      "chosen_heading": "Bizayon vs Uvda",
+      "current_heading": "Bizayon vs Uvda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Knife Sharpening Ban",
+    "candidates": [
+      "Knife Sharpening Ban",
+      "Sharpening Intent",
+      "Rebbe Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the mishna on knife sharpening and the gemara's multiple versions of Rav Huna/Rav Yehuda-Shmuel's distinctions between stone vs. wood and sharpening vs. shamnunita removal \u2014 are precisely what the 'Knife Sharpening Ban' prose describes in detail, making that the clear and correct home for this passage.",
+      "chosen_heading": "Knife Sharpening Ban",
+      "current_heading": "Knife Sharpening Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rebbe Yehuda Position",
+    "candidates": [
+      "Sharpening Intent",
+      "Rebbe Yehuda Position",
+      "Halacha V'Ein Morin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about who the tanna is and Rav Chisda's answer about Rabbi Yehuda and machshirei ochel nefesh, which is precisely what the 'Rebbe Yehuda Position' prose describes and analyzes.",
+      "chosen_heading": "Rebbe Yehuda Position",
+      "current_heading": "Rebbe Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Halacha V'Ein Morin",
+    "candidates": [
+      "Halacha V'Ein Morin",
+      "Publicity Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava telling Rav \u1e24isda that they teach the halacha follows Rabbi Yehuda in his name, and Rav \u1e24isda's enthusiastic response \u2014 exactly what the prose under heading 0 describes as the lead-up to the 'halacha v'ein morin ken' episode.",
+      "chosen_heading": "Halacha V'Ein Morin",
+      "current_heading": "Halacha V'Ein Morin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Publicity Concerns",
+    "candidates": [
+      "Publicity Concerns",
+      "Knife Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe Rava and Abaye sharpening knives while claiming to remove fat, both concluding with 'halacha v'ein morin ken' \u2014 exactly the content discussed in the 'Publicity Concerns' prose, which explicitly describes both episodes.",
+      "chosen_heading": "Publicity Concerns",
+      "current_heading": "Publicity Concerns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Knife Inspection",
+    "candidates": [
+      "Knife Inspection",
+      "Dull vs. Broken"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about showing a knife to a sage for inspection on Yom Tov, which is precisely what the 'Knife Inspection' section's prose discusses.",
+      "chosen_heading": "Knife Inspection",
+      "current_heading": "Knife Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Dull vs. Broken",
+    "candidates": [
+      "Dull vs. Broken",
+      "Preparatory Acts Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Yosef's ruling on a dull knife and the qualifier about cutting under pressure, which is precisely what Candidate 0's prose discusses in detail.",
+      "chosen_heading": "Dull vs. Broken",
+      "current_heading": "Dull vs. Broken",
+      "moved": false
+    }
+  }
+]

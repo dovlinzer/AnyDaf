@@ -1,0 +1,329 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Removing Dirt Example",
+    "candidates": [
+      "Mishna Overview",
+      "Mekach Taos Framework",
+      "FDA Comparison",
+      "Rova Kitniyot L'Se'ah",
+      "Dirt Tolerance Question",
+      "Removing Dirt Example",
+      "Grama Debate",
+      "Baraita Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's challenge to Rav Katina \u2014 asking whether dirt has no tolerable threshold \u2014 followed by the proof from the threshing-floor ruling that dirt is indeed tolerated, which is precisely what heading 4 ('Dirt Tolerance Question') describes.",
+      "chosen_heading": "Dirt Tolerance Question",
+      "current_heading": "Removing Dirt Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Baraita Standards",
+    "candidates": [
+      "Grama Debate",
+      "Baraita Standards",
+      "Lentil Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita itself \u2014 item 1 is the gemara's initial answer distinguishing legumes from dirt, and item 2 is the baraita citation specifying tolerable admixtures for wheat, barley, and lentils \u2014 which is precisely what the 'Baraita Standards' prose describes.",
+      "chosen_heading": "Baraita Standards",
+      "current_heading": "Baraita Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Lentil Distinction",
+    "candidates": [
+      "Lentil Distinction",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's question about whether the lentil rule extends to wheat and barley, and the answer that lentils are different because they are dug up \u2014 exactly what the 'Lentil Distinction' prose describes, not the alternative/reconciliation reading in candidate 1.",
+      "chosen_heading": "Lentil Distinction",
+      "current_heading": "Lentil Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Reconciliation",
+      "Rav Huna's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single challenge-and-rejection sequence about whether the baraita's dirt-tolerance rule resolves the dilemma for wheat/barley, which is precisely what the 'Reconciliation' prose describes.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rav Huna's Rule",
+    "candidates": [
+      "Rav Huna's Rule",
+      "Din vs. Knas",
+      "Din Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's ruling AND the 'amrei lah dina, v'amrei lah knasa' distinction, but since candidate 0 already has dedicated prose covering Rav Huna's ruling and candidate 1's prose specifically discusses the dina/knasa dichotomy that appears in this quoted text, the passage as a whole (which includes both elements) is best placed under 'Din vs. Knas' where the essay transitions to that distinction \u2014 though the current placement under 'Rav Huna's Rule' is also defensible, candidate 1's prose is the clearest match for the full content of this specific quotation.",
+      "chosen_heading": "Din vs. Knas",
+      "current_heading": "Rav Huna's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Din Explanation",
+    "candidates": [
+      "Din vs. Knas",
+      "Din Explanation",
+      "Knas Explanation",
+      "Kilayim Rova Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the two competing rationales (din and knas) as a pair \u2014 exactly what the 'Din vs. Knas' heading introduces with 'amrei lah dina, v'amrei lah knasa' \u2014 rather than belonging under the separate 'Din Explanation' or 'Knas Explanation' headings which discuss each rationale in extended prose elaboration without the Aramaic source text.",
+      "chosen_heading": "Din vs. Knas",
+      "current_heading": "Din Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Kilayim Rova Rule",
+    "candidates": [
+      "Knas Explanation",
+      "Kilayim Rova Rule",
+      "Equivalence Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous gemara exchange about the kilayim rova rule \u2014 the mnemonic, the objection from kilayim, and the back-and-forth about yema'it \u2014 which is precisely what the 'Kilayim Rova Rule' prose describes.",
+      "chosen_heading": "Kilayim Rova Rule",
+      "current_heading": "Kilayim Rova Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Equivalence Assumption",
+    "candidates": [
+      "Equivalence Assumption",
+      "Removal Debate",
+      "Mechzi K'Mekayem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's reasoning about whether a rova of kilayim is comparable to 'yoter mi'rova' or exactly 'rova' in mekach umimkar, and raises the difficulty about why Rabbi Yosei requires complete removal if the grower hasn't violated anything \u2014 which is precisely the content described in the 'Mechzi K'Mekayem' prose section.",
+      "chosen_heading": "Mechzi K'Mekayem",
+      "current_heading": "Equivalence Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Mechzi K'Mekayem",
+    "candidates": [
+      "Removal Debate",
+      "Mechzi K'Mekayem",
+      "Deposit Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rabbi Yosei's reasoning as 'mishum de'mechzi k'mekayem kilayim,' which is precisely what the 'Mechzi K'Mekayem' section's prose discusses and explains.",
+      "chosen_heading": "Mechzi K'Mekayem",
+      "current_heading": "Mechzi K'Mekayem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Deposit Case",
+    "candidates": [
+      "Deposit Case",
+      "Tanna Kamma Rule",
+      "Innocent Party Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the deposit case mishna itself \u2014 two depositors each claiming 200 dinars \u2014 which is exactly what the 'Deposit Case' prose introduces, before the Tanna Kamma Rule prose explains the ruling's implications.",
+      "chosen_heading": "Deposit Case",
+      "current_heading": "Deposit Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Innocent Party Objection",
+    "candidates": [
+      "Tanna Kamma Rule",
+      "Innocent Party Objection",
+      "Rabbi Yossi Position",
+      "Gemara Analysis",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Innocent Party Objection",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 deal with the challenge from the first clause and Rabbi Yosei's clause of the deposits mishna, plus the gemara's rejection that the deposit case involves a certain innocent party \u2014 matching the 'Innocent Party Objection' prose exactly.",
+      "second_heading": "Gemara Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the gemara's rejection of the proof from Rabbi Yosei's ruling, arguing that in the deposit case there is certainly a swindler while in the grain case there may be none \u2014 matching the 'Gemara Analysis' prose word-for-word.",
+      "current_heading": "Innocent Party Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Rabbi Yossi Position",
+      "Gemara Analysis",
+      "Rabbi Meir Position",
+      "Chachamim Position",
+      "Loan vs. Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about a promissory note with ribbis \u2014 Rabbi Meir's penalty position, the gemara's rejection of the proof, and the Rabbis' counter-position \u2014 which is precisely what the 'Rabbi Meir Position' prose introduces as the shtar/ribbis case being used to test the knas model.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Loan vs. Interest",
+    "candidates": [
+      "Chachamim Position",
+      "Loan vs. Interest",
+      "Tosafot Questions",
+      "Land Measurement Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection comparing the ribbis case to the grain case, explaining that the principal was certainly permitted (vadai karna deheteira hu) while in the grain case the entire mixture may have been intentionally adulterated \u2014 which is precisely what the 'Loan vs. Interest' section's prose discusses in detail.",
+      "chosen_heading": "Loan vs. Interest",
+      "current_heading": "Loan vs. Interest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Land Measurement Rule",
+    "candidates": [
+      "Tosafot Questions",
+      "Land Measurement Rule",
+      "Rav Land Rule",
+      "Land Significance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Ravin bar Rav Na\u1e25man's teaching that one must return all the quarter-kav areas, not just the excess \u2014 exactly what the 'Rav Land Rule' prose describes as the parallel to the grain question and the rule of full reimbursement once the threshold is crossed.",
+      "chosen_heading": "Rav Land Rule",
+      "current_heading": "Land Measurement Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Land Significance",
+    "candidates": [
+      "Rav Land Rule",
+      "Land Significance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the Gemara's rejection of the land-case parallel (hachi hashta), explaining why the land overage triggers full return because it combines into a significant independent plot \u2014 exactly what the 'Land Significance' prose describes.",
+      "chosen_heading": "Land Significance",
+      "current_heading": "Land Significance",
+      "moved": false
+    }
+  }
+]

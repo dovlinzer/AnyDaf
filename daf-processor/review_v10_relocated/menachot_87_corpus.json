@@ -1,0 +1,483 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Heliston Contradiction",
+    "candidates": [
+      "Prohibitions",
+      "Heliston Contradiction",
+      "Rav Ashi Analysis",
+      "Rabbi vs. Rabbis",
+      "Lamb-Wine Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the contradiction between the two clauses about sweet wine and its resolution (Ravina's karch u-teni and Rav Ashi's distinction), which is precisely the content described under 'Heliston Contradiction' \u2014 the current placement is correct.",
+      "chosen_heading": "Heliston Contradiction",
+      "current_heading": "Heliston Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Lamb-Wine Analogy",
+    "candidates": [
+      "Rav Ashi Analysis",
+      "Rabbi vs. Rabbis",
+      "Lamb-Wine Analogy",
+      "Rava's Redness Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the lamb-wine analogy (\u1e24izkiyya's derivation) and the gemara's challenge to it via the baraita about two-year-old wine being valid b'di'avad, which is precisely what the 'Lamb-Wine Analogy' prose section describes.",
+      "chosen_heading": "Lamb-Wine Analogy",
+      "current_heading": "Lamb-Wine Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rava's Redness Basis",
+    "candidates": [
+      "Rava's Redness Basis",
+      "Trellis vs. Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's derivation from the 'redness' verse, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Rava's Redness Basis",
+      "current_heading": "Rava's Redness Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Trellis vs. Ground",
+    "candidates": [
+      "Trellis vs. Ground",
+      "Rav Yosef Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'kramim ha-avudim' as vineyards cultivated twice a year, which is exactly the content that Candidate 1's prose discusses as the baraita teaching about kramim avudim worked twice a year, making it the direct setup for the Rav Yosef illustration in that section.",
+      "chosen_heading": "Rav Yosef Example",
+      "current_heading": "Trellis vs. Ground",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Yosef Example",
+    "candidates": [
+      "Trellis vs. Ground",
+      "Rav Yosef Example",
+      "Wine Storage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the story about Rav Yosef's orchard receiving extra cultivation and producing superior wine, which is precisely what the 'Rav Yosef Example' section's prose describes.",
+      "chosen_heading": "Rav Yosef Example",
+      "current_heading": "Rav Yosef Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Wine Storage",
+    "candidates": [
+      "Wine Storage",
+      "Gizbar Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the storage of wine for libations in medium-sized casks and the rule against stacking them, which exactly matches the 'Wine Storage' section prose.",
+      "chosen_heading": "Wine Storage",
+      "current_heading": "Wine Storage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Gizbar Inspection",
+    "candidates": [
+      "Gizbar Inspection",
+      "Silent Rejection",
+      "Speech Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the treasurer's inspection method with the reed and the baraita about chalk-scum from sediment, which directly matches the 'Gizbar Inspection' prose discussing the same procedure.",
+      "chosen_heading": "Gizbar Inspection",
+      "current_heading": "Gizbar Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Speech Effect",
+    "candidates": [
+      "Silent Rejection",
+      "Speech Effect",
+      "Impurity Ruling",
+      "Mum Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage answers the question 'why does the gizbar not simply speak aloud' \u2014 which is exactly what candidate 0 ('Silent Rejection') describes in its prose \u2014 and then introduces Rabbi Yochanan's teaching as the supporting explanation, making candidate 0 the natural home for this passage rather than candidate 1 which discusses the teaching itself in isolation.",
+      "chosen_heading": "Silent Rejection",
+      "current_heading": "Speech Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Mum Query",
+    "candidates": [
+      "Impurity Ruling",
+      "Mum Query",
+      "Geographic Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yochanan's dilemma about whether consecrating flawed wine incurs lashes for ba'al mum, which exactly matches the 'Mum Query' section's prose describing this same question and its teiku conclusion.",
+      "chosen_heading": "Mum Query",
+      "current_heading": "Mum Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Geographic Sources",
+    "candidates": [
+      "Geographic Sources",
+      "Wide-Backed Lambs",
+      "Scripture Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists geographic sources of the finest sacrificial animals (rams from Moab, lambs from Hebron, calves from Sharon, fledglings from the King's Mountain), which matches exactly the 'Geographic Sources' section prose.",
+      "chosen_heading": "Geographic Sources",
+      "current_heading": "Geographic Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Scripture Basis",
+    "candidates": [
+      "Wide-Backed Lambs",
+      "Scripture Basis",
+      "Watchers' Plea"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's statement about lambs whose height equals their width AND Rava bar Rav Sheila's scriptural basis for it \u2014 these are one continuous unit belonging under 'Wide-Backed Lambs,' which discusses Rabbi Yehuda's qualitative specification, rather than being split into a separate 'Scripture Basis' heading.",
+      "chosen_heading": "Wide-Backed Lambs",
+      "current_heading": "Scripture Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Watchers' Plea",
+    "candidates": [
+      "Scripture Basis",
+      "Watchers' Plea",
+      "Original Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the watchmen on Jerusalem's walls and what they say (Rava bar Rav Sheila's response), which is precisely what the 'Watchers' Plea' prose section discusses.",
+      "chosen_heading": "Watchers' Plea",
+      "current_heading": "Watchers' Plea",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Original Statement",
+    "candidates": [
+      "Original Statement",
+      "Two Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses what the watchmen said originally when the Temple stood (Rava bar Rav Sheila's answer about Psalms 132), which matches exactly the 'Original Statement' section's prose about the same content.",
+      "chosen_heading": "Original Statement",
+      "current_heading": "Original Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Two Measures",
+    "candidates": [
+      "Two Measures",
+      "Meir vs. Sages",
+      "Double Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Mishnah itself introducing the two dry measures (isaron and chatzi isaron) and explaining their respective purposes, which is precisely what the 'Two Measures' prose section describes.",
+      "chosen_heading": "Two Measures",
+      "current_heading": "Two Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Double Language",
+    "candidates": [
+      "Meir vs. Sages",
+      "Double Language",
+      "Usage by Type",
+      "Single Type Argument",
+      "Half-Isaron Derivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Double Language",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Meir's baraita deriving two isaron vessels from the doubled language 'isaron isaron', which is exactly what candidate 1 'Double Language' describes.",
+      "second_heading": "Usage by Type",
+      "second_confidence": "high",
+      "second_reason": "Item 3 specifies which vessel (machuk) was used for the High Priest's griddle-cake offering, which is precisely what candidate 2 'Usage by Type' discusses.",
+      "current_heading": "Double Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Half-Isaron Derivation",
+    "candidates": [
+      "Usage by Type",
+      "Single Type Argument",
+      "Half-Isaron Derivation",
+      "No Large Measures",
+      "Measure Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items deal with the dispute between Rabbi Meir and the Rabbis over deriving the chatzi isaron, the exposition of 'isaron isaron,' the vav of 've'isaron echad,' and the nekuda \u2014 exactly the content described in the 'Half-Isaron Derivation' prose.",
+      "chosen_heading": "Half-Isaron Derivation",
+      "current_heading": "Half-Isaron Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Measure Clarified",
+    "candidates": [
+      "No Large Measures",
+      "Measure Clarified",
+      "Rami's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the classic question-contradiction-resolution sequence about whether the chatzi isaron was used for measuring or dividing, which is precisely what candidate 1 ('Measure Clarified') describes in its prose.",
+      "chosen_heading": "Measure Clarified",
+      "current_heading": "Measure Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Rami's Question",
+    "candidates": [
+      "Rami's Question",
+      "All Measures Leveled"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rami's Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rami bar \u1e24ama's dilemma and the exchange about why it's posed specifically to Rabbi Meir, matching heading 0's prose about the question and the broadening to Rabbanan.",
+      "second_heading": "All Measures Leveled",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav \u1e24isda's answer that from Rabbi Meir one can derive both Rabbi Meir's and the Rabbanan's positions, which is precisely what heading 1's prose describes.",
+      "current_heading": "Rami's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "All Measures Leveled",
+    "candidates": [
+      "All Measures Leveled",
+      "By Hand Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav \u1e24isda's logical chain deriving that both Rabbi Meir's half-tenth and the Rabbis' vessels were leveled, which is precisely what the prose under 'All Measures Leveled' explains.",
+      "chosen_heading": "All Measures Leveled",
+      "current_heading": "All Measures Leveled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "By Hand Method",
+    "candidates": [
+      "By Hand Method",
+      "Against Scales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the question posed by Rami bar \u1e24ama about dividing by hand or vessel, which is exactly what heading 0 ('By Hand Method') discusses, and the brief answer ('obvious it was by hand') is just the setup for the fuller explanation under heading 1.",
+      "chosen_heading": "By Hand Method",
+      "current_heading": "By Hand Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Against Scales",
+    "candidates": [
+      "Against Scales",
+      "Sanctification Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why weighing bread/dough is inappropriate in the Temple due to the curse in Leviticus 26:26, which directly matches the 'Against Scales' prose about scales evoking the curse of famine and scarcity in the Mikdash context.",
+      "chosen_heading": "Against Scales",
+      "current_heading": "Against Scales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Sanctification Q",
+    "candidates": [
+      "Sanctification Q",
+      "Mound Sanctification",
+      "Airspace Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's dilemma to Rav \u1e24isda about whether the Table consecrates handfuls, which is precisely what the 'Sanctification Q' prose describes in detail, including the two-dimensional question and the Rashi/Tosafot interpretations of 'kematzim'.",
+      "chosen_heading": "Sanctification Q",
+      "current_heading": "Sanctification Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Airspace Height",
+    "candidates": [
+      "Mound Sanctification",
+      "Airspace Height",
+      "Partial Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav \u1e24isda ruling plus the Rabbi Yo\u1e25anan challenge about the Table sanctifying airspace to fifteen or twelve handbreadths, which is precisely what the 'Airspace Height' prose describes.",
+      "chosen_heading": "Airspace Height",
+      "current_heading": "Airspace Height",
+      "moved": false
+    }
+  }
+]

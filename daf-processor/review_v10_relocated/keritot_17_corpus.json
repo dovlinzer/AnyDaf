@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Abaye's Version",
+    "candidates": [
+      "Abaye's Version",
+      "Rava's Position",
+      "Rav Chisda's Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabba's resolution and Abaye's counter-reading, matching the 'Rava's Position' and 'Abaye's Version' prose descriptions of the same debate from different angles, and item 1 is the closing of Rabba's position while item 2 opens Abaye's reframing.",
+      "second_heading": "Rav Chisda's Reading",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present Rav Chisda's reading, where Rabbi Akiva accepts both the intervening-days resolution and the gufin mechulakim principle, matching exactly the 'Rav Chisda's Reading' prose description.",
+      "current_heading": "Abaye's Version",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Chisda's Reading",
+    "candidates": [
+      "Rava's Position",
+      "Rav Chisda's Reading",
+      "Comparison to Niddah",
+      "Two Letters Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva refusing to accept Rabbi Eliezer's resolution about subcategories (toldos) being comparable to primary categories, which is precisely the 'sole disagreement that remained' under Rav Chisda's reading as described in the Rav Chisda's Reading prose section.",
+      "chosen_heading": "Rav Chisda's Reading",
+      "current_heading": "Rav Chisda's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Two Letters Baraita",
+    "candidates": [
+      "Comparison to Niddah",
+      "Two Letters Baraita",
+      "Rabban Gamliel's Rule",
+      "Rav Chisda's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita cited by Rav Chisda about writing two letters in one vs. two lapses of awareness, and Rabban Gamliel's concession about two separate Shabbosos \u2014 exactly the content described in the 'Two Letters Baraita' section's prose.",
+      "chosen_heading": "Two Letters Baraita",
+      "current_heading": "Two Letters Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Rav Chisda's Proof",
+    "candidates": [
+      "Rabban Gamliel's Rule",
+      "Rav Chisda's Proof",
+      "Contradiction Problem",
+      "Attribution Problem",
+      "String on Loom Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All nine items together form the continuous Gemara discussion where Rav Chisda introduces the second baraita and explains both baraitot under his framework (items 1-3), then Rava's challenge is raised and worked through (items 4-9), which is precisely the content described in the 'Rav Chisda's Proof' prose about resolving the two baraitot and then pressing whether the same resolution is available to Abaye and Rava.",
+      "chosen_heading": "Rav Chisda's Proof",
+      "current_heading": "Rav Chisda's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "String on Loom Case",
+    "candidates": [
+      "Contradiction Problem",
+      "Attribution Problem",
+      "String on Loom Case",
+      "Half-Measures Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's attempt to find a point of disagreement between Rabban Gamliel and Rabbi Eliezer \u2014 item 1 eliminates shiggas Shabbat/zedon melachos as the locus (because Rabbi Eliezer also holds ein yedi'ah lechatzi shiur), and item 2 eliminates achas al ha-arig (because Rabbi Eliezer also holds chayav there) \u2014 both belong to the 'Attribution Problem' section's discussion of where Rabban Gamliel and Rabbi Eliezer could possibly disagree, not to the 'String on Loom Case' section which presupposes the achas al ha-arig proposal and its rejection as already complete.",
+      "chosen_heading": "Attribution Problem",
+      "current_heading": "String on Loom Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Half-Measures Case",
+    "candidates": [
+      "String on Loom Case",
+      "Half-Measures Case",
+      "Niddah Singular"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Half-Measures Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rava's identification of the half-grogeres/two-domains baraita as the locus of disagreement between Rabban Gamliel and Rabbi Eliezer, which is precisely what the 'Half-Measures Case' prose describes.",
+      "second_heading": "Niddah Singular",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 shift to the Gemara's scrutiny of Rabbi Eliezer's kal va-chomer from niddah (singular) and Rav Chisda's reading of the Mishnah's dilemma, which matches the 'Niddah Singular' prose exactly.",
+      "current_heading": "Half-Measures Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Niddah Singular",
+    "candidates": [
+      "Niddah Singular",
+      "Mikva'ot Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the grammatical debate over singular 'niddah' vs. plural 'nidot' and the dispute among Amoraim over the correct text reading, which is precisely what the 'Niddah Singular' section's prose describes.",
+      "chosen_heading": "Niddah Singular",
+      "current_heading": "Niddah Singular",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Mikva'ot Parallel",
+    "candidates": [
+      "Mikva'ot Parallel",
+      "Baraita Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly address Rav \u1e24isda's reading and the niddah/tevilah parallel \u2014 exactly what the 'Mikva'ot Parallel' prose discusses: the challenge of what intervening days mean for niddah, Rava's answer about immersions functioning like yamim she-beintayim, and the proof from 'ketanos' in the Mishnah.",
+      "chosen_heading": "Mikva'ot Parallel",
+      "current_heading": "Mikva'ot Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Baraita Alternative",
+    "candidates": [
+      "Baraita Alternative",
+      "Minors & Animals",
+      "Rambam's Psak",
+      "Chelev Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous baraita debate between Rabbi Eliezer and Rabbi Akiva about niddah, ketanos, and behemah \u2014 exactly the content described in the 'Baraita Alternative' prose section.",
+      "chosen_heading": "Baraita Alternative",
+      "current_heading": "Baraita Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Chelev Uncertainty",
+    "candidates": [
+      "Minors & Animals",
+      "Rambam's Psak",
+      "Chelev Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The item '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d0\u05de\u05e8 \u05dc\u05d5' is the traditional closing formula marking the end of a tractate/perek, which fits naturally as a transitional marker at the start of the 'Chelev Uncertainty' section that explicitly notes 'a new perek begins.'",
+      "chosen_heading": "Chelev Uncertainty",
+      "current_heading": "Chelev Uncertainty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Chelev Uncertainty",
+    "candidates": [
+      "Chelev Uncertainty",
+      "Thought Permissible",
+      "Extended Cases",
+      "Parallel Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chelev Uncertainty",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the opening Mishnah cases of chelev uncertainty (doubt whether one ate, doubt about measure), which match exactly the 'Chelev Uncertainty' prose describing those precise scenarios.",
+      "second_heading": "Extended Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the extended cases of shuman/chelev confusion, arayos (wife and sister), and Shabbat/weekday labor uncertainty, which correspond precisely to the 'Extended Cases' prose describing those same three scenarios.",
+      "current_heading": "Chelev Uncertainty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Parallel Principle",
+    "candidates": [
+      "Thought Permissible",
+      "Extended Cases",
+      "Parallel Principle",
+      "Pasuk Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly illustrate the parallel principle between chata'os and asham talui \u2014 single lapse with same prohibition, intervening yedi'ah, and multiple distinct prohibitions in one lapse \u2014 which is precisely what the 'Parallel Principle' prose describes.",
+      "chosen_heading": "Parallel Principle",
+      "current_heading": "Parallel Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Pasuk Reading",
+    "candidates": [
+      "Pasuk Reading",
+      "Rav's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion of the Rav Asi vs. \u1e24iyya bar Rav dispute about one piece vs. two pieces and the yesh em la-masores/mikra framework, which is precisely what the 'Pasuk Reading' prose describes.",
+      "chosen_heading": "Pasuk Reading",
+      "current_heading": "Pasuk Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Rav's Ruling",
+    "candidates": [
+      "Rav's Ruling",
+      "Abaye's Objection",
+      "Koy Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav's ruling (item 1) and Rava's explanation of Rav's reasoning via the mitzvot verse (item 2), which is precisely what the 'Rav's Ruling' prose describes.",
+      "chosen_heading": "Rav's Ruling",
+      "current_heading": "Rav's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Koy Case",
+    "candidates": [
+      "Abaye's Objection",
+      "Koy Case",
+      "Tefach Question",
+      "Paternity Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the koy challenge and Rava's deflection via yesh em la-masores, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Koy Case",
+      "current_heading": "Koy Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Paternity Case",
+    "candidates": [
+      "Tefach Question",
+      "Paternity Case",
+      "Blood Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the paternity/yibum case (item 1) and its resolution attributing the asham talui obligation to Rabbi Eliezer (item 2), which precisely matches the 'Paternity Case' prose description.",
+      "chosen_heading": "Paternity Case",
+      "current_heading": "Paternity Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Blood Evidence",
+    "candidates": [
+      "Blood Evidence",
+      "Concrete vs. Definite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the blood-evidence mishna (blood found on his cloth, on her cloth immediately, and after time), with the Gemara attributing the asham talui baraita to Rabbi Eliezer \u2014 exactly the content described in the 'Blood Evidence' prose.",
+      "chosen_heading": "Blood Evidence",
+      "current_heading": "Blood Evidence",
+      "moved": false
+    }
+  }
+]

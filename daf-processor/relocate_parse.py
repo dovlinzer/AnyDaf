@@ -10,6 +10,7 @@ HEB_RE = re.compile(r'^> \*\*Hebrew/Aramaic:\*\* (.+)$')
 TRANS_RE = re.compile(r'^> \*\*Translation:\*\* (.+)$')
 H2_RE = re.compile(r'^## (.+)$')
 H3_RE = re.compile(r'^### (.+)$')
+MISHNA_GEMARA_RE = re.compile(r'^\**\s*(MISHNA|MISHNAH|GEMARA)\s*:', re.IGNORECASE)
 
 @dataclass
 class Block:
@@ -117,6 +118,25 @@ def build_windows(blocks: list[Block]) -> list[dict]:
             "candidates": candidates,
         })
     return windows
+
+def marker_split_points(items: list[dict]) -> list[int]:
+    """1-indexed split_after positions where the NEXT item opens with a literal
+    MISHNA:/GEMARA: marker -- a genuine textual type-shift, not just a topic shift.
+    A marker on item 1 itself has no 'before' boundary within this run, so it's not
+    counted. Used to gate a 3-way split (relocate_check.py's FORM 3) onto exact
+    structural boundaries instead of the model choosing where to cut -- validated
+    2026-08-06 across the 13-daf review batch: only Nazir 59 and Niddah 60 have
+    exactly two such markers (the two confirmed cases needing a 3-way split); every
+    other multi-candidate run has zero or one, for which the existing 2-way FORM 2
+    is already correct and unrestricted."""
+    points = []
+    for i, it in enumerate(items, 1):
+        if i == 1:
+            continue
+        text = it["translation"].lstrip("*").strip()
+        if MISHNA_GEMARA_RE.match(text):
+            points.append(i - 1)
+    return points
 
 if __name__ == "__main__":
     import sys

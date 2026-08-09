@@ -1,0 +1,511 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Tearing Risk",
+    "candidates": [
+      "Tekelet in Linen",
+      "Tearing Risk",
+      "Night Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's teaching about a garment tearing within three fingerbreadths and being sewn back up, rendering the tzitzit invalid as ta'aseh ve-lo min ha'asui \u2014 exactly what the 'Tearing Risk' prose describes.",
+      "chosen_heading": "Tearing Risk",
+      "current_heading": "Tearing Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Night Garments",
+    "candidates": [
+      "Night Garments",
+      "Garment vs. Corner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rav Zeira's decree concerning nighttime garments and tzitzit, which directly matches the 'Night Garments' section's prose about this same concern.",
+      "chosen_heading": "Night Garments",
+      "current_heading": "Night Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Garment vs. Corner",
+    "candidates": [
+      "Garment vs. Corner",
+      "Three to Four Corners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the garment-vs-corner dispute (Rava's ruling on cloth/leather combinations following the ikkar beged, and Rav Achai's opposing view following the knaf), which is precisely what the 'Garment vs. Corner' prose describes.",
+      "chosen_heading": "Garment vs. Corner",
+      "current_heading": "Garment vs. Corner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Three to Four Corners",
+    "candidates": [
+      "Three to Four Corners",
+      "Chasidim Early Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of placing tzitzit on a three-cornered garment that is later completed to four corners, which is precisely what the 'Three to Four Corners' section prose describes.",
+      "chosen_heading": "Three to Four Corners",
+      "current_heading": "Three to Four Corners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Chasidim Early Placement",
+    "candidates": [
+      "Chasidim Early Placement",
+      "Extra Tzitzit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the chasidim ha-rishonim tradition and the reinterpretation of 'three fingerbreadths' from the beginning to the end of weaving, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Chasidim Early Placement",
+      "current_heading": "Chasidim Early Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Extra Tzitzit",
+    "candidates": [
+      "Extra Tzitzit",
+      "Rav Pappa Challenge",
+      "Size Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Extra Tzitzit",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (Rabbi Zeira's ruling and Rava's response about bal tosif) are discussed in the 'Extra Tzitzit' prose, which explicitly covers both Rabbi Zeira's case and Rava's bal tosif argument.",
+      "second_heading": "Rav Pappa Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rav Pappa's objection about intent to nullify vs. intent to add) matches precisely the 'Rav Pappa Challenge' prose, which describes exactly this challenge about whether the person intended to add or to replace the existing tzitzit.",
+      "current_heading": "Extra Tzitzit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Size Requirement",
+    "candidates": [
+      "Rav Pappa Challenge",
+      "Size Requirement",
+      "Obligated vs. Exempt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Size Requirement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Shmuel's ruling that tekelet has no shatnez problem even on an exempt tallis) is the opening statement discussed in the 'Size Requirement' section's prose, which describes exactly this teaching by Rabbi Zeira/Rav Masnah/Shmuel and the question about what 'exempt tallis' means.",
+      "second_heading": "Obligated vs. Exempt",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 (the baraita about minimum size, the question about ve-chein l'inyan kilayim, and Rav Nachman bar Yitzchak's clarification) correspond precisely to the 'Obligated vs. Exempt' section's prose, which explicitly discusses the baraita's size requirement, the gemara's question about what ve-chein l'inyan kilayim means, and Rav Nachman bar Yitzchak's resolution.",
+      "current_heading": "Size Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Obligated vs. Exempt",
+    "candidates": [
+      "Obligated vs. Exempt",
+      "Folded Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'hitil le-muttelet' resolution and the subsequent question about Rabbi Zeira's prior statement, which is precisely what the prose under 'Obligated vs. Exempt' discusses in its final paragraph.",
+      "chosen_heading": "Obligated vs. Exempt",
+      "current_heading": "Obligated vs. Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Folded Garment",
+    "candidates": [
+      "Folded Garment",
+      "Angel's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with the folded garment baraita, the pins clarification, the Rabba bar Huna/Rava bar Rav Nachman incident, and the chovas tallis discussion \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Folded Garment",
+      "current_heading": "Folded Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Angel's Critique",
+    "candidates": [
+      "Angel's Critique",
+      "Scheming Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Angel's Critique",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the angel's encounter with Rav Ketina and his response about punishment for a positive mitzva, which is precisely what heading 0 ('Angel's Critique') describes in its prose.",
+      "second_heading": "Scheming Analysis",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the gemara's logical analysis integrating the angel story into the chovas gavra vs. chovas mana debate, which is exactly what heading 1 ('Scheming Analysis') describes in its prose.",
+      "current_heading": "Angel's Critique",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Scheming Analysis",
+    "candidates": [
+      "Scheming Analysis",
+      "Drawer Garments",
+      "Shrouds Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'taztaki le-miftar nafshach mi-tzitzit' \u2014 are you scheming to exempt yourself \u2014 is explicitly quoted and discussed in the 'Scheming Analysis' prose section, which directly addresses this resolution of the gemara's argument.",
+      "chosen_heading": "Scheming Analysis",
+      "current_heading": "Scheming Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Shrouds Exception",
+    "candidates": [
+      "Drawer Garments",
+      "Shrouds Exception",
+      "Sewing Rules",
+      "Rabbi Meir Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the shroud exemption case \u2014 item 1 states Shmuel's ruling about shrouds and the 'asher techaseh bah' reason, and item 2 addresses the lo'eg la-rash concern at actual burial \u2014 exactly matching the 'Shrouds Exception' prose which discusses both points in sequence.",
+      "chosen_heading": "Shrouds Exception",
+      "current_heading": "Shrouds Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rabbi Meir Dispute",
+    "candidates": [
+      "Sewing Rules",
+      "Rabbi Meir Dispute",
+      "Remove & Replace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ra\u1e25ava/Rabbi Yehuda's ruling and the confirming baraita \u2014 discuss the same sewing rule (outside/within three fingerbreadths), which is precisely what the 'Sewing Rules' prose explains in detail, whereas the current placement under 'Rabbi Meir Dispute' only discusses the baraita's machloket as a secondary point after the main sewing rule is already established.",
+      "chosen_heading": "Sewing Rules",
+      "current_heading": "Rabbi Meir Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Remove & Replace",
+    "candidates": [
+      "Rabbi Meir Dispute",
+      "Remove & Replace",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in the 'Remove & Replace' prose: the agreement about not attaching a foreign corner vs. permitting transfer of strings, the worn-out garment qualification, the all-tekhelet baraita with kala ilan, Rav Na\u1e25man bar Yitz\u1e25ak's resolution, and the final shema mina question about transferring tzitzit between garments \u2014 all matching that section's detailed summary.",
+      "chosen_heading": "Remove & Replace",
+      "current_heading": "Remove & Replace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Abaye Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the explicit statement of the Rav vs. Shmuel disputes (tzitzit transfer and Hanukkah lamp lighting) that heading 0's prose describes as being 'stated explicitly' and 'listed' in that section.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Abaye Summary",
+    "candidates": [
+      "Abaye Summary",
+      "Guard Methods",
+      "String Count"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Abaye Summary",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous unit about Rav vs. Shmuel on dragging, Abaye's summary of Rabba's three exceptions, and the supporting baraita from Rabbi Shimon \u2014 all fitting perfectly under 'Abaye Summary'.",
+      "second_heading": "Guard Methods",
+      "second_confidence": "high",
+      "second_reason": "Item 4 describes the practical methods of Rav Yehuda, Rav Chanina, and Ravina for protecting tzitzit during laundering, which matches exactly the 'Guard Methods' prose about handing garments to a launderer and bundling strings.",
+      "current_heading": "Abaye Summary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "String Count",
+    "candidates": [
+      "Guard Methods",
+      "String Count",
+      "Binding Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses how many strings (Beit Shammai: four, Beit Hillel: three) which matches exactly the 'String Count' section's prose about the same baraita.",
+      "chosen_heading": "String Count",
+      "current_heading": "String Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Binding Measure",
+    "candidates": [
+      "Binding Measure",
+      "Max vs. Min"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the binding measure dispute (Beit Shammai vs. Beit Hillel on fingerbreadths, Rav Pappa's tefach clarification, and Rav Huna/Rav Yehuda's rulings), all of which are explicitly described in the 'Binding Measure' prose.",
+      "chosen_heading": "Binding Measure",
+      "current_heading": "Binding Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Max vs. Min",
+    "candidates": [
+      "Max vs. Min",
+      "No Maximum"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Max vs. Min",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Pappa's halakhic ruling on four-within-three) is discussed in candidate 0's prose, which covers exactly that ruling and the question it raises about a fixed shiur.",
+      "second_heading": "No Maximum",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 (the baraita contradiction, the question of no measure at all, and the resolution distinguishing maximum from minimum) are precisely what candidate 1's prose describes as the gemara's resolution distinguishing ein shiur le-mala from yesh shiur le-mata.",
+      "current_heading": "Max vs. Min",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "No Maximum",
+    "candidates": [
+      "No Maximum",
+      "Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the lulav minimum measure and the 'no maximum but has a minimum' resolution, which is exactly what the 'No Maximum' section's prose describes.",
+      "chosen_heading": "No Maximum",
+      "current_heading": "No Maximum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Etymology",
+    "candidates": [
+      "Etymology",
+      "Strand Separation",
+      "Corner Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita covers both the etymology of tzitzit (anaf) and Abaye's separation requirement, but the current placement under 'Etymology' captures the primary thrust of the baraita's opening definition, while the Abaye addition bridges into strand separation \u2014 keeping it under the current heading is reasonable since the passage as a whole is a single unit and 'Etymology' already incorporates both elements in its prose.",
+      "chosen_heading": "Etymology",
+      "current_heading": "Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Corner Placement",
+    "candidates": [
+      "Strand Separation",
+      "Corner Placement",
+      "Dropping Requirement",
+      "Min Distance",
+      "Max Distance",
+      "Both Rules Needed",
+      "Placement vs. Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about placing tzitzit at the corner tip or the border (gadil) and Rabbi Eliezer ben Yaakov's disqualification of both is precisely what the 'Corner Placement' section's prose describes.",
+      "chosen_heading": "Corner Placement",
+      "current_heading": "Corner Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148,
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Placement vs. Change",
+    "candidates": [
+      "Dropping Requirement",
+      "Min Distance",
+      "Max Distance",
+      "Both Rules Needed",
+      "Placement vs. Change",
+      "Rav Ashi Consolation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain covering: (1) Rav Giddel/Rav's dropping requirement aligning with Rabbi Eliezer ben Yaakov, (2\u20134) the min/max distance rulings and why both are needed, (5\u20136) the Ravina/Rav Samma/Rav Ashi anecdote \u2014 but the passage as a whole begins with item 1 which is the 'Dropping Requirement' topic, and the entire sequence flows from that starting point; however, examining the candidates more carefully, items 1 belongs under 'Dropping Requirement' (index 0), items 2 under 'Min Distance' (index 1), items 3-4 under 'Both Rules Needed' (index 3), and items 5-6 under 'Placement vs. Change'/'Rav Ashi Consolation' \u2014 but since FORM 1 requires one heading, the current placement at index 4 ('Placement vs. Change') is wrong for items 1-4, and the passage most naturally starts at index 0 where item 1's content (Rav Giddel/Rav's dropping requirement) is explicitly discussed.",
+      "chosen_heading": "Dropping Requirement",
+      "current_heading": "Placement vs. Change",
+      "moved": true
+    }
+  }
+]

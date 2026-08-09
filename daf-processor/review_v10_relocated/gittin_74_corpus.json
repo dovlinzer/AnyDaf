@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rashi's Reading",
+    "candidates": [
+      "Opening Question",
+      "Rabbi Yehuda Position",
+      "Rabbi Yossi Position",
+      "Rashi's Reading",
+      "Tosafot's Girsa",
+      "Yamim Shebeintayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items belong under 'Rabbi Yossi Position': Item 1 presents the mishna's dispute between Rabbi Yehuda and Rabbi Yossi (the direct subject of that section), and Item 2 introduces the Rabba/Rava objection about 'ein get le'achar mita' and the 'me'et she'ani ba'olam' resolution \u2014 which the prose of candidate 2 explicitly describes as part of explaining Rabbi Yossi's section and the gemara's clarification of it.",
+      "chosen_heading": "Rabbi Yossi Position",
+      "current_heading": "Rashi's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Yamim Shebeintayim",
+    "candidates": [
+      "Tosafot's Girsa",
+      "Yamim Shebeintayim",
+      "Taluy vs. Safek",
+      "Asham Taluy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita teaching the laws of yamim shebeintayim according to Rabbi Yehuda \u2014 exactly what candidate 1's prose describes as her husband's entitlements during the interim period and the general rule that she is ke'ishto lechol davar except she needs no second get.",
+      "chosen_heading": "Yamim Shebeintayim",
+      "current_heading": "Yamim Shebeintayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Asham Taluy",
+    "candidates": [
+      "Taluy vs. Safek",
+      "Asham Taluy",
+      "Chachamim Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's question and answer about the difference between Rabbi Meir and Rabbi Yosei \u2014 the passage opens with the mishnaic dispute (taluy vs. safek), asks 'mai beinaihu', and answers with asham taluy, which is precisely what heading 0 ('Taluy vs. Safek') describes in its prose, including the explicit note that 'the gemara asks mai beinaihu'; heading 1 ('Asham Taluy') picks up only after that question is already answered, so the current placement skips the natural starting point of this unit.",
+      "chosen_heading": "Taluy vs. Safek",
+      "current_heading": "Asham Taluy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Chachamim Position",
+    "candidates": [
+      "Asham Taluy",
+      "Chachamim Position",
+      "Get Conditional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis' position of 'megureshet ve'eina megureshet' and Rabbi Zeira's teaching about mezonot obligation, which is exactly what the 'Chachamim Position' prose describes.",
+      "chosen_heading": "Chachamim Position",
+      "current_heading": "Chachamim Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Get Conditional",
+    "candidates": [
+      "Get Conditional",
+      "Rav Huna Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Mishnah text itself \u2014 the two-hundred-zuz condition, the thirty-day condition, and Rabban Shimon ben Gamliel's incident in Tzaidan \u2014 which the 'Get Conditional' prose explicitly describes and discusses in detail.",
+      "chosen_heading": "Get Conditional",
+      "current_heading": "Get Conditional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rav Huna Debate",
+    "candidates": [
+      "Rav Huna Debate",
+      "Nifka Mina Torn Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's debate between Rav Huna and Rav Yehuda over the meaning of 've'titein,' which is precisely what the 'Rav Huna Debate' prose section discusses.",
+      "chosen_heading": "Rav Huna Debate",
+      "current_heading": "Rav Huna Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Nifka Mina Torn Get",
+    "candidates": [
+      "Nifka Mina Torn Get",
+      "Kiddushin Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the nafka mina between Rav Huna and Rav Yehuda regarding a torn or lost get, which is exactly what the 'Nifka Mina Torn Get' section's prose elaborates upon.",
+      "chosen_heading": "Nifka Mina Torn Get",
+      "current_heading": "Nifka Mina Torn Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Kiddushin Parallel",
+    "candidates": [
+      "Kiddushin Parallel",
+      "Psychology Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the kiddushin parallel case (the woman betrothed on condition of 200 zuz, the nafka mina of her accepting betrothal from another man in the interim), which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Kiddushin Parallel",
+      "current_heading": "Kiddushin Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Psychology Reasoning",
+    "candidates": [
+      "Psychology Reasoning",
+      "Proof from Braitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the tzricha argument explaining why both kiddushin and gittin cases must be stated explicitly due to competing psychological reasoning \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Psychology Reasoning",
+      "current_heading": "Psychology Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Proof from Braitot",
+    "candidates": [
+      "Proof from Braitot",
+      "Rabbi Yehuda Challenged",
+      "Eretz Yisrael Consensus",
+      "Conclusion Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the two baraitot and the gemara's conclusion that they constitute a conclusive refutation of Rav Yehuda, which is precisely what the 'Proof from Braitot' prose describes.",
+      "chosen_heading": "Proof from Braitot",
+      "current_heading": "Proof from Braitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Conclusion Distinction",
+    "candidates": [
+      "Rabbi Yehuda Challenged",
+      "Eretz Yisrael Consensus",
+      "Conclusion Distinction",
+      "Itzaliti Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain resolving the dispute about 'al menat' vs 'mehayom u'le'achar mita', culminating in the 'kocho de'heteira adif lei' conclusion \u2014 exactly the content described in the 'Conclusion Distinction' prose.",
+      "chosen_heading": "Conclusion Distinction",
+      "current_heading": "Conclusion Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Itzaliti Story",
+    "candidates": [
+      "Itzaliti Story",
+      "Missing Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the 'on condition that you give me within thirty days' clause and why it is a valid condition rather than merely a galvanizing statement \u2014 this is the 'Missing Teaching' section's topic about the underlying rule behind the mishna's case, not the 'Itzaliti Story' section about the cloak.",
+      "chosen_heading": "Missing Teaching",
+      "current_heading": "Itzaliti Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Missing Teaching",
+    "candidates": [
+      "Itzaliti Story",
+      "Missing Teaching",
+      "Mechulim Lach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the gemara's question (mai ta'ama d'katani ma'aseh) and answer (chasuri mechasra) that reconstruct the missing rule \u2014 which is precisely what the 'Missing Teaching' prose describes.",
+      "chosen_heading": "Missing Teaching",
+      "current_heading": "Missing Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Mechulim Lach",
+    "candidates": [
+      "Mechulim Lach",
+      "Object vs. Money",
+      "No Waiving Answer",
+      "Konam Case",
+      "Vow Absolution",
+      "Ke'ilu Treatment",
+      "Intent Difference",
+      "Tzurah vs. Revacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the full dilemma posed by Rabbi Asi to Rabbi Yochanan about 'mechulim lach' and its resolution, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Mechulim Lach",
+      "current_heading": "Mechulim Lach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Tzurah vs. Revacha",
+    "candidates": [
+      "Object vs. Money",
+      "No Waiving Answer",
+      "Konam Case",
+      "Vow Absolution",
+      "Ke'ilu Treatment",
+      "Intent Difference",
+      "Tzurah vs. Revacha",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ke'ilu Treatment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the konam challenge to Rabbi Yochanan's ruling, which is precisely what heading 4 ('Ke'ilu Treatment') discusses \u2014 the chachamim's use of 'hareini ke'ilu hitkabalti' as an apparent parallel to the get case.",
+      "second_heading": "Tzurah vs. Revacha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the gemara's rejection drawing the tzurah/revacha distinction, which is exactly what heading 6 ('Tzurah vs. Revacha') discusses in detail.",
+      "current_heading": "Tzurah vs. Revacha",
+      "moved": true
+    }
+  }
+]

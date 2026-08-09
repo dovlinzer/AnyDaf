@@ -1,0 +1,400 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Geographic Scope",
+    "candidates": [
+      "Pre-laid vs. Fresh Dirt",
+      "Two Tannaitic Positions",
+      "Geographic Scope",
+      "Three Interpretive Models",
+      "Beit HaMikdash Inclusion",
+      "No Dirt Scenario",
+      "Beit Shammai Position",
+      "Beit Hillel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the tannaitic dispute about the geographic scope of 'be-karka ha-mishkan' \u2014 item 1 lists the sites (Shiloh, Nob, Gibeon, and the Eternal House) that Issi ben Yehudah extends the ritual to, and item 2 gives Issi ben Mena\u1e25em's a fortiori argument that teaches instead that dirt must not be brought from one's basket \u2014 exactly the two tannaitic positions described in the 'Two Tannaitic Positions' prose.",
+      "chosen_heading": "Two Tannaitic Positions",
+      "current_heading": "Geographic Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Beit Hillel Position",
+    "candidates": [
+      "Three Interpretive Models",
+      "Beit HaMikdash Inclusion",
+      "No Dirt Scenario",
+      "Beit Shammai Position",
+      "Beit Hillel Position",
+      "Blood-Covering Halacha",
+      "Dirt Type Requirement",
+      "Two Readings",
+      "Rabbi Yochanan/Yishmael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the dilemma according to Beit Hillel \u2014 who holds ashes can be called afar \u2014 and whether the phrase 'be-karka ha-mishkan' restricts that equivalence in the sotah context, which is precisely what the 'Beit Hillel Position' prose discusses.",
+      "chosen_heading": "Beit Hillel Position",
+      "current_heading": "Beit Hillel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rabbi Yochanan/Yishmael",
+    "candidates": [
+      "Blood-Covering Halacha",
+      "Dirt Type Requirement",
+      "Two Readings",
+      "Rabbi Yochanan/Yishmael",
+      "Kissui HaDam",
+      "Nazir Hair Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the exact quote of Rabbi Yochanan's statement in the name of Rabbi Yishmael about halacha superseding scripture in three places, which is precisely what the prose in candidate 3 ('Rabbi Yochanan/Yishmael') describes and introduces.",
+      "chosen_heading": "Rabbi Yochanan/Yishmael",
+      "current_heading": "Rabbi Yochanan/Yishmael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Nazir Hair Cutting",
+    "candidates": [
+      "Kissui HaDam",
+      "Nazir Hair Cutting",
+      "Get Writing Surface",
+      "Rashi's Girsa Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three cases together (afar/kisui ha-dam, ta'ar/nazir, sefer/get) as a single Talmudic unit, and should sit under the first case heading 'Kissui HaDam' where the full tripartite baraita is introduced, rather than being placed mid-list under the Nazir heading.",
+      "chosen_heading": "Kissui HaDam",
+      "current_heading": "Nazir Hair Cutting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rashi's Girsa Correction",
+    "candidates": [
+      "Get Writing Surface",
+      "Rashi's Girsa Correction",
+      "Why These Three Cases",
+      "Tradition vs. Derivation",
+      "Forced Drasha Evidence",
+      "Rabbi Yishmael's Stance",
+      "Why Not Ashes?",
+      "Abbreviated List Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage poses the challenge 'if ashes can serve as afar for sotah, why isn't this on Rabbi Yishmael's list?' \u2014 which is precisely what the 'Why Not Ashes?' section's prose describes.",
+      "chosen_heading": "Why Not Ashes?",
+      "current_heading": "Rashi's Girsa Correction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Abbreviated List Theory",
+    "candidates": [
+      "Why These Three Cases",
+      "Tradition vs. Derivation",
+      "Forced Drasha Evidence",
+      "Rabbi Yishmael's Stance",
+      "Why Not Ashes?",
+      "Abbreviated List Theory",
+      "Shaving Metzora Adds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items present the klal u-frat u-klal baraita about shaving the metzora and its derivation of which areas must be shaved \u2014 exactly the content the 'Abbreviated List Theory' prose describes as the gemara's proposed additional omission from Rabbi Yishmael's list.",
+      "chosen_heading": "Abbreviated List Theory",
+      "current_heading": "Abbreviated List Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Shaving Metzora Adds",
+    "candidates": [
+      "Shaving Metzora Adds",
+      "Metzora Derasha Methods",
+      "Rabbi Akiva Hermeneutics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address why the metzora shaving case is not on Rabbi Yishmael's list \u2014 item 1 raises the challenge and item 2 gives Rav Nachman bar Yitzchak's answer (halacha okevet midirabanan), which is explicitly discussed in the 'Shaving Metzora Adds' prose.",
+      "chosen_heading": "Shaving Metzora Adds",
+      "current_heading": "Shaving Metzora Adds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Rabbi Akiva Hermeneutics",
+    "candidates": [
+      "Metzora Derasha Methods",
+      "Rabbi Akiva Hermeneutics",
+      "Partial Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items present the three answers to why metzora shaving isn't on Rabbi Yishmael's list (Rav Pappa's 'supersedes and adds' answer, then Rav Ashi's answer that the baraita follows Rabbi Yishmael's klal u-frat method, then Rabbi Akiva's ribbuy u-miut approach), which is precisely what the 'Rabbi Akiva Hermeneutics' prose describes \u2014 including explicitly mentioning all three reasons and Rav Ashi's answer.",
+      "chosen_heading": "Rabbi Akiva Hermeneutics",
+      "current_heading": "Rabbi Akiva Hermeneutics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Partial Resolution",
+    "candidates": [
+      "Partial Resolution",
+      "Three Visible Items",
+      "Bird Blood Addition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Huna bar Ashi's ruling about decomposed vegetable matter and the gemara's immediate qualification distinguishing it from ashes \u2014 are precisely what the 'Partial Resolution' prose describes, making the current placement clearly correct.",
+      "chosen_heading": "Partial Resolution",
+      "current_heading": "Partial Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Bird Blood Addition",
+    "candidates": [
+      "Three Visible Items",
+      "Bird Blood Addition",
+      "Bird Blood Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita listing all three required visible items plus Rabbi Yishmael's addition of bird blood \u2014 it is a single unified text that belongs under the heading introducing all three items together, not split across separate headings.",
+      "chosen_heading": "Three Visible Items",
+      "current_heading": "Bird Blood Addition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Bird Blood Source",
+    "candidates": [
+      "Bird Blood Addition",
+      "Bird Blood Source",
+      "Blood Prominence",
+      "Revi'it Measure",
+      " Mamshut Principle",
+      "Simple Mixture View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage provides the exact Talmudic derivation (the baraita from Leviticus 14:51 explaining blood vs. water, and the revi'it measure) that the 'Bird Blood Source' prose section describes in detail, making it the clear and correct home for this text.",
+      "chosen_heading": "Bird Blood Source",
+      "current_heading": "Bird Blood Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Simple Mixture View",
+    "candidates": [
+      "Blood Prominence",
+      "Revi'it Measure",
+      " Mamshut Principle",
+      "Simple Mixture View",
+      "Extreme Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items constitute the precise back-and-forth between the Rabbis and Rabbi Yishmael over why the verse specifies 'in the blood and in the water' rather than 'in them' \u2014 exactly the dispute that candidate 3 ('Simple Mixture View') describes in its prose, covering nikar vs. simple combination, the ve-taval bahem argument, and the shachitat ha-tzippor counter-derivation.",
+      "chosen_heading": "Simple Mixture View",
+      "current_heading": "Simple Mixture View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Extreme Cases",
+    "candidates": [
+      "Extreme Cases",
+      "Sparrow Standard",
+      "Normal Range Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yirmeya's dilemma about extreme cases (large bird effacing water, small bird effaced by water), which matches exactly what the 'Extreme Cases' prose describes.",
+      "chosen_heading": "Extreme Cases",
+      "current_heading": "Extreme Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Normal Range Solution",
+    "candidates": [
+      "Sparrow Standard",
+      "Normal Range Solution",
+      "Dirt-First Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Zeira's rebuke about staying within practical halacha AND the statement about the sparrow standard (no sparrow too big or too small), which directly matches the 'Sparrow Standard' prose that discusses exactly these two elements together, whereas the current placement under 'Normal Range Solution' duplicates the sparrow range content but misses that this single Talmudic quote contains the rebuke that introduces the whole explanation.",
+      "chosen_heading": "Sparrow Standard",
+      "current_heading": "Normal Range Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Dirt-First Rule",
+    "candidates": [
+      "Normal Range Solution",
+      "Dirt-First Rule",
+      "Rabbi Shimon's View",
+      "Gezeira Shava",
+      "Reverse Direction",
+      "Order Flexibility",
+      "Alav - Ashes First",
+      "El Keli - Water First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All five items form one continuous sugya beginning with the baraita about dirt-first invalidity and proceeding through Rabbi Shimon's gezeira shava and the two parah adumah verses, and the current placement under 'Dirt-First Rule' is the opening heading of this discussion, making it the best available single home despite the passage spanning multiple sub-topics.",
+      "chosen_heading": "Dirt-First Rule",
+      "current_heading": "Dirt-First Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "El Keli - Water First",
+    "candidates": [
+      "Rabbi Shimon's View",
+      "Gezeira Shava",
+      "Reverse Direction",
+      "Order Flexibility",
+      "Alav - Ashes First",
+      "El Keli - Water First",
+      "Flexible Order",
+      "Machshir on Top",
+      "Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage raises the counter-argument that 'alav' should be read specifically (ashes first) and 'el keli' should indicate only that water must run directly into the vessel \u2014 this is precisely the dialectic introduced when examining the 'alav' verse, questioning which phrase carries the specific ordering requirement, which belongs under the 'Alav - Ashes First' section where the gemara is working out what 'alav' implies.",
+      "chosen_heading": "Alav - Ashes First",
+      "current_heading": "El Keli - Water First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Reinterpretation",
+    "candidates": [
+      "Flexible Order",
+      "Machshir on Top",
+      "Reinterpretation",
+      "Three Examples",
+      "Water as Base"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the principle 'just as we find in every instance that the facilitating item goes above' \u2014 this is precisely the *mimah matzinu be-chol makom machshir le-mala* principle that the 'Machshir on Top' section's prose explicitly describes.",
+      "chosen_heading": "Machshir on Top",
+      "current_heading": "Reinterpretation",
+      "moved": true
+    }
+  }
+]

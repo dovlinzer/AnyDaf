@@ -1,0 +1,295 @@
+[
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Olah Pesukim",
+    "candidates": [
+      "Melikah Overview",
+      "Olah vs. Chatas",
+      "Lishmah & Pigul",
+      "Chatas Invalidation",
+      "Mixed Thoughts",
+      "Separate Kezaysim",
+      "Rav Yehuda's Order",
+      "Chachamim Disagree",
+      "Eating & Burning",
+      "Olah Pesukim",
+      "Chatas Pesukim",
+      "Verb Comparison",
+      "Kohein Required"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Kohein Required",
+    "candidates": [
+      "Chatas Pesukim",
+      "Verb Comparison",
+      "Kohein Required",
+      "No Knife Needed",
+      "Akiva's Body Rule",
+      "Why Kohein Matters",
+      "Top of Altar",
+      "Head Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are from the baraita deriving that a voluntary bird olah may consist of a single bird (item 1) and that melikah requires a kohein (item 2), which is precisely what the 'Kohein Required' prose describes.",
+      "chosen_heading": "Kohein Required",
+      "current_heading": "Kohein Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Head Separation",
+    "candidates": [
+      "No Knife Needed",
+      "Akiva's Body Rule",
+      "Why Kohein Matters",
+      "Top of Altar",
+      "Head Separation",
+      "Top Half Required"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "No Knife Needed",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the kal vachomer about using a knife for melikah and Rabbi Akiva's response that 'kohein' teaches melikah must be with the priest's own body \u2014 exactly what candidate 0 ('No Knife Needed') and candidate 1 ('Akiva's Body Rule') cover.",
+      "second_heading": "Top of Altar",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 discuss where on the altar melikah is performed (top vs. bottom), where on the bird's neck (nape), and whether the head must be fully separated \u2014 matching candidate 3 ('Top of Altar') and candidate 4 ('Head Separation'), with the bulk of items 4-6 on head separation squarely under candidate 4.",
+      "current_heading": "Head Separation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Top Half Required",
+    "candidates": [
+      "Head Separation",
+      "Top Half Required",
+      "Altar Wall Only",
+      "Below Feet Allow",
+      "Location Debate",
+      "Fire & Placement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Altar Wall Only",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 expound the verse 'on the wall of the altar' \u2014 establishing it means all the blood, on the altar wall (not ramp/Sanctuary), specifically the upper wall \u2014 which matches exactly the 'Altar Wall Only' prose about al kir ha-mizbeach.",
+      "second_heading": "Top Half Required",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 derive from the juxtaposition of v'hiktir and v'nimtza that squeezing occurs atop the altar, describe the actual procedure at the southeast corner, and introduce the Rabbi Nechemia/Rabbi Eliezer ben Yaakov dispute \u2014 all of which matches the 'Top Half Required' prose precisely.",
+      "current_heading": "Top Half Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Fire & Placement",
+    "candidates": [
+      "Altar Wall Only",
+      "Below Feet Allow",
+      "Location Debate",
+      "Fire & Placement",
+      "Crop Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Abaye and Rava's statement about the practical difference between the opinions regarding forming an arrangement (maaracha) on the surrounding ledge (soveiv), which is exactly what the 'Fire & Placement' prose section describes.",
+      "chosen_heading": "Fire & Placement",
+      "current_heading": "Fire & Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Crop Methods",
+    "candidates": [
+      "Crop Methods",
+      "Surgical Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the removal of the crop (murato/zefek) and what must accompany it \u2014 the feathers and/or gizzard \u2014 which matches the 'Crop Methods' prose exactly, not the surgical cutting method described in candidate 1.",
+      "chosen_heading": "Crop Methods",
+      "current_heading": "Crop Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Surgical Cutting",
+    "candidates": [
+      "Surgical Cutting",
+      "Tearing Open"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes cutting with a knife to create a window-like opening opposite the crop, which matches exactly the 'Surgical Cutting' section's prose about using a knife to form a circular incision (*k'min arubah*) opposite the crop.",
+      "chosen_heading": "Surgical Cutting",
+      "current_heading": "Surgical Cutting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Tearing Open",
+    "candidates": [
+      "Tearing Open",
+      "Post-Blood Acts",
+      "Mishnah Invalid",
+      "R.E. Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the act of rending/tearing (shisa) by hand with a proof from Samson, which matches exactly the 'Tearing Open' section's prose about ein shisa ela b'yad and the Shimshon proof-text.",
+      "chosen_heading": "Tearing Open",
+      "current_heading": "Tearing Open",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "R.E. Valid",
+    "candidates": [
+      "Post-Blood Acts",
+      "Mishnah Invalid",
+      "R.E. Valid",
+      "Squeezing Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Gemara's statement that the mishna is not in accordance with Rabbi Elazar b'Rabbi Shimon, which directly matches the 'Mishnah Invalid' section's prose about the Gemara noting the mishna's incompatibility with Rabbi Eliezer b'Rabbi Shimon's position \u2014 the baraita quote is part of that same introductory statement, not a standalone presentation of his dissenting view.",
+      "chosen_heading": "Mishnah Invalid",
+      "current_heading": "R.E. Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Squeezing Issue",
+    "candidates": [
+      "R.E. Valid",
+      "Squeezing Issue",
+      "Like Olah",
+      "Flesh Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Chisda's explanation that the dispute hinges on whether squeezing out the blood of a bird sin offering is indispensable, which is precisely what the 'Squeezing Issue' prose describes.",
+      "chosen_heading": "Squeezing Issue",
+      "current_heading": "Squeezing Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Flesh Cutting",
+    "candidates": [
+      "Like Olah",
+      "Flesh Cutting",
+      "One Act vs. Two",
+      "Pause Relevance",
+      "Melikah Process",
+      "Kamma Position",
+      "R.E. Safe",
+      "Abaye's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Flesh Cutting",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Elazar b'Rabbi Shimon's position that mitzui is not indispensable, making the severing mere flesh-cutting \u2014 exactly what the 'Flesh Cutting' prose describes.",
+      "second_heading": "Kamma Position",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rava's framework about shehiya b'siman sheini, with tanna kamma holding it does not disqualify (item 2) and Rabbi Elazar holding it does (item 3), which matches the 'Kamma Position' prose that introduces Rava's framing and explains the tanna kamma's view \u2014 though items 2-3 span both 'Kamma Position' and 'R.E. Safe', the tanna kamma's explanation in item 2 makes 'Kamma Position' the better anchor.",
+      "current_heading": "Flesh Cutting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Abaye's View",
+    "candidates": [
+      "One Act vs. Two",
+      "Pause Relevance",
+      "Melikah Process",
+      "Kamma Position",
+      "R.E. Safe",
+      "Abaye's View",
+      "Gemara Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's synthesis noting that the Rava-Abaye dispute mirrors the Rabbi Zeira/Rabbi Shmuel bar Rav Yitzchak dispute about whether the core issue is shehiya invalidating the olah or rov basar being indispensable \u2014 exactly what the 'Gemara Synthesis' prose describes.",
+      "chosen_heading": "Gemara Synthesis",
+      "current_heading": "Abaye's View",
+      "moved": true
+    }
+  }
+]

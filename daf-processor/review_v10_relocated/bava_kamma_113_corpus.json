@@ -1,0 +1,460 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Document Validation",
+    "candidates": [
+      "Prior Context",
+      "Document Validation",
+      "Days 1\u201330",
+      "Days 31\u201360",
+      "Days 61\u201390",
+      "After 90 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's ruling on document ratification in absentia, including the Monday-Thursday-Monday waiting period and the ninety-day pesicha period, all of which are discussed as one continuous ruling under the 'Document Validation' heading's prose about kiyum hashtar, beis-heh-beis, and the writ written against the debtor.",
+      "chosen_heading": "Document Validation",
+      "current_heading": "Document Validation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "After 90 Days",
+    "candidates": [
+      "Days 1\u201330",
+      "Days 31\u201360",
+      "Days 61\u201390",
+      "After 90 Days",
+      "Movables & Forgery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss what happens after the ninety days elapse \u2014 writing the adrakhta, the distinction between 'I am coming' vs 'I am not coming,' and the loan vs. deposit distinction \u2014 all of which are explicitly covered in the 'After 90 Days' prose.",
+      "chosen_heading": "After 90 Days",
+      "current_heading": "After 90 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Movables & Forgery",
+    "candidates": [
+      "Movables & Forgery",
+      "Writing Writs",
+      "Informing Defendant"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Movables & Forgery",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the restriction on writing adrachta for movable property and the concern about depreciation, which matches exactly the 'Movables & Forgery' prose about metaltelin, shamit v'achal, and techsif.",
+      "second_heading": "Writing Writs",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the obligation to notify the debtor when writing an adrachta (moda'inan leh) and the nearby/distant distinction, which matches the 'Writing Writs' prose about notifying the debtor.",
+      "current_heading": "Movables & Forgery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Informing Defendant",
+    "candidates": [
+      "Writing Writs",
+      "Informing Defendant",
+      "Messenger's Word"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the obligation to notify the debtor before seizing property \u2014 item 1 discusses waiting twelve months for caravans (citing Ravina and Mar A\u1e25a), and item 2 qualifies that ruling as exceptional due to Mar A\u1e25a's violent nature, establishing the ordinary rule of a Tuesday-Wednesday-Thursday messenger timeline \u2014 exactly what the 'Informing Defendant' prose describes.",
+      "chosen_heading": "Informing Defendant",
+      "current_heading": "Informing Defendant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Messenger's Word",
+    "candidates": [
+      "Messenger's Word",
+      "Written Writ",
+      "Messenger Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Ravina's ruling that a court messenger is believed like two witnesses for excommunication but not for the written pesicha document, which is precisely what the 'Messenger's Word' section prose describes.",
+      "chosen_heading": "Messenger's Word",
+      "current_heading": "Messenger's Word",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Messenger Conditions",
+    "candidates": [
+      "Written Writ",
+      "Messenger Conditions",
+      "Mon-Thu-Mon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 Ravina's ruling on summoning via women/neighbors with its narrowing conditions, and Rava's ruling on tearing up the pesicha \u2014 are explicitly described and discussed together in the 'Messenger Conditions' prose, making that the correct heading.",
+      "chosen_heading": "Messenger Conditions",
+      "current_heading": "Messenger Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Mon-Thu-Mon",
+    "candidates": [
+      "Mon-Thu-Mon",
+      "Women vs. Men"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav \u1e24isda's Monday-Thursday-Monday sequencing rule, which is exactly what the 'Mon-Thu-Mon' section prose describes.",
+      "chosen_heading": "Mon-Thu-Mon",
+      "current_heading": "Mon-Thu-Mon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Women vs. Men",
+    "candidates": [
+      "Women vs. Men",
+      "Exempted Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact exchange between Rav Asi and Rav Kahana about the woman/man distinction in issuing a pesicha, which is precisely what the 'Women vs. Men' prose section describes in detail.",
+      "chosen_heading": "Women vs. Men",
+      "current_heading": "Women vs. Men",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Exempted Times",
+    "candidates": [
+      "Exempted Times",
+      "Religious Gatherings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the same content as the 'Exempted Times' prose \u2014 not issuing summonses during Nisan/Tishrei/eve of Shabbat \u2014 and the prose under that heading directly paraphrases this Gemara text.",
+      "chosen_heading": "Exempted Times",
+      "current_heading": "Exempted Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Religious Gatherings",
+    "candidates": [
+      "Religious Gatherings",
+      "Public Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses not issuing court summonses during kalla/Festival gatherings, which matches perfectly with the 'Religious Gatherings' section prose about Rav Nachman's ruling on serving legal papers during public Torah assemblies.",
+      "chosen_heading": "Religious Gatherings",
+      "current_heading": "Religious Gatherings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Public Property",
+    "candidates": [
+      "Public Property",
+      "Private Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi's teaching to Rabbi Shimon about returning publicly visible stolen items (cow being plowed, donkey being driven) out of respect for their father's honor, which matches precisely the 'Public Property' section's prose about publicly observable items and kevod avihem.",
+      "chosen_heading": "Public Property",
+      "current_heading": "Public Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Private Items",
+    "candidates": [
+      "Private Items",
+      "Stolen Funds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Kahana's question to Rav about private items (bed and table), which is exactly what the 'Private Items' section prose describes.",
+      "chosen_heading": "Private Items",
+      "current_heading": "Private Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Stolen Funds",
+    "candidates": [
+      "Stolen Funds",
+      "Exceptions",
+      "Tosafot's View",
+      "Exceeding Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah about taking money from the collector's house/market and the baraita about giving a dinar and receiving change \u2014 are discussed explicitly in candidate 1's prose about the exceptions to the stolen-funds presumption, including the specific phrases 'aval notel hu mi-toch beito o min ha-shuk' and 'tanna aval nosin lo dinar ve-nosin lo es ha-sh'ar'.",
+      "chosen_heading": "Exceptions",
+      "current_heading": "Stolen Funds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Exceeding Authority",
+    "candidates": [
+      "Exceptions",
+      "Tosafot's View",
+      "Exceeding Authority",
+      "Property vs. Conduct",
+      "Seized Property",
+      "Tax Discretion",
+      "Judging Mixed Cases",
+      "Stealing vs. Debt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Exceeding Authority",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 discuss the tension between dina demalchuta dina and treating tax collectors as gazlanim, resolved by the answers of Rabbi \u1e24anina bar Kahana and the school of Rabbi Yannai \u2014 exactly the content described in the 'Exceeding Authority' prose.",
+      "second_heading": "Judging Mixed Cases",
+      "second_confidence": "high",
+      "second_reason": "Items 6-8 introduce the Nedarim mishna about vowing before murderers and customs collectors, then transition to Rav Ashi's ruling about a gentile customs collector and the baraita about judging mixed Jew/gentile cases \u2014 matching the 'Judging Mixed Cases' prose exactly.",
+      "current_heading": "Exceeding Authority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Stealing vs. Debt",
+    "candidates": [
+      "Property vs. Conduct",
+      "Seized Property",
+      "Tax Discretion",
+      "Judging Mixed Cases",
+      "Stealing vs. Debt",
+      "Current vs. Back",
+      "Lost Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 8 items form a single continuous legal discussion about Rabbi Akiva's position on deceiving gentiles, the challenge from the baraita prohibiting gezel goy, and Rava's resolution distinguishing active robbery from abrogating a loan \u2014 exactly what candidate 3 ('Judging Mixed Cases') describes in its prose.",
+      "chosen_heading": "Judging Mixed Cases",
+      "current_heading": "Stealing vs. Debt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148,
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Lost Objects",
+    "candidates": [
+      "Current vs. Back",
+      "Lost Objects",
+      "City Grazing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items cover exactly the topics described in the 'Lost Objects' prose: the prohibition on robbing a gentile, the permissibility of keeping a gentile's lost object, the chilul Hashem override, and the cases of Shmuel, Rav Kahana, Ravina, and Rav Ashi regarding a gentile's business error \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Lost Objects",
+      "current_heading": "Lost Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165
+    ],
+    "current_heading": "City Grazing",
+    "candidates": [
+      "City Grazing",
+      "Distant Grazing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Distant Grazing",
+      "first_confidence": "low",
+      "first_reason": "Items 1-6 discuss dina d'malkhuta dina and tax collection, which don't match either candidate's prose well, but belong before the city grazing section.",
+      "second_heading": "City Grazing",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is precisely the ruling about shepherds grazing within the tchum that candidate 0 ('City Grazing') describes in its prose.",
+      "current_heading": "City Grazing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      168
+    ],
+    "current_heading": "Distant Grazing",
+    "candidates": [
+      "Distant Grazing",
+      "Ger Toshav",
+      "Trade Examples",
+      "Single Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses purchasing from shepherds outside the tchum and Ravina's qualification about owners pursuing their animals, which is precisely what the 'Distant Grazing' section's prose addresses.",
+      "chosen_heading": "Distant Grazing",
+      "current_heading": "Distant Grazing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      180,
+      181,
+      182
+    ],
+    "current_heading": "Single Witness",
+    "candidates": [
+      "Ger Toshav",
+      "Trade Examples",
+      "Single Witness",
+      "Prominent Witness",
+      "Excommunication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about testifying in gentile courts \u2014 excommunication for volunteering testimony, the single-vs-two-witness distinction and court-type distinction, and the adam chashuv dilemma \u2014 which matches the 'Single Witness' section's prose about exactly these topics, including the adam chashuv question and teiku conclusion.",
+      "chosen_heading": "Single Witness",
+      "current_heading": "Single Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Excommunication",
+    "candidates": [
+      "Prominent Witness",
+      "Excommunication",
+      "Neighbor Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Ashi's ruling about excommunicating a Jew who sells land to a gentile bordering a Jewish neighbor's property, and discusses the dismissal of dina de-bar mitzra as the reason \u2014 exactly what the 'Excommunication' section's prose describes.",
+      "chosen_heading": "Excommunication",
+      "current_heading": "Excommunication",
+      "moved": false
+    }
+  }
+]

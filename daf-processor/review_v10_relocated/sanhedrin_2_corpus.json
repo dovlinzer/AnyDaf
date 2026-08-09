@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Basic Categories",
+    "candidates": [
+      "Printer's Division",
+      "Transition & Ordering",
+      "Sanhedrin & Makkos",
+      "Basic Categories",
+      "Special Monetary Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna listing monetary cases adjudicated by three judges, and the 'Basic Categories' prose directly quotes and discusses this exact Mishna text \u2014 dinei mamonos, gezeilos vachavalos, nezek vechatzi nezek, etc.",
+      "chosen_heading": "Basic Categories",
+      "current_heading": "Basic Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Special Monetary Cases",
+    "candidates": [
+      "Special Monetary Cases",
+      "Slander Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Meir's position that rape, seduction, and defamation cases are adjudicated by three judges, which is exactly what the prose under 'Special Monetary Cases' describes as the mishnah's content, before the dissent of the Sages is introduced in the 'Slander Dispute' section.",
+      "chosen_heading": "Special Monetary Cases",
+      "current_heading": "Special Monetary Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Slander Dispute",
+    "candidates": [
+      "Slander Dispute",
+      "Lashes & Size",
+      "New Month Sanctification",
+      "Leap Year Declaration"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slander Dispute",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbis' dissent on motzi shem ra requiring twenty-three judges, which is precisely what the 'Slander Dispute' prose discusses as the Sages' position contra Rabbi Meir.",
+      "second_heading": "Lashes & Size",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new mishnaic case about lashes (makos), which is exactly what the 'Lashes & Size' prose discusses, including both the three-judge default and Rabbi Yishmael's opinion of twenty-three.",
+      "current_heading": "Slander Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Leap Year Declaration",
+    "candidates": [
+      "Lashes & Size",
+      "New Month Sanctification",
+      "Leap Year Declaration",
+      "Sin Offering Ritual",
+      "Heifer Neck Breaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both ibbur hachodesh and ibbur hashanah as a single mishnah unit, and the prose under 'New Month Sanctification' (index 1) explicitly introduces both topics together, noting the shift to calendar functions and discussing ibbur hachodesh bishlosha as the lead-in to the leap year discussion that follows in the same mishnah.",
+      "chosen_heading": "New Month Sanctification",
+      "current_heading": "Leap Year Declaration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Heifer Neck Breaking",
+    "candidates": [
+      "Sin Offering Ritual",
+      "Heifer Neck Breaking",
+      "Heifer Ritual Dispute",
+      "Chalitza & Refusal",
+      "Value Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the three-vs-five dispute between Rabbi Shimon and Rabbi Yehuda for the heifer ritual AND the chalitza/refusal requirement, which maps precisely to heading 2 ('Heifer Ritual Dispute') covering the Rabbi Shimon/Rabbi Yehuda disagreement and heading 3 ('Chalitza & Refusal') \u2014 but since the passage is a single mishnaic unit containing all these elements together, and heading 2's prose explicitly covers the Rabbi Shimon/Rabbi Yehuda dispute that transitions into chalitza, while heading 3's prose covers chalitza and miunin in detail, the passage as a whole (including the dispute) is best placed under heading 2 which opens with the dispute content, though the chalitza portion belongs under 3; however since we must pick one and the current placement (1) is clearly wrong as heading 1's prose only covers the basic three-judge rule without the dispute, heading 2 is the better single home as it explicitly discusses the Rabbi Shimon/Rabbi Yehuda content that opens this passage.",
+      "chosen_heading": "Heifer Ritual Dispute",
+      "current_heading": "Heifer Neck Breaking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Value Assessment",
+    "candidates": [
+      "Heifer Ritual Dispute",
+      "Chalitza & Refusal",
+      "Value Assessment",
+      "Sanctified Item Redeem",
+      "Land & Human Sanctity",
+      "Capital Crime Baseline",
+      "Animal Capital Crimes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Value Assessment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers neta revai, maaser sheini, hekdeshos, and erachin ha-metaltelin with Rabbi Yehuda's requirement of a kohen \u2014 exactly matching the 'Value Assessment' and 'Sanctified Item Redeem' prose, but most precisely candidate 2 which introduces this whole cluster; however candidate 3 discusses hekdeshos, erachin ha-metaltelin, and Rabbi Yehuda's kohen requirement directly, making item 1 best placed under candidate 3 since candidate 2's prose already covers the neta revai introduction separately.",
+      "second_heading": "Land & Human Sanctity",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the valuation of consecrated land (nine plus a kohen) and the valuation of a person, which matches exactly the 'Land & Human Sanctity' prose discussing karkaos tisha v'kohen and ha-adam k'yotzei bahen.",
+      "current_heading": "Value Assessment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Animal Capital Crimes",
+    "candidates": [
+      "Sanctified Item Redeem",
+      "Land & Human Sanctity",
+      "Capital Crime Baseline",
+      "Animal Capital Crimes",
+      "Goring Ox Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage opens with 'dinei nefashos b'esrim u'shlosha' (capital cases require twenty-three) and then continues with the bestiality animal ruling, but the current placement under 'Animal Capital Crimes' splits what is a single mishnah passage \u2014 the prose of 'Capital Crime Baseline' (index 2) explicitly introduces 'dinei nefashos b'esrim u'shlosha' as its topic, making it the correct home for this combined passage that begins with that very phrase.",
+      "chosen_heading": "Capital Crime Baseline",
+      "current_heading": "Animal Capital Crimes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Goring Ox Dispute",
+    "candidates": [
+      "Animal Capital Crimes",
+      "Goring Ox Dispute",
+      "Tribe, Prophet, Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the goring ox requiring twenty-three judges, the derivation from the verse about the owner's death, and the dispute between Rabbi Eliezer and Rabbi Akiva about dangerous wild animals \u2014 all of which is precisely what the 'Goring Ox Dispute' prose describes.",
+      "chosen_heading": "Goring Ox Dispute",
+      "current_heading": "Goring Ox Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Tribe, Prophet, Kohen",
+    "candidates": [
+      "Tribe, Prophet, Kohen",
+      "Discretionary Warfare",
+      "Jerusalem Expansion",
+      "Appointing Lower Courts",
+      "Idolatrous City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four topics (tribe, false prophet, High Priest, optional war, city expansion, appointing lower courts) in a single Mishnah, and the current heading 'Tribe, Prophet, Kohen' is where this Mishnah naturally sits as its opening clause, with subsequent headings breaking out each sub-topic individually in the essay's prose.",
+      "chosen_heading": "Tribe, Prophet, Kohen",
+      "current_heading": "Tribe, Prophet, Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Idolatrous City",
+    "candidates": [
+      "Discretionary Warfare",
+      "Jerusalem Expansion",
+      "Appointing Lower Courts",
+      "Idolatrous City",
+      "Seventy Elders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the condemnation of an ir nidachas (idolatrous city), including the requirements for a court of seventy-one, border city restrictions, and limits on simultaneous condemnations \u2014 exactly what the 'Idolatrous City' section's prose describes.",
+      "chosen_heading": "Idolatrous City",
+      "current_heading": "Idolatrous City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Seventy Elders",
+    "candidates": [
+      "Seventy Elders",
+      "Twenty-Three Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the seventy-one composition of the Great Sanhedrin from Numbers 11:16 and presents Rabbi Yehuda's dissent of seventy, which is precisely what the 'Seventy Elders' section prose describes.",
+      "chosen_heading": "Seventy Elders",
+      "current_heading": "Seventy Elders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Twenty-Three Derivation",
+    "candidates": [
+      "Twenty-Three Derivation",
+      "Majority Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items derive the twenty-three composition of the lesser Sanhedrin \u2014 item 1 establishes two congregations of ten equal twenty, and item 2 clarifies why a congregation is ten \u2014 exactly matching the 'Twenty-Three Derivation' prose which covers precisely these two derivations (eidah shofetet/matzelet and the spies passage).",
+      "chosen_heading": "Twenty-Three Derivation",
+      "current_heading": "Twenty-Three Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Majority Rules",
+    "candidates": [
+      "Majority Rules",
+      "Even Number Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses deriving the need for three more judges through the majority-to-convict vs. majority-to-acquit distinction, which is precisely what the prose under 'Majority Rules' describes.",
+      "chosen_heading": "Majority Rules",
+      "current_heading": "Majority Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Even Number Problem",
+    "candidates": [
+      "Even Number Problem",
+      "City Population",
+      "Rabbi Nechemiah's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the even-number problem and adds one judge to reach twenty-three, which is precisely what the 'Even Number Problem' prose discusses.",
+      "chosen_heading": "Even Number Problem",
+      "current_heading": "Even Number Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rabbi Nechemiah's View",
+    "candidates": [
+      "City Population",
+      "Rabbi Nechemiah's View",
+      "Enumeration Question",
+      "Rabbi Avahu: Money Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 120 requirement and Rabbi Ne\u1e25emya's 230 requirement as a single mishnah unit, and candidate 0 ('City Population') discusses the entire mishnah about how large a city must be, while candidate 1 treats only Rabbi Ne\u1e25emya's view separately \u2014 but since the quoted text is one indivisible passage covering both opinions, it belongs under the heading whose prose addresses the full question of city population eligibility for a Sanhedrin.",
+      "chosen_heading": "City Population",
+      "current_heading": "Rabbi Nechemiah's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Rabbi Avahu: Money Matter",
+    "candidates": [
+      "Enumeration Question",
+      "Rabbi Avahu: Money Matter",
+      "Biblical Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core of Rabbi Abbahu's resolution and its double-necessity argument, which is exactly what heading 1's prose describes in detail \u2014 the reinterpretation of the mishnah's structure, the exclusion of hoda'os and halva'os, and the necessity of the double formulation.",
+      "chosen_heading": "Rabbi Avahu: Money Matter",
+      "current_heading": "Rabbi Avahu: Money Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Biblical Derivation",
+    "candidates": [
+      "Biblical Derivation",
+      "Loans Don't Need Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the biblical derivation from Exodus 22:7 (gezeilos), the analogy between bodily injury and property injury, and the tanna's definition limiting dinei mamonos to gezeilos vachavalos while excluding hoda'os and halva'os \u2014 all of which precisely matches the 'Biblical Derivation' prose.",
+      "chosen_heading": "Biblical Derivation",
+      "current_heading": "Biblical Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Loans Don't Need Status",
+    "candidates": [
+      "Loans Don't Need Status",
+      "Mumchin Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether admissions and loans don't need three judges, and Rabbi Avahu's rebuttal that two judges' monetary rulings are invalid \u2014 exactly the content described in the 'Loans Don't Need Status' prose.",
+      "chosen_heading": "Loans Don't Need Status",
+      "current_heading": "Loans Don't Need Status",
+      "moved": false
+    }
+  }
+]

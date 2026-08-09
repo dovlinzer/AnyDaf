@@ -29,8 +29,8 @@
           "timestamp": "03:56"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Methods of Building Temporary Structures: From Top to Bottom vs. Bottom to Top",
@@ -144,8 +144,8 @@
           "timestamp": "36:45"
         }
       ],
-      "sefaria_index": 7,
-      "matched": false
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Breaking Objects into Vessels: The Debate Over Biblical vs. Rabbinic Violations",
@@ -178,7 +178,7 @@
           "timestamp": "51:55"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -211,7 +211,7 @@
           "timestamp": "57:34"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 20,
       "matched": true
     }
   ],
@@ -461,5 +461,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "39:14",
+  "amud_b_micro_title": "Animal Food Straw Heter",
+  "shiur_start_daf": 33,
+  "shiur_start_amud": "a"
 }

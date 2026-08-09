@@ -1,0 +1,359 @@
+[
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Chizkiya's Doubt",
+    "candidates": [
+      "Megillah & Shabbat Q&A",
+      "Mishloach Manot Timing",
+      "Jerusalem Practice",
+      "Achronim Debate",
+      "Gemara's Question",
+      "Baraita on Purim",
+      "Melacha Prohibition",
+      "Unwalled City Explanation",
+      "Tiberia Walled",
+      "Chizkiya's Doubt",
+      "Non-Purim Day",
+      "Megillas Taanis",
+      "Rava's Ruling",
+      "Own Day Only",
+      "Rav Curses Planter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All four items continue the gemara's discussion of whether Tiberias is definitively walled (Chizkiya's doubt vs. Rabbi's certainty) and then proceed to the Megillas Taanis question about both days \u2014 exactly what candidate 9's prose describes as the content of this section.",
+      "chosen_heading": "Chizkiya's Doubt",
+      "current_heading": "Chizkiya's Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rav Curses Planter",
+    "candidates": [
+      "Non-Purim Day",
+      "Megillas Taanis",
+      "Rava's Ruling",
+      "Own Day Only",
+      "Rav Curses Planter",
+      "Rabba's Position",
+      "Verses Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Curses Planter",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav's curse of the flax planter and the 'bar yomei hava' answer) is exactly what candidate 4's prose describes as the striking story Rav saw and the gemara's answer.",
+      "second_heading": "Rabba's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabba son of Rava's statement that melacha was never accepted as obligatory) is precisely what candidate 5's prose describes as Rabba overturning the premise that melacha is genuinely forbidden on Purim.",
+      "current_heading": "Rav Curses Planter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Verses Analysis",
+    "candidates": [
+      "Rabba's Position",
+      "Verses Analysis",
+      "Acceptance Limited",
+      "Minhag vs. Halacha",
+      "Simcha Planting",
+      "Simcha Work Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the textual comparison between the initial proposal (which included 'yom tov') and the final acceptance (which omitted 'yom tov'), which is precisely what the 'Verses Analysis' prose describes.",
+      "chosen_heading": "Verses Analysis",
+      "current_heading": "Verses Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Simcha Work Types",
+    "candidates": [
+      "Acceptance Limited",
+      "Minhag vs. Halacha",
+      "Simcha Planting",
+      "Simcha Work Types",
+      "Tiberia Walls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Minhag vs. Halacha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the gemara's explanation for why Rav cursed the man and the alternative answer about Rabbi's planting being a netiya shel simcha, which matches candidate 1 ('Minhag vs. Halacha') and candidate 2 ('Simcha Planting') \u2014 but item 1 is clearly about the minhag vs. halacha distinction and item 2 introduces the simcha planting concept, so items 1-2 together fit best under 'Minhag vs. Halacha' as that section's prose discusses both the curse explanation and Rabbi's action.",
+      "second_heading": "Simcha Work Types",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita defining binyan shel simcha and netiya shel simcha from the Ta'anit mishna, which is precisely what candidate 3 ('Simcha Work Types') discusses in its prose about the parallel from aveilus and the baraita specifying joyous construction and planting.",
+      "current_heading": "Simcha Work Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Tiberia Walls",
+    "candidates": [
+      "Tiberia Walls",
+      "Walled Definition",
+      "Megillah Definition",
+      "Exposed vs. Protected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous gemara discussion about Tiberias's walled-city status \u2014 the question of the sea as a wall and the baraita excluding Tiberias \u2014 which is precisely what the 'Tiberia Walls' prose describes.",
+      "chosen_heading": "Tiberia Walls",
+      "current_heading": "Tiberia Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Exposed vs. Protected",
+    "candidates": [
+      "Walled Definition",
+      "Megillah Definition",
+      "Exposed vs. Protected",
+      "Rav Ashi Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that for battei arei chomah there is no doubt about Tiberias, but for mikra megillah there is a doubt \u2014 this is precisely the content discussed in the 'Walled Definition' section's prose, which explains that the baraita resolves the battei arei chomah question but raises the megillah distinction, leading into why the criteria may differ.",
+      "chosen_heading": "Walled Definition",
+      "current_heading": "Exposed vs. Protected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rav Ashi Case",
+    "candidates": [
+      "Exposed vs. Protected",
+      "Rav Ashi Case",
+      "RY Identifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Asi reading the Megilla in Huzal on both the fourteenth and fifteenth due to uncertainty about its walled status, which matches exactly the prose under 'Rav Ashi Case' discussing this same incident.",
+      "chosen_heading": "Rav Ashi Case",
+      "current_heading": "Rav Ashi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "RY Identifications",
+    "candidates": [
+      "RY Identifications",
+      "City Identities",
+      "Eulogy Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi Yo\u1e25anan's youth identification story \u2014 item 1 introduces it and item 2 gives the identifications and their etymologies \u2014 which matches candidate 0's prose about RY's childhood claim confirmed by elders, listing the three city identifications (Chamat/Tiberias, Rakas/Tzipori, Kinneret/Ginosar).",
+      "chosen_heading": "RY Identifications",
+      "current_heading": "RY Identifications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Eulogy Evidence",
+    "candidates": [
+      "City Identities",
+      "Eulogy Evidence",
+      "Rabba Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the eulogy evidence Rava cites to prove that Rakkath is Tiberias, which is precisely what candidate 1 ('Eulogy Evidence') discusses in its prose.",
+      "chosen_heading": "Eulogy Evidence",
+      "current_heading": "Eulogy Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rabba Disputes",
+    "candidates": [
+      "Rabba Disputes",
+      "Kitron & Tzipori"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabba's identification of Hammath/Rakkath/Chinnereth, the etymology of Rakkath as Tiberias, and Rava's and Rabbi Yirmeya's explanations \u2014 all of which are explicitly covered in the 'Rabba Disputes' prose section.",
+      "chosen_heading": "Rabba Disputes",
+      "current_heading": "Rabba Disputes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Kitron & Tzipori",
+    "candidates": [
+      "Kitron & Tzipori",
+      "Zebulun Complaint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ze'ira's identification of Kitron as Tzippori and the etymology of the name, which is exactly what the prose under heading 0 ('Kitron & Tzipori') discusses.",
+      "chosen_heading": "Kitron & Tzipori",
+      "current_heading": "Kitron & Tzipori",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Zebulun Complaint",
+    "candidates": [
+      "Zebulun Complaint",
+      "Ekron=Caesarea"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous Talmudic discussion about whether Kitron is Tzippori, Zebulun's complaint about its portion, God's response about the \u1e25ilazon, and the resolution that fields and vineyards were still preferable \u2014 exactly what the 'Zebulun Complaint' prose describes in full detail.",
+      "chosen_heading": "Zebulun Complaint",
+      "current_heading": "Zebulun Complaint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Ekron=Caesarea",
+    "candidates": [
+      "Ekron=Caesarea",
+      "Destruction Promise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Abbahu's identification of Ekron as Caesarea, which is exactly what the 'Ekron=Caesarea' section's prose describes in detail.",
+      "chosen_heading": "Ekron=Caesarea",
+      "current_heading": "Ekron=Caesarea",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Destruction Promise",
+    "candidates": [
+      "Destruction Promise",
+      "Theaters to Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yosei bar \u1e24anina's interpretation of Zechariah 9:7 regarding 'beit bamya' and 'beit galya,' which is precisely what the 'Destruction Promise' prose section describes and analyzes in detail.",
+      "chosen_heading": "Destruction Promise",
+      "current_heading": "Destruction Promise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Theaters to Study",
+    "candidates": [
+      "Theaters to Study",
+      "Caesarea & Jerusalem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the same Zechariah passage about synagogues/study halls in Edom and theaters/circuses being transformed into Torah-teaching venues, plus the identification of Ekron as Caesarea \u2014 all of which is precisely what the 'Theaters to Study' prose discusses.",
+      "chosen_heading": "Theaters to Study",
+      "current_heading": "Theaters to Study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Caesarea & Jerusalem",
+    "candidates": [
+      "Caesarea & Jerusalem",
+      "Jacob & Esau"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source text about Caesarea and Jerusalem's inverse fortunes, which is precisely what the 'Caesarea & Jerusalem' section's prose discusses and analyzes.",
+      "chosen_heading": "Caesarea & Jerusalem",
+      "current_heading": "Caesarea & Jerusalem",
+      "moved": false
+    }
+  }
+]

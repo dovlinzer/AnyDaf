@@ -1,0 +1,470 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Pre vs Post Disability",
+    "candidates": [
+      "Severed Hands Rule",
+      "Witnesses' Hands Stoning",
+      "Pre vs Post Disability",
+      "Court Observers Testify",
+      "Same Witnesses Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 states Shmuel's rule and its scriptural basis (yad ha'edim tihyeh bo barishona), and Item 2 is the immediate follow-up question about pre-existing amputation with its answer \u2014 both together constitute the full elaboration of the scriptural requirement, which is precisely what heading 1 ('Witnesses' Hands Stoning') discusses, including the technical requirement and its scriptural grounding.",
+      "chosen_heading": "Witnesses' Hands Stoning",
+      "current_heading": "Pre vs Post Disability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Same Witnesses Required",
+    "candidates": [
+      "Court Observers Testify",
+      "Same Witnesses Required",
+      "Backup Execution Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the *meitvei* challenge from the mishna (Makkot 7a) and Shmuel's resolution, which together form the core content described in candidate 0's prose about court observers testifying and the tension with Shmuel's rule \u2014 candidate 1's prose discusses the resolution and its implications in depth, suggesting the quoted text (which includes both the objection and its resolution) belongs under candidate 0 where the challenge is first introduced.",
+      "chosen_heading": "Court Observers Testify",
+      "current_heading": "Same Witnesses Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Backup Execution Methods",
+    "candidates": [
+      "Same Witnesses Required",
+      "Backup Execution Methods",
+      "Murder Exception",
+      "Two Examples Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the question and answer about whether execution by alternative means applies (the baraita raising the challenge to Shmuel and the Gemara's answer distinguishing the murderer case), which is precisely what candidate 1 'Backup Execution Methods' describes in its prose.",
+      "chosen_heading": "Backup Execution Methods",
+      "current_heading": "Backup Execution Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Two Examples Rule",
+    "candidates": [
+      "Murder Exception",
+      "Two Examples Rule",
+      "Blood Redeemer Role",
+      "Court Appoints Redeemer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question and response about why we cannot learn a general principle from this halakha, explaining that rotze'ach and goel ha-dam are two verses that come as one \u2014 this is the rejection of the reasoning, which matches 'Murder Exception' prose that describes exactly this move (the two distinct contexts forming shnei ktuvim ha-ba'im k'echad), whereas 'Two Examples Rule' prose discusses the downstream consequence/application of that hermeneutical principle rather than the Gemara's initial argument itself.",
+      "chosen_heading": "Murder Exception",
+      "current_heading": "Two Examples Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Court Appoints Redeemer",
+    "candidates": [
+      "Blood Redeemer Role",
+      "Court Appoints Redeemer",
+      "Ben Sorer Parents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the murderer case and the blood redeemer's mitzvah obligation plus the court-appointment rule, but its opening focus on establishing the goel ha-dam's scriptural authority and framing it as a mitzvah aligns more with candidate 0's prose about the baraita and the positive obligation, while candidate 1's prose specifically addresses only the court-appointment derivation \u2014 however, since the passage contains both elements and candidate 1 is the current placement discussing the court-appointment principle which is the novel/concluding point, the current placement is actually a reasonable fit, but candidate 0's prose more directly matches the baraita introduction that opens this passage.",
+      "chosen_heading": "Blood Redeemer Role",
+      "current_heading": "Court Appoints Redeemer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Ben Sorer Parents",
+    "candidates": [
+      "Ben Sorer Parents",
+      "Ir HaNidachat Square"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the mishna and its scriptural derivation about disqualified parents of a ben sorer u'moreh, which is exactly what the 'Ben Sorer Parents' prose describes in detail.",
+      "chosen_heading": "Ben Sorer Parents",
+      "current_heading": "Ben Sorer Parents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Ir HaNidachat Square",
+    "candidates": [
+      "Ir HaNidachat Square",
+      "Metzora Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ir ha-nidachat / rechov requirement and the principle of kra kideichtiv, which matches exactly the prose under 'Ir HaNidachat Square' \u2014 item 1 is the Gemara's rejection of a proof from ben sorer u-moreh, items 2-3 are the baraita about rechov and the resolution that both Rabbi Yishmael and Rabbi Akiva agree we need the verse as written.",
+      "chosen_heading": "Ir HaNidachat Square",
+      "current_heading": "Ir HaNidachat Square",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Metzora Requirements",
+    "candidates": [
+      "Metzora Requirements",
+      "Eliezer: All Stoned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the metzora purification dispute between tanna'im regarding the right thumb, big toe, and ear, which is precisely what the 'Metzora Requirements' prose describes.",
+      "chosen_heading": "Metzora Requirements",
+      "current_heading": "Metzora Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Eliezer: All Stoned",
+    "candidates": [
+      "Eliezer: All Stoned",
+      "Chachamim: Two Cases",
+      "Shimon ben Shetach Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing both Rabbi Eliezer's position (all stoned are hung) and the Rabbis' counter-position, and heading 0 is explicitly about this mishna opening the topic of telihah with Rabbi Eliezer's rule, making it the correct home for the full mishna text.",
+      "chosen_heading": "Eliezer: All Stoned",
+      "current_heading": "Eliezer: All Stoned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Shimon ben Shetach Case",
+    "candidates": [
+      "Chachamim: Two Cases",
+      "Shimon ben Shetach Case",
+      "Kilelat Elohim Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Shimon ben Shetach debate \u2014 Rabbi Eliezer's challenge and the Chachamim's response about hanging eighty women on one day \u2014 which is precisely what the 'Shimon ben Shetach Case' prose describes.",
+      "chosen_heading": "Shimon ben Shetach Case",
+      "current_heading": "Shimon ben Shetach Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Kilelat Elohim Pasuk",
+    "candidates": [
+      "Kilelat Elohim Pasuk",
+      "Klal U'Prat Method",
+      "Ribui U'Miut Method",
+      "Face Directions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kilelat Elohim Pasuk",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita dispute between Rabbi Eliezer and the Rabbis about who is hung, which is precisely what the 'Kilelat Elohim Pasuk' prose discusses \u2014 the opening question of who is hung and the pivot around the word kilelat connecting megadef to the law.",
+      "second_heading": "Klal U'Prat Method",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 explain the hermeneutical methods (klal ufrat and ribui umiut) underlying the dispute, which matches the 'Klal U'Prat Method' and 'Ribui U'Miut Method' prose \u2014 but since items 3-5 cover the Rabbis' klal ufrat method and item 6 covers Rabbi Eliezer's ribui umiut, the split_after should be at item 5 to separate them; however, since items 3-6 form one continuous Gemara explanation of both methods, and the klal ufrat heading (index 1) covers items 3-5 while ribui umiut (index 2) covers item 6, the best single home for items 3-6 together is index 1 as it introduces the methodological comparison first.",
+      "current_heading": "Kilelat Elohim Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Face Directions",
+    "candidates": [
+      "Klal U'Prat Method",
+      "Ribui U'Miut Method",
+      "Face Directions",
+      "Women Not Hanged",
+      "Ben Sorer Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dispute between the Rabbis and Rabbi Eliezer over hanging women versus men, deriving from 'oto velo otah' and 'oto velo ksuto' \u2014 exactly what the 'Face Directions' prose describes as the machlokes regarding orientation and the derivations from these verses.",
+      "chosen_heading": "Face Directions",
+      "current_heading": "Face Directions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Ben Sorer Exception",
+    "candidates": [
+      "Women Not Hanged",
+      "Ben Sorer Exception",
+      "Two Cases Rule",
+      "Different Execution Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the exact content described in 'Ben Sorer Exception' prose: Reish Lakish's question about ben sorer u'moreh, the braita attributing hanging to Rabbi Eliezer, Rav Nachman bar Yitzchak's resolution via miut achar miut, and the ish/chet exclusions \u2014 all perfectly matching the current placement.",
+      "chosen_heading": "Ben Sorer Exception",
+      "current_heading": "Ben Sorer Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Different Execution Types",
+    "candidates": [
+      "Two Cases Rule",
+      "Different Execution Types",
+      "Adultery Challenge",
+      "Bat Kohen Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav \u1e24isda's ruling and its revision \u2014 exactly the content described in the 'Different Execution Types' prose, which explicitly covers both 'lo shanu ela bishtei mitot' and the revised formulation 'lo shanu ela bemita achat ke'ein shtei mitot / aval bemita achat va'aveirah achat danin'.",
+      "chosen_heading": "Different Execution Types",
+      "current_heading": "Different Execution Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Bat Kohen Resolution",
+    "candidates": [
+      "Adultery Challenge",
+      "Bat Kohen Resolution",
+      "Rabbi Elazar Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution sequence (Rav Adda's objection plus Rav \u1e24isda's two interpretations) that belongs under 'Adultery Challenge', whose prose explicitly discusses Rav Ada's challenge and notes it is about the adulterer/adulteress case \u2014 the 'Bat Kohen Resolution' prose already covers the Rav \u1e24isda resolution narratively, but the Gemara passage as a unit (objection + answer) is best placed under the heading whose prose introduces the objection itself.",
+      "chosen_heading": "Adultery Challenge",
+      "current_heading": "Bat Kohen Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rabbi Elazar Statement",
+    "candidates": [
+      "Bat Kohen Resolution",
+      "Rabbi Elazar Statement",
+      "Syag LaTorah Purpose",
+      "Horse Riding Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Eliezer ben Ya'akov stating that beit din may administer punishments not required by Torah law in order to build a fence around Torah, which is precisely what the 'Rabbi Elazar Statement' prose describes.",
+      "chosen_heading": "Rabbi Elazar Statement",
+      "current_heading": "Rabbi Elazar Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Horse Riding Example",
+    "candidates": [
+      "Syag LaTorah Purpose",
+      "Horse Riding Example",
+      "Public Relations Example",
+      "Hanging Procedure",
+      "Yosei Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the horse-riding and fig tree incidents, and the current heading 'Horse Riding Example' with its prose explicitly discusses both illustrations as part of the same Talmudic passage about hora'at sha'ah enforcement.",
+      "chosen_heading": "Horse Riding Example",
+      "current_heading": "Horse Riding Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Yosei Alternative",
+    "candidates": [
+      "Public Relations Example",
+      "Hanging Procedure",
+      "Yosei Alternative",
+      "Immediate Removal",
+      "No Overnight Hanging",
+      "Divine Curse Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna describes the full hanging procedure including both the standard method (post sunk in ground with jutting wood) and Rabbi Yosei's alternative, so the entire passage belongs under 'Hanging Procedure' which introduces the practical procedure of telihah \u2014 the current placement under 'Yosei Alternative' captures only the second half of the mishna's content.",
+      "chosen_heading": "Hanging Procedure",
+      "current_heading": "Yosei Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Divine Curse Reason",
+    "candidates": [
+      "Immediate Removal",
+      "No Overnight Hanging",
+      "Divine Curse Reason",
+      "Rabbi Meir Suffering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 immediate untying, the overnight prohibition with its verse, and the desecration-of-God's-name rationale \u2014 but its final and most substantive clause explains *why* overnight hanging is prohibited (beirach et HaShem / Shem Shamayim mitchalel), which is precisely what candidate 2 'Divine Curse Reason' discusses in its prose.",
+      "chosen_heading": "Divine Curse Reason",
+      "current_heading": "Divine Curse Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Rabbi Meir Suffering",
+    "candidates": [
+      "Rabbi Meir Suffering",
+      "Honor Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's teaching about divine suffering over human pain and the kal vachomer regarding the righteous, which matches exactly the prose under 'Rabbi Meir Suffering'.",
+      "chosen_heading": "Rabbi Meir Suffering",
+      "current_heading": "Rabbi Meir Suffering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Honor Exception",
+    "candidates": [
+      "Honor Exception",
+      "Burial Plot Types",
+      "Bone Gathering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the general prohibition against leaving any corpse overnight and the honor exception for procuring a coffin or shrouds, which is precisely what the 'Honor Exception' section's prose addresses.",
+      "chosen_heading": "Honor Exception",
+      "current_heading": "Honor Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Bone Gathering",
+    "candidates": [
+      "Burial Plot Types",
+      "Bone Gathering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the two graveyards and the bone-gathering practice, but its opening content about the two dedicated criminal cemeteries and their separation by execution type is the primary focus, matching 'Burial Plot Types' prose more precisely, while the 'Bone Gathering' section's prose already covers the decomposition/reburial detail separately.",
+      "chosen_heading": "Burial Plot Types",
+      "current_heading": "Bone Gathering",
+      "moved": true
+    }
+  }
+]

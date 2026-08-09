@@ -1,0 +1,508 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Slave Work Case",
+    "candidates": [
+      "Mishna Overview",
+      "Slave Work Case",
+      "Rava's Challenge",
+      "Rav Nachman Defense",
+      "Servants Differ"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef bar Chama seizing debtors' slaves and working them, Rava's question, and Rav Yosef's defense citing Rav Nachman \u2014 all of which maps most directly to the 'Slave Work Case' heading's prose introducing this exact scenario, and the current placement is correct.",
+      "chosen_heading": "Slave Work Case",
+      "current_heading": "Slave Work Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Servants Differ",
+    "candidates": [
+      "Rava's Challenge",
+      "Rav Nachman Defense",
+      "Servants Differ",
+      "Rav Daniel Position",
+      "Master Benefits Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's challenge about Dari's uniqueness and Rav Yosef's response citing Rav Daniel bar Rav Katina, but the current placement under 'Servants Differ' captures both parts since the Rav Daniel citation is Rav Yosef's reply within the same exchange, and section 2's prose explicitly covers Rava's pushback about Dari \u2014 however, the passage also includes the Rav Daniel ruling which belongs to section 3, yet since the item must go under ONE heading and it begins with Rava's Dari argument (section 2's content), the current placement is the best single match.",
+      "chosen_heading": "Servants Differ",
+      "current_heading": "Servants Differ",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Master Benefits Logic",
+    "candidates": [
+      "Rav Daniel Position",
+      "Master Benefits Logic",
+      "Context Changes Rule",
+      "Living in House Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the reasoning 'd'nicha leh d'lo nistaryei avdei' (it is satisfactory for the master that his slave not be undone), which is precisely what the 'Master Benefits Logic' prose explains and quotes.",
+      "chosen_heading": "Master Benefits Logic",
+      "current_heading": "Master Benefits Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Living in House Case",
+    "candidates": [
+      "Context Changes Rule",
+      "Living in House Case",
+      "Concession",
+      "Interest Cases Intro",
+      "Grain Payment",
+      "Abayei's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rava's response about the creditor situation (candidate 0's prose), the Rav Nachman ruling about lending and residing in a courtyard (candidate 1's prose), and the concession (candidate 2's prose) \u2014 but as a single continuous unit, it belongs under candidate 0 ('Context Changes Rule') where Rava's decisive response and the ribbit appearance argument are introduced, since that is where the passage begins and the Rav Nachman citation and concession follow as part of that same argument.",
+      "chosen_heading": "Context Changes Rule",
+      "current_heading": "Living in House Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Abayei's Rule",
+    "candidates": [
+      "Concession",
+      "Interest Cases Intro",
+      "Grain Payment",
+      "Abayei's Rule",
+      "Rava's Counterargument",
+      "Cloak Case",
+      "Explicit Interest Only",
+      "Return All Property",
+      "Perception Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Abaye and Rava's dispute about the grain payment case, which is exactly what the 'Grain Payment' section's prose introduces \u2014 that section sets up the scenario and asks the precise question the passage answers, making it the natural home for this text rather than 'Abayei's Rule' which covers only Abaye's ruling without the full dispute.",
+      "chosen_heading": "Grain Payment",
+      "current_heading": "Abayei's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Perception Problem",
+    "candidates": [
+      "Rava's Counterargument",
+      "Cloak Case",
+      "Explicit Interest Only",
+      "Return All Property",
+      "Perception Problem",
+      "House Rental Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's ruling (only four zuz returned, not the cloak) and Rava's reasoning about perception ('so that people should not say the cloak is an interest cloak'), which is precisely what the 'Perception Problem' section's prose discusses in detail.",
+      "chosen_heading": "Perception Problem",
+      "current_heading": "Perception Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "House Rental Case",
+    "candidates": [
+      "House Rental Case",
+      "Lender Agreed",
+      "Accepted Terms",
+      "Borrower Protection",
+      "Mishna Rule",
+      "Rental Example",
+      "Sale Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's case of a twelve-zuz interest debt with a courtyard rented at twelve instead of the market rate of ten, which is exactly what the 'House Rental Case' prose describes as Rava's third complex case.",
+      "chosen_heading": "House Rental Case",
+      "current_heading": "House Rental Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Sale Example",
+    "candidates": [
+      "Lender Agreed",
+      "Accepted Terms",
+      "Borrower Protection",
+      "Mishna Rule",
+      "Rental Example",
+      "Sale Example",
+      "Baseline Analysis",
+      "Discount vs. Interest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lender Agreed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav A\u1e25a miDifti's challenge arguing the lender should only return ten zuz, which matches heading 0 ('Lender Agreed') whose prose describes exactly this argument that the lender accepted the inflated rate knowing the excess was ribbit and should now be revalued at ten.",
+      "second_heading": "Mishna Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna introducing marbin al hasachar ve'ein marbin al hamekach, which is the new self-contained unit described by heading 3 ('Mishna Rule') whose prose directly paraphrases this exact Mishna text and its two cases.",
+      "current_heading": "Sale Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Discount vs. Interest",
+    "candidates": [
+      "Baseline Analysis",
+      "Discount vs. Interest",
+      "Sale Baseline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question ('what is different in the first clause and what is different in the latter clause?') plus the answer from Rabba and Rav Yosef, and Candidate 0 ('Baseline Analysis') explicitly describes this as the Gemara asking 'mai shna reisha u'mai shna seifa,' making it the best match for the full passage including both the question and its answer.",
+      "chosen_heading": "Baseline Analysis",
+      "current_heading": "Discount vs. Interest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Sale Baseline",
+    "candidates": [
+      "Discount vs. Interest",
+      "Sale Baseline",
+      "Scriptural Basis",
+      "Debt vs. Payable",
+      "Rav Nachman Permits",
+      "Tarsha Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the 'sale baseline' ruling (latter clause = sale = agar natar = forbidden) AND Rava's derivation from the verse 'kisechir shana b'shana,' and the Scriptural Basis section's prose is specifically about Rava citing that very pasuk to ground the end-of-period payment principle \u2014 making it the best single home for this combined content, though the sale ruling portion overlaps with index 1.",
+      "chosen_heading": "Scriptural Basis",
+      "current_heading": "Sale Baseline",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Tarsha Definition",
+    "candidates": [
+      "Scriptural Basis",
+      "Debt vs. Payable",
+      "Rav Nachman Permits",
+      "Tarsha Definition",
+      "Mishna Challenge",
+      "Explicit vs. Implicit",
+      "Rav Pappa Case",
+      "No Lender Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Nachman's ruling that tarsha is permitted (item 1) followed immediately by the challenge from Rami/Rav Ukva bar Hama and Rav Nachman's response (item 2), which is precisely what the 'Rav Nachman Permits' prose describes as coming right after the mishnah's prohibition and being striking on its face \u2014 the challenge and resolution are part of the same continuous unit introducing and defending Rav Nachman's ruling.",
+      "chosen_heading": "Rav Nachman Permits",
+      "current_heading": "Tarsha Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "No Lender Benefit",
+    "candidates": [
+      "Mishna Challenge",
+      "Explicit vs. Implicit",
+      "Rav Pappa Case",
+      "No Lender Benefit",
+      "Borrower Perspective",
+      "Buyer's Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's direct statement of his own case ('tarsha didi shari'), which matches the 'Rav Pappa Case' section prose that introduces his claim and his beer business scenario, rather than the 'No Lender Benefit' section which discusses the justification/analysis of why it's permitted.",
+      "chosen_heading": "Rav Pappa Case",
+      "current_heading": "No Lender Benefit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Buyer's Need",
+    "candidates": [
+      "Borrower Perspective",
+      "Buyer's Need",
+      "Market Arbitrage",
+      "Price Differential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheshet's challenge to Rav Pappa about viewing the transaction from the buyer's perspective and the buyer's lack of liquidity driving the higher price, which is exactly what candidate 1's prose discusses.",
+      "chosen_heading": "Buyer's Need",
+      "current_heading": "Buyer's Need",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Price Differential",
+    "candidates": [
+      "Market Arbitrage",
+      "Price Differential",
+      "Permission Granted",
+      "Product Insurance",
+      "Buyer Benefits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav \u1e24ama's tarsha arrangement as permissible, describing the basic structure of buying at a low-price location and selling at a high-price location \u2014 which matches 'Market Arbitrage' prose exactly, not the 'Price Differential' section which discusses the detailed mechanics and the buyer's float strategy.",
+      "chosen_heading": "Market Arbitrage",
+      "current_heading": "Price Differential",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Buyer Benefits",
+    "candidates": [
+      "Permission Granted",
+      "Product Insurance",
+      "Buyer Benefits",
+      "Favor Exchange",
+      "Rav Chama Ruling",
+      "Ribbit Ketzuza",
+      "Rav Yannai Rule",
+      "Reconciliation",
+      "Partial Payment",
+      "Fruit Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly explains the concrete benefits (tax exemption and market priority) that the buyer receives from the seller's reputation \u2014 precisely what the 'Buyer Benefits' section describes.",
+      "chosen_heading": "Buyer Benefits",
+      "current_heading": "Buyer Benefits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Fruit Ambiguity",
+    "candidates": [
+      "Favor Exchange",
+      "Rav Chama Ruling",
+      "Ribbit Ketzuza",
+      "Rav Yannai Rule",
+      "Reconciliation",
+      "Partial Payment",
+      "Fruit Ambiguity",
+      "Third Party Hold",
+      "Conditional Pledge",
+      "Bisos Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a summary halakhic ruling covering Rav \u1e24ama, Rabbi Elazar, and Rabbi Yannai, and candidate 1 ('Rav Chama Ruling') is explicitly about the halacha following Rav Chama \u2014 the first and primary ruling in this summary \u2014 making it the natural home for this consolidated ruling statement.",
+      "chosen_heading": "Rav Chama Ruling",
+      "current_heading": "Fruit Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Bisos Example",
+    "candidates": [
+      "Third Party Hold",
+      "Conditional Pledge",
+      "Bisos Example",
+      "Seller Eats",
+      "Third Party"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishnah covers both the prohibited partial-payment sale and the permitted conditional pledge arrangement, and candidate 1 ('Conditional Pledge') is the heading whose prose directly introduces this mishnah's content about a lender giving a loan with land as collateral forfeited if not repaid \u2014 the Bisos example is a sub-discussion *within* that mishnah, not a separate passage.",
+      "chosen_heading": "Conditional Pledge",
+      "current_heading": "Bisos Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Third Party",
+    "candidates": [
+      "Seller Eats",
+      "Third Party",
+      "Sequential Payment",
+      "Raba's Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both Rav Huna's ruling (seller eats the fruit) and Rav Anan's ruling (third party holds the fruit) together as a unit, and the 'Seller Eats' heading's prose specifically describes Rav Huna's ruling as the primary subject, making it the better home for the passage that opens with Rav Huna's position before explaining the reconciliation.",
+      "chosen_heading": "Seller Eats",
+      "current_heading": "Third Party",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Raba's Framework",
+    "candidates": [
+      "Sequential Payment",
+      "Raba's Framework",
+      "Proportional Share",
+      "Retroactive Ambiguity",
+      "Sequential Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita from the school of Rabbi \u1e24iyya enumerating the four configurations, which is precisely what Raba's Framework prose describes as the starting point for Raba's systematic analysis.",
+      "chosen_heading": "Raba's Framework",
+      "current_heading": "Raba's Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Sequential Ownership",
+    "candidates": [
+      "Proportional Share",
+      "Retroactive Ambiguity",
+      "Sequential Ownership",
+      "Immediate Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present Rava's four-case analysis and the subsequent tanna-identification question, and item 1 introduces the 'both prohibited' case (leki mayteit...me'achshav) which is precisely what candidate 1's prose describes as the mishnah's case of retroactive ambiguity where neither party may eat.",
+      "chosen_heading": "Retroactive Ambiguity",
+      "current_heading": "Sequential Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Immediate Ownership",
+    "candidates": [
+      "Sequential Ownership",
+      "Immediate Ownership",
+      "Rabbi Yehuda Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita discusses a lender demanding the right to repurchase a pledged house or field at a fixed price \u2014 a restriction on future sale \u2014 which is about conditional/sequential ownership arrangements and the prohibition of interest via below-market sale prices, not about immediate ownership transfer, making heading 0 ('Sequential Ownership') a clearly better match than heading 1.",
+      "chosen_heading": "Sequential Ownership",
+      "current_heading": "Immediate Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Rabbi Yehuda Dispute",
+    "candidates": [
+      "Rabbi Yehuda Dispute",
+      "Tzad Echad Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly identifies the tanna as 'not Rabbi Yehuda' because Rabbi Yehuda permits tzad echad b'ribbit, which is precisely what the 'Tzad Echad Rule' section's prose explains in detail.",
+      "chosen_heading": "Tzad Echad Rule",
+      "current_heading": "Rabbi Yehuda Dispute",
+      "moved": true
+    }
+  }
+]

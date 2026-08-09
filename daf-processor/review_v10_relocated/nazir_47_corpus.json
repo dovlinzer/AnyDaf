@@ -1,0 +1,297 @@
+[
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Miriam's Daughter Dies",
+    "candidates": [
+      "Opening & Daf Overview",
+      "Beard Shaving Q&A",
+      "Mishnah: Blood & Tumah",
+      "Eliezer vs. Chachamim",
+      "Tosafot: Veyit'har Order",
+      "Sources: Yerushalmi",
+      "Tumah Can't Destroy",
+      "Tosafot Clarification",
+      "Miriam's Daughter Dies",
+      "Chachamim's Ruling",
+      "Gemara: Soter Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself, covering both the Rabbi Eliezer/Chachamim dispute and the Miriam of Tarmod incident in one unit, and candidate 2 ('Mishnah: Blood & Tumah') is the prose section explicitly introducing and contextualizing this mishnah.",
+      "chosen_heading": "Mishnah: Blood & Tumah",
+      "current_heading": "Miriam's Daughter Dies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Gemara: Soter Definition",
+    "candidates": [
+      "Chachamim's Ruling",
+      "Gemara: Soter Definition",
+      "Perek Shloshim: Issurim",
+      "Kol Tumah Nazir",
+      "Kohen Gadol vs Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of what Rabbi Eliezer means by 'soter' (negating the offerings, not the days), supported by the Rabbis' ruling and the case of Miriam of Tarmod \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Gemara: Soter Definition",
+      "current_heading": "Gemara: Soter Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Kohen Gadol vs Nazir",
+    "candidates": [
+      "Perek Shloshim: Issurim",
+      "Kol Tumah Nazir",
+      "Kohen Gadol vs Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The hadran declaration '\u05d4\u05b7\u05d3\u05b0\u05e8\u05b8\u05df \u05e2\u05b2\u05dc\u05b8\u05da\u05b0 \u05e9\u05b0\u05c1\u05dc\u05b9\u05e9\u05b8\u05c1\u05d4 \u05de\u05b4\u05d9\u05e0\u05b4\u05d9\u05df' marks the conclusion of the perek of sheloshah minim, which is precisely what the prose under heading 0 describes \u2014 the wrap-up of that perek before moving to the next one.",
+      "chosen_heading": "Perek Shloshim: Issurim",
+      "current_heading": "Kohen Gadol vs Nazir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Kohen Gadol vs Nazir",
+    "candidates": [
+      "Kohen Gadol vs Nazir",
+      "Eliezer: Kohen Gadol",
+      "Chachamim: Nazir Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces both the general rule (kohen gadol and nazir cannot become tamei to relatives but can for met mitzva) and the specific dispute scenario (traveling together and finding met mitzva), which is exactly what the 'Kohen Gadol vs Nazir' section's prose is discussing and translating.",
+      "chosen_heading": "Kohen Gadol vs Nazir",
+      "current_heading": "Kohen Gadol vs Nazir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Chachamim: Nazir Priority",
+    "candidates": [
+      "Eliezer: Kohen Gadol",
+      "Chachamim: Nazir Priority",
+      "Anointed vs. Garmented"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chachamim: Nazir Priority",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Mishnaic dispute between Rabbi Eliezer and the Rabbis (Chachamim) about priest vs. nazirite priority, which is exactly what heading 1 'Chachamim: Nazir Priority' discusses \u2014 the chachamim's response grounded in kedushat olam.",
+      "second_heading": "Anointed vs. Garmented",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Gemara that transitions to a new series of cases comparing figures of comparable status (beginning with High Priest and nazirite, then moving to anointed vs. garmented), which matches heading 2 'Anointed vs. Garmented' and its description of the Gemara's series of thought experiments.",
+      "current_heading": "Chachamim: Nazir Priority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Anointed vs. Garmented",
+    "candidates": [
+      "Anointed vs. Garmented",
+      "Off-Duty vs. Active"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the anointed vs. garmented High Priest case, which is precisely what candidate 0's prose addresses, including the ruling that the anointed one is preferable and the reason involving the bull offering for all mitzvot.",
+      "chosen_heading": "Anointed vs. Garmented",
+      "current_heading": "Anointed vs. Garmented",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Off-Duty vs. Active",
+    "candidates": [
+      "Off-Duty vs. Active",
+      "Avar Chemat Kiryo vs Muma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mashuach she'avar vs. merubeh begadim ruling with the reasoning that merubeh begadim adif because he still performs avodah, which is precisely what the prose in 'Off-Duty vs. Active' discusses.",
+      "chosen_heading": "Off-Duty vs. Active",
+      "current_heading": "Off-Duty vs. Active",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Avar Chemat Kiryo vs Muma",
+    "candidates": [
+      "Avar Chemat Kiryo vs Muma",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of avar machmas kiryo vs avar machmas muma, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Avar Chemat Kiryo vs Muma",
+      "current_heading": "Avar Chemat Kiryo vs Muma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Question Posed",
+      "Baraita Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the question itself (the dilemma raised about mashuach milchama vs. segan), which matches exactly the 'Question Posed' heading's prose discussing that very dilemma, not the baraita answer.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Question Posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Baraita Answer",
+    "candidates": [
+      "Baraita Answer",
+      "Rationale: Sgan's Role",
+      "Contradiction Noted",
+      "Two Contexts, Two Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself ('tashma detanya') being cited, which matches exactly the 'Baraita Answer' section's prose describing this very citation.",
+      "chosen_heading": "Baraita Answer",
+      "current_heading": "Baraita Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Two Contexts, Two Rules",
+    "candidates": [
+      "Rationale: Sgan's Role",
+      "Contradiction Noted",
+      "Two Contexts, Two Rules",
+      "Tosafot: Mashuach Mil.",
+      "Individual Permission",
+      "Source Question",
+      "Pesuk: Le'aviv U'le'imo",
+      "Kal Va'chomer Logic",
+      "Both Phrases Extra?",
+      "Le'aviv Meit Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Mar Zutra's resolution distinguishing between life-saving (mashuach milchama priority) and tumah (sgan priority), which is precisely what candidate 2 ('Two Contexts, Two Rules') discusses in its prose.",
+      "chosen_heading": "Two Contexts, Two Rules",
+      "current_heading": "Two Contexts, Two Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Le'aviv Meit Mitzvah",
+    "candidates": [
+      "Tosafot: Mashuach Mil.",
+      "Individual Permission",
+      "Source Question",
+      "Pesuk: Le'aviv U'le'imo",
+      "Kal Va'chomer Logic",
+      "Both Phrases Extra?",
+      "Le'aviv Meit Mitzvah",
+      "Nazir's Le'imo Scope"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Individual Permission",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the foundational question of where the permission for a kohen gadol/nazir to become tamei to a met mitzva comes from, and the kal va-chomer logic establishing that 'al kol nafshot met' refers to relatives \u2014 matching headings 1/2/4.",
+      "second_heading": "Le'aviv Meit Mitzvah",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 expound the extra phrases 'le'aviv' and 'le'imo' to derive the met mitzva permission and the gezeira shava for the nazir, which is precisely what heading 6 ('Le'aviv Meit Mitzvah') and its prose describe in detail.",
+      "current_heading": "Le'aviv Meit Mitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Nazir's Le'imo Scope",
+    "candidates": [
+      "Nazir's Le'imo Scope",
+      "Applied to Kohen Gadol",
+      "Redundancy Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous braisa about deriving the imo prohibition for the kohen gadol via kal vachomer and then the gezeira shava with the nazir's imo \u2014 exactly the content described in candidate 0's prose about the braisa that opens with the nazir, the kal vachomer argument, and the question of why imo needs to be stated if it can be derived logically.",
+      "chosen_heading": "Nazir's Le'imo Scope",
+      "current_heading": "Nazir's Le'imo Scope",
+      "moved": false
+    }
+  }
+]

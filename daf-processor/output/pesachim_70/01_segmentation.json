@@ -59,7 +59,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Mishnah on Chagigah: When It Is and Is Not Brought",
@@ -106,7 +106,7 @@
           "timestamp": "13:51"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -120,7 +120,7 @@
           "timestamp": "15:50"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -221,8 +221,8 @@
           "timestamp": "48:41"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Why Chagigah Does Not Override Shabbat: Examining the Reasons",
@@ -733,5 +733,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "36:47",
+  "amud_b_micro_title": "Resolution",
+  "shiur_start_daf": 70,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rabbi Meir Dispute",
+    "candidates": [
+      "Perek Overview",
+      "Mishna's Logic",
+      "One vs. Two Witnesses",
+      "Consequences as Mechanism",
+      "Stripping Stam",
+      "Reinterpreting Terms",
+      "Natural Consequences",
+      "Married to Two",
+      "No Recognition",
+      "Audience Q&A",
+      "Three Approaches",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Stam Rejects Limits",
+      "Tosafot's View",
+      "Rashi's View",
+      "Ra'ah's View",
+      "Repayment Rule",
+      "Rabbi Meir Dispute",
+      "Raba's Solution",
+      "Negating Payment",
+      "Rav Acha's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 18,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion of the Sumakhos/Rabbi Meir vs. Chachamim dispute about repaying teruma with impure chullin, including the baraita, the question about intentional payment, Rava's reconstruction, and the betrothal problem \u2014 exactly the content described in the 'Rabbi Meir Dispute' prose.",
+      "chosen_heading": "Rabbi Meir Dispute",
+      "current_heading": "Rabbi Meir Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav Acha's Answer",
+    "candidates": [
+      "Raba's Solution",
+      "Negating Payment",
+      "Rav Acha's Answer",
+      "Hefker Requirement",
+      "Blood Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a's answer about the distinction between shogeg and mezid, which is precisely what the 'Rav Acha's Answer' section's prose describes.",
+      "chosen_heading": "Rav Acha's Answer",
+      "current_heading": "Rav Acha's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Blood Atonement",
+    "candidates": [
+      "Hefker Requirement",
+      "Blood Atonement",
+      "Tzitz Contradiction",
+      "R. Yose's Answer",
+      "Gemara Objection",
+      "Shev Ve'al Ta'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete sugya about impure blood being sprinkled on the altar \u2014 the initial proof attempt (item 1), the elaboration that this is a case where Torah law effects acceptance yet rabbis say it doesn't (item 2), and Rabbi Yosei bar \u1e24anina's resolution (item 3) \u2014 which precisely matches the 'Blood Atonement' section's prose describing this as the gemara's second extended case bearing on yesh koach involving dam that became tamei.",
+      "chosen_heading": "Blood Atonement",
+      "current_heading": "Blood Atonement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Shev Ve'al Ta'aseh",
+    "candidates": [
+      "Tzitz Contradiction",
+      "R. Yose's Answer",
+      "Gemara Objection",
+      "Shev Ve'al Ta'aseh",
+      "Seven Examples",
+      "Arel Example",
+      "Haza'ah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's answer of 'shev ve'al ta'aseh shani' \u2014 sit and refrain from action is different \u2014 which is precisely what section 3 ('Shev Ve'al Ta'aseh') discusses as the gemara's resolution to the objection about uprooting the kohanim's eating obligation.",
+      "chosen_heading": "Shev Ve'al Ta'aseh",
+      "current_heading": "Shev Ve'al Ta'aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Haza'ah Example",
+    "candidates": [
+      "Seven Examples",
+      "Arel Example",
+      "Haza'ah Example",
+      "Concession",
+      "Elijah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together present the full series of seven examples (arel, haza'ah, izmel, sadin b'tzitzit, kivsei atzeret, shofar, lulav) followed by the concession that they are all shev ve'al ta'aseh \u2014 exactly what heading 2's prose describes as its content, covering all seven cases and their resolution.",
+      "chosen_heading": "Haza'ah Example",
+      "current_heading": "Haza'ah Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Elijah Case",
+    "candidates": [
+      "Concession",
+      "Elijah Case",
+      "Special Mitzva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Talmudic proof from 'elav tishme'un' and the Elijah at Mount Carmel case, which is precisely what the 'Elijah Case' section's prose describes \u2014 the gemara citing this paradigmatic case to explore whether a navi can override Torah law.",
+      "chosen_heading": "Elijah Case",
+      "current_heading": "Elijah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Special Mitzva",
+    "candidates": [
+      "Special Mitzva",
+      "Migdar Milta",
+      "Tzitzit Clarification",
+      "Get Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the 'elav tishme'un' special mitzva point and the migdar milta point together, but the current placement under 'Special Mitzva' is reasonable since the text begins with that answer and migdar milta follows as a continuation; however, the content spans both headings 0 and 1, and since it must go under one, the current placement is acceptable given the passage opens with the shani hatam/elav tishme'un point that heading 0's prose discusses.",
+      "chosen_heading": "Special Mitzva",
+      "current_heading": "Special Mitzva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Get Scenario",
+    "candidates": [
+      "Migdar Milta",
+      "Tzitzit Clarification",
+      "Get Scenario",
+      "Annulment Debate",
+      "Rabban Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's case of get annulment and the dispute between Rabbi Yehuda HaNasi and Rabban Shimon ben Gamliel, which is introduced and framed by the 'Get Scenario' prose heading (index 2) that sets up exactly this talmudic discussion.",
+      "chosen_heading": "Get Scenario",
+      "current_heading": "Get Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Rabban Shimon",
+    "candidates": [
+      "Annulment Debate",
+      "Rabban Shimon",
+      "Hafka'as Answer",
+      "Redefining Act",
+      "Fig Leaf Limit",
+      "Tosafot Link",
+      "R. Elazar",
+      "Horse Riding"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabban Shimon",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the challenge that by Torah law the get is nullified yet we permit a married woman to remarry (the 'mah koach beit din' proof), which is precisely the content described under 'Rabban Shimon' about the power of the court overriding a Torah-level annulment.",
+      "second_heading": "Hafka'as Answer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Ravina/Rav Ashi exchange about betrothal by sexual intercourse and the answer that the Sages redefine the act as licentious intercourse, which matches exactly the 'Hafka'as Answer' prose about ada'ata de'rabbanan and the gemara rejecting the inference by invoking hafka'as kiddushin.",
+      "current_heading": "Rabban Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Horse Riding",
+    "candidates": [
+      "Hafka'as Answer",
+      "Redefining Act",
+      "Fig Leaf Limit",
+      "Tosafot Link",
+      "R. Elazar",
+      "Horse Riding",
+      "Public Relations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar ben Yaakov's statement about beit din administering extra-Torah punishments as a safeguard, which is precisely what candidate 4 ('R. Elazar') introduces, while candidate 5 ('Horse Riding') covers only the specific maaseh about the horse rider that follows from that statement.",
+      "chosen_heading": "R. Elazar",
+      "current_heading": "Horse Riding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Public Relations",
+    "candidates": [
+      "Horse Riding",
+      "Public Relations",
+      "Migdar Limit",
+      "Conceded Uses",
+      "Tosafot Condition",
+      "Inconclusive",
+      "Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of a man cohabiting with his wife under a fig tree and being flogged, which is precisely what the 'Public Relations' section's prose describes.",
+      "chosen_heading": "Public Relations",
+      "current_heading": "Public Relations",
+      "moved": false
+    }
+  }
+]

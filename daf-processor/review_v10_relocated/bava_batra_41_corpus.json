@@ -1,0 +1,231 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Mishna Cases",
+    "candidates": [
+      "Chazaka Requires Claim",
+      "Mishna Cases",
+      "No Hidden Claims"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chazaka Requires Claim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna presenting the rule that chazaka requires a ta'ana and its illustrative cases, which candidate 0 ('Chazaka Requires Claim') directly introduces, while candidate 1 ('Mishna Cases') also covers these cases but is the current placement.",
+      "second_heading": "No Hidden Claims",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's 'pshita' question, which candidate 2 ('No Hidden Claims') explicitly opens with and develops at length.",
+      "current_heading": "Mishna Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "No Hidden Claims",
+    "candidates": [
+      "Mishna Cases",
+      "No Hidden Claims",
+      "Wall Encroachment",
+      "Immediate Use Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the hava amina about a lost shtar, the p'tach picha le'ilem principle, and why the court does not prompt the litigant \u2014 exactly what the 'No Hidden Claims' prose discusses.",
+      "chosen_heading": "No Hidden Claims",
+      "current_heading": "No Hidden Claims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Immediate Use Dispute",
+    "candidates": [
+      "Wall Encroachment",
+      "Immediate Use Dispute",
+      "Mechila from Actions",
+      "Accidental Consent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mnemonic and the full incident \u2014 the flood washing away the wall, Rav Anan rebuilding it on his neighbor's land, and Rav Na\u1e25man's ruling to return it plus the chazaka dispute \u2014 all belong under 'Wall Encroachment,' which is precisely the heading whose prose describes this flooding/wall-rebuilding scenario, whereas the current heading 'Immediate Use Dispute' covers only the later exchange about Rabbi Yehuda/Rabbi Yishmael that continues from this starting point.",
+      "chosen_heading": "Wall Encroachment",
+      "current_heading": "Immediate Use Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Accidental Consent",
+    "candidates": [
+      "Mechila from Actions",
+      "Accidental Consent",
+      "Two Witnesses Disagree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Nachman's response explaining that the neighbor's participation in building the wall was mechila be'ta'ut (erroneous waiver) because neither party knew the wall was on the wrong land \u2014 exactly what the 'Accidental Consent' section's prose describes and analyzes.",
+      "chosen_heading": "Accidental Consent",
+      "current_heading": "Accidental Consent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Two Witnesses Disagree",
+    "candidates": [
+      "Two Witnesses Disagree",
+      "Overlapping Testimony",
+      "Combining Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the Rav Kahana flooding incident and the testimony of two witnesses disagreeing on two vs. three rows \u2014 exactly what candidate 0's prose discusses, before the ruling and its legal analysis are treated separately under candidates 1 and 2.",
+      "chosen_heading": "Two Witnesses Disagree",
+      "current_heading": "Two Witnesses Disagree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Combining Witnesses",
+    "candidates": [
+      "Overlapping Testimony",
+      "Combining Witnesses",
+      "Challenge to Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Rabbi Shimon ben Elazar distinguishing two sets of witnesses from one set, which is precisely what the 'Combining Witnesses' prose describes in detail as the content Rav Kahana cited when challenging Rav Yehuda's ruling.",
+      "chosen_heading": "Combining Witnesses",
+      "current_heading": "Combining Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Challenge to Ruling",
+    "candidates": [
+      "Challenge to Ruling",
+      "Four-Year Occupancy",
+      "One-Day Presence Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Kahana's challenge about a letter from Eretz Yisrael and Rav Yehuda's conditional response, which is precisely what the 'Challenge to Ruling' prose section describes.",
+      "chosen_heading": "Challenge to Ruling",
+      "current_heading": "Challenge to Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "One-Day Presence Test",
+    "candidates": [
+      "Four-Year Occupancy",
+      "One-Day Presence Test",
+      "One Day Requirement",
+      "Direct Knowledge or Edim",
+      "Inheritance Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the narrative setup of the four-year occupancy case and the occupant's claim about an intermediate purchaser coming before Rabbi \u1e24iyya, which corresponds directly to heading 0's prose about the man living in the attic, the owner's challenge, and the case being brought before Rabbi Chiya \u2014 before Rabbi Chiya's actual ruling (which is discussed in heading 1).",
+      "chosen_heading": "Four-Year Occupancy",
+      "current_heading": "One-Day Presence Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Inheritance Parallel",
+    "candidates": [
+      "One Day Requirement",
+      "Direct Knowledge or Edim",
+      "Inheritance Parallel",
+      "What Counts as Presence",
+      "Successive Owners",
+      "Shtarot Required",
+      "Public Notice Doctrine"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Inheritance Parallel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rav's night-transaction challenge, Rabbi Chiya's migo-based ruling, Rava's support from the inheritance mishna, and the rebuttals about proof/buyer's due diligence \u2014 all of which the 'Inheritance Parallel' prose explicitly discusses in sequence.",
+      "second_heading": "What Counts as Presence",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises the distinct dilemma of whether being 'seen on' the property (scouting) counts as presence, with the Abaye/Rava dispute, which is precisely what the 'What Counts as Presence' prose describes.",
+      "current_heading": "Inheritance Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Public Notice Doctrine",
+    "candidates": [
+      "What Counts as Presence",
+      "Successive Owners",
+      "Shtarot Required",
+      "Public Notice Doctrine",
+      "Purchaser vs. Owner"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shtarot Required",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's ruling that all three buyers must have shtarot, which is precisely what the 'Shtarot Required' section's prose describes.",
+      "second_heading": "Public Notice Doctrine",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the challenge about whether Rav holds that a shtar creates publicity while witnesses do not, and cites the counter-ruling about selling with witnesses and collecting from liened property \u2014 exactly what the 'Public Notice Doctrine' prose discusses.",
+      "current_heading": "Public Notice Doctrine",
+      "moved": true
+    }
+  }
+]

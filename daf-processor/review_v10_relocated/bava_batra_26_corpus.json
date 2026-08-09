@@ -1,0 +1,342 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna: Distances",
+    "candidates": [
+      "Mishna: Distances",
+      "Compensation Rules",
+      "Proof & Uncertainty",
+      "Rabbi Yosi's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Gemara passage directly discusses the mishna's 'bein milmalah' clause about whether the cistern is above or below the tree, which the prose under 'Mishna: Distances' explicitly flags as the question that 'will be addressed in the Gemara.'",
+      "chosen_heading": "Mishna: Distances",
+      "current_heading": "Mishna: Distances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rabbi Yosi's View",
+    "candidates": [
+      "Compensation Rules",
+      "Proof & Uncertainty",
+      "Rabbi Yosi's View",
+      "Incline Damage",
+      "Law Follows Yosi",
+      "Direct Actions",
+      "What is Direct?",
+      "Papi Yonah Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei's ruling and Rav Yehuda/Shmuel's declaration that the halakha follows Rabbi Yosei, plus Rav Ashi's caveat about girei didei \u2014 all of which are discussed together in the 'Law Follows Yosi' section's prose, which covers exactly this combination of Shmuel's ruling and the girei didei limitation introduced by Rav Ashi.",
+      "chosen_heading": "Law Follows Yosi",
+      "current_heading": "Rabbi Yosi's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Papi Yonah Story",
+    "candidates": [
+      "Incline Damage",
+      "Law Follows Yosi",
+      "Direct Actions",
+      "What is Direct?",
+      "Papi Yonah Story",
+      "Vibration Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Papi Yonah story itself \u2014 describing his mansion, the sesame pressers, and Rav Ashi's ruling about girei didei \u2014 which is precisely what the 'Papi Yonah Story' section's prose summarizes.",
+      "chosen_heading": "Papi Yonah Story",
+      "current_heading": "Papi Yonah Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Vibration Threshold",
+    "candidates": [
+      "Vibration Threshold",
+      "Tosafot Analysis",
+      "Bar Miryon Story",
+      "Ravina's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question 'how much vibration?' and its answer about the lid on a jug shaking, which is precisely what the 'Vibration Threshold' prose describes.",
+      "chosen_heading": "Vibration Threshold",
+      "current_heading": "Vibration Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Ravina's View",
+    "candidates": [
+      "Tosafot Analysis",
+      "Bar Miryon Story",
+      "Ravina's View",
+      "Winnowing Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Ravina's ruling that the chaff is carried by wind rather than direct force, which is exactly what the 'Ravina's View' section's prose discusses and analyzes.",
+      "chosen_heading": "Ravina's View",
+      "current_heading": "Ravina's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Winnowing Analogy",
+    "candidates": [
+      "Winnowing Analogy",
+      "Spark Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Mar bar Rav Ashi's winnowing objection and Mareimar's agreement that beating flax is like winnowing with wind assistance, which is exactly what the 'Winnowing Analogy' section's prose discusses.",
+      "chosen_heading": "Winnowing Analogy",
+      "current_heading": "Winnowing Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Spark Distinction",
+    "candidates": [
+      "Spark Distinction",
+      "Tosafot Resolution",
+      "Four Amot Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about the spark-from-hammer case and its answer distinguishing 'nicha lei deleizal,' which is precisely what the 'Spark Distinction' prose discusses in detail.",
+      "chosen_heading": "Spark Distinction",
+      "current_heading": "Spark Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Four Amot Rule",
+    "candidates": [
+      "Tosafot Resolution",
+      "Four Amot Rule",
+      "Wall Exception",
+      "Root Cutting Right",
+      "Deep Digging"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna stating the four-amot distancing rule for planting trees near a neighbor's field, which is precisely what the 'Four Amot Rule' prose section introduces and discusses.",
+      "chosen_heading": "Four Amot Rule",
+      "current_heading": "Four Amot Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Deep Digging",
+    "candidates": [
+      "Wall Exception",
+      "Root Cutting Right",
+      "Deep Digging",
+      "Four Amot Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the three-handbreadths plowing rule AND the cistern-digging rule together as one mishnah unit, and candidate 1 ('Root Cutting Right') explicitly introduces both parts of this mishnah text in its prose, making it the better home for the complete passage rather than splitting it under 'Deep Digging'.",
+      "chosen_heading": "Root Cutting Right",
+      "current_heading": "Deep Digging",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Four Amot Purpose",
+    "candidates": [
+      "Deep Digging",
+      "Four Amot Purpose",
+      "Rava Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the same topic \u2014 the four-amot vs. two-amot distinction between Eretz Yisrael and Babylonia as explained by Shmuel \u2014 which is precisely what the 'Four Amot Purpose' prose describes.",
+      "chosen_heading": "Four Amot Purpose",
+      "current_heading": "Four Amot Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rava Case",
+    "candidates": [
+      "Rava Case",
+      "Vine Distance",
+      "Tree-to-Vine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the full narrative of Rava bar Rav Chanan's palm trees, the birds roosting and damaging the vineyard, and the initial exchange including the owner's defense that he kept the required distance \u2014 all of which matches exactly the prose under heading 0 ('Rava Case').",
+      "chosen_heading": "Rava Case",
+      "current_heading": "Rava Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Tree-to-Vine",
+    "candidates": [
+      "Vine Distance",
+      "Tree-to-Vine",
+      "Moral Hesitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the protest about the mishnah's equation of vines and trees AND Rav Yosef's answer distinguishing tree-to-tree/vine-to-vine from tree-to-vine, which is precisely what candidate 1 ('Tree-to-Vine') discusses in its prose.",
+      "chosen_heading": "Tree-to-Vine",
+      "current_heading": "Tree-to-Vine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Moral Hesitation",
+    "candidates": [
+      "Moral Hesitation",
+      "Root Cutting Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the tree-owner's refusal to cut down trees citing Rav's prohibition and Rabbi \u1e24anina's warning about his son Shichat, which is exactly what the 'Moral Hesitation' prose discusses in detail.",
+      "chosen_heading": "Moral Hesitation",
+      "current_heading": "Moral Hesitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Root Cutting Dispute",
+    "candidates": [
+      "Root Cutting Dispute",
+      "Public Path Analogy",
+      "Rashi & Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa finding Rav Huna cutting his roots and Rav Huna citing the mishna permitting digging three handbreadths, which is precisely what the 'Root Cutting Dispute' prose discusses.",
+      "chosen_heading": "Root Cutting Dispute",
+      "current_heading": "Root Cutting Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Rashi & Tosafot",
+    "candidates": [
+      "Public Path Analogy",
+      "Rashi & Tosafot",
+      "Sixteen Amot",
+      "Hekdesh Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Public Path Analogy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Pappa marshaling arguments including the public pathway citation (Rav Yehuda's ruling), which is precisely what the 'Public Path Analogy' prose describes \u2014 Rav Pappa's inability to convince Rav Huna until invoking the meitzar/pathway argument.",
+      "second_heading": "Sixteen Amot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Huna's post-departure reflection about 'within sixteen cubits vs. beyond sixteen cubits,' which is exactly what the 'Sixteen Amot' prose discusses, including both Rashi's and Tosafot's readings of that distinction.",
+      "current_heading": "Rashi & Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Hekdesh Case",
+    "candidates": [
+      "Sixteen Amot",
+      "Hekdesh Case",
+      "Meila Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present exactly the content described under 'Hekdesh Case': Ya'akov of Hadeyyav's question about wood/root ownership and Rav \u1e24isda's answer from the Me'ila baraita about roots of a private tree extending into hekdesh property, which is precisely what that section's prose describes.",
+      "chosen_heading": "Hekdesh Case",
+      "current_heading": "Hekdesh Case",
+      "moved": false
+    }
+  }
+]

@@ -43,8 +43,8 @@
           "timestamp": "02:11"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Vows of Minchot: Quantity and Specification Rules (continued)",
@@ -57,7 +57,7 @@
           "timestamp": "03:50"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 17,
       "matched": false
     },
     {
@@ -177,8 +177,8 @@
           "timestamp": "29:44"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Bringing Double Portions to Cover All Permutations with Stipulation",
@@ -235,7 +235,7 @@
           "timestamp": "39:40"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -259,7 +259,7 @@
           "timestamp": "43:07"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 21,
       "matched": false
     }
   ],
@@ -506,5 +506,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22
+  "amud_b_sefaria_index": 22,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "24:00",
+  "amud_b_micro_title": "Abaye's Stipulation",
+  "shiur_start_daf": 105,
+  "shiur_start_amud": "a"
 }

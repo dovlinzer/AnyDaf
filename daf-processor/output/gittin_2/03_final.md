@@ -1,6 +1,7 @@
-# Gittin 2 — Daf Yomi Shiur
-
+[DAF:2a]
 ## Intro to Gittin
+
+
 
 ### Masechet Overview
 
@@ -52,10 +53,11 @@ The elegance of this framework is remarkable: eight words of Torah, one addition
 
 ## Hameivi Get
 
+
+
 ### Basic Requirement
 
-> **Hebrew/Aramaic:** הַמֵּבִיא גֵּט מִמְּדִינַת הַיָּם, צָרִיךְ שֶׁיֹּאמַר בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם.
->
+> **Hebrew/Aramaic:** הַמֵּבִיא גֵּט מִמְּדִינַת הַיָּם, צָרִיךְ שֶׁיֹּאמַר בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם.
 > **Translation:** MISHNA: An agent **who brings a bill of divorce [*get*]** from a husband to his wife **from a country overseas,** i.e., from outside of Eretz Yisrael to Eretz Yisrael, **is required to state** the following formula when he hands over the bill of divorce: This bill of divorce **was written in my presence and it was signed in my presence.**
 
 The *mishnah* opens: *hamevi get mimedinat hayam* — one who brings a *get* from overseas. *Tosafos* immediately raises a point about this phrase. *Rashi* understands *medinat hayam* to mean simply *kol chutz la'aretz* — anywhere outside of *Eretz Yisrael*. *Tosafos* disagrees, arguing that if that were the intent, the *mishnah* would have said *hamevi get michutz la'aretz*. The use of the phrase *medinat hayam* suggests something more distant — a genuinely far-off place — and we will return to this distinction shortly.
@@ -64,26 +66,27 @@ The *mishnah* states: *tzarich she-yomar befanai nechtav uvfanai nechtam* — th
 
 ### Geographic Debate
 
-> **Hebrew/Aramaic:** רַבָּן גַּמְלִיאֵל אוֹמֵר: אַף הַמֵּבִיא מִן הָרְקָם וּמִן הַחֶגֶר. רַבִּי אֱלִיעֶזֶר אוֹמֵר: אֲפִילּוּ מִכְּפַר לוּדִּים לְלוֹד.
->
+> **Hebrew/Aramaic:** רַבָּן גַּמְלִיאֵל אוֹמֵר: אַף הַמֵּבִיא מִן הָרְקָם וּמִן הַחֶגֶר. רַבִּי אֱלִיעֶזֶר אוֹמֵר: אֲפִילּוּ מִכְּפַר לוּדִּים לְלוֹד.
 > **Translation:** **Rabban Gamliel says: Even one who brings** a bill of divorce **from Rekem or from Ḥeger,** which are on the periphery of Eretz Yisrael, must make this declaration. **Rabbi Eliezer says: Even** one who brings a bill of divorce **from the village of Ludim to Lod** must also make this declaration, despite the fact that these places are only a short distance apart. The reason is that the village of Ludim was not part of the main area settled by Jews in Eretz Yisrael.
+
+> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֵינוֹ צָרִיךְ שֶׁיֹּאמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״, אֶלָּא הַמֵּבִיא מִמְּדִינַת הַיָּם וְהַמּוֹלִיךְ. וְהַמֵּבִיא מִמְּדִינָה לִמְדִינָה בִּמְדִינַת הַיָּם, צָרִיךְ שֶׁיֹּאמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֲפִילּוּ מֵהֶגְמוֹנְיָא לְהֶגְמוֹנְיָא.
+> **Translation:** **And the Rabbis say** that **one is required to say: It was written in my presence and it was signed in my presence, only** if he **brings** a bill of divorce **from a country overseas** to Eretz Yisrael, **and** the same applies to **one who delivers** a bill of divorce from Eretz Yisrael to a country overseas. **And** likewise an agent **who brings** a bill of divorce **from** one **region to** another **region within** the **overseas countries is** also **required to say: It was written in my presence and it was signed in my presence. Rabban Shimon ben Gamliel says:** This *halakha* applies not only to an agent who brings a bill of divorce from one country to another, but **even** to one who takes it **from** one **district [*hegmonya*] to** another **district** in the same country.
 
 The *mishnah* then records a series of positions among the *tannaim* about what geographic distance triggers this requirement. *Rabban Gamliel* says: *af hamevi mi-Rekem umehager* — even one who brings from Rekem and Hager must make this declaration. These appear to be places very close to the border of *Eretz Yisrael*. *Tosafos* devotes considerable effort to identifying them, suggesting they may be in the region of the land of the *Plishtim*, though acknowledges some ambiguity. *Rashi* associates them with the biblical Kadesh and Bered, the location to which Hagar fled when driven out by Sarah — again pointing to proximity to *Eretz Yisrael*. *Rabban Gamliel*'s position, then, is that even these nearby locations trigger the requirement; one need not travel to genuinely distant overseas territories.
 
 *Rabbi Eliezer* goes further: *afilu mikfar Ludim le-Lud* — even one who brings from the village of Ludim to Lud. This generates two puzzles. First, Lud is not on the border of *Eretz Yisrael* in any straightforward sense; why would its immediate vicinity even be considered *chutz la'aretz*? Second, and more textually puzzling, *Tosafos* asks: why does *Rabbi Eliezer* state where he is *bringing it to*? The point of these *tannaitic* positions is to define the place of *origin* — it doesn't matter where it is being delivered. *Tosafos* offers two resolutions. One is that *kfar Ludim* must be understood as so closely adjacent to Lud, so much like its suburb, that one might have assumed the two localities share a legal identity for these purposes — *Rabbi Eliezer* teaches that even so, if it technically falls over the line, the requirement applies. The other answer *Tosafos* offers is that *Rabbi Eliezer* himself was from Lud, and therefore chose this as his illustrative example.
 
-> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֵינוֹ צָרִיךְ שֶׁיֹּאמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״, אֶלָּא הַמֵּבִיא מִמְּדִינַת הַיָּם וְהַמּוֹלִיךְ. וְהַמֵּבִיא מִמְּדִינָה לִמְדִינָה בִּמְדִינַת הַיָּם, צָרִיךְ שֶׁיֹּאמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֲפִילּוּ מֵהֶגְמוֹנְיָא לְהֶגְמוֹנְיָא.
->
-> **Translation:** **And the Rabbis say** that **one is required to say: It was written in my presence and it was signed in my presence, only** if he **brings** a bill of divorce **from a country overseas** to Eretz Yisrael, **and** the same applies to **one who delivers** a bill of divorce from Eretz Yisrael to a country overseas. **And** likewise an agent **who brings** a bill of divorce **from** one **region to** another **region within** the **overseas countries is** also **required to say: It was written in my presence and it was signed in my presence. Rabban Shimon ben Gamliel says:** This *halakha* applies not only to an agent who brings a bill of divorce from one country to another, but **even** to one who takes it **from** one **district [*hegmonya*] to** another **district** in the same country.
-
 What all three positions — *Rabban Gamliel*, *Rabbi Eliezer*, and the following *chachamim* — share is the underlying claim: the *mishnah*'s phrase *medinat hayam* need not refer to genuinely distant overseas territory. Even proximity to the border triggers the requirement.
 
 *Ve-chachamim omrim*: the *chachamim* disagree, saying *ela hameivi mimedinat hayam* — only one who brings from genuinely overseas must make the declaration. The phrase *medinat hayam* means what it says: a distant place across the sea.
 
+The *mishnah* then continues with cases that extend the requirement in a different direction: *vehamolich* — one who *takes* a *get* from *Eretz Yisrael* to *medinat hayam* — and *hameivi mimedina limedina bimedinat hayam* — one who brings a *get* from one country to another, entirely within overseas territory. All of these scenarios require the same declaration. This raises an immediate question about what work the mention of *Eretz Yisrael* is doing at all, since the case of one *medina* to another *medina* overseas seems sufficient to capture the basic principle. The *gemara* will engage with this directly, exploring what counts as a *medina* and whether, for instance, bringing a *get* from *Yehuda* to *Galil* within *Eretz Yisrael* would or would not require the declaration — a question whose answer turns on what distinction between the domestic and foreign cases the *mishnah* is actually drawing.
+
+*Rabban Shimon ben Gamliel* then adds: *afilu mehegmonia lehegmonia* — even from one *hegmonia* to another. The word *hegmonia* is Greek — cognate with "hegemony" — and refers to a zone of rulership or governmental control. The *gemara*'s understanding is that *Rabban Shimon ben Gamliel* is addressing a situation where a single city is divided between two different governing authorities — like, to use a vivid analogy, East and West Berlin: one city, two rulers. One might have thought that since the two zones constitute a single city, there is no meaningful crossing of a boundary. *Rabban Shimon ben Gamliel* teaches that even so, the transition from one zone of authority to another is sufficient to require the declaration. The implication is that *a fortiori*, bringing a *get* from one city to another within the same *medina* would likewise require it.
+
 ### Eretz Yisrael Borders
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: מֵרְקָם לַמִּזְרָח, וּרְקָם – כַּמִּזְרָח; מֵאַשְׁקְלוֹן לַדָּרוֹם וְאַשְׁקְלוֹן – כַּדָּרוֹם; מֵעַכּוֹ לַצָּפוֹן, וְעַכּוֹ – כַּצָּפוֹן. רַבִּי מֵאִיר אוֹמֵר: עַכּוֹ – כְּאֶרֶץ יִשְׂרָאֵל לְגִיטִּין.
->
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: מֵרְקָם לַמִּזְרָח, וּרְקָם – כַּמִּזְרָח; מֵאַשְׁקְלוֹן לַדָּרוֹם וְאַשְׁקְלוֹן – כַּדָּרוֹם; מֵעַכּוֹ לַצָּפוֹן, וְעַכּוֹ – כַּצָּפוֹן. רַבִּי מֵאִיר אוֹמֵר: עַכּוֹ – כְּאֶרֶץ יִשְׂרָאֵל לְגִיטִּין.
 > **Translation:** **Rabbi Yehuda says:** With regard to the borders of Eretz Yisrael, **from Rekem eastward** is considered to be part of the overseas country, **and Rekem** itself **is like east** of Eretz Yisrael, i.e., it is outside of Eretz Yisrael. **From Ashkelon southward** is outside of Eretz Yisrael, **and Ashkelon** itself **is like south** of Eretz Yisrael. Likewise, **from Akko northward** is outside of Eretz Yisrael, **and Akko** itself **is like north** of Eretz Yisrael. **Rabbi Meir says: Akko is like Eretz Yisrael with regard to** the *halakhot* of **bills of divorce.**
 
 The *mishnah* continues with a separate question: how do we define the borders of *Eretz Yisrael* itself? This requires its own treatment, since knowing what is inside *Eretz Yisrael* is necessary to knowing when the requirement applies. *Rabbi Yehuda* provides the coordinates: from Rekem to the east — with Rekem counting as *outside* Israel; from Ashkelon to the south — with Ashkelon counting as outside; from Akko to the north — with Akko counting as outside Israel as well. This is immediately striking: Ashkelon is mentioned as one of the cities of Israel, and Akko is likewise associated with *Eretz Yisrael* in numerous other contexts.
@@ -92,8 +95,7 @@ The *mishnah* continues with a separate question: how do we define the borders o
 
 ### Within Eretz Yisrael
 
-> **Hebrew/Aramaic:** הַמֵּבִיא גֵּט בְּאֶרֶץ יִשְׂרָאֵל, אֵינוֹ צָרִיךְ שֶׁיֹּאמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״. וְאִם יֵשׁ עָלָיו עוֹרְרִים, יִתְקַיֵּים בְּחוֹתְמָיו.
->
+> **Hebrew/Aramaic:** הַמֵּבִיא גֵּט בְּאֶרֶץ יִשְׂרָאֵל, אֵינוֹ צָרִיךְ שֶׁיֹּאמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״. וְאִם יֵשׁ עָלָיו עוֹרְרִים, יִתְקַיֵּים בְּחוֹתְמָיו.
 > **Translation:** **One who brings a bill of divorce** from one place to another **within Eretz Yisrael is not required to say: It was written in my presence and it was signed in my presence. And if there are those who contest it,** i.e., if the husband objects by saying that the bill of divorce is a forgery, **it should be ratified through its signatories.** The court must authenticate the signatures of the witnesses in order to ratify the document.
 
 Finally, the *mishnah* closes: *hamevi get b'Eretz Yisrael eino tzarich lomar befanai nechtav uvfanai nechtam* — one who delivers a *get* within *Eretz Yisrael* does not need to make this declaration. When the entire transaction takes place internally within *Eretz Yisrael*, we have sufficient tools to verify everything, and the declaration is unnecessary. However, *v'im yesh alav orerim* — if a challenge is subsequently raised, if the husband appears and claims the *get* was a forgery — then *yitkayem be-chotmav*: the *get* is validated through its signatures. So within *Eretz Yisrael*, we do not validate proactively, but if and when a challenge arises, the mechanism of signature validation is available and sufficient.
@@ -134,11 +136,16 @@ This is a striking conceptual point to encounter on the very first *daf* of the 
 
 ## Two Reasons
 
+
+
+[DAF:2b]
 ### Rabbah Lishmah
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמָא? רַבָּה אָמַר: לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ.
->
-> **Translation:** GEMARA: The mishna teaches that one who brings a bill of divorce from a country overseas to Eretz Yisrael must say: It was written in my presence and it was signed in my presence. The Gemara asks: **What is the reason** for this declaration? **Rabba says:** It is **because** the people who live overseas **are not experts** in writing a bill of divorce **for her sake.** It is not sufficient for a bill of divorce to be written in a technically correct manner. It must also be written for the sake of the man and the woman who are divorcing. Therefore, when the witness comes before the court and says that it was written and signed in his presence, he is testifying that the writing and the signing of the bill of divorce were performed for the sake of the man and woman in question.
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמָא? רַבָּה אָמַר:
+> **Translation:** GEMARA: The mishna teaches that one who brings a bill of divorce from a country overseas to Eretz Yisrael must say: It was written in my presence and it was signed in my presence. The Gemara asks: **What is the reason** for this declaration? **Rabba says:**
+
+> **Hebrew/Aramaic:** לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ.
+> **Translation:** It is **because** the people who live overseas **are not experts** in writing a bill of divorce **for her sake.** It is not sufficient for a bill of divorce to be written in a technically correct manner. It must also be written for the sake of the man and the woman who are divorcing. Therefore, when the witness comes before the court and says that it was written and signed in his presence, he is testifying that the writing and the signing of the bill of divorce were performed for the sake of the man and woman in question.
 
 The *gemara* opens with a simple question: *mai ta'ama* — what is the reason for the requirement of *befanai nechtav uvfanai nechtam*? Two *amoraim* offer two fundamentally different answers, each focusing on a different word of the declaration.
 
@@ -150,19 +157,20 @@ The practical question then arises: how does the *shaliach*'s statement *befanai
 
 ### Rava Signatures
 
-> **Hebrew/Aramaic:** רָבָא אָמַר: לְפִי שֶׁאֵין עֵדִים מְצוּיִין לְקַיְּימוֹ.
->
-> **Translation:** **Rava says** a different reason: It is **because there are no witnesses available to ratify it.** Since the bill of divorce was written in a distant place, it is possible that the husband, or someone else, might later claim that the bill of divorce is a forgery. For this reason the agent must say that the bill of divorce was written and signed in his presence, a declaration that bars any subsequent objection on the part of the husband.
-
 *Rava* focuses on the other half of the declaration: *befanai nechtam* — it was signed in my presence. *Rava*'s concern is not about whether the *get* was written correctly, but about the practical problem of signature validation. We see at the end of the *mishnah* that a *get* delivered in *Eretz Yisrael* is subject to challenge: if the husband comes forward and claims the *get* is a forgery, the mechanism for resolving that challenge is *yitkayem be-chotmav* — signature validation, either through the witnesses themselves or through others who can identify their signatures.
 
 Within *Eretz Yisrael*, this is manageable. One can locate witnesses, summon those who know the signatories, produce corroborating documents. But if the *get* was signed in a distant land and the challenge arises years later in *Eretz Yisrael*, how will one ever find witnesses to validate those signatures? They are back in *medinat hayam*, impossible to summon. *Rava* therefore says: we require upfront validation by the *shaliach* himself. He testifies at the point of delivery that the *get* was signed in his presence — and that testimony, even from a single witness as we will see, suffices to forestall the need for later signature validation.
 
 ### Nafka Mina Cases
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּאַתְיוּהוּ בֵּי תְרֵי. אִי נָמֵי, מִמְּדִינָה לִמְדִינָה בְּאֶרֶץ יִשְׂרָאֵל. אִי נָמֵי, בְּאוֹתָהּ מְדִינָה בִּמְדִינַת הַיָּם.
->
-> **Translation:** The Gemara asks: **What is** the difference **between** these two explanations? The Gemara answers: **There is** a difference **between them** with regard to a case **where two** people **brought** the bill of divorce. In this case, two witnesses are available to ratify the bill of divorce if someone objects to its validity. **Alternatively,** the difference concerns a case where the agent brings the bill of divorce **from** one **region to** another **region within Eretz Yisrael.** Here there is no concern that the bill of divorce might not have been written for her sake, as the residents of Eretz Yisrael are aware of this requirement. However, witnesses are not necessarily available to confirm the document. **Alternatively,** there is a difference between the two explanations in a case where the agent brings the bill of divorce **within that** same **region in a country overseas.** According to the opinion of Rabba, who says the concern is that the people there might not know that the document must be written for her sake, this problem is equally relevant in this case. However, according to the opinion of Rava, who says that the reason is because witnesses are not available, if the bill of divorce is brought in the same region then the witnesses will be available to ratify it.
+> **Hebrew/Aramaic:** רָבָא אָמַר: לְפִי שֶׁאֵין עֵדִים מְצוּיִין לְקַיְּימוֹ.
+> **Translation:** **Rava says** a different reason: It is **because there are no witnesses available to ratify it.** Since the bill of divorce was written in a distant place, it is possible that the husband, or someone else, might later claim that the bill of divorce is a forgery. For this reason the agent must say that the bill of divorce was written and signed in his presence, a declaration that bars any subsequent objection on the part of the husband.
+
+> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּאַתְיוּהוּ בֵּי תְרֵי. אִי נָמֵי, מִמְּדִינָה לִמְדִינָה בְּאֶרֶץ יִשְׂרָאֵל.
+> **Translation:** The Gemara asks: **What is** the difference **between** these two explanations? The Gemara answers: **There is** a difference **between them** with regard to a case **where two** people **brought** the bill of divorce. In this case, two witnesses are available to ratify the bill of divorce if someone objects to its validity. **Alternatively,** the difference concerns a case where the agent brings the bill of divorce **from** one **region to** another **region within Eretz Yisrael.** Here there is no concern that the bill of divorce might not have been written for her sake, as the residents of Eretz Yisrael are aware of this requirement. However, witnesses are not necessarily available to confirm the document.
+
+> **Hebrew/Aramaic:** אִי נָמֵי, בְּאוֹתָהּ מְדִינָה בִּמְדִינַת הַיָּם.
+> **Translation:** **Alternatively,** there is a difference between the two explanations in a case where the agent brings the bill of divorce **within that** same **region in a country overseas.** According to the opinion of Rabba, who says the concern is that the people there might not know that the document must be written for her sake, this problem is equally relevant in this case. However, according to the opinion of Rava, who says that the reason is because witnesses are not available, if the bill of divorce is brought in the same region then the witnesses will be available to ratify it.
 
 The *gemara* then asks: *mai beinaihu* — what is the practical difference between these two reasons? And it proceeds to spell out several elegant *nafka minos*.
 
@@ -176,8 +184,7 @@ These *nafka minos* are elegant because they isolate the exact axis of disagreem
 
 ### One Witness
 
-> **Hebrew/Aramaic:** וּלְרַבָּה דְּאָמַר לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ – לִיבְעֵי תְּרֵי, מִידֵּי דְּהָוֵה אַכֹּל עֵדֻיוֹת שֶׁבַּתּוֹרָה! עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין.
->
+> **Hebrew/Aramaic:** וּלְרַבָּה דְּאָמַר לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ – לִיבְעֵי תְּרֵי, מִידֵּי דְּהָוֵה אַכֹּל עֵדֻיוֹת שֶׁבַּתּוֹרָה! עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין.
 > **Translation:** The Gemara asks: **And according to** the opinion of **Rabba, who said** that the reason is **because they are not experts** in writing a bill of divorce **for her sake, let us require two** witnesses to testify about this, **just as is** the case **with regard to all testimonies in the Torah.** The Gemara answers: **One witness is deemed credible with regard to prohibitions.** In other words, if there is uncertainty as to whether a matter is prohibited or permitted, in the case of the heretofore married woman, the testimony of one witness is sufficient.
 
 The *gemara* now asks: according to *Rabbah*, who says the concern is that people in *medinat hayam* do not know the laws of *lishmah*, why does one witness suffice? If we genuinely doubt whether the *get* was produced in accordance with *halacha* — if we are uncertain of its *kashrus* — surely we require two witnesses to resolve that doubt, as is the case with all testimony in the Torah.
@@ -186,9 +193,29 @@ The *gemara* answers: *ed echad ne'eman b'issurin* — a single witness is trust
 
 ### Challenge Issued
 
-> **Hebrew/Aramaic:** אֵימוֹר דְּאָמְרִינַן עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין, כְּגוֹן חֲתִיכָה סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן, דְּלָא אִיתַּחְזַק אִיסּוּרָא; אֲבָל הָכָא, דְּאִיתַּחְזַק אִיסּוּרָא דְּאֵשֶׁת אִישׁ, הָוֵי דָּבָר שֶׁבָּעֶרְוָה; וְאֵין דָּבָר שֶׁבְּעֶרְוָה פָּחוֹת מִשְּׁנַיִם!
->
-> **Translation:** The Gemara asks: One can **say that we say one witness is deemed credible with regard to prohibitions** in a case **such as** where there is **a piece** of fat, and it is **uncertain** if it is forbidden **fat** [***ḥelev***] and **uncertain** if it is permitted **fat.** In this situation the piece can be rendered permitted by a single witness, **as there is no presumption** that it is **forbidden.** Therefore, as there is an uncertainty, and one witness said it is permitted fat, he is deemed credible. **However, here, where there is a presumption** that this woman is **forbidden, as** she is **a married woman,** a status she retains until it is established that she has received a bill of divorce, if so, this **is a matter of forbidden sexual relations, and** the general principle is that **there is no matter** of testimony **for forbidden sexual relations** that can be attested to by **fewer than two** witnesses.
+> **Hebrew/Aramaic:** אֵימוֹר דְּאָמְרִינַן עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין, כְּגוֹן חֲתִיכָה סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן, דְּלָא אִיתַּחְזַק אִיסּוּרָא;
+> **Translation:** The Gemara asks: One can **say that we say one witness is deemed credible with regard to prohibitions** in a case **such as** where there is **a piece** of fat, and it is **uncertain** if it is forbidden **fat** [***ḥelev***] and **uncertain** if it is permitted **fat.** In this situation the piece can be rendered permitted by a single witness, **as there is no presumption** that it is **forbidden.** Therefore, as there is an uncertainty, and one witness said it is permitted fat, he is deemed credible.
+
+> **Hebrew/Aramaic:** אֲבָל הָכָא, דְּאִיתַּחְזַק אִיסּוּרָא דְּאֵשֶׁת אִישׁ, הָוֵי דָּבָר שֶׁבָּעֶרְוָה; וְאֵין דָּבָר שֶׁבְּעֶרְוָה פָּחוֹת מִשְּׁנַיִם!
+> **Translation:** **However, here, where there is a presumption** that this woman is **forbidden, as** she is **a married woman,** a status she retains until it is established that she has received a bill of divorce, if so, this **is a matter of forbidden sexual relations, and** the general principle is that **there is no matter** of testimony **for forbidden sexual relations** that can be attested to by **fewer than two** witnesses.
+
+> **Hebrew/Aramaic:** רוֹב בְּקִיאִין הֵן. וַאֲפִילּוּ לְרַבִּי מֵאִיר דְּחָיֵישׁ לְמִיעוּטָא – סְתָם סָפְרֵי דְּדַיָּינֵי מִיגְמָר גְּמִירִי, וְרַבָּנַן הוּא דְּאַצְרוּךְ; וְהָכָא
+> **Translation:** The Gemara answers: Rabba’s concern is not equivalent to a case of uncertainty, as **most** Jewish people **are experts** in the requirement that a bill of divorce must be written for the woman’s sake. **And** this is so **even according to** the opinion of **Rabbi Meir, who is** generally **concerned about a minority** in a matter of forbidden sexual relations. In this case Rabbi Meir concedes that one need not be concerned for the minority, as **ordinary judicial scribes,** who write bills of divorce, **are learned** in this *halakha*, and know that a bill of divorce must be written for the woman’s sake. **And it is the Sages who required** testimony about this matter, as an extra precaution. **And here,** with regard to this testimony,
+
+> **Hebrew/Aramaic:** מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
+> **Translation:** **due to** the possibility of **desertion,** i.e., that she may become like a deserted wife, **the Sages were lenient with her** by saying that the agent who brought the bill of divorce is deemed credible, despite the fact that he is a single witness. This is to prevent women from becoming uncertain of their marital status as a result of the lack of testimony needed to ratify the bill of divorce.
+
+> **Hebrew/Aramaic:** הַאי קוּלָּא הוּא?! חוּמְרָא הוּא! דְּאִי מַצְרְכַתְּ לֵיהּ תְּרֵי – לָא אָתֵי בַּעַל מְעַרְעֵר וּפָסֵיל לֵיהּ; חַד – אָתֵי בַּעַל וּמְעַרְעֵר וּפָסֵיל לֵיהּ!
+> **Translation:** The Gemara asks: **Is this** ruling **a leniency? It is a stringency, since if you require two** witnesses to testify **with regard to** the bill of divorce, her **husband cannot come** to **contest and invalidate it,** as his testimony will not be accepted against that of the two witnesses. However, if only **one** agent brings the bill of divorce, the **husband** can **come and contest and invalidate** the document.
+
+> **Hebrew/Aramaic:** כֵּיוָן דְּאָמַר מָר: בִּפְנֵי כַּמָּה נוֹתְנוֹ לָהּ? רַבִּי יוֹחָנָן וְרַבִּי חֲנִינָא; חַד אָמַר: בִּפְנֵי שְׁנַיִם, וְחַד אָמַר: בִּפְנֵי שְׁלֹשָׁה; מֵעִיקָּרָא מִידָּק דָּיֵיק, וְלָא אָתֵי לְאוֹרוֹעֵי נַפְשֵׁיהּ.
+> **Translation:** The Gemara answers: **Since the Master says: In the presence of how many** people must the agent who brings the bill of divorce **give it to** the woman? **Rabbi Yoḥanan and Rabbi Ḥanina** disagreed with regard to this issue. **One said** that he must deliver it to her **in the presence of** at least **two** people, **and one said** that he must deliver it to her **in the presence of** at least **three** people, as three individuals are considered a court. Therefore, **at the outset** the agent is **careful** to clarify the matter fully, **and he will not act to his own detriment** by bringing an invalid bill of divorce.
+
+> **Hebrew/Aramaic:** וּלְרָבָא דְּאָמַר לְפִי שֶׁאֵין עֵדִים מְצוּיִין לְקַיְּימוֹ – לִיבְעֵי תְּרֵי, מִידֵּי דְּהָוֵה אַקִּיּוּם שְׁטָרוֹת דְּעָלְמָא! עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין.
+> **Translation:** The Gemara asks: **And according to** the opinion of **Rava, who said** that the agent must say: It was written in my presence and it was signed in my presence, **because there are no witnesses available to ratify it, let us require two** witnesses, **just as is** the practice with regard to the **typical** case of **ratification of** legal **documents,** which must be performed via two witnesses. The Gemara answers as above: **One witness is deemed credible with regard to prohibitions.**
+
+> **Hebrew/Aramaic:** אֵימַר דְּאָמְרִינַן עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין, כְּגוֹן חֲתִיכָה סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן, דְּלָא אִיתַּחְזַק אִיסּוּרָא; אֲבָל הָכָא אִיתַּחְזַק אִיסּוּרָא דְּאֵשֶׁת אִישׁ – הָוֵי דָּבָר שֶׁבָּעֶרְוָה, וְאֵין דָּבָר שֶׁבָּעֶרְוָה פָּחוֹת מִשְּׁנַיִם!
+> **Translation:** Again the Gemara asks: One can **say that we say** that **one witness is deemed credible with regard to prohibitions** in a case **such as** where there is **a piece** of fat, and it is **uncertain** if it is forbidden **fat** and **uncertain** if it is permitted **fat.** In this situation, the piece can be permitted by a single witness, **as there is no presumption** that it is **forbidden. However, here there is a presumption** that this woman is **forbidden as a married woman.** If so, this **is a matter of forbidden sexual relations, and there is no matter** of testimony **for forbidden sexual relations** that can be attested to by **fewer than two** witnesses.
 
 The *gemara* immediately raises a sharp challenge. When we say *ed echad ne'eman b'issurin*, in what circumstances does that apply? The typical case is like a piece of fat: there is a piece of meat before us, and we do not know whether it is *chelev* — forbidden fat — or *shuman* — permitted fat. There is no prior known status of the piece, and a single witness can establish which it is. But — and this is the challenge — *aval hacha de-it-chazak issura d'eshet ish*: here, the woman was known to be married. She entered the situation with an established status of *eshet ish*, a forbidden relationship. We are not in a situation of mere uncertainty; we are in a situation of *chazakas issur* — a presumption of prohibition. Can a single witness overturn that?
 
@@ -203,10 +230,6 @@ So there are, in fact, two independent reasons why one witness should *not* suff
 By contrast, neither the woman nor the *shaliach* can bring about a divorce independently. No matter how much effort or money is applied, unless the husband willingly gives the *get*, the woman remains married. The divorce is not *beyado* — not within their power to accomplish. And according to *Tosafos*, when the matter is *lo beyado* — not within one's power to change — a single witness does not suffice to overcome a *chazakas issur*.
 
 ### Unresolved Q
-
-> **Hebrew/Aramaic:** רוֹב בְּקִיאִין הֵן. וַאֲפִילּוּ לְרַבִּי מֵאִיר דְּחָיֵישׁ לְמִיעוּטָא – סְתָם סָפְרֵי דְּדַיָּינֵי מִיגְמָר גְּמִירִי, וְרַבָּנַן הוּא דְּאַצְרוּךְ; וְהָכָא מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
->
-> **Translation:** The Gemara answers: Rabba's concern is not equivalent to a case of uncertainty, as **most** Jewish people **are experts** in the requirement that a bill of divorce must be written for the woman's sake. **And** this is so **even according to** the opinion of **Rabbi Meir, who is** generally **concerned about a minority** in a matter of forbidden sexual relations. In this case Rabbi Meir concedes that one need not be concerned for the minority, as **ordinary judicial scribes,** who write bills of divorce, **are learned** in this *halakha*, and know that a bill of divorce must be written for the woman's sake. **And it is the Sages who required** testimony about this matter, as an extra precaution. **And here,** with regard to this testimony, **due to** the possibility of **desertion,** i.e., that she may become like a deserted wife, **the Sages were lenient with her** by saying that the agent who brought the bill of divorce is deemed credible, despite the fact that he is a single witness. This is to prevent women from becoming uncertain of their marital status as a result of the lack of testimony needed to ratify the bill of divorce.
 
 This leaves us with a compounded difficulty. The *gemara*'s challenge runs on two tracks: *chazakas issur* combined with *lo beyado*, and the categorical requirement of two witnesses for *arayos*. Even for those authorities who hold that a single witness *can* overcome a *chazakas issur* even when the matter is *lo beyado*, the second problem remains: this is *ervah*, and *davar she-b'ervah* always requires two witnesses. The woman was a *eshet ish*, and her permissibility to others is a matter of *arayos* by definition.
 

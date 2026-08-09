@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Stores Next Door",
+    "candidates": [
+      "Hasagat Gvul Definition",
+      "Rav Huna's Mill Rule",
+      "Chachamim vs R' Yehuda",
+      "Customers as Property",
+      "Fishnet Case",
+      "Stores Next Door",
+      "Mavoi vs Property",
+      "Competition Benefits",
+      "Tannaim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita about opening a shop/bathhouse next to a competitor, which is precisely what the 'Stores Next Door' section's prose discusses and quotes.",
+      "chosen_heading": "Stores Next Door",
+      "current_heading": "Stores Next Door",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Tannaim Dispute",
+    "candidates": [
+      "Mavoi vs Property",
+      "Competition Benefits",
+      "Tannaim Dispute",
+      "Outsiders vs Residents",
+      "Same Tax Rule",
+      "Cross-Mavoi Question",
+      "Schools Exception",
+      "Kinat Sofrim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Tannaim dispute passage: item 1 is the baraita establishing the tanna'im dispute, item 2 is Rav Huna b. Rav Yehoshua's clarifications about towns and alleyways, and item 3 is his unresolved dilemma plus Rav Yosef's concession about schoolteachers \u2014 all of which are discussed in the 'Tannaim Dispute' prose, which explicitly covers the baraita, the mavoi resident rules, and Rabban Shimon ben Gamliel's position that frames the entire section.",
+      "chosen_heading": "Tannaim Dispute",
+      "current_heading": "Tannaim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Kinat Sofrim",
+    "candidates": [
+      "Outsiders vs Residents",
+      "Same Tax Rule",
+      "Cross-Mavoi Question",
+      "Schools Exception",
+      "Kinat Sofrim",
+      "Ezra's Takkanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the challenge about teachers becoming negligent and Rav Yosef's response invoking 'kinat sofrim tarbeh chochmah' \u2014 this is the Gemara exchange that establishes WHY competing schoolteachers cannot be blocked, which belongs under the 'Schools Exception' heading where Rav Yosef's ruling about schoolteachers is introduced, not under 'Kinat Sofrim' which discusses the principle as already established.",
+      "chosen_heading": "Schools Exception",
+      "current_heading": "Kinat Sofrim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Ezra's Takkanah",
+    "candidates": [
+      "Kinat Sofrim",
+      "Ezra's Takkanah",
+      "Rochlin Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Nachman bar Yitzchak's statement about Rav Huna conceding that itinerant rochlin merchants cannot be barred, grounded in Ezra's takkanah for women's access to cosmetics \u2014 exactly what the 'Ezra's Takkanah' prose describes.",
+      "chosen_heading": "Ezra's Takkanah",
+      "current_heading": "Ezra's Takkanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rochlin Restrictions",
+    "candidates": [
+      "Rochlin Restrictions",
+      "Rava's Exception",
+      "Basket Sellers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between itinerant selling (le'ahaduri) and establishing a permanent shop (le'akvei), and the exception for Torah scholars, which is exactly what the 'Rochlin Restrictions' prose describes.",
+      "chosen_heading": "Rochlin Restrictions",
+      "current_heading": "Rochlin Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Basket Sellers Case",
+    "candidates": [
+      "Rava's Exception",
+      "Basket Sellers Case",
+      "Market Day Limits",
+      "Tosafot Moneylenders",
+      "Town's Right",
+      "Debt Collection Claim",
+      "Minimal Livelihood Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the basket sellers case (dikulaei) coming before Ravina, which is precisely what the 'Basket Sellers Case' prose section describes.",
+      "chosen_heading": "Basket Sellers Case",
+      "current_heading": "Basket Sellers Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Minimal Livelihood Rule",
+    "candidates": [
+      "Market Day Limits",
+      "Tosafot Moneylenders",
+      "Town's Right",
+      "Debt Collection Claim",
+      "Minimal Livelihood Rule",
+      "Figs Import"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the wool merchants arriving at Pum Nahara and Rav Kahana's initial ruling that the townspeople may prevent them from selling, which is exactly what the 'Town's Right' section prose discusses.",
+      "chosen_heading": "Town's Right",
+      "current_heading": "Minimal Livelihood Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Figs Import",
+    "candidates": [
+      "Minimal Livelihood Rule",
+      "Figs Import",
+      "Elephant Basket Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of Rav Dimi bringing dried figs and the Exilarch instructing Rava to check his scholarship, which is precisely what the 'Figs Import' section's prose discusses.",
+      "chosen_heading": "Figs Import",
+      "current_heading": "Figs Import",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Elephant Basket Test",
+    "candidates": [
+      "Elephant Basket Test",
+      "Rav Adda's Rejection",
+      "Figs Spoil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the elephant-basket question AND Rav Dimi's failed response, Rav Adda's physical rebuke, and the statement about their relative rankings \u2014 which matches candidate 1's prose description of Rav Dimi's failed examination, the sandal strike, and the teacher hierarchy statement, while candidate 0's prose only covers the question itself without the response/rebuke portion.",
+      "chosen_heading": "Rav Adda's Rejection",
+      "current_heading": "Elephant Basket Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Figs Spoil",
+    "candidates": [
+      "Rav Adda's Rejection",
+      "Figs Spoil",
+      "Death Aftermath",
+      "Rav Yosef's Blame",
+      "Rav Dimi's Blame",
+      "Abaye's Blame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 1 ('Figs Spoil') covers: the spoiling of the figs, Rav Dimi coming to Rav Yosef, and Rav Yosef's invocation of the Amos verse about the King of Edom \u2014 matching the prose of that section precisely.",
+      "chosen_heading": "Figs Spoil",
+      "current_heading": "Figs Spoil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Abaye's Blame",
+    "candidates": [
+      "Death Aftermath",
+      "Rav Yosef's Blame",
+      "Rav Dimi's Blame",
+      "Abaye's Blame",
+      "Rava's Blame",
+      "Abaye's Blame",
+      "Rav Nachman's Blame",
+      "Coffin Wish",
+      "Wall Distance Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four rabbis' claims of responsibility (Rav Yosef, Rav Dimi, Abaye, and Rava) in a single continuous Talmudic text, so it belongs under the overarching 'Death Aftermath' heading that introduces the entire narrative of multiple scholars claiming responsibility for Rav Adda bar Abba's death.",
+      "chosen_heading": "Death Aftermath",
+      "current_heading": "Abaye's Blame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Wall Distance Rule",
+    "candidates": [
+      "Rava's Blame",
+      "Abaye's Blame",
+      "Rav Nachman's Blame",
+      "Coffin Wish",
+      "Wall Distance Rule",
+      "Window Privacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together narrate Rav Nachman bar Yitzchak's role as head of the kalla, his practice of reviewing with Rav Adda, the day Rav Adda was detained, and the culminating coffin declaration \u2014 exactly the content described in candidate 2 ('Rav Nachman's Blame') and candidate 3 ('Coffin Wish'), but since items 1-3 form one continuous narrative unit and candidate 2's prose explicitly introduces Rav Nachman bar Yitzchak's blame and his kalla preparation with Rav Adda (matching item 1), while candidate 3 covers the detention and coffin scene (items 2-3), the natural home for the whole passage as a single unit is candidate 2, which opens the Rav Nachman narrative \u2014 though candidate 3 is nearly equally matched for items 2-3.",
+      "chosen_heading": "Rav Nachman's Blame",
+      "current_heading": "Wall Distance Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Window Privacy",
+    "candidates": [
+      "Wall Distance Rule",
+      "Window Privacy",
+      "New Wall Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers both the wall distance rule AND the windows rule as a single unit, but the prose under heading 0 ('Wall Distance Rule') explicitly introduces this Mishnah as a whole transition, while heading 1 ('Window Privacy') only discusses the second half \u2014 the full Mishnah text belongs under heading 0 which introduces it, with the window portion being discussed in subsequent prose.",
+      "chosen_heading": "Wall Distance Rule",
+      "current_heading": "Window Privacy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "New Wall Reading",
+    "candidates": [
+      "New Wall Reading",
+      "Wall Fell Reading",
+      "Trampling Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Yehuda's reading of the Mishnah as addressing one who plans to build (not an existing wall) followed by Rava's objection based on the word 'she'haya,' which is precisely what the 'New Wall Reading' prose describes \u2014 Rav Yehudah's interpretation and the grammatical challenge from the Mishnah's phrasing.",
+      "chosen_heading": "New Wall Reading",
+      "current_heading": "New Wall Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Trampling Benefit",
+    "candidates": [
+      "Wall Fell Reading",
+      "Trampling Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's full alternative reading of the mishna ('ela amar Rava hachi katani') including the case of a wall that previously existed at four cubits and fell, which is exactly what the 'Wall Fell Reading' prose describes, while the 'Trampling Benefit' section is meant to cover only the mai ta'ama explanation separately.",
+      "chosen_heading": "Wall Fell Reading",
+      "current_heading": "Trampling Benefit",
+      "moved": true
+    }
+  }
+]

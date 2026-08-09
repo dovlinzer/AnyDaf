@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Bone Chipped Off",
+    "candidates": [
+      "Bone Break Covered",
+      "Bone Chipped Off",
+      "Abaye & Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the specific incident of a bone breaking and protruding outward with a small fragment (kurtita) chipped off, and Abaye delaying his response \u2014 this matches precisely the 'Bone Chipped Off' section's prose description of that exact case, including the chipped fragment detail and the question about flesh coverage.",
+      "chosen_heading": "Bone Chipped Off",
+      "current_heading": "Bone Chipped Off",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Abaye & Rava",
+    "candidates": [
+      "Abaye & Rava",
+      "Mishnah Analysis",
+      "Ravina's Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Adda directing the owner to Rava and Rava's response citing the baraita ('nishbar ha-etzem ve-yatza lachutz'), which is precisely what candidate 1 ('Mishnah Analysis') discusses in its prose.",
+      "chosen_heading": "Mishnah Analysis",
+      "current_heading": "Abaye & Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Ravina's Questions",
+    "candidates": [
+      "Mishnah Analysis",
+      "Ravina's Questions",
+      "Skin Adheres to Bone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Ravina's questions to Rava about the condition of flesh covering a broken bone \u2014 Item 1 covers the gathered/pulverized/decomposed cases and Item 2 covers the perforated/peeled/cracked/bottom-third-removed cases \u2014 all of which are explicitly discussed in the 'Ravina's Questions' prose section.",
+      "chosen_heading": "Ravina's Questions",
+      "current_heading": "Ravina's Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Skin Adheres to Bone",
+    "candidates": [
+      "Skin Adheres to Bone",
+      "Ring-Shaped Hole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Ulla/Rabbi Yochanan ruling that 'skin is like flesh' and its rejection via the 'skin holds its own place' argument, which is precisely what the 'Skin Adheres to Bone' section's prose describes.",
+      "chosen_heading": "Skin Adheres to Bone",
+      "current_heading": "Skin Adheres to Bone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Ring-Shaped Hole",
+    "candidates": [
+      "Ring-Shaped Hole",
+      "Flesh Adhesion",
+      "Limb Status",
+      "Placenta Alone",
+      "Placenta Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the ring-shaped hole dilemma and the advice from sages and physicians about healing with bone vs. iron, which directly matches the 'Ring-Shaped Hole' section's prose \u2014 Rav Papa's qualification about flesh adhesion is just the concluding line of the same passage and fits naturally here.",
+      "chosen_heading": "Ring-Shaped Hole",
+      "current_heading": "Ring-Shaped Hole",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Placenta Impurity",
+    "candidates": [
+      "Flesh Adhesion",
+      "Limb Status",
+      "Placenta Alone",
+      "Placenta Impurity",
+      "Placenta Emerges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the actual mishna text being introduced by the 'Placenta Alone' prose, which sets up the scenario of finding a shilya without a visible fetus and asks 'what is its status?' \u2014 the mishna text directly answers that question, while 'Placenta Impurity' prose already paraphrases and explains the mishna's content, suggesting the mishna itself should precede that explanation under the introductory heading.",
+      "chosen_heading": "Placenta Alone",
+      "current_heading": "Placenta Impurity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Placenta Emerges",
+    "candidates": [
+      "Placenta Impurity",
+      "Placenta Emerges",
+      "Sacred Placenta",
+      "Firstborn Miscarriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling that a partially emerged shilya is forbidden to eat because it is a sign of a fetus, which is exactly what the 'Placenta Emerges' section's prose discusses in detail.",
+      "chosen_heading": "Placenta Emerges",
+      "current_heading": "Placenta Emerges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Firstborn Miscarriage",
+    "candidates": [
+      "Sacred Placenta",
+      "Firstborn Miscarriage",
+      "Textual Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 1's prose discusses: a firstborn-bearing animal expelling a placenta, the ruling to cast it to dogs, the prohibition on burying at crossroads or hanging on a tree, and the Amorite ways prohibition \u2014 all of which are explicitly addressed in the 'Firstborn Miscarriage' section prose.",
+      "chosen_heading": "Firstborn Miscarriage",
+      "current_heading": "Firstborn Miscarriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Textual Source",
+    "candidates": [
+      "Textual Source",
+      "No Placenta Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the scriptural derivation from 'kol behema tochlu' and the 'otah velo shilyatah' limitation, which is precisely what the 'Textual Source' prose describes.",
+      "chosen_heading": "Textual Source",
+      "current_heading": "Textual Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "No Placenta Alone",
+    "candidates": [
+      "No Placenta Alone",
+      "Impurity Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the Gemara's objection about 'ein shilya belo vlad' and the answer that the verse is merely an asmachta, which is precisely what the prose under 'No Placenta Alone' describes.",
+      "chosen_heading": "No Placenta Alone",
+      "current_heading": "No Placenta Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Impurity Status",
+    "candidates": [
+      "Impurity Status",
+      "Boiled Skin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the impurity status of hide and placenta (tumat ochlin and tumat neveilah), exactly matching the 'Impurity Status' prose which quotes the same baraitot about or sheshalko, hashilya shechishav aleha, and benevelatah velo be'orah.",
+      "chosen_heading": "Impurity Status",
+      "current_heading": "Impurity Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Boiled Skin",
+    "candidates": [
+      "Boiled Skin",
+      "Eleazar: Intertwined Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the boiled/cooked donkey skin question \u2014 item 1 is Rabba bar Rav \u1e24ana's clarification about tzikei kedera and item 2 is the Gemara's resolution that donkey skin may be repulsive (de-ma'is), both of which are explicitly described in the 'Boiled Skin' prose.",
+      "chosen_heading": "Boiled Skin",
+      "current_heading": "Boiled Skin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Eleazar: Intertwined Only",
+    "candidates": [
+      "Eleazar: Intertwined Only",
+      "Yochanan: Fetus Present",
+      "Eleazar Stricter",
+      "Animal-Like Fetus",
+      "Two Births"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Rabbi Elazar and Rabbi Yochanan about whether concern for another fetus applies when a fetus is present, which is exactly what heading 0 ('Eleazar: Intertwined Only') and heading 1 ('Yochanan: Fetus Present') together cover, but since this is the foundational text introducing both positions before the later clarification by Rabbi Yirmiyah, and it currently sits under heading 0 which discusses Rabbi Eleazar's initial position, the current placement is the correct home for this source passage.",
+      "chosen_heading": "Eleazar: Intertwined Only",
+      "current_heading": "Eleazar: Intertwined Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Two Births",
+    "candidates": [
+      "Yochanan: Fetus Present",
+      "Eleazar Stricter",
+      "Animal-Like Fetus",
+      "Two Births",
+      "Males < 50%"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together present Rabbi Yirmiyah's correction of Rabbi Elazar's position (showing it is actually the stricter view), Rabbi Yochanan's contrasting lenient position, and the supporting baraita \u2014 exactly what candidate 1 ('Eleazar Stricter') describes in its prose.",
+      "chosen_heading": "Eleazar Stricter",
+      "current_heading": "Two Births",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Males < 50%",
+    "candidates": [
+      "Two Births",
+      "Males < 50%",
+      "Counterfeit Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question (mai ta'ama) and Rav Ika's answer about rov/mi'ut regarding mevakeret, which is exactly what the 'Males < 50%' prose describes.",
+      "chosen_heading": "Males < 50%",
+      "current_heading": "Males < 50%",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Counterfeit Birth",
+    "candidates": [
+      "Counterfeit Birth",
+      "Sacred Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses combining the minority of nidmeh offspring with the female half to establish that valid bechor males are a minority, which is precisely what the 'Counterfeit Birth' prose section explains in detail.",
+      "chosen_heading": "Counterfeit Birth",
+      "current_heading": "Counterfeit Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Sacred Burial",
+    "candidates": [
+      "Sacred Burial",
+      "Health vs Sorcery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why a sacrificial animal's placenta must be buried due to the majority of offspring carrying kedushah, which directly matches the 'Sacred Burial' section's prose about mikdash animals and burial obligations.",
+      "chosen_heading": "Sacred Burial",
+      "current_heading": "Sacred Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Health vs Sorcery",
+    "candidates": [
+      "Health vs Sorcery",
+      "Tree Remedies",
+      "Prayer & Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Abaye and Rava ruling about darchei emori and the refuah criterion, which is precisely what the 'Health vs Sorcery' section's prose discusses and quotes.",
+      "chosen_heading": "Health vs Sorcery",
+      "current_heading": "Health vs Sorcery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Prayer & Healing",
+    "candidates": [
+      "Tree Remedies",
+      "Prayer & Healing",
+      "Rashi's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the baraita about painting/loading the tree, the explanation that painting prompts prayer, the metzora baraita supporting prayer, and Ravina's application \u2014 are precisely the content described in the 'Prayer & Healing' prose, which explicitly discusses each of these elements in sequence.",
+      "chosen_heading": "Prayer & Healing",
+      "current_heading": "Prayer & Healing",
+      "moved": false
+    }
+  }
+]

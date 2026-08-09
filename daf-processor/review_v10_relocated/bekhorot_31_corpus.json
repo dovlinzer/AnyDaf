@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "R. Shimon ben Gamliel",
+    "candidates": [
+      "Three Witnesses",
+      "Family Status",
+      "R. Shimon ben Gamliel",
+      "Talmid Chacham",
+      "Zaken v'Yoshev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita covers both the requirement to accept before three \u1e25averim (heading 0) and the family exemption/RSbG dispute (headings 1 and 2), but since the passage is a single unified baraita, heading 0 ('Three Witnesses') is where it naturally begins and its prose explicitly describes this baraita's opening content, making it the best single home \u2014 though the current placement at heading 2 captures only part of its content.",
+      "chosen_heading": "Three Witnesses",
+      "current_heading": "R. Shimon ben Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Zaken v'Yoshev",
+    "candidates": [
+      "Talmid Chacham",
+      "Zaken v'Yoshev",
+      "Two Groups",
+      "R. Yochanan",
+      "Chanina Story",
+      "Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Talmid Chacham' (candidate 0) directly discusses this entire baraita \u2014 including the rule that even a talmid chacham must accept before three chaveirim, the zaken v'yoshev exception, and Abba Shaul's view \u2014 making it the best single home for the whole passage, whereas candidates 1 and 2 only address portions of it.",
+      "chosen_heading": "Talmid Chacham",
+      "current_heading": "Zaken v'Yoshev",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Refusal",
+    "candidates": [
+      "Two Groups",
+      "R. Yochanan",
+      "Chanina Story",
+      "Refusal",
+      "Complaint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's statement about the mishna being taught in the days of the son of Rabbi Chanina ben Antigonus, followed by the narrative about Rabbi Yehuda and Rabbi Yosi sending emissaries \u2014 content that matches heading 1 ('R. Yochanan') whose prose explicitly describes this temporal anchor and the narrative that follows it.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "Refusal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Complaint",
+    "candidates": [
+      "Refusal",
+      "Complaint",
+      "Priests' Status",
+      "Conflation",
+      "After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complaint-and-response exchange between Rabbi Yehuda and Rabbi Yosei, which is precisely what the 'Complaint' section's prose describes in detail \u2014 Rabbi Yehuda's sharp criticism and Rabbi Yosei's temperate reply about the elder's honor.",
+      "chosen_heading": "Complaint",
+      "current_heading": "Complaint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "After Death",
+    "candidates": [
+      "Priests' Status",
+      "Conflation",
+      "After Death",
+      "Market Analogy",
+      "Woman Enters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses both the presumptive status of a deceased \u1e25aver's family members and the parallel case of the techeiles-selling courtyard, which are both introduced together in this single baraita \u2014 and the current heading 'After Death' with its prose directly addresses this exact content about the \u1e25aver's household retaining presumptive status.",
+      "chosen_heading": "After Death",
+      "current_heading": "After Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Woman Enters",
+    "candidates": [
+      "Market Analogy",
+      "Woman Enters",
+      "Woman Exits",
+      "R. Meir Strict",
+      "Woman Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly presents both the 'enters chaver household' and 'exits chaver household' cases, but the prose under heading 1 ('Woman Enters') explicitly discusses this exact baraita in full, covering both the wife/daughter/slave of am ha'aretz marrying a chaver AND the reverse case, making it the clear home for this passage.",
+      "chosen_heading": "Woman Enters",
+      "current_heading": "Woman Enters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Woman Story",
+    "candidates": [
+      "Woman Exits",
+      "R. Meir Strict",
+      "Woman Story",
+      "Original View",
+      "R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 2's prose: Rabbi Meir's ruling that they must re-accept chaveirus and the illustrative story of the woman who moved from a chaver husband to a tax collector husband, which is precisely what 'Woman Story' discusses.",
+      "chosen_heading": "Woman Story",
+      "current_heading": "Woman Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "R. Yehuda",
+    "candidates": [
+      "Original View",
+      "R. Yehuda",
+      "Private Repentance",
+      "Always Accept"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Original View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rabbi Meir's ruling (never accept them back) and Rabbi Yehuda's distinction (private vs. public backsliding), which matches the prose of heading 0 ('Original View') that explicitly discusses both Rabbi Meir's position and introduces Rabbi Yehuda's nuance \u2014 and heading 1 ('R. Yehuda') also covers this same content, but the baraita as a single unit is best placed under heading 0 which introduces the whole baraita and discusses both opinions together.",
+      "second_heading": "Private Repentance",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'ikka d'amri' alternative reading about private practice during the lapsed period, which corresponds precisely to heading 2 ('Private Repentance') whose prose explicitly discusses this alternative formulation and its reasoning about private vs. public teshuva.",
+      "current_heading": "R. Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Always Accept",
+    "candidates": [
+      "Private Repentance",
+      "Always Accept",
+      "Ruling",
+      "Tax Collector"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon and Rabbi Yehoshua ben Korcha's inclusive position and Rabbi Yochanan's ruling that the halakha follows them, which maps directly to the 'Always Accept' section's prose about their view, with the ruling attribution fitting naturally as part of that same section rather than needing to be split off.",
+      "chosen_heading": "Always Accept",
+      "current_heading": "Always Accept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Tax Collector",
+    "candidates": [
+      "Ruling",
+      "Tax Collector",
+      "Three Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the tax collector (gabbai) scenario \u2014 the baraita about accepting/rejecting a \u1e25aver who became a tax collector, the story of Rav Huna bar \u1e24iyya, and the dispute between Rav Yosef and Rabba about which ruling to follow \u2014 which is precisely what the 'Tax Collector' section prose describes.",
+      "chosen_heading": "Tax Collector",
+      "current_heading": "Tax Collector",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Three Judges",
+    "candidates": [
+      "Three Judges",
+      "Sanctified Items",
+      "Ma'aser",
+      "Taharat",
+      "Tosafos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the baraita about inspecting firstborns, the question of one vs. three judges, and Rav \u1e24isda/Rabbi Yo\u1e25anan's ruling about a single expert (mumcheh) \u2014 exactly the content described in the 'Three Judges' prose.",
+      "chosen_heading": "Three Judges",
+      "current_heading": "Three Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Tosafos",
+    "candidates": [
+      "Sanctified Items",
+      "Ma'aser",
+      "Taharat",
+      "Tosafos",
+      "Market Sales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's explanations of why the owner may inspect his own kodshim, ma'aser, and taharos \u2014 matching the sequence of candidates 0, 1, 2 \u2014 but since all three items belong together under one heading, the best single match covering the opening item (kodshim/sanctified animals) is candidate 0, which directly discusses the 'ee baei misheil alei' reasoning for kodshim that corresponds to Item 1, with Items 2 and 3 being the continuation of that same sugya; however, re-examining, all three items map exactly onto candidates 0, 1, and 2 in sequence, so this is actually a three-way split \u2014 but since FORM 2 only allows one split, and the items form a continuous Talmudic sugya on the same baraita, the passage as a whole most naturally belongs under candidate 0 ('Sanctified Items') as the starting point of this unified discussion.",
+      "chosen_heading": "Sanctified Items",
+      "current_heading": "Tosafos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Market Sales",
+    "candidates": [
+      "Tosafos",
+      "Market Sales",
+      "Restrictions",
+      "Balance Weighing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishnah of the perek discussing pesulei hamukdashim being sold in the butchers' market, which is precisely what the 'Market Sales' prose section describes.",
+      "chosen_heading": "Market Sales",
+      "current_heading": "Market Sales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Balance Weighing",
+    "candidates": [
+      "Restrictions",
+      "Balance Weighing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the balance-weighing leniency for bechor (shoklin mane keneged mane), which directly matches the 'Balance Weighing' section's prose about this exact practice.",
+      "chosen_heading": "Balance Weighing",
+      "current_heading": "Balance Weighing",
+      "moved": false
+    }
+  }
+]

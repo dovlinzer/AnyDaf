@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Seven Me'akev",
+    "candidates": [
+      "Perek Opening",
+      "Four Corners Dispute",
+      "Scriptural Source",
+      "Par He'elam Davar",
+      "Seven Me'akev",
+      "Why Seven Privileged",
+      "Rav Pappa Answer",
+      "Ken Yaase Four",
+      "Both Repeated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's answer (b'parah u'b'nega'im) to the question of where seven applications are indispensable, which is precisely what the 'Rav Pappa Answer' section's prose describes.",
+      "chosen_heading": "Rav Pappa Answer",
+      "current_heading": "Seven Me'akev",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Both Repeated",
+    "candidates": [
+      "Why Seven Privileged",
+      "Rav Pappa Answer",
+      "Ken Yaase Four",
+      "Both Repeated",
+      "R. Shimon Two Plus Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks why the four placements need a separate derivation when both seven and four are 'written and repeated,' directly matching the 'Both Repeated' section's prose which articulates precisely this objection: *matan arba nami ktivan v'chefilan*.",
+      "chosen_heading": "Both Repeated",
+      "current_heading": "Both Repeated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "R. Shimon Two Plus Two",
+    "candidates": [
+      "R. Shimon Two Plus Two",
+      "R. Yehuda Ohel Moed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yirmeya's statement and the baraita about Rabbi Shimon's two-plus-two derivation of four corners, which is precisely what the prose under 'R. Shimon Two Plus Two' describes.",
+      "chosen_heading": "R. Shimon Two Plus Two",
+      "current_heading": "R. Shimon Two Plus Two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "R. Yehuda Ohel Moed",
+    "candidates": [
+      "R. Yehuda Ohel Moed",
+      "Gemara Challenge",
+      "Yom Kippur Comparison",
+      "Missing Elements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's derivation from 'b'ohel mo'ed' and then asks what he does with 'ken ya'aseh,' which is exactly the content described in candidate 0's prose.",
+      "chosen_heading": "R. Yehuda Ohel Moed",
+      "current_heading": "R. Yehuda Ohel Moed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Missing Elements",
+    "candidates": [
+      "Gemara Challenge",
+      "Yom Kippur Comparison",
+      "Missing Elements",
+      "Ken Yaase Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct answer to the challenge posed in 'Gemara Challenge' \u2014 explaining that Rabbi Yehuda needs ken ya'aseh for the baraita about the Par Yom HaKippurim's semicha and shiyarei hadam \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Missing Elements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Ken Yaase Teaching",
+    "candidates": [
+      "Missing Elements",
+      "Ken Yaase Teaching",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1 and 2 directly address the Gemara's question about why ken ya'aseh is needed when lapar already teaches about the Par Yom HaKippurim, with the answer distinguishing me'akev from non-me'akev avodot \u2014 precisely the distinction the 'Ken Yaase Teaching' prose elaborates at length; Item 3 about Rabbi Shimon and 'b'ohel mo'ed' also fits within this section's discussion of the parallel exegetical framework.",
+      "chosen_heading": "Ken Yaase Teaching",
+      "current_heading": "Ken Yaase Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Abaye's Resolution",
+      "Gemara Concern",
+      "Rav Nachman Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's resolution explaining why even Rabbi Yehuda needs 'ken ya'aseh' to establish the four placements as me'akev, which matches exactly the prose in candidate 0 describing Abaye's clean resolution of the braita's structure.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Rav Nachman Answer",
+    "candidates": [
+      "Gemara Concern",
+      "Rav Nachman Answer",
+      "Es = Wart Allowed",
+      "Ba'dam = Amount",
+      "V'taval = Immersion",
+      "Both Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous discussion: items 1-5 address why 'lapar' is needed (the Rav Nachman/Rav Pappa exchange about Rabbi Yehuda), and items 6-8 give Rav Pappa's final answer about et/ba-dam/v'taval \u2014 exactly the content described in the 'Rav Nachman Answer' prose, which covers the entire arc from the initial question through Rav Pappa's conclusion about the three technical halakhot.",
+      "chosen_heading": "Rav Nachman Answer",
+      "current_heading": "Rav Nachman Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Both Needed",
+    "candidates": [
+      "Es = Wart Allowed",
+      "Ba'dam = Amount",
+      "V'taval = Immersion",
+      "Both Needed",
+      "Incense Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains why both 'ba-dam' and 'v'taval' are needed \u2014 each term covers what the other alone would miss \u2014 which is precisely what the 'Both Needed' section's prose describes.",
+      "chosen_heading": "Both Needed",
+      "current_heading": "Both Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Incense Requirement",
+    "candidates": [
+      "Incense Requirement",
+      "No Word Needed",
+      "Kal Vachomer Setup",
+      "Overlapping Procedures"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Incense Requirement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about why the verse specifies 'altar of sweet incense' and the inauguration requirement, which matches exactly the 'Incense Requirement' prose.",
+      "second_heading": "No Word Needed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a baraita supporting Rav Pappa's view that 'lapar' includes the Yom Kippur bull for all matters stated in the passage, which matches the 'No Word Needed' section's discussion of what 'lapar' teaches.",
+      "current_heading": "Incense Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Overlapping Procedures",
+    "candidates": [
+      "No Word Needed",
+      "Kal Vachomer Setup",
+      "Overlapping Procedures",
+      "Kal Vachomer Logic",
+      "Second Kal Vachomer",
+      "Hekesh Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All 8 items form one continuous Gemara discussion of Rabbi Yishmael's kal vachomer \u2014 starting with his argument and what lapar teaches, through the Gemara's unpacking of the kal vachomer's premise, to the conclusion about par and se'ir of Yom Kippur \u2014 and candidate 0 introduces this entire discussion, making it the best single home for the whole passage.",
+      "chosen_heading": "No Word Needed",
+      "current_heading": "Overlapping Procedures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Hekesh Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer Logic",
+      "Second Kal Vachomer",
+      "Hekesh Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the objection about whether a hekesh-derived matter can teach via kal vachomer and Rav Pappa's resolution citing the school of Rabbi Yishmael, which is precisely what the 'Hekesh Kal Vachomer' section's prose describes.",
+      "chosen_heading": "Hekesh Kal Vachomer",
+      "current_heading": "Hekesh Kal Vachomer",
+      "moved": false
+    }
+  }
+]

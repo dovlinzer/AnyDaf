@@ -1,0 +1,459 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Rabbi Eliezer Position",
+    "candidates": [
+      "Rabbi Eliezer Position",
+      "Rabbi Yehoshua Position",
+      "Textual Analysis",
+      "Vegetation Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Eliezer Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's inferential wrap-up comment that both Rabbi Meir and Rabbi Elazar hold the world was created in Nisan, which belongs with the prior discussion, but items 2-4 are the baraita presenting Rabbi Eliezer's and Rabbi Yehoshua's positions \u2014 the very content described under 'Rabbi Eliezer Position' and 'Rabbi Yehoshua Position'; however, since items 2-3 cover Rabbi Eliezer's position and item 4 covers Rabbi Yehoshua's, and the current placement is heading 0 ('Rabbi Eliezer Position'), items 2-3 fit there while item 4 belongs under heading 1.",
+      "second_heading": "Rabbi Yehoshua Position",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rabbi Yehoshua's complete statement, which is precisely what heading 1 ('Rabbi Yehoshua Position') describes in its prose.",
+      "current_heading": "Rabbi Eliezer Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Vegetation Verse",
+    "candidates": [
+      "Rabbi Yehoshua Position",
+      "Textual Analysis",
+      "Vegetation Verse",
+      "Tishrei Fruit Season",
+      "Grass Growth Climate",
+      "Tishrei Rains",
+      "Sprouting Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita presenting Rabbi Eliezer's proof from vegetation (tadshe ha-aretz) and the rain/mist verse, which is exactly what the 'Vegetation Verse' section's prose describes it will cite and discuss.",
+      "chosen_heading": "Vegetation Verse",
+      "current_heading": "Vegetation Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Sprouting Verse",
+    "candidates": [
+      "Tishrei Fruit Season",
+      "Grass Growth Climate",
+      "Tishrei Rains",
+      "Sprouting Verse",
+      "Nissan Fertility",
+      "Full Stature Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua's proof that the world was created in Nisan based on the verse about the earth bringing forth grass and trees making fruit, which is precisely what the 'Sprouting Verse' section's prose discusses.",
+      "chosen_heading": "Sprouting Verse",
+      "current_heading": "Sprouting Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Full Stature Creation",
+    "candidates": [
+      "Nissan Fertility",
+      "Full Stature Creation",
+      "Maturity Concept",
+      "Consent Doctrine",
+      "Distinctive Form",
+      "Etanim Month"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Full Stature Creation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses Rabbi Eliezer's response to 'etz oseh peri' \u2014 that it was written as a blessing for future generations \u2014 which is precisely what the 'Full Stature Creation' prose discusses.",
+      "second_heading": "Maturity Concept",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yehoshua ben Levi's principle that all creation was made at full stature (komatan/leda'atan/tzevyonam), which is exactly what the 'Maturity Concept' prose discusses as Rabbi Yehoshua's answer to the 'etz peri' challenge.",
+      "current_heading": "Full Stature Creation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Etanim Month",
+    "candidates": [
+      "Maturity Concept",
+      "Consent Doctrine",
+      "Distinctive Form",
+      "Etanim Month",
+      "Etanim Strength",
+      "Mountains Fathers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Eliezer's derivation that the Patriarchs were born in Tishrei from the verse about 'yerach ha-Etanim,' which is precisely what the 'Etanim Month' section's prose discusses.",
+      "chosen_heading": "Etanim Month",
+      "current_heading": "Etanim Month",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Mountains Fathers",
+    "candidates": [
+      "Etanim Strength",
+      "Mountains Fathers",
+      "Ziv Blossoming"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the derivation that 'eitan' means strength (via the two cited verses) AND the Shir HaShirim verse about mountains/hills and Patriarchs/Matriarchs, but candidate 0's prose explicitly discusses the derivation of 'eitan' as strength and cites both supporting verses, while candidate 1's prose discusses only the Shir HaShirim extension \u2014 however, since the Talmudic passage is a single unified unit presenting all three verses together as one argument, and candidate 0 covers the primary question being asked (mai mashma), it is the better home for the complete passage.",
+      "chosen_heading": "Etanim Strength",
+      "current_heading": "Mountains Fathers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Ziv Blossoming",
+    "candidates": [
+      "Ziv Blossoming",
+      "Blossoming Bracha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua's proof from 'chodesh Ziv' that the Patriarchs were born in Nissan, which is precisely what the prose in candidate 0 ('Ziv Blossoming') discusses in detail, including Rashi's explanations of the difficulty with this verse.",
+      "chosen_heading": "Ziv Blossoming",
+      "current_heading": "Ziv Blossoming",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Blossoming Bracha",
+    "candidates": [
+      "Blossoming Bracha",
+      "Death Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the alternate tanna's explanation of the opposing verse (yerach ha-Etanim as mighty in mitzvot, and chodesh Ziv as radiance of blossoming trees), which is precisely what the 'Blossoming Bracha' prose describes in detail, including Rav Yehuda's blessing upon seeing blossoming trees in Nisan.",
+      "chosen_heading": "Blossoming Bracha",
+      "current_heading": "Blossoming Bracha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Death Parallels",
+    "candidates": [
+      "Death Parallels",
+      "Sarah Promise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the death-birth date parallel for the Patriarchs and Moses's 'today' teaching, which is exactly what the 'Death Parallels' section prose discusses in detail.",
+      "chosen_heading": "Death Parallels",
+      "current_heading": "Death Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Sarah Promise",
+    "candidates": [
+      "Sarah Promise",
+      "Leap Year Need",
+      "Impurity Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's derivation that Isaac was born on Passover from the word 'mo'ed' and the step-by-step reasoning about when the angel made the promise, which is precisely what the 'Sarah Promise' section's prose discusses.",
+      "chosen_heading": "Sarah Promise",
+      "current_heading": "Sarah Promise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Impurity Calculation",
+    "candidates": [
+      "Leap Year Need",
+      "Impurity Calculation",
+      "Seventh Month Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the leap year question and answer AND the impurity calculation question in a single continuous Gemara exchange, but the leap year content is the primary subject that opens the passage, and candidate 0's prose explicitly describes both the six-month challenge and the leap year answer that appear in this text, while the impurity question at the end of the passage is introduced as a follow-up that leads into the next section.",
+      "chosen_heading": "Leap Year Need",
+      "current_heading": "Impurity Calculation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Seventh Month Birth",
+    "candidates": [
+      "Impurity Calculation",
+      "Seventh Month Birth",
+      "Rosh Hashanah Zichron"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra's statement about seventh-month births being viable even if incomplete, derived from the verse about Hannah, which is precisely what the 'Seventh Month Birth' prose section describes and analyzes.",
+      "chosen_heading": "Seventh Month Birth",
+      "current_heading": "Seventh Month Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rosh Hashanah Zichron",
+    "candidates": [
+      "Rosh Hashanah Zichron",
+      "Rachel Chana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's specific content focuses on the gezeira shava derivation linking Rachel and Hannah to Rosh Hashanah through the word 'zechira,' which is precisely what the 'Rachel Chana' prose describes, making it a clearly better match than the current placement.",
+      "chosen_heading": "Rachel Chana",
+      "current_heading": "Rosh Hashanah Zichron",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rachel Chana",
+    "candidates": [
+      "Rosh Hashanah Zichron",
+      "Rachel Chana",
+      "Sarah Pekida",
+      "Timeline Tension",
+      "Joseph Forgot",
+      "Tekua Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives the Rosh Hashanah connection for Sarah through a gezeira shava on the word 'pekida' linking Hannah and Sarah, which is precisely what the 'Sarah Pekida' section's prose describes.",
+      "chosen_heading": "Sarah Pekida",
+      "current_heading": "Rachel Chana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Tekua Shofar",
+    "candidates": [
+      "Sarah Pekida",
+      "Timeline Tension",
+      "Joseph Forgot",
+      "Tekua Shofar",
+      "Work Stopped"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the textual proof for Joseph's release on Rosh HaShana using the exact verses from Psalms 81 (tiku va-chodesh shofar / edut bi-Yehosef samo be-tzeito), which is precisely what the 'Tekua Shofar' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Tekua Shofar",
+      "current_heading": "Tekua Shofar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Work Stopped",
+    "candidates": [
+      "Work Stopped",
+      "Leil Shimurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the cessation of slavery in Egypt on Rosh HaShana with the gezeira shava on sevel/sivlot, which is precisely what the 'Work Stopped' section's prose discusses.",
+      "chosen_heading": "Work Stopped",
+      "current_heading": "Work Stopped",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Leil Shimurim",
+    "candidates": [
+      "Leil Shimurim",
+      "Nissan Tishrei Theology",
+      "Yehoshua Mabul Date",
+      "Kima Stars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the Rabbi Eliezer/Rabbi Yehoshua debate about Nissan vs. Tishrei redemption, the shofar gezeira shava, and the competing readings of 'leil shimurim' \u2014 exactly what the 'Leil Shimurim' section prose describes in detail.",
+      "chosen_heading": "Leil Shimurim",
+      "current_heading": "Leil Shimurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Kima Stars",
+    "candidates": [
+      "Nissan Tishrei Theology",
+      "Yehoshua Mabul Date",
+      "Kima Stars",
+      "Zodiac Signs",
+      "Eliezer Mabul Date"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehoshua Mabul Date",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehoshua's position on the flood date (17th of Iyyar, Kima setting, springs diminishing, God's change), which matches heading 1 ('Yehoshua Mabul Date') and its prose about Rabbi Yehoshua counting from Nissan making Iyyar the second month.",
+      "second_heading": "Eliezer Mabul Date",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rabbi Eliezer's position (17th of Marcheshvan, Kima rising, springs increasing, God's change), which matches heading 4 ('Eliezer Mabul Date') whose prose explicitly discusses Rabbi Eliezer's date of 17th of Marcheshvan and the question of what God changed.",
+      "current_heading": "Kima Stars",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Eliezer Mabul Date",
+    "candidates": [
+      "Zodiac Signs",
+      "Eliezer Mabul Date",
+      "Boiling Water Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the gemara's challenge about what 'second month' means and what God 'changed' according to Rabbi Eliezer \u2014 precisely the questions that the 'Eliezer Mabul Date' prose sets up, asking what shina means if Marcheshvan is already the natural rainy season.",
+      "chosen_heading": "Eliezer Mabul Date",
+      "current_heading": "Eliezer Mabul Date",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Boiling Water Sin",
+    "candidates": [
+      "Boiling Water Sin",
+      "Jewish Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly about Rav \u1e24isda's teaching on boiling water sin and punishment, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Boiling Water Sin",
+      "current_heading": "Boiling Water Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Jewish Counting",
+    "candidates": [
+      "Jewish Counting",
+      "Non-Jewish Counting",
+      "Tekufa Reference",
+      "Conclusion Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita describes the Jewish sages' split counting method (Tishrei for the flood, Nissan for tekufot), which is precisely what the 'Jewish Counting' prose section discusses.",
+      "chosen_heading": "Jewish Counting",
+      "current_heading": "Jewish Counting",
+      "moved": false
+    }
+  }
+]

@@ -124,8 +124,8 @@
           "timestamp": "20:27"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Father's Testimony Against Presumption: Huzka and Bechor Status",
@@ -586,5 +586,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "24:14",
+  "amud_b_micro_title": "Yehuda vs. Rabbanan",
+  "shiur_start_daf": 127,
+  "shiur_start_amud": "a"
 }

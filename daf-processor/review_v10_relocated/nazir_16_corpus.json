@@ -1,0 +1,254 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Day 31 vs Day 30",
+    "candidates": [
+      "Day 31 vs Day 30",
+      "Tosafot on De'oraita",
+      "Miktzat Hayom",
+      "L'chatchila Bedieved",
+      "One Day Two Periods",
+      "40 Structural",
+      "40 Examples",
+      "Melachot Count",
+      "Rabbi Papyas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself distinguishing between stam nazirite (shaves day 31, fulfilled bedi'eved on day 30) and explicitly-stated 30-day nazirite (not fulfilled on day 30), which is precisely what the prose under 'Day 31 vs Day 30' explains and analyzes.",
+      "chosen_heading": "Day 31 vs Day 30",
+      "current_heading": "Day 31 vs Day 30",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rabbi Papyas",
+    "candidates": [
+      "Tosafot on De'oraita",
+      "Miktzat Hayom",
+      "L'chatchila Bedieved",
+      "One Day Two Periods",
+      "40 Structural",
+      "40 Examples",
+      "Melachot Count",
+      "Rabbi Papyas",
+      "Stam Day 30"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the lechatchila/bedi'eved shaving days for two consecutive neziriyos (31st/61st vs 30th/60th vs 59th), which is precisely what candidate 2 ('L'chatchila Bedieved') describes, including the specific formulation 'im gilach yom shishim chasar echad yatza' and the cascading day calculations \u2014 a better match than the current placement under 'Rabbi Papyas' which discusses only the testimony aspect.",
+      "chosen_heading": "L'chatchila Bedieved",
+      "current_heading": "Rabbi Papyas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Stam Day 30",
+    "candidates": [
+      "Rabbi Papyas",
+      "Stam Day 30",
+      "Explicit Day 30",
+      "100-day Tumah",
+      "Day 101",
+      "Yom Milat",
+      "30-day Puzzle",
+      "Shelemim",
+      "Bar Pada Matna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna about stam nezirut becoming tamei on day 30, the Gemara's restatement of that mishna, and Rabbi Eliezer's explanatory principle about yom shloshim/shelemim \u2014 directly address the 'Stam Day 30' case that heading 1's prose describes, including Rabbi Eliezer's position that only seven days of taharah are required.",
+      "chosen_heading": "Stam Day 30",
+      "current_heading": "Stam Day 30",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Bar Pada Matna",
+    "candidates": [
+      "Explicit Day 30",
+      "100-day Tumah",
+      "Day 101",
+      "Yom Milat",
+      "30-day Puzzle",
+      "Shelemim",
+      "Bar Pada Matna",
+      "Cemetery Case",
+      "Left Returned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the 100-day nazir case where tumah on day 100 cancels everything (Tanna Kamma) or only 30 days (Rabbi Eliezer), with the closing note that the entire mishna follows the Bar Padda/Rav Mattana discussion \u2014 this is precisely what heading 1 ('100-day Tumah') discusses, while the current placement (heading 6, 'Bar Pada Matna') covers the resolution and synthesis, not the primary presentation of this case.",
+      "chosen_heading": "100-day Tumah",
+      "current_heading": "Bar Pada Matna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Left Returned",
+    "candidates": [
+      "Cemetery Case",
+      "Left Returned",
+      "R. Eliezer 7th Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text covering both the cemetery case (days don't count, no korban tumah) and the left-and-returned case (days count, korban tumah applies), and candidate 0 ('Cemetery Case') is the section whose prose discusses the full mishnah including both halves, while candidate 1 ('Left Returned') is a commentary section that should follow the mishnah text rather than contain it.",
+      "chosen_heading": "Cemetery Case",
+      "current_heading": "Left Returned",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "R. Eliezer 7th Day",
+    "candidates": [
+      "Left Returned",
+      "R. Eliezer 7th Day",
+      "Matla Talya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Eliezer's statement about 'lo bo ba-yom' and the requirement for 'yamim rishonim,' which is precisely what the 'R. Eliezer 7th Day' prose section discusses.",
+      "chosen_heading": "R. Eliezer 7th Day",
+      "current_heading": "R. Eliezer 7th Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Matla Talya",
+    "candidates": [
+      "Matla Talya",
+      "No Effect",
+      "Challenge 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yochanan's and Reish Lakish's positions in a single Gemara excerpt, and the current heading 'Matla Talya' introduces the full dispute including both opinions; the content matches the prose under heading 0 which explicitly discusses both views together.",
+      "chosen_heading": "Matla Talya",
+      "current_heading": "Matla Talya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Challenge 1",
+    "candidates": [
+      "No Effect",
+      "Challenge 1",
+      "Defense 1",
+      "Challenge 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's challenge to Reish Lakish from the mishna about the 30-day cemetery case and his inference that nezirut does take effect, plus Reish Lakish's deflection \u2014 exactly what 'Challenge 1' describes, and the current placement is correct.",
+      "chosen_heading": "Challenge 1",
+      "current_heading": "Challenge 1",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Challenge 2",
+    "candidates": [
+      "Defense 1",
+      "Challenge 2",
+      "Defense 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly the Tosefta challenge described in 'Challenge 2' prose, which explicitly discusses the same baraita about a tamei person who accepted nezirut receiving malkos, and the same ei amrat bishlama chaila argument.",
+      "chosen_heading": "Challenge 2",
+      "current_heading": "Challenge 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Defense 2",
+    "candidates": [
+      "Defense 2",
+      "Challenge 3"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'With what are we dealing here? With one who left and entered' is Reish Lakish's response to Challenge 3's baraita, explaining yotzei ve-nichnas as the resolution \u2014 it belongs under Challenge 3, not Defense 2 which describes a different aspect of the yotzei ve-nichnas mechanism.",
+      "chosen_heading": "Challenge 3",
+      "current_heading": "Defense 2",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Challenge 3",
+    "candidates": [
+      "Defense 2",
+      "Challenge 3",
+      "Intentional Tumah",
+      "Bal Tacher",
+      "Lav She'ein Bo",
+      "Distinction",
+      "Neder-like",
+      "Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the difference between a tamei person who vowed nezirut and a tahor nazir who became tamei, along with the challenge it poses to Reish Lakish \u2014 exactly what the prose of 'Challenge 3' describes in detail.",
+      "chosen_heading": "Challenge 3",
+      "current_heading": "Challenge 3",
+      "moved": false
+    }
+  }
+]

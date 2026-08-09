@@ -1,0 +1,392 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav Chaviva on Neveilah",
+    "candidates": [
+      "Rav Chaviva on Neveilah",
+      "Beyond Zera Zerua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24aviva's statement about the shomer of neveilah being different, which exactly matches the prose in heading 0 that explains his answer about why the extra pasuk by neveilah teaches a din of yad rather than a din of shomer.",
+      "chosen_heading": "Rav Chaviva on Neveilah",
+      "current_heading": "Rav Chaviva on Neveilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Beyond Zera Zerua",
+    "candidates": [
+      "Beyond Zera Zerua",
+      "Three Verses Generalize",
+      "Rav: No Yad Hechsher"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Beyond Zera Zerua",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Rav Yehuda bar Yishmael's objections (the pomegranate pitema challenge and the meat/skin challenge) which are exactly what candidate 0's prose describes as the challenge rooted in the pesukim going beyond the zera zerua model.",
+      "second_heading": "Three Verses Generalize",
+      "second_confidence": "high",
+      "second_reason": "Item 4 gives the resolution \u2014 three verses generalizing shomer to seeds, trees, and meat/eggs/fish \u2014 which is precisely what candidate 1's prose describes as the Gemara's answer ela tlata kra'ei ketivi.",
+      "current_heading": "Beyond Zera Zerua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Rav: No Yad Hechsher",
+    "candidates": [
+      "Three Verses Generalize",
+      "Rav: No Yad Hechsher",
+      "R. Yochanan: Yad Both",
+      "Debate Basis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav: No Yad Hechsher",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's ruling that there is yad for tumah but not for hechsher, which matches exactly the prose of candidate 1 ('Rav: No Yad Hechsher').",
+      "second_heading": "R. Yochanan: Yad Both",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan's disagreeing ruling that yad applies to both tumah and hechsher, which matches exactly the prose of candidate 2 ('R. Yochanan: Yad Both').",
+      "current_heading": "Rav: No Yad Hechsher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Debate Basis",
+    "candidates": [
+      "R. Yochanan: Yad Both",
+      "Debate Basis",
+      "Attached to Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the Gemara's explanation of the basis for the debate (be-mai miflagi) \u2014 covering both the textual interpretation (mikra nidrash le-fanav) and the conceptual argument (hechsher techilas tumah) \u2014 which is precisely what the 'Debate Basis' prose section describes in detail.",
+      "chosen_heading": "Debate Basis",
+      "current_heading": "Debate Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Attached to Tree",
+    "candidates": [
+      "Attached to Tree",
+      "Rav: Kezayis & Kepol",
+      "R. Yochanan: No Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly supports Rabbi Yochanan's position on yad le-hechsher and the rule that produce cannot receive tumah or hechsher while still attached, which is precisely what the 'Attached to Tree' section's prose discusses.",
+      "chosen_heading": "Attached to Tree",
+      "current_heading": "Attached to Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "R. Yochanan: No Minimum",
+    "candidates": [
+      "Rav: Kezayis & Kepol",
+      "R. Yochanan: No Minimum",
+      "Two Bones Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is Rav's ruling about no yad/shomer below kezayis/kepol, which is exactly what heading 0 ('Rav: Kezayis & Kepol') describes, and Item 2 is Rabbi Yochanan's opposing ruling \u2014 both together form the dispute that heading 0 introduces, while the current placement under heading 1 ('R. Yochanan: No Minimum') only captures half the dispute.",
+      "chosen_heading": "Rav: Kezayis & Kepol",
+      "current_heading": "R. Yochanan: No Minimum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Two Bones Case",
+    "candidates": [
+      "R. Yochanan: No Minimum",
+      "Two Bones Case",
+      "Combine Halves?",
+      "Positions Aligned",
+      "Thigh Bone Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Bones Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Tosefta challenge about two bones with half-kezayis portions, which is precisely what heading 1 ('Two Bones Case') describes \u2014 the beraita challenge to Rav involving bones each bearing half a kezayis.",
+      "second_heading": "Combine Halves?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Yehuda ben Nekosa's objection asking how two bones combine for a kezayis, which is exactly what heading 2 ('Combine Halves?') opens with \u2014 citing that very question as the starting point of its discussion.",
+      "current_heading": "Two Bones Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Thigh Bone Case",
+    "candidates": [
+      "Combine Halves?",
+      "Positions Aligned",
+      "Thigh Bone Case",
+      "Whole vs Fragmented"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 12,
+      "first_heading": "Thigh Bone Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-12 discuss the thigh bone (kulit) beraita, the dispute between Rabbi Yehuda and Acherim, and how Rav and Rabbi Yochanan align with those opinions, which is exactly what the 'Thigh Bone Case' prose describes.",
+      "second_heading": "Whole vs Fragmented",
+      "second_confidence": "high",
+      "second_reason": "Items 13-19 introduce the new dispute between Rabbi \u1e24anina and Rabbi Yo\u1e25anan about whether the bean-bulk is a specific measure, followed by the pod/stalk cases and the biryah principle, which exactly matches the 'Whole vs Fragmented' prose.",
+      "current_heading": "Thigh Bone Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Whole vs Fragmented",
+    "candidates": [
+      "Whole vs Fragmented",
+      "No Shomer on Shomer",
+      "Split Shomer Q",
+      "Multiple Foods OK",
+      "Grain Row Union",
+      "Grain Row Union",
+      "Shimon Wheat",
+      "Bone as Yad Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "No Shomer on Shomer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 establish that shomer al gabei shomer is not recognized, matching candidate 1's prose about Rabbi Oshaya's question being clarified and the onion mishna proving no shomer on a shomer.",
+      "second_heading": "Split Shomer Q",
+      "second_confidence": "high",
+      "second_reason": "Items 5-15 address the actual dilemma of a split shomer and all subsequent proofs/resolutions, matching candidate 2's prose about the split shomer question.",
+      "current_heading": "Whole vs Fragmented",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Bone as Yad Dispute",
+    "candidates": [
+      "No Shomer on Shomer",
+      "Split Shomer Q",
+      "Multiple Foods OK",
+      "Grain Row Union",
+      "Grain Row Union",
+      "Shimon Wheat",
+      "Bone as Yad Dispute",
+      "R. Lakish Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items discuss the Tosefta case of two bones each with a half-olive-bulk of flesh brought under a roof, which is precisely what the 'Bone as Yad Dispute' prose describes as the Gemara returning to examine.",
+      "chosen_heading": "Bone as Yad Dispute",
+      "current_heading": "Bone as Yad Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "R. Lakish Position",
+    "candidates": [
+      "R. Lakish Position",
+      "R. Yochanan Position",
+      "Hair Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Reish Lakish's and Rabbi Yochanan's positions together, but its primary content \u2014 Reish Lakish's distinction between bone and hair as a yad \u2014 matches the current heading's prose most directly, and the current placement is correct.",
+      "chosen_heading": "R. Lakish Position",
+      "current_heading": "R. Lakish Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Hair Proof",
+    "candidates": [
+      "R. Yochanan Position",
+      "Hair Proof",
+      "Shomer Problem",
+      "Hair Penetrates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's objection from the mishna about hide with an olive-bulk of flesh where touching a strand or hair causes impurity, which is exactly what the 'Hair Proof' section describes \u2014 an explicit source including hair as a vehicle for tumah to challenge Reish Lakish.",
+      "chosen_heading": "Hair Proof",
+      "current_heading": "Hair Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Hair Penetrates",
+    "candidates": [
+      "Shomer Problem",
+      "Hair Penetrates",
+      "Tefillin Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange: the 'shomer' answer, the 'shomer al gabei shomer' challenge, and the 'mechalchal' resolution \u2014 all of which the 'Shomer Problem' prose explicitly describes, whereas 'Hair Penetrates' only covers the final mechalchal point.",
+      "chosen_heading": "Shomer Problem",
+      "current_heading": "Hair Penetrates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Tefillin Challenge",
+    "candidates": [
+      "Hair Penetrates",
+      "Tefillin Challenge",
+      "Ink Covers Holes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Acha bar Yaakov's objection about tefillin and ketiva tama, which is precisely what the 'Tefillin Challenge' section's prose describes.",
+      "chosen_heading": "Tefillin Challenge",
+      "current_heading": "Tefillin Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Ink Covers Holes",
+    "candidates": [
+      "Ink Covers Holes",
+      "Multiple Hairs Yad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that any perforation over which ink passes is not considered a perforation, which is exactly what heading 0 'Ink Covers Holes' discusses.",
+      "chosen_heading": "Ink Covers Holes",
+      "current_heading": "Ink Covers Holes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157
+    ],
+    "current_heading": "Multiple Hairs Yad",
+    "candidates": [
+      "Multiple Hairs Yad",
+      "Wheat Hairs Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's second resolution (ve-iba'it eima) applying Rabbi Ela's principle of 'hair among hairs' to resolve the contradiction with Reish Lakish, which is exactly what the 'Multiple Hairs Yad' prose describes.",
+      "chosen_heading": "Multiple Hairs Yad",
+      "current_heading": "Multiple Hairs Yad",
+      "moved": false
+    }
+  }
+]

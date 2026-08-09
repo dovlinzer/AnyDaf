@@ -1,0 +1,517 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Maayan Echad Framework",
+    "candidates": [
+      "Maayan Echad Framework",
+      "Shnei Maayanos",
+      "Dam Yoledes Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Rav/Levi dispute about one vs. two sources and the practical difference between them, which is exactly what the 'Maayan Echad Framework' prose introduces and discusses.",
+      "chosen_heading": "Maayan Echad Framework",
+      "current_heading": "Maayan Echad Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Dam Yoledes Case",
+    "candidates": [
+      "Shnei Maayanos",
+      "Dam Yoledes Case",
+      "Shofaat Answer",
+      "Beit Shammai Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shnei Maayanos",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 elaborate the Rav/Levi positions on the rei\u0448\u0430/seifa cases (lenient/stringent outcomes), which directly follows the 'Shnei Maayanos' section's exposition of the two competing views before the mishna challenge is introduced.",
+      "second_heading": "Dam Yoledes Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the objection from the mishna about dam yoledes shelo tavla, which is precisely the content the 'Dam Yoledes Case' prose describes as the Gemara testing the two positions against a mishna.",
+      "current_heading": "Dam Yoledes Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Beit Shammai Challenge",
+    "candidates": [
+      "Shofaat Answer",
+      "Beit Shammai Challenge",
+      "Modim BeYoledet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items trace the exact dialectic described in 'Beit Shammai Challenge' prose: the shofaat challenge to Beit Shammai, Levi's concession that Beit Shammai holds one-source, the bishlama/ela reversal questioning Rav, and the yomei u'tvila resolution \u2014 all explicitly narrated in that section's prose.",
+      "chosen_heading": "Beit Shammai Challenge",
+      "current_heading": "Beit Shammai Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Modim BeYoledet",
+    "candidates": [
+      "Modim BeYoledet",
+      "Zova Overlap Test",
+      "Levi's Zova Problem",
+      "Shofaat with Zova"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'ta shma' proof from the mishna about a yoledet b'zova and the salka datchach assumption about paska, which is precisely what the 'Modim BeYoledet' section's prose describes.",
+      "chosen_heading": "Modim BeYoledet",
+      "current_heading": "Modim BeYoledet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Shofaat with Zova",
+    "candidates": [
+      "Zova Overlap Test",
+      "Levi's Zova Problem",
+      "Shofaat with Zova",
+      "Braita on Seven Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the objection to Levi (item 1), Levi's shofaat response and the Gemara's counter-question (item 2), and the Beit Shammai answer (item 3) \u2014 which together constitute 'Levi's Zova Problem' and its resolution, matching candidate 1's prose perfectly; the current placement under 'Shofaat with Zova' (index 2) picks up only mid-chain.",
+      "chosen_heading": "Levi's Zova Problem",
+      "current_heading": "Shofaat with Zova",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Braita on Seven Days",
+    "candidates": [
+      "Shofaat with Zova",
+      "Braita on Seven Days",
+      "Status Shift Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita on 'devosah tisma' and the subsequent Rav/Levi dispute about why a yoledes b'zov needs seven clean days, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Braita on Seven Days",
+      "current_heading": "Braita on Seven Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Status Shift Logic",
+    "candidates": [
+      "Status Shift Logic",
+      "Levi on Shiva Nekiyim",
+      "Months Combine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's explanation that she needs only a momentary stop (*mashu*) for the seven clean days to count, which is precisely what heading 0 ('Status Shift Logic') describes in its prose about *tzricha shetifsok mashu sheyalu la l'shiva neki'im*.",
+      "chosen_heading": "Status Shift Logic",
+      "current_heading": "Status Shift Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Months Combine",
+    "candidates": [
+      "Levi on Shiva Nekiyim",
+      "Months Combine",
+      "Rav's Requirement",
+      "Levi on Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita about yemei iburah and yemei minikuta combining toward three onot for mesulekes damim status, which is precisely what the 'Months Combine' section's prose describes.",
+      "chosen_heading": "Months Combine",
+      "current_heading": "Months Combine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Levi on Months",
+    "candidates": [
+      "Rav's Requirement",
+      "Levi on Months",
+      "Break = New Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full dialectic \u2014 first establishing Rav's position (*bishlama leRav*) then raising the challenge against Levi \u2014 and the prose under 'Rav's Requirement' (index 0) directly explains why Rav needs three periods of non-bleeding, which is exactly what this Gemara passage introduces before posing the question about Levi.",
+      "chosen_heading": "Rav's Requirement",
+      "current_heading": "Levi on Months",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Break = New Source",
+    "candidates": [
+      "Levi on Months",
+      "Break = New Source",
+      "Levi's Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'hachi ka'amar' resolution explaining that a minimal break (mashu) allows subsequent yemei tohar bleeding to count toward three onot, which is precisely what the 'Break = New Source' prose describes.",
+      "chosen_heading": "Break = New Source",
+      "current_heading": "Break = New Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Levi's Evidence",
+    "candidates": [
+      "Levi's Evidence",
+      "Rav's Challenge",
+      "Limited Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about dam tohar and the Gemara's analysis of why it supports Levi while challenging Rav \u2014 exactly the content described in candidate 0 ('Levi's Evidence') and candidate 1 ('Rav's Challenge'), but since both items form one continuous sugya that begins with the baraita as evidence for Levi, and the current placement (index 0) already covers both the baraita and the bishlama deLevi/aval leRav analysis in its prose, the passage belongs under index 0.",
+      "chosen_heading": "Levi's Evidence",
+      "current_heading": "Levi's Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Limited Case",
+    "candidates": [
+      "Rav's Challenge",
+      "Limited Case",
+      "Rav's Answer",
+      "Yoledet BeZova"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's answer about 'deleika shahos' and the subsequent question/answer about 'mipikida lepikida,' which is precisely what the 'Limited Case' prose describes in detail.",
+      "chosen_heading": "Limited Case",
+      "current_heading": "Limited Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Yoledet BeZova",
+    "candidates": [
+      "Rav's Answer",
+      "Yoledet BeZova",
+      "Status Not Biology",
+      "Final Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the yoledes b'zova case with Beit Shammai and Beit Hillel following their respective opinions, which matches precisely the prose under heading 1 ('Yoledet BeZova').",
+      "chosen_heading": "Yoledet BeZova",
+      "current_heading": "Yoledet BeZova",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Final Concession",
+    "candidates": [
+      "Status Not Biology",
+      "Final Concession",
+      "Ravina and Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion described in candidate 1's prose: Levi's concession (item 2), the shofaat suggestion and objection (item 3), and the yoledes nekeiva b'zov resolution (item 4) \u2014 with item 1 being the opening challenge to Levi that sets up the entire sequence, all of which candidate 1's prose explicitly narrates.",
+      "chosen_heading": "Final Concession",
+      "current_heading": "Final Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Ravina and Rav Ashi",
+    "candidates": [
+      "Ravina and Rav Ashi",
+      "Hilchata KeRav",
+      "Tosafot on Chumrot",
+      "Niddah During Kisha",
+      "Kisha Negates Zava",
+      "Three Days Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between Rav and Levi and the final ruling following Rav, which is exactly what the 'Ravina and Rav Ashi' section's prose describes \u2014 Mar Zutra's chumra ruling followed by Rav Ashi's and Mareimar's consistent ruling like Rav in both directions.",
+      "chosen_heading": "Ravina and Rav Ashi",
+      "current_heading": "Ravina and Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Three Days Rule",
+    "candidates": [
+      "Hilchata KeRav",
+      "Tosafot on Chumrot",
+      "Niddah During Kisha",
+      "Kisha Negates Zava",
+      "Three Days Rule",
+      "Break Determines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The mishna text describes the 24-hour break (shafsa me'eis le'eis) and the ruling of Rabbi Eliezer that constitutes a yoledes bazov, which is precisely what the 'Break Determines' section's prose discusses.",
+      "chosen_heading": "Break Determines",
+      "current_heading": "Three Days Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Break Determines",
+    "candidates": [
+      "Three Days Rule",
+      "Break Determines",
+      "Duration Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehoshua's position on what constitutes an interruption (a halachic night-and-day unit rather than 24 hours) and that the break must be from pain not blood \u2014 exactly what the 'Break Determines' section prose discusses.",
+      "chosen_heading": "Break Determines",
+      "current_heading": "Break Determines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Duration Dispute",
+    "candidates": [
+      "Duration Dispute",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Rabbi Yitzchak",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the duration dispute about how far back labor pains can extend before birth, which is exactly what the 'Duration Dispute' section's prose discusses.",
+      "chosen_heading": "Duration Dispute",
+      "current_heading": "Duration Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Rav's Position",
+      "Shmuel's Position",
+      "Rabbi Yitzchak",
+      "Rava's Reading",
+      "Ending with Pain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rava's Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous dispute about the status of a woman who experiences labor-pain bleeding during the ziva period, resolved by Rava's reading of the mishnah \u2014 exactly what candidate 3's prose describes.",
+      "second_heading": "Ending with Pain",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces the baraita's specific combinations of pain/rest days that determine yoledes bazov status, which is precisely what candidate 4's prose ('Ending with Pain') describes.",
+      "current_heading": "Rava's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Ending with Pain",
+    "candidates": [
+      "Ending with Pain",
+      "Ending with Break",
+      "Koshi Negates",
+      "Shofi Before",
+      "Halachic Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the cases where she is NOT a yoledes bazov (ending with pain/koshi), which matches the 'Ending with Break' section's prose about ein zo yoledes bazov, including the specific pattern kashtah ve-shaftah ve-chazarah ve-kashtah, and ends with the general principle \u2014 the current placement under 'Ending with Pain' describes the opposite cases (where she IS a yoledes bazov).",
+      "chosen_heading": "Ending with Break",
+      "current_heading": "Ending with Pain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Halachic Day",
+    "candidates": [
+      "Ending with Break",
+      "Koshi Negates",
+      "Shofi Before",
+      "Halachic Day",
+      "Damah Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern Chananya ben achi Rabbi Yehoshua's ruling that pains on the third day \u2014 even if the rest of that day was shofi \u2014 prevent yoledes bazov status, which is precisely what the 'Halachic Day' prose section discusses.",
+      "chosen_heading": "Halachic Day",
+      "current_heading": "Halachic Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154,
+      155
+    ],
+    "current_heading": "Damah Derasha",
+    "candidates": [
+      "Damah Derasha",
+      "Fetus Exception",
+      "Other Ones",
+      "Ones Analogy",
+      "Subset Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous baraita exposition deriving that fetus-caused bleeding is excluded from ziva status via the word 'damah,' with the internal question about ones vs. velad and the justification for the asymmetry \u2014 exactly what the 'Damah Derasha' prose describes.",
+      "chosen_heading": "Damah Derasha",
+      "current_heading": "Damah Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165,
+      166
+    ],
+    "current_heading": "Subset Logic",
+    "candidates": [
+      "Fetus Exception",
+      "Other Ones",
+      "Ones Analogy",
+      "Subset Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Subset Logic' prose: item 1 is the rejection of the zav analogy ('hashta maya b'isha kayminan / ones b'isha lo ashkhachun') and item 2 is the alternative argument ('v'i ba'it eima / ein lach ones gadol mizeh'), both of which are explicitly described in that section's prose.",
+      "chosen_heading": "Subset Logic",
+      "current_heading": "Subset Logic",
+      "moved": false
+    }
+  }
+]

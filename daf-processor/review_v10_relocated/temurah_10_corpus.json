@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Rav Avin Shiala",
+    "candidates": [
+      "Rav Avin Shiala",
+      "Abaye's Breakdown",
+      "Rashi's Distinction",
+      "Rav Papa Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's challenge asking why the dilemma is posed in such a compound form, the two sub-questions he suggests could be asked independently, and Rabbi Avin's 'chada mi-go chada' resolution ending in teiku \u2014 are precisely what candidate 1 ('Abaye's Breakdown') describes in its prose.",
+      "chosen_heading": "Abaye's Breakdown",
+      "current_heading": "Rav Avin Shiala",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rav Papa Version",
+    "candidates": [
+      "Abaye's Breakdown",
+      "Rashi's Distinction",
+      "Rav Papa Version",
+      "Kedusha Transformation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the lishna achrina version of Rav Avin's dilemma followed by Abaye's breakdown of that version, which is precisely what the 'Rav Papa Version' prose describes \u2014 the alternative formulation of the asham-to-olah question and Abaye's clarifying interjection about which component is being asked.",
+      "chosen_heading": "Rav Papa Version",
+      "current_heading": "Rav Papa Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Kedusha Transformation",
+    "candidates": [
+      "Kedusha Transformation",
+      "Core Question",
+      "Makdish Chomesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items address the dilemma of whether transferring sanctity to a different body or a different kedusha-type occasions a new chomesh obligation, which is precisely what the 'Kedusha Transformation' prose describes \u2014 including the teiku conclusion.",
+      "chosen_heading": "Kedusha Transformation",
+      "current_heading": "Kedusha Transformation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Makdish Chomesh",
+    "candidates": [
+      "Core Question",
+      "Makdish Chomesh",
+      "Temurah Ownership",
+      "Rava Tzibur Proof",
+      "Nazir Braisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar Chama's dilemma and Rava's scriptural resolution that the makdish (not the mitchaper) adds the fifth, which matches exactly the 'Makdish Chomesh' section prose discussing this very verse and conclusion.",
+      "chosen_heading": "Makdish Chomesh",
+      "current_heading": "Makdish Chomesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Nazir Braisa",
+    "candidates": [
+      "Temurah Ownership",
+      "Rava Tzibur Proof",
+      "Nazir Braisa",
+      "Temurah Universal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-4 all deal with Rami bar \u1e24ama's dilemma about makdish vs. mitchaper for temurah, Rava's proof from tzibur/shutfin, and the nazir baraita as a further proof \u2014 all of which is precisely what candidate 1 ('Rava Tzibur Proof') describes, whereas candidate 2 ('Nazir Braisa') only partially covers items 2-4 and misses item 1.",
+      "chosen_heading": "Rava Tzibur Proof",
+      "current_heading": "Nazir Braisa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Temurah Universal",
+    "candidates": [
+      "Nazir Braisa",
+      "Temurah Universal",
+      "Final Ruling",
+      "Trumos Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Abbahu citing Rabbi Yo\u1e25anan's ruling that 'makdish mosif chomesh, u-mitchaper oseh temurah,' which is precisely the final resolution described in the 'Final Ruling' section's prose.",
+      "chosen_heading": "Final Ruling",
+      "current_heading": "Temurah Universal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Trumos Parallel",
+    "candidates": [
+      "Final Ruling",
+      "Trumos Parallel",
+      "Mishnah Text",
+      "Behemah Requirement",
+      "Rabbi Yosef Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Trumos Parallel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the teruma ruling about tovas hana'ah belonging to the one who separates from his own produce, which matches exactly the 'Trumos Parallel' section's prose about torem mishelo al shel chaveiro and tovas hana'ah shelo.",
+      "second_heading": "Mishnah Text",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna about ein memirin lo evarin be-ubarim, which matches exactly the 'Mishnah Text' section's prose quoting that same Mishna as the next unit taken up by the Gemara.",
+      "current_heading": "Trumos Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rabbi Yosef Challenge",
+    "candidates": [
+      "Mishnah Text",
+      "Behemah Requirement",
+      "Rabbi Yosef Challenge",
+      "Bar Padda Position",
+      "Rabbi Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yosei's argument about limbs and whole animals in temurah using the analogy from hekdesh (sanctifying a leg sanctifies the whole animal), which is precisely what the 'Rabbi Yosef Challenge' prose describes.",
+      "chosen_heading": "Rabbi Yosef Challenge",
+      "current_heading": "Rabbi Yosef Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Rabbi Yochanan Position",
+    "candidates": [
+      "Bar Padda Position",
+      "Rabbi Yochanan Position",
+      "Ubar Independence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present Rabbi Yochanan's position that kedusha takes effect on fetuses and his supporting case of the pregnant chatat, which is precisely what the 'Rabbi Yochanan Position' prose describes in detail.",
+      "chosen_heading": "Rabbi Yochanan Position",
+      "current_heading": "Rabbi Yochanan Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Ubar Independence",
+    "candidates": [
+      "Ubar Independence",
+      "Why Both Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why both cases are necessary (\u05e6\u05b0\u05e8\u05b4\u05d9\u05db\u05b8\u05d0), explaining the unique chiddush of the 'last case' (sanctifying a pregnant animal) versus the earlier case of directly sanctifying the fetus \u2014 matching exactly the 'Why Both Cases' prose.",
+      "chosen_heading": "Why Both Cases",
+      "current_heading": "Ubar Independence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Why Both Cases",
+    "candidates": [
+      "Ubar Independence",
+      "Why Both Cases",
+      "Bechor Scheme",
+      "Bechor Proof",
+      "Damim vs. Guf",
+      "Damim Bechor Q",
+      "Blemish Precedent",
+      "Before/After Pidyon",
+      "Fetus Damim Apply",
+      "Avodah Restriction",
+      "After Redemption OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer chain about why both halakhot (sanctifying a pregnant animal vs. sanctifying a fetus directly) are necessary, which is precisely what the 'Why Both Cases' heading and its prose describe.",
+      "chosen_heading": "Why Both Cases",
+      "current_heading": "Why Both Cases",
+      "moved": false
+    }
+  }
+]

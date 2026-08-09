@@ -1,0 +1,428 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tefillin Examples",
+    "candidates": [
+      "Chomer Sofrim",
+      "Tefillin Examples",
+      "Mosif Gore'a Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the principle of chomer bedivrei sofrim midivrei torah in the context of the zaken mamre, which is precisely what heading 0 ('Chomer Sofrim') describes as its content \u2014 the mishna text belongs under the heading that introduces it, not under the heading that analyzes its tefillin examples.",
+      "chosen_heading": "Chomer Sofrim",
+      "current_heading": "Tefillin Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Mosif Gore'a Principle",
+    "candidates": [
+      "Tefillin Examples",
+      "Mosif Gore'a Principle",
+      "Lulav/Tzitzit Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar citing Rabbi Oshaya's narrow criterion including the mosif gore'a principle and the conclusion that only tefillin qualifies, which is precisely what the 'Mosif Gore'a Principle' section's prose describes.",
+      "chosen_heading": "Mosif Gore'a Principle",
+      "current_heading": "Mosif Gore'a Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Lulav/Tzitzit Analysis",
+    "candidates": [
+      "Lulav/Tzitzit Analysis",
+      "Bayis Chitzon Exposure",
+      "Jurisdiction Rules",
+      "Beis Din HaGadol",
+      "Regel vs. Immediate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Lulav/Tzitzit Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the lulav and tzitzit challenges and their resolutions, which is precisely what the 'Lulav/Tzitzit Analysis' prose describes.",
+      "second_heading": "Bayis Chitzon Exposure",
+      "second_confidence": "high",
+      "second_reason": "Item 6 introduces Rabbi Zeira's ruling about the outer compartment (bayis chitzon she'eino ro'eh et ha'avir), which is exactly what the 'Bayis Chitzon Exposure' prose discusses as the mechanism distinguishing tefillin from lulav and tzitzit.",
+      "current_heading": "Lulav/Tzitzit Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Regel vs. Immediate",
+    "candidates": [
+      "Bayis Chitzon Exposure",
+      "Jurisdiction Rules",
+      "Beis Din HaGadol",
+      "Regel vs. Immediate",
+      "Four Akhraza Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna and Gemara baraita presenting Rabbi Akiva's position, and Rabbi Yehuda's rebuttal about 'yishme'u' vs. 'yir'u' \u2014 directly address the dispute about timing (regel vs. immediate execution) and the textual reasoning behind each position, which is precisely what candidate 3 'Regel vs. Immediate' discusses in its prose.",
+      "chosen_heading": "Regel vs. Immediate",
+      "current_heading": "Regel vs. Immediate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Four Akhraza Cases",
+    "candidates": [
+      "Four Akhraza Cases",
+      "Institution Protection",
+      "Four Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the four categories requiring public proclamation (akhraza), the scriptural basis, and the variation for edim zomemin \u2014 exactly what the 'Four Akhraza Cases' prose section discusses.",
+      "chosen_heading": "Four Akhraza Cases",
+      "current_heading": "Four Akhraza Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Four Categories",
+    "candidates": [
+      "Institution Protection",
+      "Four Categories",
+      "Heaven's Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the false prophet who prophesies what he did not hear, which is exactly what the 'Four Categories' prose discusses as the first two types of navi ha-sheker subject to mitat beis din.",
+      "chosen_heading": "Four Categories",
+      "current_heading": "Four Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Heaven's Punishment",
+    "candidates": [
+      "Heaven's Punishment",
+      "Scriptural Sources",
+      "Tzidkiyah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Heading 0's prose explicitly covers all seven items: the three Heaven-punishment categories with their scriptural derivation, prophesying in the name of avodah zarah, haba al eishet ish, and the bat kohen/edim zomemin cases \u2014 a perfect match for the entire passage.",
+      "chosen_heading": "Heaven's Punishment",
+      "current_heading": "Heaven's Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Tzidkiyah Case",
+    "candidates": [
+      "Scriptural Sources",
+      "Tzidkiyah Case",
+      "Signon Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Tzidkiyah ben Chenaanah case and the spirit of Naboth misleading him, which is precisely what the 'Tzidkiyah Case' prose section describes, including the identification of the spirit as Navot ha-Yizre'eli by Rabbi Yochanan.",
+      "chosen_heading": "Tzidkiyah Case",
+      "current_heading": "Tzidkiyah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Signon Principle",
+    "candidates": [
+      "Signon Principle",
+      "Chananya Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Signon principle \u2014 Rabbi Yitzchak's teaching that two prophets never prophesy in the same style, illustrated by Obadiah/Jeremiah, and confirmed by Jehoshaphat's tradition \u2014 which is precisely what the 'Signon Principle' prose section describes.",
+      "chosen_heading": "Signon Principle",
+      "current_heading": "Signon Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Chananya Case",
+    "candidates": [
+      "Chananya Case",
+      "Suppression Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Hananiah ben Azzur case and the Rav Pappa/Abaye exchange about the kal vachomer, which is precisely what the 'Chananya Case' prose describes in detail.",
+      "chosen_heading": "Chananya Case",
+      "current_heading": "Chananya Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Suppression Proof",
+    "candidates": [
+      "Suppression Proof",
+      "Michah Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Suppression Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (prophesying in name of idol worship) and Item 2 (suppressing prophecy / Jonah) both relate to the Suppression Proof section's discussion of the mishna's categories, but item 2 cuts off mid-sentence leading into the Micah case.",
+      "second_heading": "Michah Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 together complete the case of 'one who forgoes the statement of a prophet' with the Micah/colleague example, which is precisely what the Michah Case prose describes.",
+      "current_heading": "Suppression Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Michah Case",
+    "candidates": [
+      "Michah Case",
+      "Ido HaNavi Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Iddo the prophet violating his own prophetic declaration, which matches the 'Ido HaNavi Case' prose exactly, not the Michah case.",
+      "chosen_heading": "Ido HaNavi Case",
+      "current_heading": "Michah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Ido HaNavi Case",
+    "candidates": [
+      "Ido HaNavi Case",
+      "Proving Navi Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the baraita about suppressing prophecy before Rav \u1e24isda, Abaye's answer about fellow prophets giving hatra'ah, and the Jonah case resolving whether retraction negates the warning \u2014 all of which are explicitly covered in the 'Ido HaNavi Case' prose.",
+      "chosen_heading": "Ido HaNavi Case",
+      "current_heading": "Ido HaNavi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Proving Navi Status",
+    "candidates": [
+      "Proving Navi Status",
+      "Satan's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the principle of 'heicha de-muchzak shani' \u2014 that an established prophet needs no sign \u2014 which is precisely what candidate 0's prose elaborates, including the specific examples of Abraham at Har HaMoriah and Elijah at Mount Carmel mentioned in item 2.",
+      "chosen_heading": "Proving Navi Status",
+      "current_heading": "Proving Navi Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Satan's Challenge",
+    "candidates": [
+      "Satan's Challenge",
+      "Mashal Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Satan's Challenge passage: item 1 poses the question 'after what matters?' and item 2 gives Rabbi Yo\u1e25anan's answer about Satan's accusation \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Satan's Challenge",
+      "current_heading": "Satan's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Mashal Analogy",
+    "candidates": [
+      "Mashal Analogy",
+      "God's Command"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rabbi Shimon bar Abba's explanation of the word 'na' as entreaty, illustrated by the king-warrior parable, which is exactly what the 'Mashal Analogy' section prose describes.",
+      "chosen_heading": "Mashal Analogy",
+      "current_heading": "Mashal Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "God's Command",
+    "candidates": [
+      "God's Command",
+      "Incremental Disclosure",
+      "Satan's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire incremental exchange ('your son'/'your only'/'whom you love'/'Isaac') including the reason for gradual disclosure, and the current heading's prose explicitly discusses all these elements together, making it the best match.",
+      "chosen_heading": "God's Command",
+      "current_heading": "God's Command",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Satan's Logic",
+    "candidates": [
+      "Incremental Disclosure",
+      "Satan's Logic",
+      "Abraham's Trust",
+      "Satan's Deception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Satan intercepting Abraham and citing Job verses as a challenge, which is precisely what 'Satan's Logic' section discusses.",
+      "chosen_heading": "Satan's Logic",
+      "current_heading": "Satan's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Satan's Deception",
+    "candidates": [
+      "Abraham's Trust",
+      "Satan's Deception",
+      "Liar's Fate",
+      "Ishmael's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Satan's attempt to dissuade Abraham using a 'secret' heard from behind the heavenly curtain (the sheep/Isaac exchange) and Abraham's response about the liar's punishment \u2014 exactly the content described in the 'Satan's Deception' section prose.",
+      "chosen_heading": "Satan's Deception",
+      "current_heading": "Satan's Deception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Ishmael's Challenge",
+    "candidates": [
+      "Liar's Fate",
+      "Ishmael's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Levi's interpretation connecting the Akeidah to Ishmael's challenge to Isaac about circumcision, which is precisely what the 'Ishmael's Challenge' section's prose discusses in detail.",
+      "chosen_heading": "Ishmael's Challenge",
+      "current_heading": "Ishmael's Challenge",
+      "moved": false
+    }
+  }
+]

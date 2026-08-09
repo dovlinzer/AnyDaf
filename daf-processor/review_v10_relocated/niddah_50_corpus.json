@@ -1,0 +1,367 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Intro",
+    "candidates": [
+      "Mishnah Intro",
+      "One-Eyed Persons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself (kol hakasher ladun kasher leha'id), which is directly quoted and introduced in the 'Mishnah Intro' prose section.",
+      "chosen_heading": "Mishnah Intro",
+      "current_heading": "Mishnah Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "One-Eyed Persons",
+    "candidates": [
+      "One-Eyed Persons",
+      "Rabbi Meir Link",
+      "Leprosy Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question of what the mishnah adds and Rabbi Yochanan's answer about one blind in one eye, which is precisely what the 'One-Eyed Persons' section's prose discusses as its opening content.",
+      "chosen_heading": "One-Eyed Persons",
+      "current_heading": "One-Eyed Persons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Leprosy Link",
+    "candidates": [
+      "Rabbi Meir Link",
+      "Leprosy Link",
+      "Blind Judge Story",
+      "Two Mishnayot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbi Meir Link",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 contain the full baraita of Rabbi Meir deriving requirements for disputes from leprous marks and vice versa, which is exactly what heading 0 ('Rabbi Meir Link') and heading 1 ('Leprosy Link') discuss \u2014 and since heading 0's prose explicitly introduces this baraita and heading 1's prose covers the full derivation including the three-judge inference resolved by the verse about Aharon, items 1-3 best fit under heading 0/1; heading 1 is the current placement and its prose covers all three items in detail, making it the best single home for items 1-3.",
+      "second_heading": "Blind Judge Story",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 recount the story of the blind judge in Rabbi Yochanan's neighborhood and the challenge from the mishnah about one-eyed persons, which precisely matches heading 2 ('Blind Judge Story') whose prose describes exactly this narrative.",
+      "current_heading": "Leprosy Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Two Mishnayot",
+    "candidates": [
+      "Blind Judge Story",
+      "Two Mishnayot",
+      "Context Priority",
+      "Women Judges?",
+      "Deborah & Verse",
+      "Witness Problem",
+      "Answer 1: Men Only",
+      "Alt Answers",
+      "Ma'aserot Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yochanan finding the competing stam mishnah from Sanhedrin about monetary cases concluding at night, and the subsequent discussion of why that stam mishnah is superior \u2014 exactly what candidate 1 ('Two Mishnayot') describes in its prose.",
+      "chosen_heading": "Two Mishnayot",
+      "current_heading": "Two Mishnayot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Ma'aserot Tamei",
+    "candidates": [
+      "Context Priority",
+      "Women Judges?",
+      "Deborah & Verse",
+      "Witness Problem",
+      "Answer 1: Men Only",
+      "Alt Answers",
+      "Ma'aserot Tamei",
+      "Meat, Fish, Eggs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the mishna stating that anything obligated in ma'aserot becomes tamei as food, which is exactly what the prose in candidate 6 describes as the next mishnah introducing this new pair in the series.",
+      "chosen_heading": "Ma'aserot Tamei",
+      "current_heading": "Ma'aserot Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Meat, Fish, Eggs",
+    "candidates": [
+      "Meat, Fish, Eggs",
+      "Pe'ah Stricter",
+      "Five Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's le'atuyei mai question answered with basar, dagim, u'beitzim, which is precisely what the prose under 'Meat, Fish, Eggs' describes.",
+      "chosen_heading": "Meat, Fish, Eggs",
+      "current_heading": "Meat, Fish, Eggs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Five Criteria",
+    "candidates": [
+      "Pe'ah Stricter",
+      "Five Criteria",
+      "Ma'aserot Criteria",
+      "Figs & Veggies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pe'ah Stricter",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the pe'ah/ma'aserot comparison, which candidate 0 ('Pe'ah Stricter') explicitly discusses \u2014 the structure implying pe'ah has more stringent criteria.",
+      "second_heading": "Five Criteria",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara citing the five pe'ah criteria and analyzing each exclusion, which is exactly what candidate 1 ('Five Criteria') discusses in its prose.",
+      "current_heading": "Five Criteria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Figs & Veggies",
+    "candidates": [
+      "Ma'aserot Criteria",
+      "Figs & Veggies",
+      "Rashi: Grain Model",
+      "Tosafot: Poor",
+      "Biblical Fruits",
+      "Garlic & Onions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Ma'aserot mishna's three criteria and explicitly notes the absence of the final two criteria (gathered as one, brought in for preservation), which is precisely what the 'Ma'aserot Criteria' section describes \u2014 the side-by-side comparison of the two mishnayot showing the disparity.",
+      "chosen_heading": "Ma'aserot Criteria",
+      "current_heading": "Figs & Veggies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Garlic & Onions",
+    "candidates": [
+      "Rashi: Grain Model",
+      "Tosafot: Poor",
+      "Biblical Fruits",
+      "Garlic & Onions",
+      "Grass Case",
+      "Intent & Ground",
+      "Dead Bird Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses garlic and onions being obligated in pe'a and cites the mishna about garden beds of onions, which directly matches the 'Garlic & Onions' section prose about im hayu bahem shumim uvetzalim and the debate between Rabbi Yosei and the Chachamim.",
+      "chosen_heading": "Garlic & Onions",
+      "current_heading": "Garlic & Onions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Dead Bird Parallel",
+    "candidates": [
+      "Grass Case",
+      "Intent & Ground",
+      "Dead Bird Parallel",
+      "Wild Bird"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the full sugya about endives/grass planted for animals then reconsidered for humans \u2014 item 1 introduces the case, item 2 gives the ruling with the principle of machshevet chibur, and item 3 is Rava's supporting proof from the bird carcass mishnah \u2014 and the 'Grass Case' heading's prose explicitly describes this entire passage including the reconsidering-while-growing scenario that opens it.",
+      "chosen_heading": "Grass Case",
+      "current_heading": "Dead Bird Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Wild Bird",
+    "candidates": [
+      "Dead Bird Parallel",
+      "Wild Bird",
+      "Feral Chicken",
+      "Swamp Chickens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rabbi Zeira's wild-bird objection, Abaye's challenge about the Yavneh chicken, and Rabbi Zeira's 'wild chicken' reply with the subsequent laughing/resolution \u2014 which is precisely what the 'Wild Bird' prose section describes in detail, including the Yavneh challenge and its resolution.",
+      "chosen_heading": "Wild Bird",
+      "current_heading": "Wild Bird",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Swamp Chickens",
+    "candidates": [
+      "Feral Chicken",
+      "Swamp Chickens",
+      "Mareimar Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's statement about the marsh hen and his ruling distinguishing marsh rooster (forbidden) from marsh hen (permitted), which is precisely what the 'Swamp Chickens' section prose describes.",
+      "chosen_heading": "Swamp Chickens",
+      "current_heading": "Swamp Chickens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Mareimar Dispute",
+    "candidates": [
+      "Mareimar Dispute",
+      "Non-Kosher Signs",
+      "Kal V'Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the mnemonic for swamp rooster/hen distinction and Mareimar's ruling that the marsh hen is prohibited, which directly corresponds to the 'Mareimar Dispute' section discussing exactly that disagreement with Rav Pappa about swamp hens.",
+      "chosen_heading": "Mareimar Dispute",
+      "current_heading": "Mareimar Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Kal V'Chomer",
+    "candidates": [
+      "Non-Kosher Signs",
+      "Kal V'Chomer",
+      "Two Tumah Levels",
+      "Yavneh Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about the bird in the winepress, Rabbi Yochanan ben Nuri's kal va'chomer, and the Rabbis' initial rebuttal \u2014 are precisely the content described in candidate 1's prose, which covers the baraita, Rabbi Yochanan ben Nuri's dissent, and his kal va'chomer argument about heavy vs. light tumah without machshavah.",
+      "chosen_heading": "Kal V'Chomer",
+      "current_heading": "Kal V'Chomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Yavneh Proof",
+    "candidates": [
+      "Two Tumah Levels",
+      "Yavneh Proof",
+      "Non-Jews Intent",
+      "City vs. Village",
+      "Location Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described under 'Yavneh Proof' \u2014 Rabbi Yochanan ben Nuri invoking the Yavneh chicken case and the Rabbis' response about the Samaritans \u2014 and the current placement is correct.",
+      "chosen_heading": "Yavneh Proof",
+      "current_heading": "Yavneh Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Location Rules",
+    "candidates": [
+      "Non-Jews Intent",
+      "City vs. Village",
+      "Location Rules",
+      "Vat Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the gemara's structural question 'be'mai askinan' \u2014 testing whether the case is set in a city or village \u2014 which is precisely what candidate 1 ('City vs. Village') describes, whereas candidate 2 ('Location Rules') covers the mishnah's enumeration and the paradox it creates, which comes after this challenge-and-response sequence.",
+      "chosen_heading": "City vs. Village",
+      "current_heading": "Location Rules",
+      "moved": true
+    }
+  }
+]

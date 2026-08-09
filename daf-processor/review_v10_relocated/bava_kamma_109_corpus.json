@@ -1,0 +1,290 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Object Lost Case",
+    "candidates": [
+      "Torah Section Overview",
+      "Object Lost Case",
+      "Object Stolen Case",
+      "Repayment Recipients",
+      "Rambam's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Object Lost Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'lost' case where the shomer claims the object was lost, matching exactly the 'Object Lost Case' prose about a shomer chinam who claims the object was lost, oath administered, witnesses testify he consumed it.",
+      "second_heading": "Object Stolen Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'stolen' case where the shomer claims the object was stolen (nignav), matching exactly the 'Object Stolen Case' prose about ta'anas gannav, tashlumei kefel, and admission leading to keren/chomesh/asham rather than kefel.",
+      "current_heading": "Object Lost Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rambam's View",
+    "candidates": [
+      "Object Stolen Case",
+      "Repayment Recipients",
+      "Rambam's View",
+      "Rashi's View",
+      "Tosafot's View",
+      "Neder Setup",
+      "Inheritance Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text presenting the gezel ha-av case \u2014 one who robs his father, swears falsely, and the father dies \u2014 which is exactly what the 'Repayment Recipients' section introduces as 'the case at the center of the gemara's analysis,' before the subsequent sections analyze Rambam's, Rashi's, and Tosafot's interpretations of it.",
+      "chosen_heading": "Repayment Recipients",
+      "current_heading": "Rambam's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Inheritance Exception",
+    "candidates": [
+      "Rashi's View",
+      "Tosafot's View",
+      "Neder Setup",
+      "Inheritance Exception",
+      "No Heirs Scenario",
+      "Rav Yosef Charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the mishna's neder case \u2014 first the basic rule that the son inherits if the father dies, then the 'bechayav u'vimoto' exception where the son cannot inherit \u2014 which matches exactly the 'Inheritance Exception' prose describing the general rule and the bechayav u'vimoto qualification.",
+      "chosen_heading": "Inheritance Exception",
+      "current_heading": "Inheritance Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Yosef Charity",
+    "candidates": [
+      "No Heirs Scenario",
+      "Rav Yosef Charity",
+      "Identification Required",
+      "Gemara: Self-Forgiveness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's statement about the charity purse and Rav Pappa's qualification about identification, but the current placement under 'Rav Yosef Charity' is correct since its prose explicitly discusses both statements together as an opening unit of the gemara on 109a, and 'Identification Required' prose separately elaborates on Rav Pappa's addition \u2014 however, since both statements appear in a single quoted passage and must go under one heading, and the current heading's prose covers Rav Yosef's statement which opens the passage, the current placement (index 1) is the best fit.",
+      "chosen_heading": "Rav Yosef Charity",
+      "current_heading": "Rav Yosef Charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Gemara: Self-Forgiveness",
+    "candidates": [
+      "Identification Required",
+      "Gemara: Self-Forgiveness",
+      "Extreme Reading",
+      "Ger Death Case",
+      "Yose: Debt Erased",
+      "Akiva: Act Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the self-forgiveness question and Rabbi Yo\u1e25anan's resolution attributing the tension to Rabbi Yose HaGelili vs. Rabbi Akiva, which is precisely what candidate 1's prose describes as the core content of that section.",
+      "chosen_heading": "Gemara: Self-Forgiveness",
+      "current_heading": "Gemara: Self-Forgiveness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Akiva: Act Required",
+    "candidates": [
+      "Extreme Reading",
+      "Ger Death Case",
+      "Yose: Debt Erased",
+      "Akiva: Act Required",
+      "Limited Examples Problem",
+      "Both Need Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita about gezel ha-ger and Rabbi Yochanan's analysis of the Yose HaGlili/Akiva dispute \u2014 including the loan scenario, the extreme reading of each opinion, and the clarification that the baraita used the loan case to highlight Rabbi Akiva's far-reaching position \u2014 which is precisely what the 'Akiva: Act Required' prose describes.",
+      "chosen_heading": "Akiva: Act Required",
+      "current_heading": "Akiva: Act Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Both Need Act",
+    "candidates": [
+      "Limited Examples Problem",
+      "Both Need Act",
+      "Mechila As Returning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rav Sheshet's objection addresses both Rabbi Yose HaGlili (should teach the self-forgiveness case as the stronger example) and Rabbi Akiva (should teach the nigzal-forgiveness case as the stronger example), which matches heading 0's prose about challenging why each sage didn't state their position in its strongest form \u2014 the current placement under heading 1 only captures half the objection.",
+      "chosen_heading": "Limited Examples Problem",
+      "current_heading": "Both Need Act",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Mechila As Returning",
+    "candidates": [
+      "Both Need Act",
+      "Mechila As Returning",
+      "Sole Heir Problem",
+      "Loan Conversion",
+      "Third Party Mechila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheshet's resolution (not Abaye's), assigning both mishnayot to Rabbi Yosei HaGelili with the distinction that mechila works for others but not for oneself, and explaining the loan conversion \u2014 this matches the 'Both Need Act' section's prose about Rav Sheshet concluding the debate and finding a calibrated reading, not the current placement under 'Mechila As Returning' which describes Abaye's resolution.",
+      "chosen_heading": "Both Need Act",
+      "current_heading": "Mechila As Returning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Third Party Mechila",
+    "candidates": [
+      "Sole Heir Problem",
+      "Loan Conversion",
+      "Third Party Mechila",
+      "Automatic Erasure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Rava's statement that Rabbi Akiva permits mechila to others (third parties) but not to oneself directly matches the 'Third Party Mechila' section's prose about Rabbi Akiva accepting active mechila by the nigzal as an adequate act of return.",
+      "chosen_heading": "Third Party Mechila",
+      "current_heading": "Third Party Mechila",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Automatic Erasure",
+    "candidates": [
+      "Automatic Erasure",
+      "Timing Problem",
+      "Post-Death Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the 'Timing Problem' question \u2014 how can gezel ha-ger ever reach the Kohanim if the ger's death automatically erases the debt \u2014 which is precisely what the 'Timing Problem' prose section describes.",
+      "chosen_heading": "Timing Problem",
+      "current_heading": "Automatic Erasure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Post-Death Admission",
+    "candidates": [
+      "Timing Problem",
+      "Post-Death Admission",
+      "Gender Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's answer about post-death admission routing the obligation to the Kohanim, which is precisely what the 'Post-Death Admission' section's prose describes and explains.",
+      "chosen_heading": "Post-Death Admission",
+      "current_heading": "Post-Death Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Gender Restriction",
+    "candidates": [
+      "Gender Restriction",
+      "Beraita Evidence",
+      "Minor Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's dilemma about whether 'ish' excludes a female convert from the law of gezel ha-ger, which is precisely what the 'Gender Restriction' section's prose describes.",
+      "chosen_heading": "Gender Restriction",
+      "current_heading": "Gender Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Minor Exception",
+    "candidates": [
+      "Beraita Evidence",
+      "Minor Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete baraita \u2014 item 1 derives the inclusion of a woman from 'ha'mushav' and item 2 explains the purpose of 'ish' regarding the minor exception \u2014 and heading 0 ('Beraita Evidence') explicitly describes both parts of this baraita in its prose, making it the correct home for the entire passage.",
+      "chosen_heading": "Beraita Evidence",
+      "current_heading": "Minor Exception",
+      "moved": true
+    }
+  }
+]

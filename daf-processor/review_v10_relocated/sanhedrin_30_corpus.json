@@ -1,0 +1,428 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Doc Without Auth",
+    "candidates": [
+      "Doc Without Auth",
+      "Reish Lakish Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Abaye and Rava apply the principle of Reish Lakish, which is precisely what the 'Reish Lakish Rule' prose section discusses, rather than merely introducing the problematic document.",
+      "chosen_heading": "Reish Lakish Rule",
+      "current_heading": "Doc Without Auth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Reish Lakish Rule",
+    "candidates": [
+      "Doc Without Auth",
+      "Reish Lakish Rule",
+      "Rav Pappa Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes and explains the Reish Lakish rule about witnesses not signing unless the transaction was properly performed, which is precisely what the 'Reish Lakish Rule' section's prose describes.",
+      "chosen_heading": "Reish Lakish Rule",
+      "current_heading": "Reish Lakish Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Pappa Object",
+    "candidates": [
+      "Rav Pappa Object",
+      "Scribes Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappi's/Rav Huna's objection questioning whether scribes can be expected to know what even the Sages debated, which matches exactly the content described in candidate 0's prose about challenging the presumption that court scribes know the halakha.",
+      "chosen_heading": "Rav Pappa Object",
+      "current_heading": "Rav Pappa Object",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Scribes Test",
+    "candidates": [
+      "Scribes Test",
+      "Mixed Signals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the empirical test of Abaye's and Rava's scribes, which is precisely what the 'Scribes Test' prose section discusses.",
+      "chosen_heading": "Scribes Test",
+      "current_heading": "Scribes Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Mixed Signals",
+    "candidates": [
+      "Mixed Signals",
+      "Ravina View",
+      "Fear Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the specific document with 'duchran pisgamei' and 'lishnei d'bei dina' language but missing the 'b'mosav tlata' notation, which is precisely the ambiguous shtar scenario introduced and explained in the 'Mixed Signals' prose.",
+      "chosen_heading": "Mixed Signals",
+      "current_heading": "Mixed Signals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Fear Error",
+    "candidates": [
+      "Ravina View",
+      "Fear Error",
+      "Explicit Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ravina's proposal to apply Reish Lakish's presumption AND Rav Natan bar Ami's objection in the name of Rava, making it a single unit that begins with Ravina's view \u2014 matching the 'Ravina View' section's prose which describes exactly this sequence, while the 'Fear Error' section prose discusses only the objection/Rava ruling as if it were a separate passage.",
+      "chosen_heading": "Ravina View",
+      "current_heading": "Fear Error",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Explicit Language",
+    "candidates": [
+      "Fear Error",
+      "Explicit Language",
+      "Two Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Na\u1e25man bar Yitz\u1e25ak's ruling that explicit 'bei dina' language in the document makes further specification unnecessary, which is precisely what the 'Explicit Language' section's prose describes.",
+      "chosen_heading": "Explicit Language",
+      "current_heading": "Explicit Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Two Valid",
+    "candidates": [
+      "Two Valid",
+      "Two Not Auth",
+      "Rav Ashi Case",
+      "Hidden Money",
+      "Benefit Desire",
+      "House vs Field",
+      "Migo Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Ashi Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 continue the Rav Ashi court discussion, addressing whether it was an impudent two-judge court, which matches candidate 2's prose about resolving the matter by reference to the court of Rav Ashi.",
+      "second_heading": "Hidden Money",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces an entirely new baraita about hidden money and single-witness testimony, which matches candidate 3's prose about the case of one person telling heirs their father hid money.",
+      "current_heading": "Two Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Migo Principle",
+    "candidates": [
+      "Two Not Auth",
+      "Rav Ashi Case",
+      "Hidden Money",
+      "Benefit Desire",
+      "House vs Field",
+      "Migo Principle",
+      "Children Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage states the general principle (kol she-beyado litol devarav kayamin) that is explicitly quoted and explained in the 'Migo Principle' prose, making the current placement correct.",
+      "chosen_heading": "Migo Principle",
+      "current_heading": "Migo Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Children Witness",
+    "candidates": [
+      "Children Witness",
+      "Sincere vs False",
+      "Dreams No Weight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the scenario where children witness their father hiding money and he makes a declaration \u2014 exactly what heading 0 ('Children Witness') is about \u2014 while heading 1 covers the interpretive resolution (sincere vs. artifice) that follows from this baraita.",
+      "chosen_heading": "Children Witness",
+      "current_heading": "Children Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Dreams No Weight",
+    "candidates": [
+      "Sincere vs False",
+      "Dreams No Weight",
+      "Write Judgment",
+      "Yochanan View",
+      "Lakish View",
+      "No Talebear",
+      "Liability Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely about the dream incident where money's location and amount were verified but the ma'aser sheni status was declared in a dream, and the ruling that dreams have no legal standing \u2014 exactly what the 'Dreams No Weight' section discusses.",
+      "chosen_heading": "Dreams No Weight",
+      "current_heading": "Dreams No Weight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Liability Issue",
+    "candidates": [
+      "Write Judgment",
+      "Yochanan View",
+      "Lakish View",
+      "No Talebear",
+      "Liability Issue",
+      "Elazar Middle",
+      "Bring Parties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous discussion about how to write the court verdict in a disputed case, covering the three opinions (Rabbi Yochanan, Reish Lakish, Rabbi Elazar) and the practical differences between them \u2014 exactly what heading 0 ('Write Judgment') describes, which introduces precisely this procedural question about recording a two-to-one decision.",
+      "chosen_heading": "Write Judgment",
+      "current_heading": "Liability Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Bring Parties",
+    "candidates": [
+      "Elazar Middle",
+      "Bring Parties",
+      "Jerusalem Custom",
+      "See Together",
+      "Sequential OK",
+      "Same Time",
+      "Ed as One",
+      "Testify Together",
+      "Context Later",
+      "Smicha Story",
+      "Practical Rule",
+      "Ulla Limits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Bring Parties",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 discuss who is brought in after deliberations (litigants vs. witnesses) and the Jerusalem custom, matching the 'Bring Parties' and 'Jerusalem Custom' prose exactly.",
+      "second_heading": "See Together",
+      "second_confidence": "high",
+      "second_reason": "Items 6 onward begin the independent discussion of whether witnesses must observe events together (the 'gufah' marker signals a new topic), matching the 'See Together' section's prose about combining testimonies of witnesses who observed sequentially.",
+      "current_heading": "Bring Parties",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Ulla Limits",
+    "candidates": [
+      "Jerusalem Custom",
+      "See Together",
+      "Sequential OK",
+      "Same Time",
+      "Ed as One",
+      "Testify Together",
+      "Context Later",
+      "Smicha Story",
+      "Practical Rule",
+      "Ulla Limits",
+      "Combination Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All 8 items collectively cover Ulla's limitation of the ruling to land vs. movable property, Abaye's objection based on the tradition that the Rabbis concede to Rabbi Yehoshua ben Korcha for land, the baraita of Rav Idi bar Avin confirming this concession, the Gemara's resolution (gavra a-gavra), the clarification of the boy/girl hair testimony, and Rav Yosef's version of Ulla's ruling \u2014 all of which are precisely the content described in the 'Ulla Limits' prose.",
+      "chosen_heading": "Ulla Limits",
+      "current_heading": "Ulla Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Combination Examples",
+    "candidates": [
+      "Combination Examples",
+      "Know Same Thing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Combination Examples",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 contain Rav's ruling on which testimony combinations are valid \u2014 exactly what candidate 0's prose describes.",
+      "second_heading": "Know Same Thing",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Na\u1e25man bar Yitz\u1e25ak's challenge questioning why admission-after-admission should combine if loan-after-loan does not \u2014 exactly the opening move described in candidate 1's prose.",
+      "current_heading": "Combination Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157,
+      158
+    ],
+    "current_heading": "Know Same Thing",
+    "candidates": [
+      "Know Same Thing",
+      "Rava Critique"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Know Same Thing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover exactly the cross-notification mechanism (defendant telling each witness about the other) that candidate 0's prose describes in detail, ending with Rav Na\u1e25man bar Yitz\u1e25ak's 'may your mind be settled' satisfaction.",
+      "second_heading": "Rava Critique",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rava/Rav Sheshet's ax-throwing objection that the admission-after-admission case collapses into admission-after-loan, which is precisely what candidate 1's prose discusses.",
+      "current_heading": "Know Same Thing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164
+    ],
+    "current_heading": "Rava Critique",
+    "candidates": [
+      "Rava Critique",
+      "Nehardai All"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava Critique",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'd'ramisu diklei ve-zakifisu lehu' line that the Rava Critique prose explicitly quotes and explains as capturing the frustration of dismantling an elegant framework.",
+      "second_heading": "Nehardai All",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Nehardean ruling that all combinations combine in accordance with Rabbi Yehoshua ben Korcha, which is precisely what the 'Nehardai All' prose describes.",
+      "current_heading": "Rava Critique",
+      "moved": true
+    }
+  }
+]

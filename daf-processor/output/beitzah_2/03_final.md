@@ -1,6 +1,7 @@
-# Beitzah 2 — Daf Yomi Shiur
-
+[DAF:2a]
 ## Masechet Overview
+
+
 
 ### Names & Context
 
@@ -18,11 +19,9 @@ The other truly distinctive feature of this *masechet* worth noting at the outse
 
 ## Opening Mishna
 
-### Case Statement
 
-> **Hebrew/Aramaic:** בֵּיצָה שֶׁנּוֹלְדָה בְּיוֹם טוֹב, בֵּית שַׁמַּאי אוֹמְרִים: תֵּאָכֵל, וּבֵית הִלֵּל אוֹמְרִים: לֹא תֵּאָכֵל. בֵּית שַׁמַּאי אוֹמְרִים: שְׂאוֹר בְּכַזַּיִת וְחָמֵץ בְּכַכּוֹתֶבֶת, וּבֵית הִלֵּל אוֹמְרִים: זֶה וְזֶה בְּכַזַּיִת.
->
-> **Translation:** MISHNA: With regard to **an egg that was laid on a Festival** (*Eduyyot* 4:1), **Beit Shammai say: It may be eaten** even on that day, **and Beit Hillel say: It may not be eaten,** as the Gemara will explain at length. Apropos this exceptional case, in which Beit Shammai are lenient and Beit Hillel are strict, the mishna cites additional *halakhot* of the Festivals in which this unusual phenomenon occurs (*Yoma* 79b). **Beit Shammai say: Leaven,** i.e., dough that has leavened to such an extent that it is no longer used as food but as a leavening agent for other dough, is prohibited on Passover in the measure **of an olive-bulk.** However, the measure for edible **leavened bread** is greater, that **of a large date-bulk. And Beit Hillel say:** For both **this and that,** the measure is that **of an olive-bulk.**
+
+### Case Statement
 
 *Beitzah shenol'da b'yom tov* — what is the *halacha* regarding an egg born on *yom tov*? *Beit Shammai omrim te'achel* — *Beit Shammai* says it may be eaten. *U'Beit Hillel omrim lo te'achel* — *Beit Hillel* says it may not be eaten. This is the opening case of the *masechet*, and the *Gemara* will devote its initial analysis to understanding precisely why *Beit Hillel* forbids it.
 
@@ -36,8 +35,10 @@ Notably, this opening *mishna* belongs to what is clearly a deliberate collectio
 
 ### Two More Cases
 
-> **Hebrew/Aramaic:** הַשּׁוֹחֵט חַיָּה וָעוֹף בְּיוֹם טוֹב, בֵּית שַׁמַּאי אוֹמְרִים: יַחְפּוֹר בַּדָּקָר וִיכַסֶּה, וּבֵית הִלֵּל אוֹמְרִים: לֹא יִשְׁחוֹט אֶלָּא אִם כֵּן הָיָה לוֹ עָפָר מוּכָן מִבְּעוֹד יוֹם. וּמוֹדִים שֶׁאִם שָׁחַט, שֶׁיַּחְפּוֹר בַּדָּקָר וִיכַסֶּה — שֶׁאֵפֶר כִּירָה מוּכָן הוּא.
->
+> **Hebrew/Aramaic:** בֵּיצָה שֶׁנּוֹלְדָה בְּיוֹם טוֹב, בֵּית שַׁמַּאי אוֹמְרִים: תֵּאָכֵל, וּבֵית הִלֵּל אוֹמְרִים: לֹא תֵּאָכֵל. בֵּית שַׁמַּאי אוֹמְרִים: שְׂאוֹר בְּכַזַּיִת וְחָמֵץ בְּכַכּוֹתֶבֶת, וּבֵית הִלֵּל אוֹמְרִים: זֶה וְזֶה בְּכַזַּיִת.
+> **Translation:** MISHNA: With regard to **an egg that was laid on a Festival** (*Eduyyot* 4:1), **Beit Shammai say: It may be eaten** even on that day, **and Beit Hillel say: It may not be eaten,** as the Gemara will explain at length. Apropos this exceptional case, in which Beit Shammai are lenient and Beit Hillel are strict, the mishna cites additional *halakhot* of the Festivals in which this unusual phenomenon occurs (*Yoma* 79b). **Beit Shammai say: Leaven,** i.e., dough that has leavened to such an extent that it is no longer used as food but as a leavening agent for other dough, is prohibited on Passover in the measure **of an olive-bulk.** However, the measure for edible **leavened bread** is greater, that **of a large date-bulk. And Beit Hillel say:** For both **this and that,** the measure is that **of an olive-bulk.**
+
+> **Hebrew/Aramaic:** הַשּׁוֹחֵט חַיָּה וָעוֹף בְּיוֹם טוֹב, בֵּית שַׁמַּאי אוֹמְרִים: יַחְפּוֹר בַּדָּקָר וִיכַסֶּה, וּבֵית הִלֵּל אוֹמְרִים: לֹא יִשְׁחוֹט אֶלָּא אִם כֵּן הָיָה לוֹ עָפָר מוּכָן מִבְּעוֹד יוֹם. וּמוֹדִים שֶׁאִם שָׁחַט, שֶׁיַּחְפּוֹר בַּדָּקָר וִיכַסֶּה — שֶׁאֵפֶר כִּירָה מוּכָן הוּא.
 > **Translation:** Furthermore, with regard to **one who slaughters an undomesticated animal or a bird on a Festival** (*Eduyyot* 4:2), in which case there is a mitzva from the Torah to cover the blood after slaughtering (Leviticus 17:13), **Beit Shammai say: He digs** earth **with a shovel and covers** the blood with that earth *ab initio*. **And Beit Hillel say: He may not slaughter** *ab initio*, **unless he had earth prepared** for that purpose **while it was still day. But** even Beit Hillel **concede that if one** already **slaughtered** the animal or the bird, **then he should dig with a shovel and cover** the blood. Additionally, they agree **that the ashes of a stove are** considered **prepared** for the use of covering blood, as will be explained by the Gemara.
 
 The second case in the *mishna* concerns *chametz*: *Beit Shammai omrim se'or b'kezayit v'chametz b'kikhotevet* — *Beit Shammai* holds that the prohibited quantity of *se'or* (sourdough/leaven) is an *kezayit*, and of ordinary *chametz* is a *kikhotevet* (the size of a large date). *Beit Hillel* takes the stricter position, treating even smaller amounts as actionable — since a *kezayit* is smaller than a *kikhotevet*, *Beit Hillel* is more stringent on both.
@@ -54,32 +55,30 @@ Two of the three cases clearly implicate *muktzah* or *nolad* type concerns, tho
 
 ## Gemara Opening
 
+
+
 ### Hen Setup
 
-> **Hebrew/Aramaic:** גְּמָ׳ בְּמַאי עָסְקִינַן? אִילֵימָא בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לַאֲכִילָה, מַאי טַעְמַיְיהוּ דְּבֵית הִלֵּל? אוּכְלָא דְּאִפְּרַת הוּא!
->
-> **Translation:** GEMARA: The Gemara inquires: **With what** case **are we dealing** in this mishna? **If we say** that the mishna is referring **to a chicken that is designated for eating,** i.e., one planned to slaughter and eat a chicken that laid an egg, **what is the reason that Beit Hillel** prohibit eating the egg? **It is food that has been separated [*de'ifrat*].** The entire chicken is considered food, as it is designated for eating, and this egg is simply a part that became detached. Just as one may partake of the chicken itself on a Festival, its egg should likewise be fit for consumption.
+> **Hebrew/Aramaic:** גְּמָ׳ בְּמַאי עָסְקִינַן? אִילֵימָא בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לַאֲכִילָה, מַאי טַעְמַיְיהוּ דְּבֵית הִלֵּל? אוּכְלָא דְּאִפְּרַת הוּא!
+> **Translation:** GEMARA: The Gemara inquires: **With what** case **are we dealing** in this mishna? **If we say** that the mishna is referring **to a chicken that is designated for eating,** i.e., one planned to slaughter and eat a chicken that laid an egg, **what is the reason that Beit Hillel** prohibit eating the egg? **It is food that has been separated [*de’ifrat*].** The entire chicken is considered food, as it is designated for eating, and this egg is simply a part that became detached. Just as one may partake of the chicken itself on a Festival, its egg should likewise be fit for consumption.
+
+> **Hebrew/Aramaic:** אֶלָּא, בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים.
+> **Translation:** **Rather,** the mishna must be referring to the case **of a chicken designated for laying eggs.** Since the owner of this chicken decided not to eat it on the Festival, it is classified as set-aside [*muktze*], and *muktze* items may not even be moved, let alone eaten. Since the chicken itself is *muktze*, its egg is *muktze* as well.
+
+> **Hebrew/Aramaic:** מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי? מוּקְצֶה הִיא! וּמַאי קוּשְׁיָא? דִּלְמָא בֵּית שַׁמַּאי לֵית לְהוּ מוּקְצֶה!
+> **Translation:** The Gemara asks: If so, **what is the reason of Beit Shammai** for permitting one to eat the egg? After all, **it is *muktze*.** The Gemara expresses surprise at this question: **And what is the difficulty? Perhaps Beit Shammai do not hold** that there is a prohibition of ***muktze*?** There are different opinions with regard to the scope of the prohibition of *muktze*. It is possible that Beit Shammai, like other *tanna’im*, maintain that there is no prohibition of this type of *muktze*. Perhaps this is the subject of their dispute with Beit Hillel.
 
 *B'mai askinan?* — what are the precise circumstances of the case? The *Gemara* opens by asking what type of hen we are dealing with.
 
 *Ileim a b'tarnigoles omedes l'achilah* — suppose the hen is designated for eating, meaning one intends eventually to slaughter and consume it. If so, *mai ta'ama d'Beit Hillel* — what is *Beit Hillel*'s reason to forbid the egg? The egg, in that case, is simply *uchla d'afrush hu* — food that has separated from food. The hen itself is, on *yom tov*, accessible unprepared food — since one may *shecht* it on *yom tov*, it is not *muktzah*. The egg that emerges from it is conceptually no different from any other portion of the hen that might become detached. It is food from food. One might picture the hen the way a butcher views a carcass: here is the breast, the thigh, the wing — it is all food. A piece of that food emerging in the form of an egg is not something new; it is just food in a slightly different configuration. There is nothing about which one should say, "this is a novelty."
 
-> **Hebrew/Aramaic:** אֶלָּא, בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים.
->
-> **Translation:** **Rather,** the mishna must be referring to the case **of a chicken designated for laying eggs.** Since the owner of this chicken decided not to eat it on the Festival, it is classified as set-aside [*muktze*], and *muktze* items may not even be moved, let alone eaten. Since the chicken itself is *muktze*, its egg is *muktze* as well.
-
-The *Gemara* therefore concludes: *ella b'tarnigoles omedes l'gadel beitzim* — the case must be a hen that is designated for laying eggs, not for eating. Such a hen is *muktzah* on *yom tov*; one has no intention of slaughtering it and no reason to handle it. The egg it produces comes from something that was *muktzah*, and it is itself something entirely new. That explains *Beit Hillel*'s position.
-
-> **Hebrew/Aramaic:** מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי? מוּקְצֶה הִיא! וּמַאי קוּשְׁיָא? דִּלְמָא בֵּית שַׁמַּאי לֵית לְהוּ מוּקְצֶה!
->
-> **Translation:** The Gemara asks: If so, **what is the reason of Beit Shammai** for permitting one to eat the egg? After all, **it is *muktze*.** The Gemara expresses surprise at this question: **And what is the difficulty? Perhaps Beit Shammai do not hold** that there is a prohibition of ***muktze*?** There are different opinions with regard to the scope of the prohibition of *muktze*. It is possible that Beit Shammai, like other *tanna'im*, maintain that there is no prohibition of this type of *muktze*. Perhaps this is the subject of their dispute with Beit Hillel.
+The *Gemara* therefore concludes: *ella b'tarnigoles omedes l'gadel beitzim* — the case must be a hen that is designated for laying eggs, not for eating. Such a hen is *muktzah* on *yom tov*; one has no intention of slaughtering it and no reason to handle it. The egg it produces comes from something that was *muktzah*, and it is itself something entirely new. That explains *Beit Hillel*'s position. Underlying this analysis is the *Gemara*'s assumption that one does in fact maintain distinct designations for one's hens — those kept for meat and those kept for eggs — and that the *halachic* status of the egg flows from whichever designation applies. The *Gemara* takes it for granted that a person knows what purpose each hen serves, just as, practically speaking, the conditions under which one raises egg-laying hens and meat hens are recognizably different.
 
 But then the *Gemara* asks: *mai ta'ama d'Beit Shammai*? If the hen is *muktzah* and the egg is *nolad*, why does *Beit Shammai* permit it? The answer the *Gemara* initially suggests is *dilma Beit Shammai leit lehu muktzah* — perhaps *Beit Shammai* simply does not hold of the category of *muktzah* at all.
 
 ### Key Concepts
 
-> **Hebrew/Aramaic:** קָא סָלְקָא דַּעְתִּין: אֲפִלּוּ מַאן דְּשָׁרֵי בְּמוּקְצֶה, בְּנוֹלָד אָסַר. מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי?
->
+> **Hebrew/Aramaic:** קָא סָלְקָא דַּעְתִּין: אֲפִלּוּ מַאן דְּשָׁרֵי בְּמוּקְצֶה, בְּנוֹלָד אָסַר. מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי?
 > **Translation:** Before stating its proposed solutions for this difficulty, the Gemara notes: **It enters our mind** to say that **even one who permits** moving an item that was **set aside** by its owners on a Festival or Shabbat **prohibits** the owners from doing so **with** an object that **came into being [*nolad*]** on a Festival. One may not move an object that came into being on a Festival or Shabbat, since the owner never entertained the notion that he would be able to use it. This egg is certainly an object that came into being on the Festival. **What,** then, **is the reason of Beit Shammai?**
 
 At this point, the *Gemara* introduces a crucial distinction between three related concepts. *Muchan* means that an object is set aside and ready for use — it is in one's mental and physical domain, prepared for *Shabbat* or *yom tov*. *Muktzah* is its opposite: an object that has been designated as off-limits, pushed away from use, either because one has no purpose for it on *Shabbat* (like a hen kept for eggs) or because the object itself cannot be used (like money or matches). Between these two poles lies everything else in the world — the vast category of objects that one has neither explicitly prepared nor explicitly designated as off-limits.
@@ -102,10 +101,11 @@ It is worth noting, as *Tosafot* points out, that there are degrees of *nolad*. 
 
 ## Rav Nachman
 
+
+
 ### R.N. Framework
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: לְעוֹלָם בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים, וּדְאִית לֵיהּ מוּקְצֶה — אִית לֵיהּ נוֹלָד, וּדְלֵית לֵיהּ מוּקְצֶה — לֵית לֵיהּ נוֹלָד. בֵּית שַׁמַּאי כְּרַבִּי שִׁמְעוֹן, וּבֵית הִלֵּל כְּרַבִּי יְהוּדָה.
->
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: לְעוֹלָם בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים, וּדְאִית לֵיהּ מוּקְצֶה — אִית לֵיהּ נוֹלָד, וּדְלֵית לֵיהּ מוּקְצֶה — לֵית לֵיהּ נוֹלָד. בֵּית שַׁמַּאי כְּרַבִּי שִׁמְעוֹן, וּבֵית הִלֵּל כְּרַבִּי יְהוּדָה.
 > **Translation:** **Rav Naḥman said: Actually,** the mishna is referring **to a chicken designated for laying eggs.** However, our previous assumption was mistaken, as the Sage **who holds** that there is a prohibition of ***muktze*** in general also **holds** that there is a prohibition of objects that **came into being,** while one **who does not hold** that there is a prohibition of ***muktze*** likewise **does not hold** that there is a prohibition of objects that **came into being** (*Shabbat* 45b). Consequently, the dispute can be summed up as follows: **Beit Shammai** hold **in accordance with** the opinion of **Rabbi Shimon,** who maintains that there is no prohibition of *muktze*; **and Beit Hillel** hold **in accordance with** the opinion of **Rabbi Yehuda,** who rules that there is a prohibition of *muktze*.
 
 Having established that the case involves a hen set aside for laying eggs, and having clarified the conceptual distinction between *muktzah* and *nolad*, the *Gemara* now turns to *Rav Nachman*'s proposed explanation of the *mishna*.
@@ -114,37 +114,35 @@ Having established that the case involves a hen set aside for laying eggs, and h
 
 The *Gemara* had previously assumed that everyone agreed in principle that things must be ready when *Shabbat* begins, and that the debate concerned only the particulars of application — you might say that what I call *muktzah* objects were never truly unavailable, but surely something that didn't exist at all (*nolad*) was not ready. *Rav Nachman* rejects this framing entirely. *Beit Shammai* does not merely disagree about the application; they reject the concept wholesale. There is no category of preparation that must precede *Shabbat*, and therefore neither *muktzah* nor *nolad* poses any problem. *Beit Hillel*, by contrast, holds the entire framework: things must be available and ready when *Shabbat* or *yom tov* begins, and this gives rise to both *muktzah* and *nolad* as operative prohibitions.
 
+It is worth pausing to appreciate what makes this a genuinely interesting structural question, and not merely a technical one. One might have thought the two positions were arguing within a shared framework — that both sides agree there is some concept of readiness required before *Shabbat*, and they are simply debating where the line falls. On that reading, you could hold that *muktzah* is not a real concern while still conceding that *nolad* is: after all, an object that physically did not exist is in a fundamentally different position from one that merely sat unused. *Rav Nachman*'s answer is that *Beit Shammai* makes no such concession. Their rejection is categorical and principled — they do not hold of this concept at all — and therefore *nolad* falls with *muktzah* as a matter of course.
+
 On this reading, *Beit Shammai k'Rabbi Shimon* — *Beit Shammai* holds like *Rabbi Shimon*, who is known as not holding of *muktzah* — and *Beit Hillel k'Rabbi Yehuda*, who does. This is a clean and attractive explanation of the *mishna*. *Tosafot* does note several places where *Beit Shammai* appears to have its own concerns about *muktzah*-like issues, but the *Gemara* accepts *Rav Nachman*'s framing as the operative explanation at this stage, treating those as exceptions that do not undermine the general principle.
 
 ### Bones Mishna
 
-> **Hebrew/Aramaic:** וּמִי אָמַר רַב נַחְמָן הָכִי? וְהָתְנַן: בֵּית שַׁמַּאי אוֹמְרִים: מַגְבִּיהִין מֵעַל הַשֻּׁלְחָן עֲצָמוֹת וּקְלִיפִּין, וּבֵית הִלֵּל אוֹמְרִים: מְסַלֵּק אֶת הַטַּבְלָא כּוּלָּהּ וּמְנַעֲרָהּ.
->
-> **Translation:** The Gemara is puzzled by this explanation: **And did Rav Naḥman** actually **say that** Beit Hillel hold in accordance with the opinion of Rabbi Yehuda? **But didn't we learn** in a mishna (*Shabbat* 143a) that **Beit Shammai say: One** may **remove bones and shells** left from the meal **from the table,** despite the fact that they are inedible and are *muktze*. **And Beit Hillel say:** It is prohibited to do so; rather, **one** may **remove the entire board [*tavla*]** that is the table surface, which is a vessel that may be carried, **and shake it** all at once. By moving the table, which is not *muktze*, one is able to shake off the bones and shells, but he may not move the items themselves.
+> **Hebrew/Aramaic:** וּמִי אָמַר רַב נַחְמָן הָכִי? וְהָתְנַן: בֵּית שַׁמַּאי אוֹמְרִים: מַגְבִּיהִין מֵעַל הַשֻּׁלְחָן עֲצָמוֹת וּקְלִיפִּין, וּבֵית הִלֵּל אוֹמְרִים: מְסַלֵּק אֶת הַטַּבְלָא כּוּלָּהּ וּמְנַעֲרָהּ.
+> **Translation:** The Gemara is puzzled by this explanation: **And did Rav Naḥman** actually **say that** Beit Hillel hold in accordance with the opinion of Rabbi Yehuda? **But didn’t we learn** in a mishna (*Shabbat* 143a) that **Beit Shammai say: One** may **remove bones and shells** left from the meal **from the table,** despite the fact that they are inedible and are *muktze*. **And Beit Hillel say:** It is prohibited to do so; rather, **one** may **remove the entire board [*tavla*]** that is the table surface, which is a vessel that may be carried, **and shake it** all at once. By moving the table, which is not *muktze*, one is able to shake off the bones and shells, but he may not move the items themselves.
 
 The *Gemara* then challenges *Rav Nachman* from a different *mishna*. *Ve'hasnnan* — there is a *mishna* in *Shabbat* that reads: *Beit Shammai omrim m'taltelin al hashulchan atzamot u'kelipin* — *Beit Shammai* says one may pick up the bones and shells left on the table after a meal and move them. *Beit Hillel*, by contrast, says *mesalek et hatavla kulo um'narah* — one takes the entire tray and shakes it out, but one may not directly handle the bones and shells.
 
 Here, *Beit Hillel*'s position reflects the principle of *tiltul min hatzad* — indirect handling — which gives one considerably more latitude with *muktzah* items than direct handling would. *Beit Hillel* holds that the bones are *muktzah* and therefore may not be directly moved; they may only be handled indirectly. *Beit Shammai*, on the other hand, permits direct handling — consistent with his position that *muktzah* is not a concern.
 
-> **Hebrew/Aramaic:** וְאָמַר רַב נַחְמָן: אָנוּ אֵין לָנוּ אֶלָּא בֵּית שַׁמַּאי כְּרַבִּי יְהוּדָה, וּבֵית הִלֵּל כְּרַבִּי שִׁמְעוֹן!
->
-> **Translation:** **And Rav Naḥman said:** That version of the mishna is not in accordance with the *halakha*; rather, the opinions should be reversed, as **we** have **nothing other** than the following version of this dispute: **Beit Shammai** hold **in accordance with** the opinion of **Rabbi Yehuda,** who maintains that the prohibition of *muktze* applies, while **Beit Hillel** hold **in accordance with** the opinion of **Rabbi Shimon,** who maintains that the *halakha* of *muktze* does not apply. Why, then, does Rav Naḥman explain that the ruling of Beit Hillel in the case of the egg in the mishna is based on the opinion of Rabbi Yehuda, who holds that there actually is a prohibition of *muktze*?
-
 This *mishna*, then, perfectly corroborates *Rav Nachman*'s framework. So far, so good. The problem arises because *Rav Nachman* himself, in a different context, stated the reverse: *anu ein lanu ella Beit Shammai k'Rabbi Yehuda u'Beit Hillel k'Rabbi Shimon* — we hold only that *Beit Shammai* goes like *Rabbi Yehuda* (who holds of *muktzah*) and *Beit Hillel* goes like *Rabbi Shimon* (who does not). In that statement, *Rav Nachman* reverses the very assignment he made here: *Beit Hillel* would permit picking up the bones directly, and *Beit Shammai* would require only indirect handling. *Rav Nachman* thus appears to have contradicted himself.
 
+[DAF:2b]
 ### Shabbat vs. Yom Tov
 
-> **Hebrew/Aramaic:** אָמַר לְךָ רַב נַחְמָן: גַּבֵּי שַׁבָּת, דִּסְתַם לַן תְּנָא כְּרַבִּי שִׁמְעוֹן, דִּתְנַן: מְחַתְּכִין אֶת הַדִּלּוּעִין לִפְנֵי הַבְּהֵמָה, וְאֶת הַנְּבֵלָה לִפְנֵי הַכְּלָבִים —
->
+> **Hebrew/Aramaic:** וְאָמַר רַב נַחְמָן: אָנוּ אֵין לָנוּ אֶלָּא בֵּית שַׁמַּאי כְּרַבִּי יְהוּדָה, וּבֵית הִלֵּל כְּרַבִּי שִׁמְעוֹן!
+> **Translation:** **And Rav Naḥman said:** That version of the mishna is not in accordance with the *halakha*; rather, the opinions should be reversed, as **we** have **nothing other** than the following version of this dispute: **Beit Shammai** hold **in accordance with** the opinion of **Rabbi Yehuda,** who maintains that the prohibition of *muktze* applies, while **Beit Hillel** hold **in accordance with** the opinion of **Rabbi Shimon,** who maintains that the *halakha* of *muktze* does not apply. Why, then, does Rav Naḥman explain that the ruling of Beit Hillel in the case of the egg in the mishna is based on the opinion of Rabbi Yehuda, who holds that there actually is a prohibition of *muktze*?
+
+> **Hebrew/Aramaic:** אָמַר לְךָ רַב נַחְמָן: גַּבֵּי שַׁבָּת, דִּסְתַם לַן תְּנָא כְּרַבִּי שִׁמְעוֹן, דִּתְנַן: מְחַתְּכִין אֶת הַדִּלּוּעִין לִפְנֵי הַבְּהֵמָה, וְאֶת הַנְּבֵלָה לִפְנֵי הַכְּלָבִים —
 > **Translation:** The Gemara answers that **Rav Naḥman** could have **said to you** in reply: **With regard to Shabbat,** this is a case **where** the ***tanna* taught us an unattributed** mishna, which is generally accepted as the *halakha*, **in accordance with** the opinion of **Rabbi Shimon, as we learned** in a mishna (*Shabbat* 156b): **One** may **cut pumpkins before an animal** to facilitate their consumption, **and** likewise one may cut up **an animal carcass before dogs,** even if the animal died on Shabbat, to enable them to consume it. Although that carcass is classified as *muktze*, it may be moved on Shabbat.
 
-> **Hebrew/Aramaic:** מוֹקֵים לָהּ לְבֵית הִלֵּל כְּרַבִּי שִׁמְעוֹן. אֲבָל
->
-> **Translation:** The Gemara concludes: That unattributed mishna in tractate *Shabbat* is in accordance with the opinion of Rabbi Shimon. For this reason, Rav Naḥman **establishes** that the dispute between Beit Hillel and Beit Shammai should be understood to mean **that Beit Hillel** hold **in accordance with** the opinion of **Rabbi Shimon,** whom the *halakha* apparently follows, as there is a principle that the *halakha* is always in accordance with Beit Hillel's opinion. **However,**
+> **Hebrew/Aramaic:** מוֹקֵים לָהּ לְבֵית הִלֵּל כְּרַבִּי שִׁמְעוֹן. אֲבָל
+> **Translation:** The Gemara concludes: That unattributed mishna in tractate *Shabbat* is in accordance with the opinion of Rabbi Shimon. For this reason, Rav Naḥman **establishes** that the dispute between Beit Hillel and Beit Shammai should be understood to mean **that Beit Hillel** hold **in accordance with** the opinion of **Rabbi Shimon,** whom the *halakha* apparently follows, as there is a principle that the *halakha* is always in accordance with Beit Hillel’s opinion. **However,**
 
-> **Hebrew/Aramaic:** גַּבֵּי יוֹם טוֹב, דִּסְתַם לַן תַּנָּא כְּרַבִּי יְהוּדָה, דִּתְנַן: אֵין מְבַקְּעִין עֵצִים מִן הַקּוֹרוֹת וְלֹא מִן הַקּוֹרָה שֶׁנִּשְׁבְּרָה בְּיוֹם טוֹב — מוֹקֵים לָהּ לְבֵית הִלֵּל כְּרַבִּי יְהוּדָה.
->
-> **Translation:** **with regard to a Festival,** the ***tanna* taught us an unattributed** mishna **in accordance with** the opinion of **Rabbi Yehuda** (*Shabbat* 156b), **as we learned** in a mishna in this tractate: **One** may **not chop wood** on a Festival **from beams** prepared for use in construction work, **nor** may one chop kindling wood **from a beam that broke on a Festival.** As the beams were not prepared for this use when the Festival began, they are classified as *muktze*; this demonstrates that an unattributed mishna prohibits *muktze* on a Festival. Consequently, Rav Naḥman **establishes** the opinion **of Beit Hillel in accordance with** the opinion of **Rabbi Yehuda,** who prohibits *muktze*. He does so by asserting that the mishna is referring to the case of a chicken designated for laying eggs, which is *muktze*. This concludes the Gemara's explanation of Rav Naḥman's rendering of the tannaitic dispute.
+> **Hebrew/Aramaic:** גַּבֵּי יוֹם טוֹב, דִּסְתַם לַן תַּנָּא כְּרַבִּי יְהוּדָה, דִּתְנַן: אֵין מְבַקְּעִין עֵצִים מִן הַקּוֹרוֹת וְלֹא מִן הַקּוֹרָה שֶׁנִּשְׁבְּרָה בְּיוֹם טוֹב — מוֹקֵים לָהּ לְבֵית הִלֵּל כְּרַבִּי יְהוּדָה.
+> **Translation:** **with regard to a Festival,** the ***tanna* taught us an unattributed** mishna **in accordance with** the opinion of **Rabbi Yehuda** (*Shabbat* 156b), **as we learned** in a mishna in this tractate: **One** may **not chop wood** on a Festival **from beams** prepared for use in construction work, **nor** may one chop kindling wood **from a beam that broke on a Festival.** As the beams were not prepared for this use when the Festival began, they are classified as *muktze*; this demonstrates that an unattributed mishna prohibits *muktze* on a Festival. Consequently, Rav Naḥman **establishes** the opinion **of Beit Hillel in accordance with** the opinion of **Rabbi Yehuda,** who prohibits *muktze*. He does so by asserting that the mishna is referring to the case of a chicken designated for laying eggs, which is *muktze*. This concludes the Gemara’s explanation of Rav Naḥman’s rendering of the tannaitic dispute.
 
 The resolution *Rav Nachman* offers is striking. He says there is a principled distinction between *Shabbat* and *yom tov* that explains why the positions must be assigned differently in the two contexts.
 
@@ -156,17 +154,17 @@ By *yom tov*, however, the *stam mishna* follows *Rabbi Yehuda*, who holds that 
 
 ### Rashi Rationale
 
-> **Hebrew/Aramaic:** מִכְּדֵי, מַאן סַתְמַיהּ לְמַתְנִיתִין — רַבִּי. מַאי שְׁנָא בְּשַׁבָּת דִּסְתַם לַן כְּרַבִּי שִׁמְעוֹן, וּמַאי שְׁנָא בְּיוֹם טוֹב דִּסְתַם לַן כְּרַבִּי יְהוּדָה?
->
+> **Hebrew/Aramaic:** מִכְּדֵי, מַאן סַתְמַיהּ לְמַתְנִיתִין — רַבִּי. מַאי שְׁנָא בְּשַׁבָּת דִּסְתַם לַן כְּרַבִּי שִׁמְעוֹן, וּמַאי שְׁנָא בְּיוֹם טוֹב דִּסְתַם לַן כְּרַבִּי יְהוּדָה?
 > **Translation:** The Gemara asks: **Now since,** i.e., consider the following: **Who is the one who** wrote and edited the Mishna, and arranged **the unattributed *mishnayot*?** It was **Rabbi** Yehuda HaNasi. Since the same Sage formulated the statements in both tractates, the question arises: **What is different** with regard **to** the *halakhot* of **Shabbat, that** he **stated the unattributed opinion** and ruled **for us in accordance with** the opinion of **Rabbi Shimon, and what is different** with regard **to** the *halakhot* of **a Festival, that** he **stated the unattributed opinion** and ruled **for us in accordance with** the opinion of **Rabbi Yehuda?**
 
-> **Hebrew/Aramaic:** אָמְרִי: שַׁבָּת דַּחֲמִירָא, וְלָא אָתֵי לְזַלְזוֹלֵי בַּהּ — סָתֵם לַן כְּרַבִּי שִׁמְעוֹן דְּמֵיקֵל, יוֹם טוֹב דְּקִיל, וְאָתֵי לְזַלְזוֹלֵי בֵּיהּ — סָתֵם לַן כְּרַבִּי יְהוּדָה דְּמַחְמִיר.
->
+> **Hebrew/Aramaic:** אָמְרִי: שַׁבָּת דַּחֲמִירָא, וְלָא אָתֵי לְזַלְזוֹלֵי בַּהּ — סָתֵם לַן כְּרַבִּי שִׁמְעוֹן דְּמֵיקֵל, יוֹם טוֹב דְּקִיל, וְאָתֵי לְזַלְזוֹלֵי בֵּיהּ — סָתֵם לַן כְּרַבִּי יְהוּדָה דְּמַחְמִיר.
 > **Translation:** **They** answer and **say:** In the case of **Shabbat, which is stringent** with regard to its punishments (see 35b), **and** therefore people **will not come to treat it with contempt,** Rabbi Yehuda HaNasi **taught us the unattributed** mishna **in accordance with** the opinion of **Rabbi Shimon, who rules leniently.** Conversely, with regard to **a Festival, which is lenient,** as certain labors may be performed on a Festival, **and** therefore people **will** be more likely to **come to treat it with contempt,** he **stated the unattributed opinion for us in accordance with** the opinion of **Rabbi Yehuda, who rules stringently.**
 
 This leads to a pointed question: why did *Rebbi* adopt opposing positions for *Shabbat* and *yom tov*? The *Gemara* explains: *Shabbat de-chamira lo atu le-zilzulei bah* — *Shabbat* is intrinsically more stringent and treated with greater gravity, so one need not fear that people will come to treat it lightly. Therefore, *Rebbi* ruled like *Rabbi Shimon* and did not impose *muktzah* on *Shabbat*. *Yom tov de-kil ve-atu le-zilzulei beih* — *yom tov*, however, is more lenient in a range of ways: one may cook, *shecht*, carry, and engage in many forms of labor permitted by *melacha ochel nefesh*. Given this latitude, people might come to be insufficiently mindful of *yom tov*'s sanctity. Therefore *Rebbi* ruled like *Rabbi Yehuda* and imposed *muktzah* on *yom tov*.
 
-*Rashi*'s treatment of this passage adds a layer that is worth examining carefully. The *Gemara* notes that it was *Rebbi* who decided which *mishnayot* to render as *stam* — anonymous and therefore authoritative. *Rashi* explains: *u'man stam lan le-masnisin? Rebbe she-sider ha-mishna* — it was *Rebbi* who arranged the *mishna*. *Ve'chaza divrei chacham ve'yashru be'einav, shanam stam* — when an opinion appeared correct to him, he taught it anonymously. *Ve'lo hizkir shem omro aleihem, kedei she'lo yishnu mipi yachid* — he did not attribute it to a single authority, so that it would not be seen as one individual's view. *Ve'yeira'u ke'illu nishnu mipi ha-merubim ve'ya'asu kemosam* — to give the appearance of a consensus opinion, so that people would follow it. This is a striking *Rashi*: *Rebbi* was not merely expressing his own *psak* by choosing which *mishna* to make anonymous; according to *Rashi*, he was deliberately creating the impression of a consensus that did not exist, in order to ensure that people would follow it. One may re-read *Rashi* more charitably — that *Rebbi* was giving authoritative voice to a position rather than literally deceiving anyone — but the plain language is quite arresting.
+There is something worth pausing over here. This split ruling is not a position any single *tanna* ever held. *Beit Hillel* and *Beit Shammai* presumably never divided their vote this way; it was *Rebbi* alone who decided to *pasken* like *Rabbi Shimon* on *Shabbat* and like *Rabbi Yehuda* on *yom tov*. That means the reversal of attributed positions in the *mishna* about the bones — assigning the lenient position to *Beit Hillel* on *Shabbat* in order to keep *Beit Hillel* consistent with normative *halacha* — is itself a product of *Rebbi*'s editorial decision, not a recovery of what *Beit Hillel* originally meant. The question of whether the *Gemara* genuinely believes *Beit Hillel* held the reassigned position, or whether the reassignment is simply a technical move to keep *Beit Hillel* aligned with the *psak*, is left somewhat open — and it is a question that bears on how manipulative one finds the whole construction.
+
+*Rashi*'s treatment of this passage adds a layer that is worth examining carefully. The *Gemara* notes that it was *Rebbi* who decided which *mishnayot* to render as *stam* — anonymous and therefore authoritative. *Rashi* explains: *u'man stam lan le-masnisin? Rebbe she-sider ha-mishna* — it was *Rebbi* who arranged the *mishna*. *Ve-chaza divrei chacham ve-yashru be-einav, shanam stam* — when an opinion appeared correct to him, he taught it anonymously. *Ve-lo hizkir shem omro aleihem, kedei she-lo yishnu mipi yachid* — he did not attribute it to a single authority, so that it would not be seen as one individual's view. *Ve-yeira'u ke-illu nishnu mipi ha-merubim ve-ya'asu kemosam* — to give the appearance of a consensus opinion, so that people would follow it. This is a striking *Rashi*: *Rebbi* was not merely expressing his own *psak* by choosing which *mishna* to make anonymous; according to *Rashi*, he was deliberately creating the impression of a consensus that did not exist, in order to ensure that people would follow it. One may re-read *Rashi* more charitably — that *Rebbi* was giving authoritative voice to a position rather than literally deceiving anyone — but the plain language is quite arresting.
 
 The upshot is that the difference between *Shabbat* and *yom tov* in the area of *muktzah* is not a product of some earlier *tannaitic* dispute in which one *tanna* held these two positions simultaneously. It was *Rebbi*'s considered editorial decision to apply different *halachic* frameworks to the two domains, based on the practical concern that *yom tov*'s greater permissiveness creates a risk of diminished sensitivity to its sanctity. Imposing *muktzah* on *yom tov* keeps one conscious of which objects are within the *yom tov* framework and which are not — and that consciousness itself serves to preserve awareness of *kedushat ha-yom*.
 
@@ -174,19 +172,22 @@ The upshot is that the difference between *Shabbat* and *yom tov* in the area of
 
 ## Critique & Alternatives
 
+
+
 ### Why Just Egg?
 
-> **Hebrew/Aramaic:** בְּמַאי אוֹקֵימְתָּא — בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים, וּמִשּׁוּם מוּקְצֶה. אִי הָכִי, אַדְּמִפַּלְגִי בְּבֵיצָה, לִפַּלְגוּ בְּתַרְנְגוֹלֶת?
->
+> **Hebrew/Aramaic:** בְּמַאי אוֹקֵימְתָּא — בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים, וּמִשּׁוּם מוּקְצֶה. אִי הָכִי, אַדְּמִפַּלְגִי בְּבֵיצָה, לִפַּלְגוּ בְּתַרְנְגוֹלֶת?
 > **Translation:** The Gemara asks: **In what** manner **did you** ultimately **establish** the mishna? It was established as referring **to a chicken designated for laying eggs, and** the prohibition is **due to *muktze*. If so, rather than disputing with regard to an egg** laid on a Festival, **let them dispute with regard to** the **chicken** itself. Instead of considering the secondary detail of an egg, Beit Shammai and Beit Hillel could discuss whether or not the chicken itself may be slaughtered on a Festival.
+
+> **Hebrew/Aramaic:** לְהוֹדִיעֲךָ כֹּחָן דְּבֵית שַׁמַּאי, דִּבְנוֹלָד שְׁרֵי.
+> **Translation:** The Gemara answers: Beit Shammai and Beit Hillel also disagree with regard to the chicken, but the dispute was phrased in this manner **to convey the far-reaching nature of** the opinion of **Beit Shammai.** The formulation of the mishna emphasizes the extent of Beit Shammai’s lenient opinion, **that** even **in the case of** an egg, which is not a regular *muktze* item but an item that **came into being,** an especially stringent type of *muktze*, Beit Shammai nevertheless **permit** it. By stating the dispute with regard to an egg, the mishna stresses Beit Shammai’s lenient opinion.
+
 
 The *Gemara* now presses a pointed objection against *Rav Nachman*'s framework. *B'mai okimta* — you have placed our *mishna* as discussing a hen set aside for laying eggs, and the debate is about *muktzah*. *Ei hachi* — if so, *ad d'miflegi b'beitzah, liflegu b'tarnegolet* — why does the *mishna* debate only the egg? Let them debate the hen itself! If the issue is *muktzah*, then handling or eating the hen on *yom tov* is at least as problematic, and *Beit Shammai* permitting that and *Beit Hillel* forbidding it would be the more direct formulation of the debate.
 
-### Koach Heteira
+One might push back further and ask: even granting that the egg is the better case to showcase *Beit Shammai*'s leniency, why not instead present the hen as the illustrative case in order to showcase *Beit Hillel*'s stringency? After all, if *Beit Hillel* forbids even the hen — which is a *muktzah* problem rather than the more severe category of *nolad* — that too is a striking position worth highlighting. The *Gemara*'s response to this counterpoint, and the principle of *koach deheteira adif* that underlies it, is taken up immediately below.
 
-> **Hebrew/Aramaic:** לְהוֹדִיעֲךָ כֹּחָן דְּבֵית שַׁמַּאי, דִּבְנוֹלָד שְׁרֵי.
->
-> **Translation:** The Gemara answers: Beit Shammai and Beit Hillel also disagree with regard to the chicken, but the dispute was phrased in this manner **to convey the far-reaching nature of** the opinion of **Beit Shammai.** The formulation of the mishna emphasizes the extent of Beit Shammai's lenient opinion, **that** even **in the case of** an egg, which is not a regular *muktze* item but an item that **came into being,** an especially stringent type of *muktze*, Beit Shammai nevertheless **permit** it. By stating the dispute with regard to an egg, the mishna stresses Beit Shammai's lenient opinion.
+### Koach Heteira
 
 The *Gemara* responds: *lehodi'acha kochan d'Beit Shammai, de'benolad sharei* — the point of choosing the egg as the case is to demonstrate the full strength of *Beit Shammai*'s lenient position. Not only does *Beit Shammai* permit the hen itself, which is merely *muktzah*, he permits even the egg, which is *nolad* — a more severe category. Choosing the egg as the illustrative case showcases how far-reaching *Beit Shammai*'s leniency goes.
 
@@ -194,13 +195,11 @@ The counterpoint — why not instead mention the hen to showcase *Beit Hillel*'s
 
 ### Rejection
 
-> **Hebrew/Aramaic:** וְלִפְלוּגי בְּתַרְנְגוֹלֶת, לְהוֹדִיעֲךָ כֹּחָן דְּבֵית הִלֵּל, דִּבְמוּקְצֶה אָסְרִי! וְכִי תֵּימָא כֹּחַ דְּהֶתֵּירָא עֲדִיף — וְנִפְלוֹג בְּתַרְוַיְיהוּ:
->
+> **Hebrew/Aramaic:** וְלִפְלוּגי בְּתַרְנְגוֹלֶת, לְהוֹדִיעֲךָ כֹּחָן דְּבֵית הִלֵּל, דִּבְמוּקְצֶה אָסְרִי! וְכִי תֵּימָא כֹּחַ דְּהֶתֵּירָא עֲדִיף — וְנִפְלוֹג בְּתַרְוַיְיהוּ:
 > **Translation:** The Gemara raises an objection: **And let them disagree with regard to a chicken,** rather than an egg, **to convey the far-reaching nature of** the opinion of **Beit Hillel, who prohibit** its use **even** in the more lenient case **of *muktze*. And if you say** it is better to present the dispute as in the mishna, so as to clarify the more lenient opinion, as **the strength of leniency is preferable** (*Berakhot* 60a), there is another option: **And let them disagree with regard to both of** these cases.
 
-> **Hebrew/Aramaic:** תַּרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים, הִיא וּבֵיצָתָהּ, בֵּית שַׁמַּאי אוֹמְרִים: תֵּאָכֵל, וּבֵית הִלֵּל אוֹמְרִים: לֹא תֵּאָכֵל.
->
-> **Translation:** The mishna could have said: With regard to **a chicken designated for laying eggs, it and its eggs, Beit Shammai say: It may be eaten, and Beit Hillel say: It may not be eaten.** In this manner, the mishna could have referred to all aspects of the dispute, without the need for any lengthy addition. Consequently, Rav Naḥman's explanation of the mishna is inadequate.
+> **Hebrew/Aramaic:** תַּרְנְגוֹלֶת הָעוֹמֶדֶת לְגַדֵּל בֵּיצִים, הִיא וּבֵיצָתָהּ, בֵּית שַׁמַּאי אוֹמְרִים: תֵּאָכֵל, וּבֵית הִלֵּל אוֹמְרִים: לֹא תֵּאָכֵל.
+> **Translation:** The mishna could have said: With regard to **a chicken designated for laying eggs, it and its eggs, Beit Shammai say: It may be eaten, and Beit Hillel say: It may not be eaten.** In this manner, the mishna could have referred to all aspects of the dispute, without the need for any lengthy addition. Consequently, Rav Naḥman’s explanation of the mishna is inadequate.
 
 The *Gemara* is not satisfied. *V'niflegu betarveihu* — why not simply mention both? It would require only a small modification to the *mishna*: state that the hen designated for eggs and its egg — *hi u'veitzatah* — are what *Beit Shammai* permits and *Beit Hillel* forbids. The additional words are not a significant burden, and the formulation would make the debate over the hen itself fully explicit. The *Gemara* concludes that if *muktzah* of the hen were truly the *ikar* of the dispute, the *mishna* would have said so directly. The fact that only the egg is mentioned suggests the issue at stake is something intrinsic to the egg, not merely a derivative of the hen's *muktzah* status.
 
@@ -210,23 +209,26 @@ This is, admittedly, not an overwhelmingly powerful rejection of *Rav Nachman*'s
 
 ## Rava Hachana
 
+
+
 ### Egg Readiness
 
-> **Hebrew/Aramaic:** אֶלָּא, אָמַר רַבָּה: לְעוֹלָם בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לַאֲכִילָה, וּבְיוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת עָסְקִינַן, וּמִשּׁוּם הֲכָנָה.
->
+> **Hebrew/Aramaic:** אֶלָּא, אָמַר רַבָּה: לְעוֹלָם בְּתַרְנְגוֹלֶת הָעוֹמֶדֶת לַאֲכִילָה, וּבְיוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת עָסְקִינַן, וּמִשּׁוּם הֲכָנָה.
 > **Translation:** **Rather, Rabba said: Actually,** the above explanation should be rejected. **We are dealing with a chicken designated for food and we are dealing with** an egg that was laid **on a Festival that occurs after Shabbat,** i.e., on a Sunday. **And** the relevant issue is not the *halakhot* of *muktze*; rather, one may not eat the egg **due to** the prohibition against **preparation** from Shabbat to a Festival.
+
+> **Hebrew/Aramaic:** וְקָסָבַר רַבָּה, כֹּל בֵּיצָה דְּמִתְיַלְדָא הָאִידָּנָא — מֵאֶתְמוֹל גָּמְרָה לָהּ.
+> **Translation:** **And** in this regard, **Rabba holds** that **any egg laid now was** already **fully developed yesterday,** and merely emerged from the chicken today. Consequently, an egg laid on a Festival that occurred on a Sunday may not be eaten, as it was prepared on Shabbat, despite the fact that it was prepared naturally, by Heaven, rather than by man.
 
 *Amar Rava* — *Rava* offers an entirely different explanation. *Le'olam b'tarnigoles ha'omedes l'achilah* — let us return to the original assumption: the hen is set aside for eating. The egg is therefore not *nolad* in the sense discussed until now; it is conceptually just food that separated from food. So why does *Beit Hillel* forbid it?
 
-*U'b'yom tov she'chal lihyot achar ha'Shabbat askinan* — we are discussing the specific case where *yom tov* falls immediately after *Shabbat*. And the issue is *mishum hachana* — preparation. *Kol beitzah d'misvalda haidana nigmrah lah me'esmol* — any egg laid today was fully formed and completed yesterday. In the scenario where *yom tov* follows *Shabbat*, "yesterday" — when the egg reached completion — was *Shabbat* itself. The egg was therefore "prepared" on *Shabbat* for use on *yom tov*, and that is a problem.
+*U'b'yom tov she'chal lihyos achar ha'Shabbat askinan* — we are discussing the specific case where *yom tov* falls immediately after *Shabbat*. And the issue is *mishum hachana* — preparation. *Kol beitzah d'misvalda haidana nigmrah lah me'esmol* — any egg laid today was fully formed and completed yesterday. In the scenario where *yom tov* follows *Shabbat*, "yesterday" — when the egg reached completion — was *Shabbat* itself. The egg was therefore "prepared" on *Shabbat* for use on *yom tov*, and that is a problem.
 
 ### Preparation Principle
 
-> **Hebrew/Aramaic:** וּרְמִינְהוּ, וְעוֹד אָמַר רַבִּי יְהוּדָה: מַתְנֶה אָדָם עַל כַּלְכָּלָה שֶׁל פֵּירוֹת בְּיוֹם טוֹב רִאשׁוֹן,
->
-> **Translation:** **And** the Gemara **raises a contradiction** against this from a different source: **And Rabbi Yehuda said further,** concerning untithed fruit, which may not be rendered fit to be eaten on a Festival by separating *teruma* and tithes from it (*Eiruvin* 39a): **A person may stipulate a condition with regard to a basket of** untithed **fruit on the first day of a Festival,** and say: If today is the true Festival day, the second Festival day is actually a weekday. Therefore, this fruit is permitted, once I separate tithes from it, as on any other weekday. And vice versa: If today is, in fact, a weekday, and tomorrow is the Festival, I hereby separate its tithes today.
+> **Hebrew/Aramaic:** וְרַבָּה לְטַעְמֵיהּ. דְּאָמַר רַבָּה, מַאי דִּכְתִיב: ״וְהָיָה בַּיּוֹם הַשִּׁשִּׁי וְהֵכִינוּ אֶת אֲשֶׁר יָבִיאוּ״ — חוֹל מֵכִין לְשַׁבָּת, וְחוֹל מֵכִין לְיוֹם טוֹב, וְאֵין יוֹם טוֹב מֵכִין לְשַׁבָּת, וְאֵין שַׁבָּת מְכִינָה לְיוֹם טוֹב.
+> **Translation:** The Gemara comments: **And Rabba,** who prohibits one to derive benefit even from something that was not prepared by man, conforms **to his** standard line of **reasoning. As Rabba said: What is** the meaning of that **which is written** with regard to the manna: **“And it shall come to pass on the sixth day, that they shall prepare that which they bring in”** (Exodus 16:5)? According to Rabba, it can be inferred from this verse that on an ordinary **weekday,** “the sixth day,” **one** may **prepare** what is needed **for Shabbat, and** similarly, on an ordinary **weekday one** may **prepare** what is needed **for a Festival.** However, on **a Festival one may not prepare for Shabbat, and** likewise **on Shabbat one may not prepare for a Festival.**
 
-*Rava litaimei* — *Rava* grounds this in a biblical verse. (The Gemara will provide this later in the source text.) Let us note that *Rava* derives from the Torah itself that the principle of *hachana* — preparation — is embedded in its commandments: *chol mechin l'Shabbat* — a weekday must prepare for *Shabbat*; *v'chol mechin l'yom tov* — a weekday must prepare for *yom tov*. And crucially: *v'ein yom tov mechin l'Shabbat v'ein Shabbat mechina l'yom tov* — *yom tov* cannot prepare for *Shabbat*, and *Shabbat* cannot prepare for *yom tov*.
+*Rava litaimei* — *Rava* grounds this in a biblical verse: *vehayah bayom hashishi v'hechinu et asher yavi'u* — "And it shall be on the sixth day, and they shall prepare what they bring." This verse appeared to be redundant, since the Torah had already said *et asher tofu efu v'et asher tevashlu bashelu* — do all your baking and cooking. *Rava* derives from the extra language of "prepare" that the principle of *hachana* — preparation — is embedded in the Torah itself: *chol mechin l'Shabbat* — a weekday must prepare for *Shabbat*; *v'chol mechin l'yom tov* — a weekday must prepare for *yom tov*. And crucially: *v'ein yom tov mechin l'Shabbat v'ein Shabbat mechina l'yom tov* — *yom tov* cannot prepare for *Shabbat*, and *Shabbat* cannot prepare for *yom tov*.
 
 The *chiddush* here is significant. This is not about a person actively violating *Shabbat* in order to cook for *yom tov* — that prohibition needs no special verse. The *chiddush* is that even when the preparation happens entirely on its own, without any human act of violation — like an egg naturally completing its development inside a hen — if that completion occurs on *Shabbat* or *yom tov*, and the result is intended to be used on the other sacred day, it is considered as if *Shabbat* or *yom tov* "prepared" for that other day, which is prohibited.
 
@@ -244,21 +246,18 @@ Whether *Rava*'s principle of *hachana* applies broadly to all objects or specif
 
 ### Abaye Challenge
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: אֶלָּא מֵעַתָּה, יוֹם טוֹב בְּעָלְמָא תִּשְׁתְּרֵי! גְּזֵרָה מִשּׁוּם יוֹם טוֹב אַחַר הַשַּׁבָּת. שַׁבָּת דְּעָלְמָא תִּשְׁתְּרֵי! גְּזֵרָה מִשּׁוּם שַׁבָּת אַחַר יוֹם טוֹב.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: אֶלָּא מֵעַתָּה, יוֹם טוֹב בְּעָלְמָא תִּשְׁתְּרֵי! גְּזֵרָה מִשּׁוּם יוֹם טוֹב אַחַר הַשַּׁבָּת. שַׁבָּת דְּעָלְמָא תִּשְׁתְּרֵי! גְּזֵרָה מִשּׁוּם שַׁבָּת אַחַר יוֹם טוֹב.
 > **Translation:** **Abaye said to** Rabba: **However, if** that is **so,** and the concern is only due to preparation, **let** an egg laid on **a regular Festival,** one that does not occur on a Sunday, **be permitted.** Rabba responded: That egg is not prohibited by Torah law, but by rabbinic **decree, due to** the case of **a Festival** that occurs **after Shabbat.** Abaye asked: On **a regular Shabbat,** one that does not occur after a Festival, **let** it **be permitted** to eat an egg that was laid on that day, provided that one does not cook it. Rabba similarly answered: It is **a decree due to a Shabbat** that occurs **after a Festival.**
 
 *Amar lei Abaye* — *Abaye* challenges *Rava*. If the paradigm case is *yom tov* following *Shabbat*, then a regular *yom tov* that does not follow *Shabbat* should be entirely permitted, since the egg was completed the day before on a weekday. Similarly, *Shabbat* on its own — not preceded by *yom tov* — should be permitted as well (setting aside the separate *muktzah* concern about the hen). *Rava* responds: *gezeirah mishum yom tov achar Shabbat* — the *rabbanan* issued a *gezeirah* applying the prohibition to all cases of *yom tov* because of the paradigm scenario of *yom tov* after *Shabbat*. And similarly, *gezeirah mishum Shabbat achar yom tov* — all cases of *Shabbat* are covered because of the scenario in which *Shabbat* follows *yom tov*. The practical result is that the prohibition extends universally: on any *yom tov* and any *Shabbat*, an egg laid on that day may not be eaten, derived by rabbinic *gezeirah* from the specific problematic cases of adjacent sacred days.
 
 ### Internal Eggs
 
-> **Hebrew/Aramaic:** וּמִי גָּזְרִינַן? וְהָא תַּנְיָא: הַשּׁוֹחֵט אֶת הַתַּרְנְגוֹלֶת וּמָצָא בָּהּ בֵּיצִים גְּמוּרוֹת — מוּתָּרוֹת לְאָכְלָן בְּיוֹם טוֹב. וְאִם אִיתָא — לִיגְזַר מִשּׁוּם הָנָךְ דְּמִתְיַלְּדָן בְּיוֹמֵיהֶן!
->
-> **Translation:** Abaye further asked: **And do we issue a decree** of this kind? **But isn't it taught** in a *baraita* (see 6b): In the case of **one who slaughters a chicken** on a Festival **and finds inside it fully developed eggs** with their shells, **it is permitted to eat them on the Festival. And if it is so,** that the aforementioned decree is in effect, **let him issue a decree** and prohibit these eggs found inside the chicken, **due to those that are laid on that day.**
+> **Hebrew/Aramaic:** וּמִי גָּזְרִינַן? וְהָא תַּנְיָא: הַשּׁוֹחֵט אֶת הַתַּרְנְגוֹלֶת וּמָצָא בָּהּ בֵּיצִים גְּמוּרוֹת — מוּתָּרוֹת לְאָכְלָן בְּיוֹם טוֹב. וְאִם אִיתָא — לִיגְזַר מִשּׁוּם הָנָךְ דְּמִתְיַלְּדָן בְּיוֹמֵיהֶן!
+> **Translation:** Abaye further asked: **And do we issue a decree** of this kind? **But isn’t it taught** in a *baraita* (see 6b): In the case of **one who slaughters a chicken** on a Festival **and finds inside it fully developed eggs** with their shells, **it is permitted to eat them on the Festival. And if it is so,** that the aforementioned decree is in effect, **let him issue a decree** and prohibit these eggs found inside the chicken, **due to those that are laid on that day.**
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: בֵּיצִים גְּמוּרוֹת בִּמְעֵי אִמָּן — מִילְּתָא דְלָא שְׁכִיחָא הִיא, וּמִילְּתָא דְלָא שְׁכִיחָא לָא גְּזַרוּ בַּהּ רַבָּנַן.
->
-> **Translation:** Rabba **said to him:** This is not difficult, as the case of **fully developed eggs** found **inside their mother is an uncommon matter, and** in a case of **an uncommon matter the Sages did not issue a decree** as a preventive measure (*Eiruvin* 63b). The Sages issued their decrees only for usual situations, in which people might err, but they did not apply them to rare cases. This concludes the Gemara's discussion of Rabba's explanation.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: בֵּיצִים גְּמוּרוֹת בִּמְעֵי אִמָּן — מִילְּתָא דְלָא שְׁכִיחָא הִיא, וּמִילְּתָא דְלָא שְׁכִיחָא לָא גְּזַרוּ בַּהּ רַבָּנַן.
+> **Translation:** Rabba **said to him:** This is not difficult, as the case of **fully developed eggs** found **inside their mother is an uncommon matter, and** in a case of **an uncommon matter the Sages did not issue a decree** as a preventive measure (*Eiruvin* 63b). The Sages issued their decrees only for usual situations, in which people might err, but they did not apply them to rare cases. This concludes the Gemara’s discussion of Rabba’s explanation.
 
 One further question remains: *ve'hatanya, hashocheit et ha'tarnegolet u'matza bah beitzim gemurot, mutarot le'ochlam b'yom tov* — it was taught that if one *shechted* a hen on *yom tov* and found completed, unlaid eggs inside her, they are permitted to eat on *yom tov*. This appears to conflict with *Rava*'s framework. Even granting that eggs found inside a slaughtered hen are considered part of the hen's food status and not independently *nolad*, if one extends *Rava*'s prohibition through *gezeirah*, should one not also forbid these internal eggs lest they be confused with laid eggs?
 

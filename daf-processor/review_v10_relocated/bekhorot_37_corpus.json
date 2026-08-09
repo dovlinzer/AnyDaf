@@ -1,0 +1,446 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Gidul Transmission",
+    "candidates": [
+      "Trust & Testimony",
+      "Gidul Transmission",
+      "Katan ve-Higdil",
+      "Sura vs Pumbedita",
+      "Avida Legilui",
+      "Initial Setup",
+      "The Deception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Katan ve-Higdil",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with the katan ve-higdil question about why stating a yisrael's credibility is necessary, which is precisely what candidate 2 ('Katan ve-Higdil') discusses.",
+      "second_heading": "Sura vs Pumbedita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 reports the Sura/Pumbedita geographic divergence in transmission and the concluding halakhic ruling, which matches candidate 3 ('Sura vs Pumbedita') exactly.",
+      "current_heading": "Gidul Transmission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "The Deception",
+    "candidates": [
+      "Katan ve-Higdil",
+      "Sura vs Pumbedita",
+      "Avida Legilui",
+      "Initial Setup",
+      "The Deception",
+      "Recognition & Exposure",
+      "Exceptional Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the giving of the unblemished firstborn to the kohen AND the kohen inflicting a blemish AND the recognition scene, meaning it spans what the essay splits into 'Initial Setup,' 'The Deception,' and 'Recognition & Exposure' \u2014 but since it is a single Talmudic excerpt, it best fits under 'Initial Setup' (index 3) which introduces the narrative, as the current placement under 'The Deception' (index 4) only covers part of the passage's content while index 3 sets up the whole story including the giving without a blemish that opens the Aramaic text.",
+      "chosen_heading": "Initial Setup",
+      "current_heading": "The Deception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Exceptional Case",
+    "candidates": [
+      "Recognition & Exposure",
+      "Exceptional Case",
+      "Sarua Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rafram's dismissal of the incident as exceptional because this particular kohen was uniquely impudent, which is precisely what the 'Exceptional Case' section's prose elaborates on.",
+      "chosen_heading": "Exceptional Case",
+      "current_heading": "Exceptional Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Sarua Case",
+    "candidates": [
+      "Sarua Case",
+      "Yisrael Owner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case that came before Rav Ashi involving a sarua animal and his reasoning about kohen vs. yisrael ownership, which is precisely what the 'Sarua Case' prose section describes.",
+      "chosen_heading": "Sarua Case",
+      "current_heading": "Sarua Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Yisrael Owner",
+    "candidates": [
+      "Yisrael Owner",
+      "Public Show & Respect",
+      "Respect = Honesty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Ravina's challenge to Rav Ashi about the possibility of a Yisrael owner and Rav Yehuda's ruling requiring a kohen's presence, which is exactly what heading 0 ('Yisrael Owner') discusses in its prose.",
+      "chosen_heading": "Yisrael Owner",
+      "current_heading": "Yisrael Owner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Respect = Honesty",
+    "candidates": [
+      "Public Show & Respect",
+      "Respect = Honesty",
+      "General Trust",
+      "Blemish Before Ma'aser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Ashi's complete response distinguishing the two cases \u2014 item 1 raises the suspicion about kohen's property and item 2 resolves it via the 'respect for the sage' logic \u2014 which is precisely what heading 0 ('Public Show & Respect') describes in its prose.",
+      "chosen_heading": "Public Show & Respect",
+      "current_heading": "Respect = Honesty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Blemish Before Ma'aser",
+    "candidates": [
+      "General Trust",
+      "Blemish Before Ma'aser",
+      "Mishnah's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Blemish Before Ma'aser' precisely describes all three items: the mishna's rule that everyone is trusted for ma'aser blemishes, the gemara's answer about blemishing before designation, the objection about not knowing which animal will emerge as tenth, the Torah's prohibition on manipulating the order, and the resolution that he could have blemished his entire flock \u2014 matching the current placement exactly.",
+      "chosen_heading": "Blemish Before Ma'aser",
+      "current_heading": "Blemish Before Ma'aser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Mishnah's Position",
+    "candidates": [
+      "Mishnah's Position",
+      "Gemara's Logic",
+      "Chutz La'aretz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself, and the prose under 'Mishnah's Position' directly quotes, translates, and analyzes this exact mishnah about the blinded firstborn and the dispute between the Sages and Rabbi Yosi.",
+      "chosen_heading": "Mishnah's Position",
+      "current_heading": "Mishnah's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Chutz La'aretz",
+    "candidates": [
+      "Gemara's Logic",
+      "Chutz La'aretz",
+      "Rav's Clarification",
+      "Expert Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about the ruling of Rabbi Simlai/Rabbi Yehuda Nesia regarding firstborn animals in chutz la'aretz, Rava's limitation to clear-cut blemishes, and the gemara's defense of that novelty \u2014 which is precisely what the 'Chutz La'aretz' prose describes in detail.",
+      "chosen_heading": "Chutz La'aretz",
+      "current_heading": "Chutz La'aretz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Expert Priority",
+    "candidates": [
+      "Rav's Clarification",
+      "Expert Priority",
+      "Three Can Release"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda's ruling that three may permit a firstborn only where no expert is available, and the Gemara's answer that where a mumcheh exists laymen cannot substitute \u2014 exactly what candidate 1 ('Expert Priority') describes in its prose.",
+      "chosen_heading": "Expert Priority",
+      "current_heading": "Expert Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Three Can Release",
+    "candidates": [
+      "Three Can Release",
+      "Neder Release",
+      "Yehuda's Requirement",
+      "Sage Type Question",
+      "Mid-Level Sage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Can Release",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rav \u1e24iyya bar Amram's dual ruling about three laymen permitting a firstborn and dissolving a vow, plus the explanation of the firstborn ruling as excluding Rabbi Yosei \u2014 exactly matching heading 0's prose about bechor release le-afukei Rabbi Yosi.",
+      "second_heading": "Neder Release",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the neder dissolution ruling as excluding Rabbi Yehuda, citing the baraita about his requirement for a chacham among the three \u2014 exactly matching heading 1's prose about neder release le-afukei Rabbi Yehuda.",
+      "current_heading": "Three Can Release",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Mid-Level Sage",
+    "candidates": [
+      "Neder Release",
+      "Yehuda's Requirement",
+      "Sage Type Question",
+      "Mid-Level Sage",
+      "Final Halakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Mid-Level Sage' prose describes: Rav Nachman's self-identification as the example of a qualifying Sage, Rabbi Yehuda's requirement, and Ravina's clarification about the other members needing to comprehend the halakhot (dimstavra lei ve-savar), all of which are the core content of that section.",
+      "chosen_heading": "Mid-Level Sage",
+      "current_heading": "Mid-Level Sage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Final Halakha",
+    "candidates": [
+      "Final Halakha",
+      "Redundancy Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24ananel's ruling that the halakha does not follow Rabbi Yosei and the gemara's challenge/defense regarding the nimmuko imo principle, which is precisely what the 'Final Halakha' prose describes.",
+      "chosen_heading": "Final Halakha",
+      "current_heading": "Final Halakha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Redundancy Question",
+    "candidates": [
+      "Redundancy Question",
+      "Bechor Sold",
+      "Treifah Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the redundancy question \u2014 why Rav would repeat himself \u2014 and the gemara's resolution that one ruling was inferred from the other, which is precisely what the 'Redundancy Question' prose describes.",
+      "chosen_heading": "Redundancy Question",
+      "current_heading": "Redundancy Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Treifah Sale",
+    "candidates": [
+      "Bechor Sold",
+      "Treifah Sale",
+      "Non-Jew Transfer",
+      "Disgust Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Treifah Sale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna covering the bechor and treifah sale cases, which match the prose of heading 1 ('Treifah Sale') that discusses both the bechor and treifah scenarios and their reimbursement rules.",
+      "second_heading": "Disgust Standard",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara baraita beginning with 'Tanu Rabbanan' listing bechor/tevel/yayin nesech cases, which exactly matches the prose of heading 3 ('Disgust Standard') that opens with this same baraita.",
+      "current_heading": "Treifah Sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Disgust Standard",
+    "candidates": [
+      "Non-Jew Transfer",
+      "Disgust Standard",
+      "Disgust Examples",
+      "Assur Paradox",
+      "Bechor Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon ben Elazar's full statement distinguishing items that cause revulsion from those that don't, which is exactly what the 'Disgust Standard' prose describes \u2014 the principle and its two categories \u2014 making the current placement correct.",
+      "chosen_heading": "Disgust Standard",
+      "current_heading": "Disgust Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Bechor Exception",
+    "candidates": [
+      "Disgust Examples",
+      "Assur Paradox",
+      "Bechor Exception",
+      "Tevel Fix",
+      "Wine Mixing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the gemara's question and answer specifically about the bechor case \u2014 why the buyer can't claim he caused no loss, and the answer about the mum/Rabbi Yehuda \u2014 which is precisely what the 'Bechor Exception' prose describes.",
+      "chosen_heading": "Bechor Exception",
+      "current_heading": "Bechor Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Wine Mixing",
+    "candidates": [
+      "Tevel Fix",
+      "Wine Mixing",
+      "Listed Blemishes",
+      "Ear Blemish",
+      "Cracks & Holes",
+      "Dried Ears",
+      "Lulav Parallel",
+      "Text Specificity",
+      "Gen-Spec-Gen",
+      "Pattern Criteria",
+      "Functionality Test",
+      "Aesthetic Objection",
+      "Ribui Resolution",
+      "Hidden Exclusion",
+      "Final Criteria",
+      "Transitory Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss yayin nesech in a mixture and Rabban Shimon ben Gamliel's ruling about selling the mixture to a gentile, which is precisely what the 'Wine Mixing' section's prose describes.",
+      "chosen_heading": "Wine Mixing",
+      "current_heading": "Wine Mixing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Transitory Exclusion",
+    "candidates": [
+      "Listed Blemishes",
+      "Ear Blemish",
+      "Cracks & Holes",
+      "Dried Ears",
+      "Lulav Parallel",
+      "Text Specificity",
+      "Gen-Spec-Gen",
+      "Pattern Criteria",
+      "Functionality Test",
+      "Aesthetic Objection",
+      "Ribui Resolution",
+      "Hidden Exclusion",
+      "Final Criteria",
+      "Transitory Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Hadran formula concluding the chapter 'Kol Pesulei HaMukdashin,' which the prose under heading 0 explicitly references as the transition point before the next chapter begins.",
+      "chosen_heading": "Listed Blemishes",
+      "current_heading": "Transitory Exclusion",
+      "moved": true
+    }
+  }
+]

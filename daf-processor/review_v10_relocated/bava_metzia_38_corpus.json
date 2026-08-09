@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Bari vs. Shema",
+      "House Collapse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct challenge to Rava about Rabbi Akiva's position \u2014 exactly what the 'Abaye's Challenge' prose describes, including the alma misfeika mafkinan mamona point.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "House Collapse",
+    "candidates": [
+      "Bari vs. Shema",
+      "House Collapse",
+      "Bari Wins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "House Collapse",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the house-collapse contradiction and the bari/shema distinction that resolves it, matching the 'House Collapse' prose which covers exactly nafal habayit, Rabbi Akiva's chazaka ruling, and the initial bari ve-shema framing.",
+      "second_heading": "Bari Wins",
+      "second_confidence": "high",
+      "second_reason": "Item 3 establishes that the mishna follows Rabbi Akiva via Rabbi Tarfon's concession, which is the concluding move of the bari-wins resolution described in the 'Bari Wins' prose.",
+      "current_heading": "House Collapse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Bari Wins",
+    "candidates": [
+      "Bari Wins",
+      "Mishna Attribution",
+      "Tarfon Agrees",
+      "Moral Obligation",
+      "Rava's Rule",
+      "Shepherd Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Attribution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 establishes that the mishna is a shema-ve-shema case (both parties say 'I do not know'), which directly addresses the 'Mishna Attribution' section's question about why Rabbi Akiva's rule applies when nobody is making a bari claim.",
+      "second_heading": "Moral Obligation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('we established it as ba latzet yedei shamayim') is precisely the Gemara's resolution described in the 'Moral Obligation' prose \u2014 that the mishna speaks of voluntary moral duty rather than strict legal obligation governed by bari ve-shema calculus.",
+      "current_heading": "Bari Wins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Shepherd Case",
+    "candidates": [
+      "Mishna Attribution",
+      "Tarfon Agrees",
+      "Moral Obligation",
+      "Rava's Rule",
+      "Shepherd Case",
+      "She'lo Mida'ato",
+      "Two Vessels",
+      "Why Both Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's challenge to Rava's rule using the shepherd case (hakol modim bi-shnayim she-hikpidu etzel ro'eh) and Rav Ashi's resolution (she-lo mida'ato), which is precisely what the 'Shepherd Case' section's prose describes as its content.",
+      "chosen_heading": "Shepherd Case",
+      "current_heading": "Shepherd Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Why Both Cases",
+    "candidates": [
+      "She'lo Mida'ato",
+      "Two Vessels",
+      "Why Both Cases",
+      "Yosi's Logic",
+      "Vessels Chiddush",
+      "Don't Touch",
+      "Gamliel's Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Why Both Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 explain why both the money case and vessel case are necessary (u-tzricha), matching the 'Why Both Cases' prose exactly.",
+      "second_heading": "Yosi's Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the challenge that Rabbi Yosi's logic is about hefsed ha-ramai (not vessel loss), and concludes the novelty is for the Rabbis \u2014 matching the 'Yosi's Logic' prose exactly.",
+      "current_heading": "Why Both Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Gamliel's Exception",
+    "candidates": [
+      "Yosi's Logic",
+      "Vessels Chiddush",
+      "Don't Touch",
+      "Gamliel's Exception",
+      "Rav Kahana",
+      "Teruma Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishna text presents the rule that one may not touch deposited produce even if it is deteriorating, which is precisely what the 'Don't Touch' section's prose describes and introduces.",
+      "chosen_heading": "Don't Touch",
+      "current_heading": "Gamliel's Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Teruma Concern",
+    "candidates": [
+      "Rav Kahana",
+      "Teruma Concern",
+      "Chesronam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's debate between Rav Kahana and Rav Nachman bar Yitzchak, including the baraita challenge and its resolution \u2014 precisely the content described in the 'Teruma Concern' prose, which covers both opinions, the baraita citation, and the le-fichach resolution.",
+      "chosen_heading": "Teruma Concern",
+      "current_heading": "Teruma Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Chesronam",
+    "candidates": [
+      "Chesronam",
+      "Exceeds Normal",
+      "Nachman's Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces both the 'kedei chesronan' (normal rate) and 'yoter mi-kedei chesronan' (exceeding normal rate) distinction in one statement, but since the prose under heading 0 explicitly quotes and explains 'machlokes be-kedei chesronan' as the context for the dispute, and the passage as a whole introduces both halves together, the current placement under 'Chesronam' is reasonable \u2014 though heading 1 covers the second half, the passage belongs under one heading and heading 0 is where the statement begins its discussion.",
+      "chosen_heading": "Chesronam",
+      "current_heading": "Chesronam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Nachman's Issue",
+    "candidates": [
+      "Exceeds Normal",
+      "Nachman's Issue",
+      "Teruma Risk",
+      "Kohanim Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss whether Rabbi Yo\u1e25anan's ruling conflicts with Rav Na\u1e25man bar Yitz\u1e25ak and Rav Kahana, and the resolution that Rav Kahana's preference-for-one's-own-produce applies only at normal rates of deterioration \u2014 exactly what the 'Nachman's Issue' prose describes, including the guzma/exaggeration point.",
+      "chosen_heading": "Nachman's Issue",
+      "current_heading": "Nachman's Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Kohanim Solution",
+    "candidates": [
+      "Teruma Risk",
+      "Kohanim Solution",
+      "Takes Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the objection about owners eating untithed produce and answers that accelerated deterioration is uncommon \u2014 exactly the content described in the 'Teruma Risk' prose, which explicitly quotes these same Aramaic phrases and discusses this specific question-and-answer exchange.",
+      "chosen_heading": "Teruma Risk",
+      "current_heading": "Kohanim Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Takes Time",
+    "candidates": [
+      "Kohanim Solution",
+      "Takes Time",
+      "Happens Quickly",
+      "Early Sell Risk"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohanim Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the question about selling excess-deteriorated produce and the answer that it must be sold to kohanim at teruma prices \u2014 exactly the 'Kohanim Solution' that heading 0's prose describes in detail.",
+      "second_heading": "Takes Time",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains Rabba bar bar Chana's position that accelerated loss takes time to develop and therefore the owner would have already separated teruma before the selling window \u2014 precisely what heading 1 ('Takes Time') describes.",
+      "current_heading": "Takes Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Early Sell Risk",
+    "candidates": [
+      "Happens Quickly",
+      "Early Sell Risk",
+      "Spoilage Types",
+      "Meir: Don't Touch",
+      "Sages: Sell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the 'early sell risk' scenario \u2014 the watchman selling early, the owner unknowingly designating sold produce as teruma elsewhere, and the resulting eating of tevel \u2014 which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Early Sell Risk",
+      "current_heading": "Early Sell Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Sages: Sell",
+    "candidates": [
+      "Spoilage Types",
+      "Meir: Don't Touch",
+      "Sages: Sell",
+      "Spoiled Markets",
+      "Vessel Protection"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Vessel Protection",
+    "candidates": [
+      "Spoiled Markets",
+      "Vessel Protection",
+      "Inference Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the amora'im dispute about the final ruling, the question about Rabbi Yochanan's general principle, and the resolution that they are amora'im disagreeing about Rabbi Yochanan's position \u2014 are explicitly described and discussed in the 'Vessel Protection' section's prose, making that the clear and correct home for this passage.",
+      "chosen_heading": "Vessel Protection",
+      "current_heading": "Vessel Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Inference Test",
+    "candidates": [
+      "Inference Test",
+      "Different Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the inference drawn from Rabban Shimon ben Gamliel and the Rabbis regarding descending to manage a captive's property, which is precisely what the 'Inference Test' prose describes.",
+      "chosen_heading": "Inference Test",
+      "current_heading": "Inference Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Different Reasons",
+    "candidates": [
+      "Different Reasons",
+      "Rav & Shmuel",
+      "Death Reported"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the question of whether the two halakhot (produce/captive's property) share one reason or two independent reasons, which is precisely what the 'Different Reasons' prose discusses.",
+      "chosen_heading": "Different Reasons",
+      "current_heading": "Different Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Death Reported",
+    "candidates": [
+      "Rav & Shmuel",
+      "Death Reported",
+      "Uncertain Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage concludes the discussion of the dispute about an uncertain captive (no reports of death) by confirming via Rav Na\u1e25man's rulings that the two halakhot are independent, which is the subject of the 'Uncertain Death' section's prose about the Rav/Shmuel dispute in that case.",
+      "chosen_heading": "Uncertain Death",
+      "current_heading": "Death Reported",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Death Cases",
+    "candidates": [
+      "Definitions",
+      "Death Cases",
+      "Life-Dependent Limbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah about erech vs. damim obligations upon death, which is precisely what the 'Death Cases' section prose discusses in detail.",
+      "chosen_heading": "Death Cases",
+      "current_heading": "Death Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Life-Dependent Limbs",
+    "candidates": [
+      "Life-Dependent Limbs",
+      "Half-Value Pledges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the rule about life-dependent limbs (head/liver vs. hand/foot) and states the klal 'davar she'haneshama teluya bo noten erach kulo,' which matches perfectly with the prose in candidate 0.",
+      "chosen_heading": "Life-Dependent Limbs",
+      "current_heading": "Life-Dependent Limbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Half-Value Pledges",
+    "candidates": [
+      "Half-Value Pledges",
+      "Another's Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses half-value pledges for both erchin and damim, and the principle of davar she'haneshama teluya bo, which is precisely what the prose under 'Half-Value Pledges' describes.",
+      "chosen_heading": "Half-Value Pledges",
+      "current_heading": "Half-Value Pledges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Another's Value",
+    "candidates": [
+      "Another's Value",
+      "Nedarim Strictures",
+      "Oral Loan Collection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Another's Value",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah about pledging another's erach/damim, which candidate 0 ('Another's Value') explicitly discusses in its prose.",
+      "second_heading": "Nedarim Strictures",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Baraita comparing nedarim and arachin stringencies, which candidate 1 ('Nedarim Strictures') explicitly discusses in detail including the heseg yad rule and the closing rule about erchi alai va-met.",
+      "current_heading": "Another's Value",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Oral Loan Collection",
+    "candidates": [
+      "Nedarim Strictures",
+      "Oral Loan Collection",
+      "Torah-Written Status",
+      "Baraisa Challenge",
+      "Court Lien"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Baraisa ruling about heirs paying the erach and then raises the inference about oral loan collection from heirs, which is exactly what the 'Oral Loan Collection' section's prose describes \u2014 the Gemara's question of whether one can derive that milveh al peh goveh min ha-yorshin.",
+      "chosen_heading": "Oral Loan Collection",
+      "current_heading": "Oral Loan Collection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Court Lien",
+    "candidates": [
+      "Torah-Written Status",
+      "Baraisa Challenge",
+      "Court Lien",
+      "Two Evaluations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's inference about 'milveh hakatuv baTorah' and the rejection via 'ke-she'amad be-din,' which is precisely what the 'Court Lien' prose describes as the okimta resolving the difficulty.",
+      "chosen_heading": "Court Lien",
+      "current_heading": "Court Lien",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Two Evaluations",
+    "candidates": [
+      "Two Evaluations",
+      "Hand/Foot Cases",
+      "Rav Gidel Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between 'dami alai mechusar umdana' and 'erchi alai lo mechusar ve-lo klum,' which is precisely what the 'Two Evaluations' prose section describes.",
+      "chosen_heading": "Two Evaluations",
+      "current_heading": "Two Evaluations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Rav Gidel Ruling",
+    "candidates": [
+      "Hand/Foot Cases",
+      "Rav Gidel Ruling",
+      "Vessel Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara discussion described in the 'Rav Gidel Ruling' prose: Rav Gidel's ruling (item 1), the resolution via Rabbi Meir vs. Rabbanan (item 2), and the question about the prior vessel ruling (item 3) \u2014 exactly matching that section's description.",
+      "chosen_heading": "Rav Gidel Ruling",
+      "current_heading": "Rav Gidel Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Vessel Distinctions",
+    "candidates": [
+      "Vessel Distinctions",
+      "Nefashot Source",
+      "General Principle",
+      "Leg Application",
+      "Half Distinction Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between the vessel case and the limb case \u2014 explaining why Rav Giddel needed to teach the limb ruling separately, which is precisely what the 'Vessel Distinctions' prose section describes.",
+      "chosen_heading": "Vessel Distinctions",
+      "current_heading": "Vessel Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Half Distinction Rule",
+    "candidates": [
+      "Nefashot Source",
+      "General Principle",
+      "Leg Application",
+      "Half Distinction Rule",
+      "Vessel Half-Value",
+      "Rava Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All seven items cover exactly the content described in candidate 3's prose: the half-erach vs. erach-of-half distinction, Rabbi Yossi beRabbi Yehuda's ruling, Rav Pappa's gezeirah explanation, the parallel neder case with the hekesh from 'neder be-erkecha nefashot,' and the klal serving to include the leg above the knee \u2014 all of which are explicitly laid out in candidate 3's prose.",
+      "chosen_heading": "Half Distinction Rule",
+      "current_heading": "Half Distinction Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Rava Discussion",
+    "candidates": [
+      "Vessel Half-Value",
+      "Rava Discussion",
+      "Combined Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the continuous Gemara discussion of the Rava/Abaye sickbed conversation analyzing the Rabbanan's position in the baraita about half-vessel valuation, which is precisely what candidate 1 ('Rava Discussion') describes in its prose.",
+      "chosen_heading": "Rava Discussion",
+      "current_heading": "Rava Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Combined Positions",
+    "candidates": [
+      "Combined Positions",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically quotes Rava and Abaye's combined resolution citing Rabbi Meir's principle 'ein adam motzi devarav le-vatalah', which matches exactly the 'Combined Positions' prose description of their joint answer.",
+      "chosen_heading": "Combined Positions",
+      "current_heading": "Combined Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Object Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Talmudic text about Rabbi Shimon's principle regarding donating in the normal manner of donors, which matches exactly what the prose of candidate 0 discusses.",
+      "chosen_heading": "Rabbi Shimon View",
+      "current_heading": "Rabbi Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Object Obligation",
+    "candidates": [
+      "Object Obligation",
+      "Mishnah Reread"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishnah Reread",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 continue the Gemara's discussion of the earlier Mishnah about erech/damin obligations passing to heirs, analyzing when property is liened, which matches the 'Object Obligation' section's prose about personal chiyuv vs. object-based obligation in the context of arachin.",
+      "second_heading": "Object Obligation",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is a new Mishnah (marked 'MISHNA:') introducing the shor zeh olah / bayit zeh korban cases \u2014 the classic neder vs. nedavah distinction \u2014 which is precisely what the 'Object Obligation' prose describes.",
+      "current_heading": "Object Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Mishnah Reread",
+    "candidates": [
+      "Mishnah Reread",
+      "Zeh vs Alai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi \u1e24iyya bar Rav's interpretation distinguishing 'dmei shor zeh alai olah' from 'shor zeh alai olah' and the concept of 'alai lehavio,' which is precisely what the 'Mishnah Reread' prose describes.",
+      "chosen_heading": "Mishnah Reread",
+      "current_heading": "Mishnah Reread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Zeh vs Alai",
+    "candidates": [
+      "Zeh vs Alai",
+      "Tosefta Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the first two cases of the Tosefta (zeh olah vs. zeh alai olah) that heading 0's prose describes, which is the initial challenge/distinction before the Gemara's further elaboration discussed in heading 1.",
+      "chosen_heading": "Zeh vs Alai",
+      "current_heading": "Zeh vs Alai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Tosefta Challenge",
+    "candidates": [
+      "Tosefta Challenge",
+      "House Plague"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's sustained back-and-forth about applying the *okimta* (reading 'dmei') to the Tosefta, resolving the reisha/seifa distinction, and ending with Rav Yehuda/Rav's attribution to Rabbi Meir \u2014 exactly the content described in the 'Tosefta Challenge' prose.",
+      "chosen_heading": "Tosefta Challenge",
+      "current_heading": "Tosefta Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "House Plague",
+    "candidates": [
+      "House Plague",
+      "Rent Hekdesh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rent Hekdesh",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses whether a baraita follows Rabbi Meir's opinion that one can consecrate something not yet in the world, which belongs under 'Rent Hekdesh' as it continues the hekdesh/consecration discussion.",
+      "second_heading": "House Plague",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening of a new baraita about a house rental that contracts leprosy/nega'im, which is precisely the subject described in the 'House Plague' prose.",
+      "current_heading": "House Plague",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Rent Hekdesh",
+    "candidates": [
+      "Rent Hekdesh",
+      "Future Value Problem",
+      "Rabbi Meir Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the case of the landlord consecrating the rented house and the tenant paying rent to hekdesh, including the me'ilah problem \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Rent Hekdesh",
+      "current_heading": "Rent Hekdesh",
+      "moved": false
+    }
+  }
+]

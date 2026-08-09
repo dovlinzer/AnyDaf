@@ -1,0 +1,439 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Majority Threshold",
+    "candidates": [
+      "Minyan Review",
+      "Tisha Achlu Dagan",
+      "Majority Threshold",
+      "Vegetable & Wine Ruling",
+      "Three-Person Zimmun",
+      "Modern Practice",
+      "Yannai's Purge",
+      "Shimon Brought In",
+      "Shimon's Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Majority Threshold' prose: Rav Zeira's questions about eight and seven, Rav Yehuda's response that there is no difference, Rav Yirmiya's explanation based on ruba, and Rav Zeira's requirement for ruba de-minchar \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Majority Threshold",
+      "current_heading": "Majority Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Shimon's Reply",
+    "candidates": [
+      "Vegetable & Wine Ruling",
+      "Three-Person Zimmun",
+      "Modern Practice",
+      "Yannai's Purge",
+      "Shimon Brought In",
+      "Shimon's Reply",
+      "Not Eaten Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage depicts Shimon ben Shetach's reply to Yannai about honor coming from Torah rather than the king, which is precisely what candidate 5 ('Shimon's Reply') describes in its prose.",
+      "chosen_heading": "Shimon's Reply",
+      "current_heading": "Shimon's Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Not Eaten Issue",
+    "candidates": [
+      "Not Eaten Issue",
+      "Kezayit Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in the 'Not Eaten Issue' prose \u2014 Shimon ben Shetach being given a cup, questioning how he can lead the blessing since he hasn't eaten, drinking the cup to join the meal, and then leading the Grace after Meals.",
+      "chosen_heading": "Not Eaten Issue",
+      "current_heading": "Not Eaten Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Kezayit Rule",
+    "candidates": [
+      "Kezayit Rule",
+      "Rashi/Tosafot Q",
+      "Tosafot Solution",
+      "Behag View",
+      "Modern Leniency",
+      "Dipping & Fig"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's rule that one cannot discharge others' obligation until eating a kezayit of grain, and explains that Shimon ben Shetach's action was personal and not binding precedent \u2014 exactly what the 'Kezayit Rule' section's prose discusses.",
+      "chosen_heading": "Kezayit Rule",
+      "current_heading": "Kezayit Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Dipping & Fig",
+    "candidates": [
+      "Rashi/Tosafot Q",
+      "Tosafot Solution",
+      "Behag View",
+      "Modern Leniency",
+      "Dipping & Fig",
+      "Mitztareif Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's citation of Rabban Shimon ben Gamliel's baraita about dipping in brine and eating a single fig joining the group, which is precisely what the 'Dipping & Fig' section's prose introduces and discusses.",
+      "chosen_heading": "Dipping & Fig",
+      "current_heading": "Dipping & Fig",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Mitztareif Clarified",
+    "candidates": [
+      "Mitztareif Clarified",
+      "Leaf & Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the mitztareif distinction \u2014 joining vs. leading \u2014 which is exactly what heading 0's prose describes, whereas heading 1 discusses a separate ruling about leaf/wine from Rav Chana bar Yehuda.",
+      "chosen_heading": "Mitztareif Clarified",
+      "current_heading": "Mitztareif Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Leaf & Wine",
+    "candidates": [
+      "Leaf & Wine",
+      "Moshe & Manna",
+      "Yehoshua & Land",
+      "David/Shlomo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the ruling of Rav \u1e24ana bar Yehuda in the name of Rava about joining a zimmun with minimal food (brine/fig, vegetable leaf/wine) versus the requirement of a kezayit of grain to discharge others \u2014 exactly what the 'Leaf & Wine' section prose describes.",
+      "chosen_heading": "Leaf & Wine",
+      "current_heading": "Leaf & Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "David/Shlomo",
+    "candidates": [
+      "Moshe & Manna",
+      "Yehoshua & Land",
+      "David/Shlomo",
+      "Boneh De'oraita",
+      "Yavne & Tov",
+      "Exile Context",
+      "Four Blessings",
+      "Shabbat Insertion",
+      "Tosafot Variant",
+      "R. Eliezer Flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four blessings of Birkat Hamazon and their historical origins (Moshe/manna, Yehoshua/land, David-Shlomo/Jerusalem, Yavne/Beitar) in a single continuous Talmudic statement, and heading 0 ('Moshe & Manna') is where the essay begins discussing the institution of Birkat Hamazon's blessings, making it the natural home for this foundational passage before the essay breaks it down section by section.",
+      "chosen_heading": "Moshe & Manna",
+      "current_heading": "David/Shlomo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "R. Eliezer Flexibility",
+    "candidates": [
+      "Boneh De'oraita",
+      "Yavne & Tov",
+      "Exile Context",
+      "Four Blessings",
+      "Shabbat Insertion",
+      "Tosafot Variant",
+      "R. Eliezer Flexibility",
+      "Ha-Zan Source",
+      "Ha-Aretz Source",
+      "Boneh Source",
+      "Tov Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita listing the formal order of the four blessings of Birkat Hamazon, which is precisely what the 'Four Blessings' section prose describes, before the Shabbat and Rabbi Eliezer material is taken up in subsequent sections.",
+      "chosen_heading": "Four Blessings",
+      "current_heading": "R. Eliezer Flexibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Tov Source",
+    "candidates": [
+      "Ha-Zan Source",
+      "Ha-Aretz Source",
+      "Boneh Source",
+      "Tov Source",
+      "Rabbi View",
+      "Before Eating",
+      "R. Yitzchak Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tov Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the dispute between the Rabbis and the first tanna regarding Shabbat mention placement, which belongs under 'Tov Source' as a wrap-up of a prior topic, while Items 2-3 are a new baraita (tanu rabbanan) deriving the four blessings of Birkat Hamazon from Scripture \u2014 a self-contained new unit that belongs under 'Ha-Zan Source'.",
+      "second_heading": "Ha-Zan Source",
+      "second_confidence": "medium",
+      "second_reason": "Items 2 and 3 constitute the baraita and Rabbi's dispute about deriving all blessings of Birkat Hamazon from Deuteronomy 8:10, which is precisely what the 'Ha-Zan Source' prose introduces and discusses.",
+      "current_heading": "Tov Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "R. Yitzchak Source",
+    "candidates": [
+      "Rabbi View",
+      "Before Eating",
+      "R. Yitzchak Source",
+      "R. Nasan Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yitzchak's derivation from the verse 'u-veirach et lachmecha' with the al tikrei reading and the definition of lechem before eating, which is precisely what the 'R. Yitzchak Source' prose describes.",
+      "chosen_heading": "R. Yitzchak Source",
+      "current_heading": "R. Yitzchak Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "R. Nasan Source",
+    "candidates": [
+      "R. Nasan Source",
+      "Reasons Debated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Natan's derivation of the blessing before eating from I Samuel 9:13, which matches exactly the prose of candidate 0 describing Rabbi Nasan's derivation from the narrative of Shmuel.",
+      "chosen_heading": "R. Nasan Source",
+      "current_heading": "R. Nasan Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Reasons Debated",
+    "candidates": [
+      "Reasons Debated",
+      "R. Yochanan View",
+      "Source Question",
+      "Rav Shmuel KVC",
+      "R. Chiya Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents all three opinions (women are chatterers, Shmuel's reason about Saul's beauty, Rabbi Yochanan's reason about overlapping reigns) together as a unit, and the current heading 'Reasons Debated' with its prose explicitly covers all three reasons together, making it the best fit despite candidate 1 focusing solely on Rabbi Yochanan's view.",
+      "chosen_heading": "Reasons Debated",
+      "current_heading": "Reasons Debated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "R. Chiya Analogy",
+    "candidates": [
+      "R. Yochanan View",
+      "Source Question",
+      "Rav Shmuel KVC",
+      "R. Chiya Analogy",
+      "R. Meir Source",
+      "Bad Blessing",
+      "Giving Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yishmael's kal va-chomer argument and Rabbi Chiyya bar Nachmani's textual derivation for Birkat ha-Torah together as a unit, and the 'Source Question' heading (index 1) explicitly introduces this entire discussion about deriving the obligation of Birkat ha-Torah, making it the natural home for the full baraita passage rather than splitting it under 'R. Chiya Analogy' which covers only the second opinion.",
+      "chosen_heading": "Source Question",
+      "current_heading": "R. Chiya Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Giving Source",
+    "candidates": [
+      "R. Meir Source",
+      "Bad Blessing",
+      "Giving Source",
+      "Din & Rachamim",
+      "R. Eliezer Reqs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Meir's teaching that one blesses over the bad just as over the good, which directly matches the 'Bad Blessing' section's prose about this exact principle and its scriptural basis, not the 'Giving Source' section which discusses the expansive reading of 'asher natan lach' after the principle is established.",
+      "chosen_heading": "Bad Blessing",
+      "current_heading": "Giving Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "R. Eliezer Reqs",
+    "candidates": [
+      "Din & Rachamim",
+      "R. Eliezer Reqs",
+      "Brit Required",
+      "Torah Required",
+      "Brit Milah Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Rabbi Yehuda ben Beteira's statement derives 'tova' as Torah and 'hatova' as Jerusalem from the verse, directly supporting the requirement to mention Torah in birkat ha-aretz, which is precisely what the 'Torah Required' section discusses.",
+      "chosen_heading": "Torah Required",
+      "current_heading": "R. Eliezer Reqs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Brit Milah Theme",
+    "candidates": [
+      "Brit Required",
+      "Torah Required",
+      "Brit Milah Theme",
+      "Hodaya Frame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full baraita covering Rabbi Eliezer, Na\u1e25um the Elder, Rabbi Yosei, and Pelimu \u2014 the entire passage should sit under the earliest heading that introduces this baraita, which is 'Brit Required' (candidate 0), where the essay prose begins discussing the required mentions in birkat ha-aretz starting with the covenant.",
+      "chosen_heading": "Brit Required",
+      "current_heading": "Brit Milah Theme",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Hodaya Frame",
+    "candidates": [
+      "Brit Milah Theme",
+      "Hodaya Frame",
+      "Min Praise",
+      "Wrong Closing",
+      "Exile Variants",
+      "R. Elazar Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Abba's requirement for thanksgiving (hodaya) at the beginning and end of birkat ha-aretz, and the minimum of one expression, which matches exactly the 'Hodaya Frame' section's prose describing these same requirements.",
+      "chosen_heading": "Hodaya Frame",
+      "current_heading": "Hodaya Frame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159
+    ],
+    "current_heading": "R. Elazar Standard",
+    "candidates": [
+      "Min Praise",
+      "Wrong Closing",
+      "Exile Variants",
+      "R. Elazar Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the requirement to mention brit, Torah, and malchut Beit David in their respective blessings and the consequence of omission, which is precisely what the 'R. Elazar Standard' prose describes \u2014 the baraita citing Rabbi Ya'akov bar Acha in the name of Rabbeinu and the lo yatza ruling.",
+      "chosen_heading": "R. Elazar Standard",
+      "current_heading": "R. Elazar Standard",
+      "moved": false
+    }
+  }
+]

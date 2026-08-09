@@ -24,7 +24,7 @@
           "timestamp": "00:48"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -53,7 +53,7 @@
           "timestamp": "04:35"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -403,5 +403,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "18:28",
+  "amud_b_micro_title": "Lost YK Animals",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "b"
 }

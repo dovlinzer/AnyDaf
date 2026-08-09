@@ -1,0 +1,442 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Escaped Convict",
+    "candidates": [
+      "Escaped Convict",
+      "Sanhedrin Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about an escaped convict whose verdict was already delivered, matching exactly the 'Escaped Convict' section's prose description of mi shenigmar dino uvarach and the testimony procedure for executing such a person.",
+      "chosen_heading": "Escaped Convict",
+      "current_heading": "Escaped Convict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Sanhedrin Authority",
+    "candidates": [
+      "Sanhedrin Authority",
+      "Same vs. Different Court"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the mishna text about sanhedrin authority, chavlanit, and the debate between Rabbi Tarfon/Akiva and Rabban Shimon ben Gamliel, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Sanhedrin Authority",
+      "current_heading": "Sanhedrin Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Same vs. Different Court",
+    "candidates": [
+      "Same vs. Different Court",
+      "Escape Across Borders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the inference about same vs. different court and Abaye's resolution via Eretz Yisrael/chutz la'aretz \u2014 are precisely what the 'Same vs. Different Court' prose describes, making the current placement correct.",
+      "chosen_heading": "Same vs. Different Court",
+      "current_heading": "Same vs. Different Court",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Escape Across Borders",
+    "candidates": [
+      "Escape Across Borders",
+      "Merit of Eretz Yisrael",
+      "Biblical Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a baraita about fleeing between Eretz Yisrael and outside it and whether the verdict is overturned, which is exactly what the 'Escape Across Borders' section's prose describes.",
+      "chosen_heading": "Escape Across Borders",
+      "current_heading": "Escape Across Borders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Merit of Eretz Yisrael",
+      "Biblical Source",
+      "Court Jurisdiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives from the verse 'v'hayu eleh lachem l'chukat mishpat l'doroteichem' that a Sanhedrin operates both in Eretz Yisrael and outside it, which is precisely what the 'Biblical Source' section's prose describes.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Biblical Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Court Jurisdiction",
+    "candidates": [
+      "Court Jurisdiction",
+      "One Per Seven Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the geographic distinction between court establishment in Eretz Yisrael versus outside it, which is precisely what the 'Court Jurisdiction' prose section discusses.",
+      "chosen_heading": "Court Jurisdiction",
+      "current_heading": "Court Jurisdiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "One Per Seven Years",
+    "candidates": [
+      "One Per Seven Years",
+      "Seventy-Year Standard",
+      "Unresolved Dispute",
+      "Tarfon & Akiva View",
+      "Witness Interrogation",
+      "Tereifah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the unresolved dilemma about Rabbi Elazar ben Azarya's statement regarding seventy years \u2014 whether it defines 'chavlanit' or 'orach ar'a' \u2014 and concludes with 'teku', which precisely matches the 'Unresolved Dispute' section's prose.",
+      "chosen_heading": "Unresolved Dispute",
+      "current_heading": "One Per Seven Years",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Tereifah Status",
+    "candidates": [
+      "Seventy-Year Standard",
+      "Unresolved Dispute",
+      "Tarfon & Akiva View",
+      "Witness Interrogation",
+      "Tereifah Status",
+      "Shimon ben Gamliel",
+      "Shechita Comparison",
+      "Witnesses \"We Don't Know",
+      "Sexual Relations Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the direct Talmudic text answering 'heichi havu avdei' \u2014 Rabbi Yochanan/Elazar's tereifah question and Rav Ashi's elaboration \u2014 which is precisely what heading 3 ('Witness Interrogation') describes, while heading 4 ('Tereifah Status') is the essay's own prose summary of that same content rather than the heading under which the source text should sit.",
+      "chosen_heading": "Witness Interrogation",
+      "current_heading": "Tereifah Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Sexual Relations Evidence",
+    "candidates": [
+      "Shimon ben Gamliel",
+      "Shechita Comparison",
+      "Witnesses \"We Don't Know",
+      "Sexual Relations Evidence",
+      "Sufficient Appearance",
+      "Exile Category",
+      "Downward Motion Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Sexual Relations Evidence' prose describes: the question of how Rabbi Tarfon and Rabbi Akiva would handle boel et ha-erva cases, and Abaye and Rava's requirement that witnesses testify to penetration like a brush in a tube.",
+      "chosen_heading": "Sexual Relations Evidence",
+      "current_heading": "Sexual Relations Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Downward Motion Cases",
+    "candidates": [
+      "Sufficient Appearance",
+      "Exile Category",
+      "Downward Motion Cases",
+      "Upward Motion Cases",
+      "General Rule",
+      "Negligence vs. Exile",
+      "Biblical Source (II)"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Exile Category",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Hadaran closing formula for the previous chapter, belonging under 'Exile Category' which marks the transition to chapter two beginning with 'elu hen ha-golin'.",
+      "second_heading": "Downward Motion Cases",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the mishna's downward and upward motion cases together, which the current placement under 'Downward Motion Cases' discusses, but since item 2 covers both the downward cases and the beginning of the upward cases while item 3 completes the upward cases and states the general rule, the best single heading for items 2-3 is 'Downward Motion Cases' (index 2) where the mishna begins.",
+      "current_heading": "Downward Motion Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Biblical Source (II)",
+    "candidates": [
+      "Upward Motion Cases",
+      "General Rule",
+      "Negligence vs. Exile",
+      "Biblical Source (II)",
+      "Intentional Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage derives the downward-motion principle from Shmuel's verse, which is exactly what the 'Biblical Source (II)' prose describes.",
+      "chosen_heading": "Biblical Source (II)",
+      "current_heading": "Biblical Source (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Intentional Exclusion",
+    "candidates": [
+      "Intentional Exclusion",
+      "Omer Mutar Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita text directly presents the derivations from 'bishgaga' and 'bivli da'at' excluding the mezid and the mitkaven, which is precisely what the 'Intentional Exclusion' section's prose describes as its content.",
+      "chosen_heading": "Intentional Exclusion",
+      "current_heading": "Intentional Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Omer Mutar Dispute",
+    "candidates": [
+      "Omer Mutar Dispute",
+      "Corner Exception",
+      "Enmity Exclusion",
+      "Intent Mismatch",
+      "Wrong Target/Distance",
+      "Mutual Access"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Omer Mutar Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the omer mutar and bivli da'at discussions (mezid/mitkaven exclusions) that the 'Omer Mutar Dispute' prose explicitly covers.",
+      "second_heading": "Corner Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita on befeta/be-lo eivah/hadafo/be-lo tzediyah, which begins an entirely new structural unit (a fresh baraita on Numbers 35:22) whose first clause about keren zavit matches the 'Corner Exception' prose.",
+      "current_heading": "Omer Mutar Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Mutual Access",
+    "candidates": [
+      "Corner Exception",
+      "Enmity Exclusion",
+      "Intent Mismatch",
+      "Wrong Target/Distance",
+      "Mutual Access",
+      "Rung Falling Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'intent to throw two but threw four' exclusion and the forest/mutual access principle, and candidate 3 ('Wrong Target/Distance') explicitly discusses both the two-amot/four-amot case and the mutual access requirement as part of the same braita analysis, making it the better match than candidate 4 which only covers the forest principle in isolation.",
+      "chosen_heading": "Wrong Target/Distance",
+      "current_heading": "Mutual Access",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rung Falling Question",
+    "candidates": [
+      "Mutual Access",
+      "Rung Falling Question",
+      "Downward for Upward",
+      "Mishna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abbahu's question about the ladder rung scenario, which is precisely what the 'Rung Falling Question' section's prose describes in detail.",
+      "chosen_heading": "Rung Falling Question",
+      "current_heading": "Rung Falling Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Mishna Challenge",
+    "candidates": [
+      "Downward for Upward",
+      "Mishna Challenge",
+      "Butcher Example",
+      "Four Butcher Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Abbahu's challenge from the mishna's general rule and Rabbi Yochanan's symmetrical counter-challenge, which is precisely what the 'Mishna Challenge' section's prose describes.",
+      "chosen_heading": "Mishna Challenge",
+      "current_heading": "Mishna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Four Butcher Cases",
+    "candidates": [
+      "Butcher Example",
+      "Four Butcher Cases",
+      "Motion Direction",
+      "Tannaitic Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the four contradictory baraitot about the butcher and their resolution via direction of arm motion (yeridah/aliyah, lefanav/le-achorav), which is precisely what the 'Four Butcher Cases' prose describes.",
+      "chosen_heading": "Four Butcher Cases",
+      "current_heading": "Four Butcher Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Tannaitic Dispute",
+    "candidates": [
+      "Motion Direction",
+      "Tannaitic Dispute",
+      "Two Liability Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's suggestion that the tannaitic dispute in the two conflicting braitot (one ruling chayav, one patur) reflects disagreement over whether the motion is yeridah or aliyah, which matches exactly the 'Tannaitic Dispute' prose describing leima katanai hi and the two conflicting braitot.",
+      "chosen_heading": "Tannaitic Dispute",
+      "current_heading": "Tannaitic Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Two Liability Types",
+    "candidates": [
+      "Two Liability Types",
+      "Rung Sagging",
+      "Poor Fastening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's rejection and the distinction between nizkin and galut, which is precisely what the prose in 'Two Liability Types' describes.",
+      "chosen_heading": "Two Liability Types",
+      "current_heading": "Two Liability Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Poor Fastening",
+    "candidates": [
+      "Rung Sagging",
+      "Poor Fastening"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rung Sagging",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the worm-infested vs. not worm-infested distinction, which matches exactly the 'Rung Sagging' prose about itlia/lo itlia.",
+      "second_heading": "Poor Fastening",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the mihadek/lo mihadek (tightly fastened vs. not) distinction, which matches exactly the 'Poor Fastening' prose.",
+      "current_heading": "Poor Fastening",
+      "moved": true
+    }
+  }
+]

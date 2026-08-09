@@ -1,0 +1,435 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Ma'aseh B'Tchilatov",
+    "candidates": [
+      "T'nai Definition",
+      "Shomrim Conditions",
+      "Against Torah",
+      "Ma'aseh B'Tchilatov",
+      "Efshar L'Kaymo",
+      "Initial Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shomrim Conditions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the Mishnah discussing the four shomrim and their ability to stipulate conditions, which matches exactly the 'Shomrim Conditions' prose describing those same guardians and their conditional exemptions.",
+      "second_heading": "Ma'aseh B'Tchilatov",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the rule about a condition preceded by an action (ma'aseh b'tchilatov) being void, which matches exactly the 'Ma'aseh B'Tchilatov' prose discussing that same third rule of the Mishnah.",
+      "current_heading": "Ma'aseh B'Tchilatov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Initial Problem",
+    "candidates": [
+      "Efshar L'Kaymo",
+      "Initial Problem",
+      "Rabbi Yehuda",
+      "Marriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening challenge (*amai? matneh al mah shekatuv baTorah*) which is precisely what the 'Initial Problem' section describes \u2014 the apparent contradiction between the mishna's first and second rules.",
+      "chosen_heading": "Initial Problem",
+      "current_heading": "Initial Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Marriage Case",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Marriage Case",
+      "Rabbi Meir View",
+      "Rashi Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about whether the mishnah follows Rabbi Yehuda or Rabbi Meir, using the marriage baraita and the ma'aseh-before-condition rule, which is precisely what the 'Marriage Case' prose describes in detail.",
+      "chosen_heading": "Marriage Case",
+      "current_heading": "Marriage Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rashi Explanation",
+    "candidates": [
+      "Rabbi Meir View",
+      "Rashi Explanation",
+      "Shomer->Sho'el",
+      "Kinyan Required?",
+      "Reputation Benefit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Meir View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's conclusion that the entire mishna follows Rabbi Meir because the shomer did not obligate himself at the outset, which is precisely what candidate 0 'Rabbi Meir View' discusses.",
+      "second_heading": "Shomer->Sho'el",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about a paid bailee stipulating to be like a borrower, which matches candidate 2 'Shomer->Sho'el' exactly.",
+      "current_heading": "Rashi Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Reputation Benefit",
+    "candidates": [
+      "Shomer->Sho'el",
+      "Kinyan Required?",
+      "Reputation Benefit",
+      "Possible vs Impossible",
+      "Merely Torment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement about not needing a kinyan because the reputational benefit of being known as trustworthy suffices to obligate the bailee, which directly matches the 'Reputation Benefit' section's prose discussion of exactly this reasoning.",
+      "chosen_heading": "Reputation Benefit",
+      "current_heading": "Reputation Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Merely Torment",
+    "candidates": [
+      "Possible vs Impossible",
+      "Merely Torment",
+      "Divorce Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Tavla/Rav attribution identifying the mishna's rule as Rabbi Yehuda ben Teima's view versus the Rabbis' opposing position, which directly matches the prose of heading 0 ('Possible vs Impossible') that explicitly discusses this Rav Tavla amar Rav statement and its identification with Rabbi Yehuda ben Tema.",
+      "chosen_heading": "Possible vs Impossible",
+      "current_heading": "Merely Torment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Divorce Examples",
+    "candidates": [
+      "Merely Torment",
+      "Divorce Examples",
+      "Halacha Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita's impossible-condition divorce examples and Rabbi Yehuda ben Teima's counter-principle \u2014 are precisely what candidate 1's prose ('Divorce Examples') describes, covering the same cases and the same dispute in the same order.",
+      "chosen_heading": "Divorce Examples",
+      "current_heading": "Divorce Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Halacha Decision",
+    "candidates": [
+      "Halacha Decision",
+      "Cow Owner Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Nachman's halakhic ruling in favor of Rabbi Yehuda ben Teima and the supporting inference from the mishna, which is precisely what the 'Halacha Decision' prose describes.",
+      "chosen_heading": "Halacha Decision",
+      "current_heading": "Halacha Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Cow Owner Order",
+    "candidates": [
+      "Cow Owner Order",
+      "Torah Source",
+      "Simultaneity Problem",
+      "Simultaneity Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text directly presents the ba'alav imo cases and the patur ruling, which is precisely what the 'Cow Owner Order' prose describes \u2014 the two scenarios of simultaneous vs. sequential borrowing and the exemption ruling.",
+      "chosen_heading": "Cow Owner Order",
+      "current_heading": "Cow Owner Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Simultaneity Solutions",
+    "candidates": [
+      "Torah Source",
+      "Simultaneity Problem",
+      "Simultaneity Solutions",
+      "Three Parshiyot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torah Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concluding clause of the Mishnah establishing liability when the cow was borrowed before the owner, grounded in the Torah verse 'ba'alav ein imo shalem yeshalem' \u2014 matching candidate 0's prose about the Torah source and the definition of ba'alav imo.",
+      "second_heading": "Simultaneity Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Gemara's question about the simultaneity problem and its two solutions, which directly match candidates 1 and 2's prose \u2014 and since both items belong together under one heading, candidate 2 ('Simultaneity Solutions') covers both the problem and solutions as a unit, matching the current placement.",
+      "current_heading": "Simultaneity Solutions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Three Parshiyot",
+    "candidates": [
+      "Simultaneity Solutions",
+      "Three Parshiyot",
+      "Attribution Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce the four bailees and their respective obligations (oath/payment), which is precisely the foundation the 'Three Parshiyot' section builds on when it asks where in the Torah the obligations of the four shomrim are sourced.",
+      "chosen_heading": "Three Parshiyot",
+      "current_heading": "Three Parshiyot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Attribution Problem",
+    "candidates": [
+      "Attribution Problem",
+      "Kefel Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's question about deriving the three passages and the 'ipuch ana' challenge about reversing the assignment of the first two passages, which is precisely what the 'Attribution Problem' prose describes.",
+      "chosen_heading": "Attribution Problem",
+      "current_heading": "Attribution Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Kefel Argument",
+    "candidates": [
+      "Kefel Argument",
+      "Keren vs Kefel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the two-sided argument (mistavra shniya + adderaba rishona) about whether the second or first passage belongs to the shomer sachar based on gniva/aveidah liability vs. kefel, which is precisely what the 'Kefel Argument' prose section describes and analyzes.",
+      "chosen_heading": "Kefel Argument",
+      "current_heading": "Kefel Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Keren vs Kefel",
+    "candidates": [
+      "Keren vs Kefel",
+      "Paid Shomer Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the keren vs. kefel comparison and the borrower's unique liability status, which is precisely what the 'Keren vs Kefel' prose section addresses.",
+      "chosen_heading": "Keren vs Kefel",
+      "current_heading": "Keren vs Kefel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Paid Shomer Rules",
+    "candidates": [
+      "Paid Shomer Rules",
+      "Theft & Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the mishna about the paid bailee and renter (shomer sachar and socher) swearing for injury/capture/death and paying for loss/theft, which is exactly what the 'Paid Shomer Rules' prose discusses.",
+      "chosen_heading": "Paid Shomer Rules",
+      "current_heading": "Paid Shomer Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Theft & Loss",
+    "candidates": [
+      "Theft & Loss",
+      "Torah Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives the paid bailee's liability for loss (aveidah) from the doubled language of the theft verse, which is precisely what the 'Theft & Loss' section prose describes.",
+      "chosen_heading": "Theft & Loss",
+      "current_heading": "Theft & Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Torah Language",
+    "candidates": [
+      "Torah Language",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about the two positions on 'dibra torah k'lashon b'nei adam,' which is exactly what the 'Torah Language' section's prose describes.",
+      "chosen_heading": "Torah Language",
+      "current_heading": "Torah Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Shvuyah Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the kal vachomer argument about theft vs. loss for a shomer sachar, and the question of why the Torah writes explicitly what could be derived by kal vachomer \u2014 precisely what the 'Kal Vachomer' section prose describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Shvuyah Derivation",
+    "candidates": [
+      "Shvuyah Derivation",
+      "Comparison Issue",
+      "Rabbi Natan",
+      "Or Necessity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shvuyah Derivation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover exactly what candidate 0's prose describes: the mishna's rule, the verse's explicit coverage of injury/death, the problem of deriving shvuyah by analogy, and the gezera shava from shomer sachar's passage.",
+      "second_heading": "Comparison Issue",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents the refutation of the shomer sachar analogy \u2014 that his cases are listed to exempt while the sho'el's are listed to obligate \u2014 which is precisely what candidate 1's prose describes.",
+      "current_heading": "Shvuyah Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Or Necessity",
+    "candidates": [
+      "Comparison Issue",
+      "Rabbi Natan",
+      "Or Necessity",
+      "Logical Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 introduces Rabbi Natan's derivation (matching heading 1's prose exactly), and Item 2 is the gemara's challenge to that derivation \u2014 both together are the content described under heading 1 ('Rabbi Natan'), not heading 2 ('Or Necessity') which describes the resolution of that challenge.",
+      "chosen_heading": "Rabbi Natan",
+      "current_heading": "Or Necessity",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,399 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Veset Parable",
+    "candidates": [
+      "Rabbi Yishmael Debate",
+      "Blood in Urine",
+      "Blood Status Levels",
+      "Veset Parable",
+      "Wipe vs. Bedikah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita defining 'shiur veset' as the immediacy of checking after relations, illustrated by the mashal of the organ and cloth at the doorpost, which exactly matches the 'Veset Parable' section's prose description of this beraita and mashal.",
+      "chosen_heading": "Veset Parable",
+      "current_heading": "Veset Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Wipe vs. Bedikah",
+    "candidates": [
+      "Wipe vs. Bedikah",
+      "After Immediate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly contrasts kinuach (wipe) with bedikah (full examination), which is precisely what the 'Wipe vs. Bedikah' section's prose discusses.",
+      "chosen_heading": "Wipe vs. Bedikah",
+      "current_heading": "Wipe vs. Bedikah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "After Immediate",
+    "candidates": [
+      "After Immediate",
+      "Three Periods",
+      "Rav Chisda Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'After Immediate' prose describes: the baraita's ruling of asham taluy for the 'after time' case, the question why the mishnah's tanna omits it, and the answer about chaticha misht'ei chatichos \u2014 all of which are explicitly covered in candidate 0's prose.",
+      "chosen_heading": "After Immediate",
+      "current_heading": "After Immediate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Rav Chisda Solution",
+    "candidates": [
+      "Three Periods",
+      "Rav Chisda Solution",
+      "Rav Ashi Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the Rav \u1e24isda resolution \u2014 the contradiction between the baraita (extending hand under pillow) and the mishna (descending from bed), Rav \u1e24isda's 'achar achar' answer, the subsequent challenges, and the final clarification that the mishna's 'afterward' refers to the third period \u2014 exactly matching the 'Rav Chisda Solution' prose description.",
+      "chosen_heading": "Rav Chisda Solution",
+      "current_heading": "Rav Chisda Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Ashi Solution",
+    "candidates": [
+      "Rav Ashi Solution",
+      "Rabbi Eliezer Query",
+      "Sages' Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's resolution explaining that both time periods are equivalent depending on whether the cloth is already in hand, which directly matches the 'Rav Ashi Solution' prose describing exactly this explanation.",
+      "chosen_heading": "Rav Ashi Solution",
+      "current_heading": "Rav Ashi Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Sages' Uncertainty",
+    "candidates": [
+      "Rabbi Eliezer Query",
+      "Sages' Uncertainty",
+      "Yavneh Distinction",
+      "Husband 3rd Period",
+      "Rabbi Akiva View",
+      "Rabbi Yehuda View",
+      "Gemara's Kashya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening of the baraita where Rabbi Elazar bar Rabbi Tzadok poses his question to the sages at Usha and they respond about Rabbi Akiva's view \u2014 exactly what candidate 0 ('Rabbi Eliezer Query') describes, not the continuation in candidate 1 which covers what comes after the lo shamanu response.",
+      "chosen_heading": "Rabbi Eliezer Query",
+      "current_heading": "Sages' Uncertainty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Gemara's Kashya",
+    "candidates": [
+      "Yavneh Distinction",
+      "Husband 3rd Period",
+      "Rabbi Akiva View",
+      "Rabbi Yehuda View",
+      "Gemara's Kashya",
+      "Ketem Stringency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Yavneh Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the Yavneh baraita distinguishing the second and third periods and the dispute between Rabbi Akiva and Rabbi Yehuda, which matches exactly the prose of heading 0 ('Yavneh Distinction') and headings 1-3 that follow it in sequence.",
+      "second_heading": "Gemara's Kashya",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present the Gemara's challenge contrasting Rav \u1e24isda's and Rav Ashi's approaches in light of the Yavneh baraita, concluding with 'kashya,' which matches exactly the prose of heading 4 ('Gemara's Kashya').",
+      "current_heading": "Gemara's Kashya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Ketem Stringency",
+    "candidates": [
+      "Ketem Stringency",
+      "Retroactive Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage discusses retroactive tumah from the twenty-four-hour period before blood discovery (me'et le'et) and the husband's impurity status, which aligns with the 'Retroactive Tumah' section's discussion of how far back tumah extends and the husband's status \u2014 whereas the current 'Ketem Stringency' section focuses on stain-based leniencies/stringencies rather than the me'et le'et retroactive period and Shammai's view that women's time is sufficient from the moment of discovery.",
+      "chosen_heading": "Retroactive Tumah",
+      "current_heading": "Ketem Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Retroactive Tumah",
+    "candidates": [
+      "Retroactive Tumah",
+      "Prospective Tumah",
+      "Stricter Prospective",
+      "All Women Tahor",
+      "No Checking Needed",
+      "Journey Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the complete Gemara discussion on whether the Rabbis' concession to Rabbi Akiva regarding a ketem renders the husband tamei retroactively (Rav/Reish Lakish) or only prospectively (Shmuel/Rabbi Yochanan), including the pshita question and shor shachut answer \u2014 exactly what the 'Retroactive Tumah' prose describes.",
+      "chosen_heading": "Retroactive Tumah",
+      "current_heading": "Retroactive Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Journey Return",
+    "candidates": [
+      "Prospective Tumah",
+      "Stricter Prospective",
+      "All Women Tahor",
+      "No Checking Needed",
+      "Journey Return",
+      "Check vs. Hetter",
+      "Wife Would Inform",
+      "No Checking Reason",
+      "Rav Huna View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text 'kol ha-nashim b'chezkat taharah le-ba'aleihen' which introduces the presumption of purity for all women, and candidate 2 ('All Women Tahor') explicitly introduces this mishnah with that exact phrase and concept.",
+      "chosen_heading": "All Women Tahor",
+      "current_heading": "Journey Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Rav Huna View",
+    "candidates": [
+      "Check vs. Hetter",
+      "Wife Would Inform",
+      "No Checking Reason",
+      "Rav Huna View",
+      "Veset Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wife Would Inform",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question and answer about why the returning-husband case needs to be stated, which matches exactly the prose of candidate 1 ('Wife Would Inform') that paraphrases this very salka da'atach/ramya anafshah/ka mashma lan reasoning.",
+      "second_heading": "No Checking Reason",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Reish Lakish's qualification about yemei onasah, which matches exactly the prose of candidate 2 ('No Checking Reason') that quotes and explains this very ruling.",
+      "current_heading": "Rav Huna View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Veset Dispute",
+    "candidates": [
+      "Rav Huna View",
+      "Veset Dispute",
+      "Rabba Opinion",
+      "Gemara Challenge",
+      "Veset Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form one continuous dispute about Rav Huna's refinement of the chazakah rule regarding veset \u2014 the initial statement, the Gemara's objection, the corrected formulation, Rabba bar bar \u1e24ana's counterposition, and Rav Ashi's version \u2014 which precisely matches the 'Rav Huna View' prose describing Rav Huna's differentiation, the ipcha mist'abra objection, the corrected reading about sha'at vestah, and the veset d'Oraita corollary.",
+      "chosen_heading": "Rav Huna View",
+      "current_heading": "Veset Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Veset Calculation",
+    "candidates": [
+      "Rabba Opinion",
+      "Gemara Challenge",
+      "Veset Calculation",
+      "Mikvah Assumption",
+      "Mikvah Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba Opinion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba bar bar \u1e24ana's ruling that even a woman with a veset of days is permitted because vestot are rabbinic, which matches the 'Rabba Opinion' prose exactly.",
+      "second_heading": "Veset Calculation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Shmuel/Rabbi Yo\u1e25anan's ruling that a husband calculates his wife's veset days and may resume relations, which is precisely what the 'Veset Calculation' prose describes.",
+      "current_heading": "Veset Calculation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Mikvah Challenge",
+    "candidates": [
+      "Mikvah Assumption",
+      "Mikvah Challenge",
+      "Safeik Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the question from Rav Shmuel bar Yeiva to Rabbi Abba about the young girl embarrassed to immerse, which is precisely what heading 1 'Mikvah Challenge' describes in its prose.",
+      "chosen_heading": "Mikvah Challenge",
+      "current_heading": "Mikvah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Safeik Resolution",
+    "candidates": [
+      "Safeik Resolution",
+      "Principle Stated",
+      "Chav\u00e9r Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Abba's qualification of Rabbi Yochanan's ruling \u2014 that it applies only to safeik ra'atah, not vadai ra'atah \u2014 and culminate in the principle that safeik does not override vadai, which is precisely what the 'Safeik Resolution' prose describes in detail.",
+      "chosen_heading": "Safeik Resolution",
+      "current_heading": "Safeik Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Chav\u00e9r Example",
+    "candidates": [
+      "Principle Stated",
+      "Chav\u00e9r Example",
+      "Chav\u00e9r Reliability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is raising a difficulty against the principle 'ein safeik motzi midei vadai' by citing the chaveir baraita as a counterexample, which matches the 'Principle Stated' section's prose about introducing and questioning that very principle \u2014 not the 'Chav\u00e9r Example' section which discusses the baraita as if it were the primary topic being explained.",
+      "chosen_heading": "Principle Stated",
+      "current_heading": "Chav\u00e9r Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Chav\u00e9r Reliability",
+    "candidates": [
+      "Chav\u00e9r Example",
+      "Chav\u00e9r Reliability",
+      "Scheming Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav \u1e24anina \u1e24oza'a's statement about the chaver's presumptive reliability, which is precisely what the 'Chav\u00e9r Reliability' prose section discusses \u2014 elevating the chaver's conduct to vadai certainty.",
+      "chosen_heading": "Chav\u00e9r Reliability",
+      "current_heading": "Chav\u00e9r Reliability",
+      "moved": false
+    }
+  }
+]

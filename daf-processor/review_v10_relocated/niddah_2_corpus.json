@@ -1,0 +1,232 @@
+[
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "24-Hour Limit Rule",
+    "candidates": [
+      "Seder Taharos Overview",
+      "Dual Aspects: Tumah & Sex",
+      "Practical vs. Theoretical",
+      "Tumah-Sex Linkage",
+      "Shammai: Present Moment",
+      "Tumah from Interior",
+      "Terumah Case Example",
+      "Chazakah Principle",
+      "Two Shammai Reasons",
+      "Hillel: Checking Window",
+      "Twice-Daily Checking",
+      "24-Hour Limit Rule",
+      "Veset & Regularity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Mishnah presenting Shammai, Hillel, and the Rabbis' three-way dispute on retroactive tumah, which is precisely what the '24-Hour Limit Rule' section's prose discusses in detail \u2014 the chachamim's middle path of me'et l'et and mipekida l'fekida limiting each other.",
+      "chosen_heading": "24-Hour Limit Rule",
+      "current_heading": "24-Hour Limit Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Veset & Regularity",
+    "candidates": [
+      "Veset & Regularity",
+      "Counting from Sighting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the mishnaic text about a woman with a veset and the dayah sha'atah rule, which is precisely what the 'Veset & Regularity' prose discusses in detail, including the case of 'hayeta yoshevet be-mita ve-asuka be-taharot.'",
+      "chosen_heading": "Veset & Regularity",
+      "current_heading": "Veset & Regularity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Counting from Sighting",
+    "candidates": [
+      "Counting from Sighting",
+      "Shammai's Chazakah",
+      "Hillel: Rei'usa Migufa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that despite retroactive tumah, a woman counts only from the moment of sighting \u2014 exactly what the 'Counting from Sighting' prose discusses in detail.",
+      "chosen_heading": "Counting from Sighting",
+      "current_heading": "Counting from Sighting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Hillel: Rei'usa Migufa",
+    "candidates": [
+      "Shammai's Chazakah",
+      "Hillel: Rei'usa Migufa",
+      "Rei'usa Interpretation",
+      "Mikvah Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover the full Gemara exchange \u2014 Shammai's chazakah reasoning AND Hillel's rei'usa migufa rebuttal \u2014 and candidate 0's prose ('Shammai's Chazakah') explicitly describes this opening Gemara question-and-answer sequence including both positions, making it the best single home for the complete passage; candidate 1 covers only Hillel's side, which is only half the content here.",
+      "chosen_heading": "Shammai's Chazakah",
+      "current_heading": "Hillel: Rei'usa Migufa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Mikvah Case Setup",
+    "candidates": [
+      "Rei'usa Interpretation",
+      "Mikvah Case Setup",
+      "Safek vs. Vadai",
+      "Reshut Distinction",
+      "Status-Change Obstacle",
+      "Biological Reality",
+      "Two Problems vs. One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mikvah mishna (Mikvaot 2:2) about a mikvah measured and found lacking, which is precisely what the 'Mikvah Case Setup' prose describes as the Gemara's introduction of the parallel mikvah case.",
+      "chosen_heading": "Mikvah Case Setup",
+      "current_heading": "Mikvah Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Two Problems vs. One",
+    "candidates": [
+      "Safek vs. Vadai",
+      "Reshut Distinction",
+      "Status-Change Obstacle",
+      "Biological Reality",
+      "Two Problems vs. One",
+      "Barrel Setup",
+      "Three-Day Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-6 cover exactly the content described in candidate 2 ('Status-Change Obstacle'): the Shammai/Hillel difficulty, the chazkat tumah asymmetry, the mikvah's chazakah vs. the niddah's chazakah, the harei chaser/dam lefanecha exchanges, and the hagas hagas argument \u2014 all of which the prose of candidate 2 explicitly walks through, while candidate 4's prose covers only the final tarti/chada lerei'usa conclusion.",
+      "chosen_heading": "Status-Change Obstacle",
+      "current_heading": "Two Problems vs. One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Three-Day Rule",
+    "candidates": [
+      "Barrel Setup",
+      "Three-Day Rule",
+      "Parallel Structure",
+      "Tevel Obstacle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the barrel case setup \u2014 the inspection, the discovery of vinegar, and the three-day rule \u2014 which matches 'Barrel Setup' prose perfectly; the current placement under 'Three-Day Rule' is slightly off since that heading's prose discusses the interpretive dispute about which direction the three days cut, whereas these items are introducing the barrel case and its baraita for the first time.",
+      "chosen_heading": "Barrel Setup",
+      "current_heading": "Three-Day Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Tevel Obstacle",
+    "candidates": [
+      "Parallel Structure",
+      "Tevel Obstacle",
+      "Safek/Vadai Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the tevel chazakah argument and the counter-argument about wine's chazakah, which is precisely what the 'Tevel Obstacle' prose describes in detail.",
+      "chosen_heading": "Tevel Obstacle",
+      "current_heading": "Tevel Obstacle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Safek/Vadai Debate",
+    "candidates": [
+      "Safek/Vadai Debate",
+      "Rabbi Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items continue the back-and-forth comparison between the barrel/vinegar case and the niddah/blood case, which is exactly what the 'Safek/Vadai Debate' prose describes in detail, including the specific phrases harei hachmitz lefanecha, hashta hu dechazai, hachmitz v'asa, and hagas hagas chazai.",
+      "chosen_heading": "Safek/Vadai Debate",
+      "current_heading": "Safek/Vadai Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Rabbi Shimon Position",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Competing Chazakot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara sequence that sets up (item 1: the contradiction between barrel and mikvah), resolves (item 2: Rabbi Shimon's authorship), and proves (item 3: the mishna showing Rabbi Shimon treats mikvah as safek too) \u2014 exactly what the 'Rabbi Shimon Position' prose describes.",
+      "chosen_heading": "Rabbi Shimon Position",
+      "current_heading": "Rabbi Shimon Position",
+      "moved": false
+    }
+  }
+]

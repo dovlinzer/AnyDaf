@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Shifcha Canaanis",
+    "candidates": [
+      "Rabbah's Framework",
+      "Ulla's Counter",
+      "Shifcha Canaanis",
+      "Verses Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita analyzing 'vehofde lo nifdata' to derive the concept of partial redemption (piduyah ve'eina piduyah) via money or its equivalent, which is precisely what the 'Shifcha Canaanis' prose describes.",
+      "chosen_heading": "Shifcha Canaanis",
+      "current_heading": "Shifcha Canaanis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Verses Analysis",
+    "candidates": [
+      "Verses Analysis",
+      "Baraita Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita's derivation of the shtar rule and the subsequent juxtaposition of shtar to kessef for partial freedom \u2014 exactly the content described in the 'Verses Analysis' prose, which walks through the same two steps (gezerah shavah for shtar, then makish shtar lekessef for partial freedom by shtar).",
+      "chosen_heading": "Verses Analysis",
+      "current_heading": "Verses Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Baraita Attribution",
+    "candidates": [
+      "Baraita Attribution",
+      "Mishna Problem",
+      "Joint Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the attribution of the baraita's clauses between divrei hakol and Rabbi's position, with Rabba's resolution (reisha divrei hakol, seifa Rebbi) and Rav Ashi's alternative formulation \u2014 exactly what the 'Baraita Attribution' prose describes.",
+      "chosen_heading": "Baraita Attribution",
+      "current_heading": "Baraita Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Joint Ownership",
+    "candidates": [
+      "Mishna Problem",
+      "Joint Ownership",
+      "Rava's Position",
+      "Estate Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer unit about how Rav Yosef can account for the mishna's half-slave case, which is precisely what the 'Mishna Problem' prose describes \u2014 the difficulty posed to Rav Yosef and Ravina's resolution via joint ownership \u2014 whereas the 'Joint Ownership' prose describes Ravina's answer but the current placement already contains that answer, and the 'Mishna Problem' prose explicitly covers both the question AND anticipates Ravina's resolution as part of the same unit.",
+      "chosen_heading": "Mishna Problem",
+      "current_heading": "Joint Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Estate Division",
+    "candidates": [
+      "Rava's Position",
+      "Estate Division",
+      "Document Distinction",
+      "Terminology Issue",
+      "Refram Objects",
+      "Mishna Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba's (Rava's) statement about the dispute being limited to freeing half while retaining half, which is precisely what the 'Rava's Position' prose describes.",
+      "second_heading": "Estate Division",
+      "second_confidence": "high",
+      "second_reason": "Items 2-12 cover Abaye's challenge with the two contradictory baraitot about writing property to two slaves and all the subsequent reconciliations, which is exactly what the 'Estate Division' prose describes.",
+      "current_heading": "Estate Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Mishna Evidence",
+    "candidates": [
+      "Document Distinction",
+      "Terminology Issue",
+      "Refram Objects",
+      "Mishna Evidence",
+      "Day-Based Ownership",
+      "Status vs. Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Rafram's proof from the mishna that 'avdi' language describes past status and does not negate emancipation, which directly corresponds to the 'Refram Objects' section's prose describing exactly this argument and this mishna citation.",
+      "chosen_heading": "Refram Objects",
+      "current_heading": "Mishna Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Status vs. Labor",
+    "candidates": [
+      "Day-Based Ownership",
+      "Status vs. Labor",
+      "Calya Karna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the day-based goring ruling and the marriage rebuttal as a single Talmudic unit, and candidate 0's prose explicitly introduces the ox-goring question and the yom shel rabo premise, while candidate 1's prose discusses this same passage only as a secondary reference to explain the issura rejection \u2014 making candidate 0 the natural home for the full quoted text.",
+      "chosen_heading": "Day-Based Ownership",
+      "current_heading": "Status vs. Labor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Calya Karna",
+    "candidates": [
+      "Status vs. Labor",
+      "Calya Karna",
+      "Shevet Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's discussion of kalya karna \u2014 the half-knas/half-kofer ruling for a killed half-slave, the rejection of the day-based principle due to destruction of the principal, and the clarification of what counts as non-kalya-karna (temporary injury that will heal) \u2014 which is precisely what the 'Calya Karna' section's prose describes.",
+      "chosen_heading": "Calya Karna",
+      "current_heading": "Calya Karna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Shevet Debate",
+    "candidates": [
+      "Shevet Debate",
+      "Damage Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Abaye/Rava dispute about shevet gedola/ketana versus day-by-day shevet, which is precisely what the 'Shevet Debate' prose describes in detail, including the ox-only-pays-nezek consequence under Rava's view.",
+      "chosen_heading": "Shevet Debate",
+      "current_heading": "Shevet Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Damage Split",
+    "candidates": [
+      "Damage Split",
+      "Payment Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two resolutions ('ee-ba'it eima keshe-hikahu adam' and 'ee-ba'it eima memra hu') to the tension about Rava's position, which is precisely what the 'Damage Split' prose discusses and explains.",
+      "chosen_heading": "Damage Split",
+      "current_heading": "Damage Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Payment Question",
+    "candidates": [
+      "Payment Question",
+      "Half-Slave Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the dilemma about whether a slave lacking only a get shichrur renders his master eligible to collect the thirty-shekel knas, which is precisely what the 'Payment Question' prose describes.",
+      "chosen_heading": "Payment Question",
+      "current_heading": "Payment Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Half-Slave Proof",
+    "candidates": [
+      "Half-Slave Proof",
+      "Blinding Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the half-slave half-freeman case and the question of whether the baraita follows the ultimate mishna, which is exactly what the 'Half-Slave Proof' section's prose describes.",
+      "chosen_heading": "Half-Slave Proof",
+      "current_heading": "Half-Slave Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Blinding Proof",
+    "candidates": [
+      "Blinding Proof",
+      "Limb Loss",
+      "Freedom Opinions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Limb Loss",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 ('No, in accordance with the initial mishna') is a closing resolution of the previous sub-discussion about the baraita and the alternating-days mishna, not yet introducing the tooth-and-eye proof.",
+      "second_heading": "Blinding Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the 'knocked out tooth and blinded eye' baraita proof whose content and deflection are described in full in the 'Blinding Proof' prose section.",
+      "current_heading": "Blinding Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Freedom Opinions",
+    "candidates": [
+      "Limb Loss",
+      "Freedom Opinions",
+      "Unresolved Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita recording the tannaitic dispute about whether a bill of manumission is required, the compromise ruling of the 'machri'in', and the gemara's objection/correction about 'knas' vs. 'midrash chachamim' \u2014 are precisely the content described in the 'Freedom Opinions' prose, which covers exactly this material in detail.",
+      "chosen_heading": "Freedom Opinions",
+      "current_heading": "Freedom Opinions",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "From Now Until 30 Days",
+    "candidates": [
+      "From Now Until 30 Days",
+      "Ownership of Zuz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'al menat she'etayn lecha mi'kan' (on condition that I give you from now) ruling and the peshita question about whether the time limit is a genuine condition, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "From Now Until 30 Days",
+      "current_heading": "From Now Until 30 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Ownership of Zuz",
+    "candidates": [
+      "Ownership of Zuz",
+      "Showing Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'on the condition that I have two hundred dinars' case and the concern that perhaps he has the money (chashinan shema yesh lo), which matches exactly the prose in 'Ownership of Zuz' about safek mekudeshet and the baraita's concern.",
+      "chosen_heading": "Ownership of Zuz",
+      "current_heading": "Ownership of Zuz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Showing Money",
+    "candidates": [
+      "Showing Money",
+      "Land as Condition",
+      "Showing Land"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Land as Condition",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 resolves a tension between the mishna and baraita regarding definite vs. uncertain betrothal in the 'having money' condition case, which belongs to the Land as Condition or a prior section \u2014 but most naturally it wraps up the preceding money/having discussion rather than the 'showing money' topic.",
+      "second_heading": "Showing Money",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening of the 'show you two hundred dinars' case with the Tosefta gloss about showing his own money and the iska ruling, which is precisely what the 'Showing Money' prose describes.",
+      "current_heading": "Showing Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Showing Land",
+    "candidates": [
+      "Land as Condition",
+      "Showing Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Items 2 and 3 address the Gemara on the 'on the condition I possess land' case and the land-vs-money comparison, which matches candidate 0's prose about land possession conditions rather than candidate 1's focus on the 'showing' case.",
+      "chosen_heading": "Land as Condition",
+      "current_heading": "Showing Land",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Showing Land",
+    "candidates": [
+      "Showing Land",
+      "Hekdesh & Crevices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's ruling about betrothal conditioned on possessing land in a specific place, directly addressing whether the man can substitute land elsewhere \u2014 this fits squarely under 'Showing Land' which deals with conditions about land ownership in kiddushin contexts.",
+      "chosen_heading": "Showing Land",
+      "current_heading": "Showing Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Hekdesh & Crevices",
+    "candidates": [
+      "Hekdesh & Crevices",
+      "Plantability Standard",
+      "Mechira Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mechira Standard",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the closing of the kiddushin/beit kor betrothal case (the sharecropper distora point), which belongs under the 'Mechira Standard' or a prior section, but item 2 opens an entirely new topic \u2014 the hekdesh/consecration mishna from Arakhin \u2014 with its own facts and legal framework, matching the 'Hekdesh & Crevices' prose.",
+      "second_heading": "Hekdesh & Crevices",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 constitute the complete hekdesh crevices discussion (the Arakhin mishna, the baraita on sadeh, Mar Ukva bar Chama's water-crevice explanation, and the nagnei/shidra resolution), which is precisely what the 'Hekdesh & Crevices' prose describes.",
+      "current_heading": "Hekdesh & Crevices",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Mechira Standard",
+    "candidates": [
+      "Plantability Standard",
+      "Mechira Standard",
+      "Kiddushin Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the mechira (sale) ruling from Bava Batra \u2014 the mishnah about beit kor afar and Rav Pappa's explanation that a buyer expects a unified field \u2014 which is precisely what the 'Mechira Standard' prose discusses in detail.",
+      "chosen_heading": "Mechira Standard",
+      "current_heading": "Mechira Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Kiddushin Standard",
+    "candidates": [
+      "Kiddushin Standard",
+      "Rabbi Meir Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about comparing kiddushin to hekdesh or mechira and the answer that we compare to hekdesh because the husband can say 'ana tarchana u'zarna u'maitina,' which is precisely what the prose under 'Kiddushin Standard' discusses and analyzes in detail.",
+      "chosen_heading": "Kiddushin Standard",
+      "current_heading": "Kiddushin Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabbi Meir Principle",
+    "candidates": [
+      "Rabbi Meir Principle",
+      "Logic Explanation",
+      "Three Requirements",
+      "Rabbi Hanina Position",
+      "Pessukim Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna introducing Rabbi Meir's principle about the doubled condition (tnai kaful) based on the children of Gad and Reuben, which is precisely what the 'Rabbi Meir Principle' section's prose introduces and explains.",
+      "chosen_heading": "Rabbi Meir Principle",
+      "current_heading": "Rabbi Meir Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Pessukim Analysis",
+    "candidates": [
+      "Logic Explanation",
+      "Three Requirements",
+      "Rabbi Hanina Position",
+      "Pessukim Analysis",
+      "Meir vs Hanina",
+      "Inheritance Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's close textual analysis of the pesukim in Numbers 32 \u2014 the Rabbi Meir/Rabbi Hanina exchange about why 'b'eretz Kena'an' is written and what 'b'tochachem' means \u2014 which is precisely what the 'Pessukim Analysis' prose describes.",
+      "chosen_heading": "Pessukim Analysis",
+      "current_heading": "Pessukim Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Inheritance Parable",
+    "candidates": [
+      "Meir vs Hanina",
+      "Inheritance Parable",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Inheritance Parable",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Rabbi Hanina ben Gamliel's parable and its punchline ('kefelo garam lo'), which is precisely what the 'Inheritance Parable' prose describes.",
+      "second_heading": "Final Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20135 present the Gemara's challenge that the parable doesn't fit the mishna's language, and the beginning of the resolution ('lo kashya'), which is exactly what the 'Final Resolution' prose describes.",
+      "current_heading": "Inheritance Parable",
+      "moved": true
+    }
+  }
+]

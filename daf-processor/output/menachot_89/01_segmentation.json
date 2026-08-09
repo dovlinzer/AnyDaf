@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Oil Measurements for the Todah and Special Offerings",
@@ -116,7 +116,7 @@
           "timestamp": "37:22"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -169,7 +169,7 @@
           "timestamp": "46:00"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 30,
       "matched": true
     },
     {
@@ -334,5 +334,7 @@
   "amud_b_segment_index": 4,
   "amud_b_timestamp": "40:08",
   "amud_b_micro_title": "Par-Ayil Mix OK",
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "shiur_start_daf": 88,
+  "shiur_start_amud": "b"
 }

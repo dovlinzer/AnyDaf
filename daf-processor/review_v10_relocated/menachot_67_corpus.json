@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Tannaitic Debate Setup",
+    "candidates": [
+      "Tannaitic Debate Setup",
+      "Rav Kahana's Reading",
+      "Tosafot's Problem",
+      "Rav Sheshet's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Akiva's ruling and Rav Kahana's explanation of his principle (miruach hekdesh eino poter), which is precisely what Candidate 1 'Rav Kahana's Reading' discusses in its prose.",
+      "chosen_heading": "Rav Kahana's Reading",
+      "current_heading": "Tannaitic Debate Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rav Sheshet's Challenge",
+    "candidates": [
+      "Rav Kahana's Reading",
+      "Tosafot's Problem",
+      "Rav Sheshet's Challenge",
+      "Circular Argument Problem",
+      "Intent of Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Sheshet's challenge \u2014 item 1 presents the baraita objection and item 2 explains why it challenges Rav Kahana's reading \u2014 which is precisely what the prose of heading 2 ('Rav Sheshet's Challenge') describes.",
+      "chosen_heading": "Rav Sheshet's Challenge",
+      "current_heading": "Rav Sheshet's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Intent of Sanctification",
+    "candidates": [
+      "Circular Argument Problem",
+      "Intent of Sanctification",
+      "Ownership vs. Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita citing Rabbi Akiva's rationale ('the money was given only for what they required'), which is precisely the text that the 'Intent of Sanctification' prose section quotes and analyzes (nitnu ma'os ella l'tzorech lahen).",
+      "chosen_heading": "Intent of Sanctification",
+      "current_heading": "Intent of Sanctification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Ownership vs. Sanctity",
+    "candidates": [
+      "Ownership vs. Sanctity",
+      "Rabbi Yochanan's Solution",
+      "Hekdesh vs. Non-Jew",
+      "Why Hekdesh Exempts",
+      "Land Ownership Question",
+      "Non-Jew Loophole",
+      "Terumot Separation Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yochanan's and Rava's confirmations that Rabbi Akiva's position on the omer remainder is a special case (money given only for what was needed), not a general rejection of miruach hekdesh exempting \u2014 exactly the content the 'Rabbi Yochanan's Solution' prose describes.",
+      "chosen_heading": "Rabbi Yochanan's Solution",
+      "current_heading": "Ownership vs. Sanctity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Terumot Separation Rules",
+    "candidates": [
+      "Rabbi Yochanan's Solution",
+      "Hekdesh vs. Non-Jew",
+      "Why Hekdesh Exempts",
+      "Land Ownership Question",
+      "Non-Jew Loophole",
+      "Terumot Separation Rules",
+      "Parallel Key Moments",
+      "Hekdesh at Gilgul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are the baraita about separating terumah from Jewish, gentile, and Samaritan grain, with Rabbi Meir/Yehuda vs. Rabbi Yosi/Shimon positions \u2014 exactly what candidate 5's prose describes as the tannaitic debate about miruach ovdei kochavim visible in this baraita.",
+      "chosen_heading": "Terumot Separation Rules",
+      "current_heading": "Terumot Separation Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Hekdesh at Gilgul",
+    "candidates": [
+      "Parallel Key Moments",
+      "Hekdesh at Gilgul",
+      "Rava's Question",
+      "Ger Converting Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah from tractate Challah presenting the three cases of hekdesh ownership at gilgul, which is precisely what the 'Hekdesh at Gilgul' section's prose describes and analyzes.",
+      "chosen_heading": "Hekdesh at Gilgul",
+      "current_heading": "Hekdesh at Gilgul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Ger Converting Case",
+    "candidates": [
+      "Rava's Question",
+      "Ger Converting Case",
+      "Rav Pappa's First Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a continuous unit covering Rava's dilemma about gilgul oveid kochavim, the convert mishnah as evidence, the textual analysis of degancha vs. arisoteichem, and Rava's final resolution \u2014 exactly the content described in the 'Ger Converting Case' prose.",
+      "chosen_heading": "Ger Converting Case",
+      "current_heading": "Ger Converting Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Rav Pappa's First Proof",
+    "candidates": [
+      "Rav Pappa's First Proof",
+      "Rav Pappa's Second Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core of Rav Pappa's first proof \u2014 the baraita about a gentile separating peter chamor and challah (item 1) and the inference that the same tanna obligates teruma but exempts challah (item 2) \u2014 which matches exactly what the prose of heading 0 describes as Rav Pappa's argument from silence.",
+      "chosen_heading": "Rav Pappa's First Proof",
+      "current_heading": "Rav Pappa's First Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rav Pappa's Second Proof",
+    "candidates": [
+      "Rav Pappa's Second Proof",
+      "Rabbinic Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's objection to Rava using the baraita about a gentile's challah in Eretz Yisrael and teruma outside Eretz Yisrael, which is precisely what the prose under 'Rav Pappa's Second Proof' describes in detail.",
+      "chosen_heading": "Rav Pappa's Second Proof",
+      "current_heading": "Rav Pappa's Second Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Rabbinic Gezeirah",
+    "candidates": [
+      "Rabbinic Gezeirah",
+      "Public vs. Private"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the objection and resolution about the gezeirah mishum ba'alei kisin, which is precisely what the 'Rabbinic Gezeirah' section's prose discusses.",
+      "chosen_heading": "Rabbinic Gezeirah",
+      "current_heading": "Rabbinic Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Public vs. Private",
+    "candidates": [
+      "Public vs. Private",
+      "Alternative Loopholes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why no gezeirah was needed for challah because one can bake less than five-fourths of a kav, which is precisely what the prose under 'Public vs. Private' explains, including the specific phrase 'efshar de-afyei pachos me-chameshes reva'im kemach.'",
+      "chosen_heading": "Public vs. Private",
+      "current_heading": "Public vs. Private",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Alternative Loopholes",
+    "candidates": [
+      "Alternative Loopholes",
+      "Omer Preparation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the alternative loopholes for teruma/tithes (Rabbi Oshaya's chaff method and rooftop entry) and the public/private distinction (befarhesya vs. tzina) that is the exact content described in the 'Alternative Loopholes' prose section.",
+      "chosen_heading": "Alternative Loopholes",
+      "current_heading": "Alternative Loopholes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Omer Preparation",
+    "candidates": [
+      "Omer Preparation",
+      "Kohanim Consumption",
+      "Public Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna describes the full sequence of omer preparation steps (oil, frankincense, pouring, mixing, waving, bringing near, handful removal, and burning), which matches exactly what the 'Omer Preparation' prose discusses, including the specific steps and their order.",
+      "chosen_heading": "Omer Preparation",
+      "current_heading": "Omer Preparation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Public Distribution",
+    "candidates": [
+      "Kohanim Consumption",
+      "Public Distribution",
+      "Early Cutting Debate",
+      "Reishit Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the marketplace of Jerusalem filling with parched grain after the omer was sacrificed, which is precisely what the 'Public Distribution' section's prose discusses \u2014 the moment the omer was offered signaling the opening of grain markets with new harvest produce.",
+      "chosen_heading": "Public Distribution",
+      "current_heading": "Public Distribution",
+      "moved": false
+    }
+  }
+]

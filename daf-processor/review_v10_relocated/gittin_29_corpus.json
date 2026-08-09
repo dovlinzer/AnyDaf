@@ -1,0 +1,329 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: Sick Shaliach",
+    "candidates": [
+      "Intro: Sick Shaliach",
+      "Chala Tenan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the sick shaliach scenario and the deposit qualification, which is exactly what the 'Intro: Sick Shaliach' prose describes and analyzes in detail.",
+      "chosen_heading": "Intro: Sick Shaliach",
+      "current_heading": "Intro: Sick Shaliach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Chala Tenan",
+    "candidates": [
+      "Chala Tenan",
+      "Holech vs. At Holech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Kahana's statement about 'chala tenan' and the reasoning behind why illness is a genuine condition rather than a mere illustrative scenario, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Chala Tenan",
+      "current_heading": "Chala Tenan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Holech vs. At Holech",
+    "candidates": [
+      "Holech vs. At Holech",
+      "Three Reconciliations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items establish the holech vs. at holech distinction and Rabban Shimon ben Gamliel's position, which is precisely what heading 0's prose describes \u2014 the tension between the baraita and the mishnah \u2014 rather than the three reconciliations proposed under heading 1.",
+      "chosen_heading": "Holech vs. At Holech",
+      "current_heading": "Holech vs. At Holech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Three Reconciliations",
+    "candidates": [
+      "Three Reconciliations",
+      "Husband's Intent",
+      "Two vs. Three People"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the three reconciliations (ibayit eima \u00d7 3) that candidate 0's prose explicitly describes, matching content, structure, and terminology precisely.",
+      "chosen_heading": "Three Reconciliations",
+      "current_heading": "Three Reconciliations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Two vs. Three People",
+    "candidates": [
+      "Husband's Intent",
+      "Two vs. Three People",
+      "Beit Din Exception",
+      "Bizayon D'Baal",
+      "Mili Lo Mimsran"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two vs. Three People",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the contradiction from the mishna about two/three people and the inference that a shaliach cannot delegate, which is precisely what the 'Two vs. Three People' prose describes.",
+      "second_heading": "Bizayon D'Baal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's answer explaining the contradiction via bizayon d'baal and the husband not being particular about delivery, which matches exactly the 'Bizayon D'Baal' section's prose.",
+      "current_heading": "Two vs. Three People",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mili Lo Mimsran",
+    "candidates": [
+      "Beit Din Exception",
+      "Bizayon D'Baal",
+      "Mili Lo Mimsran",
+      "Matanah K'Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement that the reason a shaliach cannot delegate is because the appointment consists of mere words and mili lo mimsran l'shaliach, which is precisely the content discussed in the 'Mili Lo Mimsran' section's prose.",
+      "chosen_heading": "Mili Lo Mimsran",
+      "current_heading": "Mili Lo Mimsran",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Matanah K'Get",
+    "candidates": [
+      "Matanah K'Get",
+      "Borrower Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Abaye/Rava distinction, the shaliach matanah case, and the Rav/Shmuel debate about matanah k'get, which is precisely what heading 0's prose covers.",
+      "chosen_heading": "Matanah K'Get",
+      "current_heading": "Matanah K'Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Borrower Comparison",
+    "candidates": [
+      "Borrower Comparison",
+      "Chiddush Identified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's observation connecting the mishnah's case to the principle that a borrower may not re-lend and a renter may not sublet, which is precisely what the 'Borrower Comparison' prose describes.",
+      "chosen_heading": "Borrower Comparison",
+      "current_heading": "Borrower Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Chiddush Identified",
+    "candidates": [
+      "Chiddush Identified",
+      "Woman Greeted",
+      "Order Debate",
+      "Yochanan v. Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Yochanan's dismissal of the schoolchildren point and his introduction of the chiddush about the get being invalid \u2014 precisely what the prose under 'Chiddush Identified' describes and analyzes in detail.",
+      "chosen_heading": "Chiddush Identified",
+      "current_heading": "Chiddush Identified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Yochanan v. Reish Lakish",
+    "candidates": [
+      "Woman Greeted",
+      "Order Debate",
+      "Yochanan v. Reish Lakish",
+      "Overseas Scenario",
+      "Beit Din Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the specific disputed case where the husband ordered 'take the object first, then give the get' and the shaliach reversed the order, which is precisely what heading 1 'Order Debate' discusses \u2014 not the resolution of Rabbi Yochanan vs. Reish Lakish positions (heading 2), but the framing of the disagreement and the facts of the disputed scenario.",
+      "chosen_heading": "Order Debate",
+      "current_heading": "Yochanan v. Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Beit Din Testimony",
+    "candidates": [
+      "Overseas Scenario",
+      "Beit Din Testimony",
+      "Shaliach D'Shaliach",
+      "Multiple Shlichim",
+      "Court Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna describes the overseas scenario where a sick shaliach must delegate to a court-appointed substitute, which is precisely what the 'Overseas Scenario' prose introduces \u2014 the current placement under 'Beit Din Testimony' is also a reasonable match since that prose describes the mishna's solution in detail, but the mishna text itself belongs at the start of this topic arc under heading 0.",
+      "chosen_heading": "Overseas Scenario",
+      "current_heading": "Beit Din Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Court Requirement",
+    "candidates": [
+      "Shaliach D'Shaliach",
+      "Multiple Shlichim",
+      "Court Requirement",
+      "Rava's Ruling",
+      "No Court Needed",
+      "Death of First",
+      "Power from Husband"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together cover the full debate about whether an agent of an agent can appoint another agent and whether that appointment requires a beit din \u2014 exactly what heading 0 ('Shaliach D'Shaliach') introduces, with headings 1 and 2 covering the resolved sub-questions that emerge from this passage's content, making heading 0 the natural home for the opening of this entire discussion.",
+      "chosen_heading": "Shaliach D'Shaliach",
+      "current_heading": "Court Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Power from Husband",
+    "candidates": [
+      "Rava's Ruling",
+      "No Court Needed",
+      "Death of First",
+      "Power from Husband",
+      "Scenario Setup",
+      "Rabbis' Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Death of First",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rabba's ruling about agents in Eretz Yisrael and Rav Ashi's statement that death of the first agent cancels all \u2014 this is precisely what candidate 2 ('Death of First') describes in its prose.",
+      "second_heading": "Power from Husband",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Mar bar Rav Ashi's refutation that all agents derive authority from the husband, not the first agent \u2014 exactly what candidate 3 ('Power from Husband') discusses in detail.",
+      "current_heading": "Power from Husband",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rabbis' Solution",
+    "candidates": [
+      "Scenario Setup",
+      "Rabbis' Solution",
+      "Rav Safra's Question",
+      "Full Empowerment",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the scenario setup \u2014 the husband sending a get, the agent not knowing the wife, the instruction to find Abba bar Minyumi, and the agent's arrival and encounter with the rabbis \u2014 which maps precisely to the 'Scenario Setup' prose rather than the 'Rabbis' Solution' prose, which focuses on the solution the rabbis proposed after the agent's arrival.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Rabbis' Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Rav Safra's Question",
+      "Full Empowerment",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the continuous debate about whether Rav Safra's challenge was correct \u2014 item 1 is Rav Safra's objection, item 2 is Rava's praise followed by Rav Ashi's counter, and item 3 is the alternative version of that same exchange \u2014 which corresponds precisely to candidate 2's prose about Rava's comment, Rav Ashi's challenge, and the two readings of the husband's instruction.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  }
+]

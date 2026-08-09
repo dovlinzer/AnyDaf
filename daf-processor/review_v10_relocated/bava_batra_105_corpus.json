@@ -1,0 +1,220 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Mishna Setup",
+      "Chaseir Yeter Negates",
+      "Mida Negates Chaseir",
+      "Ben Nanas Attribution",
+      "Chachamim Disagree",
+      "Tzipori Bathhouse Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chaseir Yeter Negates",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the first scenario where 'more or less' (the final phrase) nullifies 'measured with a rope,' matching candidate 1's prose about *batel mida bechevel* and the approximation rule.",
+      "second_heading": "Mida Negates Chaseir",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the second scenario where 'measured with a rope' (the final phrase) nullifies 'more or less,' attributed to Ben Nanas, which maps to candidate 2's prose about *batel hen chaseir hen yeter* and precision rules \u2014 though the Ben Nanas attribution line also connects to candidate 3, candidate 2 is the better structural match since it covers the ruling itself.",
+      "current_heading": "Mishna Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Tzipori Bathhouse Case",
+    "candidates": [
+      "Chaseir Yeter Negates",
+      "Mida Negates Chaseir",
+      "Ben Nanas Attribution",
+      "Chachamim Disagree",
+      "Tzipori Bathhouse Case",
+      "Split Difference Ruling",
+      "Mammon Hamutal Besafek",
+      "Reversal/Explication",
+      "Rashbam Explication"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chachamim Disagree",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav's statement that Ben Nanas's colleagues disagree with him and the gemara's question about what is new \u2014 this is precisely what candidate 3 ('Chachamim Disagree') describes.",
+      "second_heading": "Split Difference Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 records the ruling of Rabban Shimon ben Gamliel and Rabbi Yosei to split the intercalated month, which is exactly what candidate 5 ('Split Difference Ruling') discusses.",
+      "current_heading": "Tzipori Bathhouse Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rashbam Explication",
+    "candidates": [
+      "Split Difference Ruling",
+      "Mammon Hamutal Besafek",
+      "Reversal/Explication",
+      "Rashbam Explication",
+      "Clear Contradiction",
+      "Ben Nanas vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's distinction between cases where the second phrase could be either a retraction or an explication (hatam) versus a clear retraction (haka), which is precisely the content described in the 'Reversal/Explication' prose.",
+      "chosen_heading": "Reversal/Explication",
+      "current_heading": "Rashbam Explication",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Ben Nanas vs. Chachamim",
+    "candidates": [
+      "Clear Contradiction",
+      "Ben Nanas vs. Chachamim",
+      "Pachot Shebaleshonot",
+      "Muchzak Principle",
+      "Kor for 30 / Se'ah Sela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda citing Shmuel's attribution of Ben Nanas's view and the Sages' counter-position, which is precisely what the 'Ben Nanas vs. Chachamim' section's prose describes.",
+      "chosen_heading": "Ben Nanas vs. Chachamim",
+      "current_heading": "Ben Nanas vs. Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Kor for 30 / Se'ah Sela",
+    "candidates": [
+      "Pachot Shebaleshonot",
+      "Muchzak Principle",
+      "Kor for 30 / Se'ah Sela",
+      "Last Language Wins",
+      "Shmuel & Ben Nanas",
+      "Consistent Muchzak",
+      "Rental Case Timing",
+      "Middle/Beginning/End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the kor-bishloshim/se'ah-besela ruling that candidate 2's prose explicitly describes \u2014 the gemara's challenge from Rav and Shmuel's joint statement and the distinction between bulk and unit pricing \u2014 making the current placement correct.",
+      "chosen_heading": "Kor for 30 / Se'ah Sela",
+      "current_heading": "Kor for 30 / Se'ah Sela",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Middle/Beginning/End",
+    "candidates": [
+      "Last Language Wins",
+      "Shmuel & Ben Nanas",
+      "Consistent Muchzak",
+      "Rental Case Timing",
+      "Middle/Beginning/End",
+      "Kor Muchzak Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's statement about 'beva be'emtza chodesh askinan' \u2014 the rental case explanation \u2014 which is exactly what the 'Rental Case Timing' section's prose describes as Shmuel explaining the mishna in Tzipori as a case where the dispute arrived in the middle of the leap month.",
+      "chosen_heading": "Rental Case Timing",
+      "current_heading": "Middle/Beginning/End",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Kor Muchzak Logic",
+    "candidates": [
+      "Middle/Beginning/End",
+      "Kor Muchzak Logic",
+      "Istira Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's resolution that Shmuel's rulings in the kor case and the leap-month case are based on muchzak (tafis) rather than Ben Nanas's principle, which is precisely what the 'Kor Muchzak Logic' prose section discusses.",
+      "chosen_heading": "Kor Muchzak Logic",
+      "current_heading": "Kor Muchzak Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Istira Definition",
+    "candidates": [
+      "Istira Definition",
+      "Rav: Last Language",
+      "Apparent Repetition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Huna/school of Rav teaching about the istira and one hundred ma'a, which is precisely what the 'Istira Definition' prose introduces and explains \u2014 the teaching itself, not Rav's ruling principle or the question of repetition.",
+      "chosen_heading": "Istira Definition",
+      "current_heading": "Istira Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Apparent Repetition",
+    "candidates": [
+      "Rav: Last Language",
+      "Apparent Repetition",
+      "Rental: Explication Only",
+      "Second Language Wins",
+      "Rav Consistent",
+      "Ben Nanas/Rav Camp",
+      "Tannaim: Split",
+      "Shmuel: Muchzak",
+      "Apply to Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why Rav needs to restate the principle when he already stated it in the rental case, which is precisely what the 'Apparent Repetition' section's prose describes.",
+      "chosen_heading": "Apparent Repetition",
+      "current_heading": "Apparent Repetition",
+      "moved": false
+    }
+  }
+]

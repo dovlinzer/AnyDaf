@@ -1,0 +1,476 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Biblical text analysis",
+    "candidates": [
+      "Yoav narrative intro",
+      "Asahel & Avner clash",
+      "David's mourning",
+      "Yoav's rebellion",
+      "Shlomo orders execution",
+      "Biblical text analysis",
+      "Curse conditions",
+      "Shlomo accepts",
+      "David's curses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes Joab's two-condition argument to Benaiah (accept the curses or let him live under them), which is precisely what the 'Curse conditions' section prose discusses \u2014 the hidden conversation with its 'tarte' logic about David's curses.",
+      "chosen_heading": "Curse conditions",
+      "current_heading": "Biblical text analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "David's curses",
+    "candidates": [
+      "Curse conditions",
+      "Shlomo accepts",
+      "David's curses",
+      "Curses boomerang"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda/Rav's statement that David's curses against Joab were fulfilled in David's own descendants, which is precisely what the 'David's curses' section prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "David's curses",
+      "current_heading": "David's curses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Curses boomerang",
+    "candidates": [
+      "Curses boomerang",
+      "Curser consequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (zav/Rehoboam, leper/Uzziah, staff-holder/Asa, sword-faller/Josiah) are the specific curse-to-descendant tracings that the prose of heading 0 explicitly discusses in the same order.",
+      "chosen_heading": "Curses boomerang",
+      "current_heading": "Curses boomerang",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Curser consequence",
+    "candidates": [
+      "Curser consequence",
+      "Sanhedrin trial",
+      "Avner murder charge",
+      "Rodeph defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the adage 'tehei luta v'lo tehei lata' that the 'Curser consequence' prose explicitly describes as Rav's pointed conclusion after tracing each curse to a descendant of David.",
+      "chosen_heading": "Curser consequence",
+      "current_heading": "Curser consequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rodeph defense",
+    "candidates": [
+      "Sanhedrin trial",
+      "Avner murder charge",
+      "Rodeph defense",
+      "Fifth rib precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Joab's initial answer that he was the blood-redeemer of Asahel and the first exchange about Asahel being a pursuer, which matches the 'Avner murder charge' section's prose about the first charge, Joab's go'el hadam defense, and the rodef counter-argument \u2014 all of which precede the 'fifth rib' rebuttal that comes next.",
+      "chosen_heading": "Avner murder charge",
+      "current_heading": "Rodeph defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Fifth rib precision",
+    "candidates": [
+      "Rodeph defense",
+      "Fifth rib precision",
+      "Amasa murder charge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Joab's rebuttal about Abner's precision in hitting the fifth rib, which is exactly what the 'Fifth rib precision' section's prose describes.",
+      "chosen_heading": "Fifth rib precision",
+      "current_heading": "Fifth rib precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Amasa murder charge",
+    "candidates": [
+      "Amasa murder charge",
+      "Amasa justified delay"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Amasa murder charge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Joab's charge that Amasa rebelled against the king by failing to muster men within three days, which matches exactly the 'Amasa murder charge' prose describing that very accusation.",
+      "second_heading": "Amasa justified delay",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Solomon's rebuttal that Amasa interpreted 'akh' and 'rak' restrictively to justify his delay, which matches exactly the 'Amasa justified delay' prose about Amasa's legitimate drasha and the mi'ut derived from 'rak'.",
+      "current_heading": "Amasa murder charge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Amasa justified delay",
+    "candidates": [
+      "Amasa justified delay",
+      "Yoav indictment",
+      "Adoniyah not Avshalom",
+      "Rabbi Yehoshua view",
+      "Rabbi Eliezer view"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Amasa justified delay",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's defense of Amasa's delay via the tractate-study and the 'rak' limitation on the king's authority, which matches exactly the 'Amasa justified delay' prose.",
+      "second_heading": "Yoav indictment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Solomon's counter-charge that Joab himself was the rebel against the crown (following Adonijah), which matches exactly the 'Yoav indictment' prose.",
+      "current_heading": "Amasa justified delay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rabbi Eliezer view",
+    "candidates": [
+      "Yoav indictment",
+      "Adoniyah not Avshalom",
+      "Rabbi Yehoshua view",
+      "Rabbi Eliezer view",
+      "Rabbi Abba view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss why Joab did not follow Absalom \u2014 Item 1 gives Rabbi Elazar's answer (David's vitality/lichluchit) and Item 2 gives Rabbi Yosei bar \u1e24anina's answer (David's itztagninei/strongmen), both of which are explicitly discussed together in the 'Rabbi Eliezer view' prose section.",
+      "chosen_heading": "Rabbi Eliezer view",
+      "current_heading": "Rabbi Eliezer view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rabbi Abba view",
+    "candidates": [
+      "Rabbi Abba view",
+      "Gate meeting",
+      "Bor & Sira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Abba bar Kahana's statement about David and Joab's partnership, which is precisely what the prose under 'Rabbi Abba view' discusses.",
+      "chosen_heading": "Rabbi Abba view",
+      "current_heading": "Rabbi Abba view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Bor & Sira",
+    "candidates": [
+      "Gate meeting",
+      "Bor & Sira",
+      "Avner's denials",
+      "Torah distraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the meaning of 'Bor Sirah' and how the well and thorn caused Abner's death, which is precisely what the 'Bor & Sira' section heading and its prose discuss.",
+      "chosen_heading": "Bor & Sira",
+      "current_heading": "Bor & Sira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Torah distraction",
+    "candidates": [
+      "Avner's denials",
+      "Torah distraction",
+      "Avner & Amasa merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Joab's 'trial' of Abner over the killing of Asahel and the fifth-rib detail \u2014 content that directly supports the 'Avner's denials' section's discussion of Joab's killing of Avner and the moral justice embedded in the narrative, not the 'Torah distraction' section which discusses the chalitzah ruse.",
+      "chosen_heading": "Avner's denials",
+      "current_heading": "Torah distraction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Avner & Amasa merit",
+    "candidates": [
+      "Torah distraction",
+      "Avner & Amasa merit",
+      "Nov protest",
+      "Uriyah execution",
+      "Yoav's charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the comparison between Joab, Avner, and Amasa regarding the Uriah letter vs. oral commands, and Amasa's trust of Joab \u2014 content that precisely matches the 'Uriyah execution' section's prose about the letter command and Joab's failure to resist, rather than the 'Avner & Amasa merit' section which only covers the achin/rakin drasha point already discussed.",
+      "chosen_heading": "Uriyah execution",
+      "current_heading": "Avner & Amasa merit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Yoav's charity",
+    "candidates": [
+      "Nov protest",
+      "Uriyah execution",
+      "Yoav's charity",
+      "Execution & burial",
+      "Death penalties intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Joab's burial 'in his house in the wilderness' and his generosity to the poor, which exactly matches the 'Yoav's charity' section prose describing these same interpretations of the verse.",
+      "chosen_heading": "Yoav's charity",
+      "current_heading": "Yoav's charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Death penalties intro",
+    "candidates": [
+      "Execution & burial",
+      "Death penalties intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "\u05d4\u05b2\u05d3\u05b7\u05e8\u05b7\u05df \u05e2\u05b2\u05dc\u05b8\u05da\u05b0 \u05e0\u05b4\u05d2\u05b0\u05de\u05b7\u05e8 \u05d4\u05b7\u05d3\u05b4\u05bc\u05d9\u05df is the concluding formula recited at the end of a tractate/chapter, and its placement fits the 'Execution & burial' section which closes the narrative arc of the chapter, not the 'Death penalties intro' section which introduces a new mishna topic.",
+      "chosen_heading": "Execution & burial",
+      "current_heading": "Death penalties intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Death penalties intro",
+    "candidates": [
+      "Death penalties intro",
+      "List order principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the four death penalties and their order, which is exactly what the 'Death penalties intro' prose describes \u2014 the transition to the mishna's framework, its enumeration, and Rabbi Shimon's disagreement.",
+      "chosen_heading": "Death penalties intro",
+      "current_heading": "Death penalties intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "List order principle",
+    "candidates": [
+      "List order principle",
+      "Additional sdarim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the Gemara's proof that the seven cleansing substances require a fixed order \u2014 exactly the content described in candidate 0's prose about Rav Huna's principle and the seven agents as the primary exception.",
+      "chosen_heading": "List order principle",
+      "current_heading": "List order principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Additional sdarim",
+    "candidates": [
+      "Additional sdarim",
+      "Chalitzah procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the question of which Mishnaic sequences are taught in fixed order (four death penalties, Yom Kippur service, daily Tamid offering), exactly matching the prose of candidate 0 ('Additional sdarim').",
+      "chosen_heading": "Additional sdarim",
+      "current_heading": "Additional sdarim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Chalitzah procedure",
+    "candidates": [
+      "Chalitzah procedure",
+      "Chalitzah not essential",
+      "Chalitzah flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe the chalitzah procedure itself \u2014 the mishna's steps, the declarations, the shoe removal and spitting, and Rav Yehuda's ordering \u2014 which is exactly what heading 0's prose discusses, before the question of why it was omitted from the fixed-order list is resolved under headings 1 and 2.",
+      "chosen_heading": "Chalitzah procedure",
+      "current_heading": "Chalitzah procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Chalitzah flexibility",
+    "candidates": [
+      "Chalitzah not essential",
+      "Chalitzah flexibility",
+      "Garment numbers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that the chalitzah sequence is a mitzva but not essential (leit lan bah if switched), which directly matches candidate 0's prose about the sequence not being l'ikuva, whereas candidate 1's prose actually quotes/paraphrases this very passage's content as if it were the essay's own words, suggesting candidate 1 was written to summarize this text rather than host it.",
+      "chosen_heading": "Chalitzah not essential",
+      "current_heading": "Chalitzah flexibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Garment numbers",
+    "candidates": [
+      "Chalitzah flexibility",
+      "Garment numbers",
+      "Garment sequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the eight garments of the High Priest and four of the ordinary priest, directly matching the 'Garment numbers' section's prose about the mishna enumerating those garments.",
+      "chosen_heading": "Garment numbers",
+      "current_heading": "Garment numbers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Garment sequence",
+    "candidates": [
+      "Garment sequence",
+      "Torah order logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly establishes that the michnasayim must be worn first (before any other garment), which is precisely what the 'Garment sequence' section's prose discusses \u2014 the rule derived from the pasuk about trousers being worn against the flesh.",
+      "chosen_heading": "Garment sequence",
+      "current_heading": "Garment sequence",
+      "moved": false
+    }
+  }
+]

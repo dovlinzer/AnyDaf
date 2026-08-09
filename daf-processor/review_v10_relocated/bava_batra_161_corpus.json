@@ -1,0 +1,130 @@
+[
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Forging Signatures Risk",
+    "candidates": [
+      "Get Forms Review",
+      "Tosafot: Mekushar Today",
+      "Tosafot Explanations",
+      "Rav Huna: Bein Kesher",
+      "Adding After Signatures",
+      "Hakol Sharir V'Kayam",
+      "Rebbi Yirmiya bar Abba",
+      "Forging Signatures Risk",
+      "Tosafot: Three Witnesses",
+      "Bottom-Up Signing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's challenge to Rav Yirmeya bar Abba's position \u2014 that under his method, a fraudster could write additional content on the inside and obtain extra signatures on the outside claiming 'I simply wanted more witnesses' \u2014 which is precisely the concern described in the 'Forging Signatures Risk' section's prose.",
+      "chosen_heading": "Forging Signatures Risk",
+      "current_heading": "Forging Signatures Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Bottom-Up Signing",
+    "candidates": [
+      "Tosafot: Three Witnesses",
+      "Bottom-Up Signing",
+      "Horizontal Name Integrity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the mechanism of witnesses signing from bottom to top, which is precisely what the 'Bottom-Up Signing' section's prose discusses.",
+      "chosen_heading": "Bottom-Up Signing",
+      "current_heading": "Bottom-Up Signing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Horizontal Name Integrity",
+    "candidates": [
+      "Horizontal Name Integrity",
+      "Mar Zutra: Justification",
+      "Listing Corrections"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "Horizontal Name Integrity",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20138 form the continuous chain of objections and answers about signature truncation, father's name, and signature marks, all discussed in the 'Horizontal Name Integrity' prose.",
+      "second_heading": "Mar Zutra: Justification",
+      "second_confidence": "high",
+      "second_reason": "Item 9 is Mar Zutra's standalone ruling that a mekushar document is invalid if witnesses don't conclude on one line, which corresponds precisely to the 'Mar Zutra: Justification' section.",
+      "current_heading": "Horizontal Name Integrity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Listing Corrections",
+    "candidates": [
+      "Mar Zutra: Justification",
+      "Listing Corrections",
+      "Last Line Summary",
+      "No Learning from Last",
+      "White Space Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yochanan's two halakhot about erasures and the last-line summary, and the current heading 'Listing Corrections' directly discusses this exact teaching about enumerating erasures with 'v'den kiyumeihon,' making it the correct placement.",
+      "chosen_heading": "Listing Corrections",
+      "current_heading": "Listing Corrections",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "White Space Rule",
+    "candidates": [
+      "Last Line Summary",
+      "No Learning from Last",
+      "White Space Rule",
+      "Tosafot Observation",
+      "Hakol Sharir Solves It",
+      "Corrections Before Final"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion about the white space rule \u2014 Rav Amram's principle, Rav Nachman's challenge, the baraita proof, and the line-and-a-half dilemma \u2014 which is precisely what the 'White Space Rule' prose describes.",
+      "chosen_heading": "White Space Rule",
+      "current_heading": "White Space Rule",
+      "moved": false
+    }
+  }
+]

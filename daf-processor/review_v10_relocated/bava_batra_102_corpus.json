@@ -1,0 +1,189 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro & 1-2 Bodies",
+    "candidates": [
+      "Intro & 1-2 Bodies",
+      "3 Bodies = Graveyard",
+      "4-8 Amot Spacing",
+      "20 Amah Search"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes finding one or two bodies and removing them with their surrounding earth, which is precisely what the prose under 'Intro & 1-2 Bodies' discusses.",
+      "chosen_heading": "Intro & 1-2 Bodies",
+      "current_heading": "Intro & 1-2 Bodies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "20 Amah Search",
+    "candidates": [
+      "3 Bodies = Graveyard",
+      "4-8 Amot Spacing",
+      "20 Amah Search",
+      "Rashbam: 4-8 Amot",
+      "Tosafot Corner",
+      "R. Shimon: 6\u00d78",
+      "Why Not Beyond 8",
+      "Multi-Directional",
+      "Rashbam Diagonal",
+      "Configuration",
+      "Problem Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the 20-amah search protocol, the rule for continuing the search when a body is found at the edge of 20 amot, and the principle that a body found in context of a graveyard cannot be relocated \u2014 all of which match precisely the prose of the '20 Amah Search' section.",
+      "chosen_heading": "20 Amah Search",
+      "current_heading": "20 Amah Search",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Problem Stated",
+    "candidates": [
+      "Rashbam: 4-8 Amot",
+      "Tosafot Corner",
+      "R. Shimon: 6\u00d78",
+      "Why Not Beyond 8",
+      "Multi-Directional",
+      "Rashbam Diagonal",
+      "Configuration",
+      "Problem Stated",
+      "Rabbanan & Diagonal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items form a continuous gemara discussion raising the 'whose opinion is this?' challenge about the four-to-eight amot range and the twenty amot search, answering via Rabbi Shimon ben Yehuda's baraita, and then re-raising the problem from the latter clause \u2014 exactly what the 'Problem Stated' prose describes in detail.",
+      "chosen_heading": "Problem Stated",
+      "current_heading": "Problem Stated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rabbanan & Diagonal",
+    "candidates": [
+      "Rabbanan & Diagonal",
+      "Tosafot Math",
+      "Infant Graves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the gemara's answer that the mishna follows Rabbanan and involves examining along the diagonal, which is precisely what the 'Rabbanan & Diagonal' section's prose discusses.",
+      "chosen_heading": "Rabbanan & Diagonal",
+      "current_heading": "Rabbanan & Diagonal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Infant Graves",
+    "candidates": [
+      "Tosafot Math",
+      "Infant Graves",
+      "Compressed Burials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Tosafot Math' explicitly quotes and explains both the diagonal objection (items 1) and then says 'This is first answer to the problem,' implying the infant-graves answer (items 2-3) follows as the second answer \u2014 and indeed the 'Tosafot Math' prose discusses both the diagonal challenge and the infant-graves challenge together, whereas the 'Infant Graves' prose (index 1) discusses only the infant-graves material, making index 0 the better home for all three items taken together.",
+      "chosen_heading": "Tosafot Math",
+      "current_heading": "Infant Graves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Compressed Burials",
+    "candidates": [
+      "Infant Graves",
+      "Compressed Burials",
+      "Vineyard Parallel",
+      "Emergency vs Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items introduce the vineyard parallel dispute (the contradiction between Rabbis and Rabbi Shimon across cases), which is precisely what the 'Vineyard Parallel' section's prose describes \u2014 the gemara noting the parallel dispute about vineyard spacing where Rabbi Shimon and the Rabbis take opposite positions.",
+      "chosen_heading": "Vineyard Parallel",
+      "current_heading": "Compressed Burials",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Emergency vs Intent",
+    "candidates": [
+      "Vineyard Parallel",
+      "Emergency vs Intent",
+      "Respect Argument",
+      "Beis Kor Measure",
+      "Boulder Exclusion",
+      "Precise vs Approx"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit \u2014 the contradiction, then its resolution for Rabbi Shimon (emergency/twilight burial rationale), then its resolution for the Rabbanan (disgrace/firewood rationale) \u2014 which is precisely what the 'Emergency vs Intent' prose describes in detail.",
+      "chosen_heading": "Emergency vs Intent",
+      "current_heading": "Emergency vs Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Precise vs Approx",
+    "candidates": [
+      "Respect Argument",
+      "Beis Kor Measure",
+      "Boulder Exclusion",
+      "Precise vs Approx"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The hadran marks the end of the previous chapter and transition to the new mishna about beis kor land sale, which is precisely what the 'Beis Kor Measure' section's prose describes.",
+      "chosen_heading": "Beis Kor Measure",
+      "current_heading": "Precise vs Approx",
+      "moved": true
+    }
+  }
+]

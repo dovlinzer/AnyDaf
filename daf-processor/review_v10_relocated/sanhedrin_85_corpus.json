@@ -1,0 +1,172 @@
+[
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Death & Cursing",
+    "candidates": [
+      "Wound Requirement",
+      "Yerushalmi: Permanent vs\u2026",
+      "Bavli: Medical Procedures",
+      "Tosafos: Psik Reisha",
+      "Surgical Intent Question",
+      "Third Party Surgery",
+      "Mekalkel and Tikkun",
+      "Shabbat vs. Parent",
+      "Rabbi Shimon: Wounding",
+      "Strange Conclusion",
+      "Rav Sheshes' Question",
+      "General vs. Specific Lic\u2026",
+      "Kvod Shamayim Override",
+      "Mechilta Derivation",
+      "Mechilta Interpretation",
+      "General Prohibition",
+      "Father at Execution",
+      "Third Party Exempt",
+      "Son vs. Third Party",
+      "Rav Chisda: Resistance",
+      "Rav Sheshes: No Resistan\u2026",
+      "Exemption from Payment",
+      "Minor Injuries & Lashes",
+      "Damages vs. Transgression",
+      "Oseh Ma'aseh Amcha",
+      "Death & Cursing",
+      "Blood = Nefesh",
+      "Son Still Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's exemption for 'melachah she'einah tzerichah l'gufah' \u2014 labor not necessary for its own sake \u2014 which directly corresponds to heading 8 ('Rabbi Shimon: Wounding'), whose prose explicitly discusses Rabbi Shimon's position on wounding as mekalkel and melachah she'einah tzerichah l'gufah.",
+      "chosen_heading": "Rabbi Shimon: Wounding",
+      "current_heading": "Death & Cursing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Son Still Liable",
+    "candidates": [
+      "Blood = Nefesh",
+      "Son Still Liable",
+      "Mishna Overview",
+      "Textual Excess",
+      "Inferential Logic",
+      "Textual Override",
+      "Rabbi Yoshiyah: Either P\u2026",
+      "Rabbi Yonatan: Both Pare\u2026",
+      "After-Death Derivation",
+      "Oseh Ma'aseh Amcha Intro",
+      "Verse Allocation",
+      "Mishna Silence"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 19,
+      "split2": 20,
+      "first_heading": "Son Still Liable",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains the full discussion about a son serving as agent to strike/curse his father, Rav Sheshet's ruling, and the conclusion by Rabba bar Rav Huna about the meisit exception, which matches the 'Son Still Liable' heading's detailed treatment of shelichut, gavra katila, and the final ruling.",
+      "second_heading": "Mishna Overview",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna stating the chaburah requirement and the stringency of cursing over striking after death, which directly matches the 'Mishna Overview' heading's prose about hamakeh aviv ve'imo and ze chomer bimekalel mibemakeh.",
+      "third_heading": "Verse Allocation",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 covers the Gemara's derivation of le'achar mita, the dispute between Rabbi Yoshiyah and Rabbi Yonatan over the repetition of 'aviv ve'imo kilel,' and the allocation of the Shemot verse for including daughters/tumtum/androgynos, which matches the 'Verse Allocation' heading's description of how each tanna distributes the verses across various derivations.",
+      "current_heading": "Son Still Liable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Mishna Silence",
+    "candidates": [
+      "Mishna Overview",
+      "Textual Excess",
+      "Inferential Logic",
+      "Textual Override",
+      "Rabbi Yoshiyah: Either P\u2026",
+      "Rabbi Yonatan: Both Pare\u2026",
+      "After-Death Derivation",
+      "Oseh Ma'aseh Amcha Intro",
+      "Verse Allocation",
+      "Mishna Silence",
+      "Linking Makeh & Kalal",
+      "Kuti Braita 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the mishnah did not teach the stringency of striking over cursing regarding oseh ma'aseh amcha, and the answer that the tanna links striking to cursing \u2014 exactly what section 9 ('Mishna Silence') discusses.",
+      "chosen_heading": "Mishna Silence",
+      "current_heading": "Mishna Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Kuti Braita 1",
+    "candidates": [
+      "Linking Makeh & Kalal",
+      "Kuti Braita 1",
+      "Kuti Braita 2",
+      "Gerim Debate",
+      "Why Distinguish?",
+      "Shor Evidence",
+      "Real Dispute",
+      "Linked View",
+      "Unlinked View",
+      "Cursing Non-Observant",
+      "Parent Application",
+      "Logical Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "All four items form a single continuous Gemara unit debating the two conflicting Kuti baraitot \u2014 introducing them (item 1), proposing they dispute the heikesh (item 2), rejecting that in favor of a geirei emet/arayot dispute (item 3), then refuting that via the shor evidence and confirming the heikesh dispute (item 4) \u2014 but this full unit spans candidates 1 through 5 in the essay's breakdown, and since the current placement is candidate 1 and no single candidate clearly captures all four items better, the current placement is preferred.",
+      "chosen_heading": "Kuti Braita 1",
+      "current_heading": "Kuti Braita 1",
+      "moved": false
+    }
+  }
+]

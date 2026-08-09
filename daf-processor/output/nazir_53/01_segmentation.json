@@ -24,8 +24,8 @@
           "timestamp": "01:12"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shammai's Position and the Difficulty of Inferring Opposing Opinions",
@@ -202,7 +202,7 @@
           "timestamp": "48:15"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     }
   ],
@@ -509,5 +509,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "21:48",
+  "amud_b_micro_title": "Gemara's Question",
+  "shiur_start_daf": 53,
+  "shiur_start_amud": "a"
 }

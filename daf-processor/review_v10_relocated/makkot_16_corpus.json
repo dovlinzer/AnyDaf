@@ -1,0 +1,467 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Lav + Aseh",
+    "candidates": [
+      "Definition & Examples",
+      "Core Dispute",
+      "Lav Categories",
+      "Lav + Aseh",
+      "Pesach Example",
+      "Hatra'at Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The entire passage is devoted to explaining the machloket between Rabbi Yochanan and Reish Lakish specifically over hatra'at safek \u2014 uncertain forewarning \u2014 and the supporting proof from the oath case and Rabbi Yehuda's baraita, which is precisely what the prose of heading 5 ('Hatra'at Safek') describes.",
+      "chosen_heading": "Hatra'at Safek",
+      "current_heading": "Lav + Aseh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Hatra'at Safek",
+    "candidates": [
+      "Pesach Example",
+      "Hatra'at Safek",
+      "Lav She'ein Bo",
+      "Makeh Aviv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks why Reish Lakish doesn't conclude from Rabbi Yehuda's statement (about hatra'at safek being valid forewarning) \u2014 directly referencing the makeh aviv baraita and its ruling that hatra'at safek shema hatra'ah, which is precisely what the 'Makeh Aviv' section introduces.",
+      "chosen_heading": "Makeh Aviv",
+      "current_heading": "Hatra'at Safek",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Makeh Aviv",
+    "candidates": [
+      "Lav She'ein Bo",
+      "Makeh Aviv",
+      "Paternity Doubt",
+      "Rabbi Yehuda's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about striking/cursing putative fathers (makeh aviv) that the prose of heading 1 explicitly describes and introduces.",
+      "chosen_heading": "Makeh Aviv",
+      "current_heading": "Makeh Aviv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rabbi Yehuda's Rule",
+    "candidates": [
+      "Paternity Doubt",
+      "Rabbi Yehuda's Rule",
+      "Negative Commands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks why Rabbi Yochanan doesn't apply the rule about prohibitions not involving an action, directly engaging with the principle of 'lav she'ein bo ma'aseh' that is the subject of the 'Negative Commands' section.",
+      "chosen_heading": "Negative Commands",
+      "current_heading": "Rabbi Yehuda's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Negative Commands",
+    "candidates": [
+      "Rabbi Yehuda's Rule",
+      "Negative Commands",
+      "Exceptions",
+      "Rabbi Yehuda Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the general rule about lav she'yesh bo ma'aseh vs. lav she'ein bo ma'aseh along with its three exceptions, and the current placement under 'Negative Commands' (index 1) matches the prose about this principle being cited through the chain of Amoraim, while the exceptions are covered under index 2 \u2014 but since both the rule and exceptions appear in this single Talmudic passage, the current placement where the prose explicitly discusses this exact transmission chain is the best match.",
+      "chosen_heading": "Negative Commands",
+      "current_heading": "Negative Commands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Yehuda Issue",
+    "candidates": [
+      "Exceptions",
+      "Rabbi Yehuda Issue",
+      "Reish Lakish Position",
+      "Rabbi Yochanan Position",
+      "Two Views",
+      "Four Examples",
+      "Torah Passage",
+      "Rabbi Yehuda",
+      "Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's registration and resolution of the contradiction between two statements of Rabbi Yehuda \u2014 exactly what the 'Rabbi Yehuda Issue' section's prose describes as 'kashya de'Rabbi Yehuda a'de'Rabbi Yehuda' \u2014 and the resolution (two tanna'im for Reish Lakish; ha deideh ha de'rabeih for Rabbi Yochanan) is the direct answer to that specific contradiction, making it all one continuous unit under that heading.",
+      "chosen_heading": "Rabbi Yehuda Issue",
+      "current_heading": "Rabbi Yehuda Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Chachamim",
+    "candidates": [
+      "Reish Lakish Position",
+      "Rabbi Yochanan Position",
+      "Two Views",
+      "Four Examples",
+      "Torah Passage",
+      "Rabbi Yehuda",
+      "Chachamim",
+      "Two Cases",
+      "Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains the full Mishnaic text of 'tanan hatam \u2014 hanotel em al habanim' including both Rabbi Yehuda's and the Rabbis' positions and Rabbi Yochanan's statement, which corresponds precisely to the 'Torah Passage' section whose prose explicitly introduces this same Mishnaic citation as the textbook case of lav hanitak le'aseh.",
+      "chosen_heading": "Torah Passage",
+      "current_heading": "Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Context",
+    "candidates": [
+      "Two Cases",
+      "Context",
+      "Israelite vs. Kohen",
+      "Kiyam Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Elazar asking where the second case is, Rabbi Yochanan telling him to find it himself, and Rabbi Elazar discovering the baraita about the rapist who divorced \u2014 exactly the narrative described in heading 0's prose ('go look for it... nafak dak ve'ashkach'), not the contextual explanation in heading 1.",
+      "chosen_heading": "Two Cases",
+      "current_heading": "Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Kiyam Problem",
+    "candidates": [
+      "Israelite vs. Kohen",
+      "Kiyam Problem",
+      "Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question about kiyamo/bitlo \u2014 exactly the content described in the 'Kiyamo Problem' prose, which discusses how the bitlo opinion poses a difficulty in finding an active cancellation in the case of ones she'gerash.",
+      "chosen_heading": "Kiyam Problem",
+      "current_heading": "Kiyam Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Solutions",
+    "candidates": [
+      "Solutions",
+      "Neder Types",
+      "Ameimar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'if he killed her' problem and Rav Shimi's solution of accepting kiddushin from another, followed by Rav's refutation \u2014 exactly matching the 'Solutions' section prose which addresses these same arguments in the same sequence.",
+      "chosen_heading": "Solutions",
+      "current_heading": "Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Ameimar",
+    "candidates": [
+      "Neder Types",
+      "Ameimar",
+      "Gezel",
+      "Mashkon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both types of vows (public vow vs. al da'at rabim) and works through the distinction, making it a better fit under 'Neder Types' which discusses exactly this distinction, while 'Ameimar' is better suited for just the final ruling by Ameimar rather than the full dialectical passage leading up to it.",
+      "chosen_heading": "Neder Types",
+      "current_heading": "Ameimar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Mashkon",
+    "candidates": [
+      "Gezel",
+      "Mashkon",
+      "Ger Dies",
+      "Not Bitul",
+      "Torah Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya about gezel and mashkon as challenges to Rabbi Yochanan's statement, covering the mnemonic introduction, the lav-nitak-le'aseh analysis, the 'one is not flogged and pays' resolution, Rabbi Zeira's objection about the ger's collateral, and the Gemara's answer \u2014 all of which candidate 0 ('Gezel') describes as a unified discussion of both gezel and mashkon together.",
+      "chosen_heading": "Gezel",
+      "current_heading": "Mashkon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Torah Requirement",
+    "candidates": [
+      "Ger Dies",
+      "Not Bitul",
+      "Torah Requirement",
+      "Time Framework",
+      "Making Dough",
+      "Rabbi Yishmael",
+      "Challah Exclusion",
+      "Only Two Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's introduction of pe'ah as a candidate case, presenting the negative-positive commandment pair and then the baraita about the stages of pe'ah separation \u2014 exactly what candidate 2's prose describes as 've'ha'ika pe'ah... de'mashkachat lah be'kiymo ve'lo kiymo, bitlo ve'lo bitlo.'",
+      "chosen_heading": "Torah Requirement",
+      "current_heading": "Torah Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Only Two Cases",
+    "candidates": [
+      "Time Framework",
+      "Making Dough",
+      "Rabbi Yishmael",
+      "Challah Exclusion",
+      "Only Two Cases",
+      "Teacher Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yishmael's opinion that pe'ah can be separated even from dough, and then challenges this with the case of eating the dough \u2014 exactly what the 'Rabbi Yishmael' section's prose describes.",
+      "chosen_heading": "Rabbi Yishmael",
+      "current_heading": "Only Two Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Teacher Case",
+    "candidates": [
+      "Only Two Cases",
+      "Teacher Case",
+      "General Rule",
+      "Binta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the resolution that a neder al da'at rabim can be annulled for a dvar mitzvah, illustrated by the teacher-of-children story \u2014 exactly what candidate 1 ('Teacher Case') describes in its prose.",
+      "chosen_heading": "Teacher Case",
+      "current_heading": "Teacher Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Binta",
+    "candidates": [
+      "General Rule",
+      "Binta",
+      "Sheratzim Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the Rav Yehuda ruling about the binta devei karava creature and the case where he administered lashes, which is precisely what the 'Binta' section's prose addresses.",
+      "chosen_heading": "Binta",
+      "current_heading": "Binta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Sheratzim Lashes",
+    "candidates": [
+      "Sheratzim Lashes",
+      "Lo Teshaktzu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Abaye's ruling on multiple lashes for eating forbidden creeping creatures (putita, ant, wasp), which is precisely what the 'Sheratzim Lashes' prose describes.",
+      "chosen_heading": "Sheratzim Lashes",
+      "current_heading": "Sheratzim Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Lo Teshaktzu",
+    "candidates": [
+      "Lo Teshaktzu",
+      "Bloodletter Vessel",
+      "Smashed Ants",
+      "Quantity Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav A\u1e25ai's statement about delaying bodily needs and Rav Beivai bar Abaye's statement about the bloodletter's horn, both under the theme of 'lo teshaktzu,' and the current heading's prose already references the first statement while the second statement naturally belongs together with it under the same 'lo teshaktzu' heading rather than being split off into a separate 'Bloodletter Vessel' section.",
+      "chosen_heading": "Lo Teshaktzu",
+      "current_heading": "Lo Teshaktzu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Quantity Dispute",
+    "candidates": [
+      "Bloodletter Vessel",
+      "Smashed Ants",
+      "Quantity Dispute",
+      "Tevel Maaser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the initial ruling of Rava bar Rav Huna (nine crushed ants plus one live ant = six lashes) and the subsequent dispute about quantity, which together form one continuous Talmudic discussion that belongs under 'Smashed Ants' \u2014 the 'Quantity Dispute' heading artificially splits what is a single unbroken sugya.",
+      "chosen_heading": "Smashed Ants",
+      "current_heading": "Quantity Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Tevel Maaser",
+    "candidates": [
+      "Quantity Dispute",
+      "Tevel Maaser",
+      "Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rav's statement about eating tevel shel maaser ani receiving lashes, which is exactly what the 'Tevel Maaser' section's prose describes.",
+      "chosen_heading": "Tevel Maaser",
+      "current_heading": "Tevel Maaser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Rabbi Yosi",
+    "candidates": [
+      "Rabbi Yosi",
+      "Tithe Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Yosei that the prose in candidate 0 directly summarizes and discusses, making it the correct placement.",
+      "chosen_heading": "Rabbi Yosi",
+      "current_heading": "Rabbi Yosi",
+      "moved": false
+    }
+  }
+]

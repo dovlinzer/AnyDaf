@@ -1,12 +1,12 @@
-# Yevamot 40 — Daf Yomi Shiur
-
+[DAF:40a]
 ## Yibum vs Chalitzah
+
+
 
 ### Mishna Setup
 
-> **Hebrew/Aramaic:** תְּנַן הָתָם: מִצְוַת יִבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה. בָּרִאשׁוֹנָה, שֶׁהָיוּ מִתְכַּוְּונִין לְשֵׁם מִצְוָה. עַכְשָׁו שֶׁאֵין מִתְכַּוְּונִין לְשֵׁם מִצְוָה, אָמְרוּ: מִצְוַת חֲלִיצָה קוֹדֶמֶת לְמִצְוַת יִבּוּם.
->
-> **Translation:** **We learned** in a mishna **there** (*Bekhorot* 13a): The **mitzva of** consummating the **levirate marriage takes precedence over** the **mitzva of** performing ***ḥalitza*;** this applied **initially, when** *yevamin* **would have intent for the sake of** fulfilling **the mitzva. Now, that they do not have intent for the sake of** fulfilling **the mitzva,** the Sages **say:** The **mitzva of** performing ***ḥalitza* takes precedence over** the **mitzva of** consummating the **levirate marriage.**
+> **Hebrew/Aramaic:** תְּנַן הָתָם: מִצְוַת יִבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה. בָּרִאשׁוֹנָה, שֶׁהָיוּ מִתְכַּוְּונִין לְשֵׁם מִצְוָה. עַכְשָׁו שֶׁאֵין מִתְכַּוְּונִין לְשֵׁם מִצְוָה, אָמְרוּ: מִצְוַת חֲלִיצָה קוֹדֶמֶת לְמִצְוַת יִבּוּם.
+> **Translation:** § **We learned** in a mishna **there** (*Bekhorot* 13a): The **mitzva of** consummating the **levirate marriage takes precedence over** the **mitzva of** performing ***ḥalitza*;** this applied **initially, when** *yevamin* **would have intent for the sake of** fulfilling **the mitzva. Now, that they do not have intent for the sake of** fulfilling **the mitzva,** the Sages **say:** The **mitzva of** performing ***ḥalitza* takes precedence over** the **mitzva of** consummating the **levirate marriage.**
 
 The daf begins in the middle of 39b, picking up from a *mishna* cited from tractate *Kesubos* that establishes the basic halakhic ordering: *mitzvas yibum kodemes lemitzvas chalitzah* — the commandment of *yibum* takes precedence over the commandment of *chalitzah*. This was the original arrangement, operating under the assumption that men performed *yibum* for the right reasons: *barishona shehayu miskavnim leshem mitzvah* — originally, they had proper intent, acting for the sake of the *mitzvah* itself.
 
@@ -18,10 +18,6 @@ This raises a profound question: what exactly constitutes acting *shelo leshem m
 
 ### Rashi's Approach
 
-> **Hebrew/Aramaic:** אָמַר רַב: אֵין כּוֹפִין. כִּי אֲתוֹ לְקַמֵּיהּ דְּרַב, אֲמַר לְהוּ: אִי בָּעֵית — חֲלוֹץ, אִי בָּעֵית — יַיבֵּם. בְּדִידָךְ תְּלָא רַחֲמָנָא: ״וְאִם לֹא יַחְפּוֹץ הָאִישׁ״, הָא אִם חָפֵץ, אִי בָּעֵי — חָלֵיץ, אִי בָּעֵי — יְיַבֵּם.
->
-> **Translation:** **Rav said:** Nevertheless, the court **does not force** a *yavam* to perform *ḥalitza*, and if he wishes it is still permitted to consummate the levirate marriage. The Gemara relates: **When** a *yavam* and a *yevama* **would come before Rav, he would say to them: If you want, perform *ḥalitza*,** and **if you want, consummate the levirate marriage, as the Merciful One makes** the matter **dependent upon your** will, as it is stated: **"And if the man does not wish** to take his *yevama*" (Deuteronomy 25:7) then he should perform *ḥalitza*. This implies that the Torah requires him to perform *ḥalitza* only if he does not wish to consummate the levirate marriage, **but if he wishes** to do so, then the matter is dependent upon him, and **if he wants, he performs *ḥalitza*,** or **if he wants, he consummates the levirate marriage.**
-
 *Rav* addresses the question with the ruling *ein kofin* — we do not compel. *Rashi* explains this to mean that we do not force a couple to perform *chalitzah* when both parties wish to perform *yibum*. On *Rashi*'s reading, while we may now prefer *chalitzah*, we do not prevent *yibum* when both sides genuinely want it. The preference for *chalitzah* is real, but it does not translate into outright prohibition of *yibum* when there is mutual consent.
 
 ### Woman's Consent
@@ -32,9 +28,8 @@ At this point *Rashi* introduces a critically important dimension that the *sugy
 
 ### Rav's Position
 
-> **Hebrew/Aramaic:** וְאַף רַב יְהוּדָה סָבַר אֵין כּוֹפִין. מִדְּאַתְקֵין רַב יְהוּדָה בְּגִיטָּא דַחֲלִיצָה: אֵיךְ פְּלוֹנִית בַּת פְּלוֹנִי אַקְרִבַת יָת פְּלוֹנִי יְבָמַהּ קֳדָמַנָא לְבֵי דִינָא, וְאִשְׁתְּמוֹדְעִינְהוּ דַּאֲחוּהּ דְמִיתָנָא מֵאַבָּא נִיהוּ, וְאָמְרִי לֵיהּ: אִי צָבֵית לְיַבֵּם — יַבֵּם, וְאִי לָא — אַיטְלַע לַהּ רִגְלָיךְ דְּיַמִּינָא.
->
-> **Translation:** The Gemara notes: **And even Rav Yehuda holds** that the court **does not force** a *yavam* to perform *ḥalitza* if he wishes to consummate the levirate marriage. This is apparent **from** the fact **that Rav Yehuda enacted** in his court that the following formulation should be used **in the bill of *ḥalitza*: That so-and-so, daughter of so-and-so, brought so-and-so, her *yavam*, before the court; and we identified him, that he was** indeed **the paternal brother of the deceased, and we said to him: If you desire to consummate the levirate marriage,** then **consummate the levirate marriage, and if not, extend your right foot toward** your *yevama* so that she may perform *ḥalitza* by removing your shoe.
+> **Hebrew/Aramaic:** אָמַר רַב: אֵין כּוֹפִין. כִּי אֲתוֹ לְקַמֵּיהּ דְּרַב, אֲמַר לְהוּ: אִי בָּעֵית — חֲלוֹץ, אִי בָּעֵית — יַיבֵּם. בְּדִידָךְ תְּלָא רַחֲמָנָא: ״וְאִם לֹא יַחְפּוֹץ הָאִישׁ״, הָא אִם חָפֵץ, אִי בָּעֵי — חָלֵיץ, אִי בָּעֵי — יְיַבֵּם.
+> **Translation:** **Rav said:** Nevertheless, the court **does not force** a *yavam* to perform *ḥalitza*, and if he wishes it is still permitted to consummate the levirate marriage. The Gemara relates: **When** a *yavam* and a *yevama* **would come before Rav, he would say to them: If you want, perform *ḥalitza*,** and **if you want, consummate the levirate marriage, as the Merciful One makes** the matter **dependent upon your** will, as it is stated: **“And if the man does not wish** to take his *yevama*” (Deuteronomy 25:7) then he should perform *ḥalitza*. This implies that the Torah requires him to perform *ḥalitza* only if he does not wish to consummate the levirate marriage, **but if he wishes** to do so, then the matter is dependent upon him, and **if he wants, he performs *ḥalitza*,** or **if he wants, he consummates the levirate marriage.**
 
 When couples actually came before *Rav*, his practice illustrates the tension vividly. He would say: *iba'is chalot iba'is yabem* — do you wish to perform *chalitzah*, or do you wish to perform *yibum*? He presented both as genuine options. True, he listed *chalitzah* first, and that ordering reflects the preference — but the framing otherwise treats them as equivalent choices. He then cited the verse: *ve'im lo yachpotz ha'ish*, if the man does not wish to do *yibum* he performs *chalitzah*, but *ha im chafetz* — if he does wish to — the choice is his, *bedidach tala rachmana*, the Torah leaves it in his hands.
 
@@ -42,29 +37,23 @@ This practice goes even further than merely not preventing *yibum*: *Rav* is act
 
 ### Torah Priority
 
-> **Hebrew/Aramaic:** וְאַיטְלַע לַהּ רִגְלָא דְיַמִּינָא, וּשְׁרָת סֵינֵיהּ מַעַל רַגְלוֹהִי, וִירַקַת בְּאַנְפּוֹהִי רוּקָּא דְּמִתְחַזְיָא לְבֵי דִינָא עַל אַרְעָא.
->
-> **Translation:** The bill of *ḥalitza* would continue with the account of what transpired: **And he extended [*itla*] his right foot toward her and she removed his shoe from upon his foot and she spat toward his face spittle, which was visible to the court,** and which landed **upon the ground.**
-
 *Rav Yehuda* likewise held *ein kofin*, as demonstrated by the document he established for *chalitzah* proceedings — the *get* of *chalitzah*. In that document, the court offers the *yabam* the option of performing *yibum* even as he stands before the court to perform *chalitzah*. This detail will be explored in full in the next section, but its relevance here is clear: even in the formal procedure for *chalitzah*, the option of *yibum* is explicitly preserved. And *Rav Yehuda* explicitly grounded his position in the verse *ve'im lo yachpotz ha'ish* — the Torah's own framing, which treats the man's willingness as the deciding factor and implies that if he does wish to perform *yibum*, that remains a legitimate path.
+
+> **Hebrew/Aramaic:** וְאַף רַב יְהוּדָה סָבַר אֵין כּוֹפִין. מִדְּאַתְקֵין רַב יְהוּדָה בְּגִיטָּא דַחֲלִיצָה: אֵיךְ פְּלוֹנִית בַּת פְּלוֹנִי אַקְרִבַת יָת פְּלוֹנִי יְבָמַהּ קֳדָמַנָא לְבֵי דִינָא, וְאִשְׁתְּמוֹדְעִינְהוּ דַּאֲחוּהּ דְמִיתָנָא מֵאַבָּא נִיהוּ, וְאָמְרִי לֵיהּ: אִי צָבֵית לְיַבֵּם — יַבֵּם, וְאִי לָא — אַיטְלַע לַהּ רִגְלָיךְ דְּיַמִּינָא.
+> **Translation:** The Gemara notes: **And even Rav Yehuda holds** that the court **does not force** a *yavam* to perform *ḥalitza* if he wishes to consummate the levirate marriage. This is apparent **from** the fact **that Rav Yehuda enacted** in his court that the following formulation should be used **in the bill of *ḥalitza*: That so-and-so, daughter of so-and-so, brought so-and-so, her *yavam*, before the court; and we identified him, that he was** indeed **the paternal brother of the deceased, and we said to him: If you desire to consummate the levirate marriage,** then **consummate the levirate marriage, and if not, extend your right foot toward** your *yevama* so that she may perform *ḥalitza* by removing your shoe.
 
 ---
 
 ## Chalitzah Document
 
-### Get of Chalitzah
 
-> **Hebrew/Aramaic:** וְרַבִּי חִיָּיא בַּר אַוְיָא מְסַיֵּים בַּהּ מִשְּׁמֵיהּ דְּרַב יְהוּדָה: וְאַקְרִינְהוּ מָה דִּכְתִיב בִּסְפַר אוֹרָיְיתָא דְמֹשֶׁה.
->
-> **Translation:** **And Rabbi Ḥiyya bar Avya in the name of Rav Yehuda would conclude** the formulation of the bill of *ḥalitza* with an additional sentence: **And we dictated to** the *yavam* **that which is written in the book of the Torah of Moses,** i.e., those declarations that the *yavam* and the *yevama* are required to make.
+
+### Get of Chalitzah
 
 *Rav Yehuda* established the precise language for the formal court record of a *chalitzah* proceeding — called the *get* of *chalitzah*, a usage worth pausing on. The term *get* does not mean divorce specifically; it means a writ or document. This document is the *beis din*'s official record that the *chalitzah* took place, and the woman could produce it subsequently to establish that she was free to remarry. *Rav Yehuda* fixed the language of this document, and it opens with the words *anan sahadei* — we testify.
 
 ### Brother Identification
 
-> **Hebrew/Aramaic:** אִשְׁתְּמוֹדְעִינְהוּ, פְּלִיגִי בַּהּ רַב אַחָא וְרָבִינָא, חַד אָמַר: בְּעֵדִים, וְחַד אָמַר: אֲפִילּוּ קָרוֹב, אֲפִילּוּ אִשָּׁה. וְהִלְכְתָא: גַּלּוֹיֵי מִילְּתָא בְעָלְמָא הוּא, וַאֲפִילּוּ קָרוֹב וַאֲפִילּוּ אִשָּׁה.
->
-> **Translation:** The Gemara clarifies the intention of the phrase: **And we identified him** as the brother of the deceased. **Rav Aḥa and Ravina disagree concerning** this phrase: **One said** that this identification must be made **through** legally valid **witnesses, and** the other **one said** that **even** the testimony of **a relative** and **even** the testimony **a woman** is accepted in this case. The Gemara concludes: **And the *halakha* is** that the identification of the brother is considered to be **merely revealing** the facts of **the matter,** and therefore, **even a relative and even a woman** may tender this information.
 
 The document begins by identifying the woman: *plonis bas ploni*, so-and-so daughter of so-and-so. It then records that she, the *yevamah*, brought her *yabam* before the court — the Torah frames the woman as the active party who brings the *yabam* to the *beis din*. The court then attests: *ve'ishtemod'einu hu de-achua de-misna me'abba nihu* — we recognized him to be a paternal brother of the deceased.
 
@@ -74,6 +63,12 @@ The document continues: the court said to him, if you wish to perform *yibum* do
 
 ### Spitting & Verse
 
+> **Hebrew/Aramaic:** וְאַיטְלַע לַהּ רִגְלָא דְיַמִּינָא, וּשְׁרָת סֵינֵיהּ מַעַל רַגְלוֹהִי, וִירַקַת בְּאַנְפּוֹהִי רוּקָּא דְּמִתְחַזְיָא לְבֵי דִינָא עַל אַרְעָא.
+> **Translation:** The bill of *ḥalitza* would continue with the account of what transpired: **And he extended [*itla*] his right foot toward her and she removed his shoe from upon his foot and she spat toward his face spittle, which was visible to the court,** and which landed **upon the ground.**
+
+> **Hebrew/Aramaic:** וְרַבִּי חִיָּיא בַּר אַוְיָא מְסַיֵּים בַּהּ מִשְּׁמֵיהּ דְּרַב יְהוּדָה: וְאַקְרִינְהוּ מָה דִּכְתִיב בִּסְפַר אוֹרָיְיתָא דְמֹשֶׁה.
+> **Translation:** **And Rabbi Ḥiyya bar Avya in the name of Rav Yehuda would conclude** the formulation of the bill of *ḥalitza* with an additional sentence: **And we dictated to** the *yavam* **that which is written in the book of the Torah of Moses,** i.e., those declarations that the *yavam* and the *yevama* are required to make.
+
 She then spat before him — *roka d'miskhazi leBeis Dina*, a spitting that was visible to the *beis din*, directed toward the ground in front of him rather than literally at his face. *Rav Chiya bar Avya* adds, in the name of *Rav Yehuda*, an additional element: the court had him recite the relevant verse from the Torah, *lo chafatzti lekachtah*, "I do not wish to take her," with the communal response *kacha ye'aseh la'ish asher lo yivneh es beis achiv*.
 
 One might note what is conspicuous about the first version of the document: it omits those verses. This is likely deliberate. Since we now wish to hold out *chalitzah* as a dignified option — and since we are trying to make *chalitzah* function without the stigma of the *yabam* being publicly shamed — emphasizing the *pesukim* that frame the *yabam* as shirking his familial responsibility would be counterproductive. The *gemara* has effectively transformed *chalitzah* into a technical legal procedure, stripped of the element of social reproach that the Torah seems to have built into it.
@@ -82,9 +77,12 @@ It is also worth noting the structural point that throughout this entire procedu
 
 ### Rav Achai/Ravina
 
+> **Hebrew/Aramaic:** אִשְׁתְּמוֹדְעִינְהוּ, פְּלִיגִי בַּהּ רַב אַחָא וְרָבִינָא, חַד אָמַר: בְּעֵדִים, וְחַד אָמַר: אֲפִילּוּ קָרוֹב, אֲפִילּוּ אִשָּׁה. וְהִלְכְתָא: גַּלּוֹיֵי מִילְּתָא בְעָלְמָא הוּא, וַאֲפִילּוּ קָרוֹב וַאֲפִילּוּ אִשָּׁה.
+> **Translation:** The Gemara clarifies the intention of the phrase: **And we identified him** as the brother of the deceased. **Rav Aḥa and Ravina disagree concerning** this phrase: **One said** that this identification must be made **through** legally valid **witnesses, and** the other **one said** that **even** the testimony of **a relative** and **even** the testimony **a woman** is accepted in this case. The Gemara concludes: **And the *halakha* is** that the identification of the brother is considered to be **merely revealing** the facts of **the matter,** and therefore, **even a relative and even a woman** may tender this information.
+
 One phrase in the document requires further analysis: *ve'ishtemod'einu hu* — "we recognized him" to be a paternal brother. This raises a practical question: how does the court establish that identification? *Rav Achai* and *Ravina* debate the matter. One holds that formal witnesses are required to testify that he is a paternal brother. The other holds that even a relative or a woman — people ordinarily ineligible to serve as formal witnesses — suffice.
 
-The *halacha* follows the latter view: *giluy milsa b'alma hu*, this is merely a matter of publicly known information, not formal testimony. Since the fact of someone being a brother is typically known to the community, the ordinary rules of testimony do not apply, and we may rely on whatever evidence establishes the fact — even a single relative or woman.
+The *halacha* follows the latter view: *giluy milsa b'alma hu*, this is merely a matter of publicly known information, not formal testimony. Since the fact of someone being a brother is typically known to the community, the ordinary rules of testimony do not apply, and we may rely on whatever evidence establishes the fact — even a single relative or woman. The analogy is apt: just as a rabbi certifying that a person is Jewish draws on community awareness rather than formal courtroom testimony, so too the identification of a *yabam* rests on the kind of ambient family knowledge that circulates without anyone having been called to witness anything.
 
 The practical reason this identification matters is that without it, there could be abuse of the procedure. If a woman's *yabam* is refusing to act, or is threatening to perform *yibum* against her wishes, she might conceivably bring a stranger to *beis din* and claim he is the *yabam*, thereby fraudulently obtaining a *chalitzah*. The identification requirement prevents this. But since the fact is generally in the realm of common knowledge rather than disputed legal fact, the standard of proof is correspondingly relaxed.
 
@@ -94,31 +92,35 @@ The *sugya* notes that this detail also reinforces the earlier point: even in th
 
 ## Intent Dispute
 
+
+
+
 ### Later Reversion
 
-> **Hebrew/Aramaic:** אָמַר רָמֵי בַּר חָמָא אָמַר רַבִּי יִצְחָק: חָזְרוּ לוֹמַר מִצְוַת יִבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה. אֲמַר לֵיהּ רַב נַחְמָן בַּר יִצְחָק: אִכַּשּׁוּר דָּרֵי?
->
-> **Translation:** **Rami bar Ḥama said** that **Rabbi Yitzḥak said:** In later generations **they went back to** once again **saying** that **the mitzva of** consummating the **levirate marriage takes precedence over the mitzva of** performing ***ḥalitza*. Rav Naḥman bar Yitzḥak said to him** in wonderment: Could it be that **the** later **generations improved** their spiritual level and now intend to consummate the levirate marriage solely for sake of fulfilling the mitzva?
+> **Hebrew/Aramaic:** בָּרִאשׁוֹנָה, שֶׁהָיוּ מִתְכַּוְּונִין לְשֵׁם מִצְוָה — מִצְוַת יִבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה. וְעַכְשָׁיו שֶׁאֵין מִתְכַּוְּונִין לְשֵׁם מִצְוָה, אָמְרוּ: מִצְוַת חֲלִיצָה קוֹדֶמֶת לְמִצְוַת יִבּוּם.
+> **Translation:** The Gemara paraphrases the mishna from tractate *Bekhorot*: **Initially, when** *yevamin* **would have intent for the sake of** fulfilling **the mitzva** of consummating the levirate marriage, **the mitzva of** consummating the **levirate marriage took precedence over the mitzva of** performing ***ḥalitza*. And now that they do not have intent for the sake of** fulfilling **the mitzva,** the Sages **say: The mitzva of** performing ***ḥalitza* takes precedence over the mitzva of** consummating the **levirate marriage.**
 
 The *gemara* now reports a further development. *Rami bar Chama* says in the name of *Rav Yitzchak*: *chazru lomar mitzvas yibum kodemes lemitzvas chalitzah* — they went back to saying that the *mitzvah* of *yibum* comes first. This appears to undo the entire premise of the preceding discussion, reverting to the original formulation of the *mishna*.
 
+> **Hebrew/Aramaic:** אָמַר רָמֵי בַּר חָמָא אָמַר רַבִּי יִצְחָק: חָזְרוּ לוֹמַר מִצְוַת יִבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה. אֲמַר לֵיהּ רַב נַחְמָן בַּר יִצְחָק: אִכַּשּׁוּר דָּרֵי?
+> **Translation:** **Rami bar Ḥama said** that **Rabbi Yitzḥak said:** In later generations **they went back to** once again **saying** that **the mitzva of** consummating the **levirate marriage takes precedence over the mitzva of** performing ***ḥalitza*. Rav Naḥman bar Yitzḥak said to him** in wonderment: Could it be that **the** later **generations improved** their spiritual level and now intend to consummate the levirate marriage solely for sake of fulfilling the mitzva?
+
 ### Spiritual Capacity
+
 
 *Rav Nachman bar Yitzchak* challenges this immediately: *achshar daray*? Have the generations suddenly improved? If the reason for reversing the priority was that people were no longer performing *yibum leshem mitzvah*, and *yeridat hadorot* — the general decline across generations — is a familiar assumption, on what basis could a later generation simply revert to the original practice?
 
 ### Shift in Views
 
-> **Hebrew/Aramaic:** מֵעִיקָּרָא סָבְרִי לַהּ כְּאַבָּא שָׁאוּל, וּלְבַסּוֹף סָבְרִי לַהּ כְּרַבָּנַן.
->
+> **Hebrew/Aramaic:** מֵעִיקָּרָא סָבְרִי לַהּ כְּאַבָּא שָׁאוּל, וּלְבַסּוֹף סָבְרִי לַהּ כְּרַבָּנַן.
 > **Translation:** The Gemara explains that this does not mean that the later generations improved themselves; rather, **initially they held in accordance with** the opinion of **Abba Shaul,** and so the mitzva of performing *ḥalitza* took precedence, **and in the end they held in accordance with** the opinion of **the Rabbis,** and so the mitzva of consummating the levirate marriage took precedence.
 
 The answer is not that the generations improved morally or spiritually. Rather, the shift reflects a change in which *tannaitic* position is being followed. *Me'ikara savri lah ke'Abba Shaul* — originally they held in accordance with *Abba Shaul*, who says that *kavana*, intent, is determinative. *Ulevasof savri lah keRabbanan* — later they reverted to holding like the *Rabbanan*, who say that intent is legally irrelevant to the validity of *yibum*. The reversal was not demographic; it was doctrinal.
 
 ### Abba Shaul
 
-> **Hebrew/Aramaic:** דְּתַנְיָא, אַבָּא שָׁאוּל אוֹמֵר: הַכּוֹנֵס אֶת יְבִמְתּוֹ לְשֵׁם נוֹי, וּלְשׁוּם אִישׁוּת, וּלְשׁוּם דָּבָר אַחֵר — כְּאִילּוּ פּוֹגֵעַ בְּעֶרְוָה. וְקָרוֹב אֲנִי בְּעֵינַי לִהְיוֹת הַוָּלָד מַמְזֵר. וַחֲכָמִים אוֹמְרִים: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִכׇּל מָקוֹם.
->
-> **Translation:** **As it is taught** in a *baraita*: **Abba Shaul says** that **one who consummates** a levirate marriage **with his *yevama* for the sake of** her **beauty, or for the sake of marital relations, or for the sake of another matter,** e.g., he wishes to inherit her husband's estate, **it is** considered **as though he encountered a forbidden relation, and I am inclined to view the offspring** born from such a union **as a *mamzer*.** Since the prohibition against engaging in relations with one's brother's wife is overridden only for the sake of fulfilling the mitzva of consummating the levirate marriage, when one does not have the intention to fulfill that mitzva, the baseline prohibition applies, and so any offspring from the union will be *mamzerim*. **The Rabbis say:** The Torah states: **"Her brother-in-law will have intercourse with her"** (Deuteronomy 25:5), which indicates that he should do so **in any case,** even if his intentions are not solely for the sake of fulfilling the mitzva.
+> **Hebrew/Aramaic:** דְּתַנְיָא, אַבָּא שָׁאוּל אוֹמֵר: הַכּוֹנֵס אֶת יְבִמְתּוֹ לְשֵׁם נוֹי, וּלְשׁוּם אִישׁוּת, וּלְשׁוּם דָּבָר אַחֵר — כְּאִילּוּ פּוֹגֵעַ בְּעֶרְוָה. וְקָרוֹב אֲנִי בְּעֵינַי לִהְיוֹת הַוָּלָד מַמְזֵר. וַחֲכָמִים אוֹמְרִים: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִכׇּל מָקוֹם.
+> **Translation:** **As it is taught** in a *baraita*: **Abba Shaul says** that **one who consummates** a levirate marriage **with his *yevama* for the sake of** her **beauty, or for the sake of marital relations, or for the sake of another matter,** e.g., he wishes to inherit her husband’s estate, **it is** considered **as though he encountered a forbidden relation, and I am inclined to view the offspring** born from such a union **as a *mamzer*.** Since the prohibition against engaging in relations with one’s brother’s wife is overridden only for the sake of fulfilling the mitzva of consummating the levirate marriage, when one does not have the intention to fulfill that mitzva, the baseline prohibition applies, and so any offspring from the union will be *mamzerim*. **The Rabbis say:** The Torah states: **“Her brother-in-law will have intercourse with her”** (Deuteronomy 25:5), which indicates that he should do so **in any case,** even if his intentions are not solely for the sake of fulfilling the mitzva.
 
 The *gemara* now presents the fundamental dispute directly. *Abba Shaul* says: one who takes his *yevamah leshem noi*, for her physical attractiveness, *leshum ishut*, for the social status of marriage — *Tosafos* explains this as a desire for the standing that comes with being a married man — or *leshum davar acher*, for any other ulterior motive, most obviously the inheritance of the brother's estate: *ke'ilu pogea be'ervah*, it is as if he is engaging in a forbidden sexual relationship. And *Abba Shaul* adds: *vekarov ani be'einai lihyot havlad mamzer* — I would consider the child close to being a *mamzer*.
 
@@ -128,23 +130,31 @@ One might observe that even on *Abba Shaul*'s view, one could argue that regardl
 
 ### Rabbis' Position
 
-> **Hebrew/Aramaic:** מַאן תְּנָא לְהָא דְּתָנוּ רַבָּנַן: ״יְבָמָהּ יָבֹא עָלֶיהָ״ — מִצְוָה! שֶׁבַּתְּחִלָּה הָיְתָה עָלָיו בִּכְלַל הֶיתֵּר. נֶאֶסְרָה, וְחָזְרָה וְהוּתְּרָה, יָכוֹל תַּחְזוֹר לְהֶתֵּירָהּ הָרִאשׁוֹן — תַּלְמוּד לוֹמַר: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִצְוָה.
->
-> **Translation:** The Gemara asks: **Who** is the *tanna* who **taught** the following *baraita* **that the Sages taught:** The Torah states: **"Her brother-in-law will have intercourse with her"** (Deuteronomy 25:5); this is to be considered **a mitzva, as initially,** before she was married to his brother, **she was among** all other women who are **permitted to him,** and then when she married his brother **she became forbidden** to him, **and** when his brother died without offspring **she reverted** from her forbidden status **and became permitted to him.** One **might** have thought that **she would revert to her original permitted status;** therefore, **the verse states: "Her brother-in-law will have intercourse with her"** to teach that it is in fact **a mitzva** to do so.
-
 *Vachachamim omrim* — the *Rabbanan* disagree entirely. *Yevamah yavo aleiha mikol makom* — the Torah says he shall have relations with her, full stop. The halakhic permission established by the *mitzvah* of *yibum* does not depend on the actor's internal religious motivation. The Torah established an act; when that act is performed, the permission applies, regardless of whether the man's *kavana* was *leshem shamayim* or otherwise. Intent may be a religious desideratum, but it is not a halakhic condition for the validity of *yibum* according to the *Rabbanan*.
 
 ### Braita Source
 
+> **Hebrew/Aramaic:** מַאן תְּנָא לְהָא דְּתָנוּ רַבָּנַן: ״יְבָמָהּ יָבֹא עָלֶיהָ״ — מִצְוָה! שֶׁבַּתְּחִלָּה הָיְתָה עָלָיו בִּכְלַל הֶיתֵּר. נֶאֶסְרָה, וְחָזְרָה וְהוּתְּרָה, יָכוֹל תַּחְזוֹר לְהֶתֵּירָהּ הָרִאשׁוֹן — תַּלְמוּד לוֹמַר: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִצְוָה.
+> **Translation:** The Gemara asks: **Who** is the *tanna* who **taught** the following *baraita* **that the Sages taught:** The Torah states: **“Her brother-in-law will have intercourse with her”** (Deuteronomy 25:5); this is to be considered **a mitzva, as initially,** before she was married to his brother, **she was among** all other women who are **permitted to him,** and then when she married his brother **she became forbidden** to him, **and** when his brother died without offspring **she reverted** from her forbidden status **and became permitted to him.** One **might** have thought that **she would revert to her original permitted status;** therefore, **the verse states: “Her brother-in-law will have intercourse with her”** to teach that it is in fact **a mitzva** to do so.
+
+> **Hebrew/Aramaic:** מַאן תַּנָּא? אָמַר רַבִּי יִצְחָק בַּר אַבְדִּימִי: אַבָּא שָׁאוּל הִיא. וְהָכִי קָאָמַר: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִצְוָה. שֶׁבַּתְּחִלָּה הָיְתָה עָלָיו בִּכְלַל הֶיתֵּר. רָצָה לְשֵׁם נוֹי — כּוֹנְסָהּ, רָצָה לְשׁוּם אִישׁוּת — כּוֹנְסָהּ.
+> **Translation:** **Who** is the *tanna* **who taught** this *baraita*? **Rav Yitzḥak bar Avdimi said: It is Abba Shaul, and this is what** the *baraita* **is saying: “Her brother-in-law will have intercourse with her”** teaches that it is permitted to engage in intercourse with her only when his intention is to fulfill **a mitzva, as initially,** before she was married to his brother, **she** was **among** all other women who are **permitted to him,** and so, if **he wished,** then even **for the sake of** her **beauty he** was permitted to **marry her, or** similarly, if **he wished,** then even **for the sake of marital relations he** was permitted to **marry her.**
+
+> **Hebrew/Aramaic:** נֶאֶסְרָה, חָזְרָה וְהוּתְּרָה. יָכוֹל תַּחְזוֹר לְהֶתֵּירָהּ הָרִאשׁוֹן — תַּלְמוּד לוֹמַר: ״יְבָמָהּ יָבֹא עָלֶיהָ״, לְמִצְוָה.
+> **Translation:** When she married his brother **she became forbidden** to him, and when his brother died without offspring **she reverted** from her forbidden status **and became permitted to him.** One **might** have thought that **she would** fully **revert to her original permitted status;** therefore, **the verse states: “Her brother-in-law will have intercourse with her”** to teach that he is permitted to marry her only when his intention is **for the mitzva.**
+
+> **Hebrew/Aramaic:** רָבָא אָמַר: אֲפִילּוּ תֵּימָא רַבָּנַן, וְהָכִי קָאָמַר: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִצְוָה. שֶׁבַּתְּחִלָּה הָיְתָה בִּכְלַל הֶיתֵּר. רָצָה כּוֹנְסָהּ, רָצָה אֵינוֹ כּוֹנְסָהּ.
+> **Translation:** **Rava said: You** can **even say** that the *baraita* is in accordance with **the Rabbis, and this is what** the *baraita* **is saying: “Her brother-in-law will have intercourse with her”** indicates that it is **a mitzva** to consummate the levirate marriage, **as initially,** before she was married to his brother, **she was among** all other women who are **permitted to him,** and so if **he wished, he** was permitted to **marry her, or** if **he wished, he** was permitted to choose **not to marry her.**
+
+> **Hebrew/Aramaic:** נֶאֶסְרָה, חָזְרָה וְהוּתְּרָה. יָכוֹל תַּחְזוֹר לְהֶתֵּירָהּ הָרִאשׁוֹן, רָצָה — כּוֹנְסָהּ, רָצָה — אֵינוֹ כּוֹנְסָהּ. רָצָה אֵינוֹ כּוֹנְסָהּ?
+> **Translation:** When she married his brother **she became forbidden** to him, and when his brother died without offspring **she reverted** from her forbidden status **and became permitted to him.** One **might** have thought that **she would** fully **revert to her original permitted status,** so that if **he wishes, he may marry her, or** if **he wishes, he may** choose **not to marry her.**
+
+> **Hebrew/Aramaic:** הָא אֲגִידָה בֵּיהּ, בִּכְדִי תִּיפּוֹק? אֶלָּא אֵימָא: רָצָה — כּוֹנְסָהּ, רָצָה — חוֹלֵץ לָהּ, תַּלְמוּד לוֹמַר: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִצְוָה.
+> **Translation:** The Gemara interjects that the logic of this last statement seems implausible: Does he really have the option to do as he wishes? **Isn’t she bound to him** with a levirate bond? Could it be that **she will be released** from that bond **without** doing **anything? Rather,** emend the previous argument and instead **say:** One might think that if **he wishes, he may marry her, or** if **he wishes** not to do so, **he performs *ḥalitza* with her.** Therefore, **the verse states: “Her brother-in-law will have intercourse with her,”** to teach that it is now **a mitzva** to consummate the marriage, and doing so is preferable to performing *ḥalitza*.
+
 The *gemara* now asks: *man tanna leha detanu Rabbanan*? Which *tanna* is the source of the *Rabbanan*'s position? It then cites a *braita* that formulates the issue in structural terms: the *yevamah* was originally *mutar* to the *yabam* before she married his brother; then she became *assur*; then upon the brother's death she became *mutar* again. The *braita* asks: does she revert to her original status of full *heter*? The answer is: *talmud lomar yevamah yavo aleiha mitzvah* — the Torah says the *yabam* shall come to her as a *mitzvah*, indicating that the current *heter* is not identical to the original one.
 
 *Yitzchak bar Avdimi* reads this *braita* as representing *Abba Shaul*'s position. The *braita* is saying that returning to *heter* after the brother's death does not restore the original unconditioned permission: now the act must be done *lemitzvah*, for the sake of the *mitzvah*, as *Abba Shaul* requires.
-
-### Rava's Reading
-
-> **Hebrew/Aramaic:** רָבָא אָמַר: אֲפִילּוּ תֵּימָא רַבָּנַן, וְהָכִי קָאָמַר: ״יְבָמָהּ יָבֹא עָלֶיהָ״, מִצְוָה. שֶׁבַּתְּחִלָּה הָיְתָה בִּכְלַל הֶיתֵּר. רָצָה כּוֹנְסָהּ, רָצָה אֵינוֹ כּוֹנְסָהּ.
->
-> **Translation:** **Rava said: You** can **even say** that the *baraita* is in accordance with **the Rabbis, and this is what** the *baraita* **is saying: "Her brother-in-law will have intercourse with her"** indicates that it is **a mitzva** to consummate the levirate marriage, **as initially,** before she was married to his brother, **she was among** all other women who are **permitted to him,** and so if **he wished, he** was permitted to **marry her, or** if **he wished, he** was permitted to choose **not to marry her.**
 
 *Rava*, however, reads the *braita* as consistent with the *Rabbanan*'s position. His reading reframes the *hava amina* entirely. Originally, before she married the brother, the man had no obligation toward this woman: *ratza konsah, ratza eino konsah* — if he wished to marry her he could, if not he need not. After the brother's death, *zika* — the bond of *yibum* — attaches. One cannot imagine that he might simply walk away; she is *agida bei*, bound to him. So the *hava amina* is not that he can walk away altogether, but rather that perhaps *yibum* and *chalitzah* are fully equivalent options, as unconditioned as his original relationship to her. The Torah answers: no, *yibum* is the primary *mitzvah*. This is *Rava*'s reading for the *Rabbanan* — the verse prioritizes *yibum* over *chalitzah*, not as a condition of intent, but as a statement of halakhic hierarchy.
 
@@ -152,53 +162,74 @@ The *gemara* now asks: *man tanna leha detanu Rabbanan*? Which *tanna* is the so
 
 ## Parallel Examples
 
+
+
 ### Rava's Reading
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא לְרָבָא דְּאָמַר הָא מַנִּי רַבָּנַן הִיא — הָכָא, הָכִי קָאָמַר: ״מַצּוֹת תֵּאָכֵל בְּמָקוֹם קָדוֹשׁ״ — מִצְוָה. שֶׁבַּתְּחִלָּה הָיְתָה עָלָיו בִּכְלַל הֶיתֵּר, רָצָה — אוֹכְלָהּ, רָצָה — אֵינוֹ אוֹכְלָהּ (נֶאֶסְרָה, חָזְרָה וְהוּתְּרָה, יָכוֹל תַּחְזוֹר לְהֶיתֵּירָהּ הָרִאשׁוֹן), רָצָה — אוֹכְלָהּ, רָצָה — אֵינוֹ אוֹכְלָהּ.
->
-> **Translation:** The Gemara asks: **Granted, according to Rava, who said:** In accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with the opinion of **the Rabbis;** according to him, **here,** in the first clause, **this is what** the *baraita* **is saying: "It shall be eaten unleavened in a sacred place"** indicates that it is **a mitzva** for the priest who prepares the offering to eat it himself. **As, initially,** before the flour was consecrated, **it was among** all other foods that are **permitted to him:** If **he wishes, he may eat it, and if he wishes, he may** choose **not** to **eat it.** When the flour was consecrated, **it became forbidden** to him, **and** then once a handful was brought on the altar, **it reverted** from its forbidden status **and became permitted to him.** One **might** have thought that **it would revert to its original permitted status,** so that if **he wishes, he may eat it, and** if **he wishes, he may** choose **not** to **eat it.**
+> **Hebrew/Aramaic:** אֵימָא רֵישָׁא: ״מַצּוֹת תֵּאָכֵל בְּמָקוֹם קָדוֹשׁ״ — מִצְוָה.
+> **Translation:** The *baraita* under discussion also presents another case that follows a similar model of initially being permitted, then prohibited, and then once again permitted. The Gemara analyzes the explanations of Rav Yitzḥak and Rava based on that clause of the *baraita*: **Say the first clause** and try to explain it in a way consistent with the various explanations of the latter clause: The Torah states concerning the meal-offerings eaten by the priests: **“It shall be eaten unleavened in a sacred place”** (Leviticus 6:9); this indicates that doing so is **a mitzva,**
+
+> **Hebrew/Aramaic:** שֶׁבַּתְּחִלָּה הָיְתָה עָלָיו בִּכְלַל הֶיתֵּר. נֶאֶסְרָה, וְחָזְרָה וְהוּתְּרָה, יָכוֹל תַּחְזוֹר לְהֶיתֵּירָהּ הָרִאשׁוֹן — תַּלְמוּד לוֹמַר: ״מַצּוֹת תֵּאָכֵל בְּמָקוֹם קָדוֹשׁ״ — מִצְוָה.
+> **Translation:** **as initially,** before the flour was consecrated, **it was among** all other foods that are **permitted to him,** and then when the flour was consecrated as a meal-offering, **it became forbidden** to him, **and** then once a handful of the offering was brought on the altar, **it reverted** from its forbidden status **and became permitted to him.** One **might** have thought that **it would revert to its original permitted status;** therefore, **the verse states: “It shall be eaten unleavened in a sacred place”** (Leviticus 6:9), which indicates that it is **a mitzva** to eat it.
 
 Having established *Rava*'s reading of the *braita* in favor of the *Rabbanan*, the *gemara* tests this reading against the parallel case the *braita* employs: the *mincha* offering eaten by the *kohanim* as *matzot* in a sacred place. The *braita* applies the identical logical structure — original *heter*, then *issur*, then return to *heter* — asking whether the flour reverts to its original unconditioned status. The verse answers: *matzot teiachel b'makom kadosh mitzvah* — it shall be eaten as *matzot* in a sacred place, as a *mitzvah*. On *Rava*'s reading, this is a structural parallel: just as *yibum* is the prioritized option over *chalitzah*, here there is a prioritized manner of eating the *mincha*, with a second-grade alternative that is still valid.
 
 ### Matza Case
 
-> **Hebrew/Aramaic:** רָצָה אֵינוֹ אוֹכְלָהּ?! וְהָכְתִיב: ״וְאָכְלוּ אֹתָם אֲשֶׁר כֻּפַּר בָּהֶם״, מְלַמֵּד שֶׁהַכֹּהֲנִים אוֹכְלִים וּבְעָלִים מִתְכַּפְּרִין!
->
-> **Translation:** The Gemara interjects that the logic of this last statement seems implausible: Could it be that if **he wishes, he may** choose **not** to **eat it? But isn't it written: "And they shall eat those things through which atonement is attained"** (Exodus 29:33), which **teaches that the priests eat** portions of the offering **and** by their doing so **the owners** who brought the offering **attain atonement?** Clearly, then, the eating of the offerings is not volitional.
+> **Hebrew/Aramaic:** בִּשְׁלָמָא לְרָבָא דְּאָמַר הָא מַנִּי רַבָּנַן הִיא — הָכָא, הָכִי קָאָמַר: ״מַצּוֹת תֵּאָכֵל בְּמָקוֹם קָדוֹשׁ״ — מִצְוָה. שֶׁבַּתְּחִלָּה הָיְתָה עָלָיו בִּכְלַל הֶיתֵּר, רָצָה — אוֹכְלָהּ, רָצָה — אֵינוֹ אוֹכְלָהּ (נֶאֶסְרָה, חָזְרָה וְהוּתְּרָה, יָכוֹל תַּחְזוֹר לְהֶיתֵּירָהּ הָרִאשׁוֹן), רָצָה — אוֹכְלָהּ, רָצָה — אֵינוֹ אוֹכְלָהּ.
+> **Translation:** The Gemara asks: **Granted, according to Rava, who said:** In accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with the opinion of **the Rabbis;** according to him, **here,** in the first clause, **this is what** the *baraita* **is saying: “It shall be eaten unleavened in a sacred place”** indicates that it is **a mitzva** for the priest who prepares the offering to eat it himself. **As, initially,** before the flour was consecrated, **it was among** all other foods that are **permitted to him:** If **he wishes, he may eat it, and if he wishes, he may** choose **not** to **eat it.** When the flour was consecrated, **it became forbidden** to him, **and** then once a handful was brought on the altar, **it reverted** from its forbidden status **and became permitted to him.** One **might** have thought that **it would revert to its original permitted status,** so that if **he wishes, he may eat it, and** if **he wishes, he may** choose **not** to **eat it.**
+
+> **Hebrew/Aramaic:** רָצָה אֵינוֹ אוֹכְלָהּ?! וְהָכְתִיב: ״וְאָכְלוּ אֹתָם אֲשֶׁר כֻּפַּר בָּהֶם״, מְלַמֵּד שֶׁהַכֹּהֲנִים אוֹכְלִים וּבְעָלִים מִתְכַּפְּרִין!
+> **Translation:** The Gemara interjects that the logic of this last statement seems implausible: Could it be that if **he wishes, he may** choose **not** to **eat it? But isn’t it written: “And they shall eat those things through which atonement is attained”** (Exodus 29:33), which **teaches that the priests eat** portions of the offering **and** by their doing so **the owners** who brought the offering **attain atonement?** Clearly, then, the eating of the offerings is not volitional.
+
+> **Hebrew/Aramaic:** אֶלָּא: רָצָה — הוּא אוֹכְלָהּ, רָצָה — כֹּהֵן אַחֵר אוֹכְלָהּ, תַּלְמוּד לוֹמַר: ״מַצּוֹת תֵּאָכֵל בְּמָקוֹם קָדוֹשׁ״ — מִצְוָה.
+> **Translation:** **Rather,** the *baraita* should be understood as saying: One might have thought that if **he wishes, he may eat it, and if he wishes, another priest may eat it;** therefore, **the verse states: “It shall be eaten unleavened in a sacred place”** (Leviticus 6:9), to teach that it is **a mitzva** for the priest who prepares the offering to eat it himself. This explanation of the first clause of the *baraita* is entirely consistent with Rava’s explanation of the latter clause concerning the mitzvot of levirate marriage. In his opinion, both clauses demonstrate that there is a mitzva to perform an action in a case where one might have thought there was none.
+
+> **Hebrew/Aramaic:** אֶלָּא לְרַב יִצְחָק בַּר אַבְדִּימִי, דְּאָמַר אַבָּא שָׁאוּל הִיא, הָכָא מַאי תְּרֵי גַוְונֵי אִיכָּא?
+> **Translation:** **However, according to Rav Yitzḥak bar Avdimi, who said** that the *baraita* **is** in accordance with the opinion of **Abba Shaul** and explained the *baraita* accordingly as teaching the correct manner in which the mitzva is to be performed, **here,** in the first clause concerning the meal-offering, **what two manners** of eating **are there** of which one would be prohibited?
 
 How does this parallel work in practice? The *gemara* works through several possibilities for what the two "grades" of eating might be. The initial *heter* was that the flour, before being sanctified, could be eaten by anyone, in any manner, for any reason — *ratza ochla ratza eino ochla*, one could eat it or not eat it. After sanctification it becomes *assur*. After the *kometz* is brought, it becomes *mutar* again for the *kohanim*. The *hava amina* that it might revert to the original equivalence of options is dismissed by the *gemara*: how could one imagine that the *kohen* might simply choose not to eat it? The verse *ve'achlu otam asher kuppar bahem* — "they shall eat those through which atonement was achieved" — establishes that the *kohanim*'s eating is obligatory, as it is through their eating that the owner's atonement is effected, *hakohanim ochlim ube'alim mitchaprin*.
 
+So the *hava amina* is reframed: perhaps the specific *kohen* who performed the *avoda* and brought the *kometz* could choose to have a different *kohen* eat the *mincha* instead. The verse answers that there is a *mitzvah davka* with him — he should eat it himself, in priority over another *kohen*. This parallels the *yibum* case: just as *yibum* is preferred over *chalitzah*, this *kohen* eating is preferred over another *kohen* eating. Both options are valid; one is prioritized. And just as *Rava* reads the *yibum* case in terms of *kavanah* — the quality of intention distinguishing the prioritized act from the secondary one — the structural logic here tracks that same concern. That is how the parallel works according to *Rava*.
+
+The difficulty, however, is with *Abba Shaul*'s reading. On *Rava*'s account, the two grades are two distinct acts — *yibum* versus *chalitzah*, or this *kohen* eating versus another *kohen* eating — and the verse tells us to prioritize one. But *Abba Shaul* is not distinguishing between two acts; he is distinguishing between two characters of the same act. The question, then, is *hacha mai trei gavne ika* — what are the two variations of eating the *mincha* such that one manner is preferable to the other, in a way that mirrors *Abba Shaul*'s distinction between *yibum leshem mitzvah* and *yibum shelo leshem mitzvah*?
+
 ### False Alternatives
 
-> **Hebrew/Aramaic:** אֶלָּא: רָצָה — הוּא אוֹכְלָהּ, רָצָה — כֹּהֵן אַחֵר אוֹכְלָהּ, תַּלְמוּד לוֹמַר: ״מַצּוֹת תֵּאָכֵל בְּמָקוֹם קָדוֹשׁ״ — מִצְוָה.
->
-> **Translation:** **Rather,** the *baraita* should be understood as saying: One might have thought that if **he wishes, he may eat it, and if he wishes, another priest may eat it;** therefore, **the verse states: "It shall be eaten unleavened in a sacred place"** (Leviticus 6:9), to teach that it is **a mitzva** for the priest who prepares the offering to eat it himself. This explanation of the first clause of the *baraita* is entirely consistent with Rava's explanation of the latter clause concerning the mitzvot of levirate marriage. In his opinion, both clauses demonstrate that there is a mitzva to perform an action in a case where one might have thought there was none.
+> **Hebrew/Aramaic:** וְכִי תֵּימָא: רָצָה — לְתֵאָבוֹן אוֹכְלָהּ, רָצָה — אֲכִילָה גַּסָּה אוֹכְלָהּ, אֲכִילָה גַּסָּה מִי שְׁמָהּ אֲכִילָה? וְהָאָמַר רֵישׁ לָקִישׁ: הָאוֹכֵל אֲכִילָה גַּסָּה בְּיוֹם הַכִּפּוּרִים פָּטוּר מִ״לֹּא תְעֻנֶּה״!
+> **Translation:** **And if you would say** that the *baraita* might refer to two types of eating and is saying: One might have thought that if **he wishes he may eat it with an appetite, and if he wishes he may eat it** though an act of **excessive eating,** forcing himself to eat despite already being fully satiated; perforce this is not correct, as does **excessive eating have the** legal **status of** an act of **eating? Didn’t Reish Lakish say: One who eats** through an act of **excessive eating on Yom Kippur is exempt from** the punishment of *karet* indicated in the verse: “For whatever soul it be that **shall not be afflicted** in that same day shall be cut off from his people” (Leviticus 23:29)? From this it is apparent that excessive eating does not have the legal status of an act of eating.
 
-So the *hava amina* is reframed: perhaps the specific *kohen* who performed the *avoda* and brought the *kometz* could choose to have a different *kohen* eat the *mincha* instead. The verse answers that there is a *mitzvah davka* with him — he should eat it himself, in priority over another *kohen*. This parallels the *yibum* case: just as *yibum* is preferred over *chalitzah*, this *kohen* eating is preferred over another *kohen* eating. Both options are valid; one is prioritized.
+> **Hebrew/Aramaic:** אֶלָּא: רָצָה — מַצָּה אוֹכְלָהּ, רָצָה — חָמֵץ אוֹכְלָהּ.
+> **Translation:** The Gemara therefore suggests a different interpretation of the *baraita* that is consistent with Rav Yitzḥak’s opinion: **Rather,** say the *baraita* is referring to two different manners in which the meal-offering was prepared: If **he wishes he may eat it unleavened,** and if **he wishes he may eat it leavened.**
+
+
+Having established the structural shape of the parallel, the *gemara* must now identify the actual two grades in the *matza* case that correspond to *yibum* and *chalitzah* in *Abba Shaul*'s reading — since *Rava* reads it for the *Rabbanan*, but the *braita* itself needs to make sense on *Abba Shaul*'s account as well. On *Abba Shaul*'s reading, the two variations are *yibum leshem mitzvah* (the higher grade) and *yibum shelo leshem mitzvah* (the lower but still technically valid grade). What is the parallel in the *mincha* case?
+
+The *gemara* first considers: perhaps eating *achilah gassah* — eating when completely sated and forcing oneself — is the lower grade. This is rejected: *achilah gassah mi shma achilah*? Forced eating is not eating at all. *Resh Lakish* rules that one who eats *achilah gassah* on *Yom Kippur* is *patur*, since the Torah prohibits *inui*, affliction, which presupposes that normal eating would provide genuine satisfaction. *Tosafos* notes that there are degrees of *achilah gassah*: mild overeating ("oh, perhaps just a bit of dessert") does not reach the level that is halakhically exempt on *Yom Kippur*; only eating when truly unable to experience any satisfaction does. But either way, the most extreme form of *achilah gassah* cannot serve as a lower grade of eating, because it is not eating at all.
+
+The *gemara* then considers: perhaps the two grades are eating it as *matza* versus eating it as *chametz*. This too is dismissed: eating the *mincha* as *chametz* is simply forbidden. *Resh Lakish* derives from the verse *lo te'afeh chametz chelkam* that even the priestly portion of a *mincha* may not be baked as *chametz*. Since *chametz* is not a permitted option at all, it cannot be the lower-grade alternative.
 
 ### Scalded Matza
 
-> **Hebrew/Aramaic:** וְכִי תֵּימָא: רָצָה — לְתֵאָבוֹן אוֹכְלָהּ, רָצָה — אֲכִילָה גַּסָּה אוֹכְלָהּ, אֲכִילָה גַּסָּה מִי שְׁמָהּ אֲכִילָה? וְהָאָמַר רֵישׁ לָקִישׁ: הָאוֹכֵל אֲכִילָה גַּסָּה בְּיוֹם הַכִּפּוּרִים פָּטוּר מִ״לֹּא תְעֻנֶּה״!
->
-> **Translation:** **And if you would say** that the *baraita* might refer to two types of eating and is saying: One might have thought that if **he wishes he may eat it with an appetite, and if he wishes he may eat it** though an act of **excessive eating,** forcing himself to eat despite already being fully satiated; perforce this is not correct, as does **excessive eating have the** legal **status of** an act of **eating? Didn't Reish Lakish say: One who eats** through an act of **excessive eating on Yom Kippur is exempt from** the punishment of *karet* indicated in the verse: "For whatever soul it be that **shall not be afflicted** in that same day shall be cut off from his people" (Leviticus 23:29)? From this it is apparent that excessive eating does not have the legal status of an act of eating.
+> **Hebrew/Aramaic:** וְהָכְתִיב: ״לֹא תֵאָפֶה חָמֵץ חֶלְקָם״, וְאָמַר רֵישׁ לָקִישׁ: וַאֲפִילּוּ חֶלְקָם לֹא תֵאָפֶה חָמֵץ! אֶלָּא: רָצָה — מַצָּה אוֹכְלָהּ, רָצָה — חָלוּט אוֹכְלָהּ.
+> **Translation:** The Gemara interjects that the logic of this last statement seems implausible: Could it be that if he wishes, the offering could be leavened? **But isn’t it written: “Their portion shall not be baked leavened”** (Leviticus 6:10), **and Reish Lakish said** that both the handful brought on the altar **and even the** priest’s **portion shall not be baked leavened? Rather,** the *baraita* should be understood as saying: One might have thought that if **he wishes he may eat it unleavened,** and if **he wishes he may eat it** even if it was prepared by being **boiled.** Therefore, the verse taught that one must eat it unleavened. Understood in this way, this clause of the *baraita* is also consistent with Rav Yitzḥak’s opinion.
 
-Having established that scalded *matza* is valid but second-grade for the *mincha*, the *gemara* asks *l'mai hilchata*? — beyond the structural parallel, what is the practical halakhic implication of declaring *chalut matza*? The answer: *lomar she'yotzei bo yedei chovato bePesach* — one may use such scalded *matza* to fulfill the obligation of eating *matza* on Pesach. Even though it is a second-grade option for the *mincha*, for other contexts requiring *matza* it is fully adequate: *af al pi d'chalitah mei'ikara*, even if the grain was scalded at the outset, *keivan d'hadar afyeih batenur*, since it was subsequently baked in an oven, *lechem oni karina bei*, we call it "poor person's bread," and one fulfills one's Pesach obligation with it.
+> **Hebrew/Aramaic:** הַאי חָלוּט הֵיכִי דָּמֵי? אִי מַצָּה הִיא — הָא מַצָּה הִיא, וְאִי לָא מַצָּה הִיא — ״מַצּוֹת״ אָמַר רַחֲמָנָא!
+> **Translation:** The Gemara asks: With regard to **this** possibility of eating the meal-offering **boiled, what are the circumstances,** i.e., how is it classified? **If it is** considered to be **unleavened** because it is presumed that the flour never managed to rise before it was cooked, **then it is unleavened** and there is no reason to prohibit its use; **and if it is not** considered to be **unleavened** because it is presumed that the flour managed to rise before it was cooked, then it is certainly disqualified from use because **the Merciful One states** that the offering must be **“unleavened”** (Leviticus 10:12). How, then, could one ever have questioned whether it is permitted to eat the meal-offering if it was boiled?
 
-> **Hebrew/Aramaic:** אֶלָּא: רָצָה — מַצָּה אוֹכְלָהּ, רָצָה — חָלוּט אוֹכְלָהּ.
->
-> **Translation:** The Gemara therefore suggests a different interpretation of the *baraita* that is consistent with Rav Yitzḥak's opinion: **Rather,** say the *baraita* is referring to two different manners in which the meal-offering was prepared: If **he wishes he may eat it unleavened,** and if **he wishes he may eat it boiled.**
-
-> **Hebrew/Aramaic:** הַאי חָלוּט הֵיכִי דָּמֵי? אִי מַצָּה הִיא — הָא מַצָּה הִיא, וְאִי לָא מַצָּה הִיא — ״מַצּוֹת״ אָמַר רַחֲמָנָא!
->
-> **Translation:** The Gemara asks: With regard to **this** possibility of eating the meal-offering **boiled, what are the circumstances,** i.e., how is it classified? **If it is** considered to be **unleavened** because it is presumed that the flour never managed to rise before it was cooked, **then it is unleavened** and there is no reason to prohibit its use; **and if it is not** considered to be **unleavened** because it is presumed that the flour managed to rise before it was cooked, then it is certainly disqualified from use because **the Merciful One states** that the offering must be **"unleavened"** (Leviticus 10:12). How, then, could one ever have questioned whether it is permitted to eat the meal-offering if it was boiled?
-
-> **Hebrew/Aramaic:** לָא, לְעוֹלָם אֵימָא לָךְ מַצָּה הִיא, וּלְהָכִי תְּנָא בֵּיהּ קְרָא — לְעַכֵּב.
->
+> **Hebrew/Aramaic:** לָא, לְעוֹלָם אֵימָא לָךְ מַצָּה הִיא, וּלְהָכִי תְּנָא בֵּיהּ קְרָא — לְעַכֵּב.
 > **Translation:** The Gemara explains: **No; actually, I** could **say to you** that the boiled meal-offering **is** considered to be **unleavened, and** nevertheless it is disqualified because it is **for this** very reason that **the verse repeated** the requirement that it be unleavened, in order **to invalidate** a meal-offering that was boiled.
 
-> **Hebrew/Aramaic:** אֶלָּא חָלוּט מַצָּה הִיא דְּקָאָמְרִינַן, לְמַאי הִלְכְתָא? לוֹמַר שֶׁאָדָם יוֹצֵא בָּהּ יְדֵי חוֹבָתוֹ בְּפֶסַח, אַף עַל פִּי דְּחַלְטֵיהּ מֵעִיקָּרָא, כֵּיוָן דַּהֲדַר אַפְיֵיהּ בְּתַנּוּר — ״לֶחֶם עוֹנִי״ קָרֵינָא בֵּיהּ, וְאָדָם יוֹצֵא בָּהּ יְדֵי חוֹבָתוֹ בַּפֶּסַח.
->
-> **Translation:** The Gemara asks: **But** if boiled flour is invalid as a meal offering, then with regard to this statement **that we said** that **boiled** flour **is unleavened, for what *halakha*** is it relevant? The Gemara answers: It is **to say that a person fulfills his obligation with it on Passover.** This is because **even though he initially boiled it, since he subsequently baked it in an oven, it is called "bread of affliction"** (Deuteronomy 16:3), **and** therefore **a person fulfills his obligation with it on Passover.**
+The *gemara* arrives at the correct answer: the two grades are *matza* baked in the ordinary fashion versus *chalut* — flour that has been scalded prior to baking. *Chalita* is a process that alters the texture of the dough without necessarily rendering it *chametz*. If after scalding the dough is baked, does the result still qualify as *matza*? The *gemara* raises the question: *im matzah hi hamatzah hi* — if it still counts as *matza*, then why is it a second-grade option? And if it does not count as *matza*, then one is not *yotzei* the obligation and the Torah would not permit it at all.
+
+The resolution is: *lo, le'olam eima lach matzah hi* — it is indeed *matza*, but of a lesser grade. The verse *matzot ye'achel* specifies this to teach that there are two tiers of *matza*: ideal *matza* and *matza* that is technically valid but halakhically inferior. This is structurally parallel to *yibum leshem mitzvah* and *yibum shelo leshem mitzvah* on *Abba Shaul*'s reading.
+
+### Halacha Purpose
+
+> **Hebrew/Aramaic:** אֶלָּא חָלוּט מַצָּה הִיא דְּקָאָמְרִינַן, לְמַאי הִלְכְתָא? לוֹמַר שֶׁאָדָם יוֹצֵא בָּהּ יְדֵי חוֹבָתוֹ בְּפֶסַח, אַף עַל פִּי דְּחַלְטֵיהּ מֵעִיקָּרָא, כֵּיוָן דַּהֲדַר אַפְיֵיהּ בְּתַנּוּר — ״לֶחֶם עוֹנִי״ קָרֵינָא בֵּיהּ, וְאָדָם יוֹצֵא בָּהּ יְדֵי חוֹבָתוֹ בַּפֶּסַח.
+> **Translation:** The Gemara asks: **But** if boiled flour is invalid as a meal offering, then with regard to this statement **that we said** that **boiled** flour **is unleavened, for what *halakha*** is it relevant? The Gemara answers: It is **to say that a person fulfills his obligation with it on Passover.** This is because **even though he initially boiled it, since he subsequently baked it in an oven, it is called “bread of affliction”** (Deuteronomy 16:3), **and** therefore **a person fulfills his obligation with it on Passover.**
+
+Having established that scalded *matza* is valid but second-grade for the *mincha*, the *gemara* asks *l'mai hilchata*? — beyond the structural parallel, what is the practical halakhic implication of declaring *chalut matza*? The answer: *lomar she'yotzei bo yedei chovato bePesach* — one may use such scalded *matza* to fulfill the obligation of eating *matza* on Pesach. Even though it is a second-grade option for the *mincha*, for other contexts requiring *matza* it is fully adequate: *af al pi d'chalitah mei'ikara*, even if the grain was scalded at the outset, *keivan d'hadar afyeih batenur*, since it was subsequently baked in an oven, *lechem oni karina bei*, we call it "poor person's bread," and one fulfills one's Pesach obligation with it.
 
 In sum, the *braita* operates on two levels simultaneously. On *Rava*'s reading it speaks for the *Rabbanan*, establishing that *yibum* is the prioritized option over *chalitzah*, parallel to the specific *kohen* eating being prioritized over another *kohen* eating. On the reading of *Yitzchak bar Avdimi* it speaks for *Abba Shaul*, establishing that *yibum leshem mitzvah* is the higher grade and *yibum shelo leshem mitzvah* is a lower but technically valid grade, parallel to ideal *matza* and scalded *matza*.
 
@@ -207,6 +238,8 @@ The *gemara*'s conclusion is significant: after introducing the reversal — tha
 ---
 
 ## Geography Factor
+
+
 
 ### Babylonian Polygamy
 
@@ -236,11 +269,21 @@ The result is a near-perfect logical catch: a man who wants to perform *yibum* m
 
 ## Inheritance
 
+
+
 ### Chalitzah Share
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַחוֹלֵץ לִיבִמְתּוֹ — הֲרֵי הוּא כְּאֶחָד מִן הָאַחִים לַנַּחֲלָה. וְאִם יֵשׁ שָׁם אָב — נְכָסִים שֶׁל אָב. הַכּוֹנֵס אֶת יְבִמְתּוֹ — זָכָה בִּנְכָסִים שֶׁל אָחִיו. רַבִּי יְהוּדָה אוֹמֵר: בֵּין כָּךְ וּבֵין כָּךְ, אִם יֵשׁ שָׁם אָב — נְכָסִים שֶׁל אָב.
->
-> **Translation:** MISHNA: **One who performs *ḥalitza* with his *yevama* is like** any **one of the** other **brothers with respect to** the **inheritance** of the deceased brother's estate, i.e., each of the brothers takes an equal share of the inheritance. **And if there is a father** of the deceased, who is still alive, **the property** of the deceased **belongs to the father. One who consummates** levirate marriage with **his *yevama*** thereby **acquires his** deceased **brother's property** solely for himself. **Rabbi Yehuda says: In either** case, whether he consummated the levirate marriage or performed *ḥalitza*, **if there is a father** who is still alive, **the property belongs to the father.**
+> **Hebrew/Aramaic:** מַתְנִי׳ הַחוֹלֵץ לִיבִמְתּוֹ — הֲרֵי הוּא כְּאֶחָד מִן הָאַחִין לַנַּחֲלָה. וְאִם יֵשׁ שָׁם אָב — נְכָסִים שֶׁל אָב. הַכּוֹנֵס אֶת יְבִמְתּוֹ — זָכָה בִּנְכָסִים שֶׁל אָחִיו. רַבִּי יְהוּדָה אוֹמֵר: בֵּין כָּךְ וּבֵין כָּךְ, אִם יֵשׁ שָׁם אָב — נְכָסִים שֶׁל אָב.
+> **Translation:** MISHNA: **One who performs *ḥalitza* with his *yevama* is like** any **one of the** other **brothers with respect to** the **inheritance** of the deceased brother’s estate, i.e., each of the brothers takes an equal share of the inheritance. **And if there is a father** of the deceased, who is still alive, **the property** of the deceased **belongs to the father. One who consummates** levirate marriage with **his *yevama*** thereby **acquires his** deceased **brother’s property** solely for himself. **Rabbi Yehuda says: In either** case, whether he consummated the levirate marriage or performed *ḥalitza*, **if there is a father** who is still alive, **the property belongs to the father.**
+
+> **Hebrew/Aramaic:** גְּמָ׳ פְּשִׁיטָא! סָלְקָא דַּעְתָּךְ אָמֵינָא חֲלִיצָה בִּמְקוֹם יִבּוּם קָיְימָא, וְנִשְׁקוֹל כּוּלְּהוּ נִכְסֵי, קָא מַשְׁמַע לַן.
+> **Translation:** GEMARA: The Gemara asks with regard to the opening clause of the mishna: The fact that one who performs *ḥalitza* does not gain any special rights to the inheritance of the deceased brother **is obvious;** why did the mishna teach it? The Gemara answers: **It could enter your mind to say** that the ***ḥalitza* takes the place of the levirate marriage and** therefore the brother who performs *ḥalitza* **should take all the property** in the same way as one who consummates the levirate marriage. Therefore, the mishna **teaches us** that this is not the case.
+
+> **Hebrew/Aramaic:** אִי הָכִי, הֲרֵי הוּא כְּאֶחָד מִן הָאַחִים — אֵינוֹ אֶלָּא כְּאֶחָד מִן הָאַחִים מִיבְּעֵי לֵיהּ!
+> **Translation:** The Gemara asks: **If so,** that the mishna’s point is to teach that by performing *ḥalitza* one is not afforded any additional rights to the inheritance, why is the mishna formulated as: **He is like** any **one of the** other **brothers,** placing the emphasis on what he gains? **It should have** instead taught: **He is** still **only like one of the** other **brothers,** which would emphasize the mishna’s point that by performing *ḥalitza* he does not gain any additional rights.
+
+> **Hebrew/Aramaic:** אֶלָּא, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וְאַפְסְדַהּ מִיִּבּוּם, לִקְנְסֵיהּ, קָא מַשְׁמַע לַן.
+> **Translation:** **Rather,** the mishna needs to teach the opening clause in this manner because **it could enter your mind to say** that **since** by performing *ḥalitza* with his *yevama* **he caused her to forfeit** the possibility of consummating the **levirate marriage, he should be penalized** and should forfeit any entitlement to his brother’s property. Therefore the mishna **teaches us** that this is not so.
 
 The next *mishna* addresses the property implications of *chalitzah* and *yibum*. When a brother performs *chalitzah* with his *yevamah*, *harei hu ke'echad min ha'achim linachal* — he retains an equal share of the deceased brother's estate, the same as any other surviving brother. One might have thought otherwise: having rejected the *yevamah*, perhaps he also forfeits any claim to his brother's property, analogous to the episode in *Megillas Rus* where the *goel* who initially wished to redeem the land withdrew when he learned that Ruth came with the transaction. Here, the *mishna* rules that rejecting the woman does not mean rejecting the estate.
 
@@ -248,9 +291,9 @@ The next *mishna* addresses the property implications of *chalitzah* and *yibum*
 
 ### Yibum Estate
 
-> **Hebrew/Aramaic:** מַאי טַעְמָא — ״יָקוּם עַל שֵׁם אָחִיו״ אָמַר רַחֲמָנָא, וַהֲרֵי קָם.
->
-> **Translation:** The Gemara asks: **What is the reason** for this? **The Merciful One states** in the Torah: **"He shall succeed in the name of his** dead **brother"** (Deuteronomy 25:6), **and he has succeeded** him by marrying his wife; consequently, he succeeds him by acquiring his property as well.
+
+> **Hebrew/Aramaic:** הַכּוֹנֵס אֶת יְבִמְתּוֹ וְכוּ׳. מַאי טַעְמָא — ״יָקוּם עַל שֵׁם אָחִיו״ אָמַר רַחֲמָנָא, וַהֲרֵי קָם.
+> **Translation:** The mishna states: **One who consummates** levirate marriage with his *yevama* thereby acquires his deceased brother’s property. The Gemara asks: **What is the reason** for this? **The Merciful One states** in the Torah: **“He shall succeed in the name of his** dead **brother”** (Deuteronomy 25:6), **and he has succeeded** him by marrying his wife; consequently, he succeeds him by acquiring his property as well.
 
 For *yibum* the situation is dramatically different: *hakones es yevamto zacha benichasim shel achiv* — one who performs *yibum* acquires the entirety of his deceased brother's estate. This is the financial incentive *Abba Shaul* found so troubling. The verse *yakum al shem achiv* — he shall stand up on his brother's name — is understood to link the act of *yibum* to the acquisition of the brother's name and, with it, his property.
 
@@ -258,53 +301,47 @@ For *yibum* the situation is dramatically different: *hakones es yevamto zacha b
 
 ### Father Precedence
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא: הֲלָכָה כְּרַבִּי יְהוּדָה. וְכֵן אָמַר רַבִּי יִצְחָק נַפָּחָא: הֲלָכָה כְּרַבִּי יְהוּדָה.
->
+> **Hebrew/Aramaic:** אִם יֵשׁ שָׁם אָב. דְּאָמַר מָר: אָב קוֹדֵם לְכׇל יוֹצְאֵי יְרֵכוֹ.
+> **Translation:** § The mishna states: **If there is a father** of the deceased, who is still alive, the property of the deceased belongs to the father. The Gemara explains: **As the Master said** with regard to the laws of inheritance (*Bava Batra* 115a): **A father** of the deceased **takes precedence over all** the father’s **descendants.** Therefore, since the father is still alive, the brothers do not inherit at all.
+
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר וְכוּ׳. אָמַר עוּלָּא: הֲלָכָה כְּרַבִּי יְהוּדָה. וְכֵן אָמַר רַבִּי יִצְחָק נַפָּחָא: הֲלָכָה כְּרַבִּי יְהוּדָה.
 > **Translation:** § The mishna continues by citing an opposing opinion. **Rabbi Yehuda says:** In either case, whether he consummated levirate marriage or performed *ḥalitza*, if there is a father who is still alive, the property belongs to the father. The Gemara cites a ruling on this dispute: **Ulla said:** The ***halakha* is in accordance with** the opinion of **Rabbi Yehuda. And similarly, Rabbi Yitzḥak Nappaḥa said: The *halakha* is in accordance with** the opinion of **Rabbi Yehuda.**
 
-The *gemara* establishes *Rabbi Yehuda*'s reasoning through an analogy to the *bechor*, the firstborn son. The verse *vehayah habechor* is read earlier in the *masechta* as a reference to the *yabam* performing the act of *yibum*, with *k'bechor* implying that he is treated like a firstborn. A firstborn son receives a double portion — but crucially, *mah bechor ein lo bechayei av*, a firstborn has no portion while the father is still alive. His enhanced share materializes only after the father's death. *Af hai nami ein lo bechayei av* — similarly, the *yabam*'s claim to the brother's estate does not materialize if the father is alive.
+> **Hebrew/Aramaic:** וְאָמַר עוּלָּא, וְאִיתֵּימָא רַבִּי יִצְחָק נַפָּחָא: מַאי טַעְמָא דְּרַבִּי יְהוּדָה, דִּכְתִיב: ״וְהָיָה הַבְּכוֹר אֲשֶׁר תֵּלֵד״ — כִּבְכוֹר, מָה בְּכוֹר אֵין לוֹ בְּחַיֵּי הָאָב — אַף הַאי נָמֵי אֵין לוֹ בְּחַיֵּי הָאָב.
+> **Translation:** **And Ulla said, and some say** that it was **Rabbi Yitzḥak Nappaḥa** who said: **What is the reason** for the opinion **of Rabbi Yehuda? As it is written: “And it shall be that the firstborn that she bears** shall succeed in the name of his dead brother” (Deuteronomy 25:6). The term “firstborn” is understood to be a reference to the *yavam*. By referring to him in this way the Torah indicates that his rights to his brother’s estate are **like** those of **a firstborn** child’s rights to his father’s estate: **Just as a firstborn has no** rights to any of his father’s estate **during the lifetime of the father,** and he may take his double portion only upon the father’s death, **so too, this** *yavam* **as well has no** rights to any of his brother’s estate **during the lifetime of the father.**
 
-> **Hebrew/Aramaic:** וְאָמַר עוּלָּא, וְאִיתֵּימָא רַבִּי יִצְחָק נַפָּחָא: מַאי טַעְמָא דְּרַבִּי יְהוּדָה, דִּכְתִיב: ״וְהָיָה הַבְּכוֹר אֲשֶׁר תֵּלֵד״ — כִּבְכוֹר, מָה בְּכוֹר אֵין לוֹ בְּחַיֵּי הָאָב — אַף הַאי נָמֵי אֵין לוֹ בְּחַיֵּי הָאָב.
->
-> **Translation:** **And Ulla said, and some say** that it was **Rabbi Yitzḥak Nappaḥa** who said: **What is the reason** for the opinion **of Rabbi Yehuda? As it is written: "And it shall be that the firstborn that she bears** shall succeed in the name of his dead brother" (Deuteronomy 25:6). The term "firstborn" is understood to be a reference to the *yavam*. By referring to him in this way the Torah indicates that his rights to his brother's estate are **like** those of **a firstborn** child's rights to his father's estate: **Just as a firstborn has no** rights to any of his father's estate **during the lifetime of the father,** and he may take his double portion only upon the father's death, **so too, this** *yavam* **as well has no** rights to any of his brother's estate **during the lifetime of the father.**
+> **Hebrew/Aramaic:** אִי: מָה בְּכוֹר נוֹטֵל פִּי שְׁנַיִם לְאַחַר מִיתַת הָאָב, אַף הַאי נוֹטֵל פִּי שְׁנַיִם לְאַחַר מִיתַת הָאָב!
+> **Translation:** The Gemara asks: **If** there is truly a comparison between the *yavam* who consummated the levirate marriage and a firstborn, then one should also say that **just as the firstborn takes a double portion** of his father’s estate **after the death of the father, so too, this** *yavam* **should** become entitled to **take a double portion** of the father’s estate **after the father’s death,** i.e., the portion due to him as a son, and that portion that would have been awarded to his brother. However, this is not the case; if the *yavam* is not actually the father’s firstborn then he receives only an equal portion of the inheritance together with the other brothers.
 
-> **Hebrew/Aramaic:** אִי: מָה בְּכוֹר נוֹטֵל פִּי שְׁנַיִם לְאַחַר מִיתַת הָאָב, אַף הַאי נוֹטֵל פִּי שְׁנַיִם לְאַחַר מִיתַת הָאָב!
->
-> **Translation:** The Gemara asks: **If** there is truly a comparison between the *yavam* who consummated the levirate marriage and a firstborn, then one should also say that **just as the firstborn takes a double portion** of his father's estate **after the death of the father, so too, this** *yavam* **should** become entitled to **take a double portion** of the father's estate **after the father's death,** i.e., the portion due to him as a son, and that portion that would have been awarded to his brother. However, this is not the case; if the *yavam* is not actually the father's firstborn then he receives only an equal portion of the inheritance together with the other brothers.
+> **Hebrew/Aramaic:** מִידֵּי ״יָקוּם עַל שֵׁם אָבִיו״ כְּתִיב? ״יָקוּם עַל שֵׁם אָחִיו״ כְּתִיב, וְלֹא ״עַל שֵׁם אָבִיו״.
+> **Translation:** The Gemara explains: **Is it written** in the Torah: **He shall succeed in the name of his father?** No, **it is written: “He shall succeed in the name of his dead brother,”** which indicates that he succeeds his brother **but not in the name of his father,** i.e., the Torah never granted him any special entitlement to his father’s estate, and so he should not receive a double portion of it.
 
-> **Hebrew/Aramaic:** מִידֵּי ״יָקוּם עַל שֵׁם אָבִיו״ כְּתִיב? ״יָקוּם עַל שֵׁם אָחִיו״ כְּתִיב, וְלֹא ״עַל שֵׁם אָבִיו״.
->
-> **Translation:** The Gemara explains: **Is it written** in the Torah: **He shall succeed in the name of his father?** No, **it is written: "He shall succeed in the name of his dead brother,"** which indicates that he succeeds his brother **but not in the name of his father,** i.e., the Torah never granted him any special entitlement to his father's estate, and so he should not receive a double portion of it.
+The *gemara* establishes *Rabbi Yehuda*'s reasoning through an analogy to the *bechor*, the firstborn son. The verse *vehayah habechor* is read earlier in the *masechta* as a reference to the *yabam* performing the act of *yibum*, with *k'bechor* implying that he is treated like a firstborn. A firstborn son receives a double portion — but crucially, *mah bechor ein lo bechayei av*, a firstborn has no portion while the father is still alive. His enhanced share materializes only after the father's death. *Af hai nami ein lo bechayei av* — similarly, the *yabam*'s claim to the brother's estate does not materialize if the father is alive. It is worth noting what *Rabbi Yehuda* is and is not conceding: he is not denying that the *yabam* ever acquires the estate. If there is no father and the question is simply which of the brothers will inherit, the *yabam* is like a *bechor* among them and receives the extra portion. His objection is specifically to displacing a prior heir — when the father is alive, the normal rules of inheritance reassert themselves.
 
-> **Hebrew/Aramaic:** אֵימָא: הֵיכָא דְּלֵיכָּא אָב דְּלִשְׁקוֹל נַחֲלָה — תִּתְקַיֵּים מִצְוַת יִבּוּם, הֵיכָא דְּאִיכָּא אָב [דְּלָא] שָׁקֵיל נַחֲלָה — לֹא תִּתְקַיֵּים מִצְוַת יִבּוּם.
->
-> **Translation:** The Gemara asks: Since Rabbi Yehuda holds that the *halakha* that the *yavam* inherits from his brother, which is stated in the verses describing levirate marriage, applies only when the father is no longer alive, perhaps the other *halakhot* in those verses also apply only when the father is no longer alive, and accordingly one should **say: When there is no father** who is still alive, which means **that** the *yavam* **takes the inheritance,** only then **should the mitzva of levirate marriage apply,** but **when there is a father** who is still alive, which means **that** the *yavam* **does not take the inheritance,** in that case **the mitzva of levirate marriage should not apply.**
-
-> **Hebrew/Aramaic:** מִידֵּי יִבּוּם בְּנַחֲלָה תְּלָה רַחֲמָנָא? יַבּוֹמֵי מְיַבְּמִי, וְאִי אִיכָּא נַחֲלָה — שָׁקֵיל, וְאִי לָא — לָא שָׁקֵיל.
->
-> **Translation:** The Gemara rejects the possibility of saying this: **Does the Merciful One make** the mitzva of **levirate marriage dependent upon inheritance?** Certainly not; rather, in all cases the *yavam* **should consummate the levirate marriage, and** then **if there is an inheritance** to which he is entitled, **he takes** it, **and if not, he does not take** it.
-
-The *gemara* raises the possibility that this implies even more: just as the *bechor* eventually receives his double portion after the father dies, so too perhaps the *yabam* should eventually receive the estate after the father dies. The *gemara* rejects this: the verse says *yakum al shem achiv*, he stands on his brother's name, not his father's. If at the moment of the brother's death he did not step into the brother's estate — because the father was alive and took it — then his connection to that estate is severed permanently. *Yakum al shem achiv velo al shem aviv*.
+The *gemara* raises the possibility that this analogy implies even more: just as the *bechor* eventually receives his double portion after the father dies, so too perhaps the *yabam* should eventually receive the estate after the father dies. The *gemara* rejects this: the verse says *yakum al shem achiv*, he stands on his brother's name, not his father's. If at the moment of the brother's death he did not step into the brother's estate — because the father was alive and took it — then his connection to that estate is severed permanently. *Yakum al shem achiv velo al shem aviv*.
 
 One might then ask: if the father is alive and takes the property, in what sense does the *yabam* perpetuate his brother's name at all? The *gemara* does not pursue a financial answer here. The *Ramban* suggests something more metaphysical — an allusion to *gilgul neshamot*, transmigration of souls — but beyond that, caring for the widow, providing her with a home and continuity, is itself the fulfillment of *yakum al shem achiv* regardless of property.
 
 ### Yibum vs Estate
 
-> **Hebrew/Aramaic:** יְתֵיב רַבִּי חֲנִינָא קָרָא קַמֵּיהּ דְּרַבִּי יַנַּאי, וְיָתֵיב וְקָאָמַר: הֲלָכָה כְּרַבִּי יְהוּדָה. אֲמַר לֵיהּ: פּוֹק קְרִי קְרָיָיךְ לְבָרָא, אֵין הֲלָכָה כְּרַבִּי יְהוּדָה.
->
-> **Translation:** **Rabbi Ḥanina Kara,** the Bible expert, **was sitting before Rabbi Yannai, and he was sitting and saying:** The ***halakha* is in accordance with** the opinion of **Rabbi Yehuda.** Rabbi Yannai **said to him: Leave** the study hall **and recite your verses outside,** as you are incorrect in your ruling; in fact, the ***halakha* is not in accordance with** the opinion of **Rabbi Yehuda.**
-
-> **Hebrew/Aramaic:** תָּנֵי תַּנָּא, קַמֵּיהּ דְּרַב נַחְמָן: אֵין הֲלָכָה כְּרַבִּי יְהוּדָה. אֲמַר לֵיהּ: אֶלָּא כְּמַאן, כְּרַבָּנַן? פְּשִׁיטָא, יָחִיד וְרַבִּים הֲלָכָה כְּרַבִּים!
->
-> **Translation:** In another incident, **a *tanna*** who would recite *baraitot* in the study hall **taught** a *baraita* **before Rav Naḥman:** The ***halakha* is not in accordance with** the opinion of **Rabbi Yehuda. Rav Naḥman said to him: But** then it follows that **in accordance with whose** opinion is the *halakha*? It is the opinion of **the Rabbis.** The Gemara asks: But this fact **is obvious,** as in a dispute between **one** individual Sage **and many** other Sages, the ***halakha*** is always decided in accordance with the opinion of **the many.**
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֶסְמְיַיהּ?! אֲמַר לֵיהּ: לָא. אַתְּ — הֲלָכָה אַתְנְיֻיךְ, וּמִקְשָׁא הוּא דְּאִקְּשִׁי לָךְ, וַאֲפַכְתְּ. וּלְמַאי דַּאֲפַכְתְּ, שַׁפִּיר אֲפַכְתְּ.
->
-> **Translation:** The *tanna* **said to him:** Are you saying that this statement in the *baraita* is unnecessary and so **I should remove that** ruling from the *baraita* when I recite it in the future? Rav Naḥman **said to him: No,** do not remove it, as although the statement is unnecessary, it is correct. Rav Naḥman explained further: It must be that originally the *baraita* that **you were taught** stated: The ***halakha*** is in accordance with the opinion of Rabbi Yehuda, and **that** ruling **was difficult for you** because you knew that the *halakha* is always decided in accordance with many, **and** so **you reversed** the statement of the *baraita* to say, as you presently recited it, that the *halakha* is not in accordance with the opinion of Rabbi Yehuda. **And** with regard to the manner in **which you reversed it, you reversed it well,** and therefore you should leave it in its current form.
+> **Hebrew/Aramaic:** אֵימָא: הֵיכָא דְּלֵיכָּא אָב דְּלִשְׁקוֹל נַחֲלָה — תִּתְקַיֵּים מִצְוַת יִבּוּם, הֵיכָא דְּאִיכָּא אָב [דְּלָא] שָׁקֵיל נַחֲלָה — לֹא תִּתְקַיֵּים מִצְוַת יִבּוּם.
+> **Translation:** The Gemara asks: Since Rabbi Yehuda holds that the *halakha* that the *yavam* inherits from his brother, which is stated in the verses describing levirate marriage, applies only when the father is no longer alive, perhaps the other *halakhot* in those verses also apply only when the father is no longer alive, and accordingly one should **say: When there is no father** who is still alive, which means **that** the *yavam* **takes the inheritance,** only then **should the mitzva of levirate marriage apply,** but **when there is a father** who is still alive, which means **that** the *yavam* **does not take the inheritance,** in that case **the mitzva of levirate marriage should not apply.**
 
 The *gemara* then raises a further implication of *Rabbi Yehuda*'s position. If the *yabam* and the estate are conditionally linked — he gets the estate only when there is no father — one might argue that the *mitzvah* of *yibum* itself is similarly conditional: perhaps where there is a father who will take the estate, there is no *mitzvah* of *yibum* at all, since *yibum* and *nachalah* go together as a package. The *gemara* dismisses this emphatically: *midi yibum benachalah talah rachmana*? Does *yibum* depend on the *nachalah*? The causality runs in the opposite direction. *Yibumei miyatney* — *yibum* comes first; it is the act of *yibum* that, when performed, carries the *nachalah* with it as a consequence. If there is no *nachalah* — either because the brother had no property or because the father takes it — the *mitzvah* of *yibum* is unaffected. The *nachalah* follows *yibum*; *yibum* does not follow *nachalah*.
 
 ### Text Correction
+
+> **Hebrew/Aramaic:** מִידֵּי יִבּוּם בְּנַחֲלָה תְּלָה רַחֲמָנָא? יַבּוֹמֵי מְיַבְּמִי, וְאִי אִיכָּא נַחֲלָה — שָׁקֵיל, וְאִי לָא — לָא שָׁקֵיל.
+> **Translation:** The Gemara rejects the possibility of saying this: **Does the Merciful One make** the mitzva of **levirate marriage dependent upon inheritance?** Certainly not; rather, in all cases the *yavam* **should consummate the levirate marriage, and** then **if there is an inheritance** to which he is entitled, **he takes** it, **and if not, he does not take** it.
+
+> **Hebrew/Aramaic:** יְתֵיב רַבִּי חֲנִינָא קָרָא קַמֵּיהּ דְּרַבִּי יַנַּאי, וְיָתֵיב וְקָאָמַר: הֲלָכָה כְּרַבִּי יְהוּדָה. אֲמַר לֵיהּ: פּוֹק קְרִי קְרָיָיךְ לְבָרָא, אֵין הֲלָכָה כְּרַבִּי יְהוּדָה.
+> **Translation:** **Rabbi Ḥanina Kara,** the Bible expert, **was sitting before Rabbi Yannai, and he was sitting and saying:** The ***halakha* is in accordance with** the opinion of **Rabbi Yehuda.** Rabbi Yannai **said to him: Leave** the study hall **and recite your verses outside,** as you are incorrect in your ruling; in fact, the ***halakha* is not in accordance with** the opinion of **Rabbi Yehuda.**
+
+> **Hebrew/Aramaic:** תָּנֵי תַּנָּא, קַמֵּיהּ דְּרַב נַחְמָן: אֵין הֲלָכָה כְּרַבִּי יְהוּדָה. אֲמַר לֵיהּ: אֶלָּא כְּמַאן, כְּרַבָּנַן? פְּשִׁיטָא, יָחִיד וְרַבִּים הֲלָכָה כְּרַבִּים!
+> **Translation:** In another incident, **a *tanna*** who would recite *baraitot* in the study hall **taught** a *baraita* **before Rav Naḥman:** The ***halakha* is not in accordance with** the opinion of **Rabbi Yehuda. Rav Naḥman said to him: But** then it follows that **in accordance with whose** opinion is the *halakha*? It is the opinion of **the Rabbis.** The Gemara asks: But this fact **is obvious,** as in a dispute between **one** individual Sage **and many** other Sages, the ***halakha*** is always decided in accordance with the opinion of **the many.**
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֶסְמְיַיהּ?! אֲמַר לֵיהּ: לָא. אַתְּ — הֲלָכָה אַתְנְיֻיךְ, וּמִקְשָׁא הוּא דְּאִקְּשִׁי לָךְ, וַאֲפַכְתְּ. וּלְמַאי דַּאֲפַכְתְּ, שַׁפִּיר אֲפַכְתְּ.
+> **Translation:** The *tanna* **said to him:** Are you saying that this statement in the *baraita* is unnecessary and so **I should remove that** ruling from the *baraita* when I recite it in the future? Rav Naḥman **said to him: No,** do not remove it, as although the statement is unnecessary, it is correct. Rav Naḥman explained further: It must be that originally the *baraita* that **you were taught** stated: The ***halakha*** is in accordance with the opinion of Rabbi Yehuda, and **that** ruling **was difficult for you** because you knew that the *halakha* is always decided in accordance with many, **and** so **you reversed** the statement of the *baraita* to say, as you presently recited it, that the *halakha* is not in accordance with the opinion of Rabbi Yehuda. **And** with regard to the manner in **which you reversed it, you reversed it well,** and therefore you should leave it in its current form.
 
 *Ulla* and *Rabbi Yitzchak Napcha* both rule *halacha k'Rabbi Yehuda*. This is then complicated by a fascinating episode of textual transmission. *Rav Chanina Kara*, a Torah reader who sat before *Rabbi Yannai*, stated *halacha k'Rabbi Yehuda*. *Rabbi Yannai* told him: *puk kari karich l'bara* — go teach your readings outside. He rejected the ruling, saying the correct formulation is *ein halacha k'Rabbi Yehuda*.
 
@@ -316,19 +353,20 @@ Similarly, a *tanna* — a reciter of *baraisos* rather than a reader of *pesuki
 
 ## Chalutzah Status
 
+
+
+[DAF:40b]
 ### Man's Relatives
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַחוֹלֵץ לִיבִמְתּוֹ — הוּא אָסוּר בִּקְרוֹבוֹתֶיהָ, וְהִיא אֲסוּרָה בִּקְרוֹבָיו.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ הַחוֹלֵץ לִיבִמְתּוֹ — הוּא אָסוּר בִּקְרוֹבוֹתֶיהָ, וְהִיא אֲסוּרָה בִּקְרוֹבָיו.
 > **Translation:** MISHNA: In the case of **one who performs *ḥalitza* with his *yevama*,** by rabbinic decree it is as though she had been married to him and then he divorced her. Consequently, **he is forbidden** to engage in relations **with her relatives and she is forbidden** to engage in relations **with his relatives.**
 
-> **Hebrew/Aramaic:** הוּא אָסוּר בְּאִמָּהּ, וּבְאֵם אִמָּהּ, וּבְאֵם אָבִיהָ, וּבְבִתָּהּ, וּבְבַת בִּתָּהּ, וּבְבַת בְּנָהּ, וּבַאֲחוֹתָהּ בִּזְמַן שֶׁהִיא קַיֶּימֶת. וְהָאַחִין מוּתָּרִין.
->
-> **Translation:** Accordingly, **he is forbidden** to engage in relations **with her mother, and with her mother's mother, and with her father's mother, and with her daughter, and with her daughter's daughter, and with her son's daughter, and with her sister while** his *yevama* **is** still **alive.** However, **the** other **brothers** who did not perform *ḥalitza* **are permitted** to her relatives.
+> **Hebrew/Aramaic:** הוּא אָסוּר בְּאִמָּהּ, וּבְאֵם אִמָּהּ, וּבְאֵם אָבִיהָ, וּבְבִתָּהּ, וּבְבַת בִּתָּהּ, וּבְבַת בְּנָהּ, וּבַאֲחוֹתָהּ בִּזְמַן שֶׁהִיא קַיֶּימֶת. וְהָאַחִין מוּתָּרִין.
+> **Translation:** Accordingly, **he is forbidden** to engage in relations **with her mother, and with her mother’s mother, and with her father’s mother, and with her daughter, and with her daughter’s daughter, and with her son’s daughter, and with her sister while** his *yevama* **is** still **alive.** However, **the** other **brothers** who did not perform *ḥalitza* **are permitted** to her relatives.
 
-> **Hebrew/Aramaic:** וְהִיא אֲסוּרָה בְּאָבִיו, וּבַאֲבִי אָבִיו, וּבִבְנוֹ, וּבְבֶן בְּנוֹ, בְּאָחִיו, וּבְבֶן אָחִיו.
->
-> **Translation:** **And she is forbidden** to engage in relations **with his father, and with his father's father, and with his son, and with his son's son, and with his brother, and with his brother's son.**
+> **Hebrew/Aramaic:** וְהִיא אֲסוּרָה בְּאָבִיו, וּבַאֲבִי אָבִיו, וּבִבְנוֹ, וּבְבֶן בְּנוֹ, בְּאָחִיו, וּבְבֶן אָחִיו.
+> **Translation:** **And she is forbidden** to engage in relations **with his father, and with his father’s father, and with his son, and with his son’s son, and with his brother, and with his brother’s son.**
+
 
 The *mishna* now addresses the web of prohibited relationships that flows from *chalitzah*. The act of *chalitzah* creates a relationship that is treated, for purposes of prohibited relatives, as analogous to a dissolved marriage. The woman who underwent *chalitzah* — the *chalutzah* — is treated in certain respects as the man's divorced wife. As a consequence, *hu assur bikrovoteha vehi assurah bikrovov* — he is forbidden to her relatives and she is forbidden to his relatives.
 
@@ -342,8 +380,7 @@ The *chalutzah* is in turn forbidden to certain relatives of the man who perform
 
 ### Tzara Rules
 
-> **Hebrew/Aramaic:** מוּתָּר אָדָם בִּקְרוֹבַת צָרַת חֲלוּצָתוֹ. וְאָסוּר בְּצָרַת קְרוֹבַת חֲלוּצָתוֹ.
->
+> **Hebrew/Aramaic:** מוּתָּר אָדָם בִּקְרוֹבַת צָרַת חֲלוּצָתוֹ. וְאָסוּר בְּצָרַת קְרוֹבַת חֲלוּצָתוֹ.
 > **Translation:** The mishna states an additional principle: **A man is permitted** to engage in relations **with a relative of a rival wife of his *ḥalutza*,** i.e., his *yevama* with whom he performed *ḥalitza*. Since he did not perform *ḥalitza* with her, she is not regarded as though she had actually been married to him. However, **he is forbidden** to engage in relations **with a rival wife of a relative of his *ḥalutza*,** i.e., in addition to being forbidden to the relatives of his *ḥalutza*, he is also forbidden to their rival wives.
 
 The *mishna* closes with a more complex case involving the *tzara*, the co-wife. *Mutar adam bikrovat tzarat chalutzato* — a man is permitted to marry a relative of the *tzara* of his *chalutzah*. *Ve'assur betzarat krovat chalutzato* — but he is forbidden to the *tzara* of a relative of his *chalutzah*. This distinction requires illustration.

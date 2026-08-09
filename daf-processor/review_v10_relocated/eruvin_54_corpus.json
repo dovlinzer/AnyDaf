@@ -1,0 +1,581 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Bruriah's Critique",
+    "candidates": [
+      "Yosi & Bruriah",
+      "Bruriah's Critique",
+      "Whisper Student"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yosi HaGlili meeting Bruriah and asking his question, which corresponds to the 'Yosi & Bruriah' section's prose about him traveling and asking 'which path should we go to get to Lud,' while the critique/rebuke content belongs to 'Bruriah's Critique' \u2014 but since this single item covers the entire exchange including both the question and her rebuke, it best fits under heading 0 which introduces the full encounter, and the current placement under 'Bruriah's Critique' is splitting the story mid-scene.",
+      "chosen_heading": "Yosi & Bruriah",
+      "current_heading": "Bruriah's Critique",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Whisper Student",
+    "candidates": [
+      "Bruriah's Critique",
+      "Whisper Student",
+      "Undertone Student",
+      "Deserving Death"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Whisper Student",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Berurya encountering the whispering student, which is precisely what candidate 1 ('Whisper Student') discusses in its prose.",
+      "second_heading": "Undertone Student",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the baraita about Rabbi Eliezer's student who forgot after studying quietly, which is exactly what candidate 2 ('Undertone Student') describes in its prose.",
+      "current_heading": "Whisper Student",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Deserving Death",
+    "candidates": [
+      "Undertone Student",
+      "Deserving Death",
+      "Open Your Mouth",
+      "Words of Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer's student who was liable to divine burning and was spared because he served a great person, which matches exactly the content described in the 'Deserving Death' prose section.",
+      "chosen_heading": "Deserving Death",
+      "current_heading": "Deserving Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Words of Life",
+    "candidates": [
+      "Open Your Mouth",
+      "Words of Life",
+      "Grab & Eat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Shmuel's instruction to open one's mouth and read/study aloud, which is exactly what heading 0 ('Open Your Mouth') discusses, while heading 1 focuses on the verse interpretation and metaphysical dimension that follows from this instruction.",
+      "chosen_heading": "Open Your Mouth",
+      "current_heading": "Words of Life",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Grab & Eat",
+    "candidates": [
+      "Words of Life",
+      "Grab & Eat",
+      "Do Good"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's exact words to Rav Yehuda about grabbing and eating/drinking because the world is like a wedding feast, which is precisely what the 'Grab & Eat' section's prose discusses in detail.",
+      "chosen_heading": "Grab & Eat",
+      "current_heading": "Grab & Eat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Do Good",
+    "candidates": [
+      "Do Good",
+      "Body Cures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav-to-Rav Hamnuna teaching about doing good for oneself, not deferring to the afterlife or for children's inheritance, which is exactly what the prose in section 0 ('Do Good') discusses in detail.",
+      "chosen_heading": "Do Good",
+      "current_heading": "Do Good",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Body Cures",
+    "candidates": [
+      "Body Cures",
+      "Human vs Divine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi Yehoshua ben Levi's teaching about Torah as companion and bodily cure, which is precisely what the 'Body Cures' prose describes in detail, including the road companion teaching and all the body-part remedies.",
+      "chosen_heading": "Body Cures",
+      "current_heading": "Body Cures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Human vs Divine",
+    "candidates": [
+      "Human vs Divine",
+      "Belly & Lips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contrast between human medicine and God's Torah as a universal remedy, which is precisely what the 'Human vs Divine' section's prose describes.",
+      "chosen_heading": "Human vs Divine",
+      "current_heading": "Human vs Divine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Belly & Lips",
+    "candidates": [
+      "Belly & Lips",
+      "Joy in Speaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rav Ami's interpretation of the 'belly and lips' verse from Proverbs 22:18, which is precisely what the 'Belly & Lips' section prose discusses.",
+      "chosen_heading": "Belly & Lips",
+      "current_heading": "Belly & Lips",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Joy in Speaking",
+    "candidates": [
+      "Joy in Speaking",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both Rabbi Zeira's and Rabbi Yitzchak's derivations about joy and Torah verbalization are explicitly discussed in the 'Joy in Speaking' prose, which quotes both verses and explains both teachings in detail.",
+      "chosen_heading": "Joy in Speaking",
+      "current_heading": "Joy in Speaking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Necklace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rava's derivation from Psalms 21:3, Rava's contradiction and resolution of that verse, and the baraita on netza\u1e25/selah/va'ed \u2014 are explicitly discussed in the prose of candidate 0, which covers exactly these topics in sequence.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Necklace",
+    "candidates": [
+      "Necklace",
+      "Flowerbed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'chain/necklace around the neck' verse (va'anakim legargrotacha), which is precisely what the 'Necklace' section's prose discusses, matching both the verse and its interpretation about being loose like a necklace and visible/not visible.",
+      "chosen_heading": "Necklace",
+      "current_heading": "Necklace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Flowerbed",
+    "candidates": [
+      "Flowerbed",
+      "Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'bed of spices' (arugat habosem) metaphor about humility and Torah retention, which is exactly what the 'Flowerbed' section's prose discusses.",
+      "chosen_heading": "Flowerbed",
+      "current_heading": "Flowerbed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Stone",
+    "candidates": [
+      "Stone",
+      "Broken Tablets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses making one's cheeks like unworn stone so Torah study endures, which matches exactly the prose under 'Stone' about luchot/lechayav and constant engagement ensuring Torah is never worn away.",
+      "chosen_heading": "Stone",
+      "current_heading": "Stone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Broken Tablets",
+    "candidates": [
+      "Broken Tablets",
+      "Rav Matna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the consequences of the breaking of the first tablets \u2014 Torah forgetting and national subjugation \u2014 which is precisely what the 'Broken Tablets' prose section addresses, including the exact phrases charut/cheirut and no nation ruling over Israel.",
+      "chosen_heading": "Broken Tablets",
+      "current_heading": "Broken Tablets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rav Matna",
+    "candidates": [
+      "Rav Matna",
+      "Rava Explains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains only Rav Mattana's teaching about making oneself like the wilderness for Torah to endure, which exactly matches the prose under 'Rav Matna' \u2014 not Rava's fuller exposition of the entire verse sequence discussed under 'Rava Explains'.",
+      "chosen_heading": "Rav Matna",
+      "current_heading": "Rav Matna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rava Explains",
+    "candidates": [
+      "Rava Explains",
+      "Fig Tree"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rava Explains",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 are the Rava/Rav Yosef reconciliation story and the wilderness-Mattanah-Nahaliel-Bamoth interpretation, which is exactly what the 'Rava Explains' prose describes in detail.",
+      "second_heading": "Fig Tree",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is Rav Huna's independent teaching about making oneself like an animal to retain Torah study, which matches the 'Fig Tree' section's theme of Torah retention and internalization rather than the Rava/Rav Yosef exchange.",
+      "current_heading": "Rava Explains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Fig Tree",
+    "candidates": [
+      "Fig Tree",
+      "Doe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete fig tree teaching (Proverbs 27:18) that candidate 0's prose explicitly discusses in full detail, including the same Hebrew phrases and the same interpretation about finding meaning through Torah study.",
+      "chosen_heading": "Fig Tree",
+      "current_heading": "Fig Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Doe",
+    "candidates": [
+      "Doe",
+      "Breast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the comparison of Torah to a hind (ayelet), its narrow womb, and being cherished each hour like the first \u2014 exactly what the 'Doe' section's prose discusses.",
+      "chosen_heading": "Doe",
+      "current_heading": "Doe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Breast",
+    "candidates": [
+      "Breast",
+      "Elazar Passion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expounds 'graceful roe' and 'her breasts satisfy you at all times,' matching the 'Breast' section's prose about the breast/Torah analogy, not the 'Elazar Passion' section about Rabbi Elazar's intoxicated devotion.",
+      "chosen_heading": "Breast",
+      "current_heading": "Breast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Elazar Passion",
+    "candidates": [
+      "Elazar Passion",
+      "White Donkeys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Elazar ben Pedat's passionate absorption in Torah study and the serpent protecting his cloak, which matches exactly the 'Elazar Passion' section's prose discussion.",
+      "chosen_heading": "Elazar Passion",
+      "current_heading": "Elazar Passion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "White Donkeys",
+    "candidates": [
+      "White Donkeys",
+      "Hunter Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source text that candidate 0's prose explicitly discusses and expounds upon, matching perfectly in content, verse, and interpretation.",
+      "chosen_heading": "White Donkeys",
+      "current_heading": "White Donkeys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Hunter Metaphor",
+    "candidates": [
+      "Hunter Metaphor",
+      "Break Wings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Sheizvi/Shizbi's interpretation that the deceitful hunter will not live long, which is precisely what the 'Hunter Metaphor' prose discusses, including Rashi's understanding about not reviewing learned material.",
+      "chosen_heading": "Hunter Metaphor",
+      "current_heading": "Hunter Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Break Wings",
+    "candidates": [
+      "Break Wings",
+      "Bundles Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Sheshet's question about the deceitful/cunning hunter and Rav Dimi's parable about breaking birds' wings \u2014 are precisely the content discussed in the 'Break Wings' prose, which explicitly covers both the tzeid haramai reading and Rav Dimi's parable about fixing captured birds in place by breaking their wings.",
+      "chosen_heading": "Break Wings",
+      "current_heading": "Break Wings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Bundles Warning",
+    "candidates": [
+      "Bundles Warning",
+      "Rava's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'bundles' interpretation of hevel/chavila and the principle of learning little by little, which is precisely what the 'Bundles Warning' section's prose describes.",
+      "chosen_heading": "Bundles Warning",
+      "current_heading": "Bundles Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rava's Critique",
+    "candidates": [
+      "Rava's Critique",
+      "Order at Sinai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's critique and Rav Na\u1e25man bar Yitz\u1e25ak's response, which directly matches the prose under 'Rava's Critique' discussing those exact statements.",
+      "chosen_heading": "Rava's Critique",
+      "current_heading": "Rava's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Order at Sinai",
+    "candidates": [
+      "Order at Sinai",
+      "Four Times Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the order of Moshe's teaching at Sinai and the subsequent repetitions by Aaron, his sons, and the elders \u2014 exactly the content discussed in the 'Order at Sinai' prose, which covers this entire sequence through 'everyone had heard the material at least four times.'",
+      "chosen_heading": "Order at Sinai",
+      "current_heading": "Order at Sinai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Four Times Rule",
+    "candidates": [
+      "Four Times Rule",
+      "Akiva Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the four-times teaching obligation and the kal vachomer argument, which is precisely what the 'Four Times Rule' prose section discusses.",
+      "chosen_heading": "Four Times Rule",
+      "current_heading": "Four Times Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Akiva Teaching",
+    "candidates": [
+      "Akiva Teaching",
+      "Moshe's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Akiva's teaching about the obligations of a teacher \u2014 to repeat until learned, to arrange material in students' mouths, and to show them reasons \u2014 which is precisely what the 'Akiva Teaching' prose discusses in detail.",
+      "chosen_heading": "Akiva Teaching",
+      "current_heading": "Akiva Teaching",
+      "moved": false
+    }
+  }
+]

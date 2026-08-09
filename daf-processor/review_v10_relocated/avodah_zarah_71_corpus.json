@@ -1,0 +1,301 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Request Cash",
+    "candidates": [
+      "Daf Overview",
+      "Chametz Tie-In",
+      "Request Cash",
+      "Possession Final",
+      "King's Tax Scenario",
+      "Language Matters",
+      "Rashi Tosafot Debate",
+      "Tosafot Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introducing Jewish craftsmen and a barrel of yayin nesech sent as wages is the opening passage of the daf, and the 'Daf Overview' prose explicitly describes how the mishna at the top of 71a returns to themes of when wine becomes the non-Jew's property and when benefit from yayin nesech is incurred \u2014 a perfect match for this introductory mishna text.",
+      "chosen_heading": "Daf Overview",
+      "current_heading": "Request Cash",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Tosafot Leniency",
+    "candidates": [
+      "Possession Final",
+      "King's Tax Scenario",
+      "Language Matters",
+      "Rashi Tosafot Debate",
+      "Tosafot Leniency",
+      "Fix Price First",
+      "Two Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange \u2014 Rav's ruling about telling a gentile to pay the king's tax, followed immediately by the baraita objection and Rav's resolution distinguishing 'go in my stead' from 'save me' \u2014 which is precisely what the 'King's Tax Scenario' prose describes.",
+      "chosen_heading": "King's Tax Scenario",
+      "current_heading": "Tosafot Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Two Cases",
+    "candidates": [
+      "Fix Price First",
+      "Two Cases",
+      "Ameimar Position",
+      "Rav Ashi Position",
+      "Rav's Teaching",
+      "Forbidden Drops",
+      "Vessel on Ground"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fix Price First",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the 'fix price first' rule, which candidate 0's prose explicitly introduces and explains as a new mishna addressing the Jew selling wine to a gentile with the pasak/madad distinction.",
+      "second_heading": "Ameimar Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ameimar's Gemara teaching that meshicha effects kinyan for a gentile, which candidate 2's prose directly describes and analyzes as Ameimar's conclusion from the mishna.",
+      "current_heading": "Two Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Vessel on Ground",
+    "candidates": [
+      "Ameimar Position",
+      "Rav Ashi Position",
+      "Rav's Teaching",
+      "Forbidden Drops",
+      "Vessel on Ground",
+      "Kinyan Kli Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of objection and response about why kinyan kli (airspace of the vessel) doesn't resolve the timing problem \u2014 whether nitzok chibbur applies and whether the vessel being on the ground matters \u2014 which precisely matches the 'Vessel on Ground' prose description.",
+      "chosen_heading": "Vessel on Ground",
+      "current_heading": "Vessel on Ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Kinyan Kli Debate",
+    "candidates": [
+      "Kinyan Kli Debate",
+      "Wine Mixture Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer exchange about kinyan kli in the seller's domain, which the Gemara raises and then rejects by reverting to the physical explanation of wine residue on the vessel's lip \u2014 exactly what the 'Kinyan Kli Debate' prose describes.",
+      "chosen_heading": "Kinyan Kli Debate",
+      "current_heading": "Kinyan Kli Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Wine Mixture Issue",
+    "candidates": [
+      "Wine Mixture Issue",
+      "Barrels vs. Liquid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the objection that Rav's ruling cannot accord with Rabban Shimon ben Gamliel's view on selling mixtures, which is precisely the transition point discussed in the 'Barrels vs. Liquid' prose that explains how Rav himself ruled halacha ke-Rabban Shimon ben Gamliel only for barrel mixtures, not liquid blends.",
+      "chosen_heading": "Barrels vs. Liquid",
+      "current_heading": "Wine Mixture Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Barrels vs. Liquid",
+    "candidates": [
+      "Wine Mixture Issue",
+      "Barrels vs. Liquid",
+      "Idol Discovery",
+      "Abaye's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's ruling distinguishing barrel-with-barrel from wine-with-wine mixtures, which is precisely what the 'Barrels vs. Liquid' section's prose describes.",
+      "chosen_heading": "Barrels vs. Liquid",
+      "current_heading": "Barrels vs. Liquid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Abaye's Answer",
+    "candidates": [
+      "Idol Discovery",
+      "Abaye's Answer",
+      "Rava's Refinement",
+      "Money Paid Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita itself and Abaye's initial answer together, but the prose under 'Idol Discovery' (index 0) is the one that introduces and explains this baraita's content and the question it raises, making it the best home for the quoted text which presents the objection and Abaye's response as a unit introduced by the baraita.",
+      "chosen_heading": "Idol Discovery",
+      "current_heading": "Abaye's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Money Paid Effect",
+    "candidates": [
+      "Rava's Refinement",
+      "Money Paid Effect",
+      "Measuring Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement questioning why the braita distinguishes the two clauses and then resolving it by saying both are mekach ta'ut but the appearance differs \u2014 this is precisely what the prose under 'Rava's Refinement' describes, not the explanatory elaboration under 'Money Paid Effect'.",
+      "chosen_heading": "Rava's Refinement",
+      "current_heading": "Money Paid Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Measuring Question",
+    "candidates": [
+      "Money Paid Effect",
+      "Measuring Question",
+      "Price Fixation Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Mar Kashisha's challenge to Rav Ashi about why fixing the price before measuring permits the money if meshicha doesn't work for a gentile, which is precisely what the 'Measuring Question' prose describes.",
+      "chosen_heading": "Measuring Question",
+      "current_heading": "Measuring Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Price Fixation Intent",
+    "candidates": [
+      "Price Fixation Intent",
+      "Kinyan Reading",
+      "Theft Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are a continuous exchange about the role of price-fixation (psak) and prepayment (dinar) in finalizing the sale, exactly matching the 'Price Fixation Intent' prose which explicitly describes the objection from the latter clause of the mishna (madad ad she-lo pasak) and Rav Ashi's answer about da'at not being settled without psak regardless of prior payment.",
+      "chosen_heading": "Price Fixation Intent",
+      "current_heading": "Price Fixation Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Theft Law",
+    "candidates": [
+      "Kinyan Reading",
+      "Theft Law",
+      "Theft Completion",
+      "Anguish Suffices",
+      "Second Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form Ravina's proof-attempt and its immediate refutation \u2014 the challenge about the ben Noach being executed, the answer that it is due to tza'ar, and the clarification of 'not subject to restitution' \u2014 which is precisely what heading 1 ('Theft Law') introduces with its prose about Rabbi Yochanan's teaching on a ben Noach being executed for stealing less than a perutah.",
+      "chosen_heading": "Theft Law",
+      "current_heading": "Theft Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Second Theft",
+    "candidates": [
+      "Theft Completion",
+      "Anguish Suffices",
+      "Second Theft",
+      "Meshicha Works",
+      "Tosafot Caveat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Second Theft",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge about the second thief who caused no anguish to the Jew, which is precisely what the 'Second Theft' prose discusses.",
+      "second_heading": "Meshicha Works",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's conclusion 'shema mina meshicha be-oved kochavim koneh,' which is exactly what the 'Meshicha Works' prose describes.",
+      "current_heading": "Second Theft",
+      "moved": true
+    }
+  }
+]

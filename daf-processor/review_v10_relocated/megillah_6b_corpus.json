@@ -1,0 +1,560 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Isaac Pleads for Esau",
+    "candidates": [
+      "Isaac Pleads for Esau",
+      "God's Response to Isaac",
+      "Jacob's Prayer vs Esau"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Isaac's plea for Esau and God's response all within one continuous exchange, and the current heading 'Isaac Pleads for Esau' with its prose accurately describes this entire passage including God's reply about Esau dealing wrongfully in the land of uprightness.",
+      "chosen_heading": "Isaac Pleads for Esau",
+      "current_heading": "Isaac Pleads for Esau",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Jacob's Prayer vs Esau",
+    "candidates": [
+      "God's Response to Isaac",
+      "Jacob's Prayer vs Esau",
+      "Germamia's Crown Princes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete passage about Jacob's prayer regarding Esau and the identification of Germamya, which is precisely what the 'Jacob's Prayer vs Esau' section's prose discusses in detail.",
+      "chosen_heading": "Jacob's Prayer vs Esau",
+      "current_heading": "Jacob's Prayer vs Esau",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Germamia's Crown Princes",
+    "candidates": [
+      "Germamia's Crown Princes",
+      "Toil and Success"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi \u1e24ama bar \u1e24anina's statement about the three hundred crown princes in Germamya and the 365 chieftains in Rome engaged in daily battle, which is exactly what the prose under heading 0 ('Germamia's Crown Princes') discusses in detail.",
+      "chosen_heading": "Germamia's Crown Princes",
+      "current_heading": "Germamia's Crown Princes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Toil and Success",
+    "candidates": [
+      "Toil and Success",
+      "Sharpness vs Memory",
+      "Don't Compete Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the classic 'yagati u'matzati' passage with its qualification about Torah vs. business and sharpness vs. memory, which is exactly what heading 0 ('Toil and Success') discusses in its prose.",
+      "chosen_heading": "Toil and Success",
+      "current_heading": "Toil and Success",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Don't Compete Wicked",
+    "candidates": [
+      "Sharpness vs Memory",
+      "Don't Compete Wicked",
+      "Yochanan: May Compete",
+      "Dostai: Realm Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yitzchak's teaching about not provoking a wicked person who is prospering, with the exact verses and progression (al titchar, drachav matzlichim, zoche badin, ro'eh b'sonav) that the 'Don't Compete Wicked' section's prose explicitly addresses.",
+      "chosen_heading": "Don't Compete Wicked",
+      "current_heading": "Don't Compete Wicked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Dostai: Realm Distinction",
+    "candidates": [
+      "Yochanan: May Compete",
+      "Dostai: Realm Distinction",
+      "Resolution Two Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge from Rabbi Yochanan/Rabbi Shimon ben Yochai and Rabbi Dostai (with the reinterpretation of the cautionary verses), which candidate 0 ('Yochanan: May Compete') explicitly describes in its prose, whereas the current placement under candidate 1 ('Dostai: Realm Distinction') skips over the Rabbi Yochanan citation that opens item 1.",
+      "chosen_heading": "Yochanan: May Compete",
+      "current_heading": "Dostai: Realm Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Resolution Two Ways",
+    "candidates": [
+      "Dostai: Realm Distinction",
+      "Resolution Two Ways",
+      "Huna: Righteous Safe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly resolves the contradiction between Rabbi Yitz\u1e25ak and Rabbi Yo\u1e25anan/Dostai by distinguishing personal matters from matters of Heaven, which is precisely what the 'Resolution Two Ways' prose discusses as its primary topic.",
+      "chosen_heading": "Resolution Two Ways",
+      "current_heading": "Resolution Two Ways",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Huna: Righteous Safe",
+    "candidates": [
+      "Huna: Righteous Safe",
+      "Rome's Size",
+      "365 Marketplaces"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous Gemara discussion about when the righteous may or may not provoke the wicked, and the current heading's prose explicitly references both the tzadik gamur principle and the 'sha'ah meshachekes lo' caveat that appear in items 1 and 2.",
+      "chosen_heading": "Huna: Righteous Safe",
+      "current_heading": "Huna: Righteous Safe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "365 Marketplaces",
+    "candidates": [
+      "Rome's Size",
+      "365 Marketplaces",
+      "Roman Citizenship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rome's size (300x300 parasangs) and the 365 markets in a single Talmudic statement, but the prose under heading 0 ('Rome's Size') already discusses the 300x300 dimensions and explicitly introduces Ulla's statement, while heading 1 handles only the marketplace details \u2014 however, since the quoted text is one continuous passage covering all these elements together, it fits best under heading 0 which introduces the full Ulla statement, with heading 1's prose describing the continuation; given the passage is currently under heading 1 and that prose also fits reasonably, confidence is medium.",
+      "chosen_heading": "Rome's Size",
+      "current_heading": "365 Marketplaces",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Roman Citizenship",
+    "candidates": [
+      "Roman Citizenship",
+      "Rome's Defenses",
+      "Mishnah: Adar II"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the stipend/citizenship content (residency vs. birth-based allowances) and the physical defenses of Rome, but the current placement (index 0) already quotes and discusses both the stipend section and the defensive geography in its prose, making it the better single home \u2014 though index 1's prose also discusses the defensive geography, the passage as a whole unit fits better where it currently sits since index 0's prose explicitly narrates all these elements together.",
+      "chosen_heading": "Roman Citizenship",
+      "current_heading": "Roman Citizenship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Mishnah: Adar II",
+    "candidates": [
+      "Rome's Defenses",
+      "Mishnah: Adar II",
+      "Tannaitic Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah about reading the Megilla in Adar Rishon vs. Adar Sheni and the Gemara's inference about seder parshiyot \u2014 are precisely what the prose of candidate 1 ('Mishnah: Adar II') describes and analyzes, including the specific point about seder parshiyot being the gemara's focus rather than mishloach manot.",
+      "chosen_heading": "Mishnah: Adar II",
+      "current_heading": "Mishnah: Adar II",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Tannaitic Dispute",
+    "candidates": [
+      "Tannaitic Dispute",
+      "Rav Papa Resolution",
+      "Which Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita's tannaitic dispute (Tanna Kamma and Rabbi Eliezer b'Rabbi Yosei's positions) about reading the Megilla in Adar Rishon vs. Adar Sheni, which is exactly what the 'Tannaitic Dispute' prose describes.",
+      "chosen_heading": "Tannaitic Dispute",
+      "current_heading": "Tannaitic Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Which Opinion",
+    "candidates": [
+      "Rav Papa Resolution",
+      "Which Opinion",
+      "Yitzchak Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Papa Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form the baraita and Rav Pappa's resolution distinguishing the three tannaitic positions on seder parshiyot vs mikra megilla, which is precisely what heading 0 'Rav Papa Resolution' describes.",
+      "second_heading": "Which Opinion",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 address the question of which tanna's opinion the mishna follows and the two resolutions (Tanna Kamma with de-ha be-ha talya, and Rabban Shimon ben Gamliel with chasorei mechasra), which is exactly what heading 1 'Which Opinion' describes.",
+      "current_heading": "Which Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Yitzchak Rules",
+    "candidates": [
+      "Yitzchak Rules",
+      "Same Verse Both",
+      "Close to Shevat",
+      "Close to Nisan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the halakhic ruling in favor of Rabban Shimon ben Gamliel as transmitted by Rabbi Yochanan, which is exactly what the 'Yitzchak Rules' prose describes.",
+      "chosen_heading": "Yitzchak Rules",
+      "current_heading": "Yitzchak Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Close to Nisan",
+    "candidates": [
+      "Same Verse Both",
+      "Close to Shevat",
+      "Close to Nisan",
+      "Textual Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items together form the continuous discussion of both Rabban Shimon ben Gamliel's and Rabbi Eliezer b'Rabbi Yose's positions on 'bechol shanah v'shanah,' including the rationales of ein ma'avirin, mismach geulah l'geulah, and the verse 'hashenis' \u2014 exactly what the 'Close to Nisan' prose describes in its summary of this entire dispute.",
+      "chosen_heading": "Close to Nisan",
+      "current_heading": "Close to Nisan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Textual Support",
+    "candidates": [
+      "Textual Support",
+      "Establish Me"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the textual necessity of both 'hashenis' and 'bechol shanah v'shanah,' and Rabbi Eliezer b'Rabbi Yose's derivation from 'hashenis' via Rav Shmuel bar Yehuda \u2014 exactly the content described in the 'Textual Support' prose.",
+      "chosen_heading": "Textual Support",
+      "current_heading": "Textual Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Establish Me",
+    "candidates": [
+      "Establish Me",
+      "Jealousy Concern",
+      "Already Written",
+      "Write Me",
+      "Three Times Already",
+      "Four Times Amalek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Esther's request to be established for future generations, the Sages' jealousy concern, and her 'already written' reply \u2014 all three exchanges in one block \u2014 and the current heading 'Establish Me' is where this full unit begins, matching the essay's prose which introduces the entire aggadah under that section.",
+      "chosen_heading": "Establish Me",
+      "current_heading": "Establish Me",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Four Times Amalek",
+    "candidates": [
+      "Jealousy Concern",
+      "Already Written",
+      "Write Me",
+      "Three Times Already",
+      "Four Times Amalek",
+      "Tannaim Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are part of the 'Write Me' exchange \u2014 Item 1 presents Esther's request for canonization and the Sages' initial rejection citing 'three times not four,' and Item 2 resolves that tension by finding the verse authorizing the Megilla \u2014 together they form the complete narrative of the 'katvuni l'doros' request, which the 'Write Me' prose explicitly introduces and frames.",
+      "chosen_heading": "Write Me",
+      "current_heading": "Four Times Amalek",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Tannaim Positions",
+    "candidates": [
+      "Four Times Amalek",
+      "Tannaim Positions",
+      "Not Canonical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Tannaitic dispute between Rabbi Yehoshua and Rabbi Elazar HaModai over parsing 'kesov zot zikaron basefer,' which is precisely what the 'Tannaim Positions' section's prose describes.",
+      "chosen_heading": "Tannaim Positions",
+      "current_heading": "Tannaim Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Not Canonical",
+    "candidates": [
+      "Not Canonical",
+      "Question Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states that Esther does not render hands impure, which is exactly what the prose under 'Not Canonical' discusses \u2014 Shmuel's ruling as the halachic criterion for canonization.",
+      "chosen_heading": "Not Canonical",
+      "current_heading": "Not Canonical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Question Paradox",
+    "candidates": [
+      "Question Paradox",
+      "Read Not Written",
+      "Ritva Distinction",
+      "Kohelet Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction (Shmuel seems to deny ruach hakodesh yet affirmed it elsewhere) and gives the brief answer, which fits the 'Question Paradox' section that frames this exact difficulty; the 'Read Not Written' section's prose discusses the resolution in more detail (Rashi, yotzei, miderabbanan), while this Talmudic text is the raw source of the paradox and its terse answer that the 'Question Paradox' heading introduces.",
+      "chosen_heading": "Question Paradox",
+      "current_heading": "Question Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Kohelet Status",
+    "candidates": [
+      "Read Not Written",
+      "Ritva Distinction",
+      "Kohelet Status",
+      "Kohelet Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about Rabbi Meir, Rabbi Yosei, and Rabbi Shimon's views on Kohelet and Shir HaShirim's canonical status, and the resolution that Shmuel follows Rabbi Yehoshua \u2014 exactly what the 'Kohelet Status' prose describes in detail.",
+      "chosen_heading": "Kohelet Status",
+      "current_heading": "Kohelet Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154
+    ],
+    "current_heading": "Kohelet Proof",
+    "candidates": [
+      "Kohelet Proof",
+      "Selective Canon",
+      "Hidden Thoughts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are a continuous discussion about whether Kohelet was divinely inspired, matching exactly the 'Kohelet Proof' section's prose about Rabbi Shimon ben Menasya's argument and the Sages' response regarding the three thousand proverbs and 'al tosef al devarav.'",
+      "chosen_heading": "Kohelet Proof",
+      "current_heading": "Kohelet Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161,
+      162,
+      163
+    ],
+    "current_heading": "Hidden Thoughts",
+    "candidates": [
+      "Selective Canon",
+      "Hidden Thoughts",
+      "Universal Favor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous baraita/sugya debating which verse proves Megillat Esther was written with ruach hakodesh, culminating in Rava's evaluation of all the proofs \u2014 this entire passage belongs under the 'Hidden Thoughts' heading which introduces precisely this multi-opinion discussion about divine inspiration of the Megillah.",
+      "chosen_heading": "Hidden Thoughts",
+      "current_heading": "Hidden Thoughts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Universal Favor",
+    "candidates": [
+      "Universal Favor",
+      "Kingdom Knowledge",
+      "Spoils Omniscience",
+      "Shmuel Best Proof",
+      "Sharp Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly challenges Rabbi Akiva's proof about universal favor by suggesting it could be explained naturally via Rabbi Elazar's teaching, which is exactly what the 'Universal Favor' section discusses.",
+      "chosen_heading": "Universal Favor",
+      "current_heading": "Universal Favor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177,
+      178
+    ],
+    "current_heading": "Sharp Answer",
+    "candidates": [
+      "Kingdom Knowledge",
+      "Spoils Omniscience",
+      "Shmuel Best Proof",
+      "Sharp Answer",
+      "Never Cease"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the gemara's refutations of the earlier proofs (Rabbi Meir's and Rabbi Yose bar Dumaskit's) followed by Ravina's folk saying about Shmuel's superior proof, which is precisely what heading 3 'Sharp Answer' describes in its prose.",
+      "chosen_heading": "Sharp Answer",
+      "current_heading": "Sharp Answer",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,563 @@
+[
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "K'lo'achar Yad on Yom Tov",
+    "candidates": [
+      "Hair Removal for Bechor",
+      "Eino Mitkaven & Definition",
+      "Melacha Irrelevant to Purpose",
+      "Rav Ashi's Reading",
+      "Tosafot: Nafka Mina",
+      "Yom Tov Application",
+      "Rav's Stance",
+      "Act Definition Differs",
+      "K'lo'achar Yad on Yom Tov",
+      "Tosafot: Chicken Feathers",
+      "Feathers: Normal Method",
+      "Missing Melacha Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rav's position that an unintentional act is prohibited (davar she'eino mitkaven assur) and that plucking is not shearing (tolash lav hainu gozez), then adds the Yom Tov rationale of k'lo'achar yad \u2014 this is precisely what heading 6 'Rav's Stance' describes, and the k'lo'achar yad conclusion flows directly from Rav's reasoning rather than being a separate topic.",
+      "chosen_heading": "Rav's Stance",
+      "current_heading": "K'lo'achar Yad on Yom Tov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Missing Melacha Concept",
+    "candidates": [
+      "Tosafot: Chicken Feathers",
+      "Feathers: Normal Method",
+      "Missing Melacha Concept",
+      "Derabbanan Gradations",
+      "Three Violations",
+      "Reish Lakish's Breakdown",
+      "Tolesh = Gozez (Birds)",
+      "Kotem: Cutting",
+      "Memarei'ach: Smoothing",
+      "Gemara Challenge",
+      "Shani Knaf: Species Difference",
+      "Rav Agrees; Disagrees",
+      "Rav's Core Principle",
+      "Challenge to R.Y.B.H."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge asking how plucking can be considered not-shearing given the baraita's explicit statement that tolesh is chayav mishum gozez, which is precisely what the 'Gemara Challenge' section describes.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Missing Melacha Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Challenge to R.Y.B.H.",
+    "candidates": [
+      "Derabbanan Gradations",
+      "Three Violations",
+      "Reish Lakish's Breakdown",
+      "Tolesh = Gozez (Birds)",
+      "Kotem: Cutting",
+      "Memarei'ach: Smoothing",
+      "Gemara Challenge",
+      "Shani Knaf: Species Difference",
+      "Rav Agrees; Disagrees",
+      "Rav's Core Principle",
+      "Challenge to R.Y.B.H.",
+      "Para Aduma Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rabbi Yosei ben HaMeshullam holds that an unintentional act is prohibited, which is precisely the challenge ('But does Rabbi Yosei ben HaMeshullam really hold that davar she'eino mitkaven is forbidden?') introduced in the 'Challenge to R.Y.B.H.' prose.",
+      "chosen_heading": "Challenge to R.Y.B.H.",
+      "current_heading": "Challenge to R.Y.B.H.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Para Aduma Case",
+    "candidates": [
+      "Para Aduma Case",
+      "Eino Mitkaven Inference",
+      "Para Not Korban",
+      "Kedushas Bedek HaBayit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita citation itself introducing the para aduma case with Rabbi Yosei ben HaMeshullam's ruling, which is exactly what candidate 0's prose describes as its content.",
+      "chosen_heading": "Para Aduma Case",
+      "current_heading": "Para Aduma Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Kedushas Bedek HaBayit",
+    "candidates": [
+      "Eino Mitkaven Inference",
+      "Para Not Korban",
+      "Kedushas Bedek HaBayit",
+      "R. Elazar's Challenge",
+      "Rare Case Exception",
+      "Pidyon Rejected",
+      "Demei Yakrin",
+      "Shmuel's Transfer",
+      "Rav's Final Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Para Not Korban",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the gemara's challenges and responses regarding why the para adumah is different (not subject to shearing prohibition, kedushat bedek habayit), which matches the 'Para Not Korban' and 'Kedushas Bedek HaBayit' prose \u2014 but item 1 specifically matches 'Para Not Korban' where the gemara raises the baraita challenge and the bedek habayit answer, while item 2 continues into Rabbi Elazar's challenge and the rare-case conclusion, matching 'Kedushas Bedek HaBayit' through 'Rare Case Exception'; however since items 1-2 together span the transition from the baraita objection through the bedek habayit answer, and the current placement is heading 2 ('Kedushas Bedek HaBayit'), item 1 actually belongs under heading 1 ('Para Not Korban') which discusses the baraita challenge.",
+      "second_heading": "Pidyon Rejected",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses redeeming the para adumah's sanctity (mechalel to chullin, shear, then re-consecrate), which precisely matches heading 5 'Pidyon Rejected' whose prose describes exactly this suggestion.",
+      "current_heading": "Kedushas Bedek HaBayit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rav's Final Position",
+    "candidates": [
+      "R. Elazar's Challenge",
+      "Rare Case Exception",
+      "Pidyon Rejected",
+      "Demei Yakrin",
+      "Shmuel's Transfer",
+      "Rav's Final Position",
+      "R.Y.B.H. Permits It",
+      "Eino Mitkaven Redefined",
+      "Para Proof",
+      "Rashi's Approach",
+      "Vetolesh Clarification",
+      "Rav Ashi: Hand Only",
+      "Cleaver Question",
+      "Cleaver Space-Clearing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rav holds like Rabbi Yosei ben HaMeshullam but Rabbi Yosei ben HaMeshullam does not hold like Rav, which is precisely the conclusion described in the 'Rav's Final Position' prose about Rav ruling like Rabbi Yosei ben HaMeshullam while understanding his reasoning differently.",
+      "chosen_heading": "Rav's Final Position",
+      "current_heading": "Rav's Final Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Cleaver Space-Clearing",
+    "candidates": [
+      "R.Y.B.H. Permits It",
+      "Eino Mitkaven Redefined",
+      "Para Proof",
+      "Rashi's Approach",
+      "Vetolesh Clarification",
+      "Rav Ashi: Hand Only",
+      "Cleaver Question",
+      "Cleaver Space-Clearing",
+      "Hand-Removal Acceptable",
+      "Inspection Removal",
+      "L'chatchila vs. Bi'di'avad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Cleaver Space-Clearing' \u2014 the Gemara's resolution that 'likupitz' (for a cleaver) rather than 'bekupitz' (with a cleaver) means the hair removal is by hand to make room for the slaughtering implement, which is precisely what the prose explains.",
+      "chosen_heading": "Cleaver Space-Clearing",
+      "current_heading": "Cleaver Space-Clearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "L'chatchila vs. Bi'di'avad",
+    "candidates": [
+      "Hand-Removal Acceptable",
+      "Inspection Removal",
+      "L'chatchila vs. Bi'di'avad",
+      "Tosefta: Ear Wool",
+      "R.Y.B.H. Allows Plucking",
+      "L'chatchila Inference",
+      "Rav Mari's Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the dilemma (l'chatchila or bedi'avad), Rabbi Yirmiya's proof from the baraita about entangled ear wool, and the conclusion that it is permitted l'chatchila \u2014 all of which maps directly to the current heading's prose about the ibaya and its resolution.",
+      "chosen_heading": "L'chatchila vs. Bi'di'avad",
+      "current_heading": "L'chatchila vs. Bi'di'avad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rav Mari's Point",
+    "candidates": [
+      "Tosefta: Ear Wool",
+      "R.Y.B.H. Allows Plucking",
+      "L'chatchila Inference",
+      "Rav Mari's Point",
+      "Shechita Obviousness",
+      "Inspection Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Mari's argument that the mishna itself already teaches the point, using the 'vekhen' comparison \u2014 exactly what the 'Rav Mari's Point' section describes.",
+      "chosen_heading": "Rav Mari's Point",
+      "current_heading": "Rav Mari's Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Inspection Context",
+    "candidates": [
+      "Shechita Obviousness",
+      "Inspection Context",
+      "Naturally Fallen Hair",
+      "Setting Aside",
+      "Post-Shechita Usage",
+      "Akavya: Permits",
+      "Chachamim: Forbid",
+      "Rashi's Concern",
+      "R. Yehuda's Case",
+      "Embedded Hair",
+      "Indistinguishable Hair",
+      "Clearly Separate Hair",
+      "Appearance Principle",
+      "Chachamim's Stance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage concludes that the mishna's mention of the inspection case must be permitting plucking l'chatchilah, which is precisely what the 'Inspection Context' prose discusses \u2014 that the inspection clause adds the novel ruling of ab initio permission.",
+      "chosen_heading": "Inspection Context",
+      "current_heading": "Inspection Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Chachamim's Stance",
+    "candidates": [
+      "Naturally Fallen Hair",
+      "Setting Aside",
+      "Post-Shechita Usage",
+      "Akavya: Permits",
+      "Chachamim: Forbid",
+      "Rashi's Concern",
+      "R. Yehuda's Case",
+      "Embedded Hair",
+      "Indistinguishable Hair",
+      "Clearly Separate Hair",
+      "Appearance Principle",
+      "Chachamim's Stance",
+      "Logical Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the complete Mishna about the hair of a blemished firstborn that shed naturally \u2014 covering the case setup, the dispute between Akavya and the Rabbis (as reported by Rabbi Yehuda and corrected by Rabbi Yosei), and the dangling wool refinement \u2014 which matches exactly the 'Naturally Fallen Hair' section's description of this new case.",
+      "chosen_heading": "Naturally Fallen Hair",
+      "current_heading": "Chachamim's Stance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Logical Challenge",
+    "candidates": [
+      "Chachamim's Stance",
+      "Logical Challenge",
+      "Death Case Severity",
+      "Shechita Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's logical challenge \u2014 that Rabbi Yosei's statement implies Akavya prohibited the shechita case, which seems unnecessary given that even the more severe death case is permitted \u2014 which is precisely what the 'Logical Challenge' section's prose describes.",
+      "chosen_heading": "Logical Challenge",
+      "current_heading": "Logical Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Shechita Consensus",
+    "candidates": [
+      "Death Case Severity",
+      "Shechita Consensus",
+      "Death Case Debate",
+      "Expert Permits Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that when the animal was slaughtered everyone agrees the wool is permitted (divrei hakol shari), which is precisely what the 'Shechita Consensus' section's prose describes, and the mention of the death case disagreement is secondary context within the same statement.",
+      "chosen_heading": "Shechita Consensus",
+      "current_heading": "Shechita Consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Expert Permits Case",
+    "candidates": [
+      "Death Case Debate",
+      "Expert Permits Case",
+      "Delay Concern",
+      "No Safeguard Needed",
+      "Pre-Inspection Case",
+      "All Forbid Pre-Inspection",
+      "Urgency Distinction",
+      "One Bad Animal Forbids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Reish Lakish's refinement that the dispute applies specifically when a mumche has already permitted the animal, which is exactly what the 'Expert Permits Case' prose describes.",
+      "chosen_heading": "Expert Permits Case",
+      "current_heading": "Expert Permits Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179
+    ],
+    "current_heading": "One Bad Animal Forbids",
+    "candidates": [
+      "Delay Concern",
+      "No Safeguard Needed",
+      "Pre-Inspection Case",
+      "All Forbid Pre-Inspection",
+      "Urgency Distinction",
+      "One Bad Animal Forbids",
+      "Rabbi Yosei's Solution",
+      "Yivaker Meaning",
+      "Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about blemished animals rendering a flock forbidden in any ratio, which is exactly what the prose of 'One Bad Animal Forbids' describes.",
+      "chosen_heading": "One Bad Animal Forbids",
+      "current_heading": "One Bad Animal Forbids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      186
+    ],
+    "current_heading": "Interpretations",
+    "candidates": [
+      "Rabbi Yosei's Solution",
+      "Yivaker Meaning",
+      "Interpretations",
+      "Wool Mix, Not Animals",
+      "Hair Falls and Mixes",
+      "R. Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the gemara's direct inquiry into 'what does yivaker mean,' which matches heading 1's prose about 'mai yivaker \u2014 what exactly does this mean,' rather than heading 2 which discusses the conclusion/difficulty of that interpretation.",
+      "chosen_heading": "Yivaker Meaning",
+      "current_heading": "Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      194
+    ],
+    "current_heading": "R. Yehuda Position",
+    "candidates": [
+      "Wool Mix, Not Animals",
+      "Hair Falls and Mixes",
+      "R. Yehuda Position",
+      "R. Yosi's Logic",
+      "Mum Type Check",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Na\u1e25man/Rabbah bar Avuha's clarification that the case is about shearings, the intermingling with chullin wool, the identification of the first tanna as Rabbi Yehuda, and Rabbi Yosei's reasoning \u2014 making it a single unified statement that belongs under 'Wool Mix, Not Animals' where the full quote is introduced, rather than being split across multiple headings.",
+      "chosen_heading": "Wool Mix, Not Animals",
+      "current_heading": "R. Yehuda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      201,
+      202
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "R. Yosi's Logic",
+      "Mum Type Check",
+      "Rava's Reading",
+      "Jerusalem Critique"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mum Type Check",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Sheshet's challenge that 'yivakar' means checking whether the mum is permanent or transitory, which is precisely what the 'Mum Type Check' prose describes.",
+      "second_heading": "Rava's Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's rebuttal that 'yivakar' means checking for mumche certification rather than mum type, which is exactly what 'Rava's Reading' prose describes.",
+      "current_heading": "Rava's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      206
+    ],
+    "current_heading": "Jerusalem Critique",
+    "candidates": [
+      "Jerusalem Critique",
+      "Correct Framework",
+      "Found Nothing Case",
+      "R. Meir's Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Jerusalem Critique' prose \u2014 Ravin ascending to Eretz Yisrael, Rabbi Yirmiya's rebuke about foolish Babylonians dwelling in darkness, and the invocation of Rabbi Yochanan's teaching \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Jerusalem Critique",
+      "current_heading": "Jerusalem Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      214,
+      215
+    ],
+    "current_heading": "R. Meir's Presumption",
+    "candidates": [
+      "Correct Framework",
+      "Found Nothing Case",
+      "R. Meir's Presumption",
+      "Chachamim Override",
+      "Source Identification",
+      "Thorough Digging",
+      "Found the Blemish",
+      "Grave Identity",
+      "Same Grave View",
+      "Full Field Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Rabbi Meir / Rabbis dispute about presumptive ritual impurity in a field where a grave was buried but not found upon excavation, which is precisely what heading 2 ('R. Meir's Presumption') describes in its prose.",
+      "chosen_heading": "R. Meir's Presumption",
+      "current_heading": "R. Meir's Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      231,
+      232,
+      233,
+      234
+    ],
+    "current_heading": "Full Field Check",
+    "candidates": [
+      "Chachamim Override",
+      "Source Identification",
+      "Thorough Digging",
+      "Found the Blemish",
+      "Grave Identity",
+      "Same Grave View",
+      "Full Field Check",
+      "Rav Assi's Reason",
+      "Tumah Analogy",
+      "Raven Explanation",
+      "Blemish Differs",
+      "Blemish Absence",
+      "Transitory Blemish",
+      "Why Chiya Wouldn't Adopt Rav Assi's Position",
+      "Field Analogy",
+      "Pre-Checked Holy",
+      "Blemish Timing",
+      "New Blemishes Possible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together form the complete discussion of Rabbi Asi's version \u2014 that the dispute concerns a case where one examined and found a blemished animal \u2014 including the parallel to Rabbi and Rabban Shimon ben Gamliel's grave dispute, and the back-and-forth about why Rabbi Asi and Rabbi \u1e24iyya bar Abba each preferred their own framing, which is precisely what heading 3 ('Found the Blemish') describes.",
+      "chosen_heading": "Found the Blemish",
+      "current_heading": "Full Field Check",
+      "moved": true
+    }
+  }
+]

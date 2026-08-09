@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Baraita Overview",
+    "candidates": [
+      "Baraita Overview",
+      "Red Sea Crossing",
+      "Jordan Crossing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself listing all the miraculous sites, which matches the 'Baraita Overview' prose that describes the full list before the Gemara begins analyzing each item individually.",
+      "chosen_heading": "Baraita Overview",
+      "current_heading": "Baraita Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Jordan Crossing",
+    "candidates": [
+      "Red Sea Crossing",
+      "Jordan Crossing",
+      "Wadis of Arnon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the Red Sea crossing and the Jordan crossing together as a single Gemara unit, and candidate 0 ('Red Sea Crossing') covers both miracles in its prose, while candidate 1 covers only the Jordan crossing \u2014 the passage belongs under the heading where the Gemara first begins its elaboration of both crossings together.",
+      "chosen_heading": "Red Sea Crossing",
+      "current_heading": "Jordan Crossing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Wadis of Arnon",
+    "candidates": [
+      "Jordan Crossing",
+      "Wadis of Arnon",
+      "Stones Suspended",
+      "Beit Choron Context"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Wadis of Arnon",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 describe the Arnon wadi miracle with the two lepers, the Amorites in caves, and the Ark flattening mountains \u2014 exactly the content described in the 'Wadis of Arnon' prose.",
+      "second_heading": "Stones Suspended",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a new inquiry about the hailstones of Elgavish, which is precisely the topic introduced in the 'Stones Suspended' section prose.",
+      "current_heading": "Wadis of Arnon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Beit Choron Context",
+    "candidates": [
+      "Stones Suspended",
+      "Beit Choron Context",
+      "Og Plans Attack"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Moses suspension and the Joshua descent as a single teaching, matching the 'Stones Suspended' section's prose which introduces the entire baraita about stones suspended above one person and falling upon another.",
+      "chosen_heading": "Stones Suspended",
+      "current_heading": "Beit Choron Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Og Plans Attack",
+    "candidates": [
+      "Beit Choron Context",
+      "Og Plans Attack",
+      "Mountain Destroyed",
+      "Og's Teeth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Og's plan to uproot and hurl the mountain, which matches exactly the 'Og Plans Attack' section's prose about Og calculating the camp size and uprooting the mountain \u2014 the current placement is correct.",
+      "chosen_heading": "Og Plans Attack",
+      "current_heading": "Og Plans Attack",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Og's Teeth",
+    "candidates": [
+      "Mountain Destroyed",
+      "Og's Teeth",
+      "Moses Defeats Og"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Og's teeth extending in both directions preventing removal of the mountain, and interprets the verse about the teeth of the wicked via Rabbi Shimon ben Lakish \u2014 exactly what the 'Og's Teeth' section prose discusses.",
+      "chosen_heading": "Og's Teeth",
+      "current_heading": "Og's Teeth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Moses Defeats Og",
+    "candidates": [
+      "Moses Defeats Og",
+      "Stone at Amalek War",
+      "Lot's Wife"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moses Defeats Og",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concluding line of the Og battle narrative, describing how Moses killed Og, which fits squarely under 'Moses Defeats Og' whose prose explicitly describes this axe-jumping-ankle episode.",
+      "second_heading": "Stone at Amalek War",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about the rock upon which Moses sat (during the Amalek war, Exodus 17:12), which matches 'Stone at Amalek War' whose prose specifically discusses that stone and Moses sitting on it during Joshua's battle against Amalek.",
+      "current_heading": "Moses Defeats Og",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Lot's Wife",
+    "candidates": [
+      "Stone at Amalek War",
+      "Lot's Wife",
+      "Punishment vs Salvation",
+      "Specific Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the verse about Lot's wife becoming a pillar of salt and the wall of Jericho falling, which is precisely what the prose under 'Lot's Wife' describes as the content of the baraita at that point.",
+      "chosen_heading": "Lot's Wife",
+      "current_heading": "Lot's Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Specific Blessings",
+    "candidates": [
+      "Punishment vs Salvation",
+      "Specific Blessings",
+      "God Remembers Righteous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge that Lot's wife is a punishment (puranuta) rather than a miracle, and the resolution to recite 'Baruch Dayan HaEmet' \u2014 which is precisely what the 'Punishment vs Salvation' section's prose discusses.",
+      "chosen_heading": "Punishment vs Salvation",
+      "current_heading": "Specific Blessings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "God Remembers Righteous",
+    "candidates": [
+      "Specific Blessings",
+      "God Remembers Righteous",
+      "Jericho Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the emendation about two blessings for Lot and his wife AND Rabbi Yochanan's theological lesson about God remembering the righteous, and candidate 1's prose explicitly discusses both elements together, making it the correct placement.",
+      "chosen_heading": "God Remembers Righteous",
+      "current_heading": "God Remembers Righteous",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Jericho Wall",
+    "candidates": [
+      "Jericho Wall",
+      "Four Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the wall of Jericho being swallowed vs. fallen, which is exactly what the 'Jericho Wall' section's prose describes.",
+      "chosen_heading": "Jericho Wall",
+      "current_heading": "Jericho Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Four Categories",
+    "candidates": [
+      "Four Categories",
+      "Seafarers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces all four categories together as a unit, which matches the 'Four Categories' heading prose that discusses the general obligation of arbaah tzrichim lehodot, not the specific 'Seafarers' section which focuses on the detailed pesukim for that first category alone.",
+      "chosen_heading": "Four Categories",
+      "current_heading": "Four Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Seafarers",
+    "candidates": [
+      "Seafarers",
+      "Desert Travelers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses seafarers (yordei hayam) and quotes Psalm 107 verses about storms at sea, which exactly matches the 'Seafarers' section prose.",
+      "chosen_heading": "Seafarers",
+      "current_heading": "Seafarers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Desert Travelers",
+    "candidates": [
+      "Desert Travelers",
+      "Healed from Sickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses those who walk in the desert (holchei midbarot) and the Psalm verses about wandering in the wilderness, which perfectly matches the 'Desert Travelers' section prose.",
+      "chosen_heading": "Desert Travelers",
+      "current_heading": "Desert Travelers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Healed from Sickness",
+    "candidates": [
+      "Healed from Sickness",
+      "Released Prisoners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes one who was ill and recovered, matching the 'Healed from Sickness' section's prose about sickness, sin, and recovery.",
+      "chosen_heading": "Healed from Sickness",
+      "current_heading": "Healed from Sickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Released Prisoners",
+    "candidates": [
+      "Released Prisoners",
+      "Gomel Blessing",
+      "Ten Witnesses",
+      "Two Sages Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly supports the 'Released Prisoners' section, providing the scriptural derivation for why incarcerated people must offer thanks, which matches exactly what the prose describes.",
+      "chosen_heading": "Released Prisoners",
+      "current_heading": "Released Prisoners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Two Sages Required",
+    "candidates": [
+      "Gomel Blessing",
+      "Ten Witnesses",
+      "Two Sages Required",
+      "Rav Yehuda Heals",
+      "Exemption Claim",
+      "Amen as Equivalent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover exactly what heading 2 ('Two Sages Required') discusses: Mar Zutra's requirement of two sages, Rav Ashi's challenge about all being sages, the further difficulty about ten plus two separately, and the concluding kashya \u2014 all of which is fully narrated in that section's prose.",
+      "chosen_heading": "Two Sages Required",
+      "current_heading": "Two Sages Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Amen as Equivalent",
+    "candidates": [
+      "Rav Yehuda Heals",
+      "Exemption Claim",
+      "Amen as Equivalent",
+      "Vulnerable Categories",
+      "Extended Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete narrative of Rav Yehuda's recovery and the thanksgiving exchange \u2014 item 1 is the story and item 2 is the immediate Talmudic resolution of it \u2014 and heading 0 ('Rav Yehuda Heals') with its prose covers the entire incident, while headings 1 and 2 artificially split what is one continuous sugya.",
+      "chosen_heading": "Rav Yehuda Heals",
+      "current_heading": "Amen as Equivalent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Extended Categories",
+    "candidates": [
+      "Vulnerable Categories",
+      "Extended Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces Rav Yehuda's statement about three requiring protection and then adds the baraita's extensions all in one unit, and the 'Vulnerable Categories' prose covers the full statement including the baraita additions, making it a slightly better fit than the current placement under 'Extended Categories' which only discusses the additions \u2014 though the split is artificial since the passage is a single continuous unit.",
+      "chosen_heading": "Vulnerable Categories",
+      "current_heading": "Extended Categories",
+      "moved": true
+    }
+  }
+]

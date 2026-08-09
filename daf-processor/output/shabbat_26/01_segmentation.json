@@ -116,7 +116,7 @@
           "timestamp": "14:55"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -135,8 +135,8 @@
           "timestamp": "16:08"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Garment Impurity: Wool, Linen, and Other Materials",
@@ -174,7 +174,7 @@
           "timestamp": "37:50"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     }
   ],
@@ -370,5 +370,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "19:53",
+  "amud_b_micro_title": "Wool & Linen Only",
+  "shiur_start_daf": 25,
+  "shiur_start_amud": "b"
 }

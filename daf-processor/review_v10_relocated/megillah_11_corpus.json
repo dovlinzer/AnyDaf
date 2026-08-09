@@ -1,0 +1,590 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Mordechai vs Haman",
+    "candidates": [
+      "Psicha Genre",
+      "Tanakh Unity",
+      "Esther & Earlier Texts",
+      "Birbot Tzadikim",
+      "Mordechai vs Haman",
+      "God's Closeness",
+      "Nes Galui vs Hester",
+      "Jewish Distinctiveness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's psicha opening with the verse from Mishlei 29:2, which is precisely what the 'Birbot Tzadikim' section's prose introduces, while the current placement under 'Mordechai vs Haman' covers the application/interpretation that follows the opening verse.",
+      "chosen_heading": "Birbot Tzadikim",
+      "current_heading": "Mordechai vs Haman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Jewish Distinctiveness",
+    "candidates": [
+      "God's Closeness",
+      "Nes Galui vs Hester",
+      "Jewish Distinctiveness",
+      "Vayehi Woe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Mattana's quote (about God's closeness, Devarim 4:7) and Rav Ashi's quote (Devarim 4:34), and candidate 0 discusses Rav Masna/Mattana's verse while candidate 1 discusses Rav Ashi's verse \u2014 the full passage belongs under heading 0 ('God's Closeness') since it opens with Rav Mattana's statement, which is the primary subject of that section's prose, and Rav Ashi's line naturally follows as the next item in sequence before the essay transitions to a new heading.",
+      "chosen_heading": "God's Closeness",
+      "current_heading": "Jewish Distinctiveness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Vayehi Woe",
+    "candidates": [
+      "Jewish Distinctiveness",
+      "Vayehi Woe",
+      "Rashi: No Buyers",
+      "Haman's Money",
+      "Yevanim Period",
+      "Nevuchadnezzar",
+      "Haman's Threat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's interpretation of 'vayhi' as 'vai vehi' (woe and mourning) and its connection to the verse in Deuteronomy 28:68, which is precisely what the 'Vayehi Woe' section's prose describes.",
+      "chosen_heading": "Vayehi Woe",
+      "current_heading": "Vayehi Woe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Haman's Threat",
+    "candidates": [
+      "Rashi: No Buyers",
+      "Haman's Money",
+      "Yevanim Period",
+      "Nevuchadnezzar",
+      "Haman's Threat",
+      "Persians & Messiah",
+      "Kasdim Leaders",
+      "Yevanim Leaders",
+      "Haman Leaders",
+      "Parsiyim Sages",
+      "Messianic Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's full interpretation of Leviticus 26:44 mapping each phrase to a historical period, and candidate 2 ('Yevanim Period') is where Shmuel's statement begins \u2014 it introduces 'lo me'astim bimei Yevanim,' which is the opening of this very passage, making it the correct home for the entire quoted text.",
+      "chosen_heading": "Yevanim Period",
+      "current_heading": "Haman's Threat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Messianic Future",
+    "candidates": [
+      "Persians & Messiah",
+      "Kasdim Leaders",
+      "Yevanim Leaders",
+      "Haman Leaders",
+      "Parsiyim Sages",
+      "Messianic Future",
+      "Amalek Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita covers all five phrases (Kasdim through future), beginning with 'Lo me'astim bimei Kasdim,' which matches heading 1's prose that explicitly introduces this baraita with that same phrase and the same leaders (Daniel, Hananiah, Mishael, Azariah).",
+      "chosen_heading": "Kasdim Leaders",
+      "current_heading": "Messianic Future",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Amalek Connection",
+    "candidates": [
+      "Messianic Future",
+      "Amalek Connection",
+      "Oral Tradition",
+      "Structural Parallels",
+      "Enemy Agency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Levi's verse from Numbers about driving out inhabitants of the land, which the candidate heading 'Amalek Connection' explicitly discusses as explaining the Purim story's connection to Saul's failure to destroy Amalek.",
+      "chosen_heading": "Amalek Connection",
+      "current_heading": "Amalek Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Enemy Agency",
+    "candidates": [
+      "Oral Tradition",
+      "Structural Parallels",
+      "Enemy Agency",
+      "Epochs & Bimei",
+      "Achiv Shel Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi \u1e24iyya's prooftext about God doing to Israel what He 'thought to do' to their enemies \u2014 directly relevant to the 'Enemy Agency' section's discussion of divine punishment, Israel's failure to fulfill commandments, and the relationship between God's plan and the fate of Israel's enemies.",
+      "chosen_heading": "Enemy Agency",
+      "current_heading": "Enemy Agency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Achiv Shel Rav",
+    "candidates": [
+      "Epochs & Bimei",
+      "Achiv Shel Rav",
+      "Parallel Actions",
+      "Rashi Dating",
+      "Rabbi Yochanan",
+      "Rabbi Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the name Ahasuerus as 'brother of the head' and 'of the same character as the head,' directly matching the 'Achiv Shel Rav' section's prose about achiv shel rosh and the identification of Nebuchadnezzar as the rosh.",
+      "chosen_heading": "Achiv Shel Rav",
+      "current_heading": "Achiv Shel Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rabbi Chanina",
+    "candidates": [
+      "Parallel Actions",
+      "Rashi Dating",
+      "Rabbi Yochanan",
+      "Rabbi Chanina",
+      "Hu Achashverosh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Shmuel, Rabbi Yo\u1e25anan, and Rabbi \u1e24anina) together, but the essay has broken them into separate headings; however, since the passage as a single unit begins with Shmuel's view and continues through Rabbi Yo\u1e25anan and Rabbi \u1e24anina, and the 'Rabbi Yochanan' section's prose explicitly quotes the Rabbi Yochanan opinion that opens the middle of this passage, while the current placement under 'Rabbi Chanina' only covers the last opinion \u2014 the best single heading that captures the passage's content (all three opinions about the name Achashverosh) would be 'Rabbi Yochanan' since it's where this multi-opinion sugya naturally begins after Shmuel, and the prose there discusses the same material.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Chanina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Hu Achashverosh",
+    "candidates": [
+      "Rabbi Chanina",
+      "Hu Achashverosh",
+      "Wicked Examples",
+      "Righteous vs Wicked",
+      "Aaron & Moses",
+      "David's Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the word 'hu' (this is) indicating wickedness from beginning to end, starting with Ahasuerus and extending to Esau, Dathan and Abiram, and Ahaz \u2014 exactly what the 'Hu Achashverosh' section's prose describes as the trigger for a broader drashah on 'hu' wherever it appears.",
+      "chosen_heading": "Hu Achashverosh",
+      "current_heading": "Hu Achashverosh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "David's Humility",
+    "candidates": [
+      "Wicked Examples",
+      "Righteous vs Wicked",
+      "Aaron & Moses",
+      "David's Humility",
+      "Self-Made Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers all three righteous examples (Abraham, Aaron & Moses, and David's humility), but its primary and most detailed content is about David's humility, matching the current placement under 'David's Humility' which provides the detailed prose explanation of David's katnuto.",
+      "chosen_heading": "David's Humility",
+      "current_heading": "David's Humility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Self-Made Debate",
+    "candidates": [
+      "Self-Made Debate",
+      "Geographic Extent",
+      "Universal Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's interpretation of 'who reigned' as self-appointed kingship and the debate over whether this is praiseworthy or blameworthy, which exactly matches the 'Self-Made Debate' section's prose.",
+      "chosen_heading": "Self-Made Debate",
+      "current_heading": "Self-Made Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Universal Rule",
+    "candidates": [
+      "Geographic Extent",
+      "Universal Rule",
+      "Same Methodology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both opinions of Rav and Shmuel about the geographic meaning of 'from Hodu to Cush,' which matches the 'Geographic Extent' section prose that introduces both views, whereas the current placement under 'Universal Rule' only covers the conclusion drawn from the second opinion.",
+      "chosen_heading": "Geographic Extent",
+      "current_heading": "Universal Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Same Methodology",
+    "candidates": [
+      "Universal Rule",
+      "Same Methodology",
+      "Province Growth",
+      "Derasha Objection",
+      "Superfluous Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Shlomo's dominion from Tiphsah to Gaza and the Rav/Shmuel dispute is precisely what the 'Same Methodology' prose describes, including the parallel structure and identical methodology applied to both Achashverosh and Shlomo.",
+      "chosen_heading": "Same Methodology",
+      "current_heading": "Same Methodology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Superfluous Text",
+    "candidates": [
+      "Province Growth",
+      "Derasha Objection",
+      "Superfluous Text",
+      "The Three Kings",
+      "Achav Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Rav \u1e24isda's staged-reign interpretation, the objection from Amram's years, and the superfluous-verse response \u2014 which together form one continuous sugya best captured under 'Province Growth' (heading 0), since headings 1 and 2 only cover sub-portions of this single unified text.",
+      "chosen_heading": "Province Growth",
+      "current_heading": "Superfluous Text",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Achav Example",
+    "candidates": [
+      "The Three Kings",
+      "Achav Example",
+      "Nevuchadnezzar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the proof for Ahab's universal dominion via the oath verse, which matches exactly the 'Achav Example' section's prose about Eliyahu, the oath, and Ahab's power over foreign nations.",
+      "chosen_heading": "Achav Example",
+      "current_heading": "Achav Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Nevuchadnezzar",
+    "candidates": [
+      "Nevuchadnezzar",
+      "Achashverosh",
+      "Shlomo's End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both Nebuchadnezzar (with the Jeremiah verse) and Ahasuerus (briefly, by reference), and the current heading 'Nevuchadnezzar' matches the primary content, with Ahasuerus being a brief closing reference \u2014 the prose under heading 0 specifically discusses this exact Jeremiah verse about the yoke of Babylon.",
+      "chosen_heading": "Nevuchadnezzar",
+      "current_heading": "Nevuchadnezzar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Shlomo's End",
+    "candidates": [
+      "Achashverosh",
+      "Shlomo's End",
+      "Return to Kingship",
+      "Supernal Rule",
+      "Sancheriv Limited"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shlomo's End",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the mnemonic and the question/answer about Solomon's incomplete kingship (*lo salik malchutei*), which is exactly what heading 1 ('Shlomo's End') discusses.",
+      "second_heading": "Return to Kingship",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the dispute between 'melech ve'hedyot' and 'melech ve'hedyot u'melech' and Solomon's supernal rule, which is the content of heading 2 ('Return to Kingship') \u2014 though heading 3 ('Supernal Rule') covers the answer, heading 2's prose explicitly introduces both the question and the answer together, making it the best single home; however heading 2's prose matches the transition and heading 3 matches the resolution, and since item 2 contains both the question and answer as one continuous exchange, heading 2 is the better fit as it frames the whole exchange.",
+      "current_heading": "Shlomo's End",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Sancheriv Limited",
+    "candidates": [
+      "Return to Kingship",
+      "Supernal Rule",
+      "Sancheriv Limited",
+      "Daryavesh 120"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Sennacherib's claim to universal dominion and the Gemara's response that Jerusalem was not conquered, which is exactly what the 'Sancheriv Limited' section's prose describes.",
+      "chosen_heading": "Sancheriv Limited",
+      "current_heading": "Sancheriv Limited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Daryavesh 120",
+    "candidates": [
+      "Daryavesh 120",
+      "Koresh Unreliable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Darius's claim to universal rule and the rebuttal that he only ruled 120 provinces, which exactly matches the prose under 'Daryavesh 120'.",
+      "chosen_heading": "Daryavesh 120",
+      "current_heading": "Daryavesh 120",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Koresh Unreliable",
+    "candidates": [
+      "Koresh Unreliable",
+      "Timing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Cyrus's claim to rule all kingdoms and the Gemara's dismissal of it as mere self-boasting, which is precisely what the 'Koresh Unreliable' section's prose addresses.",
+      "chosen_heading": "Koresh Unreliable",
+      "current_heading": "Koresh Unreliable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Timing Question",
+    "candidates": [
+      "Timing Question",
+      "Rava's Solution",
+      "70-Year Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the timing contradiction (heading 0) and Rava's solution (heading 1), but since it opens with the contradiction question and then immediately provides Rava's answer including the Belshazzar reference, and heading 0's prose introduces the very contradiction this passage addresses while heading 1 only covers part of the passage, the current placement under 'Timing Question' keeps the full unit together \u2014 though heading 1 is also a plausible match for the resolution portion.",
+      "chosen_heading": "Timing Question",
+      "current_heading": "Timing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "70-Year Connection",
+    "candidates": [
+      "Rava's Solution",
+      "70-Year Connection",
+      "Two Prophecies",
+      "Belshatzar's Sum",
+      "False Confidence",
+      "Year 1-2",
+      "Dating Systems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Belshazzar's specific calculation (45 years of Nebuchadnezzar + 23 of Evil-merodach + 2 of his own = 70), which matches exactly the prose of 'Belshatzar's Sum' rather than the current placement under '70-Year Connection.'",
+      "chosen_heading": "Belshatzar's Sum",
+      "current_heading": "70-Year Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Dating Systems",
+    "candidates": [
+      "Two Prophecies",
+      "Belshatzar's Sum",
+      "False Confidence",
+      "Year 1-2",
+      "Dating Systems",
+      "Exiles Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes the exact words 'galu b'sheva, galu b'shmoneh, galu b'shmoneh esreh, galu b'tishah esreh' which is precisely what the 'Dating Systems' section's prose discusses and explains, making it the correct placement.",
+      "chosen_heading": "Dating Systems",
+      "current_heading": "Dating Systems",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Exiles Timeline",
+    "candidates": [
+      "Exiles Timeline",
+      "Keilim Shonim",
+      "Satan's Role",
+      "Different Fates",
+      "Different Method",
+      "Achashverosh Sum",
+      "Repeated Sin",
+      "Yehoyachin Release",
+      "45-Year Sum",
+      "Historical Alignment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the 7/8 and 18/19 year discrepancies in the exile chronology and quotes the verse about Evil Merodach releasing Jehoiachin in the 37th year \u2014 exactly the content described in the 'Exiles Timeline' prose.",
+      "chosen_heading": "Exiles Timeline",
+      "current_heading": "Exiles Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      195,
+      196,
+      197
+    ],
+    "current_heading": "Historical Alignment",
+    "candidates": [
+      "Keilim Shonim",
+      "Satan's Role",
+      "Different Fates",
+      "Different Method",
+      "Achashverosh Sum",
+      "Repeated Sin",
+      "Yehoyachin Release",
+      "45-Year Sum",
+      "Historical Alignment",
+      "Future Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All three items are covered by heading 8's prose, which explicitly traces the 45+23+2=70 Belshazzar calculation, his use of Temple vessels, Daniel's rebuke, Belshazzar's death, and introduces Achashverosh's parallel miscalculation \u2014 exactly the content of items 1-3.",
+      "chosen_heading": "Historical Alignment",
+      "current_heading": "Historical Alignment",
+      "moved": false
+    }
+  }
+]

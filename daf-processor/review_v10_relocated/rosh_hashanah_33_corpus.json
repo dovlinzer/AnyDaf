@@ -1,0 +1,494 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Psalm 24 Analysis",
+    "candidates": [
+      "Melech Mentions",
+      "Psalm 24 Analysis",
+      "Universal Kingship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely the Rabbi Yose / Rabbi Yehuda dispute over counting Melech mentions in Psalm 24, which is exactly what the 'Psalm 24 Analysis' prose describes in detail.",
+      "chosen_heading": "Psalm 24 Analysis",
+      "current_heading": "Psalm 24 Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Universal Kingship",
+    "candidates": [
+      "Universal Kingship",
+      "Double-Purpose Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the dispute between Rabbi Yosei and Rabbi Yehuda about counting 'zamru le'malkeinu' versus 'melech kol ha'aretz' as one or two Kingship verses, which is precisely what the 'Universal Kingship' prose section describes.",
+      "chosen_heading": "Universal Kingship",
+      "current_heading": "Universal Kingship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Double-Purpose Verses",
+    "candidates": [
+      "Double-Purpose Verses",
+      "Teruah vs Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern verses serving double duty across two sections (zichronos/shofros and malchuyos/shofros), which is precisely what the 'Double-Purpose Verses' prose describes in detail.",
+      "chosen_heading": "Double-Purpose Verses",
+      "current_heading": "Double-Purpose Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Teruah vs Shofar",
+    "candidates": [
+      "Teruah vs Shofar",
+      "End with Navi",
+      "Torah Framing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Yosei and Rabbi Yehuda about the verse 'yom teruah yiheyeh lachem' and whether it qualifies for the shofros section, which is precisely what the 'Teruah vs Shofar' prose elaborates upon.",
+      "chosen_heading": "Teruah vs Shofar",
+      "current_heading": "Teruah vs Shofar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Torah Framing",
+    "candidates": [
+      "End with Navi",
+      "Torah Framing",
+      "Vatikin Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of whether 'im hishlim' implies only bdi'avad vs. lechatchila, and the baraita contradiction, which is precisely what heading 0 ('End with Navi') describes in its prose.",
+      "chosen_heading": "End with Navi",
+      "current_heading": "Torah Framing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Vatikin Practice",
+    "candidates": [
+      "Torah Framing",
+      "Vatikin Practice",
+      "Malchuyot Shortage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's resolution (begin with Torah, conclude with Torah; Rabbi Yosei's ruling) and the baraita about vatikin, which together form the full unit the 'Torah Framing' prose describes \u2014 the current placement under 'Vatikin Practice' captures only the final line while missing that the whole passage is about the Torah-framing structure.",
+      "chosen_heading": "Torah Framing",
+      "current_heading": "Vatikin Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Malchuyot Shortage",
+    "candidates": [
+      "Malchuyot Shortage",
+      "Fourth Malchuyot",
+      "Shema as Malchuyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the shortage of Malchuyot Torah verses and the question of how we can find ten total, which is precisely what the 'Malchuyot Shortage' section's prose discusses.",
+      "chosen_heading": "Malchuyot Shortage",
+      "current_heading": "Malchuyot Shortage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Shema as Malchuyot",
+    "candidates": [
+      "Fourth Malchuyot",
+      "Shema as Malchuyot",
+      "Musaf Prayer Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's 'ta shema' introduction of the baraita, which candidate 0 ('Fourth Malchuyot') explicitly describes as its prose content, while candidate 1 discusses the subsequent analysis and debate that follows this introductory citation.",
+      "chosen_heading": "Fourth Malchuyot",
+      "current_heading": "Shema as Malchuyot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Musaf Prayer Verses",
+    "candidates": [
+      "Shema as Malchuyot",
+      "Musaf Prayer Verses",
+      "Shofar in Musaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the exact verses (v'yadata hayom and ata hareita) and the Rabbi Yose/Rabbi Yehuda dispute about whether they qualify as malchuyot verses, which is precisely what the 'Shema as Malchuyot' section's prose explicitly describes.",
+      "chosen_heading": "Shema as Malchuyot",
+      "current_heading": "Musaf Prayer Verses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Shofar in Musaf",
+    "candidates": [
+      "Shofar in Musaf",
+      "Historical Edict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah establishing that the second prayer leader sounds the shofar, and the Gemara's tension between 'berov am' and 'zrizim makdimim' \u2014 are precisely what the 'Shofar in Musaf' prose describes.",
+      "chosen_heading": "Shofar in Musaf",
+      "current_heading": "Shofar in Musaf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Historical Edict",
+    "candidates": [
+      "Historical Edict",
+      "Intrinsic Connection",
+      "Angels' Question",
+      "Divine Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yo\u1e25anan's statement about sounding the shofar during a time of religious persecution, which directly corresponds to the 'Historical Edict' section's prose about Rabbi Yochanan's ruling established at the time of a royal decree forbidding shofar blowing.",
+      "chosen_heading": "Historical Edict",
+      "current_heading": "Historical Edict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Divine Judgment",
+    "candidates": [
+      "Intrinsic Connection",
+      "Angels' Question",
+      "Divine Judgment",
+      "Fasting on RH"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the inference that Hallel is not said on Rosh HaShana and Rabbi Abbahu's teaching about the angels' question, which is exactly what the 'Angels' Question' prose section describes and sets up.",
+      "chosen_heading": "Angels' Question",
+      "current_heading": "Divine Judgment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Fasting on RH",
+    "candidates": [
+      "Divine Judgment",
+      "Fasting on RH",
+      "Tchum Boundary",
+      "Melacha Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah listing restrictions on obtaining/preparing the shofar on Yom Tov, the continuation about children and intent, and the Gemara explaining why a positive mitzva cannot override the combined positive-and-negative of Yom Tov \u2014 are precisely what the 'Melacha Restrictions' prose describes, including the specific prohibitions listed and the asei-overriding-lo-ta'aseh reasoning.",
+      "chosen_heading": "Melacha Restrictions",
+      "current_heading": "Fasting on RH",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Melacha Restrictions",
+    "candidates": [
+      "Tchum Boundary",
+      "Melacha Restrictions",
+      "Cutting Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibitions of climbing a tree and riding an animal, and the Gemara's 'zu v'ein tzarich lomar zu' reasoning about rabbinic vs. Torah-level prohibitions \u2014 all of which are explicitly described in the 'Melacha Restrictions' prose.",
+      "chosen_heading": "Melacha Restrictions",
+      "current_heading": "Melacha Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Cutting Shofar",
+    "candidates": [
+      "Cutting Shofar",
+      "Cleaning Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss cutting the shofar with a sickle (rabbinic) vs. knife (biblical) and the 'zu v'ein tzarich lomar zu' structure, which matches exactly the 'Cutting Shofar' prose.",
+      "chosen_heading": "Cutting Shofar",
+      "current_heading": "Cutting Shofar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Cleaning Shofar",
+    "candidates": [
+      "Cleaning Shofar",
+      "Women Blowing",
+      "Children Learning",
+      "Blower's Intent",
+      "Listener's Intent",
+      "Positive Mitzvah",
+      "Bal Tosif"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the permissibility of placing water/wine versus urine into the shofar, and the attribution to Abba Shaul \u2014 exactly the content described in the 'Cleaning Shofar' prose.",
+      "chosen_heading": "Cleaning Shofar",
+      "current_heading": "Cleaning Shofar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Bal Tosif",
+    "candidates": [
+      "Women Blowing",
+      "Children Learning",
+      "Blower's Intent",
+      "Listener's Intent",
+      "Positive Mitzvah",
+      "Bal Tosif",
+      "Halacha Psak",
+      "Women's Bracha",
+      "Chinuch Age",
+      "Shabbat Blowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction between the Mishnah and baraita regarding women blowing shofar, resolved by Abaye via the Rabbi Yehuda vs. Rabbi Yose/Rabbi Shimon dispute over smicha \u2014 precisely what the 'Bal Tosif' section's prose describes.",
+      "chosen_heading": "Bal Tosif",
+      "current_heading": "Bal Tosif",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Shabbat Blowing",
+    "candidates": [
+      "Halacha Psak",
+      "Women's Bracha",
+      "Chinuch Age",
+      "Shabbat Blowing",
+      "Musical Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the internal contradiction in the baraita between 'mitaskin' (active engagement) and 'ein me'akvin' (mere non-interference), followed by the Gemara's resolution distinguishing between a child who has reached the age of chinuch and one who has not \u2014 which is precisely what candidate 2 ('Chinuch Age') describes in its prose.",
+      "chosen_heading": "Chinuch Age",
+      "current_heading": "Shabbat Blowing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Musical Intent",
+    "candidates": [
+      "Shabbat Blowing",
+      "Musical Intent",
+      "Motzi Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's inference about hatokea lashir and its attempt to support Rava's ruling, which is precisely what the 'Musical Intent' section's prose describes.",
+      "chosen_heading": "Musical Intent",
+      "current_heading": "Musical Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Motzi Intent",
+    "candidates": [
+      "Motzi Intent",
+      "Nine Sounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the question of whether the blower needs intent to exempt the listener (motzi intent), featuring Rabbi Zeira's instruction to his attendant and the Gemara's deflection about the Mishnah's structure around misasek \u2014 exactly the content described in the 'Motzi Intent' prose.",
+      "chosen_heading": "Motzi Intent",
+      "current_heading": "Motzi Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Nine Sounds",
+    "candidates": [
+      "Nine Sounds",
+      "Tekiah Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah's core content about shiur tekiah k'shalosh teruos and the Gemara's resolution of the apparent contradiction between the Mishnah and baraita on tekiah length are exactly what the 'Tekiah Timing' prose discusses, making it a clearly better fit than 'Nine Sounds.'",
+      "chosen_heading": "Tekiah Timing",
+      "current_heading": "Nine Sounds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Tekiah Timing",
+    "candidates": [
+      "Nine Sounds",
+      "Tekiah Timing",
+      "Teruah Beats",
+      "Distinct Sounds",
+      "Teruah Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the minimum duration of a teruah measured in yevavot and raises the contradiction from a baraita about shevarim, which directly matches the 'Teruah Beats' section's prose about shiur teruah k'shalosh yevavot.",
+      "chosen_heading": "Teruah Beats",
+      "current_heading": "Tekiah Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Teruah Type",
+    "candidates": [
+      "Teruah Beats",
+      "Distinct Sounds",
+      "Teruah Type",
+      "Late Shofar",
+      "Separate Fulfillment",
+      "Individual Obligation",
+      "Shliach Motzi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute about the nature of the teruah sound\u2014moanings vs. whimpers\u2014derived from the mother of Sisera verse, which is precisely what the 'Teruah Type' prose section describes.",
+      "chosen_heading": "Teruah Type",
+      "current_heading": "Teruah Type",
+      "moved": false
+    }
+  }
+]

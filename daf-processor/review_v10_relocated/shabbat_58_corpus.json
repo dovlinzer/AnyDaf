@@ -1,0 +1,322 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Samuel's Ruling",
+    "candidates": [
+      "Opening Review",
+      "Kvul & Slave Pendants",
+      "Ravad on Slave Status",
+      "Master's Obligation",
+      "Categorical Structure Q",
+      "Samuel's Ruling",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about the Gemara's initial presentation of Shmuel's interpretation that *kavul* means a slave's seal, and the immediate internal contradiction with Shmuel's own ruling about the slave going out with a seal \u2014 this is precisely the introductory slave-pendant debate described in the 'Kvul & Slave Pendants' prose, not the later resolution discussion in 'Samuel's Ruling' which covers the rationale and supporting baraita.",
+      "chosen_heading": "Kvul & Slave Pendants",
+      "current_heading": "Samuel's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Samuel's Ruling",
+      "Baraita Contradiction",
+      "Pendants & Tumah",
+      "Status Puzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All nine items constitute the Gemara's sustained discussion of the contradiction between Shmuel's ruling and the second baraita \u2014 offering resolutions based on who made the seal, the slave's fear of his master, the Exilarch example, and finally the metal vs. clay distinction \u2014 which is precisely what the 'Baraita Contradiction' prose describes.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Status Puzzle",
+    "candidates": [
+      "Pendants & Tumah",
+      "Status Puzzle",
+      "Metal vs Plaster"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact Gemara inference described in candidate 1's prose \u2014 'midekatani zeh vezeh ein mekabelin tumah' leading to 'shma mina de'matachet', clinched by the baraita about klei avanim/glalim/adama \u2014 which is precisely what candidate 1's prose narrates in detail.",
+      "chosen_heading": "Status Puzzle",
+      "current_heading": "Status Puzzle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Metal vs Plaster",
+    "candidates": [
+      "Metal vs Plaster",
+      "Makpid Criterion",
+      "Beged Ish/Isha",
+      "Locked Categories?",
+      "Slave Bell Rules",
+      "Loose vs. Woven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about the bell (zug) distinguishing between one worn around the neck and one on clothing, which is precisely what the 'Slave Bell Rules' section introduces and discusses.",
+      "chosen_heading": "Slave Bell Rules",
+      "current_heading": "Metal vs Plaster",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Loose vs. Woven",
+    "candidates": [
+      "Makpid Criterion",
+      "Beged Ish/Isha",
+      "Locked Categories?",
+      "Slave Bell Rules",
+      "Loose vs. Woven",
+      "Kol She-Arag"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's question about why the neck bell is forbidden and why the same concern shouldn't apply to the garment bell \u2014 which is exactly what the 'Loose vs. Woven' section's prose describes and analyzes.",
+      "chosen_heading": "Loose vs. Woven",
+      "current_heading": "Loose vs. Woven",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Kol She-Arag",
+    "candidates": [
+      "Kol She-Arag",
+      "Animal Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle 'kol she'arag lo gazru' \u2014 anything woven in is not subject to the decree \u2014 which is precisely what the prose of heading 0 discusses and analyzes in detail.",
+      "chosen_heading": "Kol She-Arag",
+      "current_heading": "Kol She-Arag",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Animal Rules",
+    "candidates": [
+      "Animal Rules",
+      "Animal Ornaments",
+      "Bell Tamei Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the baraita's ruling that animals may not go out with seals or bells (neck or clothing) and that neither becomes tamei, which matches exactly what heading 0 'Animal Rules' discusses \u2014 including both the seal/tag restrictions and the bells, with the tumah note at the end; heading 1 'Animal Ornaments' discusses the *ve-ze ve-ze ein mekabelin tumah* clause as its own separate topic requiring further elaboration, so the full baraita text belongs under heading 0 where it is cited and explained together.",
+      "chosen_heading": "Animal Rules",
+      "current_heading": "Animal Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Bell Tamei Issue",
+    "candidates": [
+      "Animal Ornaments",
+      "Bell Tamei Issue",
+      "Door to Animal",
+      "Entry & Exit",
+      "With/Without Knocker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's contradiction between the two baraitot about animal bells and tumah, along with the ruling about door-bells versus animal-bells and the machshavah/shinui ma'aseh principle \u2014 exactly what the 'Bell Tamei Issue' prose describes.",
+      "chosen_heading": "Bell Tamei Issue",
+      "current_heading": "Bell Tamei Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "With/Without Knocker",
+    "candidates": [
+      "Door to Animal",
+      "Entry & Exit",
+      "With/Without Knocker",
+      "Sound Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's resolution of the contradiction via the clapper distinction and the immediate *mama nafshach* challenge, which is precisely what the 'With/Without Knocker' prose describes.",
+      "chosen_heading": "With/Without Knocker",
+      "current_heading": "With/Without Knocker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Sound Basis",
+    "candidates": [
+      "Sound Basis",
+      "Interpretations",
+      "Context Determines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source (Rabbi Shmuel bar Na\u1e25mani/Rabbi Yonatan's derashah on Numbers 31:23) that the 'Sound Basis' prose section explicitly discusses and analyzes.",
+      "chosen_heading": "Sound Basis",
+      "current_heading": "Sound Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Context Determines",
+    "candidates": [
+      "Interpretations",
+      "Context Determines",
+      "Watch Analogy",
+      "Knocker Removal",
+      "Scissors Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain addressing the same question \u2014 whether bells with/without clappers become tamei for persons vs. infants/cribs \u2014 which is precisely what candidate 1 ('Context Determines') describes in its prose, including the baraita about mortar/cradle/Torah scrolls/infants, the tinok/gadol distinction, and the knocker-removal question that flows directly from it.",
+      "chosen_heading": "Context Determines",
+      "current_heading": "Context Determines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Scissors Rules",
+    "candidates": [
+      "Watch Analogy",
+      "Knocker Removal",
+      "Scissors Rules",
+      "Raba's Principle",
+      "Rabbinic Stringency",
+      "Abaye's Challenge",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together present Rabba's resolution of the scissors contradiction \u2014 the biblical rule distinguishing 'when in use' vs. 'not in use' \u2014 which is precisely what the 'Raba's Principle' prose describes, not the 'Scissors Rules' section which merely introduces the contradiction.",
+      "chosen_heading": "Raba's Principle",
+      "current_heading": "Scissors Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Raba's Principle",
+      "Rabbinic Stringency",
+      "Abaye's Challenge",
+      "Rava's Response",
+      "Alternative Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's response \u2014 item 1 is his introductory 'Rather, Rava said' and item 2 is the precise reasoning (ho'il ve-ra'uy le-hakkisho al gabbei cheres) that candidate 3's prose describes as Rava's answer displacing Abaye's.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Alternative Use",
+    "candidates": [
+      "Alternative Use",
+      "Function Change Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the parallel memra with both Rabbi Yosei b. Rabbi Chanina's and Rabbi Yochanan's alternative-use reasoning, which the prose in candidate 0 directly describes and analyzes.",
+      "chosen_heading": "Alternative Use",
+      "current_heading": "Alternative Use",
+      "moved": false
+    }
+  }
+]

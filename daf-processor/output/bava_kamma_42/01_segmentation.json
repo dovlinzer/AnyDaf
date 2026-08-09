@@ -24,8 +24,8 @@
           "timestamp": "01:09"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Exemption from Miscarriage Damages (Dmei Vlodot)",
@@ -58,7 +58,7 @@
           "timestamp": "11:04"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -534,5 +534,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "27:20",
+  "amud_b_micro_title": "Internal Contradiction",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "a"
 }

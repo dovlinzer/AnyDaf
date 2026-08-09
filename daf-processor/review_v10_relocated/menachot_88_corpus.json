@@ -1,0 +1,461 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rabbi Shimon: No Hin",
+    "candidates": [
+      "Seven Measures Intro",
+      "Log & Revi'it Units",
+      "Hin to Quarter-Log",
+      "One Hin w/ Lines",
+      "Rabbi Shimon: No Hin",
+      "Baraita Recitation",
+      "Dedicated Vessels",
+      "Overflow & Tension"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Seven Measures Intro",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the Mishnah text covering the seven liquid measures, Rabbi Eliezer bar Tzadok's graduations view, and Rabbi Shimon's no-hin position with the log-and-a-half substitute \u2014 all content addressed under 'Seven Measures Intro' through 'Rabbi Shimon: No Hin' headings, and the current heading 'Rabbi Shimon: No Hin' (index 4) is the best single home for the full Mishnah block.",
+      "second_heading": "Baraita Recitation",
+      "second_confidence": "high",
+      "second_reason": "Items 5-9 are the Gemara's Baraita recitation listing the seven measures with Rabbi Yehuda, Rabbi Meir, and Rabbi Shimon's positions \u2014 exactly what the 'Baraita Recitation' prose (index 5) describes.",
+      "current_heading": "Rabbi Shimon: No Hin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Overflow & Tension",
+    "candidates": [
+      "Baraita Recitation",
+      "Dedicated Vessels",
+      "Overflow & Tension",
+      "Transfer Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rabbi Yochanan's statement about beirutei middot as the difference between Rabbi Meir and Rabbi Yehudah, which is precisely what the 'Overflow & Tension' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Overflow & Tension",
+      "current_heading": "Overflow & Tension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Transfer Direction",
+    "candidates": [
+      "Transfer Direction",
+      "Sanctification Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the connection between the direction of enumeration (ascending vs. descending) and whether beirutei middot are sanctified, which is precisely what the 'Transfer Direction' prose explains in detail, including the same examples of Moses receiving the revi'it vs. the hin.",
+      "chosen_heading": "Transfer Direction",
+      "current_heading": "Transfer Direction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Sanctification Question",
+    "candidates": [
+      "Sanctification Question",
+      "Hin Never Used",
+      "Moshe's Hin Preserved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Abaye's analysis about the meaning of \u05de\u05dc\u05d0\u05d9\u05dd and the dispute between Rabbi Meir and Rabbi Yehuda over exact vs. minimum filling, which is precisely what the 'Sanctification Question' prose describes in detail.",
+      "chosen_heading": "Sanctification Question",
+      "current_heading": "Sanctification Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Moshe's Hin Preserved",
+    "candidates": [
+      "Hin Never Used",
+      "Moshe's Hin Preserved",
+      "Seven Measures Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabbis' response about Moshe's hin for shemen hamishcha and the dispute about whether it was preserved or sequestered, which is precisely what heading 1 ('Moshe's Hin Preserved') describes in its prose.",
+      "chosen_heading": "Moshe's Hin Preserved",
+      "current_heading": "Moshe's Hin Preserved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Seven Measures Tradition",
+    "candidates": [
+      "Seven Measures Tradition",
+      "Measures vs. Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Rabbi Shimon cannot simply omit a seventh vessel and explains the tradition of exactly seven liquid measures, which is precisely what the 'Seven Measures Tradition' prose describes.",
+      "chosen_heading": "Seven Measures Tradition",
+      "current_heading": "Seven Measures Tradition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Measures vs. Vessels",
+    "candidates": [
+      "Measures vs. Vessels",
+      "Revi'it Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar bar Tzadok's view on graduations vs. separate vessels and the resolution about 'seven measures' meaning seven ways of measuring rather than seven vessels, which is precisely what the prose under 'Measures vs. Vessels' describes.",
+      "chosen_heading": "Measures vs. Vessels",
+      "current_heading": "Measures vs. Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Revi'it Uses",
+    "candidates": [
+      "Revi'it Uses",
+      "Half-Log Uses",
+      "Log for Menachot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Revi'it Uses",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah about the revi'it, which matches the 'Revi'it Uses' prose exactly.",
+      "second_heading": "Half-Log Uses",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the half-log for sotah and todah, which matches the 'Half-Log Uses' prose exactly.",
+      "current_heading": "Revi'it Uses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Log for Menachot",
+    "candidates": [
+      "Half-Log Uses",
+      "Log for Menachot",
+      "Large Menachot Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that the log vessel was used to measure oil for all standard meal offerings, which is precisely what the 'Log for Menachot' prose discusses.",
+      "chosen_heading": "Log for Menachot",
+      "current_heading": "Log for Menachot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Large Menachot Debate",
+    "candidates": [
+      "Large Menachot Debate",
+      "Sacrifices & Menorah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the debate between the anonymous first opinion and Rabbi Eliezer ben Yaakov about whether a sixty-isaron minchah receives sixty log or only one log of oil, which is precisely what the 'Large Menachot Debate' prose discusses.",
+      "chosen_heading": "Large Menachot Debate",
+      "current_heading": "Large Menachot Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Sacrifices & Menorah",
+    "candidates": [
+      "Sacrifices & Menorah",
+      "Revi'it Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the log measurements for animal sacrifice libations and the menorah oil, which is precisely what the 'Sacrifices & Menorah' section's prose elaborates on.",
+      "chosen_heading": "Sacrifices & Menorah",
+      "current_heading": "Sacrifices & Menorah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Revi'it Sanctity",
+    "candidates": [
+      "Revi'it Sanctity",
+      "Kohen Gadol Oil",
+      "Half-Log Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete question-and-answer unit about the revi'it's sanctification \u2014 Rebbe's difficulty and Rabbi \u1e24iyya's resolution \u2014 which is precisely what candidate 0 ('Revi'it Sanctity') discusses in its prose, making the current placement correct.",
+      "chosen_heading": "Revi'it Sanctity",
+      "current_heading": "Revi'it Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Half-Log Sanctity",
+    "candidates": [
+      "Kohen Gadol Oil",
+      "Half-Log Sanctity",
+      "Menorah Oil Portions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly Rebbe's question about why the half-log was anointed, with the sotah water and todah loaves objections \u2014 precisely what the 'Half-Log Sanctity' prose describes.",
+      "chosen_heading": "Half-Log Sanctity",
+      "current_heading": "Half-Log Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Menorah Oil Portions",
+    "candidates": [
+      "Menorah Oil Portions",
+      "Lamp Extinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon bar Rebbe explaining the half-log vessel's use for distributing oil to each lamp and Rebbe praising him as 'Lamp of Israel,' which is precisely what the 'Menorah Oil Portions' prose discusses.",
+      "chosen_heading": "Menorah Oil Portions",
+      "current_heading": "Menorah Oil Portions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Lamp Extinction",
+    "candidates": [
+      "Lamp Extinction",
+      "Refill Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the lamp extinction scenario and the procedure for relighting it, which is precisely what the 'Lamp Extinction' section's prose discusses in detail.",
+      "chosen_heading": "Lamp Extinction",
+      "current_heading": "Lamp Extinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Refill Amount",
+    "candidates": [
+      "Refill Amount",
+      "Full Measure Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Zerika's dilemma about whether to refill with the original full measure or only the amount lacking, which is exactly the question being posed \u2014 matching the 'Refill Amount' section prose that introduces this very dilemma before the resolution given in 'Full Measure Standard'.",
+      "chosen_heading": "Refill Amount",
+      "current_heading": "Refill Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Full Measure Standard",
+    "candidates": [
+      "Full Measure Standard",
+      "Rambam Twice Daily"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Full Measure Standard': item 1 is Rabbi Yirmeya's reasoning that the full standard measure must be used, and item 2 is the verse applied in praise of that resolution \u2014 exactly the content described in that section's prose.",
+      "chosen_heading": "Full Measure Standard",
+      "current_heading": "Full Measure Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rambam Twice Daily",
+    "candidates": [
+      "Rambam Twice Daily",
+      "Jointed Lamps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the procedure for a lamp that went out \u2014 removing ashes, refilling with oil of the same initial measure, and relighting \u2014 which is precisely the scenario the Rambam's section discusses as the routine cleaning-and-relighting procedure central to his twice-daily understanding.",
+      "chosen_heading": "Rambam Twice Daily",
+      "current_heading": "Rambam Twice Daily",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Jointed Lamps",
+    "candidates": [
+      "Jointed Lamps",
+      "Removable Lamps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Sheshet's statement and reasoning that the menorah lamps were jointed/movable (\u05e4\u05e8\u05e7\u05d9\u05dd), which is precisely what the 'Jointed Lamps' prose discusses, including the same verse-based argument about \u05db\u05db\u05e8 and \u05de\u05e7\u05e9\u05d4 applying to the menorah and its lamps together.",
+      "chosen_heading": "Jointed Lamps",
+      "current_heading": "Jointed Lamps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Removable Lamps",
+    "candidates": [
+      "Removable Lamps",
+      "Golden Lid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the baraita objection about removable lamps, Rav Sheshet's alignment with the Rabbis who say lamps weren't moved, and the Gemara's emendation to 'incapable of being moved' \u2014 which is precisely what the 'Removable Lamps' prose describes.",
+      "chosen_heading": "Removable Lamps",
+      "current_heading": "Removable Lamps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Golden Lid",
+    "candidates": [
+      "Golden Lid",
+      "Single Talent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the golden plate/lid (tas) on each lamp and how it was pushed toward the mouth or head during cleaning and refilling \u2014 exactly what the 'Golden Lid' section's prose discusses.",
+      "chosen_heading": "Golden Lid",
+      "current_heading": "Golden Lid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Single Talent",
+    "candidates": [
+      "Single Talent",
+      "Nechemyah Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita dispute and its verse-based derivation, which corresponds exactly to the 'Single Talent' section's prose describing the Baraita, the \u05db\u05db\u05e8 \u05d6\u05d4\u05d1 verse, the extension to lamps via \u05d0\u05ea \u05db\u05dc \u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05d0\u05dc\u05d4, and the restriction via \u05d0\u05d5\u05ea\u05d4 \u2014 all of which the current placement's prose explicitly covers.",
+      "chosen_heading": "Single Talent",
+      "current_heading": "Single Talent",
+      "moved": false
+    }
+  }
+]

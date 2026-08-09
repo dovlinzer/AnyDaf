@@ -1,0 +1,188 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Exempt Categories",
+    "candidates": [
+      "Opening Remarks",
+      "Three Korbanot Types",
+      "Korban Re'iyah Obligation",
+      "Exempt Categories",
+      "Minor Definition Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna text that introduces the universal obligation and lists the exemptions, which corresponds directly to the 'Korban Re'iyah Obligation' section's prose stating that this first korban is declared universally obligatory and that the mishna proceeds to enumerate those exempt \u2014 the detailed discussion of the exempt categories belongs in section 3, but the mishna itself is the source text for section 2's introduction of that universal obligation and the enumeration that follows.",
+      "chosen_heading": "Korban Re'iyah Obligation",
+      "current_heading": "Exempt Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Minor Definition Debate",
+    "candidates": [
+      "Exempt Categories",
+      "Minor Definition Debate",
+      "Shammai-Hillel: Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'kattan' through the Beit Shammai/Beit Hillel debate about riding on shoulders vs. holding a hand, which is precisely what the 'Minor Definition Debate' prose discusses.",
+      "chosen_heading": "Minor Definition Debate",
+      "current_heading": "Minor Definition Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Shammai-Hillel: Korban",
+    "candidates": [
+      "Shammai-Hillel: Korban",
+      "Hakol Inclusion Analysis",
+      "Half-Slave Half-Free",
+      "Ravina's Exemption",
+      "Healed Lameness Case",
+      "Which Day to Bring Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Beit Shammai and Beit Hillel dispute over minimum values for the re'iyah and chagiga offerings, which is precisely what the 'Shammai-Hillel: Korban' section's prose discusses.",
+      "chosen_heading": "Shammai-Hillel: Korban",
+      "current_heading": "Shammai-Hillel: Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Which Day to Bring Korban",
+    "candidates": [
+      "Hakol Inclusion Analysis",
+      "Half-Slave Half-Free",
+      "Ravina's Exemption",
+      "Healed Lameness Case",
+      "Which Day to Bring Korban",
+      "One-Eye Blindness",
+      "Yochanan ben Dehavai",
+      "Two Eyes Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the continuous gemara discussion about which view (kulan tashlumin zeh lazeh vs. kulan tashlumin l'rishon) allows the healed-lameness case to serve as the hakol inclusion, and what alternative inclusion (blind in one eye) works according to the other view \u2014 exactly what heading 4's prose ('Which Day to Bring Korban') describes.",
+      "chosen_heading": "Which Day to Bring Korban",
+      "current_heading": "Which Day to Bring Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Two Eyes Requirement",
+    "candidates": [
+      "One-Eye Blindness",
+      "Yochanan ben Dehavai",
+      "Two Eyes Requirement",
+      "Mishna Rishona Resolution",
+      "Gittin Mishna Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita of Yochanan ben Dehavai exempting the one-eyed person, which matches candidate 1's prose introducing this dissenting opinion, while candidate 2's prose covers the reasoning/derivation that follows from this ruling.",
+      "chosen_heading": "Yochanan ben Dehavai",
+      "current_heading": "Two Eyes Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Gittin Mishna Rules",
+    "candidates": [
+      "Mishna Rishona Resolution",
+      "Gittin Mishna Rules",
+      "Shammai's Objection",
+      "Marriage Impossibility",
+      "Tikkun Ha'olam Freedom",
+      "Forced Freedom & Debt",
+      "Ravina Applied Early"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the 'mishna rishona/mishna achrona' resolution and cites the Beit Hillel ruling as the basis for that distinction, which is precisely what heading 0 ('Mishna Rishona Resolution') describes \u2014 the gemara resolving Ravina's position by distinguishing between the two versions of the mishna.",
+      "chosen_heading": "Mishna Rishona Resolution",
+      "current_heading": "Gittin Mishna Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Ravina Applied Early",
+    "candidates": [
+      "Shammai's Objection",
+      "Marriage Impossibility",
+      "Tikkun Ha'olam Freedom",
+      "Forced Freedom & Debt",
+      "Ravina Applied Early",
+      "Bifnei Nechtav Rule",
+      "Geographic Requirement",
+      "Same Province Exception",
+      "Eight & Transcendence",
+      "Letter Etymology",
+      "Oil Metaphor",
+      "David Mekim Ol",
+      "Shelah on Teshuvah",
+      "King Defined",
+      "Humility & Teshuvah",
+      "Chatati La'Hashem",
+      "Teshuvah Etymology",
+      "Malchut Elevation",
+      "Time & Change",
+      "Faith in Darkness",
+      "Shas Begins Me'aimasai",
+      "Finding Consistency",
+      "Shema in Darkness",
+      "Vayechi Meaning",
+      "Jacob's Peace",
+      "Legacy Continuation",
+      "Values Transmission",
+      "Jacob's Berachos",
+      "Connection to Roots",
+      "Chazak Chazak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous passage: Beit Shammai's objection (item 1-2) followed by the resolution and Beit Hillel's retraction (item 3), which together match heading 0 ('Shammai's Objection') whose prose explicitly describes Beit Shammai's sharp response about the slave's impossible situation \u2014 and the subsequent items (1-3) cover the marriage impossibility and tikkun ha'olam resolution that flow directly from that objection, but the passage as a whole is introduced under the Shammai's Objection heading since that is where it begins.",
+      "chosen_heading": "Shammai's Objection",
+      "current_heading": "Ravina Applied Early",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Before/After Lottery",
+    "candidates": [
+      "Daf Overview",
+      "Same Height, Cost, Time",
+      "Before/After Lottery",
+      "Mechusar Zman Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita distinguishing liability for slaughtering the two Yom Kippur goats outside before vs. after the lottery, which is precisely what the 'Before/After Lottery' section's prose describes.",
+      "chosen_heading": "Before/After Lottery",
+      "current_heading": "Before/After Lottery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Mechusar Zman Principle",
+    "candidates": [
+      "Mechusar Zman Principle",
+      "Action vs. Waiting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question-and-answer exchange about whether the goats are fit for the musaf (bachutz) offering before the lottery, which is precisely what heading 0's prose describes \u2014 the le'mai chazi question and the mechusar avodot hayom challenge \u2014 whereas heading 1's prose discusses the resolution distinguishing mechusar ma'aseh from mechusar zman, a later step in the sugya.",
+      "chosen_heading": "Mechusar Zman Principle",
+      "current_heading": "Mechusar Zman Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Action vs. Waiting",
+    "candidates": [
+      "Action vs. Waiting",
+      "Shelamim/Heichal Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav \u1e24isda's principle of 'ein mechusar zman l'vo bayom,' which is the central concept discussed in the 'Action vs. Waiting' section's prose.",
+      "chosen_heading": "Action vs. Waiting",
+      "current_heading": "Action vs. Waiting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Shelamim/Heichal Doors",
+    "candidates": [
+      "Shelamim/Heichal Doors",
+      "Pesach Liability",
+      "Akira Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Ravina's application of Rav \u1e24isda's principle to the ruling about shelamim slaughtered before the heichal doors opened, which is precisely what the 'Shelamim/Heichal Doors' prose section describes.",
+      "chosen_heading": "Shelamim/Heichal Doors",
+      "current_heading": "Shelamim/Heichal Doors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Akira Outside",
+    "candidates": [
+      "Pesach Liability",
+      "Akira Outside",
+      "Natural Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Rav \u1e24isda's ruling about the Paschal lamb slaughtered outside during the rest of the year and the challenge from ho'il \u2014 exactly the content described in candidate 0's prose about the Pesach liability ruling and the ho'il challenge, before the answer (akira) is given in candidate 1.",
+      "chosen_heading": "Pesach Liability",
+      "current_heading": "Akira Outside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Natural Status",
+    "candidates": [
+      "Akira Outside",
+      "Natural Status",
+      "Rav Dimi/Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's answer distinguishing akira and the parallel version with Rabba bar Shimi \u2014 are the direct resolution of the ho'il challenge discussed in the 'Akira Outside' prose, which explicitly quotes 'hachi hashta? Hasam ba'ei akira, hacha lo ba'ei akira' and mentions the Rabba bar Shimi parallel, making that section the clear best match.",
+      "chosen_heading": "Akira Outside",
+      "current_heading": "Natural Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rav Dimi/Yochanan",
+    "candidates": [
+      "Rav Dimi/Yochanan",
+      "Challenge to Patur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the ruling of Rabbi Yochanan as reported by Rav Dimi, which is exactly what the prose under heading 0 describes, before any challenge is raised.",
+      "chosen_heading": "Rav Dimi/Yochanan",
+      "current_heading": "Rav Dimi/Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Challenge to Patur",
+    "candidates": [
+      "Challenge to Patur",
+      "Akira Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The current heading's prose explicitly addresses the challenge about shelo lishmo, the mechusar zman case, and the pressure on the pesach ruling \u2014 covering items 1 and 3-6 \u2014 while item 2 (the akira answer) is also part of this continuous chain of question-and-answer, making the current placement the best single home for all six items.",
+      "chosen_heading": "Challenge to Patur",
+      "current_heading": "Challenge to Patur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Akira Rejected",
+    "candidates": [
+      "Akira Rejected",
+      "Both Ways Chayav",
+      "Asham Analogy",
+      "Why Lishmo Chayav?",
+      "Natural Shelamim",
+      "Ashi Position",
+      "Yirmiyah Position",
+      "Identity Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with Rabbi Chilkiya bar Tovi's ruling about the asham \u2014 that lishmo is patur but shelo lishmo is chayav \u2014 followed by the gemara's question about why lishmo should be patur given fitness shelo lishmo, and the response that a pesach during the rest of the year is naturally a shelamim requiring no akira, which is precisely what candidate 2 ('Asham Analogy') describes in its prose.",
+      "chosen_heading": "Asham Analogy",
+      "current_heading": "Akira Rejected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Identity Dispute",
+    "candidates": [
+      "Both Ways Chayav",
+      "Asham Analogy",
+      "Why Lishmo Chayav?",
+      "Natural Shelamim",
+      "Ashi Position",
+      "Yirmiyah Position",
+      "Identity Dispute",
+      "Non-Korban Exclusion",
+      "Pesach Ohel Mo'ed Test",
+      "Sa'ir Excluded?",
+      "L'Hashem Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's ruling of chayav and Rav Yirmiyah of Difti's ruling of patur with his reasoning that pesach requires akira and akiras chutz is not effective akira, which is precisely what the 'Yirmiyah Position' prose describes.",
+      "chosen_heading": "Yirmiyah Position",
+      "current_heading": "Identity Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "L'Hashem Exclusion",
+    "candidates": [
+      "Non-Korban Exclusion",
+      "Pesach Ohel Mo'ed Test",
+      "Sa'ir Excluded?",
+      "L'Hashem Exclusion",
+      "Ramba Context",
+      "Ohel Mo'ed Exclusion",
+      "Eight-Day Inclusion",
+      "Lottery Principle",
+      "Substitute Goat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "The prose under heading 3 explicitly discusses all the major content of this passage \u2014 the l'Hashem exclusion of the sa'ir l'azazel, the contradiction about l'Hashem including vs. excluding, Rava's resolution, and the lottery principle challenge \u2014 making it the best single home for the entire passage despite items 2-4 also fitting earlier headings.",
+      "chosen_heading": "L'Hashem Exclusion",
+      "current_heading": "L'Hashem Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Substitute Goat",
+    "candidates": [
+      "Ramba Context",
+      "Ohel Mo'ed Exclusion",
+      "Eight-Day Inclusion",
+      "Lottery Principle",
+      "Substitute Goat",
+      "Kedusha Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form one continuous discussion about why a scriptural derivation is needed for the eight-day requirement in the case of a substitute goat without a lottery \u2014 exactly what the 'Substitute Goat' prose describes, including \u1e24anan the Egyptian's position, the challenge about the lottery, and Rav Yosef's revised answer attributing it to Rabbi Shimon.",
+      "chosen_heading": "Substitute Goat",
+      "current_heading": "Substitute Goat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Kedusha Transfer",
+    "candidates": [
+      "Kedusha Transfer",
+      "Both Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Ravina's blemish-transfer scenario, the challenge about how blemishes disqualify the scapegoat, and the baraita deriving from 'to the Lord' that the scapegoat is included in the blemish prohibition \u2014 are explicitly discussed and anticipated in the 'Kedusha Transfer' prose, which walks through exactly this sequence before noting the gemara will show the blemish source from the baraita.",
+      "chosen_heading": "Kedusha Transfer",
+      "current_heading": "Kedusha Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Both Needed",
+    "candidates": [
+      "Both Needed",
+      "Sa'ir Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains exactly why both derivations (mechusar zman and ba'al mum) are independently necessary \u2014 the tzricha argument \u2014 which is precisely what the 'Both Needed' section's prose describes.",
+      "chosen_heading": "Both Needed",
+      "current_heading": "Both Needed",
+      "moved": false
+    }
+  }
+]

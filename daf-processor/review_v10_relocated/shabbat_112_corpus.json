@@ -1,0 +1,294 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Miftach Chaluka",
+    "candidates": [
+      "Rashi: Permanence",
+      "Rambam: Two Criteria",
+      "Summary of Approaches",
+      "Miftach Chaluka",
+      "Hairnet Straps",
+      "Three Braitot",
+      "Shoe Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the miftach chaluka (garment opening) case with two laces, which is exactly what the 'Miftach Chaluka' section's prose describes.",
+      "chosen_heading": "Miftach Chaluka",
+      "current_heading": "Miftach Chaluka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Shoe Scenarios",
+    "candidates": [
+      "Hairnet Straps",
+      "Three Braitot",
+      "Shoe Scenarios",
+      "Sandal Scenarios",
+      "Shared Sandals",
+      "Shared Use Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hairnet Straps",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the hairnet straps case, matching exactly the 'Hairnet Straps' prose about chutei shvacha and a woman being protective of her hair.",
+      "second_heading": "Three Braitot",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 introduce the three baraitot about shoe/sandal straps and begin resolving the shoe contradiction, matching exactly the 'Three Braitot' and 'Shoe Scenarios' prose \u2014 but since items 2-3 form one continuous sugya best captured under 'Three Braitot' where the contradictions are first flagged and the shoe resolution begins.",
+      "current_heading": "Shoe Scenarios",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Shared Use Resolution",
+    "candidates": [
+      "Sandal Scenarios",
+      "Shared Sandals",
+      "Shared Use Resolution",
+      "Abaye's Challenge",
+      "Yirmiyah/Abbahu",
+      "Abaye/Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Yehuda/Abaye narrative about shared sandals, and candidate 1 ('Shared Sandals') is the section whose prose explicitly introduces this very story as the illustration of the *muttar l'chatchila* shared-sandal case, while candidate 2 ('Shared Use Resolution') is where it currently sits but candidate 1 is the cleaner match since it directly sets up the narrative that both items contain.",
+      "chosen_heading": "Shared Sandals",
+      "current_heading": "Shared Use Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Abaye/Yosef",
+    "candidates": [
+      "Abaye's Challenge",
+      "Yirmiyah/Abbahu",
+      "Abaye/Yosef",
+      "Reversing Sandal",
+      "Halakha Position",
+      "Baraita: Sandal Damage",
+      "Rabbi Yehudah Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Rabbi Yirmeya/Rabbi Abbahu karmelit incident and the Abaye/Rav Yosef courtyard incident in a single continuous Talmudic text, and candidate 1 ('Yirmiyah/Abbahu') introduces both cases together as a unit about broken sandal straps on Shabbat, making it the better home than splitting across candidates 1 and 2.",
+      "chosen_heading": "Yirmiyah/Abbahu",
+      "current_heading": "Abaye/Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Rabbi Yehudah Position",
+    "candidates": [
+      "Reversing Sandal",
+      "Halakha Position",
+      "Baraita: Sandal Damage",
+      "Rabbi Yehudah Position",
+      "Yochanan Plain Mishna",
+      "Problem Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items are the continuous Gemara discussion of Rabbi Yehuda's position on the broken sandal straps and Rabbi Yochanan's ruling about tumah/Shabbat/chalitza, which is precisely what the 'Rabbi Yehudah Position' prose describes in detail.",
+      "chosen_heading": "Rabbi Yehudah Position",
+      "current_heading": "Rabbi Yehudah Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Problem Stated",
+    "candidates": [
+      "Yochanan Plain Mishna",
+      "Problem Stated",
+      "Four-Strap Resolution",
+      "Rabin Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous unit presenting the challenge from the stam mishna to Rabbi Yochanan's consistency and the attempt to resolve it via the inner/outer distinction and Rav Yitzchak ben Yosef's four-strap answer \u2014 exactly what heading 0 ('Yochanan Plain Mishna') describes as its topic, while the current placement (heading 1) describes the same material but is clearly the prose elaboration that follows after the quoted text belongs under heading 0.",
+      "chosen_heading": "Yochanan Plain Mishna",
+      "current_heading": "Problem Stated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rabin Alternative",
+    "candidates": [
+      "Four-Strap Resolution",
+      "Rabin Alternative",
+      "Chizkiyah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravin's report of Rav's ruling and Rabbi Yochanan's opposing position, along with the Gemara's resolution that there are different amoraim disputing Rabbi Yochanan's view \u2014 exactly what the 'Rabin Alternative' prose describes.",
+      "chosen_heading": "Rabin Alternative",
+      "current_heading": "Rabin Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Chizkiyah Question",
+    "candidates": [
+      "Chizkiyah Question",
+      "New Faces/Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Chizkiyah's question about cumulative holes in a vessel, which is precisely what the 'Chizkiyah Question' section's prose describes and contextualizes.",
+      "chosen_heading": "Chizkiyah Question",
+      "current_heading": "Chizkiyah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "New Faces/Identity",
+    "candidates": [
+      "New Faces/Identity",
+      "Both Straps New Shoe",
+      "Praise & Yeridat Drot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement invoking the sandal case and the question about why the first/second ear breaking differs, which is exactly what the 'New Faces/Identity' prose describes as Rabbi Yochanan's response citing Chizkiyah's own teaching about the sandal.",
+      "chosen_heading": "New Faces/Identity",
+      "current_heading": "New Faces/Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Praise & Yeridat Drot",
+    "candidates": [
+      "Both Straps New Shoe",
+      "Praise & Yeridat Drot",
+      "Yeridat HaDorot",
+      "Wine/Oil Flasks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Both Straps New Shoe",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing argument about 'panim chadashot' (new face/new identity) for the sandal, which belongs under the 'Both Straps New Shoe' section discussing the new identity of the repaired sandal.",
+      "second_heading": "Praise & Yeridat Drot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Chizkiyah's exclamation about Rabbi Yochanan and the Rava bar Zimuna statement about generational decline, which precisely matches the 'Praise & Yeridat Drot' section's prose describing these exact statements.",
+      "current_heading": "Praise & Yeridat Drot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Wine/Oil Flasks",
+    "candidates": [
+      "Yeridat HaDorot",
+      "Wine/Oil Flasks",
+      "Meat Pot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses wine/oil jugs (nodot yayin v'shemen) with two ears/spouts, exactly matching the 'Wine/Oil Flasks' section's prose about leather flasks with two handles where one might void one side of the knot.",
+      "chosen_heading": "Wine/Oil Flasks",
+      "current_heading": "Wine/Oil Flasks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Meat Pot",
+    "candidates": [
+      "Meat Pot",
+      "Animal Pen Rope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses a pot of meat (kdeirah shel basar) with a string/spout (shlucha), matching exactly the 'Meat Pot' section's prose about a pot with a shlucha where one might void the knot.",
+      "chosen_heading": "Meat Pot",
+      "current_heading": "Meat Pot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Animal Pen Rope",
+    "candidates": [
+      "Animal Pen Rope",
+      "Halakha Rule",
+      "Abaye/Yosef Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover the full discussion about Rabbi Eliezer ben Yaakov's ruling on tying a rope across an animal pen entrance (the 'obvious' objection, the two-knots novelty, and the halakha ruling with the Abaye/Yosef exchange), all of which are addressed under the 'Animal Pen Rope' prose \u2014 the current placement \u2014 which discusses exactly these points including the two-knots issue and the routine of daily animal management.",
+      "chosen_heading": "Animal Pen Rope",
+      "current_heading": "Animal Pen Rope",
+      "moved": false
+    }
+  }
+]

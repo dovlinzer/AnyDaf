@@ -1,0 +1,433 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Hot into Hot, Cold Cold",
+    "candidates": [
+      "Hot into Hot, Cold Cold",
+      "Rav: Ila'ah Gavar",
+      "Shmuel: Tata'ah Gavar",
+      "Heat Rises Physics",
+      "Pesach Juice on Pottery",
+      "Rav's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the complete tripartite framework (hot-into-hot forbidden, cold-into-cold permitted, and the Rav/Shmuel dispute for mixed cases), which is exactly what heading 0 'Hot into Hot, Cold Cold' describes in its prose.",
+      "chosen_heading": "Hot into Hot, Cold Cold",
+      "current_heading": "Hot into Hot, Cold Cold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav's Explanation",
+    "candidates": [
+      "Rav: Ila'ah Gavar",
+      "Shmuel: Tata'ah Gavar",
+      "Heat Rises Physics",
+      "Pesach Juice on Pottery",
+      "Rav's Explanation",
+      "Challenge to Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage begins with 'We learned in the mishna' (Tnan) and sets up the cold earthenware scenario, which matches the 'Pesach Juice on Pottery' section's prose about the gemara deriving proof from the mishnah and the initial assumption of cold pottery \u2014 the Rav explanation that follows in the passage belongs to the next section, but the full quoted text starts at the point described in candidate 3.",
+      "chosen_heading": "Pesach Juice on Pottery",
+      "current_heading": "Rav's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Challenge to Shmuel",
+    "candidates": [
+      "Rav's Explanation",
+      "Challenge to Shmuel",
+      "Pottery Was Hot",
+      "Gravy Into Flour",
+      "Rav's Flour Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge to Shmuel's position (tata'ah gavar) and its resolution via hot earthenware, which is precisely what the 'Challenge to Shmuel' section's prose discusses.",
+      "chosen_heading": "Challenge to Shmuel",
+      "current_heading": "Challenge to Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav's Flour Explanation",
+    "candidates": [
+      "Pottery Was Hot",
+      "Gravy Into Flour",
+      "Rav's Flour Explanation",
+      "Shmuel Challenge Flour"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the cold-flour assumption and then explains Rav's ila'ah gavar position with the heat-transfer chain, which is precisely what the 'Rav's Flour Explanation' prose describes.",
+      "chosen_heading": "Rav's Flour Explanation",
+      "current_heading": "Rav's Flour Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Shmuel Challenge Flour",
+    "candidates": [
+      "Shmuel Challenge Flour",
+      "Hot Flour Resolution",
+      "Oil on Pesach Rules",
+      "Raw Pesach Rinsing",
+      "Roasted Pesach Peeling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the challenge to Shmuel's position (cold flour cools the gravy, so why remove a full handful?) which is exactly what heading 0 'Shmuel Challenge Flour' describes, while the resolution (hot flour) belongs under heading 1 \u2014 but this specific item is only the challenge portion, matching its current placement.",
+      "chosen_heading": "Shmuel Challenge Flour",
+      "current_heading": "Shmuel Challenge Flour",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Roasted Pesach Peeling",
+    "candidates": [
+      "Hot Flour Resolution",
+      "Oil on Pesach Rules",
+      "Raw Pesach Rinsing",
+      "Roasted Pesach Peeling",
+      "Rav: Oil on Hot Pesach",
+      "Shmuel's Oil Problem",
+      "Oil Amount Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishnah about smearing teruma oil and then says 'bishlama le-Rav d'amar ila'ah gavar' \u2014 explaining why peeling suffices according to Rav because the upper (oil) is cold, which is precisely what candidate 4's prose discusses.",
+      "chosen_heading": "Rav: Oil on Hot Pesach",
+      "current_heading": "Roasted Pesach Peeling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Oil Amount Limited",
+    "candidates": [
+      "Rav: Oil on Hot Pesach",
+      "Shmuel's Oil Problem",
+      "Oil Amount Limited",
+      "No Proof From Mishna",
+      "Baraita Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the problem for Shmuel's position (why isn't the whole pesach forbidden?) and provides the answer (minimal oil), which corresponds precisely to the 'Shmuel's Oil Problem' section prose, not the 'Oil Amount Limited' section which discusses the gemara's response as a separate expository unit.",
+      "chosen_heading": "Shmuel's Oil Problem",
+      "current_heading": "Oil Amount Limited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Baraita Text",
+    "candidates": [
+      "No Proof From Mishna",
+      "Baraita Text",
+      "Objection: Hot into Cold",
+      "Amended Baraita",
+      "Meat and Milk Baraita",
+      "Second Objection",
+      "Second Amendment",
+      "Kleipah Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita text itself (tanya kivsei d'Shmuel) with its ruling on hot-into-hot, cold-into-hot, hot-into-cold, and cold-into-cold cases, which is precisely what the 'Baraita Text' section's prose describes and analyzes.",
+      "chosen_heading": "Baraita Text",
+      "current_heading": "Baraita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Kleipah Consensus",
+    "candidates": [
+      "Objection: Hot into Cold",
+      "Amended Baraita",
+      "Meat and Milk Baraita",
+      "Second Objection",
+      "Second Amendment",
+      "Kleipah Consensus",
+      "Rav Huna Salted Exception",
+      "Shmuel: Salted Like Hot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Objection: Hot into Cold",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's objection to 'hot into cold merely requires rinsing' and its correction \u2014 exactly what headings 0 and 1 describe (objection + amendment), but since it contains both the objection and the ela eima correction together, heading 0 covers the objection portion and heading 1 the amendment; however the closest single match for item 1 alone (objection + amendment combined) is heading 0 'Objection: Hot into Cold' which discusses both the challenge and the klipah conclusion.",
+      "second_heading": "Meat and Milk Baraita",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the second baraita about meat and milk (basar rote'ach she-nafal l'toch chalav rote'ach) including its objection and correction, which is precisely what heading 2 'Meat and Milk Baraita' describes.",
+      "current_heading": "Kleipah Consensus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Shmuel: Salted Like Hot",
+    "candidates": [
+      "Rav Huna Salted Exception",
+      "Shmuel: Salted Like Hot",
+      "Rava: Heavy Salt Only",
+      "Pigeon Case",
+      "Rava's Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's salting exception and Shmuel's principle as its supporting proof, making it a single unit that belongs under 'Rav Huna Salted Exception' where the prose explicitly anticipates both the Rav Huna rule and its Shmuel basis.",
+      "chosen_heading": "Rav Huna Salted Exception",
+      "current_heading": "Shmuel: Salted Like Hot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rava's Praise",
+    "candidates": [
+      "Rava: Heavy Salt Only",
+      "Pigeon Case",
+      "Rava's Praise",
+      "Roasted Cold Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous discussion: Rava's qualification of Shmuel's rule (item 1), the pigeon-in-kamka case that applies it (item 2), and Rava's praise of Rav \u1e24innana for reasoning from that same qualification (item 3) \u2014 the entire passage is about Rava's limitation that maliach k'rotach applies only to inedibly oversalted food, which is precisely what heading 0 ('Rava: Heavy Salt Only') describes.",
+      "chosen_heading": "Rava: Heavy Salt Only",
+      "current_heading": "Rava's Praise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Roasted Cold Exception",
+    "candidates": [
+      "Rava's Praise",
+      "Roasted Cold Exception",
+      "Porous Meat Exception",
+      "Spiced Meat Exception",
+      "Absorbency Principle",
+      "Rav: Reicha Transfers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the three exceptions catalogued in the 'Roasted Cold Exception' section's prose: raw vs. roasted (klipah), cracks (peila), and spicing (tavlin) \u2014 all three are discussed together in one continuous Gemara passage and the current heading's prose explicitly addresses all three points.",
+      "chosen_heading": "Roasted Cold Exception",
+      "current_heading": "Roasted Cold Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Rav: Reicha Transfers",
+    "candidates": [
+      "Porous Meat Exception",
+      "Spiced Meat Exception",
+      "Absorbency Principle",
+      "Rav: Reicha Transfers",
+      "Levi: Reicha Irrelevant",
+      "Levi Practical Ruling",
+      "Baraita Text (II)",
+      "Mixing Question",
+      "Problem for Rav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav: Reicha Transfers",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav's ruling that fatty kosher meat roasted with lean non-kosher meat is forbidden due to reicha transfer, which is precisely what candidate 3 ('Rav: Reicha Transfers') discusses.",
+      "second_heading": "Levi: Reicha Irrelevant",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Levi's opposing ruling that reicha is insignificant and the practical ruling in the Exilarch's house, which matches candidate 4 ('Levi: Reicha Irrelevant') exactly \u2014 noting that candidate 5 covers only the practical ruling while candidate 4 covers both Levi's principle and the practical ruling together as one unit.",
+      "current_heading": "Rav: Reicha Transfers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Problem for Rav",
+    "candidates": [
+      "Levi: Reicha Irrelevant",
+      "Levi Practical Ruling",
+      "Baraita Text (II)",
+      "Mixing Question",
+      "Problem for Rav",
+      "Two Pots Resolution",
+      "Rav Reinterpreted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's challenge-and-resolution sequence about what 'ta'arovot' means in the baraita (body-mixing vs. flavor-mixing), which is precisely what candidate 3 ('Mixing Question') introduces \u2014 the question of whether ta'arovot refers to physical bodies or taste transfer through aroma, and how that bears on Levi's position.",
+      "chosen_heading": "Mixing Question",
+      "current_heading": "Problem for Rav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Rav Reinterpreted",
+    "candidates": [
+      "Two Pots Resolution",
+      "Rav Reinterpreted",
+      "Bread Wine Case",
+      "Three Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains how the beraita should be read according to Rav \u2014 that even in a 'two pots' arrangement (ke-ein shtei kedeiros) there is still a prohibition due to ta'arovot gufin, even for a kid and a lamb \u2014 which directly matches the prose of 'Rav Reinterpreted' describing v'afilu ke-ein shtei kedeiros, mishum ta'arovot gufin, v'afilu gedi v'taleh.",
+      "chosen_heading": "Rav Reinterpreted",
+      "current_heading": "Rav Reinterpreted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Three Opinions",
+    "candidates": [
+      "Bread Wine Case",
+      "Three Opinions",
+      "Is It a Reicha Debate?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete text including all three opinions and the reicha debate conclusion, and the 'Bread Wine Case' heading's prose describes introducing the entire Rav Mari statement and the bread-over-wine scenario, making it the natural home for the full quoted passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Bread Wine Case",
+      "current_heading": "Three Opinions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Is It a Reicha Debate?",
+    "candidates": [
+      "Three Opinions",
+      "Is It a Reicha Debate?",
+      "Rav's Synthesis",
+      "Consensus Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether the tannaic dispute reduces to a reicha debate, analyzing Levi's and Rav's positions \u2014 exactly what the 'Is It a Reicha Debate?' section's prose discusses.",
+      "chosen_heading": "Is It a Reicha Debate?",
+      "current_heading": "Is It a Reicha Debate?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Consensus Cases",
+    "candidates": [
+      "Rav's Synthesis",
+      "Consensus Cases",
+      "Pesachim Application",
+      "Bread with Meat Ruling",
+      "Rav or Levi?",
+      "Fish with Meat Ruling",
+      "Health Concern Reason",
+      "Rambam on Health",
+      "Shulchan Aruch Issur",
+      "Extended Practice",
+      "Unresolved Ruling",
+      "Shtei K'deirot Exception",
+      "Wrapping Practice",
+      "Ventilation Leniency",
+      "Rabbeinu Tam Modern Oven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav's response ('Amar lach Rav') introducing the synthesis that everyone agrees reicha is significant, followed by the Rabbah bar bar Chana/Reish Lakish statement about the consensus cases \u2014 this entire unit belongs under 'Rav's Synthesis' (index 0), whose prose explicitly introduces both elements as part of Rav's argument.",
+      "chosen_heading": "Rav's Synthesis",
+      "current_heading": "Consensus Cases",
+      "moved": true
+    }
+  }
+]

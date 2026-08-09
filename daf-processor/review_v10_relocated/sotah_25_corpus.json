@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Warning Requirement?",
+    "candidates": [
+      "Overes Al Das Definition",
+      "Warning Requirement?",
+      "Arusah/Shomeret Yavam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about whether forewarning (hasra'ah) is required for a woman who is overes al das to forfeit her kesuvah, which is precisely what the 'Warning Requirement?' section's prose discusses.",
+      "chosen_heading": "Warning Requirement?",
+      "current_heading": "Warning Requirement?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Arusah/Shomeret Yavam",
+    "candidates": [
+      "Arusah/Shomeret Yavam",
+      "Beit Din: Incapacitated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover the arusah/shomeret yavam and issurei lavin cases with the Abaye/Rav Papa/Rava/Rav Yehuda of Diskarta dispute about the purpose of kinuy, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Arusah/Shomeret Yavam",
+      "current_heading": "Arusah/Shomeret Yavam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Beit Din: Incapacitated",
+    "candidates": [
+      "Beit Din: Incapacitated",
+      "Warning: Husband Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the proof from the mishna about beit din issuing warnings for incapacitated husbands and the conclusion that warning is required, which is exactly what the prose under 'Beit Din: Incapacitated' discusses.",
+      "chosen_heading": "Beit Din: Incapacitated",
+      "current_heading": "Beit Din: Incapacitated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Warning: Husband Present",
+    "candidates": [
+      "Warning: Husband Present",
+      "If Husband Doesn't Mind?",
+      "Personal vs. Objective"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Warning: Husband Present",
+      "first_confidence": "high",
+      "first_reason": "Item 1 answers why other Sages didn't derive from the explicit clause \u2014 because the husband's absence means no fear, a distinction that wraps up the warning/hasra'ah discussion under heading 0.",
+      "second_heading": "If Husband Doesn't Mind?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens an entirely new dilemma (ibayahu) about whether a husband who does not object can maintain his wife, which is precisely the question heading 1's prose introduces and analyzes.",
+      "current_heading": "Warning: Husband Present",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Personal vs. Objective",
+    "candidates": [
+      "If Husband Doesn't Mind?",
+      "Personal vs. Objective",
+      "Retract Kinuy?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses beis din acting on behalf of an incapacitated husband and the stama demilta response \u2014 precisely what the prose under 'Personal vs. Objective' (index 1) discusses.",
+      "chosen_heading": "Personal vs. Objective",
+      "current_heading": "Personal vs. Objective",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Retract Kinuy?",
+    "candidates": [
+      "Retract Kinuy?",
+      "Revoke After Stira?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma of whether a husband can retract his kinuy before stirah has occurred, which matches exactly the prose under 'Retract Kinuy?' discussing whether the kinuy dissolves when the husband becomes mochel.",
+      "chosen_heading": "Retract Kinuy?",
+      "current_heading": "Retract Kinuy?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Revoke After Stira?",
+    "candidates": [
+      "Revoke After Stira?",
+      "Proof from Scholars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the proof from the beis din acting for deaf-mute/insane/imprisoned husbands, and the Gemara's response about presuming the husband concurs with beis din \u2014 which is exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Revoke After Stira?",
+      "current_heading": "Revoke After Stira?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Proof from Scholars",
+    "candidates": [
+      "Proof from Scholars",
+      "Rabbi Ushaya's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single challenge-and-reply unit about the Torah scholars escorting the sotah, which is precisely what candidate 0's prose describes \u2014 the concern about illicit relations, the scholars' ability to instruct the husband to revoke his kinuy, and the conclusion that this source does not disprove the possibility of revocation.",
+      "chosen_heading": "Proof from Scholars",
+      "current_heading": "Proof from Scholars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rabbi Ushaya's Teaching",
+    "candidates": [
+      "Rabbi Ushaya's Teaching",
+      "Before vs. After Stira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yoshiya's teaching about the three cases of mechilah (husband/kinuy, zaken mamre, ben sorer u'moreh) and the colleagues' disagreement on zaken mamre, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Rabbi Ushaya's Teaching",
+      "current_heading": "Rabbi Ushaya's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Before vs. After Stira",
+    "candidates": [
+      "Before vs. After Stira",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous argument about whether the husband can revoke his kinuy after stirah, exactly matching the 'Before vs. After Stira' prose which describes the Rav Acha/Ravina debate and the proof from the Rabbi Yosi/Sages baraita.",
+      "chosen_heading": "Before vs. After Stira",
+      "current_heading": "Before vs. After Stira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Shammai vs. Hillel",
+      "Infertile Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Beit Shammai/Beit Hillel dispute over whether a promissory note standing to be collected is considered as if already collected, which is precisely what the 'Shammai vs. Hillel' prose section describes in detail.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Infertile Women",
+    "candidates": [
+      "Infertile Women",
+      "Akarah vs. Aylonit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Na\u1e25man citing Rabbah bar Avuha stating the dispute concerns a barren woman and elderly woman, which matches exactly the prose under 'Infertile Women' that discusses this same statement and its meaning.",
+      "chosen_heading": "Infertile Women",
+      "current_heading": "Infertile Women",
+      "moved": false
+    }
+  }
+]

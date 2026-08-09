@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Opening Topic",
+    "candidates": [
+      "Opening Topic",
+      "Tumah Yeduah vs. Tehom",
+      "Tumat Tehom Exception",
+      "Before/After Shaving",
+      "When Does Nezirut End",
+      "Immersion Scenario",
+      "Floating Meaning",
+      "Floating vs. Buried"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the case of a nazir who shaved and discovered impurity \u2014 exactly what the 'Opening Topic' prose describes as the new topic introduced at the top of daf 63.",
+      "chosen_heading": "Opening Topic",
+      "current_heading": "Opening Topic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Floating vs. Buried",
+    "candidates": [
+      "Tumah Yeduah vs. Tehom",
+      "Tumat Tehom Exception",
+      "Before/After Shaving",
+      "When Does Nezirut End",
+      "Immersion Scenario",
+      "Floating Meaning",
+      "Floating vs. Buried",
+      "Tosafot Explanation",
+      "Burial + Unknowable",
+      "Tumah During Purification",
+      "Chazakah Principle",
+      "Chazakah vs. Evidence",
+      "Pesuk Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together illustrate the floating-vs-buried distinction and the cooling/immersing wrinkle that is exactly what heading 6 ('Floating vs. Buried') describes in its prose.",
+      "chosen_heading": "Floating vs. Buried",
+      "current_heading": "Floating vs. Buried",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Pesuk Nazir",
+    "candidates": [
+      "Tosafot Explanation",
+      "Burial + Unknowable",
+      "Tumah During Purification",
+      "Chazakah Principle",
+      "Chazakah vs. Evidence",
+      "Pesuk Nazir",
+      "Pesuk Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's derivation from the nazir verse (Numbers 6:9) using the word 'alav' to indicate 'be-mechuveret lo,' which is exactly what the 'Pesuk Nazir' section's prose describes.",
+      "chosen_heading": "Pesuk Nazir",
+      "current_heading": "Pesuk Nazir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Pesuk Pesach",
+    "candidates": [
+      "Pesuk Pesach",
+      "Combining Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's derivation from the Pesach verse (Numbers 9:10) using the 'road' analogy, which is precisely what the 'Pesuk Pesach' section's prose describes.",
+      "chosen_heading": "Pesuk Pesach",
+      "current_heading": "Pesuk Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Combining Sources",
+    "candidates": [
+      "Combining Sources",
+      "Baraita Dead Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Tosefta's definition of tumat ha-tehom (unknownness even to someone at the end of the earth) and the subsequent Gemara question about whether 'alav' (clear to him) can support that universal-unknownness criterion \u2014 exactly the difficulty the 'Combining Sources' prose describes.",
+      "chosen_heading": "Combining Sources",
+      "current_heading": "Combining Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Baraita Dead Body",
+    "candidates": [
+      "Baraita Dead Body",
+      "Timing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about finding a corpse laid across the width of a road and concludes with 'tumat ha-tehom gemara gemiri lah,' which is precisely what the prose under 'Baraita Dead Body' discusses in detail.",
+      "chosen_heading": "Baraita Dead Body",
+      "current_heading": "Baraita Dead Body",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Timing Question",
+    "candidates": [
+      "Timing Question",
+      "Rava First Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava First Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Yo\u1e25anan identifying the tanna as Rabbi Eliezer) is the closing identification that the 'Rava First Answer' prose references as background \u2014 but more precisely, it belongs under 'Rava First Answer' whose prose explicitly mentions 'ad she-lo gilach' and Rabbi Eliezer's ruling as the framework for Rava's proof from the mishnah.",
+      "second_heading": "Timing Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rami bar \u1e24ama's dilemma about tumah occurring during the term but discovered after) is precisely what the 'Timing Question' prose describes and analyzes in detail.",
+      "current_heading": "Timing Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rava First Answer",
+    "candidates": [
+      "Rava First Answer",
+      "All vs. Seven Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from the mishna that discovery after the full term but before shaving negates the naziriteship, which matches exactly what the 'Rava First Answer' prose describes.",
+      "chosen_heading": "Rava First Answer",
+      "current_heading": "Rava First Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "All vs. Seven Days",
+    "candidates": [
+      "All vs. Seven Days",
+      "Mishnah Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'kulo soter o shiv'ah soter' dilemma under Rabbi Eliezer's view, which is precisely what the 'All vs. Seven Days' prose section describes.",
+      "chosen_heading": "All vs. Seven Days",
+      "current_heading": "All vs. Seven Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Mishnah Conclusion",
+    "candidates": [
+      "Mishnah Conclusion",
+      "Road Span Case",
+      "Escape Route",
+      "Public Domain",
+      "Body Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's resolution using 'bein kach u-vein kach soter' without distinguishing cases, which is precisely what the 'Mishnah Conclusion' prose discusses in detail.",
+      "chosen_heading": "Mishnah Conclusion",
+      "current_heading": "Mishnah Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Body Condition",
+    "candidates": [
+      "Road Span Case",
+      "Escape Route",
+      "Public Domain",
+      "Body Condition",
+      "In Coffin",
+      "Walking vs. Carrying",
+      "Definition Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the full baraita on tumat ha-tehom beginning with the road-span case, and candidate 0 ('Road Span Case') is the heading whose prose explicitly introduces this baraita as a whole unit, while the subsequent headings (1\u20136) each address only individual sub-clauses of the baraita rather than the complete passage.",
+      "chosen_heading": "Road Span Case",
+      "current_heading": "Body Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Definition Criteria",
+    "candidates": [
+      "In Coffin",
+      "Walking vs. Carrying",
+      "Definition Criteria",
+      "Straw vs. Crevices",
+      "Met Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Definition Criteria",
+      "first_confidence": "high",
+      "first_reason": "Item 1 defines tumat ha-tehom as unknown to anyone even at the end of the earth, which matches exactly the 'Definition Criteria' prose discussing the unknowability criterion.",
+      "second_heading": "Straw vs. Crevices",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the straw/pebbles vs. water/darkness/crevices distinction, which matches exactly the 'Straw vs. Crevices' prose.",
+      "current_heading": "Definition Criteria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Met Only",
+    "candidates": [
+      "Straw vs. Crevices",
+      "Met Only",
+      "Sheretz Floating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that tumat ha-tehom applies only to a corpse (met), which is exactly what the 'Met Only' section's prose discusses.",
+      "chosen_heading": "Met Only",
+      "current_heading": "Met Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Sheretz Floating",
+    "candidates": [
+      "Sheretz Floating",
+      "On Earth Drashah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about floating impurity (safek tumah tzafah) in vessels vs. ground, which is precisely what the 'Sheretz Floating' prose section describes and contextualizes.",
+      "chosen_heading": "Sheretz Floating",
+      "current_heading": "Sheretz Floating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "On Earth Drashah",
+    "candidates": [
+      "On Earth Drashah",
+      "Floating Tahor",
+      "Shimon Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yitzchak bar Avudimi's derivation from the two verses reconciling 'wherever it swarms' with 'upon the earth' to distinguish certain from uncertain contact, which is exactly what the 'On Earth Drashah' prose describes.",
+      "chosen_heading": "On Earth Drashah",
+      "current_heading": "On Earth Drashah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Shimon Vessels",
+    "candidates": [
+      "Floating Tahor",
+      "Shimon Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Ulla's explanation of Rabbi Shimon's reasoning using the verse about springs/vessels, which is precisely what the 'Shimon Vessels' section discusses.",
+      "chosen_heading": "Shimon Vessels",
+      "current_heading": "Shimon Vessels",
+      "moved": false
+    }
+  }
+]

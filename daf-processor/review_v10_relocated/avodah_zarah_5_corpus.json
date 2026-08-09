@@ -1,0 +1,483 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Today vs. Tomorrow",
+    "candidates": [
+      "Intro & Themes",
+      "Today vs. Tomorrow",
+      "Mitzvot as Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly the 'guf' of Rabbi Yehoshua ben Levi's teaching about 'hayom la'asotam' \u2014 today to perform mitzvot, not tomorrow, and today not to receive reward \u2014 which is precisely what the 'Today vs. Tomorrow' section's prose discusses.",
+      "chosen_heading": "Today vs. Tomorrow",
+      "current_heading": "Today vs. Tomorrow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Mitzvot as Witness",
+    "candidates": [
+      "Mitzvot as Witness",
+      "Mitzvot Rebuke Nations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes mitzvot bearing witness for Israel in the World-to-Come and the nations acknowledging this truth, which matches exactly the prose of 'Mitzvot as Witness' (candidate 0), not the 'slapping nations in the face' theme of candidate 1.",
+      "chosen_heading": "Mitzvot as Witness",
+      "current_heading": "Mitzvot as Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Mitzvot Rebuke Nations",
+    "candidates": [
+      "Mitzvot Rebuke Nations",
+      "Gate for Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly about mitzvot striking the nations in the World-to-Come, matching the 'Mitzvot Rebuke Nations' section's prose discussion of the same Rabbi Yehoshua ben Levi statement and the same verse.",
+      "chosen_heading": "Mitzvot Rebuke Nations",
+      "current_heading": "Mitzvot Rebuke Nations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Gate for Repentance",
+    "candidates": [
+      "Gate for Repentance",
+      "David & Israel",
+      "Individual & Community"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gate for Repentance",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Yehoshua ben Levi on the Golden Calf opening a gate for penitents) matches the 'Gate for Repentance' section's prose exactly, which discusses this very teaching and its theological function.",
+      "second_heading": "David & Israel",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (Rabbi Yochanan in the name of Rabbi Shimon ben Yochai on David and Israel not being fit for their respective sins) match the 'David & Israel' section's prose precisely, which discusses lo David ra'uy and lo Yisrael re'uyim with the same prooftexts.",
+      "current_heading": "Gate for Repentance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Individual & Community",
+    "candidates": [
+      "David & Israel",
+      "Individual & Community",
+      "Mitzvot Proclaim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the individual/community dichotomy (yachid vs. tzibur) and the 'tzricha' argument, which is precisely what the 'Individual & Community' prose section describes in detail.",
+      "chosen_heading": "Individual & Community",
+      "current_heading": "Individual & Community",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Mitzvot Proclaim",
+    "candidates": [
+      "Mitzvot Proclaim",
+      "Sins Chase You"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Sins Chase You",
+    "candidates": [
+      "Sins Chase You",
+      "Existence & Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Elazar's teaching that sin is tied to a person like a dog, using the Joseph/Potiphar's wife verse, is directly discussed in the 'Sins Chase You' section's prose.",
+      "chosen_heading": "Sins Chase You",
+      "current_heading": "Sins Chase You",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Existence & Sin",
+    "candidates": [
+      "Existence & Sin",
+      "Challenge: Later Gen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's statement about gratitude to ancestors for sinning, which is precisely what the 'Existence & Sin' section prose discusses in detail.",
+      "chosen_heading": "Existence & Sin",
+      "current_heading": "Existence & Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Challenge: Later Gen",
+    "candidates": [
+      "Challenge: Later Gen",
+      "Never Born Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's challenge-and-response chain about whether people would have sired children had they not sinned, which is precisely what candidate 0's prose describes in detail, including the specific questions about 'peru u'revu,' 'shuvu lachem le'ohaleichem,' and 'lema'an yitav lahem u'livneihem.'",
+      "chosen_heading": "Challenge: Later Gen",
+      "current_heading": "Challenge: Later Gen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Never Born Reading",
+    "candidates": [
+      "Never Born Reading",
+      "Death Decreed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (Reish Lakish on Adam seeing future generations, Rabbi Yosei on souls in the guf, and the 'lo teima' reinterpretation) are explicitly discussed together in the 'Never Born Reading' prose, which covers exactly this sequence of the gemara.",
+      "chosen_heading": "Never Born Reading",
+      "current_heading": "Never Born Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Death Decreed",
+    "candidates": [
+      "Death Decreed",
+      "Like Gods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Like Gods",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the conditional creation teaching of Reish Lakish) belongs under 'Like Gods' as it directly answers whether verses can be written conditionally, supporting the discussion about Israel potentially becoming immortal like angels.",
+      "second_heading": "Death Decreed",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (the baraita about 'mi yitein' and the decree of death already being issued) match perfectly with the 'Death Decreed' prose which explicitly discusses that same baraita and its conclusion that nullifying the angel of death was never possible.",
+      "current_heading": "Death Decreed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Like Gods",
+    "candidates": [
+      "Like Gods",
+      "Corrupted Deeds",
+      "Death as Suffering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yosei's baraita about Israel accepting Torah so the Angel of Death would not rule over them and the verse 'I said you are godlike beings,' which corresponds precisely to the 'Like Gods' section's prose discussing that same baraita and pasuk.",
+      "chosen_heading": "Like Gods",
+      "current_heading": "Like Gods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Death as Suffering",
+    "candidates": [
+      "Corrupted Deeds",
+      "Death as Suffering",
+      "Four Like Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yosei's position on death versus immortality and his interpretation of the verse 'that it might be good for them forever,' which is the exact topic discussed in the 'Death as Suffering' prose section that contrasts Rabbi Yosei's view (literal conquest of death) with the tanna kamma's view.",
+      "chosen_heading": "Death as Suffering",
+      "current_heading": "Death as Suffering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Four Like Dead",
+    "candidates": [
+      "Four Like Dead",
+      "God's Offer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Gemara's teaching that four types are considered like dead (pauper, blind, leper, childless), with prooftexts for each \u2014 exactly the content discussed in the 'Four Like Dead' prose section.",
+      "chosen_heading": "Four Like Dead",
+      "current_heading": "Four Like Dead",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "God's Offer",
+    "candidates": [
+      "God's Offer",
+      "Ungrateful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about 'if' as supplication and the verses about God pleading for Israel to listen is directly discussed in candidate 0's prose, which explicitly references 'ein im ela lashon takhnunim', 'lu ammi shome'a li', and 'lu hikshavta le-mitzvotai'.",
+      "chosen_heading": "God's Offer",
+      "current_heading": "God's Offer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Ungrateful",
+    "candidates": [
+      "Ungrateful",
+      "Adam's Blame",
+      "Forty Years Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous baraita about ingratitude: item 1 introduces the theme, item 2 proves 'ingrates' from the manna complaint, and item 3 proves 'children of ingrates' from Adam \u2014 the prose under heading 0 ('Ungrateful') explicitly discusses all three elements including the manna verse and the pattern of ingratitude that Moses identifies.",
+      "chosen_heading": "Ungrateful",
+      "current_heading": "Ungrateful",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Forty Years Later",
+    "candidates": [
+      "Adam's Blame",
+      "Forty Years Later",
+      "Master's Teaching",
+      "Torah & Charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Moses waiting forty years before alluding to Israel about the missed opportunity, with the supporting verses, which matches exactly the prose in 'Forty Years Later' \u2014 Rabba's inference about forty years belongs here as it is the concluding line of this same textual unit, and the 'Master's Teaching' section's prose discusses Rabba's statement separately as a follow-on interpretation.",
+      "chosen_heading": "Forty Years Later",
+      "current_heading": "Forty Years Later",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Torah & Charity",
+    "candidates": [
+      "Master's Teaching",
+      "Torah & Charity",
+      "Ox & Donkey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content about Torah and gemilut chasadim mastering the yetzer hara, with 'sowing' as tzedakah and 'waters' as Torah, is precisely what the 'Torah & Charity' section prose discusses in detail.",
+      "chosen_heading": "Torah & Charity",
+      "current_heading": "Torah & Charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Ox & Donkey",
+    "candidates": [
+      "Ox & Donkey",
+      "Mishna Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the Tana d'vei Eliyahu teaching about making oneself like an ox to a yoke and donkey to a burden, which is precisely what the 'Ox & Donkey' section prose discusses.",
+      "chosen_heading": "Ox & Donkey",
+      "current_heading": "Ox & Donkey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Mishna Stated",
+    "candidates": [
+      "Mishna Stated",
+      "Three Days Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara question 'u'mi be'inan kulei hai' (do they really need all these days?) which is the specific content described in the 'Three Days Logic' prose section.",
+      "chosen_heading": "Three Days Logic",
+      "current_heading": "Mishna Stated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Three Days Logic",
+    "candidates": [
+      "Mishna Stated",
+      "Three Days Logic",
+      "Four Festivals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna from Hullin 83a about informing buyers of mother/offspring slaughter, which candidate 1's prose explicitly describes as the comparison the gemara raises when questioning whether three days advance preparation is truly needed.",
+      "chosen_heading": "Three Days Logic",
+      "current_heading": "Three Days Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Four Festivals",
+    "candidates": [
+      "Four Festivals",
+      "Sacrifice vs. Feast",
+      "Blemish Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the four festival eves from the mishna, which is exactly what the 'Four Festivals' section's prose discusses in detail, including the same specific occasions and Rabbi Yosei HaGelili's addition.",
+      "chosen_heading": "Four Festivals",
+      "current_heading": "Four Festivals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Blemish Standards",
+    "candidates": [
+      "Sacrifice vs. Feast",
+      "Blemish Standards",
+      "Blemish Standards",
+      "Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a single continuous question-and-answer chain about why three days suffices for gentiles versus thirty days for Jews regarding sacrificial inspection, which is precisely what candidate 1's prose describes \u2014 the braita about thirty days, Rabban Shimon ben Gamliel's two weeks, and the distinction based on blemish standards.",
+      "chosen_heading": "Blemish Standards",
+      "current_heading": "Blemish Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rabbi Elazar",
+    "candidates": [
+      "Blemish Standards",
+      "Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's statement deriving the prohibition of a limb-lacking animal for Bnei Noach from the Noah ark verse, which is precisely what the 'Rabbi Elazar' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Elazar",
+      "current_heading": "Rabbi Elazar",
+      "moved": false
+    }
+  }
+]

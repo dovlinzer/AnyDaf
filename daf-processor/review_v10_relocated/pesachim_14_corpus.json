@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rabbi Chanina Case",
+    "candidates": [
+      "Six Levels of Tumah",
+      "Rabbi Chanina Case",
+      "Rabbi Akiva Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna quoting Rabbi \u1e24anina's statement about burning meat of different tuma levels together, which directly matches the 'Rabbi Chanina Case' section's prose description of exactly this ruling.",
+      "chosen_heading": "Rabbi Chanina Case",
+      "current_heading": "Rabbi Chanina Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbi Akiva Case",
+    "candidates": [
+      "Rabbi Akiva Case",
+      "Meir's Deduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's specific statement about lighting oil disqualified by a tvul yom in a lamp made impure by a corpse-tamei person, which matches exactly the prose description in candidate 0 ('Rabbi Akiva Case').",
+      "chosen_heading": "Rabbi Akiva Case",
+      "current_heading": "Rabbi Akiva Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Meir's Deduction",
+    "candidates": [
+      "Meir's Deduction",
+      "Yossi Objection",
+      "Eliezer/Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Meir's deduction about burning pure teruma with impure teruma on Passover and Rabbi Yosei's objection, and heading 0 ('Meir's Deduction') covers both statements as a unit, while heading 1 only covers Yosei's objection in isolation \u2014 the current placement under heading 0 correctly houses the complete exchange.",
+      "chosen_heading": "Meir's Deduction",
+      "current_heading": "Meir's Deduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Eliezer/Yehoshua",
+    "candidates": [
+      "Yossi Objection",
+      "Eliezer/Yehoshua",
+      "First Case Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the agreement and disagreement between Rabbi Eliezer and Rabbi Yehoshua regarding burning teruma separately or together, which matches exactly the prose of the 'Eliezer/Yehoshua' section.",
+      "chosen_heading": "Eliezer/Yehoshua",
+      "current_heading": "Eliezer/Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "First Case Levels",
+    "candidates": [
+      "First Case Levels",
+      "Sheni Transmission",
+      "Rav Yehudah View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items analyze the tuma levels in the first case of the mishna \u2014 meat that became tamei through a vlad hatuma is sheni, and when burned with meat that touched an av hatuma it is still sheni, raising the question of what 'adding impurity to its impurity' means \u2014 which is precisely what the 'First Case Levels' prose describes.",
+      "chosen_heading": "First Case Levels",
+      "current_heading": "First Case Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Rav Yehudah View",
+    "candidates": [
+      "Sheni Transmission",
+      "Rav Yehudah View",
+      "Ochel Transmission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Rav Yehudah View': Item 1 is Rav Yehuda's statement about vlad vlad hatuma/shlishi, and Item 2 is the immediate gemara challenge ('but food does not transmit tuma to food') \u2014 exactly the sequence described in that section's prose.",
+      "chosen_heading": "Rav Yehudah View",
+      "current_heading": "Rav Yehudah View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Ochel Transmission",
+    "candidates": [
+      "Ochel Transmission",
+      "Liquid Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Abaye and Rav Adda bar Ahava positions on food-to-food transmission in chulin/teruma/kodshim, which is precisely what the 'Ochel Transmission' prose describes in detail.",
+      "chosen_heading": "Ochel Transmission",
+      "current_heading": "Ochel Transmission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Liquid Resolution",
+    "candidates": [
+      "Liquid Resolution",
+      "Oil/Lamp Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Ravina's categorical ruling, the liquid-on-meat resolution, and the final rabbinic-law answer \u2014 which perfectly matches the 'Liquid Resolution' prose that explicitly traces this exact sequence.",
+      "chosen_heading": "Liquid Resolution",
+      "current_heading": "Liquid Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Oil/Lamp Levels",
+    "candidates": [
+      "Oil/Lamp Levels",
+      "Metal Lamp Status",
+      "Metal Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks about the impurity levels of the oil (third-degree) and the lamp (second-degree) in Rabbi Akiva's case, which is precisely what the 'Oil/Lamp Levels' prose section discusses.",
+      "chosen_heading": "Oil/Lamp Levels",
+      "current_heading": "Oil/Lamp Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Metal Rule",
+    "candidates": [
+      "Metal Lamp Status",
+      "Metal Rule",
+      "Rava Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and explain the metal lamp rule (Rav Yehuda's statement that we deal with a metal lamp and the derivation from 'chalal cherev'), which is precisely what heading 0 'Metal Lamp Status' introduces, whereas heading 1 'Metal Rule' prose already presupposes and elaborates on this derivation as established fact.",
+      "chosen_heading": "Metal Lamp Status",
+      "current_heading": "Metal Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Rava Alternative",
+    "candidates": [
+      "Metal Rule",
+      "Rava Alternative",
+      "Meis Specification"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Rava Alternative",
+      "current_heading": "Rava Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Meis Specification",
+    "candidates": [
+      "Meis Specification",
+      "Liquids Transmission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rava's question about why the mishnah specifies tumas meit rather than tumas sheretz, and the resolution that it must refer to metal \u2014 which is precisely what the 'Meis Specification' prose describes.",
+      "chosen_heading": "Meis Specification",
+      "current_heading": "Meis Specification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Liquids Transmission",
+    "candidates": [
+      "Liquids Transmission",
+      "Meir from Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic unit about Rava's inference that Rabbi Akiva holds liquid impurity transmission is de-oraita, including the challenge and resolution, which exactly matches the 'Liquids Transmission' prose.",
+      "chosen_heading": "Liquids Transmission",
+      "current_heading": "Liquids Transmission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Meir from Chanina",
+    "candidates": [
+      "Meir from Chanina",
+      "Meir from Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All three items form one continuous chain questioning from whose statement Rabbi Meir derived his ruling \u2014 item 1 addresses Rabbi Chanina, item 2 addresses Rabbi Akiva, and item 3 offers a resolution \u2014 and while items 2-3 extend into territory covered by heading 1, the entire passage is best kept together under heading 0 (the current placement) since splitting a single halakhic chain is inadvisable and heading 0's prose introduces the very question that all three items address.",
+      "chosen_heading": "Meir from Chanina",
+      "current_heading": "Meir from Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Meir from Akiva",
+    "candidates": [
+      "Meir from Akiva",
+      "Meir Position",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies 'from their statements' as meaning specifically 'from the statement of Rabbi \u1e24anina the deputy High Priest,' which directly supports the Meir Position prose that explains how Rabbi Meir learns from Rabbi Chanina's case.",
+      "chosen_heading": "Meir Position",
+      "current_heading": "Meir from Akiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Meir Position",
+      "Reish Lakish",
+      "Which Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's statement (citing Bar Kappara) explaining the mishna as dealing with av hatuma and vlad hatuma both de-oraita, and identifying 'midivrehem' as referring to Rabbi Eliezer and Rabbi Yehoshua \u2014 exactly what the 'Reish Lakish' section prose describes.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  }
+]

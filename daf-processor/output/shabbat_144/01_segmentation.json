@@ -34,8 +34,8 @@
           "timestamp": "03:02"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Establishing the Three Categories of Fruit Squeezing",
@@ -127,7 +127,7 @@
           "timestamp": "19:05"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -151,7 +151,7 @@
           "timestamp": "21:43"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 4,
       "matched": false
     },
     {
@@ -686,5 +686,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 4
+  "amud_b_sefaria_index": 4,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "05:05",
+  "amud_b_micro_title": "Yehuda Concedes",
+  "shiur_start_daf": 144,
+  "shiur_start_amud": "a"
 }

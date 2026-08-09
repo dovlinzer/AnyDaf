@@ -1,0 +1,297 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Me'ilah: Intentional",
+    "candidates": [
+      "Yesterday's Debate",
+      "Rav Pappa's Theory",
+      "Rav Pappa Retracts",
+      "Me'ilah: Intentional",
+      "Why Need Verse?",
+      "Karet vs. Mita",
+      "Kezayit Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the gemara's statement that Rav Pappa retracted his position, followed by the baraita that serves as proof of that retraction \u2014 this matches heading 2 ('Rav Pappa Retracts') which explicitly describes the retraction and the baraita that follows as its mechanism, whereas the current placement (heading 3) covers only the baraita's content about intentional me'ilah without the retraction framing.",
+      "chosen_heading": "Rav Pappa Retracts",
+      "current_heading": "Me'ilah: Intentional",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Kezayit Distinction",
+    "candidates": [
+      "Why Need Verse?",
+      "Karet vs. Mita",
+      "Kezayit Distinction",
+      "Verse Teaches Korbanot",
+      "Rabba & Rav Sheshet",
+      "Who Holds Mita?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the baraita's rejection of the kal va-chomer and Rav Nachman bar Yitzchak's observation about the circularity of treating karet vs. mita b'yedei shamayim as the more severe punishment \u2014 exactly what the 'Karet vs. Mita' prose describes.",
+      "chosen_heading": "Karet vs. Mita",
+      "current_heading": "Kezayit Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Who Holds Mita?",
+    "candidates": [
+      "Verse Teaches Korbanot",
+      "Rabba & Rav Sheshet",
+      "Who Holds Mita?",
+      "Rebbi's Derivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba & Rav Sheshet",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the exchange where Rav Hiyya bar Avin introduces the resolution about me'ilah's liability below a kezayit, Rav Nahman accepts it, and then Rav Hiyya reveals that Rabba and Rav Sheshet reject it by asking 'who holds that meizid be-me'ilah incurs mita?' \u2014 this is precisely the content described in the 'Rabba & Rav Sheshet' prose.",
+      "second_heading": "Who Holds Mita?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita identifying Rebbi as the one who holds that deliberate me'ilah incurs mita, which is the answer to the question posed at the end of item 1 and matches exactly the 'Who Holds Mita?' prose describing man shamat lei and the baraita where Rebbi says be-mita and the Sages say be-azharah.",
+      "current_heading": "Who Holds Mita?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rebbi's Derivation",
+    "candidates": [
+      "Rebbi's Derivation",
+      "The Problem",
+      "Rav Pappa's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Abbahu's explanation of Rebbi's reasoning via the gezeirah shavah of cheit-cheit from terumah, which is exactly what heading 0 ('Rebbi's Derivation') describes in its prose.",
+      "chosen_heading": "Rebbi's Derivation",
+      "current_heading": "Rebbi's Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rav Pappa's Challenge",
+    "candidates": [
+      "The Problem",
+      "Rav Pappa's Challenge",
+      "Abba Shaul Question",
+      "Pappa's Retraction Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items develop the core problem \u2014 that deriving me'ilah from terumah via gezeirah shavah imports the kezayit standard, undermining the resolution \u2014 which is precisely what 'The Problem' prose describes, including the kezayit/peruta distinction central to Rav Pappa's objection.",
+      "chosen_heading": "The Problem",
+      "current_heading": "Rav Pappa's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Pappa's Retraction Proof",
+    "candidates": [
+      "Abba Shaul Question",
+      "Pappa's Retraction Proof",
+      "Intent Distinction",
+      "Shabbat & Me'ilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav Pappa's retraction of his earlier position about Abba Shaul requiring two conditions, which is exactly what the 'Pappa's Retraction Proof' section discusses.",
+      "chosen_heading": "Pappa's Retraction Proof",
+      "current_heading": "Pappa's Retraction Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Shabbat & Me'ilah",
+    "candidates": [
+      "Intent Distinction",
+      "Shabbat & Me'ilah",
+      "Mis'asek",
+      "Me'ilah Stringent",
+      "Rav Chama's View",
+      "Original Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shabbat & Me'ilah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Mar son of Rabbana) concerns intent vs. no-intent in me'ilah vs. other mitzvot, with the shearings/olah example \u2014 exactly what heading 1 'Shabbat & Me'ilah' describes.",
+      "second_heading": "Mis'asek",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rav Na\u1e25man bar Yitz\u1e25ak) introduces the mis'asek principle with the hand-in-oil example, which is precisely what heading 2 'Mis'asek' and heading 3 'Me'ilah Stringent' together describe as a unit.",
+      "current_heading": "Shabbat & Me'ilah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Original Question",
+    "candidates": [
+      "Mis'asek",
+      "Me'ilah Stringent",
+      "Rav Chama's View",
+      "Original Question",
+      "Titen Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between separating teruma that subsequently became chametz versus separating chametz as teruma on Pesach itself (einah kedoshah), which is precisely what the 'Original Question' prose describes.",
+      "chosen_heading": "Original Question",
+      "current_heading": "Original Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Titen Lo",
+    "candidates": [
+      "Titen Lo",
+      "No Benefit",
+      "Rav Huna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives the 'titen lo \u2014 and not to his fire' principle from the verse, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Titen Lo",
+      "current_heading": "Titen Lo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Huna Challenge",
+    "candidates": [
+      "No Benefit",
+      "Rav Huna Challenge",
+      "Terumah Teme'ah",
+      "No She'at Kosher",
+      "Rav Huna Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the objection and resolution described in candidate 1's prose \u2014 Rav Huna's challenge about terumah teme'ah and the 'lo le'uro' verse \u2014 and the answer (sha'at kosher) is also part of this same passage, matching candidate 1's description of the challenge and its immediate resolution.",
+      "chosen_heading": "Rav Huna Challenge",
+      "current_heading": "Rav Huna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rav Huna Disagrees",
+    "candidates": [
+      "Terumah Teme'ah",
+      "No She'at Kosher",
+      "Rav Huna Disagrees",
+      "Reishit Analysis",
+      "Yatzah Zo",
+      "Ruling Introduced",
+      "Kebeitzah Limit",
+      "Juice Separation",
+      "Shiur for Tumah",
+      "Rav Chisda Objects",
+      "Counter Challenge",
+      "Never Hukhshar",
+      "Hukshra Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No She'at Kosher",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 (including the 'inn' response about chametz b'talush and the Daniel verse) conclude the sha'at kosher / talush discussion that belongs under 'No She'at Kosher', which is exactly where the Gemara resolves whether chametz talush would work b'dieved.",
+      "second_heading": "Reishit Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Huna's arrival and his reishit argument excluding chametz from terumah, which belongs under 'Reishit Analysis' where the prose explicitly discusses the word reishit and she-shiyareiha nikkarin le-Yisrael.",
+      "current_heading": "Rav Huna Disagrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Hukshra Needed",
+    "candidates": [
+      "Reishit Analysis",
+      "Yatzah Zo",
+      "Ruling Introduced",
+      "Kebeitzah Limit",
+      "Juice Separation",
+      "Shiur for Tumah",
+      "Rav Chisda Objects",
+      "Counter Challenge",
+      "Never Hukhshar",
+      "Hukshra Needed",
+      "Rava: Takala",
+      "Abaye Counter",
+      "Kli Ma'us Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items form the dispute between Rabbi Yochanan's position (mashkin mifkad pikidi) and Rav Chisda's objection (mashkin mibla bliei) with the counter-challenge from the mishna about exact kebeitzah \u2014 precisely what the 'Rav Chisda Objects' prose describes, including Rav Chisda's dismissal, his 'where did the tumah go' challenge, and the counter-challenge raised from the tahor ruling of tamei met who pressed exactly a kebeitzah.",
+      "chosen_heading": "Rav Chisda Objects",
+      "current_heading": "Hukshra Needed",
+      "moved": true
+    }
+  }
+]

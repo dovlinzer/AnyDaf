@@ -1,12 +1,17 @@
-# Pesachim 111 — Daf Yomi Shiur
 [DAF:111a]
-
 ## Pairs & Mixed Drinks
+
+
 
 ### Pairs & Combining
 
-> **Hebrew/Aramaic:** חוּץ מִן הַמַּיִם. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ מַיִם. אָמַר רַב פָּפָּא: לָא אֲמַרַן, אֶלָּא חַמִּימֵי לְגוֹ קָרִירֵי, וְקָרִירֵי לְגוֹ חַמִּימֵי. אֲבָל חַמִּימֵי לְגוֹ חַמִּימֵי, וְקָרִירֵי לְגוֹ קָרִירֵי — לָא.
->
+> **Hebrew/Aramaic:** (אֶלָּא אָמַר רַב מְשַׁרְשְׁיָא): דְּכוּלֵּי עָלְמָא תְּרֵי אַתַּכָּא וְחַד לְבָתַר תַּכָּא — לָא מִצְטָרְפִי. כִּי הַהִיא מַעֲשֶׂה דְּרַבָּה בַּר נַחְמָנִי.
+> **Translation:** **Rather, Rav Mesharshiya said: Everyone agrees** that if one drank **two** cups **over the table** during the meal **and one after the table** has been removed, **they do not combine.** This is **like that incident** involving **Rabba bar Naḥmani,** in which someone drank in pairs and was harmed. Rabba instructed them to return the table so that the man could drink an additional cup over the table. This shows that the additional cup counts only if the drinker returns to the table.
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הַמָּזוּג — מִצְטָרֵף,
+> **Translation:** **Rav Yehuda said** that **Shmuel said: Any** type of drink that is **diluted combines** to form an even or odd number,
+
+> **Hebrew/Aramaic:** חוּץ מִן הַמַּיִם. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ מַיִם. אָמַר רַב פָּפָּא: לָא אֲמַרַן, אֶלָּא חַמִּימֵי לְגוֹ קָרִירֵי, וְקָרִירֵי לְגוֹ חַמִּימֵי. אֲבָל חַמִּימֵי לְגוֹ חַמִּימֵי, וְקָרִירֵי לְגוֹ קָרִירֵי — לָא.
 > **Translation:** **except for water.** If one mixes water with other water, it is not considered diluted and does not count toward the number of cups. **And Rabbi Yoḥanan said: Even water** joins the number of cups. **Rav Pappa said: We said this statement only** about **hot** water poured **into cold** water, **and cold** water poured **into hot water.** Rabbi Yoḥanan maintains that these cups are considered diluted. **However,** everyone agrees that **hot** water poured **into hot** water **or cold** water poured **into cold** water, **no,** they are not considered diluted.
 
 We pick up at the very bottom of 110b, continuing our discussion of *zugot* — pairs — and how consuming drinks in even numbers exposes one to *mazikin* or to witchcraft if such practices are occurring nearby. The Gemara has been exploring when one may combine different drinks to arrive at an odd number and thereby exit the danger of *zugot*.
@@ -17,17 +22,9 @@ Moving further, the Gemara cites Rav Yehuda in the name of Shmuel: *kol hamazug 
 
 ### Water as Mixed Drink
 
-> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ מַיִם.
->
-> **Translation:** **And Rabbi Yoḥanan said: Even water** joins the number of cups.
-
 Rabbi Yochanan, who is from Eretz Yisrael — where the Gemara has indicated that these concerns with *zugot* are not accepted — nonetheless enters this discussion, at least partially. He rules: *afilu mayim* — even water qualifies as a mixed drink and can combine to help exit a problematic pair.
 
 ### Water Temperature Rules
-
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: לָא אֲמַרַן, אֶלָּא חַמִּימֵי לְגוֹ קָרִירֵי, וְקָרִירֵי לְגוֹ חַמִּימֵי. אֲבָל חַמִּימֵי לְגוֹ חַמִּימֵי, וְקָרִירֵי לְגוֹ קָרִירֵי — לָא.
->
-> **Translation:** **Rav Pappa said: We said this statement only** about **hot** water poured **into cold** water, **and cold** water poured **into hot water.** Rabbi Yoḥanan maintains that these cups are considered diluted. **However,** everyone agrees that **hot** water poured **into hot** water **or cold** water poured **into cold** water, **no,** they are not considered diluted.
 
 Rav Pappa qualifies Rabbi Yochanan's ruling: *lo amran ela chamimi lego kriri ve-kriri lego chamimi* — we only said this when hot water is mixed into cold, or cold into hot, creating a meaningful blending of different qualities. *Aval chamimi lego chamimi* — if hot water is added to hot, or cold to cold — *lo*. In such a case, insufficient difference exists between the two waters to constitute a genuine mixture, and therefore they would not combine with other *mazug* drinks toward resolving a pair.
 
@@ -35,11 +32,12 @@ Rav Pappa qualifies Rabbi Yochanan's ruling: *lo amran ela chamimi lego kriri ve
 
 ## Four Dangerous Acts
 
+
+
 ### Reish Lakish's Teaching
 
-> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ: אַרְבָּעָה דְּבָרִים הָעוֹשֶׂה אוֹתָן דָּמוֹ בְּרֹאשׁוֹ וּמִתְחַיֵּיב בְּנַפְשׁוֹ. אֵלּוּ הֵן: הַנִּפְנֶה בֵּין דֶּקֶל לְכוֹתֶל, וְהָעוֹבֵר בֵּין שְׁנֵי דְקָלִים, וְהַשּׁוֹתֶה מַיִם שְׁאוּלִין, וְהָעוֹבֵר עַל מַיִם שְׁפוּכִין, וַאֲפִילּוּ שְׁפָכַתּוּ אִשְׁתּוֹ בְּפָנָיו.
->
-> **Translation:** **Reish Lakish said:** There are **four matters. The one who performs them, his blood is upon his** own **head, and** he is held **liable for his own life,** due to the evil spirit that rests upon him: **One who relieves himself** in a spot **between a palm tree and a wall, one who passes between two palm trees, one who drinks borrowed water, and one who passes over spilled water, even if his wife poured it out in front of him.**
+> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ: אַרְבָּעָה דְּבָרִים הָעוֹשֶׂה אוֹתָן דָּמוֹ בְּרֹאשׁוֹ וּמִתְחַיֵּיב בְּנַפְשׁוֹ. אֵלּוּ הֵן: הַנִּפְנֶה בֵּין דֶּקֶל לְכוֹתֶל, וְהָעוֹבֵר בֵּין שְׁנֵי דְקָלִים, וְהַשּׁוֹתֶה מַיִם שְׁאוּלִין, וְהָעוֹבֵר עַל מַיִם שְׁפוּכִין, וַאֲפִילּוּ שְׁפָכַתּוּ אִשְׁתּוֹ בְּפָנָיו.
+> **Translation:** The Gemara cites more statements concerning superstitions and witchcraft. **Reish Lakish said:** There are **four matters. The one who performs them, his blood is upon his** own **head, and** he is held **liable for his own life,** due to the evil spirit that rests upon him: **One who relieves himself** in a spot **between a palm tree and a wall, one who passes between two palm trees, one who drinks borrowed water, and one who passes over spilled water, even if his wife poured it out in front of him.**
 
 Reish Lakish teaches: *arba'a devarim ha'oseh otan damo berosho u-mitchayev benafsho* — four things, if one does them, his blood is on his own head and he bears mortal responsibility for the danger he incurs. The doubled formulation — *damo berosho* and *mitchayev benafsho* — is striking, as both phrases seem to express the same point.
 
@@ -49,9 +47,8 @@ The underlying logic: a work on Jewish magic and superstition quoted in the name
 
 ### Palm Trees & Space
 
-> **Hebrew/Aramaic:** הַנִּפְנֶה בֵּין דֶּקֶל לְכוֹתֶל — לָא אֲמַרַן אֶלָּא דְּלֵית לֵיהּ אַרְבַּע אַמּוֹת, אֲבָל אִית לֵיהּ אַרְבַּע אַמּוֹת — לֵית לַן בַּהּ. וְכִי לֵית לֵיהּ אַרְבַּע אַמּוֹת, לָא אֲמַרַן אֶלָּא דְּלֵיכָּא דִּירְכָּא אַחֲרִינָא, אֲבָל אִיכָּא דִּירְכָּא אַחֲרִינָא — לֵית לַן בַּהּ.
->
-> **Translation:** With regard to **one who relieves himself between a palm tree and a wall, we said** that he places himself in danger **only when there are not four cubits** of space between the two objects. **However,** if **there are four cubits, we have no** problem **with it.** The demons have enough room to pass, and he will not obstruct them. **And** furthermore, even **when there are not four cubits, we said** there is a problem **only when** the demons **have no other route** besides that one. **However,** if they **have another route, we have no** problem **with it.**
+> **Hebrew/Aramaic:** הַנִּפְנֶה בֵּין דֶּקֶל לְכוֹתֶל — לָא אֲמַרַן אֶלָּא דְּלֵית לֵיהּ אַרְבַּע אַמּוֹת, אֲבָל אִית לֵיהּ אַרְבַּע אַמּוֹת — לֵית לַן בַּהּ. וְכִי לֵית לֵיהּ אַרְבַּע אַמּוֹת, לָא אֲמַרַן אֶלָּא דְּלֵיכָּא דִּירְכָּא אַחֲרִינָא, אֲבָל אִיכָּא דִּירְכָּא אַחֲרִינָא — לֵית לַן בַּהּ.
+> **Translation:** The Gemara elaborates: With regard to **one who relieves himself between a palm tree and a wall, we said** that he places himself in danger **only when there are not four cubits** of space between the two objects. **However,** if **there are four cubits, we have no** problem **with it.** The demons have enough room to pass, and he will not obstruct them. **And** furthermore, even **when there are not four cubits, we said** there is a problem **only when** the demons **have no other route** besides that one. **However,** if they **have another route, we have no** problem **with it.**
 
 The Gemara now unpacks each of the four dangers in turn.
 
@@ -61,17 +58,15 @@ Furthermore, even where there are not four *amot*, the Gemara adds a further qua
 
 ### Public Thoroughfares
 
-> **Hebrew/Aramaic:** וְהָעוֹבֵר בֵּין שְׁנֵי דְקָלִים — לָא אֲמַרַן אֶלָּא דְּלָא פַּסְקִינְהוּ רְשׁוּת הָרַבִּים, אֲבָל פַּסְקִינְהוּ רְשׁוּת הָרַבִּים — לֵית לַן בַּהּ.
->
-> **Translation:** **And** with regard to **one who passes between two palm trees, we said** that he is in danger **only if a public domain does not cross between them. However,** if **a public domain crosses between them, we have no** problem **with it,** as demons are not permitted to cause harm in a public place.
+> **Hebrew/Aramaic:** וְהָעוֹבֵר בֵּין שְׁנֵי דְקָלִים — לָא אֲמַרַן אֶלָּא דְּלָא פַּסְקִינְהוּ רְשׁוּת הָרַבִּים, אֲבָל פַּסְקִינְהוּ רְשׁוּת הָרַבִּים — לֵית לַן בַּהּ. הַשּׁוֹתֶה מַיִם שְׁאוּלִין — לָא אֲמַרַן אֶלָּא דְּשַׁיְילִינְהוּ קָטָן, אֲבָל גָּדוֹל — לֵית לַן בַּהּ.
+> **Translation:** **And** with regard to **one who passes between two palm trees, we said** that he is in danger **only if a public domain does not cross between them. However,** if **a public domain crosses between them, we have no** problem **with it,** as demons are not permitted to cause harm in a public place. **And** with regard to **one who drinks borrowed water, we said** it is dangerous **only if a minor borrowed it. However,** if **an adult** borrowed the water, **we have no** problem **with it.**
 
 Regarding passing between two palm trees: *lo amran ela d'la paskin'hu reshut harabim* — this is only dangerous when a public thoroughfare has not passed through the area. *Shedim* avoid the masses. *Aval paskin'hu reshut harabim* — if a public road passes between the trees, *leit lan bah* — there is no concern. The *shedim* prefer darker, more secluded areas, and where there is steady public traffic they will not linger.
 
 ### Borrowed Water Limits
 
-> **Hebrew/Aramaic:** הַשּׁוֹתֶה מַיִם שְׁאוּלִין — לָא אֲמַרַן אֶלָּא דְּשַׁיְילִינְהוּ קָטָן, אֲבָל גָּדוֹל — לֵית לַן בַּהּ. וַאֲפִילּוּ שַׁיְילִינְהוּ קָטָן נָמֵי — לָא אֲמַרַן אֶלָּא בַּשָּׂדֶה, דְּלָא שְׁכִיחִי, אֲבָל בָּעִיר, דִּשְׁכִיחִי — לֵית לַן בָּהּ. וַאֲפִילּוּ בַּשָּׂדֶה נָמֵי — לָא אֲמַרַן אֶלָּא מַיָּא, אֲבָל חַמְרָא וְשִׁיכְרָא — לֵית לַן בַּהּ.
->
-> **Translation:** **And** with regard to **one who drinks borrowed water, we said** it is dangerous **only if a minor borrowed it. However,** if **an adult** borrowed the water, **we have no** problem **with it.** **And even** if **a minor borrowed it, we said** this poses a danger **only** if it occurred **in a field, where** water **is not found. However, in a city, where** water **can be found, we have no** problem **with it. And even in a field, we said** there is cause for concern **only** in a case of borrowed **water; however,** with regard to **wine and beer, we have no** problem **with it.**
+> **Hebrew/Aramaic:** וַאֲפִילּוּ שַׁיְילִינְהוּ קָטָן נָמֵי — לָא אֲמַרַן אֶלָּא בַּשָּׂדֶה, דְּלָא שְׁכִיחִי, אֲבָל בָּעִיר, דִּשְׁכִיחִי — לֵית לַן בָּהּ. וַאֲפִילּוּ בַּשָּׂדֶה נָמֵי — לָא אֲמַרַן אֶלָּא מַיָּא, אֲבָל חַמְרָא וְשִׁיכְרָא — לֵית לַן בַּהּ.
+> **Translation:** **And even** if **a minor borrowed it, we said** this poses a danger **only** if it occurred **in a field, where** water **is not found. However, in a city, where** water **can be found, we have no** problem **with it. And even in a field, we said** there is cause for concern **only** in a case of borrowed **water; however,** with regard to **wine and beer, we have no** problem **with it.**
 
 Regarding borrowed water: *lo amran ela d'shailinhu katan* — the danger applies only if a minor did the borrowing, as a minor may not have been able to properly watch over the water, rendering it somehow more susceptible to demonic access. *Aval gadol leit lan bah* — if an adult borrowed the water, there is no concern.
 
@@ -81,8 +76,7 @@ And even in a field, *ela maya* — the concern applies only to water. *Aval cha
 
 ### Spilled Water Rules
 
-> **Hebrew/Aramaic:** וְהָעוֹבֵר עַל מַיִם שְׁפוּכִין — לָא אֲמַרַן אֶלָּא דְּלָא אַפְסְקִינְהוּ בְּעַפְרָא וְלָא תַּף בְּהוּ רוּקָּא, אֲבָל אַפְסְקִינְהוּ אוֹ תַּף בְּהוּ רוּקָּא — לֵית לַן בַּהּ. וְלָא אֲמַרַן אֶלָּא דְּלָא עֲבַר עֲלַיְיהוּ שִׁימְשָׁא וְלָא עֲבַר עֲלַיְיהוּ שִׁיתִּין נִיגְרֵי, אֲבָל עֲבַר עֲלַיְיהוּ שִׁימְשָׁא וַעֲבַר עֲלַיְיהוּ שִׁיתִּין נִיגְרֵי — לֵית לַן בַּהּ. וְלָא אֲמַרַן אֶלָּא דְּלָא רְכִיב חֲמָרָא וְלָא סָיֵים מְסָנֵי, אֲבָל רְכִיב חֲמָרָא וְסָיֵים מְסָנֵי — לֵית לַן בַּהּ.
->
+> **Hebrew/Aramaic:** וְהָעוֹבֵר עַל מַיִם שְׁפוּכִין — לָא אֲמַרַן אֶלָּא דְּלָא אַפְסְקִינְהוּ בְּעַפְרָא וְלָא תַּף בְּהוּ רוּקָּא, אֲבָל אַפְסְקִינְהוּ אוֹ תַּף בְּהוּ רוּקָּא — לֵית לַן בַּהּ. וְלָא אֲמַרַן אֶלָּא דְּלָא עֲבַר עֲלַיְיהוּ שִׁימְשָׁא וְלָא עֲבַר עֲלַיְיהוּ שִׁיתִּין נִיגְרֵי, אֲבָל עֲבַר עֲלַיְיהוּ שִׁימְשָׁא וַעֲבַר עֲלַיְיהוּ שִׁיתִּין נִיגְרֵי — לֵית לַן בַּהּ. וְלָא אֲמַרַן אֶלָּא דְּלָא רְכִיב חֲמָרָא וְלָא סָיֵים מְסָנֵי, אֲבָל רְכִיב חֲמָרָא וְסָיֵים מְסָנֵי — לֵית לַן בַּהּ.
 > **Translation:** **And** with regard to **one who passes over spilled water, we said** he places himself in danger **only if no one sprinkled dirt over it and no one spat in it. However, if** someone **sprinkled dirt over it or spat in it, we have no** problem **with it. And we said** this is a concern **only if the sun did not pass over it,** i.e., it occurred at night, **and sixty steps** of people walking in the area **have not passed over it. However,** if **the sun passed over it and sixty steps passed over it, we have no** problem **with it. And we said** this concern **only if he was not riding a donkey and not wearing shoes; however, if he was riding a donkey and wearing shoes, we have no** problem **with it.**
 
 Regarding walking over spilled water: the Gemara specifies that the danger applies *ela d'la afsikinhu be'afra* — only when no dirt has been placed on the water to interrupt it — *ve-la taf behu ruka* — and no one has spit into it. The spilled water under discussion is primarily soiled water — what one might call household wastewater or sewage, since in antiquity one would pour out dirty water used for washing or other purposes. Something about the nature or perhaps the odor of such water attracts *shedim*. But if dirt is added, or if someone spits in it, the nature of the liquid is sufficiently altered that it is no longer an attractive gathering point.
@@ -93,8 +87,7 @@ There is a final amelioration: *ela dela rachiv chamra velo sayim masanei* — t
 
 ### Witchcraft Exception
 
-> **Hebrew/Aramaic:** וְהָנֵי מִילֵּי הֵיכָא דְּלֵיכָּא לְמֵיחַשׁ לִכְשָׁפִים, אֲבָל הֵיכָא דְּאִיכָּא לְמֵיחַשׁ לִכְשָׁפִים, אַף עַל גַּב דְּאִיכָּא כׇּל הָנֵי חָיְישִׁינַן. (וְהָהוּא) גַּבְרָא דִּרְכִיב חֲמָרָא וְסָיֵים מְסָנֵי, וּגְמוּד מְסָאנֵיהּ וּצְווֹ כַּרְעֵיהּ.
->
+> **Hebrew/Aramaic:** וְהָנֵי מִילֵּי הֵיכָא דְּלֵיכָּא לְמֵיחַשׁ לִכְשָׁפִים, אֲבָל הֵיכָא דְּאִיכָּא לְמֵיחַשׁ לִכְשָׁפִים, אַף עַל גַּב דְּאִיכָּא כׇּל הָנֵי — חָיְישִׁינַן. (וְהָהוּא) גַּבְרָא דִּרְכִיב חֲמָרָא וְסָיֵים מְסָנֵי, וּגְמוּד מְסָאנֵיהּ וּצְווֹ כַּרְעֵיהּ.
 > **Translation:** The Gemara comments: **And** all **this** applies only **where there is no** reason for **concern for witchcraft,** as no one is interested in harming him. **However, where there is** reason for **concern for witchcraft, even if all of these** limiting conditions **are** in place, **we are** nevertheless **concerned. And** this is similar to what happened to **a certain man who was riding a donkey and wearing shoes.** Nevertheless, he passed over water **and his shoes shrank and his feet shriveled up.**
 
 *Ve-hani milei* — all of these qualifications and leniencies apply *heicha deleika lemichash lechshafim* — in a place where there is no reason to worry about witchcraft being directed against a person. The protections address the *mazikin* acting in their ordinary, autonomous movements through the world. *Aval heicha de-ika lemichash le-chshafim* — but in a place where someone is actively directing witchcraft against a person, *af al gav de-ika kol hanei chaishinan* — even if one has taken all of the precautions described, one must still be concerned.
@@ -109,25 +102,28 @@ One student raised a broader observation: the world of the Talmud is a deeply an
 
 ## Dogs, Trees & Women
 
+
+
 ### Three Prohibited
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: שְׁלֹשָׁה אֵין מְמַצְּעִין וְלֹא מִתְמַצְּעִין. וְאֵלּוּ הֵן: הַכֶּלֶב וְהַדֶּקֶל וְהָאִשָּׁה. וְיֵשׁ אוֹמְרִים: אַף הַחֲזִיר, וְיֵשׁ אוֹמְרִים: אַף הַנָּחָשׁ.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: שְׁלֹשָׁה אֵין מְמַצְּעִין וְלֹא מִתְמַצְּעִין. וְאֵלּוּ הֵן: הַכֶּלֶב וְהַדֶּקֶל וְהָאִשָּׁה. וְיֵשׁ אוֹמְרִים: אַף הַחֲזִיר, וְיֵשׁ אוֹמְרִים: אַף הַנָּחָשׁ.
 > **Translation:** The Gemara continues to discuss this issue. **The Sages taught: Three** objects should **not** be allowed to **pass between** two people walking along a road, and people should **not walk between** two of them: **A dog, a palm tree, and a woman. And some say: Also a pig. And some say: Also a snake.** All of these were associated with witchcraft.
 
 A *brayta* is cited: *shlosha ain mimetzin velo mitmetzin* — there are three entities that one must not allow to become an intermediary between two people, and between two of which one must not place oneself. These are *hakelev veha-dekel veha-isha* — a dog, a palm tree, and a woman. Some add *af hachazir* — even a pig — and some add *af hanachash* — even a snake. The concern, as the subsequent discussion makes clear, relates to the demonic or witchcraft-related dangers associated with these entities.
 
 ### El/Lo Remedy
 
-> **Hebrew/Aramaic:** וְאִי מְמַצְּעִין מַאי תַּקַּנְתֵּיהּ? אָמַר רַב פָּפָּא: נִפְתַּח בְּ״אֵל״ וְנַפְסֵיק בְּ״אֵל״. אִי נָמֵי, נִפְתַּח בְּ״לֹא״ וְנַפְסֵיק בְּ״לֹא״.
->
-> **Translation:** The Gemara asks: **And if they pass between them, what is the remedy** to prevent one from harm? **Rav Pappa said: He** should **begin** reciting a verse that starts **with** the word **God and conclude with** a verse that ends with the word **God.** In other words, he should recite the passage: "God Who brought them out of Egypt is for them like the lofty horns of the wild ox. For there is no enchantment with Jacob, nor is there any divination with Israel; now is it said of Jacob and of Israel: What has been performed by God" (Numbers 23:22–23). This verse indicates that spells do not affect the Jewish people. **Alternatively, he** should **open** with a verse that begins with the word ***lo*,** no, **and** should **conclude** with the same verse that ends with ***lo*:** "No [*lo*] man is God that he should lie; neither the son of man that he should repent. When He has said will He not do it, or when He has spoken will He not [*lo*] make it good?" (Numbers 23:19).
+> **Hebrew/Aramaic:** וְאִי מְמַצְּעִין מַאי תַּקַּנְתֵּיהּ? אָמַר רַב פָּפָּא: נִפְתַּח בְּ״אֵל״ וְנַפְסֵיק בְּ״אֵל״.
+> **Translation:** The Gemara asks: **And if they pass between them, what is the remedy** to prevent one from harm? **Rav Pappa said: He** should **begin** reciting a verse that starts **with** the word **God and conclude with** a verse that ends with the word **God.** In other words, he should recite the passage: “God Who brought them out of Egypt is for them like the lofty horns of the wild ox. For there is no enchantment with Jacob, nor is there any divination with Israel; now is it said of Jacob and of Israel: What has been performed by God” (Numbers 23:22–23). This verse indicates that spells do not affect the Jewish people.
+
+> **Hebrew/Aramaic:** אִי נָמֵי, נִפְתַּח בְּ״לֹא״ וְנַפְסֵיק בְּ״לֹא״.
+> **Translation:** **Alternatively, he** should **open** with a verse that begins with the word ***lo*,** no, **and** should **conclude** with the same verse that ends with ***lo*:** “No [*lo*] man is God that he should lie; neither the son of man that he should repent. When He has said will He not do it, or when He has spoken will He not [*lo*] make it good?” (Numbers 23:19).
 
 *Ve-im mimetzin* — if one of these did become an intermediary, what is the remedy? Rav Pappa teaches: *niftach b'El ve-nisayem b'El* — one should recite a *pasuk* that begins with the divine name *El* and ends with *El*. Alternatively: *niftach belo ve-nisayem belo* — one should begin with *lo* and end with *lo*.
 
 Rashi identifies the *pasuk* for *El*: *El motziam mimitzrayim kito'afot re'eim lo, ki lo nachash beya'akov velo kessem beyisrael, ka'et ye'ameir leya'akov uleyisrael mah pa'al El* — a verse that opens with *El* and closes with *El*. This passage is particularly apt: it invokes *ki lo nachash beya'akov velo kessem beyisrael* — that witchcraft has no power over Israel — making it directly relevant to the danger at hand. Moreover, there is a structural resonance: just as one has been caught in the middle of something — sandwiched between entities — the remedy involves being sandwiched within a verse, with *El* on both sides.
 
-For *lo*, Rashi cites: *lo ish El veyichazev uben adam veyitnecham, hahu amar velo ya'aseh vedibeir velo yekimena* — a verse that opens and closes with *lo*, though the final *lo* is not the very last word. Again, the content is apposite.
+For *lo*, Rashi cites: *lo ish El veyichazev uven adam veyitnecham, hahu amar velo ya'aseh vedibeir velo yekimena* — a verse that opens and closes with *lo*, though the final *lo* is not the very last word. Again, the content is apposite.
 
 ### Torah as Incantation
 
@@ -147,11 +143,12 @@ It should be noted that Tosafot's discussion preserves both the *Rashbam's* appr
 
 ### Women as Niddah
 
-> **Hebrew/Aramaic:** הָנֵי בֵּי תְרֵי דְּמַצַּעָא לְהוּ אִשָּׁה נִדָּה, אִם תְּחִלַּת נִדָּתָהּ הִיא — הוֹרֶגֶת אֶחָד מֵהֶן, אִם סוֹף נִדָּתָהּ הִיא — מְרִיבָה עוֹשָׂה בֵּינֵיהֶן. מַאי תַּקַּנְתֵּיהּ? נִפְתַּח בְּ״אֵל״ וְנַפְסֵיק בְּ״אֵל״.
->
+> **Hebrew/Aramaic:** הָנֵי בֵּי תְרֵי דְּמַצַּעָא לְהוּ אִשָּׁה נִדָּה, אִם תְּחִלַּת נִדָּתָהּ הִיא — הוֹרֶגֶת אֶחָד מֵהֶן, אִם סוֹף נִדָּתָהּ הִיא — מְרִיבָה עוֹשָׂה בֵּינֵיהֶן. מַאי תַּקַּנְתֵּיהּ? נִפְתַּח בְּ״אֵל״ וְנַפְסֵיק בְּ״אֵל״.
 > **Translation:** Similarly, **these two** men, **between whom a menstruating woman passes, if she is at the beginning of her menstruation she kills one of them,** i.e., she causes the death of one of the two men. **If she is** at **the end of her menstruation** she does not kill, but she **causes a fight between them. What is his remedy? He** should **open** with a verse that begins **with** the word **God and he** should **conclude with** a verse that ends with the word **God,** as explained above.
 
-The Gemara continues with a further specification: *hani bei tere de-matzu'ah lehu isha niddah* — if a *niddah* passes between two people. *Im techilas niddasah hi* — if she is at the beginning of her menstrual flow, *horegas achas mehen* — it will cause the death of one of them. *Ve-im sof niddasah hi* — if she is at the end of her period, *meriva osa beineihen* — it will cause a quarrel between them. The remedy is again to recite a verse or prayer beginning and ending with *El*.
+The Gemara continues with a further specification: *hani bei tere de-matzu'ah lehu isha niddah* — if a *niddah* passes between two people. *Im techilas niddasah hi* — if she is at the beginning of her menstrual flow, *horegas achas mehen* — it will cause the death of one of them. *Ve-im sof niddasah hi* — if she is at the end of her period, *meriva osa beineihen* — it will cause a quarrel between them. The remedy is again to recite a verse or prayer beginning and ending with *El* — and notably, the Gemara specifies only *El* here, not *lo*.
+
+What is striking about this passage is that it presupposes something the Torah itself does not. The Torah treats *niddah* as a category of *tumah* and a matter of *issur arayos* — and nothing beyond that. There is no suggestion anywhere in the Torah that a menstruating woman poses a physical danger to those around her, or carries with her some ambient destructive power. The Gemara in Masechet Niddah reflects the same orientation: its entire *halakhic* analysis treats the concerns of the *niddah* period as concerns about forbidden relations, not about magical contamination or spiritual peril — and, as will be discussed in the following section, it rules in ways that actively push back against any notion of casting the woman out or treating her as dangerous in a broader sense. This passage, by contrast, is not a *halakhic* discussion. It belongs to a different register entirely — one that reflects popular perceptions, present in the surrounding culture and apparently not wholly absent from some strands of rabbinic thought, in which the *niddah* was understood to carry a dangerous power extending well beyond the domain of *halakhah*.
 
 ### Niddah Discussion
 
@@ -167,27 +164,23 @@ It is significant that this perception did find its way into practical life acro
 
 ## Women Witchcraft
 
+
+
 ### Crossroads Women
 
-> **Hebrew/Aramaic:** הָנֵי תְּרֵי נְשֵׁי דְּיָתְבָן בְּפָרָשַׁת דְּרָכִים, חֲדָא בְּהַאי גִּיסָא דִּשְׁבִילָא, וַחֲדָא בְּאִידַּךְ גִּיסָא, וּמְכַוְּונָן אַפַּיְיהוּ לַהֲדָדֵי — וַדַּאי בִּכְשָׁפִים עֲסִיקָן.
->
-> **Translation:** The Gemara states: **These two women, who are sitting at a crossroads, one on this side of the road and the other on the other side, and they are facing each other, they are certainly engaging in witchcraft.**
+> **Hebrew/Aramaic:** הָנֵי תְּרֵי נְשֵׁי דְּיָתְבָן בְּפָרָשַׁת דְּרָכִים, חֲדָא בְּהַאי גִּיסָא דִּשְׁבִילָא, וַחֲדָא בְּאִידַּךְ גִּיסָא, וּמְכַוְּונָן אַפַּיְיהוּ לַהֲדָדֵי — וַדַּאי בִּכְשָׁפִים עֲסִיקָן. מַאי תַּקַּנְתֵּיהּ? אִי אִיכָּא דִּירְכָּא אַחֲרִינָא — לֵיזִיל בַּהּ. וְאִי לֵיכָּא דִּירְכָּא אַחֲרִינָא, אִי אִיכָּא אִינִישׁ אַחֲרִינָא בַּהֲדֵיהּ — נִינְקְטוֹ לִידַיְיהוּ בַּהֲדֵי הֲדָדֵי וְנִיחַלְּפוּ. וְאִי לֵיכָּא אִינִישׁ אַחֲרִינָא, נֵימָא הָכִי: ״אָגְרַת אָזְלַת אָסְיָא בְּלוּסְיָא, מִתְקַטְלָא בְּחֵיק קָבָל״.
+> **Translation:** The Gemara further states: **These two women, who are sitting at a crossroads, one on this side of the road and the other on the other side, and they are facing each other, they are certainly engaging in witchcraft. What is** the **remedy** for one who walks by? **If there is another route, he** should **go by it. And if there is no other route, if there is another person with him, they** should **hold hands and switch** places. **And if there is no other person with him, he** should **say as follows: Iggeret, Azlat, Asiya, Belusiya are killed by arrows.** These are names of demons invoked by witches.
 
 The Gemara now addresses a related scenario: *hanei trei nashei yatvan b'parashat drachim ve-chada b'hai gisa dishvila ve-chada b'idach gisa umichavnan apaihu hadadi* — two women sitting at a crossroads, one on each side of the road, facing one another. *Vadai b'kshafim askinan* — this positioning is taken as certain evidence that they are engaged in witchcraft.
 
 ### Witchcraft Remedies
 
-> **Hebrew/Aramaic:** מַאי תַּקַּנְתֵּיהּ? אִי אִיכָּא דִּירְכָּא אַחֲרִינָא — לֵיזִיל בַּהּ. וְאִי לֵיכָּא דִּירְכָּא אַחֲרִינָא, אִי אִיכָּא אִינִישׁ אַחֲרִינָא בַּהֲדֵיהּ — נִינְקְטוֹ לִידַיְיהוּ בַּהֲדֵי הֲדָדֵי וְנִיחַלְּפוּ. וְאִי לֵיכָּא אִינִישׁ אַחֲרִינָא, נֵימָא הָכִי: ״אָגְרַת אָזְלַת אָסְיָא בְּלוּסְיָא, מִתְקַטְלָא בְּחֵיק קָבָל״.
->
-> **Translation:** The Gemara further states: **These two women, who are sitting at a crossroads, one on this side of the road and the other on the other side, and they are facing each other, they are certainly engaging in witchcraft. What is** the **remedy** for one who walks by? **If there is another route, he** should **go by it. And if there is no other route, if there is another person with him, they** should **hold hands and switch** places. **And if there is no other person with him, he** should **say as follows: Iggeret, Azlat, Asiya, Belusiya are killed by arrows.** These are names of demons invoked by witches.
-
 If one encounters this situation, *ieka darcha achrina leizil bah* — the first and best advice is to take an alternate route. If no other route is available and one has a companion, the two should grasp each other's hands and pass through together. If one is alone, *neima hachi* — one should recite the following: *Igeret azlat asya blusya mitkatla b'cheik tevel*. The first words — *Igeret, azlat, asya, blusya* — appear to be names of demonic entities; the concluding phrase means something like "may murderous arrows be driven into you." The Rashbam understands this as a curse directed at the *shedim* associated with the witchcraft, and indeed the verse concludes with an invocation of destruction against them: *k'tzar harugin heim b'chitzim* — they are already as if slain by arrows.
 
 ### Mikvah Encounter
 
-> **Hebrew/Aramaic:** הַאי מַאן דְּפָגַע בְּאִיתְּתָא בְּעִידָּנָא דְּסָלְקָא מִטְּבִילַת מִצְוָה, אִי אִיהוּ קָדֵים וּמְשַׁמֵּשׁ — אָחֲדָא לֵיהּ לְדִידֵיהּ רוּחַ זְנוּנִים. אִי אִיהִי קָדְמָה וּמְשַׁמְּשָׁה — אָחֲדָא לַהּ לְדִידַהּ רוּחַ זְנוּנִים. מַאי תַּקַּנְתֵּיהּ? לֵימָא הָכִי: ״שׁוֹפֵךְ בּוּז עַל נְדִיבִים וַיַּתְעֵם בְּתוֹהוּ לֹא דָרֶךְ״.
->
-> **Translation:** The Gemara cites a related statement: **One who meets a woman when she is ascending from the ritual immersion of a mitzva,** after her menstruation, **if he has intercourse** with any woman **first, a spirit of immorality overtakes him; if she has intercourse first, a spirit of immorality overtakes her. What is his remedy? He** should **say this: "He pours contempt upon princes, and causes them to wander in the waste, where there is no way"** (Psalms 107:40).
+> **Hebrew/Aramaic:** הַאי מַאן דְּפָגַע בְּאִיתְּתָא בְּעִידָּנָא דְּסָלְקָא מִטְּבִילַת מִצְוָה, אִי אִיהוּ קָדֵים וּמְשַׁמֵּשׁ — אָחֲדָא לֵיהּ לְדִידֵיהּ רוּחַ זְנוּנִים. אִי אִיהִי קָדְמָה וּמְשַׁמְּשָׁה — אָחֲדָא לַהּ לְדִידַהּ רוּחַ זְנוּנִים. מַאי תַּקַּנְתֵּיהּ? לֵימָא הָכִי: ״שׁוֹפֵךְ בּוּז עַל נְדִיבִים וַיַּתְעֵם בְּתוֹהוּ לֹא דָרֶךְ״.
+> **Translation:** The Gemara cites a related statement: **One who meets a woman when she is ascending from the ritual immersion of a mitzva,** after her menstruation, **if he has intercourse** with any woman **first, a spirit of immorality overtakes him; if she has intercourse first, a spirit of immorality overtakes her. What is his remedy? He** should **say this: “He pours contempt upon princes, and causes them to wander in the waste, where there is no way”** (Psalms 107:40).
 
 A further scenario: *hai man d'paga b'it-teta b'idna d'salka mitvilas mitzvah* — a person who happens to encounter a woman at the very moment she is emerging from the *mikvah*, having immersed for the *mitzvah* of becoming permissible to her husband. If he then goes home and has relations before she does — *achda lei l'didei ruach znunim* — a spirit of licentiousness takes hold of him. If she has relations before he does — *achda lah l'didah ruach znunim* — it takes hold of her. The remedy in either case is to recite: *shfoch buz al nedivim vayashgem betohu lo darech* — "Pour contempt upon princes and make them wander in pathless wastelands," the apparent intent being that God should drive away the demonic spirit.
 
@@ -203,11 +196,15 @@ Tosafot offers several resolutions. The first: *hacha depaga beshata desalka min
 
 ## Dangerous Shades
 
+
+
 ### Shadow Dangers
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק, מַאי דִּכְתִיב: ״גַּם כִּי אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא אִירָא רָע כִּי אַתָּה עִמָּדִי״ — זֶה הַיָּשֵׁן בְּצֵל דֶּקֶל יְחִידִי, וּבְצֵל לְבָנָה. וּבְצֵל דֶּקֶל יְחִידִי — לָא אֲמַרַן אֶלָּא דְּלָא נָפֵיל טוּלָּא דְחַבְרֵיהּ עִילָּוֵיהּ, אֲבָל נָפֵל טוּלָּא דְחַבְרֵיהּ עִילָּוֵיהּ — לֵית לַן בַּהּ.
->
-> **Translation:** **Rav Yitzḥak said: What** is the meaning of that which **is written: "Though I walk through the valley of the shadow of death, I will fear no evil, for You are with me"** (Psalms 23:4)? **This is** a person **who sleeps in the shadow of a single palm tree, and in the shadow of the moon.** Despite his dangerous position, he trusts God and is not afraid. The Gemara qualifies the previous statement: **And with regard to** one who sleeps **in the shadow of a single palm tree, we said** he is in danger **only if the shadow of another** palm tree **does not fall upon him. However,** if **the shadow of another** palm tree **falls upon him, we have no** problem **with it.**
+> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק, מַאי דִּכְתִיב: ״גַּם כִּי אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא אִירָא רָע כִּי אַתָּה עִמָּדִי״ — זֶה הַיָּשֵׁן בְּצֵל דֶּקֶל יְחִידִי, וּבְצֵל לְבָנָה. וּבְצֵל דֶּקֶל יְחִידִי — לָא אֲמַרַן אֶלָּא דְּלָא נָפֵיל טוּלָּא דְחַבְרֵיהּ עִילָּוֵיהּ, אֲבָל נָפֵל טוּלָּא דְחַבְרֵיהּ עִילָּוֵיהּ — לֵית לַן בַּהּ.
+> **Translation:** **Rav Yitzḥak said: What** is the meaning of that which **is written: “Though I walk through the valley of the shadow of death, I will fear no evil, for You are with me”** (Psalms 23:4)? **This is** a person **who sleeps in the shadow of a single palm tree, and in the shadow of the moon.** Despite his dangerous position, he trusts God and is not afraid. The Gemara qualifies the previous statement: **And with regard to** one who sleeps **in the shadow of a single palm tree, we said** he is in danger **only if the shadow of another** palm tree **does not fall upon him. However,** if **the shadow of another** palm tree **falls upon him, we have no** problem **with it.**
+
+> **Hebrew/Aramaic:** אֶלָּא הָא דְּתַנְיָא: הַיָּשֵׁן בְּצֵל דֶּקֶל יְחִידִי בֶּחָצֵר, וְהַיָּשֵׁן בְּצֵל לְבָנָה — דָּמוֹ בְּרֹאשׁוֹ, הֵיכִי דָמֵי? אִי לֵימָא דְּלָא נָפֵל טוּלָּא דְּחַבְרֵיהּ עִילָּוֵיהּ, אֲפִילּוּ בַּשָּׂדֶה נָמֵי! אֶלָּא לָאו שְׁמַע מִינַּהּ: בְּחָצֵר אַף עַל גַּב דְּנָפֵיל טוּלָּא דְּחַבְרֵיהּ עִילָּוֵיהּ. שְׁמַע מִינַּהּ.
+> **Translation:** The Gemara asks: **But** what about **that** which **was taught** in a *baraita*: With regard to one **who sleeps in the shadow of a single palm tree in a courtyard and one who sleeps in the shadow of the moon, his blood is upon his** own **head. What are the circumstances? If we say that the shadow of another** palm tree **does not fall on him,** he would **also** be harmed if he were **in a field. Rather,** must **one not conclude from** this *baraita* that if one is in a **courtyard, even if the shadow of another** tree **fell on him,** it remains dangerous? The Gemara concludes: Indeed, **learn from it** that this is so.
 
 Rav Yitzchak opens this section with an exegetical observation: what is the meaning of the verse *gam ki elech be-gei tzalmavet lo ira ra ki ata imadi* — "Even as I walk through the valley of the shadow of death I shall fear no evil, for You are with me"? What is this *gei tzalmavet*, this valley of the shadow of death, that represents such acute danger? The Gemara identifies it: *ze hayashen betzel dekel yechidi* — this is one who sleeps in the shade of a solitary palm tree. The linguistic connection is pointed: *betzel*, shade, resonates with *tzalmavet*, shadow of death. And note that the *shedim* are associated not merely with the trees themselves but specifically with their *shade* — making vulnerable any place where shade is cast.
 
@@ -221,37 +218,36 @@ This raises a broader reflection: the Gemara's use of standard *halakhic* analyt
 
 ### Moon Shade Danger
 
-> **Hebrew/Aramaic:** וּבְצִילָּהּ שֶׁל לְבָנָה — לָא אֲמַרַן אֶלָּא בְּמַעְרְבָה, אֲבָל בְּמַדִּינְחֲתָא — לֵית לַן בַּהּ.
->
+> **Hebrew/Aramaic:** וּבְצִילָּהּ שֶׁל לְבָנָה — לָא אֲמַרַן אֶלָּא בְּמַעְרְבָה, אֲבָל בְּמַדִּינְחֲתָא — לֵית לַן בַּהּ.
 > **Translation:** The Gemara adds: **And** with regard **to the shadow of the moon, we said** it is dangerous to sleep there **only** at the end of the month when the moon shines in the east, and therefore its shadow is **in the west. However,** at the start of the month, when the moon shines in the west and its shadow is **in the east, we have no** problem **with it.**
 
-Regarding moon shade: *u-v'tzila shel levana lo amran ela b'ma'arava* — the danger of moonlight shade applies only when the shade is cast to the west. The Rashbam explains that toward the end of the night the moon is in the east, and a wall facing east would therefore cast its shadow westward. Shade cast to the east — *aval b'madnacha leit lan bah* — presents no concern. This suggests that only a particular configuration of moonlight and shadow at a specific time of night activates the danger.
+Regarding moon shade: *u-v'tzila shel levana lo amran ela b'ma'arava* — the danger of moonlight shade applies only when the shade is cast to the west. The Rashbam explains that toward the end of the night the moon is in the east, and a wall facing east would therefore cast its shadow westward. Shade cast to the east — *aval b'madnacha leit lan bah* — presents no concern. This suggests that only a particular configuration of moonlight and shadow at a specific time of night activates the danger. It is worth pausing to note what the Rashbam's explanation requires us to know: the position of the moon relative to a wall determines whether the shade falls to the west or east, and only the westward-cast shade at the end of the night, when the moon has moved to the eastern sky, is the problematic configuration. The eastern shade — produced when the moon is in the west at the beginning of the night — carries no such danger.
 
+[DAF:111b]
 ### Palm Tree Spirits
 
-> **Hebrew/Aramaic:** הַאי מַאן דְּמִפְּנֵי אַגִּירְדָּא דְּדִיקְלָא — אָחֲדָא לֵיהּ לְדִידֵיהּ רוּחַ פַּלְגָא. וְהַאי מַאן דְּמַצְלֵי רֵישֵׁיהּ אַגִּירְדָּא דְּדִיקְלָא — אָחֲדָא לֵיהּ רוּחַ צְרָדָא. הַאי מַאן דְּפָסְעִי אַדִּיקְלָא, אִי מִיקְּטַל — קְטִיל, אִי אִיעֲקַר — מִיעֲקַר וּמָיֵית. הָנֵי מִילֵּי דְּלָא מַנַּח כַּרְעֵיהּ עִילָּוֵיהּ, אֲבָל מַנַּח כַּרְעֵיהּ — עִילָּוֵיהּ לֵית לַן בַּהּ.
->
+> **Hebrew/Aramaic:** הַאי מַאן דְּמִפְּנֵי אַגִּירְדָּא דְּדִיקְלָא — אָחֲדָא לֵיהּ לְדִידֵיהּ רוּחַ פַּלְגָא. וְהַאי מַאן דְּמַצְלֵי רֵישֵׁיהּ אַגִּירְדָּא דְּדִיקְלָא — אָחֲדָא לֵיהּ רוּחַ צְרָדָא. הַאי מַאן דְּפָסְעִי אַדִּיקְלָא, אִי מִיקְּטַל — קְטִיל, אִי אִיעֲקַר — מִיעֲקַר וּמָיֵית. הָנֵי מִילֵּי דְּלָא מַנַּח כַּרְעֵיהּ עִילָּוֵיהּ, אֲבָל מַנַּח כַּרְעֵיהּ — עִילָּוֵיהּ לֵית לַן בַּהּ.
 > **Translation:** The Gemara continues to discuss harmful spirits. **One who relieves himself on the stump of a palm tree will be seized by a spirit of sickness, and one who places his head on the stump of a palm tree will be seized by a spirit of a headache** of half his head, i.e., a migraine. One who walks over a palm tree, if the tree **is cut down, he** too **will be killed. If** that tree **is uprooted, he will** also **be uprooted and will die.** The Gemara comments: **This** statement **applies** only if **he does not place his legs upon it; however,** if **he places his legs upon it, we have no** problem **with it.**
 
 Continuing with the palm tree hazards: *hai man d'mafni agidda d'dikla* — one who relieves himself on the stump of a palm tree is seized by *ruach palga*, which may be the name of a specific demon or may refer to a disease — the Rashbam suggests a form of paralysis. One who leans his head against the trunk of a palm tree — *hai man d'matzli reisha agidda d'dikla* — is seized by the demon *tzrada*, which corresponds to a type of migraine headache, perhaps because the head is brought into direct contact with the tree.
+
+### Stepping Over Trees
 
 One who steps over a felled palm tree faces yet further danger: *im mikta katlo* — if the tree was cut down deliberately, he will be killed; *ee yakar u-mayas* — if it simply fell naturally, he will die. However, these dangers apply only if *dilo manach karei ilavei* — if he did not pause to rest his leg upon the trunk as he crossed. *Aval manach karei ilavei leit lan bah* — if he rests his leg on the tree while stepping over, there is no problem. The precise logic underlying this distinction is not explained, but it is presented as a matter of practical guidance.
 
 ### Five Shades Rule
 
-> **Hebrew/Aramaic:** חֲמִשָּׁה טוּלֵּי הָוֵי: טוּלָּא דְּדִיקְלָא יְחִידָא, טוּלָּא דְכִנָּדָא, טוּלָּא דְפִרְחָא, טוּלָּא דְזַרְדְּתָא. אִיכָּא דְּאָמְרִי: אַף טוּלָּא דְאַרְבָּא, וְטוּלָּא דַעֲרַבְתָּא. כְּלָלָא דְּמִילְּתָא: כֹּל דִּנְפִישׁ עַנְפֵיהּ — קְשֵׁי טוּלֵּיהּ, וְכֹל דִּקְשֵׁי סִילְוֵיהּ — קְשֵׁי טוּלֵּיהּ.
->
-> **Translation:** The Gemara cites another statement with regard to shadows. There **are five** types of dangerous **shadows: The shadow of a single palm tree, the shadow of** a tree called ***kanda*, the shadow of a caper-bush, and the shadow of** the **sorb** tree. **Some say: Also the shadow of a ship and the shadow of a willow. The** general **rule of the matter** is: **Whatever has many branches, its shadow is dangerous. And any tree whose wood is hard, its shadow is dangerous.**
+> **Hebrew/Aramaic:** חֲמִשָּׁה טוּלֵּי הָוֵי: טוּלָּא דְּדִיקְלָא יְחִידָא, טוּלָּא דְכִנָּדָא, טוּלָּא דְפִרְחָא, טוּלָּא דְזַרְדְּתָא. אִיכָּא דְּאָמְרִי: אַף טוּלָּא דְאַרְבָּא, וְטוּלָּא דַעֲרַבְתָּא. כְּלָלָא דְּמִילְּתָא: כֹּל דִּנְפִישׁ עַנְפֵיהּ — קְשֵׁי טוּלֵּיהּ,
+> **Translation:** The Gemara cites another statement with regard to shadows. There **are five** types of dangerous **shadows: The shadow of a single palm tree, the shadow of** a tree called ***kanda*, the shadow of a caper-bush, and the shadow of** the **sorb** tree. **Some say: Also the shadow of a ship and the shadow of a willow. The** general **rule of the matter** is: **Whatever has many branches, its shadow is dangerous.**
+
+> **Hebrew/Aramaic:** וְכֹל דִּקְשֵׁי סִילְוֵיהּ — קְשֵׁי טוּלֵּיהּ, לְבַר מִכְּרוּ מְשָׁא, אַף עַל גַּב דִּקְשֵׁי סִילְוֵיהּ — לָא קְשֵׁי טוּלֵּיהּ, דַּאֲמַרָה לֵהּ שֵׁידָא לִבְרַהּ: פִּירְחִי נַפְשָׁיךְ מִכְּרוּ מְשָׁא, דְּאִיהוּ הוּא דְּקָטֵיל לַאֲבוּךְ, וְקָטֵיל לְדִידֵיהּ. אָמַר רַב אָשֵׁי: חֲזֵינָא לְרַב כָּהֲנָא דְּפָרֵישׁ מִכּוּלְּהוּ טוּלֵּי.
+> **Translation:** **And any tree whose wood is hard, its shadow is dangerous, except for** the tree called ***kero masa*. Although its wood is hard, its shadow is not dangerous, as the demon said to her son: Leave the *kero masa*** tree **alone, as it** was **that** tree **that killed your father. And** the tree later **killed** the son too. The *kero masa* tree is harmful to demons. **Rav Ashi said: I saw that Rav Kahana avoided all** types **of shadows.**
 
 The Gemara enumerates five dangerous shades: *tula d'dikla yechida* — the shade of a solitary palm tree; *tula d'kanda* — the shade of a *kanda* tree; *tula d'parcha* — the shade of a *parcha*, identified as a caper bush; *tula d'zarjeta* — the shade of a sorb tree; and, according to some, *af tula d'arva* — the shade of a boat, and *tula d'arveta* — the shade of a willow. (Some versions emend the opening number to four rather than five in light of the count.)
 
 The Gemara then states a general principle: *kol dinapish anfei kashi tulei* — any tree with many branches has dangerous shade; *ve-kol d'kashi silvayei kashi tulei* — and any tree whose wood is very hard, or which has thorns, likewise has dangerous shade. The underlying intuition seems to be that the density of the canopy or the hardness of the wood creates conditions that *shedim* find congenial.
 
 ### Karumashe Exception
-
-> **Hebrew/Aramaic:** לְבַר מִכְּרוּ מְשָׁא, אַף עַל גַּב דִּקְשֵׁי סִילְוֵיהּ — לָא קְשֵׁי טוּלֵּיהּ, דַּאֲמַרָה לֵהּ שֵׁידָא לִבְרַהּ: פִּירְחִי נַפְשָׁיךְ מִכְּרוּ מְשָׁא, דְּאִיהוּ הוּא דְּקָטֵיל לַאֲבוּךְ, וְקָטֵיל לְדִידֵיהּ. אָמַר רַב אָשֵׁי: חֲזֵינָא לְרַב כָּהֲנָא דְּפָרֵישׁ מִכּוּלְּהוּ טוּלֵּי.
->
-> **Translation:** The *karumashe* tree — identified in some translations as a service tree — is explicitly excluded: **although its wood is hard, its shadow is not dangerous, as the demon said to her son: Leave the *kero masa*** tree **alone, as it** was **that** tree **that killed your father. And** the tree later **killed** the son too. The *kero masa* tree is harmful to demons. **Rav Ashi said: I saw that Rav Kahana avoided all** types **of shadows.**
 
 The *karumashe* tree — identified in some translations as a service tree — is explicitly excluded: *af al gav d'kashi silvayei lo kashi tulei* — even though its wood is hard, its shade is not dangerous.
 
@@ -261,9 +257,11 @@ Rav Ashi states: *chazivna l'Rav Kahana d'parish mikulu tulei* — I observed th
 
 ### Parcha Spirit Story
 
-> **Hebrew/Aramaic:** בֵּי פִרְחֵי — רוּחֵי. דְּבֵי זַרְדְּתָא — שֵׁידָא. דְּבֵי אִיגָּרֵי — רִישְׁפֵּי. לְמַאי נָפְקָא מִינַּהּ? לִקְמִיעָא. דְּבֵי פִרְחֵי — בְּרִיָּה שֶׁאֵין לָהּ עֵינַיִם. לְמַאי נָפְקָא מִינַּהּ — לְגַזּוֹזֵי לַהּ. זִימְנָא חֲדָא הֲוָה אָזֵיל צוּרְבָּא מֵרַבָּנַן לְאִפְּנוֹיֵי לְבֵי פִרְחֵי, שְׁמַע דְּקָא אָתָא עִילָּוֵיהּ, וְגַזִּי לַהּ. כִּי אָזְלָא, חַבְּקַיהּ לְדִיקְלָא — צְוַוח דִּיקְלָא וּפְקַעָה הִיא.
->
-> **Translation:** The Gemara comments: The demons **near the caper-bush** are called ***ruḥei*.** A demon found **near the sorb trees** is called ***shida*.** The demons found **on roofs** are called ***rishfei*.** The Gemara asks: **What is** the **practical difference** of these definitions? It makes a difference **for** writing **an amulet** on behalf of one who has been harmed. It is necessary to know the name of the demon who caused the damage. The Gemara further comments: The demon found **near the caper-bush** is **a creature with no eyes. What is** the practical halakhic **difference** of this observation? It is relevant with regard **to fleeing** from **it.** The Gemara relates: **Once a Torah scholar went to relieve himself near a caper-bush. He heard** the demon **coming and fled from it. When** this evil spirit **went, it grabbed a palm tree** and got stuck there. **The palm tree dried out and** the demon **burst.**
+> **Hebrew/Aramaic:** בֵּי פִרְחֵי — רוּחֵי. דְּבֵי זַרְדְּתָא — שֵׁידָא. דְּבֵי אִיגָּרֵי — רִישְׁפֵּי. לְמַאי נָפְקָא מִינַּהּ? לִקְמִיעָא.
+> **Translation:** The Gemara comments: The demons **near the caper-bush** are called ***ruḥei*.** A demon found **near the sorb trees** is called ***shida*.** The demons found **on roofs** are called ***rishfei*.** The Gemara asks: **What is** the **practical difference** of these definitions? It makes a difference **for** writing **an amulet** on behalf of one who has been harmed. It is necessary to know the name of the demon who caused the damage.
+
+> **Hebrew/Aramaic:** דְּבֵי פִרְחֵי — בְּרִיָּה שֶׁאֵין לָהּ עֵינַיִם. לְמַאי נָפְקָא מִינַּהּ — לְגַזּוֹזֵי לַהּ. זִימְנָא חֲדָא הֲוָה אָזֵיל צוּרְבָּא מֵרַבָּנַן לְאִפְּנוֹיֵי לְבֵי פִרְחֵי, שְׁמַע דְּקָא אָתָא עִילָּוֵיהּ, וְגַזִּי לַהּ. כִּי אָזְלָא, חַבְּקַיהּ לְדִיקְלָא — צְוַוח דִּיקְלָא וּפְקַעָה הִיא.
+> **Translation:** The Gemara further comments: The demon found **near the caper-bush** is **a creature with no eyes. What is** the practical halakhic **difference** of this observation? It is relevant with regard **to fleeing** from **it.** The Gemara relates: **Once a Torah scholar went to relieve himself near a caper-bush. He heard** the demon **coming and fled from it. When** this evil spirit **went, it grabbed a palm tree** and got stuck there. **The palm tree dried out and** the demon **burst.**
 
 The Gemara now identifies the specific *shedim* associated with various locations. The spirit of the *parcha* tree is called *ruchi*. The spirit of the sorb tree is called *sheida*. The spirit that inhabits rooftops is called *rishpi* — an echo of *rishpei esh*, fiery bolts.
 
@@ -275,9 +273,11 @@ This is illustrated by a story: a Torah student once went to relieve himself nea
 
 ### Sixty Demons Story
 
-> **Hebrew/Aramaic:** פִּרְחָא דְּבֵי זַרְדְּתָא — שֵׁידֵי. הָא זַרְדְּתָא דִּסְמִיכָה לְמָתָא — לָא פָּחֲתָא מִשִּׁיתִּין שֵׁידֵי. לְמַאי נָפְקָא מִינַּהּ? לְמִיכְתַּב לַהּ קְמִיעָא. הָהוּא בַּר קַשָּׁא דְּמָתָא דְּאָזֵיל וְקָאֵי גַּבֵּי זַרְדְּתָא, דַּהֲוָה סְמִיךְ לְמָתָא, עַלּוּ בֵּיהּ שִׁיתִּין שֵׁידֵי וְאִיסְתַּכַּן. אֲתָא לְהָהוּא מֵרַבָּנַן דְּלָא יְדַע דְּזַרְדְּתָא דְּשִׁיתִּין שֵׁידֵי הִיא, כְּתַב לַהּ קְמִיעַ לַחֲדָא שֵׁידָא. שְׁמַע דְּתָלוּ חִינְגָּא בְּגַוֵּויהּ, וְקָא מְשָׁרוּ הָכִי: סוּדָרֵיהּ דְּמָר כִּי צוּרְבָּא מֵרַבָּנַן, בָּדֵיקְנָא בֵּיהּ בְּמָר דְּלָא יָדַע ״בָּרוּךְ״. אֲתָא הָהוּא מֵרַבָּנַן דִּידַע דְּזַרְדְּתָא שִׁיתִּין שֵׁידֵי הֲוָה, כְּתַב לַהּ קְמִיעָא דְּשִׁיתִּין שֵׁידֵי, שְׁמַע דְּקָא אָמְרוּ: פַּנּוּ מָנַיְיכוּ מֵהָכָא.
->
-> **Translation:** It was stated above that the demons found **near the sorb tree** are called ***sheidei*.** The Gemara comments: **This sorb** tree **that is close to the city** contains **no less than sixty demons.** The Gemara asks: **What is** the **practical difference** of this statement? The Gemara answers: It is relevant **for writing an amulet** for this number. The Gemara relates: **A certain ruler of a city walked and stood by a sorb** tree **that was near a city. Sixty *sheidei*** demons **came upon him and he was in danger. One of the Sages who did not know that it was a sorb tree of sixty *sheidei* came and wrote him an amulet for one *shida*** demon. That man **heard that there was a celebration inside** the tree, **and** the demons **were singing: The scarf of** the **Master is like that of a Torah scholar,** but **we checked the Master and he does not know** how to say ***barukh*,** the blessing when donning a scarf. The demons were mocking him and saying that he did not know how to write an amulet. Another **one of the Sages, who knew that it was a sorb tree of sixty *sheidei*, came and wrote an amulet** against **sixty demons. He heard them saying: Clear your items away from here.**
+> **Hebrew/Aramaic:** פִּרְחָא דְּבֵי זַרְדְּתָא — שֵׁידֵי. הָא זַרְדְּתָא דִּסְמִיכָה לְמָתָא — לָא פָּחֲתָא מִשִּׁיתִּין שֵׁידֵי. לְמַאי נָפְקָא מִינַּהּ? לְמִיכְתַּב לַהּ קְמִיעָא.
+> **Translation:** It was stated above that the demons found **near the sorb tree** are called ***sheidei*.** The Gemara comments: **This sorb** tree **that is close to the city** contains **no less than sixty demons.** The Gemara asks: **What is** the **practical difference** of this statement? The Gemara answers: It is relevant **for writing an amulet** for this number.
+
+> **Hebrew/Aramaic:** הָהוּא בַּר קַשָּׁא דְּמָתָא דְּאָזֵיל וְקָאֵי גַּבֵּי זַרְדְּתָא, דַּהֲוָה סְמִיךְ לְמָתָא, עַלּוּ בֵּיהּ שִׁיתִּין שֵׁידֵי וְאִיסְתַּכַּן. אֲתָא לְהָהוּא מֵרַבָּנַן דְּלָא יְדַע דְּזַרְדְּתָא דְּשִׁיתִּין שֵׁידֵי הִיא, כְּתַב לַהּ קְמִיעַ לַחֲדָא שֵׁידָא. שְׁמַע דְּתָלוּ חִינְגָּא בְּגַוֵּויהּ, וְקָא מְשָׁרוּ הָכִי: סוּדָרֵיהּ דְּמָר כִּי צוּרְבָּא מֵרַבָּנַן, בָּדֵיקְנָא בֵּיהּ בְּמָר דְּלָא יָדַע ״בָּרוּךְ״. אֲתָא הָהוּא מֵרַבָּנַן דִּידַע דְּזַרְדְּתָא שִׁיתִּין שֵׁידֵי הֲוָה, כְּתַב לַהּ קְמִיעָא דְּשִׁיתִּין שֵׁידֵי, שְׁמַע דְּקָא אָמְרוּ: פַּנּוּ מָנַיְיכוּ מֵהָכָא.
+> **Translation:** The Gemara relates: **A certain ruler of a city walked and stood by a sorb** tree **that was near a city. Sixty *sheidei*** demons **came upon him and he was in danger. One of the Sages who did not know that it was a sorb tree of sixty *sheidei* came and wrote him an amulet for one *shida*** demon. That man **heard that there was a celebration inside** the tree, **and** the demons **were singing: The scarf of** the **Master is like that of a Torah scholar,** but **we checked the Master and he does not know** how to say ***barukh*,** the blessing when donning a scarf. The demons were mocking him and saying that he did not know how to write an amulet. Another **one of the Sages, who knew that it was a sorb tree of sixty *sheidei*, came and wrote an amulet** against **sixty demons. He heard them saying: Clear your items away from here.**
 
 *Hazira d'tasamicha l'mata lo pachas mi-shishin sheedi* — a sorb tree located near a city harbors no fewer than sixty demons. *Le-mai nafka mina likmiya* — the practical implication is again for amulet-writing: one must know that the amulet must be written against sixty *shedim*, not just one.
 
@@ -291,11 +291,11 @@ This story both reflects and reinforces the widespread practice of *kamea*-writi
 
 ## Ketev Pestilences
 
-[DAF:111b]
+
+
 ### Ketev Types
 
-> **Hebrew/Aramaic:** קֶטֶב מְרִירִי — תְּרֵי קִטְבֵי הָווּ. חַד מִקַּמֵּי טִיהֲרָא, וְחַד מִבָּתַר טִיהֲרָא. דְּמִקַּמֵּי טִיהֲרָא — ״קֶטֶב מְרִירִי״ שְׁמוֹ, וּמִיחֲזֵי בֵּי כַדָּא דְּכַמְכָּא וְהָדַר בֵּיהּ בַּחְשָׁא. דְּבָתַר טִיהֲרָא — ״קֶטֶב יָשׁוּד צׇהֳרָיִם״ שְׁמוֹ, וּמִיחֲזֵי בֵּי קַרְנָא דְּעִיזָּא, וְהָדַר בֵּיהּ כְּנָפְיָא.
->
+> **Hebrew/Aramaic:** קֶטֶב מְרִירִי — תְּרֵי קִטְבֵי הָווּ. חַד מִקַּמֵּי טִיהֲרָא, וְחַד מִבָּתַר טִיהֲרָא. דְּמִקַּמֵּי טִיהֲרָא — ״קֶטֶב מְרִירִי״ שְׁמוֹ, וּמִיחֲזֵי בֵּי כַדָּא דְּכַמְכָּא וְהָדַר בֵּיהּ בַּחְשָׁא. דְּבָתַר טִיהֲרָא — ״קֶטֶב יָשׁוּד צׇהֳרָיִם״ שְׁמוֹ, וּמִיחֲזֵי בֵּי קַרְנָא דְּעִיזָּא, וְהָדַר בֵּיהּ כְּנָפְיָא.
 > **Translation:** The Gemara discusses the ***ketev meriri*,** a demon mentioned in the Torah (Deuteronomy 32:24). **There are two** types **of *ketev*** demons, **one** that comes **before noon** in the morning **and** the other **one** comes **in the afternoon.** The one **that** comes **before noon is called *ketev meriri*, and it appears in a jug of *kutaḥ*,** a Babylonian spice, and continuously **revolves around inside it.** The *ketev* **in the afternoon is called *ketev yashud tzaharayim*** (Psalms 91:6), **and it appears inside the horn of a goat and revolves around inside it like a sifter.**
 
 The Gemara now turns to *Ketev Meriri*, a demonic pestilence referenced in the Torah and here associated by the Gemara with a specific class of dangerous spirit. *Trei katvei havei* — there are two forms of *Ketev*: *chad mikamei tihara* — one that operates before noon, and *ve-chad mibatar tihara* — one that operates after noon.
@@ -306,8 +306,7 @@ The one that operates after noon is called *Ketev Yashud Tzahorayim* — echoing
 
 ### Abaye Encounter
 
-> **Hebrew/Aramaic:** אַבָּיֵי הֲוָה שָׁקֵיל וְאָזֵיל, וְאָזֵיל רַב פָּפָּא מִיַּמִּינֵיהּ וְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ מִשְּׂמָאלֵיהּ. חַזְיֵיהּ לְהָהוּא קֶטֶב מְרִירִי דְּקָא אָתֵי לְאַפֵּיהּ דִּשְׂמָאלֵיהּ. אַהְדְּרֵא לְרַב פָּפָּא לִשְׂמָאלֵיהּ, וּלְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ לְיַמִּינֵיהּ. אֲמַר לֵיהּ רַב פָּפָּא: אֲנָא מַאי שְׁנָא דְּלָא חָשֵׁשׁ לִי? אֲמַר לֵיהּ: אַתְּ שַׁעְתָּא קָיְימָא לָךְ.
->
+> **Hebrew/Aramaic:** אַבָּיֵי הֲוָה שָׁקֵיל וְאָזֵיל, וְאָזֵיל רַב פָּפָּא מִיַּמִּינֵיהּ וְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ מִשְּׂמָאלֵיהּ. חַזְיֵיהּ לְהָהוּא קֶטֶב מְרִירִי דְּקָא אָתֵי לְאַפֵּיהּ דִּשְׂמָאלֵיהּ. אַהְדְּרֵא לְרַב פָּפָּא לִשְׂמָאלֵיהּ, וּלְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ לְיַמִּינֵיהּ. אֲמַר לֵיהּ רַב פָּפָּא: אֲנָא מַאי שְׁנָא דְּלָא חָשֵׁשׁ לִי? אֲמַר לֵיהּ: אַתְּ שַׁעְתָּא קָיְימָא לָךְ.
 > **Translation:** The Gemara relates: **Abaye was coming and walking** along the street. **And Rav Pappa was walking on his right and Rav Huna, son** of **Rav Yehoshua,** was **on his left.** Abaye **saw a certain *ketev meriri* coming on his left side and he switched Rav Pappa to his left and Rav Huna, son** of **Rav Yehoshua, to his right. Rav Pappa said** to Abaye: And **I, what is different that you were not concerned about** any possible harm to **me?** Abaye **said to him: The time is in your favor.** You are wealthy and fortunate, and therefore I believe that you will most likely not be harmed by the demon.
 
 Abaye was once traveling with Rav Pappa on his right and Rav Huna son of Rav Yehoshua on his left. *Chazya l'hahu Ketev Meriri d'ka ati l'apei* — he saw the *Ketev Meriri* coming toward him, specifically approaching from his left side. He responded by repositioning his companions: he moved Rav Pappa to the left and Rav Huna son of Rav Yehoshua to the right.
@@ -316,17 +315,13 @@ Rav Pappa protested: *ana mai shna d'lo chashasht li* — why are you not concer
 
 ### Ketev Seasons
 
-> **Hebrew/Aramaic:** מֵחַד בְּתַמּוּז עַד שִׁיתְּסַר בֵּיהּ — וַדַּאי שְׁכִיחִי. מִכָּאן וְאֵילָךְ — סָפֵק שְׁכִיחִי, סָפֵק לָא שְׁכִיחִי.
->
-> **Translation:** The Gemara comments: **From the first of Tammuz to the sixteenth of** that month, these demons are **certainly found. From here onward** it is **uncertain whether they are found or whether they are not found.**
 
 *Michad b'Tammuz ad shitser beh* — from the first of Tammuz through the sixteenth, just before the seventeenth of Tammuz, *vadai sh'chichi* — the *Ketev* powers are definitely prevalent. From that point onward — *safek sh'chichi safek lo sh'chichi* — there is uncertainty as to their prevalence. It is worth noting that this temporal proximity to the Three Weeks has generated discussion about whether some of the customs and stringencies surrounding that period were influenced by these beliefs about heightened demonic danger during this stretch of the summer calendar.
 
 ### Ketev Habitat
 
-> **Hebrew/Aramaic:** וּמִשְׁתַּכְחִי בְּטוּלֵּי דְּחַצְבָּא דְּלָא חֲצַב גַּרְמִידָא, וּבְטוּלֵּי דְּצַפְרָא וּפַנְיָא דְּלָא הָוֵי גַּרְמִידָא, וְעִיקָּר בְּטוּלֵּי דְּבֵית הַכִּסֵּא.
->
-> **Translation:** **And they can be found in the shadow of a sea squill that has not grown a cubit, and in the shadow** of objects in the **morning and evening when** their length **is less than a cubit. And they are mostly** found **in the shadow of a privy.**
+> **Hebrew/Aramaic:** מֵחַד בְּתַמּוּז עַד שִׁיתְּסַר בֵּיהּ — וַדַּאי שְׁכִיחִי. מִכָּאן וְאֵילָךְ — סָפֵק שְׁכִיחִי, סָפֵק לָא שְׁכִיחִי. וּמִשְׁתַּכְחִי בְּטוּלֵּי דְּחַצְבָּא דְּלָא חֲצַב גַּרְמִידָא, וּבְטוּלֵּי דְּצַפְרָא וּפַנְיָא דְּלָא הָוֵי גַּרְמִידָא, וְעִיקָּר בְּטוּלֵּי דְּבֵית הַכִּסֵּא.
+> **Translation:** The Gemara comments: **From the first of Tammuz to the sixteenth of** that month, these demons are **certainly found. From here onward** it is **uncertain whether they are found or whether they are not found. And they can be found in the shadow of a sea squill that has not grown a cubit, and in the shadow** of objects in the **morning and evening when** their length **is less than a cubit. And they are mostly** found **in the shadow of a privy.**
 
 *U'mishtakchei b'tulei d'chatzva d'lo chatzvei garmida* — they are found in the shade of a *chatzva*, a type of low-growing grass that does not reach a *amah* in height. *U'btulei d'tzafra v'panya d'lo havei garmida* — and in the short morning and afternoon shadows that do not extend a *amah* in length. *Ve-hikar b'tulei d'veit hakisei* — but their primary dwelling place, where they are most to be found, is in the shade of the bathroom.
 

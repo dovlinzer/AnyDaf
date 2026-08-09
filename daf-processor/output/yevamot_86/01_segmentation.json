@@ -82,7 +82,7 @@
           "timestamp": "11:20"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -106,7 +106,7 @@
           "timestamp": "16:17"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -627,5 +627,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "30:27",
+  "amud_b_micro_title": "R. Elazar's Position",
+  "shiur_start_daf": 86,
+  "shiur_start_amud": "a"
 }

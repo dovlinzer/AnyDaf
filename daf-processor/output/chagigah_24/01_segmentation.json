@@ -24,8 +24,8 @@
           "timestamp": "01:52"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Challenge to the Chiburin Limitation and the Distinction Between Receiving and Transferring Tumah",
@@ -48,7 +48,7 @@
           "timestamp": "06:24"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -72,7 +72,7 @@
           "timestamp": "13:00"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -695,5 +695,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "10:08",
+  "amud_b_micro_title": "Rabbi Yochanan Position",
+  "shiur_start_daf": 24,
+  "shiur_start_amud": "a"
 }

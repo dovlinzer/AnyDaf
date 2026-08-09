@@ -1,0 +1,440 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Hu Post-Emurim",
+    "candidates": [
+      "Reish Lakish Challenge",
+      "Asham Reincarnation",
+      "Hu Post-Emurim",
+      "Pasture Transition",
+      "Setup Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form one continuous chain discussing the word 'hu' by asham \u2014 first explaining why chatas is disqualified (hu excludes it), then asking why asham isn't similarly disqualified, then answering that asham's 'hu' appears post-emurim, then deriving what asham's 'hu' does teach (the nitak l're'iyah ruling) \u2014 exactly matching the 'Hu Post-Emurim' prose which covers precisely this entire sequence.",
+      "chosen_heading": "Hu Post-Emurim",
+      "current_heading": "Hu Post-Emurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Setup Discussion",
+    "candidates": [
+      "Pasture Transition",
+      "Setup Discussion",
+      "Yoledet Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Na\u1e25man, Rav Sheshet, and Rav Adda bar Mattana sitting together and analyzing Rabbi Elazar's response to Reish Lakish regarding offerings brought after the owner's death, which matches exactly the 'Setup Discussion' prose that describes this same scene and question.",
+      "chosen_heading": "Setup Discussion",
+      "current_heading": "Setup Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Yoledet Proof",
+    "candidates": [
+      "Yoledet Proof",
+      "Rav Ashi Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Adda bar Mattana's argument about the yoledet case, which is precisely what the prose under 'Yoledet Proof' describes and analyzes.",
+      "chosen_heading": "Yoledet Proof",
+      "current_heading": "Yoledet Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Ashi Counter",
+    "candidates": [
+      "Rav Ashi Counter",
+      "Ownership Core Q",
+      "Mincha No-Partnership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Asi's objection arguing that a yoledet's olah can atone for multiple mitzvot aseh and therefore heirs could also gain kapara, which matches exactly the prose of 'Rav Ashi Counter' describing this challenge to the argument about the yoledet's olah carrying general atoning function.",
+      "chosen_heading": "Rav Ashi Counter",
+      "current_heading": "Rav Ashi Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Mincha No-Partnership",
+    "candidates": [
+      "Ownership Core Q",
+      "Mincha No-Partnership",
+      "Behema Temurah Block",
+      "Contradiction Framed",
+      "Hamir Yamir Include"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the core question of whether heirs acquire/own the korban (and uses the mincha ruling as evidence they do not), which matches the 'Ownership Core Q' prose that frames this as the fundamental question about heirs' ownership stake \u2014 the mincha ruling is here the proof, not the subject, making it belong under the ownership question heading rather than the mincha-specific heading.",
+      "chosen_heading": "Ownership Core Q",
+      "current_heading": "Mincha No-Partnership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Hamir Yamir Include",
+    "candidates": [
+      "Behema Temurah Block",
+      "Contradiction Framed",
+      "Hamir Yamir Include",
+      "Multi-Halacha Principle",
+      "Sanctifier Add Fifth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of question-and-answer directly addressing the contradiction between the mincha case and the behema/temurah case \u2014 exactly what the 'Contradiction Framed' prose describes \u2014 whereas the current placement under 'Hamir Yamir Include' only fits items 3-5, and the passage as a whole is the working-out of that contradiction, not the resolution through the verse inclusion.",
+      "chosen_heading": "Contradiction Framed",
+      "current_heading": "Hamir Yamir Include",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Sanctifier Add Fifth",
+    "candidates": [
+      "Multi-Halacha Principle",
+      "Sanctifier Add Fifth",
+      "Atone-for Temurah",
+      "Heir Temurah Logic",
+      "Hybrid Status",
+      "Fixed-Identity Ripple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Abbahu citing Rabbi Yo\u1e25anan's tripartite ruling about hamakdish mosif chomesh, mitkapeir oseh temurah, and tovat hana'ah \u2014 the prose under 'Sanctifier Add Fifth' directly introduces this exact Talmudic statement and its context about who adds a fifth when redeeming a korban sanctified on another's behalf.",
+      "chosen_heading": "Sanctifier Add Fifth",
+      "current_heading": "Sanctifier Add Fifth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Fixed-Identity Ripple",
+    "candidates": [
+      "Atone-for Temurah",
+      "Heir Temurah Logic",
+      "Hybrid Status",
+      "Fixed-Identity Ripple",
+      "Non-Owner Temurah",
+      "Atone Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the exact distinction 'mikiva lo mechapra, mikufya mechapra' which is explicitly quoted and explained in candidate 2's prose about the hybrid status resolution, making it a clearly better match than candidate 3 which discusses the concrete meaning after the distinction is already established.",
+      "chosen_heading": "Hybrid Status",
+      "current_heading": "Fixed-Identity Ripple",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Atone Question",
+    "candidates": [
+      "Non-Owner Temurah",
+      "Atone Question",
+      "No Atonement Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma of whether a shelo lishmah korban achieved atonement, which is precisely what the 'Atone Question' prose describes as the new question the gemara introduces.",
+      "chosen_heading": "Atone Question",
+      "current_heading": "Atone Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "No Atonement Answer",
+    "candidates": [
+      "No Atonement Answer",
+      "Valid Start Logic",
+      "Finish Obligation",
+      "New Q Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rav Sheshet's dilemma, the gemara's counter-challenge, and Rav Ashi's clarification of Rav Sheshet's precise difficulty \u2014 which is exactly what the 'No Atonement Answer' prose describes in full.",
+      "chosen_heading": "No Atonement Answer",
+      "current_heading": "No Atonement Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "New Q Setup",
+    "candidates": [
+      "Valid Start Logic",
+      "Finish Obligation",
+      "New Q Setup",
+      "Chatas Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the dilemma about whether an olah atones for a positive mitzva violated after hafrashah, which is exactly what the 'New Q Setup' prose describes as the gemara's pivot to a new independent question about the temporal scope of an olah's atoning power.",
+      "chosen_heading": "New Q Setup",
+      "current_heading": "New Q Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Chatas Comparison",
+    "candidates": [
+      "Chatas Comparison",
+      "Olah Generic",
+      "Vesamach Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two sides of the chatas comparison debate \u2014 item 1 raises the analogy to chatas and item 2 raises the counter-argument distinguishing olah from chatas \u2014 which together constitute exactly the content described in the 'Chatas Comparison' prose, before the 'Olah Generic' section which only covers the opposing/distinguishing position.",
+      "chosen_heading": "Chatas Comparison",
+      "current_heading": "Chatas Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Vesamach Proof",
+    "candidates": [
+      "Olah Generic",
+      "Vesamach Proof",
+      "Part Works Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about vesamach venirtza that the 'Vesamach Proof' prose section directly quotes, explains, and analyzes in detail.",
+      "chosen_heading": "Vesamach Proof",
+      "current_heading": "Vesamach Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Part Works Read",
+    "candidates": [
+      "Part Works Read",
+      "Rava Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is asking whether the baraita's distinction maps onto pre- vs. post-hafrashah positive mitzvot, with semichah as the post-hafrashah example \u2014 exactly the 'Part Works Read' section's topic of the initial proposed split between atoning for pre-hafrashah aseh but not post-hafrashah semichah.",
+      "chosen_heading": "Part Works Read",
+      "current_heading": "Part Works Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rava Counter",
+    "candidates": [
+      "Rava Counter",
+      "C-Minus Read",
+      "Metzora Oil Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's argument that semichah is different because the asei violation only occurs after shechita, which is precisely what the prose under 'Rava Counter' describes.",
+      "chosen_heading": "Rava Counter",
+      "current_heading": "Rava Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Metzora Oil Case",
+    "candidates": [
+      "C-Minus Read",
+      "Metzora Oil Case",
+      "Akiva-Ben Nuri"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "C-Minus Read",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Huna bar Yehuda's proposal of 'kipper gavra / lo kipper kamai shemaya' \u2014 the C-minus reading \u2014 which is precisely what candidate 0 ('C-Minus Read') describes in its prose.",
+      "second_heading": "Metzora Oil Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the metzora oil mishna (Rabbi Akiva vs. Rabbi Yochanan ben Nuri) brought as a parallel proof, which is exactly what candidate 1 ('Metzora Oil Case') describes in its prose.",
+      "current_heading": "Metzora Oil Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Akiva-Ben Nuri",
+    "candidates": [
+      "Akiva-Ben Nuri",
+      "Second Goat Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of what 'ke-ilu lo kipper' means in the metzora context \u2014 the challenge-and-rejection sequence about whether the oil placement atoned for the person vs. before Heaven, and whether the split was between thumb/toe vs. head \u2014 which is precisely what the 'Akiva-Ben Nuri' prose describes as the gemara's analysis of the metzora parallel and its limitations.",
+      "chosen_heading": "Akiva-Ben Nuri",
+      "current_heading": "Akiva-Ben Nuri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Second Goat Tumah",
+    "candidates": [
+      "Second Goat Tumah",
+      "Post-Sep Implication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous baraita from Rabbi Shimon about the Shavuot goats \u2014 their purpose (tumah), the question about the second goat, and the principle that the Torah spared Israel from constant offerings \u2014 which is precisely what heading 0 ('Second Goat Tumah') describes in its prose.",
+      "chosen_heading": "Second Goat Tumah",
+      "current_heading": "Second Goat Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Post-Sep Implication",
+    "candidates": [
+      "Post-Sep Implication",
+      "Beit Din Retcon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical chain about whether the Shavuot goats prove that a korban atones for post-designation transgressions \u2014 exactly what the 'Post-Sep Implication' prose discusses, including the simultaneous vs. sequential designation question that items 2-3 address.",
+      "chosen_heading": "Post-Sep Implication",
+      "current_heading": "Post-Sep Implication",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Beit Din Retcon",
+    "candidates": [
+      "Beit Din Retcon",
+      "Shimon No Retcon",
+      "Temidim Redemption",
+      "Shimon Final"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Din Retcon",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Pappa's beit din stipulation argument and Rav Yosef's challenge to it, matching heading 0 ('Beit Din Retcon') and heading 1 ('Shimon No Retcon') respectively \u2014 but item 1 alone (Rav Pappa's ruling) belongs under heading 0, while item 2 (the challenge) opens the 'Shimon No Retcon' topic.",
+      "second_heading": "Temidim Redemption",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 together present the question about temidin and the answer distinguishing Rabbi Shimon from the Rabbis, which matches heading 1 ('Shimon No Retcon') for item 2 and heading 2 ('Temidim Redemption') for item 3 \u2014 but since items 2-3 form a continuous unit of the same dispute, they belong under heading 1 where the challenge begins, with item 3's content matching 'Temidim Redemption' (index 2).",
+      "current_heading": "Beit Din Retcon",
+      "moved": true
+    }
+  }
+]

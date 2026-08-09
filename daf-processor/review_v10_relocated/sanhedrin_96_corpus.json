@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Nebuchadnezzar at Dan",
+    "candidates": [
+      "Divine Razor",
+      "God as Old Man",
+      "Scissors Quest",
+      "Beard on Fire",
+      "Rav Papa's Saying",
+      "Recognition & Vow",
+      "Sons Kill Father",
+      "Angel Layla",
+      "Night Fights",
+      "Abraham at Dan",
+      "Nebuchadnezzar at Dan",
+      "Racer Parable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abraham at Dan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara text for the 'Abraham at Dan' section (Rabbi Yochanan explaining why Abraham's strength weakened at Dan due to future idol worship), which the prose of heading 9 describes exactly.",
+      "second_heading": "Nebuchadnezzar at Dan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbi Zeira transmission about the elder, jugular veins, and children of ignoramuses, which is precisely what heading 10's prose discusses as the content that follows the Nebuchadnezzar-at-Dan material.",
+      "current_heading": "Nebuchadnezzar at Dan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Racer Parable",
+    "candidates": [
+      "Racer Parable",
+      "Four Steps Reward",
+      "Patriarchs' Reward",
+      "Jeremiah Consoled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Jeremiah's complaint with the divine response from Jeremiah 12:5, and the parable of the man who claimed he could run three parasangs before horses \u2014 are explicitly quoted and paraphrased in the 'Racer Parable' prose, which is clearly the correct home for this passage.",
+      "chosen_heading": "Racer Parable",
+      "current_heading": "Racer Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Jeremiah Consoled",
+    "candidates": [
+      "Four Steps Reward",
+      "Patriarchs' Reward",
+      "Jeremiah Consoled",
+      "Baladan's Letter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'four paces' reward explanation AND the patriarchs comparison in one continuous Gemara unit, and candidate 0 ('Four Steps Reward') is where this full unit begins \u2014 the current placement under 'Jeremiah Consoled' splits the passage from its natural home where the four steps reward is introduced and explained.",
+      "chosen_heading": "Four Steps Reward",
+      "current_heading": "Jeremiah Consoled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Baladan's Letter",
+    "candidates": [
+      "Jeremiah Consoled",
+      "Baladan's Letter",
+      "Sun Clock Wonder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the four paces of Nebuchadnezzar, the letter from Merodach-Baladan, and the question of why Hezekiah's illness warranted such a diplomatic gesture, which exactly matches the 'Baladan's Letter' section's prose describing these same elements.",
+      "chosen_heading": "Baladan's Letter",
+      "current_heading": "Baladan's Letter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Sun Clock Wonder",
+    "candidates": [
+      "Sun Clock Wonder",
+      "Nebuchadnezzar Corrects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Hezekiah's illness and recovery, the sun returning ten degrees, and Merodach/Baladan sending greetings \u2014 all content explicitly discussed in the 'Sun Clock Wonder' section's prose.",
+      "chosen_heading": "Sun Clock Wonder",
+      "current_heading": "Sun Clock Wonder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Nebuchadnezzar Corrects",
+    "candidates": [
+      "Nebuchadnezzar Corrects",
+      "Four Steps Run",
+      "Gabriel Stops Him"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Nebuchadnezzar Corrects' prose discusses: Nebuchadnezzar as Baladan's scribe, his correction of the letter's order of greetings, and the scribes' response about the letter-reader being the messenger.",
+      "chosen_heading": "Nebuchadnezzar Corrects",
+      "current_heading": "Nebuchadnezzar Corrects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Gabriel Stops Him",
+    "candidates": [
+      "Four Steps Run",
+      "Gabriel Stops Him",
+      "Baladan's Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Gabriel stopping Nebuchadnezzar after four steps and Rabbi Yochanan's teaching about the remedy for Israel, which directly matches the 'Gabriel Stops Him' section's prose about Gabriel halting Nebuchadnezzar and the consequences for Israel.",
+      "chosen_heading": "Gabriel Stops Him",
+      "current_heading": "Gabriel Stops Him",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Baladan's Name",
+    "candidates": [
+      "Baladan's Name",
+      "Son Honors Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the meaning of 'Baladan ben Baladan' \u2014 Baladan's transformed face, his son honoring him by including his name \u2014 which is precisely what the 'Baladan's Name' section prose discusses.",
+      "chosen_heading": "Baladan's Name",
+      "current_heading": "Baladan's Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Son Honors Father",
+    "candidates": [
+      "Son Honors Father",
+      "Iron Hammers Fail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Nebuzaradan's honor of Nebuchadnezzar (the 'servant honors his master' theme), and the prose under heading 0 explicitly covers the same content: the verse about Nebuzaradan in Jerusalem, the question about Nebuchadnezzar's location, and the two resolutions involving the engraved image and intense fear/awe.",
+      "chosen_heading": "Son Honors Father",
+      "current_heading": "Son Honors Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Iron Hammers Fail",
+    "candidates": [
+      "Iron Hammers Fail",
+      "Heavenly Voice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the 300 iron axes failing against Jerusalem's gate and Nebuzaradan's fear of Sennacherib's fate, which matches exactly the 'Iron Hammers Fail' section's prose content, before the heavenly voice episode begins.",
+      "chosen_heading": "Iron Hammers Fail",
+      "current_heading": "Iron Hammers Fail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Heavenly Voice",
+    "candidates": [
+      "Heavenly Voice",
+      "Nebuzaradan Humbled",
+      "Zechariah's Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Nebuzaradan's breaching of the Temple gate via the heavenly voice and his subsequent burning of the Sanctuary \u2014 content explicitly covered in the 'Heavenly Voice' section's prose, which matches both the divine voice directing him and the trampling of the flames from heaven.",
+      "chosen_heading": "Heavenly Voice",
+      "current_heading": "Heavenly Voice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Zechariah's Blood",
+    "candidates": [
+      "Nebuzaradan Humbled",
+      "Zechariah's Blood",
+      "Nebuzaradan Repents",
+      "Wicked Descendants"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Zechariah's Blood",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 describe Nebuzaradan discovering Zechariah's boiling blood, being deceived, threatening, and killing 940,000 people \u2014 all content explicitly covered in the 'Zechariah's Blood' prose.",
+      "second_heading": "Nebuzaradan Repents",
+      "second_confidence": "high",
+      "second_reason": "Item 3 describes Nebuzaradan's contemplation of repentance and conversion, which is precisely what the 'Nebuzaradan Repents' prose discusses.",
+      "current_heading": "Zechariah's Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Wicked Descendants",
+    "candidates": [
+      "Nebuzaradan Repents",
+      "Wicked Descendants",
+      "Descendants Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's content (Naaman as ger toshav, Nebuzaradan as ger tzedek, plus descendants of Sisera/Sennacherib teaching Torah) is directly quoted and discussed in the 'Nebuzaradan Repents' prose, which explicitly mentions Na'aman, Nevuzaradan ger tzedek, and Shemayah and Avtalyon as part of its discussion.",
+      "chosen_heading": "Nebuzaradan Repents",
+      "current_heading": "Wicked Descendants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Descendants Rejected",
+    "candidates": [
+      "Wicked Descendants",
+      "Descendants Rejected",
+      "Bad Neighbors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the descendants of Haman studying Torah and Nebuchadnezzar's descendants being rejected from conversion, with the dispute about 'ripeinu es bavel,' which exactly matches the 'Descendants Rejected' section's prose.",
+      "chosen_heading": "Descendants Rejected",
+      "current_heading": "Descendants Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Bad Neighbors",
+    "candidates": [
+      "Bad Neighbors",
+      "Fear of Fate",
+      "Messages to Attack"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Ulla's statement about Ammon and Moab being bad neighbors and their message to Nebuchadnezzar to come conquer Jerusalem, which matches exactly the 'Bad Neighbors' section prose, ending before Nebuchadnezzar's fear response which belongs under 'Fear of Fate'.",
+      "chosen_heading": "Bad Neighbors",
+      "current_heading": "Bad Neighbors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Messages to Attack",
+    "candidates": [
+      "Fear of Fate",
+      "Messages to Attack",
+      "Winter & Mountains",
+      "Graves as Quarters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous exchange of messages between Ammon/Moab and Nebuchadnezzar quoting and interpreting verses from Proverbs to reassure him that God has departed and won't return, which is precisely what the 'Messages to Attack' prose describes in detail.",
+      "chosen_heading": "Messages to Attack",
+      "current_heading": "Messages to Attack",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Graves as Quarters",
+    "candidates": [
+      "Winter & Mountains",
+      "Graves as Quarters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the mountain peaks objection and the burial caves response, but the current placement under 'Graves as Quarters' is correct since the essay's 'Winter & Mountains' prose already covers the mountain peaks portion narratively, and this full Talmudic text (including the caves/graves proof-text) best matches the 'Graves as Quarters' section's detailed prose about cave-graves, quartering troops, and the Jeremiah proof-text.",
+      "chosen_heading": "Graves as Quarters",
+      "current_heading": "Graves as Quarters",
+      "moved": false
+    }
+  }
+]

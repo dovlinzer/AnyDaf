@@ -1,0 +1,243 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Permitted Oils",
+    "candidates": [
+      "Shemen Serefah",
+      "Rabbi Yishmael/Itran",
+      "Permitted Oils",
+      "Rabbi Tarfon",
+      "Kodshim Comparison",
+      "Pesach Notar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishna covers all topics from shemen sreyfah through Rabbi Tarfon as a single unit, but the section heading 'Shemen Serefah' is where the essay prose explicitly introduces this mishna's opening and its full content, making it the natural home for the entire passage.",
+      "chosen_heading": "Shemen Serefah",
+      "current_heading": "Permitted Oils",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Pesach Notar",
+    "candidates": [
+      "Rabbi Tarfon",
+      "Kodshim Comparison",
+      "Pesach Notar",
+      "Olas Shabbat",
+      "Food-Related Actions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses 'mai ta'ama' and the derivation from Chizkiyah's teaching about burning kodshim on yom tov, which is precisely what the 'Kodshim Comparison' section's prose introduces \u2014 it asks from where we know kodshim may not be burned on yom tov, and this Gemara passage provides that answer, while the current 'Pesach Notar' heading covers the elaboration and analysis that follows.",
+      "chosen_heading": "Kodshim Comparison",
+      "current_heading": "Pesach Notar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Food-Related Actions",
+    "candidates": [
+      "Olas Shabbat",
+      "Food-Related Actions",
+      "Shabbaton Override"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Olas Shabbat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's derivation from 'olas Shabbat beshabbato', which is precisely what heading 0 ('Olas Shabbat') discusses in its prose.",
+      "second_heading": "Food-Related Actions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's derivation from 'hu levado ye'aseh lachem' covering machshirin and milah shelo bizmano, which is exactly what heading 1 ('Food-Related Actions') discusses in detail.",
+      "current_heading": "Food-Related Actions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Shabbaton Override",
+    "candidates": [
+      "Shabbaton Override",
+      "Rav's Principle",
+      "Mishmeret Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Ashi's argument that 'shabbaton' constitutes a positive mitzva and that combined with the prohibition makes yom tov a lo ta'aseh v'asei that cannot be overridden, which is precisely what the 'Shabbaton Override' section's prose describes.",
+      "chosen_heading": "Shabbaton Override",
+      "current_heading": "Shabbaton Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Mishmeret Source",
+    "candidates": [
+      "Rav's Principle",
+      "Mishmeret Source",
+      "Ma'aser Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav's principle (the mitzva to burn terumah tme'ah and deriving benefit during its destruction) AND the mishmeret source in one continuous unit, but the prose of candidate 0 ('Rav's Principle') explicitly addresses the full content of this Gemara passage including the Rav Nachman derivation, while candidate 1's prose discusses the same material as commentary/analysis after the fact \u2014 the passage itself flows as a single unit that candidate 0's prose introduces and frames.",
+      "chosen_heading": "Rav's Principle",
+      "current_heading": "Mishmeret Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Ma'aser Contrast",
+    "candidates": [
+      "Mishmeret Source",
+      "Ma'aser Contrast",
+      "Terumah Less Weighty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the alternative derivation from Rabbi Abbahu/Rabbi Yochanan's reading of 'lo bi'arti mimenu be-tamei' and the Gemara's challenge about whether the contrast points to terumah or kodshim \u2014 exactly what the 'Ma'aser Contrast' section's prose describes.",
+      "chosen_heading": "Ma'aser Contrast",
+      "current_heading": "Ma'aser Contrast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Terumah Less Weighty",
+    "candidates": [
+      "Terumah Less Weighty",
+      "Exclusion Logic",
+      "Rava vs Abaye"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Terumah Less Weighty",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover the a fortiori inference, the 'mimenhu' exclusion, and the Panak Akas / Machpaz mnemonic debate about whether kodshim or terumah is more stringent \u2014 exactly what candidate 0's prose describes.",
+      "second_heading": "Exclusion Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 6 presents Rav Nachman bar Yitzchak's derivation from 'titen lo' / 'lo velo l'oro' establishing that terumah tme'ah is fit for burning, which is precisely what candidate 1's prose discusses.",
+      "current_heading": "Terumah Less Weighty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rava vs Abaye",
+    "candidates": [
+      "Exclusion Logic",
+      "Rava vs Abaye",
+      "Chovah vs Mitzvah",
+      "Rabbi Yehuda Example",
+      "Tzitzit Digression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's reason for Rabbi Yishmael's prohibition (bad smell causing one to leave), Abaye's challenge, and Rava's response about hadlakas ner being a chovah \u2014 exactly the content described in the 'Rava vs Abaye' section prose.",
+      "chosen_heading": "Rava vs Abaye",
+      "current_heading": "Rava vs Abaye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Tzitzit Digression",
+    "candidates": [
+      "Chovah vs Mitzvah",
+      "Rabbi Yehuda Example",
+      "Tzitzit Digression",
+      "Bracha Debate",
+      "Nishiti Tova"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the custom of Rabbi Yehuda bar Elai on Erev Shabbat, which is precisely what the 'Rabbi Yehuda Example' section's prose introduces \u2014 the tzitzit digression that follows is commentary on the same passage but belongs under heading 2, while this passage itself is the core narrative that heading 1 introduces.",
+      "chosen_heading": "Rabbi Yehuda Example",
+      "current_heading": "Tzitzit Digression",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Nishiti Tova",
+    "candidates": [
+      "Bracha Debate",
+      "Nishiti Tova",
+      "Who is Rich?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Lamentations 3:17 Gemara about vattiznach mishalom nafshi / nashiti tova, which is precisely what the 'Nishiti Tova' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Nishiti Tova",
+      "current_heading": "Nishiti Tova",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Who is Rich?",
+    "candidates": [
+      "Who is Rich?",
+      "Tzari Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the four tannaitic opinions on who is wealthy (Rabbi Meir, Tarfon, Akiva, and Yosei), which is precisely what the 'Who is Rich?' section's prose elaborates upon in detail.",
+      "chosen_heading": "Who is Rich?",
+      "current_heading": "Who is Rich?",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Mishnah: No Mixing",
+    "candidates": [
+      "Opening & Dedication",
+      "Previous Topics Review",
+      "Mishnah: No Mixing",
+      "Wine Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the opening lines of the Mishnah prohibiting mixing produce (even new with new, and certainly new with old), which is precisely what the 'Mishnah: No Mixing' prose describes.",
+      "chosen_heading": "Mishnah: No Mixing",
+      "current_heading": "Mishnah: No Mixing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Wine Exception",
+    "candidates": [
+      "Wine Exception",
+      "Wine Lees Rules",
+      "Diluted Wine Disclosure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the wine-mixing exception (strong with weak) and the lees rule in a single Mishnaic statement, and candidate 0 ('Wine Exception') introduces the mixing permission while candidate 1 covers only the lees portion \u2014 but since the entire quoted text is one unified Mishnaic passage, it fits best under its current placement which introduces the exception that encompasses the full statement.",
+      "chosen_heading": "Wine Exception",
+      "current_heading": "Wine Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Diluted Wine Disclosure",
+    "candidates": [
+      "Wine Lees Rules",
+      "Diluted Wine Disclosure",
+      "Middlemen Restriction",
+      "Standard Dilution Prac",
+      "Middleman Mixing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the complete Mishnah text about diluted wine disclosure, the merchant restriction, and the local custom exception \u2014 matching the current placement under 'Diluted Wine Disclosure' which quotes this exact Mishnah opening, while the subsequent headings cover only individual sub-topics of the same Mishnah.",
+      "chosen_heading": "Diluted Wine Disclosure",
+      "current_heading": "Diluted Wine Disclosure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Middleman Mixing",
+    "candidates": [
+      "Middlemen Restriction",
+      "Standard Dilution Prac",
+      "Middleman Mixing",
+      "Intentional Deception",
+      "Grain Price Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the merchant/wholesaler taking grain from five threshing floors and wine from five winepresses into one storage facility, which is precisely what the 'Middleman Mixing' section's prose discusses.",
+      "chosen_heading": "Middleman Mixing",
+      "current_heading": "Middleman Mixing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Grain Price Reversal",
+    "candidates": [
+      "Intentional Deception",
+      "Grain Price Reversal",
+      "Wine Pressing Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the 'Grain Price Reversal' prose, which covers the baraita about new/old grain pricing and then the wine exception with Rabbi Elazar's derivation about 'be-emet amru' \u2014 exactly matching the content of both items.",
+      "chosen_heading": "Grain Price Reversal",
+      "current_heading": "Grain Price Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Wine Pressing Times",
+    "candidates": [
+      "Wine Pressing Times",
+      "Modern Wine Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's statement about the pressing season (bein ha-gitot) being the context for permitted wine-mixing, which directly matches the 'Wine Pressing Times' section's prose about this very qualification.",
+      "chosen_heading": "Wine Pressing Times",
+      "current_heading": "Wine Pressing Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Modern Wine Practice",
+    "candidates": [
+      "Modern Wine Practice",
+      "Lees Mixing Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the modern practice of mixing wine outside pressing season and the opinions of Rav Pappa and Rabbi A\u1e25a, which is exactly what the 'Modern Wine Practice' prose section describes.",
+      "chosen_heading": "Modern Wine Practice",
+      "current_heading": "Modern Wine Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Lees Mixing Rules",
+    "candidates": [
+      "Lees Mixing Rules",
+      "Different Wine Days",
+      "Rava's Situation",
+      "Abaye's Objection",
+      "Rava's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's analysis of the lees-mixing prohibition and Rav Yehuda's clarification \u2014 the exact content described in candidate 0's prose about *ein me'arvin shmarim shel emesh be-shel yom* and what *noten lo et shmarav* means.",
+      "chosen_heading": "Lees Mixing Rules",
+      "current_heading": "Lees Mixing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rava's Defense",
+    "candidates": [
+      "Different Wine Days",
+      "Rava's Situation",
+      "Abaye's Objection",
+      "Rava's Defense",
+      "Dilution Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full narrative unit \u2014 Rava receiving wine, Abaye's objection, and Rava's defense \u2014 which all belongs under 'Rava's Situation' (index 1), the heading whose prose describes this entire episode, rather than being split across multiple headings.",
+      "chosen_heading": "Rava's Situation",
+      "current_heading": "Rava's Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Dilution Standards",
+    "candidates": [
+      "Rava's Defense",
+      "Dilution Standards",
+      "Pressing Time Rule",
+      "Gifts to Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses local customs for diluting wine with standard ratios (half, third, quarter) and Rav's note about the pressing season, which matches the 'Dilution Standards' prose that explicitly references these same ratios and local practice expectations.",
+      "chosen_heading": "Dilution Standards",
+      "current_heading": "Dilution Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Gifts to Children",
+    "candidates": [
+      "Pressing Time Rule",
+      "Gifts to Children",
+      "Sages Permit",
+      "Price Undercutting",
+      "Competition Benefits",
+      "Bean Sifting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself covering both the gifts-to-children ruling and the price-undercutting ruling, and it currently sits under 'Gifts to Children' whose prose directly introduces and discusses this exact Mishnaic text.",
+      "chosen_heading": "Gifts to Children",
+      "current_heading": "Gifts to Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Bean Sifting",
+    "candidates": [
+      "Sages Permit",
+      "Price Undercutting",
+      "Competition Benefits",
+      "Bean Sifting",
+      "Visible Quality",
+      "Display Deception",
+      "Beautification Ban",
+      "Treats Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 3 'Bean Sifting' discusses \u2014 Abba Shaul's prohibition on sifting ground beans, the Rabbis' permission, their concession about the bin opening deception, and the beautification ban \u2014 all of which are introduced in that section's prose.",
+      "chosen_heading": "Bean Sifting",
+      "current_heading": "Bean Sifting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Treats Logic",
+    "candidates": [
+      "Visible Quality",
+      "Display Deception",
+      "Beautification Ban",
+      "Treats Logic",
+      "Price Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's reasoning for the Rabbis' permission of treats for children (nuts vs. jujubes), which is precisely what the 'Treats Logic' section's prose describes.",
+      "chosen_heading": "Treats Logic",
+      "current_heading": "Treats Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Price Praise",
+    "candidates": [
+      "Price Praise",
+      "Beautification Examples",
+      "Mesharvitin Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Rabbis' praise for lowering market price and the identification of 'the Rabbis' in the Abba Shaul dispute as Rabbi Acha \u2014 are explicitly discussed in the 'Price Praise' prose, making it the clear and correct placement.",
+      "chosen_heading": "Price Praise",
+      "current_heading": "Price Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Mesharvitin Meaning",
+    "candidates": [
+      "Beautification Examples",
+      "Mesharvitin Meaning",
+      "Fringes Permitted",
+      "Garment Enhancement",
+      "Decorative Designs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the mishna about adorning persons/animals/vessels AND the baraita listing the three forbidden practices (mesharvitin, nofchin, shorin), plus the Gemara's brief inquiry into mesharvitin's meaning \u2014 all of which together map directly onto 'Beautification Examples' prose, which describes exactly these three forbidden practices and their context, whereas 'Mesharvitin Meaning' prose only discusses the definitional inquiry, not the full passage.",
+      "chosen_heading": "Beautification Examples",
+      "current_heading": "Mesharvitin Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Decorative Designs",
+    "candidates": [
+      "Fringes Permitted",
+      "Garment Enhancement",
+      "Decorative Designs",
+      "Old vs New",
+      "Old Slave Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the full sequence of Sages' permissions AND the resolution of the contradiction with the Mishnah (chadtei vs. atikei), which is precisely what heading 3 'Old vs New' discusses \u2014 the governing distinction that resolves the apparent conflict.",
+      "chosen_heading": "Old vs New",
+      "current_heading": "Decorative Designs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Old Slave Case",
+    "candidates": [
+      "Old vs New",
+      "Old Slave Case",
+      "Righteous Escape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the elderly slave dyeing his hair to appear young and approaching Rava to be purchased, which is precisely what the 'Old Slave Case' prose discusses.",
+      "chosen_heading": "Old Slave Case",
+      "current_heading": "Old Slave Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Righteous Escape",
+    "candidates": [
+      "Righteous Escape",
+      "End Ona'ah",
+      "Neshech & Tarbit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the events discussed in candidate 0's prose: the slave going to Rav Pappa bar Shmuel, the water-fetching incident, the revealed white hair, and Rav Pappa applying the verse about the righteous being delivered from trouble.",
+      "chosen_heading": "Righteous Escape",
+      "current_heading": "Righteous Escape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Neshech & Tarbit",
+    "candidates": [
+      "End Ona'ah",
+      "Neshech & Tarbit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Hadran formula marks the conclusion of chapter Ha-zahav, which is explicitly what the prose under 'End Ona'ah' describes \u2014 concluding Ha-zahav and the ona'ah discussion before transitioning to the next perek.",
+      "chosen_heading": "End Ona'ah",
+      "current_heading": "Neshech & Tarbit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Neshech & Tarbit",
+    "candidates": [
+      "Neshech & Tarbit",
+      "Neshech Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna that introduces and poses the question 'Which is neshekh and which is tarbit?' \u2014 matching the 'Neshech & Tarbit' section's prose about the two terms and their definitions, before the mishna answers with specific examples covered under 'Neshech Example'.",
+      "chosen_heading": "Neshech & Tarbit",
+      "current_heading": "Neshech & Tarbit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Neshech Example",
+    "candidates": [
+      "Neshech Example",
+      "Tarbit Example",
+      "Market Rate Sale",
+      "Price Rise Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah's definition of neshech with the sela/five-dinar and two se'ah/three se'ah examples, which is precisely what the 'Neshech Example' prose discusses.",
+      "chosen_heading": "Neshech Example",
+      "current_heading": "Neshech Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Price Rise Problem",
+    "candidates": [
+      "Tarbit Example",
+      "Market Rate Sale",
+      "Price Rise Problem",
+      "Single Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together describe the tarbit case where grain prices rise and the seller converts the grain obligation into a wine obligation he doesn't possess \u2014 exactly what the 'Price Rise Problem' prose discusses in detail, including the thirty-dinar valuation, the wine conversion, and the lack of wine in the seller's possession.",
+      "chosen_heading": "Price Rise Problem",
+      "current_heading": "Price Rise Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Single Category",
+    "candidates": [
+      "Single Category",
+      "Two Sides",
+      "Currency Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's inference that neshekh and tarbit are one matter on the Torah level (michlal de-Oraisa chada milsa hi), and then raises the challenge from the verses \u2014 both of which are precisely what the 'Single Category' prose describes and analyzes.",
+      "chosen_heading": "Single Category",
+      "current_heading": "Single Category",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Currency Example",
+    "candidates": [
+      "Two Sides",
+      "Currency Example",
+      "Value Perspective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara discussion of whether neshekh and tarbit can exist independently \u2014 the currency depreciation and appreciation hypotheticals with their resolutions \u2014 which is precisely what the 'Currency Example' heading's prose describes.",
+      "chosen_heading": "Currency Example",
+      "current_heading": "Currency Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Value Perspective",
+    "candidates": [
+      "Value Perspective",
+      "Explicit Mentions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's conclusion that neshech and tarbis always co-occur and the Torah distinguished them only to create two prohibitions, which is exactly what candidate 0's prose is discussing and directly quotes.",
+      "chosen_heading": "Value Perspective",
+      "current_heading": "Value Perspective",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Explicit Mentions",
+    "candidates": [
+      "Explicit Mentions",
+      "Derived Prohibitions",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in heading 0's prose \u2014 the Leviticus verse establishing neshech by money and ribit by food, and the question of where neshech by food is derived \u2014 which is precisely where it currently sits.",
+      "chosen_heading": "Explicit Mentions",
+      "current_heading": "Explicit Mentions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Final Conclusion",
+    "candidates": [
+      "Derived Prohibitions",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the hermeneutical move (im eino inyan) redirecting the redundant 'neshekh of money' to teach that ribbit/marbis applies to money as well, which is precisely what the 'Derived Prohibitions' prose section discusses.",
+      "chosen_heading": "Derived Prohibitions",
+      "current_heading": "Final Conclusion",
+      "moved": true
+    }
+  }
+]

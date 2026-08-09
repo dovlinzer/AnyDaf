@@ -1,0 +1,366 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Pesach Korban",
+    "candidates": [
+      "Perek Overview",
+      "Mvushal Prohibition",
+      "Tavshil Term",
+      "Maaseh Kederah",
+      "Method vs. Type",
+      "Stam Nedarim Rule",
+      "Oshaya Forbids",
+      "Pesach Korban",
+      "Rabi Akiva Eiger",
+      "Torah vs. Colloquial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the baraita text itself \u2014 'Tanya Rabi Yoshiya oser' with the allusion from Divrei HaYamim \u2014 which is precisely what the 'Oshaya Forbids' prose section (index 6) describes and introduces.",
+      "chosen_heading": "Oshaya Forbids",
+      "current_heading": "Pesach Korban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Torah vs. Colloquial",
+    "candidates": [
+      "Rabi Akiva Eiger",
+      "Torah vs. Colloquial",
+      "Everyone Agrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's initial suggestion that the dispute turns on whether nedarim follow lashon Torah or lashon bnei adam, which is exactly what the 'Torah vs. Colloquial' section's prose describes and analyzes.",
+      "chosen_heading": "Torah vs. Colloquial",
+      "current_heading": "Torah vs. Colloquial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Everyone Agrees",
+    "candidates": [
+      "Everyone Agrees",
+      "Regional Variation",
+      "Asmachta Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the 'No, everyone agrees' refutation and the locale explanation (mar ki atrei), which is precisely what section 0's prose describes, while section 1's prose covers the spelling-out of the regional specifics that follow later in the sugya.",
+      "chosen_heading": "Everyone Agrees",
+      "current_heading": "Everyone Agrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Asmachta Purpose",
+    "candidates": [
+      "Regional Variation",
+      "Asmachta Purpose",
+      "Bread Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage addresses why Rabbi Yoshiya's verse citation is only an asmachta because he himself disclaimed it as a full proof, which directly matches the 'Regional Variation' prose that explicitly discusses this same asmachta and Rabbi Oshaya's disclaimer ('af al pi she-ein raya l'davar, zecher l'davar').",
+      "chosen_heading": "Regional Variation",
+      "current_heading": "Asmachta Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Bread Definition",
+    "candidates": [
+      "Asmachta Purpose",
+      "Bread Definition",
+      "Hamotzi Implications",
+      "Tosefta View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's question 'ha mitavshil nadar' \u2014 why isn't all cooked food forbidden \u2014 which is precisely what the 'Bread Definition' section's prose describes as the gemara's opening challenge before Abbaye's answer.",
+      "chosen_heading": "Bread Definition",
+      "current_heading": "Bread Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Tosefta View",
+    "candidates": [
+      "Hamotzi Implications",
+      "Tosefta View",
+      "Rabbi Yirmiyah Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement explaining the Tosefta's broad definition of tavshil and quoting the baraita about one who vows against tavshil, which is precisely what the 'Tosefta View' prose describes \u2014 the contradiction from the Tosefta treating tavshil as a wide category including roasted meat and soft gourds eaten with bread by the sick.",
+      "chosen_heading": "Tosefta View",
+      "current_heading": "Tosefta View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Yirmiyah Story",
+    "candidates": [
+      "Rabbi Yirmiyah Story",
+      "Soft vs. Hard",
+      "Vegetable Pairings",
+      "Am Ha'aretz Warning",
+      "Warning Reasons",
+      "Rava's Statement",
+      "Shemoneh Esrei Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yirmiyah Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbi Yirmiyah story presenting the contradiction about gourds and sick people, which matches heading 0's prose exactly.",
+      "second_heading": "Soft vs. Hard",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the contradiction by distinguishing soft vs. hard gourds and introduces Rava bar Ulla's distinction and Rav Yehuda's pairing advice, which matches heading 1's prose about the soft/hard resolution.",
+      "current_heading": "Rabbi Yirmiyah Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Shemoneh Esrei Source",
+    "candidates": [
+      "Soft vs. Hard",
+      "Vegetable Pairings",
+      "Am Ha'aretz Warning",
+      "Warning Reasons",
+      "Rava's Statement",
+      "Shemoneh Esrei Source",
+      "Torah Study Weakness",
+      "Thick Exemption",
+      "Bread with Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present Rava's answer that 'the sick' in the baraita refers to the Sages (rabbanan), and item 2 is Rava's supporting proof from the Shemoneh Esrei prayer \u2014 this is the content described in candidate 4 ('Rava's Statement'), not the current placement which is a separate prose section discussing the prayer itself.",
+      "chosen_heading": "Rava's Statement",
+      "current_heading": "Shemoneh Esrei Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Bread with Bread",
+    "candidates": [
+      "Torah Study Weakness",
+      "Thick Exemption",
+      "Bread with Bread",
+      "Kederah on Bread",
+      "Grain Pairings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the mishna's ruling on thick cooked food and Rabbi Zeira's comment about Babylonians eating bread with bread, which is precisely what the 'Bread with Bread' section's prose discusses.",
+      "chosen_heading": "Bread with Bread",
+      "current_heading": "Bread with Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Grain Pairings",
+    "candidates": [
+      "Kederah on Bread",
+      "Grain Pairings",
+      "Rava's Method",
+      "Fingers & Taste"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's question about which grain pairing (wheat/barley porridge with wheat/barley bread) is preferable, which is precisely what the 'Grain Pairings' prose discusses in detail.",
+      "chosen_heading": "Grain Pairings",
+      "current_heading": "Grain Pairings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Fingers & Taste",
+    "candidates": [
+      "Rava's Method",
+      "Fingers & Taste",
+      "Travel Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both Rava eating with chasissei and Rav Huna eating porridge with his fingers, and candidate 1's prose explicitly discusses both the finger-eating anecdote and Rav's teaching about one, two, and three fingers, making it the correct home for this combined passage.",
+      "chosen_heading": "Fingers & Taste",
+      "current_heading": "Fingers & Taste",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Travel Advice",
+    "candidates": [
+      "Travel Advice",
+      "Spitting Rule",
+      "Fingers vs. Stick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the travel advice (porridge/ox meat distances) and the spitting rule, and the current placement under 'Travel Advice' already covers both teachings as they appear together in the Talmudic text \u2014 the essay splits them into separate sections but the quoted passage as a single unit belongs where it currently sits since it begins with the travel advice content that heading 0 addresses.",
+      "chosen_heading": "Travel Advice",
+      "current_heading": "Travel Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Fingers vs. Stick",
+    "candidates": [
+      "Spitting Rule",
+      "Fingers vs. Stick",
+      "Figs Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yosei and Rabbi Yehuda eating porridge with fingers vs. a fork/stick and their exchange about contamination, which matches exactly the content described in the 'Fingers vs. Stick' prose section.",
+      "chosen_heading": "Fingers vs. Stick",
+      "current_heading": "Fingers vs. Stick",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Figs Story",
+    "candidates": [
+      "Figs Story",
+      "Rutabagas Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda and Rabbi Shimon eating belospayin (figs), exactly matching the 'Figs Story' prose which discusses this same incident in detail.",
+      "chosen_heading": "Figs Story",
+      "current_heading": "Figs Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rutabagas Story",
+    "candidates": [
+      "Rutabagas Story",
+      "Wine Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda eating beets (tardin) without salt before Rabbi Tarfon, which is exactly what the 'Rutabagas Story' prose discusses in detail.",
+      "chosen_heading": "Rutabagas Story",
+      "current_heading": "Rutabagas Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Wine Limits",
+    "candidates": [
+      "Wine Limits",
+      "Tzeduki Insult",
+      "Latrine Visits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the matron's accusation of drunkenness and Rabbi Yehuda's response about limiting wine to kiddush, havdalah, and the four cups of Passover, which matches exactly the 'Wine Limits' section's prose discussion of this incident.",
+      "chosen_heading": "Wine Limits",
+      "current_heading": "Wine Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Latrine Visits",
+    "candidates": [
+      "Tzeduki Insult",
+      "Latrine Visits",
+      "Kiddush Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full exchange \u2014 the heretic's insult AND Rabbi Yehuda's reply about bathrooms \u2014 and the prose under 'Tzeduki Insult' (index 0) covers both parts of this exchange including the bathroom explanation, making it the single best home for the entire passage.",
+      "chosen_heading": "Tzeduki Insult",
+      "current_heading": "Latrine Visits",
+      "moved": true
+    }
+  }
+]

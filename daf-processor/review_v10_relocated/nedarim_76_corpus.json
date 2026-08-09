@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Whole Day Principle",
+    "candidates": [
+      "Whole Day Principle",
+      "Friday Night Case",
+      "Tannaim Debate",
+      "Verse Reconciliation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Whole Day Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishna presenting the 'whole day' principle and the Shabbat illustration, matching perfectly the prose of headings 0 and 1 which discuss exactly that content \u2014 but since both items together form the Mishna unit, they belong under heading 0 ('Whole Day Principle') which introduces the foundational rule and notes the leniency/strictness, with the Friday night case being an illustration within it; however the Friday night case prose is more specifically under heading 1.",
+      "second_heading": "Tannaim Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara baraita recording the Tannaim dispute (kol hayom vs. me'et le'et) and the derivation from 'b'yom shom'o', which matches exactly the prose of heading 2 ('Tannaim Debate').",
+      "current_heading": "Whole Day Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Verse Reconciliation",
+    "candidates": [
+      "Friday Night Case",
+      "Tannaim Debate",
+      "Verse Reconciliation",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's verse reconciliation \u2014 asking why each side needs the verse it appears to discard \u2014 which is precisely what the 'Verse Reconciliation' prose describes.",
+      "chosen_heading": "Verse Reconciliation",
+      "current_heading": "Verse Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Final Ruling",
+    "candidates": [
+      "Final Ruling",
+      "Shabbat Overview",
+      "Beis Din Nature",
+      "Hafara Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the ruling against 'that pair' and the anecdotes about \u1e24iyya bar Rav and Rabba bar Rav Huna \u2014 are explicitly discussed together in the 'Final Ruling' prose, which covers exactly this content including the Ran/Rosh explanation for why the anecdotes appear here.",
+      "chosen_heading": "Final Ruling",
+      "current_heading": "Final Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Hafara Permitted",
+    "candidates": [
+      "Shabbat Overview",
+      "Beis Din Nature",
+      "Hafara Permitted",
+      "One-Minute Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct quotation of the mishnah and the initial dilemma raised about it (nullifying vows on Shabbat for Shabbat purposes or even not), which matches the 'Shabbat Overview' prose that introduces and frames exactly this mishnah and its two forms of vow dissolution.",
+      "chosen_heading": "Shabbat Overview",
+      "current_heading": "Hafara Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "One-Minute Case",
+    "candidates": [
+      "Hafara Permitted",
+      "One-Minute Case",
+      "Tannaim Dependency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's refutation of the baraita from Rav Zuti/Rav Pappi's school using the 'one minute before nightfall' case from the mishnah, which is precisely what the 'One-Minute Case' prose describes.",
+      "chosen_heading": "One-Minute Case",
+      "current_heading": "One-Minute Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Tannaim Dependency",
+    "candidates": [
+      "Tannaim Dependency",
+      "Negligence Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Tannaim dispute (kol hayom vs. me'et le'et) and its direct consequence for nullification on Shabbat with or without a Shabbat purpose, which is exactly what the 'Tannaim Dependency' prose describes.",
+      "chosen_heading": "Tannaim Dependency",
+      "current_heading": "Tannaim Dependency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Negligence Question",
+    "candidates": [
+      "Negligence Question",
+      "Negligence Permitted",
+      "One Expert Rule",
+      "Appearance Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the question (dilemma about having had opportunity) AND the resolution (the rabbis attended to Rav Zutra's son even when he had time beforehand), and candidate 1's prose explicitly describes this resolution and precedent, making it the best single home for the complete passage.",
+      "chosen_heading": "Negligence Permitted",
+      "current_heading": "Negligence Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Appearance Concern",
+    "candidates": [
+      "Negligence Permitted",
+      "One Expert Rule",
+      "Appearance Concern",
+      "Abaye Refutes",
+      "Non-Formal Features",
+      "Conceptual Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's proposal distinguishing between a yachid mumcheh (permitted) and three hedyotos (not permitted) on Shabbat, which is precisely what the 'One Expert Rule' section's prose describes as its topic.",
+      "chosen_heading": "One Expert Rule",
+      "current_heading": "Appearance Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Conceptual Status",
+    "candidates": [
+      "Abaye Refutes",
+      "Non-Formal Features",
+      "Conceptual Status",
+      "Rav's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct statement rejecting Rav Yosef's position, which exactly matches heading 0 ('Abaye Refutes') \u2014 the prose there describes Abaye arguing that hataras nedarim cannot look like a beis din at all, precisely what this Gemara text says.",
+      "chosen_heading": "Abaye Refutes",
+      "current_heading": "Conceptual Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Rav's Silence",
+    "candidates": [
+      "Conceptual Status",
+      "Rav's Silence",
+      "Standing Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe exactly the tradition attributed to Rav via Rav Huna and Rav Abba about nighttime hatara, the Gemara's correction of the ruling, and Rav Huna's ambiguous silence \u2014 all of which are precisely what the 'Rav's Silence' prose section discusses.",
+      "chosen_heading": "Rav's Silence",
+      "current_heading": "Rav's Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Standing Example",
+    "candidates": [
+      "Standing Example",
+      "Nachman Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe Rav attending to Rabba's vow dissolution in the kitona, standing, alone, and at night \u2014 precisely the incident that candidate 0's prose discusses in detail.",
+      "chosen_heading": "Standing Example",
+      "current_heading": "Standing Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Nachman Ruling",
+    "candidates": [
+      "Nachman Ruling",
+      "Rambam View",
+      "Gamliel Example",
+      "Opening Method",
+      "Simple Regret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's ruling in the name of Rav Nachman consolidating the halacha about the permissibility of standing, alone, at night, on Shabbat, and by relatives \u2014 exactly what the 'Nachman Ruling' prose describes.",
+      "chosen_heading": "Nachman Ruling",
+      "current_heading": "Nachman Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Simple Regret",
+    "candidates": [
+      "Rambam View",
+      "Gamliel Example",
+      "Opening Method",
+      "Simple Regret",
+      "Rashba Distinction",
+      "Ran Critique",
+      "Prayer Needed",
+      "Sinner Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabban Gamliel dismounting, wrapping himself, sitting, and dissolving a vow \u2014 precisely the baraita challenge and its explanation that heading 'Gamliel Example' introduces.",
+      "chosen_heading": "Gamliel Example",
+      "current_heading": "Simple Regret",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Sinner Status",
+    "candidates": [
+      "Rashba Distinction",
+      "Ran Critique",
+      "Prayer Needed",
+      "Sinner Status",
+      "Cease Making Vows",
+      "Qiyyum vs Hafara",
+      "Implicit Qiyyum",
+      "Formal Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the specific case of Rav Huna bar Avin's son having his neder dissolved and being told to pray for forgiveness, which is exactly what the 'Prayer Needed' section's prose discusses, while the current placement under 'Sinner Status' covers the subsequent baraita of Rav Dimi \u2014 the passage includes both, but its opening narrative matches 'Prayer Needed' as the starting point of this textual unit.",
+      "chosen_heading": "Prayer Needed",
+      "current_heading": "Sinner Status",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,621 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Manna Comparison",
+    "candidates": [
+      "Three Sources",
+      "Three Approaches",
+      "Rambam & Disengagement",
+      "Manna Comparison",
+      "Divine Affliction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the gezeira shava from the school of Rabbi Yishmael comparing inuy on Yom Kippur to inuy by the mahn, which is precisely what the 'Manna Comparison' section's prose describes.",
+      "chosen_heading": "Manna Comparison",
+      "current_heading": "Manna Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Divine Affliction",
+    "candidates": [
+      "Divine Affliction",
+      "Community Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Divine Affliction' prose, which explicitly discusses the same Gemara exchange about deriving from Lavan's verse and the response distinguishing communal from individual inuy.",
+      "chosen_heading": "Divine Affliction",
+      "current_heading": "Divine Affliction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Community Focus",
+    "candidates": [
+      "Community Focus",
+      "Private vs. Public",
+      "Manna Discussion",
+      "No Storage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the rejection of the Egyptian affliction as a valid source for derivation and concludes with the principle that Heaven-decreed inuy must be derived from Heaven-decreed inuy, which is precisely what the 'Community Focus' section's prose describes and explains.",
+      "chosen_heading": "Community Focus",
+      "current_heading": "Community Focus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "No Storage",
+    "candidates": [
+      "Private vs. Public",
+      "Manna Discussion",
+      "No Storage",
+      "Visual Deprivation",
+      "Blind Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both opinions of Rabbi Ami and Rabbi Asi about the affliction of manna, and the current placement under 'No Storage' covers the first opinion (bread in basket), while the second opinion (seeing vs. not seeing) is then handled under 'Visual Deprivation' \u2014 but since the Talmudic text presents both opinions as a single unit, it belongs under the section that introduces the debate, which is 'No Storage' (index 2), the current placement where the Gemara's question and both answers are first presented together.",
+      "chosen_heading": "No Storage",
+      "current_heading": "No Storage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Blind Eating",
+    "candidates": [
+      "Visual Deprivation",
+      "Blind Eating",
+      "Day Eating",
+      "Vision > Appetite",
+      "Wine & Sex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all four statements (Rav Yosef on blind people, Abaye on daytime eating, Rabbi Zeira on the verse, Reish Lakish on vision of a woman) and the current placement under 'Blind Eating' is the first of these statements, but looking at the candidate prose sections, each subsequent heading (1, 2, 3) covers one statement each \u2014 however, since the passage contains ALL four statements as a single unit, the current placement under index 1 ('Blind Eating') is where this block begins, and the prose there explicitly discusses Rav Yosef's statement about blind people which opens the passage, making it the best single heading for the whole unit.",
+      "chosen_heading": "Blind Eating",
+      "current_heading": "Blind Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Wine & Sex",
+    "candidates": [
+      "Day Eating",
+      "Vision > Appetite",
+      "Wine & Sex",
+      "Theft Justification",
+      "Anguish Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Rabbi Ami/Rabbi Asi dispute over Proverbs 23:31 \u2014 one interpretation linking wine to sexual license (arayos) and one to general permissiveness \u2014 which is precisely what the 'Wine & Sex' section prose describes.",
+      "chosen_heading": "Wine & Sex",
+      "current_heading": "Wine & Sex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Anguish Response",
+    "candidates": [
+      "Theft Justification",
+      "Anguish Response",
+      "Serpent Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the verse about anguish (de'agah belev ish) and the dispute between Rabbi Ami and Rabbi Asi about suppressing versus sharing one's concerns, which is precisely what the 'Anguish Response' section's prose describes.",
+      "chosen_heading": "Anguish Response",
+      "current_heading": "Anguish Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Serpent Curse",
+    "candidates": [
+      "Serpent Curse",
+      "God's Mercy",
+      "Blessings Hidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the serpent's curse regarding dust as food, which is precisely what the 'Serpent Curse' section's prose elaborates on, including the same two opinions from Rabbi Ami and Rabbi Asi about taste and satisfaction.",
+      "chosen_heading": "Serpent Curse",
+      "current_heading": "Serpent Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Blessings Hidden",
+    "candidates": [
+      "God's Mercy",
+      "Blessings Hidden",
+      "Fish vs. Sex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yosei's baraita about God's mercy embedded within curses, which is exactly what heading 0 ('God's Mercy') describes in its prose \u2014 the current placement under 'Blessings Hidden' (index 1) is the enumeration section, but the introductory framing of the baraita and all four examples belong under the heading whose prose explicitly introduces Rabbi Yosei's statement and the contrast between God's ways and flesh and blood.",
+      "chosen_heading": "God's Mercy",
+      "current_heading": "Blessings Hidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Fish vs. Sex",
+    "candidates": [
+      "Blessings Hidden",
+      "Fish vs. Sex",
+      "Free Provision",
+      "Noahide Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Rav/Shmuel dispute about 'dagah' meaning fish vs. forbidden relations, with the textual challenges and resolutions in each direction \u2014 exactly the content described in the 'Fish vs. Sex' prose, including the lishon ma'alya euphemism and the chinam/nochal explanations.",
+      "chosen_heading": "Fish vs. Sex",
+      "current_heading": "Fish vs. Sex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Noahide Laws",
+    "candidates": [
+      "Free Provision",
+      "Noahide Laws",
+      "New Restrictions",
+      "Multiple Complaints",
+      "Taste Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Noahide Laws",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the 'gan na'ul' verse and the Noahide laws argument, which is precisely what the 'Noahide Laws' prose section discusses.",
+      "second_heading": "New Restrictions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses 'bocheh lemishpechotav' and the new restrictions imposed by Torah law, which is precisely what the 'New Restrictions' prose section discusses.",
+      "current_heading": "Noahide Laws",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Taste Only",
+    "candidates": [
+      "New Restrictions",
+      "Multiple Complaints",
+      "Taste Only",
+      "Texture Missing",
+      "Texture Role",
+      "Round & White"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Ami and Rabbi Asi's opinions together \u2014 one about missing taste and one about missing texture \u2014 and the current placement under 'Taste Only' introduces both positions, making it the correct home for the full quoted text.",
+      "chosen_heading": "Taste Only",
+      "current_heading": "Taste Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Round & White",
+    "candidates": [
+      "Texture Missing",
+      "Texture Role",
+      "Round & White",
+      "Flax & Story",
+      "Secret Telling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the physical description of manna as round like coriander and white like a pearl, which is exactly what the 'Round & White' section's prose addresses, including Rabbi Asi's resolution and the baraita about flax seeds on stalks.",
+      "chosen_heading": "Round & White",
+      "current_heading": "Round & White",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Secret Telling",
+    "candidates": [
+      "Flax & Story",
+      "Secret Telling",
+      "Sin Whitening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'Others say' haggadah comparison AND the paternity-telling baraita, and the prose under 'Flax & Story' (heading 0) explicitly discusses both of these elements together, making it the clear home for this combined passage.",
+      "chosen_heading": "Flax & Story",
+      "current_heading": "Secret Telling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Sin Whitening",
+    "candidates": [
+      "Secret Telling",
+      "Sin Whitening",
+      "Prophet Function",
+      "Slave Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains that 'lavan' (white) whitened Israel's sins, which is precisely what the 'Sin Whitening' section's prose discusses.",
+      "chosen_heading": "Sin Whitening",
+      "current_heading": "Sin Whitening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Slave Case",
+    "candidates": [
+      "Prophet Function",
+      "Slave Case",
+      "Divorce Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita text covers both the prophet-function introduction AND the slave case illustration as one continuous unit, and candidate 0's prose explicitly introduces this baraita and its prophet-manna comparison, making it the natural home for the full passage; however, since the passage contains both the framing (candidate 0) and the slave case content (candidate 1), and candidate 1's prose describes exactly what the passage illustrates, the current placement under 'Slave Case' is also defensible \u2014 but candidate 0 is the better match as it introduces the baraita itself.",
+      "chosen_heading": "Prophet Function",
+      "current_heading": "Slave Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Divorce Case",
+    "candidates": [
+      "Slave Case",
+      "Divorce Case",
+      "Distance Proportional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes a husband and wife coming before Moses for judgment about who sinned against whom, with the omer's location determining the verdict \u2014 exactly the divorce case discussed in candidate 1's prose.",
+      "chosen_heading": "Divorce Case",
+      "current_heading": "Divorce Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Distance Proportional",
+    "candidates": [
+      "Distance Proportional",
+      "Forms by Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about where the manna fell (at their doorstep, out of camp, or scattered far) based on spiritual standing, which perfectly matches the 'Distance Proportional' section's prose about distance as a public announcement of spiritual standing.",
+      "chosen_heading": "Distance Proportional",
+      "current_heading": "Distance Proportional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Forms by Merit",
+    "candidates": [
+      "Forms by Merit",
+      "Spices & Perfume"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three forms of manna (bread, cakes, grinding) calibrated to the moral standing of righteous, average, and wicked people, which is precisely what the 'Forms by Merit' prose describes.",
+      "chosen_heading": "Forms by Merit",
+      "current_heading": "Forms by Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Spices & Perfume",
+    "candidates": [
+      "Spices & Perfume",
+      "Pot Seasonings",
+      "Cloud Jewels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the mortar/perfumes teaching and the pot/spices teaching together, and candidate 0's prose discusses both elements as a unified topic (items ground in mortars and spices falling with the manna), making it the best single home for the complete passage.",
+      "chosen_heading": "Spices & Perfume",
+      "current_heading": "Spices & Perfume",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Cloud Jewels",
+    "candidates": [
+      "Pot Seasonings",
+      "Cloud Jewels",
+      "Breast Milk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses precious stones and pearls falling with the manna, and the nesi'im/clouds connection, which exactly matches the 'Cloud Jewels' section prose.",
+      "chosen_heading": "Cloud Jewels",
+      "current_heading": "Cloud Jewels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Breast Milk",
+    "candidates": [
+      "Breast Milk",
+      "Color Change",
+      "Meat & Bread",
+      "Improper Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the breast-milk interpretation by Rabbi Abbahu and the demon alternative reading, and the current heading 'Breast Milk' with its prose directly discusses both interpretations in sequence, making it the best match.",
+      "chosen_heading": "Breast Milk",
+      "current_heading": "Breast Milk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Improper Meat",
+    "candidates": [
+      "Color Change",
+      "Meat & Bread",
+      "Improper Meat",
+      "Meal Timing",
+      "Chicken Behavior",
+      "Regular Times",
+      "Teeth Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Improper Meat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the teaching of Rabbi Yehoshua ben Korcha about meat asked for improperly vs. bread asked for properly, which matches heading 2 'Improper Meat' exactly.",
+      "second_heading": "Meal Timing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the Torah's lesson on meal timing (eating meat at night), Abaye's challenge, the resolution about eating in a well-lit setting, and Rabbi A\u1e25a bar Ya'akov's chicken analogy \u2014 all of which map to heading 3 'Meal Timing' and its discussion of derech eretz for eating times.",
+      "current_heading": "Improper Meat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Teeth Question",
+    "candidates": [
+      "Meal Timing",
+      "Chicken Behavior",
+      "Regular Times",
+      "Teeth Question",
+      "Deserving Death",
+      "Shechita Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the contradiction between dying immediately while meat was between their teeth versus suffering for a full month, which is exactly what the 'Teeth Question' prose discusses with the same resolution about beinonim and reshaim.",
+      "chosen_heading": "Teeth Question",
+      "current_heading": "Teeth Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Shechita Source",
+    "candidates": [
+      "Deserving Death",
+      "Shechita Source",
+      "Taste by Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact discussion described in the 'Shechita Source' prose: Rabbi Yehoshua ben Korcha's al tikrei deriving shechita on fowl, Rabbi's objection citing the Psalms verse, and the baraita where Rabbi Yehuda HaNasi derives shechita laws from 'vezavachta ka'asher tziviticha' and reinterprets shatuach as layers \u2014 all matching the current placement perfectly.",
+      "chosen_heading": "Shechita Source",
+      "current_heading": "Shechita Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Taste by Age",
+    "candidates": [
+      "Taste by Age",
+      "Tranquility vs. Thorns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the manna tasting like bread/oil/honey for different age groups, which is precisely what the 'Taste by Age' prose section describes.",
+      "chosen_heading": "Taste by Age",
+      "current_heading": "Taste by Age",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Tranquility vs. Thorns",
+    "candidates": [
+      "Tranquility vs. Thorns",
+      "Quail Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rabbi \u1e24anina's interpretation of the dual reading of *slav*/*shlav* as representing peace for the righteous versus thorns for the wicked, which matches exactly the prose under 'Tranquility vs. Thorns'.",
+      "chosen_heading": "Tranquility vs. Thorns",
+      "current_heading": "Tranquility vs. Thorns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Quail Types",
+    "candidates": [
+      "Quail Types",
+      "Yehuda's Barrels",
+      "Chisda's Chips",
+      "Sharecropper Gift",
+      "Death & Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the four types of quail and the richness of even the lowest-grade slav, which is exactly what the 'Quail Types' section prose describes.",
+      "chosen_heading": "Quail Types",
+      "current_heading": "Quail Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "Death & Blessing",
+    "candidates": [
+      "Yehuda's Barrels",
+      "Chisda's Chips",
+      "Sharecropper Gift",
+      "Death & Blessing",
+      "Fasting & Eating",
+      "Complaint Despite",
+      "Eating Significance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three anecdotes together \u2014 Rav Yehuda's barrels, Rav \u1e24isda's wood chips, and Rava's sharecropper including the death episode \u2014 and the 'Sharecropper Gift' heading (index 2) is the only one whose prose explicitly covers Rava's sharecropper bringing quail daily AND the implicit connection to his teacher's merit, which frames the entire unit including the death conclusion; the passage as a whole is a single continuous narrative that belongs under one heading, and index 2 best captures its full scope.",
+      "chosen_heading": "Sharecropper Gift",
+      "current_heading": "Death & Blessing",
+      "moved": true
+    }
+  }
+]

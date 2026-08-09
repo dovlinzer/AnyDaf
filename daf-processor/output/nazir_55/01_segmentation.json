@@ -77,8 +77,8 @@
           "timestamp": "17:54"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "A Complex Case: Nazir Who Is Safek Tamei Meit and Safek Muchlat Metzora",
@@ -111,8 +111,8 @@
           "timestamp": "27:12"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Proof That Yemei Gamro and Yemei Sipro Fundamentally Do Not Count: The Baraita's Derivation",
@@ -145,7 +145,7 @@
           "timestamp": "44:02"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 10,
       "matched": false
     }
   ],
@@ -587,5 +587,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "11:02",
+  "amud_b_micro_title": "Hair Growth Logic",
+  "shiur_start_daf": 55,
+  "shiur_start_amud": "a"
 }

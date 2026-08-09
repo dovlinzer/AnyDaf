@@ -1,0 +1,162 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav's Rope Test",
+    "candidates": [
+      "Rav's Rope Test",
+      "Yoke Bending Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav's rope-climbing criterion for defining which trees are excluded from a field sale, which exactly matches the prose under heading 0 ('Rav's Rope Test').",
+      "chosen_heading": "Rav's Rope Test",
+      "current_heading": "Rav's Rope Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Yoke Bending Test",
+    "candidates": [
+      "Yoke Bending Test",
+      "No Dispute",
+      "Exclude One \u2192 Sell Rest?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the dayanei Gola's yoke-bending criterion AND the resolution that they do not disagree (velo pligi), and candidate 1 ('No Dispute') explicitly discusses both the resolution and the distinction by species, making it the best match for the complete passage which culminates in the reconciliation of the two positions.",
+      "chosen_heading": "No Dispute",
+      "current_heading": "Yoke Bending Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Exclude One \u2192 Sell Rest?",
+    "candidates": [
+      "No Dispute",
+      "Exclude One \u2192 Sell Rest?",
+      "Rav Sheshet: No",
+      "Braita Ambiguity",
+      "Field Analogy",
+      "Half-Tree Question",
+      "Half-Tree Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain (dilemma, objection, resolution, alternative version) about the 'except for such-and-such carob tree' question, which is precisely what candidate 1 ('Exclude One \u2192 Sell Rest?') introduces \u2014 the current placement matches the passage's content perfectly.",
+      "chosen_heading": "Exclude One \u2192 Sell Rest?",
+      "current_heading": "Exclude One \u2192 Sell Rest?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Half-Tree Answer",
+    "candidates": [
+      "Rav Sheshet: No",
+      "Braita Ambiguity",
+      "Field Analogy",
+      "Half-Tree Question",
+      "Half-Tree Answer",
+      "Deposit Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the half-tree objection (chutz mi-chatzi charuv) and Rav Sheshet's response to it, which matches the 'Half-Tree Question' prose describing exactly this scenario \u2014 the ambiguity about whether excluding half a carob tree implicitly conveys the remaining half, and Rav Sheshet's answer \u2014 rather than the 'Half-Tree Answer' section which describes the conclusion as already settled.",
+      "chosen_heading": "Half-Tree Question",
+      "current_heading": "Half-Tree Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Deposit Claim",
+    "candidates": [
+      "Half-Tree Answer",
+      "Deposit Claim",
+      "Rav Chisda: Migo",
+      "Oath Requirement",
+      "Iska Mechanics",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the continuous back-and-forth between Rav Amram and Rav \u1e24isda about the migo argument for the bailee's claim of 'I returned it,' which is precisely what candidate 2 ('Rav Chisda: Migo') describes \u2014 the pressing back on the shtar-in-hand objection and Rav \u1e24isda's ne'ensu parallel response \u2014 rather than candidate 1 which covers the initial setup of the deposit case.",
+      "chosen_heading": "Rav Chisda: Migo",
+      "current_heading": "Deposit Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Rav Chisda: Migo",
+      "Oath Requirement",
+      "Iska Mechanics",
+      "Tannaim Debate",
+      "Orphan Exception",
+      "Father's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita dispute between dayanei Gola and dayanei Eretz Yisrael regarding the shtar kis against orphans, which is precisely what the 'Tannaim Debate' section's prose describes.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Father's Silence",
+    "candidates": [
+      "Orphan Exception",
+      "Father's Silence",
+      "Halakha: Half Collection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the gemara's rejection of the 'shtar bi'idi' mapping and the reframing of the dispute around whether the father's silence proves non-repayment vs. the Angel of Death preventing disclosure \u2014 which is precisely what the 'Orphan Exception' prose describes: everyone accepts Rav Chisda, and the dispute is specific to orphans.",
+      "chosen_heading": "Orphan Exception",
+      "current_heading": "Father's Silence",
+      "moved": true
+    }
+  }
+]

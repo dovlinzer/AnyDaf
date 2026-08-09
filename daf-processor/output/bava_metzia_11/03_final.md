@@ -1,13 +1,9 @@
-# Bava Metzia 11 — Daf Yomi Shiur
-[DAF:11a]
-
+[DAF:10b]
 ## Chatzer: Shliach or Yad?
 
-### Arba Amos & Chatzer
 
-> **Hebrew/Aramaic:** וְאָמַר רֵישׁ לָקִישׁ מִשּׁוּם אַבָּא כֹּהֵן בַּרְדְּלָא: קְטַנָּה אֵין לָהּ חָצֵר, וְאֵין לָהּ אַרְבַּע אַמּוֹת. וְרַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יַנַּאי אָמַר: יֵשׁ לָהּ חָצֵר, וְיֵשׁ לָהּ אַרְבַּע אַמּוֹת.
->
-> **Translation:** **And Reish Lakish says** another *halakha* **in the name of Abba Kohen Bardela: A minor girl does not have** the ability to acquire property by means of her **courtyard, and she does not have** the ability to acquire property by means of her **four** square **cubits. And Rabbi Yoḥanan says in the name of Rabbi Yannai** that **she has** the ability to acquire property by means of her **courtyard, and she has** the ability to acquire property by means of her **four** square **cubits.**
+
+### Arba Amos & Chatzer
 
 We pick up at the bottom of 10b, in the middle of a discussion that began with the rabbinic *kinyan* of *arba amos* — the rule that an object within one's four *amos*, within one's personal space, is acquired. The Gemara had noted that this *kinyan* is conceptually a type of *chatzer*. That observation, however, opened a broader inquiry: what exactly is the nature of *chatzer*? Why does *kinyan chatzer* work at all?
 
@@ -15,35 +11,36 @@ The question initially arose in the context of a minor girl: if one can place a 
 
 ### Yad vs. Shliach
 
-> **Hebrew/Aramaic:** בְּמַאי קָמִיפַּלְגִי? מָר סָבַר חָצֵר מִשּׁוּם יָדָהּ אִיתְרַבַּאי, כִּי הֵיכִי דְּאִית לַהּ יָד – חָצֵר נָמֵי אִית לַהּ. וּמָר סָבַר חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבַּאי, וְכִי הֵיכִי דִּשְׁלִיחוּת לֵית לַהּ – חָצֵר נָמֵי לֵית לַהּ.
->
-> **Translation:** The Gemara asks: **With regard to what do they disagree?** The Gemara explains: One **Sage,** Rabbi Yannai, **holds** that placing an item in **a courtyard is included** as a valid means of acquisition **due to** the fact that it acts as **her hand. Just as** a minor girl **has** the ability to acquire property with her **hand, she also has** the ability to acquire property by means of her **courtyard. And** one **Sage,** Abba Kohen Bardela, **holds** that placing an item in **a courtyard is included** as a valid means of acquisition **due to** the option of acquiring property via **agency; and just as** a minor girl **has no** power of **agency,** as a minor cannot appoint an agent, **she does not have** the ability to acquire property by means of her **courtyard either.**
-
 The Gemara frames the question as follows: is *chatzer* understood as an extension of the person — a *yad*, literally a "hand" — such that placing something on one's property is tantamount to placing it on one's person? Or is *chatzer* understood as acting in one's behalf, a kind of anthropomorphic agency, holding and possessing objects as one's representative? This second conception is the framework of *shlichus*.
 
 Each understanding carries different implications. If *chatzer* is a *yad*, then it naturally applies to minors, just as their physical hand does. If it is a *shliach*, however, additional complications arise.
 
 ### Ein Shaliach Aveirah
 
-> **Hebrew/Aramaic:** מִי אִיכָּא מַאן דְּאָמַר חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבַּאי? וְהָתַנְיָא: ״בְּיָדוֹ״ – אֵין לִי אֶלָּא יָדוֹ. גַּגּוֹ, חֲצֵירוֹ וְקַרְפֵּיפוֹ מִנַּיִן – תַּלְמוּד לוֹמַר: ״הִמָּצֵא תִמָּצֵא״, מִכׇּל מָקוֹם.
->
-> **Translation:** The Gemara asks: **Is there anyone who says** that **a courtyard is included** as a valid means of acquisition **due to** the option of acquiring property via **agency? But isn't it taught** in a *baraita*: The verse states: "If the theft shall be found in his possession alive, whether it is an ox, or a donkey, or a sheep, he shall pay double" (Exodus 22:3)" From the term **"in his possession [*beyado*]," I have** derived **only** a case where the stolen item is found in **his hand [*yado*]. From where** do I derive that the same *halakha* applies if it is found on **his roof,** in **his yard, or** in **his enclosure? The verse states** the repetitive phrase **"if** the theft **shall be found [*himmatze timmatze*],"** to indicate that the same *halakha* applies **in any case,** i.e., in any location that the stolen item is found.
-
-> **Hebrew/Aramaic:** וְאִי סָלְקָא דַעְתָּךְ חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבַּאי, אִם כֵּן מָצִינוּ שָׁלִיחַ לִדְבַר עֲבֵירָה, וְקַיְימָא לַן אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה!
->
-> **Translation:** The Gemara explains: **And if it enters your mind** that **a courtyard is included** as a valid means of acquisition **due to agency, if so, we have found** a case where there is **agency for a transgression,** i.e., theft. **But we maintain** that **there is no agency for transgression.** If one sends an agent to violate a transgression on his behalf, the agent is liable for the transgression and is not considered to be acting on behalf of the one who sent him.
-
 One such complication emerges immediately. If *chatzer* functions as a *shliach*, then what happens when an object that was stolen walks into your yard and you close the gate with the intention of taking it? The principle of *ein shaliach l'dvar aveirah* — that there is no agency for a sinful act — would seem to undermine the entire mechanism: the *chatzer* is apparently acting as your agent to commit theft.
 
-### Two Reasons Explained
+> **Hebrew/Aramaic:** וְאִי סָלְקָא דַעְתָּךְ חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבַּאי, אִם כֵּן מָצִינוּ שָׁלִיחַ לִדְבַר עֲבֵירָה, וְקַיְימָא לַן אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה!
+> **Translation:** The Gemara explains: **And if it enters your mind** that **a courtyard is included** as a valid means of acquisition **due to agency, if so, we have found** a case where there is **agency for a transgression,** i.e., theft. **But we maintain** that **there is no agency for transgression.** If one sends an agent to violate a transgression on his behalf, the agent is liable for the transgression and is not considered to be acting on behalf of the one who sent him.
 
-> **Hebrew/Aramaic:** אָמַר רָבִינָא: הֵיכָא אָמְרִינַן דְּאֵין שָׁלִיחַ לִדְבַר עֲבֵירָה – הֵיכָא דְּשָׁלִיחַ בַּר חִיּוּבָא הוּא, אֲבָל בְּחָצֵר דְּלָאו בַּר חִיּוּבָא הוּא – מִיחַיַּיב שׁוֹלְחוֹ.
->
+> **Hebrew/Aramaic:** אָמַר רָבִינָא: הֵיכָא אָמְרִינַן דְּאֵין שָׁלִיחַ לִדְבַר עֲבֵירָה – הֵיכָא דְּשָׁלִיחַ בַּר חִיּוּבָא הוּא, אֲבָל בְּחָצֵר דְּלָאו בַּר חִיּוּבָא הוּא – מִיחַיַּיב שׁוֹלְחוֹ.
 > **Translation:** **Ravina said:** That *baraita* poses no problem, as **where do we say that there is no agency for transgression?** It is **where** the **agent** himself **is subject to liability** for transgression. Consequently, the agent is liable, not the one who sent him. **But in** the case of **a courtyard, which is not subject to liability, its sender,** i.e., its owner, **is liable.**
 
-> **Hebrew/Aramaic:** רַב סַמָּא אָמַר: הֵיכָא אָמְרִינַן אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה – הֵיכָא דְּאִי בָּעֵי עָבֵיד וְאִי בָּעֵי לָא עָבֵיד, אֲבָל חָצֵר דִּבְעַל כׇּרְחֵיהּ מוֹתֵיב בַּהּ, מִיחַיַּיב שׁוֹלְחוֹ.
->
+> **Hebrew/Aramaic:** אֶלָּא מֵעַתָּה, הָאוֹמֵר לְאִשָּׁה וְעֶבֶד: ״צְאוּ גִּנְבוּ לִי״ – דְּלָאו בְּנֵי חִיּוּבָא נִינְהוּ, הָכִי נָמֵי דְּמִיחַיַּיב שׁוֹלְחָן?!
+> **Translation:** The Gemara asks: **If that is so,** then in a case of **one who says to a woman or a slave: Go out and steal for me, is the one who sent them indeed liable, since they are not subject to liability?** Married women and slaves have no property of their own from which one could collect payment.
+
+> **Hebrew/Aramaic:** אָמְרַתְּ אִשָּׁה וְעֶבֶד – בְּנֵי חִיּוּבָא נִינְהוּ, וְהַשְׁתָּא מִיהָא לֵית לְהוּ לְשַׁלּוֹמֵי. דִּתְנַן: נִתְגָּרְשָׁה הָאִשָּׁה, נִשְׁתַּחְרֵר הָעֶבֶד – חַיָּיבִין לְשַׁלֵּם.
+> **Translation:** The Gemara answers: **You can say** in response: **A woman and a slave** are not comparable to a courtyard, as **they are subject to liability** if they steal; **and** only **now, in any event, they do not have** the means **to pay.** This is **as we learned** in a mishna (*Bava Kamma* 87a) concerning a married woman or Canaanite slave who injured another person: If **the woman becomes divorced** or **the slave becomes emancipated,** and they then have their own money, **they are liable to pay** for the damage they inflicted. Evidently, although it is not possible to collect payment from them, they are liable for their actions.
+
+> **Hebrew/Aramaic:** רַב סַמָּא אָמַר: הֵיכָא אָמְרִינַן אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה – הֵיכָא דְּאִי בָּעֵי עָבֵיד וְאִי בָּעֵי לָא עָבֵיד, אֲבָל חָצֵר דִּבְעַל כֻּרְחֵיהּ מוֹתֵיב בַּהּ, מִיחַיַּיב שׁוֹלְחוֹ.
 > **Translation:** **Rav Samma stated** a different resolution to the difficulty based on the *baraita*: **Where do we say** that **there is no agency for transgression?** It is specifically in a case **where if** the agent **wants** to execute his assignment **he can do** so, **and if he wants** to refrain from executing it **he can** also opt to **not do** it. **But** in the case of **a courtyard, where** one **places** items **without its consent, its sender,** i.e., its owner, **is liable.**
+
+> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ כֹּהֵן דְּאָמַר לֵיהּ לְיִשְׂרָאֵל: צֵא וְקַדֵּשׁ לִי אִשָּׁה גְּרוּשָׁה, אִי נָמֵי אִישׁ דְּאָמַר לַהּ לְאִשָּׁה: אַקִּפִי לִי קָטָן.
+> **Translation:** The Gemara asks: **What is** the practical difference **between** the answers of Ravina and Rav Samma? The practical difference **between them** is in the case of **a priest who said to an Israelite: Go out and betroth a divorced woman for me.** It is prohibited for a priest to betroth a divorcée, while it is permitted for an Israelite to do so. **Alternatively,** the difference is in the case of **a man who said to a woman: Round** the corners of the head of **a minor boy for me.** Rounding the corners of a man’s head, and a man having the corners of his head rounded, are prohibited in the verse: “You shall not round the corners of your head” (Leviticus 19:27), but they are prohibited only for men and not for women.
+
+> **Hebrew/Aramaic:** לְהָךְ לִישָּׁנָא דְּאָמַר כֹּל הֵיכָא דְּאִי בָּעֵי עָבֵיד אִי בָּעֵי לָא עָבֵיד – לָא מִיחַיַּיב שׁוֹלְחוֹ. הָנֵי נָמֵי אִי בָּעֵי עָבֵיד, אִי בָּעֵי לָא עָבֵיד – לָא מִיחַיַּיב שׁוֹלְחָן. לְהָךְ לִישָּׁנָא דְּאָמְרַתְּ כֹּל הֵיכָא דְּשָׁלִיחַ לָאו בַּר חִיּוּבָא מִיחַיַּיב שׁוֹלְחוֹ, הָנֵי נָמֵי כֵּיוָן דְּלָאו בְּנֵי חִיּוּבָא נִינְהוּ – מִיחַיַּיב שׁוּלְחָן.
+> **Translation:** The Gemara explains: **According to the formulation in which** it was **said** that **anywhere that if** the agent **wants** to execute his assignment **he can do** so and **if he wants** to refrain from executing it **he can** opt to **not do** it **the one who sent him is not liable** for the transgression but rather the agent is liable, in **these** cases **too,** since **if** the agent **wants** to execute his assignment **he can do** so, and **if he wants** to refrain from executing it **he can** opt to **not do** it, **the one who sent them is not liable.** But **according to the formulation in which** it was **said** that **wherever an agent is not subject to liability the one who sent him is liable,** in **these** cases **too, since** the agents **are not subject to liability, the one who sent them is liable.**
+
+### Two Reasons Explained
 
 The Gemara offers two distinct responses to this challenge, each corresponding to a different understanding of why *ein shaliach l'dvar aveirah* applies in the first place.
 
@@ -57,13 +54,13 @@ These two rationales — the absence of obligation, and the absence of choice �
 
 ## Choice vs. Obligation
 
+
+
 ### Mai Beinaihu
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ כֹּהֵן דְּאָמַר לֵיהּ לְיִשְׂרָאֵל: צֵא וְקַדֵּשׁ לִי אִשָּׁה גְּרוּשָׁה, אִי נָמֵי אִישׁ דְּאָמַר לַהּ לְאִשָּׁה: אַקִּפִי לִי קָטָן.
->
-> **Translation:** The Gemara asks: **What is** the practical difference **between** the answers of Ravina and Rav Samma? The practical difference **between them** is in the case of **a priest who said to an Israelite: Go out and betroth a divorced woman for me.** It is prohibited for a priest to betroth a divorcée, while it is permitted for an Israelite to do so. **Alternatively,** the difference is in the case of **a man who said to a woman: Round** the corners of the head of **a minor boy for me.** Rounding the corners of a man's head, and a man having the corners of his head rounded, are prohibited in the verse: "You shall not round the corners of your head" (Leviticus 19:27), but they are prohibited only for men and not for women.
-
 The Gemara asks: *mai beinaihu* — what is the practical difference between the two reasons? Whether *ein shaliach l'dvar aveirah* is grounded in the *shaliach*'s being obligated and having violated his own duty, or whether it is grounded in the *shaliach*'s having exercised free choice — what *nafka mina* follows from this distinction?
+
+### Kohen & Grusha
 
 The Gemara's first case: a *kohen* says to a non-*kohen*, "go and betroth a divorced woman for me." The *shaliach* here is not prohibited from marrying a *grusha* — he is neither a *kohen* nor bound by that prohibition — but he may nonetheless run afoul of *lifnei iver lo titen michshol* by facilitating the *kohen*'s transgression. The question is: under which theory of *ein shaliach l'dvar aveirah* would the *kohen* bear liability?
 
@@ -79,15 +76,14 @@ This question about the extent of *yesh shaliach l'dvar aveirah* sharpens the is
 
 ### Resolving Mai Beinaihu
 
-> **Hebrew/Aramaic:** לְהָךְ לִישָּׁנָא דְּאָמַר כֹּל הֵיכָא דְּאִי בָּעֵי עָבֵיד אִי בָּעֵי לָא עָבֵיד – לָא מִיחַיַּיב שׁוֹלְחוֹ. הָנֵי נָמֵי אִי בָּעֵי עָבֵיד, אִי בָּעֵי לָא עָבֵיד – לָא מִיחַיַּיב שׁוֹלְחָן. לְהָךְ לִישָּׁנָא דְּאָמְרַתְּ כֹּל הֵיכָא דְּשָׁלִיחַ לָאו בַּר חִיּוּבָא מִיחַיַּיב שׁוֹלְחוֹ, הָנֵי נָמֵי כֵּיוָן דְּלָאו בְּנֵי חִיּוּבָא נִינְהוּ – מִיחַיַּיב שׁוּלְחָן.
->
-> **Translation:** The Gemara explains: **According to the formulation in which** it was **said** that **anywhere that if** the agent **wants** to execute his assignment **he can do** so and **if he wants** to refrain from executing it **he can** opt to **not do** it **the one who sent him is not liable** for the transgression but rather the agent is liable, in **these** cases **too,** since **if** the agent **wants** to execute his assignment **he can do** so, and **if he wants** to refrain from executing it **he can** opt to **not do** it, **the one who sent them is not liable.** But **according to the formulation in which** it was **said** that **wherever an agent is not subject to liability the one who sent him is liable,** in **these** cases **too, since** the agents **are not subject to liability, the one who sent them is liable.**
-
 The Gemara resolves the *mai beinaihu* as follows. According to the position that *ein shaliach l'dvar aveirah* is rooted in free choice — *kol hacha d'baei avid u'baei lo avid* — then even in the *payos* case, since the woman had a free choice whether to carry out the instruction or not, it is she who bears responsibility, not the man. The fact that she herself faced no prohibition is irrelevant: she could have refused, and therefore the act is entirely attributed to her as an independent agent. The man who instructed her is not liable.
+
+This logic raises a further question at the margins. If the doctrine of *ein shaliach l'dvar aveirah* rests entirely on the *shaliach*'s free choice, then the analysis would presumably shift in a case of genuine duress — where the agent had no real ability to refuse. If a man held under coercive threat has no meaningful choice, the foundational reason to attribute the act to him rather than to the sender weakens considerably, and one might ask how far *yesh shaliach l'dvar aveirah* would operate in such a case.
 
 According to the alternative position — that *ein shaliach l'dvar aveirah* applies specifically because the *shaliach* is a *bar chiyuva* who violated his own prohibition — then if the *shaliach* is *not* a *bar chiyuva*, the entire obstacle falls away. *Shlichus* operates normally. The woman, being under no prohibition, is a fully valid *shliach*, and the man who sent her is liable.
 
 ### Tosafot Question
+
 
 Tosafot raises a further question that takes this discussion to a practical level. When we say *ein shaliach l'dvar aveirah*, does this mean only that the sender bears no *liability*, while the *shlichus* itself remains legally valid? Or does it mean that the *shlichus* is entirely *batel* — annulled — such that any legal transaction attempted through such agency is void?
 
@@ -99,31 +95,32 @@ There remains a residual difficulty worth flagging. Even according to the view t
 
 ## Chatzer for Minors
 
+
+
 ### Baraita Get
 
-> **Hebrew/Aramaic:** וּמִי אִיכָּא לְמַאן דְּאָמַר חָצֵר לָאו מִשּׁוּם יָדָהּ אִיתְרַבַּאי? וְהָתַנְיָא: ״יָדָהּ״, אֵין לִי אֶלָּא יָדָהּ. גַּגָּהּ, חֲצֵירָהּ וְקַרְפֵּיפָהּ מִנַּיִן? תַּלְמוּד לוֹמַר: ״וְנָתַן״ מִכׇּל מָקוֹם!
->
-> **Translation:** The Gemara asks about the explanation of the opinion of Abba Kohen Bardela: **But is there anyone who says** that placing an item in **a courtyard is not included** as a valid means of acquisition **due to** the fact that it acts as **her hand? But isn't it taught** in a *baraita*: From the verse: "And he writes her a scroll of severance, and he gives it **in her hand"** (Deuteronomy 24:1), **I have** derived **only** that a woman is divorced if her husband places the bill of divorce in **her hand. From where** is it derived that even if he places it on **her roof,** in **her courtyard, or in her enclosure,** she is divorced? **The verse states: "And he gives,"** indicating that she is divorced **in any case.** Apparently one's courtyard is considered an extension of his hand with regard to acquiring property, in this case, the bill of divorce.
+> **Hebrew/Aramaic:** וּמִי אִיכָּא לְמַאן דְּאָמַר חָצֵר לָאו מִשּׁוּם יָדָהּ אִיתְרַבַּאי? וְהָתַנְיָא: ״יָדָהּ״, אֵין לִי אֶלָּא יָדָהּ. גַּגָּהּ, חֲצֵירָהּ וְקַרְפֵּיפָהּ מִנַּיִן? תַּלְמוּד לוֹמַר: ״וְנָתַן״ מִכׇּל מָקוֹם!
+> **Translation:** The Gemara asks about the explanation of the opinion of Abba Kohen Bardela: **But is there anyone who says** that placing an item in **a courtyard is not included** as a valid means of acquisition **due to** the fact that it acts as **her hand? But isn’t it taught** in a *baraita*: From the verse: “And he writes her a scroll of severance, and he gives it **in her hand”** (Deuteronomy 24:1), **I have** derived **only** that a woman is divorced if her husband places the bill of divorce in **her hand. From where** is it derived that even if he places it on **her roof,** in **her courtyard, or in her enclosure,** she is divorced? **The verse states: “And he gives,”** indicating that she is divorced **in any case.** Apparently one’s courtyard is considered an extension of his hand with regard to acquiring property, in this case, the bill of divorce.
 
 The Gemara returns to the question of *chatzer* for a minor girl. A *baraita* on the laws of *get* provides the key textual anchor. The Torah says *ve'nasan b'yadah* — he shall place the *get* in her hand. The *baraita* asks: the verse says only her *yad* — how do I know that the *get* can also be delivered via her roof (*gag*), her *chatzer*, or her enclosed yard (*karpif*)? The answer is derived from the formulation of the verb: *talmud lomar ve'nasan mikol makom*, indicating that any placement, even indirectly, satisfies the requirement. Rashi explains that the unusual word order — verb before object — extends the meaning beyond the literal hand. The conceptual point the Gemara draws from this *baraita* is that *chatzer* in the context of *get* is understood as an extension of the *yad*, as the derivation itself is rooted in the term *yad*.
 
 Tosafot adds a further observation: since the *baraita* also permits delivering a *get* to a *ketana* — a minor girl — and the same *pasuk* establishes that her *chatzer* serves as her *yad*, it follows that *chatzer* for a *ketana* is definitively grounded in the concept of *yad*, not *shliach*.
 
+[DAF:11a]
 ### All Agree: Get
-
-> **Hebrew/Aramaic:** לְעִנְיַן גֵּט כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּחָצֵר מִשּׁוּם יָדָהּ אִיתְרַבַּאי, כִּי פְּלִיגִי לְעִנְיַן מְצִיאָה. מָר סָבַר: יָלְפִינַן מְצִיאָה מִגֵּט, וּמָר סָבַר: לָא יָלְפִינַן מְצִיאָה מִגֵּט.
->
-> **Translation:** The Gemara answers: **With regard to a bill of divorce everyone agrees that** placing an item in **a courtyard is included** as a valid means of acquisition **due to** the fact that it acts as **her hand. When they disagree,** it is **with regard to** acquiring **a found item** that was discovered in her courtyard. One **Sage,** Rabbi Yannai, **holds** that **we derive** the *halakha* with regard to **a found item from** the *halakha* with regard to **a bill of divorce, and** one **Sage,** Abba Kohen Bardela, **holds** that **we do not derive** the *halakha* with regard to **a found item from** the *halakha* with regard to **a bill of divorce.**
 
 The Gemara states clearly: *le'inyan get, kuli alma lo pligi de'chatzer mishum yad itrabai*. On the question of *get*, there is no dispute. Everyone agrees that *chatzer* functions as a *yad* — that is the foundation of the entire mechanism. The debate that follows pertains to other domains.
 
+> **Hebrew/Aramaic:** לְעִנְיַן גֵּט כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּחָצֵר מִשּׁוּם יָדָהּ אִיתְרַבַּאי, כִּי פְּלִיגִי לְעִנְיַן מְצִיאָה. מָר סָבַר:
+> **Translation:** The Gemara answers: **With regard to a bill of divorce everyone agrees that** placing an item in **a courtyard is included** as a valid means of acquisition **due to** the fact that it acts as **her hand. When they disagree,** it is **with regard to** acquiring **a found item** that was discovered in her courtyard. One **Sage,** Rabbi Yannai, **holds** that
+
+> **Hebrew/Aramaic:** יָלְפִינַן מְצִיאָה מִגֵּט, וּמָר סָבַר: לָא יָלְפִינַן מְצִיאָה מִגֵּט.
+> **Translation:** **we derive** the *halakha* with regard to acquiring **a found item from** the *halakha* with regard to **a bill of divorce, and** one **Sage,** Abba Kohen Bardela, **holds** that **we do not derive** the *halakha* with regard to **a found item from** the *halakha* with regard to **a bill of divorce.**
+
 ### Get vs. Metziah
 
-When it comes to *metziah* — found objects — the positions diverge. One opinion holds that we derive *metziah* from *get*: just as *chatzer* operates as a *yad* for the *get*, so too does it operate as a *yad* across all areas of *kinyan*, including the acquisition of *metziah*. A *ketana* whose *chatzer* contains a found object would therefore acquire it by *kinyan chatzer*, functioning as an extension of her person.
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: בִּקְטַנָּה כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּיָלְפִינַן מְצִיאָה מִגֵּט. וְהָכָא בְּקָטָן קָא מִיפַּלְגִי, מָר סָבַר: יָלְפִינַן קָטָן מִקְּטַנָּה. וּמָר סָבַר: לָא יָלְפִינַן קָטָן מִקְּטַנָּה.
->
-> **Translation:** **And if you wish, say** instead that **with regard to a minor girl, everyone agrees** that **we derive** the *halakha* with regard to **a found item from** the *halakha* with regard to **a bill of divorce,** and she acquires an ownerless item that is found in her courtyard. **And here they disagree with regard to** whether **a minor boy** acquires an item that is placed in his courtyard. One **Sage,** Rabbi Yannai, **holds** that **we derive** the *halakha* with regard to **a minor boy from** the *halakha* with regard to **a minor girl,** as there should be no difference between them with regard to the *halakhot* of acquisition. **And** one **Sage,** Abba Kohen Bardela, **holds** that **we do not derive** the *halakha* with regard to **a minor boy from** the *halakha* with regard to **a minor girl;** only a minor girl acquires items by means of her courtyard, as the Torah includes this mode of acquisition with regard to acquiring a bill of divorce.
+When it comes to *metziah* — found objects — the positions diverge. One opinion holds that we derive *metziah* from *get*: just as *chatzer* operates as a *yad* for the *get*, so too does it operate as a *yad* across all areas of *kinyan*, including the acquisition of *metziah*. A *ketana* whose *chatzer* contains a found object would therefore acquire it by *kinyan chatzer*, functioning as an extension of her person.
 
 ### Only for Get
 
@@ -135,19 +132,28 @@ The first position maintains that once the Torah has established the principle t
 
 ### Katan Question
 
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: בִּקְטַנָּה כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּיָלְפִינַן מְצִיאָה מִגֵּט. וְהָכָא בְּקָטָן קָא מִיפַּלְגִי,
+> **Translation:** **And if you wish, say** instead that **with regard to a minor girl, everyone agrees** that **we derive** the *halakha* with regard to **a found item from** the *halakha* with regard to **a bill of divorce,** and she acquires an ownerless item that is found in her courtyard. **And here they disagree with regard to** whether **a minor boy** acquires an item that is placed in his courtyard.
+
+> **Hebrew/Aramaic:** מָר סָבַר: יָלְפִינַן קָטָן מִקְּטַנָּה. וּמָר סָבַר: לָא יָלְפִינַן קָטָן מִקְּטַנָּה.
+> **Translation:** One **Sage,** Rabbi Yannai, **holds** that **we derive** the *halakha* with regard to **a minor boy from** the *halakha* with regard to **a minor girl,** as there should be no difference between them with regard to the *halakhot* of acquisition. **And** one **Sage,** Abba Kohen Bardela, **holds** that **we do not derive** the *halakha* with regard to **a minor boy from** the *halakha* with regard to **a minor girl;** only a minor girl acquires items by means of her courtyard, as the Torah includes this mode of acquisition with regard to acquiring a bill of divorce.
+
 This leads to a further question: what about a *katan* — a minor boy? Boys are not subject to the *get* framework, so the *pasuk* about *yad* in the context of divorce does not apply to them. Does *chatzer* function as a *yad* for a *katan* in the domain of *metziah*? One opinion holds that we derive *katan* from *ketana*: just as a girl's *chatzer* is her *yad*, so too is a boy's. The opposing opinion holds that no such derivation can be made — it applies only to women and girls, where the *get* framework grounded the concept.
 
 ### Reconciliation
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: מָר אֲמַר חֲדָא, וּמָר אֲמַר חֲדָא וְלָא פְּלִיגִי.
->
-> **Translation:** **And if you wish, say** instead that there is no dispute here at all. Rather, one **Sage,** Abba Kohen Bardela, **said one** statement, that a minor girl is divorced by her husband placing a bill of divorce in her courtyard, **and** one **Sage,** Rabbi Yannai, **said another** statement, that a minor boy or girl does not acquire an item that is found in his or her courtyard; **and they do not disagree.**
-
 The Gemara then suggests a possible reconciliation: *ve'iba'it eima, mar mar chada u'mar chada velo pligi* — perhaps the two views are not actually in conflict. The one who says *chatzer* works as *yad* may be referring to a *ketana*, while the one who says it does not may be referring to a *katan*. Alternatively, one may be speaking of *get* and the other of *metziah*, without any true disagreement between them.
+
+This reconciliation is, however, deeply strange. Once the Torah is *mechadesh* — introduces as a novel principle — that *chatzer* can operate as a *yad* under certain circumstances, one would expect that principle to carry across all domains. If *chatzer* functions as *yad* for a woman in the context of *get*, and for a *ketana*, then logic would seem to demand that it function as *yad* for everyone — at minimum for an adult man, for whom no additional derivation should be necessary. Distinguishing between *get* and *metziah* is equally surprising: a *chiddush* regarding *katan* is at least understandable, given that minors occupy a special legal status, but why would the very same concept of *yad* apply in one domain and not another? The only way to make sense of that distinction, as the Gemara will go on to explain, is to press harder on what *yad* actually means in each context — a question taken up in the analysis that follows.
+
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: מָר אֲמַר חֲדָא, וּמָר אֲמַר חֲדָא וְלָא פְּלִיגִי.
+> **Translation:** **And if you wish, say** instead that there is no dispute here at all. Rather, one **Sage,** Abba Kohen Bardela, **said one** statement, that a minor girl is divorced by her husband placing a bill of divorce in her courtyard, **and** one **Sage,** Rabbi Yannai, **said another** statement, that a minor boy or girl does not acquire an item that is found in his or her courtyard; **and they do not disagree.**
 
 ---
 
 ## Implications & Transition
+
+
 
 ### Get vs. Kinyan
 
@@ -157,17 +163,19 @@ This line of analysis also illuminates the unresolved tension in the earlier dis
 
 ### Open Questions
 
+
 Several questions remain unresolved as the Gemara transitions to the next *mishna*. First, the general conceptual question: in the domain of *kinyanim*, is *chatzer* a *yad* or a *shliach*? Second, what are the practical *nafka minos* of that distinction — and the next *mishna* will itself provide some answers. Third, the Gemara has not directly addressed the case of transferring ownership *to* a minor — placing an object in a *katan*'s or *ketana*'s *chatzer* for the purpose of their acquiring it. As Tosafot notes, a *katan* generally cannot acquire *metziah* at a biblical level, only rabbinically, because there is no *da'at* directing the object to him. The Gemara's discussion focused on *metziah*, where the absence of *da'at* is precisely the problem. If, by contrast, one were actively placing an object in a minor's *chatzer* with the intention of transferring it — providing the necessary *da'at acheret* — then presumably the *chatzer* should operate even for a *katan* or *ketana*. These questions remain with us as we turn to the next *mishna*.
 
 ---
 
 ## Metziah Mishna
 
+
+
 ### Three Cases
 
-> **Hebrew/Aramaic:** מַתְנִי׳ רָאָה אוֹתָן רָצִין אַחַר מְצִיאָה, אַחַר צְבִי שָׁבוּר, אַחַר גּוֹזָלוֹת שֶׁלֹּא פֵּרְחוּ, וְאָמַר: ״זָכְתָה לִי שָׂדִי״ – זָכְתָה לוֹ. הָיָה צְבִי רָץ כְּדַרְכּוֹ, אוֹ שֶׁהָיוּ גּוֹזָלוֹת מַפְרִיחִין, וְאָמַר: ״זָכְתָה לִי שָׂדִי״ – לֹא אָמַר כְּלוּם.
->
-> **Translation:** MISHNA: If one **saw** people **running after a found** ownerless animal, e.g., **after a deer** crippled by **a broken** leg, or **after young pigeons that** have **not** yet learned to **fly,** which can be caught easily, **and he said: My field has effected acquisition** of this animal **for me, it has effected acquisition** of it **for him.** If the **deer were running in its** usual **manner, or** the **young pigeons were flying, and he said: My field has effected acquisition** of this animal **for me, he has said nothing,** as one's courtyard cannot effect acquisition of an item that does not remain there on its own.
+> **Hebrew/Aramaic:** מַתְנִי׳ רָאָה אוֹתָן רָצִין אַחַר מְצִיאָה, אַחַר צְבִי שָׁבוּר, אַחַר גּוֹזָלוֹת שֶׁלֹּא פֵּרְחוּ, וְאָמַר: ״זָכְתָה לִי שָׂדִי״ – זָכְתָה לוֹ. הָיָה צְבִי רָץ כְּדַרְכּוֹ, אוֹ שֶׁהָיוּ גּוֹזָלוֹת מַפְרִיחִין, וְאָמַר: ״זָכְתָה לִי שָׂדִי״ – לֹא אָמַר כְּלוּם.
+> **Translation:** MISHNA: If one **saw** people **running after a found** ownerless animal, e.g., **after a deer** crippled by **a broken** leg, or **after young pigeons that** have **not** yet learned to **fly,** which can be caught easily, **and he said: My field has effected acquisition** of this animal **for me, it has effected acquisition** of it **for him.** If the **deer were running in its** usual **manner, or** the **young pigeons were flying, and he said: My field has effected acquisition** of this animal **for me, he has said nothing,** as one’s courtyard cannot effect acquisition of an item that does not remain there on its own.
 
 The *mishna* presents the following scenario: one sees two people running after a found object — perhaps one sees a rolling object — or running after a deer with a broken leg (*tzvi shavur*), or running after chicks that have not yet learned to fly (*gozalot shelo parchu*). In each case, the object is moving through one's field. One declares: *zachata li sadi* — let my field acquire it on my behalf.
 
@@ -183,11 +191,21 @@ The logic is clear: *kinyan chatzer* works only when the object can be contained
 
 ## Omed B'Tzad Sadehu
 
+
+
 ### Rav Yehuda/Shmuel
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: וְהוּא שֶׁעוֹמֵד בְּצַד שָׂדֵהוּ.
->
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: וְהוּא שֶׁעוֹמֵד בְּצַד שָׂדֵהוּ.
 > **Translation:** GEMARA: **Rav Yehuda says** that **Shmuel says: And this** acquisition mentioned in the mishna is effective specifically in a case **where** the owner is **standing next to his field** at the time of the acquisition, so that it has the halakhic status of a secured courtyard.
+
+> **Hebrew/Aramaic:** וְתִקְנֵי לֵיהּ שָׂדֵהוּ, דְּאָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: חֲצֵרוֹ שֶׁל אָדָם קוֹנָה לוֹ שֶׁלֹּא מִדַּעְתּוֹ!
+> **Translation:** The Gemara raises a difficulty: **But shouldn’t his field effect acquisition** of the animal **for him** even without him standing next to it? **As Rabbi Yosei, son of Rabbi Ḥanina, says: A person’s courtyard effects acquisition** of property **for him** even **without his knowledge.**
+
+> **Hebrew/Aramaic:** הָנֵי מִילֵּי בְּחָצֵר הַמִּשְׁתַּמֶּרֶת, אֲבָל חָצֵר שֶׁאֵינָהּ מִשְׁתַּמֶּרֶת, אִי עוֹמֵד בְּצַד שָׂדֵהוּ – אִין, אִי לָא – לָא.
+> **Translation:** The Gemara answers: **This statement** applies only **to a secured courtyard,** where items remain in the courtyard without supervision. **But** with regard to **an unsecured courtyard, if** the owner is **standing next to his field, yes,** it effects acquisition of ownerless items on his behalf, but **if** he is **not,** it does **not** effect acquisition of items on his behalf.
+
+> **Hebrew/Aramaic:** וּמְנָא תֵּימְרָא דְּחָצֵר שֶׁאֵינָהּ מִשְׁתַּמֶּרֶת, אִי עוֹמֵד בְּצַד שָׂדֵהוּ – אִין, אִי לָא – לָא?
+> **Translation:** The Gemara asks: **And from where do you say that** in the case of **an unsecured courtyard, if** the owner is **standing next to his field, yes,** it effects acquisition of ownerless items on his behalf, but **if** he is **not,** it does **not** effect acquisition of items on his behalf?
 
 Rav Yehuda reports in the name of Shmuel: *vehu she'omed betzad sadehu* — the *mishna*'s ruling applies only when the owner is standing beside his field. This condition is presented as necessary for the *kinyan* to take effect even in the permissible cases — even the *tzvi shavur*, even the pre-flight chicks.
 
@@ -195,19 +213,11 @@ At first glance, this requirement seems to be on the same axis as the *mishna*'s
 
 ### Teshuvah to Question
 
-> **Hebrew/Aramaic:** וְתִקְנֵי לֵיהּ שָׂדֵהוּ, דְּאָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: חֲצֵרוֹ שֶׁל אָדָם קוֹנָה לוֹ שֶׁלֹּא מִדַּעְתּוֹ!
->
-> **Translation:** The Gemara raises a difficulty: **But shouldn't his field effect acquisition** of the animal **for him** even without him standing next to it? **As Rabbi Yosei, son of Rabbi Ḥanina, says: A person's courtyard effects acquisition** of property **for him** even **without his knowledge.**
-
 One might ask: why is the owner's presence necessary at all? Does not *chatzer* work even without the owner's awareness? Indeed, Rabbi Yossi bar Chanina establishes the principle: *chatzero shel adam konah lo shelo mida'ato* — a person's *chatzer* acquires on his behalf even without his *da'at*. And this would also explain why the *mishna*'s formulation — "one declares *zachata li sadi*" — need not be taken literally as a requirement; as Tosafot notes, the declaration is *lav davka*, the *kinyan* would work even without explicit verbal statement.
 
 So the question stands: if *chatzer* works without the owner's knowledge, why must the owner be standing beside it?
 
 ### Protected vs. Unprotected
-
-> **Hebrew/Aramaic:** הָנֵי מִילֵּי בְּחָצֵר הַמִּשְׁתַּמֶּרֶת, אֲבָל חָצֵר שֶׁאֵינָהּ מִשְׁתַּמֶּרֶת, אִי עוֹמֵד בְּצַד שָׂדֵהוּ – אִין, אִי לָא – לָא.
->
-> **Translation:** The Gemara answers: **This statement** applies only **to a secured courtyard,** where items remain in the courtyard without supervision. **But** with regard to **an unsecured courtyard, if** the owner is **standing next to his field, yes,** it effects acquisition of ownerless items on his behalf, but **if** he is **not,** it does **not** effect acquisition of items on his behalf.
 
 The Gemara resolves this by distinguishing between a *chatzer hamishtameres* — a protected, enclosed field — and a *chatzer she'einah mishtameres* — an unprotected field. For a protected *chatzer*, such as one surrounded by a fence, the objects within it are genuinely contained, and the *chatzer* acquires even without the owner's presence. But for an unprotected field — which is the typical *sadeh*, a large open expanse of grain with no surrounding fence — the *chatzer* acquires only when the owner is standing there. *Ei omed betzad sadehu, ein; ei lo, lo* — if standing there, yes; if not, no.
 
@@ -217,17 +227,16 @@ At this stage, the analysis remains coherent: the owner's physical presence besi
 
 ## Shichcha Proof
 
-### Source Question
 
-> **Hebrew/Aramaic:* u'mina teima – diatanya …
->
-> **Hebrew/Aramaic:** וּמְנָא תֵּימְרָא דְּחָצֵר שֶׁאֵינָהּ מִשְׁתַּמֶּרֶת, אִי עוֹמֵד בְּצַד שָׂדֵהוּ – אִין, אִי לָא – לָא? דְּתַנְיָא: הָיָה עוֹמֵד בָּעִיר וְאוֹמֵר, ״יוֹדֵעַ אֲנִי שֶׁעוֹמֶר שֶׁיֵּשׁ לִי בַּשָּׂדֶה פּוֹעֲלִים שְׁכֵחוּהוּ – לֹא יְהֵא שִׁכְחָה״, יָכוֹל לֹא יְהֵא שִׁכְחָה – תַּלְמוּד לוֹמַר: ״וְשָׁכַחְתָּ עֹמֶר בַּשָּׂדֶה״, ״בַּשָּׂדֶה וְשָׁכַחְתָּ״ – וְלֹא בָּעִיר.
->
-> **Translation:** The Gemara asks: **And from where do you say that** in the case of **an unsecured courtyard, if** the owner is **standing next to his field, yes,** it effects acquisition of ownerless items on his behalf, but **if** he is **not,** it does **not** effect acquisition of items on his behalf? **As it is taught** in a *baraita*: There is a case where a landowner **was standing in the town and saying: I know that** my **laborers forgot a sheaf that I have in the field,** which I had intended for the laborers to bring in, but since I remember it, **it shall not be** considered **a forgotten** sheaf, which must be left for the poor. Then, the landowner himself forgot about the sheaf. In this case, one **might** have thought **that it is not** considered **a forgotten** sheaf. To counter this, **the verse states:** "When you reap your harvest in your field, **and have forgotten a sheaf in the field,** you shall not go back to fetch it; it shall be for the stranger, for the fatherless, and for the widow" (Deuteronomy 24:19). It is derived from here that the phrase: **"And have forgotten"** applies **"in the field," but not in the town.**
+
+### Source Question
 
 The Gemara asks: *u'mina teima* — where do we derive the rule that an unprotected field (*chatzer she'einah mishtameret*) requires the owner's presence? The answer comes from a *baraita* about the laws of *shichcha* — the forgotten sheaf that must be left for the poor.
 
 ### Sheaf Case
+
+> **Hebrew/Aramaic:** דְּתַנְיָא: הָיָה עוֹמֵד בָּעִיר וְאוֹמֵר, ״יוֹדֵעַ אֲנִי שֶׁעוֹמֶר שֶׁיֵּשׁ לִי בַּשָּׂדֶה פּוֹעֲלִים שְׁכֵחוּהוּ – לֹא יְהֵא שִׁכְחָה״, יָכוֹל לֹא יְהֵא שִׁכְחָה – תַּלְמוּד לוֹמַר: ״וְשָׁכַחְתָּ עֹמֶר בַּשָּׂדֶה״, ״בַּשָּׂדֶה וְשָׁכַחְתָּ״ – וְלֹא בָּעִיר.
+> **Translation:** **As it is taught** in a *baraita*: There is a case where a landowner **was standing in the town and saying: I know that** my **laborers forgot a sheaf that I have in the field,** which I had intended for the laborers to bring in, but since I remember it, **it shall not be** considered **a forgotten** sheaf, which must be left for the poor. Then, the landowner himself forgot about the sheaf. In this case, one **might** have thought **that it is not** considered **a forgotten** sheaf. To counter this, **the verse states:** “When you reap your harvest in your field, **and have forgotten a sheaf in the field,** you shall not go back to fetch it; it shall be for the stranger, for the fatherless, and for the widow” (Deuteronomy 24:19). It is derived from here that the phrase: **“And have forgotten”** applies **“in the field,” but not in the town.**
 
 The *baraita* discusses the following scenario: one is in the town and declares, "I know there is a sheaf in my field that the workers will forget." One is standing in town, aware of the sheaf, and wants to prevent it from becoming *shichcha*. The ruling is that such a declaration is ineffective: *lo yehei shichcha* — one cannot prevent it from being forgotten produce from the town.
 
@@ -235,21 +244,13 @@ The *baraita* then brings the verse: *veshachachta omer basadeh* — "you forget
 
 ### Contradiction
 
-> **Hebrew/Aramaic:** הָא גּוּפַהּ קַשְׁיָא: אָמְרַתְּ יָכוֹל לֹא יְהֵא שִׁכְחָה – אַלְמָא הָוֵי שִׁכְחָה, וְנָסֵיב לַהּ תַּלְמוּדָא ״בַּשָּׂדֶה וְשָׁכַחְתָּ״ וְלֹא בָּעִיר, אַלְמָא לָא הָוֵי שִׁכְחָה!
->
-> **Translation:** The Gemara clarifies: **This** *baraita* **itself** is **difficult.** First **you said** that one **might** have thought **that it is not** considered **a forgotten** sheaf, so **apparently** the *tanna* seeks to prove that **it is** considered **a forgotten** sheaf. **And** then the *baraita* **adduces the derivation** that the phrase **"and have forgotten"** applies only **"in the field," but not in the town,** which **apparently** means that a sheaf forgotten by the owner while he is in the town **is not** considered **a forgotten** sheaf.
-
 This seems internally contradictory. The first clause implies that forgetting in the town would make it *shichcha* — otherwise, why would the person be trying to prevent it? — but the derivation from the verse seems to imply the opposite, that only forgetting in the field counts.
+
+> **Hebrew/Aramaic:** הָא גּוּפַהּ קַשְׁיָא: אָמְרַתְּ יָכוֹל לֹא יְהֵא שִׁכְחָה – אַלְמָא הָוֵי שִׁכְחָה, וְנָסֵיב לַהּ תַּלְמוּדָא ״בַּשָּׂדֶה וְשָׁכַחְתָּ״ וְלֹא בָּעִיר, אַלְמָא לָא הָוֵי שִׁכְחָה!
+> **Translation:** The Gemara clarifies: **This** *baraita* **itself** is **difficult.** First **you said** that one **might** have thought **that it is not** considered **a forgotten** sheaf, so **apparently** the *tanna* seeks to prove that **it is** considered **a forgotten** sheaf. **And** then the *baraita* **adduces the derivation** that the phrase **“and have forgotten”** applies only **“in the field,” but not in the town,** which **apparently** means that a sheaf forgotten by the owner while he is in the town **is not** considered **a forgotten** sheaf.
 
 ### Resolution
 
-> **Hebrew/Aramaic:** אֶלָּא לָאו הָכִי קָאָמַר: בַּשָּׂדֶה – שָׁכוּחַ מֵעִיקָּרוֹ הָוֵי שִׁכְחָה, זָכוּר וּלְבַסּוֹף שָׁכוּחַ אֵין שִׁכְחָה, מַאי טַעְמָא – דְּכֵיוָן דְּקָאֵי גַּבַּהּ, הָוְיָא לַיהּ חֲצֵרוֹ, וְזָכְתָה לֵיהּ.
->
-> **Translation:** **Rather, isn't this what** the *tanna* **is saying:** In a case where the owner is **in the field,** if the sheaf was **forgotten at the outset, it is** considered **a forgotten** sheaf; but if **it** was **remembered** at first **and** was **ultimately forgotten,** it does **not** assume the status of **a forgotten** sheaf? **What is the reason** for this distinction? The reason is **that since he is standing** in the field, **beside** the sheaf, his field **is** tantamount to **his courtyard, and** his courtyard **effects acquisition** of the sheaf **for him** once he remembers it.
-
-> **Hebrew/Aramaic:** אֲבָל בָּעִיר, אֲפִילּוּ זָכוּר וּלְבַסּוֹף שָׁכוּחַ – הָוְיָא שִׁכְחָה. מַאי טַעְמָא – דְּלֵיתֵיהּ גַּבֵּיהּ דְּלִזְכֵּי לֵיהּ.
->
-> **Translation:** **But** in a case where the owner is **in the town, even** if the sheaf was **remembered and ultimately forgotten, it is** considered **a forgotten** sheaf and must be left for the poor. **What is the reason** for this? It is **because** the owner **is not beside it,** which is necessary **for** his courtyard **to effect acquisition** of the sheaf **for him.** Evidently, an item that is in a person's courtyard is acquired by him only if he is standing next to the courtyard.
 
 The Gemara resolves: the *baraita* must be read as introducing a distinction between two kinds of forgetting. *Shachuch me'ikara* — something forgotten from the beginning, where no one ever held it in conscious awareness — constitutes *shichcha* when left in the field. *Zachur ulevasof shachu'ach* — something that was known and then forgotten — requires further analysis depending on who remembers and who forgets, and whether the owner is present.
 
@@ -257,21 +258,37 @@ Specifically: if the owner is present in the field and remembers the sheaf even 
 
 ### Prevents Shichcha
 
-> **Hebrew/Aramaic:** אָמַר קְרָא: ״לֹא תָּשׁוּב לְקַחְתּוֹ״, לְרַבּוֹת שִׁכְחַת הָעִיר. אִם כֵּן נֵימָא קְרָא ״לֹא תִּקָּחֶנּוּ״, מַאי ״לֹא תָּשׁוּב״ – לְרַבּוֹת שִׁכְחַת הָעִיר.
->
-> **Translation:** The Gemara responds that **the verse states: "You shall not go back to take it"** (Deuteronomy 24:19), which is interpreted **to include** sheaves **forgotten** while the owner is in **the town.** Evidently, there is no fundamental difference between a town and the field with regard to the *halakhot* of forgotten sheaves; rather, the distinction is due to the fact that one cannot acquire a sheaf by means of his courtyard if he is not standing next to the courtyard. … The Gemara answers: **If so,** if the verse serves only that purpose, **let the verse say: You shall not take it. What** is added by the phrase: **"You shall not go back** to take it"? It is written **to include** sheaves **forgotten** while the owner is in **the town.**
-
 The Gemara explains why the owner's presence prevents *shichcha*: *dekivan dekai gaba, hevei lei chatzero, vezachata lo* — since the owner is standing there in the field, it is as though his *chatzer* has re-acquired the sheaf on his behalf. He is still in possession of it. The workers' forgetting does not constitute *shichcha* because the owner is still there, holding on to it through his presence and his field.
+
+> **Hebrew/Aramaic:** אֶלָּא לָאו הָכִי קָאָמַר: בַּשָּׂדֶה – שָׁכוּחַ מֵעִיקָּרוֹ הָוֵי שִׁכְחָה, זָכוּר וּלְבַסּוֹף שָׁכוּחַ אֵין שִׁכְחָה, מַאי טַעְמָא – דְּכֵיוָן דְּקָאֵי גַּבַּהּ, הָוְיָא לַיהּ חֲצֵרוֹ וְזָכְתָה לֵיהּ.
+> **Translation:** **Rather, isn’t this what** the *tanna* **is saying:** In a case where the owner is **in the field,** if the sheaf was **forgotten at the outset, it is** considered **a forgotten** sheaf; but if **it** was **remembered** at first **and** was **ultimately forgotten,** it does **not** assume the status of **a forgotten** sheaf? **What is the reason** for this distinction? The reason is **that since he is standing** in the field, **beside** the sheaf, his field **is** tantamount to **his courtyard, and** his courtyard **effects acquisition** of the sheaf **for him** once he remembers it.
+
+> **Hebrew/Aramaic:** אֲבָל בָּעִיר, אֲפִילּוּ זָכוּר וּלְבַסּוֹף שָׁכוּחַ – הָוְיָא שִׁכְחָה. מַאי טַעְמָא – דְּלֵיתֵיהּ גַּבֵּיהּ דְּלִזְכֵּי לֵיהּ.
+> **Translation:** **But** in a case where the owner is **in the town, even** if the sheaf was **remembered and ultimately forgotten, it is** considered **a forgotten** sheaf and must be left for the poor. **What is the reason** for this? It is **because** the owner **is not beside it,** which is necessary **for** his courtyard **to effect acquisition** of the sheaf **for him.** Evidently, an item that is in a person’s courtyard is acquired by him only if he is standing next to the courtyard.
+
+> **Hebrew/Aramaic:** מִמַּאי? דִּלְמָא גְּזֵירַת הַכָּתוּב הִיא, דְּבַשָּׂדֶה נֶהֱוֵי שִׁכְחָה וּבָעִיר לָא נֶהֱוֵי שִׁכְחָה!
+> **Translation:** The Gemara rejects this proof: **From where** can it be proven that this is the reason? **Perhaps** the *baraita* should be understood in a different manner: **It is a Torah edict that** if the owner is **in the field, it is** considered **a forgotten** sheaf, **but** if the owner is **in the town, it is not** considered **a forgotten** sheaf and does not need to be left for the poor. Accordingly, the distinction would not be derived from the *halakhot* of acquisition.
+
+> **Hebrew/Aramaic:** אָמַר קְרָא: ״לֹא תָּשׁוּב לְקַחְתּוֹ״, לְרַבּוֹת שִׁכְחַת הָעִיר.
+> **Translation:** The Gemara responds that **the verse states: “You shall not go back to take it”** (Deuteronomy 24:19), which is interpreted **to include** sheaves **forgotten** while the owner is in **the town.** Evidently, there is no fundamental difference between a town and the field with regard to the *halakhot* of forgotten sheaves; rather, the distinction is due to the fact that one cannot acquire a sheaf by means of his courtyard if he is not standing next to the courtyard.
+
+> **Hebrew/Aramaic:** הַאי מִיבְּעֵי לֵיהּ לְלָאו!
+> **Translation:** The Gemara challenges: **This** phrase is **necessary to** impose **a prohibition** upon one who takes his sheaf after he forgot it, instead of leaving it for the poor. It is therefore not superfluous and cannot be interpreted as including an additional case.
+
+> **Hebrew/Aramaic:** אִם כֵּן נֵימָא קְרָא ״לֹא תִּקָּחֶנּוּ״, מַאי ״לֹא תָּשׁוּב״ – לְרַבּוֹת שִׁכְחַת הָעִיר.
+> **Translation:** The Gemara answers: **If so,** if the verse serves only that purpose, **let the verse say: You shall not take it. What** is added by the phrase: **“You shall not go back** to take it”? It is written **to include** sheaves **forgotten** while the owner is in **the town.**
+
+> **Hebrew/Aramaic:** וְאַכַּתִּי מִיבְּעֵי לֵיהּ, לִכְדִתְנַן: שֶׁלְּפָנָיו – אֵין שִׁכְחָה, שֶׁלְּאַחֲרָיו – יֵשׁ שִׁכְחָה, שֶׁהוּא בְּבַל תָּשׁוּב.
+> **Translation:** The Gemara challenges: **But** the phrase “you shall not go back” **is still necessary for that which we learned** in a mishna (*Pe’a* 7:4): While a landowner collects the sheaves from his field, any sheaf **that** remains **before him,** as he has not reached it yet, does **not** assume the status of **a forgotten** sheaf, even if he has forgotten about its existence. Any sheaf **that is** already **behind him has** the status of **a forgotten** sheaf, **as the prohibition of: You shall not go back,** applies.
+
+> **Hebrew/Aramaic:** זֶה הַכְּלָל: כֹּל שֶׁהוּא בְּבַל תָּשׁוּב – שִׁכְחָה, כֹּל שֶׁאֵינוֹ בְּבַל תָּשׁוּב – אֵינוֹ שִׁכְחָה!
+> **Translation:** **This is the principle: Any** sheaf **to which the prohibition of: You shall not go back,** applies, as one would need to retrace his steps in order to retrieve the sheaf, assumes the status of **a forgotten** sheaf; and **any** sheaf **to which the prohibition of: You shall not go back,** does **not** apply, i.e., a sheaf that one has yet to reach, does **not** assume the status of **a forgotten** sheaf. The phrase “You shall not go back” is apparently necessary to teach this *halakha*, and it cannot be interpreted as including a case where the owner is in the town.
+
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי, אָמַר קְרָא ״יִהְיֶה״ – לְרַבּוֹת שִׁכְחַת הָעִיר.
+> **Translation:** **Rav Ashi said** that the inclusion of this case is derived from another phrase in the verse. **The verse states: “It shall be”** (Deuteronomy 24:19), which is interpreted **to include** sheaves **forgotten** while the owner is in **the town.** Therefore, the Gemara’s initial interpretation of the *baraita* is accepted, leading to the conclusion that the distinction between a case where the owner is in the field and a case where he is in the town is due to the *halakha* that one’s courtyard can effect acquisition of property for him only if he is next to the courtyard, as Rav Yehuda said in the name of Shmuel.
 
 ### Critique
 
-> **Hebrew/Aramaic:** וְאַכַּתִּי מִיבְּעֵי לֵיהּ, לִכְדִתְנַן: שֶׁלְּפָנָיו – אֵין שִׁכְחָה, שֶׁלְּאַחֲרָיו – יֵשׁ שִׁכְחָה, שֶׁהוּא בְּבַל תָּשׁוּב.
->
-> **Translation:** The Gemara challenges: **But** the phrase "you shall not go back" **is still necessary for that which we learned** in a mishna (*Pe'a* 7:4): While a landowner collects the sheaves from his field, any sheaf **that** remains **before him,** as he has not reached it yet, does **not** assume the status of **a forgotten** sheaf, even if he has forgotten about its existence. Any sheaf **that is** already **behind him has** the status of **a forgotten** sheaf, **as the prohibition of: You shall not go back,** applies.
-
-> **Hebrew/Aramaic:** זֶה הַכְּלָל: כֹּל שֶׁהוּא בְּבַל תָּשׁוּב – שִׁכְחָה, כֹּל שֶׁאֵינוֹ בְּבַל תָּשׁוּב – אֵינוֹ שִׁכְחָה! אָמַר רַב אָשֵׁי, אָמַר קְרָא ״יִהְיֶה״ – לְרַבּוֹת שִׁכְחַת הָעִיר.
->
-> **Translation:** **This is the principle: Any** sheaf **to which the prohibition of: You shall not go back,** applies, as one would need to retrace his steps in order to retrieve the sheaf, assumes the status of **a forgotten** sheaf; and **any** sheaf **to which the prohibition of: You shall not go back,** does **not** apply, i.e., a sheaf that one has yet to reach, does **not** assume the status of **a forgotten** sheaf. The phrase "You shall not go back" is apparently necessary to teach this *halakha*, and it cannot be interpreted as including a case where the owner is in the town. **Rav Ashi said** that the inclusion of this case is derived from another phrase in the verse. **The verse states: "It shall be"** (Deuteronomy 24:19), which is interpreted **to include** sheaves **forgotten** while the owner is in **the town.** Therefore, the Gemara's initial interpretation of the *baraita* is accepted, leading to the conclusion that the distinction between a case where the owner is in the field and a case where he is in the town is due to the *halakha* that one's courtyard can effect acquisition of property for him only if he is next to the courtyard, as Rav Yehuda said in the name of Shmuel.
 
 It must be said that this is a striking way to explain the ruling. A more intuitive explanation would focus on the question of who is responsible for gathering and whose memory governs: if the owner is present and supervising, his awareness is what matters, not the workers'. The *shichcha* regime depends on the process of gathering having been effectively abandoned, and that abandonment has not occurred while the owner is present and attentive.
 
@@ -281,14 +298,17 @@ This framing, however, raises its own difficulties. If we say the *chatzer* re-a
 
 Consider a telling scenario: the owner steps twenty feet away to knock on a neighbor's door. At that precise moment, the workers forget the sheaf. According to the Gemara's logic, because the owner is not *omed betzad sadehu*, there is *shichcha*, even though he remembers the sheaf and is mere moments away from returning. One might expect that continuous personal awareness and proximity would suffice. But the Gemara insists that the formal condition of standing beside the field is what maintains possession, not the subjective state of remembering. This is a counterintuitive position, and the tension between the formal criterion and the intuitive logic of supervision and memory is worth keeping in mind.
 
+The deeper point the Gemara derives from this entire *shichcha* discussion is about the nature of *chatzer she'eina mishtameret* — an unenclosed domain. A *chatzer*, in the classic sense, is an enclosed yard with a fence, and it acquires on the owner's behalf precisely because it is *mishtameret*, secured. A *sadeh*, a field, is the paradigmatic case of *eina mishtameret*: open land stretching for miles, with no fence marking it off. The fact that the owner's presence in the field is what prevents *shichcha* — that it is only by standing there that his field functions as a possessive mechanism — is the Gemara's proof that physical presence can substitute for enclosure. When the owner stands in the field, even an unenclosed domain acts as though it were secured, because he himself is holding on to it. If he is not there, the field's open character means it does not acquire for him at all.
+
 ---
 
 ## Amoraim Agree
 
+
+
 ### Ulla & Rabbah
 
-> **Hebrew/Aramaic:** וְכֵן אָמַר עוּלָּא: וְהוּא שֶׁעוֹמֵד בְּצַד שָׂדֵהוּ. וְכֵן אָמַר רַבָּה בַּר בַּר חָנָה: וְהוּא שֶׁעוֹמֵד בְּצַד שָׂדֵהוּ.
->
+> **Hebrew/Aramaic:** וְכֵן אָמַר עוּלָּא: וְהוּא שֶׁעוֹמֵד בְּצַד שָׂדֵהוּ. וְכֵן אָמַר רַבָּה בַּר בַּר חָנָה: וְהוּא שֶׁעוֹמֵד בְּצַד שָׂדֵהוּ.
 > **Translation:** **And Ulla also says** that the acquisition mentioned in the mishna **is** effective specifically in a case **where** the owner **is standing next to his field. And Rabba bar bar Ḥana also says** that the acquisition **is** effective specifically in a case **where he is standing next to his field.**
 
 The requirement of *omed betzad sadehu* is not the view of Shmuel alone. Ulla states the same ruling, as does Rabbah bar bar Chana: *vehu she'omed betzad sadehu* — the *kinyan* of the *chatzer* for the *metziah* works only if the owner is standing beside his field. The agreement among these *amoraim* establishes the ruling as broadly accepted.
@@ -297,15 +317,16 @@ The requirement of *omed betzad sadehu* is not the view of Shmuel alone. Ulla st
 
 ## Rav Abba Challenge
 
+
+
+[DAF:11b]
 ### Ma'aser Story
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַבִּי אַבָּא לְעוּלָּא: מַעֲשֶׂה בְּרַבָּן גַּמְלִיאֵל וּזְקֵנִים שֶׁהָיוּ בָּאִים בִּסְפִינָה. אָמַר רַבָּן גַּמְלִיאֵל: עִישּׂוּר שֶׁאֲנִי עָתִיד לָמוֹד נָתוּן לִיהוֹשֻׁעַ, וּמְקוֹמוֹ מוּשְׂכָּר לוֹ. וְעִישּׂוּר אַחֵר שֶׁאֲנִי עָתִיד לָמוֹד, נָתוּן לַעֲקִיבָא בֶּן יוֹסֵף, כְּדֵי שֶׁיִּזְכֶּה בּוֹ לַעֲנִיִּים, וּמְקוֹמוֹ מוּשְׂכָּר לוֹ.
->
-> **Translation:** **Rabbi Abba raised an objection to Ulla** from that which is taught in a mishna (*Ma'aser Sheni* 5:9): There was **an incident involving Rabban Gamliel and** other **Elders, who were traveling on a ship.** Since he remembered that he had not tithed the produce of his fields, **Rabban Gamliel said** to the others: **One-tenth** of my produce, **which I will measure out in the future** and separate from my produce, **is given to Yehoshua** ben Ḥananya, who is a Levite and is entitled to receive the first tithe, **and the place of** the tithe **is rented to him. Rabbi Yehoshua paid him a token sum to rent the field, which presumably became the equivalent of his courtyard, and thereby acquired the tithe. And another one-tenth that I will measure out in the future** and separate from my produce as the poor man's tithe **is given to Akiva ben Yosef so that he will acquire it for the poor, and its place is rented to him.**
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַבִּי אַבָּא לְעוּלָּא: מַעֲשֶׂה בְּרַבָּן גַּמְלִיאֵל וּזְקֵנִים שֶׁהָיוּ בָּאִים בִּסְפִינָה. אָמַר רַבָּן גַּמְלִיאֵל: עִישּׂוּר שֶׁאֲנִי עָתִיד לָמוֹד נָתוּן לִיהוֹשֻׁעַ,
+> **Translation:** **Rabbi Abba raised an objection to Ulla** from that which is taught in a mishna (*Ma’aser Sheni* 5:9): There was **an incident involving Rabban Gamliel and** other **Elders, who were traveling on a ship.** Since he remembered that he had not tithed the produce of his fields, **Rabban Gamliel said** to the others: **One-tenth** of my produce, **which I will measure out in the future** and separate from my produce, **is given to Yehoshua** ben Ḥananya, who is a Levite and is entitled to receive the first tithe,
 
-> **Hebrew/Aramaic:** וְכִי רַבִּי יְהוֹשֻׁעַ וְרַבִּי עֲקִיבָא בְּצַד שָׂדֵהוּ שֶׁל רַבָּן גַּמְלִיאֵל הָיוּ עוֹמְדִין?
->
-> **Translation:** Rabbi Abba continued: **But were Rabbi Yehoshua and Rabbi Akiva standing next to Rabban Gamliel's field** then? All of them were on the ship. Apparently, one's courtyard effects acquisition for him even when he is not standing next to it.
+> **Hebrew/Aramaic:** וּמְקוֹמוֹ מוּשְׂכָּר לוֹ. וְעִישּׂוּר אַחֵר שֶׁאֲנִי עָתִיד לָמוֹד, נָתוּן לַעֲקִיבָא בֶּן יוֹסֵף, כְּדֵי שֶׁיִּזְכֶּה בּוֹ לַעֲנִיִּים, וּמְקוֹמוֹ מוּשְׂכָּר לוֹ.
+> **Translation:** **and the place of** the tithe **is rented to him.** Rabbi Yehoshua paid him a token sum to rent the field, which presumably became the equivalent of his courtyard, and thereby acquired the tithe. **And another one-tenth that I will measure out in the future** and separate from my produce as the poor man’s tithe **is given to Akiva ben Yosef so that he will acquire it for the poor, and its place is rented to him.**
 
 Rav Abba challenges Ulla's position from a famous *ma'aseh*. There is a story of Rabban Gamliel and the *zekeinim* — Sages — who were traveling together on a ship. Rabban Gamliel declared: "The *ma'aser* that I am going to measure out is hereby given to Yehoshua" — Rabbi Yehoshua, who was a *Levi* present on the boat — "and the space of the *ma'aser* is rented to him." A second *ma'aser* — *ma'aser ani* in this case — he gave to Akiva ben Yosef, who was serving as a *gabbai aniyim*, an agent to collect on behalf of the poor. Similarly, the relevant space was rented to Akiva.
 
@@ -315,14 +336,16 @@ In either case, the operative question for the Gemara is: was the transfer legal
 
 ### The Challenge
 
+> **Hebrew/Aramaic:** וְכִי רַבִּי יְהוֹשֻׁעַ וְרַבִּי עֲקִיבָא בְּצַד שָׂדֵהוּ שֶׁל רַבָּן גַּמְלִיאֵל הָיוּ עוֹמְדִין?
+> **Translation:** Rabbi Abba continued: **But were Rabbi Yehoshua and Rabbi Akiva standing next to Rabban Gamliel’s field** then? All of them were on the ship. Apparently, one’s courtyard effects acquisition for him even when he is not standing next to it.
+
 This is the challenge: *vechi Rabbi Yehoshua veRabbi Akiva betzad sadehu shel Rabban Gamliel hayu omdim?* — were Rabbi Yehoshua and Rabbi Akiva standing beside Rabban Gamliel's field? Clearly not. They were on a boat, far from the field. Yet the *kinyan* apparently worked. This would seem to be a direct refutation of the requirement of *omed betzad sadehu*.
 
 Tosafot raises an additional dimension: even setting aside the question of proximity, was the field *mishtameres*? If it was grain standing in an open field, it would not be *mishtameres* by default. And even if it were a house, the *ma'aser* inside would not be protected from the family members, who did not know that a specific portion now belonged to Yehoshua or Akiva. How, then, did *kinyan chatzer* operate here at all?
 
 ### Ulla Dismisses
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: דָּמֵי הַאי מֵרַבָּנַן כִּדְלָא גָּמְרִי אִינָשֵׁי שְׁמַעְתָּא.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: דָּמֵי הַאי מֵרַבָּנַן כִּדְלָא גָּמְרִי אִינָשֵׁי שְׁמַעְתָּא.
 > **Translation:** Ulla **said to him: This one of the Sages seems like one who has not studied *halakha*.** Ulla dismissed the question entirely, as he deemed it unworthy of consideration.
 
 Ulla's response to this challenge is dismissive: *dami hai merabbanan dela gmar inshi shmaita* — this sounds to me like someone who has never properly learned the material. This is not an answer; it is a deflection. Rav Abba was not satisfied.
@@ -331,15 +354,16 @@ Ulla's response to this challenge is dismissive: *dami hai merabbanan dela gmar 
 
 ## Resolution
 
-### Rav Abba Persists
 
-> **Hebrew/Aramaic:** כִּי אֲתָא לְסוּרָא אֲמַר לְהוּ: הָכִי אָמַר עוּלָּא וְהָכִי אוֹתְבִיתֵיהּ. אֲמַר לֵיהּ הָהוּא מֵרַבָּנַן: רַבָּן גַּמְלִיאֵל מִטַּלְטְלֵי אַגַּב מְקַרְקְעֵי הִקְנָה לָהֶם. רַבִּי זֵירָא קַבְּלַהּ, רַבִּי אַבָּא לָא קַבְּלַהּ.
->
-> **Translation:** **When** Rabbi Abba **came to Sura,** he related the discussion to the local scholars, **saying to them: This is what Ulla said, and this is how I challenged him. One of the Sages said to him: Rabban Gamliel transferred ownership of** the **movable property,** the tithes, **to** them **by means of** renting them the **land.** The transaction concerning the tithes was effected not by causing the location of the produce to become the equivalent of a courtyard belonging to Rabbi Yehoshua and Rabbi Akiva, but rather by employing the principle that movable property can be acquired together with the acquisition of land. The Gemara comments: **Rabbi Zeira accepted** this response to Rabbi Abba's objection, but **Rabbi Abba did not accept it.**
+
+### Rav Abba Persists
 
 When Rav Abba came to Sura, he presented the challenge to the scholars of the *yeshiva*: here is what Ulla said, here is the challenge I raised from the case of *ma'aser*, and Ulla gave no real answer. He was looking for a substantive resolution.
 
 ### Kinyan Agav
+
+> **Hebrew/Aramaic:** כִּי אֲתָא לְסוּרָא אֲמַר לְהוּ: הָכִי אָמַר עוּלָּא וְהָכִי אוֹתְבִיתֵיהּ. אֲמַר לֵיהּ הָהוּא מֵרַבָּנַן: רַבָּן גַּמְלִיאֵל מִטַּלְטְלֵי אַגַּב מְקַרְקְעֵי הִקְנָה לָהֶם. רַבִּי זֵירָא קַבְּלַהּ, רַבִּי אַבָּא לָא קַבְּלַהּ.
+> **Translation:** **When** Rabbi Abba **came to Sura,** he related the discussion to the local scholars, **saying to them: This is what Ulla said, and this is how I challenged him. One of the Sages said to him: Rabban Gamliel transferred ownership of** the **movable property,** the tithes, **to** them **by means of** renting them the **land.** The transaction concerning the tithes was effected not by causing the location of the produce to become the equivalent of a courtyard belonging to Rabbi Yehoshua and Rabbi Akiva, but rather by employing the principle that movable property can be acquired together with the acquisition of land. The Gemara comments: **Rabbi Zeira accepted** this response to Rabbi Abba’s objection, but **Rabbi Abba did not accept it.**
 
 One of the Sages of Sura provided the answer: *Rabban Gamliel mataltlei agav mekarkei hikna lahem* — Rabban Gamliel transferred the movable property (*metaltelin*) to Yehoshua and Akiva by means of *kinyan agav*, not *kinyan chatzer*. The acquisition of the *ma'aser* was therefore never a case of *kinyan chatzer* at all, and the challenge falls away.
 
@@ -349,13 +373,18 @@ One of the Sages of Sura provided the answer: *Rabban Gamliel mataltlei agav mek
 
 This is why Rabban Gamliel arranged for a rental of the space: he was not creating a *chatzer* for purposes of *kinyan chatzer*. He was executing an act of conveying land — a rental being understood, per the Rambam's elegant formulation, as a *kinyan guf le-peiros li-zman*, an ownership of the property's use for a limited period — and bundling the *ma'aser* with it. When Yehoshua acquired the rental, he simultaneously acquired the grain by *agav*, not because his rented field then served as a *chatzer* to acquire what was sitting in it.
 
+The phrasing *mekomo mushkar lo* — that Rabban Gamliel rented his place to them — is therefore *lav davka*, not to be read precisely as specifying that particular field; any piece of land would have served equally well for the *agav* transfer. And once we understand rental as a limited form of ownership in this way, the logic becomes clear: because the renter takes possession of the land itself, that possession is sufficient to carry along whatever *metaltelin* the transferor wishes to bundle with it. There is no requirement that the recipient stand *be-tzad sadeh*, beside the field, and no requirement of *mismeres*, the guarded enclosure condition associated with *kinyan chatzer*. Possession of the land is all that is needed, and a rental agreement provides exactly that.
+
 ### Tovat Hanah
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: שַׁפִּיר עֲבַיד דְּלָא קַבְּלַהּ, וְכִי לֹא הָיָה לָהֶם סוּדָר לִקְנוֹת מִמֶּנּוּ בַּחֲלִיפִין? אֶלָּא טוֹבַת הֲנָאָה אֵינָהּ מָמוֹן לִקְנוֹת מִמֶּנּוּ בַּחֲלִיפִין. הָכָא נָמֵי טוֹבַת הֲנָאָה אֵינָהּ מָמוֹן לִקְנוֹת עַל גַּבֵּי קַרְקַע.
->
-> **Translation:** **Rava said:** Rabbi Abba **did well by not accepting** this response, because if Rabban Gamliel had intended to transfer his ownership of the tithes to Rabbi Yehoshua and Rabbi Akiva, **did they not have a cloth** with which **to acquire** the tithes **from him by means of** a symbolic **exchange?** They could have acquired the tithes through symbolic exchange without renting the land. **Rather,** clearly the tithes were not considered the property of Rabban Gamliel, as he owned only **the benefit of discretion,** i.e., the benefit accrued from the option of giving the tithes to whichever Levite or poor person that he chose, and such benefit **is not** considered **property that can be acquired by means of** a symbolic **exchange. Here, too,** the transaction was clearly effected by means of a courtyard, as **benefit of discretion is not property that can be acquired by means of** acquiring **land.** Therefore, Rabbi Abba's explanation must be correct, and one's courtyard effects acquisition for him even when he is not standing next to it.
+> **Hebrew/Aramaic:** אָמַר רָבָא: שַׁפִּיר עֲבַיד דְּלָא קַבְּלַהּ, וְכִי לֹא הָיָה לָהֶם סוּדָר לִקְנוֹת מִמֶּנּוּ בַּחֲלִיפִין? אֶלָּא טוֹבַת הֲנָאָה אֵינָהּ מָמוֹן לִקְנוֹת מִמֶּנּוּ בַּחֲלִיפִין. הָכָא נָמֵי טוֹבַת הֲנָאָה אֵינָהּ מָמוֹן לִקְנוֹת עַל גַּבֵּי קַרְקַע.
+> **Translation:** **Rava said:** Rabbi Abba **did well by not accepting** this response, because if Rabban Gamliel had intended to transfer his ownership of the tithes to Rabbi Yehoshua and Rabbi Akiva, **did they not have a cloth** with which **to acquire** the tithes **from him by means of** a symbolic **exchange?** They could have acquired the tithes through symbolic exchange without renting the land. **Rather,** clearly the tithes were not considered the property of Rabban Gamliel, as he owned only **the benefit of discretion,** i.e., the benefit accrued from the option of giving the tithes to whichever Levite or poor person that he chose, and such benefit **is not** considered **property that can be acquired by means of** a symbolic **exchange. Here, too,** the transaction was clearly effected by means of a courtyard, as **benefit of discretion is not property that can be acquired by means of** acquiring **land.** Therefore, Rabbi Abba’s explanation must be correct, and one’s courtyard effects acquisition for him even when he is not standing next to it.
 
-Rava objects to accepting this answer too quickly: *shapir avid d'la kiblah* — Rav Abba was right not to accept it. If all Rabban Gamliel needed was *kinyan agav*, why did he arrange a land rental at all? There was a simpler option.
+> **Hebrew/Aramaic:** וְלָא הִיא, מַתְּנוֹת כְּהוּנָּה נְתִינָה כְּתִיבָא בְּהוּ. חֲלִיפִין, דֶּרֶךְ מִקָּח וּמִמְכָּר הוּא. מִטַּלְטְלִין אַגַּב מִקַּרְקַע, נְתִינָה אַלִּימְתָּא הִיא.
+> **Translation:** The Gemara rejects Rava’s reasoning: **But** that **is not so. With regard to gifts** to which members **of the priesthood** are entitled, and similarly with regard to tithes that are given to Levites and to the poor, the concept of **giving is written** in the Torah: “And have given it to the Levite, to the stranger, to the fatherless, and to the widow” (Deuteronomy 26:12). These gifts must be given and not sold or bartered. Therefore, since **exchange is a form of buying and selling,** it is an inappropriate mode of acquisition with regard to tithes. By contrast, transferring ownership of **movable property by means of** transferring ownership of **land is a powerful** form of **giving.** Consequently, Rabban Gamliel could not give them the tithes by means of a symbolic exchange using a cloth, but instead had to give it to them along with land. Therefore, since the transaction was not effected by means of a courtyard, it poses no difficulty to Ulla’s opinion.
+
+
+But Rava objects to accepting this answer too quickly: *shapir avid d'la kiblah* — Rav Abba was right not to accept it. If all Rabban Gamliel needed was *kinyan agav*, why did he arrange a land rental at all? There was a simpler option.
 
 The answer lies in the concept of *tovat hana'ah*. Rabban Gamliel did not own the *ma'aser* outright. The *ma'aser* belongs to the *Leviyim*; Rabban Gamliel possessed only a *tovat hana'ah* — the right to designate which *Levi* receives it, without actually owning the *ma'aser* itself. Similarly, *ma'aser ani* belongs to the poor; Rabban Gamliel had only the right to choose the recipient.
 
@@ -363,12 +392,7 @@ The implication is decisive: *tovat hana'ah einah mamon* — this benefit-right 
 
 What he *could* do is give. The Torah says *venatata* — "you shall give" the *ma'aser* — indicating that the mechanism of transfer for *ma'aser* and *matnot kehunah* is an act of giving, not an act of transferring ownership. And one form of giving is placing something in the recipient's hand. Another form is placing it in the recipient's *chatzer*. That Rabban Gamliel could do, even without being present beside the field, because the mechanism at work is not *kinyan* in the ownership-transfer sense but rather the act of *nesinah*, of giving.
 
-[DAF:11b]
 ### Why Not Chalifin
-
-> **Hebrew/Aramaic:** וְלָא הִיא, מַתְּנוֹת כְּהוּנָּה נְתִינָה כְּתִיבָא בְּהוּ. חֲלִיפִין, דֶּרֶךְ מִקָּח וּמִמְכָּר הוּא. מִטַּלְטְלִין אַגַּב מִקַּרְקַע, נְתִינָה אַלִּימְתָּא הִיא.
->
-> **Translation:** The Gemara rejects Rava's reasoning: **But** that **is not so. With regard to gifts** to which members **of the priesthood** are entitled, and similarly with regard to tithes that are given to Levites and to the poor, the concept of **giving is written** in the Torah: "And have given it to the Levite, to the stranger, to the fatherless, and to the widow" (Deuteronomy 26:12). These gifts must be given and not sold or bartered. Therefore, since **exchange is a form of buying and selling,** it is an inappropriate mode of acquisition with regard to tithes. By contrast, transferring ownership of **movable property by means of** transferring ownership of **land is a powerful** form of **giving.** Consequently, Rabban Gamliel could not give them the tithes by means of a symbolic exchange using a cloth, but instead had to give it to them along with land. Therefore, since the transaction was not effected by means of a courtyard, it poses no difficulty to Ulla's opinion.
 
 The Gemara presses further: even granting that Rabban Gamliel could not do *kinyan agav* because *tovat hana'ah einah mamon*, why could he not simply perform *chalifin*? Let Yehoshua give Rabban Gamliel a handkerchief, and in exchange Rabban Gamliel would convey the *ma'aser*.
 
@@ -378,9 +402,8 @@ The upshot: the reason Rabban Gamliel could not use *chalifin* is that it is exc
 
 ### Rav Pappa
 
-> **Hebrew/Aramaic:** רַב פָּפָּא אָמַר: דַּעַת אַחֶרֶת מַקְנָה אוֹתָן שָׁאנֵי.
->
-> **Translation:** **Rav Pappa said:** Even if Rabbi Yehoshua and Rabbi Akiva acquired the tithes by means of a courtyard, this poses no difficulty to Ulla's opinion. Since the tithes were not ownerless items, but rather **another mind,** i.e., Rabban Gamliel, **transferred their ownership** to Rabbi Yehoshua and Rabbi Akiva, it **is different,** and the recipients did not need to stand next to the courtyard.
+> **Hebrew/Aramaic:** רַב פָּפָּא אָמַר: דַּעַת אַחֶרֶת מַקְנָה אוֹתָן שָׁאנֵי.
+> **Translation:** **Rav Pappa said:** Even if Rabbi Yehoshua and Rabbi Akiva acquired the tithes by means of a courtyard, this poses no difficulty to Ulla’s opinion. Since the tithes were not ownerless items, but rather **another mind,** i.e., Rabban Gamliel, **transferred their ownership** to Rabbi Yehoshua and Rabbi Akiva, it **is different,** and the recipients did not need to stand next to the courtyard.
 
 Rav Pappa offers an additional answer: *da'at acheret maknah otan shani* — when another party's *da'at* is actively directing the transfer, a weaker *kinyan* suffices. This principle appeared earlier in the discussion of minors, and its logic is general. Every *kinyan* consists of two elements: the *da'at* — the intention and will — to transfer or acquire, and the physical act that represents the taking of possession. These two elements exist in a relationship of substitutability: where *da'at* is particularly strong, the physical act need not be as robust.
 

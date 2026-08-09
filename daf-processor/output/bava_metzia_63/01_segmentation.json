@@ -63,8 +63,8 @@
           "timestamp": "07:05"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Oshaya's Tosefta: The Wheat-Wine-Oil Chain and the Possession Requirement",
@@ -107,7 +107,7 @@
           "timestamp": "15:45"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -137,7 +137,7 @@
         }
       ],
       "sefaria_index": 2,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Two Conditions for Valid Future Sales: Money or Merchandise Possession",
@@ -160,8 +160,8 @@
           "timestamp": "20:10"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Understanding Rabbinic Ribbis Through Time and Deferred Exchange (Agra Natar)",
@@ -189,8 +189,8 @@
           "timestamp": "24:14"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Rava's First Three Deductions from Rabbi Oshaya: Ma'amidin, Mammonot, and Valuation Equivalence",
@@ -315,7 +315,7 @@
           "timestamp": "55:38"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -339,8 +339,8 @@
           "timestamp": "58:40"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Summary: Why Future Sales Avoid Ribbis—The Sale Framework and Buyer's Opportunity Cost",
@@ -363,7 +363,7 @@
           "timestamp": "60:38"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 11,
       "matched": false
     }
   ],
@@ -695,5 +695,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "52:03",
+  "amud_b_micro_title": "Joint Position",
+  "shiur_start_daf": 63,
+  "shiur_start_amud": "a"
 }

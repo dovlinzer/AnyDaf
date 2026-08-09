@@ -1,12 +1,10 @@
-# Nedarim 47 — Daf Yomi Shiur
-
+[DAF:47a]
 ## Houses & Ownership
+
+
 
 ### Mishnah intro
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר לַחֲבֵירוֹ קֻוֽנָּם לְבֵיתְךָ שֶׁאֲנִי נִכְנָס, סָדְךָ שֶׁאֲנִי לוֹקֵחַ, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — מוּתָּר. קֻוֽנָּם בַּיִת זֶה שֶׁאֲנִי נִכְנָס, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — אָסוּר.
->
-> **Translation:** MISHNA: If one **says to another: Entering your house is *konam* for me, or acquiring your field is *konam* for me,** and the owner **dies or sells it to another, it is permitted** to enter the house or acquire the field, for the vow was specifically regarding the other's property. **If one says: Entering this house is *konam* for me,** and the owner **dies or sells it to another, it is forbidden,** as the vow was regarding the specific house itself.
 
 The daf opens with a *mishnah* presenting two distinct formulations of a *neder* concerning a house. In the first case, a person says to his friend, *konam le-veitecha she-ani nichnas* — your house is forbidden to me by *konam*, that I will not enter it. Similarly, *sadecha she-ani lokei'ach* — your field is forbidden for me to acquire. The *mishnah* rules: *meis o she-macharo le-acher mutar* — if the owner dies or sells the house to a third party, the prohibition is lifted. The *lashon* of the *neder* was precisely *le-veitecha*, your house; since it is no longer his house once he dies or sells it, the *neder* no longer applies.
 
@@ -28,11 +26,12 @@ A further parallel emerges from a *gemara* in Sukkah 27a, in connection with the
 
 ## Neder & possession
 
+
+
 ### Avimi's question
 
-> **Hebrew/Aramaic:** בָּעֵי אֲבִימִי: "קֻוֽנָּם לְבַיִת זֶה שֶׁאַתָּה נִכְנָס", מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר, מַהוּ? אָדָם אוֹסֵר דָּבָר שֶׁבִּרְשׁוּתוֹ לִכְשֶׁיֵּצֵא מֵרְשׁוּתוֹ, אוֹ לָא?
->
-> **Translation:** **Avimi raises a dilemma: If someone said: "Entering this house is *konam* for you," and then he died or sold it to another, what is** the *halakha*? Do we say that **a person** can **render an item in his possession forbidden** even **for** a time **after it will leave his possession, or not?**
+> **Hebrew/Aramaic:** הָאוֹמֵר לַחֲבֵירוֹ וְכוּ׳. בָּעֵי אֲבִימִי: ״קֻוֽנָּם לְבַיִת זֶה שֶׁאַתָּה נִכְנָס״, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר, מַהוּ? אָדָם אוֹסֵר דָּבָר שֶׁבִּרְשׁוּתוֹ לִכְשֶׁיֵּצֵא מֵרְשׁוּתוֹ, אוֹ לָא?
+> **Translation:** § The mishna teaches: With regard to one **who says to another:** Entering your house is *konam* for me, and the owner dies or sells the house, the prohibition is lifted. But if he said: Entering this house is *konam* for me, he remains prohibited from entering the house even after the owner dies or sells the house. **Avimi raises a dilemma:** If the owner of a house said: **Entering this house is *konam* for you,** and then **he died or sold it to another, what is** the *halakha*? Do we say that **a person** can **render an item in his possession forbidden** even **for** a time **after it will leave his possession, or not?**
 
 The *gemara* now poses a question attributed to *Avimi*. The case under discussion is *konam labayit zeh she-atah nichnas* — this house is forbidden for you to enter. The *gemara* notes that this must be referring to a house currently belonging to the person making the *neder*, because *ein adam oser davar she-eino shelo* — a person cannot render someone else's property forbidden to a third party. One can affect one's own status regarding one's own property, one's own status regarding another's property, or another person's status regarding one's own property, but one cannot alter another person's relationship to that person's own property. Therefore *konam labayit zeh* must mean: my house, which I am forbidding you to enter.
 
@@ -42,9 +41,8 @@ The *gemara* then asks: *meis o she-mecharo le-acher mahu* — what is the law i
 
 ### Rava's proof
 
-> **Hebrew/Aramaic:** אָמַר רָבָא, תָּא שְׁמַע: הָאוֹמֵר לִבְנוֹ "קֻוֽנָּם שֶׁאִי אַתָּה נֶהֱנֶה לִי", וּמֵת — יִירָשֶׁנּוּ. "בְּחַיָּיו וּבְמוֹתוֹ", וּמֵת — לֹא יִירָשֶׁנּוּ. שְׁמַע מִינַּהּ אָדָם אוֹסֵר דָּבָר שֶׁבִּרְשׁוּתוֹ לִכְשֶׁיֵּצֵא מֵרְשׁוּתוֹ.
->
-> **Translation:** **Rava said: Come** and **hear** a proof from a mishna (*Bava Kamma* 108b–109a): If **one says to his son: Benefiting from me is *konam* for you, and dies,** the son still **inherits** from **him.** If, however, the father explicitly states that benefit is forbidden both **in his lifetime and after his death, and dies,** the son **does not inherit** from **him.** Conclude from the mishna that **a person** can **render an item in his possession forbidden** even **for** a time **after it will leave his possession.**
+> **Hebrew/Aramaic:** אָמַר רָבָא, תָּא שְׁמַע: הָאוֹמֵר לִבְנוֹ ״קֻוֽנָּם שֶׁאִי אַתָּה נֶהֱנֶה לִי״, וּמֵת — יִירָשֶׁנּוּ. ״בְּחַיָּיו וּבְמוֹתוֹ״, וּמֵת — לֹא יִירָשֶׁנּוּ. שְׁמַע מִינַּהּ אָדָם אוֹסֵר דָּבָר שֶׁבִּרְשׁוּתוֹ לִכְשֶׁיֵּצֵא מֵרְשׁוּתוֹ. שְׁמַע מִינַּהּ.
+> **Translation:** **Rava said: Come** and **hear** a proof from a mishna (*Bava Kamma* 108b–109a): If **one says to his son: Benefiting from me is *konam* for you, and dies,** the son still **inherits** from **him.** If, however, the father explicitly states that benefit is forbidden both **in his lifetime and after his death, and dies,** the son **does not inherit** from **him.** Rava suggests: **Conclude from** the mishna that **a person** can **render an item in his possession forbidden** even **for** a time **after it will leave his possession.** The Gemara notes: **Conclude from** the mishna that this is so.
 
 *Rava* offers a proof from a *sugya* in *Bava Kamma*. The case is: *ha-omer livno konam she-atah neheneh li* — a father says to his son that the son is forbidden from deriving benefit from him. If the father subsequently dies, *yirashenu* — the son may inherit from him. The rationale is that at the moment of death the father is no longer a living person in the same sense, and so the inheritance, which passes at that moment, is no longer really "the father's property" in the operative sense. However, if the father added in his *lashon* the phrase *be-chayai u-ve-moti* — during my lifetime and after my death — then *bemet lo yirashenu*: the son cannot inherit, because the explicit language extended the prohibition beyond the father's lifetime. *Rava* draws the conclusion: *shema mina adam oser davar she-birshuto lichshe-yeitzei me-reshuto* — a person does indeed have the legal power to create a prohibition over property in his possession that will persist even after it leaves his possession.
 
@@ -68,45 +66,48 @@ The second difficulty the *Ran* raises is even sharper. In the *sugya* in *Bava 
 
 ## Fruits & proceeds
 
+
+
 ### Mishna case
 
-> **Hebrew/Aramaic:** תְּנַן הָתָם: "קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עָלַי", "קֻוֽנָּם הֵן עַל פִּי", "קֻוֽנָּם הֵן לְפִי" — אָסוּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן.
->
+> **Hebrew/Aramaic:** תְּנַן הָתָם: ״קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עָלַי״, ״קֻוֽנָּם הֵן עַל פִּי״, ״קֻוֽנָּם הֵן לְפִי״ — אָסוּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן.
 > **Translation:** § **We learned** in a mishna **there** (57a): If one says: **This produce is *konam* upon me,** or: **It is *konam* upon my mouth,** or: **It is *konam* for my mouth,** he is **prohibited** from eating even **its replacements,** should they be traded or exchanged, **and** anything that **grows from it** if it is replanted.
 
 A new *mishnah* is introduced from later in the tractate. The *mishnah* states: *konam peirot ha-eilu alai* — if a person declares these fruits forbidden to himself — whether phrased *al pi* or *le-fi* — then he is *assur be-chilufeihem u-ve-giduleihem*: forbidden not only from the fruits themselves but also from *chilufeihem*, the proceeds obtained by selling those fruits, and from *giduleihem*, the produce that grows from the seeds of those fruits if they are planted. This bears a structural resemblance to the world of *korbanos* and *hekdesh* — specifically *temura* — and also to *terumah*, where there is a concept of *gidulei terumah*: produce that grows from *terumah* fruit takes on *terumah* status as well, whether *mid'oraita* or *miderabanan*.
 
 ### Rami's question
 
-> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: אָמַר "קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עַל פְּלוֹנִי", מַהוּ בְּחִילּוּפֵיהֶן? מִי אָמְרִינַן גַּבֵּי דִילֵיהּ, הוֹאִיל וְאָדָם אוֹסֵר פֵּירוֹת חֲבֵירוֹ עַל עַצְמוֹ, אָדָם אוֹסֵר דָּבָר שֶׁלֹּא בָא לְעוֹלָם עַל עַצְמוֹ. גַּבֵּי חֲבֵירוֹ, הוֹאִיל וְאֵין אָדָם אוֹסֵר פֵּירוֹת חֲבֵירוֹ עַל חֲבֵירוֹ, אֵין אָדָם אוֹסֵר דָּבָר שֶׁלֹּא בָא לְעוֹלָם עַל חֲבֵירוֹ.
->
-> **Translation:** **Rami bar Ḥama raises a dilemma:** If one **said: This produce is *konam* for so-and-so, what is** the *halakha* **with regard to their replacements? Do we say: With regard to himself, since a person can render another's produce forbidden for himself,** though it is not presently in his possession, so too, **a person can render an entity that has not** yet **come into the world forbidden to himself?** Is this why the replacement produce and anything that grows from it is forbidden to him, even if it did not yet exist when he took the vow? If so, **with regard to another, since a person cannot render another's produce forbidden to another,** i.e., to that owner himself, similarly **one cannot render an entity that has not** yet **come into the world forbidden to another.** The produce's replacements would therefore be permitted to him.
-
 *Rami Bar Chama* poses a question on this *mishnah*. The *mishnah* describes a case where the person forbids the fruits to himself. But what if a person says *konam peirot ha-eilu al ploni* — these fruits are forbidden to another person? Does the *halacha* of *chilufeihem* — the prohibition extending to the proceeds — still apply in that case? Can this additional *chumra* operate when the *neder* is directed at someone else?
+
+> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: אָמַר ״קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עַל פְּלוֹנִי״, מַהוּ בְּחִילּוּפֵיהֶן? מִי אָמְרִינַן גַּבֵּי דִילֵיהּ, הוֹאִיל וְאָדָם אוֹסֵר פֵּירוֹת חֲבֵירוֹ עַל עַצְמוֹ, אָדָם אוֹסֵר דָּבָר שֶׁלֹּא בָא לְעוֹלָם עַל עַצְמוֹ. גַּבֵּי חֲבֵירוֹ, הוֹאִיל וְאֵין אָדָם אוֹסֵר פֵּירוֹת חֲבֵירוֹ עַל חֲבֵירוֹ, אֵין אָדָם אוֹסֵר דָּבָר שֶׁלֹּא בָא לְעוֹלָם עַל חֲבֵירוֹ.
+> **Translation:** **Rami bar Ḥama raises a dilemma:** If one **said: This produce is *konam* for so-and-so, what is** the *halakha* **with regard to their replacements? Do we say: With regard to himself, since a person can render another’s produce forbidden for himself,** though it is not presently in his possession, so too, **a person can render an entity that has not** yet **come into the world forbidden to himself?** Is this why the replacement produce and anything that grows from it is forbidden to him, even if it did not yet exist when he took the vow? If so, **with regard to another, since a person cannot render another’s produce forbidden to another,** i.e., to that owner himself, similarly **one cannot render an entity that has not** yet **come into the world forbidden to another.** The produce’s replacements would therefore be permitted to him.
 
 ### Rami's analogy
 
+
 *Rami Bar Chama* builds his question on an analogy. He notes two parallel limitations on the power of the *noder*. First: just as a person can make someone else's property (*peirot chaveiro*) forbidden to himself, but *cannot* make someone else's property forbidden to that other person — *ein adam oser peirot chaveiro al chaveiro* — so too there may be an asymmetry regarding *chilufeihem*. Second: *chilufeihem* has a character of *davar shelo ba l'olam* — something that does not yet exist. At the moment the *neder* is declared, the proceeds have not yet been generated; the money has not yet been spent for that purpose and has no connection to the *issur*. The purchase and the consequent designation of that money as *chilufei issur* will only occur later. Just as a person can make a *davar shelo ba l'olam* forbidden to himself — which the *mishnah* explicitly permits — but may not have the same power to make it forbidden to someone else, so too with *chilufeihem*. The analogy thus runs: one's power over another person's property and one's power over a *davar shelo ba l'olam* are parallel limitations — both represent things outside the *noder*'s full control. For oneself, the *halacha* is lenient in both directions; for another person, both limitations may apply.
+
+It is worth appreciating why *davar shelo ba l'olam* functions as a limitation here at all. The idea is not simply that the proceeds do not exist yet in some abstract sense; it is that they are, in a meaningful way, outside anyone's current control. In that respect, *davar shelo ba l'olam* operates almost like a form of third-party ownership — the money has not yet been spent, has not yet been designated for this purchase, and in a sense belongs to no one in relation to this *issur*. This is why the *noder* can still make it forbidden to himself: just as one can make someone else's property forbidden to oneself even though one has no ownership over it, one can similarly bind oneself to something that does not yet exist. But just as one cannot make someone else's property forbidden to that other person — because the object is not under one's control — one equally cannot impose a prohibition on a *davar shelo ba l'olam* upon another person, for the same reason. Both limitations, in other words, reflect a single underlying principle: the *noder* can extend his own *issur* broadly onto himself, but his reach over others is bounded by what he actually controls.
 
 When it comes to making something *assur* to oneself, the *noder* has broad latitude — the principle is almost *ha-peh she-asar ha-peh she-hitir*, that one can create *issurim* for oneself. One can make someone else's property forbidden to oneself, and one can make a *davar shelo ba l'olam* forbidden to oneself. When making something *assur* to another person, however, one lacks the power to make that person's own property forbidden to him, and — by the same reasoning — one may equally lack the power to extend the prohibition to *chilufeihem*, which have no current connection to the *issur* and are in that sense analogous to a *davar shelo ba l'olam* under third-party ownership.
 
+[DAF:47b]
 ### Two possibilities
 
-> **Hebrew/Aramaic:** אוֹ דִילְמָא מִשּׁוּם דְּחִילּוּפִין כְּגִידּוּלִין דָּמֵי, לָא שְׁנָא הוּא וְלָא שְׁנָא חֲבֵרוֹ.
->
+> **Hebrew/Aramaic:** אוֹ דִילְמָא מִשּׁוּם דְּחִילּוּפִין כְּגִידּוּלִין דָּמֵי, לָא שְׁנָא הוּא וְלָא שְׁנָא חֲבֵרוֹ.
 > **Translation:** **Or perhaps** the prohibition on replacement produce in the mishna is **due to** the fact **that replacements** of the produce are viewed as being **like that which grows** from them? They are both forbidden because they derive from the forbidden produce. If this is the case, it **is no different** for **him and** it **is no different** for **another.** Neither may derive benefit from the replacements.
 
 The *gemara* thus presents two possibilities. The first: *chilufeihem* should be treated like *peirot chaveiro* — as something subject to the asymmetry between *al atzmo* and *al chaveiro* — in which case the prohibition on *chilufeihem* would operate only when the person is making the fruits forbidden to himself, but not when he is making them forbidden to someone else. The second possibility: *o dilma mishum de-chilufin ke-gidulin dami* — perhaps *chilufin* are structurally comparable to *gidulin*. Just as the produce that grows from the forbidden fruit is forbidden universally — regardless of whether the original *neder* was *al atzmo* or *al chaveiro* — because *gidulin* and *chilufin* are both listed together in the same *mishnah* and both partake of the character of *davar shelo ba l'olam*, perhaps *la shena hu ve-la shena chaveiro*: no distinction should be drawn between the case of the person himself and the case of his friend.
+
+It is worth pausing to note what makes this comparison between *chilufin* and *gidulin* precise, and where it breaks down in a surprising way. *Gidulin* — the produce that has not yet grown from the forbidden fruit — is unambiguously a *davar shelo ba l'olam*: the fruit does not yet exist at all. *Chilufin*, by contrast, occupies a stranger intermediate position. The physical money that will eventually be used to purchase the forbidden fruit exists already as an object in the world; the coin or the bill is there. What does not yet exist is that money in its capacity as *chilufei peirot issur* — money-that-has-been-spent-in-exchange-for-forbidden-fruit. That status, that designation, has not yet been conferred on it, because the transaction has not yet taken place. The object exists, but the object-with-this-status does not. In that sense, and in that sense only, *chilufin* shares with *gidulin* the character of *davar shelo ba l'olam*, and the *gemara*'s question is whether that shared character is sufficient to bring *chilufin* under the same rule.
 
 ---
 
 ## Wife & creditors
 
-### Wife case
 
-> **Hebrew/Aramaic:** אָמַר רַב אַחָא בַּר מִנְיוֹמֵי, תָּא שְׁמַע: הָאוֹמֵר לְאִשְׁתּוֹ "קֻוֽנָּם שֶׁאֲנִי נֶהֱנֶה לִיךְ", לוֹוָה וּבַעְלֵי חוֹבִין בָּאִים וְנִפְרָעִים.
->
-> **Translation:** **Rav Aḥa bar Minyumi said: Come** and **hear** a proof from a *baraita*: With regard to **one who says to his wife: Benefiting from me is *konam* for you, she may** nevertheless **borrow** money to sustain herself, **and the creditors can come and collect** her debts from her husband.
+
+### Wife case
 
 *Rav Acha Bar Minyumi* offers a proof toward resolving *Rami Bar Chama*'s question. The case is: *ha-omer le-ishto konam she-ani neheneh lach* — a husband says to his wife that he cannot derive benefit from her. The *mishnah* then states that *lovin u-va'alei chovot ba'im ve-nifra'im* — creditors can come and collect the debt from the husband. The *gemara* asks: how does this work?
 
@@ -116,31 +117,30 @@ Before proceeding, the *Ran* notes that this *neder* must have been made before 
 
 ### Creditor question
 
-> **Hebrew/Aramaic:** מַאי טַעְמָא בַּעְלֵי חוֹבִין נִפְרָעִין — לָאו מִשּׁוּם דְּחִילּוּפִין לָאו כְּגִידּוּלִין דָּמֵי?
->
-> **Translation:** **What is the reason** that **the creditors can collect** from the husband? **Is it not because** she benefits only indirectly, and it must be **that replacements,** i.e., the creditors' money, **are not like that which grows** from the original item?
-
 The *gemara* then asks: *mai ta'ama ba'alei chovot nifra'im* — on what basis can the creditors extract the debt from the husband, given that he took a *neder* not to benefit the wife? When the husband pays off his wife's debts, is that not benefiting her? And if so, would those funds not constitute *chilufei issur* — an exchange deriving from the forbidden *hana'ah*? The *gemara* asks: *lav mishum de-chilufin lav ke-gidulin dami* — doesn't this suggest that *chilufin* are not like *gidulin*? The argument is that if *chilufin* functioned like *gidulin* — extending the prohibition universally — then the husband's paying the wife's creditors would be *assur* to her just as the original *hana'ah* would be. The fact that it is permitted would then suggest that *chilufin* are not analogous to *gidulin* and do not extend the prohibition to the second party.
+
+> **Hebrew/Aramaic:** אָמַר רַב אַחָא בַּר מִנְיוֹמֵי, תָּא שְׁמַע: הָאוֹמֵר לְאִשְׁתּוֹ ״קֻוֽנָּם שֶׁאֲנִי נֶהֱנֶה לִיךְ״, לוֹוָה וּבַעְלֵי חוֹבִין בָּאִין וְנִפְרָעִין. מַאי טַעְמָא בַּעְלֵי חוֹבִין נִפְרָעִין — לָאו מִשּׁוּם דְּחִילּוּפִין לָאו כְּגִידּוּלִין דָּמֵי?
+> **Translation:** **Rav Aḥa bar Minyumi said: Come** and **hear** a proof from a *baraita*: With regard to **one who says to his wife: Benefiting from me is *konam* for you, she may** nevertheless **borrow** money to sustain herself, **and the creditors can come and collect** her debts from her husband. **What is the reason** that **the creditors can collect** from the husband? **Is it not because** she benefits only indirectly, and it must be **that replacements,** i.e., the creditors’ money, **are not like that which grows** from the original item?
 
 ### First answer
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: דִּילְמָא לְכַתְּחִילָּה הוּא דְּלָא, וְאִי עֲבַד — עֲבַד.
->
-> **Translation:** **Rava said:** This is not proof: **Perhaps it is** the case **that one should not** benefit from replacements ***ab initio*, but if one did** it, it is **done** after the fact.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: דִּילְמָא לְכַתְּחִילָּה הוּא דְּלָא, וְאִי עֲבַד — עֲבַד.
+> **Translation:** **Rava said:** This is not proof: **Perhaps it is** the case **that one should not** benefit from replacements ***ab initio*, but if one did** it, it is **done** after the fact. Since the wife lacks any other means to support herself, the case is considered to be after the fact, and it is permitted for her to benefit indirectly. Still, replacements of an item are considered to be like that which grows from it *ab initio*.
 
 *Rava* rejects this as a conclusive proof. He says: *dilma lechatchila hu de-lo ve-im avad avad* — perhaps the distinction is only *lechatchila* and *bedi'avad*. That is, *lechatchila* the husband should not pay the wife's creditors in such a way that she benefits, but *bedi'avad*, if he did so, it stands. The reason is that when the husband pays off the creditor, the *hana'ah* to the wife is already two steps removed — the wife borrowed money, the creditor comes, and the husband pays the creditor. It is not a direct transfer of benefit from husband to wife, but something more triangular. Because of that remove, it is not fully captured by the *neder* in the same way — it is only *lechatchila* to be avoided, but not *assur bedi'avad*. Thus, the fact that the creditors can collect does not prove that *chilufin* are categorically different from *gidulin*; it may simply reflect the *bedi'avad* leniency of a two-step removal.
 
 ### Rava's orlah proof
 
-> **Hebrew/Aramaic:** אֶלָּא, תָּא שְׁמַע: הַמְקַדֵּשׁ בְּעׇרְלָה — אֵינָהּ מְקוּדֶּשֶׁת. מְכָרָן וְקִידֵּשׁ בִּדְמֵיהֶן — הֲרֵי זוֹ מְקוּדֶּשֶׁת. הָכָא נָמֵי: לְכַתְּחִילָּה הוּא דְּלָא, וְאִי עֲבַד — עֲבַד.
->
-> **Translation:** **Rather, come** and **hear** a proof from another mishna (*Kiddushin* 56b): With regard to **one who betroths** a woman **with** fruit of ***orla*,** i.e., fruit of the first three years of a tree's growth, from which it is forbidden to benefit, **she is not betrothed** because the fruits have no value. Betrothal can be performed only with an object worth at least one *peruta*. But if **he sold them and betrothed her with the money** he received, **she is betrothed.** Evidently, replacements of a forbidden item are permitted. The Gemara responds: **Here also, one should not** benefit from the replacement items given in exchange for the *orla **ab initio*****, but if one did** it, it is **done** after the fact.
-
 Since *Rav Acha Bar Minyumi*'s case does not constitute a decisive proof, *Rava* brings a different one: *ha-mekadesh be-orlah eina mekudeshet* — if a man attempts to betroth a woman using fruits of *orlah* as *kiddushin*, the betrothal does not take effect. *Orlah* — the fruit of a tree during its first three years — is *assur be-hana'ah*, and so although fruit generally has the value of *shaveh perutah* required for *kiddushin*, the woman cannot receive *hana'ah* from it. The analogy between *issurei hana'ah* of *orlah* and the *issurei hana'ah* created by *nedarim* makes this case instructive.
+
+> **Hebrew/Aramaic:** אֶלָּא, תָּא שְׁמַע: הַמְקַדֵּשׁ בְּעׇרְלָה — אֵינָהּ מְקוּדֶּשֶׁת. מְכָרָן וְקִידֵּשׁ בִּדְמֵיהֶן — הֲרֵי זוֹ מְקוּדֶּשֶׁת. הָכָא נָמֵי: לְכַתְּחִילָּה הוּא דְּלָא, וְאִי עֲבַד — עֲבַד.
+> **Translation:** **Rather, come** and **hear** a proof from another mishna (*Kiddushin* 56b): With regard to **one who betroths** a woman **with** fruit of ***orla*,** i.e., fruit of the first three years of a tree’s growth, from which it is forbidden to benefit, **she is not betrothed** because the fruits have no value. Betrothal can be performed only with an object worth at least one *peruta*. But if **he sold them and betrothed her with the money** he received, **she is betrothed.** Evidently, replacements of a forbidden item are permitted. The Gemara responds: **Here also, one should not** benefit from the replacement items given in exchange for the *orla **ab initio*****, but if one did** it, it is **done** after the fact. Replacements of an item may still be considered to be like that which grows from it *ab initio*.
 
 ### Orlah explained
 
-Getting married constitutes *hana'ah*, as the tractate *Kiddushin* discusses extensively — cases range from a woman declaring that her *hana'ah* from watching a man dance shall serve as *kiddushin* money, to the extreme case of *adam chashuv*, where the woman's *hana'ah* from the distinguished man's willingness to accept a gift from her is itself the basis of the betrothal. Given that accepting *kiddushin* is *hana'ah*, and *orlah* is *assur be-hana'ah*, even if the woman accepts the *orlah* fruit she receives no valid *shaveh perutah* and the *kiddushin* fails. However, *micharan ve-kidesh bi-dmeihem harei zo mekudeshet* — if he first sold the *orlah* — even though doing so was itself an illegal act — and then used the money received from that sale as *kiddushin*, the betrothal is valid.
+
+Getting married constitutes *hana'ah*, as the tractate *Kiddushin* discusses extensively — cases range from a woman declaring that her *hana'ah* from watching a man dance shall serve as *kiddushin* money, to the extreme case of *adam chashuv*, where the woman's *hana'ah* from the distinguished man's willingness to accept a gift from her is itself the basis of the betrothal. Given that accepting *kiddushin* is *hana'ah*, and *orlah* is *assur be-hana'ah*, even if the woman accepts the *orlah* fruit she receives no valid *shaveh perutah* and the *kiddushin* fails. However, *micharan ve-kidesh bi-dmeihem harei zo mekudeshet* — if he first sold the *orlah* — even though doing so was itself an illegal act — and then used the money received from that sale as *kiddushin*, the betrothal is valid. This is precisely what makes the case striking: the proceeds of that sale are *chilufei issur*, the exchanged value of a forbidden item, and yet the *kiddushin* succeeds. It would seem, then, that *chilufei issur* does not carry the prohibition forward in the same way the original *issur* does — a question the gemara will develop in the next step.
 
 ### Two-step removal
 
@@ -158,6 +158,8 @@ A further point emerges regarding *orlah*. Since *orlah* must be burned — the 
 
 ## Rambam & inheritance
 
+
+
 ### Rambam ruling
 
 Returning to the question raised earlier concerning the son forbidden from deriving benefit from his father's estate, the *Rambam* in *Hilchos Nedarim*, Perek 5, *halacha* 7 states: *asar bno be-hana'ah* — a person renders his son forbidden from deriving benefit from him — and the *Rambam* introduces a case where it is stated that if the son is a *talmid chacham* a specified mechanism may operate to permit him access. Moving to *halacha* 8, the *Rambam* rules: *zeh ha-ben ha-asur be-yerushat aviv im natan yerushat aviv le-achav o le-vanav harei zeh mutar* — the son who is forbidden from inheriting from his father may give the inheritance to his brothers or to his own children, and this is permitted.
@@ -174,19 +176,20 @@ The underlying tension in the *Ra'avad*'s objection points to a deeper unresolve
 
 ## Cherem & communal
 
-### Cherem cases
 
-> **Hebrew/Aramaic:** מַתְנִי׳ "הֲרֵינִי עָלֶיךָ חֵרֶם" — הַמּוּדָּר אָסוּר. "הֲרֵי אַתְּ עָלַי חֵרֶם" — הַנּוֹדֵר אָסוּר. "הֲרֵינִי עָלֶיךָ וְאַתְּ עָלַי" — שְׁנֵיהֶם אֲסוּרִין, וּשְׁנֵיהֶם מוּתָּרִין בְּדָבָר שֶׁל עוֹלֵי בָּבֶל, שֶׁהֶפְקִירוּ עוֹלֵי בָּבֶל לְכׇל יִשְׂרָאֵל.
->
-> **Translation:** MISHNA: If someone says to another: **I am hereby** forbidden **to you** like an item **dedicated** to the Temple, then **the one prohibited by** the **vow is prohibited** from benefiting from the possessions of the one who took the vow. If someone says: **You are hereby** forbidden **to me** like an item **dedicated** to the Temple, then **the one who took the vow is prohibited** from benefiting from the possessions of the other. If he says: **I am hereby** forbidden **to you and you are** hereby forbidden **to me** like an item dedicated to the Temple, **both are prohibited** from benefiting from the possessions of the other. **But** it is **permitted for both of them** to benefit **from** the **objects belonging to those who ascended from Babylonia,** i.e., common property of the nation as a whole, **because those who ascended from Babylonia** designated it **as belonging to all of Israel.**
+
+### Cherem cases
 
 The *mishnah* now introduces cases involving the formula of *cherem*. *Hareini alecha cherem* — I am to you *cherem*, meaning my property is entirely forbidden to you — *ha-mudar asur*: the one upon whom the prohibition falls is forbidden. *Harei at alai cherem* — you are to me *cherem* — *ha-noder asur*: now the one who declared the *neder* is restricted. *Hareini alecha ve-at alai* — I am to you and you are to me — *shneihem asurim*, both are forbidden in their mutual restrictions, *ve-shneihem mutarim be-davar shel Olei Bavel* — yet both are permitted regarding things of *Olei Bavel* — *she-hefkirum Olei Bavel le-chol Yisrael*: because the returnees from Babylonia designated that property as belonging to all of Israel, it is essentially *hefker* for the entire Jewish people, and since neither party has individual ownership rights over it, neither has the power to forbid it to the other.
 
+> **Hebrew/Aramaic:** מַתְנִי׳ ״הֲרֵינִי עָלֶיךָ חֵרֶם״ — הַמּוּדָּר אָסוּר. ״הֲרֵי אַתְּ עָלַי חֵרֶם״ — הַנּוֹדֵר אָסוּר. ״הֲרֵינִי עָלֶיךָ וְאַתְּ עָלַי״ — שְׁנֵיהֶם אֲסוּרִין, וּשְׁנֵיהֶם מוּתָּרִין בְּדָבָר שֶׁל עוֹלֵי בָּבֶל,
+> **Translation:** MISHNA: If someone says to another: **I am hereby** forbidden **to you** like an item **dedicated** to the Temple, then **the one prohibited by** the **vow is prohibited** from benefiting from the possessions of the one who took the vow. If someone says: **You are hereby** forbidden **to me** like an item **dedicated** to the Temple, then **the one who took the vow is prohibited** from benefiting from the possessions of the other. If he says: **I am hereby** forbidden **to you and you are** hereby forbidden **to me** like an item dedicated to the Temple, **both are prohibited** from benefiting from the possessions of the other. **But** it is **permitted for both of them** to benefit **from** the **objects belonging to those who ascended from Babylonia,** i.e., common property of the nation as a whole, which is not considered to be the property of any individual.
+
+> **Hebrew/Aramaic:** וַאֲסוּרִים בְּדָבָר שֶׁל אוֹתָהּ הָעִיר. וְאֵיזֶהוּ דָּבָר שֶׁל עוֹלֵי בָּבֶל — כְּגוֹן הַר הַבַּיִת, וְהָעֲזָרוֹת, וְהַבּוֹר שֶׁבְּאֶמְצַע הַדֶּרֶךְ. וְאֵיזֶהוּ דָּבָר שֶׁל אוֹתָהּ הָעִיר — כְּגוֹן הָרְחָבָה, וְהַמֶּרְחָץ, וּבֵית הַכְּנֶסֶת, וְהַתֵּיבָה, וְהַסְּפָרִים. וְהַכּוֹתֵב חֶלְקוֹ לַנָּשִׂיא.
+> **Translation:** **But it is prohibited** for them to benefit **from objects of that city,** which are considered to be jointly owned by all its residents. **And what are** examples of **objects belonging to those who ascended from Babylonia? For example, the Temple Mount, and the** Temple **Courtyards, and the** water **cistern in the middle of the road. And what are objects of that city? For example, the** city **square, and the bathhouse, and the synagogue, and the ark** which houses the Torah scrolls, **and the** Torah **scrolls. And one who writes,** i.e., signs, **his portion** of the shared objects of that city over **to the *Nasi*.**
+
 ### Olei bavel defined
 
-> **Hebrew/Aramaic:** וַאֲסוּרִים בְּדָבָר שֶׁל אוֹתָהּ הָעִיר. וְאֵיזֶהוּ דָּבָר שֶׁל עוֹלֵי בָּבֶל — כְּגוֹן הַר הַבַּיִת, וְהָעֲזָרוֹת, וְהַבּוֹר שֶׁבְּאֶמְצַע הַדֶּרֶךְ. וְאֵיזֶהוּ דָּבָר שֶׁל אוֹתָהּ הָעִיר — כְּגוֹן הָרְחָבָה, וְהַמֶּרְחָץ, וּבֵית הַכְּנֶסֶת, וְהַתֵּיבָה, וְהַסְּפָרִים.
->
-> **Translation:** **But it is prohibited** for them to benefit **from objects of that city,** which are considered to be jointly owned by all its residents. **And what are** examples of **objects belonging to those who ascended from Babylonia? For example, the Temple Mount, and the** Temple **Courtyards, and the** water **cistern in the middle of the road. And what are objects of that city? For example, the** city **square, and the bathhouse, and the synagogue, and the ark** which houses the Torah scrolls, **and the** Torah **scrolls.**
 
 What constitutes property of *Olei Bavel*? The *mishnah* lists: *Har HaBayit, ha-azarot, ve-ha-bor she-be-emtza ha-derech* — the Temple Mount, the outer courtyards, and the wells along the road. *Har HaBayit* is owned by the entire Jewish people; no individual has the power to forbid it to another, since neither possesses individual proprietary rights. *Ha-azarot* — the extensions of *Har HaBayit* — represent a slightly distinct category, a point worth examining further. The *bor she-be-emtza ha-derech* refers to watering stations along the pilgrim routes — rest stops, *olei ha-regel* would pass through them and need to water their animals, and these too were established as communal property for all of Israel.
 
@@ -198,6 +201,7 @@ The *mishnah* continues: *ve-asurim be-davar shel otah ha'ir* — but both are f
 
 ### Radical implication
 
+
 The radical implication of the *mishnah*'s ruling is striking. If two people declare mutual *cherem* on each other, and communal city property — including the streets — belongs to both of them as joint owners, then each has effectively forbidden the other from using the shared city infrastructure. This would include the streets themselves. A person who is subject to the other's *cherem* could not leave his house without using the streets, which now fall under the prohibition. The *mishnah* is therefore describing a situation in which mutual *cherem* renders both parties effectively housebound with respect to all shared municipal facilities. This is admittedly an extreme outcome, but it follows directly from taking seriously the logic of communal ownership: precisely because both parties are genuine shareholders in the city's public property, each has the power to impose a *neder*-based restriction on the other's use of their common share.
 
 ### Rabbi Elazar consistency
@@ -208,34 +212,30 @@ This raises a question about consistency with an earlier position in the *masech
 
 ## Writing to Nasi
 
+
+
 ### Ktiva solution
 
-> **Hebrew/Aramaic:** וְהַכּוֹתֵב חֶלְקוֹ לַנָּשִׂיא.
->
-> **Translation:** **And one who writes,** i.e., signs, **his portion** of the shared objects of that city over **to the *Nasi*.**
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: אֶחָד כּוֹתֵב לַנָּשִׂיא, וְאֶחָד כּוֹתֵב לַהֶדְיוֹט. מָה בֵּין כּוֹתֵב לַנָּשִׂיא לַכּוֹתֵב לַהֶדְיוֹט? שֶׁהַכּוֹתֵב לַנָּשִׂיא אֵין צָרִיךְ לְזַכּוֹת, לַהֶדְיוֹט צָרִיךְ לְזַכּוֹת. וַחֲכָמִים אוֹמְרִים: אֶחָד זֶה וְאֶחָד זֶה צְרִיכִין לְזַכּוֹת, לֹא דִּבְּרוּ בְּנָשִׂיא אֶלָּא בַּהֹוֶה. רַבִּי יְהוּדָה אוֹמֵר: אֵין אַנְשֵׁי גָלִיל צְרִיכִין לִכְתּוֹב, שֶׁכְּבָר כָּתְבוּ אֲבוֹתֵיהֶן עַל יְדֵיהֶן.
+> **Translation:** **Rabbi Yehuda says:** This is the *halakha* with regard to **both** one who **writes** his portion over **to the *Nasi* and one** who **writes** it over **to a common person.** Rabbi Yehuda adds: **What** is the difference **between** one who **writes** it over **to the *Nasi* and** one who **writes** it over **to a common person? That one who writes** it **to the *Nasi* need not** formally **confer possession** of the item, whereas one who writes it over **to a common person must confer possession** to him. **And the Rabbis say: Both this** one **and that** one **must confer possession,** and **they** specifically **mentioned the *Nasi* only** so as to speak **in the present,** addressing situations that were prevalent. **Rabbi Yehuda says: The people of Galilee do not have to write** their portion over to the *Nasi* **because their fathers already wrote** it **for them,** declaring that all the public property belongs to him.
+
+> **Hebrew/Aramaic:** גְּמָ׳ אַמַּאי מִיתְּסַר? אָמַר רַב שֵׁשֶׁת, הָכִי קָתָנֵי: וּמָה תַּקָּנָתָן — יִכְתְּבוּ חֶלְקָן לַנָּשִׂיא.
+> **Translation:** GEMARA: The mishna appears to teach that one who is prohibited by a vow from benefiting from another may not benefit from property written over to the *Nasi*. The Gemara asks: **Why is it forbidden? Rav Sheshet said: This is what** the mishna **is teaching: And what is their remedy,** i.e., what can be done to enable the forbidden individuals to benefit from communal property? **They should write their portion** over **to the *Nasi*,** thereby relinquishing their shares in the communal property.
+
 
 The *mishnah* presents a practical solution to the problem of mutual *cherem* locking both parties out of communal city property: *ha-kotev chelko la-nasi* — a person writes over his share in municipal property to the *Nasi*, the governor. By executing a *ktiva*, a document ceding his share in these public facilities to a designated third party, the person removes himself from the category of joint owner. Once he no longer holds a share, his *cherem* declaration cannot reach the other party's use of property in which he himself has no stake. The *Nasi* is identified as an ideal recipient for this transfer precisely because he functions as a natural representative figure.
 
 ### Rabbi Yehuda view
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: אֶחָד כּוֹתֵב לַנָּשִׂיא, וְאֶחָד כּוֹתֵב לַהֶדְיוֹט. מָה בֵּין כּוֹתֵב לַנָּשִׂיא לַכּוֹתֵב לַהֶדְיוֹט? שֶׁהַכּוֹתֵב לַנָּשִׂיא אֵין צָרִיךְ לְזַכּוֹת, לַהֶדְיוֹט צָרִיךְ לְזַכּוֹת.
->
-> **Translation:** **Rabbi Yehuda says:** This is the *halakha* with regard to **both** one who **writes** his portion over **to the *Nasi* and one** who **writes** it over **to a common person.** Rabbi Yehuda adds: **What** is the difference **between** one who **writes** it over **to the *Nasi* and** one who **writes** it over **to a common person? That one who writes** it **to the *Nasi* need not** formally **confer possession** of the item, whereas one who writes it over **to a common person must confer possession** to him.
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: אֶחָד כּוֹתֵב לַנָּשִׂיא וְאֶחָד כּוֹתֵב לַהֶדְיוֹט, וּמָה בֵּין כּוֹתֵב לַנָּשִׂיא לְכוֹתֵב לַהֶדְיוֹט? הַכּוֹתֵב לַנָּשִׂיא אֵין צָרִיךְ לְזַכּוֹת, וְהַכּוֹתֵב לַהֶדְיוֹט צָרִיךְ לְזַכּוֹת. וַחֲכָמִים אוֹמְרִים: אֶחָד זֶה וְאֶחָד זֶה — צְרִיכִים לְזַכּוֹת, לֹא דִּבְּרוּ בְּנָשִׂיא אֶלָּא בַּהֹוֶה.
+> **Translation:** The Gemara continues its quotation from the mishna: This is the *halakha* with regard to **both** one who **writes** his portion over **to the *Nasi* and one** who **writes** it over **to a common person.** Rabbi Yehuda adds: **What** is the difference **between** one who **writes** it over **to the *Nasi* and** one who **writes** it over **to a common person? That one who writes** it **to the *Nasi* need not** formally **confer possession** of the item, whereas one who writes it over **to a common person must confer possession** to him. **And the Rabbis say: Both this** one **and that** one **must confer possession,** and **they** specifically **mentioned the *Nasi* only** so as to speak **in the present.**
 
 *Rabbi Yehuda* rules: *echad ha-kotev la-nasi ve-echad ha-kotev la-hedyot* — whether writing to the *Nasi* or to a commoner, the mechanism works. However, *Rabbi Yehuda* draws a procedural distinction: *she-ha-kotev la-nasi ein tzarich lizkot* — when writing over one's share to the *Nasi*, no formal act of *zechiya*, of acquisition by the recipient, is required. But *la-hedyot tzarich lizkot* — when writing to an ordinary person, a *hedyot*, the transfer requires an actual act of acquisition on the recipient's part.
 
 ### Rabbis' response
 
-> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֶחָד זֶה וְאֶחָד זֶה צְרִיכִין לְזַכּוֹת, לֹא דִּבְּרוּ בְּנָשִׂיא אֶלָּא בַּהֹוֶה.
->
-> **Translation:** **And the Rabbis say: Both this** one **and that** one **must confer possession,** and **they** specifically **mentioned the *Nasi* only** so as to speak **in the present,** addressing situations that were prevalent.
-
 The *Chachamim* disagree: *echad zeh ve-echad zeh tzrichim lizkot* — both the *Nasi* and the *hedyot* require an actual act of *zechiya* for the transfer to be valid. The *Chachamim* add: *lo dibru ba-nasi ela ba-hoveh* — the *mishnah* mentions the *Nasi* not because of any special legal status he holds but simply because it is the realistic and customary way of doing it. There is no substantive *halachic* distinction between writing to the *Nasi* and writing to any other person.
 
 ### Galil exemption
-
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: אֵין אַנְשֵׁי גָלִיל צְרִיכִין לִכְתּוֹב, שֶׁכְּבָר כָּתְבוּ אֲבוֹתֵיהֶן עַל יְדֵיהֶן.
->
-> **Translation:** **Rabbi Yehuda says: The people of Galilee do not have to write** their portion over to the *Nasi* **because their fathers already wrote** it **for them,** declaring that all the public property belongs to him.
 
 *Rabbi Yehuda* further rules that *ein anshei Galil tzrichim lichtov* — the residents of the *Galil* do not need to execute this writing at all. The reason: *she-kevar katvu avoteihem al yadeihem* — their ancestors already signed over the relevant property in a similar manner generations ago. Since the land arrangements in the *Galil* were already transferred through prior generations' agreements, the matter is already settled for the inhabitants of that region, and no further document is needed.

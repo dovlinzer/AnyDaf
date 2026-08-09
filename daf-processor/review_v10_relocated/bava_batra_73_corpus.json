@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Included vs. Excluded",
+    "candidates": [
+      "New Perek Intro",
+      "Mishnah: Boat Sale",
+      "Included vs. Excluded",
+      "Kol Mah Shebetochah",
+      "Toran: The Mast",
+      "Nes: The Sails",
+      "Ugin: Anchors",
+      "Manhigin: Oars"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah: Boat Sale",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah covering both included and excluded items plus the 'kol mah shebetochah' clause, and candidate 1 ('Mishnah: Boat Sale') is the section whose prose directly discusses the Mishnah's list of included items (toran, nes, ugin, manhiginosah), making it the best home for the Mishnah text itself.",
+      "second_heading": "Toran: The Mast",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara defining 'toran' as iskarya with the Ezekiel proof-text, then 'nes' as adra, then 'ogin' via Rabbi Chiyya \u2014 beginning with the mast definition, which matches candidate 4 ('Toran: The Mast') whose prose discusses exactly this Gemara passage and its biblical source.",
+      "current_heading": "Included vs. Excluded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Manhigin: Oars",
+    "candidates": [
+      "Kol Mah Shebetochah",
+      "Toran: The Mast",
+      "Nes: The Sails",
+      "Ugin: Anchors",
+      "Manhigin: Oars",
+      "Additional Items",
+      "Movables with Chattel",
+      "Rashbam's Framework",
+      "Rashbam on Gifts",
+      "Betzi vs. Dugit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage defines 'manhigin' as oars (meshotin) via Rabbi Abba's statement and two biblical prooftexts from Ezekiel, which is precisely what candidate 4's prose describes.",
+      "chosen_heading": "Manhigin: Oars",
+      "current_heading": "Manhigin: Oars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Betzi vs. Dugit",
+    "candidates": [
+      "Additional Items",
+      "Movables with Chattel",
+      "Rashbam's Framework",
+      "Rashbam on Gifts",
+      "Betzi vs. Dugit",
+      "Regional Terminology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 selling a ship includes the gangway (iskala) and water tank, plus Rabbi Natan's bitzit and Sumakhos's dugit \u2014 is precisely what the 'Additional Items' prose discusses, introducing these items before the conceptual digression about Rabbi Natan and Sumakhos's dispute.",
+      "chosen_heading": "Additional Items",
+      "current_heading": "Betzi vs. Dugit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Regional Terminology",
+    "candidates": [
+      "Betzi vs. Dugit",
+      "Regional Terminology",
+      "Seafarers' Stories",
+      "Wave & Divine Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that Rabbi Natan and Sumchus used different regional terms (Babylonian 'butzit' vs. Eretz Yisrael 'dugit') for the same small boat, which matches exactly the 'Regional Terminology' section's prose about geographical linguistic differences.",
+      "chosen_heading": "Regional Terminology",
+      "current_heading": "Regional Terminology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Wave & Divine Names",
+    "candidates": [
+      "Seafarers' Stories",
+      "Wave & Divine Names",
+      "Aggada Interpretation",
+      "Maharsha: Nations",
+      "HaGra: Yetzer Hara",
+      "Wave Measurements",
+      "Lifted to Stars"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Lifted to Stars",
+    "candidates": [
+      "Aggada Interpretation",
+      "Maharsha: Nations",
+      "HaGra: Yetzer Hara",
+      "Wave Measurements",
+      "Lifted to Stars",
+      "Wave Dialogue",
+      "Sand Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage reports Rabba's account of wave measurements (300 parasangs between waves, 300 parasangs height) and the lifting by a wave to see a star, which corresponds exactly to the 'Wave Measurements' section's prose discussing these same numerical figures and hyperbolic scale, while the current placement under 'Lifted to Stars' covers only the second half of the passage.",
+      "chosen_heading": "Wave Measurements",
+      "current_heading": "Lifted to Stars",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Sand Boundary",
+    "candidates": [
+      "Wave Dialogue",
+      "Sand Boundary",
+      "Hormin Running",
+      "Mule Acrobatics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the wave's reply about the sand boundary and the Jeremiah verse, which directly matches the 'Sand Boundary' section's prose describing the other wave's response and the divine decree limiting the sea.",
+      "chosen_heading": "Sand Boundary",
+      "current_heading": "Sand Boundary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Mule Acrobatics",
+    "candidates": [
+      "Hormin Running",
+      "Mule Acrobatics",
+      "Half-Demon Status",
+      "Yetzer Hara Meaning",
+      "Antelope Size",
+      "Antelope Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe Rabba's firsthand account of Hormin bar Lilith's feats \u2014 running on the walls of Me\u1e25oza and the mule/bridge acrobatics \u2014 which is the continuous narrative introduced in heading 0 ('Hormin Running'), whose prose begins with exactly this passage; the current placement under 'Mule Acrobatics' splits the single continuous story mid-sentence.",
+      "chosen_heading": "Hormin Running",
+      "current_heading": "Mule Acrobatics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Antelope Measurements",
+    "candidates": [
+      "Half-Demon Status",
+      "Yetzer Hara Meaning",
+      "Antelope Size",
+      "Antelope Measurements",
+      "Dung Blocks Jordan",
+      "Creature Chain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the full description of the antelope's size (Mount Tabor = four parasangs), its neck length, head rest measurement, AND the dung blocking the Jordan \u2014 all in one continuous quote \u2014 making 'Antelope Size' (index 2) the best single heading, as it introduces this entire Rabbah passage, rather than splitting it across the later sub-headings.",
+      "chosen_heading": "Antelope Size",
+      "current_heading": "Antelope Measurements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Creature Chain",
+    "candidates": [
+      "Dung Blocks Jordan",
+      "Creature Chain",
+      "Tree's Strength",
+      "Maharsha: Scholars",
+      "Fish & Cities",
+      "Fish Utilization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the frog-snake-raven chain, which is exactly what the 'Creature Chain' section's prose is discussing.",
+      "chosen_heading": "Creature Chain",
+      "current_heading": "Creature Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Fish Utilization",
+    "candidates": [
+      "Tree's Strength",
+      "Maharsha: Scholars",
+      "Fish & Cities",
+      "Fish Utilization",
+      "Fish as Tzaddik",
+      "Island Mistake",
+      "Fish Overturns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with the fish washing ashore and destroying sixty cities, which matches the prose of candidate 2 ('Fish & Cities') that describes exactly this opening narrative, while candidate 3 ('Fish Utilization') covers only the subsequent details about eating, salting, oil, and rebuilding \u2014 the full passage belongs under the heading that introduces the entire fish story from the beginning.",
+      "chosen_heading": "Fish & Cities",
+      "current_heading": "Fish Utilization",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Fish Overturns",
+    "candidates": [
+      "Fish as Tzaddik",
+      "Island Mistake",
+      "Fish Overturns",
+      "Wicked Nations",
+      "Three Days Travel",
+      "Wind Dynamics",
+      "Boat Speed",
+      "Fish Speed",
+      "Nations vs. Jews",
+      "Fish Identity",
+      "Bird Proportions",
+      "Shallow Assumption",
+      "Heavenly Warning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Island Mistake",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the fish-as-island story where travelers bake and cook on the fish's back until it overturns, matching the 'Island Mistake' heading's prose about boarding the fish and making camp.",
+      "second_heading": "Three Days Travel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins an entirely new Rabba bar bar Chana story about traveling between a fish's fins for three days, which matches the 'Three Days Travel' heading's prose exactly.",
+      "current_heading": "Fish Overturns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Heavenly Warning",
+    "candidates": [
+      "Wicked Nations",
+      "Three Days Travel",
+      "Wind Dynamics",
+      "Boat Speed",
+      "Fish Speed",
+      "Nations vs. Jews",
+      "Fish Identity",
+      "Bird Proportions",
+      "Shallow Assumption",
+      "Heavenly Warning",
+      "Strong Current",
+      "Jewish People Symbol",
+      "Physical Pleasures Danger",
+      "Geese Fattiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage covers the heavenly voice warning, the carpenter's axe, the turbulent current explanation, and the ziz sadai identification \u2014 all of which map directly to the 'Heavenly Warning' section and the immediately following prose sections, and the current placement under heading 9 is correct as the passage begins precisely with the Divine Voice warning content described there.",
+      "chosen_heading": "Heavenly Warning",
+      "current_heading": "Heavenly Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Geese Fattiness",
+    "candidates": [
+      "Strong Current",
+      "Jewish People Symbol",
+      "Physical Pleasures Danger",
+      "Geese Fattiness",
+      "Future Benefit Query",
+      "Geese Response",
+      "Accountability Statement",
+      "Messiah Delay",
+      "Smell Navigation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabba bar bar \u1e24ana seeing enormously fat geese with wings drooping and rivers of oil flowing beneath them, which matches exactly the 'Geese Fattiness' section's prose describing the same scene.",
+      "chosen_heading": "Geese Fattiness",
+      "current_heading": "Geese Fattiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Smell Navigation",
+    "candidates": [
+      "Future Benefit Query",
+      "Geese Response",
+      "Accountability Statement",
+      "Messiah Delay",
+      "Smell Navigation",
+      "Testing Method",
+      "Distance Accuracy",
+      "Tracking Verified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items introduce the mnemonic and the core narrative of the Arab/Bedouin traveler navigating by smelling desert sand, which is exactly what the 'Smell Navigation' prose describes.",
+      "chosen_heading": "Smell Navigation",
+      "current_heading": "Smell Navigation",
+      "moved": false
+    }
+  }
+]

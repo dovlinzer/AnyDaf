@@ -1,0 +1,50 @@
+[
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Shekel Death",
+    "candidates": [
+      "Intro: Money & Meat",
+      "Rav in Bavel",
+      "River Meat Story",
+      "Bird Snatching",
+      "Wine Flasks",
+      "Cheese Wheels",
+      "Roasted Goat",
+      "Ye'ush Principle",
+      "Goat Validation",
+      "Mani's Challenge",
+      "Yona's Wallet",
+      "Practice Reality",
+      "Mishna Animals",
+      "Status Problem",
+      "Nesachim Rule",
+      "Seven Takanot",
+      "Tenai Beit Din",
+      "Hoshaya Value",
+      "Yochanan Objection",
+      "Majority Solution",
+      "Zeira Parallel",
+      "Meizid Question",
+      "Shekel Death",
+      "Yochanan Eliezer",
+      "Sanctify Timing",
+      "Half Lost",
+      "Two Priests",
+      "Isaron Sanctified",
+      "First Service",
+      "Two Portions",
+      "Baking Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 22,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yasa reporting that he heard Rav Yehuda ask Shmuel about someone who separated his shekel and died, with Shmuel ruling it falls to nedava, plus the dispute between Rabbi Yochanan and Rabbi Eliezer about surplus asiris ha-eifa funds \u2014 content that spans both heading 22 ('Shekel Death') and heading 23 ('Yochanan Eliezer'), but since the passage begins with the shekel/death question and the current placement is heading 22, and heading 22's prose accurately describes the first part of this passage, while heading 23 covers the second part, the passage actually bridges both sections and is best kept at its current placement under 22.",
+      "chosen_heading": "Shekel Death",
+      "current_heading": "Shekel Death",
+      "moved": false
+    }
+  }
+]

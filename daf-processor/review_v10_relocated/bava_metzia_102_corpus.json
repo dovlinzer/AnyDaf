@@ -1,0 +1,551 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Baraita: Mezuzah Rules",
+    "candidates": [
+      "Baraita: Mezuzah Rules",
+      "Tragic Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire baraita including both the rental rules and the tragic incident, and heading 0's prose covers all of this content (including the non-Jewish tenant exception), making it the better single home for the complete baraita text.",
+      "chosen_heading": "Baraita: Mezuzah Rules",
+      "current_heading": "Baraita: Mezuzah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Tragic Case",
+    "candidates": [
+      "Tragic Case",
+      "Eretz Yisrael vs Chutz",
+      "Reasons for Mezuzah",
+      "Modern Rental Uncertainty",
+      "Nochri Terminology",
+      "Multi-Unit Buildings",
+      "Rashi: Doorway Analysis",
+      "Mishna: Manure/Ash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's clarification that the incident relates to the first clause, which is precisely what the 'Tragic Case' section's prose discusses \u2014 the ma'aseh li-settor question and Rav Sheshet's arisha answer.",
+      "chosen_heading": "Tragic Case",
+      "current_heading": "Tragic Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Mishna: Manure/Ash",
+    "candidates": [
+      "Eretz Yisrael vs Chutz",
+      "Reasons for Mezuzah",
+      "Modern Rental Uncertainty",
+      "Nochri Terminology",
+      "Multi-Unit Buildings",
+      "Rashi: Doorway Analysis",
+      "Mishna: Manure/Ash",
+      "Foreign Animals Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's ruling about manure belonging to the landlord and ashes to the renter, which is precisely what the 'Mishna: Manure/Ash' section's prose describes.",
+      "chosen_heading": "Mishna: Manure/Ash",
+      "current_heading": "Mishna: Manure/Ash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Foreign Animals Case",
+    "candidates": [
+      "Foreign Animals Case",
+      "R. Yosi b. Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'lo tzericha' answer establishing the foreign animals case, which is precisely what the prose in candidate 0 describes and analyzes.",
+      "chosen_heading": "Foreign Animals Case",
+      "current_heading": "Foreign Animals Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "R. Yosi b. Chanina",
+    "candidates": [
+      "R. Yosi b. Chanina",
+      "Lost Objects Challenge",
+      "Guarded Courtyard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yosi b. Chanina",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states the principle of Rabbi Yosi b'Rabbi Chanina that a chatzer acquires without knowledge, which is exactly what candidate 0's prose discusses.",
+      "second_heading": "Lost Objects Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection from the baraita about lost objects and prior declaration, which is precisely what candidate 1's prose describes as 'the gemara immediately challenges this principle.'",
+      "current_heading": "R. Yosi b. Chanina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Guarded Courtyard",
+    "candidates": [
+      "Lost Objects Challenge",
+      "Guarded Courtyard",
+      "Psychological Fence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that the baraita concerns a courtyard that is not secured, which is precisely what the 'Guarded Courtyard' section's prose discusses as the gemara's resolution of the challenge.",
+      "chosen_heading": "Guarded Courtyard",
+      "current_heading": "Guarded Courtyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Psychological Fence",
+    "candidates": [
+      "Psychological Fence",
+      "Manure from Air"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge and answer about the 'psychological fence' concept \u2014 item 1 raises the difficulty about an unsecured courtyard and item 2 resolves it by explaining that public knowledge deters others, making it like a secured courtyard \u2014 exactly what the 'Psychological Fence' prose describes.",
+      "chosen_heading": "Psychological Fence",
+      "current_heading": "Psychological Fence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Manure from Air",
+    "candidates": [
+      "Manure from Air",
+      "Abaye: Container"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection from the baraita about refuse collected from the airspace, which is exactly what heading 0 ('Manure from Air') describes in its prose.",
+      "chosen_heading": "Manure from Air",
+      "current_heading": "Manure from Air",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Abaye: Container",
+    "candidates": [
+      "Abaye: Container",
+      "Rava: Midair Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's resolution involving attaching a vessel to the cow's rear, which matches exactly the prose under 'Abaye: Container' describing *be-madbik kli be-shulei para*.",
+      "chosen_heading": "Abaye: Container",
+      "current_heading": "Abaye: Container",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rava: Midair Doctrine",
+    "candidates": [
+      "Rava: Midair Doctrine",
+      "Airspace Ownership",
+      "Wallet Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's airspace doctrine ('avir she-ein sofo lanuach lav ke-munach dami'), which is exactly what heading 0 ('Rava: Midair Doctrine') is about and its prose explicitly discusses.",
+      "chosen_heading": "Rava: Midair Doctrine",
+      "current_heading": "Rava: Midair Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Wallet Example",
+    "candidates": [
+      "Airspace Ownership",
+      "Wallet Example",
+      "Stable & Courtyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's wallet/purse dilemma (zarak arnaki) and its resolution, which is precisely what the 'Wallet Example' prose describes.",
+      "chosen_heading": "Wallet Example",
+      "current_heading": "Wallet Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Stable & Courtyard",
+    "candidates": [
+      "Stable & Courtyard",
+      "Rav Ashi: Stable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly questions the two-part ruling about cowshed and courtyard from the baraita, which is precisely what the 'Stable & Courtyard' section's prose addresses \u2014 Abaye's clarification that these are not two separate locations but one.",
+      "chosen_heading": "Stable & Courtyard",
+      "current_heading": "Stable & Courtyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rav Ashi: Stable",
+    "candidates": [
+      "Rav Ashi: Stable",
+      "Dovecote Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's reinterpretation of the baraita and Rav Ashi's inference about renting a courtyard without specification not including the stable (refet), which is precisely what the 'Rav Ashi: Stable' section prose describes.",
+      "chosen_heading": "Rav Ashi: Stable",
+      "current_heading": "Rav Ashi: Stable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Dovecote Challenge",
+    "candidates": [
+      "Dovecote Challenge",
+      "Rava: Egg Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection from the dovecote baraita, which is precisely what the 'Dovecote Challenge' section's prose describes \u2014 the challenge to Rabbi Yosi b'Rabbi Chanina from the baraita about doves of a dovecote and attic being subject to shiluach ha-ken while only rabbinically prohibited due to darchei shalom.",
+      "chosen_heading": "Dovecote Challenge",
+      "current_heading": "Dovecote Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Rava: Egg Timing",
+    "candidates": [
+      "Rava: Egg Timing",
+      "Rav Yehuda Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: the challenge from Rabbi Yosei b'Rabbi Chanina's courtyard-acquisition principle (item 1), Rava's timing resolution (item 2), the follow-up question about gezel (item 3), and the alternative answer about the owner's intent (item 4) \u2014 all of which are explicitly discussed in the 'Rava: Egg Timing' prose.",
+      "chosen_heading": "Rava: Egg Timing",
+      "current_heading": "Rava: Egg Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rav Yehuda Rule",
+    "candidates": [
+      "Rav Yehuda Rule",
+      "Courtyard as Agent",
+      "Darchei Shalom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda/Rav's ruling about acquiring eggs while the mother is sitting on them and derives the courtyard principle from it, which matches the 'Rav Yehuda Rule' prose that explicitly discusses this prohibition and its effect on kinyan chatzer.",
+      "chosen_heading": "Rav Yehuda Rule",
+      "current_heading": "Rav Yehuda Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Darchei Shalom",
+    "candidates": [
+      "Courtyard as Agent",
+      "Darchei Shalom",
+      "Mishna: Leap Month"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's challenge about why the baraita uses 'darchei shalom' rather than full Torah-level gezel, and the resolution involving the minor (katan) and his father's obligation \u2014 precisely the content described in the 'Darchei Shalom' prose section.",
+      "chosen_heading": "Darchei Shalom",
+      "current_heading": "Darchei Shalom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Mishna: Leap Month",
+    "candidates": [
+      "Mishna: Leap Month",
+      "Tzippori Bathhouse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact mishna text about renting a house for a year versus by the month when the year is intercalated, which perfectly matches the prose under 'Mishna: Leap Month' describing precisely this content.",
+      "chosen_heading": "Mishna: Leap Month",
+      "current_heading": "Mishna: Leap Month",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Tzippori Bathhouse",
+    "candidates": [
+      "Tzippori Bathhouse",
+      "Split Decision",
+      "Chasorei Mechasra",
+      "Rav: All to Landlord"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's chasorei mechasra discussion: item 1 is the Tzippori case, item 2 is the ruling, and item 3 is the Gemara explicitly raising the contradiction and resolving it with the chasorei mechasra formula \u2014 exactly what candidate 2's prose describes.",
+      "chosen_heading": "Chasorei Mechasra",
+      "current_heading": "Tzippori Bathhouse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rav: All to Landlord",
+    "candidates": [
+      "Split Decision",
+      "Chasorei Mechasra",
+      "Rav: All to Landlord",
+      "Tfus Lashon Acharon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav's statement that he would have given the entire month to the landlord, which is precisely what the 'Rav: All to Landlord' section's prose discusses.",
+      "chosen_heading": "Rav: All to Landlord",
+      "current_heading": "Rav: All to Landlord",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Tfus Lashon Acharon",
+    "candidates": [
+      "Tfus Lashon Acharon",
+      "Shmuel: Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's question about what new principle Rav is teaching with tefus lashon acharon, followed by the objection that Rav already stated this principle via the asteira/ma'ah ruling \u2014 this is precisely the content described in candidate 0's prose.",
+      "chosen_heading": "Tfus Lashon Acharon",
+      "current_heading": "Tfus Lashon Acharon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Shmuel: Timing",
+    "candidates": [
+      "Shmuel: Timing",
+      "Shmuel: Three Cases",
+      "Rav Nachman: Chazaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 2 and 3 directly present Shmuel's three-case ruling (beginning/middle/end of month) and the Gemara's challenge from the kor/se'a case about 'tafos lashon acharon,' which matches the 'Shmuel: Three Cases' prose describing Shmuel's three distinct outcomes and his middle-path position; item 1 is the concluding explanation of why Rav's ruling needed to be stated independently, which flows naturally into this same block.",
+      "chosen_heading": "Shmuel: Three Cases",
+      "current_heading": "Shmuel: Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rav Nachman: Chazaka",
+    "candidates": [
+      "Shmuel: Three Cases",
+      "Rav Nachman: Chazaka",
+      "Tfus Lashon Reconciled",
+      "Payment Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the reconciliation between Shmuel's tafis-based reasoning and Rav Nachman's chazakah-based approach, including the 'af al gav de-afich' (even if reversed) point that distinguishes them \u2014 which is precisely what the 'Tfus Lashon Reconciled' prose describes.",
+      "chosen_heading": "Tfus Lashon Reconciled",
+      "current_heading": "Rav Nachman: Chazaka",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Payment Dispute",
+    "candidates": [
+      "Tfus Lashon Reconciled",
+      "Payment Dispute",
+      "Before/After Deadline",
+      "Bechorot Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma posed to Rabbi Yannai about a renter claiming payment and a landlord denying receipt, which is exactly what the 'Payment Dispute' prose describes.",
+      "chosen_heading": "Payment Dispute",
+      "current_heading": "Payment Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Bechorot Parallel",
+    "candidates": [
+      "Before/After Deadline",
+      "Bechorot Parallel",
+      "Debtor Advantage",
+      "Hamotzi Burden",
+      "Payment Day Custom",
+      "Sachir Bizmano"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Before/After Deadline",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the gemara's clarification that the dilemma must concern a case other than before/after the deadline, and cites the Bekhorot parallel \u2014 both of which are the content described under 'Before/After Deadline' and its immediate follow-up, but item 1's core content (the timing question plus the Bekhorot mishna) maps directly to candidate 0's prose about the before/after deadline reasoning.",
+      "second_heading": "Payment Day Custom",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new sub-question of whether payment occurs on the very day the period is completed ('be-yoma de-mashlam zimnei'), which matches exactly the prose of candidate 4 ('Payment Day Custom') discussing whether people pay precisely on the deadline day itself.",
+      "current_heading": "Bechorot Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Sachir Bizmano",
+    "candidates": [
+      "Debtor Advantage",
+      "Hamotzi Burden",
+      "Payment Day Custom",
+      "Sachir Bizmano"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the sachir bi-zmano ruling and its rationale (ba'al ha-bayit tarud), which is precisely what the 'Sachir Bizmano' section's prose describes.",
+      "chosen_heading": "Sachir Bizmano",
+      "current_heading": "Sachir Bizmano",
+      "moved": false
+    }
+  }
+]

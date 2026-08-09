@@ -1,0 +1,473 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Dispute Setup",
+    "candidates": [
+      "Mishna Intro",
+      "Dispute Setup",
+      "Ben Beteira Logic",
+      "Gemara Challenge",
+      "Resolution",
+      "Bein Arbayim Meaning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dispute Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Ben Azzai/72 elders tradition about shelo lishmo and olah, which the 'Dispute Setup' prose explicitly discusses as the concluding section of the Mishna unit.",
+      "second_heading": "Ben Beteira Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 cover Rabbi Elazar/Rabbi Oshaya's analysis of Ben Beteira's position (lishmo in the morning is kasher), followed by the Gemara's challenge and resolution about why the Mishna argues over shelo lishmo rather than lishmo \u2014 exactly what 'Ben Beteira Logic', 'Gemara Challenge', and 'Resolution' prose sections describe, with item 2 being the entry point into that discussion.",
+      "current_heading": "Dispute Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Bein Arbayim Meaning",
+    "candidates": [
+      "Ben Beteira Logic",
+      "Gemara Challenge",
+      "Resolution",
+      "Bein Arbayim Meaning",
+      "Tamid & Menorah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's challenge to Ben Beteira's position from the verse 'bein ha'arbayim' and the resolution that it means 'between two evenings' (the whole day), which is precisely what the 'Bein Arbayim Meaning' prose describes.",
+      "chosen_heading": "Bein Arbayim Meaning",
+      "current_heading": "Bein Arbayim Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Tamid & Menorah",
+    "candidates": [
+      "Tamid & Menorah",
+      "Ketores Parallel",
+      "Pesach Erev",
+      "Ordering: After Tamid"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Tamid & Menorah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the tamid challenge and its resolution, which is exactly what the 'Tamid & Menorah' prose describes.",
+      "second_heading": "Ketores Parallel",
+      "second_confidence": "high",
+      "second_reason": "Items 5-10 cover the menorah, ketores, and the return to pesach/erev challenge, which matches the 'Ketores Parallel' prose that discusses the menorah baraita, the ketores juxtaposition, and the pesach ba'erev verse.",
+      "current_heading": "Tamid & Menorah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Ordering: After Tamid",
+    "candidates": [
+      "Ketores Parallel",
+      "Pesach Erev",
+      "Ordering: After Tamid",
+      "Rabbi's Challenge",
+      "Everyone Agrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the 'ye'achar davar' ruling \u2014 that the pesach comes after the tamid in the afternoon \u2014 and the Rabbi Yochanan tefillah analogy validating the asymmetry, which is precisely what the 'Ordering: After Tamid' prose section describes.",
+      "chosen_heading": "Ordering: After Tamid",
+      "current_heading": "Ordering: After Tamid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Everyone Agrees",
+    "candidates": [
+      "Rabbi's Challenge",
+      "Everyone Agrees",
+      "Shelo Lishmo Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks why 'bein ha'arbayim' appears in contexts (incense and lamps) that are not all-day activities, which directly challenges Ben Beteira's position that the term refers to the entire day \u2014 this is precisely the debate about whether the day-unit or hour-unit defines 'bizmano,' which is the subject of the 'Shelo Lishmo Debate' prose.",
+      "chosen_heading": "Shelo Lishmo Debate",
+      "current_heading": "Everyone Agrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Shelo Lishmo Debate",
+    "candidates": [
+      "Everyone Agrees",
+      "Shelo Lishmo Debate",
+      "Abahu's Objection",
+      "Dichui Mei'ikara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi responding on behalf of Ben Beteira that the 14th is different from the 13th because part of the 14th is fit for the Pesach \u2014 this directly supports the revised understanding that Ben Beteira invalidates the Pesach slaughtered on the morning of the 14th (regardless of intent) because the afternoon zman is coming, which is the content of the 'Everyone Agrees' section.",
+      "chosen_heading": "Everyone Agrees",
+      "current_heading": "Shelo Lishmo Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Dichui Mei'ikara",
+    "candidates": [
+      "Abahu's Objection",
+      "Dichui Mei'ikara",
+      "Abaye's Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abahu's Objection",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 cover the rejection of the prior interpretation and Rabbi Yo\u1e25anan's reformulation of Ben Beteira's position, which is the setup that 'Abahu's Objection' prose describes as the basis for Abbahu's attack.",
+      "second_heading": "Dichui Mei'ikara",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 contain Rabbi Abbahu's actual ridiculing objection (*megaddef*) and his conclusion of *tehei l-achar chatzot*, which is precisely what 'Dichui Mei'ikara' prose describes in detail.",
+      "current_heading": "Dichui Mei'ikara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Abaye's Response",
+    "candidates": [
+      "Abaye's Response",
+      "Rav Papa's Response",
+      "Eighth Day Case",
+      "Maaser Behema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Abaye's statement about ein mechusar zman l-vo bayom, which is precisely what the 'Abaye's Response' prose section describes.",
+      "chosen_heading": "Abaye's Response",
+      "current_heading": "Abaye's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Maaser Behema",
+    "candidates": [
+      "Rav Papa's Response",
+      "Eighth Day Case",
+      "Maaser Behema",
+      "Lailah Ain Mechusar",
+      "Rabbi Aptorik\u00ed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's statement that even nighttime designation is valid because 'layla ein mechusar zman,' supported by the Rabbi Yishmael braita about entering the den on the eighth night \u2014 this is precisely what heading 0 ('Rav Papa's Response') describes, where Rav Papa introduces this principle with the braita as his proof.",
+      "chosen_heading": "Rav Papa's Response",
+      "current_heading": "Maaser Behema",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rabbi Aptorik\u00ed",
+    "candidates": [
+      "Lailah Ain Mechusar",
+      "Rabbi Aptorik\u00ed",
+      "Lailah & Yom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Appetoriki's contradiction between the two verses about seven days and the eighth day, which is precisely what the 'Rabbi Aptorik\u00ed' section's prose describes.",
+      "chosen_heading": "Rabbi Aptorik\u00ed",
+      "current_heading": "Rabbi Aptorik\u00ed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Lailah & Yom",
+    "candidates": [
+      "Lailah & Yom",
+      "Zeira's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states 'laila lekeddusha, yom lehartza'ah' \u2014 the exact resolution discussed in the 'Lailah & Yom' section prose, which explains night for sanctification and day for offering.",
+      "chosen_heading": "Lailah & Yom",
+      "current_heading": "Lailah & Yom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Zeira's Question",
+    "candidates": [
+      "Zeira's Question",
+      "Partnership Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's question to Rabbi Abbahu about whether Rabbi Yochanan holds baalei chayim nidchin, which is exactly what section 0 'Zeira's Question' describes in its prose.",
+      "chosen_heading": "Zeira's Question",
+      "current_heading": "Zeira's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Partnership Case",
+    "candidates": [
+      "Partnership Case",
+      "Three Conclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rabbi Yochanan's partnership case \u2014 the consecration of each half and the resulting 'holy but cannot be sacrificed' status plus the substitute animal rule \u2014 which is precisely what the 'Partnership Case' prose discusses, not the three derived conclusions of heading 1.",
+      "chosen_heading": "Partnership Case",
+      "current_heading": "Partnership Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Three Conclusions",
+    "candidates": [
+      "Three Conclusions",
+      "Mumar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the three conclusions (shma mina tlat) passage, which is precisely what the 'Three Conclusions' section prose describes in detail.",
+      "chosen_heading": "Three Conclusions",
+      "current_heading": "Three Conclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Mumar Case",
+    "candidates": [
+      "Mumar Case",
+      "Shoteh Case",
+      "Why Both Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mumar Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the mumar and shoteh cases respectively, both of which are discussed under their own separate headings (candidates 0 and 1), but since candidate 0 'Mumar Case' prose discusses only the mumar case and candidate 1 'Shoteh Case' prose discusses only the shoteh case, item 1 belongs under candidate 0 and item 2 belongs under candidate 1.",
+      "second_heading": "Why Both Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 3 explains why both cases are necessary (the tzrichei passage), which matches exactly the prose of candidate 2 'Why Both Cases'.",
+      "current_heading": "Mumar Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Why Both Cases",
+    "candidates": [
+      "Shoteh Case",
+      "Why Both Cases",
+      "Horayos Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why both cases are necessary, explaining that if only the shoteh case were taught one might reason 'since it is not in his power to return' dichui applies but a mumar who can recant might be different \u2014 this directly matches the 'Why Both Cases' prose which quotes 'aval hacha de-yesh be-yado lachazor, eima lo' verbatim.",
+      "chosen_heading": "Why Both Cases",
+      "current_heading": "Why Both Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Horayos Case",
+    "candidates": [
+      "Horayos Case",
+      "Horayos Explanation",
+      "Tradition Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yirmeya's dilemma and the elder's report about Rabbi Yochanan's paradigmatic case, which is exactly what the 'Horayos Case' prose describes \u2014 the question itself and the sava's testimony that this was Rabbi Yochanan's opening example.",
+      "chosen_heading": "Horayos Case",
+      "current_heading": "Horayos Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Tradition Source",
+    "candidates": [
+      "Horayos Explanation",
+      "Tradition Source",
+      "Olah Addition",
+      "Rav Huna Kal Vachomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tradition Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the Gemara's question about Ben Azzai's formulation 'seventy-two elders' and the significance of their unanimous tradition, which matches the 'Tradition Source' prose about Ben Azzai's statement and the word *hane'echalim*.",
+      "second_heading": "Olah Addition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Mishna's concluding line about Ben Azzai adding only the olah, which directly matches the 'Olah Addition' prose that opens with the exact phrase *v'lo hosif Ben Azzai ela ha-olah*.",
+      "current_heading": "Tradition Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Rav Huna Kal Vachomer",
+    "candidates": [
+      "Olah Addition",
+      "Rav Huna Kal Vachomer",
+      "Atonement Objection",
+      "Pesach Proof",
+      "Fixed Time Objection",
+      "Common Denominator",
+      "Denominator Problem",
+      "Karet Objection",
+      "Tzibur Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Huna's derivation from the word 'hu' (it) in the verse about the olah to support Ben Azzai's position \u2014 this is a scriptural/textual justification for Ben Azzai's addition of the olah, which belongs under the 'Olah Addition' heading that discusses Ben Azzai's position on the olah, not under 'Rav Huna Kal Vachomer' whose prose describes a kal va'chomer argument that does not appear in these items at all.",
+      "chosen_heading": "Olah Addition",
+      "current_heading": "Rav Huna Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155
+    ],
+    "current_heading": "Tzibur Connection",
+    "candidates": [
+      "Atonement Objection",
+      "Pesach Proof",
+      "Fixed Time Objection",
+      "Common Denominator",
+      "Denominator Problem",
+      "Karet Objection",
+      "Tzibur Connection",
+      "Tradition Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The passage spans the entire kal va'chomer chain from the atonement objection through the karet objection, with item 7 (the karet objection) being its final element, making heading 5 ('Karet Objection') the best single match, and the current placement under 'Tzibur Connection' (heading 6) is clearly wrong as that topic does not appear in any of these items.",
+      "chosen_heading": "Karet Objection",
+      "current_heading": "Tzibur Connection",
+      "moved": true
+    }
+  }
+]

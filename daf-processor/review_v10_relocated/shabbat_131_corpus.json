@@ -1,0 +1,366 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rabbi Zeira's Rule",
+    "candidates": [
+      "Rabbi Eliezer Intro",
+      "Knife & Courtyards",
+      "Mavoi Shituf",
+      "Rabbi Zeira's Rule",
+      "Abaye & Rabbah",
+      "Eruv Paradox",
+      "Chatzrot \u2192 Battim",
+      "Rav's Mavoi Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Zeira's Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Zeira's ruling that one may only carry four cubits in an unmerged mavoi) matches exactly the prose of heading 3 ('Rabbi Zeira's Rule'), which quotes and explains precisely this statement.",
+      "second_heading": "Abaye & Rabbah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Abaye's report that Rabbi Zeira's statement was unexplained until Rabbah bar Avuha clarified it) matches exactly the prose of heading 4 ('Abaye & Rabbah'), which describes Abaye saying Rabbi Zeira stated the teaching without explaining it until Rabbah bar Avuha provided the explanation.",
+      "current_heading": "Rabbi Zeira's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Rav's Mavoi Rule",
+    "candidates": [
+      "Abaye & Rabbah",
+      "Eruv Paradox",
+      "Chatzrot \u2192 Battim",
+      "Rav's Mavoi Rule",
+      "Waiving Domain",
+      "Sof Sof Problem",
+      "Day Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question and response about Rav's mavoi rule \u2014 the challenge about houses vs. courtyards, the counter-challenge about sealed houses, and the bitul reshut answer with its sof sof rejection \u2014 which is exactly what candidate 3's prose describes as the content of that section.",
+      "chosen_heading": "Rav's Mavoi Rule",
+      "current_heading": "Rav's Mavoi Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Day Division",
+    "candidates": [
+      "Waiving Domain",
+      "Sof Sof Problem",
+      "Day Division",
+      "Rav Ashi Solution",
+      "Not Universal",
+      "Shtei Halechem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the day-division proposal (morning/afternoon split) and Rav Ashi's answer, and the 'Day Division' section's prose explicitly covers both the day-division attempt and its rejection plus Rav Ashi's solution as the concluding resolution of that discussion, making it the correct placement.",
+      "chosen_heading": "Day Division",
+      "current_heading": "Day Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Shtei Halechem",
+    "candidates": [
+      "Rav Ashi Solution",
+      "Not Universal",
+      "Shtei Halechem",
+      "Extensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the gezeirah shavah from hava'ah connecting the omer to the shtei halechem, whether it is mufni, and why both sides must be free \u2014 exactly the content described in the 'Shtei Halechem' prose section.",
+      "chosen_heading": "Shtei Halechem",
+      "current_heading": "Shtei Halechem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Extensions",
+    "candidates": [
+      "Extensions",
+      "Excluded Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage tests what Rabbi Eliezer excludes by cycling through lulav, sukka, matza, and shofar \u2014 exactly the content described in the 'Extensions' prose, which explicitly discusses each of these baraitot in the same order.",
+      "chosen_heading": "Extensions",
+      "current_heading": "Extensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Excluded Items",
+    "candidates": [
+      "Excluded Items",
+      "Consensus",
+      "No Fixed Time",
+      "Abaye Challenges",
+      "Ownership Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Adda bar Ahava's statement about excluding tzitzis and mezuzah AND the baraita confirming liability, but the current placement under 'Excluded Items' is where the passage begins, and the prose of heading 0 explicitly describes Rav Adda bar Ahava's statement about tzitzis and mezuzah \u2014 the baraita portion is a continuation of the same Gemara unit introduced there, making heading 0 the best fit even though heading 1's prose describes the baraita content.",
+      "chosen_heading": "Excluded Items",
+      "current_heading": "Excluded Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Ownership Condition",
+    "candidates": [
+      "Consensus",
+      "No Fixed Time",
+      "Abaye Challenges",
+      "Ownership Condition",
+      "Lulav Question",
+      "Bayom Pasuk",
+      "Bayom Purpose",
+      "Rabbis' Bayom"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye Challenges",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the Rav Yosef / Abaye exchange about 'no fixed time' and the Rav Nachman answer about 'hefker', which are the exact content discussed under 'Abaye Challenges' (and resolved under 'Ownership Condition'), matching candidates 2-3; since items 1-2 form the continuous Rav Yosef\u2192Abaye\u2192Rav Nachman chain, the natural break is after item 2, with items 1-2 under 'Abaye Challenges' (candidate 2).",
+      "second_heading": "Lulav Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the Gemara's question about Rabbi Eliezer's source for lulav overriding Shabbat and the derivation from 'bayom', which precisely matches the 'Lulav Question' section (candidate 4) whose prose asks 'where does he learn that lulav and its preparations override Shabbos?'",
+      "current_heading": "Ownership Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rabbis' Bayom",
+    "candidates": [
+      "Lulav Question",
+      "Bayom Pasuk",
+      "Bayom Purpose",
+      "Rabbis' Bayom",
+      "Rabbis' Bayom",
+      "Arba Minim",
+      "Sukkah Question",
+      "Shivas Yamim",
+      "Night & Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly gives the Rabbis' interpretation of 'bayom' as teaching day-not-night, which is precisely what candidate 3's prose describes.",
+      "chosen_heading": "Rabbis' Bayom",
+      "current_heading": "Rabbis' Bayom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Night & Day",
+    "candidates": [
+      "Rabbis' Bayom",
+      "Arba Minim",
+      "Sukkah Question",
+      "Shivas Yamim",
+      "Night & Day",
+      "Matzah Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbis' Bayom",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rabbi Eliezer's and the Rabbis' derivation of the day-not-night restriction for lulav, matching heading 0's prose exactly.",
+      "second_heading": "Arba Minim",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-6 begin with the question of why lulav cannot serve as the paradigm (arba minim), then continue through sukka preparations overriding Shabbat; heading 1 is the first of these sub-topics and the pipeline likely needs further splitting, but heading 1 is the best single landing for the start of this new topic.",
+      "current_heading": "Night & Day",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Matzah Question",
+    "candidates": [
+      "Matzah Question",
+      "Chamisha Asar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about Rabbi Eliezer's source for matzah preparations overriding Shabbat and refutes the omer/lulav/sukka derivations, which is precisely what the 'Matzah Question' prose describes.",
+      "chosen_heading": "Matzah Question",
+      "current_heading": "Matzah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Chamisha Asar",
+    "candidates": [
+      "Chamisha Asar",
+      "Men & Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezeirah shavah of 'chamisha asar chamisha asar' connecting Sukkot and Pesach, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Chamisha Asar",
+      "current_heading": "Chamisha Asar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Men & Women",
+    "candidates": [
+      "Men & Women",
+      "Shofar Question",
+      "Yom Teruah",
+      "Bayom Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why matza cannot serve as the source for deriving other mitzvot \u2014 because matza applies equally to women and men \u2014 which is precisely what the 'Men & Women' section prose discusses.",
+      "chosen_heading": "Men & Women",
+      "current_heading": "Men & Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Bayom Purpose",
+    "candidates": [
+      "Shofar Question",
+      "Yom Teruah",
+      "Bayom Purpose",
+      "Yom Kippur",
+      "Shofar Special"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shofar Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the full derivation chain \u2014 eliminating omer/shtei halechem, lulav, sukkah, matza as sources, then deriving from 'yom teruah' \u2014 which matches heading 0 ('Shofar Question') and heading 1 ('Yom Teruah') together, but since item 1 contains both the eliminations AND the yom teruah conclusion, and heading 0's prose explicitly describes the elimination process while heading 1's prose covers the 'ella amar kra' conclusion, item 1 spans both \u2014 however the elimination chain is the dominant content and heading 0 is the better single match for item 1 alone.",
+      "second_heading": "Bayom Purpose",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks 'for what purpose was bayom emphasized' and answers using the school of Shmuel (tkiyat shofar is chochmah not melacha), concluding it must teach machshirin \u2014 this precisely matches heading 2 ('Bayom Purpose') whose prose describes exactly this question and answer.",
+      "current_heading": "Bayom Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Shofar Special",
+    "candidates": [
+      "Yom Kippur",
+      "Shofar Special",
+      "Milah Question",
+      "Delay Possible",
+      "Bayom Pasuk",
+      "Bayom Purpose",
+      "Thirteen Brits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation of the daytime restriction for shofar and why each shofar instance cannot serve as the source for deriving other mitzvot \u2014 content that precisely matches the 'Yom Kippur' section's prose about vegamrei ahadadi and the yovel shofar, whereas the current 'Shofar Special' heading's prose already incorporates these exact Talmudic statements as its own discussion, suggesting the passage was placed one heading too late.",
+      "chosen_heading": "Yom Kippur",
+      "current_heading": "Shofar Special",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Thirteen Brits",
+    "candidates": [
+      "Milah Question",
+      "Delay Possible",
+      "Bayom Pasuk",
+      "Bayom Purpose",
+      "Thirteen Brits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous Gemara discussion about the source of Rabbi Eliezer's ruling that milah and its facilitators override Shabbat \u2014 item 1 raises the question, item 2 gives the answer from the pasuk 'bayom hashmini,' and item 3 addresses why milah cannot serve as the source for other mitzvot \u2014 and candidate 0 ('Milah Question') is the only heading whose prose directly introduces this exact question ('Menalei l'Rabbi Eliezer ha \u2014 where does Rabbi Eliezer derive that the preparations of milah override Shabbos?'), while the subsequent candidates (1\u20134) each discuss only one sub-element of this unified sugyah.",
+      "chosen_heading": "Milah Question",
+      "current_heading": "Thirteen Brits",
+      "moved": true
+    }
+  }
+]

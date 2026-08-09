@@ -1,0 +1,230 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two Sons\u2014Five Sela'im",
+    "candidates": [
+      "Two Sons\u2014Five Sela'im",
+      "Death Within 30 Days",
+      "Father Dies\u2014Sons Redeem",
+      "Rebbi Meir vs. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case of twin males born to a wife who had never previously given birth, with the father giving five sela'im \u2014 precisely the content discussed in candidate 0's prose about 'Two Sons\u2014Five Sela'im,' while the death-within-30-days ruling in the same mishna is handled separately under candidate 1.",
+      "chosen_heading": "Two Sons\u2014Five Sela'im",
+      "current_heading": "Two Sons\u2014Five Sela'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rebbi Meir vs. Yehuda",
+    "candidates": [
+      "Death Within 30 Days",
+      "Father Dies\u2014Sons Redeem",
+      "Rebbi Meir vs. Yehuda",
+      "Mixed-Gender Twins",
+      "Death After Day 30"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah dispute between Rabbi Meir and Rabbi Yehuda about paying before/after division of the estate, plus the male-female twins case, which maps precisely to the 'Rebbi Meir vs. Yehuda' section's prose discussion of those exact rulings.",
+      "chosen_heading": "Rebbi Meir vs. Yehuda",
+      "current_heading": "Rebbi Meir vs. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Death After Day 30",
+    "candidates": [
+      "Mixed-Gender Twins",
+      "Death After Day 30",
+      "Liens Through Obligor",
+      "Two Yosef ben Shimons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening Gemara discussion interrogating when the father died \u2014 first proposing 'after thirty days' (item 1) and then resolving 'within thirty days' with the follow-up challenge (item 2) \u2014 which is precisely what the 'Death After Day 30' prose describes in detail.",
+      "chosen_heading": "Death After Day 30",
+      "current_heading": "Death After Day 30",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Two Yosef ben Shimons",
+    "candidates": [
+      "Liens Through Obligor",
+      "Two Yosef ben Shimons",
+      "Loan Sale & Waiver",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Yosef ben Shimons",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yirmiya's 'two Yosef ben Shimon' proposal, which candidate 1's prose describes in detail as the reading floated before Rava's rejection.",
+      "second_heading": "Liens Through Obligor",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's rejection using the principle that a person's property is a guarantor for him and the arev analogy, which is precisely what candidate 0's prose describes as Rava's counterintuitive ruling on liens through the obligor.",
+      "current_heading": "Two Yosef ben Shimons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Loan Sale & Waiver",
+      "Rava's Resolution",
+      "Small Estate\u2014Five Sela'im",
+      "Half-Heir, Half-Purchaser",
+      "Torah Debt vs. Document",
+      "Rav Pappa: Heirs & Buyers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's statement about the large-estate case and the pivot to the small estate of only five sela'im, which is precisely what the 'Small Estate\u2014Five Sela'im' section's prose describes.",
+      "chosen_heading": "Small Estate\u2014Five Sela'im",
+      "current_heading": "Rava's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Rav Pappa: Heirs & Buyers",
+    "candidates": [
+      "Small Estate\u2014Five Sela'im",
+      "Half-Heir, Half-Purchaser",
+      "Torah Debt vs. Document",
+      "Rav Pappa: Heirs & Buyers",
+      "Rebbi Meir: Five Only",
+      "Rebbi Yehuda: Half Enough",
+      "Baraita: Twenty Zuz Both"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Pappa: Heirs & Buyers",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the rulings of Rav Asi and Rav Pappa \u2014 the two shared assumptions about heirs/purchasers and Torah-debt vs. document \u2014 which are precisely what candidate 3 ('Rav Pappa: Heirs & Buyers') discusses in its prose.",
+      "second_heading": "Rebbi Meir: Five Only",
+      "second_confidence": "high",
+      "second_reason": "Item 3 articulates the actual dispute between Rabbi Meir and Rabbi Yehuda over 'five but not half of five,' which is exactly what candidate 4 ('Rebbi Meir: Five Only') introduces as the framework for the disagreement.",
+      "current_heading": "Rav Pappa: Heirs & Buyers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Baraita: Twenty Zuz Both",
+    "candidates": [
+      "Rebbi Meir: Five Only",
+      "Rebbi Yehuda: Half Enough",
+      "Baraita: Twenty Zuz Both",
+      "Gemara: Five Required",
+      "Rebbi Yehuda: Lien/Heir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge to Rebbi Yehuda from the baraita about ten zuz for each brother, which is precisely what heading 2 ('Baraita: Twenty Zuz Both') describes in its prose.",
+      "chosen_heading": "Baraita: Twenty Zuz Both",
+      "current_heading": "Baraita: Twenty Zuz Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rebbi Yehuda: Lien/Heir",
+    "candidates": [
+      "Gemara: Five Required",
+      "Rebbi Yehuda: Lien/Heir",
+      "Rebbi Yehuda's Clause",
+      "Yosef: Field Sale & Lien"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the conclusion that everyone agrees five sela'im are required (not half of five) and that the dispute is about Rav Asi and Rav Pappa's rulings \u2014 which is exactly what candidate 0 ('Gemara: Five Required') describes in its prose.",
+      "chosen_heading": "Gemara: Five Required",
+      "current_heading": "Rebbi Yehuda: Lien/Heir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Yosef: Field Sale & Lien",
+    "candidates": [
+      "Rebbi Yehuda's Clause",
+      "Yosef: Field Sale & Lien",
+      "Rava: Obligation Person"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the 'latter clause' version starting from Rebbi Yehuda's statement, the within-thirty-days challenge about the kohen being pushed off, and Rabbi Yirmeya's Yosef ben Shimon field-sale principle \u2014 are explicitly described and discussed in the prose of candidate 1, making it the clear correct home for this passage.",
+      "chosen_heading": "Yosef: Field Sale & Lien",
+      "current_heading": "Yosef: Field Sale & Lien",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rava: Obligation Person",
+    "candidates": [
+      "Rava: Obligation Person",
+      "Pidyon: Ritual from Civil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about property as guarantor and the reference to 've'chol k'lishna kama,' which is precisely what the prose under 'Rava: Obligation Person' describes and analyzes.",
+      "chosen_heading": "Rava: Obligation Person",
+      "current_heading": "Rava: Obligation Person",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Postponement Scenario",
+    "candidates": [
+      "Yad Framework",
+      "Thought & Speech",
+      "Abbreviated Statement",
+      "Link to Nezirut",
+      "Postponement Scenario",
+      "Cemetery Scenario",
+      "Rav Ashi's Chiddush",
+      "Rav Acha Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly discusses the cemetery scenario \u2014 that even if nezirut takes effect in the cemetery, remaining there delays the transition to nezirut d'taharah, constituting bal taachar \u2014 which is precisely what section 5 'Cemetery Scenario' describes, and then Rav Ashi's chiddush extending this principle belongs under section 6, but since both items are one passage they belong under section 5 where the cemetery/taharah reasoning is established.",
+      "chosen_heading": "Cemetery Scenario",
+      "current_heading": "Postponement Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Acha Position",
+    "candidates": [
+      "Cemetery Scenario",
+      "Rav Ashi's Chiddush",
+      "Rav Acha Position",
+      "Nature of Giluach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Acha son of Rav Ika's position that bal taachar applies to delaying the shaving (tighluach) at the conclusion of nezirut, which is precisely what the 'Rav Acha Position' prose section describes.",
+      "chosen_heading": "Rav Acha Position",
+      "current_heading": "Rav Acha Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Nature of Giluach",
+    "candidates": [
+      "Nature of Giluach",
+      "Giluach Problem",
+      "Mar Zutra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the debate between whether shaving is indispensable (me'akev) or not for terminating nezirut, and concludes that either way the mitzva of shaving must still be fulfilled \u2014 exactly what the 'Nature of Giluach' prose describes.",
+      "chosen_heading": "Nature of Giluach",
+      "current_heading": "Nature of Giluach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Mar Zutra",
+    "candidates": [
+      "Giluach Problem",
+      "Mar Zutra",
+      "Special vs. General",
+      "Pesukim Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra son of Rav Mari explaining that a nazir transgresses bal taachar by delaying his korbanot, which exactly matches the 'Mar Zutra' section prose describing this straightforward explanation about postponing the nazir's sacrifices.",
+      "chosen_heading": "Mar Zutra",
+      "current_heading": "Mar Zutra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Pesukim Source",
+    "candidates": [
+      "Special vs. General",
+      "Pesukim Source",
+      "Chatat Chelev",
+      "Hypothetical Objection",
+      "Package Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain asking what the 'chiddush' of the nazir-neder juxtaposition is, which is precisely what candidate 3 ('Hypothetical Objection') describes \u2014 pressing the question of what novel teaching the Torah needed to make explicit regarding bal taachar and the korbanot of a nazir.",
+      "chosen_heading": "Hypothetical Objection",
+      "current_heading": "Pesukim Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Package Nature",
+    "candidates": [
+      "Chatat Chelev",
+      "Hypothetical Objection",
+      "Package Nature",
+      "Weighting Question",
+      "Lack of Urgency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the debate between Chachamim and Rabbi Shimon about whether a partial nazirite declaration (min hachartzan) creates full nezirut, which is precisely what the 'Package Nature' section discusses, including the Gemara's objection that this novelty is stringent rather than lenient.",
+      "chosen_heading": "Package Nature",
+      "current_heading": "Package Nature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Lack of Urgency",
+    "candidates": [
+      "Weighting Question",
+      "Lack of Urgency",
+      "Chatat Yoledes",
+      "Baraita Linkage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about the novelty (chiddush) of applying bal taachar to the nazir's korbanot \u2014 covering the giluach argument, the 'cannot be accepted through a vow' argument, the chatat chelev comparison, and the chatat yoledes parallel \u2014 which exactly matches the 'Lack of Urgency' section's prose describing both the neder-domain argument and the chatat chelev/chatat nazir distinction.",
+      "chosen_heading": "Lack of Urgency",
+      "current_heading": "Lack of Urgency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Baraita Linkage",
+    "candidates": [
+      "Chatat Yoledes",
+      "Baraita Linkage",
+      "Nezirut as Neder Type",
+      "Time Limit Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita's linkage of vow-annulment to nazirite-annulment and the Gemara's question about why a juxtaposition is needed rather than a 'what do we find' analogy, which is exactly what the 'Baraita Linkage' section's prose describes.",
+      "chosen_heading": "Baraita Linkage",
+      "current_heading": "Baraita Linkage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Time Limit Defense",
+    "candidates": [
+      "Nezirut as Neder Type",
+      "Time Limit Defense",
+      "Neder Permanence",
+      "Mishna Case",
+      "Statement Examples",
+      "Statement Components",
+      "Shmuel's Rule",
+      "Braitta Objection",
+      "Reading Narrowly",
+      "Both Phrases Effect",
+      "One Phrase Effect",
+      "Filling Blanks Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Time Limit Defense",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's response defending why the textual linkage between nezirut and nedarim is needed despite nezirut's built-in time limit \u2014 exactly what 'Time Limit Defense' describes.",
+      "second_heading": "Mishna Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new Mishnah section (marked by \u00a7) introducing the case of one who says 'mudar ani' to his fellow, which 'Mishna Case' identifies as the Gemara's transition to the hamudar hana'ah machaveiro section dealing with yadim.",
+      "current_heading": "Time Limit Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Filling Blanks Logic",
+    "candidates": [
+      "Neder Permanence",
+      "Mishna Case",
+      "Statement Examples",
+      "Statement Components",
+      "Shmuel's Rule",
+      "Braitta Objection",
+      "Reading Narrowly",
+      "Both Phrases Effect",
+      "One Phrase Effect",
+      "Filling Blanks Logic",
+      "Girsa Question",
+      "Reinterpretation",
+      "Practical Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's objection from the baraitot against Shmuel's rule \u2014 items 1-3 raise and attempt to resolve contradictions from two baraitot, and item 4 presents Shmuel's restatement \u2014 which precisely matches heading 5 ('Braitta Objection') whose prose describes exactly this sequence of baraita challenges and their resolutions regarding whether the phrases alone or combined create a prohibition.",
+      "chosen_heading": "Braitta Objection",
+      "current_heading": "Filling Blanks Logic",
+      "moved": true
+    }
+  }
+]

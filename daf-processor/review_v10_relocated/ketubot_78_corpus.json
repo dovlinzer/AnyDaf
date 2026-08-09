@@ -1,0 +1,266 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Ad Shelo Titaras Case",
+    "candidates": [
+      "Previous Perakim Overview",
+      "Nichsei Milog & Perot",
+      "Tzoan Barzel vs Milog",
+      "Ad Shelo Titaras Case",
+      "After Erusin Dispute",
+      "Zacha B'Ishah Argument",
+      "Anu Boshim Response",
+      "Naflu Lah Misheniset",
+      "Title vs Perot Sale",
+      "Old vs New Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers exactly the three cases (before erusin, after erusin, and the bedieved ruling) that the 'Ad Shelo Titaras Case' prose introduces and discusses, making it the correct home for this text.",
+      "chosen_heading": "Ad Shelo Titaras Case",
+      "current_heading": "Ad Shelo Titaras Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Old vs New Property",
+    "candidates": [
+      "After Erusin Dispute",
+      "Zacha B'Ishah Argument",
+      "Anu Boshim Response",
+      "Naflu Lah Misheniset",
+      "Title vs Perot Sale",
+      "Old vs New Property",
+      "Merit Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zacha B'Ishah Argument",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the two versions of the 'zacha b'ishah / anu boshim' exchange before Rabban Gamliel, which correspond precisely to candidates 1 and 2 covering that dispute.",
+      "second_heading": "Old vs New Property",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rabbi Shimon's distinction between property known and unknown to the husband) is part of the 'Old vs New Property' Mishnah section that candidate 5's prose explicitly discusses as the closing of that Mishnah.",
+      "current_heading": "Old vs New Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Merit Argument",
+    "candidates": [
+      "Merit Argument",
+      "Rashi's Reframing",
+      "Safek Zechus Gray Area",
+      "Chachamim Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion of why the first and latter clauses differ \u2014 the question, Rabbi Yannai's answer, and the refinement \u2014 which is precisely what the 'Merit Argument' prose describes in detail.",
+      "chosen_heading": "Merit Argument",
+      "current_heading": "Merit Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Chachamim Challenge",
+    "candidates": [
+      "Rashi's Reframing",
+      "Safek Zechus Gray Area",
+      "Chachamim Challenge",
+      "Hard Legal Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara raising the dilemma about whether Rabbi Yehuda's report of the Chachamim's challenge was a lechatchila or bedieved argument, which is precisely what the 'Chachamim Challenge' prose section describes and addresses.",
+      "chosen_heading": "Chachamim Challenge",
+      "current_heading": "Chachamim Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Hard Legal Response",
+    "candidates": [
+      "Hard Legal Response",
+      "Old Property After Nisuin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Old Property After Nisuin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about Rabban Gamliel's 'anu boshim' response to old property sold after nissuin, which matches candidate 1's prose discussion of exactly that exchange.",
+      "second_heading": "Hard Legal Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi \u1e24anina ben Akavya's version of Rabban Gamliel's hard legal response distinguishing nesuah from arusa, which matches candidate 0's prose precisely.",
+      "current_heading": "Hard Legal Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Old Property After Nisuin",
+    "candidates": [
+      "Old Property After Nisuin",
+      "Lechatchila vs Bedieved"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Old Property After Nisuin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the baraita dialogue about old property sold after nissuin and Rabban Gamliel's 'anu boshim' answer, which is precisely what the 'Old Property After Nisuin' prose describes in detail.",
+      "second_heading": "Lechatchila vs Bedieved",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the contradiction between the baraita's lechatchila formulation and the Mishnah's bedieved formulation, which is exactly what the 'Lechatchila vs Bedieved' prose addresses.",
+      "current_heading": "Old Property After Nisuin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Lechatchila vs Bedieved",
+    "candidates": [
+      "Lechatchila vs Bedieved",
+      "Rav & Shmuel Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Zevid's emendation and Rav Pappa's resolution of the contradiction between Rabbi Yehuda's and Rabbi Chanina ben Akavya's versions of Rabban Gamliel's opinion, along with the Beit Shammai/Beit Hillel question \u2014 all of which is precisely what the 'Lechatchila vs Bedieved' prose describes.",
+      "chosen_heading": "Lechatchila vs Bedieved",
+      "current_heading": "Lechatchila vs Bedieved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rav & Shmuel Ruling",
+    "candidates": [
+      "Rav & Shmuel Ruling",
+      "Rabanan's Vote & Usha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav and Shmuel's ruling directly, which is precisely what candidate 0's prose introduces and discusses, making the current placement correct.",
+      "chosen_heading": "Rav & Shmuel Ruling",
+      "current_heading": "Rav & Shmuel Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rabanan's Vote & Usha",
+    "candidates": [
+      "Rabanan's Vote & Usha",
+      "Usha Takkanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about 'rabboseinu chazru v'nimnu' and the ruling that the husband may repossess property from purchasers regardless of when it was acquired, which is precisely what the prose in candidate 0 ('Rabanan's Vote & Usha') discusses in detail.",
+      "chosen_heading": "Rabanan's Vote & Usha",
+      "current_heading": "Rabanan's Vote & Usha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Usha Takkanah",
+    "candidates": [
+      "Usha Takkanah",
+      "Perot vs Guf Guf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces and explains the Usha ordinance as reported by Rabbi Yosei son of Rabbi \u1e24anina, which is precisely what the 'Usha Takkanah' section's prose discusses \u2014 the Gemara's question of whether the Mishnah already teaches the Usha enactment.",
+      "chosen_heading": "Usha Takkanah",
+      "current_heading": "Usha Takkanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Perot vs Guf Guf",
+    "candidates": [
+      "Perot vs Guf Guf",
+      "Own vs Receive Income",
+      "Land vs Chattels",
+      "Geographic Remoteness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly distinguishes between the Mishnah's concern with perot during her lifetime versus Takkanat Usha's concern with the guf of the land after death, which is exactly what the 'Perot vs Guf Guf' section's prose discusses.",
+      "chosen_heading": "Perot vs Guf Guf",
+      "current_heading": "Perot vs Guf Guf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Geographic Remoteness",
+    "candidates": [
+      "Own vs Receive Income",
+      "Land vs Chattels",
+      "Geographic Remoteness",
+      "Expectation & Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Gemara's question about what counts as 'known' vs 'unknown' property, which is precisely what heading 1 ('Land vs Chattels') sets up in its prose \u2014 asking what qualifies as yeduin and she'ein yeduin \u2014 while heading 2 ('Geographic Remoteness') already contains the answers (Rabbi Yose and Rabbi Yochanan's positions) that this passage provides, meaning the passage belongs under heading 1 as the question it answers, not under heading 2 which summarizes those answers in prose.",
+      "chosen_heading": "Land vs Chattels",
+      "current_heading": "Geographic Remoteness",
+      "moved": true
+    }
+  }
+]

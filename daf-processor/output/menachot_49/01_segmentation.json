@@ -54,7 +54,7 @@
           "timestamp": "04:57"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -191,7 +191,7 @@
           "timestamp": "51:35"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -226,7 +226,7 @@
         }
       ],
       "sefaria_index": 18,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Incense: Why Afternoon Incense Alone Is Permitted (continued)",
@@ -240,7 +240,7 @@
         }
       ],
       "sefaria_index": 18,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Golden Altar and the Incense: Which Burning Inaugurates It?",
@@ -279,7 +279,7 @@
         }
       ],
       "sefaria_index": 18,
-      "matched": false
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -597,5 +597,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 25
+  "amud_b_sefaria_index": 25,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "12:06",
+  "amud_b_micro_title": "Mishnah Evidence",
+  "shiur_start_daf": 49,
+  "shiur_start_amud": "a"
 }

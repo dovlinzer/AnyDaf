@@ -1,0 +1,286 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "\u05dc\u05e2\u05d5\u05e3 \u05d5\u05dc\u05d1\u05d4\u05de\u05d4",
+    "candidates": [
+      "Overview",
+      "\u05dc\u05e2\u05d5\u05e3 \u05d5\u05dc\u05d1\u05d4\u05de\u05d4",
+      "Klal u-Frat u-Klal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the verse needed to state both 'l'oph' and 'l'vehemah' \u2014 specifically the reasoning about eima la-banim (mother bird prohibition) that would have excluded kosher birds had only 'l'vehemah' been stated, which matches exactly the content described in the '\u05dc\u05e2\u05d5\u05e3 \u05d5\u05dc\u05d1\u05d4\u05de\u05d4' section's prose.",
+      "chosen_heading": "\u05dc\u05e2\u05d5\u05e3 \u05d5\u05dc\u05d1\u05d4\u05de\u05d4",
+      "current_heading": "\u05dc\u05e2\u05d5\u05e3 \u05d5\u05dc\u05d1\u05d4\u05de\u05d4",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Klal u-Frat u-Klal",
+    "candidates": [
+      "Klal u-Frat u-Klal",
+      "Defining Features"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the klal u-frat u-klal hermeneutical discussion \u2014 the challenge of reading it as klal u-frat only, the answer via the second klal, the objection about the two klalim being dissimilar, and the school of Rabbi Yishmael's response \u2014 exactly matching the prose of candidate 0.",
+      "chosen_heading": "Klal u-Frat u-Klal",
+      "current_heading": "Klal u-Frat u-Klal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Defining Features",
+    "candidates": [
+      "Defining Features",
+      "Koy Independence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage articulates the defining features derived from the klal u-frat u-klal (light/severe tumah, issur/heter, min basar), which is precisely what the 'Defining Features' prose section discusses.",
+      "chosen_heading": "Defining Features",
+      "current_heading": "Defining Features",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Koy Independence",
+    "candidates": [
+      "Koy Independence",
+      "Koy Laws",
+      "Koy Rulings",
+      "Live Human Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All five items form a continuous discussion about the koy \u2014 items 1-2 establish why a verse is needed (koy as distinct entity), items 3-4 derive specific prohibitions, and item 5 derives impurity/slaughter rules \u2014 and the current heading 'Koy Independence' prose best encompasses this entire arc, though items 3-5 could also fit under 'Koy Laws'/'Koy Rulings'; since the passage is one continuous unit and the current placement covers the opening question that drives all subsequent derivations, it remains the best single home.",
+      "chosen_heading": "Koy Independence",
+      "current_heading": "Koy Independence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Live Human Meat",
+    "candidates": [
+      "Koy Laws",
+      "Koy Rulings",
+      "Live Human Meat",
+      "Dead Human Status",
+      "Neveilah Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items discuss the conditions under which flesh cut from a living human can receive tumat ochlin (machshavah and hechsher), the distinction between intent for human vs. dog consumption, and the asymmetry of acquiring vs. losing food status \u2014 precisely the content described in the 'Live Human Meat' prose section.",
+      "chosen_heading": "Live Human Meat",
+      "current_heading": "Live Human Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Neveilah Types",
+    "candidates": [
+      "Dead Human Status",
+      "Neveilah Types",
+      "No Hechsher",
+      "Half-Kezayit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about neveilah of animals after death \u2014 the objection about animal blood transmitting severe impurity, the mishna from Eduyyot about blood of carcasses, and the resolution citing the Okatzin mishna distinguishing types of neveilah with respect to machshavah and hechsher \u2014 which is precisely what the 'Neveilah Types' prose describes.",
+      "chosen_heading": "Neveilah Types",
+      "current_heading": "Neveilah Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Half-Kezayit",
+    "candidates": [
+      "No Hechsher",
+      "Half-Kezayit",
+      "Encased Neveilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about the sub-kezayit neveilah scenario \u2014 Rav's challenge, Rabbi \u1e24iyya's response about combining less-than-kezayit neveilah with less-than-kebaitza food, the hechsher objection, and its resolution plus the exclusion of a human corpse \u2014 which is precisely the scenario described in the 'Half-Kezayit' prose.",
+      "chosen_heading": "Half-Kezayit",
+      "current_heading": "Half-Kezayit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Encased Neveilah",
+    "candidates": [
+      "Encased Neveilah",
+      "Corpse Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the enclosed-neveilah-in-dough scenario and the challenge/response about hechsher vs. masa tumah, which is precisely what the 'Encased Neveilah' prose describes.",
+      "chosen_heading": "Encased Neveilah",
+      "current_heading": "Encased Neveilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Corpse Tumah",
+    "candidates": [
+      "Corpse Tumah",
+      "Fish/Locust Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses how a human corpse transmits severe tumah that breaks through and ascends/descends even when covered with dough, which is precisely what the 'Corpse Tumah' section's prose discusses regarding tumas meis and the boka ve-olah principle.",
+      "chosen_heading": "Corpse Tumah",
+      "current_heading": "Corpse Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Fish/Locust Blood",
+    "candidates": [
+      "Fish/Locust Blood",
+      "Rodent Blood"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rodent Blood",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses sheratzim blood exclusion due to lacking severe tumah, which matches the Rodent Blood section's explicit reference to 'yatza dam sheratzim she-ein bahem tumah chamurah' as part of that discussion.",
+      "second_heading": "Fish/Locust Blood",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 analyze the baraita's exclusion of fish/grasshopper blood (kulo heter, no shechitah required) and the bird/kilayim discussion, matching exactly the Fish/Locust Blood prose's detailed treatment of these topics.",
+      "current_heading": "Fish/Locust Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rodent Blood",
+    "candidates": [
+      "Rodent Blood",
+      "Human Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical unit \u2014 Rav Yehuda's ruling about rodent blood, the baraita objection, and the gemara's challenge to the proposed resolution \u2014 which matches exactly what the 'Rodent Blood' prose describes.",
+      "chosen_heading": "Rodent Blood",
+      "current_heading": "Rodent Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Human Blood",
+    "candidates": [
+      "Human Blood",
+      "Fish vs. Human"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage from Rabbi Zeira directly addresses the blood of creeping animals (sheretz) and the distinction between forewarning someone under the prohibition of sheretz versus blood, which is the topic being discussed in the 'Human Blood' section's prose about dam sheratzim u-remasim and how the prohibition stems from the issur of sheretz rather than blood.",
+      "chosen_heading": "Human Blood",
+      "current_heading": "Human Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Fish vs. Human",
+    "candidates": [
+      "Fish vs. Human",
+      "Gum Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's ruling on collected fish blood and the baraita's permission for fish/grasshopper blood, which is precisely the topic introduced and analyzed in the 'Fish vs. Human' prose section.",
+      "chosen_heading": "Fish vs. Human",
+      "current_heading": "Fish vs. Human",
+      "moved": false
+    }
+  }
+]

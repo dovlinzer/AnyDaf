@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Torah in Bathhouse",
+    "candidates": [
+      "Rebbi & Oil Flask",
+      "Three Inferences",
+      "Chamei Teverya",
+      "Torah in Bathhouse",
+      "Connected Systems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the question of how Rebbe could speak Torah in the bathhouse and the resolution via 'afrushei mei'isura shani,' with item 2 being the parallel proof from Rabbi Meir \u2014 exactly the content described in the 'Torah in Bathhouse' prose.",
+      "chosen_heading": "Torah in Bathhouse",
+      "current_heading": "Torah in Bathhouse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Connected Systems",
+    "candidates": [
+      "Connected Systems",
+      "Cooking Definition",
+      "Lifting Feet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether cooking in chamei Teverya on Shabbat constitutes a biblical or rabbinic violation, which fits precisely under the 'Cooking Definition' section's discussion of the three criteria for bishul including fire vs. chamei Teverya as the heat source.",
+      "chosen_heading": "Cooking Definition",
+      "current_heading": "Connected Systems",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Lifting Feet",
+    "candidates": [
+      "Cooking Definition",
+      "Lifting Feet",
+      "Flotation Concern",
+      "Lip Distinction",
+      "Ashkenazi/Sefardi",
+      "Abbahu Covering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete gemara unit about Rabbi Zeira observing Rabbi Abbahu floating in the bath and the resolution via the baraita about pools with and without embankments (gidudei), which is precisely what the 'Lifting Feet' prose section describes.",
+      "chosen_heading": "Lifting Feet",
+      "current_heading": "Lifting Feet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Abbahu Covering",
+    "candidates": [
+      "Flotation Concern",
+      "Lip Distinction",
+      "Ashkenazi/Sefardi",
+      "Abbahu Covering",
+      "Distraction Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Zeira's observation of Rabbi Abbahu covering his genitals and the gemara's resolution that he obviously did not touch himself, citing Rabbi Eliezer's teaching about holding oneself while urinating \u2014 exactly what the 'Abbahu Covering' prose describes.",
+      "chosen_heading": "Abbahu Covering",
+      "current_heading": "Abbahu Covering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Distraction Principle",
+    "candidates": [
+      "Distraction Principle",
+      "Two Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's boleshet argument and the fear-of-the-river explanation, which is precisely what the 'Distraction Principle' prose describes.",
+      "chosen_heading": "Distraction Principle",
+      "current_heading": "Distraction Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Two Concerns",
+    "candidates": [
+      "Two Concerns",
+      "Rava/Zeira Practices",
+      "Rav Ashi's Rabbis",
+      "Avoiding Rav Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the precise practices of the rabbis of Rav Ashi's school \u2014 standing upright when descending, bending when ascending \u2014 which is exactly what the 'Rav Ashi's Rabbis' section discusses, making it a clearly better match than the current 'Two Concerns' placement.",
+      "chosen_heading": "Rav Ashi's Rabbis",
+      "current_heading": "Two Concerns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Avoiding Rav Yehuda",
+    "candidates": [
+      "Rava/Zeira Practices",
+      "Rav Ashi's Rabbis",
+      "Avoiding Rav Yehuda",
+      "Bathhouse Instructions",
+      "Hebrew Speech",
+      "Air & Health",
+      "Drinking After Bath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Zeira avoiding Rav Yehuda due to his desire to make aliyah and Rav Yehuda's opposing ruling, which is precisely what the 'Avoiding Rav Yehuda' section's prose discusses.",
+      "chosen_heading": "Avoiding Rav Yehuda",
+      "current_heading": "Avoiding Rav Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Drinking After Bath",
+    "candidates": [
+      "Bathhouse Instructions",
+      "Hebrew Speech",
+      "Air & Health",
+      "Drinking After Bath",
+      "Mulyar Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three instructions analyzed together \u2014 Hebrew speech, the air/vapor principle, and the health baraita about eating/drinking/walking/bathing \u2014 which precisely matches the 'Air & Health' section's prose that discusses all these elements including the drinking instruction and the baraita about eating without drinking, walking, and bathing in hot water.",
+      "chosen_heading": "Air & Health",
+      "current_heading": "Drinking After Bath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Mulyar Rules",
+    "candidates": [
+      "Drinking After Bath",
+      "Mulyar Rules",
+      "Antiki Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna introduces both the mulyar and antiki together, and the 'Mulyar Rules' prose explicitly describes this as the section where the mishnah presents these two vessels, matching the current placement.",
+      "chosen_heading": "Mulyar Rules",
+      "current_heading": "Mulyar Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Antiki Rules",
+    "candidates": [
+      "Antiki Rules",
+      "Kirah/Tanur Parallel",
+      "Mishnah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the definition of mulyar and antikhi, Rabba's and Rav Nachman's opinions on antikhi as bei kirei vs. bei dudi, and the baraita supporting Rav Nachman \u2014 all of which is precisely what the 'Antiki Rules' prose section addresses.",
+      "chosen_heading": "Antiki Rules",
+      "current_heading": "Antiki Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Mishnah Rules",
+    "candidates": [
+      "Kirah/Tanur Parallel",
+      "Mishnah Rules",
+      "Rav Adda Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about the meicham (hot water kettle) and the rules about adding cold water to heat vs. warm it, which directly corresponds to the 'Mishnah Rules' section prose that explains exactly this ruling.",
+      "chosen_heading": "Mishnah Rules",
+      "current_heading": "Mishnah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Rav Adda Interpretation",
+    "candidates": [
+      "Rav Adda Interpretation",
+      "Abaye's Version",
+      "Tempering Problem",
+      "Rav/Shmuel Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Adda Interpretation",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 cover Rav Adda's interpretation and the mitzaref/Rabbi Shimon objection-and-answer, which is exactly what heading 0 ('Rav Adda Interpretation') discusses.",
+      "second_heading": "Tempering Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's counter-proposal distinguishing the empty-vessel case and attributing the ruling to Rabbi Yehuda, which matches heading 2 ('Tempering Problem') prose that explains how Abaye's reading avoids mitzaref and adds the rule that an empty vessel may not receive cold water at all.",
+      "current_heading": "Rav Adda Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav/Shmuel Dispute",
+    "candidates": [
+      "Abaye's Version",
+      "Tempering Problem",
+      "Rav/Shmuel Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly records the Rav/Shmuel dispute about whether the permitted amount is only 'a measure to warm' or even 'a measure to harden/temper,' which is precisely what the 'Rav/Shmuel Dispute' section's prose describes.",
+      "chosen_heading": "Rav/Shmuel Dispute",
+      "current_heading": "Rav/Shmuel Dispute",
+      "moved": false
+    }
+  }
+]

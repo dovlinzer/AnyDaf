@@ -172,7 +172,7 @@
           "timestamp": "46:40"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -207,7 +207,7 @@
         }
       ],
       "sefaria_index": 22,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Bridging Concrete Categories and Abstract Principles: The Challenge of Categorizing New Cases",
@@ -494,5 +494,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "36:55",
+  "amud_b_micro_title": "Mishna Position",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "a"
 }

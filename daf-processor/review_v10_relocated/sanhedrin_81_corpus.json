@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Ezekiel 18 Citation",
+    "candidates": [
+      "Intro: Two Violations",
+      "Single Act, Two Issurim",
+      "Sequential Sins Obvious",
+      "Rava's Case: Judgment Day",
+      "New Judgment Passed",
+      "Ezekiel 18 Citation",
+      "Rav Pappa's Challenge",
+      "Rebuttal: Purpose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intro: Two Violations",
+      "first_confidence": "high",
+      "first_reason": "Items 1 is the Mishna introducing the case of two death penalties and Rabbi Yosi's dispute, matching heading 0 ('Intro: Two Violations') and heading 1 ('Single Act, Two Issurim') \u2014 but structurally item 1 contains the full Mishna which belongs under the opening intro heading.",
+      "second_heading": "Sequential Sins Obvious",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 are the Gemara's discussion beginning with 'pshita' (obvious objection), Rava's clarification, and the Ezekiel derivation with Rav Nachman's challenge, which collectively belong under heading 2 ('Sequential Sins Obvious') as the start of the Gemara's sequential treatment of the Mishna's rulings.",
+      "current_heading": "Ezekiel 18 Citation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rebuttal: Purpose",
+    "candidates": [
+      "Rav Pappa's Challenge",
+      "Rebuttal: Purpose",
+      "Rav Acha's Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about what Ezekiel is teaching us and the rebuttal that he should have reviewed Torah in the manner of Moses, which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Rebuttal: Purpose",
+      "current_heading": "Rebuttal: Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav Acha's Derasha",
+    "candidates": [
+      "Rav Acha's Derasha",
+      "Not Eating Mountains",
+      "Virtues: Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav A\u1e25a's derasha and covers both the 'mountains' and 'upright stature' interpretations together, matching the introductory prose of heading 0 which frames the overall homiletic interpretation before the subsequent headings break it into individual components.",
+      "chosen_heading": "Rav Acha's Derasha",
+      "current_heading": "Rav Acha's Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Virtues: Humility",
+    "candidates": [
+      "Not Eating Mountains",
+      "Virtues: Humility",
+      "Rabban Gamliel Weeps",
+      "Rabbi Akiva Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the metaphorical interpretations of the verse (already summarized in candidate 1's prose) AND Rabban Gamliel's weeping and his concern about needing to fulfill all the qualities \u2014 which is precisely what candidate 2's prose describes, making it the best match for this specific passage.",
+      "chosen_heading": "Rabban Gamliel Weeps",
+      "current_heading": "Virtues: Humility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rabbi Akiva Response",
+    "candidates": [
+      "Rabban Gamliel Weeps",
+      "Rabbi Akiva Response",
+      "Mother-in-Law Case",
+      "MIL Becomes Married"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's response using the parallel verse from Leviticus 18:24 to console Rabban Gamliel, which is precisely what the 'Rabbi Akiva Response' section's prose describes.",
+      "chosen_heading": "Rabbi Akiva Response",
+      "current_heading": "Rabbi Akiva Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "MIL Becomes Married",
+    "candidates": [
+      "Mother-in-Law Case",
+      "MIL Becomes Married",
+      "Married Becomes MIL",
+      "Rav Adda Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita explains Rabbi Yosi's position by presenting both scenarios together, matching the 'Mother-in-Law Case' prose which explicitly states a baraita is cited explaining what Rabbi Yosi means \u2014 the passage covers both scenarios as a unit and belongs under the introductory heading rather than being split under the individual scenario headings.",
+      "chosen_heading": "Mother-in-Law Case",
+      "current_heading": "MIL Becomes Married",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rav Adda Challenge",
+    "candidates": [
+      "Married Becomes MIL",
+      "Rav Adda Challenge",
+      "Rabbi Abbahu Teaching",
+      "Response: Irrelevant Sta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Adda's challenge to Rava \u2014 item 1 poses the question about chamot who became eshet ish, and item 2 completes the challenge by invoking Rabbi Abbahu's issur mosif principle \u2014 which is precisely what the 'Rav Adda Challenge' prose describes.",
+      "chosen_heading": "Rav Adda Challenge",
+      "current_heading": "Rav Adda Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Response: Irrelevant Sta",
+    "candidates": [
+      "Rabbi Abbahu Teaching",
+      "Response: Irrelevant Sta",
+      "Mishna: Kippah",
+      "Kippah: Barley Death",
+      "Justification Question",
+      "Kares Justification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Response: Irrelevant Sta",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's response about killing with two death penalties, which directly matches the 'Response: Irrelevant Sta' section's prose about the double-death objection and its relevance only in shogeg cases.",
+      "second_heading": "Mishna: Kippah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna introducing the kippah institution ('mi she-lakah ve-shanah'), which directly matches the 'Mishna: Kippah' section's prose describing exactly that mishna.",
+      "current_heading": "Response: Irrelevant Sta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Kares Justification",
+    "candidates": [
+      "Mishna: Kippah",
+      "Kippah: Barley Death",
+      "Justification Question",
+      "Kares Justification",
+      "One vs. Multiple Kares"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage begins with the Gemara's question about what justifies placing someone in the kippah ('due to the fact that he was flogged and repeated' \u2014 is that sufficient?), which is precisely the 'Justification Question' section, though it then immediately provides the answer (Reish Lakish's karet explanation), making it overlap with the 'Kares Justification' section; however, since the passage opens with the question itself and the question-and-answer unit naturally belongs together under the heading that poses the question, index 2 is a slightly better fit, though the current placement at index 3 is also defensible.",
+      "chosen_heading": "Justification Question",
+      "current_heading": "Kares Justification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "One vs. Multiple Kares",
+    "candidates": [
+      "One vs. Multiple Kares",
+      "Mishna: Two Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between lashes for one karet offense versus multiple different karet offenses, which is precisely what the prose under 'One vs. Multiple Kares' discusses.",
+      "chosen_heading": "One vs. Multiple Kares",
+      "current_heading": "One vs. Multiple Kares",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Mishna: Two Times",
+    "candidates": [
+      "Mishna: Two Times",
+      "Baraita: Two Lashes",
+      "Abba Shaul: Three Times",
+      "Lashes vs. Sins",
+      "Sins Count"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna: Two Times",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's challenge that the mishna contradicts Rabban Shimon ben Gamliel's requirement of three instances, which is exactly what the 'Mishna: Two Times' prose describes.",
+      "second_heading": "Lashes vs. Sins",
+      "second_confidence": "low",
+      "second_reason": "Ravina's response in Item 2 argues that transgressions (not lashes) establish the presumptive status, which is the core point of both 'Lashes vs. Sins' and 'Sins Count' \u2014 but since Ravina's statement is the resolution that the 'Lashes vs. Sins' prose is building toward, and 'Sins Count' more fully captures Ravina's argument, Item 2 best fits under 'Sins Count' (index 3 is 'Lashes vs. Sins' which sets up Ravina's rebuttal, making index 3 a plausible home, but index 4 'Sins Count' is the clearest match for Ravina's actual statement).",
+      "current_heading": "Mishna: Two Times",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Sins Count",
+    "candidates": [
+      "Baraita: Two Lashes",
+      "Abba Shaul: Three Times",
+      "Lashes vs. Sins",
+      "Sins Count",
+      "No Lashes Case",
+      "TK: Third Warning",
+      "AS: Kippah Warning",
+      "Kippah Requires Warning",
+      "Height of Kippah",
+      "Scripture Hint"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lashes vs. Sins",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the objection from the baraita about lashes and the gemara's resolution distinguishing 'aveiros machzikos' from 'malkus machzikos', which is precisely what heading 'Lashes vs. Sins' describes.",
+      "second_heading": "No Lashes Case",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce an entirely new baraita case where lashes were never administered (warnings given but not accepted), and Ravina's answer that the dispute concerns whether kippah requires its own forewarning, matching heading 'No Lashes Case'.",
+      "current_heading": "Sins Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Scripture Hint",
+    "candidates": [
+      "No Lashes Case",
+      "TK: Third Warning",
+      "AS: Kippah Warning",
+      "Kippah Requires Warning",
+      "Height of Kippah",
+      "Scripture Hint",
+      "Know Not Your Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes both the physical height of the kippah (Rav Yehuda's 'malei komaso') and the scriptural hint (Reish Lakish's verse), and the 'Height of Kippah' prose section explicitly covers both elements \u2014 the physical structure and Rav Yehuda's teaching \u2014 making it the best fit, while 'Scripture Hint' is a separate heading that covers only the second part.",
+      "chosen_heading": "Height of Kippah",
+      "current_heading": "Scripture Hint",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Know Not Your Time",
+    "candidates": [
+      "Scripture Hint",
+      "Know Not Your Time",
+      "Murderer Confined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's interpretation of 'metzudah ra'ah' as a hook, which is exactly what candidate 1's prose describes.",
+      "chosen_heading": "Know Not Your Time",
+      "current_heading": "Know Not Your Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Murderer Confined",
+    "candidates": [
+      "Murderer Confined",
+      "Evidence Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage directly introduces the kippah confinement for a murderer without witnesses, which is precisely what the 'Murderer Confined' section's prose describes.",
+      "chosen_heading": "Murderer Confined",
+      "current_heading": "Murderer Confined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Evidence Types",
+    "candidates": [
+      "Evidence Types",
+      "Why Murderers",
+      "Combined Mishnayos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the three Amoraic opinions (Rav, Shmuel, Rav \u1e24isda/Avimi) explaining how we know the murderer is guilty despite lacking valid testimony for conviction \u2014 exactly what the 'Evidence Types' prose describes in detail.",
+      "chosen_heading": "Evidence Types",
+      "current_heading": "Evidence Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Combined Mishnayos",
+    "candidates": [
+      "Why Murderers",
+      "Combined Mishnayos",
+      "Three Zealot Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contrast between the two mishnayos' different regimens (sparing bread/water vs. barley until stomach bursts) and Rav Sheshet's resolution that they describe sequential stages, which is precisely what the 'Combined Mishnayos' prose describes.",
+      "chosen_heading": "Combined Mishnayos",
+      "current_heading": "Combined Mishnayos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Three Zealot Cases",
+    "candidates": [
+      "Three Zealot Cases",
+      "Kasva Temple Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing all the zealot cases including the kasva, cursing with a sorcerer, intercourse with an Aramean woman, the impure priest, and the non-priest performing Temple service \u2014 exactly what the 'Three Zealot Cases' prose describes in full.",
+      "chosen_heading": "Three Zealot Cases",
+      "current_heading": "Three Zealot Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Kasva Temple Vessel",
+    "candidates": [
+      "Kasva Temple Vessel",
+      "Prognosticator Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the identification of kasva as a service vessel and the scriptural hint for death penalty from Numbers 4:20, which is precisely what the 'Kasva Temple Vessel' prose section describes.",
+      "chosen_heading": "Kasva Temple Vessel",
+      "current_heading": "Kasva Temple Vessel",
+      "moved": false
+    }
+  }
+]

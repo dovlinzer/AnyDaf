@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Locked Door Case",
+    "candidates": [
+      "Locked Door Case",
+      "Line of Sight",
+      "Upper/Lower Story",
+      "Fighting Interruption",
+      "Fear of Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the locked-door incident with the crack and Rava's ruling about barrels opposite the crack, which is precisely what the 'Locked Door Case' prose section describes.",
+      "chosen_heading": "Locked Door Case",
+      "current_heading": "Locked Door Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Fear of Return",
+    "candidates": [
+      "Line of Sight",
+      "Upper/Lower Story",
+      "Fighting Interruption",
+      "Fear of Return",
+      "Inn Barrels",
+      "Consequences Test",
+      "No Consequences",
+      "House Barrels",
+      "Has Excuse",
+      "No Excuse",
+      "Rashi Explains"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fear of Return",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the upper/lower story case with the quarrel and locked door, and Rava's ruling that the wine is permitted because the non-Jew feared the Jew might have returned first \u2014 exactly the content described in heading 3 'Fear of Return'.",
+      "second_heading": "Inn Barrels",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is an entirely new scenario at an inn with a non-Jew found among barrels and Rava's conditional ruling, which matches heading 4 'Inn Barrels' precisely.",
+      "current_heading": "Fear of Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rashi Explains",
+    "candidates": [
+      "Inn Barrels",
+      "Consequences Test",
+      "No Consequences",
+      "House Barrels",
+      "Has Excuse",
+      "No Excuse",
+      "Rashi Explains",
+      "Right to Be",
+      "Mincha Return",
+      "Mincha Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the case of a house (not an inn) where wine was stored and a gentile found among the barrels, with Rava's conditional ruling \u2014 which is exactly what the 'House Barrels' prose introduces.",
+      "chosen_heading": "House Barrels",
+      "current_heading": "Rashi Explains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Mincha Service",
+    "candidates": [
+      "Right to Be",
+      "Mincha Return",
+      "Mincha Service",
+      "Shabbat Preparation",
+      "Shabbat Money",
+      "Wallet Precedent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mincha Service",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the mincha/synagogue prayer case that Rava rules on, which matches exactly the 'Mincha Service' prose about a Jew leaving wine to go pray and the non-Jew expecting him to return.",
+      "second_heading": "Shabbat Preparation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the boat/shofar-of-twilight case where the Jew leaves for Shabbat, matching exactly the 'Shabbat Preparation' prose about the Jew hearing the shofar blast and disembarking.",
+      "current_heading": "Mincha Service",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Wallet Precedent",
+    "candidates": [
+      "Shabbat Preparation",
+      "Shabbat Money",
+      "Wallet Precedent",
+      "Lion Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Issur Giyora teaching and Rabbi Yitzchak's wallet ruling, which candidate 1 ('Shabbat Money') directly introduces and explains as its own content, whereas candidate 2 ('Wallet Precedent') discusses the implications of that ruling rather than the ruling itself.",
+      "chosen_heading": "Shabbat Money",
+      "current_heading": "Wallet Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Lion Case",
+    "candidates": [
+      "Wallet Precedent",
+      "Lion Case",
+      "Mutual Fear",
+      "Thieves Pumbedita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the lion roaring in the winepress and a gentile hiding among the barrels, which is precisely the scenario introduced in the 'Lion Case' prose, making the current placement correct.",
+      "chosen_heading": "Lion Case",
+      "current_heading": "Lion Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Thieves Pumbedita",
+    "candidates": [
+      "Mutual Fear",
+      "Thieves Pumbedita",
+      "Thieves Jewish",
+      "Nehardea Case",
+      "Double Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes thieves coming to Pumbedita and opening barrels, with Rava permitting the wine, plus the Nehardea case \u2014 but the current placement 'Thieves Pumbedita' is actually the best match since it directly describes this incident, while the Nehardea detail is also briefly covered here before being elaborated in candidate 3.",
+      "chosen_heading": "Thieves Pumbedita",
+      "current_heading": "Thieves Pumbedita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Double Doubt",
+    "candidates": [
+      "Thieves Jewish",
+      "Nehardea Case",
+      "Double Doubt",
+      "Froth Discovery",
+      "Outside Froth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the question whether Shmuel follows Rabbi Eliezer's safek bi'ah ruling, the supporting mishna from Teharot, and the Gemara's rejection in favor of sefek sefeka \u2014 which is precisely what the 'Double Doubt' prose describes.",
+      "chosen_heading": "Double Doubt",
+      "current_heading": "Double Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Outside Froth",
+    "candidates": [
+      "Froth Discovery",
+      "Outside Froth",
+      "Child Awareness",
+      "Troop Barrels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident itself \u2014 the girl found among barrels with froth in hand \u2014 which matches 'Froth Discovery' prose exactly, while 'Outside Froth' covers Rava's ruling and reasoning that follows.",
+      "chosen_heading": "Froth Discovery",
+      "current_heading": "Outside Froth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Troop Barrels",
+    "candidates": [
+      "Child Awareness",
+      "Troop Barrels",
+      "Key Guardian",
+      "Tahara Keys",
+      "Weights Compare",
+      "Adjacent Yards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Troop Barrels",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the pulmusa/army case in Nehardea and the Gemara's analysis of safek bi'ah vs. safek maga, which matches exactly the 'Troop Barrels' prose discussion.",
+      "second_heading": "Key Guardian",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce an entirely new case \u2014 the female wine shop owner handing a key to a non-Jewish woman \u2014 which matches the 'Key Guardian' prose, with item 4's Abaye mishna parallel fitting naturally as the continuation of that key-guardian topic (confirmed by 'Tahara Keys' prose being the next section).",
+      "current_heading": "Troop Barrels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Adjacent Yards",
+    "candidates": [
+      "Key Guardian",
+      "Tahara Keys",
+      "Weights Compare",
+      "Adjacent Yards",
+      "Boundary Sufficient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge to Abaye's comparative claim \u2014 questioning whether taharot are indeed more stringent than yayin nesech \u2014 which is precisely what the 'Weights Compare' section's prose describes as the subject taken up explicitly by the Gemara.",
+      "chosen_heading": "Weights Compare",
+      "current_heading": "Adjacent Yards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Boundary Sufficient",
+    "candidates": [
+      "Adjacent Yards",
+      "Boundary Sufficient",
+      "Rooftop Reach",
+      "Excuse Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Boundary Sufficient",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the inner/outer courtyard baraita challenge to Rav and his 'nitpas k'ganav' response, which is precisely what Candidate 1 ('Boundary Sufficient') discusses in detail.",
+      "second_heading": "Rooftop Reach",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rabban Shimon ben Gamliel's rooftop ruling (difficulty for Rabbi Yochanan) and Rabbi Yochanan's 'aishtemutei' response, which is exactly what Candidate 2 ('Rooftop Reach') and its prose describe.",
+      "current_heading": "Boundary Sufficient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Excuse Debate",
+    "candidates": [
+      "Rooftop Reach",
+      "Excuse Debate",
+      "Peacetime"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the side-by-side rooftop case where the am ha'aretz's hand can reach, posing a difficulty to Rav who responds by aligning with Rabban Shimon ben Gamliel \u2014 exactly what the 'Excuse Debate' prose describes in detail.",
+      "chosen_heading": "Excuse Debate",
+      "current_heading": "Excuse Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Peacetime",
+    "candidates": [
+      "Peacetime",
+      "Wartime",
+      "Distraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the full case of boleshet entering a city, covering both peacetime and wartime, but the current heading 'Peacetime' is where the mishnah itself sits and its prose directly introduces and explains this mishna text, making it the correct placement.",
+      "chosen_heading": "Peacetime",
+      "current_heading": "Peacetime",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Distraction",
+    "candidates": [
+      "Wartime",
+      "Distraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav Mari resolution (lenasech ein penai, livol yesh penai) and the besieged city contradiction that the 'Distraction' section's prose explicitly discusses in detail.",
+      "chosen_heading": "Distraction",
+      "current_heading": "Distraction",
+      "moved": false
+    }
+  }
+]

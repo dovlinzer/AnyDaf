@@ -1,0 +1,289 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Kohanim Testifying Mutual",
+    "candidates": [
+      "Captive Women Testimony",
+      "Believing Single Witness",
+      "Kohanim Testifying Mutual",
+      "Rabbi Yehuda Rejects",
+      "Rabbi Eliezer Conditional",
+      "Rabban Shimon Position",
+      "Multiple Cases Needed",
+      "Drara Definition Debate",
+      "Captivity Case Necessity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohanim Testifying Mutual",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna about two men claiming to be kohanim and the dispute between Rabbi Yehuda, Rabbi Elazar, and Rabban Shimon ben Gamliel \u2014 exactly what heading 2 ('Kohanim Testifying Mutual') describes.",
+      "second_heading": "Multiple Cases Needed",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara's kol hanei lama li discussion explaining why multiple mishnayot were needed, with the drara demamona concept \u2014 exactly what heading 6 ('Multiple Cases Needed') describes.",
+      "current_heading": "Kohanim Testifying Mutual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Captivity Case Necessity",
+    "candidates": [
+      "Rabbi Yehuda Rejects",
+      "Rabbi Eliezer Conditional",
+      "Rabban Shimon Position",
+      "Multiple Cases Needed",
+      "Drara Definition Debate",
+      "Captivity Case Necessity",
+      "Gomlin Concern Address"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items address the Gemara's question of why the captivity case was needed given the divorced-woman case already established peh she'asar for issur, and why it leads to the two-women mishna \u2014 precisely what the 'Captivity Case Necessity' prose describes.",
+      "chosen_heading": "Captivity Case Necessity",
+      "current_heading": "Captivity Case Necessity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Gomlin Concern Address",
+    "candidates": [
+      "Gomlin Concern Address",
+      "Kohanim Case Purpose",
+      "Kehuna Special Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gomlin Concern Address",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the gomlin (collusion) concern for two captive women, which matches heading 0's prose exactly.",
+      "second_heading": "Kohanim Case Purpose",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses why the case of two men (kohanim) was needed, citing the upcoming dispute between Rabbi Yehuda and the Rabbanan, which matches heading 1's prose exactly.",
+      "current_heading": "Gomlin Concern Address",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Kehuna Special Status",
+    "candidates": [
+      "Kohanim Case Purpose",
+      "Kehuna Special Status",
+      "Grain Quality Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly presents the dispute between Rabbi Yehuda and the Rabbanan regarding two men each claiming kehuna, which is precisely what the 'Kohanim Case Purpose' prose explains was needed \u2014 to record this specific dispute between Rabbi Yehuda and the Rabbanan.",
+      "chosen_heading": "Kohanim Case Purpose",
+      "current_heading": "Kehuna Special Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Grain Quality Testimony",
+    "candidates": [
+      "Kehuna Special Status",
+      "Grain Quality Testimony",
+      "Collusion Concern Test",
+      "Reversed Positions",
+      "Demai & Shvuya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly raises the apparent reversal of Rabbi Yehuda and the Rabbanan's positions on collusion (gomlin), which is precisely what the 'Collusion Concern Test' section's prose describes \u2014 the stark reversal of positions and the dispute recorded in the baraita.",
+      "chosen_heading": "Collusion Concern Test",
+      "current_heading": "Grain Quality Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Demai & Shvuya",
+    "candidates": [
+      "Collusion Concern Test",
+      "Reversed Positions",
+      "Demai & Shvuya",
+      "Potter's Vessels Case",
+      "Store Open/Closed Status",
+      "Edge Alignment Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items address the same continuous dispute about reconciling the contradictory positions of Rabbi Yehuda and the Rabbanan across the two mishnayot \u2014 Abaye's demai leniency explanation, Rava's challenge about the Rabbanan's consistency, and the resolution via Rabbi \u1e24ama bar Ukva's 'khlei uminuto b'yado' principle \u2014 which is precisely what the 'Demai & Shvuya' section's prose describes.",
+      "chosen_heading": "Demai & Shvuya",
+      "current_heading": "Demai & Shvuya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Edge Alignment Resolution",
+    "candidates": [
+      "Potter's Vessels Case",
+      "Store Open/Closed Status",
+      "Edge Alignment Resolution",
+      "Elevation Question",
+      "Document Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Potter's Vessels Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 form a complete, self-contained discussion about the potter's vessels case \u2014 tracing the origin of Rabbi \u1e24ama bar Ukva's principle, resolving contradictions between three baraitot, and explaining the d'smicha l'reshut harabbim case \u2014 which belongs under 'Potter's Vessels Case' (index 0), not the 'Edge Alignment Resolution' heading where it currently sits.",
+      "second_heading": "Elevation Question",
+      "second_confidence": "high",
+      "second_reason": "Item 6 introduces a new independent resolution about whether Rabbi Yehuda and the Rabbis dispute the principle of ma'alin mitrumah leyuchsin, which matches the 'Elevation Question' heading (index 3) exactly.",
+      "current_heading": "Edge Alignment Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Document Evidence",
+    "candidates": [
+      "Elevation Question",
+      "Document Evidence",
+      "Duchaning Evidence",
+      "Public vs Private Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the dilemma of elevating from documents (shtaros) to priestly lineage, including the self-identification case and the loan document case with the Rav Huna/Rav \u1e24isda dispute, which is precisely what the 'Document Evidence' heading's prose describes in detail.",
+      "chosen_heading": "Document Evidence",
+      "current_heading": "Document Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Public vs Private Acts",
+    "candidates": [
+      "Duchaning Evidence",
+      "Public vs Private Acts",
+      "Exile Return Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the single dilemma about elevating from nesiat kapayim to yichus, which candidate 0 ('Duchaning Evidence') explicitly introduces as the iba'ia about 'mahu le'haalos mi'nesiat kapayim leyuchsin' and notes it can be asked regardless of one's position on terumah \u2014 matching items 1\u20133 precisely, whereas candidate 1's prose already discusses the resolution/content of those arguments as background rather than presenting the dilemma itself.",
+      "chosen_heading": "Duchaning Evidence",
+      "current_heading": "Public vs Private Acts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Exile Return Case",
+    "candidates": [
+      "Public vs Private Acts",
+      "Exile Return Case",
+      "Nechemia's Leniency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Public vs Private Acts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rav Chisda/Rabbi Avina dispute about nesiat kapayim and yichus, which is precisely the topic discussed in the 'Public vs Private Acts' prose section that ends by noting this exact dispute.",
+      "second_heading": "Exile Return Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rava's baraita-based answer about gedola chazaka with the Ezra pasuk, which is the content described in the 'Exile Return Case' prose section.",
+      "current_heading": "Exile Return Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Nechemia's Leniency",
+    "candidates": [
+      "Nechemia's Leniency",
+      "Chazaka Escalation Check",
+      "Terumah: Torah vs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Nehemiah's ruling on presumptive status and terumah, which is precisely what the 'Nechemia's Leniency' section discusses, including the chazaka principle and the specific language of harei atem b'chezkatchem and kodshei gvul.",
+      "chosen_heading": "Nechemia's Leniency",
+      "current_heading": "Nechemia's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Terumah: Torah vs",
+    "candidates": [
+      "Chazaka Escalation Check",
+      "Terumah: Torah vs",
+      "No Gezeirah Applied"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that the case of Bnei Barzillai is different because their presumptive status was undermined (d'raiah chezkaihu), and applies this same reasoning to both duchaning and terumah \u2014 which is precisely what the prose under candidate 1 ('Terumah: Torah vs') describes.",
+      "chosen_heading": "Terumah: Torah vs",
+      "current_heading": "Terumah: Torah vs",
+      "moved": false
+    }
+  }
+]

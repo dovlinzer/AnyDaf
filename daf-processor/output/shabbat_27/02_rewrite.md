@@ -94,17 +94,12 @@ One should note, however, that the stringency of wearing wool can sometimes crea
 
 Rav Moshe Feinstein addresses the question of entirely man-made fabrics such as polyester, which is petroleum-based and wholly non-natural. Rav Moshe rules that polyester *tzitzit* is not even rabbinically obligated, and one may not recite a *berachah* on polyester *tzitzit*. The fact that polyester *tzitzit* are commercially available and that some people use them and recite a *berachah* on them notwithstanding, Rav Moshe's position is that such fabrics fall entirely outside the halakhic category of garments for this purpose.
 
-## Sechach discussion
-
-### Sumchus agreement
-
-Returning now to the discussion of Rabbi Shimon ben Elazar, Abaye draws a comparison between two Tannaitic positions: *Rabbi Shimon ben Elazar u-Sumchus amru davar echad* — Rabbi Shimon ben Elazar and Sumchus said the same thing. Rabbi Shimon ben Elazar's relevant ruling was already cited: flax — even unprocessed, not yet woven into fabric — cannot be used as *sechach* for a *sukkah*, because it is susceptible to *tum'ah* through *tzara'at*. Sumchus teaches analogously in a *baraita*: *sichecha be-tavui pesula* — if one uses spun thread as *sechach*, even though it has not yet been woven into fabric, the *sechach* is invalid, because such thread can become *tamei* through *nega'im*. The Torah states *ba-shti o va-erev* — even warp and woof threads, not yet made into a complete fabric, are susceptible to the *tum'ah* of *tzara'at*.
 
 ## Tree-derived materials
 
 ### Flax is a tree
 
-The *Mishnah* states: *kol ha-yotzei min ha-etz ein madlikin bo ella pishtan* — anything that derives from a tree may not be used for Shabbat wicks, except for flax. And similarly: *ve-chol ha-yotzei min ha-etz eino mitamei tum'at ohalim ella pishtan* — anything that derives from a tree cannot become *tamei* with *tum'at ohalim* except for linen. The immediate question is: why is flax called a tree-derivative? Flax is a plant. The answer, supplied by Mar Zutra, is a *pasuk* from the story of Rachav: *va-hi he'elatan ha-gagah va-titmem be-fishtei ha-etz* — she brought the spies up to the roof and hid them among the stalks of flax, which the verse calls *pishtei ha-etz*, the wood of the flax. The word *etz* — tree, wood — is applied to flax, establishing that flax falls into the tree category for halakhic purposes.
+The *Mishnah* states: *kol ha-yotzei min ha-etz ein madlikin bo ella pishtan* — anything that derives from a tree may not be used for Shabbat wicks, except for flax. The immediate question this raises is obvious: we had just heard that certain materials *can* be used — so what exactly does this exclusion mean?
 
 ## Sechach discussion (II)
 

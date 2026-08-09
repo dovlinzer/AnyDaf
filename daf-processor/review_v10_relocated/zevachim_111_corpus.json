@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Kli Sharet Definition",
+    "candidates": [
+      "Three Logs Water",
+      "Kli Sharet Definition",
+      "Private Altars",
+      "Wine Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a baraita about liability for pouring three log of water outside the Temple during Sukkot, followed by three Amoraim (Rav Na\u1e25man bar Yitz\u1e25ak, Rav Pappa, Ravina) explaining the dispute \u2014 this is precisely the content described under 'Three Logs Water,' which discusses the debate over conditions for liability when pouring three log of water outside the Temple.",
+      "chosen_heading": "Three Logs Water",
+      "current_heading": "Kli Sharet Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Wine Rule",
+    "candidates": [
+      "Private Altars",
+      "Wine Rule",
+      "Heaping Liquid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about pouring three log of wine outside the Temple and Rabbi Elazar ben Rabbi Shimon's qualification about consecrating in a vessel is precisely what the 'Wine Rule' prose describes.",
+      "chosen_heading": "Wine Rule",
+      "current_heading": "Wine Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Heaping Liquid",
+    "candidates": [
+      "Heaping Liquid",
+      "Libations Bamah",
+      "Rabbi's View",
+      "Sages' View",
+      "Debate Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the practical difference between the opinions being 'overfill of measuring vessels' (beirutzei midos), which is precisely what the 'Heaping Liquid' section's prose addresses.",
+      "chosen_heading": "Heaping Liquid",
+      "current_heading": "Heaping Liquid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Debate Connection",
+    "candidates": [
+      "Libations Bamah",
+      "Rabbi's View",
+      "Sages' View",
+      "Debate Connection",
+      "Yishmael Central"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava bar Rabbah's position that the dispute concerns libations on private altars, along with the supporting baraita \u2014 exactly what candidate 0 ('Libations Bamah') describes in its prose, which explicitly names Rava bar Rabbah and this precise disagreement.",
+      "chosen_heading": "Libations Bamah",
+      "current_heading": "Debate Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Yishmael Central",
+    "candidates": [
+      "Debate Connection",
+      "Yishmael Central",
+      "Akiva Private",
+      "Wilderness Inference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yishmael Central",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yishmael's position that the verse speaks of a great public altar, matching the 'Yishmael Central' prose which explains his reading of the verse as referring to a central communal location.",
+      "second_heading": "Akiva Private",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rabbi Akiva's position that the verse speaks of a small private altar, matching the 'Akiva Private' prose which explains his reading of moshvoseichem as referring to individual dwellings and private altars.",
+      "current_heading": "Yishmael Central",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Wilderness Inference",
+    "candidates": [
+      "Akiva Private",
+      "Wilderness Inference",
+      "Nechemya Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the keshtimtzai lomar conclusion about Rabbi Yishmael and Rabbi Akiva's positions on whether libations were offered in the wilderness, which is precisely what the 'Wilderness Inference' section's prose describes.",
+      "chosen_heading": "Wilderness Inference",
+      "current_heading": "Wilderness Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Nechemya Rule",
+    "candidates": [
+      "Nechemya Rule",
+      "Yochanan Reading",
+      "Akiva Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nechemya Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Nechemya's ruling from the mishna, which the 'Nechemya Rule' prose explicitly introduces and discusses.",
+      "second_heading": "Yochanan Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan's explanation that Rabbi Nechemya follows the position that shirayim are me'akev, which is precisely what the 'Yochanan Reading' prose describes.",
+      "current_heading": "Nechemya Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Akiva Challenge",
+    "candidates": [
+      "Yochanan Reading",
+      "Akiva Challenge",
+      "Inner vs Outer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita debate between Rabbi Nechemya and Rabbi Akiva (evarim/fedarim vs shirayim) followed by the tiyuvta against Rabbi Yochanan's interpretation \u2014 exactly what the 'Akiva Challenge' prose describes in detail.",
+      "chosen_heading": "Akiva Challenge",
+      "current_heading": "Akiva Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Inner vs Outer",
+    "candidates": [
+      "Inner vs Outer",
+      "Melikah Pnimis",
+      "Melikah Chutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the Rav Adda bar Ahava resolution about inner vs outer shirayim and the Rabbi Akiva/Rabbi Nechemya exchange, which is precisely what the 'Inner vs Outer' prose section describes.",
+      "chosen_heading": "Inner vs Outer",
+      "current_heading": "Inner vs Outer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Melikah Chutz",
+    "candidates": [
+      "Melikah Pnimis",
+      "Melikah Chutz",
+      "Shechitah Pnimis",
+      "Shechitah Chutz",
+      "Location Context"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Melikah Pnimis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the full Mishnah covering all cases (melikah inside, melikah outside, shechitah inside), and the prose under 'Melikah Pnimis' (index 0) explicitly introduces this mishnah and its opening case.",
+      "second_heading": "Shechitah Chutz",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the final Mishnah case \u2014 shechitah outside followed by offering outside is liable \u2014 which matches precisely the prose under 'Shechitah Chutz' (index 3).",
+      "current_heading": "Melikah Chutz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Location Context",
+    "candidates": [
+      "Shechitah Pnimis",
+      "Shechitah Chutz",
+      "Location Context",
+      "Shimon Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states the exact principle 'nimtza derech hechshero bifnim paturo bachutz' which is precisely what the 'Location Context' prose section discusses and attributes to the mishnah.",
+      "chosen_heading": "Location Context",
+      "current_heading": "Location Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shimon Rule",
+    "candidates": [
+      "Shimon Rule",
+      "Melikah Test",
+      "Bird Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon's statement itself, and the 'Shimon Rule' prose directly introduces and analyzes this exact text, including the general principle and the bird exception.",
+      "chosen_heading": "Shimon Rule",
+      "current_heading": "Shimon Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Bird Exception",
+    "candidates": [
+      "Melikah Test",
+      "Bird Exception",
+      "Night & Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage corrects the mishnah's terminology from 'hechsheiro' (preparation/qualification) to 'chiyuvo' (liability) specifically in the context of bird slaughter, which directly matches the 'Bird Exception' section's discussion of shechitat ha-of and its liability implications.",
+      "chosen_heading": "Bird Exception",
+      "current_heading": "Bird Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Night & Vessel",
+    "candidates": [
+      "Night & Vessel",
+      "Reversed Reading",
+      "One Vessel",
+      "Two Vessels Inside",
+      "Two Vessels Outside",
+      "Mixed Inside First",
+      "Mixed Outside First",
+      "Two Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage (items 1\u201310) is a continuous Gemara discussion about Rabbi Shimon's principle \u2014 working through what clause he refers to, then Ze'eiri's answer (night slaughter), Rava's answer (kli chol), and finally the baraita of Shmuel's father \u2014 all of which is precisely what the 'Night & Vessel' prose describes.",
+      "chosen_heading": "Night & Vessel",
+      "current_heading": "Night & Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Two Animals",
+    "candidates": [
+      "Reversed Reading",
+      "One Vessel",
+      "Two Vessels Inside",
+      "Two Vessels Outside",
+      "Mixed Inside First",
+      "Mixed Outside First",
+      "Two Animals"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One Vessel",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 are the Mishna's core cases about blood collected in one or two vessels, which candidate 1 explicitly introduces as 'a series of cases involving the blood of a chatas caught in one or two vessels.'",
+      "second_heading": "Two Animals",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the two-animal analogy and closing remark that candidate 6's prose explicitly describes and analyzes in detail.",
+      "current_heading": "Two Animals",
+      "moved": true
+    }
+  }
+]

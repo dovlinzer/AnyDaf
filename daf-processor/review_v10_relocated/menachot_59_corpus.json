@@ -1,0 +1,332 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Four Categories",
+    "candidates": [
+      "Four Categories",
+      "Require Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna that introduces the four categories of meal offerings, which matches exactly what the 'Four Categories' prose describes.",
+      "chosen_heading": "Four Categories",
+      "current_heading": "Four Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Require Both",
+    "candidates": [
+      "Require Both",
+      "Nesachim Category",
+      "Lechem Hapanim",
+      "Neither Oil/Frankinc."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Require Both",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 list all the meal offerings requiring both oil and frankincense, matching exactly the 'Require Both' section's prose about standard voluntary menachot plus kohanim/anointed priest/gentile/women/omer offerings.",
+      "second_heading": "Nesachim Category",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers minchat nesachim (oil but no frankincense) and lechem hapanim (frankincense but no oil), which spans the 'Nesachim Category' prose perfectly, with the lechem hapanim detail belonging to the immediately following 'Lechem Hapanim' section \u2014 but since both are in one mishnaic sentence, the natural split point is after item 2, placing item 3 under 'Nesachim Category' which opens that combined discussion.",
+      "current_heading": "Require Both",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Neither Oil/Frankinc.",
+    "candidates": [
+      "Nesachim Category",
+      "Lechem Hapanim",
+      "Neither Oil/Frankinc.",
+      "Rav Papa Intro",
+      "Two Explanations",
+      "Vs. Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly lists the three offerings that require neither oil nor frankincense \u2014 shtei halechem, minchat chotei, and minchat kenaot \u2014 which is precisely what the 'Neither Oil/Frankinc.' section's prose discusses.",
+      "chosen_heading": "Neither Oil/Frankinc.",
+      "current_heading": "Neither Oil/Frankinc.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Vs. Rabbi Shimon",
+    "candidates": [
+      "Rav Papa Intro",
+      "Two Explanations",
+      "Vs. Rabbi Shimon",
+      "Pasuk \u05d5\u05e0\u05ea\u05ea \u05e9\u05de\u05df"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rav Pappa's ruling as directed against Rabbi Shimon's opinion about mixing loaves and wafers, which is precisely what the 'Vs. Rabbi Shimon' section's prose describes.",
+      "chosen_heading": "Vs. Rabbi Shimon",
+      "current_heading": "Vs. Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Pasuk \u05d5\u05e0\u05ea\u05ea \u05e9\u05de\u05df",
+    "candidates": [
+      "Pasuk \u05d5\u05e0\u05ea\u05ea \u05e9\u05de\u05df",
+      "Kal Vachomer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives from the word 'aleha' that oil is placed on the omer but not on the shewbread, which matches exactly the prose of heading 0 about the baraita citing the pasuk and deriving from 'aleha' that oil applies to this mincha and not to the lechem hapanim.",
+      "chosen_heading": "Pasuk \u05d5\u05e0\u05ea\u05ea \u05e9\u05de\u05df",
+      "current_heading": "Pasuk \u05d5\u05e0\u05ea\u05ea \u05e9\u05de\u05df",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Kal Vachomer Logic",
+    "candidates": [
+      "Kal Vachomer Logic",
+      "Talmud Lomar",
+      "Pasuk \u05dc\u05d1\u05d5\u05e0\u05d4"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the kal vachomer argument (minchat nesachim lacks frankincense yet requires oil, so lechem hapanim which requires frankincense should certainly require oil) and then the talmud lomar rebuttal in one unit, but the primary content driving the passage is the kal vachomer reasoning itself, which matches heading 0's prose description exactly, and the current placement is correct.",
+      "chosen_heading": "Kal Vachomer Logic",
+      "current_heading": "Kal Vachomer Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Pasuk \u05dc\u05d1\u05d5\u05e0\u05d4",
+    "candidates": [
+      "Talmud Lomar",
+      "Pasuk \u05dc\u05d1\u05d5\u05e0\u05d4",
+      "Kal Vachomer (Frankinc.)",
+      "Limit Frankincense",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pasuk \u05dc\u05d1\u05d5\u05e0\u05d4",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states the limiting derivation 'aleha levonah v'lo le-minchat nesachim levonah,' which is precisely what the 'Pasuk \u05dc\u05d1\u05d5\u05e0\u05d4' prose describes as the parallel frankincense exclusion.",
+      "second_heading": "Kal Vachomer (Frankinc.)",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the kal vachomer argument that the minchat nesachim, which has oil, should all the more require frankincense, which matches the 'Kal Vachomer (Frankinc.)' prose exactly.",
+      "current_heading": "Pasuk \u05dc\u05d1\u05d5\u05e0\u05d4",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Kal Vachomer (Frankinc.)",
+      "Limit Frankincense",
+      "Question Posed",
+      "Include Position",
+      "Shared Features"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Limit Frankincense",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses 'mincha hi' including the eighth-day offering and 'hi' excluding the shtei halechem, which is precisely what the 'Limit Frankincense' prose describes as the final derivation from mincha hi.",
+      "second_heading": "Question Posed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the Gemara's interrogation of 'aleha shemen' excluding lechem hapanim vs. minchat kohanim, which is exactly what the 'Question Posed' prose describes as the Gemara beginning to interrogate the derivations.",
+      "current_heading": "Question Posed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Shared Features",
+    "candidates": [
+      "Include Position",
+      "Shared Features",
+      "Counter Position",
+      "LH Similarities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items enumerate the six points of similarity between the minchat kohanim and the omer meal offering (isaron, kli, chutz, tzura, hagasha, ishim), which is precisely what the 'Shared Features' prose describes.",
+      "chosen_heading": "Shared Features",
+      "current_heading": "Shared Features",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "LH Similarities",
+    "candidates": [
+      "Counter Position",
+      "LH Similarities",
+      "Nefesh Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items enumerate the specific points of similarity between lechem hapanim and minchat ha'omer (tzibur, chova, tumah, achilah, pigul, Shabbat), which is precisely what the 'LH Similarities' prose section describes \u2014 the current placement is correct.",
+      "chosen_heading": "LH Similarities",
+      "current_heading": "LH Similarities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Nefesh Resolution",
+    "candidates": [
+      "Nefesh Resolution",
+      "Question Posed",
+      "Exclude Position",
+      "MK Differences",
+      "MN Similarities",
+      "MN Characteristics",
+      "Nefesh Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All six items form the continuous frankincense debate \u2014 the question of why minchat nesachim rather than minchat kohanim is excluded (item 2), the comparative reasoning for both sides (items 3-6), and the nefesh resolution (item 1) \u2014 which candidate 6's prose describes as resolving the frankincense question via the personal nefesh framework.",
+      "chosen_heading": "Nefesh Resolution",
+      "current_heading": "Nefesh Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Nefesh Resolution",
+    "candidates": [
+      "Question Posed",
+      "Exclude Position",
+      "MK Differences",
+      "MN Similarities",
+      "MN Characteristics",
+      "Nefesh Resolution",
+      "Question Posed",
+      "Exclude Position",
+      "MK Differences"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nefesh Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'mistabra nefesh' resolution that heading 5 explicitly describes as its content.",
+      "second_heading": "Question Posed",
+      "second_confidence": "low",
+      "second_reason": "Items 2-3 introduce a new sub-case about whether 'mincha' includes or excludes the minchat shemini from frankincense \u2014 a structurally new question \u2014 and while no heading perfectly describes this, heading 6 is the next available section after the nefesh resolution.",
+      "current_heading": "Nefesh Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "MK Differences",
+    "candidates": [
+      "Question Posed",
+      "Exclude Position",
+      "MK Differences",
+      "SH Similarities",
+      "SH Characteristics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's answer that it is more reasonable to include the minchat kohanim (exclude the shtei halechem), followed by the enumeration of similarities between the minchat kohanim and standard menachot (isaron, kli, matza, etzem, hagasha, ishim) \u2014 which is precisely what candidate 1 ('Exclude Position') describes, not candidate 2 ('MK Differences') where it currently sits (though the content is nearly identical, candidate 1's prose explicitly introduces the reasoning and the list of characteristics, making it the better match).",
+      "chosen_heading": "Exclude Position",
+      "current_heading": "MK Differences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "SH Characteristics",
+    "candidates": [
+      "SH Similarities",
+      "SH Characteristics",
+      "Nefesh Final"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1\u20134 form the Gemara's counter-argument ('on the contrary') that the two loaves are more similar to the omer than the meal offering of priests, which is precisely what heading 0 ('SH Similarities') describes \u2014 the adaraba objection and the enumeration of similarities \u2014 while the current heading 1 ('SH Characteristics') describes the enumeration itself as if it were a separate section, but the prose of heading 0 explicitly covers both the adaraba intro and the full list including v'hani nefishin.",
+      "chosen_heading": "SH Similarities",
+      "current_heading": "SH Characteristics",
+      "moved": true
+    }
+  }
+]

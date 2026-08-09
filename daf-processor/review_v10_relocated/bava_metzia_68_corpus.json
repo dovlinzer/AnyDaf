@@ -1,0 +1,377 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Ravina vs Mar Zutra",
+    "candidates": [
+      "Mashkanta Basics",
+      "Lender Won't Leave",
+      "Lender Will Leave",
+      "Rav Pappa vs Rav Sheshes",
+      "Nachyata Definition",
+      "Adara V'Saimei Zuzei",
+      "Ravina vs Mar Zutra",
+      "Stringent Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lender Will Leave",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the kinyan question when a lender in a lo-mesalki locale voluntarily agrees to be removed, which is precisely what candidate 2 ('Lender Will Leave') describes.",
+      "second_heading": "Adara V'Saimei Zuzei",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a completely new scenario about a borrower's declaration of imminent repayment and the Ravina/Mar Zutra dispute, which matches candidate 5 ('Adara V'Saimei Zuzei') exactly.",
+      "current_heading": "Ravina vs Mar Zutra",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Stringent Position",
+    "candidates": [
+      "Ravina vs Mar Zutra",
+      "Stringent Position",
+      "Ravina's Leniency",
+      "Sadeh Achuza Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Kahana, Rav Pappa, and Rav Ashi not eating with nachyata, which directly matches the 'Stringent Position' section's prose about these same figures refusing to eat even with a nominal deduction.",
+      "chosen_heading": "Stringent Position",
+      "current_heading": "Stringent Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Sadeh Achuza Redemption",
+    "candidates": [
+      "Ravina's Leniency",
+      "Sadeh Achuza Redemption",
+      "Parallel to Mesalki",
+      "Objection to Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Mar Zutra's sadeh achuza analogy \u2014 the comparison of nachyata to the ancestral field redemption price \u2014 which is precisely what candidate 1 ('Sadeh Achuza Redemption') describes in its prose, making the current placement correct.",
+      "chosen_heading": "Sadeh Achuza Redemption",
+      "current_heading": "Sadeh Achuza Redemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Objection to Model",
+    "candidates": [
+      "Parallel to Mesalki",
+      "Objection to Model",
+      "One-Year Non-Removability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly articulates the objection that *sadeh achuza* involves consecrated property redeemed by Torah statute rather than a loan, whereas here it is a loan and therefore has the appearance of interest \u2014 exactly what the 'Objection to Model' prose describes.",
+      "chosen_heading": "Objection to Model",
+      "current_heading": "Objection to Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "One-Year Non-Removability",
+    "candidates": [
+      "One-Year Non-Removability",
+      "Bar Metzra Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly concerns the one-year default duration of an unspecified mashkanta and the borrower's right to remove the lender only after that year, which is precisely what the prose under 'One-Year Non-Removability' describes.",
+      "chosen_heading": "One-Year Non-Removability",
+      "current_heading": "One-Year Non-Removability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Bar Metzra Rights",
+    "candidates": [
+      "Bar Metzra Rights",
+      "Tarsha Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the etymology of 'mashkanta' and its implication for bar metzra rights, which is precisely what the 'Bar Metzra Rights' section prose describes.",
+      "chosen_heading": "Bar Metzra Rights",
+      "current_heading": "Bar Metzra Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Tarsha Rejected",
+    "candidates": [
+      "Tarsha Rejected",
+      "Shtarei Mechuznai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rava's ruling rejecting the tarsha of Rav Pappa, which is precisely what the 'Tarsha Rejected' prose section discusses, and the Gemara's clarification in item 2 explicitly links back to Rav Pappa's mead-selling arrangement described in that prose.",
+      "chosen_heading": "Tarsha Rejected",
+      "current_heading": "Tarsha Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Shtarei Mechuznai",
+    "candidates": [
+      "Shtarei Mechuznai",
+      "Fixed Profit Problem",
+      "Mar Bar Amemar's Father",
+      "Rav Ashi's Objection",
+      "Chackirei Narshai"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fixed Profit Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the core problem of the Mechuza documents \u2014 writing fixed profit into the principal and the question 'who says there will be profit?' \u2014 which is exactly what candidate 1 ('Fixed Profit Problem') discusses.",
+      "second_heading": "Mar Bar Amemar's Father",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Mar bar Ameimar telling Rav Ashi that his father followed this practice and would believe partners who reported lower profits, which is precisely what candidate 2 ('Mar Bar Amemar's Father') covers.",
+      "current_heading": "Shtarei Mechuznai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Chackirei Narshai",
+    "candidates": [
+      "Fixed Profit Problem",
+      "Mar Bar Amemar's Father",
+      "Rav Ashi's Objection",
+      "Chackirei Narshai",
+      "Modern Practice",
+      "Principle Explained",
+      "Structure of Deal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly describe the chakirei narshai arrangement \u2014 item 1 presents the problematic original practice and item 2 the 'modern' fix with kinyan \u2014 which is precisely what candidate 3's prose describes as Rava's third rejected practice.",
+      "chosen_heading": "Chackirei Narshai",
+      "current_heading": "Chackirei Narshai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Structure of Deal",
+    "candidates": [
+      "Modern Practice",
+      "Principle Explained",
+      "Structure of Deal",
+      "Why Payment Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains all three items of the Mishna enumerating the storekeeper, chickens, calves/foals, and donkey cases \u2014 exactly the content described in the 'Structure of Deal' prose, which explicitly walks through each of these scenarios in the same order.",
+      "chosen_heading": "Structure of Deal",
+      "current_heading": "Structure of Deal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Why Payment Needed",
+    "candidates": [
+      "Why Payment Needed",
+      "Light vs Heavy Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items define 'poeil batel' \u2014 exactly what candidate 0's prose discusses when it explains the wage calculation and cites Abaye's interpretation of 'kepoeil batel shel ota melacha debatel mineih.'",
+      "chosen_heading": "Why Payment Needed",
+      "current_heading": "Why Payment Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Light vs Heavy Work",
+    "candidates": [
+      "Light vs Heavy Work",
+      "Fee Amount Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's 'tzricha' argument explaining why both the storekeeper (light work) and merchant (heavy work) cases must be stated, which is precisely what the 'Light vs Heavy Work' prose describes.",
+      "chosen_heading": "Light vs Heavy Work",
+      "current_heading": "Light vs Heavy Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Fee Amount Dispute",
+    "candidates": [
+      "Fee Amount Dispute",
+      "Non-Productive Animals"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Productive Animals",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a mnemonic introducing upcoming discussions about goats and chickens, which aligns with the 'Non-Productive Animals' section that discusses goats and similar arrangements.",
+      "second_heading": "Fee Amount Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita recording the three-way dispute among Rabbi Meir, Rabbi Yehuda, and Rabbi Shimon ben Yochai about the required wage amount, which is precisely what the 'Fee Amount Dispute' prose describes.",
+      "current_heading": "Fee Amount Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Non-Productive Animals",
+    "candidates": [
+      "Non-Productive Animals",
+      "Rabbi Yose's Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita explicitly prohibits appraising goats, sheep, or anything that does not produce revenue while it eats, which directly matches the 'Non-Productive Animals' section's discussion of animals not currently producing anything for the caretaker.",
+      "chosen_heading": "Non-Productive Animals",
+      "current_heading": "Non-Productive Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rabbi Yose's Exception",
+    "candidates": [
+      "Rabbi Yose's Exception",
+      "Actual vs Residual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei bar Rabbi Yehuda's statement about goats, sheep, and chickens being appraisable due to their productive outputs, which is exactly what the prose under 'Rabbi Yose's Exception' describes.",
+      "chosen_heading": "Rabbi Yose's Exception",
+      "current_heading": "Rabbi Yose's Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Actual vs Residual",
+    "candidates": [
+      "Actual vs Residual",
+      "Heter Iska Framework",
+      "Fee via Risk Share",
+      "No Proof Required",
+      "Fixed Annual Fee",
+      "Hen Rental Fee",
+      "Splitting Chicks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the distinction between full milk/shearing versus whey/pluckings and the underlying dispute between the first Tanna (per Rabbi Shimon ben Yochai's full-wage standard) and Rabbi Yose bar Rabbi Yehuda (per his father's minimal-benefit standard), which is precisely what the 'Actual vs Residual' prose describes.",
+      "chosen_heading": "Actual vs Residual",
+      "current_heading": "Actual vs Residual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Splitting Chicks",
+    "candidates": [
+      "Heter Iska Framework",
+      "Fee via Risk Share",
+      "No Proof Required",
+      "Fixed Annual Fee",
+      "Hen Rental Fee",
+      "Splitting Chicks",
+      "Unfertilized Eggs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The Baraita quoted describes both the simple hen rental case (maskeret isha l'chavertah tarnegolet bishnei efrochim) AND the disputed partnership variation (tarnegolet sheli u-beitzim shelichi), but since it opens with the rental case, the passage as a whole belongs under 'Hen Rental Fee' which introduces this Baraita \u2014 the 'Splitting Chicks' section covers the interpretive discussion of the variation, not the quoted text itself.",
+      "chosen_heading": "Hen Rental Fee",
+      "current_heading": "Splitting Chicks",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Intro & Framework",
+      "Rav vs. Shmuel",
+      "Calev & Miriam",
+      "Calev Marries Miriam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the Rav vs. Shmuel dispute over 'batim' (priesthood/Levites vs. royalty) and the initial proof for David's descent from Miriam, which is precisely what the 'Rav vs. Shmuel' section's prose describes.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Calev Marries Miriam",
+    "candidates": [
+      "Calev & Miriam",
+      "Calev Marries Miriam",
+      "Marriage L'Shem Shamayim",
+      "Sons' Names Interpreted",
+      "Ashur & Tekoa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items (Caleb's name as ben Hezron vs. ben Jephunneh, the Kenaz complication resolved by Rava, the Kenizzite confirmation, and Azubah identified as Miriam with the holid teaching) are precisely the content described in the 'Calev Marries Miriam' prose, which walks through each of these exact points in order.",
+      "chosen_heading": "Calev Marries Miriam",
+      "current_heading": "Calev Marries Miriam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Ashur & Tekoa",
+    "candidates": [
+      "Marriage L'Shem Shamayim",
+      "Sons' Names Interpreted",
+      "Ashur & Tekoa",
+      "Path to David",
+      "Drowning Edict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items (Jerioth/curtains, sons as builders/Caleb's names, Ashhur/Tekoa, two wives/Helah-Naarah, and children of Helah) are explicitly discussed in the prose of candidate 2 ('Ashur & Tekoa'), which is also the current placement.",
+      "chosen_heading": "Ashur & Tekoa",
+      "current_heading": "Ashur & Tekoa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Drowning Edict",
+    "candidates": [
+      "Path to David",
+      "Drowning Edict",
+      "Three Decrees",
+      "Amram Divorces"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Amram Divorces",
+    "candidates": [
+      "Three Decrees",
+      "Amram Divorces",
+      "Miriam's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the 'Amram Divorces' prose, which covers the vayelech interpretation by Rav Yehuda bar Zvina and Amram's decision to divorce his wife after Pharaoh's edict \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Amram Divorces",
+      "current_heading": "Amram Divorces",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Miriam's Argument",
+    "candidates": [
+      "Miriam's Argument",
+      "Remarriage Celebration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together comprise Miriam's three-part argument to Amram (harsher than Pharaoh's decree in multiple ways) and his immediate response of remarrying Yocheved, which the prose under 'Miriam's Argument' explicitly summarizes in full, including all three points and the concluding remarriage.",
+      "chosen_heading": "Miriam's Argument",
+      "current_heading": "Miriam's Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Remarriage Celebration",
+    "candidates": [
+      "Remarriage Celebration",
+      "Age Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the remarriage celebration with the palanquin, Aaron and Miriam dancing, and the angels' proclamation \u2014 exactly what the 'Remarriage Celebration' prose discusses.",
+      "chosen_heading": "Remarriage Celebration",
+      "current_heading": "Remarriage Celebration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Age Question",
+    "candidates": [
+      "Age Question",
+      "Yocheved Born in Egypt",
+      "70 Souls Problem",
+      "Yocheved's Youth",
+      "Three-Month Pregnancy",
+      "Painless Birth"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Age Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the age question and identifies Jochebed via Rabbi \u1e24ama's tradition about her birth between the walls, which matches the 'Age Question' heading's discussion of the difficulty of calling a 130-year-old a 'bat' and the tradition establishing her age.",
+      "second_heading": "Yocheved's Youth",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rabbi Yehuda's answer that signs of youth returned to Jocheved, which directly matches the 'Yocheved's Youth' prose discussing how she regained physiological markers of youthfulness.",
+      "current_heading": "Age Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Painless Birth",
+    "candidates": [
+      "Yocheved Born in Egypt",
+      "70 Souls Problem",
+      "Yocheved's Youth",
+      "Three-Month Pregnancy",
+      "Painless Birth",
+      "House of Light",
+      "Name Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda bar Zvina's teaching that juxtaposes Yocheved's birth to her conception to derive that righteous women were not subject to Eve's curse of painful childbirth, which is precisely what the 'Painless Birth' section's prose describes.",
+      "chosen_heading": "Painless Birth",
+      "current_heading": "Painless Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Name Interpretations",
+    "candidates": [
+      "House of Light",
+      "Name Interpretations",
+      "Three-Month Hiding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the interpretations including Rabbi Meir, Rabbi Yehuda, Rabbi Nechemia, Acheirim, AND the Rabbis' view about the house filling with light \u2014 and the prose under 'House of Light' (candidate 0) explicitly introduces and discusses all of these views together, making it the clearly better home for this complete baraita, whereas candidate 1 ('Name Interpretations') only covers the name-related views without the light/gezerah shavah conclusion.",
+      "chosen_heading": "House of Light",
+      "current_heading": "Name Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Three-Month Hiding",
+    "candidates": [
+      "Name Interpretations",
+      "Three-Month Hiding",
+      "Wicker Material"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the three-month hiding period \u2014 item 1 explains why Yocheved had three months of undetected concealment, and item 2 explains why she could no longer hide Moses after that period \u2014 matching precisely the prose of the 'Three-Month Hiding' section.",
+      "chosen_heading": "Three-Month Hiding",
+      "current_heading": "Three-Month Hiding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Wicker Material",
+    "candidates": [
+      "Wicker Material",
+      "Plastering Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss why bulrushes/wicker were chosen for the ark \u2014 Rabbi Elazar's explanation about righteous people's frugality and Rabbi Shmuel bar Na\u1e25mani's functional explanation about flexibility \u2014 which is precisely what the 'Wicker Material' prose section discusses.",
+      "chosen_heading": "Wicker Material",
+      "current_heading": "Wicker Material",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Plastering Method",
+    "candidates": [
+      "Plastering Method",
+      "Placement in Reeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the daubing of bitumen and pitch on the basket, which matches exactly the 'Plastering Method' section's prose about the interior/exterior plastering and the reason for keeping Moses from smelling the pitch.",
+      "chosen_heading": "Plastering Method",
+      "current_heading": "Plastering Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Placement in Reeds",
+    "candidates": [
+      "Placement in Reeds",
+      "Pharaoh's Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between Rabbi Elazar and Rabbi Shmuel bar Na\u1e25mani over the meaning of 'bassuf' (Yam Suf vs. a marsh/reed bed), which is precisely what the 'Placement in Reeds' prose describes.",
+      "chosen_heading": "Placement in Reeds",
+      "current_heading": "Placement in Reeds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Pharaoh's Daughter",
+    "candidates": [
+      "Pharaoh's Daughter",
+      "Maidservants Killed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Pharaoh's daughter bathing to cleanse herself from idolatry, with the Isaiah proof text, which exactly matches the prose under heading 0.",
+      "chosen_heading": "Pharaoh's Daughter",
+      "current_heading": "Pharaoh's Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Maidservants Killed",
+    "candidates": [
+      "Maidservants Killed",
+      "Extended Arm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the death euphemism for the maidservants walking, Gabriel striking them down, the dispute over 'amatah,' and the resolution that one maidservant was left alive \u2014 are fully covered and explained in the 'Maidservants Killed' prose, which is the current placement and clearly the correct one.",
+      "chosen_heading": "Maidservants Killed",
+      "current_heading": "Maidservants Killed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Extended Arm",
+    "candidates": [
+      "Extended Arm",
+      "Seeing Divine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute over 'amah' meaning hand/arm and the miraculous extension of Pharaoh's daughter's arm, including the Reish Lakish teaching about 'shinei resha'im,' all of which are explicitly described in the 'Extended Arm' section's prose.",
+      "chosen_heading": "Extended Arm",
+      "current_heading": "Extended Arm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Seeing Divine",
+    "candidates": [
+      "Seeing Divine",
+      "Child Crying",
+      "Voice & Blemish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses vatireihu and Rabbi Yosei's teaching about seeing the Divine Presence with Moses, which matches exactly the prose in 'Seeing Divine' about vatireihu, she saw him, and the Shechinah accompanying the child.",
+      "chosen_heading": "Seeing Divine",
+      "current_heading": "Seeing Divine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Voice & Blemish",
+    "candidates": [
+      "Child Crying",
+      "Voice & Blemish",
+      "Circumcision Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's statement about the child/lad distinction AND Rabbi Nechemia's objection and alternative explanation, so the entire passage belongs under the 'Child Crying' heading where the discussion begins, rather than being split across two headings.",
+      "chosen_heading": "Child Crying",
+      "current_heading": "Voice & Blemish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Circumcision Recognition",
+    "candidates": [
+      "Voice & Blemish",
+      "Circumcision Recognition",
+      "Unwitting Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses how Bat Paroh recognized Moshe as a Hebrew child by seeing he was circumcised, which is exactly what the 'Circumcision Recognition' section's prose addresses.",
+      "chosen_heading": "Circumcision Recognition",
+      "current_heading": "Circumcision Recognition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Unwitting Prophecy",
+    "candidates": [
+      "Unwitting Prophecy",
+      "Saw by Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's teaching about Bat Paroh's unwitting prophecy with the word 'zeh,' which is precisely what the 'Unwitting Prophecy' section's prose describes.",
+      "chosen_heading": "Unwitting Prophecy",
+      "current_heading": "Unwitting Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Saw by Water",
+    "candidates": [
+      "Saw by Water",
+      "Edict Ceased"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Elazar's interpretation of Isaiah 8:19 about necromancers who see but don't understand what they see, which directly matches the 'Saw by Water' section's prose about astrologers seeing signs but not fully understanding them.",
+      "chosen_heading": "Saw by Water",
+      "current_heading": "Saw by Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Edict Ceased",
+    "candidates": [
+      "Edict Ceased",
+      "Mei Merivah",
+      "Moshe's Credit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from the astrologers' sign through the casting of Moses into the Nile, the cancellation of the decree, and the note that they didn't know about Mei Merivah \u2014 the current heading 'Edict Ceased' and its prose directly describe this entire sequence, making it the best match.",
+      "chosen_heading": "Edict Ceased",
+      "current_heading": "Edict Ceased",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Moshe's Credit",
+    "candidates": [
+      "Mei Merivah",
+      "Moshe's Credit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the Mei Merivah teaching (Rabbi \u1e24ama bar Rabbi \u1e24anina's interpretation) and the ragli/bishvili point together as one continuous Talmudic unit, but the Mei Merivah heading's prose explicitly quotes and discusses this very Rabbi \u1e24ama teaching as its centerpiece, while the 'Moshe's Credit' section treats the ragli point as a separate final point \u2014 however, since the Gemara presents both as one continuous statement ('veha'yu de'amar... veha'yu de'ka'amar'), and the Mei Merivah heading's prose already incorporates both elements, index 0 is a better match than splitting them.",
+      "chosen_heading": "Mei Merivah",
+      "current_heading": "Moshe's Credit",
+      "moved": true
+    }
+  }
+]

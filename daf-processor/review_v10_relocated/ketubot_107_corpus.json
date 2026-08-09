@@ -1,0 +1,269 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Shmuel's Objection",
+    "candidates": [
+      "Rav's Position",
+      "Shmuel's Objection",
+      "Abaye's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items cover the Rav/Shmuel dispute over apportioning sustenance for the wife of an absent husband, the clarification about the three-month concession, the distinction between 'heard he died' vs. not, and Rav Zevid/Rav Pappa's explanations of Shmuel's reasoning \u2014 all of which are explicitly discussed in the 'Shmuel's Objection' prose section.",
+      "chosen_heading": "Shmuel's Objection",
+      "current_heading": "Shmuel's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Abaye's Distinction",
+    "candidates": [
+      "Abaye's Distinction",
+      "Admon & Priests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the practical differences (adult/not enough earnings; minor/enough earnings) between the two explanations, which is precisely what the 'Abaye's Distinction' prose discusses as the ikei beinayhu scenarios.",
+      "chosen_heading": "Abaye's Distinction",
+      "current_heading": "Abaye's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Admon & Priests",
+    "candidates": [
+      "Admon & Priests",
+      "He Set Aside Money",
+      "Rashi & Tosafot",
+      "Rumors Exaggerated"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Admon & Priests",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna passage about Chanan vs. the sons of High Priests and Shmuel's interpretation, which is precisely what heading 0 ('Admon & Priests') discusses in its prose.",
+      "second_heading": "He Set Aside Money",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about the husband returning and claiming he set aside money \u2014 exactly the content described in heading 1 ('He Set Aside Money').",
+      "current_heading": "Admon & Priests",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Rumors Exaggerated",
+    "candidates": [
+      "He Set Aside Money",
+      "Rashi & Tosafot",
+      "Rumors Exaggerated",
+      "Wife Not Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's 'hacha nami b'sheshamu bo shemet' answers to the second braita about a husband overseas whose wife demands sustenance, which the prose of candidate 2 ('Rumors Exaggerated') explicitly discusses in detail.",
+      "chosen_heading": "Rumors Exaggerated",
+      "current_heading": "Rumors Exaggerated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Wife Not Children",
+    "candidates": [
+      "Wife Not Children",
+      "Trustee Appointed",
+      "One Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the wife demanding sustenance (but not sons and daughters), which is precisely what heading 0 'Wife Not Children' discusses \u2014 the court providing for the wife but not children as proof against Shmuel.",
+      "chosen_heading": "Wife Not Children",
+      "current_heading": "Wife Not Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "One Witness",
+    "candidates": [
+      "Trustee Appointed",
+      "One Witness",
+      "Yevamah"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Yevamah",
+    "candidates": [
+      "Yevamah",
+      "Claiming Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the yevama's sustenance rights, the yavam fleeing after beit din's ruling, and Shmuel's response about tzerorei and ma'aseh yadeha \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Yevamah",
+      "current_heading": "Yevamah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Claiming Divorce",
+    "candidates": [
+      "Claiming Divorce",
+      "Mi'un Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the braita about a woman who went overseas with her husband and claimed 'my husband divorced me,' and the Gemara's question and answer about why she is limited to the value of her ketuba \u2014 exactly the content described in the 'Claiming Divorce' prose.",
+      "chosen_heading": "Claiming Divorce",
+      "current_heading": "Claiming Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Mi'un Case",
+    "candidates": [
+      "Mi'un Case",
+      "Rav Dimi's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the mi'un braita and Shmuel's response about the minor wife case, which is precisely what the 'Mi'un Case' prose section describes in detail.",
+      "chosen_heading": "Mi'un Case",
+      "current_heading": "Mi'un Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rav Dimi's Story",
+    "candidates": [
+      "Rav Dimi's Story",
+      "Yochanan's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rav Dimi's report and Rabbi Yochanan's immediate challenge, spanning both headings, but the current placement under 'Rav Dimi's Story' is where the passage begins and is the better fit since the question about the conclusion naturally leads into Rav Dimi's narrative, while the split into a separate 'Yochanan's Challenge' heading is the essay author's own organizational choice rather than a misplacement.",
+      "chosen_heading": "Rav Dimi's Story",
+      "current_heading": "Rav Dimi's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Yochanan's Challenge",
+    "candidates": [
+      "Yochanan's Challenge",
+      "Ravin's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rav Shemen bar Abba reporting Shmuel's interpretation and Rabbi Yochanan's astonished response ('have you gone that far'), which is exactly what heading 0's prose describes in detail.",
+      "chosen_heading": "Yochanan's Challenge",
+      "current_heading": "Yochanan's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Ravin's Story",
+    "candidates": [
+      "Ravin's Story",
+      "Final Ruling",
+      "Mezonot Ruling",
+      "Woman's Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravin's report of the same story with reversed rulings and the same exchange between Rabbi Yochanan and Rav Shemen bar Abba, which is precisely what the 'Ravin's Story' prose describes.",
+      "chosen_heading": "Ravin's Story",
+      "current_heading": "Ravin's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Woman's Right",
+    "candidates": [
+      "Final Ruling",
+      "Mezonot Ruling",
+      "Woman's Right",
+      "Kunia Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the ruling about mezonot for a married woman AND the ruling about a woman's right to waive mezonot, and candidate 2's prose explicitly covers both elements together as a combined halakhic conclusion, matching the passage's content precisely.",
+      "chosen_heading": "Woman's Right",
+      "current_heading": "Woman's Right",
+      "moved": false
+    }
+  }
+]

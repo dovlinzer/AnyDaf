@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Scrap Metal Case",
+    "candidates": [
+      "Non-Jew Ownership",
+      "Scrap Metal Case",
+      "Meshicha Puzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the scrap metal (*gerutaot*) baraita with its two scenarios based on whether meshicha preceded or followed payment, which is precisely what the 'Scrap Metal Case' prose discusses.",
+      "chosen_heading": "Scrap Metal Case",
+      "current_heading": "Scrap Metal Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Meshicha Puzzle",
+    "candidates": [
+      "Meshicha Puzzle",
+      "Abaye's View",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'meshicha puzzle' \u2014 why meshicha is needed if money acquires, and the resolution that the parties stipulated Jewish law applies \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Meshicha Puzzle",
+      "current_heading": "Meshicha Puzzle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Abaye's View",
+      "Rava's View",
+      "Tosafot & Caveat",
+      "Rav Ashi View",
+      "Ravina View",
+      "Jew-NonJew Trust"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava's View",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the Rava-Abaye exchange about mekach taos and the appearance problem, which matches Rava's View prose exactly.",
+      "second_heading": "Rav Ashi View",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are Rav Ashi's and Ravina's independent interpretations of the baraita, matching the 'Rav Ashi View' prose which explicitly discusses midi de-reisha meshicha eina kona.",
+      "current_heading": "Rava's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Jew-NonJew Trust",
+    "candidates": [
+      "Tosafot & Caveat",
+      "Rav Ashi View",
+      "Ravina View",
+      "Jew-NonJew Trust",
+      "Halachic Summary",
+      "Mishna Overview",
+      "Blemish First",
+      "No Korban Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses mechusrei amana and the distinction between Jew-Jew versus Jew-non-Jew verbal commitments, which is precisely what the 'Jew-NonJew Trust' section's prose addresses.",
+      "chosen_heading": "Jew-NonJew Trust",
+      "current_heading": "Jew-NonJew Trust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "No Korban Status",
+    "candidates": [
+      "Halachic Summary",
+      "Mishna Overview",
+      "Blemish First",
+      "No Korban Status",
+      "Post-Redemption Use",
+      "Bechor/Maaser",
+      "Sanctity First",
+      "Residual Status",
+      "Post-Redemption Limits",
+      "Shechita & Temurah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Heading 1 ('Mishna Overview') explicitly introduces this exact mishna and describes its two contrasting cases, matching all three items which together constitute the complete mishna text covering both the blemish-before-consecration case and the consecration-before-blemish case.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "No Korban Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Shechita & Temurah",
+    "candidates": [
+      "Post-Redemption Use",
+      "Bechor/Maaser",
+      "Sanctity First",
+      "Residual Status",
+      "Post-Redemption Limits",
+      "Shechita & Temurah",
+      "Redemption Test",
+      "Sanctity Exempts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage lists offspring/milk prohibition, liability for slaughter outside the Temple, temurah, and burial if the animal dies \u2014 exactly the consequences described in the 'Shechita & Temurah' prose, which explicitly discusses all four of these rules for animals with residual kedushat korban.",
+      "chosen_heading": "Shechita & Temurah",
+      "current_heading": "Shechita & Temurah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Sanctity Exempts",
+    "candidates": [
+      "Redemption Test",
+      "Sanctity Exempts",
+      "Donkey Example",
+      "Shearing Prohibited"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Shearing Prohibited",
+    "candidates": [
+      "Donkey Example",
+      "Shearing Prohibited",
+      "Two Sanctity Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the inference that unredeemed animals are prohibited from shearing and labor, and notes this supports Rabbi Eliezer's position about kodshei bedek habayit \u2014 exactly what the 'Shearing Prohibited' section's prose is about.",
+      "chosen_heading": "Shearing Prohibited",
+      "current_heading": "Shearing Prohibited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Two Sanctity Types",
+    "candidates": [
+      "Two Sanctity Types",
+      "Simple Case",
+      "Pregnancy Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between kedushat damim l'mizbeach and kedushat bedek habayit, which is precisely what the 'Two Sanctity Types' prose section explains \u2014 that the mishna's case involves a failed attempt at korban sanctity creating a middle-ground status, and therefore does not prove Rabbi Elazar's view about straightforward bedek habayit animals.",
+      "chosen_heading": "Two Sanctity Types",
+      "current_heading": "Two Sanctity Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Pregnancy Test",
+    "candidates": [
+      "Simple Case",
+      "Pregnancy Test",
+      "Redeemable?",
+      "Source Teaching",
+      "Tafel Chamur",
+      "Upgrade Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about the circumstances of offspring being permitted \u2014 specifically the case of conception before redemption and birth after \u2014 which is exactly what the 'Pregnancy Test' prose describes.",
+      "chosen_heading": "Pregnancy Test",
+      "current_heading": "Pregnancy Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Upgrade Question",
+    "candidates": [
+      "Redeemable?",
+      "Source Teaching",
+      "Tafel Chamur",
+      "Upgrade Question",
+      "Rava's Rule",
+      "Rashi Limit",
+      "Exempt Status",
+      "R. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete question-and-answer unit about whether offspring of animals with kedushat damim can be redeemed unblemished, which precisely matches heading 0 ('Redeemable?') whose prose asks exactly this question about offspring in an intermediate position with kedusha disqualified from the altar.",
+      "chosen_heading": "Redeemable?",
+      "current_heading": "Upgrade Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "R. Eliezer",
+    "candidates": [
+      "Rava's Rule",
+      "Rashi Limit",
+      "Exempt Status",
+      "R. Eliezer",
+      "Hermeneutics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Elazar's teaching about a blemished animal on a private altar (bamat yachid) and his hermeneutical derivation from the verse in Deuteronomy \u2014 exactly the content described in the 'R. Eliezer' prose section.",
+      "chosen_heading": "R. Eliezer",
+      "current_heading": "R. Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Hermeneutics",
+    "candidates": [
+      "Hermeneutics",
+      "Unified Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items are the continuous hermeneutical exercise working through each category (bechor, maaser, temurah, vladot) to show why the extra verse in Deuteronomy is not needed for those cases \u2014 exactly what the 'Hermeneutics' prose describes in detail.",
+      "chosen_heading": "Hermeneutics",
+      "current_heading": "Hermeneutics",
+      "moved": false
+    }
+  }
+]

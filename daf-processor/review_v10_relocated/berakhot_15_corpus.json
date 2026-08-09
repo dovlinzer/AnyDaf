@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Learning, Teaching, Doing",
+    "candidates": [
+      "Learning, Teaching, Doing",
+      "Three, Two, One Elements",
+      "Foundation vs. Chronology"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Learning, Teaching, Doing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yehoshua ben Korcha's mishna and Rabbi Shimon ben Yo\u1e25ai's baraita explaining the order of the Shema paragraphs, which is exactly what heading 0 ('Learning, Teaching, Doing') discusses.",
+      "second_heading": "Three, Two, One Elements",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the Gemara's challenge to Rabbi Shimon ben Yo\u1e25ai's formulation and its reframing as a descending count (three, two, one elements), which is precisely what heading 1 ('Three, Two, One Elements') describes.",
+      "current_heading": "Learning, Teaching, Doing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Foundation vs. Chronology",
+    "candidates": [
+      "Three, Two, One Elements",
+      "Foundation vs. Chronology",
+      "Rav's Daily Practice",
+      "Work Interruption Obliga"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the chada ve'od ka'amar response explaining why Rabbi Shimon ben Yohai's reasoning coexists with Rabbi Yehoshua ben Korcha's teaching, which is precisely what the 'Foundation vs. Chronology' section's prose describes.",
+      "chosen_heading": "Foundation vs. Chronology",
+      "current_heading": "Foundation vs. Chronology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Work Interruption Obliga",
+    "candidates": [
+      "Rav's Daily Practice",
+      "Work Interruption Obliga",
+      "Contradictory Accounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 Rav's practice, the baraita about the grave-digger, its internal contradiction and resolution, the remaining difficulty for Rav, the appeal to Rabbi Yehoshua ben Korcha, and the challenge to that appeal \u2014 are precisely the content described in candidate 1's prose about the work-interruption obligation and the ordering question.",
+      "chosen_heading": "Work Interruption Obliga",
+      "current_heading": "Work Interruption Obliga",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Contradictory Accounts",
+    "candidates": [
+      "Contradictory Accounts",
+      "Late Tefillin Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the challenge to the resolution that Rav holds like Rabbi Yehoshua ben Korcha, citing Rav Chiyya bar Ashi's testimony of Rav's contradictory practice (tefillin before shema), which corresponds precisely to the 'Contradictory Accounts' section's prose about the second contradicting account of Rav's practice.",
+      "chosen_heading": "Contradictory Accounts",
+      "current_heading": "Contradictory Accounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Late Tefillin Resolution",
+    "candidates": [
+      "Late Tefillin Resolution",
+      "False Testimony Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous gemara discussion resolved under 'Late Tefillin Resolution': item 1 (the birkas hatorah exclusion explanation) and item 2 (the messenger-was-at-fault resolution) are explicitly described and quoted in that section's prose.",
+      "chosen_heading": "Late Tefillin Resolution",
+      "current_heading": "Late Tefillin Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "False Testimony Concept",
+    "candidates": [
+      "False Testimony Concept",
+      "Offering Without Gifts",
+      "Full Divine Kingship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ulla's 'false testimony' statement and Rabbi Yochanan's 'incomplete offering' statement, and the current heading 'False Testimony Concept' has prose that explicitly discusses both teachings together, while heading 1 'Offering Without Gifts' only discusses Rabbi Yochanan's formulation separately as an analytical follow-up.",
+      "chosen_heading": "False Testimony Concept",
+      "current_heading": "False Testimony Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Full Divine Kingship",
+    "candidates": [
+      "Offering Without Gifts",
+      "Full Divine Kingship",
+      "Cleanliness Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the complete acceptance of the yoke of Heaven through the sequence of relieving oneself, washing hands, donning tefillin, reciting Shema, and praying, and the associated image of building an altar and offering a sacrifice \u2014 exactly what the 'Full Divine Kingship' prose describes, including Rabbi Yochanan's formulation and Rava's comment about immersion.",
+      "chosen_heading": "Full Divine Kingship",
+      "current_heading": "Full Divine Kingship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Cleanliness Purpose",
+    "candidates": [
+      "Cleanliness Purpose",
+      "Non-Water Alternatives",
+      "Distance for Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the exact exchange between Ravina and Rava about non-water alternatives and the verse 'be-nikayon,' which is precisely what the 'Cleanliness Purpose' prose describes \u2014 including the Rav \u1e24isda detail mentioned there as part of the same unit.",
+      "chosen_heading": "Cleanliness Purpose",
+      "current_heading": "Cleanliness Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Distance for Water",
+    "candidates": [
+      "Non-Water Alternatives",
+      "Distance for Water",
+      "Hearing Shema Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the distances required to seek water for Shema vs. tefillah (parsa forward, less than a mil backward), which matches precisely the prose of the 'Distance for Water' section.",
+      "chosen_heading": "Distance for Water",
+      "current_heading": "Distance for Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Hearing Shema Obligation",
+    "candidates": [
+      "Hearing Shema Obligation",
+      "Rabbi Yose Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Hearing Shema Obligation' explicitly describes all three items in this mishna passage \u2014 the audibility dispute, the letter-precision dispute, reading out of order, and returning to the place of error \u2014 making it the clear and correct home for this passage.",
+      "chosen_heading": "Hearing Shema Obligation",
+      "current_heading": "Hearing Shema Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rabbi Yose Position",
+    "candidates": [
+      "Rabbi Yose Position",
+      "Deaf Person Terumah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's derivation from the word 'Shema' regarding Rabbi Yosei's position on self-audibility versus the first tanna's position on reciting in any language, which is precisely what the 'Rabbi Yose Position' prose describes.",
+      "chosen_heading": "Rabbi Yose Position",
+      "current_heading": "Rabbi Yose Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Deaf Person Terumah Case",
+    "candidates": [
+      "Deaf Person Terumah Case",
+      "Three Positions: Yehuda"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 13,
+      "first_heading": "Deaf Person Terumah Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-13 cover the terumah mishna and the Rav Chisda reasoning connecting it to Rabbi Yosi, exactly matching the 'Deaf Person Terumah Case' prose.",
+      "second_heading": "Three Positions: Yehuda",
+      "second_confidence": "medium",
+      "second_reason": "Items 14-25 open a new mishna from Megilla and work through the same three-position logical structure that heading 1 describes, including the Rabbi Yehuda bereih de-Rabbi Shimon ben Pazi baraita.",
+      "current_heading": "Deaf Person Terumah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Three Positions: Yehuda",
+    "candidates": [
+      "Three Positions: Yehuda",
+      "Rabbi Meir: Heart Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Rabbi Meir: Heart Intent' \u2014 Item 1 introduces Rabbi Meir's position citing 'al levavecha' and achar kavanat ha-lev, while Item 2 consolidates the framework by resolving the tension using Rabbi Meir's position, exactly matching the prose of candidate 1 which describes Rabbi Meir's introduction and the final consolidation of the three-position framework.",
+      "chosen_heading": "Rabbi Meir: Heart Intent",
+      "current_heading": "Three Positions: Yehuda",
+      "moved": true
+    }
+  }
+]

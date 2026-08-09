@@ -1,0 +1,232 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Derabbanan Scope",
+    "candidates": [
+      "Mishna on Konam",
+      "Condition-Dependent Neder",
+      "Gemara Connects Mishna",
+      "Ravina's Solution",
+      "Derabbanan Scope",
+      "Bal Yachel Derabbanan",
+      "Baraita Minhag Issur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement (le'olam kedekatani / bal yachel mi-derabbanan), which is precisely what the 'Ravina's Solution' prose describes as its content.",
+      "chosen_heading": "Ravina's Solution",
+      "current_heading": "Derabbanan Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Baraita Minhag Issur",
+    "candidates": [
+      "Bal Yachel Derabbanan",
+      "Baraita Minhag Issur",
+      "Types of Minhagim",
+      "Hatam Sofer Minhag",
+      "Minhag Issur vs. Heter",
+      "Pesach Timeline Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the gemara's question about whether bal yachel mi-derabbanan exists AND the baraita answer, which together form the unit that heading 0 ('Bal Yachel Derabbanan') introduces with its prose about the gemara posing that sharp question \u2014 heading 1's prose already describes the baraita content separately, suggesting the full passage (question + answer) belongs under heading 0 which sets up the entire discussion.",
+      "chosen_heading": "Bal Yachel Derabbanan",
+      "current_heading": "Baraita Minhag Issur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Pesach Timeline Mishna",
+    "candidates": [
+      "Types of Minhagim",
+      "Hatam Sofer Minhag",
+      "Minhag Issur vs. Heter",
+      "Pesach Timeline Mishna",
+      "Hana'ah Permit Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about the husband's vow with the Pesach/Sukkot timeline condition, which is precisely what the prose under 'Pesach Timeline Mishna' introduces and describes.",
+      "chosen_heading": "Pesach Timeline Mishna",
+      "current_heading": "Pesach Timeline Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Hana'ah Permit Condition",
+    "candidates": [
+      "Hana'ah Permit Condition",
+      "Lashes Question",
+      "Ran vs. Rambam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous sugya about whether the wife is prohibited from deriving benefit before she actually goes to her father's house, the inference from the mishna, Rabbi Abba's reinterpretation, and the conclusive refutation of Rav Yehuda \u2014 exactly what the 'Hana'ah Permit Condition' prose describes.",
+      "chosen_heading": "Hana'ah Permit Condition",
+      "current_heading": "Hana'ah Permit Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Ran vs. Rambam",
+    "candidates": [
+      "Lashes Question",
+      "Ran vs. Rambam",
+      "Shaatnez Alternative"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ran vs. Rambam",
+      "first_confidence": "high",
+      "first_reason": "Item 1 answers the question of whether deriving benefit during the conditional period violates 'bal yachel,' which is the core issue debated in the Ran vs. Rambam section about who transgresses and receives lashes.",
+      "second_heading": "Shaatnez Alternative",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce the mirror-image mishna case (benefit prohibited until Sukkot if she goes before Pesach) with the inference 'halcha asurah, lo halcha lo,' which is precisely the content described in the Shaatnez Alternative prose.",
+      "current_heading": "Ran vs. Rambam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Shaatnez Alternative",
+    "candidates": [
+      "Shaatnez Alternative",
+      "Rava's Clarification",
+      "Bread Condition Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that even if she did not go she is prohibited but without lashes, which is precisely what the prose in 'Rava's Clarification' describes and analyzes.",
+      "chosen_heading": "Rava's Clarification",
+      "current_heading": "Shaatnez Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Bread Condition Case",
+    "candidates": [
+      "Rava's Clarification",
+      "Bread Condition Case",
+      "Permit or Forbid Eating",
+      "Rav Yehuda Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita challenge about eating the loaf and the Gemara's answer distinguishing 'achal' (he ate) from 'ochel' (he may eat) \u2014 correspond precisely to the 'Bread Condition Case' prose, which describes the kikar/loaf scenario and the achal/harei zeh be-val eilech formulation.",
+      "chosen_heading": "Bread Condition Case",
+      "current_heading": "Bread Condition Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rav Yehuda Response",
+    "candidates": [
+      "Permit or Forbid Eating",
+      "Rav Yehuda Response",
+      "Indirect Action Control",
+      "Fruit Trip Example",
+      "Konam Sex Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items continue the same dispute between Rav Yehuda and Rav Nachman \u2014 item 1 poses the difficulty to Rav Yehuda from the baraita's use of 'halach' (past tense), and item 2 gives Rav Yehuda's answer explaining the stylistic parallelism, which is precisely what the 'Rav Yehuda Response' prose describes as his deflection of challenges and the gemara's maskana that the debate remains unresolved.",
+      "chosen_heading": "Rav Yehuda Response",
+      "current_heading": "Rav Yehuda Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Konam Sex Mishna",
+    "candidates": [
+      "Indirect Action Control",
+      "Fruit Trip Example",
+      "Konam Sex Mishna",
+      "She'ar Kesut Obligation",
+      "Wife's Property Rights",
+      "Husband Forbids Sex Plan",
+      "Wife Forbids Pleasure",
+      "Husband's Shibud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text for the mishna about a husband saying 'konam she-ani mishamshech' and the immediate challenge about his Torah obligation, which is exactly what the 'Konam Sex Mishna' section's prose describes.",
+      "chosen_heading": "Konam Sex Mishna",
+      "current_heading": "Konam Sex Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Husband's Shibud",
+    "candidates": [
+      "She'ar Kesut Obligation",
+      "Wife's Property Rights",
+      "Husband Forbids Sex Plan",
+      "Wife Forbids Pleasure",
+      "Husband's Shibud",
+      "Equal Marital Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains the loophole of formulating the vow as 'the pleasure I derive from intercourse with you is forbidden to me' (hana'as tashmishech alai), which is precisely what the 'Husband Forbids Sex Plan' section's prose describes.",
+      "chosen_heading": "Husband Forbids Sex Plan",
+      "current_heading": "Husband's Shibud",
+      "moved": true
+    }
+  }
+]

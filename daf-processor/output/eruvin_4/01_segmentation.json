@@ -34,7 +34,7 @@
           "timestamp": "05:47"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -63,8 +63,8 @@
           "timestamp": "13:04"
         }
       ],
-      "sefaria_index": 6,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Shiurim, Chatzitzin, and Mechitzin as Halacha LeMoshe MiSinai",
@@ -166,7 +166,7 @@
           "timestamp": "41:01"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -1005,5 +1005,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "22:57",
+  "amud_b_micro_title": "Wine, Fig, Pomegranate",
+  "shiur_start_daf": 4,
+  "shiur_start_amud": "a"
 }

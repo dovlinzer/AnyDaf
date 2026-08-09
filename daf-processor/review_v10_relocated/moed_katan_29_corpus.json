@@ -1,0 +1,231 @@
+[
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Women Wailing Rules",
+    "candidates": [
+      "Women's Burial",
+      "Miriam Divine Kiss",
+      "Tzadikkim Atonement",
+      "Sudden Death Types",
+      "Ages of Death",
+      "Rav Yosef Age 60",
+      "Rava Mazal",
+      "Rava Chisda Compare",
+      "Rava Brother Deaths",
+      "Rav Nachman Appears",
+      "Rabbi Elazar Truma",
+      "Rav Sheshes Encounter",
+      "Rav Ashi Review",
+      "Chisda Chiya Silent",
+      "Women Wailing Rules",
+      "Mourning Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 14,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text that opens the final section of the tractate, covering the rules of wailing and clapping on Chol HaMoed, Rosh Chodesh, Hanukkah, Purim, and after burial \u2014 precisely what candidate 14 ('Women Wailing Rules') describes in its prose.",
+      "chosen_heading": "Women Wailing Rules",
+      "current_heading": "Women Wailing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Mourning Types",
+    "candidates": [
+      "Mourning Types",
+      "Meanos Kina Words",
+      "Shnitziv Wailing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the definition of wailing/lament and the concluding forward-looking verse about death being swallowed forever \u2014 are explicitly discussed in the 'Mourning Types' prose, which covers the Mishnah's definitions of inuy, kina, and the closing Isaiah verse.",
+      "chosen_heading": "Mourning Types",
+      "current_heading": "Mourning Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Shnitziv Wailing",
+    "candidates": [
+      "Meanos Kina Words",
+      "Shnitziv Wailing",
+      "Yishmael Consoled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items \u2014 Rav's wailing phrase, Rava's multiple Shekhantziv women's sayings, and Rabbi Meir's baraita on laying death to heart \u2014 are explicitly discussed together in the 'Shnitziv Wailing' section prose, which covers exactly this sequence of content.",
+      "chosen_heading": "Shnitziv Wailing",
+      "current_heading": "Shnitziv Wailing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Yishmael Consoled",
+    "candidates": [
+      "Yishmael Consoled",
+      "Kal Vachomer Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the opening of the consolation visit to Rabbi Yishmael \u2014 the elders' arrival, Rabbi Tarfon's instructions, Rabbi Akiva's deferral, and Rabbi Yishmael's self-deprecating opening remarks \u2014 which is precisely what the 'Yishmael Consoled' prose section describes.",
+      "chosen_heading": "Yishmael Consoled",
+      "current_heading": "Yishmael Consoled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Kal Vachomer Proofs",
+    "candidates": [
+      "Kal Vachomer Proofs",
+      "Death Verses Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items are the continuous baraita of kal vachomer proofs by Rabbi Tarfon, Rabbi Yosei HaGelili, Rabbi Elazar ben Azarya, and Rabbi Akiva regarding the sons of Rabbi Yishmael, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Kal Vachomer Proofs",
+      "current_heading": "Kal Vachomer Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Death Verses Resolved",
+    "candidates": [
+      "Death Verses Resolved",
+      "Consoler Etiquette"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion of resolving contradictory verses about dying 'in peace' for Zedekiah and Josiah, which is precisely what the 'Death Verses Resolved' prose describes.",
+      "chosen_heading": "Death Verses Resolved",
+      "current_heading": "Death Verses Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Consoler Etiquette",
+    "candidates": [
+      "Consoler Etiquette",
+      "Mourner Head Seat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the ruling that consolers must wait for the mourner to speak first, which is exactly what the 'Consoler Etiquette' section's prose addresses in detail.",
+      "chosen_heading": "Consoler Etiquette",
+      "current_heading": "Consoler Etiquette",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Mourner Head Seat",
+    "candidates": [
+      "Mourner Head Seat",
+      "Soul Struggle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the same topic \u2014 who sits at the head of the table (mourner, then groom, then priest) \u2014 which is precisely what the 'Mourner Head Seat' prose describes in detail.",
+      "chosen_heading": "Mourner Head Seat",
+      "current_heading": "Mourner Head Seat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Soul Struggle",
+    "candidates": [
+      "Soul Struggle",
+      "Parting Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi \u1e24anina's and Rabbi Yo\u1e25anan's statements about the difficulty of the soul's departure, which is precisely what the 'Soul Struggle' prose describes.",
+      "chosen_heading": "Soul Struggle",
+      "current_heading": "Soul Struggle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Parting Blessings",
+    "candidates": [
+      "Parting Blessings",
+      "Scholars Ascent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the same teaching about parting blessings for the dead vs. the living (leich b'shalom vs. leich l'shalom), which is precisely what the 'Parting Blessings' prose section discusses in detail, including the same proofs from Abraham, David/Absalom, and Jethro/Moses.",
+      "chosen_heading": "Parting Blessings",
+      "current_heading": "Parting Blessings",
+      "moved": false
+    }
+  }
+]

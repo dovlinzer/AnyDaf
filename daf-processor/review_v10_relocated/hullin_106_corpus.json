@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Abaye's Assumption",
+    "candidates": [
+      "Abaye's Assumption",
+      "Bar Shida Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about why people pour water from a pitcher, corrected by the Master \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Abaye's Assumption",
+      "current_heading": "Abaye's Assumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Bar Shida Story",
+    "candidates": [
+      "Bar Shida Story",
+      "Rav Dimi Account",
+      "Ravin's Account",
+      "Stories Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Bar Shida narrative \u2014 the demon's delay at the river and his subsequent remark upon seeing the household pour water from the pitcher \u2014 which is exactly what the 'Bar Shida Story' prose describes in detail.",
+      "chosen_heading": "Bar Shida Story",
+      "current_heading": "Bar Shida Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Stories Analysis",
+    "candidates": [
+      "Rav Dimi Account",
+      "Ravin's Account",
+      "Stories Analysis",
+      "Heated Water Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are Rav Dimi's and Ravin's cautionary accounts about mayim rishonim/acharonim plus Rabbi Abba's combined version \u2014 exactly the content described in the 'Rav Dimi Account' prose, which introduces both cases and mentions both Sages' versions.",
+      "chosen_heading": "Rav Dimi Account",
+      "current_heading": "Stories Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Heated Water Debate",
+    "candidates": [
+      "Stories Analysis",
+      "Heated Water Debate",
+      "Hot Springs Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Chizkiyya/Rabbi Yochanan debate about water heated by fire (chamei ha'ur) for netilat yadayim and Rabbi Yochanan's testimony from Rabban Gamliel, which is precisely what the 'Heated Water Debate' prose describes.",
+      "chosen_heading": "Heated Water Debate",
+      "current_heading": "Heated Water Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Hot Springs Issue",
+    "candidates": [
+      "Hot Springs Issue",
+      "Purpose Serach Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are a continuous discussion about the hot springs of Tiberias \u2014 the Hizkiyya/Rabbi Yochanan dispute, Rav Pappa's resolution, and the tannaitic parallel \u2014 exactly matching the 'Hot Springs Issue' prose.",
+      "chosen_heading": "Hot Springs Issue",
+      "current_heading": "Hot Springs Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Purpose Serach Terumah",
+    "candidates": [
+      "Purpose Serach Terumah",
+      "Mitzvah to Listen",
+      "Cleanliness Holiness",
+      "Zav Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that hand-washing for non-sacred food is due to an ancillary decree on account of teruma, which is precisely what the 'Purpose Serach Terumah' section's prose discusses.",
+      "chosen_heading": "Purpose Serach Terumah",
+      "current_heading": "Purpose Serach Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Zav Verse",
+    "candidates": [
+      "Mitzvah to Listen",
+      "Cleanliness Holiness",
+      "Zav Verse",
+      "Literal Reading",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's and Rava's answers to 'what mitzva?', and heading 0 ('Mitzvah to Listen') is the section that introduces this exact question and Abaye's answer, making it the natural home for the complete gemara passage including Rava's response with the zav verse.",
+      "chosen_heading": "Mitzvah to Listen",
+      "current_heading": "Zav Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Literal Reading",
+      "Rava Challenge",
+      "Unwashed Hands Tumah",
+      "No Fruit Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's challenge to Rav Nachman about the derivation from the verse, matching exactly the 'Rava Challenge' prose which describes this same dialectical exchange.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "No Fruit Requirement",
+    "candidates": [
+      "Unwashed Hands Tumah",
+      "No Fruit Requirement",
+      "Rava Arrogance",
+      "Rabba Bar Chana Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ruling that washing hands before fruit is only for cleanliness, the students' misunderstanding about mitzvah, and Rava's correction to 'reshut,' all of which match exactly the 'No Fruit Requirement' section's prose description.",
+      "chosen_heading": "No Fruit Requirement",
+      "current_heading": "No Fruit Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Rabba Bar Chana Story",
+    "candidates": [
+      "Rava Arrogance",
+      "Rabba Bar Chana Story",
+      "Baraita Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Rabba bar bar \u1e24ana story and the supporting baraita about two people separating \u2014 are explicitly discussed together in the 'Rabba Bar Chana Story' prose, which covers the three inferences, the Tosafot difficulty, and the baraita about sofrim and bur.",
+      "chosen_heading": "Rabba Bar Chana Story",
+      "current_heading": "Rabba Bar Chana Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Baraita Levels",
+    "candidates": [
+      "Baraita Levels",
+      "Rav Opinion",
+      "Shmuel Stringency",
+      "Rav Sheshes Leniency",
+      "Wrist Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita that lays out the tiered structure of washing requirements for chulin, terumah, and kiddush yadayim in the Mikdash, plus the interposition rule \u2014 exactly what the 'Baraita Levels' prose describes.",
+      "chosen_heading": "Baraita Levels",
+      "current_heading": "Baraita Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Wrist Practice",
+    "candidates": [
+      "Rav Opinion",
+      "Shmuel Stringency",
+      "Rav Sheshes Leniency",
+      "Wrist Practice",
+      "Piksa Valley"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Opinion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the dispute between Rav, Shmuel, and Rav Sheshet \u2014 covering all three opinions (distinct levels, stringent same, lenient same) \u2014 which maps to headings 0-2, but since it covers all three opinions together, the best single home is heading 0 ('Rav Opinion') which opens the sequence, or more precisely the passage spans headings 0-2; however, since the passage must go under one heading and heading 0 is where Rav's opinion (the starting point of the dispute) sits and the entire tri-opinion block belongs together, index 0 is the best fit.",
+      "second_heading": "Wrist Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Bar Hedya's testimony about Rabbi Ami and Rabbi Meyasha's stringent practice, which matches exactly the prose of heading 3 ('Wrist Practice') where the essay discusses Bar Hadaya's report about Rav Ami and the proof from Rav Meisha the Levite.",
+      "current_heading": "Wrist Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Piksa Valley",
+    "candidates": [
+      "Piksa Valley",
+      "Distress Requirement",
+      "Morning Washing",
+      "Irrigation Channel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav's all-day washing rule and Rabbi Avina's application to the Piksa/Aravot valley, which is precisely what candidate 0's prose describes, including the morning stipulation and the valley with limited water access.",
+      "chosen_heading": "Piksa Valley",
+      "current_heading": "Piksa Valley",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Irrigation Channel",
+    "candidates": [
+      "Distress Requirement",
+      "Morning Washing",
+      "Irrigation Channel",
+      "Bucket Proximity",
+      "Bucket Hole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about the irrigation channel and koach gavra, which is exactly what the 'Irrigation Channel' section's prose discusses, including both the disqualification of downstream water and the exception when hands are placed near the bucket \u2014 the current placement is correct.",
+      "chosen_heading": "Irrigation Channel",
+      "current_heading": "Irrigation Channel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Bucket Hole",
+    "candidates": [
+      "Bucket Proximity",
+      "Bucket Hole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses a perforated bucket (hole of kones mashkeh size), tevilat yadayim via the connected channel, and Rava's ruling about not washing hands with a perforated vessel \u2014 all of which directly match the 'Bucket Hole' prose discussion.",
+      "chosen_heading": "Bucket Hole",
+      "current_heading": "Bucket Hole",
+      "moved": false
+    }
+  }
+]

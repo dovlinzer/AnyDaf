@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Role of warning",
+    "candidates": [
+      "Opening remarks",
+      "Single violation in day",
+      "Act definition",
+      "Role of warning",
+      "Three parallel cases",
+      "Tumah vs. process",
+      "Repeat impurity question",
+      "Two prohibitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna text covers all three cases (wine, shaving, tumah) but the passage as a whole is the Mishna being introduced, and candidate 1's prose directly quotes and discusses this exact Mishna formulation ('nazir she-hayah shoteh yayin kol hayom eino chayav ela achat'), making it the clearest match for where this Mishna text should be placed.",
+      "chosen_heading": "Single violation in day",
+      "current_heading": "Role of warning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Two prohibitions",
+    "candidates": [
+      "Three parallel cases",
+      "Tumah vs. process",
+      "Repeat impurity question",
+      "Two prohibitions",
+      "State vs. act",
+      "Rava: No repeat lashes",
+      "Yosef: separate acts",
+      "Cemetery case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's ruling about the two distinct prohibitions (lo yitama and lo yavo) and that tumah-following-tumah does not generate separate lashes, which is precisely what the 'Two prohibitions' section's prose describes.",
+      "chosen_heading": "Two prohibitions",
+      "current_heading": "Two prohibitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Cemetery case",
+    "candidates": [
+      "State vs. act",
+      "Rava: No repeat lashes",
+      "Yosef: separate acts",
+      "Cemetery case",
+      "Sources conflict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's 'ha Elokim' exclamation and Rav Huna's cemetery ruling cited as proof, which directly corresponds to the 'Yosef: separate acts' section's prose describing exactly this content \u2014 Rav Yosef invoking 'ha Elokim!' before citing Rav Huna's ruling about tumah v'tumah, with the cemetery case serving as the illustrative proof within that argument.",
+      "chosen_heading": "Yosef: separate acts",
+      "current_heading": "Cemetery case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Sources conflict",
+    "candidates": [
+      "Cemetery case",
+      "Sources conflict",
+      "Av hatumah levels",
+      "Tumah bechiburin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's challenge from the kohen baraita and Rav Yosef's counter from the nazir mishna \u2014 are precisely the 'sources conflict' material described in candidate 1's prose, which explicitly discusses both the braita about the kohen and the mishna about the nazir with warnings, matching the passage's content exactly.",
+      "chosen_heading": "Sources conflict",
+      "current_heading": "Sources conflict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Tumah bechiburin",
+    "candidates": [
+      "Av hatumah levels",
+      "Tumah bechiburin",
+      "Goses proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's resolution 'lo kashya \u2014 kan bechiburin, kan she-lo bechiburin,' which is precisely what the 'Tumah bechiburin' section's prose explains and discusses in detail.",
+      "chosen_heading": "Tumah bechiburin",
+      "current_heading": "Tumah bechiburin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Goses proof",
+    "candidates": [
+      "Goses proof",
+      "Resolution: Contact Rule",
+      "Gemara's question",
+      "Hand vs. body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the prose under 'Goses proof,' which explicitly discusses the Rav Yitz\u1e25ak bar Yosef/Rabbi Yannai ruling about tumah bechiburin applying only to teruma and kodashim but not nazir/pesach, and then the Gemara's resolution distinguishing chiburei adam b'adam from chiburei adam b'meis \u2014 exactly what items 1 and 2 contain.",
+      "chosen_heading": "Goses proof",
+      "current_heading": "Goses proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Hand vs. body",
+    "candidates": [
+      "Resolution: Contact Rule",
+      "Gemara's question",
+      "Hand vs. body",
+      "Box case",
+      "Goses case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Resolution: Contact Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 summarizes the tumah-tumah rule (he is already impure and standing), which is the closing statement of the 'Resolution: Contact Rule' section.",
+      "second_heading": "Gemara's question",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 cover the Gemara's question about tumah u-vi'ah, Rabbi Yochanan's bayit/sadeh distinction, the nose/toes objections, and Rabbi Elazar's and Rava's hand-vs-body resolutions \u2014 exactly the content described in the 'Hand vs. body' prose section.",
+      "current_heading": "Hand vs. body",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Goses case",
+    "candidates": [
+      "Box case",
+      "Goses case",
+      "Lehachalo dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's chest/box case AND Mar bar Rav Ashi's goses case together, and the 'Box case' prose (candidate 0) explicitly discusses both Rav Pappa's case and notes Mar bar Rav Ashi's scenario, making it the correct home for this combined passage rather than splitting it under the 'Goses case' heading alone.",
+      "chosen_heading": "Box case",
+      "current_heading": "Goses case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Lehachalo dispute",
+    "candidates": [
+      "Goses case",
+      "Lehachalo dispute",
+      "Goses included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly presents the two derivations (le-hachalo and bemotam) with the conclusion 'ad she-yamut,' which is precisely what the 'Lehachalo dispute' prose describes.",
+      "chosen_heading": "Lehachalo dispute",
+      "current_heading": "Lehachalo dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Goses included",
+    "candidates": [
+      "Goses included",
+      "Death requirement",
+      "Lehachalo vs tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical unit about the practical difference between the 'le-hachalo' and 'bemotam' derivations regarding a goses, which is precisely what the 'Goses included' section's prose discusses \u2014 Reish Lakish's position, Rav Yochanan's counter, and the resolution of how each verse is used.",
+      "chosen_heading": "Goses included",
+      "current_heading": "Goses included",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Lehachalo vs tumah",
+    "candidates": [
+      "Death requirement",
+      "Lehachalo vs tumah",
+      "Tosafot: no repeat",
+      "Exit problem",
+      "Edge burial",
+      "Rav Yosef: active only",
+      "Rava: never repeat",
+      "Ra'avad ruling",
+      "Modern application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous Talmudic exchange about whether a dying person (goses) transmits tumah before death, with items 1-2 resolving the lehachalo vs bimotam question and item 3 raising and resolving the objection from the mishna in Oholot \u2014 precisely the content described in candidate 0's prose about the braita proving a person does not cause tumah until the soul departs.",
+      "chosen_heading": "Death requirement",
+      "current_heading": "Lehachalo vs tumah",
+      "moved": true
+    }
+  }
+]

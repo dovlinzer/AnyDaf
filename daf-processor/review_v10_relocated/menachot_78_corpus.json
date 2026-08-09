@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Michubar Concept",
+    "candidates": [
+      "Michubar Concept",
+      "One-in-Ten Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'mimenu/michubar' principle from the baraita, which is exactly what the 'Michubar Concept' prose section describes, including the challenge about 'et kol chelbo yarim mimenu' that appears in candidate 1's prose but as a follow-up question to the michubar analysis.",
+      "chosen_heading": "Michubar Concept",
+      "current_heading": "Michubar Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "One-in-Ten Ratio",
+    "candidates": [
+      "One-in-Ten Ratio",
+      "Excluding Midyan/Challah",
+      "Mimenu Exclusion",
+      "Mita v'Chomesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24isda/Avimi's teaching that the priest may not cut up the meat before removing the sacrificial portions is explicitly discussed in the 'One-in-Ten Ratio' section's prose, which quotes this very ruling and explains its relevance to the mechubar concept.",
+      "chosen_heading": "One-in-Ten Ratio",
+      "current_heading": "One-in-Ten Ratio",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Mita v'Chomesh",
+    "candidates": [
+      "Excluding Midyan/Challah",
+      "Mimenu Exclusion",
+      "Mita v'Chomesh",
+      "Dimua Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1's prose explicitly describes the gezerah shavah deriving the one-in-ten proportion from terumat ma'aser and then raises the question of why not derive from trumat Midyan \u2014 exactly the content of both items, which together form the challenge-and-response unit about the Midyan comparison.",
+      "chosen_heading": "Mimenu Exclusion",
+      "current_heading": "Mita v'Chomesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Dimua Question",
+    "candidates": [
+      "Mita v'Chomesh",
+      "Dimua Question",
+      "Double Yud Derivation",
+      "Assara Esronot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why we cannot derive the proportion from trumat challah, using the school of Rabbi Yishmael's teaching about the word 'mimenu' \u2014 which is precisely what the 'Dimua Question' section's prose describes.",
+      "chosen_heading": "Dimua Question",
+      "current_heading": "Dimua Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Assara Esronot",
+    "candidates": [
+      "Double Yud Derivation",
+      "Assara Esronot",
+      "Matza Piggyback",
+      "Gezeira Shava Chain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rava's dilemma about whether teruma of the toda-loaves incurs death and one-fifth penalties, which is precisely what candidate 0 ('Double Yud Derivation') describes in its prose, whereas the current placement under 'Assara Esronot' discusses flour measures and loaf counts, an entirely different topic.",
+      "chosen_heading": "Double Yud Derivation",
+      "current_heading": "Assara Esronot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Gezeira Shava Chain",
+    "candidates": [
+      "Matza Piggyback",
+      "Gezeira Shava Chain",
+      "Tavyu Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about the dilemma of whether teruma of the toda loaves renders a mixture forbidden (dimua) and concludes with teiku, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Matza Piggyback",
+      "current_heading": "Gezeira Shava Chain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Tavyu Inclusion",
+    "candidates": [
+      "Gezeira Shava Chain",
+      "Tavyu Inclusion",
+      "Miluim Three Types",
+      "Revucha Identification",
+      "Kohen Gadol Initiation",
+      "Nazir Proportions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation from 'tihyena' (its spelling with double yod indicating ten esronot) and Rava's answer that the Torah speaks in units of esronot \u2014 which is precisely what candidate 0 ('Gezeira Shava Chain') describes in its closing sentences about tihyena resolving the question for the opinion that forbids chained hekkesh derivations.",
+      "chosen_heading": "Gezeira Shava Chain",
+      "current_heading": "Tavyu Inclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Nazir Proportions",
+    "candidates": [
+      "Miluim Three Types",
+      "Revucha Identification",
+      "Kohen Gadol Initiation",
+      "Nazir Proportions",
+      "Matzos Klal Prat",
+      "Inside-Outside Rule"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 3,
+      "split2": 5,
+      "first_heading": "Revucha Identification",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses deriving the ten esronot for matzah loaves from the chametz loaves via hekkesh, and the 'himenu ve-davar akher' principle, which matches heading 1 'Revucha Identification' which discusses asara l'matzah minayin and the keneged chametz derivation.",
+      "second_heading": "Miluim Three Types",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 contains the Mishna about miluim loaves paralleling toda matzah types and the nazir bringing two of three types yielding ten kav Jerusalem measure, matching heading 0 'Miluim Three Types' which describes exactly these topics.",
+      "third_heading": "Kohen Gadol Initiation",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara deriving that the inauguration loaves include revuchah from Leviticus 8:26 and then from the juxtaposition of chinucho and himashcho showing the inauguration offering is poached, matching heading 2 'Kohen Gadol Initiation' which discusses the Kohen Gadol's inaugural mincha and the revucha connection.",
+      "current_heading": "Nazir Proportions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Inside-Outside Rule",
+    "candidates": [
+      "Matzos Klal Prat",
+      "Inside-Outside Rule",
+      "Location Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses the High Priest's inaugural meal offering (miluim/inauguration context), which connects loosely to the 'Inside-Outside Rule' section's discussion of miluim loaves, but neither candidate prose directly addresses Rav \u1e24isda's dispute about two vs. three tenths of an ephah for a newly anointed High Priest; the current placement is retained as no other candidate is a clearly better match.",
+      "chosen_heading": "Inside-Outside Rule",
+      "current_heading": "Inside-Outside Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Location Debate",
+    "candidates": [
+      "Location Debate",
+      "Pesach Chametz Parallel"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 4,
+      "split2": 5,
+      "first_heading": "Location Debate",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses the nazirite's two types of matza and the ten Jerusalem kav measurement, which directly matches the 'Location Debate' prose's opening explanation of the nazir bringing two-thirds of the toda's matza types.",
+      "second_heading": "Location Debate",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about slaughtering the thanks offering while loaves are outside the wall, which is the Mishna that introduces the location debate discussed in heading 0's prose.",
+      "third_heading": "Pesach Chametz Parallel",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara dispute between Rabbi Yochanan and Reish Lakish about 'outside the wall' and ends with 'didn't they already disagree one other time,' pointing to the parallel Pesach/chametz dispute discussed in heading 1's prose.",
+      "current_heading": "Location Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Pesach Chametz Parallel",
+    "candidates": [
+      "Pesach Chametz Parallel",
+      "Yerushalayim Requirement",
+      "Crust Requirement",
+      "All Loaves Must Be Bread",
+      "Lishmah Requirement",
+      "Non-Stringy Standard",
+      "Forty Sanctified",
+      "All-or-Nothing",
+      "Explicit Intent",
+      "Knife Power Debate",
+      "Rabbi Yochanan vs Reish Lakish",
+      "Pesach chametz parallel",
+      "Need both cases explained",
+      "Braita like Rabbi Yochanan",
+      "Crust requirement definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "All four items concern the parallel dispute between Reish Lakish and Rabbi Yochanan regarding the Pesach/chametz case and why both rulings (Pesach-chametz and toda-loaves) are necessary, which is precisely what heading 11 ('Pesach chametz parallel') describes.",
+      "chosen_heading": "Pesach chametz parallel",
+      "current_heading": "Pesach Chametz Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Crust requirement definition",
+    "candidates": [
+      "Yerushalayim Requirement",
+      "Crust Requirement",
+      "All Loaves Must Be Bread",
+      "Lishmah Requirement",
+      "Non-Stringy Standard",
+      "Forty Sanctified",
+      "All-or-Nothing",
+      "Explicit Intent",
+      "Knife Power Debate",
+      "Rabbi Yochanan vs Reish Lakish",
+      "Pesach chametz parallel",
+      "Need both cases explained",
+      "Braita like Rabbi Yochanan",
+      "Crust requirement definition",
+      "Pesach matzah cooking standards",
+      "Strands test for bread",
+      "Lechem definition parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Crust requirement definition",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishnah and Gemara baraita establishing the crust requirement and lishmah requirement for toda loaves, which is precisely what heading 13 ('Crust requirement definition') describes.",
+      "second_heading": "Pesach matzah cooking standards",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a new topic about Pesach matzah baking standards with a new baraita, which corresponds exactly to heading 14 ('Pesach matzah cooking standards').",
+      "current_heading": "Crust requirement definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Lechem definition parallel",
+    "candidates": [
+      "Pesach matzah cooking standards",
+      "Strands test for bread",
+      "Lechem definition parallel",
+      "Eighty loaves scenario",
+      "Chizkiya forty sanctified",
+      "Rabbi Yochanan all or nothing",
+      "Rabbi Zeira intent resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's ruling about toda loaves meeting the lechem standard, the peshita objection, and the echad/paris concern \u2014 exactly what the 'Lechem definition parallel' prose describes.",
+      "chosen_heading": "Lechem definition parallel",
+      "current_heading": "Lechem definition parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Rabbi Zeira intent resolution",
+    "candidates": [
+      "Eighty loaves scenario",
+      "Chizkiya forty sanctified",
+      "Rabbi Yochanan all or nothing",
+      "Rabbi Zeira intent resolution",
+      "Abaye kli sharet debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the opening amora'ic dispute (\u1e24izkiyya vs. Rabbi Yo\u1e25anan) and Rabbi Zeira's clarification of its scope \u2014 all of which belong under the 'Eighty loaves scenario' heading that introduces this entire case, not under the 'Rabbi Zeira intent resolution' heading which covers only Zeira's sub-point after the dispute is already established.",
+      "chosen_heading": "Eighty loaves scenario",
+      "current_heading": "Rabbi Zeira intent resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153,
+      154
+    ],
+    "current_heading": "Abaye kli sharet debate",
+    "candidates": [
+      "Rabbi Zeira intent resolution",
+      "Abaye kli sharet debate",
+      "Rav Papa knife power"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye kli sharet debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Abaye's position and Rav Papa's first version) both address whether kli sharet sanctifies without intent, matching the 'Abaye kli sharet debate' prose which explicitly discusses both framings together.",
+      "second_heading": "Rav Papa knife power",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the 've-ika de-amri' version of Rav Papa) presents the alternative where everyone agrees kli sharet requires intent and the knife's relative power is debated, matching exactly the 'Rav Papa knife power' prose about sakin alimah vs. lo alimah mi-kli sharet.",
+      "current_heading": "Abaye kli sharet debate",
+      "moved": true
+    }
+  }
+]

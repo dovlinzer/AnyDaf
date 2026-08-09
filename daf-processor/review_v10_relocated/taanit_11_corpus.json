@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mar'iv Atzmo Famine",
+    "candidates": [
+      "Opening & Dedication",
+      "Yachid/Tzibur Theme",
+      "Who are the Yachidim",
+      "Leadership Models",
+      "Tekufot & Sixty Days",
+      "Julian-Gregorian Shift",
+      "Rosh's Spain Case",
+      "Prayer to Liturgy Shift",
+      "Mar'iv Atzmo Famine",
+      "Tashmish Hamitah Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage about Rav Yehuda/Rav's teaching on starving oneself during famine years to be saved from unusual death is precisely what the prose of heading 8 ('Mar'iv Atzmo Famine') describes and analyzes.",
+      "chosen_heading": "Mar'iv Atzmo Famine",
+      "current_heading": "Mar'iv Atzmo Famine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Tashmish Hamitah Ban",
+    "candidates": [
+      "Tashmish Hamitah Ban",
+      "Heavenly Angels Declare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's prohibition on conjugal relations during famine years and the baraita exception for those without children, which is exactly what the 'Tashmish Hamitah Ban' prose describes.",
+      "chosen_heading": "Tashmish Hamitah Ban",
+      "current_heading": "Tashmish Hamitah Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Heavenly Angels Declare",
+    "candidates": [
+      "Heavenly Angels Declare",
+      "Must Participate Tzaar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the two ministering angels placing their hands on the head of one who separates from the community and declaring he will not see the community's consolation \u2014 exactly what the 'Heavenly Angels Declare' section prose describes.",
+      "chosen_heading": "Heavenly Angels Declare",
+      "current_heading": "Heavenly Angels Declare",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Must Participate Tzaar",
+    "candidates": [
+      "Must Participate Tzaar",
+      "Moshe's Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact baraita passage discussed in candidate 0's prose, which explicitly covers the 'middas beinonim' and 'middas resha'im' distinction along with both Isaiah verses quoted in items 1 and 2.",
+      "chosen_heading": "Must Participate Tzaar",
+      "current_heading": "Must Participate Tzaar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Moshe's Example",
+    "candidates": [
+      "Moshe's Example",
+      "See Consolation",
+      "House Stones Testify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Moses sitting on a stone to share in the community's suffering, which is exactly what the 'Moshe's Example' section discusses, and the current placement is correct.",
+      "chosen_heading": "Moshe's Example",
+      "current_heading": "Moshe's Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "House Stones Testify",
+    "candidates": [
+      "See Consolation",
+      "House Stones Testify",
+      "Witnesses of Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the house stones testimony and the angels testimony, spanning content addressed by headings 0-2, but since it introduces the question of 'who will testify against me' which is the rhetorical setup found in heading 0's prose, and includes both the house stones AND the angels (making it too broad for either heading 1 or 2 alone), heading 0 is the closest match as it sets up the entire testimony sequence \u2014 though current placement at heading 1 is also defensible since that heading's prose directly discusses the house stones content.",
+      "chosen_heading": "See Consolation",
+      "current_heading": "House Stones Testify",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Witnesses of Separation",
+    "candidates": [
+      "Witnesses of Separation",
+      "El Emunah Theodicy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi \u1e24idka's teaching on the soul and limbs testifying against a person is explicitly discussed in the prose of heading 0, which enumerates these exact witnesses (soul, limbs) in the context of separation from communal suffering.",
+      "chosen_heading": "Witnesses of Separation",
+      "current_heading": "Witnesses of Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "El Emunah Theodicy",
+    "candidates": [
+      "El Emunah Theodicy",
+      "Deeds Enumerated Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items interpret Deuteronomy 32:4 ('El Emunah ve'ein avel') to explain the theodicy of punishment and reward across this world and the World-to-Come, which is precisely the content described in the 'El Emunah Theodicy' prose.",
+      "chosen_heading": "El Emunah Theodicy",
+      "current_heading": "El Emunah Theodicy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Deeds Enumerated Death",
+    "candidates": [
+      "Deeds Enumerated Death",
+      "Hayoshev B'Ta'anit",
+      "Asceticism Holy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the enumeration of deeds at death, signing, and justifying the judgment \u2014 exactly what the 'Deeds Enumerated Death' section's prose discusses in detail.",
+      "chosen_heading": "Deeds Enumerated Death",
+      "current_heading": "Deeds Enumerated Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Asceticism Holy",
+    "candidates": [
+      "Hayoshev B'Ta'anit",
+      "Asceticism Holy",
+      "Hair vs. Person Holy",
+      "Kadosh B'Kirbecha",
+      "Capacity Determines",
+      "Gomel Nafsho"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Shmuel's statement that one who fasts is called a sinner, the baraita of Rabbi Elazar HaKappar about the nazirite sinning by abstaining from wine, the opposing view of Rabbi Elazar that the faster is called sacred, the Gemara's resolution of the contradiction between the two verses, and then the challenge from Rabbi Elazar's own statement about the divine presence within \u2014 all of which flows directly from and elaborates on Shmuel's core ruling (*kol hayoshev be'ta'anit nikra choteh*), which is precisely what heading 0 ('Hayoshev B'Ta'anit') describes.",
+      "chosen_heading": "Hayoshev B'Ta'anit",
+      "current_heading": "Asceticism Holy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Gomel Nafsho",
+    "candidates": [
+      "Hair vs. Person Holy",
+      "Kadosh B'Kirbecha",
+      "Capacity Determines",
+      "Gomel Nafsho",
+      "Let Dog Eat",
+      "No Fast in Bavel",
+      "Talmid Chacham Can't Fast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Reish Lakish statement about being called a chasid from the 'gomel nafsho' verse and the Rav Sheshet dog-eating statement, which correspond precisely to the prose of heading 3 ('Gomel Nafsho'), which explicitly discusses both Reish Lakish's position on this verse and the alternative girsa tradition.",
+      "chosen_heading": "Gomel Nafsho",
+      "current_heading": "Gomel Nafsho",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Talmid Chacham Can't Fast",
+    "candidates": [
+      "Let Dog Eat",
+      "No Fast in Bavel",
+      "Talmid Chacham Can't Fast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both statements together \u2014 the 'no communal fast in Bavel except Tisha B'Av' and the 'talmid chacham cannot fast' ruling \u2014 and candidate 1's prose explicitly discusses both statements as appearing together, noting that Reish Lakish's statement follows Rabbi Yirmiyah bar Abba's, whereas candidate 2 only discusses Reish Lakish's statement in isolation.",
+      "chosen_heading": "No Fast in Bavel",
+      "current_heading": "Talmid Chacham Can't Fast",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Transition Cases",
+    "candidates": [
+      "Lenient Opinion Rule",
+      "Minority Opinions",
+      "Tannaitic Disputes",
+      "Rav Mesharshya",
+      "Exception Cases",
+      "Cases Requiring Ruling",
+      "Reshut Status",
+      "Transition Cases",
+      "Yehuda vs Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The prose under 'Reshut Status' (index 6) explicitly introduces this mishnah with the words 'ela mei-ha' and describes the very content of the passage \u2014 a city that was private becoming public or vice versa \u2014 making it the section that introduces and contextualizes this quoted mishnah.",
+      "chosen_heading": "Reshut Status",
+      "current_heading": "Transition Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Yehuda vs Shimon",
+    "candidates": [
+      "Transition Cases",
+      "Yehuda vs Shimon",
+      "Rav's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Item 2 contains Rav \u1e24ama bar Gurya's ruling in Rav's name that the halacha follows Rabbi Shimon and the immediate challenge about the principle favoring Rabbi Yehuda \u2014 which is precisely what heading 2 ('Rav's Ruling') discusses, not heading 1 which only introduces the dispute itself.",
+      "chosen_heading": "Rav's Ruling",
+      "current_heading": "Yehuda vs Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav's Ruling",
+    "candidates": [
+      "Rav's Ruling",
+      "Eruv Participation",
+      "Absence Issue",
+      "Rabbi Meir",
+      "Rabbi Yehuda",
+      "Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection of the difficulty raised against Rav's ruling in favor of Rabbi Shimon, invoking the 'heicha d'itmar itmar' principle, which is precisely what the 'Rav's Ruling' section's prose describes.",
+      "chosen_heading": "Rav's Ruling",
+      "current_heading": "Rav's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rabbi Yosi",
+    "candidates": [
+      "Eruv Participation",
+      "Absence Issue",
+      "Rabbi Meir",
+      "Rabbi Yehuda",
+      "Rabbi Yosi",
+      "Rav Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full mishnah being introduced \u2014 Rabbi Meir's position (item 1) plus the dissenting opinions of Rabbi Yehuda, Rabbi Yosi, and Rabbi Shimon (item 2) \u2014 and candidate 0 ('Eruv Participation') is the heading that introduces this entire mishnah with 'The Gemara moves to the next case with ela mei-ha,' making it the natural home for the complete quoted passage before the essay breaks out each opinion individually.",
+      "chosen_heading": "Eruv Participation",
+      "current_heading": "Rabbi Yosi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rav Rules",
+    "candidates": [
+      "Rabbi Yosi",
+      "Rav Rules",
+      "Poor Person"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rav's ruling that the halakha follows Rabbi Shimon over Rabbi Yehuda and the Gemara's resolution via 'heicha d'itmar itmar,' which is precisely what the 'Rav Rules' prose describes.",
+      "chosen_heading": "Rav Rules",
+      "current_heading": "Rav Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Poor Person",
+    "candidates": [
+      "Poor Person",
+      "Only Poor",
+      "All Can Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the proof from the mishna about a pauper establishing an eruv with his feet and then cites Rabbi Meir's position that only a pauper may do so, which maps precisely to heading 0's prose about the gemara pressing with 'ela mei-ha' and turning to the mishna's teaching about ha-ani me'arev be-raglav.",
+      "chosen_heading": "Poor Person",
+      "current_heading": "Poor Person",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "All Can Use",
+    "candidates": [
+      "Only Poor",
+      "All Can Use",
+      "Rav's Teaching",
+      "Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yehuda's ruling that the option is available to both poor and wealthy, and Rav's endorsement of that ruling \u2014 content that perfectly matches the 'All Can Use' section's prose about Rabbi Yehuda's position and its universal applicability, before the challenge section begins.",
+      "chosen_heading": "All Can Use",
+      "current_heading": "All Can Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Rav's Teaching",
+      "Challenge",
+      "Rav vs Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly expresses the 'tarti lama li' challenge \u2014 why does Rav need to explicitly rule like Rabbi Yehuda when the general principle already dictates this \u2014 which is precisely what the 'Challenge' section's prose describes.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav vs Yochanan",
+    "candidates": [
+      "Rav vs Yochanan",
+      "Paternity Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Rav may not accept these principles, which matches the 'Rav vs Yochanan' prose describing exactly this Gemara rejection \u2014 that Rav does not hold of these klalim.",
+      "chosen_heading": "Rav vs Yochanan",
+      "current_heading": "Rav vs Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Paternity Concern",
+    "candidates": [
+      "Paternity Concern",
+      "Blanket Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the yevamah case and the three-month waiting period before yibum/chalitzah, which is precisely what the 'Paternity Concern' prose describes as the first topic presented after 'ela mei-ha'.",
+      "chosen_heading": "Paternity Concern",
+      "current_heading": "Paternity Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Blanket Rule",
+    "candidates": [
+      "Blanket Rule",
+      "Rabbi Yehuda Logical",
+      "Rabbi Yosi",
+      "Yochanan Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the mishnah's blanket rule and its qualifications (Rabbi Yehuda and Rabbi Yosi), which is exactly what candidate 0's prose describes \u2014 the universal three-month waiting period and its lo plug application across all categories of women.",
+      "chosen_heading": "Blanket Rule",
+      "current_heading": "Blanket Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Yochanan Rules",
+    "candidates": [
+      "Rabbi Yehuda Logical",
+      "Rabbi Yosi",
+      "Yochanan Rules",
+      "Challenge",
+      "Baraita Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer (Elazar) asking Rabbi Asi what was taught in the study hall, learning that Rabbi Yochanan ruled 'halacha ke-Rabbi Yosi,' and then inferring that only a single authority disagrees \u2014 which matches precisely the prose of 'Yochanan Rules' describing that encounter and the implicit assumption of a da'at yachid opposing Rabbi Yosi.",
+      "chosen_heading": "Yochanan Rules",
+      "current_heading": "Yochanan Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Baraita Uncertainty",
+    "candidates": [
+      "Challenge",
+      "Baraita Uncertainty",
+      "Shmuel's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the challenge: the baraita is cited to establish that Rabbi Yosi disputes Rabbi Meir here, and item 2 immediately presses the point \u2014 why did Rabbi Yochanan need to rule explicitly when the general principle (Rabbi Meir vs. Rabbi Yosi \u2192 follow Rabbi Yosi) already dictates the outcome? This is precisely the challenge described in candidate 0's prose.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Baraita Uncertainty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shmuel's Rule",
+    "candidates": [
+      "Baraita Uncertainty",
+      "Shmuel's Rule",
+      "Contradiction",
+      "Permitted Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rav Na\u1e25man's ruling in the name of Shmuel that halacha follows Rabbi Meir in his decrees (gezeirot), which is precisely what the 'Shmuel's Rule' section's prose is about.",
+      "chosen_heading": "Shmuel's Rule",
+      "current_heading": "Shmuel's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Permitted Items",
+    "candidates": [
+      "Contradiction",
+      "Permitted Items",
+      "Kohen Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about attending non-Jewish fairs and registering transactions in gentile courts, which is precisely what the 'Permitted Items' section's prose describes.",
+      "chosen_heading": "Permitted Items",
+      "current_heading": "Permitted Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Kohen Exception",
+    "candidates": [
+      "Kohen Exception",
+      "Marriage Torah",
+      "Yehuda Restricts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the kohen's permission to become tameh for litigation purposes and the clarification that the baraita refers to beit haperas (rabbinic tumah) rather than a full cemetery (biblical tumah), which is precisely what the 'Kohen Exception' prose describes.",
+      "chosen_heading": "Kohen Exception",
+      "current_heading": "Kohen Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Yehuda Restricts",
+    "candidates": [
+      "Marriage Torah",
+      "Yehuda Restricts",
+      "Yosi Allows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the marriage/Torah study allowance AND Rabbi Yehuda's qualification in a single baraita continuation, but the prose of heading 0 ('Marriage Torah') explicitly discusses both purposes together as one unit, while heading 1 ('Yehuda Restricts') is prose commentary about Rabbi Yehuda's restriction only \u2014 the actual Talmudic text covers both halves and belongs under the heading that introduces the full baraita excerpt including marriage and Torah study.",
+      "chosen_heading": "Marriage Torah",
+      "current_heading": "Yehuda Restricts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Yosi Allows",
+    "candidates": [
+      "Yehuda Restricts",
+      "Yosi Allows",
+      "Yochanan Explicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yosi's opinion and his supporting precedent (Yosef ha-Kohen in Tzeidan), which is exactly what the 'Yosi Allows' prose describes.",
+      "chosen_heading": "Yosi Allows",
+      "current_heading": "Yosi Allows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Yochanan Explicit",
+    "candidates": [
+      "Yochanan Explicit",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yochanan's ruling on Rabbi Yosi, Abaye's explanation about mishnayot vs. beraitot, and Rav Mesharshya's conclusion that the klalim are not universally accepted \u2014 are precisely the content described in candidate 0's prose.",
+      "chosen_heading": "Yochanan Explicit",
+      "current_heading": "Yochanan Explicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Shmuel Position",
+      "No Owner Techumin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Shmuel's ruling that objects of a non-Jew do not acquire residence, which is precisely what candidate 0 ('Shmuel Position') discusses as its central topic.",
+      "chosen_heading": "Shmuel Position",
+      "current_heading": "Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "No Owner Techumin",
+    "candidates": [
+      "No Owner Techumin",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question about whose opinion Shmuel's ruling follows and the conclusion that it must be directed at Rabbi Yochanan ben Nuri \u2014 exactly the content described in the 'No Owner Techumin' prose.",
+      "chosen_heading": "No Owner Techumin",
+      "current_heading": "No Owner Techumin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Baraita Contradiction",
+      "Positions Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita from Rabbi Shimon ben Elazar with its specific rulings about borrowed/lent utensils and produce brought from outside the techum, which is exactly what the 'Baraita Contradiction' section's prose describes and analyzes.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Positions Analysis",
+    "candidates": [
+      "Positions Analysis",
+      "Confusion Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the classic question-and-answer chain about whose opinion the baraita reflects (Rabbi Yochanan ben Nuri vs. the Rabbis) and why Shmuel's ruling was still necessary despite being obvious \u2014 exactly what the 'Positions Analysis' prose describes.",
+      "chosen_heading": "Positions Analysis",
+      "current_heading": "Positions Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Confusion Concern",
+    "candidates": [
+      "Confusion Concern",
+      "Rava Allows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's ruling that gentile objects acquire residence due to a decree conflating gentile and Jewish ownership, which is exactly what the 'Confusion Concern' prose describes.",
+      "chosen_heading": "Confusion Concern",
+      "current_heading": "Confusion Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Rava Allows",
+    "candidates": [
+      "Rava Allows",
+      "Ravina Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava permitting residents of Me\u1e25oza to purchase rams brought to Mavrakhta, which directly matches the 'Rava Allows' section's prose about this practical incident.",
+      "chosen_heading": "Rava Allows",
+      "current_heading": "Rava Allows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148
+    ],
+    "current_heading": "Ravina Challenges",
+    "candidates": [
+      "Ravina Challenges",
+      "City as Four Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Ravina's challenge to Rava \u2014 item 1 raises Shmuel's position as the apparent basis for the permission, and item 2 immediately objects that the halacha follows Rabbi Yochanan instead, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Ravina Challenges",
+      "current_heading": "Ravina Challenges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "City as Four Amot",
+    "candidates": [
+      "City as Four Amot",
+      "Fishnet Setup",
+      "Iron Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's ruling that all of Mavrakhta functions as four amot for the rams, which is precisely what the 'City as Four Amot' prose section discusses.",
+      "chosen_heading": "City as Four Amot",
+      "current_heading": "City as Four Amot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159
+    ],
+    "current_heading": "Iron Wall",
+    "candidates": [
+      "Fishnet Setup",
+      "Iron Wall",
+      "Yosi Laughs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Iron Wall",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi \u1e24iyya's ruling that an iron partition is required, which is precisely what the 'Iron Wall' prose describes.",
+      "second_heading": "Yosi Laughs",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yosei bar \u1e24anina laughing at the ruling, which is exactly what the 'Yosi Laughs' prose discusses.",
+      "current_heading": "Iron Wall",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Yosi Laughs",
+    "candidates": [
+      "Yosi Laughs",
+      "Water Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why Rabbi Yosi laughed and the rejection of the explanation that it was due to holding a lenient position mocking a strict one, which is exactly what the prose in 'Yosi Laughs' discusses.",
+      "chosen_heading": "Yosi Laughs",
+      "current_heading": "Yosi Laughs",
+      "moved": false
+    }
+  }
+]

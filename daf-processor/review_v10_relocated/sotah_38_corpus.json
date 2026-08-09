@@ -1,0 +1,460 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Three Issues",
+    "candidates": [
+      "Daf 38 Overview",
+      "Why in Sotah",
+      "Mishna: Birkat Kohanim",
+      "Three Issues",
+      "Mishna Structure",
+      "Koh Tevarchu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishna of Birkat Kohanim (keitzad), which is precisely what heading 2 ('Mishna: Birkat Kohanim') introduces \u2014 the detailed prose analysis of these three issues belongs under heading 3, but the raw Mishna text itself belongs under the heading that announces the Mishna.",
+      "chosen_heading": "Mishna: Birkat Kohanim",
+      "current_heading": "Three Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Koh Tevarchu",
+    "candidates": [
+      "Mishna Structure",
+      "Koh Tevarchu",
+      "Gezerah Shava",
+      "Tosafot Question",
+      "Text vs. Non-Text",
+      "Categorization",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita asking whether birkat kohanim must be in lashon hakodesh or any language, exactly matching the 'Koh Tevarchu' prose which describes this opening baraita and its question \u2014 the gezerah shava answer that follows is covered by the next heading.",
+      "chosen_heading": "Koh Tevarchu",
+      "current_heading": "Koh Tevarchu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Gezerah Shava",
+      "Tosafot Question",
+      "Text vs. Non-Text",
+      "Categorization",
+      "Rabbi Yehuda",
+      "Koh Tevarchu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda's view that the word 'koh' itself suffices to require recitation in the original language, which is precisely what the 'Rabbi Yehuda' section's prose describes.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Koh Tevarchu",
+    "candidates": [
+      "Koh Tevarchu",
+      "Eileh Ya'amdu",
+      "Lesharto Ulevarech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita deriving the standing requirement from 'koh tevarchu' and raises the question of whether sitting is permitted, which matches exactly the prose under heading 0, while the gezerah shava resolution (eileh ya'amdu) is discussed as a separate section under heading 1.",
+      "chosen_heading": "Koh Tevarchu",
+      "current_heading": "Koh Tevarchu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Lesharto Ulevarech",
+    "candidates": [
+      "Eileh Ya'amdu",
+      "Lesharto Ulevarech",
+      "Avodah Connection",
+      "Rabbi Natan",
+      "Conceptual Dispute",
+      "Different Conclusions",
+      "Nesi'as Kapayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Natan's view that standing is derived from 'lesharto ulevarech bishmo,' which is precisely what the 'Lesharto Ulevarech' section heading and its prose describe.",
+      "chosen_heading": "Lesharto Ulevarech",
+      "current_heading": "Lesharto Ulevarech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Nesi'as Kapayim",
+    "candidates": [
+      "Avodah Connection",
+      "Rabbi Natan",
+      "Conceptual Dispute",
+      "Different Conclusions",
+      "Nesi'as Kapayim",
+      "Rabbi Yonatan Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving nesi'as kapayim from koh tevarchu via gezerah shava with Aharon's blessing, which is precisely what the prose of candidate 4 describes.",
+      "chosen_heading": "Nesi'as Kapayim",
+      "current_heading": "Nesi'as Kapayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabbi Yonatan Challenge",
+    "candidates": [
+      "Rabbi Yonatan Challenge",
+      "Hu Uvanav Kol Hayamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yonatan's challenge about deriving requirements of High Priest, New Moon, and communal service, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Rabbi Yonatan Challenge",
+      "current_heading": "Rabbi Yonatan Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Hu Uvanav Kol Hayamim",
+    "candidates": [
+      "Hu Uvanav Kol Hayamim",
+      "Eliminating Circumstances",
+      "Tosafot: Korban Type",
+      "Tosafot Answer",
+      "Vesamu Et Shemi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Natan's derivation from 'hu uvanav kol hayamim' and the juxtaposition of beracha to sheirut, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Hu Uvanav Kol Hayamim",
+      "current_heading": "Hu Uvanav Kol Hayamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Vesamu Et Shemi",
+    "candidates": [
+      "Eliminating Circumstances",
+      "Tosafot: Korban Type",
+      "Tosafot Answer",
+      "Vesamu Et Shemi",
+      "Outside Mikdash Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita teaching that 'koh tevarchu' requires the ineffable name, resolved by 'vesamu es shemi' meaning the unique name \u2014 exactly what the prose under 'Vesamu Et Shemi' describes.",
+      "chosen_heading": "Vesamu Et Shemi",
+      "current_heading": "Vesamu Et Shemi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Outside Mikdash Question",
+    "candidates": [
+      "Outside Mikdash Question",
+      "Bechol Hamakom",
+      "Gemara Resistance",
+      "Reading Out of Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the verbal analogy (gezera shava) between 'vesamu es shemi' and 'lasum et shemo sham' to restrict the use of the ineffable name to the Beis HaMikdash, which is precisely what the 'Outside Mikdash Question' prose describes.",
+      "chosen_heading": "Outside Mikdash Question",
+      "current_heading": "Outside Mikdash Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Reading Out of Order",
+    "candidates": [
+      "Bechol Hamakom",
+      "Gemara Resistance",
+      "Reading Out of Order",
+      "Theological Balance",
+      "Kohanim's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yoshiya's position and the verse he cites, which is what heading 0 ('Bechol Hamakom') is specifically about \u2014 Rabbi Yoshiya citing this verse and his initial derivation \u2014 whereas heading 2 ('Reading Out of Order') covers the gemara's subsequent rearrangement/transposition of that verse, which is a distinct step that follows Rabbi Yoshiya's initial statement.",
+      "chosen_heading": "Bechol Hamakom",
+      "current_heading": "Reading Out of Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Kohanim's Role",
+    "candidates": [
+      "Theological Balance",
+      "Kohanim's Role",
+      "Who Receives",
+      "Face to Face"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita explicitly discusses extending 'koh tevarchu es benei Yisrael' to include converts, women, and emancipated slaves via 'emor lahem,' which is precisely what the 'Who Receives' section's prose describes.",
+      "chosen_heading": "Who Receives",
+      "current_heading": "Kohanim's Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Face to Face",
+    "candidates": [
+      "Who Receives",
+      "Face to Face",
+      "Audible Voice",
+      "Calling Kohanim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Face to Face",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is specifically about face-to-face orientation (panim keneged panim), which matches the 'Face to Face' section's prose exactly.",
+      "second_heading": "Audible Voice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is specifically about reciting the blessing out loud (bekol ram) versus in a whisper, which matches the 'Audible Voice' section's prose exactly.",
+      "current_heading": "Face to Face",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Calling Kohanim",
+    "candidates": [
+      "Audible Voice",
+      "Calling Kohanim",
+      "Rav Chisda View",
+      "Ruling",
+      "God's Desire"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Calling Kohanim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's and Rav \u1e24isda's positions on calling kohanim, which matches candidate 1 ('Calling Kohanim') and candidate 2 ('Rav Chisda View') \u2014 but since both Abaye and Rav \u1e24isda are introduced together in one continuous passage, and candidate 1's prose explicitly covers both figures as part of the same discussion, item 1 belongs under 'Calling Kohanim'.",
+      "second_heading": "Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the concluding halakhic ruling ('the halakha follows Abaye, not Rav \u1e24isda'), which is a structural wrap-up that matches candidate 3 ('Ruling'), whose prose explicitly states 'the halacha follows Abaye and not Rav \u1e24isda.'",
+      "current_heading": "Calling Kohanim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "God's Desire",
+    "candidates": [
+      "Rav Chisda View",
+      "Ruling",
+      "God's Desire",
+      "Kohen Blessed",
+      "Three Mitzvot",
+      "Ben Gerusha",
+      "Timing Restriction",
+      "Aaron's Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the mnemonic plus the first two statements of Rabbi Yehoshua ben Levi \u2014 God's desire for birkat kohanim and the blessed kohen \u2014 and the current heading 'God's Desire' with its prose about vesamu es shemi is the correct home for the mnemonic and the first substantive statement, while items 2-3 flow naturally as the opening entries under that same section before the subsequent headings take over the later statements.",
+      "chosen_heading": "God's Desire",
+      "current_heading": "God's Desire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Aaron's Context",
+    "candidates": [
+      "Kohen Blessed",
+      "Three Mitzvot",
+      "Ben Gerusha",
+      "Timing Restriction",
+      "Aaron's Context",
+      "Beginning Movement",
+      "Leg Lifting",
+      "Shliach Tzibur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ben Gerusha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rav's concern about ben gerusha/ben chalutza and the reconciliation with Rabbi Yehoshua ben Levi based on periodic vs. never ascending, which is precisely what the 'Ben Gerusha' prose describes.",
+      "second_heading": "Timing Restriction",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rabbi Yehoshua ben Levi's ruling about ascending during the avoda blessing with the Aaron proof-text, plus the Rabbi Ami/Asi challenge resolved by Rabbi Oshaya's leg-lifting rule, matching the 'Timing Restriction' prose exactly.",
+      "current_heading": "Aaron's Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Shliach Tzibur",
+    "candidates": [
+      "Beginning Movement",
+      "Leg Lifting",
+      "Shliach Tzibur",
+      "Movement Suffices",
+      "Tov Ayin",
+      "Generous Disposition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the shliach tzibur (prayer leader) who is a kohen performing birkat kohanim and returning to prayer, which matches exactly the 'Shliach Tzibur' section's prose about the shliach tzibur interrupting to perform birkat kohanim \u2014 and the question of how he qualifies as having begun movement is then answered in the next section ('Movement Suffices'), so this passage bridges the two but belongs under 'Shliach Tzibur' where the difficulty is raised.",
+      "chosen_heading": "Shliach Tzibur",
+      "current_heading": "Shliach Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Generous Disposition",
+    "candidates": [
+      "Movement Suffices",
+      "Tov Ayin",
+      "Generous Disposition",
+      "Birds Know"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua ben Levi's statement about giving the cup of blessing only to one with a good eye, which matches the 'Tov Ayin' section's prose that introduces this exact teaching, while the current placement under 'Generous Disposition' covers the midrashic reading of the verse \u2014 the full statement including the verse and its interpretation belongs under the heading that introduces the teaching.",
+      "chosen_heading": "Tov Ayin",
+      "current_heading": "Generous Disposition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Birds Know",
+    "candidates": [
+      "Generous Disposition",
+      "Birds Know",
+      "Stingy Transgression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Birds Know' section, which explicitly discusses Rabbi Yehoshua ben Levi's teaching about birds recognizing stingy people and cites the same Proverbs verse.",
+      "chosen_heading": "Birds Know",
+      "current_heading": "Birds Know",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Stingy Transgression",
+    "candidates": [
+      "Stingy Transgression",
+      "Ra Ayin",
+      "Two Lavin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua ben Levi's statement about transgressing one prohibition AND Rav Na\u1e25man bar Yitz\u1e25ak's addition about two prohibitions, making it a complete unit that best fits under 'Two Lavin' which discusses both elements together, including the derivation of the second prohibition from 'do not desire.'",
+      "chosen_heading": "Two Lavin",
+      "current_heading": "Stingy Transgression",
+      "moved": true
+    }
+  }
+]

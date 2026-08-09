@@ -1,0 +1,468 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Topic Transition",
+      "Me'akvin Principle",
+      "Mishna Text",
+      "Rabbi Shimon",
+      "Sukkot Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the full mishna text covering both the ein me'akvin rule for the various animals AND Rabbi Shimon's position, and the 'Mishna Text' section prose explicitly describes both parts of this mishna, making it the best home for the complete passage rather than splitting it under 'Rabbi Shimon' alone.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sukkot Exception",
+    "candidates": [
+      "Rabbi Shimon",
+      "Sukkot Exception",
+      "Rosh Chodesh & Shavuot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks which festival these offerings belong to and immediately excludes Sukkot due to the 'kemishpat'/'kemishpatam' language, which is precisely what the 'Sukkot Exception' prose describes.",
+      "chosen_heading": "Sukkot Exception",
+      "current_heading": "Sukkot Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rosh Chodesh & Shavuot",
+    "candidates": [
+      "Rosh Chodesh & Shavuot",
+      "Multiple Animals",
+      "Emor Passage",
+      "Korban Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the problem that rosh chodesh and shavuot (as in Numbers/Pinchas) have only one ram, not multiple rams \u2014 which is precisely what candidate 1 ('Multiple Animals') discusses: examining the relevant verses and finding that neither rosh chodesh nor shavuot provides multiple rams.",
+      "chosen_heading": "Multiple Animals",
+      "current_heading": "Rosh Chodesh & Shavuot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Korban Comparison",
+    "candidates": [
+      "Multiple Animals",
+      "Emor Passage",
+      "Korban Comparison",
+      "Eilim Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states that the rams of Leviticus do not prevent the ram of Numbers and vice versa, which is precisely what the 'Eilim Resolution' section's prose describes and explains.",
+      "chosen_heading": "Eilim Resolution",
+      "current_heading": "Korban Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Eilim Resolution",
+    "candidates": [
+      "Korban Comparison",
+      "Eilim Resolution",
+      "Different Scenarios",
+      "Yechezkel 46:6",
+      "Fewer Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's challenge-and-resolution about the mishna reading bulls/sheep differently from rams, which is precisely what candidate 2 ('Different Scenarios') describes with its 'tani mili mili katani' resolution \u2014 the current placement in 'Eilim Resolution' (index 1) is the section that foreshadows this resolution, while index 2 is where the actual challenge and answer belong.",
+      "chosen_heading": "Different Scenarios",
+      "current_heading": "Eilim Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Fewer Animals",
+    "candidates": [
+      "Different Scenarios",
+      "Yechezkel 46:6",
+      "Fewer Animals",
+      "Me'akvin Nuance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita discussing Yechezkel 46:6's single bull versus the Torah's two bulls, which is precisely what the 'Yechezkel 46:6' section's prose describes as the first contradiction to be resolved.",
+      "chosen_heading": "Yechezkel 46:6",
+      "current_heading": "Fewer Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Me'akvin Nuance",
+    "candidates": [
+      "Fewer Animals",
+      "Me'akvin Nuance",
+      "Yechezkel 45:18"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-4 all discuss the principle of bringing fewer animals when the full number is unavailable (six instead of seven, down to one), and the yihyu derivation for me'akev \u2014 all of which are explicitly described in the 'Fewer Animals' prose, whereas the current placement ('Me'akvin Nuance') only covers the tail end of this material.",
+      "chosen_heading": "Fewer Animals",
+      "current_heading": "Me'akvin Nuance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Yechezkel 45:18",
+    "candidates": [
+      "Yechezkel 45:18",
+      "Miluim Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the question about the verse in Ezekiel 45:18 and Rabbi Yo\u1e25anan's answer that Elijah will interpret it, which matches the current heading's prose that discusses this exact verse and its difficulty, before the next section moves on to Rav Ashi's miluim resolution.",
+      "chosen_heading": "Yechezkel 45:18",
+      "current_heading": "Yechezkel 45:18",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Miluim Process",
+    "candidates": [
+      "Miluim Process",
+      "Rabbi Yehuda & Rabbi Yose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about miluim in the days of Ezra, which is precisely what the 'Miluim Process' section's prose discusses \u2014 Rav Ashi's resolution involving the miluim of the Second Beis Hamikdash modeled on Moshe's time.",
+      "chosen_heading": "Miluim Process",
+      "current_heading": "Miluim Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rabbi Yehuda & Rabbi Yose",
+    "candidates": [
+      "Rabbi Yehuda & Rabbi Yose",
+      "Yechezkel 44"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the baraita exchange between Rabbi Yehuda and Rabbi Yose about 'this passage' and Elijah's future interpretation, which is precisely what the prose under 'Rabbi Yehuda & Rabbi Yose' discusses.",
+      "chosen_heading": "Rabbi Yehuda & Rabbi Yose",
+      "current_heading": "Rabbi Yehuda & Rabbi Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Yechezkel 44",
+    "candidates": [
+      "Yechezkel 44",
+      "Par Helem Davar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Ezekiel 44:31 verse about kohanim not eating neveila or treifa \u2014 Item 1 presents the difficulty and Rabbi Yochanan's deferral to Elijah, and Item 2 gives Ravina's resolution involving melikah \u2014 exactly matching the prose under 'Yechezkel 44'.",
+      "chosen_heading": "Yechezkel 44",
+      "current_heading": "Yechezkel 44",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Par Helem Davar",
+    "candidates": [
+      "Par Helem Davar",
+      "Par Helem Requirements",
+      "Chanina ben Chizkiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together discuss the Ezekiel 45:20 verse and its reinterpretation as referring to the par he'elam davar, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Par Helem Davar",
+      "current_heading": "Par Helem Davar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Chanina ben Chizkiya",
+    "candidates": [
+      "Par Helem Requirements",
+      "Chanina ben Chizkiya",
+      "Eifa Measurements",
+      "Animal Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about \u1e24anina ben \u1e24izkiyya preserving Ezekiel from suppression, which matches exactly the prose under 'Chanina ben Chizkiya' where the essay discusses this same statement by Rav Yehuda in Rav's name.",
+      "chosen_heading": "Chanina ben Chizkiya",
+      "current_heading": "Chanina ben Chizkiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Animal Priority",
+    "candidates": [
+      "Eifa Measurements",
+      "Animal Priority",
+      "Ram Priority",
+      "Mishna Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All four items form a continuous unit where the baraita from Ezekiel (Item 2) is the source for Rabbi Shimon's ruling about bulls and rams, and Candidate 0's prose explicitly discusses this baraita and Rabbi Shimon's textual question as the foundation for the entire passage.",
+      "chosen_heading": "Eifa Measurements",
+      "current_heading": "Animal Priority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Mishna Text",
+    "candidates": [
+      "Ram Priority",
+      "Mishna Text",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about the bull, rams, sheep, and goat not preventing the shtei halechem and vice versa is precisely what the 'Mishna Text' section's prose describes and analyzes.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Mishna Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Rabbi Akiva",
+      "Ben Nanos",
+      "Rabbi Shimon's Ruling",
+      "Wilderness Offering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Akiva",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Akiva's ruling and Ben Nanos's counter-ruling, which is exactly what headings 0 and 1 discuss \u2014 but since item 1 is Rabbi Akiva's statement and item 2 is Ben Nanos's, the split places item 1 under 'Rabbi Akiva' (index 0) and item 2 under 'Ben Nanos' (index 1), yet all three items together form a continuous dispute; however, item 3 (Rabbi Shimon's ruling that halakha follows Ben Nanos but not his reasoning) matches heading 2 'Rabbi Shimon's Ruling' perfectly, creating a genuine structural seam after item 2.",
+      "second_heading": "Rabbi Shimon's Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 3 \u2014 Rabbi Shimon's declaration that the halakha follows Ben Nanos but not his reasoning \u2014 is precisely what heading 2 'Rabbi Shimon's Ruling' describes in its prose.",
+      "current_heading": "Rabbi Akiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Wilderness Offering",
+    "candidates": [
+      "Ben Nanos",
+      "Rabbi Shimon's Ruling",
+      "Wilderness Offering",
+      "Matir Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Shimon's principle that everything in Bamidbar was offered in the wilderness while everything in Torat Kohanim was not, which is precisely what the 'Wilderness Offering' section's prose describes and attributes to Rabbi Shimon's rejection of Ben Nanos's reasoning.",
+      "chosen_heading": "Wilderness Offering",
+      "current_heading": "Wilderness Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Matir Concept",
+    "candidates": [
+      "Matir Concept",
+      "Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the sheep can be sacrificed without the loaves (they permit themselves) but not vice versa \u2014 precisely the matir concept discussed in candidate 0's prose.",
+      "chosen_heading": "Matir Concept",
+      "current_heading": "Matir Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Obligation",
+    "candidates": [
+      "Obligation",
+      "Independence",
+      "Rabbi Tarfon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving both the obligation 'with the bread' and the independent obligation 'even without the bread,' which is exactly what the 'Obligation' section's prose describes.",
+      "chosen_heading": "Obligation",
+      "current_heading": "Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rabbi Tarfon",
+    "candidates": [
+      "Independence",
+      "Rabbi Tarfon",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Tarfon's statement explaining that 'al halechem' teaches the obligation did not precede the bread obligation, which matches exactly the prose under 'Rabbi Tarfon' that paraphrases this very teaching.",
+      "chosen_heading": "Rabbi Tarfon",
+      "current_heading": "Rabbi Tarfon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Rabbi Akiva",
+      "Order Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Akiva's argument that the sheep in Leviticus differ from those in Numbers because the bulls and rams are in different quantities, concluding that these are distinct korbanot \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Rabbi Akiva",
+      "current_heading": "Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Order Proof",
+    "candidates": [
+      "Order Proof",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Conclusion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a concluding summary statement \u2014 'it is therefore found' \u2014 wrapping up the wilderness/Leviticus-vs-Numbers distinction, matching the 'Conclusion' prose about what the gemara concludes regarding the offerings' connection to shtei halechem and when they came into force.",
+      "second_heading": "Order Proof",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the challenge-and-resolution sequence about whether bulls/rams in Numbers are the same as those in Leviticus, resolved by the difference in order of presentation \u2014 exactly what the 'Order Proof' prose describes.",
+      "current_heading": "Order Proof",
+      "moved": true
+    }
+  }
+]

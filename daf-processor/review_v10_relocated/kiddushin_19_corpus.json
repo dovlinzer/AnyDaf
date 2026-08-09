@@ -1,0 +1,381 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rava's Core Question",
+    "candidates": [
+      "Rava's Core Question",
+      "Shifcha Achar Ishut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba bar Avuh's opening dilemma about whether yi'ud effects nisuin or erusin, which is precisely what candidate 0's prose describes as the core question the daf opens with.",
+      "chosen_heading": "Rava's Core Question",
+      "current_heading": "Rava's Core Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Shifcha Achar Ishut",
+    "candidates": [
+      "Shifcha Achar Ishut",
+      "Braita Reinterpreted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'ta shema' proof from 'be'vigdo vah' arguing that yi'ud creates only erusin not nisuin, which is precisely what the prose of heading 0 ('Shifcha Achar Ishut') describes in detail.",
+      "chosen_heading": "Shifcha Achar Ishut",
+      "current_heading": "Shifcha Achar Ishut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Braita Reinterpreted",
+    "candidates": [
+      "Braita Reinterpreted",
+      "Almanah/Gerushah Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Almanah/Gerushah Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Na\u1e25man bar Yitz\u1e25ak's reinterpretation of the previous baraita (about ordinary betrothal blocking sale), which wraps up the prior discussion and belongs under 'Braita Reinterpreted' where the current placement sits.",
+      "second_heading": "Braita Reinterpreted",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces a new baraita about selling to relatives/kohen gadol/common priest, which is precisely the content described in 'Braita Reinterpreted' prose about the dispute between the anonymous opinion and Rabbi Eliezer regarding relatives and cases of almana/gerusha.",
+      "current_heading": "Braita Reinterpreted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Almanah/Gerushah Proof",
+    "candidates": [
+      "Almanah/Gerushah Proof",
+      "Ma'os Rishonos Debate",
+      "Yi'ud = Erusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'almanah' scenario \u2014 item 1 raises the problem of shifcha achar ishut and item 2 resolves it via Rabbi Yosi b'Rabbi Yehuda's position on ma'ot rishonot and yi'ud \u2014 which is precisely what the 'Almanah/Gerushah Proof' prose describes.",
+      "chosen_heading": "Almanah/Gerushah Proof",
+      "current_heading": "Almanah/Gerushah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Yi'ud = Erusin",
+    "candidates": [
+      "Ma'os Rishonos Debate",
+      "Yi'ud = Erusin",
+      "Minor Son Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items continue the same debate about whether yi'ud effects erusin or nisuin \u2014 including the distinction between erusin/nisuin didah vs. de'aviha and the Rabbi Eliezer resolution \u2014 which is precisely what the 'Yi'ud = Erusin' prose describes in detail, including the rejection of the nisuin distinction and the acceptance of the erusin distinction, matching items 1-3, and the Rav Nachman bar Yitzchak/Rabbi Eliezer point matching item 4.",
+      "chosen_heading": "Yi'ud = Erusin",
+      "current_heading": "Yi'ud = Erusin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Minor Son Question",
+    "candidates": [
+      "Minor Son Question",
+      "Minor Marriage Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's dilemma about whether yi'ud can be performed for a minor son, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Minor Son Question",
+      "current_heading": "Minor Son Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Minor Marriage Proof",
+    "candidates": [
+      "Minor Marriage Proof",
+      "Yibum Alternative",
+      "Rashi/Tosafot Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's proof from the adultery verse about excluding a minor and the wife of a minor, which is precisely what the 'Minor Marriage Proof' section's prose describes.",
+      "chosen_heading": "Minor Marriage Proof",
+      "current_heading": "Minor Marriage Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rashi/Tosafot Debate",
+    "candidates": [
+      "Yibum Alternative",
+      "Rashi/Tosafot Debate",
+      "Rabbi Aivo's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Ashi's yibum-of-a-minor argument \u2014 the challenge about why the verse excludes eshet katan and the resolution that it addresses a nine-year-old yavam whose bi'ah is valid by Torah law \u2014 which directly matches the 'Yibum Alternative' heading's prose about Rav Ashi countering with yibum as the source for eshet katan and concluding the verse proves nothing about yi'ud.",
+      "chosen_heading": "Yibum Alternative",
+      "current_heading": "Rashi/Tosafot Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rabbi Aivo's Rule",
+    "candidates": [
+      "Rashi/Tosafot Debate",
+      "Rabbi Aivo's Rule",
+      "Girl's Da'as Required",
+      "Abaye's Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Aivo/Yannai's rule that yi'ud requires a gadol and da'as, and the Gemara's clarification that these are principle and rationale rather than two separate rules \u2014 exactly what the prose of 'Rabbi Aivo's Rule' describes.",
+      "chosen_heading": "Rabbi Aivo's Rule",
+      "current_heading": "Rabbi Aivo's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Abaye's Source",
+    "candidates": [
+      "Girl's Da'as Required",
+      "Abaye's Source",
+      "When Kiddushin Occurs",
+      "Rav Nachman's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the alternative explanation ('ve'ibba'it eima') asking whether 'mi'da'as' means with her consent, then cites Abaye's teaching as the source \u2014 this is the opening move establishing that the girl's own da'as is required, matching heading 0's prose about whether the girl must be part of the process, while heading 1's prose already describes Abaye's derivation as if presenting it as established content rather than introducing it.",
+      "chosen_heading": "Girl's Da'as Required",
+      "current_heading": "Abaye's Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav Nachman's View",
+    "candidates": [
+      "When Kiddushin Occurs",
+      "Rav Nachman's View",
+      "Rabbi Yosi's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's teaching about yi'ud according to Rabbi Yosi b'Rabbi Yehuda AND Rav Nachman's counterpoint, and candidate 0's prose explicitly discusses both positions together as part of the same Gemara explanation, making it the natural home for the complete passage.",
+      "chosen_heading": "When Kiddushin Occurs",
+      "current_heading": "Rav Nachman's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rabbi Yosi's Position",
+    "candidates": [
+      "Rav Nachman's View",
+      "Rabbi Yosi's Position",
+      "Prutah Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that establishes Rabbi Yosi b'Rabbi Yehuda's position from the juxtaposition of ye'adah and hepdah, which is exactly what the 'Rabbi Yosi's Position' prose describes as being cited from a braita.",
+      "chosen_heading": "Rabbi Yosi's Position",
+      "current_heading": "Rabbi Yosi's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Prutah Requirement",
+    "candidates": [
+      "Prutah Requirement",
+      "Rav Nachman Counters",
+      "Minor Daughter Kiddushin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Prutah Requirement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yosi b'Rabbi Yehuda's ruling and the Gemara's conclusion that ma'ot rishonot were not given for kiddushin, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Rav Nachman Counters",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Na\u1e25man bar Yitz\u1e25ak's counter-position arguing one can maintain ma'ot rishonot were given for kiddushin while still requiring a prutah via gezeirat hakatuv, which is precisely what candidate 1's prose describes.",
+      "current_heading": "Prutah Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Minor Daughter Kiddushin",
+    "candidates": [
+      "Rav Nachman Counters",
+      "Minor Daughter Kiddushin",
+      "Father's Authorization",
+      "Tosafot Problem",
+      "Two Da'asos Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rava citing Rav Nachman's ruling that a father may tell his minor daughter to go accept her betrothal, which is exactly what candidate 2 ('Father's Authorization') describes \u2014 Rav Nachman's ruling about *amar adam le'vito ketana, tzei ve'kabeli kiddushayich* derived from *kiddushei yi'ud* logic.",
+      "chosen_heading": "Father's Authorization",
+      "current_heading": "Minor Daughter Kiddushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Two Da'asos Model",
+    "candidates": [
+      "Father's Authorization",
+      "Tosafot Problem",
+      "Two Da'asos Model",
+      "Loan as Kesef",
+      "Mashkal Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yosi b'Rabbi Yehuda's ruling about the original money not being given for betrothal and remaining service worth one peruta constituting kiddushin, which is precisely the source being analyzed in the 'Mashkal Analogy' section's discussion of the loan-with-mashkon framework.",
+      "chosen_heading": "Mashkal Analogy",
+      "current_heading": "Two Da'asos Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Mashkal Analogy",
+    "candidates": [
+      "Loan as Kesef",
+      "Mashkal Analogy",
+      "Yi'ud Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rava/Rav Na\u1e25man's ruling that betrothing with a loan backed by collateral is valid kiddushin, which is precisely what heading 0 ('Loan as Kesef') describes \u2014 the benefit of waiving a debt with collateral serving as kesef kiddushin \u2014 whereas heading 1's prose already incorporates and elaborates on this passage's content as if explaining it, suggesting the passage itself belongs under heading 0 as the source ruling.",
+      "chosen_heading": "Loan as Kesef",
+      "current_heading": "Mashkal Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Yi'ud Declaration",
+    "candidates": [
+      "Yi'ud Declaration",
+      "Rabbi Yosi Condition",
+      "Mashkal Delayed Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the mechanics of yi'ud declaration (before two witnesses, even at end of six years, treating her as wife not slave) AND Rabbi Yosi's condition, and the current heading's prose explicitly addresses all these elements including Rabbi Yosi's condition as part of the same baraita.",
+      "chosen_heading": "Yi'ud Declaration",
+      "current_heading": "Yi'ud Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Mashkal Delayed Effect",
+    "candidates": [
+      "Rabbi Yosi Condition",
+      "Mashkal Delayed Effect",
+      "Why Mashkal Matters",
+      "No Interference Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara sequence introducing the mashal, questioning whether it fits Rabbi Yosi b'Rabbi Yehuda, and Rav Acha b'rei d'Rava's answer that it fits the Rabbis \u2014 exactly the content described in candidate 1's prose.",
+      "chosen_heading": "Mashkal Delayed Effect",
+      "current_heading": "Mashkal Delayed Effect",
+      "moved": false
+    }
+  }
+]

@@ -154,8 +154,8 @@
           "timestamp": "21:29"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Beit Din's Authority to Act on Behalf of Absent Husbands",
@@ -183,7 +183,7 @@
           "timestamp": "29:34"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -265,7 +265,7 @@
           "timestamp": "53:38"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 19,
       "matched": true
     }
   ],
@@ -530,5 +530,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "37:54",
+  "amud_b_micro_title": "Conceptual Debate",
+  "shiur_start_daf": 24,
+  "shiur_start_amud": "a"
 }

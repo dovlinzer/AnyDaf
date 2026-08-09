@@ -34,7 +34,7 @@
           "timestamp": "04:57"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 33,
       "matched": true
     },
     {
@@ -68,7 +68,7 @@
           "timestamp": "08:03"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -112,7 +112,7 @@
           "timestamp": "12:06"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -151,7 +151,7 @@
           "timestamp": "18:34"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -170,8 +170,8 @@
           "timestamp": "18:45"
         }
       ],
-      "sefaria_index": 14,
-      "matched": false
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Conclusion on Pesach Mitzrayim vs. L'Doros: Summary of What Is Unique and What Is Replicated (continued)",
@@ -189,7 +189,7 @@
           "timestamp": "18:52"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 25,
       "matched": false
     },
     {
@@ -218,7 +218,7 @@
           "timestamp": "18:52"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -508,5 +508,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 25
+  "amud_b_sefaria_index": 25,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "18:35",
+  "amud_b_micro_title": "Mitzrayim Unique",
+  "shiur_start_daf": 96,
+  "shiur_start_amud": "a"
 }

@@ -34,7 +34,7 @@
           "timestamp": "08:57"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -135,8 +135,8 @@
           "timestamp": "40:02"
         }
       ],
-      "sefaria_index": 27,
-      "matched": false
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Restriction of Multiple Payments (Arba'ah V'Chamishah) to Shor and Seh Alone",
@@ -164,7 +164,7 @@
           "timestamp": "55:10"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 15,
       "matched": false
     }
   ],
@@ -441,5 +441,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "01:10",
+  "amud_b_micro_title": "Chametz over Pesach",
+  "shiur_start_daf": 66,
+  "shiur_start_amud": "a"
 }

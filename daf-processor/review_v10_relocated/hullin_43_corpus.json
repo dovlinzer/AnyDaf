@@ -1,0 +1,415 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Gluda Debate",
+    "candidates": [
+      "Desagar Overview",
+      "Gluda Debate",
+      "Charusa & Gallbladder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the gluda case and how the tanna d'vei Rabbi Yishmael sides with Rabbi Meir who deems it kosher, which is precisely what the 'Gluda Debate' prose describes.",
+      "chosen_heading": "Gluda Debate",
+      "current_heading": "Gluda Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Charusa & Gallbladder",
+    "candidates": [
+      "Charusa & Gallbladder",
+      "Tannaitic Summary",
+      "Rav Matna: Dislocated Hip",
+      "Diseased Kidney",
+      "Ruptured vs Missing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gallbladder/charusa exchange (*apik mara v'ayeil charusa*), which is precisely what the 'Charusa & Gallbladder' section's prose addresses in detail.",
+      "chosen_heading": "Charusa & Gallbladder",
+      "current_heading": "Charusa & Gallbladder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ruptured vs Missing",
+    "candidates": [
+      "Tannaitic Summary",
+      "Rav Matna: Dislocated Hip",
+      "Diseased Kidney",
+      "Ruptured vs Missing",
+      "Trachea Esophageal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three cases together (dislocated hip, diseased kidney, and perforated spleen) as an enumeration of the seven Amoraic halakhot, and this matches the 'Rav Matna: Dislocated Hip' section which introduces the enumeration with 've-eika shev shmaitata' \u2014 the passage as a whole belongs at the start of that enumeration, not split mid-list.",
+      "chosen_heading": "Rav Matna: Dislocated Hip",
+      "current_heading": "Ruptured vs Missing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Trachea Esophageal",
+    "candidates": [
+      "Ruptured vs Missing",
+      "Trachea Esophageal",
+      "Uprooted Rib",
+      "Skull & Abdominal Muscles",
+      "Seventh Teaching",
+      "Eight Holes as One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the simanim ruling (trachea/esophagus) AND the rib/skull/rumen rulings all in one Talmudic quote, but the current placement under 'Trachea Esophageal' is correct since that heading's prose explicitly discusses this exact Rabba bar bar Chana/Shmuel statement about simanim, while the subsequent headings ('Uprooted Rib', 'Skull & Abdominal Muscles') separately discuss the later parts of the same passage \u2014 the essay breaks the passage's content across multiple headings, but the passage as a whole is currently placed under the heading that matches its opening statement.",
+      "chosen_heading": "Trachea Esophageal",
+      "current_heading": "Trachea Esophageal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Eight Holes as One",
+    "candidates": [
+      "Uprooted Rib",
+      "Skull & Abdominal Muscles",
+      "Seventh Teaching",
+      "Eight Holes as One",
+      "Further Consolidation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states that there are eight perforated organs counted as one, freeing up seven spots \u2014 exactly what the 'Eight Holes as One' section's prose describes.",
+      "chosen_heading": "Eight Holes as One",
+      "current_heading": "Eight Holes as One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Further Consolidation",
+    "candidates": [
+      "Further Consolidation",
+      "Balance to 18"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the consolidation challenge about cut organs and Rav Avira's teaching about a perforated spleen, which is precisely what the 'Further Consolidation' section's prose describes.",
+      "chosen_heading": "Further Consolidation",
+      "current_heading": "Further Consolidation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Balance to 18",
+    "candidates": [
+      "Balance to 18",
+      "Eight Injury Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's resolution of keeping the count at eighteen by not removing the two cases, which is precisely what the 'Balance to 18' section's prose describes.",
+      "chosen_heading": "Balance to 18",
+      "current_heading": "Balance to 18",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Eight Injury Types",
+    "candidates": [
+      "Eight Injury Types",
+      "Diseased Excluded",
+      "Practical Checking",
+      "Yosei & Eight Holes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Ulla's eight types of tereifos transmitted to Moses at Sinai, which is precisely what the 'Eight Injury Types' section prose discusses.",
+      "chosen_heading": "Eight Injury Types",
+      "current_heading": "Eight Injury Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Yosei & Eight Holes",
+    "candidates": [
+      "Diseased Excluded",
+      "Practical Checking",
+      "Yosei & Eight Holes",
+      "Gallbladder Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Chiya bar Rava's count of eight tereifot in the nekuva category and the dispute about whether the gallbladder makes nine, with Rabbi Yosei bar Rabbi Yehuda's baraita \u2014 exactly what the 'Yosei & Eight Holes' section prose describes.",
+      "chosen_heading": "Yosei & Eight Holes",
+      "current_heading": "Yosei & Eight Holes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Gallbladder Ruling",
+    "candidates": [
+      "Gallbladder Ruling",
+      "Iyov Proof",
+      "Miracles Dismissed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic introducing Rabbi Yitzchak bar Yosef's series of rulings and the specific ruling that the halakha follows Rabbi Yosei bar Rabbi Yehuda regarding the gallbladder \u2014 are exactly what the 'Gallbladder Ruling' prose describes: the ruling itself followed by the note that it is the first in a series of traditions the gemara now strings together.",
+      "chosen_heading": "Gallbladder Ruling",
+      "current_heading": "Gallbladder Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Miracles Dismissed",
+    "candidates": [
+      "Iyov Proof",
+      "Miracles Dismissed",
+      "Liver Remainder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly covers Rabbi Yosei's response that one may not cite miracles as halachic proof, the kidney verse preemption, and the 'rak et nafsho shmor' basis \u2014 all of which are precisely what the 'Miracles Dismissed' prose describes.",
+      "chosen_heading": "Miracles Dismissed",
+      "current_heading": "Miracles Dismissed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Liver Remainder",
+    "candidates": [
+      "Liver Remainder",
+      "Stam Mishna Authority",
+      "Sealed Gallbladder"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Liver Remainder",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's ruling that a ke-zayit is required, which is the ruling discussed in the 'Liver Remainder' prose.",
+      "second_heading": "Stam Mishna Authority",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the challenge based on stam mishna authority and its resolution (amora'ei ninhu), which is precisely what the 'Stam Mishna Authority' prose describes.",
+      "current_heading": "Liver Remainder",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Sealed Gallbladder",
+    "candidates": [
+      "Stam Mishna Authority",
+      "Sealed Gallbladder",
+      "Gizzard Layers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the gallbladder being perforated and sealed by the liver rendering the animal kosher, which matches exactly the 'Sealed Gallbladder' section's prose about marah she-nikvah and the liver sealing the hole.",
+      "chosen_heading": "Sealed Gallbladder",
+      "current_heading": "Sealed Gallbladder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Gizzard Layers",
+    "candidates": [
+      "Gizzard Layers",
+      "Inner Membrane Hole",
+      "Both Layers Required",
+      "Esophagus Layers",
+      "Color Change Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's ruling that a perforated gizzard with intact inner lining is kosher, which is precisely what the 'Gizzard Layers' prose introduces and explains.",
+      "chosen_heading": "Gizzard Layers",
+      "current_heading": "Gizzard Layers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Color Change Issue",
+    "candidates": [
+      "Inner Membrane Hole",
+      "Both Layers Required",
+      "Esophagus Layers",
+      "Color Change Issue",
+      "Parallel Question",
+      "Mar Zutra Ruling",
+      "Rav Ashi Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all content from the initial dilemma about the gizzard inner lining (heading 0), through Rav Nachman's ruling about one-layer perforation (heading 1), Rava's statement about the esophagus's two layers (heading 2), and the color-reversal ruling (heading 3), so it belongs under the first heading where the passage begins, 'Inner Membrane Hole'.",
+      "chosen_heading": "Inner Membrane Hole",
+      "current_heading": "Color Change Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rav Ashi Objection",
+    "candidates": [
+      "Parallel Question",
+      "Mar Zutra Ruling",
+      "Rav Ashi Objection",
+      "Reconciliation",
+      "Scar Doesn't Save",
+      "Scar Deterioration",
+      "Status Irreversible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire sub-discussion \u2014 the dilemma (candidate 0), Mar Zutra's ruling (candidate 1), Rav Ashi's objection (candidate 2), and the reconciliation (candidate 3) \u2014 but since it is a single continuous Talmudic excerpt, it belongs under the heading that introduces the question, which is 'Parallel Question' (index 0), as all the subsequent content flows from that opening dilemma.",
+      "chosen_heading": "Parallel Question",
+      "current_heading": "Rav Ashi Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Status Irreversible",
+    "candidates": [
+      "Reconciliation",
+      "Scar Doesn't Save",
+      "Scar Deterioration",
+      "Status Irreversible",
+      "Ulla's Thorn Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are directly about Rabba's rulings on the gullet \u2014 that scar tissue over a wound is not a valid membrane and that the gullet must be inspected from inside \u2014 which matches candidate 1 ('Scar Doesn't Save') whose prose explicitly discusses Rava's ruling that scar tissue over an esophagus wound is halachically disregarded, far better than the current placement under 'Status Irreversible' which generalizes to all injuries.",
+      "chosen_heading": "Scar Doesn't Save",
+      "current_heading": "Status Irreversible",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Ulla's Thorn Rule",
+    "candidates": [
+      "Status Irreversible",
+      "Ulla's Thorn Rule",
+      "Safek Principles",
+      "Comparison Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ulla's statement about a thorn in the gullet and not being concerned it healed, which is precisely what the 'Ulla's Thorn Rule' section's prose discusses.",
+      "chosen_heading": "Ulla's Thorn Rule",
+      "current_heading": "Ulla's Thorn Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Comparison Cases",
+    "candidates": [
+      "Safek Principles",
+      "Comparison Cases",
+      "Rav Kahana's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the continuous chain of comparison cases testing Ulla's ruling \u2014 the mnemonic, the drusa question, the two pieces, the notched knife, and the ritual impurity cases \u2014 which exactly matches the 'Comparison Cases' prose in candidate 1.",
+      "chosen_heading": "Comparison Cases",
+      "current_heading": "Comparison Cases",
+      "moved": false
+    }
+  }
+]

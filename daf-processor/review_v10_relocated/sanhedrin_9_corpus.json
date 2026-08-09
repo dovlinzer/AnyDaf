@@ -1,0 +1,287 @@
+[
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Honor Concern",
+    "candidates": [
+      "Woman vs. Man",
+      "Yerushalmi's Debate",
+      "Basic Positions",
+      "Ulla's Choshshim L'la'az",
+      "Rashi's Reading",
+      "Tosafot's Critique",
+      "Two Meanings",
+      "Rava's Reversal",
+      "Honor Concern",
+      "Apparent Contradiction",
+      "Resolution",
+      "Rava & Chiya Bar Abba",
+      "Case Against Man",
+      "Case Against Woman",
+      "Yerushalmi Mirroring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage raises the objection from the baraita about 'claimed money\u2014three, claimed death penalty\u2014twenty-three' and analyzes it as fitting Rava's position while being difficult for Ulla, which is precisely what the prose in candidate 9 ('Apparent Contradiction') describes.",
+      "chosen_heading": "Apparent Contradiction",
+      "current_heading": "Honor Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Yerushalmi Mirroring",
+    "candidates": [
+      "Apparent Contradiction",
+      "Resolution",
+      "Rava & Chiya Bar Abba",
+      "Case Against Man",
+      "Case Against Woman",
+      "Yerushalmi Mirroring",
+      "Abaye's Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement identifying 'the lion of the group' as Rav \u1e24iyya bar Avin and their explanation of the braisa, which directly matches the prose of candidate 2 ('Rava & Chiya Bar Abba') describing exactly this content.",
+      "chosen_heading": "Rava & Chiya Bar Abba",
+      "current_heading": "Yerushalmi Mirroring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Abaye's Warning",
+    "candidates": [
+      "Yerushalmi Mirroring",
+      "Abaye's Warning",
+      "Death Penalty Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about 'stam' warning without specification, which is precisely what the 'Abaye's Warning' prose section describes and analyzes.",
+      "chosen_heading": "Abaye's Warning",
+      "current_heading": "Abaye's Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Death Penalty Baraita",
+    "candidates": [
+      "Death Penalty Baraita",
+      "Rav Pappa's Chaverah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita content (the general capital-case requirements plus Rabbi Yehuda's specification of the mode of death) that candidate 0's prose explicitly quotes and discusses in detail, making it the clear home for this passage.",
+      "chosen_heading": "Death Penalty Baraita",
+      "current_heading": "Death Penalty Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav Pappa's Chaverah",
+    "candidates": [
+      "Rav Pappa's Chaverah",
+      "Rav Ashi's Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about a chaverah and the dispute between Rabbi Yosei bar Yehuda and the Rabbanan regarding forewarning, which is precisely what the prose under 'Rav Pappa's Chaverah' discusses.",
+      "chosen_heading": "Rav Pappa's Chaverah",
+      "current_heading": "Rav Pappa's Chaverah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rav Ashi's Lashes",
+    "candidates": [
+      "Rav Ashi's Lashes",
+      "Ravina's Invalid Witness",
+      "Rabbi Akiva Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Ashi's explanation \u2014 the warning about lashes without warning of death, and the resulting dispute between Rabbi Yishmael and the Rabbis about whether lashes require three or twenty-three judges \u2014 which is precisely what the 'Rav Ashi's Lashes' prose describes.",
+      "chosen_heading": "Rav Ashi's Lashes",
+      "current_heading": "Rav Ashi's Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Rabbi Akiva Principle",
+    "candidates": [
+      "Ravina's Invalid Witness",
+      "Rabbi Akiva Principle",
+      "Yosi vs. Akiva",
+      "Rabbi's Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present Ravina's explanation invoking Rabbi Akiva's principle, the kal v'chomer elaboration, and the nimtza echad rule extending to one hundred witnesses \u2014 exactly the content described in the 'Rabbi Akiva Principle' prose, which explicitly covers all three elements in sequence.",
+      "chosen_heading": "Rabbi Akiva Principle",
+      "current_heading": "Rabbi Akiva Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rabbi's Conditions",
+    "candidates": [
+      "Yosi vs. Akiva",
+      "Rabbi's Conditions",
+      "Tosafot's Questions",
+      "Applied to Mishnah",
+      "Warning Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Rabbi Yosei vs. Rabbi (Yehuda HaNasi) dispute about when nimtza echad applies \u2014 capital vs. monetary cases and the role of hatra'ah \u2014 which is precisely what heading 0 ('Yosi vs. Akiva') discusses, whereas heading 1 ('Rabbi's Conditions') focuses on Rabbi's position alone and the mah ya'asu illustration, suggesting the current placement splits what should be unified under heading 0.",
+      "chosen_heading": "Yosi vs. Akiva",
+      "current_heading": "Rabbi's Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Warning Source",
+    "candidates": [
+      "Tosafot's Questions",
+      "Applied to Mishnah",
+      "Warning Source",
+      "Contradiction Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case where others warned the woman but the witnesses themselves did not, and maps this onto the Rabbi Yosei/Rabbis dispute about whether witnesses must personally deliver the warning \u2014 which is precisely what the 'Warning Source' section's prose describes.",
+      "chosen_heading": "Warning Source",
+      "current_heading": "Warning Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Contradiction Types",
+    "candidates": [
+      "Contradiction Types",
+      "Ben Zakkai Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'veibayit eima' alternative explanation about contradictions in bedikot vs. chakirot, which is exactly what the 'Contradiction Types' section's prose discusses and explains in detail.",
+      "chosen_heading": "Contradiction Types",
+      "current_heading": "Contradiction Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Ben Zakkai Method",
+    "candidates": [
+      "Ben Zakkai Method",
+      "First Inversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Ben Zakkai incident of examining witnesses about fig stems, which is precisely what the 'Ben Zakkai Method' section's prose discusses in detail.",
+      "chosen_heading": "Ben Zakkai Method",
+      "current_heading": "Ben Zakkai Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "First Inversion",
+    "candidates": [
+      "First Inversion",
+      "First Consequence",
+      "Second Inversion",
+      "Second Consequence",
+      "Two Crimes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the husband bringing witnesses who are proven to be zomemim and then states they are executed but do not pay money \u2014 exactly the content of the 'First Inversion' and 'First Consequence' sections, but the core Talmudic text introducing this entire scenario belongs under 'First Inversion' where the prose introduces eidei haba'al neheragin.",
+      "chosen_heading": "First Inversion",
+      "current_heading": "First Inversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Two Crimes",
+    "candidates": [
+      "First Consequence",
+      "Second Inversion",
+      "Second Consequence",
+      "Two Crimes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains why the father's witnesses pay both money and face execution \u2014 the 'mammon le'zeh u'nefashos le'zeh' reasoning about two separate crimes against two different victims \u2014 which is precisely what the 'Two Crimes' section's prose discusses.",
+      "chosen_heading": "Two Crimes",
+      "current_heading": "Two Crimes",
+      "moved": false
+    }
+  }
+]

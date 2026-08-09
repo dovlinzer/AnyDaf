@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Yayin Nesech Basic",
+    "candidates": [
+      "Yayin Nesech Basic",
+      "Min B'Mino vs. She'lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna covers both the basic yayin nesech rule and the min b'mino distinction, but candidate 0's prose introduces the mishna as a whole unit opening the daf, making it the more natural home for the full mishna text, while candidate 1's prose describes the distinction that is only part of the mishna.",
+      "chosen_heading": "Yayin Nesech Basic",
+      "current_heading": "Yayin Nesech Basic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Min B'Mino vs. She'lo",
+    "candidates": [
+      "Min B'Mino vs. She'lo",
+      "Why Min B'Mino Hard",
+      "Rav Yehuda Position",
+      "Stringency by Yayin",
+      "Rav Dimi Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the general principle distinguishing min b'mino (forbidden in any amount) from min b'eino mino (forbidden only if it imparts flavor), which is precisely what the prose of heading 0 explains and contextualizes.",
+      "chosen_heading": "Min B'Mino vs. She'lo",
+      "current_heading": "Min B'Mino vs. She'lo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rav Dimi Statement",
+    "candidates": [
+      "Why Min B'Mino Hard",
+      "Rav Yehuda Position",
+      "Stringency by Yayin",
+      "Rav Dimi Statement",
+      "Accumulation Question",
+      "Contradiction Emerges",
+      "Yayin B'Yayin Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav Dimi/Rabbi Yochanan statement about pouring yayin nesech from a barrel into a vat, which is exactly what the 'Rav Dimi Statement' section's prose introduces and quotes.",
+      "chosen_heading": "Rav Dimi Statement",
+      "current_heading": "Rav Dimi Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Yayin B'Yayin Lenient",
+    "candidates": [
+      "Accumulation Question",
+      "Contradiction Emerges",
+      "Yayin B'Yayin Lenient",
+      "Yitzchak Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's sustained effort to reread the mishna as dealing with heter falling into issur (not issur into heter), which is precisely what the 'Yayin B'Yayin Lenient' prose describes \u2014 the resolution of the contradiction by showing the entire mishna concerns dekanpal heteira lego issura.",
+      "chosen_heading": "Yayin B'Yayin Lenient",
+      "current_heading": "Yayin B'Yayin Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Yitzchak Limitation",
+    "candidates": [
+      "Yitzchak Limitation",
+      "Ravin's Roin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yitzchak bar Yosef's report of Rabbi Yochanan's ruling about a small canteen versus a barrel, which is precisely what the 'Yitzchak Limitation' prose discusses.",
+      "chosen_heading": "Yitzchak Limitation",
+      "current_heading": "Yitzchak Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Ravin's Roin",
+    "candidates": [
+      "Ravin's Roin",
+      "Water First Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravin's version of Rabbi Yochanan's ruling using the ro'in principle with water falling after yayin nesech, which is precisely what the current heading 'Ravin's Roin' discusses in its prose.",
+      "chosen_heading": "Ravin's Roin",
+      "current_heading": "Ravin's Roin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Water First Rule",
+    "candidates": [
+      "Water First Rule",
+      "Timing of Roin",
+      "Hidgilu Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together address exactly the question of whether Rav Shmuel bar Yehuda's statement (about water timing) was said about the mishna or about Ravin's ruling, and what practical difference that makes \u2014 which is precisely what candidate 1 ('Timing of Roin') discusses in its prose.",
+      "chosen_heading": "Timing of Roin",
+      "current_heading": "Water First Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Hidgilu Debate",
+    "candidates": [
+      "Timing of Roin",
+      "Hidgilu Debate",
+      "Yochanan Rejects",
+      "Sourdough Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the exact dispute between \u1e24izkiyya and Rabbi Yo\u1e25anan over yayin nesech falling into a cistern with water \u2014 the precise scenario and positions described in the 'Hidgilu Debate' prose, which is also the current placement.",
+      "chosen_heading": "Hidgilu Debate",
+      "current_heading": "Hidgilu Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Sourdough Analogy",
+    "candidates": [
+      "Yochanan Rejects",
+      "Sourdough Analogy",
+      "Abaye Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present Rabbi Yirmiyah's question to Rabbi Zeira proposing the sourdough analogy (the mishna about se'or shel chulin v'shel terumah and the Rabbi Eliezer/Rabbis dispute), which is precisely what the 'Sourdough Analogy' prose describes.",
+      "chosen_heading": "Sourdough Analogy",
+      "current_heading": "Sourdough Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Abaye Critique",
+    "candidates": [
+      "Abaye Critique",
+      "Assi Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's critique that Rabbi Eliezer's leniency only applies when the issur was first removed, and poses 'Chizkiyah damar keman' \u2014 precisely the content described in the 'Abaye Critique' prose section.",
+      "chosen_heading": "Abaye Critique",
+      "current_heading": "Abaye Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Assi Question",
+    "candidates": [
+      "Assi Question",
+      "Ignoring Kosher",
+      "Rav Shmuel Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Assi Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the dispute over whether ro'in applies and Rabbi Yochanan's apparent uncertainty, which matches the 'Assi Question' prose describing Rav Assi's question and Rabbi Yochanan's failure to immediately resolve it.",
+      "second_heading": "Ignoring Kosher",
+      "second_confidence": "high",
+      "second_reason": "Item 3 provides Rabbi Yochanan's ultimate resolution \u2014 meikara lo pashat lei ulevassof pashat lei \u2014 and the final ruling on ro'in, which exactly matches the 'Ignoring Kosher' prose describing how Rabbi Yochanan ultimately arrived at his view that the chulin wine is disregarded.",
+      "current_heading": "Assi Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Rav Shmuel Rule",
+    "candidates": [
+      "Ignoring Kosher",
+      "Rav Shmuel Rule",
+      "Yochanan Resh Lakish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rav Shmuel Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 present the mishna's principle and the Rav/Shmuel vs. Rabbi Yochanan/Reish Lakish dispute, matching both heading 1 (Rav/Shmuel rule) and heading 2 (Yochanan/Resh Lakish) \u2014 but since all four items together span both disputes introduced by the mishna's zeh haklal, and the current placement under 'Rav Shmuel Rule' covers the setup and Rav/Shmuel position while heading 2 covers Rabbi Yochanan/Reish Lakish, items 1-4 as a unit fit best under heading 1 which introduces the whole dispute framework.",
+      "second_heading": "Yochanan Resh Lakish",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 are the baraita confirmations (tanya k'vateihu) for both positions, and since the baraita supporting Rabbi Yochanan and Reish Lakish (item 7) is the culminating proof-text for their ruling, these items naturally close under heading 2 ('Yochanan Resh Lakish') which is the position the essay author says 'we rule by.'",
+      "current_heading": "Rav Shmuel Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Yochanan Resh Lakish",
+    "candidates": [
+      "Yochanan Resh Lakish",
+      "Exceptions Listed",
+      "Yayin Reason",
+      "Tevel Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks specifically why yayin nesech is treated strictly (answered: due to severity of idol worship) and then asks what the reason is for tevel \u2014 this question-and-answer structure belongs under the 'Yayin Reason' section which discusses exactly why yayin nesech receives exceptional treatment due to the gravity of idolatry, as the Gemara's question and partial answer directly matches that prose.",
+      "chosen_heading": "Yayin Reason",
+      "current_heading": "Yochanan Resh Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Tevel Reason",
+    "candidates": [
+      "Exceptions Listed",
+      "Yayin Reason",
+      "Tevel Reason",
+      "Single Grain Fix",
+      "Chametz Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the k'heteiro kach issuro principle and Shmuel's teaching about a single grain of wheat exempting the heap, which is exactly what the 'Tevel Reason' prose section discusses.",
+      "chosen_heading": "Tevel Reason",
+      "current_heading": "Tevel Reason",
+      "moved": false
+    }
+  }
+]

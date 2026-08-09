@@ -1,0 +1,238 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Ulla's Statement",
+    "candidates": [
+      "Ulla's Statement",
+      "Chiddush: Imurim & Mizbe",
+      "Rav Zeira's Parallel",
+      "Inference Objection",
+      "Pesach Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: Ulla's ruling (item 1), Rabbi Zeira's attempted proof from the Mishna (item 2), and the Gemara's rejection of that proof (item 3) all belong together under 'Ulla's Statement' as they directly concern and respond to Ulla's claim about imurei kodshim kalim before zrikas hadam.",
+      "chosen_heading": "Ulla's Statement",
+      "current_heading": "Ulla's Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Pesach Example",
+    "candidates": [
+      "Chiddush: Imurim & Mizbe",
+      "Rav Zeira's Parallel",
+      "Inference Objection",
+      "Pesach Example",
+      "All Living Animals Down"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge regarding the Paschal offering (kodshim kalim) and the deflection that it refers to shelo lishmo, which is precisely what the 'Pesach Example' prose describes.",
+      "chosen_heading": "Pesach Example",
+      "current_heading": "Pesach Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "All Living Animals Down",
+    "candidates": [
+      "All Living Animals Down",
+      "Living vs Slaughtered",
+      "No Inference",
+      "Why Down if Alive?",
+      "Small Blemish Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whether the inference from the Mishna's rule about living animals (they descend) implies slaughtered animals do not descend, applying equally to kodshei kodashim and kodshim kalim \u2014 which is exactly what candidate 1's prose describes as the Gemara drawing a distinction about slaughtered vs. living animals.",
+      "chosen_heading": "Living vs Slaughtered",
+      "current_heading": "All Living Animals Down",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Small Blemish Case",
+    "candidates": [
+      "Living vs Slaughtered",
+      "No Inference",
+      "Why Down if Alive?",
+      "Small Blemish Case",
+      "Chiddush Explained",
+      "Flaying at Top",
+      "Flaying Invalid?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's response that 'all of them' in the Mishna refers only to living animals with no inference about slaughtered animals, and then the challenge/answer about why this needs to be stated \u2014 exactly what heading 1 ('No Inference') describes in its prose.",
+      "chosen_heading": "No Inference",
+      "current_heading": "Small Blemish Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Flaying Invalid?",
+    "candidates": [
+      "Chiddush Explained",
+      "Flaying at Top",
+      "Flaying Invalid?",
+      "Sha'at Hakesher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the Gemara's challenge about flaying a disqualified offering and the resolution that the latter clause refers to a valid offering \u2014 precisely what candidate 2 ('Flaying Invalid?') describes in its prose.",
+      "chosen_heading": "Flaying Invalid?",
+      "current_heading": "Flaying Invalid?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Sha'at Hakesher",
+    "candidates": [
+      "Sha'at Hakesher",
+      "Organs Down & Rinse",
+      "Why Rinse Invalid?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the sha'at hakesher resolution and Rabbi Elazar b'Rabbi Shimon's ruling, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Sha'at Hakesher",
+      "current_heading": "Sha'at Hakesher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Why Rinse Invalid?",
+    "candidates": [
+      "Organs Down & Rinse",
+      "Why Rinse Invalid?",
+      "Respect for Sacred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about why one rinses the innards of a disqualified offering, which is precisely what the 'Why Rinse Invalid?' prose section describes in detail, including the Malachi verse objection and the 'uninformed kohen' answer.",
+      "chosen_heading": "Why Rinse Invalid?",
+      "current_heading": "Why Rinse Invalid?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Respect for Sacred",
+    "candidates": [
+      "Respect for Sacred",
+      "Yerida Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's question about causing priests to stumble and the answer about not leaving sanctified offerings lying like a carcass, which is precisely the content described in the 'Respect for Sacred' prose section.",
+      "chosen_heading": "Respect for Sacred",
+      "current_heading": "Respect for Sacred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Yerida Question",
+    "candidates": [
+      "Yerida Question",
+      "Me'ila Alternative",
+      "Stay Up, No Me'ila",
+      "Me'ila Question",
+      "Counter Question",
+      "Conclusion Both Versions",
+      "Not in Kedusha",
+      "Rabbi Akiva Position",
+      "Dukin Sheba'ayin Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yerida Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yochanan's dilemma about yerida and Rabbi Ami's counter-question about me'ila, which maps precisely onto headings 0-2 (Yerida Question, Me'ila Alternative, Stay Up/No Me'ila).",
+      "second_heading": "Me'ila Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Nachman bar Yitzchak's alternative version where the original question is about me'ila rather than yerida, matching heading 3 'Me'ila Question' exactly.",
+      "current_heading": "Yerida Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Dukin Sheba'ayin Limit",
+    "candidates": [
+      "Me'ila Alternative",
+      "Stay Up, No Me'ila",
+      "Me'ila Question",
+      "Counter Question",
+      "Conclusion Both Versions",
+      "Not in Kedusha",
+      "Rabbi Akiva Position",
+      "Dukin Sheba'ayin Limit",
+      "Birds Permit",
+      "Rashi: Unseemly",
+      "Major Blemishes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items together present the Mishna's introduction of the 'not in sanctity' disqualifications and Rabbi Akiva's position followed immediately by Rabbi Yochanan's qualification limiting it to dukin sheba'ayin \u2014 exactly what the 'Dukin Sheba'ayin Limit' section's prose describes.",
+      "chosen_heading": "Dukin Sheba'ayin Limit",
+      "current_heading": "Dukin Sheba'ayin Limit",
+      "moved": false
+    }
+  }
+]

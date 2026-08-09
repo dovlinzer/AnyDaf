@@ -1,0 +1,230 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Zika & Achos Zekuka",
+    "candidates": [
+      "Opening & Drashos",
+      "Velakach Veyibmah",
+      "Tzara Source",
+      "Zika & Achos Zekuka",
+      "Two Wives & Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains that Rabbi derives a different halakha from 'litzror' \u2014 specifically for Rabbi Shimon's case \u2014 which is precisely why 'litzror' is unavailable to Rabbi for the ordinary tzarat ervah derivation, matching the 'Tzara Source' section's prose about Rabbi needing litzror for a different drasha.",
+      "chosen_heading": "Tzara Source",
+      "current_heading": "Zika & Achos Zekuka",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Two Wives & Choice",
+    "candidates": [
+      "Zika & Achos Zekuka",
+      "Two Wives & Choice",
+      "Viyibmah & Context",
+      "Velakcha & Marriage",
+      "Viyibmah & Consent",
+      "Rabbi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation from 'velakcha' regarding two potential likuchin and the rule that wherever there are two marriage possibilities with free choice both are permitted but otherwise both are forbidden \u2014 exactly the content described in the 'Two Wives & Choice' prose.",
+      "chosen_heading": "Two Wives & Choice",
+      "current_heading": "Two Wives & Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rabbi's Challenge",
+    "candidates": [
+      "Viyibmah & Context",
+      "Velakcha & Marriage",
+      "Viyibmah & Consent",
+      "Rabbi's Challenge",
+      "Aleha & Kares"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Viyibmah & Context",
+      "first_confidence": "high",
+      "first_reason": "Items 1-1 discuss what 'veyibmah' teaches about tzarat ervah being prohibited only in the context of yibum, which matches the 'Viyibmah & Context' prose exactly.",
+      "second_heading": "Rabbi's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the Rabbanan's use of velakcha/veyibmah for divorce-remarriage and al korchah, followed by Rabbi's derivation of those same halakhot from other verses \u2014 precisely what 'Rabbi's Challenge' prose describes.",
+      "current_heading": "Rabbi's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Aleha & Kares",
+    "candidates": [
+      "Aleha & Kares",
+      "Baraita Principle",
+      "Congregation General",
+      "Kohen Gadol",
+      "Nasi & Yachid",
+      "Rabbanan's Torah Achas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous Talmudic discussion about the *aleha* gezeirah shavah and the *kares* threshold for chatat liability, which is precisely what the 'Aleha & Kares' prose describes \u2014 Rabbi's use of *aleha* to derive the kares/chatat principle, the baraita's articulation of that principle, and the derivations for congregation, Kohen Gadol, nasi, and yachid across general mitzvos and avodah zarah.",
+      "chosen_heading": "Aleha & Kares",
+      "current_heading": "Aleha & Kares",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Rabbanan's Torah Achas",
+    "candidates": [
+      "Baraita Principle",
+      "Congregation General",
+      "Kohen Gadol",
+      "Nasi & Yachid",
+      "Rabbanan's Torah Achas",
+      "Same Korban Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbanan's Torah Achas",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the Rabbanan's derivation from 'torah achas' that the entire Torah is juxtaposed with avodah zarah for the kares-chatat threshold, which is precisely what candidate 4 ('Rabbanan's Torah Achas') describes.",
+      "second_heading": "Same Korban Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20136 address the congregation's derivation for avodah zarah vs. other mitzvot, and then Rabbi's use of 'torah achas' for the baraita about individuals vs. community in avodah zarah (stoning/sword, property), which matches candidate 5 ('Same Korban Rule') exactly.",
+      "current_heading": "Rabbanan's Torah Achas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Same Korban Rule",
+    "candidates": [
+      "Same Korban Rule",
+      "Chilkiya Challenge",
+      "Impossible Combinations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24ilkiya's objection/challenge asking what korban would be brought if we differentiated, which matches exactly the 'Chilkiya Challenge' prose describing his pointed question about what different korban the collective would have brought.",
+      "chosen_heading": "Chilkiya Challenge",
+      "current_heading": "Same Korban Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Impossible Combinations",
+    "candidates": [
+      "Chilkiya Challenge",
+      "Impossible Combinations",
+      "Levi's Question",
+      "Anusat Aviv Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items continue the same discussion of why *torah achas* is necessary \u2014 going through impossible korban combinations and then explaining why the verse is still needed \u2014 which matches precisely the 'Impossible Combinations' prose describing every available korban being occupied and the resolution via *torah achas*.",
+      "chosen_heading": "Impossible Combinations",
+      "current_heading": "Impossible Combinations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Anusat Aviv Debate",
+    "candidates": [
+      "Levi's Question",
+      "Anusat Aviv Debate",
+      "Unanimous Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Levi's Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Levi's question about sixteen women, Rabbi's rebuke, and the explanation that anusat aviv is a disputed case \u2014 all matching heading 0's prose about the fifteen vs. sixteen question and the anusat aviv scenario.",
+      "second_heading": "Unanimous Only",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce the Gemara's challenge that the mishnah does mention disputed cases (issur mitzva, issur kedushah, Rabbi Akiva vs. Rabbanan), which matches heading 2's prose about the mishnah dealing exclusively with unanimous positions and the exception of those disputed cases.",
+      "current_heading": "Anusat Aviv Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Unanimous Only",
+    "candidates": [
+      "Anusat Aviv Debate",
+      "Unanimous Only",
+      "Beis Shammai Noted"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unanimous Only",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the objection about Beit Shammai/Beit Hillel disputing within the first chapter, which is part of the 'Unanimous Only' discussion about what belongs in the mishnah's first perek.",
+      "second_heading": "Beis Shammai Noted",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the answer 'Beit Shammai bi-makom Beit Hillel einah mishnah' and then raises the next difficulty about 'wife of a brother with whom he did not coexist,' which is precisely what the 'Beis Shammai Noted' prose describes and resolves.",
+      "current_heading": "Unanimous Only",
+      "moved": true
+    }
+  }
+]

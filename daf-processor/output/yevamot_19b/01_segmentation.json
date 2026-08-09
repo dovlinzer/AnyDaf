@@ -58,7 +58,7 @@
           "timestamp": "19:20"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -77,7 +77,7 @@
           "timestamp": "24:02"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -111,8 +111,8 @@
           "timestamp": "30:22"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "The Case of Ma'amar Followed by Levi's Birth: Rabbi Shimon's Uncertainty Principle",
@@ -135,8 +135,8 @@
           "timestamp": "31:44"
         }
       ],
-      "sefaria_index": 28,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "The Case of Tzaras Ailonit: The Scope of the General Rule",
@@ -159,7 +159,7 @@
           "timestamp": "37:26"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 24,
       "matched": false
     },
     {
@@ -193,8 +193,8 @@
           "timestamp": "41:18"
         }
       ],
-      "sefaria_index": 32,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "General Principles of Forbidden Women in Yibbum: The Rule of 'Kol Shehi Issur Ervah'",
@@ -222,7 +222,7 @@
           "timestamp": "44:58"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 24,
       "matched": false
     }
   ],
@@ -546,9 +546,9 @@
     }
   ],
   "amud_b_sefaria_index": 20,
-  "amud_b_segment_index": 2,
-  "amud_b_timestamp": "24:02",
-  "amud_b_micro_title": "Status Retention Logic",
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "15:20",
+  "amud_b_micro_title": "Yibbum Before Birth",
   "shiur_start_daf": 19,
   "shiur_start_amud": "a"
 }

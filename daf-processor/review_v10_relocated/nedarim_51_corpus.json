@@ -1,0 +1,288 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Wedding Feast Setup",
+    "candidates": [
+      "Wedding Feast Setup",
+      "Suffering & Joking",
+      "Wheat Joke Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the wedding feast narrative, Bar Kappara's exclusion, his 'ovrei retzono' remark, the invitation, and his 'osei retzono' follow-up \u2014 all of which is precisely what the 'Wedding Feast Setup' prose discusses.",
+      "chosen_heading": "Wedding Feast Setup",
+      "current_heading": "Wedding Feast Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Wheat Joke Attempt",
+    "candidates": [
+      "Suffering & Joking",
+      "Wheat Joke Attempt",
+      "Arayot Derashot"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Arayot Derashot",
+    "candidates": [
+      "Arayot Derashot",
+      "Ben Elasa Leaves",
+      "Ben Elasa Identity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Arayot Derashot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Bar Kappara's pre-announcement to Rabbi's daughter and his derashot on to'evah, tevel, and zimah at the wedding, which is exactly what the 'Arayot Derashot' prose describes in detail.",
+      "second_heading": "Ben Elasa Leaves",
+      "second_confidence": "high",
+      "second_reason": "Item 4 describes Ben Elasa being unable to tolerate the humiliation and leaving with his wife, which matches precisely the 'Ben Elasa Leaves' prose section.",
+      "current_heading": "Arayot Derashot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Ben Elasa Identity",
+    "candidates": [
+      "Ben Elasa Leaves",
+      "Ben Elasa Identity",
+      "Lulianit Haircut",
+      "Tavshil Exception",
+      "Shmuel vs. Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together establish Ben Elasa's identity via the baraita about his spending on the kohen gadol's haircut and the explanation of the luleyanit style \u2014 all of which is explicitly covered in the 'Ben Elasa Identity' section's prose, which quotes and discusses both the baraita and the verse about the kohanim's haircut.",
+      "chosen_heading": "Ben Elasa Identity",
+      "current_heading": "Ben Elasa Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Shmuel vs. Rav Ashi",
+    "candidates": [
+      "Lulianit Haircut",
+      "Tavshil Exception",
+      "Shmuel vs. Rav Ashi",
+      "Ravina Refutes Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Shmuel vs. Rav Ashi debate about what 'dilat haramuza' means, which is precisely what the 'Shmuel vs. Rav Ashi' section's prose describes.",
+      "chosen_heading": "Shmuel vs. Rav Ashi",
+      "current_heading": "Shmuel vs. Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ravina Refutes Ashi",
+    "candidates": [
+      "Ravina Refutes Ashi",
+      "Tavshil Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's objection to Rav Ashi using Rabbi Ne\u1e25emya's baraita about gourd varieties and kilayim, concluding with a conclusive refutation (tiyuvta), which exactly matches the 'Ravina Refutes Ashi' section's prose.",
+      "chosen_heading": "Ravina Refutes Ashi",
+      "current_heading": "Ravina Refutes Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Tavshil Scope",
+    "candidates": [
+      "Tavshil Scope",
+      "Pot vs. Frying Pan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself that distinguishes between 'maseh kedeirah' (a dish cooked in a pot) and 'ha-yored la-kedeirah' (whatever enters a pot), which is precisely what the prose of candidate 0 ('Tavshil Scope') discusses and explains in detail.",
+      "chosen_heading": "Tavshil Scope",
+      "current_heading": "Tavshil Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Pot vs. Frying Pan",
+    "candidates": [
+      "Pot vs. Frying Pan",
+      "Oven & Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses vows regarding what enters a dish (kedeirah) versus a stewpot (ilpas), which is precisely what the 'Pot vs. Frying Pan' section's prose describes.",
+      "chosen_heading": "Pot vs. Frying Pan",
+      "current_heading": "Pot vs. Frying Pan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Oven & Bread",
+    "candidates": [
+      "Oven & Bread",
+      "Kavush & Shaluk",
+      "Rav Akha's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oven & Bread",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Tosefta passage about vowing against what enters an oven (bread), which is precisely what the 'Oven & Bread' prose discusses.",
+      "second_heading": "Kavush & Shaluk",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Mishna opening with kavush/shaluk cases, which is exactly what the 'Kavush & Shaluk' prose discusses in detail.",
+      "current_heading": "Oven & Bread",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav Akha's Challenge",
+    "candidates": [
+      "Kavush & Shaluk",
+      "Rav Akha's Challenge",
+      "Tzali & Roasted",
+      "Maliakh Fish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara presenting Rav A\u1e25a son of Rav Avya's unresolved question to Rav Ashi about the participial forms (dikhvish, deshalik, detzali, demaliakh), which is precisely what the 'Rav Akha's Challenge' section prose describes.",
+      "chosen_heading": "Rav Akha's Challenge",
+      "current_heading": "Rav Akha's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Maliakh Fish",
+    "candidates": [
+      "Tzali & Roasted",
+      "Maliakh Fish",
+      "Dag vs. Dagah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzali & Roasted",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna covering tzali and maliakh cases, which matches the 'Tzali & Roasted' section's prose discussion of those exact rulings including Rabbi Yehuda's attribution and the tzali/maliakh distinctions.",
+      "second_heading": "Maliakh Fish",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the dag/dagim/tza\u1e25ana/tarit cases which are explicitly discussed in the 'Maliakh Fish' section's prose about neder against fish in all forms and the minced sardine/brine exemptions.",
+      "current_heading": "Maliakh Fish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Dag vs. Dagah",
+    "candidates": [
+      "Dag vs. Dagah",
+      "Jonah Fish Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Shimon ben Elazar's baraita about dag vs. dagah and large vs. small fish, which is precisely what the 'Dag vs. Dagah' section's prose describes and analyzes.",
+      "chosen_heading": "Dag vs. Dagah",
+      "current_heading": "Dag vs. Dagah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Jonah Fish Story",
+    "candidates": [
+      "Jonah Fish Story",
+      "Dagah Inclusive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Jonah Fish Story' prose: Rav Pappa's challenge about dag vs. dagah using the Jonah verses, which is precisely what that section discusses.",
+      "chosen_heading": "Jonah Fish Story",
+      "current_heading": "Jonah Fish Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Dagah Inclusive",
+    "candidates": [
+      "Dagah Inclusive",
+      "Tzichna Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the large/small fish spitting and swallowing, the Nile plague verse using 'dagah,' and the conclusion that dagah includes both large and small fish while vows follow colloquial usage \u2014 all of which are precisely the content described in the 'Dagah Inclusive' prose section.",
+      "chosen_heading": "Dagah Inclusive",
+      "current_heading": "Dagah Inclusive",
+      "moved": false
+    }
+  }
+]

@@ -88,7 +88,7 @@
           "timestamp": "10:01"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -313,8 +313,8 @@
           "timestamp": "60:47"
         }
       ],
-      "sefaria_index": 37,
-      "matched": false
+      "sefaria_index": 45,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -554,7 +554,9 @@
     }
   ],
   "amud_b_segment_index": 4,
-  "amud_b_timestamp": "17:29",
-  "amud_b_micro_title": "Prisoner Parable",
-  "amud_b_sefaria_index": 29
+  "amud_b_timestamp": "16:21",
+  "amud_b_micro_title": "Daber Na — Please",
+  "amud_b_sefaria_index": 29,
+  "shiur_start_daf": 9,
+  "shiur_start_amud": "a"
 }

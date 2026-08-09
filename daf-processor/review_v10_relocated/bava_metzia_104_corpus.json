@@ -1,0 +1,410 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Rav Pappa's Distinction",
+    "candidates": [
+      "Mishna Setup",
+      "River vs. Canal",
+      "Community Disaster",
+      "Rav Pappa's Distinction",
+      "Tosafot's Remedy Test",
+      "Both Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's resolution \u2014 the small river dried up and the tenant can bring water by bucket \u2014 which is precisely what candidate 3 ('Rav Pappa's Distinction') describes in its prose.",
+      "chosen_heading": "Rav Pappa's Distinction",
+      "current_heading": "Rav Pappa's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Both Contexts",
+    "candidates": [
+      "Tosafot's Remedy Test",
+      "Both Contexts",
+      "Context-Specific Rules",
+      "Explicit Stipulation",
+      "Description vs. Contract",
+      "Names Not Binding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about the first two mishnayot applying to both tenancy and contracting arrangements, which is precisely what the 'Both Contexts' section's prose describes.",
+      "chosen_heading": "Both Contexts",
+      "current_heading": "Both Contexts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Names Not Binding",
+    "candidates": [
+      "Context-Specific Rules",
+      "Explicit Stipulation",
+      "Description vs. Contract",
+      "Names Not Binding",
+      "Ravad's Integration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge and the baraita evidence that names are merely descriptive identifiers ('shema b'alma'), which is precisely what candidate 2 ('Description vs. Contract') discusses \u2014 the question of whether explicit naming carries contractual weight or is merely an identifier, not the resolution found in candidate 3.",
+      "chosen_heading": "Description vs. Contract",
+      "current_heading": "Names Not Binding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Ravad's Integration",
+    "candidates": [
+      "Names Not Binding",
+      "Ravad's Integration",
+      "Speaker Identity",
+      "Ravina's Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's resolution distinguishing whether the owner or tenant used the term 'irrigated field,' which is precisely what candidate 2 ('Speaker Identity') describes in its prose.",
+      "chosen_heading": "Speaker Identity",
+      "current_heading": "Ravad's Integration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ravina's Override",
+    "candidates": [
+      "Speaker Identity",
+      "Ravina's Override",
+      "Estimation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement directly matching the 'Ravina's Override' section prose, which explicitly describes Ravina's argument about both cases involving the owner and the reasoning about standing in the field and saying 'this irrigated field.'",
+      "chosen_heading": "Ravina's Override",
+      "current_heading": "Ravina's Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Estimation Principle",
+    "candidates": [
+      "Estimation Principle",
+      "Leshon Hedyot Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about a sharecropper who lets a field lie fallow and the estimation remedy, which is precisely what the 'Estimation Principle' prose discusses.",
+      "chosen_heading": "Estimation Principle",
+      "current_heading": "Estimation Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Leshon Hedyot Doctrine",
+    "candidates": [
+      "Leshon Hedyot Doctrine",
+      "Rashi/Tosafot Dispute",
+      "Five Tannaim",
+      "Ketubah Korbanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Leshon Hedyot doctrine itself (Rabbi Meir would expound common language) and the baraita confirming the clause, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Leshon Hedyot Doctrine",
+      "current_heading": "Leshon Hedyot Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Ketubah Korbanot",
+    "candidates": [
+      "Rashi/Tosafot Dispute",
+      "Five Tannaim",
+      "Ketubah Korbanot",
+      "Hillel/Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's application of doresh leshon hedyot regarding a husband funding his wife's korbanot based on the ketubah formula, which is precisely what the 'Ketubah Korbanot' section's prose describes.",
+      "chosen_heading": "Ketubah Korbanot",
+      "current_heading": "Ketubah Korbanot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Hillel/Kiddushin",
+    "candidates": [
+      "Hillel/Kiddushin",
+      "Collateral Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Alexandria betrothal story \u2014 the problem and Hillel's resolution \u2014 which is precisely what the 'Hillel/Kiddushin' prose discusses in full detail.",
+      "chosen_heading": "Hillel/Kiddushin",
+      "current_heading": "Hillel/Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Collateral Limits",
+    "candidates": [
+      "Collateral Limits",
+      "Dowry Doubling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss Rabbi Yehoshua ben Korcha's ruling about collateral limits, the challenge from Rabbi Yochanan's ruling about collecting from orphans, and the resolution that the document serves for depreciation \u2014 exactly the content described in the 'Collateral Limits' prose.",
+      "chosen_heading": "Collateral Limits",
+      "current_heading": "Collateral Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Dowry Doubling",
+    "candidates": [
+      "Dowry Doubling",
+      "Maremar/Kinyan",
+      "Deathbed Instruction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dowry Doubling",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yosei's ruling on loan-style vs. doubled ketubot and the Neharbela practice, which the 'Dowry Doubling' prose discusses directly.",
+      "second_heading": "Maremar/Kinyan",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover Ravina's challenge to Mareimar, the kinyan distinction, and Ravina's own practice with his daughter's ketubah, which is precisely what the 'Maremar/Kinyan' prose discusses.",
+      "current_heading": "Dowry Doubling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Deathbed Instruction",
+    "candidates": [
+      "Maremar/Kinyan",
+      "Deathbed Instruction",
+      "Give vs. Write",
+      "Reject Preposition",
+      "Ketubah Rule",
+      "Proportional Deduction",
+      "Asmachta Doctrine",
+      "Excessive Pledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete sugya about the deathbed instruction case \u2014 the initial question to Rav Ashi, the alternative version of his ruling, and the gemara's rejection \u2014 which matches the 'Deathbed Instruction' heading's prose description of the man who said 'give 400 zuz from my estate for my daughter for her ketubah.'",
+      "chosen_heading": "Deathbed Instruction",
+      "current_heading": "Deathbed Instruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Excessive Pledge",
+    "candidates": [
+      "Give vs. Write",
+      "Reject Preposition",
+      "Ketubah Rule",
+      "Proportional Deduction",
+      "Asmachta Doctrine",
+      "Excessive Pledge",
+      "Sesame/Wheat Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Proportional Deduction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the case of the man who let one-third lie fallow and the Nehardaei ruling of proportional payment (333\u2153 zuz), which is precisely what candidate 3 'Proportional Deduction' describes.",
+      "second_heading": "Asmachta Doctrine",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's asmachta doctrine and the gemara's question distinguishing the mishna's 'pay with best produce' clause, which is precisely what candidate 4 'Asmachta Doctrine' describes (including the guzma b'alma reasoning).",
+      "current_heading": "Excessive Pledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Sesame/Wheat Case",
+    "candidates": [
+      "Excessive Pledge",
+      "Sesame/Wheat Case",
+      "Land Depletion",
+      "Owner Preference",
+      "Windfall Profit",
+      "Ravina/Windfall",
+      "Land Contribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario in candidate 1's prose: a sharecropper who received land for sesame but planted wheat, and the wheat yielded the same value as sesame would have, with Rav Kahana then proposing the land-depletion deduction \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Sesame/Wheat Case",
+      "current_heading": "Sesame/Wheat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Land Contribution",
+    "candidates": [
+      "Land Depletion",
+      "Owner Preference",
+      "Windfall Profit",
+      "Ravina/Windfall",
+      "Land Contribution",
+      "Iska Definition",
+      "Iska Mechanics"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Owner Preference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the proverb Rav Ashi uses to reject the land-depletion rebate argument, which the 'Owner Preference' prose explicitly describes as 'amei inshi k'chisha d'ara velo k'chish marei.'",
+      "second_heading": "Windfall Profit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens an entirely new incident (the sesame-planted-as-wheat case where wheat exceeded sesame value) that the 'Windfall Profit' prose describes precisely, including Ravina's initial reasoning about 'shivcha d'veini beini.'",
+      "current_heading": "Land Contribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Iska Mechanics",
+    "candidates": [
+      "Iska Definition",
+      "Iska Mechanics",
+      "Nehardai/Discretion",
+      "Rava/Business Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces and defines the iska arrangement as half-loan and half-deposit per Nehardaei, which is exactly what the 'Iska Definition' prose discusses, not the mechanical elaboration in 'Iska Mechanics.'",
+      "chosen_heading": "Iska Definition",
+      "current_heading": "Iska Mechanics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rava/Business Use",
+    "candidates": [
+      "Nehardai/Discretion",
+      "Rava/Business Use",
+      "Heir Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Nehardaei position (half is a loan, so drinking beer with it is permitted) and Rava's rebuttal, but the passage opens with the Nehardaei/loan-half argument that drinking beer is fine \u2014 which matches heading 0's prose \u2014 while heading 1 covers only Rava's counter-argument; the full Talmudic unit including both voices belongs under heading 0, the section that introduces the drinking-beer question.",
+      "chosen_heading": "Nehardai/Discretion",
+      "current_heading": "Rava/Business Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Heir Liability",
+    "candidates": [
+      "Rava/Business Use",
+      "Heir Liability",
+      "Rava/Reliance",
+      "Rashi/Reliance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Idi bar Avin's ruling that goods become metaltelin for the heirs AND Rava's counter-argument using 'lehachi karu leh iska / de'i mit lo yehei metaltelin etzel banav,' which matches candidate 2's prose precisely, including the exact phrase about the worker dying and goods not passing as chattels to his children.",
+      "chosen_heading": "Rava/Reliance",
+      "current_heading": "Heir Liability",
+      "moved": true
+    }
+  }
+]

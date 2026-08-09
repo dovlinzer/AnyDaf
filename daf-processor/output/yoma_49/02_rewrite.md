@@ -184,9 +184,7 @@ The *gemara* responds: *shani hasam, de-ksiv min ha-seh* — there it is differe
 
 ### Seh-Seh Linkage
 
-The resolution, then, is that the *pesach* rule is established through a *gezera shava* — a linkage between *seh* in the context of the *pesach* and *seh* in the context of reducing the group. Since the word *seh* recurs in both contexts, the *halakha* of joining the group is tied to the life of the *seh* specifically. This makes the *pesach* the exception rather than the disproof: the restriction to adding participants only while the animal is alive is a unique feature of *pesach* derived from its own verse, and it does not undermine the general principle that blood represents the living animal in other *avodot*.
-
----
+The Gemara answers: *shani hasam* — there it is different. The verse says *min ha-seh*: if the household is too small, the *seh* determines the arrangement. From this we learn that participants may be added or reduced specifically in the case of a *seh*, and only *mi-chayusa de-seh* — while the *seh* is still alive. The lecturer notes the wordplay between *chayus* (vitality) and *chayusa*, and observes that this makes the *Korban Pesach* the exception. Rather than disproving the general principle, the *pesach* has its own verse governing when the number of participants may be changed — tied to the life of the animal — and the question of when blood represents the animal may well differ across the various *korbanos*.
 
 ## Shechita Succession (II)
 

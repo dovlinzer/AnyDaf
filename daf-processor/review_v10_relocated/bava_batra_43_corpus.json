@@ -1,0 +1,207 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Yored Bireshut",
+    "candidates": [
+      "Four Points Preview",
+      "Yored Bireshut",
+      "Asuya Lita Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why Shmuel didn't simply say 'shutaf ein lo chazakah' instead of the longer formulation, which is precisely the review/question that the 'Yored Bireshut' prose section describes as the Gemara's prior discussion before moving on to explore additional implications.",
+      "chosen_heading": "Yored Bireshut",
+      "current_heading": "Yored Bireshut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Asuya Lita Analysis",
+    "candidates": [
+      "Asuya Lita Analysis",
+      "Sharecropper Rights",
+      "Harebrained Ideas",
+      "Nogei'in B'Eidutan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling about *shevach ha-magia le-ktafayim* and the equivalence between fields suited and not suited for planting, which is precisely what the 'Asuya Lita Analysis' prose section is explaining and analyzing.",
+      "chosen_heading": "Asuya Lita Analysis",
+      "current_heading": "Asuya Lita Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Nogei'in B'Eidutan",
+    "candidates": [
+      "Sharecropper Rights",
+      "Harebrained Ideas",
+      "Nogei'in B'Eidutan",
+      "Kinyan and Divestment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly introduce the Gemara's discussion of partners testifying for each other and the immediate objection that they are biased (nogei'in b'eidutan), which is precisely what the prose under heading 2 describes.",
+      "chosen_heading": "Nogei'in B'Eidutan",
+      "current_heading": "Nogei'in B'Eidutan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Kinyan and Divestment",
+    "candidates": [
+      "Kinyan and Divestment",
+      "Creditor Lien Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's question about whether 'din u-devarim ein li' declarations are legally operative, which is precisely what the 'Kinyan and Divestment' section's prose addresses \u2014 the baraita about ineffective disclaimers of ownership and the requirement for actual conveyance.",
+      "chosen_heading": "Kinyan and Divestment",
+      "current_heading": "Kinyan and Divestment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Creditor Lien Issue",
+    "candidates": [
+      "Creditor Lien Issue",
+      "Two Types of Liability",
+      "Achrayut Permits Test",
+      "Mistaleik Question",
+      "Sefer Torah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the creditor lien problem (ma'amida bifnei ba'al chovo) \u2014 the objection that transferring the field still benefits the witness by preserving the creditor's ability to collect, and the supporting proof from Ravin bar Shmuel's ruling about selling shelo be-achrayut \u2014 which is precisely what the 'Creditor Lien Issue' prose discusses, before the achrayut resolution is introduced in candidate 1.",
+      "chosen_heading": "Creditor Lien Issue",
+      "current_heading": "Creditor Lien Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Sefer Torah Case",
+    "candidates": [
+      "Two Types of Liability",
+      "Achrayut Permits Test",
+      "Mistaleik Question",
+      "Sefer Torah Case",
+      "Permanent Beneficiary",
+      "Town Donation Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge-and-response about whether 'removing oneself' from ownership genuinely works \u2014 the Sefer Torah baraita is the proof and the answer is its resolution \u2014 which is precisely what candidate 2 ('Mistaleik Question') describes as the deeper question being probed.",
+      "chosen_heading": "Mistaleik Question",
+      "current_heading": "Sefer Torah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Town Donation Case",
+    "candidates": [
+      "Permanent Beneficiary",
+      "Town Donation Case",
+      "Public Goods Benefit",
+      "Fixed Contributions",
+      "Tosafot Approach",
+      "Ra'avad Framework",
+      "Watching Arrangement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Items 1-6 form a continuous Gemara discussion about whether two people can remove themselves from a communal donation (to residents, then to the poor) and testify, ending with the fixed/unfixed contributions analysis \u2014 which matches exactly the 'Fixed Contributions' prose describing katzuv/lo katzuv and the keivan de-revach conclusion.",
+      "chosen_heading": "Fixed Contributions",
+      "current_heading": "Town Donation Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Watching Arrangement",
+    "candidates": [
+      "Public Goods Benefit",
+      "Fixed Contributions",
+      "Tosafot Approach",
+      "Ra'avad Framework",
+      "Watching Arrangement",
+      "Alternating Watch Days",
+      "Field Sale Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly concern Shmuel's ruling that partners are paid bailees for each other and the immediate Gemara objection about shemirah be-ba'alim, which is precisely what the 'Watching Arrangement' prose describes.",
+      "chosen_heading": "Watching Arrangement",
+      "current_heading": "Watching Arrangement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Field Sale Problem",
+    "candidates": [
+      "Alternating Watch Days",
+      "Field Sale Problem",
+      "Movable Goods Contrast",
+      "Difference Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full Baraita covering both the house/field case and the cow/cloak case plus the concluding question, and the 'Field Sale Problem' prose explicitly introduces this Baraita as a unit beginning with 'machar lo bayis, machar lo sadeh,' making it the best single home for the entire quoted text.",
+      "chosen_heading": "Field Sale Problem",
+      "current_heading": "Field Sale Problem",
+      "moved": false
+    }
+  }
+]

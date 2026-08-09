@@ -1,0 +1,547 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Figure Identifications",
+    "candidates": [
+      "Bat Kol & Shlomo",
+      "God Decides Olam HaBa",
+      "Tashlumin Interpretation",
+      "Reject Exclusions",
+      "Psalm Interpretation",
+      "Figure Identifications",
+      "Commoners Included",
+      "Making Friends",
+      "Teshuvah Nitzachat",
+      "Fathers & Prophets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together contain the full derasha on the psalm identifying each figure (Ahab, Manasseh, Jeroboam, Ahithophel, Gehazi, Doeg, and the Philistia/angels conclusion), which is precisely what the 'Figure Identifications' prose section describes in detail.",
+      "chosen_heading": "Figure Identifications",
+      "current_heading": "Figure Identifications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Fathers & Prophets",
+    "candidates": [
+      "Commoners Included",
+      "Making Friends",
+      "Teshuvah Nitzachat",
+      "Fathers & Prophets",
+      "Slave Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the verse about 'perpetual backsliding' and Rav's interpretation of 'teshuvah nitzachat' as an unanswerable response, which is precisely what the 'Teshuvah Nitzachat' section's prose describes as its topic.",
+      "chosen_heading": "Teshuvah Nitzachat",
+      "current_heading": "Fathers & Prophets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Slave Analogy",
+    "candidates": [
+      "Fathers & Prophets",
+      "Slave Analogy",
+      "No Divorce",
+      "David & Nebuchadnezzar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's version where ten people argue the slave/divorce analogy before the prophet, which matches exactly the 'Slave Analogy' section's prose describing Shmuel's account of this exchange.",
+      "chosen_heading": "Slave Analogy",
+      "current_heading": "Slave Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "David & Nebuchadnezzar",
+    "candidates": [
+      "No Divorce",
+      "David & Nebuchadnezzar",
+      "Acquired Property",
+      "Never Left Servitude",
+      "God's Anger Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Reish Lakish's statement about David and Nebuchadnezzar both being called God's servant, which is precisely what the 'David & Nebuchadnezzar' section's prose discusses.",
+      "chosen_heading": "David & Nebuchadnezzar",
+      "current_heading": "David & Nebuchadnezzar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "God's Anger Verse",
+    "candidates": [
+      "Acquired Property",
+      "Never Left Servitude",
+      "God's Anger Verse",
+      "Accept Anger",
+      "Evil Inclination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the Ezekiel verse about Israel wanting to be like the nations and God's wrathful response, which is exactly what the 'God's Anger Verse' section prose describes.",
+      "chosen_heading": "God's Anger Verse",
+      "current_heading": "God's Anger Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Evil Inclination",
+    "candidates": [
+      "Accept Anger",
+      "Evil Inclination",
+      "Deflect to God",
+      "List of Four",
+      "Bilam Etymology",
+      "Genealogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the prophet's call to repentance, Israel's reply that the evil inclination dominates them, which matches exactly the 'Evil Inclination' section's prose about this same exchange.",
+      "chosen_heading": "Evil Inclination",
+      "current_heading": "Evil Inclination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Genealogy",
+    "candidates": [
+      "Deflect to God",
+      "List of Four",
+      "Bilam Etymology",
+      "Genealogy",
+      "Bilam Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the etymology of Bilam's name, the identification of Be'or with Cushan-Rishathaim and Lavan, and Rabbi Yochanan's resolution of 'ben Be'or' vs 'b'no Be'or' \u2014 are precisely the content described in the 'Bilam Etymology' prose, which explicitly mentions the name derivations, the be'ir connection, and notes the Gemara will develop the Be'or point further, matching all three items perfectly.",
+      "chosen_heading": "Bilam Etymology",
+      "current_heading": "Genealogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Bilam Excluded",
+    "candidates": [
+      "Genealogy",
+      "Bilam Excluded",
+      "Eliezer Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference that Bilam specifically is excluded from olam haba while other gentiles are not, and asks whose opinion the mishna reflects \u2014 exactly what the 'Bilam Excluded' section's prose describes.",
+      "chosen_heading": "Bilam Excluded",
+      "current_heading": "Bilam Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Eliezer Position",
+    "candidates": [
+      "Eliezer Position",
+      "Yehoshua Position",
+      "Tosefta Clarity",
+      "Rambam Ruling",
+      "Sheva Mitzvot",
+      "Radbaz View",
+      "Righteous Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Eliezer's and Rabbi Yehoshua's positions from the baraita, but the section heading 'Eliezer Position' and its prose explicitly introduce this baraita as answering a question by contrasting Rabbi Yehoshua's view against Rabbi Eliezer's, making it the correct home for the full quoted text that establishes both positions together.",
+      "chosen_heading": "Eliezer Position",
+      "current_heading": "Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Righteous Death",
+    "candidates": [
+      "Yehoshua Position",
+      "Tosefta Clarity",
+      "Rambam Ruling",
+      "Sheva Mitzvot",
+      "Radbaz View",
+      "Righteous Death",
+      "Death in Battle",
+      "Common Enemy",
+      "Dog Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly discusses Bilam's self-declared criterion for olam haba \u2014 dying the death of the righteous \u2014 which is precisely what the 'Righteous Death' section's prose describes.",
+      "chosen_heading": "Righteous Death",
+      "current_heading": "Righteous Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Dog Parable",
+    "candidates": [
+      "Death in Battle",
+      "Common Enemy",
+      "Dog Parable",
+      "Lameness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of 'Common Enemy' (index 1) introduces exactly the historical background of Moav and Midyan never having peace and their cooperation against Israel, which is precisely what Items 1-3 discuss \u2014 and the current placement under 'Dog Parable' (index 2) is a subsection whose prose already incorporates all three items' content, indicating the passage was placed one heading too late; index 1 is the true home where the section begins.",
+      "chosen_heading": "Common Enemy",
+      "current_heading": "Dog Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Lameness",
+    "candidates": [
+      "Dog Parable",
+      "Lameness",
+      "Blindness",
+      "Necromancy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Balaam's lameness in one leg and Samson's lameness in both legs (plus one sentence beginning Balaam's blindness), which corresponds precisely to the 'Lameness' section's prose about these same physical deficiencies derived from shefi/shefifon.",
+      "chosen_heading": "Lameness",
+      "current_heading": "Lameness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Necromancy",
+    "candidates": [
+      "Blindness",
+      "Necromancy",
+      "God Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete amoraic dispute about Balaam's sexual deviance (kosem b'amato vs. ba al atono), which is precisely what the 'Necromancy' section's prose describes in detail.",
+      "chosen_heading": "Necromancy",
+      "current_heading": "Necromancy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "God Knowledge",
+    "candidates": [
+      "God Knowledge",
+      "Constant Companion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the core Gemara text about Bilam claiming to know the mind of God while not knowing the mind of his own animal, which is exactly what the 'God Knowledge' section's prose discusses.",
+      "chosen_heading": "God Knowledge",
+      "current_heading": "God Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Constant Companion",
+    "candidates": [
+      "Constant Companion",
+      "Spousal Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Constant Companion' prose, which explicitly discusses Bilam's exchanges with the donkey about burdens vs. riding, happenstance vs. regular use, and the donkey's lifelong service \u2014 precisely what this Talmudic text covers.",
+      "chosen_heading": "Constant Companion",
+      "current_heading": "Constant Companion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Spousal Acts",
+    "candidates": [
+      "Spousal Acts",
+      "Outsmarts",
+      "When Angry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the donkey's claim of performing conjugal/spousal acts and the gezerah shavah between hahasken hiskanti and sokhenet, which is exactly what the 'Spousal Acts' section prose describes.",
+      "chosen_heading": "Spousal Acts",
+      "current_heading": "Spousal Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "When Angry",
+    "candidates": [
+      "Outsmarts",
+      "When Angry",
+      "Shittim-Gilgal",
+      "Avoided Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains Bilam's knowledge of 'the Most High' as the ability to identify the precise moment of divine anger, which is exactly what the 'When Angry' section's prose discusses.",
+      "chosen_heading": "When Angry",
+      "current_heading": "When Angry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Avoided Anger",
+    "candidates": [
+      "Shittim-Gilgal",
+      "Avoided Anger",
+      "Three Hours",
+      "Rooster Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 God's restraint of anger during Balaam's days, the mechanism of divine wrath lasting only a moment, and the identification of that moment via the rooster's crest \u2014 are explicitly discussed together in the 'Avoided Anger' prose, which covers exactly these points in sequence.",
+      "chosen_heading": "Avoided Anger",
+      "current_heading": "Avoided Anger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Rooster Story",
+    "candidates": [
+      "Three Hours",
+      "Rooster Story",
+      "Love Breaks Hierarchy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rooster Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the rooster story about Rabbi Yehoshua ben Levi and the heretic, which the 'Rooster Story' prose explicitly narrates and discusses in detail.",
+      "second_heading": "Three Hours",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains why God becomes angry (kings bowing to the sun at sunrise), which directly corresponds to the 'Three Hours' section prose about when God's anger occurs and its cause.",
+      "current_heading": "Rooster Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Love Breaks Hierarchy",
+    "candidates": [
+      "Love Breaks Hierarchy",
+      "Hatred Breaks Bounds",
+      "Wrong Motivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the love (Abraham) and hatred (Balaam) teachings as a single unit, and heading 0 introduces both parts of the baraita while heading 1 only covers the hatred portion \u2014 the full passage belongs under the heading that introduces the complete teaching.",
+      "chosen_heading": "Love Breaks Hierarchy",
+      "current_heading": "Love Breaks Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Wrong Motivation",
+    "candidates": [
+      "Hatred Breaks Bounds",
+      "Wrong Motivation",
+      "Forty-Two Sacrifices",
+      "Ruth's Origin",
+      "Throne Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the shelo lishmah principle with Balak's sacrifices AND the genealogy of Ruth from Eglon/Balak, which perfectly matches the 'Ruth's Origin' section prose that discusses exactly these two elements together \u2014 the merit from the forty-two sacrifices producing Ruth, and Rabbi Yosi bar Chunya's genealogical specification.",
+      "chosen_heading": "Ruth's Origin",
+      "current_heading": "Wrong Motivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Throne Question",
+    "candidates": [
+      "Forty-Two Sacrifices",
+      "Ruth's Origin",
+      "Throne Question",
+      "Derive From",
+      "Yael Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's question to Rabba bar Mari about the propriety of telling a king his son's throne will exceed his, which is exactly what the 'Throne Question' section's prose describes.",
+      "chosen_heading": "Throne Question",
+      "current_heading": "Throne Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Yael Analogy",
+    "candidates": [
+      "Derive From",
+      "Yael Analogy",
+      "No Jealousy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Yael analogy and its resolution (me'ein kamre), which is exactly what the 'Yael Analogy' section's prose describes.",
+      "chosen_heading": "Yael Analogy",
+      "current_heading": "Yael Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "No Jealousy",
+    "candidates": [
+      "No Jealousy",
+      "Three Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yosei bar \u1e24oni's teaching about jealousy toward a son and student, which is precisely what the 'No Jealousy' section's prose describes.",
+      "chosen_heading": "No Jealousy",
+      "current_heading": "No Jealousy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Three Views",
+    "candidates": [
+      "Three Views",
+      "Prevent Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents two interpretations (angel and hook) of 'vayasem davar b'fi Bilam,' which directly matches the 'Three Views' section prose that discusses these same interpretations by Rabbi Elazar and Rabbi Yonatan.",
+      "chosen_heading": "Three Views",
+      "current_heading": "Three Views",
+      "moved": false
+    }
+  }
+]

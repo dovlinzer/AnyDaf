@@ -1,0 +1,400 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Absorption Principle",
+    "candidates": [
+      "Absorption Principle",
+      "Rabbi Akiva Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items continue the same Gemara exposition of 'zos hatorah' verse, deriving rules from chatat, asham, miluim, and shelamim that apply across all korbanot \u2014 exactly what the 'Absorption Principle' prose describes as the broader extension of halachot from this verse.",
+      "chosen_heading": "Absorption Principle",
+      "current_heading": "Absorption Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbi Akiva Braita",
+    "candidates": [
+      "Rabbi Akiva Braita",
+      "Both Sources Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbi Akiva baraita itself, deriving the absorption rule from the mincha, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rabbi Akiva Braita",
+      "current_heading": "Rabbi Akiva Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Both Sources Needed",
+    "candidates": [
+      "Both Sources Needed",
+      "Mincha Softness",
+      "Non-Sanctified Funds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's assertion that both sources (mincha and chatat) are necessary, which is precisely what the 'Both Sources Needed' section's prose describes with the same terminology and reasoning.",
+      "chosen_heading": "Both Sources Needed",
+      "current_heading": "Both Sources Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Non-Sanctified Funds",
+    "candidates": [
+      "Mincha Softness",
+      "Non-Sanctified Funds",
+      "Day & Right Hand",
+      "Alternative Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita's teaching that a chatat must come from non-sacred/non-sanctified funds (chulin), and Rav Hisda's derivation from the verse about Aaron's bull, which is precisely what the 'Non-Sanctified Funds' section discusses.",
+      "chosen_heading": "Non-Sanctified Funds",
+      "current_heading": "Non-Sanctified Funds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Alternative Sources",
+    "candidates": [
+      "Day & Right Hand",
+      "Alternative Sources",
+      "Permitted Bones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's challenges to deriving daytime and right-hand requirements from the chatat, and the alternative explanation via Rabbi Shimon \u2014 exactly the content described in the 'Alternative Sources' prose.",
+      "chosen_heading": "Alternative Sources",
+      "current_heading": "Alternative Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Permitted Bones",
+    "candidates": [
+      "Permitted Bones",
+      "Olah Bones",
+      "Blood Layering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the derivation that bones of an asham are permitted and therefore all korbanot bones are permitted, which is exactly what the prose under 'Permitted Bones' discusses.",
+      "chosen_heading": "Permitted Bones",
+      "current_heading": "Permitted Bones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Blood Layering",
+    "candidates": [
+      "Olah Bones",
+      "Blood Layering",
+      "Absorption Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the opening of Rava's 'peshita li' statement about dam chatat lemata vedam olah lemala requiring laundering, which is precisely what the 'Blood Layering' prose describes as Rava's self-evident case.",
+      "chosen_heading": "Blood Layering",
+      "current_heading": "Blood Layering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Absorption Requirement",
+    "candidates": [
+      "Absorption Requirement",
+      "Mixed Stains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's question about dam olah below and dam chatat above, and his resolution that laundering is not required, which is precisely what the 'Absorption Requirement' prose discusses in detail.",
+      "chosen_heading": "Absorption Requirement",
+      "current_heading": "Absorption Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Mixed Stains",
+    "candidates": [
+      "Mixed Stains",
+      "Two Occupations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's initial statements about blood and fat stains individually (peshita li) plus the opening question about both combined \u2014 which is exactly what candidate 0's prose discusses, while candidate 1's prose covers the Gemara's resolution and analysis of that question.",
+      "chosen_heading": "Mixed Stains",
+      "current_heading": "Mixed Stains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Two Occupations",
+    "candidates": [
+      "Two Occupations",
+      "Daytime Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge and resolution regarding a person who works both as a butcher and fat seller, with blood and grease stains on his garment, which is precisely what the 'Two Occupations' prose describes.",
+      "chosen_heading": "Two Occupations",
+      "current_heading": "Two Occupations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Daytime Impurity",
+    "candidates": [
+      "Daytime Impurity",
+      "Onen Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text about tvul yom and mchusar kippurim receiving no share of sacrificial meat is precisely what the 'Daytime Impurity' prose discusses in detail.",
+      "chosen_heading": "Daytime Impurity",
+      "current_heading": "Daytime Impurity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Onen Status",
+    "candidates": [
+      "Onen Status",
+      "Blemished Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the onen's status \u2014 touching but not sacrificing, and not receiving a share \u2014 which matches precisely the prose under 'Onen Status' and its discussion of nogei'a v'eino makriv.",
+      "chosen_heading": "Onen Status",
+      "current_heading": "Onen Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Blemished Kohanim",
+    "candidates": [
+      "Blemished Kohanim",
+      "Unfitness Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses blemished priests (ba'alei mumim) receiving shares but not sacrificing, which matches exactly the prose in heading 0 about kohanim with bodily blemishes receiving portions but not performing avodah.",
+      "chosen_heading": "Blemished Kohanim",
+      "current_heading": "Blemished Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Unfitness Rule",
+    "candidates": [
+      "Unfitness Rule",
+      "Blood Moment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the exact rule about unfitness for service and coextensive meat/hide shares, which is precisely what the 'Unfitness Rule' prose section discusses.",
+      "chosen_heading": "Unfitness Rule",
+      "current_heading": "Unfitness Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Blood Moment",
+    "candidates": [
+      "Blood Moment",
+      "Pasuk Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the rule that impurity at the time of blood sprinkling disqualifies a kohen from receiving a share even if pure at the fat-burning stage, which is precisely what the 'Blood Moment' section's prose describes.",
+      "chosen_heading": "Blood Moment",
+      "current_heading": "Blood Moment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Pasuk Reading",
+    "candidates": [
+      "Pasuk Reading",
+      "Fitness Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial derivation from the verse by Reish Lakish \u2014 the straightforward reading that the priest who effects atonement shall eat \u2014 which is precisely what the 'Pasul Reading' prose describes, before the Gemara's challenge and reinterpretation discussed under 'Fitness Principle'.",
+      "chosen_heading": "Pasuk Reading",
+      "current_heading": "Pasuk Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Fitness Principle",
+    "candidates": [
+      "Fitness Principle",
+      "Minor Eats",
+      "Portion vs. Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the challenge from the priestly watch (mishmar) who eat without performing the chituy, and the resolution that 'fit for chituy' is what matters \u2014 exactly what the 'Fitness Principle' prose describes.",
+      "chosen_heading": "Fitness Principle",
+      "current_heading": "Fitness Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Portion vs. Permitted",
+    "candidates": [
+      "Minor Eats",
+      "Portion vs. Permitted",
+      "Blemish Pasuk",
+      "Inclusion Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's objection about a minor eating despite being unfit for atonement, which is exactly what the 'Minor Eats' prose describes as the Gemara pressing further with this counterexample \u2014 the resolution (yechalkenah) then follows naturally, but the passage's primary content is the minor objection that the 'Minor Eats' section introduces.",
+      "chosen_heading": "Minor Eats",
+      "current_heading": "Portion vs. Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Inclusion Logic",
+    "candidates": [
+      "Blemish Pasuk",
+      "Inclusion Logic",
+      "Tvul Yom Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the ba'al mum objection-and-response plus the kol zachar inclusion logic, which candidate 0 ('Blemish Pasul') discusses directly \u2014 the ba'al mum being included by the verse \u2014 while candidate 1's prose already covers the tvul yom comparison that follows, suggesting items 1-2 belong under heading 0 as the setup that leads into that discussion.",
+      "chosen_heading": "Blemish Pasuk",
+      "current_heading": "Inclusion Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tvul Yom Objection",
+    "candidates": [
+      "Inclusion Logic",
+      "Tvul Yom Objection",
+      "Critical Moment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the objection (adderaba tvul yom) and the reply (hashta miah lo chazi), and the 'Critical Moment' prose explicitly discusses the hashta reply as its central content, making it the better home for the complete exchange.",
+      "chosen_heading": "Critical Moment",
+      "current_heading": "Tvul Yom Objection",
+      "moved": true
+    }
+  }
+]

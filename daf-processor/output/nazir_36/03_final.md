@@ -1,4 +1,5 @@
 # Nazir 36 — Daf Yomi Shiur
+[DAF:36a]
 
 ## Heter Mitztaref & K'zayis
 
@@ -16,6 +17,7 @@ The first principle is *heter mitztaref le-issur* — the permissible food combi
 
 A related but distinct principle involves cases where forbidden food is recognizably present — *nikar*, physically distinct — within a mixture of permitted food. The example is *kutach habavli*, the Babylonian dipping sauce made with sour milk and bread crumbs, which contains *chametz* on Pesach. There the *issur* does not transform the *heter*; rather, even within the mixture, one remains obligated with respect to the forbidden component. The *heter* does not lend its neutral status to the *issur*. Forbidden things that are *nikar* in a mixture retain their identity — they have not been *batel*.
 
+[DAF:36b]
 ### K'zayis B'chdei Pras
 
 > **Hebrew/Aramaic:** וַאֲכִילַת פְּרָס דְּאוֹרָיְיתָא הִיא? אֲמַר לֵיהּ: אִין. אִי הָכִי, אַמַּאי פְּלִיגִי רַבָּנַן עֲלֵיהּ דְּרַבִּי אֶלְעָזָר בְּכוּתָּח הַבַּבְלִי? אֲמַר לֵיהּ: הַנַּח לְכוּתָּח הַבַּבְלִי, דְּלֵיכָּא כְּזַיִת בִּכְדֵי אֲכִילַת פְּרָס.

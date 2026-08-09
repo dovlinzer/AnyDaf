@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Shevach Neurim Only",
+    "candidates": [
+      "Shevach Neurim Only",
+      "Chovel B'Eved Knaa'ni",
+      "Boshet for Slaves",
+      "Eved Lo Ba'Achvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Reish Lakish/Rabbi Yochanan dispute about whether the father receives compensation for a wound (ptziah), the Gemara's objection referencing Rabbi Elazar's dilemma about chavala, and Rabbi Yose bar Chanina's resolution \u2014 exactly what the prose under heading 0 ('Shevach Neurim Only') describes in detail.",
+      "chosen_heading": "Shevach Neurim Only",
+      "current_heading": "Shevach Neurim Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Eved Lo Ba'Achvah",
+    "candidates": [
+      "Chovel B'Eved Knaa'ni",
+      "Boshet for Slaves",
+      "Eved Lo Ba'Achvah",
+      "Achiv Hu B'Mitzvot",
+      "HaMeiri: Achiv B'Mitzvot",
+      "Zomemim & Eved",
+      "Rav Sheishes on Zomemim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda's reasoning from the verse 'ish v'achiv' excluding the slave due to lack of brotherhood, and the Rabbis' counter that he is their brother in mitzvot \u2014 exactly what heading 2 ('Eved Lo Ba'Achvah') and its prose describe, including the derivation from the verse and the two positions.",
+      "chosen_heading": "Eved Lo Ba'Achvah",
+      "current_heading": "Eved Lo Ba'Achvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Sheishes on Zomemim",
+    "candidates": [
+      "Achiv Hu B'Mitzvot",
+      "HaMeiri: Achiv B'Mitzvot",
+      "Zomemim & Eved",
+      "Rav Sheishes on Zomemim",
+      "Meluchah: Mikerev Achecha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava citing Rav Sheshet's resolution using 'uvi'arta hara mikirbecha,' which is precisely what candidate 3's prose describes.",
+      "chosen_heading": "Rav Sheishes on Zomemim",
+      "current_heading": "Rav Sheishes on Zomemim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Meluchah: Mikerev Achecha",
+    "candidates": [
+      "Meluchah: Mikerev Achecha",
+      "Four Categories Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about a slave's fitness for kingship and the resolution that 'mikerev achecha' means 'mimuvchar shebe'achecha,' which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Meluchah: Mikerev Achecha",
+      "current_heading": "Meluchah: Mikerev Achecha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Four Categories Excluded",
+    "candidates": [
+      "Four Categories Excluded",
+      "Shoresh Ha'Psul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous kal vachomer chain (woman\u2192minor\u2192woman cycling back) about slave testimony disqualification, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Four Categories Excluded",
+      "current_heading": "Four Categories Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Shoresh Ha'Psul",
+    "candidates": [
+      "Shoresh Ha'Psul",
+      "Lo Yumtu Avot Al Banim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the continuous hatzad hashaveh / gazlan derivation chain that candidate 0's prose explicitly describes \u2014 the common denominator argument, the eino ish objection, the gazlan attempt, and the combined derivation \u2014 exactly matching 'Shoresh Ha'Psul.'",
+      "chosen_heading": "Shoresh Ha'Psul",
+      "current_heading": "Shoresh Ha'Psul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Lo Yumtu Avot Al Banim",
+    "candidates": [
+      "Lo Yumtu Avot Al Banim",
+      "Ger vs. Eved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Mar brei deRavina's derivation from 'lo yumtu avot al banim' and the reasoning about the generic 'banim' vs. 'bnehem,' which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Lo Yumtu Avot Al Banim",
+      "current_heading": "Lo Yumtu Avot Al Banim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Ger vs. Eved",
+    "candidates": [
+      "Ger vs. Eved",
+      "Ketivatah L'Nechsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items constitute the continuous Talmudic argument about whether a ger or eved is disqualified from testimony based on the verse 'fathers shall not be put to death for children / nor shall children be put to death for fathers,' which is precisely what the 'Ger vs. Eved' section prose describes in detail.",
+      "chosen_heading": "Ger vs. Eved",
+      "current_heading": "Ger vs. Eved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Ketivatah L'Nechsa",
+    "candidates": [
+      "Ketivatah L'Nechsa",
+      "Samuel's Psak",
+      "Mishnah: Kotev Nechsav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ketivatah L'Nechsa",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the mishna about deaf-mutes and then the case of the mother writing over her property \u2014 exactly what candidate 0's prose describes as 'the case study that will anchor the remainder of the daf.'",
+      "second_heading": "Samuel's Psak",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Yehuda's ruling in Shmuel's name about a woman who sold her nichsei melog property dying and the husband reclaiming it \u2014 precisely what candidate 1's prose explains as 'Samuel's Psak.'",
+      "current_heading": "Ketivatah L'Nechsa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Mishnah: Kotev Nechsav",
+    "candidates": [
+      "Samuel's Psak",
+      "Mishnah: Kotev Nechsav",
+      "Kinyan Peirot & Guf",
+      "Resh Lakish: Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Mishna cited by Rabbi Yirmeya bar Abba (hakotev nechsav livno) and the crucial inference about the purchaser receiving the property even when the son predeceased the father, which is exactly what candidate 1's prose describes.",
+      "chosen_heading": "Mishnah: Kotev Nechsav",
+      "current_heading": "Mishnah: Kotev Nechsav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Resh Lakish: Kinyan",
+    "candidates": [
+      "Kinyan Peirot & Guf",
+      "Resh Lakish: Kinyan",
+      "Analogous Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous unit presenting the Rabbi Yochanan/Resh Lakish dispute over kinyan peiros ke-kinyan haguf, their respective explanations of the Mishna, and Rabbi Yirmeya bar Abba's analysis \u2014 exactly the content described in heading 1's prose about that dispute and its resolution.",
+      "chosen_heading": "Resh Lakish: Kinyan",
+      "current_heading": "Resh Lakish: Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Analogous Transfer",
+    "candidates": [
+      "Analogous Transfer",
+      "Zu Eina Doma L'Mishnasenu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yehuda's response invoking Shmuel's statement 'zu eina doma l'mishnasenu,' which is precisely what the prose of candidate 1 describes, making it the clear and correct home for this text.",
+      "chosen_heading": "Zu Eina Doma L'Mishnasenu",
+      "current_heading": "Analogous Transfer",
+      "moved": true
+    }
+  }
+]

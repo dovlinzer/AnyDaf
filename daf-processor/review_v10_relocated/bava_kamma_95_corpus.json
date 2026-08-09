@@ -1,0 +1,230 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Reconciling Baraitot",
+    "candidates": [
+      "Rebbi's Takkanah Intro",
+      "Rav Nachman: Takkanah",
+      "Reconciling Baraitot",
+      "Beam in House (Marish)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present exactly the content described in 'Reconciling Baraitot': the Gemara's alternative resolution using Rav Nachman's qualification (iidi v'iidi l'achar takkanah), the distinction between gezeilah kayyemes and ein gezeilah kayyemes, and the challenge/answer about the avneit \u2014 all of which the prose of heading 2 explicitly walks through.",
+      "chosen_heading": "Reconciling Baraitot",
+      "current_heading": "Reconciling Baraitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Beam in House (Marish)",
+    "candidates": [
+      "Beam in House (Marish)",
+      "Mishna: Return Object",
+      "Baraita: Meir Returns All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the stolen beam (marish) challenge and the Gemara's response about psayda d'birah, which is precisely what the 'Beam in House (Marish)' section's prose describes.",
+      "chosen_heading": "Beam in House (Marish)",
+      "current_heading": "Beam in House (Marish)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Baraita: Meir Returns All",
+    "candidates": [
+      "Mishna: Return Object",
+      "Baraita: Meir Returns All",
+      "Rebbi Meir's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with the three-way dispute between Rabbi Meir, Rabbi Yehuda, and Rabbi Shimon, which is precisely what the 'Baraita: Meir Returns All' section's prose describes.",
+      "chosen_heading": "Baraita: Meir Returns All",
+      "current_heading": "Baraita: Meir Returns All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Rebbi Meir's Reasoning",
+    "candidates": [
+      "Rebbi Meir's Reasoning",
+      "Aged Animal Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact ibaya about Rabbi Meir's reasoning and its nafka mina (deterioration case), which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rebbi Meir's Reasoning",
+      "current_heading": "Rebbi Meir's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Aged Animal Case",
+    "candidates": [
+      "Aged Animal Case",
+      "Proof: Shinuy Koneh",
+      "Alternate Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's proof that Rabbi Meir holds shinuy koneh \u2014 item 1 presents the mishna and the inference, item 2 clinches the argument \u2014 which is precisely what candidate 1 ('Proof: Shinuy Koneh') discusses in its prose.",
+      "chosen_heading": "Proof: Shinuy Koneh",
+      "current_heading": "Aged Animal Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Alternate Explanation",
+    "candidates": [
+      "Proof: Shinuy Koneh",
+      "Alternate Explanation",
+      "Dyer Mistake",
+      "Analysis: Shinuy Koneh",
+      "Conclusion: Fine Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's deflection of the proof by explaining that Rabbi Meir was arguing within the Rabbis' own framework (shinuy koneh) rather than expressing his own view, and the Rabbis' response that slaves are like movable property \u2014 which is precisely what the 'Alternate Explanation' prose section describes.",
+      "chosen_heading": "Alternate Explanation",
+      "current_heading": "Alternate Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Conclusion: Fine Only",
+    "candidates": [
+      "Dyer Mistake",
+      "Analysis: Shinuy Koneh",
+      "Conclusion: Fine Only",
+      "Liens vs. Unencumbered",
+      "Peiros (Fruits)",
+      "Shvach Peiros"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Analysis: Shinuy Koneh",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the dyer proof and its conclusion that Rabbi Meir holds shinuy koneh with a knas for the robber, matching the 'Analysis: Shinuy Koneh' and 'Conclusion: Fine Only' prose \u2014 but items 1-2 fit best under 'Analysis: Shinuy Koneh' (index 1) since that prose explicitly quotes the same logical inference about d'mei tzemro vs. d'mei tzemro v'shvacho and the shinuy eino koneh argument.",
+      "second_heading": "Conclusion: Fine Only",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the alternative version (ikka d'amri) establishing that Rabbi Meir certainly holds shinuy koneh and then raising the mezid/shogeg question, which matches exactly the 'Conclusion: Fine Only' prose (index 2) that discusses the second version of the question about whether the knas applies to mezid only or also shogeg.",
+      "current_heading": "Conclusion: Fine Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Shvach Peiros",
+    "candidates": [
+      "Liens vs. Unencumbered",
+      "Peiros (Fruits)",
+      "Shvach Peiros",
+      "Stolen Field Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together introduce the baraita about five categories collected only from unsold property and identify it as following Rabbi Meir's view \u2014 this is precisely what candidate 0 ('Liens vs. Unencumbered') describes as its content, before the essay breaks out peiros and shvach peiros into their own sections.",
+      "chosen_heading": "Liens vs. Unencumbered",
+      "current_heading": "Shvach Peiros",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Stolen Field Case",
+    "candidates": [
+      "Shvach Peiros",
+      "Stolen Field Case",
+      "Problem with Levi",
+      "Levi Knew the Law",
+      "Ravad's Question",
+      "Dyed Wool Redux"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Stolen Field Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 spell out the shvach peiros scenario (robbed field, sold, enhanced, principal from liened property, enhancement from free property) which matches exactly the 'Stolen Field Case' prose.",
+      "second_heading": "Problem with Levi",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the question of whether the purchaser was an am ha'aretz (shogeg) and the Sages' response that he was a talmid chacham who knew the law, which matches exactly the 'Problem with Levi' prose discussion.",
+      "current_heading": "Stolen Field Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Dyed Wool Redux",
+    "candidates": [
+      "Problem with Levi",
+      "Levi Knew the Law",
+      "Ravad's Question",
+      "Dyed Wool Redux",
+      "Knas Only for Mezid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the proof that Rabbi Meir's knas applies only to mezid and not shogeg \u2014 exactly what heading 4 ('Knas Only for Mezid') describes, including the dyed wool case used to sharpen the question and the Gemara's conclusive 'shma mina' acceptance.",
+      "chosen_heading": "Knas Only for Mezid",
+      "current_heading": "Dyed Wool Redux",
+      "moved": true
+    }
+  }
+]

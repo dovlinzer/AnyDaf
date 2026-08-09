@@ -1,0 +1,472 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Annani Darshan",
+    "candidates": [
+      "Shavuos Post-Churban",
+      "Rav Annani Darshan",
+      "Ami & Sheshes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage includes both Rabbi Anani's teaching AND Rabbi Ami's angry reaction with his attribution to Rabbi Elazar/Rabbi Oshaya, which matches exactly the 'Ami & Sheshes' section prose that describes this complete scene together, whereas the current heading 'Rav Annani Darshan' only covers the teaching portion.",
+      "chosen_heading": "Ami & Sheshes",
+      "current_heading": "Rav Annani Darshan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Ami & Sheshes",
+    "candidates": [
+      "Rav Annani Darshan",
+      "Ami & Sheshes",
+      "Shavuos Tashlumin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yitz\u1e25ak Nappa\u1e25a teaching in the pavilion of the Exilarch and Rav Sheshet's angry attribution to Rabbi Elazar/Rabbi Oshaya, which is exactly what the 'Ami & Sheshes' prose section describes as the second parallel scene.",
+      "chosen_heading": "Ami & Sheshes",
+      "current_heading": "Ami & Sheshes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Shavuos Tashlumin",
+    "candidates": [
+      "Shavuos Tashlumin",
+      "Rosh Hashanah Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides the Rabbi Elazar/Rabbi Oshaya source about Shavuot tashlumin, which is precisely what the 'Shavuos Tashlumin' prose section discusses and analyzes.",
+      "chosen_heading": "Shavuos Tashlumin",
+      "current_heading": "Shavuos Tashlumin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rosh Hashanah Paradox",
+    "candidates": [
+      "Rosh Hashanah Paradox",
+      "Succos & Shemini",
+      "Chaviva Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Pappa/Rav Avya teaching about Rosh HaShana counting as fourteen days AND Ravina's extension to Sukkot/Shemini Atzeret, but since the essay splits these into separate sections and the passage is currently under 'Rosh Hashanah Paradox' which discusses exactly the Rav Pappa/Rav Avya ruling, while 'Succos & Shemini' discusses only Ravina's extension \u2014 yet the single passage contains both \u2014 the current placement under heading 0 is the best single home since the Rosh HaShana ruling is the primary content that introduces the principle, and the essay's prose for heading 0 explicitly discusses this exact teaching.",
+      "chosen_heading": "Rosh Hashanah Paradox",
+      "current_heading": "Rosh Hashanah Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Chaviva Challenge",
+    "candidates": [
+      "Succos & Shemini",
+      "Chaviva Challenge",
+      "Tosafos Analysis",
+      "Mishnah Ein Korin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Chaviva challenging Ravina about whether one day before Rosh Hashanah plus Rosh Hashanah counts as fourteen days, and Ravina's clarification that he spoke according to Rabban Gamliel's reasoning \u2014 exactly what the 'Chaviva Challenge' prose describes.",
+      "chosen_heading": "Chaviva Challenge",
+      "current_heading": "Chaviva Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Mishnah Ein Korin",
+    "candidates": [
+      "Tosafos Analysis",
+      "Mishnah Ein Korin",
+      "General vs. Chol Hamoed",
+      "Seudas Havraah",
+      "Two Readings",
+      "Braita Chacham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna 'ein korin v'lo choltzin v'ein mavrin' which the prose of candidate 1 explicitly introduces and analyzes in detail, matching the content perfectly.",
+      "chosen_heading": "Mishnah Ein Korin",
+      "current_heading": "Mishnah Ein Korin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Braita Chacham",
+    "candidates": [
+      "General vs. Chol Hamoed",
+      "Seudas Havraah",
+      "Two Readings",
+      "Braita Chacham",
+      "Keriah Chacham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's question 'v'afilu chacham?' and the baraita response 'chacham she-meis, hakol krovo,' which is precisely what the 'Braita Chacham' section's prose describes.",
+      "chosen_heading": "Braita Chacham",
+      "current_heading": "Braita Chacham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Keriah Chacham",
+    "candidates": [
+      "Keriah Chacham",
+      "Adam Kasher Theology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the baraita about everyone performing keriah, chalitzah, and havra'ah (the mourner's meal in the public square) for a Torah scholar, and the clarification that the mishna addresses cases where the deceased is not a Torah scholar \u2014 exactly what the 'Keriah Chacham' prose discusses.",
+      "chosen_heading": "Keriah Chacham",
+      "current_heading": "Keriah Chacham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Adam Kasher Theology",
+    "candidates": [
+      "Adam Kasher Theology",
+      "Forgiveness Benefit",
+      "Keriah at Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of the adam kasher baraita \u2014 the question about obligation to rend, the troubling formulation about children dying, and the pivot to retrospective punishment \u2014 which is precisely what the 'Adam Kasher Theology' prose discusses in detail.",
+      "chosen_heading": "Adam Kasher Theology",
+      "current_heading": "Adam Kasher Theology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Keriah at Death",
+    "candidates": [
+      "Forgiveness Benefit",
+      "Keriah at Death",
+      "Rav Safra Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-resolution exchange about being present at the moment of death (yetzias neshama), which is precisely what the 'Keriah at Death' prose section describes \u2014 the baraita about standing at the moment of death and the Mishnah's restriction applying to those not present at that moment.",
+      "chosen_heading": "Keriah at Death",
+      "current_heading": "Keriah at Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rav Safra Story",
+    "candidates": [
+      "Rav Safra Story",
+      "Hesped Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav Safra narrative \u2014 his death, the students' reasoning, and Abaye's two corrections \u2014 which is precisely what the 'Rav Safra Story' prose section discusses.",
+      "chosen_heading": "Rav Safra Story",
+      "current_heading": "Rav Safra Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Hesped Timing",
+    "candidates": [
+      "Hesped Timing",
+      "Sefer Torah Plan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the timing of keriah during hesped and Abaye's teaching that a scholar's honor is at his eulogy, which is exactly what the 'Hesped Timing' section prose describes.",
+      "chosen_heading": "Hesped Timing",
+      "current_heading": "Hesped Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Sefer Torah Plan",
+    "candidates": [
+      "Sefer Torah Plan",
+      "Torah Prohibition",
+      "Doorway Problem",
+      "Petach Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Chisda's objection and Rav Tachlifa's testimony about Rav Huna's practice of not sitting on a bed with a sefer Torah, which exactly matches the 'Torah Prohibition' section's prose about this specific incident and ruling.",
+      "chosen_heading": "Torah Prohibition",
+      "current_heading": "Sefer Torah Plan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Petach Requirement",
+    "candidates": [
+      "Torah Prohibition",
+      "Doorway Problem",
+      "Petach Requirement",
+      "Narrower Bed",
+      "First Bed Honor",
+      "Aron Wagon Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Chisda teaching that a scholar's honor requires exit through the main doorway (petach), which is exactly what the 'Petach Requirement' section's prose discusses.",
+      "chosen_heading": "Petach Requirement",
+      "current_heading": "Petach Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Aron Wagon Source",
+    "candidates": [
+      "Narrower Bed",
+      "First Bed Honor",
+      "Aron Wagon Source",
+      "Demolish Door",
+      "Abba Eulogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 the proposal to switch biers, Rav \u1e24isda's objection about the first-bier honor with its scriptural source, and the final demolition of the door \u2014 but the passage begins with the 'narrower bed' proposal (savur la-shunoyei mi-purya le-purya), making heading 0 the natural start point; however, since the passage is a single unit spanning multiple headings' content and must go under ONE heading, the 'Narrower Bed' heading (0) is where this combined passage logically begins and should be placed.",
+      "chosen_heading": "Narrower Bed",
+      "current_heading": "Aron Wagon Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Abba Eulogy",
+    "candidates": [
+      "Demolish Door",
+      "Abba Eulogy",
+      "Yechezkel Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abba's eulogy stating Rav Huna was worthy of the Shechina resting on him except for being in Bavel, which is exactly what the 'Abba Eulogy' prose describes.",
+      "chosen_heading": "Abba Eulogy",
+      "current_heading": "Abba Eulogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Yechezkel Challenge",
+    "candidates": [
+      "Yechezkel Challenge",
+      "No Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the challenge itself (Rav Na\u1e25man/\u1e24anan bar \u1e24isda raising the objection from Ezekiel 1:3), which is exactly what the 'Yechezkel Challenge' prose describes.",
+      "chosen_heading": "Yechezkel Challenge",
+      "current_heading": "Yechezkel Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "No Questions",
+    "candidates": [
+      "No Questions",
+      "Ami Assi Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the father tapping with his sandal and the resolution about Ezekiel's prophecy beginning in Eretz Yisrael, which directly matches the 'No Questions' prose discussion of the same scene.",
+      "chosen_heading": "No Questions",
+      "current_heading": "No Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Ami Assi Fear",
+    "candidates": [
+      "Ami Assi Fear",
+      "Coffin Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the moment Rabbi Ami and Rabbi Asi heard Rav Huna had arrived and expressed their awe of him, which is exactly what the 'Ami Assi Fear' prose discusses.",
+      "chosen_heading": "Ami Assi Fear",
+      "current_heading": "Ami Assi Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Coffin Clarified",
+    "candidates": [
+      "Coffin Clarified",
+      "Transport Dispute",
+      "Skeleton Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the announcement that the coffin has arrived and the immediate reactions of Rabbi Ami, Rabbi Asi, Rabbi Ila, and Rabbi Chanina \u2014 exactly what heading 0 'Coffin Clarified' discusses, before the subsequent analysis of who went out and why belongs under heading 1.",
+      "chosen_heading": "Coffin Clarified",
+      "current_heading": "Coffin Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Skeleton Status",
+    "candidates": [
+      "Transport Dispute",
+      "Skeleton Status",
+      "Cave Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the contradicting baraitot and their resolution via skeleton-intact distinction, which is precisely what the 'Skeleton Status' prose describes in detail.",
+      "chosen_heading": "Skeleton Status",
+      "current_heading": "Skeleton Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Cave Choice",
+    "candidates": [
+      "Cave Choice",
+      "Chaga Volunteer",
+      "Chaga Credentials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks where Rav Huna should be buried and reasons that both Rav Huna and Rabbi \u1e24iyya disseminated Torah in Israel, which is precisely what the 'Cave Choice' section's prose discusses.",
+      "chosen_heading": "Cave Choice",
+      "current_heading": "Cave Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Chaga Credentials",
+    "candidates": [
+      "Chaga Volunteer",
+      "Chaga Credentials",
+      "Sons Request",
+      "Fire Pillar",
+      "Punishment Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Chaga's volunteer offer AND his credentials in a single continuous unit, but the opening line 'Who will take him in? Rav Chaga said: I will take him in' corresponds exactly to the 'Chaga Volunteer' heading's prose, while the current placement under 'Chaga Credentials' only covers the second half \u2014 the entire passage as one unit better fits under heading 0 which introduces the volunteering, with the credentials being the explanation for why he volunteers.",
+      "chosen_heading": "Chaga Volunteer",
+      "current_heading": "Chaga Credentials",
+      "moved": true
+    }
+  }
+]

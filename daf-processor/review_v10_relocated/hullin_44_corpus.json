@@ -1,0 +1,347 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Anatomy Overview",
+      "Rav vs. Shmuel",
+      "Definition Tests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav/Shmuel dispute about mashehu vs. rubo and the makom shechita reasoning, which is exactly what the 'Rav vs. Shmuel' section's prose describes.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Definition Tests",
+    "candidates": [
+      "Definition Tests",
+      "Swallowing Place",
+      "Shechita Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the definition tests \u2014 Mari bar Mar Ukva/Shmuel's widening criterion, Rav Pappa's correction via Rav Bibi bar Abaye's contracting criterion \u2014 which is precisely what heading 0's prose discusses; the Yona/Zeira/Rav Avya material at the end belongs to heading 1's 'Swallowing Place' section, but since the entire passage must go under one heading and the majority of its content matches heading 0's definition-test discussion, and it currently sits there, the current placement is correct.",
+      "chosen_heading": "Definition Tests",
+      "current_heading": "Definition Tests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Shechita Case",
+    "candidates": [
+      "Swallowing Place",
+      "Shechita Case",
+      "Rava's Hybrid Ruling",
+      "Rabbi Abba's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rava's hybrid ruling applying the stringencies of both Rav and Shmuel, with the Gemara's challenge-and-response explanation \u2014 exactly what candidate 2's prose describes as 'chumray deRav vechumray deShmuel' and the subsequent Talmudic pressing of the contradictions.",
+      "chosen_heading": "Rava's Hybrid Ruling",
+      "current_heading": "Shechita Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rabbi Abba's Objection",
+    "candidates": [
+      "Rava's Hybrid Ruling",
+      "Rabbi Abba's Objection",
+      "Compensation Ruling",
+      "No Hybrid Leniencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abba declaring the bull permitted under both Rav and Shmuel's positions and directing that Rava pay the owner, which corresponds exactly to the 'Rabbi Abba's Objection' section's prose about Rabbi Abba's ruling and his reference to Rava as 'brei deRav Yosef bar Chama.'",
+      "chosen_heading": "Rabbi Abba's Objection",
+      "current_heading": "Rabbi Abba's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "No Hybrid Leniencies",
+    "candidates": [
+      "Compensation Ruling",
+      "No Hybrid Leniencies",
+      "Stringency Logic",
+      "Bat Kol Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about leniency-shopping (rasha) and stringency-shopping (fool walking in darkness) that candidate 1's prose explicitly describes in detail, making the current placement correct.",
+      "chosen_heading": "No Hybrid Leniencies",
+      "current_heading": "No Hybrid Leniencies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Bat Kol Resolution",
+    "candidates": [
+      "Stringency Logic",
+      "Bat Kol Resolution",
+      "Eliezer-Yehoshua",
+      "Bat Kol Role"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bat Kol Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the internal contradiction in the baraita between 'always follow Beit Hillel' and 'one may act like Beit Shammai if he wishes,' resolved by distinguishing before and after the bat kol \u2014 exactly what candidate 1 'Bat Kol Resolution' describes.",
+      "second_heading": "Eliezer-Yehoshua",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the alternative resolution via Rabbi Yehoshua's principle of disregarding a bat kol, which is precisely what candidate 2 'Eliezer-Yehoshua' discusses.",
+      "current_heading": "Bat Kol Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Bat Kol Role",
+    "candidates": [
+      "Eliezer-Yehoshua",
+      "Bat Kol Role",
+      "Upper Boundary",
+      "Lower Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the resolution of Rava's seemingly contradictory ruling \u2014 item 1 notes the difficulty and item 2 provides Rav Tavut's answer that Rava followed a single coherent tradition of Rav (via Rami bar Yechezkel), which is precisely what the 'Bat Kol Role' prose describes in its second half.",
+      "chosen_heading": "Bat Kol Role",
+      "current_heading": "Bat Kol Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Lower Boundary",
+    "candidates": [
+      "Upper Boundary",
+      "Lower Boundary",
+      "Stomach Sections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers BOTH the upper and lower boundaries in a single Gemara exchange, and the Upper Boundary section's prose explicitly addresses both directions ('how far the veshet extends in each direction'), making it the better home for the complete passage rather than splitting it under the Lower Boundary heading alone.",
+      "chosen_heading": "Upper Boundary",
+      "current_heading": "Lower Boundary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Stomach Sections",
+    "candidates": [
+      "Lower Boundary",
+      "Stomach Sections",
+      "Animal Variations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge and resolution regarding Ravina/Geneiva/Rav's statement about the handbreadth of gullet adjacent to the rumen being 'inner rumen,' including the textual emendation and the ox-specific qualification \u2014 exactly the content described in the 'Stomach Sections' prose.",
+      "chosen_heading": "Stomach Sections",
+      "current_heading": "Stomach Sections",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Animal Variations",
+    "candidates": [
+      "Animal Variations",
+      "Trachea Majority Rule",
+      "Measurement Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly discusses the turbatz detached from the jaw, ikur simanim, the distinction between peeling vs. yanking, and the majority-detachment rule \u2014 exactly the content of all six items in this passage.",
+      "chosen_heading": "Animal Variations",
+      "current_heading": "Animal Variations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Measurement Methods",
+    "candidates": [
+      "Trachea Majority Rule",
+      "Measurement Methods",
+      "Rav's Case",
+      "Rabbah's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's question and initial answer about how to measure the majority of a cut windpipe, which is precisely what candidate 0 ('Trachea Majority Rule') describes \u2014 the question 'kama psukat ha-gargeret? b'ruba' and then 'how do we measure majority?' \u2014 before the specific dispute between rov ovya and rov chalala is elaborated in candidate 1.",
+      "chosen_heading": "Trachea Majority Rule",
+      "current_heading": "Measurement Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rabbah's Ruling",
+    "candidates": [
+      "Rav's Case",
+      "Rabbah's Ruling",
+      "Non-Overriding Principle",
+      "No Ruling Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode in one \u2014 Rav examining with rov ovya, his students correcting him, and his sending it to Rabbah bar bar Chana who rules kosher and buys the meat \u2014 and this full narrative is precisely what the 'Rav's Case' prose introduces and describes, whereas it is currently split under 'Rabbah's Ruling' which only covers the latter half.",
+      "chosen_heading": "Rav's Case",
+      "current_heading": "Rabbah's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "No Ruling Exception",
+    "candidates": [
+      "Non-Overriding Principle",
+      "No Ruling Exception",
+      "Benefit from Psak",
+      "Yechezkel's Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's question (v'heichi avid hachi) and the baraita about not overriding another authority's ruling, which matches candidate 0's prose exactly, while candidate 1's prose covers only the answer (shani hacha) without the question and baraita citation.",
+      "chosen_heading": "Non-Overriding Principle",
+      "current_heading": "No Ruling Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Yechezkel's Standard",
+    "candidates": [
+      "Benefit from Psak",
+      "Yechezkel's Standard",
+      "Judgment vs. Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's invocation of Yechezkel's verse and the rabbinic parsing of its phrases (including the 'shelo achalti mibeheimah shehorah bah chacham' and Rav Natan's reading), which is precisely what heading 1 'Yechezkel's Standard' describes in its prose.",
+      "chosen_heading": "Yechezkel's Standard",
+      "current_heading": "Yechezkel's Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Judgment vs. Tradition",
+    "candidates": [
+      "Judgment vs. Tradition",
+      "Suspicion Concern",
+      "Rava's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly distinguishes rulings based on personal judgment (svara) from those based on received tradition (gemara), which is precisely what the 'Judgment vs. Tradition' section's prose discusses.",
+      "chosen_heading": "Judgment vs. Tradition",
+      "current_heading": "Judgment vs. Tradition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Rava's Defense",
+    "candidates": [
+      "Suspicion Concern",
+      "Rava's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the suspicion-based objection from the baraita, which belongs under 'Suspicion Concern' whose prose explicitly discusses this baraita and the 'distance from unseemliness' principle; Items 2 and 3 are the resolution (sold by weight) and the Rabba parallel story, which the 'Suspicion Concern' prose also covers as the continuation of that same topic, and the current placement under 'Rava's Defense' omits the opening objection that logically precedes the defense.",
+      "chosen_heading": "Suspicion Concern",
+      "current_heading": "Rava's Defense",
+      "moved": true
+    }
+  }
+]

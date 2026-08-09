@@ -1,0 +1,206 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rabbi Eliezer b. Yaakov",
+    "candidates": [
+      "Intro: Sheep Room",
+      "Rabbi Eliezer b. Yaakov",
+      "Perspective Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact phrase 'ella shema mina Rabbi Eliezer ben Yaakov hi, shema mina' which the prose under heading 1 explicitly quotes and discusses as the conclusion of the contradiction resolution between Middot and Tamid.",
+      "chosen_heading": "Rabbi Eliezer b. Yaakov",
+      "current_heading": "Rabbi Eliezer b. Yaakov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Perspective Solution",
+    "candidates": [
+      "Perspective Solution",
+      "Lechem HaPanim",
+      "Southwest & Clockwise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Adda son of Rav Yitzchak's perspective-based solution \u2014 that the chamber appeared north or south depending on the viewer's approach \u2014 which is precisely what the 'Perspective Solution' prose discusses.",
+      "chosen_heading": "Perspective Solution",
+      "current_heading": "Perspective Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Southwest & Clockwise",
+    "candidates": [
+      "Lechem HaPanim",
+      "Southwest & Clockwise",
+      "Kol Pinot Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara passage about the lechem hapanim contradiction and its resolution (raising the contradiction, Rav Huna's answer, and the proof that the room was in the southwest), which is precisely what the 'Lechem HaPanim' section's prose describes in detail.",
+      "chosen_heading": "Lechem HaPanim",
+      "current_heading": "Southwest & Clockwise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Kol Pinot Objection",
+    "candidates": [
+      "Southwest & Clockwise",
+      "Kol Pinot Objection",
+      "General Principle",
+      "Mishnah Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'kol pinot' objection and its answer (hani mili be'avoda / hushbana b'alma), which is precisely what the 'Kol Pinot Objection' section's prose describes.",
+      "chosen_heading": "Kol Pinot Objection",
+      "current_heading": "Kol Pinot Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Mishnah Examples",
+    "candidates": [
+      "General Principle",
+      "Mishnah Examples",
+      "Four/Five/Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose discusses: the baraita's elaboration on 'keitzad makriv chelek berosh' with the examples of 'olah zu ani makriv' and 'mincha zu ani makriv,' which is precisely what that section's prose describes.",
+      "chosen_heading": "Mishnah Examples",
+      "current_heading": "Mishnah Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Four/Five/Half",
+    "candidates": [
+      "Four/Five/Half",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the braita about how the kohen gadol takes his portion first, including the four/five shewbread loaves dispute and Rabbi Yehuda HaNasi's 'always five' position based on the half-to-Aaron principle, which is precisely what section 0's prose discusses.",
+      "chosen_heading": "Four/Five/Half",
+      "current_heading": "Four/Five/Half",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Braita Contradiction",
+      "Abaye's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the internal contradiction of the baraita (reisha/metzi'ata/seifa analysis) which is exactly what the 'Braita Contradiction' section's prose describes.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Abaye's Reading",
+    "candidates": [
+      "Abaye's Reading",
+      "Why 4 or 5"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye's statement about the first and middle clauses reflecting the Rabbis' position and the concession regarding giving a piece to the High Priest, which matches exactly the prose discussion in 'Abaye's Reading.'",
+      "chosen_heading": "Abaye's Reading",
+      "current_heading": "Abaye's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Why 4 or 5",
+    "candidates": [
+      "Why 4 or 5",
+      "Rava's Reading",
+      "Mishmar HaMitakev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items explain exactly the four-or-five question by working through the Rabbis' and Rabbi Yehuda's positions on the loaf pool, which is precisely what the 'Why 4 or 5' prose section describes.",
+      "chosen_heading": "Why 4 or 5",
+      "current_heading": "Why 4 or 5",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Mishmar HaMitakev",
+    "candidates": [
+      "Rava's Reading",
+      "Mishmar HaMitakev",
+      "Rebbi vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are Rava's alternative reading of the baraita \u2014 his initial proposal, the lo kashya resolution via mishmar ha-mitakev, the arithmetic worked out, and the final kashya \u2014 which is precisely what heading 0 ('Rava's Reading') describes in its prose, while heading 1 merely elaborates the background concept of mishmar ha-mitakev that the gemara invokes within Rava's argument.",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Mishmar HaMitakev",
+      "moved": true
+    }
+  }
+]

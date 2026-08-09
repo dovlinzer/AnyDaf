@@ -1,0 +1,660 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rachamei Concept",
+    "candidates": [
+      "Maggid Conclusion",
+      "Ga'al vs. Go'el",
+      "Participial Form",
+      "Rachamei Concept",
+      "Exodus in Kiddush",
+      "Two Pesukim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage from Rabbi Zeira explicitly contrasts the past-tense formula of Kiddush with the future-tense petition of Shemoneh Esrei, explaining it as 'rachamei' (supplication), which is precisely what the 'Rachamei Concept' section's prose describes and quotes.",
+      "chosen_heading": "Rachamei Concept",
+      "current_heading": "Rachamei Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Two Pesukim",
+    "candidates": [
+      "Exodus in Kiddush",
+      "Two Pesukim",
+      "Gematria Atbash",
+      "Beyond Shabbat",
+      "Kiddush Formulation",
+      "Redemption Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav A\u1e25a bar Ya'akov's ruling that one must mention the exodus in Kiddush, which is exactly what heading 0 ('Exodus in Kiddush') is about, while heading 1 ('Two Pesukim') discusses the derivation from the two verses \u2014 a topic that follows the ruling itself.",
+      "chosen_heading": "Exodus in Kiddush",
+      "current_heading": "Two Pesukim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Redemption Language",
+    "candidates": [
+      "Gematria Atbash",
+      "Beyond Shabbat",
+      "Kiddush Formulation",
+      "Redemption Language",
+      "Haftarah Blessings",
+      "Magen David"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabba bar Sheila's statement about 'matzmiach keren yeshuah' vs 'Magen David,' which is exactly what the 'Kiddush Formulation' section's prose introduces and explains.",
+      "chosen_heading": "Kiddush Formulation",
+      "current_heading": "Redemption Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Magen David",
+    "candidates": [
+      "Haftarah Blessings",
+      "Magen David",
+      "Three Patriarchs",
+      "Fulfilled Promises",
+      "Avraham Singular"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yosef's teaching linking 've'asiti lecha shem gadol' to the phrase 'Magen David,' which is precisely what the 'Magen David' section's prose describes.",
+      "chosen_heading": "Magen David",
+      "current_heading": "Magen David",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Avraham Singular",
+    "candidates": [
+      "Three Patriarchs",
+      "Fulfilled Promises",
+      "Avraham Singular",
+      "Pumbedita Elders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rabbi Shimon ben Lakish's teaching about the three patriarchs in the Amida (item 1) and the conclusion with Avraham alone (item 2), which is precisely the content summarized in candidate 0's prose about ve'esecha/Elohei Avraham, u'varechecha/Elohei Yitzchak, u'gadlah shemecha/Elohei Yaakov \u2014 the current placement under 'Avraham Singular' is wrong because that section's prose discusses the conclusion blessing, while the primary topic of these items is the three-patriarch correspondence that belongs under 'Three Patriarchs'.",
+      "chosen_heading": "Three Patriarchs",
+      "current_heading": "Avraham Singular",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Pumbedita Elders",
+    "candidates": [
+      "Avraham Singular",
+      "Pumbedita Elders",
+      "Rava's Reasoning",
+      "Intrinsic Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's account of finding the Pumbedita elders and their ruling, along with his counter-position, which is precisely what heading 1 ('Pumbedita Elders') introduces in its prose.",
+      "chosen_heading": "Pumbedita Elders",
+      "current_heading": "Pumbedita Elders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Intrinsic Nature",
+    "candidates": [
+      "Rava's Reasoning",
+      "Intrinsic Nature",
+      "Community Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents both rationales (ta'ama did'khu and ta'ama didi), but the quoted Aramaic text here focuses specifically on ta'ama did'khu \u2014 the Pumbedita elders' reasoning about Shabbat being fixed and Israel establishing the Festivals \u2014 which is exactly what the 'Intrinsic Nature' prose section (index 1) discusses, matching the current placement.",
+      "chosen_heading": "Intrinsic Nature",
+      "current_heading": "Intrinsic Nature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Community Context",
+    "candidates": [
+      "Community Context",
+      "Individual Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's own reasoning (ta'ama didi) distinguishing public prayer from private kiddush, which is exactly what the 'Community Context' prose discusses and elaborates upon.",
+      "chosen_heading": "Community Context",
+      "current_heading": "Community Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Individual Prayer",
+    "candidates": [
+      "Individual Prayer",
+      "Practical Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's rejection of Rava's public/private distinction and his 'follow the main practice' response, which is precisely what the 'Individual Prayer' section's prose describes.",
+      "chosen_heading": "Individual Prayer",
+      "current_heading": "Individual Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Practical Evidence",
+    "candidates": [
+      "Practical Evidence",
+      "Marimar Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ulla bar Rav and Rav Natan praying before Rava and Rav Pappa respectively using the Pumbedita formula without objection, which is exactly what the 'Practical Evidence' section's prose discusses in detail.",
+      "chosen_heading": "Practical Evidence",
+      "current_heading": "Practical Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Marimar Ruling",
+    "candidates": [
+      "Marimar Ruling",
+      "Nuschaot Variance",
+      "Text Crystallization",
+      "Variants Parameters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's account of Mareimar ruling that the halakha follows the elders of Pumbedita, which directly matches the 'Marimar Ruling' section's prose discussion of this exact episode.",
+      "chosen_heading": "Marimar Ruling",
+      "current_heading": "Marimar Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Variants Parameters",
+    "candidates": [
+      "Nuschaot Variance",
+      "Text Crystallization",
+      "Variants Parameters",
+      "Oseh Hashalom",
+      "Cup Pouring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly concern the structure of the arba kosot \u2014 the third cup with Birkat Hamazon and the fourth cup with Hallel \u2014 which is precisely what the 'Cup Pouring' section's prose discusses.",
+      "chosen_heading": "Cup Pouring",
+      "current_heading": "Variants Parameters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Cup Pouring",
+    "candidates": [
+      "Oseh Hashalom",
+      "Cup Pouring",
+      "Inter-Cup Drinking",
+      "Hamazon Cup",
+      "Hallel End",
+      "Blessing Debate",
+      "Internal Impetus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly states the mishna's ruling about the fourth cup \u2014 completing Hallel and reciting Birkat Hashir over it \u2014 which matches exactly the prose of heading 4 ('Hallel End'), whereas the current placement (heading 1, 'Cup Pouring') discusses the broader structure of the arba kosot in the mishnah.",
+      "chosen_heading": "Hallel End",
+      "current_heading": "Cup Pouring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Internal Impetus",
+    "candidates": [
+      "Inter-Cup Drinking",
+      "Hamazon Cup",
+      "Hallel End",
+      "Blessing Debate",
+      "Internal Impetus",
+      "Ending Formula",
+      "Why Explicit",
+      "Begin Without",
+      "Ritual Transition",
+      "Nishmat Alt",
+      "Dual Endings",
+      "Nuschaot Variance",
+      "Minhag Variance",
+      "Second Hallel",
+      "Alt Texts",
+      "Extent Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses 'Mai Birchat Hashir' \u2014 what the blessing of song is \u2014 with Rav Yehuda saying Yehallelucha and Rabbi Yochanan saying Nishmas Kol Chai, plus the baraita about Rabbi Tarfon and the fourth cup completing Hallel, which precisely matches the prose of 'Blessing Debate' (index 3) that discusses these exact opinions and texts.",
+      "chosen_heading": "Blessing Debate",
+      "current_heading": "Internal Impetus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Extent Views",
+    "candidates": [
+      "Ending Formula",
+      "Why Explicit",
+      "Begin Without",
+      "Ritual Transition",
+      "Nishmat Alt",
+      "Dual Endings",
+      "Nuschaot Variance",
+      "Minhag Variance",
+      "Second Hallel",
+      "Alt Texts",
+      "Extent Views",
+      "Greatness Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage directly discusses the debate about where Hallel HaGadol begins and ends (Rabbi Yehuda, Rabbi Yochanan, Rav Acha bar Yaakov), which is precisely what the 'Extent Views' section prose describes.",
+      "chosen_heading": "Extent Views",
+      "current_heading": "Extent Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Greatness Name",
+    "candidates": [
+      "Greatness Name",
+      "26 Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why it is called the 'great Hallel' and Rabbi Yo\u1e25anan's answer about God dispensing food from the heights, which is precisely what the 'Greatness Name' section's prose discusses.",
+      "chosen_heading": "Greatness Name",
+      "current_heading": "Greatness Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "26 Times",
+    "candidates": [
+      "26 Times",
+      "Provision Theme",
+      "Debt Repayment",
+      "Mercy Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yehoshua ben Levi's teaching about the twenty-six 'hodu' refrains corresponding to twenty-six generations before Torah, sustained by God's chesed \u2014 exactly what the '26 Times' section prose describes.",
+      "chosen_heading": "26 Times",
+      "current_heading": "26 Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Mercy Examples",
+    "candidates": [
+      "Provision Theme",
+      "Debt Repayment",
+      "Mercy Examples",
+      "Chesed Reinterpret",
+      "Chazal Affirm",
+      "Twice Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav \u1e24isda's teaching about God collecting a person's debt using what He gave them, which is precisely what the 'Debt Repayment' section's prose introduces and discusses, while the current placement under 'Mercy Examples' actually belongs to the prose elaborating on the specific examples (ox, sheep, egg, chicken) that follow the teaching.",
+      "chosen_heading": "Debt Repayment",
+      "current_heading": "Mercy Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Twice Difficulty",
+    "candidates": [
+      "Chesed Reinterpret",
+      "Chazal Affirm",
+      "Twice Difficulty",
+      "Harder Geula",
+      "Angel vs. God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yo\u1e25anan's statement that earning a livelihood is twice as difficult as childbirth, derived from the textual comparison of 'be'etzev' vs 'be'itzavon,' which is exactly what the 'Twice Difficulty' section's prose describes.",
+      "chosen_heading": "Twice Difficulty",
+      "current_heading": "Twice Difficulty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Angel vs. God",
+    "candidates": [
+      "Harder Geula",
+      "Angel vs. God",
+      "Bodily Functions",
+      "Labor Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces Rabbi Yochanan's statement that sustenance is harder than redemption, which is the core claim that heading 0 ('Harder Geula') discusses, while heading 1 ('Angel vs. God') covers the textual proof that follows \u2014 however, since the passage contains both the statement and its proof in one unit, heading 0 is the better fit as it captures the primary claim being made.",
+      "chosen_heading": "Harder Geula",
+      "current_heading": "Angel vs. God",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Labor Curse",
+    "candidates": [
+      "Bodily Functions",
+      "Labor Curse",
+      "Dignity Work",
+      "Animal vs. Human"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Adam's tearful reaction to the curse of thorns/thistles and his reassurance upon hearing the bread-through-labor verse, which is exactly what the 'Labor Curse' section's prose discusses.",
+      "chosen_heading": "Labor Curse",
+      "current_heading": "Labor Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Animal vs. Human",
+    "candidates": [
+      "Dignity Work",
+      "Animal vs. Human",
+      "Seder Transition",
+      "Holiday Honor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Resh Lakish saying 'we would have been fortunate had we remained under the first decree' \u2014 which directly matches candidate 0's prose discussing *ashreinu im amadnu barishonah* and the hardship of labor, not candidate 1's philosophical point about human vs. animal food consumption.",
+      "chosen_heading": "Dignity Work",
+      "current_heading": "Animal vs. Human",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161,
+      162
+    ],
+    "current_heading": "Holiday Honor",
+    "candidates": [
+      "Seder Transition",
+      "Holiday Honor",
+      "Lashon Hara"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Seder Transition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the difficulty of parnassah and bodily relief compared to the splitting of the Red Sea, directly matching the 'Seder Transition' prose about parnassah being kashe mikri'at Yam Suf and the connection to yetziat Mitzrayim.",
+      "second_heading": "Holiday Honor",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses disparaging the Festivals being equivalent to idol worship, which precisely matches the 'Holiday Honor' prose describing the same teaching of Rav Sheshet citing Rabbi Elazar ben Azarya with the same verse juxtaposition.",
+      "current_heading": "Holiday Honor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Lashon Hara",
+    "candidates": [
+      "Lashon Hara",
+      "Both Contain",
+      "Five Three",
+      "Five Topics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about lashon hara, false testimony, and the derivation from the verses about dogs and false reports, which matches exactly the prose under heading 0 'Lashon Hara'.",
+      "chosen_heading": "Lashon Hara",
+      "current_heading": "Lashon Hara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Five Topics",
+    "candidates": [
+      "Both Contain",
+      "Five Three",
+      "Five Topics",
+      "Topic Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the Gemara's question of why we recite the standard Hallel given that Hallel HaGadol exists, and answers that the standard Hallel contains five important matters \u2014 this matches heading 0's prose which frames exactly this question, while the current placement (heading 2) only describes the five topics without the question-and-answer framing that is the passage's primary content.",
+      "chosen_heading": "Both Contain",
+      "current_heading": "Five Topics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      176
+    ],
+    "current_heading": "Topic Sources",
+    "candidates": [
+      "Five Topics",
+      "Topic Sources",
+      "Context Diff",
+      "Lo Lanu Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage provides the exact scriptural sources for each topic of Hallel HaMitzri, matching perfectly with the 'Topic Sources' section prose which describes the same verses and their interpretations.",
+      "chosen_heading": "Topic Sources",
+      "current_heading": "Topic Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      182
+    ],
+    "current_heading": "Lo Lanu Intro",
+    "candidates": [
+      "Context Diff",
+      "Lo Lanu Intro",
+      "Gog Magog",
+      "Righteous Saved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces both interpretations (shiabud malkhuyot and milchemes Gog u-Magog) as alternatives within one gemara unit, and the 'Lo Lanu Intro' prose explicitly references the gemara identifying lo lanu as chevlo shel Moshiach, making it the correct home for the full quoted passage before the essay separates the two opinions into subsequent sections.",
+      "chosen_heading": "Lo Lanu Intro",
+      "current_heading": "Lo Lanu Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      187
+    ],
+    "current_heading": "Righteous Saved",
+    "candidates": [
+      "Gog Magog",
+      "Righteous Saved",
+      "Three Youths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the statements of Rav Na\u1e25man bar Yitz\u1e25ak about deliverance of souls from Gehenna and \u1e24izkiya about the fiery furnace, which is precisely what the 'Righteous Saved' section prose describes.",
+      "chosen_heading": "Righteous Saved",
+      "current_heading": "Righteous Saved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      190,
+      191
+    ],
+    "current_heading": "Three Youths",
+    "candidates": [
+      "Three Youths",
+      "Nimrod Story",
+      "Singular Save",
+      "Three Saved",
+      "Furnace Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe Hananiah, Mishael, and Azariah reciting verses of hallel \u2014 first their descent/prayer before the ordeal and then their ascent/praise after the furnace miracle \u2014 which is precisely what the 'Three Youths' prose section describes.",
+      "chosen_heading": "Three Youths",
+      "current_heading": "Three Youths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      201,
+      202,
+      203
+    ],
+    "current_heading": "Furnace Miracle",
+    "candidates": [
+      "Nimrod Story",
+      "Singular Save",
+      "Three Saved",
+      "Furnace Miracle",
+      "Double Miracle",
+      "Promise Fulfil"
+    ],
+    "result": null
+  }
+]

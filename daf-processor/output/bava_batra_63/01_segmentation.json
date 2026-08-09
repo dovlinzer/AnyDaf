@@ -29,7 +29,7 @@
           "timestamp": "03:56"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -58,7 +58,7 @@
           "timestamp": "10:53"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": false
     },
     {
@@ -368,5 +368,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "46:26",
+  "amud_b_micro_title": "Zizin Rights",
+  "shiur_start_daf": 63,
+  "shiur_start_amud": "a"
 }

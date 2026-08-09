@@ -1,0 +1,237 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Five Forms of Worship",
+    "candidates": [
+      "Overview & Acceptance",
+      "Five Forms of Worship",
+      "Source & Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Five Forms of Worship' prose: Rabbi Yirmiyah's enumeration of the five acts of worship (item 1) and Abaye's explanation that sprinkling is subsumed under libation (item 2) are both explicitly discussed there.",
+      "chosen_heading": "Five Forms of Worship",
+      "current_heading": "Five Forms of Worship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Source & Derivation",
+    "candidates": [
+      "Source & Derivation",
+      "Counterfactual Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the scriptural derivation from Exodus 22:19 \u2014 the baraita establishing slaughter to idols as the base case and extending liability via 'except to the Lord alone' \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Source & Derivation",
+      "current_heading": "Source & Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Counterfactual Setup",
+    "candidates": [
+      "Counterfactual Setup",
+      "Machshavim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the baraita explaining why zevichah is singled out as the paradigm, how hishtachavah enters via Devarim, its punishment and prohibition, and the exclusion of hugging/kissing \u2014 exactly the content described in the 'Counterfactual Setup' prose.",
+      "chosen_heading": "Counterfactual Setup",
+      "current_heading": "Counterfactual Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Machshavim Debate",
+    "candidates": [
+      "Machshavim Debate",
+      "Mountain & Peor",
+      "Eichah Ye'avdu Phrase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items deal with the machshavim me'avodah le'avodah debate \u2014 the question of whether bowing or slaughter is the paradigm, the challenge from Rava bar Rav \u1e24anan, the Rabbi Yochanan/Reish Lakish dispute about slaughtering with intent to use blood for idol worship, and the objections of Rav Pappa and Rav Acha son of Rav Ika \u2014 exactly the content described in the 'Machshavim Debate' prose.",
+      "chosen_heading": "Machshavim Debate",
+      "current_heading": "Machshavim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Eichah Ye'avdu Phrase",
+    "candidates": [
+      "Mountain & Peor",
+      "Eichah Ye'avdu Phrase",
+      "Rabba's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a continuous chain discussing the implications of Rava bar Rav \u1e24anan's position regarding bowing as the paradigm, the role of 'eicha ya'avdu' to exclude defecating before Mercury, Rabbi Eliezer's derivation about sacrificing to Mercury, and the resolution via 'le'hach'is' \u2014 all of which are explicitly described in the prose of candidate 1.",
+      "chosen_heading": "Eichah Ye'avdu Phrase",
+      "current_heading": "Eichah Ye'avdu Phrase",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rabba's Question",
+    "candidates": [
+      "Rabba's Question",
+      "Acceptance Principle",
+      "Rav Yosef's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the contradiction between the two mishnayot and Rav Hamnuna's resolution (eini mekabla alai ela ba'avodah), which is precisely what heading 0 'Rabba's Question' describes \u2014 the tension between the two mishnayot and the initial answer.",
+      "chosen_heading": "Rabba's Question",
+      "current_heading": "Rabba's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rav Yosef's Answer",
+    "candidates": [
+      "Acceptance Principle",
+      "Rav Yosef's Answer",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items constitute Rav Yosef's resolution \u2014 his initial tanna'im answer, his retraction, the individual vs. multitude distinction, and his proof-text from Devarim \u2014 exactly matching the prose of candidate 1 ('Rav Yosef's Answer').",
+      "chosen_heading": "Rav Yosef's Answer",
+      "current_heading": "Rav Yosef's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute Abaye's objection to Rav Yosef \u2014 the baraita citation, its two distinctions (individual vs. multitude regarding body and property), and Abaye's conclusion that only those distinctions exist \u2014 which matches exactly the prose under 'Abaye's Challenge.'",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Rav Ashi's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are Rava's answer and its prooftexts \u2014 items 1-2 are Abaye's resolution (which Rava is contrasting with), items 3-5 are Rava's own distinction and his derivation from Deuteronomy 13:7-8, all of which are explicitly discussed in the 'Rava's Answer' prose.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Rav Ashi's Answer",
+    "candidates": [
+      "Rav Ashi's Answer",
+      "Ravina's Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi's Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's answer, which belongs under 'Rav Ashi's Answer' where the prose explicitly discusses his resolution involving the apostate Jew (mumar).",
+      "second_heading": "Ravina's Answer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravina's answer, which belongs under 'Ravina's Answer' where the prose explicitly discusses his lo zu af zu resolution rejecting any contradiction between the mishnayot.",
+      "current_heading": "Rav Ashi's Answer",
+      "moved": true
+    }
+  }
+]

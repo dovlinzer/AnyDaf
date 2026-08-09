@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The General Rule (Ze Haklal): Beginning and End Must Be Unintentional",
@@ -125,7 +125,7 @@
           "timestamp": "17:53"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -202,8 +202,8 @@
           "timestamp": "31:08"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Machshava Meshvia Makom: Intent Makes Non-Standard Places Significant",
@@ -221,7 +221,7 @@
           "timestamp": "32:55"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -245,7 +245,7 @@
           "timestamp": "35:11"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -275,7 +275,7 @@
         }
       ],
       "sefaria_index": 13,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Gemara on Kol Shehu in Building: Examples From Mishkan and Daily Life",
@@ -332,7 +332,7 @@
           "timestamp": "48:34"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -622,5 +622,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "39:11",
+  "amud_b_micro_title": "Rabban Shimon",
+  "shiur_start_daf": 102,
+  "shiur_start_amud": "a"
 }

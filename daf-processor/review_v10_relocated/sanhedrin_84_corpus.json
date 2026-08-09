@@ -1,0 +1,253 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Yechezkel Source",
+    "candidates": [
+      "Pinchas & Kaneim",
+      "Mitat Bidi Shamayim",
+      "Arel, Onen, Yoshev",
+      "Yechezkel Source",
+      "Arel as Lav",
+      "Onen Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rav \u1e24isda's statement that the prohibition against an uncircumcised priest is derived from Yechezkel rather than the Torah of Moshe, and the verse from Ezekiel 44:9 \u2014 which is precisely what candidate 3 ('Yechezkel Source') discusses in its prose.",
+      "chosen_heading": "Yechezkel Source",
+      "current_heading": "Yechezkel Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Onen Source",
+    "candidates": [
+      "Arel as Lav",
+      "Onen Source",
+      "Chilul from Teruma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly derives the onen prohibition from the verse about the kohen gadol not leaving the Temple, which is precisely what the 'Onen Source' section's prose describes.",
+      "chosen_heading": "Onen Source",
+      "current_heading": "Onen Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Chilul from Teruma",
+    "candidates": [
+      "Chilul from Teruma",
+      "Chilul Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Adda's question to Rava proposing the gezeira shava of chilul-chilul from teruma, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Chilul from Teruma",
+      "current_heading": "Chilul from Teruma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Chilul Limitation",
+    "candidates": [
+      "Chilul Limitation",
+      "Standing Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that chilul derived by inference (miklal) cannot serve as the basis for a gezeira shava, which is precisely what the 'Chilul Limitation' prose section discusses.",
+      "chosen_heading": "Chilul Limitation",
+      "current_heading": "Chilul Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Standing Requirement",
+    "candidates": [
+      "Standing Requirement",
+      "Yoshev as Lav",
+      "Rebbi's View",
+      "Final Chapters",
+      "Bavli vs Yerushalmi",
+      "Chanuk Default",
+      "Chanuk List",
+      "Bas Kohen",
+      "Blemish Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives the prohibition against seated Temple service from the verse 'la'amod l'sharets,' which is precisely what the 'Standing Requirement' section's prose discusses \u2014 Rava citing Rav Nachman on the mandate for amida posture during avoda.",
+      "chosen_heading": "Standing Requirement",
+      "current_heading": "Standing Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Blemish Source",
+    "candidates": [
+      "Yoshev as Lav",
+      "Rebbi's View",
+      "Final Chapters",
+      "Bavli vs Yerushalmi",
+      "Chanuk Default",
+      "Chanuk List",
+      "Bas Kohen",
+      "Blemish Source",
+      "Psul HaGuf",
+      "Chachamim View",
+      "Rebbi on Me'ilah",
+      "Cheit Comparison",
+      "Chachamim Exclude",
+      "Yishmael vs Akiva",
+      "Adas Korach",
+      "False Prophet",
+      "Skila vs Chenek",
+      "Three Opinions",
+      "Source",
+      "Makeh Not Killing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents Rebbi's position on baal mum and his gezeira shava of chilul-chilul from teruma, which is exactly what candidate 7 ('Blemish Source') describes in its prose.",
+      "chosen_heading": "Blemish Source",
+      "current_heading": "Blemish Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Makeh Not Killing",
+    "candidates": [
+      "Psul HaGuf",
+      "Chachamim View",
+      "Rebbi on Me'ilah",
+      "Cheit Comparison",
+      "Chachamim Exclude",
+      "Yishmael vs Akiva",
+      "Adas Korach",
+      "False Prophet",
+      "Skila vs Chenek",
+      "Three Opinions",
+      "Source",
+      "Makeh Not Killing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Psul HaGuf",
+      "first_confidence": "low",
+      "first_reason": "Items 1-6 cover baal mum and me'ila disputes which span headings 0-4, with 'Psul HaGuf' being the closest starting match for this block.",
+      "second_heading": "Three Opinions",
+      "second_confidence": "high",
+      "second_reason": "Items 7-12 cover the complete zar sheshimesh dispute including the trei tanna'ei resolution and closing hadran, exactly matching the 'Three Opinions' section prose.",
+      "current_heading": "Makeh Not Killing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Makeh Not Killing",
+    "candidates": [
+      "Makeh Not Killing",
+      "Animal Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Gemara discussion about whether 'striking' (makeh) a parent requires killing them, matching exactly the prose of heading 0 ('Makeh Not Killing') which describes the same objection, the chenek/sayif severity debate, and the resolution from 'makeh ish ve-meit' and 'hikahu be-yado va-yamut'.",
+      "chosen_heading": "Makeh Not Killing",
+      "current_heading": "Makeh Not Killing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Animal Comparison",
+    "candidates": [
+      "Animal Comparison",
+      "Refuah Exception",
+      "Bloodletting"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Bloodletting",
+    "candidates": [
+      "Refuah Exception",
+      "Bloodletting",
+      "Accidental Wounding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the concern about accidentally wounding someone (shiggas lav / shiggas chenek) during an incidental beneficial act like extracting a thorn or piercing a blister \u2014 precisely the topic of 'Accidental Wounding' prose, which explicitly discusses shiggas lav arising from unintended chabura during beneficial acts like splinter removal.",
+      "chosen_heading": "Accidental Wounding",
+      "current_heading": "Bloodletting",
+      "moved": true
+    }
+  }
+]

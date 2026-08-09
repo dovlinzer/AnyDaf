@@ -53,8 +53,8 @@
           "timestamp": "06:27"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Conceptual Basis for Tzibbur Obligation: Corporate Sin vs. Individual Sin through Ruling",
@@ -73,7 +73,7 @@
         }
       ],
       "sefaria_index": 1,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Who Brings the Korban: Dispute Between Rebbi Meir and Rebbi Yehuda on Beis Din vs. Tzibbur Responsibility (continued)",
@@ -91,7 +91,7 @@
           "timestamp": "10:24"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -106,7 +106,7 @@
         }
       ],
       "sefaria_index": 1,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Gemara's Exploration: Secondary Responsibility of Tribes That Did Not Sin (continued)",
@@ -257,7 +257,7 @@
           "timestamp": "35:39"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -300,7 +300,7 @@
           "timestamp": "47:45"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -314,8 +314,8 @@
           "timestamp": "46:33"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Rebbi Shimon's Position on Single Tribe with Central Court Ruling",
@@ -569,5 +569,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 12,
+  "amud_b_timestamp": "35:39",
+  "amud_b_micro_title": "Six or Seven",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "a"
 }

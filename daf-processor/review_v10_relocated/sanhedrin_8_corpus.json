@@ -1,0 +1,448 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Fear of Judgment",
+    "candidates": [
+      "Truth Brings Shechinah",
+      "Judge Perverts Justice",
+      "Unjust Judgment Fatal",
+      "Fear of Judgment",
+      "Morning Clarity Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the verse about Solomon's bed and sixty mighty men with swords at their thighs due to 'dread in the night,' interpreting it as fear of Gehenna which resembles night \u2014 exactly the prooftext and interpretation described in the 'Fear of Judgment' section's prose.",
+      "chosen_heading": "Fear of Judgment",
+      "current_heading": "Fear of Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Morning Clarity Test",
+    "candidates": [
+      "Morning Clarity Test",
+      "Certainty vs. Practice",
+      "Wisdom Sister Analogy",
+      "Ten Judges Yoke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Yoshiya/Rav Nachman bar Yitzchak morning clarity exposition AND the Rabbi Chiyya bar Abba/Rabbi Yonatan sister analogy as a single Talmudic unit, and the current heading's prose explicitly covers both teachings together, making it the best match.",
+      "chosen_heading": "Morning Clarity Test",
+      "current_heading": "Morning Clarity Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Ten Judges Yoke",
+    "candidates": [
+      "Certainty vs. Practice",
+      "Wisdom Sister Analogy",
+      "Ten Judges Yoke",
+      "Rav Huna Ten Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly teaches the principle that ten judges share responsibility and extends it to a student sitting before his teacher, which is precisely what the 'Ten Judges Yoke' prose discusses.",
+      "chosen_heading": "Ten Judges Yoke",
+      "current_heading": "Ten Judges Yoke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Huna Ten Rabbis",
+    "candidates": [
+      "Rav Huna Ten Rabbis",
+      "Consulted Slaughterers",
+      "King vs. Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the Rav Huna and Rav Ashi examples together in one Talmudic unit, and the current heading 'Rav Huna Ten Rabbis' with its prose explicitly covers both examples (noting Rav Ashi as a 'complementary application'), making it the correct placement for this combined passage.",
+      "chosen_heading": "Rav Huna Ten Rabbis",
+      "current_heading": "Rav Huna Ten Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "King vs. Kohen",
+    "candidates": [
+      "Consulted Slaughterers",
+      "King vs. Kohen",
+      "Empty Vessel Judge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav Dimi/Rav Na\u1e25man bar Kohen teaching about the king vs. priest metaphor, which is precisely what the 'King vs. Kohen' section's prose discusses in detail.",
+      "chosen_heading": "King vs. Kohen",
+      "current_heading": "King vs. Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Empty Vessel Judge",
+    "candidates": [
+      "Empty Vessel Judge",
+      "Unfit Judge Idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the episode of the incompetent appointed judge and Yehuda bar Na\u1e25mani's improvised public condemnation, which is exactly what candidate 0's prose narrates in detail.",
+      "chosen_heading": "Empty Vessel Judge",
+      "current_heading": "Empty Vessel Judge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Unfit Judge Idolatry",
+    "candidates": [
+      "Unfit Judge Idolatry",
+      "Against the Altar",
+      "Gods of Silver/Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's statement about planting an asherah (covered in heading 0's prose) and Rav Ashi's addition about Torah scholars/the altar (covered in heading 1's prose), but since the entire Talmudic excerpt is one continuous unit and heading 0's prose explicitly discusses both the Reish Lakish teaching and the semichus connection while heading 1 separately elaborates on Rav Ashi's addition, the passage as a whole sits most naturally under heading 0 where it currently resides, as that heading's prose encompasses the full quoted text.",
+      "chosen_heading": "Unfit Judge Idolatry",
+      "current_heading": "Unfit Judge Idolatry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Gods of Silver/Gold",
+    "candidates": [
+      "Against the Altar",
+      "Gods of Silver/Gold",
+      "Rav's Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's discussion of 'gods of silver and gods of gold' and Rav Ashi's interpretation, which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "Gods of Silver/Gold",
+      "current_heading": "Gods of Silver/Gold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rav's Declaration",
+    "candidates": [
+      "Rav's Declaration",
+      "Heaven & Dung",
+      "Mar Zutra Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav's declaration when coming to court, which directly matches the prose of candidate 0 ('Rav's Declaration') that explicates exactly this text word by word.",
+      "chosen_heading": "Rav's Declaration",
+      "current_heading": "Rav's Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Mar Zutra Humility",
+    "candidates": [
+      "Heaven & Dung",
+      "Mar Zutra Humility",
+      "No Steps in Justice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the Rav/convoy/dung quote AND the Mar Zutra quote as a single Talmudic unit, and heading 0 ('Heaven & Dung') is the section whose prose introduces Rav seeing the convoy and reciting the Job verse \u2014 the Mar Zutra passage follows immediately in the same Gemara sugya and belongs together with it under that heading.",
+      "chosen_heading": "Heaven & Dung",
+      "current_heading": "Mar Zutra Humility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "No Steps in Justice",
+    "candidates": [
+      "Mar Zutra Humility",
+      "No Steps in Justice",
+      "Not Over Heads",
+      "Judge's Instruments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Bar Kappara's teaching about being temperate in judgment and Rabbi Eliezer's teaching about not stepping over people's heads, and the current placement under 'No Steps in Justice' (index 1) covers the Bar Kappara portion while index 2 covers the Rabbi Eliezer portion \u2014 however, since both teachings appear together in a single Talmudic passage and index 1's prose explicitly discusses Bar Kappara's derivation from the same verse, the current placement is the better single home for the combined passage.",
+      "chosen_heading": "No Steps in Justice",
+      "current_heading": "No Steps in Justice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Judge's Instruments",
+    "candidates": [
+      "Not Over Heads",
+      "Judge's Instruments",
+      "Staff Strap Balance",
+      "Both Parties Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the interpretation of 'asher tasim' as judges' instruments and Rav Huna's tools, which is precisely what the 'Judge's Instruments' section's prose describes.",
+      "chosen_heading": "Judge's Instruments",
+      "current_heading": "Judge's Instruments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Both Parties Present",
+    "candidates": [
+      "Staff Strap Balance",
+      "Both Parties Present",
+      "Anchoring Effect",
+      "No Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the prohibition against hearing one litigant before the other arrives, which is precisely what the 'Both Parties Present' section's prose discusses \u2014 Rabbi Chanina's warning and the reading of 'shema bein acheichem,' with Rav Kahana's derivation from 'lo tissa' being a further source for the same litigant prohibition.",
+      "chosen_heading": "Both Parties Present",
+      "current_heading": "Both Parties Present",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "No Recognition",
+    "candidates": [
+      "Anchoring Effect",
+      "No Recognition",
+      "Innkeeper & Judge",
+      "Rav Kahana Warning",
+      "Equal Care"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "No Recognition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the verse 'lo takiru fanim bamishpat' and related interpretations about judging righteously and not showing recognition/favoritism, which matches the 'No Recognition' prose exactly.",
+      "second_heading": "Innkeeper & Judge",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 describe the story of Rav's innkeeper coming before him for judgment and Rav Kahana's involvement, which matches the 'Innkeeper & Judge' prose directly.",
+      "current_heading": "No Recognition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Equal Care",
+    "candidates": [
+      "Innkeeper & Judge",
+      "Rav Kahana Warning",
+      "Equal Care",
+      "No Fear",
+      "Justice God's"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's interpretation of 'k'katan k'gadol tishme'un' and the ruling about giving precedence to small cases over large ones, which is exactly what the 'Equal Care' section's prose describes.",
+      "chosen_heading": "Equal Care",
+      "current_heading": "Equal Care",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Justice God's",
+    "candidates": [
+      "No Fear",
+      "Justice God's",
+      "Difficult to God",
+      "Moses Not Punished"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both 'lo taguru' (Rabbi \u1e24anan) and 'ki hamishpat l'Elohim' (Rabbi \u1e24ama), but since it is a single continuous Gemara unit and the heading 'No Fear' has prose discussing both lo taguru and the suppression of words, while heading 1 covers only the second half, the passage as a whole fits slightly better under heading 0 \u2014 though the current placement under heading 1 is also defensible since that prose discusses the Rabbi \u1e24ama teaching in detail; however, given the passage begins with lo taguru and both teachings are one unit, heading 0 which introduces the full verse context is the better home.",
+      "chosen_heading": "No Fear",
+      "current_heading": "Justice God's",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Moses Not Punished",
+    "candidates": [
+      "Difficult to God",
+      "Moses Not Punished",
+      "Zelophehad Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the critique of Moses (Rabbi \u1e24anina/Yoshiya) AND Rav Na\u1e25man bar Yitz\u1e25ak's rebuttal as one continuous Talmudic exchange, and heading 0 ('Difficult to God') introduces both elements together, while the current placement (heading 1) only covers the rebuttal half \u2014 splitting a unified passage across two headings would be incorrect.",
+      "chosen_heading": "Difficult to God",
+      "current_heading": "Moses Not Punished",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Zelophehad Merit",
+    "candidates": [
+      "Moses Not Punished",
+      "Zelophehad Merit",
+      "Joshua's Dual Role"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zelophehad Merit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about Zelophehad's daughters and the wood gatherer, which is precisely what the 'Zelophehad Merit' prose discusses \u2014 the principle that merit and guilt determine through whom Torah portions are recorded.",
+      "second_heading": "Joshua's Dual Role",
+      "second_confidence": "high",
+      "second_reason": "Item 2 shifts to an entirely new topic about the dual warnings to judges and the community from Deuteronomy 1:16/1:18, which matches the 'Joshua's Dual Role' section's discussion of tensions between parallel verses about leadership obligations \u2014 though the fit is imperfect, it is a structurally new unit and has no connection to the Zelophehad topic.",
+      "current_heading": "Zelophehad Merit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Joshua's Dual Role",
+    "candidates": [
+      "Joshua's Dual Role",
+      "One Leader",
+      "Zimun Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tension between the two verses about Joshua and Rabbi Yochanan's reconciliation, which is precisely what heading 0's prose discusses, and the current placement is correct.",
+      "chosen_heading": "Joshua's Dual Role",
+      "current_heading": "Joshua's Dual Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Zimun Definition",
+    "candidates": [
+      "One Leader",
+      "Zimun Definition",
+      "One Judge Summons",
+      "Full Court Zimun",
+      "Court Days Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly analyzes the baraita 'zimmun bishlosha' and debates whether 'zimmun' means 'birkat zimmun' or something else, which is precisely what the 'Zimun Definition' section's prose describes.",
+      "chosen_heading": "Zimun Definition",
+      "current_heading": "Zimun Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Court Days Presumption",
+    "candidates": [
+      "One Judge Summons",
+      "Full Court Zimun",
+      "Court Days Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the full arc of the ruling \u2014 the invalid one-judge summons, the requirement for all-judge authority, AND the court-day qualification \u2014 and candidate 2's prose explicitly discusses all three elements including the *hanei mili belo yoma dedina* distinction that is the climax of the passage.",
+      "chosen_heading": "Court Days Presumption",
+      "current_heading": "Court Days Presumption",
+      "moved": false
+    }
+  }
+]

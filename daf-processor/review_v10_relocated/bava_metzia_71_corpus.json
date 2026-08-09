@@ -1,0 +1,487 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishlei Verse",
+    "candidates": [
+      "Introduction",
+      "Mishlei Verse",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Proverbs 28:8 and Rav's interpretation about King Shapur, which directly matches the 'Mishlei Verse' section's prose discussion of that exact verse and Rav's answer about Shvor Malka.",
+      "chosen_heading": "Mishlei Verse",
+      "current_heading": "Mishlei Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Rava's Challenge",
+      "Tashich Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Na\u1e25man citing Rav Huna's teaching about interest from gentiles AND Rava's objection plus the Gemara's brief refutation, and candidate 0's prose explicitly encompasses all of this content (Rav Huna's teaching, the verse lanachri tashich, and the principle), making it the best single home for the entire passage.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Tashich Interpretation",
+    "candidates": [
+      "Rava's Challenge",
+      "Tashich Interpretation",
+      "Explicit Permission",
+      "Sustenance Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the interpretive move around 'tashich' \u2014 the gemara asks why the verse is needed, then answers it teaches 'la'avor alav b'aseh v'lo ta'aseh' (violating both positive and negative commandments), which is precisely what the 'Tashich Interpretation' prose describes.",
+      "chosen_heading": "Tashich Interpretation",
+      "current_heading": "Tashich Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Sustenance Limit",
+    "candidates": [
+      "Explicit Permission",
+      "Sustenance Limit",
+      "Rashi's Rationale",
+      "Ravina's View",
+      "Yelmed Mimaaasav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the objection and its immediate resolution \u2014 the mishna's explicit permission to lend to non-Jews and ger toshav with interest, plus Rav \u1e24iyya's qualification \u2014 which is precisely what heading 0 ('Explicit Permission') introduces, while heading 1 ('Sustenance Limit') is better suited to Rashi's elaboration and the rabbinic nature of the restriction that follows.",
+      "chosen_heading": "Explicit Permission",
+      "current_heading": "Sustenance Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Yelmed Mimaaasav",
+    "candidates": [
+      "Rashi's Rationale",
+      "Ravina's View",
+      "Yelmed Mimaaasav",
+      "Tosafot Medieval",
+      "Tosafot First Answer",
+      "Tosafot Sustenance",
+      "Tosafot Exile",
+      "Rav Yosef Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement that the mishna deals with Torah scholars who won't learn from gentile ways, which directly matches the 'Ravina's View' section prose that introduces exactly this point.",
+      "chosen_heading": "Ravina's View",
+      "current_heading": "Yelmed Mimaaasav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav Yosef Hierarchy",
+    "candidates": [
+      "Tosafot Medieval",
+      "Tosafot First Answer",
+      "Tosafot Sustenance",
+      "Tosafot Exile",
+      "Rav Yosef Hierarchy",
+      "Nation Priority",
+      "Need Priority",
+      "Closeness Priority",
+      "Ethics Philosophy",
+      "Rav Nachman Reinterpreted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Rav Yosef baraita deriving the lending/tzedakah hierarchy from Exodus 22:24, which is exactly what the 'Rav Yosef Hierarchy' section's prose introduces and contextualizes.",
+      "chosen_heading": "Rav Yosef Hierarchy",
+      "current_heading": "Rav Yosef Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rav Nachman Reinterpreted",
+    "candidates": [
+      "Nation Priority",
+      "Need Priority",
+      "Closeness Priority",
+      "Ethics Philosophy",
+      "Rav Nachman Reinterpreted",
+      "Rabbi Yosi Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's discussion of 'ami venochri ami kodem' and Rav Nachman/Rav Huna's clarification that it applies even when lending to a gentile with interest vs. a Jew for free \u2014 this is precisely what the 'Nation Priority' section's prose describes.",
+      "chosen_heading": "Nation Priority",
+      "current_heading": "Rav Nachman Reinterpreted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rabbi Yosi Critique",
+    "candidates": [
+      "Rav Nachman Reinterpreted",
+      "Rabbi Yosi Critique",
+      "Public Documentation",
+      "Shtar Declaration",
+      "Noda B'Yehuda",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita from Rabbi Yosei about the blindness of ribbit lenders spans candidates 1-3, but the current placement under 'Rabbi Yosi Critique' is correct since that heading's prose directly introduces this baraita and Rabbi Yosi's statement \u2014 the essay then breaks the commentary across headings 1, 2, and 3, so the source text belongs under its opening heading where it is currently placed.",
+      "chosen_heading": "Rabbi Yosi Critique",
+      "current_heading": "Rabbi Yosi Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Public Documentation",
+      "Shtar Declaration",
+      "Noda B'Yehuda",
+      "Rabbi Shimon",
+      "Wealth Failure",
+      "Objection Raised",
+      "Rabbi Elazar Reply",
+      "Tzaddik Gamur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Shimon ben Elazar teaching about lending without interest and the verse from Psalms 15:5, which is exactly what the 'Rabbi Shimon' section's prose describes.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Tzaddik Gamur",
+    "candidates": [
+      "Wealth Failure",
+      "Objection Raised",
+      "Rabbi Elazar Reply",
+      "Tzaddik Gamur",
+      "Tannaitic Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the Habakkuk verse and Rav Huna's comment about tzaddik mimennu vs. tzaddik gamur, which is precisely what the 'Tzaddik Gamur' section's prose discusses.",
+      "chosen_heading": "Tzaddik Gamur",
+      "current_heading": "Tzaddik Gamur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Tannaitic Statement",
+    "candidates": [
+      "Tannaitic Statement",
+      "Slave Sale Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a baraita in which Rabbi Yehuda HaNasi states he does not know the meaning of 'ger tzedek' in the context of sale and 'ger toshav' in the context of interest, which matches exactly the prose of candidate 0 ('Tannaitic Statement').",
+      "chosen_heading": "Tannaitic Statement",
+      "current_heading": "Tannaitic Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Slave Sale Hierarchy",
+    "candidates": [
+      "Slave Sale Hierarchy",
+      "Convert Slave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the hierarchy of who can purchase a Hebrew slave (ger tzedek, ger toshav, gentile, idol worship), which is precisely what the 'Slave Sale Hierarchy' prose discusses, including the escalating stages from the verse and the phrase mishpachat ger referring to pagan temple service.",
+      "chosen_heading": "Slave Sale Hierarchy",
+      "current_heading": "Slave Sale Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Convert Slave",
+    "candidates": [
+      "Convert Slave",
+      "Purchase Principle",
+      "Convert Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the contradiction and its resolution about whether a ger can be acquired as or acquire a Hebrew slave, which is exactly what the 'Convert Slave' section's prose discusses \u2014 the baraita ruling, the family-return requirement, and the tradition-based prohibition on a ger acquiring a Hebrew slave.",
+      "chosen_heading": "Convert Slave",
+      "current_heading": "Convert Slave",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Convert Ownership",
+    "candidates": [
+      "Purchase Principle",
+      "Convert Ownership",
+      "Women Converts Purchasing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Na\u1e25man bar Yitz\u1e25ak's resolution that a ger can own an eved Ivri with gentile-law status, and the baraita's rule about not serving the owner's son or daughter \u2014 exactly what the 'Convert Ownership' prose describes.",
+      "chosen_heading": "Convert Ownership",
+      "current_heading": "Convert Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Women Converts Purchasing",
+    "candidates": [
+      "Women Converts Purchasing",
+      "Discretion Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether the ruling that a woman cannot purchase a Hebrew slave conflicts with Rabban Shimon ben Gamliel's opinion, and resolves it by distinguishing Hebrew slaves from Canaanite slaves \u2014 exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Women Converts Purchasing",
+      "current_heading": "Women Converts Purchasing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Discretion Distinction",
+    "candidates": [
+      "Discretion Distinction",
+      "Widow Teaching",
+      "Dog Question",
+      "Dog Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the discretion distinction between a Hebrew slave and a Canaanite slave, matching exactly the content discussed in the 'Discretion Distinction' prose.",
+      "chosen_heading": "Discretion Distinction",
+      "current_heading": "Discretion Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Dog Answer",
+    "candidates": [
+      "Widow Teaching",
+      "Dog Question",
+      "Dog Answer",
+      "Resident Alien Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the question (why should a widow be forbidden from keeping a dog if the dog's obsessive following would visibly signal misconduct and deter her?) and then answers it, but the question framing matches 'Dog Question' whose prose specifically asks why the concern exists given the dog would visibly follow her \u2014 the passage contains both the question and the answer, but the opening 'But' framing and the puzzle it raises align with 'Dog Question,' while 'Dog Answer' prose already summarizes the resolution separately, suggesting the full Gemara exchange belongs under the heading that introduces the puzzle.",
+      "chosen_heading": "Dog Question",
+      "current_heading": "Dog Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Resident Alien Verse",
+    "candidates": [
+      "Dog Answer",
+      "Resident Alien Verse",
+      "Borrow/Lend with Ribbit",
+      "Rav Nachman Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda HaNasi's difficulty about the ger toshav in the context of ribbit, quoting the Leviticus verse and raising the contradiction \u2014 exactly what the 'Resident Alien Verse' prose describes.",
+      "chosen_heading": "Resident Alien Verse",
+      "current_heading": "Resident Alien Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Rav Nachman Resolution",
+    "candidates": [
+      "Borrow/Lend with Ribbit",
+      "Rav Nachman Resolution",
+      "Guarantor Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man bar Yitz\u1e25ak's grammatical resolution about 'from him' versus 'from them,' which is precisely what the 'Rav Nachman Resolution' section's prose describes.",
+      "chosen_heading": "Rav Nachman Resolution",
+      "current_heading": "Rav Nachman Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Guarantor Teaching",
+    "candidates": [
+      "Guarantor Teaching",
+      "Guarantor Problem",
+      "Rav Sheshet Solution",
+      "Jewish Court Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the initial baraita introducing the guarantor teaching and the immediate Gemara question about 'guarantor for whom,' which matches the 'Guarantor Teaching' prose that introduces the arev concept before the problem and solution are discussed in subsequent sections.",
+      "chosen_heading": "Guarantor Teaching",
+      "current_heading": "Guarantor Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Jewish Court Logic",
+    "candidates": [
+      "Guarantor Problem",
+      "Rav Sheshet Solution",
+      "Jewish Court Logic",
+      "Jew Lends Non-Jew",
+      "Transfer Scenario",
+      "Forbidden Direct",
+      "Permitted via Non-Jew",
+      "Reverse Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 presents the 'guarantor problem' (going after the guarantor under gentile law makes him the effective interest-taker), and Item 2 is Rav Sheshet's solution to that exact problem \u2014 both together belong under 'Rav Sheshet Solution', whose prose describes precisely this: Rav Sheshet resolving the guarantor difficulty by stipulating adjudication under Jewish law, including the follow-up question and clarification that are part of the same continuous exchange.",
+      "chosen_heading": "Rav Sheshet Solution",
+      "current_heading": "Jewish Court Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154
+    ],
+    "current_heading": "Reverse Scenario",
+    "candidates": [
+      "Jew Lends Non-Jew",
+      "Transfer Scenario",
+      "Forbidden Direct",
+      "Permitted via Non-Jew",
+      "Reverse Scenario",
+      "Non-Jew Middleman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita explaining the mishna's rule about lending a gentile's money \u2014 the forward case (items 1) and reverse case (item 2) \u2014 which collectively belong under 'Jew Lends Non-Jew' as the opening elaboration of that principle, not split across multiple downstream headings.",
+      "chosen_heading": "Jew Lends Non-Jew",
+      "current_heading": "Reverse Scenario",
+      "moved": true
+    }
+  }
+]

@@ -146,7 +146,7 @@
           "timestamp": "30:14"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -190,7 +190,7 @@
           "timestamp": "43:08"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -522,5 +522,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "43:08",
+  "amud_b_micro_title": "R. Yannai Exception",
+  "shiur_start_daf": 6,
+  "shiur_start_amud": "a"
 }

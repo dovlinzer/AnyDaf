@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Tzar Ayin & Egla Arufa",
+    "candidates": [
+      "Intro: Tov Ayin",
+      "Tzar Ayin & Egla Arufa",
+      "Abandoned Traveler",
+      "Kulo Kohanim Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yehoshua ben Levi's teaching that egla arufa comes on account of tzar ayin, with the scriptural proof from the elders' declaration and the Gemara's explanation about dismissing travelers without food or escort \u2014 exactly what the 'Tzar Ayin & Egla Arufa' prose describes.",
+      "chosen_heading": "Tzar Ayin & Egla Arufa",
+      "current_heading": "Tzar Ayin & Egla Arufa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Kulo Kohanim Question",
+    "candidates": [
+      "Abandoned Traveler",
+      "Kulo Kohanim Question",
+      "Am Besadot & Absent",
+      "Ones vs. Reshus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the ruling of Rav Simlai about a synagogue of all priests ascending the duchan and Rav Zeira's answer about their brothers in the fields, which matches the 'Kulo Kohanim Question' prose that introduces this very ruling and question.",
+      "chosen_heading": "Kulo Kohanim Question",
+      "current_heading": "Kulo Kohanim Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Ones vs. Reshus",
+    "candidates": [
+      "Am Besadot & Absent",
+      "Ones vs. Reshus",
+      "Split Arrangement",
+      "Minyan Requirement",
+      "Kahal Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge from Abba son of Rav Minyamin bar \u1e24iyya about those behind the kohanim and resolves it with the ones/reshus distinction, which is precisely what the prose of candidate 1 ('Ones vs. Reshus') describes.",
+      "chosen_heading": "Ones vs. Reshus",
+      "current_heading": "Ones vs. Reshus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Kahal Requirement",
+    "candidates": [
+      "Split Arrangement",
+      "Minyan Requirement",
+      "Kahal Requirement",
+      "Behind Kohanim Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer unit about a synagogue of all priests where some ascend and some answer amen, which is precisely what the 'Split Arrangement' prose describes \u2014 the baraisa of Rav Shimi and the resolution about keeping ten below.",
+      "chosen_heading": "Split Arrangement",
+      "current_heading": "Kahal Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Behind Kohanim Excluded",
+    "candidates": [
+      "Kahal Requirement",
+      "Behind Kohanim Excluded",
+      "No Hefsek: Height/Teivah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the baraisa of Abba son of Rav Minyamin bar \u1e24iyya about those behind the kohanim being excluded from the blessing, which is precisely what candidate 1's prose introduces and discusses.",
+      "chosen_heading": "Behind Kohanim Excluded",
+      "current_heading": "Behind Kohanim Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "No Hefsek: Height/Teivah",
+    "candidates": [
+      "No Hefsek: Height/Teivah",
+      "Tosafos: Self-Exclusion",
+      "Iron Wall & Connection",
+      "Mechitzah & Core Minyan",
+      "Tosafos Drush: God's View",
+      "Standing to the Side",
+      "Parah Adumah Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose describes: the obvious cases (tall people, teiva) not being a hefsek, and then raising the harder question about a mechitzah \u2014 the Rabbi Yehoshua ben Levi answer about the iron partition is the resolution to that question posed in this same section.",
+      "chosen_heading": "No Hefsek: Height/Teivah",
+      "current_heading": "No Hefsek: Height/Teivah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Parah Adumah Analogy",
+    "candidates": [
+      "Tosafos: Self-Exclusion",
+      "Iron Wall & Connection",
+      "Mechitzah & Core Minyan",
+      "Tosafos Drush: God's View",
+      "Standing to the Side",
+      "Parah Adumah Analogy",
+      "Washing & Holiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the dilemma and answer about 'tzadadim' (those standing to the sides), which is precisely what candidate 4 ('Standing to the Side') introduces, and candidate 5 ('Parah Adumah Analogy') elaborates on \u2014 but since item 1 raises the dilemma and item 2 provides the mishnah answer, they both belong under the heading that introduces the tzadadim question, which is candidate 4, with candidate 5's prose actually describing this same passage's content most fully; however, since candidate 4 raises the question and candidate 5 describes the answer (the parah adumah analogy), and the passage is currently under candidate 5, and candidate 5's prose is a clearly better match for the specific content of both items (the sprinkling analogy and its ruling), the current placement is correct.",
+      "chosen_heading": "Standing to the Side",
+      "current_heading": "Parah Adumah Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Washing & Holiness",
+    "candidates": [
+      "Parah Adumah Analogy",
+      "Washing & Holiness",
+      "Rashi: Immediate Before",
+      "Tosafos: When Washing",
+      "Bracha Formula",
+      "Aharon's Sanctity",
+      "B'ahava (With Love)",
+      "Yehi Ratzon Prayer",
+      "Ribbono Shel Olam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bracha Formula",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is about the prohibition to speak once a Torah scroll is opened, which connects to the 'Bracha Formula' section where Rav Zeira citing Rav Chisda is discussed \u2014 but more precisely it seems to be a standalone teaching that precedes the washing discussion; however among the candidates, section 4 ('Bracha Formula') explicitly mentions 'Rav Zeira citing Rav Chisda' which matches the Rabbi Zeira/Rav \u1e24isda attribution in item 1, making it the closest prose match.",
+      "second_heading": "Washing & Holiness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 about Rabbi Yehoshua ben Levi's teaching that a kohen who did not wash his hands may not lift them, citing 'se'u yedeikhem kodesh,' is precisely what the 'Washing & Holiness' section describes as its central content.",
+      "current_heading": "Washing & Holiness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Ribbono Shel Olam",
+    "candidates": [
+      "Rashi: Immediate Before",
+      "Tosafos: When Washing",
+      "Bracha Formula",
+      "Aharon's Sanctity",
+      "B'ahava (With Love)",
+      "Yehi Ratzon Prayer",
+      "Ribbono Shel Olam",
+      "Fingers Straight Until",
+      "Sequencing Rules",
+      "Remain Until Sim Shalom"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bracha Formula",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Elazar ben Shammua's statement about never lifting his hands without a bracha, which serves as the introduction to the 'Bracha Formula' section discussing what blessing kohanim recite before birkat kohanim.",
+      "second_heading": "Yehi Ratzon Prayer",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover the bracha formula (mai mivarech), the yehi ratzon upon ascending, and the Ribbono Shel Olam prayer after completing the blessing \u2014 items 3-4 belong under 'Yehi Ratzon Prayer' which explicitly discusses the choreography of birkat kohanim including ki akar krei'ei and the post-blessing prayer.",
+      "current_heading": "Ribbono Shel Olam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Remain Until Sim Shalom",
+    "candidates": [
+      "Fingers Straight Until",
+      "Sequencing Rules",
+      "Remain Until Sim Shalom",
+      "Tosafos: Hearing Concern",
+      "Aliyah Before Haftarah",
+      "Roll Torah First"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Sequencing Rules",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the sequencing rules for birkat kohanim (fingers, calling 'kohanim', beginning brachot, turning away, stepping down) which matches the 'Sequencing Rules' and 'Remain Until Sim Shalom' sections \u2014 but items 1-3 form the kohanim-specific cluster best anchored under 'Sequencing Rules' (heading 1) since 'Fingers Straight Until' (heading 0) discusses only the finger-bending rule and items 2-3 are the continuation of that same Rav Chisda/Rabbi Zeira chain through Sim Shalom, all of which the 'Sequencing Rules' prose explicitly describes.",
+      "second_heading": "Remain Until Sim Shalom",
+      "second_confidence": "high",
+      "second_reason": "Item 4 concerns the Torah-reading sequencing rules (amen to bracha, reader, metargem, next pasuk) which is explicitly described in the 'Remain Until Sim Shalom' prose section (heading 2) as the extension of the same logic to kriat haTorah.",
+      "current_heading": "Remain Until Sim Shalom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Roll Torah First",
+    "candidates": [
+      "Tosafos: Hearing Concern",
+      "Aliyah Before Haftarah",
+      "Roll Torah First",
+      "Kvod Hatzibur: Coverings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains BOTH rulings (aliyah before haftarah AND rolling the Torah first), but the prose under 'Aliyah Before Haftarah' explicitly discusses the first ruling and naturally encompasses both as a unit, while the current placement under 'Roll Torah First' only covers the second ruling \u2014 however, since both rulings appear in one quoted passage, it belongs under the heading that introduces the first of the two teachings, which is 'Aliyah Before Haftarah'.",
+      "chosen_heading": "Aliyah Before Haftarah",
+      "current_heading": "Roll Torah First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Kvod Hatzibur: Coverings",
+    "candidates": [
+      "Roll Torah First",
+      "Kvod Hatzibur: Coverings",
+      "Torah Removal Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the shaliach tzibur removing the decorative covering of the ark (teiva) out of respect for the congregation, which is exactly what Candidate 1's prose describes.",
+      "chosen_heading": "Kvod Hatzibur: Coverings",
+      "current_heading": "Kvod Hatzibur: Coverings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Torah Removal Timing",
+    "candidates": [
+      "Torah Removal Timing",
+      "Torah Goes First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya about when the congregation may leave relative to the Torah scroll's removal, including the dispute between Rabbi Yehoshua ben Levi and Shmuel and its resolution, which is precisely what heading 0 ('Torah Removal Timing') discusses in its prose.",
+      "chosen_heading": "Torah Removal Timing",
+      "current_heading": "Torah Removal Timing",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Slave Flaws",
+    "candidates": [
+      "Goring Ox Case",
+      "Holchin B'Mamon",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Slave Flaws",
+      "Buyer Beware",
+      "Gemara Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about selling a slave found to be a thief or gambler (higio) versus an armed bandit or condemned by the government (harei shelcha lefanecha), which is precisely what the 'Slave Flaws' section's prose describes as the first tasha testing the Rav/Shmuel debate.",
+      "chosen_heading": "Slave Flaws",
+      "current_heading": "Slave Flaws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "Buyer Beware",
+      "Gemara Analysis",
+      "Rejection",
+      "Goring Pregnant"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gemara Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Gemara's question about why the first clause holds (is it because of rov?), which matches heading 1's prose about 'mai tama \u2014 what is the reason in the first case' and the rov argument.",
+      "second_heading": "Rejection",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's rejection ('lo, kulu hachi isnu \u2014 all slaves are like that'), which matches heading 2's prose exactly describing this same deflection and its implications.",
+      "current_heading": "Gemara Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Goring Pregnant",
+    "candidates": [
+      "Rejection",
+      "Goring Pregnant",
+      "Sumchus Splits",
+      "Rov Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about the ox goring the cow and the uncertainty about the fetus, which is precisely what the 'Goring Pregnant' section's prose introduces and discusses.",
+      "chosen_heading": "Goring Pregnant",
+      "current_heading": "Goring Pregnant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rov Challenge",
+    "candidates": [
+      "Sumchus Splits",
+      "Rov Challenge",
+      "Fear vs. Goring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about following rov (majority of cows become pregnant and calve), asking why there is any doubt at all, which matches exactly the 'Rov Challenge' section's prose about leima halach achar rov parot and vadai machmat negicha hipila.",
+      "chosen_heading": "Rov Challenge",
+      "current_heading": "Rov Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Fear vs. Goring",
+    "candidates": [
+      "Fear vs. Goring",
+      "Tosafot's Analysis",
+      "No Proof Here"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's distinction between fear-caused and goring-caused miscarriage as a source of doubt, which is precisely what the 'Fear vs. Goring' section's prose discusses.",
+      "chosen_heading": "Fear vs. Goring",
+      "current_heading": "Fear vs. Goring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "No Proof Here",
+    "candidates": [
+      "Tosafot's Analysis",
+      "No Proof Here",
+      "Ox Propensity",
+      "Rabbi Acha",
+      "Connection Test",
+      "Rav's Clarification",
+      "Shmuel's Clarification",
+      "Rov vs. Chazaka",
+      "Mishnah Rule",
+      "Baraita Views"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ox Propensity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the tannaitic parallel and the initial assumption that rov and chazaka are equivalent, matching the 'Ox Propensity'/'Rabbi Acha'/'Connection Test' prose \u2014 but most precisely, items 1-2 together cover the baraita and the savruha assumption, which the 'Connection Test' prose explicitly describes.",
+      "second_heading": "Rav's Clarification",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav's and Shmuel's respective clarifications distinguishing rov from chazaka of propensity, which match exactly the 'Rav's Clarification' and 'Shmuel's Clarification' prose sections \u2014 but since both must go under one heading, 'Rav's Clarification' (index 5) is the first of the two and covers item 3 directly.",
+      "current_heading": "No Proof Here",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Baraita Views",
+    "candidates": [
+      "Ox Propensity",
+      "Rabbi Acha",
+      "Connection Test",
+      "Rav's Clarification",
+      "Shmuel's Clarification",
+      "Rov vs. Chazaka",
+      "Mishnah Rule",
+      "Baraita Views",
+      "Amru Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's challenge from the mishnah about selling produce/flaxseeds and its resolution via a baraita, which is precisely what heading 6 ('Mishnah Rule') describes \u2014 the proof from the mishna about flaxseeds and the seller's non-liability, matching the content of items 1-2, while items 3-4 (the baraita with Rabbi Yosei) are the immediate continuation of that same sugya unit that heading 6's prose introduces.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Baraita Views",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Amru Lo",
+    "candidates": [
+      "Baraita Views",
+      "Amru Lo",
+      "Two Rovs",
+      "Positions Aligned",
+      "What to Reimburse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's analysis of who the disputing tannaim are in the baraita, specifically establishing that Rabbi Yosei and the 'amru lo' both follow rov (just different rovs), which is precisely what the 'Amru Lo' section's prose describes when it says 'tarvayeihu basar ruba azli \u2014 both sides follow rov.'",
+      "chosen_heading": "Amru Lo",
+      "current_heading": "Amru Lo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "What to Reimburse",
+    "candidates": [
+      "Two Rovs",
+      "Positions Aligned",
+      "What to Reimburse",
+      "Expense Debate",
+      "Rabban Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita about what the seller must give (value of seeds vs. expenses) is precisely the content described in the 'What to Reimburse' section's prose, which explicitly discusses 'mah hu noten lo,' 'd'mei zera bilvad,' and 've'yesh omrim af hotza'ah.'",
+      "chosen_heading": "What to Reimburse",
+      "current_heading": "What to Reimburse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rabban Shimon",
+    "candidates": [
+      "Expense Debate",
+      "Rabban Shimon",
+      "Tradespeople"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items are the Gemara's investigation of who holds the 'yesh omrim' position (attributed by Rav \u1e24isda to Rabban Shimon ben Gamliel) and whether this can be demonstrated from the mishnah \u2014 exactly what the 'Rabban Shimon' section's prose describes.",
+      "chosen_heading": "Rabban Shimon",
+      "current_heading": "Rabban Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Tradespeople",
+    "candidates": [
+      "Tradespeople",
+      "Catering Damages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita about tradespeople (miller, baker, butcher) and their liability as paid bailees, which is precisely what the 'Tradespeople' prose section analyzes in detail.",
+      "chosen_heading": "Tradespeople",
+      "current_heading": "Tradespeople",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Catering Damages",
+    "candidates": [
+      "Catering Damages",
+      "Tablecloth Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabban Shimon ben Gamliel's ruling on compensation for humiliation of the owner and guests due to a spoiled meal, which is precisely what the 'Catering Damages' prose analyzes in detail.",
+      "chosen_heading": "Catering Damages",
+      "current_heading": "Catering Damages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tablecloth Custom",
+    "candidates": [
+      "Tablecloth Custom",
+      "Foreseeability",
+      "Payment Status",
+      "Tosafot View",
+      "Ramban View",
+      "Ramban Alternative",
+      "Defect Rates",
+      "Wheat Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Jerusalem tablecloth/mappa custom signaling open hospitality, which is exactly what the 'Tablecloth Custom' prose discusses.",
+      "chosen_heading": "Tablecloth Custom",
+      "current_heading": "Tablecloth Custom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Wheat Standard",
+    "candidates": [
+      "Foreseeability",
+      "Payment Status",
+      "Tosafot View",
+      "Ramban View",
+      "Ramban Alternative",
+      "Defect Rates",
+      "Wheat Standard",
+      "Figs Standard",
+      "Wine Standard",
+      "Jugs Standard",
+      "Legumes vs. Dirt",
+      "Mixed Vegetation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the entire framework of acceptable defect tolerances in bulk agricultural sales, which is precisely what heading 5 ('Defect Rates') describes as its topic \u2014 the new mishnah establishing acceptable tolerance ranges for extraneous material and defects in agricultural products sold in bulk.",
+      "chosen_heading": "Defect Rates",
+      "current_heading": "Wheat Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Mixed Vegetation",
+    "candidates": [
+      "Figs Standard",
+      "Wine Standard",
+      "Jugs Standard",
+      "Legumes vs. Dirt",
+      "Mixed Vegetation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Katina's teaching that the quarter-kav tolerance refers to legumes not dirt, which is precisely what the 'Legumes vs. Dirt' section's prose describes \u2014 the clarification that the four-percent tolerance covers mixed legumes, not inert dirt.",
+      "chosen_heading": "Legumes vs. Dirt",
+      "current_heading": "Mixed Vegetation",
+      "moved": true
+    }
+  }
+]

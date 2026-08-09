@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav and Shmuel",
+    "candidates": [
+      "Kli as Chatzer",
+      "Kli in Reshut Hamocher",
+      "Rav and Shmuel",
+      "Yochanan & Reish Lakish",
+      "Rav Papa Reconciles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav and Shmuel's ruling (kelo shel adam koneh lo b'chol makom, chutz mirshut harabim) together with Rabbi Yochanan and Reish Lakish's position (afilu birshut harabim), and candidate 2 ('Rav and Shmuel') is the section whose prose explicitly introduces and discusses this paired ruling as the opening of the formal discussion, making it the correct placement.",
+      "chosen_heading": "Rav and Shmuel",
+      "current_heading": "Rav and Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Papa Reconciles",
+    "candidates": [
+      "Yochanan & Reish Lakish",
+      "Rav Papa Reconciles",
+      "Gemara's Counter-Proof",
+      "No Kli in True RH"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Papa's reconciliation of the apparent dispute between Rav/Shmuel and Rabbi Yochanan/Reish Lakish by distinguishing reshut harabim from simta, which is precisely what the 'Rav Papa Reconciles' section's prose describes.",
+      "chosen_heading": "Rav Papa Reconciles",
+      "current_heading": "Rav Papa Reconciles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "No Kli in True RH",
+    "candidates": [
+      "Gemara's Counter-Proof",
+      "No Kli in True RH",
+      "Measure Filling Rule",
+      "Third Party Vessel",
+      "Rishon Rishon Kanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abbahu's statement in Rabbi Yochanan's name about vessels acquiring where one has permission, used as a supporting proof (shema mina) \u2014 this is exactly the 'Counter-Proof' content described in candidate 0's prose, not the conclusion drawn from it in candidate 1.",
+      "chosen_heading": "Gemara's Counter-Proof",
+      "current_heading": "No Kli in True RH",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rishon Rishon Kanah",
+    "candidates": [
+      "Measure Filling Rule",
+      "Third Party Vessel",
+      "Rishon Rishon Kanah",
+      "Tosefta Domains",
+      "Reshut Lokeach",
+      "Third Party Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita text covering the measure-filling rule, the third-party vessel qualification, and the rishon-rishon-kanah clause all in one quoted unit, and the 'Measure Filling Rule' heading (index 0) is where this baraita is first introduced with 'ta shema,' making it the natural home for the entire quoted passage before the essay breaks it into sub-discussions.",
+      "chosen_heading": "Measure Filling Rule",
+      "current_heading": "Rishon Rishon Kanah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Third Party Domain",
+    "candidates": [
+      "Tosefta Domains",
+      "Reshut Lokeach",
+      "Third Party Domain",
+      "Get in Basket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items are the Tosefta passage and the Gemara's subsequent discussion about rereading 'reshut harabim' as simta and 'chatzer she'einah shel shneihem' as a jointly-held space \u2014 exactly what the 'Third Party Domain' prose describes in its final paragraph about the Gemara's forced reread of the Tosefta.",
+      "chosen_heading": "Third Party Domain",
+      "current_heading": "Third Party Domain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Get in Basket",
+    "candidates": [
+      "Get in Basket",
+      "Suspension and Tie"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma posed by Rav Sheshet and Rav Huna's answer from the Gittin mishna about the get in the basket, which is exactly what the 'Get in Basket' prose section discusses as the gemara's turn to this case as a potential proof.",
+      "chosen_heading": "Get in Basket",
+      "current_heading": "Get in Basket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Suspension and Tie",
+    "candidates": [
+      "Suspension and Tie",
+      "Mekom Cheika Kanuy",
+      "Rava's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Suspension and Tie': item 1 is Rav Nachman's challenge about the mishna being 'struck a hundred times,' and item 2 contains exactly the multiple qualifications (Shmuel/Rav Yehuda's suspension answer, Reish Lakish's tied answer, Rav Adda's thighs answer, Rav Mesharshiyya's basket-seller answer) that the prose of heading 0 explicitly describes as the responses that were proposed to distinguish the gittin ruling.",
+      "chosen_heading": "Suspension and Tie",
+      "current_heading": "Suspension and Tie",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rava's Explanation",
+    "candidates": [
+      "Mekom Cheika Kanuy",
+      "Rava's Explanation",
+      "Gittin Distinction",
+      "Tosefta Simple Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's statement about the place of her lap/basket AND Rava's explanation of the rationale, which together form the complete unit that candidate 0 ('Mekom Cheika Kanuy') introduces \u2014 candidate 1 covers only Rava's explanation, but the passage begins with Rabbi Yochanan's formulation, making candidate 0 the better home for the full quoted text.",
+      "chosen_heading": "Mekom Cheika Kanuy",
+      "current_heading": "Rava's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Tosefta Simple Read",
+    "candidates": [
+      "Gittin Distinction",
+      "Tosefta Simple Read",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the baraita text and the gemara's proposal/rejection (mai lav be'kelav de'loke'ach / lo be'kelav de'mocher) that candidate 1's prose describes in detail as the 'Tosefta Simple Read' section.",
+      "chosen_heading": "Tosefta Simple Read",
+      "current_heading": "Tosefta Simple Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Gemara Challenge",
+      "Goes by Reshut",
+      "Pirkan Setup",
+      "Pesak and Madad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's internal challenge to the Tosefta about whether the clauses refer to the seller's or buyer's vessels, which is precisely what the 'Gemara Challenge' prose describes \u2014 pressing the contradiction between domain-based and vessel-based acquisition principles.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Pesak and Madad",
+    "candidates": [
+      "Goes by Reshut",
+      "Pirkan Setup",
+      "Pesak and Madad",
+      "Chatzer Proof",
+      "Gemara Defenses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's baraita about pulling donkey-drivers and the pirkan distinction, which is precisely what the 'Pirkan Setup' prose describes \u2014 introducing the baraita, the meshichah question, and the pirkan case \u2014 while the current placement 'Pesak and Madad' describes the downstream implication of the baraita rather than the baraita itself.",
+      "chosen_heading": "Pirkan Setup",
+      "current_heading": "Pesak and Madad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Gemara Defenses",
+    "candidates": [
+      "Chatzer Proof",
+      "Gemara Defenses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's defensive readings against the chatzer proof \u2014 item 1 gives the two defenses (Rav Nachman/Mar bar Rav Ashi) and item 2 is Huna's follow-up question and Ravina's answer within that same chain, all of which are precisely what the 'Gemara Defenses' prose describes.",
+      "chosen_heading": "Gemara Defenses",
+      "current_heading": "Gemara Defenses",
+      "moved": false
+    }
+  }
+]

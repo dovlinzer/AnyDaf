@@ -1,0 +1,240 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Two More Cases",
+    "candidates": [
+      "Names & Context",
+      "Content Structure",
+      "B.H. vs B.S. Debates",
+      "Case Statement",
+      "Muktzah Question",
+      "Two More Cases",
+      "Hen Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items present the second and third cases of the opening mishna (chametz measures and kisuy hadam), which is precisely what the 'Two More Cases' prose section discusses in detail.",
+      "chosen_heading": "Two More Cases",
+      "current_heading": "Two More Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Hen Setup",
+    "candidates": [
+      "Hen Setup",
+      "Key Concepts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara inquiry about the hen's designation (for eating vs. laying eggs) and Beit Shammai's position on muktzah, which is precisely what the 'Hen Setup' prose describes in detail.",
+      "chosen_heading": "Hen Setup",
+      "current_heading": "Hen Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Key Concepts",
+    "candidates": [
+      "Key Concepts",
+      "Rashi on Nolad",
+      "R.N. Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the initial assumption that even those who permit muktzah would prohibit nolad, and asks what Beit Shammai's reasoning is \u2014 this is precisely the conceptual groundwork laid out in the 'Key Concepts' prose, which explicitly quotes and explains 'afilu man d'shari b'muktzah b'nolad assar' and the question of Beit Shammai's position.",
+      "chosen_heading": "Key Concepts",
+      "current_heading": "Key Concepts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "R.N. Framework",
+    "candidates": [
+      "Rashi on Nolad",
+      "R.N. Framework",
+      "Bones Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's statement about the hen set aside for laying eggs and the mapping of Beit Shammai/Beit Hillel onto Rabbi Shimon/Rabbi Yehuda, which is precisely what the 'R.N. Framework' section's prose discusses and introduces.",
+      "chosen_heading": "R.N. Framework",
+      "current_heading": "R.N. Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Bones Mishna",
+    "candidates": [
+      "Bones Mishna",
+      "Shabbat vs. Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to Rav Na\u1e25man from the bones mishna in Shabbat 143a, which is precisely what the 'Bones Mishna' section prose describes and analyzes.",
+      "chosen_heading": "Bones Mishna",
+      "current_heading": "Bones Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Shabbat vs. Yom Tov",
+    "candidates": [
+      "Shabbat vs. Yom Tov",
+      "Rashi Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute Rav Na\u1e25man's argument distinguishing Shabbat (stam mishna follows Rabbi Shimon, no muktzah) from Yom Tov (stam mishna follows Rabbi Yehuda, yes muktzah), which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Shabbat vs. Yom Tov",
+      "current_heading": "Shabbat vs. Yom Tov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Rashi Rationale",
+    "candidates": [
+      "Rashi Rationale",
+      "Why Just Egg?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question about why Rebbi ruled like Rabbi Shimon on Shabbat and Rabbi Yehuda on yom tov, and the answer about stringency/leniency \u2014 are precisely the content discussed in the 'Rashi Rationale' prose, which explains this exact split ruling and its pedagogical reasoning.",
+      "chosen_heading": "Rashi Rationale",
+      "current_heading": "Rashi Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Why Just Egg?",
+    "candidates": [
+      "Why Just Egg?",
+      "Koach Heteira",
+      "Rejection",
+      "Egg Readiness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Why Just Egg?",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the question 'why debate the egg rather than the hen' and the answer about koach d'Beit Shammai/nolad, which matches heading 0 ('Why Just Egg?') and heading 1 ('Koach Heteira') \u2014 but since the prose of heading 0 explicitly says it covers both the initial objection AND the counterpoint about Beit Hillel's stringency (items 1-2 combined), and heading 1 covers the koach heteira principle, items 1-2 best sit under heading 0 which already discusses both moves.",
+      "second_heading": "Rejection",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the v'niflegu betarveihu objection and the proposed mishna formulation (hi u'veitzatah), which matches exactly the 'Rejection' heading's prose about why not mention both the hen and egg together.",
+      "current_heading": "Why Just Egg?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Egg Readiness",
+    "candidates": [
+      "Koach Heteira",
+      "Rejection",
+      "Egg Readiness",
+      "Preparation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rabba's explanation that the egg prohibition stems from hachana (preparation) when yom tov follows Shabbat, with item 2 providing the supporting principle that an egg laid today was completed yesterday \u2014 precisely the content described in the 'Egg Readiness' prose section.",
+      "chosen_heading": "Egg Readiness",
+      "current_heading": "Egg Readiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Preparation Principle",
+    "candidates": [
+      "Preparation Principle",
+      "Sanctity of Meals",
+      "Scope Question",
+      "Abaye Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba's derivation of the hachana principle from the manna verse, which is precisely what the 'Preparation Principle' section's prose discusses in detail.",
+      "chosen_heading": "Preparation Principle",
+      "current_heading": "Preparation Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Abaye Challenge",
+    "candidates": [
+      "Sanctity of Meals",
+      "Scope Question",
+      "Abaye Challenge",
+      "Internal Eggs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the Abaye-Rava exchange about gezeirah extending the prohibition to regular yom tov and regular Shabbat, which is exactly what the 'Abaye Challenge' prose describes.",
+      "chosen_heading": "Abaye Challenge",
+      "current_heading": "Abaye Challenge",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "One Person Semikha?",
+    "candidates": [
+      "One Person Semikha?",
+      "Rabbi Yehuda ben Bava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's challenge to the three-person requirement and its resolution via the Rabbi Yehuda ben Bava tradition, which is precisely what the prose of heading 0 ('One Person Semikha?') describes \u2014 the v'chad lo samikh question, the Rav Yehuda/Rav citation, the nishtakhu/batlu clarification, and the Roman decrees context \u2014 all before moving to the details of Rabbi Yehuda ben Bava's actual act under heading 1.",
+      "chosen_heading": "One Person Semikha?",
+      "current_heading": "One Person Semikha?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Rabbi Yehuda ben Bava",
+    "candidates": [
+      "Rabbi Yehuda ben Bava",
+      "Three Were Present",
+      "Rabbi Meir's Semikha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the story of Rabbi Yehuda ben Bava's ordination act and his martyrdom, which is precisely what the prose under heading 0 ('Rabbi Yehuda ben Bava') discusses in detail, including his positioning between the cities, the five elders ordained, and the sieve imagery.",
+      "chosen_heading": "Rabbi Yehuda ben Bava",
+      "current_heading": "Rabbi Yehuda ben Bava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rabbi Meir's Semikha",
+    "candidates": [
+      "Three Were Present",
+      "Rabbi Meir's Semikha",
+      "Semikha: Eretz Yisrael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's first part directly addresses the 'three were present' resolution (achrini hava bahadei, kevodo d'Rabbi Yehuda ben Bava), which belongs under heading 0, and while it also discusses Rabbi Meir's double ordination, that content flows naturally from the same gemara segment that heading 0's prose already anticipates and partially discusses, whereas heading 1's prose describes the Rabbi Meir question as a separate turn ('the gemara now turns to a detail'), suggesting the passage as a whole \u2014 including the Rabbi Meir portion \u2014 is actually presented as part of the same continuous sugyah block under heading 0.",
+      "chosen_heading": "Three Were Present",
+      "current_heading": "Rabbi Meir's Semikha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Semikha: Eretz Yisrael",
+    "candidates": [
+      "Rabbi Meir's Semikha",
+      "Semikha: Eretz Yisrael",
+      "Proximity Requirement",
+      "Physical Presence Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address Rabbi Yehoshua ben Levi's ruling that there is no ordination outside Eretz Yisrael and the initial clarification of what that means, which is precisely what the prose under heading 1 ('Semikha: Eretz Yisrael') discusses.",
+      "chosen_heading": "Semikha: Eretz Yisrael",
+      "current_heading": "Semikha: Eretz Yisrael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Physical Presence Stories",
+    "candidates": [
+      "Proximity Requirement",
+      "Physical Presence Stories",
+      "Zeira's Reluctance",
+      "Authority & Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Shemen bar Abba's absence preventing ordination, Rabbi Chanina and Rabbi Oshaya's repeated failed ordination attempts, and the scriptural basis for the House of Eli curse \u2014 are precisely the narratives described in the 'Physical Presence Stories' prose, which explicitly discusses each of these episodes in order.",
+      "chosen_heading": "Physical Presence Stories",
+      "current_heading": "Physical Presence Stories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Authority & Atonement",
+    "candidates": [
+      "Zeira's Reluctance",
+      "Authority & Atonement",
+      "Song for Rabbi Zeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Zeira's hiding (matching heading 0's prose about reluctance) AND his change of mind upon hearing the second teaching (matching heading 1), but since the single Talmudic passage contains both elements as one continuous unit, and heading 0's prose explicitly discusses both the hiding and the teaching of Rabbi Elazar that motivated it while heading 1 discusses the consequence, the full passage is better placed under heading 0 which introduces the entire narrative arc \u2014 however, since the passage equally covers the content of heading 1 and is currently there, and both headings' prose together describe this single Talmudic excerpt split across two sections, the current placement under heading 1 misses the opening of the story; the best single home that captures the whole passage including the resolution is heading 1 only if we accept the split, but since the item must go under ONE heading and heading 0's prose discusses the hiding while heading 1 discusses the resolution, and the passage contains both, heading 0 introduces the narrative that culminates in heading 1 \u2014 the passage as a whole fits best under heading 0 as the starting point of the story.",
+      "chosen_heading": "Zeira's Reluctance",
+      "current_heading": "Authority & Atonement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Song for Rabbi Zeira",
+    "candidates": [
+      "Authority & Atonement",
+      "Song for Rabbi Zeira",
+      "Community Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the song sung at Rabbi Zeira's ordination ceremony, which is precisely what the 'Song for Rabbi Zeira' section's prose discusses.",
+      "chosen_heading": "Song for Rabbi Zeira",
+      "current_heading": "Song for Rabbi Zeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Community Acceptance",
+    "candidates": [
+      "Community Acceptance",
+      "Basic Dispute",
+      "Rabbi Yehuda's Position",
+      "Rabbi Shimon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Abbahu being greeted by the emperor's ladies with a song of praise is explicitly discussed in the 'Community Acceptance' section's prose, which recounts this exact vignette as the concluding episode of the gemara's treatment of semikhah.",
+      "chosen_heading": "Community Acceptance",
+      "current_heading": "Community Acceptance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Rabbi Shimon's Position",
+    "candidates": [
+      "Basic Dispute",
+      "Rabbi Yehuda's Position",
+      "Rabbi Shimon's Position",
+      "Eliezer ben Yaakov's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in candidate 2's prose: Rabbi Shimon's three-judge position, the use of 'shofte-cha' for miyuchadim, Rabbi Yehuda's gzera shava, the vav of v'shofte-cha as numerical, and the challenge/resolution regarding v'yatzu and u'madedu \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Rabbi Shimon's Position",
+      "current_heading": "Rabbi Shimon's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Eliezer ben Yaakov's View",
+    "candidates": [
+      "Eliezer ben Yaakov's View",
+      "Whole Sanhedrin Needed?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer ben Yaakov's interpretation of the verse and his derivations for king and High Priest, which is exactly what the prose of heading 0 discusses in detail.",
+      "chosen_heading": "Eliezer ben Yaakov's View",
+      "current_heading": "Eliezer ben Yaakov's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Whole Sanhedrin Needed?",
+    "candidates": [
+      "Whole Sanhedrin Needed?",
+      "Zaken Mamre Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma about whether Rabbi Eliezer ben Yaakov disputes on one or two points, including whether he requires the entire Sanhedrin \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Whole Sanhedrin Needed?",
+      "current_heading": "Whole Sanhedrin Needed?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Zaken Mamre Proof",
+    "candidates": [
+      "Zaken Mamre Proof",
+      "Why Sanhedrin Left",
+      "Cannot Lack Minimum",
+      "Mixed Wine Metaphor",
+      "Uncertain Value Produce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous discussion about the zaken mamre at Beit Pagei \u2014 Rav Yosef's proof, the clarification of who left and why, Abaye's alternative explanation, and the confirming baraita \u2014 which is precisely what the 'Zaken Mamre Proof' prose describes, while the 'Why Sanhedrin Left' prose covers the same material but as a continuation under a separate heading that the essay author has already written about it there.",
+      "chosen_heading": "Zaken Mamre Proof",
+      "current_heading": "Zaken Mamre Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Uncertain Value Produce",
+    "candidates": [
+      "Why Sanhedrin Left",
+      "Cannot Lack Minimum",
+      "Mixed Wine Metaphor",
+      "Uncertain Value Produce",
+      "Three Assessors, No Judge",
+      "Shared Interests Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the prose of 'Uncertain Value Produce' describes: the mishna's ruling on neta revai and maaser sheni of uncertain value, followed by the baraita defining what 'uncertain value' means (rotted fruit, filmed wine, rusted coins), which is precisely the content of candidate 3's prose.",
+      "chosen_heading": "Uncertain Value Produce",
+      "current_heading": "Uncertain Value Produce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Shared Interests Question",
+    "candidates": [
+      "Three Assessors, No Judge",
+      "Shared Interests Question",
+      "Ten for Any Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yirmiyah's question about three partners pooling funds into one purse, the proof from a man and his two wives redeeming maaser sheni, and the rejection citing Rav Pappa and the daughter of Abba Sura \u2014 all of which precisely match the 'Shared Interests Question' prose.",
+      "chosen_heading": "Shared Interests Question",
+      "current_heading": "Shared Interests Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Ten for Any Hekdesh",
+    "candidates": [
+      "Ten for Any Hekdesh",
+      "Counting Kohen in Parsha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the machloket between the mishnah (three judges) and Rabbi Eliezer ben Yaakov (ten people) for hekdesh redemption, which is precisely what the prose under 'Ten for Any Hekdesh' describes.",
+      "chosen_heading": "Ten for Any Hekdesh",
+      "current_heading": "Ten for Any Hekdesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Counting Kohen in Parsha",
+    "candidates": [
+      "Counting Kohen in Parsha",
+      "Rabbis Say Three",
+      "Land vs Hekdesh Numbers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbis Say Three",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's question about where the Rabbis derive three judges, which matches exactly the 'Rabbis Say Three' prose discussing 'ela rabanan shlosha mna lehu'.",
+      "second_heading": "Land vs Hekdesh Numbers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the contradiction that if three applies to hekdesh then four should apply to land, which matches exactly the 'Land vs Hekdesh Numbers' prose discussing 'karka'os dechsivi behu arba'ah tisgei be'arba'ah'.",
+      "current_heading": "Counting Kohen in Parsha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Land vs Hekdesh Numbers",
+    "candidates": [
+      "Rabbis Say Three",
+      "Land vs Hekdesh Numbers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the cumulative-counting argument about six for hekdesh and the concluding 'kashya,' which is precisely what the 'Land vs Hekdesh Numbers' prose describes.",
+      "chosen_heading": "Land vs Hekdesh Numbers",
+      "current_heading": "Land vs Hekdesh Numbers",
+      "moved": false
+    }
+  }
+]

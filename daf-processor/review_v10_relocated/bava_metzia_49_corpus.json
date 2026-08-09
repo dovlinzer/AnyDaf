@@ -1,0 +1,249 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Mashkon Shemittah Case",
+    "candidates": [
+      "Meshicha vs. Kesef",
+      "Conceptual Framework",
+      "Rabbi Shimon's Evidence",
+      "Karka Analogy",
+      "Metaltelin Debate",
+      "Mi Shepara Question",
+      "Mashkon Shemittah Case",
+      "Rabbi Shimon Position",
+      "Rabbi Yehuda Position",
+      "Gemara Resolution",
+      "Case Setup",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All five items constitute the gemara's discussion of the mashkon/shemittah case \u2014 introducing the tannaitic dispute, analyzing what 'does not abrogate' means, resolving the interpretations, and rejecting the parallel to k'negdo vs. k'neged kulo \u2014 which is precisely what the 'Mashkon Shemittah Case' prose describes.",
+      "chosen_heading": "Mashkon Shemittah Case",
+      "current_heading": "Mashkon Shemittah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Rabbi Yehuda Position",
+      "Gemara Resolution",
+      "Case Setup",
+      "Rav's Position",
+      "Rav vs. Yochanan",
+      "Hin Tzedek Teaching",
+      "Abaye's Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the concrete case of Rav Kahana receiving money for flax, the price rising, and Rav's ruling on what he must deliver \u2014 which matches the 'Case Setup' prose that explicitly describes Rav Kahana receiving money for flax, the price rising, and his question about retracting on the unpaid remainder.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Abaye's Caveat",
+    "candidates": [
+      "Rav vs. Yochanan",
+      "Hin Tzedek Teaching",
+      "Abaye's Caveat",
+      "Worker Hiring Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the itmar recording the Rav/Rabbi Yochanan dispute, the hin tzedek objection with Abaye's resolution, and the Mi she-para objection \u2014 form one continuous unit supporting and challenging Rav's position, and belong under the 'Rav vs. Yochanan' heading where the formal dispute is introduced, with items 2 and 3 being the challenges and responses that follow directly from that stated dispute.",
+      "chosen_heading": "Rav vs. Yochanan",
+      "current_heading": "Abaye's Caveat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Worker Hiring Case",
+    "candidates": [
+      "Abaye's Caveat",
+      "Worker Hiring Case",
+      "Reliance Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna about Rabbi Yochanan ben Matya and his son hiring workers, which is exactly the content described in the 'Worker Hiring Case' prose section.",
+      "chosen_heading": "Worker Hiring Case",
+      "current_heading": "Worker Hiring Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Reliance Analysis",
+    "candidates": [
+      "Reliance Analysis",
+      "Reliance Principle",
+      "Gift Retraction",
+      "Reliance Qualification",
+      "Maaser Setup",
+      "Moral Bindingness",
+      "Tevel Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's question-and-answer sequence about why Rabbi Yochanan ben Matya could tell his son to renege (workers didn't rely on the son) and why beginning work changes that reliance \u2014 exactly the content described in the 'Reliance Analysis' prose.",
+      "chosen_heading": "Reliance Analysis",
+      "current_heading": "Reliance Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Tevel Risk",
+    "candidates": [
+      "Reliance Principle",
+      "Gift Retraction",
+      "Reliance Qualification",
+      "Maaser Setup",
+      "Moral Bindingness",
+      "Tevel Risk",
+      "Case Narrative",
+      "Shomer Status",
+      "Mi Shepara Acceptance",
+      "Rav Tuvyumi Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items together form the continuous gemara discussion about the maaser/tithe case \u2014 the challenge to Rabbi Yochanan from the gift retraction ruling (items 1-2), the proposed answer that the Levi already took physical possession (item 3), and the refutation from the seifa showing only a taromet exists (item 4) \u2014 which is precisely what candidate 5 ('Tevel Risk') describes in its prose.",
+      "chosen_heading": "Tevel Risk",
+      "current_heading": "Tevel Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rav Tuvyumi Account",
+    "candidates": [
+      "Case Narrative",
+      "Shomer Status",
+      "Mi Shepara Acceptance",
+      "Rav Tuvyumi Account",
+      "Ownership vs. Custody",
+      "Prevailing View",
+      "Money Holder Rule",
+      "Seller Cannot Retract"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mi Shepara Acceptance",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the sesame money case and the mi shepara challenge before Rava, which matches the 'Mi Shepara Acceptance' prose discussing the sellers reneging and the mi shepara requirement.",
+      "second_heading": "Rav Tuvyumi Account",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (starting from Rav Pappi's introduction) narrate the Rav Tuvyumi/Rav Shmuel bar Zutra parallel account with the Friday deposit story, which is exactly what the 'Rav Tuvyumi Account' prose describes.",
+      "current_heading": "Rav Tuvyumi Account",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Seller Cannot Retract",
+    "candidates": [
+      "Ownership vs. Custody",
+      "Prevailing View",
+      "Money Holder Rule",
+      "Seller Cannot Retract",
+      "Possession Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly elaborates Rabbi Shimon's rule about when the seller can or cannot retract based on who holds the money and produce, which is precisely what the 'Seller Cannot Retract' section's prose describes.",
+      "chosen_heading": "Seller Cannot Retract",
+      "current_heading": "Seller Cannot Retract",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Possession Analysis",
+    "candidates": [
+      "Possession Analysis",
+      "Seizure Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's explanation about the upper story rented to the seller and the rationale for meshicha, which is precisely what the 'Possession Analysis' prose elaborates on.",
+      "chosen_heading": "Possession Analysis",
+      "current_heading": "Possession Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Seizure Scenario",
+    "candidates": [
+      "Seizure Scenario",
+      "Rav Chisda Ruling",
+      "Mi Shepara Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the factual scenario of the man giving money for wine and hearing about the impending seizure, which matches the 'Seizure Scenario' prose exactly \u2014 the Rav Chisda ruling and its implications are discussed in separate subsequent sections.",
+      "chosen_heading": "Seizure Scenario",
+      "current_heading": "Seizure Scenario",
+      "moved": false
+    }
+  }
+]

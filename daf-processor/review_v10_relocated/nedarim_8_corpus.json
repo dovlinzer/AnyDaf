@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Oath as Zeruzon",
+    "candidates": [
+      "Previous Discussion",
+      "Power of Speech",
+      "Oath Source",
+      "Double Oath Problem",
+      "Oath as Zeruzon",
+      "Ran's Position",
+      "Ashne Perek Zeh",
+      "Binding Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about the pre-existing Sinai oath making a new oath redundant, which is precisely what candidate 3 ('Double Oath Problem') describes, not the resolution about zeruzon in candidate 4 where it currently sits.",
+      "chosen_heading": "Double Oath Problem",
+      "current_heading": "Oath as Zeruzon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Binding Mechanism",
+    "candidates": [
+      "Ran's Position",
+      "Ashne Perek Zeh",
+      "Binding Mechanism",
+      "Optional Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces and quotes the second Rav Giddel statement about 'eshne perek zeh' and raises the initial objection (mushba ve'omed/ein shevuah chala al shevuah), which matches exactly the prose of candidate 1 ('Ashne Perek Zeh'), while candidate 2 ('Binding Mechanism') discusses the resolution and deeper analysis of that same objection.",
+      "chosen_heading": "Ashne Perek Zeh",
+      "current_heading": "Binding Mechanism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Optional Learning",
+    "candidates": [
+      "Binding Mechanism",
+      "Optional Learning",
+      "Talmud Torah Scope",
+      "Ran on Explicit",
+      "Shevuah vs Neder",
+      "Yaakov's Vow",
+      "Lashon Neder",
+      "Rosh: Neder Tzedaka",
+      "Neder on Mitzvah",
+      "Neder Obligations",
+      "Nesak V'Niul",
+      "Ezekiel Source",
+      "Dream Niddui",
+      "Ten People"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Optional Learning",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's answer about exempting oneself through Krias Shema, which is precisely what the 'Optional Learning' prose discusses \u2014 that one can discharge Talmud Torah through Krias Shema morning and evening, making the shevuah effective.",
+      "second_heading": "Ezekiel Source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Giddel's ruling about one who initiates 'let us rise early and study this chapter' being obligated to arrive first, with the Ezekiel proof-text \u2014 exactly what the 'Ezekiel Source' prose describes.",
+      "current_heading": "Optional Learning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ten People",
+    "candidates": [
+      "Talmud Torah Scope",
+      "Ran on Explicit",
+      "Shevuah vs Neder",
+      "Yaakov's Vow",
+      "Lashon Neder",
+      "Rosh: Neder Tzedaka",
+      "Neder on Mitzvah",
+      "Neder Obligations",
+      "Nesak V'Niul",
+      "Ezekiel Source",
+      "Dream Niddui",
+      "Ten People",
+      "Crossroads Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yosef's ruling about dissolving a dream-niddui with ten people who have studied halacha, which is precisely what the 'Ten People' section's prose describes and analyzes.",
+      "chosen_heading": "Ten People",
+      "current_heading": "Ten People",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Crossroads Method",
+    "candidates": [
+      "Crossroads Method",
+      "Releaser Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes going to the crossroads and greeting passersby until ten people who have studied halacha arrive, which directly matches the 'Crossroads Method' section's prose discussion of this exact alternative procedure.",
+      "chosen_heading": "Crossroads Method",
+      "current_heading": "Crossroads Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Releaser Identity",
+    "candidates": [
+      "Releaser Identity",
+      "Dream Cancellation",
+      "Dream Nonsense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses whether the person who imposed the dream-excommunication can dissolve it, directly matching the 'Releaser Identity' prose about divine agency and lack of authority to rescind, though the prose attributes the question to 'Rav Acha' while the text says 'Ravina' \u2014 the content is clearly the same topic.",
+      "chosen_heading": "Releaser Identity",
+      "current_heading": "Releaser Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Dream Nonsense",
+    "candidates": [
+      "Dream Cancellation",
+      "Dream Nonsense",
+      "Wife's Neder",
+      "Representation Q",
+      "Already Gathered",
+      "Three Inferences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a's question about excommunication dissolved in a dream and Rav Ashi's answer \u2014 the 'Dream Cancellation' prose describes exactly this scenario (a dream that appears to cancel itself out), while the current 'Dream Nonsense' heading's prose attributes the grain/straw teaching to Rav Papa rather than Rav Ashi and presents it as a response to that dream-cancellation question, suggesting the passage was placed one heading too late.",
+      "chosen_heading": "Dream Cancellation",
+      "current_heading": "Dream Nonsense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Three Inferences",
+    "candidates": [
+      "Wife's Neder",
+      "Representation Q",
+      "Already Gathered",
+      "Three Inferences",
+      "Rambam Tosafot",
+      "Shamta Permitted",
+      "Kavod HaRav",
+      "Yachid Mumche"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the exchange and its three inferences that candidate 3 ('Three Inferences') describes in its prose, making the current placement correct.",
+      "chosen_heading": "Three Inferences",
+      "current_heading": "Three Inferences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Yachid Mumche",
+    "candidates": [
+      "Rambam Tosafot",
+      "Shamta Permitted",
+      "Kavod HaRav",
+      "Yachid Mumche",
+      "Fear of God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that shamta may be dissolved even in the location of one's rebbe and that a yachid mumche may dissolve it, which matches the 'Shamta Permitted' section's prose about releasing shamta even in the rebbe's location \u2014 the current placement under 'Yachid Mumche' splits what is a single Gemara statement that belongs with the shamta/rebbe discussion.",
+      "chosen_heading": "Shamta Permitted",
+      "current_heading": "Yachid Mumche",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Fear of God",
+    "candidates": [
+      "Yachid Mumche",
+      "Fear of God",
+      "Olam Haba",
+      "Righteous Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the chain of seven Amoraim and the interpretation of 'yirei shmi' as those who avoid saying God's name in vain, plus Abaye's teaching about the healing dust of sunlight \u2014 all of which are explicitly described in the 'Fear of God' section's prose.",
+      "chosen_heading": "Fear of God",
+      "current_heading": "Fear of God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Righteous Wicked",
+    "candidates": [
+      "Olam Haba",
+      "Righteous Wicked",
+      "Smicha Question",
+      "Taz View",
+      "Neder Shamta Diff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Reish Lakish's view about no Gehenna in the World-to-Come and the sun serving dual purposes, which is precisely what candidate 0's prose describes as Reish Lakish's reading applied to olam haba, while candidate 1's prose discusses the consequences (healing vs. punishment) that follow from that teaching.",
+      "chosen_heading": "Olam Haba",
+      "current_heading": "Righteous Wicked",
+      "moved": true
+    }
+  }
+]

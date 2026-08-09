@@ -1,28 +1,24 @@
-# Bava Batra 126 — Daf Yomi Shiur
-
+[DAF:125b]
 ## Bechor Micha & Muchzak
+
+
 
 ### Muchzak vs. Ra'uy
 
-> **Hebrew/Aramaic:** וּמִלְוָה שֶׁעִמּוֹ, פָּלְגִי.
->
-> **Translation:** **And** as for **a loan that is with** the firstborn, i.e., he had borrowed money from his father, then his father died, it is uncertain whether the payment should be considered property due to the father or property possessed by him. Therefore, the firstborn and his brothers **divide** the additional portion.
-
 The daf opens with a ruling transmitted by Rav Huna in the name of Rav Assi. The discussion continues the theme that has occupied the preceding pages: the *bechor*'s entitlement to a double portion (*pi shnayim*) applies only to what is *muchzak* — property already in the father's possession at the time of death — and not to *ra'uy*, property that was merely "coming his way" but had not yet been received. The parameters of this distinction are applied narrowly: even a loan the father had extended, with the repayment still outstanding, is treated as *ra'uy* and therefore excluded from the *bechor*'s enhanced share.
 
+[DAF:126a]
 ### Bechor's Objection
 
-> **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב אַסִּי: בְּכוֹר שֶׁמִּיחָה – מִיחָה.
->
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב אַסִּי: בְּכוֹר שֶׁמִּיחָה – מִיחָה.
 > **Translation:** § With regard to the *halakha* that the firstborn is not entitled to a double portion of the enhancement of the property resulting from the actions of the heirs, **Rav Huna says** that **Rav Asi says: A firstborn who protested** the efforts of enhancing the property before it is divided has **protested,** and if the brothers use resources from the estate to enhance it against his will, he is entitled to a double portion of the enhanced value.
 
 Against this backdrop, Rav Huna in the name of Rav Assi introduces the principle of *bechor she-micha micha* — if a *bechor* formally objects, his objection is legally significant. The context, as the Rashbam explains it, is as follows. Suppose a father died leaving, say, four fields to three sons. The *bechor* is entitled to two of those fields while his brothers share the remaining two. Before the estate has been formally divided, the *bechor* might fear that if the brothers work the undivided fields and improve them, any increase in value will be treated as *ra'uy* — as something that arose after the father's death and before division — and will therefore be split equally rather than double. He therefore protests: do not work the fields. I want the division done now, and I will then work my own portion. His objection, says Rav Assi, is legally effective. If the brothers proceed to work the fields in defiance of his protest, the improvement is treated as having been made to his portion, not to the undivided estate, and he retains his double share in it.
 
 ### Shevach Di-Mimmela
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה: מִסְתַּבֵּר טַעְמֵיהּ דְּרַב אַסִּי בַּעֲנָבִים – וּבְצָרוּם, זֵיתִים – וּמְסָקוּם; אֲבָל דְּרָכוּם – לָא. וְרַב יוֹסֵף אָמַר: אֲפִילּוּ דְּרָכוּם.
->
-> **Translation:** **Rabba said: Rav Asi's opinion is reasonable in** a case where they inherited **grapes** on a grapevine **and** the brothers **harvested them** against the will of the firstborn, or if they inherited **olives** on olive trees **and** the brothers **harvested them,** as in these cases, the produce itself did not change. **But** if **they treaded** on **them,** converting them into wine or oil, even if the firstborn protested their doing so, he is **not** entitled to a double portion. **And Rav Yosef said: Even** if they **treaded** on **them,** the firstborn is entitled to a double portion.
+> **Hebrew/Aramaic:** אָמַר רַבָּה: מִסְתַּבֵּר טַעְמֵיהּ דְּרַב אַסִּי בַּעֲנָבִים – וּבְצָרוּם, זֵיתִים – וּמְסָקוּם; אֲבָל דְּרָכוּם – לָא. וְרַב יוֹסֵף אָמַר: אֲפִילּוּ דְּרָכוּם.
+> **Translation:** **Rabba said: Rav Asi’s opinion is reasonable in** a case where they inherited **grapes** on a grapevine **and** the brothers **harvested them** against the will of the firstborn, or if they inherited **olives** on olive trees **and** the brothers **harvested them,** as in these cases, the produce itself did not change. **But** if **they treaded** on **them,** converting them into wine or oil, even if the firstborn protested their doing so, he is **not** entitled to a double portion. **And Rav Yosef said: Even** if they **treaded** on **them,** the firstborn is entitled to a double portion.
 
 Rabba qualifies this ruling significantly. Even granting the force of the *bechor*'s protest, Rabba refuses to accept it in full. His concern is conceptual: since the estate has not yet been divided, the *bechor* does not yet know which specific fields are his. When he protests, there is no identified portion to which his protest can attach; everything still belongs generically to the estate. If the brothers proceed to harvest the grapes or the olives (*batzira* and *maskika* respectively), Rabba will concede that the *bechor* retains his double portion in the harvested produce — but only because harvesting, in the Talmud's framework, does not constitute a major transformation of the object. Even absent any protest, the rabbis treat a *shevach di-mimmela*, a natural or minimal enhancement that does not substantially alter the object's character, as *muchzak* rather than *ra'uy*. In such a case, the *bechor*'s protest reinforces what would already follow from the underlying rule.
 
@@ -30,33 +26,41 @@ However, if the brothers went further and *darchum* — pressed the grapes into 
 
 ### Damage Compensation
 
-> **Hebrew/Aramaic:** דְּרָכוּם?! מֵעִיקָּרָא עִינְבֵי, הַשְׁתָּא חַמְרָא! כִּדְאָמַר רַב עוּקְבָא בַּר חָמָא: לִיתֵּן לוֹ דְּמֵי הֶיזֵּק עֲנָבָיו; הָכָא נָמֵי – נוֹתֵן לוֹ דְּמֵי הֶיזֵּק עֲנָבָיו.
->
-> **Translation:** The Gemara asks: Why is he entitled to a double portion, according to Rav Yosef, even if **they treaded** on **them?** Since the brothers transformed the produce, as **initially** it was in the form of **grapes** and **now** it is **wine,** they have acquired it in the same manner that a thief acquires an item he stole. Therefore, the firstborn should have no share of the enhancement. The Gemara answers: Rav Yosef did not mean that the firstborn is entitled to a double portion of the enhanced value of the wine. Rather, his intention was the same **as** that **which Rav Ukva bar Ḥama says** in a different context, that the ruling is referring **to** a case where the wine spoiled, its value decreasing to below the initial value of the grapes, in which case the brothers must **give** the firstborn **payment for** the **damage** to **his** additional portion of the **grapes. Here, too,** Rav Yosef meant that the brothers **must give** the firstborn **payment for** the **damage to his grapes.**
+> **Hebrew/Aramaic:** דְּרָכוּם?! מֵעִיקָּרָא עִינְבֵי, הַשְׁתָּא חַמְרָא!
+> **Translation:** The Gemara asks: Why is he entitled to a double portion, according to Rav Yosef, even if **they treaded** on **them?** Since the brothers transformed the produce, as **initially** it was in the form of **grapes** and **now** it is **wine,** they have acquired it in the same manner that a thief acquires an item he stole. Therefore, the firstborn should have no share of the enhancement.
+
+> **Hebrew/Aramaic:** כִּדְאָמַר רַב עוּקְבָא בַּר חָמָא: לִיתֵּן לוֹ דְּמֵי הֶיזֵּק עֲנָבָיו; הָכָא נָמֵי – נוֹתֵן לוֹ דְּמֵי הֶיזֵּק עֲנָבָיו.
+> **Translation:** The Gemara answers: Rav Yosef did not mean that the firstborn is entitled to a double portion of the enhanced value of the wine. Rather, his intention was the same **as** that **which Rav Ukva bar Ḥama says** in a different context, that the ruling is referring **to** a case where the wine spoiled, its value decreasing to below the initial value of the grapes, in which case the brothers must **give** the firstborn **payment for** the **damage** to **his** additional portion of the **grapes. Here, too,** Rav Yosef meant that the brothers **must give** the firstborn **payment for** the **damage to his grapes.**
+
+> **Hebrew/Aramaic:** הֵיכָא אִיתְּמַר דְּרַב עוּקְבָא בַּר חָמָא? אַהָא – דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: בְּכוֹר וּפָשׁוּט שֶׁהִנִּיחַ לָהֶן אֲבִיהֶן עֲנָבִים, וּבְצָרוּם; זֵיתִים, וּמְסָקוּם – בְּכוֹר נוֹטֵל פִּי שְׁנַיִם, אֲפִילּוּ דְּרָכוּם. דְּרָכוּם?! מֵעִיקָּרָא עִינְבֵי, הַשְׁתָּא חַמְרָא! אָמַר מָר עוּקְבָא בַּר חָמָא: לִיתֵּן לוֹ דְּמֵי הֶיזֵּק עֲנָבָיו.
+> **Translation:** The Gemara explains: **Where,** i.e., in what context, **was** the statement **of Rav Ukva bar Ḥama stated?** It was **in reference to that which Rav Yehuda says** that **Shmuel says:** With regard to **a firstborn and an ordinary** son **whose father left them grapes and they harvested them,** or if he left them **olives and they harvested them,** the **firstborn takes a double** portion. This is the *halakha* **even** if **they treaded** on **them.** The Gemara asks: Why is he entitled to a double portion if **they treaded** on **them; initially** they were **grapes,** and **now** it is **wine? Mar Ukva bar Ḥama says:** Shmuel did not mean that he is entitled to a double portion of the wine; rather, the reference is **to** a case where the wine spoiled, its value decreasing to below the initial value of the grapes, in which case the ordinary brother must **give** the firstborn **payment for** the **damage** to **his grapes.**
 
 The *gemara*, however, refuses to accept either reading at face value. The transformation from grapes to wine (*meikara invi ve-hashta chamra*) is so substantial that the *gemara* insists: there is no way to say the *bechor* gets a double portion in the wine. It is simply *ra'uy*, full stop. The *gemara* therefore reinterprets the entire sugya — including the ruling of Rav Yehuda in the name of Shmuel, which stated that even after pressing the *bechor* takes *pi shnayim* — on the basis of a principle stated by Rav Ukva bar Chama: *leiten lo d'mei hezek anavav*, we are not talking about the *bechor* receiving a double share of the improved value. Rather, the discussion is about *damage compensation*. If the brothers worked the estate over the *bechor*'s explicit objection, and in the process something went wrong — the grapes were ruined, the produce diminished in value — then the *bechor* is not required to absorb a proportional share of that loss. He protested; they proceeded anyway. Had they left well enough alone, his double portion in the original grapes would have been protected. Since they acted against his objection and caused harm, they bear responsibility for the damage to his share.
 
 To illustrate: if the entire estate's grapes were worth four hundred dollars, the *bechor* stood to receive two hundred dollars' worth as his double portion. The brothers work the grapes, press them carelessly, and the whole batch is now worth only two hundred dollars. The natural instinct would be to divide the two hundred proportionally — one hundred to the *bechor*, fifty each to the other two brothers. But because the *bechor* protested, he is entitled to the full two hundred he would have received had they left his portion untouched. The brothers must absorb the loss.
 
-The Rashbam frames this in terms of *gezel*: by proceeding against his explicit objection, the brothers effectively appropriated his share and are liable as a *kegazlan*. That framing is admittedly strained, since the *gemara* itself has not yet treated the *bechor*'s share as formally his before *chalukah*. But the operative principle is clear: his objection insulates him from losses the brothers cause. This is, as the lecturer notes, a genuinely unsatisfying *gemara*. The scenario of *hezek* is left vague, the precise mechanism of *micha* is unclear, and the ruling about pressing is entirely recharacterized. Nevertheless, within the Rashbam's reading, the underlying principle is coherent: formal *chalukah* is the only event that concretizes the *bechor*'s claim to specific property. Short of that, his protest cannot turn *ra'uy* into *muchzak*, but it can prevent him from suffering at the hands of brothers who acted in defiance of his expressed wishes.
+The Rashbam frames this in terms of *gezel*: by proceeding against his explicit objection, the brothers effectively appropriated his share and are liable as a *kegazlan*. That framing is admittedly strained, since the *gemara* itself has not yet treated the *bechor*'s share as formally his before *chalukah*. But the operative principle is clear: his objection insulates him from losses the brothers cause. This is a genuinely unsatisfying *gemara*. The scenario of *hezek* is left vague, the precise mechanism of *micha* is unclear, and the ruling about pressing is entirely recharacterized. Nevertheless, within the Rashbam's reading, the underlying principle is coherent: formal *chalukah* is the only event that concretizes the *bechor*'s claim to specific property. Short of that, his protest cannot turn *ra'uy* into *muchzak*, but it can prevent him from suffering at the hands of brothers who acted in defiance of his expressed wishes.
 
 ---
 
 ## Waiving Bechor Rights
 
-### Implicit Waiver
 
-> **Hebrew/Aramaic:** אָמַר רַב אַסִּי: בְּכוֹר שֶׁנָּטַל חֵלֶק כְּפָשׁוּט – וִיתֵּר. מַאי ״וִיתֵּר״? רַב פָּפָּא מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּאוֹתָהּ שָׂדֶה. רַב פַּפִּי מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּכׇל הַנְּכָסִים כּוּלָּן.
->
-> **Translation:** § **Rav Asi says: A firstborn who took a portion** of the property **like** that of **an ordinary** heir has **relinquished** his right to an additional portion. The Gemara asks: **What** does it mean that he has **relinquished** his additional portion? **Rav Pappa says in the name of Rava** that he has **relinquished** his additional portion only **with regard to that field** that was divided, since he did not exercise his right to an additional portion, but he has not relinquished his right to receive an additional portion of the rest of the estate. **Rav Pappi says in the name of Rava** that he has **relinquished** his additional portion **with regard to all** of **the property.**
+
+### Implicit Waiver
 
 The *gemara* introduces a new ruling from Rav Assi: *bechor she-natal chelek k'pashut, viter* — if a *bechor* accepted a portion equal to that of a regular son, he has waived his rights. The underlying conceptual foundation here is the principle, encountered earlier in the *gemara*, that the *chelek bechorah* — the extra portion — is characterized by the Torah almost as a *matanah*, a gift given to the *bechor*, rather than as a standard inheritance that accrues automatically. Because it has the character of a gift, it is, in principle, refusable. One who does not insist on his *bechor* portion during the division of the estate has implicitly declined that gift. The question the *gemara* proceeds to debate is: how far does that waiver extend?
 
 ### Rights Kodem Chalukah
 
-> **Hebrew/Aramaic:** רַב פָּפָּא מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּאוֹתָהּ שָׂדֶה – קָא סָבַר: אֵין לוֹ לַבְּכוֹר קוֹדֶם חֲלוּקָּה; וּמָה דַּאֲתָא לִידֵיהּ – אַחֵיל, אִידַּךְ לָא אַחֵיל. וְרַב פַּפֵּי מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּכׇל הַנְּכָסִים כּוּלָּן – קָא סָבַר: יֵשׁ לוֹ לִבְכוֹר קוֹדֶם חֲלוּקָּה; וּמִדְּאַחֵיל בְּהָא – אַחֵיל בְּכוּלְּהוּ.
->
-> **Translation:** The Gemara explains: **Rav Pappa says in the name of Rava** that he has **relinquished** his additional portion only **with regard to that field** that was divided, because he **holds** that **a firstborn does not have** a right to his additional portion **before** the **division** of the property. **And** therefore, he **has waived** his additional portion of **what has** already **reached his possession,** namely, the field that was divided, but he **has not waived** his portion of **the other** fields of the estate. **And Rav Pappi says in the name of Rava** that he has **relinquished** his additional portion **with regard to all** of **the property,** as **he holds** that **a firstborn has** a right to his additional portion **before** the **division** of the property. **And** therefore, **since** he **waived** his additional portion **in this** field, he **has waived** his portion **of all** of the property.
+> **Hebrew/Aramaic:** אָמַר רַב אַסִּי: בְּכוֹר שֶׁנָּטַל חֵלֶק כְּפָשׁוּט – וִיתֵּר. מַאי ״וִיתֵּר״? רַב פָּפָּא מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּאוֹתָהּ שָׂדֶה. רַב פַּפִּי מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּכׇל הַנְּכָסִים כּוּלָּן.
+> **Translation:** § **Rav Asi says: A firstborn who took a portion** of the property **like** that of **an ordinary** heir has **relinquished** his right to an additional portion. The Gemara asks: **What** does it mean that he has **relinquished** his additional portion? **Rav Pappa says in the name of Rava** that he has **relinquished** his additional portion only **with regard to that field** that was divided, since he did not exercise his right to an additional portion, but he has not relinquished his right to receive an additional portion of the rest of the estate. **Rav Pappi says in the name of Rava** that he has **relinquished** his additional portion **with regard to all** of **the property.**
+
+> **Hebrew/Aramaic:** רַב פָּפָּא מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּאוֹתָהּ שָׂדֶה – קָא סָבַר: אֵין לוֹ לַבְּכוֹר קוֹדֶם חֲלוּקָּה; וּמָה דַּאֲתָא לִידֵיהּ – אַחֵיל, אִידַּךְ לָא אַחֵיל.
+> **Translation:** The Gemara explains: **Rav Pappa says in the name of Rava** that he has **relinquished** his additional portion only **with regard to that field** that was divided, because he **holds** that **a firstborn does not have** a right to his additional portion **before** the **division** of the property. **And** therefore, he **has waived** his additional portion of **what has** already **reached his possession,** namely, the field that was divided, but he **has not waived** his portion of **the other** fields of the estate.
+
+> **Hebrew/Aramaic:** וְרַב פַּפֵּי מִשְּׁמֵיהּ דְּרָבָא אָמַר: וִיתֵּר בְּכׇל הַנְּכָסִים כּוּלָּן – קָא סָבַר: יֵשׁ לוֹ לִבְכוֹר קוֹדֶם חֲלוּקָּה; וּמִדְּאַחֵיל בְּהָא – אַחֵיל בְּכוּלְּהוּ.
+> **Translation:** **And Rav Pappi says in the name of Rava** that he has **relinquished** his additional portion **with regard to all** of **the property,** as **he holds** that **a firstborn has** a right to his additional portion **before** the **division** of the property. **And** therefore, **since** he **waived** his additional portion **in this** field, he **has waived** his portion **of all** of the property.
 
 Two opinions are transmitted by different Amoraim, both ostensibly in the name of Rava. Rav Papa says: *viter b'ota sadeh* — he has waived only in that specific field. He has not waived his *bechor* portion for the rest of the estate. Rav Pappi says: *viter b'chol ha-nechasim kulam* — by waiving his portion in one item, he has waived his double share across the entire estate.
 
@@ -68,26 +72,29 @@ Rav Pappi holds *yesh lo la-bechor kodem chalukah*: even before formal division,
 
 The Rashbam notes that the earlier *gemara* about the *bechor*'s right to protest and prevent his brothers from working the estate before division appears to presuppose the position of Rav Pappi — that the *bechor* already has an existing claim *kodem chalukah*, which is why his protest carries legal weight.
 
+The *gemara* adds that these positions of Rav Papa and Rav Pappi were not stated explicitly (*lo b'ferush itmar*), but were inferred (*michlala itmar*) from a practical ruling each gave in the following case.
+
+[DAF:126b]
 ### Sale Before Division
 
-> **Hebrew/Aramaic:** וְהָא דְּרַב פַּפֵּי וְרַב פָּפָּא – לָאו בְּפֵירוּשׁ אִיתְּמַר, אֶלָּא מִכְּלָלָא אִיתְּמַר – דְּהָהוּא בְּכוֹר דַּאֲזַל זַבֵּין נִכְסֵי דִּידֵיהּ וּדְפָשׁוּט. אֲזוּל יַתְמֵי בְּנֵי פָּשׁוּט לְמֵיכַל תַּמְרֵי מֵהָנְהוּ לָקוֹחוֹת, מְחוֹנְהוּ. אָמְרִי לְהוּ קְרוֹבִים: לָא מִיסָּתְיָיא דִּזְבַנְתִּינְהוּ לְנִכְסַיְיהוּ, אֶלָּא מִימְחֵא נָמֵי מָחִיתוּ לְהוּ? אֲתוֹ לְקַמֵּיהּ דְּרָבָא, אֲמַר לְהוּ: לֹא עָשָׂה וְלֹא כְּלוּם.
->
-> **Translation:** The Gemara notes: **And this** dispute **of Rav Pappi and Rav Pappa was not stated explicitly; rather, it was stated by inference. As** there was **a certain firstborn who went** and **sold his property and** the property **of** his deceased **ordinary** brother, i.e., their respective portions of their father's property, before the property was divided. The **orphan sons of** the **ordinary** brother **went to eat dates from** the field that was now in the possession of **those purchasers,** due to their father's share in the field. The purchasers **hit them,** as though they were thieves. The **relatives** of the orphans **said to** the purchasers: **Not only did you purchase their property** illegally, **but you now hit them as well? They came before Rava,** who **said to them:** The firstborn **has done nothing.** His sale was not valid.
+> **Hebrew/Aramaic:** וְהָא דְּרַב פַּפֵּי וְרַב פָּפָּא – לָאו בְּפֵירוּשׁ אִיתְּמַר, אֶלָּא מִכְּלָלָא אִיתְּמַר – דְּהָהוּא בְּכוֹר דַּאֲזַל זַבֵּין נִכְסֵי דִּידֵיהּ וּדְפָשׁוּט. אֲזוּל יַתְמֵי בְּנֵי פָּשׁוּט לְמֵיכַל תַּמְרֵי מֵהָנְהוּ לָקוֹחוֹת, מְחוֹנְהוּ. אָמְרִי לְהוּ קְרוֹבִים: לָא מִיסָּתְיָיא דִּזְבַנְתִּינְהוּ לְנִכְסַיְיהוּ, אֶלָּא מִימְחֵא נָמֵי מָחִיתוּ לְהוּ? אֲתוֹ לְקַמֵּיהּ דְּרָבָא, אֲמַר לְהוּ: לֹא עָשָׂה וְלֹא כְלוּם.
+> **Translation:** The Gemara notes: **And this** dispute **of Rav Pappi and Rav Pappa was not stated explicitly; rather, it was stated by inference. As** there was **a certain firstborn who went** and **sold his property and** the property **of** his deceased **ordinary** brother, i.e., their respective portions of their father’s property, before the property was divided. The **orphan sons of** the **ordinary** brother **went to eat dates from** the field that was now in the possession of **those purchasers,** due to their father’s share in the field. The purchasers **hit them,** as though they were thieves. The **relatives** of the orphans **said to** the purchasers: **Not only did you purchase their property** illegally, **but you now hit them as well? They came before Rava,** who **said to them:** The firstborn **has done nothing.** His sale was not valid.
+
+> **Hebrew/Aramaic:** מָר סָבַר: לֹא עָשָׂה כְּלוּם – בְּפַלְגָא. וּמָר סָבַר: בְּכוּלְּהוּ.
+> **Translation:** Rav Pappi and Rav Pappa disagree with regard to Rava’s intention. One **Sage,** Rav Pappi, **holds** that **he has done nothing with regard to** his brother’s **portion,** as he had no right to sell it; with regard to his own additional portion, the sale was valid, as it was in his possession even before the division of the property. **And** one **Sage,** Rav Pappa, **holds** that he has done nothing **with regard to all** of the property, as he does not possess the additional portion before the property is divided between the brothers.
+
+> **Hebrew/Aramaic:** שְׁלַחוּ מִתָּם: בְּכוֹר שֶׁמָּכַר קוֹדֶם חֲלוּקָּה – לֹא עָשָׂה כְּלוּם. אַלְמָא אֵין לוֹ לַבְּכוֹר קוֹדֶם חֲלוּקָּה. וְהִלְכְתָא: יֵשׁ לַבְּכוֹר קוֹדֶם חֲלוּקָּה.
+> **Translation:** The Gemara notes that **they sent** a ruling **from there,** Eretz Yisrael: **A firstborn who sold** his additional portion **before** the **division** of the property **has done nothing. Apparently,** the Sages of Eretz Yisrael hold that **a firstborn does not have** a right to his additional portion **before** the **division. But the *halakha*** is that **a firstborn has** a right to his additional portion **before** the **division.**
 
 There was a certain *bechor* who went and sold not only his own portion but also that of his brother — both the *bechor* portion and the *pashut* portion he was treating as his to dispose of. The children of the *pashut* (referred to for clarity as the children of Shimon) had been accustomed to eating dates from the palm trees in that field. Now that the field had been sold to purchasers, the purchasers drove them off. The relatives of Shimon's children complained: it is not enough that you have taken our property — now you beat them as well? The matter came before Rava, who said: the sale was invalid. Reuven had no right to sell Shimon's portion — that is straightforward.
 
 The dispute between Rav Pappi and Rav Papa, inferred from their positions in this case, concerns Reuven's own portion. According to Tosafot's reading: Rav Pappi held that the sale was invalid only with respect to Shimon's one-third, but it was valid for Reuven's own two-thirds — both his *pashut* portion and his *bechor* portion. The other position held that it was valid only for his *pashut* portion, not for his *bechor* portion, since the *bechor* portion before *chalukah* is not yet his to sell. The Rashbam reads the case differently and more complexly, but the debate is difficult to reconcile precisely with the language of the *gemara* as it stands.
 
-> **Hebrew/Aramaic:** שְׁלַחוּ מִתָּם: בְּכוֹר שֶׁמָּכַר קוֹדֶם חֲלוּקָּה – לֹא עָשָׂה כְּלוּם. אַלְמָא אֵין לוֹ לַבְּכוֹר קוֹדֶם חֲלוּקָּה. וְהִלְכְתָא: יֵשׁ לַבְּכוֹר קוֹדֶם חֲלוּקָּה.
->
-> **Translation:** The Gemara notes that **they sent** a ruling **from there,** Eretz Yisrael: **A firstborn who sold** his additional portion **before** the **division** of the property **has done nothing. Apparently,** the Sages of Eretz Yisrael hold that **a firstborn does not have** a right to his additional portion **before** the **division. But the *halakha*** is that **a firstborn has** a right to his additional portion **before** the **division.**
-
 The *gemara* then cites a ruling transmitted from Eretz Yisrael: *bechor she-machar kodem chalukah lo asa klum* — a *bechor* who sold his *bechor* portion before division accomplished nothing. This seemingly settles the matter in favor of the position that the *bechor* has no rights before *chalukah*. Yet the *gemara* immediately records the *halacha*: *yesh la-bechor kodem chalukah* — the *bechor* does have a claim before division, and therefore his sale or waiver is meaningful from that moment. The debate between Tosafot and the Rashbam concerns whether the same principle extends to his *pashut* portion or only to the *bechor* portion, which carries the character of a *matanah*.
 
-### Pepper Basket & Total Waiver
+### Pepper Basket & Waiver
 
-> **Hebrew/Aramaic:** מָר זוּטְרָא מִדְּרִישְׁבָּא פְּלַג בְּצַנָּא דְפִלְפְּלֵי בַּהֲדֵי אַחִין, בְּשָׁוֶה. אֲתָא לְקַמֵּיהּ דְּרַב אָשֵׁי, אֲמַר לֵיהּ: הוֹאִיל וִיתַּרְתָּה בְּמִקְצָת – וִיתַּרְתָּה בְּכׇל הַנְּכָסִים כּוּלָּן.
->
+> **Hebrew/Aramaic:** מָר זוּטְרָא מִדְּרִישְׁבָּא פְּלַג בְּצַנָּא דְפִלְפְּלֵי בַּהֲדֵי אַחִין, בְּשָׁוֶה. אֲתָא לְקַמֵּיהּ דְּרַב אָשֵׁי, אֲמַר לֵיהּ: הוֹאִיל וִיתַּרְתָּה בְּמִקְצָת – וִיתַּרְתָּה בְּכׇל הַנְּכָסִים כּוּלָּן.
 > **Translation:** The Gemara relates: **Mar Zutra of** the house **of Rishba,** who was a firstborn, **divided a basket of peppers** from the estate of his father **with** his **brothers equally.** He **came before Rav Ashi** to claim a double portion of the rest of the estate. Rav Ashi **said to him: Since you relinquished** your additional portion **with regard to some** of the estate, **you have relinquished** your additional portion **with regard to all of the property,** as a firstborn has a right to his additional portion before the division.
 
 Mar Zutra from Rishba divided a basket of peppers equally with his brothers, even though he was a *bechor*, implicitly waiving his *bechor* portion in that one transaction. The matter came before Rav Ashi, who ruled: *hovil u-vitarta be-miktzat, vitarta b'chol ha-nechasim kulam* — since you waived your rights in part, you have waived your rights in the entire estate.
@@ -98,18 +105,18 @@ This ruling flows directly from the position that a *bechor* has *yesh lo kodem 
 
 ## Gifts vs. Inheritance
 
+
+
 ### Direct Stipulations Void
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר: ״אִישׁ פְּלוֹנִי בְּנִי בְּכוֹר לֹא יִטּוֹל פִּי שְׁנַיִם״; ״אִישׁ פְּלוֹנִי בְּנִי לֹא יִירַשׁ עִם אֶחָיו״ – לֹא אָמַר כְּלוּם, שֶׁהִתְנָה עַל מַה שֶּׁכָּתוּב בַּתּוֹרָה.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר: ״אִישׁ פְּלוֹנִי בְּנִי בְּכוֹר לֹא יִטּוֹל פִּי שְׁנַיִם״; ״אִישׁ פְּלוֹנִי בְּנִי לֹא יִירַשׁ עִם אֶחָיו״ – לֹא אָמַר כְּלוּם, שֶׁהִתְנָה עַל מַה שֶּׁכָּתוּב בַּתּוֹרָה.
 > **Translation:** MISHNA: In a case of **one who says: So-and-so, my firstborn son, will not take a double** portion of my estate; or one who says: **So-and-so, my son, will not inherit** my estate **among his brothers, he has said nothing, as he has stipulated counter to that which is written in the Torah.**
 
 The *mishnah* presents two cases of explicit paternal intervention. If a father says *ish ploni bni bechor lo yitol pi shnayim* — "this person is my firstborn son but shall not receive a double portion" — or *ish ploni bni lo yirash im echav* — "this is my son but shall not inherit alongside his brothers" — *lo amar klum*, his words are legally void. One cannot directly countermand the Torah's structure of inheritance. The father's attempt to override *din Torah* through explicit declaration is simply ineffective, because *heistna al ma she-katuv ba-Torah* — he has stipulated against what is written in the Torah.
 
 ### Matana Workaround
 
-> **Hebrew/Aramaic:** הַמְחַלֵּק נְכָסָיו עַל פִּיו; רִיבָּה לְאֶחָד וּמִיעֵט לְאֶחָד, וְהִשְׁוָה לָהֶן אֶת הַבְּכוֹר – דְּבָרָיו קַיָּימִין. וְאִם אָמַר מִשּׁוּם יְרוּשָּׁה – לֹא אָמַר כְּלוּם. כָּתַב בֵּין בַּתְּחִלָּה בֵּין בָּאֶמְצַע בֵּין בַּסּוֹף – מִשּׁוּם מַתָּנָה, דְּבָרָיו קַיָּימִין.
->
+> **Hebrew/Aramaic:** הַמְחַלֵּק נְכָסָיו עַל פִּיו; רִיבָּה לְאֶחָד וּמִיעֵט לְאֶחָד, וְהִשְׁוָה לָהֶן אֶת הַבְּכוֹר – דְּבָרָיו קַיָּימִין. וְאִם אָמַר מִשּׁוּם יְרוּשָּׁה – לֹא אָמַר כְּלוּם. כָּתַב בֵּין בַּתְּחִלָּה בֵּין בָּאֶמְצַע בֵּין בַּסּוֹף – מִשּׁוּם מַתָּנָה, דְּבָרָיו קַיָּימִין.
 > **Translation:** With regard to **one** on his deathbed **who apportions his property orally,** granting it to his sons as a gift, and he **increased** the portion given **to one** of his sons **and reduced** the portion given **to one** son, **or equated** the portion of **the firstborn to** the portions of the other sons, **his statement stands. But if he said** that they will receive the property not as a gift but **as inheritance, he has said nothing.** If he **wrote** in his will, **whether at the beginning, or in the middle, or at the end,** that he is granting them the property **as a gift, his statement stands.**
 
 The *mishnah* then introduces the workaround. If a father is *mechalek nechasav al piv* — distributing his estate by verbal instruction — and he increases one heir's share, decreases another's, and equalizes the *bechor* with the other sons, this is *divrav kayamim* — his words stand — provided it is framed as a gift (*matanah*) rather than as an inheritance. This is the operative mechanism of the rabbinic will and of *matnat shechiv mera*, the deathbed bequest: rather than reassigning inheritance, the father converts his entire estate into gifts, which he then distributes as he sees fit. The Torah's rules of inheritance apply to what remains as *yerushah*; if everything has been designated as gifts, nothing is left to which the inheritance laws apply.
@@ -120,9 +127,11 @@ The *mishnah* adds a nuance: *katav bein be-techilah bein be-emtza bein be-sof m
 
 ### Rabbi Yehuda's Principle
 
-> **Hebrew/Aramaic:** גְּמָ׳ לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי יְהוּדָה? דְּאִי רַבִּי יְהוּדָה, הָאָמַר: בְּדָבָר שֶׁל מָמוֹן תְּנָאוֹ קַיָּים!
->
-> **Translation:** GEMARA: The Gemara suggests: **Let us say that the mishna is not in accordance with** the opinion of **Rabbi Yehuda, as if** it is in accordance with the opinion of **Rabbi Yehuda, doesn't he say** elsewhere that if one stipulates counter to that which is written in the Torah **with regard to monetary matters, his stipulation stands?**
+> **Hebrew/Aramaic:** גְּמָ׳ לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי יְהוּדָה? דְּאִי רַבִּי יְהוּדָה, הָאָמַר: בְּדָבָר שֶׁל מָמוֹן תְּנָאוֹ קַיָּים!
+> **Translation:** GEMARA: The Gemara suggests: **Let us say that the mishna is not in accordance with** the opinion of **Rabbi Yehuda, as if** it is in accordance with the opinion of **Rabbi Yehuda, doesn’t he say** elsewhere that if one stipulates counter to that which is written in the Torah **with regard to monetary matters, his stipulation stands?**
+
+> **Hebrew/Aramaic:** דְּתַנְיָא, הָאוֹמֵר לְאִשָּׁה: ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי, עַל מְנָת שֶׁאֵין לִיךְ עָלַי שְׁאֵר כְּסוּת וְעוֹנָה״ – הֲרֵי זוֹ מְקוּדֶּשֶׁת, וּתְנָאוֹ בָּטֵל; דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: בְּדָבָר שֶׁל מָמוֹן – תְּנָאוֹ קַיָּים!
+> **Translation:** **As it is taught** in a *baraita* (*Tosefta*, *Kiddushin* 3:7): If one **says to a woman: You are hereby betrothed to me on the condition that you have no** ability to claim **from me food, clothing, and conjugal rights, she is betrothed and his stipulation is void;** this is **the statement of Rabbi Meir. Rabbi Yehuda says: With regard to monetary matters,** such as food and clothing, **his stipulation stands,** despite being counter to that which is written in the Torah. According to the opinion of Rabbi Yehuda, one should be able to stipulate that his firstborn son not receive a double portion, or that one of his sons not inherit from him at all, as inheritance is a monetary matter.
 
 The *gemara* challenges the *mishnah*. Perhaps it represents only the view of Rabbi Meir, not of Rabbi Yehuda — and therefore cannot be assumed to be authoritative. The underlying question is Rabbi Yehuda's principle: *bidvar she-be-mamon, tna'o kayam* — in monetary matters, a stipulation against a Torah-assigned obligation is valid.
 
@@ -132,14 +141,9 @@ Rabbi Yehuda's broader position is that wherever the Torah imposes financial obl
 
 The *gemara* therefore raises the possibility: perhaps our *mishnah*, which says one cannot stipulate against Torah-defined inheritance, is specifically the view of Rabbi Meir, not Rabbi Yehuda. According to Rabbi Yehuda, perhaps even direct stipulations against the *bechor*'s double portion would be valid.
 
-> **Hebrew/Aramaic:** דְּתַנְיָא, הָאוֹמֵר לְאִשָּׁה: ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי, עַל מְנָת שֶׁאֵין לִיךְ עָלַי שְׁאֵר כְּסוּת וְעוֹנָה״ – הֲרֵי זוֹ מְקוּדֶּשֶׁת, וּתְנָאוֹ בָּטֵל; דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: בְּדָבָר שֶׁל מָמוֹן – תְּנָאוֹ קַיָּים!
->
-> **Translation:** **As it is taught** in a *baraita* (*Tosefta*, *Kiddushin* 3:7): If one **says to a woman: You are hereby betrothed to me on the condition that you have no** ability to claim **from me food, clothing, and conjugal rights, she is betrothed and his stipulation is void;** this is **the statement of Rabbi Meir. Rabbi Yehuda says: With regard to monetary matters,** such as food and clothing, **his stipulation stands,** despite being counter to that which is written in the Torah. According to the opinion of Rabbi Yehuda, one should be able to stipulate that his firstborn son not receive a double portion, or that one of his sons not inherit from him at all, as inheritance is a monetary matter.
-
 ### Not Two-Sided
 
-> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי יְהוּדָה: הָתָם יָדְעָה וְקָא מָחֲלָה, הָכָא לָא קָא מָחֵיל.
->
+> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי יְהוּדָה: הָתָם יָדְעָה וְקָא מָחֲלָה, הָכָא לָא קָא מָחֵיל.
 > **Translation:** The Gemara rejects this suggestion: **Even** if **you say** that the mishna is in accordance with the opinion of **Rabbi Yehuda, there,** the woman **knew** of his stipulation **and waived** her rights. Therefore, the stipulation stands. **Here,** the son whose portion was reduced **did not waive** his portion. Therefore the stipulation is not valid.
 
 The *gemara* deflects this challenge: *afilu teima Rabbi Yehuda* — even according to Rabbi Yehuda, our *mishnah*'s ruling is valid. The key distinction is: *hatam yada ve-kamachla* — in the cases where Rabbi Yehuda validates stipulations, there is a party who knows what they are giving up and consciously waives it. A woman entering *kiddushin* knows the default obligations and can agree to forgo the monetary ones. A *shomer* entering a bailment arrangement knows the default liability rules and can agree to different terms. Both cases involve two active parties who knowingly restructure a bilateral transaction.
@@ -150,19 +154,19 @@ Inheritance is fundamentally different. It is not a transaction. The heir does n
 
 ## Proving Bechor Status
 
+
+
 ### Father-Firstborn Required
 
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף, אָמַר: ״אִישׁ פְּלוֹנִי בְּנִי, בְּכוֹרִי הוּא״ – נוֹטֵל פִּי שְׁנַיִם. ״אִישׁ פְּלוֹנִי בְּכוֹר הוּא״ – אֵינוֹ נוֹטֵל פִּי שְׁנַיִם, דִּלְמָא בּוּכְרָא דְאִמָּא קָאָמַר.
->
-> **Translation:** § **Rav Yosef says** that if a man **says: So-and-so is my firstborn son,** the son **takes a double** portion of his inheritance based on this testimony. If he says: **So-and-so is a firstborn,** the son **does not take a double** portion, as **perhaps** the man **was saying** that the son is his **mother's firstborn** but not his own firstborn.
+> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף, אָמַר: ״אִישׁ פְּלוֹנִי בְּנִי, בְּכוֹרִי הוּא״ – נוֹטֵל פִּי שְׁנַיִם. ״אִישׁ פְּלוֹנִי בְּכוֹר הוּא״ – אֵינוֹ נוֹטֵל פִּי שְׁנַיִם, דִּלְמָא בּוּכְרָא דְאִמָּא קָאָמַר.
+> **Translation:** § **Rav Yosef says** that if a man **says: So-and-so is my firstborn son,** the son **takes a double** portion of his inheritance based on this testimony. If he says: **So-and-so is a firstborn,** the son **does not take a double** portion, as **perhaps** the man **was saying** that the son is his **mother’s firstborn** but not his own firstborn.
 
 Rav Yosef establishes an important evidentiary distinction. If a father says *ish ploni bni bechori* — "so-and-so is my son, my firstborn" — the son receives the double portion, as the *mishnah* teaches. But if the father says only *ish ploni bechor hu* — "this person is a *bechor*" — that is insufficient to entitle the son to *pi shnayim*, even if those present understood him to be referring to his son. The reason: *dilma bechor de-imma ka'amar* — perhaps he meant that this person is firstborn to his mother (*bechor de-imma*), not firstborn to his father. The *bechor* entitled to a double portion under Torah law is specifically the firstborn male of the father, *peter rechem ha-av*. A person who is the first male child of a mother but not of his father (*bechor de-imma*) has the status of *peter rechem* for certain purposes — such as *pidyon ha-ben* — but does not receive the patrimonial double portion. The father's ambiguous statement cannot be read as a definitive declaration of paternal firstborn status, since another plausible interpretation is available.
 
 ### Buchra Sikhla Nickname
 
-> **Hebrew/Aramaic:** הָהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַבָּה בַּר בַּר חָנָה, אֲמַר לֵיהּ: מוּחְזְקַנִי בָּזֶה שֶׁהוּא בְּכוֹר. אֲמַר לֵיהּ: מְנָא יָדְעַתְּ? דַּהֲוָה קָרֵי לֵיהּ אֲבוּהּ ״בּוּכְרָא סַכְלָא״. דִּלְמָא בּוּכְרָא דְאִמָּא הוּא, דְּכׇל בּוּכְרָא דְאִמָּא נָמֵי ״בּוּכְרָא סַכְלָא״ קָארוּ לֵיהּ.
->
-> **Translation:** The Gemara relates: There was **a certain** man **who came before Rabba bar bar Ḥana** and **said to him: I know that this** man **is a firstborn.** Rabba bar bar Ḥana **said to him: From where do you know?** He answered: **Because his father would call him a foolish firstborn.** Rabba bar bar Ḥana replied: **Perhaps he is** his **mother's firstborn, as any firstborn of a mother is also called a foolish firstborn.**
+> **Hebrew/Aramaic:** הָהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַבָּה בַּר בַּר חָנָה, אֲמַר לֵיהּ: מוּחְזְקַנִי בָּזֶה שֶׁהוּא בְּכוֹר. אֲמַר לֵיהּ: מְנָא יָדְעַתְּ? דַּהֲוָה קָרֵי לֵיהּ אֲבוּהּ ״בּוּכְרָא סַכְלָא״. דִּלְמָא בּוּכְרָא דְאִמָּא הוּא, דְּכׇל בּוּכְרָא דְאִמָּא נָמֵי ״בּוּכְרָא סַכְלָא״ קָארוּ לֵיהּ.
+> **Translation:** The Gemara relates: There was **a certain** man **who came before Rabba bar bar Ḥana** and **said to him: I know that this** man **is a firstborn.** Rabba bar bar Ḥana **said to him: From where do you know?** He answered: **Because his father would call him a foolish firstborn.** Rabba bar bar Ḥana replied: **Perhaps he is** his **mother’s firstborn, as any firstborn of a mother is also called a foolish firstborn.**
 
 A case came before Rabba bar bar Chana (with the Rashbam noting that there were two witnesses, as required). A witness claimed to know that a certain individual was the *bechor* of his deceased father. When asked the basis for this knowledge, the witness replied: *da-hava kari lei avuh buchra sichla* — his father used to call him "foolish firstborn." The nickname "foolish firstborn," the witness reasoned, demonstrates that the father himself viewed this son as his *bechor*.
 
@@ -172,9 +176,11 @@ Rabba bar bar Chana rejected this evidence. *Dilma bukhra de-imma hu* — perhap
 
 ### Spittle Healing Proof
 
-> **Hebrew/Aramaic:** הָהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַבִּי חֲנִינָא, אֲמַר לֵיהּ: מוּחְזְקַנִי בָּזֶה שֶׁהוּא בְּכוֹר. אֲמַר לֵיהּ: מְנָא יָדְעַתְּ? אֲמַר לֵיהּ: דְּכִי הֲווֹ אָתוּ לְגַבֵּי אֲבוּהּ, אֲמַר לְהוּ: זִילוּ לְגַבֵּי שִׁכְחַת בְּרִי, דְּבוּכְרָא הוּא וּמַסֵּי רוּקֵּיהּ. וְדִלְמָא בּוּכְרָא דְאִמָּא הוּא! גְּמִירִי: בּוּכְרָא דְאַבָּא – מַסֵּי רוּקֵּיהּ, בּוּכְרָא דְאִמָּא – לָא מַסֵּי רוּקֵּיהּ.
->
-> **Translation:** The Gemara relates: There was **a certain** man **who came before Rabbi Ḥanina** and **said to him: I know that this** man **is a firstborn.** Rabbi Ḥanina **said to him: From where do you know? He said to** Rabbi Ḥanina: **Because when** people **would come before his father** to obtain a cure for their ailing eyes, **he would say to them: Go to my son Shikhḥat, as he is a firstborn and his saliva heals** this ailment. The Gemara asks: **But perhaps he is** his **mother's firstborn?** The Gemara answers: It **is learned** as a tradition that **the saliva of a father's firstborn heals** this ailment but **the saliva of a mother's firstborn does not heal** this ailment.
+> **Hebrew/Aramaic:** הָהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַבִּי חֲנִינָא, אֲמַר לֵיהּ: מוּחְזְקַנִי בָּזֶה שֶׁהוּא בְּכוֹר. אֲמַר לֵיהּ: מְנָא יָדְעַתְּ? אֲמַר לֵיהּ: דְּכִי הֲווֹ אָתוּ לְגַבֵּי אֲבוּהּ, אֲמַר לְהוּ: זִילוּ לְגַבֵּי שִׁכְחַת בְּרִי, דְּבוּכְרָא הוּא וּמַסֵּי רוּקֵּיהּ.
+> **Translation:** The Gemara relates: There was **a certain** man **who came before Rabbi Ḥanina** and **said to him: I know that this** man **is a firstborn.** Rabbi Ḥanina **said to him: From where do you know? He said to** Rabbi Ḥanina: **Because when** people **would come before his father** to obtain a cure for their ailing eyes, **he would say to them: Go to my son Shikhḥat, as he is a firstborn and his saliva heals** this ailment.
+
+> **Hebrew/Aramaic:** וְדִלְמָא בּוּכְרָא דְאִמָּא הוּא! גְּמִירִי: בּוּכְרָא דְאַבָּא – מַסֵּי רוּקֵּיהּ, בּוּכְרָא דְאִמָּא – לָא מַסֵּי רוּקֵּיהּ.
+> **Translation:** The Gemara asks: **But perhaps he is** his **mother’s firstborn?** The Gemara answers: It **is learned** as a tradition that **the saliva of a father’s firstborn heals** this ailment but **the saliva of a mother’s firstborn does not heal** this ailment.
 
 A similar case came before Rav Chanina. Again witnesses appeared, claiming to know that a certain individual was a *bechor*. When asked how they knew, they reported: *de-ki havu atu gabbei avuha, amar lehu: zilu le-gabbei Shichchas beri, de-bechor hu, u-masi rokei* — when people would come to his father for treatment, the father would direct them: go to Shichchas my son, he is a *bechor*, and his spittle has healing properties. The Rashbam explains that there was a widespread belief that the spittle of a firstborn son had medicinal efficacy for eye ailments.
 
@@ -184,31 +190,32 @@ The *gemara* anticipates the obvious objection: *dilma bechor de-imma hu* — pe
 
 ## Tumtum Status Issues
 
-### Tumtum No Double
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַמֵּי: טוּמְטוּם שֶׁנִּקְרַע וְנִמְצָא זָכָר, אֵינוֹ נוֹטֵל פִּי שְׁנַיִם; דְּאָמַר קְרָא: ״וְהָיָה הַבֵּן הַבְּכוֹר לַשְּׂנִיאָה״ – עַד שֶׁיְּהֵא בֵּן מִשְּׁעַת הֲוָיָה.
->
-> **Translation:** § **Rabbi Ami says:** In the case of **one whose sexual organs are indeterminate [*tumtum*]** and **whose** skin **became perforated** so that his genitals were exposed **and** he **was found** to be **a male,** he **does not take a double** portion of his father's estate. **As the verse states: "And if the firstborn son was [*vehaya*] hers that was hated"** (Deuteronomy 21:15), which is interpreted to mean that he is not considered a firstborn **unless he is** recognized as **a son,** i.e., male, **from the moment of** his coming into **being [*havaya*],** i.e., his birth.
+
+### Tumtum No Double
 
 Rabbi Ami rules: *tumtum she-nikra ve-nimtza zachar, eino notel pi shnayim* — a *tumtum* whose skin covering tears and who is thereby discovered to be male does not receive the double portion of a *bechor*. A *tumtum* is a person born with genitalia that is covered or indeterminate, such that it cannot be established whether the individual is male or female. Halachically, such a person is treated as a *safek* — a case of genuine uncertainty — though it is presumed that the person is definitively one or the other, and our ignorance is about fact rather than about status. Here, however, Rabbi Ami introduces a principle that goes beyond the typical *safek* analysis: even once the ambiguity is resolved and the person is confirmed to be male, certain halachic statuses that depend on recognition at the moment of birth cannot retroactively attach. Specifically, the *bechor*'s double portion is lost.
 
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַמֵּי: טוּמְטוּם שֶׁנִּקְרַע וְנִמְצָא זָכָר, אֵינוֹ נוֹטֵל פִּי שְׁנַיִם; דְּאָמַר קְרָא: ״וְהָיָה הַבֵּן הַבְּכוֹר לַשְּׂנִיאָה״ – עַד שֶׁיְּהֵא בֵּן מִשְּׁעַת הֲוָיָה.
+> **Translation:** § **Rabbi Ami says:** In the case of **one whose sexual organs are indeterminate [*tumtum*]** and **whose** skin **became perforated** so that his genitals were exposed **and** he **was found** to be **a male,** he **does not take a double** portion of his father’s estate. **As the verse states: “And if the firstborn son was [*vehaya*] hers that was hated”** (Deuteronomy 21:15), which is interpreted to mean that he is not considered a firstborn **unless he is** recognized as **a son,** i.e., male, **from the moment of** his coming into **being [*havaya*],** i.e., his birth.
+
 ### Recognition at Birth
+
+
 
 The scriptural source is the verse: *ve-haya ha-ben ha-bechor la-seni'ah* — "the firstborn son shall belong to the hated wife" (Devarim 21:17). The *gemara* derives: *ad she-yehei ben mi-sha'at havaya* — he must be recognized as a *ben*, a son, from the moment of his coming into being, i.e., at birth. The *tumtum*, at the moment of birth, was not recognizable as a son. Since his maleness was not apparent, the legal status of *bechor* did not crystallize at that moment, and it cannot be imposed retroactively once the covering is torn and his male status is discovered.
 
 ### Sorer U-Moreh
 
-> **Hebrew/Aramaic:** רַב נַחְמָן בַּר יִצְחָק אָמַר: אַף אֵינוֹ נִידּוֹן כְּבֵן סוֹרֵר וּמוֹרֶה, דְּאָמַר קְרָא: ״כִּי יִהְיֶה לְאִישׁ בֵּן סוֹרֵר וּמוֹרֶה״ – עַד שֶׁיְּהֵא בֵּן מִשְּׁעַת הֲוָיָה.
->
-> **Translation:** **Rav Naḥman bar Yitzḥak says:** A *tumtum* who was found to be male **is also not judged as a stubborn and rebellious son, as the verse states: "If there will be [*yihyeh*] to a man a stubborn and rebellious son"** (Deuteronomy 21:18), which is interpreted to mean that one is not judged in this manner **unless he is** recognized as **a son from the moment of** his coming into **being.**
+> **Hebrew/Aramaic:** רַב נַחְמָן בַּר יִצְחָק אָמַר: אַף אֵינוֹ נִידּוֹן כְּבֵן סוֹרֵר וּמוֹרֶה, דְּאָמַר קְרָא: ״כִּי יִהְיֶה לְאִישׁ בֵּן סוֹרֵר וּמוֹרֶה״ – עַד שֶׁיְּהֵא בֵּן מִשְּׁעַת הֲוָיָה.
+> **Translation:** **Rav Naḥman bar Yitzḥak says:** A *tumtum* who was found to be male **is also not judged as a stubborn and rebellious son, as the verse states: “If there will be [*yihyeh*] to a man a stubborn and rebellious son”** (Deuteronomy 21:18), which is interpreted to mean that one is not judged in this manner **unless he is** recognized as **a son from the moment of** his coming into **being.**
 
 Rav Nachman bar Yitzchak extends this principle to the laws of *ben sorer u-moreh*, the wayward and rebellious son (Devarim 21:18). Even though the status of *ben sorer u-moreh* is a matter of conduct that occurs years after birth — during adolescence — the scriptural description begins with *ki yihyeh le-ish ben* — "when a man has a son." The *gemara* applies the same interpretive principle: *ad she-yehei ben mi-sha'at havaya* — he must have been a recognized *ben* at the moment of birth. Since the *tumtum* was not recognized as a son at birth, he falls outside the category of *ben sorer u-moreh* entirely, even after his male status is established.
 
 ### Portion Calculation
 
-> **Hebrew/Aramaic:** אַמֵּימָר אָמַר: אַף אֵינוֹ מְמַעֵט חֵלֶק בְּכוֹרָה, שֶׁנֶּאֱמַר: ״וְיָלְדָה לוֹ בָּנִים״ – עַד שֶׁיְּהֵא בֵּן בִּשְׁעַת לֵידָה.
->
-> **Translation:** **Ameimar says:** A *tumtum* who was found to be male **also does not reduce the** additional **portion of the firstborn.** His portion is not taken into account in the calculation of the firstborn's additional portion. For example, if there are three brothers: A firstborn, an ordinary brother, and a *tumtum*, the firstborn receives one-third of the property as his additional portion, as he would if he and the ordinary brother were the only heirs, and the remaining two-thirds are divided among all three brothers. This is **because it is stated** with regard to the portion of the firstborn: **"And they have borne him sons"** (Deuteronomy 21:15), which is interpreted to mean that the brother of a firstborn does not affect his additional portion **unless he is** recognized as **a son at the moment of** his **birth.**
+> **Hebrew/Aramaic:** אַמֵּימָר אָמַר: אַף אֵינוֹ מְמַעֵט חֵלֶק בְּכוֹרָה, שֶׁנֶּאֱמַר: ״וְיָלְדָה לוֹ בָּנִים״ – עַד שֶׁיְּהֵא בֵּן בִּשְׁעַת לֵידָה.
+> **Translation:** **Ameimar says:** A *tumtum* who was found to be male **also does not reduce the** additional **portion of the firstborn.** His portion is not taken into account in the calculation of the firstborn’s additional portion. For example, if there are three brothers: A firstborn, an ordinary brother, and a *tumtum*, the firstborn receives one-third of the property as his additional portion, as he would if he and the ordinary brother were the only heirs, and the remaining two-thirds are divided among all three brothers. This is **because it is stated** with regard to the portion of the firstborn: **“And they have borne him sons”** (Deuteronomy 21:15), which is interpreted to mean that the brother of a firstborn does not affect his additional portion **unless he is** recognized as **a son at the moment of** his **birth.**
 
 Amemar adds a further ruling at the top of 27a: the *tumtum* does not diminish (*lo mema'et*) the size of the *bechor*'s portion in the estate. To understand this, consider the arithmetic. If a father left an estate worth four hundred dollars and had three sons, the *bechor*'s double portion is calculated as follows: the estate is notionally divided into four shares (one extra for the *bechor*), so each share is one hundred dollars. The *bechor* receives two hundred; each *pashut* receives one hundred. Now suppose one of those three sons was born as a *tumtum* and only later discovered to be male. Since the *tumtum*, as established by Rabbi Ami, is not counted as a *ben* for *bechor*-related purposes, he is excluded from the initial calculation that determines the size of the *bechor*'s double portion. The calculation proceeds as if there were only two sons: the estate of four hundred is divided into three parts, making each part approximately 133 dollars, and the *bechor* receives 266 while the remaining 133 belongs to the second *pashut* son. The 266 is then split among all three actual sons for their *pashut* shares. The *tumtum*'s presence does not compress the *bechor*'s enhanced portion.
 
@@ -216,9 +223,11 @@ The scriptural basis: *ve-yaldu lo banim* — "and they bore him sons" — follo
 
 ### Brit Milah Exception
 
-> **Hebrew/Aramaic:** רַב שֵׁיזְבִי אָמַר: אַף אֵינוֹ נִימּוֹל לִשְׁמֹנָה, דְּאָמַר קְרָא: ״אִשָּׁה כִּי תַזְרִיעַ וְיָלְדָה זָכָר״, ״וּבַיּוֹם הַשְּׁמִינִי יִמּוֹל״ – עַד שֶׁיְּהֵא זָכָר מִשְּׁעַת לֵידָה.
->
-> **Translation:** **Rav Sheizevi says:** A *tumtum* who was found to be male **is also not circumcised on** the **eighth** day, if his eighth day occurs on Shabbat, although the mitzva of circumcision on the eighth day generally overrides Shabbat prohibtions. **As the verse states: "If a woman bears seed and gives birth to a male** then she shall be unclean seven days; as in the days of the impurity of her sickness shall she be unclean. **And on the eighth day** the flesh of his foreskin **shall be circumcised"** (Leviticus 12:2–3), which is interpreted to mean that he is not circumcised on the eighth day, in the event that it occurs on Shabbat, **unless he is** recognized as **a male from the moment of** his **birth.**
+> **Hebrew/Aramaic:** רַב שֵׁיזְבִי אָמַר: אַף אֵינוֹ נִימּוֹל לִשְׁמֹנָה, דְּאָמַר קְרָא: ״אִשָּׁה כִּי תַזְרִיעַ וְיָלְדָה זָכָר״, ״וּבַיּוֹם הַשְּׁמִינִי יִמּוֹל״ – עַד שֶׁיְּהֵא זָכָר מִשְּׁעַת לֵידָה.
+> **Translation:** **Rav Sheizevi says:** A *tumtum* who was found to be male **is also not circumcised on** the **eighth** day, if his eighth day occurs on Shabbat, although the mitzva of circumcision on the eighth day generally overrides Shabbat prohibtions. **As the verse states: “If a woman bears seed and gives birth to a male** then she shall be unclean seven days; as in the days of the impurity of her sickness shall she be unclean. **And on the eighth day** the flesh of his foreskin **shall be circumcised”** (Leviticus 12:2–3), which is interpreted to mean that he is not circumcised on the eighth day, in the event that it occurs on Shabbat, **unless he is** recognized as **a male from the moment of** his **birth.**
+
+> **Hebrew/Aramaic:** רַב שֵׁרֵבְיָא אָמַר: אַף אֵין אִמּוֹ טְמֵאָה לֵידָה, דְּאָמַר קְרָא: ״אִשָּׁה כִּי תַזְרִיעַ וְיָלְדָה זָכָר וְטָמְאָה שִׁבְעַת יָמִים״ – עַד שֶׁיְּהֵא זָכָר מִשְּׁעַת לֵידָה.
+> **Translation:** **Rav Sherevya says: His mother is also not** rendered **ritually impure** due to his **birth, as the verse states: “If a woman bears seed and gives birth to a male, then she shall be unclean seven days,”** which is interpreted to mean that she is not rendered impure **unless he is** recognized as **a male from the moment of** his **birth.**
 
 Rav Shizbi adds: the *tumtum* who is later discovered to be male does not have his *brit milah* performed on the eighth day in a manner that overrides *Shabbat*. The verse states: *ishah ki tazria ve-yaldah zachar u-va-yom ha-shmini yimol* — when a woman gives birth to a male, he shall be circumcised on the eighth day. The *gemara* applies the consistent principle: *ad she-yehei zachar mi-sha'at leidah* — he must have been recognized as male from the moment of birth. The *tumtum* was not. Accordingly, even after his male status is confirmed, his *milah* does not carry the special status that overrides *Shabbat*.
 

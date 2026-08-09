@@ -1,0 +1,285 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Notar & Niddah",
+    "candidates": [
+      "to'eh b'dvar mitzvah",
+      "Notar & Niddah",
+      "Yevama Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the continuous discussion of the notar/niddah cases reported by Rabbi Zeira and Rabbi Shmuel bar Rav Yitzchak, which is precisely what candidate 1 ('Notar & Niddah') describes in its prose.",
+      "chosen_heading": "Notar & Niddah",
+      "current_heading": "Notar & Niddah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Yevama Exception",
+    "candidates": [
+      "Yevama Exception",
+      "Pregnant Wife",
+      "Rava's Ruling",
+      "Samuch Levistah",
+      "Embarrassment Factor",
+      "Following Which Opinion",
+      "Urgency Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of objections and answers about why the wife case is not a mitzvah (pregnant, not onah time, Rava's ruling, samuch levistah) culminating in the baziz/shyness distinction \u2014 exactly what heading 0 ('Yevama Exception') describes in its prose, which explicitly traces this entire progression through me'uberet, simchat onatah, Rava's statement, and the embarrassment factor.",
+      "chosen_heading": "Yevama Exception",
+      "current_heading": "Yevama Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Urgency Cases",
+    "candidates": [
+      "Pregnant Wife",
+      "Rava's Ruling",
+      "Samuch Levistah",
+      "Embarrassment Factor",
+      "Following Which Opinion",
+      "Urgency Cases",
+      "Trumah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabbi Yosi/lulav case and the 'zmano bahu' (urgency) objection, which is exactly what the 'Urgency Cases' prose section describes as the Gemara's challenge to Rabbi Yochanan following Rabbi Yosi.",
+      "chosen_heading": "Urgency Cases",
+      "current_heading": "Urgency Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Trumah Exception",
+    "candidates": [
+      "Trumah Exception",
+      "Trumah Avodah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the Gemara's chain of attempts to find a precedent for Rabbi Yo\u1e25anan's ruling \u2014 first via Rabbi Yehoshua's rulings on offerings and babies (items 1-2), then the teruma case (item 3), then the Rav Beivai bar Abaye rebuttal (item 4) \u2014 which is precisely what the 'Trumah Exception' prose discusses, culminating in the Erev Pesach urgency argument.",
+      "chosen_heading": "Trumah Exception",
+      "current_heading": "Trumah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Trumah Avodah",
+    "candidates": [
+      "Trumah Avodah",
+      "Tiken Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items concern the 'teruma is called avodah' argument \u2014 the alternative rationale, the proof from Rabbi Yehoshua's ruling on a disqualified kohen, the question of where teruma is called avodah, and the Rabbi Tarfon baraita \u2014 which is precisely what the 'Trumah Avodah' section's prose describes in detail.",
+      "chosen_heading": "Trumah Avodah",
+      "current_heading": "Trumah Avodah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Tiken Principle",
+    "candidates": [
+      "Tiken Principle",
+      "Treifa Beseter",
+      "Avodah Zarah",
+      "Asham to Olah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tiken Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the mishna's opening cases of shechitah shelo le'ochlav and shelo lishmah, explaining why these obvious rulings were taught \u2014 exactly what heading 0's prose describes as the Gemara's transition to 73a and the mishna's invalid shechitah configurations.",
+      "second_heading": "Treifa Beseter",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 form the continuous 'mai tiken' discussion \u2014 Rav Huna bar Chinnana's question to Rav Zerika, the tiken im alu lo yerdu answer, the ba'al mum case, the treifa beseter case, and then the avodah zarah case with Rav Avira's answer \u2014 which spans headings 0-2 but items 3-6 match heading 0's and 1's prose while items 7-8 match heading 2's avodah zarah discussion; however since items 3-8 are one continuous chain, the structural seam is genuinely after item 2 where the mishna discussion ends and the mai tiken chain begins under heading 0.",
+      "current_heading": "Tiken Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Asham to Olah",
+    "candidates": [
+      "Treifa Beseter",
+      "Avodah Zarah",
+      "Asham to Olah",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Huna's ruling about an asham consigned to grazing being slaughtered stam and valid as an olah, which is precisely what the 'Asham to Olah' section's prose describes as its topic.",
+      "chosen_heading": "Asham to Olah",
+      "current_heading": "Asham to Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Pesach Challenge",
+      "Rabbi Chiya Bar Gamda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in the 'Rav's Position' prose: the gezeirah l'achar kaparah atu lifnei kaparah answer, the proof from the Mishnah about an asham whose owners died or were atoned, and the bidamav in aval gufo lo conclusion \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Rabbi Chiya Bar Gamda",
+    "candidates": [
+      "Pesach Challenge",
+      "Rabbi Chiya Bar Gamda",
+      "Nireh Venidcha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-5 are precisely the Rav Chisda challenge to Rav Huna and the reversal of Rav's ruling (ba'ei akirah) described in candidate 0's prose, and items 6-7 introduce Rabbi Chiya bar Gamda's position which candidate 0 explicitly sets up as the next step, making candidate 0 the best match for the entire passage as the lead-in to that discussion.",
+      "chosen_heading": "Pesach Challenge",
+      "current_heading": "Rabbi Chiya Bar Gamda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Nireh Venidcha",
+    "candidates": [
+      "Rabbi Chiya Bar Gamda",
+      "Nireh Venidcha",
+      "Rabbi Eliezer View",
+      "Yosef Ben Choni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the nireh venidcha resolution \u2014 item 1 presents Rav Huna's answer using that principle, and item 2 immediately rejects it because Rav holds ba'alei chayim einan nidchin \u2014 which is precisely what the 'Nireh Venidcha' prose describes.",
+      "chosen_heading": "Nireh Venidcha",
+      "current_heading": "Nireh Venidcha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Yosef Ben Choni",
+    "candidates": [
+      "Rabbi Eliezer View",
+      "Yosef Ben Choni",
+      "Investigation Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Rav Pappa's Rabbi Eliezer proposal (item 1), the Gemara's objection to it (item 2), and the resolution via Yosef ben \u1e24onai (item 3) \u2014 and the prose under 'Rabbi Eliezer View' explicitly narrates exactly this sequence, including the objection and the Yosef ben \u1e24onai resolution, whereas the 'Yosef Ben Choni' prose only covers the resolution portion.",
+      "chosen_heading": "Rabbi Eliezer View",
+      "current_heading": "Yosef Ben Choni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Investigation Factor",
+    "candidates": [
+      "Yosef Ben Choni",
+      "Investigation Factor",
+      "Burning Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's answer invoking Rabbi Yishmael son of Rabbi Yochanan ben Beroka and the baraita about investigating owners' status, which directly matches the 'Investigation Factor' section's prose describing exactly this content.",
+      "chosen_heading": "Investigation Factor",
+      "current_heading": "Investigation Factor",
+      "moved": false
+    }
+  }
+]

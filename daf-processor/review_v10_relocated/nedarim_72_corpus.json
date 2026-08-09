@@ -1,0 +1,352 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Father & Groom Annulment",
+    "candidates": [
+      "Daf Overview & Structure",
+      "Father & Groom Annulment",
+      "Blanket Annulment Vows",
+      "Rami Bar Chama's Query",
+      "Lav Davka Interpretation",
+      "Opening Conversation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna describing the practice of talmidei chachamim where the father and groom issue blanket annulments before marriage, which matches exactly what the 'Father & Groom Annulment' prose discusses.",
+      "chosen_heading": "Father & Groom Annulment",
+      "current_heading": "Father & Groom Annulment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Opening Conversation",
+    "candidates": [
+      "Blanket Annulment Vows",
+      "Rami Bar Chama's Query",
+      "Lav Davka Interpretation",
+      "Opening Conversation",
+      "Father vs. Husband Timing",
+      "Annulment of Future Vows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 Rami bar \u1e24ama's question, Rava's proof from the mishna, the gemara's rejection (lekhi shama), and the parallel from the husband clause \u2014 which is precisely what candidate 3 ('Opening Conversation') describes in its prose about Rava's ta shma, the derech talmidei chachamim, ve-ha lo shama, the gemara's response, and the vechain haba'al clause.",
+      "chosen_heading": "Opening Conversation",
+      "current_heading": "Opening Conversation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Annulment of Future Vows",
+    "candidates": [
+      "Father vs. Husband Timing",
+      "Annulment of Future Vows",
+      "Non-Existent Vows Debate",
+      "Prevention Logic",
+      "Establishment Requirement",
+      "Effect Upon Hearing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the 'ta shma' introduction of the Nedarim 75a mishna about a man's pre-departure declaration regarding future vows, which is exactly what the 'Annulment of Future Vows' section's prose describes as its content.",
+      "chosen_heading": "Annulment of Future Vows",
+      "current_heading": "Annulment of Future Vows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Effect Upon Hearing",
+    "candidates": [
+      "Non-Existent Vows Debate",
+      "Prevention Logic",
+      "Establishment Requirement",
+      "Effect Upon Hearing",
+      "Appointed Manager Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'when I hear' framework, the question of why act now rather than later, and the answer about being preoccupied \u2014 all of which are precisely what the 'Effect Upon Hearing' section's prose describes.",
+      "chosen_heading": "Effect Upon Hearing",
+      "current_heading": "Effect Upon Hearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Appointed Manager Role",
+    "candidates": [
+      "Appointed Manager Role",
+      "Non-Delegable Power",
+      "Shaliach Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita about the apotropos case including both the scenario and the verse-based refutation, matching heading 0's prose which introduces the case and heading 1's prose which covers the verse conclusion \u2014 but since the passage is a single unified text, it belongs under heading 0 where the case is first introduced and the current placement already sits.",
+      "chosen_heading": "Appointed Manager Role",
+      "current_heading": "Appointed Manager Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Shaliach Principle",
+    "candidates": [
+      "Non-Delegable Power",
+      "Shaliach Principle",
+      "Hearing vs. Legal Act",
+      "Shaliach Hears & Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yonatan's statement of the shaliach principle ('we have found everywhere in the Torah that an agent stands in place of the one who appointed him'), which is precisely what the 'Shaliach Principle' section's prose describes and discusses.",
+      "chosen_heading": "Shaliach Principle",
+      "current_heading": "Shaliach Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Shaliach Hears & Acts",
+    "candidates": [
+      "Hearing vs. Legal Act",
+      "Shaliach Hears & Acts",
+      "Cheresh Query",
+      "Category of Hearer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the gezeirat ha-katuv point about Rabbi Yoshiya, the shaliach mechanism, and the 'le-chi shamana meifer lah / dilma matridna' exchange \u2014 exactly the content described in the 'Shaliach Hears & Acts' prose.",
+      "chosen_heading": "Shaliach Hears & Acts",
+      "current_heading": "Shaliach Hears & Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Category of Hearer",
+    "candidates": [
+      "Cheresh Query",
+      "Category of Hearer",
+      "Rabbi Zeira's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Rami bar \u1e24ama's question about a deaf man nullifying vows, which is precisely what heading 0 ('Cheresh Query') introduces, and the full Aramaic/English quote covers both the question and its internal reasoning (the 'category of hearer' point and the Rabbi Zeira reference), making heading 0 the natural home for the entire passage rather than splitting it across later headings.",
+      "chosen_heading": "Cheresh Query",
+      "current_heading": "Category of Hearer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rabbi Zeira's Principle",
+    "candidates": [
+      "Category of Hearer",
+      "Rabbi Zeira's Principle",
+      "Braita Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct quotation of Rabbi Zeira's principle about bila, which is exactly what candidate 1's prose introduces and discusses.",
+      "chosen_heading": "Rabbi Zeira's Principle",
+      "current_heading": "Rabbi Zeira's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Braita Exclusion",
+    "candidates": [
+      "Braita Exclusion",
+      "Simultaneous Annulment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's resolution via the braita excluding the wife of a deaf man, which is precisely what the 'Braita Exclusion' prose section discusses in detail.",
+      "chosen_heading": "Braita Exclusion",
+      "current_heading": "Braita Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Simultaneous Annulment",
+    "candidates": [
+      "Simultaneous Annulment",
+      "Sotah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about whether a husband can nullify vows for two wives simultaneously, which is precisely what the 'Simultaneous Annulment' section's prose discusses.",
+      "chosen_heading": "Simultaneous Annulment",
+      "current_heading": "Simultaneous Annulment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Sotah Parallel",
+    "candidates": [
+      "Sotah Parallel",
+      "Individual Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about not administering sota waters to two women simultaneously due to one's heart becoming emboldened by the other, which matches exactly the prose under 'Sotah Parallel' that discusses the same ruling and its reason.",
+      "chosen_heading": "Sotah Parallel",
+      "current_heading": "Sotah Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Individual Requirement",
+    "candidates": [
+      "Individual Requirement",
+      "Ready-for-Marriage Cases",
+      "Rabbi Eliezer Position",
+      "Chachamim Position",
+      "Rava's Comparison",
+      "Truma Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda's statement that the individual requirement derives from the verse 'and he shall make her drink her by herself,' which is precisely what the prose under 'Individual Requirement' discusses \u2014 Rabbi Judah's textual basis using 've-hishka otah levadah.'",
+      "chosen_heading": "Individual Requirement",
+      "current_heading": "Individual Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Truma Parallel",
+    "candidates": [
+      "Ready-for-Marriage Cases",
+      "Rabbi Eliezer Position",
+      "Chachamim Position",
+      "Rava's Comparison",
+      "Truma Parallel",
+      "Rabbanic vs. Torah",
+      "Truma Sources",
+      "Nesu'ah Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ready-for-Marriage Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Mishna on the bogeret/widow case and Rabba's comparison to the mishna rishona in Ketubot, which belong under 'Ready-for-Marriage Cases' (or its immediate sub-sections 0-3), but most precisely the Mishna text itself opens the 'Ready-for-Marriage Cases' section while Rabba's gemara fits 'Rava's Comparison' \u2014 however since item 1 is the Mishna and item 2 is its gemara opener they form one unit that starts the sugya, whereas item 3 is the continuation of the truma parallel discussion that belongs under 'Truma Parallel'.",
+      "second_heading": "Truma Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses the six-months/yavam truma combination rules and the mishna rishona's later restriction requiring chuppah before truma \u2014 content that precisely matches the 'Truma Parallel' prose which explicitly describes these same details about the yavam, the six-month combinations, and the later beit din ruling.",
+      "current_heading": "Truma Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Nesu'ah Requirement",
+    "candidates": [
+      "Rabbanic vs. Torah",
+      "Truma Sources",
+      "Nesu'ah Requirement",
+      "Spousal Presumption",
+      "Rabbi Eliezer's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge distinguishing rabbinic truma from Torah-level nedarim, which is precisely what candidate 0 ('Rabbanic vs. Torah') describes in its prose.",
+      "chosen_heading": "Rabbanic vs. Torah",
+      "current_heading": "Nesu'ah Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rabbi Eliezer's Logic",
+    "candidates": [
+      "Spousal Presumption",
+      "Rabbi Eliezer's Logic",
+      "Implicit Condition",
+      "Husband Category: Arus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces and explains the Rav Pinchas/Rava principle that a woman vows 'al da'as ba'alah,' which is precisely what heading 0 'Spousal Presumption' describes as its content, whereas the current heading 1 discusses the downstream implications of that principle rather than its introduction.",
+      "chosen_heading": "Spousal Presumption",
+      "current_heading": "Rabbi Eliezer's Logic",
+      "moved": true
+    }
+  }
+]

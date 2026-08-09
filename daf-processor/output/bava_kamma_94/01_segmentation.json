@@ -297,7 +297,7 @@
           "timestamp": "57:29"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 30,
       "matched": true
     },
     {
@@ -326,7 +326,7 @@
           "timestamp": "59:06"
         }
       ],
-      "sefaria_index": 37,
+      "sefaria_index": 35,
       "matched": true
     }
   ],
@@ -945,5 +945,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "35:27",
+  "amud_b_micro_title": "Abaye's Reading",
+  "shiur_start_daf": 94,
+  "shiur_start_amud": "a"
 }

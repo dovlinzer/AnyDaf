@@ -1,0 +1,478 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rofe Mumcheh",
+    "candidates": [
+      "Mishnah Harshness",
+      "Rabbi Meir v. Chachamim",
+      "Eivah Concept",
+      "Eivah & Shabbos",
+      "Heretics vs Non-Jews",
+      "Brit Milah Intro",
+      "Braita Conflict",
+      "Rofe Mumcheh",
+      "Rabbi Meir's View",
+      "Rabbi Yehuda's View",
+      "Har Gerizim Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's process of resolving the conflicting braitas \u2014 item 1 is the 'do not reverse' move and item 2 introduces the rofeh mumcheh principle as the resolution \u2014 which together belong under the 'Braita Conflict' heading that describes exactly this reconciliation process, before the rofeh mumcheh heading takes over to discuss the implications of that resolution.",
+      "chosen_heading": "Braita Conflict",
+      "current_heading": "Rofe Mumcheh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Har Gerizim Issue",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Rabbi Yehuda's View",
+      "Har Gerizim Issue",
+      "Lishmah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the internal contradiction in Rabbi Yehuda's position \u2014 that he seems to permit Samaritan circumcision in one source but forbid it in another \u2014 which directly matches the 'Rabbi Yehuda's View' prose discussing his exclusion of the Kuti on grounds of corrupted intention.",
+      "chosen_heading": "Rabbi Yehuda's View",
+      "current_heading": "Har Gerizim Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Lishmah Debate",
+    "candidates": [
+      "Har Gerizim Issue",
+      "Lishmah Debate",
+      "Yehuda vs Rebbi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei's challenge to the lishmah requirement for milah, which is exactly what the 'Lishmah Debate' prose describes, including the specific phrase about the Samaritan circumcising until his soul leaves his body.",
+      "chosen_heading": "Lishmah Debate",
+      "current_heading": "Lishmah Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Yehuda vs Rebbi",
+    "candidates": [
+      "Yehuda vs Rebbi",
+      "Rav Chisda Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the resolution that the contradicting 'Rabbi Yehuda' opinions belong to two different figures (Rabbi Yehuda bar Ilai vs. Rabbi Yehuda HaNasi), and the baraita proving Rabbi Yehuda HaNasi's position from the verse \u2014 exactly what the 'Yehuda vs Rebbi' prose describes.",
+      "chosen_heading": "Yehuda vs Rebbi",
+      "current_heading": "Yehuda vs Rebbi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Chisda Proof",
+    "candidates": [
+      "Rav Chisda Proof",
+      "Rabbi Yosi Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what Candidate 0's prose describes: Rav Chisda explaining Rabbi Yehuda's lishmah requirement from the Lahashem himol verse, plus the initial mention of Rabbi Yosei's counter-verse, which Candidate 0 introduces as the setup before the fuller treatment in Candidate 1.",
+      "chosen_heading": "Rav Chisda Proof",
+      "current_heading": "Rav Chisda Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rabbi Yosi Counter",
+    "candidates": [
+      "Rabbi Yosi Counter",
+      "Lishmah Nature",
+      "Tosafot Stam",
+      "Non-Jew Fitness",
+      "Brit vs Shechita",
+      "Medical Origins",
+      "Ritualization Process",
+      "Source Basis",
+      "Two Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosi's interpretation that 'Lahashem' modifies Pesach not milah, and Rabbi Meir's invocation of 'dibra Torah kilshon bnei adam' regarding 'himol yimol' \u2014 exactly what the 'Rabbi Yosi Counter' prose describes.",
+      "chosen_heading": "Rabbi Yosi Counter",
+      "current_heading": "Rabbi Yosi Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Two Sources",
+    "candidates": [
+      "Lishmah Nature",
+      "Tosafot Stam",
+      "Non-Jew Fitness",
+      "Brit vs Shechita",
+      "Medical Origins",
+      "Ritualization Process",
+      "Source Basis",
+      "Two Sources",
+      "Obligation vs Physical",
+      "Categorical Identity",
+      "Group Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about the source for excluding a gentile from performing milah and the two amoraic answers (Daru bar Pappa/Rav citing v'atah et briti tishmor, and Rabbi Yochanan citing himmol yimmol), which is precisely what the 'Source Basis' prose introduces as the settled law question with two cited Amoraim deriving from different verses.",
+      "chosen_heading": "Source Basis",
+      "current_heading": "Two Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Group Identity",
+    "candidates": [
+      "Obligation vs Physical",
+      "Categorical Identity",
+      "Group Identity",
+      "Women's Role",
+      "Women Status",
+      "Practical Ruling",
+      "Priority Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the practical difference between the two opinions using the cases of circumcised Arabs/gavnuni and uncircumcised Jews whose brothers died, combined with the neder mishna showing that 'circumcised' and 'uncircumcised' are categorical/national identities \u2014 this is precisely what candidate 1 ('Categorical Identity') describes in its prose, not the current placement under 'Group Identity' which discusses the implications of that collapse.",
+      "chosen_heading": "Categorical Identity",
+      "current_heading": "Group Identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Priority Order",
+    "candidates": [
+      "Women's Role",
+      "Women Status",
+      "Practical Ruling",
+      "Priority Order",
+      "Mishnah Healing",
+      "Haircut Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the two opinions on whether a woman may perform circumcision and the Zipporah episode \u2014 exactly the content described in the 'Women's Role' prose section.",
+      "chosen_heading": "Women's Role",
+      "current_heading": "Priority Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Haircut Restriction",
+    "candidates": [
+      "Mishnah Healing",
+      "Haircut Restriction",
+      "Payment Theory",
+      "Payment Rejected",
+      "Severity Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Healing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah introducing ripuy mamon/ripuy nefashot and the haircut dispute, and candidate 0 ('Mishnah Healing') is explicitly about that Mishnah's return to medical treatment and the terms ripuy mamon/ripuy nefashot, while the haircut content is secondary context within the same Mishnah.",
+      "second_heading": "Payment Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara proposing that ripuy mamon means paid treatment and ripuy nefashot means free treatment, which is precisely what candidate 2 ('Payment Theory') describes.",
+      "current_heading": "Haircut Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Severity Theory",
+    "candidates": [
+      "Payment Theory",
+      "Payment Rejected",
+      "Severity Theory",
+      "Rav Yehuda Strict",
+      "Animal vs Human"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage proposes and then rejects the severity theory (dangerous vs. non-dangerous conditions), which is precisely what the 'Severity Theory' section's prose describes, and the Rav Yehuda objection is the rejection of that theory, not a standalone point about his strictness.",
+      "chosen_heading": "Severity Theory",
+      "current_heading": "Severity Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Animal vs Human",
+    "candidates": [
+      "Rav Yehuda Strict",
+      "Animal vs Human",
+      "Advice Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly distinguishes 'monetary treatment' (for one's animal) from 'personal treatment' (for one's body) and cites Rav Yehuda's strictness as supporting this distinction, which matches exactly the 'Animal vs Human' section's prose about Rav Chisda/Mar Ukva's resolution.",
+      "chosen_heading": "Animal vs Human",
+      "current_heading": "Animal vs Human",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Advice Only",
+    "candidates": [
+      "Advice Only",
+      "Advice Safety"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav \u1e24isda/Mar Ukva's ruling permitting advice from a non-Jewish physician, which is precisely what the 'Advice Only' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Advice Only",
+      "current_heading": "Advice Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Advice Safety",
+    "candidates": [
+      "Advice Safety",
+      "Safeik Chai Safeik Meis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the rationale that a gentile gives good advice because he knows his recommendation will be checked against others and bad advice will harm his reputation \u2014 exactly the 'Advice Safety' logic described in that section's prose.",
+      "chosen_heading": "Advice Safety",
+      "current_heading": "Advice Safety",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Safeik Chai Safeik Meis",
+    "candidates": [
+      "Safeik Chai Safeik Meis",
+      "Vadai Meis",
+      "Speed Objection",
+      "Chayei Sha'ah",
+      "Metzora'im Source",
+      "Trade-off Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the safeik chai safeik meis / vadai meis distinction, and the current heading's prose directly describes this same Rava/Rav \u1e24isda/Rabbi Yo\u1e25anan teaching about uncertainty vs. certainty of death.",
+      "chosen_heading": "Safeik Chai Safeik Meis",
+      "current_heading": "Safeik Chai Safeik Meis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Trade-off Principle",
+    "candidates": [
+      "Vadai Meis",
+      "Speed Objection",
+      "Chayei Sha'ah",
+      "Metzora'im Source",
+      "Trade-off Principle",
+      "Patient Choice",
+      "End-of-Life",
+      "Heretic Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's challenge about chayei sha'ah and the answer that we are not concerned with temporal life, plus the proof from the four lepers \u2014 exactly the content described in the 'Chayei Sha'ah' and 'Metzora'im Source' prose, but item 2 (the lepers source) is inseparable from item 1 (the principle itself), and candidate 2 introduces the principle while candidate 3 covers the lepers proof; since both items belong together as one continuous unit, candidate 2 is the better single home as it introduces the core principle that item 2 then supports.",
+      "chosen_heading": "Chayei Sha'ah",
+      "current_heading": "Trade-off Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Heretic Braita",
+    "candidates": [
+      "Patient Choice",
+      "End-of-Life",
+      "Heretic Braita",
+      "Ben Dama Story",
+      "Ben Dama Argument",
+      "Ben Dama Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita objection (meitivei) about not being healed by heretics even for chayei sha'ah, which is precisely what the 'Heretic Braita' section's prose describes and discusses.",
+      "chosen_heading": "Heretic Braita",
+      "current_heading": "Heretic Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Ben Dama Death",
+    "candidates": [
+      "Ben Dama Story",
+      "Ben Dama Argument",
+      "Ben Dama Death",
+      "Rabbinic Edict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full incident \u2014 the snakebite, Ya'akov's arrival, Rabbi Yishmael's refusal, Ben Dama's plea, and his death \u2014 which matches the 'Ben Dama Story' prose that summarizes all these elements together, rather than any single sub-section.",
+      "chosen_heading": "Ben Dama Story",
+      "current_heading": "Ben Dama Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Rabbinic Edict",
+    "candidates": [
+      "Ben Dama Death",
+      "Rabbinic Edict",
+      "Minut Different"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yishmael's eulogy of Ben Dama ('ashreicha Ben Dama... your body is pure and your soul departed in purity'), which is the core content discussed under 'Ben Dama Death', not under 'Rabbinic Edict' where it currently sits.",
+      "chosen_heading": "Ben Dama Death",
+      "current_heading": "Rabbinic Edict",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Minut Different",
+    "candidates": [
+      "Minut Different",
+      "Tosafot Limit",
+      "Private vs Public"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that heresy is different because it is enticing and draws people after it, which is precisely what the prose under 'Minut Different' discusses \u2014 the spiritual contagion concern unique to heresy versus ordinary non-Jewish medical treatment.",
+      "chosen_heading": "Minut Different",
+      "current_heading": "Minut Different",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Private vs Public",
+    "candidates": [
+      "Tosafot Limit",
+      "Private vs Public",
+      "Chillul Hashem",
+      "Faith Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the 'vechai bahem' argument ben Dama intended to make, the snake-bite clarification, and Rabbi Yishmael's private-vs-public distinction based on 'velo techalelu et shem kodshi' \u2014 precisely the content described in the 'Private vs Public' prose.",
+      "chosen_heading": "Private vs Public",
+      "current_heading": "Private vs Public",
+      "moved": false
+    }
+  }
+]

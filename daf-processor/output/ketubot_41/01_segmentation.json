@@ -49,7 +49,7 @@
           "timestamp": "08:04"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -225,8 +225,8 @@
           "timestamp": "54:38"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -594,5 +594,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "01:07",
+  "amud_b_micro_title": "Muad Direct Proof",
+  "shiur_start_daf": 41,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Keren Toldos Same",
+    "candidates": [
+      "Four Categories",
+      "Shor Subdivisions",
+      "Keren Definition",
+      "Rav Pappa Setup",
+      "Keren Toldos",
+      "Keren Toldos Same",
+      "Torah Text Analysis",
+      "Gemara's Reading",
+      "Be'er & Juxtaposition",
+      "Veshilach & U'vi'er",
+      "Intent Distinction",
+      "Juxtaposition Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement that some toldos are like their av and some are not, which is precisely what the 'Rav Pappa Setup' section describes \u2014 the initial formulation before the gemara works through each category.",
+      "chosen_heading": "Rav Pappa Setup",
+      "current_heading": "Keren Toldos Same",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Juxtaposition Logic",
+    "candidates": [
+      "Torah Text Analysis",
+      "Gemara's Reading",
+      "Be'er & Juxtaposition",
+      "Veshilach & U'vi'er",
+      "Intent Distinction",
+      "Juxtaposition Logic",
+      "Shen Definition",
+      "Shen Examples",
+      "Shen Toldos Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the baraita deriving keren, shen, and regel from Torah verses, their subcategories, and the exegetical analysis of 'veshilach' and 'uvi'er' \u2014 precisely the content described in candidate 1 ('Gemara's Reading'), which asks how shen and regel are read into the verse and cites the baraita's answer, matching all 31 items.",
+      "chosen_heading": "Gemara's Reading",
+      "current_heading": "Juxtaposition Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Shen Toldos Debate",
+    "candidates": [
+      "Shen Definition",
+      "Shen Examples",
+      "Shen Toldos Debate",
+      "Shen Toldos Same",
+      "Regel Definition",
+      "Regel Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shen Examples",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the subcategories of Shen (rubbing against a wall, soiling produce), which matches the 'Shen Examples' prose exactly.",
+      "second_heading": "Shen Toldos Same",
+      "second_confidence": "high",
+      "second_reason": "Item 2 argues that the toldos of Shen share the same characteristics as Shen itself (hana'ah l'hezeika, mamoncha v'shmirasan alecha), concluding toldah d'shein k'shein, which matches the 'Shen Toldos Same' prose exactly.",
+      "current_heading": "Shen Toldos Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Regel Examples",
+    "candidates": [
+      "Shen Toldos Same",
+      "Regel Definition",
+      "Regel Examples",
+      "Regel Incidental"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage defines subcategories of Regel (toldah d'regel) with exactly the examples listed in the 'Regel Examples' prose \u2014 damage with the animal's body, hair, rope, bit, and bell during walking \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Regel Examples",
+      "current_heading": "Regel Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Regel Incidental",
+    "candidates": [
+      "Regel Incidental",
+      "Regel Toldos Same",
+      "Bor Intro",
+      "Depth Distinction",
+      "Parallel Avos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly argues that toldos of regel share the same characteristics (heizika matzui, mamoncha, shmirasan alecha) and therefore toldah d'regel k'regel, concluding that Rav Pappa's exception must refer to a subcategory of Bor \u2014 exactly what the 'Regel Toldos Same' section's prose describes.",
+      "chosen_heading": "Regel Toldos Same",
+      "current_heading": "Regel Incidental",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Parallel Avos",
+    "candidates": [
+      "Regel Toldos Same",
+      "Bor Intro",
+      "Depth Distinction",
+      "Parallel Avos",
+      "Bor Toldah Hazard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Depth Distinction' \u2014 the proposal that av=10 handbreadths and toldah=9, the objection that neither is written, the resolution from 'v'hamet yihiyeh lo', and the final rejection ('sof sof') \u2014 all of which the 'Depth Distinction' prose describes as the gemara's exploration of this specific proposal, whereas 'Parallel Avos' prose summarizes these same moves as if already resolved, suggesting the actual Talmudic text belongs under the heading that introduces and develops the depth-distinction proposal.",
+      "chosen_heading": "Depth Distinction",
+      "current_heading": "Parallel Avos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Bor Toldah Hazard",
+    "candidates": [
+      "Parallel Avos",
+      "Bor Toldah Hazard",
+      "Rav Shmuel Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the stone/knife/load example that candidate 1's prose explicitly discusses as the toldah of bor, making it a clear match for the 'Bor Toldah Hazard' section.",
+      "chosen_heading": "Bor Toldah Hazard",
+      "current_heading": "Bor Toldah Hazard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Rav Shmuel Dispute",
+    "candidates": [
+      "Rav Shmuel Dispute",
+      "Bor Toldos Same",
+      "Ma'aveh Definitions",
+      "Ma'aveh as Shen",
+      "Adam HaMazik Intro",
+      "Sleep Toldah",
+      "Always Liable",
+      "Kocho Toldah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Shmuel Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address whether obstacles not declared ownerless fall under Bor or Shor, concluding that toldah d'bor is k'bor, which matches the 'Rav Shmuel Dispute' and 'Bor Toldos Same' prose \u2014 but item 1 is the direct continuation of the Rav/Shmuel dispute already under heading 0, and item 2 establishes toldas bor k'bor matching heading 1.",
+      "second_heading": "Ma'aveh Definitions",
+      "second_confidence": "high",
+      "second_reason": "Item 3 shifts to asking what Maveh is \u2014 presenting Shmuel's view (maveh=shen) and Rav's view (maveh=adam) \u2014 which directly matches the 'Ma'aveh Definitions' prose at heading 2.",
+      "current_heading": "Rav Shmuel Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Kocho Toldah",
+    "candidates": [
+      "Bor Toldos Same",
+      "Ma'aveh Definitions",
+      "Ma'aveh as Shen",
+      "Adam HaMazik Intro",
+      "Sleep Toldah",
+      "Always Liable",
+      "Kocho Toldah",
+      "Adam Toldos Same",
+      "Roof Hazard Toldah",
+      "Foreseen Wind",
+      "Esh Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Always Liable",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's rejection of the awake/asleep distinction by citing 'adam mu'ad l'olam bein eir bein yashen', which is precisely what heading 5 ('Always Liable') describes.",
+      "second_heading": "Kocho Toldah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the keicho v'ni'o (phlegm/spittle) proposal and its rejection, concluding that toldah d'maveh k'maveh, which is exactly what heading 6 ('Kocho Toldah') describes in its prose.",
+      "current_heading": "Kocho Toldah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Esh Definition",
+    "candidates": [
+      "Adam Toldos Same",
+      "Roof Hazard Toldah",
+      "Foreseen Wind",
+      "Esh Definition",
+      "Esh Toldos Same",
+      "Regel Exception",
+      "Pebbles Kicked",
+      "Reduced Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the roof-hazard case (stone/knife/load blown off by wind) as a proposed toldah of eish, which is precisely what candidate 1 ('Roof Hazard Toldah') describes \u2014 the proposal, the wind-as-external-force parallel, and the koach acher me'urav analysis \u2014 rather than candidate 3 ('Esh Definition') which focuses on the conceptual identity of eish itself.",
+      "chosen_heading": "Roof Hazard Toldah",
+      "current_heading": "Esh Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162,
+      163
+    ],
+    "current_heading": "Reduced Liability",
+    "candidates": [
+      "Esh Toldos Same",
+      "Regel Exception",
+      "Pebbles Kicked",
+      "Reduced Liability",
+      "Half Damages Tradition",
+      "Conceptual Connection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Regel Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question and answer about why tzrorot pays half-damages as a received tradition (hilcheta gemiri lah), which is precisely what the 'Regel Exception' prose discusses \u2014 the gemara noting it had established toldah d'regel k'regel and then disclosing the exceptional case.",
+      "second_heading": "Conceptual Connection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why tzrorot is classified as a toldah of regel at all if its halacha differs, and the answer about conceptual kinship with regel (ordinary walking, not intentional act) is exactly what the 'Conceptual Connection' prose describes.",
+      "current_heading": "Reduced Liability",
+      "moved": true
+    }
+  }
+]

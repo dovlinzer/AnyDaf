@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Moist Materials Intro",
+    "candidates": [
+      "Moist Materials Intro",
+      "Moisture Source Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma of whether materials are moist due to their own nature or an external source, which is precisely what the 'Moisture Source Debate' section's prose describes and analyzes.",
+      "chosen_heading": "Moisture Source Debate",
+      "current_heading": "Moist Materials Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Moisture Source Debate",
+    "candidates": [
+      "Moist Materials Intro",
+      "Moisture Source Debate",
+      "Oshaya's Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the Moisture Source Debate section, which describes exactly this Gemara text: the question of whether materials are moist from their own nature or external sources, the challenge regarding soft materials/cloth, and the answer about wool from between the thighs.",
+      "chosen_heading": "Moisture Source Debate",
+      "current_heading": "Moisture Source Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Oshaya's Baraita",
+    "candidates": [
+      "Oshaya's Baraita",
+      "Mishnah List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Oshaya's baraita about insulating with dry vs. moist garments/produce and the question of naturally moist cloth, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Oshaya's Baraita",
+      "current_heading": "Oshaya's Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Mishnah List",
+    "candidates": [
+      "Mishnah List",
+      "R. Yehuda Dispute",
+      "Clean Body Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text lists the permitted insulation materials (clothing, produce, doves' wings, carpenter's shavings, fine flax chaff) which is precisely what the 'Mishnah List' prose describes, while the Rabbi Yehuda dispute heading covers the subsequent Talmudic discussion about his disagreement.",
+      "chosen_heading": "Mishnah List",
+      "current_heading": "Mishnah List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Clean Body Requirement",
+    "candidates": [
+      "R. Yehuda Dispute",
+      "Clean Body Requirement",
+      "Abbayei vs. Rava",
+      "Elisha Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yannai's statement about tefillin requiring a clean body like Elisha Ba'al Knafayim, plus Abaye's and Rava's brief definitions, which corresponds exactly to the 'Clean Body Requirement' section's prose about this pivot and Rabbi Yannai's statement \u2014 the fuller elaboration of Abaye and Rava's positions belongs in the next section.",
+      "chosen_heading": "Clean Body Requirement",
+      "current_heading": "Clean Body Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Elisha Story",
+    "candidates": [
+      "Abbayei vs. Rava",
+      "Elisha Story",
+      "Dove Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the story of Elisha Ba'al Knafayim and the Roman decree, which is precisely what the 'Elisha Story' section prose describes in detail.",
+      "chosen_heading": "Elisha Story",
+      "current_heading": "Elisha Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Dove Symbolism",
+    "candidates": [
+      "Dove Symbolism",
+      "Tosafot Decline",
+      "Removal Problem",
+      "Hides & Wool"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why dove wings specifically are used as a symbol \u2014 the exact topic of the 'Dove Symbolism' section \u2014 matching the prose there precisely, including the comparison of Israel to a dove and mitzvot as protection.",
+      "chosen_heading": "Dove Symbolism",
+      "current_heading": "Dove Symbolism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Hides & Wool",
+    "candidates": [
+      "Tosafot Decline",
+      "Removal Problem",
+      "Hides & Wool",
+      "Which Hides?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tosafot Decline",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are a Gemara dilemma and resolution about whether Rabbi Yehuda's ruling in the previous Mishnah refers to carpenter's shavings or flax chaff \u2014 this is the tail end of the prior sugya, not yet the Hides & Wool Mishnah.",
+      "second_heading": "Hides & Wool",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are precisely the new Mishnah and its dispute (Tanna Kamma vs. Rabbi Elazar ben Azarya on retrieving a pot from wool shearings) that candidate 2 'Hides & Wool' explicitly describes in its prose.",
+      "current_heading": "Hides & Wool",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Which Hides?",
+    "candidates": [
+      "Which Hides?",
+      "Yosei's Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the dilemma raised by the three rabbis about whose hides the Mishnah discusses \u2014 homeowner vs. craftsman \u2014 which is precisely what the 'Which Hides?' section prose describes.",
+      "chosen_heading": "Which Hides?",
+      "current_heading": "Which Hides?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Yosei's Father",
+    "candidates": [
+      "Yosei's Father",
+      "Planks & Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Rabbi Yonatan/Rabbi Chanina/Rabbi Yishmael b'Rebbi Yosei exchange about the tanner's hides, which candidate 0 ('Yosei's Father') explicitly describes in its prose.",
+      "chosen_heading": "Yosei's Father",
+      "current_heading": "Yosei's Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Planks & Intent",
+    "candidates": [
+      "Planks & Intent",
+      "Tumah vs. Muktzeh",
+      "Baraita Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses wooden boards (nesarin), the distinction between homeowner's and craftsman's boards, the role of prior intention in removing muktzeh status, and the answer that boards are different because one is particular about them \u2014 all of which are directly addressed in the 'Planks & Intent' prose.",
+      "chosen_heading": "Planks & Intent",
+      "current_heading": "Planks & Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Baraita Resolution",
+    "candidates": [
+      "Tumah vs. Muktzeh",
+      "Baraita Resolution",
+      "Mishkan Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about homeowner vs. craftsman hides, the Gemara's challenge about why it doesn't distinguish directly in muktzeh law, and the final tannaitic dispute between the first tanna and Rabbi Yosei \u2014 are precisely the content described in the 'Baraita Resolution' prose, which explicitly covers each of these points in order.",
+      "chosen_heading": "Baraita Resolution",
+      "current_heading": "Baraita Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Mishkan Source",
+    "candidates": [
+      "Mishkan Source",
+      "Word Count Method",
+      "Yosef Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dilemma about the source of the thirty-nine melachot and the two answers (Mishkan labors and word-count method), which is precisely what the 'Mishkan Source' prose describes as a single session and question-answer unit.",
+      "chosen_heading": "Mishkan Source",
+      "current_heading": "Mishkan Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Yosef Question",
+    "candidates": [
+      "Word Count Method",
+      "Yosef Question",
+      "Teiku Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Yosef's dilemma about the Yosef verse, Abaye's suggestion to bring a Torah scroll and count, and the citation of Rabba bar bar \u1e24ana \u2014 all of which are explicitly described in the 'Yosef Question' prose.",
+      "chosen_heading": "Yosef Question",
+      "current_heading": "Yosef Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Teiku Conclusion",
+    "candidates": [
+      "Teiku Conclusion",
+      "Mishkan Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two-sided uncertainty and teiku resolution about whether the Mishkan verse or the Yosef verse counts among the thirty-nine, which is precisely what the 'Teiku Conclusion' prose describes.",
+      "chosen_heading": "Teiku Conclusion",
+      "current_heading": "Teiku Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Mishkan Baraita",
+    "candidates": [
+      "Mishkan Baraita",
+      "Carrying Paradigm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly introduces the baraita supporting the Mishkan-origin view and gives the sowing/reaping examples, which is precisely what the 'Mishkan Baraita' section's prose describes.",
+      "chosen_heading": "Mishkan Baraita",
+      "current_heading": "Mishkan Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Carrying Paradigm",
+    "candidates": [
+      "Carrying Paradigm",
+      "Labor Parallels",
+      "Tosafot Challenge",
+      "Bin-Nun Solution",
+      "Yereim Approach",
+      "Craft Organization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita's three sub-categories of carrying across domains and the Gemara's question/answer about transferring from one private domain to another via a public domain \u2014 exactly what the 'Carrying Paradigm' prose describes in detail.",
+      "chosen_heading": "Carrying Paradigm",
+      "current_heading": "Carrying Paradigm",
+      "moved": false
+    }
+  }
+]

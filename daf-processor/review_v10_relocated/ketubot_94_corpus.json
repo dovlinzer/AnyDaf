@@ -1,0 +1,363 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Same-Day Documents",
+    "candidates": [
+      "Four Wives Scenario",
+      "Oaths Between Wives",
+      "Fourth Wife Exempt",
+      "Ben Nanas Disagrees",
+      "Same-Day Documents",
+      "Shmuel's Framing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses same-day ketubot, priority by hour, Jerusalem's practice of recording hours, and equal division when hours are identical \u2014 exactly what the 'Same-Day Documents' prose describes.",
+      "chosen_heading": "Same-Day Documents",
+      "current_heading": "Same-Day Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Shmuel's Framing",
+    "candidates": [
+      "Shmuel's Framing",
+      "Tana Kama Position",
+      "Ben Nanas Position",
+      "Strip-Mining Concern",
+      "Psychological Deterrent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute Shmuel's framing of the dispute \u2014 identifying the case (a field not belonging to the husband), naming the underlying creditor question (later creditor who collected first), and stating both positions \u2014 which is precisely what the 'Shmuel's Framing' prose describes in detail.",
+      "chosen_heading": "Shmuel's Framing",
+      "current_heading": "Shmuel's Framing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Psychological Deterrent",
+    "candidates": [
+      "Tana Kama Position",
+      "Ben Nanas Position",
+      "Strip-Mining Concern",
+      "Psychological Deterrent",
+      "Implicit Representation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Strip-Mining Concern",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Nachman's framing that everyone agrees mah she-gava lo gava and the dispute is only about the tachsif/strip-mining concern, which is precisely what the 'Strip-Mining Concern' prose describes.",
+      "second_heading": "Psychological Deterrent",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Abaye's alternative framing based on the ruling of Abaye the Elder regarding oaths to orphans, which matches the 'Psychological Deterrent' section's discussion of the oath mechanism and Ben Nanas's position \u2014 but more precisely, the essay's 'Psychological Deterrent' prose already mentions this Abaye the Elder angle as part of its broader discussion, making it the best available home for items 3-4.",
+      "current_heading": "Psychological Deterrent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Implicit Representation",
+    "candidates": [
+      "Implicit Representation",
+      "Why Not All Wives?",
+      "One Oath Suffices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Huna's ruling about implicit representation of two brothers/partners in court proceedings, which is exactly what the 'Implicit Representation' section's prose describes \u2014 item 2 is Rav Na\u1e25man's follow-up question about that same ruling, not a transition to the next topic.",
+      "chosen_heading": "Implicit Representation",
+      "current_heading": "Implicit Representation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "One Oath Suffices",
+    "candidates": [
+      "Why Not All Wives?",
+      "One Oath Suffices",
+      "Context & Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's discussion of why wife one need not swear directly to wives three and four \u2014 item 1 is Rav Nachman's proof from the mishna (matching heading 0's prose exactly), and item 2 is the immediate challenge/response about whether the mishna's structure reflects agency or simply that one oath suffices for all, which is still part of that same exchange rather than the standalone 'one oath suffices' section in heading 1.",
+      "chosen_heading": "Why Not All Wives?",
+      "current_heading": "One Oath Suffices",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Context & Presence",
+    "candidates": [
+      "One Oath Suffices",
+      "Context & Presence",
+      "Rav: Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about the absent partner being 'not in town' vs. 'in town,' which is exactly what the 'Context & Presence' prose discusses as the refinement of Rav Huna's position regarding d'lo ite b'mata and aval ite b'mata.",
+      "chosen_heading": "Context & Presence",
+      "current_heading": "Context & Presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav: Split",
+    "candidates": [
+      "Rav: Split",
+      "Shmuel: Guess",
+      "Rav=Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dispute between Rav and Shmuel about two deeds dated on the same day, which is exactly what the 'Rav: Split' section's prose describes as its opening case, making the current placement correct.",
+      "chosen_heading": "Rav: Split",
+      "current_heading": "Rav: Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Rav=Rabbi Meir",
+    "candidates": [
+      "Shmuel: Guess",
+      "Rav=Rabbi Meir",
+      "Shmuel=R. Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Rav=Rabbi Meir / Shmuel=Rabbi Elazar alignment together as a paired unit, and candidate 1's prose explicitly discusses this exact pairing \u2014 Rav following Rabbi Meir's eidei chasima and Shmuel following Rabbi Elazar's eidei mesira \u2014 making it the natural home for both items.",
+      "chosen_heading": "Rav=Rabbi Meir",
+      "current_heading": "Rav=Rabbi Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Shmuel=R. Elazar",
+    "candidates": [
+      "Shmuel=R. Elazar",
+      "Braita Citation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the alternative reading that both Rav and Shmuel follow Rabbi Elazar (with their dispute being chaluka vs. shuda), and then the refutation via Rav Yehuda's ruling that concludes Rav follows Rabbi Meir and Shmuel follows Rabbi Elazar \u2014 exactly what the 'Shmuel=R. Elazar' prose describes.",
+      "chosen_heading": "Shmuel=R. Elazar",
+      "current_heading": "Shmuel=R. Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Braita Citation",
+    "candidates": [
+      "Braita Citation",
+      "Competing Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of objection-and-response (the baraita challenge to Shmuel, the follow-up press on Rabbi Meir, and the tannaitic dispute resolution) that exactly matches the prose description under 'Braita Citation'.",
+      "chosen_heading": "Braita Citation",
+      "current_heading": "Braita Citation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Competing Documents",
+    "candidates": [
+      "Competing Documents",
+      "Written Date Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the factual scenario of the mother's competing deeds and the two rabbis' conflicting rulings, which is precisely what candidate 0's prose describes as the concrete application being introduced.",
+      "chosen_heading": "Competing Documents",
+      "current_heading": "Competing Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Written Date Priority",
+    "candidates": [
+      "Written Date Priority",
+      "Shuda De-Dayni Claim",
+      "Tosafot Limitations",
+      "Conscious Exercise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange about hours not being written in documents (atu be-Yerushalayim) and Rav Nachman's shuda de-dayni declaration, which is precisely what the 'Written Date Priority' prose describes as its content.",
+      "chosen_heading": "Written Date Priority",
+      "current_heading": "Written Date Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Conscious Exercise",
+    "candidates": [
+      "Shuda De-Dayni Claim",
+      "Tosafot Limitations",
+      "Conscious Exercise",
+      "Documents Compared"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheshet's claim to have also applied shuda de-dayni and Rav Nachman's two responses (qualified judge requirement and the 'not at the outset' point), which is exactly what heading 0 ('Shuda De-Dayni Claim') describes in its prose.",
+      "chosen_heading": "Shuda De-Dayni Claim",
+      "current_heading": "Conscious Exercise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Documents Compared",
+    "candidates": [
+      "Conscious Exercise",
+      "Documents Compared",
+      "Specific Date Wins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the two documents coming before Rav Yosef and their dates, which is exactly what the 'Documents Compared' prose section introduces \u2014 before the ruling itself is discussed under 'Specific Date Wins'.",
+      "chosen_heading": "Documents Compared",
+      "current_heading": "Documents Compared",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Specific Date Wins",
+    "candidates": [
+      "Specific Date Wins",
+      "Reimbursement Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yosef telling the ambiguous-document holder that he is at a disadvantage and that his deed could be dated the twenty-ninth of Nisan, which is precisely the 'at yadcha al hatachtona' reasoning discussed in the 'Specific Date Wins' prose.",
+      "chosen_heading": "Specific Date Wins",
+      "current_heading": "Specific Date Wins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Reimbursement Request",
+    "candidates": [
+      "Reimbursement Request",
+      "Buyer Response",
+      "Power of Attorney"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the claimant's request for a tirfa from Iyyar onward and Rav Yosef's immediate response explaining why buyers could defeat that request \u2014 this is precisely the content described in the 'Reimbursement Request' prose (the request) and the transition into 'Buyer Response,' but since item 2 is Rav Yosef's reply to the request in item 1, they are one continuous exchange that belongs under the heading where the request is introduced, which is 'Reimbursement Request' (index 0), matching the current placement.",
+      "chosen_heading": "Reimbursement Request",
+      "current_heading": "Reimbursement Request",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Power of Attorney",
+    "candidates": [
+      "Buyer Response",
+      "Power of Attorney"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's remedy of writing a harsha'a (power of attorney) to each other, which is exactly what the 'Power of Attorney' section's prose discusses.",
+      "chosen_heading": "Power of Attorney",
+      "current_heading": "Power of Attorney",
+      "moved": false
+    }
+  }
+]

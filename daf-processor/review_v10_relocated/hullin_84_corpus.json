@@ -1,0 +1,463 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mitzvah Scope",
+    "candidates": [
+      "Mitzvah Scope",
+      "Dirt Above & Below",
+      "Rabbi Zeira Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah that opens the perek, delineating the scope of the kisuy hadam mitzvah (applies in/out of Israel, to chayah and of, not to sacrifices, and to the koy as a safek) \u2014 exactly what the 'Mitzvah Scope' prose describes.",
+      "chosen_heading": "Mitzvah Scope",
+      "current_heading": "Mitzvah Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rabbi Zeira Drasha",
+    "candidates": [
+      "Dirt Above & Below",
+      "Rabbi Zeira Drasha",
+      "Mizbeach Obstacle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Zeira's drasha about placing dirt below and above, which the essay's 'Dirt Above & Below' section says is what the Gemara addresses first (the mechanics of kisuy hadam), while the 'Rabbi Zeira Drasha' section's prose describes the drasha in detail as already-known background \u2014 the Gemara text itself is the primary statement of that drasha and belongs under the heading that introduces it as new content.",
+      "chosen_heading": "Dirt Above & Below",
+      "current_heading": "Rabbi Zeira Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Mizbeach Obstacle",
+    "candidates": [
+      "Rabbi Zeira Drasha",
+      "Mizbeach Obstacle",
+      "Chatzitza Problem",
+      "Kol Hara'uy L'Bila",
+      "Mincha Mixing",
+      "Mikveh Application",
+      "Theoretical Impossibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mizbeach Obstacle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses adding dirt to the mizbeach constituting 'mosif binyan' (adding to the structure), which is precisely what the 'Mizbeach Obstacle' prose discusses, including the same verse from Chronicles.",
+      "second_heading": "Chatzitza Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the chatzitza (interposition) problem when dirt is not nullified to the altar, which is exactly what the 'Chatzitza Problem' prose addresses as its opening scenario.",
+      "current_heading": "Mizbeach Obstacle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Theoretical Impossibility",
+    "candidates": [
+      "Chatzitza Problem",
+      "Kol Hara'uy L'Bila",
+      "Mincha Mixing",
+      "Mikveh Application",
+      "Theoretical Impossibility",
+      "Blood Relocation",
+      "Why Not Move?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of why covering from above is insufficient, resolved by Rabbi Zeira's kol ha-ra'uy le-vila principle, which is precisely what heading 1 ('Kol Hara'uy L'Bila') describes in its prose.",
+      "chosen_heading": "Kol Hara'uy L'Bila",
+      "current_heading": "Theoretical Impossibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Why Not Move?",
+    "candidates": [
+      "Blood Relocation",
+      "Why Not Move?",
+      "Alternate Coverage",
+      "Bedek Habayis",
+      "Shechita She'eina Re'uya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why one cannot scrape and relocate the blood to perform kisuy hadam elsewhere \u2014 exactly the proposal described in candidate 0's prose \u2014 while candidate 1's prose describes the subsequent citation of the beraita about splattered blood and knife blood as support for that proposal, meaning the passage belongs under 'Blood Relocation' (candidate 0) where the initial scraping proposal is introduced.",
+      "chosen_heading": "Blood Relocation",
+      "current_heading": "Why Not Move?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Shechita She'eina Re'uya",
+    "candidates": [
+      "Alternate Coverage",
+      "Bedek Habayis",
+      "Shechita She'eina Re'uya",
+      "Tannaitic Views",
+      "Rav Yosef Resolution",
+      "Immediate Fitness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about the Gemara's reinterpretation of the mishnah's exemption as referring to kodshei bedek habayis, the challenge of redemption, and the tannaitic tension \u2014 precisely what the 'Bedek Habayis' prose describes as the Gemara's retreat to a different reading of mukdashin, not the resolution via Rav Yosef or the tannaitic dispute analysis which belong under their own later headings.",
+      "chosen_heading": "Bedek Habayis",
+      "current_heading": "Shechita She'eina Re'uya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Immediate Fitness",
+    "candidates": [
+      "Tannaitic Views",
+      "Rav Yosef Resolution",
+      "Immediate Fitness",
+      "Chayah O Of"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the 've-shafach ve-chisa' reasoning \u2014 that only blood lacking nothing between pouring and covering is obligated \u2014 first for kodshei vedek ha-bayis (requiring pidyon as an intervening step) and then extending to kodshei mizbeach (requiring scraping), which is precisely what the 'Immediate Fitness' prose describes in detail.",
+      "chosen_heading": "Immediate Fitness",
+      "current_heading": "Immediate Fitness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Chayah O Of",
+    "candidates": [
+      "Chayah O Of",
+      "Species Distinction",
+      "Sacrifice Status",
+      "Yaakov Mina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Mar bar Rav Ashi derivation \u2014 the initial analogy, the challenge about species, and its rejection \u2014 which is exactly what candidate 0's prose describes as its content, including the note that the Gemara will explore whether the analogy operates at the individual or species level.",
+      "chosen_heading": "Chayah O Of",
+      "current_heading": "Chayah O Of",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Yaakov Mina",
+    "candidates": [
+      "Species Distinction",
+      "Sacrifice Status",
+      "Yaakov Mina",
+      "Blood Like Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the exchange between Yaakov Mina'ah and Rava about whether behemah is included in chayah for kisuy hadam, which is exactly what the 'Yaakov Mina'' section's prose describes.",
+      "chosen_heading": "Yaakov Mina",
+      "current_heading": "Yaakov Mina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Blood Like Water",
+    "candidates": [
+      "Blood Like Water",
+      "Blood Not Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's direct citation of the 'spill it like water' verse and the conclusion that behemah blood requires no covering, which is precisely what the 'Blood Like Water' section's prose describes.",
+      "chosen_heading": "Blood Like Water",
+      "current_heading": "Blood Like Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Blood Not Water",
+    "candidates": [
+      "Blood Not Water",
+      "Capturing Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of question-objection-answer about whether blood can serve as a valid mikveh, which is precisely what the 'Blood Not Water' prose describes in detail.",
+      "chosen_heading": "Blood Not Water",
+      "current_heading": "Blood Not Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Capturing Lesson",
+    "candidates": [
+      "Capturing Lesson",
+      "Meat Moderation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita about geese/chickens and 'who traps' that candidate 0's prose describes in detail, including the limdah Torah derech eretz conclusion about not eating meat casually.",
+      "chosen_heading": "Capturing Lesson",
+      "current_heading": "Capturing Lesson",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Meat Moderation",
+    "candidates": [
+      "Meat Moderation",
+      "Distant Location",
+      "All Livestock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about eating meat only out of appetite (le-te'avon), which is precisely what the 'Meat Moderation' section's prose describes and analyzes.",
+      "chosen_heading": "Meat Moderation",
+      "current_heading": "Meat Moderation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "All Livestock",
+    "candidates": [
+      "Distant Location",
+      "All Livestock",
+      "One Maneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses both the prohibition on buying from the marketplace AND the limitation on slaughtering all one's cattle/flock, and the 'All Livestock' section's prose covers both points together, making it the best match for this combined baraita passage.",
+      "chosen_heading": "All Livestock",
+      "current_heading": "All Livestock",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "One Maneh",
+    "candidates": [
+      "One Maneh",
+      "Ten Maneh",
+      "Fifty Maneh",
+      "Hundred Maneh",
+      "Rav's Concern",
+      "Healthy Families"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire scale from Rabbi Elazar ben Azaryah covering all wealth levels, but it begins with the one-maneh case and the current heading 'One Maneh' is where the quoted text naturally opens; however, since the passage covers all four tiers of the scale plus the closing Gemara question, and the essay breaks each tier into its own section, the passage as a whole is most naturally introduced under the first heading where it begins \u2014 'One Maneh' \u2014 which is its current placement.",
+      "chosen_heading": "One Maneh",
+      "current_heading": "One Maneh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Healthy Families",
+    "candidates": [
+      "Ten Maneh",
+      "Fifty Maneh",
+      "Hundred Maneh",
+      "Rav's Concern",
+      "Healthy Families",
+      "Market Meat",
+      "Borrow Money",
+      "Sheep Garments",
+      "Field vs Flocks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains all three statements (Rav, Rabbi Yo\u1e25anan, and Rav Na\u1e25man) as a single unit, and heading 3 ('Rav's Concern') is where this passage should begin, with headings 4, 5, and 6 covering the subsequent individual statements \u2014 but since the passage is one cohesive unit covering all three opinions, the earliest relevant heading where it fits as a whole is heading 3, which introduces Rav's statement that opens the passage.",
+      "chosen_heading": "Rav's Concern",
+      "current_heading": "Healthy Families",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Field vs Flocks",
+    "candidates": [
+      "Market Meat",
+      "Borrow Money",
+      "Sheep Garments",
+      "Field vs Flocks",
+      "Goat Milk",
+      "Self Before Household",
+      "No Meat Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three verses (lambs for clothing, goats for field price, goats' milk) as a unit, and candidate 2 'Sheep Garments' is where this block begins \u2014 its prose explicitly introduces this series of Mishlei verses starting with 'kevasim le-lvushecha,' making it the correct single heading for the entire passage rather than splitting it across candidates 2, 3, and 4.",
+      "chosen_heading": "Sheep Garments",
+      "current_heading": "Field vs Flocks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "No Meat Wine",
+    "candidates": [
+      "Goat Milk",
+      "Self Before Household",
+      "No Meat Wine",
+      "Youth Life",
+      "Ben Sorer",
+      "Small Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'lachmecha kodem le-lechem beitekha' teaching AND the Mar Zutra teaching in a single Talmudic excerpt, but the 'Self Before Household' section (index 1) introduces this exact passage as a unit, while index 2 ('No Meat Wine') only covers the Mar Zutra portion \u2014 however, since the passage includes both teachings as one continuous Gemara quote, and index 1's prose explicitly introduces 'lachmecha kodem le-lechem beitekha' which opens this passage, it is the better anchor heading for the whole unit.",
+      "chosen_heading": "Self Before Household",
+      "current_heading": "No Meat Wine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Small Animals",
+    "candidates": [
+      "Youth Life",
+      "Ben Sorer",
+      "Small Animals",
+      "Ashterot",
+      "Weigh Words"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Small Animals",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's teaching about raising small animals to become wealthy, which matches the 'Small Animals' prose exactly.",
+      "second_heading": "Ashterot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Chisda's philological observation about 'ashterot' deriving from the root of wealth, which matches the 'Ashterot' prose exactly.",
+      "current_heading": "Small Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162,
+      163,
+      164
+    ],
+    "current_heading": "Weigh Words",
+    "candidates": [
+      "Ashterot",
+      "Weigh Words",
+      "Clothing Self",
+      "Honor Family",
+      "God Dependency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ashterot",
+      "first_confidence": "medium",
+      "first_reason": "Items 1 and 2 are Rabbi Yo\u1e25anan practical advice statements (about lukewarm water and losing inherited money) that fit with the preceding section on practical wealth/health wisdom rather than the Rav Avira teaching on calibrated spending.",
+      "second_heading": "Weigh Words",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is precisely the Rav Avira teaching on ordering affairs with justice that candidate 1 ('Weigh Words') discusses in its prose.",
+      "current_heading": "Weigh Words",
+      "moved": true
+    }
+  }
+]

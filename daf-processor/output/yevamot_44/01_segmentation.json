@@ -111,7 +111,7 @@
           "timestamp": "13:10"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -140,8 +140,8 @@
           "timestamp": "15:29"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Mamzer Definition and Dispute: Rabbi Akiva vs. the Sages on Issur Lav",
@@ -164,7 +164,7 @@
           "timestamp": "17:04"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -256,7 +256,7 @@
           "timestamp": "32:12"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -280,7 +280,7 @@
           "timestamp": "38:47"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -602,5 +602,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "25:00",
+  "amud_b_micro_title": "Machzir Consensus",
+  "shiur_start_daf": 43,
+  "shiur_start_amud": "b"
 }

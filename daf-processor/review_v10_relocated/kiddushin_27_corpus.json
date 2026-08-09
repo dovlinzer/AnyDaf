@@ -1,0 +1,362 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rabban Gamliel Case",
+    "candidates": [
+      "Agav Basics",
+      "Rabban Gamliel Case",
+      "Tosafot Analysis",
+      "Shetar Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Rabban Gamliel ship episode \u2014 the tithe given to Yehoshua and Akiva, the 'mekomo muskar lo' language, the attempted proof for tziburin betocha, and the Gemara's rejection \u2014 which is precisely what the 'Rabban Gamliel Case' prose describes in detail.",
+      "chosen_heading": "Rabban Gamliel Case",
+      "current_heading": "Rabban Gamliel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Shetar Categories",
+    "candidates": [
+      "Tosafot Analysis",
+      "Shetar Categories",
+      "Rav Huna Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rava bar Yitzchak/Rav teaching about two types of documents (shenei shtarot hen) with the two scenarios \u2014 'zekhu bisedeh... vekhitvu lo et hashetar' and 'al menat shetikhtevu lo et hashetar' \u2014 which is precisely what the 'Shetar Categories' prose section describes and analyzes.",
+      "chosen_heading": "Shetar Categories",
+      "current_heading": "Shetar Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Rav Huna Ruling",
+    "candidates": [
+      "Rav Huna Ruling",
+      "Bill of Sale Proof",
+      "Agav Terminology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in the 'Rav Huna Ruling' prose: the three-document taxonomy, the pre-written shtar ruling, the shema mina challenge about tziburin, the shani shtar response, and the braita about nechasim she'ein lahem achrayut leading to the final shema mina conclusion \u2014 all of which are explicitly laid out in that section's prose.",
+      "chosen_heading": "Rav Huna Ruling",
+      "current_heading": "Rav Huna Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Agav Terminology",
+    "candidates": [
+      "Bill of Sale Proof",
+      "Agav Terminology",
+      "Immo vs Agav",
+      "Technical Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma about whether the word 'agav' must be explicitly stated and the initial proof/rebuttal, which matches exactly the 'Agav Terminology' section's prose describing this new iba'ya about whether the word agav itself is technically required.",
+      "chosen_heading": "Agav Terminology",
+      "current_heading": "Agav Terminology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Technical Language",
+    "candidates": [
+      "Immo vs Agav",
+      "Technical Language",
+      "Mixed Transfers",
+      "Maaser Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact argument about 'kni' not being mentioned in the baraita (the deflection argument) and the halakhic conclusion about agav and kni being required, which directly corresponds to the 'Immo vs Agav' section's prose describing the ve-li-te'amecha kni mi katani argument and its resolution.",
+      "chosen_heading": "Immo vs Agav",
+      "current_heading": "Technical Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Maaser Proof",
+    "candidates": [
+      "Mixed Transfers",
+      "Maaser Proof",
+      "Third-Party Transfer",
+      "Akiva's Agency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about a field sold and movable property given as a gift, which is precisely what the 'Mixed Transfers' prose describes as its central question \u2014 the current placement under 'Maaser Proof' is where the answer/proof appears, but the dilemma itself belongs under 'Mixed Transfers'.",
+      "chosen_heading": "Mixed Transfers",
+      "current_heading": "Maaser Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Akiva's Agency",
+    "candidates": [
+      "Third-Party Transfer",
+      "Akiva's Agency",
+      "Rava's Payment Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dilemma of splitting agav between two parties (sadeh l'echad u'mitaltelin l'achar) and the attempted proof/refutation from the Rabban Gamliel/Akiva episode \u2014 exactly the content described in candidate 0's prose about the third-party transfer question, whereas candidate 1 ('Akiva's Agency') describes these same items as already introduced and being analyzed, suggesting candidate 1 is meant to follow after this passage is introduced under candidate 0.",
+      "chosen_heading": "Third-Party Transfer",
+      "current_heading": "Akiva's Agency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rava's Payment Rule",
+    "candidates": [
+      "Akiva's Agency",
+      "Rava's Payment Rule",
+      "Kinyan Strengths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's exact statement about acquiring only the movable property corresponding to money paid, which is precisely what the 'Rava's Payment Rule' section discusses.",
+      "chosen_heading": "Rava's Payment Rule",
+      "current_heading": "Rava's Payment Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Kinyan Strengths",
+    "candidates": [
+      "Kinyan Strengths",
+      "Scope of Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rava that compares the strengths of kesef and shtar, which is exactly what the prose of 'Kinyan Strengths' discusses in detail.",
+      "chosen_heading": "Kinyan Strengths",
+      "current_heading": "Kinyan Strengths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Scope of Payment",
+    "candidates": [
+      "Scope of Payment",
+      "Shmuel's Ruling",
+      "Braita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita comparison between kesef/shtar and chazakah, including the ten-fields-in-ten-countries example, which candidate 2 ('Braita Support') explicitly discusses as confirming Shmuel's ruling and explaining the chiddush of one chazakah acquiring multiple distant parcels.",
+      "chosen_heading": "Braita Support",
+      "current_heading": "Scope of Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Braita Support",
+    "candidates": [
+      "Shmuel's Ruling",
+      "Braita Support",
+      "Rav Acha Analogy",
+      "Connection Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both the payment condition and then the core statement of Shmuel about ten fields in ten countries, which is precisely what heading 0 ('Shmuel's Ruling') is dedicated to discussing, whereas heading 1 discusses the braita as already established support for Shmuel's ruling rather than introducing it.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Braita Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Connection Analysis",
+    "candidates": [
+      "Rav Acha Analogy",
+      "Connection Analysis",
+      "Land as Sadna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Acha analogy itself \u2014 item 1 is the first version (proof that it works) and item 2 is the 'ika de-amrei' second version (proof that it doesn't) \u2014 which is exactly what the 'Rav Acha Analogy' prose describes, whereas the current heading 'Connection Analysis' covers the Gemara's rejection and response to these analogies, not the analogies themselves.",
+      "chosen_heading": "Rav Acha Analogy",
+      "current_heading": "Connection Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Land as Sadna",
+    "candidates": [
+      "Connection Analysis",
+      "Land as Sadna",
+      "Chiddushim Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states 'hatam gufim mechulakin' and 'sadna de-ara chad hu,' which is precisely what the 'Land as Sadna' section's prose explains and analyzes.",
+      "chosen_heading": "Land as Sadna",
+      "current_heading": "Land as Sadna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Chiddushim Summary",
+    "candidates": [
+      "Chiddushim Summary",
+      "Gilgul Principle",
+      "Sotah Source",
+      "Oath Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Ulla's question about the Torah source for gilgul shevuah, which directly matches the 'Gilgul Principle' section's prose about the rolling of an oath from metaltelin to karka and the introduction of this concept.",
+      "chosen_heading": "Gilgul Principle",
+      "current_heading": "Chiddushim Summary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Oath Expansion",
+    "candidates": [
+      "Gilgul Principle",
+      "Sotah Source",
+      "Oath Expansion",
+      "Arusah Case",
+      "Tachad Ishech"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oath Expansion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the double Amein expansion (curse/oath, this man/another man, and the four marital stages including arusah) which is precisely what heading 'Oath Expansion' discusses.",
+      "second_heading": "Arusah Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 home in on the specific arusah scenario \u2014 the kinuy/stirah during erusin, the Mishnah's exclusion, and the ve-nikah rejection \u2014 which is exactly what headings 'Arusah Case' and 'Tachad Ishech' describe, with item 2 beginning the structural analysis of 'what are the circumstances of the arusah' that belongs under 'Arusah Case'.",
+      "current_heading": "Oath Expansion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Tachad Ishech",
+    "candidates": [
+      "Arusah Case",
+      "Tachad Ishech",
+      "Gilgul Despite Exclusion",
+      "Money Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage 'ella al yedei gilgul' \u2014 'Rather, it is clear that this oath is administered by means of an extension' \u2014 is precisely the conclusion stated in the 'Gilgul Despite Exclusion' section, which explicitly quotes and explains this phrase and its implications.",
+      "chosen_heading": "Gilgul Despite Exclusion",
+      "current_heading": "Tachad Ishech",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Money Extension",
+    "candidates": [
+      "Gilgul Despite Exclusion",
+      "Money Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the extension of gilgul shevuah from sotah (issur) to monetary disputes via the kal vachomer of Rabbi Yishmael's school, which is precisely what the 'Money Extension' prose describes in detail.",
+      "chosen_heading": "Money Extension",
+      "current_heading": "Money Extension",
+      "moved": false
+    }
+  }
+]

@@ -65,7 +65,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Mixed Children and Yibum/Chalitzah Complexities",
@@ -137,7 +137,7 @@
           "timestamp": "29:03"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -287,7 +287,7 @@
           "timestamp": "49:56"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     }
   ],
@@ -515,5 +515,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "40:51",
+  "amud_b_micro_title": "Restrictions While Mixed",
+  "shiur_start_daf": 98,
+  "shiur_start_amud": "b"
 }

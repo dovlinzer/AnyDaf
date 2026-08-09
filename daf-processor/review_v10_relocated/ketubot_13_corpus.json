@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Claims Setup",
+    "candidates": [
+      "Claims Setup",
+      "Tannaim Debate",
+      "Monetary Framework",
+      "Definite vs. Doubtful",
+      "Definite Prevails",
+      "Possession Rule",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah presenting the core dispute case (rape after betrothal vs. before betrothal, mekach taus), which is precisely what the 'Claims Setup' prose discusses in detail, covering the wife's claim, the husband's counter-claim, and the field-flooding metaphor.",
+      "chosen_heading": "Claims Setup",
+      "current_heading": "Claims Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Tannaim Debate",
+      "Monetary Framework",
+      "Definite vs. Doubtful",
+      "Definite Prevails",
+      "Possession Rule",
+      "Shmuel's Position",
+      "Migo & Chazakah",
+      "Could Lie Better"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items together form the continuous Gemara discussion under 'Shmuel's Position': the bari/shema dispute between Rav Yehuda/Rav Huna vs. Rav Nachman/Rabbi Yochanan, Abaye's report linking it to Shmuel via the pregnant woman mishna, Rav Shmuel bar Yehuda's elaboration about 'even the first' case, and the suggestion that the Amoraic dispute mirrors the Tannaitic dispute between Rabban Gamliel and Rabbi Yehoshua \u2014 all of which is precisely what the prose of heading 5 describes.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Shmuel's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Could Lie Better",
+    "candidates": [
+      "Migo & Chazakah",
+      "Could Lie Better",
+      "Resolution",
+      "Competing Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-2 explain why Rav Nachman's ruling is compatible with Rabban Gamliel (via migo and chazakah), and items 3-4 confirm this resolution is sound and provide the structural proof from conflicting halachic rulings \u2014 all of which matches the 'Resolution' section's prose about reconciling Rav Nachman with Rabban Gamliel and the kashya hilchesa ahilchesa argument.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Could Lie Better",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Competing Claims",
+    "candidates": [
+      "Resolution",
+      "Competing Claims",
+      "Rabbi Meir Frame",
+      "Rabbanan Frame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah presenting the second case of competing claims (mukas etz vs. drusas ish) with the Tannaitic dispute between Rabban Gamliel/Rabbi Eliezer and Rabbi Yehoshua, which is precisely what the 'Competing Claims' prose describes.",
+      "chosen_heading": "Competing Claims",
+      "current_heading": "Competing Claims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rabbanan Frame",
+    "candidates": [
+      "Rabbi Meir Frame",
+      "Rabbanan Frame",
+      "Two Cases Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the initial question about the monetary stakes and then explain that Rabbi Yochanan reads the Mishnah within Rabbi Meir's framework (200 vs. 100) and Rabbi Elazar within the Rabbanan's framework (100 vs. zero) \u2014 this is precisely what candidate 0 ('Rabbi Meir Frame') describes, introducing both positions together before the essay separates them, whereas candidate 1 already assumes the reader knows the setup and proceeds to explain only the Rabbanan frame and why Rabbi Yochanan cannot use it.",
+      "chosen_heading": "Rabbi Meir Frame",
+      "current_heading": "Rabbanan Frame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Two Cases Purpose",
+    "candidates": [
+      "Rabbanan Frame",
+      "Two Cases Purpose",
+      "Status Question",
+      "Tannaim Again"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-2 explain why Rabbi Yochanan cannot use the Rabbanan framework (identical amounts), and items 3-5 address why two Mishnayot are needed according to Rabbi Yochanan \u2014 concluding with the miggo-based answer about Rabban Gamliel and Rabbi Yehoshua \u2014 all of which matches exactly the 'Two Cases Purpose' prose description.",
+      "chosen_heading": "Two Cases Purpose",
+      "current_heading": "Two Cases Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Tannaim Again",
+    "candidates": [
+      "Status Question",
+      "Tannaim Again",
+      "Medaberet Definition",
+      "Zeiri: Seclusion",
+      "Rav Assi: Sex",
+      "Mouth Euphemism",
+      "Two Cases Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah itself \u2014 the two cases of a woman seen speaking with a man and a pregnant woman \u2014 which candidate 0 ('Status Question') explicitly introduces and describes, whereas candidate 1 ('Tannaim Again') discusses the Tannaitic debate that follows the Mishnah, not the Mishnah text itself.",
+      "chosen_heading": "Status Question",
+      "current_heading": "Tannaim Again",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Two Cases Explained",
+    "candidates": [
+      "Medaberet Definition",
+      "Zeiri: Seclusion",
+      "Rav Assi: Sex",
+      "Mouth Euphemism",
+      "Two Cases Explained",
+      "Ruins Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a single continuous Gemara discussion about the definition of 'medaberes' \u2014 covering the Ze'eiri/Rav Asi dispute, the euphemism proof, why two cases are needed, and the Rav Pappa/Rav tension about seclusion \u2014 which matches heading 0 ('Medaberet Definition') as the foundational question the entire passage addresses, and the current placement under 'Two Cases Explained' only captures part of the discussion while missing the definitional dispute that opens and frames the whole passage.",
+      "chosen_heading": "Medaberet Definition",
+      "current_heading": "Two Cases Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Ruins Distinction",
+    "candidates": [
+      "Two Cases Explained",
+      "Ruins Distinction",
+      "Kosher Majority",
+      "Invalid Majority",
+      "Yichus Severity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about the baraita's two ruin cases (seclusion vs. ruin, city ruin vs. field ruin), which is precisely what the 'Ruins Distinction' prose describes \u2014 the baraita, Rashi's note about ruins, and the Gemara's question about why two ruin cases are needed according to Rav Asi.",
+      "chosen_heading": "Ruins Distinction",
+      "current_heading": "Ruins Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Yichus Severity",
+    "candidates": [
+      "Kosher Majority",
+      "Invalid Majority",
+      "Yichus Severity",
+      "Captive Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains that both cases were necessary because otherwise one might think Rabbi Yehoshua concedes in the city case \u2014 which directly supports the 'Yichus Severity' section's discussion of Rabbi Yehoshua maintaining his stringency even where the majority are valid (*rov ksheirim*).",
+      "chosen_heading": "Yichus Severity",
+      "current_heading": "Yichus Severity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Captive Comparison",
+    "candidates": [
+      "Captive Comparison",
+      "Non-Jews Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua's initial challenge comparing the captive woman case, which is exactly what the 'Captive Comparison' section's prose describes \u2014 the introduction of the captive analogy by Rabbi Yehoshua before the concession and counter-arguments discussed in 'Non-Jews Difference'.",
+      "chosen_heading": "Captive Comparison",
+      "current_heading": "Captive Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Non-Jews Difference",
+    "candidates": [
+      "Non-Jews Difference",
+      "No Guardian",
+      "Status & Shtuki"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Sages' response distinguishing the captive case (witnesses exist) from the seclusion case (no witnesses), which is precisely what the prose under 'Non-Jews Difference' discusses and analyzes.",
+      "chosen_heading": "Non-Jews Difference",
+      "current_heading": "Non-Jews Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Status & Shtuki",
+    "candidates": [
+      "No Guardian",
+      "Status & Shtuki"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items \u2014 the pregnant woman/captive exchange, the shtuki ruling, the Gemara's clarification of the exchange, the refutation of Rav Asi, the rov argument supporting Rabbi Yehoshua ben Levi, and Rabbi Yochanan/Rabbi Elazar on the daughter \u2014 are explicitly discussed in the 'Status & Shtuki' prose, which covers exactly this sequence of the baraita's conclusion, the shtuki ruling, the comparative rov argument, and notes that the Rabbi Yochanan statement will be taken up next.",
+      "chosen_heading": "Status & Shtuki",
+      "current_heading": "Status & Shtuki",
+      "moved": false
+    }
+  }
+]

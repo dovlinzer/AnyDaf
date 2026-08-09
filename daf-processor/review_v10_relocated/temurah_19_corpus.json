@@ -1,0 +1,249 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna 22 Introduction",
+    "candidates": [
+      "Mishna 22 Introduction",
+      "Toda Law Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself, which is introduced and explained in candidate 0's prose about the toda's offspring and temurah not requiring bread, matching perfectly.",
+      "chosen_heading": "Mishna 22 Introduction",
+      "current_heading": "Mishna 22 Introduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Toda Law Sources",
+    "candidates": [
+      "Toda Law Sources",
+      "Bread Exclusion Explained",
+      "Olah Chain Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita deriving the laws about toda derivatives and bread requirements from the relevant pesukim, which is exactly what the 'Toda Law Sources' prose describes step by step.",
+      "chosen_heading": "Toda Law Sources",
+      "current_heading": "Toda Law Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Olah Chain Structure",
+    "candidates": [
+      "Bread Exclusion Explained",
+      "Olah Chain Structure",
+      "Female Olah Debate",
+      "Beginning vs. End Debate",
+      "Rabbah bar Chana: Kedusha",
+      "Rava's Kedusha Model"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Olah Chain Structure",
+      "first_confidence": "high",
+      "first_reason": "The Mishna text presents the full olah chain structure \u2014 temurah, vlad ha-temurah, and the case of a female designated as an olah \u2014 which is precisely what heading 1 ('Olah Chain Structure') describes in its prose.",
+      "second_heading": "Beginning vs. End Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's opening question 'mai shna reisha d'lo palgi u'mai shna seifa d'palgi,' which is quoted verbatim in heading 3 ('Beginning vs. End Debate') as the direct question that section addresses.",
+      "current_heading": "Olah Chain Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rava's Kedusha Model",
+    "candidates": [
+      "Female Olah Debate",
+      "Beginning vs. End Debate",
+      "Rabbah bar Chana: Kedusha",
+      "Rava's Kedusha Model",
+      "Asham Case Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rabba bar bar Chana's statement (covered in heading 2) AND Rava's response distinguishing the female olah case from the temurah case \u2014 the Rava portion is the primary content and matches exactly the prose of heading 3 ('Rava's Kedusha Model'), which explicitly discusses Rava's argument that rabbis only dispute Rabbi Elazar regarding hamafrish nekeivah l'olah because the mother couldn't be brought, while conceding the temurah case where the mother could be brought.",
+      "chosen_heading": "Rava's Kedusha Model",
+      "current_heading": "Rava's Kedusha Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Asham Case Analysis",
+    "candidates": [
+      "Asham Case Analysis",
+      "Abaye's Motar Model",
+      "Pesach Before/After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit \u2014 the gemara's challenge to Rabbi Elazar about whether the offspring of an asham substitute is itself brought as an olah, followed by Rav \u1e24isda's resolution that Rabbi Elazar was speaking lidvreihem d'Rabbanan \u2014 which is precisely the content described in the 'Asham Case Analysis' prose.",
+      "chosen_heading": "Asham Case Analysis",
+      "current_heading": "Asham Case Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Pesach Before/After",
+    "candidates": [
+      "Abaye's Motar Model",
+      "Pesach Before/After",
+      "Pregnant Animal Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items form the continuous Rava/Abaye dispute about whether Rabbi Elazar requires 'shem olah al imo,' including the pesach before/after Passover cases, the motar principle, and Rav Ukva bar \u1e24ama's objection \u2014 all of which are explicitly detailed in the 'Pesach Before/After' prose section.",
+      "chosen_heading": "Pesach Before/After",
+      "current_heading": "Pesach Before/After",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Pregnant Animal Case",
+    "candidates": [
+      "Pregnant Animal Case",
+      "Female Asham Agreement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Pregnant Animal Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are about the pregnant animal case resolved by Ravina invoking Rabbi Yochanan's principle, confirmed by Mar Zutra \u2014 exactly what the 'Pregnant Animal Case' prose describes.",
+      "second_heading": "Female Asham Agreement",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce Rabbi Yosei bar Rabbi \u1e24anina's statement that Rabbi Elazar concedes regarding a female designated as an asham, which is precisely what the 'Female Asham Agreement' prose discusses.",
+      "current_heading": "Pregnant Animal Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Female Asham Agreement",
+    "candidates": [
+      "Female Asham Agreement",
+      "Mother Status in Asham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's objection asking why the ruling about asham was taught rather than a more expansive ruling about olah \u2014 this directly follows and responds to the 'peshita' discussion in candidate 1, which explains why the female asham lacks 'shem asham' on the mother, making this objection a continuation of that exact discourse rather than the setup discussion in candidate 0.",
+      "chosen_heading": "Mother Status in Asham",
+      "current_heading": "Female Asham Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Mother Status in Asham",
+    "candidates": [
+      "Mother Status in Asham",
+      "Derailing the Mother",
+      "Kedusha Transfer Rules",
+      "Female Asham Blemish Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the olah case alone would be insufficient to teach the asham prohibition \u2014 specifically the reasoning that identical kedusha might make the child's asham sacrifice permissible \u2014 which is precisely the 'ei ashmi'inan olah, hava amina' argument that the prose of candidate 1 ('Derailing the Mother') explicitly discusses and quotes.",
+      "chosen_heading": "Derailing the Mother",
+      "current_heading": "Mother Status in Asham",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Female Asham Blemish Rule",
+    "candidates": [
+      "Derailing the Mother",
+      "Kedusha Transfer Rules",
+      "Female Asham Blemish Rule",
+      "Derailment Case",
+      "Rabbi Shimon Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna directly describes the female asham grazing until blemished, sold, and proceeds used for an asham \u2014 exactly the practical resolution discussed in the 'Female Asham Blemish Rule' prose.",
+      "chosen_heading": "Female Asham Blemish Rule",
+      "current_heading": "Female Asham Blemish Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rabbi Shimon Opinion",
+    "candidates": [
+      "Derailment Case",
+      "Rabbi Shimon Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's ruling that a female asham may be sold without a blemish, which directly matches the prose under 'Rabbi Shimon Opinion' discussing his dissenting position that gender mismatch is equivalent to a mum for purposes of redemption.",
+      "chosen_heading": "Rabbi Shimon Opinion",
+      "current_heading": "Rabbi Shimon Opinion",
+      "moved": false
+    }
+  }
+]

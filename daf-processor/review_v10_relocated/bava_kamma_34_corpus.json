@@ -1,0 +1,232 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Machro/Hekdesho",
+    "candidates": [
+      "Ownership vs. Lien",
+      "Machro/Hekdesho",
+      "Lien Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Rav Tachlifa (machro/hekdesho) and the Gemara's immediate question about who sold it \u2014 exactly the content described in candidate 1's prose about the baraita and the Gemara's analysis of whether the subject is the mazik or nizak.",
+      "chosen_heading": "Machro/Hekdesho",
+      "current_heading": "Machro/Hekdesho",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Lien Interpretation",
+    "candidates": [
+      "Lien Interpretation",
+      "Bedek Habayis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the contradiction between 'machro ein machur' (attributed to Rabbi Yishmael) and 'hekdesho mukdash' (attributed to Rabbi Akiva) within the same baraita, which is precisely the tension the 'Lien Interpretation' prose addresses when it acknowledges the Gemara's difficulty with the plain sense of the baraita.",
+      "chosen_heading": "Lien Interpretation",
+      "current_heading": "Lien Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Bedek Habayis",
+    "candidates": [
+      "Bedek Habayis",
+      "Amad Ba-Din",
+      "Pre-Court Actions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's explanation of 'mekaro eino makur' and 'hekdesho mukdash' in terms of Rabbi Yishmael's lien theory and Rabbi Abbahu's principle \u2014 exactly the content discussed in the 'Bedek Habayis' prose section.",
+      "chosen_heading": "Bedek Habayis",
+      "current_heading": "Bedek Habayis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Pre-Court Actions",
+    "candidates": [
+      "Amad Ba-Din",
+      "Pre-Court Actions",
+      "Post-Court Control",
+      "Creditors vs. Nizak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Pre-Court Actions' explicitly discusses all 12 items: the baraita's rules before amad ba-din, the sale/consecration/slaughter cases, the baraita from Exodus 21:35, Rav Sheizevi on pachat shechita, Rav Huna son of Rav Yehoshua on damaging another's lien, Rabba's ruling on burning documents, and the conclusion about grama \u2014 exactly matching the sequence of items 1\u201312.",
+      "chosen_heading": "Pre-Court Actions",
+      "current_heading": "Pre-Court Actions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Creditors vs. Nizak",
+    "candidates": [
+      "Post-Court Control",
+      "Creditors vs. Nizak",
+      "Shevach Mazik"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the baraita's ruling about creditors seizing the ox versus the nizak's claim, the Gemara's challenge about temporal priority of debts, and the resolution that the nizak's lien is uniquely focused on the body of the ox \u2014 exactly what the 'Creditors vs. Nizak' prose describes.",
+      "chosen_heading": "Creditors vs. Nizak",
+      "current_heading": "Creditors vs. Nizak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Shevach Mazik",
+    "candidates": [
+      "Shevach Mazik",
+      "Pachat at Amad",
+      "Continued Injury"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion about the baraita covering shevach and kachash of both the nizak's and mazik's ox, the attribution to Rabbi Yishmael vs. Rabbi Akiva, and the resolution \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Shevach Mazik",
+      "current_heading": "Shevach Mazik",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Continued Injury",
+    "candidates": [
+      "Pachat at Amad",
+      "Continued Injury",
+      "R. Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Gemara's challenge about fattening, Rav Pappa's resolution distinguishing natural vs. owner-caused appreciation, the question about what caused the depreciation, and Rav Ashi's answer about kachash machmat makah \u2014 are precisely the content described in the 'Continued Injury' prose, which explicitly discusses ke-she-pitmu, Rav Pappa's chiddush, kachash machmat mai, and Rav Ashi's kurna de-torach kevira beh.",
+      "chosen_heading": "Continued Injury",
+      "current_heading": "Continued Injury",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "R. Meir Position",
+    "candidates": [
+      "R. Meir Position",
+      "R. Yehuda Position",
+      "Pachat Neveilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together present the Mishna (R. Meir's position), R. Yehuda's objection in the Mishna, and then the Gemara's Baraita restating both R. Yehuda's and R. Meir's positions including R. Meir's reading of 'vegam et ha-met yechetzun' as pachat she-pichas'o mitah \u2014 exactly the content described in the 'R. Meir Position' prose, which covers both the dispute and R. Meir's scriptural interpretation.",
+      "chosen_heading": "R. Meir Position",
+      "current_heading": "R. Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Pachat Neveilah",
+    "candidates": [
+      "R. Yehuda Position",
+      "Pachat Neveilah",
+      "Tam vs. Muad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the Gemara's mai beinaihu question and Rava's pachat neveilah answer, which is precisely what the 'Pachat Neveilah' prose section describes.",
+      "chosen_heading": "Pachat Neveilah",
+      "current_heading": "Pachat Neveilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Tam vs. Muad",
+    "candidates": [
+      "Tam vs. Muad",
+      "Shevach Neveilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous Abaye-Rava exchange about whether a tam can be more stringent than a muad, including the shemira vs. tashlumin distinction and the baraita proof \u2014 exactly what the 'Tam vs. Muad' prose describes.",
+      "chosen_heading": "Tam vs. Muad",
+      "current_heading": "Tam vs. Muad",
+      "moved": false
+    }
+  }
+]

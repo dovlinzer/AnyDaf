@@ -1,0 +1,468 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mar Zutra Challenge",
+    "candidates": [
+      "Mishna Overview",
+      "Mar Zutra Challenge",
+      "Slaughter Methods",
+      "Dual Prohibitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Mar Zutra's challenge (matkif lah) and the gemara's two-part rebuttal, which spans both the challenge and the response \u2014 and the current heading 'Mar Zutra Challenge' with its prose accurately describes this entire unit including the stone-resembling-stoning argument and the baraita response.",
+      "chosen_heading": "Mar Zutra Challenge",
+      "current_heading": "Mar Zutra Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Dual Prohibitions",
+    "candidates": [
+      "Slaughter Methods",
+      "Dual Prohibitions",
+      "Skin Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about what 'u'va'al hashor naki' teaches given that both prohibitions are already derived from 'lo ye'achel,' which is precisely what the 'Dual Prohibitions' section's prose describes.",
+      "chosen_heading": "Dual Prohibitions",
+      "current_heading": "Dual Prohibitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Skin Benefit",
+    "candidates": [
+      "Skin Benefit",
+      "Shimon Ha'amsuni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of how tannaim who use 'u'va'al hashor naki' for other purposes (half-damages, miscarried offspring) derive the prohibition on benefiting from the hide, which is precisely what the 'Skin Benefit' prose section discusses.",
+      "chosen_heading": "Skin Benefit",
+      "current_heading": "Skin Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Shimon Ha'amsuni",
+    "candidates": [
+      "Shimon Ha'amsuni",
+      "Rabbi Akiva Resolution",
+      "Egla Arufah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Shimon HaAmasoni baraita including his withdrawal and Rabbi Akiva's resolution, and the current heading's prose explicitly covers all of this content including the students' question, his response about reward for retraction, and Rabbi Akiva's teaching.",
+      "chosen_heading": "Shimon Ha'amsuni",
+      "current_heading": "Shimon Ha'amsuni",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Egla Arufah",
+    "candidates": [
+      "Rabbi Akiva Resolution",
+      "Egla Arufah",
+      "Tzippurei Metzora"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the egla arufa and the derivation from the language of atonement (kapar), which is precisely what the 'Egla Arufah' section prose describes.",
+      "chosen_heading": "Egla Arufah",
+      "current_heading": "Egla Arufah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Tzippurei Metzora",
+    "candidates": [
+      "Tzippurei Metzora",
+      "Parallel Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the braisa deriving the prohibition on leper's birds through the inside/outside parallel structure, which is precisely what the 'Tzippurei Metzora' section's prose describes.",
+      "chosen_heading": "Tzippurei Metzora",
+      "current_heading": "Tzippurei Metzora",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Parallel Structure",
+    "candidates": [
+      "Parallel Structure",
+      "Yochanan/Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gezeira shava/parallel structure argument comparing inside and outside Temple enabling/atoning rites, which is exactly what the 'Parallel Structure' prose describes.",
+      "chosen_heading": "Parallel Structure",
+      "current_heading": "Parallel Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Yochanan/Lakish",
+    "candidates": [
+      "Yochanan/Lakish",
+      "Yannai Memory",
+      "Wadi Descent",
+      "Consistency Test",
+      "Two Moments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the amoraic dispute between Rabbi Yo\u1e25anan and Reish Lakish about when the leper's birds become forbidden, which is precisely what the 'Yochanan/Lakish' section's prose discusses.",
+      "chosen_heading": "Yochanan/Lakish",
+      "current_heading": "Yochanan/Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Two Moments",
+    "candidates": [
+      "Yannai Memory",
+      "Wadi Descent",
+      "Consistency Test",
+      "Two Moments",
+      "Braisa Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Rabbi Yannai's forgotten boundary, the colleagues' proposal about wadi descent, and the rejection of the comparison to metzora birds \u2014 which span headings 0\u20133, but since it is a single unified Talmudic passage it belongs under the first heading where it begins, 'Yannai Memory,' with the subsequent prose sections (1, 2, 3) being the essay author's breakdown of that single passage.",
+      "chosen_heading": "Yannai Memory",
+      "current_heading": "Two Moments",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Braisa Proof",
+    "candidates": [
+      "Two Moments",
+      "Braisa Proof",
+      "Status Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's challenge to Reish Lakish from a baraita about the sent-away and slaughtered birds, and the response about kodashim \u2014 exactly what 'Braisa Proof' prose describes.",
+      "chosen_heading": "Braisa Proof",
+      "current_heading": "Braisa Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Status Resolution",
+    "candidates": [
+      "Status Resolution",
+      "Improper Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact challenge and resolution discussed in the 'Status Resolution' prose \u2014 the tereifah bird found with a congenital defect meaning kedushah never took effect \u2014 matching that section's detailed discussion perfectly.",
+      "chosen_heading": "Status Resolution",
+      "current_heading": "Status Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Improper Shechita",
+    "candidates": [
+      "Improper Shechita",
+      "Living Animals"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Improper Shechita",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous unit about the improper shechita dispute (Rabbi Ya'akov vs. Rabbi Shimon), the tannaitic resolution, and Reish Lakish's alignment with the school of Rabbi Yishmael \u2014 all matching the 'Improper Shechita' prose exactly.",
+      "second_heading": "Living Animals",
+      "second_confidence": "high",
+      "second_reason": "Item 5 opens an entirely new topic ('gufa') about the sent-away bird being permitted in benefit, which matches the 'Living Animals' section's discussion of whether living animals acquire issur hana'ah status.",
+      "current_heading": "Improper Shechita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Living Animals",
+    "candidates": [
+      "Living Animals",
+      "Exceptions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Living Animals",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's principle that living animals are not forbidden, which is precisely what heading 0 ('Living Animals') discusses.",
+      "second_heading": "Exceptions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the challenge from muktza/ne'evad and its resolution, which is exactly what heading 1 ('Exceptions') describes in its prose.",
+      "current_heading": "Living Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Exceptions",
+    "candidates": [
+      "Exceptions",
+      "Most vs. All",
+      "Field Analogy",
+      "Geographic Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Most vs. All' \u2014 Rabbi Yirmiyah's objection about rovea/nirba and Rabbi Yo\u1e25anan's revised formulation 'lo matzinu rov ba'alei chayim she'asurin' (most, not all, living creatures are forbidden), which is precisely what that section's prose explains.",
+      "chosen_heading": "Most vs. All",
+      "current_heading": "Exceptions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Geographic Requirement",
+    "candidates": [
+      "Most vs. All",
+      "Field Analogy",
+      "Geographic Requirement",
+      "Rava Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange about the word 'field'/'the field' \u2014 item 1 raises the geographic requirement objection and item 2 resolves it with 'shema mina tarti,' which is precisely what the 'Geographic Requirement' prose describes.",
+      "chosen_heading": "Geographic Requirement",
+      "current_heading": "Geographic Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rava Answer",
+    "candidates": [
+      "Rava Answer",
+      "Nezir Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's answer about 'lo amra Torah shlach l'takalah,' which matches exactly the prose under heading 0 describing Rava's elegant answer about the Torah not creating stumbling blocks.",
+      "chosen_heading": "Rava Answer",
+      "current_heading": "Rava Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Nezir Hair",
+    "candidates": [
+      "Nezir Hair",
+      "Peter Chamor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the prohibition of deriving benefit from a nazirite's hair and the kodesh/kadosh distinction, which is exactly what the 'Nezir Hair' prose section discusses.",
+      "chosen_heading": "Nezir Hair",
+      "current_heading": "Nezir Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Peter Chamor",
+    "candidates": [
+      "Peter Chamor",
+      "Basar B'Chalav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the firstborn donkey (peter chamor), the dispute between Rabbi Yehuda and Rabbi Shimon, and Rav Nachman's clarification about l'achar arifa \u2014 exactly what the 'Peter Chamor' section prose describes.",
+      "chosen_heading": "Peter Chamor",
+      "current_heading": "Peter Chamor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Basar B'Chalav",
+    "candidates": [
+      "Basar B'Chalav",
+      "Shimon Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the school of Rabbi Yishmael's teaching about the three occurrences of 'lo tivashel gdi' deriving the prohibitions of eating, benefit, and cooking \u2014 which is precisely what the 'Basar B'Chalav' section prose describes.",
+      "chosen_heading": "Basar B'Chalav",
+      "current_heading": "Basar B'Chalav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Shimon Yehuda",
+    "candidates": [
+      "Shimon Yehuda",
+      "Parallel Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon ben Yehuda's view that meat cooked in milk is forbidden in eating but permitted in benefit, using the exact verbal gezerah shavah argument described in the 'Shimon Yehuda' prose section.",
+      "chosen_heading": "Shimon Yehuda",
+      "current_heading": "Shimon Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Parallel Argument",
+    "candidates": [
+      "Parallel Argument",
+      "Karet Distinction",
+      "Abaye Derivation",
+      "Five-Step Logic",
+      "Shechut Repetitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous derivation from Rabbi Yochanan/Rabbi Meir's structural parallel argument \u2014 item 1 presents the analogy, item 2 shows karet does not apply, and item 3 raises the refutation of the analogy \u2014 exactly matching the 'Parallel Argument' heading's prose description of this same chain of reasoning, while the 'Karet Distinction' heading discusses the same material but is meant to introduce Abaye's independent derivation as a response to the failed analogy, not to house the analogy itself.",
+      "chosen_heading": "Parallel Argument",
+      "current_heading": "Parallel Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Shechut Repetitions",
+    "candidates": [
+      "Karet Distinction",
+      "Abaye Derivation",
+      "Five-Step Logic",
+      "Shechut Repetitions",
+      "Tereifa Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Abaye Derivation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Abaye's derivation from the three superfluous 'it' verses and the baraita's extension to blemished animals, chaya, and birds for the prohibition against slaughtering chulin in the azarah \u2014 matching the 'Abaye Derivation' and 'Five-Step Logic' prose, but most precisely the 'Abaye Derivation' section which introduces exactly this derivation.",
+      "second_heading": "Shechut Repetitions",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 cover the prohibition on eating chulin b'azara (ki yirchak... v'achalta), its extension to blemished animals/chaya/birds, and the tereifa parallel for issur hana'ah \u2014 matching the 'Shechut Repetitions' section's discussion of the eating prohibition and the 'Tereifa Parallel' section, with item 7 specifically belonging under 'Tereifa Parallel'.",
+      "current_heading": "Shechut Repetitions",
+      "moved": true
+    }
+  }
+]

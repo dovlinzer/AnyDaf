@@ -1,0 +1,264 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Abaye's Reading",
+    "candidates": [
+      "Mishna Setup",
+      "Kal Vachomer",
+      "Abaye's Reading",
+      "Raba Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna establishing the kal vachomer exemption, the gemara's challenge about whether it was the persons or animals that exempted, and Abaye's resolution reframing the mishna \u2014 are precisely what the 'Abaye's Reading' prose describes, making the current placement correct.",
+      "chosen_heading": "Abaye's Reading",
+      "current_heading": "Abaye's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Raba Objects",
+    "candidates": [
+      "Raba Objects",
+      "Raba: Midbar & Firstborn",
+      "Raba's Reading",
+      "Levi Status & Substitut",
+      "Firstborn Levi'im",
+      "Gezerah Shavah",
+      "Kosher Animals Obligatory",
+      "Final Raba Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's textual objection about the mishna using 'they exempt' (piteru), which is precisely the first objection described in the 'Raba Objects' section's prose.",
+      "chosen_heading": "Raba Objects",
+      "current_heading": "Raba Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Final Raba Framework",
+    "candidates": [
+      "Raba: Midbar & Firstborn",
+      "Raba's Reading",
+      "Levi Status & Substitut",
+      "Firstborn Levi'im",
+      "Gezerah Shavah",
+      "Kosher Animals Obligatory",
+      "Final Raba Framework",
+      "No Sheep Problem",
+      "Age/Counting Problem",
+      "Mother Status Problem"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Mother Status Problem",
+    "candidates": [
+      "No Sheep Problem",
+      "Age/Counting Problem",
+      "Mother Status Problem",
+      "Womb-Breaching Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge about a female Levite (leviya) whose son is exempt from pidyon haben despite not being part of the wilderness exchange\u2014this is precisely the 'Mother Status Problem' that candidate 2's prose describes.",
+      "chosen_heading": "Mother Status Problem",
+      "current_heading": "Mother Status Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Womb-Breaching Answer",
+    "candidates": [
+      "Womb-Breaching Answer",
+      "Paradigm & Expansion",
+      "Narrative Limits",
+      "Aharon Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic text cited in candidate 0's prose, which directly quotes and explains the Mar son of Rav Yosef/Rava teaching about 'peter rechem be'peter rechem tala Rachmana' \u2014 the current placement is correct.",
+      "chosen_heading": "Womb-Breaching Answer",
+      "current_heading": "Womb-Breaching Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Aharon Exception",
+    "candidates": [
+      "Paradigm & Expansion",
+      "Narrative Limits",
+      "Aharon Exception",
+      "HaLevi'im Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Aharon challenge\u2014that he was not included in the count\u2014and the baraita about the dots over his name, which is precisely what the 'Aharon Exception' section's prose describes.",
+      "chosen_heading": "Aharon Exception",
+      "current_heading": "Aharon Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "HaLevi'im Verse",
+    "candidates": [
+      "HaLevi'im Verse",
+      "Kohanim as Levi'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the verse 'HaLevi'im' and the principle that all Levites are juxtaposed with each other, which is precisely what Candidate 0's prose discusses in detail.",
+      "chosen_heading": "HaLevi'im Verse",
+      "current_heading": "HaLevi'im Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Kohanim as Levi'im",
+    "candidates": [
+      "Kohanim as Levi'im",
+      "Perpetuity Verse",
+      "Halacha in Narrative",
+      "Money-Sheep Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohanim as Levi'im",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is exactly the Kohanim-as-Levi'im derivation from Rabbi Yehoshua ben Levi that heading 0 discusses in detail.",
+      "second_heading": "Perpetuity Verse",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the perpetuity derivation from 've'hayu li ha'Levi'im' that heading 1 ('Perpetuity Verse') explicitly discusses.",
+      "current_heading": "Kohanim as Levi'im",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Money-Sheep Parallel",
+    "candidates": [
+      "Perpetuity Verse",
+      "Halacha in Narrative",
+      "Money-Sheep Parallel",
+      "Money in Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rav \u1e24isda's derivation using the money-sheep parallel (ne'emar kesef le'dorot / ne'emar seh le'dorot), which is precisely what candidate 2 'Money-Sheep Parallel' describes in its prose.",
+      "chosen_heading": "Money-Sheep Parallel",
+      "current_heading": "Money-Sheep Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Money in Redemption",
+    "candidates": [
+      "Money in Redemption",
+      "Padoh Tifdeh Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses silver's unique redemptive power for consecrated property and second-tithe, which is precisely what the prose under 'Money in Redemption' describes.",
+      "chosen_heading": "Money in Redemption",
+      "current_heading": "Money in Redemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Padoh Tifdeh Link",
+    "candidates": [
+      "Padoh Tifdeh Link",
+      "One-to-Many Redemption",
+      "No Animal Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'ach padoh tifdeh' verse and its exegetical argument equating humans and non-kosher animals without distinguishing between the wilderness narrative and future generations, which is precisely what the 'Padoh Tifdeh Link' prose section describes.",
+      "chosen_heading": "Padoh Tifdeh Link",
+      "current_heading": "Padoh Tifdeh Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "No Animal Counting",
+    "candidates": [
+      "One-to-Many Redemption",
+      "No Animal Counting",
+      "Halachic Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of argument about the one-to-many redemption inference from the verse, and candidate 1's prose explicitly traces each step: Abaye's inference from absent animal counting, the objection about few animals, the counter from Reuben/Gad's abundant livestock, the further objection about ordinary Levite animals, and the singular/plural grammatical argument from 'behemat...behemtam' \u2014 matching items 1\u20134 precisely.",
+      "chosen_heading": "No Animal Counting",
+      "current_heading": "No Animal Counting",
+      "moved": false
+    }
+  }
+]

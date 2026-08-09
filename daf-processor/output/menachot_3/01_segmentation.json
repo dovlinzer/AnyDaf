@@ -24,8 +24,8 @@
           "timestamp": "01:06"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Cases of Kodshei Kodashim and Kodashim Kalim: Exploring When Intent is Manifestly False",
@@ -106,7 +106,7 @@
           "timestamp": "40:50"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -427,5 +427,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "31:38",
+  "amud_b_micro_title": "Species Differences",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "b"
 }

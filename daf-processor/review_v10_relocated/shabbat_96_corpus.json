@@ -1,0 +1,387 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Pomegranate Standard",
+    "candidates": [
+      "Pomegranate Standard",
+      "Pomegranate vs. Majority",
+      "Olive-Sized Hole",
+      "Pottery Shards",
+      "Two Amoraim Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pomegranate vs. Majority",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rav Asi's pomegranate measure and Rava's tzamid patil qualification, which is precisely what heading 1 ('Pomegranate vs. Majority') discusses \u2014 the contradiction between pomegranate-sized hole and majority-destruction, and its resolution.",
+      "second_heading": "Pottery Shards",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Rav Asi's ruling about koneis mashke as the standard measure and the special case of the gistera with motzi mashke, which matches exactly the prose of heading 3 ('Pottery Shards').",
+      "current_heading": "Pomegranate Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Two Amoraim Debate",
+    "candidates": [
+      "Pomegranate vs. Majority",
+      "Olive-Sized Hole",
+      "Pottery Shards",
+      "Two Amoraim Debate",
+      "Rabbi Chanina Ruling",
+      "Recurring Themes",
+      "Shinui & Shnayim",
+      "Chai Nosei Principle",
+      "Fingernails & Body",
+      "Rabbi Eliezer Approach",
+      "Milking & Cheese",
+      "Tolish Principle",
+      "Private-Public Rule",
+      "Opposite Balconies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains Ulla's report of the two amoraim in the West disagreeing about hole-size measures (pomegranate vs. small root), plus Rabbi Chanina bar Kahana's olive-size ruling and Mar Kashisha's completion \u2014 all of which matches the 'Two Amoraim Debate' section prose precisely.",
+      "chosen_heading": "Two Amoraim Debate",
+      "current_heading": "Two Amoraim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Opposite Balconies",
+    "candidates": [
+      "Rabbi Chanina Ruling",
+      "Recurring Themes",
+      "Shinui & Shnayim",
+      "Chai Nosei Principle",
+      "Fingernails & Body",
+      "Rabbi Eliezer Approach",
+      "Milking & Cheese",
+      "Tolish Principle",
+      "Private-Public Rule",
+      "Opposite Balconies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d4\u05de\u05e6\u05e0\u05d9\u05e2' is the concluding formula for tractate/chapter Ha-Matzni'a, and candidate 1's prose explicitly mentions 'hadran alach Ha-Matzni'a' as the signal concluding that cluster of vessel-law discussions before the transition to the next perek.",
+      "chosen_heading": "Recurring Themes",
+      "current_heading": "Opposite Balconies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Opposite Balconies",
+    "candidates": [
+      "Opposite Balconies",
+      "Same-Side Balconies",
+      "Mishkan Wagon Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text describes throwing from private domain to public domain, private to private with public domain in between, and the dispute between Rabbi Akiva and the Rabbis \u2014 which is precisely the content discussed in the 'Opposite Balconies' prose section.",
+      "chosen_heading": "Opposite Balconies",
+      "current_heading": "Opposite Balconies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Mishkan Wagon Case",
+    "candidates": [
+      "Same-Side Balconies",
+      "Mishkan Wagon Case",
+      "Handing vs. Throwing",
+      "Throwing Tolada",
+      "Moshe's Command"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the same-side balcony case and the Levite wagon paradigm that the 'Mishkan Wagon Case' prose explicitly unpacks \u2014 the two items together constitute exactly the mishnah text that section 1's prose is analyzing.",
+      "chosen_heading": "Mishkan Wagon Case",
+      "current_heading": "Mishkan Wagon Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Moshe's Command",
+    "candidates": [
+      "Handing vs. Throwing",
+      "Throwing Tolada",
+      "Moshe's Command",
+      "Gezerah Shava Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's derivation of hotza'ah from the verse about Moses's proclamation in the camp, which is precisely what the prose under 'Moshe's Command' describes and analyzes.",
+      "chosen_heading": "Moshe's Command",
+      "current_heading": "Moshe's Command",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Gezerah Shava Link",
+    "candidates": [
+      "Gezerah Shava Link",
+      "Tosafot Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gezerah shava derivation \u2014 the question about whether the event was on Shabbat and the verbal analogy between 'passing' in the Tabernacle verse and 'passing' in the Yom Kippur verse \u2014 which is precisely what heading 0 ('Gezerah Shava Link') describes in its prose.",
+      "chosen_heading": "Gezerah Shava Link",
+      "current_heading": "Gezerah Shava Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Tosafot Question",
+    "candidates": [
+      "Tosafot Question",
+      "Hachnasah Reverse",
+      "Av Tolada Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hachnasah Reverse",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the derivation of hachnasah from hotzo'ah via svara and the designation of hotzo'ah as av and hachnasah as toldah, which matches candidate 1's prose exactly.",
+      "second_heading": "Av Tolada Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the foundational question of why one is called av and the other toldah when liability is equal, which is precisely the topic candidate 2's prose addresses.",
+      "current_heading": "Tosafot Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Av Tolada Distinction",
+    "candidates": [
+      "Hachnasah Reverse",
+      "Av Tolada Distinction",
+      "Two-Offering Rule",
+      "Rabbi Eliezer Multiple",
+      "No Categorization",
+      "Labels Historical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the practical ramification of the av-toldah distinction \u2014 two avot or two toldot of different avot incur two offerings, while an av and its own toldah incur only one \u2014 which is precisely what the 'Av Tolada Distinction' section's prose describes.",
+      "chosen_heading": "Av Tolada Distinction",
+      "current_heading": "Av Tolada Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Labels Historical",
+    "candidates": [
+      "Two-Offering Rule",
+      "Rabbi Eliezer Multiple",
+      "No Categorization",
+      "Labels Historical",
+      "Written Criteria",
+      "Four Amot Tradition (II)",
+      "Shuttle Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Eliezer Multiple",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question and answer about why Rabbi Eliezer still uses the av/toldah labels, which is precisely what the 'Rabbi Eliezer Multiple' section's prose introduces and asks.",
+      "second_heading": "Four Amot Tradition (II)",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mishna about throwing four cubits against a wall, which the 'Four Amot Tradition (II)' section introduces as the gemara turning to the category of carrying/throwing four amot within reshut ha-rabbim.",
+      "current_heading": "Labels Historical",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Shuttle Example",
+    "candidates": [
+      "Written Criteria",
+      "Four Amot Tradition (II)",
+      "Shuttle Example",
+      "Shuttle Elimination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the gemara's question about throwing four amot in reshut ha-rabbim and Rabbi Yoshiya's answer about the tapestry sewers, which corresponds exactly to the 'Four Amot Tradition (II)' section's prose describing this very question and answer, not the 'Shuttle Example' section which discusses Rav Yosef's source and the weaver/sewer correction as if already established.",
+      "chosen_heading": "Four Amot Tradition (II)",
+      "current_heading": "Shuttle Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Shuttle Elimination",
+    "candidates": [
+      "Shuttle Example",
+      "Shuttle Elimination",
+      "Weavers' Shuttles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the challenges about whether the sewers sat next to each other and whether they sat within four amot, which is precisely what the 'Shuttle Elimination' prose describes as the gemara's objections to deriving the four-amot standard from the needle-throwing example.",
+      "chosen_heading": "Shuttle Elimination",
+      "current_heading": "Shuttle Elimination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Weavers' Shuttles",
+    "candidates": [
+      "Weavers' Shuttles",
+      "Self-Sufficiency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the weaving-shuttle case (Rav Hisda's answer and its objections/resolutions), which is precisely what heading 0 'Weavers' Shuttles' covers in its prose, including the final-thread answer, the exempt-domain objection, and the borrowing scenario with the adjacency challenge.",
+      "chosen_heading": "Weavers' Shuttles",
+      "current_heading": "Weavers' Shuttles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Self-Sufficiency",
+    "candidates": [
+      "Self-Sufficiency",
+      "Mekosshesh Carrying",
+      "Tolesh vs Meamer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous gemara discussion about whether hotza'ah can be derived from the Mishkan workers, culminating in the conclusion that carrying four amot in reshut ha-rabbim is known by tradition \u2014 exactly what the 'Self-Sufficiency' prose describes and concludes with.",
+      "chosen_heading": "Self-Sufficiency",
+      "current_heading": "Self-Sufficiency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Tolesh vs Meamer",
+    "candidates": [
+      "Mekosshesh Carrying",
+      "Tolesh vs Meamer",
+      "Rav Achah Meamer",
+      "Rav's Hidden Scroll"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents all three opinions (Shmuel's carrying, the baraita's detaching, and Rav A\u1e25a's gathering) as a unified block, and heading 0 ('Mekosshesh Carrying') introduces the mekosshesh case and asks what his transgression was \u2014 making it the natural home for the entire passage, while headings 1 and 2 are prose that describes the individual opinions separately as if the passage were already split.",
+      "chosen_heading": "Mekosshesh Carrying",
+      "current_heading": "Tolesh vs Meamer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Rav's Hidden Scroll",
+    "candidates": [
+      "Rav Achah Meamer",
+      "Rav's Hidden Scroll",
+      "Isi Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 1's prose describes: the gemara's l'mai nafka mina question, Rav's hidden scroll (megillat setarim), and Isi ben Yehuda's statement about forty-less-one melachot with liability for only one, which is precisely what section 1 ('Rav's Hidden Scroll') discusses.",
+      "chosen_heading": "Rav's Hidden Scroll",
+      "current_heading": "Rav's Hidden Scroll",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Isi Exception",
+    "candidates": [
+      "Isi Exception",
+      "Which Melacha Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the emended reading 'eino chayav al achas mehen' (one is not liable for one of them), which is precisely the content described in the 'Isi Exception' prose about reading the hidden scroll as meaning one of the thirty-nine melachot does not carry full chiyuv.",
+      "chosen_heading": "Isi Exception",
+      "current_heading": "Isi Exception",
+      "moved": false
+    }
+  }
+]

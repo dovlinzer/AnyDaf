@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Areiv Testimony",
+    "candidates": [
+      "Opening Remarks",
+      "Four Testimony Cases",
+      "Areiv Testimony",
+      "Malveh Testimony",
+      "Buyers' Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the areiv and malveh cases in a single baraita, but the current placement under 'Areiv Testimony' is the first case discussed, and the prose there explicitly addresses this baraita's ruling about the areiv with the ara'a achriti condition \u2014 the malveh portion is treated as a continuation; moreover, the 'Malveh Testimony' prose (index 3) discusses the malveh case separately with additional nuance (Rashbam, beinonit/ziburit), suggesting the baraita itself belongs under the areiv heading where it is introduced.",
+      "chosen_heading": "Areiv Testimony",
+      "current_heading": "Areiv Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Buyers' Testimony",
+    "candidates": [
+      "Malveh Testimony",
+      "Buyers' Testimony",
+      "Kablan Definition",
+      "Kablan Testimony Dispute",
+      "Nogeia B'Eidus Issue",
+      "Kablan Can Testify",
+      "Kablan Benefit Analysis",
+      "Ba'al Chov Collection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the first buyer testifying for the second buyer with the condition that the second buyer has other land, which matches exactly the prose under 'Buyers' Testimony' discussing loka'ach rishon testifying for loka'ach sheini with the v'hu d'is leh ara'a achriti condition.",
+      "chosen_heading": "Buyers' Testimony",
+      "current_heading": "Buyers' Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ba'al Chov Collection",
+    "candidates": [
+      "Kablan Definition",
+      "Kablan Testimony Dispute",
+      "Nogeia B'Eidus Issue",
+      "Kablan Can Testify",
+      "Kablan Benefit Analysis",
+      "Ba'al Chov Collection",
+      "Ri Megash vs Rashbam",
+      "Uman & Aris Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dispute about whether the kablan may testify ('amrei lah me'id, ve'amrei lah eino me'id'), which is precisely what the 'Kablan Testimony Dispute' prose section describes.",
+      "chosen_heading": "Kablan Testimony Dispute",
+      "current_heading": "Ba'al Chov Collection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Uman & Aris Rule",
+    "candidates": [
+      "Ri Megash vs Rashbam",
+      "Uman & Aris Rule",
+      "Gazlan Hierarchy",
+      "Gemara's Inquiry"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Uman & Aris Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yo\u1e25anan's full ruling covering uman, aris, and gazlan \u2014 the prose of 'Uman & Aris Rule' (index 1) discusses exactly this teaching, including the craftsman and sharecropper rules, while 'Gazlan Hierarchy' (index 2) handles the robber extension but item 1 covers all three together and the current placement under index 1 is the best single home for it.",
+      "second_heading": "Gemara's Inquiry",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's 'heichi dami' question probing the case distinctions, which corresponds precisely to the prose of 'Gemara's Inquiry' (index 3) that explicitly describes this same question and its resolution.",
+      "current_heading": "Uman & Aris Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Gemara's Inquiry",
+    "candidates": [
+      "Gazlan Hierarchy",
+      "Gemara's Inquiry",
+      "Witness Admission",
+      "Coerced Admission",
+      "RY vs RC Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains precisely why the son of a thief cannot benefit from the witnessed admission \u2014 the core content of the 'Witness Admission' section \u2014 including Rav Kahana's reasoning about coercion, which is the direct explanation for why the admission is unreliable.",
+      "chosen_heading": "Witness Admission",
+      "current_heading": "Gemara's Inquiry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "RY vs RC Dispute",
+    "candidates": [
+      "Witness Admission",
+      "Coerced Admission",
+      "RY vs RC Dispute",
+      "Gazlan Teshuvah",
+      "Quit Profession Rule",
+      "Adult Child Rule",
+      "Divorced Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's refinement about the grandson of a gazlan and the dispute between Rabbi Yo\u1e25anan and Rav \u1e24isda about what constitutes a gazlan \u2014 exactly what the 'RY vs RC Dispute' prose describes.",
+      "chosen_heading": "RY vs RC Dispute",
+      "current_heading": "RY vs RC Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Divorced Woman",
+    "candidates": [
+      "Gazlan Teshuvah",
+      "Quit Profession Rule",
+      "Adult Child Rule",
+      "Divorced Woman",
+      "Safek Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita covers craftsman, sharecropper, son who separated, and divorced woman all in one passage, and candidate 1 ('Quit Profession Rule') is the heading that introduces this baraita explicitly, making it the correct home for the entire quoted text rather than splitting it under the 'Divorced Woman' heading where it currently sits.",
+      "chosen_heading": "Quit Profession Rule",
+      "current_heading": "Divorced Woman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Safek Divorce",
+    "candidates": [
+      "Divorced Woman",
+      "Safek Divorce",
+      "Proof Suffices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's question-and-answer about why the divorced woman case needs to be stated, with the answer being the safek divorce case (bimgureshah v'eina mgureshah) and Rabbi Zeira's ruling about sustenance obligations \u2014 exactly what the 'Safek Divorce' prose section discusses.",
+      "chosen_heading": "Safek Divorce",
+      "current_heading": "Safek Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Proof Suffices",
+    "candidates": [
+      "Proof Suffices",
+      "Gazlan Proof Rejected",
+      "Sikrikon Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the general rule that proof is accepted for all these individuals AND the exception for the gazlan, but the current heading 'Proof Suffices' captures the first part of the Rav Nachman/Rav Huna statement, while the gazlan exception is a single unified quote \u2014 however, since the essay splits the two parts of this single Talmudic statement across headings 0 and 1, and the passage contains BOTH parts, it currently sits under heading 0 which covers the first half; the entire passage (both halves) is one continuous Talmudic statement and the current placement is the most natural starting point for this unified quote.",
+      "chosen_heading": "Proof Suffices",
+      "current_heading": "Proof Suffices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Sikrikon Scenario",
+    "candidates": [
+      "Gazlan Proof Rejected",
+      "Sikrikon Scenario",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Achrayut Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna from Gittin about the sikrikon case and asks what new teaching Rav Huna's statement adds, which directly corresponds to the 'Sikrikon Scenario' section's prose introducing and explaining the sikrikon scenario.",
+      "chosen_heading": "Sikrikon Scenario",
+      "current_heading": "Sikrikon Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Achrayut Explained",
+    "candidates": [
+      "Rav's Position",
+      "Shmuel's Position",
+      "Achrayut Explained",
+      "Rav Bibi Clarification",
+      "Witness Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav's position (shtar suffices) and Shmuel's counter-position (shtar alone is insufficient without achrayut), which is precisely what candidate 0 'Rav's Position' introduces \u2014 the passage belongs under Rav's heading as it quotes and contextualizes Rav's ruling before pivoting to Shmuel's stricter view, not under 'Achrayut Explained' where it currently sits.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Achrayut Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Witness Specificity",
+    "candidates": [
+      "Rav Bibi Clarification",
+      "Witness Specificity",
+      "Gazlan Coercion",
+      "Threatened Sale Valid",
+      "Ones Reasoning",
+      "Types of Ones",
+      "Forced Korban",
+      "Forced Get",
+      "Force & Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what Rav Bibi's clarification in the name of Rav Nachman states \u2014 that the gazlan has no rights to the land but does have rights to the money \u2014 plus the witness distinction (maneh vs. hodeh) and the Rav Kahana coercion point, all of which are part of that single Talmudic unit that candidate 0's prose describes as Rav Bibi elaborating in the name of Rav Nachman about karka vs. maos.",
+      "chosen_heading": "Rav Bibi Clarification",
+      "current_heading": "Witness Specificity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Force & Agreement",
+    "candidates": [
+      "Gazlan Coercion",
+      "Threatened Sale Valid",
+      "Ones Reasoning",
+      "Types of Ones",
+      "Forced Korban",
+      "Forced Get",
+      "Force & Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous sugyah about Rav Huna's ruling that a sale under duress is valid (talyuhu ve-zavin), which is precisely what heading 1 ('Threatened Sale Valid') introduces \u2014 the subsequent items are the Gemara's attempt to find a source for that ruling, all subordinate to Rav Huna's statement cited in item 1.",
+      "chosen_heading": "Threatened Sale Valid",
+      "current_heading": "Force & Agreement",
+      "moved": true
+    }
+  }
+]

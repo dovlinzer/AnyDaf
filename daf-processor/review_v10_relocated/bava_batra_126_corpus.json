@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Bechor's Objection",
+    "candidates": [
+      "Muchzak vs. Ra'uy",
+      "Bechor's Objection",
+      "Shevach Di-Mimmela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the principle of 'bechor she-micha micha' (a firstborn who protested has protested), which is precisely what the 'Bechor's Objection' section's prose discusses and explains in detail.",
+      "chosen_heading": "Bechor's Objection",
+      "current_heading": "Bechor's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Shevach Di-Mimmela",
+    "candidates": [
+      "Shevach Di-Mimmela",
+      "Damage Compensation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabba/Rav Yosef dispute about harvesting grapes/olives versus treading them (darchum), which is precisely what the 'Shevach Di-Mimmela' prose explains and analyzes in detail.",
+      "chosen_heading": "Shevach Di-Mimmela",
+      "current_heading": "Shevach Di-Mimmela",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Damage Compensation",
+    "candidates": [
+      "Damage Compensation",
+      "Implicit Waiver",
+      "Rights Kodem Chalukah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the same continuous sugya about the grapes-to-wine transformation and Rav Ukva bar \u1e24ama's principle of damage compensation (hezek anavav), which is precisely what the 'Damage Compensation' prose section discusses in detail.",
+      "chosen_heading": "Damage Compensation",
+      "current_heading": "Damage Compensation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Rights Kodem Chalukah",
+    "candidates": [
+      "Implicit Waiver",
+      "Rights Kodem Chalukah",
+      "Sale Before Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present precisely the dispute between Rav Pappa and Rav Pappi over whether the bechor waives in one field or all property, grounded in the yesh lo/ein lo kodem chalukah debate \u2014 which is exactly what candidate 1 ('Rights Kodem Chalukah') describes in its prose.",
+      "chosen_heading": "Rights Kodem Chalukah",
+      "current_heading": "Rights Kodem Chalukah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Sale Before Division",
+    "candidates": [
+      "Sale Before Division",
+      "Pepper Basket & Waiver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the case of the firstborn selling before division, the dispute between Rav Pappi and Rav Pappa inferred from it, and the ruling from Eretz Yisrael followed by the halakha \u2014 are explicitly discussed in the 'Sale Before Division' prose, making that the correct placement.",
+      "chosen_heading": "Sale Before Division",
+      "current_heading": "Sale Before Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Pepper Basket & Waiver",
+    "candidates": [
+      "Pepper Basket & Waiver",
+      "Direct Stipulations Void"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Mar Zutra's basket of peppers and Rav Ashi's ruling, which is precisely what the 'Pepper Basket & Waiver' section prose discusses in detail.",
+      "chosen_heading": "Pepper Basket & Waiver",
+      "current_heading": "Pepper Basket & Waiver",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Direct Stipulations Void",
+    "candidates": [
+      "Direct Stipulations Void",
+      "Matana Workaround"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna presenting the two cases of explicit paternal declarations that are void because they stipulate against Torah law, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Direct Stipulations Void",
+      "current_heading": "Direct Stipulations Void",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Matana Workaround",
+    "candidates": [
+      "Matana Workaround",
+      "Rabbi Yehuda's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the mishnah about distributing property orally, increasing/decreasing shares, equalizing the firstborn, and the matanah workaround \u2014 exactly what the 'Matana Workaround' prose section discusses in detail.",
+      "chosen_heading": "Matana Workaround",
+      "current_heading": "Matana Workaround",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Rabbi Yehuda's Principle",
+    "candidates": [
+      "Rabbi Yehuda's Principle",
+      "Not Two-Sided"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's question about whether the mishnah follows Rabbi Yehuda and the baraita illustrating Rabbi Yehuda's principle about monetary stipulations in kiddushin \u2014 are precisely what candidate 0's prose describes as the challenge and its illustration.",
+      "chosen_heading": "Rabbi Yehuda's Principle",
+      "current_heading": "Rabbi Yehuda's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Not Two-Sided",
+    "candidates": [
+      "Not Two-Sided",
+      "Father-Firstborn Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection distinguishing knowing waiver (kamachla) in bilateral transactions from inheritance where the heir did not waive, which is precisely what the 'Not Two-Sided' prose discusses.",
+      "chosen_heading": "Not Two-Sided",
+      "current_heading": "Not Two-Sided",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Father-Firstborn Required",
+    "candidates": [
+      "Father-Firstborn Required",
+      "Buchra Sikhla Nickname"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's distinction between 'my firstborn son' versus 'a firstborn,' which is precisely what candidate 0's prose discusses in detail, including the bechor de-imma reasoning.",
+      "chosen_heading": "Father-Firstborn Required",
+      "current_heading": "Father-Firstborn Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Buchra Sikhla Nickname",
+    "candidates": [
+      "Buchra Sikhla Nickname",
+      "Rabba's Skepticism",
+      "Spittle Healing Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the witness's claim based on the 'foolish firstborn' nickname, which is exactly what the 'Buchra Sikhla Nickname' section's prose discusses, while Rabba's rejection belongs under heading 1.",
+      "chosen_heading": "Buchra Sikhla Nickname",
+      "current_heading": "Buchra Sikhla Nickname",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Spittle Healing Proof",
+    "candidates": [
+      "Rabba's Skepticism",
+      "Spittle Healing Proof",
+      "Tumtum No Double",
+      "Recognition at Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the Shikh\u1e25at/spittle healing case before Rabbi \u1e24anina, including the objection about mother's firstborn and its resolution, which is exactly what candidate 1 ('Spittle Healing Proof') discusses in its prose.",
+      "chosen_heading": "Spittle Healing Proof",
+      "current_heading": "Spittle Healing Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Recognition at Birth",
+    "candidates": [
+      "Tumtum No Double",
+      "Recognition at Birth",
+      "Sorer U-Moreh",
+      "Portion Calculation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tumtum No Double",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Ami's ruling that a tumtum found to be male does not receive the double portion, which is the core content of the 'Tumtum No Double' section (candidate 0), not merely the scriptural derivation discussed in candidate 1.",
+      "second_heading": "Sorer U-Moreh",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman bar Yitzchak's extension of the principle to ben sorer u-moreh, which matches exactly the prose of candidate 2 ('Sorer U-Moreh').",
+      "current_heading": "Recognition at Birth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Portion Calculation",
+    "candidates": [
+      "Sorer U-Moreh",
+      "Portion Calculation",
+      "Brit Milah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ameimar's ruling that a tumtum does not reduce the firstborn's additional portion, which is precisely what the 'Portion Calculation' section's prose discusses in detail, including the same scriptural basis (ve-yaldu lo banim) and the ben be-sha'at leidah principle.",
+      "chosen_heading": "Portion Calculation",
+      "current_heading": "Portion Calculation",
+      "moved": false
+    }
+  }
+]

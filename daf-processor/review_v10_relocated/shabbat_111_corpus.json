@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Direct vs. Indirect",
+    "candidates": [
+      "Remedies Overview",
+      "Jaundice & Sterilization",
+      "Biblical Source",
+      "Direct vs. Indirect",
+      "Already Sterile Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Direct vs. Indirect' prose: the jaundice remedy's sterilizing side effect, the mechaven vs. me'eilav distinction, Rabbi Yochanan's rooster proof, and Rav Ashi's rejection of that proof \u2014 all of which are detailed in candidate 3's prose.",
+      "chosen_heading": "Direct vs. Indirect",
+      "current_heading": "Direct vs. Indirect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Already Sterile Cases",
+    "candidates": [
+      "Already Sterile Cases",
+      "Women's Exemption",
+      "Age & Barrenness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi \u1e24iyya bar Abba's statement in Rabbi Yo\u1e25anan's name about *mechametz achar mechametz* and *mesares achar mesares*, plus the conclusion *ela bezaken* \u2014 all of which are explicitly discussed in candidate 0's prose about the 'Already Sterile Cases' section and the Gemara's attempt to permit the remedy for an elderly man.",
+      "chosen_heading": "Already Sterile Cases",
+      "current_heading": "Already Sterile Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Age & Barrenness",
+    "candidates": [
+      "Women's Exemption",
+      "Age & Barrenness",
+      "Pet Sterilization",
+      "Mishna Toothache",
+      "Rose Oil Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan ben Beroka's position on women's obligation in pru u'revu and the Gemara's answer that the remedy applies to an elderly or barren woman \u2014 exactly what the 'Age & Barrenness' section's prose is about.",
+      "chosen_heading": "Age & Barrenness",
+      "current_heading": "Age & Barrenness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rose Oil Exception",
+    "candidates": [
+      "Pet Sterilization",
+      "Mishna Toothache",
+      "Rose Oil Exception",
+      "Swallow Definition",
+      "Dipping Period",
+      "Consistency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about toothache/loins/rose oil and the Gemara discussing whether vinegar benefits teeth \u2014 belong under 'Mishna Toothache', which introduces the mishna of hachochesh beshinav and the vinegar/dipping discussion, not under 'Rose Oil Exception' which covers only the loins/rose oil portion of the mishna.",
+      "chosen_heading": "Mishna Toothache",
+      "current_heading": "Rose Oil Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Consistency",
+    "candidates": [
+      "Swallow Definition",
+      "Dipping Period",
+      "Consistency",
+      "Mishna Loin Pain",
+      "Rav Contradiction",
+      "Barrel Case",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the continuous Gemara discussion about Rava's principle of 'hoil/since,' the vinegar-before/after-dipping distinction, the mikvah on Yom Kippur parallel, and Rava's retraction \u2014 exactly the content described in the 'Consistency' heading's prose.",
+      "chosen_heading": "Consistency",
+      "current_heading": "Consistency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Mishna Loin Pain",
+      "Rav Contradiction",
+      "Barrel Case",
+      "Resolution",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge to Rav's consistency \u2014 item 1 raises the question (Rav rules like Rabbi Shimon on rose oil, yet Rav Shimi bar Chiyya reports Rav prohibiting the barrel stopper) and item 2 gives the resolution (even Rabbi Shimon concedes in pesik reisha), which is exactly what candidate 1 'Rav Contradiction' describes as its content, while the current placement under 'Resolution' only fits item 2.",
+      "chosen_heading": "Rav Contradiction",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Resolution",
+      "Rav vs. Shmuel",
+      "Rava Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the competing traditions about Rav ruling like Rabbi Yehuda and Shmuel ruling like Rabbi Shimon, then Rava's identification of the lion of the group and the conclusion that halakha follows Rabbi Shimon but not for his reason \u2014 matching exactly the content described in the 'Rav vs. Shmuel' prose, which sets up the question of how Rav could rule like Rabbi Shimon on rose oil.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rava Explanation",
+    "candidates": [
+      "Rava Explanation",
+      "Practical Ruling",
+      "Squeezing Forms",
+      "Cleaning Spills",
+      "Rabbeinu Tam Ruling",
+      "Camel & Sailor Knots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the meaning of 'halakha like Rabbi Shimon but not for his reason,' contrasting his view with Rav's view about commonality of rose oil \u2014 exactly the content described in the 'Rava Explanation' prose.",
+      "chosen_heading": "Rava Explanation",
+      "current_heading": "Rava Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Camel & Sailor Knots",
+    "candidates": [
+      "Practical Ruling",
+      "Squeezing Forms",
+      "Cleaning Spills",
+      "Rabbeinu Tam Ruling",
+      "Camel & Sailor Knots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05e9\u05de\u05e0\u05d4 \u05e9\u05e8\u05e6\u05d9\u05dd' is a concluding formula (hadran) marking the end of a tractate/chapter, and its placement at the end of the 'Camel & Sailor Knots' section \u2014 which begins a new chapter \u2014 is the correct location as it marks the transition between the previous chapter and this new one.",
+      "chosen_heading": "Camel & Sailor Knots",
+      "current_heading": "Camel & Sailor Knots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Camel & Sailor Knots",
+    "candidates": [
+      "Camel & Sailor Knots",
+      "Knot Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the camel driver's and sailor's knots and establishing liability for tying/untying, which matches exactly what the 'Camel & Sailor Knots' section prose describes.",
+      "chosen_heading": "Camel & Sailor Knots",
+      "current_heading": "Camel & Sailor Knots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Knot Interpretation",
+    "candidates": [
+      "Knot Interpretation",
+      "Kayama Definition",
+      "Rabbi Meier Position",
+      "One Hand Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about what constitutes a camel driver's knot and sailor's knot, resolving between the rope-through-ring (not permanent) and the ring itself (permanent), which is exactly what the 'Knot Interpretation' prose describes.",
+      "chosen_heading": "Knot Interpretation",
+      "current_heading": "Knot Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "One Hand Debate",
+    "candidates": [
+      "Kayama Definition",
+      "Rabbi Meier Position",
+      "One Hand Debate",
+      "Mishna Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's dilemma about a bow knot according to Rabbi Meir, which is precisely what the 'One Hand Debate' prose describes.",
+      "chosen_heading": "One Hand Debate",
+      "current_heading": "One Hand Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Mishna Permitted",
+    "candidates": [
+      "Mishna Permitted",
+      "Fence Tying",
+      "Gemara Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers both the permitted knots list and Rabbi Eliezer ben Yaakov's statement, and the current placement under 'Mishna Permitted' already discusses the full mishna content including both categories, making it the correct home for the entire passage.",
+      "chosen_heading": "Mishna Permitted",
+      "current_heading": "Mishna Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "Fence Tying",
+      "Gemara Analysis",
+      "Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's identification of the internal contradiction in the mishna and its resolution by distinguishing two sub-categories within non-chayav knots, which is precisely what the 'Gemara Analysis' prose describes.",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Gemara Analysis",
+      "moved": false
+    }
+  }
+]

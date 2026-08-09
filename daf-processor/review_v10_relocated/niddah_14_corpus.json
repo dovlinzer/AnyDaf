@@ -1,0 +1,553 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hand Cutting: Law/Curse?",
+    "candidates": [
+      "Hand Cutting: Law/Curse?",
+      "Rabbi Tarfon's Teaching",
+      "Figurative Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's dilemma 'dina tenan o litusa tenan' and the Rav Huna precedent, which is precisely what the prose under 'Hand Cutting: Law/Curse?' describes.",
+      "chosen_heading": "Hand Cutting: Law/Curse?",
+      "current_heading": "Hand Cutting: Law/Curse?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Figurative Interpretation",
+    "candidates": [
+      "Rabbi Tarfon's Teaching",
+      "Figurative Interpretation",
+      "Religious Weight & Halac",
+      "Categories & Definitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the baraita introducing Rabbi Tarfon's teaching and the Gemara's analysis of it (literal vs. figurative, the navel location problem, and the reinterpretation), which corresponds precisely to heading 0's prose description of exactly this content.",
+      "chosen_heading": "Rabbi Tarfon's Teaching",
+      "current_heading": "Figurative Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Categories & Definitions",
+    "candidates": [
+      "Religious Weight & Halac",
+      "Categories & Definitions",
+      "Intelligent Deaf-Mute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna listing the chereshet, shotah, blind woman, and mentally confused woman who can eat teruma if helped by competent companions \u2014 precisely what the 'Categories & Definitions' prose introduces and explains.",
+      "chosen_heading": "Categories & Definitions",
+      "current_heading": "Categories & Definitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Intelligent Deaf-Mute",
+    "candidates": [
+      "Intelligent Deaf-Mute",
+      "Cheresh Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's challenge about the deaf woman examining herself and the baraita about Rabbi's deaf neighbor who served as a neighborhood posekes, which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Intelligent Deaf-Mute",
+      "current_heading": "Intelligent Deaf-Mute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Cheresh Definition",
+    "candidates": [
+      "Cheresh Definition",
+      "Blind Woman's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines the cheresh category referenced in the Mishnah, distinguishing between one who can speak but not hear versus one who can neither speak nor hear, which is precisely what the 'Cheresh Definition' prose section discusses.",
+      "chosen_heading": "Cheresh Definition",
+      "current_heading": "Cheresh Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Blind Woman's Role",
+    "candidates": [
+      "Blind Woman's Role",
+      "Temporary vs. Permanent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the blind woman's inclusion in the Mishnah and Rabbi Yosei's statement that she does not belong there, which is precisely what candidate 0's prose addresses.",
+      "chosen_heading": "Blind Woman's Role",
+      "current_heading": "Blind Woman's Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Temporary vs. Permanent",
+    "candidates": [
+      "Temporary vs. Permanent",
+      "Night Eating Protocol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's distinction between shotah and she'nitrefa da'atah machmat choli, which is precisely what the 'Temporary vs. Permanent' section's prose discusses.",
+      "chosen_heading": "Temporary vs. Permanent",
+      "current_heading": "Temporary vs. Permanent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Night Eating Protocol",
+    "candidates": [
+      "Night Eating Protocol",
+      "Pouch Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about the imbecile priest being immersed, fed terumah in the evening, and watched to prevent sleep is precisely what the 'Night Eating Protocol' prose describes in detail.",
+      "chosen_heading": "Night Eating Protocol",
+      "current_heading": "Night Eating Protocol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Pouch Solutions",
+    "candidates": [
+      "Pouch Solutions",
+      "Garment Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer bar Tzadok's proposal of a leather pouch and the sages' objection about warmth, which is precisely what the 'Pouch Solutions' prose describes \u2014 the initial proposal and counter-objection \u2014 before 'Garment Concerns' moves on to the metal alternative and broader garment prohibitions.",
+      "chosen_heading": "Pouch Solutions",
+      "current_heading": "Pouch Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Garment Concerns",
+    "candidates": [
+      "Garment Concerns",
+      "Priestly Garment Design"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the mustard-seed drop concern, the metal pouch solution attributed to Rabbi Elazar, and Abaye's copper specification \u2014 all of which are explicitly described in the 'Garment Concerns' prose but not in 'Priestly Garment Design,' which focuses on the design of priestly underwear.",
+      "chosen_heading": "Garment Concerns",
+      "current_heading": "Garment Concerns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Priestly Garment Design",
+    "candidates": [
+      "Priestly Garment Design",
+      "Riders & Sailors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form exactly the question-and-answer sequence about priestly trousers \u2014 the objection from the verse and its resolution via the baraita describing the priests' loose, form-avoiding garment design \u2014 which is precisely what the 'Priestly Garment Design' prose describes.",
+      "chosen_heading": "Priestly Garment Design",
+      "current_heading": "Priestly Garment Design",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Riders & Sailors",
+    "candidates": [
+      "Riders & Sailors",
+      "Donkey Riders",
+      "Back-Sleeping Curse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Riders & Sailors",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 cover camel riders and sailors, which is exactly what the 'Riders & Sailors' prose discusses.",
+      "second_heading": "Donkey Riders",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers donkey riders and the saddled/straddling distinctions, which is precisely what the 'Donkey Riders' prose discusses.",
+      "current_heading": "Riders & Sailors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Back-Sleeping Curse",
+    "candidates": [
+      "Donkey Riders",
+      "Back-Sleeping Curse",
+      "Shema & Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehoshua ben Levi's curse against sleeping aparkeid and Rav Yosef's ruling about Shema, which is the opening tension that heading 1 ('Back-Sleeping Curse') directly addresses, covering both the curse and the initial Shema contradiction that its prose discusses.",
+      "chosen_heading": "Back-Sleeping Curse",
+      "current_heading": "Back-Sleeping Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Shema & Position",
+    "candidates": [
+      "Shema & Position",
+      "Two-Cloth Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between the sleeping prohibition and the Shema recitation prohibition regarding slight tilting, and Rabbi Yochanan's exception due to being corpulent \u2014 all of which is precisely described in the 'Shema & Position' prose.",
+      "chosen_heading": "Shema & Position",
+      "current_heading": "Shema & Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Two-Cloth Custom",
+    "candidates": [
+      "Two-Cloth Custom",
+      "Husband's Cloth",
+      "Wife's Cloth Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage directly describes the two-cloth custom (and the third cloth of the tzenu'ot), which is precisely what the 'Two-Cloth Custom' section's prose discusses and analyzes.",
+      "chosen_heading": "Two-Cloth Custom",
+      "current_heading": "Two-Cloth Custom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Wife's Cloth Timing",
+    "candidates": [
+      "Husband's Cloth",
+      "Wife's Cloth Timing",
+      "Louse Blood Concern",
+      "Lice-Free Area"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the timing of blood found on the wife's cloth, the 'after time' definition, and the dispute between Rabbis and Rabbi Akiva about transmitting impurity to the husband \u2014 precisely the content described in the 'Wife's Cloth Timing' prose.",
+      "chosen_heading": "Wife's Cloth Timing",
+      "current_heading": "Wife's Cloth Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Lice-Free Area",
+    "candidates": [
+      "Louse Blood Concern",
+      "Lice-Free Area",
+      "Thigh Blood Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Zeira's two versions of why louse blood is not a concern and the practical difference between them \u2014 exactly the content described in the 'Lices-Free Area' prose.",
+      "chosen_heading": "Lice-Free Area",
+      "current_heading": "Lice-Free Area",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Thigh Blood Case",
+    "candidates": [
+      "Thigh Blood Case",
+      "Box Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the same 'thigh blood' scenario \u2014 Rav's ruling of definite tum'ah, Shimi bar Chiyya's objection, and Shmuel's corroborating ruling \u2014 which matches exactly the prose under 'Thigh Blood Case'.",
+      "chosen_heading": "Thigh Blood Case",
+      "current_heading": "Thigh Blood Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Box Scenario",
+    "candidates": [
+      "Box Scenario",
+      "Rabbi Chiyya's Shift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the box scenario case itself (unexamined cloth placed in box, blood found next day) and Rav Yosef's report of Rabbi \u1e24iyya's rulings, which matches the 'Box Scenario' heading's prose about setting up this exact case \u2014 the current placement is correct.",
+      "chosen_heading": "Box Scenario",
+      "current_heading": "Box Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rabbi Chiyya's Shift",
+    "candidates": [
+      "Rabbi Chiyya's Shift",
+      "Rebbi's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the dilemma about what exactly Rabbi Chiyya's trajectory was \u2014 niddah\u2192ketem or ketem\u2192pure \u2014 which is precisely what heading 0's prose describes as the Gemara's question about the trajectory of Rabbi Chiyya's rulings.",
+      "chosen_heading": "Rabbi Chiyya's Shift",
+      "current_heading": "Rabbi Chiyya's Shift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Rebbi's Position",
+    "candidates": [
+      "Rebbi's Position",
+      "Middle Category",
+      "Praise & Meeting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit \u2014 the baraita presenting the dispute between Rabbi Yehuda HaNasi and Rabbi \u1e24iyya, the dialogue about the gris requirement, Rabbi's explanation of why he still rules niddah, and the Gemara's inference about Rabbi \u1e24iyya's position in youth \u2014 all directly elaborating Rebbi's position and the reasoning behind it, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Rebbi's Position",
+      "current_heading": "Rebbi's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Praise & Meeting",
+    "candidates": [
+      "Middle Category",
+      "Praise & Meeting",
+      "Father vs. Rebbi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda HaNasi praising Rabbi \u1e24ama bar Bisa to Rabbi Yishmael and the latter requesting to meet him, which directly matches the 'Praise & Meeting' section's prose about Rebbi praising Rabbi Chama bar Bisa as an adam gadol and Rabbi Ishmael requesting he be brought to him.",
+      "chosen_heading": "Praise & Meeting",
+      "current_heading": "Praise & Meeting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Father vs. Rebbi",
+    "candidates": [
+      "Father vs. Rebbi",
+      "Academy Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items depict the exact exchange between Rabbi \u1e24ama and Rabbi Yishmael about choosing between Rabbi Yosei's and Rebbi's ruling, which is precisely what the 'Father vs. Rebbi' prose describes.",
+      "chosen_heading": "Father vs. Rebbi",
+      "current_heading": "Father vs. Rebbi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Academy Learning",
+    "candidates": [
+      "Academy Learning",
+      "Blood Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi \u1e24ama bar Bisa's reasoning about Rebbi being head of the yeshiva with Sages constantly present sharpening his statements, which matches exactly the 'Academy Learning' section's prose discussion of this same reasoning.",
+      "chosen_heading": "Academy Learning",
+      "current_heading": "Academy Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Blood Attribution",
+    "candidates": [
+      "Blood Attribution",
+      "Meir on Urination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly identify and explain the Rabbi Yehuda HaNasi vs. Rabbi Yosei dispute over the unchecked cloth with blood (Rebbi deems impure, Rabbi Yosi deems pure), and Rabbi Zeira's explanation connecting Rebbi's ruling to Rabbi Meir \u2014 exactly what the 'Blood Attribution' prose describes.",
+      "chosen_heading": "Blood Attribution",
+      "current_heading": "Blood Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Meir on Urination",
+    "candidates": [
+      "Meir on Urination",
+      "Yosi's Leniency",
+      "Meir's Strictness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about a woman urinating and seeing blood with Rabbi Meir's ruling on standing vs. sitting, which is precisely what the 'Meir on Urination' section's prose describes.",
+      "chosen_heading": "Meir on Urination",
+      "current_heading": "Meir on Urination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Meir's Strictness",
+    "candidates": [
+      "Yosi's Leniency",
+      "Meir's Strictness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yosi's Leniency",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yosei's ruling of purity in both positions, which matches heading 0's prose about Rabbi Yosi ruling leniently due to attributing blood to a non-uterine source.",
+      "second_heading": "Meir's Strictness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rav Acha/Rav Ashi exchange about whether Rabbi Meir's ruling was mishum ketem or mishum niddah, which is precisely what heading 1's prose describes as the Gemara's resolution of the apparent inconsistency between Rabbi Meir and Rebbi.",
+      "current_heading": "Meir's Strictness",
+      "moved": true
+    }
+  }
+]

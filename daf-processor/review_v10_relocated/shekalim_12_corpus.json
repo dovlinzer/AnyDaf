@@ -1,0 +1,122 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Shmuel & R. Yochanan",
+    "candidates": [
+      "Ketoret: Shares Debate",
+      "Shmuel & R. Yochanan",
+      "Shmuel: Redeem Pure",
+      "Leftover Sin Offering",
+      "R. Yochanan: Normal Rules",
+      "Repurposing as Offering",
+      "Sin \u2192 Burnt Offering",
+      "Sanctifying Property",
+      "R. Akiva's Position",
+      "Paying Workers",
+      "Ben Azzai's Objection",
+      "R. Eliezer: All Bedek"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel & R. Yochanan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concluding Halakhah on ketoret/kli shares, Shmuel vs. Yochanan, and leftover offerings \u2014 exactly what candidate 1 describes.",
+      "second_heading": "Sanctifying Property",
+      "second_confidence": "high",
+      "second_reason": "Items 2 onward begin a new Mishnah (*Hamakdish nechasav*) about one who sanctifies property containing items fit for korbanot tzibur, which is precisely what candidate 7 'Sanctifying Property' describes.",
+      "current_heading": "Shmuel & R. Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "R. Eliezer: All Bedek",
+    "candidates": [
+      "Shmuel: Redeem Pure",
+      "Leftover Sin Offering",
+      "R. Yochanan: Normal Rules",
+      "Repurposing as Offering",
+      "Sin \u2192 Burnt Offering",
+      "Sanctifying Property",
+      "R. Akiva's Position",
+      "Paying Workers",
+      "Ben Azzai's Objection",
+      "R. Eliezer: All Bedek",
+      "R. Yehoshua: Olah Status",
+      "Akiva & Pappias",
+      "Explicit vs. Generic",
+      "Non-Animal Items",
+      "Attribution Problem",
+      "Generic \u2192 Bedek",
+      "Universal Application",
+      "Me'ilah on Growth",
+      "No Kohen Benefit",
+      "Rav Zeira's Reading"
+    ],
+    "result": {
+      "best_index": 9,
+      "action": "single",
+      "chosen_heading": "R. Eliezer: All Bedek",
+      "current_heading": "R. Eliezer: All Bedek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Rav Zeira's Reading",
+    "candidates": [
+      "R. Yehoshua: Olah Status",
+      "Akiva & Pappias",
+      "Explicit vs. Generic",
+      "Non-Animal Items",
+      "Attribution Problem",
+      "Generic \u2192 Bedek",
+      "Universal Application",
+      "Me'ilah on Growth",
+      "No Kohen Benefit",
+      "Rav Zeira's Reading",
+      "R. Ba's Alternative",
+      "R. Yochanan: Same Debate",
+      "Redemption Status",
+      "Rav Chisda's Ruling",
+      "Milk & Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "low",
+      "reason": "The passage discusses Temple-era figures (Ben A\u1e25iyyah and Onias the ditch-digger) with their practical expertise and a theological digression on divine exactitude with the righteous \u2014 this content does not match any of the candidate headings, which all deal with the Shekalim/Temurah mishnah about sanctification of property; the current placement is retained by default at low confidence.",
+      "chosen_heading": "Rav Zeira's Reading",
+      "current_heading": "Rav Zeira's Reading",
+      "moved": false
+    }
+  }
+]

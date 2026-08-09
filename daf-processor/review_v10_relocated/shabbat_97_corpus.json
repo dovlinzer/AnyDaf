@@ -1,0 +1,263 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Ben Beteira Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita identifying the wood-gatherer as Zelophehad via a gezeirah shavah on 'bamidbar,' which is precisely what the prose under heading 0 ('Gezeirah Shavah') describes.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Ben Beteira Objection",
+    "candidates": [
+      "Ben Beteira Objection",
+      "Ye'afilu Connection",
+      "Religious Motivation",
+      "Choshed Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Ben Beteira objection to Rabbi Akiva and the gezeirah shavah discussion, which is exactly what the 'Ben Beteira Objection' prose describes in detail.",
+      "chosen_heading": "Ben Beteira Objection",
+      "current_heading": "Ben Beteira Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Choshed Principle",
+    "candidates": [
+      "Ye'afilu Connection",
+      "Religious Motivation",
+      "Choshed Principle",
+      "Moshe's Tzara'at",
+      "Mida Tova Speed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items cover exactly the content described in the 'Choshed Principle' prose: Rabbi Akiva's claim that Aaron also became leprous, Ben Beteira's objection, the baraita supporting Aaron's tzara'at, and the Reish Lakish principle about suspecting the innocent (with Moses's 'lo ya'aminu' and the proof that Israel were believers), all of which the prose explicitly narrates in sequence.",
+      "chosen_heading": "Choshed Principle",
+      "current_heading": "Choshed Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Mida Tova Speed",
+    "candidates": [
+      "Moshe's Tzara'at",
+      "Mida Tova Speed",
+      "Nes B'toch Nes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's teaching that the attribute of beneficence acts faster than punishment, derived from the wording of the Moshe/tzara'at verses \u2014 exactly what the 'Mida Tova Speed' section's prose describes.",
+      "chosen_heading": "Mida Tova Speed",
+      "current_heading": "Mida Tova Speed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Nes B'toch Nes",
+    "candidates": [
+      "Nes B'toch Nes",
+      "Height of Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's statement about 'nes b'toch nes' regarding Aaron's staff swallowing the other staffs, which matches exactly the prose under heading 0.",
+      "chosen_heading": "Nes B'toch Nes",
+      "current_heading": "Nes B'toch Nes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Height of Debate",
+    "candidates": [
+      "Height of Debate",
+      "Atzmah Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna restatement, Rabba's dilemma about below-ten vs. above-ten, and the 'or perhaps' second horn of that dilemma \u2014 are precisely the content described in the 'Height of Debate' prose, which explicitly covers Rava's (Rabba's) question about lematta/lema'ala me'asara and the kluta/moshit distinctions.",
+      "chosen_heading": "Height of Debate",
+      "current_heading": "Height of Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Atzmah Interpretation",
+    "candidates": [
+      "Atzmah Interpretation",
+      "Gimmel Tefachim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Rav Hamnuna resolution of Rav \u1e24isda's dilemma and Rabbi Elazar's dissent \u2014 precisely the content described in the 'Atzmah Interpretation' prose.",
+      "chosen_heading": "Atzmah Interpretation",
+      "current_heading": "Atzmah Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Gimmel Tefachim",
+    "candidates": [
+      "Gimmel Tefachim",
+      "Three Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav \u1e24ilkiya bar Tovi's tripartite structure, the supporting baraita, and the discussion of Rav's ruling about two houses across a reshut ha-rabim \u2014 are explicitly described and resolved in the prose of heading 0 ('Gimmel Tefachim'), making the current placement correct.",
+      "chosen_heading": "Gimmel Tefachim",
+      "current_heading": "Gimmel Tefachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Three Logic",
+    "candidates": [
+      "Three Logic",
+      "Lavud Tradition",
+      "Bayis Kluta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about the source and rationale of the lavud principle \u2014 the question, the challenge from the sukkah mishna, and the conclusion that it is halacha l'Moshe mi-Sinai \u2014 which is precisely what the 'Three Logic' section's prose describes in detail.",
+      "chosen_heading": "Three Logic",
+      "current_heading": "Three Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Bayis Kluta",
+    "candidates": [
+      "Lavud Tradition",
+      "Bayis Kluta",
+      "Av Toldah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the baraita about reshut ha-rabim to reshut ha-rabim with reshut ha-yahid in between, Rav and Shmuel's clarification about a roofed private domain, and the bayis k'man d'malya principle \u2014 all of which are the precise content described in candidate 1's prose.",
+      "chosen_heading": "Bayis Kluta",
+      "current_heading": "Bayis Kluta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Av Toldah",
+    "candidates": [
+      "Av Toldah",
+      "Holtz Debate",
+      "One vs Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara passage about Rav \u1e24ana's difficulty with Rabbi Yehuda HaNasi holding liable for a toldah bimkom av, the baraita about thirty-nine melachot, and Rav Yosef's resolution attributing the statement to Rabbi Yehuda rather than Rebbi \u2014 exactly what the 'Av Toldah' prose describes.",
+      "chosen_heading": "Av Toldah",
+      "current_heading": "Av Toldah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "One vs Two",
+    "candidates": [
+      "Holtz Debate",
+      "One vs Two",
+      "Indifference Case",
+      "Intent Subset",
+      "Intent Superset"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion about whether Rabbi Yehuda holds one or two chiyuvim, the kluta k'mi she'huncha debate, the shovet/medakdek proof about toldah bimkom av, and the resolution via 'kol makom she-tirtze tanu'ach' \u2014 exactly the content described in the 'One vs Two' prose.",
+      "chosen_heading": "One vs Two",
+      "current_heading": "One vs Two",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Marriage Binding",
+    "candidates": [
+      "Setup: Daughter Verse",
+      "Ishus Le'Avicha",
+      "Exclude Shifcha, Akum",
+      "Anusa Objection",
+      "Arayos Proof",
+      "Lavin Challenge",
+      "Marriage Binding",
+      "Beloved/Hated Wives",
+      "Kares Challenge",
+      "Rava's Sister Verse",
+      "Moledes Chutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "low",
+      "reason": "Items 1 and 3 address whether betrothals that cannot lead to consummation are valid (kiddushin she'ein mesurin lebi'ah), which is tangentially related to the 'Marriage Binding' section's discussion of when kiddushin takes effect, making it the closest available heading even though the prose fit is imperfect.",
+      "chosen_heading": "Marriage Binding",
+      "current_heading": "Marriage Binding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Moledes Chutz",
+    "candidates": [
+      "Beloved/Hated Wives",
+      "Kares Challenge",
+      "Rava's Sister Verse",
+      "Moledes Chutz",
+      "Two Categories",
+      "Arayos Marriageable",
+      "Completely Excluded",
+      "Logic Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "low",
+      "reason": "None of the candidate headings directly discuss the \u1e25alitza/yibum procedural rules for multiple brothers covered in this passage, but heading 3 is the closest match as its prose explicitly mentions yibum and \u1e25alitza obligations in the context of establishing legal sibling status.",
+      "chosen_heading": "Moledes Chutz",
+      "current_heading": "Moledes Chutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Logic Summary",
+    "candidates": [
+      "Two Categories",
+      "Arayos Marriageable",
+      "Completely Excluded",
+      "Logic Summary",
+      "Slave from Verse",
+      "Two Verses Needed",
+      "One Verse Covers Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "The passage raises the comparison to the four-brothers mishna involving sisters and zika/chalitza, which fits under 'Logic Summary' where the essay prose explicitly discusses the zika bond, achot zikukato, and the distinction between that case and the scenario under discussion.",
+      "chosen_heading": "Logic Summary",
+      "current_heading": "Logic Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "One Verse Covers Both",
+    "candidates": [
+      "Slave from Verse",
+      "Two Verses Needed",
+      "One Verse Covers Both",
+      "Non-Intermarriage Verse",
+      "Ki Yasir Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "low",
+      "reason": "The passage discusses levirate bond (zika) and nullifying the levirate mitzva, which is unrelated to any of the candidate headings about matrilineal descent and intermarriage \u2014 none of the candidates discuss yibum/levirate topics, so this passage appears misplaced relative to all candidates, but it is least wrong under the current placement or nearby; defaulting to current placement with low confidence.",
+      "chosen_heading": "Ki Yasir Derivation",
+      "current_heading": "One Verse Covers Both",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Ki Yasir Derivation",
+    "candidates": [
+      "Non-Intermarriage Verse",
+      "Ki Yasir Derivation",
+      "Matrilineal Rule",
+      "Ravina's Psul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal with the laws of \u1e25alitza, yibum, and the question of whether a \u1e25alutza's prohibition is d'oraita or rabbinic \u2014 content that fits under 'Ravina's Psul' which discusses yibum law and the scriptural basis for related mitzvot, and is entirely unrelated to the intermarriage/matrilineal descent material discussed in candidates 0\u20132.",
+      "chosen_heading": "Ravina's Psul",
+      "current_heading": "Ki Yasir Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Ravina's Psul",
+    "candidates": [
+      "Matrilineal Rule",
+      "Ravina's Psul",
+      "Yisrael Pasul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna about the mitzva for the eldest to perform yibum and the younger brother's acquisition if he acts first is explicitly discussed and quoted in candidate 1's prose, which describes exactly this content as part of the sugya's examination of yibum priority among brothers.",
+      "chosen_heading": "Ravina's Psul",
+      "current_heading": "Ravina's Psul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Yisrael Pasul",
+    "candidates": [
+      "Yisrael Pasul",
+      "Seven Nations Q",
+      "Rabbi Shimon Method",
+      "Ki Yasir Extension",
+      "Rabbis' Source",
+      "Setup: One Man",
+      "Get to Both",
+      "One Bro: Chalitza",
+      "Chalitza & Yibum",
+      "Setup: Two Men",
+      "Both Chalitza",
+      "One vs. Two Bros",
+      "Dual-Family Setup",
+      "Cross-Chalitza",
+      "Why It Works",
+      "Risk: Achat Zekuka",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Yisrael Pasul' explicitly describes how the verse 'vehaya habechor asher teleid yakum al shem achiv hamet' is reread via a gezeira shava with 'al shem acheihem yikare'u benachalatam' to refer to inheritance rather than naming, which is precisely what items 1\u20136 discuss, and the subsequent items 7\u201317 continue the same baraita's exposition of who performs yibum and the associated inheritance rules \u2014 all part of this same sugya.",
+      "chosen_heading": "Yisrael Pasul",
+      "current_heading": "Yisrael Pasul",
+      "moved": false
+    }
+  }
+]

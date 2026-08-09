@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Searching for Tannaitic Support for the Implicit Stipulation Doctrine",
@@ -68,7 +68,7 @@
           "timestamp": "09:34"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -121,7 +121,7 @@
           "timestamp": "29:11"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -184,7 +184,7 @@
           "timestamp": "56:12"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     }
   ],
@@ -570,5 +570,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "29:11",
+  "amud_b_micro_title": "Tannaitic Parallels",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "b"
 }

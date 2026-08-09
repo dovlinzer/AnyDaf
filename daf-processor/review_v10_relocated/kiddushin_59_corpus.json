@@ -1,0 +1,345 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Tosafot Chiddush",
+    "candidates": [
+      "Mishnah Case",
+      "Tosafot Chiddush",
+      "Braita Rama'ut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text itself \u2014 the two cases of the mishnah (agent betrothing for himself, and the 'after thirty days' case) \u2014 which belongs under 'Mishnah Case' whose prose explicitly introduces and describes this mishnah, not under 'Tosafot Chiddush' which discusses Tosafot's analysis of what the chiddush is.",
+      "chosen_heading": "Mishnah Case",
+      "current_heading": "Tosafot Chiddush",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Braita Rama'ut",
+    "candidates": [
+      "Tosafot Chiddush",
+      "Braita Rama'ut",
+      "Friend vs. Agent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the braita's statement that 'what he did is done but he acted deceitfully' (rama'ut) and the gemara's explanation that 'halach' in the mishnah encodes this moral critique \u2014 precisely what the 'Braita Rama'ut' section's prose discusses.",
+      "chosen_heading": "Braita Rama'ut",
+      "current_heading": "Braita Rama'ut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Friend vs. Agent",
+    "candidates": [
+      "Friend vs. Agent",
+      "Rabin Chasida Story",
+      "Duty to Inform",
+      "Shma Yikdemenu Acher",
+      "Rav & Land Deal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's question and answer about why the current mishnah uses 'chavero' (another/friend) while the earlier mishnah uses 'shlucho' (agent), which is precisely what candidate 0 ('Friend vs. Agent') describes in its prose.",
+      "chosen_heading": "Friend vs. Agent",
+      "current_heading": "Friend vs. Agent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rav & Land Deal",
+    "candidates": [
+      "Rabin Chasida Story",
+      "Duty to Inform",
+      "Shma Yikdemenu Acher",
+      "Rav & Land Deal",
+      "Rabbi Abba Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabin Chasida Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Ravin Chasida betrothing a woman for himself) is the specific story discussed in candidate 0's prose, which covers exactly this narrative including the family's refusal to give her to the son.",
+      "second_heading": "Rav & Land Deal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabba bar bar \u1e24ana giving money to Rav to purchase land) is the specific story discussed in candidate 3's prose, which covers exactly this narrative including the violent men who respected Rav but not Rabba bar bar \u1e24ana.",
+      "current_heading": "Rav & Land Deal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Abba Case",
+    "candidates": [
+      "Rabbi Abba Case",
+      "Tosafot: Metziah",
+      "Employment Ethics",
+      "Thirty-Day Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete narrative of the Rav Giddel/Rabbi Abba land dispute, which is precisely what the 'Rabbi Abba Case' prose describes in full detail, including the confrontation, the offer of a gift, the refusal, and the land being called 'ar'a de-rabbanan'.",
+      "chosen_heading": "Rabbi Abba Case",
+      "current_heading": "Rabbi Abba Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Thirty-Day Condition",
+    "candidates": [
+      "Tosafot: Metziah",
+      "Employment Ethics",
+      "Thirty-Day Condition",
+      "Money Consumed",
+      "Rav & Shmuel",
+      "Original Kesef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about what happens when no second man betrothed her within thirty days but the money was consumed \u2014 which is precisely what the 'Money Consumed' section's prose describes as its topic.",
+      "chosen_heading": "Money Consumed",
+      "current_heading": "Thirty-Day Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Original Kesef",
+    "candidates": [
+      "Money Consumed",
+      "Rav & Shmuel",
+      "Original Kesef",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items explain why the thirty-day kiddushin money is neither a loan nor a deposit \u2014 precisely the content discussed in the 'Original Kesef' prose, which explicitly paraphrases 'hanei zuzei lav l'milveh damu ve-lav l'pikadon damu' and elaborates the same distinctions.",
+      "chosen_heading": "Original Kesef",
+      "current_heading": "Original Kesef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "R. Yochanan",
+    "candidates": [
+      "R. Yochanan",
+      "Reish Lakish",
+      "Get Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's and Reish Lakish's opinions together in one Talmudic exchange, and the current heading's prose accurately describes this exact dispute about retraction when no second man came, making it the best fit.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "R. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Get Comparison",
+    "candidates": [
+      "Reish Lakish",
+      "Get Comparison",
+      "Get Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan's objection to Reish Lakish using the terumah case and Reish Lakish's counter about nesinas ma'ot ke-ma'aseh, which is precisely what the 'Get Comparison' section's prose describes.",
+      "chosen_heading": "Get Comparison",
+      "current_heading": "Get Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Get Analysis",
+    "candidates": [
+      "Get Analysis",
+      "Vessel Completion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the get objection and Reish Lakish's response to it, which the 'Get Analysis' prose describes precisely and in full detail.",
+      "chosen_heading": "Get Analysis",
+      "current_heading": "Get Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Vessel Completion",
+    "candidates": [
+      "Vessel Completion",
+      "Maaseh Motzi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Reish Lakish's objection from the laws of tumah and vessels \u2014 the mishnah about vessels acquiring/losing tumah-status via thought vs. action, and the derived principle that machshava cannot reverse machshava \u2014 which is precisely what the 'Vessel Completion' prose describes and analyzes.",
+      "chosen_heading": "Vessel Completion",
+      "current_heading": "Vessel Completion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Maaseh Motzi",
+    "candidates": [
+      "Maaseh Motzi",
+      "Rav Zavid Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items contain exactly the Rav Pappa drasha about ki yitten/ki yuttan that the prose of heading 0 ('Maaseh Motzi') explicitly discusses as the derivation that thought in tumah is equivalent to action.",
+      "chosen_heading": "Maaseh Motzi",
+      "current_heading": "Maaseh Motzi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rav Zavid Case",
+    "candidates": [
+      "Rav Zavid Case",
+      "Void Agent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Zevid teaching the dispute in the context of a woman who appointed an agent and then betrothed herself, which matches exactly the 'Rav Zavid Case' prose description.",
+      "chosen_heading": "Rav Zavid Case",
+      "current_heading": "Rav Zavid Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Void Agent",
+    "candidates": [
+      "Void Agent",
+      "Terumah Negation",
+      "Rav Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Yochanan/Reish Lakish dispute about whether verbal retraction of an agent appointment is effective, which is precisely what the 'Void Agent' section's prose describes.",
+      "chosen_heading": "Void Agent",
+      "current_heading": "Void Agent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Rav Response",
+    "candidates": [
+      "Terumah Negation",
+      "Rav Response",
+      "Get Negation",
+      "Get Contingent",
+      "Hilcheta Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Item 1 is Rabbi Yochanan's terumah objection with Rava's resolution (the homeowner acted first), Item 2 is Reish Lakish's counter-objection about ritual impurity and thought vs. action, and Item 3 is Rabbi Yochanan's reply about impurity-thought being like action \u2014 all directly elaborating the same dispute about whether words/thought can negate prior arrangements, which is exactly what 'Rav Response' prose describes.",
+      "chosen_heading": "Rav Response",
+      "current_heading": "Rav Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Hilcheta Ruling",
+    "candidates": [
+      "Get Negation",
+      "Get Contingent",
+      "Hilcheta Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's objection using the get case (verbal revocation of the agent's mandate) and concludes it is a conclusive refutation of Reish Lakish \u2014 this matches heading 0 ('Get Negation') which describes exactly this scenario, while the current placement under 'Hilcheta Ruling' discusses the final halachic ruling that follows after this refutation.",
+      "chosen_heading": "Get Negation",
+      "current_heading": "Hilcheta Ruling",
+      "moved": true
+    }
+  }
+]

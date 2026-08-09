@@ -1,0 +1,272 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Rejecting First Answer",
+    "candidates": [
+      "Lamp & Unintended Acts",
+      "Rejecting First Answer",
+      "Flame as Muktza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous unit \u2014 item 1 states the proposed distinction (d'oraisa vs. d'rabbanan determines whether eino mitkaven is permitted) and item 2 is Rava's immediate objection from the shatnez/clothing-merchants case that collapses that distinction \u2014 which is precisely what heading 1 ('Rejecting First Answer') describes in its prose.",
+      "chosen_heading": "Rejecting First Answer",
+      "current_heading": "Rejecting First Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Flame as Muktza",
+    "candidates": [
+      "Flame as Muktza",
+      "Three Components",
+      "Romanus Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's explanation that the lamp/oil/wick are muktza as a basis l'davar ha'assur (the flame), which is precisely what the 'Flame as Muktza' section's prose discusses and introduces.",
+      "chosen_heading": "Flame as Muktza",
+      "current_heading": "Flame as Muktza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Romanus Ruling",
+    "candidates": [
+      "Three Components",
+      "Romanus Ruling",
+      "Basis Status",
+      "Incense Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Romanus's ruling that Rebbe permitted carrying the ash pan, and Rabbi Zeira's challenge based on Rabbi Yochanan's basket-with-fruit ruling, which is precisely what the 'Romanus Ruling' prose describes.",
+      "chosen_heading": "Romanus Ruling",
+      "current_heading": "Romanus Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Incense Explanation",
+    "candidates": [
+      "Basis Status",
+      "Incense Explanation",
+      "Copper Vessel",
+      "Ash's Usefulness",
+      "Wood Chips Resolution",
+      "Oil & Wick Issue",
+      "Galilee Context",
+      "Tosafot's Logic",
+      "Gaon's Comment",
+      "Self-Assembly Bed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items continue the same unbroken discussion found under 'Incense Explanation': item 1 is Rabbi Asi's kartin answer with Abaye's objection, item 2 is the poor-people's garments baraita and Abaye's chamber-pot analogy, and item 3 is Rava's two objections to the chamber-pot analogy followed by his Rav Na\u1e25man testimony and the wick-fragment objection with Abaye's Galilee answer \u2014 all of which the 'Incense Explanation' prose explicitly describes in sequence.",
+      "chosen_heading": "Incense Explanation",
+      "current_heading": "Incense Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Self-Assembly Bed",
+    "candidates": [
+      "Copper Vessel",
+      "Ash's Usefulness",
+      "Wood Chips Resolution",
+      "Oil & Wick Issue",
+      "Galilee Context",
+      "Tosafot's Logic",
+      "Gaon's Comment",
+      "Self-Assembly Bed",
+      "Rav vs Shmuel",
+      "Candelabra Cases",
+      "Melacha Criteria",
+      "Loose Fitting Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Self-Assembly Bed' prose section narrates: Levi bar Shmuel finding Rabbi Abba and Rav Huna bar Chiya and asking about reassembling a weaver's/traveler's collapsible bed on Shabbat, and being told it was permitted \u2014 this is the current placement and it matches perfectly.",
+      "chosen_heading": "Self-Assembly Bed",
+      "current_heading": "Self-Assembly Bed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Loose Fitting Ruling",
+    "candidates": [
+      "Rav vs Shmuel",
+      "Candelabra Cases",
+      "Melacha Criteria",
+      "Loose Fitting Ruling",
+      "Practical Distinctions",
+      "Modern Examples",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's objection from the Tosefta about the candelabrum branch, plasterer's pole, Rabbi Simai's rounded/straight horn, and the baraita about bed frames \u2014 all of which are the 'corroborating evidence for the strict view' and the distinctions introduced there, which is precisely what the 'Candelabra Cases' prose describes.",
+      "chosen_heading": "Candelabra Cases",
+      "current_heading": "Loose Fitting Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Practical Distinctions",
+      "Modern Examples",
+      "Rava's Position",
+      "Vessel for Sparks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly narrates Rava's ruling about the collapsible bed at Rav \u1e24ama's house and his appeal to Rabban Shimon ben Gamliel's leniency for loose fittings, which is precisely what the 'Rava's Position' section discusses.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Vessel for Sparks",
+    "candidates": [
+      "Vessel for Sparks",
+      "Why Permitted",
+      "Sparks Negligible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna text directly states the rule about placing a vessel under a lamp to catch sparks and not adding water, which is precisely what the 'Vessel for Sparks' prose describes.",
+      "chosen_heading": "Vessel for Sparks",
+      "current_heading": "Vessel for Sparks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Sparks Negligible",
+    "candidates": [
+      "Why Permitted",
+      "Sparks Negligible",
+      "Water Prohibition",
+      "Proximity Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's answer that sparks have no substance, which is precisely what the 'Sparks Negligible' section's prose describes.",
+      "chosen_heading": "Sparks Negligible",
+      "current_heading": "Sparks Negligible",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Proximity Issue",
+    "candidates": [
+      "Water Prohibition",
+      "Proximity Issue",
+      "Floating Wicks",
+      "Insulation Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's discussion of whether the water prohibition derives from Rabbi Yosei's gram kibbuy ruling and Rav Ashi's resolution, which is precisely what candidate 0 ('Water Prohibition') describes in its prose \u2014 including the baraita about erev Shabbat and the conclusion that Rabbi Yosei's position is not the source of the prohibition.",
+      "chosen_heading": "Water Prohibition",
+      "current_heading": "Proximity Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Insulation Materials",
+    "candidates": [
+      "Floating Wicks",
+      "Insulation Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05db\u05d9\u05e8\u05d4' is the closing formula marking the end of the chapter (perek) on Kirah, which directly precedes the new Mishnah about insulation materials (bameh tommunin) discussed in the 'Insulation Materials' prose.",
+      "chosen_heading": "Insulation Materials",
+      "current_heading": "Insulation Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Insulation Materials",
+    "candidates": [
+      "Insulation Materials",
+      "Heat Generation Principle",
+      "Ash Stirring Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishnah of the hatmana chapter listing prohibited and permitted insulation materials, which is precisely what the 'Insulation Materials' prose describes.",
+      "chosen_heading": "Insulation Materials",
+      "current_heading": "Insulation Materials",
+      "moved": false
+    }
+  }
+]

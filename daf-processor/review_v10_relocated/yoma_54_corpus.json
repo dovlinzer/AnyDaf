@@ -1,0 +1,478 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Three Steps Backward",
+    "candidates": [
+      "Kohen Gadol Exiting",
+      "Three Steps Backward",
+      "Direction of Greeting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the three steps backward and the direction of greeting, and the current heading 'Three Steps Backward' with its prose explicitly discusses this baraita including the tanya, the three steps, and the consequence of not doing so \u2014 matching the full content of the passage.",
+      "chosen_heading": "Three Steps Backward",
+      "current_heading": "Three Steps Backward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Direction of Greeting",
+    "candidates": [
+      "Direction of Greeting",
+      "Rava Corrects Abaye",
+      "Three Steps & Bowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'and it says' citation and the verse 'yipol mitzidcha elef urevava miminecha' as proof that the right side has special significance beyond ordinary custom \u2014 exactly what the 'Direction of Greeting' prose describes.",
+      "chosen_heading": "Direction of Greeting",
+      "current_heading": "Direction of Greeting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Three Steps & Bowing",
+    "candidates": [
+      "Rava Corrects Abaye",
+      "Three Steps & Bowing",
+      "Short Prayer & Weather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the Rava-corrects-Abaye story AND the three steps observation, but candidate 0's prose explicitly discusses both elements (the correction about direction AND notes 'this is indeed the practice observed today'), while candidate 1's prose only discusses the three steps portion \u2014 however, looking more carefully, candidate 0's prose covers the Rava/Abaye correction and candidate 1's prose covers the three steps observation, and since the passage contains both stories together, the better single heading is candidate 0 since the Rava correction is the primary content and the three steps report is a brief addendum that naturally follows in the same passage.",
+      "chosen_heading": "Rava Corrects Abaye",
+      "current_heading": "Three Steps & Bowing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Short Prayer & Weather",
+    "candidates": [
+      "Three Steps & Bowing",
+      "Short Prayer & Weather",
+      "Shchuna Interpretation",
+      "National Concerns Prayer",
+      "Dominion of Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 1 ('Short Prayer & Weather') describes: the Mishna's mention of the brief prayer, the Gemara's question about its content, and Rava bar Rav Adda's report of the rainy/hot year formula \u2014 the Shchuna interpretation that follows in the same passage is handled by heading 2's prose separately.",
+      "chosen_heading": "Short Prayer & Weather",
+      "current_heading": "Short Prayer & Weather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Dominion of Yehuda",
+    "candidates": [
+      "Shchuna Interpretation",
+      "National Concerns Prayer",
+      "Dominion of Yehuda",
+      "Economic Sufficiency",
+      "National vs. Individual",
+      "Rain on the Road"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three elements (dominion of Yehuda, economic sufficiency, and travelers' prayers) as one continuous statement by Rav A\u1e25a brei deRava in the name of Rav Yehuda, and candidate 1 'National Concerns Prayer' is the introductory heading that presents this complete concluding section of the prayer, whereas candidates 2, 3, and 4 each cover only one sub-element of this single quoted passage.",
+      "chosen_heading": "National Concerns Prayer",
+      "current_heading": "Dominion of Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rain on the Road",
+    "candidates": [
+      "Economic Sufficiency",
+      "National vs. Individual",
+      "Rain on the Road",
+      "Rain Reversal",
+      "Rav Yosef's Question",
+      "Fear of Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the full story of Rabbi Chanina ben Dosa on the road plus Rav Yosef's question, but the essay splits this across headings 2, 3, and 4 \u2014 the current placement under heading 2 ('Rain on the Road') is where the passage begins, and since all three sub-sections (road prayer, home prayer, Rav Yosef's remark) are contained in this single quoted item, the current placement is the correct anchor heading for this unified Talmudic excerpt.",
+      "chosen_heading": "Rain on the Road",
+      "current_heading": "Rain on the Road",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Fear of Death",
+    "candidates": [
+      "Rain Reversal",
+      "Rav Yosef's Question",
+      "Fear of Death",
+      "Defense of Prayer",
+      "Warning Against Length",
+      "Shtiyah Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about the High Priest who extended his prayer and the priests debating whether to enter after him out of fear he died, which matches exactly the 'Fear of Death' section's prose description of this incident.",
+      "chosen_heading": "Fear of Death",
+      "current_heading": "Fear of Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Shtiyah Stone",
+    "candidates": [
+      "Defense of Prayer",
+      "Warning Against Length",
+      "Shtiyah Stone",
+      "Four Positions",
+      "Eliezer: Exiled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items describe the Yom Kippur blood-sprinkling ritual in the Holy of Holies following the introduction of the Shtiyah stone, exactly matching the prose of candidate 2 which summarizes these very procedures \u2014 the one-upward-seven-downward sprinklings, the counting formula, the gold pedestals, the dispute between tanna kamma and Rabbi Yehuda, and the mixing of the bloods.",
+      "chosen_heading": "Shtiyah Stone",
+      "current_heading": "Shtiyah Stone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Eliezer: Exiled",
+    "candidates": [
+      "Four Positions",
+      "Eliezer: Exiled",
+      "Shimon: Buried"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the baraita citing opinions that the Ark was exiled to Babylonia, which matches heading 0's prose about the Gemara noting 'mishe-nital' and then citing a baraita with four positions \u2014 the current heading 1 describes a more developed version of Rabbi Eliezer's proof including a second verse not present in these items, indicating these items belong under the introductory 'Four Positions' heading.",
+      "chosen_heading": "Four Positions",
+      "current_heading": "Eliezer: Exiled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Shimon: Buried",
+    "candidates": [
+      "Eliezer: Exiled",
+      "Shimon: Buried",
+      "Ulla's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda ben Lakish stating the Ark was buried in its place using the same verse about the poles remaining 'to this day,' which is precisely what the 'Shimon: Buried' section discusses (aron bimkomo nignaz with that same proof text).",
+      "chosen_heading": "Shimon: Buried",
+      "current_heading": "Shimon: Buried",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Ulla's Report",
+    "candidates": [
+      "Shimon: Buried",
+      "Ulla's Report",
+      "Rabba's Challenge",
+      "Counter-Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Ulla's report of the exchange between Rabbi Matya ben \u1e24arash and Rabbi Shimon ben Yo\u1e25ai, which is precisely what candidate 1 ('Ulla's Report') describes in its prose.",
+      "chosen_heading": "Ulla's Report",
+      "current_heading": "Ulla's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Counter-Example",
+    "candidates": [
+      "Rabba's Challenge",
+      "Counter-Example",
+      "Sham Significance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form Rabba's counter-example argument: item 1 raises the Jebusite verse as a challenge to 'ad ha-yom hazeh' meaning forever, items 2 and 3 supply the baraita evidence (Rabbi Yehuda's 52 years and Rabbi Yosei's 7 years) proving the Jebusites were indeed exiled, confirming that 'ad ha-yom hazeh' does not guarantee permanence \u2014 exactly what candidate 1 ('Counter-Example') describes in its prose.",
+      "chosen_heading": "Counter-Example",
+      "current_heading": "Counter-Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Sham Significance",
+    "candidates": [
+      "Sham Significance",
+      "Chamber of Wood",
+      "Priest's Discovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core content of the 'Sham Significance' section \u2014 item 1 introduces Ulla's distinction based on the word 'sham' and raises the objection from the sons of Simeon, and item 2 resolves that objection by noting Sennacherib scrambled the nations, concluding with the tyuvta \u2014 exactly what the prose for heading 0 describes.",
+      "chosen_heading": "Sham Significance",
+      "current_heading": "Sham Significance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Priest's Discovery",
+    "candidates": [
+      "Chamber of Wood",
+      "Priest's Discovery",
+      "Wormy Wood Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Na\u1e25man's statement about the Rabbis' position (the Ark buried in the Chamber of the Woodshed) AND Rav Na\u1e25man bar Yitz\u1e25ak's corroborating mishna story, but the essay splits these into two sections \u2014 however, since the passage is a single unified Talmudic excerpt, it belongs under heading 0 ('Chamber of Wood') which introduces the chachamim's position that Rav Na\u1e25man is teaching, with the priest's story serving as corroboration of that same claim rather than a standalone topic.",
+      "chosen_heading": "Chamber of Wood",
+      "current_heading": "Priest's Discovery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Wormy Wood Account",
+    "candidates": [
+      "Priest's Discovery",
+      "Wormy Wood Account",
+      "Seen/Not Seen",
+      "Lengthening Poles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the two blemished priests sorting wormy wood and the axe dropping, which is exactly what the 'Wormy Wood Account' section's prose discusses.",
+      "chosen_heading": "Wormy Wood Account",
+      "current_heading": "Wormy Wood Account",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Lengthening Poles",
+    "candidates": [
+      "Seen/Not Seen",
+      "Lengthening Poles",
+      "Poles as Breasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's contradiction (seen/not seen) and the baraita elaborating on it, and candidate 0's prose explicitly describes both elements \u2014 the contradiction, the resolution 'nirin ve'ein nirin,' and the baraita \u2014 making it the clear home for this passage rather than candidate 1 which discusses the lengthening/repositioning interpretation and the breast imagery protrusion.",
+      "chosen_heading": "Seen/Not Seen",
+      "current_heading": "Lengthening Poles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Poles as Breasts",
+    "candidates": [
+      "Lengthening Poles",
+      "Poles as Breasts",
+      "Exposing Keruvim",
+      "Keruvim Intertwined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly 'ha keitzad' \u2014 how the staves pushed and protruded through the parochet \u2014 which is the precise content discussed in candidate 0's prose about the mechanics of the staves, making it a better fit there than under candidate 1 which discusses the breast imagery and its broader theological/erotic implications.",
+      "chosen_heading": "Lengthening Poles",
+      "current_heading": "Poles as Breasts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Keruvim Intertwined",
+    "candidates": [
+      "Exposing Keruvim",
+      "Keruvim Intertwined",
+      "Maturation & Exposure",
+      "Bride Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ketina's teaching about rolling up the curtain to show the pilgrims the cherubs, which is precisely the 'Exposing Keruvim' section's topic \u2014 the act of drawing back the parochet during the festivals \u2014 while the current placement under 'Keruvim Intertwined' focuses on the intertwined imagery and its erotic/theological meaning, which is the commentary on what was revealed rather than the act of revelation itself.",
+      "chosen_heading": "Exposing Keruvim",
+      "current_heading": "Keruvim Intertwined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Bride Metaphor",
+    "candidates": [
+      "Maturation & Exposure",
+      "Bride Metaphor",
+      "Divorce & Remarriage",
+      "Keruvim Images"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bride Metaphor",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form a complete challenge-and-answer unit (Rav \u1e24isda's objection about vessel-covering prohibition resolved by Rav Na\u1e25man's bride metaphor) that matches precisely the 'Bride Metaphor' section's prose discussion of this exact exchange.",
+      "second_heading": "Divorce & Remarriage",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the kohen-discovering-the-ark objection answered by the 'divorced and remarried' logic, which matches exactly the 'Divorce & Remarriage' section's prose about nisgarsha and the return to initial modesty.",
+      "current_heading": "Bride Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Keruvim Images",
+    "candidates": [
+      "Divorce & Remarriage",
+      "Keruvim Images",
+      "Carved Decorations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's structural question about which Temple the parochet/keruvim discussion refers to and resolve it by identifying the curtain as the curtain of the gates, with Rav Zeira's enumeration of thirteen curtains \u2014 exactly the content described in the 'Keruvim Images' prose.",
+      "chosen_heading": "Keruvim Images",
+      "current_heading": "Keruvim Images",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Carved Decorations",
+    "candidates": [
+      "Carved Decorations",
+      "Man Intertwined",
+      "Desecration",
+      "Loss of Reverence",
+      "Intimacy vs. Defilement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Ya'akov's statement about the Second Temple having carved cherub images on the walls, which directly matches the prose under 'Carved Decorations' that explicitly describes this argument and cites the same verse.",
+      "chosen_heading": "Carved Decorations",
+      "current_heading": "Carved Decorations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Intimacy vs. Defilement",
+    "candidates": [
+      "Man Intertwined",
+      "Desecration",
+      "Loss of Reverence",
+      "Intimacy vs. Defilement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rabba bar Rav Sheila's interpretation of 'ke-ma'ar ish ve-loyot' as a man clinging to his partner, and Reish Lakish's account of the gentiles seeing the intertwined cherubs \u2014 are precisely what candidate 0 ('Man Intertwined') discusses, which explicitly covers both the verse interpretation and the cherubs' embrace; candidates 1-3 cover the aftermath (marketplace, denigration, proof-text) which are downstream elaborations already addressed in prose there.",
+      "chosen_heading": "Man Intertwined",
+      "current_heading": "Intimacy vs. Defilement",
+      "moved": true
+    }
+  }
+]

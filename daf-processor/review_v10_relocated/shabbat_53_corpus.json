@@ -1,0 +1,505 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Collars & Tumah",
+    "candidates": [
+      "Collars & Tumah",
+      "Student's Ring Question",
+      "Animal vs Human Rings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the discussion about animal collars (kolarim), chatzitza, and the widening of rings \u2014 precisely the topic summarized in the 'Collars & Tumah' prose, including the reference to striking/widening and the dispute between Rav Yosef and Rabbi Yitz\u1e25ak Nappa\u1e25a about ornaments transitioning from human to animal use.",
+      "chosen_heading": "Collars & Tumah",
+      "current_heading": "Collars & Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Animal vs Human Rings",
+    "candidates": [
+      "Student's Ring Question",
+      "Animal vs Human Rings",
+      "Metal & Wood Rings",
+      "Seal on Rings",
+      "Needle Question",
+      "Eye in Needle",
+      "Rusty Needles",
+      "Polished Needles",
+      "Holes & Movement",
+      "Needle Other Uses",
+      "Hole Matters for Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses the mechanism of tumah acquisition/removal for vessels (specifically rings/chains) and immersion requirements, which fits within the ongoing ring-tumah discussion, but none of the candidate prose sections explicitly address this specific content about thought-based tumah acquisition versus action-based purification or spaced rings for immersion.",
+      "chosen_heading": "Animal vs Human Rings",
+      "current_heading": "Animal vs Human Rings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Hole Matters for Tumah",
+    "candidates": [
+      "Metal & Wood Rings",
+      "Seal on Rings",
+      "Needle Question",
+      "Eye in Needle",
+      "Rusty Needles",
+      "Polished Needles",
+      "Holes & Movement",
+      "Needle Other Uses",
+      "Hole Matters for Tumah",
+      "Mishna: Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous chain covering the student's two questions to Rabbi Eliezer (rings and needles) with successive objections and resolutions, and the current heading 'Hole Matters for Tumah' with its prose explicitly discusses the Baraita about needles with/without eyes, the tumah distinction, and Abaye/Rava's resolution about unfinished needles (begalmi), which is precisely what items 8-9 address, while the earlier items on rings are covered by the preceding headings in the same section.",
+      "chosen_heading": "Hole Matters for Tumah",
+      "current_heading": "Hole Matters for Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mishna: Animals",
+    "candidates": [
+      "Mishna: Animals",
+      "Disputes on Gear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself listing the animals and their permitted items, which directly matches the 'Mishna: Animals' prose that introduces and describes each animal case (donkey, rams, ewes, goats) before reaching Rabbi Yose's dispute covered in the next section.",
+      "chosen_heading": "Mishna: Animals",
+      "current_heading": "Mishna: Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Disputes on Gear",
+    "candidates": [
+      "Disputes on Gear",
+      "Erev Shabbat Prep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Disputes on Gear' directly discusses and paraphrases this exact Mishnaic statement about Rabbi Yehuda's ruling on goats going out with bound udders to dry versus to conserve milk.",
+      "chosen_heading": "Disputes on Gear",
+      "current_heading": "Disputes on Gear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Erev Shabbat Prep",
+    "candidates": [
+      "Erev Shabbat Prep",
+      "Tied Before Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Shmuel's statement about tying from Erev Shabbat and Rav Nachman's supporting inference from the mishna, which is exactly what the 'Erev Shabbat Prep' prose describes, while the 'Tied Before Shabbat' prose describes the subsequent Gemara discussion asking what 'not tied' means.",
+      "chosen_heading": "Erev Shabbat Prep",
+      "current_heading": "Erev Shabbat Prep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Tied Before Shabbat",
+    "candidates": [
+      "Tied Before Shabbat",
+      "Falling & Carrying",
+      "Why Before Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference that the first mishna requires the saddlecloth to be tied from Erev Shabbat, which exactly matches the 'Tied Before Shabbat' section's prose describing the same reasoning and conclusion.",
+      "chosen_heading": "Tied Before Shabbat",
+      "current_heading": "Tied Before Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Why Before Shabbat",
+    "candidates": [
+      "Falling & Carrying",
+      "Why Before Shabbat",
+      "Weekday Appearance",
+      "Backyard Question",
+      "Cloth vs Saddle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The baraita directly addresses the distinction between the saddlecloth (mardaat) and the saddle (uchaf), which is precisely the topic of the 'Cloth vs Saddle' section discussing what difference exists between these two items.",
+      "chosen_heading": "Cloth vs Saddle",
+      "current_heading": "Why Before Shabbat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Cloth vs Saddle",
+    "candidates": [
+      "Weekday Appearance",
+      "Backyard Question",
+      "Cloth vs Saddle",
+      "Saddle Muktzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the dilemma being raised about placing a saddlecloth on a donkey in one's own backyard (private domain) on Shabbat, which precisely matches the 'Backyard Question' prose that frames the question as being about placing the cloth at home where there is no carrying concern \u2014 the current placement under 'Cloth vs Saddle' is one step too late, as that heading's prose summarizes the exchange that follows the framing question.",
+      "chosen_heading": "Backyard Question",
+      "current_heading": "Cloth vs Saddle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Saddle Muktzah",
+    "candidates": [
+      "Saddle Muktzah",
+      "Feed Basket OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about a saddle on a donkey that must be removed by walking the animal until it falls off, which is exactly what the 'Saddle Muktzah' prose describes.",
+      "chosen_heading": "Saddle Muktzah",
+      "current_heading": "Saddle Muktzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Feed Basket OK",
+    "candidates": [
+      "Feed Basket OK",
+      "Pleasure vs Pain",
+      "Feed Basket No"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Zeira's full statement defending Rabbi Chiyya by citing Rav's ruling about the feed basket and the a fortiori inference to the saddlecloth, which is precisely what the 'Feed Basket OK' prose discusses in detail.",
+      "chosen_heading": "Feed Basket OK",
+      "current_heading": "Feed Basket OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Feed Basket No",
+    "candidates": [
+      "Pleasure vs Pain",
+      "Feed Basket No",
+      "Agreement on Cloth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's ruling that the saddlecloth is permitted but the basket is forbidden, and Shmuel's sharp dismissal of Rav's position \u2014 exactly what the 'Feed Basket No' prose describes and discusses.",
+      "chosen_heading": "Feed Basket No",
+      "current_heading": "Feed Basket No",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Agreement on Cloth",
+    "candidates": [
+      "Agreement on Cloth",
+      "Baraita Foals",
+      "Backyard OK"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Agreement on Cloth",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the saddlecloth/saddle dispute (Rabbi Zeira, Aryokh/Shmuel, Rav Papa's distinction), which exactly matches the 'Agreement on Cloth' prose discussion of those same rulings and disputants.",
+      "second_heading": "Baraita Foals",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are the Baraita listing prohibited animal accessories including foals with feed baskets, which matches the 'Baraita Foals' prose about that exact Baraita content.",
+      "current_heading": "Agreement on Cloth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Backyard OK",
+    "candidates": [
+      "Baraita Foals",
+      "Backyard OK",
+      "Pain Justifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the inference about 'into the public domain they may not, but in the courtyard it is fine' and the question about large foals and pleasure (ta'anug), which matches precisely the prose of candidate 1 'Backyard OK'.",
+      "chosen_heading": "Backyard OK",
+      "current_heading": "Backyard OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Pain Justifies",
+    "candidates": [
+      "Pain Justifies",
+      "Amulets Forbidden",
+      "Luck & Amulets"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pain Justifies",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the young foal case and tza'ar justification, ending with 'shema mina,' exactly matching heading 0's prose about pain relief and the amulet analogy.",
+      "second_heading": "Amulets Forbidden",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins a fresh examination of the baraita's ruling that animals cannot go out with even a tested amulet, matching heading 1's prose about 'velo b'kame'a af al pi shehu mumcheh' and the human/animal comparison.",
+      "current_heading": "Pain Justifies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Luck & Amulets",
+    "candidates": [
+      "Amulets Forbidden",
+      "Luck & Amulets",
+      "Shoes Stricter",
+      "No Anointing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items continue the same continuous discussion about the amulet/mazal distinction and the resolution that the 'stricture' refers to shoes rather than amulets \u2014 exactly the content described in the 'Luck & Amulets' prose.",
+      "chosen_heading": "Luck & Amulets",
+      "current_heading": "Luck & Amulets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "No Anointing",
+    "candidates": [
+      "Shoes Stricter",
+      "No Anointing",
+      "Blood Clots",
+      "Spices Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses anointing and scraping wounds for people vs. animals, with the resolution that the wound has healed and the act is for pleasure (ta'anug) not pain \u2014 exactly what the 'No Anointing' prose describes.",
+      "chosen_heading": "No Anointing",
+      "current_heading": "No Anointing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Spices Concern",
+    "candidates": [
+      "Blood Clots",
+      "Spices Concern",
+      "Calling Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the baraita about blood congestion, Ulla's decree explanation, and the adam nireh ke-meikar / ein meikar le-behemah exchange \u2014 which is precisely what the 'Spices Concern' prose describes in full detail.",
+      "chosen_heading": "Spices Concern",
+      "current_heading": "Spices Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Calling Animal",
+    "candidates": [
+      "Calling Animal",
+      "Disputed Medicine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about calling an animal beyond the tchum and Ravina's resolution about the animal's limit being subsumed within the owner's limit \u2014 are precisely the content described in the 'Calling Animal' prose section.",
+      "chosen_heading": "Calling Animal",
+      "current_heading": "Calling Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Disputed Medicine",
+    "candidates": [
+      "Disputed Medicine",
+      "Jogging Allowed",
+      "Udder Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Na\u1e25man bar Yitz\u1e25ak's statement that crushing herbs is itself a tannaic dispute, and the baraita about running an animal that ate vetch \u2014 all of which is directly discussed in candidate 0's prose, while candidate 1 covers only Rabbi Oshaya's permissive ruling and Rava's decision which are the concluding lines of the same passage but candidate 0 introduces the full context.",
+      "chosen_heading": "Disputed Medicine",
+      "current_heading": "Disputed Medicine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Udder Protection",
+    "candidates": [
+      "Jogging Allowed",
+      "Udder Protection",
+      "Dry vs Catch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the contradiction between two baraitot about goats going out with pouches on their udders, and Rav Yehuda's resolution based on whether the pouch is tightly or loosely tied \u2014 exactly what the 'Udder Protection' prose describes.",
+      "chosen_heading": "Udder Protection",
+      "current_heading": "Udder Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Dry vs Catch",
+    "candidates": [
+      "Dry vs Catch",
+      "Antioch Goats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the leyavesh vs. lachalav distinction and Rabbi Yehuda's ruling, which is precisely what the 'Dry vs Catch' prose section discusses.",
+      "chosen_heading": "Dry vs Catch",
+      "current_heading": "Dry vs Catch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Antioch Goats",
+    "candidates": [
+      "Antioch Goats",
+      "Three Purposes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Antioch goats incident, which is precisely what the 'Antioch Goats' section prose discusses.",
+      "chosen_heading": "Antioch Goats",
+      "current_heading": "Antioch Goats",
+      "moved": false
+    }
+  }
+]

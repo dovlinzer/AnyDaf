@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Get Proof",
+    "candidates": [
+      "Sarah & Rachel Setup",
+      "Rabbi's Position",
+      "RSG's Position",
+      "Rasha Arum Question",
+      "Three Death Stages",
+      "Achareicha vs. Matna",
+      "Bein Hashmashot",
+      "Abaye's Position",
+      "Rava's Position",
+      "Abaye Reverses",
+      "Get Proof",
+      "Proof Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage debates whether kinyan peirot k'kinyan haguf \u2014 the core question of whether usufruct rights equal ownership of the property itself \u2014 which is precisely the principle underlying Rabbi's position described in candidate 1, and the dispute between Rabbi Yo\u1e25anan and Reish Lakish on this question is the Talmudic elaboration of that same principle.",
+      "chosen_heading": "Rabbi's Position",
+      "current_heading": "Get Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Proof Analysis",
+    "candidates": [
+      "Proof Analysis",
+      "Slaves & Shrouds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage \u2014 from Rabbi Yo\u1e25anan's objection to Reish Lakish through the baraita disputes, Abaye's cunning-wicked-person ruling, Rabbi Yo\u1e25anan's halakha like Rabban Shimon ben Gamliel, the matnat shchiv mera discussion, and the get mishna \u2014 is exactly the chain of proof analysis that Candidate 0's prose is dissecting, culminating in the gemara's conclusion about when matnat shchiv mera takes effect and the integrity of the achareicha chain.",
+      "chosen_heading": "Proof Analysis",
+      "current_heading": "Proof Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Slaves & Shrouds",
+    "candidates": [
+      "Slaves & Shrouds",
+      "Esrog Yotzei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items concern Rabbi Yochanan's rulings extending Rabban Shimon ben Gamliel's halakha to the cases of freeing slaves and making burial shrouds, which is precisely what the 'Slaves & Shrouds' prose section discusses in detail.",
+      "chosen_heading": "Slaves & Shrouds",
+      "current_heading": "Slaves & Shrouds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Esrog Yotzei",
+    "candidates": [
+      "Esrog Yotzei",
+      "Intent Presumption",
+      "Everyone Agrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial case of the etrog given with an 'achareicha' condition and concludes it lands in the dispute between Rabbi and Rabban Shimon ben Gamliel, which is precisely what the 'Esrog Yotzei' prose section discusses as the starting point before the gemara challenges that conclusion.",
+      "chosen_heading": "Esrog Yotzei",
+      "current_heading": "Esrog Yotzei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Everyone Agrees",
+    "candidates": [
+      "Intent Presumption",
+      "Everyone Agrees",
+      "Sale vs. Eat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Na\u1e25man bar Yitz\u1e25ak's objection and its immediate punch line ('if she cannot fulfill the mitzvah with it, why did he give it to her?'), which is precisely the argument described in the 'Intent Presumption' prose \u2014 that the gemara reasons from the donor's intent rather than from an abstract ruling about kinyan peirot, exactly matching candidate 0's discussion.",
+      "chosen_heading": "Intent Presumption",
+      "current_heading": "Everyone Agrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Sale vs. Eat",
+    "candidates": [
+      "Everyone Agrees",
+      "Sale vs. Eat",
+      "Estate Entity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states 'machrah achlah \u2014 banu lemachlokes Rabbi v'Rabban Shimon ben Gamliel,' which is precisely the 'Sale vs. Eat' section's subject matter, and the prose there directly discusses this exact Talmudic text about selling or consuming the etrog triggering the dispute.",
+      "chosen_heading": "Sale vs. Eat",
+      "current_heading": "Sale vs. Eat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Estate Entity",
+    "candidates": [
+      "Estate Entity",
+      "Brother Yotzei",
+      "Community Esrog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabba bar Rav Huna ruling about brothers using estate funds to buy an esrog and the eating criterion for being yotzei, which is exactly what the 'Brother Yotzei' prose section analyzes and explains.",
+      "chosen_heading": "Brother Yotzei",
+      "current_heading": "Estate Entity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Community Esrog",
+    "candidates": [
+      "Brother Yotzei",
+      "Community Esrog",
+      "Return Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifies that the brother ruling applies 'davka d'ika esrog l'chol chad u'chad' \u2014 only when each brother has his own esrog \u2014 which is explicitly discussed in the 'Brother Yotzei' prose section as the gemara's specification about absence of objection being the operative fact.",
+      "chosen_heading": "Brother Yotzei",
+      "current_heading": "Community Esrog",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Return Condition",
+    "candidates": [
+      "Community Esrog",
+      "Return Condition",
+      "Valid Conditional Gift",
+      "Tree Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about the etrog given as a gift on condition of return, which is precisely what the 'Return Condition' section's prose introduces and analyzes.",
+      "chosen_heading": "Return Condition",
+      "current_heading": "Return Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tree Transfer",
+    "candidates": [
+      "Valid Conditional Gift",
+      "Tree Transfer",
+      "Transfer to Son",
+      "RSG Allows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the woman transferring the palm tree to Rav Beivai bar Abaye for his lifetime and him then transferring it to his minor son, which matches exactly the prose under 'Tree Transfer' (candidate 1), which discusses this same scenario.",
+      "chosen_heading": "Tree Transfer",
+      "current_heading": "Tree Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "RSG Allows",
+    "candidates": [
+      "Transfer to Son",
+      "RSG Allows",
+      "Hekdesh Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna son of Rav Yehoshua's dismissive critique of Rav Beivai's reasoning and his point that RSG's permission to convey applies only to transfers to third parties, not to oneself \u2014 exactly what the 'RSG Allows' prose describes.",
+      "chosen_heading": "RSG Allows",
+      "current_heading": "RSG Allows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Hekdesh Return",
+    "candidates": [
+      "Hekdesh Return",
+      "L'Hachzir Variants",
+      "Circular Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya of the ox consecrated and returned \u2014 the initial ruling, Rava's challenge, Rav Nachman's response, and Rav Ashi's resolution \u2014 which is precisely what heading 0 ('Hekdesh Return') describes in its prose.",
+      "chosen_heading": "Hekdesh Return",
+      "current_heading": "Hekdesh Return",
+      "moved": false
+    }
+  }
+]

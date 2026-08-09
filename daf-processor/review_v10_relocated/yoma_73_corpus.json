@@ -1,0 +1,568 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rashi: Painting & Textile",
+    "candidates": [
+      "Rokeim & Choshev",
+      "Rashi: Painting & Textile",
+      "One Image vs. Two Images"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the distinction between *ma'aseh rokeim* and *ma'aseh choshev* and Rabbi Elazar's reconciliation of the two terms, which is precisely what heading 0 ('Rokeim & Choshev') describes as its opening topic, whereas heading 1 describes Rashi's elaboration on Rabbi Eliezer's explanation as if it were already introduced.",
+      "chosen_heading": "Rokeim & Choshev",
+      "current_heading": "Rashi: Painting & Textile",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "One Image vs. Two Images",
+    "candidates": [
+      "Rashi: Painting & Textile",
+      "One Image vs. Two Images",
+      "Eight Garments: Urim",
+      "Mashuach Milchama Garmen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Ne\u1e25emya's distinction between rokeim (needlework, one face) and choshev (woven work, two faces), which is precisely what the 'One Image vs. Two Images' section prose describes.",
+      "chosen_heading": "One Image vs. Two Images",
+      "current_heading": "One Image vs. Two Images",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Mashuach Milchama Garmen",
+    "candidates": [
+      "Eight Garments: Urim",
+      "Mashuach Milchama Garmen",
+      "Aharon's Successors",
+      "Inheritance Objection",
+      "Asirit Ha'eifah Braita",
+      "Seven-Day Initiation",
+      "Holy of Holies Access",
+      "Primary Role Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mashuach Milchama Garmen",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Dimi's ruling that the Mashuach Milchama wears the eight garments and the biblical source (Exodus 29:29), which matches the 'Mashuach Milchama Garmen' and 'Aharon's Successors' prose \u2014 but most precisely item 1 closes the Rav Dimi teaching under heading 1, while item 2 begins Rav Adda bar Ahava's objection, which is the exact content described under heading 3 ('Inheritance Objection').",
+      "second_heading": "Inheritance Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 3 continues and concludes the baraita cited by Rav Adda bar Ahava regarding the verse 'Seven days shall he wear them\u2026 who comes into the Tent of Meeting,' which is the precise objection discussed under heading 3 ('Inheritance Objection'), not the resolution under heading 5.",
+      "current_heading": "Mashuach Milchama Garmen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Primary Role Distinction",
+    "candidates": [
+      "Aharon's Successors",
+      "Inheritance Objection",
+      "Asirit Ha'eifah Braita",
+      "Seven-Day Initiation",
+      "Holy of Holies Access",
+      "Primary Role Distinction",
+      "No Four, No Eight",
+      "Abaye's Objection",
+      "Eivah Prevention Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Na\u1e25man bar Yitz\u1e25ak's explanation that the baraita's criterion is 'whoever's primary anointment is for the Tent of Meeting,' excluding the Mashuach Milchama whose primary anointment is for war \u2014 which is precisely what the 'Primary Role Distinction' prose describes.",
+      "chosen_heading": "Primary Role Distinction",
+      "current_heading": "Primary Role Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Eivah Prevention Doctrine",
+    "candidates": [
+      "No Four, No Eight",
+      "Abaye's Objection",
+      "Eivah Prevention Doctrine",
+      "Challenge to Eivah Rule",
+      "High Priest Privileges"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "No Four, No Eight",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the baraita stating the priest anointed for war wears neither four nor eight garments, followed by Abaye's resolution invoking eivah and ma'alin bakodesh \u2014 exactly what candidates 0, 1, and 2 discuss, with candidate 0 being the best fit as the starting point of this entire sub-discussion including the baraita and Abaye's response.",
+      "second_heading": "Challenge to Eivah Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Adda bar Abba's challenge introducing a tanna who rejects eivah yet still denies the eight garments, which is precisely what candidate 3's prose describes.",
+      "current_heading": "Eivah Prevention Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "High Priest Privileges",
+    "candidates": [
+      "Challenge to Eivah Rule",
+      "High Priest Privileges",
+      "Temple Service Privileges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items enumerate the distinctions between a High Priest and a common priest (the bull offerings, tenth of an ephah, mourning restrictions, impurity, virgin marriage, and releasing the accidental killer), which is precisely what the 'High Priest Privileges' prose describes.",
+      "chosen_heading": "High Priest Privileges",
+      "current_heading": "High Priest Privileges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Temple Service Privileges",
+    "candidates": [
+      "Temple Service Privileges",
+      "Non-Anointed High Priest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the specific privileges of the Kohen Gadol (mourner sacrifice, portion rights, eight garments, exemption from impurity offering, Yom Kippur exclusivity), which is precisely what the 'Temple Service Privileges' prose section explains in detail.",
+      "chosen_heading": "Temple Service Privileges",
+      "current_heading": "Temple Service Privileges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Non-Anointed High Priest",
+    "candidates": [
+      "Non-Anointed High Priest",
+      "Mashuach Milchama: 5 Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the application of High Priest privileges to the merubeh begadim and the mashuach she'avar respectively, which is exactly what the 'Non-Anointed High Priest' section's prose describes in detail.",
+      "chosen_heading": "Non-Anointed High Priest",
+      "current_heading": "Non-Anointed High Priest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Mashuach Milchama: 5 Laws",
+    "candidates": [
+      "Mashuach Milchama: 5 Laws",
+      "Mashuach Milchama: No"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists exactly the five (or six per Rabbi Yehuda) items that apply to the Mashuach Milchama, which is precisely what heading 0 ('Mashuach Milchama: 5 Laws') and its prose describe.",
+      "chosen_heading": "Mashuach Milchama: 5 Laws",
+      "current_heading": "Mashuach Milchama: 5 Laws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Mashuach Milchama: No",
+    "candidates": [
+      "Mashuach Milchama: No",
+      "Battle-Context Inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the rejection of the eivah proof via the bedizuta distinction, the Rabbi Abbahu/Rabbi \u1e24iyya bar Abba episode, and Rav Pappa's challenge \u2014 are explicitly described and analyzed in the prose under heading 0, making the current placement correct.",
+      "chosen_heading": "Mashuach Milchama: No",
+      "current_heading": "Mashuach Milchama: No",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Battle-Context Inquiry",
+    "candidates": [
+      "Battle-Context Inquiry",
+      "Asked in the Garments",
+      "Facing & Response Format"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Ravin's statement and the supporting baraita using the word 'nishal' (consulted/asked), which is precisely what candidate 1's prose discusses \u2014 the baraita 'begadim sheKohen Gadol meshamesh bahen, Mashuach Milchama nishal bahen' and the operative distinction between being asked versus serving.",
+      "chosen_heading": "Asked in the Garments",
+      "current_heading": "Battle-Context Inquiry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Facing & Response Format",
+    "candidates": [
+      "Asked in the Garments",
+      "Facing & Response Format",
+      "Soft Verbalization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the mechanics of consulting the Urim v'Tummim \u2014 the physical positioning and the format of the verbal response \u2014 which is precisely what the 'Facing & Response Format' prose discusses.",
+      "chosen_heading": "Facing & Response Format",
+      "current_heading": "Facing & Response Format",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Soft Verbalization",
+    "candidates": [
+      "Soft Verbalization",
+      "One Question Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the requirement to verbalize the inquiry softly (not loudly, not silently in the heart), using Hannah's prayer as the model \u2014 exactly what the 'Soft Verbalization' section's prose describes.",
+      "chosen_heading": "Soft Verbalization",
+      "current_heading": "Soft Verbalization",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "One Question Rule",
+    "candidates": [
+      "One Question Rule",
+      "David's Questions Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the passage about asking two questions out of order and being answered in order, which is precisely what the 'One Question Rule' prose describes \u2014 the resolution that David asked shelo keseder and the Urim v'Tummim answered keseder, after which he re-asked in order.",
+      "chosen_heading": "One Question Rule",
+      "current_heading": "One Question Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "David's Questions Example",
+    "candidates": [
+      "David's Questions Example",
+      "Urim V'Tummim Finality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes David asking two questions simultaneously and receiving both answers at once, which is explicitly discussed in the 'David's Questions Example' prose section.",
+      "chosen_heading": "David's Questions Example",
+      "current_heading": "David's Questions Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Urim V'Tummim Finality",
+    "candidates": [
+      "Urim V'Tummim Finality",
+      "Name Origins",
+      "Letter Mechanism Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Urim V'Tummim Finality",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 3-4 discuss the finality/irrevocability of Urim VeTummim decrees and the Gibeah objection/resolution, matching heading 0's prose exactly, but item 2 on the etymology of the name belongs under heading 1 ('Name Origins').",
+      "second_heading": "Name Origins",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why the Urim VeTummim is called by that name and explains the meanings of 'Urim' and 'Tummim', which matches heading 1's prose on lama nikra shemam Urim v'Tummim exactly.",
+      "current_heading": "Urim V'Tummim Finality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Letter Mechanism Dispute",
+    "candidates": [
+      "Name Origins",
+      "Letter Mechanism Dispute",
+      "Alphabet Completion: Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the dispute between Rabbi Yo\u1e25anan and Reish Lakish about how the Urim v'Tummim communicated (protruding vs. joining letters), which matches exactly the 'Letter Mechanism Dispute' section's prose.",
+      "chosen_heading": "Letter Mechanism Dispute",
+      "current_heading": "Letter Mechanism Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Alphabet Completion: Rav",
+    "candidates": [
+      "Alphabet Completion: Rav",
+      "Ruach HaKodesh: Evyatar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the alphabet completion problem and the solutions involving 'Abraham Isaac and Jacob' and 'shivtei Yeshurun,' which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Alphabet Completion: Rav",
+      "current_heading": "Alphabet Completion: Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Ruach HaKodesh: Evyatar",
+    "candidates": [
+      "Ruach HaKodesh: Evyatar",
+      "Ruach HaKodesh & Urim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about the condition of ruach hakodesh and specifically discusses Evyatar's failed inquiry, which is exactly what heading 0 ('Ruach HaKodesh: Evyatar') addresses in its prose.",
+      "chosen_heading": "Ruach HaKodesh: Evyatar",
+      "current_heading": "Ruach HaKodesh: Evyatar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Ruach HaKodesh & Urim",
+    "candidates": [
+      "Ruach HaKodesh & Urim",
+      "Eli & Chanah Anecdote",
+      "Eligible Questioners",
+      "Yehoshua Paradigm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why both ruach hakodesh and Urim VeTummim are needed, and answers that the Divine Spirit assisted the Urim VeTummim \u2014 exactly what the prose under 'Ruach HaKodesh & Urim' discusses.",
+      "chosen_heading": "Ruach HaKodesh & Urim",
+      "current_heading": "Ruach HaKodesh & Urim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Yehoshua Paradigm",
+    "candidates": [
+      "Eli & Chanah Anecdote",
+      "Eligible Questioners",
+      "Yehoshua Paradigm",
+      "Seven Plus One Structure",
+      "Covenant & Structure",
+      "Five Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Abbahu's derivation from the Pinchas verse identifying 'hu' as king, 'kol Bnei Yisrael ito' as Mashuach Milchama, and 'kol ha'eidah' as Sanhedrin \u2014 exactly what the 'Yehoshua Paradigm' prose describes.",
+      "chosen_heading": "Yehoshua Paradigm",
+      "current_heading": "Yehoshua Paradigm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Five Categories",
+    "candidates": [
+      "Seven Plus One Structure",
+      "Covenant & Structure",
+      "Five Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the hadran formula concluding the first seven chapters of Yoma, which directly corresponds to the prose in heading 0 that explicitly discusses the words 'hadran alach ba lo Kohen' and the tractate's architectural structure.",
+      "chosen_heading": "Seven Plus One Structure",
+      "current_heading": "Five Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Five Categories",
+    "candidates": [
+      "Five Categories",
+      "King & Bride Exceptions",
+      "Childbirth Shoe Exception",
+      "Violation Minimums"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna lists all five prohibited categories on Yom Kippur and introduces the exceptions, matching the 'Five Categories' section prose which discusses the full list of prohibitions framed as 'assur'.",
+      "chosen_heading": "Five Categories",
+      "current_heading": "Five Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Violation Minimums",
+    "candidates": [
+      "King & Bride Exceptions",
+      "Childbirth Shoe Exception",
+      "Violation Minimums",
+      "Combination Rules",
+      "Assur's Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the minimum measures for eating/drinking and the combination rules (foods combine, drinks combine, but eating and drinking don't combine), which maps precisely to candidate 3 'Combination Rules' prose, while the current placement under 'Violation Minimums' only covers the first half of the mishna's content.",
+      "chosen_heading": "Combination Rules",
+      "current_heading": "Violation Minimums",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Assur's Purpose",
+    "candidates": [
+      "Combination Rules",
+      "Assur's Purpose",
+      "Biblical vs. Rabbinic",
+      "Agreed Prohibition",
+      "Oath & Non-Kosher Food",
+      "Kolel Resolution",
+      "Reish Lakish: Oath Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why the mishna uses the word 'assur' rather than stronger language, and Rabbi Ila/Yirmiyah's answer that it is needed for the case of chatzi shiur \u2014 exactly what the 'Assur's Purpose' section's prose discusses.",
+      "chosen_heading": "Assur's Purpose",
+      "current_heading": "Assur's Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155,
+      156,
+      157,
+      158,
+      159
+    ],
+    "current_heading": "Reish Lakish: Oath Intent",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Agreed Prohibition",
+      "Oath & Non-Kosher Food",
+      "Kolel Resolution",
+      "Reish Lakish: Oath Intent",
+      "Rabbinical \u2260 Pre-Sworn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All six items form a continuous sugya about the chatzi shiur debate (Rabbi Yochanan vs. Reish Lakish) and its implications for oath liability, culminating in Reish Lakish's two-scenario resolution (explicit chatzi shiur oath or stam aliba d'Rabbi Akiva), which is precisely what heading 4 ('Reish Lakish: Oath Intent') describes.",
+      "chosen_heading": "Reish Lakish: Oath Intent",
+      "current_heading": "Reish Lakish: Oath Intent",
+      "moved": false
+    }
+  }
+]

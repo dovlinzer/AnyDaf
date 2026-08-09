@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Material Types",
+    "candidates": [
+      "Blood & Launder Chatat",
+      "Material Types",
+      "Rabbi Yehuda's View",
+      "Rabbi Eliezer's View",
+      "Laundering Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the mishna's case of blood spraying onto the hide before/after flaying and Rabbi Yehuda's ruling, which is precisely what the 'Material Types' prose discusses \u2014 the scenario of blood splattering onto an unflayed hide and the question of when skin becomes equivalent to a garment.",
+      "chosen_heading": "Material Types",
+      "current_heading": "Material Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Laundering Criteria",
+    "candidates": [
+      "Rabbi Yehuda's View",
+      "Rabbi Eliezer's View",
+      "Laundering Criteria",
+      "Baraita Derivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Eliezer's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Elazar's ruling about the conditions for laundering (af mishehufshat eino taun kibus), which belongs under 'Rabbi Eliezer's View' \u2014 the prose there explicitly discusses 'af mishehufshat eino taun kibus' and Rabbi Eliezer's position that even after flaying no laundering is required.",
+      "second_heading": "Laundering Criteria",
+      "second_confidence": "high",
+      "second_reason": "Item 2 lists the qualifying materials and the three criteria (garment/sackcloth/hide, laundering in sacred place, breaking earthenware, scouring copper), which matches precisely the 'Laundering Criteria' prose that discusses echad habeged v'echad hasak v'echad ha-or and v'hakibus b'makom kadosh.",
+      "current_heading": "Laundering Criteria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Baraita Derivation",
+    "candidates": [
+      "Baraita Derivation",
+      "Raui l'Kabbel Tumah",
+      "Mekabbel Tumah",
+      "Raui vs. Mekabbel",
+      "Cloth Patch Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the baraita derivation \u2014 the Gemara's question 'from where are these matters derived,' the baraita's expansion from 'garment' to flayed hide, and both Rabbi Yehuda's and Rabbi Elazar's readings of the verse \u2014 which is precisely what the 'Baraita Derivation' prose section describes.",
+      "chosen_heading": "Baraita Derivation",
+      "current_heading": "Baraita Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Cloth Patch Example",
+    "candidates": [
+      "Raui l'Kabbel Tumah",
+      "Mekabbel Tumah",
+      "Raui vs. Mekabbel",
+      "Cloth Patch Example",
+      "Embroidery Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Abaye cloth-patch example (matlit p'chuta mishalosh) and the distinction between raui and mekabbel tumah positions, which is precisely what the 'Cloth Patch Example' section's prose discusses.",
+      "chosen_heading": "Cloth Patch Example",
+      "current_heading": "Cloth Patch Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Embroidery Example",
+    "candidates": [
+      "Embroidery Example",
+      "Floor Mat Example",
+      "Trimming Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a garment (beged) upon which someone intended to place an image/embroidery, which matches precisely the 'Embroidery Example' heading's prose about a garment held back due to intention to embroider, not a floor mat (utzpa) example.",
+      "chosen_heading": "Embroidery Example",
+      "current_heading": "Embroidery Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Trimming Intent",
+    "candidates": [
+      "Floor Mat Example",
+      "Trimming Intent",
+      "Spot of Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about the utzeva (unfinished hide) intended for trimming as a practical difference between the two opinions, which matches the 'Floor Mat Example' prose that describes exactly this scenario \u2014 Rava's second example involving an item intended to be trimmed and the debate between Rabbi Yehuda and Rabbi Eliezer's positions \u2014 rather than the 'Trimming Intent' section which discusses only the supporting baraita.",
+      "chosen_heading": "Floor Mat Example",
+      "current_heading": "Trimming Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Spot of Blood",
+    "candidates": [
+      "Trimming Intent",
+      "Spot of Blood",
+      "Tumah Requirement",
+      "Laundering Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Spot of Blood",
+      "first_confidence": "high",
+      "first_reason": "Item 1 derives the rule that only the specific spot of blood requires laundering, matching exactly the 'Spot of Blood' section's prose about mekom dam bilvad.",
+      "second_heading": "Tumah Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the stam mishna's use of 'raui lekabel tumah' aligning with Rabbi Yehuda, matching exactly the 'Tumah Requirement' section's prose about stama k'Rabbi Yehuda.",
+      "current_heading": "Spot of Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Laundering Method",
+    "candidates": [
+      "Tumah Requirement",
+      "Laundering Method",
+      "Consensus Items",
+      "Leather Laundering Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the 'ra'uy lekibus' criterion and the exclusion of vessels because they are cleaned by scraping rather than laundering, which matches exactly the prose under 'Laundering Method' (candidate 1).",
+      "chosen_heading": "Laundering Method",
+      "current_heading": "Laundering Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Leather Laundering Debate",
+    "candidates": [
+      "Consensus Items",
+      "Leather Laundering Debate",
+      "Rav's Shoe Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the leather laundering debate \u2014 the contradiction from Shabbat laws and Abaye's resolution via the Rabbis/Acheirim baraita \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Leather Laundering Debate",
+      "current_heading": "Leather Laundering Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rav's Shoe Example",
+    "candidates": [
+      "Rav's Shoe Example",
+      "Abaye's Resolution",
+      "Kishkush Critical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about identifying whose opinion Rav's shoe-cleaning practice aligns with (the Rabbis/tanna kama), which is precisely what the 'Rav's Shoe Example' section discusses.",
+      "chosen_heading": "Rav's Shoe Example",
+      "current_heading": "Rav's Shoe Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Kishkush Critical",
+    "candidates": [
+      "Abaye's Resolution",
+      "Kishkush Critical",
+      "Fabric vs. Leather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items trace Rava's evolving analysis \u2014 his initial objection from the verse, his soft/hard distinction, his retraction, the tzara'at exception, and his final kishkush principle \u2014 which is precisely what the 'Kishkush Critical' prose describes in detail.",
+      "chosen_heading": "Kishkush Critical",
+      "current_heading": "Kishkush Critical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Fabric vs. Leather",
+    "candidates": [
+      "Fabric vs. Leather",
+      "Soft/Hard Leather",
+      "Rav Pappa's Challenge",
+      "Practical Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in Candidate 0's prose: Item 1 covers the Rav \u1e24iyya bar Ashi shichshuch story, Item 2 covers the 'beged shriato zehu kibuso' principle, and Item 3 extends Rava's reasoning about why soaking fabric constitutes laundering \u2014 all of which are explicitly discussed in Candidate 0.",
+      "chosen_heading": "Fabric vs. Leather",
+      "current_heading": "Fabric vs. Leather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Practical Ruling",
+    "candidates": [
+      "Soft/Hard Leather",
+      "Rav Pappa's Challenge",
+      "Practical Ruling",
+      "Breaking Pottery"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Soft/Hard Leather",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses why flaxseed soaking is prohibited (discharges causing kneading), which relates to the soft/hard leather analysis of what constitutes prohibited laundering activity and the threshold conditions.",
+      "second_heading": "Rav Pappa's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's public ruling on laundering shoes, Rav Pappa's challenge citing Rav Chiyya bar Ashi's testimony, and Rava's retraction \u2014 precisely the content described in the 'Rav Pappa's Challenge' prose section.",
+      "current_heading": "Practical Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Breaking Pottery",
+    "candidates": [
+      "Breaking Pottery",
+      "Metal Vessels",
+      "Chatat Uniqueness",
+      "Stringency List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives all three rulings (laundering, breaking earthenware, scouring/rinsing copper) from their biblical sources in one continuous baraita, and the current heading 'Breaking Pottery' with its prose about deriving these rulings beginning with the earthenware vessel verse is the best match, as it introduces the full derivation sequence that the passage presents.",
+      "chosen_heading": "Breaking Pottery",
+      "current_heading": "Breaking Pottery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Stringency List",
+    "candidates": [
+      "Metal Vessels",
+      "Chatat Uniqueness",
+      "Stringency List",
+      "Rejections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks 'are there no more halakhot specific to a sin offering?' and raises the case of blood entering the innermost sanctum, then dismisses it by limiting the mishna to external sin offerings \u2014 this is precisely the content described in the 'Stringency List' prose about the Gemara entertaining candidates including chatat penimit/inner chatat.",
+      "chosen_heading": "Stringency List",
+      "current_heading": "Stringency List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Rejections",
+    "candidates": [
+      "Rejections",
+      "Blood Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are challenge-and-rejection pairs matching exactly the content described in the 'Rejections' prose: Rabbi Akiva's ruling on blood entering the heichal, the chatat shmiyas hakol exception for karet, and Rabbi Yishmael's four applications ruling.",
+      "chosen_heading": "Rejections",
+      "current_heading": "Rejections",
+      "moved": false
+    }
+  }
+]

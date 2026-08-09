@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Sura vs Pumbedisa",
+    "candidates": [
+      "Two/Three Stages",
+      "Three/Four Stages",
+      "Sura vs Pumbedisa",
+      "Planks & Baskets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together cover the Sura/Pumbedita versions of the dispute and the resolution that Rav and Shmuel don't actually disagree (only whether to count the final water rinse), which is precisely what candidate 2's prose describes.",
+      "chosen_heading": "Sura vs Pumbedisa",
+      "current_heading": "Sura vs Pumbedisa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Planks & Baskets",
+    "candidates": [
+      "Planks & Baskets",
+      "Vat vs Basket",
+      "Basket Materials",
+      "Season vs Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange \u2014 the question about wicker nets and Rabbi Abbahu's citation of the baraita \u2014 which is precisely what heading 0 ('Planks & Baskets') describes, including the gorgi question and the baraita's categories of rinsing and drying.",
+      "chosen_heading": "Planks & Baskets",
+      "current_heading": "Planks & Baskets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Season vs Months",
+    "candidates": [
+      "Vat vs Basket",
+      "Basket Materials",
+      "Season vs Months",
+      "Boiling/Hot Oil",
+      "Running Water 12hrs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's objection that Rabban Shimon ben Gamliel's opinion equals the first tanna's, and the resolution involving early and late ripening seasons (chorfi v'afli), which is precisely what the 'Season vs Months' prose describes.",
+      "chosen_heading": "Season vs Months",
+      "current_heading": "Season vs Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Running Water 12hrs",
+    "candidates": [
+      "Boiling/Hot Oil",
+      "Running Water 12hrs",
+      "Ona Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yosei's boiling/scalding option, Rabban Shimon ben Gamliel's running-water option, and the gemara's correction of the baraita's concluding clause about taharos/yayin nesech \u2014 are all explicitly discussed together in the prose of heading 1 ('Running Water 12hrs'), which covers exactly this sequence of the baraita and the gemara's emendation.",
+      "chosen_heading": "Running Water 12hrs",
+      "current_heading": "Running Water 12hrs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Ona Definition",
+    "candidates": [
+      "Ona Definition",
+      "Hair vs Wool"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the definition and duration of an 'ona' (twelve-hour interval) and the resolution of the apparent dispute between Rabbi Yo\u1e25anan's two rulings, which is precisely what the 'Ona Definition' section's prose describes.",
+      "chosen_heading": "Ona Definition",
+      "current_heading": "Ona Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Hair vs Wool",
+    "candidates": [
+      "Hair vs Wool",
+      "Flax & Knots",
+      "Woven Baskets",
+      "Cluster Tamei"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hair vs Wool",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the straining bags (ravukei) made of hair and wool \u2014 exactly what headings 0 ('Hair vs Wool') and 1 ('Flax & Knots') cover, but item 1 also includes the flax/knots ruling for the bags AND the opening of the baskets section (palm-strip baskets), making the real seam after item 1 where the baskets topic fully takes over.",
+      "second_heading": "Woven Baskets",
+      "second_confidence": "high",
+      "second_reason": "Item 2 completes the baskets/strainers discussion (tzavta, flax, knots) which matches heading 2 ('Woven Baskets') precisely.",
+      "current_heading": "Hair vs Wool",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Cluster Tamei",
+    "candidates": [
+      "Flax & Knots",
+      "Woven Baskets",
+      "Cluster Tamei",
+      "Rodent Analogy",
+      "Liquid Flow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the dispute between Rabbi Yehuda HaNasi and Rabbi \u1e24iyya about an am ha'aretz touching grape clusters in a winepress, which is precisely what the 'Cluster Tamei' section's prose discusses.",
+      "chosen_heading": "Cluster Tamei",
+      "current_heading": "Cluster Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Liquid Flow",
+    "candidates": [
+      "Rodent Analogy",
+      "Liquid Flow",
+      "Mishna Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit \u2014 the challenge from the oil press mishna, its resolution via cluster interruption, and the concluding ruling \u2014 which precisely matches the 'Liquid Flow' prose that describes exactly this question-answer-conclusion sequence.",
+      "chosen_heading": "Liquid Flow",
+      "current_heading": "Liquid Flow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Mishna Methods",
+    "candidates": [
+      "Mishna Methods",
+      "Forty Seahs",
+      "Klei Midyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself about kashering utensils purchased from gentiles, which matches exactly the 'Mishna Methods' section prose that directly quotes and explains this same mishna text.",
+      "chosen_heading": "Mishna Methods",
+      "current_heading": "Mishna Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Klei Midyan",
+    "candidates": [
+      "Forty Seahs",
+      "Klei Midyan",
+      "Mei Nidah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage teaches that all vessels require immersion in forty seah and derives this from the verse \u2014 this is precisely the content described in the 'Forty Seahs' prose, which summarizes the baraita about v'chulan tzrichin tevilah b'arbaim seah, while the 'Klei Midyan' prose discusses the broader kashering interpretation of the Midian passage rather than the forty seah derivation specifically.",
+      "chosen_heading": "Forty Seahs",
+      "current_heading": "Klei Midyan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Mei Nidah",
+    "candidates": [
+      "Klei Midyan",
+      "Mei Nidah",
+      "Two Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the continuous Bar Kappara baraita about 'b'mei nidah' \u2014 first excluding the sprinkling interpretation via 'ach,' then deriving the forty se'ah mikvah requirement \u2014 which is precisely what the 'Mei Nidah' prose section describes.",
+      "chosen_heading": "Mei Nidah",
+      "current_heading": "Mei Nidah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Two Requirements",
+    "candidates": [
+      "Two Requirements",
+      "Brand New",
+      "Cookware Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items explain why both 'v'taher' and 'b'mei nidah' were necessary \u2014 exactly the content discussed in the 'Two Requirements' prose, which explicitly covers both the 'any amount of water' reasoning and the 'he'erev shemesh' reasoning.",
+      "chosen_heading": "Two Requirements",
+      "current_heading": "Two Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Cookware Only",
+    "candidates": [
+      "Brand New",
+      "Cookware Only",
+      "Purchased"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Na\u1e25man's statement about new vessels requiring tevilah AND Rav Sheshet's objection about scissors with the response limiting it to cookware \u2014 the entire exchange belongs under 'Brand New' whose prose explicitly discusses this complete Gemara passage, while 'Cookware Only' only discusses the second half (Rav Sheshet's objection) as if it were a separate unit.",
+      "chosen_heading": "Brand New",
+      "current_heading": "Cookware Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Purchased",
+    "candidates": [
+      "Cookware Only",
+      "Purchased",
+      "Metal Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling about purchased vs. borrowed vessels (lekuchin vs. sheulin), which is precisely what the 'Purchased' section's prose discusses.",
+      "chosen_heading": "Purchased",
+      "current_heading": "Purchased",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Metal Only",
+    "candidates": [
+      "Metal Only",
+      "Glass",
+      "Glazed Pottery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Yitzchak bar Yosef's marda vessel and Rabbi Yaakov's clarification that only metal vessels are mentioned in the Torah passage, which is exactly what the 'Metal Only' section's prose describes.",
+      "chosen_heading": "Metal Only",
+      "current_heading": "Metal Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Glazed Pottery",
+    "candidates": [
+      "Glass",
+      "Glazed Pottery",
+      "Collateral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the glass utensils ruling (Rav Ashi's statement) and the glazed pottery dispute, and the 'Glass' section's prose explicitly discusses both topics together, while the current 'Glazed Pottery' heading's prose already summarizes the kunya dispute separately \u2014 the Talmudic text containing both topics together belongs under the 'Glass' heading which introduces Rav Ashi's statement that leads directly into the kunya discussion.",
+      "chosen_heading": "Glass",
+      "current_heading": "Glazed Pottery",
+      "moved": true
+    }
+  }
+]

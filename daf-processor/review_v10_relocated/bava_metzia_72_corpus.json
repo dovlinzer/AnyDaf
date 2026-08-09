@@ -1,0 +1,319 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Case 1: Jew Borrows",
+    "candidates": [
+      "Intro: Ribbit Structure",
+      "Case 1: Jew Borrows",
+      "Two Scenarios",
+      "Permitted Method",
+      "Case 2: Non-Jew Borrows",
+      "Impermissible Method",
+      "Conceptual Challenge",
+      "Tosafot's Question",
+      "Gemara's Question",
+      "No Shlichus for Non-Jew",
+      "Rav Huna's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Beraita presenting the two parallel cases (Jew borrows from non-Jew, and non-Jew borrows from Jew), which is exactly what 'Case 1: Jew Borrows' introduces as the Beraita's content \u2014 the subsequent headings (Cases 2, Permitted Method, etc.) then analyze these cases in detail, but the raw Beraita text itself belongs under the heading that introduces it.",
+      "chosen_heading": "Case 1: Jew Borrows",
+      "current_heading": "Case 1: Jew Borrows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Rav Huna's Answer",
+    "candidates": [
+      "Two Scenarios",
+      "Permitted Method",
+      "Case 2: Non-Jew Borrows",
+      "Impermissible Method",
+      "Conceptual Challenge",
+      "Tosafot's Question",
+      "Gemara's Question",
+      "No Shlichus for Non-Jew",
+      "Rav Huna's Answer",
+      "Full Payment Required",
+      "Rav Ashi's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about the 'no agency for a gentile' problem raised in the reisha \u2014 exactly what candidate 7 ('No Shlichus for Non-Jew') describes in its prose, including the Rav Huna and Rav Pappa answers and the Gemara's rejections of each.",
+      "chosen_heading": "No Shlichus for Non-Jew",
+      "current_heading": "Rav Huna's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Ashi's Solution",
+    "candidates": [
+      "Full Payment Required",
+      "Rav Ashi's Solution",
+      "Rejection of Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement proposing that ein shlichus l'nochri applies only to teruma but not to the rest of Torah, which is exactly what the 'Rav Ashi's Solution' section describes.",
+      "chosen_heading": "Rav Ashi's Solution",
+      "current_heading": "Rav Ashi's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Rejection of Rav Ashi",
+    "candidates": [
+      "Rejection of Rav Ashi",
+      "Ravina's Zechiyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present the Gemara's rejection of Rav Ashi's opinions using the 'atem gam atem' derivation from terumah \u2014 exactly the content described in the 'Rejection of Rav Ashi' prose, including both versions of Rav Ashi's claim and both refutations.",
+      "chosen_heading": "Rejection of Rav Ashi",
+      "current_heading": "Rejection of Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Ravina's Zechiyah",
+    "candidates": [
+      "Ravina's Zechiyah",
+      "Rejection of Zechiyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Ravina's zechiyah argument using the katan analogy, which is precisely what the 'Ravina's Zechiyah' prose section describes.",
+      "chosen_heading": "Ravina's Zechiyah",
+      "current_heading": "Ravina's Zechiyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rejection of Zechiyah",
+    "candidates": [
+      "Rejection of Zechiyah",
+      "Reconsolidation Case",
+      "Before Conversion",
+      "After Conversion",
+      "Interest Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's rejection ('v'lo hi') distinguishing Jews from gentiles regarding eligibility for shlichus/agency, which is precisely what the 'Rejection of Zechiyah' section's prose discusses.",
+      "chosen_heading": "Rejection of Zechiyah",
+      "current_heading": "Rejection of Zechiyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Interest Analysis",
+    "candidates": [
+      "Reconsolidation Case",
+      "Before Conversion",
+      "After Conversion",
+      "Interest Analysis",
+      "Reverse Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Beraita text introduces the entire reconsolidation-and-conversion scenario (both before and after cases together), matching the 'Reconsolidation Case' heading which frames the new Beraita and its overall context, rather than any of the sub-sections that analyze specific rulings.",
+      "chosen_heading": "Reconsolidation Case",
+      "current_heading": "Interest Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Reverse Scenario",
+    "candidates": [
+      "Interest Analysis",
+      "Reverse Scenario",
+      "Rabbi Yossi",
+      "Rava's Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the reverse scenario (non-Jew borrowing from a Jew, then converting) with the same two-possibility ruling, which is exactly what the 'Reverse Scenario' prose describes.",
+      "chosen_heading": "Reverse Scenario",
+      "current_heading": "Reverse Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rava's Rationale",
+    "candidates": [
+      "Rabbi Yossi",
+      "Rava's Rationale",
+      "Document Status",
+      "Rabbi Meir Position",
+      "Chachamim Position",
+      "Debate Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei's ruling and Rava's rationale as a single continuous unit, and candidate 0 ('Rabbi Yossi') is the section whose prose explicitly discusses Rabbi Yossi's ruling about the non-Jewish borrower converting \u2014 the Rava rationale section (candidate 1) is a downstream elaboration that the essay author separated artificially, but the Talmudic text itself is one unified passage best placed under the Rabbi Yossi heading where the core ruling is introduced.",
+      "chosen_heading": "Rabbi Yossi",
+      "current_heading": "Rava's Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Debate Basis",
+    "candidates": [
+      "Document Status",
+      "Rabbi Meir Position",
+      "Chachamim Position",
+      "Debate Basis",
+      "Predated Document"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita including both Rabbi Meir's position, the Chachamim's position, and the Gemara's explanation of their dispute \u2014 it belongs under the introductory 'Document Status' heading that sets up the entire discussion of the ribbit shtar, since all elements flow from that single baraita unit.",
+      "chosen_heading": "Document Status",
+      "current_heading": "Debate Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Predated Document",
+    "candidates": [
+      "Debate Basis",
+      "Predated Document",
+      "Severability Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishna about antedated promissory notes being invalid and the Gemara's initial question about why they can't at least collect from the second date, which is precisely the content described in the 'Predated Document' section's prose.",
+      "chosen_heading": "Predated Document",
+      "current_heading": "Predated Document",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Severability Test",
+    "candidates": [
+      "Severability Test",
+      "Story Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Reish Lakish/Rabbi Yochanan dispute about whether voiding the predated shtar reflects Rabbi Meir's penalty or a rabbinic gezeirah, which is precisely what the 'Severability Test' prose section discusses in detail.",
+      "chosen_heading": "Severability Test",
+      "current_heading": "Severability Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Story Setup",
+    "candidates": [
+      "Story Setup",
+      "Transfer to Minor",
+      "Ruse Discovered",
+      "Liens Question",
+      "Abaye's View",
+      "Rava's Objection",
+      "Shevach Karka'ot",
+      "Legitimate vs. Ruse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the initial setup of the story \u2014 the creditor who mortgaged the orchard for three years and then threatens to hide the mortgage document and claim purchase \u2014 which is exactly what the 'Story Setup' prose describes.",
+      "chosen_heading": "Story Setup",
+      "current_heading": "Story Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Legitimate vs. Ruse",
+    "candidates": [
+      "Transfer to Minor",
+      "Ruse Discovered",
+      "Liens Question",
+      "Abaye's View",
+      "Rava's Objection",
+      "Shevach Karka'ot",
+      "Legitimate vs. Ruse"
+    ],
+    "result": null
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Romans & Deut 31:16",
+    "candidates": [
+      "Perek Order Correction",
+      "Rambam vs Gemara",
+      "Eschatological Terms",
+      "Torah Rewards Problem",
+      "Rambam & False Messiahs",
+      "Romans & Deut 31:16",
+      "R. Yochanan's Version",
+      "Minim & Forgery"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Romans & Deut 31:16",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the Romans' question to Rabbi Yehoshua ben Chananya and his response from Devarim 31:16, which is precisely what the prose of heading 5 ('Romans & Deut 31:16') describes in detail.",
+      "second_heading": "R. Yochanan's Version",
+      "second_confidence": "high",
+      "second_reason": "Item 2 includes the Romans' counter-objection and Rabbi Yehoshua's concession, but concludes with Rabbi Yochanan's independent transmission of the same teaching in the name of Rabbi Shimon ben Yochai, which is exactly what heading 6 ('R. Yochanan's Version') describes.",
+      "current_heading": "Romans & Deut 31:16",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Minim & Forgery",
+    "candidates": [
+      "R. Yochanan's Version",
+      "Minim & Forgery",
+      "Karet Exegesis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Minim & Forgery",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Eliezer's refutation of the Samaritans using 'hikaret tikaret' and 'avonah bah', which is the core content described in the 'Minim & Forgery' prose.",
+      "second_heading": "Karet Exegesis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Pappa's challenge to Abaye about deriving both matters from the doubled verb alone and the response invoking 'dibrah Torah kilshon bnei adam', which is precisely what the 'Karet Exegesis' prose describes as its opening content.",
+      "current_heading": "Minim & Forgery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Karet Exegesis",
+    "candidates": [
+      "Karet Exegesis",
+      "Cleopatra Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the karet exegesis discussion \u2014 item 1 is the tanna'im dispute between Rabbi Akiva and Rabbi Yishmael on hikaret tikkaret, and item 2 resolves what both derive from 'avonah bah,' exactly as described in the 'Karet Exegesis' prose.",
+      "chosen_heading": "Karet Exegesis",
+      "current_heading": "Karet Exegesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Cleopatra Question",
+    "candidates": [
+      "Cleopatra Question",
+      "Grain Analogy",
+      "Caesar & Dust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Cleopatra's question and Rabbi Meir's kal va-chomer response as one continuous exchange, and the current heading 'Cleopatra Question' with its prose accurately describes this entire unit including her acknowledgment that the dead will live and her practical question about clothing.",
+      "chosen_heading": "Cleopatra Question",
+      "current_heading": "Cleopatra Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Caesar & Dust",
+    "candidates": [
+      "Grain Analogy",
+      "Caesar & Dust",
+      "Glass Kal Va-Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Caesar-and-Rabban-Gamliel exchange about dust coming to life, which is precisely what the 'Caesar & Dust' prose section describes.",
+      "chosen_heading": "Caesar & Dust",
+      "current_heading": "Caesar & Dust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Glass Kal Va-Chomer",
+    "candidates": [
+      "Glass Kal Va-Chomer",
+      "Palace Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the glass vessels kal va-chomer from the school of Rabbi Yishmael, which matches exactly what the 'Glass Kal Va-Chomer' section prose describes.",
+      "chosen_heading": "Glass Kal Va-Chomer",
+      "current_heading": "Glass Kal Va-Chomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Palace Analogy",
+    "candidates": [
+      "Palace Analogy",
+      "Mouse & Squirrel",
+      "Snail Evidence",
+      "Ex Nihilo Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Palace Analogy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the palace parable itself, which is exactly what the 'Palace Analogy' prose describes \u2014 the king's command, the servants' failure, and the 'all the more so' conclusion.",
+      "second_heading": "Mouse & Squirrel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 shifts to the empirical examples of the akhbar (half flesh/half earth) and the snails, which are precisely what the 'Mouse & Squirrel' and 'Snail Evidence' prose sections discuss \u2014 but since both examples appear in item 2, it belongs under 'Mouse & Squirrel' (index 1) as that prose covers the akhbar and explicitly notes the snail example follows.",
+      "current_heading": "Palace Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ex Nihilo Argument",
+    "candidates": [
+      "Mouse & Squirrel",
+      "Snail Evidence",
+      "Ex Nihilo Argument",
+      "African Claim Refute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange between Geviha ben Pesisa and the heretic (min) about resurrection \u2014 the kal va-chomer argument and the hunchback joke \u2014 which is precisely what the 'Ex Nihilo Argument' prose section describes.",
+      "chosen_heading": "Ex Nihilo Argument",
+      "current_heading": "Ex Nihilo Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "African Claim Refute",
+    "candidates": [
+      "African Claim Refute",
+      "Egyptian Reparations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the African claim to Canaan and Geviha ben Pesisa's refutation using the 'slave of slaves' verse, which is precisely what candidate 0 ('African Claim Refute') discusses in its prose.",
+      "chosen_heading": "African Claim Refute",
+      "current_heading": "African Claim Refute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Egyptian Reparations",
+    "candidates": [
+      "Egyptian Reparations",
+      "Ishmaelite Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items describe the Egyptian reparations dispute before Alexander \u2014 the Egyptians' silver/gold claim, Geviha ben Pesisa's counter-argument about wages for 430 years of slavery, and the Egyptians fleeing in a Sabbatical year \u2014 which matches exactly the 'Egyptian Reparations' prose.",
+      "chosen_heading": "Egyptian Reparations",
+      "current_heading": "Egyptian Reparations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Ishmaelite Claim",
+    "candidates": [
+      "Ishmaelite Claim",
+      "Witchcraft Gifts",
+      "Dualism Problem",
+      "Dualism Philosophy",
+      "Lame & Blind Tale"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ishmaelite Claim",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 describe the Ishmaelite/Keturah claim before Alexander and Geviha ben Pesisa's procedural setup, matching the 'Ishmaelite Claim' prose exactly.",
+      "second_heading": "Witchcraft Gifts",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the gemara's aside asking what the 'gifts' were and Rabbi Yirmeya bar Abba's answer about the shem tum'ah, which is precisely what the 'Witchcraft Gifts' prose discusses.",
+      "current_heading": "Ishmaelite Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Lame & Blind Tale",
+    "candidates": [
+      "Witchcraft Gifts",
+      "Dualism Problem",
+      "Dualism Philosophy",
+      "Lame & Blind Tale",
+      "Heaven & Earth Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together contain the full exchange between Antoninus and Rabbi about the body-soul judgment problem, including the mashal with the lame and blind guardians, which is precisely what candidate 1 ('Dualism Problem') describes \u2014 Antoninus posing the problem and Rabbi's parable-based response \u2014 whereas candidate 3 ('Lame & Blind Tale') is where it currently sits but that prose already summarizes the mashal's content including its resolution, suggesting the passage was split from its proper home under the heading that introduces the entire exchange.",
+      "chosen_heading": "Dualism Problem",
+      "current_heading": "Lame & Blind Tale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Heaven & Earth Verse",
+    "candidates": [
+      "Lame & Blind Tale",
+      "Heaven & Earth Verse",
+      "Sun Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the proof-text from Psalms 50:4 interpreting 'heavens' as soul and 'earth' as body, which is precisely what the 'Heaven & Earth Verse' section's prose describes.",
+      "chosen_heading": "Heaven & Earth Verse",
+      "current_heading": "Heaven & Earth Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Sun Question",
+    "candidates": [
+      "Sun Question",
+      "Midday Arc",
+      "Workers & Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose describes: Antoninus asking why the sun rises in the east and sets in the west, and Rabbi's reply that the direction itself is not the real question \u2014 the content of the passage matches the 'Sun Question' section perfectly.",
+      "chosen_heading": "Sun Question",
+      "current_heading": "Sun Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Workers & Travel",
+    "candidates": [
+      "Midday Arc",
+      "Workers & Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'greet its Creator' exchange AND the midday arc challenge AND the workers/travelers answer \u2014 but the heading 'Midday Arc' (index 0) better captures the full dialogue including Antoninus's challenge, while the current placement under 'Workers & Travel' only covers the final response; however, since the passage contains the complete exchange from the greeting answer through the midday challenge to the workers answer, and index 0's prose explicitly discusses the midday arc question which is the pivot of this passage, index 0 is the better home for the entire passage.",
+      "chosen_heading": "Midday Arc",
+      "current_heading": "Workers & Travel",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "R. Yehuda: Erech, Money",
+    "candidates": [
+      "Non-Jews in Erech",
+      "Ezra-Nehemiah Story",
+      "R. Yehuda: Erech, Money",
+      "Me'ila Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yehuda's position on the Ezra-Nehemia verse and Rav \u1e24isda/Avimi's answer that the erech money is interred, which is precisely what the prose of candidate 2 describes.",
+      "chosen_heading": "R. Yehuda: Erech, Money",
+      "current_heading": "R. Yehuda: Erech, Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Me'ila Objection",
+    "candidates": [
+      "Me'ila Objection",
+      "Rava: Unique Circumstance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the meila objection sequence: item 1 raises the challenge that burial should preclude meila liability (matching the lo nehenin velo moalin principle discussed in heading 0), and item 2 presents the contradicting baraita about kodshei bedek habayit \u2014 exactly the content described in heading 0's prose.",
+      "chosen_heading": "Me'ila Objection",
+      "current_heading": "Me'ila Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rava: Unique Circumstance",
+    "candidates": [
+      "Rava: Unique Circumstance",
+      "Two Baraitot on Neder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's answer about 'weakening of hands' (rifyon yadayim) being the reason for the Ezra story, which is precisely what the prose in 'Rava: Unique Circumstance' describes and analyzes.",
+      "chosen_heading": "Rava: Unique Circumstance",
+      "current_heading": "Rava: Unique Circumstance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Two Baraitot on Neder",
+    "candidates": [
+      "Two Baraitot on Neder",
+      "Beginning vs. End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two contradictory baraitot about accepting a gentile's nedavah for bedek habayit, which is exactly what the prose of 'Two Baraitot on Neder' describes \u2014 the contradiction that then gets resolved in the next section.",
+      "chosen_heading": "Two Baraitot on Neder",
+      "current_heading": "Two Baraitot on Neder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Beginning vs. End",
+    "candidates": [
+      "Beginning vs. End",
+      "Stringent at Beginning",
+      "End: Specific/Generic",
+      "Ama Chalya Oreiv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ila's statement in Rabbi Yochanan's name resolving the contradiction between the two baraitot by distinguishing 'beginning' vs. 'end,' which is precisely what the 'Beginning vs. End' section's prose discusses.",
+      "chosen_heading": "Beginning vs. End",
+      "current_heading": "Beginning vs. End",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Ama Chalya Oreiv",
+    "candidates": [
+      "Stringent at Beginning",
+      "End: Specific/Generic",
+      "Ama Chalya Oreiv",
+      "Reclamation Concern",
+      "Royal Contribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 the beginning/end distinction, the defined/undefined item distinction, and Rav Yosef's example \u2014 making it a single unified Gemara passage that spans all three topics, but since it opens with Rabbi Asi/Rabbi Yochanan's statement about the beginning stringency and the prose under heading 0 explicitly quotes and discusses that very statement ('bitechilah, afilu mayim u'melach ein mekablin'), while headings 1 and 2 cover the later parts, the passage as a whole is best placed under heading 0 where it starts \u2014 however, given that the current placement under 'Ama Chalya Oreiv' (index 2) covers only the final clause, and headings 0, 1, and 2 each cover successive parts of this single continuous Gemara excerpt, the passage should be placed under heading 0 where the full quote begins.",
+      "chosen_heading": "Stringent at Beginning",
+      "current_heading": "Ama Chalya Oreiv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Royal Contribution",
+    "candidates": [
+      "Reclamation Concern",
+      "Royal Contribution",
+      "Royal Cannot Reverse",
+      "Non-Jew Separates",
+      "Intent Investigation",
+      "Ambiguous Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's objection about Asaph and the king's letter (matching 'Royal Contribution') and Abaye's resolution about royal irreversibility (matching 'Royal Cannot Reverse'), but the single quoted text item covers both the challenge and its answer together, and its specific content about Rav Yosef raising the objection from Nehemiah 2:8 most directly matches the 'Royal Contribution' heading's prose which explicitly describes Rav Yosef raising this challenge about the letter to Asaf.",
+      "chosen_heading": "Royal Contribution",
+      "current_heading": "Royal Contribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Ambiguous Terumah",
+    "candidates": [
+      "Royal Cannot Reverse",
+      "Non-Jew Separates",
+      "Intent Investigation",
+      "Ambiguous Terumah",
+      "Non-Jew Sanctity",
+      "Donation Conditions",
+      "Cut Name, Use Rest",
+      "Unclear Intent Buried"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the full ruling including both the 'if he separated with Jewish intent give to kohen' and the 'if not requires interment' parts, but the specific content about bodkin oto and im bedaat Yisrael hifrishah tinaten lekohen matches the 'Intent Investigation' heading's prose exactly, which discusses the examination process and the positive outcome of giving to a kohen.",
+      "chosen_heading": "Intent Investigation",
+      "current_heading": "Ambiguous Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Unclear Intent Buried",
+    "candidates": [
+      "Non-Jew Sanctity",
+      "Donation Conditions",
+      "Cut Name, Use Rest",
+      "Unclear Intent Buried",
+      "Limited Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita about a gentile donating a beam with God's name written on it, which is the introduction of the case that the 'Donation Conditions' section's prose explicitly describes as its topic.",
+      "chosen_heading": "Donation Conditions",
+      "current_heading": "Unclear Intent Buried",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Limited Sanctification",
+    "candidates": [
+      "Unclear Intent Buried",
+      "Limited Sanctification",
+      "Pagan vs. Modern",
+      "Mutar Lishnosah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the 'Limited Sanctification' prose, which explicitly describes the Gemara's inference about the name, the pushback that burial is required even without a name, the chiddush about cutting out the name, the principle of 'shem she'lo bimkomo lav kadosh,' and the supporting baraita about handles of vessels and legs of a bed \u2014 matching items 1, 2, and 3 precisely.",
+      "chosen_heading": "Limited Sanctification",
+      "current_heading": "Limited Sanctification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Mutar Lishnosah",
+    "candidates": [
+      "Pagan vs. Modern",
+      "Mutar Lishnosah",
+      "Self vs. Other",
+      "Borrow & Repay",
+      "Rava's Reasoning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Self vs. Other",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the Rav Na\u1e25man ruling and the self-vs-other distinction resolved by Rabbi Yo\u1e25anan, which maps directly onto the 'Self vs. Other' prose discussing the initial hypothesis and its rejection.",
+      "second_heading": "Rava's Reasoning",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 is Rabbi Zeira's qualification distinguishing 'alai' from 'harei zu', which is the distinction that 'Rava's Reasoning' prose explicitly engages with and ultimately collapses.",
+      "current_heading": "Mutar Lishnosah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rava's Reasoning",
+    "candidates": [
+      "Self vs. Other",
+      "Borrow & Repay",
+      "Rava's Reasoning",
+      "Neder Not Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection and conclusion ('adrabba ipecha mistabra... ella lo shna'), which is precisely what the 'Rava's Reasoning' section discusses in its prose.",
+      "chosen_heading": "Rava's Reasoning",
+      "current_heading": "Rava's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Neder Not Hekdesh",
+    "candidates": [
+      "Neder Not Hekdesh",
+      "Gabbai Control"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita supporting Rava's position that tzedakah is like a neder (subject to bal ta'acher) but not like hekdesh (permitted to use), which is precisely what the 'Neder Not Hekdesh' prose describes.",
+      "chosen_heading": "Neder Not Hekdesh",
+      "current_heading": "Neder Not Hekdesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Gabbai Control",
+    "candidates": [
+      "Gabbai Control",
+      "R. Yannai Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the ruling that one who says 'this sela is for charity' is permitted to change its purpose in all cases (whether for himself or another, whether 'upon me' or 'this is'), which directly concerns the foundational rule about donor latitude before gabbai control \u2014 the core topic of the 'Gabbai Control' section's prose.",
+      "chosen_heading": "Gabbai Control",
+      "current_heading": "Gabbai Control",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "R. Yannai Exception",
+    "candidates": [
+      "R. Yannai Exception",
+      "Jewish Donation",
+      "Mitzvah Reuse",
+      "Non-Jew Limited",
+      "Name Forgotten"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the same topic: the rules about changing a sela designated for charity once it reaches the gabbai, and the Rabbi Yannai exception \u2014 exactly what candidate 0's prose discusses.",
+      "chosen_heading": "R. Yannai Exception",
+      "current_heading": "R. Yannai Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Name Forgotten",
+    "candidates": [
+      "Jewish Donation",
+      "Mitzvah Reuse",
+      "Non-Jew Limited",
+      "Name Forgotten",
+      "Shazrik Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain discussing whether a donated synagogue item may be repurposed for a mitzvah versus a voluntary matter, culminating in the conclusion that Jews don't protest such repurposing \u2014 this entire discussion is precisely what the 'Mitzvah Reuse' prose describes, including Rabbi Yochanan's ruling, the gentile/Jew distinction, and the 'screaming' rationale.",
+      "chosen_heading": "Mitzvah Reuse",
+      "current_heading": "Name Forgotten",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Shazrik Case",
+    "candidates": [
+      "Name Forgotten",
+      "Shazrik Case",
+      "Mishna Rule",
+      "R. Chanina View",
+      "R. Yosi View",
+      "Goses Analysis",
+      "Condemned Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the Sha'azrak case \u2014 the dispute over who changed the candelabrum's purpose and the reasoning behind each position \u2014 which is precisely what the 'Shazrik Case' prose discusses.",
+      "chosen_heading": "Shazrik Case",
+      "current_heading": "Shazrik Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Condemned Analysis",
+    "candidates": [
+      "Mishna Rule",
+      "R. Chanina View",
+      "R. Yosi View",
+      "Goses Analysis",
+      "Condemned Analysis",
+      "Atonement Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna itself, whose content (the rule about goses and condemned, R. Chanina, R. Yosi) is precisely what heading 0 'Mishna Rule' describes in its prose.",
+      "second_heading": "Condemned Analysis",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 constitute the Gemara's analysis of the condemned person's case, the baraita on kol cherem, R. Chanina's alternative reading, and the kofer/atonement derivation \u2014 all of which are explicitly laid out in the 'Condemned Analysis' prose.",
+      "current_heading": "Condemned Analysis",
+      "moved": true
+    }
+  }
+]

@@ -1,19 +1,15 @@
-# Bava Batra 138 — Daf Yomi Shiur
-
+[DAF:138a]
 ## Matana al Mnat Lehachzir
 
-### Topic Introduction
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: ״אֶתְרוֹג זֶה נָתוּן לְךָ בְּמַתָּנָה, עַל מְנָת שֶׁתַּחְזִירֵהוּ לִי״, נְטָלוֹ וְיָצָא בּוֹ; הֶחְזִירוֹ – יָצָא, לֹא הֶחְזִירוֹ – לֹא יָצָא. קָא מַשְׁמַע לַן דְּמַתָּנָה עַל מְנָת לְהַחֲזִיר – שְׁמָהּ מַתָּנָה.
->
-> **Translation:** **Rava says:** If one person said to another: **This *etrog* is given to you as a gift on the condition that you return it to me,** and the recipient **took it** on *Sukkot* **and** attempted to **fulfill** his obligation **with it,** if he ultimately **returned it, he has fulfilled** his obligation; if he **did not return it, he has not fulfilled** his obligation, as he did not fulfill the condition, thereby retroactively invalidating the gift. The Gemara explains that Rava **teaches us that a gift** given **on the condition that it be returned is considered** a valid **gift.**
+
+### Topic Introduction
 
 The sugya on daf 138 emerges from a discussion that had occupied the preceding amud — the concept of *matana al mnat lehachzir*, a conditional gift given with the requirement that it be returned. This topic was loosely connected to the broader principles of *kinyan perot* and *kinyan haguf*, and the question of what constitutes genuine ownership of an object. The classic case of *lulav* and *esrog* comes to mind, but here it is Rava who introduces the principle into the Talmudic discussion. The Gemara even entertains the question of whether the recipient of such a conditional gift might have the capacity to be *maktish* the object — and whether that depends on the nature of the return condition: whether one must return the object in a usable state or merely return the thing itself.
 
 ### Hakoteiv Nechasav
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הַכּוֹתֵב נְכָסָיו לְאַחֵר, וְאָמַר הַלָּה ״אִי אֶפְשִׁי בָּהֶן״ – קָנָה, וַאֲפִילּוּ עוֹמֵד וְצוֹוֵחַ. וְרַבִּי יוֹחָנָן אָמַר: לֹא קָנָה.
->
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הַכּוֹתֵב נְכָסָיו לְאַחֵר, וְאָמַר הַלָּה ״אִי אֶפְשִׁי בָּהֶן״ – קָנָה, וַאֲפִילּוּ עוֹמֵד וְצוֹוֵחַ. וְרַבִּי יוֹחָנָן אָמַר: לֹא קָנָה.
 > **Translation:** § **Rav Yehuda says** that **Shmuel says:** If **one writes** a document granting **his property to another, and the other** person **says: I do not want it,** he **acquires** it, **and** this is the *halakha* **even** if he is **standing and shouting** in protest that he does not want it. **And Rabbi Yoḥanan says** that he **does not acquire** it.
 
 With this context in place, the Gemara pivots — loosely but naturally — to a teaching four lines from the bottom of 137b. Rav Yehuda in the name of Shmuel states: *hakoteiv nechasav leachair* — one who writes over his property to another person. Whether this is a *matnat shchiv meira* or an ordinary *matnat bari* is not entirely clear from the context, though the Gemara seems to be describing a standard transfer. The giver executes a *kinyan agav* — conveying all his property via a deed linked to a parcel of land — and hands the *shtar* to the recipient. The recipient, upon receiving the *shtar*, declares: *iy afshi bahen* — I want no part of this. The ruling: *kana*. He has acquired. The transfer is complete.
@@ -22,15 +18,19 @@ This is, at first glance, deeply counterintuitive. How can a person acquire prop
 
 ## Tzavach vs. Shatek
 
-### Rav vs. Rabbi Yochanan
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא בַּר מֶמֶל: וְלָא פְּלִיגִי; כָּאן בְּצוֹוֵחַ מֵעִיקָּרָא, כָּאן בְּשׁוֹתֵק מֵעִיקָּרָא וּלְבַסּוֹף צוֹוֵחַ.
->
-> **Translation:** **Rabbi Abba bar Memel said: And they do not disagree** with each other: **Here,** in Rabbi Yoḥanan's statement, it is a case **where he is shouting** in protest **at the outset.** As soon as he is given the deed of gift he states that he does not want it. In this case, he does not receive the property. **There,** in Shmuel's statement, it is a case **where he is initially silent** when he receives the deed of gift, **and is ultimately shouting** in protest that he does not want it. In this case he acquires the gift before he protests, so it is his.
+
+### Rav vs. Rabbi Yochanan
 
 The apparent dispute between Rav and Rabbi Yochanan — one holding the acquisition valid even over protest, the other holding it invalid — demands resolution. At first reading, the position of *kana* seems almost coercive: property is forced upon a person against his expressed will. The principle that one cannot be compelled to receive a benefit against his wishes — *ein mazkin l'adam ba'al karcho* — seems to cut directly against this result.
 
 ### Rav Abba bar Memel
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא בַּר מֶמֶל: וְלָא פְּלִיגִי;
+> **Translation:** **Rabbi Abba bar Memel said: And they do not disagree** with each other:
+
+> **Hebrew/Aramaic:** כָּאן בְּצוֹוֵחַ מֵעִיקָּרָא, כָּאן בְּשׁוֹתֵק מֵעִיקָּרָא וּלְבַסּוֹף צוֹוֵחַ.
+> **Translation:** **Here,** in Rabbi Yoḥanan’s statement, it is a case **where he is shouting** in protest **at the outset.** As soon as he is given the deed of gift he states that he does not want it. In this case, he does not receive the property. **There,** in Shmuel’s statement, it is a case **where he is initially silent** when he receives the deed of gift, **and is ultimately shouting** in protest that he does not want it. In this case he acquires the gift before he protests, so it is his.
 
 Rav Abba bar Memel steps in at the opening of 138a to clarify that the two positions do not actually conflict. The key is the timing of the objection: *kan b'tzoveiach meikara* — one case concerns someone who protests from the very outset, and *kan b'shoteik meikara u'lesof tzoveiach* — the other concerns someone who is initially silent and only protests afterward. If the recipient objected immediately upon being handed the *shtar*, from the very first moment, everyone agrees he has not acquired anything. But if he initially accepted it — or at least remained silent in a way that could be interpreted as acceptance — and only later began to protest, then the acquisition is complete, and his subsequent objection is merely a change of mind.
 
@@ -47,6 +47,8 @@ The Rashbam, in his first comment on this passage, frames the case of *tzoveiach
 This brings the Rashbam to note the principle of *zachin l'adam shelo b'fanav*, which operates in the background here. Normally, Halacha presumes that acquiring property on someone's behalf is a benefit to them — and thus it can be done without their knowledge or presence. If the recipient is not present and a third party acquires on his behalf, the acquisition is valid on the assumption of benefit. But this is only a presumption; it can be defeated.
 
 ## Zachin Shelo B'Fanav
+
+
 
 ### Principle of Zachin
 
@@ -74,11 +76,10 @@ The application of *shatek meikara u'lesof tzoveiach* here is similarly interest
 
 ## Slaves in Bequest
 
+
+
 ### Slaves Scenario
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: זִיכָּה לוֹ עַל יְדֵי אַחֵר, וְשָׁתַק וּלְבַסּוֹף צָוַוח – בָּאנוּ לְמַחְלוֹקֶת רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל וְרַבָּנַן, דְּתַנְיָא: הַכּוֹתֵב נְכָסָיו לְאַחֵר, וְהָיוּ בָּהֶן עֲבָדִים, וְאָמַר הַלָּה: ״אִי אֶפְשִׁי בָּהֶן״; אִם הָיָה רַבָּן שֵׁנִי כֹּהֵן – הֲרֵי אֵלּוּ אוֹכְלִין בִּתְרוּמָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כֵּיוָן שֶׁאָמַר הַלָּה: ״אִי אֶפְשִׁי בָּהֶן״ – כְּבָר זָכוּ בָּהֶן יוֹרְשִׁין.
->
-> **Translation:** **Rav Naḥman bar Yitzḥak says** that if the owner **transfers ownership** of the property **to him through another** person, who performs an act of acquisition for this other party in his presence, **and he was initially silent,** i.e., when the act of acquisition is performed, **but ultimately shouted** in protest when the property is actually given to him, **we have arrived at the dispute between Rabban Shimon ben Gamliel and the Rabbis.** This is **as it is taught** in a *baraita*: If **one wrote** a document granting **his property to another, and there were slaves** among his property, **and the other** person **said: I do not want them, if their second master,** i.e., the recipient, **was a priest, they partake of *teruma*,** the portion of the produce designated for the priest, as his protest is ignored. **Rabban Shimon ben Gamliel says: Once the other** person **said: I do not want them, the** giver or his **heirs have already acquired them,** and they are the slaves' owners.
 
 With the discussion of *zachin* and third-party acquisition in place, the Gemara now cites a *Braisa* that sharpens the analysis. Rav Nachman bar Yitzchak frames the question: if the acquisition was done through a third party — *ziku lo al yedei acher* — and the recipient was initially silent but then protested, we arrive at a dispute between Rabban Shimon ben Gamliel and the Rabbanan.
 
@@ -88,23 +89,33 @@ The scenario has an additional complication. Perhaps the recipient was initially
 
 ### Tanna Kamma Position
 
-> **Hebrew/Aramaic:** וְהָוֵינַן בַּהּ: וְתַנָּא קַמָּא – אֲפִילּוּ עוֹמֵד וְצוֹוֵחַ?!
->
-> **Translation:** **And we discussed** the *baraita*: **And** does **the first *tanna*** hold that he acquires them **even** if **he is standing and shouting** in protest that he does not want them? That is not reasonable.
-
 The Tanna Kamma rules: once the *shtar* was taken, the acquisition is complete. As a dramatic illustration of the halachic consequence, the Gemara specifies: if the recipient is a *kohen*, the slaves he has now acquired may eat *terumah* — because they are now the slaves of a *kohen*. The acquisition is fully operative in the ritual domain, not only the monetary domain, and there is no way to undo it retroactively.
 
 ### Rabban Shimon Position
-
-> **Hebrew/Aramaic:** אָמַר רָבָא, וְאִיתֵּימָא רַבִּי יוֹחָנָן: בְּצוֹוֵחַ מֵעִיקָּרוֹ – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּלָא קָנֵי. שָׁתַק וּלְבַסּוֹף צָוַוח – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּקָנֵי. כִּי פְּלִיגִי – שֶׁזִּיכָּה לוֹ עַל יְדֵי אַחֵר וְשָׁתַק, וּלְבַסּוֹף צָוַוח; דְּתַנָּא קַמָּא סָבַר: מִדִּשְׁתֵיק – קְנִינְהוּ; וְהַאי דְּקָא צָוַוח – מִהְדָּר הוּא דְּקָא הָדַר בֵּיהּ. וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר: הוֹכִיחַ סוֹפוֹ עַל תְּחִלָּתוֹ; וְהַאי דְּלָא צָוַוח עַד הַשְׁתָּא – דְּסָבַר: כִּי לָא מָטוּ לִידִי, מַאי אֶצְוַוח.
->
-> **Translation:** **Rava says, and some say** it was **Rabbi Yoḥanan** who says: **In** a case **where he is shouting** in protest **at the outset,** when he is given the gift, **everyone agrees that he did not acquire** them. In a case where **he was silent** at the time **and ultimately shouted** in protest, **everyone agrees that he acquired** them. **When they disagree** it is in a case **when he transfers ownership to him through another** person, and the recipient was there **and was silent, and ultimately,** when he actually receives the slaves, he **shouted** in protest. **As the first *tanna* holds** that **once he was** initially **silent, he acquired them, and** the fact **that he is shouting** indicates that **he is retracting** his initial acceptance of the gift. His acquisition cannot be canceled in this manner. If he does not want to own the slaves, he can sell them, give them away, or emancipate them. **And Rabban Shimon ben Gamliel holds** that **his ultimate** actions **prove** the nature of **his initial** intent; he never intended to acquire the slaves. **And** the reason **that he did not shout** in protest **until now** is **that he reasoned: As long as they did not enter my possession,** to **what** end **will I shout?**
 
 Rabban Shimon ben Gamliel disagrees. Once the recipient says *iy afshi bahen* — I do not want them — *kvar zachu bahen yorshim*: the heirs of the original owner have already acquired them. The *kinyan* did not take hold. The moment of protest undoes the acquisition — or more precisely, reveals that it never fully materialized.
 
 A possible intermediate position is raised by Tosafos and the Rashbam: that upon rejection, the property becomes *hefker* — ownerless, belonging to neither party. The Rashbam entertains this possibility but Tosafos argues strenuously against it. The logic of rejection is that I divested myself of the property for the purpose of Michael owning it. If that purpose was not fulfilled, nothing happened — the property reverts. I was not declaring it ownerless and inviting Michael to scoop it up from *hefker*; I was giving it to him directly. If the gift failed, the status quo ante is restored.
 
 ### Gemara's Distinction
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: זִיכָּה לוֹ עַל יְדֵי אַחֵר, וְשָׁתַק וּלְבַסּוֹף צָוַוח – בָּאנוּ לְמַחְלוֹקֶת רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל וְרַבָּנַן,
+> **Translation:** **Rav Naḥman bar Yitzḥak says** that if the owner **transfers ownership** of the property **to him through another** person, who performs an act of acquisition for this other party in his presence, **and he was initially silent,** i.e., when the act of acquisition is performed, **but ultimately shouted** in protest when the property is actually given to him, **we have arrived at the dispute between Rabban Shimon ben Gamliel and the Rabbis.**
+
+> **Hebrew/Aramaic:** דְּתַנְיָא: הַכּוֹתֵב נְכָסָיו לְאַחֵר, וְהָיוּ בָּהֶן עֲבָדִים, וְאָמַר הַלָּה: ״אִי אֶפְשִׁי בָּהֶן״; אִם הָיָה רַבָּן שֵׁנִי כֹּהֵן – הֲרֵי אֵלּוּ אוֹכְלִין בִּתְרוּמָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כֵּיוָן שֶׁאָמַר הַלָּה: ״אִי אֶפְשִׁי בָּהֶן״ – כְּבָר זָכוּ בָּהֶן יוֹרְשִׁין.
+> **Translation:** This is **as it is taught** in a *baraita* (*Tosefta* 8:1): If **one wrote** a document granting **his property to another, and there were slaves** among his property, **and the other** person **said: I do not want them, if their second master,** i.e., the recipient, **was a priest, they partake of *teruma*,** the portion of the produce designated for the priest, as his protest is ignored. **Rabban Shimon ben Gamliel says: Once the other** person **said: I do not want them, the** giver or his **heirs have already acquired them,** and they are the slaves’ owners.
+
+> **Hebrew/Aramaic:** וְהָוֵינַן בַּהּ: וְתַנָּא קַמָּא – אֲפִילּוּ עוֹמֵד וְצוֹוֵחַ?!
+> **Translation:** **And we discussed** the *baraita*: **And** does **the first *tanna*** hold that he acquires them **even** if **he is standing and shouting** in protest that he does not want them? That is not reasonable.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא, וְאִיתֵּימָא רַבִּי יוֹחָנָן: בְּצוֹוֵחַ מֵעִיקָּרוֹ – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּלָא קָנֵי. שָׁתַק וּלְבַסּוֹף צָוַוח – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּקָנֵי.
+> **Translation:** **Rava says, and some say** it was **Rabbi Yoḥanan** who says: **In** a case **where he is shouting** in protest **at the outset,** when he is given the gift, **everyone agrees that he did not acquire** them. In a case where **he was silent** at the time **and ultimately shouted** in protest, **everyone agrees that he acquired** them.
+
+> **Hebrew/Aramaic:** כִּי פְּלִיגִי – שֶׁזִּיכָּה לוֹ עַל יְדֵי אַחֵר וְשָׁתַק, וּלְבַסּוֹף צָוַוח; דְּתַנָּא קַמָּא סָבַר: מִדִּשְׁתֵיק – קְנִינְהוּ; וְהַאי דְּקָא צָוַוח – מִהְדָּר הוּא דְּקָא הָדַר בֵּיהּ.
+> **Translation:** **When they disagree** it is in a case **when he transfers ownership to him through another** person, and the recipient was there **and was silent, and ultimately,** when he actually receives the slaves, he **shouted** in protest. **As the first *tanna* holds** that **once he was** initially **silent, he acquired them, and** the fact **that he is shouting** indicates that **he is retracting** his initial acceptance of the gift. His acquisition cannot be canceled in this manner. If he does not want to own the slaves, he can sell them, give them away, or emancipate them.
+
+> **Hebrew/Aramaic:** וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר: הוֹכִיחַ סוֹפוֹ עַל תְּחִלָּתוֹ; וְהַאי דְּלָא צָוַוח עַד הַשְׁתָּא – דְּסָבַר: כִּי לָא מָטוּ לִידִי, מַאי אֶצְוַוח.
+> **Translation:** **And Rabban Shimon ben Gamliel holds** that **his ultimate** actions **prove** the nature of **his initial** intent; he never intended to acquire the slaves. **And** the reason **that he did not shout** in protest **until now** is **that he reasoned: As long as they did not enter my possession,** to **what** end **will I shout?**
 
 The Gemara then asks a pointed question: does the Tanna Kamma really hold that even if Michael was *tzoveiach meikara* — yelling from the very moment he found out — he still acquires? That seems untenable. So Rava (or, some say, Rabbi Yochanan) clarifies: *b'tzoveiach me'ikaro d'kulei alma lo pligi d'lo kani* — if the recipient protested from the outset, everyone agrees he has not acquired. And if he was silent and only protested afterward — *shatek u'levasof tzoveiach* — *d'kulei alma lo pligi d'kani* — everyone agrees he has acquired and his later protest is irrelevant.
 
@@ -116,11 +127,16 @@ The Rashbam's reading places the recipient in Michael's presence during the thir
 
 ## Shchiv Mera Bequests
 
+
+
 ### Asset Distribution
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן, שְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי, וּשְׁלֹשׁ מֵאוֹת לִפְלוֹנִי, וְאַרְבַּע מֵאוֹת לִפְלוֹנִי״ – אֵין אוֹמְרִין: כׇּל הַקּוֹדֵם בִּשְׁטָר, זוֹכֶה. לְפִיכָךְ, יָצָא עָלָיו שְׁטַר חוֹב – גּוֹבֶה מִכּוּלָּם.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן, שְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי, וּשְׁלֹשׁ מֵאוֹת לִפְלוֹנִי, וְאַרְבַּע מֵאוֹת לִפְלוֹנִי״ – אֵין אוֹמְרִין: כׇּל הַקּוֹדֵם בִּשְׁטָר, זוֹכֶה. לְפִיכָךְ, יָצָא עָלָיו שְׁטַר חוֹב – גּוֹבֶה מִכּוּלָּם.
 > **Translation:** § **The Sages taught** (*Tosefta* 9:6): If **a person on his deathbed said: Give two hundred dinars to so-and-so, and three hundred to so-and-so, and four hundred to so-and-so,** in this case one **does not say** that **whoever appears first in the deed acquires** his money first. **Therefore,** if **a promissory note emerged against** the one who gave the gifts, and it becomes clear that the money given was pledged to a creditor, then the creditor **collects from all of them.**
+
+> **Hebrew/Aramaic:** אֲבָל אָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי, וְאַחֲרָיו לִפְלוֹנִי, וְאַחֲרָיו לִפְלוֹנִי״ – אוֹמְרִין: כׇּל הַקּוֹדֵם בַּשְּׁטָר, זוֹכֶה. לְפִיכָךְ, יָצָא עָלָיו שְׁטַר חוֹב – גּוֹבֶה מִן הָאַחֲרוֹן. אֵין לוֹ – גּוֹבֶה מִשֶּׁלְּפָנָיו. אֵין לוֹ – גּוֹבֶה מִשֶּׁלִּפְנֵי פָנָיו.
+> **Translation:** **But** if a person on his deathbed **said: Give two hundred dinars to so-and-so, and after him, to so-and-so, and after him, to so-and-so,** then one **says: Anyone who appears first in the deed gains. Therefore,** if **a promissory note emerged against** the giver, the creditor first **collects from the last** one of the recipients. If **he does not have** enough to repay the debt, **he collects from the previous** recipient. If **he does not have** enough to repay the debt, **he collects from** the recipient listed **before the previous** recipient.
+
 
 The Gemara now shifts to a series of rulings about a *shchiv mera* — a person on his deathbed — who distributes his estate among multiple recipients. The *Braisa* taught: *shachiv meira she'amar tenu matayim zuz leploni, v'shalosh me'ot leploni, v'arba me'ot leploni* — a *shchiv mera* who said, give 200 to Shimon, 300 to Rivka, and 400 to Leah. The total allocation is 900 *zuz*, but suppose he only had 700. How should the estate be distributed?
 
@@ -129,10 +145,6 @@ The Gemara rules: *ein omrim kol hakodem b'shtar zocheh* — we do not say that 
 Now what happens when a creditor emerges? *Lefikach yatza alav shtar chov* — a creditor comes forward and his claim consumes part of the estate. The Gemara rules that the creditor collects proportionally from all the recipients: *goveh mikulam*. No single beneficiary bears the full loss; it is spread across all of them in proportion to their shares.
 
 ### Distribution Order
-
-> **Hebrew/Aramaic:** אֲבָל אָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי, וְאַחֲרָיו לִפְלוֹנִי, וְאַחֲרָיו לִפְלוֹנִי״ – אוֹמְרִין: כׇּל הַקּוֹדֵם בַּשְּׁטָר, זוֹכֶה. לְפִיכָךְ, יָצָא עָלָיו שְׁטַר חוֹב – גּוֹבֶה מִן הָאַחֲרוֹן. אֵין לוֹ – גּוֹבֶה מִשֶּׁלְּפָנָיו. אֵין לוֹ – גּוֹבֶה מִשֶּׁלִּפְנֵי פָנָיו.
->
-> **Translation:** **But** if a person on his deathbed **said: Give two hundred dinars to so-and-so, and after him, to so-and-so, and after him, to so-and-so,** then one **says: Anyone who appears first in the deed gains. Therefore,** if **a promissory note emerged against** the giver, the creditor first **collects from the last** one of the recipients. If **he does not have** enough to repay the debt, **he collects from the previous** recipient. If **he does not have** enough to repay the debt, **he collects from** the recipient listed **before the previous** recipient.
 
 But this proportional rule applies only in the absence of language indicating a priority sequence. If the testator explicitly stated an order — saying "give 400 to Leah, and after her give 300 to Rivka, and after her give 200 to Shimon" — then the word *acharav* signals that the subsequent bequests are contingent: they are to be paid only from whatever remains in the estate after the prior recipient has been satisfied. In that case, when a creditor claims against the estate, the losses fall on the last recipient first. The rule becomes *goveh min ha'acharon* — collect from the last person listed. If that is insufficient, *ein lo goveh mishelifanav* — proceed to the second-to-last. Only if both of those prove inadequate does the creditor reach the first person on the list. This is a last-in, first-out principle driven by the explicit sequential language of the bequest.
 
@@ -144,10 +156,11 @@ Both readings are defensible, but they cannot both be correct simultaneously. Af
 
 ## Karaui Lo Language
 
+
+
 ### Firstborn Bequest
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן, שְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי בְּנִי בְּכוֹר, כָּרָאוּי לוֹ״ – נוֹטְלָן, וְנוֹטֵל אֶת בְּכוֹרָתוֹ. אִם אָמַר: ״בִּבְכוֹרָתוֹ״ – יָדוֹ עַל הָעֶלְיוֹנָה; רָצָה – נוֹטְלָן, רָצָה – נוֹטֵל בְּכוֹרָתוֹ.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן, שְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי בְּנִי בְּכוֹר, כָּרָאוּי לוֹ״ – נוֹטְלָן, וְנוֹטֵל אֶת בְּכוֹרָתוֹ. אִם אָמַר: ״בִּבְכוֹרָתוֹ״ – יָדוֹ עַל הָעֶלְיוֹנָה; רָצָה – נוֹטְלָן, רָצָה – נוֹטֵל בְּכוֹרָתוֹ.
 > **Translation:** **The Sages taught** in a *baraita*: If there was **a person on his deathbed who said: Give two hundred dinars to so-and-so, my firstborn son, as is appropriate for him,** the firstborn **takes** the two hundred dinars **and takes his portion as a firstborn** as well. **If he said:** Give my firstborn son two hundred dinars **for his portion as a firstborn,** he does not receive both, but **he has the advantage;** if **he wants, he takes** the two hundred dinars, and if **he wants, he takes his portion as a firstborn.**
 
 The Gemara now introduces a series of cases governed by the phrase *karaui lo* — "as is fit for him." The first: *shachiv meira she'amar tenu matayim zuz leploni beni bechori karaui lo* — a *shchiv mera* who says, give 200 *zuz* to my firstborn son, as is fit for him. The question is how to read this. Does specifying *bechori* — my firstborn — and adding *karaui lo* suggest that the 200 *zuz* is being assigned as payment of his *chelek bechora*, the double portion that the firstborn is biblically entitled to? The Torah prohibits disinheriting a firstborn: *lo yuchal levaker* — you may not override the *bechora*. So the father cannot strip the firstborn of his extra portion in any case.
@@ -156,11 +169,14 @@ The ruling: *notlan venotel bechorato* — he takes the 200 *zuz* and also takes
 
 However, there is a *chiddush*: *im amar bevechorato* — if the father explicitly says "take 200 *zuz* as his *bechora*" — then *yado al ha'elyona*, the son has his choice. He may take the 200 *zuz* in lieu of his normal double portion, or he may forgo the 200 *zuz* and claim his full *chelek bechora* instead. The father cannot strip the *bechora* outright, but he can present the son with an option: if you prefer 200 *zuz* in cash over your share of the estate, you may waive your *bechora* in favor of the fixed sum. The son decides which serves him better.
 
+[DAF:138b]
 ### Wife's Bequest
 
-> **Hebrew/Aramaic:** וּשְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִית אִשְׁתִּי, כָּרָאוּי לָהּ״ – נוֹטַלְתָּן, וְנוֹטֶלֶת אֶת כְּתוּבָּתָהּ. אִם אָמַר ״בִּכְתוּבָּתָהּ״ – יָדָהּ עַל הָעֶלְיוֹנָה; רָצָה – נוֹטַלְתָּן, רָצָה – נוֹטֶלֶת כְּתוּבָּתָהּ.
->
-> **Translation:** The *baraita* continues: **And** similarly, if there was **a person on his deathbed who said: Give two hundred dinars to so-and-so, my wife, as is appropriate for her, she takes** the two hundred dinars **and takes** payment of **her marriage contract** as well. **If he said:** Give her two hundred dinars as payment **for her marriage contract, she has the advantage;** if **she wants, she takes** the two hundred dinars, and if **she wants, she takes** payment of **her marriage contract.**
+> **Hebrew/Aramaic:** וּשְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִית אִשְׁתִּי, כָּרָאוּי לָהּ״ – נוֹטַלְתָּן, וְנוֹטֶלֶת אֶת כְּתוּבָּתָהּ. אִם אָמַר ״בִּכְתוּבָּתָהּ״ –
+> **Translation:** The *baraita* continues: **And** similarly, if there was **a person on his deathbed who said: Give two hundred dinars to so-and-so, my wife, as is appropriate for her, she takes** the two hundred dinars **and takes** payment of **her marriage contract** as well. **If he said:** Give her two hundred dinars as payment **for her marriage contract,**
+
+> **Hebrew/Aramaic:** יָדָהּ עַל הָעֶלְיוֹנָה; רָצָה – נוֹטַלְתָּן, רָצָה – נוֹטֶלֶת כְּתוּבָּתָהּ.
+> **Translation:** **she has the advantage;** if **she wants, she takes** the two hundred dinars, and if **she wants, she takes** payment of **her marriage contract.**
 
 An analogous structure applies to the wife. *Shachiv mera she'amar tenu matayim zuz leplonit ishti karaui lah* — a *shchiv mera* who says, give 200 *zuz* to my wife Sarah, as is fit for her. Two hundred *zuz* is the standard *ketubah* payment. One might reasonably read this as the husband ensuring that his wife receives her *ketubah*. But the ruling is: *notlam venotelet ketubatah* — she takes the 200 *zuz* and also receives her *ketubah*. The *karaui lah* language does not convert the gift into *ketubah* payment; it is a gift in addition to what she is owed.
 
@@ -170,9 +186,11 @@ Why would a widow ever prefer the *ketubah* to a sum that might be identical in 
 
 ### Creditor Bequest
 
-> **Hebrew/Aramaic:** וּשְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי בַּעַל חוֹבִי, כָּרָאוּי לוֹ״ – נוֹטְלָן, וְנוֹטֵל אֶת חוֹבוֹ. וְאִם אָמַר: ״בְּחוֹבוֹ״ – נוֹטְלָן בְּחוֹבוֹ.
->
+> **Hebrew/Aramaic:** וּשְׁכִיב מְרַע שֶׁאָמַר: ״תְּנוּ מָאתַיִם זוּז לִפְלוֹנִי בַּעַל חוֹבִי, כָּרָאוּי לוֹ״ – נוֹטְלָן, וְנוֹטֵל אֶת חוֹבוֹ. וְאִם אָמַר: ״בְּחוֹבוֹ״ – נוֹטְלָן בְּחוֹבוֹ.
 > **Translation:** The *baraita* continues: **And** if there was **a person on his deathbed who said: Give two hundred dinars to so-and-so, my creditor, as is appropriate for him,** the creditor **takes** the two hundred dinars **and takes** payment of the **debt** as well. **But if he said:** Give him two hundred dinars as payment **for** the **debt, he takes** the two hundred dinars as payment **for** the **debt.**
+
+> **Hebrew/Aramaic:** מִשּׁוּם דְּאָמַר ״כָּרָאוּי לוֹ״ – נוֹטְלָן וְנוֹטֵל אֶת חוֹבוֹ?! וְדִלְמָא ״כָּרָאוּי לוֹ בְּחוֹבוֹ״ קָאָמַר!
+> **Translation:** The Gemara asks: **Because he says: As is appropriate for him, he takes** the two hundred dinars **and takes** payment of the **debt** as well? **But perhaps he was saying: As is appropriate for him** as payment **for** the **debt,** and meant only to specify the amount of the debt.
 
 The third case: *shachiv mera she'amar tenu matayim zuz leploni baal chovi karaui lo* — give 200 *zuz* to Reuven my creditor, as is fit for him. The ruling parallels the prior cases: *notlan venotel hovo* — he takes the 200 *zuz* and also collects his debt. The *karaui lo* means the gift is in addition to the debt. And if the testator explicitly said *behovo* — in payment of the debt — then the creditor receives it in satisfaction of the loan.
 
@@ -180,9 +198,14 @@ This case, however, provokes genuine resistance. It is one thing to give a gift 
 
 ### Rabbi Akiva Principle
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, אָמַר לִי הוּנָא: הָא מַנִּי – רַבִּי עֲקִיבָא הִיא, דְּדָיֵיק לִישָּׁנָא יַתִּירָא; דִּתְנַן: וְלֹא אֶת הַבּוֹר וְלֹא אֶת הַדּוּת, אַף עַל פִּי שֶׁכָּתַב לוֹ עוּמְקָא וְרוּמָא. וְצָרִיךְ לִיקַּח לוֹ דֶּרֶךְ, דִּבְרֵי רַבִּי עֲקִיבָא. וַחֲכָמִים אוֹמְרִים: אֵינוֹ צָרִיךְ לִיקַּח לוֹ דֶּרֶךְ. וּמוֹדֶה רַבִּי עֲקִיבָא בִּזְמַן שֶׁאָמַר לוֹ ״חוּץ מֵאֵלּוּ״ – שֶׁאֵינוֹ צָרִיךְ לִיקַּח לוֹ דֶּרֶךְ. אַלְמָא, כֵּיוָן דְּלָא צְרִיךְ, וְקָאָמַר – לְטַפּוֹיֵי מִלְּתָא קָאָתֵי; הָכָא נָמֵי, כֵּיוָן דְּלָא צְרִיךְ, וְקָאָמַר – לְטַפּוֹיֵי מִלְּתָא קָא אָתֵי.
->
-> **Translation:** **Rav Naḥman said:** Rav **Huna said to me:** In accordance with **whose** opinion **is this? It is** in accordance with the opinion of **Rabbi Akiva, who expounds superfluous language.** Rabbi Akiva holds that if one uses unnecessary words, he apparently intended to add a matter. **As we learned** in a mishna (64a): One who sells a house without specification has sold **neither the pit nor the cistern [*dut*]** with it, **even if he writes for** the buyer in the bill of sale: With **its depth and its height.** This is because anything that is not part of the house, like pits and cisterns, must be explicitly mentioned in the contract or else they remain in the seller's possession. **And** therefore the seller **must purchase for himself a path** through the buyer's domain to reach whatever remains his, because he has sold the area of the house along with the house itself, and he no longer has permission to walk there. This is **the statement of Rabbi Akiva. And the Rabbis say:** The seller **need not purchase for himself a path** through the buyer's domain, as this is certainly included in what he has withheld for himself from the sale. **And Rabbi Akiva concedes that when** the seller **says to** the buyer in the bill of sale: I am selling you this house **apart from** the pit and the cistern, **he need not purchase for himself a path** through the buyer's domain. Since the seller unnecessarily emphasized that the pit and the cistern are not included in the sale, he presumably intended to reserve for himself the right of access to them. **Apparently,** according to Rabbi Akiva, **since he did not need** to state: Apart from the pit and the cistern, **and stated** it anyway, the seemingly superfluous statement **was coming to add a matter.** Since the seller unnecessarily stressed that the pit and cistern are not included in the sale, he must have intended to thereby reserve for himself the right of access. **Here too,** with regard to the gift given by a person on his deathbed to his creditor, **since he did not need** to say: As is appropriate for him, **and said** it anyway, this phrase **was coming to add a matter,** i.e., that the two hundred dinars are in addition to the debt.
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, אָמַר לִי הוּנָא: הָא מַנִּי – רַבִּי עֲקִיבָא הִיא, דְּדָיֵיק לִישָּׁנָא יַתִּירָא;
+> **Translation:** **Rav Naḥman said:** Rav **Huna said to me:** In accordance with **whose** opinion **is this? It is** in accordance with the opinion of **Rabbi Akiva, who expounds superfluous language.** Rabbi Akiva holds that if one uses unnecessary words, he apparently intended to add a matter.
+
+> **Hebrew/Aramaic:** דִּתְנַן: וְלֹא אֶת הַבּוֹר וְלֹא אֶת הַדּוּת, אַף עַל פִּי שֶׁכָּתַב לוֹ עוּמְקָא וְרוּמָא. וְצָרִיךְ לִיקַּח לוֹ דֶּרֶךְ, דִּבְרֵי רַבִּי עֲקִיבָא.
+> **Translation:** **As we learned** in a mishna (64a): One who sells a house without specification has sold **neither the pit nor the cistern [*dut*]** with it, **even if he writes for** the buyer in the bill of sale: With **its depth and its height.** This is because anything that is not part of the house, like pits and cisterns, must be explicitly mentioned in the contract or else they remain in the seller’s possession. **And** therefore the seller **must purchase for himself a path** through the buyer’s domain to reach whatever remains his, because he has sold the area of the house along with the house itself, and he no longer has permission to walk there. This is **the statement of Rabbi Akiva.**
+
+> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֵינוֹ צָרִיךְ לִיקַּח לוֹ דֶּרֶךְ. וּמוֹדֶה רַבִּי עֲקִיבָא בִּזְמַן שֶׁאָמַר לוֹ ״חוּץ מֵאֵלּוּ״ – שֶׁאֵינוֹ צָרִיךְ לִיקַּח לוֹ דֶּרֶךְ.
+> **Translation:** **And the Rabbis say:** The seller **need not purchase for himself a path** through the buyer’s domain, as this is certainly included in what he has withheld for himself from the sale. **And Rabbi Akiva concedes that when** the seller **says to** the buyer in the bill of sale: I am selling you this house **apart from** the pit and the cistern, **he need not purchase for himself a path** through the buyer’s domain. Since the seller unnecessarily emphasized that the pit and the cistern are not included in the sale, he presumably intended to reserve for himself the right of access to them.
 
 The Gemara's answer draws on a principle attributed to Rabbi Akiva: *dedayek lishna yetira* — he infers from extra language. The source is the Mishnah from earlier in Bava Batra dealing with the sale of a house. The rule is that a seller who sells his house does not include the cistern or pit within it. Even if the seller wrote a deed granting *umka ve'ruma* — height and depth — all vertical dimensions of the property, the underground cistern is excluded. This is the ruling of the Mishnah. Rabbi Akiva adds: *v'tzarich likach lo derech* — and the seller must therefore purchase a right of way from the buyer in order to access his retained cistern. The Chachamim disagree: just as the seller retained the cistern, so too does he retain access to it.
 
@@ -192,7 +215,12 @@ Then comes the critical ruling: *u'modeh Rabbi Akiva bizman she'amar lo chutz me
 
 ### Karaui Lo Override
 
+> **Hebrew/Aramaic:** אַלְמָא, כֵּיוָן דְּלָא צְרִיךְ, וְקָאָמַר – לְטַפּוֹיֵי מִלְּתָא קָאָתֵי; הָכָא נָמֵי, כֵּיוָן דְּלָא צְרִיךְ, וְקָאָמַר – לְטַפּוֹיֵי מִלְּתָא קָא אָתֵי.
+> **Translation:** **Apparently,** according to Rabbi Akiva, **since he did not need** to state: Apart from the pit and the cistern, **and stated** it anyway, the seemingly superfluous statement **was coming to add a matter.** Since the seller unnecessarily stressed that the pit and cistern are not included in the sale, he must have intended to thereby reserve for himself the right of access. **Here too,** with regard to the gift given by a person on his deathbed to his creditor, **since he did not need** to say: As is appropriate for him, **and said** it anyway, this phrase **was coming to add a matter,** i.e., that the two hundred dinars are in addition to the debt.
+
 This principle is now applied to the creditor case. Had the testator merely said "give 200 *zuz* to my creditor," without any additional language, the natural reading would be payment of the debt. But the testator went out of his way to add *karaui lo* — words that were unnecessary if all he intended was to pay the debt. Those extra words, by Rabbi Akiva's principle, carry interpretive weight. They signal that the testator intended to give something beyond what was already owed: *le'tifuyei milta ka'ata* — the extra language comes to add. Therefore, the 200 *zuz* is a gift on top of the debt.
+
+It is worth pausing on why the principle actually works here, because the analogy to Rabbi Akiva's case is not entirely obvious. In Rabbi Akiva's case, the seller says *chutz* — "except for" — and any extra language in that framing naturally reads as retaining more, since the speaker is already in the mode of holding things back. But in the creditor case the testator is giving, not retaining, and the words *karaui lo* — "as is fitting for him" — do not self-evidently mean "give him more than you owe." One might read the phrase as nothing more than a term of warmth or esteem. The answer seems to be that the operative logic is directional: in Rabbi Akiva's case, any unnecessary language in a retentive context is read as retaining more; here, any unnecessary language in a giving context is read as giving more. The semantic content of the extra words matters less than the structural fact that they were said at all. *Keivan d'lo tzarich ve'ka'amar* — since he said what he did not need to say — the principle pushes in whichever direction the speech act was already oriented.
 
 The Rashbam extends this logic to the cases of the *bechor* and the wife. If the testator said "give 200 *zuz* to my firstborn son" without *karaui lo* and without explicitly saying *bevechorato*, the Rashbam reads this as placing the son in a position of *yado al ha'elyona*: he can take the 200 *zuz* as his inheritance share, or he can take his *chelek bechora*. Similarly for the wife, if no *karaui* language is used: the bequest would be interpreted as an inheritance share, not an unconditional gift.
 
@@ -200,21 +228,18 @@ This is a striking conclusion. One might expect that a *shchiv mera* who says "g
 
 ## Debts Owed to Shchiv Mera
 
+
+
 ### Witnesses Recording Claim
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן, שְׁכִיב מְרַע שֶׁאָמַר: ״מָנֶה יֵשׁ לִי אֵצֶל פְּלוֹנִי״ – הָעֵדִים כּוֹתְבִין, אַף עַל פִּי שֶׁאֵין מַכִּירִין. לְפִיכָךְ, כְּשֶׁהוּא גּוֹבֶה – צָרִיךְ לְהָבִיא רְאָיָה, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: אֵין כּוֹתְבִין אֶלָּא אִם כֵּן מַכִּירִין, לְפִיכָךְ כְּשֶׁהוּא גּוֹבֶה – אֵין צָרִיךְ לְהָבִיא רְאָיָה.
->
-> **Translation:** § **The Sages taught** (*Tosefta* 8:18): If there was **a person on his deathbed who said: I have one hundred dinars** owed to me **by so-and-so, the witnesses** that hear this **may write** his statement in a document **even if they do not know** whether the statement is true. **Therefore, when** the person's heir **collects** the debt, **he must bring proof** of the debt, as the document written by these witnesses is not regarded as proof. This is **the statement of Rabbi Meir. And the Rabbis say:** The witnesses **may not write** the document **unless they know** for a fact that the statement is true. **Therefore, when** the heir **collects** the debt, **he need not bring proof** other than the document written by the witnesses, as it has the status of a promissory note.
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן, שְׁכִיב מְרַע שֶׁאָמַר: ״מָנֶה יֵשׁ לִי אֵצֶל פְּלוֹנִי״ – הָעֵדִים כּוֹתְבִין, אַף עַל פִּי שֶׁאֵין מַכִּירִין. לְפִיכָךְ, כְּשֶׁהוּא גּוֹבֶה – צָרִיךְ לְהָבִיא רְאָיָה, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: אֵין כּוֹתְבִין אֶלָּא אִם כֵּן מַכִּירִין, לְפִיכָךְ כְּשֶׁהוּא גּוֹבֶה – אֵין צָרִיךְ לְהָבִיא רְאָיָה.
+> **Translation:** § **The Sages taught** (*Tosefta* 8:18): If there was **a person on his deathbed who said: I have one hundred dinars** owed to me **by so-and-so, the witnesses** that hear this **may write** his statement in a document **even if they do not know** whether the statement is true. **Therefore, when** the person’s heir **collects** the debt, **he must bring proof** of the debt, as the document written by these witnesses is not regarded as proof. This is **the statement of Rabbi Meir. And the Rabbis say:** The witnesses **may not write** the document **unless they know** for a fact that the statement is true. **Therefore, when** the heir **collects** the debt, **he need not bring proof** other than the document written by the witnesses, as it has the status of a promissory note.
 
 The final section of the daf takes up a different kind of deathbed declaration. The *Braisa*: *shachiv meira she'amar maneh yesh li etzel ploni* — a *shchiv mera* who says, I have a claim of one *maneh* against so-and-so. He is not paying a debt — he is making a claim. He is telling those assembled that a third party owes him money, and he wants this fact recorded. The question: *ha'eidim kotvim* — may the witnesses write this down?
 
 The witnesses know what he said. They do not know whether it is true. They may have no idea who the alleged debtor is. The Mishnah says they may write it down — *af al pi she'ein makirin* — even without knowing the other party's identity, and even without knowing whether the claim is accurate. But the question is what this document actually attests to.
 
 ### Rabbi Meir Position
-
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, אָמַר לִי הוּנָא: תָּנָא, רַבִּי מֵאִיר אוֹמֵר: אֵין כּוֹתְבִין, וַחֲכָמִים אוֹמְרִים: כּוֹתְבִין. וְאַף רַבִּי מֵאִיר לָא אָמַר אֶלָּא מִשּׁוּם בֵּית דִּין טוֹעִין. אָמַר רַב דִּימִי מִנְּהַרְדְּעָא, הִלְכְתָא: אֵין חוֹשְׁשִׁין לְבֵית דִּין טוֹעִין.
->
-> **Translation:** **Rav Naḥman says:** Rav **Huna told me** that the opposite is **taught** in another *baraita*: **Rabbi Meir says** that the witnesses **may not write** his statement in a document unless they know for a fact that the statement is true, **and the Rabbis say** that **they may write** it even if they do not know whether the statement is true; **and even Rabbi Meir said** that they may not write it **only due to** the concern that it might be presented before **a court that errs** and allows the heirs to collect without furnishing additional proof. **Rav Dimi of Neharde'a says: The *halakha*** is that **there is no concern about** the possibility of **a court that errs.**
 
 Rav Nachman bar Yitzchak transmits that the names are reversed from how they first appeared in the *Braisa*. The version he received has Rabbi Meir saying: *ein kotvin* — the witnesses may not write it down. Why? Because when they do write it, the concern is that a *beit din* will see the document and treat it as testimony to the truth of the claim, ordering collection without requiring additional evidence. Since the witnesses themselves do not know whether the claim is true, writing it in the form of a witnessed document is dangerous.
 
@@ -224,17 +249,26 @@ The Chachamim hold: *kotvin* — write it. The witnesses are testifying to what 
 
 ### Erring Courts Concern
 
-> **Hebrew/Aramaic:* וּמַאי שְׁנָא מִדְּרָבָא? דְּאָמַר רָבָא: אֵין חוֹלְצִין אֶלָּא אִם כֵּן מַכִּירִין, וְאֵין מְמָאֲנִין אֶלָּא אִם כֵּן מַכִּירִין. לְפִיכָךְ כּוֹתְבִין גֵּט חֲלִיצָה וְגֵט מֵיאוּן, וְאַף עַל פִּי שֶׁאֵין מַכִּירִין. מַאי טַעְמָא? לָאו מִשּׁוּם דְּחוֹשְׁשִׁין לְבֵית דִּין טוֹעִין? לָא; בֵּית דִּינָא בָּתַר בֵּית דִּינָא – לָא דָּיְיקִי, בֵּית דִּינָא בָּתַר עֵדִים – דָּיְיקִי.
->
-> **Translation:** The Gemara asks: **And** in **what** way **is** this case **different from Rava's** statement? **As Rava says:** A court **may not** supervise ***ḥalitza* unless** the judges **recognize** the *yavam* and *yevama*. **And** a court **may not** supervise a declaration of the **refusal** of a girl upon her reaching majority to remain married to the man to whom her mother or brothers married her as a minor after the death of her father, **unless they recognize** the girl. **Therefore,** another court **may write a document** attesting to the performance **of *ḥalitza* or a document** stating that a declaration **of refusal** was made in a court elsewhere based on the testimony of witnesses **even if** the judges **do not recognize** these people, relying on the presumption the first court would not have allowed the act to be performed had they not been sure of the identities of the parties. **What is the reason** Rava said that the court must recognize the participants in these actions? Is it **not due to the concern that a court that errs** might write such a document based on the testimony of witnesses without verifying that the participating parties were recognized by the court where the *ḥalitza* or refusal took place? The Gemara answers: The two issues are **not** the same. **A court does not** normally **examine** the act of **another court,** so there is concern that the court where the document is written might assume that the court where the act took place recognized the participating parties. But **a court does** normally **examine** the statement of **witnesses.** Therefore, there is no concern that it will rely on a statement written by witnesses without their knowledge of its accuracy.
-
 The reason Rabbi Meir objects — in this version of the tradition — is not that the witnesses are overstepping by writing what they heard, but that *beit din to'in*, erring courts, may misread the document. A sloppy *beit din* might see a signed, witnessed *shtar* and assume that the signatures attest to the underlying facts rather than merely to the testimony of what the *shchiv mera* said. On this reading, everyone agrees in principle that a properly functioning *beit din* would understand the document correctly. The concern is practical and institutional, not conceptual.
 
 ### Rav Dimi Ruling
 
 Rav Dimi mi-Nehardea rules: *hilchata ein chosheshin le-beit din to'in* — the Halachic practice does not worry about erring courts. The witnesses may write the *shtar*, and a competent *beit din* will read it for what it is: testimony to a deathbed statement, not testimony to the truth of the claim itself.
 
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, אָמַר לִי הוּנָא: תָּנָא, רַבִּי מֵאִיר אוֹמֵר: אֵין כּוֹתְבִין, וַחֲכָמִים אוֹמְרִים: כּוֹתְבִין. וְאַף רַבִּי מֵאִיר לָא אָמַר אֶלָּא מִשּׁוּם בֵּית דִּין טוֹעִין. אָמַר רַב דִּימִי מִנְּהַרְדְּעָא, הִלְכְתָא: אֵין חוֹשְׁשִׁין לְבֵית דִּין טוֹעִין.
+> **Translation:** **Rav Naḥman says:** Rav **Huna told me** that the opposite is **taught** in another *baraita*: **Rabbi Meir says** that the witnesses **may not write** his statement in a document unless they know for a fact that the statement is true, **and the Rabbis say** that **they may write** it even if they do not know whether the statement is true; **and even Rabbi Meir said** that they may not write it **only due to** the concern that it might be presented before **a court that errs** and allows the heirs to collect without furnishing additional proof. **Rav Dimi of Neharde’a says: The *halakha*** is that **there is no concern about** the possibility of **a court that errs.**
+
 ### Beit Din Review Rules
+
+
+> **Hebrew/Aramaic:** וּמַאי שְׁנָא מִדְּרָבָא? דְּאָמַר רָבָא: אֵין חוֹלְצִין אֶלָּא אִם כֵּן מַכִּירִין, וְאֵין מְמָאֲנִין אֶלָּא אִם כֵּן מַכִּירִין. לְפִיכָךְ כּוֹתְבִין גֵּט חֲלִיצָה וְגֵט מֵיאוּן, וְאַף עַל פִּי שֶׁאֵין מַכִּירִין.
+> **Translation:** The Gemara asks: **And** in **what** way **is** this case **different from Rava’s** statement? **As Rava says:** A court **may not** supervise ***ḥalitza* unless** the judges **recognize** the *yavam* and *yevama*. **And** a court **may not** supervise a declaration of the **refusal** of a girl upon her reaching majority to remain married to the man to whom her mother or brothers married her as a minor after the death of her father, **unless they recognize** the girl. **Therefore,** another court **may write a document** attesting to the performance **of *ḥalitza* or a document** stating that a declaration **of refusal** was made in a court elsewhere based on the testimony of witnesses **even if** the judges **do not recognize** these people, relying on the presumption the first court would not have allowed the act to be performed had they not been sure of the identities of the parties.
+
+> **Hebrew/Aramaic:** מַאי טַעְמָא? לָאו מִשּׁוּם דְּחוֹשְׁשִׁין לְבֵית דִּין טוֹעִין?
+> **Translation:** **What is the reason** Rava said that the court must recognize the participants in these actions? Is it **not due to the concern that a court that errs** might write such a document based on the testimony of witnesses without verifying that the participating parties were recognized by the court where the *ḥalitza* or refusal took place?
+
+> **Hebrew/Aramaic:** לָא; בֵּית דִּינָא בָּתַר בֵּית דִּינָא – לָא דָּיְיקִי, בֵּית דִּינָא בָּתַר עֵדִים – דָּיְיקִי.
+> **Translation:** The Gemara answers: The two issues are **not** the same. **A court does not** normally **examine** the act of **another court,** so there is concern that the court where the document is written might assume that the court where the act took place recognized the participating parties. But **a court does** normally **examine** the statement of **witnesses.** Therefore, there is no concern that it will rely on a statement written by witnesses without their knowledge of its accuracy.
 
 But then the Gemara raises a tension. Rava ruled that a *beit din* may not perform *chalitzah* unless they know the identities of the parties — that this man is indeed the *yavam*, the brother-in-law. Similarly, *miun* — a minor bride's rejection of her rabbinic marriage — cannot be performed without the *beit din* knowing the parties. *Aval af al pi she'ein makirin* — and yet, *get chalitzah* and *get miun* may be written down even without independent knowledge of the parties' identities by the witnessing scribes, because the *beit din* itself would never have acted without certainty.
 

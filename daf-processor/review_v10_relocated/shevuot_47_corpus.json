@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Nichbal Setup",
+    "candidates": [
+      "Mishna Nichbal Setup",
+      "Self-Infliction, Not Wall",
+      "Injury Location Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda/Shmuel's teaching about the oath being required only where self-injury is possible, which is precisely what candidate 1's prose describes and elaborates upon.",
+      "chosen_heading": "Self-Infliction, Not Wall",
+      "current_heading": "Mishna Nichbal Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Injury Location Proof",
+    "candidates": [
+      "Self-Infliction, Not Wall",
+      "Injury Location Proof",
+      "Third Party Exclusion",
+      "Chashud Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the wall-scraping objection answered by Rabbi \u1e24iyya's bite-location teaching AND the third-party challenge, which matches heading 1's prose that explicitly discusses both the wall objection and Rabbi Chiyya's response about bite location proving human agency, with the third-party element being a continuation of the same Gemara unit already described there.",
+      "chosen_heading": "Injury Location Proof",
+      "current_heading": "Injury Location Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Chashud Definition",
+    "candidates": [
+      "Third Party Exclusion",
+      "Chashud Definition",
+      "Shav vs. Bitui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the mishna's 'even an oath taken in vain' formulation and the lo mibayya construction explaining why shvuat shav renders one chashud al hashvua \u2014 exactly what the 'Chashud Definition' prose describes.",
+      "chosen_heading": "Chashud Definition",
+      "current_heading": "Chashud Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Shav vs. Bitui",
+    "candidates": [
+      "Shav vs. Bitui",
+      "Rashi: Past Oaths",
+      "Disqualified List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Gemara discussion about why shvuat bittui is excluded from the Mishna's list, followed by the objection about past-tense oaths and the resolution via 'shvuat shav v'chol dedami leh' \u2014 exactly what the 'Shav vs. Bitui' prose describes.",
+      "chosen_heading": "Shav vs. Bitui",
+      "current_heading": "Shav vs. Bitui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Disqualified List",
+    "candidates": [
+      "Rashi: Past Oaths",
+      "Disqualified List",
+      "Two Levels Psul",
+      "Yossi vs. Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why the Mishna lists multiple cases \u2014 answering 'hai tu lama li' by explaining the distinction between psulei d'oraisa and psulei d'rabbanan \u2014 which is precisely what candidate 2 ('Two Levels Psul') addresses in its prose.",
+      "chosen_heading": "Two Levels Psul",
+      "current_heading": "Disqualified List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Yossi vs. Meir",
+    "candidates": [
+      "Two Levels Psul",
+      "Yossi vs. Meir",
+      "Rava's Inquiry",
+      "Confirming Yachloku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly Rava's question to Rav Na\u1e25man about 'heichi tnan' and 'hilchesa mai' and Rav Na\u1e25man's double 'lo yadna' response, which is precisely what the prose of 'Rava's Inquiry' discusses.",
+      "chosen_heading": "Rava's Inquiry",
+      "current_heading": "Yossi vs. Meir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Confirming Yachloku",
+    "candidates": [
+      "Rava's Inquiry",
+      "Confirming Yachloku",
+      "Text Inversion Theory",
+      "Rav & Shmuel View",
+      "Rabbi Abba View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly reports Rabbi Yossi bar Minyumi's tradition from Rav Nachman, Rav Zvid bar Oshaya's confirmation, and Rav Nachman's practical ruling of yachloku \u2014 exactly what the prose under 'Confirming Yachloku' describes.",
+      "chosen_heading": "Confirming Yachloku",
+      "current_heading": "Confirming Yachloku",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rabbi Abba View",
+    "candidates": [
+      "Text Inversion Theory",
+      "Rav & Shmuel View",
+      "Rabbi Abba View",
+      "Orphans' Oath Rule",
+      "Borrower Dies First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the Babylonian view (oath returns to Sinai) and the Eretz Yisrael view (oath returns to the one liable) together as a unit, and candidate 1 ('Rav & Shmuel View') explicitly discusses both opinions including Rabbi Ami's report of both positions, whereas candidate 2 only covers the Eretz Yisrael view in isolation.",
+      "chosen_heading": "Rav & Shmuel View",
+      "current_heading": "Rabbi Abba View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Borrower Dies First",
+    "candidates": [
+      "Orphans' Oath Rule",
+      "Borrower Dies First",
+      "Oath Non-Inheritance",
+      "Rav & Shmuel Conclusion",
+      "Theft Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's proof that 'Our Sages in Babylonia' refers to Rav and Shmuel \u2014 item 1 raises the orphans' oath mishna and its interpretation, and item 2 gives Rav and Shmuel's ruling on it \u2014 which matches heading 0's prose about the orphans' oath mishna and the hayetomim min hayetomim case, not the current placement under 'Borrower Dies First.'",
+      "chosen_heading": "Orphans' Oath Rule",
+      "current_heading": "Borrower Dies First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Theft Setup",
+    "candidates": [
+      "Oath Non-Inheritance",
+      "Rav & Shmuel Conclusion",
+      "Theft Setup",
+      "Rabbi Ami's Dilemma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the setup of the Rabbi Abba stolen-metal case \u2014 the snatching, the single witness, and the defendant's claim of recovering his own property \u2014 which is precisely what the 'Theft Setup' prose describes.",
+      "chosen_heading": "Theft Setup",
+      "current_heading": "Theft Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rabbi Ami's Dilemma",
+    "candidates": [
+      "Rabbi Ami's Dilemma",
+      "Abba's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Ami's articulation of the three-way dilemma (pay/exempt/swear), which is precisely what the prose under heading 0 describes and analyzes.",
+      "chosen_heading": "Rabbi Ami's Dilemma",
+      "current_heading": "Rabbi Ami's Dilemma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Abba's Resolution",
+    "candidates": [
+      "Abba's Resolution",
+      "Rava's Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abba's own statement of the principle that one liable to an oath who cannot swear must pay, which is precisely what the 'Abba's Resolution' prose section describes and analyzes.",
+      "chosen_heading": "Abba's Resolution",
+      "current_heading": "Abba's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rava's Agreement",
+    "candidates": [
+      "Rava's Agreement",
+      "Psuk Application",
+      "Uncertain Borrowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's explicit statement agreeing with Rabbi Abba, which is exactly what the 'Rava's Agreement' section prose describes, even though it also introduces the baraita of Rabbi Ami that begins to be discussed in the next section.",
+      "chosen_heading": "Rava's Agreement",
+      "current_heading": "Rava's Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Uncertain Borrowing",
+    "candidates": [
+      "Psuk Application",
+      "Uncertain Borrowing",
+      "Psuk Necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's exploration of 'heichi dami' \u2014 what precisely is the case \u2014 first rejecting the modeh b'miktzat scenario (item 1) and then arriving at the lo yadana scenario (item 2), which is exactly what candidate 0's prose describes as the Gemara asking 'heichi dami' to specify the case, before the detailed discussion of lo yadana in candidate 1.",
+      "chosen_heading": "Psuk Application",
+      "current_heading": "Uncertain Borrowing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Psuk Necessity",
+    "candidates": [
+      "Uncertain Borrowing",
+      "Psuk Necessity",
+      "Both Parties Affected"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Psuk Necessity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba's argument about the pasuk's necessity for exempting heirs, which is precisely what the 'Psuk Necessity' prose describes.",
+      "second_heading": "Both Parties Affected",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks what Rav and Shmuel derive from 'shvuat Hashem,' which is exactly the question the 'Both Parties Affected' prose addresses before giving their answer from the baraita.",
+      "current_heading": "Psuk Necessity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Both Parties Affected",
+    "candidates": [
+      "Both Parties Affected",
+      "Tarfon's Other Teachings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita of Shimon ben Tarfon teaching that the oath applies to both parties, which is exactly what candidate 0's prose discusses as the answer to how Rav and Shmuel interpret the pasuk.",
+      "chosen_heading": "Both Parties Affected",
+      "current_heading": "Both Parties Affected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Tarfon's Other Teachings",
+    "candidates": [
+      "Tarfon's Other Teachings",
+      "Three-Party Setup",
+      "Rabbi's Objection",
+      "Both Parties Swear",
+      "Rabbi's Solution",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are teachings of Shimon ben Tarfon \u2014 on facilitating adultery, on the murmuring in the tents, and on the greatness of the Euphrates \u2014 exactly matching the prose of candidate 0, which explicitly describes all three drashot.",
+      "chosen_heading": "Tarfon's Other Teachings",
+      "current_heading": "Tarfon's Other Teachings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "Three-Party Setup",
+      "Rabbi's Objection",
+      "Both Parties Swear",
+      "Rabbi's Solution",
+      "Rava's Solution",
+      "Contradiction Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous discussion of Rabbi's objection to the oath mechanism and its resolution \u2014 starting with Rabbi's question (why the bother of this oath), through Rabbi \u1e24iyya's answer, to whether Rabbi accepted it, and finally Rava's reconciliation \u2014 all of which the 'Rabbi's Objection' prose section frames as addressing exactly this question of why we impose oaths when one party must be lying.",
+      "chosen_heading": "Rabbi's Objection",
+      "current_heading": "Rava's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Contradiction Framework",
+    "candidates": [
+      "Rava's Solution",
+      "Contradiction Framework",
+      "Rav Huna View",
+      "Rav Chisda View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the scenario of two contradictory sets of witnesses and presents both Rav Huna's and Rav Chisda's positions together, which matches heading 1 ('Contradiction Framework') that describes the Gemara using the case as a springboard to introduce the broader problem of two sets of witnesses who contradict each other.",
+      "chosen_heading": "Contradiction Framework",
+      "current_heading": "Contradiction Framework",
+      "moved": false
+    }
+  }
+]

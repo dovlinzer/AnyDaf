@@ -82,7 +82,7 @@
           "timestamp": "11:55"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -368,5 +368,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "44:35",
+  "amud_b_micro_title": "Vessels & Land Problem",
+  "shiur_start_daf": 39,
+  "shiur_start_amud": "b"
 }

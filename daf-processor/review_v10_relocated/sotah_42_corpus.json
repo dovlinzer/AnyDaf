@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hebrew Requirement",
+    "candidates": [
+      "Hebrew Requirement",
+      "Brothers vs Enemies",
+      "Pekach & Oded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna establishing the requirement that the priest anointed for war speaks in lashon ha-kodesh, which is precisely what the 'Hebrew Requirement' section's prose discusses.",
+      "chosen_heading": "Hebrew Requirement",
+      "current_heading": "Hebrew Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Pekach & Oded",
+    "candidates": [
+      "Brothers vs Enemies",
+      "Pekach & Oded",
+      "Courage Speech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'against your enemies not your brothers' exposition with the Chronicles proof-text, which is the core content described in the 'Brothers vs Enemies' section prose, not the separate Pekach & Oded narrative section.",
+      "chosen_heading": "Brothers vs Enemies",
+      "current_heading": "Pekach & Oded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Courage Speech",
+    "candidates": [
+      "Pekach & Oded",
+      "Courage Speech",
+      "Kohen Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core content of the priest's courage speech \u2014 the enumeration of battlefield fears and the theological reassurance about God accompanying the army \u2014 which is exactly what the 'Courage Speech' prose describes in detail.",
+      "chosen_heading": "Courage Speech",
+      "current_heading": "Courage Speech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Kohen Authority",
+    "candidates": [
+      "Kohen Authority",
+      "Sgan HaKohanim",
+      "Shema Yisrael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about which kohen delivers the battlefield address \u2014 establishing it must be an appointed kohen, ruling out the kohen gadol, and then ruling out the sgan \u2014 which matches exactly the prose of heading 0 ('Kohen Authority') discussing memuneh, the shoter analogy, and the kohen gadol question.",
+      "chosen_heading": "Kohen Authority",
+      "current_heading": "Kohen Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Shema Yisrael",
+    "candidates": [
+      "Sgan HaKohanim",
+      "Shema Yisrael",
+      "Timing & Content"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the phrase 'Shema Yisrael' in the priest's battlefield address and Rabbi Yochanan's explanation of why this formulation was used, which is exactly what the 'Shema Yisrael' section's prose describes.",
+      "chosen_heading": "Shema Yisrael",
+      "current_heading": "Shema Yisrael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Timing & Content",
+    "candidates": [
+      "Timing & Content",
+      "Four Tactics",
+      "Goliath Brazenness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the two-speech structure (border vs. battlefield) and their respective contents, which is precisely what the 'Timing & Content' prose discusses, including the border address and the battlefield courage speech with its four expressions.",
+      "chosen_heading": "Timing & Content",
+      "current_heading": "Timing & Content",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Goliath Brazenness",
+    "candidates": [
+      "Four Tactics",
+      "Goliath Brazenness",
+      "Self-Trapping Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's drasha on the name Golyat as brazenness before God, the ish/ben ish wordplay, and God's response \u2014 exactly what the 'Goliath Brazenness' prose section describes.",
+      "chosen_heading": "Goliath Brazenness",
+      "current_heading": "Goliath Brazenness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Self-Trapping Words",
+    "candidates": [
+      "Self-Trapping Words",
+      "Beinayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Self-Trapping Words': Item 1 is the core three-instances teaching and Item 2 (Goliath appearing morning and evening to disrupt Shema) is explicitly woven into that section's prose as a connected theme about what Goliath was trying to undermine.",
+      "chosen_heading": "Self-Trapping Words",
+      "current_heading": "Self-Trapping Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Beinayim",
+    "candidates": [
+      "Beinayim",
+      "Harpa/Arpa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Goliath's name and origins (beinayim, Gat, me'arot/ma'arkhot), and candidate 0's prose explicitly covers all of this content including Rav Yosef's teachings about his mother, making it the clear home for both items.",
+      "chosen_heading": "Beinayim",
+      "current_heading": "Beinayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Harpa/Arpa",
+    "candidates": [
+      "Harpa/Arpa",
+      "Four Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rav and Shmuel over the two names Harafa/Orpah and the meanings derived from each, along with the supporting verses about harifot \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Harpa/Arpa",
+      "current_heading": "Harpa/Arpa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Four Children",
+    "candidates": [
+      "Four Children",
+      "Orpah's Reward",
+      "Praising Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies the four sons born to Harafa (Rav \u1e24isda's answer), which directly matches the 'Four Children' section's prose discussing Rav Chisda's identification of the four sons born to Harpa in Gat.",
+      "chosen_heading": "Four Children",
+      "current_heading": "Four Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Praising Wicked",
+    "candidates": [
+      "Orpah's Reward",
+      "Praising Wicked",
+      "Shovach Names"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Orpah's Reward",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Orpah's four tears and the reward of four mighty warriors, plus Rabbi Yitz\u1e25ak's teaching about children of the one who kissed vs. cleaved \u2014 all content directly addressed in the 'Orpah's Reward' prose.",
+      "second_heading": "Praising Wicked",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the written vs. read form of Goliath's spear description and the prohibition against praising the wicked, which exactly matches the 'Praising Wicked' prose.",
+      "current_heading": "Praising Wicked",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Shovach Names",
+    "candidates": [
+      "Shovach Names",
+      "Ashpato Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the dispute between Rav and Shmuel over whether the general's name was Shobach or Shophach and the etymological explanations for each name, which is exactly what the 'Shovach Names' section prose describes.",
+      "chosen_heading": "Shovach Names",
+      "current_heading": "Shovach Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Ashpato Meaning",
+    "candidates": [
+      "Ashpato Meaning",
+      "Excrement View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both interpretations of 'ashpato' including the arrows/corpses view and the excrement view, matching the 'Ashpato Meaning' section which introduces the full dispute, while the 'Excrement View' section is specifically for the follow-on discussion about Rav Mari's medical inference.",
+      "chosen_heading": "Ashpato Meaning",
+      "current_heading": "Ashpato Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Excrement View",
+    "candidates": [
+      "Excrement View",
+      "Managing Worry",
+      "Therapy Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Mari's inference regarding excessive excrement indicating intestinal illness is explicitly discussed in the 'Excrement View' section's prose, which directly mentions this teaching and its practical implication.",
+      "chosen_heading": "Excrement View",
+      "current_heading": "Excrement View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Therapy Methods",
+    "candidates": [
+      "Managing Worry",
+      "Therapy Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces the verse and the dispute between Rabbi Ami and Rabbi Asi, which matches heading 0's prose describing the citation of the verse and the two competing readings, while heading 1's prose discusses the therapeutic implications of those readings rather than introducing them \u2014 however, heading 1's prose also closely describes the exact content of the passage, so the match is not entirely clear-cut.",
+      "chosen_heading": "Managing Worry",
+      "current_heading": "Therapy Methods",
+      "moved": true
+    }
+  }
+]

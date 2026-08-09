@@ -1,0 +1,452 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "La'atzeis vs. La'avor",
+    "candidates": [
+      "La'atzeis vs. La'avor",
+      "Lulav & Intentionality",
+      "Bizmano vs. Shelo Bizmano",
+      "Types of Kavanah",
+      "Rav Zeira's Shofar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "La'atzeis vs. La'avor",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's initial formulation that la'atzeis requires no kavanah but la'avor does, which is precisely what heading 0 ('La'atzeis vs. La'avor') describes.",
+      "second_heading": "Lulav & Intentionality",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the challenge from matan damim according to Rabbi Yehoshua and Rava's revised bizmano/shelo bizmano distinction, which is exactly what heading 1 ('Lulav & Intentionality') describes as the Gemara's challenge to Rava's formulation via the matan damim case.",
+      "current_heading": "La'atzeis vs. La'avor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rav Zeira's Shofar",
+    "candidates": [
+      "Lulav & Intentionality",
+      "Bizmano vs. Shelo Bizmano",
+      "Types of Kavanah",
+      "Rav Zeira's Shofar",
+      "Shomea & Mashmia",
+      "Overhearing Behind Shul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items describe the case of someone overhearing the shofar from behind the synagogue and the challenge this poses to Rav Zeira's requirement of mashmia intent, which is precisely what candidate 5 ('Overhearing Behind Shul') discusses in its prose.",
+      "chosen_heading": "Overhearing Behind Shul",
+      "current_heading": "Rav Zeira's Shofar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Overhearing Behind Shul",
+    "candidates": [
+      "Shomea & Mashmia",
+      "Overhearing Behind Shul",
+      "Shliach Tzibur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the shliach tzibbur's blanket intent extending to all hearers (dedaateih achulei alma), which is precisely what the 'Overhearing Behind Shul' section's prose describes as the Gemara's resolution to the incidental listener problem.",
+      "chosen_heading": "Overhearing Behind Shul",
+      "current_heading": "Overhearing Behind Shul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Shliach Tzibur",
+    "candidates": [
+      "Shliach Tzibur",
+      "Two Levels of Intent",
+      "Hands of Moshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the baraita about shomea/mashmia intent and Rabbi Yosi's distinction between shliach tzibbur and a private individual \u2014 exactly the content discussed in the 'Shliach Tzibur' prose section, which explicitly references 'tannai hi', 'mashmia lefi darko', 'bameh devarim amurim bishliach tzibbur', and the parallel phrasing challenge.",
+      "chosen_heading": "Shliach Tzibur",
+      "current_heading": "Shliach Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Hands of Moshe",
+    "candidates": [
+      "Two Levels of Intent",
+      "Hands of Moshe",
+      "Serpent on Pole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna about Moses's hands and Israel prevailing, which directly matches the 'Hands of Moshe' section prose that discusses exactly this verse and rhetorical question.",
+      "chosen_heading": "Hands of Moshe",
+      "current_heading": "Hands of Moshe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Serpent on Pole",
+    "candidates": [
+      "Serpent on Pole",
+      "Removing Magic",
+      "Obligation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the serpent-on-pole narrative and the rhetorical question about whether the serpent kills or heals, which is precisely what the prose under heading 0 ('Serpent on Pole') describes.",
+      "chosen_heading": "Serpent on Pole",
+      "current_heading": "Serpent on Pole",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Obligation Principle",
+    "candidates": [
+      "Removing Magic",
+      "Obligation Principle",
+      "Cheresh, Shote, Katan",
+      "General Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the principle about cheresh, shote, and katan not being able to discharge public obligations, which is exactly what the 'Obligation Principle' section's prose discusses and introduces.",
+      "chosen_heading": "Obligation Principle",
+      "current_heading": "Obligation Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "General Categories",
+    "candidates": [
+      "Cheresh, Shote, Katan",
+      "General Categories",
+      "Tumtum Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists all obligated categories (Kohanim, Levi'im, Yisraelim, converts, freed slaves, tumtum, androginos, half-slave/half-free), which exactly matches the 'General Categories' prose describing the baraita's enumeration of those obligated in tkias shofar.",
+      "chosen_heading": "General Categories",
+      "current_heading": "General Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Tumtum Status",
+    "candidates": [
+      "Tumtum Status",
+      "Androgynous Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tumtum Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the full baraita on tumtum, androgynous, and half-slave, which spans both headings 0 and 1 \u2014 but given the current placement under 'Tumtum Status' and that the prose for heading 0 explicitly discusses this baraita text, item 1 belongs under heading 0.",
+      "second_heading": "Androgynous Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a new Gemara discussion beginning with 'The Master said' quoting a different clause of the baraita about priests/Levites/Israelites, which is a distinct topic unrelated to tumtum/androgynous status and represents a structural break to a new analytical unit.",
+      "current_heading": "Tumtum Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Androgynous Status",
+    "candidates": [
+      "Androgynous Status",
+      "Half-Slave Status",
+      "Self-Discharge Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "The passage discusses why a baraita needed to explicitly include priests in the shofar obligation, which relates to the broader discussion of who is obligated \u2014 but none of the candidate prose sections clearly discuss this priests/shofar topic; the current placement under 'Androgynous Status' is wrong, and 'Self-Discharge Issue' is the closest contextual neighbor though still not a good match, so confidence is low.",
+      "chosen_heading": "Self-Discharge Issue",
+      "current_heading": "Androgynous Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Self-Discharge Issue",
+    "candidates": [
+      "Half-Slave Status",
+      "Self-Discharge Issue",
+      "All Brachos Rule",
+      "Bnei Hanaa Exception",
+      "Integrated Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous dispute about whether the half-slave can discharge his own obligation \u2014 Rav Huna's ruling, Rav Nachman's challenge, and the baraita confirmation \u2014 which is precisely what the 'Self-Discharge Issue' prose describes in detail.",
+      "chosen_heading": "Self-Discharge Issue",
+      "current_heading": "Self-Discharge Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Integrated Blessings",
+    "candidates": [
+      "All Brachos Rule",
+      "Bnei Hanaa Exception",
+      "Integrated Blessings",
+      "Rav Ashi Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bnei Hanaa Exception",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the baraita of Ahava b'rei d'Rabbi Zeira establishing the general rule and the birchat hanehenin exception, which matches the prose of 'Bnei Hanaa Exception' describing exactly this baraita and its chutz mibirchat halechem u'birchat hayayin rule.",
+      "second_heading": "Integrated Blessings",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 contain Rava's dilemma about birchat halechem shel matzah and birchat hayayin shel kiddush, which is precisely what 'Integrated Blessings' prose addresses \u2014 the question of whether birchat hanehenin absorbed into birchat hamitzvah retains the restriction.",
+      "current_heading": "Integrated Blessings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav Ashi Example",
+    "candidates": [
+      "Rav Ashi Example",
+      "Chinuch Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's account of Rav Pappi reciting kiddush for students and tenants, which directly matches the 'Rav Ashi Example' section's prose discussing this exact episode.",
+      "chosen_heading": "Rav Ashi Example",
+      "current_heading": "Rav Ashi Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Chinuch Rule",
+    "candidates": [
+      "Chinuch Rule",
+      "Hallel & Megillah",
+      "Mishnah Context",
+      "Temple vs. Outside",
+      "Rabban Yochanan's Edict",
+      "Rabbi Elazar Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the chinuch rule (breaking bread for household members) and the hallel/megillah rule in a single passage, and the current heading's prose ('Chinuch Rule') directly quotes and discusses the full baraita including both parts, making it the correct placement.",
+      "chosen_heading": "Chinuch Rule",
+      "current_heading": "Chinuch Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rabbi Elazar Dispute",
+    "candidates": [
+      "Hallel & Megillah",
+      "Mishnah Context",
+      "Temple vs. Outside",
+      "Rabban Yochanan's Edict",
+      "Rabbi Elazar Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The 'Hadr\u00e1n' formula marks the end of a tractate/chapter, and given the context this appears to be the closing of the chapter discussed under 'Mishnah Context' (the fourth perek of Rosh Hashanah), making it a concluding liturgical marker for that section rather than belonging under the Rabbi Elazar dispute.",
+      "chosen_heading": "Mishnah Context",
+      "current_heading": "Rabbi Elazar Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rabbi Elazar Dispute",
+    "candidates": [
+      "Rabbi Elazar Dispute",
+      "Jerusalem Advantage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Mishnah including the Rabbi Elazar dispute and the Chachamim's response, which is precisely what candidate 0's prose discusses, while candidate 1's prose covers a subsequent part of the Mishnah about Jerusalem's additional advantage over Yavneh, which is not present in this passage.",
+      "chosen_heading": "Rabbi Elazar Dispute",
+      "current_heading": "Rabbi Elazar Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Jerusalem Advantage",
+    "candidates": [
+      "Jerusalem Advantage",
+      "Verses Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Jerusalem's additional superiority over Yavne in shofar blowing, which is precisely what the 'Jerusalem Advantage' section's prose discusses.",
+      "chosen_heading": "Jerusalem Advantage",
+      "current_heading": "Jerusalem Advantage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Verses Reconciliation",
+    "candidates": [
+      "Verses Reconciliation",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Verses Reconciliation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rabbi Levi bar La\u1e25ma / Rabbi \u1e24ama bar \u1e24anina verse reconciliation, which is precisely what the 'Verses Reconciliation' prose describes.",
+      "second_heading": "Rava's Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's challenge to that biblical distinction, which matches exactly the 'Rava's Logic' prose section discussing Rava's objection about the Temple and whether shofar-blowing is even a melakha.",
+      "current_heading": "Verses Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Rava's Logic",
+      "Carrying Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage from the school of Shmuel teaching that shofar-blowing is a skill (chokhma) and not a melakha is explicitly cited as part of Rava's argument, and heading 0's prose directly quotes and discusses this baraita in context of Rava's challenge.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Rava's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Carrying Concern",
+    "candidates": [
+      "Carrying Concern",
+      "Lulav & Megillah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement that shofar-blowing on Shabbat is biblically permitted but rabbinically prohibited, and Rabba's carrying-concern decree, which is precisely what the 'Carrying Concern' section's prose describes.",
+      "chosen_heading": "Carrying Concern",
+      "current_heading": "Carrying Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Lulav & Megillah",
+    "candidates": [
+      "Lulav & Megillah",
+      "Mikdash Exemption",
+      "Yerushalmi View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the reason for the lulav and megillah prohibitions on Shabbat, which is precisely what the 'Lulav & Megillah' section prose discusses.",
+      "chosen_heading": "Lulav & Megillah",
+      "current_heading": "Lulav & Megillah",
+      "moved": false
+    }
+  }
+]

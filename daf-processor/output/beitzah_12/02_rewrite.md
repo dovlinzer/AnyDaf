@@ -98,11 +98,7 @@ The *meleches avodah* formulation implies something structurally different. Rath
 
 ### Building Excluded
 
-This question of categorical breadth has immediate practical implications. Tosafot in Shabbos notes that the Gemara there holds that making cheese is a violation of *boneh* — constructing — because milk coagulates and solidifies into a formed object. One might therefore reason: since *boneh* can be performed for food purposes (making cheese), *mitoch she-huttra le-tzorech huttra nami she-lo le-tzorech* — once permitted for a purpose, it is permitted even without that purpose — and therefore one could build a building on Yom Tov for any reason at all. Tosafot raises this inference and acknowledges that biblically it might in fact follow, while suggesting it remains rabbinically forbidden. This is a striking position — and it highlights why the scope of *mitoch* is not self-evident. Does the principle apply to every *melacha* for which a food-related use can be found? Or is it limited to specific *melachos*?
-
-The Gemara, when it applies *mitoch*, does so only in connection with carrying, *shechitah*, fire, and cooking — precisely the *melachos* that are directly and essentially involved in food production. The Gemara never suggests extending *mitoch* to *boneh* on account of cheese-making. This strongly implies that *mitoch* is anchored to the *melachos* that are functionally constitutive of food preparation, not extended mechanically to any *melacha* that happens to admit a food-related application.
-
----
+The Gemara applies *mitoch* only in connection with carrying, *shechitah*, fire, and cooking — the *melachos* directly and essentially involved in food production. It never suggests extending *mitoch* to *boneh* on account of cheese-making, as Tosafot does. This implies that *mitoch*, at least as the Gemara presents it, is anchored to those *melachos* that are functionally constitutive of food preparation. Even granting that *Beis Hillel* endorses *mitoch* beyond carrying alone, the principle may still be limited to this core cluster of food-related *melachos*, rather than applied mechanically to any *melacha* that happens to admit some food-related use.
 
 ## Tosafot View
 

@@ -1,0 +1,442 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Trivial vs. Substantive",
+    "candidates": [
+      "Witnesses Combination",
+      "Bedikot vs. Chakirot",
+      "Trivial vs. Substantive",
+      "Overlap Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion of Rav Yehuda's ruling on contradictions in bedikot, Rava's refinement distinguishing trivial vs. substantive contradictions (arnaki vs. mana), the challenge from Rav Chisda, the gavra-gavra resolution, and the Nardea'ei's position with the Rabbi Yehoshua ben Korcha question \u2014 precisely the content described in candidate 2's prose.",
+      "chosen_heading": "Trivial vs. Substantive",
+      "current_heading": "Trivial vs. Substantive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Overlap Principle",
+    "candidates": [
+      "Overlap Principle",
+      "Application Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Rabbi Shimon ben Elazar explaining the Beit Shammai/Beit Hillel dispute, which is precisely what the 'Overlap Principle' prose section describes and cites as the source for the Sages of Neharde'a's opinion.",
+      "chosen_heading": "Overlap Principle",
+      "current_heading": "Overlap Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Application Cases",
+    "candidates": [
+      "Application Cases",
+      "Dissenting Opinions",
+      "Lo Telech Rachil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the barrel of wine/oil case before Rabbi Ami, the challenge from Rabbi Shimon ben Elazar's principle, the monetary-value resolution, and the upper/lower floor case before Rabbi \u2014 are precisely the 'Application Cases' the prose in candidate 0 describes in detail.",
+      "chosen_heading": "Application Cases",
+      "current_heading": "Application Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Lo Telech Rachil",
+    "candidates": [
+      "Dissenting Opinions",
+      "Lo Telech Rachil",
+      "Student Story",
+      "30-Day Limit Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition on judges disclosing their dissenting vote after leaving court ('I deemed you exempt but my colleagues outvoted me'), which matches the 'Dissenting Opinions' section prose precisely, not the 'Lo Telech Rachil' section which focuses on the biblical source verses themselves.",
+      "chosen_heading": "Dissenting Opinions",
+      "current_heading": "Lo Telech Rachil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "30-Day Limit Debate",
+    "candidates": [
+      "Student Story",
+      "30-Day Limit Debate",
+      "Forfeiture Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Student Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the student-reveals-secrets story that belongs under 'Student Story', whose prose explicitly describes this exact episode about Rav Ami expelling a student for revealing secrets twenty-two years later.",
+      "second_heading": "30-Day Limit Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Mishnah and Rabban Shimon ben Gamliel's dispute about the thirty-day evidence deadline, which matches precisely the '30-Day Limit Debate' prose describing kol zman shemeivi raya and the Tanna Kamma vs. Rabban Shimon ben Gamliel disagreement.",
+      "current_heading": "30-Day Limit Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Forfeiture Principle",
+    "candidates": [
+      "Forfeiture Principle",
+      "Unknowingly Unavailable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Tanna Kamma's ruling that a litigant who declared having no witnesses or proof cannot later produce them \u2014 the core content of the 'Forfeiture Principle' section, which cites the same scenario and concludes with 'harei zeh eino klum.'",
+      "chosen_heading": "Forfeiture Principle",
+      "current_heading": "Forfeiture Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Unknowingly Unavailable",
+    "candidates": [
+      "Unknowingly Unavailable",
+      "Halacha: First Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Unknowingly Unavailable' prose: item 1 is Rabban Shimon ben Gamliel's defense of the litigant who genuinely didn't know he had witnesses, and item 2 is the limiting case (kirvu ploni u'ploni / proof from his sack) that even RSbG agrees is unacceptable \u2014 both explicitly discussed in that section's prose.",
+      "chosen_heading": "Unknowingly Unavailable",
+      "current_heading": "Unknowingly Unavailable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Halacha: First Case",
+    "candidates": [
+      "Halacha: First Case",
+      "Halacha: Second Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ruling that halacha follows Rabban Shimon ben Gamliel in the first case and that a court-imposed deadline can be reversed even after the fact (bedi'avad), which matches exactly the prose of candidate 0.",
+      "chosen_heading": "Halacha: First Case",
+      "current_heading": "Halacha: First Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Halacha: Second Case",
+    "candidates": [
+      "Halacha: Second Case",
+      "Three Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ruling that halacha follows the Rabbis (not Rabban Shimon ben Gamliel) in the second case, and the resolution that the explicit statement signals this is an exception \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Halacha: Second Case",
+      "current_heading": "Halacha: Second Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Three Exceptions",
+    "candidates": [
+      "Three Exceptions",
+      "Child Case Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba bar bar \u1e24anna citing Rabbi Yo\u1e25anan's rule about Rabban Shimon ben Gamliel with the three exceptions (arev, Tzidan, ra'aya achrona), which is exactly what the 'Three Exceptions' section's prose discusses.",
+      "chosen_heading": "Three Exceptions",
+      "current_heading": "Three Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Child Case Details",
+    "candidates": [
+      "Child Case Details",
+      "Children Unaware",
+      "Woman & Receipt",
+      "Rav Nachman Believes",
+      "Rava's Objection",
+      "Validated in Court"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together tell the complete child case story \u2014 the ruling against the child and the bystanders coming forward \u2014 which is precisely what the 'Child Case Details' prose describes in full, before the 'Children Unaware' section takes up Rav Nachman's follow-on ruling and its broader implications.",
+      "chosen_heading": "Child Case Details",
+      "current_heading": "Child Case Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Validated in Court",
+    "candidates": [
+      "Children Unaware",
+      "Woman & Receipt",
+      "Rav Nachman Believes",
+      "Rava's Objection",
+      "Validated in Court",
+      "Receipt Challenge",
+      "Migo Resolution",
+      "Until Claims Sealed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous sugya about the woman holding the shetar, Rav Nachman's ruling, Rava's migo argument, the alternative version where Rav Nachman disbelieves her, the itchazei b'bei dina response, the simpon challenge, and the final tiyuvta \u2014 all of which are described in the 'Validated in Court' section's prose.",
+      "chosen_heading": "Validated in Court",
+      "current_heading": "Validated in Court",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Until Claims Sealed",
+    "candidates": [
+      "Receipt Challenge",
+      "Migo Resolution",
+      "Until Claims Sealed",
+      "Exception Cases",
+      "Court Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous sugya about Rabbi Yochanan's rule that one can always bring evidence and overturn a verdict until claims are sealed, the internal contradiction between Rav Dimi's formulation (Rabbanan vs. Rabban Shimon ben Gamliel), and the resolution via Rav Shmuel bar Yehuda's more precise version \u2014 exactly what the 'Until Claims Sealed' prose describes.",
+      "chosen_heading": "Until Claims Sealed",
+      "current_heading": "Until Claims Sealed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Court Location",
+    "candidates": [
+      "Exception Cases",
+      "Court Location",
+      "Lender Dictates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ruling about compelling a litigant to go to the place of the Assembly when there is a dispute over court location, which matches exactly the 'Court Location' section's prose about the same ruling from Rav Dimi/Rabbi Yochanan.",
+      "chosen_heading": "Court Location",
+      "current_heading": "Court Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Lender Dictates",
+    "candidates": [
+      "Lender Dictates",
+      "Upon Request",
+      "Tosafot Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Lender Dictates' prose, which explicitly paraphrases Rabbi Elazar's objection about spending one hundred to recover one hundred and Rav Safra's ruling about compelled local adjudication with written correspondence to higher courts.",
+      "chosen_heading": "Lender Dictates",
+      "current_heading": "Lender Dictates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Tosafot Question",
+    "candidates": [
+      "Upon Request",
+      "Tosafot Question",
+      "Yibum Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text ('write and give it to him') that candidate 0's prose explicitly quotes and discusses, making it the natural home for this item.",
+      "chosen_heading": "Upon Request",
+      "current_heading": "Tosafot Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Yibum Case",
+    "candidates": [
+      "Tosafot Question",
+      "Yibum Case",
+      "Lender-Borrower"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the yevamah following the yavam, Rabbi Ami's ruling about Tiberias to Tzippori, and Rav Kahana's biblical derivation from 'elders of his city' \u2014 are precisely the content described in the 'Yibum Case' prose, which explicitly discusses each of these elements.",
+      "chosen_heading": "Yibum Case",
+      "current_heading": "Yibum Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Lender-Borrower",
+    "candidates": [
+      "Lender-Borrower",
+      "Letter to Mar Ukva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Ameimar/Rav Ashi exchange about compelling a litigant to the place of the Assembly and the borrower-lender principle, which is exactly what the 'Lender-Borrower' section's prose describes.",
+      "chosen_heading": "Lender-Borrower",
+      "current_heading": "Lender-Borrower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Letter to Mar Ukva",
+    "candidates": [
+      "Letter to Mar Ukva",
+      "Knas Explanation",
+      "Honoring Mar Ukva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the letter to Mar Ukva, the internal contradiction in the letter, and its resolution \u2014 are precisely described in the 'Letter to Mar Ukva' prose, which explicitly covers hagufa kashya, the contradiction, and the ei tzyat tzyat resolution.",
+      "chosen_heading": "Letter to Mar Ukva",
+      "current_heading": "Letter to Mar Ukva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Honoring Mar Ukva",
+    "candidates": [
+      "Knas Explanation",
+      "Honoring Mar Ukva",
+      "No Expense Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the knas explanation AND the honor of Mar Ukva in one continuous Talmudic statement, but the prose under 'Knas Explanation' (index 0) covers the full content of Rav Ashi's statement including both elements, while index 1 artificially splits the single Rav Ashi quote into two sections.",
+      "chosen_heading": "Knas Explanation",
+      "current_heading": "Honoring Mar Ukva",
+      "moved": true
+    }
+  }
+]

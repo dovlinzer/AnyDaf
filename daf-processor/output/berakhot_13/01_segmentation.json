@@ -87,7 +87,7 @@
           "timestamp": "12:49"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -145,7 +145,7 @@
           "timestamp": "24:40"
         }
       ],
-      "sefaria_index": 40,
+      "sefaria_index": 35,
       "matched": true
     },
     {
@@ -189,7 +189,7 @@
           "timestamp": "32:21"
         }
       ],
-      "sefaria_index": 41,
+      "sefaria_index": 40,
       "matched": true
     },
     {
@@ -574,5 +574,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 37
+  "amud_b_sefaria_index": 37,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "24:40",
+  "amud_b_micro_title": "R. Yochanan Rules",
+  "shiur_start_daf": 12,
+  "shiur_start_amud": "b"
 }

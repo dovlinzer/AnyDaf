@@ -1,0 +1,329 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rava Challenged",
+    "candidates": [
+      "Chereshet Yibbum Question",
+      "Rava Challenged",
+      "Shnei Achim Cherashim",
+      "Six Marriage Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose under 'Rava Challenged' summarizes: Rav Yosef telling Abaye why his challenge to Rava from that section was insufficient, because Rava could distinguish between sisters who were cherashot me'ikara and unrelated women who were originally hearing and later became deaf.",
+      "chosen_heading": "Rava Challenged",
+      "current_heading": "Rava Challenged",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Six Marriage Cases",
+    "candidates": [
+      "Shnei Achim Cherashim",
+      "Six Marriage Cases",
+      "Non-Sister Scenario",
+      "Chalitza & Deaf Woman",
+      "Cheresh Gives Get",
+      "Braita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna being quoted as the source of the objection ('Rather, you should have raised an objection from this mishna'), and the prose under 'Shnei Achim Cherashim' (candidate 0) explicitly introduces and describes this mishna's content \u2014 two deaf brothers married to hearing/deaf sisters and the various combinations \u2014 which is precisely what the quoted text contains.",
+      "chosen_heading": "Shnei Achim Cherashim",
+      "current_heading": "Six Marriage Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Braita Proof",
+    "candidates": [
+      "Non-Sister Scenario",
+      "Chalitza & Deaf Woman",
+      "Cheresh Gives Get",
+      "Braita Proof",
+      "Two Different Wives",
+      "Rav Nachman Report",
+      "Husband's Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Gemara's argument described in 'Braita Proof': the heichi dami question establishing that all parties were chereshin me'ikara, followed by the conclusion yiknesu in yachaltzu lo and tiyuvta de-Rabba tiyuvta.",
+      "chosen_heading": "Braita Proof",
+      "current_heading": "Braita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Husband's Preference",
+    "candidates": [
+      "Two Different Wives",
+      "Rav Nachman Report",
+      "Husband's Preference",
+      "Cheresh Husband",
+      "Still Uncertain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Nachman's report of finding Rav Adda bar Ahava and Rav Chana discussing the mishna's case of minor and deaf-mute, which is precisely what the 'Rav Nachman Report' prose describes, not the 'Husband's Preference' section where it currently sits.",
+      "chosen_heading": "Rav Nachman Report",
+      "current_heading": "Husband's Preference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Still Uncertain",
+    "candidates": [
+      "Cheresh Husband",
+      "Still Uncertain",
+      "Dual Obligation Problem",
+      "Failed Solutions",
+      "Rav Chisda Solution",
+      "Deaf Quasi, Minor All/No",
+      "Counterfactual Proof",
+      "If Deaf Were Safek",
+      "Must Divorce Deaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's statement that even when the brother was a deaf-mute, the uncertainty remains \u2014 which is precisely what the 'Still Uncertain' section's prose describes.",
+      "chosen_heading": "Still Uncertain",
+      "current_heading": "Still Uncertain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Must Divorce Deaf",
+    "candidates": [
+      "Dual Obligation Problem",
+      "Failed Solutions",
+      "Rav Chisda Solution",
+      "Deaf Quasi, Minor All/No",
+      "Counterfactual Proof",
+      "If Deaf Were Safek",
+      "Must Divorce Deaf",
+      "Alternative Objection",
+      "Must Help Deaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-4 present Rav \u1e24isda citing Rav's practical solution (yibbum with the chereshet followed by a get, then chalitza when the ketanah grows up) and the immediate logical inference drawn from it \u2014 all of which is precisely what candidate 2 ('Rav Chisda Solution') describes in its prose.",
+      "chosen_heading": "Rav Chisda Solution",
+      "current_heading": "Must Divorce Deaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Must Help Deaf",
+    "candidates": [
+      "Alternative Objection",
+      "Must Help Deaf",
+      "Obligation to Both",
+      "Minor Husband Dies",
+      "Deaf Husband Dies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Must Help Deaf",
+      "first_confidence": "high",
+      "first_reason": "Rav Sheshet's confirmation ('hachi nami mistavra') is the closing line of the 'Must Help Deaf' section, exactly as described in that prose.",
+      "second_heading": "Obligation to Both",
+      "second_confidence": "high",
+      "second_reason": "The baraita about two brothers married to two orphaned sisters (ketanah and chereshet) opens the new scenario described in 'Obligation to Both', which the prose explicitly identifies as the cited braita establishing the legal complication.",
+      "current_heading": "Must Help Deaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Deaf Husband Dies",
+    "candidates": [
+      "Obligation to Both",
+      "Minor Husband Dies",
+      "Deaf Husband Dies",
+      "Post-Facto Get",
+      "Reverse Doesn't Work",
+      "Biah Pesulah Defined",
+      "Biah Pesulah No Get",
+      "Rav Nechemiah View",
+      "Braita Assumes Rav",
+      "Same Category Wives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form the Gemara's argument that the braita's bedi'avad ruling (get releases the chereshet after forbidden bi'ah) only makes sense if the chereshet is the fifty-percent marriage and the ketanah is all-or-nothing \u2014 exactly what candidate 4 ('Reverse Doesn't Work') describes in its prose.",
+      "chosen_heading": "Reverse Doesn't Work",
+      "current_heading": "Deaf Husband Dies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Same Category Wives",
+    "candidates": [
+      "Post-Facto Get",
+      "Reverse Doesn't Work",
+      "Biah Pesulah Defined",
+      "Biah Pesulah No Get",
+      "Rav Nechemiah View",
+      "Braita Assumes Rav",
+      "Same Category Wives",
+      "Minor First, Deaf Second"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous dialectical chain about whether the baraita follows Rabbi Ne\u1e25emya or the Rabbanan \u2014 items 1-5 conclude it follows the Rabbanan (shema mina rabanan), and items 6-7 address Rav Ashi's attempt to prove the same from the reisha and its rejection \u2014 exactly matching candidate 5's prose which describes this entire argument culminating in 'shema mina rabanan hi.'",
+      "chosen_heading": "Braita Assumes Rav",
+      "current_heading": "Same Category Wives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Minor First, Deaf Second",
+    "candidates": [
+      "Same Category Wives",
+      "Minor First, Deaf Second",
+      "Deaf First, Minor Second",
+      "Clear Hierarchy Wives",
+      "Stronger First",
+      "Weak First, Strong Second"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Same Category Wives",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the symmetric cases (two minors, two deaf-mutes) where the first yibbum is definitive, matching 'Same Category Wives' prose exactly.",
+      "second_heading": "Minor First, Deaf Second",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 begin the asymmetric cases starting with minor+deaf-mute (items 3-4) and then pikachat+deaf-mute (items 5-6), and item 3 opens the 'Minor First, Deaf Second' scenario described in candidate 1's prose.",
+      "current_heading": "Minor First, Deaf Second",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Weak First, Strong Second",
+    "candidates": [
+      "Deaf First, Minor Second",
+      "Clear Hierarchy Wives",
+      "Stronger First",
+      "Weak First, Strong Second",
+      "Rabbi Eliezer Mi'un",
+      "Halakha K'Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the 'weak first, strong second' scenario (yavam with ketanah first, then gedolah \u2014 pasal et ha-ketanah) and Rabbi Elazar's mi'un ruling, and the current section's prose explicitly summarizes both the ketanah/gedolah pasal case and transitions to Rabbi Elazar, making it the best single home for this complete Mishnah passage.",
+      "chosen_heading": "Weak First, Strong Second",
+      "current_heading": "Weak First, Strong Second",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Halakha K'Rabbi Eliezer",
+    "candidates": [
+      "Rabbi Eliezer Mi'un",
+      "Halakha K'Rabbi Eliezer",
+      "Why Mi'un in This Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the halakhic ruling attributed to Rav Yehuda/Shmuel and Rabbi Elazar that the halakha follows Rabbi Elazar, which is precisely what heading 1 ('Halakha K'Rabbi Eliezer') discusses in its prose.",
+      "chosen_heading": "Halakha K'Rabbi Eliezer",
+      "current_heading": "Halakha K'Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Why Mi'un in This Case",
+    "candidates": [
+      "Why Mi'un in This Case",
+      "Both in Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the classic utzricha argument explaining why the ruling must be stated in both cases \u2014 item 1 covers the reasoning from the earlier case to this one, and item 2 covers the reverse direction, exactly matching heading 0's prose which describes both halves of this utzricha analysis.",
+      "chosen_heading": "Why Mi'un in This Case",
+      "current_heading": "Why Mi'un in This Case",
+      "moved": false
+    }
+  }
+]

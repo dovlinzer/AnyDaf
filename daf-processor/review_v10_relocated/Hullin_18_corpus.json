@@ -1,0 +1,441 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Three Pegimot Categories",
+    "candidates": [
+      "Opening & Rav Huna",
+      "Three Pegimot Categories",
+      "Rashi: Bechor vs Kodashim",
+      "Restatement: Three Nicks",
+      "Altar Nick Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Reish Lakish's three pegimot and Rav \u1e24isda's addition of the knife \u2014 are explicitly described together in the 'Three Pegimot Categories' prose, which is precisely what these two items contain.",
+      "chosen_heading": "Three Pegimot Categories",
+      "current_heading": "Three Pegimot Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Altar Nick Definition",
+    "candidates": [
+      "Rashi: Bechor vs Kodashim",
+      "Restatement: Three Nicks",
+      "Altar Nick Definition",
+      "Baraita: Tefach vs. Keza",
+      "Plaster vs. Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that the measure of deficiency for all these cases equals the measure of deficiency of the altar, which is precisely the 'common thread' summary described in the 'Restatement: Three Nicks' prose \u2014 establishing the shared standard across all contexts before the Gemara goes on to define what that altar standard actually is.",
+      "chosen_heading": "Restatement: Three Nicks",
+      "current_heading": "Altar Nick Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Plaster vs. Stones",
+    "candidates": [
+      "Baraita: Tefach vs. Keza",
+      "Plaster vs. Stones",
+      "Tosafot: Altar Built",
+      "Shamir & Cement Mold",
+      "Tosafot's River Pebbles",
+      "Rav Huna's Cherem",
+      "Rava's Deposition",
+      "Reconciling Rav & Rava",
+      "Ravina's Extra Penalty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the question of how large a deficiency renders the altar unfit \u2014 item 1 gives the fingernail standard and item 2 raises the baraita with Shimon ben Yochai's tefach and Eliezer ben Yaakov's kezayit plus their resolution, which is precisely the content described in candidate 0 ('Baraita: Tefach vs. Keza'), whereas candidate 1 ('Plaster vs. Stones') describes only the resolution, not the initial question and objection that make up both items.",
+      "chosen_heading": "Baraita: Tefach vs. Keza",
+      "current_heading": "Plaster vs. Stones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Ravina's Extra Penalty",
+    "candidates": [
+      "Tosafot: Altar Built",
+      "Shamir & Cement Mold",
+      "Tosafot's River Pebbles",
+      "Rav Huna's Cherem",
+      "Rava's Deposition",
+      "Reconciling Rav & Rava",
+      "Ravina's Extra Penalty",
+      "Rabbinic Penalties",
+      "Rabba's Deposition",
+      "Investigation Requested"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna's Cherem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's ruling about ostracizing the butcher who doesn't show his knife, which matches heading 3 ('Rav Huna's Cherem') precisely \u2014 but Rava's position in the same item is a secondary element that the prose of heading 3 also introduces, making this the best single home for item 1.",
+      "second_heading": "Reconciling Rav & Rava",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's reconciliation of Rav Huna and Rava ('velo peligi') plus Ravina's addition, which matches heading 5 ('Reconciling Rav & Rava') whose prose explicitly discusses this exact distinction between knife found acceptable vs. defective.",
+      "current_heading": "Ravina's Extra Penalty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Investigation Requested",
+    "candidates": [
+      "Rabbinic Penalties",
+      "Rabba's Deposition",
+      "Investigation Requested",
+      "Knife Found Acceptable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the butcher not presenting his knife, Rava bar \u1e24innana ostracizing and deposing him, and declaring the meat treifah \u2014 exactly what heading 1 ('Rabba's Deposition') describes, while heading 2 ('Investigation Requested') covers only the subsequent request to Mar Zutra and Rav Ashi, which is a separate narrative beat.",
+      "chosen_heading": "Rabba's Deposition",
+      "current_heading": "Investigation Requested",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Knife Found Acceptable",
+    "candidates": [
+      "Investigation Requested",
+      "Knife Found Acceptable",
+      "Rav Ashi's Justification",
+      "Niduy vs. Cherem",
+      "Authority & Enforcement",
+      "Detached Tools Valid",
+      "Mishna: Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi examining the knife, finding it acceptable, reinstating the butcher, and Mar Zutra's challenge about the elder's honor \u2014 all of which match precisely the prose of 'Knife Found Acceptable' (candidate 1).",
+      "chosen_heading": "Knife Found Acceptable",
+      "current_heading": "Knife Found Acceptable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Mishna: Prohibition",
+    "candidates": [
+      "Rav Ashi's Justification",
+      "Niduy vs. Cherem",
+      "Authority & Enforcement",
+      "Detached Tools Valid",
+      "Mishna: Prohibition",
+      "Attached vs. Detached"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabba bar Huna's statement that detached tooth and detached fingernail may be used for shechita l'chatchila, followed by the Gemara's question from the Mishna \u2014 this is the opening of the 'Detached Tools Valid' section's discussion, not the Mishna's prohibition section where it currently sits.",
+      "chosen_heading": "Detached Tools Valid",
+      "current_heading": "Mishna: Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Attached vs. Detached",
+    "candidates": [
+      "Mishna: Prohibition",
+      "Attached vs. Detached",
+      "Sickle Direction Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly resolves the tooth/tooth and fingernail/fingernail contradictions (one vs. two teeth, detached vs. attached nail), which is precisely what the 'Attached vs. Detached' section's prose discusses.",
+      "chosen_heading": "Attached vs. Detached",
+      "current_heading": "Attached vs. Detached",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Sickle Direction Debate",
+    "candidates": [
+      "Sickle Direction Debate",
+      "Rashi on Angle",
+      "Smoothed Teeth",
+      "Neveilah Exemption Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself presenting the sickle direction debate between Beit Shammai and Beit Hillel, which is exactly what heading 0 'Sickle Direction Debate' introduces and discusses.",
+      "chosen_heading": "Sickle Direction Debate",
+      "current_heading": "Sickle Direction Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Neveilah Exemption Only",
+    "candidates": [
+      "Rashi on Angle",
+      "Smoothed Teeth",
+      "Neveilah Exemption Only",
+      "Language Analysis",
+      "Rejection of Chiya",
+      "Trachea Anatomy",
+      "Kosher Shechita Area",
+      "Rashi: Top Ring",
+      "Tanna Kamma Position",
+      "Rubo Kechulo",
+      "Rabbi Yose Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described under 'Neveilah Exemption Only' \u2014 Rabbi Chiya bar Abba/Rabbi Yochanan's restrictive reading that Beit Hillel only exempted from neveilah status but not for consumption, plus Rav Ashi's language analysis and the Gemara's objection/rejection, all of which the prose in heading 2 explicitly discusses.",
+      "chosen_heading": "Neveilah Exemption Only",
+      "current_heading": "Neveilah Exemption Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rabbi Yose Position",
+    "candidates": [
+      "Language Analysis",
+      "Rejection of Chiya",
+      "Trachea Anatomy",
+      "Kosher Shechita Area",
+      "Rashi: Top Ring",
+      "Tanna Kamma Position",
+      "Rubo Kechulo",
+      "Rabbi Yose Position",
+      "Rav & Shmuel Ruling",
+      "Top Ring Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Mishna text introduces the case of shechita performed within the top ring and establishes the valid zone, which is exactly what the 'Kosher Shechita Area' prose describes as its subject matter, before the subsequent headings analyze the tanna kamma and Rabbi Yose positions that emerge from this Mishna.",
+      "chosen_heading": "Kosher Shechita Area",
+      "current_heading": "Rabbi Yose Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Top Ring Only",
+    "candidates": [
+      "Rav & Shmuel Ruling",
+      "Top Ring Only",
+      "Rashi: Not Part Trachea",
+      "Tosafot: Majority Trachea",
+      "Baraita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the ruling of Rav and Shmuel (halacha keRabbi Yose beRabbi Yehuda) AND the qualification about the large ring only \u2014 but the current placement under 'Top Ring Only' (index 1) separates it from the 'Rav & Shmuel Ruling' heading (index 0), when in fact this single Gemara passage introduces both points together; however, since the passage introduces the Rav & Shmuel ruling first and the top-ring qualification is part of the same statement, and index 0's prose explicitly discusses this Gemara passage including 'halacha keRabbi Yose berabbi Yehuda' while index 1's prose discusses only the qualification, the best single home is index 0 where the full Gemara unit begins.",
+      "chosen_heading": "Rav & Shmuel Ruling",
+      "current_heading": "Top Ring Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Baraita Support",
+    "candidates": [
+      "Rashi: Not Part Trachea",
+      "Tosafot: Majority Trachea",
+      "Baraita Support",
+      "Chanina Testimony",
+      "Zeira Eats Mugremet",
+      "Zeira Doubts Report"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Zeira Doubts Report",
+    "candidates": [
+      "Chanina Testimony",
+      "Zeira Eats Mugremet",
+      "Zeira Doubts Report",
+      "Yosef Defends Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes both Rabbi Zeira eating the mugremet and his response questioning Rav Yosef's transmission, which maps precisely to the content described in heading 2 ('Zeira Doubts Report'), though it also covers heading 1's content \u2014 however, heading 2's prose explicitly covers both the challenge and Rabbi Zeira's 'man amrah' reply about Yosef bar Chiya, making it the best single match for the complete passage.",
+      "chosen_heading": "Zeira Doubts Report",
+      "current_heading": "Zeira Doubts Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Yosef Defends Source",
+    "candidates": [
+      "Yosef Defends Source",
+      "Bechor Blemish Ruling",
+      "Custom Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yosef's anger at having his transmission questioned and his defense via Rav Yehuda's meticulous citation practices, which is precisely what 'Yosef Defends Source' prose describes.",
+      "chosen_heading": "Yosef Defends Source",
+      "current_heading": "Yosef Defends Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Custom Question",
+    "candidates": [
+      "Bechor Blemish Ruling",
+      "Custom Question",
+      "Abaye's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rabbi Zeira accepts the principle of chumrei hamakom sheyatza misham vechumrei hamakom shehalach l'sham, which is precisely the topic introduced in the 'Custom Question' prose section.",
+      "chosen_heading": "Custom Question",
+      "current_heading": "Custom Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Abaye's Distinction",
+    "candidates": [
+      "Abaye's Distinction",
+      "Bavel to Israel",
+      "Ashi's Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's full statement covering all the cases \u2014 within Babylonia, within Eretz Yisrael, from Eretz Yisrael to Babylonia, and from Babylonia to Eretz Yisrael \u2014 which is exactly what the 'Abaye's Distinction' section prose describes, making it the correct and current placement.",
+      "chosen_heading": "Abaye's Distinction",
+      "current_heading": "Abaye's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Ashi's Condition",
+    "candidates": [
+      "Bavel to Israel",
+      "Ashi's Condition",
+      "Zeira's Permanent Move",
+      "Eretz Yisrael Authority",
+      "Calendar & Semichah",
+      "Geonic Period Shift",
+      "Why Bavli Authority",
+      "Mechuza Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's qualification that the stringency applies only where one intends to return, and notes that Rabbi Zeira did not intend to return \u2014 exactly what candidate 1 ('Ashi's Condition') discusses in its prose.",
+      "chosen_heading": "Ashi's Condition",
+      "current_heading": "Ashi's Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Mechuza Opinion",
+    "candidates": [
+      "Zeira's Permanent Move",
+      "Eretz Yisrael Authority",
+      "Calendar & Semichah",
+      "Geonic Period Shift",
+      "Why Bavli Authority",
+      "Mechuza Opinion",
+      "Nahara Nahara",
+      "Regional Pluralism",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly describes Abaye reporting to Rav Yosef that the rabbis from Mechuza cite Rav Zeira in the name of Rav Nachman that mugremet is valid, which is precisely what the 'Mechuza Opinion' section's prose discusses.",
+      "chosen_heading": "Mechuza Opinion",
+      "current_heading": "Mechuza Opinion",
+      "moved": false
+    }
+  }
+]

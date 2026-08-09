@@ -1,0 +1,398 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Chatzi Nezek Tzarorot",
+    "candidates": [
+      "Chatzi Nezek Tzarorot",
+      "Rava's Query Payment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chatzi Nezek Tzarorot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address why chatzi nezek tzarorot is called a toldah de-regel and why it pays from the aliya, which is exactly what heading 0's prose discusses.",
+      "second_heading": "Rava's Query Payment",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address Rava's unresolved dilemma about whether tzarorot pays mi-gufo or min ha-aliya and the resolution that it was obvious to Rav Pappa, which is precisely what heading 1's prose discusses.",
+      "current_heading": "Chatzi Nezek Tzarorot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rava's Query Payment",
+    "candidates": [
+      "Rava's Query Payment",
+      "Reshut HaRabim Exemption",
+      "Peshiat HaNizak",
+      "Torah Sources Overview",
+      "Three Characteristics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rava's dilemma about why tzarorot is called a toldah de-regel, which is precisely what the current heading's prose discusses \u2014 the Gemara asking according to Rava what basis exists for affiliating chatzi nezek tzarorot with regel, and the answer (liphtor bireshut harabim) is the transition point that leads into the next section.",
+      "chosen_heading": "Rava's Query Payment",
+      "current_heading": "Rava's Query Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Three Characteristics",
+    "candidates": [
+      "Reshut HaRabim Exemption",
+      "Peshiat HaNizak",
+      "Torah Sources Overview",
+      "Three Characteristics",
+      "Vemamoncha Role",
+      "Rav Maveh Adam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's discussion of what 'maveh' means \u2014 Rav says it means Adam (man) and Shmuel says it means Shen (eating) \u2014 which is precisely what candidate 5 ('Rav Maveh Adam') is about.",
+      "chosen_heading": "Rav Maveh Adam",
+      "current_heading": "Three Characteristics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rav Maveh Adam",
+    "candidates": [
+      "Vemamoncha Role",
+      "Rav Maveh Adam",
+      "Shmuel Maveh Shen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav's statement that maveh refers to Adam (a human), derived from the Isaiah verse \u2014 exactly what the 'Rav Maveh Adam' section's prose describes.",
+      "chosen_heading": "Rav Maveh Adam",
+      "current_heading": "Rav Maveh Adam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Shmuel Maveh Shen",
+    "candidates": [
+      "Shmuel Maveh Shen",
+      "Grammatical Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's position that maveh means shen (tooth/eating) with its derivation from Obadiah, which is exactly what the prose under 'Shmuel Maveh Shen' describes.",
+      "chosen_heading": "Shmuel Maveh Shen",
+      "current_heading": "Shmuel Maveh Shen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Grammatical Analysis",
+    "candidates": [
+      "Grammatical Analysis",
+      "Rav Shor Inclusive",
+      "Shmuel Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the grammatical argument\u2014whether the mishna uses 'niveh' (passive) vs 'maveh' (active)\u2014which is precisely what the 'Grammatical Analysis' prose describes.",
+      "chosen_heading": "Grammatical Analysis",
+      "current_heading": "Grammatical Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Shmuel Division",
+    "candidates": [
+      "Rav Shor Inclusive",
+      "Shmuel Division",
+      "Regel Propensity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Shmuel's position: why he rejected Rav's view (item 1), the Gemara's note that verses don't precisely support either sage followed by why Rav rejected Shmuel (item 2), and finally Rav Yehuda's resolution that shor=keren and maveh=shen (item 3) \u2014 exactly what the 'Shmuel Division' prose describes.",
+      "chosen_heading": "Shmuel Division",
+      "current_heading": "Shmuel Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Regel Propensity",
+    "candidates": [
+      "Regel Propensity",
+      "Shen Benefit",
+      "Both Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states the distinguishing characteristic of Shen (no kavanah lehazik) versus Keren (has kavanah lehazik), which is the corrected 'lo rei' formula discussed at length in the 'Both Needed' section's prose about reversing the formula to its correct form.",
+      "chosen_heading": "Both Needed",
+      "current_heading": "Regel Propensity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Both Needed",
+    "candidates": [
+      "Shen Benefit",
+      "Both Needed",
+      "Keren Absence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the kal va-chomer challenge regarding keren vs. shen, the slave/maidservant exemption analogy, and Rav Ashi's response about shemma yaknitenu rabbo \u2014 all of which are explicitly described and analyzed in the 'Both Needed' section's prose.",
+      "chosen_heading": "Both Needed",
+      "current_heading": "Both Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Keren Absence",
+    "candidates": [
+      "Keren Absence",
+      "Nizkei Mamon Gufo",
+      "Rav Adam Included",
+      "Shor Darko Lehazik",
+      "Muad Question",
+      "Shmiratan Alecha",
+      "Muad Question",
+      "Rabbi Abahu",
+      "Water Suggestion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Keren Absence",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 directly address the regel-absence problem under Rav Yehuda's reading and Rava's alternative (shor=regel, maveh=shen), with the keren exclusion resolved by muad, exactly matching the 'Keren Absence' prose.",
+      "second_heading": "Rav Adam Included",
+      "second_confidence": "high",
+      "second_reason": "Items 7-16 address the dispute over why Shmuel didn't read maveh as adam, the lo harei formula under Rav's reading, darko lehazik, and shmiratan alecha, all matching the 'Rav Adam Included' prose discussion.",
+      "current_heading": "Keren Absence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Water Suggestion",
+    "candidates": [
+      "Nizkei Mamon Gufo",
+      "Rav Adam Included",
+      "Shor Darko Lehazik",
+      "Muad Question",
+      "Shmiratan Alecha",
+      "Muad Question",
+      "Rabbi Abahu",
+      "Water Suggestion",
+      "Fire Suggestion",
+      "Four Categories",
+      "Distinct from Esh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Water Suggestion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Mari's water suggestion and its rejection, which matches heading 7 ('Water Suggestion') and heading 8's prose that describes exactly this rejection ('mi-ksiv mayim nivu \u2014 the pasuk does not say the water bubbled').",
+      "second_heading": "Fire Suggestion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Zevid's fire suggestion and its rejection (if maveh means fire, what is hav'er, and the four collapse to three), which matches heading 8 ('Fire Suggestion') whose prose describes Rav Zvid's proposal, with the collapse-to-three argument covered in heading 9.",
+      "current_heading": "Water Suggestion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Distinct from Esh",
+    "candidates": [
+      "Fire Suggestion",
+      "Four Categories",
+      "Distinct from Esh",
+      "Thirteen Categories",
+      "Four Shomrim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the argument that maveh could be fire while shor covers two categories, and refutes it using the ruach chayim criterion and the mishna's contrast between maveh and eish \u2014 exactly what the 'Distinct from Esh' prose describes.",
+      "chosen_heading": "Distinct from Esh",
+      "current_heading": "Distinct from Esh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Four Shomrim",
+    "candidates": [
+      "Thirteen Categories",
+      "Four Shomrim",
+      "Five Payments",
+      "Mishnah Limitations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Oshaya's baraita listing all thirteen categories as a whole unit, which directly matches heading 0 ('Thirteen Categories') whose prose describes this brayta expanding the list from four to thirteen \u2014 the passage belongs under the introductory heading, not the sub-section about the four shomrim specifically.",
+      "chosen_heading": "Thirteen Categories",
+      "current_heading": "Four Shomrim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Mishnah Limitations",
+    "candidates": [
+      "Five Payments",
+      "Mishnah Limitations",
+      "Two Types Adam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the tanna of the mishna did not teach Rabbi Oshaya's additional categories, resolving the question according to both Shmuel (property damage only) and Rav (adam encompasses all human-caused damage), which is precisely what the 'Mishnah Limitations' section's prose describes.",
+      "chosen_heading": "Mishnah Limitations",
+      "current_heading": "Mishnah Limitations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Two Types Adam",
+    "candidates": [
+      "Two Types Adam",
+      "Shor Damages Human"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Types Adam",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks why Rabbi Oshaya needed to list 'Man' separately and answers that there are two types of adam (adam d'azik adam vs adam d'azik shor), which is exactly what the 'Two Types Adam' prose discusses.",
+      "second_heading": "Shor Damages Human",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why we don't similarly distinguish two types of ox (shor d'azik shor vs shor d'azik adam), which is precisely the question the 'Shor Damages Human' prose addresses.",
+      "current_heading": "Two Types Adam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Shor Damages Human",
+    "candidates": [
+      "Shor Damages Human",
+      "Direct vs. Negligent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shor Damages Human",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the core Gemara passage arguing that shor d'azik adam pays only nezek just like shor d'azik shor, which is precisely what the 'Shor Damages Human' prose describes.",
+      "second_heading": "Direct vs. Negligent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the challenge about the four shomrim \u2014 cases of indirect/custodial liability rather than direct damage \u2014 which is exactly what the 'Direct vs. Negligent' prose discusses as Rabbi Oshaya's separate listing of the shomrim.",
+      "current_heading": "Shor Damages Human",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Direct vs. Negligent",
+    "candidates": [
+      "Direct vs. Negligent",
+      "Negligence Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the distinction between hezek de-be-yadayim and hezek de-meila, which is precisely what the 'Direct vs. Negligent' section's prose is explaining.",
+      "chosen_heading": "Direct vs. Negligent",
+      "current_heading": "Direct vs. Negligent",
+      "moved": false
+    }
+  }
+]

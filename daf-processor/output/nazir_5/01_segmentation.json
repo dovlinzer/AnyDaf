@@ -145,8 +145,8 @@
           "timestamp": "41:36"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "The Dispute Between Rav Matna and Bar Pada: Twenty-Nine vs. Thirty Days in Principle (continued)",
@@ -159,8 +159,8 @@
           "timestamp": "43:05"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "The Application of Miktzat HaYom KeKulo and Its Limits in Consecutive Neziriyot (continued)",
@@ -178,8 +178,8 @@
           "timestamp": "45:00"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "The Dispute Between Rav Matna and Bar Pada: Twenty-Nine vs. Thirty Days in Principle (continued) (continued)",
@@ -193,7 +193,7 @@
         }
       ],
       "sefaria_index": 23,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Application of Miktzat HaYom KeKulo and Its Limits in Consecutive Neziriyot (continued) (continued)",
@@ -206,8 +206,8 @@
           "timestamp": "48:57"
         }
       ],
-      "sefaria_index": 23,
-      "matched": false
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -383,5 +383,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "36:23",
+  "amud_b_micro_title": "Pada Defense",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "a"
 }

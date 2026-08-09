@@ -1,0 +1,221 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Nachman: Rivers",
+    "candidates": [
+      "Boat/Planter Debate",
+      "Tosafot: Terumot Terms",
+      "Rav Nachman: Rivers",
+      "Turei Amnon Border",
+      "Island Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Na\u1e25man bar Yitz\u1e25ak's statement about rivers in Eretz Yisrael and the Great Sea dispute, which is precisely what the 'Rav Nachman: Rivers' section prose describes.",
+      "chosen_heading": "Rav Nachman: Rivers",
+      "current_heading": "Rav Nachman: Rivers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Island Definition",
+    "candidates": [
+      "Turei Amnon Border",
+      "Island Definition",
+      "Tosafot: France Question",
+      "Rabbi Meir: Akko",
+      "Slave to Syria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the complete baraita and gemara discussion about the geographic definition of Eretz Yisrael via the Turei Amnon/Nachal Mitzrayim string, Rabbi Yehuda's expansion, the side-islands rule, and the derivation from 'u'gvul' \u2014 exactly the content described in the 'Island Definition' prose.",
+      "chosen_heading": "Island Definition",
+      "current_heading": "Island Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Slave to Syria",
+    "candidates": [
+      "Tosafot: France Question",
+      "Rabbi Meir: Akko",
+      "Slave to Syria",
+      "Graduated Definitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna on Rabbi Meir's ruling about Akko and then records the dilemma posed to Rabbi \u1e24iyya bar Abba about selling a slave to Syria \u2014 this is the opening of the discussion, which belongs under 'Rabbi Meir: Akko' since that section introduces both Rabbi Meir's ruling and the subsequent question, while 'Slave to Syria' prose describes the continuation/answer of that same question.",
+      "chosen_heading": "Rabbi Meir: Akko",
+      "current_heading": "Slave to Syria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Graduated Definitions",
+    "candidates": [
+      "Slave to Syria",
+      "Graduated Definitions",
+      "Syria: Three Chutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya bar Abba's direct answer to the question about selling a slave to Syria, which corresponds to the 'Slave to Syria' section's prose describing that exact question and its resolution, not the 'Graduated Definitions' section which summarizes the broader conceptual implications.",
+      "chosen_heading": "Slave to Syria",
+      "current_heading": "Graduated Definitions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Syria: Three Chutz",
+    "candidates": [
+      "Syria: Three Chutz",
+      "Kibush Yachid",
+      "Rashi: Kibush Yachid",
+      "Tosafot: Kibush Yachid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita listing the three ways Syria resembles chutz la'aretz (impure soil, selling slaves, bringing a get), which is precisely what the prose under 'Syria: Three Chutz' discusses.",
+      "chosen_heading": "Syria: Three Chutz",
+      "current_heading": "Syria: Three Chutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Tosafot: Kibush Yachid",
+    "candidates": [
+      "Kibush Yachid",
+      "Rashi: Kibush Yachid",
+      "Tosafot: Kibush Yachid",
+      "Tahara in Syria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the mishnah's statement that Syria is obligated in tithe and Sabbatical Year like Eretz Yisrael, followed by the Gemara's explanation that the tanna holds kibuish yachid shmo kibuish \u2014 exactly the content described in candidate 0's prose about 'Kibush Yachid.'",
+      "chosen_heading": "Kibush Yachid",
+      "current_heading": "Tosafot: Kibush Yachid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Tahara in Syria",
+    "candidates": [
+      "Tosafot: Kibush Yachid",
+      "Tahara in Syria",
+      "Purchasing Fields"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the mechanism by which one can enter Syria (or foreign lands) while remaining tahor \u2014 via a chest/box/cabinet \u2014 and the distinction between the tumah decree on Syrian soil versus its air, which is precisely what the 'Tahara in Syria' section's prose describes.",
+      "chosen_heading": "Tahara in Syria",
+      "current_heading": "Tahara in Syria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Purchasing Fields",
+    "candidates": [
+      "Purchasing Fields",
+      "Eved Brings Get",
+      "Get vs. Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the ruling about purchasing fields in Syria and the permission to instruct a gentile to write a bill of sale on Shabbat due to yishuv Eretz Yisrael, which is precisely what the 'Purchasing Fields' prose section covers in detail.",
+      "chosen_heading": "Purchasing Fields",
+      "current_heading": "Purchasing Fields",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Get vs. Gift",
+    "candidates": [
+      "Eved Brings Get",
+      "Get vs. Gift",
+      "Abaye vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing the core case of a slave who brings his get with the language 'you and my property are transferred to you,' which is exactly what candidate 0 ('Eved Brings Get') describes in its prose, not the subsequent Rashi explanation or Abaye/Rava dispute.",
+      "chosen_heading": "Eved Brings Get",
+      "current_heading": "Get vs. Gift",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Get vs. Gift",
+      "Abaye vs. Rava",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye vs. Rava",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the initial dilemma and Abaye-Rava exchange that candidate 1's prose explicitly describes \u2014 the 'kol nechasai' question, Abaye's mitoch reasoning, and Rava's bifnei nichtav/kiyum shtarot response.",
+      "second_heading": "Rava's Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover Abaye's reversal, Rava's final ruling (echad zeh ve'echad zeh), and the question of palginan dibura, which candidate 2's prose explicitly discusses as 'the debate continues' through Rava's final position.",
+      "current_heading": "Abaye vs. Rava",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Excusing Yochanan",
+    "candidates": [
+      "Mishnah Overview",
+      "Censorship History",
+      "Core Question",
+      "New Scenario Setup",
+      "Shechitah vs Future Use",
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Pigul Definition",
+      "Learning Outside Temple",
+      "Intent Redefines Act",
+      "Tosafot: Act Redefined",
+      "Shechitah: Olah Intent",
+      "Parallel Opinions",
+      "Extending Pigul Model",
+      "Chutz M'Penim Issue",
+      "Excusing Reish Lakish",
+      "Excusing Yochanan",
+      "Kal V'Chomer Setup",
+      "Thoughts Invalidate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Excusing Yochanan",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 cover the two disputes between Rabbi Yochanan and Reish Lakish plus the tzricha explanation of why both cases are necessary, which is precisely what heading 16 'Excusing Yochanan' discusses.",
+      "second_heading": "Kal V'Chomer Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is Rav Sheshet's objection citing Rabbi Yosei's kal va'chomer about thoughts in kodshim vs. chullin, which is exactly what heading 17 'Kal V'Chomer Setup' describes.",
+      "current_heading": "Excusing Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Thoughts Invalidate",
+    "candidates": [
+      "Kal V'Chomer Setup",
+      "Thoughts Invalidate",
+      "Avoda L'Avoda Reread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses and interrogates the question 'what does it mean that intent does not invalidate in chullin?' and raises the avodah zarah counterexample \u2014 precisely the content described in the 'Thoughts Invalidate' section's prose.",
+      "chosen_heading": "Thoughts Invalidate",
+      "current_heading": "Thoughts Invalidate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Avoda L'Avoda Reread",
+    "candidates": [
+      "Avoda L'Avoda Reread",
+      "Rav Sheshet Solution",
+      "Which Avodot Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in heading 0's prose: the restatement of the kal va'chomer as me'avodah l'avodah (item 1), the announcement that pnim kasha l'Reish Lakish and chutz kasha l'Rabbi Yochanan (item 2), and the attempted resolution that Reish Lakish spoke before/after hearing from Rabbi Yochanan followed by the remaining difficulty for Rabbi Yochanan (item 3) \u2014 all explicitly described in heading 0's prose.",
+      "chosen_heading": "Avoda L'Avoda Reread",
+      "current_heading": "Avoda L'Avoda Reread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Which Avodot Matter",
+    "candidates": [
+      "Rav Sheshet Solution",
+      "Which Avodot Matter",
+      "Sin vs. Meat Status",
+      "Braita Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core content of Rav Sheshet's resolution \u2014 the kal va'chomer reread distinguishing four avodot (bifnim) from two avodot (bachutz) \u2014 which is exactly what the 'Rav Sheshet Solution' prose describes, not the 'Which Avodot Matter' section which discusses the derivation of which specific two avodot apply outside the Mikdash.",
+      "chosen_heading": "Rav Sheshet Solution",
+      "current_heading": "Which Avodot Matter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Braita Case",
+    "candidates": [
+      "Sin vs. Meat Status",
+      "Braita Case",
+      "Fat vs. Whole Animal",
+      "Redefining Act",
+      "Historical Context",
+      "The Actual Case",
+      "Rav Chisda Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rabbi Yochanan's position, discussing shechitah with intent to sprinkle blood or burn fat for avodah zarah resulting in zivchei meitim, plus the Caesarea incident \u2014 exactly what the 'Braita Case' prose describes.",
+      "chosen_heading": "Braita Case",
+      "current_heading": "Braita Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rav Chisda Resolution",
+    "candidates": [
+      "Fat vs. Whole Animal",
+      "Redefining Act",
+      "Historical Context",
+      "The Actual Case",
+      "Rav Chisda Resolution",
+      "Revealing Past Thoughts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's explanation of why the authorities gave neither a prohibition nor a permission ruling, which is precisely what the 'Rav Chisda Resolution' section's prose discusses.",
+      "chosen_heading": "Rav Chisda Resolution",
+      "current_heading": "Rav Chisda Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Revealing Past Thoughts",
+    "candidates": [
+      "Revealing Past Thoughts",
+      "End Reveals Beginning",
+      "Get Writing Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Revealing Past Thoughts",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the two counter-arguments (Rabbis vs. Rabbi Eliezer axes) that the prose of heading 0 explicitly describes as the indeterminacy of the Caesarea case.",
+      "second_heading": "End Reveals Beginning",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rav Sheizevi's alternative resolution invoking Rabban Shimon ben Gamliel's principle of 'end reveals beginning,' which is precisely what heading 1's prose describes as Rav Shizvi's explanation.",
+      "current_heading": "Revealing Past Thoughts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Get Writing Case",
+    "candidates": [
+      "End Reveals Beginning",
+      "Get Writing Case",
+      "Get and Roof Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about a healthy man saying 'write a get for my wife' without specifying delivery, which is precisely the content the 'Get Writing Case' prose section discusses.",
+      "chosen_heading": "Get Writing Case",
+      "current_heading": "Get Writing Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Get and Roof Case",
+    "candidates": [
+      "Get and Roof Case",
+      "Only When Signals Present",
+      "Shechitah Not Signal",
+      "Ravina Proposal",
+      "Slaves Bequest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Get and Roof Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 present the mishna's roof case, the Gemara's question about the contradiction, and the resolution ('incomplete mishna'), all of which are discussed in the 'Get and Roof Case' prose.",
+      "second_heading": "Only When Signals Present",
+      "second_confidence": "high",
+      "second_reason": "Item 4 ('But perhaps there is different, as he says Write') is the Gemara's qualification limiting the gittin ruling to cases with an earlier signal, which is precisely what the 'Only When Signals Present' prose discusses.",
+      "current_heading": "Get and Roof Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Slaves Bequest",
+    "candidates": [
+      "Only When Signals Present",
+      "Shechitah Not Signal",
+      "Ravina Proposal",
+      "Slaves Bequest",
+      "Tanna Kamma View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's proposal and the baraita text itself, which belongs under the 'Ravina Proposal' heading that explicitly introduces Ravina's identification of a different Rabban Shimon ben Gamliel ruling and references this very baraita in Bava Batra.",
+      "chosen_heading": "Ravina Proposal",
+      "current_heading": "Slaves Bequest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Tanna Kamma View",
+    "candidates": [
+      "Slaves Bequest",
+      "Tanna Kamma View",
+      "Rabban Shimon View",
+      "Consent Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara clarification (tzoaveach mei'ikara, shotek u-ve-sof tzavach, zichu lo al yedei acher) that the Tanna Kamma View prose explicitly describes as the Gemara's clarification of the dispute's scope.",
+      "chosen_heading": "Tanna Kamma View",
+      "current_heading": "Tanna Kamma View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Consent Principle",
+    "candidates": [
+      "Rabban Shimon View",
+      "Consent Principle",
+      "Ruling: Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Rabban Shimon ben Gamliel's reasoning about 'hochiach sofo al techilato' and why he didn't shout initially, which matches the 'Rabban Shimon View' section's prose about exactly this principle and this ruling.",
+      "chosen_heading": "Rabban Shimon View",
+      "current_heading": "Consent Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Ruling: Rabbi Yosi",
+    "candidates": [
+      "Consent Principle",
+      "Ruling: Rabbi Yosi",
+      "Arab Traders Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes 'Rav Yehuda says that Shmuel says: the halakha is in accordance with Rabbi Yosei,' which is precisely what the prose under 'Ruling: Rabbi Yosi' discusses and introduces.",
+      "chosen_heading": "Ruling: Rabbi Yosi",
+      "current_heading": "Ruling: Rabbi Yosi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Arab Traders Case",
+    "candidates": [
+      "Arab Traders Case",
+      "Application",
+      "Ownership Threshold",
+      "Pre-Purchase Intent",
+      "Real Partners Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Arab traders case at Tzikuneya and Rav Yosef's ruling, which is exactly what the 'Arab Traders Case' prose section discusses.",
+      "chosen_heading": "Arab Traders Case",
+      "current_heading": "Arab Traders Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Real Partners Only",
+    "candidates": [
+      "Application",
+      "Ownership Threshold",
+      "Pre-Purchase Intent",
+      "Real Partners Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage spans the question posed by Rav Aha (matching 'Ownership Threshold' and 'Pre-Purchase Intent') and Rav Ashi's answer (matching 'Real Partners Only'), but the 'Ownership Threshold' heading's prose best frames the overarching question this Gemara passage addresses \u2014 how much ownership is required under Rabbi Eliezer \u2014 making it the most fitting single home, though the content naturally flows across headings 1-3.",
+      "chosen_heading": "Ownership Threshold",
+      "current_heading": "Real Partners Only",
+      "moved": true
+    }
+  }
+]

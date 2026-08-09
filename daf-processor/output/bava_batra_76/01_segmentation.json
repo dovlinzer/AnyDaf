@@ -126,7 +126,7 @@
           "timestamp": "45:06"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -140,7 +140,7 @@
           "timestamp": "46:22"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -154,8 +154,8 @@
           "timestamp": "49:13"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "General Principles of Kinyanim: Hagbaha Works Everywhere; Physical Control vs. Symbolic Transfer (continued)",
@@ -168,8 +168,8 @@
           "timestamp": "50:11"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Reconciling Multiple Braitot: Boat Acquisition and the Role of Context (Reshut Ha-Rabim vs. Simta) (continued) (continued)",
@@ -182,7 +182,7 @@
           "timestamp": "51:16"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -196,7 +196,7 @@
           "timestamp": "52:34"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 6,
       "matched": false
     }
   ],
@@ -440,5 +440,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "41:10",
+  "amud_b_micro_title": "Context Matters",
+  "shiur_start_daf": 76,
+  "shiur_start_amud": "a"
 }

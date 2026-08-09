@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Worker Hiring Braita",
+    "candidates": [
+      "When Sale Finalized",
+      "Worker Hiring Braita",
+      "Agar Natar: Work Timing",
+      "Rava: Labor No Fixed Val"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the braita about hiring workers before the harvest and the gemara's challenge based on Rav and Shmuel's principle \u2014 exactly what the 'Worker Hiring Braita' prose describes, including the forbidden and permitted scenarios and the agar natar challenge at the end.",
+      "chosen_heading": "Worker Hiring Braita",
+      "current_heading": "Worker Hiring Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Rava: Labor No Fixed Val",
+    "candidates": [
+      "Agar Natar: Work Timing",
+      "Rava: Labor No Fixed Val",
+      "Flax: Partial Kinyan",
+      "Rav Sheshet: Kinyan",
+      "Rashbam vs. Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rava's intervention and the Gemara's resolution (reisha/seifa distinction based on appearance of agar natar), which is exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Rava: Labor No Fixed Val",
+      "current_heading": "Rava: Labor No Fixed Val",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rashbam vs. Tosafot",
+    "candidates": [
+      "Flax: Partial Kinyan",
+      "Rav Sheshet: Kinyan",
+      "Rashbam vs. Tosafot",
+      "Vessel Filled=Possession",
+      "Kinyan vs Pikadon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sheshet's exact explanation that the seller tells the buyer to 'go, clear any amount of land and acquire everything on it,' which directly corresponds to the prose under 'Rav Sheshet: Kinyan' rather than the current placement under 'Rashbam vs. Tosafot.'",
+      "chosen_heading": "Rav Sheshet: Kinyan",
+      "current_heading": "Rashbam vs. Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Kinyan vs Pikadon",
+    "candidates": [
+      "Vessel Filled=Possession",
+      "Kinyan vs Pikadon",
+      "Three Drops Rule",
+      "Inclined Vessel: Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers both the 'vessel filled = possession' rule and the middleman clause, but the prose under candidate 0 explicitly introduces this mishna as addressing when the sale becomes final through filling the measuring vessel, and notes it will address the middleman/sarsur case \u2014 making it the correct home for this mishna passage, whereas candidate 1's prose discusses the Rashbam/Tosafot debate that belongs to the gemara analysis of this mishna.",
+      "chosen_heading": "Vessel Filled=Possession",
+      "current_heading": "Kinyan vs Pikadon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Inclined Vessel: Oil",
+    "candidates": [
+      "Three Drops Rule",
+      "Inclined Vessel: Oil",
+      "Vessel Ownership Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three rules together \u2014 the three drops obligation, the inclined vessel belonging to the seller, the storekeeper's exemption, and Rabbi Yehuda's Erev Shabbat ruling \u2014 which is precisely what the 'Inclined Vessel: Oil' section's prose discusses as a unified block of mishna halakhot.",
+      "chosen_heading": "Inclined Vessel: Oil",
+      "current_heading": "Inclined Vessel: Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Vessel Ownership Question",
+    "candidates": [
+      "Vessel Ownership Question",
+      "Elazar: Middleman Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the question of whose vessel it is and the resulting ownership paradox, which is precisely what the 'Vessel Ownership Question' prose describes.",
+      "chosen_heading": "Vessel Ownership Question",
+      "current_heading": "Vessel Ownership Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Elazar: Middleman Vessel",
+    "candidates": [
+      "Elazar: Middleman Vessel",
+      "Rabbi Elazar's Inquiry",
+      "Sales vs. Trumah: Yeush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Ela's explanation that the mishna refers to a middleman's measuring vessel, the Gemara's objection from the latter clause about an active middleman, and the resolution distinguishing passive vessel-lending from active middleman involvement \u2014 all of which is precisely what the prose under heading 0 ('Elazar: Middleman Vessel') describes.",
+      "chosen_heading": "Elazar: Middleman Vessel",
+      "current_heading": "Elazar: Middleman Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Sales vs. Trumah: Yeush",
+    "candidates": [
+      "Rabbi Elazar's Inquiry",
+      "Sales vs. Trumah: Yeush",
+      "Storekeeper: Three Drops"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit of Rabbi Elazar's question and its resolution via yeush, which is precisely what candidate 1's prose describes \u2014 the contradiction between the two mishnayot and the resolution through Rabbi Abbahu's principle of yeush ba'alim.",
+      "chosen_heading": "Sales vs. Trumah: Yeush",
+      "current_heading": "Sales vs. Trumah: Yeush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Storekeeper: Three Drops",
+    "candidates": [
+      "Storekeeper: Three Drops",
+      "Father Sends Child",
+      "Tanna Kamma vs. R. Yehuda",
+      "Child Holds Jug"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the dilemma about Rabbi Yehuda's ruling on the storekeeper's three drops on Erev Shabbat and its baraita resolution, which is precisely what the 'Storekeeper: Three Drops' prose describes.",
+      "chosen_heading": "Storekeeper: Three Drops",
+      "current_heading": "Storekeeper: Three Drops",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Child Holds Jug",
+    "candidates": [
+      "Father Sends Child",
+      "Tanna Kamma vs. R. Yehuda",
+      "Child Holds Jug",
+      "Storekeeper Liability",
+      "Shmuel: Inspection=Shoel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father Sends Child",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the father-sends-child scenario, which matches heading 0's prose describing exactly that new scenario with the pundyon and oil purchase.",
+      "second_heading": "Tanna Kamma vs. R. Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's opening analysis of the Mishna's dispute between the Rabbis and Rabbi Yehuda over why the storekeeper is liable, which directly matches heading 1's prose explaining the tanna kamma vs. R. Yehuda disagreement and the reasoning behind each position.",
+      "current_heading": "Child Holds Jug",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Shmuel: Inspection=Shoel",
+    "candidates": [
+      "Storekeeper Liability",
+      "Shmuel: Inspection=Shoel",
+      "Beyond Inspection Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Hoshaya's answer invoking Shmuel's ruling about inspection creating shoel status, which is precisely what the 'Shmuel: Inspection=Shoel' section's prose discusses and explains.",
+      "chosen_heading": "Shmuel: Inspection=Shoel",
+      "current_heading": "Shmuel: Inspection=Shoel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Beyond Inspection Theory",
+    "candidates": [
+      "Beyond Inspection Theory",
+      "Reconciling Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge to Shmuel's position and Rabba/Rav Yosef's 'storekeeper who sells jugs' explanation, which is precisely what the 'Beyond Inspection Theory' prose describes as the Gemara's move away from inspection theory toward this new okimta.",
+      "chosen_heading": "Beyond Inspection Theory",
+      "current_heading": "Beyond Inspection Theory",
+      "moved": false
+    }
+  }
+]

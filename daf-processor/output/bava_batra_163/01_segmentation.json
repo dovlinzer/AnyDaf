@@ -24,8 +24,8 @@
           "timestamp": "01:26"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Protection Against Erasing and Rewriting the Document Body",
@@ -735,5 +735,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "05:01",
+  "amud_b_micro_title": "Full erasure risk",
+  "shiur_start_daf": 162,
+  "shiur_start_amud": "b"
 }

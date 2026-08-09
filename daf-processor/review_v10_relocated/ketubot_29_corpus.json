@@ -1,0 +1,266 @@
+[
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Kutit/Samaritans",
+    "candidates": [
+      "Perek Overview",
+      "Kim Lei Concept",
+      "Na'arah vs. Bogeres",
+      "Bogeres Exclusion",
+      "Mamzeres & Knas",
+      "Shechem & Dinah",
+      "Ethical Problem",
+      "Netinah Category",
+      "Kutit/Samaritans",
+      "Pre-3-Year-Old Rule",
+      "Karat List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The mishnah passage lists the young women who have a knas, beginning with the mamzeret, netinah, and kutit, which corresponds to the 'Mamzeres & Knas' section prose that discusses why the mishnah opens with these marginal cases to teach that the knas still applies \u2014 the full mishnah text belongs under that heading where its content is first introduced, not under the 'Kutit/Samaritans' section which is a later discussion of just one item in the list.",
+      "chosen_heading": "Mamzeres & Knas",
+      "current_heading": "Kutit/Samaritans",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Karat List",
+    "candidates": [
+      "Pre-3-Year-Old Rule",
+      "Karat List",
+      "Niddah & Knas",
+      "Karat vs. Knas",
+      "Rabbi Meir View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Karat vs. Knas",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishnah's concluding statement that karet cases still carry a knas because there is no court-imposed death penalty \u2014 exactly what heading 3 ('Karat vs. Knas') is about.",
+      "second_heading": "Rabbi Meir View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Gemara on a new mishnah discussing flawed-lineage young women (mamzeret, Gibeonite, Samaritan) \u2014 a structurally new unit matching the context of heading 4 ('Rabbi Meir View') which begins with the Gemara's analysis of which young women have a knas.",
+      "current_heading": "Karat List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rabbi Meir View",
+    "candidates": [
+      "Niddah & Knas",
+      "Karat vs. Knas",
+      "Rabbi Meir View",
+      "Chachamim View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present exactly the Gemara's inference about na'arah vs. ketannah and Rav Yehuda/Rav's identification of Rabbi Meir as the tanna, which is precisely what the 'Rabbi Meir View' prose section describes.",
+      "chosen_heading": "Rabbi Meir View",
+      "current_heading": "Rabbi Meir View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Chachamim View",
+    "candidates": [
+      "Chachamim View",
+      "Gemara Resolution",
+      "Fitness to Marry",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Chachamim's ruling about knas from age three until bagrut and the Gemara's brief emendation clarifying that knas applies even where mecher also applies \u2014 exactly what the 'Chachamim View' prose describes.",
+      "chosen_heading": "Chachamim View",
+      "current_heading": "Chachamim View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Gemara Resolution",
+      "Fitness to Marry",
+      "Reish Lakish",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's question about fitness to marry ('v'lo tihiyeh l'ishah \u2014 isha ha-rauyah lo') AND Reish Lakish's answer, and the 'Fitness to Marry' section's prose explicitly describes this exact question-and-answer sequence beginning with 've-hanei bnei knasa ninhu' through to the marriage fitness issue, making it the better home for the complete passage rather than splitting it.",
+      "chosen_heading": "Fitness to Marry",
+      "current_heading": "Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rav Pappa",
+    "candidates": [
+      "Reish Lakish",
+      "Rav Pappa",
+      "Abaye's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rav Pappa's derivation from 'betulah/betulot/ha-betulot' in the context of the seducer, matching exactly the prose under the 'Rav Pappa' heading.",
+      "chosen_heading": "Rav Pappa",
+      "current_heading": "Rav Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Abaye's Rule",
+    "candidates": [
+      "Abaye's Rule",
+      "Six Words Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Rav Pappa did not use Reish Lakish's derivation and presents Abaye's ruling about exemption when the girl dies before payment, which is exactly what candidate 0 ('Abaye's Rule') describes in its prose.",
+      "chosen_heading": "Abaye's Rule",
+      "current_heading": "Abaye's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Six Words Rule",
+    "candidates": [
+      "Six Words Rule",
+      "Hatimni View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's resolution that six words exist across both passages, allowing Reish Lakish and Rav Pappa to each derive their respective matters \u2014 exactly what the 'Six Words Rule' prose describes.",
+      "chosen_heading": "Six Words Rule",
+      "current_heading": "Six Words Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Hatimni View",
+    "candidates": [
+      "Hatimni View",
+      "Ben Azai View",
+      "Rav Zeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Shimon HaTimni's view (isha she'yesh bah havaya) and Rabbi Shimon ben Menasya's view together in one baraita, and the current heading 'Hatimni View' with its prose accurately describes this baraita's content as the starting point of the alternative positions being excluded by the mishna.",
+      "chosen_heading": "Hatimni View",
+      "current_heading": "Hatimni View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rav Zeira",
+    "candidates": [
+      "Ben Azai View",
+      "Rav Zeira",
+      "Akiva Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Zeira's identification of the practical difference between the two positions using the case of mamzeret/netinah, which matches exactly the prose under heading 1 'Rav Zeira'.",
+      "chosen_heading": "Rav Zeira",
+      "current_heading": "Rav Zeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Akiva Rule",
+    "candidates": [
+      "Akiva Rule",
+      "Mamzer & Binding",
+      "Yeshevav All Case",
+      "Yeshevav Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the nafka mina between the two positions according to Rabbi Akiva and the almanah le-kohen gadol exception via Rabbi Simai's baraita, which is precisely what the 'Akiva Rule' section prose describes.",
+      "chosen_heading": "Akiva Rule",
+      "current_heading": "Akiva Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Yeshevav Limited",
+    "candidates": [
+      "Mamzer & Binding",
+      "Yeshevav All Case",
+      "Yeshevav Limited",
+      "Kohen Exception",
+      "Rashi/Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain exploring the two readings of Rabbi Yeshevav's statement \u2014 whether it is limited to rejecting Rabbi Simai or is a free-standing broad claim \u2014 and resolving the mai beinaihu question with the be'ulah le-kohen gadol / asei she'eino shaveh ba-kol answer, which is precisely what the 'Yeshevav Limited' prose describes.",
+      "chosen_heading": "Yeshevav Limited",
+      "current_heading": "Yeshevav Limited",
+      "moved": false
+    }
+  }
+]

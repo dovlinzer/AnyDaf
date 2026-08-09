@@ -1,12 +1,9 @@
-# Bava Batra 58 — Daf Yomi Shiur
+[DAF:58a]
+## Rav Banna'ah & Graves
 
-## Rav Banna'ah & Grave (II)
+
 
 ### Marking Graves
-
-> **Hebrew/Aramaic:** רַבִּי בְּנָאָה הֲוָה קָא מְצַיֵּין מְעָרָתָא. כִּי מְטָא לִמְעָרְתָּא דְאַבְרָהָם, אַשְׁכְּחֵיהּ לֶאֱלִיעֶזֶר עֶבֶד אַבְרָהָם דְּקָאֵי קַמֵּי בָּבָא. אֲמַר לֵיהּ: מַאי קָא עָבֵיד אַבְרָהָם? אֲמַר לֵיהּ: גָּאנֵי בְּכַנְפַהּ דְּשָׂרָה, וְקָא מְעַיְּינָא לֵיהּ בְּרֵישֵׁיהּ.
->
-> **Translation:** **Rabbi Bena'a was marking** burial **caves** for the purpose of helping to prevent the contracting of ritual impurity. **When he arrived at the cave of Abraham,** i.e., the Cave of Machpelah, **he encountered Eliezer,** the **servant** of **Abraham, who was standing before the entrance.** Rabbi Bena'a **said to him: What is Abraham doing** at this moment? Eliezer **said to him:** He is **lying in the arms of Sarah, and she is examining his head.**
 
 The daf opens four lines into 58a, continuing the series of episodes featuring Rav Banna'ah, whose earlier statements quoted in the name of Rabbi Yochanan touched on matters of *tzniut* — though as has been noted repeatedly, the Gemara's emphasis in those passages falls not on the women but on how men comport themselves. We also encountered there a discussion about how a *talmid chacham* presents his own person, with the reminder that norms we typically associate with women's modesty were applied there to men.
 
@@ -14,9 +11,14 @@ The new story likewise intersects with *tzniut* in a fascinating way. The Gemara
 
 ### Abraham's Cave
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ, זִיל אֵימָא לֵיהּ: בְּנָאָה קָאֵי אַבָּבָא. אֲמַר לֵיהּ: לֵיעוּל – מִידָּע יְדִיעַ דְּיֵצֶר בְּהַאי עָלְמָא לֵיכָּא. עָיֵיל, עַיֵּין וּנְפַק.
->
-> **Translation:** Rabbi Bena'a **said to him: Go tell him** that **Bena'a is standing at the entrance,** so that he should assume an appropriate position to receive a visitor. Eliezer **said to him: Let** him, i.e., Rabbi Bena'a, **enter,** since **it is known that there is no** evil **inclination in this** higher **world,** so it is not inappropriate for Rabbi Bena'a to see Abraham and Sarah in this position. He **entered, examined** the cave in order to measure it, **and exited.**
+> **Hebrew/Aramaic:** רַבִּי בְּנָאָה הֲוָה קָא מְצַיֵּין מְעָרָתָא. כִּי מְטָא לִמְעָרְתָּא דְאַבְרָהָם, אַשְׁכְּחֵיהּ לֶאֱלִיעֶזֶר עֶבֶד אַבְרָהָם דְּקָאֵי קַמֵּי בָּבָא. אֲמַר לֵיהּ: מַאי קָא עָבֵיד אַבְרָהָם? אֲמַר לֵיהּ: גָּאנֵי בְּכַנְפַהּ דְּשָׂרָה, וְקָא מְעַיְּינָא לֵיהּ בְּרֵישֵׁיהּ.
+> **Translation:** § Having mentioned Rabbi Bena’a, the Gemara relates an incident in which he was involved. **Rabbi Bena’a was marking** burial **caves** for the purpose of helping to prevent the contracting of ritual impurity. **When he arrived at the cave of Abraham,** i.e., the Cave of Machpelah, **he encountered Eliezer,** the **servant** of **Abraham, who was standing before the entrance.** Rabbi Bena’a **said to him: What is Abraham doing** at this moment? Eliezer **said to him:** He is **lying in the arms of Sarah, and she is examining his head.**
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ, זִיל אֵימָא לֵיהּ: בְּנָאָה קָאֵי אַבָּבָא. אֲמַר לֵיהּ: לֵיעוּל – מִידָּע יְדִיעַ דְּיֵצֶר בְּהַאי עָלְמָא לֵיכָּא. עָיֵיל, עַיֵּין וּנְפַק.
+> **Translation:** Rabbi Bena’a **said to him: Go tell him** that **Bena’a is standing at the entrance,** so that he should assume an appropriate position to receive a visitor. Eliezer **said to him: Let** him, i.e., Rabbi Bena’a, **enter,** since **it is known that there is no** evil **inclination in this** higher **world,** so it is not inappropriate for Rabbi Bena’a to see Abraham and Sarah in this position. He **entered, examined** the cave in order to measure it, **and exited.**
+
+> **Hebrew/Aramaic:** כִּי מְטָא לִמְעָרְתָּא דְּאָדָם הָרִאשׁוֹן, יָצְתָה בַּת קוֹל וְאָמְרָה: ״נִסְתַּכַּלְתָּ בִּדְמוּת דְּיוֹקְנִי, בִּדְיוֹקְנִי עַצְמָהּ אַל תִּסְתַּכֵּל״. ״הָא בָּעֵינָא לְצַיּוֹנֵי מְעָרְתָּא!״ ״כְּמִדַּת הַחִיצוֹנָה כָּךְ מִדַּת הַפְּנִימִית. וּלְמַאן דְּאָמַר שְׁנֵי בָתִּים זוֹ לְמַעְלָה מִזּוֹ – כְּמִדַּת עֶלְיוֹנָה כָּךְ מִדַּת הַתַּחְתּוֹנָה״.
+> **Translation:** **When he arrived at the cave of Adam the first** man, who is buried in the same area, **a Divine Voice emerged and said: You gazed upon the likeness of My image,** i.e., Abraham, who is similar to the image of Adam the first man. **Do not gaze upon My image itself,** i.e., Adam the first man, about whom the verse states that he was formed in the image of God (see Genesis 1:27). Rabbi Bena’a said: **But I need to mark the cave.** The voice said to him: **As** the measurements of the **dimensions of the outer** cave where Abraham is buried, **so** are the measurements of the **dimensions of the inner** cave, where Adam is buried. The Gemara notes: **And according to the one who says** that the Cave of Machpelah consists of **two chambers, this** one **above that** one, not two adjacent chambers, the voice said: **As** the measurements of the **dimensions of the upper** cave where Abraham is buried, **so** are the measurements of the **dimensions of the lower** cave. Therefore, there is no need to measure it.
 
 *Ki mata lime'arata de-Avraham Avinu* — when he arrived at the cave of Abraham, that is, the *Me'arat HaMachpelah* in *Kiryat Arba*, his task was to determine which areas above the cave one could traverse without incurring *tumah*. How the site had been navigated for the preceding two thousand years we cannot say — perhaps people avoided the entire region, or perhaps the exact layout was simply unknown. In any case, Rav Banna'ah now sought to map it.
 
@@ -28,12 +30,6 @@ Rav Banna'ah said to Eliezer: *zil eima lei Banna'ah ka'i be-vava* — please go
 
 Rav Banna'ah entered, surveyed the precise parameters of the burial space, and departed. The obvious irony, of course, is that Abraham appears to be very much present and alive, yet Rav Banna'ah is mapping out the coffin's location to determine the *tumah*. This tension between the dead being buried and yet somehow present will recur throughout these stories, and we will return to it.
 
-### Adam's Revelation
-
-> **Hebrew/Aramaic:** כִּי מְטָא לִמְעָרְתָּא דְּאָדָם הָרִאשׁוֹן, יָצְתָה בַּת קוֹל וְאָמְרָה: ״נִסְתַּכַּלְתָּ בִּדְמוּת דְּיוֹקְנִי, בִּדְיוֹקְנִי עַצְמָהּ אַל תִּסְתַּכֵּל״. ״הָא בָּעֵינָא לְצַיּוֹנֵי מְעָרְתָּא!״ ״כְּמִדַּת הַחִיצוֹנָה כָּךְ מִדַּת הַפְּנִימִית. וּלְמַאן דְּאָמַר שְׁנֵי בָתִּים זוֹ לְמַעְלָה מִזּוֹ – כְּמִדַּת עֶלְיוֹנָה כָּךְ מִדַּת הַתַּחְתּוֹנָה״.
->
-> **Translation:** **When he arrived at the cave of Adam the first** man, who is buried in the same area, **a Divine Voice emerged and said: You gazed upon the likeness of My image,** i.e., Abraham, who is similar to the image of Adam the first man. **Do not gaze upon My image itself,** i.e., Adam the first man, about whom the verse states that he was formed in the image of God (see Genesis 1:27). Rabbi Bena'a said: **But I need to mark the cave.** The voice said to him: **As** the measurements of the **dimensions of the outer** cave where Abraham is buried, **so** are the measurements of the **dimensions of the inner** cave, where Adam is buried. The Gemara notes: **And according to the one who says** that the Cave of Machpelah consists of **two chambers, this** one **above that** one, not two adjacent chambers, the voice said: **As** the measurements of the **dimensions of the upper** cave where Abraham is buried, **so** are the measurements of the **dimensions of the lower** cave. Therefore, there is no need to measure it.
-
 After completing his survey of the Patriarchs' and Matriarchs' section of the cave — where Abraham and Sarah, Isaac and Rebecca, Jacob and Leah are all buried — he proceeded toward the cave of Adam. Apparently Adam was interred in a distinct section, and the Gemara will shortly explain why Rav Banna'ah could not approach it in the same way.
 
 *Ki mata lime'arta de-Adam HaRishon* — when he arrived at the cave of Adam, *yatzta bas kol ve'amra* — a heavenly voice issued forth and declared: *nistakalta bidmus diyukni* — you have already gazed upon the likeness of my image. The word *diyukan* derives from the Greek *eikon*, meaning image or icon. Abraham — or, according to the Rashbam, Jacob, in anticipation of a statement the Gemara will cite shortly about Jacob's image — bears a resemblance to Adam HaRishon, who was created directly in the divine image, and is thus in some sense an image of an image. *Bidiyukni atzmah al tistakel* — but you may not look upon Adam HaRishon himself, who was fashioned directly in God's own image.
@@ -44,10 +40,6 @@ One can observe a certain resonance here with Plato's allegory of the cave — w
 
 ### Adam's Heels
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי בְּנָאָה: נִסְתַּכַּלְתִּי בִּשְׁנֵי עֲקֵיבָיו, וְדוֹמִים לִשְׁנֵי גַּלְגַּלֵּי חַמָּה. הַכֹּל בִּפְנֵי שָׂרָה – כְּקוֹף בִּפְנֵי אָדָם. שָׂרָה בִּפְנֵי חַוָּה – כְּקוֹף בִּפְנֵי אָדָם. חַוָּה בִּפְנֵי אָדָם – כְּקוֹף בִּפְנֵי אָדָם. אָדָם בִּפְנֵי שְׁכִינָה – כְּקוֹף בִּפְנֵי אָדָם.
->
-> **Translation:** **Rabbi Bena'a says: I gazed at his,** Adam's, **two heels, and** they shone so brightly that **they are similar to two suns.** Along these lines, the Gemara states that **all** people **compared to Sarah** are **like a monkey compared to a human,** as Sarah was exceedingly beautiful; **Sarah compared to Eve** is **like a monkey compared to a human; Eve compared to Adam** is **like a monkey compared to a human;** and **Adam compared to the Divine Presence** is **like a monkey compared to a human.**
-
 Despite the heavenly prohibition, Rav Banna'ah reports: *nistakalti bishnei akeivav* — I caught a glimpse of his two heels. Presumably this occurred as he was approaching and the *bas kol* halted him, and he managed a brief look before turning away. *Ve-domin lishnei galgalei chamah* — and they appeared like two orbs of the sun: luminous, radiant, almost overwhelming in their splendor. If even the heels of Adam HaRishon shone with such intensity, one can only imagine the totality of his appearance.
 
 The Maharsha raises an obvious question: why did Adam's contemporaries not find his appearance so startling? He answers that those who lived in proximity to the creation of Adam were themselves so close to the source of divine radiance that the difference was not as jarring. Only for a later generation, standing at a far remove from that original glory, would encountering it be so overwhelming.
@@ -55,6 +47,8 @@ The Maharsha raises an obvious question: why did Adam's contemporaries not find 
 A brief academic observation: Rav Banna'ah's statement — *nistakalti bishnei akeivav* and what follows — is in Hebrew, whereas the surrounding narrative frame is in Aramaic. This suggests that this statement may represent an authentic, original pronouncement of Rav Banna'ah himself, while the Aramaic narrative is the *stam* Gemara's elaboration providing the context for that statement. One wonders whether the story of his entering the cave and receiving the *bas kol* was developed specifically to frame this original dictum.
 
 ## Tzaddikim & Tumah
+
+
 
 ### Status of Avot
 
@@ -76,6 +70,8 @@ Tosafot then offers a resolution to his own question: *ve-yesh lomar de-Avraham 
 
 ## Intimacy & Privacy
 
+
+
 ### Privacy vs Display
 
 Returning now to the story of Abraham and Sarah: from this narrative, one late *acharon* — drawing on a reading that the Rama appears to cite in the name of the Ran — derives a *halachic* or quasi-*halachic* principle that public displays of affection are contrary to *tzniut*. This reading has given rise to a broader discussion about what constitutes an inappropriately public intimate gesture, how overtly sexual it must be to present a problem, and whether this narrative carries genuine *halachic* weight at all — the Rama himself frames it as a matter of impropriety rather than issuing a formal ruling.
@@ -88,10 +84,14 @@ This distinction is borne out by the language of the Rashbam on the passage. He 
 
 ## Rav Banna'ah & Grave (II)
 
+
+
 ### Beauty Hierarchy
 
-> **Hebrew/Aramaic:** שׁוּפְרֵיהּ דְּרַב כָּהֲנָא מֵעֵין שׁוּפְרֵיהּ דְּרַב, שׁוּפְרֵיהּ דְּרַב מֵעֵין שׁוּפְרֵיהּ דְּרַבִּי אֲבָהוּ, שׁוּפְרֵיהּ דְּרַבִּי אֲבָהוּ מֵעֵין שׁוּפְרֵיהּ דְּיַעֲקֹב אָבִינוּ, שׁוּפְרֵיהּ דְּיַעֲקֹב אָבִינוּ מֵעֵין שׁוּפְרֵיהּ דְּאָדָם הָרִאשׁוֹן.
->
+> **Hebrew/Aramaic:** אָמַר רַבִּי בְּנָאָה: נִסְתַּכַּלְתִּי בִּשְׁנֵי עֲקֵיבָיו, וְדוֹמִים לִשְׁנֵי גַּלְגַּלֵּי חַמָּה. הַכֹּל בִּפְנֵי שָׂרָה – כְּקוֹף בִּפְנֵי אָדָם. שָׂרָה בִּפְנֵי חַוָּה – כְּקוֹף בִּפְנֵי אָדָם. חַוָּה בִּפְנֵי אָדָם – כְּקוֹף בִּפְנֵי אָדָם. אָדָם בִּפְנֵי שְׁכִינָה – כְּקוֹף בִּפְנֵי אָדָם.
+> **Translation:** **Rabbi Bena’a says: I gazed at his,** Adam’s, **two heels, and** they shone so brightly that **they are similar to two suns.** Along these lines, the Gemara states that **all** people **compared to Sarah** are **like a monkey compared to a human,** as Sarah was exceedingly beautiful; **Sarah compared to Eve** is **like a monkey compared to a human; Eve compared to Adam** is **like a monkey compared to a human;** and **Adam compared to the Divine Presence** is **like a monkey compared to a human.**
+
+> **Hebrew/Aramaic:** שׁוּפְרֵיהּ דְּרַב כָּהֲנָא מֵעֵין שׁוּפְרֵיהּ דְּרַב, שׁוּפְרֵיהּ דְּרַב מֵעֵין שׁוּפְרֵיהּ דְּרַבִּי אֲבָהוּ, שׁוּפְרֵיהּ דְּרַבִּי אֲבָהוּ מֵעֵין שׁוּפְרֵיהּ דְּיַעֲקֹב אָבִינוּ, שׁוּפְרֵיהּ דְּיַעֲקֹב אָבִינוּ מֵעֵין שׁוּפְרֵיהּ דְּאָדָם הָרִאשׁוֹן.
 > **Translation:** It was also stated that **the beauty of Rav Kahana is a semblance of the beauty of Rav. The beauty of Rav is a semblance of the beauty of Rabbi Abbahu. The beauty of Rabbi Abbahu is a semblance of the beauty of Jacob our forefather. The beauty of Jacob our forefather is a semblance of the beauty of Adam the first** man.
 
 Returning now to the Gemara's continuation: *hakol bifnei Sarah kekof bifnei adam* — all human beings, in comparison to Sarah, are like monkeys compared to humans, in terms of that quality — call it beauty, but beauty here in a sense that carries overtones of divine radiance rather than mere physical attractiveness.
@@ -106,17 +106,19 @@ It is noteworthy that Rabbi Yochanan — who elsewhere in the Gemara is describe
 
 ## Magician Story
 
-### Grave Desecration
 
-> **Hebrew/Aramaic:** הָהוּא אַמְגּוּשָׁא דַּהֲוָה חָטֵיט שָׁכְבֵי. כִּי מְטָא אַמְּעָרְתָּא דְּרַב טוֹבִי בַּר מַתְנָה, תַּפְשֵׂיהּ בְּדִיקְנֵיהּ. אֲתָא אַבָּיֵי, אֲמַר לֵיהּ: בְּמָטוּתָא מִינָּךְ, שִׁבְקֵיהּ. לְשָׁנָה אַחֲרִיתִי הֲדַר אֲתָא, תַּפְשֵׂיהּ בְּדִיקְנֵיהּ. אֲתָא אַבָּיֵי, לָא שִׁבְקֵיהּ עַד דְּאַיְיתִי מַסְפְּרָא וְגַזְּיֵהּ לְדִיקְנֵיהּ.
->
-> **Translation:** On the topic of burial caves, the Gemara relates that there was **a certain magus [*amgusha*] who was rummaging** through the graves of the **dead. When** he **arrived at the** burial **cave of Rav Tovi bar Mattana,** Rav Tovi **grabbed him by his beard** and would not release him. **Abaye came and said to** Rav Tovi: **I beg of you** to **release him.** The magus **came again in another year,** and Rav Tovi **grabbed him by his beard. Abaye came** and requested that he release him, but Rav Tovi **did not release him, until** Abaye **brought a scissors and cut his beard.**
+
+### Grave Desecration
 
 The Gemara now introduces another figure: *hahu amgosha* — a certain magician, the word *amgosha* being related to "magus." *De-hava chati shichvei* — he was digging up graves. The Rashbam understands him as a grave robber, stripping buried bodies of their clothes. The Maharsha, more naturally given that he is identified as a magician, suggests he was a necromancer seeking body parts for his craft. But the Soncino commentary, drawing on scholarly notes not always found in other editions, points out that within Persian Zoroastrian belief, burying bodies in the earth was considered a defilement of the sacred earth; bodies were therefore traditionally exposed in open pits for vultures to consume. The magician was likely acting from this religious impulse — attempting to expose the buried dead so that they could be disposed of in the manner his tradition required. In any case, he was violating the graves.
 
 *Ki mata amrata de-Rav ve-Rav Tuvi bar Masna* — when he came to the grave of Rav Tuvi bar Masna, *tafsei bediknei* — the buried man seized him by the beard and would not release him. Here again, as with Abraham and Sarah, the dead are in some sense present and active. The magician, beard in hand, was trapped.
 
+> **Hebrew/Aramaic:** הָהוּא אַמְגּוּשָׁא דַּהֲוָה חָטֵיט שָׁכְבֵי. כִּי מְטָא אַמְּעָרְתָּא דְּרַב טוֹבִי בַּר מַתְנָה, תַּפְשֵׂיהּ בְּדִיקְנֵיהּ. אֲתָא אַבָּיֵי, אֲמַר לֵיהּ: בְּמָטוּתָא מִינָּךְ, שִׁבְקֵיהּ. לְשָׁנָה אַחֲרִיתִי הֲדַר אֲתָא, תַּפְשֵׂיהּ בְּדִיקְנֵיהּ. אֲתָא אַבָּיֵי, לָא שִׁבְקֵיהּ עַד דְּאַיְיתִי מַסְפְּרָא וְגַזְּיֵהּ לְדִיקְנֵיהּ.
+> **Translation:** On the topic of burial caves, the Gemara relates that there was **a certain magus [*amgusha*] who was rummaging** through the graves of the **dead. When** he **arrived at the** burial **cave of Rav Tovi bar Mattana,** Rav Tovi **grabbed him by his beard** and would not release him. **Abaye came and said to** Rav Tovi: **I beg of you** to **release him.** The magus **came again in another year,** and Rav Tovi **grabbed him by his beard. Abaye came** and requested that he release him, but Rav Tovi **did not release him, until** Abaye **brought a scissors and cut his beard.**
+
 ### Beard Cutting
+
 
 *Ata Abaye* — Abaye came, and appealed: *bematusa minach shavkeih* — please, at your leave, let him go. The Rashbam suggests this magician was a friend of Abaye's, which is why Abaye interceded. Rav Tuvi released him.
 
@@ -124,11 +126,12 @@ The Gemara now introduces another figure: *hahu amgosha* — a certain magician,
 
 ## Deathbed Riddle
 
+
+
 ### Cryptic Will
 
-> **Hebrew/Aramaic:** הָהוּא דַּאֲמַר לְהוּ: חָבִיתָא דְעַפְרָא לְחַד בְּרַאי, חָבִיתָא דְגַרְמֵי לְחַד בְּרַאי, חָבִיתָא דְאוּדְרָא לְחַד בְּרַאי. לָא הֲווֹ יָדְעִי מַאי קָאָמַר לְהוּ. אֲתוֹ לְקַמֵּיהּ דְּרַבִּי בְּנָאָה, אֲמַר לְהוּ: ״אִית לְכוּ אַרְעָא?״ אֲמַרוּ לֵיהּ: ״אִין״. ״אִית לְכוּ חֵיוָתָא?״ ״אִין״. ״אִית לְכוּ בִּסְתַּרְקֵי?״ ״אִין״. ״אִי הָכִי, הָכִי קָאָמַר לְכוּ״.
->
-> **Translation:** § The Gemara relates additional incidents involving Rabbi Bena'a: There was **a certain** individual **who said to** his family before he died: **A barrel of earth to one of my sons, a barrel of bones to one of my sons,** and **a barrel of wads** of wool **to one of my sons. They did not know what he was saying to them. They came before Rabbi Bena'a** for guidance. Rabbi Bena'a **said to them: Do you have land** that your father left as an inheritance? **They said to him: Yes.** He asked: **Do you have livestock** that your father left as an inheritance? They said: **Yes.** He asked: **Do you have quilts [*bistarkei*]** that your father left as an inheritance? They said: **Yes.** He said to them: **If so, this is what he said to you,** i.e., he meant that he is bequeathing land to one son, livestock to the second, and quilts to the third.
+> **Hebrew/Aramaic:** הָהוּא דַּאֲמַר לְהוּ: חָבִיתָא דְעַפְרָא לְחַד בְּרַאי, חָבִיתָא דְגַרְמֵי לְחַד בְּרַאי, חָבִיתָא דְאוּדְרָא לְחַד בְּרַאי. לָא הֲווֹ יָדְעִי מַאי קָאָמַר לְהוּ. אֲתוֹ לְקַמֵּיהּ דְּרַבִּי בְּנָאָה, אֲמַר לְהוּ: ״אִית לְכוּ אַרְעָא?״ אֲמַרוּ לֵיהּ: ״אִין״. ״אִית לְכוּ חֵיוָתָא?״ ״אִין״. ״אִית לְכוּ בִּסְתַּרְקֵי?״ ״אִין״. ״אִי הָכִי, הָכִי קָאָמַר לְכוּ״.
+> **Translation:** § The Gemara relates additional incidents involving Rabbi Bena’a: There was **a certain** individual **who said to** his family before he died: **A barrel of earth to one of my sons, a barrel of bones to one of my sons,** and **a barrel of wads** of wool **to one of my sons. They did not know what he was saying to them. They came before Rabbi Bena’a** for guidance. Rabbi Bena’a **said to them: Do you have land** that your father left as an inheritance? **They said to him: Yes.** He asked: **Do you have livestock** that your father left as an inheritance? They said: **Yes.** He asked: **Do you have quilts [*bistarkei*]** that your father left as an inheritance? They said: **Yes.** He said to them: **If so, this is what he said to you,** i.e., he meant that he is bequeathing land to one son, livestock to the second, and quilts to the third.
 
 A man on his deathbed said to his family: *chavita de-afra le-chad berai* — a barrel of dirt to one son; *chavita de-garmi le-chad berai* — a barrel of bones to a second son; *ve-chavita de-udra le-chad berai* — and a barrel of cloth scraps to a third. *Lo havu yad'i mai ka-amar lehu* — they had no idea what he meant. They came to Rabbi Bana'ah, who asked three questions: do you own land? Yes. Do you own animals? Yes. Do you own clothes or cushions? Yes. *Ee hachi hachi ka-amar lechu* — that is precisely what he was saying. The land is the dirt, the animals are the bones, and the cloth or cushioning is the scraps of fabric.
 
@@ -138,21 +141,18 @@ But why did he not simply say so directly? The Maharsha explains that this wealt
 
 ## Inheritance Dispute
 
+
+
 ### Wife's Betrayal
 
-> **Hebrew/Aramaic:** הָהוּא גַּבְרָא דְּשַׁמְעַהּ לִדְבֵיתְהוּ דְּקָא אָמְרָה לְבַרְתַּהּ: ״אַמַּאי לָא צְנִּיעַתְּ בְּאִיסּוּרָא? הָךְ אִיתְּתָא, עֲשָׂרָה בְּנֵי אִית לַהּ, וְלֵית לִי מֵאֲבוּךְ אֶלָּא חַד״. כִּי שָׁכֵיב, אֲמַר לְהוּ: ״כׇּל נִכְסַי לְחַד בְּרָא״.
->
+> **Hebrew/Aramaic:** הָהוּא גַּבְרָא דְּשַׁמְעַהּ לִדְבֵיתְהוּ דְּקָא אָמְרָה לְבַרְתַּהּ: ״אַמַּאי לָא צְנִּיעַתְּ בְּאִיסּוּרָא? הָךְ אִיתְּתָא, עֲשָׂרָה בְּנֵי אִית לַהּ, וְלֵית לִי מֵאֲבוּךְ אֶלָּא חַד״. כִּי שָׁכֵיב, אֲמַר לְהוּ: ״כׇּל נִכְסַי לְחַד בְּרָא״.
 > **Translation:** There was **a certain man who heard his wife saying to her daughter: Why do you not act clandestinely** when you engage **in forbidden** sexual intercourse? **That woman has,** i.e., I have, **ten sons, and I have only one from your father,** and no one knows. So too, you must be careful so that no one will discover your illicit behavior. Having overheard that only one son was his, **when** that man **was dying he said to** his family: **All of my property** is left **to one son.**
 
 The Gemara introduces another case that came before Rabbi Bana'ah. A certain man overheard his wife instructing their daughter: *amai lo tzeni'at be-issura* — why are you not more discreet in your sinful conduct? And the wife then disclosed about herself: *asara benei it li, ve-leis li me-avuch ela chad* — I have ten sons, and only one of them is your father's child. On his deathbed, this man declared: *kol nichsai le-chad bera* — all my property goes to one son. He clearly meant his biological son, but he specified no name, leaving it for others to determine — or perhaps for a *beis din* to sort out.
 
-### Grave Test
-
-> **Hebrew/Aramaic:** לָא יָדְעִי לְהֵי מִינַּיְיהוּ. אֲתוֹ לְקַמֵּיהּ דְּרַבִּי בְּנָאָה, אֲמַר לְהוּ: זִילוּ חֲבוּטוּ קִבְרָא דַּאֲבוּכוֹן, עַד דְּקָאֵי וּמְגַלֵּי לְכוּ לְהֵי מִינַּיְיכוּ שְׁבַקא. אֲזַלוּ כּוּלְּהוּ, הָהוּא דִּבְרֵיהּ הֲוָה לָא אֲזַל. אֲמַר לְהוּ: כּוּלְּהוּ נִכְסֵי דְּהַאי. אֲזַלוּ אֲכַלוּ קוּרָצָא בֵּי מַלְכָּא, אָמְרִי: אִיכָּא גַּבְרָא חַד בִּיהוּדָאֵי, דְּקָא מַפֵּיק מָמוֹנָא מֵאִנָשֵׁי בְּלָא סָהֲדִי וּבְלָא מִידֵּי. אַתְיוּהוּ חַבְשׁוּהוּ.
->
-> **Translation:** **They did not know** to **which of them** he intended to leave his property. **They came before Rabbi Bena'a** for guidance, and **he said to** the sons: **Go strike your father's grave, until he rises and reveals to you to which of you he left** his property. **They all went,** but **that** one **who was his son did not go.** Rabbi Bena'a **said to them: All of** the **property belongs to this** son who did not go. The other brothers were angry. **They went and slandered [*akhlu kuretza*]** Rabbi Bena'a in **the king's house. They said: There is one man among the Jews who removes money from people without witnesses and without any** evidence. The king's guards **brought** Rabbi Bena'a **and imprisoned him.**
-
 *Lo yediah le-hai mineihu ve-lo le-hai mineihu* — they did not know to which son to award the estate. They came to Rabbi Bana'ah.
+
+### Grave Test
 
 Rabbi Bana'ah instructed them: *zilu chavutu kivra de-avuchon* — go bang on your father's grave, *ad de-kai* — until he rises, as we have seen the dead do in these stories, *u-meimar lachu le-hai mineichu shavki* — and he will tell you which son he left it to. Could anyone anticipate where this is heading?
 
@@ -164,15 +164,19 @@ Now, did the legitimate son know that he was the biological son? The Rashbam say
 
 ### Court & Prison
 
+> **Hebrew/Aramaic:** לָא יָדְעִי לְהֵי מִינַּיְיהוּ. אֲתוֹ לְקַמֵּיהּ דְּרַבִּי בְּנָאָה, אֲמַר לְהוּ: זִילוּ חֲבוּטוּ קִבְרָא דַּאֲבוּכוֹן, עַד דְּקָאֵי וּמְגַלֵּי לְכוּ לְהֵי מִינַּיְיכוּ שְׁבַקא. אֲזַלוּ כּוּלְּהוּ, הָהוּא דִּבְרֵיהּ הֲוָה לָא אֲזַל. אֲמַר לְהוּ: כּוּלְּהוּ נִכְסֵי דְּהַאי. אֲזַלוּ אֲכַלוּ קוּרָצָא בֵּי מַלְכָּא, אָמְרִי: אִיכָּא גַּבְרָא חַד בִּיהוּדָאֵי, דְּקָא מַפֵּיק מָמוֹנָא מֵאִנָשֵׁי בְּלָא סָהֲדִי וּבְלָא מִידֵּי. אַתְיוּהוּ חַבְשׁוּהוּ.
+> **Translation:** **They did not know** to **which of them** he intended to leave his property. **They came before Rabbi Bena’a** for guidance, and **he said to** the sons: **Go strike your father’s grave, until he rises and reveals to you to which of you he left** his property. **They all went,** but **that** one **who was his son did not go.** Rabbi Bena’a **said to them: All of** the **property belongs to this** son who did not go. The other brothers were angry. **They went and slandered [*akhlu kuretza*]** Rabbi Bena’a in **the king’s house. They said: There is one man among the Jews who removes money from people without witnesses and without any** evidence. The king’s guards **brought** Rabbi Bena’a **and imprisoned him.**
+
 The other sons were not pleased. *Azlu achalu kurtza be-malka* — they all went and slandered him before the king. *Achalu kurtza* is an idiomatic expression for slander; the precise etymology of *kurtza* is unclear, though it may evoke the image of speaking while eating privately. They told the court: *ika gavra chad bi-Yehudai de-ka mapik mamona me-inshei bela sahadei u-vela midi* — there is one man among the Jews who extracts people's money without witnesses and without any proper evidence, effectively robbing them of their inheritance. *Atiyuhu ve-chavshuhu* — they brought Rabbi Bana'ah before the court and threw him in prison.
 
 ## Wife's Parable
 
+
+
 ### Slave Riddle
 
-> **Hebrew/Aramaic:** אֲזַלָא דְּבֵיתְהוּ, אֲמַרָה לְהוּ: עַבְדָּא חַד הֲוָה לִי, פְּסַקוּ לְרֵישֵׁיהּ וּפְשַׁטוּ לְמַשְׁכֵּיהּ וַאֲכַלוּ בִּישְׂרֵיהּ, וְקָא מָלוּ בֵּיהּ מַיָּא וּמַשְׁקוּ בֵּיהּ לְחַבְרַיָּיא, וְלָא קָא יָהֲבִי לִי דְּמֵי וְלָא אַגְרֵיהּ.
->
-> **Translation:** **The wife of** Rabbi Bena'a **went** and **said to** the guards: **I had one servant. They cut off his head, and skinned him and ate his flesh, and they fill him with water and** give their **friends to drink from him, and they have not paid me** his **value nor have they rented him.**
+> **Hebrew/Aramaic:** אֲזַלָא דְּבֵיתְהוּ, אֲמַרָה לְהוּ: עַבְדָּא חַד הֲוָה לִי, פְּסַקוּ לְרֵישֵׁיהּ וּפְשַׁטוּ לְמַשְׁכֵּיהּ וַאֲכַלוּ בִּישְׂרֵיהּ, וְקָא מָלוּ בֵּיהּ מַיָּא וּמַשְׁקוּ בֵּיהּ לְחַבְרַיָּיא, וְלָא קָא יָהֲבִי לִי דְּמֵי וְלָא אַגְרֵיהּ.
+> **Translation:** **The wife of** Rabbi Bena’a **went** and **said to** the guards: **I had one servant. They cut off his head, and skinned him and ate his flesh, and they fill him with water and** give their **friends to drink from him, and they have not paid me** his **value nor have they rented him.**
 
 His wife came to intercede. She presented the following riddle to the royal court: *avda chad hava li* — I had a certain slave. *Pasku le-reisheih* — they cut off his head. *U-fashtu le-mascheih* — they stripped his skin. *Ve-achalu bisreih* — they ate his flesh. *Ve-kamlu beih maya* — they filled his skin with water. *U-mashku beih le-chavraya* — and they gave others to drink from it. *Ve-lo kaheivi li dameih ve-lo agreih* — and they have not paid me his price or his hire.
 
@@ -180,9 +184,8 @@ His wife came to intercede. She presented the following riddle to the royal cour
 
 ### Goat Solution
 
-> **Hebrew/Aramaic:** לָא יָדְעִי מַאי קָא אָמְרָה לְהוּ. אָמְרִי: נַיְתוֹ לְחַכִּימָא דִיהוּדָאֵי, וְלֵימָא. קַרְיוּהוּ לְרַבִּי בְּנָאָה, אֲמַר לְהוּ: זַרְנוּקָא אָמְרָה לְכוּ. אָמְרִי: הוֹאִיל וְחַכִּים כּוּלֵּי הַאי, לִיתֵּיב אַבָּבָא וְנֵידוּן דִּינָא.
->
-> **Translation:** **They did not know what she was saying to them. They said: Let us bring the wise** man **of the Jews, and let him say** what she meant. **They called Rabbi Bena'a,** and **he said to them: She spoke to you of a water skin [*zarnuka*].** In other words, she was referring to a goat she owned that was slaughtered, its meat eaten, and its skin made into a water skin that could be filled with drinking water. **They said: Since** he is **so wise, let** him **sit at the gate** where the judges congregate **and render judgment.**
+> **Hebrew/Aramaic:** לָא יָדְעִי מַאי קָא אָמְרָה לְהוּ. אָמְרִי: נַיְתוֹ לְחַכִּימָא דִיהוּדָאֵי, וְלֵימָא. קַרְיוּהוּ לְרַבִּי בְּנָאָה, אֲמַר לְהוּ: זַרְנוּקָא אָמְרָה לְכוּ. אָמְרִי: הוֹאִיל וְחַכִּים כּוּלֵּי הַאי, לִיתֵּיב אַבָּבָא וְנֵידוּן דִּינָא.
+> **Translation:** **They did not know what she was saying to them. They said: Let us bring the wise** man **of the Jews, and let him say** what she meant. **They called Rabbi Bena’a,** and **he said to them: She spoke to you of a water skin [*zarnuka*].** In other words, she was referring to a goat she owned that was slaughtered, its meat eaten, and its skin made into a water skin that could be filled with drinking water. **They said: Since** he is **so wise, let** him **sit at the gate** where the judges congregate **and render judgment.**
 
 *Kariyuhu le-Rabbi Bana'ah* — they summoned Rabbi Bana'ah. *Amar lehu zarnuka amra lachu* — he said to them: she is talking about her goat. The goat served her; they slaughtered it, ate its meat, filled its skin to use as a water vessel, and have not compensated her. With that single substitution — slave means goat — the riddle dissolved.
 
@@ -192,17 +195,22 @@ The Maharsha, however, finds this resolution somewhat unsatisfying on its own. I
 
 ## Judge & Gates
 
-### Judge Rule
 
-> **Hebrew/Aramaic:** חֲזָא דַּהֲוָה כְּתִיב בַּאֲבוּלָּא: ״כֹּל דַּיָּין דְּמִתְקְרֵי לְדִין – לָא שְׁמֵיהּ דַּיָּין״. אֲמַר לְהוּ: אֶלָּא מֵעַתָּה, אֲתָא אִינִישׁ מֵעָלְמָא וּמַזְמֵין (לְהוּ) [לֵיהּ] לְדִינָא, פַּסְלֵיהּ?! אֶלָּא כֹּל דַּיָּין דְּמִתְקְרֵי לְדִין, וּמַפְּקִין מִינֵּיהּ מָמוֹנָא בְּדִין – לָאו שְׁמֵיהּ דַּיָּין. כְּתַבוּ הָכִי: ״בְּרַם סָאבֵי דִיהוּדָאֵי אָמְרִי: כֹּל דַּיָּין דְּמִתְקְרֵי לְדִין וּמַפְּקִין מִינֵּיהּ מָמוֹנָא בְּדִין – לָאו שְׁמֵיהּ דַּיָּין״.
->
-> **Translation:** Rabbi Bena'a **saw that it was written upon the gate [*be'abbula*]: Any judge who is summoned to judgment is not considered a judge,** as judges must be above reproach. **He said to them: If that is so,** then if **a person comes from elsewhere and summons** a judge **to judgment, has he disqualified** the judge even if he were later to be exonerated? **Rather,** it should say: **Any judge who is summoned to judgment and money is lawfully taken from him,** i.e., he was ordered to return someone's property, **is not considered a judge.** When they heard this, **they wrote this** addendum to the original inscription: **But the elders of the Jews say** that **any judge who is summoned to judgment and money is lawfully taken from him is not considered a judge.**
+
+### Judge Rule
 
 *Hoil ve-chakim kulei hai* — since he is so wise, the court declared, *letvei abava ve-nidun dina* — let him sit at the gate and serve as a judge. Courts in the ancient world conducted their proceedings at the city gates — echoing the *lo yoshev be-sha'ar Sodom* and similar biblical imagery.
 
 Observing what was inscribed on the gate of the court, Rabbi Bana'ah read: *kol dayan d'mitkari l'din lo shmei dayan* — any judge who has ever been brought before a court as a litigant is not truly called a judge. A person against whom charges have been brought, who has been subjected to litigation, lacks the moral authority to serve as a judge. There is something beautiful about this principle: the judge must stand genuinely above suspicion.
 
+[DAF:58b]
 ### Refinement
+
+> **Hebrew/Aramaic:** חֲזָא דַּהֲוָה כְּתִיב בַּאֲבוּלָּא: ״כֹּל דַּיָּין דְּמִתְקְרֵי לְדִין – לָא שְׁמֵיהּ דַּיָּין״. אֲמַר לְהוּ: אֶלָּא מֵעַתָּה, אֲתָא אִינִישׁ מֵעָלְמָא
+> **Translation:** Rabbi Bena’a **saw that it was written upon the gate [*be’abbula*]: Any judge who is summoned to judgment is not considered a judge,** as judges must be above reproach. **He said to them: If that is so,** then if **a person comes from elsewhere**
+
+> **Hebrew/Aramaic:** וּמַזְמֵין (לְהוּ) [לֵיהּ] לְדִינָא, פַּסְלֵיהּ?! אֶלָּא כֹּל דַּיָּין דְּמִתְקְרֵי לְדִין, וּמַפְּקִין מִינֵּיהּ מָמוֹנָא בְּדִין – לָאו שְׁמֵיהּ דַּיָּין. כְּתַבוּ הָכִי: ״בְּרַם סָאבֵי דִיהוּדָאֵי אָמְרִי: כֹּל דַּיָּין דְּמִתְקְרֵי לְדִין וּמַפְּקִין מִינֵּיהּ מָמוֹנָא בְּדִין – לָאו שְׁמֵיהּ דַּיָּין״.
+> **Translation:** **and summons** a judge **to judgment,** has he **disqualified** the judge even if he were later to be exonerated? **Rather,** it should say: **Any judge who is summoned to judgment and money is lawfully taken from him,** i.e., he was ordered to return someone’s property, **is not considered a judge.** When they heard this, **they wrote this** addendum to the original inscription: **But the elders of the Jews say** that **any judge who is summoned to judgment and money is lawfully taken from him is not considered a judge.**
 
 Rabbi Bana'ah objected. *Ela me'ata atei inish me-alma u-mashkhei l'dina batrei* — what is to stop someone from simply fabricating a charge against a judge he dislikes, thereby disqualifying him? Under this rule, any litigant could neutralize an inconveniently honest judge by the simple expedient of suing him for something trivial. It is worth noting, as the Maharsha observes, that there was likely a subtext here: the court may have been mocking Rabbi Bana'ah — yes, we'll make you a judge, even though you yourself have just been a defendant. Rabbi Bana'ah was responding to both the logical flaw and the implicit taunt simultaneously.
 
@@ -214,21 +222,22 @@ Tosafot refines the ruling further. *Ke-gon im kafar ve-hotzi'u mimenu be-eidim*
 
 ### Amended Rule
 
-The court, rather than erasing its original inscription, added an asterisk: *baram savvei d'Yehudai amri* — however, the elders of Israel say — *kol dayan d'mitkari l'din u-mapki minei mamona be-din lav shmei dayan*. The Jewish qualification was appended alongside the original rule without replacing it. This leaves the court's own rule looking somewhat foolish by implication.
+The court, rather than erasing its original inscription, added an asterisk: *bram savvei d'Yehudai amri* — however, the elders of Israel say — *kol dayan d'mitkari l'din u-mapki minei mamona be-din lav shmei dayan*. The Jewish qualification was appended alongside the original rule without replacing it. This leaves the court's own rule looking somewhat foolish by implication.
 
 One can appreciate the underlying logic of the original rule, even so. There is a meaningful argument that a judge who has been publicly charged — even if ultimately innocent — loses a certain moral authority in the eyes of the community. Public perception, as has been famously observed, operates independently of fact; it may be easier to change reality than to change perception. But Rabbi Bana'ah's practical objection — that the rule as stated is too easily weaponized — was compelling enough that it had to be incorporated.
 
 ## Medical Wisdom
 
-### Blood Death
 
-> **Hebrew/Aramaic:** חֲזָא דִּכְתִיב: ״בְּרֵאשׁ כֹּל מוֹתָא – אֲנָא דָּם, בְּרֵאשׁ כֹּל חַיִּין – אֲנָא חֲמַר״. אֶלָּא מֵעַתָּה, דְּנָפֵיל מֵאִיגָּרָא וּמִית, וּדְנָפֵיל מִדִּיקְלָא וּמִית, דְּמָא קַטְלֵיהּ?! וְתוּ, מַן דְּדַרְכֵּיהּ לְמֵימַת – מַשְׁקוּ לֵיהּ חַמְרָא, וְחָיֵי?! אֶלָּא הָכִי בָּעֵי לְמִכְתַּב: בְּרֵאשׁ כֹּל מַרְעִין – אֲנָא דָּם, בְּרֵאשׁ כֹּל אָסְווֹן – אֲנָא חֲמַר. כְּתַבוּ הָכִי: ״בְּרַם סָאבֵי דִיהוּדָאֵי אָמְרִי: בְּרֵאשׁ כֹּל מַרְעִין – אֲנָא דָּם, בְּרֵאשׁ כֹּל אָסְווֹן – אֲנָא חֲמַר, בַּאֲתַר דְּלֵית חֲמַר – תַּמָּן מִתְבָּעוּ סַמָּנִין״.
->
-> **Translation:** Rabbi Bena'a also **saw that it was written** there: **At the head** of **all death am I, blood,** i.e., people die from an excess of blood; **at the head** of **all life am I, wine,** i.e., wine is what gives life. He said to them: **If that is so,** in the case of someone **who falls from a roof and dies, or** someone **who falls from a palm tree and dies,** was it **blood** that **killed him? And furthermore,** concerning someone **who is on the way to death, can they give him a drink of wine and** he will **live? Rather, this** is what **should be written: At the head of all illness am I, blood; at the head of all healing am I, wine.** When they heard this, **they wrote this** addendum to the original inscription: **But the elders of the Jews say: At the head of all illness am I, blood; at the head of all healing am I, wine. In a place where there is no wine, herbs are required there** as medicines.
+
+### Blood Death
 
 Rabbi Bana'ah also encountered another inscription — apparently somewhere near the gate, though possibly elsewhere — reading: *berosh kol mossa ana dam* — at the head of all deaths am I, blood. The Rashbam understands this as a reference to excess blood in the body — the medical theory underlying bloodletting — as the primary cause of death. Interestingly, by a curious coincidence, the leading causes of death in the contemporary developed world are cardiovascular diseases: heart attacks and strokes, all of which are indeed blood-related in various ways.
 
 ### Objections
+
+> **Hebrew/Aramaic:** חֲזָא דִּכְתִיב: ״בְּרֵאשׁ כֹּל מוֹתָא – אֲנָא דָּם, בְּרֵאשׁ כֹּל חַיִּין – אֲנָא חֲמַר״. אֶלָּא מֵעַתָּה, דְּנָפֵיל מֵאִיגָּרָא וּמִית, וּדְנָפֵיל מִדִּיקְלָא וּמִית, דְּמָא קַטְלֵיהּ?! וְתוּ, מַן דְּדַרְכֵּיהּ לְמֵימַת – מַשְׁקוּ לֵיהּ חַמְרָא, וְחָיֵי?! אֶלָּא הָכִי בָּעֵי לְמִכְתַּב: בְּרֵאשׁ כֹּל מַרְעִין – אֲנָא דָּם, בְּרֵאשׁ כֹּל אָסְווֹן – אֲנָא חֲמַר. כְּתַבוּ הָכִי: ״בְּרַם סָאבֵי דִיהוּדָאֵי אָמְרִי: בְּרֵאשׁ כֹּל מַרְעִין – אֲנָא דָּם, בְּרֵאשׁ כֹּל אָסְווֹן – אֲנָא חֲמַר, בַּאֲתַר דְּלֵית חֲמַר – תַּמָּן מִתְבָּעוּ סַמָּנִין״.
+> **Translation:** Rabbi Bena’a also **saw that it was written** there: **At the head** of **all death am I, blood,** i.e., people die from an excess of blood; **at the head** of **all life am I, wine,** i.e., wine is what gives life. He said to them: **If that is so,** in the case of someone **who falls from a roof and dies, or** someone **who falls from a palm tree and dies,** was it **blood** that **killed him? And furthermore,** concerning someone **who is on the way to death, can they give him a drink of wine and** he will **live? Rather, this** is what **should be written: At the head of all illness am I, blood; at the head of all healing am I, wine.** When they heard this, **they wrote this** addendum to the original inscription: **But the elders of the Jews say: At the head of all illness am I, blood; at the head of all healing am I, wine. In a place where there is no wine, herbs are required there** as medicines.
 
 Rabbi Bana'ah challenged this claim. *D'naflu me-igra u-mis* — someone who falls from a roof and dies, *d'naflu mi-dikla u-mis* — someone who falls from a palm tree and dies: *damma katleh* — did blood kill him? Clearly not; the impact did. And *man d'darchei le-memis u-mashkecha chammar ve-chayeh* — someone who is dying a natural death, can you simply give him wine and revive him? The inscription claimed wine was the supreme life-giving force, but that is plainly not how death works.
 
@@ -238,8 +247,7 @@ The corrections Rabbi Bana'ah proposed: *berosh kol mar'in ana dam* — at the h
 
 ### Wine & Health
 
-> **Hebrew/Aramaic:** כְּתִיב אַפִּיתְחָא דְקַפּוֹטְקְיָא: ״אַנְפַּק, אַנְבַּג, אַנְטַל״. וְאֵיזֶהוּ אַנְטַל? זֶהוּ רְבִיעִית שֶׁל תּוֹרָה.
->
+> **Hebrew/Aramaic:** כְּתִיב אַפִּיתְחָא דְקַפּוֹטְקְיָא: ״אַנְפַּק, אַנְבַּג, אַנְטַל״. וְאֵיזֶהוּ אַנְטַל? זֶהוּ רְבִיעִית שֶׁל תּוֹרָה.
 > **Translation:** Having related that incident, the Gemara notes that **at the entrance of Kapotekiyya** it was **written: *Anpak*, *anbag*, *antal*,** which are all names for the same measurement. **And what is *antal*? It is** the **quarter**-*log* **of** the **Torah.**
 
 *Kasevu hachi* — they wrote accordingly, adding the qualified formulation with an asterisk attributing it to the Jewish sages, alongside their own original version. And they appended one further line: *be-asra de-lais chammar tamman mitba'u samanin* — in a place where wine is unavailable, that is where one must resort to medicines. The clear implication is that where wine is regularly consumed, the need for medical intervention diminishes substantially — a proposition that modern studies of moderate red wine consumption have not entirely refuted.
@@ -247,6 +255,8 @@ The corrections Rabbi Bana'ah proposed: *berosh kol mar'in ana dam* — at the h
 The Gemara then notes an inscription at the gate of Cappadocia — a major metropolitan center. *Anpik anvag antol* — three terms the Rashbam identifies as three equivalent measurements, the point being that different localities use different words for the same unit. Tosafot takes a different approach, reading *anpik* and *anvag* as referring to some type of healthful food or liquid, with *antol* being a unit of measurement specifying how much one should consume. *Ve-eizu antol? Zehu reyi'is* — and how much is an *antol*? It equals a *revi'it*, the standard quarter-*log* measure of approximately three and a half ounces — the minimum *shiur* of drinking used across most *halachic* contexts, including *kiddush*.
 
 ## Chazaka Intro
+
+
 
 ### Usage Rights
 
@@ -258,15 +268,17 @@ This second category — *chazaka* not as evidence of sale but as establishment 
 
 ### Spout Rule
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַמַּרְזֵב אֵין לוֹ חֲזָקָה, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה. הַמַּזְחֵילָה יֵשׁ לָהּ חֲזָקָה. סוּלָּם הַמִּצְרִי אֵין לוֹ חֲזָקָה, וְלַצּוֹרִי יֵשׁ לוֹ חֲזָקָה. חַלּוֹן הַמִּצְרִית אֵין לָהּ חֲזָקָה, וְלַצּוֹרִית יֵשׁ לָהּ חֲזָקָה. אֵיזוֹ הִיא חַלּוֹן הַמִּצְרִית? כֹּל שֶׁאֵין רֹאשׁוֹ שֶׁל אָדָם יָכוֹל לִיכָּנֵס לְתוֹכָהּ. רַבִּי יְהוּדָה אוֹמֵר: אִם יֵשׁ לָהּ מַלְבֵּן – אַף עַל פִּי שֶׁאֵין רֹאשׁוֹ שֶׁל אָדָם יָכוֹל לִיכָּנֵס לְתוֹכָהּ, הֲרֵי זוֹ חֲזָקָה.
->
-> **Translation:** MISHNA: With regard to **a spout** protruding from one's roof gutter draining water into another's property, its owner **has no** means to establish **an acquired privilege for its** use, **but** he does **have** the means to establish **an acquired privilege with regard to its place,** as the Gemara will explain. With regard to **a gutter pipe** that traverses the length of the roof, one does **have** the means to establish **an acquired privilege for its** use. With regard to **an Egyptian ladder,** which is small and portable, one **has no** means to establish **an acquired privilege for its** use. **But with regard to a Tyrian** ladder, which is large and fixed in place, one does **have** the means to establish **an acquired privilege for its** use. With regard to **an Egyptian window,** one **has no** means to establish **an acquired privilege for its** use; **but with regard to a Tyrian** window, one does **have** the means to establish **an acquired privilege for its** use. **What is** the defining feature of **an Egyptian window?** It is **any** window that is so small **that a person's head is not able to fit inside it. Rabbi Yehuda says: If** a window **has a frame, even though a person's head is not able to fit inside it,** one does **have** the means to establish **an acquired privilege for its** use.
+> **Hebrew/Aramaic:** מַתְנִי׳ הַמַּרְזֵב אֵין לוֹ חֲזָקָה, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה. הַמַּזְחֵילָה יֵשׁ לָהּ חֲזָקָה.
+> **Translation:** MISHNA: With regard to **a spout** protruding from one’s roof gutter draining water into another’s property, its owner **has no** means to establish **an acquired privilege for its** use, **but** he does **have** the means to establish **an acquired privilege with regard to its place,** as the Gemara will explain. With regard to **a gutter pipe** that traverses the length of the roof, one does **have** the means to establish **an acquired privilege for its** use.
 
 *Ha-marzev ein lo chazakah* — a rain spout does not acquire *chazaka*. The scenario is this: my roof ends where your yard begins; my rain gutter channels water to a spout that overhangs your yard. You have not objected — perhaps you even benefit from the water. Does my undisturbed use give me an established right to keep the spout exactly where it is, such that you can no longer demand I remove it?
 
 The *mishna* answers: *ein lo chazakah* — no such *chazaka* attaches to the spout itself, meaning you may demand that I move or adjust it. *Ve-yesh limkomo chazakah* — but its location does have a *chazaka*. This formulation is puzzling: the spout has no *chazaka* but its location does? The Gemara will offer three distinct explanations of this phrase, which we will examine in a moment.
 
 ### Permanence
+
+> **Hebrew/Aramaic:** סוּלָּם הַמִּצְרִי אֵין לוֹ חֲזָקָה, וְלַצּוֹרִי יֵשׁ לוֹ חֲזָקָה.
+> **Translation:** With regard to **an Egyptian ladder,** which is small and portable, one **has no** means to establish **an acquired privilege for its** use. **But with regard to a Tyrian** ladder, which is large and fixed in place, one does **have** the means to establish **an acquired privilege for its** use.
 
 *Ha-mazchila yesh la chazakah* — the rain gutter itself, however, does acquire *chazaka*. The gutter is a more permanent structure than the spout; if the gutter projects over your yard from the roofline and you have not objected, that silence constitutes a waiver and you may no longer demand its removal.
 
@@ -282,7 +294,11 @@ The *mishna* answers: *ein lo chazakah* — no such *chazaka* attaches to the sp
 
 *Eizehu chalon ha-tzuri?* The *mishna* defines the small variety as one through which the head of a person cannot pass.
 
+> **Hebrew/Aramaic:** חַלּוֹן הַמִּצְרִית אֵין לָהּ חֲזָקָה, וְלַצּוֹרִית יֵשׁ לָהּ חֲזָקָה. אֵיזוֹ הִיא חַלּוֹן הַמִּצְרִית? כֹּל שֶׁאֵין רֹאשׁוֹ שֶׁל אָדָם יָכוֹל לִיכָּנֵס לְתוֹכָהּ. רַבִּי יְהוּדָה אוֹמֵר: אִם יֵשׁ לָהּ מַלְבֵּן – אַף עַל פִּי שֶׁאֵין רֹאשׁוֹ שֶׁל אָדָם יָכוֹל לִיכָּנֵס לְתוֹכָהּ, הֲרֵי זוֹ חֲזָקָה.
+> **Translation:** With regard to **an Egyptian window,** one **has no** means to establish **an acquired privilege for its** use; **but with regard to a Tyrian** window, one does **have** the means to establish **an acquired privilege for its** use. **What is** the defining feature of **an Egyptian window?** It is **any** window that is so small **that a person’s head is not able to fit inside it. Rabbi Yehuda says: If** a window **has a frame, even though a person’s head is not able to fit inside it,** one does **have** the means to establish **an acquired privilege for its** use.
+
 ### Window Frame
+
 
 *Rabbi Yehuda omer* — Rabbi Yehuda holds that *im yesh lo malben* — if the window has a proper frame around it, *af al pi she-ein rosho shel adam yachol le-hikanes le-tocho* — even though a person's head cannot fit through it, *harei zeh chazakah* — it nonetheless acquires *chazakah*. The reasoning is that affixing a frame around a window demonstrates an intent of permanence; it is no longer a casual opening but a finished installation. Whether that alone is sufficient provocation to trigger *chazakah* — even absent the ability to look through it fully — is a question we will see the Gemara address.
 
@@ -290,28 +306,28 @@ The underlying principle running through all these cases is consistent: a tempor
 
 ## Gemara Marzev
 
+
+
 ### Two Ends
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי ״הַמַּרְזֵב אֵין לוֹ חֲזָקָה, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה״? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל, הָכִי קָאָמַר: הַמַּרְזֵב אֵין לוֹ חֲזָקָה – מֵרוּחַ אַחַת, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה – מִשְׁתֵּי רוּחוֹת.
->
-> **Translation:** GEMARA: The Gemara asks: **What** is the meaning of the mishna's statement: With regard to **a spout,** its owner **has no** means to establish **an acquired privilege for its** use, **but** he does **have** the means to establish **an acquired privilege with regard to its place? Rav Yehuda said** that **Shmuel said: This** is what it **is saying:** Concerning **a spout,** its owner **has no** means to establish **an acquired privilege for its** use **with regard to one side,** i.e., the owner of the field below has the right to move the spout from one place to another on one side of the roof, **but** he does **have** the means to establish **an acquired privilege concerning its place with regard to two sides,** i.e., the owner of the field below does not have the right to move it to another side of the roof.
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי ״הַמַּרְזֵב אֵין לוֹ חֲזָקָה, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה״? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל, הָכִי קָאָמַר: הַמַּרְזֵב אֵין לוֹ חֲזָקָה – מֵרוּחַ אַחַת, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה – מִשְׁתֵּי רוּחוֹת.
+> **Translation:** GEMARA: The Gemara asks: **What** is the meaning of the mishna’s statement: With regard to **a spout,** its owner **has no** means to establish **an acquired privilege for its** use, **but** he does **have** the means to establish **an acquired privilege with regard to its place? Rav Yehuda said** that **Shmuel said: This** is what it **is saying:** Concerning **a spout,** its owner **has no** means to establish **an acquired privilege for its** use **with regard to one side,** i.e., the owner of the field below has the right to move the spout from one place to another on one side of the roof, **but** he does **have** the means to establish **an acquired privilege concerning its place with regard to two sides,** i.e., the owner of the field below does not have the right to move it to another side of the roof.
 
-*Mai marzev ein lo chazakah ve-yesh limkomo chazakah* — what does it mean that the spout lacks *chazaka* but its location retains one? *Amar Rav Yehuda amar Shmuel* — the explanation is this: *ha-marzev ein lo chazakah me-ruach achat ve-yesh limkomo chazakah mi-shtei ruchot*. A gutter with one stopped end and one open end can have its spout positioned at either side. Your undisturbed use of the spout at the current end gives you an implicit right to maintain *a* spout somewhere on the gutter — that is the *chazakah* of its location — but I can demand that you move the spout to the *other* end if it suits me, since it is not fixed in its precise placement. *Ein lo chazakah* in its exact spot, *yesh limkomo chazakah* in one of the two available positions.
+*Mai marzev ein lo chazakah ve-yesh limkomo chazakah* — what does it mean that the spout lacks *chazakah* but its location retains one? *Amar Rav Yehuda amar Shmuel* — the explanation is this: *ha-marzev ein lo chazakah me-ruach achat ve-yesh limkomo chazakah mi-shtei ruchot*. A gutter with one stopped end and one open end can have its spout positioned at either side. Your undisturbed use of the spout at the current end gives you an implicit right to maintain *a* spout somewhere on the gutter — that is the *chazakah* of its location — but I can demand that you move the spout to the *other* end if it suits me, since it is not fixed in its precise placement. *Ein lo chazakah* in its exact spot, *yesh limkomo chazakah* in one of the two available positions.
 
 Tosafot raises the obvious mechanical question: since a gutter must be pitched in one direction for the water to drain, can the spout truly be functional at either end? This is a legitimate difficulty that Tosafot pursues, though we proceed with the other explanations for now.
 
 ### Shorten Length
 
-> **Hebrew/Aramaic:** רַבִּי חֲנִינָא אָמַר: הַמַּרְזֵב אֵין לוֹ חֲזָקָה – שֶׁאִם הָיָה אָרוֹךְ מְקַצְּרוֹ, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה – שֶׁאִם בָּא לְעוֹקְרוֹ, אֵינוֹ עוֹקְרוֹ.
->
-> **Translation:** **Rabbi Ḥanina said** there is a different explanation: With regard to **a spout,** its owner **has no** means to establish **an acquired privilege for its** size, **as if it was long,** the owner of the field below may **shorten it, but** one does **have** the means to establish **an acquired privilege with regard to its place, as if** the owner of the field below **comes to remove it** entirely, **he may not remove it.**
-
 *Amar Rav Chanina* — here the explanation turns on length rather than position: *ha-marzev ein lo chazakah she-im hayah aroch me-katzro* — I can insist that a spout protruding three feet into my yard be shortened to three inches, the minimum necessary to channel water away from the wall. What you cannot do is eliminate the spout entirely: *ve-yesh limkomo chazakah she-im ba la-akro eino okro* — if you come to uproot it completely, you cannot, since clearly you need some spout to drain the roof, and your undisturbed use has established an implicit right to maintain it. The *chazakah* of its location means: the spout stays, but not necessarily at its current length.
+
+> **Hebrew/Aramaic:** רַבִּי חֲנִינָא אָמַר: הַמַּרְזֵב אֵין לוֹ חֲזָקָה – שֶׁאִם הָיָה אָרוֹךְ מְקַצְּרוֹ, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה – שֶׁאִם בָּא לְעוֹקְרוֹ, אֵינוֹ עוֹקְרוֹ.
+> **Translation:** **Rabbi Ḥanina said** there is a different explanation: With regard to **a spout,** its owner **has no** means to establish **an acquired privilege for its** size, **as if it was long,** the owner of the field below may **shorten it, but** one does **have** the means to establish **an acquired privilege with regard to its place, as if** the owner of the field below **comes to remove it** entirely, **he may not remove it.**
 
 ### Build Below
 
-> **Hebrew/Aramaic:** רַב יִרְמְיָה בַּר אַבָּא אָמַר: הַמַּרְזֵב אֵין לוֹ חֲזָקָה – שֶׁאִם רוֹצֶה לִבְנוֹת תַּחְתָּיו בּוֹנֶה, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה – שֶׁאִם בָּא לְעוֹקְרוֹ אֵינוֹ עוֹקְרוֹ.
->
+
+> **Hebrew/Aramaic:** רַב יִרְמְיָה בַּר אַבָּא אָמַר: הַמַּרְזֵב אֵין לוֹ חֲזָקָה – שֶׁאִם רוֹצֶה לִבְנוֹת תַּחְתָּיו בּוֹנֶה, וְיֵשׁ לִמְקוֹמוֹ חֲזָקָה – שֶׁאִם בָּא לְעוֹקְרוֹ אֵינוֹ עוֹקְרוֹ.
 > **Translation:** **Rav Yirmeya bar Abba said** there is a different explanation: With regard to **a spout,** its owner **has no** means to establish **an acquired privilege for its** use, **as if** the owner of the field below **wishes to build beneath it,** he may **build,** and the owner of the spout may not prevent him from doing so; **but** one does **have** the means to establish **an acquired privilege with regard to its place, as if** the owner of the field below **comes to remove it** entirely, **he may not remove it.**
 
 *Rav Yirmiyah bar Abba amar* — the third explanation approaches the question from below: *ha-marzev ein lo chazakah she-im rotzeh livnot tachtav boneh* — I, the yard owner, am free to build beneath the spout. The fact that I have not objected to the spout's presence does not mean I have waived control over the airspace beneath it. I may build right up under it, even if the structure will interfere with the spout's operation. *Ve-yesh limkomo chazakah she-im ba la-akro eino okro* — but the one right I cannot demand is that the spout be removed entirely from where it sits. Your *chazakah* is in the continued existence of the spout at its location; it is not a *chazakah* over the airspace below it, and I retain the right to build in that space independently.

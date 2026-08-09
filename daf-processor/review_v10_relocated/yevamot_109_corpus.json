@@ -1,0 +1,403 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Contradiction",
+    "candidates": [
+      "Mishnah Contradiction",
+      "Conclusion Dispute",
+      "Ulla's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the internal mishnah contradiction (deyuk about me'un of a second man nullifying the first husband's get) that the prose of heading 0 describes as the gemara's new internal difficulty within the mishnah's treatment of a second man's me'un.",
+      "chosen_heading": "Mishnah Contradiction",
+      "current_heading": "Mishnah Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Ulla's Solution",
+    "candidates": [
+      "Conclusion Dispute",
+      "Ulla's Solution",
+      "Historical Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the contradiction raised from the concluding rule of the mishnah and the two resolutions (Rabbi Elazar's split-mishnah answer and Ulla's three-getin answer) \u2014 are precisely what the 'Conclusion Dispute' prose describes, including the direct quote of the principle, Rabbi Elazar's response, and Ulla's exception, making heading 0 the clearly correct home.",
+      "chosen_heading": "Conclusion Dispute",
+      "current_heading": "Ulla's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Historical Testimony",
+    "candidates": [
+      "Ulla's Solution",
+      "Historical Testimony",
+      "R. Yishmael Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the historical incident of hiring an intermediary for 400 zuz to ask Rabbi Akiva in prison and Rabbi Yehuda ben Beteira the question about returning to the first husband, which is precisely what the 'Historical Testimony' prose section describes.",
+      "chosen_heading": "Historical Testimony",
+      "current_heading": "Historical Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "R. Yishmael Position",
+    "candidates": [
+      "R. Yishmael Position",
+      "Me'un After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yishmael bar Rabbi Yosei's a fortiori argument that me'un permitting an issur karet certainly permits an issur lav, which is precisely what the prose under 'R. Yishmael Position' describes.",
+      "chosen_heading": "R. Yishmael Position",
+      "current_heading": "R. Yishmael Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Me'un After Death",
+    "candidates": [
+      "Me'un After Death",
+      "Practical Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Me'un After Death': item 1 presents the exact question about whether me'un after the husband's death is valid bimkom mitzvah, and item 2 describes the hiring of two people to bring this question to Rabbi Akiva in prison and Rabbi Yehuda ben Beteira \u2014 both of which are explicitly described in that section's prose.",
+      "chosen_heading": "Me'un After Death",
+      "current_heading": "Me'un After Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Practical Resolution",
+    "candidates": [
+      "Practical Resolution",
+      "Simple Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with Rav Yitz\u1e25ak bar Ashyan's ruling about whether she is permitted to the ex-husband's brother, including the two versions of his position and the gezeirah argument, which is precisely what the 'Practical Resolution' prose discusses in detail.",
+      "chosen_heading": "Practical Resolution",
+      "current_heading": "Practical Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Simple Case Setup",
+    "candidates": [
+      "Simple Case Setup",
+      "Adult Remarriage",
+      "R. Eliezer Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents exactly the case described in 'Simple Case Setup' \u2014 a man who divorces his wife and remarries her, with the ruling that she is permitted to yibum \u2014 which is precisely what that section's prose introduces and analyzes.",
+      "chosen_heading": "Simple Case Setup",
+      "current_heading": "Simple Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "R. Eliezer Position",
+    "candidates": [
+      "Adult Remarriage",
+      "R. Eliezer Position",
+      "Eliezer's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three cases from the mishnah \u2014 including the yesomah case and the ketanah she'hisi'ah aviha case with the divrei hakol ruling \u2014 which is precisely what candidate 1's prose discusses as the key to understanding Rabbi Eliezer's position.",
+      "chosen_heading": "R. Eliezer Position",
+      "current_heading": "R. Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Eliezer's Reasoning",
+    "candidates": [
+      "Eliezer's Reasoning",
+      "Father-Married Minor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss exactly the content described in candidate 0's prose: Eifa's proposed reasoning for Rabbi Elazar, the rabbinic challenge about \u1e25alitza, Eifa's concession, Abaye's doubt-based explanation, and Rava's 'everyone knows about divorce but not remarriage' explanation with the evening/morning scenario \u2014 all of which are detailed in candidate 0's prose and none of which appear in candidate 1.",
+      "chosen_heading": "Eliezer's Reasoning",
+      "current_heading": "Eliezer's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Father-Married Minor",
+    "candidates": [
+      "Father-Married Minor",
+      "Setup",
+      "Simple Scenarios",
+      "The Dilemma"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Father-Married Minor",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 are the continuous Gemara discussion of Rav Ashi's explanation of Rabbi Elazar's decree, the confirming baraita, and the co-wife question \u2014 all of which the 'Father-Married Minor' prose describes in detail.",
+      "second_heading": "Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is a new Mishna ('MISHNA:') introducing the entirely new scenario of two brothers married to two minor sisters, which is exactly what the 'Setup' prose describes.",
+      "current_heading": "Father-Married Minor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "The Dilemma",
+    "candidates": [
+      "Setup",
+      "Simple Scenarios",
+      "The Dilemma",
+      "R. Eliezer Solution",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's solution of instructing the minor to perform me'un, which directly matches the 'R. Eliezer Solution' section prose describing exactly this ruling.",
+      "chosen_heading": "R. Eliezer Solution",
+      "current_heading": "The Dilemma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "R. Eliezer Solution",
+      "Rabban Gamliel",
+      "Rabbi Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Gamliel's ruling about me'un and waiting until majority, which directly matches the prose under the 'Rabban Gamliel' heading describing exactly this position.",
+      "chosen_heading": "Rabban Gamliel",
+      "current_heading": "Rabban Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rabbi Yehoshua",
+    "candidates": [
+      "Rabbi Yehoshua",
+      "Teaching Me'un",
+      "Bar Kapparah Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua's ruling ('woe to him for his wife, woe to him for his brother's wife') and explains his position requiring both a get and chalitzah, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rabbi Yehoshua",
+      "current_heading": "Rabbi Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Bar Kapparah Teaching",
+    "candidates": [
+      "Teaching Me'un",
+      "Bar Kapparah Teaching",
+      "Abba Shaul Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's question about whether me'un is permitted AND Bar Kapparah's teaching as the challenge, which matches heading 0's prose ('The gemara raises the question... This challenge emerges from a teaching of Bar Kapparah'), while heading 1's prose describes only Bar Kapparah's teaching and its resolution in isolation.",
+      "chosen_heading": "Teaching Me'un",
+      "current_heading": "Bar Kapparah Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Abba Shaul Yibum",
+    "candidates": [
+      "Bar Kapparah Teaching",
+      "Abba Shaul Yibum",
+      "Peace Imperative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Bar Kappara's teaching itself (\u05d2\u05bc\u05d5\u05bc\u05e4\u05b8\u05d0 introduces the main matter), which introduces the three things to cling to starting with \u1e25alitza/Abba Shaul \u2014 this is the opening of Bar Kapparah's teaching and belongs under the 'Bar Kapparah Teaching' heading, not the subordinate 'Abba Shaul Yibum' heading that discusses only the Abba Shaul component.",
+      "chosen_heading": "Bar Kapparah Teaching",
+      "current_heading": "Abba Shaul Yibum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Peace Imperative",
+    "candidates": [
+      "Peace Imperative",
+      "Vows & Institutions",
+      "Cosigners & Judges"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Peace Imperative",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing line of the peace/shalom topic, matching the 'Peace Imperative' prose about pursuing shalom and the gezeirah shavah.",
+      "second_heading": "Vows & Institutions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rabbi Abbahu's gezeirah shavah (wrapping up shalom) and then transitions into the haforas nedarim / Rabbi Natan topic, which belongs under 'Vows & Institutions' whose prose explicitly discusses Rabbi Natan's bamah teaching.",
+      "current_heading": "Peace Imperative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Cosigners & Judges",
+    "candidates": [
+      "Vows & Institutions",
+      "Cosigners & Judges",
+      "Gerim Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three things to distance from \u2014 me'un, pikdonos, and aravon \u2014 which is precisely what the 'Cosigners & Judges' prose section explains in detail, including the same specific examples of the neighbor's house and Sheltziyyon guarantees.",
+      "chosen_heading": "Cosigners & Judges",
+      "current_heading": "Cosigners & Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Gerim Concerns",
+    "candidates": [
+      "Gerim Concerns",
+      "Learning to Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yitz\u1e25ak and Rabbi \u1e24elbo on the difficulty of accepting converts, which is precisely what the 'Gerim Concerns' section prose discusses.",
+      "chosen_heading": "Gerim Concerns",
+      "current_heading": "Gerim Concerns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Learning to Action",
+    "candidates": [
+      "Learning to Action",
+      "Judge's Weight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita of Rabbi Yosei about one who has 'only Torah' without action, the derivation from 'lemadetem va'asitem,' and the case of teaching others \u2014 exactly what the 'Learning to Action' prose section describes in detail.",
+      "chosen_heading": "Learning to Action",
+      "current_heading": "Learning to Action",
+      "moved": false
+    }
+  }
+]

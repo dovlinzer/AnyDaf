@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rava's Rule",
+    "candidates": [
+      "Hybrid Theft",
+      "Rava's Rule",
+      "Is It Relevant?",
+      "Kodashim & Maaser",
+      "Bechor Case",
+      "Peter Chamor",
+      "Pidyon Rules",
+      "R. Eliezer",
+      "Mixed Parents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks 'l'mai hilchata?' \u2014 for which halacha does Rava's rule do any work? \u2014 and specifically examines the kodashim case, which is exactly what section 2 ('Is It Relevant?') and section 3 ('Kodashim & Maaser') describe, but the passage only covers the opening question and the kodashim candidate, matching section 2's prose about posing the direct question and surveying candidates to show the exclusion is already derivable elsewhere.",
+      "chosen_heading": "Is It Relevant?",
+      "current_heading": "Rava's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Mixed Parents",
+    "candidates": [
+      "Is It Relevant?",
+      "Kodashim & Maaser",
+      "Bechor Case",
+      "Peter Chamor",
+      "Pidyon Rules",
+      "R. Eliezer",
+      "Mixed Parents",
+      "Fused Hooves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together form the complete 'l'mai hilcheta' survey \u2014 items 1-3 eliminate kodashim/maaser/bechor as candidates, items 4-6 identify peter chamor and then resolve Rabbi Elazar's position \u2014 matching the prose of heading 0 ('Is It Relevant?') which describes exactly this survey of candidate areas showing Rava's rule is redundant in each, while the current heading 6 ('Mixed Parents') only covers item 6's specific content.",
+      "chosen_heading": "Is It Relevant?",
+      "current_heading": "Mixed Parents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Fused Hooves",
+    "candidates": [
+      "Mixed Parents",
+      "Fused Hooves",
+      "Cross-Mating",
+      "Ox vs. Lamb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer exchange about whether a kosher animal can become pregnant from a non-kosher one, resolved via Rabbi Shimon's ruling about fused hooves \u2014 precisely the content described in the 'Fused Hooves' prose section where this passage currently sits.",
+      "chosen_heading": "Fused Hooves",
+      "current_heading": "Fused Hooves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Ox vs. Lamb",
+    "candidates": [
+      "Cross-Mating",
+      "Ox vs. Lamb",
+      "Vow Default",
+      "Intent Question",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rava's dilemma \u2014 the initial question about whether the thief can pay back a sheep/bird and the elaboration of the two sides of that question \u2014 which is precisely what heading 1 ('Ox vs. Lamb') describes in its prose.",
+      "chosen_heading": "Ox vs. Lamb",
+      "current_heading": "Ox vs. Lamb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Vow Default",
+      "Intent Question",
+      "Rava's Answer",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rava's resolution that the thief exempts himself with a sheep (per Rabbanan) or bird burnt-offering (per Rabbi Elazar ben Azaryah), which is precisely what the 'Rava's Answer' prose describes and analyzes.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Mishnah Cases",
+      "Rav vs. Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself listing the cases (partial sale, partnership, defective slaughter types) that yield double but not fourfold/fivefold payment, which is precisely what the 'Mishnah Cases' prose describes and analyzes.",
+      "chosen_heading": "Mishnah Cases",
+      "current_heading": "Mishnah Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rav vs. Levi",
+    "candidates": [
+      "Rav vs. Levi",
+      "Rebbe Opinion",
+      "R.S.b.E."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav vs. Levi dispute about what constitutes a meaningful retention (something permitted through shechita vs. the fleece), along with the supporting baraita for Levi, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Rav vs. Levi",
+      "current_heading": "Rav vs. Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "R.S.b.E.",
+    "candidates": [
+      "Rebbe Opinion",
+      "R.S.b.E.",
+      "Four Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous unit \u2014 the objection from the baraita against Rav, the three opinions within it (tanna kamma, Rebbe, Rabbi Shimon ben Elazar's first version), the challenge that Rav's position fits none of them, and the resolution via a second baraita with a different version of Rabbi Shimon ben Elazar \u2014 and this entire sequence is what candidate 0 ('Rebbe Opinion') describes, including Rebbe's shechita-invalidation criterion and the surfacing of the second RSbE version to support Rav.",
+      "chosen_heading": "Rebbe Opinion",
+      "current_heading": "R.S.b.E.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Four Views",
+    "candidates": [
+      "R.S.b.E.",
+      "Four Views",
+      "Defects",
+      "Partners",
+      "Two Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage analyzes the four tannaitic positions (tanna kamma, Rabbi, Rabbi Shimon ben Elazar in two versions) and resolves the contradiction between the two versions of Rabbi Shimon ben Elazar with 'terei tanna'ei,' exactly matching the 'Four Views' prose which describes all four positions and explicitly mentions this terei tanna'ei resolution.",
+      "chosen_heading": "Four Views",
+      "current_heading": "Four Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Two Cases",
+    "candidates": [
+      "Defects",
+      "Partners",
+      "Two Cases",
+      "Knowledge Requirement",
+      "Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full dispute about partners who stole \u2014 the initial baraita, Rav Nachman's first resolution, Rava's objection, and Rav Nachman's revised resolution \u2014 all of which is exactly what candidate 1 ('Partners') says is the subject of 'the section that follows,' while candidate 2 ('Two Cases') is where the essay's prose already summarizes this material, meaning the passage is the source text for that summary and belongs under the heading that introduces it.",
+      "chosen_heading": "Partners",
+      "current_heading": "Two Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Conditions",
+    "candidates": [
+      "Knowledge Requirement",
+      "Conditions",
+      "Fetus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces all three of Rabbi Yirmiah's dilemmas together (including the thirty-day, labor-rights, and fetus cases), which matches the 'Conditions' section's prose that explicitly discusses all three cases as a unified set of questions about qualified or conditional sales.",
+      "chosen_heading": "Conditions",
+      "current_heading": "Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Fetus",
+    "candidates": [
+      "Fetus",
+      "Cut & Sold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's elaboration on the fetus dilemma (ubar yerech imo vs. not), including the two formulations of the question and the teku conclusion, which are all explicitly discussed in the 'Fetus' section prose.",
+      "chosen_heading": "Fetus",
+      "current_heading": "Fetus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Cut & Sold",
+    "candidates": [
+      "Cut & Sold",
+      "Ten Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's dilemma about stealing, severing a limb, and selling, which matches exactly the prose in candidate 0 ('Cut & Sold').",
+      "chosen_heading": "Cut & Sold",
+      "current_heading": "Cut & Sold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Ten Cases",
+    "candidates": [
+      "Ten Cases",
+      "Shliach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together comprise the full baraita listing the ten cases of stealing and transferring an animal in various ways, which is precisely what the 'Ten Cases' prose describes in detail.",
+      "chosen_heading": "Ten Cases",
+      "current_heading": "Ten Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Shliach",
+    "candidates": [
+      "Shliach",
+      "Sanctification",
+      "Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the principle of yesh shliach l'dvar aveirah and the derivation from the juxtaposition of u'tevaho and u'macharo, which is precisely what the 'Shliach' prose section describes.",
+      "chosen_heading": "Shliach",
+      "current_heading": "Shliach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Ownership",
+    "candidates": [
+      "Sanctification",
+      "Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's argument 'mah li machar le'hedyot, mah li machar la'shamayim' explaining why sanctification counts as a sale, which is precisely what the 'Sanctification' section's prose discusses, not the 'Ownership' section which addresses the distinction between kodshei mizbe'ach and kodshei bedek ha'bayit.",
+      "chosen_heading": "Sanctification",
+      "current_heading": "Ownership",
+      "moved": true
+    }
+  }
+]

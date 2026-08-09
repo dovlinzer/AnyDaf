@@ -24,8 +24,8 @@
           "timestamp": "03:43"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Designation and Use of Garments for Tefillin Storage",
@@ -53,7 +53,7 @@
           "timestamp": "06:41"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 22,
       "matched": false
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "15:27"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -146,7 +146,7 @@
           "timestamp": "35:58"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 32,
       "matched": true
     },
     {
@@ -185,8 +185,8 @@
           "timestamp": "43:33"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "The Expanded Definition of Ervah: Sexual Thoughts and Arousal (continued)",
@@ -204,7 +204,7 @@
           "timestamp": "43:55"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 32,
       "matched": false
     },
     {
@@ -233,8 +233,8 @@
           "timestamp": "43:55"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 32,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -352,5 +352,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "02:29",
+  "amud_b_micro_title": "Tefillin on Table",
+  "shiur_start_daf": 23,
+  "shiur_start_amud": "b"
 }

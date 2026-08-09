@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Kosher Animals",
+    "candidates": [
+      "Noach to Mishkan",
+      "Kosher Animals",
+      "Ark Source",
+      "Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita's ruling that all animals were fit for sacrifice in the pre-Mishkan period, deriving from Noah's verse that behema, chayya, and birds were all eligible regardless of sex or blemish \u2014 precisely what the 'Kosher Animals' prose describes.",
+      "chosen_heading": "Kosher Animals",
+      "current_heading": "Kosher Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Exclusions",
+    "candidates": [
+      "Ark Source",
+      "Exclusions",
+      "Anachronism Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous Talmudic discussion about the exclusion of mechusar eiver and treifa from Noachide sacrifice, derived from the ark verses \u2014 precisely the content described in the 'Exclusions' prose section.",
+      "chosen_heading": "Exclusions",
+      "current_heading": "Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Anachronism Issue",
+    "candidates": [
+      "Anachronism Issue",
+      "Future Kashrut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question about anachronistic tahor/tamei distinction, Rav \u1e24isda's answer about the ark selecting animals, and Rabbi Abbahu's answer about animals entering on their own \u2014 are explicitly discussed in candidate 1's prose under 'Future Kashrut,' which is a clearly better match than candidate 0's prose, which focuses on a textual displacement issue and a different girsa.",
+      "chosen_heading": "Future Kashrut",
+      "current_heading": "Anachronism Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Future Kashrut",
+    "candidates": [
+      "Anachronism Issue",
+      "Future Kashrut",
+      "Only Olot",
+      "Hevel's Fats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's discussion of whether all pre-Tabernacle offerings were exclusively burnt offerings (olot) or whether peace offerings (shelamim) were also brought, which is precisely what candidate 2 ('Only Olot') discusses in its prose.",
+      "chosen_heading": "Only Olot",
+      "current_heading": "Future Kashrut",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Hevel's Fats",
+    "candidates": [
+      "Only Olot",
+      "Hevel's Fats",
+      "Isaiah Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the reasoning for the opinion that Bnei Noach brought shelamim based on the verse about Hevel's fats (umichelveihen), which is precisely what the 'Hevel's Fats' section prose discusses.",
+      "chosen_heading": "Hevel's Fats",
+      "current_heading": "Hevel's Fats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Isaiah Verse",
+    "candidates": [
+      "Isaiah Verse",
+      "Yitro's Timing",
+      "Three Triggers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly correspond to the content described in the 'Isaiah Verse' prose section: the interpretation of 'uri tzafon,' the challenge from 'umichelveihen,' the response about kibutz galuyot, and the Moses/Pharaoh verse with the zevachim la'achilah answer \u2014 exactly matching the current placement.",
+      "chosen_heading": "Isaiah Verse",
+      "current_heading": "Isaiah Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Three Triggers",
+    "candidates": [
+      "Yitro's Timing",
+      "Three Triggers",
+      "Sinai Proclamation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the challenge from the Yitro verse and the Gemara's response ('that was written after matan Torah'), including the dispute about when Yitro arrived and its implications \u2014 exactly what the 'Yitro's Timing' prose section describes, not the 'Three Triggers' section which is about the baraita of Rabbi Yehoshua/Elazar HaModa'i/Elazar on what Yitro heard.",
+      "chosen_heading": "Yitro's Timing",
+      "current_heading": "Three Triggers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Sinai Proclamation",
+    "candidates": [
+      "Three Triggers",
+      "Sinai Proclamation",
+      "Rachav Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together constitute the tannaitic debate about what Yitro heard (Rabbi Yehoshua/Amalek, Rabbi Elazar HaModa'i/matan Torah with the Bilam digression, Rabbi Eliezer/kri'at Yam Suf), which is precisely what heading 0 'Three Triggers' describes, while the current placement under 'Sinai Proclamation' only covers items 2-5 (the Bilam passage elaborating Rabbi Elazar HaModa'i's view) and not the framing dispute as a whole.",
+      "chosen_heading": "Three Triggers",
+      "current_heading": "Sinai Proclamation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rachav Story",
+    "candidates": [
+      "Rachav Story",
+      "Final Position",
+      "Private Altars",
+      "Source Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the Gemara's digression about Rachav \u2014 comparing the two verse formulations, explaining the euphemistic meaning of 'kamah,' and recording the tradition about Rachav's age and conversion \u2014 which precisely matches the 'Rachav Story' prose description.",
+      "chosen_heading": "Rachav Story",
+      "current_heading": "Rachav Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Source Verse",
+    "candidates": [
+      "Final Position",
+      "Private Altars",
+      "Source Verse",
+      "No Direct Help",
+      "Indirect Help OK",
+      "Ifra Hormiz Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover the rule that gentiles today may build private altars and sacrifice outside the Temple (item 1) plus the derivation from the verse and the follow-on rules about Jewish assistance and instruction (item 2), which together constitute the 'Private Altars' section's topic \u2014 the 'Source Verse' heading (current placement, index 2) only covers item 1's content, while candidate 1 ('Private Altars') introduces the entire halacha that both items expound.",
+      "chosen_heading": "Private Altars",
+      "current_heading": "Source Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Ifra Hormiz Case",
+    "candidates": [
+      "No Direct Help",
+      "Indirect Help OK",
+      "Ifra Hormiz Case",
+      "Fresh Materials",
+      "No Prior Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Ifra Hormiz episode \u2014 her sending an offering to Rava and his instructions to his students \u2014 which is exactly what the 'Ifra Hormiz Case' section's prose describes.",
+      "chosen_heading": "Ifra Hormiz Case",
+      "current_heading": "Ifra Hormiz Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "No Prior Use",
+    "candidates": [
+      "Fresh Materials",
+      "No Prior Use",
+      "Bamah Question",
+      "David/Araunah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'No Prior Use' prose: Abaye asking Rava about whose opinion he follows, the answer being Rabbi Elazar ben Shamua, and the baraita about the altar/wood principle, plus the opening of the bamah objection \u2014 all of which matches heading 1's prose description precisely.",
+      "chosen_heading": "No Prior Use",
+      "current_heading": "No Prior Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "David/Araunah",
+    "candidates": [
+      "Bamah Question",
+      "David/Araunah",
+      "Tribes' Gifts",
+      "Price Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita introducing the contradiction between the two verses about David's purchase, which is exactly what the 'David/Araunah' section's prose describes.",
+      "chosen_heading": "David/Araunah",
+      "current_heading": "David/Araunah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Price Distinctions",
+    "candidates": [
+      "Tribes' Gifts",
+      "Price Distinctions",
+      "Used Wood OK",
+      "Implements New"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the 'collect from each tribe' explanation (50\u00d712=600) and Rabbi Yosei ben Dostai's alternative, and the prose under 'Tribes' Gifts' (heading 0) explicitly describes this baraita as presenting both resolutions together, whereas heading 1 treats them as separate items.",
+      "chosen_heading": "Tribes' Gifts",
+      "current_heading": "Price Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Implements New",
+    "candidates": [
+      "Used Wood OK",
+      "Implements New",
+      "Silver/Gold Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Implements New': item 1 presents Rabbi Elazar ben Shammua's view and Rava's response that the implements were new (chadati), and item 2 is the Gemara's digression identifying what 'morgim' are \u2014 exactly as described in the 'Implements New' prose which explicitly mentions both Rava's resolution and the identification of morgim by Ulla and Abaye.",
+      "chosen_heading": "Implements New",
+      "current_heading": "Implements New",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Rashi's Interpretation",
+    "candidates": [
+      "Non-Jewish Mother",
+      "Rashi's Interpretation",
+      "Rabbeinu Tam's View",
+      "Rabbi Yochanan",
+      "Ravina's Proof",
+      "Mamzer Question",
+      "Psul Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's derivation of matrilineal descent \u2014 first establishing that kiddushin with a gentile woman is ineffective, then asking how we know the child follows the mother \u2014 which is precisely what heading 0 ('Non-Jewish Mother') describes in its prose, including the exact phrases nochrit minalan, lo titchaten bam, and vevalda kamota minalan.",
+      "chosen_heading": "Non-Jewish Mother",
+      "current_heading": "Rashi's Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Psul Status",
+    "candidates": [
+      "Rabbeinu Tam's View",
+      "Rabbi Yochanan",
+      "Ravina's Proof",
+      "Mamzer Question",
+      "Psul Status",
+      "All Non-Jews Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ravina's Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ravina's explicit conclusion that the son of your daughter born to a gentile is called your son, which matches candidate 2 ('Ravina's Proof') whose prose describes exactly this teaching.",
+      "second_heading": "Mamzer Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's rejection of the mamzer suggestion \u2014 'he is not a mamzer but merely called disqualified' \u2014 which is the resolution of the mamzer question discussed in candidate 3 ('Mamzer Question'), not the psul elaboration of candidate 4.",
+      "current_heading": "Psul Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "All Non-Jews Question",
+    "candidates": [
+      "Psul Status",
+      "All Non-Jews Question",
+      "Rabbi Shimon Method",
+      "Rabbanan Objection",
+      "Rashi's Resolution",
+      "Yefat Toar Intro"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All Non-Jews Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks how the seven-nations verse extends to all non-Jews and answers via 'ki yasir et bincha' \u2014 exactly what candidate 1 ('All Non-Jews Question') prose describes.",
+      "second_heading": "Rabbanan Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection that this answer works only for Rabbi Shimon but not for the Rabbanan \u2014 exactly what candidate 3 ('Rabbanan Objection') prose introduces.",
+      "current_heading": "All Non-Jews Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Yefat Toar Intro",
+    "candidates": [
+      "Rabbi Shimon Method",
+      "Rabbanan Objection",
+      "Rashi's Resolution",
+      "Yefat Toar Intro",
+      "Kiddushin Bindable",
+      "Ki Tiheyena L'Ish",
+      "Non-Jewish Mother",
+      "Jewish Mother Inference",
+      "Redundancy Challenge",
+      "Braita Case",
+      "Split Debate",
+      "Verse Unity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes and derives from the yefat to'ar verse (Deuteronomy 21:13), which is precisely what the 'Yefat Toar Intro' prose introduces \u2014 that kiddushin cannot take effect with a non-Jewish captive woman before conversion, matching the current placement exactly.",
+      "chosen_heading": "Yefat Toar Intro",
+      "current_heading": "Yefat Toar Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Verse Unity",
+    "candidates": [
+      "Kiddushin Bindable",
+      "Ki Tiheyena L'Ish",
+      "Non-Jewish Mother",
+      "Jewish Mother Inference",
+      "Redundancy Challenge",
+      "Braita Case",
+      "Split Debate",
+      "Verse Unity",
+      "Proposal Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: item 1 derives the matrilineal principle from 'ki tiheyena,' item 2 raises the redundancy challenge about the shifcha verse, and items 3-4 present the baraita answer and Rava's clarification \u2014 exactly what candidate 4 ('Redundancy Challenge') describes as its topic.",
+      "chosen_heading": "Redundancy Challenge",
+      "current_heading": "Verse Unity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Proposal Structure",
+    "candidates": [
+      "Verse Unity",
+      "Proposal Structure",
+      "Rabbi Eliezer",
+      "L'Chatchila Question",
+      "Gender Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text presenting Rabbi Tarfon's proposal and Rabbi Eliezer's counter-position, which directly matches the 'Proposal Structure' section's prose introducing this exact mishna and its mechanism.",
+      "chosen_heading": "Proposal Structure",
+      "current_heading": "Proposal Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Gender Difference",
+    "candidates": [
+      "Rabbi Eliezer",
+      "L'Chatchila Question",
+      "Gender Difference",
+      "Rabbi Simlai Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the l'chatchila vs. b'di'eved question about Rabbi Tarfon's ruling, which is precisely what the 'L'Chatchila Question' prose section discusses, whereas the current 'Gender Difference' section's prose discusses the asymmetry between male and female mamzerim as a separate topic.",
+      "chosen_heading": "L'Chatchila Question",
+      "current_heading": "Gender Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Rabbi Simlai Proof",
+    "candidates": [
+      "Gender Difference",
+      "Rabbi Simlai Proof",
+      "Perpetuation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rabbi Simlai proof story \u2014 the challenge, the Hebrew slave workaround, its rejection, and the final conclusion that Rabbi Tarfon spoke l'chatchila \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Rabbi Simlai Proof",
+      "current_heading": "Rabbi Simlai Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Perpetuation Debate",
+    "candidates": [
+      "Perpetuation Debate",
+      "Halacha Conclusion",
+      "Categories List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's back-and-forth between Rabbi Eliezer and the Rabbanan over whether mamzer status perpetuates through a Canaanite maidservant, which is precisely what the 'Perpetuation Debate' prose discusses \u2014 including the 'halach achar psulo' principle and the 'kvlad bimei behema' counter-argument.",
+      "chosen_heading": "Perpetuation Debate",
+      "current_heading": "Perpetuation Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Categories List",
+    "candidates": [
+      "Halacha Conclusion",
+      "Categories List",
+      "First Tier",
+      "Second Tier",
+      "Third Tier"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Halacha Conclusion",
+      "first_confidence": "high",
+      "first_reason": "The Hadaran formula ('May we return to you, chapter...') is a closing marker that ends the previous chapter/perek, belonging with the concluding halacha section (candidate 0).",
+      "second_heading": "Categories List",
+      "second_confidence": "high",
+      "second_reason": "The Mishna listing the ten categories of lineage that ascended from Babylonia is the opening of the new perek, directly matching candidate 1's prose about 'asara yuchasin alu miBavel' and the ten categories.",
+      "current_heading": "Categories List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Third Tier",
+    "candidates": [
+      "First Tier",
+      "Second Tier",
+      "Third Tier",
+      "Shtuki Definition",
+      "Asufi Definition",
+      "Safek Mamzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the first tier (Kohanim, Levi'im, Yisraelim) and second tier (Levi'im, Yisraelim, \u1e25alalim, converts, freed slaves) intermarriage rules, but since it is a single Mishnaic passage containing both clauses, and candidate 0 ('First Tier') is the natural home for where this combined text begins, while the current placement under 'Third Tier' is clearly wrong \u2014 the best match is candidate 0, which opens with exactly the first clause of this passage.",
+      "chosen_heading": "First Tier",
+      "current_heading": "Third Tier",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Safek Mamzer",
+    "candidates": [
+      "Shtuki Definition",
+      "Asufi Definition",
+      "Safek Mamzer",
+      "Abba Shaul",
+      "Aliyah Meaning",
+      "Eretz Yisrael Higher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text that introduces and defines all these categories together (converts, slaves, mamzerim, Gibeonites, shetuki, asufi, and Abba Shaul's term), but its primary content matches the 'Shtuki Definition' heading since the mishnah text begins with the definition of shtuki, and the subsequent definitions (asufi, Abba Shaul) flow from that opening \u2014 the 'Shtuki Definition' prose is the most natural home for the full mishnah unit that introduces these definitions starting with shtuki.",
+      "chosen_heading": "Shtuki Definition",
+      "current_heading": "Safek Mamzer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Eretz Yisrael Higher",
+    "candidates": [
+      "Abba Shaul",
+      "Aliyah Meaning",
+      "Eretz Yisrael Higher",
+      "Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion asking why 'ascended from Babylonia' is used rather than 'went to Eretz Yisrael,' and then proving that Eretz Yisrael is physically higher \u2014 which matches the 'Aliyah Meaning' heading's prose exactly, not the 'Eretz Yisrael Higher' heading where it currently sits.",
+      "chosen_heading": "Aliyah Meaning",
+      "current_heading": "Eretz Yisrael Higher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Rabbi Elazar",
+    "candidates": [
+      "Eretz Yisrael Higher",
+      "Rabbi Elazar",
+      "Abbayyei Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why 'ascended from Babylonia' is used and the answer supporting Rabbi Elazar's view, which matches exactly the prose in the 'Rabbi Elazar' section.",
+      "chosen_heading": "Rabbi Elazar",
+      "current_heading": "Rabbi Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Abbayyei Position",
+    "candidates": [
+      "Abbayyei Position",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Abaye's and Rava's positions together as a single Talmudic unit (itmmar), and since it introduces Abaye's view first and the current placement is under 'Abbayyei Position,' it belongs there \u2014 both positions are introduced together in this single sugia and cannot be split, making the current heading the best fit as it opens with Abaye's statement.",
+      "chosen_heading": "Abbayyei Position",
+      "current_heading": "Abbayyei Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Rava Position",
+      "Removal Mechanism",
+      "Sifted Flour",
+      "Later Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two alternative explanations for the Abaye/Rava dispute \u2014 whether everyone accepts Rabbi Elazar and they differ only on the mechanism (voluntary separation vs. forced removal), which is precisely what the 'Removal Mechanism' section's prose describes.",
+      "chosen_heading": "Removal Mechanism",
+      "current_heading": "Rava Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Later Generations",
+    "candidates": [
+      "Removal Mechanism",
+      "Sifted Flour",
+      "Later Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the tension in Rava's view (he brought them up / \u05d4\u05e2\u05dc\u05d5\u05dd) \u2014 items 1-2 raise the question about Shmuel's hierarchy and the river Ahava verse, and item 3 resolves the river Ahava difficulty \u2014 exactly matching the 'Later Generations' prose which discusses both the generational-clarity answer and the psulim/kesheirim distinction at the river.",
+      "chosen_heading": "Later Generations",
+      "current_heading": "Later Generations",
+      "moved": false
+    }
+  }
+]

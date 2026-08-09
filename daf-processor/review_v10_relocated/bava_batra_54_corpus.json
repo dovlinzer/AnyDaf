@@ -1,0 +1,233 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Weeds & Twigs Case",
+    "candidates": [
+      "Chazakah: Mode of Acq.",
+      "Improving vs. Benefiting",
+      "Palm Tree Pruning",
+      "Weeds & Twigs Case",
+      "Leveling Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's ruling about clearing twigs/weeds (zachi zichaya), with the large/small distinction, which is precisely what the 'Weeds & Twigs Case' prose describes.",
+      "chosen_heading": "Weeds & Twigs Case",
+      "current_heading": "Weeds & Twigs Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Leveling Ground",
+    "candidates": [
+      "Leveling Ground",
+      "Water Diversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Shmuel's ruling about leveling protuberances (tikla) with the distinction between adaata d'ara and adaata d'bei dari, including the diagnostic criterion of mulya/natza, which is precisely what the 'Leveling Ground' prose section discusses in detail.",
+      "chosen_heading": "Leveling Ground",
+      "current_heading": "Leveling Ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Water Diversion",
+    "candidates": [
+      "Water Diversion",
+      "13-Year Harvesting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Shmuel's ruling about opening water into land and the two-gate vs. one-gate distinction, which is precisely what the 'Water Diversion' section's prose describes.",
+      "chosen_heading": "Water Diversion",
+      "current_heading": "Water Diversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "13-Year Harvesting",
+    "candidates": [
+      "13-Year Harvesting",
+      "Harvesting \u2260 Improving",
+      "Ownership Demonstration",
+      "Tzura on Walls",
+      "Rav Huna's Garden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage narrates the case itself \u2014 the woman harvesting for thirteen years and the man who plowed \u2014 which matches heading 0's prose that introduces this concrete case, while headings 1 and 2 cover the ruling and its analysis, not the narrative itself.",
+      "chosen_heading": "13-Year Harvesting",
+      "current_heading": "13-Year Harvesting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Huna's Garden",
+    "candidates": [
+      "Harvesting \u2260 Improving",
+      "Ownership Demonstration",
+      "Tzura on Walls",
+      "Rav Huna's Garden",
+      "Rav: Whole Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav's statement that drawing an image on ownerless property constitutes acquisition, which is exactly what candidate 2 ('Tzura on Walls') discusses, while candidate 3 discusses the subsequent elaboration about Rav's own garden as an illustration of that ruling.",
+      "chosen_heading": "Tzura on Walls",
+      "current_heading": "Rav Huna's Garden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rav: Whole Field",
+    "candidates": [
+      "Rav Huna's Garden",
+      "Rav: Whole Field",
+      "Shmuel: Location Only",
+      "Boundaries & Scope",
+      "No-Boundary Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rav's and Shmuel's opinions together in a single Talmudic statement, and the prose under heading 1 ('Rav: Whole Field') explicitly introduces this *itmar* passage about a demarcated field and Rav's ruling, making it the correct placement for the full quoted text.",
+      "chosen_heading": "Rav: Whole Field",
+      "current_heading": "Rav: Whole Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "No-Boundary Cases",
+    "candidates": [
+      "Shmuel: Location Only",
+      "Boundaries & Scope",
+      "No-Boundary Cases",
+      "Desert Principle",
+      "Kesef vs. Shtar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Pappa's ruling about how much of an unmarked field is acquired, which is precisely what the 'No-Boundary Cases' section discusses, including the ox-driver furrow measurement and the Rashbam/Tosafot debate about what Rav Pappa is answering.",
+      "chosen_heading": "No-Boundary Cases",
+      "current_heading": "No-Boundary Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Kesef vs. Shtar",
+    "candidates": [
+      "Desert Principle",
+      "Kesef vs. Shtar",
+      "Abaye's Challenge",
+      "Dura d'Reusa Case",
+      "Back Taxes Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the core 'Desert Principle' ruling of Shmuel (item 1) and the immediate challenge/incident that tests it (item 2), which together constitute the opening of this discussion \u2014 exactly what heading 0 ('Desert Principle') describes, while the current placement under 'Kesef vs. Shtar' (index 1) is the deeper analytical elaboration that follows.",
+      "chosen_heading": "Desert Principle",
+      "current_heading": "Kesef vs. Shtar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Back Taxes Explanation",
+    "candidates": [
+      "Abaye's Challenge",
+      "Dura d'Reusa Case",
+      "Back Taxes Explanation",
+      "Rav Huna v. Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's rebuttal explaining that Dura diReusa was a special tax-forfeiture case, which is precisely what the 'Back Taxes Explanation' prose section describes.",
+      "chosen_heading": "Back Taxes Explanation",
+      "current_heading": "Back Taxes Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rav Huna v. Nachman",
+    "candidates": [
+      "Rav Huna v. Nachman",
+      "Public vs. Civil Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav Huna/Rav Na\u1e25man case (purchase from gentile, second Jew plowing, coming before Rav Na\u1e25man, invoking Shmuel's kemidbar principle) which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Rav Huna v. Nachman",
+      "current_heading": "Rav Huna v. Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Public vs. Civil Law",
+    "candidates": [
+      "Public vs. Civil Law",
+      "Consent Theory",
+      "Feudal vs. Modern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the competing statements of Shmuel and Rav Huna/Rav about acquisition of ownerless land by hoeing, which is directly addressed in the 'Public vs. Civil Law' prose section's discussion of the gap of ownerless property and when dina d'malchusa dina applies to land transactions between private parties.",
+      "chosen_heading": "Public vs. Civil Law",
+      "current_heading": "Public vs. Civil Law",
+      "moved": false
+    }
+  }
+]

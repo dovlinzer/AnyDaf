@@ -1,0 +1,638 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Roots & Excavation",
+    "candidates": [
+      "Roots & Excavation",
+      "Ownership Dispute",
+      "Hekdesh Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about digging a cistern/ditch/cave and the ambiguity of 'the wood is his,' which is precisely what the 'Roots & Excavation' prose describes \u2014 the setup of the problem before the ownership dispute is addressed in the next section.",
+      "chosen_heading": "Roots & Excavation",
+      "current_heading": "Roots & Excavation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Hekdesh Baraita",
+    "candidates": [
+      "Ownership Dispute",
+      "Hekdesh Baraita",
+      "Me'ilah Problem",
+      "Growth Sanctified"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ownership Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Chisda's citation of the mishnah and his argument that 'we follow the tree' explains the rei\u0448\u0430's ruling, matching the 'Ownership Dispute' and 'Hekdesh Baraita' prose \u2014 but item 1 is the direct response to the ownership question posed in candidate 0, and item 2 is the logical argument Rav Chisda draws from it, both fitting best under candidate 1 ('Hekdesh Baraita') which explicitly describes this exact reasoning.",
+      "second_heading": "Me'ilah Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the gemara's rebuttal via the seifa of the mishnah (hekdesh roots into hedyot land also having no me'ilah), which is precisely what candidate 2 ('Me'ilah Problem') describes as the gemara's rejection of Rav Chisda's proof.",
+      "current_heading": "Hekdesh Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Growth Sanctified",
+    "candidates": [
+      "Me'ilah Problem",
+      "Growth Sanctified",
+      "Sixteen Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses growths that came after consecration and the ruling that such growths are not subject to me'ilah, which matches exactly the 'Growth Sanctified' section's prose about bigidulin haba'im le-achar mikan.",
+      "chosen_heading": "Growth Sanctified",
+      "current_heading": "Growth Sanctified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Sixteen Amot",
+    "candidates": [
+      "Sixteen Amot",
+      "Gazlan Concept",
+      "Gazlan Permitted",
+      "Saplings Math"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sixteen Amot",
+      "first_confidence": "high",
+      "first_reason": "Ravina's resolution distinguishing within vs. beyond sixteen cubits is exactly the content described in the 'Sixteen Amot' prose, which discusses proximity as the key distinction for root ownership.",
+      "second_heading": "Gazlan Concept",
+      "second_confidence": "high",
+      "second_reason": "Ulla's teaching about a tree within sixteen amot of a boundary being a gazlan and disqualifying bikurim is precisely what the 'Gazlan Concept' prose describes as Ulla's independent introduction of the sixteen-amot principle.",
+      "current_heading": "Sixteen Amot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Saplings Math",
+    "candidates": [
+      "Gazlan Concept",
+      "Gazlan Permitted",
+      "Saplings Math",
+      "Sapling Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about the source of Ulla's sixteen amot figure and the mishna about ten saplings in a beit se'ah, which is precisely what the 'Saplings Math' section's prose describes as the starting point of the derivation inquiry.",
+      "chosen_heading": "Saplings Math",
+      "current_heading": "Saplings Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Sapling Calculation",
+    "candidates": [
+      "Sapling Calculation",
+      "Rounding Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage calculates 2500 \u00f7 10 = 250 square cubits per sapling and notes this doesn't match Ulla's figure, which is exactly what the 'Sapling Calculation' prose describes.",
+      "chosen_heading": "Sapling Calculation",
+      "current_heading": "Sapling Calculation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Rounding Question",
+    "candidates": [
+      "Rounding Question",
+      "Square to Circle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the attempt to derive Ulla's measurement from the mishna about three trees in a beit se'ah, the arithmetic showing Ulla's figure is larger, and the lo dak / lekula challenge \u2014 exactly what the 'Rounding Question' prose describes.",
+      "chosen_heading": "Rounding Question",
+      "current_heading": "Rounding Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Square to Circle",
+    "candidates": [
+      "Square to Circle",
+      "Pi Equals 3",
+      "768 Amot Circle",
+      "16\u2154 Amot Exact",
+      "Buy Tree & Land"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Square to Circle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the square-to-circle correction that heading 0 describes \u2014 'did you think we meant a square? We mean a circle.'",
+      "second_heading": "Pi Equals 3",
+      "second_confidence": "high",
+      "second_reason": "Item 2 works through the one-quarter reduction from square to circle yielding 768, the residual half-cubit discrepancy, and the 'not precise toward stringency' resolution \u2014 exactly what heading 1 ('Pi Equals 3') describes.",
+      "current_heading": "Square to Circle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Buy Tree & Land",
+    "candidates": [
+      "Pi Equals 3",
+      "768 Amot Circle",
+      "16\u2154 Amot Exact",
+      "Buy Tree & Land",
+      "Two or Three Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's first challenge to Ulla from the mishna about buying a tree and its land, which is precisely what the 'Buy Tree & Land' section's prose describes.",
+      "chosen_heading": "Buy Tree & Land",
+      "current_heading": "Buy Tree & Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Two or Three Trees",
+    "candidates": [
+      "Two or Three Trees",
+      "Rabbi Akiva Tiny"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two-vs-three trees mishna and the gemara's response about sixteen cubits, which is precisely what the 'Two or Three Trees' section prose describes.",
+      "chosen_heading": "Two or Three Trees",
+      "current_heading": "Two or Three Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Rabbi Akiva Tiny",
+    "candidates": [
+      "Rabbi Akiva Tiny",
+      "Wheat Not Trees"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Akiva Tiny",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Akiva's challenge about land of any size being obligated in pe'ah, bikurim, and prosbol, which matches the 'Rabbi Akiva Tiny' section's prose exactly.",
+      "second_heading": "Wheat Not Trees",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's resolution distinguishing wheat from trees (be'chitei), which matches the 'Wheat Not Trees' section's prose precisely.",
+      "current_heading": "Rabbi Akiva Tiny",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Wheat Not Trees",
+    "candidates": [
+      "Wheat Not Trees",
+      "Split Tree Fruit",
+      "Nutrient Flow Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the precision of 'kol shehu' (any amount) language supporting the grain/wheat distinction, which is exactly what the 'Wheat Not Trees' prose describes as textual reinforcement via the term kol shehu and the shema mina conclusion.",
+      "chosen_heading": "Wheat Not Trees",
+      "current_heading": "Wheat Not Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Nutrient Flow Debate",
+    "candidates": [
+      "Split Tree Fruit",
+      "Nutrient Flow Debate",
+      "Breira Doctrine"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Split Tree Fruit",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita itself \u2014 the split-tree case with Rabbi Yehuda HaNasi's 'mixed' ruling and Rabban Shimon ben Gamliel's 'each side stands alone' ruling \u2014 which matches the 'Split Tree Fruit' prose describing exactly this tevel/chulin debate.",
+      "second_heading": "Breira Doctrine",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 analyze the dispute through the lens of breira (retroactive designation) and derive the limiting condition that where the tree grows entirely outside Eretz Yisrael all agree it is exempt, which matches the 'Breira Doctrine' prose discussing the breira framework and its qualifying conditions.",
+      "current_heading": "Nutrient Flow Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Breira Doctrine",
+    "candidates": [
+      "Nutrient Flow Debate",
+      "Breira Doctrine",
+      "Trunk Mixing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rock dividing the roots (mafsik tzunma) and why Rebbe still views the fruits as mixed despite this division, which is precisely what the 'Breira Doctrine' prose describes as the critical limiting condition and its implications.",
+      "chosen_heading": "Breira Doctrine",
+      "current_heading": "Breira Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Trunk Mixing",
+    "candidates": [
+      "Trunk Mixing",
+      "25 Amot Well",
+      "Abaye: Weaken"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the disagreement between Rebbe and Rabban Shimon ben Gamliel about whether air/trunk mixing occurs, which is precisely what the 'Trunk Mixing' section's prose describes.",
+      "chosen_heading": "Trunk Mixing",
+      "current_heading": "Trunk Mixing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Abaye: Weaken",
+    "candidates": [
+      "25 Amot Well",
+      "Abaye: Weaken",
+      "Gazlan Bikurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the challenge from the twenty-five amot mishna, which is exactly what heading 0 ('25 Amot Well') describes, and Abaye's resolution is part of that same Talmudic exchange \u2014 the full sugya including both the question and Abaye's answer belongs under the heading that introduces the challenge from the twenty-five amot ruling.",
+      "chosen_heading": "25 Amot Well",
+      "current_heading": "Abaye: Weaken",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Gazlan Bikurim",
+    "candidates": [
+      "Abaye: Weaken",
+      "Gazlan Bikurim",
+      "Cannot Bring",
+      "Allows Bikurim",
+      "Al Menat Ken"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage reports Rav Dimi's account of Reish Lakish's question to Rabbi Yochanan about a tree near a boundary, which is exactly what the 'Gazlan Bikurim' section's prose describes \u2014 the question being raised, before Rabbi Yochanan's answer is given in the next section.",
+      "chosen_heading": "Gazlan Bikurim",
+      "current_heading": "Gazlan Bikurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Al Menat Ken",
+    "candidates": [
+      "Cannot Bring",
+      "Allows Bikurim",
+      "Al Menat Ken",
+      "Plow Clearance",
+      "Carob Sycamore"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage reports Ravin's transmission of Rabbi Yochanan's ruling that both tree types allow bikurim with recitation, which directly matches the 'Allows Bikurim' section's prose about Ravin's report and Rabbi Yochanan's reversal permitting bikurim and recitation \u2014 the rationale (al menat ken) belongs to that same ruling and is explained in the 'Al Menat Ken' section, but the Talmudic text itself is the source quoted for the 'Allows Bikurim' heading.",
+      "chosen_heading": "Allows Bikurim",
+      "current_heading": "Al Menat Ken",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Carob Sycamore",
+    "candidates": [
+      "Plow Clearance",
+      "Carob Sycamore",
+      "Irrigated Field",
+      "Abba Shaul Non-Fruit",
+      "Which Case?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers all four rulings (plow clearance, carob/sycamore, irrigated field, and Abba Shaul) as a single unit, and the first heading 'Plow Clearance' is where this complete mishna passage belongs, as it introduces the entire discussion that the subsequent headings break down.",
+      "chosen_heading": "Plow Clearance",
+      "current_heading": "Carob Sycamore",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Which Case?",
+    "candidates": [
+      "Irrigated Field",
+      "Abba Shaul Non-Fruit",
+      "Which Case?",
+      "Baraita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the gemara's opening dilemma asking whether Abba Shaul refers to the reisha or seifa, which is precisely what the 'Which Case?' section's prose describes.",
+      "chosen_heading": "Which Case?",
+      "current_heading": "Which Case?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Baraita Evidence",
+      "Non-Irrigated",
+      "Kol Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (tanya) proving Abba Shaul's position on the irrigated field, which is exactly what the 'Baraita Evidence' section describes.",
+      "chosen_heading": "Baraita Evidence",
+      "current_heading": "Baraita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Kol Expansion",
+    "candidates": [
+      "Non-Irrigated",
+      "Kol Expansion",
+      "Camel Clearance",
+      "Flax Measure",
+      "Plumb Line Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's linguistic argument that the word 'kol' (all) in 'kol ilan srak' proves Abba Shaul refers to the reisha, which is precisely what the 'Kol Expansion' prose describes.",
+      "chosen_heading": "Kol Expansion",
+      "current_heading": "Kol Expansion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Plumb Line Tumah",
+    "candidates": [
+      "Camel Clearance",
+      "Flax Measure",
+      "Plumb Line Tumah",
+      "Regrowth Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna contains all three opinions (basic camel-and-rider rule, Rabbi Yehuda's flax-laden camel, and Rabbi Shimon's plumb-line ruling) as a single unit, and the 'Camel Clearance' heading is the opening section that introduces the entire mishnah \u2014 the subsequent headings are meant to discuss each opinion in the gemara's analysis, not to host the mishna text itself.",
+      "chosen_heading": "Camel Clearance",
+      "current_heading": "Plumb Line Tumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Regrowth Problem",
+    "candidates": [
+      "Plumb Line Tumah",
+      "Regrowth Problem",
+      "Regular Maintenance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks which tanna holds that damage assessment follows the current situation rather than future growth, which directly corresponds to the 'Regrowth Problem' section's prose about why the mishnah limits the remedy to present clearance rather than anticipating future branch regrowth.",
+      "chosen_heading": "Regrowth Problem",
+      "current_heading": "Regrowth Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Regular Maintenance",
+    "candidates": [
+      "Regular Maintenance",
+      "Pruning vs. Tunnels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Reish Lakish's statement citing Rabbi Eliezer's position on underground spaces, which is precisely what the 'Regular Maintenance' section's prose describes and analyzes.",
+      "chosen_heading": "Regular Maintenance",
+      "current_heading": "Regular Maintenance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Pruning vs. Tunnels",
+    "candidates": [
+      "Pruning vs. Tunnels",
+      "Height Comparison",
+      "Flax Must Be Higher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's argument that the mishnah can be reconciled with the rabbanan's position because branches are visible and prunable incrementally, which is precisely what the 'Pruning vs. Tunnels' section's prose describes.",
+      "chosen_heading": "Pruning vs. Tunnels",
+      "current_heading": "Pruning vs. Tunnels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Flax Must Be Higher",
+    "candidates": [
+      "Height Comparison",
+      "Flax Must Be Higher",
+      "Duck or Cannot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma itself \u2014 which measure is greater, Rabbi Yehuda's or the Rabbanan's \u2014 which is exactly what the 'Height Comparison' section describes, before the resolution discussed in 'Flax Must Be Higher'.",
+      "chosen_heading": "Height Comparison",
+      "current_heading": "Flax Must Be Higher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Duck or Cannot",
+    "candidates": [
+      "Flax Must Be Higher",
+      "Duck or Cannot",
+      "Dead Body Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the proof that the Rabbis' measure is greater and the resolution that a rider can duck (efshar de-gachin ve-chalif), which is precisely what the 'Duck or Cannot' section's prose describes.",
+      "chosen_heading": "Duck or Cannot",
+      "current_heading": "Duck or Cannot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Dead Body Tumah",
+    "candidates": [
+      "Dead Body Tumah",
+      "Ohel Not Dropped",
+      "Pruning Insufficient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon's ruling and the baraita's explanation of 'mipnei ohel hatumah,' which is precisely what the 'Dead Body Tumah' section's prose addresses.",
+      "chosen_heading": "Dead Body Tumah",
+      "current_heading": "Dead Body Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Pruning Insufficient",
+    "candidates": [
+      "Ohel Not Dropped",
+      "Pruning Insufficient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the concern that a crow might drop impurity onto the branches (and that a scarecrow would suffice for that), which matches the 'Ohel Not Dropped' section's prose about whether the concern is a bird dropping tamei matter onto branches rather than the ohel effect.",
+      "chosen_heading": "Ohel Not Dropped",
+      "current_heading": "Pruning Insufficient",
+      "moved": true
+    }
+  }
+]

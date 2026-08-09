@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Shmuel: Ein Avelut",
+    "candidates": [
+      "Private vs. Public",
+      "Shmuel: Ein Avelut",
+      "Tashmish Hamitah",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous discussion about mourning on Shabbat and the prohibition of tashmish hamitah, beginning with Rabbi Yochanan's question to Shmuel and continuing through the correction by Rav Pappa and the citation from Evel Rabbati \u2014 all of which fits squarely under the 'Shmuel: Ein Avelut' heading whose prose explicitly describes this same sequence of the question to Shmuel followed by the rabbis' statement before Rav Pappa about tashmish hamitah.",
+      "chosen_heading": "Shmuel: Ein Avelut",
+      "current_heading": "Shmuel: Ein Avelut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Tashmish Hamitah",
+      "Shmuel's Position",
+      "Pachas Chova"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's mnemonic *pachas chova, neter reshus* distinguishing obligatory from optional Shabbat mourning practices, which is precisely what candidate 2 ('Pachas Chova') describes in its prose.",
+      "chosen_heading": "Pachas Chova",
+      "current_heading": "Shmuel's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Pachas Chova",
+    "candidates": [
+      "Shmuel's Position",
+      "Pachas Chova",
+      "Three Private Acts",
+      "Rav's Disagreement",
+      "Shmuel's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara text defining the pachas/chova and neter/reshus categories that candidate 1's prose explicitly discusses, including Rav's dissent about priat harosh which is embedded in the same Gemara text.",
+      "chosen_heading": "Pachas Chova",
+      "current_heading": "Pachas Chova",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Shmuel's Logic",
+    "candidates": [
+      "Three Private Acts",
+      "Rav's Disagreement",
+      "Shmuel's Logic",
+      "Shmuel's Logic",
+      "Kol Kera Sha'at Chimum",
+      "Shmuel & Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address Shmuel's reasoning about atifat harosh versus ne'ilat hasandal (item 1) and the kol kera/kol atifa principle with Rav Nachman's demonstration (item 2), which is precisely what candidate 2 'Shmuel's Logic' discusses in detail.",
+      "chosen_heading": "Shmuel's Logic",
+      "current_heading": "Shmuel's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Shmuel & Rabbi Yochanan",
+    "candidates": [
+      "Shmuel's Logic",
+      "Kol Kera Sha'at Chimum",
+      "Shmuel & Rabbi Yochanan",
+      "Rabbis' Exception",
+      "Tosafot: Subjective"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel's Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yaakov/Rabbi Yochanan's qualification about shoes proving non-mourning status, which matches exactly the prose of 'Shmuel's Logic' describing this very ruling about minalav mochiach alav.",
+      "second_heading": "Kol Kera Sha'at Chimum",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the kol kera sha'at chimum principle and the cases of Shmuel and Rabbi Yochanan rending garments, which matches the 'Kol Kera Sha'at Chimum' section's prose describing this exact principle and its parenthetical introduction before the Shmuel/Rabbi Yochanan stories.",
+      "current_heading": "Shmuel & Rabbi Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Tosafot: Subjective",
+    "candidates": [
+      "Rabbis' Exception",
+      "Tosafot: Subjective",
+      "Switching Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer about rabbis being different (shani rabbanan) because their teachings are constantly recalled, which is precisely what the 'Rabbis' Exception' prose elaborates on, not the Tosafot extension discussed under the current placement.",
+      "chosen_heading": "Rabbis' Exception",
+      "current_heading": "Tosafot: Subjective",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Switching Garments",
+    "candidates": [
+      "Tosafot: Subjective",
+      "Switching Garments",
+      "Sewing Torn Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about wearing the torn garment during shiva and re-rending when changing, and the Gemara's answer limiting that rule to parents (kvod aviv ve'imo) \u2014 are precisely the content described in the 'Switching Garments' prose section.",
+      "chosen_heading": "Switching Garments",
+      "current_heading": "Switching Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Sewing Torn Garments",
+    "candidates": [
+      "Sewing Torn Garments",
+      "Rava's Teaching",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between the father of Rav Oshaya and bar Kappara about whether additional tears (beyond sha'at chimum) may be mended, and the attempt to identify which sage held which position \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Sewing Torn Garments",
+      "current_heading": "Sewing Torn Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Rava's Teaching",
+      "Abaye's Challenge",
+      "Tosafot's Doubt",
+      "Modern Practice",
+      "Rabbi Eliezer",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rava's teaching about walking in the unkali (which matches heading 0's prose about Rava's teaching) and Abaye's exchange with Rav Yosef (which matches heading 1), but since heading 0's prose explicitly says 'the Gemara cites Rava' and then discusses the spatial dimension introduced by this passage, and heading 1's prose describes the Abaye/Rav Yosef encounter as a separate follow-up, the entire quoted text (which includes both Rava's statement and the Abaye anecdote as one continuous Talmudic unit) is best placed under heading 0 where it begins, though current placement at 1 is also defensible.",
+      "chosen_heading": "Rava's Teaching",
+      "current_heading": "Abaye's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Tosafot's Doubt",
+      "Modern Practice",
+      "Rabbi Eliezer",
+      "Rabban Gamliel",
+      "Under 30 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Eliezer's position on Shavuot and then cites Shmuel's ruling in favor of Rabban Gamliel, but the text begins with Rabbi Eliezer's statement and the prose under candidate 2 ('Rabbi Eliezer') explicitly discusses this mishna about Rabbi Eliezer's view on Shavuot's status after the Temple's destruction \u2014 and notably, candidate 3 ('Rabban Gamliel') already contains Rav Gidal/Shmuel's ruling in its own prose, meaning the passage (which includes both Rabbi Eliezer's statement and Shmuel's ruling) fits as the source text under the 'Rabbi Eliezer' heading where the mishna is first introduced.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabban Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Under 30 Days",
+    "candidates": [
+      "Rabban Gamliel",
+      "Under 30 Days",
+      "Tosafot: Viability",
+      "30 Days to 3 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita about burial practices within thirty days \u2014 the prohibition of one man and two women, Abba Shaul's leniency, and the omission of the row of consolers and mourners' blessings \u2014 which matches precisely the 'Under 30 Days' section prose.",
+      "chosen_heading": "Under 30 Days",
+      "current_heading": "Under 30 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "30 Days to 3 Years",
+    "candidates": [
+      "Tosafot: Viability",
+      "30 Days to 3 Years",
+      "Community Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the burial formalities for children at the 30-day and 12-month thresholds (coffin type, bier, Rabbi Yehuda's and Rabbi Akiva's specifications), which is precisely what the '30 Days to 3 Years' prose section describes.",
+      "chosen_heading": "30 Days to 3 Years",
+      "current_heading": "30 Days to 3 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Community Recognition",
+    "candidates": [
+      "Community Recognition",
+      "Eulogies by Class"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon ben Elazar's bier criterion and Rabbi Elazar ben Azarya's 'known to the public' principle, which is precisely what the 'Community Recognition' prose elaborates on.",
+      "chosen_heading": "Community Recognition",
+      "current_heading": "Community Recognition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Eulogies by Class",
+    "candidates": [
+      "Eulogies by Class",
+      "Ben Zekunim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the age thresholds for eulogy of children of the poor vs. wealthy, which is precisely what the 'Eulogies by Class' section's prose addresses, including the same distinctions between Rabbi Meir/Yishmael and Rabbi Yehuda's rulings.",
+      "chosen_heading": "Eulogies by Class",
+      "current_heading": "Eulogies by Class",
+      "moved": false
+    }
+  }
+]

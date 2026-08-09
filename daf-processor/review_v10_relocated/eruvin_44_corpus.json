@@ -1,0 +1,449 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Setup & Rabban Gamliel",
+    "candidates": [
+      "Setup & Rabban Gamliel",
+      "Disembark Question",
+      "Shfoferet Device"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's opening case of the boat not entering port and Rabban Gamliel's resolution, which is precisely what the 'Setup & Rabban Gamliel' prose describes.",
+      "chosen_heading": "Setup & Rabban Gamliel",
+      "current_heading": "Setup & Rabban Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Shfoferet Device",
+    "candidates": [
+      "Disembark Question",
+      "Shfoferet Device",
+      "Rashi's Focus Theory",
+      "Surveying Methods",
+      "Valley & Tree Measuring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about Rabban Gamliel's tube (shfoferet) and its use for measuring distances on land and sea, which is precisely what the 'Shfoferet Device' section's prose discusses.",
+      "chosen_heading": "Shfoferet Device",
+      "current_heading": "Shfoferet Device",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Valley & Tree Measuring",
+    "candidates": [
+      "Rashi's Focus Theory",
+      "Surveying Methods",
+      "Valley & Tree Measuring",
+      "Grave Shadow Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe measuring a valley's depth and a palm tree's height using the shfoferet/proportional methods, which is exactly what candidate 2 ('Valley & Tree Measuring') discusses in its prose.",
+      "chosen_heading": "Valley & Tree Measuring",
+      "current_heading": "Valley & Tree Measuring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Grave Shadow Remedy",
+    "candidates": [
+      "Grave Shadow Remedy",
+      "Nechemya's Story",
+      "People Wall Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the grave shadow remedy using a reed to prevent wild beasts from resting in the shade of a grave, which directly matches the prose in candidate 0 about inserting a stick to observe shadows and deter dangerous creatures from congregating at a tombstone.",
+      "chosen_heading": "Grave Shadow Remedy",
+      "current_heading": "Grave Shadow Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "People Wall Solution",
+    "candidates": [
+      "Nechemya's Story",
+      "People Wall Solution",
+      "Rabban Gamliel Rule",
+      "Question on Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the narrative of Nechemya getting lost outside the techum and the immediate solution proposed \u2014 exactly what candidate 0 ('Nechemya's Story') introduces, while the current placement (candidate 1) actually discusses the solution's halakhic implications which come after the narrative itself.",
+      "chosen_heading": "Nechemya's Story",
+      "current_heading": "People Wall Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Question on Solution",
+    "candidates": [
+      "Rabban Gamliel Rule",
+      "Question on Solution",
+      "Two Cubit Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Na\u1e25man bar Yitz\u1e25ak asking Rava what exactly Rav \u1e24isda's dilemma was, which directly matches the 'Question on Solution' prose describing this very exchange and question about what difficulty prompted Rav \u1e24isda to seek guidance.",
+      "chosen_heading": "Question on Solution",
+      "current_heading": "Question on Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Two Cubit Problem",
+    "candidates": [
+      "Two Cubit Problem",
+      "First Braita Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous gemara discussion resolving whether the case involved sufficient people (bi-demalu) or insufficient people (bi-de-lo malu), concluding it must be the latter and that the dilemma was about Rabbi Eliezer's ruling \u2014 exactly the content described in the 'Two Cubit Problem' prose, including the peshita resolution and the precision from 'yikanes'.",
+      "chosen_heading": "Two Cubit Problem",
+      "current_heading": "Two Cubit Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "First Braita Prohibition",
+    "candidates": [
+      "First Braita Prohibition",
+      "Second Braita Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the first baraita prohibition against making temporary partitions/tents on Shabbat, which matches exactly the 'First Braita Prohibition' prose describing this challenge to using people as walls.",
+      "chosen_heading": "First Braita Prohibition",
+      "current_heading": "First Braita Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Second Braita Permission",
+    "candidates": [
+      "Second Braita Permission",
+      "Reconciliation Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's citation of the second baraita permitting a person as a wall and upturning a bed to shade a corpse, which is exactly what heading 0 ('Second Braita Permission') describes in its prose.",
+      "chosen_heading": "Second Braita Permission",
+      "current_heading": "Second Braita Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Reconciliation Attempt",
+    "candidates": [
+      "Reconciliation Attempt",
+      "Animal Wall Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core content of the 'Reconciliation Attempt' section: item 1 is the Rabbi Eliezer/Rabbanan resolution via the window shutter mishna, and item 2 is Rabba bar bar \u1e24ana's statement in the name of Rabbi Yo\u1e25anan that rejects that resolution \u2014 exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Reconciliation Attempt",
+      "current_heading": "Reconciliation Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Animal Wall Debate",
+    "candidates": [
+      "Animal Wall Debate",
+      "Third vs. Fourth Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the Rabbi Meir/Rabbi Yehuda animal-wall debate and its dismantling, which is precisely what the 'Animal Wall Debate' prose describes in detail.",
+      "chosen_heading": "Animal Wall Debate",
+      "current_heading": "Animal Wall Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Third vs. Fourth Wall",
+    "candidates": [
+      "Third vs. Fourth Wall",
+      "Halachic Wall Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the gemara's resolution distinguishing the third from fourth wall, which is precisely what candidate 0 ('Third vs. Fourth Wall') describes in its prose, including the *nafal dofenah* linguistic proof cited in item 3.",
+      "chosen_heading": "Third vs. Fourth Wall",
+      "current_heading": "Third vs. Fourth Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Halachic Wall Defined",
+    "candidates": [
+      "Halachic Wall Defined",
+      "Non-Halachic Allowed",
+      "Mechitza Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage raises the unresolved contradiction between two rulings about using a person as a sukkah wall, which is a tension about what constitutes a valid halachic wall \u2014 most directly relevant to the 'Halachic Wall Defined' section's discussion of constitutive wall-making, though the fit is imperfect since the prose there focuses on the third-wall distinction rather than the person-as-wall issue.",
+      "chosen_heading": "Halachic Wall Defined",
+      "current_heading": "Halachic Wall Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Mechitza Example",
+    "candidates": [
+      "Non-Halachic Allowed",
+      "Mechitza Example",
+      "Unaware People Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly resolves the contradiction about a person serving as a wall through the knowing/unknowing distinction (la-da'at / she-lo mi-da'at), which is precisely what the 'Unaware People Rule' prose section discusses.",
+      "chosen_heading": "Unaware People Rule",
+      "current_heading": "Mechitza Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Unaware People Rule",
+    "candidates": [
+      "Mechitza Example",
+      "Unaware People Rule",
+      "Unaware Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "This passage illustrates the da'at/she-lo mi-da'at distinction with a specific case (Rabbi Ne\u1e25emya son of Rabbi \u1e24anilai), which fits under 'Unaware Examples' where the gemara's illustrative cases are discussed, rather than under 'Unaware People Rule' which covers the theoretical principle itself.",
+      "chosen_heading": "Unaware Examples",
+      "current_heading": "Unaware People Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Unaware Examples",
+    "candidates": [
+      "Unaware Examples",
+      "Awareness Prohibition",
+      "No Techum Aloft",
+      "Plane Landing",
+      "Boat Passenger Ruling",
+      "Cruise Ship Case",
+      "Mitzvah Permission",
+      "Services Unneeded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the same topic of human partitions used knowingly vs. unknowingly on Shabbat \u2014 the Rav \u1e24isda clarification, Shmuel's flogging of the wedding party, Rava's flask cases, and the examples of Levi/Ze'eiri/Rav Shimi bar \u1e24iyya \u2014 all of which are explicitly summarized in the 'Unaware Examples' prose.",
+      "chosen_heading": "Unaware Examples",
+      "current_heading": "Unaware Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Services Unneeded",
+    "candidates": [
+      "Awareness Prohibition",
+      "No Techum Aloft",
+      "Plane Landing",
+      "Boat Passenger Ruling",
+      "Cruise Ship Case",
+      "Mitzvah Permission",
+      "Services Unneeded",
+      "Original Techum Reversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The mishna text directly describes the case where someone went out with permission and was told the action was already performed, receiving two thousand amot from their current location \u2014 exactly what the 'Services Unneeded' section's prose discusses.",
+      "chosen_heading": "Services Unneeded",
+      "current_heading": "Services Unneeded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Original Techum Reversion",
+    "candidates": [
+      "Original Techum Reversion",
+      "Overlapping Techumim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the mishna's ruling about being within the original techum and the principle that those who go out to save lives may return to their original locations, which is precisely what the 'Original Techum Reversion' prose discusses.",
+      "chosen_heading": "Original Techum Reversion",
+      "current_heading": "Original Techum Reversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Overlapping Techumim",
+    "candidates": [
+      "Overlapping Techumim",
+      "Overlap Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's discussion of the mishna's phrase 'as if he never left,' with Rabba's interpretation (items 1-2) and Rav Shimi bar \u1e24iyya's interpretation (item 3) \u2014 the latter being exactly the 'overlapping techumim' reading that candidate 0's prose describes.",
+      "chosen_heading": "Overlapping Techumim",
+      "current_heading": "Overlapping Techumim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Overlap Debate",
+    "candidates": [
+      "Overlap Debate",
+      "Cave Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states the core dispute about whether havla'at techumim 'is something' significant or not, which is precisely what the 'Overlap Debate' section's prose discusses.",
+      "chosen_heading": "Overlap Debate",
+      "current_heading": "Overlap Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Cave Example",
+    "candidates": [
+      "Cave Example",
+      "Coercion Restriction",
+      "Return Clause",
+      "Fold/Corral Dispute",
+      "Rabban Gamliel Position",
+      "Rabbi Yehoshua Position",
+      "Brindisi Ship Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Abaye-Rabba exchange about the cave case (havla'at techumim) and Rabba's distinction regarding establishing residence within mechitzot from before Shabbat, which is precisely what the 'Cave Example' prose describes.",
+      "chosen_heading": "Cave Example",
+      "current_heading": "Cave Example",
+      "moved": false
+    }
+  }
+]

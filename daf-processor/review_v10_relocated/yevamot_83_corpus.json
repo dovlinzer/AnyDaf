@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Kiddush Definition",
+    "candidates": [
+      "Dvei Rav Review",
+      "Kiddush Definition",
+      "Shmuel & Androgynos",
+      "Grafting & Shemita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the mishna about a grapevine overhanging another's grain (kiddush hakerem) and the dispute between Rabbi Meir and Rabbi Yosei/Shimon, which is precisely what the 'Kiddush Definition' prose describes in detail.",
+      "chosen_heading": "Kiddush Definition",
+      "current_heading": "Kiddush Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Grafting & Shemita",
+    "candidates": [
+      "Shmuel & Androgynos",
+      "Grafting & Shemita",
+      "Rav Yosef & Huna"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Yosef & Huna",
+    "candidates": [
+      "Rav Yosef & Huna",
+      "Resolution",
+      "R. Yehuda Tumtum",
+      "Birei's Case",
+      "R. Yose b'R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the conflicting traditions of Rav Huna and Rav Adda about Rav's ruling, and the resolution pointing to Rav Huna's authority \u2014 content that matches heading 0's prose about the contradiction between two transmitters, with the resolution belonging to heading 1; but since the passage ends with the Gemara's response privileging Rav Huna (still part of the dialectic introduced in heading 0), and heading 0 explicitly describes this exact exchange between Rav Yosef, Abaye, and the Bei Rav identification, the current placement is correct.",
+      "chosen_heading": "Rav Yosef & Huna",
+      "current_heading": "Rav Yosef & Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "R. Yose b'R. Yehuda",
+    "candidates": [
+      "Resolution",
+      "R. Yehuda Tumtum",
+      "Birei's Case",
+      "R. Yose b'R. Yehuda",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Birei's Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Birei case challenge and Rabbi Yehuda's response ('chazor al banav'), which matches exactly the prose of candidate 2 ('Birei's Case').",
+      "second_heading": "R. Yose b'R. Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita of Rabbi Yose b'Rabbi Yehuda with the Gemara's clarification about female/saris chama, which matches exactly the prose of candidate 3 ('R. Yose b'R. Yehuda').",
+      "current_heading": "R. Yose b'R. Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Rav's Position",
+      "R. Eliezer Challenge",
+      "R. Simai Support",
+      "Midrashic Basis",
+      "Sage vs. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's articulation of the practical halakhic difference between Rabbi Yehuda and Rabbi Yose regarding the tumtum's chalitza, which is precisely what the 'Rava's Resolution' section prose discusses in detail.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Sage vs. Eliezer",
+    "candidates": [
+      "Rav's Position",
+      "R. Eliezer Challenge",
+      "R. Simai Support",
+      "Midrashic Basis",
+      "Sage vs. Eliezer",
+      "R. Eliezer Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous discussion: Rav's ruling (item 1), the R. Simai support (item 2), and the midrashic derivation with the Rabbis' counter-reading (items 3-4) all belong to the passage beginning with Rav's position on stoning for intercourse with an androgynos at two places, which is exactly what candidate 0 ('Rav's Position') describes \u2014 the current placement under 'Sage vs. Eliezer' (index 4) is too late in the sequence, as that prose discusses the aftermath of the midrashic debate rather than the opening statement.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Sage vs. Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "R. Eliezer Principle",
+    "candidates": [
+      "Sage vs. Eliezer",
+      "R. Eliezer Principle",
+      "Bird Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Shezvi/Rav \u1e24isda's statement limiting Rabbi Eliezer's position on the androgynos as a 'proper male,' which is precisely what the 'R. Eliezer Principle' section's prose discusses and explains.",
+      "chosen_heading": "R. Eliezer Principle",
+      "current_heading": "R. Eliezer Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Bird Proof",
+    "candidates": [
+      "Bird Proof",
+      "Principle Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself listing the invalid birds (nirba, muktzeh, ne'evad, etnan, mechir, tumtum, androgynos) and their impurity-causing status, which is precisely what the 'Bird Proof' prose section describes and analyzes.",
+      "chosen_heading": "Bird Proof",
+      "current_heading": "Bird Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Principle Summary",
+    "candidates": [
+      "Principle Summary",
+      "Temura Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Eliezer's principle about excluding tumtum and androgynos wherever the Torah specifies 'male' and 'female,' and explains the bird-offering exception \u2014 precisely the content the 'Principle Summary' prose elaborates and explains.",
+      "chosen_heading": "Principle Summary",
+      "current_heading": "Principle Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Temura Proof",
+    "candidates": [
+      "Temura Proof",
+      "R. Personal Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous unit about the baraita/mishnah regarding kilayim, tereifa, tumtum, and androgynos in the context of temura, which the prose of 'Temura Proof' describes in detail, including Shmuel's explanation and the conclusion about Rabbi Eliezer's view of androgynos.",
+      "chosen_heading": "Temura Proof",
+      "current_heading": "Temura Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "R. Personal Account",
+    "candidates": [
+      "R. Personal Account",
+      "Conclusion",
+      "End He-Arel",
+      "Mishna Opening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's ruling on the hermaphrodite AND Rabbi Yehuda HaNasi's personal account of learning from Rabbi Elazar ben Shamua, which is precisely what heading 0 ('R. Personal Account') discusses in its prose.",
+      "chosen_heading": "R. Personal Account",
+      "current_heading": "R. Personal Account",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Mishna Opening",
+    "candidates": [
+      "Conclusion",
+      "End He-Arel",
+      "Mishna Opening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The 'Hadran alach He-arel' phrase explicitly marks the conclusion of chapter He-Arel, and candidate 0's prose directly references this phrase and explains it as the chapter's conclusion, making it the clearest match.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Mishna Opening",
+      "moved": true
+    }
+  }
+]

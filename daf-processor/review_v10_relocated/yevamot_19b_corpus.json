@@ -1,0 +1,195 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Rav Pappa Setup",
+    "candidates": [
+      "Rav Pappa Setup",
+      "No Ma'amar Case",
+      "Ma'amar Before Birth",
+      "Yibbum Before Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Pappa's qualification of Rabbi Shimon's position, the resolution of the redundancy question regarding the Rabbis, and the baraita confirming Rav Pappa while refuting Rabbi Oshaya \u2014 are precisely the content described in the 'Rav Pappa Setup' prose, which explicitly mentions Rav Pappa's measured position, the baraita's confirmation, and the refutation of Rabbi Oshaya.",
+      "chosen_heading": "Rav Pappa Setup",
+      "current_heading": "Rav Pappa Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Yibbum Before Birth",
+    "candidates": [
+      "No Ma'amar Case",
+      "Ma'amar Before Birth",
+      "Yibbum Before Birth",
+      "Yibbum \u2192 Birth \u2192 Death",
+      "Birth \u2192 Yibbum \u2192 Death",
+      "Yibbum, Birth, Death",
+      "Gemara's Logic"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Gemara's Logic",
+    "candidates": [
+      "Yibbum \u2192 Birth \u2192 Death",
+      "Birth \u2192 Yibbum \u2192 Death",
+      "Yibbum, Birth, Death",
+      "Gemara's Logic",
+      "Status Continuity Q",
+      "Status Retention Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items form a continuous Gemara argument about why the baraita's structure proves Rabbi Shimon disputes only the yibbum-then-birth scenario, concluding with 'shema mina' \u2014 which is precisely what the 'Gemara's Logic' prose describes.",
+      "chosen_heading": "Gemara's Logic",
+      "current_heading": "Gemara's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Status Retention Logic",
+    "candidates": [
+      "Status Continuity Q",
+      "Status Retention Logic",
+      "Intent Language",
+      "Ma'amar = Kiddushin",
+      "Rebbi's Logic",
+      "Chachamim Disagree",
+      "Ma'amar Classification",
+      "Case Setup",
+      "All or Nothing",
+      "Safek Problem",
+      "Klal's Scope",
+      "Rav Pappa Excludes",
+      "Woman as Ervah View",
+      "Status Erasure Q",
+      "Divorce Not Chalitza",
+      "Shadi Heiteira",
+      "Ba'ah M'Tzad Heiteira",
+      "Sister Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage opens with the Gemara's question about the 'was about to' language in the baraita (precisely what heading 2 'Intent Language' describes) and continues through the consent dispute and subsequent cases, making heading 2 the best match for where this continuous discussion begins.",
+      "chosen_heading": "Intent Language",
+      "current_heading": "Status Retention Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Sister Analogy",
+    "candidates": [
+      "Intent Language",
+      "Ma'amar = Kiddushin",
+      "Rebbi's Logic",
+      "Chachamim Disagree",
+      "Ma'amar Classification",
+      "Case Setup",
+      "All or Nothing",
+      "Safek Problem",
+      "Klal's Scope",
+      "Rav Pappa Excludes",
+      "Woman as Ervah View",
+      "Status Erasure Q",
+      "Divorce Not Chalitza",
+      "Shadi Heiteira",
+      "Ba'ah M'Tzad Heiteira",
+      "Sister Analogy",
+      "Rule Categories",
+      "Isur Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 15,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain discussing the sister analogy challenge to Rabbi Shimon's principle \u2014 the 'shadi heiteira' logic (item 1), the maternal sister counterexample (item 2), and the resolution distinguishing prohibitions that have a heter from those that do not (item 3) \u2014 which is precisely what the 'Sister Analogy' prose section describes.",
+      "chosen_heading": "Sister Analogy",
+      "current_heading": "Sister Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Isur Mitzvah",
+    "candidates": [
+      "Rule Categories",
+      "Isur Mitzvah",
+      "Isur Kedushah",
+      "Sister-Yevama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage states the overarching principle with all three categories (issur ervah, issur mitzvah, issur kedushah), making it the introductory 'Rule Categories' content rather than belonging under the specific 'Isur Mitzvah' subsection.",
+      "chosen_heading": "Rule Categories",
+      "current_heading": "Isur Mitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Sister-Yevama",
+    "candidates": [
+      "Isur Kedushah",
+      "Sister-Yevama"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sister-Yevama",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the ruling of the achotah shehi yevamtah case, directly matching the Sister-Yevama heading's discussion of choletzet o mityabemet when one sister is an erva.",
+      "second_heading": "Isur Kedushah",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 open a new mishna defining issur mitzvah and issur kedushah (widow to High Priest, mamzeret, etc.) and the Gemara's discussion of the klal principle regarding rival wives, which belongs under the Isur Kedushah heading.",
+      "current_heading": "Sister-Yevama",
+      "moved": true
+    }
+  }
+]

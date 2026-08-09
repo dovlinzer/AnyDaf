@@ -1,0 +1,401 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Seven Sons Refuse",
+    "candidates": [
+      "Seven Sons Refuse",
+      "Seventh Son & Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe the first six sons being brought before Caesar and refusing to worship idols, which is precisely what the prose under 'Seven Sons Refuse' describes in detail.",
+      "chosen_heading": "Seven Sons Refuse",
+      "current_heading": "Seven Sons Refuse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Seventh Son & Mother",
+    "candidates": [
+      "Seventh Son & Mother",
+      "Jeremiah's Lament",
+      "Brit Milah & Martyrdom",
+      "Torah Tent Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous narrative of the seventh son's confrontation with Caesar, his martyrdom, and the mother's subsequent death \u2014 exactly the content described in the 'Seventh Son & Mother' prose.",
+      "chosen_heading": "Seventh Son & Mother",
+      "current_heading": "Seventh Son & Mother",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Torah Tent Slaughter",
+    "candidates": [
+      "Jeremiah's Lament",
+      "Brit Milah & Martyrdom",
+      "Torah Tent Slaughter",
+      "Torah Devotion",
+      "Tefillin at Beitar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua ben Levi's interpretation (circumcision/milah) AND Rabbi Shimon ben Lakish's interpretation (shechitah demonstration), and candidate 1 ('Brit Milah & Martyrdom') explicitly discusses both interpretations together, while the current placement under 'Torah Tent Slaughter' only covers the second half of the passage.",
+      "chosen_heading": "Brit Milah & Martyrdom",
+      "current_heading": "Torah Tent Slaughter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Tefillin at Beitar",
+    "candidates": [
+      "Torah Devotion",
+      "Tefillin at Beitar",
+      "Children of Zion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torah Devotion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concludes the 'Torah Devotion' section with Rav Nachman bar Yitzchak's interpretation and the Reish Lakish dictum, exactly as described in candidate 0's prose, before transitioning mid-sentence to Rabbah bar bar Chana's statement about Beitar.",
+      "second_heading": "Tefillin at Beitar",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover the tefillin found at Beitar, the dispute between versions, the resolution about shel rosh vs. shel yad, and the brains-on-stone accounts \u2014 all precisely described in candidate 1's prose about Beitar.",
+      "current_heading": "Tefillin at Beitar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Children of Zion",
+    "candidates": [
+      "Children of Zion",
+      "Beitar Synagogues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the interpretation of 'comparable to fine gold,' the Roman practice of using Jewish captives for conception, and the two children discussing prophesied afflictions \u2014 are explicitly discussed together in the 'Children of Zion' prose section, making the current placement correct.",
+      "chosen_heading": "Children of Zion",
+      "current_heading": "Children of Zion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Beitar Synagogues",
+    "candidates": [
+      "Beitar Synagogues",
+      "Ransom from Prison",
+      "Child's Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the destruction of Beitar's synagogues and schoolchildren, which is exactly what the 'Beitar Synagogues' section prose discusses in detail.",
+      "chosen_heading": "Beitar Synagogues",
+      "current_heading": "Beitar Synagogues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Child's Knowledge",
+    "candidates": [
+      "Ransom from Prison",
+      "Child's Knowledge",
+      "Rabbi Yishmael Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about Rabbi Yehoshua ben Chananya going to Rome and finding the child in prison \u2014 exactly what heading 0 ('Ransom from Prison') discusses in its prose, covering the description of the child and Rabbi Yehoshua's arrival at the prison entrance, before the child's response and subsequent events covered under later headings.",
+      "chosen_heading": "Ransom from Prison",
+      "current_heading": "Child's Knowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rabbi Yishmael Identity",
+    "candidates": [
+      "Child's Knowledge",
+      "Rabbi Yishmael Identity",
+      "Captors' Plan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua's oath to redeem the child and the fulfillment of that redemption, which is exactly what the prose under 'Child's Knowledge' discusses, including the oath formula and Tosafot's analysis of redeeming for any price.",
+      "chosen_heading": "Child's Knowledge",
+      "current_heading": "Rabbi Yishmael Identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Captors' Plan",
+    "candidates": [
+      "Captors' Plan",
+      "Siblings' Reunion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the captors' plan to match the slaves together and the initial reaction of the two children in the room, which is exactly what the 'Captors' Plan' prose section discusses \u2014 the masters meeting, proposing marriage, dividing children, and placing them in a room together.",
+      "chosen_heading": "Captors' Plan",
+      "current_heading": "Captors' Plan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Siblings' Reunion",
+    "candidates": [
+      "Siblings' Reunion",
+      "Tzafnat's Assault"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the dawn recognition, mutual weeping unto death, and Jeremiah's lament \u2014 all of which are explicitly discussed in the 'Siblings' Reunion' prose section.",
+      "chosen_heading": "Siblings' Reunion",
+      "current_heading": "Siblings' Reunion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Tzafnat's Assault",
+    "candidates": [
+      "Tzafnat's Assault",
+      "Challenge to God"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tzafnat's Assault",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 describe the identity of Tzafnat and the abuse/sale scene, matching heading 0's prose about Reish Lakish's story of Tzafnat bat Pnu'el being abused and brought out for sale.",
+      "second_heading": "Challenge to God",
+      "second_confidence": "high",
+      "second_reason": "Item 3 contains Tzafnat's direct challenge to God ('Master of the Universe, if You have no compassion on us\u2026'), which is exactly what heading 1's prose discusses as the central emotional moment of challenging God.",
+      "current_heading": "Tzafnat's Assault",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Challenge to God",
+    "candidates": [
+      "Challenge to God",
+      "Apprentice's Scheme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Jeremiah's lament and the Gemara's observation about 'aleinu' vs 'alayich,' which is precisely what the prose in 'Challenge to God' is discussing.",
+      "chosen_heading": "Challenge to God",
+      "current_heading": "Challenge to God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Apprentice's Scheme",
+    "candidates": [
+      "Apprentice's Scheme",
+      "Marriage & Servitude"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the opening of the carpenter's apprentice story \u2014 his desire for his master's wife and his scheme to keep her three days then slander her on the road \u2014 which is precisely what candidate 0's prose narrates.",
+      "chosen_heading": "Apprentice's Scheme",
+      "current_heading": "Apprentice's Scheme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Marriage & Servitude",
+    "candidates": [
+      "Marriage & Servitude",
+      "Master's Tears",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete narrative of the apprentice/master/wife story \u2014 the divorce, the marriage, the debt, the servitude, and the tears \u2014 which is precisely what candidate 0's prose summarizes, while candidate 1's prose picks up only from the tears onward as a separate analytical section.",
+      "chosen_heading": "Marriage & Servitude",
+      "current_heading": "Marriage & Servitude",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Master's Tears",
+      "Rav vs. Shmuel",
+      "Wife & Husband Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav and Shmuel's dispute about what constitutes a valid second purchase from the original owner after buying from a Sicarius, which is precisely what the 'Rav vs. Shmuel' section's prose describes.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Wife & Husband Order",
+    "candidates": [
+      "Wife & Husband Order",
+      "Three-Year Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita of Rabbi Shimon ben Elazar about purchasing from wife then husband (or vice versa) and the subsequent Gemara challenge regarding Rav's position on achrayut vs. shtar, which is precisely what the 'Wife & Husband Order' prose describes.",
+      "chosen_heading": "Wife & Husband Order",
+      "current_heading": "Wife & Husband Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Three-Year Possession",
+    "candidates": [
+      "Three-Year Possession",
+      "Secondary Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's content about purchasing from a Sicarius, three-year possession, and the original owner having no claim against the second buyer is directly introduced and discussed in the 'Three-Year Possession' section's prose.",
+      "chosen_heading": "Three-Year Possession",
+      "current_heading": "Three-Year Possession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Secondary Protection",
+    "candidates": [
+      "Secondary Protection",
+      "Heirs & Claims",
+      "No Sikrikon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 1's prose describes: the Gemara's question about the circumstances, Rav Sheshet's resolution invoking 'tainan le-yores ve-tainan le-lokeach,' and the qualification that the original first buyer must make his own claim without court prompting \u2014 all of which matches 'Heirs & Claims' precisely, not 'Secondary Protection' which covers only the third-party purchaser scenario without the heir extension or the final qualification about the first buyer.",
+      "chosen_heading": "Heirs & Claims",
+      "current_heading": "Secondary Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "No Sikrikon",
+    "candidates": [
+      "Heirs & Claims",
+      "No Sikrikon",
+      "Twelve Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that property acquired due to debt or unjust seizure (anparot) does not fall under sikrikon laws, which matches precisely the 'No Sikrikon' section's prose about haba machmat hov u-machmat amparut ein bo mishum sikrikon.",
+      "chosen_heading": "No Sikrikon",
+      "current_heading": "No Sikrikon",
+      "moved": false
+    }
+  }
+]

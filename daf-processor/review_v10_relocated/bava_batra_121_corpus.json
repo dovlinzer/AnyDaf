@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishna: Tu B'Av & Yom",
+    "candidates": [
+      "Bnot Tzelofchad Setup",
+      "Mishna: Tu B'Av & Yom",
+      "Women's Sayings: Beauty",
+      "Yom Kippur Joy & Tablets",
+      "Husband-Wife Metaphor",
+      "Rav Yehuda: Tribes Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the quoted Mishna from Ta'anit that the Gemara introduces via 'tnan hatam' \u2014 its function is to bring in the Mishna as context for the Bnot Tzelofchad discussion, which is precisely what candidate 0's prose describes: the Gemara 'proceeds to quote a famous Mishna in Taanit, because it intersects directly with what has just been discussed.'",
+      "chosen_heading": "Bnot Tzelofchad Setup",
+      "current_heading": "Mishna: Tu B'Av & Yom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rav Yehuda: Tribes Mix",
+    "candidates": [
+      "Women's Sayings: Beauty",
+      "Yom Kippur Joy & Tablets",
+      "Husband-Wife Metaphor",
+      "Rav Yehuda: Tribes Mix",
+      "Benjamin Rejoin Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda's statement in Shmuel's name about tribes being permitted to intermarry and the drasha of 'zeh hadavar,' which is precisely what the prose of candidate 3 discusses.",
+      "chosen_heading": "Rav Yehuda: Tribes Mix",
+      "current_heading": "Rav Yehuda: Tribes Mix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Benjamin Rejoin Marriage",
+    "candidates": [
+      "Benjamin Rejoin Marriage",
+      "Dor Hamidbar Deaths End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the tribe of Benjamin being permitted to rejoin in marriage, matching exactly the 'Benjamin Rejoin Marriage' section prose about this same teaching from Rabbah bar bar Chana/Rabbi Yochanan and the drasha of 'mimenu v'lo mibaneinu.'",
+      "chosen_heading": "Benjamin Rejoin Marriage",
+      "current_heading": "Benjamin Rejoin Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Dor Hamidbar Deaths End",
+    "candidates": [
+      "Dor Hamidbar Deaths End",
+      "Midrash: Grave-Digging",
+      "Tosafot Rejects Midrash",
+      "Hoshea: Guard Posts Gone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rav Dimi bar Yosef/Rav Nachman's teaching that Tu B'Av was the day the wilderness deaths ended, plus the proof-text about God's speech to Moses resuming only after that generation died \u2014 exactly the content described in the 'Dor Hamidbar Deaths End' prose.",
+      "chosen_heading": "Dor Hamidbar Deaths End",
+      "current_heading": "Dor Hamidbar Deaths End",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Hoshea: Guard Posts Gone",
+    "candidates": [
+      "Midrash: Grave-Digging",
+      "Tosafot Rejects Midrash",
+      "Hoshea: Guard Posts Gone",
+      "Beitar Burial & Bracha",
+      "Hatov Vehameitiv Bracha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Ulla's statement about Hoshea ben Elah removing Jeroboam's guard posts, which is precisely what the prose under heading 2 'Hoshea: Guard Posts Gone' discusses.",
+      "chosen_heading": "Hoshea: Guard Posts Gone",
+      "current_heading": "Hoshea: Guard Posts Gone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Hatov Vehameitiv Bracha",
+    "candidates": [
+      "Beitar Burial & Bracha",
+      "Hatov Vehameitiv Bracha",
+      "Wood-Cutting Ends",
+      "Breaking of the Hatchet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Mattana's answer about the day the slain of Beitar were afforded burial and the institution of HaTov veHaMeitiv, which is exactly what heading 0 ('Beitar Burial & Bracha') introduces, whereas heading 1 discusses the structural and thematic analysis of the bracha itself as a follow-up topic.",
+      "chosen_heading": "Beitar Burial & Bracha",
+      "current_heading": "Hatov Vehameitiv Bracha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Breaking of the Hatchet",
+    "candidates": [
+      "Wood-Cutting Ends",
+      "Breaking of the Hatchet",
+      "Increase Torah Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabba and Rav Yosef's statement about stopping wood-cutting for the altar arrangement, Rabbi Eliezer's explanation about the sun's weakening, and the 'day of the breaking of the sickle' \u2014 all of which are the core content described in the 'Wood-Cutting Ends' section prose, not split across two headings.",
+      "chosen_heading": "Wood-Cutting Ends",
+      "current_heading": "Breaking of the Hatchet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Increase Torah Study",
+    "candidates": [
+      "Breaking of the Hatchet",
+      "Increase Torah Study",
+      "Seven Lifespans: Adam-Eli",
+      "Chain: Adam to Elijah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the teaching about adding Torah study after Tu B'Av and the consequence of not doing so (yesif/tikberei imei), which is precisely what the 'Increase Torah Study' section's prose describes.",
+      "chosen_heading": "Increase Torah Study",
+      "current_heading": "Increase Torah Study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Chain: Adam to Elijah",
+    "candidates": [
+      "Seven Lifespans: Adam-Eli",
+      "Chain: Adam to Elijah",
+      "Achiyah & Amram Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the teaching that seven people spanned all of world history, which matches heading 0's prose about introducing this tradition and its connection to the preceding material, whereas heading 1 ('Chain: Adam to Elijah') is prose commentary analyzing the overlaps in detail and heading 2 addresses the Achiyah-Amram problem specifically.",
+      "chosen_heading": "Seven Lifespans: Adam-Eli",
+      "current_heading": "Chain: Adam to Elijah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Achiyah & Amram Problem",
+    "candidates": [
+      "Chain: Adam to Elijah",
+      "Achiyah & Amram Problem",
+      "Levi Tribe Exempted",
+      "Levi Counted at Thirty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the exact objection that Ahijah could not have seen Amram given the verse 'no man remained save Caleb and Joshua,' which is precisely the difficulty introduced and discussed in the 'Achiyah & Amram Problem' section's prose.",
+      "chosen_heading": "Achiyah & Amram Problem",
+      "current_heading": "Achiyah & Amram Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Levi Counted at Thirty",
+    "candidates": [
+      "Levi Tribe Exempted",
+      "Levi Counted at Thirty",
+      "Yair & Machir Survive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rav Hamnuna's ruling that the decree was not applied to the tribe of Levi, which matches heading 0 ('Levi Tribe Exempted') whose prose directly describes this same statement by Rav Hamnuna, while heading 1 ('Levi Counted at Thirty') describes the derivation and analysis in more detail \u2014 but the Talmudic text itself is the source statement that belongs under heading 0.",
+      "chosen_heading": "Levi Tribe Exempted",
+      "current_heading": "Levi Counted at Thirty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Yair & Machir Survive",
+    "candidates": [
+      "Levi Counted at Thirty",
+      "Yair & Machir Survive",
+      "Ages 20-60 Decree Only",
+      "Over Sixty: Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about Yair ben Manasseh and Machir ben Manasseh surviving into Eretz Yisrael, and the dispute between Rabbi Yehuda and Rabbi Ne\u1e25emya about the thirty-six men killed at Ai \u2014 exactly what the 'Yair & Machir Survive' prose describes in detail.",
+      "chosen_heading": "Yair & Machir Survive",
+      "current_heading": "Yair & Machir Survive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Over Sixty: Exempt",
+    "candidates": [
+      "Ages 20-60 Decree Only",
+      "Over Sixty: Exempt",
+      "Equal vs. Proportional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav A\u1e25a bar Ya'akov's statement that the decree applied only to those between 20 and 60, which is precisely what heading 0 ('Ages 20-60 Decree Only') describes, while heading 1 discusses the textual/exegetical derivation and implications that follow from this statement.",
+      "chosen_heading": "Ages 20-60 Decree Only",
+      "current_heading": "Over Sixty: Exempt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Equal vs. Proportional",
+    "candidates": [
+      "Over Sixty: Exempt",
+      "Equal vs. Proportional",
+      "Territory Map Evidence",
+      "Torah Verses on Division",
+      "Equal Land per Tribe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the dilemma of whether Eretz Yisrael was divided by tribes (equal sections) or by individual skulls (per-capita), which is exactly what the 'Equal vs. Proportional' prose section describes and introduces.",
+      "chosen_heading": "Equal vs. Proportional",
+      "current_heading": "Equal vs. Proportional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Equal Land per Tribe",
+    "candidates": [
+      "Territory Map Evidence",
+      "Torah Verses on Division",
+      "Equal Land per Tribe",
+      "Division by Value"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torah Verses on Division",
+      "first_confidence": "high",
+      "first_reason": "Item 1 brings the verse 'bein rav lemaat' as a proof that tribal portions were equal, which is exactly what heading 1 ('Torah Verses on Division') discusses \u2014 the two contradictory pesukim and their reconciliation.",
+      "second_heading": "Division by Value",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita stating the land was divided by monetary value (v'lo nitchalkah ela b'kesef) with Rav Yehuda's illustration about Judea vs. Galilee, which is precisely what heading 3 ('Division by Value') is about.",
+      "current_heading": "Equal Land per Tribe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Division by Value",
+    "candidates": [
+      "Equal Land per Tribe",
+      "Division by Value",
+      "Urim v'Tummim & Lots",
+      "Drawing Lots Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the dual mechanism of lots and Urim v'Tummim in dividing the land, which matches exactly the prose of the 'Urim v'Tummim & Lots' section (candidate 2), where it currently sits.",
+      "chosen_heading": "Urim v'Tummim & Lots",
+      "current_heading": "Division by Value",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Drawing Lots Procedure",
+    "candidates": [
+      "Urim v'Tummim & Lots",
+      "Drawing Lots Procedure",
+      "Future Division: 13 Sect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe the detailed procedure of the dual lot-and-Urim-v'Tummim division, which is precisely what candidate 1 ('Drawing Lots Procedure') discusses in its prose.",
+      "chosen_heading": "Drawing Lots Procedure",
+      "current_heading": "Drawing Lots Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Future Division: 13 Sect",
+    "candidates": [
+      "Future Division: 13 Sect",
+      "Conclusion: 12 Equal Por"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the future division in Olam HaBa \u2014 including the inequities of this world versus the next, everyone having mountain/lowland/valley portions, and God distributing personally \u2014 which precisely matches the prose of candidate 0 ('Future Division: 13 Sect').",
+      "chosen_heading": "Future Division: 13 Sect",
+      "current_heading": "Future Division: 13 Sect",
+      "moved": false
+    }
+  }
+]

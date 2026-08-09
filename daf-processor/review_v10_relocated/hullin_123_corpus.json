@@ -1,0 +1,497 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Skins Distinct from Meat",
+    "candidates": [
+      "Skins Distinct from Meat",
+      "Walking on Leather",
+      "Leather as Mat",
+      "Amount of Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's challenge about whether walking (hilach) is required or if mere use suffices, matching exactly the prose of 'Walking on Leather' which describes hilach in/lo hilach lo and Rabbi Chiyya's teaching about the donkey's ear.",
+      "chosen_heading": "Walking on Leather",
+      "current_heading": "Skins Distinct from Meat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Amount of Walking",
+    "candidates": [
+      "Walking on Leather",
+      "Leather as Mat",
+      "Amount of Walking",
+      "Kneading Dough"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Walking on Leather",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the challenge about walking vs. use by explaining that walking on the skin suffices to change its status, which matches the 'Walking on Leather' prose discussing hilach/lo hilach and the resolution of the Rabbi Chiyya challenge.",
+      "second_heading": "Amount of Walking",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks how much walking is required and answers 'four mil,' which is precisely what the 'Amount of Walking' prose discusses \u2014 arba milin and the calculation of roughly seventy-two minutes of walking.",
+      "current_heading": "Amount of Walking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Kneading Dough",
+    "candidates": [
+      "Kneading Dough",
+      "Prayer & Minyan",
+      "Netilat Yadayim",
+      "Time vs. Distance",
+      "Not Backtracking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together \u2014 Reish Lakish's ruling on kneader/prayer/washing, plus Rav Na\u1e25man bar Yitz\u1e25ak's correction attributing it to Aivu and adding a fourth halakha (the mishna's tanning case) \u2014 are precisely what candidate 4 ('Not Backtracking') describes in its opening sentences, making that the clear home for this passage.",
+      "chosen_heading": "Not Backtracking",
+      "current_heading": "Kneading Dough",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Not Backtracking",
+    "candidates": [
+      "Prayer & Minyan",
+      "Netilat Yadayim",
+      "Time vs. Distance",
+      "Not Backtracking",
+      "Troops & Tumah",
+      "Rabbi Ishmael",
+      "Flaying Overview",
+      "Mat Usage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Not Backtracking",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yosei bar Rabbi \u1e24anina's qualification about backtracking and Rav A\u1e25a bar Yaakov's inference, which precisely matches the 'Not Backtracking' section's prose discussion of those exact same rulings.",
+      "second_heading": "Troops & Tumah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraisa about an army troop entering a house causing tumah due to carried scalps, which matches the 'Troops & Tumah' section's prose describing exactly that baraisa and its reasoning.",
+      "current_heading": "Not Backtracking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Mat Usage",
+    "candidates": [
+      "Troops & Tumah",
+      "Rabbi Ishmael",
+      "Flaying Overview",
+      "Mat Usage",
+      "Water Skin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Flaying Overview",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the Mishna on flaying animals (hamafshit), which candidate 2 'Flaying Overview' explicitly describes as the mishna it is introducing with all its categories (behemah/chayah, tahorah/teme'ah, dakkah/gasah).",
+      "second_heading": "Mat Usage",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the first specific case of flaying for a mat (lishatiach) with the measure of kedei achizah, which is precisely what candidate 3 'Mat Usage' discusses in its prose.",
+      "current_heading": "Mat Usage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Water Skin",
+    "candidates": [
+      "Water Skin",
+      "Neck Skin Debate",
+      "Shomer Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Neck Skin Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the water skin flaying threshold (chest) and the neck skin dispute between Rabbi Yochanan ben Nuri and the Sages, which maps directly onto the 'Neck Skin Debate' prose discussing exactly those two rulings in sequence.",
+      "second_heading": "Shomer Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening Gemara question ('from that point forward, what is the status?') which the 'Shomer Principle' prose addresses as launching the fundamental halachic analysis of the mishna's connectedness principle.",
+      "current_heading": "Water Skin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Shomer Principle",
+    "candidates": [
+      "Neck Skin Debate",
+      "Shomer Principle",
+      "Beyond Kdei Achizah",
+      "Rav vs. Rabbi Assi",
+      "Baraita Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav and Rabbi Asi's dispute about whether the flayed hide is pure or whether the tefach adjacent to the flesh remains impure, which is precisely what the 'Rav vs. Rabbi Assi' section's prose describes.",
+      "chosen_heading": "Rav vs. Rabbi Assi",
+      "current_heading": "Shomer Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Baraita Sources",
+    "candidates": [
+      "Beyond Kdei Achizah",
+      "Rav vs. Rabbi Assi",
+      "Baraita Sources",
+      "Kdei Achizah Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items are the sequence of baraita objections and Gemara responses regarding whether the tefach adjacent to the meat is tahor or tamei, which is precisely what the 'Baraita Sources' section prose describes in detail.",
+      "chosen_heading": "Baraita Sources",
+      "current_heading": "Baraita Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Kdei Achizah Amount",
+    "candidates": [
+      "Kdei Achizah Amount",
+      "Tallit Identity Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the dispute between the two baraitot about the measure of kedei achizah (one vs. two tefachim) and Abaye's resolution, which is precisely what the 'Kdei Achizah Amount' prose describes.",
+      "chosen_heading": "Kdei Achizah Amount",
+      "current_heading": "Kdei Achizah Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Tallit Identity Loss",
+    "candidates": [
+      "Tallit Identity Loss",
+      "Majority Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the mishna about a garment that loses its tumah identity once the majority is torn, which is exactly what the prose under 'Tallit Identity Loss' discusses \u2014 the mechanism of identity loss through tearing past the majority.",
+      "chosen_heading": "Tallit Identity Loss",
+      "current_heading": "Tallit Identity Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Majority Concern",
+    "candidates": [
+      "Majority Concern",
+      "Rava's Objections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Na\u1e25man/Rabbah bar Avuha's qualification about tevulat yom and the reasoning behind it, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Majority Concern",
+      "current_heading": "Majority Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Rava's Objections",
+    "candidates": [
+      "Rava's Objections",
+      "Trust in Shiur",
+      "No Gezeirah Here"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Objections",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabba's two objections (tevulat yom concern and olas ha'of argument), which precisely match the 'Rava's Objections' prose describing those exact two challenges.",
+      "second_heading": "Trust in Shiur",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Yosef's two responses (kra mochiach aleha and kohanim zrizim heim), which precisely match the 'Trust in Shiur' prose describing those exact rebuttals.",
+      "current_heading": "Rava's Objections",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "No Gezeirah Here",
+    "candidates": [
+      "Trust in Shiur",
+      "No Gezeirah Here",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit \u2014 the gemara's challenge from the mishna about flaying (kedei achizah), the question of why no gezeirah is imposed, and the answer that this is tumah derabbanan \u2014 which precisely matches the prose of candidate 1 ('No Gezeirah Here').",
+      "chosen_heading": "No Gezeirah Here",
+      "current_heading": "No Gezeirah Here",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Treifa Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the objection about tahor person flaying a tamei animal (tumah deoraita) and the resolution that the mishna refers to a tereifa, which is precisely what the 'Biblical vs. Rabbinic' prose describes.",
+      "chosen_heading": "Biblical vs. Rabbinic",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Treifa Tumah",
+    "candidates": [
+      "Treifa Tumah",
+      "Shratzim Flaying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether a tereifa can impart impurity and cites Shmuel's father's teaching about tereifa slaughtered in the context of kodshim, which is precisely what the 'Treifa Tumah' section's prose describes.",
+      "chosen_heading": "Treifa Tumah",
+      "current_heading": "Treifa Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Shratzim Flaying",
+    "candidates": [
+      "Shratzim Flaying",
+      "Camel Skin",
+      "Neck Skin Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Dostai ben Yehuda's ruling about flaying sheratzim requiring complete removal, which is precisely what the 'Shratzim Flaying' section's prose discusses.",
+      "chosen_heading": "Shratzim Flaying",
+      "current_heading": "Shratzim Flaying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Neck Skin Resolution",
+    "candidates": [
+      "Camel Skin",
+      "Neck Skin Resolution",
+      "Bottom Cloth Remaining"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the initial inference about camel skin not being a chibur, and the gemara's rejection reinterpreting it as referring to neck skin \u2014 are precisely what the 'Neck Skin Resolution' prose describes, including the lo teima ha begamal eino chibur formulation and the Rabbi Yochanan ben Nuri reference.",
+      "chosen_heading": "Neck Skin Resolution",
+      "current_heading": "Neck Skin Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Bottom Cloth Remaining",
+    "candidates": [
+      "Bottom Cloth Remaining",
+      "Leather vs. Cloth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's ruling about leaving a ma'aforet-sized piece rendering the torn garment still connected (chibur), which is precisely what the 'Bottom Cloth Remaining' prose describes.",
+      "chosen_heading": "Bottom Cloth Remaining",
+      "current_heading": "Bottom Cloth Remaining",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Leather vs. Cloth",
+    "candidates": [
+      "Leather vs. Cloth",
+      "Yochanan's Leather Chall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the dispute between Reish Lakish and Rabbi Yo\u1e25anan about cloth vs. leather, which is precisely what Candidate 0's prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Leather vs. Cloth",
+      "current_heading": "Leather vs. Cloth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Yochanan's Leather Chall",
+    "candidates": [
+      "Yochanan's Leather Chall",
+      "Awl Transformation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 12 items form a continuous chain of objections to Reish Lakish's position about repairability rendering torn hides impure, beginning with Rabbi Yochanan's challenge from the hide/sandal mishna (items 1-2), through Rabbi Yirmeya's flaying objection (item 3), Rav Yosef's neck-hide objection (items 4-6), and Rabbi Yirmeya's oven objection with Rava's resolution (items 7-12), all belonging under the heading that discusses Rabbi Yochanan's challenge to Reish Lakish using the leather/cutting threshold case.",
+      "chosen_heading": "Yochanan's Leather Chall",
+      "current_heading": "Yochanan's Leather Chall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Awl Transformation",
+    "candidates": [
+      "Awl Transformation",
+      "Five Tefachim Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses oven purity/impurity thresholds (majority, four handbreadths, dividing into three), which does not match either candidate's prose about leather items, awls, and five tefachim \u2014 neither heading is a clearly good fit, but candidate 1 ('Five Tefachim Rule') at least discusses the logic of minimum functional thresholds for tahor status, which is marginally closer to the oven-majority discussion than the awl-transformation topic.",
+      "chosen_heading": "Five Tefachim Rule",
+      "current_heading": "Awl Transformation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Five Tefachim Rule",
+    "candidates": [
+      "Five Tefachim Rule",
+      "Cut Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage discusses the remains of small and large ovens and their minimum sizes for remaining impure \u2014 oven-impurity threshold rules \u2014 which fits neither candidate heading's prose well, but the current placement under 'Five Tefachim Rule' is marginally closer as it deals with minimum functional sizes for impurity purposes, so the current placement is retained.",
+      "chosen_heading": "Five Tefachim Rule",
+      "current_heading": "Five Tefachim Rule",
+      "moved": false
+    }
+  }
+]

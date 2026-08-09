@@ -1,0 +1,264 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Two Questions",
+    "candidates": [
+      "Lactation Proof",
+      "Two Questions",
+      "Purchase Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the two-sided dilemma about what Rabban Shimon ben Gamliel's chazaka means and its nafka mina regarding oto ve-et beno lashes, which is precisely what the 'Two Questions' prose describes in detail.",
+      "chosen_heading": "Two Questions",
+      "current_heading": "Two Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Purchase Case",
+    "candidates": [
+      "Purchase Case",
+      "Barn Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Purchase Case \u2014 Rabban Shimon ben Gamliel's ruling about buying a nursing animal from a gentile and the Gemara's rejection of the 'hu/haya' reading \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Purchase Case",
+      "current_heading": "Purchase Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Barn Case",
+    "candidates": [
+      "Barn Case",
+      "Case Comparison",
+      "Unresolved Doubt",
+      "Pig Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the barn case challenge, the mercy rejection, the vechen comparison, and its deflection \u2014 correspond precisely to candidate 1's prose about the 'Case Comparison' section, which discusses both the bimkom didah answer and the vechen/reisha-seifa inference and its rejection.",
+      "chosen_heading": "Case Comparison",
+      "current_heading": "Barn Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Pig Case",
+    "candidates": [
+      "Case Comparison",
+      "Unresolved Doubt",
+      "Pig Case",
+      "Mixed Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba bar bar \u1e24ana's ruling about the pig trailing after a ewe, which is precisely the case described and analyzed in the 'Pig Case' section's prose.",
+      "chosen_heading": "Pig Case",
+      "current_heading": "Pig Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Mixed Rulings",
+    "candidates": [
+      "Mixed Rulings",
+      "Resolution",
+      "Why Pig?",
+      "Testing Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's challenge to Rabba bar bar \u1e24ana's mixed ruling \u2014 pointing out the internal contradiction of following two opposing authorities simultaneously, questioning the use of 'yoreh tzedek' language vs. factual uncertainty language, and invoking the rule that halacha follows Rabban Shimon ben Gamliel \u2014 which is precisely what the 'Mixed Rulings' prose describes.",
+      "chosen_heading": "Mixed Rulings",
+      "current_heading": "Mixed Rulings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Testing Limits",
+    "candidates": [
+      "Resolution",
+      "Why Pig?",
+      "Testing Limits",
+      "Teiku",
+      "Rabbi Yossi",
+      "Hand vs. Tool"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 7 items are the continuous Gemara discussion about the pig-nursing-from-sheep case, exploring what A\u1e25ai b'Rabbi's dilemma was actually asking \u2014 branching into the Rabbis' position on cross-species mercy and Rabban Shimon ben Gamliel's position \u2014 which matches exactly the 'Testing Limits' prose describing the two-directional inquiry about the pig case.",
+      "chosen_heading": "Testing Limits",
+      "current_heading": "Testing Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Hand vs. Tool",
+    "candidates": [
+      "Teiku",
+      "Rabbi Yossi",
+      "Hand vs. Tool",
+      "Yom Tov Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself introducing Rabbi Yosei ben HaMeshullam's ruling about slaughtering a firstborn, which directly matches the 'Rabbi Yossi' section's prose that introduces and summarizes this exact Mishnah and its context.",
+      "chosen_heading": "Rabbi Yossi",
+      "current_heading": "Hand vs. Tool",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Yom Tov Q",
+    "candidates": [
+      "Hand vs. Tool",
+      "Yom Tov Q",
+      "Wine Barrel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the Yom Tov dilemma (kenegdo be-Yom Tov mahu), Rav Huna's resolution via Rav \u1e24ananel, and the final ruling that it is permitted \u2014 precisely the content described in the 'Yom Tov Q' prose.",
+      "chosen_heading": "Yom Tov Q",
+      "current_heading": "Yom Tov Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Wine Barrel",
+    "candidates": [
+      "Wine Barrel",
+      "Psik Reisha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24iyya bar Ashi's statement about the wine-barrel stopper (masuchraya denazaita) as a challenge to Rav's position, which is precisely what the 'Wine Barrel' section's prose describes and analyzes.",
+      "chosen_heading": "Wine Barrel",
+      "current_heading": "Wine Barrel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Psik Reisha",
+    "candidates": [
+      "Psik Reisha",
+      "Rav & Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the psik reisha principle and cites Abaye and Rava's ruling that Rabbi Shimon concedes in such cases, which is precisely what the 'Psik Reisha' section's prose discusses.",
+      "chosen_heading": "Psik Reisha",
+      "current_heading": "Psik Reisha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rav & Yehuda",
+    "candidates": [
+      "Rav & Yehuda",
+      "Different Acts",
+      "Yom Tov Method",
+      "Final Allow",
+      "Tosafot View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic dispute between Rav (ruling like Rabbi Yehuda) and Shmuel (ruling like Rabbi Shimon), which is precisely what the prose in section 0 discusses \u2014 the contradiction between Rav's position and the earlier assumption, and the transmission of these rulings by Rav \u1e24iyya bar Ashi and Rav \u1e24iyya bar Avin.",
+      "chosen_heading": "Rav & Yehuda",
+      "current_heading": "Rav & Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tosafot View",
+    "candidates": [
+      "Different Acts",
+      "Yom Tov Method",
+      "Final Allow",
+      "Tosafot View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rav's view that plucking is not shearing and that on Yom Tov the act is permitted because it constitutes uprooting in an unusual manner (ke-le'achar yad), which is precisely what the 'Yom Tov Method' prose discusses.",
+      "chosen_heading": "Yom Tov Method",
+      "current_heading": "Tosafot View",
+      "moved": true
+    }
+  }
+]

@@ -1,18 +1,16 @@
-# Berakhot 16 — Daf Yomi Shiur
-
+[DAF:16a]
 ## Kavana in Shema
 
-### Formal Act of Shema
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוּדָה מִשּׁוּם רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה: הַקּוֹרֵא אֶת שְׁמַע צָרִיךְ שֶׁיַּשְׁמִיעַ לְאׇזְנוֹ, שֶׁנֶּאֱמַר: ״שְׁמַע יִשְׂרָאֵל״. אָמַר לוֹ רַבִּי מֵאִיר: הֲרֵי הוּא אוֹמֵר: ״אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם עַל לְבָבֶךָ״, אַחַר כַּוָּנַת הַלֵּב הֵן הֵן הַדְּבָרִים.
->
-> **Translation:** **Rabbi Yehuda said in the name of Rabbi Elazar ben Azarya: One who recites *Shema* must make it audible to his ears, as it is stated: "Hear, Israel," the Lord is our God, the Lord is One." Rabbi Meir said to him: But it says: "Which I command you this day, upon your heart"; meaning that the** significance of the **words follows the intention of the heart** and even *ab initio* one need not recite *Shema* audibly.
+
+### Formal Act of Shema
 
 The present daf, 16, opens by shifting gears from the discussions of the previous perek, which focused on the formal precision of the act of reciting *shema* — whether one must audibly hear what one is saying, whether letters must be carefully enunciated, and so on. Before moving to the next *mishna*, it is worth noting a final observation about those earlier discussions: those demands reflect the character of *krias shema* as a formal act. *Lechatchila*, we do require that one hear one's own recitation and that the letters be carefully enunciated. But *b'diavad*, even if neither of those requirements was met, one has fulfilled the obligation — and this is because of the emphasis on *achar kavanat halev hadvarim*, the principle that what ultimately animates the act is the intention of the heart. At the end of the day, *krias shema* is an act of *kabbalas ol malchus shamayim*, and even if the recitation is not entirely perfect, one is *yotzei*.
 
 It is worth noting that this entire discussion — about audibility, about precise enunciation — does not appear in connection with *davening*, with *Shmoneh Esrei*. There, too, one is supposed to recite softly, and there, too, one might have raised questions about *medakdek*, about careful pronunciation, yet none of this surfaces in the context of *tefila*. Part of the reason is that *krias shema* involves a formal act of reciting — a text that comes from the *Torah* itself — and that formal act naturally generates *lechatchila* criteria. But *b'diavad*, since the animating purpose is *kabbalas ol malchus shamayim* through speech and thought together, as the *braita* citing Rabbi Meir emphasizes from the words *al levavecha*, the *mitzvah* can be fulfilled even when the formal precision of the act falls short.
 
 ### Three Kavana Categories
+
 
 A student raised the question of what precisely *kavana* means across various *sugyot*, since in some contexts it seems to denote intent to fulfill the *mitzvah*, while in others it seems to mean comprehension of the words. In the context of *tefila*, where the *Rambam* and other commentators lay out the issue most fully, there are in fact three distinct categories of *kavana*.
 
@@ -30,13 +28,14 @@ This connects to a deeper philosophical point: to what degree is speech simply e
 
 ---
 
-## Workers at Height (II)
+## Workers at Height
 
-### Mishna: Workers Read Aloft
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאוּמָּנִין — קוֹרִין בְּרֹאשׁ הָאִילָן וּבְרֹאשׁ הַנִּדְבָּךְ. מַה שֶּׁאֵינָן רַשָּׁאִין לַעֲשׂוֹת כֵּן בַּתְּפִלָּה.
->
-> **Translation:** MISHNA: **Laborers** engaged in their work may **recite** *Shema* while standing **atop the tree or atop the course of stones** in a wall under construction, **which they are not permitted to do for** the *Amida* **prayer,** which requires intent of the heart.
+
+### Workers: Shema Aloft
+
+> **Hebrew/Aramaic:** מַתְנִי׳ הָאוּמָּנִין — קוֹרִין בְּרֹאשׁ הָאִילָן וּבְרֹאשׁ הַנִּדְבָּךְ. מַה שֶּׁאֵינָן רַשָּׁאִין לַעֲשׂוֹת כֵּן בַּתְּפִלָּה.
+> **Translation:** MISHNA: The primary issue in this mishna is the requisite degree of concentration when reciting *Shema*. **Laborers** engaged in their work may **recite** *Shema* while standing **atop the tree or atop the course of stones** in a wall under construction, **which they are not permitted to do for** the *Amida* **prayer,** which requires intent of the heart.
 
 The *mishna* states: *ha'umnin korin berosh ha'ilan uverosh hanidbach* — laborers who are at the top of a tree picking fruit, or at the top of a layer of scaffolding at a construction site, may recite *shema* from where they are and need not descend. *Mah she'ein ken la'asos ken bitefila* — this is not the case for *davening*, where the requirements of *kavana* are far more stringent and *Chazal* insist on a settled state of mind before one may pray.
 
@@ -46,17 +45,18 @@ This *mishna* touches on a tension that plays out constantly: the balance betwee
 
 ---
 
-## Groom Exemption (III)
+## Groom Exemption
+
+
 
 ### Groom Exempt Mishna
-
-> **Hebrew/Aramaic:** חָתָן פָּטוּר מִקְּרִיאַת שְׁמַע לַיְלָה הָרִאשׁוֹנָה וְעַד מוֹצָאֵי שַׁבָּת אִם לֹא עָשָׂה מַעֲשֶׂה. וּמַעֲשֶׂה בְּרַבָּן גַּמְלִיאֵל שֶׁנָּשָׂא אִשָּׁה וְקָרָא לַיְלָה הָרִאשׁוֹנָה. אָמְרוּ לוֹ תַּלְמִידָיו: לִמַּדְתָּנוּ רַבֵּינוּ שֶׁחָתָן פָּטוּר מִקְּרִיאַת שְׁמַע? אָמַר לָהֶם אֵינִי שׁוֹמֵעַ לָכֶם לְבַטֵּל הֵימֶנִי מַלְכוּת שָׁמַיִם אֲפִילּוּ שָׁעָה אַחַת.
->
-> **Translation:** MISHNA: **A groom is exempt from the recitation of *Shema* on the first night** of his marriage, which was generally Wednesday night, **until Saturday night, if he has not taken action** and consummated the marriage, as he is preoccupied by concerns related to consummation of the marriage. The mishna relates that **there was an incident where Rabban Gamliel married a woman and recited** *Shema* even **the first night. His students said to him: Didn't our teacher teach us that a groom is exempt from the recitation of *Shema*? He answered them:** Nevertheless, **I am not listening to you** to refrain from reciting *Shema*, and in so doing **preclude myself from** the acceptance of **the yoke of the Kingdom of Heaven, for even one moment.**
 
 The *mishna* continues: *chasan patur mikrias Shema lailah harishon ve'ad motza'ei Shabbos im lo asah ma'aseh* — a groom is exempt from *krias shema* on the first night, and indeed until Saturday night, provided the couple has not yet had marital relations. The background is that according to the beginning of Kesuvos, a marriage takes place on Wednesday; there are thus four nights — Wednesday, Thursday, Friday, and Saturday night — during which the exemption applies. After that point, either the urgency has passed or the groom has grown accustomed to the situation, and he is no longer considered so preoccupied as to be exempt.
 
 ### Rabban Gamliel Reads
+
+> **Hebrew/Aramaic:** חָתָן פָּטוּר מִקְּרִיאַת שְׁמַע לַיְלָה הָרִאשׁוֹנָה וְעַד מוֹצָאֵי שַׁבָּת אִם לֹא עָשָׂה מַעֲשֶׂה. וּמַעֲשֶׂה בְּרַבָּן גַּמְלִיאֵל שֶׁנָּשָׂא אִשָּׁה וְקָרָא לַיְלָה הָרִאשׁוֹנָה. אָמְרוּ לוֹ תַּלְמִידָיו: לִמַּדְתָּנוּ רַבֵּינוּ שֶׁחָתָן פָּטוּר מִקְּרִיאַת שְׁמַע? אָמַר לָהֶם אֵינִי שׁוֹמֵעַ לָכֶם לְבַטֵּל הֵימֶנִי מַלְכוּת שָׁמַיִם אֲפִילּוּ שָׁעָה אַחַת.
+> **Translation:** The mishna continues: **A groom is exempt from the recitation of *Shema* on the first night** of his marriage, which was generally Wednesday night, **until Saturday night, if he has not taken action** and consummated the marriage, as he is preoccupied by concerns related to consummation of the marriage. The mishna relates that **there was an incident where Rabban Gamliel married a woman and recited** *Shema* even **the first night. His students said to him: Didn’t our teacher teach us that a groom is exempt from the recitation of *Shema*? He answered them:** Nevertheless, **I am not listening to you** to refrain from reciting *Shema*, and in so doing **preclude myself from** the acceptance of **the yoke of the Kingdom of Heaven, for even one moment.**
 
 The *mishna* then records: *ma'aseh beRabban Gamliel shenasa ishah vekara lailah harishon* — Rabban Gamliel married and recited *shema* on the very first night. His students said to him: *limadtanu rabbeinu shechasan patur mikrias Shema* — have you not taught us yourself that a groom is exempt? Rabban Gamliel replied: *eini shome'a lachem levatel mimeni malchus shamayim afilu sha'ah achas* — I will not listen to you in order to set aside from myself the yoke of heaven even for one moment.
 
@@ -66,26 +66,23 @@ This response underscores the dual nature of the concept of *kabbalas ol malchus
 
 ## Workers at Height (II)
 
+
+
 ### Shema Aloft, Tefila Below
 
-> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: הָאוּמָּנִין — קוֹרִין בְּרֹאשׁ הָאִילָן וּבְרֹאשׁ הַנִּדְבָּךְ. וּמִתְפַּלְּלִין בְּרֹאשׁ הַזַּיִת וּבְרֹאשׁ הַתְּאֵנָה. וּשְׁאָר כָּל הָאִילָנוֹת — יוֹרְדִים לְמַטָּה וּמִתְפַּלְּלִין. וּבַעַל הַבַּיִת, בֵּין כָּךְ וּבֵין כָּךְ יוֹרֵד לְמַטָּה וּמִתְפַּלֵּל, לְפִי שֶׁאֵין דַּעְתּוֹ מְיוּשֶּׁבֶת עָלָיו.
->
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: הָאוּמָּנִין — קוֹרִין בְּרֹאשׁ הָאִילָן וּבְרֹאשׁ הַנִּדְבָּךְ. וּמִתְפַּלְּלִין בְּרֹאשׁ הַזַּיִת וּבְרֹאשׁ הַתְּאֵנָה. וּשְׁאָר כָּל הָאִילָנוֹת — יוֹרְדִים לְמַטָּה וּמִתְפַּלְּלִין. וּבַעַל הַבַּיִת, בֵּין כָּךְ וּבֵין כָּךְ יוֹרֵד לְמַטָּה וּמִתְפַּלֵּל, לְפִי שֶׁאֵין דַּעְתּוֹ מְיוּשֶּׁבֶת עָלָיו.
 > **Translation:** GEMARA: With regard to laborers, **the Sages taught** in a *Tosefta*: **Laborers,** while engaged in their labor, may **recite** *Shema* while standing **atop the tree or atop the course of stones** in a wall under construction. **And they** may **pray atop the olive tree or the fig tree,** as those trees have many branches close together, so one could stand on them and focus properly while praying. In the case of **all the rest of the trees,** however, **they must climb down and pray.** However, **the homeowner,** who is self-employed, **in all cases,** regardless of the type of tree, **must climb down and pray, as he will be unable to focus appropriately.** Since, in contrast to the laborers, it is his prerogative to climb down and pray, the Sages did not permit him to pray atop the tree.
 
-> **Hebrew/Aramaic:** רָמֵי לֵיהּ רַב מָרִי בְּרַהּ דְּבַת שְׁמוּאֵל לְרָבָא, תְּנַן: הָאוּמָּנִין קוֹרִין בְּרֹאשׁ הָאִילָן וּבְרֹאשׁ הַנִּדְבָּךְ, אַלְמָא לָא בָּעֵי כַּוָּנָה. וּרְמִינְהִי: הַקּוֹרֵא אֶת שְׁמַע צָרִיךְ שֶׁיְּכַוֵּין אֶת לִבּוֹ, שֶׁנֶּאֱמַר: ״שְׁמַע יִשְׂרָאֵל״, וּלְהַלָּן הוּא אוֹמֵר: ״הַסְכֵּת וּשְׁמַע יִשְׂרָאֵל״. מַה לְּהַלָּן בְּ״הַסְכֵּת״ אַף כָּאן בְּ״הַסְכֵּת״.
->
-> **Translation:** **Rav Mari, son of the daughter of Shmuel, raised a contradiction before Rava: We learned** in our mishna: **Laborers may recite** *Shema* **atop the tree or atop the course of stones** in a wall under construction. **We see that he does not require intent,** simple recitation is sufficient. **And he raised a contradiction** from the verbal analogy taught in a *baraita*: **One who recites *Shema* must focus his heart, as it is stated: "Hear [*Shema*], Israel." And below,** later in Deuteronomy, **it says: "Pay attention, and hear [*shema*], Israel"** (Deuteronomy 27:9). **Just as there** one must **pay attention, so too here** one must **pay attention.**
+> **Hebrew/Aramaic:** רָמֵי לֵיהּ רַב מָרִי בְּרַהּ דְּבַת שְׁמוּאֵל לְרָבָא, תְּנַן: הָאוּמָּנִין קוֹרִין בְּרֹאשׁ הָאִילָן וּבְרֹאשׁ הַנִּדְבָּךְ, אַלְמָא לָא בָּעֵי כַּוָּנָה. וּרְמִינְהִי: הַקּוֹרֵא אֶת שְׁמַע צָרִיךְ שֶׁיְּכַוֵּין אֶת לִבּוֹ, שֶׁנֶּאֱמַר: ״שְׁמַע יִשְׂרָאֵל״, וּלְהַלָּן הוּא אוֹמֵר: ״הַסְכֵּת וּשְׁמַע יִשְׂרָאֵל״. מַה לְּהַלָּן בְּ״הַסְכֵּת״ אַף כָּאן בְּ״הַסְכֵּת״.
+> **Translation:** **Rav Mari, son of the daughter of Shmuel, raised a contradiction before Rava: We learned** in our mishna: **Laborers may recite** *Shema* **atop the tree or atop the course of stones** in a wall under construction. **We see that he does not require intent,** simple recitation is sufficient. **And he raised a contradiction** from the verbal analogy taught in a *baraita*: **One who recites *Shema* must focus his heart, as it is stated: “Hear [*Shema*], Israel.” And below,** later in Deuteronomy, **it says: “Pay attention, and hear [*shema*], Israel”** (Deuteronomy 27:9). **Just as there** one must **pay attention, so too here** one must **pay attention.**
 
-> **Hebrew/Aramaic:** אִשְׁתִּיק. אֲמַר לֵיהּ: מִידֵּי שְׁמִיעַ לָךְ בְּהָא? אֲמַר לֵיהּ: הָכִי אָמַר רַב שֵׁשֶׁת — וְהוּא שֶׁבְּטֵלִין מִמְּלַאכְתָּן וְקוֹרִין.
->
+> **Hebrew/Aramaic:** אִשְׁתִּיק. אֲמַר לֵיהּ: מִידֵּי שְׁמִיעַ לָךְ בְּהָא? אֲמַר לֵיהּ: הָכִי אָמַר רַב שֵׁשֶׁת — וְהוּא שֶׁבְּטֵלִין מִמְּלַאכְתָּן וְקוֹרִין.
 > **Translation:** Rava **was silent** as he had no response. But **he said to him: Have you heard anything on this** matter? **He replied: Rav Sheshet said as follows: And this** *halakha*, that laborers may recite *Shema* atop the tree only applies **when they are idle from their work and recite** it so they can focus their hearts.
 
-> **Hebrew/Aramaic:** וְהָתַנְיָא: בֵּית הִלֵּל אוֹמְרִים עוֹסְקִים בִּמְלַאכְתָּן וְקוֹרִין!
->
-> **Translation:** The Gemara challenges this: **But wasn't it taught** in a *baraita* that **Beit Hillel say:** Laborers **engage in their labor and recite** *Shema*?
+> **Hebrew/Aramaic:** וְהָתַנְיָא: בֵּית הִלֵּל אוֹמְרִים עוֹסְקִים בִּמְלַאכְתָּן וְקוֹרִין!
+> **Translation:** The Gemara challenges this: **But wasn’t it taught** in a *baraita* that **Beit Hillel say:** Laborers **engage in their labor and recite** *Shema*?
 
-> **Hebrew/Aramaic:** לָא קַשְׁיָא: הָא בְּפֶרֶק רִאשׁוֹן, הָא בְּפֶרֶק שֵׁנִי.
->
+> **Hebrew/Aramaic:** לָא קַשְׁיָא: הָא בְּפֶרֶק רִאשׁוֹן, הָא בְּפֶרֶק שֵׁנִי.
 > **Translation:** The Gemara responds: **This is not difficult. This,** which says that laborers must be idle from their labor, is referring to a case when they are reciting **the first paragraph** of *Shema*, **while that,** which says that they may continue to work, is in a case when they are reciting **the second paragraph.**
 
 The *gemara* now cites a *braita*: *ha'umnin korin berosh ha'ilan uverosh hanidbach* — the laborers may read *shema* at the top of the tree and at the top of the scaffold. *Umispallelin berosh hazayis uverosh hate'ena* — they may daven at the top of an olive tree or a fig tree. The distinction is that in most trees there is a real concern of falling, which would prevent proper *kavana* for *tefila*. But olive trees and fig trees — with their broad, low bases — allow one to be situated securely enough to daven without fear. *Resh kol ha'ilanos yored lemata umispallel* — for all other trees, one must descend to daven.
@@ -104,49 +101,15 @@ This raises a related question: when these workers say *shema*, are they saying 
 
 ### Employer's Obligation
 
-> **Hebrew/Aramaic:** וּבַעַל הַבַּיִת בֵּין כָּךְ וּבֵין כָּךְ יוֹרֵד לְמַטָּה וּמִתְפַּלֵּל, לְפִי שֶׁאֵין דַּעְתּוֹ מְיוּשֶּׁבֶת עָלָיו.
->
-> **Translation:** However, **the homeowner,** who is self-employed, **in all cases,** regardless of the type of tree, **must climb down and pray, as he will be unable to focus appropriately.**
-
-*Uva'al habayis bein kach uvein kach yored lemata umispallel* — the owner himself, however, must always descend to daven, regardless of what type of tree he is in. Rashi's explanation is that everyone has the same problem of insufficient *kavana* when aloft, but in the case of the workers, that deficit is balanced against the cost to the employer. The employer bears no such counterbalancing consideration — he loses nothing by descending except his own time and effort — and therefore, even where fear of falling is not an issue, we still require him to come down. He cannot achieve the settled state of mind needed for *tefila* while up in the tree, and since there is no competing obligation to someone else, he must make the sacrifice.
+*Uva'al habayis bein kach uvein kach yored lemata umispallel* — the owner himself, however, must always descend to daven, regardless of what type of tree he is in. Rashi's explanation is that everyone has the same problem of insufficient *kavana* when aloft, but in the case of the workers, that deficit is balanced against the cost to the employer. The employer bears no such counterbalancing consideration — he loses nothing by descending except his own time and effort — and therefore, even where fear of falling is not an issue, we still require him to come down. He cannot achieve the settled state of mind needed for *tefila* while up in the tree, and since there is no competing obligation to someone else, he must make the sacrifice. It is worth noting that this explanation is not entirely without difficulty: one might ask why the employer should have a greater problem with *kavana* than his workers, given that they are all in the same physical situation. Rashi's answer, it seems, is not that the employer's *kavana* is worse as a matter of psychology, but rather that the workers' insufficient *kavana* is tolerated precisely because the alternative would impose a loss on another person. Remove that factor, and the same deficiency that exists in every case becomes intolerable — not because anything has changed internally, but because the external justification for overlooking it has fallen away.
 
 ---
 
-## Groom Exemption (III) (Gemara)
+## Groom Exemption (II)
+
+
 
 ### Exemption Grounds
-
-> **Hebrew/Aramaic:** חָתָן פָּטוּר מִקְּרִיאַת שְׁמַע. תָּנוּ רַבָּנַן: ״בְּשִׁבְתְּךָ בְּבֵיתֶךָ״ — פְּרָט לְעוֹסֵק בְּמִצְוָה. ״וּבְלֶכְתְּךָ בַּדֶּרֶךְ״ — פְּרָט לְחָתָן. מִכָּאן אָמְרוּ: הַכּוֹנֵס אֶת הַבְּתוּלָה — פָּטוּר, וְאֶת הָאַלְמָנָה — חַיָּיב.
->
-> **Translation:** We learned in the mishna that **a groom is exempt from the recitation of *Shema*** on the first night of his marriage. **The Sages taught** the source of this *halakha* in a *baraita* based on the verse: "When you sit in your home, and when you walk along the way." **When you sit in your home, to the exclusion of one who is engaged in** performance of a **mitzva,** who is exempt from the recitation of *Shema*; **and when you walk along the way, to the exclusion of a groom,** who is also exempt from the recitation of *Shema*. The *baraita* adds that **from here,** from this interpretation of the verses, **they said: One who marries a virgin is exempt** from the recitation of *Shema* on his wedding night, **but one who marries a widow is obligated.**
-
-> **Hebrew/Aramaic:** מַאי מַשְׁמַע? אָמַר רַב פָּפָּא: כִּי דֶרֶךְ. מָה דֶּרֶךְ רְשׁוּת, אַף הָכָא נָמֵי רְשׁוּת.
->
-> **Translation:** The Gemara clarifies the meaning of this baraita, and asks: **From where is it inferred** that the verse: "When you walk along the way," enables us to derive that a groom is exempt from the obligation to recite Shema? **Rav Pappa said** that it is derived: **Like the way; just as** the journey along a specific **way** described in the verse **is voluntary** and involves no mitzva, **so too all** of those who are obligated to recite *Shema* are engaged in **voluntary activities.** However, one engaged in performance of a mitzva is exempt from the obligation to recite *Shema*.
-
-> **Hebrew/Aramaic:** מִי לָא עָסְקִינַן דְּקָאָזֵיל לִדְבַר מִצְוָה, וַאֲפִילּוּ הָכִי אָמַר רַחֲמָנָא: לִיקְרֵי.
->
-> **Translation:** The Gemara asks: **Are we not dealing with** a case where one is walking along **on his way to** perform **a mitzva; nevertheless, the Torah said to recite** *Shema*, indicating that he is obligated even if he set out to perform a mitzva.
-
-> **Hebrew/Aramaic:** אִם כֵּן, לֵימָא קְרָא ״בְּלֶכֶת״, מַאי ״בְּלֶכְתְּךָ״ — שְׁמַע מִינַּהּ: בְּלֶכֶת דִּידָךְ הוּא דִּמְחַיְּיבַתְּ, הָא דְמִצְוָה — פְּטִירַתְּ.
->
-> **Translation:** The Gemara explains: **If so,** that the intention was to obligate in all cases, **let the Torah say: When walking** along the way. **What is** the meaning of: **When you walk** along the way? **Conclude from this: It is** in a case **of your walking,** meaning that when you do this for your own purposes and of your own volition, **you are obligated** to recite *Shema*, **but** when you go with the objective **of** performing a **mitzva, you are exempt.**
-
-> **Hebrew/Aramaic:** אִי הָכִי מַאי אִירְיָא הַכּוֹנֵס אֶת הַבְּתוּלָה? אֲפִילּוּ כּוֹנֵס אֶת הָאַלְמָנָה נָמֵי.
->
-> **Translation:** The Gemara questions this: **If so, why discuss** a case of **one who is marrying a virgin** in particular? **Even one who is marrying a widow** is performing a mitzva and should **also** be exempt.
-
-> **Hebrew/Aramaic:** הָכָא — טְרִיד, וְהָכָא — לָא טְרִיד.
->
-> **Translation:** The Gemara responds that nevertheless, there is a distinction between one marrying a virgin and one marrying a widow. **Here,** in the case of one who marries a virgin, the groom is **preoccupied** by his thoughts, **while here,** in the case of one who marries a widow, **he is not preoccupied.**
-
-> **Hebrew/Aramaic:** אִי מִשּׁוּם טִרְדָּא, אֲפִילּוּ טָבְעָה סְפִינָתוֹ בַּיָּם נָמֵי, אַלְּמָה אָמַר רַבִּי אַבָּא בַּר זַבְדָּא אָמַר רַב: אָבֵל חַיָּיב בְּכָל מִצְוֹת הָאֲמוּרוֹת בַּתּוֹרָה, חוּץ מִן הַתְּפִילִּין שֶׁהֲרֵי נֶאֱמַר בָּהֶן ״פְּאֵר״, שֶׁנֶּאֱמַר ״פְּאֵרְךָ חֲבוֹשׁ עָלֶיךָ וְגוֹ׳״!
->
-> **Translation:** The Gemara challenges: **If** a groom is exempt from the recitation of *Shema* simply **due to preoccupation,** then **even** one who is preoccupied because **his ship sank at sea should** be exempt. If so, **why then did Rabbi Abba bar Zavda say** that **Rav said: A mourner is obligated in all the mitzvot mentioned in the Torah except for** the mitzva to don **phylacteries, as** the term **splendor is stated** with regard to phylacteries, **as it is stated** that the prophet Ezekiel was prohibited to mourn and was told: **"Bind your splendor upon yourself"** (Ezekiel 24:17). If even a mourner, who is pained and preoccupied, is obligated to recite *Shema*, clearly preoccupation has no bearing upon one's obligation.
-
-> **Hebrew/Aramaic:** אָמְרִי הָתָם טִרְדָּא דִרְשׁוּת הָכָא טִרְדָּא דְמִצְוָה.
->
-> **Translation:** The Gemara responds: Nevertheless, there is a distinction between the cases. **There,** it is a case of **preoccupation with a voluntary** act, as there is no mitzva to be preoccupied with his mourning, but **here,** in the case of a groom, the cause of **the preoccupation is** the **mitzva** itself.
 
 The *gemara* now turns to the theoretical basis for the groom's exemption. The *braita* derives from the verse *beshivtecha beveisecha* that one engaged in a *mitzvah* is exempt from *shema* — *perat le'osek bamitzvah* — and from *uvlechtecha vaderech* that a groom is exempt — *perat lechasan*. The *braita* then states: *hakoneh es habesulah patur ve'es ha'almanah chayav* — one marrying a virgin is exempt, but one marrying a widow is obligated. Presumably the difference lies in the greater anxiety surrounding the wedding night with a virgin, including the *halakhic* concerns about *betulim* detailed in Kesuvos.
 
@@ -164,25 +127,16 @@ This also bears on the case of Rabban Gamliel. According to the *gemara*, if the
 
 ## Worker Meal Rights
 
+
+
 ### Worker Obligations
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַפּוֹעֲלִים שֶׁהָיוּ עוֹשִׂים מְלָאכָה אֵצֶל בַּעַל הַבַּיִת, קוֹרִין קְרִיאַת שְׁמַע וּמְבָרְכִין לְפָנֶיהָ וּלְאַחֲרֶיהָ. וְאוֹכְלִין פִּתָּן וּמְבָרְכִין לְפָנֶיהָ וּלְאַחֲרֶיהָ, וּמִתְפַּלְּלִין תְּפִלָּה שֶׁל שְׁמוֹנֶה עֶשְׂרֵה. אֲבָל אֵין יוֹרְדִין לִפְנֵי הַתֵּיבָה, וְאֵין נוֹשְׂאִין כַּפֵּיהֶם.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַפּוֹעֲלִים שֶׁהָיוּ עוֹשִׂין מְלָאכָה אֵצֶל בַּעַל הַבַּיִת, קוֹרִין קְרִיאַת שְׁמַע וּמְבָרְכִין לְפָנֶיהָ וּלְאַחֲרֶיהָ. וְאוֹכְלִין פִּתָּן וּמְבָרְכִין לְפָנֶיהָ וּלְאַחֲרֶיהָ, וּמִתְפַּלְּלִין תְּפִלָּה שֶׁל שְׁמוֹנֶה עֶשְׂרֵה. אֲבָל אֵין יוֹרְדִין לִפְנֵי הַתֵּיבָה, וְאֵין נוֹשְׂאִין כַּפֵּיהֶם.
 > **Translation:** **The Sages taught** in a *Tosefta*: **Laborers who were working for a homeowner** are obligated to **recite *Shema* and recite the blessings before it and after it; and** when they **eat their bread they** are obligated to **recite the blessing before and after it; and they** are obligated to **recite the *Amida* prayer. However, they do not descend before the ark** as communal prayer leaders **and** the priests among them **do not lift their hands** to recite the Priestly Blessing, so as not to be derelict in the duties they were hired to perform.
 
+The *gemara* cites a *braita*: *hapoalim shehayu osim melacha etzel baal habayis, korin krias shema umvarchin lefaneha uleachareha* — workers employed by a homeowner may recite *shema* and may make the *brachos* both before and after it. *V'ochlin pittan umvarchin lefaneha uleachareha* — they may eat their bread and make the *bracha* beforehand and bentch afterward. *Umispallelin tefilas shel shmoneh esrei* — and they may daven the full *Shmoneh Esrei*.
+
 ### Meal Blessings
-
-> **Hebrew/Aramaic:** וְהָתַנְיָא מֵעֵין שְׁמוֹנֶה עֶשְׂרֵה! אָמַר רַב שֵׁשֶׁת: לָא קַשְׁיָא, הָא — רַבָּן גַּמְלִיאֵל, הָא — רַבִּי יְהוֹשֻׁעַ.
->
-> **Translation:** The Gemara challenges this: **Didn't we learn** in a different *baraita* that laborers recite an abridged prayer consisting of **a microcosm of the *Amida* prayer** in place of the full *Amida* prayer? **Rav Sheshet said: This is not difficult. This** *baraita* obligating laborers to recite the full *Amida* prayer is in accordance with the opinion of **Rabban Gamliel,** as he holds that one must always recite the full eighteen blessings. **This** *baraita* which allows laborers to abridge their prayers is in accordance with the opinion of **Rabbi Yehoshua,** who permits one to abridge the *Amida* prayer.
-
-> **Hebrew/Aramaic:** אִי רַבִּי יְהוֹשֻׁעַ, מַאי אִירְיָא פּוֹעֲלִים? אֲפִילּוּ כָּל אָדָם נָמֵי!
->
-> **Translation:** The Gemara objects: But **if** this *baraita* is in accordance with the opinion of **Rabbi Yehoshua, why** did the *baraita* **discuss** a case involving **laborers** in particular? Rabbi Yehoshua holds that **every person may also** recite an abridged version of the *Amida* prayer.
-
-> **Hebrew/Aramaic:** אֶלָּא אִידֵּי וְאִידֵּי רַבָּן גַּמְלִיאֵל, וְלָא קַשְׁיָא: כָּאן, בְּעוֹשִׂין בִּשְׂכָרָן. כָּאן, בְּעוֹשִׂין בִּסְעוּדָתָן.
->
-> **Translation:** **Rather,** we must say that **this** *baraita* and **that** *baraita* are both in accordance with the opinion of **Rabban Gamliel, and this is not difficult: Here,** in the *baraita* where laborers pray the abridged version of the *Amida* prayer, refers to a case **where** laborers **work for their wage** beyond the meal provided by their employer; **while here,** in the *baraita* where laborers must pray the full *Amida* prayer, refers to a case **where** laborers **work** only **for their meal.**
 
 The *hava amina* that the *gemara* is implicitly displacing here is striking: one might have thought that a worker's responsibility to his employer was so pressing that he could not take even the moment required to say *Hamotzi lechem min ha'aretz* before eating. The *braita* rules that these basic ritual requirements — the *brachos* of *shema*, *Hamotzi*, and benching — are all permitted, because *Chazal* treat them as implicit terms of any employment arrangement. Once the law declares these acts permissible, the implicit structure of the employment agreement incorporates them.
 
@@ -192,37 +146,34 @@ The ordering of activities in the *braita* — *shema* with its *brachos*, then 
 
 ### Prayer Restrictions
 
-> **Hebrew/Aramaic:** וְהָתַנְיָא: הַפּוֹעֲלִים שֶׁהָיוּ עוֹשִׂים מְלָאכָה אֵצֶל בַּעַל הַבַּיִת — קוֹרִין קְרִיאַת שְׁמַע וּמִתְפַּלְּלִין. וְאוֹכְלִין פִּתָּן — וְאֵין מְבָרְכִים לְפָנֶיהָ, אֲבָל מְבָרְכִין לְאַחֲרֶיהָ שְׁתַּיִם. כֵּיצַד? בְּרָכָה רִאשׁוֹנָה כְּתִקּוּנָהּ, שְׁנִיָּה פּוֹתֵחַ בְּבִרְכַּת הָאָרֶץ וְכוֹלְלִין ״בּוֹנֵה יְרוּשָׁלָיִם״ בְּבִרְכַּת הָאָרֶץ.
->
-> **Translation:** **And** indeed **it was taught** in a *baraita*: **Laborers who were performing labor for the homeowner recite *Shema* and pray; and** when they **eat their bread they do not recite a blessing beforehand** because the blessing recited before food is only an obligation by rabbinic law, **but they recite two** of the three blessings normally recited in **the blessing thereafter,** the Grace after Meals, which is an obligation by Torah law. **How so? The first blessing** is recited **in its standard** formula; **the second blessing, he begins** to recite **the blessing of the land and they include** the blessing: **Who builds Jerusalem within the blessing of the land,** at which point they conclude the Grace after Meals.
-
-> **Hebrew/Aramaic:** בַּמֶּה דְּבָרִים אֲמוּרִים — בְּעוֹשִׂין בִּשְׂכָרָן, אֲבָל עוֹשִׂין בִּסְעוּדָתָן אוֹ שֶׁהָיָה בַּעַל הַבַּיִת מֵיסֵב עִמָּהֶן — מְבָרְכִין כְּתִיקּוּנָהּ.
->
-> **Translation:** **In what** case **is this said?** This is said **with regard to** laborers **who work for their wage, but** if they **work for their meal or if the homeowner reclined** and ate the meal **with them, they recite the blessings in their standard** formula.
-
 The *braita* continues: *aval ein yordin lifnei hateivah* — but workers may not serve as *shliach tzibur* at a *shul*, nor may they perform *birkas kohanim*. The prohibition on going to *shul* to lead the service is fairly obvious, but the addition of *birkas kohanim* reflects an analogous logic: one might think that a *kohen* among the workers has a special obligation — a role that depends on him — that would justify leaving work. The *braita* rules that it does not.
 
 ### Shortened Prayer
 
-> **Hebrew/Aramaic:** וְהָתַנְיָא מֵעֵין שְׁמוֹנֶה עֶשְׂרֵה! אָמַר רַב שֵׁשֶׁת: לָא קַשְׁיָא, הָא — רַבָּן גַּמְלִיאֵל וְהָא — רַבִּי יְהוֹשֻׁעַ.
->
-> **Translation:** The Gemara cites a *baraita* permitting workers to say only *me'ein shmoneh esrei*, the abridged *Shmoneh Esrei* known as *Havineinu* — the first three *brachos*, a middle summary paragraph encapsulating all the middle petitions, and the final three *brachos*. **The *gemara* says: This is a dispute. Rabbi Yehoshua holds that the abridged form may be used by anyone, any day. Rabban Gamliel holds the full *Shmoneh Esrei* is required except under special circumstances.**
+> **Hebrew/Aramaic:** וְהָתַנְיָא מֵעֵין שְׁמוֹנֶה עֶשְׂרֵה! אָמַר רַב שֵׁשֶׁת: לָא קַשְׁיָא, הָא — רַבָּן גַּמְלִיאֵל, הָא — רַבִּי יְהוֹשֻׁעַ.
+> **Translation:** The Gemara challenges this: **Didn’t we learn** in a different *baraita* that laborers recite an abridged prayer consisting of **a microcosm of the *Amida* prayer** in place of the full *Amida* prayer? **Rav Sheshet said: This is not difficult. This** *baraita* obligating laborers to recite the full *Amida* prayer is in accordance with the opinion of **Rabban Gamliel,** as he holds that one must always recite the full eighteen blessings. **This** *baraita* which allows laborers to abridge their prayers is in accordance with the opinion of **Rabbi Yehoshua,** who permits one to abridge the *Amida* prayer.
 
-> **Hebrew/Aramaic:** אִי רַבִּי יְהוֹשֻׁעַ, מַאי אִירְיָא פּוֹעֲלִים? אֲפִילּוּ כָּל אָדָם נָמֵי!
->
-> **Translation:** The Gemara presses: **If it is Rabbi Yehoshua's view, why does the *baraita* specify workers? Even a private individual could say *Havineinu* on any given day.**
+> **Hebrew/Aramaic:** אִי רַבִּי יְהוֹשֻׁעַ, מַאי אִירְיָא פּוֹעֲלִים? אֲפִילּוּ כָּל אָדָם נָמֵי!
+> **Translation:** The Gemara objects: But **if** this *baraita* is in accordance with the opinion of **Rabbi Yehoshua, why** did the *baraita* **discuss** a case involving **laborers** in particular? Rabbi Yehoshua holds that **every person may also** recite an abridged version of the *Amida* prayer.
 
-> **Hebrew/Aramaic:** אֶלָּא אִידֵּי וְאִידֵּי רַבָּן גַּמְלִיאֵל, וְלָא קַשְׁיָא: כָּאן, בְּעוֹשִׂין בִּשְׂכָרָן. כָּאן, בְּעוֹשִׂין בִּסְעוּדָתָן.
->
-> **Translation:** The Gemara concludes: **Rather,** both the permissive and the restrictive *baraisos* reflect Rabban Gamliel's position. Under Rabban Gamliel, the abridged form is permitted for workers in certain circumstances and not in others.
+The *gemara* then cites a *braita* permitting workers to say only *me'ein shmoneh esrei*, the abridged *Shmoneh Esrei* known as *Havineinu* — the first three *brachos*, a middle summary paragraph encapsulating all the middle petitions, and the final three *brachos*. The *gemara* says: *amar Rav Sheshet lo kashya, ha Rabban Gamliel veha Rabbi Yehoshua* — this is a dispute. Rabbi Yehoshua holds that the abridged form may be used by anyone, any day. Rabban Gamliel holds the full *Shmoneh Esrei* is required except under special circumstances. The *gemara* presses: if it is Rabbi Yehoshua's view, why does the *braita* specify workers? Even a private individual could say *Havineinu* on any given day. The *gemara* concludes: *ella hadei v'adei Rabban Gamliel* — both the permissive and the restrictive *baraisos* reflect Rabban Gamliel's position. Under Rabban Gamliel, the abridged form is permitted for workers in certain circumstances and not in others.
 
 ### Worker Protection
+
+> **Hebrew/Aramaic:** אֶלָּא אִידֵּי וְאִידֵּי רַבָּן גַּמְלִיאֵל, וְלָא קַשְׁיָא: כָּאן, בְּעוֹשִׂין בִּשְׂכָרָן. כָּאן, בְּעוֹשִׂין בִּסְעוּדָתָן.
+> **Translation:** **Rather,** we must say that **this** *baraita* and **that** *baraita* are both in accordance with the opinion of **Rabban Gamliel, and this is not difficult: Here,** in the *baraita* where laborers pray the abridged version of the *Amida* prayer, refers to a case **where** laborers **work for their wage** beyond the meal provided by their employer; **while here,** in the *baraita* where laborers must pray the full *Amida* prayer, refers to a case **where** laborers **work** only **for their meal.**
 
 The distinction, says the *gemara*, is: *kan b'osim bis'charan, kan b'osim bisudatan* — one case involves workers paid a monetary wage; the other involves workers whose remuneration is their meal. Rashi's explanation — understood in context — is that *Chazal* are functioning here as social engineers, protecting people at the lowest rung of the economic scale. If all you receive for your labor is a meal, *Chazal* are going to grant you a larger allowance for your religious obligations. If you are receiving a monetary wage, you have to perform only an abridged *Shmoneh Esrei*, limiting the time taken from your employer. There may also be a secondary consideration: a well-paid worker who takes more time is, in some sense, taking more from his employer.
 
 An alternative reading of the distinction is possible: perhaps *osim bisudatan* refers not to low-wage workers but to workers whose terms of employment include a meal break. In that case, the implicit employment agreement already includes built-in breaks, and *Chazal* read that as extending to a longer break for *davening* as well. This reading focuses on what the employment agreement implicitly provides, rather than on *Chazal*'s protective intervention for the disadvantaged. The first reading appears more aligned with Rashi's understanding.
 
 ### Employment Models
+
+> **Hebrew/Aramaic:** וְהָתַנְיָא: הַפּוֹעֲלִים שֶׁהָיוּ עוֹשִׂים מְלָאכָה אֵצֶל בַּעַל הַבַּיִת — קוֹרִין קְרִיאַת שְׁמַע וּמִתְפַּלְּלִין. וְאוֹכְלִין פִּתָּן — וְאֵין מְבָרְכִים לְפָנֶיהָ, אֲבָל מְבָרְכִין לְאַחֲרֶיהָ שְׁתַּיִם. כֵּיצַד? בְּרָכָה רִאשׁוֹנָה כְּתִקּוּנָהּ, שְׁנִיָּה פּוֹתֵחַ בְּבִרְכַּת הָאָרֶץ וְכוֹלְלִין ״בּוֹנֵה יְרוּשָׁלָיִם״ בְּבִרְכַּת הָאָרֶץ.
+> **Translation:** **And** indeed **it was taught** in a *baraita*: **Laborers who were performing labor for the homeowner recite *Shema* and pray; and** when they **eat their bread they do not recite a blessing beforehand** because the blessing recited before food is only an obligation by rabbinic law, **but they recite two** of the three blessings normally recited in **the blessing thereafter,** the Grace after Meals, which is an obligation by Torah law. **How so? The first blessing** is recited **in its standard** formula; **the second blessing, he begins** to recite **the blessing of the land and they include** the blessing: **Who builds Jerusalem within the blessing of the land,** at which point they conclude the Grace after Meals.
+
+> **Hebrew/Aramaic:** בַּמֶּה דְּבָרִים אֲמוּרִים — בְּעוֹשִׂין בִּשְׂכָרָן, אֲבָל עוֹשִׂין בִּסְעוּדָתָן אוֹ שֶׁהָיָה בַּעַל הַבַּיִת מֵיסֵב עִמָּהֶן — מְבָרְכִין כְּתִיקּוּנָהּ.
+> **Translation:** **In what** case **is this said?** This is said **with regard to** laborers **who work for their wage, but** if they **work for their meal or if the homeowner reclined** and ate the meal **with them, they recite the blessings in their standard** formula.
 
 The *gemara* then cites a second *braita* that seems to contradict the first: *hapoalim shehayu osim melacha l'baal habayis, korein krias shema umispallelin v'ochlin pittan v'ein mevarchin lefaneha aval mevarchin leachareha* — in this version, workers who eat may not make the *bracha* before eating (*Hamotzi*), since that is only Rabbinic, though they must bentch afterward since that is Biblical. Furthermore, even the bentching is abridged: *bracha rishona k'tikunah* — the first *bracha* is said in full; the second opens with the theme of *birchas ha'aretz*, the blessing of the land; and the theme of *boneh Yerushalayim* is folded into that second *bracha*; the fourth *bracha* is omitted entirely, as it is Rabbinic. This *braita* thus allows only the bare Biblical minimum: *shema* alone without its surrounding *brachos*, and an abridged bentching without its Rabbinic components.
 
@@ -234,21 +185,44 @@ A question is also raised regarding *Birkas Hamazon*: does the omission of the s
 
 ---
 
-## Groom Exemption (III) (Continued)
+## Groom Exemption (III)
 
+
+
+[DAF:16b]
 ### Virgin vs. Widow
 
-> **Hebrew/Aramaic:** חָתָן אִם רוֹצֶה לִקְרוֹת קְרִיאַת שְׁמַע לַיְלָה הָרִאשׁוֹן — קוֹרֵא, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: לֹא כָּל הָרוֹצֶה לִיטּוֹל אֶת הַשֵּׁם, יִטּוֹל.
->
-> **Translation:** With regard to the recitation of *Shema* on one's wedding night, the Sages said that **if,** despite his exemption, **a groom wishes to recite *Shema* on the first night,** he may do so. **Rabban Shimon ben Gamliel says: Not everyone who wishes to assume the reputation** of a God-fearing person **may assume** it, and consequently, not everyone who wishes to recite *Shema* on his wedding night may do so.
+> **Hebrew/Aramaic:** חָתָן פָּטוּר מִקְּרִיאַת שְׁמַע. תָּנוּ רַבָּנַן: ״בְּשִׁבְתְּךָ בְּבֵיתֶךָ״ — פְּרָט לְעוֹסֵק בְּמִצְוָה. ״וּבְלֶכְתְּךָ בַּדֶּרֶךְ״ — פְּרָט לְחָתָן. מִכָּאן אָמְרוּ: הַכּוֹנֵס אֶת הַבְּתוּלָה — פָּטוּר, וְאֶת הָאַלְמָנָה — חַיָּיב.
+> **Translation:** We learned in the mishna that **a groom is exempt from the recitation of *Shema*** on the first night of his marriage. **The Sages taught** the source of this *halakha* in a *baraita* based on the verse: “When you sit in your home, and when you walk along the way.” **When you sit in your home, to the exclusion of one who is engaged in** performance of a **mitzva,** who is exempt from the recitation of *Shema*; **and when you walk along the way, to the exclusion of a groom,** who is also exempt from the recitation of *Shema*. The *baraita* adds that **from here,** from this interpretation of the verses, **they said: One who marries a virgin is exempt** from the recitation of *Shema* on his wedding night, **but one who marries a widow is obligated.**
+
+> **Hebrew/Aramaic:** מַאי מַשְׁמַע? אָמַר רַב פָּפָּא: כִּי דֶרֶךְ. מָה דֶּרֶךְ רְשׁוּת, אַף הָכָא נָמֵי רְשׁוּת.
+> **Translation:** The Gemara clarifies the meaning of this baraita, and asks: **From where is it inferred** that the verse: “When you walk along the way,” enables us to derive that a groom is exempt from the obligation to recite Shema? **Rav Pappa said** that it is derived: **Like the way; just as** the journey along a specific **way** described in the verse **is voluntary** and involves no mitzva, **so too all** of those who are obligated to recite *Shema* are engaged in **voluntary activities.** However, one engaged in performance of a mitzva is exempt from the obligation to recite *Shema*.
+
+> **Hebrew/Aramaic:** מִי לָא עָסְקִינַן דְּקָאָזֵיל לִדְבַר מִצְוָה, וַאֲפִילּוּ הָכִי אָמַר רַחֲמָנָא: לִיקְרֵי.
+> **Translation:** The Gemara asks: **Are we not dealing with** a case where one is walking along **on his way to** perform **a mitzva; nevertheless, the Torah said to recite** *Shema*, indicating that he is obligated even if he set out to perform a mitzva.
+
+> **Hebrew/Aramaic:** אִם כֵּן, לֵימָא קְרָא ״בְּלֶכֶת״, מַאי ״בְּלֶכְתְּךָ״ — שְׁמַע מִינַּהּ: בְּלֶכֶת דִּידָךְ הוּא דִּמְחַיְּיבַתְּ, הָא דְמִצְוָה — פְּטִירַתְּ.
+> **Translation:** The Gemara explains: **If so,** that the intention was to obligate in all cases, **let the Torah say: When walking** along the way. **What is** the meaning of: **When you walk** along the way? **Conclude from this: It is** in a case **of your walking,** meaning that when you do this for your own purposes and of your own volition, **you are obligated** to recite *Shema*, **but** when you go with the objective **of** performing a **mitzva, you are exempt.**
+
+> **Hebrew/Aramaic:** אִי הָכִי מַאי אִירְיָא הַכּוֹנֵס אֶת הַבְּתוּלָה? אֲפִילּוּ כּוֹנֵס אֶת הָאַלְמָנָה נָמֵי.
+> **Translation:** The Gemara questions this: **If so, why discuss** a case of **one who is marrying a virgin** in particular? **Even one who is marrying a widow** is performing a mitzva and should **also** be exempt.
+
+> **Hebrew/Aramaic:** הָכָא — טְרִיד, וְהָכָא — לָא טְרִיד.
+> **Translation:** The Gemara responds that nevertheless, there is a distinction between one marrying a virgin and one marrying a widow. **Here,** in the case of one who marries a virgin, the groom is **preoccupied** by his thoughts, **while here,** in the case of one who marries a widow, **he is not preoccupied.**
 
 Returning now to the question of the groom's exemption, the *gemara* notes: *hakoneh es habesulah patur ve'es ha'almanah chayav* — the one who marries a virgin is exempt, but the one who marries a widow is obligated. The distinction presumably reflects greater anxiety in the case of marrying a virgin, compounded perhaps by the *halakhic* concerns about *betulim* discussed extensively in Kesuvos.
 
+The *gemara* then asks *mai mashma* — from where in the *pasuk* is this derived? The answer comes from Rav Papa, and it is worth noting that Rashi flags explicitly that this *gemara* appeared word for word earlier, adding *kvar peirashtia beperek rishon* — I already explained this in the first chapter — declining to repeat the analysis. The derivation itself runs as follows: the *pasuk* uses the language of *uvlechticha baderech*, when you go on the way, and the *gemara* reasons *mah derech reshus af kol nami reshus* — just as traveling on the way is a discretionary act, so too the obligation applies only to discretionary activities. The implied inference is that one who is engaged in a *mitzvah* is exempt.
+
+The *gemara* immediately challenges this: *mi lo askinan dekazil lidevar mitzvah* — perhaps the *pasuk* is speaking precisely of someone traveling for a *mitzvah*, and yet *va'afilu hachi amar Rachmana likri* — even so, the Torah says to read *shema*? The response is that if so, the *pasuk* would simply have said *uvelachet*, when going — the additional possessive form *uvlechticha*, your going, signals that it is only your own discretionary going that obligates you: *shema mina belachet didach hu demichayaves* — from this we derive that it is specifically your going that obligates you, while one engaged in a *mitzvah*, *ha demitzvah patur*, is exempt.
+
 ### Mental Engagement
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמָא דְּרַבָּן (שִׁמְעוֹן בֶּן) גַּמְלִיאֵל? קָסָבַר: אֲנִינוּת לַיְלָה — דְּרַבָּנַן, דִּכְתִיב: ״וְאַחֲרִיתָהּ כְּיוֹם מָר״. וּבִמְקוֹם אִיסְטְנִיס לָא גְזַרוּ בֵּיהּ רַבָּנַן.
->
-> **Translation:** GEMARA: With regard to Rabban Gamliel's bathing on the first night after the death of his wife, the Gemara asks: **What is the reason** that **Rabban Gamliel** did not practice the customs of mourning after his wife died? The Gemara answers: **He holds that** acute mourning [*aninut*] is in effect only on the day of the death itself, but **acute mourning at night is** only **by rabbinic law, as it is written:** "And I will turn your feasts into mourning, and all your songs into lamentations; I will bring sackcloth upon your loins and baldness upon every head; and I will make you like a mourner for an only child, **and the end will be like a bitter day"** (Amos 8:10). Therefore, by Torah law one's acute mourning is only during the day, like a bitter day, while the acute mourning at night that follows is only rabbinic. **And in the case of a delicate person, the Sages did not issue a decree** that one should afflict himself during the period of acute mourning.
+> **Hebrew/Aramaic:** אִי מִשּׁוּם טִרְדָּא, אֲפִילּוּ טָבְעָה סְפִינָתוֹ בַּיָּם נָמֵי, אַלְּמָה אָמַר רַבִּי אַבָּא בַּר זַבְדָּא אָמַר רַב: אָבֵל חַיָּיב בְּכָל מִצְוֹת הָאֲמוּרוֹת בַּתּוֹרָה, חוּץ מִן הַתְּפִילִּין שֶׁהֲרֵי נֶאֱמַר בָּהֶן ״פְּאֵר״, שֶׁנֶּאֱמַר ״פְּאֵרְךָ חֲבוֹשׁ עָלֶיךָ וְגוֹ׳״!
+> **Translation:** The Gemara challenges: **If** a groom is exempt from the recitation of *Shema* simply **due to preoccupation,** then **even** one who is preoccupied because **his ship sank at sea should** be exempt. If so, **why then did Rabbi Abba bar Zavda say** that **Rav said: A mourner is obligated in all the mitzvot mentioned in the Torah except for** the mitzva to don **phylacteries, as** the term **splendor is stated** with regard to phylacteries, **as it is stated** that the prophet Ezekiel was prohibited to mourn and was told: **“Bind your splendor upon yourself”** (Ezekiel 24:17). If even a mourner, who is pained and preoccupied, is obligated to recite *Shema*, clearly preoccupation has no bearing upon one’s obligation.
+
+> **Hebrew/Aramaic:** אָמְרִי הָתָם טִרְדָּא דִרְשׁוּת הָכָא טִרְדָּא דְמִצְוָה.
+> **Translation:** The Gemara responds: Nevertheless, there is a distinction between the cases. **There,** it is a case of **preoccupation with a voluntary** act, as there is no mitzva to be preoccupied with his mourning, but **here,** in the case of a groom, the cause of **the preoccupation is** the **mitzva** itself.
 
 The deeper question is what precisely underlies the exemption. The *gemara* explores whether it is the categorical rule of *osek bamitzvah* or the more functional question of distraction and *kavana*. As noted above, the *gemara* introduces the proof from the *aveil*, who is obligated in *shema* despite being distracted by grief, to show that ordinary distraction does not suffice. The *gemara* responds: the mourner's distraction is *tirda d'reshus* while the groom's is *tirda d'mitzvah* — the groom is mentally engaged with an act he is about to perform that is itself a *mitzvah*.
 
@@ -260,21 +234,23 @@ The tension carries directly into the case of Rabban Gamliel. If the exemption i
 
 ## Rabban Gamliel Stories
 
+
+
 ### Bathing in Mourning
 
-> **Hebrew/Aramaic:** מַתְנִי׳ רָחַץ לַיְלָה הָרִאשׁוֹן שֶׁמֵּתָה אִשְׁתּוֹ. אָמְרוּ לוֹ תַּלְמִידָיו: לִמַּדְתָּנוּ רַבֵּינוּ שֶׁאָבֵל אָסוּר לִרְחוֹץ? אָמַר לָהֶם אֵינִי כִּשְׁאָר בְּנֵי אָדָם, אִסְטְנִיס אֲנִי.
->
-> **Translation:** MISHNA: **He bathed on the first night after his wife died. His students said to him:** Have **you** not **taught us, our teacher, that a mourner is prohibited to bathe?** He answered them: **I am not like other people, I am delicate [*istenis*].** For me, not bathing causes actual physical distress, and even a mourner need not suffer physical distress as part of his mourning.
+> **Hebrew/Aramaic:** מַתְנִי׳ רָחַץ לַיְלָה הָרִאשׁוֹן שֶׁמֵּתָה אִשְׁתּוֹ. אָמְרוּ לוֹ תַּלְמִידָיו: לִמַּדְתָּנוּ רַבֵּינוּ שֶׁאָבֵל אָסוּר לִרְחוֹץ? אָמַר לָהֶם אֵינִי כִּשְׁאָר בְּנֵי אָדָם, אִסְטְנִיס אֲנִי.
+> **Translation:** MISHNA: The mishna relates another episode portraying unusual conduct by Rabban Gamliel. **He bathed on the first night after his wife died. His students said to him:** Have **you** not **taught us, our teacher, that a mourner is prohibited to bathe?** He answered them: **I am not like other people, I am delicate [*istenis*].** For me, not bathing causes actual physical distress, and even a mourner need not suffer physical distress as part of his mourning.
+
+The *gemara* now turns to two further stories about Rabban Gamliel. The first: *rachatz layla harishon shemes ishto* — he bathed on the very first night after his wife died. His students said to him: *lamedtanu rabbeinu she'aveil asur lirchotz* — have you not taught us that a mourner is forbidden to bathe? He replied: *eini keshe'ar bnei adam, istnis ani* — I am not like other people; I am an *istnis*, a fastidious person who cannot go a day without bathing.
 
 ### Istenis Exception
-
-> **Hebrew/Aramaic:** וּכְשֶׁמֵּת טָבִי עַבְדּוֹ קִבֵּל עָלָיו תַּנְחוּמִין. אָמְרוּ לוֹ תַּלְמִידָיו: לִמַּדְתָּנוּ רַבֵּינוּ שֶׁאֵין מְקַבְּלִין תַּנְחוּמִין עַל הָעֲבָדִים? אָמַר לָהֶם: אֵין טָבִי עַבְדִּי כִּשְׁאָר כָּל הָעֲבָדִים, כָּשֵׁר הָיָה.
->
-> **Translation:** Another exceptional incident is related: **And when his slave, Tavi, died,** Rabban Gamliel **accepted condolences for his** death as one would for a close family member. **His students said to him: Have you** not **taught us, our teacher, that one does not accept condolences for** the death of **slaves?** Rabban Gamliel said to his students: **My slave, Tavi, is not like all the rest of the slaves, he was virtuous** and it is appropriate to accord him the same respect accorded to a family member.
 
 Tosafos explains this in terms of the nature of the prohibition: the bathing forbidden during *avelus* is bathing of pleasure. For someone who is *fastidious* and suffers genuine discomfort from not bathing, the act is not pleasure-bathing but necessity-bathing, and therefore falls outside the prohibition entirely. This has obvious practical relevance, as the same *din* applies during the Nine Days when one may bathe to clean off sweat and grime. The *gemara*'s own language, however, suggests a different analysis — it sounds not like the act is categorically outside the prohibition, but rather that it is genuinely prohibited yet waived in his case due to his special circumstances. The *gemara* later explains this waiver through the rubric of *aninus* versus *aveilus*.
 
 ### Tabi the Servant
+
+> **Hebrew/Aramaic:** וּכְשֶׁמֵּת טָבִי עַבְדּוֹ קִבֵּל עָלָיו תַּנְחוּמִין. אָמְרוּ לוֹ תַּלְמִידָיו: לִמַּדְתָּנוּ רַבֵּינוּ שֶׁאֵין מְקַבְּלִין תַּנְחוּמִין עַל הָעֲבָדִים? אָמַר לָהֶם: אֵין טָבִי עַבְדִּי כִּשְׁאָר כָּל הָעֲבָדִים, כָּשֵׁר הָיָה.
+> **Translation:** Another exceptional incident is related: **And when his slave, Tavi, died,** Rabban Gamliel **accepted condolences for his** death as one would for a close family member. **His students said to him: Have you** not **taught us, our teacher, that one does not accept condolences for** the death of **slaves?** Rabban Gamliel said to his students: **My slave, Tavi, is not like all the rest of the slaves, he was virtuous** and it is appropriate to accord him the same respect accorded to a family member.
 
 The second story: *ucheshe'meis Tabi avdo, kibel alav tanchumim* — when Tabi his servant died, Rabban Gamliel accepted people who came to offer him consolation. His students said: *lo limadetanu rabbeinu she'ein mekablin tanchumim al ha'avadim* — have you not taught us that one does not accept consolers for the death of slaves? He replied: *ein Tabi avdi k'she'ar kol ha'avadim, kasher hayah* — Tabi was not like other slaves; he was a genuinely good and *kosher* person.
 
@@ -286,13 +262,16 @@ This brings up the question of how to read Rabban Gamliel's pattern of behavior 
 
 ### Son's Caveat
 
-> **Hebrew/Aramaic:** רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: לֹא כָּל הָרוֹצֶה לִיטּוֹל אֶת הַשֵּׁם, יִטּוֹל.
->
-> **Translation:** **Rabban Shimon ben Gamliel says: Not everyone who wishes to take on God's name in this way may do so.**
+> **Hebrew/Aramaic:** חָתָן אִם רוֹצֶה לִקְרוֹת קְרִיאַת שְׁמַע לַיְלָה הָרִאשׁוֹן — קוֹרֵא, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: לֹא כָּל הָרוֹצֶה לִיטּוֹל אֶת הַשֵּׁם, יִטּוֹל.
+> **Translation:** With regard to the recitation of *Shema* on one’s wedding night, the Sages said that **if,** despite his exemption, **a groom wishes to recite *Shema* on the first night,** he may do so. **Rabban Shimon ben Gamliel says: Not everyone who wishes to assume the reputation** of a God-fearing person **may assume** it, and consequently, not everyone who wishes to recite *Shema* on his wedding night may do so.
 
 The *gemara* then adds: *Rabban Shimon ben Gamliel omer: lo kol harotzeh litol es hashem yitol* — not everyone who wishes to take on God's name in this way may do so. Rabban Gamliel's son qualifies his father's legacy: my father was a special individual, and not every groom who believes he can achieve *kavana* on his wedding night should presume he is able to do what my father did. The debate about the legacy of Rabban Gamliel's actions — whether they represent latitude within the law that extends to all, or a personal standard available only to exceptional individuals — is thus preserved within the text itself.
 
 ### Aninut vs. Aveilus
+
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמָא דְּרַבָּן (שִׁמְעוֹן בֶּן) גַּמְלִיאֵל? קָסָבַר: אֲנִינוּת לַיְלָה — דְּרַבָּנַן, דִּכְתִיב: ״וְאַחֲרִיתָהּ כְּיוֹם מָר״. וּבִמְקוֹם אִיסְטְנִיס לָא גְזַרוּ בֵּיהּ רַבָּנַן.
+> **Translation:** GEMARA: With regard to Rabban Gamliel’s bathing on the first night after the death of his wife, the Gemara asks: **What is the reason** that **Rabban Gamliel** did not practice the customs of mourning after his wife died? The Gemara answers: **He holds that** acute mourning [*aninut*] is in effect only on the day of the death itself, but **acute mourning at night is** only **by rabbinic law, as it is written:** “And I will turn your feasts into mourning, and all your songs into lamentations; I will bring sackcloth upon your loins and baldness upon every head; and I will make you like a mourner for an only child, **and the end will be like a bitter day”** (Amos 8:10). Therefore, by Torah law one’s acute mourning is only during the day, like a bitter day, while the acute mourning at night that follows is only rabbinic. **And in the case of a delicate person, the Sages did not issue a decree** that one should afflict himself during the period of acute mourning.
+
 
 The *gemara* explains the theoretical basis for Rabban Gamliel's bathing on the night after his wife's death: *kasvar aninus lailah d'rabanan* — he held that *aninus* (technically, the relevant status here is *aveilus*) of the nighttime following the day of death is only Rabbinic, derived from the verse *ve'acharisah k'yom mar* — "and its end is like a bitter day" — which implies that the Biblical status applies only to the day, not to the following night. And *uve-makom istanis lo gazru bah rabbanan* — in a case of someone who is genuinely *fastidious*, the Rabbis waived their enactment.
 
@@ -302,25 +281,30 @@ The *gemara* here is speaking about *aveilus* rather than *aninus* strictly spea
 
 ## Mourning Slaves
 
+
+
 ### Slave Mourning Rules
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: עֲבָדִים וּשְׁפָחוֹת אֵין עוֹמְדִין עֲלֵיהֶם בְּשׁוּרָה, וְאֵין אוֹמְרִים עֲלֵיהֶם בִּרְכַּת אֲבֵלִים וְתַנְחוּמֵי אֲבֵלִים.
->
+> **Hebrew/Aramaic:** וּכְשֶׁמֵּת טָבִי עַבְדּוֹ וְכוּ׳.
+> **Translation:** We learned in our mishna that: **When his servant, Tavi, died,** Rabban Gamliel accepted condolences for him.
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: עֲבָדִים וּשְׁפָחוֹת אֵין עוֹמְדִין עֲלֵיהֶם בְּשׁוּרָה, וְאֵין אוֹמְרִים עֲלֵיהֶם בִּרְכַּת אֲבֵלִים וְתַנְחוּמֵי אֲבֵלִים.
 > **Translation:** **The Sages** taught in a *baraita*: For **slaves and maidservants** who die, **one does not stand in a row** of comforters to console the mourners, **and one recites neither the blessing of the mourners nor the consolation of the mourners.**
+
+The *gemara* cites a *braita*: *avadim ushfachos ein omdin aleihem be-shura ve'ein omrim aleihem birchas avelim* — for slaves and maidservants, one does not form the *shura*, the double line of consolers through which mourners walk after burial, and one does not recite *birchas avelim*, the formal blessing given to mourners. Nor does one perform other practices of consolation for *avelim*.
 
 ### Rabbi Eliezer Story
 
-> **Hebrew/Aramaic:** מַעֲשֶׂה וּמֵתָה שִׁפְחָתוֹ שֶׁל רַבִּי אֱלִיעֶזֶר. נִכְנְסוּ תַּלְמִידָיו לְנַחֲמוֹ. כֵּיוָן שֶׁרָאָה אוֹתָם עָלָה לַעֲלִיָּיה, וְעָלוּ אַחֲרָיו. נִכְנַס לָאַנְפִּילוֹן, נִכְנְסוּ אַחֲרָיו. נִכְנַס לַטְּרַקְלִין, נִכְנְסוּ אַחֲרָיו. אָמַר לָהֶם: כִּמְדוּמֶּה אֲנִי שֶׁאַתֶּם נִכְוִים בְּפוֹשְׁרִים, עַכְשָׁיו אִי אַתֶּם נִכְוִים אֲפִילּוּ בְּחַמֵּי חַמִּין, לֹא כָּךְ שָׁנִיתִי לָכֶם: עֲבָדִים וּשְׁפָחוֹת אֵין עוֹמְדִים עֲלֵיהֶם בְּשׁוּרָה, וְאֵין אוֹמְרִים עֲלֵיהֶם בִּרְכַּת אֲבֵלִים וְלֹא תַּנְחוּמֵי אֲבֵלִים?
->
-> **Translation:** **An incident** is related that when **Rabbi Eliezer's maidservant died, his students entered to console him. When he saw them** approaching **he went up to the second floor, and they went up after him. He entered the gatehouse [*anpilon*], and they entered after him. He entered the banquet hall [*teraklin*],** and **they entered after him.** Having seen them follow him everywhere, **he said to them: It seems to me that you would be burned by lukewarm water,** meaning that you could take a hint and when I went up to the second floor, you would understand that I did not wish to receive your consolations. **Now** I see that **you are not even burned by boiling hot water. Did I not teach you the following:** For **slaves and maidservants** who die, **one does not stand in a row** of comforters to console the mourners, **and one neither recites the blessing of the mourners nor** does he recite **the consolation of the mourners,** as the relationship between master and slave is not like a familial relationship?
+> **Hebrew/Aramaic:** מַעֲשֶׂה וּמֵתָה שִׁפְחָתוֹ שֶׁל רַבִּי אֱלִיעֶזֶר. נִכְנְסוּ תַּלְמִידָיו לְנַחֲמוֹ. כֵּיוָן שֶׁרָאָה אוֹתָם עָלָה לַעֲלִיָּיה, וְעָלוּ אַחֲרָיו. נִכְנַס לָאַנְפִּילוֹן, נִכְנְסוּ אַחֲרָיו. נִכְנַס לַטְּרַקְלִין, נִכְנְסוּ אַחֲרָיו. אָמַר לָהֶם: כִּמְדוּמֶּה אֲנִי שֶׁאַתֶּם נִכְוִים בְּפוֹשְׁרִים, עַכְשָׁיו אִי אַתֶּם נִכְוִים אֲפִילּוּ בְּחַמֵּי חַמִּין, לֹא כָּךְ שָׁנִיתִי לָכֶם: עֲבָדִים וּשְׁפָחוֹת אֵין עוֹמְדִים עֲלֵיהֶם בְּשׁוּרָה, וְאֵין אוֹמְרִים עֲלֵיהֶם בִּרְכַּת אֲבֵלִים וְלֹא תַּנְחוּמֵי אֲבֵלִים? אֶלָּא מָה אוֹמְרִים עֲלֵיהֶם? — כְּשֵׁם שֶׁאוֹמְרִים לוֹ לְאָדָם עַל שׁוֹרוֹ וְעַל חֲמוֹרוֹ שֶׁמֵּתוּ — ״הַמָּקוֹם יְמַלֵּא לְךָ חֶסְרוֹנְךָ״, כָּךְ אוֹמְרִים לוֹ עַל עַבְדּוֹ וְעַל שִׁפְחָתוֹ ״הַמָּקוֹם יְמַלֵּא לְךָ חֶסְרוֹנְךָ״.
+> **Translation:** **An incident** is related that when **Rabbi Eliezer’s maidservant died, his students entered to console him. When he saw them** approaching **he went up to the second floor, and they went up after him. He entered the gatehouse [*anpilon*], and they entered after him. He entered the banquet hall [*teraklin*],** and **they entered after him.** Having seen them follow him everywhere, **he said to them: It seems to me that you would be burned by lukewarm water,** meaning that you could take a hint and when I went up to the second floor, you would understand that I did not wish to receive your consolations. **Now** I see that **you are not even burned by boiling hot water. Did I not teach you the following:** For **slaves and maidservants** who die, **one does not stand in a row** of comforters to console the mourners, **and one neither recites the blessing of the mourners nor** does he recite **the consolation of the mourners,** as the relationship between master and slave is not like a familial relationship? **Rather, what does one say about them** when they die? **Just as we say to a person about his ox or donkey which died: May the Omnipresent replenish your loss, so too do we say for one’s slave or maidservant** who died: **May the Omnipresent replenish your loss,** as the connection between a master and his slave is only financial in nature.
+
+The *gemara* then relates: *maaseh umeisah shifchaso shel Rabbi Eliezer* — the maidservant of Rabbi Eliezer died. His students came to console him. When he saw them approaching, he fled to the upper floor; they followed him there. He moved to an antechamber; they followed. He entered the main hall; they followed still.
 
 ### Slaves Not Mourned
 
-> **Hebrew/Aramaic:** אֶלָּא מָה אוֹמְרִים עֲלֵיהֶם? — כְּשֵׁם שֶׁאוֹמְרִים לוֹ לְאָדָם עַל שׁוֹרוֹ וְעַל חֲמוֹרוֹ שֶׁמֵּתוּ — ״הַמָּקוֹם יְמַלֵּא לְךָ חֶסְרוֹנְךָ״, כָּךְ אוֹמְרִים לוֹ עַל עַבְדּוֹ וְעַל שִׁפְחָתוֹ ״הַמָּקוֹם יְמַלֵּא לְךָ חֶסְרוֹנְךָ״.
->
-> **Translation:** **Rather, what does one say about them** when they die? **Just as we say to a person about his ox or donkey which died: May the Omnipresent replenish your loss, so too do we say for one's slave or maidservant** who died: **May the Omnipresent replenish your loss,** as the connection between a master and his slave is only financial in nature.
+Finally he said to them: *kimdumeh ani she'atem nichvim befoshrim* — I thought even lukewarm water would scald you, meaning I assumed you were sharp enough to pick up a subtle cue. *Achshav ei atem nichvim afilu bechamei chamim* — but apparently even boiling water does not register with you. How much more obvious does this need to be? *Lo kach shanisi lachem* — have I not taught you: *avadim ushfachos ein omdin aleihem beshura ve'ein omrim aleihem birchas avelim* — none of these mourning rituals apply to slaves?
 
-**Property Loss Formula**
+### Property Loss Formula
 
 *Ela mah omrim aleihem* — so what does one say when a slave has died and one wishes to acknowledge the loss? *Keshem she'omrim lo l'adam al shoro ve'al chamoro she-meisu, HaMakom yemalei lecha chesroncha* — just as one would say to someone whose ox or donkey died: "May God fill your loss." That is the formula — not *tanchumim*, not the language of mourning, but the language of property loss.
 
@@ -332,8 +316,7 @@ This also opens an interesting practical question: does the formula *HaMakom yem
 
 ### Rabbi Yose Dissent
 
-> **Hebrew/Aramaic:** תַּנְיָא אִידַּךְ: עֲבָדִים וּשְׁפָחוֹת אֵין מַסְפִּידִין אוֹתָן. רַבִּי יוֹסֵי אוֹמֵר: אִם עֶבֶד כָּשֵׁר הוּא — אוֹמְרִים עָלָיו: ״הוֹי אִישׁ טוֹב וְנֶאֱמָן וְנֶהֱנֶה מִיגִיעוֹ״. אָמְרוּ לוֹ: אִם כֵּן, מָה הִנַּחְתָּ לַכְּשֵׁרִים?
->
+> **Hebrew/Aramaic:** תַּנְיָא אִידַּךְ: עֲבָדִים וּשְׁפָחוֹת אֵין מַסְפִּידִין אוֹתָן. רַבִּי יוֹסֵי אוֹמֵר: אִם עֶבֶד כָּשֵׁר הוּא — אוֹמְרִים עָלָיו: ״הוֹי אִישׁ טוֹב וְנֶאֱמָן וְנֶהֱנֶה מִיגִיעוֹ״. אָמְרוּ לוֹ: אִם כֵּן, מָה הִנַּחְתָּ לַכְּשֵׁרִים?
 > **Translation:** **It was taught in another** *baraita*: **One does not eulogize slaves and maidservants. Rabbi Yosei says: If he was a virtuous servant, one recites over him** a eulogy of sorts: **Alas, a good and loyal man who enjoyed** the fruits **of his hard labor. They said to him: If so, what** praise **have you left for virtuous** Jews? A Jewish person would be proud to be eulogized in that manner.
 
 A second *braita* takes up the question of *hesped*, the eulogy: *avadim ushfachos ein maspidin otan* — one does not eulogize slaves. This goes further still: not only is there no formal community mourning, there is no public acknowledgment of who this person was, what they accomplished, what they stood for. Rabbi Yose dissents: *im eved kasher hu, omrim alav: hoy ish tov vene'eman venehene miyegio* — if the slave was a righteous and trustworthy person, one may say: "Woe, this was a good man, faithful, who benefited from the work of his hands." The students respond: *im ken mah hanachta likesherim* — if that is what you say for a slave, what will you leave to say for free people? Rabbi Yose's proposed formula is, in other words, so dignified as to blur precisely the distinction the law sought to maintain.

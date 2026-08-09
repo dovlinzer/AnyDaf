@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mumim Overview",
+    "candidates": [
+      "Mumim Overview",
+      "Mum Criteria",
+      "Nisteka & Pegimah",
+      "Fingernail Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about nisteka/sedek and pegimah, including the distinction between b'dei adam and b'dei shamayim, which is precisely what the 'Nisteka & Pegimah' prose section describes.",
+      "chosen_heading": "Nisteka & Pegimah",
+      "current_heading": "Mumim Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Fingernail Test",
+    "candidates": [
+      "Mum Criteria",
+      "Nisteka & Pegimah",
+      "Fingernail Test",
+      "Nikva Size",
+      "Yavesha Definition",
+      "Tana Kama vs. Yossi",
+      "K'adasha Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage establishes that both sedek and pegimah apply regardless of cause (bein b'dei shamayim bein b'dei adam) and then gives the fingernail measurement for pegimah \u2014 this is the corrective Gemara answer that the 'Nisteka & Pegimah' prose explicitly describes, including the textual correction and the fingernail standard, making it a clearly better fit there than under 'Fingernail Test' which merely elaborates on the measurement.",
+      "chosen_heading": "Nisteka & Pegimah",
+      "current_heading": "Fingernail Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "K'adasha Standard",
+    "candidates": [
+      "Nikva Size",
+      "Yavesha Definition",
+      "Tana Kama vs. Yossi",
+      "K'adasha Standard",
+      "Puncturing Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover the baraita about the size of a pierced ear (karshina vs. lentil) and the definition of a desiccated ear, plus the Gemara's clarification that the 'close opinions' refer to karshina vs. lentil \u2014 all of which is squarely the content described under heading 0 ('Nikva Size'), which explicitly discusses the karshina standard and the baraita, whereas headings 1 and 2 cover only portions of this material in isolation.",
+      "chosen_heading": "Nikva Size",
+      "current_heading": "K'adasha Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Puncturing Tools",
+    "candidates": [
+      "K'adasha Standard",
+      "Puncturing Tools",
+      "Yossi vs. Rebbi",
+      "Milas Doctrine",
+      "Kohen Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita contradiction raised against Rabbi Yosei's k'adasha standard (does less than k'adasha not count?) and the resolution via 'v'lakachta,' which is precisely the inquiry the prose of heading 0 describes as opening 'into a broader inquiry' following the k'adasha question \u2014 whereas headings 1 and 2 describe later parts of the same discussion that follow this opening challenge.",
+      "chosen_heading": "K'adasha Standard",
+      "current_heading": "Puncturing Tools",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Kohen Exclusion",
+    "candidates": [
+      "Yossi vs. Rebbi",
+      "Milas Doctrine",
+      "Kohen Exclusion",
+      "Lishchot/Lifsol"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Milas Doctrine",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yudan b'Rebbi's teaching that piercing is done in the milas (earlobe), which is precisely what the 'Milas Doctrine' prose describes.",
+      "second_heading": "Kohen Exclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Rabbis' ruling that a kohen-slave is not pierced because it renders him a ba'al mum, and the resulting proof that piercing is in the cartilage \u2014 exactly what the 'Kohen Exclusion' prose discusses.",
+      "current_heading": "Kohen Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Lishchot/Lifsol",
+    "candidates": [
+      "Lishchot/Lifsol",
+      "Rashi Levels",
+      "Karshina/Hinda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24ana bar Ketina's statement distinguishing lishchot from lifsol, which is exactly what the prose under heading 0 ('Lishchot/Lifsol') discusses in detail.",
+      "chosen_heading": "Lishchot/Lifsol",
+      "current_heading": "Lishchot/Lifsol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Karshina/Hinda",
+    "candidates": [
+      "Rashi Levels",
+      "Karshina/Hinda",
+      "Tight/Loose Fit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines karshina as hinda (bitter vetch), which directly matches the 'Karshina/Hinda' section prose discussing Rav Sharvya's identification of the term and the translational challenge.",
+      "chosen_heading": "Karshina/Hinda",
+      "current_heading": "Karshina/Hinda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Tight/Loose Fit",
+    "candidates": [
+      "Tight/Loose Fit",
+      "Spine/Skull"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Hoshaya's question to Rav Huna about whether the karshina measurement means a tight or loose fit, which is precisely what the 'Tight/Loose Fit' section's prose describes.",
+      "chosen_heading": "Tight/Loose Fit",
+      "current_heading": "Tight/Loose Fit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Spine/Skull",
+    "candidates": [
+      "Spine/Skull",
+      "Makdach = Sela",
+      "Neronian Sela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous unit: the Mishnah about spine/skull deficiency, Rav \u1e24isda's question about the Beit Hillel measure, the dispute about whether Shmuel's answer was a baraita or Amoraic tradition, and Rav \u1e24isda's objection that equating the sela with the makde'ach collapses the Beit Shammai/Beit Hillel distinction \u2014 all of which are explicitly described in the 'Spine/Skull' prose section (index 0).",
+      "chosen_heading": "Spine/Skull",
+      "current_heading": "Spine/Skull",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Neronian Sela",
+    "candidates": [
+      "Makdach = Sela",
+      "Neronian Sela",
+      "Chizkiyah's Statement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Makdach = Sela",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Mishnah text about the makde'ach gadol shel lishka and the Rav Chisda resolution about makde'ach v'chisumo, which matches heading 0 ('Makdach = Sela') whose prose explicitly discusses this very Mishnah and Rav Chisda's suggestion.",
+      "second_heading": "Chizkiyah's Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Rav Tachlifa's definitive conclusion relying on Chizkiyah Avi Akash, which matches heading 2 ('Chizkiyah's Statement') whose prose explicitly discusses Rav Tachlifa's vadai conclusion and the reference to Chizkiyah Avi Akash.",
+      "current_heading": "Neronian Sela",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Chizkiyah's Statement",
+    "candidates": [
+      "Neronian Sela",
+      "Chizkiyah's Statement",
+      "Wood/Pottery Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita of Chizkiyah Avi Akash (the testimony before Rabban Gamliel and the Gemara's initial challenge to it), which is precisely what the prose under heading 1 introduces and discusses \u2014 the statement about pottery vessels without a receptacle and the bidirectional tumah ruling.",
+      "chosen_heading": "Chizkiyah's Statement",
+      "current_heading": "Chizkiyah's Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Wood/Pottery Analysis",
+    "candidates": [
+      "Wood/Pottery Analysis",
+      "Liquid Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer about Rabbi Yitzchak bar Avin's reinterpretation, the challenge of why pottery is invoked at all, and the answer about wooden vessels with receptacles behaving like pottery \u2014 exactly what the 'Wood/Pottery Analysis' prose describes.",
+      "chosen_heading": "Wood/Pottery Analysis",
+      "current_heading": "Wood/Pottery Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Liquid Tumah",
+    "candidates": [
+      "Liquid Tumah",
+      "No Distinction Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly establish the rabbinic nature of liquid tumah and the inside/outside distinction for vessels, which is precisely what the 'Liquid Tumah' prose section discusses.",
+      "chosen_heading": "Liquid Tumah",
+      "current_heading": "Liquid Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "No Distinction Rule",
+    "candidates": [
+      "No Distinction Rule",
+      "Rav Papa's Fix",
+      "Awl Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the rabbinic impurity of vessels purified through rinsing (kelei shetef), the inside/outside distinction, the indicator (hekera) for teruma, the 'dumya d'sak' requirement, tumas midras, and earthenware vessels \u2014 exactly the content described in the 'No Distinction Rule' prose section.",
+      "chosen_heading": "No Distinction Rule",
+      "current_heading": "No Distinction Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Awl Types",
+    "candidates": [
+      "Rav Papa's Fix",
+      "Awl Types",
+      "Rav Nachman Final"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Pappa's resolution (the large drill argument) and the immediate challenge to it (does this imply the standard drill is smaller than a sela? what about the Rabbis?), which is precisely what heading 0 'Rav Papa's Fix' describes, while heading 1 'Awl Types' describes only the follow-up Mishnah citation and subsequent difficulties \u2014 yet the passage currently sits under heading 1 even though item 1 (Rav Pappa's statement) belongs under heading 0.",
+      "chosen_heading": "Rav Papa's Fix",
+      "current_heading": "Awl Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Rav Nachman Final",
+    "candidates": [
+      "Awl Types",
+      "Rav Nachman Final",
+      "Eye Defects Intro",
+      "Tavlul Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items address the challenge to Rabbi Meir's position (leniencies of Beit Shammai/stringencies of Beit Hillel) and Rav Na\u1e25man's resolution distinguishing the sela Neroni from a standard sela \u2014 content explicitly discussed in the 'Awl Types' prose, not in the 'Rav Nachman Final' prose which merely summarizes the same resolution at a higher level but is clearly meant as a concluding summary section placed after the detailed Gemara exchange.",
+      "chosen_heading": "Awl Types",
+      "current_heading": "Rav Nachman Final",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Tavlul Definition",
+    "candidates": [
+      "Eye Defects Intro",
+      "Tavlul Definition",
+      "Non-Mum Case",
+      "Haris/Eyelid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna passage covers the full list of eye blemishes (eyelid defects, dak, tavlul, chalazon, nachash, etzev) AND defines tavlul AND notes the non-mum case \u2014 it is a single complete Mishna unit that belongs under the introductory 'Eye Defects Intro' heading rather than being split under the tavlul-specific heading.",
+      "chosen_heading": "Eye Defects Intro",
+      "current_heading": "Tavlul Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Haris/Eyelid",
+    "candidates": [
+      "Non-Mum Case",
+      "Haris/Eyelid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the definition of 'haris' (eyelid) per Rav Pappa and the ruling about sunken vs. floating cataracts, which directly matches the 'Haris/Eyelid' section's prose about mai haris, Rav Papa's answer, and the eyelid identification.",
+      "chosen_heading": "Haris/Eyelid",
+      "current_heading": "Haris/Eyelid",
+      "moved": false
+    }
+  }
+]

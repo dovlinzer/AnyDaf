@@ -1,0 +1,370 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Rav Kahana Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav's answer about positioning the tefach 'opposite the wall that emerges,' which is precisely what the prose under 'Rav's Position' discusses \u2014 mamidoh keneged ha-yotze and the rectangular model of enclosure.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rav Kahana Challenge",
+    "candidates": [
+      "Rav Kahana Challenge",
+      "Consensus Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge by Rav Kahana and Rav Asi (positioning opposite rosh tor) and Rav's silence, which is precisely what the 'Rav Kahana Challenge' prose describes.",
+      "chosen_heading": "Rav Kahana Challenge",
+      "current_heading": "Rav Kahana Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Consensus Ruling",
+    "candidates": [
+      "Consensus Ruling",
+      "Rabbi Simon's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's ruling in the name of Levi and the study hall consensus, which is precisely what the 'Consensus Ruling' prose discusses.",
+      "chosen_heading": "Consensus Ruling",
+      "current_heading": "Consensus Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rabbi Simon's Method",
+    "candidates": [
+      "Rabbi Simon's Method",
+      "Four Tefachim Wall Rule",
+      "Two Parallel Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Simon/Rabbi Yehoshua ben Levi's method of using a 'laughing tefach' placed within three handbreadths of the wall to invoke lavud, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Rabbi Simon's Method",
+      "current_heading": "Rabbi Simon's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Two Parallel Walls",
+    "candidates": [
+      "Four Tefachim Wall Rule",
+      "Two Parallel Walls",
+      "Parallel vs Perpendicular"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda's ruling on the alleyway sukka and Rabbi Simon's requirement for a four-tefachim board \u2014 are explicitly discussed together in the 'Two Parallel Walls' prose, which quotes both rulings verbatim and analyzes the dispute between them, making that section the clear and correct home for this passage.",
+      "chosen_heading": "Two Parallel Walls",
+      "current_heading": "Two Parallel Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Parallel vs Perpendicular",
+    "candidates": [
+      "Parallel vs Perpendicular",
+      "Four Plus Levud Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's answer distinguishing the two cases ('hatam de-ika shtei defanot ke-hilchasan... hacha de-leka shtei defanot'), which is the very text quoted and explained in candidate 1's prose.",
+      "chosen_heading": "Four Plus Levud Rule",
+      "current_heading": "Parallel vs Perpendicular",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Four Plus Levud Rule",
+    "candidates": [
+      "Parallel vs Perpendicular",
+      "Four Plus Levud Rule",
+      "Tzurat Hapesach Intro",
+      "Rava Version 1",
+      "Rava Version 2",
+      "Rava Version 3",
+      "Rav Ashi Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava Version 1",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's first (radical) version \u2014 the sukka is permitted ONLY via tzurat hapesach, rejecting the bare tefach \u2014 which matches the 'Rava Version 1' prose describing Rava's reinterpretation that entirely rejects the independent tefach.",
+      "second_heading": "Rava Version 2",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present the two 'ika d'amri' versions of Rava \u2014 the moderate 'also permitted' and the 'also requires' formulations \u2014 which correspond precisely to the 'Rava Version 2' and 'Rava Version 3' prose, but since both must go under one heading, 'Rava Version 2' is the first of the two remaining items.",
+      "current_heading": "Four Plus Levud Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Ashi Example",
+    "candidates": [
+      "Tzurat Hapesach Intro",
+      "Rava Version 1",
+      "Rava Version 2",
+      "Rava Version 3",
+      "Rav Ashi Example",
+      "Migu Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Rav Ashi Example' prose discusses: Rav Ashi finding Rav Kahana constructing a sukkah with both a tefach and a tzurat hapesach, challenging him based on Rava's second version, and Rav Kahana explaining he follows Rava's third version requiring both elements.",
+      "chosen_heading": "Rav Ashi Example",
+      "current_heading": "Rav Ashi Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Migu Principle",
+    "candidates": [
+      "Migu Principle",
+      "Baraita Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rava statement introducing the migu principle (migo d'havei dofen l'inyan Sukkah havei dofen l'inyan Shabbat), which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Migu Principle",
+      "current_heading": "Migu Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Baraita Comparison",
+    "candidates": [
+      "Baraita Comparison",
+      "Shabbat Sukkot Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Baraita Comparison",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover Abaye's baraita objection and Rava's reinterpretation of 'yesera Shabbat al ha-Suka' as comparing general Shabbat to Shabbat Sukkot, which matches exactly the 'Baraita Comparison' prose.",
+      "second_heading": "Shabbat Sukkot Exception",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 cover Abaye's follow-up about 'yeseira Sukkah de-alma a-Sukkah de-Shabbat' and the lechi/mavoi case with Rava's 'mikelita l'khamirta' response, which matches exactly the 'Shabbat Sukkot Exception' prose.",
+      "current_heading": "Baraita Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Shabbat Sukkot Exception",
+    "candidates": [
+      "Shabbat Sukkot Exception",
+      "Mavoi with Lechi",
+      "Psei Bira'ot Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce Rava's ruling about placing schach over a mavoi with a lechi being kasher, which is precisely what the 'Mavoi with Lechi' section's prose describes.",
+      "chosen_heading": "Mavoi with Lechi",
+      "current_heading": "Shabbat Sukkot Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Psei Bira'ot Case",
+    "candidates": [
+      "Mavoi with Lechi",
+      "Psei Bira'ot Case",
+      "Three Cases Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's ruling about placing schach over pasei bira'ot (well-surrounding boards), which is precisely what the 'Psei Bira'ot Case' prose describes.",
+      "chosen_heading": "Psei Bira'ot Case",
+      "current_heading": "Psei Bira'ot Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Three Cases Explained",
+    "candidates": [
+      "Three Cases Explained",
+      "Shade Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the classic 'tzricha' (necessity) argument explaining why each of the three cases \u2014 mavoi, pasei bira'ot, and the two-direction migu \u2014 must be stated, which is precisely what the 'Three Cases Explained' prose describes.",
+      "chosen_heading": "Three Cases Explained",
+      "current_heading": "Three Cases Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Shade Dispute",
+    "candidates": [
+      "Shade Dispute",
+      "Parochet Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly introduce the mishna ruling and the baraita dispute (Rabbis vs. Rabbi Yoshiya) about whether sunlight disqualification applies to schach only or also to walls \u2014 exactly the content described in the 'Shade Dispute' prose.",
+      "chosen_heading": "Shade Dispute",
+      "current_heading": "Shade Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Parochet Source",
+    "candidates": [
+      "Parochet Source",
+      "Abaye's Collection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yoshiya's derivation from the parochet verse and the Rabbis' counter-interpretation, which is precisely what the 'Parochet Source' prose describes.",
+      "chosen_heading": "Parochet Source",
+      "current_heading": "Parochet Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Abaye's Collection",
+    "candidates": [
+      "Abaye's Collection",
+      "Rabbi's Dimension",
+      "Rabbi Yehuda Height",
+      "Rabbi Yoshia Opacity",
+      "Rabbi Shimon Walls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Collection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's sweeping introductory statement listing all the Tannaim who share the dirat keva principle, which is precisely what candidate 0's prose describes.",
+      "second_heading": "Rabbi's Dimension",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the specific citation proving Rabbi Yehuda HaNasi's position via the four-amot-by-four-amot baraita, which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Abaye's Collection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Rabbi Shimon Walls",
+    "candidates": [
+      "Rabbi's Dimension",
+      "Rabbi Yehuda Height",
+      "Rabbi Yoshia Opacity",
+      "Rabbi Shimon Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three cases (Rabbi Yoshiya, Rabbi Yehuda, Rabbi Shimon) as a grouped set, and candidate 2 ('Rabbi Yoshia Opacity') is where this collection begins \u2014 the prose there explicitly says 'the case of Rabbi Yoshia has already been discussed,' signaling it introduces the wrap-up of all three cases together, matching the passage's content of citing evidence for each of the three rabbis in sequence.",
+      "chosen_heading": "Rabbi Yoshia Opacity",
+      "current_heading": "Rabbi Shimon Walls",
+      "moved": true
+    }
+  }
+]

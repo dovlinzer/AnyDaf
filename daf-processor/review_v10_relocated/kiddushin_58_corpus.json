@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Mar Yehuda Challenge",
+    "candidates": [
+      "Opening Context",
+      "Chullin Ba'azarah",
+      "Pasuk Source",
+      "Braita: R. Shimon",
+      "Logic of Positions",
+      "Not Biblical",
+      "Rashi Explains",
+      "Rabbinic Prohibition",
+      "Tosafot Analysis",
+      "Tam Position",
+      "Rashi Position",
+      "Extension Doctrine",
+      "Mar Yehuda Challenge",
+      "Rava Responds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "Both items together constitute Mar Yehuda's challenge \u2014 the baraita implying Rabbi Shimon holds the prohibition is not biblical, followed by the contradicting baraita requiring burning, ending with the silence of Rav Yosef and Shmuel bar Rabba \u2014 which is precisely what the 'Mar Yehuda Challenge' prose describes.",
+      "chosen_heading": "Mar Yehuda Challenge",
+      "current_heading": "Mar Yehuda Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rava Responds",
+    "candidates": [
+      "Rava Responds",
+      "Shechita She'eina",
+      "Known/Discovered Treifah",
+      "R. Shimon vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabba (not Rava) addressing the students' difficulty and resolving it by situating the baraita in a case of shechita venimtza treifa, which is precisely what the 'Rava Responds' prose describes as the core resolution offered by that authority figure.",
+      "chosen_heading": "Rava Responds",
+      "current_heading": "Rava Responds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "R. Shimon vs. Chachamim",
+    "candidates": [
+      "Shechita She'eina",
+      "Known/Discovered Treifah",
+      "R. Shimon vs. Chachamim",
+      "Status Transfer",
+      "Avodah Zarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita's text \u2014 introducing both 'hashochet et hatrefa' and 'vehen hashochet venimtza trefa' with 'zeh vazeh chullin ba'azarah' \u2014 is precisely what candidate 1's prose says it is quoting and paraphrasing, making it the natural home for this passage rather than candidate 2 which discusses the implications of the dispute.",
+      "chosen_heading": "Known/Discovered Treifah",
+      "current_heading": "R. Shimon vs. Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Avodah Zarah",
+    "candidates": [
+      "Status Transfer",
+      "Avodah Zarah",
+      "Two Verses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the ruling (selling forbidden items and betrothing with proceeds results in valid kiddushin) and the derivation from avodah zarah together as one unit, which matches the 'Status Transfer' prose that frames the entire question of what happens to proceeds from selling forbidden items and concludes they are permitted \u2014 the avodah zarah verse is cited here as the source for the general rule, not as the exception, making 'Status Transfer' the better home.",
+      "chosen_heading": "Status Transfer",
+      "current_heading": "Avodah Zarah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Two Verses Rule",
+    "candidates": [
+      "Avodah Zarah",
+      "Two Verses Rule",
+      "Redemption Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the principle that idolatry and Sabbatical year are two verses that come as one and therefore do not teach a general rule, which is precisely what the 'Two Verses Rule' section's prose explains.",
+      "chosen_heading": "Two Verses Rule",
+      "current_heading": "Two Verses Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Redemption Model",
+    "candidates": [
+      "Redemption Model",
+      "Last Object Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal precisely with the Jubilee/kodesh analogy for shevi'is and the tihye/b'havayatah tehei limitation \u2014 exactly what the 'Redemption Model' prose describes.",
+      "chosen_heading": "Redemption Model",
+      "current_heading": "Redemption Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Last Object Rule",
+    "candidates": [
+      "Last Object Rule",
+      "Exception Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the chain-of-exchanges rule and the 'acharon acharon nitpas' principle, which is precisely what the 'Last Object Rule' prose describes.",
+      "chosen_heading": "Last Object Rule",
+      "current_heading": "Last Object Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Exception Parallels",
+    "candidates": [
+      "Exception Parallels",
+      "Objects Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why shemitah and avodah zarah are the two exceptions (using the restrictive expressions 'ki cherem hu' and 'Yovel hi'), which is precisely what the 'Exception Parallels' prose section discusses.",
+      "chosen_heading": "Exception Parallels",
+      "current_heading": "Exception Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Objects Listed",
+    "candidates": [
+      "Objects Listed",
+      "Priest Gifts",
+      "Chatas/Parah",
+      "Ulla's Position",
+      "Separation Context",
+      "Choice Benefit",
+      "Contradiction",
+      "Easy Answer",
+      "Rashi Critique",
+      "Tevel Inheritance",
+      "Gifts Present",
+      "Grandfather's Claim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Objects Listed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah itself, which introduces the list of objects (terumot, maasrot, matanot, mei chatat, eifer chatat) used for kiddushin \u2014 exactly what heading 0 'Objects Listed' describes in its prose.",
+      "second_heading": "Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ulla's teaching that tovas hana'ah einah mamon followed immediately by Rabbi Abba's objection from the mishnah, which is precisely the challenge/contradiction scenario described in heading 6 'Contradiction'.",
+      "current_heading": "Objects Listed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Grandfather's Claim",
+    "candidates": [
+      "Priest Gifts",
+      "Chatas/Parah",
+      "Ulla's Position",
+      "Separation Context",
+      "Choice Benefit",
+      "Contradiction",
+      "Easy Answer",
+      "Rashi Critique",
+      "Tevel Inheritance",
+      "Gifts Present",
+      "Grandfather's Claim",
+      "Direct Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is Ulla's response explaining the case of a Yisrael who inherited tevel from his maternal grandfather who was a kohen, which is precisely the 'Tevel Inheritance' section's topic.",
+      "chosen_heading": "Tevel Inheritance",
+      "current_heading": "Grandfather's Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Direct Question",
+    "candidates": [
+      "Grandfather's Claim",
+      "Direct Question",
+      "Huna Answers",
+      "Clarification Issue",
+      "Rav's Deflection",
+      "Theft Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Clarification Issue",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is exactly the exchange where Rabbi \u1e24iyya bar Avin presses back that the mishnah was already explained as the inherited-tevel case and thus cannot prove tovas hana'ah is mamon \u2014 matching 'Clarification Issue' prose precisely.",
+      "second_heading": "Rav's Deflection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Huna's response using 'hutzat/hotza'a,' the embarrassment, and the clarification about Rav Asi of Huzal \u2014 matching 'Rav's Deflection' prose exactly.",
+      "current_heading": "Direct Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Theft Case",
+    "candidates": [
+      "Huna Answers",
+      "Clarification Issue",
+      "Rav's Deflection",
+      "Theft Case",
+      "Positions",
+      "Benefit = Ownership?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the tannaic dispute about stealing tevel and the question of whether they disagree about tovas hana'ah, which matches perfectly with the 'Theft Case' section's prose about probing the tovas hana'ah question through the tevel theft scenario.",
+      "chosen_heading": "Theft Case",
+      "current_heading": "Theft Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Benefit = Ownership?",
+    "candidates": [
+      "Positions",
+      "Benefit = Ownership?",
+      "Reframing",
+      "Rabbi: Pre-owned",
+      "R.Y.B.Y: Not Pre-owned",
+      "Penalty Rationale",
+      "Escape Logic",
+      "Shmuel Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's rejection of the tovas hana'ah framework and reframes the dispute as being about matanot shelo hurmu k'mi shehurmu damyan, which is precisely what the 'Reframing' section's prose describes.",
+      "chosen_heading": "Reframing",
+      "current_heading": "Benefit = Ownership?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Shmuel Alternative",
+    "candidates": [
+      "Reframing",
+      "Rabbi: Pre-owned",
+      "R.Y.B.Y: Not Pre-owned",
+      "Penalty Rationale",
+      "Escape Logic",
+      "Shmuel Alternative",
+      "Payment Void"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "All four items are a chain of 've'ibba'it eima' alternatives exploring Shmuel's principle and penalty rationales for the same dispute, and Candidate 5's prose explicitly introduces Shmuel's *chitah achas poteres* principle which is the pivot of this entire passage, making it the best single home despite items 3-4 also touching penalty logic covered in candidates 3-4.",
+      "chosen_heading": "Shmuel Alternative",
+      "current_heading": "Shmuel Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Payment Void",
+    "candidates": [
+      "Payment Void",
+      "Forbidden Acts",
+      "Permitted Service",
+      "Language Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit: the contradiction raised from the baraita (item 1), Abaye's resolution (item 2), and the linguistic confirmation (item 3) \u2014 and the 'Payment Void' heading's prose explicitly covers all three elements including the baraita challenge, Abaye's answer, and the language proof, making it the correct home for the entire passage.",
+      "chosen_heading": "Payment Void",
+      "current_heading": "Payment Void",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Language Check",
+    "candidates": [
+      "Forbidden Acts",
+      "Permitted Service",
+      "Language Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage 'Hadran alach ha'ish mekadesh' is the concluding formula marking the end of the chapter, and it appears explicitly quoted at the end of the 'Language Check' section's prose, confirming it belongs there.",
+      "chosen_heading": "Language Check",
+      "current_heading": "Language Check",
+      "moved": false
+    }
+  }
+]

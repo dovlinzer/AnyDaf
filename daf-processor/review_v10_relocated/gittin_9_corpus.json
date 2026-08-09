@@ -1,0 +1,243 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Mishnah: Reservation",
+    "candidates": [
+      "Property & Freedom",
+      "Rava: Split Effect",
+      "Abaye: All or Nothing",
+      "Rav Adda's Challenge",
+      "Mishnah: Reservation",
+      "R. Shimon's Exception",
+      "Tosafot's Explanation",
+      "Halacha: R. Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form one continuous exchange: Rava's ruling (item 1), Rav Adda's challenge asking whose opinion Rava follows (item 1 continued), and the cited mishnah with Rabbi Shimon's position (items 2-3) that answers that challenge \u2014 all of which belongs under 'Rav Adda's Challenge' whose prose explicitly describes this exact exchange.",
+      "chosen_heading": "Rav Adda's Challenge",
+      "current_heading": "Mishnah: Reservation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Halacha: R. Meir",
+    "candidates": [
+      "R. Shimon's Exception",
+      "Tosafot's Explanation",
+      "Halacha: R. Meir",
+      "R. Yosei's Praise",
+      "Despite Praise",
+      "Dying Donor Recovers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Nachman ruling (via Rav Yosef bar Minyumi) that halacha follows Rabbi Meir despite Rabbi Yosei's praise, which is exactly what the prose of candidate 2 ('Halacha: R. Meir') describes \u2014 the current placement is correct.",
+      "chosen_heading": "Halacha: R. Meir",
+      "current_heading": "Halacha: R. Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Dying Donor Recovers",
+    "candidates": [
+      "R. Yosei's Praise",
+      "Despite Praise",
+      "Dying Donor Recovers",
+      "Split Effect Outcome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to Rav Na\u1e25man's position by citing the deathbed-donor case, which is precisely what the 'Dying Donor Recovers' prose describes as the gemara pressing back with this specific ruling.",
+      "chosen_heading": "Dying Donor Recovers",
+      "current_heading": "Dying Donor Recovers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Split Effect Outcome",
+    "candidates": [
+      "Split Effect Outcome",
+      "Tosafot on Institution",
+      "When It Applies",
+      "Qualified vs. Unqualified",
+      "Complete Severance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the split outcome \u2014 property reverts but slave remains free due to public proclamation \u2014 which is precisely what the 'Split Effect Outcome' section's prose discusses.",
+      "chosen_heading": "Split Effect Outcome",
+      "current_heading": "Split Effect Outcome",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Complete Severance",
+    "candidates": [
+      "Tosafot on Institution",
+      "When It Applies",
+      "Qualified vs. Unqualified",
+      "Complete Severance",
+      "Mishnah: Challenge",
+      "Number of Challengers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Rav Ashi's statement explicitly introduces the concept of 'lav kerus gita' (not a complete severance/krisus), which is precisely the topic of the 'Complete Severance' section's prose.",
+      "chosen_heading": "Complete Severance",
+      "current_heading": "Complete Severance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Number of Challengers",
+    "candidates": [
+      "Mishnah: Challenge",
+      "Number of Challengers",
+      "Husband's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of how many challengers are needed, matching the 'Number of Challengers' section's prose about Rabbi Yochanan's ruling that a single challenger does not constitute a valid irur.",
+      "chosen_heading": "Number of Challengers",
+      "current_heading": "Number of Challengers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Husband's Challenge",
+    "candidates": [
+      "Husband's Challenge",
+      "Unable to Say"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage concludes that the contestation is raised by the husband himself, which directly matches the 'Husband's Challenge' section's prose about the husband claiming the get is a forgery and his challenge requiring validation.",
+      "chosen_heading": "Husband's Challenge",
+      "current_heading": "Husband's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Unable to Say",
+    "candidates": [
+      "Unable to Say",
+      "Agunah & Iguan",
+      "Deafness/Muteness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishna and its continuation about bills of divorce and manumission being treated equally, which is precisely what the 'Unable to Say' section's prose discusses \u2014 including the mishnah's extension to shichrurei avadim and the question of what concern applies to the slave.",
+      "chosen_heading": "Unable to Say",
+      "current_heading": "Unable to Say",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Deafness/Muteness",
+    "candidates": [
+      "Agunah & Iguan",
+      "Deafness/Muteness",
+      "Given While Able"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage directly questions whether 'eino yachol lomar' refers to a deaf-mute and cites the mishna excluding a cheresh from bringing a get \u2014 exactly the content described in the 'Deafness/Muteness' prose, which addresses this precise Gemara question about the cheresh exclusion.",
+      "chosen_heading": "Deafness/Muteness",
+      "current_heading": "Deafness/Muteness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Given While Able",
+    "candidates": [
+      "Given While Able",
+      "Befanai Nechtam",
+      "Samaritan Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement clarifying the case of an agent who was competent when he received the get but became a deaf-mute before making the declaration, which is precisely what the 'Given While Able' prose discusses.",
+      "chosen_heading": "Given While Able",
+      "current_heading": "Given While Able",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Samaritan Witnesses",
+    "candidates": [
+      "Befanai Nechtam",
+      "Samaritan Witnesses",
+      "Non-Jewish Courts",
+      "Dina D'Malchuta",
+      "Both Retractable",
+      "Sages' View",
+      "Zakhin Rationale",
+      "R. Meir Dissents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita that enumerates all three similarities between gittei nashim and shichrurei avadim, beginning with the befanai nechtam requirement, which matches heading 0's prose about this baraita and its first point of parallel \u2014 the passage covers all three points together and should sit under the first heading that introduces the baraita.",
+      "chosen_heading": "Befanai Nechtam",
+      "current_heading": "Samaritan Witnesses",
+      "moved": true
+    }
+  }
+]

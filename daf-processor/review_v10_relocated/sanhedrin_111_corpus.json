@@ -1,0 +1,497 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Akiva: No Return",
+    "candidates": [
+      "Akiva: No Return",
+      "Eliezer: Day Metaphor",
+      "Brayta: Olam HaBa",
+      "Shimon: Teshuvah",
+      "Rebbi: Resurrection",
+      "Rabba's Critique"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Akiva: No Return",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting Rabbi Akiva's and Rabbi Eliezer's dispute about the ten tribes' return, which is exactly what headings 0 ('Akiva: No Return') and 1 ('Eliezer: Day Metaphor') cover together \u2014 but since item 1 contains both opinions and the current heading 0 prose explicitly covers both Rabbi Akiva's position and Rabbi Eliezer's day metaphor as part of the same mishna unit, heading 0 is the best single match for the Mishna alone.",
+      "second_heading": "Brayta: Olam HaBa",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's baraita about the ten tribes having no share in the World-to-Come with Rabbi Akiva's reading of the verse in two parts, which is precisely what heading 2 ('Brayta: Olam HaBa') describes in its prose.",
+      "current_heading": "Akiva: No Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rabba's Critique",
+    "candidates": [
+      "Eliezer: Day Metaphor",
+      "Brayta: Olam HaBa",
+      "Shimon: Teshuvah",
+      "Rebbi: Resurrection",
+      "Rabba's Critique",
+      "Children Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Rabba's Critique' \u2014 Rabba bar bar Chana citing Rabbi Yochanan saying Rabbi Akiva abandoned his piety/compassion, with the Jeremiah proof-text about God not bearing a grudge forever regarding the ten tribes.",
+      "chosen_heading": "Rabba's Critique",
+      "current_heading": "Rabba's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Children Debate",
+    "candidates": [
+      "Children Debate",
+      "Akiva Compassion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabban Gamliel's position that minor children of the wicked do not come to the World-to-Come, which is exactly the opening of the 'Children Debate' section's prose, before Rabbi Akiva's compassionate counter-ruling discussed under 'Akiva Compassion'.",
+      "chosen_heading": "Children Debate",
+      "current_heading": "Children Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Akiva Compassion",
+    "candidates": [
+      "Akiva Compassion",
+      "Jew vs. Non-Jew"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's argument that children of the wicked do receive a portion in the World-to-Come, along with his proof-texts and reinterpretations, which is exactly what the 'Akiva Compassion' section's prose discusses in detail.",
+      "chosen_heading": "Akiva Compassion",
+      "current_heading": "Akiva Compassion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Jew vs. Non-Jew",
+    "candidates": [
+      "Jew vs. Non-Jew",
+      "Birth vs. Speech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the minor children of wicked non-Jews not entering the World-to-Come and Rabban Gamliel's derivation from the verse, which exactly matches the prose under 'Jew vs. Non-Jew'.",
+      "chosen_heading": "Jew vs. Non-Jew",
+      "current_heading": "Jew vs. Non-Jew",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Birth vs. Speech",
+    "candidates": [
+      "Birth vs. Speech",
+      "Ravina: Conception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi \u1e24iyya and Rabbi Shimon bar Rabbi about whether a minor enters the World-to-Come from birth or from the moment he begins to speak, which is exactly what the 'Birth vs. Speech' section's prose describes.",
+      "chosen_heading": "Birth vs. Speech",
+      "current_heading": "Birth vs. Speech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Ravina: Conception",
+    "candidates": [
+      "Ravina: Conception",
+      "Nachman: Brit Milah",
+      "Meir: Amen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ravina's opinion (from conception) and Rabbi Na\u1e25man bar Yitz\u1e25ak's opinion (from circumcision) together in one Talmudic statement, but since it is currently placed under 'Ravina: Conception' and the passage begins with Ravina's view, and the essay treats them under separate headings, the passage as a whole (containing both opinions) best fits under the current heading where Ravina's view is introduced first \u2014 however, the content of Rabbi Na\u1e25man bar Yitz\u1e25ak clearly matches candidate 1's prose more specifically, yet since both opinions appear in a single textual unit, the current placement under 'Ravina: Conception' where the combined statement is introduced is the best single home.",
+      "chosen_heading": "Ravina: Conception",
+      "current_heading": "Ravina: Conception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Meir: Amen",
+    "candidates": [
+      "Nachman: Brit Milah",
+      "Meir: Amen",
+      "Amen Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's teaching about saying Amen as the threshold for earning a portion in the World-to-Come, which exactly matches the 'Meir: Amen' section's prose discussion.",
+      "chosen_heading": "Meir: Amen",
+      "current_heading": "Meir: Amen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Amen Definition",
+    "candidates": [
+      "Amen Definition",
+      "Lakish Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines 'Amen' as an acronym for 'El Melech Ne'eman,' which directly matches the 'Amen Definition' section's prose about the significance and meaning of Amen.",
+      "chosen_heading": "Amen Definition",
+      "current_heading": "Amen Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Lakish Strict",
+    "candidates": [
+      "Lakish Strict",
+      "Yochanan Mercy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's strict interpretation and Rabbi Yochanan's merciful response to the same verse, and the current placement under 'Lakish Strict' already includes the full exchange as its prose describes both opinions together.",
+      "chosen_heading": "Lakish Strict",
+      "current_heading": "Lakish Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Yochanan Mercy",
+    "candidates": [
+      "Yochanan Mercy",
+      "Kahana Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Zechariah 13:8 verse with the Reish Lakish/Rabbi Yochanan exchange about shlishi shel Shem vs. shlishi shel Noach, which is explicitly described in the 'Yochanan Mercy' prose section.",
+      "chosen_heading": "Yochanan Mercy",
+      "current_heading": "Yochanan Mercy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Kahana Rav",
+    "candidates": [
+      "Kahana Rav",
+      "Simai Proportion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Kahana Rav' prose, which describes exactly these two exchanges: the Reish Lakish/Rabbi Yochanan and Rav/Rav Kahana dispute about 'one from a city' (item 1), and the vignette about Rav Kahana grooming himself before study (item 2).",
+      "chosen_heading": "Kahana Rav",
+      "current_heading": "Kahana Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Simai Proportion",
+    "candidates": [
+      "Simai Proportion",
+      "Rava Mashiach",
+      "Elazar Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Simai's teaching and Rava's extension, and the current heading 'Simai Proportion' covers both since the Simai material is the primary content; however, candidate 1 'Rava Mashiach' only covers Rava's addendum, while candidate 0 covers the full baraita including Simai's hekesh which is the main body of the passage, making it the better single home for the entire quoted text.",
+      "chosen_heading": "Simai Proportion",
+      "current_heading": "Simai Proportion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Elazar Account",
+    "candidates": [
+      "Rava Mashiach",
+      "Elazar Account",
+      "Patriarchs Faith",
+      "Abraham's Test",
+      "Isaac Jacob"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar bar Rabbi Yose's account in Alexandria about Egyptian treatment of Jewish ancestors and Moses' punishment, which matches exactly the 'Elazar Account' prose description.",
+      "chosen_heading": "Elazar Account",
+      "current_heading": "Elazar Account",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Isaac Jacob",
+    "candidates": [
+      "Patriarchs Faith",
+      "Abraham's Test",
+      "Isaac Jacob",
+      "Name Request",
+      "Thirty-One Kings",
+      "Erech Apayim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abraham's Test",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Abraham and Isaac's tests respectively, matching candidate 1 ('Abraham's Test') and candidate 2 ('Isaac Jacob') \u2014 but since item 1 opens with the 'chaval al de'avdin' framing and item 2 covers Isaac, they belong together under candidate 2 which discusses both Isaac and Jacob's tests; however candidate 1 covers Abraham specifically and the current placement (candidate 2) covers Isaac and Jacob, so items 1-2 belong under candidate 1 which begins with the 'chaval al de'avdin' framing and Abraham's test.",
+      "second_heading": "Name Request",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers Jacob's test and then God's rebuke of Moses for asking His name and challenging Him ('mah shemecha' / 'vehatzel lo hitzalta'), which matches candidate 3 ('Name Request') whose prose explicitly discusses God telling Moses 've'ata amarta li mah shemecha betechila' and the contrast with the Patriarchs, plus the 'tireh asher e'eseh lePharaoh' conclusion.",
+      "current_heading": "Isaac Jacob",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Erech Apayim",
+    "candidates": [
+      "Name Request",
+      "Thirty-One Kings",
+      "Erech Apayim",
+      "Crown Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a single continuous discussion about Moses's prostration upon seeing the attribute of 'slow to anger' (erech apayim), the baraita about Moses challenging God on this attribute, and its later invocation during Israel's sin \u2014 exactly what candidate 2's prose describes.",
+      "chosen_heading": "Erech Apayim",
+      "current_heading": "Erech Apayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Crown Future",
+    "candidates": [
+      "Crown Future",
+      "Virtues Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi \u1e24agga hearing a child recite the verse with 'le'orech yamim' adjacent to 'tefila leMoshe' and concluding Moses saw the attribute of slow to anger (erech apayim), which is exactly what the 'Crown Future' prose discusses.",
+      "chosen_heading": "Crown Future",
+      "current_heading": "Crown Future",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Virtues Reward",
+    "candidates": [
+      "Virtues Reward",
+      "Wine Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Talmudic source text that candidate 0's prose ('Virtues Reward') is explicitly interpreting and discussing \u2014 the crown of the righteous, those who do God's will, humble themselves like remnants, judge truly, overcome the evil inclination, engage in Torah battle, and attend synagogue/study halls early and late.",
+      "chosen_heading": "Virtues Reward",
+      "current_heading": "Virtues Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Wine Judgment",
+    "candidates": [
+      "Wine Judgment",
+      "Definition",
+      "Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the midat hadin's challenge and God's response using the Isaiah verse with pukah/pelilah, which is precisely what the 'Wine Judgment' prose section discusses in detail.",
+      "chosen_heading": "Wine Judgment",
+      "current_heading": "Wine Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Criteria",
+    "candidates": [
+      "Definition",
+      "Criteria",
+      "Execution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna's content directly matches the 'Criteria' section prose, which discusses the specific requirements (madichim from the city, majority subverted, adult men as seducers) and the fallback to individual judgment with witnesses and forewarning \u2014 all of which are the exact content of this mishna passage.",
+      "chosen_heading": "Criteria",
+      "current_heading": "Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Execution",
+    "candidates": [
+      "Execution",
+      "Travelers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the comparison between individuals (stoning/property spared) and multitudes (sword/property destroyed), which is precisely what the 'Execution' section prose discusses.",
+      "chosen_heading": "Execution",
+      "current_heading": "Execution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Travelers",
+    "candidates": [
+      "Travelers",
+      "Burning Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses transient travelers (donkey and camel caravans passing from place to place) and their ability to save the city, which is exactly what the 'Travelers' section prose is about.",
+      "chosen_heading": "Travelers",
+      "current_heading": "Travelers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Burning Rules",
+    "candidates": [
+      "Burning Rules",
+      "Desolation",
+      "Holy Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Burning Rules' prose, which explicitly discusses property of the righteous inside/outside the city and the verse about gathering spoils into the public square (rechov) \u2014 the exact content of both items.",
+      "chosen_heading": "Burning Rules",
+      "current_heading": "Burning Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Holy Objects",
+    "candidates": [
+      "Desolation",
+      "Holy Objects",
+      "Divine Wrath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the principle that 'its spoils but not the spoils of Heaven' means consecrated objects, terumot, second tithe, and sacred scrolls must be redeemed, left to decay, or interred \u2014 exactly what the 'Holy Objects' section's prose describes.",
+      "chosen_heading": "Holy Objects",
+      "current_heading": "Holy Objects",
+      "moved": false
+    }
+  }
+]

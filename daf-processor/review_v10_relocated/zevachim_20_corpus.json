@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Exegetical Question",
+    "candidates": [
+      "Source Pasuk",
+      "Exegetical Question",
+      "Rabbi vs R. Elazar",
+      "Ilfa's Question",
+      "First Explanation",
+      "Alternative View",
+      "Ravin's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the 'ka mashma lan' conclusion that the verse teaches even non-indispensable atonement rites require sanctification, which is exactly what the 'Exegetical Question' prose describes as the answer to 'lehaktir isheh lama li'.",
+      "chosen_heading": "Exegetical Question",
+      "current_heading": "Exegetical Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Ravin's Teaching",
+    "candidates": [
+      "Rabbi vs R. Elazar",
+      "Ilfa's Question",
+      "First Explanation",
+      "Alternative View",
+      "Ravin's Teaching",
+      "Objection Raised",
+      "Rav Assi Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Ilfa's dilemma and its resolution \u2014 Item 1 is the question posed by Ilfa (as reported by Rav Dimi) and Item 2 is Ilfa's own resolution (as reported by Ravin), and the prose under heading 1 ('Ilfa's Question') explicitly covers both the posing of the dilemma and anticipates its resolution, making it the best single home for the entire passage rather than the current placement under heading 4 which covers only the resolution.",
+      "chosen_heading": "Ilfa's Question",
+      "current_heading": "Ravin's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rav Assi Teaching",
+    "candidates": [
+      "Objection Raised",
+      "Rav Assi Teaching",
+      "Rejection",
+      "Twelve Spigots",
+      "Pulley System",
+      "Attribution Question",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Objection Raised",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover Rabbi Yitzchak bar Bisna's objection and the unresolved dilemma about Ilfa's ruling, matching the 'Objection Raised' and 'Rejection' prose \u2014 but since both items together form a single continuous challenge-and-dismissal unit, they best fit under candidate 0 ('Objection Raised') which describes exactly this dynamic of an unresolved dilemma being raised against the proposed resolution.",
+      "second_heading": "Twelve Spigots",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the 'ta shema' from the mishna about ben Katin making twelve spigots and a mukhni for the kiyor, which matches candidate 3 ('Twelve Spigots') whose prose introduces precisely this historical detail about ben Kattin redesigning the kiyor.",
+      "current_heading": "Rav Assi Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Rejection",
+      "Twelve Spigots",
+      "Pulley System",
+      "Attribution Question",
+      "Conclusion",
+      "Bull's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage challenges the attribution inference \u2014 arguing that if the first clause follows Rabbi Elazar be-Rabbi Shimon, so too should the latter clause \u2014 which directly fits the 'Attribution Question' section's prose about determining whose opinion the practice reflects.",
+      "chosen_heading": "Attribution Question",
+      "current_heading": "Conclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Bull's Position",
+    "candidates": [
+      "Conclusion",
+      "Bull's Position",
+      "Definition Tzafon",
+      "Tannaitic Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly asks 'whom have you heard who says that between the Entrance Hall and the altar is considered tzafon?' and answers 'Rabbi Elazar bar Rabbi Shimon' \u2014 this directly concerns the tannaitic dispute over the definition of tzafon, which is the subject of candidate 3's prose.",
+      "chosen_heading": "Tannaitic Dispute",
+      "current_heading": "Bull's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Tannaitic Dispute",
+    "candidates": [
+      "Definition Tzafon",
+      "Tannaitic Dispute",
+      "Kohen Gadol Fatigue",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about the baraita defining tzafon and the Gemara's attempts to derive proof from the mishna's placement of the par \u2014 content that belongs under 'Definition Tzafon,' whose prose explicitly introduces the baraita 'eizehu tzafon' and the question of tzafon's precise boundaries, rather than under 'Tannaitic Dispute' which covers only the collapsed proof and its resolution.",
+      "chosen_heading": "Definition Tzafon",
+      "current_heading": "Tannaitic Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Kohen Gadol Fatigue",
+      "Rabbi Yochanan",
+      "Abaye's View",
+      "Rava's View",
+      "Chronology Problem",
+      "Scene Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya: Rabbi Yochanan's ruling about sanctification for terumat ha-deshen, the challenge about whose opinion it follows, Abaye's resolution, and Rava's competing interpretation \u2014 exactly what the 'Rabbi Yochanan' section prose describes.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Scene Description",
+    "candidates": [
+      "Abaye's View",
+      "Rava's View",
+      "Chronology Problem",
+      "Scene Description",
+      "Interpretive Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah from Tamid describing the kohanim rushing to sanctify, which is exactly what the 'Scene Description' prose introduces and describes in detail.",
+      "chosen_heading": "Scene Description",
+      "current_heading": "Scene Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Interpretive Ambiguity",
+    "candidates": [
+      "Interpretive Ambiguity",
+      "New Kohanim",
+      "Unresolved",
+      "Core Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of challenge-and-resolution about whose opinion the Mishnah in Tamid follows, which is precisely what the 'Interpretive Ambiguity' prose describes \u2014 the bishlama/ella structure of items 1-2 and the gemara's resolution in item 3 are all part of the same interpretive maneuver that section's prose explicitly anticipates.",
+      "chosen_heading": "Interpretive Ambiguity",
+      "current_heading": "Interpretive Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Core Question",
+    "candidates": [
+      "New Kohanim",
+      "Unresolved",
+      "Core Question",
+      "Two Approaches",
+      "Ta Shema 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about whether leaving the Temple (yetziah) disqualifies prior sanctification of hands and feet, which is exactly the new question introduced in the 'Core Question' prose section.",
+      "chosen_heading": "Core Question",
+      "current_heading": "Core Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Ta Shema 1",
+    "candidates": [
+      "Two Approaches",
+      "Ta Shema 1",
+      "Rejection 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the ta shema baraita about sanctification and yetziah, which is exactly what the 'Ta Shema 1' section's prose describes.",
+      "chosen_heading": "Ta Shema 1",
+      "current_heading": "Ta Shema 1",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rejection 1",
+    "candidates": [
+      "Rejection 1",
+      "Ta Shema 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's dismissal of the 'hands only' case and refocuses the dilemma on 'entire body left,' which is precisely what the 'Rejection 1' prose describes.",
+      "chosen_heading": "Rejection 1",
+      "current_heading": "Rejection 1",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Ta Shema 2",
+    "candidates": [
+      "Ta Shema 2",
+      "Rejection 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a kohen sanctifying outside with a kli sharet or inside with a kli chol, with the inference about sanctifying inside then leaving, which matches exactly the prose of 'Ta Shema 2' describing this second ta shema and the ta'ama inference.",
+      "chosen_heading": "Ta Shema 2",
+      "current_heading": "Ta Shema 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rejection 2",
+    "candidates": [
+      "Rejection 2",
+      "Ta Shema 3"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in 'Rejection 2' \u2014 the gemara's response that 'sanctifying outside' refers to extending hands outside while the body remains inside, leaving the case of the entire body exiting still unresolved.",
+      "chosen_heading": "Rejection 2",
+      "current_heading": "Rejection 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Ta Shema 3",
+    "candidates": [
+      "Ta Shema 3",
+      "Rejection 3"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Zevid's third ta shema challenge to Rav Pappa about a kohen leaving the azarah wall boundary requiring either immersion or kiddush yadayim ve-raglayim, which matches exactly the prose description in 'Ta Shema 3'.",
+      "chosen_heading": "Ta Shema 3",
+      "current_heading": "Ta Shema 3",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Rejection 3",
+    "candidates": [
+      "Rejection 3",
+      "Ta Shema 4"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely described in the 'Rejection 3' prose, which quotes and explains Rav Pappa's bathroom-case limitation and the tani ve-hadar mefaresh response \u2014 the current placement is correct.",
+      "chosen_heading": "Rejection 3",
+      "current_heading": "Rejection 3",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Ta Shema 4",
+    "candidates": [
+      "Ta Shema 4",
+      "Pappa Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ta Shema 4",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the ta shema dispute between Rabbi \u1e24iyya bar Yosef and Rabbi Yo\u1e25anan about the red heifer, which is exactly what heading 0 ('Ta Shema 4') describes.",
+      "second_heading": "Pappa Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Pappa's resolution and the follow-up question-and-answer about why sanctification is required at all, which matches precisely the prose of heading 1 ('Pappa Analysis').",
+      "current_heading": "Ta Shema 4",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Pappa Analysis",
+    "candidates": [
+      "Pappa Analysis",
+      "Suspended"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Suspended",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 concern the unresolved tumah dilemma and a failed proof attempt, matching the 'Suspended' section's prose about unresolved ta-shema attempts.",
+      "second_heading": "Pappa Analysis",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 concern the Para Aduma proof, the shanei Para response, and the 'iy hachi lama li de-mekadesh / ke-eyn avodah' exchange, which is precisely what the Pappa Analysis prose describes.",
+      "current_heading": "Pappa Analysis",
+      "moved": true
+    }
+  }
+]

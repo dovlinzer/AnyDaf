@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Labor brings honor",
+    "candidates": [
+      "Three audiences respond",
+      "Labor brings honor",
+      "Shared cloak blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yehuda carrying a pitcher and Rabbi Shimon carrying a basket to demonstrate that labor brings honor, which is exactly what the 'Labor brings honor' section's prose discusses.",
+      "chosen_heading": "Labor brings honor",
+      "current_heading": "Labor brings honor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Shared cloak blessing",
+    "candidates": [
+      "Shared cloak blessing",
+      "Unisex garment law",
+      "Fast day refusal",
+      "Refuses garment gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of Rabbi Yehuda's wife making a cloak, sharing it with her husband, and his reciting the blessing 'Baruch she'atani me'il,' which is precisely what the 'Shared cloak blessing' section's prose discusses.",
+      "chosen_heading": "Shared cloak blessing",
+      "current_heading": "Shared cloak blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Refuses garment gift",
+    "candidates": [
+      "Unisex garment law",
+      "Fast day refusal",
+      "Refuses garment gift",
+      "Gold discovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Shimon ben Gamliel decreeing a fast and Rabbi Yehuda not appearing, which matches exactly the 'Fast day refusal' section's prose about that initial event, rather than the 'Refuses garment gift' section which discusses the subsequent refusal of the cloak.",
+      "chosen_heading": "Fast day refusal",
+      "current_heading": "Refuses garment gift",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Gold discovery",
+    "candidates": [
+      "Refuses garment gift",
+      "Gold discovery",
+      "Father's vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda lifting the mat to reveal gold and stating he does not wish to derive benefit from this world, which is precisely what the 'Gold discovery' section's prose discusses.",
+      "chosen_heading": "Gold discovery",
+      "current_heading": "Gold discovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Father's vow",
+    "candidates": [
+      "Father's vow",
+      "Straw house poverty",
+      "Elijah straw story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva's betrothal to Kalba Savua's daughter and the father's vow prohibiting her from his property, which is precisely what the 'Father's vow' section's prose discusses.",
+      "chosen_heading": "Father's vow",
+      "current_heading": "Father's vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Elijah straw story",
+    "candidates": [
+      "Straw house poverty",
+      "Elijah straw story",
+      "Twelve years learning",
+      "Wife permits departure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the straw house scene (Rabbi Akiva removing straw from her hair and promising a Jerusalem of Gold) AND the Elijah episode, and the prose under 'Straw house poverty' (index 0) explicitly discusses all of these elements together, while the 'Elijah straw story' heading (index 1) discusses what happens *after* the Elijah episode \u2014 her instruction to go study \u2014 suggesting the Elijah story itself belongs under index 0.",
+      "chosen_heading": "Straw house poverty",
+      "current_heading": "Elijah straw story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Wife permits departure",
+    "candidates": [
+      "Twelve years learning",
+      "Wife permits departure",
+      "Twenty-four thousand",
+      "Wicked man challenge",
+      "Wife deserves credit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose discusses: Rabbi Akiva overhearing the wicked man's conversation, his wife's response permitting another twelve years, and his decision to turn back \u2014 all of which is the content of the 'Wife permits departure' section.",
+      "chosen_heading": "Wife permits departure",
+      "current_heading": "Wife permits departure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Wife deserves credit",
+    "candidates": [
+      "Twenty-four thousand",
+      "Wicked man challenge",
+      "Wife deserves credit",
+      "Vow annulment",
+      "From Kalba Savua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the return with 24,000 pairs of students, the greeting, the wicked man's challenge, the wife's response, the rabbanan fending her off, Rabbi Akiva's acknowledgment, and Kalba Savua's vow annulment \u2014 all of which flow continuously from the '24,000' heading whose prose already anticipates this entire sequence starting with 'ata be-esrin ve-arba alfin zugei talmidei.'",
+      "chosen_heading": "Twenty-four thousand",
+      "current_heading": "Wife deserves credit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "From Kalba Savua",
+    "candidates": [
+      "Vow annulment",
+      "From Kalba Savua",
+      "Shipwreck treasure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Akiva becoming wealthy from six things, starting with Kalba Savua and the ship's ram, which matches the 'From Kalba Savua' section's prose about the six sources of wealth and the first source being Kalba Savua.",
+      "chosen_heading": "From Kalba Savua",
+      "current_heading": "From Kalba Savua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Shipwreck treasure",
+    "candidates": [
+      "Shipwreck treasure",
+      "Arabian traders",
+      "Matronita's gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva receiving a log (gavza) found on the seashore that was full of dinars because a ship sank and its cargo was hidden in that log \u2014 this matches the 'Arabian traders' prose which describes cargo placed into a chest from a sunken ship found and brought to Rabbi Akiva, not the 'Shipwreck treasure' prose which describes a mast cavity and paying four zuz to sailors (though confusingly the four zuz detail appears in both, the current placement's prose actually misdescribes this passage by calling it the 'second source' about a ship's mast, whereas this text is clearly the 'third source' \u2014 a log \u2014 matching candidate 1's description of it as the third source involving a chest from a sunken ship).",
+      "chosen_heading": "Arabian traders",
+      "current_heading": "Shipwreck treasure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Matronita's gift",
+    "candidates": [
+      "Arabian traders",
+      "Matronita's gift",
+      "Turnusrufus wife",
+      "Pearl-finding monkey"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Matronita's gift",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rabbi Akiva's wealth from the Serukita convoy and from the Matronita \u2014 exactly the content discussed in candidate 1's prose about the matronita story and divine guarantorship.",
+      "second_heading": "Turnusrufus wife",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes wealth from the wife of Turnus Rufus and from Ketia bar Shalom, which corresponds directly to candidate 2's prose about the fifth source being 'min ishto shel Turnusrufus.'",
+      "current_heading": "Matronita's gift",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Pearl-finding monkey",
+    "candidates": [
+      "Turnusrufus wife",
+      "Pearl-finding monkey",
+      "Torah vessel debate",
+      "Wine vessel analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Gamda giving four dinars to sailors who brought back a monkey that led to the discovery of pearls, which matches exactly the prose under 'Pearl-finding monkey' (candidate 1).",
+      "chosen_heading": "Pearl-finding monkey",
+      "current_heading": "Pearl-finding monkey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Wine vessel analogy",
+    "candidates": [
+      "Torah vessel debate",
+      "Wine vessel analogy",
+      "Judgment questioned",
+      "Physical criticism",
+      "Excommunication death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete wine-vessel analogy exchange \u2014 the challenge, the analogy, the spoiling of wine, and the final remark about ugly scholars \u2014 which is precisely what the 'Wine vessel analogy' prose describes in detail.",
+      "chosen_heading": "Wine vessel analogy",
+      "current_heading": "Wine vessel analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Excommunication death",
+    "candidates": [
+      "Judgment questioned",
+      "Physical criticism",
+      "Excommunication death",
+      "Turmaita definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode from beginning to end \u2014 the woman's arrival for judgment, her challenge, her physical description of Shmuel, the excommunication, and her death \u2014 and heading 0 ('Judgment questioned') with its prose introduces this very story, while the other headings cover only sub-portions; the single passage belongs under the opening heading that frames the whole narrative.",
+      "chosen_heading": "Judgment questioned",
+      "current_heading": "Excommunication death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Turmaita definition",
+    "candidates": [
+      "Excommunication death",
+      "Turmaita definition",
+      "Shmuel's medical use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines and explains the turemita egg preparation process, which directly matches the 'Turmaita definition' section prose discussing exactly this content.",
+      "chosen_heading": "Turmaita definition",
+      "current_heading": "Turmaita definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shmuel's medical use",
+    "candidates": [
+      "Shmuel's medical use",
+      "Jam comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel examining himself with a stalk (kulcha) to such an extent that his household tore their hair out, which directly matches the prose under 'Shmuel's medical use.'",
+      "chosen_heading": "Shmuel's medical use",
+      "current_heading": "Shmuel's medical use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Jam comparison",
+    "candidates": [
+      "Jam comparison",
+      "Rabbi's disinterest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Mishnah in Ma'asrot about workers handling different fig varieties (keloppasin/benot sheva), which directly matches the 'Jam comparison' section's prose about kluvsin and bana'ot sheva fig varieties, not the Rabbi's adjudication dispute in candidate 1.",
+      "chosen_heading": "Jam comparison",
+      "current_heading": "Jam comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rabbi's disinterest",
+    "candidates": [
+      "Rabbi's disinterest",
+      "Wedding feast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the legal dispute over fig compote varieties brought before Rabbi Yehuda HaNasi and his memorable reaction of bewilderment, which matches the current heading's prose precisely.",
+      "chosen_heading": "Rabbi's disinterest",
+      "current_heading": "Rabbi's disinterest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Wedding feast",
+    "candidates": [
+      "Wedding feast",
+      "Bar Kappara's rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the wedding setup and Bar Kappara's rebuke, but the current placement under 'Wedding feast' captures the opening framing, and the content naturally spans both headings; however, since the passage as a whole is already under heading 0 and both headings' prose describe the same single Gemara unit, the current placement is acceptable given the split is artificial.",
+      "chosen_heading": "Wedding feast",
+      "current_heading": "Wedding feast",
+      "moved": false
+    }
+  }
+]

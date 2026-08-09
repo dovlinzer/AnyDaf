@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Galut Case",
+    "candidates": [
+      "Opening & Context",
+      "Three Chapters",
+      "Connection to Sanhedrin",
+      "Testimony Required",
+      "Hachashah vs. Hazamah",
+      "Imanu Hayitem",
+      "Pronoun Clarification",
+      "Focused Scope",
+      "After Judgment",
+      "Sentence-Execution Window",
+      "Zamam & Intent",
+      "Measure for Measure",
+      "Mishnah Text",
+      "Ben Gerusha Case",
+      "Galut Case",
+      "Question Reversed",
+      "Bat Kohen Connection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Galut Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text for the galut case, which the prose under 'Galut Case' explicitly introduces and quotes.",
+      "second_heading": "Question Reversed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge to the Mishnah's opening formulation (keitzad ein ha'edim na'asim zomemim), which is precisely what the 'Question Reversed' prose section describes and analyzes.",
+      "current_heading": "Galut Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Bat Kohen Connection",
+    "candidates": [
+      "Question Reversed",
+      "Bat Kohen Connection",
+      "Lashes Alternative",
+      "Definition",
+      "Kohen Status",
+      "Chalal Concept",
+      "Lo V'Lo L'Zaro"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bat Kohen Connection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Sanhedrin mishna about zomemei Bat Kohen receiving a different death, which is precisely what the 'Bat Kohen Connection' prose describes as the structural bridge from Sanhedrin into Makkot.",
+      "second_heading": "Lashes Alternative",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the distinct case of zomemim who receive forty lashes instead of the standard hazamah punishment (ben gerushah/ben chalutzah), which is exactly what the 'Lashes Alternative' prose describes as the subject of the tanna'im citation and subsequent Gemara discussion.",
+      "current_heading": "Bat Kohen Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Lo V'Lo L'Zaro",
+    "candidates": [
+      "Lashes Alternative",
+      "Definition",
+      "Kohen Status",
+      "Chalal Concept",
+      "Lo V'Lo L'Zaro",
+      "Kal Vachomer",
+      "Challenge",
+      "Sokel Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage derives the rule 'lo v'lo l'zaro' from Deuteronomy 19:19, explaining why witnesses cannot be made challalim because the punishment would extend to their offspring \u2014 exactly what the prose of heading 4 ('Lo V'Lo L'Zaro') describes.",
+      "chosen_heading": "Lo V'Lo L'Zaro",
+      "current_heading": "Lo V'Lo L'Zaro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Sokel Parallel",
+    "candidates": [
+      "Kal Vachomer",
+      "Challenge",
+      "Sokel Parallel",
+      "Galut Defined",
+      "Modern Example",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution sequence: Item 1 is Ravina's objection to Bar Pada's kal vachomer (matching candidate 1's 'Challenge' prose about bitalta torat edim zomemim), and Item 2 is the stoning parallel that illustrates Ravina's critique plus the Gemara's conclusion \u2014 all part of the same continuous dispute, which candidate 1's prose describes in full, while candidate 2 ('Sokel Parallel') only covers part of the passage.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Sokel Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Galut Defined",
+      "Modern Example",
+      "Torah Source",
+      "Rabbi Yochanan Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Reish Lakish deriving from 'hu yanus el achat he'arim' that 'he' but not conspiring witnesses go into exile, which is precisely what the 'Torah Source' prose section describes.",
+      "chosen_heading": "Torah Source",
+      "current_heading": "Torah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rabbi Yochanan Logic",
+    "candidates": [
+      "Rabbi Yochanan Logic",
+      "Kaparah Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's kal vachomer argument that intentional killers who go free make it illogical to exile witnesses who performed no action, which matches precisely the prose under 'Rabbi Yochanan Logic.'",
+      "chosen_heading": "Rabbi Yochanan Logic",
+      "current_heading": "Rabbi Yochanan Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Kaparah Problem",
+    "candidates": [
+      "Kaparah Problem",
+      "Question",
+      "Pasuk Cited",
+      "Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the kaparah (atonement) logic \u2014 arguing that intentional killers should be denied exile to withhold atonement, while zomemim who did no act should be exiled to gain atonement \u2014 which is precisely what the 'Kaparah Problem' prose discusses, and the Gemara concludes by rejecting this line and returning to Reish Lakish's textual derivation.",
+      "chosen_heading": "Kaparah Problem",
+      "current_heading": "Kaparah Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Explanation",
+    "candidates": [
+      "Question",
+      "Pasuk Cited",
+      "Explanation",
+      "Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Ulla's question and the citation/resolution of Deuteronomy 25:1\u20132, which is precisely what candidate 1 ('Pasuk Cited') describes \u2014 the identification of the verse and the puzzle of how its elements connect \u2014 rather than candidate 2 ('Explanation'), which covers the resolution and then moves on to the challenge.",
+      "chosen_heading": "Pasuk Cited",
+      "current_heading": "Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Explanation",
+      "Challenge",
+      "Lav Classification",
+      "Four Things Listed",
+      "Fifth Thing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about deriving lashes from 'lo ta'aneh' and its answer regarding lav she-ein bo ma'aseh, which matches the 'Challenge' heading's prose exactly \u2014 the 'Lav Classification' heading covers the explanation/implications of that principle separately.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Fifth Thing",
+    "candidates": [
+      "Lav Classification",
+      "Four Things Listed",
+      "Fifth Thing",
+      "First Two Explained",
+      "Kofer & Kaparah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita lists all four matters (plus Rabbi Akiva's addition) as a single unit, and the prose under 'Four Things Listed' explicitly describes this baraita including both the four items and Rabbi Akiva's fifth point, making it the natural home for the entire passage rather than splitting it across two headings.",
+      "chosen_heading": "Four Things Listed",
+      "current_heading": "Fifth Thing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Kofer & Kaparah",
+    "candidates": [
+      "First Two Explained",
+      "Kofer & Kaparah",
+      "Kofer Discussion Begins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kofer & Kaparah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the three items not imposed on conspiring witnesses including the kofer-as-kaparah principle, which matches the 'Kofer & Kaparah' prose exactly.",
+      "second_heading": "Kofer Discussion Begins",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the new sub-discussion of 'who is the tanna that holds kofer is kaparah' and the Rav Chisda / Rabbi Yishmael debate, which matches the 'Kofer Discussion Begins' prose exactly.",
+      "current_heading": "Kofer & Kaparah",
+      "moved": true
+    }
+  }
+]

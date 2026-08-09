@@ -1,0 +1,428 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Standing Req't",
+    "candidates": [
+      "Standing Req't",
+      "Tosafot's Limits",
+      "R. Elazar Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core sugya about standing only morning and evening, the meitivei from Rabbi Shimon ben Elazar's 'zaken v'yareita,' and the gemara's resolution \u2014 exactly what the 'Standing Req't' prose describes in detail.",
+      "chosen_heading": "Standing Req't",
+      "current_heading": "Standing Req't",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "R. Elazar Warning",
+    "candidates": [
+      "Tosafot's Limits",
+      "R. Elazar Warning",
+      "Yirah Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar's warning that a talmid chacham who fails to stand before his rebbe is called wicked, will not live long, and his Torah will be forgotten \u2014 exactly what the 'R. Elazar Warning' prose discusses.",
+      "chosen_heading": "R. Elazar Warning",
+      "current_heading": "R. Elazar Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Yirah Link",
+    "candidates": [
+      "Yirah Link",
+      "Talmid Chacham Q.",
+      "Precedence Logic",
+      "Son Stand Q",
+      "Shmuel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why 'v'yareita mei'Elokecha' refers specifically to standing before elders rather than to interest or weights, resolved by Rabbi Elazar's gezeira shava of 'pnei-pnei' \u2014 exactly the content described in the 'Yirah Link' prose section.",
+      "chosen_heading": "Yirah Link",
+      "current_heading": "Yirah Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Shmuel Case",
+    "candidates": [
+      "Talmid Chacham Q.",
+      "Precedence Logic",
+      "Son Stand Q",
+      "Shmuel Case",
+      "R. Y.B.L. Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the Shmuel/Rav Yehuda exchange and its reinterpretation \u2014 exactly the content described in the 'Shmuel Case' prose, which walks through the same proof-attempt, the deflection about Rav Yechezkel being a ba'al ma'asim, and the final reread of Shmuel's instruction as being about honoring a tzaddik in one's rebbe's presence.",
+      "chosen_heading": "Shmuel Case",
+      "current_heading": "Shmuel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "R. Y.B.L. Ruling",
+    "candidates": [
+      "R. Y.B.L. Ruling",
+      "Rambam Rule",
+      "Torah Honor Logic",
+      "Riding Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuous gemara exchange about whether a father must stand before his son who is his rebbe, citing Rabbi Yehoshua ben Levi \u2014 exactly the content described in the 'R. Y.B.L. Ruling' prose.",
+      "chosen_heading": "R. Y.B.L. Ruling",
+      "current_heading": "R. Y.B.L. Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Riding Status",
+    "candidates": [
+      "Rambam Rule",
+      "Torah Honor Logic",
+      "Riding Status",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's discussion of whether riding is like walking, which is precisely what the 'Riding Status' section's prose describes \u2014 the dilemma, the proof from tumah/metzora under a tree, and Rav Nachman bar Kohen's conclusion that rochev kimahalich dami.",
+      "chosen_heading": "Riding Status",
+      "current_heading": "Riding Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "R.S.B.A. Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the ibaya about standing before a sefer Torah and the kal vachomer resolution by Rav Hilkiya, Rav Simon, and Rav Elazar, which is precisely what the prose under heading 0 ('Kal Vachomer') describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "R.S.B.A. Critique",
+    "candidates": [
+      "R.S.B.A. Critique",
+      "Abaye Rejection",
+      "Moshe Example",
+      "Distance Zones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete episode of Rabbi Shimon bar Abba rebuking Rabbi Elai and Rabbi Yaakov bar Zavdi, followed by the Gemara's identification of his position with Rabbi Elazar's ruling and Abaye's curse \u2014 all of which is fully narrated in candidate 0's prose, which covers exactly this sequence including the Rabbi Elazar ruling and Abaye's reaction.",
+      "chosen_heading": "R.S.B.A. Critique",
+      "current_heading": "R.S.B.A. Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Distance Zones",
+    "candidates": [
+      "Abaye Rejection",
+      "Moshe Example",
+      "Distance Zones",
+      "Core Rule",
+      "Time-Bound Ex",
+      "Zman Grama Def"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the dispute between Rabbi Ami and Rabbi Yitzchak Nappacha over whether 'v'hibitu acharei Moshe' is l'gnai or l'shvach, followed by the favorable interpretation (Avdimi of Haifa's graduated standing rules), which is precisely what the 'Moshe Example' prose describes \u2014 the current placement under 'Distance Zones' splits off the second half of this unified dispute.",
+      "chosen_heading": "Moshe Example",
+      "current_heading": "Distance Zones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Zman Grama Def",
+    "candidates": [
+      "Core Rule",
+      "Time-Bound Ex",
+      "Zman Grama Def",
+      "Non-Bound Ex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the paradigmatic examples of time-bound mitzvot (sukkah, lulav, shofar, tzitzit, tefillin), which is exactly what 'Time-Bound Ex' prose describes, not the definitional analysis of Tosafot found in 'Zman Grama Def'.",
+      "chosen_heading": "Time-Bound Ex",
+      "current_heading": "Zman Grama Def",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Non-Bound Ex",
+    "candidates": [
+      "Zman Grama Def",
+      "Non-Bound Ex",
+      "Tosafot Q",
+      "Rule Unreliable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the examples of non-time-bound positive mitzvot (mezuza, ma'akeh, aveidah, shiluach ha-ken), which is exactly what the 'Non-Bound Ex' section's prose describes.",
+      "chosen_heading": "Non-Bound Ex",
+      "current_heading": "Non-Bound Ex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rule Unreliable",
+    "candidates": [
+      "Tosafot Q",
+      "Rule Unreliable",
+      "K.V. Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the gemara's challenge to the klal (item 1: v'klala hu with counterexamples), Rabbi Yochanan's methodological response (item 2: ein l'meidim min ha-klalos), and its proof from the eiruv mishna (item 3) \u2014 precisely what the 'Rule Unreliable' prose describes in detail.",
+      "chosen_heading": "Rule Unreliable",
+      "current_heading": "Rule Unreliable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "K.V. Derivation",
+    "candidates": [
+      "K.V. Derivation",
+      "Tefillin Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the derivation chain from talmud Torah to tefillin to all time-bound mitzvot, which is precisely what section K.V. Derivation discusses in its prose.",
+      "chosen_heading": "K.V. Derivation",
+      "current_heading": "K.V. Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Tefillin Choice",
+    "candidates": [
+      "Tefillin Choice",
+      "Mezuzah Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why tefillin is juxtaposed to talmud Torah rather than mezuzah, which is precisely what the 'Tefillin Choice' prose discusses.",
+      "chosen_heading": "Tefillin Choice",
+      "current_heading": "Tefillin Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Mezuzah Obligation",
+    "candidates": [
+      "Mezuzah Obligation",
+      "Sukkah Needed",
+      "Abaye Pos"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mezuzah Obligation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mezuzah/talmud Torah hekkesh rejection, which matches exactly the 'Mezuzah Obligation' prose discussing lo salka daitach and lemaan yirbu yemeichem.",
+      "second_heading": "Sukkah Needed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the sukkah challenge about why an explicit pasuk was needed to exempt women, which matches exactly the 'Sukkah Needed' prose discussing kol ha'ezrach and the baseline presumption question.",
+      "current_heading": "Mezuzah Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Abaye Pos",
+    "candidates": [
+      "Sukkah Needed",
+      "Abaye Pos",
+      "Rava Pos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement explaining why the pasuk by sukkah was necessary despite the general rule, directly matching the 'Abaye Pos' section's prose about itzterich and teshvu ke'ein taduru.",
+      "chosen_heading": "Abaye Pos",
+      "current_heading": "Abaye Pos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Rava Pos",
+    "candidates": [
+      "Rava Pos",
+      "Olu Reyiyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's argument about deriving women's sukkah obligation via a gezeira shava from the fifteenth of Nisan (matzah) to the fifteenth of Tishrei (sukkot), which matches exactly the prose under 'Rava Pos' describing this very gezeira shava and the need for ha'ezrach to block it.",
+      "chosen_heading": "Rava Pos",
+      "current_heading": "Rava Pos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Olu Reyiyah",
+    "candidates": [
+      "Olu Reyiyah",
+      "Simcha Not Personal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the mitzva of appearance (olat re'iya) and the gezeira shava from hakhel, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Olu Reyiyah",
+      "current_heading": "Olu Reyiyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Simcha Not Personal",
+    "candidates": [
+      "Simcha Not Personal",
+      "Two Verses Rule",
+      "Both Necessary",
+      "Hakhel Superfluous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss why simcha is not a personal obligation for women \u2014 item 1 gives Abaye's answer that a woman's simcha comes through her husband, and item 2 addresses the widow case \u2014 which is precisely what the 'Simcha Not Personal' prose describes.",
+      "chosen_heading": "Simcha Not Personal",
+      "current_heading": "Simcha Not Personal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Hakhel Superfluous",
+    "candidates": [
+      "Two Verses Rule",
+      "Both Necessary",
+      "Hakhel Superfluous",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's invocation of the shnei ketuvim principle to explain why matzah and hakhel neutralize each other, which directly matches the 'Two Verses Rule' section's prose about this exact principle.",
+      "chosen_heading": "Two Verses Rule",
+      "current_heading": "Hakhel Superfluous",
+      "moved": true
+    }
+  }
+]

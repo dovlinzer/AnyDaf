@@ -1,0 +1,271 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Abba Shaul & Firewood",
+    "candidates": [
+      "Trumah Payment Review",
+      "Chametz B'Pesach",
+      "Tamei Grapes Extraction",
+      "Bread & Oil as Fuel",
+      "Abaye & Rava on Grain",
+      "Rabbi Yochanan's View",
+      "Rav Assi: Boiled Grain",
+      "Abba Shaul & Firewood",
+      "Takalah Concern Here",
+      "Rav Ashi's Resolution",
+      "Rava bar Masnah's Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question about Rabbi Yochanan's permitting even wheat, Rav Ashi's answer of 'boiled and repulsive' grain, and the source-context of Rav Ashi's ruling (Abba Shaul heating water with tamei trumah wheat) \u2014 all of which is precisely what candidate 6 ('Rav Assi: Boiled Grain') describes in its prose.",
+      "chosen_heading": "Rav Assi: Boiled Grain",
+      "current_heading": "Abba Shaul & Firewood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rava bar Masnah's Q",
+    "candidates": [
+      "Takalah Concern Here",
+      "Rav Ashi's Resolution",
+      "Rava bar Masnah's Q",
+      "Planted Terumah Mishnah",
+      "Rava's Problem",
+      "Rabbah: Asurin L'Zarim",
+      "Gidulei Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 2's prose discusses: Abaye bar Avin and Rav Chananya bar Avin studying Terumot in Rabba's school, being met by Rava bar Mattana who asks what they've learned, and them turning the question back on him \u2014 which is precisely 'Rava bar Masnah's Q' section.",
+      "chosen_heading": "Rava bar Masnah's Q",
+      "current_heading": "Rava bar Masnah's Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Gidulei Terumah",
+    "candidates": [
+      "Planted Terumah Mishnah",
+      "Rava's Problem",
+      "Rabbah: Asurin L'Zarim",
+      "Gidulei Terumah",
+      "Gidulei Gidulin & Seeds",
+      "Tevel vs. Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbah's explanation that 'asurin' means forbidden to non-priests (zarim) AND Rava bar Mattana's immediate challenge about gidulei terumah being already known, which together constitute the content described under heading 2 'Rabbah: Asurin L'Zarim' \u2014 the challenge is part of the same exchange, not a separate section.",
+      "chosen_heading": "Rabbah: Asurin L'Zarim",
+      "current_heading": "Gidulei Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Tevel vs. Terumah",
+    "candidates": [
+      "Gidulei Gidulin & Seeds",
+      "Tevel vs. Terumah",
+      "Asurin L'Kohanim",
+      "Hesech Hadaat Psul",
+      "Yochanan: Psul Tumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gidulei Gidulin & Seeds",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the gemara's objection that gidulei gidulin of tevel is already known, and the silence of the brothers \u2014 exactly the content described in candidate 0's prose about Rava bar Masnah stumping them.",
+      "second_heading": "Asurin L'Kohanim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Sheshet's answer that 'asurin' means forbidden to kohanim due to hesech hada'as, which is precisely the content described in candidate 2's prose about Rav Sheshet's fundamentally different reading.",
+      "current_heading": "Tevel vs. Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Yochanan: Psul Tumah",
+    "candidates": [
+      "Asurin L'Kohanim",
+      "Hesech Hadaat Psul",
+      "Yochanan: Psul Tumah",
+      "Reish Lakish: Psul Hagoof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the question 'granted according to the one who says hesech hada'as is an inherent disqualification it works out well, but according to the one who says it is a tumah concern what is there to say?' \u2014 this is the opening challenge that motivates the entire discussion of the hesech hada'as dispute, and it belongs under the 'Hesech Hadaat Psul' section where Rav Sheshet's position and the nature of hesech hada'as as an independent psul is introduced, not under the Yochanan section which discusses the resolution of that challenge.",
+      "chosen_heading": "Hesech Hadaat Psul",
+      "current_heading": "Yochanan: Psul Tumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Reish Lakish: Psul Hagoof",
+    "candidates": [
+      "Yochanan: Psul Tumah",
+      "Reish Lakish: Psul Hagoof",
+      "Bird Offerings Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the core dispute between Rabbi Yochanan and Reish Lakish about the nature of hesech hada'as, and candidate 0's prose ('Yochanan: Psul Tumah') explicitly introduces and explains this very dispute including the Elijah illustration, making it the natural home for the passage that states the dispute and its ramifications \u2014 rather than candidate 1 which focuses on Reish Lakish's position and subsequent challenges.",
+      "chosen_heading": "Yochanan: Psul Tumah",
+      "current_heading": "Reish Lakish: Psul Hagoof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Bird Offerings Evidence",
+    "candidates": [
+      "Bird Offerings Evidence",
+      "Notar & Linah",
+      "Psul B'Gufo Rule",
+      "Dam & Baalim",
+      "Rabbi Eliezer: Perform",
+      "Rabbi Yehoshua: Don't Do",
+      "Tzitz Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yochanan's objection from the bird-offering case and Reish Lakish's response, which is precisely what heading 0 ('Bird Offerings Evidence') describes in its prose.",
+      "chosen_heading": "Bird Offerings Evidence",
+      "current_heading": "Bird Offerings Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Tzitz Atonement",
+    "candidates": [
+      "Notar & Linah",
+      "Psul B'Gufo Rule",
+      "Dam & Baalim",
+      "Rabbi Eliezer: Perform",
+      "Rabbi Yehoshua: Don't Do",
+      "Tzitz Atonement",
+      "Mei Chag Hashaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion about the baraita listing nitma/nifsal/yatza \u2014 Rabbi Yochanan's objection, the argument about tzitz atonement for hesech hada'as vs. psul hagoof, and Reish Lakish's response that nifsal means tvul yom \u2014 which is precisely what the 'Tzitz Atonement' prose describes.",
+      "chosen_heading": "Tzitz Atonement",
+      "current_heading": "Tzitz Atonement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Mei Chag Hashaka",
+    "candidates": [
+      "Mei Chag Hashaka",
+      "Sanctify Then Hashaka",
+      "Hashaka Then Sanctify",
+      "Ein Zri'ah L'Hekdesh",
+      "Terumah Zri'ah",
+      "Zri'ah Effect Limited"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mei Chag Hashaka",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yirmeya's sharp rebuke of the Babylonians and his introduction of Reish Lakish's teaching, which is exactly what candidate 0's prose describes as the setup before presenting the actual ruling.",
+      "second_heading": "Sanctify Then Hashaka",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the actual ruling of Rabbi Shimon ben Lakish \u2014 hashaka then consecrate is pure \u2014 which matches candidate 1's prose ('if one first performed the hashaka and then sanctified the water... the water is tahor and valid').",
+      "current_heading": "Mei Chag Hashaka",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Zri'ah Effect Limited",
+    "candidates": [
+      "Sanctify Then Hashaka",
+      "Hashaka Then Sanctify",
+      "Ein Zri'ah L'Hekdesh",
+      "Terumah Zri'ah",
+      "Zri'ah Effect Limited",
+      "Grapes Before Sanctify",
+      "Sanctify Before Press"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together establish and derive the principle of 'ein zri'ah l'hekdesh' \u2014 item 1 states the logical argument ('what does it matter if consecrated first or contact first? apparently planting is not effective for consecrated items') and item 2 is Abaye's immediate follow-up questioning the scope of that same principle \u2014 all of which matches heading 2's prose about deriving and explaining 'ein zri'ah l'hekdesh'.",
+      "chosen_heading": "Ein Zri'ah L'Hekdesh",
+      "current_heading": "Zri'ah Effect Limited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Sanctify Before Press",
+    "candidates": [
+      "Grapes Before Sanctify",
+      "Sanctify Before Press",
+      "Pressing Kezayit Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Abbahu/Yochanan's ruling on grapes pressed before vs. after sanctification, Rav Yosef's challenge about teruma grapes, and the question about pressing 'even many' \u2014 are precisely the content described in the 'Sanctify Before Press' prose, which explicitly discusses kdushat peh for grapes, Rav Yosef's teruma objection, and leads into the pachot pachot question.",
+      "chosen_heading": "Sanctify Before Press",
+      "current_heading": "Sanctify Before Press",
+      "moved": false
+    }
+  }
+]

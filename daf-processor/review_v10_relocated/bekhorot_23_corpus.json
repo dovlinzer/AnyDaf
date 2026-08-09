@@ -1,0 +1,216 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Neveilah Challenge",
+    "candidates": [
+      "Min B'Mino Intro",
+      "Parah Adumah Ashes",
+      "Tumah Reawakens",
+      "Present but Inaccessible",
+      "Lach B'Lach Concept",
+      "Neveilah Challenge",
+      "Fetus & Bittul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of challenge-and-response about neveilah/shchutah bittul and the masa/maga distinction, which is precisely what the 'Neveilah Challenge' prose describes.",
+      "chosen_heading": "Neveilah Challenge",
+      "current_heading": "Neveilah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Fetus & Bittul",
+    "candidates": [
+      "Fetus & Bittul",
+      "Bar Padda Ruling",
+      "R. Yochanan Ruling",
+      "Fetus Application",
+      "Stickiness Principle",
+      "One Drop Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Fetus & Bittul",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the challenge from Rabbi Eliezer ben Yaakov's mishna to Rav Dimi, the attempted resolution via decayed impurity, and the Bar Padda/Rabbi Yochanan dispute as it bears on that resolution \u2014 all of which is discussed under the 'Fetus & Bittul' heading's prose.",
+      "second_heading": "Bar Padda Ruling",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present the Bar Padda/Rabbi Yochanan dispute in its own right (gufah), their scriptural reasoning, and the return to Rabbi Yochanan's bittul b'rov explanation \u2014 exactly what the 'Bar Padda Ruling' prose describes.",
+      "current_heading": "Fetus & Bittul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "One Drop Question",
+    "candidates": [
+      "Bar Padda Ruling",
+      "R. Yochanan Ruling",
+      "Fetus Application",
+      "Stickiness Principle",
+      "One Drop Question",
+      "Fetus Application",
+      "Double Derabbanan",
+      "Tzir Tahor Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question to Rabbi Yochanan about why bittul b'rov is needed when inedibility could suffice, and the response that the fetus was originally fit agav immeh \u2014 this is the exact content described in the R. Yochanan Ruling prose section.",
+      "chosen_heading": "R. Yochanan Ruling",
+      "current_heading": "One Drop Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Tzir Tahor Case",
+    "candidates": [
+      "Fetus Application",
+      "Double Derabbanan",
+      "Tzir Tahor Case",
+      "Nursing from Non-Jew",
+      "Own Flock Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's discussion of the tzir tahor case culminating in the double derabbanan resolution (tumat am ha'aretz derabbanan + tumat mashkin derabbanan), which is precisely what the 'Double Derabbanan' prose section describes and analyzes.",
+      "chosen_heading": "Double Derabbanan",
+      "current_heading": "Tzir Tahor Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Own Flock Case",
+    "candidates": [
+      "Nursing from Non-Jew",
+      "Own Flock Case",
+      "Lactation Evidence",
+      "General Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers both the 'purchasing from a non-Jew' case and the 'own flock' case as a single continuous mishna, and the prose under 'Nursing from Non-Jew' (index 0) explicitly introduces this as the transition to Rabban Shimon ben Gamliel's mishnah, making it the natural home for the full mishna text rather than splitting it across two headings.",
+      "chosen_heading": "Nursing from Non-Jew",
+      "current_heading": "Own Flock Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "General Statement",
+    "candidates": [
+      "Lactation Evidence",
+      "General Statement",
+      "Which Case?",
+      "Cases Ruled Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Nachman's general ruling and Rav Sheshet's initial challenge, which matches the 'General Statement' section's prose describing this ruling, and the challenge ('to which mishna?') begins here before the systematic elimination covered in later sections.",
+      "chosen_heading": "General Statement",
+      "current_heading": "General Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Cases Ruled Out",
+    "candidates": [
+      "Which Case?",
+      "Cases Ruled Out",
+      "Rava's Answer",
+      "Mishna vs. Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Eliezer ben Yaakov's 'kav venaki' principle is explicitly discussed in the 'Cases Ruled Out' prose as one of the candidates Rav Sheshet eliminates, making it the clear home for this item.",
+      "chosen_heading": "Cases Ruled Out",
+      "current_heading": "Cases Ruled Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Mishna vs. Braita",
+    "candidates": [
+      "Rava's Answer",
+      "Mishna vs. Braita",
+      "Compassion Lactation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items together form the continuous Gemara discussion about why Rav stated the halakha follows Rabbi Yosei ben HaMeshullam separately from the general chapter ruling, and the principle that a baraita dispute does not count as a real dispute \u2014 which is precisely what the 'Mishna vs. Braita' section's prose describes in detail.",
+      "chosen_heading": "Mishna vs. Braita",
+      "current_heading": "Mishna vs. Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Compassion Lactation",
+    "candidates": [
+      "Compassion Lactation",
+      "Am Ha'aretz Dilution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about purchasing a nursing animal from a gentile and Rabban Shimon ben Gamliel's rulings on presumptive nursing evidence, which is precisely what the 'Compassion Lactation' prose discusses in detail.",
+      "chosen_heading": "Compassion Lactation",
+      "current_heading": "Compassion Lactation",
+      "moved": false
+    }
+  }
+]

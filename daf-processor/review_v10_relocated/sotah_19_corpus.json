@@ -1,0 +1,492 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Rabbi Yehuda Position",
+    "candidates": [
+      "Torah vs. Zot",
+      "Rabbi Yehuda Position",
+      "Chakhamim Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 presents the Tanna Kamma's position derived from 'torah' (she drinks and repeats), and Item 2 presents Rabbi Yehuda's counter-position derived from 'zot' \u2014 both are the opening of the braita's three-way dispute, which candidate 0 ('Torah vs. Zot') explicitly describes as beginning with exactly this tension, including the Tanna Kamma's use of 'torah' for multiplicity and Rabbi Yehuda's use of 'zot' as restrictive, along with the Nechunya testimony.",
+      "chosen_heading": "Torah vs. Zot",
+      "current_heading": "Rabbi Yehuda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Chakhamim Rejection",
+    "candidates": [
+      "Rabbi Yehuda Position",
+      "Chakhamim Rejection",
+      "Gemara's Question",
+      "Identical Circumstances",
+      "All Different"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chakhamim Rejection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbis' sweeping rejection of the double-drinking procedure in all cases, which is precisely what the 'Chakhamim Rejection' prose describes.",
+      "second_heading": "Gemara's Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question pressing both the tanna kamma and Rabbanan Batrai about the textual signals (zot vs. torat), which is exactly what the 'Gemara's Question' prose describes.",
+      "current_heading": "Chakhamim Rejection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "All Different",
+    "candidates": [
+      "Gemara's Question",
+      "Identical Circumstances",
+      "All Different",
+      "Middle Cases",
+      "Tanna Kamma Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rava's complete analytical framework mapping the full logical space \u2014 identical circumstances, all-different circumstances, and the middle cases \u2014 which the prose of candidate 1 ('Identical Circumstances') explicitly introduces as Rava's comprehensive mapping, and the subsequent candidates 2 and 3 cover the remaining parts of that same framework; however, since candidate 1's prose explicitly frames Rava's entire analytical project beginning with the first case, and items 2\u20133 are continuations of that same Rava passage, the natural home for the full passage is candidate 1 where Rava's framework is introduced, but given that the passage spans candidates 1\u20133 as one continuous Rava statement, the best single heading is candidate 1 which introduces Rava's framework, with the understanding that items 2 and 3 continue directly from item 1 as part of the same unbroken ruling.",
+      "chosen_heading": "Identical Circumstances",
+      "current_heading": "All Different",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Tanna Kamma Logic",
+    "candidates": [
+      "Middle Cases",
+      "Tanna Kamma Logic",
+      "Rabbanan Batrai Logic",
+      "Rabbi Yehuda Balance",
+      "Who Takes It"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together explain the logical derivations of the three tanna'im (tanna kamma, Rabbanan Batrai, Rabbi Yehuda) from the words 'torat' and 'zot', which is exactly what the 'Tanna Kamma Logic' section introduces \u2014 the current placement is correct since this passage presents all three opinions' reasoning in sequence, and the tanna kamma's logic is the starting point of that sequence.",
+      "chosen_heading": "Tanna Kamma Logic",
+      "current_heading": "Tanna Kamma Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Who Takes It",
+    "candidates": [
+      "Rabbanan Batrai Logic",
+      "Rabbi Yehuda Balance",
+      "Who Takes It"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05b2\u05d3\u05b7\u05e8\u05b7\u05df \u05e2\u05b2\u05dc\u05b8\u05da\u05b0 \u05d4\u05b8\u05d9\u05b8\u05d4 \u05de\u05b5\u05d1\u05b4\u05d9\u05d0' is the closing formula for the chapter '\u05d4\u05b8\u05d9\u05b8\u05d4 \u05de\u05b5\u05d1\u05b4\u05d9\u05d0' (He Would Bring), which corresponds to the third perek discussed in the 'Who Takes It' section's prose about the mincha offering ritual.",
+      "chosen_heading": "Who Takes It",
+      "current_heading": "Who Takes It",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Who Takes It",
+    "candidates": [
+      "Who Takes It",
+      "Sanctification",
+      "Five Steps",
+      "Tanna Kamma Order",
+      "Rabbi Shimon Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage enumerates all five procedural steps of the sotah's mincha \u2014 waving, bringing near, taking the handful, burning, and the remainder eaten by priests \u2014 which is precisely what the 'Five Steps' section discusses.",
+      "chosen_heading": "Five Steps",
+      "current_heading": "Who Takes It",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rabbi Shimon Order",
+    "candidates": [
+      "Sanctification",
+      "Five Steps",
+      "Tanna Kamma Order",
+      "Rabbi Shimon Order",
+      "Rabbi Shimon Concession",
+      "Owner Waving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon's position on order (mincha before drinking) with his scriptural proof from 've-achar yashkeh,' exactly matching the 'Rabbi Shimon Order' section's prose.",
+      "chosen_heading": "Rabbi Shimon Order",
+      "current_heading": "Rabbi Shimon Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Owner Waving",
+    "candidates": [
+      "Rabbi Shimon Concession",
+      "Owner Waving",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange recorded in the 'Owner Waving' section's prose: Rabbi Elazar's challenge to Rabbi Yoshiya about deriving that the sota's mincha requires tenufah, and the clarification that the real question is about the owner (the woman) participating in the waving.",
+      "chosen_heading": "Owner Waving",
+      "current_heading": "Owner Waving",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Joint Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezeirah shavah derivation linking 'hand' in the sotah passage to 'hand' in the shelamim passage, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Joint Action",
+    "candidates": [
+      "Joint Action",
+      "Gemara Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the gezeirah shavah connecting sotah and shelamim waving, and the practical mechanism of the kohen placing hands beneath the owner's hands \u2014 exactly what the 'Joint Action' prose discusses.",
+      "chosen_heading": "Joint Action",
+      "current_heading": "Joint Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Gemara Reading",
+    "candidates": [
+      "Gemara Reading",
+      "Sequence Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the exact discussion described in 'Gemara Reading' prose: the contradiction in the mishna (item 1), the resolution distinguishing the two discussions (item 2), and the substantive Rabbanan/Rabbi Shimon debate (item 3) \u2014 all of which the 'Gemara Reading' prose explicitly describes, including the seder mincha keitzad clarification and the drinking-vs-mincha sequence dispute.",
+      "chosen_heading": "Gemara Reading",
+      "current_heading": "Gemara Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Sequence Debate",
+    "candidates": [
+      "Sequence Debate",
+      "First V'Hishkah",
+      "V'Achar Yashkeh",
+      "Third V'Hishkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon's concession be-di'avad that if she drank first and the mincha was brought afterward it is valid, which is explicitly discussed in the 'Sequence Debate' prose as 'Rabbi Shimon concedes be-di'avad: if she drank first and the mincha was brought afterward, it is kesherah.'",
+      "chosen_heading": "Sequence Debate",
+      "current_heading": "Sequence Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Third V'Hishkah",
+    "candidates": [
+      "First V'Hishkah",
+      "V'Achar Yashkeh",
+      "Third V'Hishkah",
+      "Three Prerequisites",
+      "Kometz Requirement",
+      "Full Erasure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Third V'Hishkah",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 contain the baraita discussing Rabbi Akiva's and Rabbi Shimon's readings of the repeated ve-hishkah / ve-achar yashkeh, which is precisely what candidate 2 ('Third V'Hishkah') describes in its prose.",
+      "second_heading": "Three Prerequisites",
+      "second_confidence": "high",
+      "second_reason": "Item 3 elaborates the first of the three prerequisites (kometz), and candidate 3 ('Three Prerequisites') / candidate 4 ('Kometz Requirement') \u2014 the prose of candidate 4 explicitly describes 'Rabbi Shimon le-ta'ameih' and the kometz-first position, matching item 3 exactly.",
+      "current_heading": "Third V'Hishkah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Full Erasure",
+    "candidates": [
+      "Three Prerequisites",
+      "Kometz Requirement",
+      "Full Erasure",
+      "Rav Ashi Clarify",
+      "Oath First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question 'ela mai mashkeh lah' (what would she drink if not erased) and Rav Ashi's answer about visible impressions, which is precisely what heading 2 'Full Erasure' discusses \u2014 the gemara's question about why the erasure requirement is needed and the answer that partial erasure is insufficient.",
+      "chosen_heading": "Full Erasure",
+      "current_heading": "Full Erasure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Oath First",
+    "candidates": [
+      "Rav Ashi Clarify",
+      "Oath First",
+      "First Mention",
+      "Rishumo Nikkar",
+      "Forcing Compliance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the oath-before-drinking requirement and Rava's ruling that a megillat sotah written before the oath is invalid, which matches exactly the 'Oath First' section's prose about this third prerequisite and Rava's statement.",
+      "chosen_heading": "Oath First",
+      "current_heading": "Oath First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Forcing Compliance",
+    "candidates": [
+      "First Mention",
+      "Rishumo Nikkar",
+      "Forcing Compliance",
+      "Afterwards Explicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the three-verse framework and explain the Rabbanan's interpretation of all three pesukim, which is precisely what heading 0 ('First Mention') describes as its topic \u2014 the gemara establishing how Rabbanan account for the three occurrences, starting with the first ve-hishkah as the operative timing instruction.",
+      "chosen_heading": "First Mention",
+      "current_heading": "Forcing Compliance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Afterwards Explicit",
+    "candidates": [
+      "Forcing Compliance",
+      "Afterwards Explicit",
+      "Rabbi Yehuda Force"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Shimon's reading of the three ve-hishkah occurrences and the Rabbis' rebuttal about be-di'avad, which is precisely what the 'Afterwards Explicit' prose describes in detail.",
+      "chosen_heading": "Afterwards Explicit",
+      "current_heading": "Afterwards Explicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Rabbi Yehuda Force",
+    "candidates": [
+      "Rabbi Yehuda Force",
+      "Akiva Purpose",
+      "Akiva Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 the challenge to Rabbi Akiva, Rabbi Yehuda's iron hook, and Rabbi Akiva's response including both the 'already evaluated' argument and the kometz distinction \u2014 and the current heading's prose explicitly frames this as the gemara raising a challenge against attributing forced drinking to Rabbi Akiva via the Rabbi Yehuda baraita, which is exactly what this passage presents.",
+      "chosen_heading": "Rabbi Yehuda Force",
+      "current_heading": "Rabbi Yehuda Force",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Akiva Distinction",
+    "candidates": [
+      "Akiva Purpose",
+      "Akiva Distinction",
+      "Akiva Contradiction",
+      "Fear vs. Guilt",
+      "Calm Refusal",
+      "Before Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara pressing the internal tension in Rabbi Akiva's position \u2014 asking why she can't retract after the kometz if she is already 'established as evaluated' \u2014 which is exactly what the 'Akiva Contradiction' prose describes.",
+      "chosen_heading": "Akiva Contradiction",
+      "current_heading": "Akiva Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Before Kometz",
+    "candidates": [
+      "Akiva Contradiction",
+      "Fear vs. Guilt",
+      "Calm Refusal",
+      "Before Kometz",
+      "After Kometz",
+      "Case Setup",
+      "Cannot Retract"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the gemara's resolution of the Rabbi Akiva contradiction by introducing the fear-vs-guilt distinction (item 1), elaborating Rabbi Akiva's full position (item 2), noting the internal contradiction (item 3), and resolving it as trei tanna'ei (item 4) \u2014 which matches exactly the 'Fear vs. Guilt' prose describing how the gemara resolves the apparent contradiction within Rabbi Akiva's position through this crucial distinction.",
+      "chosen_heading": "Fear vs. Guilt",
+      "current_heading": "Before Kometz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Cannot Retract",
+    "candidates": [
+      "After Kometz",
+      "Case Setup",
+      "Cannot Retract",
+      "Fear-Based Refusal",
+      "Teiku",
+      "Bitter Additive",
+      "Textual Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma itself \u2014 she said she won't drink (calmly), then retracted and said she will \u2014 which matches the 'Case Setup' prose that describes exactly this scenario of a calm woman who subsequently changes her mind, before the arguments for each side are discussed in separate subsequent sections.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Cannot Retract",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Textual Proof",
+    "candidates": [
+      "Fear-Based Refusal",
+      "Teiku",
+      "Bitter Additive",
+      "Textual Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states the ruling of Shmuel's father that a bitter substance must be placed into the water, which matches the 'Bitter Additive' section's prose about this requirement, while the current placement under 'Textual Proof' describes the verse-based reasoning in more detail \u2014 the passage itself is the ruling, not the textual derivation.",
+      "chosen_heading": "Bitter Additive",
+      "current_heading": "Textual Proof",
+      "moved": true
+    }
+  }
+]

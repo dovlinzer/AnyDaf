@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Validation Logic",
+    "candidates": [
+      "Structure & Definition",
+      "Validity Requirements",
+      "Disqualified Witnesses",
+      "One Disqualified Maximum",
+      "Validation Logic",
+      "Abaye's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explains the reasoning behind limiting disqualified witnesses to one \u2014 specifically the risk of validating a get with two relatives and only one valid witness \u2014 which is precisely what the 'Validation Logic' prose section describes.",
+      "chosen_heading": "Validation Logic",
+      "current_heading": "Validation Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Abaye's Proof",
+    "candidates": [
+      "Abaye's Proof",
+      "Non-Consecutive Get Reach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Ashi's precision argument about the baraita skipping one-by-one, and Abaye's inference about where the relative may sign \u2014 are precisely the content described in candidate 0's prose about the baraita confirmation and the permissibility of signing at any position.",
+      "chosen_heading": "Abaye's Proof",
+      "current_heading": "Abaye's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Non-Consecutive Get Reach",
+    "candidates": [
+      "Non-Consecutive Get Reach",
+      "Rashi's Interpretation",
+      "Rabbi Ammi Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the inference that beis din may validate any three non-consecutive signatures (mikol tlasa d'mekaymin), which is precisely what the 'Non-Consecutive Get Reach' prose describes.",
+      "chosen_heading": "Non-Consecutive Get Reach",
+      "current_heading": "Non-Consecutive Get Reach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rabbi Ammi Case",
+    "candidates": [
+      "Rashi's Interpretation",
+      "Rabbi Ammi Case",
+      "Exclusionary Get",
+      "R. Eliezer vs. Chachamim",
+      "Remedial Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ami's ruling to complete a get with a slave from the marketplace, which is precisely what the 'Rabbi Ammi Case' section's prose discusses.",
+      "chosen_heading": "Rabbi Ammi Case",
+      "current_heading": "Rabbi Ammi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Remedial Procedure",
+    "candidates": [
+      "Exclusionary Get",
+      "R. Eliezer vs. Chachamim",
+      "Remedial Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The hadran (closing formula marking the end of a perek) belongs at the conclusion of the material being summarized, which is the 'Remedial Procedure' section that wraps up the discussions of the Hamgaresh perek before transitioning to the next one.",
+      "chosen_heading": "Remedial Procedure",
+      "current_heading": "Remedial Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Remedial Procedure",
+    "candidates": [
+      "Remedial Procedure",
+      "Exclusion vs. Condition",
+      "Practical Consequences",
+      "Word Ela Meaning",
+      "Negaim Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the dispute between Rabbi Eliezer and the Rabbis, the remedial procedure (take back and re-give the get), and the rule about writing the exclusion inside the get \u2014 all of which are exactly what the 'Remedial Procedure' prose discusses.",
+      "chosen_heading": "Remedial Procedure",
+      "current_heading": "Remedial Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Negaim Proof",
+    "candidates": [
+      "Exclusion vs. Condition",
+      "Practical Consequences",
+      "Word Ela Meaning",
+      "Negaim Proof",
+      "R. Yose Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-3 pose the dilemma of whether 'ella' means 'chutz' or 'al menat' and its implications for the Eliezer/Rabbis dispute, and items 4-5 (Ravina's proof from Negaim) resolve it \u2014 all of which matches the 'Word Ela Meaning' prose that describes arguing the plain meaning of 'ela' is 'chutz' and confirming it via a proof from another domain, rather than the 'Negaim Proof' section which covers only the tail end of this passage.",
+      "chosen_heading": "Word Ela Meaning",
+      "current_heading": "Negaim Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "R. Yose Braita",
+    "candidates": [
+      "Negaim Proof",
+      "R. Yose Braita",
+      "Rav Yannai Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items present the Rabbi Yose son of Rabbi Yehuda baraita and its analysis \u2014 distinguishing chutz from al menat, Rabbi Eliezer's reasoning, and the Rabbis' counter-reasoning \u2014 which is precisely what the 'R. Yose Braita' prose section describes.",
+      "chosen_heading": "R. Yose Braita",
+      "current_heading": "R. Yose Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav Yannai Verse",
+    "candidates": [
+      "Rav Yannai Verse",
+      "Chachamim Response",
+      "R. Yochanan Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yannai's verse-based derivation (supporting Rabbi Eliezer) and the Rabbis' response about 'l'chol ish v'ish,' which the prose under heading 0 explicitly discusses, and heading 0's prose directly describes this Gemara including both Rav Yannai's position and the implicit Rabbinic counter, making it the best fit for the full passage.",
+      "chosen_heading": "Rav Yannai Verse",
+      "current_heading": "Rav Yannai Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "R. Yochanan Verse",
+    "candidates": [
+      "Chachamim Response",
+      "R. Yochanan Verse",
+      "Partial Kiddushin: Abba's",
+      "Kiddushin-Gerushin Link",
+      "Two Men Scenario",
+      "Abaye's Resolution",
+      "Two Brothers Case",
+      "Yibum Problem",
+      "Shimon Ineffective",
+      "Effective Marriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yochanan's derivation from the kohen verse and the Rabbis' counter that kehunah law is different \u2014 are precisely the content described in the 'R. Yochanan Verse' prose section, which explicitly covers this drasha and the Chachamim's response that 'issur kehunah shani.'",
+      "chosen_heading": "R. Yochanan Verse",
+      "current_heading": "R. Yochanan Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Effective Marriage Case",
+    "candidates": [
+      "Partial Kiddushin: Abba's",
+      "Kiddushin-Gerushin Link",
+      "Two Men Scenario",
+      "Abaye's Resolution",
+      "Two Brothers Case",
+      "Yibum Problem",
+      "Shimon Ineffective",
+      "Effective Marriage Case",
+      "Simultaneous Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage \u2014 Rabbi Abba's dilemma about kiddushin, its resolution via v'yatza v'hayta, and Abaye's elaboration with the Reuven/Shimon scenarios \u2014 is the content that heading 0 ('Partial Kiddushin: Abba's') introduces, while the current placement under heading 7 ('Effective Marriage Case') is too late and too narrow, describing only the tail end of the sugya.",
+      "chosen_heading": "Partial Kiddushin: Abba's",
+      "current_heading": "Effective Marriage Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Simultaneous Marriage",
+    "candidates": [
+      "Effective Marriage Case",
+      "Simultaneous Marriage",
+      "Gap-Filling Scenario",
+      "Two Interpretations",
+      "Single Name Case",
+      "Shimon Only Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's dilemma about a husband who said 'permitted to all except Reuven and Shimon' and then added 'to Reuven and Shimon,' which is precisely the gap-filling scenario described in candidate 2's prose.",
+      "chosen_heading": "Gap-Filling Scenario",
+      "current_heading": "Simultaneous Marriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Shimon Only Case",
+    "candidates": [
+      "Gap-Filling Scenario",
+      "Two Interpretations",
+      "Single Name Case",
+      "Shimon Only Case",
+      "Even For Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's fundamental ambiguity question (mi amrinan mah d'asar shara) and its immediate subdivisions, which the 'Two Interpretations' prose directly describes as a unified passage \u2014 the current placement under 'Shimon Only Case' captures only item 3, but items 1\u20132 belong to the same chain and candidate 1's prose covers the entire sequence.",
+      "chosen_heading": "Two Interpretations",
+      "current_heading": "Shimon Only Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Even For Case",
+    "candidates": [
+      "Shimon Only Case",
+      "Even For Case",
+      "Rav Ashi Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's dilemma about 'af leShimon' and whether 'af' refers back to Reuven or forward to the world, which is precisely what the 'Even For Case' prose describes.",
+      "chosen_heading": "Even For Case",
+      "current_heading": "Even For Case",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rav Kahana's Teaching",
+    "candidates": [
+      "Rav Kahana's Teaching",
+      "Two Piles Combining",
+      "Metzaref vs Mechaber"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Kahana's Teaching",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the narrative introduction \u2014 'when Rav Kahana ascended he found the sons of Rabbi \u1e24iyya sitting and saying' \u2014 which is exactly what heading 0 ('Rav Kahana's Teaching') describes as its opening frame.",
+      "second_heading": "Two Piles Combining",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the actual case and question (divided isaron, tvul yom touching one pile, the kli metzaref principle from Chagiga) which is precisely the content described in heading 1 ('Two Piles Combining').",
+      "current_heading": "Rav Kahana's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Metzaref vs Mechaber",
+    "candidates": [
+      "Two Piles Combining",
+      "Metzaref vs Mechaber",
+      "Extraneous Flour",
+      "Air Space Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Metzaref vs Mechaber' prose describes: Rav Kahana's linguistic distinction between 'kli mechaber' and 'kli metzaref' (including the follow-up question about inserting a third pile between them, which is the transition into the next topic but is quoted here as part of this exchange).",
+      "chosen_heading": "Metzaref vs Mechaber",
+      "current_heading": "Metzaref vs Mechaber",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Air Space Transfer",
+    "candidates": [
+      "Extraneous Flour",
+      "Air Space Transfer",
+      "Kli Cheres Exception",
+      "De'Oraita Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Extraneous Flour",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Kahana's answer about extraneous flour not being joined by the vessel, which is precisely what candidate 0 ('Extraneous Flour') describes in its prose.",
+      "second_heading": "Air Space Transfer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the question about the tvul yom inserting his finger into the airspace and Rav Kahana's reply about kli cheres, which is exactly what candidate 1 ('Air Space Transfer') discusses in its prose.",
+      "current_heading": "Air Space Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "De'Oraita Question",
+    "candidates": [
+      "Kli Cheres Exception",
+      "De'Oraita Question",
+      "Two Menachot Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's question about whether *tziruf* is *de'oraita* or *derabbanan*, which is precisely what the 'De'Oraita Question' prose describes and analyzes.",
+      "chosen_heading": "De'Oraita Question",
+      "current_heading": "De'Oraita Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Two Menachot Proof",
+    "candidates": [
+      "Two Menachot Proof",
+      "Comb Analogy",
+      "Mimenu Braita",
+      "Compartmented Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the 'bnei Rabbi Chiya' response citing the mishna of two intermingled menachot and the Gemara's question about why it is valid when parts don't touch \u2014 exactly the content described in the 'Two Menachot Proof' prose.",
+      "chosen_heading": "Two Menachot Proof",
+      "current_heading": "Two Menachot Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Compartmented Vessels",
+    "candidates": [
+      "Comb Analogy",
+      "Mimenu Braita",
+      "Compartmented Vessels",
+      "Water Connection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Comb Analogy",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 correspond to Rava's comb-analogy challenge to the mishna proof and then Rava's own baraita proof from 'mimenu,' which matches headings 0 and 1 \u2014 but since item 1 is Rava's comb objection and item 2 is Rava's baraita proof, the split should place item 1 under 'Comb Analogy' (index 0) and items 2-4 under 'Compartmented Vessels' discussion; however items 2-4 form the continuous baraita/Abaye qualification chain best matching heading 1 ('Mimenu Braita') for item 2 and heading 2 for items 3-4.",
+      "second_heading": "Compartmented Vessels",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form a single continuous chain: Rava cites the mimenu baraita, Abaye qualifies it with the kfiza-b'kava scenario, and concludes with the hen-trough case \u2014 exactly the content described in heading 2 ('Compartmented Vessels'), making the current placement correct for items 2-4.",
+      "current_heading": "Compartmented Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Water Connection",
+    "candidates": [
+      "Water Connection",
+      "Extending Tumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Water Connection",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yirmeya's first dilemma about tziruf kli v'chibur mayim, which is exactly what heading 0 ('Water Connection') discusses \u2014 the scenario where A and B are inside the vessel and C is outside connected by liquid.",
+      "second_heading": "Extending Tumah",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the reverse dilemma where the tvul yom touches from outside (mi'bachutz), which is precisely what heading 1 ('Extending Tumah') describes \u2014 the question of whether tziruf kli operates when the original tumah event occurs outside the vessel.",
+      "current_heading": "Water Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Extending Tumah",
+    "candidates": [
+      "Extending Tumah",
+      "Tumah Origin (Teiku)",
+      "Tvul Yom on Zav",
+      "Sheet & Midras",
+      "Rabbi Yosi Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tvul Yom on Zav",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rava's dilemma about the divided isaron and Abaye's opening challenge) match the 'Tvul Yom on Zav' prose which describes exactly this scenario of a divided isaron, tziruf kli, and the question of sava lei tumah.",
+      "second_heading": "Sheet & Midras",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 (the sheet/midras mishna, Rabbi Yosi's dispute, the zav touching sequence, and the two folded sheets baraita) match the 'Sheet & Midras' and 'Rabbi Yosi Dispute' prose which describes exactly this chain of argument about the sadin tamei midras case.",
+      "current_heading": "Extending Tumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rabbi Yosi Dispute",
+    "candidates": [
+      "Tumah Origin (Teiku)",
+      "Tvul Yom on Zav",
+      "Sheet & Midras",
+      "Rabbi Yosi Dispute",
+      "Rabbi Yosi Dispute",
+      "Multiple Tumah Levels",
+      "Simultaneous Levels",
+      "Three Halves Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage 'hatam b'vat achat, hacha b'zeh achar zeh' \u2014 distinguishing simultaneous vs. sequential tumah acquisition \u2014 is precisely what the prose of candidate 6 ('Simultaneous Levels') describes as the Gemara's resolution of the two-blankets case.",
+      "chosen_heading": "Simultaneous Levels",
+      "current_heading": "Rabbi Yosi Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Three Halves Setup",
+    "candidates": [
+      "Rabbi Yosi Dispute",
+      "Multiple Tumah Levels",
+      "Simultaneous Levels",
+      "Three Halves Setup",
+      "Connection Logic",
+      "Lost Tamei Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario introduced in 'Three Halves Setup' \u2014 Rava's case of dividing an isaron, losing one half, setting aside a replacement, then finding the original \u2014 which is precisely what the prose of heading 3 sets up.",
+      "chosen_heading": "Three Halves Setup",
+      "current_heading": "Three Halves Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Lost Tamei Transfer",
+    "candidates": [
+      "Connection Logic",
+      "Lost Tamei Transfer",
+      "Replacement Tamei",
+      "Original Tamei",
+      "Household Unity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the case where the separated half-tenth (mufrash/B-prime) becomes impure and the joined/excluded parties \u2014 exactly matching the 'Replacement Tamei' section's prose about nitma mufrash, mufrash v'rishon mitztarfin, and avud ein mitztaref.",
+      "chosen_heading": "Replacement Tamei",
+      "current_heading": "Lost Tamei Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Household Unity",
+    "candidates": [
+      "Replacement Tamei",
+      "Original Tamei",
+      "Household Unity",
+      "Kometz Consumed",
+      "Indeterminate Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Abaye's statement that even if one of the half-tenths becomes impure all join together, with the reasoning 'they are all residents of one cabin,' which is precisely what the 'Household Unity' section's prose discusses.",
+      "chosen_heading": "Household Unity",
+      "current_heading": "Household Unity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Indeterminate Kometz",
+    "candidates": [
+      "Kometz Consumed",
+      "Indeterminate Kometz",
+      "Deficient Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three kemitza cases (from the lost, from the separated, and from the first) plus Abaye's ruling \u2014 exactly the content described in candidate 0's prose ('Kometz Consumed'), while candidate 1 ('Indeterminate Kometz') already contains the prose describing these same cases, suggesting the passage was displaced one heading forward.",
+      "chosen_heading": "Kometz Consumed",
+      "current_heading": "Indeterminate Kometz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Deficient Kometz",
+    "candidates": [
+      "Indeterminate Kometz",
+      "Deficient Kometz",
+      "Kohen's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rav Pappa's objection about the danka (one-sixth) of the kometz not being sacrificed matches precisely the 'Deficient Kometz' section's prose discussing how one-sixth of B and one-sixth of B-prime are not properly covered by the kometz.",
+      "chosen_heading": "Deficient Kometz",
+      "current_heading": "Deficient Kometz",
+      "moved": false
+    }
+  }
+]

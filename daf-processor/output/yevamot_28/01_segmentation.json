@@ -34,7 +34,7 @@
           "timestamp": "04:34"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -228,7 +228,7 @@
           "timestamp": "36:01"
         }
       ],
-      "sefaria_index": 37,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -585,5 +585,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "01:05",
+  "amud_b_micro_title": "Issur Mitzvah vs. Ervah",
+  "shiur_start_daf": 28,
+  "shiur_start_amud": "a"
 }

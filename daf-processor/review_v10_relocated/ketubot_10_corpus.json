@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rabbinic Institution",
+    "candidates": [
+      "Petach Patuach Claim",
+      "Rabbinic Institution",
+      "Tosafot Qualification",
+      "Rabbinic Fine & Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the statement that the Sages instituted the kesuva and the question of what their enactment accomplished, together with Rava's answer about the presumption of not ruining one's wedding feast \u2014 are precisely the content described in the 'Rabbinic Institution' prose, which explicitly discusses all of these points.",
+      "chosen_heading": "Rabbinic Institution",
+      "current_heading": "Rabbinic Institution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rabbinic Fine & Land",
+    "candidates": [
+      "Tosafot Qualification",
+      "Rabbinic Fine & Land",
+      "Biblical Mohar Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about collecting kesuva from ziburis land and the emendation from 'knas' to 'takkanat \u1e25achamim,' plus Rabban Shimon ben Gamliel's statement that kesuva is biblical, are precisely what the 'Rabbinic Fine & Land' prose discusses.",
+      "chosen_heading": "Rabbinic Fine & Land",
+      "current_heading": "Rabbinic Fine & Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Biblical Mohar Basis",
+    "candidates": [
+      "Biblical Mohar Basis",
+      "Reconciling Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in candidate 0's prose: the baraita citing 'kesef yishkol ke-mohar ha-betulos,' the derivation of the 200 zuz standard, and the contradiction between the Sages (biblical basis) and Rabban Shimon ben Gamliel (rabbinic) \u2014 all of which the 'Biblical Mohar Basis' section explicitly discusses as its subject matter.",
+      "chosen_heading": "Biblical Mohar Basis",
+      "current_heading": "Biblical Mohar Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Reconciling Positions",
+    "candidates": [
+      "Reconciling Positions",
+      "Dual Nature Analysis",
+      "Rav Nachman's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the ipoch reversal, the Cappadocia proof, and the 'if you wish say' alternative resolution distinguishing widow from virgin \u2014 are precisely the content described in the 'Reconciling Positions' prose, which explicitly walks through each of these steps in order.",
+      "chosen_heading": "Reconciling Positions",
+      "current_heading": "Reconciling Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rav Nachman's Case",
+    "candidates": [
+      "Dual Nature Analysis",
+      "Rav Nachman's Case",
+      "First vs. Remarriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact case of a man coming before Rav Na\u1e25man claiming 'petach patuach matzasi' and Rav Na\u1e25man ordering him flogged with palm branches, which is precisely what the 'Rav Nachman's Case' prose section discusses in detail.",
+      "chosen_heading": "Rav Nachman's Case",
+      "current_heading": "Rav Nachman's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "First vs. Remarriage",
+    "candidates": [
+      "First vs. Remarriage",
+      "Door in Darkness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav A\u1e25ai's distinction between a bachelor (bachur) and a married man (nasui), which is precisely what the 'First vs. Remarriage' section's prose discusses.",
+      "chosen_heading": "First vs. Remarriage",
+      "current_heading": "First vs. Remarriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Door in Darkness",
+    "candidates": [
+      "Door in Darkness",
+      "Dirty Sheet Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the Rabban Gamliel parable about the man walking in darkness and the door \u2014 exactly what the 'Door in Darkness' prose discusses, including both the first version and the 'ika d'amri' second version.",
+      "chosen_heading": "Door in Darkness",
+      "current_heading": "Door in Darkness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Dirty Sheet Case",
+    "candidates": [
+      "Dirty Sheet Case",
+      "Cleaning Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific case of Rabban Gamliel bar Rabbi examining the cloth and finding blood drops, which is precisely what the 'Dirty Sheet Case' prose discusses in detail.",
+      "chosen_heading": "Dirty Sheet Case",
+      "current_heading": "Dirty Sheet Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Cleaning Concern",
+    "candidates": [
+      "Cleaning Concern",
+      "Wine Barrel Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact exchange between Huna Mar and Rav Ashi about why the laundering/calendering test cannot be replicated in Babylonia, which is precisely what the 'Cleaning Concern' prose describes.",
+      "chosen_heading": "Cleaning Concern",
+      "current_heading": "Cleaning Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Wine Barrel Test",
+    "candidates": [
+      "Wine Barrel Test",
+      "Durkani Family Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the wine barrel test conducted by Rabban Gamliel bar Rabbi, including the maidservant experiment and the explanation for why he tested them first, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Wine Barrel Test",
+      "current_heading": "Wine Barrel Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Durkani Family Case",
+    "candidates": [
+      "Durkani Family Case",
+      "Famine Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items concern the Dorketi/Durkani family case \u2014 the story of Rabban Gamliel's investigation, the meaning of 'Dorketi' and Rabbi \u1e24anina's critique, and the dispute between Rabbi Yirmeya bar Abba and Rabbi Yosei bar Avin about what Rabban Gamliel actually said \u2014 all of which are explicitly addressed in the prose of candidate 0.",
+      "chosen_heading": "Durkani Family Case",
+      "current_heading": "Durkani Family Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Famine Case",
+    "candidates": [
+      "Famine Case",
+      "Betulah vs. Almanah",
+      "Widow from Erusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the famine case with Rabbi Yehuda HaNasi, matching the prose under 'Famine Case' which discusses this precise incident in detail.",
+      "chosen_heading": "Famine Case",
+      "current_heading": "Famine Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Widow from Erusin",
+    "candidates": [
+      "Betulah vs. Almanah",
+      "Widow from Erusin",
+      "Ta'anas Betulim",
+      "Maneh Etymology",
+      "Biblical Anticipation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Betulah vs. Almanah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah introducing the foundational betulah/almanah categories and the widow-from-erusin rule, which matches heading 0's prose about the basic kesuva amounts and heading 1's prose about erusin status \u2014 but since item 1 contains BOTH the basic 200/100 rule AND the erusin cases plus ta'anat betulim, and heading 0's prose explicitly covers the foundational Mishnah statement, while the current placement at heading 1 also discusses erusin content, the Mishnah itself is the opening of the entire section best placed under heading 0 which describes exactly this Mishnah.",
+      "second_heading": "Maneh Etymology",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara discussing the etymology of 'almanah' from 'maneh' and the challenge from the almanah-from-erusin case, which matches heading 3's prose precisely: 'Mai almanah? Rav \u1e24ana Bagdata'ah offers an etymology: almanah al shem maneh.'",
+      "current_heading": "Widow from Erusin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Biblical Anticipation",
+    "candidates": [
+      "Ta'anas Betulim",
+      "Maneh Etymology",
+      "Biblical Anticipation",
+      "Rain Drashah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge of 'almanah di-chtiv be-Oraita' and the Torah writing with reference to future events (the Tigris/Asshur example), which is precisely what the 'Biblical Anticipation' section's prose describes.",
+      "chosen_heading": "Biblical Anticipation",
+      "current_heading": "Biblical Anticipation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Rain Drashah",
+    "candidates": [
+      "Rain Drashah",
+      "Altar Drashah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav \u1e24ana of Baghdad's teaching on rain (matar) and its five qualities with scriptural support from Psalms, which matches exactly what the 'Rain Drashah' prose describes.",
+      "chosen_heading": "Rain Drashah",
+      "current_heading": "Rain Drashah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Altar Drashah",
+    "candidates": [
+      "Altar Drashah",
+      "Dates Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's drasha on mizbe'a\u1e25, which matches exactly the 'Altar Drashah' section's prose about the acrostic qualities of the altar and the distinction between mazi'a\u1e25 gezeirot and me\u1e25aper avonot.",
+      "chosen_heading": "Altar Drashah",
+      "current_heading": "Altar Drashah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Dates Discussion",
+    "candidates": [
+      "Dates Discussion",
+      "Final Wordplay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous dates discussion \u2014 the challenge to Rav's ruling and its resolution \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Dates Discussion",
+      "current_heading": "Dates Discussion",
+      "moved": false
+    }
+  }
+]

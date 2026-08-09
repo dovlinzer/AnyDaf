@@ -1,0 +1,244 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Mishnah Rules",
+    "candidates": [
+      "Mishnah & R. Eliezer",
+      "Manuscript Evidence",
+      "Rashi & Textual Issues",
+      "Mishnah Rules",
+      "Lo Techonem Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's derivation of the prohibition from 'lo techonem' \u2014 exactly what candidate 4 ('Lo Techonem Derivation') describes, including the multiple interpretations of the word and the first interpretation being 'lo titein lahem chanayah ba-karka.'",
+      "chosen_heading": "Lo Techonem Derivation",
+      "current_heading": "Mishnah Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Lo Techonem Derivation",
+    "candidates": [
+      "Mishnah Rules",
+      "Lo Techonem Derivation",
+      "Scope & Extensions",
+      "Policy vs. Mitzvah",
+      "Three Meanings",
+      "R. Meir vs. R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the gemara's conclusion 'shema mina tartei' \u2014 deriving two meanings from the vocalization of lo techonem \u2014 which is explicitly discussed in the 'Three Meanings' section's prose about the gemara objecting that the word must teach both the land-dwelling prohibition and the favor prohibition, concluding with tartei.",
+      "chosen_heading": "Three Meanings",
+      "current_heading": "Lo Techonem Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "R. Meir vs. R. Yehuda",
+    "candidates": [
+      "Scope & Extensions",
+      "Policy vs. Mitzvah",
+      "Three Meanings",
+      "R. Meir vs. R. Yehuda",
+      "Tosafot Qualifications",
+      "Chinam Meaning",
+      "Textual Censorship",
+      "Complimenting Non-Jews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items form a continuous unit about the tannaitic dispute between Rabbi Meir and Rabbi Yehuda regarding matnat chinam \u2014 giving a free gift to a non-Jew \u2014 derived from the neveila verse, which is precisely what the 'R. Meir vs. R. Yehuda' section's prose describes.",
+      "chosen_heading": "R. Meir vs. R. Yehuda",
+      "current_heading": "R. Meir vs. R. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Complimenting Non-Jews",
+    "candidates": [
+      "Tosafot Qualifications",
+      "Chinam Meaning",
+      "Textual Censorship",
+      "Complimenting Non-Jews",
+      "R. Akiva's Reaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita's derivation of 'lo titein lahem chein' and Rav's statement prohibiting praising a gentile woman's beauty, which is precisely what the 'Complimenting Non-Jews' section's prose addresses.",
+      "chosen_heading": "Complimenting Non-Jews",
+      "current_heading": "Complimenting Non-Jews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "R. Akiva's Reaction",
+    "candidates": [
+      "R. Akiva's Reaction",
+      "Rav's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabban Shimon ben Gamliel incident and the Rabbi Akiva story as a single baraita, and the current heading 'R. Akiva's Reaction' with its prose discusses both figures together, making it the correct placement.",
+      "chosen_heading": "R. Akiva's Reaction",
+      "current_heading": "R. Akiva's Reaction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rav's Resolution",
+    "candidates": [
+      "Rav's Resolution",
+      "Davar Ra Source",
+      "Looking Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's resolution of the contradiction involving Rabban Shimon ben Gamliel, explaining that he was giving thanks (aduye hu de-kamode) rather than praising the gentile, which is precisely what the 'Rav's Resolution' prose section describes.",
+      "chosen_heading": "Rav's Resolution",
+      "current_heading": "Rav's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Looking Rules",
+    "candidates": [
+      "Davar Ra Source",
+      "Looking Rules",
+      "Critique of Obsession",
+      "Angel of Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita cited in response to the question 'is gazing permitted?' \u2014 exactly what heading 0 ('Davar Ra Source') describes: the gemara raising the verse ve-nishmarta mi-kol davar ra as a prohibition on gazing, which is the source being introduced there, not the elaborated list of rules discussed under heading 1.",
+      "chosen_heading": "Davar Ra Source",
+      "current_heading": "Looking Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Angel of Death",
+    "candidates": [
+      "Critique of Obsession",
+      "Angel of Death",
+      "Colored Garments & Except"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Angel of Death as full of eyes with a drawn sword and drop of poison, which directly matches the prose under 'Angel of Death' that elaborates on exactly this description of the malach ha-mavet.",
+      "chosen_heading": "Angel of Death",
+      "current_heading": "Angel of Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Colored Garments & Except",
+    "candidates": [
+      "Colored Garments & Except",
+      "Ten Steps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "Neither candidate's prose discusses the Angel of Death's sword, poison, putrefaction of corpses, or Shmuel's father's statement \u2014 the passage appears misplaced relative to both candidates, but candidate 1 ('Ten Steps') is marginally less mismatched than the current placement since neither discusses this content; preferring current placement per instructions when no clearly better match exists, but confidence is low.",
+      "chosen_heading": "Ten Steps",
+      "current_heading": "Colored Garments & Except",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Ten Steps",
+    "candidates": [
+      "Ten Steps",
+      "Maharsha's Daily Schedule",
+      "Chasidus vs. Humility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Maharsha's Daily Schedule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the baraita about avoiding impure thoughts by day to prevent impurity by night) is the introductory source that the Maharsha uses as the springboard for his daily-schedule reading, and the 'Ten Steps' prose explicitly introduces Item 2 as beginning with 'mikan amar Rabbi Pinchas ben Yair \u2014 from here Rabbi Pinchas ben Yair taught,' making Item 1 the closing context of the Maharsha section and Item 2 the opening of the Ten Steps section.",
+      "second_heading": "Ten Steps",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the ladder of Rabbi Pinchas ben Yair that the 'Ten Steps' prose describes in full detail, listing all the same rungs in the same order.",
+      "current_heading": "Ten Steps",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Chasidus vs. Humility",
+    "candidates": [
+      "Maharsha's Daily Schedule",
+      "Chasidus vs. Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Levi's opinion that humility (anavah) is greater than all other qualities including chasidut, which is precisely the dispute described in the 'Chasidus vs. Humility' section's prose.",
+      "chosen_heading": "Chasidus vs. Humility",
+      "current_heading": "Chasidus vs. Humility",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Tanya Idach Formula",
+    "candidates": [
+      "Previous Review",
+      "Ruth & Boaz Source",
+      "Nisuin vs Erusin",
+      "Tanya Idach Formula",
+      "Asur/Hitir Language",
+      "Rambam 2 Stages",
+      "Kiddushin Contract",
+      "Geonic Variants",
+      "Chasima Question",
+      "Rashi Kedusha",
+      "3 Models Erusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing birchas erusin, its location (beis erusin), and the specific formula with Rav Yehuda's text and Rav Acha's chasima \u2014 exactly what the 'Tanya Idach Formula' section's prose describes and discusses.",
+      "chosen_heading": "Tanya Idach Formula",
+      "current_heading": "Tanya Idach Formula",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "3 Models Erusin",
+    "candidates": [
+      "Asur/Hitir Language",
+      "Rambam 2 Stages",
+      "Kiddushin Contract",
+      "Geonic Variants",
+      "Chasima Question",
+      "Rashi Kedusha",
+      "3 Models Erusin",
+      "Week Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly explains the two positions on whether birchas erusin requires a chasima \u2014 man de'lo chasim (like birchas hapeiros/birchas hamitzvos) and man de'chasim (like kiddush) \u2014 which is precisely what the 'Chasima Question' section's prose discusses.",
+      "chosen_heading": "Chasima Question",
+      "current_heading": "3 Models Erusin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Week Practice",
+    "candidates": [
+      "3 Models Erusin",
+      "Week Practice",
+      "Shehakol/Yotzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara about reciting birchas chasanim with ten people all seven days and Rav Yehuda's requirement of new faces, which is exactly what the 'Week Practice' section's prose discusses.",
+      "chosen_heading": "Week Practice",
+      "current_heading": "Week Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Shehakol/Yotzer",
+    "candidates": [
+      "Shehakol/Yotzer",
+      "Divine Image"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the first two blessings \u2014 shehakol bara lichvodo and yotzer ha'adam \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Shehakol/Yotzer",
+      "current_heading": "Shehakol/Yotzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Divine Image",
+    "candidates": [
+      "Divine Image",
+      "Sos Tasis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the text of the 'asher yatzar es ha'adam betzalmo' blessing, which is precisely what the 'Divine Image' section's prose describes and analyzes.",
+      "chosen_heading": "Divine Image",
+      "current_heading": "Divine Image",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Sos Tasis",
+    "candidates": [
+      "Sos Tasis",
+      "National Themes",
+      "Gan Eden",
+      "Sasson Brachos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the text of the 'Sos Tasis' blessing, which the prose under heading 0 directly describes and translates.",
+      "chosen_heading": "Sos Tasis",
+      "current_heading": "Sos Tasis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Sasson Brachos",
+    "candidates": [
+      "National Themes",
+      "Gan Eden",
+      "Sasson Brachos",
+      "Baruch Opening",
+      "Community Simcha",
+      "Rashi Am Assembled",
+      "Levi/Rav Ashi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gan Eden",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the fifth blessing (sameach tesamach / Gan Eden), which the 'Gan Eden' section's prose explicitly discusses as the bracha returning to the couple and referencing Gan Eden mikedem.",
+      "second_heading": "Sasson Brachos",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the sixth blessing (asher bara sasson ve'simcha), which the 'Sasson Brachos' section's prose explicitly discusses in full detail, including its structure, the Yirmiyahu echo, and Rashi's distinction between the two chasimos.",
+      "current_heading": "Sasson Brachos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Levi/Rav Ashi",
+    "candidates": [
+      "Baruch Opening",
+      "Community Simcha",
+      "Rashi Am Assembled",
+      "Levi/Rav Ashi",
+      "Chad vs Shtei",
+      "Together/Separate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly recounts the two incidents of Levi and Rav Asi reciting five and six blessings respectively, which is exactly what the 'Levi/Rav Ashi' section prose describes as its content.",
+      "chosen_heading": "Levi/Rav Ashi",
+      "current_heading": "Levi/Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Together/Separate",
+    "candidates": [
+      "Chad vs Shtei",
+      "Together/Separate",
+      "Plan vs Execution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's suggestion that the dispute is about one vs. two acts of creation, which directly matches candidate 0's prose describing exactly this question as the basis of the machlokes, whereas candidate 1's prose already moves past this suggestion to Rashi's resolution of it.",
+      "chosen_heading": "Chad vs Shtei",
+      "current_heading": "Together/Separate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Plan vs Execution",
+    "candidates": [
+      "Together/Separate",
+      "Plan vs Execution",
+      "Day 1 Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's rejection of the premise (chada yetzira havai), the machshava vs. ma'aseh distinction, and Rav Yehuda's contradiction \u2014 all of which are explicitly discussed in the 'Plan vs Execution' prose.",
+      "chosen_heading": "Plan vs Execution",
+      "current_heading": "Plan vs Execution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Day 1 Rules",
+    "candidates": [
+      "Day 1 Rules",
+      "Shehasimcha",
+      "Week 2 Month"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's practice at Rav Kahana's wedding \u2014 reciting all blessings on day one and conditionally thereafter \u2014 which matches exactly what the 'Day 1 Rules' prose discusses, including the specific Aramaic phrases cited there.",
+      "chosen_heading": "Day 1 Rules",
+      "current_heading": "Day 1 Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Week 2 Month",
+    "candidates": [
+      "Shehasimcha",
+      "Week 2 Month",
+      "Twelve Months",
+      "Early Erusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the rules for reciting she'hasimcha bimono from seven to thirty days (with or without specifying hillula) and beyond thirty days (only if specified), which is precisely what the 'Week 2 Month' prose section describes.",
+      "chosen_heading": "Week 2 Month",
+      "current_heading": "Week 2 Month",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Early Erusin",
+    "candidates": [
+      "Twelve Months",
+      "Early Erusin",
+      "Bris Milah Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0 ('Twelve Months') explicitly discusses both the twelve-month upper limit (Rav Pappi/Rava) and the question of from when one may begin reciting she'hasimcha bimono, mentioning the Rav Papa and Ravina cases as part of its discussion \u2014 matching the exact content of both items \u2014 whereas candidate 1 ('Early Erusin') discusses the same material but is the current (likely misplaced) location, and candidate 0's prose more precisely frames the passage as a whole including the twelve-month boundary that opens item 1.",
+      "chosen_heading": "Twelve Months",
+      "current_heading": "Early Erusin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Bris Milah Limit",
+    "candidates": [
+      "Early Erusin",
+      "Bris Milah Limit",
+      "Groom Counts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24aviva reciting she'hasimcha bimono at a bris milah and the halakha being rejected because the baby is in pain directly matches the prose under 'Bris Milah Limit,' which explicitly discusses this same incident and ruling.",
+      "chosen_heading": "Bris Milah Limit",
+      "current_heading": "Bris Milah Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Groom Counts",
+    "candidates": [
+      "Groom Counts",
+      "Aveilim Intro",
+      "Rav vs Braisa",
+      "Yitzchak/Yochanan",
+      "Shurah Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the groom-counts ruling and the mourner-exclusion ruling plus the baraita objection and Rav tanna u'palig resolution and the Rabbi Yitzchak/Yochanan parallel statement, spanning content across headings 0-3, but since it currently sits under heading 0 and the passage begins with the groom-counts ruling, and no single candidate prose is a clearly better match for the entire passage, the current placement is preferred.",
+      "chosen_heading": "Groom Counts",
+      "current_heading": "Groom Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Shurah Context",
+    "candidates": [
+      "Aveilim Intro",
+      "Rav vs Braisa",
+      "Yitzchak/Yochanan",
+      "Shurah Context",
+      "First vs Later",
+      "Mourner Panim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the resolution of the contradiction between the baraita and Rabbi Yochanan's ruling by distinguishing between birchas hamazon and the shurah, and then raising the further objection that there is no bracha in the shurah \u2014 which is precisely what the 'Shurah Context' prose describes in detail.",
+      "chosen_heading": "Shurah Context",
+      "current_heading": "Shurah Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Mourner Panim",
+    "candidates": [
+      "First vs Later",
+      "Mourner Panim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses whether birchas aveilim can occur all seven days and answers with panim chadashot, which is precisely what the 'Mourner Panim' section discusses.",
+      "chosen_heading": "Mourner Panim",
+      "current_heading": "Mourner Panim",
+      "moved": false
+    }
+  }
+]

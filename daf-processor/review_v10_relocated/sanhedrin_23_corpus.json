@@ -1,0 +1,470 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishna Translation",
+    "candidates": [
+      "Context & Opening",
+      "Mishna Translation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'Hadraran alach Kohen Gadol' is the concluding formula marking the end of the second perek (the Kohen Gadol chapter), which the Context & Opening prose explicitly references as the detour that preceded the return to dinei mamonot \u2014 making it a transitional/closing element belonging under Context & Opening, not under the Mishna Translation section.",
+      "chosen_heading": "Context & Opening",
+      "current_heading": "Mishna Translation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Mishna Translation",
+    "candidates": [
+      "Mishna Translation",
+      "Gemara Question",
+      "Rashi: Full Beit Din",
+      "Tosafot Dispute",
+      "Beit Din Rejection",
+      "Debtor Power Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishna Translation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the full Mishna text (monetary cases, judge disqualification, witness disqualification) which the 'Mishna Translation' prose explicitly walks through line by line.",
+      "second_heading": "Gemara Question",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are the Gemara's question ('mai zeh borer') and its answer ('hachi ka'amar'), which the 'Gemara Question' prose explicitly introduces as the gemara asking 'mai zeh borer'.",
+      "current_heading": "Mishna Translation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Debtor Power Issue",
+    "candidates": [
+      "Gemara Question",
+      "Rashi: Full Beit Din",
+      "Tosafot Dispute",
+      "Beit Din Rejection",
+      "Debtor Power Issue",
+      "Rabbi Elazar Ruling",
+      "R. Yochanan: Non-Expert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Elazar's ruling about the debtor being compelled to appear in his city, which is precisely what the 'Debtor Power Issue' prose describes as the gemara's difficulty \u2014 the contradiction between the mishna's implied scenario and Rav Elazar's restriction on the debtor's power to reject.",
+      "chosen_heading": "Debtor Power Issue",
+      "current_heading": "Debtor Power Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "R. Yochanan: Non-Expert",
+    "candidates": [
+      "Rabbi Elazar Ruling",
+      "R. Yochanan: Non-Expert",
+      "Rav Pappa Clarif."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's ruling about non-expert courts in Syria (be'arkaot shebe'Surya) and the exception for expert courts (mumchin), which is precisely what the prose of 'R. Yochanan: Non-Expert' describes.",
+      "chosen_heading": "R. Yochanan: Non-Expert",
+      "current_heading": "R. Yochanan: Non-Expert",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rav Pappa Clarif.",
+    "candidates": [
+      "Rav Pappa Clarif.",
+      "Logic Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about expert courts such as those of Rav Huna and Rav \u1e24isda and the burden argument, which is precisely what the 'Rav Pappa Clarif.' section prose discusses.",
+      "chosen_heading": "Rav Pappa Clarif.",
+      "current_heading": "Rav Pappa Clarif.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Logic Problem",
+    "candidates": [
+      "Logic Problem",
+      "One Judge Each"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Logic Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the logical absurdity of two disqualified batei din choosing another beit din together, which is exactly what the 'Logic Problem' prose describes.",
+      "second_heading": "One Judge Each",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the linguistic problem with the word 'echad' (one), which is precisely what the 'One Judge Each' prose addresses as the textual/linguistic objection to the beit din reading.",
+      "current_heading": "Logic Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "One Judge Each",
+    "candidates": [
+      "One Judge Each",
+      "Fairness Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the gemara's reformulation of the mishna's meaning (ela hachi ka'amar), explaining the one-judge-each procedure, which is precisely what the 'One Judge Each' section's prose describes.",
+      "chosen_heading": "One Judge Each",
+      "current_heading": "One Judge Each",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Fairness Purpose",
+    "candidates": [
+      "Fairness Purpose",
+      "Judges' Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Zeira's explanation of why the selection procedure produces true judgment, which is precisely what the 'Fairness Purpose' section's prose discusses.",
+      "chosen_heading": "Fairness Purpose",
+      "current_heading": "Fairness Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Judges' Knowledge",
+    "candidates": [
+      "Judges' Knowledge",
+      "R. Meir: Full Consent",
+      "Chachamim: Judges Agree",
+      "Language Analysis",
+      "Disqualif. Problem"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Judges' Knowledge",
+      "current_heading": "Judges' Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Disqualif. Problem",
+    "candidates": [
+      "R. Meir: Full Consent",
+      "Chachamim: Judges Agree",
+      "Language Analysis",
+      "Disqualif. Problem",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 8 items trace the exact arc described in 'Disqualif. Problem' prose \u2014 Rabbi Yochanan's arkaot shebe'Surya answer, the challenge from the seifa about mumchin, the reinterpretation of the Chachamim's clause, the baraita about lo kol heimenu, and finally the witnesses-as-mumchin point \u2014 matching the current placement precisely.",
+      "chosen_heading": "Disqualif. Problem",
+      "current_heading": "Disqualif. Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "One vs. Two Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's intervention and textual emendation (tani edo), which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "One vs. Two Witnesses",
+    "candidates": [
+      "One vs. Two Witnesses",
+      "Judge Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's question-and-answer sequence about the purpose of one witness testimony in a monetary case where the litigant accepted the single witness as two, which is precisely what the prose under 'One vs. Two Witnesses' discusses in detail.",
+      "chosen_heading": "One vs. Two Witnesses",
+      "current_heading": "One vs. Two Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Judge Acceptance",
+    "candidates": [
+      "Judge Acceptance",
+      "Both Mishnayot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge and the earlier mishna text about father/cattle-herder acceptance, which is exactly what the 'Judge Acceptance' prose describes \u2014 the question of what chiddush our mishna adds given this parallel mishna.",
+      "chosen_heading": "Judge Acceptance",
+      "current_heading": "Judge Acceptance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Both Mishnayot",
+    "candidates": [
+      "Both Mishnayot",
+      "Reject Reish Lakish",
+      "Family Flaw"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss why both mishnayot are necessary to teach the Rabbi Meir vs. Rabbis dispute about retracting acceptance, which matches precisely the 'Both Mishnayot' prose.",
+      "chosen_heading": "Both Mishnayot",
+      "current_heading": "Both Mishnayot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Family Flaw",
+    "candidates": [
+      "Reject Reish Lakish",
+      "Family Flaw",
+      "Family Bias Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reject Reish Lakish",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's formal rejection of Reish Lakish's reading based on the mishna's precise language (dayano vs. eidav), which is exactly what candidate 0 describes.",
+      "second_heading": "Family Flaw",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 introduce Rabbi Elazar's explanation, the nogea objection, Rav Acha's arar answer, and the follow-up question about what kind of arar \u2014 all of which match candidate 1's prose about the Family Flaw discussion precisely.",
+      "current_heading": "Family Flaw",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Family Bias Dispute",
+    "candidates": [
+      "Family Bias Dispute",
+      "Rav Dimi Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Meir vs. Rabbanan dispute about family flaw testimony and nogea be'eduto, which is precisely what the 'Family Bias Dispute' prose section discusses and quotes.",
+      "chosen_heading": "Family Bias Dispute",
+      "current_heading": "Family Bias Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rav Dimi Intro",
+    "candidates": [
+      "Rav Dimi Intro",
+      "Multiple Witnesses",
+      "R. Meir: Prove Kosher",
+      "Chachamim: No Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Dimi's statement introducing Rabbi Yochanan's position about two sets of witnesses, which is precisely what the 'Rav Dimi Intro' prose section describes as its content.",
+      "chosen_heading": "Rav Dimi Intro",
+      "current_heading": "Rav Dimi Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Chachamim: No Proof",
+    "candidates": [
+      "Multiple Witnesses",
+      "R. Meir: Prove Kosher",
+      "Chachamim: No Proof",
+      "R. Yochanan Clarif."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chachamim: No Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explicitly states the R. Meir/Chachamim dispute and concludes with 'aval bekat achat divrei hakol eino yachol leposlan,' which is precisely what the Chachamim prose section discusses and quotes.",
+      "second_heading": "R. Yochanan Clarif.",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ami and Rav Asi's question to Rabbi Yochanan about a single set of witnesses, which is the opening move of the discussion described in the R. Yochanan Clarif. prose section.",
+      "current_heading": "Chachamim: No Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "R. Yochanan Clarif.",
+    "candidates": [
+      "R. Yochanan Clarif.",
+      "Document vs. Possess."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous Gemara discussion about disqualifying witnesses when one set turns out to be invalid, resolved by the statement 'the first witnesses already testified' \u2014 precisely what candidate 0's prose describes, including the parallel attribution to Rav Ashi.",
+      "chosen_heading": "R. Yochanan Clarif.",
+      "current_heading": "R. Yochanan Clarif.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Document vs. Possess.",
+    "candidates": [
+      "Document vs. Possess.",
+      "Rabbi: Document Wins",
+      "Rabban Shimon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Document vs. Possess.",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's introductory question proposing the parallel to Rabbi and Rabban Shimon ben Gamliel, which matches the 'Document vs. Possess.' prose that describes exactly this proposal.",
+      "second_heading": "Rabbi: Document Wins",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita stating Rabbi's ruling that the claim is judged by the shetar, which matches the 'Rabbi: Document Wins' prose discussing 'nidon be'shetar, divrei Rabbi'.",
+      "current_heading": "Document vs. Possess.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Rabban Shimon",
+    "candidates": [
+      "Rabbi: Document Wins",
+      "Rabban Shimon",
+      "Reconciliation",
+      "Independent Witnesses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabban Shimon",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the Rabban Shimon ben Gamliel ruling and the establishment that the dispute is about tzarich levarer, matching the 'Rabban Shimon' prose exactly.",
+      "second_heading": "Reconciliation",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the Gemara's rejection and the Rabbanan's distinction about independent witnesses, matching the 'Reconciliation' and leading into 'Independent Witnesses' prose, with item 3 fitting 'Reconciliation' and item 4 completing it.",
+      "current_heading": "Rabban Shimon",
+      "moved": true
+    }
+  }
+]

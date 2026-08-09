@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "R. Yochanan: Half Kav",
+    "candidates": [
+      "R. Yochanan: Half Kav",
+      "R. Shimon: One-Third Kav",
+      "Four vs. Nine Meals",
+      "Baker's Profit Margin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Tannaitic statement that their positions are 'close to being identical' and the Gemara's immediate objection comparing four meals per kav versus nine meals per kav, which is exactly what candidate 2 ('Four vs. Nine Meals') describes in its prose.",
+      "chosen_heading": "Four vs. Nine Meals",
+      "current_heading": "R. Yochanan: Half Kav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Baker's Profit Margin",
+    "candidates": [
+      "R. Shimon: One-Third Kav",
+      "Four vs. Nine Meals",
+      "Baker's Profit Margin",
+      "Loaf to Eggs Conversion",
+      "Pras Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items discuss Rav \u1e24isda's two statements about the grocer's profit margin (one-third vs. one-half), the resulting reconciliation of Rabbi Shimon's nine meals and Rabbi Yo\u1e25anan's eight meals, and the resolution of the apparent contradiction between Rav \u1e24isda's two rulings \u2014 precisely the content described in the 'Baker's Profit Margin' prose.",
+      "chosen_heading": "Baker's Profit Margin",
+      "current_heading": "Baker's Profit Margin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Pras Measurement",
+    "candidates": [
+      "Loaf to Eggs Conversion",
+      "Pras Measurement",
+      "Precision Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna text about half the loaf for the leprous house and half of half for disqualifying the body, which is precisely what the 'Pras Measurement' section's prose discusses and analyzes.",
+      "chosen_heading": "Pras Measurement",
+      "current_heading": "Pras Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Precision Argument",
+    "candidates": [
+      "Precision Argument",
+      "Egg with/without Shell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Mishnah omitted tumat ochlin \u2014 because the measures don't precisely match \u2014 which is exactly what the 'Precision Argument' prose discusses as its central topic.",
+      "chosen_heading": "Precision Argument",
+      "current_heading": "Precision Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Egg with/without Shell",
+    "candidates": [
+      "Egg with/without Shell",
+      "217 Eggs Puzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the precise measurement of half a peras in egg-bulks, the shell/no-shell dispute for tumat ochlin, and Rabbi Yochanan ben Beroka's sochakos ruling \u2014 exactly what the 'Egg with/without Shell' prose describes.",
+      "chosen_heading": "Egg with/without Shell",
+      "current_heading": "Egg with/without Shell",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "217 Eggs Puzzle",
+    "candidates": [
+      "217 Eggs Puzzle",
+      "Three Se'ah Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Rav Dimi's account of the 217-egg measurement, which is precisely the datum that heading 0 ('217 Eggs Puzzle') introduces and begins to analyze.",
+      "chosen_heading": "217 Eggs Puzzle",
+      "current_heading": "217 Eggs Puzzle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Three Se'ah Types",
+    "candidates": [
+      "Three Se'ah Types",
+      "Math Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present exactly the three se'ah types (midbarit=144, Yerushalmit=173, Tziporit=207) that the 'Three Se'ah Types' prose section describes, making the current placement the correct one.",
+      "chosen_heading": "Three Se'ah Types",
+      "current_heading": "Three Se'ah Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Math Reconciliation",
+    "candidates": [
+      "Math Reconciliation",
+      "Growth Ratios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's step-by-step math reconciliation explaining how the se'ah Tziporit equals 217 egg-bulks \u2014 adding \u1e25alla, adding Rabbi's excess fractions, and dismissing the remaining sub-egg remainder \u2014 which is precisely what the 'Math Reconciliation' prose describes.",
+      "chosen_heading": "Math Reconciliation",
+      "current_heading": "Math Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Growth Ratios",
+    "candidates": [
+      "Growth Ratios",
+      "Omer Conversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the baraita's claim that the Tzippori se'ah exceeds the midbarit by one-third, the Gemara's scrutiny of which 'third' is meant, Rabbi Yirmeya's 'karov' resolution, and Ravina's objection and alternative \u2014 exactly what the 'Growth Ratios' prose describes.",
+      "chosen_heading": "Growth Ratios",
+      "current_heading": "Growth Ratios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Omer Conversion",
+    "candidates": [
+      "Omer Conversion",
+      "Measure Conversion",
+      "Health Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the baraita establishing the omer-based minimum for challah obligation, which is precisely what the 'Omer Conversion' prose describes \u2014 deriving the 43.2-beitzim threshold from the wilderness dough measure.",
+      "chosen_heading": "Omer Conversion",
+      "current_heading": "Omer Conversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Health Blessing",
+    "candidates": [
+      "Measure Conversion",
+      "Health Blessing",
+      "Physical Setup",
+      "Ten-Tefachim Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the health/blessing statement about eating the 43.2-beitzim measure, which is precisely what the 'Health Blessing' section's prose describes.",
+      "chosen_heading": "Health Blessing",
+      "current_heading": "Health Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Ten-Tefachim Rule",
+    "candidates": [
+      "Physical Setup",
+      "Ten-Tefachim Rule",
+      "Proximity Requirement",
+      "Equal Easy Access"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ten-Tefachim Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the ten-tefachim rule for mounds/rocks/cisterns belonging to the balcony or courtyard, which matches exactly the 'Ten-Tefachim Rule' prose.",
+      "second_heading": "Proximity Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the proximity qualification (within four tefachim) that the 'Proximity Requirement' prose explicitly discusses.",
+      "current_heading": "Ten-Tefachim Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Equal Easy Access",
+    "candidates": [
+      "Proximity Requirement",
+      "Equal Easy Access",
+      "Equal Hard Access"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of equal easy access (l'zeh b'petach ul'zeh b'petach) and its analogy to a window between two courtyards, which is exactly what the 'Equal Easy Access' section's prose describes.",
+      "chosen_heading": "Equal Easy Access",
+      "current_heading": "Equal Easy Access",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Equal Hard Access",
+    "candidates": [
+      "Equal Hard Access",
+      "Unequal Access"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses equal difficulty access (throwing from both sides, lowering from both sides), which matches the 'Equal Hard Access' prose exactly.",
+      "chosen_heading": "Equal Hard Access",
+      "current_heading": "Equal Hard Access",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Unequal Access",
+    "candidates": [
+      "Unequal Access",
+      "Shmuel vs. Rav",
+      "Application to Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the petach/zirika and petach/shilshul cases and maps them to the rulings of Rabbah bar Rav Huna and Rav Sheizvi, which is precisely what the 'Unequal Access' prose section describes.",
+      "chosen_heading": "Unequal Access",
+      "current_heading": "Unequal Access",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Application to Case",
+    "candidates": [
+      "Shmuel vs. Rav",
+      "Application to Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shmuel vs. Rav",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the core dispute between Rav and Shmuel about shilshul vs. zirika, which is precisely what the 'Shmuel vs. Rav' prose describes.",
+      "second_heading": "Application to Case",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 apply the Rav/Shmuel dispute to the Mishna about courtyard and mirpeset, with Rav Huna's clarification resolving the apparent contradiction, exactly matching the 'Application to Case' prose.",
+      "current_heading": "Application to Case",
+      "moved": true
+    }
+  }
+]

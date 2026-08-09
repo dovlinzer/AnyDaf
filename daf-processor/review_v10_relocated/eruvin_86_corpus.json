@@ -1,0 +1,452 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Bread as Eruv",
+    "candidates": [
+      "Eruv vs Shituf",
+      "Bread as Eruv",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the Rav Yehuda/Shmuel ruling about bread on the table serving as eruv or shituf for a dining group, which is precisely what the 'Bread as Eruv' section's prose introduces and discusses.",
+      "chosen_heading": "Bread as Eruv",
+      "current_heading": "Bread as Eruv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Baraita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's resolution (velo pligi, dining in house vs. courtyard), which is precisely what the 'Rava's Resolution' section prose describes and analyzes.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Baraita Support",
+    "candidates": [
+      "Baraita Support",
+      "Tfisat Yad Doctrine",
+      "Ben Bunyas Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Abaye citing a baraita to support Rava's position and the subsequent discussion/emendation of that baraita, which is exactly what the 'Baraita Support' prose describes.",
+      "chosen_heading": "Baraita Support",
+      "current_heading": "Baraita Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Ben Bunyas Example",
+    "candidates": [
+      "Tfisat Yad Doctrine",
+      "Ben Bunyas Example",
+      "Honoring Wealthy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage directly illustrates the 'tfisat yad' doctrine by answering 'what are the circumstances of a right of usage?' with the Bonyas example, making it a concluding illustration of the doctrine section rather than a standalone example section \u2014 though its current placement under 'Ben Bunyas Example' is also plausible since that prose describes the same content.",
+      "chosen_heading": "Tfisat Yad Doctrine",
+      "current_heading": "Ben Bunyas Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Honoring Wealthy",
+    "candidates": [
+      "Honoring Wealthy",
+      "Tfisat Yad Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the son of Bonyas incident, Rabbi Yishmael's disclosure of Bonyas's wealth, and the Gemara's explanation that Rebbi and Rabbi Akiva honored the wealthy \u2014 are precisely the content described in the 'Honoring Wealthy' prose section.",
+      "chosen_heading": "Honoring Wealthy",
+      "current_heading": "Honoring Wealthy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Tfisat Yad Definition",
+    "candidates": [
+      "Tfisat Yad Definition",
+      "Modern Applications",
+      "Absent Owner Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly define and illustrate the concept of tfisat yad through Rabba bar bar Chana's example and the school of Shmuel's principle about movable vs. non-movable objects, which is precisely what the 'Tfisat Yad Definition' prose discusses.",
+      "chosen_heading": "Tfisat Yad Definition",
+      "current_heading": "Tfisat Yad Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Absent Owner Case",
+    "candidates": [
+      "Modern Applications",
+      "Absent Owner Case",
+      "Rabbi Meir View",
+      "Rabbi Yehuda View",
+      "Rabbi Yosi View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the absent owner case, which is exactly what the 'Absent Owner Case' prose says it is about to present.",
+      "chosen_heading": "Absent Owner Case",
+      "current_heading": "Absent Owner Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rabbi Yosi View",
+    "candidates": [
+      "Rabbi Meir View",
+      "Rabbi Yehuda View",
+      "Rabbi Yosi View",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei's ruling that a gentile renders it prohibited but a Jew does not because it is not the manner of a Jew to come on Shabbat, which is precisely what the Rabbi Yosi View prose describes.",
+      "chosen_heading": "Rabbi Yosi View",
+      "current_heading": "Rabbi Yosi View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Rav Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Shimon's ruling about leaving home to spend Shabbat with his daughter in the same town, which is precisely what the 'Rabbi Shimon View' prose discusses.",
+      "chosen_heading": "Rabbi Shimon View",
+      "current_heading": "Rabbi Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rav Ruling",
+    "candidates": [
+      "Rav Ruling",
+      "Conceptual Discussion",
+      "Mishnah Setup",
+      "Physical Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav's ruling about halakha following Rabbi Shimon, with the qualification about daughter vs. son and the folk saying about dogs, which matches exactly the prose under 'Rav Ruling'.",
+      "chosen_heading": "Rav Ruling",
+      "current_heading": "Rav Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Physical Scenario",
+    "candidates": [
+      "Conceptual Discussion",
+      "Mishnah Setup",
+      "Physical Scenario",
+      "Below vs Above",
+      "Rav Huna Reading",
+      "Rav Yehuda Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah text about the cistern between two courtyards \u2014 the ruling and the Rabban Shimon ben Gamliel/Rabbi Yehuda addendum \u2014 which is precisely what the 'Mishnah Setup' prose introduces and describes.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Physical Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rav Yehuda Reading",
+    "candidates": [
+      "Below vs Above",
+      "Rav Huna Reading",
+      "Rav Yehuda Reading",
+      "Water Mixture Challenge",
+      "Protrusion Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Huna's and Rav Yehuda's interpretations of 'below' and 'above' together in a single Gemara excerpt, making it best placed under the introductory heading that poses the question of what 'below' and 'above' actually mean \u2014 before the essay splits them into separate analysis sections.",
+      "chosen_heading": "Below vs Above",
+      "current_heading": "Rav Yehuda Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Protrusion Requirement",
+    "candidates": [
+      "Water Mixture Challenge",
+      "Protrusion Requirement",
+      "Pi Tikra Principle",
+      "Beam Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer chain about why placing the partition 'below the water' or 'above the water' solves the intermingling problem, which is precisely what candidate 0 ('Water Mixture Challenge') describes \u2014 the pointed question about water still mixing regardless of partition placement \u2014 while candidate 1 ('Protrusion Requirement') describes the answers/solutions, but the passage itself contains both the questions AND the answers, and the overall thrust matches candidate 0's framing of the challenge better than candidate 1's focus on Rashi/Tosafot analysis of the protrusion requirement.",
+      "chosen_heading": "Water Mixture Challenge",
+      "current_heading": "Protrusion Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Beam Alternative",
+    "candidates": [
+      "Pi Tikra Principle",
+      "Beam Alternative",
+      "Bucket Confinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items introduce the pi tikra principle via Rav Yehuda's ruling about a ruin and Rav Nachman/Rabbah bar Avuha's ruling about water, which are the examples the essay uses to explain the pi tikra principle itself \u2014 matching the 'Pi Tikra Principle' section's prose, not the 'Beam Alternative' section which already summarizes the conclusion of Rav Nachman's ruling as established fact.",
+      "chosen_heading": "Pi Tikra Principle",
+      "current_heading": "Beam Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Bucket Confinement",
+    "candidates": [
+      "Beam Alternative",
+      "Bucket Confinement",
+      "Water Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the practical objection about a bucket drifting across the well and the rabbinic ruling that a bucket travels no more than four handbreadths, which is precisely what the 'Bucket Confinement' section's prose describes.",
+      "chosen_heading": "Bucket Confinement",
+      "current_heading": "Bucket Confinement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Water Leniency",
+    "candidates": [
+      "Water Leniency",
+      "Wall Sufficiency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Water Leniency",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the water leniency principle and the mechitza tluyah question, directly matching the 'Water Leniency' prose about Rav Tavla's question to Rav and Rabbi Yehuda's position on suspended partitions over water.",
+      "second_heading": "Wall Sufficiency",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cite the Sukka mishna about walls lowered from above vs. below and Rabbi Yosei's opinion, which the 'Wall Sufficiency' prose explicitly references when noting 'The Gemara subsequently characterizes Rav Yehuda's position as aligning with the view of Rabbi Yosi regarding suspended walls.'",
+      "current_heading": "Water Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Wall Sufficiency",
+    "candidates": [
+      "Wall Sufficiency",
+      "Position Separation",
+      "Rabbinic vs Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's rejection of the equation between Rav Yehuda and Rabbi Yosi ('v'lo hi'), which is precisely what heading 1 ('Position Separation') describes \u2014 the Gemara pushing back and saying these positions are not necessarily identical.",
+      "chosen_heading": "Position Separation",
+      "current_heading": "Wall Sufficiency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rabbinic vs Biblical",
+    "candidates": [
+      "Position Separation",
+      "Rabbinic vs Biblical",
+      "Tzippori Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the distinction between Rabbi Yosi's leniency in Sukkah (issur asei) versus Shabbat (issur sekila), which directly matches the 'Rabbinic vs Biblical' section's prose about halachic domain and gravity, and the current placement is correct.",
+      "chosen_heading": "Rabbinic vs Biblical",
+      "current_heading": "Rabbinic vs Biblical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Tzippori Case",
+    "candidates": [
+      "Tzippori Case",
+      "Sefer Torah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the Tzippori incident was performed on the authority of Rabbi Yishmael b'Rebbi Yosi, not Rabbi Yosi himself \u2014 which is precisely the response the Gemara gives to the objection raised in the 'Tzippori Case' section's prose.",
+      "chosen_heading": "Tzippori Case",
+      "current_heading": "Tzippori Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Sefer Torah Case",
+    "candidates": [
+      "Sefer Torah Case",
+      "Creation on Shabbat",
+      "Repositioning Resolution",
+      "Rava Connection",
+      "Platform Rule",
+      "Virtual Walls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sefer Torah Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the Rav Dimi account of the Sefer Torah incident and the immediate objection about constructing an ohel on Shabbat, matching the 'Sefer Torah Case' and 'Creation on Shabbat' prose exactly \u2014 but item 1 (the incident) belongs under heading 0 and item 2 (the objection) under heading 1, yet since item 1 is the full account and item 2 is its immediate challenge, they form a natural unit; however the split is cleaner placing item 1 under 0 and items 2-3 under the resolution sequence.",
+      "second_heading": "Creation on Shabbat",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 form the objection-resolution pair about constructing partitions on Shabbat, matching headings 1 ('Creation on Shabbat') and 2 ('Repositioning Resolution'), but since items 2-3 must go together as a challenge-answer unit, they belong starting at heading 1.",
+      "current_heading": "Sefer Torah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Virtual Walls",
+    "candidates": [
+      "Creation on Shabbat",
+      "Repositioning Resolution",
+      "Rava Connection",
+      "Platform Rule",
+      "Virtual Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states 'Rabba said: Rabbi Yehuda and Rabbi \u1e24ananya ben Akavya said the same thing,' which directly matches the 'Rava Connection' prose describing how Rava draws an explicit connection between these two lenient authorities.",
+      "chosen_heading": "Rava Connection",
+      "current_heading": "Virtual Walls",
+      "moved": true
+    }
+  }
+]

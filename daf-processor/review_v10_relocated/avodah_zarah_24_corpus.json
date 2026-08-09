@@ -1,0 +1,402 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Gemara's Challenge",
+    "candidates": [
+      "Intro & Dama Story",
+      "Rabbi Eliezer & Verse",
+      "Gemara's Challenge",
+      "Middleman Solution",
+      "Bestiality Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the continuation of the Dama story where the sages come to purchase the red heifer, which is precisely the 'direct challenge to Rabbi Eliezer' that the Gemara's Challenge section discusses.",
+      "chosen_heading": "Gemara's Challenge",
+      "current_heading": "Gemara's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Bestiality Question",
+    "candidates": [
+      "Middleman Solution",
+      "Bestiality Question",
+      "Tartei - Twin Concerns",
+      "Both Issues Applied",
+      "Fetus Contamination",
+      "Rava's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the middleman answer, the bestiality question, and the baraita showing Rabbi Eliezer holds both concerns \u2014 form one continuous chain of question-and-answer that culminates in the 'tartei' conclusion, and the 'Bestiality Question' prose explicitly narrates exactly this sequence including the baraita about Dama and Rabbi Eliezer's 'Jews were watching from birth' response.",
+      "chosen_heading": "Bestiality Question",
+      "current_heading": "Bestiality Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rava's Principle",
+    "candidates": [
+      "Tartei - Twin Concerns",
+      "Both Issues Applied",
+      "Fetus Contamination",
+      "Rava's Principle",
+      "Invalidity Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the concern that gentiles may have engaged in bestiality with the mother while pregnant, which is precisely what the 'Fetus Contamination' section's prose describes \u2014 the residual concern about what happened to the mother during pregnancy \u2014 with Rava's principle cited as support for that concern, not as the primary subject.",
+      "chosen_heading": "Fetus Contamination",
+      "current_heading": "Rava's Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Invalidity Transfer",
+    "candidates": [
+      "Rava's Principle",
+      "Invalidity Transfer",
+      "Transmission Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about disqualified animals whose offspring are permitted, and notes Rabbi Eliezer's dissent \u2014 precisely what the 'Invalidity Transfer' prose section describes, making the current placement correct.",
+      "chosen_heading": "Invalidity Transfer",
+      "current_heading": "Invalidity Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Transmission Debate",
+    "candidates": [
+      "Transmission Debate",
+      "When Watching Begins",
+      "Mother's History",
+      "Red Cup Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Transmission Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Rava/Rav Huna bar Chinena dispute about when invalidity transmits, which is precisely what candidate 0's prose describes as the 'Transmission Debate.'",
+      "second_heading": "When Watching Begins",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the resolution that Jews watched the mother from the moment of her own conception and dismisses concern about the grandmother's generation, which is exactly what candidate 1's prose on 'When Watching Begins' discusses.",
+      "current_heading": "Transmission Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Red Cup Method",
+    "candidates": [
+      "When Watching Begins",
+      "Mother's History",
+      "Red Cup Method",
+      "Expense Problem",
+      "Genetic Selection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks how the Jews knew which animal to watch in advance (the question posed in 'Mother's History' prose), and Rav Kahana's red cup answer is the direct response to that question \u2014 the 'Red Cup Method' section's prose already covers the explanation itself, while 'Mother's History' prose explicitly sets up the question that this Gemara passage is answering.",
+      "chosen_heading": "Mother's History",
+      "current_heading": "Red Cup Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Genetic Selection",
+    "candidates": [
+      "Expense Problem",
+      "Genetic Selection",
+      "Ami & Nappacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the Gemara's question about why the price is expensive \u2014 exactly the 'Expense Problem' \u2014 and then answers it with the two-hairs disqualification and the muchzeket concept, all of which the 'Expense Problem' prose describes as the objection and its resolution, making heading 0 the clear home for this passage.",
+      "chosen_heading": "Expense Problem",
+      "current_heading": "Genetic Selection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Ami & Nappacha",
+    "candidates": [
+      "Genetic Selection",
+      "Ami & Nappacha",
+      "Kedar Flocks Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ami and Rabbi Yitz\u1e25ak Nappa\u1e25a sitting on the porch and one opening with Rabbi Eliezer's disqualification of all offerings, which matches exactly the prose under 'Ami & Nappacha' describing this scene and statement.",
+      "chosen_heading": "Ami & Nappacha",
+      "current_heading": "Ami & Nappacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Kedar Flocks Verse",
+    "candidates": [
+      "Kedar Flocks Verse",
+      "Messianic Conversion",
+      "Worship Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge from the Kedar verse and Rabbi Eliezer's response about future converts, and the current heading's prose explicitly describes both elements \u2014 the Kedar verse challenge and the question of how Rabbi Eliezer reads it \u2014 making it the best match for this combined unit.",
+      "chosen_heading": "Kedar Flocks Verse",
+      "current_heading": "Kedar Flocks Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Worship Question",
+    "candidates": [
+      "Messianic Conversion",
+      "Worship Question",
+      "Historical Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the same Zephaniah verse and the Rav Yosef/Abaye exchange about whether the nations will merely abandon idolatry or fully serve God \u2014 precisely what the 'Worship Question' prose describes, including the note about Rav Pappa and Rav Zevid's variant versions.",
+      "chosen_heading": "Worship Question",
+      "current_heading": "Worship Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Historical Cases",
+    "candidates": [
+      "Historical Cases",
+      "Gevul Principle",
+      "Infertility Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 11 items cover the series of biblical objections to Rabbi Eliezer's prohibition on purchasing animals from gentiles for offerings \u2014 Moses/Pharaoh, Yitro, Saul/Amalekites, Araunah, the Philistine cows \u2014 which is precisely what the 'Historical Cases' prose section describes in detail.",
+      "chosen_heading": "Historical Cases",
+      "current_heading": "Historical Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Infertility Logic",
+    "candidates": [
+      "Gevul Principle",
+      "Infertility Logic",
+      "Three-Year Cutoff",
+      "Verse Challenges",
+      "Offspring Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yo\u1e25anan's 'gevul' (demarcation) principle as a middle-ground position, which matches the 'Gevul Principle' prose that explicitly introduces *gevul yesh lah* and his middle-ground stance, rather than the 'Infertility Logic' section which discusses the consequences of that principle.",
+      "chosen_heading": "Gevul Principle",
+      "current_heading": "Infertility Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Offspring Evidence",
+    "candidates": [
+      "Three-Year Cutoff",
+      "Verse Challenges",
+      "Offspring Evidence",
+      "Case Resolution",
+      "Bechor Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe exactly what candidate 1's prose describes: the challenges being answered with 'pachot mibat shalosh shanim' and then one case (the Philistine cows) resisting that answer \u2014 which is precisely what Rav Huna's objection in item 2 introduces.",
+      "chosen_heading": "Verse Challenges",
+      "current_heading": "Offspring Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Bechor Status",
+    "candidates": [
+      "Case Resolution",
+      "Bechor Status",
+      "Age Contradiction",
+      "Special Ruling",
+      "Nature Changed",
+      "Vayisharnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly shows the contradiction \u2014 that cows can't give birth before three years, yet the Philistine cows had calves \u2014 and concludes it is clear the initial answer must stand, which is exactly what the 'Age Contradiction' section describes.",
+      "chosen_heading": "Age Contradiction",
+      "current_heading": "Bechor Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Vayisharnah",
+    "candidates": [
+      "Age Contradiction",
+      "Special Ruling",
+      "Nature Changed",
+      "Vayisharnah",
+      "Song Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the meaning of 'vayisharnah' and the wordplay with 'shira' (song), which is precisely what the 'Vayisharnah' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Vayisharnah",
+      "current_heading": "Vayisharnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Song Dispute",
+    "candidates": [
+      "Song Dispute",
+      "Nappacha's Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Tannaitic dispute about which song the cows sang, directly matching the 'Song Dispute' prose which describes exactly these opinions from Rabbi Yochanan/Rabbi Meir, Rabbi Yochanan himself, Rabbi Shimon ben Lakish (mizmor yasom), and Rabbi Eliezer.",
+      "chosen_heading": "Song Dispute",
+      "current_heading": "Song Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Nappacha's Version",
+    "candidates": [
+      "Nappacha's Version",
+      "Rav Ashi's Reading",
+      "Persian Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's recontextualization of Rabbi Yitzchak's song as the Israelites' greeting to the aron (not the cows' song), which is precisely what heading 1 'Rav Ashi's Reading' describes in its prose.",
+      "chosen_heading": "Rav Ashi's Reading",
+      "current_heading": "Nappacha's Version",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Persian Etymology",
+    "candidates": [
+      "Rav Ashi's Reading",
+      "Persian Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav's etymology of *dvir* and Rav Ashi's etymology of *dashtana* \u2014 are precisely described in the 'Persian Etymology' prose, which explicitly covers both questions and their biblical derivations.",
+      "chosen_heading": "Persian Etymology",
+      "current_heading": "Persian Etymology",
+      "moved": false
+    }
+  }
+]

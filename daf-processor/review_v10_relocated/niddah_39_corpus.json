@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Kol Achas Asar Yom",
+    "candidates": [
+      "Fourth Perek Context",
+      "Kol Achas Asar Yom",
+      "Eleven Days Logic",
+      "Yashva Lo Velo Badka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text 'kol achas asar yom bechezkas tahara' is directly quoted and explained in the 'Kol Achas Asar Yom' section prose, which describes the eleven days following niddah during which a woman is presumed pure.",
+      "chosen_heading": "Kol Achas Asar Yom",
+      "current_heading": "Kol Achas Asar Yom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Yashva Lo Velo Badka",
+    "candidates": [
+      "Eleven Days Logic",
+      "Yashva Lo Velo Badka",
+      "Higia Zman Vesta",
+      "Rabbi Meir: Fear Wins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the case of a woman who sat and did not examine herself (yashva lo velo badka) and remained pure regardless of whether she was negligent, compelled, or deliberate \u2014 exactly what heading 1's prose discusses.",
+      "chosen_heading": "Yashva Lo Velo Badka",
+      "current_heading": "Yashva Lo Velo Badka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rabbi Meir: Fear Wins",
+    "candidates": [
+      "Higia Zman Vesta",
+      "Rabbi Meir: Fear Wins",
+      "Zav & Zavah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the rule about failing to check at veset time (tmeia) and Rabbi Meir's exception about fear driving away blood, and the current heading 'Rabbi Meir: Fear Wins' with its prose explicitly covers both the baseline rule and Rabbi Meir's exception together, matching the full content of the passage.",
+      "chosen_heading": "Rabbi Meir: Fear Wins",
+      "current_heading": "Rabbi Meir: Fear Wins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Zav & Zavah Status",
+    "candidates": [
+      "Zav & Zavah Status",
+      "Rav Yehuda - No Checking",
+      "Contradiction Daily",
+      "Seifa Atan L'Yemei Nida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the presumptive impurity status of the zav, zavah, and shomeret yom keneged yom \u2014 exactly what the 'Zav & Zavah Status' section prose discusses.",
+      "chosen_heading": "Zav & Zavah Status",
+      "current_heading": "Zav & Zavah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Seifa Atan L'Yemei Nida",
+    "candidates": [
+      "Rav Yehuda - No Checking",
+      "Contradiction Daily",
+      "Seifa Atan L'Yemei Nida",
+      "Yotzi Ve-Lo Yachzir"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Contradiction Daily",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Yehuda's answer and the Gemara's immediate objection from the seifa, which matches exactly the prose of 'Contradiction Daily' (candidate 1) describing both Rav Yehuda's ruling and the difficulty raised from the seifa.",
+      "second_heading": "Seifa Atan L'Yemei Nida",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the Gemara's resolution \u2014 seifa atan l'yemei niddah \u2014 which matches exactly the 'Seifa Atan L'Yemei Nida' prose (candidate 2) describing how the mishna is read as addressing two separate halachos.",
+      "current_heading": "Seifa Atan L'Yemei Nida",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Yotzi Ve-Lo Yachzir",
+    "candidates": [
+      "Yotzi Ve-Lo Yachzir",
+      "Danger of Transgression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24isda's teaching that bechezkas tahara during the eleven days limits Rabbi Meir's prohibition for a woman without a fixed veset, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Yotzi Ve-Lo Yachzir",
+      "current_heading": "Yotzi Ve-Lo Yachzir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Danger of Transgression",
+    "candidates": [
+      "Danger of Transgression",
+      "Kula Rabbi Meir Hi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why Rabbi Meir requires permanent divorce if the eleven days are permitted, and answers that it is lest they come to transgress during niddah days \u2014 exactly what the 'Danger of Transgression' prose discusses (dilma atei le-akulei bimei niddah / fear the yetzer hara will prevail).",
+      "chosen_heading": "Danger of Transgression",
+      "current_heading": "Danger of Transgression",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Kula Rabbi Meir Hi",
+    "candidates": [
+      "Kula Rabbi Meir Hi",
+      "Metame'ah Me-Et Le-Et"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the structural analysis of the mishna \u2014 the incomplete mishna (chaserot michassera), the distinction between a woman with and without a veset, and the attribution of the entire mishna to Rabbi Meir \u2014 which is precisely what the 'Kula Rabbi Meir Hi' prose section describes in detail.",
+      "chosen_heading": "Kula Rabbi Meir Hi",
+      "current_heading": "Kula Rabbi Meir Hi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Metame'ah Me-Et Le-Et",
+    "candidates": [
+      "Metame'ah Me-Et Le-Et",
+      "Braita Challenge",
+      "Eina Kova'as Vest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Metame'ah Me-Et Le-Et",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's answer that a woman does not impart retroactive impurity for twenty-four hours, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Braita Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita challenge that refutes Rava with a conclusive tiyuvta, which is precisely what candidate 1's prose describes.",
+      "current_heading": "Metame'ah Me-Et Le-Et",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Eina Kova'as Vest",
+    "candidates": [
+      "Braita Challenge",
+      "Eina Kova'as Vest",
+      "Fixed Period Definition",
+      "Veset Stringencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Huna bar \u1e24iyya's statement in Shmuel's name about not establishing a veset during days of ziva, which is precisely what the 'Eina Kova'as Vest' section's prose describes and analyzes.",
+      "chosen_heading": "Eina Kova'as Vest",
+      "current_heading": "Eina Kova'as Vest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Veset Stringencies",
+    "candidates": [
+      "Fixed Period Definition",
+      "Veset Stringencies",
+      "Lo Shmi'a Li",
+      "Day 15 to Day 20",
+      "Abaye's Response",
+      "Tes-Vav Litvilatah",
+      "Michush Mai Denichush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form Abaye's response to Rav Yosef's 'lo shmi'a li' \u2014 item 1 cites the mishna Rav Yosef taught them and item 2 cites the Shmuel ruling Rav Yosef transmitted, which is precisely what candidate 4 ('Abaye's Response') describes: Abaye pressing that Rav Yosef taught them this mishna and explained it in Shmuel's name.",
+      "chosen_heading": "Abaye's Response",
+      "current_heading": "Veset Stringencies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Michush Mai Denichush",
+    "candidates": [
+      "Lo Shmi'a Li",
+      "Day 15 to Day 20",
+      "Abaye's Response",
+      "Tes-Vav Litvilatah",
+      "Michush Mai Denichush",
+      "Count From Actual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's question to Rav Yehuda of Diskarta about whether there is a concern (michush) even if no fixed veset is established during zivah days, which is precisely what the prose of candidate 4 ('Michush Mai Denichush') describes.",
+      "chosen_heading": "Michush Mai Denichush",
+      "current_heading": "Michush Mai Denichush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Count From Actual",
+    "candidates": [
+      "Count From Actual",
+      "Hen Analogy",
+      "Reish Lakish Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Count From Actual",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 are the core of Rav Pappa's proof from the mishna and Rav Huna's objection (counting from virtual vs. actual date), which is precisely what the 'Count From Actual' prose describes.",
+      "second_heading": "Hen Analogy",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20137 are the hen analogy introduced to demonstrate that cycles are counted from actual occurrence, matching the 'Hen Analogy' prose exactly.",
+      "current_heading": "Count From Actual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Reish Lakish Position",
+    "candidates": [
+      "Hen Analogy",
+      "Reish Lakish Position",
+      "Rabbi Yochanan Position",
+      "Rosh Chodesh Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and introduces the Reish Lakish vs. Rabbi Yochanan debate about fixing a veset during niddah/zivah days, which is exactly what the 'Reish Lakish Position' prose section describes.",
+      "chosen_heading": "Reish Lakish Position",
+      "current_heading": "Reish Lakish Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Rosh Chodesh Example",
+    "candidates": [
+      "Rabbi Yochanan Position",
+      "Rosh Chodesh Example",
+      "Tosefet Hi",
+      "Ravin's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Pappa's proposed interpretation of Rabbi Yochanan's case (items 1-2) and Rav Huna's correction introducing the tosefet explanation (item 3), which is precisely what heading 2 'Tosefet Hi' describes.",
+      "chosen_heading": "Tosefet Hi",
+      "current_heading": "Rosh Chodesh Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Ravin's Resolution",
+    "candidates": [
+      "Tosefet Hi",
+      "Ravin's Resolution",
+      "Is Veset Kavua",
+      "Must Be Concerned",
+      "No Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ravin and the sea-farers confirming Rav Huna son of Rav Yehoshua's position, which is precisely what the 'Ravin's Resolution' prose discusses.",
+      "chosen_heading": "Ravin's Resolution",
+      "current_heading": "Ravin's Resolution",
+      "moved": false
+    }
+  }
+]

@@ -34,8 +34,8 @@
           "timestamp": "15:39"
         }
       ],
-      "sefaria_index": 33,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Scriptural Proofs for Resurrection and God's Knowledge of the Future",
@@ -63,7 +63,7 @@
           "timestamp": "29:03"
         }
       ],
-      "sefaria_index": 33,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -465,5 +465,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "45:31",
+  "amud_b_micro_title": "Dualism Problem",
+  "shiur_start_daf": 90,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,309 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Sheshisa/Kisoni",
+    "candidates": [
+      "Sheshisa/Kisoni",
+      "Condiment vs. Main",
+      "Raw/Roasted Meat",
+      "Persian Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Sheshisa/Kisoni",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover shetita/kisanei quantities for eiruv and Abaye's medical remedies quoted from his foster mother, which exactly matches the 'Sheshisa/Kisoni' prose.",
+      "second_heading": "Condiment vs. Main",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rav Yehuda/Shmuel's ruling on condiment vs. main food quantities for eiruv, which is precisely what the 'Condiment vs. Main' prose describes.",
+      "current_heading": "Sheshisa/Kisoni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Persian Standard",
+    "candidates": [
+      "Condiment vs. Main",
+      "Raw/Roasted Meat",
+      "Persian Standard",
+      "Clothing Sizes",
+      "Stringency/Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's proof from Persian meat-eating customs AND Abaye's immediate challenge with the garment baraita \u2014 this is the core content of the 'Raw/Roasted Meat' section which already describes Rav Yosef's Persian argument, whereas the current 'Persian Standard' heading duplicates/splits what belongs together under the roasted meat dispute.",
+      "chosen_heading": "Raw/Roasted Meat",
+      "current_heading": "Persian Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Stringency/Leniency",
+    "candidates": [
+      "Clothing Sizes",
+      "Stringency/Leniency",
+      "R. Shimon Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the chumra/kula framework and Rabbi Shimon ben Elazar's baraita about eiruv for the sick/elderly versus the glutton, which is precisely what the 'Stringency/Leniency' section's prose describes in detail, including the kashya conclusion.",
+      "chosen_heading": "Stringency/Leniency",
+      "current_heading": "Stringency/Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "R. Shimon Standard",
+    "candidates": [
+      "R. Shimon Standard",
+      "Og's Door"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (the challenge from Og's doorway baraita, Abaye's resolution, the dilemma about whether Rabbis dispute Rabbi Shimon ben Elazar, and the deflection of the proof) are explicitly discussed together in candidate 0's prose as a continuous unit about Rabbi Shimon ben Elazar's consistency in applying subjective standards regarding Og's door.",
+      "chosen_heading": "R. Shimon Standard",
+      "current_heading": "R. Shimon Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Og's Door",
+    "candidates": [
+      "Og's Door",
+      "Mazon/Zan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about establishing an eiruv with raw meat and raw eggs is explicitly discussed in the 'Og's Door' section prose, which describes Rav Chiya bar Abba/Rav Chiyya bar Rav Ashi's statement about raw meat, Rav Shimi bar Chiya's statement about raw eggs, and Rav Nachman bar Yitzchak/Sinai's ruling on quantity.",
+      "chosen_heading": "Og's Door",
+      "current_heading": "Og's Door",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Mazon/Zan",
+    "candidates": [
+      "Mazon/Zan",
+      "Ginosar Fruits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah's neder case challenging Rav and Shmuel, the note that they've been challenged before, and Rav Huna's resolution via the zan/mazon distinction \u2014 are precisely what heading 0's prose describes, covering the full arc from challenge to Rav Huna's answer.",
+      "chosen_heading": "Mazon/Zan",
+      "current_heading": "Mazon/Zan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Ginosar Fruits",
+    "candidates": [
+      "Ginosar Fruits",
+      "Eat vs. Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbah bar bar Chana following Rabbi Yochanan to eat the fruits of Ginosar and the distinction between zizuna and mazuna, which is precisely what the 'Ginosar Fruits' prose section discusses.",
+      "chosen_heading": "Ginosar Fruits",
+      "current_heading": "Ginosar Fruits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Eat vs. Forbidden",
+    "candidates": [
+      "Eat vs. Forbidden",
+      "Baraita Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Huna's ruling distinguishing 'I swear I will not eat' from 'this loaf is forbidden to me,' and the Gemara's objection from the baraita followed by its resolution \u2014 are precisely what heading 0's prose describes as the core ruling and its immediate Talmudic context, before the extended baraita dispute discussion of heading 1.",
+      "chosen_heading": "Eat vs. Forbidden",
+      "current_heading": "Eat vs. Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Baraita Disputes",
+    "candidates": [
+      "Baraita Disputes",
+      "Nazir/Wine Debate",
+      "Yom Kippur Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of argument about the baraita challenging Rav Huna's ruling \u2014 covering the alai/shvua distinction, the chasurai mechasra reconstruction, Rabbi Eliezer's two baraitot, and the trei tanna'ei resolution \u2014 which is precisely what the 'Baraita Disputes' prose describes in detail.",
+      "chosen_heading": "Baraita Disputes",
+      "current_heading": "Baraita Disputes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Yom Kippur Case",
+    "candidates": [
+      "Nazir/Wine Debate",
+      "Yom Kippur Case",
+      "Sumchus/Terumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nazir/Wine Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a closing resolution ('two tanna'im according to Rabbi Eliezer') that wraps up the prior dispute about Rabbi Eliezer's opinion, which belongs under the 'Nazir/Wine Debate' heading.",
+      "second_heading": "Yom Kippur Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20138 cover the entire Beit Shammai/Beit Hillel baraita about eiruv for a nazir with wine and Yom Kippur, plus Chananya's position and the black/white clothing cases, which matches precisely the 'Yom Kippur Case' prose description.",
+      "current_heading": "Yom Kippur Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Sumchus/Terumah",
+    "candidates": [
+      "Sumchus/Terumah",
+      "Undoing Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer about why Summakhos's objection to teruma does not equally apply to wine for a nazirite, which is precisely what heading 0 ('Sumchus/Terumah') describes in its prose.",
+      "chosen_heading": "Sumchus/Terumah",
+      "current_heading": "Sumchus/Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Undoing Status",
+    "candidates": [
+      "Undoing Status",
+      "Individual Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Sumchus holds like the rabbanan that rabbinic prohibitions apply during bein ha-shmashos, which is precisely the principle discussed in the 'Undoing Status' prose section.",
+      "chosen_heading": "Undoing Status",
+      "current_heading": "Undoing Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Individual Measures",
+    "candidates": [
+      "Individual Measures",
+      "Subj. Agreement",
+      "Ravenous Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah listing individual-based measures (kometz, ketores, lugmav, eiruv) and Rabbi Zeira's identification with Summakhos, which is exactly what the 'Individual Measures' prose describes.",
+      "chosen_heading": "Individual Measures",
+      "current_heading": "Individual Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Ravenous Limit",
+    "candidates": [
+      "Subj. Agreement",
+      "Ravenous Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge from Rabbi Shimon ben Elazar's baraita and its resolution (batla da'ato), which is precisely what the 'Ravenous Limit' prose describes in detail.",
+      "chosen_heading": "Ravenous Limit",
+      "current_heading": "Ravenous Limit",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Bar Pada's Challenge",
+    "candidates": [
+      "30 vs 29 Days",
+      "Miktzas Hayom Kekulo",
+      "Rubo Kekulo",
+      "Day 30 Double Count",
+      "Bar Pada's Challenge",
+      "Oleh Lakan Ulakan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items discuss the mishna about two consecutive neziruyot and how day thirty counts for both periods (oleh lakan ulakan), which is precisely what the 'Day 30 Double Count' prose section describes \u2014 the arithmetic of day 30/31 and day 59/60/61, and the principle that one day counts toward both the ending and beginning period.",
+      "chosen_heading": "Day 30 Double Count",
+      "current_heading": "Bar Pada's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Oleh Lakan Ulakan",
+    "candidates": [
+      "Bar Pada's Challenge",
+      "Oleh Lakan Ulakan",
+      "Tamei Soter Hakol",
+      "Retroactive Negation",
+      "Zava Analogy",
+      "Lechatchila Day 31"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectic about Bar Padda's challenge to Rav Mattana regarding the mishna's statement that day fifty-nine counts, which is precisely what heading 0 ('Bar Pada's Challenge') discusses \u2014 asking why the mishna's ruling is a chidush according to Bar Padda and resolving that he derives his position from it.",
+      "chosen_heading": "Bar Pada's Challenge",
+      "current_heading": "Oleh Lakan Ulakan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Lechatchila Day 31",
+    "candidates": [
+      "Tamei Soter Hakol",
+      "Retroactive Negation",
+      "Zava Analogy",
+      "Lechatchila Day 31",
+      "7 vs 30 Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about becoming tamei on day thirty negating the entire nezirut and poses the difficulty for bar Padda, which is precisely what the 'Tamei Soter Hakol' section's prose discusses \u2014 explaining why tumah on day thirty undermines everything according to Rav Mattana's framework.",
+      "chosen_heading": "Tamei Soter Hakol",
+      "current_heading": "Lechatchila Day 31",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "7 vs 30 Contradiction",
+    "candidates": [
+      "Lechatchila Day 31",
+      "7 vs 30 Contradiction",
+      "Bar Pada Sides Eliezer",
+      "Last Day Exception",
+      "Torah Verse Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of Bar Padda's argument that Rabbi Eliezer's ruling of only seven days (rather than all thirty) proves an unspecified nezirut is twenty-nine days, followed by Rav Mattana's rebuttal invoking miktzas hayom kekulo \u2014 exactly the 7-vs-30 contradiction discussion described in candidate 1's prose.",
+      "chosen_heading": "7 vs 30 Contradiction",
+      "current_heading": "7 vs 30 Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Torah Verse Proof",
+    "candidates": [
+      "Bar Pada Sides Eliezer",
+      "Last Day Exception",
+      "Torah Verse Proof",
+      "Yoshiya vs Yonatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's challenge to Rabbi Eliezer's ruling of thirty days in the hundred-day case and Reish Lakish's answer that there is a special halacha from a verse for tumah on the final day \u2014 exactly what 'Last Day Exception' describes as Reish Lakish providing a special halacha not derived from miktzas hayom but from a drashah, while 'Torah Verse Proof' describes the content of that verse-based ruling in detail (which is what item 2 contains), making candidate 1 the better 'home' heading that introduces and frames this passage before the detailed exposition in candidate 2.",
+      "chosen_heading": "Last Day Exception",
+      "current_heading": "Torah Verse Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Yoshiya vs Yonatan",
+    "candidates": [
+      "Torah Verse Proof",
+      "Yoshiya vs Yonatan",
+      "Gematria Yihye",
+      "Rav Masna's Unity",
+      "Ad Inclusivity",
+      "Rabbanan Kisari"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items comprise the baraita introducing Rabbi Yoshiya and Rabbi Yonatan's dispute and the Gemara's analysis of it, which is precisely what the 'Yoshiya vs Yonatan' prose describes.",
+      "chosen_heading": "Yoshiya vs Yonatan",
+      "current_heading": "Yoshiya vs Yonatan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabbanan Kisari",
+    "candidates": [
+      "Gematria Yihye",
+      "Rav Masna's Unity",
+      "Ad Inclusivity",
+      "Rabbanan Kisari",
+      "Big/Small Nezirut",
+      "Distance Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses why 'melot hayamim' cannot refer to a year, citing the Rabbanan of Caesarea's teaching that years are reckoned by months not days \u2014 exactly what the 'Rabbanan Kisari' section's prose describes.",
+      "chosen_heading": "Rabbanan Kisari",
+      "current_heading": "Rabbanan Kisari",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Distance Limits",
+    "candidates": [
+      "Big/Small Nezirut",
+      "Distance Limits",
+      "Braita Distance-Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'from now until the end of the world' case and the Gemara's hyperbolic interpretation, which is precisely what the 'Distance Limits' prose section discusses.",
+      "chosen_heading": "Distance Limits",
+      "current_heading": "Distance Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Braita Distance-Time",
+    "candidates": [
+      "Braita Distance-Time",
+      "Rava on Journey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about naziriteship 'from here until such and such a place' and raises the objection that the distance-to-time translation might be a metaphor, which is exactly what the 'Braita Distance-Time' section discusses as an apparent contradiction to the mishna.",
+      "chosen_heading": "Braita Distance-Time",
+      "current_heading": "Braita Distance-Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rava on Journey",
+    "candidates": [
+      "Rava on Journey",
+      "Miles Question",
+      "Rav Pappa No Units",
+      "Nazir Olam Forms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about setting out on the journey and Rav Pappa's answer about places that don't measure in parasangs \u2014 both of which are discussed in the 'Rava on Journey' section's prose, which covers Rava's resolution and introduces the parasang question that Rav Pappa answers.",
+      "chosen_heading": "Rava on Journey",
+      "current_heading": "Rava on Journey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Nazir Olam Forms",
+    "candidates": [
+      "Miles Question",
+      "Rav Pappa No Units",
+      "Nazir Olam Forms",
+      "Ketzisusa Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why each overnight lodging (avvana) shouldn't count as a separate nezirut, which is precisely the topic Rav Pappa's section discusses \u2014 the attempt to extract a count of sequential neziruyot from spatial/journey expressions and why that fails.",
+      "chosen_heading": "Rav Pappa No Units",
+      "current_heading": "Nazir Olam Forms",
+      "moved": true
+    }
+  }
+]

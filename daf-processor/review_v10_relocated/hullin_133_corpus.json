@@ -1,0 +1,432 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rava's Exposition",
+    "candidates": [
+      "Shochet & Ownership",
+      "Rava's Exposition",
+      "Partnership Strategy",
+      "Partnership Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Rava's Exposition' prose, which explicitly discusses Rava's answer about 'hadini im hatabach' and his derasha from 'me'eis ha'am' and 'me'izovchei hazevach' \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Rava's Exposition",
+      "current_heading": "Rava's Exposition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Partnership Proposal",
+    "candidates": [
+      "Partnership Strategy",
+      "Partnership Proposal",
+      "Nachman's Rejection",
+      "South Elders' Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates Rabbi Tavla's advice to the kohen-guest to partner with Israelite butchers for financial benefit, which is precisely what candidate 1 ('Partnership Proposal') describes in its prose.",
+      "chosen_heading": "Partnership Proposal",
+      "current_heading": "Partnership Proposal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "South Elders' Rule",
+    "candidates": [
+      "Nachman's Rejection",
+      "South Elders' Rule",
+      "Tosafot's Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rav Nachman obligating the butcher despite Rabbi Tavla's ruling and Rabbi Tavla then coming before Rav Nachman to ask why \u2014 exactly what heading 0 ('Nachman's Rejection') describes in its prose, including the citation of Rabbi Yehoshua ben Levi's tradition from the elders of the south.",
+      "chosen_heading": "Nachman's Rejection",
+      "current_heading": "South Elders' Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Tosafot's Concern",
+    "candidates": [
+      "South Elders' Rule",
+      "Tosafot's Concern",
+      "Chisda's Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man's refinement about the established storefront (keva mesachta) being the dispositive marker, which is precisely what the Tosafot's Concern prose section discusses and attributes to Rav Na\u1e25man.",
+      "chosen_heading": "Tosafot's Concern",
+      "current_heading": "Tosafot's Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chisda's Ban",
+    "candidates": [
+      "Chisda's Ban",
+      "Compliance Not Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Chisda's ban declaration and Rabba bar Rav Sheila's report about the Huzal butchers, which is precisely what the 'Chisda's Ban' section's prose discusses.",
+      "chosen_heading": "Chisda's Ban",
+      "current_heading": "Chisda's Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Compliance Not Punishment",
+    "candidates": [
+      "Compliance Not Punishment",
+      "Proper Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the le-mai hilcheta question about the twenty-two-year excommunication of the butchers of Huzal \u2014 the baraita distinguishing positive vs. negative commandments and the conclusion about fining without forewarning \u2014 which is precisely what the 'Compliance Not Punishment' prose discusses.",
+      "chosen_heading": "Compliance Not Punishment",
+      "current_heading": "Compliance Not Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Proper Eating",
+    "candidates": [
+      "Proper Eating",
+      "Knowledge Requirement",
+      "Avodah Requirement",
+      "Fifteen Services"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage discusses how the priestly gifts (foreleg, maw, jaw) are distributed among priests and whether they are divided bone by bone \u2014 a topic about the nature and distribution of the gifts themselves, which fits most naturally under 'Proper Eating' (the section discussing the gifts' consumption and honor) rather than the Knowledge or Avodah sections, though the match is imperfect since none of the candidate prose sections explicitly discuss distribution among multiple priests.",
+      "chosen_heading": "Proper Eating",
+      "current_heading": "Proper Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Fifteen Services",
+    "candidates": [
+      "Knowledge Requirement",
+      "Avodah Requirement",
+      "Fifteen Services",
+      "Grabbing vs. Receiving"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Fifteen Services",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 form a continuous chain about Rav \u1e24isda's rulings on how gifts must be eaten and the avodah/knowledge requirement, all discussed under the 'Fifteen Services' section's prose.",
+      "second_heading": "Grabbing vs. Receiving",
+      "second_confidence": "high",
+      "second_reason": "Items 7-8 introduce a new ruling by Rabbi Abba/Rav Huna/Rav about jaw veins and which priests may receive the jaw gift, fitting the 'Grabbing vs. Receiving' section's theme about the proper conduct of giving/receiving priestly gifts.",
+      "current_heading": "Fifteen Services",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Grabbing vs. Receiving",
+    "candidates": [
+      "Grabbing vs. Receiving",
+      "Abaye's Evolution",
+      "Shemuel's Sons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav Yosef's question to his students regarding a kohen who seizes gifts and the resolution from 'v'natan v'lo she-yitol me-atzmo,' which is exactly what the 'Grabbing vs. Receiving' section's prose describes.",
+      "chosen_heading": "Grabbing vs. Receiving",
+      "current_heading": "Grabbing vs. Receiving",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Shemuel's Sons",
+    "candidates": [
+      "Abaye's Evolution",
+      "Shemuel's Sons",
+      "Yom Kippur Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Abaye's full evolution across all three stages (grabbing, asking, and then stopping asking), which corresponds to the 'Abaye's Evolution' heading, while the current placement under 'Shemuel's Sons' only covers the final stage of that evolution.",
+      "chosen_heading": "Abaye's Evolution",
+      "current_heading": "Shemuel's Sons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Yom Kippur Exception",
+    "candidates": [
+      "Shemuel's Sons",
+      "Yom Kippur Exception",
+      "Transfer to Student"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about tzenu'im/gargaranim leading Abaye to stop accepting gifts except on Erev Yom Kippur, and the follow-up question about why he didn't do birkat kohanim with the answer that his schedule prevented him \u2014 are explicitly discussed in candidate 1's prose, making it the clear and correct placement.",
+      "chosen_heading": "Yom Kippur Exception",
+      "current_heading": "Yom Kippur Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Transfer to Student",
+    "candidates": [
+      "Transfer to Student",
+      "Rava & Safra Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's ruling about a kohen transferring matanot to a neighboring Torah scholar in need, which is precisely what the 'Transfer to Student' section's prose discusses in detail.",
+      "chosen_heading": "Transfer to Student",
+      "current_heading": "Transfer to Student",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rava & Safra Story",
+    "candidates": [
+      "Rava & Safra Story",
+      "Yosef's Clarification",
+      "Unworthy Students"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous narrative about Rava and Rav Safra's visit, the gift transfer, the dream rebuke, and Rav Yosef's clarification \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rava & Safra Story",
+      "current_heading": "Rava & Safra Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Unworthy Students",
+    "candidates": [
+      "Yosef's Clarification",
+      "Unworthy Students",
+      "Marking Rule",
+      "Marking Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss teaching Torah to an unworthy student, directly matching the 'Unworthy Students' section prose which explicitly describes Abaye's question to Rav Dimi, Rav Yehuda's Gehinnom ruling, and Rav Zeira's Markulis comparison \u2014 the exact content of all three items.",
+      "chosen_heading": "Unworthy Students",
+      "current_heading": "Unworthy Students",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Marking Distinctions",
+    "candidates": [
+      "Marking Rule",
+      "Marking Distinctions",
+      "Huna's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the continuous gemara discussion about the contradiction between the mishna and baraita regarding marking requirements for partnerships with a kohen vs. gentile, which is precisely what 'Marking Distinctions' prose describes in detail.",
+      "chosen_heading": "Marking Distinctions",
+      "current_heading": "Marking Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Huna's Rule",
+    "candidates": [
+      "Huna's Rule",
+      "Chiya's Rule",
+      "Specific Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the exemption for disqualified consecrated animals (psuley hamukdashin) in the context of the baraita's rules about marking and exemptions from gifts, which fits squarely within the 'Specific Exemption' section's discussion of the baraita's detailed distinctions and exemptions, not under Huna's or Chiya's rules about kohen partnership.",
+      "chosen_heading": "Specific Exemption",
+      "current_heading": "Huna's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Specific Exemption",
+    "candidates": [
+      "Chiya's Rule",
+      "Specific Exemption",
+      "10 in Temple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous dispute: Rav Huna's position, \u1e24iyya bar Rav's broader rule, the baraita challenge, its resolution, the conclusive refutation, and Rav \u1e24isda's explanation of what misled \u1e24iyya bar Rav \u2014 all of which are described in candidate 0's prose about \u1e24iyya bar Rav's expansive position and candidate 1's prose, but candidate 0 is where the passage opens (introducing Rav Huna and \u1e24iyya bar Rav's dispute), and candidate 1's prose already describes the full content of items 2\u20136 as belonging under 'Specific Exemption'; however, since item 1 introduces the very dispute that candidate 0 ('Chiya's Rule') is named for and all subsequent items resolve that same dispute, the entire passage belongs under candidate 0.",
+      "chosen_heading": "Chiya's Rule",
+      "current_heading": "Specific Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "10 in Temple",
+    "candidates": [
+      "10 in Temple",
+      "4 in Jerusalem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage enumerates the ten Temple gifts (eser bamikdash), which matches exactly the prose description under heading 0 '10 in Temple'.",
+      "chosen_heading": "10 in Temple",
+      "current_heading": "10 in Temple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "4 in Jerusalem",
+    "candidates": [
+      "4 in Jerusalem",
+      "10 Throughout Israel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists exactly the four gifts consumed in Jerusalem (firstborn, first fruits, portions from thanks offering and nazirite's ram, and hides of sacrificial animals), which directly matches the prose under heading 0 about 'arba b'Yerushalayim'.",
+      "chosen_heading": "4 in Jerusalem",
+      "current_heading": "4 in Jerusalem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "10 Throughout Israel",
+    "candidates": [
+      "10 Throughout Israel",
+      "Counting Convention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items list the ten gifts distributed throughout Eretz Yisrael (teruma, teruma of tithe, \u1e25alla, etc., through gezel hager), which is precisely what the '10 Throughout Israel' section's prose describes.",
+      "chosen_heading": "10 Throughout Israel",
+      "current_heading": "10 Throughout Israel",
+      "moved": false
+    }
+  }
+]

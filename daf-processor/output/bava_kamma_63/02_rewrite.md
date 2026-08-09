@@ -176,9 +176,7 @@ The derivation comes from a parallel. Later in the same section of *psukim* deal
 
 ### First Establishes
 
-The *Gemara* then addresses a structural question about the first *braita's* position. If, according to the first *braita*, both halves of the *pasuk* address *toenei ta'anat ganav*, what work does the first half do independently? The answer: the first *pasuk* — *im yimatze haganav yeshalem shnayim* — establishes the fundamental *halacha* of *toenei ta'anat ganav*: that one who falsely swears the object was stolen and turns out to be the taker himself pays *kefel*.
-
----
+The *Gemara* notes that this works out well according to the opinion that one *pasuk* addresses *ganav* and the other addresses *toen ta'anat ganav* — that is why two separate *pesukim* are needed: one establishing that a *ganav* pays *kefel*, and one establishing that a *toen ta'anat ganav* pays
 
 ## True Ganav Kefel
 

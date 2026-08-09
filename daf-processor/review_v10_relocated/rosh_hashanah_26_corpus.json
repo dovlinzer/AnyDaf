@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Lo Tehei Shemiah",
+    "candidates": [
+      "Lo Tehei Shemiah",
+      "Nighttime Seeing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial challenge invoking 'lo tehei shemiah gedolah mereiyah,' which is precisely what heading 0's prose describes as the topic of this section.",
+      "chosen_heading": "Lo Tehei Shemiah",
+      "current_heading": "Lo Tehei Shemiah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Nighttime Seeing",
+    "candidates": [
+      "Nighttime Seeing",
+      "Three Witnesses Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Zeira's statement about seeing the moon at night, which is precisely the topic discussed in the 'Nighttime Seeing' prose section.",
+      "chosen_heading": "Nighttime Seeing",
+      "current_heading": "Nighttime Seeing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Three Witnesses Case",
+    "candidates": [
+      "Three Witnesses Case",
+      "Eid Naasah Dayan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the three-witnesses case: why two must stand aside, the novel point about ein hayachid ne'eman, and the proof from Moses and Aaron \u2014 exactly what the 'Three Witnesses Case' prose describes in detail.",
+      "chosen_heading": "Three Witnesses Case",
+      "current_heading": "Three Witnesses Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Eid Naasah Dayan",
+    "candidates": [
+      "Eid Naasah Dayan",
+      "Rabbi Tarfon",
+      "Rabbi Akiva",
+      "Capital Crimes Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita introducing the dispute between Rabbi Tarfon and Rabbi Akiva about eid na'aseh dayan, which is precisely what the current section's prose describes as the gemara's raising of this principle.",
+      "chosen_heading": "Eid Naasah Dayan",
+      "current_heading": "Eid Naasah Dayan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Capital Crimes Only",
+    "candidates": [
+      "Rabbi Tarfon",
+      "Rabbi Akiva",
+      "Capital Crimes Only",
+      "Three Categories",
+      "All Except Cow",
+      "Keren Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly distinguishes Rabbi Akiva's rule as applying only to capital cases (dinei nefashot) due to the Torah's requirement to seek exoneration, while conceding it does not apply to kiddush hachodesh \u2014 exactly what the 'Capital Crimes Only' section's prose describes.",
+      "chosen_heading": "Capital Crimes Only",
+      "current_heading": "Capital Crimes Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Keren Definition",
+    "candidates": [
+      "Three Categories",
+      "All Except Cow",
+      "Keren Definition",
+      "Rabbi Yosi Proof",
+      "Rabbis Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text presents the basic rule (all shofarot valid except cow's horn because it is a keren) and Rabbi Yosi's challenge together as one unit, and candidate 1 ('All Except Cow') is the section whose prose explicitly introduces this mishna and its opening formulation, making it the natural home for the full mishna passage.",
+      "chosen_heading": "All Except Cow",
+      "current_heading": "Keren Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rabbis Response",
+    "candidates": [
+      "Rabbi Yosi Proof",
+      "Rabbis Response",
+      "Shor Par"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbis' response distinguishing that all other shofarot are called both shofar and keren while a cow's horn is only called keren, citing the verse about the bull's horns \u2014 exactly what candidate 1 'Rabbis Response' describes.",
+      "chosen_heading": "Rabbis Response",
+      "current_heading": "Rabbis Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Shor Par",
+    "candidates": [
+      "Shor Par",
+      "Golden Calf Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'shor par' verse \u2014 item 1 gives Rabbi Yosei's reading of 'shor par' as a contraction for 'shofar', and item 2 gives the Rabbis' counter-reading via Rav Mattana \u2014 exactly matching the prose under heading 0.",
+      "chosen_heading": "Shor Par",
+      "current_heading": "Shor Par",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Golden Calf Link",
+    "candidates": [
+      "Golden Calf Link",
+      "Multiple Segments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items discuss the kategor-sanegore principle (Rav Chisda's reasoning), its challenges regarding the dam par, aron, kaf/machtah, golden garments, the shofar being outside, the keren terminology, and Rabbi Yosi's responses \u2014 exactly the sustained scrutiny described in candidate 0's prose.",
+      "chosen_heading": "Golden Calf Link",
+      "current_heading": "Golden Calf Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Multiple Segments",
+    "candidates": [
+      "Multiple Segments",
+      "Bone vs Marrow",
+      "Tosafot Hollow",
+      "Rabbi Akiva Travels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Abaye's reasoning about a single shofar vs. multiple layers, the gemara's reconciliation with the mishna's keren reason, and Rabbi Yosi's response \u2014 exactly the content described in the 'Multiple Segments' prose.",
+      "chosen_heading": "Multiple Segments",
+      "current_heading": "Multiple Segments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rabbi Akiva Travels",
+    "candidates": [
+      "Bone vs Marrow",
+      "Tosafot Hollow",
+      "Rabbi Akiva Travels",
+      "Vernacular Evidence",
+      "Akiva Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about the meaning of 'yovel' and Rabbi Akiva's testimony from his travels to Arabia, which is precisely what the 'Rabbi Akiva Travels' section's prose describes.",
+      "chosen_heading": "Rabbi Akiva Travels",
+      "current_heading": "Rabbi Akiva Travels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Akiva Examples",
+    "candidates": [
+      "Vernacular Evidence",
+      "Akiva Examples",
+      "Levi Stories",
+      "Rava Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are exactly the examples described in the 'Akiva Examples' prose \u2014 Rabbi Akiva in Galya and Africa, Rabbi Yehuda HaNasi at coastal towns, and Rabbi Shimon ben Lakish at Kan Nishraya \u2014 matching the prose's detailed summary of each case.",
+      "chosen_heading": "Akiva Examples",
+      "current_heading": "Akiva Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Rava Approach",
+    "candidates": [
+      "Levi Stories",
+      "Rava Approach",
+      "Maidservant Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Levi story \u2014 the man's complaint, Levi's ignorance of the word, consulting the study hall, and Rava's retrospective method \u2014 which is exactly what candidate 0 ('Levi Stories') describes, whereas candidate 1 ('Rava Approach') covers only the second half; the passage as a whole belongs under the heading that encompasses the entire episode.",
+      "chosen_heading": "Levi Stories",
+      "current_heading": "Rava Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Maidservant Words",
+    "candidates": [
+      "Rava Approach",
+      "Maidservant Words",
+      "Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are the 'maidservant words' series \u2014 cases where Rabbis learned the meaning of obscure terms from the maidservant of Rabbi's household \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Maidservant Words",
+      "current_heading": "Maidservant Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Description",
+    "candidates": [
+      "Description",
+      "Trumpets Role",
+      "Fast Day Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers both the ibex shofar description and the trumpets arrangement, and the 'Description' heading's prose explicitly addresses the full mishna content about the shofar's material, shape, and gold mouthpiece plating, making it the correct home for this passage.",
+      "chosen_heading": "Description",
+      "current_heading": "Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Fast Day Shofar",
+    "candidates": [
+      "Trumpets Role",
+      "Fast Day Shofar",
+      "Rosh Hashanah vs Yovel",
+      "Yehuda Distinction",
+      "Levi Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes fast day shofar practice \u2014 curved rams' horns with silver-plated mouths, trumpets in the center, shofar sounding short and trumpets long because the mitzvah of the day is with the trumpets \u2014 which precisely matches the 'Fast Day Shofar' section's prose discussion of these same details.",
+      "chosen_heading": "Fast Day Shofar",
+      "current_heading": "Fast Day Shofar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Levi Classification",
+    "candidates": [
+      "Rosh Hashanah vs Yovel",
+      "Yehuda Distinction",
+      "Levi Classification",
+      "Core Debate",
+      "Straight Symbolism",
+      "Bent Symbolism",
+      "Tanna Kamma",
+      "Animal Symbolism",
+      "Direction Question",
+      "Tosafot Symbolic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about Rabbi Levi's ruling on curved vs. straight shofarot, his alignment with Rabbi Yehuda, why he didn't simply say 'halakha ke-Rabbi Yehuda,' and the underlying rationale for the dispute \u2014 exactly what the 'Levi Classification' prose describes.",
+      "chosen_heading": "Levi Classification",
+      "current_heading": "Levi Classification",
+      "moved": false
+    }
+  }
+]

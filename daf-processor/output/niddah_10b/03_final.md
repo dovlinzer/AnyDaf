@@ -1,21 +1,13 @@
-# Niddah 10b — Daf Yomi Shiur
 [DAF:9b]
-
 ## Post-Menopause 90-Days
 
-### 90-Day Reboot Status
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: זְקֵנָה שֶׁעָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת, וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ. וְעוֹד עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת, וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ. וְעוֹד עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת, וְרָאֲתָה — הֲרֵי הִיא כְּכׇל הַנָּשִׁים, וּמְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
->
-> **Translation:** The Sages taught in a *baraita*: With regard to an elderly woman for whom three typical menstrual cycles of thirty days passed and then she saw a discharge of menstrual blood, her time is sufficient. And if a further three typical menstrual cycles of thirty days passed for her and she subsequently saw a discharge of menstrual blood, her time is sufficient. And if yet a further three typical menstrual cycles of thirty days passed for her and then she saw a discharge of menstrual blood, after this third time she is now like all normal women, and she transmits impurity retroactively for a twenty-four-hour period or from examination to examination.
+
+### 90-Day Reboot Status
 
 The sugya opens with a *tanu rabbanan* concerning an elderly woman — one who has begun to show signs of age and has gone three *onot*, meaning ninety days, without menstruating. Having established that she is *mesuleket damim*, the *halacha* follows that when she does see blood, she applies the principle of *dayah sha'atah*: she need only be concerned from the moment of the sighting, not the preceding twenty-four hours.
 
 ### Pattern from 90-Days
-
-> **Hebrew/Aramaic:** וְלָא (מִיבַּעְיָא) שֶׁכִּוְּונָה, אֶלָּא אֲפִילּוּ פִּיחֲתָה, וַאֲפִילּוּ הוֹתִירָה.
->
-> **Translation:** The *baraita* continues: And it is not necessary to teach this *halakha* in a case where she experienced the three sightings in even intervals of ninety days, as in such a case it is obvious that she assumes the status of a normal woman who transmits impurity retroactively. Rather, even if she had intervals where she decreased, i.e., experienced bleeding at intervals smaller than that, or even if she increased and experienced bleeding at greater intervals, she still assumes the status of a woman who transmits impurity retroactively.
 
 The *baraita* does not end there, however. If another ninety days pass and she sees again, the governing rule of *dayah sha'atah* returns. The logic is as follows: when this woman bled the first time, one might have concluded that this constituted counter-evidence against her status as *mesuleket damim* — had she bled again within thirty days, we would have said she was no longer considered *mesuleket damim* and applied the standard twenty-four-hour retroactive concern. But because she waited another ninety days before bleeding again, that gap itself re-establishes her status as *mesuleket damim*. Each successive ninety-day interval, followed by a sighting, again qualifies for *dayah sha'atah*.
 
@@ -29,19 +21,19 @@ The *baraita* then adds that this ruling applies not only when her intervals wer
 
 ### Gemara Analysis
 
-> **Hebrew/Aramaic:** ״אֲפִילּוּ פִּיחֲתָה״, וְלָא מִבָּעֲיָא כִּוְּונָה? אַדְּרַבָּה, כִּי כִּוְּונָה — קָבְעָה לָהּ וִסְתָּהּ, וְדַיָּה שְׁעָתָהּ!
->
-> **Translation:** The Gemara infers: The wording of the *baraita*: Even if she had intervals where she decreased, indicates that it is not necessary to teach the *halakha* in the case of a woman who experienced bleeding at even intervals. This is puzzling, as on the contrary, if she experienced bleeding at even intervals she thereby fixes her menstrual cycle as being every thirty days, and according to Rabbi Dosa (4b) the *halakha* is that her time is sufficient.
+> **Hebrew/Aramaic:** וְלָא (מִיבַּעְיָא) שֶׁכִּוְּונָה, אֶלָּא אֲפִילּוּ פִּיחֲתָה, וַאֲפִילּוּ הוֹתִירָה.
+> **Translation:** The *baraita* continues: **And it is not necessary** to teach this *halakha* in a case **where she** experienced the three sightings in **even** intervals of ninety days, as in such a case it is obvious that she assumes the status of a normal woman who transmits impurity retroactively. **Rather, even if she** had intervals where she **decreased,** i.e., experienced bleeding at intervals smaller than that, **or even if she increased** and experienced bleeding at greater intervals, she still assumes the status of a woman who transmits impurity retroactively.
 
-The *Gemara* takes issue with the phrasing of the *baraita*. The *baraita* as stated implies that even an inexact pattern generates concern — which ostensibly treats the exact case as obvious. But the *Gemara* objects: *adarabba*, the reverse is true. If her intervals were exactly ninety days, she would have a *veset kavua*, a fixed cycle. Our *mishnah* earlier established that a woman with a fixed cycle who bleeds at the expected time need not be concerned retroactively — she need only worry from the moment of sighting, *dayah sha'atah*. So when the pattern is exact, there is actually *less* cause for retroactive concern, not more. It would therefore be a greater *chiddush* to say she is subject to retroactive concern when her pattern is *exact*, not when it is inexact.
+> **Hebrew/Aramaic:** ״אֲפִילּוּ פִּיחֲתָה״, וְלָא מִבָּעֲיָא כִּוְּונָה? אַדְּרַבָּה, כִּי כִּוְּונָה — קָבְעָה לָהּ וִסְתָּהּ, וְדַיָּה שְׁעָתָהּ!
+> **Translation:** The Gemara infers: The wording of the *baraita*: **Even if she** had intervals where she **decreased,** indicates that **it is not necessary** to teach the *halakha* in the case of a woman who experienced bleeding at **even** intervals. This is puzzling, as **on the contrary, if she** experienced bleeding at **even** intervals she thereby **fixes her** menstrual **cycle** as being every thirty days, **and** according to Rabbi Dosa (4b) the *halakha* is that **her time is sufficient.**
 
 > **Hebrew/Aramaic:** וְכִי תֵּימָא, רַבָּנַן הִיא, דִּפְלִיגִי עֲלֵיהּ דְּרַבִּי דּוֹסָא, דְּאָמְרִי: אִשָּׁה שֶׁיֵּשׁ לָהּ וֶסֶת מְטַמְּאָה מֵעֵת לְעֵת, אִיפְּכָא מִבְּעֵי לֵיהּ, וְלֵימָא: וְלֹא שֶׁפִּיחֲתָה וְהוֹתִירָה, אֶלָּא אֲפִילּוּ כִּוְּונָה!
->
-> **Translation:** And if you would say that this is in accordance with the opinion of the Rabbis, who disagree with Rabbi Dosa, as they say that a woman who has a fixed menstrual cycle transmits impurity retroactively for a twenty-four-hour period, then the *baraita* should have been written in the opposite fashion: Let it say: And the *halakha* that an elderly woman who sees menstrual blood at intervals returns to the status of normal women and transmits impurity retroactively applies not only to a case where she had intervals where she decreased or increased, i.e., she experienced bleeding less or more than ninety days apart, but this *halakha* applies even if she experienced bleeding at even intervals.
+> **Translation:** **And if you would say** that this **is** in accordance with the opinion of **the Rabbis, who disagree with Rabbi Dosa, as they say** that **a woman who has** a fixed menstrual **cycle transmits impurity** retroactively **for** a twenty-four-hour **period,** then the *baraita* **should have** been written in the **opposite** fashion: **Let** it **say: And** the *halakha* that an elderly woman who sees menstrual blood at intervals returns to the status of normal women and transmits impurity retroactively applies **not** only to a case where she had intervals where **she decreased or increased,** i.e., she experienced bleeding less or more than ninety days apart, **but** this *halakha* applies **even** if she experienced bleeding at **even** intervals.
 
 > **Hebrew/Aramaic:** תְּנִי: לֹא שֶׁפִּיחֲתָה וְהוֹתִירָה, אֶלָּא אֲפִילּוּ כִּוְּונָה. וְאִיבָּעֵית אֵימָא, הָכִי קָאָמַר: וְלֹא שֶׁכִּוְּונָה, אֶלָּא שֶׁפִּיחֲתָה וְהוֹתִירָה, אֲבָל כִּוְּונָה — קָבְעָה לָהּ וֶסֶת, וְדַיָּה שְׁעָתָהּ. וּמַנִּי? רַבִּי דּוֹסָא הִיא.
->
-> **Translation:** Teach in the *baraita* in accordance with this altered version: And the *halakha* applies not only to a case where she had intervals where she decreased or increased, but this is the *halakha* even if she experienced bleeding at even intervals. And if you wish say instead that this is what the *baraita* is saying: The *halakha* that an elderly woman is retroactively impure does not apply to a case when she saw menstrual blood at even intervals. Rather, it applies only if she decreased or increased, i.e., she experienced bleeding at intervals less or more than ninety days apart. But if she saw blood at even intervals, she thereby fixes a set menstrual cycle of ninety days and her time is sufficient. And if so, in accordance with whose opinion is this *baraita*? It is in accordance with the opinion of Rabbi Dosa.
+> **Translation:** The Gemara answers: **Teach** in the *baraita* in accordance with this altered version: **And** the *halakha* applies **not** only to a case where she had intervals where **she decreased or increased, but** this is the *halakha* **even** if she experienced bleeding at **even** intervals. **And if you wish say** instead that **this** is what the *baraita* **is saying:** The *halakha* that an elderly woman is retroactively impure does **not** apply to a case when she saw menstrual blood at **even** intervals. **Rather,** it applies only if **she decreased or increased,** i.e., she experienced bleeding at intervals less or more than ninety days apart. **But** if she saw blood at **even** intervals, she thereby **fixes** a set menstrual **cycle** of ninety days and her time is sufficient. The Gemara adds: **And** if so, in accordance with **whose** opinion is this *baraita*? **It is** in accordance with the opinion of **Rabbi Dosa.**
+
+The *Gemara* takes issue with the phrasing of the *baraita*. The *baraita* as stated implies that even an inexact pattern generates concern — which ostensibly treats the exact case as obvious. But the *Gemara* objects: *adarabba*, the reverse is true. If her intervals were exactly ninety days, she would have a *veset kavua*, a fixed cycle. Our *mishnah* earlier established that a woman with a fixed cycle who bleeds at the expected time need not be concerned retroactively — she need only worry from the moment of sighting, *dayah sha'atah*. So when the pattern is exact, there is actually *less* cause for retroactive concern, not more. It would therefore be a greater *chiddush* to say she is subject to retroactive concern when her pattern is *exact*, not when it is inexact.
 
 The *Gemara* resolves this with two approaches. The first is simply to invert the language of the *baraita*: rather than reading it as "not only in the case of exactness but even in the case of inexactness," we should read it as "not only when she is inexact — even when she is exact." That is, even with a precise ninety-day cycle, she is still subject to the twenty-four-hour retroactive concern. This latter position follows the *rabanan* who disagree with Rabbi Dosa, for Rabbi Dosa holds that a woman with a fixed cycle who bleeds as expected is entirely exempt from retroactive concern, while the *rabanan* hold otherwise.
 
@@ -51,27 +43,28 @@ It is worth noting, as a matter of broader analysis, that even the inexact case 
 
 ## Rabbi Eliezer 90-Days
 
-### Rabbi Eliezer Rule
 
-> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר אוֹמֵר: כָּל אִשָּׁה שֶׁעָבְרוּ עָלֶיהָ וכוּ׳. תַּנְיָא: אָמַר לָהֶם רַבִּי אֱלִיעֶזֶר לַחֲכָמִים: מַעֲשֶׂה בְּרִיבָה אַחַת בְּהַיְתָלוֹ, שֶׁהִפְסִיקָה שָׁלֹשׁ עוֹנוֹת, וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים וְאָמְרוּ: דַּיָּהּ שְׁעָתָהּ.
->
-> **Translation:** The mishna teaches that Rabbi Eliezer says: With regard to any woman for whom three typical menstrual cycles passed during which she saw no menstrual blood, if she experiences bleeding, her time is sufficient. Rabbi Yosei says: In the case of a pregnant woman and a nursing woman for whom three menstrual cycles passed during which they saw no menstrual blood, if she then saw blood her time is sufficient. Rabbi Eliezer cites a proof for his opinion. It is taught in a *baraita*: There was an incident involving a certain girl in the village of Hitlo who stopped menstruating for three typical menstrual cycles, after which she experienced menstruation. And the matter came before the Sages, and they said that her time is sufficient and she does not transmit impurity retroactively.
+
+### Rabbi Eliezer Rule
 
 The *baraita* continues with the position of Rabbi Eliezer, which extends the ninety-day rule significantly. Whereas the preceding discussion assumed that the ninety-day interval is most naturally applicable to a post-menopausal woman, Rabbi Eliezer holds that any woman who goes ninety days without bleeding — regardless of the reason and regardless of her age — is classified as *mesuleket damim*. This is not limited to cases of menopause. A woman might stop menstruating due to malnutrition, illness, or other causes, and Rabbi Eliezer would apply the same ruling.
 
 ### Heitalu Story
 
+> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר אוֹמֵר: כָּל אִשָּׁה שֶׁעָבְרוּ עָלֶיהָ וְכוּ׳. תַּנְיָא: אָמַר לָהֶם רַבִּי אֱלִיעֶזֶר לַחֲכָמִים: מַעֲשֶׂה בְּרִיבָה אַחַת בְּהַיְתָלוֹ, שֶׁהִפְסִיקָה שָׁלֹשׁ עוֹנוֹת, וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים וְאָמְרוּ: דַּיָּהּ שְׁעָתָהּ.
+> **Translation:** § The mishna teaches that **Rabbi Eliezer says:** With regard to **any woman** for **whom** three typical menstrual cycles **passed** during which she saw no menstrual blood, if she experiences bleeding, her time is sufficient. Rabbi Yosei says: In the case of a pregnant woman and a nursing woman for whom three menstrual cycles passed during which they saw no menstrual blood, if she then saw blood her time is sufficient. Rabbi Eliezer cites a proof for his opinion. It **is taught** in a *baraita*: There was **an incident involving a certain girl in** the village of **Hitlo who stopped** menstruating **for three** typical menstrual **cycles,** after which she experienced menstruation. **And the matter came before the Sages, and they said** that **her time is sufficient** and she does not transmit impurity retroactively.
+
 A *baraita* records that Rabbi Eliezer brought a proof from an actual incident: there was a young woman in a place called Heitalu who had gone ninety days without bleeding. The case came before the Sages, who ruled *dayah sha'atah* — she need not be concerned retroactively, as her ninety-day gap established her as *mesuleket damim*.
 
 ### Emergency Exception
 
-> **Hebrew/Aramaic:** אָמְרוּ לוֹ: אֵין שְׁעַת הַדְּחָק רְאָיָה. מַאי שְׁעַת הַדְּחָק? אִיכָּא דְאָמְרִי: שְׁנֵי בַצּוֹרֶת הֲווֹ, אִיכָּא דְאָמְרִי: טְהָרוֹת אַפֵּישׁ (לַעֲבִידָא) [וַעֲבַדָא], וְחַשּׁוּ רַבָּנַן לְהֶפְסֵד דִּטְהָרוֹת.
->
-> **Translation:** The other Sages said to Rabbi Eliezer: Decisions rendered in exigent circumstances are no proof. The Gemara asks: What were the exigent circumstances? Some say that it was during the years of famine, and some say that the girl had handled many ritually pure items and the Sages were concerned for the loss of those pure items if they were ruled retroactively impure.
-
 The *chachamim* rejected this proof. Their response was: *ein sha'at ha-dachak re'ayah* — a ruling made under emergency conditions cannot serve as general legal precedent. The Heitalu case was an exceptional circumstance, and the lenient ruling applied there would not become normative *halacha*.
 
+> **Hebrew/Aramaic:** אָמְרוּ לוֹ: אֵין שְׁעַת הַדְּחָק רְאָיָה. מַאי שְׁעַת הַדְּחָק? אִיכָּא דְאָמְרִי: שְׁנֵי בַצּוֹרֶת הֲווֹ, אִיכָּא דְאָמְרִי: טְהָרוֹת אַפֵּישׁ (לַעֲבִידָא) [וַעֲבַדָא], וְחַשּׁוּ רַבָּנַן לְהֶפְסֵד דִּטְהָרוֹת.
+> **Translation:** The other Sages **said to** Rabbi Eliezer: Decisions rendered **in exigent circumstances are no proof.** The Gemara asks: **What** were the **exigent circumstances? Some say** that **it was** during the **years of famine,** and **some say** that the girl had **handled many ritually pure** items **and the Sages were concerned for the loss** of those **pure** items if they were ruled retroactively impure.
+
 ### Sha'at Dachak
+
 
 The *Gemara* then asks: what was the *sha'at dachak*, the emergency situation? Two answers are given. The first is that it was a time of famine — *shnei batzoret havu*. This explanation has a double resonance: on one hand, during a famine one would be loath to declare large quantities of *terumah* retroactively impure, since food was desperately scarce. On the other hand — though this is not the *Gemara*'s own point — it is notable that malnutrition itself is a recognized cause of amenorrhea, which would explain why this young woman had stopped menstruating.
 
@@ -83,17 +76,15 @@ The broader *halakhic* discussion of *sha'at dachak* has significant implication
 
 ### Rebbe Relies R. Eliezer
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַעֲשֶׂה, וְעָשָׂה רַבִּי כְּרַבִּי אֱלִיעֶזֶר. לְאַחַר שֶׁנִּזְכַּר, אָמַר: כְּדַי הוּא רַבִּי אֱלִיעֶזֶר לִסְמוֹךְ עָלָיו בִּשְׁעַת הַדְּחָק. מַאי ״לְאַחַר שֶׁנִּזְכַּר״? אִילֵּימָא לְאַחַר שֶׁנִּזְכַּר דְּאֵין הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר אֶלָּא כְּרַבָּנַן, בִּשְׁעַת הַדְּחָק הֵיכִי עָבֵיד כְּוָותֵיהּ?
->
-> **Translation:** The Sages taught in a *baraita*: There was an incident in which Rabbi Yehuda HaNasi acted by ruling that the *halakha* is in accordance with the opinion of Rabbi Eliezer. After he remembered that Rabbi Eliezer's colleagues disagree with him on this matter and that he had apparently ruled incorrectly, he nevertheless said: Rabbi Eliezer is worthy to rely upon in exigent circumstances. The Gemara asks: What is the meaning of: After he remembered? If we say that this means after he remembered that the *halakha* is not in accordance with the opinion of Rabbi Eliezer, but in accordance with the opinion of the Rabbis, if so, how could he act in accordance with Rabbi Eliezer even in exigent circumstances, since the *halakha* has been decided against him?
-
 The *Gemara* records that Rebbe himself once ruled in accordance with Rabbi Eliezer — applying *dayah sha'atah* to a woman who had gone ninety days without bleeding. Subsequently, upon reflection, he declared: *kedai Rabbi Eliezer lismoach alav bi-sha'at ha-dachak* — Rabbi Eliezer's opinion is weighty enough to be relied upon in a time of pressure.
 
 ### Rebbe vs. R. Eliezer
 
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַעֲשֶׂה, וְעָשָׂה רַבִּי כְּרַבִּי אֱלִיעֶזֶר. לְאַחַר שֶׁנִּזְכַּר, אָמַר: כְּדַי הוּא רַבִּי אֱלִיעֶזֶר לִסְמוֹךְ עָלָיו בִּשְׁעַת הַדְּחָק. מַאי ״לְאַחַר שֶׁנִּזְכַּר״? אִילֵּימָא לְאַחַר שֶׁנִּזְכַּר דְּאֵין הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר אֶלָּא כְּרַבָּנַן, בִּשְׁעַת הַדְּחָק הֵיכִי עָבֵיד כְּוָותֵיהּ?
+> **Translation:** **The Sages taught** in a *baraita*: There was **an incident** in which **Rabbi** Yehuda HaNasi **acted** by ruling that the *halakha* **is in accordance with** the opinion of **Rabbi Eliezer. After he remembered** that Rabbi Eliezer’s colleagues disagree with him on this matter and that he had apparently ruled incorrectly, **he** nevertheless **said: Rabbi Eliezer is worthy to rely upon in exigent circumstances.** The Gemara asks: **What** is the meaning of: **After he remembered? If we say** that this means **after he remembered** that the ***halakha*** is **not in accordance with** the opinion of **Rabbi Eliezer, but in accordance with** the opinion of **the Rabbis,** if so, **how could he act in accordance with** Rabbi Eliezer even **in exigent circumstances,** since the *halakha* has been decided against him?
+
 > **Hebrew/Aramaic:** אֶלָּא, דְּלָא אִיתְּמַר הִילְכְתָא לָא כְּמָר וָלֹא כְּמָר, וּמַאי ״לְאַחַר שֶׁנִּזְכַּר״? לְאַחַר שֶׁנִּזְכַּר דְּלָאו יָחִיד פְּלִיג עֲלֵיהּ, אֶלָּא רַבִּים פְּלִיגִי עֲלֵיהּ, אֲמַר: כְּדַי הוּא רַבִּי אֱלִיעֶזֶר לִסְמוֹךְ עָלָיו בִּשְׁעַת הַדְּחָק.
->
-> **Translation:** Rather, one must say that the *halakha* had not been stated on this matter, neither in accordance with the opinion of this Sage, Rabbi Eliezer, nor in accordance with the opinion of that Sage, the Rabbis. And what is the meaning of: After he remembered? After Rabbi Yehuda HaNasi remembered that it was not a lone authority who disagrees with Rabbi Eliezer, but it was several Sages who disagreed with him, and there is a principle that the *halakha* is in accordance with the opinion of the many over the opinion of an individual, he nevertheless said: Rabbi Eliezer is worthy to rely upon in exigent circumstances.
+> **Translation:** **Rather,** one must say **that** the ***halakha*** had **not been stated** on this matter, **neither in accordance with** the opinion of this **Sage,** Rabbi Eliezer, **nor in accordance with** the opinion of **that Sage,** the Rabbis. **And what** is the meaning of: **After he remembered? After** Rabbi Yehuda HaNasi **remembered that it was not a lone** authority who **disagrees with** Rabbi Eliezer, **but** it was several Sages who **disagreed with him,** and there is a principle that the *halakha* is in accordance with the opinion of the many over the opinion of an individual, he nevertheless **said: Rabbi Eliezer is worthy to rely upon in exigent circumstances.**
 
 The *Gemara* then examines what precisely Rebbe had "remembered" that prompted this formulation. One reading would be that he recalled a formal ruling that the *halacha* does not follow Rabbi Eliezer. But the *Gemara* rejects this: if Rabbi Eliezer's opinion had been formally and explicitly rejected, how could Rebbe rely on it even in a case of *sha'at dachak*? A truly rejected opinion cannot be invoked at all.
 
@@ -105,11 +96,9 @@ This passage is important well beyond this immediate context. It illustrates the
 
 ## Pre-Pubescent Girl
 
-### Three Sightings
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת וְרָאֲתָה, פַּעַם רִאשׁוֹנָה — דַּיָּהּ שְׁעָתָהּ, שְׁנִיָּה — דַּיָּהּ שְׁעָתָהּ, שְׁלִישִׁית — הֲרֵי הִיא כְּכׇל הַנָּשִׁים, וּמְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
->
-> **Translation:** The Sages taught in a *baraita*: With regard to a young girl, less than twelve years old, whose time to see the flow of menstrual blood has not arrived and she saw menstrual blood, after the first time her time is sufficient. After the second time, again her time is sufficient. After the third time, she is like all normal adult women, and therefore she transmits impurity retroactively for a twenty-four-hour period or from examination to examination.
+
+### Three Sightings
 
 The *baraita* now shifts from the post-menopausal woman to the opposite end of the spectrum: a *tinoket shelo higia zmanah lir'os*, a young girl who has not yet reached the age at which she would ordinarily expect to begin menstruating, and yet she sees blood.
 
@@ -123,24 +112,40 @@ By the third time, however, even a very young girl who has bled three times is t
 
 It is worth noting that the age of menarche has shifted considerably over the centuries, as has likely been apparent to many students of this material. While in recent generations the average age has declined — likely due in part to nutritional factors and, as some have noted, hormonal exposure in food — it appears that in the era of the *Gemara*, based on what the sources suggest about standards of living, the onset of menstruation was in some periods earlier than the early modern baseline of around seventeen. These biological shifts do not affect the formal *halakhic* categories, but they illuminate why the *Gemara* takes seriously the possibility of a ten-year-old presenting with what appear to be regular cycles.
 
+The *Gemara* will presuppose here a debate between Rebbe and Rabban Shimon ben Gamliel regarding how many repetitions establish a *chazakah*. Rabban Shimon ben Gamliel holds the standard position: three times. Rebbe holds that even twice suffices. The *Gemara* assumes this *baraita* follows Rebbe, since by the third sighting the girl is treated as *ke-chol ha-nashim* — implying that two sightings already established a pattern, and therefore by the third one she is subject to the concern. The question of whether the pattern-establishing sighting is the one that triggers retroactive concern, or whether retroactive concern begins only on the subsequent sighting after the pattern is established, is one the *Gemara* will return to.
+
+[DAF:10a]
 ### 90-Day Reset
 
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת וְרָאֲתָה, פַּעַם רִאשׁוֹנָה — דַּיָּהּ שְׁעָתָהּ, שְׁנִיָּה — דַּיָּהּ שְׁעָתָהּ, שְׁלִישִׁית — הֲרֵי הִיא כְּכׇל הַנָּשִׁים, וּמְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
+> **Translation:** The Gemara continues the discussion of a woman who fails to experience menstruation for three typical menstrual cycles. **The Sages taught** in a *baraita*: With regard to **a young girl,** less than twelve years old, **whose time to see** the flow of menstrual blood **has not arrived and she saw** menstrual blood, after the **first time her time is sufficient.** After the **second time,** again **her time is sufficient.** After the **third time, she is like all** normal adult **women, and** therefore **she transmits impurity** retroactively **for** a twenty-four**-**hour **period or from examination to examination.**
+
 > **Hebrew/Aramaic:** עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ, וְעוֹד עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ, וְעוֹד עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת וְרָאֲתָה — הֲרֵי הִיא כְּכׇל הַנָּשִׁים, וּמְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
->
-> **Translation:** The *baraita* continues: If she then passed three expected menstrual cycles without experiencing bleeding, and then she saw menstrual blood, she returns to the status of a young girl and her time is sufficient. And if it further happens that she again passed three expected menstrual cycles without experiencing bleeding, and then she saw menstrual blood, her time is sufficient. And if she passed three further cycles without experiencing bleeding, and she subsequently saw menstrual blood, she is like all normal adult women. She is considered a woman who experiences regular menstruation at long intervals with breaks of ninety days. And therefore she transmits impurity retroactively for a twenty-four-hour period or from examination to examination.
+> **Translation:** The *baraita* continues: If she then **passed three** expected menstrual **cycles** without experiencing bleeding, **and** then **she saw** menstrual blood, she returns to the status of a young girl and **her time is sufficient. And** if it **further** happens that she again **passed three** expected menstrual **cycles** without experiencing bleeding, **and** then **she saw** menstrual **blood, her time is sufficient. And** if she **passed three further cycles** without experiencing bleeding, and **she** subsequently **saw** menstrual **blood, she is like all** normal adult **women.** She is considered a woman who experiences regular menstruation at long intervals with breaks of ninety days. **And** therefore **she transmits impurity** retroactively **for** a twenty-four-hour **period or from examination to examination.**
+
+> **Hebrew/Aramaic:** וּכְשֶׁהִגִּיעַ זְמַנָּהּ לִרְאוֹת, פַּעַם רִאשׁוֹנָה — דַּיָּהּ שְׁעָתָהּ, שְׁנִיָּה — מְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה, עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ.
+> **Translation:** The *baraita* concludes: **And** with regard to a girl **whose time to see** the flow of menstrual blood **has arrived,** i.e., she has reached the age of twelve, when she sees menstrual blood for the **first time, her time is sufficient.** After the **second** time, **she transmits impurity** retroactively **for** a twenty-four-hour **period or from examination to examination.** If **three** menstrual **cycles** then **passed** without her experiencing bleeding, **and** afterward **she saw** menstrual **blood, her time is sufficient.** This is in accordance with the opinion of Rabbi Eliezer, who holds that any woman who passed three expected menstrual cycles without experiencing bleeding is presumed not to be menstruating.
+
+> **Hebrew/Aramaic:** אָמַר מָר: עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת — דַּיָּהּ שְׁעָתָהּ.
+> **Translation:** **The Master said** in the *baraita*: If the young girl who had started menstruating **passed three** expected menstrual **cycles** without experiencing bleeding and then saw menstrual blood, she returns to the status of a young girl and **her time is sufficient.**
+
+> **Hebrew/Aramaic:** הֲדַר קָחָזְיָא בְּעוֹנוֹת, מַאי? אָמַר רַב גִּידֵּל אָמַר רַב: פַּעַם רִאשׁוֹנָה וּשְׁנִיָּה — דַּיָּהּ שְׁעָתָהּ, שְׁלִישִׁית — מְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
+> **Translation:** The Gemara asks: **What** is the *halakha* if she **then sees** menstrual blood **at** regular intervals of thirty-day **cycles?** Is her time sufficient, or does she transmit impurity retroactively? **Rav Giddel says** that **Rav says:** With regard to the **first time and** the **second** time that she sees menstrual blood, **her time is sufficient.** After the **third** time, **she transmits impurity** retroactively **for** a twenty-four-hour **period or from examination to examination.**
+
+> **Hebrew/Aramaic:** וְעוֹד עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת, וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ. הֲדַר קָחָזְיָא בְּעוֹנוֹת, מַאי?
+> **Translation:** The *baraita* further teaches, with regard to a young girl who did not experience bleeding for three typical cycles and then saw blood, **and three further** expected menstrual **cycles passed** without her experiencing bleeding **and** then afterward **she saw** menstrual **blood,** that **her time is sufficient.** The Gemara asks: **What** is the *halakha* if she **then sees** menstrual blood **at** regular intervals of thirty-day **cycles?**
 
 The *baraita* continues: if after three sightings this young girl then goes ninety days without bleeding — *avru aleha shloshah onot* — she reverts to the status of *mesuleket damim*, and when she sees again, *dayah sha'atah* applies. Another ninety-day interval produces the same result. But if this pattern of ninety-day gaps followed by a sighting repeats three times, she is again treated *ke-chol ha-nashim* — she has established a pattern of long-interval bleeding, and the full retroactive concern is restored.
 
-This mirrors the structure we saw for the post-menopausal woman: a single ninety-day gap can reboot *mesuleket damim* status; three such reboots in sequence establish a new *veset* and eliminate that status.
+This mirrors the structure we saw for the post-menopausal woman: a single ninety-day gap can reboot *mesuleket damim* status; three such reboots in sequence establish a new *veset* and eliminate that status. The logic is worth making precise. Each ninety-day gap, taken alone, genuinely resets her — even though she had previously established regular sightings, a gap that long is sufficient to say she no longer bleeds predictably, and so the very next sighting after the gap is treated as though she is starting fresh, *dayah sha'atah* applying as it would for any *mesuleket damim*. What changes after three such cycles is that the ninety-day gaps themselves have become the pattern. At that point we can no longer say each gap is a reboot, because the reboot has recurred too regularly to be read as an interruption of bleeding; rather, she bleeds at very long intervals, and that is simply what her cycle looks like. Whether the intervals are exact — ninety days each time — or somewhat uneven, say ninety-one or ninety-three days, is immaterial, since the point is not mathematical precision but the recognition that a recurring structure has emerged.
+
+The *baraita* then turns to a further case — *ve-che-shehigia zman lir'os pa'am rishonah* — and the question of what happens when a sighting falls in the middle of this pattern, rather than completing it, is one the *Gemara* is about to take up directly.
 
 ## Reboot Question
 
-[DAF:10a]
-### Reboot Status
 
-> **Hebrew/Aramaic:** הֲדַר קָחָזְיָא בְּעוֹנוֹת, מַאי? אָמַר רַב גִּידֵּל אָמַר רַב: פַּעַם רִאשׁוֹנָה וּשְׁנִיָּה — דַּיָּהּ שְׁעָתָהּ, שְׁלִישִׁית — מְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
->
-> **Translation:** The Gemara asks: What is the *halakha* if she then sees menstrual blood at regular intervals of thirty-day cycles? Is her time sufficient, or does she transmit impurity retroactively? Rav Giddel says that Rav says: With regard to the first time and the second time that she sees menstrual blood, her time is sufficient. After the third time, she transmits impurity retroactively for a twenty-four-hour period or from examination to examination.
+
+### Reboot Status
 
 Having established that a ninety-day gap resets this girl to *mesuleket damim* status, the *Gemara* poses a more refined question. Before the ninety-day gap, this girl had established herself — through three sightings — as someone who bleeds. After the reboot, if she bleeds again and then bleeds once more thirty days later, what is her status? Is she treated like a girl who has never yet reached the age of expected menstruation — in which case the first and second sightings are still flukes and *dayah sha'atah* applies to each — or is she treated like a girl who has reached puberty, in which case the second sighting already triggers retroactive concern?
 
@@ -148,39 +153,35 @@ The question has real *halakhic* stakes. If the reboot is complete, she goes bac
 
 ### Complete Reboot
 
-The reboot is complete. After a ninety-day interval, this girl reverts fully to the status of one who has not yet begun her expected cycle. The first and second sightings post-reboot do not trigger retroactive concern; only the third does. The logic appears to be that the counter-evidence of the three earlier sightings is itself counteracted by the ninety-day gap — the gap undoes the earlier evidence, restoring the presumption that she is not yet regularly menstruating.
+Rav Giddel said in the name of Rav: *pa'am rishonah u-shniyah dayah sha'atah, shlishit metame'ah me-et le-et u-mi-pekidah li-pekidah*. The reboot is complete. After a ninety-day interval, this girl reverts fully to the status of one who has not yet begun her expected cycle. The first and second sightings post-reboot do not trigger retroactive concern; only the third does. The logic appears to be that the counter-evidence of the three earlier sightings is itself counteracted by the ninety-day gap — the gap undoes the earlier evidence, restoring the presumption that she is not yet regularly menstruating.
 
 Whether this reflects the *Gemara*'s own understanding of biology — that in a young girl, the irregularity of early pubescent cycles makes a ninety-day gap genuinely diagnostic — or whether it is a formal legal category operating independently of biological expectation, is itself an interesting question. The answer may be both: the formal rule of ninety days as establishing *mesuleket damim* status, applied rigorously, yields this result regardless of what we know about the normal variability of early cycles.
 
 ### 30-Day Question
 
-> **Hebrew/Aramaic:** וְעוֹד עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת, וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ. הֲדַר קָחָזְיָא בְּעוֹנוֹת, מַאי?
->
-> **Translation:** The *baraita* further teaches, with regard to a young girl who did not experience bleeding for three typical cycles and then saw blood, and three further expected menstrual cycles passed without her experiencing bleeding and then afterward she saw menstrual blood, that her time is sufficient. The Gemara asks: What is the *halakha* if she then sees menstrual blood at regular intervals of thirty-day cycles?
-
 The *Gemara* presses further. What if, after the ninety-day reboot, she does not see again after thirty or sixty days — but sees again after another ninety days? That case, the *Gemara* notes, has already been addressed: another ninety-day gap restores *mesuleket damim* again, and *dayah sha'atah* applies once more. The more interesting question is what happens when she sees at the more typical thirty-day interval.
 
 ### Puberty-Age Girl
 
-> **Hebrew/Aramaic:** וּכְשֶׁהִגִּיעַ זְמַנָּהּ לִרְאוֹת, פַּעַם רִאשׁוֹנָה — דַּיָּהּ שְׁעָתָהּ, שְׁנִיָּה — מְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה, עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ.
->
-> **Translation:** The *baraita* concludes: And with regard to a girl whose time to see the flow of menstrual blood has arrived, i.e., she has reached the age of twelve, when she sees menstrual blood for the first time, her time is sufficient. After the second time, she transmits impurity retroactively for a twenty-four-hour period or from examination to examination. If three menstrual cycles then passed without her experiencing bleeding, and afterward she saw menstrual blood, her time is sufficient. This is in accordance with the opinion of Rabbi Eliezer, who holds that any woman who passed three expected menstrual cycles without experiencing bleeding is presumed not to be menstruating.
-
 The *baraita* also introduces a related but distinct case: a girl who has reached the age at which menstruation would be expected — *higgia zman lir'os* — even if she has not yet actually begun. For this girl, the calculus is different from the outset. The first time she bleeds, *dayah sha'atah* still applies — she has not yet established anything. But the second time she bleeds, *metame'ah me-et le-et u-mi-pekidah li-pekidah* — the second sighting alone triggers retroactive concern. Because she is of the age where menstruation is anticipated, the first sighting suffices to establish that she is beginning her cycle, and the second sighting is therefore treated as part of a recognized pattern.
 
-The *baraita* adds that even for this girl, if she goes ninety days between sightings, *dayah sha'atah* applies upon the next sighting — she reverts to *mesuleket damim*.
+The *baraita* adds that even for this girl, if she goes ninety days between sightings, *dayah sha'atah* applies upon the next sighting — she reverts to *mesuleket damim*. This raises a question worth pausing on. We are not speaking here of the pre-pubescent girl in whom a ninety-day gap might seem unremarkable; we are speaking of a girl whose first sighting already carried enough evidentiary weight to establish a pattern. One might have thought the ninety-day gap, biologically speaking, is not so surprising — irregular cycling, especially early on, is in fact quite normal — and that the *gemara* should therefore be reluctant to treat it as a reset. The likely answer is that the *gemara* is operating with a formal legal rule: ninety days constitutes *mesuleket damim* as a matter of halachic determination, and that formal status counteracts whatever evidentiary weight the prior sighting carried, regardless of whether the biology would suggest continuity. It is also possible, of course, that the *gemara* simply did not have access to the same understanding of early-cycle irregularity that we do — and that for the *gemara*, a ninety-day gap genuinely indicated that the first sighting was a fluke rather than the beginning of an established pattern.
+
+> **Hebrew/Aramaic:** אָמַר רַב כָּהֲנָא, אָמַר רַב גִּידֵּל, אָמַר רַב: פַּעַם רִאשׁוֹנָה — דַּיָּהּ שְׁעָתָהּ, שְׁנִיָּה — מְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
+> **Translation:** The Gemara answers: **Rav Kahana says** that **Rav Giddel says** that **Rav says:** The **first time** that she sees menstrual blood, **her time is sufficient.** After the **second** time, **she transmits impurity** retroactively **for** a twenty-four-hour **period or from examination to examination.**
 
 ### Baraita Structure
+
+Before turning to the next stage of the discussion, the *Gemara* raises a brief but structurally important question about the ninety-day rule itself. The premise underlying all of these cases — that a woman who has not bled for ninety days is treated as *mesuleket damim* and reverts to *dayah sha'atah* — holds regardless of her age or prior history. It is worth noting that this is not a rule limited to pre-pubescent girls or to girls approaching puberty; any woman who has gone ninety days without a sighting is treated, for purposes of the next sighting, as though she has no established pattern. The *Gemara* attributes this position to Rabbi Eliezer, and will return to that attribution momentarily.
 
 A discussion follows between the positions attributed to Rav Giddel and a second voice identified as Acha, concerning whether the *baraita* requires two distinct scenarios — the pre-pubescent girl and the puberty-age girl — or whether both rulings can be derived from a single case. This is ultimately a question of whether the *baraita*'s structure is redundant or whether each scenario adds something irreducible.
 
 ## Pattern: Two or Three?
 
+
+
 ### Concern After Third
 
-> **Hebrew/Aramaic:** אָמַר רַב כָּהֲנָא, אָמַר רַב גִּידֵּל, אָמַר רַב: פַּעַם רִאשׁוֹנָה — דַּיָּהּ שְׁעָתָהּ, שְׁנִיָּה — מְטַמְּאָה מֵעֵת לְעֵת וּמִפְּקִידָה לִפְקִידָה.
->
-> **Translation:** The Gemara answers: Rav Kahana says that Rav Giddel says that Rav says: The first time that she sees menstrual blood, her time is sufficient. After the second time, she transmits impurity retroactively for a twenty-four-hour period or from examination to examination.
 
 The *Gemara* now returns to the case of the pre-pubescent girl following the two successive ninety-day reboots. After the first ninety-day reboot, *dayah sha'atah* applied. After the second ninety-day reboot, *dayah sha'atah* also applied. If she now bleeds again, and this time the interval was not ninety days but thirty — what follows?
 
@@ -189,8 +190,13 @@ Rav Kahana said in the name of Rav Giddel in the name of Rav: *pa'am rishonah da
 ### Attribution Question
 
 > **Hebrew/Aramaic:** מַנִּי? רַבִּי הִיא, דְּאָמַר: בִּתְרֵי זִימְנֵי הָוֵי חֲזָקָה.
->
-> **Translation:** The Gemara asks: Who is the *tanna* of the *baraita*? The Gemara answers: Since the *baraita* teaches that she attains the status of a regular adult woman upon the third sighting of menstrual blood, apparently it is Rabbi Yehuda HaNasi, who said that presumption is established by two occasions.
+> **Translation:** The Gemara asks: **Who is** the *tanna* of the *baraita*? The Gemara answers: Since the *baraita* teaches that she attains the status of a regular adult woman upon the third sighting of menstrual blood, apparently it is **Rabbi** Yehuda HaNasi, **who said** that **presumption is** established **by two occasions.**
+
+> **Hebrew/Aramaic:** אֵימָא סֵיפָא: עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ, אֲתָאן לְרַבִּי אֱלִיעֶזֶר!
+> **Translation:** The Gemara raises a difficulty: **Say the latter clause:** If she then **passed three** expected menstrual **cycles** without experiencing bleeding, **and** then **she saw** menstrual blood, she returns to the status of a young girl and **her time is sufficient.** In this ruling **we come to the opinion of Rabbi Eliezer,** who holds that any woman who passed three expected menstrual cycles without experiencing bleeding is presumed not to be menstruating and her time is sufficient. Is the *baraita* in accordance with the opinion of Rabbi Yehuda HaNasi or Rabbi Eliezer?
+
+> **Hebrew/Aramaic:** וְכִי תֵימָא רַבִּי הִיא, וּבְעוֹנוֹת סָבַר לַהּ כְּרַבִּי אֱלִיעֶזֶר, וּמִי סָבַר לַהּ? וְהָא לְאַחַר שֶׁנִּזְכַּר קָאָמַר! אֶלָּא רַבִּי אֱלִיעֶזֶר הִיא, וּבִוְסָתוֹת סָבַר לַהּ כְּרַבִּי.
+> **Translation:** **And if you would say** that the *tanna* of the *baraita* **is Rabbi** Yehuda HaNasi, **and in** the case of a woman who passes three menstrual **cycles** without experiencing bleeding, he **holds in accordance with** the opinion of **Rabbi Eliezer, but does he** really **hold** in accordance with **this** opinion? Doesn’t the *baraita* **state** that **after** Rabbi Yehuda HaNasi **remembered** that several authorities disagreed with the ruling of Rabbi Eliezer, he said: Rabbi Eliezer is worthy to rely upon in exigent circumstances, i.e., only in exigent circumstances. The Gemara concludes: **Rather,** the *tanna* of the *baraita* **is Rabbi Eliezer, and with regard to** menstrual **cycles** he **holds in accordance with** the opinion of **Rabbi Yehuda HaNasi,** that a presumptive cycle is established after two occasions of seeing menstrual blood.
 
 The *Gemara* then asks whose opinion underlies this *baraita*. The *baraita* has combined two distinct principles: that two sightings establish a pattern (so that by the third, the girl is treated as regular), and that a ninety-day gap serves as a reboot even for girls who have reached puberty. The first principle reflects the position of Rebbe, who holds that *be-trei zimni havya chazakah* — two occurrences suffice to establish a presumption. The second principle reflects Rabbi Eliezer, who holds that any woman — regardless of age — who goes ninety days without bleeding is *mesuleket damim*.
 
@@ -198,23 +204,16 @@ But can these two positions coexist? The *Gemara* raised the difficulty earlier 
 
 ### Combined Opinions
 
-> **Hebrew/Aramaic:** אֵימָא סֵיפָא: עָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת וְרָאֲתָה — דַּיָּהּ שְׁעָתָהּ, אֲתָאן לְרַבִּי אֱלִיעֶזֶר!
->
-> **Translation:** The Gemara raises a difficulty: Say the latter clause: If she then passed three expected menstrual cycles without experiencing bleeding, and then she saw menstrual blood, she returns to the status of a young girl and her time is sufficient. In this ruling we come to the opinion of Rabbi Eliezer, who holds that any woman who passed three expected menstrual cycles without experiencing bleeding is presumed not to be menstruating. Is the *baraita* in accordance with the opinion of Rabbi Yehuda HaNasi or Rabbi Eliezer?
-
-> **Hebrew/Aramaic:** וְכִי תֵּימָא רַבִּי הִיא, וּבְעוֹנוֹת סָבַר לַהּ כְּרַבִּי אֱלִיעֶזֶר, וּמִי סָבַר לַהּ? וְהָא לְאַחַר שֶׁנִּזְכַּר קָאָמַר! אֶלָּא רַבִּי אֱלִיעֶזֶר הִיא, וּבִוְסָתוֹת סָבַר לַהּ כְּרַבִּי.
->
-> **Translation:** And if you would say that the *tanna* of the *baraita* is Rabbi Yehuda HaNasi, and in the case of a woman who passes three menstrual cycles without experiencing bleeding, he holds in accordance with the opinion of Rabbi Eliezer, but does he really hold in accordance with this opinion? Doesn't the *baraita* state that after Rabbi Yehuda HaNasi remembered that several authorities disagreed with the ruling of Rabbi Eliezer, he said: Rabbi Eliezer is worthy to rely upon in exigent circumstances, i.e., only in exigent circumstances. The Gemara concludes: Rather, the *tanna* of the *baraita* is Rabbi Eliezer, and with regard to menstrual cycles he holds in accordance with the opinion of Rabbi Yehuda HaNasi, that a presumptive cycle is established after two occasions of seeing menstrual blood.
-
 The *Gemara* resolves this by reversing the attribution: the *baraita* is authored by Rabbi Eliezer, who is the source of the ninety-day reboot rule, and who additionally follows Rebbe's position regarding the establishment of patterns from two sightings. The formulation is: *ela Rabbi Eliezer hi, u-ve-vestot savar lah ke-Rabbi* — it is Rabbi Eliezer who authored the *baraita*, and on the question of how many sightings establish a cycle, he holds like Rebbe. The two opinions thus do not conflict within this *baraita*; they represent a composite position: Rabbi Eliezer's rule on ninety-day reboots, combined with Rebbe's rule that twice constitutes a *chazakah*.
 
 ## Stains First-Second
 
+
+
 ### Stain Tahor
 
 > **Hebrew/Aramaic:** כֶּתֶם שֶׁבֵּין רִאשׁוֹנָה וּשְׁנִיָּה — טָהוֹר, שֶׁבֵּין שְׁנִיָּה וּשְׁלִישִׁית — חִזְקִיָּה אָמַר: טָמֵא, רַבִּי יוֹחָנָן אָמַר: טָהוֹר. חִזְקִיָּה אָמַר: טָמֵא, כֵּיוָן דְּאִילּוּ חָזְיָא מְטַמְּאָה — כִּתְמַהּ נָמֵי טָמֵא, וְרַבִּי יוֹחָנָן אָמַר: טָהוֹר, כֵּיוָן דְּלָא אִתַּחְזַקָה בְּדָם — כִּתְמַהּ נָמֵי לָא מְטַמֵּינַן לַהּ.
->
-> **Translation:** With regard to a young girl who was just starting to menstruate, the Gemara states: If she finds a blood stain between the first and second time that she sees menstrual blood, she is pure. If it is between the second and the third time, Ḥizkiyya says: She is impure; Rabbi Yoḥanan says: She is pure. The Gemara explains the reasoning behind their respective opinions. Ḥizkiyya says: She is impure, since if she had seen menstrual blood it would render her impure. Consequently, her blood stain is also impure. And Rabbi Yoḥanan says: She is pure, since she has not yet attained the presumptive status of one who sees menstrual blood. Therefore, we also do not render her impure on account of her blood stain.
+> **Translation:** § With regard to a young girl who was just starting to menstruate, the Gemara states: If she finds a blood **stain between** the **first** and **second** time that she sees menstrual blood, she is **pure.** If it is **between** the **second and** the **third** time, **Ḥizkiyya says:** She is **impure; Rabbi Yoḥanan says:** She is **pure.** The Gemara explains the reasoning behind their respective opinions. **Ḥizkiyya says:** She is **impure, since if she had seen** menstrual blood it would **render her impure.** Consequently, her blood **stain is also impure. And Rabbi Yoḥanan says:** She is **pure, since she has not** yet attained the **presumptive status of** one who sees menstrual **blood.** Therefore, **we also do not render her impure** on account of **her** blood **stain.**
 
 Having discussed the status of the pre-pubescent girl in terms of her own sightings, the *Gemara* now turns to the question of *ketamim* — stains discovered on her garments. A *ketem* found on clothing ordinarily raises the concern that it may be menstrual blood, potentially rendering the woman *teme'ah* retroactively. The question here is how to treat such a stain found on this young girl's garments between her first and second sightings.
 
@@ -234,26 +233,22 @@ This is a striking position. Chizkiyah's reasoning has a clean logic: if the con
 ### Virgin Comparison
 
 > **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַבִּי אִלְעַאי: וְכִי מָה בֵּין זוֹ לִבְתוּלָה שֶׁדָּמֶיהָ טְהוֹרִין? אֲמַר לֵיהּ רַבִּי זֵירָא: זוֹ שִׂירְפָהּ מָצוּי וְזוֹ אֵין שִׂירְפָהּ מָצוּי.
->
-> **Translation:** Rabbi Ilai objects to this ruling of Ḥizkiyya: And what is the difference between this case of a girl who has not yet started menstruating and a recently married menstrual virgin whose stain is deemed pure for as long as her blood is pure, since the stain is presumed to be from her torn hymen? Rabbi Zeira said to him: With regard to this menstrual virgin, her secretion [*sirfah*] is common, i.e., blood from her torn hymen is normally found during this period. Therefore, any blood stain that is found is also assumed to be from her hymen. But in the case of this young girl, her secretion is not common. Therefore, if a blood stain is found, it is assumed to be menstrual blood.
+> **Translation:** **Rabbi Ilai objects to this** ruling of Ḥizkiyya: **And what** is the difference **between this** case of a girl who has not yet started menstruating **and** a recently married menstrual **virgin whose** stain is deemed pure for as long **as her blood is pure,** since the stain is presumed to be from her torn hymen? **Rabbi Zeira said** to him: With regard to **this** menstrual virgin, **her secretion [*sirfah*] is common,** i.e., blood from her torn hymen is normally found during this period. Therefore, any blood stain that is found is also assumed to be from her hymen. **But** in the case of **this** young girl, **her secretion is not common.** Therefore, if a blood stain is found, it is assumed to be menstrual blood.
 
 Rabbi Ila challenged Chizkiyah's position with a comparison. A *betulah* — a virgin following her wedding night — whose garments show stains is *tahor*, despite the fact that she is clearly bleeding. The reason: we attribute her bleeding to the *dam betulim*, hymenal blood, which does not carry *tumah*. If a woman in that situation is *tahor* despite active bleeding, should this pre-pubescent girl — who has bled only twice — be treated more strictly?
 
 Rav Zeira answers the challenge with a precise distinction. By the *betulah*, there is a concrete, recognized alternative source of blood — the *shirfa*, the hymenal blood — that permits us to attribute the stain to a *tahor* source. By this pre-pubescent girl, there is no such alternative source. She has bled twice from a source that, if the bleeding were actual menstrual flow, would be *tamei*. There is nothing else to attribute it to, and therefore — at least according to Chizkiyah — the stain must be treated as *tamei*.
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא, אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, וְרָאֲתָה פַּעַם רִאשׁוֹנָה וּשְׁנִיָּה — רוּקָּהּ וּמִדְרָסָהּ בַּשּׁוּק טָהוֹר, כִּתְמָהּ נָמֵי טָהוֹר. וְלָא יָדַעְנָא אִם דִּידֵיהּ, אִם דְּרַבֵּיהּ.
->
-> **Translation:** Ulla says that Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yehotzadak: With regard to a young girl whose time to see the flow of menstrual blood has not arrived and she saw menstrual blood one time and then a second time, but not the third time that would render her a woman who regularly sees menstrual blood, her saliva and her garment that she treads upon that are found in the marketplace are pure if we do not know whether she has menstruated. Likewise, her blood stain is also pure. Ulla added: And I do not know if this ruling with regard to the stain is merely Rabbi Yoḥanan's own conclusion or if that is also part of the opinion of his teacher.
-
 The practical ruling, as will become apparent, follows Rabbi Yochanan: the *ketem* between the second and third sightings is *tahor*. When Ravin came from *Eretz Yisrael* along with others who had traveled from there, they reported that both Rabbi Shimon ben Yehotzadak and Rabbi Yochanan himself shared this position — making it two against one against Chizkiyah, and the ruling is *tahor*.
 
 ## Saliva/Sitting
 
+
+
 ### Status Question
 
-> **Hebrew/Aramaic:** לְמַאי נָפְקָא מִינָּה? לְמִיהְוֵי דְּבָרָיו שֶׁל אֶחָד בִּמְקוֹם שְׁנַיִם.
->
-> **Translation:** The Gemara asks: What difference is there? That is, what does it matter who said it? The Gemara explains: It makes a difference for it to be considered the statement of one Sage in the place of two dissenting opinions. As stated above, Ḥizkiyya disagrees with this ruling and maintains that a young girl's blood stain is impure after she sees menstrual blood twice. If this statement is both Rabbi Shimon ben Yehotzadak's opinion and that of Rabbi Yoḥanan, then Ḥizkiyya's ruling is opposed by two Sages, which means that his is a minority opinion. If it is Rabbi Yoḥanan's opinion alone, then the two sides are equal, with one Sage maintaining each opinion.
+> **Hebrew/Aramaic:** אָמַר עוּלָּא, אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, וְרָאֲתָה פַּעַם רִאשׁוֹנָה וּשְׁנִיָּה — רוּקָּהּ וּמִדְרָסָהּ בַּשּׁוּק טָהוֹר, כִּתְמָהּ נָמֵי טָהוֹר. וְלָא יָדַעְנָא אִם דִּידֵיהּ, אִם דְּרַבֵּיהּ.
+> **Translation:** § **Ulla says** that **Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yehotzadak:** With regard to **a young girl whose time to see** the flow of menstrual blood **has not arrived and she saw** menstrual blood **one time and** then **a second** time, but not the third time that would render her a woman who regularly sees menstrual blood, **her saliva and her** garment that she **treads** upon that are found **in the marketplace** are **pure** if we do not know whether she has menstruated. Likewise, **her** blood **stain** is **also pure.** Ulla added: **And I do not know if** this ruling with regard to the stain is merely Rabbi Yoḥanan’s own conclusion **or** if that is also part of the opinion **of his teacher.**
 
 The *Gemara* now takes up a related question, cited by Ulla in the name of Rabbi Yochanan quoting Rabbi Shimon ben Yehotzadak. The case concerns a *tinoket shelo higia zmanah lir'os* who has seen blood twice — she stands between the second and third sightings, with a pattern established but not yet activated. What is the status of her saliva and the places she has sat, if they are found in the public domain?
 
@@ -261,33 +256,38 @@ A woman who is a *niddah* renders her spittle and the things she sits upon an *a
 
 ### Lenient in Public
 
-> **Hebrew/Aramaic:** כִּי אֲתָא רָבִין וְכֹל נָחוֹתֵי יַמָּא, אַמְרוּהָ כְּרַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק.
->
-> **Translation:** When Ravin came from Eretz Yisrael to Babylonia along with all the seafarers [*naḥotei yamma*], they stated this ruling as the statement of Rabbi Shimon ben Yehotzadak. If so, Rabbi Yoḥanan was relating his own opinion, which echoed that of his teacher, Rabbi Shimon ben Yehotzadak, and therefore the *halakha* is in accordance with this majority opinion.
-
 The ruling is lenient: *ba-shuk, tahor*. In the public domain, objects of doubtful *tumah* are treated as *tahor* — this is the principle of *safek tumah bi-reshut ha-rabim, safeko tahor*. Beyond the general principle of doubt in the public domain, *Tosafot* notes that the marketplace setting introduces additional uncertainty about when the object was placed or when the contact occurred, making the doubt even more diffuse. The combination of uncertainty about whether she was *teme'ah* at all, and uncertainty in the public domain, yields a ruling of *tahor*.
 
 ### Stain Parallel
 
+> **Hebrew/Aramaic:** לְמַאי נָפְקָא מִינָּה? לְמִיהְוֵי דְּבָרָיו שֶׁל אֶחָד בִּמְקוֹם שְׁנַיִם.
+> **Translation:** The Gemara asks: **What difference is** there? That is, what does it matter who said it? The Gemara explains: It makes a difference **for it to be** considered the **statement of one** Sage **in the place of two** dissenting opinions. As stated above, Ḥizkiyya disagrees with this ruling and maintains that a young girl’s blood stain is impure after she sees menstrual blood twice. If this statement is both Rabbi Shimon ben Yehotzadak’s opinion and that of Rabbi Yoḥanan, then Ḥizkiyya’s ruling is opposed by two Sages, which means that his is a minority opinion. If it is Rabbi Yoḥanan’s opinion alone, then the two sides are equal, with one Sage maintaining each opinion.
+
+> **Hebrew/Aramaic:** כִּי אֲתָא רָבִין וְכֹל נָחוֹתֵי יַמָּא, אַמְרוּהָ כְּרַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק.
+> **Translation:** **When Ravin came** from Eretz Yisrael to Babylonia along with **all the seafarers [*naḥotei yamma*], they stated** this ruling **as** the statement of **Rabbi Shimon ben Yehotzadak.** If so, Rabbi Yoḥanan was relating his own opinion, which echoed that of his teacher, Rabbi Shimon ben Yehotzadak, and therefore the *halakha* is in accordance with this majority opinion.
+
 The *Gemara* draws a parallel between this ruling and the *ketem* case: just as we ruled the stain *tahor* between the second and third sightings, so too the objects she has sat upon and her saliva are treated as *tahor* in the public domain. The *Gemara* acknowledges that the two questions are not identical — by the *ketem*, the uncertainty is whether the stain came from her at all; by the *midras* and spittle, the uncertainty is whether she was *teme'ah* at the relevant moment — but the analogy holds in terms of outcome. Between the second and third sightings, leniency prevails.
+
+The *Gemara* then raises an incidental but practically significant question about the attribution of the ruling that a *ketem* is *tahor* between two and three sightings: *velo yadeinan i dideih i de-rabbeih* — we do not know whether this is Rabbi Yochanan's own position or whether he is transmitting it in the name of his teacher, Rabbi Shimon ben Yehotzadak. The reason this matters is captured in the phrase *lemai nafka mina — lemehavi devar shel echad bi-mekom shnayim*: what practical difference does it make? It determines whether we have two authorities against one. Previously, Rabbi Yochanan and Chizkiyah were in dispute over this ruling. If Rabbi Yochanan is here citing Rabbi Shimon ben Yehotzadak as a separate source, then it is Rabbi Yochanan and his *rebbe* together against Chizkiyah — two against one — and the lenient ruling carries greater weight. If, however, the statement is Rabbi Yochanan's own, then there is no additional voice and the count remains one against one. The *Gemara* resolves this through the report of *Ki ata Ravin ve-chol nechutei yama* — when Ravin came from Eretz Yisrael together with all those who traveled down to the sea, they transmitted that the ruling belonged distinctly to Rabbi Shimon ben Yehotzadak and that Rabbi Yochanan held his own separate position, making it indeed two against one. On that basis, we rule the *ketem tahor* between the second and third sightings.
 
 ## Continuous vs. Broken
 
-### One Sighting Rule
 
-> **Hebrew/Aramaic:** אָמַר רַב חִלְקִיָּה בַּר טוֹבֵי: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, אֲפִילּוּ שׁוֹפַעַת כׇּל שִׁבְעָה — אֵינָהּ אֶלָּא רְאָיָה אַחַת. אֲפִילּוּ שׁוֹפַעַת, וְלָא מִבַּעְיָא פּוֹסֶקֶת? אַדְּרַבָּה, פּוֹסֶקֶת הָוְיָא לַהּ כִּשְׁתֵּי רְאִיּוֹת!
->
-> **Translation:** Rav Ḥilkiya bar Tovi says: With regard to a young girl whose time to see menstrual blood has not arrived, even if she continuously discharges menstrual blood for all seven days of a typical menstrual period, it is considered as only one sighting of blood and she remains in the category of one who lacks blood until she sees menstrual blood twice more. The Gemara asks: Why did Rav Ḥilkiya bar Tovi stress: Even if she continuously discharges menstrual blood, which indicates that it is not necessary to teach that this is the *halakha* if she stops seeing a discharge and then starts again? On the contrary, if she stops and restarts it is as though she has had two sightings of menstrual blood.
+
+### One Sighting Rule
 
 Rav Hilkiya bar Tuvi introduces a discussion about how to count sightings when bleeding is prolonged or interrupted. The question is fundamental to the framework established above: since three sightings establish regularity, we need to know what counts as one sighting versus multiple sightings.
 
 His ruling: a *tinoket shelo higia zmanah lir'os* who bleeds continuously for seven straight days — *shofas kol zayin* — has nonetheless experienced only one sighting. All seven days count as a single *reiah*, and she is no closer to the three-sighting threshold than if she had bled for one day.
 
-### Multiple Sightings
+> **Hebrew/Aramaic:** אֲמַר רַב חִלְקִיָּה בַּר טוֹבֵי: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, אֲפִילּוּ שׁוֹפַעַת כׇּל שִׁבְעָה — אֵינָהּ אֶלָּא רְאָיָה אַחַת. אֲפִילּוּ שׁוֹפַעַת, וְלָא מִבַּעְיָא פּוֹסֶקֶת? אַדְּרַבָּה, פּוֹסֶקֶת הָוְיָא לַהּ כִּשְׁתֵּי רְאִיּוֹת!
+> **Translation:** § **Rav Ḥilkiya bar Tovi says:** With regard to **a young girl whose time to see** menstrual blood **has not arrived, even** if she **continuously discharges** menstrual blood **for all seven** days of a typical menstrual period, it is considered as **only one sighting** of blood and she remains in the category of one who lacks blood until she sees menstrual blood twice more. The Gemara asks: Why did Rav Ḥilkiya bar Tovi stress: **Even** if she **continuously discharges** menstrual blood, which indicates that **it is not necessary** to teach that this is the *halakha* if she **stops** seeing a discharge and then starts again? **On the contrary,** if she **stops** and restarts **it is as** though she has had **two sightings** of menstrual blood.
 
 > **Hebrew/Aramaic:** אֶלָּא, תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, וְשׁוֹפַעַת כׇּל שִׁבְעָה — אֵינָהּ אֶלָּא רְאָיָה אַחַת.
->
-> **Translation:** The Gemara answers: Rather, this is what Rav Ḥilkiya bar Tovi meant: With regard to a young girl whose time to see menstrual blood has not arrived, and she then continuously discharges menstrual blood for all seven days of a typical menstrual period, it is considered as only one sighting of blood. In other words, he did not state the word: Even.
+> **Translation:** The Gemara answers: **Rather,** this is what Rav Ḥilkiya bar Tovi meant: With regard to **a young girl whose time to see** menstrual blood **has not arrived, and** she then **continuously discharges** menstrual blood **for all seven** days of a typical menstrual period, it is considered as **only one sighting** of blood. In other words, he did not state the word: Even.
+
+### Multiple Sightings
+
 
 The *Gemara* initially presents this as the obvious case, asking: surely it goes without saying that if she bleeds continuously it is one sighting; the *chiddush* must lie elsewhere. In fact, the *Gemara* argues that the *chiddush* would seem to be the opposite: if anything, interrupted bleeding — on one day, then stopping, then bleeding again — should count as multiple sightings. After all, distinct episodes of bleeding might more naturally be counted as distinct sightings. The *Gemara* accordingly reformulates the statement: it is continuous, uninterrupted bleeding for seven days that counts as one sighting, while interrupted bleeding — on and off — counts as multiple separate sightings.
 
@@ -295,29 +295,29 @@ This is, as the *Gemara* itself implicitly recognizes, formally somewhat surpris
 
 ### Dripping Status
 
-> **Hebrew/Aramaic:** אָמַר רַב שִׁימִי בַּר חִיָּיא: מַדְלֶפֶת אֵינָהּ כְּרוֹאָה, וְהָא קָחָזְיָא! אֵימָא: אֵינָהּ כְּשׁוֹפַעַת, אֶלָּא כְּפוֹסֶקֶת.
->
-> **Translation:** Rav Shimi bar Ḥiyya says: The case of woman who constantly drips menstrual blood is not considered like a full sighting of blood. The Gemara expresses surprise at this claim: But she saw blood. The Gemara answers: Say that what Rav Shimi bar Ḥiyya meant was that she is not considered like one who continuously discharges blood, but rather like one who stops and starts again, even if she drips constantly.
-
 Rav Shimi bar Chiya introduces an intermediate case: *midalefes* — a gradual dripping, continuous but not flowing. This is distinct from a full *shofas* (flowing) and from a *poset* (stopped and started). What is its status?
 
 His initial statement — that *midalefes eino ke-ro'eh*, dripping is not like seeing — prompts an immediate objection: but she is clearly seeing! The *Gemara* clarifies that this cannot mean she is *tahor*; the statement must mean that *midalefes* is not like *shofas* (flowing), but is instead like *poset* (intermittent).
 
-### Dripping Definition
+> **Hebrew/Aramaic:** אָמַר רַב שִׁימִי בַּר חִיָּיא: מַדְלֶפֶת אֵינָהּ כְּרוֹאָה, וְהָא קָחָזְיָא! אֵימָא: אֵינָהּ כְּשׁוֹפַעַת, אֶלָּא כְּפוֹסֶקֶת.
+> **Translation:** **Rav Shimi bar Ḥiyya says:** The case of woman who constantly **drips** menstrual blood is **not** considered **like** a full **sighting** of blood. The Gemara expresses surprise at this claim: **But** she **saw** blood. The Gemara answers: **Say** that what Rav Shimi bar Ḥiyya meant was that she is **not** considered **like** one who **continuously discharges** blood, but **rather like** one who **stops** and starts again, even if she drips constantly.
 
 > **Hebrew/Aramaic:** מִכְּלָל דְּשׁוֹפַעַת (נָמֵי) כִּי נַהֲרָא? אֶלָּא אֵימָא: אֵינָהּ אֶלָּא כְּשׁוֹפַעַת.
->
-> **Translation:** The Gemara raises a difficulty: From the fact that Rav Shimi bar Ḥiyya claims that a different *halakha* applies to a woman who constantly drips menstrual blood, it can be inferred that the blood of one who continuously discharges menstrual blood streams like a river for seven days. But this is physically impossible. The Gemara explains: Rather, say that Rav Shimi bar Ḥiyya meant that the status of a woman who constantly drips menstrual blood is nothing other than the status of a woman who continuously discharges blood. In both cases, it is all considered as one sighting.
+> **Translation:** The Gemara raises a difficulty: **From the fact** that Rav Shimi bar Ḥiyya claims that a different *halakha* applies to a woman who constantly drips menstrual blood, it can be inferred **that** the blood of one who **continuously discharges** menstrual blood streams **like a river** for seven days. But this is physically impossible. The Gemara explains: **Rather, say** that Rav Shimi bar Ḥiyya meant that the status of a woman who constantly drips menstrual blood is **nothing other than** the status **of** a woman who **continuously discharges** blood. In both cases, it is all considered as one sighting.
+
+### Dripping Definition
+
 
 The *Gemara* then pushes back again. If *midalefes* is treated like *poset*, is it saying that the only case of one sighting is when she flows like a river? That seems unrealistic. The *Gemara* resolves by clarifying what *shofas* means in this context: it does not require a literal river of blood. Rather, a continuous gradual flow — dripping steadily over multiple days without interruption — qualifies as *shofas* and therefore as one sighting. Breaks in the flow, however brief, create the *poset* dynamic and are counted as multiple sightings.
 
 ## Presumptions By Age
 
+
+
 ### Pre-Pubescent Pure
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: חֲזָקָה בְּנוֹת יִשְׂרָאֵל עַד שֶׁלֹּא הִגִּיעוּ לְפִרְקָן — הֲרֵי הֵן בְּחֶזְקַת טׇהֳרָה, וְאֵין הַנָּשִׁים בּוֹדְקוֹת אוֹתָן. מִשֶּׁהִגִּיעוּ לְפִרְקָן — הֲרֵי הֵן בְּחֶזְקַת טוּמְאָה, וְנָשִׁים בּוֹדְקוֹת אוֹתָן.
->
-> **Translation:** The Sages taught in a *baraita*: The presumption with regard to the daughters of Israel is that until they have reached their physical maturity they have the presumptive status of ritual purity, and adult women do not need to examine them to check if they are ritually pure before they handle consecrated items or *teruma*. Once they have reached their physical maturity, they have the presumptive status of ritual impurity, due to the possibility of an unnoticed menstrual discharge, and if they are still minors, adult women must examine them to check if they are ritually pure.
+> **Translation:** § **The Sages taught** in a *baraita*: The **presumption** with regard to the **daughters of Israel** is that **until they have reached their** physical **maturity they have** the **presumptive status of ritual purity, and** adult **women do not** need to **examine them** to check if they are ritually pure before they handle consecrated items or *teruma*. **Once they have reached their** physical **maturity, they have** the **presumptive status of ritual impurity,** due to the possibility of an unnoticed menstrual discharge, **and** if they are still minors, adult **women** must **examine them** to check if they are ritually pure.
 
 A *tanu rabbanan* closes the discussion with a statement about the general presumptions governing girls before and after puberty. Before girls reach *pirkan* — maturity — they are in a *chezkat tahara*, a presumption of purity. No special measures need to be taken to monitor them, and no women need assist in checking them. The assumption is simply that they are not menstruating.
 
@@ -328,7 +328,6 @@ Once a girl reaches *pirkan*, the presumption reverses: *harei hen be-chezkat tu
 ### Checking Method
 
 > **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: אֵין בּוֹדְקִין אוֹתָן בַּיָּד, מִפְּנֵי שֶׁמְּעַוְּותוֹת אוֹתָן, אֶלָּא סָכוֹת אוֹתָן בְּשֶׁמֶן מִבִּפְנִים, וּמְקַנְּחוֹת אוֹתָן מִבַּחוּץ, וְהֵן נִבְדָּקוֹת מֵאֵילֵיהֶן.
->
-> **Translation:** Rabbi Yehuda says: They should not examine them by hand, because that is likely to scratch them and ruin their status, as it will be assumed that they are ritually impure with menstrual blood. Rather, they should smear them with oil inside and wipe them off on the outside. And through this method they are automatically examined, i.e., if at that age they are ready to menstruate, the oil will cause the blood to flow.
+> **Translation:** **Rabbi Yehuda says: They should not examine them by hand, because that** is likely to scratch them and **ruin their** status, as it will be assumed that they are ritually impure with menstrual blood. **Rather,** they **should smear them with oil inside and wipe them** off **on the outside. And** through this method **they are automatically examined,** i.e., if at that age they are ready to menstruate, the oil will cause the blood to flow.
 
 Rabbi Yehudah disagrees with the method of manual checking. He rules that one does not check a girl manually — *ein bodkin osah be-yad* — because such examination can be damaging: it risks rupturing the hymen, or causing internal abrasion that would itself produce bleeding unrelated to menstruation. Instead, the method he prescribes is to anoint her with oil — both externally and internally — and then wipe externally. This gentler approach achieves a form of examination without the risks of direct manual investigation, and if she is ready to bleed, the evidence will become apparent through this process.

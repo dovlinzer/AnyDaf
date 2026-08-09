@@ -1,0 +1,373 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "R. Yehuda vs. R. Yosi",
+    "candidates": [
+      "Muktzah & Wood Theme",
+      "Karpef Definition",
+      "R. Yehuda vs. R. Yosi",
+      "Tosafot on Imur",
+      "Rav Yehuda's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers the full content of bringing wood from field (if gathered) and from a karpef (even if scattered), plus the definition dispute between Rabbi Yehuda and Rabbi Yosi \u2014 all of which is introduced and framed under the 'Muktzah & Wood Theme' heading (candidate 0), which explicitly references mevi'im etzim min hasadeh min hamikhunas and the karpef distinction, making it the natural home for this single mishna unit rather than splitting it across multiple headings.",
+      "chosen_heading": "Muktzah & Wood Theme",
+      "current_heading": "R. Yehuda vs. R. Yosi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rav Yehuda's Position",
+    "candidates": [
+      "Tosafot on Imur",
+      "Rav Yehuda's Position",
+      "Beit Shammai/Hillel",
+      "R. Shimon Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly Rav Yehuda/Shmuel's ruling and the immediate gemara challenge/response about the mishnah being a minority opinion, which is precisely what the 'Rav Yehuda's Position' prose section describes.",
+      "chosen_heading": "Rav Yehuda's Position",
+      "current_heading": "Rav Yehuda's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "R. Shimon Interpretation",
+    "candidates": [
+      "Beit Shammai/Hillel",
+      "R. Shimon Interpretation",
+      "Rava: Scattered Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita of Rabbi Shimon ben Elazar describing the Beit Shammai/Beit Hillel dispute about scattered vs. gathered wood in fields vs. karfaf is precisely what candidate 0 ('Beit Shammai/Hillel') discusses, while candidate 1's prose addresses the interpretive conclusion drawn *after* citing this baraita.",
+      "chosen_heading": "Beit Shammai/Hillel",
+      "current_heading": "R. Shimon Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rava: Scattered Items",
+    "candidates": [
+      "R. Shimon Interpretation",
+      "Rava: Scattered Items",
+      "Rava's Tarp Solution",
+      "Karpef Criteria Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's ruling about reed and vine leaves being considered scattered due to wind, which is precisely what the 'Rava: Scattered Items' section's prose describes.",
+      "chosen_heading": "Rava: Scattered Items",
+      "current_heading": "Rava: Scattered Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Karpef Criteria Debate",
+    "candidates": [
+      "Rava's Tarp Solution",
+      "Karpef Criteria Debate",
+      "Resolution: One vs. Two",
+      "Practical Halacha",
+      "Chopping Prohibition",
+      "Muktzah Beam Status",
+      "Tools Permitted/Forbidden",
+      "Avoda Dechol Concept",
+      "Gemara Reframe",
+      "Savar Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Karpef Criteria Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the two readings of the Rabbi Yehuda/Rabbi Yosi dispute about karpef criteria, which is precisely what candidate 1 ('Karpef Criteria Debate') describes in its prose.",
+      "second_heading": "Practical Halacha",
+      "second_confidence": "high",
+      "second_reason": "Item 3 closes with 'halacha ke-Rabbi Yosi lehakel' \u2014 the practical ruling \u2014 which is exactly what candidate 3 ('Practical Halacha') discusses as its opening point about Rav Sala/Rabbi Yirmeyah's ruling.",
+      "current_heading": "Karpef Criteria Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Savar Definition",
+    "candidates": [
+      "Resolution: One vs. Two",
+      "Practical Halacha",
+      "Chopping Prohibition",
+      "Muktzah Beam Status",
+      "Tools Permitted/Forbidden",
+      "Avoda Dechol Concept",
+      "Gemara Reframe",
+      "Savar Definition",
+      "Axe Gender Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the Mishna prohibiting chopping wood from beams and from a beam broken on Yom Tov, followed by the Gemara's resolution via Shmuel \u2014 exactly the content described in candidate 2 ('Chopping Prohibition'), which introduces this very mishnah and its muktzah problem, rather than candidate 7 ('Savar Definition') which describes the resolution that comes after the initial reading problem.",
+      "chosen_heading": "Chopping Prohibition",
+      "current_heading": "Savar Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Axe Gender Parts",
+    "candidates": [
+      "Savar Definition",
+      "Axe Gender Parts",
+      "Cleaver Use Debate",
+      "Storage House Scenario",
+      "Standard Permission",
+      "R. Meir Leniency",
+      "Rashi vs. Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the male/female sides of the ax and cleaver and the concern that one side's status might contaminate the other \u2014 exactly what the 'Axe Gender Parts' prose describes, including the pshita objection and the migu de-hai gisa answer, which matches the current placement perfectly.",
+      "chosen_heading": "Axe Gender Parts",
+      "current_heading": "Axe Gender Parts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rashi vs. Tosafot",
+    "candidates": [
+      "Cleaver Use Debate",
+      "Storage House Scenario",
+      "Standard Permission",
+      "R. Meir Leniency",
+      "Rashi vs. Tosafot",
+      "Soter Problem",
+      "Avira Delivnei",
+      "Rav Nachman Bricks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text introduces the 'house filled with produce' scenario (bayis she-malei peiros/nifchas) which is precisely what the 'Storage House Scenario' prose describes and contextualizes.",
+      "chosen_heading": "Storage House Scenario",
+      "current_heading": "Rashi vs. Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rav Nachman Bricks",
+    "candidates": [
+      "Soter Problem",
+      "Avira Delivnei",
+      "Rav Nachman Bricks",
+      "Yom Tov Limited",
+      "Okhel Nefesh Waiver",
+      "Shmuel Seals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage spans both the Soter Problem question and the Avira Delivnei answer plus the Rav Nachman bricks challenge, but the gemara text begins with the soter question and flows through to the muktzah challenge \u2014 however, since all three elements (soter question, avira delivnei answer, and Rav Nachman bricks challenge) appear in this single quoted passage, it most naturally belongs under 'Soter Problem' as the initiating question, though candidate 2 'Rav Nachman Bricks' is its current placement and covers the muktzah content; given the passage covers the full arc from soter question through the bricks muktzah challenge, the current placement at 'Rav Nachman Bricks' is actually a reasonable match since that section's prose explicitly discusses Rav Nachman's teaching about stacked bricks becoming muktzah, which is the culminating challenge in the passage.",
+      "chosen_heading": "Soter Problem",
+      "current_heading": "Rav Nachman Bricks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Shmuel Seals",
+    "candidates": [
+      "Yom Tov Limited",
+      "Okhel Nefesh Waiver",
+      "Shmuel Seals",
+      "Matir/Mafki'a/Chotech",
+      "Soter vs. Vessels",
+      "Vessel Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Zeira's statement distinguishing Yom Tov from Shabbat and the supporting baraita from Rabbi Meir, which is precisely what the 'Yom Tov Limited' section's prose describes and analyzes.",
+      "chosen_heading": "Yom Tov Limited",
+      "current_heading": "Shmuel Seals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Vessel Exception",
+    "candidates": [
+      "Matir/Mafki'a/Chotech",
+      "Soter vs. Vessels",
+      "Vessel Exception",
+      "Braitah on Ground",
+      "R. Meir Attribution",
+      "Rabbis Agree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Shmuel's ruling distinguishing matir/mafki'a/chotech for ground-connected versus vessel fastenings, which is precisely the content the 'Matir/Mafki'a/Chotech' section's prose explicates in detail.",
+      "chosen_heading": "Matir/Mafki'a/Chotech",
+      "current_heading": "Vessel Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Rabbis Agree",
+    "candidates": [
+      "Braitah on Ground",
+      "R. Meir Attribution",
+      "Rabbis Agree",
+      "Braitah Vessels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Braitah on Ground",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita objection about ground-sealed fastenings distinguishing Shabbat from Yom Tov, which is precisely what candidate 0 ('Braitah on Ground') describes.",
+      "second_heading": "R. Meir Attribution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's attribution to Rabbi Meir followed by the counter-baraita showing Rabbis concede to Rabbi Meir on ground seals, which matches candidate 1 ('R. Meir Attribution') and then flows into candidate 2's content \u2014 but the R. Meir attribution opening is the best single home for this item.",
+      "current_heading": "Rabbis Agree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Braitah Vessels",
+    "candidates": [
+      "Rabbis Agree",
+      "Braitah Vessels",
+      "R. Nechemya Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the baraita distinguishing ground fastenings from vessel fastenings and the challenge that the latter clause is difficult for Shmuel's position \u2014 exactly what the 'Braitah Vessels' prose describes.",
+      "chosen_heading": "Braitah Vessels",
+      "current_heading": "Braitah Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "R. Nechemya Position",
+    "candidates": [
+      "R. Nechemya Position",
+      "R. Nechemya Strictness",
+      "R. Nechemya Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Nechemya's principle (kol ha-kelim ein nitalin ela derech tashmishan) and attributes the baraita to him, which is precisely what the prose in section 0 discusses \u2014 the gemara attributing the stricter baraita to Rabbi Nechemya and explaining his principle about vessels only being used in their designated manner.",
+      "chosen_heading": "R. Nechemya Position",
+      "current_heading": "R. Nechemya Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "R. Nechemya Yom Tov",
+    "candidates": [
+      "R. Nechemya Strictness",
+      "R. Nechemya Yom Tov",
+      "Firewood Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the challenge of why Rabbi Nechemya's principle is limited to Shabbat and not Yom Tov, and asks whether he distinguishes between the shevut of Shabbat and the shevut of Yom Tov \u2014 exactly what the 'R. Nechemya Yom Tov' prose describes.",
+      "chosen_heading": "R. Nechemya Yom Tov",
+      "current_heading": "R. Nechemya Yom Tov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Firewood Vessels",
+    "candidates": [
+      "Firewood Vessels",
+      "Unresolved Soter Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the three contradictory baraitot about kindling fire with vessels/shards on Yom Tov and their resolution via Rabbi Yehuda, Rabbi Shimon, and Rabbi Ne\u1e25emya, which is precisely what the 'Firewood Vessels' prose describes.",
+      "chosen_heading": "Firewood Vessels",
+      "current_heading": "Firewood Vessels",
+      "moved": false
+    }
+  }
+]

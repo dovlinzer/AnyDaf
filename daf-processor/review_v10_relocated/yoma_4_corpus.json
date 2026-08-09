@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Water vs. Blood",
+    "candidates": [
+      "Yochanan's Miluim",
+      "Lakish's Sinai Model",
+      "Water vs. Blood",
+      "Initiation vs. Encounter",
+      "Baraita on Miluim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items contain the exact exchange between Rabbi Yochanan and Reish Lakish about the sprinkling challenge \u2014 blood vs. water, Rabbi \u1e24iyya's teaching that water replaced blood, and the question of whether sprinkling existed at Sinai \u2014 which is precisely what the 'Water vs. Blood' section's prose describes in detail.",
+      "chosen_heading": "Water vs. Blood",
+      "current_heading": "Water vs. Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Baraita on Miluim",
+    "candidates": [
+      "Initiation vs. Encounter",
+      "Baraita on Miluim",
+      "Tzedukim & Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita supporting Rabbi Yochanan \u2014 the miluim derivation, its application to all generations, and the concluding mishna reference \u2014 which is precisely what candidate 1 ('Baraita on Miluim') describes in its prose.",
+      "chosen_heading": "Baraita on Miluim",
+      "current_heading": "Baraita on Miluim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Tzedukim & Sages",
+    "candidates": [
+      "Tzedukim & Sages",
+      "Bezot Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the parah adumah connection to Yom Kippur and the miluim parallel (blood vs. water, 'to do' vs. 'to make atonement'), which is precisely what the Tzedukim & Sages prose discusses regarding the parah adumah's seven-day separation and its relationship to the miluim analogy.",
+      "chosen_heading": "Tzedukim & Sages",
+      "current_heading": "Tzedukim & Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Bezot Derivation",
+    "candidates": [
+      "Bezot Derivation",
+      "Future Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation from 'bezot' \u2014 the objection that bezot is needed for its simple meaning (the korban), and the response that the feminine form implies two conclusions \u2014 which is precisely what the 'Bezot Derivation' prose section describes.",
+      "chosen_heading": "Bezot Derivation",
+      "current_heading": "Bezot Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Future Generations",
+    "candidates": [
+      "Future Generations",
+      "Asmachta Framework",
+      "Moshe in Cloud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the two possible limitations (first Yom Kippur only, or first High Priest only) being foreclosed by 'ka'asher asah bayom hazeh,' which is precisely what the 'Future Generations' section's prose explicates.",
+      "chosen_heading": "Future Generations",
+      "current_heading": "Future Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Moshe in Cloud",
+    "candidates": [
+      "Asmachta Framework",
+      "Moshe in Cloud",
+      "Yose: After Torah",
+      "Akiva: Before Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Reish Lakish about Moses ascending in the cloud and being sanctified, attributed to Rabbi Yose HaGelili \u2014 exactly what the 'Moshe in Cloud' prose section describes and analyzes.",
+      "chosen_heading": "Moshe in Cloud",
+      "current_heading": "Moshe in Cloud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Akiva: Before Torah",
+    "candidates": [
+      "Yose: After Torah",
+      "Akiva: Before Torah",
+      "Vayikra Question",
+      "Honor Explanation",
+      "Natan: Purification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Akiva's position that 'vayishkon kevod Hashem' refers to the revelation beginning from Rosh Chodesh before the giving of the Torah, which is precisely what the 'Akiva: Before Torah' section's prose discusses.",
+      "chosen_heading": "Akiva: Before Torah",
+      "current_heading": "Akiva: Before Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Natan: Purification",
+    "candidates": [
+      "Vayikra Question",
+      "Honor Explanation",
+      "Natan: Purification",
+      "Matya: Fear & Awe",
+      "Rejoicing + Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the 'honor to Moses' explanation and Rabbi Natan's purification explanation, but since the prose of candidate 2 ('Natan: Purification') explicitly discusses Rabbi Natan's explanation about purging food and drink to make Moses like the ministering angels \u2014 which is the distinctive content of this passage \u2014 and candidate 1's prose already covers the honor explanation in detail, the passage as a unit (ending with Rabbi Natan's statement) best fits under the 'Natan: Purification' heading where it currently sits.",
+      "chosen_heading": "Natan: Purification",
+      "current_heading": "Natan: Purification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rejoicing + Fear",
+    "candidates": [
+      "Matya: Fear & Awe",
+      "Rejoicing + Fear",
+      "Lakish Recap",
+      "Yochanan Deepened",
+      "Aaron Representation",
+      "Rituals Essential",
+      "Sixth vs Seventh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Matya ben \u1e24arash's statement about intimidation/awe and the Rav Adda bar Mattana/Rav teaching about rejoicing with trembling, and candidate 0's prose explicitly discusses both elements together (Rabbi Matya's explanation and the verse about awe/trembling), making it the natural home for the entire passage rather than splitting it under the 'Rejoicing + Fear' heading.",
+      "chosen_heading": "Matya: Fear & Awe",
+      "current_heading": "Rejoicing + Fear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Sixth vs Seventh",
+    "candidates": [
+      "Lakish Recap",
+      "Yochanan Deepened",
+      "Aaron Representation",
+      "Rituals Essential",
+      "Sixth vs Seventh",
+      "Yose's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's identification of the underlying dispute between Rabbi Yose HaGelili and Rabbi Akiva as rooted in the calendrical disagreement about whether the Torah was given on the sixth or seventh of Sivan, which is precisely what the 'Sixth vs Seventh' section's prose describes.",
+      "chosen_heading": "Sixth vs Seventh",
+      "current_heading": "Sixth vs Seventh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Yose's Logic",
+    "candidates": [
+      "Yose's Logic",
+      "Akiva's Logic",
+      "Forty Days Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly explains Rabbi Yosei HaGelili's reasoning \u2014 that since Torah was given on the sixth, the seventh-day call must be post-matan Torah \u2014 which matches exactly the 'Yose's Logic' prose description.",
+      "chosen_heading": "Yose's Logic",
+      "current_heading": "Yose's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Forty Days Math",
+    "candidates": [
+      "Akiva's Logic",
+      "Forty Days Math",
+      "Yose's Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly works through the forty-day chronological arithmetic (24 days of Sivan + 16 days of Tammuz = 40 days, descent on 17 Tammuz), which is precisely what the 'Forty Days Math' section's prose describes.",
+      "chosen_heading": "Forty Days Math",
+      "current_heading": "Forty Days Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Yose's Inclusion",
+    "candidates": [
+      "Yose's Inclusion",
+      "Honor, Not Call",
+      "Cloud Contradiction",
+      "Hearing Problem",
+      "Sinai vs Ohel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei HaGelili's position that the forty days on the mountain included the six days of preparation, which is precisely what the 'Yose's Inclusion' section prose describes.",
+      "chosen_heading": "Yose's Inclusion",
+      "current_heading": "Yose's Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Sinai vs Ohel",
+    "candidates": [
+      "Honor, Not Call",
+      "Cloud Contradiction",
+      "Hearing Problem",
+      "Sinai vs Ohel",
+      "Divine Force"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Honor, Not Call",
+      "first_confidence": "high",
+      "first_reason": "Item 1 supports Rabbi Elazar's ruling that 'vayikra el Moshe' accords public honor to Moses, which is precisely what heading 'Honor, Not Call' discusses.",
+      "second_heading": "Sinai vs Ohel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection about Moses alone hearing and resolves it via the Sinai/Ohel Moed and kriya/dibur distinctions, which is exactly what heading 'Sinai vs Ohel' describes in detail.",
+      "current_heading": "Sinai vs Ohel",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbinic Takanah",
+    "candidates": [
+      "Why Shvuah Required",
+      "Rationalizing & Ben Nanas",
+      "Sumchos & Claims",
+      "Rabbinic Takanah",
+      "Shlomo Analogy",
+      "Rabbi Yosi Problem",
+      "Deposit Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's statement that the oath is a rabbinic enactment (takanas chachamim) to prevent people from seizing others' garments, which is precisely what the 'Rabbinic Takanah' section's prose describes.",
+      "chosen_heading": "Rabbinic Takanah",
+      "current_heading": "Rabbinic Takanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Deposit Case",
+    "candidates": [
+      "Shlomo Analogy",
+      "Rabbi Yosi Problem",
+      "Deposit Case",
+      "Escrow Leverage",
+      "Testing Rabbanan",
+      "Split Possible Test",
+      "Yosi & Tallis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items constitute the gemara's challenge and resolution regarding whether the mishnah follows the Rabbanan \u2014 first raising that the Rabbanan's escrow ruling should apply to the tallis too, then answering that the tallis differs because it is possibly jointly owned, which is precisely what the 'Testing Rabbanan' prose describes.",
+      "chosen_heading": "Testing Rabbanan",
+      "current_heading": "Deposit Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Yosi & Tallis",
+    "candidates": [
+      "Escrow Leverage",
+      "Testing Rabbanan",
+      "Split Possible Test",
+      "Yosi & Tallis",
+      "Not Definite Lying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the kal va'chomer argument that if Rabbi Yosi places undisputed money in escrow, he should certainly place disputed property (the tallis) in escrow, which is precisely what the 'Yosi & Tallis' section's prose discusses.",
+      "chosen_heading": "Yosi & Tallis",
+      "current_heading": "Yosi & Tallis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Not Definite Lying",
+    "candidates": [
+      "Not Definite Lying",
+      "Liar Loses Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the argument that escrow is inapplicable because there is no definite liar in the tallis case, which is precisely what the 'Not Definite Lying' section's prose describes.",
+      "chosen_heading": "Not Definite Lying",
+      "current_heading": "Not Definite Lying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Liar Loses Test",
+    "candidates": [
+      "Liar Loses Test",
+      "Shopkeeper Setup",
+      "Why Not Escrow",
+      "Employer's Fault",
+      "Worker Defense"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Liar Loses Test",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 complete the 'liar loses test' discussion \u2014 the alternative penalty-based distinction and its rejection in favor of the original answer \u2014 which is exactly what the 'Liar Loses Test' prose describes.",
+      "second_heading": "Shopkeeper Setup",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the entirely new shopkeeper/employer/laborer case from Shevuot, asking why escrow is not applied there, which matches the 'Shopkeeper Setup' prose that introduces this new scenario and frames the question of adjudicatory mechanism.",
+      "current_heading": "Liar Loses Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Worker Defense",
+    "candidates": [
+      "Shopkeeper Setup",
+      "Why Not Escrow",
+      "Employer's Fault",
+      "Worker Defense",
+      "Both Collect",
+      "Muchzak Status",
+      "Possibly True?",
+      "Tallis: Possible",
+      "Deposit: Not Possible",
+      "Equal Claims Test",
+      "Rabbi Chiya Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the shopkeeper's and worker's parallel arguments to the employer ('shlichusa didach avdit' / 'ant heimanteih' / 'ana avdi avidta gabach'), which is precisely what candidate 2 'Employer's Fault' discusses \u2014 the chanvani's and worker's case that the employer bears responsibility for the unprotected arrangement, not candidate 3 'Worker Defense' which only discusses the worker's argument.",
+      "chosen_heading": "Employer's Fault",
+      "current_heading": "Worker Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rabbi Chiya Braita",
+    "candidates": [
+      "Both Collect",
+      "Muchzak Status",
+      "Possibly True?",
+      "Tallis: Possible",
+      "Deposit: Not Possible",
+      "Equal Claims Test",
+      "Rabbi Chiya Braita",
+      "Kal Vachomer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita taught by Rabbi \u1e24iyya about the case where witnesses testify to fifty dinars and the debtor swears about the remainder, which is precisely what the 'Rabbi Chiya Braita' section's prose describes.",
+      "chosen_heading": "Rabbi Chiya Braita",
+      "current_heading": "Rabbi Chiya Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Kal Vachomer Logic",
+    "candidates": [
+      "Kal Vachomer Logic",
+      "Objection to Oath",
+      "Tallis & Modeh",
+      "Possession as Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the kal vachomer inference (shelo tehei hoda'as piv gedolah me'ha'adat eidim) that is the central topic of the 'Kal Vachomer Logic' section, which explicitly discusses this exact Aramaic phrase and its derivation.",
+      "chosen_heading": "Kal Vachomer Logic",
+      "current_heading": "Kal Vachomer Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Possession as Witness",
+    "candidates": [
+      "Objection to Oath",
+      "Tallis & Modeh",
+      "Possession as Witness",
+      "Rabba's Principle",
+      "Rashi vs Tosafot",
+      "Partial Admission",
+      "Oath Breaks Rationalizer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text for the 'Possession as Witness' section, which explicitly discusses the gemara's reasoning that physical holding of the tallis functions as testimony (anan sa'adei) to partial ownership, exactly what candidate 2's prose unpacks in detail.",
+      "chosen_heading": "Possession as Witness",
+      "current_heading": "Possession as Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Oath Breaks Rationalizer",
+    "candidates": [
+      "Rabba's Principle",
+      "Rashi vs Tosafot",
+      "Partial Admission",
+      "Oath Breaks Rationalizer",
+      "Kal Vachomer Stated",
+      "Admission vs Kenas",
+      "Kenas Definition",
+      "Korban Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described under 'Oath Breaks Rationalizer': items 1-4 explain why the shvuah is needed for admission (Rabba's rationalizer theory) and why the kal vachomer extends it to witnesses, items 5-6 state the formal kal vachomer, and item 7 raises the objection that self-admission obligates monetary payment \u2014 all of which the prose under heading 3 explicitly discusses as the tension between Rabba's psychological reasoning and the formal kal vachomer.",
+      "chosen_heading": "Oath Breaks Rationalizer",
+      "current_heading": "Oath Breaks Rationalizer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Korban Exception",
+    "candidates": [
+      "Kal Vachomer Stated",
+      "Admission vs Kenas",
+      "Kenas Definition",
+      "Korban Exception",
+      "Rabbi Meir Korban",
+      "Viduy Requirement",
+      "Chiya & Meir Align"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items deal with the korban objection to the kal vachomer \u2014 the challenge that witnesses don't obligate a korban while self-admission does \u2014 and candidate 3 ('Korban Exception') is precisely the section whose prose describes this counterexample and its implications for the kal vachomer's premise.",
+      "chosen_heading": "Korban Exception",
+      "current_heading": "Korban Exception",
+      "moved": false
+    }
+  }
+]

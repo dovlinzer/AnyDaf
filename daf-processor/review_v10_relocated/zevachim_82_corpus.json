@@ -1,0 +1,309 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Dispute",
+    "candidates": [
+      "Mishnah Dispute",
+      "Wine Mixing Analogy",
+      "Rav Huna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the parable (mashal) of the student mixing wine for his teacher that Rav Yehuda says in Shmuel's name, which is precisely what the 'Wine Mixing Analogy' section's prose describes.",
+      "chosen_heading": "Wine Mixing Analogy",
+      "current_heading": "Mishnah Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rav Huna Challenge",
+    "candidates": [
+      "Wine Mixing Analogy",
+      "Rav Huna Challenge",
+      "Expansive Language",
+      "Rabbi Yose Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are part of the Rav Huna challenge sequence: item 1 presents Shmuel's expansion argument, item 2 is Rav Huna's objection that chatat is actually limiting rather than redundant, and item 3 is the revised mashal (student mixing hot and cold water) that the prose of heading 1 explicitly describes as the gemara's revision following Rav Huna's challenge.",
+      "chosen_heading": "Rav Huna Challenge",
+      "current_heading": "Rav Huna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rabbi Yose Response",
+    "candidates": [
+      "Expansive Language",
+      "Rabbi Yose Response",
+      "Two Bowls Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items cover exactly the content described in the 'Rabbi Yose Response' prose: Rabbi Akiva's derivation from 'vechol chatat', Rabbi Yose HaGelili's counter-exposition, the gemara's correction of the male/female ordering, the challenge from the baraita about parim hanisrafim, the burning of pesulim and the lav, the question about an outer chatat's invalidation answered from 'hen lo huva', and the resolution that Rabbi Yose was speaking according to Rabbi Akiva's framework.",
+      "chosen_heading": "Rabbi Yose Response",
+      "current_heading": "Rabbi Yose Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Two Bowls Case",
+    "candidates": [
+      "Two Bowls Case",
+      "Partial Blood Inside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself presenting the two-bowls case \u2014 one bowl going outside and one going inside \u2014 which is precisely what candidate 0's prose describes and introduces.",
+      "chosen_heading": "Two Bowls Case",
+      "current_heading": "Two Bowls Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Partial Blood Inside",
+    "candidates": [
+      "Partial Blood Inside",
+      "Intent & Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yosei HaGelili's kal vachomer argument about machshava and remaining blood, which is explicitly discussed and analyzed in the 'Partial Blood Inside' section's prose.",
+      "chosen_heading": "Partial Blood Inside",
+      "current_heading": "Partial Blood Inside",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Intent & Atonement",
+    "candidates": [
+      "Intent & Atonement",
+      "Tzitz Validation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the machlokot between Rabbi Eliezer, Rabbi Shimon, and Rabbi Yehuda regarding blood brought inside with intent to atone, which is precisely what the 'Intent & Atonement' section prose describes.",
+      "chosen_heading": "Intent & Atonement",
+      "current_heading": "Intent & Atonement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Tzitz Validation",
+    "candidates": [
+      "Tzitz Validation",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the mishnah's ruling that the tzitz effects acceptance for tamei blood but not for yotzei blood, which matches precisely what the 'Tzitz Validation' section prose discusses.",
+      "chosen_heading": "Tzitz Validation",
+      "current_heading": "Tzitz Validation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Meshulash Principle",
+      "Meat Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Kal Vachomer",
+      "first_confidence": "low",
+      "first_reason": "Items 1-9 cover the blood kal vachomer and machshava/meshulash discussion, spanning headings 0 and 1, but the most critical structural break separates them from the meat rules baraita starting at item 10.",
+      "second_heading": "Meat Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 10-14 form a self-contained baraita about meat going outside vs. inside the Sanctuary, matching candidate 2's prose precisely about bassar hayotzei/hanichnas and the midamah/bassadeh derivations.",
+      "current_heading": "Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Meat Rules",
+    "candidates": [
+      "Meshulash Principle",
+      "Meat Rules",
+      "Inner Chamber",
+      "Rava's Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita teaching that 'pnimah' alone covers only the Holy of Holies and that 'el hakodesh pnimah' extends the invalidity to the Heichal (Sanctuary), which is exactly what the 'Inner Chamber' prose section discusses.",
+      "chosen_heading": "Inner Chamber",
+      "current_heading": "Meat Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Rava's Words",
+    "candidates": [
+      "Inner Chamber",
+      "Rava's Words",
+      "Abaye Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rava's answer and its supporting analogy (toshav/sachir baraita), which is precisely what heading 1 'Rava's Words' describes in its prose.",
+      "chosen_heading": "Rava's Words",
+      "current_heading": "Rava's Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Abaye Objection",
+    "candidates": [
+      "Abaye Objection",
+      "Intent & Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's objection distinguishing the toshav-sachir case from the heichal/kodesh kodashim case, which is precisely what the 'Abaye Objection' section's prose describes in detail.",
+      "chosen_heading": "Abaye Objection",
+      "current_heading": "Abaye Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Intent & Path",
+    "candidates": [
+      "Intent & Path",
+      "Par & Sa\u02bfir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's roundabout-route resolution and Rava's intent-based resolution, which is exactly what the 'Intent & Path' prose section describes in detail.",
+      "chosen_heading": "Intent & Path",
+      "current_heading": "Intent & Path",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Par & Sa\u02bfir",
+    "candidates": [
+      "Par & Sa\u02bfir",
+      "Yom Kippur Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's initial dilemma about the par he'elam davar and sa'ir avodat zarah being brought into the kodesh kodashim, which is precisely what heading 0 introduces, while heading 1 discusses the resolution and further implications of that same question.",
+      "chosen_heading": "Par & Sa\u02bfir",
+      "current_heading": "Par & Sa\u02bfir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Yom Kippur Return",
+    "candidates": [
+      "Yom Kippur Return",
+      "Altar Zones",
+      "Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous chain of Rava's nested dilemmas about blood brought into the wrong sacred zone, exactly matching the 'Yom Kippur Return' prose which describes all these same dilemmas in sequence \u2014 the par he'elam/sa'ir question, the Yom Kippur re-entry question, and the parochet/mizbe'ach question.",
+      "chosen_heading": "Yom Kippur Return",
+      "current_heading": "Yom Kippur Return",
+      "moved": false
+    }
+  }
+]

@@ -24,7 +24,7 @@
           "timestamp": "03:35"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -81,8 +81,8 @@
           "timestamp": "09:12"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Nazir Who Becomes Tamei: When Does Tumah Cancel Nazirut",
@@ -139,8 +139,8 @@
           "timestamp": "18:18"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Nazir in the Cemetery: Does Nazirut Take Effect While Tamei",
@@ -429,5 +429,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "10:14",
+  "amud_b_micro_title": "Stam Day 30",
+  "shiur_start_daf": 16,
+  "shiur_start_amud": "a"
 }

@@ -106,8 +106,8 @@
           "timestamp": "31:01"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 40,
+      "matched": true
     },
     {
       "title": "Reconciling the Baraitot: Rights to Bring Oxen vs. Rights to Keep Fruit",
@@ -164,7 +164,7 @@
           "timestamp": "46:40"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -188,7 +188,7 @@
           "timestamp": "53:00"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 15,
       "matched": false
     }
   ],
@@ -362,5 +362,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 28
+  "amud_b_sefaria_index": 28,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "46:40",
+  "amud_b_micro_title": "Neither's Domain",
+  "shiur_start_daf": 14,
+  "shiur_start_amud": "a"
 }

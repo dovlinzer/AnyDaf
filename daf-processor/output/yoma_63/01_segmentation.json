@@ -125,7 +125,7 @@
           "timestamp": "32:56"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -149,8 +149,8 @@
           "timestamp": "35:20"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Korban Definition: What Makes an Animal Fit for Pesach Ohel Mo'ed",
@@ -178,7 +178,7 @@
           "timestamp": "42:24"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -202,8 +202,8 @@
           "timestamp": "45:27"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Mechusar Zman: Why Both Eight Days Old and Blemish-Free Are Required",
@@ -463,5 +463,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "42:24",
+  "amud_b_micro_title": "L'Hashem Exclusion",
+  "shiur_start_daf": 62,
+  "shiur_start_amud": "b"
 }

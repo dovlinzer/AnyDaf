@@ -1,0 +1,266 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Mishna: Birds",
+    "candidates": [
+      "Deshen Intro",
+      "Na'asa Mitzvato",
+      "Tosafot Distinction",
+      "Outer vs Inner",
+      "Sanctifying Ashes",
+      "Mishna: Birds",
+      "R. Shimon: Young"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 7,
+      "first_heading": "Mishna: Birds",
+      "first_confidence": "high",
+      "first_reason": "The mishna text covers both the inner altar/menorah ashes and the birds whose time has not arrived or has passed, which matches heading 5 'Mishna: Birds' that introduces this exact mishna content.",
+      "second_heading": "Mishna: Birds",
+      "second_confidence": "high",
+      "second_reason": "The gemara discussion deriving from 'bishlama mizbe'ach hachitzon' through Rabbi Elazar's interpretation of 'el mekom hadeshen' to include the inner altar and menorah ashes is precisely what heading 5 describes in its prose.",
+      "third_heading": "R. Shimon: Young",
+      "third_confidence": "high",
+      "third_reason": "This mishna presents Rabbi Shimon's disagreement about turtle-doves and pigeons, which is exactly what heading 6 'R. Shimon: Young' describes as its subject matter.",
+      "current_heading": "Mishna: Birds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "R. Shimon: Young",
+    "candidates": [
+      "R. Shimon: Young",
+      "Comparison: Pidyon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Shimon's principle about future fitness (kol hara'uy le'achar zman) with no karet, which is exactly what the prose under 'R. Shimon: Young' describes as the gemara's explanation of Rabbi Shimon's consistent reasoning.",
+      "chosen_heading": "R. Shimon: Young",
+      "current_heading": "R. Shimon: Young",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Comparison: Pidyon",
+    "candidates": [
+      "Comparison: Pidyon",
+      "No Pidyon: Birds",
+      "Conceptual Issue",
+      "Kodashim Shemeisu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question about mechusar zman and the Rabbis' answer comparing it to ba'al mum and pidyon, which is precisely what heading 0 ('Comparison: Pidyon') discusses in its prose.",
+      "chosen_heading": "Comparison: Pidyon",
+      "current_heading": "Comparison: Pidyon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Kodashim Shemeisu",
+    "candidates": [
+      "No Pidyon: Birds",
+      "Conceptual Issue",
+      "Kodashim Shemeisu",
+      "Rav Chisda Object"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kodashim Shemeisu",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ulla's ruling that dead kodashim exit me'ila, which is precisely what heading 2 ('Kodashim Shemeisu') discusses.",
+      "second_heading": "Rav Chisda Object",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Chisda's challenge ('where did the kedusha go?'), which is exactly what heading 3 ('Rav Chisda Object') is about.",
+      "current_heading": "Kodashim Shemeisu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Chisda Object",
+    "candidates": [
+      "Rav Chisda Object",
+      "D'Oraisa vs Rabbanan",
+      "Me'ila D'Rabbanan",
+      "Blood Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Ulla responding to Rav Chisda's objection by citing the mishna about doves/pigeons whose time has passed, asking 'where did the kedusha go?' \u2014 this is precisely the content described in the 'Rav Chisda Object' prose, which explicitly references this torin/bnei yona mishna as Ulla's response to Rav Chisda's challenge.",
+      "chosen_heading": "Rav Chisda Object",
+      "current_heading": "Rav Chisda Object",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Blood Exception",
+    "candidates": [
+      "D'Oraisa vs Rabbanan",
+      "Me'ila D'Rabbanan",
+      "Blood Exception",
+      "Hematziz Dam",
+      "Blood vs Byproducts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara sequence about blood as a potential precedent for something initially lacking me'ila later acquiring it, which is precisely what the 'Blood Exception' prose (candidate 2) discusses \u2014 including Rav's ruling about blood let from a consecrated animal (item 4) being cited as the gemara's response that me'ila is not foreign to blood from the outset.",
+      "chosen_heading": "Blood Exception",
+      "current_heading": "Blood Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Blood vs Byproducts",
+    "candidates": [
+      "Hematziz Dam",
+      "Blood vs Byproducts",
+      "Dung Question",
+      "Blood Intrinsic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the complete objection-and-answer exchange about blood versus milk/eggs (Rav Hamnuna's challenge and Rav's response distinguishing blood as intrinsic to the animal's existence), which is precisely what the 'Blood vs Byproducts' section prose describes.",
+      "chosen_heading": "Blood vs Byproducts",
+      "current_heading": "Blood vs Byproducts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Blood Intrinsic",
+    "candidates": [
+      "Dung Question",
+      "Blood Intrinsic",
+      "Mishna: Milk/Eggs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about Rav Mesharshiyya's objection from dung/manure, the gemara's response distinguishing dung from blood, and the support for Rabbi Elazar's rule \u2014 exactly what candidate 0 ('Dung Question') describes, while candidate 1 ('Blood Intrinsic') already contains the prose summarizing this entire discussion as part of its own narrative.",
+      "chosen_heading": "Dung Question",
+      "current_heading": "Blood Intrinsic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Mishna: Milk/Eggs",
+    "candidates": [
+      "Blood Intrinsic",
+      "Mishna: Milk/Eggs",
+      "Bedek HaBayis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about milk of sacrificial animals and eggs of sacrificial doves directly matches the prose in candidate 1, which explicitly discusses this exact mishna ruling about chalav ubeitzaihen lo nehenin velo mo'alin.",
+      "chosen_heading": "Mishna: Milk/Eggs",
+      "current_heading": "Mishna: Milk/Eggs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Bedek HaBayis",
+    "candidates": [
+      "Bedek HaBayis",
+      "Guf vs Damim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's distinction between kodshei mizbe'ach and kodshei bedek habayis with the chicken and donkey examples, which is precisely what the 'Bedek HaBayis' section's prose describes and analyzes.",
+      "chosen_heading": "Bedek HaBayis",
+      "current_heading": "Bedek HaBayis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Guf vs Damim",
+    "candidates": [
+      "Guf vs Damim",
+      "Kedushat Haguf",
+      "Kedushat Damim",
+      "P1: Psul Status",
+      "P2: Issur Hana'ah",
+      "P3: Byproducts",
+      "P4: Haguf/Damim",
+      "P5: Extended Value"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kedushat Haguf",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara unit where Rav Pappa distinguishes kedushat haguf from kedushat damim lemizbe'ach, which is exactly what heading 1 ('Kedushat Haguf') describes.",
+      "second_heading": "P1: Psul Status",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-4 open a new Mishna about items fit/unfit for the altar or Temple maintenance, which structurally belongs under the 'P1: Psul Status' section that discusses consecrated items and their me'ila status.",
+      "current_heading": "Guf vs Damim",
+      "moved": true
+    }
+  }
+]

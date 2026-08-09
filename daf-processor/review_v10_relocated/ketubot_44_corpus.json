@@ -1,0 +1,269 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabba & Rav Yosef",
+    "candidates": [
+      "Mishna Framework",
+      "R. Yehuda's Position",
+      "Rabba & Rav Yosef",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yehuda's position (mai ta'ama d'Rabbi Yehuda) and Rabba & Rav Yosef's answer, but candidate 1's prose explicitly mentions the gemara asking 'mai ta'ama d'Rabbi Yehuda' as its focus, making it the section that introduces and frames this entire exchange, whereas candidate 2's prose describes the answer as if already presented \u2014 the passage as a whole (question + answer) belongs under the heading that poses the question.",
+      "chosen_heading": "R. Yehuda's Position",
+      "current_heading": "Rabba & Rav Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rabba & Rav Yosef",
+      "Rava's Challenge",
+      "Unwritten vs Written",
+      "Formalist Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection from the baraita about Rabbi Yehuda conceding the bogeret case, which is precisely what candidate 1 'Rava's Challenge' describes in its prose.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Formalist Approach",
+    "candidates": [
+      "Unwritten vs Written",
+      "Formalist Approach",
+      "When Liens Exist",
+      "Rav Huna's Split"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Formalist Approach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabba and Rav Yosef's reformulation of Rabbi Yehuda's position based on 'reshus' at the time of writing, which is precisely what the 'Formalist Approach' prose discusses.",
+      "second_heading": "When Liens Exist",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the new question of from when liens on the husband's property take effect, which is exactly the topic introduced in the 'When Liens Exist' prose section.",
+      "current_heading": "Formalist Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rav Huna's Split",
+    "candidates": [
+      "When Liens Exist",
+      "Rav Huna's Split",
+      "Rav Assi's Position",
+      "Two Documents Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Huna's distinction between ikar ketuva (liens from erusin) and tosefet (liens from nisuin), and Rav Asi's counter-position, which is precisely what the prose under 'Rav Huna's Split' describes.",
+      "chosen_heading": "Rav Huna's Split",
+      "current_heading": "Rav Huna's Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Two Documents Case",
+    "candidates": [
+      "Rav Assi's Position",
+      "Two Documents Case",
+      "Addition Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'two marriage contracts' case and Rav Huna's ruling about collecting 200 from the first date or 300 from the second, which is precisely what the 'Two Documents Case' prose describes.",
+      "chosen_heading": "Two Documents Case",
+      "current_heading": "Two Documents Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Addition Question",
+    "candidates": [
+      "Addition Question",
+      "Explicit Language Rule",
+      "Competing Alternatives",
+      "Rav Nachman's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about collecting 200 from the first lien date and 100 from the second, which directly corresponds to the 'Addition Question' prose describing why Rav Huna's logic should allow splitting the 300 ketuva into 200 from the earlier date and 100 from the later date.",
+      "chosen_heading": "Addition Question",
+      "current_heading": "Addition Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rav Nachman's Rule",
+    "candidates": [
+      "Explicit Language Rule",
+      "Competing Alternatives",
+      "Rav Nachman's Rule",
+      "Rav Pappa's Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the 'competing alternatives' logic \u2014 that without explicit additive language the two documents are read as either/or alternatives (collect 200 from the first date OR 300 from the second), and that choosing the later document forfeits the earlier lien \u2014 which is precisely what candidate 1 'Competing Alternatives' describes in its prose.",
+      "chosen_heading": "Competing Alternatives",
+      "current_heading": "Rav Nachman's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Rav Pappa's Caveat",
+    "candidates": [
+      "Rav Nachman's Rule",
+      "Rav Pappa's Caveat",
+      "Sale vs Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form one continuous unit: item 1 raises whether Rav Huna's ruling conflicts with Rav Nachman's rule (the rule itself), and item 2 resolves it via Rav Pappa's caveat \u2014 but the entire passage is about introducing and then immediately qualifying Rav Nachman's rule, which is the core subject of heading 0 ('Rav Nachman's Rule'), while heading 1 ('Rav Pappa's Caveat') is meant to discuss only Rav Pappa's qualification in isolation after Rav Nachman's rule has already been introduced.",
+      "chosen_heading": "Rav Nachman's Rule",
+      "current_heading": "Rav Pappa's Caveat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Sale vs Gift",
+    "candidates": [
+      "Sale vs Gift",
+      "Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the sale-vs-gift and gift-vs-sale permutations (dina de-bar metzra and dina de-ba'al chov), which are precisely what the 'Sale vs Gift' prose section elaborates on.",
+      "chosen_heading": "Sale vs Gift",
+      "current_heading": "Sale vs Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Implications",
+    "candidates": [
+      "Implications",
+      "Summary & Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between Rafram/Rav A\u1e25a over why the second document nullifies the first, and the practical differences (witnesses, produce, land tax) between their positions \u2014 exactly what the 'Implications' prose elaborates in detail.",
+      "chosen_heading": "Implications",
+      "current_heading": "Implications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Summary & Ruling",
+    "candidates": [
+      "Summary & Ruling",
+      "Torah Case Overview",
+      "Giyoret Exception",
+      "Conceived Pre-Conv",
+      "Born Post-Conv",
+      "Full Status",
+      "Father Deceased",
+      "Torah's Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the ketuva lien question \u2014 presenting the ruling of Rabbi Elazar b. Rabbi Shimon splitting between erusin and nisuin, the Rabbis' opposing view, and the final halakhic conclusion \u2014 which is precisely what the 'Summary & Ruling' prose describes.",
+      "chosen_heading": "Summary & Ruling",
+      "current_heading": "Summary & Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Torah's Law",
+    "candidates": [
+      "Torah Case Overview",
+      "Giyoret Exception",
+      "Conceived Pre-Conv",
+      "Born Post-Conv",
+      "Full Status",
+      "Father Deceased",
+      "Torah's Law",
+      "Orphan's Fine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the Mishna itself covering the giyoret case, the conceived-pre-conversion case, the born-post-conversion case, and the father's house mitzva rule \u2014 exactly what candidate 1 ('Giyoret Exception') introduces as the mishna that opens with the unusual exception of the convert's daughter, and the subsequent scenarios flow directly from that same mishna unit.",
+      "chosen_heading": "Giyoret Exception",
+      "current_heading": "Torah's Law",
+      "moved": true
+    }
+  }
+]

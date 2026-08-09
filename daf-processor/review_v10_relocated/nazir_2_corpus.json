@@ -1,0 +1,220 @@
+[
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Bird Offerings",
+    "candidates": [
+      "Opening & Dedication",
+      "Nazir vs. Neder",
+      "Textual Sources",
+      "Seder Nashim Context",
+      "Kinuyim Principle",
+      "Elliptical Speech",
+      "Substitute Words",
+      "Allusive Phrases",
+      "Bird Offerings",
+      "Rabbi Meir Dispute",
+      "Tosfos Analysis",
+      "Intent & Convention",
+      "Lashes vs. Korbanot",
+      "Gemara Opening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishnah about 'harei alai tziporin' (bird offerings) and the Rabbi Meir/Sages dispute, which corresponds exactly to the 'Bird Offerings' section's prose describing this ambiguous case.",
+      "chosen_heading": "Bird Offerings",
+      "current_heading": "Bird Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Gemara Opening",
+    "candidates": [
+      "Rabbi Meir Dispute",
+      "Tosfos Analysis",
+      "Intent & Convention",
+      "Lashes vs. Korbanot",
+      "Gemara Opening",
+      "Sotah & Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question about why Nazir appears in Seder Nashim, which matches exactly the prose in 'Gemara Opening' describing 'tana be-seder nashim ka-ei' and 'Mai ta'ama tani Nazir?'",
+      "chosen_heading": "Gemara Opening",
+      "current_heading": "Gemara Opening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Sotah & Wine",
+    "candidates": [
+      "Sotah & Wine",
+      "Nazir-Sotah Link",
+      "Missing Yadot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's reasoning that wine caused the sotah's sin and that seeing a sotah should prompt one to abstain from wine, which is precisely what the 'Sotah & Wine' section's prose describes.",
+      "chosen_heading": "Sotah & Wine",
+      "current_heading": "Sotah & Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Missing Yadot",
+    "candidates": [
+      "Nazir-Sotah Link",
+      "Missing Yadot",
+      "Precedent Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the structural question of why the mishnah announced kinuyim but illustrated yadot first, and Rava's resolution via 'hisurei mihasra' \u2014 exactly what the 'Missing Yadot' prose describes.",
+      "chosen_heading": "Missing Yadot",
+      "current_heading": "Missing Yadot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Precedent Examples",
+    "candidates": [
+      "Precedent Examples",
+      "Exception Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Precedent Examples",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are the parallel examples from Shabbos mishnayot that illustrate the tana me'hahu de'salik principle, which is exactly what the 'Precedent Examples' prose describes.",
+      "second_heading": "Exception Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 4\u20136 present the counter-examples (behemah, nochalin) and the gemara's conclusion that neither ordering is a fixed rule, which matches precisely the 'Exception Rules' prose.",
+      "current_heading": "Precedent Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Exception Rules",
+    "candidates": [
+      "Exception Rules",
+      "Yadot Derasha",
+      "Final Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items articulate the gemara's case-by-case logic for when prohibitions or permitted cases come first \u2014 exactly what the 'Exception Rules' prose describes, including the behemah and nochalin examples.",
+      "chosen_heading": "Exception Rules",
+      "current_heading": "Exception Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Final Order",
+    "candidates": [
+      "Yadot Derasha",
+      "Final Order",
+      "Shmuel Context",
+      "Yad Categories",
+      "Ketubah Example",
+      "Nazir Before Him"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's discussion of why yadot are illustrated before kinuyim (item 1: because they are dear due to derasha) and why the mishnah still opens with kinuyim (item 2: one begins with the primary/ikar), which is precisely what heading 0 'Yadot Derasha' describes in its prose.",
+      "chosen_heading": "Yadot Derasha",
+      "current_heading": "Final Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Nazir Before Him",
+    "candidates": [
+      "Shmuel Context",
+      "Yad Categories",
+      "Ketubah Example",
+      "Nazir Before Him",
+      "Korban Alternative",
+      "Clarification Suffices"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Nazir Before Him",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with Shmuel's ruling about 'ahei' requiring a nazir passing before him and the inference about yad she-eino mokhiach, which is precisely what heading 3 ('Nazir Before Him') describes in its prose.",
+      "second_heading": "Korban Alternative",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the entirely new complication that 'ahei' might mean assuming responsibility for the nazir's korbanot, which is exactly what heading 4 ('Korban Alternative') addresses in its prose.",
+      "current_heading": "Nazir Before Him",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Clarification Suffices",
+    "candidates": [
+      "Korban Alternative",
+      "Clarification Suffices",
+      "Yad Works",
+      "Nazir Sinner?",
+      "Two Models",
+      "Mother's Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question of why the mishna needs to state the halakha and answers that we might have thought 'we require his mouth and heart to be identical' (piv u-libo shavin), which is precisely what the 'Clarification Suffices' section's prose describes.",
+      "chosen_heading": "Clarification Suffices",
+      "current_heading": "Clarification Suffices",
+      "moved": false
+    }
+  }
+]

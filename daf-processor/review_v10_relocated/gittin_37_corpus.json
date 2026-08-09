@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Temporary vs. Permanent",
+    "candidates": [
+      "Hillel's Authority",
+      "Balancing Obligations",
+      "Hefker Bet Din",
+      "Temporary vs. Permanent",
+      "Shmuel's Restriction",
+      "Intentional Limitation",
+      "Olban Shel Dayanim",
+      "Shmuel's Chutzpah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form one continuous sugya about whether Hillel instituted pruzbul for his generation only or for all generations, exactly matching the prose of candidate 3 ('Temporary vs. Permanent') which explicitly describes the iba'u lehu question, the l'mai nafka mina, and the principle of ein beit din yakhol levatel \u2014 with items 3-5 being the proofs from Shmuel that are part of that same unresolved dilemma.",
+      "chosen_heading": "Temporary vs. Permanent",
+      "current_heading": "Temporary vs. Permanent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Shmuel's Chutzpah",
+    "candidates": [
+      "Shmuel's Restriction",
+      "Intentional Limitation",
+      "Olban Shel Dayanim",
+      "Shmuel's Chutzpah",
+      "Cannot Annul Unilaterally",
+      "Automatic Pruzbul",
+      "Already Established",
+      "Rashi's View",
+      "Chisda's Meaning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rashi's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Nachman's statement that even without writing a pruzbul it is considered as written, which is precisely what heading 7 ('Rashi's View') discusses.",
+      "second_heading": "Shmuel's Chutzpah",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover the ulbena dilemma, Ulla's statement about the bride, and the baraita about those who are insulted but don't respond \u2014 all of which are explicitly described in the 'Shmuel's Chutzpah' prose as the aggadic passage triggered by the word ulbena.",
+      "current_heading": "Shmuel's Chutzpah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Chisda's Meaning",
+    "candidates": [
+      "Cannot Annul Unilaterally",
+      "Automatic Pruzbul",
+      "Already Established",
+      "Rashi's View",
+      "Chisda's Meaning",
+      "Greek Origins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items discuss the etymology of the word 'prosbol' \u2014 Rav \u1e24isda's explanation of 'pruz buli u-buti' and Rava's query to the foreigner yielding 'pursa de-milta' \u2014 which is precisely what the prose under 'Chisda's Meaning' describes.",
+      "chosen_heading": "Chisda's Meaning",
+      "current_heading": "Chisda's Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Greek Origins",
+    "candidates": [
+      "Greek Origins",
+      "Mishna's Rule",
+      "Limiting to Large Loans",
+      "Expanded Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about orphans not requiring a prosbol (Rav Yehuda/Shmuel and Rami bar \u1e24ama) is explicitly discussed in the 'Greek Origins' section's prose, which covers this exact ruling and its reasoning about Rabban Gamliel's court acting as fathers of orphans.",
+      "chosen_heading": "Greek Origins",
+      "current_heading": "Greek Origins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Expanded Land",
+    "candidates": [
+      "Mishna's Rule",
+      "Limiting to Large Loans",
+      "Expanded Land",
+      "Transfer Strategy",
+      "Perforated Pot",
+      "Borrowed Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna's rule about writing a prosbol on land, the transfer of a minimal parcel to enable a prosbol, Rav Chiyya bar Ashi/Rav's ruling about a cabbage stalk, and Rav Yehuda's ruling about borrowed oven space \u2014 exactly what the 'Expanded Land' prose describes.",
+      "chosen_heading": "Expanded Land",
+      "current_heading": "Expanded Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Borrowed Land",
+    "candidates": [
+      "Transfer Strategy",
+      "Perforated Pot",
+      "Borrowed Land",
+      "Palm Tree Trunk",
+      "Academy Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Hillel braita about the perforated pot and the Gemara's question-and-answer about why an unperforated pot fails even given Rav Yehuda's ruling about the place occupied \u2014 exactly the content described in the 'Perforated Pot' section's prose, not the 'Borrowed Land' section where it currently sits.",
+      "chosen_heading": "Perforated Pot",
+      "current_heading": "Borrowed Land",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Academy Practice",
+    "candidates": [
+      "Palm Tree Trunk",
+      "Academy Practice",
+      "Verbal Transfer",
+      "Basic Rule",
+      "Chain Debts",
+      "Rav Natan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three practices: Rav Ashi's palm-trunk transfer, the academy's verbal transfers, and Rabbi Yonatan's verbal transfer to Rabbi \u1e24iyya bar Abba \u2014 and the 'Palm Tree Trunk' heading's prose explicitly introduces Rav Ashi's gidma de-dikla practice which opens this passage, making it the natural home for the entire unit, while candidates 1 and 2 artificially split what is a single continuous Talmudic narrative.",
+      "chosen_heading": "Palm Tree Trunk",
+      "current_heading": "Academy Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Rav Natan",
+    "candidates": [
+      "Verbal Transfer",
+      "Basic Rule",
+      "Chain Debts",
+      "Rav Natan",
+      "All Annulled",
+      "Rav and Shmuel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Basic Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the basic rule about guarantor's land sufficing for a prosbol, matching candidate 1 ('Basic Rule') which explicitly discusses 'ein lo karka v'la-arev yesh lo karka' and the guarantor's land scenario.",
+      "second_heading": "Chain Debts",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbi Natan baraita about collecting through a chain of debtors, which candidate 2 ('Chain Debts') discusses as the basis for writing a prosbol when a third party owes money to the debtor, and candidate 3 ('Rav Natan') discusses as the derivation mechanism \u2014 but since item 1 already covers the basic rule under candidate 1, item 2 belongs under candidate 2 which introduces the chain-debt scenario that the Rabbi Natan source supports, or candidate 3 which is its current placement and specifically discusses the Rabbi Natan derivation; candidate 3's prose is a clearly better match for item 2's specific content about the verse-based derivation for bypassing intermediate links.",
+      "current_heading": "Rav Natan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav and Shmuel",
+    "candidates": [
+      "All Annulled",
+      "Rav and Shmuel",
+      "Yochanan Position",
+      "Right vs. Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav and Shmuel's interpretation of the Mishna \u2014 that 'with a note' means a note with property guarantee and 'without a note' means without such guarantee \u2014 which is precisely what the 'Rav and Shmuel' section's prose describes.",
+      "chosen_heading": "Rav and Shmuel",
+      "current_heading": "Rav and Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Right vs. Ownership",
+    "candidates": [
+      "Yochanan Position",
+      "Right vs. Ownership",
+      "Consequence",
+      "Supporting Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the position of Rabbi Yochanan and Resh Lakish \u2014 the three-category reading of the Mishna \u2014 which is precisely what the 'Yochanan Position' prose describes, not the conceptual analysis of lien-as-ownership found in 'Right vs. Ownership'.",
+      "chosen_heading": "Yochanan Position",
+      "current_heading": "Right vs. Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Supporting Braita",
+    "candidates": [
+      "Consequence",
+      "Supporting Braita",
+      "Assi's Case",
+      "Initial Opinion",
+      "Reversal",
+      "Beit Shammai"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Supporting Braita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the two baraitot supporting Rabbi Yochanan and Resh Lakish, which is precisely what the 'Supporting Braita' prose describes in detail.",
+      "second_heading": "Assi's Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the entirely new practical case of Rabbi Asi's relative with the shtar bearing achrayut, which is exactly what the 'Assi's Case' prose describes.",
+      "current_heading": "Supporting Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Beit Shammai",
+    "candidates": [
+      "Assi's Case",
+      "Initial Opinion",
+      "Reversal",
+      "Beit Shammai",
+      "Collateral and Court",
+      "Possession Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Asi pressing Rabbi Yochanan about the supporting baraita, and Rabbi Yochanan responding that it may follow Beit Shammai's position \u2014 which is exactly what the 'Beit Shammai' section's prose discusses.",
+      "chosen_heading": "Beit Shammai",
+      "current_heading": "Beit Shammai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Possession Logic",
+    "candidates": [
+      "Collateral and Court",
+      "Possession Logic",
+      "Living on Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishna from Shevi'it about collateral and court-transferred notes not being canceled by shmitta, and asks why collateral exempts the loan \u2014 this is precisely what Candidate 0's prose introduces as 'the baseline halacha that these two categories of debt are simply not subject to shmitta's annulment,' including the same question about collateral's rationale.",
+      "chosen_heading": "Collateral and Court",
+      "current_heading": "Possession Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Living on Property",
+    "candidates": [
+      "Possession Logic",
+      "Living on Property",
+      "Distinct Status",
+      "Yitzchak Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's explanation that holding collateral (tafis lei) exempts the debt from shmitta, followed by Abaye's challenge \u2014 this is precisely the content the 'Possession Logic' prose sets up: 'But the mashkon, the collateral case, requires its own explanation. Why should holding collateral exempt a loan from shmitta?'",
+      "chosen_heading": "Possession Logic",
+      "current_heading": "Living on Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Yitzchak Drasha",
+    "candidates": [
+      "Distinct Status",
+      "Yitzchak Drasha",
+      "Already Collected",
+      "Spectrum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rabbi Yitzchak drasha deriving creditor ownership of collateral from 'u-lecha tihiyeh tzedakah,' which is precisely what the 'Yitzchak Drasha' prose section describes and analyzes.",
+      "chosen_heading": "Yitzchak Drasha",
+      "current_heading": "Yitzchak Drasha",
+      "moved": false
+    }
+  }
+]

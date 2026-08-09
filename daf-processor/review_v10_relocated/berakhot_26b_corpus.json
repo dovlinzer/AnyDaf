@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Havdalah Contradictions",
+    "candidates": [
+      "Missed Mincha Setup",
+      "Obligation Then Makeup",
+      "Formal vs. Experiential",
+      "Havdalah Contradictions",
+      "Omitted Insertions",
+      "Source of Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items deal directly with the havdalah placement issue in makeup prayers \u2014 the baraita establishing the rule, the gemara's inference that missing havdalah invalidates the prayer, and the contradiction from the Tosefta about havdalah in Honen Hada'at \u2014 which is precisely what the 'Havdalah Contradictions' prose discusses.",
+      "chosen_heading": "Havdalah Contradictions",
+      "current_heading": "Havdalah Contradictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Source of Prayer",
+    "candidates": [
+      "Omitted Insertions",
+      "Source of Prayer",
+      "Avot Founders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the fundamental amoraic dispute between Rabbi Yosei b'Rabbi Chanina (prayers instituted by Patriarchs) and Rabbi Yehoshua ben Levi (prayers corresponding to daily offerings), which is precisely what the 'Source of Prayer' section's prose describes and analyzes.",
+      "chosen_heading": "Source of Prayer",
+      "current_heading": "Source of Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Avot Founders",
+    "candidates": [
+      "Avot Founders",
+      "All Prayer Times"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Avot Founders",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the baraita supporting Rabbi Yosei b'Rabbi Chanina, attributing each of the three daily prayers to one of the patriarchs, which exactly matches the 'Avot Founders' prose.",
+      "second_heading": "All Prayer Times",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents the baraita supporting Rabbi Yehoshua ben Levi, grounding prayer time limits in the times of the daily sacrifices (tamid), which exactly matches the 'All Prayer Times' prose.",
+      "current_heading": "Avot Founders",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "All Prayer Times",
+    "candidates": [
+      "All Prayer Times",
+      "Mincha Periods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the braita grounding prayer times in sacrificial times (Mincha, Ma'ariv, Musaf), which is precisely what the 'All Prayer Times' prose discusses in full detail, including these exact passages about Mincha until evening, the evening prayer having no fixed time, and Musaf all day.",
+      "chosen_heading": "All Prayer Times",
+      "current_heading": "All Prayer Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Mincha Periods",
+    "candidates": [
+      "Mincha Periods",
+      "Three Prayer Stages",
+      "Prayer Types Framework",
+      "Communal vs. Personal",
+      "Shacharit Cutoff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines mincha gedola and mincha ketana with their precise time boundaries, which directly matches the 'Mincha Periods' section prose discussing exactly these two windows and their timing.",
+      "chosen_heading": "Mincha Periods",
+      "current_heading": "Mincha Periods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Shacharit Cutoff",
+    "candidates": [
+      "Three Prayer Stages",
+      "Prayer Types Framework",
+      "Communal vs. Personal",
+      "Shacharit Cutoff",
+      "Model Synthesis",
+      "Musaf Evidence",
+      "Inclusive Cutoffs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the dilemma of which 'pelag hamincha' Rabbi Yehudah meant and resolves it via a baraita stating it is the last mincha \u2014 exactly what the 'Shacharit Cutoff' prose describes as a subsidiary clarification within Rabbi Yehudah's position regarding Mincha timing.",
+      "chosen_heading": "Shacharit Cutoff",
+      "current_heading": "Shacharit Cutoff",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Inclusive Cutoffs",
+    "candidates": [
+      "Model Synthesis",
+      "Musaf Evidence",
+      "Inclusive Cutoffs",
+      "Ben Bava Testimony"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Model Synthesis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the synthesis between the Avot model and korbanot model, including the Musaf proof \u2014 exactly what candidate 0 ('Model Synthesis') describes.",
+      "second_heading": "Inclusive Cutoffs",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 discuss the 'ad ve'ad bichlal' dilemma regarding Rabbi Yehuda's cutoff times and the Mincha/Musaf overlap case \u2014 precisely the content described in candidate 2 ('Inclusive Cutoffs').",
+      "current_heading": "Inclusive Cutoffs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Ben Bava Testimony",
+    "candidates": [
+      "Ben Bava Testimony",
+      "Rav Kahana Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Na\u1e25man's introduction, Rabbi Yehuda ben Bava's five testimonies, and the conclusion about 'until and including' \u2014 form the continuous Gemara passage about the ben Bava testimony anchoring the Shacharit ruling, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Ben Bava Testimony",
+      "current_heading": "Ben Bava Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav Kahana Ruling",
+    "candidates": [
+      "Rav Kahana Ruling",
+      "Manna Melting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's ruling that the halakha follows Rabbi Yehudah based on the Eduyot mishna, which is precisely what the 'Rav Kahana Ruling' section's prose discusses.",
+      "chosen_heading": "Rav Kahana Ruling",
+      "current_heading": "Rav Kahana Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Manna Melting",
+    "candidates": [
+      "Manna Melting",
+      "Two Halves",
+      "Shade/Sun Distinction",
+      "Boker Layers",
+      "Manna Prayer Link",
+      "Mincha Cutoff Debate",
+      "Shabbat Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Manna Melting",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the identification of the tanna behind the manna-melting-at-four-hours ruling and the resolution via 'ba-voker ba-voker,' which is precisely what the 'Manna Melting' prose describes.",
+      "second_heading": "Shade/Sun Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rabbi Acha bar Yaakov's sun-hot/shade-cool distinction identifying the fourth hour, which is exactly what the 'Shade/Sun Distinction' prose discusses.",
+      "current_heading": "Manna Melting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Shabbat Evidence",
+    "candidates": [
+      "Two Halves",
+      "Shade/Sun Distinction",
+      "Boker Layers",
+      "Manna Prayer Link",
+      "Mincha Cutoff Debate",
+      "Shabbat Evidence",
+      "No Ruling",
+      "Mincha/Maariv Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24isda asking Rav Yitz\u1e25ak about the Mincha ruling (after having ruled like Rabbi Yehuda for Shacharit), Rav Yitz\u1e25ak falling silent, and then Rav \u1e24isda beginning his own resolution \u2014 this content precisely matches the 'Mincha Cutoff Debate' prose which describes exactly this exchange including 'ishtik velo amar lei midi,' while the current 'Shabbat Evidence' heading covers only the subsequent inference from Rav's early Shabbat davening.",
+      "chosen_heading": "Mincha Cutoff Debate",
+      "current_heading": "Shabbat Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Mincha/Maariv Link",
+    "candidates": [
+      "No Ruling",
+      "Mincha/Maariv Link",
+      "Early Shabbat Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically the gemara's conclusion that no halakha was ruled either way (*deaved kemar*), which directly matches the 'No Ruling' section's prose about the formal declaration of inconclusive debate and the *deaved kemar* outcome.",
+      "chosen_heading": "No Ruling",
+      "current_heading": "Mincha/Maariv Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Early Shabbat Story",
+    "candidates": [
+      "Mincha/Maariv Link",
+      "Early Shabbat Story",
+      "Three Lessons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage narrates the Rav/Geniva story itself, which is precisely what the 'Early Shabbat Story' prose section describes \u2014 Rav davening Maariv for Shabbat before sunset while Rabbi Yirmiyah bar Abba davened behind him, matching the current placement exactly.",
+      "chosen_heading": "Early Shabbat Story",
+      "current_heading": "Early Shabbat Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Three Lessons",
+    "candidates": [
+      "Three Lessons",
+      "Four Amos Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four Amos Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the prohibition of passing before those praying and the four-amot rule, which matches exactly the 'Four Amos Rule' prose about Rabbi Yehoshua ben Levi's ruling and the Rabbi Ammi/Rabbi Assi resolution.",
+      "second_heading": "Three Lessons",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 discuss the prohibition against praying behind one's rabbi (lo achorei rabbo), which corresponds to the 'Three Lessons' prose discussing the second lesson that a student may daven behind his rebbe and the related concerns.",
+      "current_heading": "Three Lessons",
+      "moved": true
+    }
+  }
+]

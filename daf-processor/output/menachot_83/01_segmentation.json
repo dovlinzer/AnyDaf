@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The General Pasuk 'Zot HaTorah' and Laws Derived from Each Sacrifice",
@@ -73,7 +73,7 @@
           "timestamp": "24:00"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -102,7 +102,7 @@
           "timestamp": "32:47"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -150,7 +150,7 @@
           "timestamp": "46:40"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -179,7 +179,7 @@
           "timestamp": "52:00"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -193,7 +193,7 @@
           "timestamp": "53:14"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 24,
       "matched": false
     }
   ],
@@ -337,5 +337,7 @@
   "amud_b_segment_index": 2,
   "amud_b_timestamp": "29:35",
   "amud_b_micro_title": "Akiva: Chatat Only",
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "shiur_start_daf": 82,
+  "shiur_start_amud": "b"
 }

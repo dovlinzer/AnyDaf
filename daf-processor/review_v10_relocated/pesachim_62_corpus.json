@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rabba's View on Arelim",
+    "candidates": [
+      "Rabba vs. Rav Chisda",
+      "Rav Ashi's Resolution",
+      "Shelo Limnuiav Concept",
+      "Rabba's View on Arelim",
+      "Rav Chisda: Arelim Hoil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's reframing of the dispute as rooted in the verse 'venirtza lo lechapper alav' and explains Rabba's interpretation of 'alav velo chaveiro,' which corresponds directly to the prose of heading 1 ('Rav Ashi's Resolution') that introduces exactly this verse and this reframing.",
+      "chosen_heading": "Rav Ashi's Resolution",
+      "current_heading": "Rabba's View on Arelim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rav Chisda: Arelim Hoil",
+    "candidates": [
+      "Rabba's View on Arelim",
+      "Rav Chisda: Arelim Hoil",
+      "Hoil Principle Examined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Chisda's position that the arel is bar kapparah because he could circumcise himself (ho'il de-i ba'ei matkan nafshei), which is precisely what candidate 1's prose describes and analyzes.",
+      "chosen_heading": "Rav Chisda: Arelim Hoil",
+      "current_heading": "Rav Chisda: Arelim Hoil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Hoil Principle Examined",
+    "candidates": [
+      "Hoil Principle Examined",
+      "Tosafot on Hoil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge to Rav \u1e24isda's use of 'ho'il' via the baking-on-Yom-Tov case and the explanation of Rabba's and Rav \u1e24isda's positions, which is precisely the content described in the 'Hoil Principle Examined' prose.",
+      "chosen_heading": "Hoil Principle Examined",
+      "current_heading": "Hoil Principle Examined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Tosafot on Hoil",
+    "candidates": [
+      "Tosafot on Hoil",
+      "Baraita Comparison",
+      "Analogy Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic text resolving the contradiction between Rav \u1e24isda's rulings via the kula/chumra distinction, which is precisely what the prose under 'Tosafot on Hoil' discusses and analyzes.",
+      "chosen_heading": "Tosafot on Hoil",
+      "current_heading": "Tosafot on Hoil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Analogy Problem",
+    "candidates": [
+      "Baraita Comparison",
+      "Analogy Problem",
+      "Tumat Basar Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge to the baraita's tumah analogy \u2014 asking what case of tumah is meant and why the halacha of tumah would be obvious while orlah remains in doubt \u2014 which is precisely what the 'Analogy Problem' prose describes.",
+      "chosen_heading": "Analogy Problem",
+      "current_heading": "Analogy Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Tumat Basar Solution",
+    "candidates": [
+      "Tumat Basar Solution",
+      "Pesach Meat Tamei Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Tumat Basar Solution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the tumat basar/tumat gavra distinction and Ravina's resolution that shem tumah unifies both clauses, matching exactly the 'Tumat Basar Solution' prose.",
+      "second_heading": "Pesach Meat Tamei Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces a new alternative answer (ve'ibayit eima) explaining that zerika is invalid when only fat remains for korban pesach because it is eat-focused, which is precisely what the 'Pesach Meat Tamei Rule' prose describes.",
+      "current_heading": "Tumat Basar Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Pesach Meat Tamei Rule",
+    "candidates": [
+      "Pesach Meat Tamei Rule",
+      "Pesach Be'tumah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about nitma chelev/basar by korban pesach, which is exactly what the prose of heading 0 ('Pesach Meat Tamei Rule') discusses and even quotes verbatim.",
+      "chosen_heading": "Pesach Meat Tamei Rule",
+      "current_heading": "Pesach Meat Tamei Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Pesach Be'tumah Exception",
+    "candidates": [
+      "Pesach Be'tumah Exception",
+      "Aged Animal Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about whether the baraita's clauses refer to tumat basar or tumat gavrei, culminating in the ve'iba'it eima answer about pesach haba be'tumah \u2014 precisely what candidate 0's prose describes.",
+      "chosen_heading": "Pesach Be'tumah Exception",
+      "current_heading": "Pesach Be'tumah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Aged Animal Case",
+    "candidates": [
+      "Aged Animal Case",
+      "Rabbi Eliezer Debate",
+      "Hoil and Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's objection and the baraita's two cases (aged pesach slaughtered lishmo, and shelamim slaughtered l'shem pesach), which is precisely what the 'Aged Animal Case' prose describes in detail, before the dispute between Rabbi Eliezer and Rabbi Yehoshua is treated separately.",
+      "chosen_heading": "Aged Animal Case",
+      "current_heading": "Aged Animal Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Hoil and Timing",
+    "candidates": [
+      "Rabbi Eliezer Debate",
+      "Hoil and Timing",
+      "Rav Papa Resolution",
+      "Learning Request",
+      "Refusal and Brurya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: the Gemara's inference about bizmano/shelo bizmano and the ho'il challenge (item 1), Rav Pappa's resolution via the verse 'hu' (item 2), and the resulting symmetrical ruling (item 3) \u2014 exactly the content described in both heading 1 ('Hoil and Timing') and heading 2 ('Rav Papa Resolution'), but since the current placement at heading 1 already encompasses the ho'il question that launches this entire unit and heading 2's prose covers Rav Papa's answer which is items 2-3, a split might seem tempting; however, all three items are one unbroken sugya and the current heading 1 prose explicitly describes the ho'il question and anticipates the resolution, making it the better single home for the whole passage.",
+      "chosen_heading": "Hoil and Timing",
+      "current_heading": "Hoil and Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Refusal and Brurya",
+    "candidates": [
+      "Rav Papa Resolution",
+      "Learning Request",
+      "Refusal and Brurya",
+      "Lishm\u043e vs. Le'ochlav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items depict the exact sequence described in candidate 2's prose: Rabbi Yochanan's refusal citing Lod/Neharde'a, Rav Simlai pressing until he agreed, and then the Brurya episode when Simlai requested three months \u2014 all of which are explicitly narrated in the 'Refusal and Brurya' section.",
+      "chosen_heading": "Refusal and Brurya",
+      "current_heading": "Refusal and Brurya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Lishm\u043e vs. Le'ochlav",
+    "candidates": [
+      "Lishm\u043e vs. Le'ochlav",
+      "Four Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Simlai posing the question about the difference between shelo lishmo and shelo le'ochlav, which is precisely what heading 0's prose describes as the moment Simlai asked Rabbi Yochanan this lomdus question before Rabbi Yochanan answered it.",
+      "chosen_heading": "Lishm\u043e vs. Le'ochlav",
+      "current_heading": "Lishm\u043e vs. Le'ochlav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Four Distinctions",
+    "candidates": [
+      "Four Distinctions",
+      "Rav Ashi Unifies",
+      "Sefer Yuchsin Hidden"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Four Distinctions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the four distinctions between shelo lishmo and shelo le'ochlav that are discussed in detail under the 'Four Distinctions' prose.",
+      "second_heading": "Rav Ashi Unifies",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Ashi's conclusion that the first two distinctions are actually one and the same point, which is precisely what the 'Rav Ashi Unifies' prose describes.",
+      "current_heading": "Four Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Sefer Yuchsin Hidden",
+    "candidates": [
+      "Rav Ashi Unifies",
+      "Sefer Yuchsin Hidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rami bar Rav Yuda's statement about the hidden Book of Genealogies weakening the Sages, and Mar Zutra's illustration of its vast content via the Azel-to-Azel camel-loads \u2014 are explicitly discussed together in the 'Sefer Yuchsin Hidden' prose, which is exactly where they currently sit.",
+      "chosen_heading": "Sefer Yuchsin Hidden",
+      "current_heading": "Sefer Yuchsin Hidden",
+      "moved": false
+    }
+  }
+]

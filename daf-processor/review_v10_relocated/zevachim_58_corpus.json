@@ -1,0 +1,266 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Yosi bar Yehuda: Altar",
+    "candidates": [
+      "Perek Opening",
+      "North Slaughter Rule",
+      "Top of Altar Issue",
+      "Yosi: Whole Altar",
+      "Yosi bar Yehuda: Altar",
+      "As If Analysis",
+      "Altar in North",
+      "Zeira Challenge",
+      "Below Altar Proof",
+      "Verse Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna passage presents the initial case of kodshei kodashim slaughtered atop the altar and the two opinions about it, which corresponds exactly to the 'Top of Altar Issue' section that introduces this precise scenario before separately analyzing Rabbi Yosi's opinion and Rabbi Yosi bar Rabbi Yehuda's opinion in subsequent sections.",
+      "chosen_heading": "Top of Altar Issue",
+      "current_heading": "Yosi bar Yehuda: Altar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Verse Interpretation",
+    "candidates": [
+      "As If Analysis",
+      "Altar in North",
+      "Zeira Challenge",
+      "Below Altar Proof",
+      "Verse Interpretation",
+      "Ground Below Query",
+      "Sovev Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All seven items together form the gemara's discussion of how Rabbi Yochanan reframes the mishnaic dispute as a debate about interpreting the verse 'vezavachta alav,' which is precisely what candidate 4 ('Verse Interpretation') describes in its prose.",
+      "chosen_heading": "Verse Interpretation",
+      "current_heading": "Verse Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Sovev Solution",
+    "candidates": [
+      "Ground Below Query",
+      "Sovev Solution",
+      "Tunnels Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the initial question of what 'kenegdan bakarka' means and introduces the sovev/yesod possibility as a first suggestion, which corresponds exactly to the 'Ground Below Query' section that frames this as a practical question about how one gets to ground level beneath the altar \u2014 the rejection of the sovev/yesod interpretation is then the content of 'Sovev Solution'.",
+      "chosen_heading": "Ground Below Query",
+      "current_heading": "Sovev Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Tunnels Rejected",
+    "candidates": [
+      "Sovev Solution",
+      "Tunnels Rejected",
+      "Reconfiguration",
+      "Tamid Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tunnels Rejected",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the tunnel objection and its baraita rejection, which matches exactly the 'Tunnels Rejected' prose describing mechilot/kippin and the mizbeach adama derivation.",
+      "second_heading": "Reconfiguration",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the de-batzrei bitzurei answer (the altar was reduced in size), which matches exactly the 'Reconfiguration' prose describing that precise scenario.",
+      "current_heading": "Tunnels Rejected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Tamid Source",
+    "candidates": [
+      "Reconfiguration",
+      "Tamid Source",
+      "Four Amot Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Zeira questioning whether Rabbi Yochanan's statement has Tannaitic support, which directly precedes and motivates the search for the Tamid mishna described in the 'Tamid Source' prose section.",
+      "chosen_heading": "Tamid Source",
+      "current_heading": "Tamid Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Four Amot Location",
+    "candidates": [
+      "Four Amot Location",
+      "Inside/Outside Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Tamid mishna itself (with its details about the four amot, five/eight se'in of coals, and the shewbread frankincense), which is exactly what candidate 0's prose is expounding upon in detail.",
+      "chosen_heading": "Four Amot Location",
+      "current_heading": "Four Amot Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Inside/Outside Principle",
+    "candidates": [
+      "Inside/Outside Principle",
+      "Frankincense Evidence",
+      "All South Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Inside/Outside Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 correspond precisely to candidate 0's prose, which describes Rabbi Yosi's inside/outside principle and the gemara's clarification that shirayim and Yom Kippur coals are already covered by explicit verses.",
+      "second_heading": "Frankincense Evidence",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20137 identify the actual subjects of Rabbi Yosi's rule (frankincense bowls and daily coals), which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Inside/Outside Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "All South Theory",
+    "candidates": [
+      "Frankincense Evidence",
+      "All South Theory",
+      "Half/Half Theory",
+      "All North Theory",
+      "Base Components"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous Talmudic discussion testing the three scenarios (entire altar in south, half/half, entire altar in north) against Rabbi Yosi's four-cubit measurement, which is exactly what the 'All South Theory' prose describes as the gemara's logical analysis of the three scenarios.",
+      "chosen_heading": "All South Theory",
+      "current_heading": "All South Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Base Components",
+    "candidates": [
+      "Half/Half Theory",
+      "All North Theory",
+      "Base Components",
+      "Yehuda Centered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly breaks down the four cubits (yesod, sovev, corner projections, kohanim walkway) and concludes this proves the altar is entirely in the north \u2014 exactly what the 'Base Components' section's prose discusses.",
+      "chosen_heading": "Base Components",
+      "current_heading": "Base Components",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Yehuda Centered",
+    "candidates": [
+      "Yehuda Centered",
+      "Top Measurement",
+      "Attribution Question",
+      "Yehuda Explicit",
+      "HaGalili Intro",
+      "Kiyor Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous discussion: Rabbi Yehuda's centered-altar position, the challenge that four cubits doesn't reach the heichal/ulam zone, the resolution via yesod/sovev, and why the mishnah is attributed to Rabbi Yehuda rather than Rabbi Yosi \u2014 exactly what the 'Yehuda Centered' prose describes.",
+      "chosen_heading": "Yehuda Centered",
+      "current_heading": "Yehuda Centered",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Kiyor Evidence",
+    "candidates": [
+      "Top Measurement",
+      "Attribution Question",
+      "Yehuda Explicit",
+      "HaGalili Intro",
+      "Kiyor Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Sherevya's attribution of the Tamid mishnah to Rabbi Yosi HaGalili and begins the baraita in his name, which matches the 'HaGalili Intro' section prose exactly, while 'Kiyor Evidence' describes the content of the baraita analysis that follows after the introduction.",
+      "chosen_heading": "HaGalili Intro",
+      "current_heading": "Kiyor Evidence",
+      "moved": true
+    }
+  }
+]

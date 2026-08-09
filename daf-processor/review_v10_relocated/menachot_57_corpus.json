@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Sourdough Case",
+    "candidates": [
+      "Defect Creation",
+      "Sourdough Case",
+      "Tosafot Analysis",
+      "Meat on Coals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items discuss the Shabbat cooking parallel \u2014 placing meat on coals, flipping vs. not flipping, and Rava's resolution equating the sourdough case to the roasting act \u2014 which is precisely what the 'Meat on Coals' prose section describes as the Gemara's sustained digression on cooking on Shabbat.",
+      "chosen_heading": "Meat on Coals",
+      "current_heading": "Sourdough Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Meat on Coals",
+    "candidates": [
+      "Tosafot Analysis",
+      "Meat on Coals",
+      "Maachal Ben Drusai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the opening question of the meat-on-coals case (gufa, hiniach basar al gabei gechalim) and the Gemara's initial challenge about the circumstances, which is precisely what the 'Meat on Coals' section's prose describes and analyzes.",
+      "chosen_heading": "Meat on Coals",
+      "current_heading": "Meat on Coals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Maachal Ben Drusai",
+    "candidates": [
+      "Maachal Ben Drusai",
+      "Roasting Standard",
+      "Multiple Locations",
+      "Hole Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's answer about one-sided versus two-sided cooking to the level of maachal Ben Drusai, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Maachal Ben Drusai",
+      "current_heading": "Maachal Ben Drusai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Hole Analogy",
+    "candidates": [
+      "Roasting Standard",
+      "Multiple Locations",
+      "Hole Analogy",
+      "Scope Derivation",
+      "Kashrus Requirement",
+      "Pasul Yotzei",
+      "Teiku",
+      "Placement Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 1 ('Multiple Locations') describes: Rava's ruling about a grogeret in one place, Ravina's challenge about whether distributed spots can combine, and the drilling mishna analogy with its resolution \u2014 all of which candidate 1's prose explicitly covers, while candidate 2 ('Hole Analogy') covers only the drilling portion without the opening context.",
+      "chosen_heading": "Multiple Locations",
+      "current_heading": "Hole Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Placement Status",
+    "candidates": [
+      "Scope Derivation",
+      "Kashrus Requirement",
+      "Pasul Yotzei",
+      "Teiku",
+      "Placement Status",
+      "RYH vs RA"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Scope Derivation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the baraita deriving the scope of the chametz prohibition and the kashrus requirement from the verse, matching the 'Scope Derivation' section's prose about the same baraita.",
+      "second_heading": "Pasul Yotzei",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-7 cover Rav Pappa's dilemma about pasul yotzei and Rav Mari's dilemma about placement at the mizbeach top, best matching the 'Pasul Yotzei' section which introduces Rav Pappa's question.",
+      "current_heading": "Placement Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "RYH vs RA",
+    "candidates": [
+      "RYH vs RA",
+      "Nesachim Problem",
+      "Water Addition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about 'asher takrivu' and the baraita recording Rabbi Yose HaGelili's and Rabbi Akiva's positions on including minchas nesachim and lechem hapanim in the chametz prohibition, which is precisely what the 'RYH vs RA' section prose discusses.",
+      "chosen_heading": "RYH vs RA",
+      "current_heading": "RYH vs RA",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Water Addition",
+    "candidates": [
+      "Nesachim Problem",
+      "Water Addition",
+      "Kedusha Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the problem that minchas nesachim uses fruit juice (oil) which doesn't leaven, followed immediately by Reish Lakish's answer that water may be added \u2014 this is exactly the content described in heading 0 ('Nesachim Problem'), which covers both the question and its resolution, whereas heading 1 ('Water Addition') describes the same material but the passage currently sits there when the prose of heading 0 is clearly the better match for the complete unit including the Reish Lakish response.",
+      "chosen_heading": "Nesachim Problem",
+      "current_heading": "Water Addition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Kedusha Timing",
+    "candidates": [
+      "Water Addition",
+      "Kedusha Timing",
+      "Name Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's question about lechem hapanim using dry measures and Rabbi Akiva's position that dry measuring vessels were not consecrated, which is precisely the content discussed in the 'Kedusha Timing' section prose.",
+      "chosen_heading": "Kedusha Timing",
+      "current_heading": "Kedusha Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Name Reversal",
+    "candidates": [
+      "Name Reversal",
+      "Sanctified Dry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Reuven's letter citing Rabbi Yochanan's correction of the baraita's attribution, which is precisely the name-reversal content discussed in candidate 0's prose.",
+      "chosen_heading": "Name Reversal",
+      "current_heading": "Name Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Sanctified Dry",
+    "candidates": [
+      "Sanctified Dry",
+      "Inside Only",
+      "Proof Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yo\u1e25anan's statement connecting Rabbi Yosei HaGelili with Rabbi Yoshiya, and then the baraita with Rabbi Yoshiya's ruling that dry measures were anointed inside but not outside \u2014 exactly the content described in the 'Sanctified Dry' prose.",
+      "chosen_heading": "Sanctified Dry",
+      "current_heading": "Sanctified Dry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Proof Text",
+    "candidates": [
+      "Inside Only",
+      "Proof Text",
+      "Debate Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yonatan's statement and proof text about dry measures not being anointed at all, with the verse from Leviticus 23:17 and its interpretation \u2014 exactly what the 'Proof Text' section's prose discusses in detail.",
+      "chosen_heading": "Proof Text",
+      "current_heading": "Proof Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Debate Summary",
+    "candidates": [
+      "Debate Summary",
+      "Bisah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dispute between Rabbi Yoshiya and Rabbi Yonatan over the word 'osam' and its exclusion of dry vs. liquid measures, and the question of aligning Rabbi Akiva with Rabbi Yonatan \u2014 exactly the content described in the 'Debate Summary' prose.",
+      "chosen_heading": "Debate Summary",
+      "current_heading": "Debate Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Bisah Question",
+    "candidates": [
+      "Bisah Question",
+      "Standard Practice",
+      "Measure Vs Knead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange about the bisa (kneading trough) and Abaye's response about kneading on a katavliyya, which is precisely what the 'Bisah Question' prose describes.",
+      "chosen_heading": "Bisah Question",
+      "current_heading": "Bisah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Measure Vs Knead",
+    "candidates": [
+      "Standard Practice",
+      "Measure Vs Knead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question about why Rabbi Yoshiya couldn't rebut with 'non-sacred isaron' and the response distinguishing prescribed measuring (isaron) from unprescribed kneading (bisa), which is precisely what the 'Measure Vs Knead' prose describes.",
+      "chosen_heading": "Measure Vs Knead",
+      "current_heading": "Measure Vs Knead",
+      "moved": false
+    }
+  }
+]

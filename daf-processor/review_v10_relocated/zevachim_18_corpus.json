@@ -1,0 +1,346 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Introduction",
+      "Gezeirah Shavah",
+      "Learning Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the gezeirah shavah derivation linking shtuyei yayin to mechusar begadim via the word 'chukah,' which is precisely what the 'Gezeirah Shavah' section's prose describes.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Learning Direction",
+    "candidates": [
+      "Learning Direction",
+      "No Distinction",
+      "Rav's Translator",
+      "Vayikra 1:7"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the direction of the gezeirah shavah learning and the unification of the three categories (mechusar begadim, shtuyei yayin, lo rachutz yadayim ve-raglayim) under 'chuka chuka,' which is precisely what the 'Learning Direction' prose describes.",
+      "chosen_heading": "Learning Direction",
+      "current_heading": "Learning Direction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Vayikra 1:7",
+    "candidates": [
+      "No Distinction",
+      "Rav's Translator",
+      "Vayikra 1:7",
+      "Deficiency Implication"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Translator",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about why the verse 'u-lehavdil' is needed beyond the gezeirah shavah, specifically deriving Rav's practice of not placing his translator before him due to wine on Yom Tov \u2014 exactly what heading 1 ('Rav's Translator') describes.",
+      "second_heading": "Deficiency Implication",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives from Vayikra 1:7 that a Kohen Gadol who wore ordinary priestly vestments has invalidated service \u2014 this is precisely the 'chisur/deficiency' ruling described in heading 3 ('Deficiency Implication').",
+      "current_heading": "Vayikra 1:7",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Deficiency Implication",
+    "candidates": [
+      "Vayikra 1:7",
+      "Deficiency Implication",
+      "Vayikra 1:8",
+      "Excess Implication",
+      "Two Sources Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Deficiency Implication",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the limitation that a derivation from a prior source might apply only to avodot meakev kapara, which is exactly what the 'Deficiency Implication' prose discusses as the extension of mechusar begadim to non-core avodot via Vayikra 1:7.",
+      "second_heading": "Vayikra 1:8",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the derivation from Vayikra 1:8 with 've-archu bnei Aharon ha-kohanim' and the kohen hedyot wearing Kohen Gadol vestments, which matches precisely the 'Vayikra 1:8' prose section.",
+      "current_heading": "Deficiency Implication",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Two Sources Needed",
+    "candidates": [
+      "Vayikra 1:8",
+      "Excess Implication",
+      "Two Sources Needed",
+      "Condition List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses why two sources are needed \u2014 distinguishing chisur (lack) from yitur (excess) \u2014 which is precisely what the 'Two Sources Needed' section's prose discusses, and it is already correctly placed there.",
+      "chosen_heading": "Two Sources Needed",
+      "current_heading": "Two Sources Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Condition List",
+    "candidates": [
+      "Condition List",
+      "Invalidating Conditions",
+      "Mido Derivation",
+      "Soiled and Torn",
+      "Shmuel's Position",
+      "Rami's Resolution",
+      "Rav's Position",
+      "Belt Function",
+      "Rav Huna Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing both the valid conditions (merushalin, mesulakin, meshuchakim) and the invalid ones (two trousers, bandage, soiled, torn), which corresponds exactly to the 'Condition List' section's prose describing this very baraita and its ruling that these variations are kasher \u2014 the invalidating cases in item 2 are the tail end of the same baraita, covered under 'Invalidating Conditions' only in prose summary, not as the primary home of the quoted text.",
+      "chosen_heading": "Condition List",
+      "current_heading": "Condition List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Rav Huna Story",
+    "candidates": [
+      "Invalidating Conditions",
+      "Mido Derivation",
+      "Soiled and Torn",
+      "Shmuel's Position",
+      "Rami's Resolution",
+      "Rav's Position",
+      "Belt Function",
+      "Rav Huna Story",
+      "Four Corners Debate",
+      "Five Corners Included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All five items form one continuous discussion covering Shmuel's position, Rami bar \u1e24ama's resolution, Rav's position, the Rav Huna story, and Rabbi Zeira's clarification \u2014 exactly the content described in the 'Rav Huna Story' section's prose, which explicitly covers the contradiction raised, Rami bar \u1e24ama's answer, the remaining difficulty for Rav, and the role of the avnet.",
+      "chosen_heading": "Rav Huna Story",
+      "current_heading": "Rav Huna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Five Corners Included",
+    "candidates": [
+      "Four Corners Debate",
+      "Five Corners Included",
+      "Visibility Requirement",
+      "Night vs. Blind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about the five-corners debate \u2014 the two competing baraitot and the gemara's resolution \u2014 which matches exactly what candidate 1 ('Five Corners Included') describes in its prose.",
+      "chosen_heading": "Five Corners Included",
+      "current_heading": "Five Corners Included",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Night vs. Blind",
+    "candidates": [
+      "Visibility Requirement",
+      "Night vs. Blind",
+      "Bad Qualities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the derivation from 'asher techaseh bah' and 'u-re'item' regarding blind persons' garments vs. night garments, and the dispute over whether 'asher' is used as a textual expansion \u2014 exactly what candidate 1 ('Night vs. Blind') describes in its prose.",
+      "chosen_heading": "Night vs. Blind",
+      "current_heading": "Night vs. Blind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Bad Qualities",
+    "candidates": [
+      "Bad Qualities",
+      "New vs. Worn",
+      "Bad Interpretation",
+      "Chumra vs. Meakev",
+      "Bad is Flax"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form one continuous unit: the baraita listing the five 'bad' requirements (item 1), Abaye's challenge about 'new' vs. worn (item 2), and Rav Yosef's reframing resolution (item 3) \u2014 this entire exchange is precisely what candidate 0's prose describes as 'a new tanu rabbanan enumerating the qualities required of the priestly linen' with the five derived requirements, which matches the current placement.",
+      "chosen_heading": "Bad Qualities",
+      "current_heading": "Bad Qualities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Bad is Flax",
+    "candidates": [
+      "New vs. Worn",
+      "Bad Interpretation",
+      "Chumra vs. Meakev",
+      "Bad is Flax",
+      "Yechezkel Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of why 'bad' means flax (not wool), exactly matching the 'Bad is Flax' section's prose about davar ha-oleh min ha-karka bad be-vad and the wool/flax splitting question.",
+      "chosen_heading": "Bad is Flax",
+      "current_heading": "Bad is Flax",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Yechezkel Support",
+    "candidates": [
+      "Yechezkel Support",
+      "Ravina Citation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's citation of Yechezkel 44:18 to identify 'bad' as flax, which matches exactly the 'Yechezkel Support' section's prose describing Ravina's source from that verse, while candidate 1 is about Rav Ashi's objection to Ravina's proof rather than the proof itself.",
+      "chosen_heading": "Yechezkel Support",
+      "current_heading": "Yechezkel Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Ravina Citation",
+    "candidates": [
+      "Ravina Citation",
+      "Sweat Restriction",
+      "Elbow Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav Ashi's objection to Ravina regarding pre-Ezekiel derivation and the answer that traditions (gemara gemiri lei) preceded Ezekiel's scriptural anchoring, which is exactly what Candidate 0's prose describes.",
+      "chosen_heading": "Ravina Citation",
+      "current_heading": "Ravina Citation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Elbow Height",
+    "candidates": [
+      "Sweat Restriction",
+      "Elbow Height",
+      "King Izgadar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Abaye interpretation and the baraita elaboration about where the belt must not be placed due to sweating \u2014 the complete unit belongs under 'Sweat Restriction' whose prose explicitly describes Abaye's ruling and the baraita about positioning, not under 'Elbow Height' which covers only the concluding detail.",
+      "chosen_heading": "Sweat Restriction",
+      "current_heading": "Elbow Height",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "King Izgadar",
+    "candidates": [
+      "Elbow Height",
+      "King Izgadar",
+      "Priestly Nation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage recounts the encounter with Izgadar and the citation of 'mamlechet kohanim,' which is precisely what the 'King Izgadar' section's prose describes, while the 'Priestly Nation' section covers Ameimar's follow-up comment separately.",
+      "chosen_heading": "King Izgadar",
+      "current_heading": "King Izgadar",
+      "moved": false
+    }
+  }
+]

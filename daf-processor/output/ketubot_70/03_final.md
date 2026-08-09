@@ -1,6 +1,7 @@
-# Ketubot 70 — Daf Yomi Shiur
-
+[DAF:70a]
 ## Perek Hamadir Intro
+
+
 
 ### Perek Order Debate
 
@@ -18,19 +19,21 @@ The final *mishnah* of the preceding perek dealt with the case of a father trans
 
 ## Hamadir Ishto
 
+
+
 ### Vow Forbids Benefit
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַמַּדִּיר אֶת אִשְׁתּוֹ מִלֵּיהָנוֹת לוֹ, עַד שְׁלֹשִׁים יוֹם יַעֲמִיד פַּרְנָס. יָתֵר מִיכֵּן — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
->
-> **Translation:** MISHNA: With regard to **one who vows** and obligates **his wife,** prohibiting her **from benefiting from him** or his property, if his vow will remain in effect for **up to thirty days, he must appoint a trustee [*parnas*]** to support her. But if the vow will remain in effect for **more than this** amount of time, **he must divorce** her **and give** her the payment of her **marriage contract.**
-
 The *mishnah* opens: *hamadir ishto mileihanos lo* — if a man vows that his wife may not derive any *hana'ah* from him. The mechanism is straightforward: one may declare one's possessions or the benefit flowing from oneself as *asur* to another person. Here the husband declares that all *hana'ah* from him is forbidden to his wife. The *gemara* will focus specifically on the *chiyuv mezonot* — the husband's obligation to provide her sustenance.
+
+> **Hebrew/Aramaic:** הַמַּדִּיר אֶת אִשְׁתּוֹ מִלֵּיהָנוֹת לוֹ, עַד שְׁלֹשִׁים יוֹם יַעֲמִיד פַּרְנָס. יָתֵר מִיכֵּן — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
+> **Translation:** MISHNA: With regard to **one who vows** and obligates **his wife,** prohibiting her **from benefiting from him** or his property, if his vow will remain in effect for **up to thirty days, he must appoint a trustee [*parnas*]** to support her. But if the vow will remain in effect for **more than this** amount of time, **he must divorce** her **and give** her the payment of her **marriage contract.**
 
 ### Why Not Onah
 
 One might immediately ask: what about *mitzvas onah*? How can the husband vow against the *mitzvah* of marital relations? The *gemara* largely sets this aside, and the *Rishonim* will explain why — that point is taken up shortly. For now, the *mishnah* focuses its analysis on *mezonot*.
 
 ### 30-Day Rule
+
 
 The *mishnah* provides the following resolution: *ad shloshim yom ya'amid parnas* — for up to thirty days, the husband may arrange for a third party, a *parnas*, to provide his wife's *mezonot*. Of course, the *gemara* will probe this immediately: if the husband arranges for the third party, is that third party not simply acting as his *shaliach*, such that the wife is still effectively receiving *hana'ah* from the husband? We will see how the *gemara* resolves that. But the *mishnah*'s basic structure is: up to thirty days, the arrangement with a third party is workable. Beyond that — *yotzi v'yiten kesuvah* — he must divorce her and pay the *kesuvah*. Even in cases where, as we learned earlier, a husband and wife may maintain separate domicile with the husband providing for her, the contentiousness of a *neder* makes the relationship unsustainable beyond thirty days.
 
@@ -40,8 +43,7 @@ A question naturally arises about how to read the thirty-day threshold. Does the
 
 ### Yehuda: Months
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: בְּיִשְׂרָאֵל, חֹדֶשׁ אֶחָד — יְקַיֵּים, וּשְׁנַיִם — יוֹצִיא וְיִתֵּן כְּתוּבָּה. בְּכֹהֵן, שְׁנַיִם — יְקַיֵּים, וּשְׁלֹשָׁה — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
->
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: בְּיִשְׂרָאֵל, חֹדֶשׁ אֶחָד — יְקַיֵּים, וּשְׁנַיִם — יוֹצִיא וְיִתֵּן כְּתוּבָּה. בְּכֹהֵן, שְׁנַיִם — יְקַיֵּים, וּשְׁלֹשָׁה — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
 > **Translation:** **Rabbi Yehuda says: If** the husband is an **Israelite,** then if his vow will remain in effect for up to **one month, he may maintain** her as his wife; **and** if it will be **two** months, **he must divorce** her **and give** her the payment of her **marriage contract.** But **if** he is **a priest,** then he is given extra time: If the vow will remain in effect for up to **two** months, **he may maintain** her, **and** if it will be **three** months, **he must divorce** her **and give** her the payment of her **marriage contract.** The reason for this is that it is prohibited for a priest to marry a divorcée, including his own ex-wife, and therefore if he divorces her and later regrets his decision he will not be able to take her back.
 
 *Rabbi Yehuda* introduces a distinction based on the identity of the husband. *B'Yisrael chodesh echad yekayem* — for a non-*kohen*, we permit the arrangement for up to one month; if it extends into the second month, *yotzi v'yiten kesuvah*, he must divorce and pay the *kesuvah*. For a *kohen*, however, greater latitude is given — since a *kohen* may not remarry a divorcée, divorce is irreversible, and so we allow up to two full months before requiring it. Only upon entering the third month does *yotzi v'yiten kesuvah* apply.
@@ -50,10 +52,11 @@ A question naturally arises about how to read the thirty-day threshold. Does the
 
 ## Fruit & Adornment
 
+
+
 ### One Fruit Vow
 
-> **Hebrew/Aramaic:** הַמַּדִּיר אֶת אִשְׁתּוֹ שֶׁלֹּא תִּטְעוֹם אֶחָד מִכׇּל הַפֵּירוֹת — יוֹצִיא וְיִתֵּן כְּתוּבָּה, רַבִּי יְהוּדָה אוֹמֵר: בְּיִשְׂרָאֵל, יוֹם אֶחָד — יְקַיֵּים, שְׁנַיִם — יוֹצִיא וְיִתֵּן כְּתוּבָּה. וּבְכֹהֵן, שְׁנַיִם — יְקַיֵּים, שְׁלֹשָׁה — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
->
+> **Hebrew/Aramaic:** הַמַּדִּיר אֶת אִשְׁתּוֹ שֶׁלֹּא תִּטְעוֹם אֶחָד מִכׇּל הַפֵּירוֹת — יוֹצִיא וְיִתֵּן כְּתוּבָּה, רַבִּי יְהוּדָה אוֹמֵר: בְּיִשְׂרָאֵל, יוֹם אֶחָד — יְקַיֵּים, שְׁנַיִם — יוֹצִיא וְיִתֵּן כְּתוּבָּה. וּבְכֹהֵן, שְׁנַיִם — יְקַיֵּים, שְׁלֹשָׁה — יוֹצִיא וְיִתֵּן כְּתוּבָּה.
 > **Translation:** **One who vows** and obligates **his wife,** requiring her **not to taste a particular type of produce, must divorce** her **and give** her the payment of her **marriage contract. Rabbi Yehuda says: If** he is an **Israelite,** then if the vow will remain in effect for **one day he may maintain** her as his wife, but if it will be **two** days **he must divorce** her **and give** her the payment of her **marriage contract. And if** he is **a priest,** then if the vow will be in effect for **two** days **he may maintain** her; for **three** days **he must divorce** her **and give** her the payment of her **marriage contract.**
 
 The *mishnah* continues: *hamadir ishto shelo tit'am echad mikol hapirot* — if a man's wife is vowed not to taste even one type of fruit. The *gemara* will explain that this is in fact the wife's own *neder*, which the husband had the opportunity to annul (*leifer*) but instead upheld (*kiyem*). A question also arises about the mechanism: if she may not eat one fruit — say, a single variety — why should that necessitate divorce? What is the connection to the marriage itself? That question is addressed by the *gemara*. In any event, the *mishnah* rules: *yotzi v'yiten kesuvah* — divorce and *kesuvah*.
@@ -64,19 +67,21 @@ Here again *Rabbi Yehuda* distinguishes: *b'Yisrael yom echad yekayem* — for a
 
 ### Adornment Vow
 
-> **Hebrew/Aramaic:** הַמַּדִּיר אֶת אִשְׁתּוֹ שֶׁלֹּא תִּתְקַשֵּׁט בְּאֶחָד מִכׇּל הַמִּינִין — יוֹצִיא וְיִתֵּן כְּתוּבָּה. רַבִּי יוֹסֵי אוֹמֵר: בַּעֲנִיּוּת — שֶׁלֹּא נָתַן קִצְבָה, וּבַעֲשִׁירוּת — שְׁלֹשִׁים יוֹם.
->
-> **Translation:** **One who vows** and obligates **his wife,** requiring her **not to adorn herself with a particular type** of perfume, **must divorce** her **and give** her the payment of her **marriage contract. Rabbi Yosei says** that one must distinguish between different types of women: **For poor women,** this applies only **when he did not establish a set amount of time** for the vow, **and for wealthy women,** who are accustomed to adorning themselves more elaborately, if she is prohibited from doing so for **thirty days,** he must divorce her and give her the payment of her marriage contract.
-
 The *mishnah* adds a third case: *hamadir ishto shelo tiskasheit b'echad mikol haminim* — a man whose wife is vowed not to adorn herself with even one type of adornment. *Rashi* explains that *minim* here includes perfumes as well as jewelry — so even a single fragrance is encompassed. Again, as with the fruit case, the *gemara* will explain that this is the wife's *neder* which the husband upheld rather than annulled.
 
+> **Hebrew/Aramaic:** הַמַּדִּיר אֶת אִשְׁתּוֹ שֶׁלֹּא תִּתְקַשֵּׁט בְּאֶחָד מִכׇּל הַמִּינִין — יוֹצִיא וְיִתֵּן כְּתוּבָּה. רַבִּי יוֹסֵי אוֹמֵר: בַּעֲנִיּוּת — שֶׁלֹּא נָתַן קִצְבָה, וּבַעֲשִׁירוּת — שְׁלֹשִׁים יוֹם.
+> **Translation:** **One who vows** and obligates **his wife,** requiring her **not to adorn herself with a particular type** of perfume, **must divorce** her **and give** her the payment of her **marriage contract. Rabbi Yosei says** that one must distinguish between different types of women: **For poor women,** this applies only **when he did not establish a set amount of time** for the vow, **and for wealthy women,** who are accustomed to adorning themselves more elaborately, if she is prohibited from doing so for **thirty days,** he must divorce her and give her the payment of her marriage contract.
+
 ### Yosi: Rich/Poor
+
 
 *Rabbi Yosi* introduces a different framework here, distinguishing between poor and wealthy women. *B'aniyos shelo nasan kitzva* — for a poor woman who does not normally wear jewelry or perfume, the *neder* is problematic only if it is indefinite; if there is a defined endpoint, it may be tolerable. What length of time qualifies as *kitzva* remains to be clarified in the *gemara*. For wealthy women, however — *uva'ashiros shloshim yom* — thirty days is the limit, and beyond that, divorce is required. The *chiddush* of these latter two cases in the *mishnah* is striking: we are dealing not with the husband forbidding his *mezonot*, which is squarely a marital matter, but with a kind of self-denial the wife undertakes. And it is only a single fruit, a single piece of jewelry — yet the *mishnah* treats it with such gravity.
 
 ---
 
 ## Rashi/Tosafot Onah
+
+
 
 ### Rashi: Onah Property
 
@@ -95,6 +100,8 @@ This raises a further point about whether *mezonot* is *de'oraissa* or *derabban
 ---
 
 ## Forced Divorce
+
+
 
 ### Why in Ketubot
 
@@ -122,23 +129,33 @@ We have already seen the debate about a *moredet* who refuses *tashmish* — she
 
 This *Tosafot* elegantly captures much of the dynamic that plays out today in the *batei din*. On one side are those who oppose applying any pressure whatsoever; on another are those who hold that in principle the court possesses wide coercive powers — revoking driving licenses, imposing imprisonment — though these measures fall short of the *beshoti* of physical beatings that characterized earlier enforcement. And then, even among those who accept the principle of *kefiyah*, the fear of producing a *get me'useh* — a coerced and therefore invalid *get* — introduces enormous hesitancy. The woman might then be technically still married, her subsequent relationship adulterous and any children potentially *mamzerim*. This is precisely the caution *Tosafot* articulates: only when the case is beyond doubt, *ad sheyimatze raya berura*, may coercion be applied. So the tension between the imperative to protect the woman and the fear of invalidating the *get* is very much a live one, and it is encapsulated here in a single *Tosafot*.
 
+Before moving to the *gemara*'s central question, two points arising from this passage deserve mention. The first concerns *Rashi*'s explanation of why the husband's *neder* cannot take effect with respect to marital relations: *kegon de-amar ye-aser hana-as tashmishecha alai* — the *neder* is framed as forbidding the wife's pleasure to him, which operates on his own domain of benefit. But if he attempts to frame it the other way — forbidding his own pleasure to her — that does not work, because he is not a free agent with respect to an obligation he already owes her; *de-ha meshubad lah*, he is already bound to her for it. *Tosafot*, characteristically, reads the matter differently: rather than entering into the question of which party's pleasure is being forbidden, *Tosafot* holds that the language of this particular *neder* simply does not encompass marital relations in the first place, so the issue of his *shibud* never arises.
+
 ---
 
 ## Ownership & Vow
 
-### Core Question
 
-> **Hebrew/Aramaic:** גְּמָ׳ וְכֵיוָן דִּמְשׁוּעְבַּד לָהּ הֵיכִי מָצֵי מַדִּיר לַהּ? כָּל כְּמִינֵּיהּ דְּמַפְקַע לַהּ לְשִׁיעְבּוּדַהּ?
->
-> **Translation:** GEMARA: The Gemara questions the efficacy of a vow taken by the husband prohibiting his wife from deriving benefit from him: **And since he is under a** prior **obligation to** provide **her** support in accordance with what is written in the marriage contract, **how can he vow** prohibiting **her** from benefiting from him? **Is it in his power to remove** his **obligation to her?**
+
+[DAF:70b]
+### Core Question
 
 The *gemara* now poses its central question: *ve-keivan de-meshubad lah heichi matzi madar lah* — since the husband is obligated to her for *mezonot*, how can he make a *neder* against it? Does he have the power to uproot her *shibud*, her lien on those *mezonot*?
 
+> **Hebrew/Aramaic:** גְּמָ׳ וְכֵיוָן דִּמְשׁוּעְבַּד לָהּ הֵיכִי מָצֵי מַדִּיר לַהּ? כָּל כְּמִינֵּיהּ דְּמַפְקַע לַהּ לְשִׁיעְבּוּדַהּ?
+> **Translation:** GEMARA: The Gemara questions the efficacy of a vow taken by the husband prohibiting his wife from deriving benefit from him: **And since he is under a** prior **obligation to** provide **her** support in accordance with what is written in the marriage contract, **how can he vow** prohibiting **her** from benefiting from him? **Is it in his power to remove** his **obligation to her?**
+
+> **Hebrew/Aramaic:** וְהָתְנַן: ״קֻוֽנָּם שֶׁאֵינִי עוֹשָׂה לְפִיךָ״ — אֵינוֹ צָרִיךְ לְהָפֵר. אַלְמָא כֵּיוָן דִּמְשַׁעְבְּדָא לֵיהּ, לָאו כָּל כְּמִינַהּ דְּמַפְקַע לֵיהּ לְשִׁיעְבּוּדֵיהּ. הָכָא נָמֵי: כֵּיוָן דִּמְשׁוּעְבַּד לַהּ, לָאו כָּל כְּמִינֵּיהּ דְּמַפְקַע לַהּ לְשִׁיעְבּוּדַהּ!
+> **Translation:** **But didn’t we learn** in a mishna (*Nedarim* 85a): If his wife said: **It is** forbidden **like an offering [*konam*] that I will** therefore **not perform** any work **for** the benefit of **your mouth, he does not need to nullify** her vow, since this vow does not take effect at all. **Apparently, since she is under** a prior **obligation** by power of the Sages’ ordinance to perform work **for him, it is not in her power to remove** her **obligation to him. Here too, since he is under a** prior **obligation** to provide support **for her, it is not in his power to remove** his **obligation to her.**
+
+> **Hebrew/Aramaic:** אֶלָּא: מִתּוֹךְ שֶׁיָּכוֹל לוֹמַר לָהּ ״צְאִי מַעֲשֵׂה יָדַיִךְ בִּמְזוֹנוֹתַיִךְ״,
+> **Translation:** **Rather,** one must say the following: **Since he is able to say to her** at any time: **Spend your earnings to sustain yourself,** meaning that he has the right to instruct her to support herself from her own earnings instead of supporting her himself,
+
+> **Hebrew/Aramaic:** נַעֲשָׂה כְּאוֹמֵר לָהּ ״צְאִי מַעֲשֵׂה יָדַיִךְ בִּמְזוֹנוֹתַיִךְ״. וְאִם אִיתַהּ לְהָא דְּרַב הוּנָא אָמַר רַב, דְּאָמַר רַב הוּנָא אָמַר רַב: יְכוֹלָה אִשָּׁה שֶׁתֹּאמַר לְבַעְלָהּ ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״, ״קוּנָּם שֶׁאֲנִי עוֹשָׂה לְפִיךָ״, אַמַּאי אֵינוֹ צָרִיךְ לְהָפֵר? לֵימָא: מִתּוֹךְ שֶׁיְּכוֹלָה לוֹמַר ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״, נַעֲשֶׂה כְּמִי שֶׁאוֹמֶרֶת לוֹ: ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״.
+> **Translation:** **it is considered as** though **he** were in fact **saying to her: Spend your earnings to sustain yourself.** The Gemara raises a difficulty: **And if it is so,** i.e., **that** the *halakha* is in accordance with **that** statement **that Rav Huna said** that **Rav said, as Rav Huna said** that **Rav said: A wife may say to her husband: I will not be sustained** by you **and,** in turn, **I will not work,** i.e., you will not keep my earnings, then when she says: That **which I perform for** the benefit of **your mouth** will be **forbidden like an offering [*konam*], why does he not need to nullify** the vow? Here too, **let** us **say: Since she is able to say: I will not be sustained** by you **and I will not work, it is considered as** though **she** were in fact **saying to him** by her vow: **I will not be sustained** by you **and I will not work,** and he should therefore have to nullify the vow.
+
 ### Parallel: Maaseh
 
-> **Hebrew/Aramaic:** וְהָתְנַן: ״קֻוֽנָּם שֶׁאֵינִי עוֹשָׂה לְפִיךָ״ — אֵינוֹ צָרִיךְ לְהָפֵר. אַלְמָא כֵּיוָן דִּמְשַׁעְבְּדָא לֵיהּ, לָאו כָּל כְּמִינַהּ דְּמַפְקַע לֵיהּ לְשִׁיעְבּוּדֵיהּ. הָכָא נָמֵי: כֵּיוָן דִּמְשׁוּעְבַּד לַהּ, לָאו כָּל כְּמִינֵּיהּ דְּמַפְקַע לַהּ לְשִׁיעְבּוּדַהּ!
->
-> **Translation:** **But didn't we learn** in a mishna (*Nedarim* 85a): If his wife said: **It is** forbidden **like an offering [*konam*] that I will** therefore **not perform** any work **for** the benefit of **your mouth, he does not need to nullify** her vow, since this vow does not take effect at all. **Apparently, since she is under** a prior **obligation** by power of the Sages' ordinance to perform work **for him, it is not in her power to remove** her **obligation to him. Here too, since he is under a** prior **obligation** to provide support **for her, it is not in his power to remove** his **obligation to her.**
 
 The *gemara* draws a parallel from the wife's side. We have a *mishnah* that addresses the case where a wife says *konam she-eini osah le-ficha* — whatever I produce with my hands is forbidden, like *hekdesh*, to your mouth. And the ruling is: *einu tzarich lehafer* — the husband does not need to formally annul the *neder*. The reason: since the *ma'aseh yadayim* are already subject to his *shibud*, the wife has no standing to make them *asur* to him. *Alma keivan de-meshubda lei lav kol keminei de-mafka lei le-shibudei* — since she is obligated to him, she cannot simply uproot his claim.
 
@@ -146,17 +163,12 @@ It is important to clarify what kind of barrier this is. This is not analogous t
 
 ### Ownership Principle
 
-> **Hebrew/Aramaic:** אֶלָּא: מִתּוֹךְ שֶׁיָּכוֹל לוֹמַר לָהּ ״צְאִי מַעֲשֵׂה יָדַיִךְ בִּמְזוֹנוֹתַיִךְ״,
->
-> **Translation:** **Rather,** one must say the following: **Since he is able to say to her** at any time: **Spend your earnings to sustain yourself,** meaning that he has the right to instruct her to support herself from her own earnings instead of supporting her himself,
 
 The *gemara* then asks: how, by the same logic, can the husband make his *mezonot* forbidden to his wife? She has a *shibud* on those *mezonot* — they are in some sense hers. And the *gemara* responds: *al kaminei de-mafka lei le-shibudeih* — can he simply uproot her *shibud*? This is the same objection applied in reverse. So if the *neder* cannot work when the object belongs to the other party, how does the *mishnah*'s case work at all?
 
-### Boss Theory
+It is worth being precise about why the obvious answer does not work here. One might think the problem is simply that he is *chayav* — obligated — and that this obligation blocks the *neder*. But that would be the logic of *mushba ve-omed me-har Sinai*, which governs *shevuot*, not *nedarim*. A *shevua* is a personal undertaking, and a prior personal obligation can block a later personal undertaking. A *neder*, however, operates on the object itself, not on the person. And critically, a *neder* is actually capable of indirectly undercutting an obligation — if one declares *hana'as sukkah asurah alai* — the pleasure of the *sukkah* is forbidden to me — one removes the object rather than contradicting the obligation head-on, which is precisely why *mushba ve-omed* does not apply. So the *gemara* is not saying the *neder* fails because he is obligated to provide *mezonot*. The *gemara*'s concern is entirely about ownership: a *neder* can only render forbidden that which is one's own. If the *mezonot* are sufficiently hers by virtue of her *shibud*, then he lacks the standing to make them *asur* to her — not because his obligation blocks his *neder*, but because the object is not fully his to begin with.
 
-> **Hebrew/Aramaic:** נַעֲשָׂה כְּאוֹמֵר לָהּ ״צְאִי מַעֲשֵׂה יָדַיִךְ בִּמְזוֹנוֹתַיִךְ״. וְאִם אִיתַהּ לְהָא דְּרַב הוּנָא אָמַר רַב, דְּאָמַר רַב הוּנָא אָמַר רַב: יְכוֹלָה אִשָּׁה שֶׁתֹּאמַר לְבַעְלָהּ ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״, ״קוּנָּם שֶׁאֲנִי עוֹשָׂה לְפִיךָ״, אַמַּאי אֵינוֹ צָרִיךְ לְהָפֵר? לֵימָא: מִתּוֹךְ שֶׁיְּכוֹלָה לוֹמַר ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״, נַעֲשֶׂה כְּמִי שֶׁאוֹמֶרֶת לוֹ: ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״.
->
-> **Translation:** **it is considered as** though **he** were in fact **saying to her: Spend your earnings to sustain yourself.** The Gemara raises a difficulty: **And if it is so,** i.e., **that** the *halakha* is in accordance with **that** statement **that Rav Huna said** that **Rav said, as Rav Huna said** that **Rav said: A wife may say to her husband: I will not be sustained** by you **and,** in turn, **I will not work,** i.e., you will not keep my earnings, then when she says: That **which I perform for** the benefit of **your mouth** will be **forbidden like an offering [*konam*], why does he not need to nullify** the vow? Here too, **let** us **say: Since she is able to say: I will not be sustained** by you **and I will not work, it is considered as** though **she** were in fact **saying to him** by her vow: **I will not be sustained** by you **and I will not work,** and he should therefore have to nullify the vow.
+### Boss Theory
 
 The *gemara*'s answer: *mitoche she-yachol lomar la tzeii ma'aseh yadayich bimezonotayich* — because the husband has the theoretical power to say to her: take your *ma'aseh yadayim* and keep them; I will keep my *mezonot*. Since at any moment he could call off the *mezonot*–*ma'aseh yadayim* arrangement and retain the *mezonot* for himself, he is effectively the *baal habayit* of those *mezonot*. It is as if he already said *tzeii ma'aseh yadayich bimezonotayich*, and therefore the *mezonot* are considered his to render *asur* by *neder*.
 
@@ -164,11 +176,9 @@ The *gemara*'s answer: *mitoche she-yachol lomar la tzeii ma'aseh yadayich bimez
 
 ## Rav Huna Opt-Out
 
-### Woman's Power
 
-> **Hebrew/Aramaic:** אֶלָּא, לָא תֵּימָא ״נַעֲשֶׂה״, אֶלָּא בְּאוֹמֵר לָהּ: ״צְאִי מַעֲשֵׂה יָדַיִךְ בִּמְזוֹנוֹתַיִךְ״.
->
-> **Translation:** **Rather,** the Gemara retracts its previous interpretation in favor of the following: **Do not say it is considered as** though he said to her: Spend your earnings to sustain yourself. **Rather,** the mishna is referring to a case **where he** explicitly **says to her: Spend your earnings to sustain yourself.**
+
+### Woman's Power
 
 The *gemara* immediately complicates this picture. *Rav Huna amar Rav*: a woman has the power to say *eini nizonos ve-eini osah* — I will not be fed by you and I will not work for you; I will keep my *ma'aseh yadayim*. So it is not only the husband who can call off the arrangement — the wife can as well.
 
@@ -178,33 +188,46 @@ This creates a symmetry problem. We said the husband can make his *mezonot asur*
 
 ### Potential vs. Actual
 
-> **Hebrew/Aramaic:** אִי הָכִי פַּרְנָס לְמָה לַהּ? בִּדְלָא סָפְקָה: אִי בִּדְלָא סָפְקָה — הֲדַר קוּשְׁיַין לְדוּכְתֵּיהּ? אָמַר רַב אָשֵׁי: בְּמַסְפֶּקֶת לִדְבָרִים גְּדוֹלִים, וְאֵינָהּ מַסְפֶּקֶת לִדְבָרִים קְטַנִּים.
->
-> **Translation:** The Gemara raises a difficulty: **If so,** if he provided for her sustenance by instructing her to spend her own earnings, **why** does **she** require **a trustee?** The Gemara answers: This is referring to a situation **where** the amount she earns **is not enough** for her needs. Therefore, the husband must appoint a trustee to provide the balance. The Gemara asks: **If** it is a case **where** the amount she earns **is not enough** for her needs, **our difficulty is restored to its place:** How can he prohibit her from benefiting from him if he is under a prior obligation to provide for her? **Rav Ashi said:** The mishna is referring to a case **where** her earnings are **enough for large things,** i.e., her basic requirements, **but not enough for small things.**
-
 The *gemara* resolves the tension: *lo teima naaseh* — do not say "it is as if she said." The mere potential to call off the arrangement does not suffice. As long as the arrangement is still in place, neither party is yet the *baal habayit* in a way that empowers them to forbid the object by *neder*.
 
 ### Arrangement Status
 
 The only way the *neder* works is *be'omer la tzeii ma'aseh yadayich bimezonotayich* — when the husband has explicitly declared that the arrangement is called off. Only at the moment of explicit declaration does he actually become the *baal habayit* of the *mezonot*, and only then can he render them *asur*. By the same token, if she explicitly says *eini nizonos ve-eini osah*, she becomes the *baalat habayit* of her *ma'aseh yadayim* and could at that point make them *asur*. Potential power, not actualized, does not confer ownership for purposes of *neder*.
 
+It is worth pausing to note why the *gemara* is nonetheless drawn to this reading despite its complications. The earlier resolution — that mere potential suffices — was conceptually elegant: since he is in principle entitled to call off the arrangement, he counts as the *baal habayit* even without having done so. The *gemara* finds that reasoning genuinely attractive, describing it as the stronger answer in terms of underlying logic. It is only because the *gemara* cannot sustain that position — since potential alone turns out not to suffice — that it falls back to requiring an explicit declaration. The elegance of the earlier answer, and the cost of abandoning it, is precisely what makes the difficulties that follow feel pressing, a question of why the *parnas* is needed at all if the arrangement has truly been dissolved — a problem the *gemara* addresses immediately.
+
 ---
 
 ## Earnings Threshold
 
+
+
 ### Major vs. Minor
 
-> **Hebrew/Aramaic:** הָנֵי דְּבָרִים קְטַנִּים, הֵיכִי דָמֵי? אִי דִּרְגִילָה בְּהוּ — הָא רְגִילָה בְּהוּ! וְאִי לָא רְגִילָה בְּהוּ — פַּרְנָס לְמָה לַהּ? לָא צְרִיכָא: דִּרְגִילָה בְּבֵית נָשָׁא, וְקָא מְגַלְגְּלָא בַּהֲדֵיהּ, דְּאָמְרָה לֵיהּ: עַד הָאִידָּנָא דְּלָא אַדַּרְתַּן — גַּלְגֵּילְנָא בַּהֲדָךְ, הַשְׁתָּא דְּאַדַּרְתַּן — לָא מָצֵינָא דֶּאֱיגַלְגֵּל בַּהֲדָךְ.
->
-> **Translation:** The Gemara asks: With regard to **these small things** for which her earnings are not enough, **what are the circumstances? If** the discussion involves a case where **she is accustomed to them,** then **she is accustomed to them** and they are equivalent to all other necessities, which he must provide. **And if she is not accustomed to them, why** does **she** require **a trustee?** The Gemara answers: **No,** it is **necessary** in a case **where** she was **accustomed** to such small provisions **in her father's house, but she** agreed to marry him and lower her lifestyle, and she had, until now, **abided** the lesser lifestyle and remained **with him. For she says to him: Until now, when you did not vow** to render it prohibited for me to benefit from you, **I abided** the lesser lifestyle and remained **with you.** However, **now that you have vowed, I can no** longer **abide** the lesser lifestyle and remain **with you,** and therefore I wish to revert to the conditions of my father's house.
+> **Hebrew/Aramaic:** אֶלָּא, לָא תֵּימָא ״נַעֲשֶׂה״, אֶלָּא בְּאוֹמֵר לָהּ: ״צְאִי מַעֲשֵׂה יָדַיִךְ בִּמְזוֹנוֹתַיִךְ״.
+> **Translation:** **Rather,** the Gemara retracts its previous interpretation in favor of the following: **Do not say it is considered as** though he said to her: Spend your earnings to sustain yourself. **Rather,** the mishna is referring to a case **where he** explicitly **says to her: Spend your earnings to sustain yourself.**
+
+> **Hebrew/Aramaic:** אִי הָכִי פַּרְנָס לְמָה לַהּ? בִּדְלָא סָפְקָה: אִי בִּדְלָא סָפְקָה — הֲדַר קוּשְׁיַין לְדוּכְתֵּיהּ? אָמַר רַב אָשֵׁי: בְּמַסְפֶּקֶת לִדְבָרִים גְּדוֹלִים, וְאֵינָהּ מַסְפֶּקֶת לִדְבָרִים קְטַנִּים.
+> **Translation:** The Gemara raises a difficulty: **If so,** if he provided for her sustenance by instructing her to spend her own earnings, **why** does **she** require **a trustee?** The Gemara answers: This is referring to a situation **where** the amount she earns **is not enough** for her needs. Therefore, the husband must appoint a trustee to provide the balance. The Gemara asks: **If** it is a case **where** the amount she earns **is not enough** for her needs, **our difficulty is restored to its place:** How can he prohibit her from benefiting from him if he is under a prior obligation to provide for her? **Rav Ashi said:** The mishna is referring to a case **where** her earnings are **enough for large things,** i.e., her basic requirements, **but not enough for small things.**
+
+> **Hebrew/Aramaic:** הָנֵי דְּבָרִים קְטַנִּים, הֵיכִי דָמֵי? אִי דִּרְגִילָה בְּהוּ — הָא רְגִילָה בְּהוּ! וְאִי לָא רְגִילָה בְּהוּ — פַּרְנָס לְמָה לַהּ? לָא צְרִיכָא: דִּרְגִילָה בְּבֵית נָשָׁא, וְקָא מְגַלְגְּלָא בַּהֲדֵיהּ, דְּאָמְרָה לֵיהּ: עַד הָאִידָּנָא דְּלָא אַדַּרְתַּן — גַּלְגֵּילְנָא בַּהֲדָךְ, הַשְׁתָּא דְּאַדַּרְתַּן — לָא מָצֵינָא דֶּאֱיגַלְגֵּל בַּהֲדָךְ.
+> **Translation:** The Gemara asks: With regard to **these small things** for which her earnings are not enough, **what are the circumstances? If** the discussion involves a case where **she is accustomed to them,** then **she is accustomed to them** and they are equivalent to all other necessities, which he must provide. **And if she is not accustomed to them, why** does **she** require **a trustee?** The Gemara answers: **No,** it is **necessary** in a case **where** she was **accustomed** to such small provisions **in her father’s house, but she** agreed to marry him and lower her lifestyle, and she had, until now, **abided** the lesser lifestyle and remained **with him. For she says to him: Until now, when you did not vow** to render it prohibited for me to benefit from you, **I abided** the lesser lifestyle and remained **with you.** However, **now that you have vowed, I can no** longer **abide** the lesser lifestyle and remain **with you,** and therefore I wish to revert to the conditions of my father’s house.
 
 The *gemara* presses further. We now have the position that it only works if he explicitly called off the arrangement. But if he called it off — if he said *tzeii ma'aseh yadayich bimezonotayich* — then she is keeping her *ma'aseh yadayim* and he is keeping his *mezonot*. Why would they need a *parnas* at all? The *gemara* answers: *bidelo sapka* — in a case where her *ma'aseh yadayim* do not suffice to cover her full costs. *Rav Ashi* refines this: her *ma'aseh yadayim* cover the major expenses but not the minor ones, *devarim ktanim*. Therefore the husband would still be obligated for those minor items, and the *neder* cannot operate on them, and so a third party is needed to cover that remainder.
 
+### Minor Expenses
+
 But this immediately raises a further difficulty: if she is accustomed to those minor expenses, the husband is obligated for them, and if he is obligated, we are back to square one — the *neder* should not take effect on them. And if she is not accustomed to them, he has no obligation to begin with, the *neder* takes effect freely, and no *parnas* is needed. In either case, the *parnas* seems superfluous.
+
+### Accustomed Test
+
+The *gemara* resolves this with a three-way analysis: the case involves expenses she is accustomed to in terms of her standard of living, but which fall under a category where her actual obligation status shifts depending on circumstances. This brings us to the more nuanced scenario developed in the next section.
 
 ---
 
 ## Devarim Ktanim
+
+
 
 ### Luxury to Standard
 
@@ -230,13 +253,17 @@ The result: he is obligated but cannot fulfill his obligation. He cannot directl
 
 ## Thirty Days Public
 
+
+
 ### Public Knowledge
 
-> **Hebrew/Aramaic:** וּמַאי שְׁנָא עַד שְׁלֹשִׁים יוֹם? עַד שְׁלֹשִׁים יוֹם לֹא שָׁמְעִי בַּהּ אִינָשֵׁי וְלָא זִילָא בַּהּ מִילְּתָא, טְפֵי — שָׁמְעִי בַּהּ אִינָשֵׁי וְזִילָא בַּהּ מִילְּתָא.
->
+*U-mai shna shloshim yom* — what is special about thirty days? The *gemara* explains: *ad shloshim yom lo sham'ei bah inshi ve-lo zila bah milta* — for up to thirty days, people have not yet heard about the situation, it has not become public knowledge, and therefore it is not yet embarrassing to her.
+
+> **Hebrew/Aramaic:** וּמַאי שְׁנָא עַד שְׁלֹשִׁים יוֹם? עַד שְׁלֹשִׁים יוֹם לֹא שָׁמְעִי בַּהּ אִינָשֵׁי וְלָא זִילָא בַּהּ מִילְּתָא, טְפֵי — שָׁמְעִי בַּהּ אִינָשֵׁי וְזִילָא בַּהּ מִילְּתָא.
 > **Translation:** The Gemara poses a question: **And what is different** about the time period mentioned in the mishna: **Up to thirty days?** The Gemara answers: If **up to thirty days** have passed, this is a short enough amount of time that **people do not hear about her, and the matter** of her receiving her sustenance through an intermediary **is** therefore **not demeaning for her.** However, if the vow lasts **longer** than this, **people** do **hear about her, and the matter is demeaning for her.** The husband must therefore decide if he wants to divorce her or sustain her in the appropriate fashion.
 
-*U-mai shna shloshim yom* — what is special about thirty days? The *gemara* explains: *ad shloshim yom lo sham'ei bah inshi ve-lo zila bah milta* — for up to thirty days, people have not yet heard about the situation, it has not become public knowledge, and therefore it is not yet embarrassing to her.
+### Tolerance Limit
+
 
 Beyond thirty days — *tfei sham'ei bah inshi* — it becomes public that the husband has taken a *neder* against his wife, that there is conflict in the marriage, and that the wife is in a degraded position. *Zila bah milta* — the matter becomes humiliating to her. Up to that point, before it becomes a public affair, we can attempt to manage the situation through the *parnas* arrangement and hope the *neder* is resolved. Once it crosses into public embarrassment, we will no longer tolerate it.
 
@@ -244,23 +271,21 @@ Beyond thirty days — *tfei sham'ei bah inshi* — it becomes public that the h
 
 ## Arusa Vow
 
-### Arusa Not Obligated
 
-> **Hebrew/Aramaic:** אִיבָּעֵית אֵימָא שֶׁהִדִּירָהּ כְּשֶׁהִיא אֲרוּסָה, אֲרוּסָה מִי אִית לַהּ מְזוֹנֵי? שֶׁהִגִּיעַ זְמַן וְלֹא נִשְּׂאוּ. דִּתְנַן: הִגִּיעַ זְמַן וְלֹא נִשְּׂאוּ — אוֹכְלוֹת מִשֶּׁלּוֹ וְאוֹכְלוֹת בִּתְרוּמָה.
->
-> **Translation:** The Gemara suggests an alternative answer: **If you wish, say** that the husband is under no obligation to sustain her because the case discussed in the mishna was **where he vowed** and obligated **her when she** was still **a betrothed woman,** and therefore he was not yet duty-bound to provide her with sustenance. The Gemara is puzzled by this explanation: **Does a betrothed woman have** any right to **sustenance** from her husband at all? The Gemara answers: The circumstance referred to is **when the** arranged **time** for the marriage **had arrived and they had not** yet gotten **married. As we learned** in a mishna (57a): If **the time arrived** and **they had not** yet gotten **married,** such women **may eat** food **from his** property, **and** if their husbands were priests **they may partake of *teruma*.**
+
+### Arusa Not Obligated
 
 The *gemara* offers an alternative explanation for how the *neder* takes effect despite the husband's obligation. *Ei ba'it eima shehidira keshi'hi arusa* — perhaps the husband took the *neder* when his wife was still an *arusa*, a *betrothed* woman, at which stage he had no *chiyuv mezonot* to her. Since he had no obligation at that moment, the *neder* took effect freely.
 
+> **Hebrew/Aramaic:** אִיבָּעֵית אֵימָא שֶׁהִדִּירָהּ כְּשֶׁהִיא אֲרוּסָה, אֲרוּסָה מִי אִית לַהּ מְזוֹנֵי? שֶׁהִגִּיעַ זְמַן וְלֹא נִשְּׂאוּ. דִּתְנַן: הִגִּיעַ זְמַן וְלֹא נִשְּׂאוּ — אוֹכְלוֹת מִשֶּׁלּוֹ וְאוֹכְלוֹת בִּתְרוּמָה.
+> **Translation:** The Gemara suggests an alternative answer: **If you wish, say** that the husband is under no obligation to sustain her because the case discussed in the mishna was **where he vowed** and obligated **her when she** was still **a betrothed woman,** and therefore he was not yet duty-bound to provide her with sustenance. The Gemara is puzzled by this explanation: **Does a betrothed woman have** any right to **sustenance** from her husband at all? The Gemara answers: The circumstance referred to is **when the** arranged **time** for the marriage **had arrived and they had not** yet gotten **married. As we learned** in a mishna (57a): If **the time arrived** and **they had not** yet gotten **married,** such women **may eat** food **from his** property, **and** if their husbands were priests **they may partake of *teruma*.**
+
 ### Year Passes
+
 
 But then how does an obligation arise? *Sheyagia zman velo niso* — once the appointed time for the marriage to take place has arrived and they have still not married, the husband becomes obligated for her *mezonot* even though *nisuin* has not yet occurred. This is an explicit *mishnah*: *higia zman velo niso, ochelet mishelo ve-ocheles bitruma* — once the time arrives, she eats from his resources. So the *neder* was taken before the obligation arose, it took effect, and now the obligation kicks in — but the *neder* is already in place and he cannot satisfy it.
 
 ### Rabbanan Question
-
-> **Hebrew/Aramaic:** וּמַאי שְׁנָא עַד שְׁלֹשִׁים יוֹם? עַד שְׁלֹשִׁים יוֹם עָבֵיד שָׁלִיחַ שְׁלִיחוּתֵיהּ, טְפֵי — לָא עָבֵיד שָׁלִיחַ שְׁלִיחוּתֵיהּ.
->
-> **Translation:** The Gemara asks: **But** if so, **what is different** if the vow will remain in effect for **up to thirty days** or longer? The Gemara answers: For **up to thirty days,** the **agent will carry out his agency** effectively and take proper care of her needs. If the vow lasts **longer,** the **agent will not** fully **carry out his agency** but will begin to neglect her, until she cannot bear the situation any longer.
 
 This raises a sharp question. If the obligation that arises at the *arusa* stage — after the year has passed — is only *derabbanan*, does the *neder* actually take effect? The *neder* could not take effect once a full obligation attaches. But if the obligation is only rabbinic, perhaps the *neder* can override it?
 
@@ -278,11 +303,9 @@ For *Tosafot*, the correct analysis, as developed earlier, is that this is not a
 
 ## Nisuin Scenario
 
-### Marriage Follows
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא שֶׁהִדִּירָהּ כְּשֶׁהִיא אֲרוּסָה וְנִישֵּׂאת, נִישֵּׂאת — הָא סְבַרָה וְקַבִּילָה! דְּאָמְרָה: כִּסְבוּרָה אֲנִי שֶׁאֲנִי יְכוֹלָה לְקַבֵּל, עַכְשָׁיו אֵין אֲנִי יְכוֹלָה לְקַבֵּל.
->
-> **Translation:** **And if you wish, say** that **he vowed** and obligated **her when she was** still **a betrothed woman and she** subsequently **married** him, and therefore he is obligated to provide her sustenance. The Gemara is puzzled: If **she married** him after his vow, **she considered** the matter **and accepted** it upon herself. Why then is he forced to divorce her? The Gemara answers: The case is **when** she **says: I thought that I could accept** this manner of living, but **now** I see that **I cannot accept** it.
+
+### Marriage Follows
 
 The *gemara* presents what appears to be the simplest version of the scenario: *b'didah k'shehi arusa v'niseis* — he took the *neder* when she was an *arusa* and they subsequently actually married. Structurally this is equivalent to the previous answer — the *neder* took effect before any obligation, and the obligation then arose — but the trigger here is the *nisuin* itself rather than the passage of twelve months.
 
@@ -296,62 +319,73 @@ If she accepted, what is the new grievance? Why would there be grounds for *yotz
 
 ### Known Expense
 
-> **Hebrew/Aramaic:** אֵימַר דְּאָמְרִינַן הָכִי גַּבֵּי מוּמִין, לְעִנְיַן מְזוֹנֵי מִי אָמְרִינַן הָכִי? אֶלָּא מְחַוַּורְתָּא כִּדְשַׁנִּינַן מֵעִיקָּרָא.
->
-> **Translation:** The Gemara raises a difficulty: You can **say that we say so,** that if either the husband or the wife suffers from a physical blemish, the other can demand a divorce even after agreeing to the marriage under these conditions. This is true of adults: **with regard to blemishes,** but **with regard to sustenance can we say so? Rather, it is clear as we initially answered:** The mishna discusses either a case where he told her to support herself from her own earnings and she had accepted a lower standard of living while she was with him, or a case where he took the vow when she was betrothed, and now the appointed time for the marriage has arrived and they have not yet gotten married.
+> **Hebrew/Aramaic:** וּמַאי שְׁנָא עַד שְׁלֹשִׁים יוֹם? עַד שְׁלֹשִׁים יוֹם עָבֵיד שָׁלִיחַ שְׁלִיחוּתֵיהּ, טְפֵי — לָא עָבֵיד שָׁלִיחַ שְׁלִיחוּתֵיהּ.
+> **Translation:** The Gemara asks: **But** if so, **what is different** if the vow will remain in effect for **up to thirty days** or longer? The Gemara answers: For **up to thirty days,** the **agent will carry out his agency** effectively and take proper care of her needs. If the vow lasts **longer,** the **agent will not** fully **carry out his agency** but will begin to neglect her, until she cannot bear the situation any longer.
+
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא שֶׁהִדִּירָהּ כְּשֶׁהִיא אֲרוּסָה וְנִישֵּׂאת, נִישֵּׂאת — הָא סְבַרָה וְקַבִּילָה! דְּאָמְרָה: כִּסְבוּרָה אֲנִי שֶׁאֲנִי יְכוֹלָה לְקַבֵּל, עַכְשָׁיו אֵין אֲנִי יְכוֹלָה לְקַבֵּל.
+> **Translation:** **And if you wish, say** that **he vowed** and obligated **her when she was** still **a betrothed woman and she** subsequently **married** him, and therefore he is obligated to provide her sustenance. The Gemara is puzzled: If **she married** him after his vow, **she considered** the matter **and accepted** it upon herself. Why then is he forced to divorce her? The Gemara answers: The case is **when** she **says: I thought that I could accept** this manner of living, but **now** I see that **I cannot accept** it.
+
+> **Hebrew/Aramaic:** אֵימַר דְּאָמְרִינַן הָכִי גַּבֵּי מוּמִין, לְעִנְיַן מְזוֹנֵי מִי אָמְרִינַן הָכִי? אֶלָּא מְחַוַּורְתָּא כִּדְשַׁנִּינַן מֵעִיקָּרָא.
+> **Translation:** The Gemara raises a difficulty: You can **say that we say so,** that if either the husband or the wife suffers from a physical blemish, the other can demand a divorce even after agreeing to the marriage under these conditions. This is **with regard to blemishes,** but **with regard to sustenance can we say so? Rather, it is clear as we initially answered:** The mishna discusses either a case where he told her to support herself from her own earnings and she had accepted a lower standard of living while she was with him, or a case where he took the vow when she was betrothed, and now the appointed time for the marriage has arrived and they have not yet gotten married.
 
 One might argue that she did not fully appreciate how much the *neder* would create distance and emotional difficulty — that being in the same house with this wall between them was something she could not have anticipated. But the *gemara* rejects this: *eima d'amrinan hachi gabi mumim* — we accept the argument "I thought I could manage but now I find I cannot" specifically in the case of physical defects, *mumim*, where the intimacy of living together reveals something that was impossible to fully appreciate beforehand. But *l'inyan mezonei, mi amrinan hachi* — regarding *mezonot*, she knew exactly what the financial situation would be. There was nothing new to discover. *Mah chadash ba alav?* — what new circumstance arose that she could not have foreseen?
 
 The *gemara* therefore rules: *machvarta ke-deshnin me-ikara* — the earlier answer is superior. The better construction is the one where she did not walk into the *nisuin* with full knowledge and acceptance, i.e., the twelve-months case where the obligation arises without her having agreed to the *neder*'s consequences. The scenario of *niseis* is rejected.
 
+It is worth pausing on a broader question the *gemara*'s discussion surfaces: who exactly holds the power to dissolve the *mezonot*–*ma'aseh yadayim* arrangement? The *gemara* at one point frames it as the husband's prerogative — he can declare that he will keep his *mezonot* and she may keep her *ma'aseh yadayim* — but elsewhere it attributes the same power to her. The *halakhah* as it is eventually settled, later in the *gemara*, is *yechola isha shetomar leba'ala eini nizonos ve'eini osa* — the woman may tell her husband: keep your *mezonot*, I will keep my *ma'aseh yadayim*. But this raises an obvious tension: if she is the one in charge, how do we make sense of the *gemara*'s earlier explanation that the *mishna*'s case turns on *him* declaring that she should keep her *ma'aseh yadayim* and he will keep his *mezonot*? The resolution is that both parties have the ability to opt out of the exchange, but his ability is significantly more constrained than hers. He may only exercise that option when her earnings are sufficient to cover her own expenses — it is not a unilateral right he holds unconditionally. She, by contrast, may invoke it more freely. And since the arrangement is not a one-time determination, circumstances matter: if she loses her income and can no longer provide for herself, his obligation would kick back in.
+
 ---
 
 ## Third Party Shliach
 
+
+
 ### Shliach Problem
 
-> **Hebrew/Aramaic:** עַד שְׁלֹשִׁים יוֹם יַעֲמִיד פַּרְנָס. וּפַרְנָס לָאו שְׁלִיחוּתֵיהּ קָא עָבֵיד? אָמַר רַב הוּנָא, בְּאוֹמֵר: ״כׇּל הַזָּן אֵינוֹ מַפְסִיד״.
->
-> **Translation:** § The mishna states that if his vow will remain in effect for **up to thirty days he must appoint a trustee** to provide sustenance to his wife. The Gemara is puzzled by this ruling: **And does a trustee not perform** the husband's **agency?** If through his vow he has rendered it prohibited for her to derive benefit from him, how can he provide for her through the trustee? An action performed by an agent is considered to have been performed by the principal. **Rav Huna said:** The trustee discussed in the mishna was not actually appointed as an agent. Rather, the mishna is referring **to one who says** in general terms: **Whoever sustains** my wife **will not lose out.** Thus, anyone who complies does so of his own choice, although the husband will later compensate him. Therefore, the wife is not benefiting directly from the husband.
+The *gemara* now returns to the mechanism of the *parnas*, the third party who provides for the wife while the husband's *neder* is in effect. The obvious problem: *ufarnas lav shlichusei ka-avid* — is the *parnas* not simply acting as the husband's agent? If so, the wife is still effectively deriving *hana'ah* from the husband, routed through this intermediary, and the *neder* would be violated.
 
-The *gemara* now returns to the mechanism of the *parnas*, the third party who provides for the wife while the husband's *neder* is in effect. The obvious problem: *uparnas lav shlichusei ka-avid* — is the *parnas* not simply acting as the husband's agent? If so, the wife is still effectively deriving *hana'ah* from the husband, routed through this intermediary, and the *neder* would be violated.
+> **Hebrew/Aramaic:** עַד שְׁלֹשִׁים יוֹם יַעֲמִיד פַּרְנָס. וּפַרְנָס לָאו שְׁלִיחוּתֵיהּ קָא עָבֵיד? אָמַר רַב הוּנָא, בְּאוֹמֵר: ״כׇּל הַזָּן אֵינוֹ מַפְסִיד״.
+> **Translation:** § The mishna states that if his vow will remain in effect for **up to thirty days he must appoint a trustee** to provide sustenance to his wife. The Gemara is puzzled by this ruling: **And does a trustee not perform** the husband’s **agency?** If through his vow he has rendered it prohibited for her to derive benefit from him, how can he provide for her through the trustee? An action performed by an agent is considered to have been performed by the principal. **Rav Huna said:** The trustee discussed in the mishna was not actually appointed as an agent. Rather, the mishna is referring **to one who says** in general terms: **Whoever sustains** my wife **will not lose out.** Thus, anyone who complies does so of his own choice, although the husband will later compensate him. Therefore, the wife is not benefiting directly from the husband.
 
 ### Announcement Method
 
+
 *Rav Huna* provides the answer: *be'omer kol hazan eino mafsid* — the husband does not instruct anyone to provide. Instead, he issues a general announcement: whoever chooses to provide for my wife will not lose out as a result — meaning, whoever voluntarily feeds her, I will compensate. The person who then comes forward and provides is not acting on the husband's command; they are acting on their own initiative, and the husband compensates them afterward. Since there was no directive, no *shlichut* was created.
+
+The *gemara* immediately challenges this. *Vechi amar hachi lav shelichutei ka-avid* — are we really to say that framing it this way avoids *shlichut* altogether? The critical word here is the verb the husband uses. When the husband says *kol hazan* — whoever provides — he has not used the word *yazun*, meaning whoever should provide, in the imperative or directive sense. That distinction matters enormously: had he said *yazun*, he would be issuing a command to whoever opts in, and the moment a person steps forward, they become his agent by virtue of having accepted that direction. But since he only says *kol hazan* — whoever does provide — he is making a descriptive, conditional promise of reimbursement, not issuing any instruction at all. The person who acts does so entirely of their own accord, and the husband's subsequent compensation is simply a consequence he announced in advance, not a directive that shaped the actor's conduct. This is why no *shlichut* attaches — a question the *gemara* will sharpen considerably by pressing on whether the *kol* formulation truly does all this work.
+
+> **Hebrew/Aramaic:** וְכִי אָמַר הָכִי לָאו שְׁלִיחוּתֵיהּ קָעָבֵיד? וְהָתְנַן: מִי שֶׁהָיָה מוּשְׁלָךְ בְּבוֹר, וְאָמַר: ״כׇּל הַשּׁוֹמֵעַ קוֹלוֹ יִכְתּוֹב גֵּט לְאִשְׁתּוֹ״ — הֲרֵי אֵלּוּ יִכְתְּבוּ וְיִתְּנוּ!
+> **Translation:** The Gemara poses a question: **And when** a husband **says this,** is the one who responds **not performing** the husband’s **agency? But didn’t we learn** in a mishna (*Gittin* 66a): With regard to **one who was cast into a pit and said** that **whoever hears his voice should write a bill of divorce for his wife,** saying this out of concern that he might not be rescued and that she would not be able to remarry or would be required to enter into levirate marriage, **those** who heard him **should write and give** her a bill of divorce? This ruling indicates that they are considered his agents based on his instructions, as otherwise they would not be able to write a bill of divorce on his behalf. The similarly formulated statement here should therefore also endow the trustee with the status of an agent.
+
+> **Hebrew/Aramaic:** הָכִי הַשְׁתָּא?! הָתָם קָאָמַר ״יִכְתּוֹב״, הָכָא מִי קָאָמַר ״יָזוּן״? ״כׇּל הַזָּן״ קָאָמַר!
+> **Translation:** The Gemara refutes this claim: **How can** these cases **be compared? There,** in the case of a bill of divorce, he **says** that whoever hears his voice **should write** a bill of divorce, which is a command, and therefore those who hear him are considered his agents. **Here,** however, **does** he **say** that anyone **should sustain** his wife? **He** merely **says: Whoever sustains** her will not lose out, which is a general statement.
 
 ### Specific Person
 
-> **Hebrew/Aramaic:** וְכִי אָמַר הָכִי לָאו שְׁלִיחוּתֵיהּ קָעָבֵיד? וְהָתְנַן: מִי שֶׁהָיָה מוּשְׁלָךְ בְּבוֹר, וְאָמַר: ״כׇּל הַשּׁוֹמֵעַ קוֹלוֹ יִכְתּוֹב גֵּט לְאִשְׁתּוֹ״ — הֲרֵי אֵלּוּ יִכְתְּבוּ וְיִתְּנוּ!
->
-> **Translation:** The Gemara poses a question: **And when** a husband **says this,** is the one who responds **not performing** the husband's **agency? But didn't we learn** in a mishna (*Gittin* 66a): With regard to **one who was cast into a pit and said** that **whoever hears his voice should write a bill of divorce for his wife,** saying this out of concern that he might not be rescued and that she would not be able to remarry or would be required to enter into levirate marriage, **those** who heard him **should write and give** her a bill of divorce? This ruling indicates that they are considered his agents based on his instructions, as otherwise they would not be able to write a bill of divorce on his behalf. The similarly formulated statement here should therefore also endow the trustee with the status of an agent.
 
 The *gemara* probes whether this announcement formula truly avoids *shlichut*. After all, the *mishnah* in a different context teaches: if a man is thrown into a pit and calls out *kol hashome'a koli yichtov get le-ishto* — whoever hears my voice should write a *get* for my wife — those who hear may indeed write the *get*. So saying *kol* — whoever — does not prevent the formation of *shlichut* when someone opts in.
 
 ### Fire Exception
 
-> **Hebrew/Aramaic:** הָכִי הַשְׁתָּא?! הָתָם קָאָמַר ״יִכְתּוֹב״, הָכָא מִי קָאָמַר ״יָזוּן״? ״כׇּל הַזָּן״ קָאָמַר!
->
-> **Translation:** The Gemara refutes this claim: **How can** these cases **be compared? There,** in the case of a bill of divorce, he **says** that whoever hears his voice **should write** a bill of divorce, which is a command, and therefore those who hear him are considered his agents. **Here,** however, **does** he **say** that anyone **should sustain** his wife? **He** merely **says: Whoever sustains** her will not lose out, which is a general statement.
+> **Hebrew/Aramaic:** וְהָא אָמַר רַבִּי אַמֵּי: בִּדְלֵיקָה הִתִּירוּ לוֹמַר: ״כׇּל הַמְכַבֶּה אֵינוֹ מַפְסִיד״. בִּדְלֵיקָה לְמַעוֹטֵי מַאי? לָאו לְמַעוֹטֵי כִּי הַאי גַוְונָא?! לָא, לְמַעוֹטֵי שְׁאָר אִיסּוּרִים דְּשַׁבָּת.
+> **Translation:** The Gemara raises a difficulty: **But Rabbi Ami said:** In the case **of a fire** that broke out on Shabbat, the Sages **permitted** him **to say** in the presence of gentiles: **Whoever extinguishes** this fire **will not lose out.** From this it can be inferred that the phrase: In the case **of a fire,** comes **to exclude what?** Does it **not exclude a case like this?** It would seem that it was only in the case of a fire, when there are several extenuating factors, that the Sages permitted the use of such an expression without treating it as the appointment of an agent. The Gemara refutes this: **No,** this ruling serves **to exclude other prohibitions of Shabbat.**
 
-The *gemara* distinguishes the *get* case from the *mezonot* and *deleika* cases by focusing on the verb. In the pit case, the husband said *yichtov* — he should write — which is a directive: whoever opts in is being commanded to perform the action. In the *kol hazan eino mafsid* formula, no action is commanded. The husband never says "go feed my wife" — he says only that whoever happens to feed her will be compensated. The action is entirely initiated by the third party. Therefore the *parnas* arrangement is not *shlichut*, and the wife is not receiving *hana'ah* from the husband.
+
+The *gemara* introduces the *deleika* case: when a fire breaks out on *Shabbat* and property is at risk, the Rabbis permitted saying *kol hamichabeh eino mafsid* — whoever chooses to extinguish the fire will not lose out. A non-Jew who then extinguishes has not done so as a *shaliach*, and no violation of *amira le-goi* attaches. This case is directly parallel to our scenario.
 
 ### World Announcement
 
-> **Hebrew/Aramaic:** וְהָא אָמַר רַבִּי אַמֵּי: בִּדְלֵיקָה הִתִּירוּ לוֹמַר: ״כׇּל הַמְכַבֶּה אֵינוֹ מַפְסִיד״. בִּדְלֵיקָה לְמַעוֹטֵי מַאי? לָאו לְמַעוֹטֵי כִּי הַאי גַוְונָא?! לָא, לְמַעוֹטֵי שְׁאָר אִיסּוּרִים דְּשַׁבָּת.
->
-> **Translation:** The Gemara raises a difficulty: **But Rabbi Ami said:** In the case **of a fire** that broke out on Shabbat, the Sages **permitted** him **to say** in the presence of gentiles: **Whoever extinguishes** this fire **will not lose out.** From this it can be inferred that the phrase: In the case **of a fire,** comes **to exclude what?** Does it **not exclude a case like this?** It would seem that it was only in the case of a fire, when there are several extenuating factors, that the Sages permitted the use of such an expression without treating it as the appointment of an agent. The Gemara refutes this: **No,** this ruling serves **to exclude other prohibitions of Shabbat.**
-
-The *gemara* introduces the *deleika* case: when a fire breaks out on *Shabbat* and property is at risk, the Rabbis permitted saying *kol hamichabeh eino mafsid* — whoever chooses to extinguish the fire will not lose out. A non-Jew who then extinguishes has not done so as a *shaliach*, and no violation of *amira le-goi* attaches. This case is directly parallel to our scenario.
+The *gemara* distinguishes the *get* case from the *mezonot* and *deleika* cases by focusing on the verb. In the pit case, the husband said *yichtov* — he should write — which is a directive: whoever opts in is being commanded to perform the action. In the *kol hazan eino mafsid* formula, no action is commanded. The husband never says "go feed my wife" — he says only that whoever happens to feed her will be compensated. The action is entirely initiated by the third party. Therefore the *parnas* arrangement is not *shlichut*, and the wife is not receiving *hana'ah* from the husband.
 
 ---
 
 ## Rava Starvation
 
+
+
 ### Grocer Scenario
 
-> **Hebrew/Aramaic:** מֵתִיב רַבָּה: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ, וְאֵין לוֹ מַה יֹּאכַל — יֵלֵךְ אֵצֶל חֶנְוָנִי הָרָגִיל אֶצְלוֹ, וְיֹאמַר לוֹ: ״אִישׁ פְּלוֹנִי מוּדָּר הֲנָאָה מִמֶּנִּי, וְאֵינִי יוֹדֵעַ מָה אֶעֱשֶׂה לוֹ״. הוּא נוֹתֵן לוֹ, וּבָא וְנוֹטֵל מִזֶּה. הָכִי הוּא דִּשְׁרֵי, אֲבָל ״כׇּל הַזָּן אֵינוֹ מַפְסִיד״ — לָא!
->
+> **Hebrew/Aramaic:** מֵתִיב רַבָּה: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ, וְאֵין לוֹ מַה יֹּאכַל — יֵלֵךְ אֵצֶל חֶנְוָנִי הָרָגִיל אֶצְלוֹ, וְיֹאמַר לוֹ: ״אִישׁ פְּלוֹנִי מוּדָּר הֲנָאָה מִמֶּנִּי, וְאֵינִי יוֹדֵעַ מָה אֶעֱשֶׂה לוֹ״. הוּא נוֹתֵן לוֹ, וּבָא וְנוֹטֵל מִזֶּה. הָכִי הוּא דִּשְׁרֵי, אֲבָל ״כׇּל הַזָּן אֵינוֹ מַפְסִיד״ — לָא!
 > **Translation:** **Rabba raised an objection** from a mishna (*Nedarim* 43a): In the case of **one prohibited by a vow from deriving benefit from another** because of a vow the other took, **and he does not have** anything **to eat,** if the one who made the vow wants to help him but is unable to do so due to the vow, **he may go to a storekeeper with whom he is familiar and say to him: So-and-so is prohibited by a vow from deriving benefit from me, and I do not know what I can do for him.** The storekeeper subsequently **gives** food **to him, and** later **comes and takes** payment **from this** person who approached him. Rabba infers: **This** method of indirectly hinting **is what is permitted, but** he may **not** say: **Whoever sustains** the man **will not lose out,** as a declaration of that kind would make the storekeeper his agent.
 
 *Rava* raises a related case that sharpens the distinctions. Suppose a man has a *neder* forbidding him to benefit Michael. Michael is starving. The man goes to the local *chanvani* — the grocer who regularly serves Michael — and says: *ish ploni mudar hana'ah mimeni ve-eini yodea mah e'eseh lo* — so-and-so has taken a vow against me and I don't know what I can do for him.
@@ -362,10 +396,6 @@ The grocer, understanding the situation, provides Michael with food. He then tur
 
 ### Generic Distress
 
-> **Hebrew/Aramaic:** לָא מִיבַּעְיָא קָאָמַר: לָא מִיבַּעְיָא ״כׇּל הַזָּן אֵינוֹ מַפְסִיד״ — דִּלְעָלְמָא קָאָמַר, אֲבָל הַאי, כֵּיוָן דְּרָגִיל אֶצְלוֹ וְקָאָזֵיל קָאָמַר לֵיהּ, כְּמַאן דְּאָמַר לֵיהּ זִיל, ״הַב לֵיהּ אַתְּ״ דָּמֵי — קָא מַשְׁמַע לַן.
->
-> **Translation:** The Gemara refutes this claim: The *tanna* **is speaking** utilizing the style of: **It is not necessary,** and he means the following: **It is not necessary** to say that he is permitted to say in general terms: **Whoever sustains** so-and-so **will not lose out, as** by doing so **he is speaking to everyone** and therefore does not appoint a specific agent. **But this** storekeeper, **since** the one who took the oath **is familiar with him and he goes** and **says** this **to him,** might be considered **like the one who said to him: Go, give him yourself.** The mishna therefore **teaches us** that since the one who made the vow did not issue an explicit command, the storekeeper is not considered his agent.
-
 This arrangement is permitted because the man never specifically directed the grocer to feed Michael. He merely expressed distress — a kind of open-ended, unspecified lamentation. The grocer acted entirely on his own inference and initiative. No *shlichut* was created because no action was specified or commanded.
 
 ### Specific to Grocer
@@ -374,9 +404,8 @@ The *gemara* raises the question: but if the man had gone to the grocer and said
 
 ### Whole World OK
 
-> **Hebrew/Aramaic:** גּוּפָא: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְאֵין לוֹ מַה יֹּאכַל, הוֹלֵךְ אֵצֶל חֶנְוָנִי הָרָגִיל אֶצְלוֹ, וְאוֹמֵר לוֹ: ״אִישׁ פְּלוֹנִי מוּדָּר הֲנָאָה מִמֶּנִּי, וְאֵינִי יוֹדֵעַ מָה אֶעֱשֶׂה לוֹ״. הוּא נוֹתֵן לוֹ, וּבָא וְנוֹטֵל מִזֶּה.
->
-> **Translation:** § Since it mentioned the above case, the Gemara returns to discuss **the** matter **itself:** In the case of **one prohibited by a vow from deriving benefit from another** because of a vow the other took, **and he does not have** anything **to eat,** the one who took the vow **may go to a storekeeper with whom he is familiar and say to him: So-and-so is prohibited by a vow from deriving benefit from me, and I do not know what I can do for him.** The storekeeper **gives** food **to him, and** later **comes and takes** payment **from this** one who approached him.
+> **Hebrew/Aramaic:** לָא מִיבַּעְיָא קָאָמַר: לָא מִיבַּעְיָא ״כׇּל הַזָּן אֵינוֹ מַפְסִיד״ — דִּלְעָלְמָא קָאָמַר, אֲבָל הַאי, כֵּיוָן דְּרָגִיל אֶצְלוֹ וְקָאָזֵיל קָאָמַר לֵיהּ, כְּמַאן דְּאָמַר לֵיהּ זִיל, ״הַב לֵיהּ אַתְּ״ דָּמֵי — קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara refutes this claim: The *tanna* **is speaking** utilizing the style of: **It is not necessary,** and he means the following: **It is not necessary** to say that he is permitted to say in general terms: **Whoever sustains** so-and-so **will not lose out, as** by doing so **he is speaking to everyone** and therefore does not appoint a specific agent. **But this** storekeeper, **since** the one who took the oath **is familiar with him and he goes** and **says** this **to him,** might be considered **like the one who said to him: Go, give him yourself.** The mishna therefore **teaches us** that since the one who made the vow did not issue an explicit command, the storekeeper is not considered his agent.
 
 The *gemara* clarifies: *lo mibaya kol hazan eino mafsid de-la-alma ka-amar* — it goes without saying that saying *kol hazan eino mafsid* to the world at large is entirely permitted. When the statement is addressed to no one in particular, it is maximally distant from any *shlichut*. The *chiddush* of *Rava*'s case is that even the more problematic form — going specifically to this regular grocer and expressing distress — is also permitted, because you never actually commanded any specific action.
 

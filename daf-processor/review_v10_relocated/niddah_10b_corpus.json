@@ -1,0 +1,334 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "90-Day Reboot Status",
+      "Pattern from 90-Days",
+      "Three 90-Day Cycles",
+      "Exact vs. Inexact",
+      "Gemara Analysis",
+      "Rabbi Eliezer Rule",
+      "Heitalu Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's analysis of the baraita's phrasing \u2014 the objection about exact vs. inexact intervals, the challenge regarding veset kavua and Rabbi Dosa, and the two resolutions \u2014 which matches precisely the prose of candidate 4 ('Gemara Analysis').",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Gemara Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Heitalu Story",
+    "candidates": [
+      "Rabbi Eliezer Rule",
+      "Heitalu Story",
+      "Emergency Exception",
+      "Sha'at Dachak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Heitalu incident cited by Rabbi Eliezer as proof, which is precisely what the 'Heitalu Story' section's prose discusses.",
+      "chosen_heading": "Heitalu Story",
+      "current_heading": "Heitalu Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Sha'at Dachak",
+    "candidates": [
+      "Emergency Exception",
+      "Sha'at Dachak",
+      "Rebbe Relies R. Eliezer",
+      "Rebbe vs. R. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the chachamim's rejection ('ein sha'at ha-dachak re'ayah') and the Gemara's explanation of what the sha'at dachak was \u2014 but the rejection statement itself is the primary content, and candidate 0 ('Emergency Exception') describes exactly this moment: the chachamim's response that emergency rulings cannot serve as precedent, while candidate 1's prose already covers the two explanations of sha'at dachak as its own analytical discussion beyond the text itself.",
+      "chosen_heading": "Emergency Exception",
+      "current_heading": "Sha'at Dachak",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rebbe vs. R. Eliezer",
+    "candidates": [
+      "Rebbe Relies R. Eliezer",
+      "Rebbe vs. R. Eliezer",
+      "Three Sightings",
+      "First Two Sightings",
+      "Third Sighting Rule",
+      "90-Day Reset"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous Gemara discussion analyzing what Rebbe 'remembered' \u2014 rejecting one interpretation and providing the correct one \u2014 which is precisely what the prose of heading 1 ('Rebbe vs. R. Eliezer') describes in detail, including the formal vs. informal rejection distinction and the rabbim vs. yachid analysis.",
+      "chosen_heading": "Rebbe vs. R. Eliezer",
+      "current_heading": "Rebbe vs. R. Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "90-Day Reset",
+    "candidates": [
+      "Three Sightings",
+      "First Two Sightings",
+      "Third Sighting Rule",
+      "90-Day Reset",
+      "Reboot Status",
+      "Complete Reboot",
+      "30-Day Question",
+      "Puberty-Age Girl",
+      "Baraita Structure",
+      "Concern After Third"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Concern After Third",
+    "candidates": [
+      "Reboot Status",
+      "Complete Reboot",
+      "30-Day Question",
+      "Puberty-Age Girl",
+      "Baraita Structure",
+      "Concern After Third",
+      "Attribution Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage states that the first sighting yields 'dayah sha'atah' and the second triggers retroactive concern, which is precisely the rule for a puberty-age girl described in candidate 3's prose, not the scenario of successive reboots described in candidate 5 (current placement) where the first sighting post-reboot also yields 'dayah sha'atah' but the context is about cumulative bleedings after multiple reboots).",
+      "chosen_heading": "Puberty-Age Girl",
+      "current_heading": "Concern After Third",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Attribution Question",
+    "candidates": [
+      "Concern After Third",
+      "Attribution Question",
+      "Combined Opinions",
+      "Stain Tahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's question-and-answer chain about which tanna authored the baraita \u2014 asking if it is Rabbi Yehuda HaNasi (item 1), raising the contradiction from the latter clause (item 2), and resolving it by attributing it to Rabbi Eliezer holding like Rebbe on patterns (item 3) \u2014 which matches exactly the 'Attribution Question' prose describing this same dialectic about whose opinion underlies the baraita.",
+      "chosen_heading": "Attribution Question",
+      "current_heading": "Attribution Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Stain Tahor",
+    "candidates": [
+      "Combined Opinions",
+      "Stain Tahor",
+      "Chizkiyah View",
+      "Rabbi Yochanan",
+      "Virgin Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the tahor ruling between first and second sightings AND the Chizkiyah/Rabbi Yochanan dispute between second and third sightings as a unified Gemara unit, and the current placement under 'Stain Tahor' is where this entire sugya begins \u2014 the subsequent headings (Chizkiyah View, Rabbi Yochanan) are where the essay's prose elaborates on the sub-positions already introduced here, making this the correct home for the full quoted passage.",
+      "chosen_heading": "Stain Tahor",
+      "current_heading": "Stain Tahor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Virgin Comparison",
+    "candidates": [
+      "Chizkiyah View",
+      "Rabbi Yochanan",
+      "Virgin Comparison",
+      "Status Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Ilai's challenge comparing the pre-pubescent girl to a virgin (betulah) whose stains are pure, and Rav Zeira's answer distinguishing the two based on shirfa, which is precisely what the 'Virgin Comparison' section's prose describes.",
+      "chosen_heading": "Virgin Comparison",
+      "current_heading": "Virgin Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Status Question",
+    "candidates": [
+      "Status Question",
+      "Lenient in Public",
+      "Stain Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the case and its ruling in one block, and the current heading's prose accurately describes the setup \u2014 a tinoket between second and third sightings and the question of her status \u2014 making it the best match for this introductory citation.",
+      "chosen_heading": "Status Question",
+      "current_heading": "Status Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Stain Parallel",
+    "candidates": [
+      "Lenient in Public",
+      "Stain Parallel",
+      "One Sighting Rule",
+      "Multiple Sightings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the attribution dispute (Rabbi Yo\u1e25anan vs. Rabbi Shimon ben Yehotzadak) and its resolution via Ravin's report, which is precisely what the 'Stain Parallel' prose describes under lemai nafka mina and ki ata Ravin.",
+      "chosen_heading": "Stain Parallel",
+      "current_heading": "Stain Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Multiple Sightings",
+    "candidates": [
+      "One Sighting Rule",
+      "Multiple Sightings",
+      "Dripping Status",
+      "Dripping Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav \u1e24ilkiya bar Tovi's ruling that continuous seven-day bleeding counts as only one sighting, along with the Gemara's reformulation of that ruling \u2014 which is precisely what heading 0 ('One Sighting Rule') describes, while heading 1 ('Multiple Sightings') describes the subsequent discussion about interrupted bleeding counting as multiple sightings.",
+      "chosen_heading": "One Sighting Rule",
+      "current_heading": "Multiple Sightings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Dripping Definition",
+    "candidates": [
+      "Dripping Status",
+      "Dripping Definition",
+      "Pre-Pubescent Pure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous Gemara discussion about the status of midalefes \u2014 item 1 presents Rav Shimi bar \u1e24iyya's initial ruling and the immediate objection/clarification (midalefes is like poset, not shofas), and item 2 continues that same chain of reasoning with a further challenge and resolution \u2014 all of which is precisely what heading 0 ('Dripping Status') describes, whereas heading 1 ('Dripping Definition') describes the subsequent clarification about what shofas actually means.",
+      "chosen_heading": "Dripping Status",
+      "current_heading": "Dripping Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Pre-Pubescent Pure",
+    "candidates": [
+      "Dripping Definition",
+      "Pre-Pubescent Pure",
+      "Post-Pubescent Impure",
+      "Checking Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the baraita about presumption of purity for girls before maturity and presumption of impurity after maturity, including the requirement for women to examine them \u2014 directly matches the 'Pre-Pubescent Pure' section's prose, which explicitly describes this tanu rabbanan about chezkat tahara before pirkan and the absence of examination requirements.",
+      "chosen_heading": "Pre-Pubescent Pure",
+      "current_heading": "Pre-Pubescent Pure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Checking Method",
+    "candidates": [
+      "Post-Pubescent Impure",
+      "Checking Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda's specific method of using oil rather than manual examination, which directly matches the 'Checking Method' section's prose about *ein bodkin osah be-yad* and the oil-based alternative.",
+      "chosen_heading": "Checking Method",
+      "current_heading": "Checking Method",
+      "moved": false
+    }
+  }
+]

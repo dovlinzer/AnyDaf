@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Village Frying Pans",
+    "candidates": [
+      "Pochet Haneir",
+      "Vessel Completion",
+      "Village Frying Pans",
+      "Function vs. Form",
+      "Charniyes Vessels",
+      "Charcoal Prohibition",
+      "Charcoal Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Candidate 2's prose explicitly covers all five items: Abaye's challenge about the lamp's fitness, the coin response, and the baraita (Tanu Rabbanan) combining the lamp and charaniot prohibitions with Rabban Shimon ben Gamliel's permission.",
+      "chosen_heading": "Village Frying Pans",
+      "current_heading": "Village Frying Pans",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Charcoal Definition",
+    "candidates": [
+      "Function vs. Form",
+      "Charniyes Vessels",
+      "Charcoal Prohibition",
+      "Charcoal Definition",
+      "Bathhouse Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the obvious prohibition on charcoal and Rabbi \u1e24iyya's baraita about the bathhouse workers, which precisely matches the 'Charcoal Prohibition' section's prose discussing the p'shita challenge and the ulyarin scenario \u2014 the current placement under 'Charcoal Definition' splits content that belongs together under heading 2.",
+      "chosen_heading": "Charcoal Prohibition",
+      "current_heading": "Charcoal Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Bathhouse Ban",
+    "candidates": [
+      "Charcoal Definition",
+      "Bathhouse Ban",
+      "Steam Before Decree",
+      "Vessel Ban Hierarchy",
+      "Yom Tov Bathing",
+      "Cutting Wicks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether bathhouse use was permitted on Yom Tov and the gzeirat merchatzaot, which is precisely what the 'Bathhouse Ban' section's prose discusses, and its current placement there is correct.",
+      "chosen_heading": "Bathhouse Ban",
+      "current_heading": "Bathhouse Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Cutting Wicks",
+    "candidates": [
+      "Steam Before Decree",
+      "Vessel Ban Hierarchy",
+      "Yom Tov Bathing",
+      "Cutting Wicks",
+      "Fire Cutting Rationale",
+      "Wick Needling",
+      "Six Wick Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cutting Wicks",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna's ruling against cutting a wick and the Gemara's initial question about knives vs. fire, which is precisely the content described in the 'Cutting Wicks' prose.",
+      "second_heading": "Fire Cutting Rationale",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins with Rabbi \u1e24iyya's baraita resolving why fire-cutting is permitted (the two-lamps method) and then shifts to Rav Natan bar Abba's ruling about *mo\u1e25et*, both of which are the exact content described in the 'Fire Cutting Rationale' and 'Wick Needling' prose sections \u2014 but since the fire-cutting resolution is the primary content of item 2 and 'Fire Cutting Rationale' covers it first, that heading is the better match.",
+      "current_heading": "Cutting Wicks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Six Wick Rules",
+    "candidates": [
+      "Fire Cutting Rationale",
+      "Wick Needling",
+      "Six Wick Rules",
+      "Shabsai Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Bar Kappara's baraita listing six rulings about wicks (three stringent, three lenient), which is precisely what the 'Six Wick Rules' section's prose discusses in detail.",
+      "chosen_heading": "Six Wick Rules",
+      "current_heading": "Six Wick Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Shabsai Incident",
+    "candidates": [
+      "Shabsai Incident",
+      "Rachamim Lineage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Shabbetai bar Marinus incident and the condemnation of Babylonian wealthy Jews that the 'Shabsai Incident' prose section discusses.",
+      "chosen_heading": "Shabsai Incident",
+      "current_heading": "Shabsai Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rachamim Lineage",
+    "candidates": [
+      "Rachamim Lineage",
+      "Three Miserable Lives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara text about compassion and Abrahamic lineage that the 'Rachamim Lineage' prose explicitly discusses and analyzes.",
+      "chosen_heading": "Rachamim Lineage",
+      "current_heading": "Rachamim Lineage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Three Miserable Lives",
+    "candidates": [
+      "Three Miserable Lives",
+      "Breaking Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the teaching about one who looks to another's table and the baraita about three whose lives are not lives, which is precisely what the 'Three Miserable Lives' prose section describes in detail.",
+      "chosen_heading": "Three Miserable Lives",
+      "current_heading": "Three Miserable Lives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Breaking Vessels",
+    "candidates": [
+      "Breaking Vessels",
+      "Oven Sweeping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses breaking earthenware and cutting paper for cooking purposes, which matches exactly the prose under 'Breaking Vessels' describing these specific prohibitions.",
+      "chosen_heading": "Breaking Vessels",
+      "current_heading": "Breaking Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Oven Sweeping",
+    "candidates": [
+      "Oven Sweeping",
+      "Barrel Ovens",
+      "Wood Support Restrictions",
+      "Stick & Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes sweeping out an oven/stove and pressing down ashes, which is exactly what the 'Oven Sweeping' section's prose discusses.",
+      "chosen_heading": "Oven Sweeping",
+      "current_heading": "Oven Sweeping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Stick & Animals",
+    "candidates": [
+      "Barrel Ovens",
+      "Wood Support Restrictions",
+      "Stick & Animals",
+      "Vessel-Making Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics (barrel ovens, wood support, and leading animals with a stick) as a single mishna unit, and candidate 0 ('Barrel Ovens') is the opening section that introduces this mishna, making it the natural home for the entire passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Barrel Ovens",
+      "current_heading": "Stick & Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Vessel-Making Rationale",
+    "candidates": [
+      "Stick & Animals",
+      "Vessel-Making Rationale",
+      "Brick Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the rationale 'because one is preparing a vessel' (tikkun kli), which is precisely what the 'Vessel-Making Rationale' section discusses.",
+      "chosen_heading": "Vessel-Making Rationale",
+      "current_heading": "Vessel-Making Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Brick Incident",
+    "candidates": [
+      "Brick Incident",
+      "Roasting Goose",
+      "Sealing Ovens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the brick incident (Rabbi Chiyya's wife) and Rava's duck instruction, both of which are discussed together in heading 0's prose under 'Brick Incident', while heading 1 discusses only Rava's goose instruction in isolation \u2014 the current placement correctly captures the full passage including both the mishna ruling, the brick incident, and Rava's statement as a unified unit.",
+      "chosen_heading": "Brick Incident",
+      "current_heading": "Brick Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Sealing Ovens",
+    "candidates": [
+      "Roasting Goose",
+      "Sealing Ovens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses sealing ovens on Yom Tov, relying on Euphrates riverbank mud, the muktzeh requirement of pre-designation, and using ashes \u2014 all of which are precisely the content described in the 'Sealing Ovens' prose section.",
+      "chosen_heading": "Sealing Ovens",
+      "current_heading": "Sealing Ovens",
+      "moved": false
+    }
+  }
+]

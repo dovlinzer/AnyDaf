@@ -24,8 +24,8 @@
           "timestamp": "03:38"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Question of Blessing When Making Tzitzit: Does the Mitzvah Act Include Manufacturing?",
@@ -313,5 +313,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "22:31",
+  "amud_b_micro_title": "Tefillin Comparison",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "a"
 }

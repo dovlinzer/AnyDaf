@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Kik & Kikayon",
+    "candidates": [
+      "Wax as Wick",
+      "Paraffin & Cotton",
+      "Prohibited Uses",
+      "Kik & Kikayon",
+      "Flicker Reasons",
+      "Abaye's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage identifies 'kalakh' from the mishna's list of prohibited materials \u2014 Shmuel asks seafarers for its name and Rav Yitzchak bar Ze'ira identifies it as a silkworm cocoon \u2014 which fits squarely in the 'Kik & Kikayon' section where prohibited substances are being identified and explained.",
+      "chosen_heading": "Kik & Kikayon",
+      "current_heading": "Kik & Kikayon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Abaye's Question",
+    "candidates": [
+      "Flicker Reasons",
+      "Abaye's Question",
+      "Wick Wrapping",
+      "Ma'aseh Rav",
+      "Floating Wicks",
+      "Fat & Fish Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage identifies 'metaksa' silk fabric with specific terminology (kalakh, shira peranda), which fits the 'Fat & Fish Issue' section's discussion of identifying and distinguishing between similar materials \u2014 but more precisely, this anecdote about Ravin and Abaye identifying a type of silk before Rabbana Ne\u1e25emya is a Gemara digression about the identification of 'kalakh' mentioned in the Mishnah, which belongs with the materials-identification discussions; however, looking at the candidates, the 'Fat & Fish Issue' section (index 5) is the only one that deals with the Gemara's ongoing discussion of permitted/prohibited materials where such an identification tangent would naturally appear, making it the best fit among the available headings.",
+      "chosen_heading": "Fat & Fish Issue",
+      "current_heading": "Abaye's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Fat & Fish Issue",
+    "candidates": [
+      "Wick Wrapping",
+      "Ma'aseh Rav",
+      "Floating Wicks",
+      "Fat & Fish Issue",
+      "Temple Standards",
+      "Priestly Garments"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 13,
+      "first_heading": "Floating Wicks",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-13 cover the wick-wrapping/floating wick dispute culminating in the resolution that the tanna kamma and Rabban Shimon ben Gamliel do not actually disagree, which matches 'Floating Wicks' prose.",
+      "second_heading": "Fat & Fish Issue",
+      "second_confidence": "high",
+      "second_reason": "Items 14-16 cover the fat/fish innards gezeira issue and Temple standards, matching the 'Fat & Fish Issue' prose about liquefied fat, fish innards, and the gezeira l'gezeira principle.",
+      "current_heading": "Fat & Fish Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Priestly Garments",
+    "candidates": [
+      "Temple Standards",
+      "Priestly Garments",
+      "Rav Huna",
+      "Rava's Concern",
+      "Rav Chisda",
+      "Rabbi Zeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses priestly garments being unraveled for Temple wicks and whether they constitute kilayim, which matches the 'Priestly Garments' prose exactly \u2014 discussing bigdei kehunah, kilayim concerns, and the answer that linen (de-butz) garments were used.",
+      "chosen_heading": "Priestly Garments",
+      "current_heading": "Priestly Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Rabbi Zeira",
+    "candidates": [
+      "Rav Huna",
+      "Rava's Concern",
+      "Rav Chisda",
+      "Rabbi Zeira",
+      "Kavsah Ein Zakuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together cover the full dispute about wicks and oils for Chanukah (Rav Huna, Rav Chisda, Rabbi Zeira/Rav) plus Abaye's acceptance of the ruling and the girsa de'yankusa point, which exactly matches the prose of candidate 3 ('Rabbi Zeira'), making the current placement correct.",
+      "chosen_heading": "Rabbi Zeira",
+      "current_heading": "Rabbi Zeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Kavsah Ein Zakuk",
+    "candidates": [
+      "Kavsah Ein Zakuk",
+      "Timing & Duration",
+      "One vs. Per Person",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'kavsah ein zakuk la' challenge and its resolution, plus the Rabba bar bar \u1e24ana/Rabbi Yo\u1e25anan clarification of 'tichleh regel min hashuk' \u2014 all of which are explicitly covered in the prose of heading 0.",
+      "chosen_heading": "Kavsah Ein Zakuk",
+      "current_heading": "Kavsah Ein Zakuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Timing & Duration",
+      "One vs. Per Person",
+      "Shammai vs. Hillel",
+      "Dispute Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita presents all three levels of Chanukah observance (ner ish u'beito, mehadrin, mehadrin min hamehadrin) including the Beit Shammai/Beit Hillel dispute as part of one unit, and the 'One vs. Per Person' section's prose explicitly introduces and discusses this entire baraita including the mehadrin min hamehadrin dispute, while the 'Shammai vs. Hillel' section's prose picks up only from the mehadrin min hamehadrin level onward.",
+      "chosen_heading": "One vs. Per Person",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Dispute Reasons",
+    "candidates": [
+      "Shammai vs. Hillel",
+      "Dispute Reasons",
+      "Where to Place",
+      "Time of Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the rationale behind the Beit Shammai\u2013Beit Hillel dispute over Hanukkah candle counts (parei hachag vs. ma'alin b'kodesh, incoming vs. outgoing days), which is precisely what the 'Dispute Reasons' section's prose describes.",
+      "chosen_heading": "Dispute Reasons",
+      "current_heading": "Dispute Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Time of Danger",
+    "candidates": [
+      "Where to Place",
+      "Time of Danger",
+      "Shamash Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all three cases (outdoor placement, upstairs window, and time of danger) as a single unit, and the 'Where to Place' prose explicitly discusses this baraita's content including the outdoor placement and upstairs window rules, while the current placement under 'Time of Danger' only addresses one clause of the baraita.",
+      "chosen_heading": "Where to Place",
+      "current_heading": "Time of Danger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Shamash Purpose",
+    "candidates": [
+      "Time of Danger",
+      "Shamash Purpose",
+      "Megillat Taanit",
+      "Greek Defilement",
+      "Oil Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about needing an additional light (the shamash), the exemption when a bonfire is present, and the exception for important persons \u2014 exactly the content discussed in the 'Shamash Purpose' section's prose.",
+      "chosen_heading": "Shamash Purpose",
+      "current_heading": "Shamash Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Oil Miracle",
+    "candidates": [
+      "Megillat Taanit",
+      "Greek Defilement",
+      "Oil Miracle",
+      "Yom Tov Status",
+      "Oil Miracle Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire Hanukkah narrative from the Megillat Taanit citation through the oil miracle and establishment of Yom Tov, making it a single unified text that belongs under the 'Megillat Taanit' heading which introduces and frames the whole baraita.",
+      "chosen_heading": "Megillat Taanit",
+      "current_heading": "Oil Miracle",
+      "moved": true
+    }
+  }
+]

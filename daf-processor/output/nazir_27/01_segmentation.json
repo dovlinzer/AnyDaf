@@ -86,8 +86,8 @@
           "timestamp": "10:00"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "The Dispute Over Maot Setumot: Rav Shimi's Challenge to the Limitation",
@@ -105,7 +105,7 @@
           "timestamp": "13:57"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -134,8 +134,8 @@
           "timestamp": "20:58"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "The Response: Distinguishing Birds from Money Due to Direct Offering",
@@ -158,7 +158,7 @@
           "timestamp": "26:36"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 10,
       "matched": false
     },
     {
@@ -172,7 +172,7 @@
           "timestamp": "28:32"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 10,
       "matched": false
     },
     {
@@ -196,7 +196,7 @@
           "timestamp": "32:09"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 10,
       "matched": false
     },
     {
@@ -215,8 +215,8 @@
           "timestamp": "34:49"
         }
       ],
-      "sefaria_index": 12,
-      "matched": false
+      "sefaria_index": 0,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -412,5 +412,11 @@
         "03:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "00:16",
+  "amud_b_micro_title": "Unspecified Money Intro",
+  "shiur_start_daf": 27,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,413 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: Omer from Karov",
+    "candidates": [
+      "Intro: Omer from Karov",
+      "Karmel & Ma'avirin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself, introducing the rule about bringing the omer from nearby grain and the historical exceptions, which is exactly what the prose in section 0 describes.",
+      "chosen_heading": "Intro: Omer from Karov",
+      "current_heading": "Intro: Omer from Karov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Karmel & Ma'avirin",
+    "candidates": [
+      "Karmel & Ma'avirin",
+      "Ein Ma'avirin Principle",
+      "Siege Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two rationales (karmel and ein ma'avirin) for bringing the omer from nearby grain, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Karmel & Ma'avirin",
+      "current_heading": "Karmel & Ma'avirin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Siege Context",
+    "candidates": [
+      "Ein Ma'avirin Principle",
+      "Siege Context",
+      "Traitor & Greek Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Hasmonean siege with Hyrcanus outside and Aristobulus inside, lowering dinars and sending up daily offerings \u2014 exactly what the 'Siege Context' prose discusses.",
+      "chosen_heading": "Siege Context",
+      "current_heading": "Siege Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Traitor & Greek Wisdom",
+    "candidates": [
+      "Traitor & Greek Wisdom",
+      "Consequences & Curses",
+      "Burned Fields Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose in 'Traitor & Greek Wisdom' discusses: the elder versed in Greek wisdom, his communication to the besieging forces, and the pig incident causing the earth to shudder.",
+      "chosen_heading": "Traitor & Greek Wisdom",
+      "current_heading": "Traitor & Greek Wisdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Burned Fields Context",
+    "candidates": [
+      "Consequences & Curses",
+      "Burned Fields Context",
+      "Deaf-Mute Gagot Tserifim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the cursed declarations about pigs and Greek wisdom followed by the omer/shtei halechem connection, which matches exactly the 'Consequences & Curses' section prose that quotes those very same curses \u2014 the current placement under 'Burned Fields Context' separates the curses from the section discussing them.",
+      "chosen_heading": "Consequences & Curses",
+      "current_heading": "Burned Fields Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Deaf-Mute Gagot Tserifim",
+    "candidates": [
+      "Burned Fields Context",
+      "Deaf-Mute Gagot Tserifim",
+      "Ein Socher Discovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the deaf-mute's gesture and Mordekhai's interpretation leading to the discovery of Gaggot Tzerifin, which is precisely what the 'Deaf-Mute Gagot Tserifim' section's prose discusses in detail.",
+      "chosen_heading": "Deaf-Mute Gagot Tserifim",
+      "current_heading": "Deaf-Mute Gagot Tserifim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Ein Socher Discovery",
+    "candidates": [
+      "Ein Socher Discovery",
+      "Traitor vs. Mordechai",
+      "Three Women's Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact Ein Socher/Sokher Ayin discovery story for the shtei halechem, which matches precisely the prose in candidate 0.",
+      "chosen_heading": "Ein Socher Discovery",
+      "current_heading": "Ein Socher Discovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Three Women's Birds",
+    "candidates": [
+      "Traitor vs. Mordechai",
+      "Three Women's Birds",
+      "Mordechai: Health Threats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the three women bringing their bird offerings and the initial understanding of their statements as zava-related obligations, which matches exactly the prose of heading 1 ('Three Women's Birds') that describes these women arriving with kinin and the initial assumption that all three were presenting korbanot of a zavah.",
+      "chosen_heading": "Three Women's Birds",
+      "current_heading": "Three Women's Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Mordechai: Health Threats",
+    "candidates": [
+      "Mordechai: Health Threats",
+      "Petachiah/Balshan ID"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose of heading 0 summarizes \u2014 Mordekhai's reinterpretation of the three women's situations as health dangers and the subsequent verification \u2014 making it a direct match to that section's content.",
+      "chosen_heading": "Mordechai: Health Threats",
+      "current_heading": "Mordechai: Health Threats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Petachiah/Balshan ID",
+    "candidates": [
+      "Petachiah/Balshan ID",
+      "Seventy Languages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna identifying Petachyah as Mordechai and explaining his name, which is precisely what the prose under 'Petachiah/Balshan ID' discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Petachiah/Balshan ID",
+      "current_heading": "Petachiah/Balshan ID",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Seventy Languages",
+    "candidates": [
+      "Seventy Languages",
+      "Marking & Gathering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about what made Peta\u1e25ya/Mordechai unique regarding seventy languages, which is precisely what the 'Seventy Languages' section prose discusses in detail.",
+      "chosen_heading": "Seventy Languages",
+      "current_heading": "Seventy Languages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Marking & Gathering",
+    "candidates": [
+      "Marking & Gathering",
+      "Triple Affirmation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes emissaries fashioning sheaves and towns assembling for the harvest, which is precisely what the 'Marking & Gathering' prose discusses, not the triple affirmation ceremony described under heading 1.",
+      "chosen_heading": "Marking & Gathering",
+      "current_heading": "Marking & Gathering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Triple Affirmation",
+    "candidates": [
+      "Triple Affirmation",
+      "Anti-Baytusin Framing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the repeated public affirmation procedure (sun-set, sickle, basket, Shabbat, cut), which is exactly what the 'Triple Affirmation' prose describes in detail.",
+      "chosen_heading": "Triple Affirmation",
+      "current_heading": "Triple Affirmation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Anti-Baytusin Framing",
+    "candidates": [
+      "Anti-Baytusin Framing",
+      "Megillat Taanit Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnaic text about the threefold public affirmation and the Boethusian dispute over the omer harvest timing, which is precisely what the 'Anti-Baytusin Framing' section's prose discusses.",
+      "chosen_heading": "Anti-Baytusin Framing",
+      "current_heading": "Anti-Baytusin Framing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Megillat Taanit Source",
+    "candidates": [
+      "Megillat Taanit Source",
+      "Tzedukim Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Megillat Taanit baraita itself, directly quoting the text about Nisan dates and fasting/eulogizing prohibitions, which is exactly what the 'Megillat Taanit Source' prose introduces and discusses.",
+      "chosen_heading": "Megillat Taanit Source",
+      "current_heading": "Megillat Taanit Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Tzedukim Position",
+    "candidates": [
+      "Tzedukim Position",
+      "Pharisaic Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the Sadducees' position and their textual basis for allowing individual donation of the daily offering, which matches exactly the 'Tzedukim Position' section's prose.",
+      "chosen_heading": "Tzedukim Position",
+      "current_heading": "Tzedukim Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Pharisaic Counter",
+    "candidates": [
+      "Pharisaic Counter",
+      "Tzedukim vs. Pharisaic",
+      "Baytusin: Sunday Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the Pharisaic counter-argument using the plural 'tishm'ru' verse, which is precisely what the 'Pharisaic Counter' prose section discusses.",
+      "chosen_heading": "Pharisaic Counter",
+      "current_heading": "Pharisaic Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Baytusin: Sunday Only",
+    "candidates": [
+      "Tzedukim vs. Pharisaic",
+      "Baytusin: Sunday Only",
+      "Ben Zakkai Dismissal",
+      "Elder's Defense",
+      "Ben Zakkai Rebuttal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Boethusian claim that Shavuot falls after Shabbat (atzeret achar ha-Shabbat), which is exactly what the 'Baytusin: Sunday Only' section's prose introduces and explains.",
+      "chosen_heading": "Baytusin: Sunday Only",
+      "current_heading": "Baytusin: Sunday Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Ben Zakkai Rebuttal",
+    "candidates": [
+      "Ben Zakkai Dismissal",
+      "Elder's Defense",
+      "Ben Zakkai Rebuttal",
+      "Debate Assessment",
+      "50 Days & 7 Weeks",
+      "Full Weeks Conditional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover Rabban Yochanan ben Zakkai's verse-based rebuttal about eleven days/forty years and his final 'shoteh' dismissal, which is precisely what the 'Ben Zakkai Rebuttal' prose describes.",
+      "chosen_heading": "Ben Zakkai Rebuttal",
+      "current_heading": "Ben Zakkai Rebuttal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Full Weeks Conditional",
+    "candidates": [
+      "Debate Assessment",
+      "50 Days & 7 Weeks",
+      "Full Weeks Conditional",
+      "50 vs. 49 Days",
+      "Singular vs. Plural Count",
+      "Exclude Shabbat Rule",
+      "Pesach Dependency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "50 Days & 7 Weeks",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the contradiction between 'fifty days' and 'seven complete weeks' and its resolution, matching exactly the prose of candidate 1 ('50 Days & 7 Weeks') and candidate 2 ('Full Weeks Conditional') \u2014 but since both items together form the question-and-answer unit discussed under heading 1's prose which introduces both verses, and heading 2's prose handles the resolution, items 1-2 as a unit best fit under heading 1 which introduces the textual argument.",
+      "second_heading": "Singular vs. Plural Count",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rabbi Eliezer's alternative proof using 'tispar lach' (singular counting dependent on beit din), which corresponds precisely to candidate 4 ('Singular vs. Plural Count') and candidate 5 ('Exclude Shabbat Rule'), with the mnemonic (item 3) serving as a lead-in to Rabbi Eliezer's proof (item 4), best placed under candidate 4.",
+      "current_heading": "Full Weeks Conditional",
+      "moved": true
+    }
+  }
+]

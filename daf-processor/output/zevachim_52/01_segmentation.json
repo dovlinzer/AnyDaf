@@ -106,7 +106,7 @@
           "timestamp": "25:36"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -135,7 +135,7 @@
           "timestamp": "26:42"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -436,5 +436,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "16:47",
+  "amud_b_micro_title": "Rabbi Yishmael's Braita",
+  "shiur_start_daf": 52,
+  "shiur_start_amud": "a"
 }

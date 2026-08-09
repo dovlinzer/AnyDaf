@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Ishtakach Gavra",
+    "candidates": [
+      "Market Value Today",
+      "Assessment vs. Auction",
+      "Owner's Fifth Advantage",
+      "Case Law Philosophy",
+      "Owner Coercion",
+      "Ishtakach Gavra",
+      "Rava's Resolution",
+      "Fraction Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Gemara's question of why the owner cannot say 'ishtakach gavra b'chariki' when bids are equal, and the resolution that the mishnah's case involves the owner bidding twenty and a dinar \u2014 which is precisely what candidate 5 ('Ishtakach Gavra') discusses.",
+      "chosen_heading": "Ishtakach Gavra",
+      "current_heading": "Ishtakach Gavra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Fraction Precision",
+    "candidates": [
+      "Rava's Resolution",
+      "Fraction Precision",
+      "Rabbi Yehuda's Condition",
+      "Ten vs. Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's objection about why the mishnah doesn't mention a dinar explicitly, the response that the tanna was not meticulous, the counter-proof from the mishnah's own mention of a dinar, and Rava's reformulation involving a perutah \u2014 all of which precisely match the 'Fraction Precision' section's prose.",
+      "chosen_heading": "Fraction Precision",
+      "current_heading": "Fraction Precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Ten vs. Three",
+    "candidates": [
+      "Rabbi Yehuda's Condition",
+      "Ten vs. Three",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav \u1e24isda's statement distinguishing between cases where hekdesh was or was not appraised by three people, which is precisely what candidate 0 ('Rabbi Yehuda's Condition') describes in its prose, while the current placement under 'Ten vs. Three' discusses the practical implications of that rule rather than the rule itself.",
+      "chosen_heading": "Rabbi Yehuda's Condition",
+      "current_heading": "Ten vs. Three",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Ten vs. Three",
+      "Shammai vs. Hillel",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shammai vs. Hillel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the baraita and the Gemara's analysis that the case must involve an independent assessment \u2014 exactly what candidate 1 ('Shammai vs. Hillel') describes.",
+      "second_heading": "Gemara Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises and resolves the question of whether Rav Chisda follows Beit Shammai, offering the 'stringency' resolution \u2014 exactly what candidate 2 ('Gemara Resolution') describes as the Gemara's answer to that precise problem.",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Gemara Resolution",
+      "Last Chance Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two Gemara resolutions \u2014 the v'eiphach reversal and its rejection based on kulei Beit Shammai/chumrei Beit Hillel, followed by the conclusion that the baraisa concerns a case without assessment \u2014 which is precisely what the 'Gemara Resolution' prose describes.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Last Chance Reading",
+    "candidates": [
+      "Last Chance Reading",
+      "Rav Sheshet Reinterprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the mishna's final case where the outsider bid twenty-six and the owner may choose (im ratzu) to pay thirty-one and a dinar, which is precisely what heading 0 ('Last Chance Reading') addresses \u2014 the voluntary nature of the owner's last option and the arithmetic puzzle of the dinar, before Rav Sheshet's reinterpretation in heading 1.",
+      "chosen_heading": "Last Chance Reading",
+      "current_heading": "Last Chance Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rav Sheshet Reinterprets",
+    "candidates": [
+      "Rav Sheshet Reinterprets",
+      "Bid Timing Dispute",
+      "Cherem vs. Hekdesh",
+      "Kisedei Hacherem",
+      "Cherem Categories",
+      "Rabbi Eliezer Partial",
+      "Moral Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about the purpose of the dinar and Rav Sheshet's reinterpretation involving me'ikara and the owner's original bid of twenty-one, which is precisely what the 'Rav Sheshet Reinterprets' prose section discusses.",
+      "chosen_heading": "Rav Sheshet Reinterprets",
+      "current_heading": "Rav Sheshet Reinterprets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Moral Argument",
+    "candidates": [
+      "Bid Timing Dispute",
+      "Cherem vs. Hekdesh",
+      "Kisedei Hacherem",
+      "Cherem Categories",
+      "Rabbi Eliezer Partial",
+      "Moral Argument",
+      "Mikol Asher Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself introducing the laws of cherem with the partial-dedication rule and Rabbi Eliezer's ruling, which is precisely what the 'Cherem Categories' prose describes as the content of this mishnah.",
+      "chosen_heading": "Cherem Categories",
+      "current_heading": "Moral Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Mikol Asher Lo",
+    "candidates": [
+      "Moral Argument",
+      "Mikol Asher Lo",
+      "Necessity Analysis",
+      "Ownership Principle",
+      "Exclusions Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the Gemara's derivation from the baraita on 'mikol asher lo' and the necessity analysis of each category \u2014 exactly what candidate 1 ('Mikol Asher Lo') describes in its prose, including the baraita's limiting readings, Rabbi Eliezer's ruling via 'ach', and the 'tzrichi' argument about why all three formulations are needed.",
+      "chosen_heading": "Mikol Asher Lo",
+      "current_heading": "Mikol Asher Lo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Exclusions Listed",
+    "candidates": [
+      "Necessity Analysis",
+      "Ownership Principle",
+      "Exclusions Listed",
+      "Permanent Sale Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita that lists what cannot be made cherem (son, daughter, Hebrew slaves, purchased field) and derives this from the word 'animal,' which is precisely what the 'Exclusions Listed' section's prose discusses.",
+      "chosen_heading": "Exclusions Listed",
+      "current_heading": "Exclusions Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Permanent Sale Test",
+    "candidates": [
+      "Permanent Sale Test",
+      "Kohanim Cannot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita's derivation from 'behemah' establishing the permanent-salability test (leolam) and the minor daughter case, which is exactly what the prose under 'Permanent Sale Test' discusses at length.",
+      "chosen_heading": "Permanent Sale Test",
+      "current_heading": "Permanent Sale Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Kohanim Cannot",
+    "candidates": [
+      "Kohanim Cannot",
+      "Shimon's Logic",
+      "Leviyim Inheritance",
+      "Rabbi's Compromise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "This passage discusses the Usha institution about not giving more than a fifth to charity, which follows directly from the discussion of Rabbi Elazar ben Azarya's position on limiting charitable giving \u2014 a topic that fits best as a continuation after the Rebbi compromise section, and is completely unrelated to the Kohanim/Leviyim cherem content of the current placement (candidate 0).",
+      "chosen_heading": "Rabbi's Compromise",
+      "current_heading": "Kohanim Cannot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Rabbi's Compromise",
+    "candidates": [
+      "Shimon's Logic",
+      "Leviyim Inheritance",
+      "Rabbi's Compromise",
+      "Gemara Reinterprets",
+      "Designating Kohen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi's Compromise",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna and Rabbi Yehuda HaNasi's compromise statement, which is exactly what heading 'Rabbi's Compromise' discusses \u2014 the apparent split between Rabbi Yehuda (land) and Rabbi Shimon (movable property).",
+      "second_heading": "Gemara Reinterprets",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara's challenge and reinterpretation of Rabbi's statement \u2014 collapsing the dispute and concluding Rabbi Shimon never disagreed about land \u2014 which is precisely what 'Gemara Reinterprets' describes.",
+      "current_heading": "Rabbi's Compromise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Designating Kohen",
+    "candidates": [
+      "Gemara Reinterprets",
+      "Designating Kohen",
+      "Land Goes to Mishmar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Designating Kohen",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the rule for dedicated movable property going to any priest of one's choice, which matches the 'Designating Kohen' prose exactly.",
+      "second_heading": "Land Goes to Mishmar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the rule for dedicated fields going to the priest of the current mishmar with the gezerah shavah from gezel hager, which matches the 'Land Goes to Mishmar' prose exactly.",
+      "current_heading": "Designating Kohen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Land Goes to Mishmar",
+    "candidates": [
+      "Land Goes to Mishmar",
+      "Yovel Analogy",
+      "Yovel on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's derivation from the baraita on Numbers 5:8 establishing that gezel ha-ger goes to the mishmar on duty \u2014 exactly what the 'Yovel Analogy' prose describes as the gezerah shavah from gezel ha-ger that proves cherem property goes to the mishmar serving at the relevant time.",
+      "chosen_heading": "Yovel Analogy",
+      "current_heading": "Land Goes to Mishmar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Yovel on Shabbat",
+    "candidates": [
+      "Yovel Analogy",
+      "Yovel on Shabbat",
+      "Yovel Timing Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma of Yovel occurring on Shabbat and Rav \u1e24iyya bar Ami's ruling that the field goes to the outgoing mishmar, which is precisely what heading 1 'Yovel on Shabbat' describes in its prose.",
+      "chosen_heading": "Yovel on Shabbat",
+      "current_heading": "Yovel on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Yovel Timing Dispute",
+    "candidates": [
+      "Yovel Timing Dispute",
+      "Abbahu's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the baraita about yovel and shemitah abrogating simultaneously, the textual challenge from the Yom Kippur verse, and the resolution via Rabbi Yishmael son of Rabbi Yochanan ben Beroka \u2014 exactly the content described in the 'Yovel Timing Dispute' prose.",
+      "chosen_heading": "Yovel Timing Dispute",
+      "current_heading": "Yovel Timing Dispute",
+      "moved": false
+    }
+  }
+]

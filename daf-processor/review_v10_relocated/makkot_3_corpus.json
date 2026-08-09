@@ -1,0 +1,419 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Demei Nizak vs. Mazik",
+    "candidates": [
+      "Rav Chisda's Position",
+      "Kofer Exception Intro",
+      "Demei Nizak vs. Mazik",
+      "Rava's Reinterpretation",
+      "Gezera Shava Analysis",
+      "Pidyon Nafsho Dispute",
+      "Eved Ivri Question",
+      "Rav Hamnuna's Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Demei Nizak vs. Mazik",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the initial Gemara question about who holds kufra kapara, Rav Chisda's attribution to Rabbi Yishmael, the baraita about demei nizak vs. demei mazik, and Rav Pappa's reinterpretation \u2014 all of which match the 'Demei Nizak vs. Mazik' prose exactly.",
+      "second_heading": "Gezera Shava Analysis",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the gezera shava proof of the Rabbis and Rabbi Yishmael's response based on 'pidyon nafsho,' which correspond precisely to the 'Gezera Shava Analysis' and 'Pidyon Nafsho Dispute' sections \u2014 item 3 matches heading 4 and item 4 matches heading 5, but since they must go under one heading, heading 4 covers the gezera shava which opens this sub-discussion.",
+      "current_heading": "Demei Nizak vs. Mazik",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav Hamnuna's Logic",
+    "candidates": [
+      "Rava's Reinterpretation",
+      "Gezera Shava Analysis",
+      "Pidyon Nafsho Dispute",
+      "Eved Ivri Question",
+      "Rav Hamnuna's Logic",
+      "Hamnuna Revised"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Hamnuna's initial reasoning about when edim zomemim are or are not sold as eved ivri based on whether the defendant had means, which is precisely what the 'Rav Hamnuna's Logic' prose section describes.",
+      "chosen_heading": "Rav Hamnuna's Logic",
+      "current_heading": "Rav Hamnuna's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Hamnuna Revised",
+    "candidates": [
+      "Hamnuna Revised",
+      "Rava's Exception",
+      "Rabbi Akiva Kenas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what 'Hamnuna Revised' describes: Rava's objection about paying cash instead of being sold, Rav Hamnuna's revised position about when neither party has money, and Rava's final rejection using the verse 'bignivato velo bizmamo' \u2014 all of which the prose of heading 0 explicitly discusses, while heading 1 only summarizes Rava's conclusion without the preceding dialogue.",
+      "chosen_heading": "Hamnuna Revised",
+      "current_heading": "Hamnuna Revised",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rabbi Akiva Kenas",
+    "candidates": [
+      "Rava's Exception",
+      "Rabbi Akiva Kenas",
+      "Rava vs. Akiva",
+      "Ed Zomem Division Rule",
+      "Punishment Division Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Akiva's position that edim zomemim payment is a kenas and the proofs offered by Rabba and Rav Na\u1e25man for that characterization, which is precisely what candidate 1 ('Rabbi Akiva Kenas') describes in its prose.",
+      "chosen_heading": "Rabbi Akiva Kenas",
+      "current_heading": "Rabbi Akiva Kenas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Punishment Division Rule",
+    "candidates": [
+      "Rava vs. Akiva",
+      "Ed Zomem Division Rule",
+      "Punishment Division Rule",
+      "Single Witness Zomem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Yehuda's teaching in Rav's name that 'ed zomem pays according to his share,' which is precisely what the 'Ed Zomem Division Rule' prose describes, and the question about what this means (half each?) follows naturally as the opening of that section.",
+      "chosen_heading": "Ed Zomem Division Rule",
+      "current_heading": "Punishment Division Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Single Witness Zomem",
+    "candidates": [
+      "Punishment Division Rule",
+      "Single Witness Zomem",
+      "Chozer U-Maggid Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case of only one witness being rendered a conspiring witness and cites the baraita 'ein ed zomem meshalem mamon ad sheyuzmu sheneihem,' which is precisely what the 'Single Witness Zomem' section's prose describes.",
+      "chosen_heading": "Single Witness Zomem",
+      "current_heading": "Single Witness Zomem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Chozer U-Maggid Rule",
+    "candidates": [
+      "Chozer U-Maggid Rule",
+      "From Another Court"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rava's statement about false testimony retraction and the 'keivan shehigid' principle, which is exactly what the 'Chozer U-Maggid Rule' prose discusses.",
+      "chosen_heading": "Chozer U-Maggid Rule",
+      "current_heading": "Chozer U-Maggid Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "From Another Court",
+    "candidates": [
+      "From Another Court",
+      "Ed Echad Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same chain of question-and-answer refining the 'he-adnu vehuzmanu' scenario, which is precisely what the 'From Another Court' prose describes \u2014 the narrow pathway through which a zomem can voluntarily pay without the modeh bekenas problem.",
+      "chosen_heading": "From Another Court",
+      "current_heading": "From Another Court",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ed Echad Logic",
+    "candidates": [
+      "Ed Echad Logic",
+      "Divorce & Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the salka da'atakh reasoning about why one witness cannot obligate his fellow but can obligate himself, which is exactly what the 'Ed Echad Logic' prose describes.",
+      "chosen_heading": "Ed Echad Logic",
+      "current_heading": "Ed Echad Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Divorce & Ketubah",
+    "candidates": [
+      "Divorce & Ketubah",
+      "Risk Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna introducing the divorce/ketubah case, which candidate 0's prose explicitly describes as the 'next mishna' addressing testimony that 'so-and-so divorced his wife and did not pay her ketubah,' matching the content precisely before the risk-analysis calculation discussed in candidate 1.",
+      "chosen_heading": "Divorce & Ketubah",
+      "current_heading": "Divorce & Ketubah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Risk Analysis",
+    "candidates": [
+      "Risk Analysis",
+      "Baal Assessment",
+      "Assessment Expansion",
+      "Loan Timeline Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Risk Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text describing the risk-assessment framework for the ketubah, which matches the 'Risk Analysis' prose discussing market-based valuation of the ketubah as a financial instrument.",
+      "second_heading": "Baal Assessment",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara's dispute among Rav \u1e24isda, Rav Natan bar Oshaya, and Rav Pappa about how precisely to perform the assessment, matching 'Baal Assessment' (which introduces Rav \u1e24isda's view) and 'Assessment Expansion' (which covers Rav Natan and Rav Pappa) \u2014 but since items 2-4 form one continuous dispute, they belong together under the heading that begins that dispute, which is 'Baal Assessment' (index 1).",
+      "current_heading": "Risk Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Loan Timeline Dispute",
+    "candidates": [
+      "Baal Assessment",
+      "Assessment Expansion",
+      "Loan Timeline Dispute",
+      "Value Calculation",
+      "Shemita Cancellation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the Mishna case about witnesses testifying to a thirty-day loan versus the debtor's claim of a ten-year loan, and the assessment formula \u2014 exactly what the 'Loan Timeline Dispute' prose describes.",
+      "chosen_heading": "Loan Timeline Dispute",
+      "current_heading": "Loan Timeline Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Shemita Cancellation",
+    "candidates": [
+      "Value Calculation",
+      "Shemita Cancellation",
+      "Lo Yigosh After Shemita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda/Shmuel's statement that a ten-year loan is cancelled by shemita, which is precisely what the 'Shemita Cancellation' section's prose introduces and discusses.",
+      "chosen_heading": "Shemita Cancellation",
+      "current_heading": "Shemita Cancellation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Lo Yigosh After Shemita",
+    "candidates": [
+      "Lo Yigosh After Shemita",
+      "Alternative Shemita View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the argument that even though lo yigosh does not currently apply, it will ultimately apply \u2014 which is precisely what heading 0's prose discusses as the Gemara's answer in the first version of the sugya.",
+      "chosen_heading": "Lo Yigosh After Shemita",
+      "current_heading": "Lo Yigosh After Shemita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Alternative Shemita View",
+    "candidates": [
+      "Alternative Shemita View",
+      "Rava's Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Exclusion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rav Kahana's objection from the mishna and Rava's resolution via collateral/court-transferred loans, which is exactly what the 'Rava's Exclusion' prose describes.",
+      "second_heading": "Alternative Shemita View",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the ika de'amri version where Shmuel rules a ten-year loan is not cancelled by shemita and Rav Kahana proves it from the mishna, which is precisely what the 'Alternative Shemita View' prose describes.",
+      "current_heading": "Alternative Shemita View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rava's Exclusion",
+    "candidates": [
+      "Rava's Exclusion",
+      "Conditions on Torah Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's resolution about collateral loans and court-deposited notes not being abrogated by shemita, which is precisely what the 'Rava's Exclusion' prose describes.",
+      "chosen_heading": "Rava's Exclusion",
+      "current_heading": "Rava's Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Conditions on Torah Law",
+    "candidates": [
+      "Conditions on Torah Law",
+      "Thirty-Day Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about stipulating counter to Torah law regarding shemita cancellation and ona'ah, exactly matching the prose under 'Conditions on Torah Law'.",
+      "chosen_heading": "Conditions on Torah Law",
+      "current_heading": "Conditions on Torah Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Thirty-Day Minimum",
+    "candidates": [
+      "Thirty-Day Minimum",
+      "Written vs. Oral",
+      "Shmuel's Challenge",
+      "Gezera from Shemita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Written vs. Oral",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabba bar bar Chana's distinction between written and oral loans and Rav's rejection of it (plus the corroborating baraita), which matches the 'Written vs. Oral' prose exactly.",
+      "second_heading": "Shmuel's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Shmuel's challenge to Rav Mattana demanding an explanation of why the rule applies equally to both loan types, which matches the 'Shmuel's Challenge' prose exactly.",
+      "current_heading": "Thirty-Day Minimum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Gezera from Shemita",
+    "candidates": [
+      "Written vs. Oral",
+      "Shmuel's Challenge",
+      "Gezera from Shemita",
+      "Fiscal Year Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives the thirty-day minimum for unspecified loans from the redundancy in the Shemita verse, which is precisely what the 'Gezera from Shemita' section's prose describes.",
+      "chosen_heading": "Gezera from Shemita",
+      "current_heading": "Gezera from Shemita",
+      "moved": false
+    }
+  }
+]

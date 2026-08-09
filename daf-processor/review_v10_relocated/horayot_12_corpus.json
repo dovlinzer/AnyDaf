@@ -1,0 +1,450 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Kingship Yerusha",
+    "candidates": [
+      "Par Offering Rules",
+      "Kings vs. Kohanim",
+      "Kingship Yerusha",
+      "Firstborn Kings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the inherited nature of kingship, the verse 'hu uvanav bekerev Yisrael,' and Rav Pappa's ruling about when anointing is required versus when inheritance suffices \u2014 exactly what the 'Kingship Yerusha' section's prose describes.",
+      "chosen_heading": "Kingship Yerusha",
+      "current_heading": "Kingship Yerusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Firstborn Kings",
+    "candidates": [
+      "Firstborn Kings",
+      "Judah vs. Israel",
+      "Yehoachaz Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Jehu/Yoram anointing baraita, the chasorei mechasra correction establishing that kings of Israel are not anointed, Rava's derivation from the verse about David, and Rav Pappa's ruling about pure balsam oil \u2014 all of which are explicitly treated in the 'Firstborn Kings' prose.",
+      "chosen_heading": "Firstborn Kings",
+      "current_heading": "Firstborn Kings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Yehoachaz Case",
+    "candidates": [
+      "Judah vs. Israel",
+      "Yehoachaz Case",
+      "David & Solomon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Yehoachaz/Yehoyakim age dispute and the question of whether younger sons can rule before older ones \u2014 exactly the content described in the 'Yehoachaz Case' prose, which explicitly mentions Rabbi Yochanan's resolution and the Yehoram verse with the 'memalei makom avosav' answer.",
+      "chosen_heading": "Yehoachaz Case",
+      "current_heading": "Yehoachaz Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "David & Solomon",
+    "candidates": [
+      "David & Solomon",
+      "Oil Hidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the identification of Shallum/Zedekiah and his names/succession order, which is explicitly covered in the 'David & Solomon' prose section that describes exactly this gemara about shlishi l'vanim, revi'i l'malchus, and Nebuchadnezzar renaming Mattaniah to Zedekiah.",
+      "chosen_heading": "David & Solomon",
+      "current_heading": "David & Solomon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Oil Hidden",
+    "candidates": [
+      "Oil Hidden",
+      "Anointing Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Oil Hidden",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the hiding of the Ark, anointing oil, and related items along with Yoshiyahu's role \u2014 exactly matching the 'Oil Hidden' prose which covers all these details.",
+      "second_heading": "Anointing Method",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rav Pappa's conclusion that Jehoahaz was anointed with pure balsam oil) is the direct resolution of the 'was anointing oil available' question and serves as the bridge into 'Anointing Method', whose prose explicitly opens with Rav Papa's answer about *afarsema dachya* as the substitute anointing substance.",
+      "current_heading": "Oil Hidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Anointing Method",
+    "candidates": [
+      "Anointing Method",
+      "Aaron's Beard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items concern the mechanics of anointing kings and priests (crown shape, chi shape, order of pouring vs. anointing), which is precisely what heading 0 'Anointing Method' describes in its prose.",
+      "chosen_heading": "Anointing Method",
+      "current_heading": "Anointing Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Aaron's Beard",
+    "candidates": [
+      "Aaron's Beard",
+      "Spring Anointing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the pearl-like drops of oil on Aaron's beard and the concerns about me'ilah resolved by a Divine Voice, which is precisely what the 'Aaron's Beard' prose describes.",
+      "chosen_heading": "Aaron's Beard",
+      "current_heading": "Aaron's Beard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Spring Anointing",
+    "candidates": [
+      "Spring Anointing",
+      "Omens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses anointing kings at a spring as an omen for continuity of reign, which matches the 'Spring Anointing' section's prose exactly, including the Gichon spring proof text.",
+      "chosen_heading": "Spring Anointing",
+      "current_heading": "Spring Anointing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Omens",
+    "candidates": [
+      "Omens",
+      "Rosh Hashanah Foods",
+      "River Teaching"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Omens",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the lamp and rooster omens discussed in candidate 0's prose about Rabbi Ami's forecasting methods.",
+      "second_heading": "Rosh Hashanah Foods",
+      "second_confidence": "high",
+      "second_reason": "Item 3 contains both the journey-omen warning and Abaye's transition to Rosh Hashanah foods, which candidate 1's prose explicitly discusses as its core content.",
+      "current_heading": "Omens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "River Teaching",
+    "candidates": [
+      "Rosh Hashanah Foods",
+      "River Teaching",
+      "Horn vs. Cruse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is directly about Rav Mesharshiyya's practical advice on Torah study \u2014 studying mishnah/baraita before entering before one's teacher, watching the teacher's mouth, studying by a river, and preferring Mata Me\u1e25asya over Pumbedita \u2014 which is precisely what the 'River Teaching' section's prose describes.",
+      "chosen_heading": "River Teaching",
+      "current_heading": "River Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Horn vs. Cruse",
+    "candidates": [
+      "Horn vs. Cruse",
+      "No Par for Kings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the symbolism of anointing vessels (horn vs. jug) and their connection to the durability of reigns, which is precisely what the 'Horn vs. Cruse' section's prose describes.",
+      "chosen_heading": "Horn vs. Cruse",
+      "current_heading": "Horn vs. Cruse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "No Par for Kings",
+    "candidates": [
+      "No Par for Kings",
+      "Par Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita deriving that the 'par' belongs exclusively to the anointed High Priest (excluding kings, merubeh begadim, and kohen anointed for war), with the gemara's analysis of why a king was even considered \u2014 exactly matching the 'No Par for Kings' prose.",
+      "chosen_heading": "No Par for Kings",
+      "current_heading": "No Par for Kings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Par Limitation",
+    "candidates": [
+      "Par Limitation",
+      "Rabbi Meir Dispute",
+      "Rabbi Meir Position",
+      "Rabbi Yossi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Rabbi Meir Dispute') explicitly describes all four items: the mishna not following Rabbi Meir, his reasoning from 'haKohen HaMashiach,' the seifa about the serving vs. former kohen gadol, and the baraita establishing that seifa as Rabbi Meir's view \u2014 matching the full content of items 1-4.",
+      "chosen_heading": "Rabbi Meir Dispute",
+      "current_heading": "Par Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rabbi Yossi Position",
+    "candidates": [
+      "Rabbi Meir Dispute",
+      "Rabbi Meir Position",
+      "Rabbi Yossi Position",
+      "Yosef ben Eilim",
+      "Mishnah Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the specific historical incident of Yosef ben Eilim of Tzippori, which is exactly what the 'Yosef ben Eilim' section prose discusses, not the general statement of Rabbi Yossi's position covered in candidate 2.",
+      "chosen_heading": "Yosef ben Eilim",
+      "current_heading": "Rabbi Yossi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Mishnah Resolution",
+    "candidates": [
+      "Yosef ben Eilim",
+      "Mishnah Resolution",
+      "Seven Distinctions",
+      "Mourning Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's resolution of how a single mishnah can reflect differing tannaitic opinions \u2014 Rav \u1e24isda's answer, Rav Yosef's answer, and Rava's answer \u2014 which is precisely what the 'Mishnah Resolution' prose describes.",
+      "chosen_heading": "Mishnah Resolution",
+      "current_heading": "Mishnah Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Mourning Laws",
+    "candidates": [
+      "Seven Distinctions",
+      "Mourning Laws",
+      "Marriage Laws",
+      "Murderer & Vestments",
+      "Eating in Mourning",
+      "Tumat Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the full baraita enumerating differences between High Priest and ordinary priest, which heading 0 ('Seven Distinctions') explicitly introduces as 'the beraita that enumerates the full range of differences between a kohen gadol and a kohen hedyot,' whereas the current placement under 'Mourning Laws' only covers a subset of the baraita's content.",
+      "chosen_heading": "Seven Distinctions",
+      "current_heading": "Mourning Laws",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Tumat Mikdash",
+    "candidates": [
+      "Marriage Laws",
+      "Murderer & Vestments",
+      "Eating in Mourning",
+      "Tumat Mikdash",
+      "Identifying War Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's explicit identification of the baraita as Rabbi Shimon's via Rav Pappa's reasoning about tumat mikdash, which is precisely what the 'Tumat Mikdash' section's prose describes and quotes.",
+      "chosen_heading": "Tumat Mikdash",
+      "current_heading": "Tumat Mikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Identifying War Kohen",
+    "candidates": [
+      "Identifying War Kohen",
+      "Five Laws",
+      "Exclusion Debate",
+      "Virginity Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the inclusion of the kohen gadol, mashiach milchama, and merubeh begadim from the verse, which is precisely what the 'Identifying War Kohen' section's prose discusses \u2014 the scriptural basis for identifying these three categories and the five laws that apply to the mashiach milchama.",
+      "chosen_heading": "Identifying War Kohen",
+      "current_heading": "Identifying War Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Virginity Debate",
+    "candidates": [
+      "Five Laws",
+      "Exclusion Debate",
+      "Virginity Debate",
+      "Leprosy Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the exclusion/re-inclusion of the mashiach milchama via 'v'hu' regarding the virgin marriage obligation, and the tannaitic dispute between Rabbi Yishmael and Rabbi Akiva over that same 'v'hu' \u2014 exactly what the 'Virginity Debate' prose describes.",
+      "chosen_heading": "Virginity Debate",
+      "current_heading": "Virginity Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Leprosy Query",
+    "candidates": [
+      "Leprosy Query",
+      "Blemish Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's dilemma to Rav Na\u1e25man about a leprous anointed High Priest and a widow, with no answer found \u2014 exactly what the 'Leprosy Query' prose describes.",
+      "chosen_heading": "Leprosy Query",
+      "current_heading": "Leprosy Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Blemish Resolution",
+    "candidates": [
+      "Blemish Resolution",
+      "Rav Papa Accept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the baraita resolution (belonging to 'Blemish Resolution') and the kiss/daughter episode, but the current placement under 'Blemish Resolution' is appropriate since that section's prose explicitly describes both the dilemma and the baraita answer as well as the resulting kiss and daughter-giving, making it the single best home for the entire passage.",
+      "chosen_heading": "Blemish Resolution",
+      "current_heading": "Blemish Resolution",
+      "moved": false
+    }
+  }
+]

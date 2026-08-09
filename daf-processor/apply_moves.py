@@ -39,19 +39,32 @@ def h3_insert_points(blocks, lines):
 
 def apply(path, moves_by_run_key):
     """moves_by_run_key: dict mapping tuple(quote_indices) -> a move spec, using the SAME
-    block indices build_windows()/relocate_check.py produced. A move spec is either:
+    block indices build_windows()/relocate_check.py produced. A move spec is one of:
       {"type": "single", "target": <heading text>}
       {"type": "split", "split_after": <int>, "first_target": <heading>, "second_target": <heading>}
+      {"type": "split3", "split1": <int>, "split2": <int>,
+       "first_target": <heading>, "second_target": <heading>, "third_target": <heading>}
     For a split, run[:split_after] and run[split_after:] are relocated independently —
     each half may move to a different heading (or stay, if its target equals the run's
-    current heading)."""
+    current heading). split3 is the same idea with two pinned cut points and three pieces
+    (relocate_check.py only produces split3 when both cuts land on a literal Mishna/Gemara
+    marker boundary — see marker_split_points in relocate_parse.py).
+
+    A moved sub-run is inserted in DOCUMENT ORDER relative to whatever else ends up under
+    its target heading, not simply appended at the end of that heading's existing content.
+    Without this, a sub-run moved INTO a heading that already has its own untouched native
+    quotes lands after them even when it originally sat earlier in the daf -- confirmed on
+    Bava Batra 174's "Amoraim Debate: Labels": the dilemma + Rabbi Yitzchak's resolution
+    (originally the tail of "Rav Huna: Language Test", moved forward by a split) have a
+    lower block index than that heading's own native Rav Chisda/Rava quotes, so they must
+    land BEFORE them, not after (found 2026-08-07)."""
     lines = open(path, encoding="utf-8", errors="replace").read().split("\n")
     blocks = parse_blocks("\n".join(lines))
     runs = quote_runs(blocks)
     insert_points = h3_insert_points(blocks, lines)
 
     removals = []
-    insertions = {}
+    insertions = {}  # target heading -> list of (origin block index, raw text)
     applied = 0
 
     def move_subrun(sub_run, target, current_h):
@@ -62,7 +75,7 @@ def apply(path, moves_by_run_key):
         line_end = blocks[sub_run[-1]].end
         raw = "\n".join(lines[line_start:line_end])
         removals.append((line_start, line_end))
-        insertions.setdefault(target, []).append(raw)
+        insertions.setdefault(target, []).append((sub_run[0], raw))
         applied += 1
 
     for run in runs:
@@ -79,24 +92,63 @@ def apply(path, moves_by_run_key):
                 move_subrun(run[:k], move["first_target"], current_h)
             if move.get("second_confidence", "high") == "high":
                 move_subrun(run[k:], move["second_target"], current_h)
+        elif move["type"] == "split3":
+            k1, k2 = move["split1"], move["split2"]
+            if move.get("first_confidence", "high") == "high":
+                move_subrun(run[:k1], move["first_target"], current_h)
+            if move.get("second_confidence", "high") == "high":
+                move_subrun(run[k1:k2], move["second_target"], current_h)
+            if move.get("third_confidence", "high") == "high":
+                move_subrun(run[k2:], move["third_target"], current_h)
+
+    for target in insertions:
+        insertions[target].sort(key=lambda p: p[0])
 
     keep = [True] * len(lines)
     for s, e in removals:
         for i in range(s, e):
             keep[i] = False
 
+    # Every KEPT (non-moved) quote/prose block's start line, tagged with its (unchanged)
+    # heading and its block index -- used to interleave pending insertions for that
+    # heading in the right slot as we walk the document top to bottom.
+    kept_block_starts = {}
+    for bi, b in enumerate(blocks):
+        if b.kind in ("h2", "h3") or not keep[b.start]:
+            continue
+        kept_block_starts[b.start] = (bi, heading_of(blocks, bi))
+
+    flushed = {t: 0 for t in insertions}
+
+    def flush_upto(target, upto_block_index):
+        blobs = insertions.get(target)
+        if not blobs:
+            return []
+        i = flushed[target]
+        out_blobs = []
+        while i < len(blobs) and blobs[i][0] < upto_block_index:
+            out_blobs.append(blobs[i][1])
+            i += 1
+        flushed[target] = i
+        return out_blobs
+
     out = []
     for i, line in enumerate(lines):
-        for target, blobs in list(insertions.items()):
+        if i in kept_block_starts:
+            bi, heading_text = kept_block_starts[i]
+            for blob in flush_upto(heading_text, bi):
+                out.append(blob)
+                out.append("")
+        for target, blobs in insertions.items():
             if insert_points.get(target) == i:
-                for blob in blobs:
+                for _, blob in blobs[flushed[target]:]:
                     out.append(blob)
                     out.append("")
-                del insertions[target]
+                flushed[target] = len(blobs)
         if keep[i]:
             out.append(line)
     for target, blobs in insertions.items():
-        for blob in blobs:
+        for _, blob in blobs[flushed[target]:]:
             out.append(blob)
             out.append("")
     return "\n".join(out), applied
@@ -124,6 +176,18 @@ if __name__ == "__main__":
                 "first_confidence": res.get("first_confidence"),
                 "second_target": res["second_heading"],
                 "second_confidence": res.get("second_confidence"),
+            }
+        elif res.get("action") == "split3":
+            moves[tuple(r["quote_indices"])] = {
+                "type": "split3",
+                "split1": res["split1"],
+                "split2": res["split2"],
+                "first_target": res["first_heading"],
+                "first_confidence": res.get("first_confidence"),
+                "second_target": res["second_heading"],
+                "second_confidence": res.get("second_confidence"),
+                "third_target": res["third_heading"],
+                "third_confidence": res.get("third_confidence"),
             }
         elif res.get("moved") and res.get("confidence") == "high":
             moves[tuple(r["quote_indices"])] = {"type": "single", "target": res["chosen_heading"]}

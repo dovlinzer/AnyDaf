@@ -1,0 +1,403 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Three People: Delivery",
+    "candidates": [
+      "Two People Write/Deliver",
+      "Three People: Delivery",
+      "Beit Din Authority",
+      "Rabbi Yosi's Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'kitvu u'tnu to three' case (must write and give themselves) and the 'tnu to three' case (may delegate because they are a beis din), which the prose of heading 0 explicitly describes as the two cases the mishna opens with, making it the natural home for the complete mishna unit rather than splitting it across headings 0 and 1.",
+      "chosen_heading": "Two People Write/Deliver",
+      "current_heading": "Three People: Delivery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rabbi Yosi's Tradition",
+    "candidates": [
+      "Beit Din Authority",
+      "Rabbi Yosi's Tradition",
+      "Ten People: Role Distrib",
+      "Kulchem: All Present",
+      "Kitvu: Write or Sign",
+      "Death Invalidates Get",
+      "Rav's Question to Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the tradition Rabbi \u1e24anina brought from prison (item 1) and Rabbi Yosi's counter-tradition (item 2), and the prose of candidate 0 'Beit Din Authority' explicitly discusses Rabbi Chanina ish Ono's prison transmission and the mekubal tradition about saying 'give a get' to three people designating them as a beit din \u2014 which is precisely what both items are about, with Rabbi Yosi's response being a direct continuation of that same exchange rather than a separate topic.",
+      "chosen_heading": "Beit Din Authority",
+      "current_heading": "Rabbi Yosi's Tradition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rav's Question to Shmuel",
+    "candidates": [
+      "Ten People: Role Distrib",
+      "Kulchem: All Present",
+      "Kitvu: Write or Sign",
+      "Death Invalidates Get",
+      "Rav's Question to Shmuel",
+      "Shmuel: Tzarich Talmud",
+      "Words & Delegation",
+      "Verbal vs. Physical"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Death Invalidates Get",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna about 'kulchem kitvu' and the death invalidating the get \u2014 exactly the content described in the 'Death Invalidates Get' prose.",
+      "second_heading": "Rav's Question to Shmuel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara report of the question sent from Rav's academy to Shmuel about the two appointees who used a scribe \u2014 precisely what the 'Rav's Question to Shmuel' prose describes.",
+      "current_heading": "Rav's Question to Shmuel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Verbal vs. Physical",
+    "candidates": [
+      "Shmuel: Tzarich Talmud",
+      "Words & Delegation",
+      "Verbal vs. Physical",
+      "Mishna Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly works through the exact argument described in candidate 2's prose: first raising mili lo mimsaran l'shaliach as the possible question, then rejecting it because Shmuel already rules like Rabbi Yosi, then reframing Shmuel's actual dilemma as whether 'kitvu' means signing or scribing \u2014 all of which is precisely what candidate 2's prose describes in detail.",
+      "chosen_heading": "Verbal vs. Physical",
+      "current_heading": "Verbal vs. Physical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Mishna Presumption",
+    "candidates": [
+      "Mishna Presumption",
+      "Beit Din Learning",
+      "Signing Possibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's attempt to resolve the dilemma from the mishna (the 'tnu get' / 'kitvu u'tnu' passage), which is precisely what the 'Mishna Presumption' section describes.",
+      "chosen_heading": "Mishna Presumption",
+      "current_heading": "Mishna Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Signing Possibility",
+    "candidates": [
+      "Beit Din Learning",
+      "Signing Possibility",
+      "Witnesses Inform Sofer",
+      "Scenario Requirement",
+      "Embarrassment Problem",
+      "Permitted, Not Done",
+      "Witnesses Appoint Sofer",
+      "Permitted Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about whether 'kitvu' means writing the get or signing it, culminating in the proof from Rabbi Yosei's ruling about Beit Din learning to write \u2014 which is precisely what the 'Beit Din Learning' section's prose describes.",
+      "chosen_heading": "Beit Din Learning",
+      "current_heading": "Signing Possibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Permitted Debate",
+    "candidates": [
+      "Witnesses Inform Sofer",
+      "Scenario Requirement",
+      "Embarrassment Problem",
+      "Permitted, Not Done",
+      "Witnesses Appoint Sofer",
+      "Permitted Debate",
+      "Two Concepts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain about the 'mishum kisufa d'sofer' (embarrassment of the scribe) problem \u2014 whether Rabbi Yose concedes in 'omer imru' cases, the pitfall scenario where the scribe signs instead of a designated witness due to embarrassment, and the resolution via 'kasher v'lo ta'aseh' \u2014 which matches candidate 2's prose precisely about the embarrassment dynamic and its consequences.",
+      "chosen_heading": "Embarrassment Problem",
+      "current_heading": "Permitted Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Two Concepts",
+    "candidates": [
+      "Permitted Debate",
+      "Two Concepts",
+      "Rabbi Yosi: Both",
+      "Shmuel's Position",
+      "Shmuel's Split",
+      "Rabbi Shimon's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states 'Rabbi Yosei stated two halakhot' and explains Shmuel's agreement/disagreement with him, which directly matches the 'Rabbi Yosi: Both' section's prose about establishing that Rebbi Yosi holds both restrictions.",
+      "chosen_heading": "Rabbi Yosi: Both",
+      "current_heading": "Two Concepts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rabbi Shimon's Question",
+    "candidates": [
+      "Rabbi Yosi: Both",
+      "Shmuel's Position",
+      "Shmuel's Split",
+      "Rabbi Shimon's Question",
+      "Nimuko Imo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains Shmuel's citation of Rabbi's ruling and Rabbi Shimon's question about why Rabbi ruled like Rabbi Yosi, which is exactly what the prose of heading 3 describes.",
+      "chosen_heading": "Rabbi Shimon's Question",
+      "current_heading": "Rabbi Shimon's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Nimuko Imo",
+    "candidates": [
+      "Nimuko Imo",
+      "Praises of Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda HaNasi's 'shtok beni' statement introducing the 'nimuko imo' principle, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Nimuko Imo",
+      "current_heading": "Nimuko Imo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Praises of Sages",
+    "candidates": [
+      "Praises of Sages",
+      "Rav Huna's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Isi ben Yehuda's praise of the Sages (item 1) and the clarification about Rabbi Shimon's teaching method plus his own statement to his students (item 2), which precisely matches the prose discussion under the 'Praises of Sages' heading.",
+      "chosen_heading": "Praises of Sages",
+      "current_heading": "Praises of Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rav Huna's Ruling",
+    "candidates": [
+      "Rav Huna's Ruling",
+      "Woman Hiring Concern",
+      "Dibbura vs. Ma'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rav Huna's ruling (item 1) and the immediate question-and-answer about why it is prohibited if valid (item 2) \u2014 form one continuous unit that matches heading 0's prose, which explicitly describes both the ruling 'keshera v'lo ta'aseh zo b'Yisrael' and the surrounding discussion; heading 1 covers the same concern but its prose already presupposes the ruling has been stated, suggesting it belongs to a subsequent elaboration, yet the items themselves are the primary statement of that ruling and its immediate rationale, which is what heading 0 is about.",
+      "chosen_heading": "Rav Huna's Ruling",
+      "current_heading": "Rav Huna's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Dibbura vs. Ma'aseh",
+    "candidates": [
+      "Woman Hiring Concern",
+      "Dibbura vs. Ma'aseh",
+      "Amoraic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about witnesses signed on documents not being suspected of forgery, and the distinction between performing an act (ma'aseh) versus uttering a statement (dibbura), which is precisely what the 'Dibbura vs. Ma'aseh' section's prose describes.",
+      "chosen_heading": "Dibbura vs. Ma'aseh",
+      "current_heading": "Dibbura vs. Ma'aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Amoraic Debate",
+    "candidates": [
+      "Amoraic Debate",
+      "Hired Witnesses Fear",
+      "Enumeration Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the dispute among Rav \u1e24isda, Rabba bar bar \u1e24ana, Rav Na\u1e25man, Rav Sheshet, Rabba, and Rav Yosef over the case of 'amar lishnayim imru l'sofer,' which is precisely what the 'Amoraic Debate' prose describes.",
+      "chosen_heading": "Amoraic Debate",
+      "current_heading": "Amoraic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Enumeration Question",
+    "candidates": [
+      "Hired Witnesses Fear",
+      "Enumeration Question",
+      "Rav Huna on Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly addresses the case of ten people being told to write/deliver a get, distinguishing between general instruction and 'kulchem' (all of you), which is precisely the content the 'Enumeration Question' prose introduces as setup for the Rav Huna ruling.",
+      "chosen_heading": "Enumeration Question",
+      "current_heading": "Enumeration Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rav Huna on Counting",
+    "candidates": [
+      "Rav Huna on Counting",
+      "Rav Yochanan on Counting",
+      "Rav Papa's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full dilemma including both Rav Huna's and Rabbi Yo\u1e25anan's opinions as a single Talmudic unit, and since it introduces the dilemma (ibaiya lehu) before giving both rulings, it best fits under the first heading where the question is raised and Rav Huna's position is discussed, rather than splitting it under the Rav Yochanan heading alone.",
+      "chosen_heading": "Rav Huna on Counting",
+      "current_heading": "Rav Huna on Counting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Rav Papa's Resolution",
+    "candidates": [
+      "Rav Yochanan on Counting",
+      "Rav Papa's Resolution",
+      "Rav Yehuda's Takanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's resolution reconciling the dispute by distinguishing between counting all versus some, which matches exactly the prose under 'Rav Papa's Resolution'.",
+      "chosen_heading": "Rav Papa's Resolution",
+      "current_heading": "Rav Papa's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Rav Yehuda's Takanah",
+    "candidates": [
+      "Rav Yehuda's Takanah",
+      "Rava's Practical Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yehuda's instituted formula for the 'kulchem' get, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Rav Yehuda's Takanah",
+      "current_heading": "Rav Yehuda's Takanah",
+      "moved": false
+    }
+  }
+]

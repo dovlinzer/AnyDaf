@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Mishnah: Children & Usury",
+    "candidates": [
+      "Ribbis vs. Gezel",
+      "Mishnah: Children & Usury",
+      "Gemara Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about children inheriting interest money and the Gemara's inference that the father himself was obligated to return it, which is precisely what the 'Mishnah: Children & Usury' prose describes.",
+      "chosen_heading": "Mishnah: Children & Usury",
+      "current_heading": "Mishnah: Children & Usury",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Gemara Clarification",
+    "candidates": [
+      "Gemara Clarification",
+      "Father's Honor Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the mishnah frames the reisha in terms of the children rather than the father \u2014 a structural/editorial clarification \u2014 which matches exactly the prose of candidate 0 ('Gemara Clarification').",
+      "chosen_heading": "Gemara Clarification",
+      "current_heading": "Gemara Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Father's Honor Question",
+    "candidates": [
+      "Father's Honor Question",
+      "Teshuvah Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the question about whether the sons are obligated due to their father's honor and cites the verse 'nor curse a ruler of your people' with the inference about 'one who performs an action becoming of your people,' which is precisely what the 'Father's Honor Question' prose describes.",
+      "chosen_heading": "Father's Honor Question",
+      "current_heading": "Father's Honor Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Teshuvah Resolution",
+    "candidates": [
+      "Teshuvah Resolution",
+      "Baraita Citation",
+      "Parsing 'Gazlanim'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Rabbi Pinchas/Rava teshuvah principle and the follow-up question about why the item remains, which is precisely what the 'Teshuvah Resolution' prose describes.",
+      "chosen_heading": "Teshuvah Resolution",
+      "current_heading": "Teshuvah Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Parsing 'Gazlanim'",
+    "candidates": [
+      "Baraita Citation",
+      "Parsing 'Gazlanim'",
+      "Tannaim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly analyzes why 'gazlanim' with 'af al pi shegavu' is linguistically problematic and resolves that gazlanim here means malvei ribbis \u2014 exactly what the prose under 'Parsing Gazlanim' describes.",
+      "chosen_heading": "Parsing 'Gazlanim'",
+      "current_heading": "Parsing 'Gazlanim'",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Tannaim Dispute",
+    "candidates": [
+      "Tannaim Dispute",
+      "Qum Aseh Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about Rabbi Ne\u1e25emya and Rabbi Eliezer ben Ya'akov exempting the lender and guarantor due to kum aseh, and asks what that kum aseh is \u2014 which is precisely what heading 0 ('Tannaim Dispute') discusses, introducing the baraita and its significance, while heading 1 ('Qum Aseh Meaning') covers the Gemara's subsequent rejection and reinterpretation of what kum aseh means.",
+      "chosen_heading": "Tannaim Dispute",
+      "current_heading": "Tannaim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Qum Aseh Meaning",
+    "candidates": [
+      "Qum Aseh Meaning",
+      "Who Transgresses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the meaning of 'kum aseh' as tearing the shtar, the shtar ha-omed ligvos debate, and the de-shuma milta resolution \u2014 exactly what the 'Qum Aseh Meaning' prose describes in detail.",
+      "chosen_heading": "Qum Aseh Meaning",
+      "current_heading": "Qum Aseh Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Who Transgresses",
+    "candidates": [
+      "Who Transgresses",
+      "Rav Safra's Test",
+      "Sa'ah B'Sa'ah",
+      "Sa'ah Explanation",
+      "Pikadon Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Who Transgresses",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's proof from the mishna about witnesses transgressing the prohibition, which directly matches the 'Who Transgresses' prose about the inclusion of witnesses proving that shuma milta hi.",
+      "second_heading": "Rav Safra's Test",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rav Safra's entirely new practical principle for distinguishing ribbis d'oraisa from d'rabbanan, which is precisely what the 'Rav Safra's Test' prose describes.",
+      "current_heading": "Who Transgresses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Pikadon Response",
+    "candidates": [
+      "Rav Safra's Test",
+      "Sa'ah B'Sa'ah",
+      "Sa'ah Explanation",
+      "Pikadon Response",
+      "Mashkanta Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's challenge about sa'ah b'sa'ah and Rav Yosef's pikadon response together, and candidate 1 ('Sa'ah B'Sa'ah') is the section whose prose describes exactly this exchange \u2014 Abaye raising the sa'ah b'sa'ah counterexample and noting the discrepancy with Rav Safra's principle, followed by the pikadon resolution.",
+      "chosen_heading": "Sa'ah B'Sa'ah",
+      "current_heading": "Pikadon Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Mashkanta Example",
+    "candidates": [
+      "Pikadon Response",
+      "Mashkanta Example",
+      "Liens Response",
+      "Refined Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Ravina-Rav Ashi exchange specifically about mashkanta b'lo nechiyata \u2014 the very counterexample and its resolution \u2014 which is exactly what the 'Mashkanta Example' prose describes, including the specific phrases v'harei mashkanta belo nachyata debidineihon motzi'in and uvidineinu ein machzirin, and Rav Ashi's response that they treat it as a sale (b'toras zivini), all of which appear in candidate 1's prose.",
+      "chosen_heading": "Mashkanta Example",
+      "current_heading": "Mashkanta Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Refined Principle",
+    "candidates": [
+      "Liens Response",
+      "Refined Principle",
+      "Mukdemet/Me'ucheret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses what Rav Safra's principle adds after the carve-outs, answering that it teaches about ribbis ketzutza and the ruling of Rabbi Elazar (parallel to Rabbi Eliezer in the prose), which is precisely what the 'Refined Principle' section discusses.",
+      "chosen_heading": "Refined Principle",
+      "current_heading": "Refined Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Mukdemet/Me'ucheret",
+    "candidates": [
+      "Mukdemet/Me'ucheret",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly defines ribbis mukdemes and ribbis me'ucheres as cases where secular courts would not enforce payment and therefore our laws do not compel return, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Mukdemet/Me'ucheret",
+      "current_heading": "Mukdemet/Me'ucheret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Market Price Set"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's case setup \u2014 the grain purchase, price increase, conversion to wine, and the question of whether the seller has wine \u2014 which is precisely what the 'Case Setup' prose describes in detail, including the specific question 'if he does not have wine, what of it?' that the Gemara raises.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Market Price Set",
+    "candidates": [
+      "Market Price Set",
+      "Wine Conversion",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita quoted directly articulates the 'market price set' principle (ein poskin / yatza ha-sha'ar poskin), which is precisely what the prose under heading 0 describes and analyzes.",
+      "chosen_heading": "Market Price Set",
+      "current_heading": "Market Price Set",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Wine Conversion",
+      "Rava's Reading",
+      "Ha'aramas Concept",
+      "Abaye Proposal",
+      "Sell/Buy Scenario",
+      "Net Result",
+      "Lend & Buy Back",
+      "Analysis Result"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present Rabba's explanation of the mishna (ba lachov be-dameha) and the supporting baraita, which is exactly what the 'Rava's Reading' prose describes.",
+      "second_heading": "Abaye Proposal",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's rejection of Rabba and his redirection to Rav Safra's baraita, which is precisely what the 'Abaye Proposal' prose describes as Abaye proposing the ha'aramas ribbis framework.",
+      "current_heading": "Rava's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Analysis Result",
+    "candidates": [
+      "Ha'aramas Concept",
+      "Abaye Proposal",
+      "Sell/Buy Scenario",
+      "Net Result",
+      "Lend & Buy Back",
+      "Analysis Result",
+      "Produce vs. Cash",
+      "Language Mismatch",
+      "Debt Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself introducing the ha'aramas ribbis concept, which is exactly what candidate 0's prose describes as its content \u2014 the introduction of Rav Safra's baraita defining ha'aramas ribbis as a distinct category.",
+      "chosen_heading": "Ha'aramas Concept",
+      "current_heading": "Analysis Result",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Debt Amount",
+    "candidates": [
+      "Produce vs. Cash",
+      "Language Mismatch",
+      "Debt Amount",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses whether repayment in wine (produce) versus cash determines permissibility \u2014 exactly what the 'Produce vs. Cash' section's prose describes, not the 'Debt Amount' section which deals with Rava's objection about when the thirty dinarim figure originates.",
+      "chosen_heading": "Produce vs. Cash",
+      "current_heading": "Debt Amount",
+      "moved": true
+    }
+  }
+]

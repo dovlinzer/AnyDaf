@@ -140,8 +140,8 @@
           "timestamp": "26:02"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Gemara's Opening Question: Ha-Isha Nikneit Versus Ha-Ish Mekadesh and the Conceptual Shift from Kinyan to Kiddushin",
@@ -203,8 +203,8 @@
           "timestamp": "40:00"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Tosafot's Questions on the Gezerah Shavah: Why the Parallel to Efron's Field Is Not Perfect",
@@ -227,7 +227,7 @@
           "timestamp": "42:47"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 2,
       "matched": false
     },
     {
@@ -251,7 +251,7 @@
           "timestamp": "45:46"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 2,
       "matched": false
     },
     {
@@ -281,7 +281,7 @@
         }
       ],
       "sefaria_index": 7,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Grammatical Analysis: Why Shalosh (Feminine) Rather Than Shlosha (Masculine) for Drachim",
@@ -694,5 +694,10 @@
       "timestamps": []
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "32:36",
+  "amud_b_micro_title": "Kinyan from Efron",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "a"
 }

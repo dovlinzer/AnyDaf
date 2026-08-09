@@ -416,8 +416,8 @@
           "timestamp": "53:58"
         }
       ],
-      "sefaria_index": 29,
-      "matched": true
+      "sefaria_index": 26,
+      "matched": false
     },
     {
       "title": "Second Braita: Detailed Reassessment Rules (Attributed to Rabbi Nechemiah)",
@@ -445,8 +445,8 @@
           "timestamp": "56:51"
         }
       ],
-      "sefaria_index": 30,
-      "matched": true
+      "sefaria_index": 26,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -647,5 +647,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "41:08",
+  "amud_b_micro_title": "Rabbi Nechemiah",
+  "shiur_start_daf": 77,
+  "shiur_start_amud": "b"
 }

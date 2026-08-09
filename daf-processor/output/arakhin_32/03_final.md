@@ -1,12 +1,9 @@
-# Arakhin 32 — Daf Yomi Shiur
-
+[DAF:32a]
 ## Intro & Context
 
-### Opening
 
-> **Hebrew/Aramaic:** מַתְנִי׳ בָּרִאשׁוֹנָה הָיָה נִטְמָן יוֹם שְׁנֵים עָשָׂר חוֹדֶשׁ, כְּדֵי שֶׁיְּהֵא חָלוּט לוֹ. הִתְקִין הִלֵּל שֶׁיְּהֵא חוֹלֵשׁ מְעוֹתָיו לַלִּשְׁכָּה, וִיהֵא שׁוֹבֵר אֶת הַדֶּלֶת וְנִכְנָס, אֵימָתַי שֶׁיִּרְצֶה הַלָּז יָבֹא וְיִטּוֹל אֶת מְעוֹתָיו.
->
-> **Translation:** MISHNA **At first,** the buyer **would conceal himself** on the final **day of the twelve-month** period, **in order to** ensure **that it would become his in perpetuity. Hillel instituted that** the seller **would place [*ḥolesh*] his money in the chamber** of the court **and** that **he will break the door and enter** the house, and **when the other** individual, i.e., the buyer, **will wish** to do so, **he may come** to the chamber **and take his money.**
+
+### Opening
 
 We arrive at Daf 32 near the conclusion of *Masechet Arakhin*. The daf opens at the bottom of 31 and continues onto 32.
 
@@ -18,11 +15,17 @@ The masechta has progressed from its earlier treatment of *hekdesh* and the topi
 
 ## Hillel's Takana
 
+
+
 ### Mishnah: Buyer Hiding
 
 The Mishnah, which is also cited in *Masechet Gittin*, opens with the word *barishonah* — originally. Originally, the buyer would make himself scarce on the last day of the twelve-month redemption period. The seller, having worked diligently throughout the year to gather the redemption money, would find himself unable to locate the buyer on that critical final day. The buyer's purpose was clear: by hiding and making himself unavailable, he ensured that the house would become permanently his — *kedei shetechlot lo*.
 
+> **Hebrew/Aramaic:** מַתְנִי׳ בָּרִאשׁוֹנָה הָיָה נִטְמָן יוֹם שְׁנֵים עָשָׂר חוֹדֶשׁ, כְּדֵי שֶׁיְּהֵא חָלוּט לוֹ. הִתְקִין הִלֵּל שֶׁיְּהֵא חוֹלֵשׁ מְעוֹתָיו לַלִּשְׁכָּה, וִיהֵא שׁוֹבֵר אֶת הַדֶּלֶת וְנִכְנָס, אֵימָתַי שֶׁיִּרְצֶה הַלָּז יָבֹא וְיִטּוֹל אֶת מְעוֹתָיו.
+> **Translation:** MISHNA **At first,** the buyer **would conceal himself** on the final **day of the twelve-month** period, **in order to** ensure **that it would become his in perpetuity. Hillel instituted that** the seller **would place [*ḥolesh*] his money in the chamber** of the court **and** that **he will break the door and enter** the house, and **when the other** individual, i.e., the buyer, **will wish** to do so, **he may come** to the chamber **and take his money.**
+
 ### Money Deposit & Entry
+
 
 Hillel enacted a *takana* to protect the seller's right of redemption. Under this enactment, the seller may deposit the redemption money into a *lishkah* — a designated chamber or treasury in the Temple — and then proceed to break down the door and take physical possession of the house, demonstrating unambiguously that possession had been reclaimed by the appointed day. As the Mishnah concludes: *eimatai sheyirtzeh halaz yavo veyitol et ma'otav* — whenever the buyer wishes, he may come and collect his money. The seller has fulfilled his obligation; the money is there waiting, and the seller has taken possession.
 
@@ -48,11 +51,9 @@ The most straightforward reading of the historical and halachic evidence, then, 
 
 ## Forced Giving Debate
 
-### Charlie's Question
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רָבָא: מִתַּקָּנָתוֹ שֶׁל הַלֵּל — ״הֲרֵי זֶה גִּיטִּיךְ עַל מְנָת שֶׁתִּתְּנִי לִי מָאתַיִם זוּז״, וּנְתָנָהּ לוֹ מִדַּעְתּוֹ — מְגוֹרֶשֶׁת, בְּעַל כׇּרְחוֹ — אֵינָהּ מְגוֹרֶשֶׁת.
->
-> **Translation:** GEMARA **Rava says:** It may be inferred **from the ordinance of Hillel** in the mishna that if one says to his wife: **This is your bill of divorce on the condition that you will give me two hundred dinars, and she gave** the money to **him with his consent,** then she is **divorced.** But if she gave it to him **against his will, she is not divorced.**
+
+### Charlie's Question
 
 A natural question arises: does money alone suffice to effect a property transfer, or are additional acts of acquisition required? The *chiddush* of the Torah in the case of *batei arei chomah* is that the seller may compel the redemption even against the buyer's will. But that raises a further question: what constitutes a legally effective giving when it is done against someone's will? Does the fact that the law grants me the right to redeem mean that I can physically thrust the money upon the buyer even if he refuses, and thereby complete the transaction? This question turns out to be the precise subject the Gemara addresses next.
 
@@ -62,8 +63,10 @@ The Gemara introduces the law of *get* as an analogical framework. Before the *t
 
 ### Rava: Forced Counts
 
-> **Hebrew/Aramaic:** מִדְּאִיצְטְרִיךְ לֵיהּ לְהִלֵּל לְתַקּוֹנֵי נְתִינָה בְּעַל כׇּרְחוֹ הָוְיָא נְתִינָה, הָא בְּעָלְמָא נְתִינָה בְּעַל כׇּרְחוֹ לָא הָוְיָא נְתִינָה.
->
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רָבָא: מִתַּקָּנָתוֹ שֶׁל הַלֵּל — ״הֲרֵי זֶה גִּיטִּיךְ עַל מְנָת שֶׁתִּתְּנִי לִי מָאתַיִם זוּז״, וּנְתָנָהּ לוֹ מִדַּעְתּוֹ — מְגוֹרֶשֶׁת, בְּעַל כׇּרְחוֹ — אֵינָהּ מְגוֹרֶשֶׁת.
+> **Translation:** GEMARA **Rava says:** It may be inferred **from the ordinance of Hillel** in the mishna that if one says to his wife: **This is your bill of divorce on the condition that you will give me two hundred dinars, and she gave** the money to **him with his consent,** then she is **divorced.** But if she gave it to him **against his will, she is not divorced.**
+
+> **Hebrew/Aramaic:** מִדְּאִיצְטְרִיךְ לֵיהּ לְהִלֵּל לְתַקּוֹנֵי נְתִינָה בְּעַל כׇּרְחוֹ הָוְיָא נְתִינָה, הָא בְּעָלְמָא נְתִינָה בְּעַל כׇּרְחוֹ לָא הָוְיָא נְתִינָה.
 > **Translation:** The Gemara elaborates: **From** the fact **that** it **was necessary for Hillel to institute** that **giving against the will** of the receiver **is** considered **giving,** in the case of houses of walled cities, one may infer **that in general, giving against the will** of the recipient **is not** considered **giving.**
 
 *Amar Rava mitakanaso shel Hillel* — Rava draws an inference from Hillel's *takana* regarding the general rule of *netina b'al korcho*. His argument runs as follows: the very fact that Hillel needed to enact a *takana* demonstrates something about what the general law would have been without it. Rava's interpretation is that Hillel's primary *chiddush* was to validate the giving of money against the recipient's will. Before Hillel's *takana*, the general rule was *netina b'al korcho lo havei netina* — giving something to someone against their will does not constitute a valid giving. By creating his *takana*, Hillel established that for this specific case such a forced giving does count: *mide'itztrich lei le'Hillel letikunei netina b'al korcho havei netina, de'be'alma netina b'al korcho lo havei netina*.
@@ -72,9 +75,14 @@ From this, Rava infers regarding the conditional *get*: *venasna lo mida'ato meg
 
 ### Rav Pappa Challenge
 
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב פָּפָּא, וְאִיתֵּימָא רַב אָשֵׁי: וְדִילְמָא כִּי אִיצְטְרִיכָא לֵיהּ לְהִלֵּל לְתַקּוֹנֵי שֶׁלֹּא בְּפָנָיו, אֲבָל בְּפָנָיו — בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ הָוְיָא מַתָּנָה!
->
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב פָּפָּא, וְאִיתֵּימָא רַב אָשֵׁי: וְדִילְמָא כִּי אִיצְטְרִיכָא לֵיהּ לְהִלֵּל לְתַקּוֹנֵי שֶׁלֹּא בְּפָנָיו, אֲבָל בְּפָנָיו — בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ הָוְיָא מַתָּנָה!
 > **Translation:** **Rav Pappa objects to this, and some say** that it was **Rav Ashi** who objected: **But perhaps when it was necessary for Hillel to institute** this ordinance, it was specifically for a case **where** the seller gives the money **not in** the **presence** of the buyer; **but** if he repays the buyer **in his presence,** then **whether** the buyer was repaid **with his consent or whether** it was **against his will, it is** considered a valid act of **giving.**
+
+> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי, אָמַר רָבָא: מִתַּקָּנָתוֹ שֶׁל הִלֵּל — הֲרֵי זֶה ״גִּיטִּיךְ עַל מְנָת שֶׁתִּתְּנִי לִי מָאתַיִם זוּז״, וּנְתָנָהּ לוֹ, בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ — הָוְיָא נְתִינָה. וְכִי אִיצְטְרִיךְ לֵיהּ לְהִלֵּל לְתַקּוֹנֵי — שֶׁלֹּא בְּפָנָיו, אֲבָל בְּפָנָיו — בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ הָוְיָא נְתִינָה.
+> **Translation:** **There are** those **who say** an opposite version of this discussion, i.e., that **Rava says:** One may infer **from the ordinance of Hillel** that if one says to his wife: **This is your bill of divorce on the condition that you will give me two hundred dinars, and she gave** it **to him, whether** it was **with his consent or whether** it was **against his will, it is** a valid act of **giving. And** this is because **when it was necessary for Hillel to institute** this ordinance, it was specifically for a case **where** the seller gives the money **not in** the **presence** of the buyer. **But** if the seller repays him **in his presence, whether** the buyer was repaid **with his consent or whether** it was **against his will, it is** considered a valid act of **giving.**
+
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב פָּפָּא, וְאִיתֵּימָא רַב שִׁימִי בַּר אָשֵׁי: וְדִילְמָא בֵּין בְּפָנָיו בֵּין שֶׁלֹּא בְּפָנָיו, מִדַּעְתּוֹ — אִין, בְּעַל כׇּרְחוֹ — לָא, וְהִלֵּל מַאי דְּאִיצְטְרִיךְ לֵיהּ תַּקֵּין!
+> **Translation:** **Rav Pappa objects to this, and some say** it was **Rav Shimi bar Ashi** who objected: **But perhaps, whether** she gives him the money **in his presence or not in his presence,** if she gives it **with his consent, yes,** it is valid, but if she gives it **against his will,** it is **not** considered a valid act of giving. **And Hillel instituted what was necessary,** to remedy the practical occurrence that buyers would hide themselves at the end of the year. But even if the seller finds the buyer and the buyer refuses to accept payment, it would be necessary for Hillel to institute an ordinance.
 
 *V'osiv lei Rav Pappa v'isayma Rav Ashi Rav Shimi bar Ashi* — Rav Pappa (or alternatively Rav Ashi or Rav Shimi bar Ashi) challenges Rava's reading of Hillel's *takana*. Perhaps, he argues, the entire *takana* was never about forced acceptance at all. *Vedilma ki itztrich lei le'Hillel letikunei shelo befanav* — perhaps what Hillel addressed was only the case of physical absence: the buyer was not present to receive the money. *Aval befanav*, if the buyer was physically present, *bein mida'ato bein b'al korcho havei netina* — whether willing or unwilling, the giving would have worked. Why, then, did buyers go into hiding? Because being physically present would mean being subjected to enormous social pressure to accept the money, and since a forced giving in person would have been effective anyway, the only way to truly protect one's position was to disappear entirely.
 
@@ -83,6 +91,8 @@ The Gemara presents a second version of this exchange in which the two positions
 ---
 
 ## Zachin L'Adam Principle
+
+
 
 ### Refuse Property
 
@@ -110,35 +120,37 @@ The fundamental distinction, then, is between a pure gift — where the recipien
 
 ## House Definition
 
+
+
 ### Basic Definition
 
-> **Hebrew/Aramaic:** מַתְנִי׳ כׇּל שֶׁהוּא לִפְנִים מִן הַחוֹמָה — הֲרֵי הוּא כְּבָתֵּי עָרֵי חוֹמָה, חוּץ מִן הַשָּׂדוֹת. רַבִּי מֵאִיר אוֹמֵר: אַף הַשָּׂדוֹת. בַּיִת הַבָּנוּי בַּחוֹמָה — רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ כְּבָתֵּי עָרֵי חוֹמָה. רַבִּי שִׁמְעוֹן אוֹמֵר: כּוֹתֶל הַחִיצוֹן הִיא חוֹמָתוֹ.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ כׇּל שֶׁהוּא לִפְנִים מִן הַחוֹמָה — הֲרֵי הוּא כְּבָתֵּי עָרֵי חוֹמָה, חוּץ מִן הַשָּׂדוֹת. רַבִּי מֵאִיר אוֹמֵר: אַף הַשָּׂדוֹת. בַּיִת הַבָּנוּי בַּחוֹמָה — רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ כְּבָתֵּי עָרֵי חוֹמָה. רַבִּי שִׁמְעוֹן אוֹמֵר: כּוֹתֶל הַחִיצוֹן הִיא חוֹמָתוֹ.
 > **Translation:** MISHNA The halakhic status of **any** area **that is** located **within the** city **wall is like** that **of the houses of walled cities** in terms of its redemption, **except for the fields** located therein. **Rabbi Meir says: Even the fields** are included in this category. With regard to **a house that is built in the wall** itself, **Rabbi Yehuda says:** Its halakhic status **is not like** that **of the houses of walled cities. Rabbi Shimon says: The outer wall** of the house **is** considered the city **wall,** and therefore it has the status of a house in a walled city.
 
 The Mishnah now turns to the question of what properties qualify for the laws of *batei arei chomah*. The principle is: *kol shehu lifnim min hachoma harei hu k'batei arei choma* — anything located within the walls of a walled city has the same status as a house in a walled city. The category is not limited to residential dwellings; a store, a storage facility, or any other structure located within the walls is included. The sole explicit exclusion is *chutz min hasados* — fields are excluded. A field, as a piece of land used primarily for agricultural cultivation, does not fall within the category of *bayis*.
 
-### Baraita Examples
+This immediately raises a boundary question for cases that do not fit neatly into either category. A small vegetable garden, a flower patch, or an open backyard — spaces that have no structure and no four walls, yet are not used for growing grain — present genuine ambiguity. Are these treated like fields and excluded, or do they follow the status of a house? That question is taken up by the Gemara, which examines several such intermediate cases.
 
-> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: בֵּית — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת וּמִגְדָּלוֹת וְשׁוֹבָכִין וּבוֹרוֹת וְשִׁיחִין וּמְעָרוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״. יָכוֹל שֶׁאֲנִי מְרַבֶּה אַף הַשָּׂדוֹת? תַּלְמוּד לוֹמַר: ״בַּיִת״, דִּבְרֵי רַבִּי יְהוּדָה.
->
-> **Translation:** GEMARA **The Sages taught:** The verse states: "Then the **house** that is in the walled city shall stand in possession of the one who bought it in perpetuity" (Leviticus 25:30). **I have** derived **only** that this is the *halakha* with regard to **a house; from where** is it derived **to include olive presses, bathhouses, towers, dovecotes, pits, ditches, and caves? The verse states: "That is in the** walled **city,"** indicating that anything situated within the city is included. If so, one **might** have thought **that I** should **include even the fields** that are inside the city. Therefore, **the verse states: "House,"** which excludes a field; it does not resemble a house in any way, since it does not contain any items. This is **the statement of Rabbi Yehuda.**
+The Mishnah also records a dispute concerning *bayis habanuy bechomah* — a house that is built into the city wall itself. The question is whether such a structure counts as being "within the city." This arises in at least two configurations: a house whose outer wall is simply the city wall, with no portion of the structure extending beyond it, and a house with some element jutting outward beyond the wall's outer face. *Rabbi Yehuda omer eino ke'batei arei chomah* — Rabbi Yehuda rules that a house built into the wall does not have the status of a house in a walled city. *Rabbi Shimon omer kotlo hachitzon hi chomato* — Rabbi Shimon rules that the outer wall of the house simply is the city wall; the fact that the structure performs double duty, serving simultaneously as the house's outer wall and as the wall of the city, does not disqualify it. The house is still considered to be within the city. The Gemara's discussion of the *baraita* then turns to an enumeration of specific structure types that fall within the inclusive scope of *bayis*.
+
+### Baraita Examples
 
 A *baraita* elaborates on the inclusive scope of *bayis*. The verse says *asher ba'ir* — "that is in the city" — which expands the category beyond literal houses. Accordingly, *batei badim* (leather-processing houses), *batei merchatzos* (bathhouses), *migdalos* (towers, apparently used for housing birds), *shovachim* (dovecotes), *boros*, *shichin*, and *me'aros* (various types of wells, cisterns, and caves) are all included. These are all either man-made structures or man-modified spaces with some kind of defined, non-agricultural function.
 
 ### Fields Debate
 
-> **Hebrew/Aramaic:** רַבִּי מֵאִיר אוֹמֵר: נאמר ״בַּיִת״ — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת, וּמִגְדָּלוֹת וְשׁוֹבָכִין, וּבוֹרוֹת שִׁיחִין וּמְעָרוֹת, וַאֲפִילּוּ שָׂדוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״.
->
-> **Translation:** **Rabbi Meir says:** The verse states: **"House." I have** derived **only a house; from where** is it derived **to include olive presses, bathhouses, towers, dovecotes, pits, ditches, and caves, and even fields? The verse states: "That is in the** walled **city,"** to include anything inside the city.
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: בֵּית — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת וּמִגְדָּלוֹת וְשׁוֹבָכִין וּבוֹרוֹת וְשִׁיחִין וּמְעָרוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״. יָכוֹל שֶׁאֲנִי מְרַבֶּה אַף הַשָּׂדוֹת? תַּלְמוּד לוֹמַר: ״בַּיִת״, דִּבְרֵי רַבִּי יְהוּדָה.
+> **Translation:** GEMARA **The Sages taught:** The verse states: “Then the **house** that is in the walled city shall stand in possession of the one who bought it in perpetuity” (Leviticus 25:30). **I have** derived **only** that this is the *halakha* with regard to **a house; from where** is it derived **to include olive presses, bathhouses, towers, dovecotes, pits, ditches, and caves? The verse states: “That is in the** walled **city,”** indicating that anything situated within the city is included. If so, one **might** have thought **that I** should **include even the fields** that are inside the city. Therefore, **the verse states: “House,”** which excludes a field; it does not resemble a house in any way, since it does not contain any items. This is **the statement of Rabbi Yehuda.**
+
+> **Hebrew/Aramaic:** רַבִּי מֵאִיר אוֹמֵר: נאמר ״בַּיִת״ — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת, וּמִגְדָּלוֹת וְשׁוֹבָכִין, וּבוֹרוֹת שִׁיחִין וּמְעָרוֹת, וַאֲפִילּוּ שָׂדוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״.
+> **Translation:** **Rabbi Meir says:** The verse states: **“House.” I have** derived **only a house; from where** is it derived **to include olive presses, bathhouses, towers, dovecotes, pits, ditches, and caves, and even fields? The verse states: “That is in the** walled **city,”** to include anything inside the city.
 
 The Mishnah records a dispute between Rabbi Meir and Rabbi Yehudah. Rabbi Meir reads *asher ba'ir* expansively to include even fields, reasoning that anything within the city walls falls under the category. Rabbi Yehudah reads the word *bayis* as a limiting qualifier: only things that are *dumya de'bayis* — similar in character to a house — are included, and a field is fundamentally different in character from a house and is therefore excluded.
 
 ### Swamps & Rocky Ground
 
-> **Hebrew/Aramaic:** וְאֶלָּא הָא כְּתִיב ״בַּיִת״! אָמַר רַב חִסְדָּא אָמַר רַב קַטִּינָא: חוֹלְסִית וּמְצוּלָה אִיכָּא בֵּינַיְיהוּ, וְהָתַנְיָא: חוֹלְסִית וּמְצוּלָה, רַבִּי מֵאִיר אוֹמֵר: כְּבָתִּים, רַבִּי יְהוּדָה אוֹמֵר: כְּשָׂדוֹת.
->
-> **Translation:** The Gemara questions the statement of Rabbi Meir: **But isn't it written: "House"?** If Rabbi Meir includes even a field, what is excluded by the word "house"? **Rav Ḥisda said** that **Rav Ketina said:** Actually, everyone agrees that the term "house" serves to exclude a field. The difference of opinion **between** Rabbi Meir and Rabbi Yehuda is with regard to **a quarry and a sand bed.** According to Rabbi Meir, such areas are considered similar to houses and are therefore included in the *halakha*. The Gemara adds: **And it is** likewise **taught** in a *baraita*: With regard to **a quarry and a sand bed** inside the walls of a city, **Rabbi Meir says:** They are considered **like houses,** and **Rabbi Yehuda says:** They are considered **like fields.**
+> **Hebrew/Aramaic:** וְאֶלָּא הָא כְּתִיב ״בַּיִת״! אָמַר רַב חִסְדָּא אָמַר רַב קַטִּינָא: חוֹלְסִית וּמְצוּלָה אִיכָּא בֵּינַיְיהוּ, וְהָתַנְיָא: חוֹלְסִית וּמְצוּלָה, רַבִּי מֵאִיר אוֹמֵר: כְּבָתִּים, רַבִּי יְהוּדָה אוֹמֵר: כְּשָׂדוֹת.
+> **Translation:** The Gemara questions the statement of Rabbi Meir: **But isn’t it written: “House”?** If Rabbi Meir includes even a field, what is excluded by the word “house”? **Rav Ḥisda said** that **Rav Ketina said:** Actually, everyone agrees that the term “house” serves to exclude a field. The difference of opinion **between** Rabbi Meir and Rabbi Yehuda is with regard to **a quarry and a sand bed.** According to Rabbi Meir, such areas are considered similar to houses and are therefore included in the *halakha*. The Gemara adds: **And it is** likewise **taught** in a *baraita*: With regard to **a quarry and a sand bed** inside the walls of a city, **Rabbi Meir says:** They are considered **like houses,** and **Rabbi Yehuda says:** They are considered **like fields.**
 
 The Gemara (in the name of Rav Chisda citing Rav Katina) sharpens the dispute: the real point of contention between Rabbi Meir and Rabbi Yehudah concerns *chulasit umetzulah* — hard, rocky terrain that cannot be planted, and swampy ground. A *baraita* records that Rabbi Meir considers these to have the status of *batim* (like houses), while Rabbi Yehudah considers them to have the status of *sados* (like fields). The reframing implies that even Rabbi Meir would agree that genuinely plantable agricultural land is excluded; his expansive ruling applies only to land that, while not structurally built upon, is also not suitable for cultivation. Conversely, even Rabbi Yehudah might agree that fully constructed non-residential structures are included. The debate turns on this middle category of land that is neither cultivated nor built upon. Rashi suggests that according to Rabbi Meir, such terrain is classified as *bayis* because materials from it can be harvested for building construction — drawing it closer to the *bayis* category. The simpler reading, however, may be that *sadeh* (field) and *bayis* (house) represent conceptual opposites, and this intermediate category simply does not fit the definition of *sadeh*.
 
@@ -146,11 +158,9 @@ The Gemara (in the name of Rav Chisda citing Rav Katina) sharpens the dispute: t
 
 ## House in Wall
 
-### Mishnah Position
 
-> **Hebrew/Aramaic:** בַּיִת הַבָּנוּי בַּחוֹמָה, רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ כְּבָתֵּי עָרֵי חוֹמָה. רַבִּי שִׁמְעוֹן אוֹמֵר: כּוֹתֶל הַחִיצוֹן הִיא חוֹמָתוֹ.
->
-> **Translation:** With regard to **a house that is built in the wall** itself, **Rabbi Yehuda says:** Its halakhic status **is not like** that **of the houses of walled cities,** and Rabbi Shimon says: The outer wall of the house **is** considered the city **wall.**
+
+### Mishnah Position
 
 A further definitional question arises regarding a house physically built into the city wall itself. The Mishnah records a dispute about whether such a house qualifies as a house in a walled city.
 
@@ -160,9 +170,8 @@ Rabbi Yehudah holds that a house built into the wall is not considered a *bayis 
 
 ### Rachav's Story
 
-> **Hebrew/Aramaic:** גְּמָ׳ בַּיִת הַבָּנוּי בַּחוֹמָה, רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ כְּבָתֵּי עָרֵי חוֹמָה. אָמַר רַבִּי יוֹחָנָן: וּשְׁנֵיהֶם מִקְרָא אֶחָד דָּרְשׁוּ, ״וַתּוֹרִידֵם בַּחֶבֶל בְּעַד הַחַלּוֹן כִּי בֵיתָהּ בְּקִיר הַחוֹמָה וּבַחוֹמָה הִיא יוֹשָׁבֶת״. רַבִּי שִׁמְעוֹן סָבַר כִּפְשָׁטֵיהּ דִּקְרָא, וְרַבִּי יְהוּדָה סָבַר: ״בַּחוֹמָה הִיא יוֹשָׁבֶת״ וְלֹא בְּעִיר חוֹמָה.
->
-> **Translation:** **Rabbi Yoḥanan says: And both of them derived** their opinions **from one verse: "Then she let them down by a cord through the window; for her house was upon the side of the wall; and she dwelt upon the wall"** (Joshua 2:15). **Rabbi Shimon holds** that the last phrase should be understood **in accordance with the simple meaning of the verse,** that her house was attached to the outer wall and it was considered inside the walled city; **and Rabbi Yehuda holds** that **"she dwelt upon the wall"** means she was a resident of the wall itself, **but not** a resident **of the city** enclosed within the **wall.**
+> **Hebrew/Aramaic:** בַּיִת הַבָּנוּי בַּחוֹמָה, רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ כְּבָתֵּי עָרֵי חוֹמָה. אָמַר רַבִּי יוֹחָנָן: וּשְׁנֵיהֶם מִקְרָא אֶחָד דָּרְשׁוּ, ״וַתּוֹרִידֵם בַּחֶבֶל בְּעַד הַחַלּוֹן כִּי בֵיתָהּ בְּקִיר הַחוֹמָה וּבַחוֹמָה הִיא יוֹשָׁבֶת״. רַבִּי שִׁמְעוֹן סָבַר כִּפְשָׁטֵיהּ דִּקְרָא, וְרַבִּי יְהוּדָה סָבַר: ״בַּחוֹמָה הִיא יוֹשָׁבֶת״ וְלֹא בְּעִיר חוֹמָה.
+> **Translation:** § The mishna teaches: With regard to **a house that is built in the wall** itself, **Rabbi Yehuda says:** Its halakhic status **is not like** that **of the houses of walled cities,** and Rabbi Shimon says: The outer wall of the house is considered the city wall. **Rabbi Yoḥanan says: And both of them derived** their opinions **from one verse: “Then she let them down by a cord through the window; for her house was upon the side of the wall; and she dwelt upon the wall”** (Joshua 2:15). **Rabbi Shimon holds** that the last phrase should be understood **in accordance with the simple meaning of the verse,** that her house was attached to the outer wall and it was considered inside the walled city; **and Rabbi Yehuda holds** that **“she dwelt upon the wall”** means she was a resident of the wall itself, **but not** a resident **of the city** enclosed within the **wall.**
 
 The Gemara notes that both opinions derive from the same verse — the episode of Rachav, who sheltered the Israelite spies and lowered them through a window: *vatoredem bachevel bead hachalon ki veitah bechir hachoma uvachoma hi yoshavet* — her house was in the wall of the city, and she dwelt in the wall. *Amar Rabbi Yochanan: u'sheneihem mikra echad darshu* — both Rabbi Yehudah and Rabbi Shimon derive their positions from this single verse.
 
@@ -172,11 +181,9 @@ Rabbi Shimon reads the verse in its plain sense: Rachav's house was in the wall,
 
 ## City Criteria
 
-### Wall Independence
 
-> **Hebrew/Aramaic:** מַתְנִי׳ עִיר שֶׁגַּגּוֹתֶיהָ חוֹמָתָהּ, וְשֶׁאֵינָהּ מוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן, אֵינָהּ כְּבָתֵּי עָרֵי חוֹמָה.
->
-> **Translation:** MISHNA The halakhic status of a house in **a city whose** houses are attached and their **rooftops** constitute the top of **its wall, and** likewise, the status of a house in a city **that is not surrounded by a wall from the era of Joshua, son of Nun,** even if a surrounding wall was constructed during a later period, **is not like** that **of the houses of walled cities.**
+
+### Wall Independence
 
 The Gemara establishes that for a city to qualify as a *ir chomah*, its wall must be an independent structure. The Mishnah formulation *ir shegagoteha chomatah* — a city whose rooftops (or more precisely, whose house walls) constitute its surrounding wall — does not qualify. The wall must exist as a freestanding entity, not merely as an aggregate of the exterior sides of the buildings within.
 
@@ -190,43 +197,49 @@ There is also a minimum population structure required: *shalosh chatzerot shel s
 
 ### City Examples
 
-> **Hebrew/Aramaic:** וְאֵלּוּ הֵן בָּתֵּי עָרֵי חוֹמָה: שָׁלֹשׁ חֲצֵרוֹת שֶׁל שְׁנֵי בָתִּים, מוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן, כְּגוֹן קַצְרָה הַיְּשָׁנָה שֶׁל צִיפּוֹרִי, וְחַקְרָה שֶׁל גּוּשׁ חָלָב, וְיוֹדְפַת הַיְּשָׁנָה, וְגַמְלָא, וּגְדוֹד, וְחָדִיד, וְאוֹנוֹ, וִירוּשָׁלַיִם, וְכֵן כְּיוֹצֵא בָּהֶן.
->
-> **Translation:** **And these are the houses of walled cities:** Any city in which there are at least **three courtyards,** each containing **two houses,** and which is **surrounded by a wall from the era of Joshua, son of Nun, e.g., the ancient fort [*katzra*] of Tzippori, and the fortress [*ḥakra*] of Gush Ḥalav, and ancient Yodfat, and Gamla, and Gedod, and Ḥadid, and Ono, and Jerusalem, and likewise** other **similar** cities.
+> **Hebrew/Aramaic:** מַתְנִי׳ עִיר שֶׁגַּגּוֹתֶיהָ חוֹמָתָהּ, וְשֶׁאֵינָהּ מוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן, אֵינָהּ כְּבָתֵּי עָרֵי חוֹמָה. וְאֵלּוּ הֵן בָּתֵּי עָרֵי חוֹמָה: שָׁלֹשׁ חֲצֵרוֹת שֶׁל שְׁנֵי בָתִּים, מוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן, כְּגוֹן קַצְרָה הַיְּשָׁנָה שֶׁל צִיפּוֹרִי, וְחַקְרָה שֶׁל גּוּשׁ חָלָב, וְיוֹדְפַת הַיְּשָׁנָה, וְגַמְלָא, וּגְדוֹד, וְחָדִיד, וְאוֹנוֹ, וִירוּשָׁלַיִם, וְכֵן כְּיוֹצֵא בָּהֶן.
+> **Translation:** MISHNA The halakhic status of a house in **a city whose** houses are attached and their **rooftops** constitute the top of **its wall, and** likewise, the status of a house in a city **that is not surrounded by a wall from the era of Joshua, son of Nun,** even if a surrounding wall was constructed during a later period, **is not like** that **of the houses of walled cities. And these are the houses of walled cities:** Any city in which there are at least **three courtyards,** each containing **two houses,** and which is **surrounded by a wall from the era of Joshua, son of Nun, e.g., the ancient fort [*katzra*] of Tzippori, and the fortress [*ḥakra*] of Gush Ḥalav, and ancient Yodfat, and Gamla, and Gedod, and Ḥadid, and Ono, and Jerusalem, and likewise** other **similar** cities.
 
-The Mishnah provides examples: *Katzra Hayeshana shel Tzipori*, *Chakra shel Gush Chalav*, *Yodfat Hayeshana*, *Gamla*, *Gedud*, *Chadid*, *Ono*, and *Yerushalayim* — and anything similar. Many of these cities are also mentioned in *Ezra-Nechemya* among the communities resettled upon the return from exile. The Mishnah uses the word *kegon* — "such as" — implying that the list is not exhaustive. The examples may be intended to show that even quite small localities can carry the status of a walled city, provided the structural criteria are met.
+The Mishnah provides examples: *Katzra Hayeshana shel Tzipori*, *Chakra shel Gush Chalav*, *Yodfat Hayeshana*, *Gamla*, *Gedud*, *Chadid*, *Ono*, and *Yerushalayim* — and anything similar. Many of these cities are also mentioned in *Ezra-Nechemya* among the communities resettled upon the return from exile. The Mishnah uses the word *kegon* — "such as" — implying that the list is not exhaustive. The examples may be intended to show that even quite small localities can carry the status of a walled city, provided the structural criteria are met. There is also a practical dimension to establishing which specific cities belong on this list: one might not otherwise know that a given settlement qualifies as *mimot Yehoshua bin Nun*, and, as the gemara will clarify shortly, a city need not possess its wall at present — it suffices that it originally had one. The question of which cities can be identified as historically walled therefore carries real legal consequence, which helps explain why the Mishnah goes to the trouble of naming concrete examples rather than leaving the category purely abstract.
 
 ---
 
 ## Wall Requirements
 
+
+
 ### Wall vs. Roof
 
-> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: ״חוֹמָה״ — וְלֹא שׁוּר אִיגָּר, ״סָבִיב״ — פְּרָט לִטְבֶרְיָה שִׂימָה חוֹמָתָהּ.
->
-> **Translation:** GEMARA With regard to the statement of the mishna that the halakhic status of a house in a city whose rooftops constitute the top of its wall is not like that of the houses of walled cities, **the Sages taught:** When the verse states: "The house that is in the city that has **a wall"** (Leviticus 25:30), this is referring specifically to a city that has an actual wall **and not** merely **a wall of roofs.** When the next verse states: "But the houses of the villages that have no wall **round** about them shall be reckoned with the fields of the country," this serves to **exclude Tiberias** from being considered a walled city, **as the sea is its wall** on one side and it is not fully encircled by a physical wall.
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: ״חוֹמָה״ — וְלֹא שׁוּר אִיגָּר, ״סָבִיב״ — פְּרָט לִטְבֶרְיָה שִׂימָה חוֹמָתָהּ.
+> **Translation:** GEMARA With regard to the statement of the mishna that the halakhic status of a house in a city whose rooftops constitute the top of its wall is not like that of the houses of walled cities, **the Sages taught:** When the verse states: “The house that is in the city that has **a wall”** (Leviticus 25:30), this is referring specifically to a city that has an actual wall **and not** merely **a wall of roofs.** When the next verse states: “But the houses of the villages that have no wall **round** about them shall be reckoned with the fields of the country,” this serves to **exclude Tiberias** from being considered a walled city, **as the sea is its wall** on one side and it is not fully encircled by a physical wall.
 
 The *Tanna* in a *baraita* states: *choma* — a wall — *velo shur igar*, not a *shur igar*, which is Aramaic for "wall of a roof." This echoes the Mishnah's exclusion of a city whose house walls form its perimeter. The Gemara adds: *saviv* — the wall must surround the city — *perat leTverya sheyama chomatah*, which excludes Tiberias, where the *Kinneret* serves as one of its boundaries. Since Tiberias is not completely surrounded by a constructed wall — one side is defined by the sea — it does not meet this criterion. The Gemara in *Masechet Megilla* separately discusses Tiberias's status and concludes it may be treated differently from other cases of *mukafet choma miyemos Yehoshua bin Nun*.
 
 ### Historical Status
 
-> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר בַּר יוֹסֵי אוֹמֵר: ״אֲשֶׁר לוֹא חוֹמָה״ — אַף עַל פִּי שֶׁאֵין לוֹ עַכְשָׁיו וְהָיָה לוֹ קוֹדֶם לָכֵן.
->
-> **Translation:** **Rabbi Eliezer bar Yosei says:** Since the verse states: **"Which has [***lo***] a wall,"** with *lo* written with an *alef*, according to which the verse may also be taken to mean: Which does not have a wall, this indicates that **even if** a city **does not have** a wall **now, but it had** a wall **before,** in the era of Joshua, son of Nun, it retains its status as a walled city.
-
 *Rabbi Elazar beRabbi Yosi* derives from the verse *asher lo choma* — "that has a wall" — an additional principle: *af al pi she'ein lo achshav vehaya lo kodem lachen* — even if the city does not have a wall now, if it had one previously, its status is preserved. The present absence of a wall is irrelevant; what matters is whether it originally possessed a wall. Conversely, a wall constructed after the time of *Yehoshua* does not confer the status. The same rule applies in the laws of *Megilla*.
 
+> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר בַּר יוֹסֵי אוֹמֵר: ״אֲשֶׁר לוֹא חוֹמָה״ — אַף עַל פִּי שֶׁאֵין לוֹ עַכְשָׁיו וְהָיָה לוֹ קוֹדֶם לָכֵן.
+> **Translation:** **Rabbi Eliezer bar Yosei says:** Since the verse states: **“Which has [***lo***] a wall,”** with *lo* written with an *alef*, according to which the verse may also be taken to mean: Which does not have a wall, this indicates that **even if** a city **does not have** a wall **now, but it had** a wall **before,** in the era of Joshua, son of Nun, it retains its status as a walled city.
+
 ### Torah Text Variants
+
 
 The textual basis of this *drasha* is a *ketiv/kri* phenomenon in the Torah. The word *lo* in the phrase *asher lo choma* is written with an *alef* — which ordinarily means "no" or "not" — but is read as if written with a *vav*, meaning "that has." This dual reading supports the *drasha*: a city that *has* a wall (*lo* with *vav*) and a city that does *not* have one now (*lo* with *alef*) but once did — both are treated as walled cities.
 
 Rashi understood the word to be written as *lo'a* — with both a *vav* and an *alef* — making the double meaning graphic. *Tosafot* disputes this, citing *chumashim meduyakim* (precisely corrected Torah scrolls): *ksiv lo be'alef u'krei bevav* — it is written with an *alef* but read with a *vav*. The pronunciation is identical in either case. According to *Tosafot*, the *drasha* is not based on an unusual spelling but on a *masorah* — a transmitted interpretive tradition — that the word carries both implications simultaneously. This is not the only place where Rashi and *Tosafot* appear to have worked from texts that differ in small orthographic details.
 
+[DAF:32b]
 ### Geographic Specificity
 
-> **Hebrew/Aramaic:** וְאֵלּוּ הֵן בָּתֵּי עָרֵי חוֹמָה כּוּ׳. תָּנָא: גַּמְלָא בַּגָּלִיל, וּגְדוֹד בְּעֵבֶר הַיַּרְדֵּן, וְחָדִיד וְאוֹנוֹ וִירוּשָׁלַיִם בִּיהוּדָה. מַאי קָאָמַר?
->
+> **Hebrew/Aramaic:** וְאֵלּוּ הֵן בָּתֵּי עָרֵי חוֹמָה כּוּ׳. תָּנָא: גַּמְלָא בַּגָּלִיל, וּגְדוֹד בְּעֵבֶר הַיַּרְדֵּן, וְחָדִיד וְאוֹנוֹ וִירוּשָׁלַיִם בִּיהוּדָה. מַאי קָאָמַר?
 > **Translation:** § The mishna teaches: **And these are the houses of walled cities:** The ancient fort of Tzippori, and the fortress of Gush Ḥalav, and ancient Yodfat, and Gamla, and Gedod, and Ḥadid, and Ono, and Jerusalem, and likewise other similar cities. The Sages **taught** in a *baraita*: **Gamla** is **in the Galilee, and Gedod** is **in Transjordan, and Ḥadid and Ono and Jerusalem** are **in Judea.** The Gemara asks: **What is** the *tanna* of this *baraita* **saying?** Are these the only walled cities in the Galilee, Transjordan, and Judea?
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: הָכִי קָאָמַר — עַד גַּמְלָא בַּגָּלִיל, עַד גְּדוֹד בְּעֵבֶר הַיַּרְדֵּן, וְחָדִיד וְאוֹנוֹ וִירוּשָׁלַיִם בִּיהוּדָה.
+> **Translation:** **Abaye said: This** is what the *baraita* **is saying: Until Gamla in the Galilee,** i.e., all towns in the Galilee from Gamla southward were surrounded by a wall from the era of Joshua, son of Nun; **and** likewise, all towns **until Gedod in Transjordan,** which is the easternmost city, were surrounded by a wall; **and Ḥadid and Ono and Jerusalem in Judea** were surrounded by a wall from the era of Joshua, son of Nun.
+
+> **Hebrew/Aramaic:** רָבָא אָמַר: גַּמְלָא בַּגָּלִיל, לְאַפּוֹקֵי גַּמְלָא דִּשְׁאָר אֲרָצוֹת; גְּדוֹד בְּעֵבֶר הַיַּרְדֵּן, לְאַפּוֹקֵי גְּדוֹד דִּשְׁאָר אֲרָצוֹת; אִינָךְ דְּלָא אִיכָּא דִּכְוָתַיְיהוּ — לָא אִיצְטְרִיךְ לֵיהּ.
+> **Translation:** **Rava said** a different explanation: The *baraita* is elucidating the mishna, which mentions these cities. The *baraita* is teaching that the **Gamla** referred to in the mishna is the one **in the Galilee, to the exclusion of** any **Gamla** found **in other lands,** i.e., Judea and Transjordan. Likewise, **Gedod** is the one **in Transjordan, to the exclusion of Gedod in other lands,** Judea and the Galilee. In the same vein, Ḥadid, Ono, and Jerusalem are specifically the cities in Judea known by those names. With regard to **those other** cities mentioned in the mishna, e.g., Yodfat, **since there are no** cities in other lands **with similar** names, **it was not necessary** for the *tanna* of the *baraita* to state them.
 
 The *baraita* specifies the geographic locations of the listed cities: *Gamla baGalil*, *Gidud be'Ever Yarden*, *Chadid*, *Ono*, and *Yerushalayim biYehudah*. Abaye reads this as indicating geographic extent — up to *Gamla* in the *Galil*, up to *Gidud* in *Ever Yarden*, implying that no further walled cities are recognized beyond those points. Rava offers a more economical explanation: the geographic specifications exist to distinguish these cities from other towns of the same name. *Gamla baGalil* — only the *Gamla* of *Galil*, not the various other places called *Gamla* that may have existed. Similarly *Gidud be'Ever Yarden* — only that particular *Gidud*. Cities without problematic name-twins needed no such qualification.
 
@@ -234,11 +247,12 @@ The *baraita* specifies the geographic locations of the listed cities: *Gamla ba
 
 ## Jerusalem Exception
 
+
+
 ### Jerusalem Question
 
-> **Hebrew/Aramaic:* וִירוּשָׁלַיִם מִי מִיחֲלַט בַּהּ? וְהָתַנְיָא: עֲשָׂרָה דְּבָרִים נֶאֶמְרוּ בִּירוּשָׁלַיִם, אֵין הַבַּיִת חָלוּט בָּהּ!
->
-> **Translation:** The Gemara asks: **And** is ownership of a house in **Jerusalem** transferred in **perpetuity** to the buyer after one year, in the manner of houses of walled cities? **But isn't it taught** in a *baraita*: **Ten matters were stated with regard to Jerusalem,** one of which is that ownership of **a house** situated in Jerusalem is **not** transferred in **perpetuity** one year after its sale?
+> **Hebrew/Aramaic:** וִירוּשָׁלַיִם מִי מִיחֲלַט בַּהּ? וְהָתַנְיָא: עֲשָׂרָה דְּבָרִים נֶאֶמְרוּ בִּירוּשָׁלַיִם, אֵין הַבַּיִת חָלוּט בָּהּ!
+> **Translation:** The Gemara asks: **And** is ownership of a house in **Jerusalem** transferred in **perpetuity** to the buyer after one year, in the manner of houses of walled cities? **But isn’t it taught** in a *baraita*: **Ten matters were stated with regard to Jerusalem,** one of which is that ownership of **a house** situated in Jerusalem is **not** transferred in **perpetuity** one year after its sale?
 
 Having listed *Yerushalayim* among the examples of walled cities, the Gemara asks: *BiYerushalayim mi machlita?* Since when do the laws of *batei arei chomah* apply to *Yerushalayim*? A *baraita* records that among the ten special enactments (*asara devarim ne'emru biYerushalayim*) pertaining to *Yerushalayim*, one is *ein bayis chalat bah* — a house in *Yerushalayim* does not become permanently transferred (*chalut*) under these laws.
 
@@ -248,15 +262,17 @@ The list of ten things said about *Yerushalayim* thus explicitly negates one of 
 
 ### National Property
 
+
 The underlying rationale is that *Yerushalayim* is not the possession of any individual tribe. It is, in a meaningful sense, national property — owned collectively by *Klal Yisrael* as a whole, not assigned to any tribe as *nachalah*. The laws of *batei arei chomah* presuppose that the house sits within a *city of tribal inheritance* — a city firmly within a tribe's assigned territory. Rashi frames it similarly: the permanent transfer contemplated by these laws requires an initial ownership that is itself grounded in the concept of *achuza*, ancestral inheritance. Since *Yerushalayim* is not any tribe's *achuza*, the full framework does not apply. There are indeed traditions about precisely where the tribal boundary between *Yehudah* and *Binyamin* ran through the city — and even through the *Beis Hamikdash* itself — but the implication of this *baraita* is that even though *Yerushalayim* falls within the geographic region of those tribes, it is not *possessed* by them in the way that generates *achuza* obligations.
 
 ### Example vs. Application
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: כִּירוּשָׁלַיִם דְּמוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן, וְלֹא כִּירוּשָׁלַיִם, דְּאִילּוּ יְרוּשָׁלַיִם אֵין הַבַּיִת חָלוּט בָּהּ, וְאִילּוּ הָכָא הַבַּיִת חָלוּט (בהן) [בָּהּ]. רַב אָשֵׁי אָמַר: לָאו אָמַר רַב יוֹסֵף תְּרֵי קָדֵשׁ הֲווֹ? הָכָא נָמֵי תְּרֵי יְרוּשָׁלַיִם הֲווֹ.
->
-> **Translation:** **Rabbi Yoḥanan said:** The *tanna* means that ownership of a house may be transferred in perpetuity in any city that is **like Jerusalem,** i.e., **which is surrounded by a wall from the era of Joshua, son of Nun, but** the *halakha* with regard to such a city is **not like Jerusalem** itself, **since while** with regard to **Jerusalem,** ownership of **a house** inside it is **not** transferred in **perpetuity, here,** with regard to cities similar to Jerusalem, **a house in them** may be transferred in **perpetuity** to the buyer. **Rav Ashi said** a different answer: **Didn't Rav Yosef say** in resolution of another difficulty: **There were two** places called **Kadesh? Here, too,** one can say that **there were two** places called **Jerusalem** in Judea, and the mishna is referring to the one where ownership of houses transfers in perpetuity.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: כִּירוּשָׁלַיִם דְּמוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן, וְלֹא כִּירוּשָׁלַיִם, דְּאִילּוּ יְרוּשָׁלַיִם אֵין הַבַּיִת חָלוּט בָּהּ, וְאִילּוּ הָכָא הַבַּיִת חָלוּט (בהן) [בָּהּ]. רַב אָשֵׁי אָמַר: לָאו אָמַר רַב יוֹסֵף תְּרֵי קָדֵשׁ הֲווֹ? הָכָא נָמֵי תְּרֵי יְרוּשָׁלַיִם הֲווֹ.
+> **Translation:** **Rabbi Yoḥanan said:** The *tanna* means that ownership of a house may be transferred in perpetuity in any city that is **like Jerusalem,** i.e., **which is surrounded by a wall from the era of Joshua, son of Nun, but** the *halakha* with regard to such a city is **not like Jerusalem** itself, **since while** with regard to **Jerusalem,** ownership of **a house** inside it is **not** transferred in **perpetuity, here,** with regard to cities similar to Jerusalem, **a house in them** may be transferred in **perpetuity** to the buyer. **Rav Ashi said** a different answer: **Didn’t Rav Yosef say** in resolution of another difficulty: **There were two** places called **Kadesh? Here, too,** one can say that **there were two** places called **Jerusalem** in Judea, and the mishna is referring to the one where ownership of houses transfers in perpetuity.
 
 *Amar Rabbi Yochanan: ki Yerushalayim demukafes choma miyemos Yehoshua bin Nun* — Rabbi Yochanan resolves the contradiction by saying that the Mishnah used *Yerushalayim* as an illustrative example of what a walled city looks like, not as an actual application of these laws. Any city *like Yerushalayim* — *ki Yerushalayim* — that is surrounded by a wall from the time of *Yehoshua bin Nun* would have this status, but *Yerushalayim* itself does not: *d'ilu Yerushalayim ein bayis chalut bah, v'ilu hacha habayis chalut bahen*. This is an admittedly uncomfortable interpretive move — citing as a paradigm example a case to which the rule does not itself apply.
+
+### Two Jerusalems
 
 Rav Yosef proposes an alternative: just as there are, according to a tradition he cites elsewhere, two places called *Kadesh*, there might be two places called *Yerushalayim*. The *Yerushalayim biYehudah* mentioned in the Mishnah might be a different *Yerushalayim* — a smaller locality in *Yehudah* bearing the same name, to which the laws of *batei arei chomah* do apply normally.
 
@@ -264,15 +280,16 @@ Rav Yosef proposes an alternative: just as there are, according to a tradition h
 
 ## First vs. Second Kedusha
 
-### Limited List Question
 
-> **Hebrew/Aramaic:** תַּנְיָא, רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי: לָמָּה מָנוּ חֲכָמִים אֶת אֵלּוּ, שֶׁכְּשֶׁעָלוּ בְּנֵי הַגּוֹלָה מָצְאוּ אֵלּוּ וְקִידְּשׁוּם, אֲבָל רִאשׁוֹנוֹת בָּטְלוּ מִשֶּׁבָּטְלָה קְדוּשַּׁת הָאָרֶץ. קָסָבַר: קְדוּשָּׁה רִאשׁוֹנָה קִידְּשָׁה לִשְׁעָתָהּ, וְלֹא קִידְּשָׁה לֶעָתִיד לָבֹא.
->
-> **Translation:** § With regard to the cities listed in the mishna, **it is taught** in a *baraita* that **Rabbi Yishmael, son of Rabbi Yosei,** says: **Why did the Sages count** specifically **these** cities as those walled since the days of Joshua, son of Nun? They counted them **because when the exiles ascended** to Eretz Yisrael from Babylonia, **they discovered these** cities **and sanctified them; but** the sanctity of the **first** walled cities **was nullified when the sanctity of the land was nullified** and the Jewish people were exiled. The Gemara notes: Apparently, Rabbi Yishmael, son of Rabbi Yosei, **holds** that the **initial consecration** of Eretz Yisrael in the days of Joshua **consecrated** it **for its time,** until the exile, **but did not consecrate** Eretz Yisrael **forever.**
+
+### Limited List Question
 
 A *baraita* now raises a fundamental challenge to the Mishnah's short list. *Rabbi Yishmael beRabbi Yosi* opens by asking: *lama manu chachamim es elu?* — why did the Sages list these particular cities? The *baraita* then addresses the question of which historical moment determines a city's status as a *batei arei chomah*.
 
 ### Second Kedusha View
+
+> **Hebrew/Aramaic:** תַּנְיָא, רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי: לָמָּה מָנוּ חֲכָמִים אֶת אֵלּוּ, שֶׁכְּשֶׁעָלוּ בְּנֵי הַגּוֹלָה מָצְאוּ אֵלּוּ וְקִידְּשׁוּם, אֲבָל רִאשׁוֹנוֹת בָּטְלוּ מִשֶּׁבָּטְלָה קְדוּשַּׁת הָאָרֶץ. קָסָבַר: קְדוּשָּׁה רִאשׁוֹנָה קִידְּשָׁה לִשְׁעָתָהּ, וְלֹא קִידְּשָׁה לֶעָתִיד לָבֹא.
+> **Translation:** § With regard to the cities listed in the mishna, **it is taught** in a *baraita* that **Rabbi Yishmael, son of Rabbi Yosei,** says: **Why did the Sages count** specifically **these** cities as those walled since the days of Joshua, son of Nun? They counted them **because when the exiles ascended** to Eretz Yisrael from Babylonia, **they discovered these** cities **and sanctified them; but** the sanctity of the **first** walled cities **was nullified when the sanctity of the land was nullified** and the Jewish people were exiled. The Gemara notes: Apparently, Rabbi Yishmael, son of Rabbi Yosei, **holds** that the **initial consecration** of Eretz Yisrael in the days of Joshua **consecrated** it **for its time,** until the exile, **but did not consecrate** Eretz Yisrael **forever.**
 
 The first position in the *baraita*: when the returning exiles came up in the time of *Ezra*, *matzu elu v'kidshum* — they found these cities and sanctified them. The implication is that these are the *only* cities that carry the status of *batei arei chomah*, because the sanctification of the land by *Yehoshua* had lapsed and the relevant status had to be freshly granted in the time of the Second *Beis Hamikdash*.
 
@@ -282,9 +299,14 @@ The theological underpinning of this position is stated explicitly: *kedushah ri
 
 ### First Kedusha View
 
-> **Hebrew/Aramaic:** וּרְמִינְהִי: אָמַר רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי: וְכִי אֵלּוּ בִּלְבַד הָיוּ? וַהֲלֹא כְּבָר נֶאֱמַר: ״שִׁשִּׁים עִיר כׇּל חֶבֶל אַרְגּוֹב... כׇּל אֵלֶּה עָרִים בְּצוּרוֹת״! אֶלָּא לָמָּה מָנוּ חֲכָמִים אֶת אֵלּוּ? שֶׁכְּשֶׁעָלוּ בְּנֵי הַגּוֹלָה מָצְאוּ אֵלּוּ וְקִידְּשׁוּם. קִידְּשׁוּם? הָא אָמְרִינַן דְּלָא צְרִיךְ לְקַדּוֹשִׁינְהוּ! אֶלָּא מְנָאוּם. וְלֹא אֵלּוּ בִּלְבַד, אֶלָּא כֹּל שֶׁתַּעֲלֶה לְךָ מָסוֹרֶת בְּיָדְךָ מֵאֲבוֹתֶיךָ שֶׁמּוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן — כׇּל מִצְוֹת הַלָּלוּ נוֹהֲגוֹת בָּהּ, מִפְּנֵי שֶׁקְּדוּשָּׁה רִאשׁוֹנָה קִידְּשָׁה לִשְׁעָתָהּ וְקִידְּשָׁה לֶעָתִיד לָבֹא!
->
-> **Translation:** The Gemara asks: **But raise a contradiction** from another *baraita*: **Rabbi Yishmael, son of Rabbi Yosei, said: And were these** cities enumerated in the mishna the **only** walled cities from the days of Joshua? **But isn't it already stated:** "There was not a city that we took not from them; **sixty cities, all the region of Argob…all these cities were fortified with high walls,** gates, and bars" (Deuteronomy 3:4–5)? **Rather, why did the Sages** specifically **count these** cities? They counted them **because when the exiles ascended** from Babylonia **they discovered these and sanctified them.** The Gemara interjects: Can the *baraita* really mean that they **sanctified them? But we say** later in the same *baraita* that **it is not necessary to sanctify** them. **Rather,** the *baraita* means that **they** found these cities and **counted them** in the mishna. **And not only these; rather,** with regard to **any** city for **which you receive a tradition from your ancestors that it is surrounded by a wall from the days of Joshua, son of Nun, all these mitzvot** of walled cities **are observed in it, due to** the fact that the **initial consecration** of Eretz Yisrael **consecrated** it **for its time and consecrated** it **forever.** Evidently, Rabbi Yishmael, son of Rabbi Yosei, holds that the initial consecration of Eretz Yisrael is eternal.
+> **Hebrew/Aramaic:** וּרְמִינְהִי: אָמַר רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי: וְכִי אֵלּוּ בִּלְבַד הָיוּ? וַהֲלֹא כְּבָר נֶאֱמַר: ״שִׁשִּׁים עִיר כׇּל חֶבֶל אַרְגּוֹב... כׇּל אֵלֶּה עָרִים בְּצוּרוֹת״! אֶלָּא לָמָּה מָנוּ חֲכָמִים אֶת אֵלּוּ? שֶׁכְּשֶׁעָלוּ בְּנֵי הַגּוֹלָה מָצְאוּ אֵלּוּ וְקִידְּשׁוּם. קִידְּשׁוּם? הָא אָמְרִינַן דְּלָא צְרִיךְ לְקַדּוֹשִׁינְהוּ! אֶלָּא מְנָאוּם.
+> **Translation:** The Gemara asks: **But raise a contradiction** from another *baraita*: **Rabbi Yishmael, son of Rabbi Yosei, said: And were these** cities enumerated in the mishna the **only** walled cities from the days of Joshua? **But isn’t it already stated:** “There was not a city that we took not from them; **sixty cities, all the region of Argob…all these cities were fortified with high walls,** gates, and bars” (Deuteronomy 3:4–5)? **Rather, why did the Sages** specifically **count these** cities? They counted them **because when the exiles ascended** from Babylonia **they discovered these and sanctified them.** The Gemara interjects: Can the *baraita* really mean that they **sanctified them? But we say** later in the same *baraita* that **it is not necessary to sanctify** them. **Rather,** the *baraita* means that **they** found these cities and **counted them** in the mishna.
+
+> **Hebrew/Aramaic:** וְלֹא אֵלּוּ בִּלְבַד, אֶלָּא כֹּל שֶׁתַּעֲלֶה לְךָ מָסוֹרֶת בְּיָדְךָ מֵאֲבוֹתֶיךָ שֶׁמּוּקֶּפֶת חוֹמָה מִימוֹת יְהוֹשֻׁעַ בִּן נוּן — כׇּל מִצְוֹת הַלָּלוּ נוֹהֲגוֹת בָּהּ, מִפְּנֵי שֶׁקְּדוּשָּׁה רִאשׁוֹנָה קִידְּשָׁה לִשְׁעָתָהּ וְקִידְּשָׁה לֶעָתִיד לָבֹא!
+> **Translation:** The *baraita* continues: **And not only these; rather,** with regard to **any** city for **which you receive a tradition from your ancestors that it is surrounded by a wall from the days of Joshua, son of Nun, all these mitzvot** of walled cities **are observed in it, due to** the fact that the **initial consecration** of Eretz Yisrael **consecrated** it **for its time and consecrated** it **forever.** Evidently, Rabbi Yishmael, son of Rabbi Yosei, holds that the initial consecration of Eretz Yisrael is eternal.
+
+> **Hebrew/Aramaic:** אִיבָּעֵית אֵימָא: תְּרֵי תַּנָּאֵי וְאַלִּיבָּא דְּרַבִּי יִשְׁמָעֵאל, וְאִיבָּעֵית אֵימָא: חַד מִינַּיְיהוּ רַבִּי אֶלְעָזָר בַּר יוֹסֵי אַמְרַהּ, דְּתַנְיָא: רַבִּי אֶלְעָזָר בַּר יוֹסֵי אוֹמֵר: ״אֲשֶׁר לוֹא חוֹמָה״ — אַף עַל פִּי שֶׁאֵין לוֹ עַכְשָׁיו וְהָיָה לוֹ קוֹדֶם לָכֵן.
+> **Translation:** The Gemara responds: **If you wish, say** that this is a dispute between **two *tanna’im*, and** they disagree **with regard to** the opinion **of Rabbi Yishmael,** son of Rabbi Yosei. **And if you wish, say** instead that **one** of the *baraitot*, specifically the second one, was actually **said** by **Rabbi Elazar bar Yosei. As it is taught** in a *baraita* that **Rabbi Elazar bar Yosei says:** Since the verse states: **“Which has [*lo*] a wall,”** with *lo* written with an *alef*, according to which the verse may also be taken to mean: Which does not have a wall, this indicates that **even if** a city **does not have** a wall **now, but it had** a wall **before,** in the era of Joshua, son of Nun, it retains its status as a walled city.
 
 The second position in the *baraita* — also attributed to Rabbi Yishmael beRabbi Yosi — asks the same opening question but draws a diametrically opposite conclusion. *V'chi elu bilvad hayu?* — were these the only walled cities that existed? The verse in the Torah speaks of *shishim ir kol chevel Argov* — sixty cities, all *betzuros* (fortified), just in the region of *Argov* in *Ever HaYarden* alone! There were vastly more walled cities than this handful. So why list just these?
 
@@ -292,15 +314,13 @@ The answer: *shekeshe'alu bnei hagolah matzu elu v'kidshum*. When the *baraita* 
 
 ### Resolution Attempt
 
-> **Hebrew/Aramaic:** אִיבָּעֵית אֵימָא: תְּרֵי תַּנָּאֵי וְאַלִּיבָּא דְּרַבִּי יִשְׁמָעֵאל, וְאִיבָּעֵית אֵימָא: חַד מִינַּיְיהוּ רַבִּי אֶלְעָזָר בַּר יוֹסֵי אַמְרַהּ, דְּתַנְיָא: רַבִּי אֶלְעָזָר בַּר יוֹסֵי אוֹמֵר: ״אֲשֶׁר לוֹא חוֹמָה״ — אַף עַל פִּי שֶׁאֵין לוֹ עַכְשָׁיו וְהָיָה לוֹ קוֹדֶם לָכֵן.
->
-> **Translation:** The Gemara responds: **If you wish, say** that this is a dispute between **two *tanna'im*, and** they disagree **with regard to** the opinion **of Rabbi Yishmael,** son of Rabbi Yosei. **And if you wish, say** instead that **one** of the *baraitot*, specifically the second one, was actually **said** by **Rabbi Elazar bar Yosei. As it is taught** in a *baraita* that **Rabbi Elazar bar Yosei says:** Since the verse states: **"Which has [*lo*] a wall,"** with *lo* written with an *alef*, according to which the verse may also be taken to mean: Which does not have a wall, this indicates that **even if** a city **does not have** a wall **now, but it had** a wall **before,** in the era of Joshua, son of Nun, it retains its status as a walled city.
-
 The Gemara notes the problem directly: we now have two statements attributed to Rabbi Yishmael beRabbi Yosi that flatly contradict each other on the central question of *kedushah rishonah*. The Gemara offers two resolutions. First, *trei tannai aliba d'Rabi Yishmael* — these represent two *tannaim* who disagreed about what Rabbi Yishmael actually held. Second, one of the attributions may be in error: *chad mineihu Rabi Elazar b'Rabi Yosi amrah* — one of the two *beraisos* was actually said by Rabbi Elazar beRabbi Yosi, not Rabbi Yishmael beRabbi Yosi.
 
 ---
 
 ## Limited List Analysis
+
+
 
 ### Rabbi Elazar Proof
 
@@ -310,9 +330,13 @@ The attribution to Rabbi Elazar beRabbi Yosi is especially apt because he is on 
 
 With this identification, the Gemara assigns the two *beraisos* to their respective positions: the first *baraita* (which understands the Mishnah's limited list as complete, based on Ezra's resanctification) reflects the *kedushah shniyah* view; the second *baraita* (which treats the Mishnah's list as merely illustrative, with the true scope going back to all of *Yehoshua*'s walled cities) reflects the *kedushah rishonah* view, identified with Rabbi Elazar beRabbi Yosi.
 
+It is worth noting, however, that this connection is not as obvious as it might first appear. When we ordinarily speak of *kedushah rishonah* versus *kedushah shniyah* — whether we follow the sanctification of the first *Beis HaMikdash* era or the second, the conquest of *Yehoshua* or the resettlement of *Ezra* — the context is typically *terumos u'maasros*: agricultural obligations tied to the soil, questions about which lands were sanctified and whether that sanctification endures. It is not immediately apparent why the same framework should govern the status of a house in a *batei arei chomah* transaction, which seems to be a question about whether *yovel* is practiced, not about the *kedushah* of the soil as such. One might have expected these laws to depend purely on calendrical and demographic conditions rather than on which stratum of sanctification we invoke — a question the next section takes up directly.
+
 ---
 
 ## Kedusha Connection
+
+
 
 ### Conceptual Link
 
@@ -330,11 +354,12 @@ This parallel in *Keilim* is significant because there the holiness in question 
 
 ## Ezra Parallel Evidence
 
+
+
 ### Sukkot Verse
 
-> **Hebrew/Aramaic:** אֶלָּא מַקִּישׁ בִּיאָתָם בִּימֵי עֶזְרָא לְבִיאָתָם בִּימֵי יְהוֹשֻׁעַ, מָה בִּיאָתָם בִּימֵי יְהוֹשֻׁעַ מָנוּ שְׁמִיטִּין וְיוֹבְלוֹת וְקִדְּשׁוּ עָרֵי חוֹמָה, אַף בִּיאָתָן בִּימֵי עֶזְרָא מָנוּ שְׁמִיטִּין וְיוֹבְלוֹת וְקִדְּשׁוּ עָרֵי חוֹמָה.
->
-> **Translation:** **Rather,** when the verse states: "For since the days of Joshua," it means to **compare their arrival** in Eretz Yisrael **in the days of Ezra to their arrival in the days of Joshua: Just as** with regard to **their arrival in the days of Joshua, they counted Sabbatical** Years **and Jubilee** Years **and they sanctified walled cities, so too,** with regard to **their arrival in the days of Ezra, they counted Sabbatical** Years **and Jubilee** Years **and they sanctified walled cities.**
+> **Hebrew/Aramaic:** מַאי טַעְמָא דְּמַאן דְּאָמַר: קְדוּשָּׁה רִאשׁוֹנָה קִידְּשָׁה לִשְׁעָתָהּ וְלֹא קִידְּשָׁה לֶעָתִיד לָבֹא? דִּכְתִיב: ״וַיַּעֲשׂוּ בְּנֵי הַגּוֹלָה הַשָּׁבִים מִן הַשְּׁבִי סוּכּוֹת וַיֵּשְׁבוּ בַסּוּכּוֹת כִּי לֹא עָשׂוּ מִימֵי יֵשׁוּעַ בִּן נוּן כֵּן בְּנֵי יִשְׂרָאֵל וְגוֹ׳ וַתְּהִי שִׂמְחָה גְּדוֹלָה מְאֹד״. אֶפְשָׁר בָּא דָּוִד וְלֹא עָשׂוּ סוּכּוֹת עַד שֶׁבָּא עֶזְרָא?
+> **Translation:** § The Gemara asks: **What is the reasoning of the one who says** that the **initial consecration** of Eretz Yisrael **consecrated** it **for its time, but did not consecrate** it **forever? As** it is taught in a *baraita*: **It is written** with regard to the return from Babylonia: **“And all the congregation of those that were coming back out of the captivity made *sukkot*, and dwelt in *sukkot*, for since the days of Joshua, son of Nun,** unto that day **the children of Israel had not done so. And there was very great joy”** (Nehemiah 8:17). Now, is it **possible** that King **David came and** the Jews in his time and all subsequent generations **did not make *sukkot*, until Ezra came?**
 
 The Gemara now examines the prooftext offered by those who hold *kedushah rishonah kidshah l'sha'atah v'lo kidshah l'asid lavo*. The verse in *Nechemiah* describes the celebration of *Sukkot* upon the return from exile: *kol hakahal hashavim min hashvi sukkot vayeshvu bassukkot ki lo asu miyemos Yehoshua bin Nun kol ken benei Yisrael vattehi simcha gedola me'od* — the entire assembly that returned from captivity made *sukkot* and dwelt in them, for from the days of *Yehoshua bin Nun* until that time the Jewish people had not done so like this, and the joy was very great. This verse is read as connecting Ezra's generation to *Yehoshua*'s, suggesting that something analogous to the original conquest and settlement was being repeated in Ezra's time.
 
@@ -344,13 +369,15 @@ The Gemara immediately challenges the literal reading of this verse: *efshar ba 
 
 ### Returns Compared
 
-*Makish bi'atam biymei Ezra livi'atam biymei Yehoshua* — the verse draws a parallel between the return in Ezra's time and the original entry in *Yehoshua*'s time. The parallel is halachic in import: just as the entry under *Yehoshua* entailed *manu shmittin veyovelot vekidshu arei chomah* — the counting of *shmitah* and *yovel* cycles and the sanctification of walled cities — so too the return under *Ezra* involved the same: a reinstatement of *shmitah*, *yovel*, and the sanctification of *arei chomah*. This confirms the view that the second *kedushah* was a genuine fresh sanctification, parallel in structure and legal force to the first.
+> **Hebrew/Aramaic:** אֶלָּא מַקִּישׁ בִּיאָתָם בִּימֵי עֶזְרָא לְבִיאָתָם בִּימֵי יְהוֹשֻׁעַ, מָה בִּיאָתָם בִּימֵי יְהוֹשֻׁעַ מָנוּ שְׁמִיטִּין וְיוֹבְלוֹת וְקִדְּשׁוּ עָרֵי חוֹמָה, אַף בִּיאָתָן בִּימֵי עֶזְרָא מָנוּ שְׁמִיטִּין וְיוֹבְלוֹת וְקִדְּשׁוּ עָרֵי חוֹמָה.
+> **Translation:** **Rather,** when the verse states: “For since the days of Joshua,” it means to **compare their arrival** in Eretz Yisrael **in the days of Ezra to their arrival in the days of Joshua: Just as** with regard to **their arrival in the days of Joshua, they counted Sabbatical** Years **and Jubilee** Years **and they sanctified walled cities, so too,** with regard to **their arrival in the days of Ezra, they counted Sabbatical** Years **and Jubilee** Years **and they sanctified walled cities.**
+
+The Gemara's interpretation: *makish bi'atam biymei Ezra livi'atam biymei Yehoshua* — the verse draws a parallel between the return in Ezra's time and the original entry in *Yehoshua*'s time. The parallel is halachic in import: just as the entry under *Yehoshua* entailed *manu shmittin veyovelot vekidshu arei chomah* — the counting of *shmitah* and *yovel* cycles and the sanctification of walled cities — so too the return under *Ezra* involved the same: a reinstatement of *shmitah*, *yovel*, and the sanctification of *arei chomah*. This confirms the view that the second *kedushah* was a genuine fresh sanctification, parallel in structure and legal force to the first.
 
 ### Inheritance Verse
 
-> **Hebrew/Aramaic:** וְאוֹמֵר: ״וֶהֱבִיאֲךָ ה׳ אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבוֹתֶיךָ וִירִשְׁתָּהּ״, מַקִּישׁ יְרוּשָּׁתְךָ לִירוּשַּׁת אֲבוֹתֶיךָ — מָה יְרוּשַּׁת אֲבוֹתֶיךָ בְּחִידּוּשׁ כׇּל דְּבָרִים הַלָּלוּ, אַף יְרוּשָּׁתְךָ בְּחִידּוּשׁ כׇּל דְּבָרִים הַלָּלוּ.
->
-> **Translation:** **And** so it **says** with regard to the return of the Jews from exile: **"And the Lord your God will bring you into the land that your fathers possessed, and you shall possess it"** (Deuteronomy 30:5). The verse **compares your possession to the possession of your fathers: Just as the possession of your fathers** came **with the renewal of all these matters,** i.e., the Sabbatical Year and the Jubilee Year, and *terumot* and tithes, **so too your possession** comes **with the renewal of all these matters,** as the initial consecration was nullified.
+> **Hebrew/Aramaic:** וְאוֹמֵר: ״וֶהֱבִיאֲךָ ה׳ אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר יָרְשׁוּ אֲבוֹתֶיךָ וִירִשְׁתָּהּ״, מַקִּישׁ יְרוּשָּׁתְךָ לִירוּשַּׁת אֲבוֹתֶיךָ — מָה יְרוּשַּׁת אֲבוֹתֶיךָ בְּחִידּוּשׁ כׇּל דְּבָרִים הַלָּלוּ, אַף יְרוּשָּׁתְךָ בְּחִידּוּשׁ כׇּל דְּבָרִים הַלָּלוּ.
+> **Translation:** **And** so it **says** with regard to the return of the Jews from exile: **“And the Lord your God will bring you into the land that your fathers possessed, and you shall possess it”** (Deuteronomy 30:5). The verse **compares your possession to the possession of your fathers: Just as the possession of your fathers** came **with the renewal of all these matters,** i.e., the Sabbatical Year and the Jubilee Year, and *terumot* and tithes, **so too your possession** comes **with the renewal of all these matters,** as the initial consecration was nullified.
 
 A further prooftext: the verse in *Devarim* — *vehevi'acha Hashem Elokecha el ha'aretz asher yarshu avotecha viyrishtah* — "and Hashem your God will bring you to the land that your fathers inherited, and you shall inherit it." *Makish yerushat'cha liyrushat avotecha* — your inheriting is equated with your fathers' inheriting. Just as the fathers' original inheritance involved *bechidush kol haddevarim hallalu* — the fresh institution of all these matters (including *shmitah*, *yovel*, and the sanctification of walled cities) — so too the return from exile constitutes a new inheriting with a corresponding fresh sanctification.
 
@@ -358,33 +385,35 @@ A further prooftext: the verse in *Devarim* — *vehevi'acha Hashem Elokecha el 
 
 ## First Kedusha Defense
 
-### Joshua Comparison
 
-> **Hebrew/Aramaic:** וְאִידַּךְ? דִּבְעוֹ רַחֲמֵי עַל יֵצֶר דַּעֲבוֹדָה זָרָה, וּבַטְּלֵיהּ, וְאַגֵּין זְכוּתָא עֲלַיְיהוּ כִּי סוּכָּה.
->
-> **Translation:** The Gemara asks: **And** the *tanna* who maintains **the other** opinion, that the initial consecration of Eretz Yisrael is eternal, how does he interpret the verse in Nehemiah? The Gemara answers that when the verse states: "For since the days of Joshua," this is not referring to actual *sukkot*; rather, the verse means **that** Ezra **prayed for mercy with regard to** the evil **inclination of idol worship and nullified it, and the merit** of his prayer **protected them like a *sukka*.**
+
+### Joshua Comparison
 
 The Gemara now asks on behalf of the opposing view — *kedushah rishonah kidshah l'asid lavo* — why Ezra's return is compared to *Yehoshua*'s entry if not to indicate a fresh sanctification. The answer given: the comparison to *Yehoshua* is made for a different reason entirely, unrelated to sanctification of the land or walled cities.
 
 ### Yetzer Hara Removed
 
+> **Hebrew/Aramaic:** וְאִידַּךְ? דִּבְעוֹ רַחֲמֵי עַל יֵצֶר דַּעֲבוֹדָה זָרָה, וּבַטְּלֵיהּ, וְאַגֵּין זְכוּתָא עֲלַיְיהוּ כִּי סוּכָּה.
+> **Translation:** The Gemara asks: **And** the *tanna* who maintains **the other** opinion, that the initial consecration of Eretz Yisrael is eternal, how does he interpret the verse in Nehemiah? The Gemara answers that when the verse states: “For since the days of Joshua,” this is not referring to actual *sukkot*; rather, the verse means **that** Ezra **prayed for mercy with regard to** the evil **inclination of idol worship and nullified it, and the merit** of his prayer **protected them like a *sukka*.**
+
 The comparison is meant to highlight the spiritual achievement of Ezra's generation. There is a well-known tradition that when the returnees came back to *Eretz Yisrael* at the time of the Second *Beis Hamikdash*, they prayed to have the *yetzer hara* of *avoda zara* removed — the burning drive toward idolatry that had caused the destruction of the First Temple. Their prayer was answered, and that *yetzer hara* was destroyed. The verse's comparison to *Yehoshua* is thus about spiritual merit and the conquest of the inner *yetzer*, not about reinstating *kedushah*.
 
 ### Joshua Critique
-
-> **Hebrew/Aramaic:** וְהַיְינוּ דְּקָא קָפֵיד קְרָא עִילָּוֵיהּ דִּיהוֹשֻׁעַ, דִּבְכֹל דּוּכְתָּא כְּתִיב ״יְהוֹשֻׁעַ״, וְהָכָא כְּתִיב ״יֵשׁוּעַ״. בִּשְׁלָמָא מֹשֶׁה לָא בְּעָא רַחֲמֵי, דְּלָא הֲוָה זְכוּתָא דְּאֶרֶץ יִשְׂרָאֵל, אֶלָּא יְהוֹשֻׁעַ דַּהֲוָה לֵיהּ זְכוּתָא דְּאֶרֶץ יִשְׂרָאֵל, אַמַּאי לָא לִיבְעֵי רַחֲמֵי?
->
-> **Translation:** The Gemara adds: **And this is** the reason **that the verse criticizes Joshua** for not praying for the removal of this inclination himself. How is this criticism indicated in the verse? **As in every** other **place** in the Bible, his name **is written** as: **Yehoshua, and here it is written: Yeshua.** The Gemara explains why the verse singles out Joshua for criticism: **Granted, Moses,** the first leader of the Jewish people, **did not pray for mercy** that this inclination should be removed, **as** at the time **there was no merit of Eretz Yisrael; but Joshua, who had the merit of Eretz Yisrael, why didn't he pray for mercy** that this inclination should be nullified?
 
 This framing contains an implicit critique of *Yehoshua*. If Ezra's generation was able to destroy the *yetzer hara* of *avoda zara* — thereby protecting *Klal Yisrael* from the catastrophe that led to the First Temple's destruction — why didn't *Yehoshua* do the same? He entered the land, he had at least as great a *zechut*, and yet he left this *yetzer* in place, allowing it to plague the Jewish people for centuries.
 
 ### Spelling Criticism
 
-*Vehainu dekakapi kari lei Yehoshua* — this orthographic anomaly is read as a subtle rebuke. The abbreviated spelling signals criticism: *Bishlama* one can understand why *Moshe* did not pursue this, *d'lo havei zechuta d'Eretz Yisrael* — he was outside the land and lacked that particular merit. But *Yehoshua*, who entered the land and possessed that merit, could have done it — *amai lo ba rachamei?* Why did he not pray for the removal of the *yetzer hara* of *avoda zara*?
+> **Hebrew/Aramaic:** וְהַיְינוּ דְּקָא קָפֵיד קְרָא עִילָּוֵיהּ דִּיהוֹשֻׁעַ, דִּבְכֹל דּוּכְתָּא כְּתִיב ״יְהוֹשֻׁעַ״, וְהָכָא כְּתִיב ״יֵשׁוּעַ״. בִּשְׁלָמָא מֹשֶׁה לָא בְּעָא רַחֲמֵי, דְּלָא הֲוָה זְכוּתָא דְּאֶרֶץ יִשְׂרָאֵל, אֶלָּא יְהוֹשֻׁעַ דַּהֲוָה לֵיהּ זְכוּתָא דְּאֶרֶץ יִשְׂרָאֵל, אַמַּאי לָא לִיבְעֵי רַחֲמֵי?
+> **Translation:** The Gemara adds: **And this is** the reason **that the verse criticizes Joshua** for not praying for the removal of this inclination himself. How is this criticism indicated in the verse? **As in every** other **place** in the Bible, his name **is written** as: **Yehoshua, and here it is written: Yeshua.** The Gemara explains why the verse singles out Joshua for criticism: **Granted, Moses,** the first leader of the Jewish people, **did not pray for mercy** that this inclination should be removed, **as** at the time **there was no merit of Eretz Yisrael; but Joshua, who had the merit of Eretz Yisrael, why didn’t he pray for mercy** that this inclination should be nullified?
+
+The Gemara identifies this criticism as embedded in the text itself: throughout *Tanakh* the name is spelled *Yehoshua* with a *hei*, but in the verse comparing Ezra's celebration of *Sukkot* to what was done *miyemos Yehoshua*, the name is spelled *Yeshua* — without the *hei*. *Vehainu dekakapi kari lei Yehoshua* — this orthographic anomaly is read as a subtle rebuke. The abbreviated spelling signals criticism: *Bishlama* one can understand why *Moshe* did not pursue this, *d'lo havei zechuta d'Eretz Yisrael* — he was outside the land and lacked that particular merit. But *Yehoshua*, who entered the land and possessed that merit, could have done it — *amai lo ba rachamei?* Why did he not pray for the removal of the *yetzer hara* of *avoda zara*?
 
 ---
 
 ## Summary & Implications
+
+
 
 ### List Interpretation
 

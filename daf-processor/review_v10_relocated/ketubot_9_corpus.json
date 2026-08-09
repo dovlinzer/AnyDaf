@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Intro Aveilim",
+    "candidates": [
+      "Intro Aveilim",
+      "Rabbi Chiya Bar Abba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's clarification of Rabbi Yochanan's ruling about mourners not counting toward the minyan for birchat aveilim \u2014 distinguishing the sura/rechava/panim chadashot contexts \u2014 which is precisely what the 'Intro Aveilim' prose describes in detail.",
+      "chosen_heading": "Intro Aveilim",
+      "current_heading": "Intro Aveilim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rabbi Chiya Bar Abba",
+    "candidates": [
+      "Rabbi Chiya Bar Abba",
+      "Seven Brachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the same incident of Rav \u1e24iyya bar Abba's child dying, Yehuda bar Na\u1e25mani's consolation speech, and the Gemara's question and answer about whether it was appropriate \u2014 exactly what the prose under 'Rabbi Chiya Bar Abba' discusses in detail.",
+      "chosen_heading": "Rabbi Chiya Bar Abba",
+      "current_heading": "Rabbi Chiya Bar Abba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Seven Brachot",
+    "candidates": [
+      "Seven Brachot",
+      "Ten Cups Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items describe the successive blessings (birchat aveilim) that Resh Lakish directed Yehuda bar Nachmani to recite, which is precisely what the 'Seven Brachot' section's prose discusses in detail.",
+      "chosen_heading": "Seven Brachot",
+      "current_heading": "Seven Brachot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Ten Cups Wine",
+    "candidates": [
+      "Ten Cups Wine",
+      "Pesach Patuach Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ten cups of wine instituted in the house of mourning and the story of Rabban Gamliel's simple burial, which is exactly what the 'Ten Cups Wine' prose section covers in detail.",
+      "chosen_heading": "Ten Cups Wine",
+      "current_heading": "Ten Cups Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Pesach Patuach Claim",
+    "candidates": [
+      "Pesach Patuach Claim",
+      "Safek Sefeika Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Elazar's ruling about 'pesach patuach' \u2014 the husband's claim that he found an unobstructed orifice \u2014 which is precisely what the 'Pesach Patuach Claim' section's prose discusses and introduces.",
+      "chosen_heading": "Pesach Patuach Claim",
+      "current_heading": "Pesach Patuach Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Safek Sefeika Analysis",
+    "candidates": [
+      "Safek Sefeika Analysis",
+      "Sotah Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core sfek sefeika objection and its resolution (eshet kohen / pachot mibat shalosh), which is precisely what the 'Safek Sefeika Analysis' prose describes in detail.",
+      "chosen_heading": "Safek Sefeika Analysis",
+      "current_heading": "Safek Sefeika Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Sotah Contradiction",
+    "candidates": [
+      "Sotah Contradiction",
+      "Self-Testimony Weights",
+      "David Batsheva",
+      "Uriah Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain addressing the contradiction between Rabbi Elazar's ruling on pesach patuach and his statement about kinui v'stira, which is precisely what the 'Sotah Contradiction' heading's prose describes \u2014 the challenge, the David/Batsheva question, the untangling of the statement, and the final resolution that pesach patuach counts like two witnesses.",
+      "chosen_heading": "Sotah Contradiction",
+      "current_heading": "Sotah Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Uriah Get",
+    "candidates": [
+      "Self-Testimony Weights",
+      "David Batsheva",
+      "Uriah Get",
+      "Wednesday Takana"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "David Batsheva",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing line of the 'David Batsheva' discussion \u2014 it introduces the v'iba'is eima alternative but does not yet state it \u2014 matching candidate 1's prose which explicitly ends 'a question the gemara will address in full in the next sugya.'",
+      "second_heading": "Uriah Get",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the content of that alternative answer (the conditional get of soldiers in David's wars), which is precisely what candidate 2 'Uriah Get' describes in full.",
+      "current_heading": "Uriah Get",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Wednesday Takana",
+    "candidates": [
+      "Wednesday Takana",
+      "Takana Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's proof from the mishna that a virgin marries on Wednesday and not Thursday due to icrurei da'ata (cooling of resolve), which is precisely what the 'Wednesday Takana' prose describes.",
+      "chosen_heading": "Wednesday Takana",
+      "current_heading": "Wednesday Takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Takana Purpose",
+    "candidates": [
+      "Takana Purpose",
+      "Blood vs Door"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the community cares about bringing the husband to court \u2014 establishing that the concern is rendering her forbidden (l'osra alav), not financial gain \u2014 which is precisely what the 'Takana Purpose' prose discusses.",
+      "chosen_heading": "Takana Purpose",
+      "current_heading": "Takana Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Blood vs Door",
+    "candidates": [
+      "Blood vs Door",
+      "Judah Galilee"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's distinction between the pesach patuach claim and the tainas damim claim, which is precisely what the 'Blood vs Door' prose section addresses.",
+      "chosen_heading": "Blood vs Door",
+      "current_heading": "Blood vs Door",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Judah Galilee",
+    "candidates": [
+      "Judah Galilee",
+      "Rashi Credibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the regional Judah/Galilee distinction regarding the husband's ability to claim non-virginity, which is precisely what the 'Judah Galilee' section's prose describes, not the Rashi credibility analysis in candidate 1.",
+      "chosen_heading": "Judah Galilee",
+      "current_heading": "Judah Galilee",
+      "moved": false
+    }
+  }
+]

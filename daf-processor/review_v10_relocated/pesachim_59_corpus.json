@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Erev & Bein Arbayim",
+    "candidates": [
+      "Tamid Timing",
+      "Erev & Bein Arbayim",
+      "Erev Definition",
+      "Pesach Double Language",
+      "Menora & Incense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita listing the hierarchy of tamid \u2192 pesach \u2192 ketores \u2192 neiros is explicitly described and quoted in the 'Erev & Bein Arbayim' section's prose, making it the clear home for this passage.",
+      "chosen_heading": "Erev & Bein Arbayim",
+      "current_heading": "Erev & Bein Arbayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Menora & Incense",
+    "candidates": [
+      "Erev Definition",
+      "Pesach Double Language",
+      "Menora & Incense",
+      "Menora Night Service",
+      "Ketores Linked",
+      "Pesach Before",
+      "Neiros Last",
+      "Oso Exclusion",
+      "Ketores First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 item 1 states the double-language derivation, item 2 raises the objection about ketores/neiros, and items 3-4 give the answer via 'oso' \u2014 exactly matching the 'Pesach Double Language' prose which describes precisely this question-and-answer sequence, whereas the current heading 'Menora & Incense' only covers the answer portion without the initiating argument.",
+      "chosen_heading": "Pesach Double Language",
+      "current_heading": "Menora & Incense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Ketores First",
+    "candidates": [
+      "Menora Night Service",
+      "Ketores Linked",
+      "Pesach Before",
+      "Neiros Last",
+      "Oso Exclusion",
+      "Ketores First",
+      "Ketores Earliest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about the ketores-neiros ordering established through the word 'oso' and the verse 'u've'haalos Aharon,' which is precisely what candidate 5's prose addresses.",
+      "chosen_heading": "Ketores First",
+      "current_heading": "Ketores First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Ketores Earliest",
+    "candidates": [
+      "Ketores Earliest",
+      "Complete Order",
+      "Tahara Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that nothing precedes the morning tamid except the incense and derives this from the double 'baboker baboker' language, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Ketores Earliest",
+      "current_heading": "Ketores Earliest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Tahara Scenario",
+    "candidates": [
+      "Complete Order",
+      "Tahara Scenario",
+      "Tanna Kamma Allow",
+      "Rabbi Yishmael Expand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraisa text listing what may be delayed after the afternoon tamid (incense, lamps, Paschal lamb, and mechusar kippurim), which corresponds directly to the 'Complete Order' section's prose discussing exactly this baraisa and its list of exceptions.",
+      "chosen_heading": "Complete Order",
+      "current_heading": "Tahara Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rabbi Yishmael Expand",
+    "candidates": [
+      "Tanna Kamma Allow",
+      "Rabbi Yishmael Expand",
+      "Hashlama Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yishmael beno shel Rabbi Yochanan ben Beroka's ruling about mechusar kippurim on ordinary days, which is precisely what the 'Rabbi Yishmael Expand' section's prose discusses.",
+      "chosen_heading": "Rabbi Yishmael Expand",
+      "current_heading": "Rabbi Yishmael Expand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Hashlama Question",
+    "candidates": [
+      "Hashlama Question",
+      "Bird Chatas Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why the tanna kamma's position is understandable (karet overrides hashlama) while Rabbi Yishmael's position is problematic (no such hierarchy exists), which is precisely what the 'Hashlama Question' prose discusses.",
+      "chosen_heading": "Hashlama Question",
+      "current_heading": "Hashlama Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Bird Chatas Only",
+    "candidates": [
+      "Bird Chatas Only",
+      "Tomorrow Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's answer in the name of Rav Chisda about the bird sin-offering case, which is precisely what candidate 0 'Bird Chatas Only' discusses in its prose.",
+      "chosen_heading": "Bird Chatas Only",
+      "current_heading": "Bird Chatas Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Tomorrow Burning",
+    "candidates": [
+      "Tomorrow Burning",
+      "Other Korbanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's solution of leaving the emurim overnight on top of the mizbe'ach, which is precisely what the 'Tomorrow Burning' section's prose discusses.",
+      "chosen_heading": "Tomorrow Burning",
+      "current_heading": "Tomorrow Burning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Other Korbanos",
+    "candidates": [
+      "Other Korbanos",
+      "Chatas Before Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of objections and responses about the asham and olah in the context of 'other korbanos,' which is exactly what the prose under heading 0 describes \u2014 the challenge of the asham and olah for Ravina's view and the baraita about chatat preceding olah.",
+      "chosen_heading": "Other Korbanos",
+      "current_heading": "Other Korbanos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Chatas Before Olah",
+    "candidates": [
+      "Chatas Before Olah",
+      "Olat Metzora"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the universal principle that all sin-offerings precede burnt-offerings and that even a bird chatat precedes an animal olah, which is precisely what the 'Chatas Before Olah' section's prose discusses.",
+      "chosen_heading": "Chatas Before Olah",
+      "current_heading": "Chatas Before Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Olat Metzora",
+    "candidates": [
+      "Olat Metzora",
+      "Kohanim Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's teaching about the special leniency for the olat metzora \u2014 that the verse's formulation permits the olah to precede the chatat \u2014 which is exactly what the prose under heading 0 ('Olat Metzora') describes.",
+      "chosen_heading": "Olat Metzora",
+      "current_heading": "Olat Metzora",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Kohanim Risk",
+    "candidates": [
+      "Kohanim Risk",
+      "Kohanim Careful",
+      "Meat Eating Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Shemen bar Abba's challenge about priests potentially stumbling (the takalah concern) AND Rav Pappa's response that kohanim are vigilant, but the current heading 'Kohanim Risk' prose explicitly covers both the challenge and the response ('kohanim zerizin hein'), making it the best single home \u2014 however, since the prose of heading 0 already discusses the full exchange including the response, and heading 1 separately covers only the response, the passage as a whole fits best under heading 0 which frames the entire exchange.",
+      "chosen_heading": "Kohanim Risk",
+      "current_heading": "Kohanim Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Meat Eating Rule",
+    "candidates": [
+      "Kohanim Careful",
+      "Meat Eating Rule",
+      "Lost Meat Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the challenge raised by Rav Ashi/Rav Huna bar Rav Natan \u2014 that emurim must be burned before kohanim eat, and kohanim must eat before owners are atoned \u2014 which is precisely what the 'Meat Eating Rule' prose describes in detail.",
+      "chosen_heading": "Meat Eating Rule",
+      "current_heading": "Meat Eating Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Lost Meat Rule",
+    "candidates": [
+      "Lost Meat Rule",
+      "Yolin Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'kivan d'lo efshar' principle and the baraita about lost/impure sacrificial parts, which is exactly what the 'Lost Meat Rule' section's prose discusses and analyzes.",
+      "chosen_heading": "Lost Meat Rule",
+      "current_heading": "Lost Meat Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Yolin Question",
+    "candidates": [
+      "Yolin Question",
+      "Pesach Yolin",
+      "Weekday on Yom Tov",
+      "Shabbat Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yolin Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rav Kahana's contradiction and its resolution, which exactly matches the 'Yolin Question' and 'Pesach Yolin' prose \u2014 but since both those headings together cover the question and answer, and item 1 is the question (heading 0) while item 2 is the answer (heading 1), the current placement puts both under heading 0; however items 1-2 form one continuous unit of question-and-answer best kept together, and heading 0's prose describes both the question and implicitly invites the answer, while heading 1's prose explicitly describes the resolution Rav Kahana gives \u2014 placing items 1-2 under heading 0 (current) is acceptable but heading 1 is the better match for item 2 alone.",
+      "second_heading": "Weekday on Yom Tov",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Safra's contradiction about the Paschal lamb fat being burned on Yom Tov, which precisely matches the 'Weekday on Yom Tov' heading prose describing Rav Safra's challenge to Rav about lo yalin laboker and olat Shabbat b'Shabbato.",
+      "current_heading": "Yolin Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Shabbat Solution",
+    "candidates": [
+      "Pesach Yolin",
+      "Weekday on Yom Tov",
+      "Shabbat Solution",
+      "Pasuk Self-Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Abba bar \u1e24iyya raising the contradiction before Rabbi Abbahu and the answer that the verse deals with the fourteenth falling on Shabbat \u2014 precisely the content described in the 'Shabbat Solution' prose, which is also its current placement.",
+      "chosen_heading": "Shabbat Solution",
+      "current_heading": "Shabbat Solution",
+      "moved": false
+    }
+  }
+]

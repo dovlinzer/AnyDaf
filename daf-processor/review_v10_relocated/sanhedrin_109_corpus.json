@@ -1,0 +1,764 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Husband & Wife",
+    "candidates": [
+      "Husband & Wife",
+      "Gate Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'husband and wife' question for animals and Rabbi Yonatan's answer about animals with whom no transgression was performed, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Husband & Wife",
+      "current_heading": "Husband & Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Gate Test",
+    "candidates": [
+      "Gate Test",
+      "Animals Volition",
+      "Ark Wood Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's ark-acceptance test AND Rabbi Abbahu's alternative explanation, and the current 'Gate Test' section's prose explicitly covers both answers to the 'mi-na yada' question, making it the correct placement for the entire passage.",
+      "chosen_heading": "Gate Test",
+      "current_heading": "Gate Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Ark Wood Type",
+    "candidates": [
+      "Animals Volition",
+      "Ark Wood Type",
+      "Tzohar Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the identification of 'gofer wood' (mavliga/gulmish), which is precisely what the 'Ark Wood Type' section's prose describes.",
+      "chosen_heading": "Ark Wood Type",
+      "current_heading": "Ark Wood Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Tzohar Light",
+    "candidates": [
+      "Tzohar Light",
+      "Ark Design"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yo\u1e25anan's interpretation of 'tzohar' as precious stones illuminating the ark, which directly matches the prose in candidate 0 about the jewel interpretation of tzohar.",
+      "chosen_heading": "Tzohar Light",
+      "current_heading": "Tzohar Light",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Ark Design",
+    "candidates": [
+      "Ark Design",
+      "Three Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the verse about finishing the ark to a cubit at the top and explains it as structural engineering, which matches exactly the Ark Design section's prose about the tapered roof and its structural logic.",
+      "chosen_heading": "Ark Design",
+      "current_heading": "Ark Design",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Three Levels",
+    "candidates": [
+      "Three Levels",
+      "Raven Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Three Levels' section prose, which explicitly discusses the same baraita about the three stories of the ark being designated for dung, animals, and people.",
+      "chosen_heading": "Three Levels",
+      "current_heading": "Three Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Raven Argument",
+    "candidates": [
+      "Raven Argument",
+      "No Intercourse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the raven's argument to Noah, which is exactly what the 'Raven Argument' section's prose discusses, including the teshuvah nitzachit, the complaint about being one of only two ravens, and the accusation about his wife.",
+      "chosen_heading": "Raven Argument",
+      "current_heading": "Raven Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "No Intercourse",
+    "candidates": [
+      "No Intercourse",
+      "Three Violators"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the prohibition of intercourse on the ark \u2014 Noah's rebuke of the raven for violating it and the Gemara's derivation of its source from the two verses \u2014 which is precisely what the 'No Intercourse' section's prose describes.",
+      "chosen_heading": "No Intercourse",
+      "current_heading": "No Intercourse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Three Violators",
+    "candidates": [
+      "Three Violators",
+      "Dove's Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the three violators on the ark (dog, raven, Ham) and their punishments, which is exactly what heading 0 'Three Violators' discusses in its prose.",
+      "chosen_heading": "Three Violators",
+      "current_heading": "Three Violators",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Dove's Preference",
+    "candidates": [
+      "Dove's Preference",
+      "Dove Metaphor",
+      "Animals' Families"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the dove episode from Genesis 8 and are explicitly discussed together in the 'Dove's Preference' prose, which covers Rabbi Yirmiyahu's teaching about kosher birds dwelling with the righteous and Rabbi Elazar's teaching about the olive leaf and the dove's preference for bitter sustenance from God over sweet sustenance from humans.",
+      "chosen_heading": "Dove's Preference",
+      "current_heading": "Dove's Preference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Animals' Families",
+    "candidates": [
+      "Dove Metaphor",
+      "Animals' Families",
+      "Eliezer Questions",
+      "Feeding Schedule",
+      "Chameleon Diet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's teaching about 'lemishpe\u1e25otam' (by their families/kinds) from Genesis 8:19, which is precisely what the 'Animals' Families' section prose describes and analyzes.",
+      "chosen_heading": "Animals' Families",
+      "current_heading": "Animals' Families",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Chameleon Diet",
+    "candidates": [
+      "Eliezer Questions",
+      "Feeding Schedule",
+      "Chameleon Diet",
+      "Lion's Fever",
+      "Phoenix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire exchange from Eliezer's question to Shem through the feeding schedule and chameleon story \u2014 all one continuous Talmudic unit \u2014 but it begins with Eliezer's question to Shem, which matches heading 0 ('Eliezer Questions') as the natural home for this whole passage; however, since the content spans headings 0\u20132, and the passage is currently under heading 2 ('Chameleon Diet') while heading 0's prose is the opening frame of this same Gemara unit, the best single heading is 0, as the passage starts there and the subsequent headings are sub-divisions of the same continuous text.",
+      "chosen_heading": "Eliezer Questions",
+      "current_heading": "Chameleon Diet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Phoenix",
+    "candidates": [
+      "Lion's Fever",
+      "Phoenix",
+      "Kings' Battle",
+      "Abraham Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the lion's fever (explicitly matching heading 0's prose about Rav's teaching on fever sustaining for 6-12 days) and the phoenix story, and heading 0's prose already anticipates both topics as part of the same Talmudic passage, while heading 1 ('Phoenix') covers only the second half \u2014 the full quoted text belongs under heading 0 which introduces the lion segment that begins this combined passage.",
+      "chosen_heading": "Lion's Fever",
+      "current_heading": "Phoenix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Abraham Miracle",
+    "candidates": [
+      "Kings' Battle",
+      "Abraham Miracle",
+      "Gam Zu Letovah",
+      "Crown Mission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Shem's question to Eliezer about the kings of the east and west AND Eliezer's answer about the miracle, and candidate 0's prose specifically frames the question that opens this passage ('when the kings of the east and west came against you, how did you manage?'), making it the better home \u2014 candidate 1 only covers Eliezer's answer, suggesting the passage was split incorrectly and the full unit belongs under heading 0 which introduces the entire exchange.",
+      "chosen_heading": "Kings' Battle",
+      "current_heading": "Abraham Miracle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Crown Mission",
+    "candidates": [
+      "Gam Zu Letovah",
+      "Crown Mission",
+      "Theft & Dirt",
+      "Caesar Suspects",
+      "Eliyahu Appears",
+      "Dirt Tests",
+      "Gold Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together tell the complete Nachum Ish Gamzu story from his introduction through the miracle, and candidate 0 ('Gam Zu Letovah') is the only heading whose prose explicitly introduces Nachum and frames the entire story as a unit, whereas the current placement (candidate 1, 'Crown Mission') only covers the beginning of the story.",
+      "chosen_heading": "Gam Zu Letovah",
+      "current_heading": "Crown Mission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Gold Reward",
+    "candidates": [
+      "Theft & Dirt",
+      "Caesar Suspects",
+      "Eliyahu Appears",
+      "Dirt Tests",
+      "Gold Reward",
+      "No Share",
+      "Tower Motive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Nachum being brought into the treasury, filling his chest with gold, and the innkeepers being executed after trying to replicate his success \u2014 exactly what the 'Gold Reward' prose section describes.",
+      "chosen_heading": "Gold Reward",
+      "current_heading": "Gold Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Tower Motive",
+    "candidates": [
+      "No Share",
+      "Tower Motive",
+      "Valley Problem",
+      "Three Groups",
+      "Dwelling Group",
+      "War Group",
+      "Idolatry Group"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the mishna's establishment that the generation of the dispersion has no share in the World-to-Come and then asks 'what did they do,' which matches heading 0's prose about moving to Dor HaPlaga, noting the Mishnah's ruling and the question of 'mai avdu'; the passage includes Rabbi Shila's answer and the Western objection, but its primary content \u2014 introducing the topic and the central question \u2014 aligns with heading 0, while headings 1 and 2 split out sub-elements that together constitute a single unified Talmudic exchange.",
+      "chosen_heading": "No Share",
+      "current_heading": "Tower Motive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Idolatry Group",
+    "candidates": [
+      "Valley Problem",
+      "Three Groups",
+      "Dwelling Group",
+      "War Group",
+      "Idolatry Group",
+      "Natan View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yirmiyah bar Elazar's statement about the three factions dividing, which is the foundational content described in the 'Three Groups' section prose, not just the idolatry group discussed in its current placement.",
+      "chosen_heading": "Three Groups",
+      "current_heading": "Idolatry Group",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Natan View",
+    "candidates": [
+      "Idolatry Group",
+      "Natan View",
+      "Tower Fate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Natan's baraita using gezerah shavah on 'shem' to derive that all groups intended idolatry, which exactly matches the 'Natan View' prose description.",
+      "chosen_heading": "Natan View",
+      "current_heading": "Natan View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tower Fate",
+    "candidates": [
+      "Tower Fate",
+      "Tower Hidden",
+      "Bad Omens",
+      "Sedom No Share",
+      "Wicked & Sinners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics sequentially \u2014 the tower's fate (heading 0), the forgetfulness air (heading 1), and Bavel/Borsif as bad omens (heading 2) \u2014 and since all items must go under one heading, the current placement at 'Tower Fate' (index 0) is the logical starting point of this unified Gemara passage, but actually the passage spans headings 0-2; however, since the entire quoted text is one continuous Gemara excerpt, it belongs under the heading where it currently sits (index 0) as the passage begins there and all three sub-statements are part of one continuous unit.",
+      "chosen_heading": "Tower Fate",
+      "current_heading": "Tower Fate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Wicked & Sinners",
+    "candidates": [
+      "Tower Hidden",
+      "Bad Omens",
+      "Sedom No Share",
+      "Wicked & Sinners",
+      "Two Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the Anshei Sedom section with the baraita establishing they have no share in the World-to-Come, which directly matches the 'Sedom No Share' prose that describes the Gemara turning to Anshei Sedom and presenting their fate \u2014 not the 'Wicked & Sinners' section which discusses the Gemara's exposition of the double language in the verse.",
+      "chosen_heading": "Sedom No Share",
+      "current_heading": "Wicked & Sinners",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Two Sins",
+    "candidates": [
+      "Wicked & Sinners",
+      "Two Sins",
+      "Sedom Abundance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly expound the terms 'wicked' and 'sinners' from the verse about Sodom, which is exactly what heading 0 ('Wicked & Sinners') describes \u2014 including the inversion of bodily/monetary categories in the baraita \u2014 whereas the current placement under 'Two Sins' is a prose section that summarizes these same interpretations rather than being the primary home for the Talmudic text itself.",
+      "chosen_heading": "Wicked & Sinners",
+      "current_heading": "Two Sins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Sedom Abundance",
+    "candidates": [
+      "Sedom Abundance",
+      "Prevent Strangers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the abundance bestowed upon Sodom with verses from Job, which matches exactly the 'Sedom Abundance' prose discussing the same baraita and the same verses about bread, fire, sapphires, gold dust, and protection from enemies.",
+      "chosen_heading": "Sedom Abundance",
+      "current_heading": "Sedom Abundance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Prevent Strangers",
+    "candidates": [
+      "Prevent Strangers",
+      "Leaning Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Sodomites' decision to eliminate travelers' rights from their land, which is exactly what the 'Prevent Strangers' section's prose describes.",
+      "chosen_heading": "Prevent Strangers",
+      "current_heading": "Prevent Strangers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Leaning Wall",
+    "candidates": [
+      "Leaning Wall",
+      "Tunnels & Perfume"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the leaning wall murder method, which directly matches the 'Leaning Wall' section's prose about pushing walls onto wealthy victims.",
+      "chosen_heading": "Leaning Wall",
+      "current_heading": "Leaning Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Tunnels & Perfume",
+    "candidates": [
+      "Tunnels & Perfume",
+      "Tzipori 300",
+      "Yose's Death",
+      "Ox Tax",
+      "Orphan Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items belong under 'Tunnels & Perfume': item 1 is Rava's drasha on the perfume/tunnel method, item 2 is the follow-up verses cataloguing Sodom's crimes, and item 3 is Rabbi Yosei's public teaching of this same material plus his death \u2014 all of which the candidate 0 prose explicitly covers in its discussion, including the verses and the note that 'the next episode makes vivid in a different register' (pointing forward to Tzipori), while candidates 1 and 2 are meant to receive this content as a narrative continuation rather than host it.",
+      "chosen_heading": "Tunnels & Perfume",
+      "current_heading": "Tunnels & Perfume",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Orphan Logic",
+    "candidates": [
+      "Tzipori 300",
+      "Yose's Death",
+      "Ox Tax",
+      "Orphan Logic",
+      "Bridge Toll"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ox Tax",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the Sodomite ox-herding regulation (who has an ox herds one day, who has none herds two days) plus the orphan being given oxen and slaughtering them \u2014 the regulation itself is precisely what heading 'Ox Tax' describes as the inverted civic duty rule.",
+      "second_heading": "Orphan Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the orphan's counter-regulation and his 'sof dina ke-techilat dina' argument, which is exactly what the 'Orphan Logic' prose describes.",
+      "current_heading": "Orphan Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Bridge Toll",
+    "candidates": [
+      "Bridge Toll",
+      "Four Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the ferry/bridge toll system and the brick/garlic theft scheme, which directly matches the 'Bridge Toll' section's prose discussion of these exact scenarios.",
+      "chosen_heading": "Bridge Toll",
+      "current_heading": "Bridge Toll",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Four Judges",
+    "candidates": [
+      "Four Judges",
+      "Wife & Donkey",
+      "Launderer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four judges' names and all three corrupt rulings (miscarriage, donkey ear, and bloodletting fee), which together match heading 0's prose about the four judges and their inverted justice, and the current placement already captures this complete unit.",
+      "chosen_heading": "Four Judges",
+      "current_heading": "Four Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157
+    ],
+    "current_heading": "Launderer",
+    "candidates": [
+      "Wife & Donkey",
+      "Launderer",
+      "Procrustes Bed",
+      "Bed Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the launderer's story and Eliezer's counter-maneuver with the judge \u2014 are explicitly described in the 'Launderer' section's prose, making that the clear and correct home for this passage.",
+      "chosen_heading": "Launderer",
+      "current_heading": "Launderer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Bed Refusal",
+    "candidates": [
+      "Procrustes Bed",
+      "Bed Refusal",
+      "Starving Poor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the description of the Procrustean bed (cutting/stretching guests) AND Eliezer's refusal, but the prose under heading 0 ('Procrustes Bed') already discusses both the bed mechanism and implicitly sets up Eliezer's visit, while the passage as a whole is a single continuous Gemara excerpt that begins with the bed description \u2014 it belongs under the heading that introduces the bed concept, and the essay author's heading 1 prose separately narrates only Eliezer's response, suggesting the automated pipeline split what should be one unit, but since the passage includes both elements and heading 0's prose covers the bed mechanism that opens this text, heading 0 is the better match.",
+      "chosen_heading": "Procrustes Bed",
+      "current_heading": "Bed Refusal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Starving Poor",
+    "candidates": [
+      "Bed Refusal",
+      "Starving Poor",
+      "Coin Recovery",
+      "Wedding Law",
+      "Eliezer Crashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the entire scheme of giving dinars with names written on them and withholding bread, which is exactly what the 'Starving Poor' section's prose discusses, making the current placement correct.",
+      "chosen_heading": "Starving Poor",
+      "current_heading": "Starving Poor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Eliezer Crashes",
+    "candidates": [
+      "Coin Recovery",
+      "Wedding Law",
+      "Eliezer Crashes",
+      "Woman Righteous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Eliezer crashing the wedding feast and tricking guests into fleeing, which is exactly what the 'Eliezer Crashes' section prose describes.",
+      "chosen_heading": "Eliezer Crashes",
+      "current_heading": "Eliezer Crashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      176
+    ],
+    "current_heading": "Woman Righteous",
+    "candidates": [
+      "Woman Righteous",
+      "Outcry Sealing",
+      "Korach Fate",
+      "Tribes Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage describes both the story of the young woman (covered by heading 0) and the verse interpretation by Rav Yehuda/Rav (covered by heading 1), but since the Gemara text is a single continuous unit combining both elements, and heading 0's prose explicitly describes the honey/bees story while heading 1's prose discusses the verse interpretation separately, the current placement under heading 0 is acceptable though heading 1 also matches part of the content \u2014 however, since the passage must go under one heading and heading 0 begins the narrative that leads into the verse, keeping it at its current placement is reasonable.",
+      "chosen_heading": "Woman Righteous",
+      "current_heading": "Woman Righteous",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      184,
+      185
+    ],
+    "current_heading": "Tribes Exile",
+    "candidates": [
+      "Outcry Sealing",
+      "Korach Fate",
+      "Tribes Exile",
+      "Akiva Redemption",
+      "Eliezer View",
+      "Beteira Compassion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tribes Exile",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses the spies (meraglim) having no share in the World-to-Come, which fits best under 'Tribes Exile' as the nearest heading discussing similar exclusions from Olam HaBa before the Korach material begins.",
+      "second_heading": "Korach Fate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is explicitly about the assembly of Korah (adat Korach) having no share in the World-to-Come, with the dispute between Rabbi Akiva and Rabbi Eliezer, which matches exactly the 'Korach Fate' prose.",
+      "current_heading": "Tribes Exile",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      192
+    ],
+    "current_heading": "Beteira Compassion",
+    "candidates": [
+      "Akiva Redemption",
+      "Eliezer View",
+      "Beteira Compassion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Rabbi Akiva's strict view AND Rabbi Yehuda ben Beteira's compassionate view as a single baraita unit, and candidate 0 ('Akiva Redemption') is where Rabbi Akiva's position is discussed \u2014 the full baraita belongs there, with candidate 2's prose describing only ben Beteira's portion as if it were a separate passage, suggesting the automated pipeline split what should be one unified text.",
+      "chosen_heading": "Akiva Redemption",
+      "current_heading": "Beteira Compassion",
+      "moved": true
+    }
+  }
+]

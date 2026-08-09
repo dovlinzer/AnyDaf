@@ -1,0 +1,202 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Joshua's Condition",
+    "candidates": [
+      "Daf 34 Overview",
+      "Joshua's Condition",
+      "Twelve Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Joshua's address to the people while still in the Jordan, the condition of driving out the inhabitants, the warning about waters drowning 'otikhem,' and the Gemara's derivation that 'otikhem' means 'me and you' \u2014 all of which precisely matches the 'Joshua's Condition' section's prose.",
+      "chosen_heading": "Joshua's Condition",
+      "current_heading": "Joshua's Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Twelve Stones",
+    "candidates": [
+      "Twelve Stones",
+      "Grape Cluster"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the twelve stones taken from the Jordan \u2014 the sign for future generations and the instruction about where to place them \u2014 which is precisely what the 'Twelve Stones' prose section describes in detail.",
+      "chosen_heading": "Twelve Stones",
+      "current_heading": "Twelve Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Grape Cluster",
+    "candidates": [
+      "Grape Cluster",
+      "Formation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the measurement of the stones at forty se'ah, the calculation about the grape cluster's weight from the poles, and Rabbi Yitzchak's elaboration on the four-pole arrangement and who carried what \u2014 are explicitly discussed together in the 'Grape Cluster' prose section.",
+      "chosen_heading": "Grape Cluster",
+      "current_heading": "Grape Cluster",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Formation Debate",
+    "candidates": [
+      "Formation Debate",
+      "Shlach vs. Devarim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between Rabbi Ami and Rabbi Yitzchak Nappa\u1e25a about how the Israelites crossed the Jordan (in formation vs. one after another, and the speed of person vs. water), which is precisely what the 'Formation Debate' prose describes in detail.",
+      "chosen_heading": "Formation Debate",
+      "current_heading": "Formation Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Shlach vs. Devarim",
+    "candidates": [
+      "Shlach vs. Devarim",
+      "Spies' Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the spy mission narrative (Shlach vs. Devarim reconciliation and the shaming of Eretz Yisrael), and the prose under heading 0 explicitly discusses both Reish Lakish's interpretation of 'shlach lecha' and Rabbi Chiya bar Abba's comment on 'vayachperu,' matching the content of both items precisely.",
+      "chosen_heading": "Shlach vs. Devarim",
+      "current_heading": "Shlach vs. Devarim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Spies' Names",
+    "candidates": [
+      "Spies' Names",
+      "Caleb's Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the tradition that the spies' names encoded their actions, with Rabbi Yitzchak's example of Sethur ben Michael and Rabbi Yochanan's example of Nahbi ben Vophsi \u2014 exactly the content described in the 'Spies' Names' prose section.",
+      "chosen_heading": "Spies' Names",
+      "current_heading": "Spies' Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Caleb's Separation",
+    "candidates": [
+      "Caleb's Separation",
+      "Joshua Protected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Caleb separating from the spies and prostrating himself at the graves of the forefathers, which is precisely what Candidate 0's prose elaborates on in detail.",
+      "chosen_heading": "Caleb's Separation",
+      "current_heading": "Caleb's Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Joshua Protected",
+    "candidates": [
+      "Joshua Protected",
+      "Giants Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Moses praying for Joshua and the contrast with Caleb, which is precisely what the 'Joshua Protected' section's prose elaborates upon.",
+      "chosen_heading": "Joshua Protected",
+      "current_heading": "Joshua Protected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Giants Names",
+    "candidates": [
+      "Giants Names",
+      "Hebron vs. Zoan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items interpret the names Ahiman, Sheshai, and Talmai and the phrase 'children of Anak,' which is precisely what the 'Giants Names' prose discusses in detail.",
+      "chosen_heading": "Giants Names",
+      "current_heading": "Giants Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Hebron vs. Zoan",
+    "candidates": [
+      "Hebron vs. Zoan",
+      "Rocky Land Grazing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's question about the meaning of 'was built' regarding Hebron vs. Zoan and the resolution that Hebron was seven times more fruitful than Zoan, which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "Hebron vs. Zoan",
+      "current_heading": "Hebron vs. Zoan",
+      "moved": false
+    }
+  }
+]

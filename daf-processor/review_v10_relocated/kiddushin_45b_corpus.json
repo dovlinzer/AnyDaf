@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Asi's Position",
+    "candidates": [
+      "Setup",
+      "Nisuin & Da'at",
+      "Rav's Position",
+      "Rav Asi's Position",
+      "Rav's Stringency",
+      "Inheritance & Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Asi's position (eino ochelet, shema yavo aviv ve-yimcheh) and the incident where Rav deferred to Rav Asi in practice, which spans headings 3 and 4, but since the gemara text is a single continuous unit and heading 3 ('Rav Asi's Position') introduces Rav Asi's ruling while heading 4 ('Rav's Stringency') discusses only the practical deferral, the full quoted passage \u2014 which includes both Rav Asi's ruling and the incident \u2014 is best placed under its current heading 3, as it contains the core Rav Asi content that heading 3's prose is written to introduce.",
+      "chosen_heading": "Rav Asi's Position",
+      "current_heading": "Rav Asi's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Inheritance & Safek",
+    "candidates": [
+      "Rav's Stringency",
+      "Inheritance & Safek",
+      "Kidushin Good, Nisuin Not",
+      "Huna: Silence = No"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rav Shmuel bar Rav Yitzchak's statement that Rav concedes the husband does not inherit if she dies, with the principle of uki mamona be-chezkas marei \u2014 exactly what candidate 1's prose elaborates upon.",
+      "chosen_heading": "Inheritance & Safek",
+      "current_heading": "Inheritance & Safek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Huna: Silence = No",
+    "candidates": [
+      "Kidushin Good, Nisuin Not",
+      "Huna: Silence = No",
+      "Yirmiah: Silence = Yes",
+      "Ulla's Analysis",
+      "Ulla Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the case of 'betrothed with consent, married without consent, father present' and present the two opposing rulings of Rav Huna and Rav Yirmeya bar Abba with their reasoning \u2014 this is precisely what heading 0 ('Kidushin Good, Nisuin Not') describes as its topic, whereas headings 1 and 2 cover only one side of the dispute each.",
+      "chosen_heading": "Kidushin Good, Nisuin Not",
+      "current_heading": "Huna: Silence = No",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Ulla Rejects",
+    "candidates": [
+      "Yirmiah: Silence = Yes",
+      "Ulla's Analysis",
+      "Ulla Rejects",
+      "Logical Inference",
+      "Rava Reinterprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in candidate 2's prose: both kiddushin and nisuin performed without the father's knowledge with him present, Rav Huna saying she may eat, Rav Yirmiah bar Abba saying she may not, and Ulla characterizing Rav Huna's position as intolerable like vinegar to the teeth and smoke to the eyes.",
+      "chosen_heading": "Ulla Rejects",
+      "current_heading": "Ulla Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rava Reinterprets",
+    "candidates": [
+      "Logical Inference",
+      "Rava Reinterprets",
+      "Setup",
+      "Rava Defends Huna",
+      "Both Can Object",
+      "Huna: Yes",
+      "Yirmiah: No",
+      "Rashi's Limitation",
+      "Tosafot Clarification",
+      "Explicit Intent",
+      "Torah Source",
+      "Deriving Daughter's Right",
+      "Rav's Interpretation",
+      "No Kiddushin Here",
+      "Seduction L'Shem Ishus",
+      "Tosafot's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the conclusion 'nirin divrei talmid' (which belongs under 'Logical Inference' where the prose explicitly quotes this phrase) and Rava's defense of Rav Huna, but the passage opens with the student's statement being deemed correct \u2014 which is the climax of the 'Logical Inference' section's prose \u2014 and the Rava portion naturally follows as part of that same unit; however, since the current placement is index 1 ('Rava Reinterprets') and the passage's first line ('nirin divrei talmid') is explicitly discussed in index 0's prose, index 0 is the clearly better match for where this passage begins and the whole unit belongs.",
+      "chosen_heading": "Logical Inference",
+      "current_heading": "Rava Reinterprets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Tosafot's Question",
+    "candidates": [
+      "Setup",
+      "Rava Defends Huna",
+      "Both Can Object",
+      "Huna: Yes",
+      "Yirmiah: No",
+      "Rashi's Limitation",
+      "Tosafot Clarification",
+      "Explicit Intent",
+      "Torah Source",
+      "Deriving Daughter's Right",
+      "Rav's Interpretation",
+      "No Kiddushin Here",
+      "Seduction L'Shem Ishus",
+      "Tosafot's Question",
+      "Tosafot's Solutions",
+      "Separate Statements",
+      "Combined Statement",
+      "Eating While Given",
+      "Why Eating Matters",
+      "Textual Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items concern the dispute between Rav and Rav Asi about whether a minor betrothed without her father's consent can herself object, along with the baraita challenge and Rav Nachman bar Yitzchak's resolution \u2014 exactly the content described in candidate 2 ('Both Can Object') and its neighboring prose sections 8\u201311, but candidate 2 is where this dispute is introduced and is the best match for the opening of this passage.",
+      "chosen_heading": "Both Can Object",
+      "current_heading": "Tosafot's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Textual Ambiguity",
+    "candidates": [
+      "Tosafot's Solutions",
+      "Separate Statements",
+      "Combined Statement",
+      "Eating While Given",
+      "Why Eating Matters",
+      "Textual Ambiguity",
+      "Rabba & Shmuel",
+      "Objective Value",
+      "Rabbi Ami",
+      "Act Completion",
+      "Milveh Invalid",
+      "Milveh + Perutah",
+      "Milveh vs Matana"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Tosafot's Solutions",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses Rav Yosef and Abaye's exchange about whether betrothal requires the father's consent for a seduced minor, which matches the 'Tosafot's Solutions' heading that discusses the daughter's refusal, the father's authority, and conditions under which the daughter's voice is operative.",
+      "second_heading": "Separate Statements",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about saying 'hiskadshi' separately with each date, matching the 'Separate Statements' heading which describes exactly this mishna about separate declarations with individual dates.",
+      "third_heading": "Why Eating Matters",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara discussion asking which clause the eating condition applies to and why eating matters, matching the 'Why Eating Matters' heading, and then extends through the textual ambiguity, Rav/Shmuel's answer, and Rabbi Ami's answer \u2014 all of which correspond to subsequent headings (5, 6, 8) but since the segment as a whole begins with the 'Why Eating Matters' question that launches the entire discussion, index 4 is the correct starting point.",
+      "current_heading": "Textual Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Milveh vs Matana",
+    "candidates": [
+      "Rabba & Shmuel",
+      "Objective Value",
+      "Rabbi Ami",
+      "Act Completion",
+      "Milveh Invalid",
+      "Milveh + Perutah",
+      "Milveh vs Matana",
+      "Setup",
+      "Rava: Return It",
+      "Why Pikadon",
+      "Shmuel: Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's three inferences from Rabbi Ami, and candidate 4 ('Milveh Invalid') is explicitly labeled as introducing all three of Rava's *shema mina* conclusions with its prose beginning '*Amar Rava: shema mina mi-de-Rabbi Ami tlat*', making it the correct home for this passage rather than the current placement under 'Milveh vs Matana' which covers only the third inference.",
+      "chosen_heading": "Milveh Invalid",
+      "current_heading": "Milveh vs Matana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Shmuel: Gift",
+    "candidates": [
+      "Setup",
+      "Rava: Return It",
+      "Why Pikadon",
+      "Shmuel: Gift",
+      "Ravina's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full dispute between Rav and Shmuel about betrothing one's sister, which is the 'vivid illustration' introduced in the Setup prose \u2014 the Setup heading is where the entire case (ring/money, void kiddushin, the two opinions) is introduced, and the subsequent headings (Rava: Return It, Why Pikadon, Shmuel: Gift) already contain the essay author's own prose explaining each position, meaning the Talmudic source text for the whole dispute belongs under the Setup heading that introduces it.",
+      "chosen_heading": "Setup",
+      "current_heading": "Shmuel: Gift",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Ravina's Question",
+    "candidates": [
+      "Shmuel: Gift",
+      "Ravina's Question",
+      "Flour Not Hallah",
+      "Kohen Keeping",
+      "Confusion Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's objection quoting the mishna about separating \u1e25alla from flour and asking why it is stolen property, which corresponds exactly to the 'Flour Not Hallah' section's prose about the parallel case of ha-mafrish chalato kemach and the legal ineffectiveness of the separation.",
+      "chosen_heading": "Flour Not Hallah",
+      "current_heading": "Ravina's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Confusion Risk",
+    "candidates": [
+      "Flour Not Hallah",
+      "Kohen Keeping",
+      "Confusion Risk",
+      "Partial Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains exactly why the case is different \u2014 the ruinous situation that emerges \u2014 which matches the 'Confusion Risk' prose describing *shani hasam de-nafik churba mineih* and the concern about the kohen drawing a false conclusion.",
+      "chosen_heading": "Confusion Risk",
+      "current_heading": "Confusion Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Partial Knowledge",
+    "candidates": [
+      "Partial Knowledge",
+      "Force Return",
+      "Hydroponics Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between knowing the rule and not knowing the reason (tircha de-kohen), which is precisely what the 'Partial Knowledge' section's prose discusses.",
+      "chosen_heading": "Partial Knowledge",
+      "current_heading": "Partial Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Hydroponics Parallel",
+    "candidates": [
+      "Force Return",
+      "Hydroponics Parallel",
+      "One vs Two Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's question comparing the \u1e25alla case to the teruma min ha-nakuv case, which is precisely what the 'Hydroponics Parallel' prose describes \u2014 the question of why the kohen can keep the produce in the terumah case but not in the \u1e25alla case.",
+      "chosen_heading": "Hydroponics Parallel",
+      "current_heading": "Hydroponics Parallel",
+      "moved": false
+    }
+  }
+]

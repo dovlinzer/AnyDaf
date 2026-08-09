@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Want/Assumption Question",
+    "candidates": [
+      "Intro: Benefit/No Loss",
+      "Mishna: Three Walls",
+      "Fourth Wall Debate",
+      "Perimeter/Extra Cost",
+      "Want/Assumption Question",
+      "Rabbi Yosi Position",
+      "Initial Inference",
+      "Loss Rebuttal",
+      "Watchman/Value",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Fourth Wall Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the mishna's three/four walls case and the initial inference/rejection about ze neheneh ve-ze lo chaser chayav, matching 'Fourth Wall Debate' and 'Perimeter/Extra Cost' \u2014 but most precisely landing under candidate 2 ('Fourth Wall Debate') which introduces exactly this mishna citation and the initial inference.",
+      "second_heading": "Rabbi Yosi Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rabbi Yosi's ruling and the inference/rejection about ze neheneh ve-ze lo chaser patur (with the 'netira bar zuza' rebuttal), matching candidates 5 ('Rabbi Yosi Position') and 6/8, but the prose of candidate 5 explicitly describes Rabbi Yosi's statement and its implication, making it the best home for items 3-4.",
+      "current_heading": "Want/Assumption Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Rabbi Yosi Position",
+      "Initial Inference",
+      "Loss Rebuttal",
+      "Watchman/Value",
+      "Scenario Setup",
+      "Payment Question",
+      "First Inference",
+      "Blackening Walls",
+      "Rashi: New House",
+      "Trivial Loss/Full Pay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present the bayis ve-aliyah mishna and its immediate inference, which is exactly what candidate 4 ('Scenario Setup') describes \u2014 the collapse scenario, the upper story owner building the ground floor and living there until reimbursed.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Trivial Loss/Full Pay",
+    "candidates": [
+      "Payment Question",
+      "First Inference",
+      "Blackening Walls",
+      "Rashi: New House",
+      "Trivial Loss/Full Pay",
+      "Rav Ami: No Obligation",
+      "Rabbi Yochanan Conflict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'First Inference' prose: Rabbi Yehuda's ruling that one who lives in another's courtyard without knowledge must pay rent, the attempted inference that ze neheneh ve-ze lo chaser is obligated, and the Gemara's rejection due to shachrurisa de-ashyasa (blackening of walls).",
+      "chosen_heading": "First Inference",
+      "current_heading": "Trivial Loss/Full Pay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rabbi Yochanan Conflict",
+    "candidates": [
+      "Rav Ami: No Obligation",
+      "Rabbi Yochanan Conflict",
+      "Rav Pappa: Inference",
+      "Me'ilah Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ami's response ('what did he do to him, what loss, what damage') and Rabbi \u1e24iyya bar Abba's inability to resolve the question, which matches exactly the prose under 'Rav Ami: No Obligation' \u2014 not the 'Rabbi Yochanan Conflict' section where it currently sits.",
+      "chosen_heading": "Rav Ami: No Obligation",
+      "current_heading": "Rabbi Yochanan Conflict",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Me'ilah Analogy",
+    "candidates": [
+      "Rav Pappa: Inference",
+      "Me'ilah Analogy",
+      "Me'ilah Objection",
+      "Raba: Hekdesh Known",
+      "Tosafot: Me'ilah & Law",
+      "Rabbi Abba's Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a single continuous discussion: the amoraic dispute (items 1-2), the Me'ilah mishna and its details (items 3-4), Rabbi Abbahu's inference before Rabbi Yochanan (items 5-6), and Rabba's explanation of why the inference fails (items 7-8) \u2014 all of which the 'Me'ilah Analogy' prose explicitly describes in full detail, making it the clear and correct home for this entire passage.",
+      "chosen_heading": "Me'ilah Analogy",
+      "current_heading": "Me'ilah Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rabbi Abba's Query",
+    "candidates": [
+      "Me'ilah Objection",
+      "Raba: Hekdesh Known",
+      "Tosafot: Me'ilah & Law",
+      "Rabbi Abba's Query",
+      "Raba's Answer",
+      "Rental Fraud Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage records exactly what the prose of heading 3 describes \u2014 Rabbi Abba bar Zavda's query to Mari bar Mar asking Rav Huna about paying rent for residing in another's courtyard without knowledge, and Rav Huna's death before he could respond.",
+      "chosen_heading": "Rabbi Abba's Query",
+      "current_heading": "Rabbi Abba's Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rental Fraud Case",
+    "candidates": [
+      "Raba's Answer",
+      "Rental Fraud Case",
+      "Rental Status Distinction",
+      "Agreement Theory",
+      "Rav Sechora Position",
+      "Deterioration Prevention",
+      "Sheidim Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous unit covering the rental fraud case (items 1-2) and its parallel (items 3-4), both resolved by the same kaima/lo kaima le-agra distinction, which is precisely what the 'Rental Fraud Case' section's prose introduces and discusses.",
+      "chosen_heading": "Rental Fraud Case",
+      "current_heading": "Rental Fraud Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Sheidim Evidence",
+    "candidates": [
+      "Rental Status Distinction",
+      "Agreement Theory",
+      "Rav Sechora Position",
+      "Deterioration Prevention",
+      "Sheidim Evidence",
+      "Rav Yosef: Settlement",
+      "Storage vs. Habitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Sechora/Rav Huna/Rav's ruling that no rent is owed (heading 2), the verse about desolation (heading 3), Mar bar Rav Ashi's testimony about shedim (heading 4), and Rav Yosef's settlement principle (heading 5) \u2014 and since it must go under one heading, heading 2 ('Rav Sechora Position') is the natural home as it introduces the entire unit starting with Rav Sechora's transmission, with headings 3-5 being the essay author's breakdown of sub-elements within this same Talmudic passage.",
+      "chosen_heading": "Rav Sechora Position",
+      "current_heading": "Sheidim Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Storage vs. Habitation",
+    "candidates": [
+      "Rav Yosef: Settlement",
+      "Storage vs. Habitation",
+      "Castle Construction",
+      "Rav Nachman Seizure",
+      "Prior Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the practical distinction between Rav and Rav Yosef's positions regarding a house used for storing wood and straw, which is precisely what the 'Storage vs. Habitation' section's prose discusses.",
+      "chosen_heading": "Storage vs. Habitation",
+      "current_heading": "Storage vs. Habitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Prior Payment",
+    "candidates": [
+      "Castle Construction",
+      "Rav Nachman Seizure",
+      "Prior Payment",
+      "Huna Demand",
+      "Penalty Seizure",
+      "Payment Calculation",
+      "Mishna: Location",
+      "Rav: Head Turn",
+      "Shmuel: Accessible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode from beginning to end \u2014 the mansion built on orphans' land, the seizure, the Carmanian prior tenants, the demand to pay, the refusal, and the re-seizure \u2014 and heading 0 ('Castle Construction') is where this full narrative begins, with the subsequent headings (1\u20134) being the essay author's own analytical breakdown of sub-parts of the same single Talmudic passage.",
+      "chosen_heading": "Castle Construction",
+      "current_heading": "Prior Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Shmuel: Accessible",
+    "candidates": [
+      "Huna Demand",
+      "Penalty Seizure",
+      "Payment Calculation",
+      "Mishna: Location",
+      "Rav: Head Turn",
+      "Shmuel: Accessible",
+      "Functional Definition",
+      "Rav Nachman Clarify",
+      "Store Front Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Mishna's rule about location-based liability (keitzad meshalemet) and then immediately introduces the Rav/Shmuel dispute, which is precisely what the 'Mishna: Location' section's prose describes as the topic being introduced.",
+      "chosen_heading": "Mishna: Location",
+      "current_heading": "Shmuel: Accessible",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Store Front Example",
+    "candidates": [
+      "Functional Definition",
+      "Rav Nachman Clarify",
+      "Store Front Example",
+      "Corner Location",
+      "Head Turn Agreement",
+      "Allocation Dispute",
+      "Rav: Exemption",
+      "Shmuel: Title Retained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-4 form one continuous discussion: items 1-2 address how Shmuel's position applies to the Mishna (the animal leaving the square and standing at the side), item 2 explicitly introduces the 'ika de-amri' alternative tradition teaching the dispute independently, and items 3-4 present Rav Nachman bar Yitzchak's objection and self-resolution \u2014 all of which match heading 1 ('Rav Nachman Clarify') whose prose describes exactly this: the alternative independent tradition and the repeated question of when Shmuel's position yields liability, answered by the animal leaving the road entirely.",
+      "chosen_heading": "Rav Nachman Clarify",
+      "current_heading": "Store Front Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Shmuel: Title Retained",
+    "candidates": [
+      "Corner Location",
+      "Head Turn Agreement",
+      "Allocation Dispute",
+      "Rav: Exemption",
+      "Shmuel: Title Retained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the 'ika de-amri' version of the dispute \u2014 item 1 states that on the head-turning case everyone agrees liability applies, and item 2 gives the actual formulation of Rav and Shmuel's disagreement \u2014 which corresponds exactly to the 'Head Turn Agreement' section's prose about the ika de-amri version where kulei alma agrees on the head-turn case.",
+      "chosen_heading": "Head Turn Agreement",
+      "current_heading": "Shmuel: Title Retained",
+      "moved": true
+    }
+  }
+]

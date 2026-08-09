@@ -1,0 +1,377 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Rabbi Shimon Position",
+    "candidates": [
+      "Intro: Blood Inside",
+      "L'Chapper: Intent vs. Use",
+      "Rabbi Eliezer Position",
+      "Rabbi Shimon Position",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraita recording the debate between Rabbi Eliezer and Rabbi Shimon on how to interpret 'l'chapper bakodesh', which is precisely what candidate 1 ('L'Chapper: Intent vs. Use') describes as its content \u2014 the full baraita debate \u2014 rather than being split across candidates 2 and 3 which describe only one side each.",
+      "chosen_heading": "L'Chapper: Intent vs. Use",
+      "current_heading": "Rabbi Shimon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Gemara Resolution",
+      "Rabbi Yehudah: Intent",
+      "Rabbi Yehudah Analysis",
+      "Tumat Begadim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items explain the underlying principle behind the Rabbi Eliezer/Rabbi Shimon dispute (danim chutz michutz vs. danim behemah mibehemah), which is precisely what the 'Gemara Resolution' prose describes as the bemai kamiflagi question and its answer.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Tumat Begadim",
+    "candidates": [
+      "Rabbi Yehudah: Intent",
+      "Rabbi Yehudah Analysis",
+      "Tumat Begadim",
+      "Rabbi Yehudah Analysis 2",
+      "Intro: Altar Sanctifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a single continuous analysis of Rabbi Yehuda's position, beginning with the Gemara's question about his view (item 1) and proceeding through Rabbi Yirmiyah's baraita proof (items 2-6) \u2014 exactly what candidate 1 ('Rabbi Yehudah Analysis') describes as its content, while the current placement under 'Tumat Begadim' (index 2) describes the baraita's content rather than being the heading under which the Gemara's initial question and Rabbi Yirmiyah's introduction belong.",
+      "chosen_heading": "Rabbi Yehudah Analysis",
+      "current_heading": "Tumat Begadim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Intro: Altar Sanctifies",
+    "candidates": [
+      "Rabbi Yehudah Analysis 2",
+      "Intro: Altar Sanctifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'Hadr\u00e1n al\u00e1ch kol hazevachim shenit'arvu' is the closing Hadr\u00e1n formula marking the end of the chapter on mixtures (ta'arovot), which matches exactly the prose under 'Intro: Altar Sanctifies' that explicitly references the close of the previous perek on mixtures and the transition to a new chapter.",
+      "chosen_heading": "Intro: Altar Sanctifies",
+      "current_heading": "Intro: Altar Sanctifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Intro: Altar Sanctifies",
+    "candidates": [
+      "Intro: Altar Sanctifies",
+      "Rabbi Yehoshua: Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introducing the principle 'the altar sanctifies what is suited to it' belongs under the introductory heading that directly addresses this principle and its crux debate, not under the heading discussing Rabbi Yehoshua's specific derivation about fire.",
+      "chosen_heading": "Intro: Altar Sanctifies",
+      "current_heading": "Intro: Altar Sanctifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Rabbi Yehoshua: Fire",
+    "candidates": [
+      "Rabbi Yehoshua: Fire",
+      "Rabban Gamliel: Altar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehoshua: Fire",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yehoshua's opinion about items fit for the fire (rauy l'ishim), which matches heading 0's prose exactly.",
+      "second_heading": "Rabban Gamliel: Altar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabban Gamliel's opinion about items fit for the altar (rauy lamizbeach), which matches heading 1's prose exactly.",
+      "current_heading": "Rabbi Yehoshua: Fire",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rabban Gamliel: Altar",
+    "candidates": [
+      "Rabban Gamliel: Altar",
+      "Debate: Blood & Wine",
+      "Textual Analysis",
+      "Rabbi Shimon: Shikhlul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the practical difference between Rabban Gamliel and Rabbi Yehoshua regarding blood and libations, which is exactly what the 'Rabban Gamliel: Altar' section's prose discusses and quotes.",
+      "chosen_heading": "Rabban Gamliel: Altar",
+      "current_heading": "Rabban Gamliel: Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabbi Shimon: Shikhlul",
+    "candidates": [
+      "Debate: Blood & Wine",
+      "Textual Analysis",
+      "Rabbi Shimon: Shikhlul",
+      "Komatim Pasul",
+      "Rav Pappa: Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's ruling about the zevach and nesachim, which directly corresponds to the prose in section 2 ('Rabbi Shimon: Shikhlul') that explains his criterion of dependency (shikhlul) and specifically mentions his ruling that if the zevach is pasul the nesachim come down, and if both are pasul the zevach stays and the nesachim descend.",
+      "chosen_heading": "Rabbi Shimon: Shikhlul",
+      "current_heading": "Rabbi Shimon: Shikhlul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Rav Pappa: Kometz",
+    "candidates": [
+      "Komatim Pasul",
+      "Rav Pappa: Kometz",
+      "Ravina Challenge",
+      "Emurim Kodshim Kalim",
+      "Missing Act vs Desig",
+      "Rabbi Yehoshua Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Rav Pappa/Ravina exchange about the unsanctified kometz \u2014 Rav Pappa's ruling, Ravina's objection via Ulla's emurim case, and the gemara's resolution \u2014 which is precisely what candidate 1 ('Rav Pappa: Kometz') discusses in its prose.",
+      "chosen_heading": "Rav Pappa: Kometz",
+      "current_heading": "Rav Pappa: Kometz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rabbi Yehoshua Fire",
+    "candidates": [
+      "Ravina Challenge",
+      "Emurim Kodshim Kalim",
+      "Missing Act vs Desig",
+      "Rabbi Yehoshua Fire",
+      "Two Mizbeach",
+      "Mizbeach Sanctifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items directly discuss the derivations underlying Rabbi Yehoshua's and Rabban Gamliel's positions \u2014 specifically how each uses 'al mokdah' and 'asher tachal ha-esh' for the obligation to return dislodged items (adurei pekiyim) and the exclusion of ketoret \u2014 which is precisely what the 'Rabbi Yehoshua Fire' section's prose describes.",
+      "chosen_heading": "Rabbi Yehoshua Fire",
+      "current_heading": "Rabbi Yehoshua Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Mizbeach Sanctifies",
+    "candidates": [
+      "Two Mizbeach",
+      "Mizbeach Sanctifies",
+      "Two Pasul Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Mizbeach",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address exactly what candidate 0 describes: how each tanna uses the words 'mokdah' and 'mizbeach', including the mechanism of altar sanctification derived from a second 'mizbeach' verse \u2014 the precise questions the candidate 0 prose says the gemara works through.",
+      "second_heading": "Two Pasul Types",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses the distinction between psul with and without a shas hachosher and why Rabban Gamliel needs no extra verse for that case, which is precisely what candidate 2's prose describes as 'lo shana dehava lei shas hachosher lo shana dela hava lei shas hachosher'.",
+      "current_heading": "Mizbeach Sanctifies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Two Pasul Types",
+    "candidates": [
+      "Mizbeach Sanctifies",
+      "Two Pasul Types",
+      "Rabbi Yosi Kevasim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita derives from 'olah' that items coming for their own sake stay on the altar while libations (which come for the sake of the offering) descend \u2014 this is a derivation about what is fit/eligible for the altar in its own right, matching Rabbi Yosi HaGlili's section about kevasim and the criterion of re'uyim (fitness/eligibility), not the 'Two Pasul Types' section which is about shas hachosher distinctions.",
+      "chosen_heading": "Rabbi Yosi Kevasim",
+      "current_heading": "Two Pasul Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rabbi Yosi Kevasim",
+    "candidates": [
+      "Rabbi Yosi Kevasim",
+      "Rabbi Akiva Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei HaGelili's derivation from 'kevasim' and Rabbi Akiva's derivation from 'olah' as a single baraita unit, and the current heading 'Rabbi Yosi Kevasim' (index 0) is where it sits, with its prose directly describing Rabbi Yosei HaGelili's kevasim argument \u2014 the passage belongs here as it introduces both opinions together, before the gemara's analysis of each is discussed under subsequent headings.",
+      "chosen_heading": "Rabbi Yosi Kevasim",
+      "current_heading": "Rabbi Yosi Kevasim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Rabbi Akiva Olah",
+    "candidates": [
+      "Rabbi Akiva Olah",
+      "Four Criteria",
+      "Kometz in Vessel",
+      "Independent Mincha",
+      "Mincha with Zevach",
+      "Nesachim Alone",
+      "Nesachim w/ Zevach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbi Akiva Olah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the practical difference between Rabbi Akiva and Rabbi Yosi HaGelili (bird burnt offering) and the role of each word ('olah' vs 'kevasim'), which is exactly what the 'Rabbi Akiva Olah' prose describes.",
+      "second_heading": "Kometz in Vessel",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rav Pappa's identification of the difference between the mishnah's tanna'im and the baraita's tanna'im regarding a kometz sanctified in a vessel, which is precisely what the 'Kometz in Vessel' prose discusses.",
+      "current_heading": "Rabbi Akiva Olah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Nesachim w/ Zevach",
+    "candidates": [
+      "Four Criteria",
+      "Kometz in Vessel",
+      "Independent Mincha",
+      "Mincha with Zevach",
+      "Nesachim Alone",
+      "Nesachim w/ Zevach",
+      "Positions Chart",
+      "New Halacha",
+      "Rava Minchas"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Independent Mincha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Reish Lakish's analysis of mincha bifnei atzmah and mincha im hazevach, which matches the 'Independent Mincha' and 'Mincha with Zevach' sections, but since items 1-2 span both those headings, the cleaner split places them under 'Mincha with Zevach' (index 3) as it covers both cases together.",
+      "second_heading": "Nesachim Alone",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers nesachim haba'im bifnei atzman and nesachim haba'im im hazevach, which matches the 'Nesachim Alone' prose at index 4.",
+      "current_heading": "Nesachim w/ Zevach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Rava Minchas",
+    "candidates": [
+      "Positions Chart",
+      "New Halacha",
+      "Rava Minchas",
+      "Accompanying Nesachim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'isn't it obvious?' (pshita) and answers that the chiddush is the halacha itself \u2014 that one may bring a minchas nesachim independently \u2014 which matches heading 1 'New Halacha' whose prose explicitly describes this pshita question and the answer that the chiddush is the halacha itself.",
+      "chosen_heading": "New Halacha",
+      "current_heading": "Rava Minchas",
+      "moved": true
+    }
+  }
+]

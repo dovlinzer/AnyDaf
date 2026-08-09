@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Tinok Test",
+    "candidates": [
+      "Mukaf Gvil Intro",
+      "Hole in Hei",
+      "Broken Letters",
+      "Kotzo Shel Yud",
+      "Mishnah Berurah Letters",
+      "Tinok Test",
+      "Formal vs. Appearance",
+      "Shulchan Aruch Rules",
+      "Defect After Writing",
+      "God Tying Tagin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of Rami bar Tamrei bringing his damaged vav in vayaharog to Rabbi Zeira, who instructs him to use the tinok test \u2014 precisely the content described in the 'Tinok Test' section's prose.",
+      "chosen_heading": "Tinok Test",
+      "current_heading": "Tinok Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "God Tying Tagin",
+    "candidates": [
+      "Formal vs. Appearance",
+      "Shulchan Aruch Rules",
+      "Defect After Writing",
+      "God Tying Tagin",
+      "Shatnez Getz Letters",
+      "Moshe's Question",
+      "Classroom & Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Moses finding God tying crowns on letters and God explaining it is for Rabbi Akiva's future derivations, which is precisely what the 'God Tying Tagin' section's prose discusses.",
+      "chosen_heading": "God Tying Tagin",
+      "current_heading": "God Tying Tagin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Classroom & Halacha",
+    "candidates": [
+      "Shatnez Getz Letters",
+      "Moshe's Question",
+      "Classroom & Halacha",
+      "Torah She'be'al Peh",
+      "Akiva Martyrdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Moshe sitting at the back of Rabbi Akiva's classroom, failing to understand the discussion, and then being reassured when Rabbi Akiva attributes a teaching to 'Halacha L'Moshe miSinai' \u2014 exactly the content described in the 'Classroom & Halacha' prose.",
+      "chosen_heading": "Classroom & Halacha",
+      "current_heading": "Classroom & Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Akiva Martyrdom",
+    "candidates": [
+      "Torah She'be'al Peh",
+      "Akiva Martyrdom",
+      "Theodicy & Justice",
+      "Rava on Tagin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scene the 'Akiva Martyrdom' prose narrates \u2014 Moses seeing Rabbi Akiva's flesh weighed in the marketplace and crying out 'zu Torah v'zu sechara,' which the candidate 1 prose explicitly summarizes word for word.",
+      "chosen_heading": "Akiva Martyrdom",
+      "current_heading": "Akiva Martyrdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rava on Tagin",
+    "candidates": [
+      "Theodicy & Justice",
+      "Rava on Tagin",
+      "Hump in Het",
+      "Rashi vs Tosafot",
+      "Suspended Hei Leg",
+      "Open Door Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what Candidate 1's prose describes: Rava's teaching that seven letters (shatnez getz) require three ziyyunin, plus Rav Ashi's observations about the het and hei \u2014 all of which are introduced together in this single Gemara unit under 'Rava on Tagin,' which is indeed its current placement.",
+      "chosen_heading": "Rava on Tagin",
+      "current_heading": "Rava on Tagin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Open Door Metaphor",
+    "candidates": [
+      "Hump in Het",
+      "Rashi vs Tosafot",
+      "Suspended Hei Leg",
+      "Open Door Metaphor",
+      "Open Door Metaphor",
+      "Crown on Hei",
+      "Yud Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-6 form a continuous discussion about the suspended leg of the hei and the hump of the het \u2014 the symbolic meanings of these letter features \u2014 which is precisely what heading 2 ('Suspended Hei Leg') introduces, covering the hump of het, the suspended leg of hei, the beYah/olamim discussion, creation with hei vs yod, and the open-door/teshuvah metaphor that all flow from explaining why the hei's leg is suspended.",
+      "chosen_heading": "Suspended Hei Leg",
+      "current_heading": "Open Door Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Yud Symbolism",
+    "candidates": [
+      "Open Door Metaphor",
+      "Crown on Hei",
+      "Yud Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the World-to-Come was created with the letter yod and why the yud's head is bent, which is precisely what the 'Yud Symbolism' section's prose addresses.",
+      "chosen_heading": "Yud Symbolism",
+      "current_heading": "Yud Symbolism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Yud Symbolism",
+    "candidates": [
+      "Yud Symbolism",
+      "Rav on Errors",
+      "Braita Contradiction",
+      "Perfect Column",
+      "Imperfect Column",
+      "Imperfect Column",
+      "Yeterot vs Chaserot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav's ruling about errors per column and the baraita that contradicts it, which is precisely what candidate 1 ('Rav on Errors') discusses \u2014 the two-error vs. three-error threshold and the baraita's different standard \u2014 rather than the current placement under 'Yud Symbolism'.",
+      "chosen_heading": "Rav on Errors",
+      "current_heading": "Yud Symbolism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Yeterot vs Chaserot",
+    "candidates": [
+      "Rav on Errors",
+      "Braita Contradiction",
+      "Perfect Column",
+      "Imperfect Column",
+      "Imperfect Column",
+      "Yeterot vs Chaserot",
+      "Leopard Spots",
+      "Rav Middle Column",
+      "Braita Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses Abaye's question to Rav Yosef about what happens when the saving column has three errors, and Rav Yosef's answer that since it is correctable it still saves the scroll \u2014 exactly what the prose in candidate 4 describes, including the chaserot/yeterot distinction which follows as part of that same exchange.",
+      "chosen_heading": "Imperfect Column",
+      "current_heading": "Yeterot vs Chaserot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Braita Objection",
+    "candidates": [
+      "Leopard Spots",
+      "Rav Middle Column",
+      "Braita Objection",
+      "Middle Line Only",
+      "Rabbanan vs Rav Ashi",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Leopard Spots",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern the case of extraneous vs. missing letters in a scroll (Agra's case before Rabbi Abba), which belongs under 'Leopard Spots' as it discusses correction of scrolls with letter problems.",
+      "second_heading": "Rav Middle Column",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rav's second teaching about finishing a Torah scroll in the middle of a column and the baraita objection, which matches 'Rav Middle Column' as that prose explicitly describes this exact ruling and its context.",
+      "current_heading": "Braita Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Final Halacha",
+    "candidates": [
+      "Middle Line Only",
+      "Rabbanan vs Rav Ashi",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbanan vs Rav Ashi debate (including the final halakha ruling), and candidate 1's prose explicitly describes this exact debate between the rabbanan and Rav Ashi over 'be-emtza shita davka,' making it the clearly better match than candidate 2 which focuses only on the final halakha conclusion.",
+      "chosen_heading": "Rabbanan vs Rav Ashi",
+      "current_heading": "Final Halacha",
+      "moved": true
+    }
+  }
+]

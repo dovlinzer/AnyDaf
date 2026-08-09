@@ -1,0 +1,212 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Leniency at Cut Site",
+    "candidates": [
+      "Two Models of Bitul",
+      "Sefardi vs. Ashkenazi",
+      "Rashi: Quantitative Insig",
+      "Tosafot: Asmachta Model",
+      "Leniency at Cut Site",
+      "Fetus & Arm Boundary",
+      "Tosafot: Remove & Give",
+      "Rav Dimi's Report",
+      "Orlah Mishna Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement about the leniency at the place of cutting (makom chatech), which is precisely what the 'Leniency at Cut Site' section's prose describes and introduces.",
+      "chosen_heading": "Leniency at Cut Site",
+      "current_heading": "Leniency at Cut Site",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Orlah Mishna Analysis",
+    "candidates": [
+      "Fetus & Arm Boundary",
+      "Tosafot: Remove & Give",
+      "Rav Dimi's Report",
+      "Orlah Mishna Analysis",
+      "Min B'Mino Framework",
+      "Split Peas Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the Rav Dimi exchange \u2014 item 1 is Rav Dimi sitting and stating the halakha, and item 2 is Abaye's immediate challenge to it \u2014 which is precisely what candidate 2 ('Rav Dimi's Report') describes in its prose.",
+      "chosen_heading": "Rav Dimi's Report",
+      "current_heading": "Orlah Mishna Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Split Peas Example",
+    "candidates": [
+      "Min B'Mino Framework",
+      "Split Peas Example",
+      "Gemara's Inference",
+      "Yeast Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-2 present the seifa of the mishna (split beans/lentils example), and items 3-4 show Abaye inferring that the permissive case implies a shiur of sixty and Rav Dimi responding with one hundred \u2014 exactly the 'gemara's inference' and challenge/resolution described in candidate 2's prose.",
+      "chosen_heading": "Gemara's Inference",
+      "current_heading": "Split Peas Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Yeast Example",
+    "candidates": [
+      "Gemara's Inference",
+      "Yeast Example",
+      "Hundred vs. 99",
+      "Se'or Special Case",
+      "Fermentation Exception",
+      "Tzir & Ze'iva B'Alma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's inference from the reisha of the mishna (the wheat leaven example) to establish that the seifa must be operating with sixty rather than a hundred, which is precisely what heading 0 ('Gemara's Inference') describes \u2014 including the challenge that both reisha and seifa might use a hundred.",
+      "chosen_heading": "Gemara's Inference",
+      "current_heading": "Yeast Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Tzir & Ze'iva B'Alma",
+    "candidates": [
+      "Hundred vs. 99",
+      "Se'or Special Case",
+      "Fermentation Exception",
+      "Tzir & Ze'iva B'Alma",
+      "Practical Story",
+      "Taste Model Setup",
+      "No Taste Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-4 form a continuous chain: Rav Dimi's resolution (100 vs 101), Abaye's challenge about se'or (sourdough), the response about se'or's potency leading to 'not all shiurim are equal' with the tzir example, and the ze'iva b'alma answer \u2014 all of which belong under the 'Se'or Special Case' heading that discusses exactly this sequence of question-silence-suggestion about se'or and the broader shiurim principle, rather than the 'Tzir' heading where it currently sits.",
+      "chosen_heading": "Se'or Special Case",
+      "current_heading": "Tzir & Ze'iva B'Alma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "No Taste Position",
+    "candidates": [
+      "Practical Story",
+      "Taste Model Setup",
+      "No Taste Position",
+      "Initial Inquiry",
+      "Chanina's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's 'meat with turnip heads' measurement standard and then notes the mishna conflicts with Rabbi Yishmael's baraita that gidin have no taste \u2014 this is exactly what the 'Taste Model Setup' prose describes, covering both Rav Huna's practical model and the contrasting tanna's position.",
+      "chosen_heading": "Taste Model Setup",
+      "current_heading": "No Taste Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Chanina's Response",
+    "candidates": [
+      "Initial Inquiry",
+      "Chanina's Response",
+      "Referral to Lenient Posek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe the single narrative of the questioner before Rabbi \u1e24anina and Rabbi Yehuda bar Zevina at the gate, which is precisely what the prose under 'Chanina's Response' narrates in detail.",
+      "chosen_heading": "Chanina's Response",
+      "current_heading": "Chanina's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Referral to Lenient Posek",
+    "candidates": [
+      "Referral to Lenient Posek",
+      "Rabbi Ammi",
+      "Eilu V'Eilu Pluralism",
+      "Gid Hanasheh Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ami sending questioners to Rabbi Yitzchak ben \u1e24alov who rules leniently in the name of Rabbi Yehoshua ben Levi, plus the final halakhic ruling \u2014 content that maps directly to the 'Referral to Lenient Posek' section's prose, which is exactly what that heading discusses.",
+      "chosen_heading": "Referral to Lenient Posek",
+      "current_heading": "Referral to Lenient Posek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Gid Hanasheh Ruling",
+    "candidates": [
+      "Rabbi Ammi",
+      "Eilu V'Eilu Pluralism",
+      "Gid Hanasheh Ruling",
+      "Rabbi-Shopping vs Expert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna about gid hanasheh (sciatic nerve) cooked with other sinews and the gemara's challenge about bitul by majority, which directly corresponds to the 'Gid Hanasheh Ruling' section's prose about ta'am and the operative halakha regarding gid hanasheh.",
+      "chosen_heading": "Gid Hanasheh Ruling",
+      "current_heading": "Gid Hanasheh Ruling",
+      "moved": false
+    }
+  }
+]

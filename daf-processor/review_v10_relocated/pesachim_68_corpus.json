@@ -1,0 +1,368 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Boel Niddah Equation",
+    "candidates": [
+      "Three Levels Tumah",
+      "Ba'al Keri Classification",
+      "Boel Niddah Equation",
+      "Ba'al Keri Exception",
+      "Ba'al Keri & Zav: Qualit."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Boel Niddah Equation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are precisely the boel niddah/tamei meis camp-restriction equation and the midi irya rejection described in the 'Boel Niddah Equation' prose.",
+      "second_heading": "Ba'al Keri Exception",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the second braita (metzora chamur mi-zav... yatzah ba'al keri) and the Gemara's question about what 'yatzah' means, which is exactly the content described in the 'Ba'al Keri Exception' prose.",
+      "current_heading": "Boel Niddah Equation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Ba'al Keri & Zav: Qualit.",
+    "candidates": [
+      "Ba'al Keri Exception",
+      "Ba'al Keri & Zav: Qualit.",
+      "Rav Yitzchak Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection ('No') and the principle 'le-mai de-dami lei midaminan lei' \u2014 comparing the ba'al keri to the zav based on qualitative similarity rather than severity \u2014 which is precisely what candidate 1's prose discusses and analyzes.",
+      "chosen_heading": "Ba'al Keri & Zav: Qualit.",
+      "current_heading": "Ba'al Keri & Zav: Qualit.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rav Yitzchak Braita",
+    "candidates": [
+      "Rav Yitzchak Braita",
+      "Ejection Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita taught before Rav Yitzchak bar Avdimi deriving that a ba'al keri must leave two camps, which matches exactly what candidate 0's prose describes, before any challenge/paradox is raised.",
+      "chosen_heading": "Rav Yitzchak Braita",
+      "current_heading": "Rav Yitzchak Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Ejection Paradox",
+    "candidates": [
+      "Ejection Paradox",
+      "Two Camps Reading",
+      "Ravina Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yitzchak's challenge about the logical incoherence of the baraita's original reading (the 'ejection paradox') and its resolution by reversing the clause assignments, which is precisely what the 'Ejection Paradox' prose section describes.",
+      "chosen_heading": "Ejection Paradox",
+      "current_heading": "Ejection Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Ravina Position",
+    "candidates": [
+      "Two Camps Reading",
+      "Ravina Position",
+      "Har HaBayit Practice",
+      "Michui Kreivim",
+      "Rav Huna vs Chiyya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's objection and the Gemara's response about why 'hamachaneh' appears twice, which is precisely what the 'Ravina Position' prose describes.",
+      "chosen_heading": "Ravina Position",
+      "current_heading": "Ravina Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav Huna vs Chiyya",
+    "candidates": [
+      "Har HaBayit Practice",
+      "Michui Kreivim",
+      "Rav Huna vs Chiyya",
+      "Isaiah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage asks 'what is michui kreivim' and gives the two opinions, which fits under the 'Michui Kreivim' section that explicitly frames the question of what the cleansing involves \u2014 the 'Rav Huna vs Chiyya' section's prose already describes the two opinions in its own words, suggesting the Gemara passage introducing those opinions belongs under the prior heading that sets up the question.",
+      "chosen_heading": "Michui Kreivim",
+      "current_heading": "Rav Huna vs Chiyya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Isaiah Proof",
+    "candidates": [
+      "Isaiah Proof",
+      "Righteous Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Eliezer asking for \u1e24iyya bar Rav's reasoning and citing the Isaiah verse with Rav Yosef's Aramaic translation, which is precisely what heading 0 ('Isaiah Proof') describes in its prose.",
+      "chosen_heading": "Isaiah Proof",
+      "current_heading": "Isaiah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Righteous Power",
+    "candidates": [
+      "Righteous Power",
+      "Resurrection Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous sugya about interpreting 've-ra'u kvasim ke-davram' through the Rava/Rav \u1e24ananel tradition that the righteous will resurrect the dead, with Bashan=Elisha and Gilad=Elijah \u2014 exactly what the 'Righteous Power' prose describes in detail.",
+      "chosen_heading": "Righteous Power",
+      "current_heading": "Righteous Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Resurrection Power",
+    "candidates": [
+      "Resurrection Power",
+      "Death Contradiction",
+      "Israel vs Nations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Rabbi Shmuel bar Na\u1e25mani/Rabbi Yonatan's teaching that the righteous will resurrect the dead, which is precisely what the 'Resurrection Power' section's prose discusses in detail.",
+      "chosen_heading": "Resurrection Power",
+      "current_heading": "Resurrection Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Israel vs Nations",
+    "candidates": [
+      "Death Contradiction",
+      "Israel vs Nations",
+      "Luminaries Brightness",
+      "Mashiach vs Olam HaBa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from Ulla raising the contradiction through its resolution and the follow-up question about gentiles, which spans both heading 0 ('Death Contradiction') and heading 1, but the passage's content most tightly matches heading 0's prose which explicitly describes Ulla raising the contradiction between the two verses \u2014 heading 1's prose describes the resolution separately, suggesting the automated pipeline split what should be one unit, and since the passage must go under a single heading, heading 0 is the better fit as it introduces the contradiction that the entire passage (including resolution) elaborates.",
+      "chosen_heading": "Death Contradiction",
+      "current_heading": "Israel vs Nations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Mashiach vs Olam HaBa",
+    "candidates": [
+      "Luminaries Brightness",
+      "Mashiach vs Olam HaBa",
+      "Rambam Approach",
+      "Resurrection Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Rav \u1e24isda contradiction and its resolution distinguishing Olam HaBa from Yemot HaMashiach, plus Shmuel's alternative resolution \u2014 exactly what candidate 1 ('Mashiach vs Olam HaBa') discusses in its prose.",
+      "chosen_heading": "Mashiach vs Olam HaBa",
+      "current_heading": "Mashiach vs Olam HaBa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Resurrection Healing",
+    "candidates": [
+      "Rambam Approach",
+      "Resurrection Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the verse 'I put to death and I make live' / 'I wound and I heal' as a Torah source for resurrection, which is precisely what the 'Resurrection Healing' prose describes in detail.",
+      "chosen_heading": "Resurrection Healing",
+      "current_heading": "Resurrection Healing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Resurrection Healing",
+    "candidates": [
+      "Resurrection Healing",
+      "Blemish Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses burning fats of the Paschal lamb on Shabbat and the principle that a mitzva performed in its proper time is dear \u2014 this directly relates to the Mishnah about Korban Pesach on Shabbat, which is the topic of the 'Blemish Removal' section's prose about what may be done on Shabbat for the korban Pesach.",
+      "chosen_heading": "Blemish Removal",
+      "current_heading": "Resurrection Healing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Blemish Removal",
+    "candidates": [
+      "Blemish Removal",
+      "Hand vs Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial contradiction between the Mishnah and the Beraita in Eruvin about cutting off a wart, which is exactly what the 'Blemish Removal' section's prose describes as the setup before the Amoraic resolutions discussed in 'Hand vs Vessel'.",
+      "chosen_heading": "Blemish Removal",
+      "current_heading": "Blemish Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Hand vs Vessel",
+    "candidates": [
+      "Hand vs Vessel",
+      "Mishnah Repetition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two Amoraic opinions (Rabbi Elazar and Rabbi Yosei bar \u1e24anina) resolving the contradiction between the mishna and baraita via hand/vessel and moist/dry distinctions, which is precisely what the 'Hand vs Vessel' section prose describes in detail.",
+      "chosen_heading": "Hand vs Vessel",
+      "current_heading": "Hand vs Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Mishnah Repetition",
+    "candidates": [
+      "Mishnah Repetition",
+      "Eliezer Shechita",
+      "Yehoshua Yom Tov",
+      "Reshut vs Mitzvah",
+      "Simchat Yom Tov"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishnah Repetition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 continue the back-and-forth Gemara dialectic about why each amora chose his particular resolution of the two mishnayot (hand vs. instrument / moist vs. dry), culminating in the answer that the repetition teaches the Rabbi Eliezer/Rabbi Yehoshua dispute \u2014 exactly what heading 0 'Mishnah Repetition' discusses.",
+      "second_heading": "Simchat Yom Tov",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens the substantive dispute between Rabbi Eliezer and Rabbi Yehoshua about shechita overriding Shabbat and Rabbi Yehoshua's reasoning from simchat Yom Tov being a mitzvah, which matches heading 4 'Simchat Yom Tov' precisely.",
+      "current_heading": "Mishnah Repetition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Simchat Yom Tov",
+    "candidates": [
+      "Eliezer Shechita",
+      "Yehoshua Yom Tov",
+      "Reshut vs Mitzvah",
+      "Simchat Yom Tov",
+      "Atzeres Source",
+      "All or Nothing",
+      "Half and Half"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Simchat Yom Tov",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about Rabbi Eliezer and Rabbi Yehoshua's dispute over how to spend Yom Tov, which is precisely what heading 3 ('Simchat Yom Tov') introduces and discusses.",
+      "second_heading": "Atzeres Source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan's observation that both sages derive their views from the same verse (atzeres), which is exactly what heading 4 ('Atzeres Source') describes.",
+      "current_heading": "Simchat Yom Tov",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishnah cases",
+    "candidates": [
+      "Opening remarks",
+      "Mishnah cases",
+      "Role of hatra'ah",
+      "Conceptual framework",
+      "Rava's position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah passage presenting the three parallel cases of wine, shaving, and tumah with and without warnings is exactly what the 'Mishnah cases' section prose describes and analyzes.",
+      "chosen_heading": "Mishnah cases",
+      "current_heading": "Mishnah cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rava's position",
+    "candidates": [
+      "Role of hatra'ah",
+      "Conceptual framework",
+      "Rava's position",
+      "Rav Yosef's position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbah citing Rav Huna's position that 'lo yitama' and 'lo yavo' are two separate lavin but 'tumah v'tumah lo'\u2014precisely the content described in the 'Rava's position' prose as the opening of the dispute attributed to Rabbah/Rav Huna establishing the mikra malei principle and the firm line that tumah v'tumah does not generate additional lashes.",
+      "chosen_heading": "Rava's position",
+      "current_heading": "Rava's position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Rav Yosef's position",
+    "candidates": [
+      "Rav Yosef's position",
+      "Braita: kohen case",
+      "Rav Yosef defends",
+      "Chiburim distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All three items form a continuous dialectical exchange about Rav Yosef's tumah v'tumah position \u2014 Rav Huna's ruling, Abaye's baraita challenge, and Rav Yosef's Mishnah counter \u2014 and candidate 0's prose already addresses all these elements including the Rav Huna case and the Mishnah support for Rav Yosef.",
+      "chosen_heading": "Rav Yosef's position",
+      "current_heading": "Rav Yosef's position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Chiburim distinction",
+    "candidates": [
+      "Braita: kohen case",
+      "Rav Yosef defends",
+      "Chiburim distinction",
+      "Avi avot tumah",
+      "Derabbanan limits",
+      "Gemara resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's resolution of the contradiction between the braita and mishna using the chiburin/shelo b'chiburin distinction, which is precisely what the 'Chiburim distinction' section's prose discusses.",
+      "chosen_heading": "Chiburim distinction",
+      "current_heading": "Chiburim distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Gemara resolution",
+    "candidates": [
+      "Avi avot tumah",
+      "Derabbanan limits",
+      "Gemara resolution",
+      "State vs. act",
+      "Gemara question",
+      "Tosafot reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara exchange about whether tumah b'chiburin is d'oraita or derabbanan \u2014 the question raised in item 1, the distinction between adam b'adam and adam b'meit in item 2, and the summary ruling in item 3 \u2014 which precisely matches the prose of candidate 1 ('Derabbanan limits') that discusses Rav Yitzchak bar Yosef/Rav Yanai's statement and the d'oraita vs. derabbanan question, not candidate 2 ('Gemara resolution') which discusses the kan b'chiburei adam b'adam distinction as already resolved.",
+      "chosen_heading": "Derabbanan limits",
+      "current_heading": "Gemara resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Tosafot reading",
+    "candidates": [
+      "State vs. act",
+      "Gemara question",
+      "Tosafot reading",
+      "Rav Papa's box case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items deal with the precise problem the 'Tosafot reading' prose describes \u2014 how tumah and bi'ah can be simultaneous when entering a house, the nose/hand/toe objections raised against Rabbi Elazar and Rava \u2014 which is exactly the chain of question-and-answer the Tosafot reading section says the Gemara 'will work hard to resolve.'",
+      "chosen_heading": "Tosafot reading",
+      "current_heading": "Tosafot reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rav Papa's box case",
+    "candidates": [
+      "Rav Papa's box case",
+      "Goses case",
+      "Kohen vs. nazir",
+      "Interpretation debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Papa's box case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rav Papa's box case and Mar bar Rav Ashi's goses case, which together resolve the simultaneity problem and are discussed under headings 0 and 1 \u2014 but since the current placement (heading 0) already covers both in its prose and heading 1 also covers the goses case, item 1 spans both headings 0 and 1; however, since the essay treats them as a continuous chain resolving the same simultaneity question, the natural split is between item 1 (the Amoraic resolutions) and item 2 (the new baraita about kohen/nazir and goses).",
+      "second_heading": "Kohen vs. nazir",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita beginning 'Tanu Rabbanan: l'hechalo' which introduces a new source-based discussion about whether a kohen violates before death, matching heading 2's prose about the braita with two formulations derived from l'hechalo and b'mosam.",
+      "current_heading": "Rav Papa's box case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Interpretation debate",
+    "candidates": [
+      "Goses case",
+      "Kohen vs. nazir",
+      "Interpretation debate",
+      "Goses inclusion",
+      "Soul departure",
+      "Status vs. desecration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the debate between Rabbi Yochanan and Reish Lakish about what distinguishes the two derivations, which is precisely what the 'Interpretation debate' prose describes.",
+      "chosen_heading": "Interpretation debate",
+      "current_heading": "Interpretation debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Status vs. desecration",
+    "candidates": [
+      "Goses inclusion",
+      "Soul departure",
+      "Status vs. desecration",
+      "Shulchan Aruch ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's back-and-forth about what each of the two readings ('bemotam' vs. 'lehachelo') derives from its verse, which is precisely the textual-surplus analysis described in candidate 0's prose about deriving two teachings from each word.",
+      "chosen_heading": "Goses inclusion",
+      "current_heading": "Status vs. desecration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Shulchan Aruch ruling",
+    "candidates": [
+      "Status vs. desecration",
+      "Shulchan Aruch ruling",
+      "Tosafot kohen rule",
+      "Cemetery exit problem",
+      "Edge burial solution",
+      "Ra'avad's reading",
+      "Lenient position",
+      "Ra'avad conclusion",
+      "Muttar vs. patur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the objection from Oholot 1:6 that a goses does not impart impurity and then resolves it with precisely the status-vs-desecration distinction (tumah requires death; chillul/profanation applies already to a goses) that heading 0 'Status vs. desecration' describes in its prose.",
+      "chosen_heading": "Status vs. desecration",
+      "current_heading": "Shulchan Aruch ruling",
+      "moved": true
+    }
+  }
+]

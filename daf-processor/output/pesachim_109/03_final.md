@@ -1,7 +1,7 @@
-# Pesachim 109 — Daf Yomi Shiur
 [DAF:109a]
-
 ## Intro: Reclining
+
+
 
 ### Romans & Reclining
 
@@ -9,9 +9,8 @@ Our daf begins at the very bottom of 108b, picking up where we left off on the t
 
 ### Wine Taste & Look
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: צָרִיךְ שֶׁיְּהֵא בּוֹ טַעַם וּמַרְאֶה. אָמַר רָבָא: מַאי טַעְמָא דְּרַבִּי יְהוּדָה, דִּכְתִיב: ״אַל תֵּרֶא יַיִן כִּי יִתְאַדָּם״.
->
-> **Translation:** The *baraita* stated that **Rabbi Yehuda says** the cup from which one drinks **must have** the **taste and appearance** of wine. **Rava said: What is the reason** for the opinion **of Rabbi Yehuda? As it is written: "Look not upon wine when it is red"** (Proverbs 23:31). This verse proves that the appearance of wine and not only its taste is important.
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: צָרִיךְ שֶׁיְּהֵא בּוֹ טַעַם וּמַרְאֶה. אָמַר רָבָא: מַאי טַעְמָא דְּרַבִּי יְהוּדָה, דִּכְתִיב: ״אַל תֵּרֶא יַיִן כִּי יִתְאַדָּם״.
+> **Translation:** The *baraita* stated that **Rabbi Yehuda says** the cup from which one drinks **must have** the **taste and appearance** of wine. **Rava said: What is the reason** for the opinion **of Rabbi Yehuda? As it is written: “Look not upon wine when it is red”** (Proverbs 23:31). This verse proves that the appearance of wine and not only its taste is important.
 
 We had already seen in preceding *gemaros* that if one drank all four cups in sequence they are considered *yotzei yayin* — that is, they have discharged the obligation relating to wine and *simcha* — but are not *yotzei* the *arba kosot* as such, since the cups must be drunk in their proper ritual context rather than all at once. Now the *gemara* turns to the qualitative requirements of the wine itself. Six lines from the bottom of 108b, the Talmud records the position of Rav Yehuda: *tzarich sheyeha bo ta'am umareh* — the wine must possess genuine taste and genuine appearance, exhibiting the qualities one associates with classic wine. Rava then asks: *mai ta'ama d'Rav Yehuda* — what is the reasoning behind Rav Yehuda's position? The answer comes from the verse: *al tere yayin ki yis'adam* — "Do not look upon wine when it is red" (Proverbs 23:31). The very warning against being seduced by wine assumes that redness is a defining visual characteristic of wine, establishing that color is integral to wine's identity.
 
@@ -25,27 +24,24 @@ A related question raised by Tosafot at the beginning of the tractate concerns w
 
 ## Children & Wine
 
-### All Obligated
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַכֹּל חַיָּיבִין בְּאַרְבָּעָה כּוֹסוֹת הַלָּלוּ, אֶחָד אֲנָשִׁים, וְאֶחָד נָשִׁים, וְאֶחָד תִּינוֹקוֹת.
->
-> **Translation:** **The Sages taught** in a *baraita*: **All are obligated in these four cups, including men, women, and children.**
+
+### All Obligated
 
 The *gemara* now continues with the *arba kosot*. A *baraisa* teaches: *hakol chayavin b'arba kosot halalu* — all are obligated in these four cups — *echad anashim v'echad nashim* — both men and women — and *tinokot*, young children as well. This phrasing itself reinforces the point that each individual must drink, since the obligation is not dischargeable by a single representative for the group.
 
-### Rabbi Yehuda's Q
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַכֹּל חַיָּיבִין בְּאַרְבָּעָה כּוֹסוֹת הַלָּלוּ, אֶחָד אֲנָשִׁים, וְאֶחָד נָשִׁים, וְאֶחָד תִּינוֹקוֹת. אָמַר רַבִּי יְהוּדָה: וְכִי מָה תּוֹעֶלֶת יֵשׁ לְתִינוֹקוֹת בְּיַיִן? אֶלָּא מְחַלְּקִין לָהֶן
+> **Translation:** **The Sages taught** in a *baraita*: **All are obligated in these four cups, including men, women, and children. Rabbi Yehuda said: What benefit do children receive from wine?** They do not enjoy it. **Rather, one distributes to them**
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוּדָה: וְכִי מָה תּוֹעֶלֶת יֵשׁ לְתִינוֹקוֹת בְּיַיִן?
->
-> **Translation:** **Rabbi Yehuda said: What benefit do children receive from wine?** They do not enjoy it.
+### Rabbi Yehuda's Q
 
 Rabbi Yehuda objects: *ve-chi ma to'elet yesh le-tinokot be-yayin* — what benefit is there in giving children wine? This question merits careful attention. Rabbi Yehuda does not say the children are *pattur* — exempt — and that the *baraisa*'s ruling is therefore erroneous. The Rashbam reads the question narrowly: since children are minors and exempt from the commandments, why mention them at all? But a richer reading is available. The point seems to be that wine, as a vehicle of symbolic meaning, functions within a cultural framework. When free adults drink wine in a posture of *haseivah*, the act communicates *cheirus* — freedom. When young children drink wine, no such symbolism registers. It is not meaningful for them in any experiential sense, and it does not project meaningful symbolism to those observing them. One might respond that there is still some value — that children who will one day observe this mitzvah benefit from early participation — but the stronger reading of *ma to'elet yesh le-tinokot be-yayin* is that the act fails to symbolize anything for anyone present. Wine-drinking children, in the cultural imagination, evokes irresponsible parenting, not *cheirus*.
 
 ### Wheat & Nuts
 
-> **Hebrew/Aramaic:** אֶלָּא מְחַלְּקִין לָהֶן קְלָיוֹת וֶאֱגוֹזִין בְּעֶרֶב פֶּסַח כְּדֵי שֶׁלֹּא יִשְׁנוּ, וְיִשְׁאֲלוּ.
->
-> **Translation:** **Rather, one distributes to them roasted grains and nuts on Passover eve, so that they will not sleep and** also so **they will ask** the four questions at night.
+
+> **Hebrew/Aramaic:** קְלָיוֹת וֶאֱגוֹזִין בְּעֶרֶב פֶּסַח כְּדֵי שֶׁלֹּא יִשְׁנוּ, וְיִשְׁאֲלוּ. אָמְרוּ עָלָיו עַל רַבִּי עֲקִיבָא שֶׁהָיָה מְחַלֵּק קְלָיוֹת וֶאֱגוֹזִין לְתִינוֹקוֹת בְּעֶרֶב פֶּסַח כְּדֵי שֶׁלֹּא יִשְׁנוּ, וְיִשְׁאֲלוּ. תַּנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: חוֹטְפִין מַצּוֹת בְּלֵילֵי פְּסָחִים בִּשְׁבִיל תִּינוֹקוֹת שֶׁלֹּא יִשְׁנוּ.
+> **Translation:** **roasted grains and nuts on Passover eve, so that they will not sleep and** also so **they will ask** the four questions at night. **They said about Rabbi Akiva that he would distribute roasted grains and nuts to children on Passover eve, so that they would not sleep and** so **they would ask. It was taught** in a *baraita* that **Rabbi Eliezer says: One grabs the *matzot* on the nights of Passover.** One should eat them very quickly **on account of the children, so** that, due to the hasty consumption of the meal, **they will not sleep** and they will inquire into the meaning of this unusual practice.
 
 The *gemara* responds with a fundamental reframing of what the *baraisa* intends: *ela mechalkin lahem kliyos ve-egozim* — rather, one distributes to the children roasted wheat and nuts. Tosafot notes that the wheat must be roasted rather than fresh because fresh new wheat is not yet permitted before the *omer* offering, which falls on the second day of Pesach. The purpose is stated explicitly: *kedei shelo yishnu ve-yish'alu* — so that they should not fall asleep, so that they remain curious and excited, and so that they ask questions.
 
@@ -53,17 +49,9 @@ This represents a thoroughgoing reimagining of the children's role in the Seder.
 
 ### Rabbi Akiva
 
-> **Hebrew/Aramaic:** אָמְרוּ עָלָיו עַל רַבִּי עֲקִיבָא שֶׁהָיָה מְחַלֵּק קְלָיוֹת וֶאֱגוֹזִין לְתִינוֹקוֹת בְּעֶרֶב פֶּסַח כְּדֵי שֶׁלֹּא יִשְׁנוּ, וְיִשְׁאֲלוּ.
->
-> **Translation:** **They said about Rabbi Akiva that he would distribute roasted grains and nuts to children on Passover eve, so that they would not sleep and** so **they would ask.**
-
 The *gemara* relates: *amru alav al Rabbi Akiva shehaya mechallek kliyos ve-egozim le-tinokot be-erev Pesach kedei shelo yishnu ve-yish'alu* — they said of Rabbi Akiva that he himself would distribute roasted wheat and nuts to children on *erev Pesach*, so that they would not fall asleep at the Seder and would be eager to ask questions. The importance Rabbi Akiva attached to this practice — and the lengths to which he went personally — illustrates how central the children's wakefulness and inquisitiveness were considered to the Seder's success.
 
 ### Grabbing Matzot
-
-> **Hebrew/Aramaic:** תַּנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: חוֹטְפִין מַצּוֹת בְּלֵילֵי פְּסָחִים בִּשְׁבִיל תִּינוֹקוֹת שֶׁלֹּא יִשְׁנוּ.
->
-> **Translation:** **It was taught** in a *baraita* that **Rabbi Eliezer says: One grabs the *matzot* on the nights of Passover.** One should eat them very quickly **on account of the children, so** that, due to the hasty consumption of the meal, **they will not sleep** and they will inquire into the meaning of this unusual practice.
 
 A *baraisa* is cited: *chotfin matzos be-leilei pesachim bishvil tinokot shelo yishnu* — one grabs *matzot* on the nights of Pesach for the sake of the children, so they should not fall asleep. The word *chotfin* — grabbing, snatching — has invited multiple interpretations.
 
@@ -75,8 +63,7 @@ One question that runs through all of these interpretations is whether the purpo
 
 ### Rabbi Akiva & Home
 
-> **Hebrew/Aramaic:** תַּנְיָא, אָמְרוּ עָלָיו עַל רַבִּי עֲקִיבָא: מִיָּמָיו לֹא אָמַר הִגִּיעַ עֵת לַעֲמוֹד בְּבֵית הַמִּדְרָשׁ, חוּץ מֵעַרְבֵי פְסָחִים וְעֶרֶב יוֹם הַכִּפּוּרִים. בְּעֶרֶב פֶּסַח — בִּשְׁבִיל תִּינוֹקוֹת, כְּדֵי שֶׁלֹּא יִשְׁנוּ. וְעֶרֶב יוֹם הַכִּפּוּרִים — כְּדֵי שֶׁיַּאֲכִילוּ אֶת בְּנֵיהֶם.
->
+> **Hebrew/Aramaic:** תַּנְיָא, אָמְרוּ עָלָיו עַל רַבִּי עֲקִיבָא: מִיָּמָיו לֹא אָמַר הִגִּיעַ עֵת לַעֲמוֹד בְּבֵית הַמִּדְרָשׁ, חוּץ מֵעַרְבֵי פְסָחִים וְעֶרֶב יוֹם הַכִּפּוּרִים. בְּעֶרֶב פֶּסַח — בִּשְׁבִיל תִּינוֹקוֹת, כְּדֵי שֶׁלֹּא יִשְׁנוּ. וְעֶרֶב יוֹם הַכִּפּוּרִים — כְּדֵי שֶׁיַּאֲכִילוּ אֶת בְּנֵיהֶם.
 > **Translation:** **It was taught** in a *baraita*: **They said about Rabbi Akiva** that **in** all **his days he never said** to his students that the **time had come to arise** from their learning **in the study hall.** Instead, he would continue to teach as long as they were willing to listen. This was true **except for the eves of Passover and the eve of Yom Kippur,** when he would stop teaching. The Gemara explains the reasons for these exceptions: **On the eve of Passover,** he would stop **on account of** the **children, so that** they would go to sleep during the day, so that **they would not** be tired and **sleep** at night. **And** on **the eve of Yom Kippur,** he would stop **so that** his students **would** remember to **feed their children.**
 
 A second tradition about Rabbi Akiva is now cited: *miyyamav lo amar higia eit la'amod be-veis hamidrash* — in his entire life, he never told his students that the time had come to leave the study hall, *chutz mi'arvei pesachim ve-erev yom ha-kippurim* — except for *erev Pesach* and *erev Yom Kippur*. On *erev Pesach*, he sent them home *bishvil tinokot kedei shelo yishnu* — for the sake of the children, so they should not fall asleep. On *erev Yom Kippur*, he sent them home *kedei sheyachilu et beneihem* — so that they should feed their children, in fulfillment of the mitzvah to eat on *erev Yom Kippur*.
@@ -85,27 +72,24 @@ This is a striking teaching, and it raises an obvious question. If Rabbi Akiva's
 
 ## Simcha: Wine & Meat
 
+
+
 ### Joy for Family
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: חַיָּיב אָדָם לְשַׂמֵּחַ בָּנָיו וּבְנֵי בֵיתוֹ בָּרֶגֶל, שֶׁנֶּאֱמַר: ״וְשָׂמַחְתָּ בְּחַגֶּךָ״. בַּמֶּה מְשַׂמְּחָם — בְּיַיִן.
->
-> **Translation:** **The Sages taught: A man is obligated to gladden his children and the members of his household on a Festival, as it is stated: "And you shall rejoice on your Festival,** you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite, and the stranger, and the fatherless, and the widow that are within your gates" (Deuteronomy 16:14). **With what** should **one make them rejoice? With wine.**
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: חַיָּיב אָדָם לְשַׂמֵּחַ בָּנָיו וּבְנֵי בֵיתוֹ בָּרֶגֶל, שֶׁנֶּאֱמַר: ״וְשָׂמַחְתָּ בְּחַגֶּךָ״. בַּמֶּה מְשַׂמְּחָם — בְּיַיִן.
+> **Translation:** **The Sages taught: A man is obligated to gladden his children and the members of his household on a Festival, as it is stated: “And you shall rejoice on your Festival,** you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite, and the stranger, and the fatherless, and the widow that are within your gates” (Deuteronomy 16:14). **With what** should **one make them rejoice? With wine.**
 
 The *gemara* transitions naturally from the theme of being present for one's family to a broader discussion of *simchat yom tov*. The *baraisa* teaches: *chayav adam lesameach banav u-vnei beito ba-regel* — a person is obligated to bring joy to his children and to his household on the *regel*, the festival. The verse cited is *ve-samachta be-chagecha* — "and you shall rejoice on your festival" (Deuteronomy 16:14). The question then becomes: *bameh mesamchem* — through what means? The answer given first is *be-yayin* — with wine — which connects naturally back to the earlier question of what benefit wine provides to children.
 
 ### Gender & Simcha
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: אֲנָשִׁים בָּרָאוּי לָהֶם, וְנָשִׁים בָּרָאוּי לָהֶן. אֲנָשִׁים בָּרָאוּי לָהֶם — בְּיַיִן. וְנָשִׁים בְּמַאי?
->
-> **Translation:** **Rabbi Yehuda says:** One should enable each member of his household to rejoice with an item that pleases them, **men with what is fit for them and women with what is fit for them.** Rabbi Yehuda elaborates: **Men with what is fit for them,** i.e., **with wine. And** as for the **women, with what** should one cause them to rejoice?
-
 Rabbi Yehuda qualifies the ruling: *anashim ba-raui lahem ve-nashim ba-raui lahem* — each person rejoices through what is fitting for them. Not everyone derives joy from the same thing. For men, the appropriate vehicle is wine. For women, the *gemara* asks: *nashim be-mah* — what then brings women joy?
+
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: אֲנָשִׁים בָּרָאוּי לָהֶם, וְנָשִׁים בָּרָאוּי לָהֶן. אֲנָשִׁים בָּרָאוּי לָהֶם — בְּיַיִן. וְנָשִׁים בְּמַאי? תָּנֵי רַב יוֹסֵף: בְּבָבֶל — בְּבִגְדֵי צִבְעוֹנִין, בְּאֶרֶץ יִשְׂרָאֵל — בְּבִגְדֵי פִּשְׁתָּן מְגוֹהָצִין.
+> **Translation:** **Rabbi Yehuda says:** One should enable each member of his household to rejoice with an item that pleases them, **men with what is fit for them and women with what is fit for them.** Rabbi Yehuda elaborates: **Men with what is fit for them,** i.e., **with wine. And** as for the **women, with what** should one cause them to rejoice? **Rav Yosef teaches:** One should delight them with new clothes, **in Babylonia with colored clothes** and **in Eretz Yisrael with** the **pressed linen clothes** that are manufactured there.
 
 ### Garments
 
-> **Hebrew/Aramaic:** תָּנֵי רַב יוֹסֵף: בְּבָבֶל — בְּבִגְדֵי צִבְעוֹנִין, בְּאֶרֶץ יִשְׂרָאֵל — בְּבִגְדֵי פִּשְׁתָּן מְגוֹהָצִין.
->
-> **Translation:** **Rav Yosef teaches:** One should delight them with new clothes, **in Babylonia with colored clothes** and **in Eretz Yisrael with** the **pressed linen clothes** that are manufactured there.
 
 Rav Yosef teaches: *be-Vavel be-vigdei tzevonin* — in Babylon, one brings women joy through attractive colored garments; *be-Eretz Yisrael be-vigdei pishtan megukhatzim* — in the Land of Israel, through finely pressed linen garments. The skill of pressing linen was apparently not widely practiced outside of *Eretz Yisrael*, and linen, which wrinkles easily, would have required that special treatment to appear truly fine.
 
@@ -115,9 +99,8 @@ The phrasing *anashim ba-raui lahem ve-nashim ba-raui lahem* also conveys a sens
 
 ### Meat & Temple
 
-> **Hebrew/Aramaic:** תַּנְיָא, רַבִּי יְהוּדָה בֶּן בְּתֵירָא אוֹמֵר: בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים אֵין שִׂמְחָה אֶלָּא בְּבָשָׂר, שֶׁנֶּאֱמַר: ״וְזָבַחְתָּ שְׁלָמִים וְאָכַלְתָּ שָּׁם וְשָׂמַחְתָּ לִפְנֵי ה׳ אֱלֹהֶיךָ״, וְעַכְשָׁיו שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּים, אֵין שִׂמְחָה אֶלָּא בְּיַיִן, שֶׁנֶּאֱמַר: ״וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ״.
->
-> **Translation:** **It was taught** in a *baraita* that **Rabbi Yehuda ben Beteira says: When the Temple is standing, rejoicing is only through** the eating of sacrificial **meat, as it is stated: "And you shall sacrifice peace-offerings and you shall eat there and you shall rejoice before the Lord your God"** (Deuteronomy 27:7). **And now that the Temple is not standing** and one cannot eat sacrificial meat, he can fulfill the mitzva of **rejoicing** on a Festival **only by** drinking **wine, as it is stated: "And wine that gladdens the heart of man"** (Psalms 104:15).
+> **Hebrew/Aramaic:** תַּנְיָא, רַבִּי יְהוּדָה בֶּן בְּתֵירָא אוֹמֵר: בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים אֵין שִׂמְחָה אֶלָּא בְּבָשָׂר, שֶׁנֶּאֱמַר: ״וְזָבַחְתָּ שְׁלָמִים וְאָכַלְתָּ שָּׁם וְשָׂמַחְתָּ לִפְנֵי ה׳ אֱלֹהֶיךָ״, וְעַכְשָׁיו שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּים, אֵין שִׂמְחָה אֶלָּא בְּיַיִן, שֶׁנֶּאֱמַר: ״וְיַיִן יְשַׂמַּח לְבַב אֱנוֹשׁ״.
+> **Translation:** **It was taught** in a *baraita* that **Rabbi Yehuda ben Beteira says: When the Temple is standing, rejoicing is only through** the eating of sacrificial **meat, as it is stated: “And you shall sacrifice peace-offerings and you shall eat there and you shall rejoice before the Lord your God”** (Deuteronomy 27:7). **And now that the Temple is not standing** and one cannot eat sacrificial meat, he can fulfill the mitzva of **rejoicing** on a Festival **only by** drinking **wine, as it is stated: “And wine that gladdens the heart of man”** (Psalms 104:15).
 
 The *gemara* now introduces a *baraisa* attributed to Rabbi Yehuda ben Beseira: *bizman she-Beis HaMikdash kayam, ein simcha ela be-vasar* — when the Temple stood, there was no *simcha* without meat. Some versions of the text read *be-vasar shelamim* — with the meat of *shelamim* offerings — and the subsequent *pasuk* strongly supports this reading: *ve-zavachta shelamim ve-achalta sham ve-samachta lifnei Hashem Elokecha* — "and you shall slaughter *shelamim* and eat there and rejoice before the Lord your God." The joy of *yom tov* in Temple times was bound up with eating sacrificial meat in proximity to the Divine presence. The *simcha* was not merely gastronomic; it was religious and covenantal, experienced *lifnei Hashem* — before God.
 
@@ -133,11 +116,12 @@ The Rambam's formulation of *simchat yom tov* at the conclusion of *Hilkhot Yom 
 
 ## Measures
 
+
+
 ### Fish Measure
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק: קִסְתָּא דְמוּרְיְסָא דַּהֲוָה בְּצִיפּוֹרִי הִיא הֲוָת כְּמִין לוּגָּא דְּמַקְדְּשָׁא, וּבָהּ מְשַׁעֲרִין רְבִיעִית שֶׁל פֶּסַח.
->
-> **Translation:** **Rabbi Yitzḥak said: The vessel** used for measuring **brine [*moraysa*] that was in Tzippori was the same** volume **as the *log* in the Temple, and with it** the Sages would **measure the quarter**-*log* **of Passover.**
+> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק: קִסְתָּא דְמוּרְיְסָא דַּהֲוָה בְּצִיפּוֹרִי הִיא הֲוָת כְּמִין לוּגָּא דְּמַקְדְּשָׁא, וּבָהּ מְשַׁעֲרִין רְבִיעִית שֶׁל פֶּסַח. אָמַר רַבִּי יוֹחָנָן: תְּמָנְיָיתָא קַדְמָיְיתָא דַּהֲוָה בִּטְבֶרְיָא הֲוָת יַתִּירָה עַל דָּא רִיבְעָא, וּבָהּ מְשַׁעֲרִין רְבִיעִית שֶׁל פֶּסַח.
+> **Translation:** **Rabbi Yitzḥak said: The vessel** used for measuring **brine [*moraysa*] that was in Tzippori was the same** volume **as the *log* in the Temple, and with it** the Sages would **measure the quarter**-*log* **of Passover.** They would fill this vessel and then divide the liquid it contained into four equal parts. The result was one quarter-*log*, which is the minimum measure of wine for the four cups on Passover and for certain other *halakhot*. **Rabbi Yoḥanan said: The old eighth** measure **that was** in use **in Tiberias was greater than this** eighth measure **by** one **quarter**-*log*, **and with it we measure** the **quarter**-*log* **of Passover.** When the old measure is filled and poured into the newer version, the amount left in the original vessel is one quarter-*log*.
 
 The *gemara* now turns to the question of determining the precise quantity of the *revi'is* — the quarter-*log* measure that defines the minimum for the four cups of wine. Rav Yitzchak reports: the *kista de-morisa* — the fish-brine measuring vessel — that existed in Tzippori was approximately the same size as the *log* of the *Beis HaMikdash*. One can therefore use it to determine the *revi'it shel Pesach* — the *revi'is* relevant for the four cups. Since the *revi'is* is one quarter of a *log*, and this vessel approximates the *log*, one can derive the required minimum by taking a quarter of that vessel's capacity.
 
@@ -145,25 +129,21 @@ It is notable that the discussion frames this as a *revi'is shel Pesach* specifi
 
 ### Old Measure
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: תְּמָנְיָיתָא קַדְמָיְיתָא דַּהֲוָה בִּטְבֶרְיָא הֲוָת יַתִּירָה עַל דָּא רִיבְעָא, וּבָהּ מְשַׁעֲרִין רְבִיעִית שֶׁל פֶּסַח.
->
-> **Translation:** **Rabbi Yoḥanan said: The old eighth** measure **that was** in use **in Tiberias was greater than this** eighth measure **by** one **quarter**-*log*, **and with it we measure** the **quarter**-*log* **of Passover.** When the old measure is filled and poured into the newer version, the amount left in the original vessel is one quarter-*log*.
-
 Rabbi Yochanan adds a related observation: *timnayeta kadmaita de-hava be-Tverya hava yetera al da riv'a* — the old *timnayeta* measure that existed in Tiberias was larger than the current version of that measure by a *revi'is*. The name *timnayeta* may relate to the word for eight (*tamnya*) or may simply be the proper name of a particular measure, like one of a list of standard units including *tuman* and *uchla*. In any case, the practical point is that by filling the old vessel and pouring its contents into the new one, the remainder — the overage — gives you the quantity of a *revi'is*. This too can serve *le-sha'er revi'is shel Pesach* — to calibrate the *revi'is* for Pesach.
 
+[DAF:109b]
 ### Revi'it Calc
-
-> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: רְבִיעִית שֶׁל תּוֹרָה אֶצְבָּעַיִם עַל אֶצְבָּעַיִם בְּרוּם אֶצְבָּעַיִם וַחֲצִי אֶצְבַּע וְחוֹמֶשׁ אֶצְבַּע.
->
-> **Translation:** **Rav Ḥisda said: The quarter**-*log* measurement **of the Torah is two fingerbreadths by two fingerbreadths** in volume, **by the height of two fingerbreadths and one half fingerbreadth and one-fifth of a fingerbreadth.**
 
 Rav Chisda then provides the geometrical definition of the Torah's *revi'is*: *etzba'im al etzba'im be-rum etzba'im ve-chetzi etzba ve-chomesh etzba* — two finger-widths by two finger-widths by a height of two and a half finger-widths plus one-fifth of a finger-width, which is to say 2.7 finger-widths. The volume of a *revi'is* is thus 2 × 2 × 2.7 cubic finger-widths, equaling 10.8 cubic finger-widths. How is this derived?
 
+> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: רְבִיעִית שֶׁל תּוֹרָה אֶצְבָּעַיִם עַל אֶצְבָּעַיִם בְּרוּם אֶצְבָּעַיִם וַחֲצִי אֶצְבַּע וְחוֹמֶשׁ אֶצְבַּע. כִּדְתַנְיָא: ״וְרָחַץ בַּמַּיִם אֶת כָּל בְּשָׂרוֹ״ — שֶׁלֹּא יְהֵא דָּבָר חוֹצֵץ בֵּין בְּשָׂרוֹ לַמַּיִם. ״בַּמַּיִם״ — בְּמֵי מִקְוֶה. ״אֶת כׇּל בְּשָׂרוֹ״ — מַיִם שֶׁכׇּל גּוּפוֹ עוֹלֶה בָּהֶן, וְכַמָּה הֵן?
+> **Translation:** **Rav Ḥisda said: The quarter**-*log* measurement **of the Torah is two fingerbreadths by two fingerbreadths** in volume, **by the height of two fingerbreadths and one half fingerbreadth and one-fifth of a fingerbreadth.** This statement is **as it was taught** in a *baraita* concerning a ritual bath, about which the verse states: **“And he shall bathe all his flesh in the water”** (Leviticus 15:16), from which the Sages expounded: This phrase teaches **that there should be nothing interposing between one’s flesh** and **the water.** The expression **“in the water”** indicates that the verse is referring to a specific body of water, i.e., **in the water of a ritual bath.** The phrase **“all his flesh”** teaches that one must immerse in **water that his whole body can enter** at once. **And how much is that?**
+
+> **Hebrew/Aramaic:** אַמָּה עַל אַמָּה בְּרוּם שָׁלֹשׁ אַמּוֹת, וְשִׁיעֲרוּ חֲכָמִים שִׁיעוּר מֵי מִקְוֶה אַרְבָּעִים סְאָה.
+> **Translation:** **A cubit, by a cubit, by a height of three cubits. And the Sages measured** the **measure** of **the water** necessary **for a ritual bath** at **forty *se’a*.**
+
 ### Mikvah Math
 
-> **Hebrew/Aramaic:** כִּדְתַנְיָא: ״וְרָחַץ בַּמַּיִם אֶת כָּל בְּשָׂרוֹ״ — שֶׁלֹּא יְהֵא דָּבָר חוֹצֵץ בֵּין בְּשָׂרוֹ לַמַּיִם. ״בַּמַּיִם״ — בְּמֵי מִקְוֶה. ״אֶת כׇּל בְּשָׂרוֹ״ — מַיִם שֶׁכׇּל גּוּפוֹ עוֹלֶה בָּהֶן, וְכַמָּה הֵן? אַמָּה עַל אַמָּה בְּרוּם שָׁלֹשׁ אַמּוֹת, וְשִׁיעֲרוּ חֲכָמִים שִׁיעוּר מֵי מִקְוֶה אַרְבָּעִים סְאָה.
->
-> **Translation:** This statement is **as it was taught** in a *baraita* concerning a ritual bath, about which the verse states: **"And he shall bathe all his flesh in the water"** (Leviticus 15:16), from which the Sages expounded: This phrase teaches **that there should be nothing interposing between one's flesh** and **the water.** The expression **"in the water"** indicates that the verse is referring to a specific body of water, i.e., **in the water of a ritual bath.** The phrase **"all his flesh"** teaches that one must immerse in **water that his whole body can enter** at once. **And how much is that? A cubit, by a cubit, by a height of three cubits. And the Sages measured** the **measure** of **the water** necessary **for a ritual bath** at **forty *se'a*.**
 
 The source is a *baraisa* based on the verse *ve-rachatz ba-mayim et kol besaro* — "and he shall wash his whole flesh in water" (Leviticus 15:16). From this verse, the Rabbis derive two principles: first, that nothing may intervene between one's flesh and the water; and second, that *ba-mayim et kol besaro* requires water in which the entire body can be submerged. *Mayim she-kol gufo oleh bahem* — enough water to immerse one's entire body. The Sages then determined: *amah al amah be-rum shalosh amos* — a space of one *amah* by one *amah* by three *amos* deep — *ve-shiaru chachamim shi'ur mei mikvah arba'im se'ah* — holds forty *se'ah*, which is the required volume of a *mikvah*. So three cubic *amos* equals forty *se'ah*, and from this equivalence the *revi'is* can be calculated.
 
@@ -173,42 +153,38 @@ One might wonder how a person whose height to the shoulders is approximately thr
 
 The calculation from three cubic *amos* to 10.8 cubic finger-widths proceeds as follows. An *amah* consists of six *tefachim*, and each *tefach* consists of four finger-widths (*etzba'ot*). Thus one *amah* equals 24 finger-widths. Three cubic *amos* — that is, a volume of 24 × 24 × 72 cubic finger-widths — equals 41,472 cubic finger-widths. Since this volume corresponds to forty *se'ah*, dividing gives 1,036.8 cubic finger-widths per *se'ah*.
 
-Now, a *se'ah* contains six *kav*, each *kav* contains four *log*, and each *log* contains four *revi'is*. There are therefore 96 *revi'is* to a *se'ah*. Dividing 1,036.8 by 96 gives 10.8 cubic finger-widths per *revi'is* — precisely the 2 × 2 × 2.7 figure that Rav Chisda stated. In contemporary terms, the *revi'is* is approximately 3.2 to 3.5 fluid ounces. The research of Rav Chaim Na'eh, who arrived at this figure through independent scholarly analysis of the measurements, was strikingly corroborated when archaeologists uncovered the *mikva'ot* at Masada, which matched his calculations almost exactly.
+Now, a *se'ah* contains six *kav*, each *kav* contains four *log*, and each *log* contains four *revi'is*. There are therefore 96 *revi'is* to a *se'ah*. Dividing 1,036.8 by 96 gives 10.8 cubic finger-widths per *revi'is* — precisely the 2 × 2 × 2.7 figure that Rav Chisda stated. It is worth pausing to appreciate that this calculation is actually far more straightforward than it appears in the discussions of Tosafot and the Rashbam, who were working through the same arithmetic without the advantage of base-ten notation and Arabic numerals. In contemporary terms, the *revi'is* is approximately 3.2 to 3.5 fluid ounces. The research of Rav Chaim Na'eh, who arrived at this figure through independent scholarly analysis of the measurements, was strikingly corroborated when archaeologists uncovered the *mikva'ot* at Masada, which matched his calculations almost exactly.
 
 ## Table & Mikvah
 
+
+
 ### Temple Table
 
-> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: אָמַר לִי רָבִין בַּר חִינָּנָא, שׁוּלְחָן שֶׁל מִקְדָּשׁ — שֶׁל פְּרָקִים הֲוָה.
->
-> **Translation:** **Rav Ashi said: Ravin bar Ḥinnana said to me: The table of the Temple,** upon which the shewbread was placed, **was** comprised of assembled **parts.**
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: אָמַר לִי רָבִין בַּר חִינָּנָא, שׁוּלְחָן שֶׁל מִקְדָּשׁ — שֶׁל פְּרָקִים הֲוָה, דְּאִי סָלְקָא דַּעְתָּךְ הַדּוֹקֵי הֲוָה מִיהַדַּק, אַמְּתָא בְּאַמְּתָא הֵיכִי מַטְבְּלֵיהּ?!
+> **Translation:** The Gemara cites a discussion related to the topic of measurements. **Rav Ashi said: Ravin bar Ḥinnana said to me: The table of the Temple,** upon which the shewbread was placed, **was** comprised of assembled **parts. For if it should enter your mind** that the table **was firmly connected** and could not be taken apart, **how could** the priests **immerse a cubit in a cubit?** The dimensions of the table were two cubits by one cubit, with a height of one and a half cubits. If the table contracted ritual impurity, it had to be immersed in a ritual bath. If a ritual bath contains an area of one cubit by one cubit, the table can fit inside only if it is dismantled.
 
 Rav Ashi reports in the name of Ravin bar Chinena: *shulchan she-ba-Mikdash shel prakim hava* — the golden table in the Temple, upon which the *lechem ha-panim* was displayed, was constructed of detachable parts. It could be disassembled.
 
 ### Fitting Table
 
-> **Hebrew/Aramaic:** דְּאִי סָלְקָא דַּעְתָּךְ הַדּוֹקֵי הֲוָה מִיהַדַּק, אַמְּתָא בְּאַמְּתָא הֵיכִי מַטְבְּלֵיהּ?!
->
-> **Translation:** For if it should enter your mind** that the table **was firmly connected** and could not be taken apart, **how could** the priests **immerse a cubit in a cubit?** The dimensions of the table were two cubits by one cubit, with a height of one and a half cubits. If the table contracted ritual impurity, it had to be immersed in a ritual bath. If a ritual bath contains an area of one cubit by one cubit, the table can fit inside only if it is dismantled.
-
 The reasoning behind this conclusion is a question about immersion. The table's dimensions were two *amos* long by one *amah* wide by one *amah* and a half tall with its legs. If one needed to immerse it in a *mikvah* whose minimum dimensions are one *amah* by one *amah* by three *amos*, a table that is a full *amah* wide cannot be submerged in a *mikvah* that is exactly one *amah* across — there is simply no room to maneuver. This forces the conclusion that the table was disassembled before immersion — that it was made of *prakim*, separable components — so that each piece could fit.
 
 ### Sea of Shlomo
 
-> **Hebrew/Aramaic:** מַאי קוּשְׁיָא? דִּילְמָא בְּיָם שֶׁעָשָׂה שְׁלֹמֹה הֲוָה מַטְבֵּיל לֵיהּ. דְּתָנֵי רַבִּי חִיָּיא: יָם שֶׁעָשָׂה שְׁלֹמֹה מַחֲזִיק מֵאָה וַחֲמִשִּׁים מִקְוֵה טׇהֳרָה.
->
-> **Translation:** The Gemara responds: **What is the difficulty? Perhaps** the priest **would immerse it in the sea that** King **Solomon built,** which was a very wide ritual bath, as it states: "And he made the molten sea of ten cubits from brim to brim, round in compass" (I Kings 7:23). **As Rabbi Ḥiyya taught: The sea that Solomon built contained** the volume of water of **one hundred and fifty ritual purification baths.** It was certainly possible to immerse even large vessels in this sea.
+> **Hebrew/Aramaic:** מַאי קוּשְׁיָא? דִּילְמָא בְּיָם שֶׁעָשָׂה שְׁלֹמֹה הֲוָה מַטְבֵּיל לֵיהּ. דְּתָנֵי רַבִּי חִיָּיא: יָם שֶׁעָשָׂה שְׁלֹמֹה מַחֲזִיק מֵאָה וַחֲמִשִּׁים מִקְוֵה טׇהֳרָה.
+> **Translation:** The Gemara responds: **What is the difficulty? Perhaps** the priest **would immerse it in the sea that** King **Solomon built,** which was a very wide ritual bath, as it states: “And he made the molten sea of ten cubits from brim to brim, round in compass” (I Kings 7:23). **As Rabbi Ḥiyya taught: The sea that Solomon built contained** the volume of water of **one hundred and fifty ritual purification baths.** It was certainly possible to immerse even large vessels in this sea.
 
 The *gemara* challenges this reasoning: *mai kushya* — what is the difficulty? *Dilma be-yam she-asah Shlomo havai matbelei lei* — perhaps they immersed the table not in a minimum-sized *mikvah* at all, but in the *Yam shel Shlomo*, the great sea that King Solomon constructed in the Temple precincts, which had a circumference of thirty *amos* and a diameter of ten *amos*. As Rebbi Chiyya taught: *Yam she-asah Shlomo machzik me'ah va-chamishim mikveh taharah* — the sea that Solomon made could contain 150 ritual baths. Clearly, the Temple was not limited to a minimum-specification *mikvah*, and the table could have been immersed in this vast vessel without any difficulty of fit. The question about *prakim* therefore does not force the conclusion that the table was disassembled. This digression, though brief, reinforces the broader theme running through this section of the *gemara*: the measurements of the *revi'is*, the *mikvah*, and the Temple vessels are all part of an interlocking system of sacred dimensions rooted in the world of the *Mikdash*.
 
 ## Four Cups
 
-[DAF:109b]
+
+
 ### Pairs Danger
 
-> **Hebrew/Aramaic:** וְלֹא יִפְחֲתוּ לוֹ מֵאַרְבָּעָה. הֵיכִי מְתַקְּנִי רַבָּנַן מִידֵּי דְּאָתֵי בֵּהּ לִידֵי סַכָּנָה, וְהָתַנְיָא: לֹא יֹאכַל אָדָם תְּרֵי, וְלֹא יִשְׁתֶּה תְּרֵי, וְלֹא יְקַנַּח תְּרֵי, וְלֹא יַעֲשֶׂה צְרָכָיו תְּרֵי?
->
-> **Translation:** We learned in the mishna that even with regard to the poorest of Jews, the charity distributors should **not** give **him less than four** cups of wine. The Gemara asks: **How could the Sages establish a matter through which one will come to** expose himself to **danger? But wasn't it taught** in a *baraita*: **A person** should **not eat pairs,** i.e., an even number of food items; **and he** should **not drink pairs** of cups; **and he** should **not wipe himself with pairs; and he** should **not attend to his** sexual **needs in pairs.** The concern was that one who uses pairs exposes himself to sorcery or demons. Why would the Sages require one to drink an even number of cups and thereby place himself in a position of danger?
+> **Hebrew/Aramaic:** וְלֹא יִפְחֲתוּ לוֹ מֵאַרְבָּעָה. הֵיכִי מְתַקְּנִי רַבָּנַן מִידֵּי דְּאָתֵי בֵּהּ לִידֵי סַכָּנָה, וְהָתַנְיָא: לֹא יֹאכַל אָדָם תְּרֵי, וְלֹא יִשְׁתֶּה תְּרֵי, וְלֹא יְקַנַּח תְּרֵי, וְלֹא יַעֲשֶׂה צְרָכָיו תְּרֵי?
+> **Translation:** We learned in the mishna that even with regard to the poorest of Jews, the charity distributors should **not** give **him less than four** cups of wine. The Gemara asks: **How could the Sages establish a matter through which one will come to** expose himself to **danger? But wasn’t it taught** in a *baraita*: **A person** should **not eat pairs,** i.e., an even number of food items; **and he** should **not drink pairs** of cups; **and he** should **not wipe himself with pairs; and he** should **not attend to his** sexual **needs in pairs.** The concern was that one who uses pairs exposes himself to sorcery or demons. Why would the Sages require one to drink an even number of cups and thereby place himself in a position of danger?
 
 The *gemara* now addresses a different dimension of the four cups: the question of even numbers. The *mishnah* has stated *ve-lo yifchetu lo me-arba kosot* — one must be given no fewer than four cups. The *gemara* raises a striking challenge: *heichi matkini rabanan midi de-ati bah lidei sakanah* — how could the Rabbis institute something that brings one into danger?
 
@@ -216,24 +192,22 @@ The danger in question is the concern about *zugot* — pairs. A *baraisa* teach
 
 ### Night Watch
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, אָמַר קְרָא: ״לֵיל שִׁמּוּרִים״ — לַיִל הַמְשׁוּמָּר וּבָא מִן הַמַּזִּיקִין.
->
-> **Translation:** **Rav Naḥman said** that **the verse said: "It was a night of watching** to the Lord" (Exodus 12:42), which indicates that Passover night **is a night that remains guarded from** demons and **harmful spirits** of all kinds. Therefore, there is no cause for concern about this form of danger on this particular night.
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, אָמַר קְרָא: ״לֵיל שִׁמּוּרִים״ — לַיִל הַמְשׁוּמָּר וּבָא מִן הַמַּזִּיקִין.
+> **Translation:** **Rav Naḥman said** that **the verse said: “It was a night of watching** to the Lord” (Exodus 12:42), which indicates that Passover night **is a night that remains guarded from** demons and **harmful spirits** of all kinds. Therefore, there is no cause for concern about this form of danger on this particular night.
 
 Rav Nachman resolves the difficulty by citing the verse *leil shimurim* — "a night of watching" (Exodus 12:42). The night of Pesach is *leil ha-meshomar u-va min ha-mazikin* — a night already guarded against harmful forces. The four cups are therefore protected by the special sanctity and Divine protection that characterizes that night. Tosafot notes that this might seem obvious, raising the question of what the alternative position was. Tosafot suggests the distinction between *mazikin* — demons — on the one hand and *keshafim* — witchcraft — on the other: one might have thought the night's protection covers only demonic threats, while the vulnerability associated with pairs stems from witchcraft and remains operative.
 
 ### Kiddush Exempt
 
-> **Hebrew/Aramaic:** רָבָא אָמַר: כּוֹס שֶׁל בְּרָכָה מִצְטָרֵף לְטוֹבָה, וְאֵינוֹ מִצְטָרֵף לְרָעָה.
->
-> **Translation:** **Rava said** a different answer: **The cup of blessing** for Grace after Meals on Passover night is used in the performance of an additional mitzva and is not simply an expression of freedom. Therefore, **it combines** with the other cups **for the good,** i.e., to fulfill the mitzva to drink four cups, **and it does not combine for the bad.** With regard to the danger of drinking pairs of cups, it is as though one drinks only three cups.
-
 Rava offers a second resolution: *kos shel berachah mitztaref le-tovah ve-eino mitztaref le-ra'ah* — the *kos shel berachah*, which in this context refers specifically to the cup over which *birkat ha-mazon* is recited, counts positively toward the mitzvah but does not contribute to the negative counting of pairs. Because of its status as a *kos shel berachah*, it does not combine with the other cups to form a problematic even number.
+
+> **Hebrew/Aramaic:** רָבָא אָמַר: כּוֹס שֶׁל בְּרָכָה מִצְטָרֵף לְטוֹבָה, וְאֵינוֹ מִצְטָרֵף לְרָעָה. רָבִינָא אָמַר: אַרְבָּעָה כָּסֵי תַּקִּינוּ רַבָּנַן דֶּרֶךְ חֵירוּת, כׇּל חַד וְחַד
+> **Translation:** **Rava said** a different answer: **The cup of blessing** for Grace after Meals on Passover night is used in the performance of an additional mitzva and is not simply an expression of freedom. Therefore, **it combines** with the other cups **for the good,** i.e., to fulfill the mitzva to drink four cups, **and it does not combine for the bad.** With regard to the danger of drinking pairs of cups, it is as though one drinks only three cups. **Ravina said: The Sages instituted four** separate **cups,** each of which is consumed **in a manner** that demonstrates **freedom.** Therefore, **each and every one**
 
 ### Freedom & Each
 
-> **Hebrew/Aramaic:** רָבִינָא אָמַר: אַרְבָּעָה כָּסֵי תַּקִּינוּ רַבָּנַן דֶּרֶךְ חֵירוּת, כׇּל חַד וְחַד מִצְוָה בְּאַפֵּי נַפְשַׁהּ הוּא.
->
-> **Translation:** **Ravina said: The Sages instituted four** separate **cups,** each of which is consumed **in a manner** that demonstrates **freedom.** Therefore, **each and every one is a distinct mitzva** in its own right. In other words, each cup is treated separately and one is not considered to be drinking in pairs.
+
+> **Hebrew/Aramaic:** מִצְוָה בְּאַפֵּי נַפְשַׁהּ הוּא.
+> **Translation:** **is a distinct mitzva** in its own right. In other words, each cup is treated separately and one is not considered to be drinking in pairs.
 
 Ravina offers a third resolution: *arba kassi tikinu rabanan derech cheirut, kol chad ve-chad mitzvah be-apei nafshieh hu* — the Rabbis instituted four cups as an expression of *derech cheirut*, the way of freedom, and each individual cup constitutes its own independent mitzvah. On this view, the four cups are not a group of four that can be divided into two pairs of two; they are four discrete, separate obligations, each one standing alone. The number four is a product of four independent enactments, not a single enactment of the number four. Ravina's formulation is notable for a secondary implication as well: his statement that each cup is *mitzvah be-apei nafshieh* — an independent mitzvah in its own right — provides the clearest Talmudic basis for the position of those *rishonim* who hold that a separate *bracha* should be recited over each of the four cups.

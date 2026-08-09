@@ -54,7 +54,7 @@
           "timestamp": "09:21"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -559,5 +559,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "12:35",
+  "amud_b_micro_title": "Miracle Salvation",
+  "shiur_start_daf": 107,
+  "shiur_start_amud": "b"
 }

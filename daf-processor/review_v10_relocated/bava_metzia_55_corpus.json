@@ -1,0 +1,301 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Temura Exception",
+    "candidates": [
+      "R. Yehoshua ben Levi",
+      "Cow Exchange Rules",
+      "Explicit Valuation",
+      "Tosafot Analysis",
+      "Temura Exception",
+      "One-Sixth Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita that corroborates Rabbi Yehoshua ben Levi's position \u2014 item 1 establishes the cow/garment exchange rule and item 2 adds the explicit valuation case with the chomesh ruling \u2014 which is precisely what the 'R. Yehoshua ben Levi' prose describes as the foundational tanya k'vatei passage.",
+      "chosen_heading": "R. Yehoshua ben Levi",
+      "current_heading": "Temura Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "One-Sixth Rule",
+    "candidates": [
+      "Temura Exception",
+      "One-Sixth Rule",
+      "Modeh Bemiktzat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text introduces the ona'ah threshold, the ta'anah claim requirement, and the hoda'ah admission \u2014 exactly what the 'One-Sixth Rule' prose describes as the mishnah that opens the ona'ah discussion, making it the best match.",
+      "chosen_heading": "One-Sixth Rule",
+      "current_heading": "One-Sixth Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Modeh Bemiktzat",
+    "candidates": [
+      "Modeh Bemiktzat",
+      "No Ona'ah Below Isar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna enumerating the five perutot, the Gemara's question about the ona'ah rule already appearing earlier, and the Gemara's question about the ta'anah/hoda'ah already appearing in Shevuot \u2014 correspond precisely to the 'Modeh Bemiktzat' prose, which explicitly discusses chamesh perutot hen, the chain of reasoning starting from ona'ah, and the seifa itztricha lei answer regarding Shevuot.",
+      "chosen_heading": "Modeh Bemiktzat",
+      "current_heading": "Modeh Bemiktzat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "No Ona'ah Below Isar",
+    "candidates": [
+      "No Ona'ah Below Isar",
+      "Levi Disputes Kahana",
+      "The Five Prutot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Kahana's ruling that there is no ona'ah for perutot, which is precisely what the 'No Ona'ah Below Isar' section's prose explains.",
+      "chosen_heading": "No Ona'ah Below Isar",
+      "current_heading": "No Ona'ah Below Isar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "The Five Prutot",
+    "candidates": [
+      "Levi Disputes Kahana",
+      "The Five Prutot",
+      "Rav Katina Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Levi Disputes Kahana",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 present Levi's dispute with the tanna of our Mishna regarding the five perutot list, comparing Levi's version with the Mishna's version \u2014 matching candidate 0 'Levi Disputes Kahana' which describes exactly this comparison between Levi's baraita and the Mishna's list.",
+      "second_heading": "Rav Katina Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rav Katina's position that a court adjudicates even below a prutah, which is precisely what candidate 2 'Rav Katina Exception' describes as the chidush of Levi listing yeshivas hadayanim \u2014 laapokei mid'Rav Katina.",
+      "current_heading": "The Five Prutot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Rav Katina Exception",
+    "candidates": [
+      "The Five Prutot",
+      "Rav Katina Exception",
+      "Meila Below Prutah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss why *hekdesh* (consecrated property) and second tithe are or are not included in the *prutah* enumeration, which directly matches the 'Meila Below Prutah' section's prose about the *me'ilah* threshold, the distinction between sacred and non-sacred property, and the question of what triggers repayment obligations for *hekdesh*.",
+      "chosen_heading": "Meila Below Prutah",
+      "current_heading": "Rav Katina Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Meila Below Prutah",
+    "candidates": [
+      "Meila Below Prutah",
+      "Opening vs. Ending Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's discussion of Rav Ketina's ruling and the baraita about restitution for hekdesh below a prutah, which is precisely the content described in the 'Meila Below Prutah' prose \u2014 including the lekodesh/lehedyot distinction that prose explicitly quotes and analyzes.",
+      "chosen_heading": "Meila Below Prutah",
+      "current_heading": "Meila Below Prutah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Opening vs. Ending Case",
+    "candidates": [
+      "Opening vs. Ending Case",
+      "Sacred Foods",
+      "Neta Revai Rules",
+      "Meila & Oath",
+      "Hekdesh Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Ketina's ruling about opening vs. concluding a case with respect to the prutah threshold, which is exactly what the prose under 'Opening vs. Ending Case' describes and analyzes.",
+      "chosen_heading": "Opening vs. Ending Case",
+      "current_heading": "Opening vs. Ending Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Hekdesh Redemption",
+    "candidates": [
+      "Sacred Foods",
+      "Neta Revai Rules",
+      "Meila & Oath",
+      "Hekdesh Redemption",
+      "R. Elazar Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself enumerating all five chomesh categories, and candidate 0 ('Sacred Foods') is the section whose prose introduces and begins explaining this very mishna with 'chamisha chumshin hen,' making it the natural home for the mishna text before the subsequent sections break down individual categories.",
+      "chosen_heading": "Sacred Foods",
+      "current_heading": "Hekdesh Redemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "R. Elazar Question",
+    "candidates": [
+      "Hekdesh Redemption",
+      "R. Elazar Question",
+      "R. Meir Stringency",
+      "Get Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's question about Rabbi Elazar's difficulty with terumat ma'aser shel demai and whether the Sages reinforced their enactments to Torah-level stringency, which is precisely what the 'R. Elazar Question' prose section discusses in detail.",
+      "chosen_heading": "R. Elazar Question",
+      "current_heading": "R. Elazar Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Get Precedent",
+    "candidates": [
+      "R. Meir Stringency",
+      "Get Precedent",
+      "Rav Sheshet Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about the get agent who failed to say 'bifnai nichtav,' Rabbi Meir's ruling of mamzerut, the Rabbis' disagreement, the remedy of re-delivery, and Rabbi Meir's consistent formula-deviation principle \u2014 all of which are precisely what candidate 1 ('Get Precedent') describes in its prose.",
+      "chosen_heading": "Get Precedent",
+      "current_heading": "Get Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav Sheshet Query",
+    "candidates": [
+      "Rav Sheshet Query",
+      "Mixed Coin Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's objection from the mishna about desacralizing demai coins and produce, which is precisely what the 'Rav Sheshet Query' prose describes as the challenge to Rabbi Meir's attribution.",
+      "chosen_heading": "Rav Sheshet Query",
+      "current_heading": "Rav Sheshet Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Mixed Coin Transfer",
+    "candidates": [
+      "Mixed Coin Transfer",
+      "R. Meir Strict/Lenient",
+      "Eating vs. Pidyon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the mishnah about mixed ma'aser sheni/chullin coins and the principle that redeeming silver onto copper is only permitted midochek, which is precisely what the 'Mixed Coin Transfer' prose describes in detail.",
+      "chosen_heading": "Mixed Coin Transfer",
+      "current_heading": "Mixed Coin Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Eating vs. Pidyon",
+    "candidates": [
+      "R. Meir Strict/Lenient",
+      "Eating vs. Pidyon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Yosef's resolution distinguishing Rabbi Meir's leniency in pidyon from his stringency in eating, along with the supporting baraita about the wholesaler/homeowner \u2014 exactly the content described in the 'Eating vs. Pidyon' prose.",
+      "chosen_heading": "Eating vs. Pidyon",
+      "current_heading": "Eating vs. Pidyon",
+      "moved": false
+    }
+  }
+]

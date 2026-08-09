@@ -1,0 +1,552 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yerovam Name Play",
+    "candidates": [
+      "Previous Topics",
+      "Second Mishnah Intro",
+      "Three Kings Focus",
+      "Yerovam Name Play",
+      "Ben Nevat Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the etymological plays on Yerovam's name and the ben Nevat patronymic explanation, which matches heading 3 ('Yerovam Name Play') whose prose describes precisely these three name-derivations and the ben Nevat explanation, while heading 4 covers additional material about Nevat/Micha/Sheva ben Bichri that is not present in this passage.",
+      "chosen_heading": "Yerovam Name Play",
+      "current_heading": "Yerovam Name Play",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Ben Nevat Names",
+    "candidates": [
+      "Ben Nevat Names",
+      "Three Who Saw"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita identifying Nebat, Micah, and Sheba ben Bichri as the same person is precisely what the 'Ben Nevat Names' prose describes and analyzes.",
+      "chosen_heading": "Ben Nevat Names",
+      "current_heading": "Ben Nevat Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Three Who Saw",
+    "candidates": [
+      "Three Who Saw",
+      "Nevat Fire Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about three who 'looked but did not see,' which is exactly what the 'Three Who Saw' section's prose describes.",
+      "chosen_heading": "Three Who Saw",
+      "current_heading": "Three Who Saw",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Nevat Fire Vision",
+    "candidates": [
+      "Nevat Fire Vision",
+      "Achitophel Leprosy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Nebat's vision of fire from his body and his mistaken interpretation about his own kingship versus Jeroboam's, which matches exactly the 'Nevat Fire Vision' prose.",
+      "chosen_heading": "Nevat Fire Vision",
+      "current_heading": "Nevat Fire Vision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Achitophel Leprosy",
+    "candidates": [
+      "Achitophel Leprosy",
+      "Astrologers Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ahithophel seeing leprosy on his penis and mistakenly thinking he would rule, which matches exactly the 'Achitophel Leprosy' section's prose about tzara'at and Bat-Sheva/Solomon.",
+      "chosen_heading": "Achitophel Leprosy",
+      "current_heading": "Achitophel Leprosy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Astrologers Vision",
+    "candidates": [
+      "Astrologers Vision",
+      "Biblical Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the astrologers of Pharaoh seeing a vision about water and their error regarding the waters of Merivah, which is precisely what the 'Astrologers Vision' section prose describes.",
+      "chosen_heading": "Astrologers Vision",
+      "current_heading": "Astrologers Vision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Biblical Proof",
+    "candidates": [
+      "Biblical Proof",
+      "Yerovam Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the biblical proof that Jeroboam has no portion in the World-to-Come, which is exactly what the 'Biblical Proof' section's prose describes.",
+      "chosen_heading": "Biblical Proof",
+      "current_heading": "Biblical Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Yerovam Merit",
+    "candidates": [
+      "Yerovam Merit",
+      "Seeds Downfall",
+      "Jerusalem Fear",
+      "Azarah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Jeroboam merited kingship (rebuking Solomon) and why he was punished (rebuking him in public), with the specific detail about the Millo and Bat Pharaoh \u2014 all of which is precisely what the 'Yerovam Merit' prose discusses.",
+      "chosen_heading": "Yerovam Merit",
+      "current_heading": "Yerovam Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Azarah Status",
+    "candidates": [
+      "Seeds Downfall",
+      "Jerusalem Fear",
+      "Azarah Status",
+      "Golden Calves",
+      "Manipulation Deception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Jerusalem Fear",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rav Nachman's teaching about Jeroboam's arrogance and his fear that pilgrims going to Jerusalem would return loyalty to Rehoboam, which matches the 'Jerusalem Fear' prose exactly.",
+      "second_heading": "Azarah Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the Azarah sitting tradition and Jeroboam's calculation about being seen standing while Rehoboam sat, which is precisely what the 'Azarah Status' prose discusses.",
+      "current_heading": "Azarah Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Manipulation Deception",
+    "candidates": [
+      "Golden Calves",
+      "Manipulation Deception",
+      "Achiya Signed",
+      "Yehu Yerovam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mechanism of Yerovam seating a wicked person alongside a righteous person to manipulate consent \u2014 the precise content discussed in the 'Manipulation Deception' section's prose.",
+      "chosen_heading": "Manipulation Deception",
+      "current_heading": "Manipulation Deception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Yehu Yerovam",
+    "candidates": [
+      "Achiya Signed",
+      "Yehu Yerovam",
+      "Times Places Trouble",
+      "Shechem Disasters",
+      "New Cloak",
+      "Field Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Jehu's righteousness, what caused his sin (Abaye and Rava's dispute), and the Hosea verse about decrees deeper than God's \u2014 are explicitly covered in the 'Yehu Yerovam' prose, which is exactly where the passage currently sits.",
+      "chosen_heading": "Yehu Yerovam",
+      "current_heading": "Yehu Yerovam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Field Alone",
+    "candidates": [
+      "Times Places Trouble",
+      "Shechem Disasters",
+      "New Cloak",
+      "Field Alone",
+      "Gold Complaint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All ten items cover the topics discussed in the 'Field Alone' section prose: the two alone in the field, the Micah verse about Moreshet Gath/Achzib, the blessing-thief compared to Jeroboam, and Jeroboam driving Israel away \u2014 exactly the sequence described in candidate 3's prose.",
+      "chosen_heading": "Field Alone",
+      "current_heading": "Field Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Gold Complaint",
+    "candidates": [
+      "Gold Complaint",
+      "One Calf Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'Di Zahav' interpretation and the lion/meat parable about excess wealth causing the Golden Calf sin, which exactly matches the prose under heading 0 ('Gold Complaint').",
+      "chosen_heading": "Gold Complaint",
+      "current_heading": "Gold Complaint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "One Calf Two",
+    "candidates": [
+      "One Calf Two",
+      "Twenty-Fourth",
+      "24 Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Oshaya's statement about one/two/three calves AND Rabbi Yitzchak's statement about the twenty-fourth, and heading 0 'One Calf Two' is the current placement that covers the first statement, while the passage as a whole unit (both items together) fits best under the current heading since both statements appear together in the Gemara as a continuous unit discussing the calf sin's ongoing consequences.",
+      "chosen_heading": "One Calf Two",
+      "current_heading": "One Calf Two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "24 Generations",
+    "candidates": [
+      "Twenty-Fourth",
+      "24 Generations",
+      "Teshuva Gan Eden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rabbi \u1e24anina and the twenty-four generations until the debt was collected matches exactly the prose under '24 Generations', which explicitly discusses this statement and the Yechezkel verse.",
+      "chosen_heading": "24 Generations",
+      "current_heading": "24 Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Teshuva Gan Eden",
+    "candidates": [
+      "Teshuva Gan Eden",
+      "Pride Rejection",
+      "Abbahu Sickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers God's offer to Jeroboam to stroll in the Garden of Eden, which is precisely what heading 0 ('Teshuva Gan Eden') discusses, while the response/rejection ('mi be-rosh') is handled separately under heading 1.",
+      "chosen_heading": "Teshuva Gan Eden",
+      "current_heading": "Teshuva Gan Eden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Abbahu Sickness",
+    "candidates": [
+      "Pride Rejection",
+      "Abbahu Sickness",
+      "Rav Ashi Plan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Abbahu story about lecturing on the three kings, falling ill, recovering, and resuming \u2014 which is precisely what the 'Abbahu Sickness' prose describes in full detail.",
+      "chosen_heading": "Abbahu Sickness",
+      "current_heading": "Abbahu Sickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rav Ashi Plan",
+    "candidates": [
+      "Rav Ashi Plan",
+      "Menashe Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's plan to study the three kings, his collegial remark, and Manashe's initial angry response in the dream \u2014 exactly what the 'Rav Ashi Plan' prose describes, ending with 'That night, Menashe appeared to him in a dream.'",
+      "chosen_heading": "Rav Ashi Plan",
+      "current_heading": "Rav Ashi Plan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Menashe Challenge",
+    "candidates": [
+      "Menashe Challenge",
+      "Seduction Defense",
+      "Colleagues Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the exchange about where to cut the bread for ha-motzi, Rav Ashi's admission of ignorance, his request to be taught, and Menashe's answer about cutting from where it crusts \u2014 all of which is precisely what the 'Menashe Challenge' prose section discusses.",
+      "chosen_heading": "Menashe Challenge",
+      "current_heading": "Menashe Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Colleagues Rabbis",
+    "candidates": [
+      "Seduction Defense",
+      "Colleagues Rabbis",
+      "Achav Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Menashe's 'seduction defense' (i havit hatam...) AND the next-day announcement (niftach be-ravvata), and candidate 0's prose explicitly discusses both elements together as a unified unit, making it the better home than candidate 1 which only discusses the ravvata announcement in isolation.",
+      "chosen_heading": "Seduction Defense",
+      "current_heading": "Colleagues Rabbis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Achav Names",
+    "candidates": [
+      "Colleagues Rabbis",
+      "Achav Names",
+      "Achav Worse",
+      "Every Furrow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the name-play on Achav's name (ach la-shamayim, av la-avodat zara) with the exact proof texts mentioned in the 'Achav Names' prose section.",
+      "chosen_heading": "Achav Names",
+      "current_heading": "Achav Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Every Furrow",
+    "candidates": [
+      "Achav Worse",
+      "Every Furrow",
+      "Mashtin Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the comparison of Ahab's minor sins to Jeroboam's major sins AND the furrow statement, matching heading 0's prose which discusses both points together, while heading 1 only covers the furrow portion \u2014 the full passage belongs under 'Achav Worse' which addresses the complete unit.",
+      "chosen_heading": "Achav Worse",
+      "current_heading": "Every Furrow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Mashtin Proof",
+    "candidates": [
+      "Every Furrow",
+      "Mashtin Proof",
+      "Omri City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's derivation that Ahab has no portion in the World-to-Come from the verse about 'shut up' and 'abandoned,' which is exactly what the 'Mashtin Proof' section's prose describes.",
+      "chosen_heading": "Mashtin Proof",
+      "current_heading": "Mashtin Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Omri City",
+    "candidates": [
+      "Omri City",
+      "Achav Torah",
+      "Sefer Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement about Omri meriting kingship for adding one city (Samaria) to Eretz Yisrael, which exactly matches the 'Omri City' section's prose.",
+      "chosen_heading": "Omri City",
+      "current_heading": "Omri City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Sefer Torah",
+    "candidates": [
+      "Achav Torah",
+      "Sefer Torah",
+      "Beinoni Status",
+      "Seduction Proof",
+      "Sold Evil",
+      "Izevel Gold",
+      "Tzedakah Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the Gemara's discussion of why Ahab merited twenty-two years of kingship through honoring the Torah \u2014 exactly what heading 0 ('Achav Torah') describes, while heading 1 ('Sefer Torah') is the prose summary of this same passage and is currently where it sits, but the heading label and prose of index 0 is the better topical home since it introduces the question and the twenty-two letter reasoning that frames the entire unit.",
+      "chosen_heading": "Achav Torah",
+      "current_heading": "Sefer Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Tzedakah Half",
+    "candidates": [
+      "Beinoni Status",
+      "Seduction Proof",
+      "Sold Evil",
+      "Izevel Gold",
+      "Tzedakah Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire arc from Rav Na\u1e25man's 'balanced' claim through Rav Yosef's objection and the final resolution about tzedakah, so it belongs under the opening 'Beinoni Status' heading that introduces the whole discussion rather than being split across or placed only under the resolution heading.",
+      "chosen_heading": "Beinoni Status",
+      "current_heading": "Tzedakah Half",
+      "moved": true
+    }
+  }
+]

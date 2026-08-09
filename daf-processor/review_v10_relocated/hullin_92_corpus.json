@@ -1,0 +1,417 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "License & Holiness",
+    "candidates": [
+      "Shema vs. Kadosh",
+      "Ophanim Hierarchy",
+      "License & Holiness",
+      "Ambiguous Pronouns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the ofanim answer and the 'once permission is given' alternative answer, and candidate 1 ('Ophanim Hierarchy') explicitly discusses both the ofanim distinction and references the alternative answer, making it a clearly better match than candidate 2 which covers only the alternative answer.",
+      "chosen_heading": "Ophanim Hierarchy",
+      "current_heading": "License & Holiness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Ambiguous Pronouns",
+    "candidates": [
+      "License & Holiness",
+      "Ambiguous Pronouns",
+      "Jacob as Sar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the ambiguity of who prevailed over whom in the Hosea verse, which matches precisely the 'Ambiguous Pronouns' section's prose about *eini yodea mi nasa sar l'mi* \u2014 the current placement is correct.",
+      "chosen_heading": "Ambiguous Pronouns",
+      "current_heading": "Ambiguous Pronouns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Jacob as Sar",
+    "candidates": [
+      "Jacob as Sar",
+      "Two Princes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the ambiguity of who wept and who supplicated in Hosea, resolving it to show the angel cried to Jacob \u2014 exactly what the prose under 'Jacob as Sar' discusses with the phrase 'eini yodea mi bacha l'mi' and 'vayomer shalcheni'.",
+      "chosen_heading": "Jacob as Sar",
+      "current_heading": "Jacob as Sar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Two Princes",
+    "candidates": [
+      "Two Princes",
+      "Religious Authority",
+      "Sarei Ge'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabba's interpretation that two princes (Exilarch in Babylonia and Nasi in Eretz Yisrael) would emerge from Jacob, with exile hinted \u2014 exactly what the 'Two Princes' section prose describes.",
+      "chosen_heading": "Two Princes",
+      "current_heading": "Two Princes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Sarei Ge'im",
+    "candidates": [
+      "Religious Authority",
+      "Sarei Ge'im",
+      "Sarei Goyim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the interpretation of 'sarigim' as 'sarei ge'im' (proud princes) from Israel in each generation, matching exactly the prose of candidate 1.",
+      "chosen_heading": "Sarei Ge'im",
+      "current_heading": "Sarei Ge'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Sarei Goyim",
+    "candidates": [
+      "Sarei Goyim",
+      "Avos & Imahos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about sarei goyim who plead merit for Israel, which directly matches the prose under heading 0 that discusses exactly this interpretation.",
+      "chosen_heading": "Sarei Goyim",
+      "current_heading": "Sarei Goyim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Avos & Imahos",
+    "candidates": [
+      "Avos & Imahos",
+      "Future vs. Past"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's interpretation identifying the vine as the world, the three branches as the avos, the blossoming as the imahos, and the grapes as the tribes \u2014 exactly what the 'Avos & Imahos' prose describes.",
+      "chosen_heading": "Avos & Imahos",
+      "current_heading": "Avos & Imahos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Future vs. Past",
+    "candidates": [
+      "Future vs. Past",
+      "Jerusalem Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua's argument that dreams show only the future (not the past) and his interpretation of the vine as Torah with Moses/Aaron/Miriam/Sanhedrin/tzaddikim, which is precisely what the 'Future vs. Past' section's prose describes in detail.",
+      "chosen_heading": "Future vs. Past",
+      "current_heading": "Future vs. Past",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Jerusalem Focus",
+    "candidates": [
+      "Jerusalem Focus",
+      "Desert Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabban Gamliel's remark about Rabbi Elazar HaModa'i and HaModa'i's interpretation placing all phrases in one location (Jerusalem, Temple, king, High Priest, young priests, wine libations), which is precisely what the 'Jerusalem Focus' prose discusses in detail.",
+      "chosen_heading": "Jerusalem Focus",
+      "current_heading": "Jerusalem Focus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Desert Gifts",
+    "candidates": [
+      "Desert Gifts",
+      "Egypt & Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua ben Levi's interpretation of the vine imagery as referring to Torah, the well/pillar of cloud/manna, first fruits, and wine libations \u2014 exactly the content discussed in the 'Desert Gifts' section prose.",
+      "chosen_heading": "Desert Gifts",
+      "current_heading": "Desert Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Egypt & Redemption",
+    "candidates": [
+      "Egypt & Redemption",
+      "Three Cups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yirmeya bar Abba's full interpretation of the vine dream through the Exodus lens \u2014 the vine as Israel, three branches as pilgrimage festivals, blossoming as fruitfulness and redemption \u2014 which is precisely what candidate 0 ('Egypt & Redemption') describes in its prose, including the specific verses and connections cited.",
+      "chosen_heading": "Egypt & Redemption",
+      "current_heading": "Egypt & Redemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Three Cups",
+    "candidates": [
+      "Three Cups",
+      "Nation Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Three Cups' section prose, which explicitly describes Rava's teaching about the three cups of Egypt's punishment and concludes by noting that Rav Abba confirmed to Rabbi Yirmiyah bar Abba that Rav's interpretation matched this one exactly.",
+      "chosen_heading": "Three Cups",
+      "current_heading": "Three Cups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Nation Structure",
+    "candidates": [
+      "Nation Structure",
+      "Leaves Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon ben Lakish's comparison of the nation to a vine with its internal hierarchy (branches=homeowners, clusters=Torah scholars, leaves=ignoramuses, tendrils=empty ones), which is exactly what the 'Nation Structure' prose elaborates upon in detail.",
+      "chosen_heading": "Nation Structure",
+      "current_heading": "Nation Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Leaves Support",
+    "candidates": [
+      "Leaves Support",
+      "15th of Nisan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the instruction about clusters praying for leaves, which is precisely what the 'Leaves Support' section's prose discusses and explicates.",
+      "chosen_heading": "Leaves Support",
+      "current_heading": "Leaves Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "15th of Nisan",
+    "candidates": [
+      "15th of Nisan",
+      "45 Righteous",
+      "Tuti Afsa",
+      "Zechariah Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the verse from Hosea 3:2 \u2014 Rabbi Yo\u1e25anan's derivation that 'kira' means purchase, and then his interpretation that 'fifteen' refers to the fifteenth of Nisan and 'silver' refers to the righteous \u2014 exactly matching the prose under heading 0 ('15th of Nisan').",
+      "chosen_heading": "15th of Nisan",
+      "current_heading": "15th of Nisan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Zechariah Vision",
+    "candidates": [
+      "45 Righteous",
+      "Tuti Afsa",
+      "Zechariah Vision",
+      "Thirty Righteous",
+      "Bnei Noach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the 45 righteous (the homer/letech passage and Abaye's location of the Babylonian 15 in the Tuti Afsa synagogue), which the prose under heading 0 ('45 Righteous') explicitly covers, including the two-to-one ratio between Israel and Bavel and the verse from Zechariah used to resolve the distribution \u2014 matching the content of both items precisely.",
+      "chosen_heading": "45 Righteous",
+      "current_heading": "Zechariah Vision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Bnei Noach",
+    "candidates": [
+      "Thirty Righteous",
+      "Bnei Noach",
+      "Birds Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yehuda's view and Ulla's view about the thirty, with the three mitzvot bnei Noach they keep \u2014 exactly the content described in the 'Bnei Noach' prose, which is the current placement.",
+      "chosen_heading": "Bnei Noach",
+      "current_heading": "Bnei Noach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Birds Exception",
+    "candidates": [
+      "Birds Exception",
+      "Fetus Debate",
+      "Meir vs. Yehuda",
+      "Fat Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the bird exception to gid hanasheh \u2014 the rounded thigh requirement and Rabbi Yirmiyah's dilemma about individual vs. species anatomy \u2014 which is precisely what the 'Birds Exception' prose describes in detail.",
+      "chosen_heading": "Birds Exception",
+      "current_heading": "Birds Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Fat Status",
+    "candidates": [
+      "Fetus Debate",
+      "Meir vs. Yehuda",
+      "Fat Status",
+      "No Taste Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Fetus Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss Shmuel's statement about the fat being permitted for everyone, the challenge about the fetus's fat, and the Rabbi Meir/Rabbi Yehuda dispute about the fetus \u2014 all matching the 'Fetus Debate' prose perfectly.",
+      "second_heading": "Meir vs. Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 shift to the fat of the sciatic nerve itself (chelbo de-gid), the scraping dispute, and the rabbinic vs. Torah-law status of that fat \u2014 matching the 'Meir vs. Yehuda' prose which explicitly discusses mechateit, shuman, and the fat surrounding the gid hanasheh.",
+      "current_heading": "Fat Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "No Taste Issue",
+    "candidates": [
+      "Fat Status",
+      "No Taste Issue",
+      "Main Sinew"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Taste Issue",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's view that the Torah only prohibited the knoknot (branches) because the main gid is tasteless like wood, and Ulla's counter that the Torah obligated it anyway \u2014 exactly what the 'No Taste Issue' prose describes.",
+      "second_heading": "Main Sinew",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's argument siding with Ulla using the chelev/chutin analogy to conclude the Torah means the main gid not the knoknot \u2014 exactly what the 'Main Sinew' prose describes as Abaye's resolution and its implications.",
+      "current_heading": "No Taste Issue",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Question Posed",
+      "Maaser Sheni Status",
+      "Types of Maaser",
+      "Maaser Sheni Laws",
+      "Kal Vachomer Analysis",
+      "Rav Sheshet Answers",
+      "Mishna Introduction",
+      "Bikkurim Hybridity",
+      "Mita & Chomesh",
+      "Property Rights",
+      "Maaser Restriction",
+      "Bittul Ratios",
+      "Hand Washing",
+      "Tumah Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the exact question and the kal vachomer objection (chamir mikal yalif, kal michamir lo yalif) that candidate 4 ('Kal Vachomer Analysis') explicitly discusses in its prose.",
+      "chosen_heading": "Kal Vachomer Analysis",
+      "current_heading": "Question Posed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Tumah Levels",
+    "candidates": [
+      "Maaser Sheni Status",
+      "Types of Maaser",
+      "Maaser Sheni Laws",
+      "Kal Vachomer Analysis",
+      "Rav Sheshet Answers",
+      "Mishna Introduction",
+      "Bikkurim Hybridity",
+      "Mita & Chomesh",
+      "Property Rights",
+      "Maaser Restriction",
+      "Bittul Ratios",
+      "Hand Washing",
+      "Tumah Levels",
+      "Burning When Tamei",
+      "Arel Absence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Sheshet's response \u2014 he cites the mishna in Bikkurim (items 1-2) and then draws his inference from its silence about arel (item 3) \u2014 which is precisely what heading 4 ('Rav Sheshet Answers') describes.",
+      "chosen_heading": "Rav Sheshet Answers",
+      "current_heading": "Tumah Levels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Arel Absence",
+    "candidates": [
+      "Burning When Tamei",
+      "Arel Absence",
+      "Second List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the tana veshayar exchange and the uma'i shayar question described in the 'Arel Absence' prose, which explicitly discusses this gemara response and its follow-up question.",
+      "chosen_heading": "Arel Absence",
+      "current_heading": "Arel Absence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Second List",
+    "candidates": [
+      "Second List",
+      "Omitted Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's answer pointing to the seifa listing the ways ma'aser sheni and bikkurim differ from terumah (place, declaration, onen, biur), which is precisely what the 'Second List' prose describes.",
+      "chosen_heading": "Second List",
+      "current_heading": "Second List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Omitted Items",
+    "candidates": [
+      "Omitted Items",
+      "Inference Prevention",
+      "Pasuk Linkage",
+      "Tanna Kamma Onen",
+      "Rabbi Shimon Onen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Omitted Items",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the omitted distinctions (burning in impurity, lashes for eating impure ma'aser sheni) that prove the mishna's list is non-exhaustive, which matches exactly the 'Omitted Items' prose.",
+      "second_heading": "Pasuk Linkage",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins a new unit with '\u00a7 Having cited the mishna, the Gemara proceeds to discuss it' and derives the onen prohibition for bikkurim from the pasuk linkage, matching the 'Pasuk Linkage' prose about lo tuchal le'echol bish'arecha and terumat yadecha elu bikkurim.",
+      "current_heading": "Omitted Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rabbi Shimon Onen",
+    "candidates": [
+      "Inference Prevention",
+      "Pasuk Linkage",
+      "Tanna Kamma Onen",
+      "Rabbi Shimon Onen",
+      "Biur Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's argument that since the Merciful One calls bikkurim 'teruma,' bikkurim follows teruma's leniency for an onen, which is precisely what the 'Rabbi Shimon Onen' section's prose describes.",
+      "chosen_heading": "Rabbi Shimon Onen",
+      "current_heading": "Rabbi Shimon Onen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Biur Debate",
+    "candidates": [
+      "Biur Debate",
+      "Lo Ba'arti Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the biur (eradication) dispute between the Rabbis and Rabbi Shimon regarding bikkurim, which is precisely what the 'Biur Debate' section's prose describes.",
+      "chosen_heading": "Biur Debate",
+      "current_heading": "Biur Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Lo Ba'arti Meaning",
+    "candidates": [
+      "Lo Ba'arti Meaning",
+      "Tumah Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon's baraita expounding 'lo bi'arti mimennu betamei' covering both scenarios (I was tamei/it was tahor; I was tahor/it was tamei), which is precisely what the 'Lo Ba'arti Meaning' prose describes.",
+      "chosen_heading": "Lo Ba'arti Meaning",
+      "current_heading": "Lo Ba'arti Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Tumah Types",
+    "candidates": [
+      "Tumah Types",
+      "Eating Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita's question about where one is warned against eating ma'aser in a state of impurity and the gemara's interjection citing the explicit verse about tumat haguf, which is precisely what the 'Tumah Types' prose describes.",
+      "chosen_heading": "Tumah Types",
+      "current_heading": "Tumah Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Eating Restriction",
+    "candidates": [
+      "Eating Restriction",
+      "Terumah Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation that ma'aser sheni itself in a state of ritual impurity may not be eaten, using the exact verses and Rabbi Yishmael school teaching described in the 'Eating Restriction' prose.",
+      "chosen_heading": "Eating Restriction",
+      "current_heading": "Eating Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Terumah Contrast",
+    "candidates": [
+      "Terumah Contrast",
+      "KV Objection",
+      "Counter KV",
+      "Mimenu Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives the terumah contrast from Rabbi Abbahu/Rabbi Yochanan's interpretation of 'mimennu,' which is precisely what the 'Terumah Contrast' section's prose describes.",
+      "chosen_heading": "Terumah Contrast",
+      "current_heading": "Terumah Contrast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Mimenu Exclusion",
+    "candidates": [
+      "KV Objection",
+      "Counter KV",
+      "Mimenu Exclusion",
+      "Weighting Logic",
+      "Kodashim Weights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 raises the kal vachomer objection that kodshim cannot be burned when tamei, and Item 2 immediately counters that terumah would also be caught by the same kal vachomer \u2014 then notes 'mimennu' as the answer, which is precisely what Candidate 1 ('Counter KV') describes: if ma'aser cannot be burned, terumah cannot either via kal vachomer, with mimennu providing the exclusion.",
+      "chosen_heading": "Counter KV",
+      "current_heading": "Mimenu Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Kodashim Weights",
+    "candidates": [
+      "Weighting Logic",
+      "Kodashim Weights",
+      "Terumah Weights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the mnemonic for the stringencies of kodashim (peh-nun-kuf-ayin-kaf-samekh / pinkhas) and enumerate them, which is exactly what the 'Kodashim Weights' prose section describes.",
+      "chosen_heading": "Kodashim Weights",
+      "current_heading": "Kodashim Weights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Terumah Weights",
+    "candidates": [
+      "Terumah Weights",
+      "Kares Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the counterargument about terumah's stringencies (the machpaz mnemonic), which is exactly what the 'Terumah Weights' section prose describes.",
+      "chosen_heading": "Terumah Weights",
+      "current_heading": "Terumah Weights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Kares Priority",
+    "candidates": [
+      "Kares Priority",
+      "Rav Ashi's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents both resolutions \u2014 the quantitative 'hanech nefishan' and the qualitative 'kares adifa' \u2014 which is precisely what the 'Kares Priority' prose section discusses.",
+      "chosen_heading": "Kares Priority",
+      "current_heading": "Kares Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Rav Ashi's Proof",
+    "candidates": [
+      "Rav Ashi's Proof",
+      "Baraita Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items belong to Rav Ashi's proof: item 1 establishes the background about teruma/lashes, item 2 is Rav Ashi's opening statement that the first part of the mishna also shows the tanna omitted things, and item 3 gives the specific omitted distinctions (years of the cycle, no redemption) that Rav Ashi cites \u2014 exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Rav Ashi's Proof",
+      "current_heading": "Rav Ashi's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Baraita Text",
+    "candidates": [
+      "Baraita Text",
+      "Maaser Behema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the baraita's content and the initial gemara question/deflection about ma'aser dagan vs. ma'aser behema, which is precisely what the 'Baraita Text' prose describes, including the gemara's question 'does this not mean ma'aser of grain.'",
+      "chosen_heading": "Baraita Text",
+      "current_heading": "Baraita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Maaser Behema",
+    "candidates": [
+      "Maaser Behema",
+      "Maaser Rishon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the counter-argument about Pesach being mentioned alongside kodshim (mi lo tenan Pesach vetani kodshim), which is precisely what the 'Maaser Rishon' section's prose describes, not the initial deflection about ma'aser behemah being kodshim.",
+      "chosen_heading": "Maaser Rishon",
+      "current_heading": "Maaser Behema",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Maaser Rishon",
+    "candidates": [
+      "Maaser Behema",
+      "Maaser Rishon",
+      "Rabbi Meir View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the gemara's analysis of why both Pesach and kodshim must be mentioned separately in the baraita, which is precisely what the 'Maaser Rishon' section's prose describes as the mirror analogy used to highlight the redundancy of ma'aser behemah.",
+      "chosen_heading": "Maaser Rishon",
+      "current_heading": "Maaser Rishon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Rabbi Meir View",
+    "candidates": [
+      "Rabbi Meir View",
+      "Inconclusive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's suggestion that the baraita refers to first tithe per Rabbi Meir's view, which is precisely what the 'Rabbi Meir View' prose section describes.",
+      "chosen_heading": "Rabbi Meir View",
+      "current_heading": "Rabbi Meir View",
+      "moved": false
+    }
+  }
+]

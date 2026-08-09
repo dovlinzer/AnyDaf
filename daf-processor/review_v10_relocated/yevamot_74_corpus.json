@@ -1,0 +1,542 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two Maasrot",
+    "candidates": [
+      "Two Maasrot",
+      "Chiya Bar Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Gemara's reinterpretation of the baraita as referring to maaser rishon per Rabbi Meir's opinion, which is the specific content described in the 'Two Maasrot' section's prose.",
+      "chosen_heading": "Two Maasrot",
+      "current_heading": "Two Maasrot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Chiya Bar Rav",
+    "candidates": [
+      "Chiya Bar Rav",
+      "Maaser Rishon Defense",
+      "Maaser Rishon Again",
+      "Onen Pattern",
+      "Onen Rules",
+      "Tosafot Onen",
+      "Onen Logic",
+      "Tvul Yom Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita from Rabbi \u1e24iyya bar Rav of Difti and the initial challenge (two tithes = grain + animal), which is exactly what heading 0's prose describes, while the gemara's rebuttal invoking maaser rishon and Rabbi Meir is a single combined sugya unit that heading 0 already contextualizes.",
+      "chosen_heading": "Chiya Bar Rav",
+      "current_heading": "Chiya Bar Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Tvul Yom Rules",
+    "candidates": [
+      "Maaser Rishon Defense",
+      "Maaser Rishon Again",
+      "Onen Pattern",
+      "Onen Rules",
+      "Tosafot Onen",
+      "Onen Logic",
+      "Tvul Yom Rules",
+      "Mechusar Kippurim",
+      "Tvul Yom Para",
+      "Missing Pattern",
+      "Rabbi Akiva Defense",
+      "Ish Ish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the three-way baraita comparing onen, tvul yom, and mechusar kippurim against maaser, teruma, and para aduma \u2014 which is precisely what the 'Onen Pattern' prose describes as 'a structurally elegant braita that compares three categories of persons against three categories of sanctity' with a rotating pattern.",
+      "chosen_heading": "Onen Pattern",
+      "current_heading": "Tvul Yom Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Ish Ish",
+    "candidates": [
+      "Mechusar Kippurim",
+      "Tvul Yom Para",
+      "Missing Pattern",
+      "Rabbi Akiva Defense",
+      "Ish Ish",
+      "Yosef HaBavli",
+      "Para Srifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly states that this baraita reflects Rabbi Akiva's position equating the arel to a tamei person, which matches the 'Rabbi Akiva Defense' prose that explains the gemara's deflection using Rabbi Akiva's equivalence \u2014 whereas 'Ish Ish' prose describes the derivation from the doubled language, which would come after this introductory rejection argument.",
+      "chosen_heading": "Rabbi Akiva Defense",
+      "current_heading": "Ish Ish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Para Srifa",
+    "candidates": [
+      "Yosef HaBavli",
+      "Para Srifa",
+      "Rashi Inference",
+      "Tosafot Object",
+      "Mimenu Link",
+      "Weight Challenge",
+      "Free Words",
+      "Tochlu Use",
+      "Free for Gezeira",
+      "Notar Clause",
+      "Notar Purpose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yosef HaBavli",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita of Rabbi Yosef haBavli identifying the tanna who disagrees with Rabbi Akiva, which is precisely what candidate 0 ('Yosef HaBavli') describes \u2014 the gemara asking who disagrees with Rabbi Akiva and answering with this baraita.",
+      "second_heading": "Mimenu Link",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yitzchak's gezeirah shavah on 'mimenu' connecting maaser and pesach to prohibit an arel from tithe, which matches exactly the prose of candidate 4 ('Mimenu Link').",
+      "current_heading": "Para Srifa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Notar Purpose",
+    "candidates": [
+      "Rashi Inference",
+      "Tosafot Object",
+      "Mimenu Link",
+      "Weight Challenge",
+      "Free Words",
+      "Tochlu Use",
+      "Free for Gezeira",
+      "Notar Clause",
+      "Notar Purpose",
+      "Maaser Mimenu",
+      "Maaser Grammar",
+      "Abbahu Teaching",
+      "Anointing Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All three items discuss the third occurrence of 'mimenu' at pesach \u2014 item 1 raises the mufneh requirement and the piggul/notar/tamei rebuttal, item 2 identifies the three occurrences of mimenu, and item 3 explains the two views of what the third mimenu accomplishes (nitak la'asei or second morning for burning), which is precisely what the 'Notar Purpose' prose describes.",
+      "chosen_heading": "Notar Purpose",
+      "current_heading": "Notar Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Anointing Tamei",
+    "candidates": [
+      "Maaser Mimenu",
+      "Maaser Grammar",
+      "Abbahu Teaching",
+      "Anointing Tamei",
+      "Sichah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the three-fold 'mimenu' in the maaser context and begin expounding them \u2014 item 1 states the framework (three instances, one for itself, one for Rabbi Abbahu/Rabbi Yochanan, one for Reish Lakish) and item 2 gives Reish Lakish's teaching, so they belong under the introductory heading 'Maaser Mimenu' which describes the gemara turning to all three appearances of mimenu in the maaser context.",
+      "chosen_heading": "Maaser Mimenu",
+      "current_heading": "Anointing Tamei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Sichah Debate",
+    "candidates": [
+      "Anointing Tamei",
+      "Sichah Debate",
+      "One Side Free",
+      "Abaye Free Sides",
+      "Teruma Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Mar Zutra's objection about coffins/shrouds, Rav Huna's 'mimenu migufo' response, and Rav Ashi's parallel with 'lo achalti', which is precisely what the 'Sichah Debate' prose describes.",
+      "chosen_heading": "Sichah Debate",
+      "current_heading": "Sichah Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Teruma Burning",
+    "candidates": [
+      "One Side Free",
+      "Abaye Free Sides",
+      "Teruma Burning",
+      "Summary Arel",
+      "All Tamei",
+      "Yochanan Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "One Side Free",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the problem that the gezeirah shavah is only free on one side, which is precisely what section 0 ('One Side Free') discusses \u2014 the asymmetry and the challenge it poses.",
+      "second_heading": "Abaye Free Sides",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Nachman/Rabbah bar Avuha's teaching about two terumot and burning tamei teruma, which is the alternative source described in section 1 ('Abaye Free Sides') that frees the second maaser mimenu.",
+      "current_heading": "Teruma Burning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Yochanan Source",
+    "candidates": [
+      "Summary Arel",
+      "All Tamei",
+      "Yochanan Source",
+      "Zera Aharon",
+      "Women Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together discuss what 'kodashim' refers to in the verse \u2014 identifying it as teruma because it applies equally to all zera Aharon \u2014 which matches heading 3 ('Zera Aharon') precisely, not heading 2 which only covers the question being raised and the verse being cited.",
+      "chosen_heading": "Zera Aharon",
+      "current_heading": "Yochanan Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Women Exclusion",
+    "candidates": [
+      "Zera Aharon",
+      "Women Exclusion",
+      "Ad Asher Yithar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the \u1e25alala objection and its resolution (she is not zera aharon), which is explicitly discussed in the 'Women Exclusion' prose section.",
+      "chosen_heading": "Women Exclusion",
+      "current_heading": "Women Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Ad Asher Yithar",
+    "candidates": [
+      "Ad Asher Yithar",
+      "Tanna Kamma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly challenges whether 'ad asher yithar' means until sunset or until bringing an atonement offering, which is precisely the question described in the prose of heading 0.",
+      "chosen_heading": "Ad Asher Yithar",
+      "current_heading": "Ad Asher Yithar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tanna Kamma",
+    "candidates": [
+      "Tanna Kamma",
+      "Sunset Meaning",
+      "Korban Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the school of Rabbi Yishmael's teaching about the zav ba'al shtei re'iyot and metzora musgar being similar to tmei nefesh, which is precisely what the 'Tanna Kamma' section's prose describes.",
+      "chosen_heading": "Tanna Kamma",
+      "current_heading": "Tanna Kamma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Korban Extension",
+    "candidates": [
+      "Sunset Meaning",
+      "Korban Extension",
+      "Mishna Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the exact objection that the halakha permitting teruma at sunset applies only to those without a korban obligation, while those requiring a korban must wait \u2014 which is precisely what the 'Korban Extension' prose describes as the gemara's resistance to the inference.",
+      "chosen_heading": "Korban Extension",
+      "current_heading": "Korban Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Mishna Hierarchy",
+    "candidates": [
+      "Mishna Hierarchy",
+      "Mechusar Position",
+      "Rava Teaching",
+      "Mikvah Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna establishing the three-tier hierarchy (tithe/teruma/kodshim) and asks for the source, which matches exactly the 'Mishna Hierarchy' section's prose about this three-level purity system.",
+      "chosen_heading": "Mishna Hierarchy",
+      "current_heading": "Mishna Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Mikvah Pesach",
+    "candidates": [
+      "Mechusar Position",
+      "Rava Teaching",
+      "Mikvah Pesach",
+      "Korban Kodshim",
+      "Sunset Teruma",
+      "Teruma Weight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava citing Rav \u1e24isda presenting all three verses and their resolution, which is exactly what 'Rava Teaching' describes \u2014 three verses underlying the three-tier hierarchy.",
+      "chosen_heading": "Rava Teaching",
+      "current_heading": "Mikvah Pesach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Teruma Weight",
+    "candidates": [
+      "Korban Kodshim",
+      "Sunset Teruma",
+      "Teruma Weight",
+      "Nefesh Logic",
+      "Yoledet Status",
+      "Long Tvul Yom",
+      "Night Before",
+      "Kodshim Weight",
+      "Milos Yamim",
+      "Rabba Language",
+      "Vechiper",
+      "Resolution",
+      "Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's back-and-forth debate about whether teruma or maaser is weightier, using the mnemonics mechpaz and hadastav and resolving through mita and the word nefesh \u2014 exactly the content described in the 'Teruma Weight' prose.",
+      "chosen_heading": "Teruma Weight",
+      "current_heading": "Teruma Weight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "current_heading": "Inference",
+    "candidates": [
+      "Nefesh Logic",
+      "Yoledet Status",
+      "Long Tvul Yom",
+      "Night Before",
+      "Kodshim Weight",
+      "Milos Yamim",
+      "Rabba Language",
+      "Vechiper",
+      "Resolution",
+      "Inference",
+      "Tamei Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All five items form a continuous Gemara discussion about whether a mechusar kippurim may eat teruma before bringing his korban, resolved through the yoledet verses (items 1-2), followed by the v'eifoch ana challenge and kodshim vs teruma stringencies debate (items 3-4), and Rava's definitive proof from the verse's implication of tamei status (item 5) \u2014 exactly the content described in candidate 9's prose.",
+      "chosen_heading": "Inference",
+      "current_heading": "Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165,
+      166
+    ],
+    "current_heading": "Tamei Status",
+    "candidates": [
+      "Tamei Status",
+      "Non-Priestly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are directly about Rav Sheisha's objection from the baraita concerning the giueres and shifcha meshucheres \u2014 the exact content described in candidate 1's prose \u2014 not about tamei status of kodshim as in candidate 0.",
+      "chosen_heading": "Non-Priestly",
+      "current_heading": "Tamei Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      170,
+      171
+    ],
+    "current_heading": "Non-Priestly",
+    "candidates": [
+      "Tamei Status",
+      "Non-Priestly",
+      "Contradiction",
+      "Multiple Segments",
+      "Inclusion Logic",
+      "Three Needed",
+      "Process Req",
+      "Sunset Spec",
+      "Ambiguity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Multiple Segments",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the objection from 'she shall touch no hallowed thing' and resolves it with 'kra milei milei kachashiv' \u2014 the verse addresses distinct matters separately \u2014 which is precisely what heading 3 ('Multiple Segments') describes.",
+      "second_heading": "Three Needed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the question of why three separate verses are needed for teruma, which is exactly what heading 5 ('Three Needed') introduces, and provides the first answer about not knowing the purification means from 'until he be pure' alone.",
+      "current_heading": "Non-Priestly",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      187
+    ],
+    "current_heading": "Ambiguity",
+    "candidates": [
+      "Contradiction",
+      "Multiple Segments",
+      "Inclusion Logic",
+      "Three Needed",
+      "Process Req",
+      "Sunset Spec",
+      "Ambiguity",
+      "Yoledet Proof",
+      "Why Yoledet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly addresses the ambiguity about whether sunset suffices for a bar kapparah or whether he must wait until bringing his korban, which is precisely what the 'Ambiguity' section's prose describes.",
+      "chosen_heading": "Ambiguity",
+      "current_heading": "Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      192
+    ],
+    "current_heading": "Why Yoledet",
+    "candidates": [
+      "Yoledet Proof",
+      "Why Yoledet",
+      "Summary Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why 'ad milos' alone would have been insufficient (we'd think immersion without nightfall suffices) and that 'ad asher yithar' corrects this \u2014 directly matching the 'Why Yoledet' prose which discusses exactly this logical gap between the two verses.",
+      "chosen_heading": "Why Yoledet",
+      "current_heading": "Why Yoledet",
+      "moved": false
+    }
+  }
+]

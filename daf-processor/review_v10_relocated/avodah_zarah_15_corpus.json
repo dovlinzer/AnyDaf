@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Why Care After Sale?",
+    "candidates": [
+      "Small vs. Large Animals",
+      "Why Care After Sale?",
+      "Gezeirah: Lending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'what is the reason' for the prohibition on selling large livestock, explains that bestiality is not the concern but labor (melacha) on Shabbat is, which matches exactly the prose of candidate 1 ('Why Care After Sale?').",
+      "chosen_heading": "Why Care After Sale?",
+      "current_heading": "Why Care After Sale?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Gezeirah: Lending",
+    "candidates": [
+      "Gezeirah: Lending",
+      "Testing Near Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the gezeirah mishum she'ilah u'mishum sechirut exchange described in candidate 0's prose, which explicitly quotes both the decree rationale (item 1) and the challenge about borrowing/leasing constituting acquisition (item 2).",
+      "chosen_heading": "Gezeirah: Lending",
+      "current_heading": "Gezeirah: Lending",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Testing Near Shabbat",
+    "candidates": [
+      "Testing Near Shabbat",
+      "Renting vs. Owning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the 'testing near Shabbat' scenario (nisyoni) with the specific details of selling close to sunset, the animal responding to its owner's voice, and the mechamer violation, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Testing Near Shabbat",
+      "current_heading": "Testing Near Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Renting vs. Owning",
+    "candidates": [
+      "Renting vs. Owning",
+      "No Apartment Rentals",
+      "Ownership Boundaries",
+      "Toevah Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Sheisha's objection that leasing does not constitute acquisition (citing the apartment-rental Mishnah) and the Gemara's resolution that idol worship is a special stringency \u2014 are fully narrated in candidate 0's prose, making the current placement correct.",
+      "chosen_heading": "Renting vs. Owning",
+      "current_heading": "Renting vs. Owning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Toevah Prohibition",
+    "candidates": [
+      "No Apartment Rentals",
+      "Ownership Boundaries",
+      "Toevah Prohibition",
+      "Rav Adda's Ruling",
+      "Middleman Advantages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items form the continuous objection-and-resolution sequence of Rav Yitz\u1e25ak b. Rav Mesharshiyya's challenge regarding whether sechirut constitutes acquisition, which the prose of heading 2 ('Toevah Prohibition') explicitly introduces and describes in detail, including the terumah/cow case and the concluding gzera covering sechirut, she'elah, and nisyonei.",
+      "chosen_heading": "Toevah Prohibition",
+      "current_heading": "Toevah Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Middleman Advantages",
+    "candidates": [
+      "Rav Adda's Ruling",
+      "Middleman Advantages",
+      "Sale & Challenge",
+      "Shechita Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Adda's ruling and his three reasons as a unified statement, and candidate 0 ('Rav Adda's Ruling') is specifically about Rav Adda permitting the donkey sale via middleman \u2014 the passage introduces both the ruling and its rationale, which belongs under the heading that introduces this case rather than under a secondary 'Middleman Advantages' heading that elaborates on it.",
+      "chosen_heading": "Rav Adda's Ruling",
+      "current_heading": "Middleman Advantages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Shechita Assumption",
+    "candidates": [
+      "Sale & Challenge",
+      "Shechita Assumption",
+      "Shemitah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records the sale and Rav Chisda's challenge ('What is the reason the Master acted in that manner?'), which matches heading 0's prose exactly \u2014 the defense ('eimor l'shechitah zabna') belongs under heading 1, but this specific exchange is the sale-and-challenge event described in heading 0's prose.",
+      "chosen_heading": "Sale & Challenge",
+      "current_heading": "Shechita Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Shemitah Dispute",
+    "candidates": [
+      "Shechita Assumption",
+      "Shemitah Dispute",
+      "Rava's Challenge",
+      "Abaye Extends Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Shemitah mishna (Beit Shammai/Beit Hillel dispute about selling a plowing cow in the Sabbatical year), which is exactly what the 'Shemitah Dispute' section's prose describes and discusses.",
+      "chosen_heading": "Shemitah Dispute",
+      "current_heading": "Shemitah Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Abaye Extends Logic",
+    "candidates": [
+      "Rava's Challenge",
+      "Abaye Extends Logic",
+      "Innocent Motive Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba's distinction between shemitah and Shabbat regarding animal-rest obligations, which is precisely what Candidate 0 ('Rava's Challenge') describes.",
+      "second_heading": "Abaye Extends Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's counter-challenge using the field/shemitah case and Beit Hillel's leniency, which is exactly what Candidate 1 ('Abaye Extends Logic') discusses.",
+      "current_heading": "Abaye Extends Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Innocent Motive Test",
+    "candidates": [
+      "Innocent Motive Test",
+      "Suspect Buyer",
+      "Abaye Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Ashi's objection and resolution regarding the innocent motive principle, which is precisely what the 'Innocent Motive Test' prose describes \u2014 the rejection of the commanded/non-commanded distinction in favor of whether an innocent motive can be assigned.",
+      "chosen_heading": "Innocent Motive Test",
+      "current_heading": "Innocent Motive Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Abaye Objects",
+    "candidates": [
+      "Suspect Buyer",
+      "Abaye Objects",
+      "Lifnei Iver",
+      "Small Animals to Kutim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbah's initial sale and the full exchange with Abaye, which the 'Suspect Buyer' section's prose introduces as a unified case study, while 'Abaye Objects' only handles part of the same continuous narrative \u2014 the passage as a whole fits better under the heading that introduces the entire episode.",
+      "chosen_heading": "Suspect Buyer",
+      "current_heading": "Abaye Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Small Animals to Kutim",
+    "candidates": [
+      "Lifnei Iver",
+      "Small Animals to Kutim",
+      "Trust in Kutim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita Abaye cites about selling small livestock to Kutim and the question of whether they are suspected of bestiality, which is exactly what the 'Small Animals to Kutim' section's prose describes.",
+      "chosen_heading": "Small Animals to Kutim",
+      "current_heading": "Small Animals to Kutim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Trust in Kutim",
+    "candidates": [
+      "Trust in Kutim",
+      "Fear of Resale",
+      "Weapons Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are from the baraita about kutim \u2014 item 1 covers what is forbidden with gentiles but permitted with kutim (inns), and item 2 concludes that kutim are trusted (alma lo chashidi) \u2014 precisely the content discussed in the 'Trust in Kutim' prose.",
+      "chosen_heading": "Trust in Kutim",
+      "current_heading": "Trust in Kutim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Weapons Forbidden",
+    "candidates": [
+      "Fear of Resale",
+      "Weapons Forbidden",
+      "Weapons Resale Fear",
+      "Rav Nachman Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about not selling weapons, shackles, and iron chains to gentiles and Samaritans is precisely what the 'Weapons Forbidden' section's prose describes and quotes.",
+      "chosen_heading": "Weapons Forbidden",
+      "current_heading": "Weapons Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Rav Nachman Rules",
+    "candidates": [
+      "Weapons Resale Fear",
+      "Rav Nachman Rules",
+      "Rabbah's Retraction",
+      "Bandits & Weapons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form Abaye's continuous argument \u2014 item 1 resolves the tension by explaining the 'resale to gentiles' rationale, and item 2 completes that argument with Rav Nachman's ruling and Rabbah's chase \u2014 and candidate 0's prose explicitly covers both the 'ela mishum de'ati lezavona' resolution AND the Rav Nachman ruling as part of the same analytical unit, making it the clearly better home than the current placement which splits this unified argument.",
+      "chosen_heading": "Weapons Resale Fear",
+      "current_heading": "Rav Nachman Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Bandits & Weapons",
+    "candidates": [
+      "Rabbah's Retraction",
+      "Bandits & Weapons",
+      "Shield Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Dimi bar Abba's ruling about selling weapons to a Jewish bandit (listim), which is precisely what the 'Bandits & Weapons' section prose describes, including the same heichi dami analysis and the mashmuta self-defense rationale.",
+      "chosen_heading": "Bandits & Weapons",
+      "current_heading": "Bandits & Weapons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Shield Debate",
+    "candidates": [
+      "Shield Debate",
+      "Rav's Pragmatism",
+      "Shields Permitted"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shield Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the shield debate and Rav's pragmatic response about wheat/barley, which matches heading 0 ('Shield Debate') and heading 1 ('Rav's Pragmatism') \u2014 but since items 1-2 are the content that headings 0 and 1 together discuss, and item 1 opens the shield debate while item 2 is Rav's pragmatic answer, the split places items 1-2 under heading 0 where the shield debate begins.",
+      "second_heading": "Shields Permitted",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the alternate rationale about shields being used for flight and the final ruling of Rav Na\u1e25man that the halakha follows the permissive opinion, which precisely matches heading 2 ('Shields Permitted') whose prose describes exactly this content.",
+      "current_heading": "Shield Debate",
+      "moved": true
+    }
+  }
+]

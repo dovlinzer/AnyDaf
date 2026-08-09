@@ -1,0 +1,333 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Animal's Walking Order",
+    "candidates": [
+      "Animal's Walking Order",
+      "Flaying Order",
+      "Dismembering Order",
+      "Quality/Importance",
+      "Quality Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Animal's Walking Order",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Ben Azzai's walking-order view and Rabbi Yose's flaying-order view, matching the prose of heading 0 ('Animal's Walking Order') which explicitly discusses both Ben Azzai's derech hilucho and sets up the sequence \u2014 the flaying-order (heading 1) is introduced within item 1 but the primary content anchors to heading 0's discussion of the tanu rabbanan baraita opening with Ben Azzai.",
+      "second_heading": "Dismembering Order",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Rabbi Akiva's dismembering-order (derech nitucho) and Rabbi Yose HaGlili's quality-order (derech iluyo), which exactly matches the prose of heading 2 ('Dismembering Order') that explicitly discusses Rabbi Akiva's derech nitucho sequence.",
+      "current_heading": "Animal's Walking Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Quality Analysis",
+    "candidates": [
+      "Flaying Order",
+      "Dismembering Order",
+      "Quality/Importance",
+      "Quality Analysis",
+      "Conceptual Meaning",
+      "Head Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Quality Analysis' section prose, which explicitly describes the Yechezkel verse challenge about the thigh, the answer about lean animals, and Rava's unifying principle about size versus fattiness \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Quality Analysis",
+      "current_heading": "Quality Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Head Priority",
+    "candidates": [
+      "Conceptual Meaning",
+      "Head Priority",
+      "Aesthetic Covering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the head's priority in the sacrificial order and why the leg accompanies it due to the head's bony composition \u2014 exactly the content described in the 'Head Priority' prose.",
+      "chosen_heading": "Head Priority",
+      "current_heading": "Head Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Aesthetic Covering",
+    "candidates": [
+      "Aesthetic Covering",
+      "Aesthetics & Sanctity",
+      "Incense Lottery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the baraita about placing fat over the place of slaughter as a respectful presentation, which is precisely what the 'Aesthetic Covering' section's prose discusses and quotes.",
+      "chosen_heading": "Aesthetic Covering",
+      "current_heading": "Aesthetic Covering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Incense Lottery",
+    "candidates": [
+      "Aesthetics & Sanctity",
+      "Incense Lottery",
+      "Wealth Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the third and fourth lotteries (ketoret and limb-carrying), which is precisely what the 'Incense Lottery' section's prose discusses in detail.",
+      "chosen_heading": "Incense Lottery",
+      "current_heading": "Incense Lottery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Wealth Blessing",
+    "candidates": [
+      "Wealth Blessing",
+      "Levi & Yissachar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ketoret bringing wealth, the scriptural basis from Deuteronomy 33:10-11, and the distinction between the frequent olah and the infrequent ketoret \u2014 exactly the content described in the 'Wealth Blessing' prose.",
+      "chosen_heading": "Wealth Blessing",
+      "current_heading": "Wealth Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Levi & Yissachar",
+    "candidates": [
+      "Levi & Yissachar",
+      "Judah vs. Others",
+      "Lineage for Scholars",
+      "Same Kohen Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rava's statement about Levi and Issachar as sources of halakhic instruction, which is precisely what the 'Levi & Yissachar' section prose discusses, including the challenge from Judah and the asukei shma'ata response.",
+      "chosen_heading": "Levi & Yissachar",
+      "current_heading": "Levi & Yissachar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Same Kohen Both",
+    "candidates": [
+      "Judah vs. Others",
+      "Lineage for Scholars",
+      "Same Kohen Both",
+      "Shabbat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's ruling that no separate lottery is held for the afternoon tamid and that the morning winner serves in the afternoon as well, which is exactly what the 'Same Kohen Both' section's prose describes.",
+      "chosen_heading": "Same Kohen Both",
+      "current_heading": "Same Kohen Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Shabbat Exception",
+    "candidates": [
+      "Shabbat Exception",
+      "Single Morning Lottery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the two baraita challenges about morning/afternoon lotteries and Rav Shmuel bar Rav Yitzchak's Shabbat resolution \u2014 which is precisely what the 'Shabbat Exception' prose describes.",
+      "chosen_heading": "Shabbat Exception",
+      "current_heading": "Shabbat Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Single Morning Lottery",
+    "candidates": [
+      "Single Morning Lottery",
+      "Ramp-to-Altar",
+      "Same vs. New Person"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the concern about too many lotteries if separate afternoon lotteries existed, and the resolution that everything was assigned in the single morning lottery \u2014 precisely what the 'Single Morning Lottery' prose describes.",
+      "chosen_heading": "Single Morning Lottery",
+      "current_heading": "Single Morning Lottery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Same vs. New Person",
+    "candidates": [
+      "Ramp-to-Altar",
+      "Same vs. New Person",
+      "Base of Nine",
+      "Ten on Sukkot",
+      "Eleven in PM",
+      "Eleven Shabbat",
+      "Twelve Max"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the dispute between Rabbi Eliezer ben Yaakov and the mishna's position on whether the same kohen carries limbs from kevesh to altar, the birov am vs. bimkom Shechinah reasoning, Rava's logical analysis of the lottery count, and the five-lottery tanna \u2014 all of which are precisely what candidate 1's prose describes.",
+      "chosen_heading": "Same vs. New Person",
+      "current_heading": "Same vs. New Person",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Twelve Max",
+    "candidates": [
+      "Base of Nine",
+      "Ten on Sukkot",
+      "Eleven in PM",
+      "Eleven Shabbat",
+      "Twelve Max",
+      "Water Morning Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage introduces the full range of nine to twelve and then specifically illustrates the 'ten on Sukkot' case, but it is the opening Mishnah that establishes the base of nine and the overall framework \u2014 matching the 'Base of Nine' prose which describes exactly this Mishnah text.",
+      "chosen_heading": "Base of Nine",
+      "current_heading": "Twelve Max",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Water Morning Only",
+    "candidates": [
+      "Twelve Max",
+      "Water Morning Only",
+      "Tzadduki Incident"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Twelve Max",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text describing the maximum of twelve priests on Shabbat during Sukkot, which is the content that heading 'Twelve Max' discusses directly.",
+      "second_heading": "Water Morning Only",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara deriving that the water libation is performed only with the morning tamid \u2014 exactly the content that heading 'Water Morning Only' describes in its prose.",
+      "current_heading": "Water Morning Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Tzadduki Incident",
+    "candidates": [
+      "Tzadduki Incident",
+      "Afternoon Logs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's proof from the Tzadduki incident (pouring on feet, pelted with etrogim) to establish the morning timing of the water libation, which directly matches the 'Tzadduki Incident' section's prose discussion of that exact episode and its evidentiary significance.",
+      "chosen_heading": "Tzadduki Incident",
+      "current_heading": "Tzadduki Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Afternoon Logs",
+    "candidates": [
+      "Afternoon Logs",
+      "Total Thirteen-Sixteen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical unit deriving the two-log/two-priest requirement for the afternoon tamid, which is precisely what the 'Afternoon Logs' prose describes in detail.",
+      "chosen_heading": "Afternoon Logs",
+      "current_heading": "Afternoon Logs",
+      "moved": false
+    }
+  }
+]

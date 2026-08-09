@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Hadlaka or Hanacha",
+    "candidates": [
+      "Core Question Setup",
+      "Hadlaka or Hanacha",
+      "Bracha as Evidence",
+      "Who Can Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the complete Gemara discussion of whether hadlaka or hanacha accomplishes the mitzva \u2014 the dilemma, the two scenarios Rava raises, Rabbi Yehoshua ben Levi's lantern case, and the bracha proof \u2014 which is precisely what the 'Hadlaka or Hanacha' section's prose describes in full.",
+      "chosen_heading": "Hadlaka or Hanacha",
+      "current_heading": "Hadlaka or Hanacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Who Can Light",
+    "candidates": [
+      "Bracha as Evidence",
+      "Who Can Light",
+      "Women Obligated",
+      "Alternative Framework",
+      "Two Interpretations",
+      "Scope Limitations",
+      "Tosafot's Answer",
+      "Rav Soloveitchik"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical ramification that a deaf-mute, imbecile, or minor cannot fulfill the mitzva by lighting (since hadlaka oseh mitzvah), and that a woman certainly may light based on Rabbi Yehoshua ben Levi's ruling \u2014 exactly what the 'Who Can Light' prose describes.",
+      "chosen_heading": "Who Can Light",
+      "current_heading": "Who Can Light",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Soloveitchik",
+    "candidates": [
+      "Women Obligated",
+      "Alternative Framework",
+      "Two Interpretations",
+      "Scope Limitations",
+      "Tosafot's Answer",
+      "Rav Soloveitchik",
+      "Choice of Oil",
+      "Why Olive Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage about Rav Sheshet's ruling on guests and Rav Zeira's practice of contributing coins to the host is explicitly discussed in the 'Rav Soloveitchik' section's prose, which directly references these two rulings and their implications.",
+      "chosen_heading": "Rav Soloveitchik",
+      "current_heading": "Rav Soloveitchik",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Why Olive Oil",
+    "candidates": [
+      "Choice of Oil",
+      "Why Olive Oil",
+      "Ink Production"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua ben Levi's ruling about all oils being suitable with olive oil preferred AND Abaye's account of Rabba's change of practice \u2014 both parts belong under 'Choice of Oil' whose prose explicitly covers both elements, while 'Why Olive Oil' prose describes the passage's content but is a secondary heading that splits what is a single unified text.",
+      "chosen_heading": "Choice of Oil",
+      "current_heading": "Why Olive Oil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Ink Production",
+    "candidates": [
+      "Why Olive Oil",
+      "Ink Production",
+      "Lighting Requires Bracha",
+      "Seeing Requires Bracha",
+      "Three vs. Two Brachot",
+      "Shehecheyanu Once Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses oils, smoke, and resins used in ink production, which matches exactly the 'Ink Production' section's prose about olive oil for making ink, the l'gabel/le-ashen distinction, and balsam resin as a binding agent.",
+      "chosen_heading": "Ink Production",
+      "current_heading": "Ink Production",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Shehecheyanu Once Only",
+    "candidates": [
+      "Lighting Requires Bracha",
+      "Seeing Requires Bracha",
+      "Three vs. Two Brachot",
+      "Shehecheyanu Once Only",
+      "Daily Miracle",
+      "Source of Authority",
+      "Lo Tasur & She'al"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 2's prose discusses: Rav Yehuda's ruling about three vs. two brachot on the first night versus subsequent nights, which bracha is omitted (shehecheyanu/zman), and why she-asah nissim is not omitted (neis kol yoma ita).",
+      "chosen_heading": "Three vs. Two Brachot",
+      "current_heading": "Shehecheyanu Once Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Lo Tasur & She'al",
+    "candidates": [
+      "Daily Miracle",
+      "Source of Authority",
+      "Lo Tasur & She'al",
+      "Rambam vs. Ramban",
+      "Rav Amram's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the question 'where did He command us?' and the two answers (lo tasur and she'al avicha), which corresponds exactly to the 'Source of Authority' section's prose about v'heichan tzivanu and the basis for reciting asher kidshanu over a rabbinic mitzvah \u2014 the current placement under 'Lo Tasur & She'al' is also a strong match, but that section's prose already paraphrases these answers extensively, suggesting the Talmudic text itself anchors the discussion that begins with the 'Source of Authority' heading's framing of the question.",
+      "chosen_heading": "Source of Authority",
+      "current_heading": "Lo Tasur & She'al",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rav Amram's Objection",
+    "candidates": [
+      "Rambam vs. Ramban",
+      "Rav Amram's Objection",
+      "Definite vs. Doubtful",
+      "Yom Tov Sheni Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Amram's objection from the demai mishna along with Abaye's initial distinction, which matches exactly the prose of heading 1 ('Rav Amram's Objection'), which describes this precise challenge and its setup.",
+      "chosen_heading": "Rav Amram's Objection",
+      "current_heading": "Rav Amram's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Yom Tov Sheni Analogy",
+    "candidates": [
+      "Definite vs. Doubtful",
+      "Yom Tov Sheni Analogy",
+      "Two Doors Question",
+      "Different Sides Needed",
+      "Suspicion Concern",
+      "Local Suspicion",
+      "Why Care About Suspicion?",
+      "Pe'ah Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Yom Tov Sheni challenge to Abaye's distinction and Rava's alternative explanation regarding demai, which is precisely what the 'Yom Tov Sheni Analogy' section's prose discusses.",
+      "chosen_heading": "Yom Tov Sheni Analogy",
+      "current_heading": "Yom Tov Sheni Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Pe'ah Analogy",
+    "candidates": [
+      "Two Doors Question",
+      "Different Sides Needed",
+      "Suspicion Concern",
+      "Local Suspicion",
+      "Why Care About Suspicion?",
+      "Pe'ah Analogy",
+      "Two-Spout Lamp",
+      "Combined Flames Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's answer to 'why do we care about suspicion?' \u2014 item 1 raises the chashada issue, items 2-3 cite the pe'ah baraita as proof that halakha concerns itself with suspicion, which is precisely what candidate 4 ('Why Care About Suspicion?') describes.",
+      "chosen_heading": "Why Care About Suspicion?",
+      "current_heading": "Pe'ah Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Combined Flames Problem",
+    "candidates": [
+      "Two-Spout Lamp",
+      "Combined Flames Problem",
+      "Household vs. Chanukah",
+      "Household vs. Kiddush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the two-spout lamp ruling (Rav Huna) and the bowl-with-wicks ruling (Rava), and candidate 0 ('Two-Spout Lamp') explicitly covers both rulings in its prose, while candidate 1 ('Combined Flames Problem') covers only the Rava portion \u2014 the full passage belongs under heading 0 which introduces the two-spout lamp and flows into Rava's related ruling.",
+      "chosen_heading": "Two-Spout Lamp",
+      "current_heading": "Combined Flames Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Household vs. Kiddush",
+    "candidates": [
+      "Household vs. Chanukah",
+      "Household vs. Kiddush",
+      "Chanukah vs. Kiddush",
+      "Candles & Sages",
+      "Other Mitzvot",
+      "Historical Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three of Rava's rulings \u2014 household vs. Chanukah, household vs. kiddush, and Chanukah vs. kiddush \u2014 as a single unified text, and the first heading 'Household vs. Chanukah' is where this combined passage should begin, with the subsequent headings covering the essay author's prose commentary on each sub-ruling separately.",
+      "chosen_heading": "Household vs. Chanukah",
+      "current_heading": "Household vs. Kiddush",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Historical Examples",
+    "candidates": [
+      "Chanukah vs. Kiddush",
+      "Candles & Sages",
+      "Other Mitzvot",
+      "Historical Examples",
+      "Proper Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage covers ALL of Rav Huna's teaching (candles \u2192 scholar sons, mezuzah, tzitzit, kiddush) plus the historical examples in one continuous Talmudic unit, but since candidates 1, 2, and 3 each cover only a portion, and the passage as a whole begins with Rav Huna's candle teaching (candidate 1's exact topic), while the current placement (candidate 3) only covers the latter part, the single best heading that introduces this unified passage is 'Candles & Sages' \u2014 though ideally candidates 1\u20133 would all be merged; among the options, candidate 1 is where this passage's opening and primary teaching belongs.",
+      "chosen_heading": "Candles & Sages",
+      "current_heading": "Historical Examples",
+      "moved": true
+    }
+  }
+]

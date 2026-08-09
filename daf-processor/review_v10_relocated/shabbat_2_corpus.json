@@ -1,0 +1,184 @@
+[
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Partnership: Ba'al & Ani",
+    "candidates": [
+      "Welcome & Seder Moed",
+      "Length & Duration",
+      "Structure & Perakim",
+      "Primary Topics",
+      "Chronological vs Thematic",
+      "Two Which Are Four",
+      "Reshut Hayachid & Harabim",
+      "Karmelit & Makom Patur",
+      "Biblical Carrying Rules",
+      "Hotza'ah: Non-Creative",
+      "Setup: Ani & Ba'al",
+      "Case 1: Ani Gives",
+      "Case 2: Ani Takes",
+      "Case 3: Ba'al Gives",
+      "Case 4: Ba'al Takes",
+      "Two Become Four",
+      "Partnership: Ani Initiate",
+      "Partnership: Ba'al & Ani",
+      "Summary: 2 Biblical + 4",
+      "Why Different Structure?",
+      "Parallels: Shevu'ot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items present the complete Mishnah text of the ani/ba'al habayit carrying scenarios (Cases 1-4 and the partnership cases), which corresponds precisely to the 'Two Which Are Four' section whose prose introduces the first mishnah's keitzad scenario with ha'ani omeid bachutz uba'al habayit bifnim \u2014 the exact scenario these items elaborate in full.",
+      "chosen_heading": "Two Which Are Four",
+      "current_heading": "Partnership: Ba'al & Ani",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Parallels: Shevu'ot",
+    "candidates": [
+      "Summary: 2 Biblical + 4",
+      "Why Different Structure?",
+      "Parallels: Shevu'ot",
+      "Av vs Av+Toledah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the three parallel mishnayot from Shevu'ot (oaths, awareness of impurity, signs of leprosy) that share the 'two which are four' formula, which is precisely what candidate 2's prose describes as a survey of the mishnayot in Shevu'ot needed to appreciate the Gemara's structural question.",
+      "chosen_heading": "Parallels: Shevu'ot",
+      "current_heading": "Parallels: Shevu'ot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Av vs Av+Toledah",
+    "candidates": [
+      "Av vs Av+Toledah",
+      "Av, Toledah: Hotza'ah",
+      "Shevu'ot: Av to Four",
+      "Rav Papa: Chiyuvim Pturim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Av vs Av+Toledah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 directly address the av/toladah structural comparison between Shabbat and Shevuot mishnayot, which is exactly what heading 0's prose describes.",
+      "second_heading": "Av, Toledah: Hotza'ah",
+      "second_confidence": "high",
+      "second_reason": "Item 4 asks what the av of hotza'ah actually is and objects that carrying out yields only two cases, which is precisely the opening question that heading 1's prose addresses before identifying hotza'ah as the av and hachnasah as the toladah.",
+      "current_heading": "Av vs Av+Toledah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Rav Papa: Chiyuvim Pturim",
+    "candidates": [
+      "Av, Toledah: Hotza'ah",
+      "Shevu'ot: Av to Four",
+      "Rav Papa: Chiyuvim Pturim",
+      "Hotza'ah & Hachnasah",
+      "Ani & Partner: Two Ways",
+      "Hotza'ah Generic Term"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rav Pappa resolution: item 1 is the objection that prompts Rav Pappa's answer, item 2 is Rav Pappa's answer, and item 3 is the follow-up question and resolution \u2014 exactly the content described in candidate 2's prose about Rav Pappa distinguishing chiyuvim/pturim and then resolving the four cases as shtayim d'hotza'ah v'shtayim d'hachnasah.",
+      "chosen_heading": "Rav Papa: Chiyuvim Pturim",
+      "current_heading": "Rav Papa: Chiyuvim Pturim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Hotza'ah Generic Term",
+    "candidates": [
+      "Hotza'ah & Hachnasah",
+      "Ani & Partner: Two Ways",
+      "Hotza'ah Generic Term",
+      "Hotza'ah = Removal",
+      "Ravina: Implicit Hotza'ah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Hotza'ah Generic Term",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Ashi's answer that the Tanna calls hachnasah by the name hotza'ah, supported by proof from the mishna 'hamotzi mereshut lereshut,' which matches exactly the 'Hotza'ah Generic Term' prose discussion.",
+      "second_heading": "Hotza'ah = Removal",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives the etymological rationale \u2014 kol akiras chefetz mimkomo \u2014 which matches exactly the 'Hotza'ah = Removal' prose section's explanation that any removal/akirah from its place is called hotza'ah.",
+      "current_heading": "Hotza'ah Generic Term",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Ravina: Implicit Hotza'ah",
+    "candidates": [
+      "Hotza'ah = Removal",
+      "Ravina: Implicit Hotza'ah",
+      "Rava: Reshuyot Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement that the mishnah's use of 'yetziot' while immediately illustrating with a case of hachnasah proves that hotza'ah encompasses hachnasah, which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "Ravina: Implicit Hotza'ah",
+      "current_heading": "Ravina: Implicit Hotza'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rava: Reshuyot Framework",
+    "candidates": [
+      "Rava: Reshuyot Framework",
+      "Conclusion: Av-Toledah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's statement that the tanna taught 'reshuyot' (domains) rather than acts of carrying, which is precisely what the prose under heading 0 describes as Rava's reading of the term.",
+      "chosen_heading": "Rava: Reshuyot Framework",
+      "current_heading": "Rava: Reshuyot Framework",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Eretz Yisrael Tahur",
+    "candidates": [
+      "Gitta Definition",
+      "Eretz Yisrael Tahur",
+      "Facing Petach Ohel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange between Resh Lakish and Rabbi Yochanan about the meaning of 'outside its pit,' including the challenge that all Eretz Yisrael is already inspected and Rabbi Yochanan's alternative definition (slaughtered within Jerusalem's walls) \u2014 exactly the content described in the 'Eretz Yisrael Tahur' prose, which covers both the challenge and Rabbi Yochanan's resolution.",
+      "chosen_heading": "Eretz Yisrael Tahur",
+      "current_heading": "Eretz Yisrael Tahur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Facing Petach Ohel",
+    "candidates": [
+      "Facing Petach Ohel",
+      "Shechitah Keneged",
+      "Sreifa Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shechitah Keneged",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 both concern the dispute over shechitah not opposite the entrance, matching heading 1 ('Shechitah Keneged') which explicitly discusses Rav Adda bar Ahava's ruling, Rabbi Yochanan vs. Reish Lakish, and the veshachat/vehizah juxtaposition.",
+      "second_heading": "Sreifa Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 3 concerns the separate dispute over sreifa (burning) not opposite the entrance between Rabbi Yochanan and Rabbi Oshaya, which exactly matches heading 2 ('Sreifa Dispute').",
+      "current_heading": "Facing Petach Ohel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Sreifa Dispute",
+    "candidates": [
+      "Shechitah Keneged",
+      "Sreifa Dispute",
+      "Lifnim Lechumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Oshaya's ruling that the sreifa is valid when not opposite the entrance, deriving from 'al pirshah yisrof' that burning follows the place of death \u2014 exactly what the 'Sreifa Dispute' prose describes.",
+      "chosen_heading": "Sreifa Dispute",
+      "current_heading": "Sreifa Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Lifnim Lechumah",
+    "candidates": [
+      "Lifnim Lechumah",
+      "Yarad Lo Yarad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the lo mibaiya ka'amar structure regarding slaughter inside versus outside the wall, which is precisely what the 'Lifnim Lechumah' prose discusses.",
+      "chosen_heading": "Lifnim Lechumah",
+      "current_heading": "Lifnim Lechumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Yarad Lo Yarad",
+    "candidates": [
+      "Yarad Lo Yarad",
+      "Eretz Lo Metoharah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the dispute about whether the flood reached Eretz Yisrael and Rav Na\u1e25man bar Yitz\u1e25ak's note that both sages derive from the same verse \u2014 are explicitly discussed in candidate 0's prose, which covers exactly this material including the 'u'shneihem mikra echad darshu' point.",
+      "chosen_heading": "Yarad Lo Yarad",
+      "current_heading": "Yarad Lo Yarad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Eretz Lo Metoharah",
+    "candidates": [
+      "Eretz Lo Metoharah",
+      "Chatzerot Al Hasela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rabbi Yochanan and Reish Lakish over the interpretation of the verse from Yechezkel, which is precisely what the prose under heading 0 ('Eretz Lo Metoharah') describes and analyzes.",
+      "chosen_heading": "Eretz Lo Metoharah",
+      "current_heading": "Eretz Lo Metoharah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Chatzerot Al Hasela",
+    "candidates": [
+      "Chatzerot Al Hasela",
+      "Atzamot Bechazra",
+      "Ayin Metei Mabul",
+      "Havu U'Pinnu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the mishna about courtyards built on rock with hollowed spaces beneath and children raised there for the parah adumah rite, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Chatzerot Al Hasela",
+      "current_heading": "Chatzerot Al Hasela",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Havu U'Pinnu",
+    "candidates": [
+      "Atzamot Bechazra",
+      "Ayin Metei Mabul",
+      "Havu U'Pinnu",
+      "Mikol Asher Bacharava",
+      "Hevla Killing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items cover the exact content described in heading 2's prose: the baraita about bones in the woodshed chamber, Rabbi Yehoshua's 'where are the dead of the flood/Nebuchadnezzar' statement, the 'havu upinnu' resolution, the distinction between Jerusalem and the rest of Eretz Yisrael, and the 'ika de'amri' alternative version \u2014 all of which are explicitly discussed in the 'Havu U'Pinnu' section prose.",
+      "chosen_heading": "Havu U'Pinnu",
+      "current_heading": "Havu U'Pinnu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Hevla Killing",
+    "candidates": [
+      "Mikol Asher Bacharava",
+      "Hevla Killing",
+      "Reima Survival"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Resh Lakish/Rabbi Yochanan debate over 'mikol asher becharava meisu', the hevla answer, Rav \u1e24isda's boiling water teaching, the ika de'amri reversal, and the fish exemption \u2014 are explicitly discussed in the 'Hevla Killing' prose, which covers exactly this chain of argument in full.",
+      "chosen_heading": "Hevla Killing",
+      "current_heading": "Hevla Killing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Reima Survival",
+    "candidates": [
+      "Reima Survival",
+      "Metzan Babylonia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous Talmudic discussion about how the reima survived the flood, exactly matching the 'Reima Survival' section's detailed prose about Rabbi Yannai, Rabbi Yochanan, Resh Lakish, the ark moving, boiling water, and the miracle of cooling waters around the ark.",
+      "chosen_heading": "Reima Survival",
+      "current_heading": "Reima Survival",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Metzan Babylonia",
+    "candidates": [
+      "Metzan Babylonia",
+      "Azazel Exclusion",
+      "Korban L'Hashem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in the 'Metzan Babylonia' prose: the challenge to Resh Lakish about bodies remaining in Eretz Yisrael, the names Metzula/Shinar, Rabbi Abbahu's explanation about wealthy people, and Rabbi Ami's statement about eating Babylonian soil \u2014 all of which are explicitly described in that section's prose.",
+      "chosen_heading": "Metzan Babylonia",
+      "current_heading": "Metzan Babylonia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Korban L'Hashem",
+    "candidates": [
+      "Azazel Exclusion",
+      "Korban L'Hashem",
+      "Kodem Achar Goral"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Azazel Exclusion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the scapegoat (se'ir hamishtaleach) case from the mishna, which matches heading 0's prose about the scapegoat being exempt because it is not brought to the Ohel Moed.",
+      "second_heading": "Korban L'Hashem",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the baraita challenge about whether 'korban' includes kodshei bedek habayit and the resolution via 've'el petach Ohel Moed lo hevi'o,' which matches heading 1's prose exactly.",
+      "current_heading": "Korban L'Hashem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Kodem Achar Goral",
+    "candidates": [
+      "Kodem Achar Goral",
+      "Rovei'a V'nirba",
+      "Lifnei Mishkan",
+      "Muktzeh V'ne'evad",
+      "Kodshim Kalim Mamon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in candidate 0's prose: the baraita's exclusion of the scapegoat via 'l'Hashem', the Gemara's resolution distinguishing before/after the lottery (kodem/achar hagoral), the challenge about vidui, and Rav Mani's refinement distinguishing before/after the confession \u2014 all of which are explicitly laid out in candidate 0's prose.",
+      "chosen_heading": "Kodem Achar Goral",
+      "current_heading": "Kodem Achar Goral",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Kodshim Kalim Mamon",
+    "candidates": [
+      "Rovei'a V'nirba",
+      "Lifnei Mishkan",
+      "Muktzeh V'ne'evad",
+      "Kodshim Kalim Mamon",
+      "Vladot Kodshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the mishna's teaching about rovei'a v'nirba, then works through why 'petach Ohel Moed' is insufficient and why 'lifnei mishkan' is needed \u2014 exactly the question posed in candidate 0's prose about the specific verse cited to exclude these animals \u2014 and while it also covers muktzeh/ne'evad and kodshim kalim along the way, the entire chain of reasoning (items 1\u20136) is introduced by and flows from the rovei'a v'nirba case that candidate 0 describes.",
+      "chosen_heading": "Rovei'a V'nirba",
+      "current_heading": "Kodshim Kalim Mamon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Vladot Kodshim",
+    "candidates": [
+      "Kodshim Kalim Mamon",
+      "Vladot Kodshim",
+      "Yotzei Dofen Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's answer that etnan/mechir/kilayim/yotzei dofen cases refer to vladot kodshim and that vladot kodshim are sanctified only at birth, which is precisely what the 'Vladot Kodshim' section's prose discusses.",
+      "chosen_heading": "Vladot Kodshim",
+      "current_heading": "Vladot Kodshim",
+      "moved": false
+    }
+  }
+]

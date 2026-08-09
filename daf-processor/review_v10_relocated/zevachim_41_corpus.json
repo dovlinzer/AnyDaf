@@ -1,0 +1,207 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Yoteret Shetei Kelayot",
+    "candidates": [
+      "Inner Chatas Overview",
+      "Lapar Me'akev Teaching",
+      "Rabbi Ishmael Link",
+      "Packaging Exports",
+      "Yoteret Shetei Kelayot",
+      "Baraita Parsing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together present Rav Pappa's explanation of why 'lapar' is needed \u2014 to package the yoteret v'shetei kelayot (derived only by hekesh in the par helam davar) as if explicitly written there, so it can be re-exported to the se'irei avoda zara without violating the rule against davar halamed b'hekesh chozer u'melamed b'hekesh \u2014 which is precisely what the 'Packaging Exports' prose section describes.",
+      "chosen_heading": "Packaging Exports",
+      "current_heading": "Yoteret Shetei Kelayot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Baraita Parsing",
+    "candidates": [
+      "Yoteret Shetei Kelayot",
+      "Baraita Parsing",
+      "Link Source Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening citation of the baraita in support of Rav Pappa (tanya kevatei de-Rav Pappa), which is precisely what the 'Baraita Parsing' section's prose describes as its starting point.",
+      "chosen_heading": "Baraita Parsing",
+      "current_heading": "Baraita Parsing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Link Source Debate",
+    "candidates": [
+      "Link Source Debate",
+      "Rav Huna Challenge",
+      "Tannaitic Debate",
+      "Midrashic Omissions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain about why the verse 'chatatam asher shagu' was necessary beyond the earlier ribui, Rav Pappa's answer about the yoteret v'shetei haklayot, Rav Huna's challenge, and the tannaitic resolution \u2014 precisely the content described in the 'Link Source Debate' prose, which covers all these elements including the tannaitic dispute at the end.",
+      "chosen_heading": "Link Source Debate",
+      "current_heading": "Link Source Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Midrashic Omissions",
+    "candidates": [
+      "Rav Huna Challenge",
+      "Tannaitic Debate",
+      "Midrashic Omissions",
+      "Mishna Four Applications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the school of Rabbi Yishmael's midrashic teachings explaining why the par helam davar shel tzibbur omits the yoteret v'shetei haklayot and the word 'kodesh' with parochet, which is precisely what the 'Midrashic Omissions' prose describes in detail.",
+      "chosen_heading": "Midrashic Omissions",
+      "current_heading": "Midrashic Omissions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Mishna Four Applications",
+    "candidates": [
+      "Mishna Four Applications",
+      "Piggul Implication",
+      "Chatzi Matir Definition",
+      "Menachos Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the Menachos mishna about piggul in the kometz but not the levona (or vice versa) and Rabbi Meir's ruling, which is precisely what the 'Menachos Comparison' prose section describes and analyzes.",
+      "chosen_heading": "Menachos Comparison",
+      "current_heading": "Mishna Four Applications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Menachos Comparison",
+    "candidates": [
+      "Piggul Implication",
+      "Chatzi Matir Definition",
+      "Menachos Comparison",
+      "Da'as Rishona Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the Rabbis' ruling that there is no karet unless piggul intention accompanies the entire matir, which is precisely the chachamim's position ('ein bo karet ad she'yefagel b'chol hamatir') discussed in the Menachos Comparison prose.",
+      "chosen_heading": "Menachos Comparison",
+      "current_heading": "Menachos Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Da'as Rishona Principle",
+    "candidates": [
+      "Da'as Rishona Principle",
+      "Gemara Question",
+      "Lapar Sufficiency",
+      "Rava Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon ben Lakish's reframing of Rabbi Meir's position based on the principle 'kol ha'oseh al da'as rishona hu oseh,' which is precisely what the 'Da'as Rishona Principle' section's prose discusses.",
+      "chosen_heading": "Da'as Rishona Principle",
+      "current_heading": "Da'as Rishona Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rava Reconciliation",
+    "candidates": [
+      "Gemara Question",
+      "Lapar Sufficiency",
+      "Rava Reconciliation",
+      "Braiata Explicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain discussing the reconciliation of the mishna's language (ke-tiknan/shelo ke-tiknan) with the rabbanan's position, covering Rabbi Shmuel bar Yitzchak's reinterpretation, Rava's chutz limkomo reading, Rav Ashi's shelo lishmo reading, and the gemara's final resolution via parallel framing \u2014 exactly matching the 'Rava Reconciliation' section's prose description.",
+      "chosen_heading": "Rava Reconciliation",
+      "current_heading": "Rava Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Braiata Explicit",
+    "candidates": [
+      "Braiata Explicit",
+      "New Shechita Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita citation and the gemara's immediate objection drawn from it \u2014 exactly what the 'Braiata Explicit' prose describes: the distinction between outer and inner altar blood applications, the forty-three/eleven counts, Rabbi Meir vs. Rabbis on piggul at any stage, and the gemara's pointed conclusion that this contradicts Rabbi Shimon ben Lakish's reading of Rabbi Meir.",
+      "chosen_heading": "Braiata Explicit",
+      "current_heading": "Braiata Explicit",
+      "moved": false
+    }
+  }
+]

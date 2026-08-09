@@ -96,8 +96,8 @@
           "timestamp": "09:39"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Source: The 'Tov Ve'ra' Exclusion",
@@ -120,8 +120,8 @@
           "timestamp": "15:49"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Position: Distinguishing by Kedusha Type",
@@ -144,8 +144,8 @@
           "timestamp": "20:38"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Meitivei Baraita: Resolving the Interpretations",
@@ -173,8 +173,8 @@
           "timestamp": "29:02"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Alternative Text and the Shitur Problem",
@@ -192,8 +192,8 @@
           "timestamp": "32:25"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Question of Redeeming Dead Korbanot and Dog Food",
@@ -216,8 +216,8 @@
           "timestamp": "33:39"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Baraita on Blemished Korbanot and Redemption",
@@ -240,7 +240,7 @@
           "timestamp": "33:39"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 19,
       "matched": false
     },
     {
@@ -269,7 +269,7 @@
           "timestamp": "33:39"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 19,
       "matched": false
     },
     {
@@ -298,8 +298,8 @@
           "timestamp": "33:39"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "The Final Resolution: Distinguishing Positions on Ba'al Mum Me'ikaro",
@@ -337,8 +337,8 @@
           "timestamp": "33:39"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -588,5 +588,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "33:39",
+  "amud_b_micro_title": "Rav Yirmiyah Query",
+  "shiur_start_daf": 33,
+  "shiur_start_amud": "a"
 }

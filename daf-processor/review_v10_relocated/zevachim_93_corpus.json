@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ricochet Question",
+    "candidates": [
+      "Ricochet Question",
+      "Rabbi Akiva Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Levi's initial question about blood ricocheting from one garment to another, which is precisely what the 'Ricochet Question' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Ricochet Question",
+      "current_heading": "Ricochet Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Simultaneous Tumah",
+      "Rav Huna's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yehuda HaNasi's mimah nafshach ruling and his explicit invocation of Rabbi Akiva's position, which is precisely what the 'Rabbi Akiva Position' prose describes in detail.",
+      "chosen_heading": "Rabbi Akiva Position",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Rav Huna's Answer",
+    "candidates": [
+      "Simultaneous Tumah",
+      "Rav Huna's Answer",
+      "Intro Debate",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rami bar Chama's question about blood spraying onto a tamei garment and Rav Chisda's answer that it is a dispute between Rabbi Elazar and the Rabbis \u2014 the very scenario described in candidate 0's prose about the simultaneous tumah question on 93a, while candidate 1 ('Rav Huna's Answer') conflates Rav Huna's observation with the subsequent exchange that actually belongs under 'Simultaneous Tumah.'",
+      "chosen_heading": "Simultaneous Tumah",
+      "current_heading": "Rav Huna's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Intro Debate",
+      "Rabbi Eliezer",
+      "Rabbi Akiva Airspace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the baraita quoting Rabbi Elazar (Eliezer) about mei chatas that became tamei still purifying because of sprinkling on a niddah, which is precisely what the 'Rabbi Eliezer' section's prose describes and analyzes.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rabbi Akiva Airspace",
+    "candidates": [
+      "Rabbi Akiva Airspace",
+      "Oven Flask Case",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabba's statement that Rabbi Elazar follows Rabbi Akiva's principle of 'k'munach dami' and the supporting Mishnah about the oven case, which is precisely what candidate 0's prose discusses under 'Rabbi Akiva Airspace'.",
+      "chosen_heading": "Rabbi Akiva Airspace",
+      "current_heading": "Rabbi Akiva Airspace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Oven Flask Case",
+      "Abaye's Challenge",
+      "Abaye's Reframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's challenge from the baraita about Rabbi Akiva conceding purity during sprinkling over tamei vessels, which is precisely what the 'Abaye's Challenge' section's prose describes and analyzes.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Abaye's Reframe",
+    "candidates": [
+      "Abaye's Reframe",
+      "Blood Application",
+      "Raba's Position",
+      "Minimum Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Abaye's reframing \u2014 everyone agrees passing through airspace is not like resting, the flask debate is a gezeirah, Rabbi Akiva concedes on sprinkling, and then the derivation question between Rabbi Elazar and the Rabbis about prior vs. simultaneous tumah \u2014 which matches exactly the prose of heading 0 ('Abaye's Reframe'), not heading 1 which discusses the transposition to the blood case conclusion.",
+      "chosen_heading": "Abaye's Reframe",
+      "current_heading": "Abaye's Reframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Minimum Amount",
+    "candidates": [
+      "Blood Application",
+      "Raba's Position",
+      "Minimum Amount",
+      "Invalid Chattat",
+      "Rabbi Akiva Fit",
+      "Rabbi Shimon",
+      "Verse Support",
+      "Akiva Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's alternative explanation \u2014 item 1 states his universal premise (everyone agrees one does not derive prior tumah from simultaneous tumah) and item 2 gives the actual dispute he identifies (whether sprinkling requires a measure), which is precisely what the 'Raba's Position' prose describes.",
+      "chosen_heading": "Raba's Position",
+      "current_heading": "Minimum Amount",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Akiva Counter",
+    "candidates": [
+      "Invalid Chattat",
+      "Rabbi Akiva Fit",
+      "Rabbi Shimon",
+      "Verse Support",
+      "Akiva Counter",
+      "Neck Blood",
+      "Applied Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete baraita/Gemara discussion about the disqualified sin offering (chatat pesulah) \u2014 the baraita, Rabbi Akiva's position, Rabbi Shimon's position, and the verse derivations \u2014 which belongs under 'Invalid Chattat' where the essay prose introduces this exact topic, not under 'Akiva Counter' where it is currently placed.",
+      "chosen_heading": "Invalid Chattat",
+      "current_heading": "Akiva Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Applied Blood",
+    "candidates": [
+      "Neck Blood",
+      "Applied Blood",
+      "Floor Blood",
+      "Summary Principle",
+      "Never Caught"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishnah covers all the cases \u2014 neck blood, corner/base blood, floor blood, and the summary principle \u2014 making it a single unified passage that belongs at the start, under the 'Neck Blood' heading where the Mishnah is first introduced, rather than midway through under 'Applied Blood'.",
+      "chosen_heading": "Neck Blood",
+      "current_heading": "Applied Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Never Caught",
+    "candidates": [
+      "Floor Blood",
+      "Summary Principle",
+      "Never Caught",
+      "Already Applied",
+      "Fitness Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both baraitot \u2014 the first excluding blood sprayed from the neck (never caught in a vessel, not fit for sprinkling) and the second excluding blood already sprinkled from the corner/base \u2014 and candidate 2 ('Never Caught') and candidate 3 ('Already Applied') each cover one baraita, but since both baraitot appear together in a single Gemara passage, the current placement under 'Never Caught' (index 2) is the best single heading, as it introduces the primary baraita and the second baraita flows directly from it.",
+      "chosen_heading": "Never Caught",
+      "current_heading": "Never Caught",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Fitness Summary",
+    "candidates": [
+      "Already Applied",
+      "Fitness Summary",
+      "Mixed Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Mishnah's case of blood spilled on the floor and the Gemara's explanation that the summary principle states the rationale rather than adding a new halakha, which is precisely what the 'Fitness Summary' prose describes.",
+      "chosen_heading": "Fitness Summary",
+      "current_heading": "Fitness Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Mixed Vessels",
+    "candidates": [
+      "Mixed Vessels",
+      "Chalafta Bar Shaul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question and answer about 'rauy lehazayah' excluding the case of receiving less than the required shi'ur in two separate vessels \u2014 exactly the content described in the 'Mixed Vessels' prose.",
+      "chosen_heading": "Mixed Vessels",
+      "current_heading": "Mixed Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Chalafta Bar Shaul",
+    "candidates": [
+      "Chalafta Bar Shaul",
+      "Blood Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi \u1e24alafta bar Shaul's baraita about sanctifying less than the required amount in two separate vessels, which is precisely what the prose under 'Chalafta Bar Shaul' describes and analyzes.",
+      "chosen_heading": "Chalafta Bar Shaul",
+      "current_heading": "Chalafta Bar Shaul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Blood Question",
+    "candidates": [
+      "Blood Question",
+      "Unique to Parah",
+      "Rava's Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the dilemma about blood \u2014 raising the question, presenting the two sides (hilkheta vs. pasuk-based reasoning with v'taval badam), and then resolving it with Rabbi Zerika/Rabbi Elazar's ruling \u2014 which exactly matches the 'Blood Question' prose description.",
+      "chosen_heading": "Blood Question",
+      "current_heading": "Blood Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Rava's Blood",
+    "candidates": [
+      "Unique to Parah",
+      "Rava's Blood",
+      "Baraita Finger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rava's baraita about dipping finger in blood (v'taval, badam, min hadam shebe'inyan) and the exclusion of remainder blood on the finger, which matches exactly the prose description under 'Rava's Blood'.",
+      "chosen_heading": "Rava's Blood",
+      "current_heading": "Rava's Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Baraita Finger",
+    "candidates": [
+      "Baraita Finger",
+      "Two Readings",
+      "Abaye Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Finger",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita itself \u2014 'before sprinkling requires laundering, after does not' \u2014 which matches exactly the 'Baraita Finger' prose that quotes and paraphrases this same baraita text.",
+      "second_heading": "Two Readings",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the two competing interpretations of the baraita (the 'gamar mil'hazot' reading vs. the 'yatzta haza'ah miyado' reading), which matches precisely the 'Two Readings' prose that explicates these exact two interpretations and their consequences.",
+      "current_heading": "Baraita Finger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Abaye Challenge",
+    "candidates": [
+      "Two Readings",
+      "Abaye Challenge",
+      "Rava Response",
+      "Vessel Rim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's challenge from the Parah Adumah Mishnah and Rava's response about wiping the hand vs. the finger, which matches exactly the 'Abaye Challenge' and 'Rava Response' prose \u2014 but since item 1 includes both the challenge AND Rava's reply (gamar/lo gamar distinction), it belongs under the 'Abaye Challenge' heading where the current placement is, as that section's prose covers the full exchange.",
+      "second_heading": "Vessel Rim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the follow-up question about what one wipes the finger on between sprinklings and Abaye's answer about the vessel rim (bishlama/etzba'o/b'ispat mizrak/kipporei zahav), which matches precisely the 'Vessel Rim' section's prose description of that exact exchange.",
+      "current_heading": "Abaye Challenge",
+      "moved": true
+    }
+  }
+]

@@ -48,8 +48,8 @@
           "timestamp": "04:20"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Assi and Rabbi Yochanan's Interpretation: The Altar's Actual Location is Distinct from Permitted Slaughter Locations",
@@ -77,7 +77,7 @@
           "timestamp": "09:11"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -106,7 +106,7 @@
           "timestamp": "19:00"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -483,5 +483,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "26:30",
+  "amud_b_micro_title": "Inside/Outside Principle",
+  "shiur_start_daf": 58,
+  "shiur_start_amud": "a"
 }

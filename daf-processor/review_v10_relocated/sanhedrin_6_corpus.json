@@ -1,0 +1,195 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Yoreh Yoreh Origins",
+    "candidates": [
+      "Yoreh Yoreh Origins",
+      "Licensing Purposes",
+      "Rabbi's Inspection",
+      "Tanchum Story",
+      "Distance Requirement",
+      "Conditional Authority",
+      "Shmuel's View",
+      "Unknown Judge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ashi's inference about whether compromise requires an act of acquisition, and the number of judges needed for a beit din \u2014 directly connecting to Shmuel's view on two judges versus three, which is the topic of heading 6.",
+      "chosen_heading": "Shmuel's View",
+      "current_heading": "Yoreh Yoreh Origins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Unknown Judge",
+    "candidates": [
+      "Licensing Purposes",
+      "Rabbi's Inspection",
+      "Tanchum Story",
+      "Distance Requirement",
+      "Conditional Authority",
+      "Shmuel's View",
+      "Unknown Judge",
+      "Shimon ben Gamliel",
+      "Abbahu Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is the baraita about mediation requiring three judges, the prohibition on mediating after judgment is issued, and the various opinions about 'botze'a' \u2014 this is precisely the content that the 'Shimon ben Gamliel' section introduces, where Rabban Shimon ben Gamliel distinguishes between formal judgment (three judges) and compromise/peshara (two judges), and the passage elaborates on the nature of mediation/compromise versus judgment.",
+      "chosen_heading": "Shimon ben Gamliel",
+      "current_heading": "Unknown Judge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Abbahu Disputes",
+    "candidates": [
+      "Shimon ben Gamliel",
+      "Abbahu Disputes",
+      "Kiblu Aleihu",
+      "Error & Liability",
+      "Din Torah Requirement",
+      "Reconciliation",
+      "Taah Bidvar Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses mediation/bitzua (peshara) as a form of dispute resolution where both parties are satisfied, which directly corresponds to the 'Reconciliation' section's prose contrasting peshara/bitzua (where kiblu aleihu without din Torah demand means the arbitrator's decision is fully binding with no liability) with other adjudication scenarios.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Abbahu Disputes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Taah Bidvar Mishna",
+    "candidates": [
+      "Kiblu Aleihu",
+      "Error & Liability",
+      "Din Torah Requirement",
+      "Reconciliation",
+      "Taah Bidvar Mishna",
+      "Shikul Hadaat Error",
+      "Error Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "Items 1\u20134 all concern the legitimate scope of mediation (bitzua) versus strict judgment, the 'justice and charity' framework, and when a judge may redirect parties to mediation \u2014 themes that align with heading 3's discussion of peshara/bitzua versus din Torah, rather than heading 4's focus on erroneous rulings in black-letter law.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Taah Bidvar Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Error Paradox",
+    "candidates": [
+      "Shikul Hadaat Error",
+      "Error Paradox",
+      "Canonization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "None of the candidate prose sections directly address the passage's content about judicial courage, fear of powerful litigants, witness accountability, and compromise vs. strict judgment, so the current placement is retained by default.",
+      "chosen_heading": "Error Paradox",
+      "current_heading": "Error Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Canonization",
+    "candidates": [
+      "Canonization",
+      "Parallel Requirements",
+      "Three Peshara Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Tannaitic debate between Rabbi Yehoshua ben Kor\u1e25a and the first tanna about whether offering compromise is a mitzva or merely permitted \u2014 this is precisely the 'Three Peshara Views' content about the positions of different tannaim on peshara, not about canonization.",
+      "chosen_heading": "Three Peshara Views",
+      "current_heading": "Canonization",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Three Peshara Views",
+    "candidates": [
+      "Parallel Requirements",
+      "Three Peshara Views",
+      "Two as Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the distinction between the first tanna and Rabbi Shimon ben Menasya regarding when one may suggest mediation, which directly concerns the three positions on peshara and their boundaries \u2014 the content the 'Three Peshara Views' prose explicitly addresses.",
+      "chosen_heading": "Three Peshara Views",
+      "current_heading": "Three Peshara Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Two as Witnesses",
+    "candidates": [
+      "Two as Witnesses",
+      "Peshara Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1\u20132 discuss Aaron and the Golden Calf (Rabbi Tan\u1e25um bar \u1e24anilai's view), and items 3\u20134 discuss the verse 'the beginning of strife is as when one releases water' and the importance of addressing quarrels early \u2014 all of which are cited in the Peshara Summary prose as part of the Gemara's discussion of when peshara may or must be offered and the underlying tension about compromise, fitting squarely under 'Peshara Summary' rather than the 'Two as Witnesses' procedural discussion.",
+      "chosen_heading": "Peshara Summary",
+      "current_heading": "Two as Witnesses",
+      "moved": true
+    }
+  }
+]

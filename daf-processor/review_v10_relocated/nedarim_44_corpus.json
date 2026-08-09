@@ -1,0 +1,162 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "3-Day Retraction Period",
+    "candidates": [
+      "Madir & Hefker Mechanism",
+      "Rabbi Yose's Objection",
+      "Yochanan: Hefker/Matana",
+      "Baalut & Ownership",
+      "Why Make Fields Hefker",
+      "3-Day Retraction Period",
+      "Limited-Time Hefker",
+      "Kinyan Blocks Retraction",
+      "Rabbinic 3-Day Retraction",
+      "The Rammaim Problem",
+      "Rav's Patience Theory",
+      "Ulla: Both Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The baraita directly states the three-day retraction rule for hefker of a field, which is precisely what the '3-Day Retraction Period' section discusses.",
+      "chosen_heading": "3-Day Retraction Period",
+      "current_heading": "3-Day Retraction Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Ulla: Both Rabbanan",
+    "candidates": [
+      "Limited-Time Hefker",
+      "Kinyan Blocks Retraction",
+      "Rabbinic 3-Day Retraction",
+      "The Rammaim Problem",
+      "Rav's Patience Theory",
+      "Ulla: Both Rabbanan",
+      "Reish Lakish: Rabbi Yose",
+      "Ran's Confusion Theory",
+      "Hefker vs. Matana: Ran",
+      "Terumot U'Maasrot Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items form a continuous dispute about whether the reisha and seifa of the baraita on limited-time hefker belong to Rabbanan or Rabbi Yose \u2014 Ulla's view that both are Rabbanan (item 2) and Reish Lakish's view that both are Rabbi Yose (item 3) are exactly what the 'Ulla: Both Rabbanan' section's prose describes, and item 1 sets up the initial contradiction that both responses address.",
+      "chosen_heading": "Ulla: Both Rabbanan",
+      "current_heading": "Ulla: Both Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Terumot U'Maasrot Mix",
+    "candidates": [
+      "Reish Lakish: Rabbi Yose",
+      "Ran's Confusion Theory",
+      "Hefker vs. Matana: Ran",
+      "Terumot U'Maasrot Mix",
+      "Three-Day Puzzle",
+      "Rava: Rammaim Balance",
+      "After 3 Days Fully Hefker",
+      "Reclaim Confusion Chiyuv",
+      "Vineyard Hefker Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage addresses exactly the two competing concerns Rava balances \u2014 the rammaim who exploit hefker to avoid tithing (item 1) and the de'oraita/de'rabbanan tithing confusion (items 2-4) \u2014 which is precisely what candidate 5 ('Rava: Rammaim Balance') describes.",
+      "chosen_heading": "Rava: Rammaim Balance",
+      "current_heading": "Terumot U'Maasrot Mix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Vineyard Hefker Baraita",
+    "candidates": [
+      "Three-Day Puzzle",
+      "Rava: Rammaim Balance",
+      "After 3 Days Fully Hefker",
+      "Reclaim Confusion Chiyuv",
+      "Vineyard Hefker Baraita",
+      "Ulla Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita about declaring a vineyard hefker and then harvesting it, which is precisely what candidate 4 ('Vineyard Hefker Baraita') describes in its prose.",
+      "chosen_heading": "Vineyard Hefker Baraita",
+      "current_heading": "Vineyard Hefker Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Ulla Reconciliation",
+    "candidates": [
+      "Ulla Reconciliation",
+      "Reish Lakish Questions",
+      "Ran: Implicit Retraction",
+      "Reish Lakish: Rabbi Yose",
+      "Two vs. Three Distinction",
+      "Three Witnesses Effective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the Gemara's challenge to Reish Lakish \u2014 asking why the baraita exempts from tithe when according to Reish Lakish the three-day rabbinic rule should maintain chiyuv \u2014 which is precisely what the 'Reish Lakish Questions' prose describes.",
+      "chosen_heading": "Reish Lakish Questions",
+      "current_heading": "Ulla Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Three Witnesses Effective",
+    "candidates": [
+      "Reish Lakish Questions",
+      "Ran: Implicit Retraction",
+      "Reish Lakish: Rabbi Yose",
+      "Two vs. Three Distinction",
+      "Three Witnesses Effective",
+      "Three Witnesses Purpose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reish Lakish: Rabbi Yose",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Reish Lakish's answer attributing the baraita to rabbanan rather than Rabbi Yose, which matches the 'Reish Lakish: Rabbi Yose' prose exactly.",
+      "second_heading": "Two vs. Three Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the 'if you wish say' alternative resolution based on the two-vs-three people distinction, which matches the 'Two vs. Three Distinction' prose precisely.",
+      "current_heading": "Three Witnesses Effective",
+      "moved": true
+    }
+  }
+]

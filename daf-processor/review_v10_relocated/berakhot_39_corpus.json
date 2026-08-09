@@ -1,0 +1,478 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Maror Exception",
+    "candidates": [
+      "Cooked Vegs & Bracha",
+      "Maror Exception",
+      "Identity & Taste",
+      "Tosafot on Cooking",
+      "Examples & Standards",
+      "Zeira & Olive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a single objection-and-answer unit about maror vegetables, which is exactly what the 'Maror Exception' prose describes \u2014 the baraita about pickled/boiled maror and the Gemara's deflection that taste of bitterness is required.",
+      "chosen_heading": "Maror Exception",
+      "current_heading": "Maror Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Zeira & Olive",
+    "candidates": [
+      "Identity & Taste",
+      "Tosafot on Cooking",
+      "Examples & Standards",
+      "Zeira & Olive",
+      "No Shiur Before",
+      "Kezayit Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the question Rabbi Yirmiya poses to Rabbi Zeira about how Rabbi Yochanan could recite a blessing over a salted olive once the pit is removed, which is precisely what the 'Zeira & Olive' prose describes.",
+      "chosen_heading": "Zeira & Olive",
+      "current_heading": "Zeira & Olive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Kezayit Definition",
+    "candidates": [
+      "No Shiur Before",
+      "Kezayit Definition",
+      "Water Displacement",
+      "Aguri Olive Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the resolution that a medium-sized olive (not large) is required, and explains that Rabbi Yochanan's large olive retained the requisite measure even after pit removal \u2014 exactly what the 'Kezayit Definition' prose describes.",
+      "chosen_heading": "Kezayit Definition",
+      "current_heading": "Kezayit Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Aguri Olive Type",
+    "candidates": [
+      "Water Displacement",
+      "Aguri Olive Type",
+      "Historical Olives",
+      "Setup & Foods",
+      "First Mistake",
+      "Second's Mock",
+      "Anger & Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the aguri olive and Rabbi Abbahu's clarification of its name and etymology, which is precisely what the 'Aguri Olive Type' section's prose describes.",
+      "chosen_heading": "Aguri Olive Type",
+      "current_heading": "Aguri Olive Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Anger & Rebuke",
+    "candidates": [
+      "Historical Olives",
+      "Setup & Foods",
+      "First Mistake",
+      "Second's Mock",
+      "Anger & Rebuke",
+      "Deaths & Aftermath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Bar Kappara narrative from its beginning \u2014 the two students sitting before him, the foods brought, and Bar Kappara giving permission to bless \u2014 which matches the 'Setup & Foods' section's prose that describes exactly these opening elements of the story.",
+      "chosen_heading": "Setup & Foods",
+      "current_heading": "Anger & Rebuke",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Deaths & Aftermath",
+    "candidates": [
+      "Anger & Rebuke",
+      "Deaths & Aftermath",
+      "Desired First",
+      "Satiates First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that both students did not live out their year, which directly corresponds to the 'Deaths & Aftermath' section's prose discussion of this exact baraita ('tana u'shneihem lo hotziu shenatam').",
+      "chosen_heading": "Deaths & Aftermath",
+      "current_heading": "Deaths & Aftermath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Satiates First",
+    "candidates": [
+      "Desired First",
+      "Satiates First",
+      "Specificity & Desire",
+      "Huna & Turnips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's attempt to infer a formal dispute (item 1) and then its rejection of that framing (item 2), which together form the 'Mai lav be-ha ka mipalgi' unit described in candidate 0's prose about reconstructing the debate \u2014 candidate 1's prose actually covers the rejection and its resolution (kruv adif/di-zayin), meaning item 2 belongs with candidate 0 as setup, and the passage as a whole fits under 'Desired First' where the initial inference and its refusal are discussed together before the final ruling.",
+      "chosen_heading": "Desired First",
+      "current_heading": "Satiates First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Huna & Turnips",
+    "candidates": [
+      "Specificity & Desire",
+      "Huna & Turnips",
+      "Yehudah Revises",
+      "Flour in Stew",
+      "Lidvukei Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's ruling (large vs. small cuts) and Rav Yehuda's revision (both get borei pri ha'adama because mincing sweetens the flavor), which together constitute the full content described in the 'Yehudah Revises' section's prose \u2014 the current placement under 'Huna & Turnips' only covers the first half, while 'Yehudah Revises' prose explicitly addresses the complete passage including Rav Yehuda's teaching.",
+      "chosen_heading": "Yehudah Revises",
+      "current_heading": "Huna & Turnips",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Lidvukei Principle",
+    "candidates": [
+      "Yehudah Revises",
+      "Flour in Stew",
+      "Lidvukei Principle",
+      "Papa & Waters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both parts of Rav Kahana's teaching \u2014 the initial distinction between beet stew (borei pri ha'adama) and turnip stew with extra flour (mezonot), and his subsequent reversal \u2014 which together form one continuous unit best matched by the 'Flour in Stew' prose that introduces both the initial ruling and the reversal, rather than splitting them across two headings.",
+      "chosen_heading": "Flour in Stew",
+      "current_heading": "Lidvukei Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Papa & Waters",
+    "candidates": [
+      "Lidvukei Principle",
+      "Papa & Waters",
+      "Tosafot's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24isda's statement on beet dishes being beneficial for health is tangentially connected to the discussion of beet water ('maya de-silka') under the 'Papa & Waters' section, where beets are the central subject, and the passage itself is explicitly introduced as 'tangential to this mention of a turnip dish,' fitting naturally as a digression within that section's discussion of beet/turnip-related topics.",
+      "chosen_heading": "Papa & Waters",
+      "current_heading": "Papa & Waters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Tosafot's Problem",
+    "candidates": [
+      "Tosafot's Problem",
+      "Dill Question",
+      "Terumah Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Pappa's statement about beet water/turnip water and his dilemma about dill water, which is precisely what the 'Dill Question' prose section describes.",
+      "chosen_heading": "Dill Question",
+      "current_heading": "Tosafot's Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Terumah Precedent",
+    "candidates": [
+      "Dill Question",
+      "Terumah Precedent",
+      "Drinks General Rule",
+      "Chiya's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly resolves Rav Papa's dill question using the terumah precedent, matching exactly the prose of 'Terumah Precedent' which describes this same Gemara resolution.",
+      "chosen_heading": "Terumah Precedent",
+      "current_heading": "Terumah Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Chiya's View",
+    "candidates": [
+      "Drinks General Rule",
+      "Chiya's View",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chiya's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav \u1e24iyya bar Ashi's ruling about dry bread and the tension with Rabbi \u1e24iyya's view, which is exactly what heading 1 ('Chiya's View') discusses.",
+      "second_heading": "Rava's View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's objection challenging the assumption underlying Rabbi \u1e24iyya's position, which is precisely what heading 2 ('Rava's View') discusses.",
+      "current_heading": "Chiya's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Rava's View",
+      "Practice Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's ruling to bless first and break afterward, which is precisely what the 'Rava's View' prose section discusses and introduces.",
+      "chosen_heading": "Rava's View",
+      "current_heading": "Rava's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Practice Debate",
+    "candidates": [
+      "Practice Debate",
+      "Shabbat Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Nehardea practice, the Rabbis following Rava, Ravina's mother's report, and the final ruling 'hilcheta ke-Rava' \u2014 all of which match precisely the 'Practice Debate' section's prose.",
+      "chosen_heading": "Practice Debate",
+      "current_heading": "Practice Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Shabbat Risk",
+    "candidates": [
+      "Shabbat Risk",
+      "Huna on Pieces",
+      "Yochanan on Form",
+      "Wheat vs. Barley",
+      "Priority Hierarchy",
+      "Onion Dispute",
+      "With Kohen",
+      "Without Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the exact amoraic dispute between Rav Huna and Rabbi Yochanan about pieces vs. whole loaves, plus the wheat/barley case \u2014 matching heading 1 ('Huna on Pieces') which introduces this very Gemara scenario, while the current placement under 'Shabbat Risk' is clearly wrong.",
+      "chosen_heading": "Huna on Pieces",
+      "current_heading": "Shabbat Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Without Kohen",
+    "candidates": [
+      "Huna on Pieces",
+      "Yochanan on Form",
+      "Wheat vs. Barley",
+      "Priority Hierarchy",
+      "Onion Dispute",
+      "With Kohen",
+      "Without Kohen",
+      "Ravina's Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Onion Dispute",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the tannaitic onion dispute and the question of whether it maps onto 'chashuv adif' vs 'shalem adif', which is exactly what the 'Onion Dispute' prose describes.",
+      "second_heading": "With Kohen",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the reframing about when a kohen is present versus absent, which is precisely what the 'With Kohen' prose discusses (kulei alma lo pligi de-chashuv adif when kohen is present).",
+      "current_heading": "Without Kohen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Ravina's Solution",
+    "candidates": [
+      "Without Kohen",
+      "Ravina's Solution",
+      "Pesach Exception",
+      "Lechem Oni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly describe the yere shamayim solution of Mar brei de-Ravina placing the piece inside the whole loaf, and the Shalman tanna episode \u2014 exactly what candidate 1 'Ravina's Solution' discusses in its prose.",
+      "chosen_heading": "Ravina's Solution",
+      "current_heading": "Ravina's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Lechem Oni",
+    "candidates": [
+      "Pesach Exception",
+      "Lechem Oni",
+      "Ashkenazi Custom",
+      "Multiple Blessings",
+      "Rambam Position",
+      "Double Manna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's statement that everyone agrees on Pesach one places the broken piece inside the whole and breaks, which is precisely what the 'Pesach Exception' section's prose discusses, while the current 'Lechem Oni' section covers only the reasoning (lechem oni ktiv) that follows from this statement.",
+      "chosen_heading": "Pesach Exception",
+      "current_heading": "Lechem Oni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Double Manna",
+    "candidates": [
+      "Ashkenazi Custom",
+      "Multiple Blessings",
+      "Rambam Position",
+      "Double Manna",
+      "Portion Requirement",
+      "Zeira's Piece",
+      "Etiquette Question",
+      "Thick Slices",
+      "Ami & Assi",
+      "Mitzvah Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the Shabbat lechem mishneh obligation \u2014 item 1 establishes the requirement from 'lechem mishneh ktiv' and item 2 discusses how Rav Kahana and Rav Zeira fulfilled it \u2014 which is precisely what the 'Double Manna' section's prose discusses.",
+      "chosen_heading": "Double Manna",
+      "current_heading": "Double Manna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Mitzvah Principle",
+    "candidates": [
+      "Portion Requirement",
+      "Zeira's Piece",
+      "Etiquette Question",
+      "Thick Slices",
+      "Ami & Assi",
+      "Mitzvah Principle",
+      "Custom Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ami and Rav Assi using eruv bread for hamotzi on Shabbat, which is exactly what candidate 4 ('Ami & Assi') describes, while candidate 5 ('Mitzvah Principle') covers only the explanatory reasoning they gave, making 4 the better home for the full passage including both the action and the explanation.",
+      "chosen_heading": "Ami & Assi",
+      "current_heading": "Mitzvah Principle",
+      "moved": true
+    }
+  }
+]

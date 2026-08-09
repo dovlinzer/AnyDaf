@@ -1,0 +1,439 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Types of Menachot",
+    "candidates": [
+      "Types of Menachot",
+      "Oil vs. Frankincense",
+      "Frankincense Properties",
+      "Oil on Remnants",
+      "Vessel on Vessel",
+      "Reversibility Question",
+      "Ground Frankincense Q",
+      "Two Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the mishna about separate liability for oil and frankincense, the disqualification by oil vs. recoverability by gathering frankincense, and the baraita deriving these rules from the verse \u2014 directly discuss the 'Oil vs. Frankincense' distinction that heading 1's prose explicitly addresses, making it a clearly better fit than the current 'Types of Menachot' heading.",
+      "chosen_heading": "Oil vs. Frankincense",
+      "current_heading": "Types of Menachot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Two Reasons",
+    "candidates": [
+      "Oil vs. Frankincense",
+      "Frankincense Properties",
+      "Oil on Remnants",
+      "Vessel on Vessel",
+      "Reversibility Question",
+      "Ground Frankincense Q",
+      "Two Reasons",
+      "Mishnah Proof",
+      "Both Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents the exact dilemma posed by Rabba bar Rav Huna to Rabbi Yo\u1e25anan about ground frankincense, which is precisely what candidate 5 ('Ground Frankincense Q') describes in its prose \u2014 the question of what happens when levonah is ground to powder and cannot be picked off.",
+      "chosen_heading": "Ground Frankincense Q",
+      "current_heading": "Two Reasons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Both Required",
+    "candidates": [
+      "Mishnah Proof",
+      "Both Required",
+      "Baraita Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's attempt to prove from the mishna's language 'yilktenah' and the immediate rejection of that proof \u2014 exactly what heading 0 ('Mishnah Proof') describes, while heading 1 ('Both Required') covers the subsequent chada v'od resolution and Rav Nachman bar Yitzchak's baraita which are not yet present in these items.",
+      "chosen_heading": "Mishnah Proof",
+      "current_heading": "Both Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Baraita Ruling",
+    "candidates": [
+      "Both Required",
+      "Baraita Ruling",
+      "Tosafot Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the frankincense-gathering proof, the 'one reason and another' rebuttal, and Rav Na\u1e25man bar Yitz\u1e25ak's baraita resolving that removability is the essential criterion \u2014 are precisely the content described in candidate 0's prose, which covers the chada v'od ka'amar response and the final resolution from Rav Na\u1e25man bar Yitz\u1e25ak's baraita.",
+      "chosen_heading": "Both Required",
+      "current_heading": "Baraita Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Tosafot Text",
+    "candidates": [
+      "Tosafot Text",
+      "Abaye: Retains Status",
+      "Rava: Chananya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact Aramaic text 'v'tehevei pach v'amai pasla b'machshava dichuy hu' which is precisely what the Tosafot Text prose section analyzes and discusses as the Gemara's language under examination.",
+      "chosen_heading": "Tosafot Text",
+      "current_heading": "Tosafot Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rava: Chananya",
+    "candidates": [
+      "Abaye: Retains Status",
+      "Rava: Chananya",
+      "Rav Ashi: In Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's answer (Item 1) and the supporting baraita about \u1e24anan the Egyptian (Item 2), which is precisely what the 'Rava: Chananya' section's prose describes.",
+      "chosen_heading": "Rava: Chananya",
+      "current_heading": "Rava: Chananya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rav Ashi: In Power",
+    "candidates": [
+      "Rav Ashi: In Power",
+      "Rav Ada Agrees",
+      "Rabbi Yehuda Dichuy",
+      "Pesach Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Ashi's principle that anything within one's power is not deemed dichuy, which is precisely what heading 0 'Rav Ashi: In Power' discusses.",
+      "chosen_heading": "Rav Ashi: In Power",
+      "current_heading": "Rav Ashi: In Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Pesach Blood",
+    "candidates": [
+      "Rav Ada Agrees",
+      "Rabbi Yehuda Dichuy",
+      "Pesach Blood",
+      "Oil Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete argument of Rav Adda: item 1 establishes that dichuy belongs to Rabbi Yehuda, and item 2 immediately shows that even Rabbi Yehuda accepts the beyado exception \u2014 this is precisely what candidate 0 ('Rav Ada Agrees') describes in its prose.",
+      "chosen_heading": "Rav Ada Agrees",
+      "current_heading": "Pesach Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Oil Shiur",
+    "candidates": [
+      "Pesach Blood",
+      "Oil Shiur",
+      "Frankincense Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses placing oil on a meal offering and the shiur requirements, which matches exactly the 'Oil Shiur' section's prose about Rabbi Yitzchak bar Yosef/Rabbi Yochanan's ruling on mashehu oil upon a kezayit of mincha.",
+      "chosen_heading": "Oil Shiur",
+      "current_heading": "Oil Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Frankincense Shiur",
+    "candidates": [
+      "Frankincense Shiur",
+      "Language Difference",
+      "Double Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together state Rabbi Yochanan's ruling that a kezayit of frankincense disqualifies any amount of mincha, and the ribui achar ribui derivation for the mashehu mincha requirement \u2014 exactly the content described in the 'Frankincense Shiur' prose.",
+      "chosen_heading": "Frankincense Shiur",
+      "current_heading": "Frankincense Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Double Language",
+    "candidates": [
+      "Language Difference",
+      "Double Language",
+      "Two Prohibitions",
+      "Transgress After Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's dilemma about whether 'shima' (placing) requires a kezayit like 'netinah' (giving), left as teiku \u2014 exactly the content described in the 'Double Language' section's prose about 'mi bayinan sima k'nesina' and the Gemara leaving it unresolved.",
+      "chosen_heading": "Double Language",
+      "current_heading": "Double Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Transgress After Invalid",
+    "candidates": [
+      "Two Prohibitions",
+      "Transgress After Invalid",
+      "Tosafot Readings",
+      "Vessel on Vessel (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about 'lo yasim aleha shemen v'lo yiten' and the word 'aleha' teaching that both prohibitions apply to the same mincha \u2014 exactly what heading 0 ('Two Prohibitions') describes in its prose.",
+      "chosen_heading": "Two Prohibitions",
+      "current_heading": "Transgress After Invalid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Vessel on Vessel (II)",
+    "candidates": [
+      "Tosafot Readings",
+      "Vessel on Vessel (II)",
+      "Mishnah Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the vessel-on-vessel case (kli al gabei kli) and the verse's response 'aleha' limiting the prohibition to direct placement on the mincha itself, which matches exactly the prose of 'Vessel on Vessel (II)' where it currently sits.",
+      "chosen_heading": "Vessel on Vessel (II)",
+      "current_heading": "Vessel on Vessel (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Mishnah Classification",
+    "candidates": [
+      "Mishnah Classification",
+      "Ten Offerings Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself presenting the four-category classification framework, which is precisely what the 'Mishnah Classification' prose introduces and explains.",
+      "chosen_heading": "Mishnah Classification",
+      "current_heading": "Mishnah Classification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Ten Offerings Listed",
+    "candidates": [
+      "Ten Offerings Listed",
+      "Rabbi Shimon",
+      "Rav Papa Ten",
+      "Bringing the Offering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover the mishna's list of ten meal offerings requiring hagasha but not tenufah (items 1-2), followed by Rav Pappa's principle about the count of ten and its exclusion of Rabbi Shimon's view on mixed loaves/wafers (items 3-4), which matches the 'Ten Offerings Listed' prose that discusses both the list and the underlying logic of the count of ten.",
+      "chosen_heading": "Ten Offerings Listed",
+      "current_heading": "Ten Offerings Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Bringing the Offering",
+    "candidates": [
+      "Rabbi Shimon",
+      "Rav Papa Ten",
+      "Bringing the Offering",
+      "Bring and Touch",
+      "Common Denominator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous baraita deriving the hagasha requirement from the verse in Leviticus 2:8, which is precisely what the 'Bringing the Offering' section's prose describes \u2014 the gemara asking mena hanei milei and the baraita reasoning about the kometz vs. the entire mincha.",
+      "chosen_heading": "Bringing the Offering",
+      "current_heading": "Bringing the Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Common Denominator",
+    "candidates": [
+      "Bring and Touch",
+      "Common Denominator",
+      "Minchat Chotei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the back-and-forth deflections of the minchat nedava / minchat sotah analogy \u2014 exactly the ping-pong argument described in the 'Common Denominator' prose, leading up to the tzad ha-shaveh conclusion.",
+      "chosen_heading": "Common Denominator",
+      "current_heading": "Common Denominator",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Minchat Chotei",
+    "candidates": [
+      "Minchat Chotei",
+      "Rabbi Shimon Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the *tzad ha-shaveh* argument and its refutation regarding the *minchat chotei* \u2014 the wealthy/poor distinction and the scriptural resolution via 'et ha-mincha' \u2014 which is precisely what the 'Minchat Chotei' prose section describes.",
+      "chosen_heading": "Minchat Chotei",
+      "current_heading": "Minchat Chotei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Rabbi Shimon Derivation",
+    "candidates": [
+      "Rabbi Shimon Derivation",
+      "Minchat Sotah",
+      "All with Kemitza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon's derivation using v'heiveita for minchat omer and v'hikrivah for minchat sotah, which is precisely what the 'Rabbi Shimon Derivation' section's prose describes in detail.",
+      "chosen_heading": "Rabbi Shimon Derivation",
+      "current_heading": "Rabbi Shimon Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "All with Kemitza",
+    "candidates": [
+      "Minchat Sotah",
+      "All with Kemitza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous baraita deriving that the minchat sotah requires hagasha \u2014 exactly the dialectic described in candidate 0's prose (minchat chotei vs. sotah, minchat omer vs. sotah, tzad ha-shaveh, and the final scriptural hook v'hikrivah), whereas candidate 1's prose describes the aftermath/conclusion of that same baraita as already resolved.",
+      "chosen_heading": "Minchat Sotah",
+      "current_heading": "All with Kemitza",
+      "moved": true
+    }
+  }
+]

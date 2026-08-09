@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Huna's View",
+    "candidates": [
+      "Marrying with Milveh",
+      "Money Becomes Hers",
+      "Nafka Minas",
+      "Liability vs. Ownership",
+      "Rav Huna's View",
+      "Loans vs. Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's question about whether Rav Huna's ruling on borrowing an axe reflects one side of a tannaitic dispute, which is exactly what the prose under 'Rav Huna's View' describes.",
+      "chosen_heading": "Rav Huna's View",
+      "current_heading": "Rav Huna's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Loans vs. Objects",
+    "candidates": [
+      "Loans vs. Objects",
+      "Immediate Liability",
+      "Shtar Chov Cases",
+      "Whose Debt?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Loans vs. Objects",
+      "first_confidence": "high",
+      "first_reason": "Item 1 completes the loans-vs-objects distinction, explaining that for a borrowed object returned intact (dehadra be'eina) everyone agrees acquisition requires actual use, which is exactly what the 'Loans vs. Objects' prose discusses.",
+      "second_heading": "Shtar Chov Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the baraita about betrothing with a shtar chov and the Rabbi Meir/Rabbis dispute, which is precisely what the 'Shtar Chov Cases' prose describes as the Gemara's pivot to locating a machloket tannaim about mekadesh bimilveh.",
+      "current_heading": "Loans vs. Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Whose Debt?",
+    "candidates": [
+      "Immediate Liability",
+      "Shtar Chov Cases",
+      "Whose Debt?",
+      "Document Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage rejects the reading that the shtar chov is hers (deidah) and concludes both cases involve debts owed by others (de'acheirim), with the debate being about different sub-questions \u2014 exactly what the 'Whose Debt?' section's prose describes.",
+      "chosen_heading": "Whose Debt?",
+      "current_heading": "Whose Debt?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Document Transfer",
+    "candidates": [
+      "Document Transfer",
+      "Rav Pappa's Line",
+      "Shmuel's Mechilah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Document Transfer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita about otiyyot niknot bimesirah and the Rabbi vs. Rabbanan dispute, which is precisely what the 'Document Transfer' prose describes.",
+      "second_heading": "Rav Pappa's Line",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the alternative resolution involving Rav Pappa's required formula ('knei lach ihu ve'chol shibudei'), which is exactly what the 'Rav Pappa's Line' prose discusses.",
+      "current_heading": "Document Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Shmuel's Mechilah",
+    "candidates": [
+      "Rav Pappa's Line",
+      "Shmuel's Mechilah",
+      "Samchat Da'ata"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the 'if you wish say' alternative resolution that pivots to Shmuel's rule as the disputed point \u2014 this is the introduction of Shmuel's mechilah as a third resolution built on Rav Pappa's foundation, which the prose of heading 0 ('Rav Pappa's Line') explicitly anticipates as the next step, whereas heading 1 ('Shmuel's Mechilah') already discusses the content of Shmuel's ruling itself as established, not as being introduced here.",
+      "chosen_heading": "Rav Pappa's Line",
+      "current_heading": "Shmuel's Mechilah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Samchat Da'ata",
+    "candidates": [
+      "Shmuel's Mechilah",
+      "Samchat Da'ata",
+      "Ma'amad Shloshtan",
+      "Oral vs. Physical",
+      "Document Witnesses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Samchat Da'ata",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the alternative framing where everyone holds like Shmuel and the dispute is specifically about whether a woman has samchat da'ata in betrothal (lo shavik leididi u'machil le'achrinei), which is precisely what the 'Samchat Da'ata' prose describes.",
+      "second_heading": "Ma'amad Shloshtan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new case \u2014 the oral loan (milveh al peh) and the mechanism of ma'amad shloshtan (Rav Huna citing Rav) \u2014 which is the exact subject of the 'Ma'amad Shloshtan' prose section.",
+      "current_heading": "Samchat Da'ata",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Document Witnesses",
+    "candidates": [
+      "Ma'amad Shloshtan",
+      "Oral vs. Physical",
+      "Document Witnesses",
+      "Witness Requirements",
+      "Paper's Value",
+      "Shelo Lishmah",
+      "Lishmah Required"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oral vs. Physical",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the debate about whether ma'amad shloshtan works for milveh vs. pikadon, which is precisely what candidate 1 ('Oral vs. Physical') describes.",
+      "second_heading": "Document Witnesses",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the baraita about hiskadshi li beshtar, the contradiction in Rabbi Meir's positions, and Rav Nachman bar Yitzchak's resolution involving unsigned documents, which matches candidate 2 ('Document Witnesses') and flows into candidate 3 ('Witness Requirements').",
+      "current_heading": "Document Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Lishmah Required",
+    "candidates": [
+      "Witness Requirements",
+      "Paper's Value",
+      "Shelo Lishmah",
+      "Lishmah Required",
+      "Lishmah Lo Mida'atah",
+      "Amoraim Dispute",
+      "Jewelry Service",
+      "When Debt Incurs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the shelo lishmah question raised by Reish Lakish and its resolution, which corresponds exactly to the 'Shelo Lishmah' heading's prose about the debate over whether a shtar kiddushin must be written lishmah, whereas the current placement 'Lishmah Required' already covers Reish Lakish's resolution and the third item goes further into the lishmah ve'shelo mida'atah case that belongs under heading 4, making heading 2 the best single home for all three items as they collectively constitute the shelo lishmah framework.",
+      "chosen_heading": "Shelo Lishmah",
+      "current_heading": "Lishmah Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "When Debt Incurs",
+    "candidates": [
+      "Lishmah Lo Mida'atah",
+      "Amoraim Dispute",
+      "Jewelry Service",
+      "When Debt Incurs",
+      "Schirus Timing",
+      "Artisan's Share",
+      "Milveh U'Perutah",
+      "Past/Future Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous analytical chain exploring the jewelry-service baraita (Rabbi Meir vs. Sages) and its multiple possible resolutions \u2014 milveh, skhirus timing, uman koneh, nofekh \u2014 which is precisely what the 'When Debt Incurs' prose describes as its central content.",
+      "chosen_heading": "When Debt Incurs",
+      "current_heading": "When Debt Incurs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Past/Future Labor",
+    "candidates": [
+      "Schirus Timing",
+      "Artisan's Share",
+      "Milveh U'Perutah",
+      "Past/Future Labor",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present exactly what the 'Past/Future Labor' prose describes: the baraita with Rabbi Yehuda HaNasi's ruling on past/future labor and the nofekh addition, followed by the Gemara's mapping of the disputes between Tanna Kamma, Rabbi Natan, and Rabbi Yehuda HaNasi in terms of skhirus timing and milveh u'perutah \u2014 precisely what that section's prose narrates.",
+      "chosen_heading": "Past/Future Labor",
+      "current_heading": "Past/Future Labor",
+      "moved": false
+    }
+  }
+]

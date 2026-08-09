@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rashi: Direct Touch",
+    "candidates": [
+      "Terumah vs. Kodesh Hands",
+      "Rashi: Direct Touch",
+      "Tosfos: Extended Contact",
+      "Abaye's Dry Hand",
+      "Rabbi Yose: Psul not",
+      "Logic of Chiburin",
+      "Reish Lakish Initial",
+      "Rabbi Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheizevi's 'be-chiburin shanu' limitation, which is exactly what the 'Abaye's Dry Hand' section's prose introduces as its starting point before moving to Abaye's challenge, making it the natural home for this content rather than the 'Rashi: Direct Touch' section.",
+      "chosen_heading": "Abaye's Dry Hand",
+      "current_heading": "Rashi: Direct Touch",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rabbi Yochanan Position",
+    "candidates": [
+      "Tosfos: Extended Contact",
+      "Abaye's Dry Hand",
+      "Rabbi Yose: Psul not",
+      "Logic of Chiburin",
+      "Reish Lakish Initial",
+      "Rabbi Yochanan Position",
+      "Reish Lakish Retraction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Abaye's Dry Hand",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are Abaye's challenge from the dry-hand braisa and the Gemara's logical analysis of why the chiburin restriction makes the dryness specification meaningless, matching exactly the prose of 'Abaye's Dry Hand' and 'Logic of Chiburin' (items 1\u20132 under heading 1, item 3 under heading 3), but since all five must split at one point, items 1\u20133 belong under heading 1 ('Abaye's Dry Hand') which introduces the dry-hand braisa and the chiburin challenge.",
+      "second_heading": "Rabbi Yochanan Position",
+      "second_confidence": "high",
+      "second_reason": "Items 4\u20135 present Reish Lakish's ruling that the rule applies only to one's own hand and Rabbi Yochanan's counter-position extending it to another person's hand, along with the Gemara's derivation from the Mishnah's repeated clause \u2014 matching precisely the prose of heading 5 ('Rabbi Yochanan Position').",
+      "current_heading": "Rabbi Yochanan Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Reish Lakish Retraction",
+    "candidates": [
+      "Reish Lakish Retraction",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Reish Lakish's retraction transmitted through Rabbi Yona and Rabbi Ami, which is precisely what the 'Reish Lakish Retraction' section's prose discusses in detail.",
+      "chosen_heading": "Reish Lakish Retraction",
+      "current_heading": "Reish Lakish Retraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Tannaim Debate",
+      "Shlishi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Tannaitic dispute between Rabbi Yehoshua and the Rabbis about whether hands are sheniyot and whether a sheni can make another sheni, which is precisely what the 'Tannaim Debate' prose describes.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Shlishi Resolution",
+    "candidates": [
+      "Shlishi Resolution",
+      "Kodesh Eating Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address whether the second hand acquires sheni or shlishi impurity \u2014 the Gemara's inference, its rejection, and the tanna'im dispute between Rabbi Yehuda HaNasi and Rabbi Yosei son of Rabbi Yehuda \u2014 which is precisely what the 'Shlishi Resolution' prose describes.",
+      "chosen_heading": "Shlishi Resolution",
+      "current_heading": "Shlishi Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Kodesh Eating Scenario",
+    "candidates": [
+      "Kodesh Eating Scenario",
+      "Indirect Hand Risk",
+      "Immersion Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete sugya about dry foods, chibat ha-kodesh, and the distinction between kodesh and teruma in the mouth scenario, which is precisely what the 'Kodesh Eating Scenario' prose describes \u2014 including Rabbi Chanina ben Antignos's question about negiva and kodesh, answered by the reframing of the case involving food inserted by a friend or spindle.",
+      "chosen_heading": "Kodesh Eating Scenario",
+      "current_heading": "Kodesh Eating Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Immersion Requirement",
+    "candidates": [
+      "Indirect Hand Risk",
+      "Immersion Requirement",
+      "Status Change Reason",
+      "Year-Round Belief",
+      "Pressing Season Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains the reason for the immersion requirement ('since until now they were prohibited'), which is precisely what the 'Status Change Reason' section's prose discusses \u2014 the Gemara's rationale of keivan de-ha-idna hava asiri marking a transition from prohibited to permitted status.",
+      "chosen_heading": "Status Change Reason",
+      "current_heading": "Immersion Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Pressing Season Only",
+    "candidates": [
+      "Status Change Reason",
+      "Year-Round Belief",
+      "Pressing Season Only",
+      "Vessel Purification",
+      "Post-Season Barrel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna text introduces the entire 'chomer bi-terumah' section covering both year-round belief for kodesh and the pressing-season rule for terumah, and candidate 1's prose explicitly introduces this Mishna with the heading 'chomer bi-terumah' and discusses its overall structure, making it the natural home for the Mishna itself before the subsequent headings break down its individual components.",
+      "chosen_heading": "Year-Round Belief",
+      "current_heading": "Pressing Season Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Post-Season Barrel",
+    "candidates": [
+      "Vessel Purification",
+      "Post-Season Barrel",
+      "Kodesh Separation",
+      "Mixed Products"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Post-Season Barrel' prose discusses: the lapsing of credibility after the pressing season, the instruction to hold the barrel for the following season, and the exception when kodesh has been separated \u2014 all of which match the current placement under 'Post-Season Barrel' and its companion section 'Kodesh Separation', but the single passage covers both the main rule and the exception together, and the current placement (index 1) is where the passage sits and is the primary topic.",
+      "chosen_heading": "Post-Season Barrel",
+      "current_heading": "Post-Season Barrel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Mixed Products",
+    "candidates": [
+      "Kodesh Separation",
+      "Mixed Products",
+      "Samaritan Barrier",
+      "Beis HaMikdash Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly introduce the Mishnah's ruling about mingled jugs of wine and oil (meduma'ot) and the seventy-day pre-season extension, which is precisely what the 'Mixed Products' prose discusses.",
+      "chosen_heading": "Mixed Products",
+      "current_heading": "Mixed Products",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Beis HaMikdash Logic",
+    "candidates": [
+      "Samaritan Barrier",
+      "Beis HaMikdash Logic",
+      "Transport Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's inference about Judea vs. Galilee and Reish Lakish's explanation about the Samaritan strip, which is precisely what the 'Samaritan Barrier' section's prose describes.",
+      "chosen_heading": "Samaritan Barrier",
+      "current_heading": "Beis HaMikdash Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Transport Protection",
+    "candidates": [
+      "Beis HaMikdash Logic",
+      "Transport Protection",
+      "Sealed Vessel Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of transporting kodesh in a shidah/teivah/migdal and Rabbi Yehuda HaNasi's ruling that ohel zaruk is not a proper ohel, which is precisely what the 'Transport Protection' prose discusses.",
+      "chosen_heading": "Transport Protection",
+      "current_heading": "Transport Protection",
+      "moved": false
+    }
+  }
+]

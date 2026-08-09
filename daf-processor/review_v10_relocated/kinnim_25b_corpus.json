@@ -1,0 +1,41 @@
+[
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Garment Protocol",
+    "candidates": [
+      "Tamid Scope",
+      "Rambam: Why Last",
+      "Descriptive Nature",
+      "Three Stations",
+      "Priestly vs. Levite",
+      "Sources: Guarding",
+      "Mefaresh: Decree",
+      "Rambam: Honor",
+      "Roles & Purposes",
+      "HaNitzotz Role",
+      "Archers on Roof",
+      "Structure",
+      "Sleeping Quarters",
+      "Keys & Authority",
+      "Garment Protocol",
+      "Exit Protocol",
+      "Tunnel System",
+      "Mikvah & Toilet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "These items are the final mishnayot of Masechet Kinnim (mixed bird offerings and the concluding mishnah about the woman's vow), and heading 0 explicitly opens with 'With the conclusion of Kinnim, we turn to Masechet Tamid,' indicating this Kinnim material belongs immediately under that transitional heading.",
+      "chosen_heading": "Tamid Scope",
+      "current_heading": "Garment Protocol",
+      "moved": true
+    }
+  }
+]

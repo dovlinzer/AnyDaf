@@ -102,8 +102,8 @@
           "timestamp": "20:22"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 37,
+      "matched": true
     },
     {
       "title": "Those Without a Portion in the World to Come: Dor HaMabul (Generation of the Flood)",
@@ -296,7 +296,7 @@
           "timestamp": "53:28"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -320,7 +320,7 @@
           "timestamp": "54:55"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": false
     },
     {
@@ -733,5 +733,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "49:44",
+  "amud_b_micro_title": "Noah Warns",
+  "shiur_start_daf": 107,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,605 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Opening Context",
+    "candidates": [
+      "Opening Context",
+      "Nachum: One Day Only",
+      "Nachum's Background",
+      "Rejection Formula"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's resolution that the difference between the first tanna and the later Rabbis is precisely the opinion of Nachum HaMadi, which directly corresponds to the 'Rejection Formula' section's prose about later Rabbis being identified as Nachum HaMadi himself and the question of who holds his view.",
+      "chosen_heading": "Rejection Formula",
+      "current_heading": "Opening Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rejection Formula",
+    "candidates": [
+      "Nachum: One Day Only",
+      "Nachum's Background",
+      "Rejection Formula",
+      "Horse Sale Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 2's prose describes: Nachum HaMadi's position, the rejection formula 'nishtaka hadavar velo ne'emar,' the Gemara's objection about later Rabbis, and the answer that those 'Sages' are Nachum HaMadi himself \u2014 all of which aligns perfectly with the 'Rejection Formula' section's prose.",
+      "chosen_heading": "Rejection Formula",
+      "current_heading": "Rejection Formula",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Horse Sale Opinion",
+    "candidates": [
+      "Horse Sale Opinion",
+      "Animal Sales Mishna",
+      "Ben Beteira Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita of Nachum HaMadi's horse-sale ruling with the Rabbis' rejection formula, which is exactly what the 'Horse Sale Opinion' prose describes.",
+      "chosen_heading": "Horse Sale Opinion",
+      "current_heading": "Horse Sale Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Ben Beteira Comparison",
+    "candidates": [
+      "Animal Sales Mishna",
+      "Ben Beteira Comparison",
+      "Shevet Tithing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge regarding Ben Beteira's position on horse sales and the distinction between his view and Nachum HaMadi's gender-based differentiation, which is precisely what the 'Ben Beteira Comparison' prose describes.",
+      "chosen_heading": "Ben Beteira Comparison",
+      "current_heading": "Ben Beteira Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Shevet Tithing",
+    "candidates": [
+      "Shevet Tithing",
+      "Wild vs Garden Plant",
+      "Rav Acha Challenge",
+      "Shomea Tefilla Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the Nachum HaMadi ruling on shevet tithing (heading 0) and the Rabbi Eliezer/wild vs garden resolution (heading 1), but the current placement under 'Shevet Tithing' is acceptable since heading 1's prose already separately describes the Rabbi Eliezer challenge and resolution, suggesting the full passage including the resolution was intended to sit under heading 0.",
+      "chosen_heading": "Shevet Tithing",
+      "current_heading": "Shevet Tithing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Shomea Tefilla Opinion",
+    "candidates": [
+      "Wild vs Garden Plant",
+      "Rav Acha Challenge",
+      "Shomea Tefilla Opinion",
+      "Rabbi Eliezer View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the exchange where Rav Acha bar Minyumi challenges Abaye about Nachum HaMadi's rejected opinions and Abaye responds \u2014 this is the content described under 'Rav Acha Challenge', while the current placement 'Shomea Tefilla Opinion' covers the subsequent fuller discussion of that ruling and its qualification, making candidate 1 the clearly better match for these two items.",
+      "chosen_heading": "Rav Acha Challenge",
+      "current_heading": "Shomea Tefilla Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rabbi Eliezer View",
+    "candidates": [
+      "Shomea Tefilla Opinion",
+      "Rabbi Eliezer View",
+      "Rabbi Yehoshua View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Eliezer's baraita about requesting personal needs before prayer and his proof from Psalms and Genesis, which matches exactly the prose description under 'Rabbi Eliezer View'.",
+      "chosen_heading": "Rabbi Eliezer View",
+      "current_heading": "Rabbi Eliezer View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rabbi Yehoshua View",
+    "candidates": [
+      "Rabbi Yehoshua View",
+      "Verse Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehoshua's view that one should pray first and then request personal needs, citing Psalms 142:3, which directly matches the prose in section 0 describing Rabbi Yehoshua's position and that exact proof-text.",
+      "chosen_heading": "Rabbi Yehoshua View",
+      "current_heading": "Rabbi Yehoshua View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Verse Reconciliation",
+    "candidates": [
+      "Verse Reconciliation",
+      "Rav Simlai Ruling",
+      "Moshe Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the verse reconciliation passage \u2014 Item 1 shows each Rabbi explaining the other's proof-text, and Item 2 concludes that neither verse fits either opinion precisely and asks what the underlying dispute is \u2014 exactly matching the 'Verse Reconciliation' prose description.",
+      "chosen_heading": "Verse Reconciliation",
+      "current_heading": "Verse Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Moshe Example",
+    "candidates": [
+      "Rav Simlai Ruling",
+      "Moshe Example",
+      "Learning from Moshe",
+      "Moshe Uniqueness",
+      "Shomea Tefilla Location",
+      "Rav Yehuda Halacha",
+      "End of Blessing Rule",
+      "Relevant Blessing Rule",
+      "After Amidah Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the teaching of Rabbi Simlai in its entirety \u2014 both the principle (praise before prayer) and its derivation from Moses \u2014 which corresponds to the 'Rav Simlai Ruling' section's prose that asks 'from where this principle is derived,' making heading 0 the natural home for the complete source text, while heading 1 ('Moshe Example') is merely the essay's own paraphrase of the derivation already contained within this same passage.",
+      "chosen_heading": "Rav Simlai Ruling",
+      "current_heading": "Moshe Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "After Amidah Option",
+    "candidates": [
+      "Learning from Moshe",
+      "Moshe Uniqueness",
+      "Shomea Tefilla Location",
+      "Rav Yehuda Halacha",
+      "End of Blessing Rule",
+      "Relevant Blessing Rule",
+      "After Amidah Option",
+      "Holiday Names List",
+      "Death Celebration Rule",
+      "Private Celebration Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shomea Tefilla Location",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the three-way dispute (Rabbi Yehoshua, Rabbi Eliezer, Rabbis) and the halakhic ruling by Rav Yehuda/Shmuel that personal requests go in Shomea Tefillah, which matches the 'Shomea Tefillah Location' and 'Rav Yehuda Halacha' sections \u2014 but since item 1 wraps up the dispute with the Rabbis' position and item 2 is the definitive halakhic ruling, both belong under the 'Shomea Tefillah Location' prose which describes the chachamim's middle position that is then confirmed as halacha.",
+      "second_heading": "Relevant Blessing Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss specific exceptions \u2014 inserting prayer in the relevant blessing (sick person in birkat cholim, livelihood in birkat hashanim) and the post-Amidah option \u2014 matching 'Relevant Blessing Rule' prose which explicitly describes Rav Chiya bar Ashi's ruling about sick persons and livelihood.",
+      "current_heading": "After Amidah Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Private Celebration Rule",
+    "candidates": [
+      "Holiday Names List",
+      "Death Celebration Rule",
+      "Private Celebration Rule",
+      "Kalenda & Saturnalia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishnah passage covers all the content discussed across candidates 0-2 (holiday list, death rule, and private celebrations), so it belongs under the first heading that introduces the Mishnah enumeration of gentile festivals.",
+      "chosen_heading": "Holiday Names List",
+      "current_heading": "Private Celebration Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Kalenda & Saturnalia",
+    "candidates": [
+      "Private Celebration Rule",
+      "Kalenda & Saturnalia",
+      "Adam Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the calendrical positioning of Kalenda and Saturnalia relative to the winter solstice with the mnemonic from Psalms, which is precisely what the 'Kalenda & Saturnalia' section prose describes.",
+      "chosen_heading": "Kalenda & Saturnalia",
+      "current_heading": "Kalenda & Saturnalia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Adam Midrash",
+    "candidates": [
+      "Adam Midrash",
+      "Adam Creation Date"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe Adam's fasting upon seeing days shorten and his subsequent celebration upon seeing days lengthen \u2014 exactly the content described in the 'Adam Midrash' prose, which paraphrases this very passage in detail.",
+      "chosen_heading": "Adam Midrash",
+      "current_heading": "Adam Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Adam Creation Date",
+    "candidates": [
+      "Adam Creation Date",
+      "Adam's Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tension between the Tishrei and Nisan creation opinions regarding Adam's experience of short and long days, which is precisely what the 'Adam Creation Date' prose discusses.",
+      "chosen_heading": "Adam Creation Date",
+      "current_heading": "Adam Creation Date",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Adam's Fear",
+    "candidates": [
+      "Adam's Fear",
+      "Adam's Sacrifice",
+      "Unicorn Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Adam's fear/weeping and his sacrifice at dawn, but the current placement under 'Adam's Fear' is correct because that section's prose explicitly summarizes this entire baraita including both the night of weeping and the dawn sacrifice, while 'Adam's Sacrifice' prose focuses only on the sacrifice portion as a separate analytical discussion.",
+      "chosen_heading": "Adam's Fear",
+      "current_heading": "Adam's Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Unicorn Ox",
+    "candidates": [
+      "Adam's Sacrifice",
+      "Unicorn Ox",
+      "Dependent Towns Q",
+      "Kalenda Scope",
+      "Halacha Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the single-horned ox tradition (unicorn ox) with Rav Yehuda/Shmuel's statement and Rav Nachman bar Yitzchak's resolution about the defective spelling *mikeren ktiv*, which is precisely what the 'Unicorn Ox' prose section describes.",
+      "chosen_heading": "Unicorn Ox",
+      "current_heading": "Unicorn Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Halacha Ruling",
+    "candidates": [
+      "Dependent Towns Q",
+      "Kalenda Scope",
+      "Halacha Ruling",
+      "Unwitting Idolatry",
+      "Wedding Feast Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about whether the Kalenda prohibition extends to towns subjugated to Rome or only to actual worshippers \u2014 exactly the question posed in candidate 0's prose \u2014 with items 2-5 providing the baraita support and Rav Ashi's proof for Rabbi Yochanan's narrower ruling on that same question.",
+      "chosen_heading": "Dependent Towns Q",
+      "current_heading": "Halacha Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Wedding Feast Case",
+    "candidates": [
+      "Unwitting Idolatry",
+      "Wedding Feast Case",
+      "Verse Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita including both the general principle (Jews outside Israel engage in idol worship unwittingly) AND the wedding feast illustration AND the verse proof, making it a single unified text that belongs under heading 0 'Unwitting Idolatry' which introduces Rabbi Yishmael's teaching \u2014 headings 1 and 2 are prose commentary on sub-components of this single baraita, not separate Talmudic passages.",
+      "chosen_heading": "Unwitting Idolatry",
+      "current_heading": "Wedding Feast Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Verse Proof",
+    "candidates": [
+      "Wedding Feast Case",
+      "Verse Proof",
+      "Thirty Days",
+      "Beyond Thirty",
+      "Twelve Months"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Verse Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's derivation that the prohibition begins from the moment of invitation (mishe'at kriya), which is precisely what the 'Verse Proof' prose describes.",
+      "second_heading": "Thirty Days",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the practical thirty-day halacha \u2014 forbidden whether or not the celebrant mentions the wedding \u2014 which matches exactly the 'Thirty Days' prose.",
+      "current_heading": "Verse Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Twelve Months",
+    "candidates": [
+      "Thirty Days",
+      "Beyond Thirty",
+      "Twelve Months",
+      "Rav Yitzchak Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the twelve-month limit and the pre-wedding prohibition starting from barley-casting, which matches exactly the 'Twelve Months' section's prose about Rav Papa's rulings on both the duration after and the commencement before the wedding.",
+      "chosen_heading": "Twelve Months",
+      "current_heading": "Twelve Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rav Yitzchak Case",
+    "candidates": [
+      "Rav Yitzchak Case",
+      "Important Person",
+      "Cartisim Definition",
+      "Two Conquests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question about twelve months and the Rav Yitzchak case with its resolution, and the current heading's prose describes exactly this content \u2014 the case of Rav Yitzchak arriving after twelve months and withdrawing from the feast.",
+      "chosen_heading": "Rav Yitzchak Case",
+      "current_heading": "Rav Yitzchak Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Two Conquests",
+    "candidates": [
+      "Important Person",
+      "Cartisim Definition",
+      "Two Conquests",
+      "Thirty-Two Battles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage covers both the definition of Kratesis (matching 'Cartisim Definition') and the resolution of the baraita's apparent contradiction (matching 'Two Conquests'), but since the passage begins with the initial question 'what is Kratesis' and the Cartisim Definition prose explicitly introduces this exact Gemara discussion including Rav Yehuda/Shmuel's answer, the passage more naturally opens under that heading, with the Two Conquests section's prose essentially summarizing the continuation \u2014 however, since the current placement under 'Two Conquests' also captures the passage's content well, confidence is medium.",
+      "chosen_heading": "Cartisim Definition",
+      "current_heading": "Two Conquests",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Thirty-Two Battles",
+    "candidates": [
+      "Thirty-Two Battles",
+      "Negotiation Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the thirty-two battles and the partnership condition, which is exactly what heading 0's prose discusses, not the parable of negotiation described under heading 1.",
+      "chosen_heading": "Thirty-Two Battles",
+      "current_heading": "Thirty-Two Battles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Negotiation Parable",
+    "candidates": [
+      "Negotiation Parable",
+      "Jacob-Esau Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the negotiation parable between Rome and Greece \u2014 the pearl/precious stone exchange, the hierarchy of values, and Rome's conclusion invoking the Torah scroll and Israel \u2014 which is precisely what the 'Negotiation Parable' prose describes in detail.",
+      "chosen_heading": "Negotiation Parable",
+      "current_heading": "Negotiation Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Jacob-Esau Parallel",
+    "candidates": [
+      "Jacob-Esau Parallel",
+      "180 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two Jacob-Esau verses that define the arc from partnership to subjugation, which is precisely what the 'Jacob-Esau Parallel' prose section describes.",
+      "chosen_heading": "Jacob-Esau Parallel",
+      "current_heading": "Jacob-Esau Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155
+    ],
+    "current_heading": "180 Years",
+    "candidates": [
+      "180 Years",
+      "Tumah Decree",
+      "Sanhedrin Relocation",
+      "Kenasos Suspension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong together under '180 Years' \u2014 item 1 is the framing question and setup (Rav Kahana citing Rabbi Yishmael bar Yosei's deathbed transmission), and item 2 contains all three chronological traditions including the 180-year statement, which is precisely what the '180 Years' prose describes.",
+      "chosen_heading": "180 Years",
+      "current_heading": "180 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Kenasos Suspension",
+    "candidates": [
+      "Tumah Decree",
+      "Sanhedrin Relocation",
+      "Kenasos Suspension",
+      "Smicha Persecution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about the halachic significance of the Sanhedrin's relocation, Rabbi Yitzchak bar Avdimi's answer about dinei kenasos, and the challenge about whether they would be forgotten \u2014 precisely the content described in the 'Kenasos Suspension' section prose.",
+      "chosen_heading": "Kenasos Suspension",
+      "current_heading": "Kenasos Suspension",
+      "moved": false
+    }
+  }
+]

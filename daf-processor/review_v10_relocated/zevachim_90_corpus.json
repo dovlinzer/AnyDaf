@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Ma'aser vs. Birds",
+    "candidates": [
+      "Ma'aser vs. Birds",
+      "Adderaba Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ma'aser vs. Birds",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the firstborn vs. tithe precedence dispute, which is a separate Mishnah topic not discussed in either candidate's prose, making candidate 0 the better fit as the current placement before the ma'aser vs. birds section begins.",
+      "second_heading": "Adderaba Argument",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the adderaba challenge and resolution about ma'aser vs. birds that candidate 1's prose describes in detail, including the exact argument that birds are kodshei kodashim and the answer that min zevach adif.",
+      "current_heading": "Ma'aser vs. Birds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Adderaba Argument",
+    "candidates": [
+      "Adderaba Argument",
+      "Imurim Status Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ravina bar Sheila's specific ruling about imurei kodashim kalim becoming pasul when removed before zerikat hadam, and the supporting inference from the Mishnah's mention of both blood and imurim \u2014 both of which are the precise subject of the 'Imurim Status Debate' prose, not the 'Adderaba Argument' prose which only anticipates Ravina's position.",
+      "chosen_heading": "Imurim Status Debate",
+      "current_heading": "Adderaba Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Imurim Status Debate",
+    "candidates": [
+      "Imurim Status Debate",
+      "Meat Removal Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's textual inference from the Mishnah's mention of blood to support Ravina bar Sheila's position that imurim before zerikat hadam are disqualified by leaving the courtyard \u2014 exactly the content described in the 'Imurim Status Debate' prose.",
+      "chosen_heading": "Imurim Status Debate",
+      "current_heading": "Imurim Status Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Meat Removal Debate",
+    "candidates": [
+      "Meat Removal Debate",
+      "Eliezer vs. Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are a continuous Gemara sequence about the Rabbi Yo\u1e25anan/Reish Lakish dispute over flesh of lesser-sanctity offerings removed before blood-sprinkling, which is precisely what the 'Meat Removal Debate' prose describes.",
+      "chosen_heading": "Meat Removal Debate",
+      "current_heading": "Meat Removal Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Eliezer vs. Akiva",
+    "candidates": [
+      "Eliezer vs. Akiva",
+      "Rav Pappa Clarification",
+      "Imurim vs. Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the tannaitic dispute between Rabbi Eliezer and Rabbi Akiva regarding imurim of kodashim kalim removed before zerikah, which is precisely what the 'Eliezer vs. Akiva' prose describes as the Gemara's attempt to find a tannaitic parallel to the amoraic debate.",
+      "chosen_heading": "Eliezer vs. Akiva",
+      "current_heading": "Eliezer vs. Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Imurim vs. Bread",
+    "candidates": [
+      "Rav Pappa Clarification",
+      "Imurim vs. Bread",
+      "Blood Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-4 form a continuous chain: the initial suggestion that the tannaim dispute about returning imurim before zerikah (item 1), Rav Pappa's reframing that the dispute is about imurim still outside during zerikah (item 2), the challenge from the shtei halechem case (item 3), and the resolution distinguishing imurim as gufei dezivcha (item 4) \u2014 all belong to Rav Pappa's clarification, which is precisely what the 'Rav Pappa Clarification' prose describes, including the shtei halechem contrast and the gufei dezivcha distinction.",
+      "chosen_heading": "Rav Pappa Clarification",
+      "current_heading": "Imurim vs. Bread",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Blood Priority",
+    "candidates": [
+      "Imurim vs. Bread",
+      "Blood Priority",
+      "Mincha Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses bird offerings preceding meal offerings and the 'adderaba' challenge about communal offerings, which is precisely what the 'Blood Priority' section's prose describes.",
+      "chosen_heading": "Blood Priority",
+      "current_heading": "Blood Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mincha Types",
+    "candidates": [
+      "Mincha Types",
+      "Sota Mincha Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the minchat chotei vs minchat nedava distinction and the atonement-based rationale for the former's precedence, which is precisely what the 'Mincha Types' prose elaborates on in detail.",
+      "chosen_heading": "Mincha Types",
+      "current_heading": "Mincha Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Sota Mincha Status",
+    "candidates": [
+      "Sota Mincha Status",
+      "Bird Chatat First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the unresolved dilemma of whether minchat sota or minchat nedava takes precedence, examining the baraita about wheat vs. barley \u2014 exactly what the 'Sota Mincha Status' prose describes.",
+      "chosen_heading": "Sota Mincha Status",
+      "current_heading": "Sota Mincha Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Bird Chatat First",
+    "candidates": [
+      "Bird Chatat First",
+      "Chatat General Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces and cites the baraita deriving the rule that the bird chatat precedes the bird olah from the verse in Leviticus 5:8, which is precisely what the 'Bird Chatat First' section's prose describes.",
+      "chosen_heading": "Bird Chatat First",
+      "current_heading": "Bird Chatat First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Chatat General Rule",
+    "candidates": [
+      "Chatat General Rule",
+      "Eliezer Exception",
+      "Yoledis Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the binyan av establishing the universal rule that chatat precedes olah across all species combinations, and the summary of which source derives each case \u2014 exactly what the 'Chatat General Rule' prose describes.",
+      "chosen_heading": "Chatat General Rule",
+      "current_heading": "Chatat General Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Yoledis Case",
+    "candidates": [
+      "Eliezer Exception",
+      "Yoledis Case",
+      "Rava Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Eliezer's three parallel formulations explaining why the olah precedes the chatat in the yoledet case, which is precisely what the 'Yoledis Case' prose describes in detail across all three levels of his reasoning.",
+      "chosen_heading": "Yoledis Case",
+      "current_heading": "Yoledis Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rava Reinterpretation",
+    "candidates": [
+      "Rava Reinterpretation",
+      "Musaf Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's statement that the verse's mention of the burnt offering first is only about reading order, which is precisely what the 'Rava Reinterpretation' section's prose discusses (lemikra hi hikdima hakatuv).",
+      "chosen_heading": "Rava Reinterpretation",
+      "current_heading": "Rava Reinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Musaf Order",
+    "candidates": [
+      "Musaf Order",
+      "Avodah Zarah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about bulls preceding rams preceding sheep preceding male goats, with the Gemara's resolution that it concerns gift offerings ranked by libation quantities and the sheep's tail \u2014 exactly the content described in the 'Musaf Order' prose section.",
+      "chosen_heading": "Musaf Order",
+      "current_heading": "Musaf Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Avodah Zarah Case",
+    "candidates": [
+      "Avodah Zarah Case",
+      "Final Chatat Rule",
+      "Avodah Zarah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the baraita citation and immediate response about the avodah zarah sequence (ox precedes goat even though ox is olah and goat is chatat), plus the Gemara's attempt to deflect by pointing to the first clause \u2014 exactly the content described in the 'Avodah Zarah Case' prose.",
+      "chosen_heading": "Avodah Zarah Case",
+      "current_heading": "Avodah Zarah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Avodah Zarah Exception",
+    "candidates": [
+      "Final Chatat Rule",
+      "Avodah Zarah Exception",
+      "Circular Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the avodah zarah exception: item 1 raises the challenge about two-species cases, item 2 provides the Western/Ravina resolutions (chaser aleph and kamishpat), and item 3 extends the kamishpat explanation to the Sukkot musaf \u2014 exactly what the 'Avodah Zarah Exception' prose describes.",
+      "chosen_heading": "Avodah Zarah Exception",
+      "current_heading": "Avodah Zarah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Circular Problem",
+    "candidates": [
+      "Circular Problem",
+      "Package Solution",
+      "Package Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the circular dilemma and its resolution together \u2014 item 1 raises the three-way circular problem and item 2 gives the Babylonian and Eretz Yisrael answers \u2014 which together constitute the 'Circular Problem' section's content as described in its prose, before the more detailed 'Package Solution' analysis begins.",
+      "chosen_heading": "Circular Problem",
+      "current_heading": "Circular Problem",
+      "moved": false
+    }
+  }
+]

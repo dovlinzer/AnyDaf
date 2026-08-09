@@ -1,0 +1,458 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "R. Eliezer vs. Yehoshua",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, presenting the three scenarios of shirayim being lost and the dispute between Rabbi Eliezer and Rabbi Yehoshua, which is exactly what the 'Mishna Overview' prose describes.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Mishna Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "R. Eliezer vs. Yehoshua",
+      "Rav's Position",
+      "Tumah & Tzitz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav's statement about all vs. part of the shirayim becoming tamei, which is precisely what the 'Rav's Position' section discusses.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Tumah & Tzitz",
+    "candidates": [
+      "Tumah & Tzitz",
+      "Tzitz Scope",
+      "Shiura Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge and resolution regarding why Rav singled out tum'ah (the tzitz / shiura milta question), which is precisely what the 'Tumah & Tzitz' prose describes in detail, including the reisha hu nakat resolution.",
+      "chosen_heading": "Tumah & Tzitz",
+      "current_heading": "Tumah & Tzitz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Shiura Requirement",
+    "candidates": [
+      "Tzitz Scope",
+      "Shiura Requirement",
+      "Tzitz Wearing",
+      "Kezayit Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita quoted directly states Rabbi Yehoshua's kezayit basar o kezayit chelev rule for zerikat hadam, which is precisely what candidate 3 ('Kezayit Standard') discusses, including the specific language of the baraita and its implications.",
+      "chosen_heading": "Kezayit Standard",
+      "current_heading": "Shiura Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Kezayit Standard",
+    "candidates": [
+      "Tzitz Wearing",
+      "Kezayit Standard",
+      "Blood with Mincha",
+      "Rav Papa's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita's rules about half an olive-bulk of meat and fat, the olah exception (combining because it is kalil), and the mincha case \u2014 all of which are explicitly described in the 'Kezayit Standard' prose section.",
+      "chosen_heading": "Kezayit Standard",
+      "current_heading": "Kezayit Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rav Papa's View",
+    "candidates": [
+      "Blood with Mincha",
+      "Rav Papa's View",
+      "Kezayit Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of what a meal offering is doing in the discussion and presents Rav Papa's answer that it refers to the minchat nesachim \u2014 this is precisely the question-and-answer content described in candidate 0's prose about whether the minchat nesachim constitutes a sufficient remnant, not the ruling/rejection described in candidate 1.",
+      "chosen_heading": "Blood with Mincha",
+      "current_heading": "Rav Papa's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Kezayit Source",
+    "candidates": [
+      "Rav Papa's View",
+      "Kezayit Source",
+      "Organs Suffice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the rule that fat alone suffices for zerikat hadam from the verse 'vehiktir hachelev,' which is precisely what the 'Kezayit Source' prose describes \u2014 Rabbi Yochanan citing Rabbi Yishmael/Rabbi Yehoshua ben Chananya and the pasuk establishing chelev af al pi she-ein basar.",
+      "chosen_heading": "Kezayit Source",
+      "current_heading": "Kezayit Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Organs Suffice",
+    "candidates": [
+      "Organs Suffice",
+      "Torah Redundancy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses deriving the rule for yoteret u-shtei klayot from the baraita's contrast with mincha, which is precisely what the 'Organs Suffice' prose describes.",
+      "chosen_heading": "Organs Suffice",
+      "current_heading": "Organs Suffice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Torah Redundancy",
+    "candidates": [
+      "Torah Redundancy",
+      "R. Yehuda's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the derivation from 'lerei'ach nichoach' and 'chelev' and why both terms are necessary \u2014 exactly the content described in the 'Torah Redundancy' prose, which explicitly walks through the same two-expression analysis (chelev excludes minchat nesachim, lerei'ach nichoach includes yoteret and shtei klayot).",
+      "chosen_heading": "Torah Redundancy",
+      "current_heading": "Torah Redundancy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "R. Yehuda's Logic",
+    "candidates": [
+      "R. Yehuda's Logic",
+      "R. Yannai Extreme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about kli sharet/Rabbi Shimon and the Gemara explaining Rabbi Shimon's reasoning from the chatat/asham verse \u2014 are precisely what the prose of candidate 0 ('R. Yehuda's Logic') describes in detail.",
+      "chosen_heading": "R. Yehuda's Logic",
+      "current_heading": "R. Yehuda's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "R. Yannai Extreme",
+    "candidates": [
+      "R. Yannai Extreme",
+      "R. Nachman Middle",
+      "Tosefta Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yannai's statement (about burning the kometz even in a belt or earthenware vessel) and Rav Nachman bar Yitzchak's statement (that all concede the handful requires sanctification), and the current heading 'R. Yannai Extreme' covers both statements together \u2014 with Rav Nachman's position then being elaborated under the next heading as a contrast, so this introductory citation of both views belongs under the heading that introduces Rabbi Yannai's position.",
+      "chosen_heading": "R. Yannai Extreme",
+      "current_heading": "R. Yannai Extreme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Tosefta Support",
+    "candidates": [
+      "R. Nachman Middle",
+      "Tosefta Support",
+      "Hand Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is a refutation (teyuvta) of Rabbi Yehuda son of Rabbi \u1e24iyya's position regarding right-hand requirement, which directly matches the 'Hand Options' section's prose about reconciling Rabbi Yehuda son of Rabbi Chiyya's view with the baraita permitting left hand use.",
+      "chosen_heading": "Hand Options",
+      "current_heading": "Tosefta Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Hand Options",
+    "candidates": [
+      "Tosefta Support",
+      "Hand Options",
+      "Three Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda son of Rabbi \u1e24iyya's 'disjunctive teaching' interpretation (letzadadim katani) explaining that 'by hand' means right hand only while 'by vessel' permits either hand, which is precisely what the 'Hand Options' section prose describes.",
+      "chosen_heading": "Hand Options",
+      "current_heading": "Hand Options",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Three Stages",
+    "candidates": [
+      "Three Stages",
+      "Shimon vs. Sages",
+      "Supporting Text",
+      "Left Hand Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Supporting Text': a baraita stating the chachamim's three-stage requirement and Rabbi Shimon's position that once the kometz is taken from a kli sharet it may be burned without further vessel constraints, followed by the gemara's attempt to reframe it as referring only to the final step (mimatan kli va-eilach), which matches the prose of candidate 2 precisely.",
+      "chosen_heading": "Supporting Text",
+      "current_heading": "Three Stages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Left Hand Invalid",
+    "candidates": [
+      "Shimon vs. Sages",
+      "Supporting Text",
+      "Left Hand Invalid",
+      "Left Hand Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita about taking the kometz in the right hand, transferring to the left, and the piggul thought implications \u2014 exactly the content described in the 'Left Hand Invalid' prose, which explicitly discusses this baraita, the yachzir leyamino ruling, the chutz limkomo/chutz lizmano distinction, and the Rabbi Eliezer/Rabbi Shimon attribution.",
+      "chosen_heading": "Left Hand Invalid",
+      "current_heading": "Left Hand Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Left Hand Status",
+    "candidates": [
+      "Left Hand Status",
+      "Halves & Quarters",
+      "R. Y. ben Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the left-hand placement of the kometz, the chachamim's blood-spill analogy, the refutation of Rav Nachman, and the Rabbi Yannai dispute \u2014 exactly the content described in the 'Left Hand Status' prose.",
+      "chosen_heading": "Left Hand Status",
+      "current_heading": "Left Hand Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "R. Y. ben Levi",
+    "candidates": [
+      "Halves & Quarters",
+      "R. Y. ben Levi",
+      "R. Yochanan",
+      "Per-Stage Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua ben Levi's and Rabbi Yochanan's statements together as a unit introduced by the mishna's ruling, matching candidate 0's prose which says 'the gemara now turns to this second clause' \u2014 the full Gemara exchange belongs under the heading that introduces the mishna clause and the gemara's discussion of it, before the essay splits them into separate analytical sections.",
+      "chosen_heading": "Halves & Quarters",
+      "current_heading": "R. Y. ben Levi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Per-Stage Size",
+    "candidates": [
+      "R. Yochanan",
+      "Per-Stage Size",
+      "Shirayim Permission",
+      "R. Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Zeira's framing of the dispute between Rabbi Yehoshua ben Levi and Rabbi Yochanan over whether a handful less than two olives and a burning less than an olive-bulk are significant \u2014 exactly the content described in the 'Per-Stage Size' prose.",
+      "chosen_heading": "Per-Stage Size",
+      "current_heading": "Per-Stage Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "R. Chanina",
+    "candidates": [
+      "Shirayim Permission",
+      "R. Chanina",
+      "R. Yochanan (II)",
+      "Oven Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full *itmar* dispute \u2014 both Rabbi \u1e24anina's and Rabbi Yo\u1e25anan's positions together \u2014 which matches the 'Shirayim Permission' section's prose that frames the opening question of when the *kometz* renders the *shirayim* permitted, before each opinion is discussed separately.",
+      "chosen_heading": "Shirayim Permission",
+      "current_heading": "R. Chanina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Oven Source",
+    "candidates": [
+      "R. Yochanan (II)",
+      "Oven Source",
+      "Day vs. Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda's explanation to Rabba bar Rav Yitzchak using the Sodom smoke/furnace verse, which is precisely what the 'Oven Source' prose describes in detail.",
+      "chosen_heading": "Oven Source",
+      "current_heading": "Oven Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Day vs. Night",
+    "candidates": [
+      "Day vs. Night",
+      "Sunset Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about limbs and fats burned at night, which is precisely what the 'Day vs. Night' section's prose describes as the opening of Rav Amram's baraita citation.",
+      "chosen_heading": "Day vs. Night",
+      "current_heading": "Day vs. Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Sunset Resolution",
+    "candidates": [
+      "Sunset Resolution",
+      "Act vs. Completion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly concern the baraita about day-sacrificed items being burned at/after sunset and the distinction between klitatah (receiving) and lehattir (permitting), which is precisely what the 'Sunset Resolution' prose discusses with zot torat ha-olah and the kan liklot kan lehattir resolution.",
+      "chosen_heading": "Sunset Resolution",
+      "current_heading": "Sunset Resolution",
+      "moved": false
+    }
+  }
+]

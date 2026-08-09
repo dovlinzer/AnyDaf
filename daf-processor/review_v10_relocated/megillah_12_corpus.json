@@ -1,0 +1,528 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Seventy-Year Math",
+    "candidates": [
+      "Belshazzar & Vessels",
+      "Seventy-Year Math",
+      "Achashverosh's Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge 've'ha shapir chashiv' and the answer that Achashverosh erred by not counting from the destruction of Jerusalem (Galus Tzidkiyahu), which is precisely what candidate 2 ('Achashverosh's Error') describes in its prose.",
+      "chosen_heading": "Achashverosh's Error",
+      "current_heading": "Seventy-Year Math",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Achashverosh's Error",
+    "candidates": [
+      "Seventy-Year Math",
+      "Achashverosh's Error",
+      "Partial Years Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's answer 'shanim mekuta'os havu' (partial years), which is precisely what the 'Partial Years Solution' section discusses, not the 'Achashverosh's Error' section which covers the eleven-year discrepancy leading up to this resolution.",
+      "chosen_heading": "Partial Years Solution",
+      "current_heading": "Achashverosh's Error",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Partial Years Solution",
+    "candidates": [
+      "Partial Years Solution",
+      "Two Reckonings",
+      "Daniel's Investigation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about one additional year for Babylonia that Darius completed directly confirms the 'partial years' solution described in candidate 0's prose, which explicitly references this baraita.",
+      "chosen_heading": "Partial Years Solution",
+      "current_heading": "Partial Years Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Daniel's Investigation",
+    "candidates": [
+      "Two Reckonings",
+      "Daniel's Investigation",
+      "Koresh's Reversal",
+      "Koresh vs. Messiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava's statement that Daniel erred in calculation, derived from the word 'binnoti,' which is precisely what the 'Daniel's Investigation' section prose discusses.",
+      "chosen_heading": "Daniel's Investigation",
+      "current_heading": "Daniel's Investigation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Koresh vs. Messiah",
+    "candidates": [
+      "Koresh's Reversal",
+      "Koresh vs. Messiah",
+      "Medians/Persians Deal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1\u20133 form a continuous discussion: the contradiction between the two seventy-year verses, Rava's resolution via 'le-pekidah b'alma' confirmed by the Cyrus verse in Ezra, and then the homily on Cyrus's limited role \u2014 all of which directly supports the 'Koresh's Reversal' heading's prose about Rava identifying Koresh's declaration as le-pekidah b'alma and the word pakad signaling an incomplete remembrance, whereas the current heading ('Koresh vs. Messiah') only fits item 3.",
+      "chosen_heading": "Koresh's Reversal",
+      "current_heading": "Koresh vs. Messiah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Medians/Persians Deal",
+    "candidates": [
+      "Koresh vs. Messiah",
+      "Medians/Persians Deal",
+      "Priestly Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Persia/Media precedence question and Rava's power-sharing arrangement, which is exactly what the 'Medians/Persians Deal' section's prose describes.",
+      "chosen_heading": "Medians/Persians Deal",
+      "current_heading": "Medians/Persians Deal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Priestly Garments",
+    "candidates": [
+      "Priestly Garments",
+      "Wise or Foolish?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Ahasuerus wearing priestly vestments, which is precisely what the 'Priestly Garments' section's prose discusses.",
+      "chosen_heading": "Priestly Garments",
+      "current_heading": "Priestly Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Wise or Foolish?",
+    "candidates": [
+      "Wise or Foolish?",
+      "Why Haman's Threat",
+      "Assimilation Problem",
+      "Idol Worship Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav and Shmuel's dispute about whether Ahasuerus was clever or foolish in his feast strategy, which matches precisely the 'Wise or Foolish?' section's prose about melech pike'ach vs. melech tipesh and the reasoning about distant vs. local subjects.",
+      "chosen_heading": "Wise or Foolish?",
+      "current_heading": "Wise or Foolish?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Idol Worship Sins",
+    "candidates": [
+      "Why Haman's Threat",
+      "Assimilation Problem",
+      "Idol Worship Sins",
+      "Lifnim Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full exchange \u2014 the students' question, their answer, and Rabbi Shimon's answer about idol worship \u2014 and candidate 0's prose frames exactly this entire Talmudic exchange as a theological question about why the Jews of that generation deserved destruction, making it the natural home for the complete passage.",
+      "chosen_heading": "Why Haman's Threat",
+      "current_heading": "Idol Worship Sins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Lifnim Principle",
+    "candidates": [
+      "Idol Worship Sins",
+      "Lifnim Principle",
+      "Coercion & Martyrdom",
+      "Hester Panim Parallel",
+      "Feast Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon bar Yochai's 'lifnim' answer and the ki lo inah mi'libo verse, which is precisely what the 'Lifnim Principle' section's prose describes.",
+      "chosen_heading": "Lifnim Principle",
+      "current_heading": "Lifnim Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Feast Location",
+    "candidates": [
+      "Coercion & Martyrdom",
+      "Hester Panim Parallel",
+      "Feast Location",
+      "Tapestries & Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the three locations of Achashverosh's feast (courtyard, garden, palace) and the disagreement between Rav and Shmuel about how guests were distributed among them, which is precisely what the 'Feast Location' section's prose describes.",
+      "chosen_heading": "Feast Location",
+      "current_heading": "Feast Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Tapestries & Stones",
+    "candidates": [
+      "Tapestries & Stones",
+      "Vessels Sin Echo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the furnishings and decor of Ahasuerus's feast (\u1e25ur, karpas, couches of gold/silver, bahat, dar, so\u1e25aret), which is precisely what the 'Tapestries & Stones' prose section describes in detail.",
+      "chosen_heading": "Tapestries & Stones",
+      "current_heading": "Tapestries & Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Vessels Sin Echo",
+    "candidates": [
+      "Vessels Sin Echo",
+      "Wine & Freedom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'shonim/meshunim' grammatical question with Rava's bat kol interpretation AND Rav's teaching about aged wine, and candidate 0's prose explicitly discusses both the vessels/shonim section and notes the connection to the wine verse, while candidate 1's prose focuses on the compulsion/freedom aspect of the drinking law rather than the aged wine teaching.",
+      "chosen_heading": "Vessels Sin Echo",
+      "current_heading": "Vessels Sin Echo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Wine & Freedom",
+    "candidates": [
+      "Wine & Freedom",
+      "Food/Wine Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about 'drinking according to the law of the Torah' with food exceeding drink is directly quoted and explained in the 'Wine & Freedom' section's prose, making the current placement correct.",
+      "chosen_heading": "Wine & Freedom",
+      "current_heading": "Wine & Freedom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Food/Wine Ratio",
+    "candidates": [
+      "Food/Wine Ratio",
+      "Vashti's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about 'ein ones' (each guest served wine from his own country) and 'ish va'ish' (Mordecai and Haman) is explicitly discussed in the prose of candidate 0, which covers Rabbi Elazar's gloss on ein ones and Rava's interpretation of ish va'ish referring to Mordechai and Haman.",
+      "chosen_heading": "Food/Wine Ratio",
+      "current_heading": "Food/Wine Ratio",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Vashti's Intent",
+    "candidates": [
+      "Vashti's Intent",
+      "Seventh Day Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rava statement about Vashti's sinful intentions and the folk saying, which is precisely what heading 0 ('Vashti's Intent') describes in its prose.",
+      "chosen_heading": "Vashti's Intent",
+      "current_heading": "Vashti's Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Seventh Day Timing",
+    "candidates": [
+      "Seventh Day Timing",
+      "Shabbat Abuse/Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Seventh Day Timing' prose, which explicitly discusses Rava's Shabbat explanation and the subsequent feast conversation about Median vs. Persian women leading to Ahasuerus's crude remark about Vashti appearing naked.",
+      "chosen_heading": "Seventh Day Timing",
+      "current_heading": "Seventh Day Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Shabbat Abuse/Punishment",
+    "candidates": [
+      "Shabbat Abuse/Punishment",
+      "Command Refused",
+      "Vashti Disfigured"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the midah k'neged midah principle applied to Vashti's abuse of Jewish women on Shabbat, which is precisely what the 'Shabbat Abuse/Punishment' section's prose describes.",
+      "chosen_heading": "Shabbat Abuse/Punishment",
+      "current_heading": "Shabbat Abuse/Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Vashti Disfigured",
+    "candidates": [
+      "Command Refused",
+      "Vashti Disfigured",
+      "Vashti Mocks King"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Vashti's refusal due to leprosy and the angel Gavriel fashioning a tail, which is precisely what the 'Vashti Disfigured' section's prose describes.",
+      "chosen_heading": "Vashti Disfigured",
+      "current_heading": "Vashti Disfigured",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Vashti Mocks King",
+    "candidates": [
+      "Vashti Mocks King",
+      "King Consults",
+      "Sages Decline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Vashti's contemptuous message to Ahasuerus mocking his lineage and inability to hold wine, which is precisely what the 'Vashti Mocks King' section's prose discusses.",
+      "chosen_heading": "Vashti Mocks King",
+      "current_heading": "Vashti Mocks King",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Sages Decline",
+    "candidates": [
+      "King Consults",
+      "Sages Decline",
+      "Amon Moav Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers all three sections \u2014 the king consulting the wise men, the sages declining to judge, and the referral to Ammon and Moab \u2014 but since it begins with 'the king said to the wise men' and the 'King Consults' heading's prose explicitly discusses this verse and the identification of the wise men as rabbis, while the current placement under 'Sages Decline' also fits well, the passage as a whole unit most naturally belongs under 'King Consults' which is the heading that introduces this entire sequence.",
+      "chosen_heading": "King Consults",
+      "current_heading": "Sages Decline",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Amon Moav Exile",
+    "candidates": [
+      "Amon Moav Exile",
+      "Name Allusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Jeremiah verse about Moab resting on its lees and not going into exile, which is precisely the metaphor discussed in the 'Amon Moav Exile' section's prose, and ends with the listing of advisors that leads into the next section.",
+      "chosen_heading": "Amon Moav Exile",
+      "current_heading": "Amon Moav Exile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Name Allusions",
+    "candidates": [
+      "Name Allusions",
+      "Heavenly Advocacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Levi's introductory teaching that the entire verse is stated on account of offerings, which is exactly what the 'Name Allusions' prose describes as the opening of Rabbi Levi's statement before the individual name interpretations begin.",
+      "chosen_heading": "Name Allusions",
+      "current_heading": "Name Allusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Heavenly Advocacy",
+    "candidates": [
+      "Heavenly Advocacy",
+      "Memuchan as Haman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the angelic advocacy text where each minister's name is decoded as a question about Israel's Temple service, which is exactly what the 'Heavenly Advocacy' prose describes.",
+      "chosen_heading": "Heavenly Advocacy",
+      "current_heading": "Heavenly Advocacy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Memuchan as Haman",
+    "candidates": [
+      "Memuchan as Haman",
+      "First Letter's Folly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Memucan being identified as Haman and Rav Kahana's observation about the common man jumping to the front, which is exactly what the 'Memuchan as Haman' section's prose describes.",
+      "chosen_heading": "Memuchan as Haman",
+      "current_heading": "Memuchan as Haman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "First Letter's Folly",
+    "candidates": [
+      "First Letter's Folly",
+      "Master of House",
+      "Tosafot: Daniel Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "First Letter's Folly",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rava's statement about the first letters saving the Jews, which matches heading 0's prose about 'ilmalei igros harishonos' and the paradox of the first letter saving the Jews.",
+      "second_heading": "Master of House",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the people's mocking reaction ('what is this he sent us... even a weaver is commander in his house'), which matches heading 1's prose about 'mai hai deshadr lan' and the banal, self-evident nature of the decree.",
+      "current_heading": "First Letter's Folly",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Desert Encampment",
+    "candidates": [
+      "City Boundary Structures",
+      "Thatched Huts Rule",
+      "Desert Encampment",
+      "Divine Command Permanence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous discussion: Rav Huna's ruling about huts (item 1), Rav \u1e24isda's objection from the desert encampment (item 2), and the baraita about defecating practices that reinforces the objection (item 3) \u2014 the entire passage belongs under 'Thatched Huts Rule' since it presents Rav Huna's ruling and the challenge to it, which is precisely what that section's prose describes, while the current heading 'Desert Encampment' only covers items 2-3 and misses the ruling that frames the whole discussion.",
+      "chosen_heading": "Thatched Huts Rule",
+      "current_heading": "Desert Encampment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Divine Command Permanence",
+    "candidates": [
+      "Desert Encampment",
+      "Divine Command Permanence",
+      "Courtyards Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's resolution that desert encampments are considered permanent because they traveled and camped by divine command, which is precisely what the 'Divine Command Permanence' section's prose describes.",
+      "chosen_heading": "Divine Command Permanence",
+      "current_heading": "Divine Command Permanence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Courtyards Exception",
+    "candidates": [
+      "Courtyards Exception",
+      "Nomadic Life Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about three courtyards of two permanent houses establishing a settlement directly matches the 'Courtyards Exception' section prose, which explicitly discusses this ruling by Rav \u1e24innana bar Rav Kahana citing Rav Ashi.",
+      "chosen_heading": "Courtyards Exception",
+      "current_heading": "Courtyards Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Nomadic Life Quality",
+    "candidates": [
+      "Nomadic Life Quality",
+      "Fidelity Concerns",
+      "Graveyard Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses only the first half of Rav Yehuda's statement \u2014 that nomadic/hut-dwelling life is not a real life \u2014 which matches heading 0's prose exactly, before the fidelity dimension addressed in heading 1.",
+      "chosen_heading": "Nomadic Life Quality",
+      "current_heading": "Nomadic Life Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Graveyard Comparison",
+    "candidates": [
+      "Fidelity Concerns",
+      "Graveyard Comparison",
+      "Bathhouse Absence",
+      "Mikvah Encounters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita featuring Eliezer of Biriyya comparing hut-dwellers to graveyard-dwellers and invoking the curse verse about animals, which is precisely what the 'Graveyard Comparison' prose describes.",
+      "chosen_heading": "Graveyard Comparison",
+      "current_heading": "Graveyard Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Mikvah Encounters",
+    "candidates": [
+      "Bathhouse Absence",
+      "Mikvah Encounters",
+      "Vegetables Required",
+      "Vegetable Health Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ulla's bathhouse explanation, Rabbi Yochanan's mikvah explanation, and the practical difference between them (the river adjacent to the house) \u2014 are all discussed together in the 'Mikvah Encounters' prose, which explicitly covers all three elements of this passage.",
+      "chosen_heading": "Mikvah Encounters",
+      "current_heading": "Mikvah Encounters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Vegetable Health Debate",
+    "candidates": [
+      "Vegetables Required",
+      "Vegetable Health Debate",
+      "Specific Vegetables"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer unit about whether vegetables are beneficial or harmful, which is precisely what the 'Vegetable Health Debate' prose describes \u2014 the baraita challenge and its resolution via garlic/leeks belong here, with 'Specific Vegetables' covering the further elaboration on radish that follows.",
+      "chosen_heading": "Vegetable Health Debate",
+      "current_heading": "Vegetable Health Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Specific Vegetables",
+    "candidates": [
+      "Specific Vegetables",
+      "Topography Effects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the contradiction about radish being either beneficial or harmful, which is explicitly addressed in the 'Specific Vegetables' prose that describes the exact same Gemara resolution about leaves vs. roots and summer vs. winter.",
+      "chosen_heading": "Specific Vegetables",
+      "current_heading": "Specific Vegetables",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Topography Effects",
+    "candidates": [
+      "Topography Effects",
+      "Personal Testimony",
+      "Constellation Method",
+      "Constellation Guide"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the general principle about hilly cities causing premature aging and Rav Huna's personal testimony, both of which are fully addressed under 'Topography Effects' (candidate 0), whose prose discusses the entire Talmudic passage including the Gemara's qualification and Rav Huna's corroboration.",
+      "chosen_heading": "Topography Effects",
+      "current_heading": "Topography Effects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Constellation Guide",
+    "candidates": [
+      "Personal Testimony",
+      "Constellation Method",
+      "Constellation Guide",
+      "Solstice Method",
+      "Sun's Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 squaring a city to cardinal directions and identifying north/south by constellations (Ursa Major in the north, Scorpio in the south) \u2014 matches exactly the 'Constellation Guide' section's prose, which discusses the mnemonic of agala in the north and akrav in the south.",
+      "chosen_heading": "Constellation Guide",
+      "current_heading": "Constellation Guide",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Sun's Path",
+    "candidates": [
+      "Solstice Method",
+      "Sun's Path",
+      "Sun Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yosei's complete teaching about the solstice/equinox method for determining directions, including the scriptural proof from Ecclesiastes \u2014 exactly what the 'Solstice Method' prose describes, whereas the current placement ('Sun's Path') discusses the astronomical background and the Kohelet verse only as corroboration after already presenting the method.",
+      "chosen_heading": "Solstice Method",
+      "current_heading": "Sun's Path",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Sun Limits",
+    "candidates": [
+      "Sun's Path",
+      "Sun Limits",
+      "Four Tekufot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Mesharshiya's objection and the baraita stating the sun never rises from the exact northeast/southeast corners, which is precisely what the 'Sun Limits' section's prose describes and discusses.",
+      "chosen_heading": "Sun Limits",
+      "current_heading": "Sun Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Four Tekufot",
+    "candidates": [
+      "Four Tekufot",
+      "Annual Shift",
+      "Tammuz Times",
+      "Other Tekufot",
+      "Tekufa Distances"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four Tekufot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Shmuel's ruling about the vernal equinox falling at one of four quarters of the day, which is precisely what the 'Four Tekufot' prose discusses.",
+      "second_heading": "Tammuz Times",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the summer solstice, autumnal equinox, and winter solstice timing rules, matching the 'Tammuz Times' section's prose which explains tekufat Tammuz and its specific hours \u2014 and the 'Other Tekufot' section covers Tishrei and Tevet, so Tammuz is the correct entry point for item 2.",
+      "current_heading": "Four Tekufot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Tekufa Distances",
+    "candidates": [
+      "Annual Shift",
+      "Tammuz Times",
+      "Other Tekufot",
+      "Tekufa Distances",
+      "Tekufa Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly states the 91 days and 7.5 hours between tekufot and the half-hour shift between consecutive annual tekufot, which is precisely what the 'Tekufa Distances' section's prose discusses and explains.",
+      "chosen_heading": "Tekufa Distances",
+      "current_heading": "Tekufa Distances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Tekufa Precision",
+    "candidates": [
+      "Tekufa Precision",
+      "Square Tableaux"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Shmuel's astronomical observations about Jupiter's influence on seasonal equinoxes, which is exactly what the 'Tekufa Precision' section's prose discusses.",
+      "chosen_heading": "Tekufa Precision",
+      "current_heading": "Tekufa Precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Square Tableaux",
+    "candidates": [
+      "Square Tableaux",
+      "Diagonal Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes squaring the city and then squaring the techumin into square tablets, which matches exactly the prose of heading 0 ('Square Tableaux') that explains this same baraita and procedure.",
+      "chosen_heading": "Square Tableaux",
+      "current_heading": "Square Tableaux",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Diagonal Benefit",
+    "candidates": [
+      "Diagonal Benefit",
+      "Manhattan Example",
+      "City Gain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact rule about not measuring diagonally from the corner and instead using a square tablet placed at the corner's diagonal \u2014 precisely the geometric insight discussed in the 'Diagonal Benefit' prose.",
+      "chosen_heading": "Diagonal Benefit",
+      "current_heading": "Diagonal Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "City Gain",
+    "candidates": [
+      "Manhattan Example",
+      "City Gain",
+      "Tchumin Gain",
+      "Total Diagonal Gain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains all three statements together \u2014 city gain, techum gain, and combined gain of 1,200 \u2014 making it a single unified text that synthesizes all three figures, which matches the 'Total Diagonal Gain' section that explicitly discusses the combined 1,200-amot result.",
+      "chosen_heading": "Total Diagonal Gain",
+      "current_heading": "City Gain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Total Diagonal Gain",
+    "candidates": [
+      "Tchumin Gain",
+      "Total Diagonal Gain",
+      "Torah Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Abaye's statement confirming the calculation applies to a city of 2,000 by 2,000 cubits directly matches the 'Total Diagonal Gain' section's prose, which explicitly states 'Abaye confirms that this calculation applies when the city is 2,000 by 2,000.'",
+      "chosen_heading": "Total Diagonal Gain",
+      "current_heading": "Total Diagonal Gain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Torah Measures",
+    "candidates": [
+      "Torah Measures",
+      "Quarter Claim",
+      "Square City Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita itself (the initial statement about 2,000 cubits, 1,000 cubits of open space, and the quarter claim), which corresponds exactly to what the 'Torah Measures' section's prose describes \u2014 the baraita's content and the two figures (2,000 and 1,000 amot) \u2014 before the Gemara's challenge and geometric demonstration discussed in subsequent sections.",
+      "chosen_heading": "Torah Measures",
+      "current_heading": "Torah Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Square City Model",
+    "candidates": [
+      "Quarter Claim",
+      "Square City Model",
+      "Math Problem",
+      "Circular City Solution",
+      "Square-Circle Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: Rava's derivation of the 1,000-cubit migrash from the verse, the challenge that it's half not a quarter, Bar Adda's square-city geometric explanation, and the objection that the result is one-third not one-quarter \u2014 all directly addressing the 'Quarter Claim' that the migrash is one-quarter, exactly as described in candidate 0's prose.",
+      "chosen_heading": "Quarter Claim",
+      "current_heading": "Square City Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Square-Circle Ratio",
+    "candidates": [
+      "Math Problem",
+      "Circular City Solution",
+      "Square-Circle Ratio",
+      "Smaller City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's answer that the city is circular (item 1) and the square-circle ratio calculation (item 2) \u2014 together constitute the 'Circular City Solution,' which is exactly what candidate 1's prose describes: the resolution that the city is round, and the geometric ratio that makes the migrash one-quarter of the whole.",
+      "chosen_heading": "Circular City Solution",
+      "current_heading": "Square-Circle Ratio",
+      "moved": true
+    }
+  }
+]

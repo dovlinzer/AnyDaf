@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Prohibited Inks",
+    "candidates": [
+      "Prohibited Inks",
+      "Valid Parchment Materials"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Prohibited Inks",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the prohibited inks (sam, sikra, komos, kankantom) which matches the 'Prohibited Inks' prose exactly.",
+      "second_heading": "Valid Parchment Materials",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers diftera (leather processed with salt and flour but not gallnuts) and neyar (paper), which matches the 'Valid Parchment Materials' prose that specifically discusses diftera, demaliach vekamiach, afatzim, and niyar.",
+      "current_heading": "Prohibited Inks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Valid Parchment Materials",
+    "candidates": [
+      "Valid Parchment Materials",
+      "Ashuris Script & Ink"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the requirement for Ashurit script and cites the verse 'kechsavam ukizmanam,' which matches exactly what the prose in 'Valid Parchment Materials' discusses in its concluding lines about this requirement.",
+      "chosen_heading": "Valid Parchment Materials",
+      "current_heading": "Valid Parchment Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Ashuris Script & Ink",
+    "candidates": [
+      "Ashuris Script & Ink",
+      "Tosafot: Gallnuts/Plaster",
+      "Minhag vs. Gemara",
+      "Mishnah: City Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the parchment-and-ink requirement via a gezeirah shavah between Esther and Jeremiah/Baruch, which is precisely what the 'Ashuris Script & Ink' section's prose describes.",
+      "chosen_heading": "Ashuris Script & Ink",
+      "current_heading": "Ashuris Script & Ink",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Mishnah: City Types",
+    "candidates": [
+      "Tosafot: Gallnuts/Plaster",
+      "Minhag vs. Gemara",
+      "Mishnah: City Types",
+      "Rava: Night of 14th"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about a resident of an unwalled town going to a walled city and vice versa, which is precisely what the 'Mishnah: City Types' section prose introduces and discusses.",
+      "chosen_heading": "Mishnah: City Types",
+      "current_heading": "Mishnah: City Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rava: Night of 14th",
+    "candidates": [
+      "Rava: Night of 14th",
+      "One-Day Residents"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Rava: Night of 14th",
+      "current_heading": "Rava: Night of 14th",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "One-Day Residents",
+    "candidates": [
+      "One-Day Residents",
+      "Village to City",
+      "Market Day Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the logical symmetry argument (sevara) about one-day residents of walled vs. unwalled cities, which is precisely what the 'One-Day Residents' prose discusses.",
+      "chosen_heading": "One-Day Residents",
+      "current_heading": "One-Day Residents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Market Day Reading",
+    "candidates": [
+      "Village to City",
+      "Market Day Reading",
+      "Braitot Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rava's ruling about a villager who traveled to a city, the rationale about the market-day leniency, and the condition that it applies only when he is in his village \u2014 is precisely what the 'Market Day Reading' prose section elaborates in detail, making it the clearly correct placement.",
+      "chosen_heading": "Market Day Reading",
+      "current_heading": "Market Day Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Braitot Reconciliation",
+    "candidates": [
+      "Braitot Reconciliation",
+      "Four Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Abaye-Rava exchange about the baraita emendation (ben kerach/ben kefar) and the gemara's counter-emendation response, which is precisely what the 'Braitot Reconciliation' prose describes.",
+      "chosen_heading": "Braitot Reconciliation",
+      "current_heading": "Braitot Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Four Opinions",
+    "candidates": [
+      "Four Opinions",
+      "Gezeira Shava Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Shimon bar Yo\u1e25ai's opinion as a fourth view on where to begin reading the Megilla, which directly corresponds to the 'Four Opinions' section prose describing the mishnah's question about starting points, while the 'Gezeira Shava Analysis' section prose already discusses this opinion in its analytical context.",
+      "chosen_heading": "Four Opinions",
+      "current_heading": "Four Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Gezeira Shava Analysis",
+    "candidates": [
+      "Gezeira Shava Analysis",
+      "Rabbah's Framework",
+      "Central Characters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's observation that all opinions derive from a single verse (mikra echad darshu) and the interpretation of 'tokef' as referring to the power of Ahasuerus, which is precisely what the 'Gezeira Shava Analysis' prose section discusses.",
+      "chosen_heading": "Gezeira Shava Analysis",
+      "current_heading": "Gezeira Shava Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Central Characters",
+    "candidates": [
+      "Rabbah's Framework",
+      "Central Characters",
+      "Hester Panim Theme",
+      "Halacha: Entire Megillah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items are part of Rabbah's framework interpreting 'u'ma ra'u al kach v'uma higia aleihem' to justify each starting point, which is precisely what heading 0 ('Rabbah's Framework') describes in its prose, while the current placement under 'Central Characters' (index 1) duplicates that content in the prose without being the heading under which the Talmudic text itself belongs.",
+      "chosen_heading": "Rabbah's Framework",
+      "current_heading": "Central Characters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Halacha: Entire Megillah",
+    "candidates": [
+      "Hester Panim Theme",
+      "Halacha: Entire Megillah",
+      "Sefer and Igeret",
+      "Parchment Threads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the halakha that the entire megillah must be read and written, which matches exactly the prose under 'Halacha: Entire Megillah'.",
+      "chosen_heading": "Halacha: Entire Megillah",
+      "current_heading": "Halacha: Entire Megillah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Parchment Threads",
+    "candidates": [
+      "Sefer and Igeret",
+      "Parchment Threads",
+      "Megillah Within Scroll"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the dual sefer/iggeret designation and its practical implications for sewing threads, which is precisely what the 'Parchment Threads' prose elaborates on in detail, including the flax thread invalidation, the three sinew threads, and Rav Na\u1e25man's requirement of even distribution.",
+      "chosen_heading": "Parchment Threads",
+      "current_heading": "Parchment Threads",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Megillah Within Scroll",
+    "candidates": [
+      "Megillah Within Scroll",
+      "Parchment Distinction",
+      "Pirsumei Nisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover the ruling about reading a Megilla written within the Ketuvim scroll and Rava's qualification, plus the illustrative story of Levi bar Shmuel \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Megillah Within Scroll",
+      "current_heading": "Megillah Within Scroll",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Pirsumei Nisa",
+    "candidates": [
+      "Parchment Distinction",
+      "Pirsumei Nisa",
+      "Excluded Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 is directly about the tzibbur/yachid distinction for reading a Megilla embedded in the Writings \u2014 exactly what the 'Pirsumei Nisa' prose discusses \u2014 and items 2\u20134 are a chain of further Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan statements that naturally follow in the same sugya, with item 4 returning to Megilla reading as what the Scribes introduced, tying back to the section's theme.",
+      "chosen_heading": "Pirsumei Nisa",
+      "current_heading": "Pirsumei Nisa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Excluded Categories",
+    "candidates": [
+      "Excluded Categories",
+      "Cheresh Issue",
+      "Rabbi Yose: Hearing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself listing who is excluded from reading the Megilla, which exactly matches the 'Excluded Categories' prose that directly discusses this mishnah's content.",
+      "chosen_heading": "Excluded Categories",
+      "current_heading": "Excluded Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rabbi Yose: Hearing",
+    "candidates": [
+      "Cheresh Issue",
+      "Rabbi Yose: Hearing",
+      "Rav Matna Position",
+      "Multiple Katan Types",
+      "Tosafot: Force to Yehuda",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Matna's answer identifying Rabbi Yose as the tanna, citing the Shema ruling about hearing one's own words \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Rabbi Yose: Hearing",
+      "current_heading": "Rabbi Yose: Hearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Rav Matna Position",
+      "Multiple Katan Types",
+      "Tosafot: Force to Yehuda",
+      "Three Positions",
+      "Types of Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the three-way crystallization of positions (Rabbi Meir, Rabbi Yehuda, Rabbi Yosei) on hearing one's own words, the baraita about teruma for a deaf person, the Grace after Meals baraita, and Rabbi Yehuda citing Rabbi Elazar ben Azarya on Shema \u2014 all of which the 'Three Positions' prose explicitly describes.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Three Positions",
+      "moved": false
+    }
+  }
+]

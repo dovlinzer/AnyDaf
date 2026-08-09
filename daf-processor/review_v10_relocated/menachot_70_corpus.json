@@ -1,0 +1,368 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Orlah & Grafting",
+    "candidates": [
+      "R. Shimon ben Pazi's Case",
+      "Orlah & Grafting",
+      "Kilayim & Onion Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's attempt to resolve the dilemma using Rabbi Abbahu/Rabbi Yochanan's ruling about a young vine grafted onto an old one and orlah, which is precisely what the 'Orlah & Grafting' section's prose describes.",
+      "chosen_heading": "Orlah & Grafting",
+      "current_heading": "Orlah & Grafting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Kilayim & Onion Case",
+    "candidates": [
+      "Kilayim & Onion Case",
+      "Foundation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the onion-in-vineyard (kilayim) case attributed to Rabbi Shmuel bar Na\u1e25mani/Rabbi Yonatan, which is precisely what the 'Kilayim & Onion Case' prose section describes and analyzes.",
+      "chosen_heading": "Kilayim & Onion Case",
+      "current_heading": "Kilayim & Onion Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Foundation Principle",
+    "candidates": [
+      "Foundation Principle",
+      "Rabbah's Ma'aser Q",
+      "Abaye's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the unresolved dilemma about whether the Rabbis apply the 'batar ikar' principle symmetrically (for both leniency and stringency) or only for stringency, ending with 'teiku' \u2014 exactly what the prose under 'Foundation Principle' describes in detail.",
+      "chosen_heading": "Foundation Principle",
+      "current_heading": "Foundation Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Abaye's Distinction",
+    "candidates": [
+      "Rabbah's Ma'aser Q",
+      "Abaye's Distinction",
+      "Flower Pot Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together form the complete Rabba-Abaye exchange about ma'aser on replanted grain (including the litra batzal resolution attempt and its rejection), which is precisely what heading 0 ('Rabbah's Ma'aser Q') describes, while the current placement under heading 1 ('Abaye's Distinction') only covers a subset of the passage.",
+      "chosen_heading": "Rabbah's Ma'aser Q",
+      "current_heading": "Abaye's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Flower Pot Analogy",
+    "candidates": [
+      "Abaye's Distinction",
+      "Flower Pot Analogy",
+      "R. Abahu's Terumah Q",
+      "Abaye's Terumah Answer",
+      "Objection to Terumah",
+      "Eating Off the Stalk"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Flower Pot Analogy",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are the flowerpot (atzitz) exchange between Rabbi \u1e24anina bar Minyumi and Abaye, exactly matching the 'Flower Pot Analogy' prose which describes that same dialogue and Abaye's distinction between one sowing and two sowings.",
+      "second_heading": "R. Abahu's Terumah Q",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rabbi Abbahu's entirely new dilemma about an ear of grain smoothed into a pile and then replanted, which is precisely the subject of the 'R. Abahu's Terumah Q' prose section.",
+      "current_heading": "Flower Pot Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Eating Off the Stalk",
+    "candidates": [
+      "R. Abahu's Terumah Q",
+      "Abaye's Terumah Answer",
+      "Objection to Terumah",
+      "Eating Off the Stalk",
+      "Egg in Bird Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the objection-and-response exchange (Rabbis challenging Abaye about terumah be-mechubar, followed by Abaye's rebuttal), which corresponds precisely to candidate 2 ('Objection to Terumah') whose prose describes exactly this challenge and Abaye's clarification about liability rather than status.",
+      "chosen_heading": "Objection to Terumah",
+      "current_heading": "Eating Off the Stalk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Egg in Bird Analogy",
+    "candidates": [
+      "Eating Off the Stalk",
+      "Egg in Bird Analogy",
+      "Attached Objects: Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Ilfa tablet case about eggs inside a bird rendering garments impure, and the Gemara's answer distinguishing detached (talush) from attached \u2014 are precisely the content described in candidate 1's prose ('Egg in Bird Analogy'), which explicitly discusses the pinkusa de-Ilfa case, the tum'ah through swallowing, and the question of whether eating inside the bird counts as normal achilah.",
+      "chosen_heading": "Egg in Bird Analogy",
+      "current_heading": "Egg in Bird Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Attached Objects: Eating",
+    "candidates": [
+      "Attached Objects: Eating",
+      "Five Grains Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Attached Objects: Eating' explicitly discusses Rav Tiviumi bar Kisna/Shmuel's ruling on kilayim in a non-perforated flowerpot, Abaye's challenge about makat mardut, and the terumah mishna proof \u2014 which is exactly what both items contain.",
+      "chosen_heading": "Attached Objects: Eating",
+      "current_heading": "Attached Objects: Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Five Grains Mishnah",
+    "candidates": [
+      "Five Grains Mishnah",
+      "Grain Categorization",
+      "Rashi's Identifications",
+      "Feliks's Challenge",
+      "Canonical Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah defining the five grains and their shared halachic properties (challah obligation, combining, chadash prohibition, omer permitting), which is precisely what the 'Five Grains Mishnah' section prose describes in detail.",
+      "chosen_heading": "Five Grains Mishnah",
+      "current_heading": "Five Grains Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Canonical Interpretation",
+    "candidates": [
+      "Grain Categorization",
+      "Rashi's Identifications",
+      "Feliks's Challenge",
+      "Canonical Interpretation",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita classifying spelt as a type of wheat and oats/rye as types of barley, plus the Aramaic identifications and the inference excluding rice and millet \u2014 exactly what candidate 0 'Grain Categorization' describes in its prose.",
+      "chosen_heading": "Grain Categorization",
+      "current_heading": "Canonical Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Canonical Interpretation",
+      "Gezeirah Shavah",
+      "Fermentation vs. Rot",
+      "Fermentation Principle",
+      "Baraisa: Combine Together"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete gezeirah shavah derivation \u2014 item 1 establishes the verbal analogy between challah and matzah, and item 2 provides the source for matzah's own grain restriction \u2014 which is exactly what the 'Gezeirah Shavah' prose describes as Reish Lakish's atya lechem lechem mi-matzah argument.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Baraisa: Combine Together",
+    "candidates": [
+      "Fermentation vs. Rot",
+      "Fermentation Principle",
+      "Baraisa: Combine Together",
+      "Rav Kahana: Chadash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about grain kernels, flours, and dough combining together and asks 'for what halakha,' which is precisely what the 'Baraisa: Combine Together' section's prose describes.",
+      "chosen_heading": "Baraisa: Combine Together",
+      "current_heading": "Baraisa: Combine Together",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rav Kahana: Chadash",
+    "candidates": [
+      "Rav Kahana: Chadash",
+      "Rav Yosef: Chametz",
+      "Rava: Tumah of Food",
+      "Food & Beitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents all three opinions (Rav Kahana, Rav Yosef, Rav Pappa) together as a unit, and the current placement under 'Rav Kahana: Chadash' is the natural home for the full Talmudic block that introduces all three answers, matching the essay's structure where subsequent headings then elaborate on each opinion individually.",
+      "chosen_heading": "Rav Kahana: Chadash",
+      "current_heading": "Rav Kahana: Chadash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Food & Beitzah",
+    "candidates": [
+      "Rav Yosef: Chametz",
+      "Rava: Tumah of Food",
+      "Food & Beitzah",
+      "Barley Hulls Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about tum'at ochlin, which is directly described and introduced in candidate 1's prose ('Rava: Tumah of Food'), not in candidate 2 where it currently sits.",
+      "chosen_heading": "Rava: Tumah of Food",
+      "current_heading": "Food & Beitzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Barley Hulls Issue",
+    "candidates": [
+      "Food & Beitzah",
+      "Barley Hulls Issue",
+      "Seeds With Hulls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly addresses the wheat/barley hull distinction for combining toward tum'ah, which is precisely what the 'Barley Hulls Issue' prose discusses, including the chatzitzah effect of inedible hulls.",
+      "chosen_heading": "Barley Hulls Issue",
+      "current_heading": "Barley Hulls Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Seeds With Hulls",
+    "candidates": [
+      "Seeds With Hulls",
+      "Moist vs. Dry Hulls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita from the school of Rabbi Yishmael about seeds being susceptible to impurity in their sown state (wheat, barley, and lentils in their shells), which is exactly what the 'Seeds With Hulls' prose section describes and discusses.",
+      "chosen_heading": "Seeds With Hulls",
+      "current_heading": "Seeds With Hulls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Moist vs. Dry Hulls",
+    "candidates": [
+      "Moist vs. Dry Hulls",
+      "Lechem Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly resolves the contradiction about moist vs. dry hulls, which is exactly what the prose under 'Moist vs. Dry Hulls' discusses.",
+      "chosen_heading": "Moist vs. Dry Hulls",
+      "current_heading": "Moist vs. Dry Hulls",
+      "moved": false
+    }
+  }
+]

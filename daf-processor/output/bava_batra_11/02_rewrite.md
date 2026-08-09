@@ -180,11 +180,9 @@ The *baraita* confirms: *zevel she-be-chatzer mitchaleket lefi ptachim* — dung
 
 ### New Doors
 
-Rav Huna asks Rabbi Ami: if one of the residents of a *mavoy* wishes to redirect his doorway to open onto a different *mavoy* — *lehachzir pitcho lemavoy acher* — can the current residents of the *mavoy* prevent him? Rabbi Ami answers: *benei mavoy me'akveina lei*, yes, they can block him.
+Rav Huna asks Rabbi Ami: if one of the residents of a *mavoy* wishes to redirect his doorway to open onto a different *mavoy* — *lehachzir pitcho lemavoy acher* — can the current residents of that *mavoy* prevent him? Rabbi Ami answers: *benei mavoy me'akveina lei* — yes, they can block him. The alleyway belongs to its established residents, and an outsider has no right to simply open himself access into it.
 
-The next question in the *Gemara* concerns a sealed door — *hayah satum u-bikeish lefotcho*, a door that had previously been open onto the *mavoy* and was then sealed, and now the resident wishes to reopen it. Rabbi holds that in this case *ein benei mavoy me'akveina alav* — the residents of the *mavoy* cannot prevent him from reopening a door he once had. Since his right of access was established when the door originally existed, sealing it did not permanently forfeit that right. Rabbi Shimon ben Elazar, however, disagrees.
-
----
+The *Gemara* then raises a related question concerning *achsanya* — troops quartered in a building that shares a courtyard — and how the space (or the *zevel*, the refuse and fertilizer that accumulates there) is to be divided: *lifnei benei adam* or *lifnei petachim*, according to the number of people or according to the number of doorways? Rabbi Ami answers: *lifnei benei adam mitchaleket* — it is divided according to the number of people, not the number of doorways.
 
 ## Multi-Unit Dwellings (II)
 

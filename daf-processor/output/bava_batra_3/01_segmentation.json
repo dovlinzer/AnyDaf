@@ -44,7 +44,7 @@
           "timestamp": "13:00"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -141,7 +141,7 @@
           "timestamp": "44:05"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -406,5 +406,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "42:29",
+  "amud_b_micro_title": "Second Temple Size",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "b"
 }

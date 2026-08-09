@@ -162,7 +162,7 @@
         }
       ],
       "sefaria_index": 25,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Source and Scope of the Invalidation: Derivation from Biblical Verses",
@@ -384,5 +384,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "06:04",
+  "amud_b_micro_title": "Apotropos Solution",
+  "shiur_start_daf": 66,
+  "shiur_start_amud": "b"
 }

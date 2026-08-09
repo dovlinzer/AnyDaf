@@ -1,0 +1,381 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Read & Translate",
+    "candidates": [
+      "Mishnah Overview",
+      "Reuven Story",
+      "Tamar & Others",
+      "Eigel Stories",
+      "Kohanim & David",
+      "Prohibited Haftarot",
+      "Three Categories",
+      "Read & Translate",
+      "Klalot u'Brachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All four items discuss passages that are read and translated (maaseh Bereishit wrap-up, Lot, Tamar/Judah, Golden Calf), exactly matching the 'Read & Translate' section's prose which explicitly covers each of these cases in the same order.",
+      "chosen_heading": "Read & Translate",
+      "current_heading": "Read & Translate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Klalot u'Brachot",
+    "candidates": [
+      "Klalot u'Brachot",
+      "Tanach Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss kelalot/brachot and azharot/onshin being read and translated, which is precisely what candidate 0's prose covers in detail, including the exact hava amina about the congregation becoming dismayed and about people acting only out of fear.",
+      "chosen_heading": "Klalot u'Brachot",
+      "current_heading": "Klalot u'Brachot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Tanach Stories",
+    "candidates": [
+      "Tanach Stories",
+      "Hodaat Yerushalayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the reading and translating of Amnon/Tamar, Absalom, and the concubine in Gibeah narratives, with their respective hava aminas about protecting David's honor and Benjamin's honor \u2014 all of which are explicitly addressed in the prose under 'Tanach Stories' (the current placement).",
+      "chosen_heading": "Tanach Stories",
+      "current_heading": "Tanach Stories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Hodaat Yerushalayim",
+    "candidates": [
+      "Hodaat Yerushalayim",
+      "Reuven Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses 'Hoda et Yerushalayim et to'avoteha' being read and translated, the exclusion of Rabbi Eliezer's opinion, and the baraita about the man reading before Rabbi Eliezer \u2014 all of which exactly matches the prose under heading 0.",
+      "chosen_heading": "Hodaat Yerushalayim",
+      "current_heading": "Hodaat Yerushalayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Reuven Case",
+    "candidates": [
+      "Reuven Case",
+      "Eigel HaSheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Rabbi \u1e24anina ben Gamliel at Kavul instructing the translator not to translate the verse about Reuben \u2014 which is precisely what the 'Reuven Case' prose section discusses.",
+      "chosen_heading": "Reuven Case",
+      "current_heading": "Reuven Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Eigel HaSheni",
+    "candidates": [
+      "Eigel HaSheni",
+      "Tosafot Girsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines what constitutes the second eigel narrative (from 'vayomer Moshe' to 'vayar Moshe'), which is precisely what the prose under 'Eigel HaSheni' discusses, including the Gemara's identification of that specific textual range.",
+      "chosen_heading": "Eigel HaSheni",
+      "current_heading": "Eigel HaSheni",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Tosafot Girsa",
+    "candidates": [
+      "Tosafot Girsa",
+      "Birchas Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita from Rabbi Shimon ben Elazar about being careful in one's responses, citing Aaron's statement 'va'ashlichehu ba'esh vayetzei haeigel hazeh,' is explicitly discussed in the 'Tosafot Girsa' section's prose, which directly references this baraita and its content.",
+      "chosen_heading": "Tosafot Girsa",
+      "current_heading": "Tosafot Girsa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Birchas Kohanim",
+    "candidates": [
+      "Birchas Kohanim",
+      "David & Amnon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses birkat kohanim being read but not translated due to the word 'yissa,' which directly matches the prose under 'Birchas Kohanim.'",
+      "chosen_heading": "Birchas Kohanim",
+      "current_heading": "Birchas Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "David & Amnon",
+    "candidates": [
+      "David & Amnon",
+      "Offensive Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the David and Amnon incident and the Amnon ben David/Amnon stama distinction, which is exactly what the 'David & Amnon' section prose elaborates on.",
+      "chosen_heading": "David & Amnon",
+      "current_heading": "David & Amnon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Offensive Verses",
+    "candidates": [
+      "Offensive Verses",
+      "Mockery Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly illustrates the principle of reading crude biblical verses in refined terms, which is exactly what the prose under 'Offensive Verses' discusses with these same examples (yishgalena/yishkavena, afolim/techorim, chiryonim/dovyonim, etc.).",
+      "chosen_heading": "Offensive Verses",
+      "current_heading": "Offensive Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Mockery Rules",
+    "candidates": [
+      "Mockery Rules",
+      "Responsibility",
+      "Sale of Assets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the principle of permitted mockery/crude language toward idol worship, which is precisely what the 'Mockery Rules' section prose describes in detail, including the same passages about lemo\u1e25ra'ot, Rav Na\u1e25man's ruling, Rabbi Yannai's proof, Rav Huna bar Manoa\u1e25's statement, and Rav Ashi's addition.",
+      "chosen_heading": "Mockery Rules",
+      "current_heading": "Mockery Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Sale of Assets",
+    "candidates": [
+      "Responsibility",
+      "Sale of Assets",
+      "Hierarchy",
+      "Sanctity Models"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 5,
+      "first_heading": "Responsibility",
+      "first_confidence": "high",
+      "first_reason": "The 'Hadran alach Hakoreh et ha-Megilla Omed' closing formula appears verbatim in the 'Responsibility' section prose, marking the end of chapter three.",
+      "second_heading": "Sale of Assets",
+      "second_confidence": "high",
+      "second_reason": "The full mishna on residents selling the town square and the hierarchy of sanctity purchases matches the detailed 'Sale of Assets' prose which explicitly walks through each step of the mishna.",
+      "third_heading": "Sale of Assets",
+      "third_confidence": "high",
+      "third_reason": "The Gemara opening on 'benei ha-ir she-machru rechovah' with Rabba bar bar Hana citing Rabbi Yohanan belongs under 'Sale of Assets,' which is the section discussing this mishna and its gemara commentary.",
+      "current_heading": "Sale of Assets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Sanctity Models",
+    "candidates": [
+      "Hierarchy",
+      "Sanctity Models",
+      "No Downgrade",
+      "Village vs. City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Mena\u1e25em bar Yosei's reasoning (people pray in the square on fast days and watches) and the Rabbis' counter (merely incidental), which is precisely the dispute discussed in the 'Village vs. City' section's prose about Rabbi Menachem bar Rabbi Yosi vs. the Rabbis on whether the public square has kedusha.",
+      "chosen_heading": "Village vs. City",
+      "current_heading": "Sanctity Models",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Village vs. City",
+    "candidates": [
+      "No Downgrade",
+      "Village vs. City",
+      "Rav Ashi Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shmuel bar Na\u1e25mani's qualification distinguishing village synagogues from city synagogues, which is precisely what the 'Village vs. City' section's prose discusses in detail.",
+      "chosen_heading": "Village vs. City",
+      "current_heading": "Village vs. City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rav Ashi Case",
+    "candidates": [
+      "Rav Ashi Case",
+      "Coppersmiths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about the synagogue of Mata Me\u1e25asya and his authority to sell it, which is precisely what the 'Rav Ashi Case' prose discusses in detail.",
+      "chosen_heading": "Rav Ashi Case",
+      "current_heading": "Rav Ashi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Coppersmiths",
+    "candidates": [
+      "Coppersmiths",
+      "Jerusalem Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the synagogue of the bronze/copper workers in Jerusalem sold to Rabbi Eliezer, which is precisely what the 'Coppersmiths' section prose discusses in detail.",
+      "chosen_heading": "Coppersmiths",
+      "current_heading": "Coppersmiths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Jerusalem Division",
+    "candidates": [
+      "Jerusalem Division",
+      "No Private Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a single continuous discussion about whether Jerusalem was apportioned to the tribes (affecting nega'im of houses), the dispute between Tanna Kamma and Rabbi Yehuda, and the baraita about the tribal portions of Judah and Benjamin \u2014 exactly the content described in the 'Jerusalem Division' prose.",
+      "chosen_heading": "Jerusalem Division",
+      "current_heading": "Jerusalem Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "No Private Property",
+    "candidates": [
+      "No Private Property",
+      "Bed Rental"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the baraita about not renting houses in Jerusalem because they don't belong to the residents, plus Rabbi Elazar bar Tzadok's addition about beds, and the corollary about innkeepers taking hides by force \u2014 all of which the 'No Private Property' section's prose explicitly discusses as a unified block, making it the correct placement.",
+      "chosen_heading": "No Private Property",
+      "current_heading": "No Private Property",
+      "moved": false
+    }
+  }
+]

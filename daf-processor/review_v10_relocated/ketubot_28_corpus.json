@@ -1,0 +1,426 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Zechariah Testimony",
+    "candidates": [
+      "Non-Jews Enter City",
+      "Zechariah Testimony",
+      "Living Arrangements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact mishna text of Zechariah ben HaKatzav's sworn testimony and the Sages' response, which is precisely what the 'Zechariah Testimony' section's prose describes and analyzes.",
+      "chosen_heading": "Zechariah Testimony",
+      "current_heading": "Zechariah Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Living Arrangements",
+    "candidates": [
+      "Living Arrangements",
+      "Abaye's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific living arrangement (designated house, supervised entrances/exits) which matches exactly what the 'Living Arrangements' prose discusses.",
+      "chosen_heading": "Living Arrangements",
+      "current_heading": "Living Arrangements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Abaye's Question",
+    "candidates": [
+      "Abaye's Question",
+      "Shvuyah vs. Gerusha",
+      "Baraita Shchunah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's dilemma about whether the leniency for a captive woman applies to a divorc\u00e9e, which matches exactly the prose of heading 0 describing Abaye's question about arranging a similar arrangement for a gerusha.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Abaye's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Baraita Shchunah",
+    "candidates": [
+      "Shvuyah vs. Gerusha",
+      "Baraita Shchunah",
+      "Shchunah/Mavui Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about a divorced wife not marrying in her ex-husband's vicinity, which is precisely what the 'Baraita Shchunah' section's prose introduces and discusses.",
+      "chosen_heading": "Baraita Shchunah",
+      "current_heading": "Baraita Shchunah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Shchunah/Mavui Defined",
+    "candidates": [
+      "Shchunah/Mavui Defined",
+      "Who Must Move"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a priest and his divorced wife being separated by a mavui, and the ruling about a small village being judged as a shchunah \u2014 exactly the spatial terminology and distinctions explained in the 'Shchunah/Mavui Defined' prose.",
+      "chosen_heading": "Shchunah/Mavui Defined",
+      "current_heading": "Shchunah/Mavui Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Who Must Move",
+    "candidates": [
+      "Who Must Move",
+      "Joint Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses who must leave (mi nidche mipnei mi) and the baraita's ruling that she is ousted unless it is her courtyard, which is precisely what the 'Who Must Move' section's prose discusses.",
+      "chosen_heading": "Who Must Move",
+      "current_heading": "Who Must Move",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Joint Ownership",
+    "candidates": [
+      "Joint Ownership",
+      "Rav's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma of joint courtyard ownership and the inconclusive resolution, which matches exactly the 'Joint Ownership' section's prose describing the ambiguity of the joint case and the dilma de'oger miger consideration.",
+      "chosen_heading": "Joint Ownership",
+      "current_heading": "Joint Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rav's Statement",
+    "candidates": [
+      "Rav's Statement",
+      "Loan Repayment",
+      "Rav Sheshet",
+      "Shamta/Lashes",
+      "Rav Nachman Source",
+      "Nisuin vs. Eirussin",
+      "Rava's Intermediary"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the verse/Rav ruling resolving the joint-ownership dispute, which is exactly what heading 0 ('Rav's Statement') discusses.",
+      "second_heading": "Loan Repayment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about loan repayment and its subsequent elaborations (Rav Sheshet, Rav Pappa, Rav Huna, Rav Na\u1e25man), which spans headings 1\u20135 but opens precisely with the 'Loan Repayment' case that heading 1 describes.",
+      "current_heading": "Rav's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rava's Intermediary",
+    "candidates": [
+      "Loan Repayment",
+      "Rav Sheshet",
+      "Shamta/Lashes",
+      "Rav Nachman Source",
+      "Nisuin vs. Eirussin",
+      "Rava's Intermediary",
+      "Implementation Dispute",
+      "Mishna Categories",
+      "Signature Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items describe the case of the betrothed couple before Rava and the dispute about whether an intermediary is needed, which is exactly what heading 5 ('Rava's Intermediary') describes in its prose.",
+      "chosen_heading": "Rava's Intermediary",
+      "current_heading": "Rava's Intermediary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Signature Recognition",
+    "candidates": [
+      "Implementation Dispute",
+      "Mishna Categories",
+      "Signature Recognition",
+      "Establishing Kohen",
+      "Beit Hapras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself ('v'eilu ne'emanin l'ha'id b'godlan mah she'ra'u b'kotnan'), which the prose of candidate 1 ('Mishna Categories') directly introduces and contextualizes, whereas candidate 2 ('Signature Recognition') discusses the first specific category listed in the mishna rather than the mishna's opening statement.",
+      "chosen_heading": "Mishna Categories",
+      "current_heading": "Signature Recognition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Beit Hapras",
+    "candidates": [
+      "Establishing Kohen",
+      "Beit Hapras",
+      "Techumim",
+      "Not Believed Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all five testimonies in sequence \u2014 the hinnuma bride, the schoolboy who immersed for teruma, sharing at the threshing floor, the beit hapras, and the Shabbat boundary \u2014 and the 'Establishing Kohen' section's prose explicitly discusses the schoolboy/granary testimonies which appear early in the quoted text, making it the best single home for the entire passage rather than the later 'Beit Hapras' section which covers only the fourth item.",
+      "chosen_heading": "Establishing Kohen",
+      "current_heading": "Beit Hapras",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Not Believed Cases",
+    "candidates": [
+      "Techumim",
+      "Not Believed Cases",
+      "Kiyum Shtarot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's 'not believed' cases about rights-of-way and funeral gatherings, which is exactly what candidate 1's prose describes and analyzes.",
+      "chosen_heading": "Not Believed Cases",
+      "current_heading": "Not Believed Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Kiyum Shtarot",
+    "candidates": [
+      "Kiyum Shtarot",
+      "First Wedding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the gemara's qualification (adult witness required) and the necessity of all three signature-recognition cases (father, teacher, brother), culminating in the kiyum shtarot m'drabbanan principle \u2014 exactly what the 'Kiyum Shtarot' prose describes.",
+      "chosen_heading": "Kiyum Shtarot",
+      "current_heading": "Kiyum Shtarot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "First Wedding",
+    "candidates": [
+      "First Wedding",
+      "Slave Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the hinnuma/uncovered hair testimony and explains it as 'giluy milta b'alma' because most women marry as virgins, which matches exactly what the 'First Wedding' prose section discusses.",
+      "chosen_heading": "First Wedding",
+      "current_heading": "First Wedding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Slave Distinction",
+    "candidates": [
+      "Slave Distinction",
+      "Terumah D'rabbanan",
+      "Terumah Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about whether a school attendee could be a slave of a kohen, invoking Rabbi Yehoshua ben Levi's prohibition on teaching slaves Torah and the baraita about slaves who self-acquire Torah knowledge, which is precisely what the 'Slave Distinction' prose describes in detail.",
+      "chosen_heading": "Slave Distinction",
+      "current_heading": "Slave Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Terumah Distribution",
+    "candidates": [
+      "Terumah D'rabbanan",
+      "Terumah Distribution",
+      "Rabbi Elazar Tale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the terumah d'rabbanan point and the slave-of-a-kohen question with the Rabbi Yehuda/Rabbi Yose baraita, which corresponds precisely to the 'Terumah Distribution' section's prose discussion of v'dilma eved kohen, ein cholkin terumah l'eved, and the Rabbi Yehuda/Rabbi Yose debate.",
+      "chosen_heading": "Terumah Distribution",
+      "current_heading": "Terumah Distribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Rabbi Elazar Tale",
+    "candidates": [
+      "Rabbi Elazar Tale",
+      "Family Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbi Elazar Tale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the dispute between Rabbi Yehuda and Rabbi Yosei about elevating from teruma to lineage and the Rabbi Elazar cautionary tale, which is exactly what candidate 0 'Rabbi Elazar Tale' prose describes.",
+      "second_heading": "Family Status",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 shift to entirely new topics from the mishna \u2014 beit haperas impurity, Shabbat boundaries, and monetary claims \u2014 which correspond to the 'Family Status' section's broader discussion of remaining mishna categories, and represent a structural break to new self-contained cases with different legal frameworks.",
+      "current_heading": "Rabbi Elazar Tale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Family Status",
+    "candidates": [
+      "Family Status",
+      "Akum/Eved",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita about a child testifying about family lineage (tehorah/tmeiah clarified as ksheirah/psulah), which is exactly what the 'Family Status' section prose discusses in detail.",
+      "chosen_heading": "Family Status",
+      "current_heading": "Family Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Akum/Eved",
+      "Rabbi Yochanan",
+      "Attention Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita text covering ketzatza, \u1e25alla, the akum/eved cases, path/funeral rights, AND Rabbi Yochanan ben Beroka's dissent \u2014 meaning the entire quoted text (including Rabbi Yochanan's line) is sourced from the baraita, and the earliest substantive content (akum/eved) matches heading 0's prose most directly, while the current placement under 'Rabbi Yochanan' only addresses the final line of the passage.",
+      "chosen_heading": "Akum/Eved",
+      "current_heading": "Rabbi Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Attention Debate",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Attention Debate",
+      "Ketzatzah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's psychological framing of the debate between the tanna kama and Rabbi Yochanan ben Beroka \u2014 precisely what the 'Attention Debate' prose describes in detail.",
+      "chosen_heading": "Attention Debate",
+      "current_heading": "Attention Debate",
+      "moved": false
+    }
+  }
+]

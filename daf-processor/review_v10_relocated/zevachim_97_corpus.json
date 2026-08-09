@@ -1,0 +1,473 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Opening & Mishna",
+    "candidates": [
+      "Opening & Mishna",
+      "Rabbi Tarfon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the mishna as described in candidate 0's prose \u2014 the dispute between Rabbi Tarfon and the chakhamim, the description of merika u'shtifa, and the case of the spit and grill requiring hagala \u2014 which is exactly what the 'Opening & Mishna' section says it covers.",
+      "chosen_heading": "Opening & Mishna",
+      "current_heading": "Opening & Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Tarfon",
+    "candidates": [
+      "Rabbi Tarfon",
+      "Piggul & Notar Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Tarfon's reasoning from Deuteronomy 16:7 and the 'single morning' derivation, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rabbi Tarfon",
+      "current_heading": "Rabbi Tarfon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Piggul & Notar Challenge",
+    "candidates": [
+      "Piggul & Notar Challenge",
+      "Daily Kashering Theory",
+      "Shelamim Kashering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the piggul/notar objection and its resolution via Rabbi Natan's baraita, which is precisely what the 'Piggul & Notar Challenge' prose describes.",
+      "chosen_heading": "Piggul & Notar Challenge",
+      "current_heading": "Piggul & Notar Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Shelamim Kashering",
+    "candidates": [
+      "Daily Kashering Theory",
+      "Shelamim Kashering",
+      "Chakhamim's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Rav Nachman/Rabbah bar Avuha ruling that each day's cooking purges the vessel for the next day, which is precisely what the 'Daily Kashering Theory' section's prose describes and attributes to this same source.",
+      "chosen_heading": "Daily Kashering Theory",
+      "current_heading": "Shelamim Kashering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Chakhamim's View",
+    "candidates": [
+      "Shelamim Kashering",
+      "Chakhamim's View",
+      "Merika & Shtifa Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Chakhamim's ruling \u2014 Rav Na\u1e25man's interpretation of 'ad z'man achila' and Rabbi Yo\u1e25anan's scriptural derivation linking u'morak v'shutaf to kol zachar bakohanim yochal \u2014 which are precisely what the 'Chakhamim's View' prose describes.",
+      "chosen_heading": "Chakhamim's View",
+      "current_heading": "Chakhamim's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Merika & Shtifa Procedure",
+    "candidates": [
+      "Merika & Shtifa Procedure",
+      "Hot Water Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the baraita presenting the dispute between Rabbi Yehuda HaNasi and the Rabbis about whether merika uses hot or cold water, which is precisely the content discussed in the 'Hot Water Debate' prose section.",
+      "chosen_heading": "Hot Water Debate",
+      "current_heading": "Merika & Shtifa Procedure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Hot Water Debate",
+    "candidates": [
+      "Merika & Shtifa Procedure",
+      "Hot Water Debate",
+      "Grill & Hagala",
+      "Mishna Overview",
+      "Taste Determination",
+      "Status Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous back-and-forth debate between Rebbi and the Rabbis over whether merika and shtifa require hot or cold water, which is precisely what the 'Hot Water Debate' prose describes in detail.",
+      "chosen_heading": "Hot Water Debate",
+      "current_heading": "Hot Water Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Status Transfer",
+    "candidates": [
+      "Grill & Hagala",
+      "Mishna Overview",
+      "Taste Determination",
+      "Status Transfer",
+      "No Merika & No Touch"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Overview",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna itself presenting the two scenarios (kodashim+chullin, kodshei kodashim+kodashim kalim) with the taste-based rule, which is precisely what the 'Mishna Overview' prose introduces.",
+      "second_heading": "No Merika & No Touch",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the rule that only the spot that absorbed taste is forbidden \u2014 a detail about contact/absorption limits that directly corresponds to the 'No Merika & No Touch' section's discussion of the mishna's rules about tumah and restricted status not extending fully.",
+      "current_heading": "Status Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "No Merika & No Touch",
+    "candidates": [
+      "Status Transfer",
+      "No Merika & No Touch",
+      "Abaye & Rava",
+      "Rava & Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's chisorei mechasra reconstruction of the mishna \u2014 the 'if there is taste / if there is no taste' bifurcation that the prose of heading 1 ('No Merika & No Touch') explicitly describes as the gemara's resolution through textual emendation.",
+      "chosen_heading": "No Merika & No Touch",
+      "current_heading": "No Merika & No Touch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rava & Rabbi Shimon",
+    "candidates": [
+      "Abaye & Rava",
+      "Rava & Rabbi Shimon",
+      "Two Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why merika u'shtifa isn't required on shelamim (kodashim kalim) grounds \u2014 this is precisely the further question the prose under 'Abaye & Rava' describes as leading into the Abaye/Rava responses, not yet part of Rava's answer or the two-scenarios discussion.",
+      "chosen_heading": "Abaye & Rava",
+      "current_heading": "Rava & Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Two Scenarios",
+    "candidates": [
+      "Rava & Rabbi Shimon",
+      "Two Scenarios",
+      "Yikdash Principle",
+      "Ta'am Ke'Ikkar",
+      "Absorption Required",
+      "Point of Contact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous dispute between Abaye and Rava about the mishna's two scenarios, and the tzericha resolution explaining why both cases are necessary \u2014 exactly what the 'Two Scenarios' prose describes.",
+      "chosen_heading": "Two Scenarios",
+      "current_heading": "Two Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Point of Contact",
+    "candidates": [
+      "Yikdash Principle",
+      "Ta'am Ke'Ikkar",
+      "Absorption Required",
+      "Point of Contact",
+      "Flesh Only",
+      "Invalid Korban Transfer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Absorption Required",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita establishing that absorption (bala) is required for yikdash to apply, which is precisely what candidate 2 'Absorption Required' discusses.",
+      "second_heading": "Point of Contact",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses the localized point-of-contact rule (only the absorbed portion is disqualified, cut away that section) and the flesh-only limitation, matching candidate 3 'Point of Contact' where it currently sits \u2014 though it also overlaps with candidate 4, the current placement covers both sub-points together.",
+      "current_heading": "Point of Contact",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Invalid Korban Transfer",
+    "candidates": [
+      "Flesh Only",
+      "Invalid Korban Transfer",
+      "Positive Mitzvah Override",
+      "Ein Aseh Docheh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita's interpretation of 'yikdash' as 'lihyot kamoah' \u2014 becoming like the source \u2014 covering both the invalid (tipaseil) and valid (tocheil k'chamur shebah) cases, which is precisely what the 'Invalid Korban Transfer' prose describes.",
+      "chosen_heading": "Invalid Korban Transfer",
+      "current_heading": "Invalid Korban Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Ein Aseh Docheh",
+    "candidates": [
+      "Positive Mitzvah Override",
+      "Ein Aseh Docheh",
+      "Yikdash as Aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rava's principle that ein aseh docheh lo ta'aseh shebamikdash \u2014 item 1 states the rule and item 2 provides the proof from Rabbi Shimon ben Menasya's ruling on breaking the Paschal bone \u2014 which is precisely what the 'Ein Aseh Docheh' prose section describes.",
+      "chosen_heading": "Ein Aseh Docheh",
+      "current_heading": "Ein Aseh Docheh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Yikdash as Aseh",
+    "candidates": [
+      "Yikdash as Aseh",
+      "Umbrella Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's argument that 'yikdash' is itself a positive mitzva preventing an aseh from overriding both a lo ta'aseh and an aseh, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Yikdash as Aseh",
+      "current_heading": "Yikdash as Aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Umbrella Principle",
+    "candidates": [
+      "Umbrella Principle",
+      "Olah & Kli"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how the sanctification-through-absorption principle extends from the sin offering to all other korbanot, which is precisely what the 'Umbrella Principle' prose describes.",
+      "chosen_heading": "Umbrella Principle",
+      "current_heading": "Umbrella Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Olah & Kli",
+    "candidates": [
+      "Olah & Kli",
+      "Kli Sharet Debate",
+      "Akedat Yitzchak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation from 'of the burnt offering' that all offerings require a utensil, and specifically addresses why the bowl (mizrak) cannot be the intended kli because communal peace offerings already had basins at Sinai \u2014 exactly what the 'Olah & Kli' section prose describes.",
+      "chosen_heading": "Olah & Kli",
+      "current_heading": "Olah & Kli",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Akedat Yitzchak",
+    "candidates": [
+      "Kli Sharet Debate",
+      "Akedat Yitzchak",
+      "Mincha & Male Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the knife requirement for a burnt offering from the Akeidah (Genesis 22:10, 22:13), which is precisely what the 'Akedat Yitzchak' section's prose discusses \u2014 the derivation of the shechita knife from vayikach es ha'machelet and vaya'alehu l'ola tachas bno.",
+      "chosen_heading": "Akedat Yitzchak",
+      "current_heading": "Akedat Yitzchak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Mincha & Male Kohanim",
+    "candidates": [
+      "Mincha & Male Kohanim",
+      "Chatas & Absorption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation that only male kohanim may eat certain korbanot via the mincha verse, the challenge that sin/guilt offerings and shalmei tzibur already have their own sources, and the resolution that it is a tannaitic dispute about which verse serves as the source \u2014 exactly what the 'Mincha & Male Kohanim' prose describes.",
+      "chosen_heading": "Mincha & Male Kohanim",
+      "current_heading": "Mincha & Male Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Chatas & Absorption",
+    "candidates": [
+      "Chatas & Absorption",
+      "Asham & Fetuses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the sin offering (chatas) principle of sanctification through absorption, which is exactly what the 'Chatas & Absorption' section's prose discusses.",
+      "chosen_heading": "Chatas & Absorption",
+      "current_heading": "Chatas & Absorption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Asham & Fetuses",
+    "candidates": [
+      "Asham & Fetuses",
+      "Miluim & Notar",
+      "Shelamim & Piggul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the asham, fetal sac/placenta sanctification, vladot kodashim b'havayasan hen kedoshim, and efshar mi'she'ee efshar \u2014 all of which are precisely the topics described in the 'Asham & Fetuses' prose section.",
+      "chosen_heading": "Asham & Fetuses",
+      "current_heading": "Asham & Fetuses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Shelamim & Piggul",
+    "candidates": [
+      "Miluim & Notar",
+      "Shelamim & Piggul"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Miluim & Notar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the miluim derivation about leftovers (notar) and living animals, which directly matches the 'Miluim & Notar' prose describing exactly this principle.",
+      "second_heading": "Shelamim & Piggul",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the shelamim derivation about piggul, which directly matches the 'Shelamim & Piggul' prose describing this exact extension of piggul laws to all korbanot.",
+      "current_heading": "Shelamim & Piggul",
+      "moved": true
+    }
+  }
+]

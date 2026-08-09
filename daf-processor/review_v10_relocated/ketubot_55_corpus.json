@@ -1,0 +1,450 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Benin Dichrin Lien",
+    "candidates": [
+      "Daf Overview",
+      "Erusin vs. Nisuin",
+      "Tosefet Status",
+      "Benin Dichrin Lien",
+      "Debt vs. Inheritance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the Pumbedita position on ketuvat benin dichrin and whether it can seize liened property, which is precisely what the 'Benin Dichrin Lien' section's prose describes as its topic.",
+      "chosen_heading": "Benin Dichrin Lien",
+      "current_heading": "Benin Dichrin Lien",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Debt vs. Inheritance",
+    "candidates": [
+      "Debt vs. Inheritance",
+      "Halacha Ruling",
+      "Shevuah Purpose",
+      "Metaltelim Designated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the Mata Me\u1e25asya position (tarfi mimshubedi, yisbun) and the halacha ruling (lo tarfi, yarsun) together, matching the 'Debt vs. Inheritance' prose which describes exactly this dispute between communities over lien power and the girsah debate, and the halacha conclusion is embedded within the same passage rather than standing alone under 'Halacha Ruling'.",
+      "chosen_heading": "Debt vs. Inheritance",
+      "current_heading": "Debt vs. Inheritance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Metaltelim Designated",
+    "candidates": [
+      "Halacha Ruling",
+      "Shevuah Purpose",
+      "Metaltelim Designated",
+      "Land Designated",
+      "Land Partial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the case of metaltelim designated for the ketubah \u2014 item 1 covers when they are still intact (belo shevuah) and item 2 covers when they are no longer be'einaihu, presenting the Pumbedita/Mata Mechasya dispute and final ruling, which is precisely what the 'Metaltelim Designated' prose describes.",
+      "chosen_heading": "Metaltelim Designated",
+      "current_heading": "Metaltelim Designated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Land Partial",
+    "candidates": [
+      "Land Designated",
+      "Land Partial",
+      "Halacha Widow",
+      "Gift Instructions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the case of land designated on only one border (chad mitzra), the dispute between Pumbedita and Mata Mechasya, and the halacha ruling without an oath \u2014 exactly matching the 'Land Partial' section's prose.",
+      "chosen_heading": "Land Partial",
+      "current_heading": "Land Partial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Gift Instructions",
+    "candidates": [
+      "Halacha Widow",
+      "Gift Instructions",
+      "Umdana Reliance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the dispute about writing/signing a deed of gift and whether witnesses must consult the giver again, which exactly matches the 'Gift Instructions' section's prose discussion of kisvu ve-chasmu ve-havu lei, kinyan, and the Pumbedita/Mata Mechasya debate.",
+      "chosen_heading": "Gift Instructions",
+      "current_heading": "Gift Instructions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Umdana Reliance",
+    "candidates": [
+      "Umdana Reliance",
+      "Rabbi Natan Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the dispute between Rav and Rabbi Natan over whether the halakha follows Rabbi Elazar ben Azariah, which is precisely what the 'Umdana Reliance' prose describes as the gemara's next step.",
+      "chosen_heading": "Umdana Reliance",
+      "current_heading": "Umdana Reliance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rabbi Natan Ruling",
+    "candidates": [
+      "Rabbi Natan Ruling",
+      "Rav Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Natan's rulings in accordance with Rabbi Shimon Shezuri \u2014 the mesukan case and the teruma of the tithe from demai \u2014 which is precisely what the 'Rabbi Natan Ruling' prose section covers in detail.",
+      "chosen_heading": "Rabbi Natan Ruling",
+      "current_heading": "Rabbi Natan Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Rav Position",
+    "candidates": [
+      "Rav Position",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the challenge to Rav's position (the deathbed gift with kinyan case) and Rav's 'two horses' ruling, which is precisely what the 'Rav Position' prose discusses \u2014 the gemara's challenge and Rav's response \u2014 before Shmuel's separate ruling is addressed under the next heading.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Rav Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Shmuel Position",
+      "Transaction Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the hybrid gift document (matnat shechiv mera with kinyan) and Shmuel's position of uncertainty about it, which is precisely what the 'Shmuel Position' prose describes.",
+      "chosen_heading": "Shmuel Position",
+      "current_heading": "Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Transaction Types",
+    "candidates": [
+      "Transaction Types",
+      "Umdana Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage concludes that both Rav and Rabbi Natan follow umdana, which directly sets up the question answered in candidate 0's prose \u2014 namely, what then is their actual debate \u2014 making candidate 0 the natural home for this transitional Gemara statement.",
+      "chosen_heading": "Transaction Types",
+      "current_heading": "Transaction Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Umdana Scope",
+    "candidates": [
+      "Umdana Scope",
+      "Rav Chanina Assert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the halachic debate over whether we rule like Rabbi Elazar ben Azarya, which is precisely what the 'Rav Chanina Assert' section's prose introduces.",
+      "chosen_heading": "Rav Chanina Assert",
+      "current_heading": "Umdana Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Chanina Assert",
+    "candidates": [
+      "Umdana Scope",
+      "Rav Chanina Assert",
+      "Rabbi Yannai Reject",
+      "Yitzchak Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Chanina's assertion and Rabbi Yannai's rejection in a single quote, but the current heading 'Rav Chanina Assert' with prose that introduces Rav Chanina sitting before Rabbi Yannai and declaring the halachah is the best single home, as the passage begins there and the rejection is contained within the same textual unit.",
+      "chosen_heading": "Rav Chanina Assert",
+      "current_heading": "Rav Chanina Assert",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Yitzchak Source",
+    "candidates": [
+      "Rabbi Yannai Reject",
+      "Yitzchak Source",
+      "Nachman Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Yitzchak bar Avdimi ruling AND the Rav Nachman/Shmuel ruling together as a single unit, and the current placement under 'Yitzchak Source' captures the beginning of this combined statement, which the prose there explicitly discusses.",
+      "chosen_heading": "Yitzchak Source",
+      "current_heading": "Yitzchak Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Nachman Debate",
+    "candidates": [
+      "Nachman Debate",
+      "Nahardai Position",
+      "Final Ruling",
+      "Chupa vs. Bia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the Nehardea transmission and the final ruling overriding Rav Nachman's curse, concluding with 've-halachah le-ma'aseh' \u2014 content that squarely matches the 'Final Ruling' section's prose, which explicitly discusses all these elements together.",
+      "chosen_heading": "Final Ruling",
+      "current_heading": "Nachman Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Chupa vs. Bia",
+    "candidates": [
+      "Nahardai Position",
+      "Final Ruling",
+      "Chupa vs. Bia",
+      "First Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Ravin's question about whether chupa or bia effects the tosefet, which exactly matches the 'Chupa vs. Bia' section's prose discussing this precise question.",
+      "chosen_heading": "Chupa vs. Bia",
+      "current_heading": "Chupa vs. Bia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "First Night",
+    "candidates": [
+      "First Night",
+      "Trigger Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic source being introduced and analyzed \u2014 it presents the baraita taught by Rav Yosef and the initial question about 'first night,' which is precisely what heading 0's prose says it will unpack, before the deeper trigger analysis of heading 1.",
+      "chosen_heading": "First Night",
+      "current_heading": "First Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Trigger Analysis",
+    "candidates": [
+      "Trigger Analysis",
+      "Niddah Case",
+      "Teiqu Status",
+      "Yehuda Position",
+      "Yehuda vs. Yossi",
+      "Yirmiah Answer",
+      "Abaye Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Trigger Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the gemara's resolution of whether 'first night' refers to chupah or bia, concluding the phrase teaches ordinary mode of behavior (orach ar'a), which is precisely what candidate 0 'Trigger Analysis' discusses in detail.",
+      "second_heading": "Niddah Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Ashi's question about a bride who entered chupah and became a niddah, which is the exact scenario described in candidate 1 'Niddah Case' prose.",
+      "current_heading": "Trigger Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Abaye Position",
+    "candidates": [
+      "Niddah Case",
+      "Teiqu Status",
+      "Yehuda Position",
+      "Yehuda vs. Yossi",
+      "Yirmiah Answer",
+      "Abaye Position",
+      "Written Form"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's challenge from Rabbi Yehuda's position in Bava Batra (item 1), Rabbi Yirmiah's resolution (item 2), and Abaye's broader resolution (item 3) \u2014 this entire unit addresses the tension between Rabbi Yehuda's opposition to receipts and his ruling in the mishnah, which is precisely what candidate 3 ('Yehuda vs. Yossi') describes in its prose.",
+      "chosen_heading": "Yehuda vs. Yossi",
+      "current_heading": "Abaye Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Written Form",
+    "candidates": [
+      "Abaye Position",
+      "Written Form",
+      "Monetary Stipula",
+      "Braisa Void",
+      "Yehuda Distinct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Rabbi Yirmeya did not adopt Abaye's reasoning, answering with the gezeira concern about receipts generally \u2014 which is precisely what the 'Written Form' prose section describes.",
+      "chosen_heading": "Written Form",
+      "current_heading": "Written Form",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Yehuda Distinct",
+    "candidates": [
+      "Monetary Stipula",
+      "Braisa Void",
+      "Yehuda Distinct",
+      "Ketubah Protect",
+      "Common Protect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of why Rabbi Yehuda requires a written receipt rather than allowing a verbal stipulation, invoking his principle that monetary stipulations stand \u2014 this is precisely what heading 0 ('Monetary Stipula') describes: the deeper question of why an upfront verbal stipulation cannot simply reduce the ketubah amount, given Rabbi Yehuda's davar she-be-mamon rule.",
+      "chosen_heading": "Monetary Stipula",
+      "current_heading": "Yehuda Distinct",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Common Protect",
+    "candidates": [
+      "Ketubah Protect",
+      "Common Protect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete sugya about why the ketubah is fortified but peirot is not, culminating in Abaye's distinction between common and uncommon matters \u2014 which is precisely what 'Common Protect' prose describes in full.",
+      "chosen_heading": "Common Protect",
+      "current_heading": "Common Protect",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,564 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav's View",
+    "candidates": [
+      "Mishnah Context",
+      "Rav's View",
+      "Shmuel's View",
+      "Kal Vachomer",
+      "Challenge to Rav",
+      "Daughter Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full dispute (Rav and Shmuel) along with Shmuel's kal vachomer reasoning all in one Talmudic unit, and the 'Mishnah Context' prose explicitly notes the gemara introduces an itmar (dispute) concerning this very question, making it the natural home for the entire passage before the essay breaks it into separate analytical sections.",
+      "chosen_heading": "Mishnah Context",
+      "current_heading": "Rav's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Daughter Example",
+    "candidates": [
+      "Shmuel's View",
+      "Kal Vachomer",
+      "Challenge to Rav",
+      "Daughter Example",
+      "Field vs. Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly poses the challenge to Rav ('do we not say a kal vachomer in this way?') and introduces the daughter baraita as the test case, which matches heading 2 ('Challenge to Rav') whose prose explicitly describes this gemara question and the adducing of a parallel case \u2014 the daughter example is part of that challenge, not a separate section.",
+      "chosen_heading": "Challenge to Rav",
+      "current_heading": "Daughter Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Field vs. Daughter",
+    "candidates": [
+      "Daughter Example",
+      "Field vs. Daughter",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer distinguishing the daughter case from the field case (lo hadra mi-zavna vs. hadra mi-zavna), which is precisely what the 'Field vs. Daughter' section's prose describes.",
+      "chosen_heading": "Field vs. Daughter",
+      "current_heading": "Field vs. Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Baraita Proof",
+      "Rav's Reinterpretation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita objection with its derivations from the pesukim, which is exactly what heading 0 ('Baraita Proof') describes.",
+      "second_heading": "Rav's Reinterpretation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav's reinterpretation of the baraita's ruling about selling during yovel itself, which is precisely what heading 1 ('Rav's Reinterpretation') describes.",
+      "current_heading": "Baraita Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rav's Reinterpretation",
+    "candidates": [
+      "Rav's Reinterpretation",
+      "Two-Year Rule",
+      "Pre-Yovel Purchase",
+      "Use vs. Opportunity",
+      "Two Teachings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the exact Gemara objection and baraita citation (achal shana achat lifnei hayovel) that the 'Pre-Yovel Purchase' section's prose explicitly describes and analyzes.",
+      "chosen_heading": "Pre-Yovel Purchase",
+      "current_heading": "Rav's Reinterpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Two Teachings",
+    "candidates": [
+      "Two-Year Rule",
+      "Pre-Yovel Purchase",
+      "Use vs. Opportunity",
+      "Two Teachings",
+      "Sale Efficacy",
+      "Rav Yosef Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage reports Rav Anan's two teachings from Shmuel \u2014 the sale during yovel and the slave sold to gentiles/outside Israel \u2014 which is precisely what the 'Two Teachings' section prose describes.",
+      "chosen_heading": "Two Teachings",
+      "current_heading": "Two Teachings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rav Yosef Analysis",
+    "candidates": [
+      "Sale Efficacy",
+      "Rav Yosef Analysis",
+      "Money Status",
+      "Sister Marriage",
+      "Obvious vs. Contextual",
+      "Who Bears Fine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: Rav Anan's uncertainty (item 1), Rav Yosef's baraita-based resolution (item 2), and the explanation of why Rav Anan couldn't resolve it himself plus the sister-betrothal parallel (item 3) \u2014 all of which are explicitly discussed in the 'Rav Yosef Analysis' prose, including the baraita, lo hadri zvinei, braita lo shmia lei, and the money-as-gift question.",
+      "chosen_heading": "Rav Yosef Analysis",
+      "current_heading": "Rav Yosef Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Who Bears Fine",
+    "candidates": [
+      "Money Status",
+      "Sister Marriage",
+      "Obvious vs. Contextual",
+      "Who Bears Fine",
+      "Hole and Rat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Abaye's question to Rav Yosef about why the buyer is penalized rather than the seller, which is exactly what the 'Who Bears Fine' section's prose describes.",
+      "chosen_heading": "Who Bears Fine",
+      "current_heading": "Who Bears Fine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Hole and Rat",
+    "candidates": [
+      "Hole and Rat",
+      "Current Holder",
+      "Modern Application",
+      "Blight vs. Negligence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange including the rat/hole formulation, the pushback, and the resolution about penalizing the current holder \u2014 all three parts are discussed across candidates 0 and 1, but since this is a single Talmudic passage, it belongs under the heading that introduces the primary formulation, which is 'Hole and Rat' (candidate 0), where the current placement already sits.",
+      "chosen_heading": "Hole and Rat",
+      "current_heading": "Hole and Rat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Blight vs. Negligence",
+    "candidates": [
+      "Current Holder",
+      "Modern Application",
+      "Blight vs. Negligence",
+      "Plowing Kal Vachomer",
+      "Improvements & Redemption"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Improvements & Redemption",
+    "candidates": [
+      "Plowing Kal Vachomer",
+      "Improvements & Redemption",
+      "High-to-Low",
+      "Seller Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage concerns Rabbi Eliezer's ruling that a buyer who purchased a field full of produce before Rosh HaShana may collect three harvests in two calendar years without the seller adjusting the redemption price, which is explicitly discussed in the 'Improvements & Redemption' prose.",
+      "chosen_heading": "Improvements & Redemption",
+      "current_heading": "Improvements & Redemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Seller Benefit",
+    "candidates": [
+      "High-to-Low",
+      "Seller Benefit",
+      "Biblical Flexibility",
+      "Redemption Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah presenting the two cases of multiple sales (low-to-high and high-to-low), which the prose of candidate 0 ('High-to-Low') introduces as 'cases involving multiple sales and fluctuating prices' \u2014 the current placement under 'Seller Benefit' is the analysis section that follows, not the introductory section that presents the Mishnaic cases themselves.",
+      "chosen_heading": "High-to-Low",
+      "current_heading": "Seller Benefit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Redemption Limits",
+    "candidates": [
+      "Biblical Flexibility",
+      "Redemption Limits",
+      "Hekdesh Exception",
+      "Value Increase",
+      "Value Decrease",
+      "Dispute Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists exactly the restrictions on redemption (selling distant to redeem nearby, selling bad to redeem good, borrowing, redeeming in halves) and the hekdesh exception with the 'chomer b'hedyot' statement, which maps precisely to the 'Redemption Limits' prose describing those same rules \u2014 the current placement is correct.",
+      "chosen_heading": "Redemption Limits",
+      "current_heading": "Redemption Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Dispute Sources",
+    "candidates": [
+      "Hekdesh Exception",
+      "Value Increase",
+      "Value Decrease",
+      "Dispute Sources",
+      "Challenge",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "The passage covers the full baraita presenting Rebbe's ruling on multiple sales (items 1-2), Rabbi Dostai's ruling on value changes (items 3-4), the gemara's identification of the distinguishing case (item 5), and the leniency challenge (item 6) \u2014 candidate 3's prose explicitly discusses both rulings together, the deyakar u-zal u-deyakar distinction, and frames the dispute comparison that unifies all six items.",
+      "chosen_heading": "Dispute Sources",
+      "current_heading": "Dispute Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Challenge",
+      "Gezeirah Shavah",
+      "Slave Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezeirah shavah response (lo salka datach, deriving geulah from eved ivri), which is precisely what the 'Gezeirah Shavah' section's prose describes.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Slave Principle",
+    "candidates": [
+      "Slave Principle",
+      "Abaye Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Slave Principle' directly paraphrases all three items \u2014 the nimkar b'maneh/hishbiach case, the nimkar b'matayim/hichsif case, and the gezeirah shavah of sachir-sachir extending the lenient principle to a slave sold to a Jew \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Slave Principle",
+      "current_heading": "Slave Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Abaye Challenge",
+    "candidates": [
+      "Abaye Challenge",
+      "Slave Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Abaye challenge scene \u2014 his bold self-proclamation and the Sage's immediate counter-question about lenient vs. stringent reading \u2014 which is precisely what the 'Abaye Challenge' prose describes.",
+      "chosen_heading": "Abaye Challenge",
+      "current_heading": "Abaye Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Slave Concern",
+    "candidates": [
+      "Slave Concern",
+      "Shevi'it Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about treating a Hebrew slave as an equal in food, drink, and sleep \u2014 exactly what the prose of 'Slave Concern' describes and analyzes.",
+      "chosen_heading": "Slave Concern",
+      "current_heading": "Slave Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Shevi'it Consequences",
+    "candidates": [
+      "Shevi'it Consequences",
+      "Progressive Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei b'Rabbi \u1e24anina's teaching about the severity of even the 'hint' of Sabbatical Year violation, which is precisely what the prose in 'Shevi'it Consequences' describes as the gemara's answer invoking this famous teaching.",
+      "chosen_heading": "Shevi'it Consequences",
+      "current_heading": "Shevi'it Consequences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Progressive Loss",
+    "candidates": [
+      "Progressive Loss",
+      "Terminology Shift",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the progressive cascade of financial loss \u2014 selling movable property and then fields \u2014 which is precisely what the 'Progressive Loss' prose section describes, citing the same verses and the same stages.",
+      "chosen_heading": "Progressive Loss",
+      "current_heading": "Progressive Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Terminology Shift",
+      "Rav Huna",
+      "Moral Message",
+      "Daughter & Interest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Terminology Shift",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the terminological shift (lo hirgish vs. lo ba'u le-yado) and Rav Huna's teaching that repeated sin becomes as if permitted \u2014 exactly what headings 0 and 1 discuss together, with heading 0's prose introducing the shift and heading 1's prose covering the Rav Huna clarification, but since items 1-2 together span both those topics and the current placement is heading 1 which covers the Rav Huna content (items 1-2), that is correct.",
+      "second_heading": "Daughter & Interest",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces borrowing at interest (neshech ve-tarbit) which is the topic of heading 3 ('Daughter & Interest'), not the Rav Huna psychological discussion.",
+      "current_heading": "Rav Huna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Daughter & Interest",
+    "candidates": [
+      "Moral Message",
+      "Daughter & Interest",
+      "Final Descent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's reasoning about selling one's daughter versus borrowing at interest, which is precisely what the 'Daughter & Interest' section's prose describes.",
+      "chosen_heading": "Daughter & Interest",
+      "current_heading": "Daughter & Interest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Final Descent",
+    "candidates": [
+      "Final Descent",
+      "Self-Inflicted Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the progressive descent from selling oneself to a Jew, then to a stranger, then to a ger toshav, which is precisely what the 'Final Descent' section's prose discusses in detail.",
+      "chosen_heading": "Final Descent",
+      "current_heading": "Final Descent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Self-Inflicted Objection",
+    "candidates": [
+      "Self-Inflicted Objection",
+      "Torah Obligation",
+      "Strict Computation",
+      "Rav Nachman Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Self-Inflicted Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita establishing that the man's descent is self-inflicted (due to his sins), which is the specific content the 'Self-Inflicted Objection' prose discusses as the premise for the question of whether we must redeem him.",
+      "second_heading": "Torah Obligation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's response citing the verse's obligation of redemption and the subsequent objection about being strict in computation, which maps directly onto the 'Torah Obligation' prose (the verse obligates redemption) leading into 'Strict Computation' \u2014 but since the gemara's challenge/resolution in item 2 spans both those headings, the opening of item 2 ('the verse restores him') best fits under 'Torah Obligation'.",
+      "current_heading": "Self-Inflicted Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Rav Nachman Reading",
+    "candidates": [
+      "Torah Obligation",
+      "Strict Computation",
+      "Rav Nachman Reading",
+      "Price Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's direct quotation of the two verses (im od rabot ba-shanim / im me'at nish'ar ba-shanim), which is precisely the textual intervention described in the 'Rav Nachman Reading' prose section.",
+      "chosen_heading": "Rav Nachman Reading",
+      "current_heading": "Rav Nachman Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157,
+      158
+    ],
+    "current_heading": "Price Logic",
+    "candidates": [
+      "Price Logic",
+      "Sinai Equivalence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical unit \u2014 the initial resolution, the alternative reading challenge, and its rejection \u2014 all of which are explicitly described in the 'Price Logic' prose, which covers exactly this sequence including the final alternative and its rejection via the 'ba-shanim' syntax argument, while 'Sinai Equivalence' covers only the closing tribute by Rav Yosef which is the concluding line of item 3 but not the dominant content of the passage.",
+      "chosen_heading": "Price Logic",
+      "current_heading": "Price Logic",
+      "moved": false
+    }
+  }
+]

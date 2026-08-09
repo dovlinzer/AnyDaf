@@ -1,0 +1,241 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Dispute Versions",
+    "candidates": [
+      "Topics Survey",
+      "Mini-Shas Structure",
+      "Pedagogy Issues",
+      "Prohibitions",
+      "Mekalkel",
+      "Shabbat Criteria",
+      "Dispute Versions",
+      "Wine Rag Proof",
+      "Tosafot Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes exactly the amoraic dispute between Rav and Shmuel with reversed attributions in different academies and Rav Na\u1e25man bar Yitz\u1e25ak's mnemonic, which is precisely what the 'Dispute Versions' prose section discusses.",
+      "chosen_heading": "Dispute Versions",
+      "current_heading": "Dispute Versions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Tosafot Analysis",
+    "candidates": [
+      "Wine Rag Proof",
+      "Tosafot Analysis",
+      "Rav's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the challenge-and-answer sequence about the wine barrel rag (mesukharya d'nazyata) and the pesik reisha principle, which is precisely what the 'Wine Rag Proof' section's prose describes \u2014 the gemara challenging Rav's permissive position using the barrel rag ruling and the resolution via Rabbi Shimon's concession on pesik reisha.",
+      "chosen_heading": "Wine Rag Proof",
+      "current_heading": "Tosafot Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Rav's Resolution",
+    "candidates": [
+      "Tosafot Analysis",
+      "Rav's Resolution",
+      "Beis Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's challenge that Rav rules like Rabbi Yehuda on eino miskavein and its resolution that Rav's permission for first intercourse on Shabbat rests on mekalkel rather than eino miskavein, which is precisely what the 'Rav's Resolution' prose describes.",
+      "chosen_heading": "Rav's Resolution",
+      "current_heading": "Rav's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Beis Shammai vs. Hillel",
+    "candidates": [
+      "Beis Shammai vs. Hillel",
+      "Four Nights Implication",
+      "Rava vs. Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah from Nidda that Rav \u1e24isda raises as an objection, covering both cases (girl who has not reached menstruating age and girl who has), and the prose under heading 0 explicitly discusses both cases in detail, matching the passage's content precisely.",
+      "chosen_heading": "Beis Shammai vs. Hillel",
+      "current_heading": "Beis Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rava vs. Abaye",
+    "candidates": [
+      "Four Nights Implication",
+      "Rava vs. Abaye",
+      "RY Question",
+      "Chatan Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the continuous Rava-Abaye exchange and its resolution via Shmuel's teaching, which is precisely what the 'Rava vs. Abaye' prose describes in detail, including the keshe-baal reinterpretation and the Shmuel analogy of the narrow breach.",
+      "chosen_heading": "Rava vs. Abaye",
+      "current_heading": "Rava vs. Abaye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Chatan Exemption",
+    "candidates": [
+      "RY Question",
+      "Chatan Exemption",
+      "Rava Proof",
+      "Abaye Counter",
+      "Abaye Reframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute Rav Yosef's objection and its resolution \u2014 Abaye's reframe, Rava's challenge to Abaye, and the tannaitic dispute conclusion \u2014 which collectively form the sugya initiated by Rav Yosef's question about whether the chatan exemption implies first intercourse on Shabbat is permitted, matching heading 0 ('RY Question') far better than the current placement under 'Chatan Exemption' which describes the Mishnah's basic rule rather than this chain of objection and counter-argument.",
+      "chosen_heading": "RY Question",
+      "current_heading": "Chatan Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Abaye Reframe",
+    "candidates": [
+      "Rava Proof",
+      "Abaye Counter",
+      "Abaye Reframe",
+      "Avel Problem",
+      "Rashi Solution",
+      "Baraita Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states Abaye's reframing of the Tannaitic dispute as being about the grounds for exemption (tirda/preoccupation) rather than whether intercourse on Shabbat is permitted, which is precisely what the 'Abaye Reframe' prose describes.",
+      "chosen_heading": "Abaye Reframe",
+      "current_heading": "Abaye Reframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Baraita Debate",
+    "candidates": [
+      "Avel Problem",
+      "Rashi Solution",
+      "Baraita Debate",
+      "Chachamim ID"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about a virgin bride and Shabbat intercourse with the Rabbis' permissive opinion, which is precisely what the 'Baraita Debate' section's prose describes as 'the original sugya underlying the entire discussion.'",
+      "chosen_heading": "Baraita Debate",
+      "current_heading": "Baraita Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Chachamim ID",
+    "candidates": [
+      "Chachamim ID",
+      "Pesik Reisha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba identifying the chachamim as Rabbi Shimon who holds davar she-eino mitkaven mutar, which is precisely what the 'Chachamim ID' prose section discusses.",
+      "chosen_heading": "Chachamim ID",
+      "current_heading": "Chachamim ID",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Pesik Reisha",
+    "candidates": [
+      "Pesik Reisha",
+      "Baki Can Avoid",
+      "Baki Tensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange described in heading 0's prose \u2014 Abaye's pesik reisha challenge and Rabba's response about Babylonians not being expert in diverting \u2014 which is precisely what the 'Pesik Reisha' section discusses.",
+      "chosen_heading": "Pesik Reisha",
+      "current_heading": "Pesik Reisha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Baki Tensions",
+    "candidates": [
+      "Baki Can Avoid",
+      "Baki Tensions",
+      "Groomsmen Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tension between the tarud exemption and baki status, the question of why the Sages don't state the distinction explicitly, and the rov beki'in answer \u2014 all of which are precisely what the 'Baki Tensions' prose discusses.",
+      "chosen_heading": "Baki Tensions",
+      "current_heading": "Baki Tensions",
+      "moved": false
+    }
+  }
+]

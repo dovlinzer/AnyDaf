@@ -1,0 +1,299 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Trefah Not Listed",
+    "candidates": [
+      "Trefah Not Listed",
+      "Rabbi Shimon's Derivation",
+      "Terumah Linkage Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain discussing why the mishna omitted the trefah distinction (item 1), Ravina's answer that the mishna follows Rabbi Shimon who exempts trefot from reshit ha'gez (item 2), and the Gemara's challenge about deriving from teruma instead (item 3) \u2014 all of which are directly discussed in the 'Trefah Not Listed' prose under heading 0.",
+      "chosen_heading": "Trefah Not Listed",
+      "current_heading": "Trefah Not Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Terumah Linkage Rejected",
+    "candidates": [
+      "Rabbi Shimon's Derivation",
+      "Terumah Linkage Rejected",
+      "Ma'aser vs. Bechor",
+      "Reshit HaGez & Ma'aser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the tzon-tzon gezeirah shavah linking reshit ha'gez to ma'aser and the exclusion of tereifa via 'whichever passes under the rod,' which is precisely what the 'Terumah Linkage Rejected' prose describes as the actual mechanism of Rabbi Shimon's derivation after the terumah link is rejected.",
+      "chosen_heading": "Terumah Linkage Rejected",
+      "current_heading": "Terumah Linkage Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Reshit HaGez & Ma'aser",
+    "candidates": [
+      "Ma'aser vs. Bechor",
+      "Reshit HaGez & Ma'aser",
+      "Reshit HaGez vs Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items enumerate the shared features of reshit ha'gez and ma'aser (zecharim, tmeim, bimrubim, merachem, adam, pashut, lifnei ha'dibur) that make it logical to derive reshit ha'gez from ma'aser rather than bechor, which is precisely what candidate 1 'Reshit HaGez & Ma'aser' describes in its prose.",
+      "chosen_heading": "Reshit HaGez & Ma'aser",
+      "current_heading": "Reshit HaGez & Ma'aser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Reshit HaGez vs Bechor",
+    "candidates": [
+      "Reshit HaGez vs Bechor",
+      "Pashut as Key Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items enumerate the shared halakhot between reshit ha'gez and bechor (yatom, shelakchu, shutfut, matanah, bifnei kohen, bikdushah, mechira) and conclude they are more numerous \u2014 exactly what candidate 0's prose describes in detail, before candidate 1 moves on to the pashut resolution.",
+      "chosen_heading": "Reshit HaGez vs Bechor",
+      "current_heading": "Reshit HaGez vs Bechor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Pashut as Key Factor",
+    "candidates": [
+      "Pashut as Key Factor",
+      "Shearing Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states 'pashut mipashut adif lei' \u2014 the exact phrase discussed in the 'Pashut as Key Factor' section prose, which explicitly explains why the shared 'ordinary animal' identity of ma'aser and reshit ha'gez overrides numerical connections to bechor.",
+      "chosen_heading": "Pashut as Key Factor",
+      "current_heading": "Pashut as Key Factor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Shearing Gezeirah",
+    "candidates": [
+      "Shearing Gezeirah",
+      "Goat Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 Rav \u1e24isda's gezeirah shavah from Job, the objection to derive instead from the bechor context, the baraita expanding that prohibition, and the resolution via 'titen lo' \u2014 which is precisely the sequence described in heading 0's prose.",
+      "chosen_heading": "Shearing Gezeirah",
+      "current_heading": "Shearing Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Goat Exclusion",
+    "candidates": [
+      "Goat Exclusion",
+      "Rabbi Yosi & Verbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the goat hair exclusion due to lack of 'geizah' (shearing), which is precisely what the 'Goat Exclusion' prose describes as 'ba'inan geizah v'leika.'",
+      "chosen_heading": "Goat Exclusion",
+      "current_heading": "Goat Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rabbi Yosi & Verbs",
+    "candidates": [
+      "Rabbi Yosi & Verbs",
+      "Priestly Garment Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses who holds the narrow interpretation of geizah (Rabbi Yosei) and his concession for normal methods (modeh Rabbi Yosei b'midi d'orchei), which is precisely what the 'Rabbi Yosi & Verbs' prose section describes.",
+      "chosen_heading": "Rabbi Yosi & Verbs",
+      "current_heading": "Rabbi Yosi & Verbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Priestly Garment Test",
+    "candidates": [
+      "Priestly Garment Test",
+      "Hard Wool Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehoshua ben Levi's 'davar harauy l'shirut' principle, which is precisely what the 'Priestly Garment Test' section prose describes and analyzes.",
+      "chosen_heading": "Priestly Garment Test",
+      "current_heading": "Priestly Garment Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Hard Wool Exemption",
+    "candidates": [
+      "Hard Wool Exemption",
+      "Shearing vs. Bathing",
+      "Rabanan-Rabbi Yosi Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the purpose of the gezeirah shavah and the school of Rabbi Yishmael's teaching about hard wool being exempt from reshit ha'gez, which is precisely what the 'Hard Wool Exemption' section's prose discusses.",
+      "chosen_heading": "Hard Wool Exemption",
+      "current_heading": "Hard Wool Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Rabanan-Rabbi Yosi Debate",
+    "candidates": [
+      "Shearing vs. Bathing",
+      "Rabanan-Rabbi Yosi Debate",
+      "Sheep Count",
+      "Asuyyot Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in the 'Rabanan-Rabbi Yosi Debate' prose: the two conflicting baraitot on washing sheep, the lo kashya resolution, the leket/katzir analogy, the kuli Rabbi Yosi clarification, the modeh Rabbi Yosi b'midi d'orchei principle with Rav Acha's statement, and the malbinot betzalim mishna proof \u2014 all of which the candidate 1 prose explicitly discusses in sequence.",
+      "chosen_heading": "Rabanan-Rabbi Yosi Debate",
+      "current_heading": "Rabanan-Rabbi Yosi Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Asuyyot Analysis",
+    "candidates": [
+      "Sheep Count",
+      "Asuyyot Analysis",
+      "Rabbi Yosi's Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara discussion of Beit Hillel's reasoning via the word *asuyot*, including Rav Kahana's derivation, the challenge about firstborn and gifts, and Rav Ashi's reformulation \u2014 exactly what the 'Asuyyot Analysis' prose describes.",
+      "chosen_heading": "Asuyyot Analysis",
+      "current_heading": "Asuyyot Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rabbi Yosi's Four",
+    "candidates": [
+      "Rabbi Yosi's Four",
+      "Rabbi Prefers Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita presents Rabbi Yishmael son of Rabbi Yosi citing his father's opinion of four sheep derived from Exodus 21:37, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Rabbi Yosi's Four",
+      "current_heading": "Rabbi Yosi's Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Rabbi Prefers Yosi",
+    "candidates": [
+      "Rabbi Prefers Yosi",
+      "Dosetai's Position",
+      "Rav's Unified Amount",
+      "Shmuel's Proportion",
+      "Rabbi Yochanan's Minimum",
+      "Conversion Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi's preference for Rabbi Yosei, the objection about ein hachra'ah shelishit machra'at, and Rabbi Yochanan's explanation of the prophetic tradition \u2014 are exactly the content described in the 'Rabbi Prefers Yosi' prose, which explicitly covers all three points in sequence.",
+      "chosen_heading": "Rabbi Prefers Yosi",
+      "current_heading": "Rabbi Prefers Yosi",
+      "moved": false
+    }
+  }
+]

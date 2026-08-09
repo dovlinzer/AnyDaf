@@ -97,8 +97,8 @@
           "timestamp": "15:52"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Clarification of the Dispute: Location of Stains (Single Spot vs. Multiple Spots)",
@@ -121,7 +121,7 @@
           "timestamp": "17:27"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -145,7 +145,7 @@
           "timestamp": "20:08"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -179,7 +179,7 @@
           "timestamp": "29:44"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -208,7 +208,7 @@
           "timestamp": "40:12"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -237,7 +237,7 @@
           "timestamp": "51:12"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -504,9 +504,9 @@
     }
   ],
   "amud_b_sefaria_index": 19,
-  "amud_b_segment_index": 8,
-  "amud_b_timestamp": "53:05",
-  "amud_b_micro_title": "Rabbi Strict",
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "51:05",
+  "amud_b_micro_title": "Two Tannaim",
   "shiur_start_daf": 52,
   "shiur_start_amud": "b"
 }

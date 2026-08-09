@@ -1,0 +1,373 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Three Enactments",
+    "candidates": [
+      "Mishna Overview",
+      "Shachiv Mera Explanation",
+      "Maamad Shloshtan",
+      "Mechanism Question",
+      "Mar Zutra Teaching",
+      "Tosafot Interpretation",
+      "Three Enactments",
+      "Enactments Details",
+      "Refusal Question",
+      "Non-Jewish Parties",
+      "Saffron Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Mar Zutra's exact statement that 'these three matters were instituted by the Sages as a halacha without a reason,' which is precisely what the 'Mar Zutra Teaching' section's prose describes as occurring on 14a.",
+      "chosen_heading": "Mar Zutra Teaching",
+      "current_heading": "Three Enactments",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Saffron Transfer",
+    "candidates": [
+      "Enactments Details",
+      "Refusal Question",
+      "Non-Jewish Parties",
+      "Saffron Transfer",
+      "Repetition Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the saffron (morika) transfer story that the 'Saffron Transfer' section's prose discusses in detail, making it the correct placement.",
+      "chosen_heading": "Saffron Transfer",
+      "current_heading": "Saffron Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Repetition Question",
+    "candidates": [
+      "Repetition Question",
+      "Small vs. Large Gifts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Small vs. Large Gifts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses whether statements made in the presence of all three parties can be retracted, which is a distinct sub-question about the nature of maamad shloshtan, not the repetition question \u2014 but the 'Small vs. Large Gifts' prose doesn't match either; however, the current heading 'Repetition Question' prose explicitly discusses the citation of Rav Huna's ruling (item 2), making item 1 a wrap-up of a prior topic that precedes the repetition question.",
+      "second_heading": "Repetition Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the content described in the 'Repetition Question' prose \u2014 Rav Huna citing Rav's ruling about maneh li b'yadcha in the presence of all three parties, which the essay author explicitly discusses under that heading.",
+      "current_heading": "Repetition Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Small vs. Large Gifts",
+    "candidates": [
+      "Small vs. Large Gifts",
+      "Account Settlement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between large and small gifts and why Rav's teaching was necessary to clarify that maamad shloshtan applies to both, which is precisely what the 'Small vs. Large Gifts' prose section discusses.",
+      "chosen_heading": "Small vs. Large Gifts",
+      "current_heading": "Small vs. Large Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Account Settlement",
+    "candidates": [
+      "Account Settlement",
+      "Mathematical Error",
+      "Nachman's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the gardeners' account settlement and the transfer to the landowner in his presence, which is precisely what the 'Account Settlement' section's prose discusses.",
+      "chosen_heading": "Account Settlement",
+      "current_heading": "Account Settlement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Nachman's Ruling",
+    "candidates": [
+      "Mathematical Error",
+      "Nachman's Ruling",
+      "Rava's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Na\u1e25man's ruling and his twofold reasoning (maamad shloshtan per Rav Huna/Rav, plus the kinyan), which directly matches the prose of candidate 1 ('Nachman's Ruling').",
+      "chosen_heading": "Nachman's Ruling",
+      "current_heading": "Nachman's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rava's Objection",
+    "candidates": [
+      "Rava's Objection",
+      "Holich Question",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's objection and Rav Nachman's response about kinyan bete'ut, which is precisely what the prose under 'Rava's Objection' describes.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Rava's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Holich Question",
+      "Rav's Position",
+      "Shmuel Opposition",
+      "Middle Position Debate",
+      "Braita for Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together present the Rav-Shmuel dispute and the gemara's exploration of whether it turns on 'holich kezachi' or on the coherence of a middle state (migo argument), which is precisely what the 'Middle Position Debate' prose describes.",
+      "chosen_heading": "Middle Position Debate",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Braita for Rav",
+    "candidates": [
+      "Shmuel Opposition",
+      "Middle Position Debate",
+      "Braita for Rav",
+      "Pikadon Question",
+      "Zeira Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita that supports Rav's position, covering both holich and ten formulations for debt and pikadon cases, which is exactly what the 'Braita for Rav' section's prose describes.",
+      "chosen_heading": "Braita for Rav",
+      "current_heading": "Braita for Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Zeira Exception",
+    "candidates": [
+      "Pikadon Question",
+      "Zeira Exception",
+      "Collection Instructions",
+      "Kinyan Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Zeira's answer about the kafran case, which matches exactly the 'Zeira Exception' section's prose discussion of keshehuchzak kafran.",
+      "chosen_heading": "Zeira Exception",
+      "current_heading": "Zeira Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Kinyan Refusal",
+    "candidates": [
+      "Collection Instructions",
+      "Kinyan Refusal",
+      "Sheshet's Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Sheshet appointing Rav Yosef bar \u1e24ama to collect money from Me\u1e25oza and Rav Yosef going to collect it \u2014 this is the collection instruction stage, matching heading 0's prose exactly, before the kinyan question even arises (the debtors' kinyan request at the end of the passage is just the setup for what heading 1 discusses).",
+      "chosen_heading": "Collection Instructions",
+      "current_heading": "Kinyan Refusal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Sheshet's Praise",
+    "candidates": [
+      "Kinyan Refusal",
+      "Sheshet's Praise",
+      "Goblet Retrieval"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef escaping the kinyan and Rav Sheshet praising him, which is precisely what the 'Sheshet's Praise' section prose discusses.",
+      "chosen_heading": "Sheshet's Praise",
+      "current_heading": "Sheshet's Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Goblet Retrieval",
+    "candidates": [
+      "Goblet Retrieval",
+      "Kinyan Demand"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Goblet Retrieval",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the setup of Rabbi A\u1e25ai having a silver vessel in Neharde'a and asking two rabbis to retrieve it, which matches the 'Goblet Retrieval' prose exactly.",
+      "second_heading": "Kinyan Demand",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the holders demanding a kinyan and the agents refusing, then the holders demanding the vessel back \u2014 which matches the 'Kinyan Demand' prose precisely.",
+      "current_heading": "Goblet Retrieval",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Kinyan Demand",
+    "candidates": [
+      "Kinyan Demand",
+      "Pressure Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Yosei bar Keifar being tormented/beaten and appealing to Rabbi Dostai who tells them to keep hitting him \u2014 this matches the 'Pressure Defense' prose exactly, which describes the beating scene and Rav Dostai's 'tov ramu lei' response.",
+      "chosen_heading": "Pressure Defense",
+      "current_heading": "Kinyan Demand",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Pressure Defense",
+    "candidates": [
+      "Pressure Defense",
+      "Practical Lesson",
+      "Recipient Death Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous narrative of the confrontation between Rabbi Yosei bar Keifar and Rabbi Dostai before Rabbi A\u1e25ai \u2014 the complaint, the explanation about the terrifying men, and the final verdict \u2014 which is exactly what the 'Pressure Defense' prose describes.",
+      "chosen_heading": "Pressure Defense",
+      "current_heading": "Pressure Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Recipient Death Case",
+    "candidates": [
+      "Practical Lesson",
+      "Recipient Death Case",
+      "Holich Debate",
+      "Memel Resolution",
+      "Alive vs. Dead",
+      "Pappa Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the scenario described in 'Recipient Death Case' \u2014 the instruction to deliver a maneh to Ploni, the agent's failure to find him, and the two contradictory baraitot about returning money to sender vs. heirs \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Recipient Death Case",
+      "current_heading": "Recipient Death Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Pappa Approach",
+    "candidates": [
+      "Holich Debate",
+      "Memel Resolution",
+      "Alive vs. Dead",
+      "Pappa Approach",
+      "Holich Not Kizachi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara discussion of whether the two baraitot dispute holich kezachi, followed by three Amoraim (Abba bar Memel, Rav Zevid, Rav Pappa) each offering alternative resolutions \u2014 this is exactly the content described in heading 0's prose, which introduces the simple mapping onto holich kezachi and notes 'the gemara does not accept this simple mapping,' setting up all the resolutions that follow.",
+      "chosen_heading": "Holich Debate",
+      "current_heading": "Pappa Approach",
+      "moved": true
+    }
+  }
+]

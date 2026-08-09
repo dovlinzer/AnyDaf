@@ -1,0 +1,497 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Abraham's Merit",
+    "candidates": [
+      "Intro & Materials",
+      "Abraham's Merit",
+      "Tefillin Benefit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Intro & Materials",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss Rava's 'dust and ashes' statement and explicitly engage with why covering-blood earth is excluded, connecting thematically to the intro's discussion of valid materials for kisuy hadam.",
+      "second_heading": "Abraham's Merit",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are precisely the 'thread to shoe-strap' Rava statement that heading 1's prose explicitly describes, discussing tzitzit and tefillin as the merited mitzvot.",
+      "current_heading": "Abraham's Merit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tefillin Benefit",
+    "candidates": [
+      "Tefillin Benefit",
+      "Techeilet & Throne"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the benefit of tefillin straps via the Deuteronomy verse and Rabbi Eliezer's baraita, then ends by asking about techeilet \u2014 this is exactly what heading 0 ('Tefillin Benefit') describes, and the question about techeilet is merely the transition that the next section (heading 1) will answer.",
+      "chosen_heading": "Tefillin Benefit",
+      "current_heading": "Tefillin Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Techeilet & Throne",
+    "candidates": [
+      "Techeilet & Throne",
+      "Stolen Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about why techeilet was chosen over other colors and its connection to the sea, sky, sapphire, and the Throne of Glory, which is exactly what the 'Techeilet & Throne' section discusses.",
+      "chosen_heading": "Techeilet & Throne",
+      "current_heading": "Techeilet & Throne",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Stolen Property",
+    "candidates": [
+      "Stolen Property",
+      "Humility Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Abba's statement about consumed stolen property and Abraham's verse about what the young men ate, which is precisely what the 'Stolen Property' section prose analyzes in detail.",
+      "chosen_heading": "Stolen Property",
+      "current_heading": "Stolen Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Humility Drasha",
+    "candidates": [
+      "Humility Drasha",
+      "Moshe & Aaron Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the complete 'Humility Drasha' of Rabbi Eliezer son of Rabbi Yosei HaGelili \u2014 the introductory statement, the examples of humble Jewish leaders, and the contrasting examples of arrogant gentile rulers \u2014 which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Humility Drasha",
+      "current_heading": "Humility Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Moshe & Aaron Merit",
+    "candidates": [
+      "Moshe & Aaron Merit",
+      "Silencing Self"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rava/Rabbi Yochanan's statements comparing Moses and Aaron's humility to Abraham's and the world enduring in their merit, which is precisely what the 'Moshe & Aaron Merit' section prose discusses in detail.",
+      "chosen_heading": "Moshe & Aaron Merit",
+      "current_heading": "Moshe & Aaron Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Silencing Self",
+    "candidates": [
+      "Silencing Self",
+      "Valley Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content about Rabbi Ile'a's teaching on restraining oneself during quarrel (belimah) and Rabbi Abbahu's teaching on making oneself as if non-existent directly matches the prose of heading 0 ('Silencing Self'), which explicitly discusses both of these teachings with the same proof-texts.",
+      "chosen_heading": "Silencing Self",
+      "current_heading": "Silencing Self",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Valley Drasha",
+    "candidates": [
+      "Valley Drasha",
+      "Ir Hanidachat Dust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yitz\u1e25ak's drasha on Psalms 58:2 interpreting 'umanut' as silence/muteness and the discussion of speaking Torah versus arrogance is precisely what the 'Valley Drasha' prose section describes and analyzes.",
+      "chosen_heading": "Valley Drasha",
+      "current_heading": "Valley Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Ir Hanidachat Dust",
+    "candidates": [
+      "Ir Hanidachat Dust",
+      "Dirt vs. Ashes",
+      "Disconnected Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Zeira's statement about covering blood with dust of an ir hanidachat and raises the immediate objection that these are isurei hana'ah \u2014 exactly the content described in heading 0's prose, before the resolution (dirt vs. ashes) discussed in heading 1.",
+      "chosen_heading": "Ir Hanidachat Dust",
+      "current_heading": "Ir Hanidachat Dust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Disconnected Items",
+    "candidates": [
+      "Dirt vs. Ashes",
+      "Disconnected Items",
+      "Mitzvot Lav Lehanot",
+      "Benefit Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ze'eiri's statement clarifying that the prohibition concerns the dust/dirt of the condemned city (not ashes of burned items), and candidate 0's prose explicitly describes this exact point \u2014 Ziri clarifying that 'afar ir hanidachat' refers to ordinary dirt, not burned residue.",
+      "chosen_heading": "Dirt vs. Ashes",
+      "current_heading": "Disconnected Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Benefit Definition",
+    "candidates": [
+      "Mitzvot Lav Lehanot",
+      "Benefit Definition",
+      "Shofar/Lulav Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's principle 'mitzvot lav lehanot nitnu,' which is precisely what the 'Mitzvot Lav Lehanot' section's prose discusses, making it a clearly better fit than the 'Benefit Definition' section where it currently sits.",
+      "chosen_heading": "Mitzvot Lav Lehanot",
+      "current_heading": "Benefit Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Shofar/Lulav Prohibition",
+    "candidates": [
+      "Benefit Definition",
+      "Shofar/Lulav Prohibition",
+      "Non-fulfillment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ravina stating the halakha and Rav Re\u1e25umi raising an objection about a shofar of avodah zarah with the initial prohibition 'lo yitka bo,' which directly matches the 'Shofar/Lulav Prohibition' section's prose about Ravina repeating Rava's teaching and the baraita's initial prohibitions.",
+      "chosen_heading": "Shofar/Lulav Prohibition",
+      "current_heading": "Shofar/Lulav Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Non-fulfillment",
+    "candidates": [
+      "Non-fulfillment",
+      "Shiur Distinction",
+      "Blood Covering Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita stating 'taka lo yatza, natal lo yatza' (non-fulfillment when using idolatry objects for lulav/shofar), which is precisely what the 'Non-fulfillment' section's prose addresses.",
+      "chosen_heading": "Non-fulfillment",
+      "current_heading": "Non-fulfillment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Blood Covering Logic",
+    "candidates": [
+      "Shiur Distinction",
+      "Blood Covering Logic",
+      "Church Conversion",
+      "Gid HaNasheh Scope",
+      "Anatomy & Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's complete response distinguishing shofar/lulav (which require a shiur, undermined by avodah zarah's destined destruction) from kisuy hadam (where more crushing is better), which is precisely what the 'Shiur Distinction' prose describes.",
+      "chosen_heading": "Shiur Distinction",
+      "current_heading": "Blood Covering Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Anatomy & Location",
+    "candidates": [
+      "Church Conversion",
+      "Gid HaNasheh Scope",
+      "Anatomy & Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05b2\u05d3\u05b7\u05e8\u05b7\u05df \u05e2\u05b2\u05dc\u05b8\u05da\u05b0 \u05db\u05b4\u05bc\u05e1\u05bc\u05d5\u05bc\u05d9 \u05d4\u05b7\u05d3\u05b8\u05bc\u05dd' is a concluding formula marking the end of the tractate chapter on Kisuy HaDam (covering the blood), which signals the transition to a new perek \u2014 precisely the context described in the 'Gid HaNasheh Scope' prose, which explicitly notes the progression from kisuy hadam to the new chapter on gid hanasheh.",
+      "chosen_heading": "Gid HaNasheh Scope",
+      "current_heading": "Anatomy & Location",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Anatomy & Location",
+    "candidates": [
+      "Anatomy & Location",
+      "Fetus Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the full scope of the gid hanasheh prohibition including its application to both thighs and its exclusion from birds due to anatomical reasons, which is precisely what the 'Anatomy & Location' section's prose discusses.",
+      "chosen_heading": "Anatomy & Location",
+      "current_heading": "Anatomy & Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Fetus Dispute",
+    "candidates": [
+      "Fetus Dispute",
+      "Butcher Trust",
+      "Supervision Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna dispute between the tanna kamma and Rabbi Yehudah about whether the gid hanasheh prohibition applies to a fetus (shalil), which is exactly what the 'Fetus Dispute' prose discusses.",
+      "chosen_heading": "Fetus Dispute",
+      "current_heading": "Fetus Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Supervision Dispute",
+    "candidates": [
+      "Butcher Trust",
+      "Supervision Dispute",
+      "Anatomy Display",
+      "Sacrifices Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about butchers not being trusted regarding gid hanasheh (Rabbi Meir) and the Rabbis' opposing view, which is precisely what heading 0 ('Butcher Trust') discusses in its prose, covering both Rabbi Meir's ruling and the sages' disagreement.",
+      "chosen_heading": "Butcher Trust",
+      "current_heading": "Supervision Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Sacrifices Question",
+    "candidates": [
+      "Anatomy Display",
+      "Sacrifices Question",
+      "Taste Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's argument that the mishna's novelty lies in the ruling that the gid has no taste (ein begidim benoten taam), meaning there is no additional korban prohibition \u2014 precisely the topic described in the 'Taste Question' prose, which explicitly frames the mukdashim question as hinging on whether the gid imparts flavor.",
+      "chosen_heading": "Taste Question",
+      "current_heading": "Sacrifices Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Taste Question",
+    "candidates": [
+      "Sacrifices Question",
+      "Taste Question",
+      "Interpretation",
+      "Taste Evidence",
+      "Fetus Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about a thigh cooked with the sciatic nerve imparting flavor, which is precisely the evidence the 'Taste Evidence' section discusses as a challenge to the tanna holding ein begidim benoten taam.",
+      "chosen_heading": "Taste Evidence",
+      "current_heading": "Taste Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Fetus Context",
+    "candidates": [
+      "Interpretation",
+      "Taste Evidence",
+      "Fetus Context",
+      "Fetus Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'ela' reinterpretation involving vladot kodashim and the simultaneous arrival of both prohibitions, which is precisely what the 'Fetus Context' section's prose describes and analyzes.",
+      "chosen_heading": "Fetus Context",
+      "current_heading": "Fetus Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Fetus Clarification",
+    "candidates": [
+      "Fetus Clarification",
+      "Corpse Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge to the fetus interpretation and the gemara's resolution that the mishna is describing a dispute between Rabbi Yehuda and the Rabbis, which is precisely what the 'Fetus Clarification' prose describes.",
+      "chosen_heading": "Fetus Clarification",
+      "current_heading": "Fetus Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Corpse Evidence",
+    "candidates": [
+      "Corpse Evidence",
+      "Gid Timing Question",
+      "Principle Stated",
+      "Application to Gid",
+      "Pre-Sinai Weight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form exactly the sequence described in 'Corpse Evidence': the Nazir mishna challenge, Rabbi Yochanan's answer about the fetus whose limbs had not yet joined to sinews, and the concluding inference that mukdashim precedes gid hanasheh \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Corpse Evidence",
+      "current_heading": "Corpse Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Pre-Sinai Weight",
+    "candidates": [
+      "Gid Timing Question",
+      "Principle Stated",
+      "Application to Gid",
+      "Pre-Sinai Weight",
+      "Tosafot Question",
+      "Retroactive Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's resolution \u2014 'af al gav de'issur mukdashim kodem, asi issur gid chal alaihu, sheken issuro noheg bivnei Noach' \u2014 which is exactly what the 'Pre-Sinai Weight' prose discusses and quotes as its central content.",
+      "chosen_heading": "Pre-Sinai Weight",
+      "current_heading": "Pre-Sinai Weight",
+      "moved": false
+    }
+  }
+]

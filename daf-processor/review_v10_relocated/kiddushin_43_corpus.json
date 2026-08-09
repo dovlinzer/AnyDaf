@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Hasholeach Beyad Cheresh",
+    "candidates": [
+      "Daf Overview",
+      "Hasholeach Beyad Cheresh",
+      "Liability Question",
+      "Ein Shaliach Lidvar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the exact Mishnah text about sending fire via a cheresh, shoteh, or katan, which is precisely what the 'Hasholeach Beyad Cheresh' section's prose introduces and discusses.",
+      "chosen_heading": "Hasholeach Beyad Cheresh",
+      "current_heading": "Hasholeach Beyad Cheresh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Ein Shaliach Lidvar",
+    "candidates": [
+      "Liability Question",
+      "Ein Shaliach Lidvar",
+      "Shaliach Awareness",
+      "Me'ilah Liability",
+      "Challenge to Principle",
+      "Gezeirah Shavah Answer",
+      "Shelichus Yad Concept",
+      "Two Exceptions Principle",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why the competent person (meshaleach) isn't liable via shelichus and answers with ein shaliach lidvar aveira \u2014 this is precisely the question-and-answer sequence described in the 'Liability Question' prose, which explicitly mentions 'vamai, neima sheliach shel adam kemoso' and says 'the Gemara engages the question directly,' making it the natural home for this passage rather than the 'Ein Shaliach Lidvar' section which discusses the answer's implications after the fact.",
+      "chosen_heading": "Liability Question",
+      "current_heading": "Ein Shaliach Lidvar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Shaliach Awareness",
+      "Me'ilah Liability",
+      "Challenge to Principle",
+      "Gezeirah Shavah Answer",
+      "Shelichus Yad Concept",
+      "Two Exceptions Principle",
+      "Shammai vs. Hillel",
+      "Stolen Livestock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in candidate 6's prose: the baraita on me'ilah creating a challenge to ein shaliach lidvar aveira, the gezeirah shavah answer, the shnei kesuvim principle, the shelichus yad debate between Beit Shammai and Beit Hillel, and the resolution via a third exception (slaughter/sale), all of which candidate 6 explicitly describes.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Stolen Livestock",
+    "candidates": [
+      "Stolen Livestock",
+      "Deriving Shaliach",
+      "Exceptions Not Rules",
+      "Shchutei Chutz Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the two tannaitic derivations (from 'or' and 'for/tachas') used to include the shaliach, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Deriving Shaliach",
+      "current_heading": "Stolen Livestock",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Shchutei Chutz Rule",
+    "candidates": [
+      "Deriving Shaliach",
+      "Exceptions Not Rules",
+      "Shchutei Chutz Rule",
+      "Double Hahu Analysis",
+      "Alternative Drashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain addressing how shchutei chutz provides the baseline rule for ein shaliach lidvar aveira, exactly what the 'Shchutei Chutz Rule' prose describes \u2014 item 1 introduces the hahu derivation, item 2 asks how it extends to the entire Torah, and item 3 resolves that via the doubled hahu, which is precisely the content the current section's prose discusses.",
+      "chosen_heading": "Shchutei Chutz Rule",
+      "current_heading": "Shchutei Chutz Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Alternative Drashim",
+    "candidates": [
+      "Double Hahu Analysis",
+      "Alternative Drashim",
+      "Murder Instruction",
+      "Shammai's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the alternative uses of the two instances of 'hahu' for those who hold shnei kesuvim ein melamdin, which is precisely what the 'Alternative Drashim' prose describes \u2014 lema'utei shnayim she'ochazin besakin and hu velo anus/shogeg/mut'eh, and how the other opinion derives these from hu vs. hahu.",
+      "chosen_heading": "Alternative Drashim",
+      "current_heading": "Alternative Drashim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Shammai's Ruling",
+    "candidates": [
+      "Murder Instruction",
+      "Shammai's Ruling",
+      "Shammai's Logic",
+      "B'Dinei Shamayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita including both the anonymous ruling and Shammai's ruling together, which matches heading 0's prose that introduces the entire baraita as a unit \u2014 heading 0 is where the baraita citation begins, and the current placement under 'Shammai's Ruling' splits the baraita mid-citation.",
+      "chosen_heading": "Murder Instruction",
+      "current_heading": "Shammai's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "B'Dinei Shamayim",
+    "candidates": [
+      "Shammai's Logic",
+      "B'Dinei Shamayim",
+      "Murder Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'chayav b'dinei shamayim' interpretation and the subsequent dinei rabbah/dinei zuta distinction, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "B'Dinei Shamayim",
+      "current_heading": "B'Dinei Shamayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Murder Exception",
+    "candidates": [
+      "Murder Exception",
+      "Sexual & Food Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'Murder Exception' \u2014 item 1 presents Shammai's reading that the pasuk makes David liable for Uriah's death, and item 2 presents the opposing interpretation (comparison to b'nei Amon's sword) and the mored b'malchus argument \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Murder Exception",
+      "current_heading": "Murder Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Sexual & Food Cases",
+    "candidates": [
+      "Sexual & Food Cases",
+      "Pleasure Theory",
+      "Initial Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about the sexual and food transgression cases where the agent is liable and the sender is exempt, which is precisely what the 'Sexual & Food Cases' prose describes.",
+      "chosen_heading": "Sexual & Food Cases",
+      "current_heading": "Sexual & Food Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Initial Debate",
+    "candidates": [
+      "Pleasure Theory",
+      "Initial Debate",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the initial Rav vs. Beis Rabbi Sheila dispute about whether a shaliach can become a witness, including the rejected reasoning and the accepted reasoning based on shlucho shel adam kemoso \u2014 exactly what the 'Initial Debate' prose describes.",
+      "chosen_heading": "Initial Debate",
+      "current_heading": "Initial Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Baraita Challenge",
+      "Position Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita challenge to Rav's position, describing the Beit Shammai/Beit Hillel dispute over three people and the conclusion that with two people all agree agents cannot be witnesses \u2014 exactly what the 'Baraita Challenge' prose describes.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Position Reversal",
+    "candidates": [
+      "Position Reversal",
+      "Final Halacha",
+      "Two Shluchim Rule",
+      "Gerushin Concern",
+      "Mamonot Concern",
+      "Why Concerns Addressed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 0's prose describes: the Rabbi Natan baraita presenting Beit Shammai/Beit Hillel positions, the ipech (reversal) resolution, Rav Acha bar Rava's reversed formulation, and the final halakha \u2014 all of which are addressed in candidate 0's prose (with the final halakha briefly noted there as well).",
+      "chosen_heading": "Position Reversal",
+      "current_heading": "Position Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Why Concerns Addressed",
+    "candidates": [
+      "Final Halacha",
+      "Two Shluchim Rule",
+      "Gerushin Concern",
+      "Mamonot Concern",
+      "Why Concerns Addressed",
+      "Pre-Hesess Rule",
+      "Post-Hesess Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 4 ('Why Concerns Addressed') describes: the tzrichi analysis explaining why all three cases (kiddushin, gerushin, mamonot) must be stated, followed by the deeper analysis of whether the shluchim are nogea b'eidus in monetary cases, resolved by the ruling that ein tzarich l'faro b'eidim \u2014 matching the current placement precisely.",
+      "chosen_heading": "Why Concerns Addressed",
+      "current_heading": "Why Concerns Addressed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Post-Hesess Problem",
+    "candidates": [
+      "Pre-Hesess Rule",
+      "Post-Hesess Problem",
+      "New Outcome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the post-hesess practical outcome \u2014 the shluchim and lender each take oaths and the debtor must pay again \u2014 which precisely matches the 'New Outcome' section's prose, not the 'Post-Hesess Problem' section which focuses on why the witnesses are disqualified.",
+      "chosen_heading": "New Outcome",
+      "current_heading": "Post-Hesess Problem",
+      "moved": true
+    }
+  }
+]

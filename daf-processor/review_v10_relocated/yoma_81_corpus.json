@@ -1,0 +1,319 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Definition",
+    "candidates": [
+      "Kol HaOchlin",
+      "Salt & Meat",
+      "Sauce",
+      "Definition",
+      "Mai Taama",
+      "Prat L'Mazik",
+      "Terumah",
+      "Chewing Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's ruling about achila gassa on Yom Kippur being exempt, which is precisely what the 'Definition' section's prose describes \u2014 the case of one who eats while already completely satiated and forcing additional food down.",
+      "chosen_heading": "Definition",
+      "current_heading": "Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Chewing Grain",
+    "candidates": [
+      "Mai Taama",
+      "Prat L'Mazik",
+      "Terumah",
+      "Chewing Grain",
+      "Prunes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss a non-priest eating teruma in a non-standard manner (achila gassa and chewing raw barley) paying only the principal and not the fifth, which is precisely what the 'Terumah' section's prose describes \u2014 meshalem et ha'keren v'eino meshalem et ha'chomesh with the prat l'mazik exclusion applied to terumah cases.",
+      "chosen_heading": "Terumah",
+      "current_heading": "Chewing Grain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Prunes",
+    "candidates": [
+      "Chewing Grain",
+      "Prunes",
+      "Regurgitated Status",
+      "Don't Combine",
+      "Rabbi Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Sheizvi/Rabbi Yochanan ruling about a non-priest swallowing and regurgitating teruma prunes, which is precisely what the 'Prunes' section's prose describes and analyzes.",
+      "chosen_heading": "Prunes",
+      "current_heading": "Prunes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Rabbi Yehoshua",
+    "candidates": [
+      "Regurgitated Status",
+      "Don't Combine",
+      "Rabbi Yehoshua",
+      "Psychological Reality",
+      "One Aveira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together address the single question of why food and drink don't combine on Yom Kippur \u2014 starting with Rav \u1e24isda attributing the mishna to Rabbi Yehoshua, then the Rabbi Yehoshua principle, then Rav Na\u1e25man's yisuvay da'ata argument, then Reish Lakish/Rabbi Yo\u1e25anan paralleling the same dispute \u2014 and the 'Don't Combine' heading's prose explicitly introduces exactly this material (ha'ochel veha'shoteh ein mistarfin, be'machloket shnuya, Rabbi Yehoshua), making it the correct home for the entire passage rather than the 'Rabbi Yehoshua' heading which only covers the middle portion.",
+      "chosen_heading": "Don't Combine",
+      "current_heading": "Rabbi Yehoshua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "One Aveira",
+    "candidates": [
+      "Psychological Reality",
+      "One Aveira",
+      "Two Aveiros",
+      "Unfit Food",
+      "Fish Brine",
+      "No Explicit Lav",
+      "Grammar Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna covers eating+drinking (one sin-offering), eating+labor (two sin-offerings), and unfit foods/drinks (exempt), and the current placement under 'One Aveira' is where the essay begins its discussion of this mishna \u2014 the passage belongs there as it introduces all three rulings that the subsequent headings (One Aveira, Two Aveiros, Unfit Food, Fish Brine) then elaborate on, and the 'One Aveira' prose explicitly quotes and explains the first clause of this exact mishna.",
+      "chosen_heading": "One Aveira",
+      "current_heading": "One Aveira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Grammar Problem",
+    "candidates": [
+      "Two Aveiros",
+      "Unfit Food",
+      "Fish Brine",
+      "No Explicit Lav",
+      "Grammar Problem",
+      "Implied Lav",
+      "Linking Punishments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items constitute the continuous Gemara discussion of why the Torah could not write an explicit lav for inuy \u2014 exactly what candidate 4 ('Grammar Problem') describes, walking through Reish Lakish's answer and the successive objections by Rav Hoshaya, Rav Beivai bar Abaye, and Rav Ashi.",
+      "chosen_heading": "Grammar Problem",
+      "current_heading": "Grammar Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Linking Punishments",
+    "candidates": [
+      "Implied Lav",
+      "Linking Punishments",
+      "Kal VaChomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Linking Punishments' prose: the baraita's derivation from the verse about affliction and labor, the exclusion of karet and negative prohibition from tosefet for both melacha and inuy, and the final statement that the warning for inuy on the day itself has not yet been derived \u2014 all of which matches the detailed summary in candidate 1.",
+      "chosen_heading": "Linking Punishments",
+      "current_heading": "Linking Punishments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Kal VaChomer",
+    "candidates": [
+      "Kal VaChomer",
+      "Mufneh",
+      "Five Instances"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Kal VaChomer",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are the kal va'chomer attempts and their rebuttals (ika mifrach), which match exactly the prose under 'Kal VaChomer' describing the back-and-forth challenges to the inference.",
+      "second_heading": "Mufneh",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Ravina's intervention identifying that the tanna derives the gezeirah shavah from 'etzem etzem' as a mufneh word, matching exactly the 'Mufneh' section's prose about Ravina's statement and the need for a superfluous word.",
+      "current_heading": "Kal VaChomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Five Instances",
+    "candidates": [
+      "Mufneh",
+      "Five Instances",
+      "Shabbat Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the five verses argument about melacha prohibitions and the fifth verse being available (mufneh) for the gezeirah shavah, which is precisely what the 'Five Instances' section's prose describes.",
+      "chosen_heading": "Five Instances",
+      "current_heading": "Five Instances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Shabbat Link",
+    "candidates": [
+      "Shabbat Link",
+      "Intrinsic Meaning",
+      "Word Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yishmael's verbal analogy using 'affliction' AND Rav Acha bar Yaakov's derivation from 'Shabbat Shabbaton,' and the current heading 'Shabbat Link' specifically discusses Rav Acha bar Yaakov's derivation from Shabbat Shabbaton/Shabbat Bereishit, making it the best match for the full passage.",
+      "chosen_heading": "Shabbat Link",
+      "current_heading": "Shabbat Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Word Meaning",
+    "candidates": [
+      "Intrinsic Meaning",
+      "Word Meaning",
+      "Ninth Evening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's opinion that Yom Kippur itself is called Shabbat and then the Gemara's comparison of Rav Pappa's and Rav A\u1e25a bar Ya'akov's positions, which is precisely what the 'Word Meaning' prose section describes in detail.",
+      "chosen_heading": "Word Meaning",
+      "current_heading": "Word Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Ninth Evening",
+    "candidates": [
+      "Ninth Evening",
+      "Evening to Evening",
+      "Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about afflicting on the ninth of the month and derives the principle of beginning the fast while it is still daytime, which is precisely what the 'Ninth Evening' section's prose describes.",
+      "chosen_heading": "Ninth Evening",
+      "current_heading": "Ninth Evening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Extension",
+    "candidates": [
+      "Evening to Evening",
+      "Extension",
+      "Ninth Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives tosefet at both the beginning and end of Yom Kippur from 'me'erev ad erev' and then extends to Festivals and Shabbat, which matches the 'Evening to Evening' section's prose about mosifin me'chol al ha'kodesh, whereas the current 'Extension' section discusses the same material but in reverse order (starting from Shabbat/Yom Tov and working back to Yom Kippur), and the passage's opening lines about 'bi'knisato' and 'bi'ytziyato' directly correspond to the 'Evening to Evening' prose discussion of adding at both ends.",
+      "chosen_heading": "Evening to Evening",
+      "current_heading": "Extension",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Ninth Eating",
+    "candidates": [
+      "Extension",
+      "Ninth Eating",
+      "Concept",
+      "Enhancement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage addresses what the 'ninth day' verse teaches once tosefet is already derived from 'etzem'/'etzem', which is precisely what the 'Extension' section's prose discusses as the question raised and answered by \u1e24iyya bar Rav of Difti's teaching.",
+      "chosen_heading": "Extension",
+      "current_heading": "Ninth Eating",
+      "moved": true
+    }
+  }
+]

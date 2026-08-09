@@ -1,0 +1,506 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Zavah vs. Niddah",
+    "candidates": [
+      "Uncertain Bleeding Case",
+      "Evening Arrival Rules",
+      "Zavah vs. Niddah",
+      "Counting Not Required",
+      "Rav Acha Challenges"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Zavah vs. Niddah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 deal with the eight/seven immersion counts for niddah and ziva and why the baraita states fifteen rather than sixteen, which matches the 'Zavah vs. Niddah' prose exactly.",
+      "second_heading": "Counting Not Required",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 deal with the inference that counting before the court is not required (item 5), then Rav Acha's challenge and the reinterpretation of the baraita's case (items 6-8), matching the 'Counting Not Required' and 'Rav Acha Challenges' sections \u2014 but items 5 fits 'Counting Not Required' and 6-8 fit 'Rav Acha Challenges', so the split at item 5 boundary is the key structural seam after item 4.",
+      "current_heading": "Zavah vs. Niddah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rav Acha Challenges",
+    "candidates": [
+      "Counting Not Required",
+      "Rav Acha Challenges",
+      "Alternative Interpretatio",
+      "Rav's Leniency",
+      "Positions Overview",
+      "Shulchan Aruch Ruling",
+      "Raavad's Lenience",
+      "Sefer HaTruma",
+      "Extreme Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "None of the candidate headings discuss the mishna's content about ritual impurity transmission from deceased zav/zava/niddah/metzorah, so the current placement is retained by default.",
+      "chosen_heading": "Rav Acha Challenges",
+      "current_heading": "Rav Acha Challenges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Extreme Cases",
+    "candidates": [
+      "Alternative Interpretatio",
+      "Rav's Leniency",
+      "Positions Overview",
+      "Shulchan Aruch Ruling",
+      "Raavad's Lenience",
+      "Sefer HaTruma",
+      "Extreme Cases",
+      "Consciousness Requirement",
+      "Constant Bleeding Cases",
+      "Stringent Views",
+      "Torah Interpretation",
+      "Five Categories",
+      "Mishkav U'Moshav Tumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Five Categories",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the Beit Shammai/Beit Hillel dispute about women dying as niddot, which relates to the five categories of impure individuals and their post-death status \u2014 fitting the 'Five Categories' section better than the current placement.",
+      "second_heading": "Mishkav U'Moshav Tumah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's opening question about what 'by carrying' means for these five categories, which matches precisely the 'Mishkav U'Moshav Tumah' prose describing how the gemara asks what is novel about tumah be'masa for these five individuals.",
+      "current_heading": "Extreme Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Mishkav U'Moshav Tumah",
+    "candidates": [
+      "Consciousness Requirement",
+      "Constant Bleeding Cases",
+      "Stringent Views",
+      "Torah Interpretation",
+      "Five Categories",
+      "Mishkav U'Moshav Tumah",
+      "Non-Jews Status",
+      "Even Mesama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items discuss the gemara's explanation of 'bemassa' as referring to even mesama tumah \u2014 exactly what the 'Mishkav U'Moshav Tumah' section's prose describes, including the even mesama mechanism, the question of what is novel about these five individuals, and Rav's reason for the rabbinic decree \u2014 making the current placement correct.",
+      "chosen_heading": "Mishkav U'Moshav Tumah",
+      "current_heading": "Mishkav U'Moshav Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Even Mesama",
+    "candidates": [
+      "Non-Jews Status",
+      "Even Mesama",
+      "Fainting Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita citing Rabbi Eliezer's standard of 'until the belly bursts' is explicitly discussed in the 'Fainting Concern' prose section, which mentions 'ad she'yibaka keriso' and its relationship to the fainting rationale.",
+      "chosen_heading": "Fainting Concern",
+      "current_heading": "Even Mesama",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Fainting Concern",
+    "candidates": [
+      "Even Mesama",
+      "Fainting Concern",
+      "Q1: Death Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita explains why the gentile corpse does not transmit impurity by carrying \u2014 because his living impurity was only rabbinic \u2014 which is exactly the answer the 'Fainting Concern' prose describes as the gemara's follow-up question and resolution regarding the non-Jew.",
+      "chosen_heading": "Fainting Concern",
+      "current_heading": "Fainting Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Q1: Death Tumah",
+    "candidates": [
+      "Q1: Death Tumah",
+      "Q2: Bas Meshulachas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the Alexandrian twelve questions and present the first halachic question about tumah after death, which is precisely what the Q1: Death Tumah prose describes.",
+      "chosen_heading": "Q1: Death Tumah",
+      "current_heading": "Q1: Death Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Q2: Bas Meshulachas",
+    "candidates": [
+      "Q2: Bas Meshulachas",
+      "Q3: Mixed Korbanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the question about the daughter of a forbidden remarriage, the kal va'chomer argument about the widow/High Priest comparison, Rabbi Yehoshua's response, and the 'hi toeva' resolution \u2014 are precisely the content described in the Q2: Bas Meshulachas prose.",
+      "chosen_heading": "Q2: Bas Meshulachas",
+      "current_heading": "Q2: Bas Meshulachas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Q3: Mixed Korbanot",
+    "candidates": [
+      "Q3: Mixed Korbanot",
+      "Impoverishment Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario of two lepers whose offerings became intermingled and one died, which is precisely what the 'Q3: Mixed Korbanot' section's prose discusses.",
+      "chosen_heading": "Q3: Mixed Korbanot",
+      "current_heading": "Q3: Mixed Korbanot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Impoverishment Solution",
+    "candidates": [
+      "Impoverishment Solution",
+      "Status Determination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehoshua's solution of impoverishing oneself to bring a bird chatas on safek, which is precisely what the 'Impoverishment Solution' prose elaborates upon.",
+      "chosen_heading": "Impoverishment Solution",
+      "current_heading": "Impoverishment Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Status Determination",
+    "candidates": [
+      "Status Determination",
+      "Stipulation Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Shmuel's answer about the asham already being sacrificed, Rav Sheshet's challenge, the mishna recording the three-way dispute between Rabbi Shimon, Rabbi Yehuda, and Rabbi Eliezer ben Ya'akov \u2014 correspond precisely to the 'Status Determination' prose, which explicitly discusses each of these elements in sequence.",
+      "chosen_heading": "Status Determination",
+      "current_heading": "Status Determination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Stipulation Option",
+    "candidates": [
+      "Stipulation Option",
+      "Shmuel's Position",
+      "God's Will Sinners"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Stipulation Option",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover Rabbi Shimon's stipulation mechanism for the asham, the baraita describing the procedure at sha'ar nikanor, the requirements of that conditional offering, and the Rabbis' objection \u2014 all of which are discussed in detail in the 'Stipulation Option' prose.",
+      "second_heading": "Shmuel's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is the Gemara's conclusion that Shmuel agreed with Rabbi Shimon in one respect but disagreed in another, which is precisely what the 'Shmuel's Position' prose describes as its central point.",
+      "current_heading": "Stipulation Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "God's Will Sinners",
+    "candidates": [
+      "Shmuel's Position",
+      "God's Will Sinners",
+      "Favor vs. Justice",
+      "Decree Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the first aggadic question about whether God desires the death of sinners, contrasting the two verses and resolving via teshuvah/no-teshuvah, which is precisely what the 'God's Will Sinners' section prose describes.",
+      "chosen_heading": "God's Will Sinners",
+      "current_heading": "God's Will Sinners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Decree Timing",
+    "candidates": [
+      "Favor vs. Justice",
+      "Decree Timing",
+      "Jerusalem's Fate",
+      "Chosenness Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two verses about divine favor, which is exactly what the 'Favor vs. Justice' section's prose introduces, while 'Decree Timing' contains the resolution/analysis \u2014 the Talmudic text itself includes both the question and the answer, so it belongs under the heading that introduces the question (Favor vs. Justice), with the resolution prose following naturally in 'Decree Timing'.",
+      "chosen_heading": "Favor vs. Justice",
+      "current_heading": "Decree Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Chosenness Timing",
+    "candidates": [
+      "Jerusalem's Fate",
+      "Chosenness Timing",
+      "Lot's Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradictory verses about Zion's chosenness versus divine anger, which is exactly the question posed in candidate 0's prose, while candidate 1's prose discusses the answer/resolution (the Solomon/Pharaoh's daughter explanation).",
+      "chosen_heading": "Jerusalem's Fate",
+      "current_heading": "Chosenness Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Lot's Wife",
+    "candidates": [
+      "Chosenness Timing",
+      "Lot's Wife",
+      "Resurrected Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Lot's wife and the pillar of salt question, which is precisely what the 'Lot's Wife' section prose describes.",
+      "chosen_heading": "Lot's Wife",
+      "current_heading": "Lot's Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Resurrected Son",
+    "candidates": [
+      "Resurrected Son",
+      "Future Resurrection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the son of the Shunammite woman and whether he transmits ritual impurity, which is exactly what the 'Resurrected Son' section's prose is about.",
+      "chosen_heading": "Resurrected Son",
+      "current_heading": "Resurrected Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Future Resurrection",
+    "candidates": [
+      "Future Resurrection",
+      "Moshe's Answer",
+      "Wisdom",
+      "Wisdom Balance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the question about resurrection and sprinkling requirements, which matches the 'Future Resurrection' heading's prose describing exactly that question about mei chattat sprinkling for the resurrected dead.",
+      "chosen_heading": "Future Resurrection",
+      "current_heading": "Future Resurrection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Wisdom Balance",
+    "candidates": [
+      "Moshe's Answer",
+      "Wisdom",
+      "Wisdom Balance",
+      "King Mashal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange about wisdom \u2014 including the question, Rabbi Yehoshua's answer, the Alexandrians' objection, and the resolution about prayer \u2014 which matches heading 1's prose that introduces 'the first: mah ya'aseh adam veyichkam,' while heading 2 ('Wisdom Balance') is meant to discuss that same content in its own prose, making heading 1 the correct home for the Talmudic source text that precedes that discussion.",
+      "chosen_heading": "Wisdom",
+      "current_heading": "Wisdom Balance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "King Mashal",
+    "candidates": [
+      "Wisdom Balance",
+      "King Mashal",
+      "Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi \u1e24iyya's parable about the king's feast and the Gemara's question/answer about why sitting and learning is necessary alongside prayer \u2014 are explicitly discussed in the 'King Mashal' prose, which covers exactly these two elements: the mashal itself and the 'd'ha b'lo ha lo sagi' conclusion.",
+      "chosen_heading": "King Mashal",
+      "current_heading": "King Mashal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160
+    ],
+    "current_heading": "Wealth",
+    "candidates": [
+      "Wealth",
+      "Wealth Balance",
+      "Hagra Emendation",
+      "Male Children",
+      "Children Balance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Wealth Balance') explicitly discusses the rejoinder 'many tried and did not succeed,' the answer about seeking mercy from the One to Whom wealth belongs, the verse 'li hakesef v'li hazahav,' and the conclusion 'neither alone is sufficient' \u2014 which is precisely what both items in this passage cover.",
+      "chosen_heading": "Wealth Balance",
+      "current_heading": "Wealth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      169,
+      170,
+      171,
+      172
+    ],
+    "current_heading": "Children Balance",
+    "candidates": [
+      "Wealth Balance",
+      "Hagra Emendation",
+      "Male Children",
+      "Children Balance",
+      "Wife's Pleasure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Male Children",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the question about male children and Rabbi Yehoshua's answer (marry a fitting woman, sanctify oneself), which is exactly what candidate 2 ('Male Children') and candidate 3 ('Children Balance') discuss \u2014 candidate 2 introduces the question and candidate 3 covers the answer, but items 1-2 together span both; however candidate 2's prose says 'what should a person do to merit male children' and candidate 3's prose explicitly discusses marrying a fitting woman and sanctifying oneself at the moment of relations, making candidate 3 the best single home for items 1-2 as a unit \u2014 but splitting is cleaner since item 1 is the question (candidate 2) and item 2 is the answer (candidate 3).",
+      "second_heading": "Children Balance",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover the 'many tried and it did not help' rejoinder, the prayer answer, and the 'neither alone suffices' conclusion, which is precisely what candidate 3 ('Children Balance') currently contains and what candidate 4 ('Wife's Pleasure') introduces, matching candidate 3's prose about seeking mercy from God and d'ha b'lo ha lo sagi.",
+      "current_heading": "Children Balance",
+      "moved": true
+    }
+  }
+]

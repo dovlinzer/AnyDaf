@@ -1,0 +1,454 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Forbidden in Private",
+    "candidates": [
+      "Forbidden in Private",
+      "Tannaitic Dispute",
+      "Context & Intent",
+      "Personal Sensibilities",
+      "Shaking Tallit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Yehuda's ruling about marit ha'ayin being forbidden even in private chambers and the tannaitic dispute that follows, and the current heading's prose explicitly describes both elements together as a unified discussion.",
+      "chosen_heading": "Forbidden in Private",
+      "current_heading": "Forbidden in Private",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Shaking Tallit",
+    "candidates": [
+      "Tannaitic Dispute",
+      "Context & Intent",
+      "Personal Sensibilities",
+      "Shaking Tallit",
+      "Laundering Without Water",
+      "Qualifications",
+      "Ulla's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Huna's ruling about shaking a cloak on Shabbat, which is precisely what the 'Shaking Tallit' section's prose describes and introduces.",
+      "chosen_heading": "Shaking Tallit",
+      "current_heading": "Shaking Tallit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ulla's Challenge",
+    "candidates": [
+      "Laundering Without Water",
+      "Qualifications",
+      "Ulla's Challenge",
+      "Lo Kapdin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes Ulla's visit to Pumbedita and his challenge to the rabbis shaking their cloaks, which is precisely what the 'Ulla's Challenge' section's prose discusses.",
+      "chosen_heading": "Ulla's Challenge",
+      "current_heading": "Ulla's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Lo Kapdin",
+    "candidates": [
+      "Lo Kapdin",
+      "Surface vs. Deep",
+      "Folded Tallit",
+      "Merchants & Pouches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Abaye/Rav Yosef hat incident with 'lo kapdinan' that candidate 0's prose explicitly discusses in detail.",
+      "chosen_heading": "Lo Kapdin",
+      "current_heading": "Lo Kapdin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Merchants & Pouches",
+    "candidates": [
+      "Surface vs. Deep",
+      "Folded Tallit",
+      "Merchants & Pouches",
+      "Runners Exception",
+      "Horkenos Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Folded Tallit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the folded tallit ruling (Rav Yitzchak bar Yosef/Rabbi Yochanan) plus the baraita about clothing merchants, which is exactly what heading 1 ('Folded Tallit') discusses.",
+      "second_heading": "Merchants & Pouches",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the shopkeeper with coins and the runners exception, matching the combined content of headings 2 ('Merchants & Pouches') and 3 ('Runners Exception'), but since item 2 contains both cases and the current placement is heading 2 which explicitly covers both the merchant/shopkeeper and runner cases in its prose, the current placement is the best single match.",
+      "current_heading": "Merchants & Pouches",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Horkenos Story",
+    "candidates": [
+      "Runners Exception",
+      "Horkenos Story",
+      "Folding & Creasing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Horkenos incident and Rav Nachman bar Rav Hisda's ruling about not needing a thread tied around one's finger, which is precisely what the 'Horkenos Story' prose section discusses.",
+      "chosen_heading": "Horkenos Story",
+      "current_heading": "Horkenos Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Folding & Creasing",
+    "candidates": [
+      "Folding & Creasing",
+      "Rebbi's Folded Tallit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the marzev/spout discussion and Rav Papa's principle about bundling vs. beautifying, which are explicitly analyzed in the 'Folding & Creasing' prose.",
+      "chosen_heading": "Folding & Creasing",
+      "current_heading": "Folding & Creasing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Rebbi's Folded Tallit",
+    "candidates": [
+      "Rebbi's Folded Tallit",
+      "Hot Water Immersion",
+      "Single Person Towel",
+      "Multiple People Towel",
+      "Anointing Oil",
+      "Vigorous Massage",
+      "Scraping Skin",
+      "Muddy Rivers",
+      "Broken Bones",
+      "Dislocated Limbs",
+      "Shower vs. Immerse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the story of Rebbi wearing his tallit folded on his shoulders and being warned about Rabbi Meir's/Rabbi Akiva's stringent position, followed by the variant version from Rav Shmuel bar Rav Yehuda \u2014 exactly what the prose under heading 0 ('Rebbi's Folded Tallit') discusses in detail.",
+      "chosen_heading": "Rebbi's Folded Tallit",
+      "current_heading": "Rebbi's Folded Tallit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Shower vs. Immerse",
+    "candidates": [
+      "Hot Water Immersion",
+      "Single Person Towel",
+      "Multiple People Towel",
+      "Anointing Oil",
+      "Vigorous Massage",
+      "Scraping Skin",
+      "Muddy Rivers",
+      "Broken Bones",
+      "Dislocated Limbs",
+      "Shower vs. Immerse",
+      "Bringing Towels Home"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Hot Water Immersion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the complete Mishna text (bathing/towels and medical prohibitions) that opens this entire section, best placed under 'Hot Water Immersion' which introduces this very mishna about bathing in cave water and Tiberias.",
+      "second_heading": "Shower vs. Immerse",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara analyzing the shower-vs-immerse distinction and the towel clauses, exactly matching the content described in the 'Shower vs. Immerse' prose.",
+      "current_heading": "Shower vs. Immerse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Bringing Towels Home",
+    "candidates": [
+      "Bringing Towels Home",
+      "Rabbi Shimon Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the baraita about drying with a towel and leaving it in the window (not giving it to bath attendants) AND Rabbi Shimon's opinion, but the current heading's prose explicitly describes both the baraita content and the bath attendant prohibition, making it the better match; Rabbi Shimon's opinion here is just the tail end of the same baraita unit, while heading 1's prose discusses Abaye/Rav Yosef's ruling and the stam mishna issue which are not present in this passage.",
+      "chosen_heading": "Bringing Towels Home",
+      "current_heading": "Bringing Towels Home",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rabbi Shimon Lenient",
+    "candidates": [
+      "Rabbi Shimon Lenient",
+      "Students Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's question to Rav Yosef about the halakha and Rav Yosef's response listing the permitting authorities, which is precisely what the 'Rabbi Shimon Lenient' prose describes as the content of this exchange.",
+      "chosen_heading": "Rabbi Shimon Lenient",
+      "current_heading": "Rabbi Shimon Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Students Story",
+    "candidates": [
+      "Students Story",
+      "Scarf Below Shoulders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the towel-carrying discussion under 'Students Story' \u2014 item 1 lists Rabbi Shimon, Rabbi Yehuda HaNasi, Shmuel, and Rabbi Yochanan's rulings on carrying towels, and item 2 challenges and resolves Rabbi Yochanan's ruling, all of which is precisely what the 'Students Story' prose describes.",
+      "chosen_heading": "Students Story",
+      "current_heading": "Students Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Scarf Below Shoulders",
+    "candidates": [
+      "Scarf Below Shoulders",
+      "Method Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses bath attendants bringing garments to the bathhouse, the scarf tied below the shoulders, and Rava's instruction to the inhabitants of Mechuza \u2014 all content directly described in the 'Scarf Below Shoulders' prose.",
+      "chosen_heading": "Scarf Below Shoulders",
+      "current_heading": "Scarf Below Shoulders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Method Debate",
+    "candidates": [
+      "Method Debate",
+      "Hot Springs Healing",
+      "Dyumeset Waters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about smearing oil and rubbing on Shabbat and the dispute between Rabbi \u1e24ama bar \u1e24anina and Rabbi Yo\u1e25anan about how to do so differently than on a weekday, which is precisely what the 'Method Debate' prose describes.",
+      "chosen_heading": "Method Debate",
+      "current_heading": "Method Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Dyumeset Waters",
+    "candidates": [
+      "Hot Springs Healing",
+      "Dyumeset Waters",
+      "Rabbi Elazar Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the prohibition of standing in Deyomset on Shabbat (mentioned in heading 0's prose) and the twenty-one-day therapeutic period with the Shavuot dilemma (heading 1's prose), but heading 1 explicitly discusses all the content of this passage including the Shavuot question and Shmuel's proof, making it the clearly best match.",
+      "chosen_heading": "Dyumeset Waters",
+      "current_heading": "Dyumeset Waters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Rabbi Elazar Story",
+    "candidates": [
+      "Rabbi Elazar Story",
+      "Torah Community"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi \u1e24elbo's statement about the wine of Phrygia/water of Deyomset and the story of Rabbi Elazar ben Arakh forgetting his Torah \u2014 are explicitly discussed together in the 'Rabbi Elazar Story' prose, which covers exactly this content in sequence.",
+      "chosen_heading": "Rabbi Elazar Story",
+      "current_heading": "Rabbi Elazar Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Torah Community",
+    "candidates": [
+      "Torah Community",
+      "Silver Scraper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Nehorai's teaching about exiling oneself to a place of Torah and the identification of his name, which is precisely what the 'Torah Community' section's prose discusses in detail.",
+      "chosen_heading": "Torah Community",
+      "current_heading": "Torah Community",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Silver Scraper",
+    "candidates": [
+      "Silver Scraper",
+      "Purgatives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about scraping with a scraper on Shabbat and concludes with Rav Shmuel bar Yehuda's mother making him a silver scraper, which is precisely what the 'Silver Scraper' section's prose addresses.",
+      "chosen_heading": "Silver Scraper",
+      "current_heading": "Silver Scraper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Purgatives",
+    "candidates": [
+      "Purgatives",
+      "Waste Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses entering a swampy/muddy river on Shabbat, which relates to mud/waste concerns and physical activity restrictions, not purgatives \u2014 and the 'Waste Concern' section's prose about hefsed/destruction is a far better contextual match than the purgative discussion, though neither is perfect; however, this passage about a swampy river (kordi\u043c\u0430) seems misplaced entirely, and between the two candidates the 'Waste Concern' heading is closer than 'Purgatives.'",
+      "chosen_heading": "Waste Concern",
+      "current_heading": "Purgatives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Waste Concern",
+    "candidates": [
+      "Purgatives",
+      "Waste Concern",
+      "Minor's Limbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full unit \u2014 the mishna's prohibition on apiktvizin, Rabbi Yochanan's distinction between drug vs. hand, and Rabbi Ne\u1e25emya's food-waste concern \u2014 all of which are introduced and contextualized under heading 0 ('Purgatives'), whose prose explicitly discusses all three elements including the manual method distinction and sets up the food-waste reasoning, whereas heading 1 ('Waste Concern') discusses the food-waste point but as a derivative explanation, meaning the whole passage's primary content matches heading 0.",
+      "chosen_heading": "Purgatives",
+      "current_heading": "Waste Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Minor's Limbs",
+    "candidates": [
+      "Minor's Limbs",
+      "Choleh Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses aligning a minor's limbs, swaddling, and the spine-building distinction, which precisely matches the 'Minor's Limbs' section prose.",
+      "chosen_heading": "Minor's Limbs",
+      "current_heading": "Minor's Limbs",
+      "moved": false
+    }
+  }
+]

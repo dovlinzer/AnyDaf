@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Third Derivation",
+    "candidates": [
+      "Verse Context",
+      "Resh Lakish's View",
+      "R. Yochanan's View",
+      "Methodological Difference",
+      "Third Derivation",
+      "Baraita Dispute",
+      "Abaye's Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents the baraita dispute between Resh Lakish and Rabbi Yochanan over whether a tamei person who eats sacrificial meat before zerikah is flogged, along with each amora's reasoning and the Gemara's resolution \u2014 exactly what candidate 5 ('Baraita Dispute') describes in its prose.",
+      "chosen_heading": "Baraita Dispute",
+      "current_heading": "Third Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Abaye's Interpretation",
+    "candidates": [
+      "Baraita Dispute",
+      "Abaye's Interpretation",
+      "Vehabasar Inclusion",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Abaye's interpretation: item 1 states his distinction between tum'at haguf and tum'at habasar, and item 2 gives the verse-based reasoning (vehabasar including wood and frankincense) that supports his position \u2014 exactly what the 'Abaye's Interpretation' prose describes.",
+      "chosen_heading": "Abaye's Interpretation",
+      "current_heading": "Abaye's Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Vehabasar Inclusion",
+      "Rava's Position",
+      "Matirim Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's position distinguishing tum'at haguf from tum'at habasar and explaining that since the kareis verse does not apply to the meat, the lav also does not apply \u2014 precisely the content described in the 'Rava's Position' prose.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Matirim Principle",
+    "candidates": [
+      "Matirim Principle",
+      "Case Setup",
+      "Resh Lakish's View (II)",
+      "R. Yochanan's View (II)",
+      "Kosher Animals Proof",
+      "Correction: Chaya Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge from wood and frankincense, Rava's answer about sanctification in a vessel, and the confirming mishna about matirim \u2014 are precisely the content described in the 'Matirim Principle' prose, which explicitly walks through this entire sequence.",
+      "chosen_heading": "Matirim Principle",
+      "current_heading": "Matirim Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Correction: Chaya Case",
+    "candidates": [
+      "Case Setup",
+      "Resh Lakish's View (II)",
+      "R. Yochanan's View (II)",
+      "Kosher Animals Proof",
+      "Correction: Chaya Case",
+      "R. Yochanan Position",
+      "Resh Lakish Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete arc of the dispute about limbs of a non-kosher animal on the altar \u2014 the initial statement of the dispute (item 1), Rabbi Yirmiyah's objection (item 2), and Rabbi Ya'akov's correction that the real dispute concerns chayah (item 3) \u2014 which collectively constitute the 'Case Setup' of this new itmar, covering exactly what heading 0's prose describes.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Correction: Chaya Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Resh Lakish Position",
+    "candidates": [
+      "R. Yochanan Position",
+      "Resh Lakish Position",
+      "Nadav and Avihu",
+      "Baraita Clarity",
+      "Rava's Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's and Reish Lakish's positions together in one Gemara quote, but the prose of candidate 0 ('R. Yochanan Position') introduces this exact Gemara text as 'the corrected positions' covering both views, making it the natural home for this combined statement, whereas candidate 1's prose already elaborates on Resh Lakish's position at length as if the quote has already been presented.",
+      "chosen_heading": "R. Yochanan Position",
+      "current_heading": "Resh Lakish Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Rava's Refutation",
+    "candidates": [
+      "Nadav and Avihu",
+      "Baraita Clarity",
+      "Rava's Refutation",
+      "Question Setup",
+      "R. Yochanan's Answer",
+      "Piggul Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the complete baraita Rava raises against Reish Lakish \u2014 the initial argument, the first analogy, the second analogy, and the conclusive tiuvta \u2014 which is precisely what candidate 2 ('Rava's Refutation') describes in its prose.",
+      "chosen_heading": "Rava's Refutation",
+      "current_heading": "Rava's Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Piggul Logic",
+    "candidates": [
+      "Question Setup",
+      "R. Yochanan's Answer",
+      "Piggul Logic",
+      "Rav Zevid's Challenge",
+      "Equivalence Principle",
+      "Case Setup (II)",
+      "The Question",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the full exchange about whether an invalid person's zerikah renders remaining blood shirayim, including Rav Zevid's and Rav Yirmiyah's variant formulations \u2014 this entire continuous discussion matches the 'Question Setup' prose which describes exactly this Resh Lakish/Rabbi Yochanan inquiry and its ramifications, and the passage is currently misplaced under 'Piggul Logic' which only covers the reasoning behind Rabbi Yochanan's answer rather than the full question-and-variants unit.",
+      "chosen_heading": "Question Setup",
+      "current_heading": "Piggul Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Rav Zevid's Challenge",
+      "Equivalence Principle",
+      "Case Setup (II)",
+      "The Question",
+      "Tannaim Debate",
+      "Sages' Position",
+      "Rabbi Eliezer Position",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explicitly introduces the Tannaim dispute between Rabbi Elazar son of Rabbi Shimon and the Rabbis via a baraita, directly matching the 'Tannaim Debate' section's prose about Rabbah informing Abaye that this is a dispute of Tannaim with the two Torah formulations.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Sages' Position",
+      "Rabbi Eliezer Position",
+      "Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sages' Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the Sages' position: one matanah from each of four cups \u2192 all four are shirayim; four matanot from one cup \u2192 only that cup is shirayim, the rest go to the drain \u2014 matching exactly the prose of candidate 0.",
+      "second_heading": "Rabbi Eliezer Position",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Rabbi Elazar son of Rabbi Shimon's dissenting position \u2014 that even four matanot from one cup makes all cups shirayim \u2014 together with Rav Ashi's resolution of the limiting verse, matching the prose of candidate 1 (and the resolution fits there rather than candidate 2, which incorrectly attributes the answer to Rav Yoshiya).",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  }
+]

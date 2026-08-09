@@ -1,0 +1,273 @@
+[
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Son-in-Law Status",
+    "candidates": [
+      "Kasha Shebidinei Mamonos",
+      "Chanoch's Reclamation",
+      "Grandson Inheritance",
+      "Gazlan Witness",
+      "Validation Paradox",
+      "Predating Suspicion",
+      "Prior Beit Din Viewing",
+      "Son-in-Law Status",
+      "Prior Viewing Solution",
+      "No Prior Viewing",
+      "Gazlan Dishonesty",
+      "Relative Formalism",
+      "Moshe Aharon Proof",
+      "Date Trustworthiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items describe the core gazlan-witness problem \u2014 he cannot testify to his own signature but others can \u2014 which is precisely what heading 3 ('Gazlan Witness') introduces, not the son-in-law case under heading 7 where the passage currently sits.",
+      "chosen_heading": "Gazlan Witness",
+      "current_heading": "Son-in-Law Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Date Trustworthiness",
+    "candidates": [
+      "Prior Viewing Solution",
+      "No Prior Viewing",
+      "Gazlan Dishonesty",
+      "Relative Formalism",
+      "Moshe Aharon Proof",
+      "Date Trustworthiness",
+      "Chanoch Presale",
+      "Through Father Paradox",
+      "Tachat Avotecha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-4 form a continuous chain discussing the 'prior viewing' (huchzak ktav yado be-veit din) solution and its application to the inheritance/document case (item 1) and the son-in-law case (items 2-4), which matches candidate 0's prose about the same conceptual problem recurring and the same 'prior viewing' response being offered \u2014 before the Gemara moves on in candidate 1 to the 'no prior viewing' distinction introduced by Rav Nachman.",
+      "chosen_heading": "Prior Viewing Solution",
+      "current_heading": "Date Trustworthiness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Tachat Avotecha",
+    "candidates": [
+      "Chanoch Presale",
+      "Through Father Paradox",
+      "Tachat Avotecha",
+      "House Collapse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the verse 'tachat avotecha yihiyu vanecha' and the claim that it is written as a blessing rather than a legal principle, which is precisely what candidate 2's prose discusses.",
+      "chosen_heading": "Tachat Avotecha",
+      "current_heading": "Tachat Avotecha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "House Collapse Case",
+    "candidates": [
+      "House Collapse Case",
+      "Baraita Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual quoted baraita about the house collapse scenario, which the prose in heading 0 ('House Collapse Case') directly introduces and describes.",
+      "chosen_heading": "House Collapse Case",
+      "current_heading": "House Collapse Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Baraita Dispute",
+    "candidates": [
+      "Baraita Dispute",
+      "Grandfather Grandson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge that if a grandson cannot claim through his grandfather's right, the ba'al chov could simply say 'yerusha de-avuchon ka shaklis' \u2014 exactly the argument described in the 'Baraita Dispute' prose section.",
+      "chosen_heading": "Baraita Dispute",
+      "current_heading": "Baraita Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Grandfather Grandson",
+    "candidates": [
+      "Grandfather Grandson",
+      "Rav Sheshet Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "This Gemara passage rejects the idea that a grandson inherits directly from a grandfather, concluding instead that inheritance passes through the father \u2014 which is precisely the established premise that leads into the Rav Sheshet query about inheriting through the grave, making it a setup/transition passage that belongs under the 'Rav Sheshet Query' section.",
+      "chosen_heading": "Rav Sheshet Query",
+      "current_heading": "Grandfather Grandson",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rav Sheshet Query",
+    "candidates": [
+      "Grandfather Grandson",
+      "Rav Sheshet Query",
+      "Mother Son House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the dilemma posed to Rav Sheshet about a son inheriting from his mother while in the grave, which is exactly what the 'Rav Sheshet Query' prose describes.",
+      "chosen_heading": "Rav Sheshet Query",
+      "current_heading": "Rav Sheshet Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Mother Son House",
+    "candidates": [
+      "Mother Son House",
+      "If Grave Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage addresses the reinterpretation of the baraita's case involving a father and daughter's son who died in captivity vs. the province with unknown order of death \u2014 this is precisely what the 'If Grave Permitted' prose discusses as the Gemara pressing on why the order of death matters, making it a clearly better match than the 'Mother Son House' section.",
+      "chosen_heading": "If Grave Permitted",
+      "current_heading": "Mother Son House",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "If Grave Permitted",
+    "candidates": [
+      "Mother Son House",
+      "If Grave Permitted",
+      "No Mother Grave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the ve-im issa argument \u2014 if grave-inheritance were permitted, the order of death would be irrelevant \u2014 which is precisely what candidate 1 ('If Grave Permitted') describes in its prose.",
+      "chosen_heading": "If Grave Permitted",
+      "current_heading": "If Grave Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "No Mother Grave",
+    "candidates": [
+      "No Mother Grave",
+      "Sibling Replacement",
+      "Husband Analogy",
+      "Bar Sisan Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's explicit gezerah shavah analogy between 'sibah' for husband and 'sibah' for son \u2014 the exact content described in candidate 2's prose, which even quotes the same Aramaic passage verbatim.",
+      "chosen_heading": "Husband Analogy",
+      "current_heading": "No Mother Grave",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Bar Sisan Sale",
+    "candidates": [
+      "Sibling Replacement",
+      "Husband Analogy",
+      "Bar Sisan Sale",
+      "Rav Nachman Rule",
+      "Rava Challenge",
+      "House Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Bar Sisan sale case \u2014 a seller claiming a field merely called 'of the house of Bar Sisan' is not included in the sale \u2014 which is precisely what the 'Bar Sisan Sale' prose section describes.",
+      "chosen_heading": "Bar Sisan Sale",
+      "current_heading": "Bar Sisan Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "House Case",
+    "candidates": [
+      "Rav Nachman Rule",
+      "Rava Challenge",
+      "House Case",
+      "Muchzak Key",
+      "Burden Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form one continuous sugya: items 1-3 present the contradictory rulings of Rava and Rav Nachman across the two cases, and items 4-5 resolve those contradictions \u2014 exactly the content described in heading 2 ('House Case'), which explicitly covers the contradiction, the house case facts, and the resolution regarding who bears the burden.",
+      "chosen_heading": "House Case",
+      "current_heading": "House Case",
+      "moved": false
+    }
+  }
+]

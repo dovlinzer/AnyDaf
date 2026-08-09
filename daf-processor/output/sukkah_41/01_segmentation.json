@@ -213,8 +213,8 @@
           "timestamp": "46:12"
         }
       ],
-      "sefaria_index": 20,
-      "matched": false
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Defining Toeh Bidvar Mitzvah: Error in Mitzvah vs. Error Culminating in No Mitzvah",
@@ -242,7 +242,7 @@
           "timestamp": "51:35"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 24,
       "matched": false
     }
   ],
@@ -617,5 +617,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "18:32",
+  "amud_b_micro_title": "Rabbi Yehuda View",
+  "shiur_start_daf": 41,
+  "shiur_start_amud": "a"
 }

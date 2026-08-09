@@ -1,0 +1,591 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shechinah Departure",
+    "candidates": [
+      "Shechinah Departure",
+      "Onesh Debate",
+      "Dog/Lion Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Shechinah departing from Esther upon reaching the chamber of idols and her cry of 'Eli Eli lama azavtani,' which is precisely what the 'Shechinah Departure' section's prose discusses.",
+      "chosen_heading": "Shechinah Departure",
+      "current_heading": "Shechinah Departure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Dog/Lion Language",
+    "candidates": [
+      "Onesh Debate",
+      "Dog/Lion Language",
+      "Angels & Staff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Esther calling Haman/Achashveirosh a dog and then correcting herself by calling him a lion, which is precisely what the 'Dog/Lion Language' section's prose describes.",
+      "chosen_heading": "Dog/Lion Language",
+      "current_heading": "Dog/Lion Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Angels & Staff",
+    "candidates": [
+      "Angels & Staff",
+      "Staff Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three angels who appeared to Esther \u2014 lifting her neck, drawing divine grace, and extending the scepter \u2014 which matches exactly the prose under 'Angels & Staff' rather than 'Staff Measures,' which focuses on how far the staff extended and other numerical discussions.",
+      "chosen_heading": "Angels & Staff",
+      "current_heading": "Angels & Staff",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Staff Measures",
+    "candidates": [
+      "Staff Measures",
+      "Half Kingdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the extension of the staff/scepter with various measurements (12, 16, 24, 60, 200 cubits) and parallels with Pharaoh's daughter's arm and the teeth of the wicked, which exactly matches the 'Staff Measures' section prose.",
+      "chosen_heading": "Staff Measures",
+      "current_heading": "Staff Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Half Kingdom",
+    "candidates": [
+      "Half Kingdom",
+      "Trap Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'half the kingdom' verse and the Gemara's identification of the Temple building as the exception, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Half Kingdom",
+      "current_heading": "Half Kingdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Trap Theory",
+    "candidates": [
+      "Trap Theory",
+      "Keep Close"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's 'snare/trap' explanation (pach tamnah lo), which directly matches the 'Trap Theory' section's prose discussing pach tamnah lo and the table-as-trap concept.",
+      "chosen_heading": "Trap Theory",
+      "current_heading": "Trap Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Keep Close",
+    "candidates": [
+      "Keep Close",
+      "Multiple Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua's and Rabbi Meir's opinions together, and the 'Multiple Views' section's prose explicitly covers Rabbi Meir's view about Haman potentially rebelling, while also fitting Rabbi Yehoshua's view within a multi-opinion discussion context.",
+      "chosen_heading": "Multiple Views",
+      "current_heading": "Keep Close",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Multiple Views",
+    "candidates": [
+      "Keep Close",
+      "Multiple Views",
+      "Availability",
+      "Divine Notice",
+      "Jealousy Plan",
+      "Flip-Flopper King",
+      "All Jealous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all four opinions (Rabbi Yehuda, Rabbi Nechemya, Rabbi Yosei, Rabbi Shimon ben Menasya) and the 'Multiple Views' section's prose explicitly discusses all of these same rabbis and their reasoning, making it the clear home for this unified Talmudic excerpt.",
+      "chosen_heading": "Multiple Views",
+      "current_heading": "Multiple Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "All Jealous",
+    "candidates": [
+      "Availability",
+      "Divine Notice",
+      "Jealousy Plan",
+      "Flip-Flopper King",
+      "All Jealous",
+      "All True",
+      "Sons' Numbers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All Jealous",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rabbi Yehoshua ben Korcha's jealousy explanation, Rabban Gamliel's flip-flopper explanation, and Rabbi Elazar HaModai's 'made both king and ministers jealous' explanation \u2014 all of which are discussed in the 'All Jealous' prose under heading 4.",
+      "second_heading": "All True",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Rabba's pride-before-destruction reasoning, Abaye and Rava's feast verse, and Rabba bar Avuha's encounter with Elijah concluding that all motivations are true \u2014 which is precisely what the 'All True' prose under heading 5 discusses.",
+      "current_heading": "All Jealous",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Sons' Numbers",
+    "candidates": [
+      "All True",
+      "Sons' Numbers",
+      "Sleep Disturbance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the number of Haman's sons derived from 'verov banav,' exactly matching the 'Sons' Numbers' section prose which describes Rav's thirty, the Rabbanan's seventy, and Rami bar Abba's 208 via gematria.",
+      "chosen_heading": "Sons' Numbers",
+      "current_heading": "Sons' Numbers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Sleep Disturbance",
+    "candidates": [
+      "Sleep Disturbance",
+      "Conspiracy Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rabbi Tanchum, Rabbanan, and Rava) and the 'Sleep Disturbance' section's prose discusses all of them including Rava's literal reading, while the 'Conspiracy Fear' section only covers Rava's extended psychological interpretation beyond the quoted text.",
+      "chosen_heading": "Sleep Disturbance",
+      "current_heading": "Sleep Disturbance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Conspiracy Fear",
+    "candidates": [
+      "Conspiracy Fear",
+      "History Books"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ahasuerus's internal deliberations about the conspiracy fear and his reasoning about unrewarded favors, which exactly matches the 'Conspiracy Fear' section's prose discussion of Rava's reading of the king's sleeplessness and thought process.",
+      "chosen_heading": "Conspiracy Fear",
+      "current_heading": "Conspiracy Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "History Books",
+    "candidates": [
+      "History Books",
+      "Divine Records"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover the exact content described in candidate 0's prose \u2014 the passive 'vayimatze katuv' usage, Shimshai erasing and Gavriel rewriting \u2014 while candidate 1's prose begins with Rav Shila's a fortiori argument (item 2's content) but is already past it and discussing subsequent narrative, making candidate 0 the better home for this passage as a unit.",
+      "chosen_heading": "History Books",
+      "current_heading": "History Books",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Divine Records",
+    "candidates": [
+      "Divine Records",
+      "Haman's Suggestion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the 'Divine Records' prose, which covers Rava's remark about hating Haman (item 1) and the baraita's ironic reading of 'he had prepared for himself' (item 2).",
+      "chosen_heading": "Divine Records",
+      "current_heading": "Divine Records",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Haman's Suggestion",
+    "candidates": [
+      "Haman's Suggestion",
+      "Preparation Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe the same continuous narrative sequence \u2014 Haman's attempts to minimize the honor for Mordecai, his finding Mordecai teaching kmitzah laws, and the exchange about the handful of flour overriding Haman's silver \u2014 which exactly matches the detailed prose of candidate 0.",
+      "chosen_heading": "Haman's Suggestion",
+      "current_heading": "Haman's Suggestion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Preparation Required",
+    "candidates": [
+      "Preparation Required",
+      "Haman Attendant",
+      "Hair Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Mordechai telling Haman he cannot comply until he visits the bathhouse and trims his hair, which is precisely what the 'Preparation Required' section's prose describes.",
+      "chosen_heading": "Preparation Required",
+      "current_heading": "Preparation Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Hair Cutting",
+    "candidates": [
+      "Haman Attendant",
+      "Hair Cutting",
+      "Barber Origins",
+      "Horse Mounting",
+      "Trampling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers the full sequence from Esther closing the bathhouses/barbers through Haman washing Mordechai, trimming his hair, sighing, and the Kartsum baraita \u2014 this entire arc begins with the closure of bathhouses which is the subject of heading 0, and the current placement under 'Hair Cutting' (index 1) splits content that naturally opens with the Esther/bathhouse/barber lockdown described in heading 0's prose; however, since the passage also covers hair-cutting and the Kartsum origin story, and the essay appears to split these into separate sections, the best single home for this unified Talmudic excerpt is heading 0 where the framing action (Esther locking up the bathhouses) begins.",
+      "chosen_heading": "Haman Attendant",
+      "current_heading": "Hair Cutting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Trampling",
+    "candidates": [
+      "Barber Origins",
+      "Horse Mounting",
+      "Trampling",
+      "Daughter's Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the horse mounting difficulty and the kick/verse exchange, but the current placement under 'Trampling' is correct since the prose there explicitly describes both the kick and the verse exchange about trampling, which is the main content of this Talmudic passage.",
+      "chosen_heading": "Trampling",
+      "current_heading": "Trampling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Daughter's Death",
+    "candidates": [
+      "Daughter's Death",
+      "Tells Story",
+      "Tribes Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the daughter's death episode and its immediate aftermath (Mordecai returning to sackcloth, Haman mourning for his daughter), which is precisely what the 'Daughter's Death' section prose discusses.",
+      "chosen_heading": "Daughter's Death",
+      "current_heading": "Daughter's Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Tribes Assessment",
+    "candidates": [
+      "Tells Story",
+      "Tribes Assessment",
+      "Double Falling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover the 'friends vs. wise men' discrepancy and Rabbi Yochanan's resolution plus the tribal analysis \u2014 exactly what heading 0 ('Tells Story') introduces with its prose about Haman telling Zeresh and the ohavav/chachamav distinction, while heading 1 ('Tribes Assessment') already contains all this material in its own prose, suggesting the passage was placed one heading too late.",
+      "chosen_heading": "Tells Story",
+      "current_heading": "Tribes Assessment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Double Falling",
+    "candidates": [
+      "Tribes Assessment",
+      "Double Falling",
+      "Eunuchs Arrive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly expounds the double language of nafol tipol and the nation compared to dust and stars, which is precisely what the 'Double Falling' section's prose discusses.",
+      "chosen_heading": "Double Falling",
+      "current_heading": "Double Falling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Eunuchs Arrive",
+    "candidates": [
+      "Eunuchs Arrive",
+      "Accusation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the eunuchs hastening Haman, matching the 'Eunuchs Arrive' section's prose about the same verse and the same teaching about Haman being brought in disarray.",
+      "chosen_heading": "Eunuchs Arrive",
+      "current_heading": "Eunuchs Arrive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Accusation",
+    "candidates": [
+      "Accusation",
+      "Angel Intervention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Esther's accusation at the banquet \u2014 her citation of Esther 7:4, the explanation that Haman was jealous of Vashti and now jealous of Esther \u2014 which matches precisely the 'Accusation' section's prose about inflaming Achashveirosh's jealousy over both queens.",
+      "chosen_heading": "Accusation",
+      "current_heading": "Accusation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Angel Intervention",
+    "candidates": [
+      "Angel Intervention",
+      "Garden Angels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (the double 'vayomer' explanation and Esther pointing toward Ahasuerus with the angel redirecting her hand) are explicitly discussed together in the 'Angel Intervention' prose, which covers both the translator/royal lineage point and the angel pushing Esther's hand toward Haman.",
+      "chosen_heading": "Angel Intervention",
+      "current_heading": "Angel Intervention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Garden Angels",
+    "candidates": [
+      "Garden Angels",
+      "Falls on Bed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the king's rising and returning in wrath and the angels uprooting trees in the garden, which matches exactly what the 'Garden Angels' section prose discusses.",
+      "chosen_heading": "Garden Angels",
+      "current_heading": "Garden Angels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Falls on Bed",
+    "candidates": [
+      "Falls on Bed",
+      "Harvona's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Haman falling on the bed, the angel pushing him down, and the king's exclamation about Haman forcing the queen \u2014 all directly matching the 'Falls on Bed' prose section.",
+      "chosen_heading": "Falls on Bed",
+      "current_heading": "Falls on Bed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Harvona's Role",
+    "candidates": [
+      "Harvona's Role",
+      "Anger Subsides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Harbonah's wicked role in the plot and his fleeing when it failed, which directly matches the 'Harvona's Role' section prose that covers exactly these same points.",
+      "chosen_heading": "Harvona's Role",
+      "current_heading": "Harvona's Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Anger Subsides",
+    "candidates": [
+      "Anger Subsides",
+      "Joseph's Mistake"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the doubled form of 'shakhakha' and the two assuagings of wrath (God's and Ahasuerus's, or Esther's and Vashti's), which is exactly what the 'Anger Subsides' section's prose discusses.",
+      "chosen_heading": "Anger Subsides",
+      "current_heading": "Anger Subsides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Joseph's Mistake",
+    "candidates": [
+      "Joseph's Mistake",
+      "Benjamin's Hint",
+      "Mordechai's Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Joseph-Benjamin garments discussion \u2014 the question about Joseph's potential mistake and the answer (Rabbi Binyamin bar Yefet's remez) \u2014 which the current heading 'Joseph's Mistake' prose explicitly covers in full, including Rava bar Mechasya's teaching and the resolution about the hint to Benjamin.",
+      "chosen_heading": "Joseph's Mistake",
+      "current_heading": "Joseph's Mistake",
+      "moved": false
+    }
+  }
+]

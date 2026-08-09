@@ -1,0 +1,188 @@
+[
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Masa vs Hesitan",
+    "candidates": [
+      "Sheretz vs Niddah",
+      "Rabbi Eliezer's Masa",
+      "Rava's Even Mesama",
+      "Niddah vs Neveilah",
+      "Rami Bar Chama",
+      "Rav Ashi's Challenge",
+      "Masa vs Hesitan",
+      "Categories Chart",
+      "Seesaw Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items form a single continuous discussion of the baraita about nochri/nochrit and avodah zarah, the challenge to Rabba from hesitan, Rabba's and Rabbi Elazar's respective rewrites, and Rav Ashi's challenge \u2014 exactly the content described in the 'Masa vs Hesitan' section's prose.",
+      "chosen_heading": "Masa vs Hesitan",
+      "current_heading": "Masa vs Hesitan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Seesaw Example",
+    "candidates": [
+      "Categories Chart",
+      "Seesaw Example",
+      "Zav Exception",
+      "Attribution Question",
+      "Disassembly Tumah",
+      "Layperson Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Seesaw Example",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the seesaw/balance-scale example used to explain how avodah zarah could 'move' something else, which is the specific content discussed in the 'Seesaw Example' prose section.",
+      "second_heading": "Zav Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the baraita about 'all tamei things that move others are tahor except the zav' and then questions its authorship, which is precisely what the 'Zav Exception' and 'Attribution Question' sections discuss \u2014 and item 2 covers both the baraita (Zav Exception) and the Rabbi Akiva challenge/response (Attribution Question), but the baraita itself is the opening of that new unit.",
+      "current_heading": "Seesaw Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Layperson Test",
+    "candidates": [
+      "Zav Exception",
+      "Attribution Question",
+      "Disassembly Tumah",
+      "Layperson Test",
+      "Wholeness Factor",
+      "Teiku Conclusion",
+      "Yosef's Challenge",
+      "Baal Ekron Fly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Layperson Test' prose \u2014 the dilemma of whether an idol's tumah status depends on whether a layperson can reassemble it, including both directions of the question and the teiku conclusion, which maps precisely to headings 3 and 4 together but the current placement under 'Layperson Test' is the first and primary framing of the dilemma.",
+      "chosen_heading": "Layperson Test",
+      "current_heading": "Layperson Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Baal Ekron Fly",
+    "candidates": [
+      "Wholeness Factor",
+      "Teiku Conclusion",
+      "Yosef's Challenge",
+      "Baal Ekron Fly",
+      "Kezayit Comparison",
+      "No Tumah Below"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the entire dilemma from Rav A\u1e25advoi bar Ami through Rav Yosef's challenge and the Baal Ekron baraita and the tumah question, which maps precisely to candidate 2 ('Yosef's Challenge') whose prose introduces exactly this sequence \u2014 the question about an idol smaller than a kezayit and Rav Yosef's challenge about what halakha is being asked.",
+      "chosen_heading": "Yosef's Challenge",
+      "current_heading": "Baal Ekron Fly",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "No Tumah Below",
+    "candidates": [
+      "Kezayit Comparison",
+      "No Tumah Below",
+      "Strict Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita resolving that avodah zarah smaller than a kezayit has no tumah, using the verse about casting dust on graves to derive the kezayit minimum from the corpse comparison \u2014 exactly what the 'No Tumah Below' prose describes.",
+      "chosen_heading": "No Tumah Below",
+      "current_heading": "No Tumah Below",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Strict Alternative",
+    "candidates": [
+      "Strict Alternative",
+      "Derabanan Lenient",
+      "Boat Purity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the strict alternative suggestions and the resolution that rabbinic tumah defaults to leniency, but the current heading's prose already encompasses both the stringency possibilities and their rejection, making it the best fit; heading 1 covers only the resolution principle which is just the final line of this passage.",
+      "chosen_heading": "Strict Alternative",
+      "current_heading": "Strict Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Boat Purity",
+    "candidates": [
+      "Derabanan Lenient",
+      "Boat Purity",
+      "Two Explanations",
+      "Chananya Sak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna directly asks 'from where is it derived that the ship is ritually pure' and cites Proverbs 30:19, which is precisely the introductory mishna that candidate 1 ('Boat Purity') describes as its topic.",
+      "chosen_heading": "Boat Purity",
+      "current_heading": "Boat Purity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Chananya Sak",
+    "candidates": [
+      "Two Explanations",
+      "Chananya Sak",
+      "Practical Cases",
+      "Jordan Boat Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the practical difference between the two explanations (sea-derivation vs. sak-derivation) specifically with regard to a pottery ship \u2014 which is precisely what candidate 2 'Practical Cases' prose describes.",
+      "chosen_heading": "Practical Cases",
+      "current_heading": "Chananya Sak",
+      "moved": true
+    }
+  }
+]

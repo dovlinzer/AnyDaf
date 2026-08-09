@@ -1,0 +1,455 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Tvul Yom & Mechussar",
+    "candidates": [
+      "Tvul Yom & Mechussar",
+      "Yochanan's Challenge",
+      "Tvul Yom Food Status",
+      "Rav Pappa Defense",
+      "Countermove Analysis",
+      "Tzad Hashaveh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 11 items form one continuous chain covering Rabbi Yosei's baraita deriving fourth-degree impurity in sacrificial food (items 1-4), Rabbi Yo\u1e25anan's challenge via the tvul yom counterexample (items 5-7), Rav Pappa's objection (item 8), and the Gemara's response about Abba Shaul's position (items 9-11), which collectively matches the 'Tvul Yom & Mechussar' section's prose about deriving revii ba-kodesh from mechussar kippurim and the role of tvul yom in that derivation.",
+      "chosen_heading": "Tvul Yom & Mechussar",
+      "current_heading": "Tvul Yom & Mechussar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Tzad Hashaveh",
+    "candidates": [
+      "Yochanan's Challenge",
+      "Tvul Yom Food Status",
+      "Rav Pappa Defense",
+      "Countermove Analysis",
+      "Tzad Hashaveh",
+      "Person-to-Object Tvul Yom",
+      "Summary & Closure",
+      "Rav Assi Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the pircha (refutation) that the tvul yom was an av tumah, and notes that Rabbi Yose already brought proof from mechussar kippurim (who also was an av tumah) without refuting on that basis \u2014 this is precisely the content described in candidate 4's prose about the pircha 'mah la-tvul yom she-ken av tumah' and its parallel application to mechussar kippurim.",
+      "chosen_heading": "Tzad Hashaveh",
+      "current_heading": "Tzad Hashaveh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rav Assi Statement",
+    "candidates": [
+      "Person-to-Object Tvul Yom",
+      "Summary & Closure",
+      "Rav Assi Statement",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Assi's statement attributing to multiple Tannaim the position that a sheini does not make a shlishi in chulin, which is precisely what the 'Rav Assi Statement' section's prose describes and contextualizes.",
+      "chosen_heading": "Rav Assi Statement",
+      "current_heading": "Rav Assi Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbi Yose Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah from Para 11:5 about Rabbi Meir's position on rabbinic tumah requiring immersion, which is precisely what the prose under 'Rabbi Meir Position' discusses and analyzes.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rabbi Yose Position",
+    "candidates": [
+      "Rabbi Yose Position",
+      "Rabbi Yehoshua Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yose's derivation stopping at revii for terumah and chamishi for kodesh, which is precisely what the prose in candidate 0 explains in detail.",
+      "chosen_heading": "Rabbi Yose Position",
+      "current_heading": "Rabbi Yose Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Rabbi Yehoshua Position",
+    "candidates": [
+      "Rabbi Yehoshua Position",
+      "Chulin Al Taharas",
+      "Rabbi Elazar Formula",
+      "Challah Case",
+      "Eliezer Leniency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rabbi Yehoshua Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 cover Rabbi Yehoshua's mishna and the chulin al taharas ha-terumah inference, matching exactly the prose of heading 0 ('Rabbi Yehoshua Position') and heading 1 ('Chulin Al Taharas'), but since items 1\u20132 are the mishna and items 3\u20134 are the chulin inference, the natural split is after item 4, with items 1\u20134 under heading 0 which already discusses both Rabbi Yehoshua's mishna and the chulin al taharas implication.",
+      "second_heading": "Rabbi Elazar Formula",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20138 present Rabbi Elazar's baraita with the 'shloshtan shavin' formula covering rishon in kodesh/terumah/chulin, which matches exactly the prose of heading 2 ('Rabbi Elazar Formula').",
+      "current_heading": "Rabbi Yehoshua Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Eliezer Leniency",
+    "candidates": [
+      "Chulin Al Taharas",
+      "Rabbi Elazar Formula",
+      "Challah Case",
+      "Eliezer Leniency",
+      "Kebeitzah Mechanics",
+      "Gemara Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah from \u1e24alla describing Rabbi Eliezer's ruling that \u1e25alla may be taken from pure dough on behalf of impure dough, which is precisely what the 'Challah Case' prose introduces as background for Rabbi Eliezer's position.",
+      "chosen_heading": "Challah Case",
+      "current_heading": "Eliezer Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "Kebeitzah Mechanics",
+      "Gemara Analysis",
+      "Rav Mari Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gemara Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('And the Rabbis prohibit') is the closing line of the Mishnaic dispute between Rabbi Eliezer and the Chachamim, which the Gemara Analysis section is directly analyzing and debating.",
+      "second_heading": "Kebeitzah Mechanics",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the baraita about the kebeitzah-sized interposing piece, which is precisely what the 'Kebeitzah Mechanics' section discusses \u2014 Rabbi Eliezer permitting even a kebeitzah-sized piece and the resulting tumah concerns.",
+      "current_heading": "Gemara Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rav Mari Resolution",
+    "candidates": [
+      "Rav Mari Resolution",
+      "Levitic Cities",
+      "Akiva Derivation",
+      "Debate Framework",
+      "Tosafot Nuance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss the Gemara's analysis of the Rabbi Eliezer / Rabbis dispute regarding sheini oseh shlishi be-chulin, chulin ha-tevulim le-challah, and mutar ligrom tumah le-chulin, which is precisely what the 'Rav Mari Resolution' prose describes.",
+      "chosen_heading": "Rav Mari Resolution",
+      "current_heading": "Rav Mari Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Tosafot Nuance",
+    "candidates": [
+      "Levitic Cities",
+      "Akiva Derivation",
+      "Debate Framework",
+      "Tosafot Nuance",
+      "Song Setup",
+      "Akiva Responsive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern Rabbi Akiva's derivation of the two-thousand-amah measure and the immediate Gemara question about what halakhic point the derivation serves (techumin de-oraita vs. de-rabbanan), which matches the 'Akiva Derivation' prose that explains the halachic significance of establishing a two-thousand amah city limit for Shabbat boundaries \u2014 the 'Debate Framework' prose covers the mar savar framing but item 1 (the mishna citation) belongs with item 2 as one unit, and 'Akiva Derivation' is the better single home for the combined passage.",
+      "chosen_heading": "Akiva Derivation",
+      "current_heading": "Tosafot Nuance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Akiva Responsive",
+    "candidates": [
+      "Song Setup",
+      "Akiva Responsive",
+      "Eliezer Repetition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces the scene of Israel ascending from the sea and poses the question of how they recited the song \u2014 which matches the 'Song Setup' prose that frames the introductory question, before Akiva's specific answer is elaborated; however, the passage also includes Akiva's answer, making candidate 1 a plausible home, so confidence is medium.",
+      "chosen_heading": "Song Setup",
+      "current_heading": "Akiva Responsive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Eliezer Repetition",
+    "candidates": [
+      "Eliezer Repetition",
+      "Chachamim Unison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer son of Rabbi Yosei HaGelili's view of word-for-word repetition after Moses, which is exactly what the 'Eliezer Repetition' prose section discusses.",
+      "chosen_heading": "Eliezer Repetition",
+      "current_heading": "Eliezer Repetition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Chachamim Unison",
+    "candidates": [
+      "Chachamim Unison",
+      "Yose HaGelili Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's analysis of the dispute about how the Shirah was sung \u2014 Rabbi Ne\u1e25emya's position (the sofer/Shema analogy), the question of what they disagree about, and the resolution explaining each opinion's reading of 'lemor' \u2014 which directly corresponds to the 'Chachamim Unison' section's prose about Rabbi Ne\u1e25emya's position and the Shema analogy.",
+      "chosen_heading": "Chachamim Unison",
+      "current_heading": "Chachamim Unison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Yose HaGelili Answer",
+    "candidates": [
+      "Yose HaGelili Answer",
+      "Infants Midrash",
+      "Meir Enhancement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Yosei HaGelili describing infants singing at the sea, which is precisely what the 'Yose HaGelili Answer' prose discusses in detail, including the same figures (toddler on lap, nursing infant), the same proof text, and the same theological conclusion about supernatural inspiration.",
+      "chosen_heading": "Yose HaGelili Answer",
+      "current_heading": "Yose HaGelili Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Meir Enhancement",
+    "candidates": [
+      "Infants Midrash",
+      "Meir Enhancement",
+      "Lo Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Meir's derivation about fetuses singing, the proof text from Psalms 68:27, and Rabbi Tanchum's resolution about the luminous womb \u2014 are precisely the content described in the 'Meir Enhancement' prose, which is the current placement.",
+      "chosen_heading": "Meir Enhancement",
+      "current_heading": "Meir Enhancement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Lo Ambiguity",
+    "candidates": [
+      "Lo Ambiguity",
+      "Written Form Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks why there is doubt about the word 'lo' when one could simply check the written form \u2014 exactly the question the 'Lo Ambiguity' prose section introduces before moving to the Gemara's answer about orthographic ambiguity.",
+      "chosen_heading": "Lo Ambiguity",
+      "current_heading": "Lo Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Written Form Challenge",
+    "candidates": [
+      "Written Form Challenge",
+      "Meir Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the challenge from 'be-chol tzaratam lo tzar' where lamed-alef can mean either 'not' or 'to him,' which is precisely what the 'Written Form Challenge' prose describes.",
+      "chosen_heading": "Written Form Challenge",
+      "current_heading": "Written Form Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Meir Approach",
+    "candidates": [
+      "Meir Approach",
+      "Reward Differential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's baraita using the gezeirah shavah of 'yere Elokim' between Job and Abraham to conclude that Job's fear was out of love, which is precisely what the 'Meir Approach' prose describes.",
+      "chosen_heading": "Meir Approach",
+      "current_heading": "Meir Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Reward Differential",
+    "candidates": [
+      "Reward Differential",
+      "Two Students"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items directly discuss the reward differential between serving from love versus fear, the proof-texts from Exodus and Deuteronomy, and the resolution about adjacency \u2014 exactly the content described in the 'Reward Differential' prose.",
+      "chosen_heading": "Reward Differential",
+      "current_heading": "Reward Differential",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Two Students",
+    "candidates": [
+      "Two Students",
+      "Rava Judgment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Students",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both students' dreams AND Rava's judgment \u2014 the full narrative \u2014 but the prose under heading 0 covers only the students' dreams while heading 1's prose covers Rava's judgment and the hadran, so item 1 actually spans both headings; however, since item 1 is a single indivisible Talmudic passage, it belongs under heading 1 which covers the complete episode including Rava's ruling.",
+      "second_heading": "Rava Judgment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Hadran formula, which heading 1's prose explicitly references ('Hadran alach ha-Shole'ach'), making it clearly belong under heading 1.",
+      "current_heading": "Two Students",
+      "moved": true
+    }
+  }
+]

@@ -24,8 +24,8 @@
           "timestamp": "01:59"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Woman's Authority to Sell and the Mishna's Two Cases",
@@ -48,7 +48,7 @@
           "timestamp": "05:34"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -120,7 +120,7 @@
           "timestamp": "41:32"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -154,7 +154,7 @@
           "timestamp": "53:26"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 17,
       "matched": true
     }
   ],
@@ -374,5 +374,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "41:32",
+  "amud_b_micro_title": "Legumes Case",
+  "shiur_start_daf": 98,
+  "shiur_start_amud": "b"
 }

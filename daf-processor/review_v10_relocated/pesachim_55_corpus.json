@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Talmidei Chachamim",
+    "candidates": [
+      "Tisha B'Av Customs",
+      "Talmidei Chachamim",
+      "Shmuel & Babylon",
+      "Bein Hashmashos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna covers both the regional melacha customs and the talmidei chachamim/Rabban Shimon ben Gamliel ruling as one unit, and the 'Tisha B'Av Customs' heading (index 0) introduces this entire mishna, while the current placement under 'Talmidei Chachamim' only covers part of it \u2014 however, since the prose under index 1 explicitly discusses both the talmidei chachamim clause and Rabban Shimon ben Gamliel's statement, and index 0's prose also discusses the same mishna's regional customs portion, the passage as a whole is better anchored under index 0 which introduces the full mishna, though confidence is medium given the split coverage.",
+      "chosen_heading": "Tisha B'Av Customs",
+      "current_heading": "Talmidei Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Bein Hashmashos",
+    "candidates": [
+      "Shmuel & Babylon",
+      "Bein Hashmashos",
+      "Full-Day Fasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the tension between Shmuel's two statements about bein hashmashot on Tisha B'Av and the challenge from the mishna about 'ochlin v'shotin mib'od yom,' which is precisely what the 'Bein Hashmashos' section's prose describes.",
+      "chosen_heading": "Bein Hashmashos",
+      "current_heading": "Bein Hashmashos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Full-Day Fasts",
+    "candidates": [
+      "Full-Day Fasts",
+      "Safek Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's initial suggestion to support Shmuel's position via the baraita comparing Tisha B'Av and Yom Kippur, which matches exactly the prose in 'Full-Day Fasts' describing this very citation and inference.",
+      "chosen_heading": "Full-Day Fasts",
+      "current_heading": "Full-Day Fasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Safek Comparison",
+    "candidates": [
+      "Safek Comparison",
+      "Pregnant Women",
+      "Rava's Position",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the gemara's rejection of the inference from the baraita's 'safek mutar' by invoking Rav Sheisha's calendrical doubt interpretation, which is explicitly described in candidate 3's prose as occurring when 'the braita is then cited again as a challenge' and 'the gemara returns to the same answer: lo, l'kavia d'yarcha.'",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Safek Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Pregnant Women",
+      "Rava's Position",
+      "Rabbi Yochanan",
+      "Bathing Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form one continuous sugya debating what Rabbi Yochanan meant by 'Tisha B'Av is not like a communal fast' \u2014 covering twilight, melacha, ne'ila, twenty-four blessings, Rav Pappa's interpretation, and the braita about safek \u2014 which is precisely what the 'Rabbi Yochanan' section's prose describes in detail.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Bathing Rules",
+    "candidates": [
+      "Bathing Rules",
+      "Work Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the Gemara's discussion of bathing restrictions \u2014 Rabbi Elazar's ruling about extending a finger into water, the objection from the baraita about ta'anit tzibur, and Rav Pappa's resolution \u2014 which is precisely what the 'Bathing Rules' prose describes in detail.",
+      "chosen_heading": "Bathing Rules",
+      "current_heading": "Bathing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Work Restrictions",
+    "candidates": [
+      "Work Restrictions",
+      "Self-Stringency",
+      "Context Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the gemara's inference about Rabban Shimon ben Gamliel and yuhara, and the tension with the chattan mishna \u2014 which is precisely what the 'Work Restrictions' prose describes, before the resolution in subsequent sections.",
+      "chosen_heading": "Work Restrictions",
+      "current_heading": "Work Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Context Matters",
+    "candidates": [
+      "Self-Stringency",
+      "Context Matters",
+      "Idle Workers",
+      "Judea/Galilee",
+      "Shammai/Hillel",
+      "Minhag or Halacha",
+      "Meir vs. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Sheisha's 'lo tehafech' resolution distinguishing the Rabbis' and Rabban Shimon ben Gamliel's positions by context (yuhara visibility), which is exactly what the 'Context Matters' prose describes in detail.",
+      "chosen_heading": "Context Matters",
+      "current_heading": "Context Matters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Meir vs. Yehuda",
+    "candidates": [
+      "Idle Workers",
+      "Judea/Galilee",
+      "Shammai/Hillel",
+      "Minhag or Halacha",
+      "Meir vs. Yehuda",
+      "Two Conditions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Judea/Galilee",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the Judea/Galilee distinction and Beit Shammai/Beit Hillel night dispute, matching the 'Judea/Galilee' heading's prose about the Sages' statement regarding Yehudah and Galil.",
+      "second_heading": "Meir vs. Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 form the Gemara's analysis of the minhag-vs-issura tension, the Rabbi Meir/Rabbi Yehuda dispute, the weeding braita, and Rava/Rav Sheshet/Rav Ashi/Ravina's resolutions, all of which are explicitly described in the 'Meir vs. Yehuda' prose.",
+      "current_heading": "Meir vs. Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Two Conditions",
+    "candidates": [
+      "Two Conditions",
+      "Tzorech Hamoed",
+      "Small Objects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Conditions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting Rabbi Meir's two-condition rule and the Rabbis' three crafts, which is precisely what candidate 0 'Two Conditions' describes in its prose.",
+      "second_heading": "Tzorech Hamoed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara raising the dilemma about whether Rabbi Meir's allowance depends on l'tzorech hamoed, which is exactly what candidate 1 'Tzorech Hamoed' describes in its prose.",
+      "current_heading": "Two Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Small Objects",
+    "candidates": [
+      "Tzorech Hamoed",
+      "Small Objects",
+      "Both Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's analysis of the braita about the small belt and hairnet (tzilzul katan, shvacha ktana), probing what 'afilu' emphasizes and concluding the braita does not resolve the l'tzorech hamoed question \u2014 exactly what the 'Small Objects' prose describes.",
+      "chosen_heading": "Small Objects",
+      "current_heading": "Small Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Both Required",
+    "candidates": [
+      "Both Required",
+      "Three Crafts",
+      "Other Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the two braitot from Rabbi Meir that the 'Both Required' prose explicitly describes \u2014 the first braita about completing work begun before the fourteenth (items 1-2) and the final unambiguous braita establishing that both l'tzorech hamoed and prior initiation are required (item 3).",
+      "chosen_heading": "Both Required",
+      "current_heading": "Both Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Other Contexts",
+    "candidates": [
+      "Three Crafts",
+      "Other Contexts",
+      "Shoemakers",
+      "Inference Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that explains the rationale for the three crafts by pointing to leniencies in other halachic contexts (Chol Hamoed), which is precisely what the 'Other Contexts' prose describes in detail.",
+      "chosen_heading": "Other Contexts",
+      "current_heading": "Other Contexts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Inference Method",
+    "candidates": [
+      "Shoemakers",
+      "Inference Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's explanation of the dispute in terms of the inferential principle 'lemedin techilat melacha misof melacha,' which is precisely what the 'Inference Method' section's prose discusses.",
+      "chosen_heading": "Inference Method",
+      "current_heading": "Inference Method",
+      "moved": false
+    }
+  }
+]

@@ -305,6 +305,17 @@ def process(daf_dir: Path, threshold: float, diagnose: bool,
         return None
 
     pool = build_pool(daf_dir)
+    # Safety net for the ITEM_RE boundary bug (found on Meilah 8, fixed 2026-08-07):
+    # a pool item whose translation contains these labels means parse_sefaria_full's
+    # regex swallowed a neighboring item's raw markdown instead of stopping at the
+    # correct boundary -- was silently possible whenever a Sefaria item has no English
+    # translation (e.g. the chapter-closing "Hadran" formula). The regex is fixed, but
+    # this assertion is the durable guard against this corruption class recurring in
+    # any form, on any daf, without needing a human to notice a garbled blockquote.
+    for it in pool:
+        assert "*Hebrew/Aramaic:*" not in it["translation"] and "*Translation:*" not in it["translation"], (
+            f"pool item {it['index']} ({it['source']}) has a corrupted translation "
+            f"(embedded raw Sefaria markdown) -- see CLAUDE.md, 'Hadran' item swallow bug")
     entries = parse_srt(srt_path.read_text(encoding="utf-8", errors="replace"))
     if not pool or not entries:
         return None

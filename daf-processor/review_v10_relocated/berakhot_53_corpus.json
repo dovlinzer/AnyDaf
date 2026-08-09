@@ -1,0 +1,530 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Basic Dispute",
+    "candidates": [
+      "Basic Dispute",
+      "Beit Shammai View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items detail Beit Shammai's position on drying hands with a cloth and placing it on the table (not the cushion), with the reasoning about ritual impurity \u2014 this matches the 'Beit Shammai View' prose, not the 'Basic Dispute' prose which discusses clearing crumbs vs. mayim acharonim order.",
+      "chosen_heading": "Beit Shammai View",
+      "current_heading": "Basic Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Beit Shammai View",
+    "candidates": [
+      "Basic Dispute",
+      "Beit Shammai View",
+      "Beit Hillel View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "Beit Shammai View",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-8 discuss the Gemara's analysis of the towel-on-cushion vs. table dispute, including the second-degree impurity reasoning and Beit Hillel's alternative argument, which fits the current 'Beit Shammai View' section's context about protecting food from impurity.",
+      "second_heading": "Basic Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 9-10 introduce the new mishna/baraita about sweeping the house vs. washing hands first (mayim acharonim order), which directly matches heading 0 ('Basic Dispute') that explicitly discusses this baraita and the positions of both houses on this order.",
+      "current_heading": "Beit Shammai View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Beit Hillel View",
+    "candidates": [
+      "Beit Hillel View",
+      "Root: Am Ha'aretz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Beit Hillel's ruling about the Torah-scholar attendant removing crumbs of a kezayit and leaving smaller crumbs, followed by Rabbi Yochanan's supporting statement \u2014 exactly what the 'Beit Hillel View' prose discusses.",
+      "chosen_heading": "Beit Hillel View",
+      "current_heading": "Beit Hillel View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Root: Am Ha'aretz",
+    "candidates": [
+      "Root: Am Ha'aretz",
+      "Ruling Beit Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the root of the Beit Hillel/Beit Shammai dispute regarding use of an am ha'aretz attendant, which is precisely what the 'Root: Am Ha'aretz' section's prose describes.",
+      "chosen_heading": "Root: Am Ha'aretz",
+      "current_heading": "Root: Am Ha'aretz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Ruling Beit Shammai",
+    "candidates": [
+      "Ruling Beit Shammai",
+      "Rabbi Oshaya View",
+      "Initial Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Huna's ruling that the halakha follows Beit Hillel throughout the chapter except for this one case where Beit Shammai prevails, which is precisely what the 'Ruling Beit Shammai' prose discusses, and while it also mentions Rabbi Oshaya, the primary content matches heading 0's focus on the exception ruling.",
+      "chosen_heading": "Ruling Beit Shammai",
+      "current_heading": "Ruling Beit Shammai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Initial Problem",
+    "candidates": [
+      "Rabbi Oshaya View",
+      "Initial Problem",
+      "Ner Comes First",
+      "Besamim vs Mazon",
+      "Meir vs Yehuda",
+      "Shammai/Hillel Order",
+      "Tadir Discussion",
+      "Text Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together form the episode of Rav Huna bar Yehuda visiting Rava, the citation of Rabbi Meir vs Rabbi Yehuda's positions, and Rabbi Yochanan's ruling \u2014 exactly what candidate 4 ('Meir vs Yehuda') describes in its prose.",
+      "chosen_heading": "Meir vs Yehuda",
+      "current_heading": "Initial Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Text Difference",
+    "candidates": [
+      "Ner Comes First",
+      "Besamim vs Mazon",
+      "Meir vs Yehuda",
+      "Shammai/Hillel Order",
+      "Tadir Discussion",
+      "Text Difference",
+      "Rava Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnaic dispute between Beit Shammai ('bara') and Beit Hillel ('boreh') over the formula for the blessing on fire, which is precisely what the 'Text Difference' section's prose describes.",
+      "chosen_heading": "Text Difference",
+      "current_heading": "Text Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rava Clarifies",
+    "candidates": [
+      "Rava Clarifies",
+      "Singular vs Plural",
+      "Shammai/Hillel Flames"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement distinguishing bara from boreh and explaining the Beit Shammai/Beit Hillel dispute over boreh, which is precisely what the 'Rava Clarifies' section's prose describes.",
+      "chosen_heading": "Rava Clarifies",
+      "current_heading": "Rava Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Shammai/Hillel Flames",
+    "candidates": [
+      "Singular vs Plural",
+      "Shammai/Hillel Flames",
+      "Vilna Gaon",
+      "Light Lo Shavat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's core content is Rav Yosef's resolution that the dispute is not about 'bara' vs 'boreh' but about 'ma'or' vs 'me'orei' (singular vs plural), which is precisely what heading 0 'Singular vs Plural' describes in its prose, while heading 1 covers only the downstream explanation of what that singular/plural distinction means (one light vs many lights).",
+      "chosen_heading": "Singular vs Plural",
+      "current_heading": "Shammai/Hillel Flames",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Light Lo Shavat",
+    "candidates": [
+      "Vilna Gaon",
+      "Light Lo Shavat",
+      "Avodah Zarah Concern",
+      "Definition Shavat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss why one may not bless over gentile besamim (idolatry concern) and Rabbi \u1e24anina's resolution \u2014 exactly what the 'Avodah Zarah Concern' prose describes, not the 'lo shavat' explanation in the current heading.",
+      "chosen_heading": "Avodah Zarah Concern",
+      "current_heading": "Light Lo Shavat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Definition Shavat",
+    "candidates": [
+      "Avodah Zarah Concern",
+      "Definition Shavat",
+      "Nochri Mi'Nochri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita defining 'shavat' and 'lo shavat' for fire used in havdala, which is precisely what the 'Definition Shavat' section's prose describes in detail.",
+      "chosen_heading": "Definition Shavat",
+      "current_heading": "Definition Shavat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Nochri Mi'Nochri",
+    "candidates": [
+      "Nochri Mi'Nochri",
+      "Fire Outside City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the baraita about nochri mi'nochri, the question of shevita, the flame's legal identity, and the gezeirah \u2014 precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Nochri Mi'Nochri",
+      "current_heading": "Nochri Mi'Nochri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Fire Outside City",
+    "candidates": [
+      "Fire Outside City",
+      "Infant Inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about fire outside the city, the internal contradiction noted by the Gemara, and its resolution \u2014 are precisely what the 'Fire Outside City' prose describes.",
+      "chosen_heading": "Fire Outside City",
+      "current_heading": "Fire Outside City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Infant Inquiry",
+    "candidates": [
+      "Infant Inquiry",
+      "Flame Thickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about the child with a torch, the Gemara's question about why a child is specified, and Rav Yehuda/Rav's answer about the scenario being soon after sunset \u2014 are precisely described in the 'Infant Inquiry' prose.",
+      "chosen_heading": "Infant Inquiry",
+      "current_heading": "Infant Inquiry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Flame Thickness",
+    "candidates": [
+      "Flame Thickness",
+      "Non-Light Purposes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about flame thickness (as thick as a furnace opening) is precisely what the 'Flame Thickness' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Flame Thickness",
+      "current_heading": "Flame Thickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Non-Light Purposes",
+    "candidates": [
+      "Non-Light Purposes",
+      "Shammai Individual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items cover the kiln/oven/synagogue fire contradictions and their resolutions, which is precisely what the 'Non-Light Purposes' prose describes in detail.",
+      "chosen_heading": "Non-Light Purposes",
+      "current_heading": "Non-Light Purposes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Shammai Individual",
+    "candidates": [
+      "Shammai Individual",
+      "Hillel Communal",
+      "Bittal Beit Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita presents both Beit Shammai's and Beit Hillel's positions together as a single unit, and since it opens with Beit Shammai's ruling (each individual recites for himself), it belongs under the 'Shammai Individual' heading where the Gemara introduces this case \u2014 the essay then separately elaborates on each position in subsequent sections.",
+      "chosen_heading": "Shammai Individual",
+      "current_heading": "Shammai Individual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Bittal Beit Midrash",
+    "candidates": [
+      "Hillel Communal",
+      "Bittal Beit Midrash",
+      "Dead Prohibition",
+      "Honor vs Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address bittul beit ha'midrash \u2014 Beit Shammai's reasoning and the supporting baraita about Rabban Gamliel's household \u2014 which is precisely what the 'Bittal Beit Midrash' prose describes.",
+      "chosen_heading": "Bittal Beit Midrash",
+      "current_heading": "Bittal Beit Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Honor vs Light",
+    "candidates": [
+      "Dead Prohibition",
+      "Honor vs Light",
+      "Bad Smell Masking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah/Gemara on candles and spices for the dead, and Rav Yehuda citing Rav's day/night distinction \u2014 are explicitly discussed together in the 'Honor vs Light' prose, which covers exactly these two points in sequence.",
+      "chosen_heading": "Honor vs Light",
+      "current_heading": "Honor vs Light",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Bad Smell Masking",
+    "candidates": [
+      "Bad Smell Masking",
+      "Perfume Store"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Huna's ruling on bathroom deodorizers and filth-removing oil, which matches exactly the 'Bad Smell Masking' section's prose discussing the same ruling.",
+      "chosen_heading": "Bad Smell Masking",
+      "current_heading": "Bad Smell Masking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Perfume Store",
+    "candidates": [
+      "Perfume Store",
+      "Store Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically the Gemara's challenge asking whether spices not intended for fragrance require a blessing, using the perfume store as the objection \u2014 this is precisely what the 'Store Purpose' prose discusses (the lereicha challenge and its resolution), not the 'Perfume Store' section which focuses on the one-time blessing rule.",
+      "chosen_heading": "Store Purpose",
+      "current_heading": "Perfume Store",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Store Purpose",
+    "candidates": [
+      "Perfume Store",
+      "Store Purpose",
+      "Outdoor Smell",
+      "Rabbi Yosi Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct response that spices in the perfume shop are indeed intended for fragrance (lereicha avida) so people will smell and come to buy \u2014 exactly the content described in the 'Store Purpose' prose.",
+      "chosen_heading": "Store Purpose",
+      "current_heading": "Store Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153,
+      154
+    ],
+    "current_heading": "Rabbi Yosi Concern",
+    "candidates": [
+      "Outdoor Smell",
+      "Rabbi Yosi Concern",
+      "Regional Practice",
+      "Akum Marketplace"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Yosi Concern",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the baraita about outside-city smells and Rabbi Yosi's witchcraft/garment-scenting objection with the Gemara's pushback, all discussed under 'Rabbi Yosi Concern'.",
+      "second_heading": "Regional Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi \u1e24iyya bar Abba's ruling about Tiberias/Tzippori regional practice, which matches the 'Regional Practice' prose exactly.",
+      "current_heading": "Rabbi Yosi Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Akum Marketplace",
+    "candidates": [
+      "Regional Practice",
+      "Akum Marketplace",
+      "Benefit Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about sinning by intentionally smelling in an idolatrous marketplace directly matches the 'Akum Marketplace' section's prose, which explicitly discusses this exact baraita and the concept of nitretzeh as the critical factor.",
+      "chosen_heading": "Akum Marketplace",
+      "current_heading": "Akum Marketplace",
+      "moved": false
+    }
+  }
+]

@@ -1,12 +1,13 @@
-# Meilah 17 — Daf Yomi Shiur
-
+[DAF:17a]
 ## Blood & Flesh Combine
+
+
 
 ### Mishnah Introduction
 
-> **Hebrew/Aramaic:** מַתְנִי׳ דַּם הַשֶּׁרֶץ וְהַבָּשָׂר – מִצְטָרְפִין זֶה עִם זֶה. כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ: כֹּל שֶׁטּוּמְאָתוֹ וְשִׁיעוּרוֹ שָׁוִין – מִצְטָרְפִין.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ דַּם הַשֶּׁרֶץ וְהַבָּשָׂר – מִצְטָרְפִין זֶה עִם זֶה. כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ: כֹּל שֶׁטּוּמְאָתוֹ וְשִׁיעוּרוֹ שָׁוִין – מִצְטָרְפִין.
 > **Translation:** MISHNA: **The blood of** one of **the** eight **creeping animals** listed in the Torah **and** their **flesh join together** to constitute the lentil-bulk measure to impart impurity. **Rabbi Yehoshua stated a principle:** With regard to **any** items **whose impurity,** in terms of degree and duration, **and measure** to impart impurity, **are equal,** e.g., two halves of an olive-bulk from two corpses or two animal carcasses or two halves of a lentil-bulk from two creeping animals, **they join together** to constitute the requisite measure.
+
 
 The seventeenth daf opens with a *mishnah* whose subject is *mitztarfin* — the principle of combination. *Dam HaSheretz v'HaBassar mitztarfin ze im ze*: the blood of a *sheretz* and the flesh of a *sheretz* combine with one another to constitute the minimum measure required to convey *tumah*. We have already established that *sheratzim* carry a *shiur* of *ke'adasha*, a lentil-sized amount. Accordingly, if one has a small quantity of blood and a small quantity of flesh, each insufficient on its own, they may join together to reach that minimum and thereby cause *tumah*.
 
@@ -16,8 +17,7 @@ The *mishnah* then records a general principle in the name of Rabbi Yehoshua: *k
 
 ### Non-Combination Cases
 
-> **Hebrew/Aramaic:** טוּמְאָתוֹ וְלֹא שִׁיעוּרוֹ, שִׁיעוּרוֹ וְלֹא טוּמְאָתוֹ, לֹא טוּמְאָתוֹ [וְלֹא] שִׁיעוּרוֹ – אֵין מִצְטָרְפִין.
->
+> **Hebrew/Aramaic:** טוּמְאָתוֹ וְלֹא שִׁיעוּרוֹ, שִׁיעוּרוֹ וְלֹא טוּמְאָתוֹ, לֹא טוּמְאָתוֹ [וְלֹא] שִׁיעוּרוֹ – אֵין מִצְטָרְפִין.
 > **Translation:** Rabbi Yehoshua continued: By contrast, with regard to items whose **impurity** is equal **but** their **measure** is **not** equal, e.g., a creeping animal and an animal carcass, each of which renders one impure until the evening, but the measure of a creeping animal is a lentil-bulk, whereas that of an animal carcass is an olive-bulk; or items whose **measure** is equal **but whose impurity** is **not** equal, e.g., a corpse and an animal carcass, with regard to which the measure of each is an olive-bulk, but the duration of the impurity imparted by a corpse is one week and the duration of the impurity imparted by an animal carcass is until the evening; or items that are equal **neither in** terms of **their impurity** nor in terms of **their measure, they do not join together** to constitute the requisite measure.
 
 The *mishnah* proceeds to enumerate the cases that fall outside this rule. *Tumato v'lo shiuro*: the *tumah* is the same but the *shiur* differs. Consider, for example, a *sheretz* and a *neveilah* — a dead domesticated animal. Both are classified as an *av hatumah*, so their degree of *tumah* is equivalent in that sense. However, a *neveilah* requires a *kezayit*, while a *sheretz* requires only a *ke'adasha*. One might think that a small quantity of *sheretz* could supplement a small quantity of *neveilah* to reach the *kezayit* threshold, as the *sheretz* is in some sense more potent per unit. Nevertheless, they do not combine, because they belong to fundamentally different categories of *tumah*. The reverse case is *shiuro v'lo tumato*: the *shiur* is the same but the *tumah* differs. Take a *kezayit* of a *met* — a human corpse — and a *kezayit* of a *neveilah*. Each requires a *kezayit*, so the *shiur* is identical. Yet the *met* is an *avi avot hatumah*, while one who touches a *neveilah* becomes a *rishon* — a first-level derivative. Someone who touches a corpse contracts seven-day *tumah* and the like, whereas *neveilah* *tumah* operates at a far lower level. Consequently, even though the *shiur* is the same, they do not combine, because the type of *tumah* is categorically distinct.
@@ -30,27 +30,26 @@ This raises a natural question: is there any case in which one has the same *shi
 
 ## Same Animal Requirement
 
-### Same Animal Requirement
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב חָנִין אָמַר רַב זְעֵירָא,
->
-> **Translation:** GEMARA: The mishna teaches that the blood of one of the eight creeping animals listed in the Torah and the flesh of those animals join together to constitute the lentil-bulk measure required to impart impurity. **Rav Ḥanin says** that **Rav Zeira says:** The blood and flesh join together only if the blood is from the same animal as the flesh, but not if it is from a different animal.
+
+### Same Animal Requirement
 
 The *Gemara* opens with a teaching transmitted by Rav Chanina in the name of Rav Zeira — and some report it in the name of Rabbi Yoshiya bar Rabbi Chanina. The key statement itself is absent from the standard printed text and must be reconstructed from the marginal *girsa*, which reads: *davka dam sheretz u'vasaro* — specifically the blood of a *sheretz* and *its own* flesh. That is, when the *mishnah* says the blood and flesh of a *sheretz* combine, it means blood and flesh from the *same animal*. If one has a small piece of flesh from one *sheretz* and a small quantity of blood from a different *sheretz*, even if both animals are of the same species, they do not combine.
 
-### Braisah Challenge
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב חָנִין אָמַר רַב זְעֵירָא,
+> **Translation:** GEMARA: The mishna teaches that the blood of one of the eight creeping animals listed in the Torah and the flesh of those animals join together to constitute the lentil-bulk measure required to impart impurity. **Rav Ḥanin says** that **Rav Zeira says:** The blood and flesh join together only if the blood is from the same animal as the flesh, but not if it is from a different animal.
 
-> **Hebrew/Aramaic:** וְכֵן אָמַר רַבִּי יוֹסֵי בַּר רַבִּי חֲנִינָא: ״הַטְּמֵאִין״ – מְלַמֵּד שֶׁהֵן מִצְטָרְפִין, וַאֲפִילּוּ שֶׁרֶץ וָשֶׁרֶץ, שֶׁרֶץ וָדָם, בֵּין מִשֵּׁם אֶחָד, בֵּין מִשְּׁנֵי שֵׁמוֹת!
->
-> **Translation:** **And similarly, Rabbi Yosei bar Rabbi Ḥanina says,** in rejection of Rav Zeira's statement: It is taught in a *baraita*: The verse states: "These are **the impure [*hateme'in*]** to you among all that creep; whoever touches them when they are dead, shall be impure until the evening" (Leviticus 11:31). This plural form of "*hateme'in*" **teaches that they join together** to impart ritual impurity. **And** this applies **even** to the flesh of **a creeping animal and** the flesh of another **creeping animal,** or the flesh of **a creeping animal and** the **blood** of another creeping animal, **whether** they are **from one category,** i.e., one type of creeping animal, **or from two categories** of creeping animal.
+> **Hebrew/Aramaic:** וְכֵן אָמַר רַבִּי יוֹסֵי בַּר רַבִּי חֲנִינָא: ״הַטְּמֵאִין״ – מְלַמֵּד שֶׁהֵן מִצְטָרְפִין, וַאֲפִילּוּ שֶׁרֶץ וָשֶׁרֶץ, שֶׁרֶץ וָדָם, בֵּין מִשֵּׁם אֶחָד, בֵּין מִשְּׁנֵי שֵׁמוֹת!
+> **Translation:** **And similarly, Rabbi Yosei bar Rabbi Ḥanina says,** in rejection of Rav Zeira’s statement: It is taught in a *baraita*: The verse states: “These are **the impure [*hateme’in*]** to you among all that creep; whoever touches them when they are dead, shall be impure until the evening” (Leviticus 11:31). This plural form of “*hateme’in*” **teaches that they join together** to impart ritual impurity. **And** this applies **even** to the flesh of **a creeping animal and** the flesh of another **creeping animal,** or the flesh of **a creeping animal and** the **blood** of another creeping animal, **whether** they are **from one category,** i.e., one type of creeping animal, **or from two categories** of creeping animal.
+
+> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: לָא קַשְׁיָא, כָּאן – בְּכוּלּוֹ. כָּאן – בְּמִקְצָתוֹ.
+> **Translation:** **Rav Yosef says:** This is **not difficult. Here,** the *baraita* is referring to a case where the half-measure of flesh and the half-measure of blood both came **from an entire** animal, and therefore the two half-measures combine, due to the significance of an entire animal. **There,** in the statement of Rav Zeira, he is speaking of a case where the half-measure of flesh and the half-measure of blood each come **from part of** an animal.
+
+### Braisah Challenge
 
 The *Gemara* immediately raises a challenge — *meisivei* — from a *braisah*. The *braisah* states that *hatmeim* — these impure things — teach that all of them combine with one another: *va'afilu sheretz v'sheretz, sheretz v'dam*, and so on, *bein misheim echad bein mishnei shemos* — whether from one category or two different categories. This apparently means that a piece of one *sheretz* and a piece of another *sheretz* combine, and that flesh and blood of different animals also combine. If the *braisah* allows for combination across different animals, how can Rav Chanina insist that blood and flesh must come from the same animal?
 
 ### Rav Yosef's Resolution
-
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: לָא קַשְׁיָא, כָּאן – בְּכוּלּוֹ. כָּאן – בְּמִקְצָתוֹ.
->
-> **Translation:** **Rav Yosef says:** This is **not difficult. Here,** the *baraita* is referring to a case where the half-measure of flesh and the half-measure of blood both came **from an entire** animal, and therefore the two half-measures combine, due to the significance of an entire animal. **There,** in the statement of Rav Zeira, he is speaking of a case where the half-measure of flesh and the half-measure of blood each come **from part of** an animal.
 
 Rav Yosef resolves the contradiction: *lo kashya, kan bechulan kan bemiktzasan* — there is no difficulty; the one case speaks of all of it and the other of part of it. On the simple reading offered by Rashi — *kan bechulo kan bemiktzaso* — the distinction turns on whether the blood emerged from the whole animal or from only part of it: blood that flows from the entire carcass is more potent and can combine with blood from another *sheretz*, while blood that flows from only a portion of the carcass is weaker. This reading is acknowledged but regarded as very difficult to justify analytically.
 
@@ -58,7 +57,10 @@ Rav Yosef resolves the contradiction: *lo kashya, kan bechulan kan bemiktzasan* 
 
 ## One Unit Doctrine
 
+
+
 ### Tosafot Interpretation
+
 
 Tosafot offer a significantly cleaner reading, one that is perhaps somewhat forced in the precise wording but far more logically coherent. The question Rav Yosef addresses, according to Tosafot, is not the potency of the blood but rather the requirement of contact. Imagine a piece of *sheretz* flesh sitting in a pool of blood — whether its own blood or blood from a different animal. When we say the two combine to constitute the required *shiur*, what contact is required of the person who becomes *tamei*? Must he touch or cover all of it, or does touching part of it suffice?
 
@@ -66,8 +68,7 @@ Tosafot's answer is this: when the blood is from the same animal as the flesh, t
 
 ### Oholos Proof
 
-> **Hebrew/Aramaic:** וּמְנָא תֵּימְרָא? מִדְּתַנְיָא: נִשְׁפַּךְ עַל הָרִצְפָּה וְהָיָה מְקוֹמָהּ קָטַפְרֵס, אִיהֵל עַל מִקְצָתוֹ – טָהוֹר, אִיהֵל עַל כּוּלּוֹ – טָמֵא.
->
+> **Hebrew/Aramaic:** וּמְנָא תֵּימְרָא? מִדְּתַנְיָא: נִשְׁפַּךְ עַל הָרִצְפָּה וְהָיָה מְקוֹמָהּ קָטַפְרֵס, אִיהֵל עַל מִקְצָתוֹ – טָהוֹר, אִיהֵל עַל כּוּלּוֹ – טָמֵא.
 > **Translation:** **And from where do you say** that there is a distinction between a case where the flesh and blood come from an entire animal and a case where they come from part of an animal? **From that which is taught** in a *baraita*: In a case where one quarter-*log* of blood from a corpse was **spilled on the floor, and its place was a slope [*ketafres*],** so that the blood trickles down, and someone leaned over so that he **covered part of it,** he remains **ritually pure.** If he **covered all of it,** he is rendered **impure.**
 
 To support this reading, the *Gemara* introduces a proof (*umana teimra*) from a *braisah* in Maseches Oholos dealing with the blood of a *meis*. The case is as follows: blood from a corpse spilled on the floor, and the surface on which it fell was a *katafres* — an incline — so that the blood ran downward along a slope. The rule stated is *ohel al miktzaso tahor, ohel al kulo tamei*: if one extends an *ohel* — a covering, such as one's hand or body — over only part of the blood, one is *tahor*; if one covers all of the blood, one is *tamei*.
@@ -76,9 +77,8 @@ Why should covering only part be insufficient? The principle invoked is *katafre
 
 ### Stirred Blood Example
 
-> **Hebrew/Aramaic:** מַאי ״מִקְצָתוֹ״? אִילֵּימָא מִקְצָת דָּם, וְהָא אָמַר רַבִּי חֲנִינָא אָמַר רַבִּי: רְבִיעִית דָּם שֶׁהֵגִיס בָּהּ – טְהוֹרָה!
->
-> **Translation:** The Gemara clarifies the *halakha*: **What** does the phrase: **Part of it,** mean in this context? **If we say** that it is referring to **part of** the one quarter-*log* of **blood,** whereas if it is a full quarter-*log* then he is impure, that is difficult: **But doesn't Rabbi Ḥanina say** that **Rabbi** Yehuda HaNasi **says:** If there was exactly **one quarter-***log* of **blood** in a pot **that one stirred** without touching the blood, he remains **pure,** despite the fact that his body must have overshadowed all the blood at the time, and would therefore have had the status of a tent over it. The reason is that some of the blood must have been absorbed into the spoon with which he stirred, and therefore there no longer remains an entire connected quarter-*log*. This shows that the entire quarter-*log* must be together, as one unit, in order to impart impurity.
+> **Hebrew/Aramaic:** מַאי ״מִקְצָתוֹ״? אִילֵּימָא מִקְצָת דָּם, וְהָא אָמַר רַבִּי חֲנִינָא אָמַר רַבִּי: רְבִיעִית דָּם שֶׁהֵגִיס בָּהּ – טְהוֹרָה!
+> **Translation:** The Gemara clarifies the *halakha*: **What** does the phrase: **Part of it,** mean in this context? **If we say** that it is referring to **part of** the one quarter-*log* of **blood,** whereas if it is a full quarter-*log* then he is impure, that is difficult: **But doesn’t Rabbi Ḥanina say** that **Rabbi** Yehuda HaNasi **says:** If there was exactly **one quarter-***log* of **blood** in a pot **that one stirred** without touching the blood, he remains **pure,** despite the fact that his body must have overshadowed all the blood at the time, and would therefore have had the status of a tent over it. The reason is that some of the blood must have been absorbed into the spoon with which he stirred, and therefore there no longer remains an entire connected quarter-*log*. This shows that the entire quarter-*log* must be together, as one unit, in order to impart impurity.
 
 The *Gemara* then asks: what does *miktzatah* — "part of it" — mean in this context? One might suggest it refers to a case where there is less than a full *revi'it* of blood present. But Tosafot dismisses this reading by invoking another teaching of Rav Chanina: *revi'it dam she-higis bah tehorah* — if one has a *revi'it* of blood and stirs it, one is *tahor*. The reason, as Tosafot explains, is that in the course of stirring with a wooden spoon, some of the blood is absorbed into the spoon. That absorption breaks the unity of the blood: even though a full *revi'it* was present, since part of it has been drawn off into the spoon, the remainder is no longer considered a single connected unit with what was absorbed. Therefore, even though the total quantity is technically a *revi'it*, covering or touching only part of what remains does not suffice — one must contact all of it.
 
@@ -86,9 +86,8 @@ This example confirms that *miktzatah* does not refer to a sub-*revi'it* quantit
 
 ### Shema Minah Conclusion
 
-> **Hebrew/Aramaic:** אֶלָּא לָאו שְׁמַע מִינַּהּ: כָּאן – בְּכוּלּוֹ, כָּאן – בְּמִקְצָתוֹ? שְׁמַע מִינַּהּ.
->
-> **Translation:** **Rather, isn't it** correct to **conclude from** this *baraita* that there is a distinction between a case where the blood came from an entire corpse, and where it came from part of a corpse? In other words, if the blood came from one body it need not be together as a single unit, whereas if it came from more than one body, it must all be joined together, as in the case mentioned by Rabbi Yehuda HaNasi. Similarly, with regard to the statements of Rav Zeira and the *baraita*, **here** the *baraita* is referring to a situation where the half-measure of flesh and the half-measure of blood came **from an entire** animal, and due to the significance of an entire animal the two half-measures combine. **There,** Rav Zeira is referring to a case where the half-measure of flesh and the half-measure of blood come **from part of** the animal. The Gemara notes that one should indeed **conclude from it** that this is the correct distinction.
+> **Hebrew/Aramaic:** אֶלָּא לָאו שְׁמַע מִינַּהּ: כָּאן – בְּכוּלּוֹ, כָּאן – בְּמִקְצָתוֹ? שְׁמַע מִינַּהּ.
+> **Translation:** **Rather, isn’t it** correct to **conclude from** this *baraita* that there is a distinction between a case where the blood came from an entire corpse, and where it came from part of a corpse? In other words, if the blood came from one body it need not be together as a single unit, whereas if it came from more than one body, it must all be joined together, as in the case mentioned by Rabbi Yehuda HaNasi. Similarly, with regard to the statements of Rav Zeira and the *baraita*, **here** the *baraita* is referring to a situation where the half-measure of flesh and the half-measure of blood came **from an entire** animal, and due to the significance of an entire animal the two half-measures combine. **There,** Rav Zeira is referring to a case where the half-measure of flesh and the half-measure of blood come **from part of** the animal. The Gemara notes that one should indeed **conclude from it** that this is the correct distinction.
 
 The *Gemara* concludes: *ela lav shema minah kan bechulo kan bemiktzatah* — learn from this that it matters whether one covers all of it or only part of it. *Shema minah*. The principle is confirmed: whether combination operates through partial or complete contact depends entirely on whether the relevant substance constitutes a single unit or not. And returning to the original question, whether the blood and flesh of a *sheretz* constitute one unit depends on whether they derive from the same animal.
 
@@ -96,23 +95,24 @@ The *Gemara* concludes: *ela lav shema minah kan bechulo kan bemiktzatah* — le
 
 ## Rome Narrative
 
-### R. Matya's Question
 
-> **Hebrew/Aramaic:** שָׁאַל רַבִּי מַתְיָא בֶּן חָרָשׁ אֶת רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי בָּעִיר רוֹמִי: מִנַּיִן לְדַם שְׁרָצִים שֶׁהוּא טָמֵא? אֲמַר לֵיהּ: דְּאָמַר קְרָא: ״וְזֶה לָכֶם הַטָּמֵא״.
->
-> **Translation:** § The Gemara relates that **Rabbi Matya ben Ḥarash asked Rabbi Shimon ben Yoḥai in the city of Rome: From where** is it derived **with regard to** the **blood of creeping animals that it is impure?** Rabbi Shimon ben Yoḥai **said to him:** It is derived from the fact **that the verse states: "And these are they that are impure** for you among the creeping animals" (Leviticus 11:29). Since a similar phrase already appears in Leviticus 11:31, it is derived from here that the blood of creeping animals is impure.
+
+### R. Matya's Question
 
 With the *halakhic* analysis complete, the *Gemara* introduces a brief historical narrative. Rabbi Matya ben Charash posed a question to Rabbi Shimon bar Yochai while they were together in Rome: *minayin ledam sheratzim she-hu tamei* — from where do we know that the blood of *sheratzim* conveys *tumah*? This question is not trivial. The *mishnah* assumed that the blood of a *sheretz* is *tamei* and treated the question as one of combination; the prior question of whether it is *tamei* at all was left implicit.
 
+> **Hebrew/Aramaic:** שָׁאַל רַבִּי מַתְיָא בֶּן חָרָשׁ אֶת רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי בָּעִיר רוֹמִי: מִנַּיִן לְדַם שְׁרָצִים שֶׁהוּא טָמֵא? אֲמַר לֵיהּ: דְּאָמַר קְרָא: ״וְזֶה לָכֶם הַטָּמֵא״.
+> **Translation:** § The Gemara relates that **Rabbi Matya ben Ḥarash asked Rabbi Shimon ben Yoḥai in the city of Rome: From where** is it derived **with regard to** the **blood of creeping animals that it is impure?** Rabbi Shimon ben Yoḥai **said to him:** It is derived from the fact **that the verse states: “And these are they that are impure** for you among the creeping animals” (Leviticus 11:29). Since a similar phrase already appears in Leviticus 11:31, it is derived from here that the blood of creeping animals is impure.
+
 ### R. Shimon's Answer
+
 
 Rabbi Shimon bar Yochai answered that it is derived from a *derasha*: the verse states *ve-zeh lachem ha-tamei ba-sheretz ha-shoretz al ha-aretz* — and this is for you the impure, regarding the creeping thing that creeps upon the earth. The extra phrase *ve-zeh lachem*, which is textually redundant given that the verse elsewhere says *eleh ha-tmei'im lachem*, is interpreted to extend the *tumah* to include the blood, not only the flesh.
 
 ### R. Yose's Correction
 
-> **Hebrew/Aramaic:** אָמְרוּ לוֹ תַּלְמִידָיו: חֲכֵים לֵיהּ בֶּן יוֹחַאי. אָמַר לָהֶם: תַּלְמוּד עָרוּךְ בְּפִיו שֶׁל רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי.
->
-> **Translation:** Rabbi Matya ben Ḥarash's **students said to him** in amazement: How **wise is** Rabbi Shimon **ben Yoḥai!** Rabbi Matya ben Ḥarash **said to them:** This source is not his own, as it is **a set tradition in the mouth of Rabbi Elazar bar Rabbi Yosei,** and Rabbi Shimon ben Yoḥai learned it from him.
+> **Hebrew/Aramaic:** אָמְרוּ לוֹ תַּלְמִידָיו: חֲכֵים לֵיהּ בֶּן יוֹחַאי. אָמַר לָהֶם: תַּלְמוּד עָרוּךְ בְּפִיו שֶׁל רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי. שֶׁפַּעַם אַחַת גָּזְרָה הַמַּלְכוּת גְּזֵרָה שֶׁלֹּא יִשְׁמְרוּ אֶת הַשַּׁבָּת, וְשֶׁלֹּא יָמוּלוּ אֶת בְּנֵיהֶם, וְשֶׁיִּבְעֲלוּ אֶת נִדּוֹת.
+> **Translation:** Rabbi Matya ben Ḥarash’s **students said to him** in amazement: How **wise is** Rabbi Shimon **ben Yoḥai!** Rabbi Matya ben Ḥarash **said to them:** This source is not his own, as it is **a set tradition in the mouth of Rabbi Elazar bar Rabbi Yosei,** and Rabbi Shimon ben Yoḥai learned it from him. Rabbi Matya ben Ḥarash provided the background for this claim. **As, on one occasion the** gentile **monarchy issued a decree that** the Jewish people **may not observe Shabbat, and that they may not circumcise their sons, and that they must engage in intercourse with** their wives when they are **menstruating.**
 
 When Rabbi Matya ben Charash's students heard this, they were impressed — *chakim lei ben Yochai*, they said; Rabbi Shimon bar Yochai is sharp, he derived this himself. But Rabbi Matya ben Charash corrected them: this is not Rabbi Shimon's own innovation. It is an established tradition — *talmud aruch be-fi shel Rabbi Elazar bar Rabbi Yosi*, a received teaching already in the mouth of Rabbi Elazar bar Rabbi Yosi. One wonders why Rabbi Matya ben Charash asked the question at all if he already knew the answer; it appears he was simply opening a conversation, and the exchange was collegial rather than a genuine inquiry. The response, however, serves to deny Rabbi Shimon bar Yochai the credit for an original formulation. As the narrative will go on to demonstrate, this motif — Rabbi Shimon bar Yochai's relationship to his own reputation and that of others — runs through the entire episode.
 
@@ -120,11 +120,18 @@ When Rabbi Matya ben Charash's students heard this, they were impressed — *cha
 
 ## Reuven ben Astrubli
 
+
+
 ### Three Edicts Overturned
 
-> **Hebrew/Aramaic:** שֶׁפַּעַם אַחַת גָּזְרָה הַמַּלְכוּת גְּזֵרָה שֶׁלֹּא יִשְׁמְרוּ אֶת הַשַּׁבָּת, וְשֶׁלֹּא יָמוּלוּ אֶת בְּנֵיהֶם, וְשֶׁיִּבְעֲלוּ אֶת נִדּוֹת. הָלַךְ רַבִּי רְאוּבֵן בֶּן אִיסְטְרוֹבָּלִי, וְסִיפֵּר קוֹמֵי, וְהָלַךְ וְיָשַׁב עִמָּהֶם. אָמַר לָהֶם: מִי שֶׁיֵּשׁ לוֹ אוֹיֵב, יַעֲנִי אוֹ יַעֲשִׁיר? אָמְרוּ לוֹ: יַעֲנִי. אָמַר לָהֶם: אִם כֵּן, לֹא יַעֲשׂוּ מְלָאכָה בַּשַּׁבָּת, כְּדֵי שֶׁיַּעֲנוּ! אָמְרוּ: טָבֵית אָמַר, לִיבְטַל, וּבִטְּלוּהָ.
->
-> **Translation:** The Sages then **said: Who will go and nullify** these **decrees?** § Let **Rabbi Shimon ben Yoḥai go** to Rome, **as he is accustomed to** experiencing **miracles. And who shall go after him,** i.e., with him? **Rabbi Elazar bar Rabbi Yosei.** § **Rabbi Reuven ben Isterobeli went and cut** his hair in **a *komei*** hairstyle,which was common only among the gentiles, **and he went and sat with** the gentiles when they were discussing these three decrees. **He said to them: One who has an enemy,** does he want his enemy **to become poor or to become rich? They said to him:** He wants his enemy **to become poor.** Rabbi Reuven ben Isterobeli **said to them: If so,** with regard to the Jewish people as well, isn't it better that **they will not perform labor on Shabbat in order that they will become poor?** The gentiles **said:** That is **a good** claim that **he said; let us nullify** our decree. **And they** indeed **nullified it.**
+> **Hebrew/Aramaic:** הָלַךְ רַבִּי רְאוּבֵן בֶּן אִיסְטְרוֹבָּלִי, וְסִיפֵּר קוֹמֵי, וְהָלַךְ וְיָשַׁב עִמָּהֶם. אָמַר לָהֶם: מִי שֶׁיֵּשׁ לוֹ אוֹיֵב, יַעֲנִי אוֹ יַעֲשִׁיר? אָמְרוּ לוֹ: יַעֲנִי. אָמַר לָהֶם: אִם כֵּן, לֹא יַעֲשׂוּ מְלָאכָה בַּשַּׁבָּת, כְּדֵי שֶׁיַּעֲנוּ! אָמְרוּ: טָבֵית אָמַר, לִיבְטַל, וּבִטְּלוּהָ.
+> **Translation:** **Rabbi Reuven ben Isterobeli went and cut** his hair in **a *komei*** hairstyle,which was common only among the gentiles, **and he went and sat with** the gentiles when they were discussing these three decrees. **He said to them: One who has an enemy,** does he want his enemy **to become poor or to become rich? They said to him:** He wants his enemy **to become poor.** Rabbi Reuven ben Isterobeli **said to them: If so,** with regard to the Jewish people as well, isn’t it better that **they will not perform labor on Shabbat in order that they will become poor?** The gentiles **said:** That is **a good** claim that **he said; let us nullify** our decree. **And they** indeed **nullified it.**
+
+> **Hebrew/Aramaic:** חָזַר וְאָמַר לָהֶם: מִי שֶׁיֵּשׁ לוֹ אוֹיֵב, יַכְחִישׁ אוֹ יַבְרִיא? אָמְרוּ לוֹ: יַכְחִישׁ. אָמַר לָהֶם: אִם כֵּן, יָמוּלוּ בְּנֵיהֶם לִשְׁמוֹנָה יָמִים וְיַכְחִישׁוּ. אָמְרוּ: טָבֵית אָמַר, וּבִטְּלוּהָ.
+> **Translation:** **Again** Rabbi Reuven ben Isterobeli **spoke to them** and said: **One who has an enemy,** does he want his enemy **to become weak or to become healthy? They said to him:** He wants his enemy **to become weak.** Rabbi Reuven ben Isterobeli **said to them: If so,** with regard to the Jewish people as well, isn’t it better that **they circumcise their sons after eight days and** thereby cause them to **become weak?** The gentiles **said:** That is **a good** claim that **he said, and they nullified** their decree.
+
+> **Hebrew/Aramaic:** חָזַר וְאָמַר לָהֶם: מִי שֶׁיֵּשׁ לוֹ אוֹיֵב, יִרְבֶּה אוֹ יִתְמַעֵט? אָמְרוּ לוֹ: יִתְמַעֵט. אִם כֵּן, לֹא יִבְעֲלוּ נִדּוֹת. אָמְרוּ: טָבֵית אָמַר, וּבִטְּלוּהָ.
+> **Translation:** Once **again** Rabbi Reuven ben Isterobeli **spoke to them** and said: **One who has an enemy,** does he want his enemy **to multiply or to decrease? They said to him:** He wants his enemy **to decrease.** Rabbi Reuven ben Isterobeli **said to them: If so,** with regard to the Jewish people as well, isn’t it better that they **do not engage in intercourse with** their wives when they are **menstruating?** The gentiles **said:** That is **a good** claim that **he said, and they nullified** their decree.
 
 The *Gemara* now provides the backstory that explains why these sages found themselves in Rome in the first place. *She-pa'am achat gazrah ha-malkhut gezeirah she-lo yishmeru et ha-Shabbat* — at one point the Roman government issued edicts against *Shabbat* observance, *bris milah*, and *taharat ha-mishpacha*. These three practices — *Shabbat*, *milah*, and family purity — represented the central markers of Jewish identity and communal distinctiveness.
 
@@ -138,8 +145,7 @@ On *taharat ha-mishpacha*: who wants an enemy to be few in number? The Romans. T
 
 ### Decrees Reinstated
 
-> **Hebrew/Aramaic:** הִכִּירוּ בּוֹ שֶׁהוּא יְהוּדִי, הֶחֱזִירוּם. אָמְרוּ: מִי יֵלֵךְ וִיבַטֵּל הַגְּזֵרוֹת?
->
+> **Hebrew/Aramaic:** הִכִּירוּ בּוֹ שֶׁהוּא יְהוּדִי, הֶחֱזִירוּם. אָמְרוּ: מִי יֵלֵךְ וִיבַטֵּל הַגְּזֵרוֹת?
 > **Translation:** A short time later **they recognized that** Rabbi Reuven ben Isterobeli **was a Jew,** and they realized that he had fooled them to the advantage of the Jewish people. They therefore arose and **reinstated** all of their decrees. The Sages then **said: Who will go and nullify** these **decrees?**
 
 Having successfully overturned all three decrees, Reuven ben Astrubli pressed too far. The Romans ultimately recognized that he was Jewish — and realized that he had manipulated them into dismantling all three edicts in the name of Roman strategic interest. They reinstated all of the *gezeirot*. The lesson is a straightforward one: do not overplay one's hand.
@@ -148,11 +154,13 @@ Having successfully overturned all three decrees, Reuven ben Astrubli pressed to
 
 ## Sending to Rome
 
+
+
+[DAF:17b]
 ### R. Yosi's Concern
 
-> **Hebrew/Aramaic:** יֵלֵךְ רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי, שֶׁהוּא מְלוּמָּד בְּנִסִּים. וְאַחֲרָיו מִי יֵלֵךְ? רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי. אָמַר לָהֶם רַבִּי יוֹסֵי: וְאִילּוּ הָיָה אַבָּא חֲלַפְתָּא קַיָּים, יְכוֹלִין אַתֶּם לוֹמַר לוֹ: תֵּן בִּנְךָ לַהֲרִיגָה? אָמַר לָהֶם ר׳ שִׁמְעוֹן: אִילּוּ הָיָה יוֹחַאי אַבָּא קַיָּים, יְכוֹלִין אַתֶּם לוֹמַר לוֹ: תֵּן בִּנְךָ לַהֲרִיגָה?
->
-> **Translation:** When **Rabbi Yosei,** Rabbi Elazar's father, heard this suggestion, he **said to** the Sages: **But if Abba Ḥalafta,** my father, **were alive,** would **you be able to say to him: Give your son to be killed?** If so, how can you ask me to send my son to Rome, where he is likely to be killed? **Rabbi Shimon said to** the Sages: **If Yoḥai,** my **father, were alive,** would **you be able to say to him: Give your son to be killed?** Nevertheless, I am prepared to risk my life and go to Rome, and if so, Rabbi Elazar bar Rabbi Yosei should accompany me.
+> **Hebrew/Aramaic:** יֵלֵךְ רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי, שֶׁהוּא מְלוּמָּד בְּנִסִּים. וְאַחֲרָיו מִי יֵלֵךְ? רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי.
+> **Translation:** Let **Rabbi Shimon ben Yoḥai go** to Rome, **as he is accustomed to** experiencing **miracles. And who shall go after him,** i.e., with him? **Rabbi Elazar bar Rabbi Yosei.**
 
 With the decrees reinstated and the first mission failed, the *rabbanim* deliberated about who should undertake a new effort. The consensus was that Rabbi Shimon bar Yochai should go — *she-melumad b'nissin*, because miracles tend to occur in his presence, as the episode of the cave makes plain. A companion was also needed, and Rabbi Elazar bar Rabbi Yosi was proposed.
 
@@ -160,8 +168,10 @@ Rabbi Yosi — Rabbi Elazar's father — objected, offering to go himself in his
 
 ### R. Shimon's Oath
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ רַבִּי יוֹסֵי: אֲנָא אָזְלִין, דִּלְמָא עָנֵישׁ לֵיהּ רַבִּי שִׁמְעוֹן, דְּקָא מִסְתְּפֵינָא. קַבֵּיל עֲלֵיהּ דְּלָא לִיעְנְשֵׁיהּ. אֲפִילּוּ הָכִי, עַנְשֵׁיהּ.
->
+> **Hebrew/Aramaic:** אָמַר לָהֶם רַבִּי יוֹסֵי: וְאִילּוּ הָיָה אַבָּא חֲלַפְתָּא קַיָּים, יְכוֹלִין אַתֶּם לוֹמַר לוֹ: תֵּן בִּנְךָ לַהֲרִיגָה? אָמַר לָהֶם ר׳ שִׁמְעוֹן: אִילּוּ הָיָה יוֹחַאי אַבָּא קַיָּים, יְכוֹלִין אַתֶּם לוֹמַר לוֹ: תֵּן בִּנְךָ לַהֲרִיגָה?
+> **Translation:** When **Rabbi Yosei,** Rabbi Elazar’s father, heard this suggestion, he **said to** the Sages: **But if Abba Ḥalafta,** my father, **were alive,** would **you be able to say to him: Give your son to be killed?** If so, how can you ask me to send my son to Rome, where he is likely to be killed? **Rabbi Shimon said to** the Sages: **If Yoḥai,** my **father, were alive,** would **you be able to say to him: Give your son to be killed?** Nevertheless, I am prepared to risk my life and go to Rome, and if so, Rabbi Elazar bar Rabbi Yosei should accompany me.
+
+> **Hebrew/Aramaic:** אֲמַר לְהוּ רַבִּי יוֹסֵי: אֲנָא אָזְלִין, דִּלְמָא עָנֵישׁ לֵיהּ רַבִּי שִׁמְעוֹן, דְּקָא מִסְתְּפֵינָא. קַבֵּיל עֲלֵיהּ דְּלָא לִיעְנְשֵׁיהּ. אֲפִילּוּ הָכִי, עַנְשֵׁיהּ.
 > **Translation:** Upon hearing this, **Rabbi Yosei said to** the Sages: If so, **I will go** in place of my son. I do not want him to go with Rabbi Shimon ben Yoḥai, **as** this is what **I fear:** My son Elazar is young and quick to answer, and I am concerned **lest Rabbi Shimon,** who is hot-tempered, will become angry with him and **punish** him. Rabbi Shimon **accepted upon himself that he would not punish** Rabbi Elazar. The Gemara notes that **even so,** Rabbi Shimon did **punish him** while they were on their journey.
 
 Rabbi Shimon responded with a symmetrical argument: would Rabbi Yosi have been willing to ask Rabbi Shimon's own father, Yochai, to send his son to be killed? He too was taking a risk. Nevertheless, to allay Rabbi Yosi's concerns, Rabbi Shimon accepted upon himself not to harm Rabbi Elazar bar Rabbi Yosi — and according to the *Yerushalmi*, cited by Tosafot, Rabbi Shimon actually made a formal *neder* to that effect. As the narrative will reveal, this *neder* ultimately slipped his mind.
@@ -170,11 +180,12 @@ Rabbi Shimon responded with a symmetrical argument: would Rabbi Yosi have been w
 
 ## Journey Misstep
 
+
+
 ### Dam HaSheretz Question
 
-> **Hebrew/Aramaic:** כְּשֶׁהָיוּ מְהַלְּכִין בַּדֶּרֶךְ, נִשְׁאֲלָה שְׁאֵלָה זוֹ בִּפְנֵיהֶם: מִנַּיִן לְדַם הַשֶּׁרֶץ שֶׁהוּא טָמֵא? עִקֵּם פִּיו רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי, וְאָמַר: ״וְזֶה לָכֶם הַטָּמֵא״. אֲמַר לֵיהּ רַבִּי שִׁמְעוֹן: מֵעֲקִימַת שְׂפָתֶיךָ אַתָּה נִיכָּר שֶׁתַּלְמִיד חָכָם אַתָּה, אַל יַחְזוֹר הַבֵּן אֵצֶל אָבִיו.
->
-> **Translation:** Why did Rabbi Shimon end up punishing Rabbi Elazar? **When they were walking on the road, this** following **question was asked before them: From where** is it derived **with regard to blood of a creeping animal that it is impure? Rabbi Elazar bar Rabbi Yosei twisted his mouth** to whisper **and said:** It is derived from the verse: **"And these are they that are impure** for you among the creeping animals" (Leviticus 11:29). Although Rabbi Elazar tried to whisper so that Rabbi Shimon would not hear, **Rabbi Shimon said to him: From the twisting of your mouth** and your answer **it is clear** that **you are a Torah scholar.** Nevertheless, it is prohibited for a student to issue a ruling of *halakha* in the presence of his teacher. Therefore, I curse you that **the son will not return** from this journey **to his father.**
+> **Hebrew/Aramaic:** כְּשֶׁהָיוּ מְהַלְּכִין בַּדֶּרֶךְ, נִשְׁאֲלָה שְׁאֵלָה זוֹ בִּפְנֵיהֶם: מִנַּיִן לְדַם הַשֶּׁרֶץ שֶׁהוּא טָמֵא? עִקֵּם פִּיו רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי, וְאָמַר: ״וְזֶה לָכֶם הַטָּמֵא״. אֲמַר לֵיהּ רַבִּי שִׁמְעוֹן: מֵעֲקִימַת שְׂפָתֶיךָ אַתָּה נִיכָּר שֶׁתַּלְמִיד חָכָם אַתָּה, אַל יַחְזוֹר הַבֵּן אֵצֶל אָבִיו.
+> **Translation:** Why did Rabbi Shimon end up punishing Rabbi Elazar? **When they were walking on the road, this** following **question was asked before them: From where** is it derived **with regard to blood of a creeping animal that it is impure? Rabbi Elazar bar Rabbi Yosei twisted his mouth** to whisper **and said:** It is derived from the verse: **“And these are they that are impure** for you among the creeping animals” (Leviticus 11:29). Although Rabbi Elazar tried to whisper so that Rabbi Shimon would not hear, **Rabbi Shimon said to him: From the twisting of your mouth** and your answer **it is clear** that **you are a Torah scholar.** Nevertheless, it is prohibited for a student to issue a ruling of *halakha* in the presence of his teacher. Therefore, I curse you that **the son will not return** from this journey **to his father.**
 
 On the journey to Rome, the travelers fell into *Torah* discussion as was natural on a long road. The very question that opened the narrative in Rome — *minayin ledam hasheretz shehu tamei*, how do we know that the blood of a *sheretz* is *tamei* — was raised among them. Rabbi Elazar bar Rabbi Yosi *ikam piv* — he turned his mouth, or, as Tosafot explains, *miher lehashiv*, he rushed to answer. The description captures something slightly irregular about his response — he answered quickly, or perhaps in a way that was not entirely straightforward, speaking up before Rabbi Shimon bar Yochai had a chance to respond. He cited the same verse: *ve-zeh lachem ha-tamei*.
 
@@ -186,15 +197,13 @@ This was a terrible declaration. According to the *Yerushalmi*, referenced by To
 
 ### Recovery & Healing
 
-> **Hebrew/Aramaic:** יָצָא לִקְרָאתוֹ בֶּן תְּמַלְיוֹן: רְצוֹנְכֶם אָבוֹא עִמָּכֶם? בָּכָה רַבִּי שִׁמְעוֹן וְאָמַר: מַה שִּׁפְחָה שֶׁל בֵּית אַבָּא, נִזְדַּמֵּן לָהּ מַלְאָךְ שָׁלֹשׁ פְּעָמִים. וַאֲנִי, לֹא פַּעַם אַחַת? יָבֹא הַנֵּס מִכׇּל מָקוֹם.
->
-> **Translation:** The Gemara continues the story: As they were journeying, a demon named **ben Temalyon emerged to greet them.** He said to them: Do **you wish** that **I** will join you and **come with you** in order to help nullify this decree? When he saw that a demon was coming to help save the Jewish people, **Rabbi Shimon cried and said: What,** even for **a maidservant of** my **father's home,** Hagar the Egyptian, who was Abraham's handmaid, **an angel was made available** to appear **to her three times** to help her. Each of the three mentions of "and the angel of the Lord said unto her" (Genesis 16:9–11) in the story of Hagar is understood as a reference to a different angel. **But I** apparently do **not** deserve assistance from an angel even **one time,** but only help from a demon. **In any case, let the miracle come** and save the Jewish people, even if only through a demon.
-
-Subsequently, Rabbi Shimon recalled his *neder* not to harm Rabbi Yosi's son. Upon remembering it, *chazar ve-hitpallel alav ve-nitrapa* — he returned and prayed on his behalf, and Rabbi Elazar recovered. The full arc of the episode, however, reflects poorly on Rabbi Shimon bar Yochai. He cursed a young *talmid chacham* for the offense of answering a question too eagerly in his presence, violating his own sworn commitment, and required Divine intervention — through his own prayer — to undo the harm he caused. The *Gemara* does not editorialize, but the parallel with the opening exchange is unmistakable: there, too, a question about *dam hasheretz* was raised in a collegial setting, and Rabbi Shimon bar Yochai's knowledge on that very point was questioned. The irony is pointed and, one suspects, deliberate.
+Subsequently, Rabbi Shimon recalled his *neder* not to harm Rabbi Yosi's son. Upon remembering it, *chazar ve-nitpallel alav ve-nitrapa* — he returned and prayed on his behalf, and Rabbi Elazar recovered. The full arc of the episode, however, reflects poorly on Rabbi Shimon bar Yochai. He cursed a young *talmid chacham* for the offense of answering a question too eagerly in his presence, violating his own sworn commitment, and required Divine intervention — through his own prayer — to undo the harm he caused. The *Gemara* does not editorialize, but the parallel with the opening exchange is unmistakable: there, too, a question about *dam hasheretz* was raised in a collegial setting, and Rabbi Shimon bar Yochai's knowledge on that very point was questioned. The irony is pointed and, one suspects, deliberate.
 
 ---
 
 ## Ben Tamlayon Miracle
+
+
 
 ### Ben Tamlayon Offers Help
 
@@ -202,13 +211,15 @@ The party continued to Rome and, before reaching their destination, a figure app
 
 ### Demon vs. Angel
 
+> **Hebrew/Aramaic:** יָצָא לִקְרָאתוֹ בֶּן תְּמַלְיוֹן: רְצוֹנְכֶם אָבוֹא עִמָּכֶם? בָּכָה רַבִּי שִׁמְעוֹן וְאָמַר: מַה שִּׁפְחָה שֶׁל בֵּית אַבָּא, נִזְדַּמֵּן לָהּ מַלְאָךְ שָׁלֹשׁ פְּעָמִים. וַאֲנִי, לֹא פַּעַם אַחַת? יָבֹא הַנֵּס מִכׇּל מָקוֹם.
+> **Translation:** The Gemara continues the story: As they were journeying, a demon named **ben Temalyon emerged to greet them.** He said to them: Do **you wish** that **I** will join you and **come with you** in order to help nullify this decree? When he saw that a demon was coming to help save the Jewish people, **Rabbi Shimon cried and said: What,** even for **a maidservant of** my **father’s home,** Hagar the Egyptian, who was Abraham’s handmaid, **an angel was made available** to appear **to her three times** to help her. Each of the three mentions of “and the angel of the Lord said unto her” (Genesis 16:9–11) in the story of Hagar is understood as a reference to a different angel. **But I** apparently do **not** deserve assistance from an angel even **one time,** but only help from a demon. **In any case, let the miracle come** and save the Jewish people, even if only through a demon.
+
 Rabbi Shimon bar Yochai wept at this. He said: *mah shifchah shel beis aba nizdamen lah malach shalosh pe'amim, va'ani lo pa'am achat* — the maidservant of my father's house, meaning Hagar, merited that an angel appeared to her three times — each instance of *vayomer lah malach Hashem* being interpreted by the *Sages* as a distinct angelic appearance — and yet I cannot receive even one angel; I am offered only this demon. Even here, at what should be a moment of providential assistance, Rabbi Shimon bar Yochai is preoccupied with his own *kavod* and the question of what he deserves. Nevertheless, he acquiesced: *yavo hanes mikol makom* — let the miracle come however it must come.
 
 ### Possession & Exorcism
 
-> **Hebrew/Aramaic:** קְדֵים הוּא, עַל בִּבְרַתֵּיהּ דְּקֵיסָר. כִּי מְטָא הָתָם, אָמַר: בֶּן תְּמַלְיוֹן, צֵא! בֶּן תְּמַלְיוֹן, צֵא! וְכֵיוָן דִּקְרוֹ לֵיהּ, נְפַק אֲזַל. אֲמַר לְהוֹן: שְׁאִילוּ כׇּל מָה דְּאִית לְכוֹן לְמִישְׁאַל. וְעַיְּילִינְהוּ לְגִנְזֵיהּ לִשְׁקוֹל כֹּל דְּבָעוּ. אַשְׁכַּחוּ הָהוּא אִיגְּרָא, שַׁקְלוּהָ וּקְרָעוּהָ.
->
-> **Translation:** The demon ben Temalyon went **before** them and **ascended into the emperor's daughter** and possessed her. **When** Rabbi Shimon ben Yoḥai **arrived there,** the emperor's palace, **he said: Ben Temalyon, emerge! Ben Temalyon, emerge! And once** Rabbi Shimon **called** to **him,** ben Temalyon **emerged and left** the emperor's daughter, and she was cured. When the emperor saw that Rabbi Shimon had cured his daughter, **he said to them: Ask** from me **any** reward **that you want to ask. And he took them up to his treasury to take whatever they wanted. They found that letter** there that contained the decrees against the Jewish people, and **they took it and tore it** up, and thereby nullified the decrees.
+> **Hebrew/Aramaic:** קְדֵים הוּא, עַל בִּבְרַתֵּיהּ דְּקֵיסָר. כִּי מְטָא הָתָם, אָמַר: בֶּן תְּמַלְיוֹן, צֵא! בֶּן תְּמַלְיוֹן, צֵא! וְכֵיוָן דִּקְרוֹ לֵיהּ, נְפַק אֲזַל. אֲמַר לְהוֹן: שְׁאִילוּ כׇּל מָה דְּאִית לְכוֹן לְמִישְׁאַל. וְעַיְּילִינְהוּ לְגִנְזֵיהּ לִשְׁקוֹל כֹּל דְּבָעוּ. אַשְׁכַּחוּ הָהוּא אִיגְּרָא, שַׁקְלוּהָ וּקְרָעוּהָ.
+> **Translation:** The demon ben Temalyon went **before** them and **ascended into the emperor’s daughter** and possessed her. **When** Rabbi Shimon ben Yoḥai **arrived there,** the emperor’s palace, **he said: Ben Temalyon, emerge! Ben Temalyon, emerge! And once** Rabbi Shimon **called** to **him,** ben Temalyon **emerged and left** the emperor’s daughter, and she was cured. When the emperor saw that Rabbi Shimon had cured his daughter, **he said to them: Ask** from me **any** reward **that you want to ask. And he took them up to his treasury to take whatever they wanted. They found that letter** there that contained the decrees against the Jewish people, and **they took it and tore it** up, and thereby nullified the decrees.
 
 *Ben Tamlayon* went ahead and took possession of the daughter of the Caesar. When Rabbi Shimon bar Yochai arrived in Rome, the situation had been arranged so that his presence was specifically sought — *ben Yochai* was called for to remedy the affliction. Upon arriving, Rabbi Shimon pronounced the words of exorcism: *ben Tamlayon tzei* — and upon being called by name, the demon departed.
 
@@ -220,10 +231,11 @@ With the Caesar's gratitude secured, he said to Rabbi Shimon and his companion: 
 
 ## Parochet Testimony
 
+
+
 ### Parochet Sighting
 
-> **Hebrew/Aramaic:** וְהַיְינוּ דְּאָמַר רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי: אֲנִי רְאִיתִיהָ בָּעִיר רוֹמִי, וַהֲווֹ עָלֶיהָ כַּמָּה טִיפֵּי דָמִים.
->
+> **Hebrew/Aramaic:** וְהַיְינוּ דְּאָמַר רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי: אֲנִי רְאִיתִיהָ בָּעִיר רוֹמִי, וַהֲווֹ עָלֶיהָ כַּמָּה טִיפֵּי דָמִים.
 > **Translation:** The Gemara adds: **And this is** the background for that **which Rabbi Elazar bar Rabbi Yosei said** (*Yoma* 57a): **I saw** the Curtain of the Sanctuary **in the city of Rome, and on** the Curtain **were several drops of blood** from the bull and the goat of Yom Kippur. When the emperor took them into his treasury Rabbi Elazar saw the Temple vessels that the Romans had captured when they conquered Jerusalem, including the Curtain.
 
 The *Gemara* concludes by tying in another statement of Rabbi Elazar bar Rabbi Yosi — and this is how his name becomes attached to the tradition about *dam hasheretz* in the first place. He testifies: *ani re'isiha be-Ir Romi* — I saw it in the city of Rome — referring to the *parochet*, the great curtain of the *Beis HaMikdash*, the one upon which the High Priest would perform the blood-sprinkling rite on *Yom Kippur* as described in *parashat Acharei Mos*. *Vehavu alei kama tipu damim* — and upon it there were drops of blood, remnants of that very service. He saw this curtain when they were brought into the Caesar's treasure house. The connection to the current *parasha* is evident: those drops of blood on the *parochet*, still visible in the Roman imperial storehouse long after the *Churban*, were the physical trace of the *avodah* described at the heart of *Acharei Mos*.

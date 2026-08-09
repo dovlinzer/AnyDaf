@@ -24,8 +24,8 @@
           "timestamp": "01:17"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Petach with Yom Tov and Shabbat: Mishna 66a Opening",
@@ -43,7 +43,7 @@
           "timestamp": "02:36"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -72,7 +72,7 @@
           "timestamp": "04:52"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -116,7 +116,7 @@
           "timestamp": "09:39"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -130,8 +130,8 @@
           "timestamp": "10:10"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Wine and Onion Cases: Ta'ut and Huter Miktzato",
@@ -164,8 +164,8 @@
           "timestamp": "13:27"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Independent Nedarim: Konam La'Zeh, Konam La'Zeh and the Necessity of Repeating the Formula (continued)",
@@ -183,7 +183,7 @@
           "timestamp": "17:37"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -328,7 +328,7 @@
           "timestamp": "49:29"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 16,
       "matched": true
     }
   ],
@@ -519,5 +519,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "26:43",
+  "amud_b_micro_title": "Gold Tooth",
+  "shiur_start_daf": 65,
+  "shiur_start_amud": "b"
 }

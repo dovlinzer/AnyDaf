@@ -1,0 +1,238 @@
+[
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Woman Cannot Testify",
+    "candidates": [
+      "Single Witness Yibum",
+      "Two Explanations",
+      "Tosafot's Concern",
+      "Overwritten Testimony",
+      "Critical Question",
+      "Woman's Testimony",
+      "Hatred vs Love",
+      "Trapped Marriage",
+      "Woman Cannot Testify",
+      "Two vs One Witness",
+      "Eidei Hazama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All three items are precisely the content described in heading 8's prose: Rav Sheshet citing the Mishnah about reversed order of deaths, the mamzer ruling, and the Gemara's analysis of why the case must involve eid echad vs. two witnesses rather than two vs. two.",
+      "chosen_heading": "Woman Cannot Testify",
+      "current_heading": "Woman Cannot Testify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Eidei Hazama",
+    "candidates": [
+      "Two vs One Witness",
+      "Eidei Hazama",
+      "Trapped Status",
+      "Man Not Trapped"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are directly about the eidei hazama resolution \u2014 item 1 introduces Rav A\u1e25a bar Manyumi's eidei hazama interpretation and item 2 concludes it, exactly matching the prose of candidate 1 which explains how the second witnesses function as eidei hazama to collapse the proof about eid echad.",
+      "chosen_heading": "Eidei Hazama",
+      "current_heading": "Eidei Hazama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Man Not Trapped",
+    "candidates": [
+      "Trapped Status",
+      "Man Not Trapped",
+      "Kal Vachomer",
+      "Objection to Rava",
+      "No Due Diligence",
+      "Witness Bolstered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara exchange: item 1 attempts to prove eid echad is believed from the woman-not-believed Mishnah, item 2 refutes this by noting the parallel man-not-believed clause undermines the inference (since mishum igguna applies only to women), and item 3 explains why the Mishnah needed to state the ruling about the woman even according to Rabbi Akiva \u2014 all of which exactly matches the 'Man Not Trapped' section's prose about why the leniency for eid echad targets the woman's trapped situation and the Rabbi Akiva/mamzer consideration.",
+      "chosen_heading": "Man Not Trapped",
+      "current_heading": "Man Not Trapped",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Witness Bolstered",
+    "candidates": [
+      "Kal Vachomer",
+      "Objection to Rava",
+      "No Due Diligence",
+      "Witness Bolstered",
+      "Husband Reappears",
+      "Grushah Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the objection to Rava's kal vachomer and its immediate follow-up explanation \u2014 item 1 is the counter-argument (she herself proves the kal vachomer fails) and item 2 is the explanation of why she is not believed about the yavam, which is the very content heading 1 ('Objection to Rava') describes, not heading 3 ('Witness Bolstered') which discusses the downstream implication for eid echad.",
+      "chosen_heading": "Objection to Rava",
+      "current_heading": "Witness Bolstered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Grushah Drasha",
+    "candidates": [
+      "Husband Reappears",
+      "Grushah Drasha",
+      "Sister Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda's 'pearl vs. earthenware shard' critique of Rabbi Elazar's drasha and the baraita explaining what the pearl would have been (reiach ha-get) \u2014 are precisely the content described in the 'Grushah Drasha' prose, which is the current placement.",
+      "chosen_heading": "Grushah Drasha",
+      "current_heading": "Grushah Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Sister Marriage",
+    "candidates": [
+      "Sister Marriage",
+      "Wife Actually Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Mishnah about the man who married his wife's sister based on false report of her death, covering exactly the rules discussed in candidate 0's prose: the wife's permission to return, the second woman's status, and the permitted relationships \u2014 all before the 'Wife Actually Dies' scenario of candidate 1.",
+      "chosen_heading": "Sister Marriage",
+      "current_heading": "Sister Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Wife Actually Dies",
+    "candidates": [
+      "Wife Actually Dies",
+      "Rabbi Yosi",
+      "Both Dead Reports",
+      "Irony Unveiled",
+      "Marriage Reality",
+      "Wife Consequence",
+      "Baraita Proof",
+      "Akiva Adds Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case where the man is told his wife died, marries her sister, then learns his wife was actually alive and has since died \u2014 with the ruling that the first child is a mamzer and the last is not, plus Rabbi Yosei's principle \u2014 which matches exactly the prose of heading 0 ('Wife Actually Dies').",
+      "chosen_heading": "Wife Actually Dies",
+      "current_heading": "Wife Actually Dies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Akiva Adds Cases",
+    "candidates": [
+      "Rabbi Yosi",
+      "Both Dead Reports",
+      "Irony Unveiled",
+      "Marriage Reality",
+      "Wife Consequence",
+      "Baraita Proof",
+      "Akiva Adds Cases",
+      "Only Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Items 1-3 discuss the ruling that Rachel remains permitted to Reuven even though Leah is forbidden to Baruch, then raise Rabbi Akiva's challenge that Leah needing a get makes Rachel the 'sister of his divorc\u00e9e' \u2014 which is precisely what candidate 4 ('Wife Consequence') describes: the Gemara raising Rabbi Akiva's position as a challenge to the Mishnah's ruling that Rachel remains permitted.",
+      "chosen_heading": "Wife Consequence",
+      "current_heading": "Akiva Adds Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Only Kiddushin",
+    "candidates": [
+      "Akiva Adds Cases",
+      "Only Kiddushin",
+      "Tnai Logic",
+      "Sister Kiddushin",
+      "After Nisuin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case Rav Giddel/Rav \u1e24iyya bar Yosef/Rav specifies \u2014 brother did only kiddushin, went overseas, man heard he died and married her \u2014 which is precisely what the 'Only Kiddushin' prose section discusses, and the tnai reasoning embedded in the quote is separately elaborated in the next section ('Tnai Logic'), but the primary content of this Gemara passage matches 'Only Kiddushin.'",
+      "chosen_heading": "Only Kiddushin",
+      "current_heading": "Only Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "After Nisuin",
+    "candidates": [
+      "Tnai Logic",
+      "Sister Kiddushin",
+      "After Nisuin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the wife's sister case with kiddushin (betrothal without nisuin), explaining the tenai logic as it applies to that specific scenario, which matches the 'Sister Kiddushin' prose exactly, not the 'After Nisuin' section where it currently sits.",
+      "chosen_heading": "Sister Kiddushin",
+      "current_heading": "After Nisuin",
+      "moved": true
+    }
+  }
+]

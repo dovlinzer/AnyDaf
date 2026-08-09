@@ -1,0 +1,237 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rabbi's Five-Judge View",
+    "candidates": [
+      "Rabbi's Five-Judge View",
+      "Rabbis' Three-Judge View",
+      "Rabbi Abba's Challenge",
+      "Sanhedrin: Fixed Number",
+      "All Tannaim: Text Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with Rabbi Yehuda HaNasi's five-judge view and its derivation \u2014 the baraita stating Rabbi's position, Rabbi Abbahu's reductio, the resolution about fixed court composition, Rabbi's actual gezera shava derivation from 'yarshi'un Elohim,' and the Rabbis' response about the defective spelling \u2014 all of which are explicitly discussed in the prose of heading 0.",
+      "chosen_heading": "Rabbi's Five-Judge View",
+      "current_heading": "Rabbi's Five-Judge View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "All Tannaim: Text Reading",
+    "candidates": [
+      "Rabbis' Three-Judge View",
+      "Rabbi Abba's Challenge",
+      "Sanhedrin: Fixed Number",
+      "All Tannaim: Text Reading",
+      "Yehuda ben Roeitz Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly introduce Rabbi Yochanan's sweeping statement that Rabbi, Rabbi Yehuda ben Roeitz, Beit Shammai, Rabbi Shimon, and Rabbi Akiva all hold 'yesh eim lamikra,' which is precisely what the prose of candidate 3 ('All Tannaim: Text Reading') describes as the gemara's pivot to the broader question of mikra vs. mesoret.",
+      "chosen_heading": "All Tannaim: Text Reading",
+      "current_heading": "All Tannaim: Text Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Yehuda ben Roeitz Story",
+    "candidates": [
+      "Yehuda ben Roeitz Story",
+      "The Principle Explained",
+      "Shammai's Blood Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous baraita about Rabbi Yehuda ben Roetz \u2014 the students' question, his proof, and his follow-up remark about yesh eim lamikra \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Yehuda ben Roeitz Story",
+      "current_heading": "Yehuda ben Roeitz Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Shammai's Blood Analysis",
+    "candidates": [
+      "The Principle Explained",
+      "Shammai's Blood Analysis",
+      "Hillel's Written Form",
+      "Standard Ruling",
+      "Rabbi Shimon's Position",
+      "Gemara's Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the continuous Talmudic passage about Beit Shammai and Beit Hillel's dispute over blood presentations on the altar's horns, which is exactly what the prose under 'Shammai's Blood Analysis' (index 1) and 'Hillel's Written Form' (index 2) describe \u2014 but since items 1-2 belong to Beit Shammai's analysis and items 3-4 to Beit Hillel's, and the current placement is index 1 which covers the full mishna and Rav Huna's derivation for Beit Shammai, while index 2 covers Beit Hillel, the passage as a whole unit most naturally sits under index 1 where it currently is, as these are all one continuous sugya.",
+      "chosen_heading": "Shammai's Blood Analysis",
+      "current_heading": "Shammai's Blood Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Gemara's Analysis",
+    "candidates": [
+      "Hillel's Written Form",
+      "Standard Ruling",
+      "Rabbi Shimon's Position",
+      "Gemara's Analysis",
+      "Mikra vs. Mesoret Debate",
+      "Rabbi Akiva's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit explaining the Rabbanan/Rabbi Shimon dispute over sukkah walls via yesh eim lamesoret vs. yesh eim lamikra, which is precisely what heading 3 ('Gemara's Analysis') describes in its prose.",
+      "chosen_heading": "Gemara's Analysis",
+      "current_heading": "Gemara's Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Rabbi Akiva's Reading",
+    "candidates": [
+      "Mikra vs. Mesoret Debate",
+      "Rabbi Akiva's Reading",
+      "Rabbis' Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Akiva's Reading",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Rabbi Akiva baraita and the Rabbis' response about nafshot/nafshat, which is precisely what candidates 1 and 2 discuss \u2014 both items 1's content (Rabbi Akiva's derivation) and the Rabbis' rebuttal (nafshat ketiv) are already covered by the current placement under 'Rabbi Akiva's Reading' and candidate 2 'Rabbis' Response', and item 1 spans both; since item 1 ends with the Rabbis' response, it belongs under the heading that covers both, which is the current placement.",
+      "second_heading": "Mikra vs. Mesoret Debate",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 introduces Rav A\u1e25a bar Ya'akov's objection to Rabbi Yo\u1e25anan's framing of all disputes as mikra vs. mesoret, which is a new dialectical move challenging the overarching hermeneutic framework discussed in candidate 0 'Mikra vs. Mesoret Debate'.",
+      "current_heading": "Rabbi Akiva's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rabbis' Response",
+    "candidates": [
+      "Rabbis' Response",
+      "Rav Acha's Objection",
+      "Consensus on Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage invokes 'yesh eim lamikra' to establish the milk-based prohibition of basar b'chalav from 'lo tevashel gedi b'chalav imo,' which is precisely the beraisa example described in Rav Acha's Objection prose.",
+      "chosen_heading": "Rav Acha's Objection",
+      "current_heading": "Rabbis' Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Consensus on Reading",
+    "candidates": [
+      "Rav Acha's Objection",
+      "Consensus on Reading",
+      "Divergence Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All ten items correspond precisely to what the 'Consensus on Reading' prose describes: the gemara's revisiting of each Tannaitic dispute (Rabbi vs. Rabbis on yarshi'un, Rabbi Yehuda ben Roetz, Beit Hillel's ve-chiper drasha with its logical inference, Rabbi Shimon vs. Rabbis on sukkah walls, and Rabbi Akiva vs. Rabbis on nefashot) to show they are not actually about yesh eim lamikra vs. yesh eim lamesoret.",
+      "chosen_heading": "Consensus on Reading",
+      "current_heading": "Consensus on Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Divergence Required",
+    "candidates": [
+      "Divergence Required",
+      "Yira'eh Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's movement from the totafot baraita challenge (items 1-2) to the final resolution that the yesh eim lamikra/lamesoret dispute only applies where spelling diverges from reading, but chalav/chelev are identical in writing so all agree on vocalization (item 3) \u2014 exactly what the 'Divergence Required' prose describes.",
+      "chosen_heading": "Divergence Required",
+      "current_heading": "Divergence Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Yira'eh Example",
+    "candidates": [
+      "Yira'eh Example",
+      "Chalav Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about one blind in one eye being exempt from appearance, which is exactly what the 'Yira'eh Example' prose describes and analyzes.",
+      "chosen_heading": "Yira'eh Example",
+      "current_heading": "Yira'eh Example",
+      "moved": false
+    }
+  }
+]

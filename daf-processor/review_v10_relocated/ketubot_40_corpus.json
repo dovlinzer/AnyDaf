@@ -1,0 +1,372 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rabbi Zeira's Response",
+    "candidates": [
+      "Mishnah Overview",
+      "Abaye's Challenge",
+      "Rabbi Zeira's Response",
+      "Slave Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's initial challenge (can fifty sela cover everything?) and Abaye's slave analogy rebuttal \u2014 exactly what candidate 1 ('Abaye's Challenge') describes: the foundational question of whether fifty shekel was meant to be comprehensive, illustrated by the bat melachim/bat hedyot contrast, and Abaye's counter-analogy about the slave whose value doesn't affect the fixed thirty-shekel payment.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Rabbi Zeira's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Slave Analogy",
+    "candidates": [
+      "Rabbi Zeira's Response",
+      "Slave Analogy",
+      "Scriptural Proof",
+      "Rava's Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Zeira's argument about two men violating the same woman (one natural, one unnatural) and Abaye's immediate counter-analogy about the slave \u2014 both of which are described in candidate 0's prose as Rabbi Zeira's reframing and the initial response, making candidate 0 the correct home rather than candidate 1 which describes Abaye's slave analogy as a standalone section.",
+      "chosen_heading": "Rabbi Zeira's Response",
+      "current_heading": "Slave Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rava's Derivation",
+    "candidates": [
+      "Scriptural Proof",
+      "Rava's Derivation",
+      "Question of Recipient",
+      "Seduction Objection",
+      "Shevach Neurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's derivation (from 'tachat asher inah') and Rava's derivation in a single Talmudic unit, and the prose under 'Scriptural Proof' (index 0) explicitly discusses Abaye's proof while also anticipating Rava's conclusion, making it the better home for the complete passage rather than splitting it under 'Rava's Derivation' alone.",
+      "chosen_heading": "Scriptural Proof",
+      "current_heading": "Rava's Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Shevach Neurim",
+    "candidates": [
+      "Question of Recipient",
+      "Seduction Objection",
+      "Shevach Neurim",
+      "Earnings to Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly answers the question of who receives boshet and pegam payments (to her vs. to her father), which is precisely what the 'Question of Recipient' section's prose describes \u2014 the verse is cited as the answer to that recipient question, not as part of the shevach neurim derivation discussion.",
+      "chosen_heading": "Question of Recipient",
+      "current_heading": "Shevach Neurim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Earnings to Father",
+    "candidates": [
+      "Shevach Neurim",
+      "Earnings to Father",
+      "Vows Verse Objection",
+      "Monetary vs. Ritual",
+      "Fines Cannot Establish",
+      "Father's Control Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically addresses how the necessity of the slave-sale derivation for a daughter's earnings proves that 'b'neureha beit aviha' cannot serve as a general principle \u2014 which is precisely what the 'Vows Verse Objection' section discusses.",
+      "chosen_heading": "Vows Verse Objection",
+      "current_heading": "Earnings to Father",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Father's Control Reason",
+    "candidates": [
+      "Vows Verse Objection",
+      "Monetary vs. Ritual",
+      "Fines Cannot Establish",
+      "Father's Control Reason",
+      "Virgin vs. Non-Virgin"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Virgin vs. Non-Virgin",
+    "candidates": [
+      "Virgin vs. Non-Virgin",
+      "Marriage to Slave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial formulation of pegam assessment via the virgin vs. non-virgin maidservant comparison, which is exactly what heading 0's prose describes, before the gemara's challenge and revision addressed in heading 1.",
+      "chosen_heading": "Virgin vs. Non-Virgin",
+      "current_heading": "Virgin vs. Non-Virgin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Marriage to Slave",
+    "candidates": [
+      "Marriage to Slave",
+      "Tosafot's Objection",
+      "Tosafot's Solution",
+      "Rabbi Meir's Position",
+      "Mishnaic Enumeration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's challenge about why a buyer would care about a maidservant's virginity for domestic service, then revises to the scenario of marrying her to a slave, and explains the case of a master who wishes to please a favored slave \u2014 all of which is precisely what the 'Marriage to Slave' prose describes.",
+      "chosen_heading": "Marriage to Slave",
+      "current_heading": "Marriage to Slave",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Mishnaic Enumeration",
+    "candidates": [
+      "Tosafot's Objection",
+      "Tosafot's Solution",
+      "Rabbi Meir's Position",
+      "Mishnaic Enumeration",
+      "Sages' Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text directly enumerates the three categories (ktana, na'arah, bogeret) with their respective sale/fine status, which is precisely what the 'Mishnaic Enumeration' section's prose describes.",
+      "chosen_heading": "Mishnaic Enumeration",
+      "current_heading": "Mishnaic Enumeration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Sages' Position",
+    "candidates": [
+      "Sages' Position",
+      "Rabbi Meir's Proof",
+      "Sages' Spelling Proof",
+      "Hei Letter Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda citing Rav to introduce the baraita contrasting Rabbi Meir's and the Sages' positions on the overlap of sale and knas, which is precisely what the 'Sages' Position' prose describes.",
+      "chosen_heading": "Sages' Position",
+      "current_heading": "Sages' Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Hei Letter Distinction",
+    "candidates": [
+      "Rabbi Meir's Proof",
+      "Sages' Spelling Proof",
+      "Hei Letter Distinction",
+      "Mishnah Principle",
+      "Fine Rule",
+      "Domain Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the complete discussion of the *hei* spelling distinction in *na'ara*/*na'ar* \u2014 Rav \u1e24isda's proof for Rabbi Meir, Reish Lakish's counter-proof for the Sages, the *motzi shem ra* application of Reish Lakish's rule, and Rav Adda bar Ahava's objection and resolution \u2014 which is precisely what the prose of candidate 2 ('Hei Letter Distinction') describes in detail.",
+      "chosen_heading": "Hei Letter Distinction",
+      "current_heading": "Hei Letter Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Domain Examples",
+    "candidates": [
+      "Mishnah Principle",
+      "Fine Rule",
+      "Domain Examples",
+      "Fine Criterion",
+      "Rape vs. Seduction",
+      "Rabbi Shimon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself, which is introduced and directly quoted/discussed under 'Mishnah Principle' \u2014 the prose there explicitly paraphrases this exact text (seduction case, boshet u-pegam, knas distinction), making it the natural home for this mishnah.",
+      "chosen_heading": "Mishnah Principle",
+      "current_heading": "Domain Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Rabbi Shimon's Position",
+    "candidates": [
+      "Fine Criterion",
+      "Rape vs. Seduction",
+      "Rabbi Shimon's Position",
+      "Family Shame Protection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rape vs. Seduction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question about why the mishna used seduction rather than rape, and the 'lo mibaya' answer \u2014 exactly the content described in the 'Rape vs. Seduction' prose.",
+      "second_heading": "Rabbi Shimon's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita of Rabbi Shimon ben Yehuda saying even boshet and pegam are not paid on one's own admission in seduction \u2014 exactly the content described in the 'Rabbi Shimon's Position' prose.",
+      "current_heading": "Rabbi Shimon's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Family Shame Protection",
+    "candidates": [
+      "Family Shame Protection",
+      "Tosafot's Distinction",
+      "Rav Papa's Position",
+      "Rav Huna's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the escalating Rav Pappa-Abaye dialogue about the woman's consent, father's consent, family consent, and overseas relatives \u2014 exactly the content described in the 'Family Shame Protection' prose.",
+      "chosen_heading": "Family Shame Protection",
+      "current_heading": "Family Shame Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Rav Huna's Position",
+    "candidates": [
+      "Tosafot's Distinction",
+      "Rav Papa's Position",
+      "Rav Huna's Position",
+      "Textual Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce and elaborate the palga nizka debate (Rav Papa's mamona position and Rav Huna's knasa position together), and candidate 1's prose explicitly frames this as the gemara pivoting to the debate and expounds Rav Papa's reasoning \u2014 matching the content of both items, while candidate 2 ('Rav Huna's Position') already contains its own prose summary of Rav Huna's view, meaning these items belong under the heading that opens the whole dispute, which is candidate 1.",
+      "chosen_heading": "Rav Papa's Position",
+      "current_heading": "Rav Huna's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Textual Problem",
+    "candidates": [
+      "Rav Huna's Position",
+      "Textual Problem",
+      "Resolution on Carcass",
+      "Omitted Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's textual challenge from the mishnah's language of 'sharing in payments' and the problem this poses for the fine-based view, which is precisely what the 'Textual Problem' section's prose describes.",
+      "chosen_heading": "Textual Problem",
+      "current_heading": "Textual Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Omitted Distinctions",
+    "candidates": [
+      "Resolution on Carcass",
+      "Omitted Distinctions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Resolution on Carcass",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the degradation of the carcass (pchat neveila) and the tam/muad distinction in that context, which matches candidate 0's prose about the gemara resolving the carcass depreciation issue.",
+      "second_heading": "Omitted Distinctions",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present the baraita listing differences between tam and muad, the tana veshayer argument, and the chatzi kofer/Rabbi Yose HaGelili point, which matches candidate 1's prose exactly.",
+      "current_heading": "Omitted Distinctions",
+      "moved": true
+    }
+  }
+]

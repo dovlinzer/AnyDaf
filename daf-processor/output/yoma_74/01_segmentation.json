@@ -58,7 +58,7 @@
           "timestamp": "02:34"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -82,8 +82,8 @@
           "timestamp": "04:32"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Exclusions in Shvuat Ha'edut: Rabbinically Disqualified Witnesses",
@@ -111,8 +111,8 @@
           "timestamp": "05:46"
         }
       ],
-      "sefaria_index": 3,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Contrast: Rabbinically Disqualified Witnesses and Rabbinic Prohibitions on Food",
@@ -141,7 +141,7 @@
         }
       ],
       "sefaria_index": 3,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Word 'Assur' and the Braisah Clarifying the Mishnah",
@@ -332,8 +332,8 @@
           "timestamp": "34:44"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Why the Pesuk Is Needed: The Problem of Koy and Sfeika",
@@ -356,8 +356,8 @@
           "timestamp": "36:25"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Two Questions About Chatzi Shiur Application and Scope",
@@ -385,7 +385,7 @@
           "timestamp": "40:59"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -404,7 +404,7 @@
           "timestamp": "41:26"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -548,7 +548,7 @@
           "timestamp": "49:48"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -1042,5 +1042,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "28:52",
+  "amud_b_micro_title": "Debate Restated",
+  "shiur_start_daf": 73,
+  "shiur_start_amud": "b"
 }

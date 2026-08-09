@@ -1,0 +1,210 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Rabbi Yehudah's Din",
+    "candidates": [
+      "Mishnah Introduction",
+      "Dam b'Mayim",
+      "Dam b'Yayin",
+      "Dam b'Dam",
+      "Rabbi Yehudah's Din",
+      "Water vs. Blood"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dam b'Dam",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the mishna's cases of dam b'mayim, dam b'yayin, dam b'dam, and Rabbi Yehudah's ruling that blood does not nullify blood \u2014 all of which are discussed under heading 3 ('Dam b'Dam') and 4 ('Rabbi Yehudah's Din'), but the mishna text itself opening with all three cases fits best as the start of the mishna introduction to the dam b'dam section.",
+      "second_heading": "Rabbi Yehudah's Din",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers the cases of dam psulim and dam hatamtzit with their rulings (yishafech la'amah, Rabbi Eliezer's leniency, and im lo nimlach venatan kasher), which are explicitly described and analyzed in the prose of heading 4 ('Rabbi Yehudah's Din').",
+      "current_heading": "Rabbi Yehudah's Din",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Water vs. Blood",
+    "candidates": [
+      "Water vs. Blood",
+      "Reawakening Principle",
+      "Dichuy Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yo\u1e25anan's distinction between water falling into blood versus blood falling into water (rishon rishon batel), which is precisely what the 'Water vs. Blood' section's prose discusses in detail.",
+      "chosen_heading": "Water vs. Blood",
+      "current_heading": "Water vs. Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Dichuy Exception",
+    "candidates": [
+      "Reawakening Principle",
+      "Dichuy Exception",
+      "Piggul/Notar/Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about kisui hadam and the principle that there is no dichuy by mitzvot, which is precisely what the 'Dichuy Exception' section's prose discusses.",
+      "chosen_heading": "Dichuy Exception",
+      "current_heading": "Dichuy Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Piggul/Notar/Tamei",
+    "candidates": [
+      "Piggul/Notar/Tamei",
+      "Three Inferences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's ruling about piggul/notar/tamei mixture and exemption, which is precisely what the 'Piggul/Notar/Tamei' section's prose describes, before the 'Three Inferences' section draws conclusions from it.",
+      "chosen_heading": "Piggul/Notar/Tamei",
+      "current_heading": "Piggul/Notar/Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Three Inferences",
+    "candidates": [
+      "Three Inferences",
+      "Rashi's Approach",
+      "Flour Mixture",
+      "Min b'Mino Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the three inferences (shema mina telat) from Reish Lakish's ruling \u2014 prohibitions nullifying each other, noten ta'am berov lav de-oraita, and hatra'at safek \u2014 which is precisely what the 'Three Inferences' section's prose discusses.",
+      "chosen_heading": "Three Inferences",
+      "current_heading": "Three Inferences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Min b'Mino Principle",
+    "candidates": [
+      "Rashi's Approach",
+      "Flour Mixture",
+      "Min b'Mino Principle",
+      "Ro'in Lenient Use",
+      "Min b'Mino Tension",
+      "White Wine Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rava's objection from the flour-mixture mishna, the rabbinic-law deflection and its refutation from the Passover matzah clause, and the resolution via min b'mino/min b'sheino mino \u2014 which exactly matches the prose of candidate 1 ('Flour Mixture'), not candidate 2 whose prose already describes the resolved distinction as established.",
+      "chosen_heading": "Flour Mixture",
+      "current_heading": "Min b'Mino Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "White Wine Baraita",
+    "candidates": [
+      "Ro'in Lenient Use",
+      "Min b'Mino Tension",
+      "White Wine Baraita",
+      "Baraita Sources",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Min b'Mino Tension",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 form the continuous Gemara discussion about whether ro'in treats like-with-like as unlike, including the mishna about blood in wine, the baraita about white wine/milk in a bucket, Rabbi Yehudah's position, and the tanna'im dispute resolution \u2014 all covered by the 'Min b'Mino Tension' prose.",
+      "second_heading": "Abaye's Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20139 address the internal contradiction within the Mikvaot mishna (spittle, urine, mei chatat clauses) and how Abaye resolves it by attributing different rulings to Rabbi Yehudah versus his rebbe \u2014 exactly what 'Abaye's Resolution' describes.",
+      "current_heading": "White Wine Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Baraita Sources",
+      "Abaye's Resolution",
+      "Rashi's Explanation",
+      "Rava's Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Abaye's resolution \u2014 item 1 introduces his answer and item 2 provides the supporting baraita that distinguishes Rabbi Yehudah's own view from his rebbe Rabban Gamliel's, which is precisely what the 'Abaye's Resolution' prose describes.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Rava's Alternative",
+    "candidates": [
+      "Rashi's Explanation",
+      "Rava's Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's alternative resolution about the bucket that is pure inside and impure outside, with the rabbinic decree about majority water \u2014 exactly the content described in the 'Rava's Alternative' prose.",
+      "chosen_heading": "Rava's Alternative",
+      "current_heading": "Rava's Alternative",
+      "moved": false
+    }
+  }
+]

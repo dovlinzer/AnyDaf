@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rav Yosef: Peiros Hanosh",
+    "candidates": [
+      "Rav Nachman: Muktzah",
+      "Rabbah: Hachana",
+      "Rav Yosef: Peiros Hanosh",
+      "Abaye's Question",
+      "Kula Chada Gezeirah",
+      "Rashi: Abstract Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement about the decree due to peiros hanoshrin, which is exactly what the prose under 'Rav Yosef: Peiros Hanosh' discusses.",
+      "chosen_heading": "Rav Yosef: Peiros Hanosh",
+      "current_heading": "Rav Yosef: Peiros Hanosh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rashi: Abstract Category",
+    "candidates": [
+      "Abaye's Question",
+      "Kula Chada Gezeirah",
+      "Rashi: Abstract Category",
+      "Rav Yitzchak: Mashkin",
+      "Abaye vs. Rav Yitzchak",
+      "Kula Chada (Liquids)",
+      "Assessment of Positions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye's Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Abaye's challenge to Rav Yosef about peiros hanoshrin and the kula chada gezeirah response, which matches candidates 0 and 1 \u2014 but since all items need one heading and items 1-2 are the Abaye-vs-RavYosef exchange, they fit under candidate 0 ('Abaye's Question') which covers exactly this challenge and its resolution.",
+      "second_heading": "Abaye vs. Rav Yitzchak",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rav Yitzchak's mashkin shezavu explanation and Abaye's parallel challenge against it, which corresponds precisely to candidate 4 ('Abaye vs. Rav Yitzchak') and candidate 3 ('Rav Yitzchak: Mashkin') \u2014 item 3 belongs under candidate 3 and item 4 under candidate 4, but since they must share one heading, candidate 4 covers both as it describes the full exchange.",
+      "current_heading": "Rashi: Abstract Category",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Assessment of Positions",
+    "candidates": [
+      "Rav Yitzchak: Mashkin",
+      "Abaye vs. Rav Yitzchak",
+      "Kula Chada (Liquids)",
+      "Assessment of Positions",
+      "Rav Yosef's Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why the remaining Amoraim rejected both Rav Nachman's and Rabbah's positions, which is precisely what the 'Assessment of Positions' prose section describes.",
+      "chosen_heading": "Assessment of Positions",
+      "current_heading": "Assessment of Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rav Yosef's Choice",
+    "candidates": [
+      "Rav Yosef's Choice",
+      "Rav Yitzchak's Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Rav Yosef did not adopt Rabbi Yitzchak's reasoning, answering that an egg and fruit are both food (ochla) while liquids are not, which is precisely what the 'Rav Yosef's Choice' prose discusses.",
+      "chosen_heading": "Rav Yosef's Choice",
+      "current_heading": "Rav Yosef's Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Yitzchak's Choice",
+    "candidates": [
+      "Rav Yitzchak's Choice",
+      "Tosafot's Challenge",
+      "Yerushalmi: Melachot Kne",
+      "Home vs. Field Prep",
+      "R. Yochanan: Mashkin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Rabbi Yitzchak did not adopt Rav Yosef's analogy, explaining the beitzah blu'ah / mashkin blu'ah distinction, which is precisely what the 'Rav Yitzchak's Choice' prose section discusses.",
+      "chosen_heading": "Rav Yitzchak's Choice",
+      "current_heading": "Rav Yitzchak's Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "R. Yochanan: Mashkin",
+    "candidates": [
+      "Tosafot's Challenge",
+      "Yerushalmi: Melachot Kne",
+      "Home vs. Field Prep",
+      "R. Yochanan: Mashkin",
+      "Egg vs. Grapefruit Juice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly establish Rabbi Yochanan's position on mashkin shezavu \u2014 item 1 states his view and item 2 cites the Shabbat mishna about Rabbi Yehuda's ruling on squeezed fruit \u2014 exactly matching the prose of heading 3 which describes this very gemara passage in detail.",
+      "chosen_heading": "R. Yochanan: Mashkin",
+      "current_heading": "R. Yochanan: Mashkin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Egg vs. Grapefruit Juice",
+    "candidates": [
+      "Egg vs. Grapefruit Juice",
+      "Yehuda's Dispute: 2 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage draws an inference about Rabbi Yehuda's principle that all food derived from food is classified as 'ochla de'afreshei,' which is precisely the principle being analyzed in the 'Egg vs. Grapefruit Juice' section discussing Rabbi Yochanan's contradiction and the shared legal category.",
+      "chosen_heading": "Egg vs. Grapefruit Juice",
+      "current_heading": "Egg vs. Grapefruit Juice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Yehuda's Dispute: 2 Days",
+    "candidates": [
+      "Yehuda's Dispute: 2 Days",
+      "Ravina: Reverse Position",
+      "Ravina: Chicken for Eggs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Eiruvin passage about Rabbi Yehuda's stipulation regarding a basket of tevel fruit and the egg laid on the first Festival day \u2014 exactly the content described in candidate 0's prose about Rabbi Yehuda's second statement from Eiruvin concerning Rosh Hashanah's two days.",
+      "chosen_heading": "Yehuda's Dispute: 2 Days",
+      "current_heading": "Yehuda's Dispute: 2 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Ravina: Chicken for Eggs",
+    "candidates": [
+      "Ravina: Reverse Position",
+      "Ravina: Chicken for Eggs",
+      "Baraita: Egg Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-5 all deal with Rabbi Yochanan's muchlefet hashita resolution and the subsequent alternatives (Ravina's lidvreihem deRabbanan and Ravina son of Rav Ulla's muktzah/egg-laying chicken), which is precisely what candidate 0's prose describes \u2014 the shema mina conclusion about mashkin shezavu, the reversal, and the alternatives \u2014 whereas candidate 1's prose already covers these same items in its own section, making candidate 0 the correct home for this passage.",
+      "chosen_heading": "Ravina: Reverse Position",
+      "current_heading": "Ravina: Chicken for Eggs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Baraita: Egg Prohibition",
+    "candidates": [
+      "Ravina: Chicken for Eggs",
+      "Baraita: Egg Prohibition",
+      "Rabbah & Safek D'Oraita",
+      "Rav Yosef/Yitzchak: Doubt",
+      "Gemara's Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita that the prose under heading 1 ('Baraita: Egg Prohibition') explicitly describes \u2014 the prohibition on moving an egg laid on Shabbat or Yom Tov, the permission to cover it with a vessel, the ruling on doubtful eggs, and the intermingling case \u2014 matching the current placement exactly.",
+      "chosen_heading": "Baraita: Egg Prohibition",
+      "current_heading": "Baraita: Egg Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Gemara's Reinterpretation",
+    "candidates": [
+      "Rabbah & Safek D'Oraita",
+      "Rav Yosef/Yitzchak: Doubt",
+      "Gemara's Reinterpretation",
+      "Davar Sheyesh Lo Matirin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Yosef/Yitzchak: Doubt",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the contrast between Rabbah's de'oraita doubt (stringent) and Rav Yosef/Yitzchak's d'rabbanan doubt (lenient), which maps precisely onto candidates 0 and 1 \u2014 but since both items together form the problem statement, and candidate 1's prose explicitly frames this as 'the difficulty for Rav Yosef and Rav Yitzchak' regarding sfeika d'rabbanan lekula, items 1-2 belong under candidate 1.",
+      "second_heading": "Gemara's Reinterpretation",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's reinterpretation resolving the difficulty \u2014 'seifa atan lesafek treifah' \u2014 which is precisely what candidate 2's prose describes and analyzes at length.",
+      "current_heading": "Gemara's Reinterpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Davar Sheyesh Lo Matirin",
+    "candidates": [
+      "Davar Sheyesh Lo Matirin",
+      "No Bittul via Matirin",
+      "Egg as Davar Shebeminyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's challenge from the latter clause of the baraita \u2014 the egg mixed into a thousand \u2014 and the branching analysis based on davar sheyesh lo matirin versus treifah, which is precisely what the 'Davar Sheyesh Lo Matirin' section's prose describes.",
+      "chosen_heading": "Davar Sheyesh Lo Matirin",
+      "current_heading": "Davar Sheyesh Lo Matirin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Egg as Davar Shebeminyan",
+    "candidates": [
+      "No Bittul via Matirin",
+      "Egg as Davar Shebeminyan",
+      "Mishna: Six/Seven Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items continue the gemara's discussion of whether an egg qualifies as a davar shebeminyan \u2014 the very topic described in the 'Egg as Davar Shebeminyan' prose \u2014 debating which formulation of the counted-item rule applies to eggs.",
+      "chosen_heading": "Egg as Davar Shebeminyan",
+      "current_heading": "Egg as Davar Shebeminyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Mishna: Six/Seven Items",
+    "candidates": [
+      "Mishna: Six/Seven Items",
+      "Et vs. Kol She'Darko"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the mishna from Orla discussing kilei hakerem bundles, Rabbi Meir's rule about counted items, and the Rabbis'/Rabbi Akiva's enumerated list of six/seven significant items \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Mishna: Six/Seven Items",
+      "current_heading": "Mishna: Six/Seven Items",
+      "moved": false
+    }
+  }
+]

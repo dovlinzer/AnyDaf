@@ -1,0 +1,352 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Challenge to Mishnah",
+      "Three Explanations",
+      "Baraita Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that the wife's loss of her ketubah is one of the 'leniencies of the ketubah' \u2014 a special rule that differs from how an ordinary creditor is treated \u2014 which directly addresses the challenge raised in section 1 about why the wife should be treated differently from a regular creditor.",
+      "chosen_heading": "Challenge to Mishnah",
+      "current_heading": "Mishnah Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Baraita Refutation",
+    "candidates": [
+      "Challenge to Mishnah",
+      "Three Explanations",
+      "Baraita Refutation",
+      "Rabbi Yosi's Position",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Baraita Refutation' section's prose: item 1 is the inference from Rabbi Yosei's statement that the tanna kamma requires both writing and acceptance, and item 2 is the baraita from Rabbi Yehuda that refutes all three amoraim \u2014 exactly what the prose describes.",
+      "chosen_heading": "Baraita Refutation",
+      "current_heading": "Baraita Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Rabbi Yosi's Position",
+      "Rava's Question",
+      "Rav Nachman Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's question to Rav Nachman about the three positions and Rav Nachman's reply, but the prose of candidate 1 ('Rava's Question') explicitly covers both Rava's question and the transition to Rav Nachman's answer, making it the correct home \u2014 the current placement is correct.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav Nachman Answers",
+    "candidates": [
+      "Rav Nachman Answers",
+      "Rava's Question",
+      "Deathbed Assumption",
+      "Healthy Person Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yosef bar Minyumi citing Rav Nachman's ruling about making her a partner among the sons, which is precisely what the 'Rav Nachman Answers' prose describes as the 'parallel report' confirming Rav Nachman's position.",
+      "chosen_heading": "Rav Nachman Answers",
+      "current_heading": "Rav Nachman Answers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Healthy Person Logic",
+    "candidates": [
+      "Rava's Question",
+      "Deathbed Assumption",
+      "Healthy Person Logic",
+      "Teiku Conclusion",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's dilemma about whether the forfeiture applies to a healthy person, which is precisely what heading 0 ('Rava's Question') describes as Rava's underlying question about shchiv meira versus bari.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Healthy Person Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Teiku Conclusion",
+      "Case Setup",
+      "Daughter Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the case setup and its resolution \u2014 Rav Na\u1e25man citing Shmuel on the palm tree, and Rav \u1e24isda's qualification about movable produce \u2014 which is precisely what the 'Case Setup' prose describes in full.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Daughter Dies",
+    "candidates": [
+      "Daughter Dies",
+      "Rav Pappa's View",
+      "Rav Kahana Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario of one daughter dying and Rav Pappi's initial thought that the wife takes only one-third, which matches the 'Daughter Dies' section's prose about this specific case and the question it raises.",
+      "chosen_heading": "Daughter Dies",
+      "current_heading": "Daughter Dies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Kahana Objects",
+    "candidates": [
+      "Rav Pappa's View",
+      "Rav Kahana Objects",
+      "Palm Tree Case",
+      "Ravina's Position",
+      "Rav Yeimar's Challenge",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's exact argument ('ilu hadar kani') which is precisely what candidate 1's prose describes and analyzes.",
+      "chosen_heading": "Rav Kahana Objects",
+      "current_heading": "Rav Kahana Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Palm Tree Case",
+      "Ravina's Position",
+      "Rav Yeimar's Challenge",
+      "Resolution",
+      "Rav Huna's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the entire case \u2014 the distribution leaving one palm tree, Ravina's initial position, and Rav Yeimar's challenge and resolution \u2014 and belongs under 'Palm Tree Case' which introduces exactly this scenario, rather than being split across multiple headings or placed under 'Resolution'.",
+      "chosen_heading": "Palm Tree Case",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Rav Huna's Rule",
+    "candidates": [
+      "Resolution",
+      "Rav Huna's Rule",
+      "Rav Nachman Objects",
+      "Ambiguity Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna's Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Huna's ruling about a shchiv meira writing all his property to another, which is precisely what the 'Rav Huna's Rule' prose describes.",
+      "second_heading": "Rav Nachman Objects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's challenge to Rav Huna for not attributing his ruling to Rabbi Yochanan ben Beroka, which is exactly what the 'Rav Nachman Objects' prose describes.",
+      "current_heading": "Rav Huna's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Ambiguity Rule",
+    "candidates": [
+      "Rav Nachman Objects",
+      "Ambiguity Rule",
+      "Rav Adda's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the case Rav Nachman uses to clarify Rav Huna's ruling \u2014 the dying man whose heirs ask 'to whom should your property go?' and the ambiguity resolution between yerusha and matana \u2014 which is precisely what the 'Ambiguity Rule' prose describes and analyzes.",
+      "chosen_heading": "Ambiguity Rule",
+      "current_heading": "Ambiguity Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rav Adda's Distinction",
+    "candidates": [
+      "Rav Adda's Distinction",
+      "Rava's Response",
+      "Rashbam Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly Rav Adda bar Ahava's proposed distinction between yerusha and matana regarding widow's support rights, which is precisely what the prose under 'Rav Adda's Distinction' describes.",
+      "chosen_heading": "Rav Adda's Distinction",
+      "current_heading": "Rav Adda's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rashbam Clarifies",
+    "candidates": [
+      "Rava's Response",
+      "Rashbam Clarifies",
+      "Conditional Bequest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's kal vachomer argument distinguishing Torah-level inheritance from rabbinic deathbed gifts, which is precisely what 'Rava's Response' describes, not the Rashbam's later clarification of that argument.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rashbam Clarifies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Conditional Bequest",
+    "candidates": [
+      "Rashbam Clarifies",
+      "Conditional Bequest",
+      "RYbB Principle",
+      "No Interruption Rule",
+      "Language Override",
+      "Case Facts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items discuss the principle that even though the man used 'achareicha' language, the yerusha framework overrides it because yerusha ein lah hafsek \u2014 which is precisely what candidate 4 ('Language Override') describes: the achareicha clause is ineffective when the recipient is a fit heir, and the man's mistaken belief that he could append such a clause is corrected by the Torah's rule.",
+      "chosen_heading": "Language Override",
+      "current_heading": "Conditional Bequest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Case Facts",
+    "candidates": [
+      "RYbB Principle",
+      "No Interruption Rule",
+      "Language Override",
+      "Case Facts",
+      "Rav Ilish Errs",
+      "Rava Corrects",
+      "Consolation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Case Facts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the case facts \u2014 a man gave property 'to you and after you to so-and-so' where the first recipient was a fit heir, and after the first died the second came to claim \u2014 which matches exactly the 'Case Facts' prose describing this very scenario.",
+      "second_heading": "Rav Ilish Errs",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ilish opining before Rava that the second should also take, which matches the 'Rav Ilish Errs' prose describing precisely this mistaken opinion and Rava's immediate correction citing Rav Acha bar Avya.",
+      "current_heading": "Case Facts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Consolation",
+    "candidates": [
+      "Rav Ilish Errs",
+      "Rava Corrects",
+      "Consolation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ilish's embarrassment (ichsaf) and Rava's comforting verse, which is exactly what the 'Consolation' section's prose discusses.",
+      "chosen_heading": "Consolation",
+      "current_heading": "Consolation",
+      "moved": false
+    }
+  }
+]

@@ -115,8 +115,8 @@
           "timestamp": "16:21"
         }
       ],
-      "sefaria_index": 0,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Discrepancy Resolution: The Baraita Applies to Inner Altar Bloods, Not Outer Altar Remnants",
@@ -139,7 +139,7 @@
           "timestamp": "23:58"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -536,5 +536,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "39:43",
+  "amud_b_micro_title": "Par Yom HaKippurim",
+  "shiur_start_daf": 38,
+  "shiur_start_amud": "b"
 }

@@ -73,7 +73,7 @@
           "timestamp": "13:16"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -174,8 +174,8 @@
           "timestamp": "39:25"
         }
       ],
-      "sefaria_index": 28,
-      "matched": true
+      "sefaria_index": 27,
+      "matched": false
     },
     {
       "title": "Edge Cases in Sale and Ownership: Conditions and Retentions",
@@ -650,5 +650,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "12:01",
+  "amud_b_micro_title": "Fused Hooves",
+  "shiur_start_daf": 78,
+  "shiur_start_amud": "a"
 }

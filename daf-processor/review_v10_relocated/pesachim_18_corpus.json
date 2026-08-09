@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Extent of Reversal",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Reversal",
+      "R. Yose & Shimon Split",
+      "Extent of Reversal",
+      "Mei Chatat Setup",
+      "Slaughter Scenario",
+      "Meat Status Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about the extent of Rabbi Yehuda's reversal \u2014 whether only regarding kelim or entirely like Rabbi Meir \u2014 which is precisely what the 'Extent of Reversal' prose section describes.",
+      "chosen_heading": "Extent of Reversal",
+      "current_heading": "Extent of Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Meat Status Dispute",
+    "candidates": [
+      "Mei Chatat Setup",
+      "Slaughter Scenario",
+      "Meat Status Dispute",
+      "Chazarah Analysis",
+      "Tumah Gravity Levels",
+      "Reconciling Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Mishnaic case (cow drinking mei chatat, flesh is tamei) and Rabbi Yehuda's dissent (batlu b'me'eha) followed by the gemara's opening challenge to that dissent \u2014 precisely the content described in the 'Meat Status Dispute' prose, which covers besarah tamei, Rabbi Yehuda's position, and the initial question about what his chazarah implies.",
+      "chosen_heading": "Meat Status Dispute",
+      "current_heading": "Meat Status Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Reconciling Positions",
+    "candidates": [
+      "Chazarah Analysis",
+      "Tumah Gravity Levels",
+      "Reconciling Positions",
+      "R. Yose Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara sequence discussed in 'Reconciling Positions' prose: the objection about tumah kalah (item 1), the reinterpretation of batlu raising the tana kama problem (item 2), the kula Rabbi Yehuda / chasorei mechasra resolution (item 3), and Rav Ashi's mashkeh saruach alternative (item 4) \u2014 all of which are explicitly described in that section's prose.",
+      "chosen_heading": "Reconciling Positions",
+      "current_heading": "Reconciling Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "R. Yose Intro",
+    "candidates": [
+      "R. Yose Intro",
+      "Torah Verses Setup",
+      "Clay Vessel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yose and Rabbi Shimon's position on mashkin rendering ochlin tamei but not kelim, and Rabbah bar bar Chana's report of Reish Lakish's attribution to Rabbi Akiva's methodology \u2014 exactly what the 'R. Yose Intro' prose describes.",
+      "chosen_heading": "R. Yose Intro",
+      "current_heading": "R. Yose Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Clay Vessel Case",
+    "candidates": [
+      "Torah Verses Setup",
+      "Clay Vessel Case",
+      "Food vs. Liquid",
+      "Yitma Vocalization",
+      "R. Yose Derashah",
+      "Same Type Principle",
+      "Rav Papa Explanation",
+      "Ravina Textual Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's derashah on the word *yitma* in the clay vessel verse, showing that *yitma* (vocalized as *yetamei*) means 'renders impure' rather than merely 'is impure' \u2014 precisely the vocalization ambiguity that section 3 ('Yitma Vocalization') is about.",
+      "chosen_heading": "Yitma Vocalization",
+      "current_heading": "Clay Vessel Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Ravina Textual Proof",
+    "candidates": [
+      "Food vs. Liquid",
+      "Yitma Vocalization",
+      "R. Yose Derashah",
+      "Same Type Principle",
+      "Rav Papa Explanation",
+      "Ravina Textual Proof",
+      "Two Yitmas Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses how Rabbi Yose interprets the verse 'yitma' for mashkeh \u2014 whether it means rendering ochlin tamei or other mashkin tamei \u2014 which is precisely what the 'R. Yose Derashah' section is about, not the 'Ravina Textual Proof' section where it currently sits.",
+      "chosen_heading": "R. Yose Derashah",
+      "current_heading": "Ravina Textual Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Two Yitmas Explained",
+    "candidates": [
+      "Ravina Textual Proof",
+      "Two Yitmas Explained",
+      "Why Not Vessels?",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ravina Textual Proof",
+      "first_confidence": "medium",
+      "first_reason": "Items 1\u20133 contain Rav Pappa's principle and Ravina's textual proof from the two yitmas, which match candidate 0's prose about the textual argument from the dual use of yitma.",
+      "second_heading": "Why Not Vessels?",
+      "second_confidence": "high",
+      "second_reason": "Item 4 asks why mashkin cannot render kelim tamei, which matches exactly candidate 2's prose about the gemara raising the question of excluding kelim.",
+      "current_heading": "Two Yitmas Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Why Not Vessels?",
+      "Kal Vachomer",
+      "Sheretz Direct Case",
+      "Dayo Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the distinction between mashkin haba'in machmat kli and mashkin haba'in machmat sheretz and the kal vachomer argument for why the latter should render kelim tamei, which is precisely what the 'Kal Vachomer' section's prose describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Dayo Principle",
+    "candidates": [
+      "Sheretz Direct Case",
+      "Dayo Principle",
+      "First Yitma Food",
+      "Second Yitma Liquid",
+      "Food Cannot Metame Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the dayo principle ('It is sufficient for the conclusion that emerged from the a fortiori inference to be like the source of the inference'), which directly matches the 'Dayo Principle' section's prose about dayo l'va min hadin lihyot kenidon blocking the kal vachomer inference.",
+      "chosen_heading": "Dayo Principle",
+      "current_heading": "Dayo Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Food Cannot Metame Food",
+    "candidates": [
+      "First Yitma Food",
+      "Second Yitma Liquid",
+      "Food Cannot Metame Food",
+      "Mishkin Severity",
+      "Chumra Mishkin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the question of whether 'yitma' means impurifying vessels or liquids, the kal vachomer ruling it out for vessels, and the follow-up question about why susceptibility needs to be mentioned \u2014 which precisely matches the prose of 'Food Cannot Metame Food' describing this kal vachomer logic and the subsequent gemara challenge about mashkin's susceptibility.",
+      "chosen_heading": "Food Cannot Metame Food",
+      "current_heading": "Food Cannot Metame Food",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Chumra Mishkin",
+    "candidates": [
+      "Mishkin Severity",
+      "Chumra Mishkin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 presents the gemara's answer that the apparent severity of ochel transmitting impurity to mashkin is actually a chumra of mashkin, and Item 2 explains what that susceptibility means \u2014 both belong under 'Mishkin Severity' which introduces this precise point (chumra demashkin hu), while 'Chumra Mishkin' elaborates the conclusion further and is a better fit for the explanatory prose that follows these quoted passages.",
+      "chosen_heading": "Mishkin Severity",
+      "current_heading": "Chumra Mishkin",
+      "moved": true
+    }
+  }
+]

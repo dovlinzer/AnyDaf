@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Ami's Question",
+    "candidates": [
+      "Seeds in Land",
+      "Rabbi Ami's Question",
+      "Tosafot on Ona'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records Rabbi Ami's dilemma and resolution about ona'ah vs. bitul mekach for exempt categories, which is precisely what the 'Rabbi Ami's Question' section's prose describes and analyzes.",
+      "chosen_heading": "Rabbi Ami's Question",
+      "current_heading": "Rabbi Ami's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Tosafot on Ona'ah",
+    "candidates": [
+      "Tosafot on Ona'ah",
+      "Rav Nachman",
+      "Yona & Yirmiya",
+      "Bitul Mekach Scope",
+      "Rashi on Hekdesh",
+      "Kedusha & Pidyon",
+      "Blemished Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the relationship between the two opinions (hekdeshos vs. karka'os) and introduces Shmuel's teaching about hekdesh redemption on a perutah \u2014 exactly what the 'Bitul Mekach Scope' prose describes.",
+      "chosen_heading": "Bitul Mekach Scope",
+      "current_heading": "Tosafot on Ona'ah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Blemished Animals",
+    "candidates": [
+      "Rav Nachman",
+      "Yona & Yirmiya",
+      "Bitul Mekach Scope",
+      "Rashi on Hekdesh",
+      "Kedusha & Pidyon",
+      "Blemished Animals",
+      "Value Equivalence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes the Temurah mishna about blemished consecrated animals being redeemed and the requirement to calculate monetary value, which is exactly what the 'Blemished Animals' section prose describes.",
+      "chosen_heading": "Blemished Animals",
+      "current_heading": "Blemished Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Value Equivalence",
+    "candidates": [
+      "Value Equivalence",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about whether the dispute involves a discrepancy within the ona'ah range, citing the mishnah that hekdesh has no ona'ah \u2014 exactly what Candidate 1's prose describes as the Gemara's challenge and its resolution.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Value Equivalence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Value Equivalence",
+      "Gemara Challenge",
+      "Positions Reversed",
+      "Intentionality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about bitul mekach and the contradiction from Rabbi Yona/Rabbi Yirmeya's transmission in Rabbi Yochanan's name, then proposes reversing the attributions \u2014 all of which is precisely what the 'Gemara Challenge' section's prose describes as the difficulty and its initial resolution through 've-ipoch'.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Intentionality",
+    "candidates": [
+      "Positions Reversed",
+      "Intentionality",
+      "No Limit for Hekdesh",
+      "Braita Comparison",
+      "Obvious Strictness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Positions Reversed",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the dispute between Reish Lakish and Rabbi Yochanan regarding Shmuel's ruling and the le-chatchila/be-di'eved distinction, which is precisely what headings 0 ('Positions Reversed') and 1 ('Intentionality') cover \u2014 items 1-2 belong under heading 0 as the Gemara's explanation of the reversed positions via Shmuel's teaching, while the current placement under 'Intentionality' (heading 1) also fits item 2 closely, but the stronger match for the whole unit items 1-2 is heading 0 since it explicitly discusses 'mar is lei de-Shmuel' and the reversal.",
+      "second_heading": "No Limit for Hekdesh",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rav Chisda's opinion that hekdesh is not subject to ona'ah even below the usual threshold, which is precisely the content described under heading 2 ('No Limit for Hekdesh').",
+      "current_heading": "Intentionality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Obvious Strictness",
+    "candidates": [
+      "No Limit for Hekdesh",
+      "Braita Comparison",
+      "Obvious Strictness",
+      "Lending Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita objection and its resolution (reinterpreting 'ein ribbit ve-ona'ah le-hekdesh' the same way as the mishnah), which is precisely what the 'Braita Comparison' prose describes, not the subsequent difficulty about the concluding clause which belongs under 'Obvious Strictness'.",
+      "chosen_heading": "Braita Comparison",
+      "current_heading": "Obvious Strictness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Lending Scenario",
+    "candidates": [
+      "Obvious Strictness",
+      "Lending Scenario",
+      "Gizbar Me'ilah",
+      "Flour Contract"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Obvious Strictness",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection ('hachi hashta') of the objection about why the braita doesn't also note hekdesh's stringency, which matches exactly the 'Obvious Strictness' prose discussing that very exchange.",
+      "second_heading": "Lending Scenario",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the new question 'ribbit de-hekdesh heichi dami' and presents the treasurer-loan scenario with the me'ilah problem, which is precisely what the 'Lending Scenario' prose describes.",
+      "current_heading": "Lending Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Flour Contract",
+    "candidates": [
+      "Gizbar Me'ilah",
+      "Flour Contract",
+      "Building Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the flour supply contract scenario discussed in candidate 1's prose, including the baraita about yad hekdesh al ha-elyona, matching perfectly with the 'Flour Contract' section's content.",
+      "chosen_heading": "Flour Contract",
+      "current_heading": "Flour Contract",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Building Stones",
+    "candidates": [
+      "Building Stones",
+      "Kefel Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's statement about building stones entrusted to the Temple treasurer and Shmuel's principle of building in non-sacred status before consecration, which directly matches the 'Building Stones' section's prose discussion of avnei binyan ha-mesuros le-gizbar and bonin be-chol ve-achar kach makdishin.",
+      "chosen_heading": "Building Stones",
+      "current_heading": "Building Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Kefel Exclusions",
+    "candidates": [
+      "Kefel Exclusions",
+      "Shomer Chinam",
+      "Shomer Sachar",
+      "Negligence Liability"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Kefel Exclusions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 derive exclusions from kefel and four-and-five payment using the Exodus 22:8 verse, exactly matching the 'Kefel Exclusions' prose.",
+      "second_heading": "Shomer Chinam",
+      "second_confidence": "high",
+      "second_reason": "Item 5 opens a new Mishnaic section about the shomer chinam oath using a different verse (Exodus 22:6-7), matching the 'Shomer Chinam' prose, with item 8 beginning the shomer sachar topic.",
+      "current_heading": "Kefel Exclusions",
+      "moved": true
+    }
+  }
+]

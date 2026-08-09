@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Chol HaMoed Precedent",
+    "candidates": [
+      "Abaye: Marvach",
+      "Rava: Azol uModeh",
+      "Yehuda: Debt Collection",
+      "Gemara's Challenge",
+      "Chol HaMoed Precedent",
+      "Rashi's Distinction",
+      "Rav Nachman's View",
+      "Ravina's Pessimism",
+      "Documented vs. Oral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: the Gemara challenges Rabbi Yehuda (item 1), brings the Chol HaMoed baraita as evidence he accepts the macro principle (item 2), and then resolves the contradiction via Rav Nachman and Ravina (item 3) \u2014 this entire sequence is precisely what candidate 3 ('Gemara's Challenge') describes: pressing Rabbi Yehuda and locating evidence he accepts the larger-picture perspective in a different context.",
+      "chosen_heading": "Gemara's Challenge",
+      "current_heading": "Chol HaMoed Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Documented vs. Oral",
+    "candidates": [
+      "Rashi's Distinction",
+      "Rav Nachman's View",
+      "Ravina's Pessimism",
+      "Documented vs. Oral",
+      "Halacha k'Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehoshua ben Korcha's distinction between documented and oral loans, which is precisely what the 'Documented vs. Oral' section's prose describes.",
+      "chosen_heading": "Documented vs. Oral",
+      "current_heading": "Documented vs. Oral",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Halacha k'Yehoshua",
+    "candidates": [
+      "Halacha k'Yehoshua",
+      "Dyer Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef sitting behind Rabbi Abba who sat before Rav Huna, who declared the halakha follows Rabbi Yehoshua ben Korcha and Rabbi Yehuda \u2014 exactly matching the prose under heading 0 which describes this same scene and these same rulings.",
+      "chosen_heading": "Halacha k'Yehoshua",
+      "current_heading": "Halacha k'Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Dyer Scenario",
+    "candidates": [
+      "Dyer Scenario",
+      "Meir: Gazlan",
+      "Yehuda: Upper Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dyer scenario by citing the mishnah from Bava Kamma about giving wool to a dyer who dyes the wrong color, which is precisely what the 'Dyer Scenario' section's prose describes as its subject matter.",
+      "chosen_heading": "Dyer Scenario",
+      "current_heading": "Dyer Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Yehuda: Upper Hand",
+    "candidates": [
+      "Meir: Gazlan",
+      "Yehuda: Upper Hand",
+      "Why Explicit?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Meir's and Rabbi Yehuda's opinions together, and while it includes Meir's view, the current placement under 'Yehuda: Upper Hand' is appropriate since the prose there explicitly quotes and explains both positions with Rabbi Yehuda's rule as the focus, and the passage as a whole serves to introduce the full dispute that the section analyzes.",
+      "chosen_heading": "Yehuda: Upper Hand",
+      "current_heading": "Yehuda: Upper Hand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Why Explicit?",
+    "candidates": [
+      "Why Explicit?",
+      "Stam Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yosef turning his face away and explains why ruling like Rabbi Yehoshua ben Korcha was necessary (yachid vs. rabbim), which matches exactly the prose of candidate 0 about why Rav Huna needed to rule explicitly like Rabbi Yehoshua ben Korcha.",
+      "chosen_heading": "Why Explicit?",
+      "current_heading": "Why Explicit?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Stam Mishna",
+    "candidates": [
+      "Stam Mishna",
+      "Mishna Order",
+      "Within vs. Between"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss why Rav Huna needed to explicitly state the halakha despite the stam mishna principle \u2014 specifically invoking 'ein seder laMishnah' \u2014 which matches candidate 1's prose about Rav Huna's use of that principle, whereas candidate 0's prose covers the background principle itself (which precedes this passage) and candidate 2 covers the within-vs-between tractate resolution (which follows).",
+      "chosen_heading": "Mishna Order",
+      "current_heading": "Stam Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Within vs. Between",
+    "candidates": [
+      "Mishna Order",
+      "Within vs. Between",
+      "Halacha Pesuka",
+      "Tosafot's Expansion",
+      "No Forum Shopping",
+      "Tosafot's Objection",
+      "Disclosure Exception",
+      "Shabbat Invitations",
+      "Multiple Sages"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Within vs. Between",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Rav Huna's distinction between within vs. between tractates and Rav Yosef's claim that all of Nezikin is one tractate, which matches precisely the 'Within vs. Between' prose about *ein seder laMishnah* across tractates and *kulan Nezikin chada masechta hu*.",
+      "second_heading": "Halacha Pesuka",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the 'if you wish say' alternative resolution based on *hilchata pesikta* \u2014 the apodictic framing of *kol hameshane* \u2014 which matches exactly the 'Halacha Pesuka' prose discussing *mishum dekatani legabbei hilchata pesikta* and the significance of the *klal* formulation.",
+      "current_heading": "Within vs. Between",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Multiple Sages",
+    "candidates": [
+      "Halacha Pesuka",
+      "Tosafot's Expansion",
+      "No Forum Shopping",
+      "Tosafot's Objection",
+      "Disclosure Exception",
+      "Shabbat Invitations",
+      "Multiple Sages",
+      "Default: Greater/Strict",
+      "Torah vs. Rabbinic",
+      "Rambam's Caveat",
+      "Gadol Mechaveiro",
+      "Sources/Versions",
+      "Reversion Case",
+      "Meir: Never",
+      "Yehuda: Nuanced",
+      "Tosafot: Scenarios"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shabbat Invitations",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about Shabbat invitations and the ruling of Rabba bar bar Chana that halacha follows Rabbi Yehoshua ben Korcha, which matches heading 5 ('Shabbat Invitations') precisely.",
+      "second_heading": "Multiple Sages",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 concern the baraita on forum shopping (no asking a second sage after receiving a ruling) and the case of two simultaneous sages with the ruling of Rabbi Yehoshua ben Korcha, which matches heading 6 ('Multiple Sages') where the prose explicitly discusses both the forum-shopping baraita and the two-sages scenario.",
+      "current_heading": "Multiple Sages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Tosafot: Scenarios",
+    "candidates": [
+      "Default: Greater/Strict",
+      "Torah vs. Rabbinic",
+      "Rambam's Caveat",
+      "Gadol Mechaveiro",
+      "Sources/Versions",
+      "Reversion Case",
+      "Meir: Never",
+      "Yehuda: Nuanced",
+      "Tosafot: Scenarios",
+      "Always Accept",
+      "Halacha: Accept",
+      "Modern Issues",
+      "Before/After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "medium",
+      "reason": "Both items together cover the ika de'amrei version of the baraita plus Rabbi Shimon/Yehoshua ben Korcha's ruling and Rabbi Yochanan's halakhic conclusion, which spans the 'Tosafot: Scenarios' section (item 1) through content that bleeds into 'Always Accept' and 'Halacha: Accept'; however, since all items form one continuous baraita discussion and the current placement under heading 8 is the closest single home, it should remain there.",
+      "chosen_heading": "Tosafot: Scenarios",
+      "current_heading": "Tosafot: Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Before/After",
+    "candidates": [
+      "Always Accept",
+      "Halacha: Accept",
+      "Modern Issues",
+      "Before/After",
+      "Christians/Sunday"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text records exactly the dispute between Rabbi Yishmael and the Chachamim about three days before/after festivals that the 'Before/After' section prose explicitly introduces and describes.",
+      "chosen_heading": "Before/After",
+      "current_heading": "Before/After",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Christians/Sunday",
+    "candidates": [
+      "Christians/Sunday",
+      "Distinguishing",
+      "Including Holiday",
+      "Proceeds After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are directly addressed in the 'Christians/Sunday' prose, which discusses Shmuel's ruling about Christians always being forbidden per Rabbi Yishmael, and then raises and begins to resolve the objection that the Rabbis' position is identical to the first tanna \u2014 exactly what items 1 and 2 contain.",
+      "chosen_heading": "Christians/Sunday",
+      "current_heading": "Christians/Sunday",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Proceeds After",
+    "candidates": [
+      "Distinguishing",
+      "Including Holiday",
+      "Proceeds After",
+      "Shmuel: In/Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses whether business conducted during the forbidden period yields permitted or prohibited proceeds (nasava venasana), which is precisely what the 'Proceeds After' section's prose describes.",
+      "chosen_heading": "Proceeds After",
+      "current_heading": "Proceeds After",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Shmuel: In/Out",
+    "candidates": [
+      "Shmuel: In/Out",
+      "Shmuel's Logic",
+      "Nachum HaMada"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel: In/Out",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 introduce the two alternative distinctions (Shmuel's geographic ruling and Nachum HaMada's temporal leniency) as competing explanations for the dispute between the first tanna and the later Rabbis, matching the 'Shmuel: In/Out' section's prose about introducing these positions.",
+      "second_heading": "Nachum HaMada",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins 'gufa' (the matter itself) and launches into a direct examination of Nachum HaMada's opinion and the Sages' rejection of it, which is precisely what the 'Nachum HaMada' section's prose describes.",
+      "current_heading": "Shmuel: In/Out",
+      "moved": true
+    }
+  }
+]

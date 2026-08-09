@@ -168,8 +168,8 @@
           "timestamp": "55:27"
         }
       ],
-      "sefaria_index": 32,
-      "matched": true
+      "sefaria_index": 26,
+      "matched": false
     },
     {
       "title": "David's legitimacy: Doeg's challenge to Ruth the Moabitess connection and Beis HaMedrash response (continued)",
@@ -183,7 +183,7 @@
         }
       ],
       "sefaria_index": 32,
-      "matched": false
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -631,5 +631,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "34:42",
+  "amud_b_micro_title": "Shlomo and Egypt",
+  "shiur_start_daf": 75,
+  "shiur_start_amud": "b"
 }

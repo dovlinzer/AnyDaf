@@ -1,0 +1,546 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Signet Ring",
+    "candidates": [
+      "Intro & Mishnah Setup",
+      "Needle with Eye",
+      "Signet Ring",
+      "Kulyar & Kovelet",
+      "Aromatic Bottles",
+      "Meir vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself, listing all the prohibited items at once, which matches the 'Intro & Mishnah Setup' section that introduces the present Mishnah as a whole unit, rather than any section discussing a specific item within it.",
+      "chosen_heading": "Intro & Mishnah Setup",
+      "current_heading": "Signet Ring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Meir vs. Chachamim",
+    "candidates": [
+      "Kulyar & Kovelet",
+      "Aromatic Bottles",
+      "Meir vs. Chachamim",
+      "Ulla's Reversal",
+      "Clothing Definition",
+      "Shepherd Sackcloth"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meir vs. Chachamim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing mishna clause about Rabbi Meir vs. the Sages on the kovelet and balsam flask, which is precisely what heading 2 ('Meir vs. Chachamim') discusses.",
+      "second_heading": "Ulla's Reversal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the Gemara with Ulla's reversal rule for men, which is exactly what heading 3 ('Ulla's Reversal') is about.",
+      "current_heading": "Meir vs. Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Shepherd Sackcloth",
+    "candidates": [
+      "Ulla's Reversal",
+      "Clothing Definition",
+      "Shepherd Sackcloth",
+      "Gender Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection from the Tosefta about shepherds wearing sackcloth, which is precisely what the 'Shepherd Sackcloth' section's prose describes.",
+      "chosen_heading": "Shepherd Sackcloth",
+      "current_heading": "Shepherd Sackcloth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Gender Categories",
+    "candidates": [
+      "Gender Categories",
+      "Tefillin on Road"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Ulla's principle that 'women are a people unto themselves,' which is precisely what the 'Gender Categories' section's prose explains and analyzes in detail.",
+      "chosen_heading": "Gender Categories",
+      "current_heading": "Gender Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Tefillin on Road",
+    "candidates": [
+      "Tefillin on Road",
+      "Meir: Not Time-Bound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's objection about finding tefillin and a woman bringing them in, which is exactly what the 'Tefillin on Road' prose describes as the challenge to Ulla's principle.",
+      "chosen_heading": "Tefillin on Road",
+      "current_heading": "Tefillin on Road",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Meir: Not Time-Bound",
+    "candidates": [
+      "Meir: Not Time-Bound",
+      "Obligation vs. Reality",
+      "Finger Carrying Problem",
+      "Woman Treasurer",
+      "Spousal Ring Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's reasoning that night and Shabbat are appropriate times for tefillin, making it not time-bound and thus obligating women, which is precisely what the 'Meir: Not Time-Bound' section's prose discusses.",
+      "chosen_heading": "Meir: Not Time-Bound",
+      "current_heading": "Meir: Not Time-Bound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Spousal Ring Exchange",
+    "candidates": [
+      "Obligation vs. Reality",
+      "Finger Carrying Problem",
+      "Woman Treasurer",
+      "Spousal Ring Exchange",
+      "Rashi's View",
+      "Tam's View",
+      "Three-Way Debate",
+      "Kovelet Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara discussion about why wearing a signet ring on one's finger constitutes a normal (not backhanded) mode of carrying \u2014 the question in item 1, Rabbi Yirmiyah's answer in item 2, and Rava's broader solution in item 3 \u2014 which is exactly what the 'Finger Carrying Problem' prose describes, while the current placement 'Spousal Ring Exchange' only covers Rava's final answer (item 3) and not the opening challenge or Rabbi Yirmiyah's response.",
+      "chosen_heading": "Finger Carrying Problem",
+      "current_heading": "Spousal Ring Exchange",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Kovelet Definition",
+    "candidates": [
+      "Rashi's View",
+      "Tam's View",
+      "Three-Way Debate",
+      "Kovelet Definition",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage defines 'kovelet' as a bundle of fragrant herbs (pilon) per Rav and Rav Asi, which is precisely what the 'Kovelet Definition' section's prose discusses.",
+      "chosen_heading": "Kovelet Definition",
+      "current_heading": "Kovelet Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Three Positions",
+      "Woman's Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the three-way dispute (Rabbi Meir, the Rabbis, Rabbi Eliezer) about going out with a bundle of fragrant herbs, which is exactly what the 'Three Positions' prose section describes and analyzes.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Three Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Woman's Nature",
+    "candidates": [
+      "Woman's Nature",
+      "Eliezer Reconciled"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Woman's Nature",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains the three-way dispute about whether the bundle is a burden or ornament and Rabbi Eliezer's reasoning about the woman with foul odor, which matches exactly the 'Woman's Nature' prose about *man darko le'miremei* and Tosafot's clarification.",
+      "second_heading": "Eliezer Reconciled",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the apparent contradiction from a Baraita where Rabbi Eliezer uses *poter* language, which is precisely the tension the 'Eliezer Reconciled' prose describes and resolves with the *lo kashya* distinction.",
+      "current_heading": "Woman's Nature",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Eliezer Reconciled",
+    "candidates": [
+      "Eliezer Reconciled",
+      "Key Carrying Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly resolves the tension in Rabbi Eliezer's position by explaining that his language shifts depending on whether he is addressing Rabbi Meir or the Rabbis, which is precisely what the 'Eliezer Reconciled' prose describes.",
+      "chosen_heading": "Eliezer Reconciled",
+      "current_heading": "Eliezer Reconciled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Key Carrying Braita",
+    "candidates": [
+      "Key Carrying Braita",
+      "Oil Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita about key-carrying, the jarring introduction of koveles/tzluchit, and the chasuri mechasra resolution \u2014 exactly what the 'Key Carrying Braita' prose describes in detail.",
+      "chosen_heading": "Key Carrying Braita",
+      "current_heading": "Key Carrying Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Oil Requirement",
+    "candidates": [
+      "Oil Requirement",
+      "Empty Vessel Analogy",
+      "Rav Ashi's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Adda bar Ahava's inference about carrying sub-minimum food in a vessel, which is explicitly discussed and explained in the 'Oil Requirement' section's prose, making it the best match.",
+      "chosen_heading": "Oil Requirement",
+      "current_heading": "Oil Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rav Ashi's Logic",
+    "candidates": [
+      "Empty Vessel Analogy",
+      "Rav Ashi's Logic",
+      "Amos Prooftext"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement distinguishing the empty flask case from the general sub-minimum food rule, which is precisely what the prose under 'Rav Ashi's Logic' explains.",
+      "chosen_heading": "Rav Ashi's Logic",
+      "current_heading": "Rav Ashi's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Amos Prooftext",
+    "candidates": [
+      "Amos Prooftext",
+      "Pilayton Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Amos verse and gives Rav Yehuda/Shmuel's identification of 'chief ointments' as balsam oil, which is precisely the content described in the 'Amos Prooftext' heading's prose about the verse from Amos and aromatic oils.",
+      "chosen_heading": "Amos Prooftext",
+      "current_heading": "Amos Prooftext",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Pilayton Definition",
+    "candidates": [
+      "Pilayton Definition",
+      "Joy vs. Indulgence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection about pilayton/balsam oil and why the Sages didn't agree with Rabbi Yehuda ben Bava's decree, which is precisely what the 'Pilayton Definition' section's prose describes and analyzes.",
+      "chosen_heading": "Pilayton Definition",
+      "current_heading": "Pilayton Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Joy vs. Indulgence",
+    "candidates": [
+      "Joy vs. Indulgence",
+      "Three Things"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are explicitly discussed in the 'Joy vs. Indulgence' prose, which covers Abaye's challenge about mizrekei, the ta'anug/simcha distinction, Rabbi Yosi's interpretation of seru\u1e25im, Rabbi Abbahu's ridicule of that interpretation, and Rabbi Abbahu's alternative explanation about wife-swapping \u2014 exactly matching items 1-5 in order.",
+      "chosen_heading": "Joy vs. Indulgence",
+      "current_heading": "Joy vs. Indulgence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Three Things",
+    "candidates": [
+      "Three Things",
+      "Urination Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the three things that bring poverty, which matches exactly the 'Three Things' heading prose, not the 'Urination Details' section which discusses Rava's qualification about the specific manner of urination.",
+      "chosen_heading": "Three Things",
+      "current_heading": "Three Things",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Urination Details",
+    "candidates": [
+      "Urination Details",
+      "Hand-Washing Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the qualifications on the prohibition of urinating naked near one's bed, exactly matching the 'Urination Details' prose which describes the same Rava ruling with the same conditions (facing the bed, urinating on the ground vs. into a vessel).",
+      "chosen_heading": "Urination Details",
+      "current_heading": "Urination Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Hand-Washing Issue",
+    "candidates": [
+      "Hand-Washing Issue",
+      "Wife's Jewelry Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rava's qualification about denigrating hand-washing and Rav \u1e24isda's counter-statement about washing with full handfuls, which are exactly what the 'Hand-Washing Issue' prose section discusses in detail.",
+      "chosen_heading": "Hand-Washing Issue",
+      "current_heading": "Hand-Washing Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Wife's Jewelry Curse",
+    "candidates": [
+      "Wife's Jewelry Curse",
+      "Haughty Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a wife cursing her husband over jewelry (tachshit) and the condition that he has resources but withholds them, which matches precisely the prose of heading 0 ('Wife's Jewelry Curse').",
+      "chosen_heading": "Wife's Jewelry Curse",
+      "current_heading": "Wife's Jewelry Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Haughty Walking",
+    "candidates": [
+      "Haughty Walking",
+      "Eyeshadow & Winking",
+      "Walking Appearance",
+      "Perfume in Shoes",
+      "Punishment Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the expounded verses from Isaiah 3:16 as a single continuous unit, and heading 0 ('Haughty Walking') with its prose introduces this entire Rava derasha as a unified block, making it the correct home for the complete passage.",
+      "chosen_heading": "Haughty Walking",
+      "current_heading": "Haughty Walking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Punishment Reversal",
+    "candidates": [
+      "Eyeshadow & Winking",
+      "Walking Appearance",
+      "Perfume in Shoes",
+      "Punishment Reversal",
+      "Leprosy & Afflictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly expounds the punishments from Isaiah 3:24 as inversions of the women's sins, which is precisely what the 'Punishment Reversal' section's prose describes.",
+      "chosen_heading": "Punishment Reversal",
+      "current_heading": "Punishment Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148
+    ],
+    "current_heading": "Leprosy & Afflictions",
+    "candidates": [
+      "Leprosy & Afflictions",
+      "Jerusalem Men"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Leprosy & Afflictions' prose \u2014 item 1 is the leprosy/scab interpretation and item 2 is the 'poured like a jug / forest of hair' dispute, both of which are explicitly discussed there.",
+      "chosen_heading": "Leprosy & Afflictions",
+      "current_heading": "Leprosy & Afflictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154
+    ],
+    "current_heading": "Jerusalem Men",
+    "candidates": [
+      "Jerusalem Men",
+      "Cinnamon Fragrance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete passage about the arrogance and sexual innuendo of Jerusalem's men, which is precisely what the 'Jerusalem Men' section prose describes in detail.",
+      "chosen_heading": "Jerusalem Men",
+      "current_heading": "Jerusalem Men",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Cinnamon Fragrance",
+    "candidates": [
+      "Cinnamon Fragrance",
+      "Post-Churban Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the cinnamon fragrance in Jerusalem AND the post-destruction loss in a single continuous statement, and the current heading 'Cinnamon Fragrance' with its prose explicitly addresses both aspects (including the destruction aftermath), making it the better unified home for the complete passage.",
+      "chosen_heading": "Cinnamon Fragrance",
+      "current_heading": "Cinnamon Fragrance",
+      "moved": false
+    }
+  }
+]

@@ -310,8 +310,8 @@
           "timestamp": "50:53"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Resolving Rov vs. Karov: Two Equal Dovecotes and Vineyard Settlement Distinction",
@@ -334,7 +334,7 @@
           "timestamp": "54:37"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 15,
       "matched": true
     }
   ],
@@ -664,5 +664,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "44:52",
+  "amud_b_micro_title": "Rov Challenge",
+  "shiur_start_daf": 22,
+  "shiur_start_amud": "b"
 }

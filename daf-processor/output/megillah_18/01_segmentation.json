@@ -91,8 +91,8 @@
           "timestamp": "24:53"
         }
       ],
-      "sefaria_index": 29,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Digressions on Aramaic Vocabulary and the Knowledge of Rare Hebrew Words (continued)",
@@ -105,8 +105,8 @@
           "timestamp": "28:41"
         }
       ],
-      "sefaria_index": 29,
-      "matched": false
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Continuity in Reading: Breaks, Reversals, and the Requirement for Uninterrupted Order (continued)",
@@ -124,7 +124,7 @@
           "timestamp": "31:21"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 29,
       "matched": true
     },
     {
@@ -425,5 +425,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 30
+  "amud_b_sefaria_index": 30,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "29:56",
+  "amud_b_micro_title": "Rav Mona Measure",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "a"
 }

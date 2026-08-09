@@ -1,0 +1,439 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Tanna Kamma v. Abba Shaul",
+    "candidates": [
+      "Tanna Kamma v. Abba Shaul",
+      "Tevir Yitzrei in Aninus",
+      "R. Yitzchak's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about burial of an infant by one man and two women, and the resolution that Abba Shaul permits it only because aninus breaks one's inclination \u2014 are precisely the content described in candidate 0's prose about the Tanna Kamma v. Abba Shaul discussion.",
+      "chosen_heading": "Tanna Kamma v. Abba Shaul",
+      "current_heading": "Tanna Kamma v. Abba Shaul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "R. Yitzchak's Response",
+    "candidates": [
+      "Tevir Yitzrei in Aninus",
+      "R. Yitzchak's Response",
+      "Woman at Funeral Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content\u2014Rabbi Yitzchak's interpretation of the verse about the yetzer being active even during aninus, and Abba Shaul's counter-interpretation\u2014is precisely what the prose of candidate 1 describes in detail.",
+      "chosen_heading": "R. Yitzchak's Response",
+      "current_heading": "R. Yitzchak's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Woman at Funeral Story",
+    "candidates": [
+      "Woman at Funeral Story",
+      "Formalism Discussion",
+      "Elderly Woman Scenario",
+      "Vulnerability & Temptati\u2026",
+      "Kasherim Requirement",
+      "Ten Men Story",
+      "Collective Complicity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the Rabbis' concern about temptation even during acute mourning, illustrated by the woman-at-the-grave incident, which directly matches the 'Vulnerability & Temptation' section's prose discussing the *v'hahi uvda* story as evidence that the *yetzer hara* operates even in seemingly unlikely contexts \u2014 not the current placement's Rashi explanation about a staged infant funeral as cover for leaving the city.",
+      "chosen_heading": "Vulnerability & Temptati\u2026",
+      "current_heading": "Woman at Funeral Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Collective Complicity",
+    "candidates": [
+      "Formalism Discussion",
+      "Elderly Woman Scenario",
+      "Vulnerability & Temptati\u2026",
+      "Kasherim Requirement",
+      "Ten Men Story",
+      "Collective Complicity",
+      "Sotah Escorts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the full text beginning with 'aval isha achat' through Rav Yosef's beam analogy, spanning the content of both headings 3, 4, and 5 \u2014 but the passage starts with the kasherim/pritzim distinction (heading 3's topic), and since all items must go under one heading, heading 3 ('Kasherim Requirement') is where the passage begins and the prose there explicitly introduces this exact Talmudic text ('lo shanu ela b'ksherim').",
+      "chosen_heading": "Kasherim Requirement",
+      "current_heading": "Collective Complicity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Sotah Escorts",
+    "candidates": [
+      "Collective Complicity",
+      "Sotah Escorts",
+      "City vs. Journey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the single gemara unit of the sotah proof-attempt and its rejection, which is precisely what the 'Sotah Escorts' prose describes \u2014 Torah scholars are needed to warn the husband, not merely to prevent yichud.",
+      "chosen_heading": "Sotah Escorts",
+      "current_heading": "Sotah Escorts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "City vs. Journey",
+    "candidates": [
+      "City vs. Journey",
+      "Rava Flees Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda's ruling about city vs. road requirements and the sotah case as a potential proof, matching exactly the prose under 'City vs. Journey'.",
+      "chosen_heading": "City vs. Journey",
+      "current_heading": "City vs. Journey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rava Flees Woman",
+    "candidates": [
+      "Rava Flees Woman",
+      "Rav Yehuda Challenges",
+      "R. Chanina Standard",
+      "Lashes without Assumption",
+      "No Lashes for Married"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav (not Rava) and Rav Yehuda walking with a woman ahead of them, and Rav telling Rav Yehuda to hurry away \u2014 this is the narrative that candidate 0's prose describes, and candidates 1 and 2 cover the subsequent dialogue about the kasherim standard, which is also in this same passage but the opening scene matches candidate 0's heading.",
+      "chosen_heading": "Rava Flees Woman",
+      "current_heading": "Rava Flees Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "No Lashes for Married",
+    "candidates": [
+      "Rav Yehuda Challenges",
+      "R. Chanina Standard",
+      "Lashes without Assumption",
+      "No Lashes for Married",
+      "Mar Zutra's Method",
+      "Bad Reputation Lashes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Lashes for Married",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav's general ruling on lashes/yichud and Rav Ashi's qualification about married women and mamzer concerns, which is precisely what 'No Lashes for Married' prose describes.",
+      "second_heading": "Mar Zutra's Method",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about Mar Zutra's approach of flogging with proclamation and Rav Ashi's rejection of it, which matches 'Mar Zutra's Method' prose exactly.",
+      "current_heading": "No Lashes for Married",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Bad Reputation Lashes",
+    "candidates": [
+      "Mar Zutra's Method",
+      "Bad Reputation Lashes",
+      "Husband in City",
+      "Petach Patuach",
+      "Ladder Removal Story",
+      "Shushvinin Closeness",
+      "Inner/Outer Rooms"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bad Reputation Lashes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely about Rav's ruling that one is flogged for a bad rumor and Mar Zutra's method of administering it, which matches candidate 1's prose about 'malkin al lo tovah ha-shmu'ah' and Mar Zutra placing a yoke on the person.",
+      "second_heading": "Husband in City",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Rabba's 'ba'alah ba-ir' ruling, Rav Yosef's 'petach patuach' ruling, and the ladder story involving Rav Bibi \u2014 all of which begin with the 'Husband in City' section's topic, with the ladder story and shushvin explanation falling under subsequent headings.",
+      "current_heading": "Bad Reputation Lashes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Inner/Outer Rooms",
+    "candidates": [
+      "Husband in City",
+      "Petach Patuach",
+      "Ladder Removal Story",
+      "Shushvinin Closeness",
+      "Inner/Outer Rooms",
+      "Rashi vs. Rambam",
+      "Sister Sleepover Example",
+      "Abaye's Pots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly present Rav Kahana's ruling on inner/outer rooms and the baraita's opposing position followed by Abaye's stringent conclusion, which is precisely what the 'Inner/Outer Rooms' prose section describes in detail.",
+      "chosen_heading": "Inner/Outer Rooms",
+      "current_heading": "Inner/Outer Rooms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Abaye's Pots",
+    "candidates": [
+      "Rashi vs. Rambam",
+      "Sister Sleepover Example",
+      "Abaye's Pots",
+      "Captive Women Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Abaye's Pots' section prose discusses: Abaye arranging pitchers, Rava arranging reeds, and Avin's statement about the festivals being the vulnerable season of the year.",
+      "chosen_heading": "Abaye's Pots",
+      "current_heading": "Abaye's Pots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Captive Women Setup",
+    "candidates": [
+      "Captive Women Setup",
+      "Rava's Reeds",
+      "Amram's Temptation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers only the setup \u2014 captive women brought to Nehardea, housed in the attic, ladder removed, and Rav Amram seizing the ladder \u2014 which matches the 'Captive Women Setup' prose exactly, before reaching the halfway-point climax described in 'Amram's Temptation'.",
+      "chosen_heading": "Captive Women Setup",
+      "current_heading": "Captive Women Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Amram's Temptation",
+    "candidates": [
+      "Rava's Reeds",
+      "Amram's Temptation",
+      "Regalim Concern",
+      "Fire Alarm Strategy",
+      "Amram's Mastery",
+      "Rav Meir Mocks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the climax of Rav Amram's temptation story \u2014 his stopping halfway up the ladder, crying fire, shaming himself publicly, and expelling the yetzer hara as a pillar of fire \u2014 which is precisely what the 'Amram's Temptation' section's prose narrates and discusses.",
+      "chosen_heading": "Amram's Temptation",
+      "current_heading": "Amram's Temptation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Rav Meir Mocks",
+    "candidates": [
+      "Regalim Concern",
+      "Fire Alarm Strategy",
+      "Amram's Mastery",
+      "Rav Meir Mocks",
+      "Plimo's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The prose under 'Rav Meir Mocks' explicitly describes both the Rabbi Meir story and the Rabbi Akiva story as a paired sequence, matching exactly the two items in this passage.",
+      "chosen_heading": "Rav Meir Mocks",
+      "current_heading": "Rav Meir Mocks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Plimo's Story",
+    "candidates": [
+      "Plimo's Story",
+      "Meir's River Rope",
+      "Akiva's Palm Tree",
+      "Escalating Seduction",
+      "Yetzer Reveals Self",
+      "God's Rebuke",
+      "Years Without Intimacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together narrate the complete Plimo story \u2014 from his daily provocation of Satan through the Yom Kippur encounter, the escalating seduction, the fake death, the flight to the outhouse, and the revelation \u2014 which is exactly what heading 0 ('Plimo's Story') describes in its prose.",
+      "chosen_heading": "Plimo's Story",
+      "current_heading": "Plimo's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Years Without Intimacy",
+    "candidates": [
+      "Meir's River Rope",
+      "Akiva's Palm Tree",
+      "Escalating Seduction",
+      "Yetzer Reveals Self",
+      "God's Rebuke",
+      "Years Without Intimacy",
+      "Disguise as Charuta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose under 'Years Without Intimacy' summarizes: Rabbi Chiya bar Ashi praying to be saved from the evil inclination, and his wife overhearing and wondering why he prays this given their years of separation.",
+      "chosen_heading": "Years Without Intimacy",
+      "current_heading": "Years Without Intimacy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Disguise as Charuta",
+    "candidates": [
+      "Disguise as Charuta",
+      "Pomegranate Test",
+      "Oven Suicide",
+      "Intent to Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full encounter from his studying in the garden, through her disguise as Charuta, his proposition, and the pomegranate request \u2014 the current placement under 'Disguise as Charuta' captures this entire scene, and the prose there accurately describes all of this content including the pomegranate detail.",
+      "chosen_heading": "Disguise as Charuta",
+      "current_heading": "Disguise as Charuta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Intent to Sin",
+    "candidates": [
+      "Pomegranate Test",
+      "Oven Suicide",
+      "Intent to Sin",
+      "Lifelong Fasting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intent to Sin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the oven/confession/signs/intent scene that heading 2's prose describes in detail, including the 'ana miha l'isura ikvanna' line and the identity-reveal with signs.",
+      "second_heading": "Lifelong Fasting",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita proof-text about intent to sin (the nazirite woman), which heading 3's prose introduces as the doctrinal source for Rabbi Chiya's lifelong fasting \u2014 the essay places the supporting baraita under the 'Lifelong Fasting' section that draws the broader lesson.",
+      "current_heading": "Intent to Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Lifelong Fasting",
+    "candidates": [
+      "Lifelong Fasting",
+      "Nazirite Vow Case",
+      "Forgiveness for Intent",
+      "Akiva's Tears",
+      "Kal V'Chomer",
+      "Akiva's Tears",
+      "Issi's Ruling"
+    ],
+    "result": {
+      "best_index": 3,
+      "action": "single",
+      "chosen_heading": "Akiva's Tears",
+      "current_heading": "Lifelong Fasting",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,421 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Mishna Setup",
+      "Intent Changes Priority",
+      "Rashi's Approach",
+      "Woman's Consent",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself stating that yibum originally takes precedence when performed for the sake of the mitzvah, which is exactly what the 'Mishna Setup' prose describes.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Mishna Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Intent Changes Priority",
+      "Rashi's Approach",
+      "Woman's Consent",
+      "Rav's Position",
+      "Torah Priority",
+      "Get of Chalitzah",
+      "Brother Identification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav's ruling of 'ein kofin' and his practice of presenting both chalitzah and yibum as options to couples who came before him, citing the verse 've'im lo yachpotz ha'ish' \u2014 exactly what the prose under 'Rav's Position' describes.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Brother Identification",
+    "candidates": [
+      "Torah Priority",
+      "Get of Chalitzah",
+      "Brother Identification",
+      "Shoe Removal",
+      "Spitting & Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage demonstrates that Rav Yehuda holds 'ein kofin' by citing the get of chalitzah document \u2014 this is precisely what the 'Torah Priority' prose describes as evidence of Rav Yehuda's position, noting that the option of yibum is explicitly preserved even in the chalitzah procedure.",
+      "chosen_heading": "Torah Priority",
+      "current_heading": "Brother Identification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Spitting & Verse",
+    "candidates": [
+      "Shoe Removal",
+      "Spitting & Verse",
+      "Rav Achai/Ravina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Spitting & Verse' section: item 1 describes the spitting visible to the beis din landing on the ground, and item 2 is Rabbi \u1e24iyya bar Avya/Rav Yehuda's addition about dictating the Torah verse \u2014 both of which the prose explicitly discusses.",
+      "chosen_heading": "Spitting & Verse",
+      "current_heading": "Spitting & Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rav Achai/Ravina",
+    "candidates": [
+      "Rav Achai/Ravina",
+      "Later Reversion",
+      "Spiritual Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that initially yibum took precedence but now chalitzah takes precedence \u2014 this is precisely the content that 'Later Reversion' introduces when it reports the reversion back to yibum taking precedence, and the Gemara passage is the baseline being cited/paraphrased before that reversion is announced.",
+      "chosen_heading": "Later Reversion",
+      "current_heading": "Rav Achai/Ravina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Spiritual Capacity",
+    "candidates": [
+      "Later Reversion",
+      "Spiritual Capacity",
+      "Shift in Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rami bar \u1e24ama's statement about reverting to levirate marriage taking precedence AND Rav Na\u1e25man bar Yitz\u1e25ak's immediate challenge, which together form the complete unit that heading 0 ('Later Reversion') discusses in its prose \u2014 heading 0's prose explicitly mentions both the reversion statement and notes it appears to undo the preceding discussion, making it the best home for the entire passage.",
+      "chosen_heading": "Later Reversion",
+      "current_heading": "Spiritual Capacity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Shift in Views",
+    "candidates": [
+      "Spiritual Capacity",
+      "Shift in Views",
+      "Abba Shaul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the doctrinal shift between Abba Shaul and the Rabbanan, which is precisely what the 'Shift in Views' section prose discusses.",
+      "chosen_heading": "Shift in Views",
+      "current_heading": "Shift in Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Abba Shaul",
+    "candidates": [
+      "Abba Shaul",
+      "Rabbis' Position",
+      "Braita Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita containing both Abba Shaul's position and the Rabbis' counter-position, and the current heading's prose directly discusses this exact baraita text, analyzing Abba Shaul's argument about intent and the mamzer concern, making it the clearest match.",
+      "chosen_heading": "Abba Shaul",
+      "current_heading": "Abba Shaul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Braita Source",
+    "candidates": [
+      "Rabbis' Position",
+      "Braita Source",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items constitute the baraita discussion \u2014 the structural heter/issur/heter argument, Rav Yitz\u1e25ak bar Avdimi's attribution to Abba Shaul, and Rava's alternative reading for the Rabbanan \u2014 which is precisely what the 'Braita Source' prose describes in detail.",
+      "chosen_heading": "Braita Source",
+      "current_heading": "Braita Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Rava's Reading",
+      "Matza Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita's matza/meal-offering clause being tested against Rava's reading \u2014 the structural parallel the gemara draws \u2014 which is precisely what heading 0 ('Rava's Reading') describes, while heading 1 discusses the subsequent working-through of what the two 'grades' of eating might be.",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Rava's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Matza Case",
+    "candidates": [
+      "Matza Case",
+      "False Alternatives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items trace Rava's explanation of the matza/meal-offering case \u2014 the hava amina that the kohen might not eat, the refutation from 've'achlu otam,' the reframing that another kohen might eat instead, and the closing challenge to Abba Shaul's reading \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Matza Case",
+      "current_heading": "Matza Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "False Alternatives",
+    "candidates": [
+      "False Alternatives",
+      "Scalded Matza",
+      "Halacha Purpose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "False Alternatives",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the rejected alternatives (achilah gassah and chametz), which is exactly what the 'False Alternatives' prose describes.",
+      "second_heading": "Scalded Matza",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 address the chalut/boiled matza question and its resolution, which is precisely what the 'Scalded Matza' prose discusses.",
+      "current_heading": "False Alternatives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Halacha Purpose",
+    "candidates": [
+      "Scalded Matza",
+      "Halacha Purpose",
+      "Babylonian Polygamy",
+      "Eretz Yisrael Monogamy",
+      "Sefardic Tradition",
+      "Ashkenazi Tradition",
+      "Tosafot Reinterpret",
+      "Chalitzah Share"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question of l'mai hilchata regarding chalut matza and answers that one fulfills the Pesach obligation with it, which is precisely what the 'Halacha Purpose' section's prose describes.",
+      "chosen_heading": "Halacha Purpose",
+      "current_heading": "Halacha Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Chalitzah Share",
+    "candidates": [
+      "Babylonian Polygamy",
+      "Eretz Yisrael Monogamy",
+      "Sefardic Tradition",
+      "Ashkenazi Tradition",
+      "Tosafot Reinterpret",
+      "Chalitzah Share",
+      "Yibum Estate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items (the mishna and its gemara discussion) deal specifically with the chalitzah-performer's share in the inheritance and why the mishna needed to state it, which is precisely what the 'Chalitzah Share' section's prose discusses.",
+      "chosen_heading": "Chalitzah Share",
+      "current_heading": "Chalitzah Share",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Yibum Estate",
+    "candidates": [
+      "Yibum Estate",
+      "Father Precedence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father Precedence",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the father taking precedence over all descendants in inheritance, which matches the 'Father Precedence' prose discussing the father's prior claim displacing the yabam's estate rights.",
+      "second_heading": "Yibum Estate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new Mishnah unit about one who consummates levirate marriage acquiring the brother's property, with the verse yakum al shem achiv as justification \u2014 this is the foundational yibum-estate acquisition rule discussed in the 'Yibum Estate' prose.",
+      "current_heading": "Yibum Estate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Father Precedence",
+    "candidates": [
+      "Father Precedence",
+      "Yibum vs Estate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss Rabbi Yehuda's ruling that the father takes the property, Ulla's/Rabbi Yitz\u1e25ak Nappa\u1e25a's confirmation of that halakha, the bechor analogy explaining Rabbi Yehuda's reasoning, and the gemara's challenge and resolution about the double-portion implication \u2014 all of which are explicitly discussed in the 'Father Precedence' prose.",
+      "chosen_heading": "Father Precedence",
+      "current_heading": "Father Precedence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Yibum vs Estate",
+    "candidates": [
+      "Yibum vs Estate",
+      "Text Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the Gemara's question about whether yibum is conditional on the absence of a father (nachalah link), which is precisely what the 'Yibum vs Estate' section's prose discusses and refutes.",
+      "chosen_heading": "Yibum vs Estate",
+      "current_heading": "Yibum vs Estate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Text Correction",
+    "candidates": [
+      "Text Correction",
+      "Man's Relatives"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Man's Relatives",
+    "candidates": [
+      "Man's Relatives",
+      "Woman's Relatives",
+      "Tzara Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Man's Relatives",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form the complete Mishna covering the prohibitions on the man (his yevama's relatives) and the woman (his relatives), matching exactly what headings 0 and 1 discuss \u2014 but since the Mishna opens with the man's prohibitions and the current placement is under 'Man's Relatives,' items 1-3 together span both headings 0 and 1; however, the structural split is between item 3 (end of the main Mishna body) and item 4 (the additional principle about tzara rules), which is a new distinct case.",
+      "second_heading": "Tzara Rules",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the tzara/rival-wife principle (mutar bikrovat tzarat chalutzato / assur betzarat krovat chalutzato), which is precisely the content discussed under heading 2 'Tzara Rules.'",
+      "current_heading": "Man's Relatives",
+      "moved": true
+    }
+  }
+]

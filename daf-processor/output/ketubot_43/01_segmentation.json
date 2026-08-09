@@ -35,7 +35,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Interpretive Dispute Between Rabbi Shimon and the Rabbanan on What the Father Implicitly Demands in a Rape Claim",
@@ -64,7 +64,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Earnings and Property Rights of a Daughter Supported by the Estate After Her Father's Death",
@@ -179,7 +179,7 @@
           "timestamp": "49:48"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -222,8 +222,8 @@
           "timestamp": "52:21"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "The Mishnah's Choice of Two Deaths vs. Two Divorces as a Window Into the Halacha on Agunah and the Hazakah of Widowhood",
@@ -246,7 +246,7 @@
           "timestamp": "52:21"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 20,
       "matched": true
     }
   ],
@@ -480,5 +480,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "49:48",
+  "amud_b_micro_title": "Final Halacha",
+  "shiur_start_daf": 43,
+  "shiur_start_amud": "a"
 }

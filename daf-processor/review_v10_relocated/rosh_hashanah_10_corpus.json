@@ -1,0 +1,225 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "30-Day Rule",
+    "candidates": [
+      "Rosh Hashanah Intro",
+      "Three Planting Methods",
+      "30-Day Rule",
+      "Fruit Restrictions",
+      "Tu B'Shvat Transition",
+      "Misalignment Issue",
+      "Biblical Sources"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "30-Day Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the 30-day rule for planting before Rosh Hashanah and its effect on orlah-year counting and shmita preservation, which is precisely what the '30-Day Rule' prose discusses.",
+      "second_heading": "Fruit Restrictions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the extension of fruit prohibitions until Tu B'Shvat for both orlah and revai, which is exactly what the 'Fruit Restrictions' prose describes.",
+      "current_heading": "30-Day Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Biblical Sources",
+    "candidates": [
+      "Fruit Restrictions",
+      "Tu B'Shvat Transition",
+      "Misalignment Issue",
+      "Biblical Sources",
+      "Rabbi Meir: One Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the biblical source (Leviticus 19:23\u201325) for the orlah/revai extensions past Rosh Hashanah until Tu B'Shvat, which is precisely what the 'Biblical Sources' prose section describes.",
+      "chosen_heading": "Biblical Sources",
+      "current_heading": "Biblical Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Rabbi Meir: One Day",
+    "candidates": [
+      "Rabbi Meir: One Day",
+      "Rava's Kal Vachomer",
+      "Niddah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about sacrificial animal ages (par/egel/ben bakar) that the prose of heading 0 explicitly discusses in detail, including Rabbi Meir's position on twenty-four months and one day and Rabbi Elazar's thirty-day requirement.",
+      "chosen_heading": "Rabbi Meir: One Day",
+      "current_heading": "Rabbi Meir: One Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Niddah Example",
+    "candidates": [
+      "Rava's Kal Vachomer",
+      "Niddah Example",
+      "Trees vs. Cows",
+      "Rooting Time in Orlah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous argument of Rava's kal vachomer \u2014 item 1 is the Gemara's rejection setting up the distinction between beginning and end of year, and items 2-3 are Rava's kal vachomer response using the niddah example \u2014 which is precisely what candidate 0 'Rava's Kal Vachomer' describes in its prose, while the current placement under 'Niddah Example' (candidate 1) captures only part of the passage's content.",
+      "chosen_heading": "Rava's Kal Vachomer",
+      "current_heading": "Niddah Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Rooting Time in Orlah",
+    "candidates": [
+      "Trees vs. Cows",
+      "Rooting Time in Orlah",
+      "The 30-Day Problem",
+      "Double-Duty Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the rooting-time opinions (thirty days, three days, two weeks) from the shmita baraita and Rav Nachman's statement about how those rooting times combine with the thirty-day year-count requirement for orlah \u2014 precisely the content described in the 'Rooting Time in Orlah' prose.",
+      "chosen_heading": "Rooting Time in Orlah",
+      "current_heading": "Rooting Time in Orlah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Double-Duty Solution",
+    "candidates": [
+      "The 30-Day Problem",
+      "Double-Duty Solution",
+      "Shmita Conclusion",
+      "Rabbi Meir: Genesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present exactly the 'ela le-olam Rabbi Meir / li-klita' resolution and the 'yom sheloshim oleh le-kan u-le-kan' double-duty answer, which is precisely what the 'Double-Duty Solution' prose describes in detail.",
+      "chosen_heading": "Double-Duty Solution",
+      "current_heading": "Double-Duty Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rabbi Meir: Genesis",
+    "candidates": [
+      "Shmita Conclusion",
+      "Rabbi Meir: Genesis",
+      "Rabbi Eliezer: Genesis",
+      "Day-Month-Year Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yochanan's observation that Rabbi Meir and Rabbi Eliezer derived their positions from the same verse, with item 1 giving Rabbi Meir's derivation and item 2 giving Rabbi Eliezer's counter-reading \u2014 this is exactly what candidate 1 ('Rabbi Meir: Genesis') describes, as it covers Rabbi Yochanan's introduction and Rabbi Meir's derivation, while the current placement is correct.",
+      "chosen_heading": "Rabbi Meir: Genesis",
+      "current_heading": "Rabbi Meir: Genesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Day-Month-Year Analogy",
+    "candidates": [
+      "Rabbi Eliezer: Genesis",
+      "Day-Month-Year Analogy",
+      "Rabbi Eliezer Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's (Eliezer's) derivation from the verse that one day counts as a month AND the analogy to thirty days counting as a year \u2014 but the prose under candidate 0 ('Rabbi Eliezer: Genesis') discusses exactly this derivation from the verse, while candidate 1 separates the analogy step; however, the Talmudic text presents both steps together in one continuous passage, and candidate 0's prose actually covers both the day-counts-as-month inference and the analogy, making it the better single home for the unified passage.",
+      "chosen_heading": "Rabbi Eliezer: Genesis",
+      "current_heading": "Day-Month-Year Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabbi Eliezer Timeline",
+    "candidates": [
+      "Day-Month-Year Analogy",
+      "Rabbi Eliezer Timeline",
+      "Shared Remembrances",
+      "Rabbi Yehoshua Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage draws an inference that both Rabbi Meir and Rabbi Eliezer hold the world was created in Nisan, which directly relates to Rabbi Yehoshua's timeline section where the Gemara is resolving the implications of the flood narrative verses in the context of which month the world was created \u2014 and the prose of section 3 explicitly mentions that 'the full elaboration of how these positions are grounded in the verses of the flood narrative will be the subject of the next daf,' indicating this inferential conclusion about both Tannaim agreeing on Nisan belongs there.",
+      "chosen_heading": "Rabbi Yehoshua Timeline",
+      "current_heading": "Rabbi Eliezer Timeline",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rabbi Yehoshua Timeline",
+    "candidates": [
+      "Shared Remembrances",
+      "Rabbi Yehoshua Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the full baraita with Rabbi Eliezer's position (items 1-2) and Rabbi Yehoshua's position (item 3), and the prose under 'Shared Remembrances' (index 0) is the one that actually elaborates Rabbi Eliezer's timeline in detail before noting what both Tannaim share, making it the better home for this complete baraita passage rather than the 'Rabbi Yehoshua Timeline' section where it currently sits.",
+      "chosen_heading": "Shared Remembrances",
+      "current_heading": "Rabbi Yehoshua Timeline",
+      "moved": true
+    }
+  }
+]

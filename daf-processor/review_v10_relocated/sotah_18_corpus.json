@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Writing & Scraping",
+    "candidates": [
+      "Two Scrolls, One Vessel",
+      "Writing & Scraping",
+      "Mixed Waters Problem",
+      "Breira & Re-division",
+      "Tosafot on Breira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's initial dilemma about writing two scrolls for two sotot and erasing them into one cup, which is precisely what heading 0 ('Two Scrolls, One Vessel') describes, while heading 1 ('Writing & Scraping') discusses the underlying analytical framework (ketivah lishmah vs. mechika lishmah) that the essay author uses to explain the dilemma rather than the dilemma itself.",
+      "chosen_heading": "Two Scrolls, One Vessel",
+      "current_heading": "Writing & Scraping",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Tosafot on Breira",
+    "candidates": [
+      "Mixed Waters Problem",
+      "Breira & Re-division",
+      "Tosafot on Breira",
+      "Straw/Sieve Drinking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the commingled-waters problem (mechika lishmah, hai lav didah ka shatya) and the breira sub-question that follows directly from it, and heading 0 ('Mixed Waters Problem') introduces exactly this chain of progressive scenarios including the hai lav didah formulation, while heading 1 ('Breira & Re-division') covers the re-division/breira conclusion \u2014 but since both items together form the continuous Gemara text that heading 0's prose describes as a series of progressive scenarios culminating in teiku, and heading 0's prose already anticipates the breira question as part of the same unit, the passage fits best under heading 0.",
+      "chosen_heading": "Mixed Waters Problem",
+      "current_heading": "Tosafot on Breira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Straw/Sieve Drinking",
+    "candidates": [
+      "Tosafot on Breira",
+      "Straw/Sieve Drinking",
+      "Spilled Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's dilemma about drinking through a fiber or tube and whether that constitutes a normal manner of drinking, which exactly matches the 'Straw/Sieve Drinking' section's prose discussion of hashka besiv and bishfoferet.",
+      "chosen_heading": "Straw/Sieve Drinking",
+      "current_heading": "Straw/Sieve Drinking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Spilled Water",
+    "candidates": [
+      "Spilled Water",
+      "Repeated Oath in Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Ashi's dilemma about spilled water and concludes with teiku, which is exactly what the 'Spilled Water' section's prose describes.",
+      "chosen_heading": "Spilled Water",
+      "current_heading": "Spilled Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Repeated Oath in Torah",
+    "candidates": [
+      "Repeated Oath in Torah",
+      "Oath with/without Alah",
+      "Shvuah with Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rav's question about the two oaths and Rava's objection/alternative \u2014 are precisely what candidate 0's prose describes: the question of why two oaths are mentioned, the suggestion that one precedes and one follows the scraping, and Rava's rebuttal that both appear before the scraping in the text.",
+      "chosen_heading": "Repeated Oath in Torah",
+      "current_heading": "Repeated Oath in Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Shvuah with Curse",
+    "candidates": [
+      "Oath with/without Alah",
+      "Shvuah with Curse",
+      "Rashi on Two Oaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's debate about what constitutes a shvuah she'yesh imah alah \u2014 Rav Amram/Rav's formulation and Rava's objection and counter-proposal \u2014 which is precisely what the 'Shvuah with Curse' prose describes.",
+      "chosen_heading": "Shvuah with Curse",
+      "current_heading": "Shvuah with Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rashi on Two Oaths",
+    "candidates": [
+      "Rashi on Two Oaths",
+      "Double Amen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's final formulation resolving the tension between alah and shvuah, which is precisely what the 'Rashi on Two Oaths' prose discusses in its closing lines, explicitly referencing 'Rav Ashi's final proposal' as the culmination of the Gemara's difficulty in fusing the two elements.",
+      "chosen_heading": "Rashi on Two Oaths",
+      "current_heading": "Rashi on Two Oaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Double Amen",
+    "candidates": [
+      "Double Amen",
+      "Different Men & Periods",
+      "Arusah & Nesuah",
+      "Shomeret Yevam Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Different Men & Periods",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the Mishnah covering amen on curse/oath and amen for this man/another man and the betrothed/married periods, which aligns best with the 'Different Men & Periods' section (and the prior 'Double Amen' heading already has its own prose), but since the Mishnah begins here as a unit and items 1-2 together span candidates 1-3, item 1's specific content about amen me'ish zeh/amen me'ish acher and arusah/nesuah fits under candidate 1 'Different Men & Periods' as the introductory Mishnah text.",
+      "second_heading": "Shomeret Yevam Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers shomeret yavam and mekunesah and the concluding amen shelo nitmesi clause, which matches candidate 3 'Shomeret Yevam Status' whose prose explicitly discusses these exact elements.",
+      "current_heading": "Double Amen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Shomeret Yevam Status",
+    "candidates": [
+      "Different Men & Periods",
+      "Arusah & Nesuah",
+      "Shomeret Yevam Status",
+      "Rav Hamnuna Position",
+      "EY Disagreement & Akiva",
+      "Why Not Rav Hamnuna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rabbi Meir on past/future amen, the limits of oath stipulation (not before betrothal or after divorce), the divorced-and-remarried case, and the general principle about forbidden status \u2014 all correspond directly to the 'Shomeret Yevam Status' prose, which explicitly discusses the 'zeh klal' principle and the 'matneh imah' language governing oath scope.",
+      "chosen_heading": "Shomeret Yevam Status",
+      "current_heading": "Shomeret Yevam Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Why Not Rav Hamnuna",
+    "candidates": [
+      "Rav Hamnuna Position",
+      "EY Disagreement & Akiva",
+      "Why Not Rav Hamnuna",
+      "Previous & Later Marr."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-2 present Rav Hamnuna's position and proof, while items 3-4 present the EY rejection and the Rabbi Akiva attribution \u2014 all four items together form the complete unit that candidate 1 ('EY Disagreement & Akiva') discusses, which covers both Rav Hamnuna's argument and its rejection by the Sages of Eretz Yisrael via the Rabbi Akiva attribution.",
+      "chosen_heading": "EY Disagreement & Akiva",
+      "current_heading": "Why Not Rav Hamnuna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Previous & Later Marr.",
+    "candidates": [
+      "Why Not Rav Hamnuna",
+      "Previous & Later Marr.",
+      "Forbidden = Oath Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yirmiah's dilemma about stipulating regarding a first marriage and the yavam's brother's marriage, which is precisely what the 'Previous & Later Marr.' section's prose describes and analyzes.",
+      "chosen_heading": "Previous & Later Marr.",
+      "current_heading": "Previous & Later Marr.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Forbidden = Oath Allowed",
+    "candidates": [
+      "Forbidden = Oath Allowed",
+      "Future Marriage Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Mishnah's general rule (kol shetiba'el) and the contrapositive inference (shema mina) that wherever intercourse would forbid her, stipulation is permitted \u2014 exactly what the prose under 'Forbidden = Oath Allowed' describes.",
+      "chosen_heading": "Forbidden = Oath Allowed",
+      "current_heading": "Forbidden = Oath Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Future Marriage Limits",
+    "candidates": [
+      "Future Marriage Limits",
+      "Three Jeopardy Views"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Jeopardy Views",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 clarifies Rabbi Meir's view about the oath's future orientation, which is background context but does not match either candidate's prose well; however, it leads into the 'Future Marriage Limits' discussion and is closer to that section than to 'Three Jeopardy Views'.",
+      "second_heading": "Future Marriage Limits",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are precisely the content described in the 'Future Marriage Limits' prose \u2014 Rav Ashi's dilemma about stipulating regarding a later remarriage and the Gemara's resolution from the Mishnah's language, concluding 'shema mina'.",
+      "current_heading": "Future Marriage Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Three Jeopardy Views",
+    "candidates": [
+      "Three Jeopardy Views",
+      "Nechunya Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0 ('Three Jeopardy Views') explicitly covers all three positions in the baraita \u2014 the tana kama, Rabbi Yehuda, and the Rabbis \u2014 which is precisely what all three items contain, making it the best match for the entire passage.",
+      "chosen_heading": "Three Jeopardy Views",
+      "current_heading": "Three Jeopardy Views",
+      "moved": false
+    }
+  }
+]

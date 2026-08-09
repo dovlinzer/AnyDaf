@@ -130,7 +130,7 @@
           "timestamp": "31:35"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -183,7 +183,7 @@
           "timestamp": "40:56"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -251,7 +251,7 @@
           "timestamp": "50:27"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -509,5 +509,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "52:47",
+  "amud_b_micro_title": "Silence Analysis",
+  "shiur_start_daf": 36,
+  "shiur_start_amud": "b"
 }

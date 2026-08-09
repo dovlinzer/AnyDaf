@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Sefer Torah Status",
+    "candidates": [
+      "Pidyon Shvuyim Intro",
+      "Seforim Pricing Rule",
+      "Sefer Torah Status",
+      "Lignoz Principle",
+      "Min & Yisaref",
+      "Three Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Budya's question to Rav Ashi about whether buying a sefer torah at market value implies it is fit for use, which is precisely what the 'Sefer Torah Status' prose describes.",
+      "chosen_heading": "Sefer Torah Status",
+      "current_heading": "Sefer Torah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Three Opinions",
+    "candidates": [
+      "Lignoz Principle",
+      "Min & Yisaref",
+      "Three Opinions",
+      "Rabbi Eliezer View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Min & Yisaref",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Nachman's ruling that a sefer torah written by a min must be burned, which is precisely what the 'Min & Yisaref' prose describes.",
+      "second_heading": "Three Opinions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the three-way contradiction among baraitot regarding a sefer torah written by a gentile, which is exactly what the 'Three Opinions' prose discusses.",
+      "current_heading": "Three Opinions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rabbi Eliezer View",
+    "candidates": [
+      "Rabbi Eliezer View",
+      "Disqualified Writers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Eliezer's position that unspecified gentile intentions are for idol worship, which is precisely what the 'Rabbi Eliezer View' prose discusses.",
+      "chosen_heading": "Rabbi Eliezer View",
+      "current_heading": "Rabbi Eliezer View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Disqualified Writers",
+    "candidates": [
+      "Disqualified Writers",
+      "Rabban Gamliel Permit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita of Rav Hamnuna about disqualified writers and the drasha from ukeshartem uchetavtem, which is exactly what the prose under 'Disqualified Writers' describes and analyzes.",
+      "chosen_heading": "Disqualified Writers",
+      "current_heading": "Disqualified Writers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rabban Gamliel Permit",
+    "candidates": [
+      "Rabban Gamliel Permit",
+      "Apostate Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita permitting purchase of Torah scrolls from gentiles and the incident with the gentile scribe in Tzidan that Rabban Shimon ben Gamliel permitted, which is exactly what heading 0's prose discusses as the third permissive position with its practical precedent.",
+      "chosen_heading": "Rabban Gamliel Permit",
+      "current_heading": "Rabban Gamliel Permit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Apostate Explanation",
+    "candidates": [
+      "Apostate Explanation",
+      "Tosafot Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about the contradiction between Rabban Shimon ben Gamliel requiring ibud lishma but apparently not writing lishma, followed by the baraita source and Rabba bar Shmuel/Rav Ashi's resolution via the convert explanation \u2014 exactly what the 'Apostate Explanation' prose describes.",
+      "chosen_heading": "Apostate Explanation",
+      "current_heading": "Apostate Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Tosafot Alternative",
+    "candidates": [
+      "Tosafot Alternative",
+      "Mishnah Rules",
+      "Two Rationales",
+      "Rabbi Yehuda",
+      "Rabbi Meir",
+      "Rabbi Elazar",
+      "Gemara Debate",
+      "Explicit Statement",
+      "Two Versions",
+      "Two Versions",
+      "Tosafot vs Rashi",
+      "Public Announcement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "No candidate prose discusses purchasing sacred items from gentiles or monetary limits like *terapa'ik*, making all candidates equally poor matches; the current placement is retained with low confidence.",
+      "chosen_heading": "Tosafot Alternative",
+      "current_heading": "Tosafot Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Public Announcement",
+    "candidates": [
+      "Mishnah Rules",
+      "Two Rationales",
+      "Rabbi Yehuda",
+      "Rabbi Meir",
+      "Rabbi Elazar",
+      "Gemara Debate",
+      "Explicit Statement",
+      "Two Versions",
+      "Two Versions",
+      "Tosafot vs Rashi",
+      "Public Announcement",
+      "The Case of the Man's Vow"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Public Announcement",
+      "first_confidence": "low",
+      "first_reason": "The Arab merchant woman/phylacteries anecdote about Abaye doesn't match any candidate heading well, but sits closest to the current placement as a stray narrative interlude.",
+      "second_heading": "Mishnah Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Mishnah text itself \u2014 the opening rules about shem ra and neder, Rabbi Yehuda's distinction, and Rabbi Meir's distinction \u2014 which directly correspond to the 'Mishnah Rules' heading's prose about hamotzi et ishto mishum shem ra and the category of divorce with permanent consequences.",
+      "current_heading": "Public Announcement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "The Case of the Man's Vow",
+    "candidates": [
+      "The Case of the Man's Vow",
+      "Mishnah Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the incident in Tzaidan where a man vowed and divorced his wife, and the sages permitted remarriage for tikkun olam \u2014 exactly what heading 0's prose discusses in detail.",
+      "chosen_heading": "The Case of the Man's Vow",
+      "current_heading": "The Case of the Man's Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Mishnah Position",
+    "candidates": [
+      "Mishnah Position",
+      "Wife Remarries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage discusses Rav Na\u1e25man's qualification of the mishna's rule about when a man who divorces his wife may not remarry her (due to bad reputation or vow), which relates to the mishna cases discussed under heading 0, though the prose there focuses on the aylonit case rather than the shem ra/neder cases; no other candidate is a clearly better match, so current placement is preferred.",
+      "chosen_heading": "Mishnah Position",
+      "current_heading": "Mishnah Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Wife Remarries",
+    "candidates": [
+      "Wife Remarries",
+      "Silence Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraitot directly support the two versions of Rav Na\u1e25man's ruling about why a man who divorces for bad reputation or vow may not remarry her \u2014 Rabbi Meir's version (concern about retroactive invalidity of the get and mamzerut) and Rabbi Elazar's version (deterrence of licentiousness) \u2014 which are precisely the concerns underlying the 'Silence Strategy' prose discussion about the husband potentially claiming he would not have divorced her had he known, casting doubt on the get's legitimacy.",
+      "chosen_heading": "Silence Strategy",
+      "current_heading": "Wife Remarries",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Silence Strategy",
+    "candidates": [
+      "Wife Remarries",
+      "Silence Strategy",
+      "Reconciliation",
+      "Abyei Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "These four items discuss Rabbi Yehuda's ruling that a publicly-known vow prevents remarriage (with the Gibeon source and the Rabbanan's counter), and then the definition of 'public' \u2014 this is precisely the earlier Mishnah about nedarim that the 'Reconciliation' prose describes as the source of the apparent contradiction with Rabbi Yehuda's position in the aylonit case.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Silence Strategy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Abyei Analysis",
+    "candidates": [
+      "Reconciliation",
+      "Abyei Analysis",
+      "Tnai Kafful"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 9,
+      "split2": 11,
+      "first_heading": "Abyei Analysis",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses Rabbi Meir vs Rabbi Elazar on vows requiring/not requiring dissolution, which is the background material cited in the Abaye Analysis section explaining how Rabbi Yehuda combines their positions.",
+      "second_heading": "Reconciliation",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 contains the Mishna about the ailonit and Rabbi Yehuda's 'silence is preferable' statement, which is precisely the case the Reconciliation section describes as creating the apparent contradiction about kilkul.",
+      "third_heading": "Reconciliation",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara's discussion of the apparent contradiction between Rabbi Yehuda's and the Rabbis' positions across the two Mishnahs, Shmuel's 'reverse' proposal, and Abaye's and Rava's resolutions \u2014 all of which the Reconciliation section describes as its content.",
+      "current_heading": "Abyei Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Tnai Kafful",
+    "candidates": [
+      "Tnai Kafful",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rava's resolution that the Rabbis in this mishna are Rabbi Meir who requires tnai kafful, and the husband failed to compound his condition \u2014 content that precisely matches the 'Tnai Kafful' prose section's discussion of Rabbi Meir's requirement and its consequences.",
+      "chosen_heading": "Tnai Kafful",
+      "current_heading": "Tnai Kafful",
+      "moved": false
+    }
+  }
+]

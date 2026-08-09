@@ -42,19 +42,13 @@ The *gemara*, however, is still not satisfied. *V'akti l'hachi hu d'ata?* — ev
 
 ### Shficha Alternative
 
-The *gemara* addresses this by noting that *Beit Hillel* and *Beit Shammai* could hold *k'Rabbi Akiva*, who rules *lo zrika bikhlal shficha v'lo shficha bikhlal zrika* — throwing and pouring are mutually exclusive categories; each serves its own type of offering and cannot substitute for the other. According to *Rabbi Akiva*, there is no ruling that *shficha* works as an alternative to *zrika*, and therefore *v'dam zvacheicha yishafech* need not be reserved for that teaching. It remains available to derive that one application suffices.
-
----
+The *gemara* notes that *v'dam zvachecha* is still needed for another *limud*.
 
 ## Bechor Drashos
 
 ### Second Drasha
 
-The *gemara*, however, continues to press the question. Even granting that *Rabbi Akiva*'s position removes one usage of the *pasuk*, the *gemara* cites yet another *baraita* that appears to need *v'dam zvacheicha yishafech* for a different purpose. *Rabbi Yishmael* teaches: the *pasuk* in Parashat Korach — *ach bechor shor o bechor kesev o bechor ez lo tifdeh kodesh hem* — teaches us about the *bechor*, the firstborn animal, that its blood is thrown on the *mizbe'ach* and its *emurim* are burned, like any normal *korban*. But the Torah does not specify in other contexts what to do with the blood of *ma'aser* (tithe animals) or the *korban Pesach*. For *ma'aser*, the focus elsewhere is on it as a gift arrangement; for *Pesach*, the focus is on eating the meat. So from where do we know what to do with their blood and *emurim*? *Talmud lomar: v'dam zvacheicha yishafech* — "pour the blood of your sacrifices" — teaching that there are *korbanos* whose blood arrangements the Torah did not specify elsewhere, and this *pasuk* now tells us: pour it at the base.
-
-This establishes the premise underlying the earlier discussion — that the *korban Pesach*'s blood is poured rather than thrown — but it also means the *pasuk* is occupied with teaching the *halacha* for *Pesach* and *ma'aser*, and cannot simultaneously teach that one application suffices.
-
----
+The *gemara* presses further: is that really all this *pasuk* is coming to teach? No — *miba'ei lei k'detanya*: you need it for what was taught in a *baraita*. *Minayin l'nitanim b'zrika shenetanan b'shficha yatza* — how do we know that for *korbanos* whose blood service is normally *zrika* (throwing against the altar wall), if one instead performed *shficha* (pouring at the base), one has nonetheless fulfilled the obligation? *Talmud lomar: v'dam zvacheicha yishafech.* This is a significant *chiddush*: the blood of standard *korbanos* is thrown at the lower half of the altar wall, and the base is in that same vicinity, so there is a certain logic to it — but the *halacha* is nonetheless that *shficha* constitutes a valid alternative mode of blood application for *korbanos* that ordinarily require *zrika*. The *pasuk* thus teaches not that a single application suffices for *kapara*, but rather that *shficha* is an alternative path to placing blood on the *mizbe'ach*. The *gemara* therefore concludes that both *Beis Shammai* and *Beis Hillel* must hold that this *pasuk* is occupied with teaching the permissibility of *shficha* as an alternative — which means we still need to ask: from where does either *Beis Shammai* or *Beis Hillel* derive that a single application is sufficient?
 
 ## Shficha vs Zrika (II)
 
@@ -146,9 +140,7 @@ This analysis rests on a general principle in the laws of *kodshim*: *shina lo h
 
 ### Hillel Reading
 
-*Beit Hillel* disagrees with how to count the corner-mentions. Where *Beit Shammai* reads all three occurrences of *karnos* as the full plural form — *karnos*, *karnos*, *karnos* — yielding two, two, two, for six, *Beit Hillel* focuses on the *masores*, the way the words are written in the *sefer Torah*. Two of the three instances are written without a *vav* — *karnat* — which, as a defective spelling, suggests the singular form in *smichus*, carrying a value of one each. Only one instance is written in the full plural *karnos*, giving two. According to *Beit Hillel*'s reading by the *masores*: *karnat*, *karnat*, *karnos* — one, one, two — yielding four altogether.
-
----
+*Beit Hillel* arrives at a count of four by applying the principle of *yesh em l'masores* — focusing on how the word is written rather than how it is read. Two of the occurrences are written without a *vav* — *karnat* — pointing to the singular, while one is written in the full plural *karnos*, giving two. The result is *karnat*, *karnat*, *karnos*: one, one, two — *harei kan arba*, four in total. Of those four, three are a *mitzvah* — the proper way the act should be performed — while one is *me'akev*, indispensable. The *Gemara* then asks —
 
 ## Shammai 2 Apps (II)
 

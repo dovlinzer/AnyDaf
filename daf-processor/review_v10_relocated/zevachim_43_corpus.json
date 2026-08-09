@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Kometz & Frankincense",
+    "candidates": [
+      "Opening",
+      "Matir & Nittar",
+      "Mishna Items",
+      "Kometz & Frankincense",
+      "Blood & Nesachim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening of the mishna listing items exempt from pigul liability, which matches heading 2 ('Mishna Items') whose prose explicitly describes 've'elu devarim she'ein chayavin aleihem mishum pigul' \u2014 the exact text of Item 1 \u2014 rather than heading 3 which discusses the individual items in detail.",
+      "chosen_heading": "Mishna Items",
+      "current_heading": "Kometz & Frankincense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Blood & Nesachim",
+    "candidates": [
+      "Kometz & Frankincense",
+      "Blood & Nesachim",
+      "General Principle",
+      "Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about the log shemen shel metzora and the dispute between Rabbi Shimon and Rabbi Meir is explicitly discussed in the 'Blood & Nesachim' section's prose, which covers this exact topic in detail.",
+      "chosen_heading": "Blood & Nesachim",
+      "current_heading": "Blood & Nesachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Olah",
+    "candidates": [
+      "General Principle",
+      "Olah",
+      "Chatat HaOf",
+      "Parim HaNisrafim",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the olah, olat ha'of, chatat ha'of, and parim/seirim hanisrafim as a unified mishna enumeration, and the current heading 'Olah' (index 1) is where the essay author begins discussing this list, making it the correct placement for the full quoted text.",
+      "chosen_heading": "Olah",
+      "current_heading": "Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Chatat HaOf",
+      "Parim HaNisrafim",
+      "Rabbi Shimon",
+      "Pigul Removed",
+      "Matir Not Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon's statement about piggul not applying to offerings whose blood is not presented on the external altar like a peace offering, which matches exactly the 'Rabbi Shimon' section's prose discussing his disagreement with applying pigul to parim hanisrafim.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Matir Not Pigul",
+    "candidates": [
+      "Pigul Removed",
+      "Matir Not Pigul",
+      "Gemara Challenge",
+      "If Removed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ulla's initial statement about piggul leaving the handful plus the gemara's clarification of his reasoning \u2014 all of which is introduced and explained in candidate 0's prose about 'Pigul Removed,' whereas candidate 1's prose discusses only the interrogation of Ulla's logic after his statement is already established.",
+      "chosen_heading": "Pigul Removed",
+      "current_heading": "Matir Not Pigul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "If Removed",
+    "candidates": [
+      "Gemara Challenge",
+      "If Removed",
+      "Fire Takes Hold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge to Ulla asking 'what is he teaching us' \u2014 first proposing piggul liability and then the 'if ascended they shall not descend' rule \u2014 both rejected with 'tanina,' which is exactly what candidate 0's prose describes as the gemara's mai kamashmalan sequence.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "If Removed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Fire Takes Hold",
+    "candidates": [
+      "If Removed",
+      "Fire Takes Hold",
+      "Rav Achai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the 'fire takes hold' principle (mashlah bahen ha-ur) \u2014 the challenge that Ulla already stated this elsewhere, and the novelty that it applies even to a kometz (separate pieces) as a single unit \u2014 which is precisely what the 'Fire Takes Hold' section's prose describes.",
+      "chosen_heading": "Fire Takes Hold",
+      "current_heading": "Fire Takes Hold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Rav Achai",
+    "candidates": [
+      "Rav Achai",
+      "Status Removed",
+      "Rav Chisda",
+      "Fire Transforms",
+      "Tamei Meat",
+      "Tzav Pasuk",
+      "Tumah On Whom",
+      "Acherim View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Achai",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav A\u1e25ai's ruling about a piggul kometz half on the ground and half on the altar, which is precisely what candidate 0 ('Rav Achai') discusses.",
+      "second_heading": "Status Removed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yitz\u1e25ak citing Rabbi Yo\u1e25anan's broader statement that piggul/notar/tamei placed on the altar loses its prohibition, along with Rav \u1e24isda's challenge and Rabbi Zeira's answer, which is exactly what candidates 1\u20133 ('Status Removed', 'Rav Chisda', 'Fire Transforms') cover \u2014 and candidate 1 is the opening of that sequence.",
+      "current_heading": "Rav Achai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Acherim View",
+    "candidates": [
+      "Status Removed",
+      "Rav Chisda",
+      "Fire Transforms",
+      "Tamei Meat",
+      "Tzav Pasuk",
+      "Tumah On Whom",
+      "Acherim View",
+      "Ravina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's response to Rabbi Yitzchak bar Bisna's challenge from the Acherim baraita \u2014 Rava's answer, Rav Pappa's answer, and Ravina's answer \u2014 which is precisely what the 'Acherim View' prose section describes, including the midi mikveh ksiv challenge and Ravina's shalem/chaseir formulation.",
+      "chosen_heading": "Acherim View",
+      "current_heading": "Acherim View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Ravina",
+    "candidates": [
+      "Ravina",
+      "Emor Pasuk",
+      "Braita Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Ravina' explicitly describes the gemara returning to the baraita body ('gufa'), analyzing the derivations of the anonymous opinion, Rabbi Yosi, Rabbi, and Acherim, then noting the gemara uses 'amar mar' to zoom in on Rabbi's statement about 'v'achal', asking 'mai mashma', and Rava's remark about Rav Yitzchak bar Avudimi \u2014 which is precisely what all five items cover.",
+      "chosen_heading": "Ravina",
+      "current_heading": "Ravina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Braita Intro",
+    "candidates": [
+      "Emor Pasuk",
+      "Braita Intro",
+      "Light & Heavy",
+      "Maaser vs Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita text itself, and the 'Braita Intro' section's prose directly introduces, quotes, and explains this exact baraita about light and weighty cases and why both needed to be stated.",
+      "chosen_heading": "Braita Intro",
+      "current_heading": "Braita Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Maaser vs Terumah",
+    "candidates": [
+      "Light & Heavy",
+      "Maaser vs Terumah",
+      "Sheretz vs Meis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the first suggestion (ma'aser as kalos, terumah as chamuros) and its two-fold refutation \u2014 the actual halacha that terumah does carry misa, and the dayo principle preventing a kal vachomer from reaching misa \u2014 which matches exactly what candidate 1 ('Maaser vs Terumah') describes in its prose.",
+      "chosen_heading": "Maaser vs Terumah",
+      "current_heading": "Maaser vs Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Sheretz vs Meis",
+    "candidates": [
+      "Sheretz vs Meis",
+      "Rav Zeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the gemara's challenge to the sheretz/meis interpretation \u2014 asking whether teruma or maaser is meant and showing both fail \u2014 which is precisely what the 'Sheretz vs Meis' prose describes, before Rav Zeira's resolution in the next section.",
+      "chosen_heading": "Sheretz vs Meis",
+      "current_heading": "Sheretz vs Meis",
+      "moved": false
+    }
+  }
+]

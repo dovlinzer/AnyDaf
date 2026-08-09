@@ -1,0 +1,297 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Chiya bar Ami",
+    "candidates": [
+      "Problem Setup",
+      "Chiya bar Ami",
+      "Abyei Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav \u1e24iyya bar Ami baraita itself, which is precisely what the 'Chiya bar Ami' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Chiya bar Ami",
+      "current_heading": "Chiya bar Ami",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Abyei Rejects",
+    "candidates": [
+      "Abyei Rejects",
+      "Get as Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the objection 'dilma de-kasav lah' and the answer that the novelty is 'meisah eino yorshah', which is precisely what the 'Abyei Rejects' prose describes.",
+      "chosen_heading": "Abyei Rejects",
+      "current_heading": "Abyei Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Get as Proof",
+    "candidates": [
+      "Get as Proof",
+      "Get vs. Shtar",
+      "Tearing Get",
+      "Practical Issue",
+      "Conclusion",
+      "Don't Return",
+      "Changed Mind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain of reasoning \u2014 Abaye's retraction based on the mishna itself, the 'as if written' counter-argument, the torn-get suggestion, and the practical beis din objection \u2014 which is precisely what the 'Get as Proof' prose describes in detail.",
+      "chosen_heading": "Get as Proof",
+      "current_heading": "Get as Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Changed Mind",
+    "candidates": [
+      "Get vs. Shtar",
+      "Tearing Get",
+      "Practical Issue",
+      "Conclusion",
+      "Don't Return",
+      "Changed Mind",
+      "Explicit Consent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself listing the found documents and the rule not to return them, which matches the 'Don't Return' section's prose that directly introduces and explains this mishnah, whereas the 'Changed Mind' section's prose describes the reasoning behind the rule rather than the rule itself.",
+      "chosen_heading": "Don't Return",
+      "current_heading": "Changed Mind",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Explicit Consent",
+    "candidates": [
+      "Changed Mind",
+      "Explicit Consent",
+      "Braita Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's inference that explicit consent ('tenu') overrides the changed-mind concern even after a long time, which precisely matches the 'Explicit Consent' section's prose.",
+      "chosen_heading": "Explicit Consent",
+      "current_heading": "Explicit Consent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Braita Rule",
+    "candidates": [
+      "Braita Rule",
+      "Contradiction",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the braita text itself (\u05d4\u05de\u05d1\u05d9\u05d0 \u05d2\u05d8 \u05d5\u05d0\u05d1\u05d3 \u05d4\u05d9\u05de\u05e0\u05d5), which is exactly what the 'Braita Rule' section's prose describes and introduces.",
+      "chosen_heading": "Braita Rule",
+      "current_heading": "Braita Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "Contradiction",
+      "Rava's Solution",
+      "Rav Huna Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabba's distinction between places with and without common caravans, and the additional criterion of two couples with identical names in one city \u2014 are precisely the content described in candidate 1's prose ('Rava's Solution'), which explicitly discusses both the shayarot metzuyot distinction and the shnei Yosef ben Shimon criterion.",
+      "chosen_heading": "Rava's Solution",
+      "current_heading": "Rava's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rav Huna Story",
+    "candidates": [
+      "Rav Huna Story",
+      "Chisda's Challenge",
+      "Ma'aseh Beis Din",
+      "Two Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together tell the Rav Huna story: the get found in his court, his concern about two cities named Shviri, Rav Chisda sending Rabba to research, Rabba finding the ma'aseh beis din mishna, and the conclusion that Rav Huna's court is like a place where caravans are common yet Rabba ruled to return it \u2014 exactly the episode described in candidate 0's prose.",
+      "chosen_heading": "Rav Huna Story",
+      "current_heading": "Rav Huna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Two Criteria",
+    "candidates": [
+      "Chisda's Challenge",
+      "Ma'aseh Beis Din",
+      "Two Criteria",
+      "Zeira's Framing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabba's practical ruling in the flax district of Pumbedita with the two versions (selling flax vs. soaking flax), which is precisely what the 'Two Criteria' prose describes as confirming the two-criterion framework.",
+      "chosen_heading": "Two Criteria",
+      "current_heading": "Two Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Zeira's Framing",
+    "candidates": [
+      "Zeira's Framing",
+      "Zeira's Answer",
+      "One vs Two",
+      "Rava's Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Zeira's contradiction between the mishna and baraita \u2014 exactly what heading 0 ('Zeira's Framing') describes \u2014 before any resolution is offered.",
+      "chosen_heading": "Zeira's Framing",
+      "current_heading": "Zeira's Framing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Rava's Evidence",
+    "candidates": [
+      "Zeira's Answer",
+      "One vs Two",
+      "Rava's Evidence",
+      "Zeira's Rebuttal",
+      "Explicit vs Implied",
+      "R. Yirmeyah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One vs Two",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Zeira's answer distinguishing locations with/without caravans and the internal dispute about whether Rabbi Zeira agrees with Rabba, matching the 'One vs Two' prose about the two opinions on Rabbi Zeira's position.",
+      "second_heading": "Rava's Evidence",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address why Rabbi Zeira used the baraita rather than the mishnah as his source for the contradiction, matching the 'Rava's Evidence' prose which discusses exactly this question and the answer that the mishnah's implication is weaker than the baraita's categorical statement.",
+      "current_heading": "Rava's Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "R. Yirmeyah",
+    "candidates": [
+      "Zeira's Rebuttal",
+      "Explicit vs Implied",
+      "R. Yirmeyah",
+      "R. Ashi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Zeira's Rebuttal",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 continue the Rabba vs. Rabbi Zeira dispute about what the mishna teaches regarding caravans and court documents, fitting the 'Zeira's Rebuttal' section discussing Zeira's counter-interpretation.",
+      "second_heading": "R. Yirmeyah",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rabbi Yirmeya's position and the follow-up question about returning a get only when witnesses confirm a single signing, which is exactly what the 'R. Yirmeyah' prose describes in detail.",
+      "current_heading": "R. Yirmeyah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "R. Ashi",
+    "candidates": [
+      "R. Ashi",
+      "Siman Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's direct statement introducing the siman concept, and candidate 0's prose explicitly describes this exact quote and its context, making it the correct placement.",
+      "chosen_heading": "R. Ashi",
+      "current_heading": "R. Ashi",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Na'arah & Bogeret",
+    "candidates": [
+      "Na'arah & Bogeret",
+      "Ailonit Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a mishna about a woman of twenty years who did not grow two pubic hairs and is declared an ailonit who neither performs chalitza nor enters levirate marriage \u2014 precisely what the 'Ailonit Definition' prose describes in detail, whereas the current 'Na'arah & Bogeret' section focuses on the earlier stages of maturity.",
+      "chosen_heading": "Ailonit Definition",
+      "current_heading": "Na'arah & Bogeret",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Ailonit Definition",
+    "candidates": [
+      "Na'arah & Bogeret",
+      "Ailonit Definition",
+      "Saris Definition",
+      "Sterility & Marriage",
+      "Nine vs. Twenty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with the parallel male case \u2014 the saris who has not produced two pubic hairs by age twenty and does not perform chalitza or yibum \u2014 along with the Beit Hillel/Beit Shammai/Rabbi Eliezer dispute about the age threshold, which is precisely what the 'Saris Definition' prose discusses.",
+      "chosen_heading": "Saris Definition",
+      "current_heading": "Ailonit Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Nine vs. Twenty",
+    "candidates": [
+      "Saris Definition",
+      "Sterility & Marriage",
+      "Nine vs. Twenty",
+      "Rav Shmuel's Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara raising the contradiction between the Mishnah's saris ruling and the baraita equating a nine-year-old with a twenty-year-old lacking two hairs, which is precisely what the 'Nine vs. Twenty' section's prose describes.",
+      "chosen_heading": "Nine vs. Twenty",
+      "current_heading": "Nine vs. Twenty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rav Shmuel's Signs",
+    "candidates": [
+      "Rav Shmuel's Signs",
+      "Age Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Shmuel bar Rav Yitzchak's statement about signs of a saris and Rava's linguistic confirmation, which is precisely what the prose in heading 0 describes.",
+      "chosen_heading": "Rav Shmuel's Signs",
+      "current_heading": "Rav Shmuel's Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Age Thresholds",
+    "candidates": [
+      "Age Thresholds",
+      "Rabbi Chiya's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the age threshold question ('until what age') and Rabbi \u1e24iyya's answer about 'most of his years,' which is precisely what the 'Age Thresholds' prose section discusses.",
+      "chosen_heading": "Age Thresholds",
+      "current_heading": "Age Thresholds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabbi Chiya's Method",
+    "candidates": [
+      "Rabbi Chiya's Method",
+      "Rava's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi \u1e24iyya's practice of adjusting a person's weight before ruling on their puberty status, which directly matches the prose in candidate 0 about Rabbi Chiya's pragmatic medical approach.",
+      "chosen_heading": "Rabbi Chiya's Method",
+      "current_heading": "Rabbi Chiya's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rava's Statement",
+    "candidates": [
+      "Rava's Statement",
+      "Me'et Le'et Meaning",
+      "Rashi vs. Others",
+      "Ula's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rav and Ulla's debate \u2014 exactly what 'Ula's Challenge' prose describes: Rav's me'et le'et ruling for the entire chapter versus Ulla's tenan/lo tenan argument from the Mishnah's omission of 'and a day.'",
+      "chosen_heading": "Ula's Challenge",
+      "current_heading": "Rava's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ula's Challenge",
+    "candidates": [
+      "Me'et Le'et Meaning",
+      "Rashi vs. Others",
+      "Ula's Challenge",
+      "30-Day Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses Ulla's challenge regarding the omission of 'one day' in this mishna versus its presence in earlier mishnayot, and Rav's difficulty explaining the omission \u2014 exactly what the 'Ula's Challenge' section prose describes.",
+      "chosen_heading": "Ula's Challenge",
+      "current_heading": "Ula's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "30-Day Rule",
+    "candidates": [
+      "30-Day Rule",
+      "Sheyatzu Interpretation",
+      "Sacrifices Context",
+      "Land Sales Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the 30-day rule baraita (Rabbi Yosei ben Keifar/Rabbi Yehuda HaNasi) and the resolution that their divergence reflects Beit Shammai vs. Beit Hillel, which is exactly what the '30-Day Rule' prose discusses.",
+      "chosen_heading": "30-Day Rule",
+      "current_heading": "30-Day Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Land Sales Context",
+    "candidates": [
+      "Sheyatzu Interpretation",
+      "Sacrifices Context",
+      "Land Sales Context",
+      "Slave Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the baraita listing all the me'et le'et cases (sacrifices, walled cities, ancestral field, Hebrew slave) and then derives each one from scripture \u2014 beginning with sacrificial animals (item 3, citing Rav A\u1e25a bar Ya'akov on 'a lamb in its first year'), which is precisely what the 'Sacrifices Context' prose discusses, and the subsequent items on walled cities and ancestral fields flow from that same baraita derivation sequence that the Sacrifices Context prose introduces as the evidentiary basis for the ruling.",
+      "chosen_heading": "Sacrifices Context",
+      "current_heading": "Land Sales Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Slave Context",
+    "candidates": [
+      "Land Sales Context",
+      "Slave Context",
+      "Sons & Daughters",
+      "Rav's Response",
+      "Abaye's Clarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Hebrew slave's six-year service period and the derivation from Exodus 21:2, which is precisely what the 'Slave Context' prose describes.",
+      "chosen_heading": "Slave Context",
+      "current_heading": "Slave Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Abaye's Clarity",
+    "candidates": [
+      "Sons & Daughters",
+      "Rav's Response",
+      "Abaye's Clarity",
+      "Rav Yitzchak's Ruling",
+      "Rav Zeira's Quest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the dispute between Rav Giddel/Rav and Rav Yosef over what halakhic domain 'son and daughter' refers to, which is precisely what heading 0 ('Sons & Daughters') describes, whereas the current placement under heading 2 ('Abaye's Clarity') only covers part of the passage.",
+      "chosen_heading": "Sons & Daughters",
+      "current_heading": "Abaye's Clarity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Rav Zeira's Quest",
+    "candidates": [
+      "Rav Yitzchak's Ruling",
+      "Rav Zeira's Quest",
+      "Rav Elazar's Logic",
+      "Chapter Conclusion",
+      "Physical Maturity",
+      "Transmission Issues",
+      "Debates & Tradition",
+      "Hilchata Meaning",
+      "Upper Without Lower",
+      "Rabbi Meir's Doubt",
+      "Tanner Stages",
+      "Impossible Phrase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete narrative of Rav Zeira's aspiration to verify the ruling from Rav Elazar and the subsequent encounter \u2014 exactly what 'Rav Zeira's Quest' prose describes.",
+      "chosen_heading": "Rav Zeira's Quest",
+      "current_heading": "Rav Zeira's Quest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Impossible Phrase",
+    "candidates": [
+      "Rav Elazar's Logic",
+      "Chapter Conclusion",
+      "Physical Maturity",
+      "Transmission Issues",
+      "Debates & Tradition",
+      "Hilchata Meaning",
+      "Upper Without Lower",
+      "Rabbi Meir's Doubt",
+      "Tanner Stages",
+      "Impossible Phrase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'Hadran alach Yotzei Dofen' is the traditional chapter-end formula, which belongs under 'Chapter Conclusion' where the prose explicitly discusses reaching the end of the Yotzei Dofen chapter.",
+      "chosen_heading": "Chapter Conclusion",
+      "current_heading": "Impossible Phrase",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Impossible Phrase",
+    "candidates": [
+      "Impossible Phrase",
+      "Yechezkel Text",
+      "Sages' Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous unit covering the Mishna's dispute between Rabbi Meir and the Rabbis, followed by the Gemara's analysis of why the phrase 'although it is impossible' was necessary \u2014 exactly what the 'Impossible Phrase' prose section describes.",
+      "chosen_heading": "Impossible Phrase",
+      "current_heading": "Impossible Phrase",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Sages' Reading",
+    "candidates": [
+      "Yechezkel Text",
+      "Sages' Reading",
+      "Rashi's Reading",
+      "Pubic Hair Definitive"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yechezkel Text",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern the Gemara's challenge from the Ezekiel verses and how they fit Rabbi Meir vs. the Rabbis, matching heading 0's prose about the Yechezkel text and the order dispute.",
+      "second_heading": "Sages' Reading",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 give the Rabbis' resolution ('since your breasts appeared, it is known the hair had already appeared') and the alternative reading, which matches heading 1's prose about the Chakhamim reading the verse as evidential rather than sequential.",
+      "current_heading": "Sages' Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Pubic Hair Definitive",
+    "candidates": [
+      "Rashi's Reading",
+      "Pubic Hair Definitive",
+      "Torah Equality",
+      "One Sign Each",
+      "Male Indicators",
+      "Yavne Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the derivation from the verse 'ish o isha ki ya'asu mi-kol chatot ha-adam' equating man and woman in Torah law, which is precisely what candidate 2 ('Torah Equality') describes in its prose, whereas the current placement under 'Pubic Hair Definitive' only references this derivation as something addressed in the next section.",
+      "chosen_heading": "Torah Equality",
+      "current_heading": "Pubic Hair Definitive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Yavne Teaching",
+    "candidates": [
+      "Torah Equality",
+      "One Sign Each",
+      "Male Indicators",
+      "Yavne Teaching",
+      "City Girls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is a baraita from Yavne stating that once the lower sign appears we no longer concern ourselves with the upper sign, which matches exactly the prose of section 3 ('Yavne Teaching').",
+      "chosen_heading": "Yavne Teaching",
+      "current_heading": "Yavne Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "City Girls",
+    "candidates": [
+      "City Girls",
+      "Village Girls",
+      "Wealth Disparities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both city girls and village girls in a single passage, and the current heading 'City Girls' with its prose explicitly introduces this baraita and discusses both populations together, making it the correct placement.",
+      "chosen_heading": "City Girls",
+      "current_heading": "City Girls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Wealth Disparities",
+    "candidates": [
+      "Village Girls",
+      "Wealth Disparities",
+      "Left Before Right",
+      "Rare Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon ben Elazar's observations about right vs. left breast development in daughters of wealthy vs. poor families, which exactly matches the 'Wealth Disparities' section prose discussing benot ashirim and benot aniyim with the same reasoning about garments, water jugs, and carrying siblings.",
+      "chosen_heading": "Wealth Disparities",
+      "current_heading": "Wealth Disparities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Rare Exception",
+    "candidates": [
+      "Left Before Right",
+      "Rare Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita contains both the general rule (left before right) AND Rabbi Chanina's exception in a single quoted passage, but the passage opens with the Tannaitic rule 'tzad smol kodem le-tzad yamin,' which matches the heading 'Left Before Right' whose prose explicitly describes this closing general statement, while 'Rare Exception' prose describes only the dissenting opinion \u2014 since the passage must sit under one heading and begins with the general rule that heading 0 is written to introduce, it belongs under 'Left Before Right.'",
+      "chosen_heading": "Left Before Right",
+      "current_heading": "Rare Exception",
+      "moved": true
+    }
+  }
+]

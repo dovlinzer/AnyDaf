@@ -1,0 +1,487 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Dosa vs. Hachamim",
+    "candidates": [
+      "Dosa vs. Hachamim",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with defining the minimum amount (sela-based positions of Rabba bar bar \u1e24ana/Rabbi Yo\u1e25anan and Ulla/Rabbi Elazar) and then the mishna challenge against Shmuel and Rabbi Elazar \u2014 precisely the topic of Shmuel's position and related amoraic refinements, not the Dosa vs. Hachamim dispute.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Dosa vs. Hachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Dosa vs. Hachamim",
+      "Shmuel's Position",
+      "Six Sela Minimum",
+      "Kol Shehu Statement",
+      "Five Sela Problem",
+      "Kashya on Positions",
+      "Two Minimums",
+      "Giver/Receiver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly challenges Rav's position by noting that Rav and Shmuel both say reishit hagez is one-sixtieth, which conflicts with the mishna's five sela minimum \u2014 this is precisely the 'kashya' content described in the 'Kashya on Positions' prose section.",
+      "chosen_heading": "Kashya on Positions",
+      "current_heading": "Shmuel's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Giver/Receiver",
+    "candidates": [
+      "Six Sela Minimum",
+      "Kol Shehu Statement",
+      "Five Sela Problem",
+      "Kashya on Positions",
+      "Two Minimums",
+      "Giver/Receiver",
+      "All Sixtieth",
+      "Terumah Kashya",
+      "Biblical/Rabbanic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav and Shmuel resolution that interprets five sela as a minimum per-kohen when distributing among multiple kohanim, which is precisely what the 'Two Minimums' section's prose describes.",
+      "chosen_heading": "Two Minimums",
+      "current_heading": "Giver/Receiver",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Biblical/Rabbanic",
+    "candidates": [
+      "All Sixtieth",
+      "Terumah Kashya",
+      "Biblical/Rabbanic",
+      "Peah Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All Sixtieth",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states the joint ruling of Rav and Shmuel that reishit hagez, terumah, and pe'ah all equal one-sixtieth, which is precisely what heading 'All Sixtieth' describes.",
+      "second_heading": "Terumah Kashya",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 are the challenge-and-resolution exchanges about terumah (biblical vs. rabbinic levels) and pe'ah (no biblical measure), matching headings 'Terumah Kashya'/'Biblical/Rabbanic'/'Peah Rule' \u2014 but since items 2\u20133 address terumah and item 4 addresses pe'ah, the natural split point is after item 1, with items 2\u20134 flowing through the current placement under 'Biblical/Rabbanic' which encompasses both the terumah and pe'ah resolutions as its prose confirms.",
+      "current_heading": "Biblical/Rabbanic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Peah Rule",
+    "candidates": [
+      "Biblical/Rabbanic",
+      "Peah Rule",
+      "Grammar Correction",
+      "Hebrew Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about what chidush Rav and Shmuel add regarding pe'ah given the existing mishnah, and the answer distinguishing Eretz Yisrael from outside \u2014 precisely what the 'Peah Rule' prose describes.",
+      "chosen_heading": "Peah Rule",
+      "current_heading": "Peah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Hebrew Standards",
+    "candidates": [
+      "Grammar Correction",
+      "Hebrew Standards",
+      "Respect for Rebbi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange including both the grammar correction and Rabbi Yochanan's response about distinct registers, which matches heading 0's prose describing the narrative of Isi teaching his son and Rabbi Yochanan correcting him \u2014 heading 1's prose discusses only the latter half of the exchange (Isi's biblical defense and Rabbi Yochanan's reply), suggesting the passage was split and should sit under the heading that introduces the whole narrative.",
+      "chosen_heading": "Grammar Correction",
+      "current_heading": "Hebrew Standards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Respect for Rebbi",
+    "candidates": [
+      "Hebrew Standards",
+      "Respect for Rebbi",
+      "Reishit Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly about Rabbi Yochanan asking who leads the yeshiva in Bavel, Isi calling Rav 'Abba Aricha,' and Rabbi Yochanan's rebuke about the familiarity of address \u2014 all of which is precisely what the 'Respect for Rebbi' prose describes.",
+      "chosen_heading": "Respect for Rebbi",
+      "current_heading": "Respect for Rebbi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Reishit Debate",
+    "candidates": [
+      "Reishit Debate",
+      "Two Versions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the exchange between Isi bar Hini and Rabbi Yochanan about the measure for reishit hagez, including the 'sixty' response and the 'what is the difference between my knowledge and yours' reply, which is precisely what the 'Reishit Debate' prose discusses.",
+      "chosen_heading": "Reishit Debate",
+      "current_heading": "Reishit Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Two Versions",
+    "candidates": [
+      "Two Versions",
+      "Abaye's Kashya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage reports Rav Dimi's two versions (Rav says sixty, Rabbi Yannai says six) and ends with Abaye's one-line reaction, which exactly matches heading 0's prose describing Rav Dimi's report of the two positions; heading 1's prose discusses the substance of Abaye's challenge in detail, which would require additional Talmudic text not present here.",
+      "chosen_heading": "Two Versions",
+      "current_heading": "Two Versions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Abaye's Kashya",
+    "candidates": [
+      "Abaye's Kashya",
+      "Different Sources",
+      "Rav's Problem",
+      "Two Manahs",
+      "Rav Consistent",
+      "Shuttle Reference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that the contradiction between Rabbi Yo\u1e25anan's two statements is resolved by 'ha didei ha de-rabbei' \u2014 one is his own view and one is his teacher's \u2014 which is precisely what the 'Different Sources' prose describes.",
+      "chosen_heading": "Different Sources",
+      "current_heading": "Abaye's Kashya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Shuttle Reference",
+    "candidates": [
+      "Different Sources",
+      "Rav's Problem",
+      "Two Manahs",
+      "Rav Consistent",
+      "Shuttle Reference",
+      "Raw Wool Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the passage that resolves Rav's apparent contradiction by establishing the existence of a maneh of 40 sela through the Tosefta baraita about the leather flask and Rabbi Eliezer ben Yaakov's ruling \u2014 exactly what the 'Shuttle Reference' prose describes.",
+      "chosen_heading": "Shuttle Reference",
+      "current_heading": "Shuttle Reference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Raw Wool Rule",
+    "candidates": [
+      "Raw Wool Rule",
+      "After Laundering",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that one gives raw wool sufficient for the priest to launder it and have it amount to five sela, which precisely matches the 'After Laundering' section's prose about giving enough raw material that after the kohen launders it himself it will amount to five sela.",
+      "chosen_heading": "After Laundering",
+      "current_heading": "Raw Wool Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "After Laundering",
+      "Verse Source",
+      "The Belt",
+      "Tafasta Rule",
+      "Kippah Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Verse Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 derives the minimum from the verse 'to stand to serve' and identifies the belt as the relevant garment, matching the 'Verse Source' prose which covers exactly mena hanei milei and the davar she-hu ra'uy le-sheirut derivation.",
+      "second_heading": "Tafasta Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the tafasta meruba/mu'at principle rejecting the robe in favor of the minimum garment, which is precisely what the 'Tafasta Rule' prose describes.",
+      "current_heading": "Verse Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Kippah Source",
+    "candidates": [
+      "The Belt",
+      "Tafasta Rule",
+      "Kippah Source",
+      "Kohen Gadol Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the baraita about the wool kippah worn by the kohen gadol with the tzitz placed upon it, which is precisely what the 'Kippah Source' section's prose discusses.",
+      "chosen_heading": "Kippah Source",
+      "current_heading": "Kippah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Kohen Gadol Only",
+    "candidates": [
+      "Kohen Gadol Only",
+      "Belt Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'he and his sons' verse to establish that the garment must be equally worn by the High Priest and ordinary priests, which is exactly what the 'Kohen Gadol Only' section's prose describes.",
+      "chosen_heading": "Kohen Gadol Only",
+      "current_heading": "Kohen Gadol Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Belt Materials",
+    "candidates": [
+      "Belt Materials",
+      "All Wear Belts",
+      "Debate Position",
+      "Chisda View",
+      "Natan View",
+      "Selling Sheep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute about whether the High Priest's belt equals the ordinary priest's belt and the resolution via 'shem avnet ba'olam,' which is precisely what the 'Belt Materials' prose describes in detail.",
+      "chosen_heading": "Belt Materials",
+      "current_heading": "Belt Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Selling Sheep",
+    "candidates": [
+      "All Wear Belts",
+      "Debate Position",
+      "Chisda View",
+      "Natan View",
+      "Selling Sheep",
+      "Timing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Talmudic dispute (it was stated...) about gazaz umachar rishona, which matches 'Debate Position' prose that explicitly introduces this very case and question.",
+      "chosen_heading": "Debate Position",
+      "current_heading": "Selling Sheep",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Timing Question",
+    "candidates": [
+      "Selling Sheep",
+      "Timing Question",
+      "Non-Jew Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Rav \u1e24isda/Rabbi Natan bar Hoshaya dispute about when the obligation crystallizes, the challenge from the mishna about purchasing a non-Jew's sheep ligzoz, and Rav \u1e24isda's resolution via the thirty-day ownership clause \u2014 are precisely the content described in the 'Timing Question' prose, which explicitly summarizes each of these elements in sequence.",
+      "chosen_heading": "Timing Question",
+      "current_heading": "Timing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Non-Jew Case",
+    "candidates": [
+      "Non-Jew Case",
+      "Shearing Purpose",
+      "Friend's Residue",
+      "Peah Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case of purchasing shearings from a fellow Israelite's flock and the rule that when the seller retains residual wool the obligation follows the seller, which is precisely what the 'Friend's Residue' prose describes.",
+      "chosen_heading": "Friend's Residue",
+      "current_heading": "Non-Jew Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Peah Analogy",
+    "candidates": [
+      "Shearing Purpose",
+      "Friend's Residue",
+      "Peah Analogy",
+      "Rava Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present exactly the pe'ah analogy that Rav \u1e24isda draws \u2014 the mishna about selling tree stalks and Rabbi Yehuda's qualification about the field owner retaining some trees \u2014 which is precisely what the 'Peah Analogy' prose section describes.",
+      "chosen_heading": "Peah Analogy",
+      "current_heading": "Peah Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Rava Objects",
+    "candidates": [
+      "Rava Objects",
+      "Never Sold",
+      "Butcher Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's objection to the pe'ah analogy \u2014 item 1 raises the 'began to harvest' condition and item 2 explains why that condition cannot be transplanted to reishit hagez \u2014 exactly matching the 'Rava Objects' prose.",
+      "chosen_heading": "Rava Objects",
+      "current_heading": "Rava Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Butcher Case",
+    "candidates": [
+      "Never Sold",
+      "Butcher Case",
+      "Final Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the butcher/innards mishna and its derivation of 'matnot de-kohen lo mizabin inish' applied to the wool case, which is precisely what candidate 1 ('Butcher Case') describes in its prose.",
+      "chosen_heading": "Butcher Case",
+      "current_heading": "Butcher Case",
+      "moved": false
+    }
+  }
+]

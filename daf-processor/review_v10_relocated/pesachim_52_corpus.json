@@ -1,0 +1,331 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Mishnah Case",
+    "candidates": [
+      "Minhagim & Scripture Auth",
+      "Minhag Avot vs. Hamakom",
+      "Personal Minhag vs. Local",
+      "Eretz Yisrael Authority",
+      "Conceptual Distinctions",
+      "Psak & Tradition",
+      "Mishnah Case",
+      "Contradiction",
+      "Abaye Position",
+      "Rava Position",
+      "Rava's Logic",
+      "Halakha Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's examination of the Mishnah case of traveling between places with different Erev Pesach labor practices, identifying where the two principles (chumrei makom and mipnei hamachlokes) align \u2014 exactly what the 'Mishnah Case' prose describes.",
+      "chosen_heading": "Mishnah Case",
+      "current_heading": "Mishnah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Halakha Application",
+    "candidates": [
+      "Contradiction",
+      "Abaye Position",
+      "Rava Position",
+      "Rava's Logic",
+      "Halakha Application",
+      "Modern Communities",
+      "Consistency Tension",
+      "Rav Safra's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the Abaye/Rava dispute text, and while it includes both positions, the Rava portion (the longer half) directly matches the 'Rava Position' prose which discusses Rava's disagreement and the question of why not doing melacha would be contentious \u2014 exactly what this Gemara passage addresses.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Halakha Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rav Safra's Question",
+    "candidates": [
+      "Modern Communities",
+      "Consistency Tension",
+      "Rav Safra's Question",
+      "Rabbi Ami Response",
+      "Tosafot Reread",
+      "One vs. Two Days",
+      "Flip Case Scenario",
+      "Bal Tosif Concern",
+      "Temple Period Logic",
+      "Modern Application",
+      "Story Setup",
+      "Cherem Choice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Safra's Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Safra's question about knowing the calendar determination, which directly matches heading 2 ('Rav Safra's Question') and its prose about Rav Safra asking why he must keep two days given his knowledge of when Rosh Chodesh falls.",
+      "second_heading": "Rabbi Ami Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the answer 'b'yishuv assur, bamidbar mutar' which directly matches heading 3 ('Rabbi Ami Response') and its prose about the distinction between settled towns and the wilderness.",
+      "current_heading": "Rav Safra's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Cherem Choice",
+    "candidates": [
+      "Rabbi Ami Response",
+      "Tosafot Reread",
+      "One vs. Two Days",
+      "Flip Case Scenario",
+      "Bal Tosif Concern",
+      "Temple Period Logic",
+      "Modern Application",
+      "Story Setup",
+      "Cherem Choice",
+      "Alternate Reading",
+      "Rabbinic Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes Rav Natan bar Asya traveling to Pumbedita on Yom Tov sheni and Rav Yosef excommunicating him, which is precisely what heading 7 ('Story Setup') introduces \u2014 the current placement under 'Cherem Choice' (heading 8) covers Abaye's challenge and Rav Yosef's response, but the actual Talmudic text includes the full story setup that belongs under heading 7.",
+      "chosen_heading": "Story Setup",
+      "current_heading": "Cherem Choice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rabbinic Leniency",
+    "candidates": [
+      "Alternate Reading",
+      "Rabbinic Leniency",
+      "Unequal Treatment",
+      "Mishnah Setup",
+      "Tanna vs. Yehuda",
+      "Rabbi Yehuda Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the alternate version (ika d'amri) where Rav Yosef flogs rather than excommunicates, and Abaye questions why cherem was not used \u2014 this is exactly what the 'Alternate Reading' section describes, while the current placement under 'Rabbinic Leniency' covers Rav Yosef's response/reasoning which follows from it.",
+      "chosen_heading": "Alternate Reading",
+      "current_heading": "Rabbinic Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rabbi Yehuda Analogy",
+    "candidates": [
+      "Unequal Treatment",
+      "Mishnah Setup",
+      "Tanna vs. Yehuda",
+      "Rabbi Yehuda Analogy",
+      "Gemara Objection",
+      "Rav Sheshet Read",
+      "Abaye Reading",
+      "Three-Stage Case",
+      "Tanna Allow",
+      "Yehuda Status",
+      "Rav Ashi Challenge",
+      "Rabbi Eliezer",
+      "Rabbi Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's objection asking whether Rabbi Yehuda disagrees with the principle of following stringencies of both the place one left and the place one went to, which is exactly what the 'Gemara Objection' section's prose describes.",
+      "chosen_heading": "Gemara Objection",
+      "current_heading": "Rabbi Yehuda Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rabbi Yehoshua",
+    "candidates": [
+      "Gemara Objection",
+      "Rav Sheshet Read",
+      "Abaye Reading",
+      "Three-Stage Case",
+      "Tanna Allow",
+      "Yehuda Status",
+      "Rav Ashi Challenge",
+      "Rabbi Eliezer",
+      "Rabbi Yehoshua",
+      "Rabban Gamliel",
+      "Shemita Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheisha (Rav Sheshet) son of Rav Idi's reinterpretation of Rabbi Yehuda's statement, which is precisely what the 'Rav Sheshet Read' section's prose describes.",
+      "chosen_heading": "Rav Sheshet Read",
+      "current_heading": "Rabbi Yehoshua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Shemita Parallel",
+    "candidates": [
+      "Rabban Gamliel",
+      "Shemita Parallel",
+      "Pickling Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the same Gemara sugya resolving the dispute between the Tanna Kamma and Rabbi Yehuda about produce brought between regions with different field-availability statuses, which is precisely what the 'Shemita Parallel' prose describes \u2014 the operative question of what determines whether produce is still considered available in the field when statuses diverge between locations.",
+      "chosen_heading": "Shemita Parallel",
+      "current_heading": "Shemita Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Pickling Mishnah",
+    "candidates": [
+      "Pickling Mishnah",
+      "Three Regions",
+      "Scriptural Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Pickling Mishnah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the continuous Rav Ashi/Ravina disputes citing parallel tanna'im about the pickling and dates mishnayot, matching candidate 0's prose about that content.",
+      "second_heading": "Three Regions",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces a new mishna (tnan hatan) about the three regions for bi'ur, which exactly matches candidate 1's prose about shalosh aratzot le-vi'ur.",
+      "current_heading": "Pickling Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Scriptural Source",
+    "candidates": [
+      "Three Regions",
+      "Scriptural Source",
+      "Animal Boundaries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the bi'ur framework from the verse about wild and domesticated animals, which is precisely what the 'Scriptural Source' section discusses \u2014 its current placement is correct.",
+      "chosen_heading": "Scriptural Source",
+      "current_heading": "Scriptural Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Animal Boundaries",
+    "candidates": [
+      "Animal Boundaries",
+      "Sub-divisions",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the tradition about animals not crossing regional boundaries, which is precisely what the 'Animal Boundaries' section's prose discusses as the basis for the three-region framework.",
+      "chosen_heading": "Animal Boundaries",
+      "current_heading": "Animal Boundaries",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Sub-divisions",
+      "Rabbi Shimon",
+      "Saphra Situation",
+      "Two Traditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita about fruits leaving Eretz Yisrael and Rabbi Shimon ben Elazar's ruling, plus the Gemara's question and answer about deriving two halakhot from the verse \u2014 exactly the content described in the 'Rabbi Shimon' prose section.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Two Traditions",
+    "candidates": [
+      "Saphra Situation",
+      "Two Traditions",
+      "Rav Huna Precision",
+      "Saphra's Choice",
+      "Rav Yosef Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire narrative from Rav Safra leaving Eretz Yisrael with Shemita wine through both conflicting traditions from Rabbi Abbahu, and heading 0 ('Saphra Situation') is the first section that introduces this complete story, while headings 1 and 2 split it artificially.",
+      "chosen_heading": "Saphra Situation",
+      "current_heading": "Two Traditions",
+      "moved": true
+    }
+  }
+]

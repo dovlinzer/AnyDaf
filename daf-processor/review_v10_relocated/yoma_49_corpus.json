@@ -1,0 +1,293 @@
+[
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Pesach Evidence",
+    "candidates": [
+      "Chafina Overview",
+      "Avodah Status Debate",
+      "Holacha & Left Hand",
+      "Invalid Persons",
+      "Left Hand Forbidden",
+      "Rav Sheshet Problem",
+      "Amoraim & Tannaim",
+      "Rav Sheshet's Query",
+      "Non-Kohen Permitted",
+      "Pesach Evidence",
+      "Zar Forbidden",
+      "Rav Sheshet Learned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage depicts the exact exchange where Rav Sheshet instructs Rav Chisda's amora to pose a question, which is the content described in candidate 6's prose about Rav Sheshet communicating via Rav Chisda's amora/announcer \u2014 the subsequent candidates (7, 8, 9) cover the substance of the question and answer, while candidate 6 specifically discusses the mechanics of this very exchange and the terminological clarification about 'amora' as announcer.",
+      "chosen_heading": "Amoraim & Tannaim",
+      "current_heading": "Pesach Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Rav Sheshet Learned",
+    "candidates": [
+      "Zar Forbidden",
+      "Rav Sheshet Learned",
+      "Passive Role",
+      "Shabbat Parallel",
+      "Another's Chafina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's resolution of Rav Sheshet's apparent self-contradiction \u2014 he cited the baraita against his own earlier ruling because he only learned it afterward \u2014 which is precisely what the 'Rav Sheshet Learned' prose describes.",
+      "chosen_heading": "Rav Sheshet Learned",
+      "current_heading": "Rav Sheshet Learned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Another's Chafina",
+    "candidates": [
+      "Passive Role",
+      "Shabbat Parallel",
+      "Another's Chafina",
+      "Kohen Dies",
+      "Chronology Dispute",
+      "Cress Juice Digress"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's dilemma about whether another person may perform the chafina and place the ketoret into the Kohen Gadol's hands, which is precisely what the prose under 'Another's Chafina' describes.",
+      "chosen_heading": "Another's Chafina",
+      "current_heading": "Another's Chafina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Cress Juice Digress",
+    "candidates": [
+      "Kohen Dies",
+      "Chronology Dispute",
+      "Cress Juice Digress",
+      "Back to Chafina"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohen Dies",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehoshua ben Levi's dilemma about the Kohen Gadol who scooped and died, which is precisely what heading 0 ('Kohen Dies') describes.",
+      "second_heading": "Chronology Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 form a continuous digression about the chronological relationship between Rabbi Chanina and Rabbi Yehoshua ben Levi, triggered by Rabbi Chanina's 'she'elas ha-rishonim' remark and the cress juice episode, which is exactly what headings 1 ('Chronology Dispute') and 2 ('Cress Juice Digress') cover \u2014 and since items 2\u20137 span both the chronology puzzle and the cress juice digression as one unbroken chain, they currently sit under heading 2 whose prose covers the entire digression from the chronology question through the medical discussion and its resolution.",
+      "current_heading": "Cress Juice Digress",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Back to Chafina",
+    "candidates": [
+      "Cress Juice Digress",
+      "Back to Chafina",
+      "Rav Pappa's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-objection-resolution chain about how Rabbi \u1e24anina could treat Rabbi Yehoshua ben Levi's chafina question as legitimate given his own rulings of 'be-par ve-lo be-damo shel par' and ketoret before shechita being invalid \u2014 exactly the content described in the 'Back to Chafina' prose.",
+      "chosen_heading": "Back to Chafina",
+      "current_heading": "Back to Chafina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Rav Pappa's View",
+    "candidates": [
+      "Rav Pappa's View",
+      "Rav Huna Reply",
+      "Interior Chafina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 3-4 address the gemara's attempt to resolve the chofen ve-chozer ve-chofen question from a baraita/mishna about the measure of the spoon, which matches candidate 2 ('Interior Chafina') describing the gemara moving to resolve the chofen ve-chozer ve-chofen question \u2014 while items 1-2 (Rav Pappa and Rav Huna's dispute) are already covered by candidates 0 and 1, but since all four items form one continuous sugya about chofen ve-chozer ve-chofen and the best single heading for the whole passage including the attempted resolution is candidate 2, which encompasses the full discussion of this question.",
+      "chosen_heading": "Interior Chafina",
+      "current_heading": "Rav Pappa's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Interior Chafina",
+    "candidates": [
+      "Rav Huna Reply",
+      "Interior Chafina",
+      "Incense Placement",
+      "Avodah Hardship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita cited to resolve the chofen ve-chozer ve-chofen question, describing the physical procedure of holding the ladle and transferring incense into the palms \u2014 exactly what the 'Interior Chafina' prose discusses as the baraita's vivid description of what the Kohen Gadol does inside the kodesh kodashim.",
+      "chosen_heading": "Interior Chafina",
+      "current_heading": "Interior Chafina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Avodah Hardship",
+    "candidates": [
+      "Incense Placement",
+      "Avodah Hardship",
+      "Live Animal Start"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the declaration that taking the handful of incense is the most difficult Temple rite, the Gemara's challenge citing melika and kemitza, the amended conclusion, and the inference about chofen ve-chozer ve-chofen \u2014 all of which is precisely what the 'Avodah Hardship' section's prose describes.",
+      "chosen_heading": "Avodah Hardship",
+      "current_heading": "Avodah Hardship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Live Animal Start",
+    "candidates": [
+      "Live Animal Start",
+      "Two Positions",
+      "Four-Way Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma formulation about whether another High Priest can enter with the blood of the slaughtered bull, which matches the 'Live Animal Start' prose that describes the shachat u-meis question being raised, before the two positions or four-way dispute are analyzed.",
+      "chosen_heading": "Live Animal Start",
+      "current_heading": "Live Animal Start",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Four-Way Dispute",
+    "candidates": [
+      "Two Positions",
+      "Four-Way Dispute",
+      "Blood Represents Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists exactly the four amoraim (Rabbi \u1e24anina, Reish Lakish, Rabbi Ami, Rabbi Yitz\u1e25ak) with their two opposing positions, matching perfectly the 'Four-Way Dispute' section's prose description.",
+      "chosen_heading": "Four-Way Dispute",
+      "current_heading": "Four-Way Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Blood Represents Life",
+    "candidates": [
+      "Blood Represents Life",
+      "Pesach Joining Rule",
+      "Seh-Seh Linkage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Ami's objection about the Paschal offering joining rule, which is precisely what the 'Blood Represents Life' section's prose describes \u2014 the challenge that if blood represents the living animal, the cutoff for joining/withdrawing from a pesach group should be the blood-sprinkling, not the slaughter.",
+      "chosen_heading": "Blood Represents Life",
+      "current_heading": "Blood Represents Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Seh-Seh Linkage",
+    "candidates": [
+      "Pesach Joining Rule",
+      "Seh-Seh Linkage",
+      "Peter Chamor Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage discusses the drasha from 'mehiyot miseh' interpreted as 'mei\u1e25iyutei deseh' (from the life of the lamb), which is precisely the content described in candidate 0's prose about the Pesach joining rule and the exception derived from its own verse, making it a slightly better match than the current placement in candidate 1.",
+      "chosen_heading": "Pesach Joining Rule",
+      "current_heading": "Seh-Seh Linkage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Peter Chamor Parallel",
+    "candidates": [
+      "Peter Chamor Parallel",
+      "When Blood Represents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's resolution 'shani hasam, de-yalif seh seh mi-Pesach,' which is precisely what candidate 1's prose discusses as the response to Mar Zutra's challenge, making it a clearly better fit than candidate 0 which covers only the objection itself.",
+      "chosen_heading": "When Blood Represents",
+      "current_heading": "Peter Chamor Parallel",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav: Short Boundary",
+    "candidates": [
+      "Rav: Short Boundary",
+      "Kahana & Assi: Rosh Tor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage about selling 'property' (nechsei) including houses and slaves seems to be transitional material that follows the rosh tor discussion, but neither candidate's prose explicitly discusses this content \u2014 however, candidate 1 is the later section and this item likely belongs there as it appears after the rosh tor debate, though confidence is limited since neither prose section clearly addresses this topic.",
+      "chosen_heading": "Kahana & Assi: Rosh Tor",
+      "current_heading": "Rav: Short Boundary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Kahana & Assi: Rosh Tor",
+    "candidates": [
+      "Kahana & Assi: Rosh Tor",
+      "Rav's Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav's ruling about the short boundary and Rav Kahana and Rav Asi's challenge about rosh tor followed by Rav's silence \u2014 are the exact content described in candidate 0's prose, which explicitly covers Rav's position, the rosh tor challenge, and Rav's silence.",
+      "chosen_heading": "Kahana & Assi: Rosh Tor",
+      "current_heading": "Kahana & Assi: Rosh Tor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav's Concession",
+    "candidates": [
+      "Rav's Concession",
+      "Specifying Both Sides",
+      "Ambiguity Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly Rav's concession where Reuven and Shimon share one side while Levi and Yehuda share the other, matching the prose of candidate 0 precisely.",
+      "chosen_heading": "Rav's Concession",
+      "current_heading": "Rav's Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Ambiguity Risk",
+    "candidates": [
+      "Specifying Both Sides",
+      "Ambiguity Risk",
+      "Corner Points Sufficiency",
+      "Gamma Markings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's ruling that one must specify Reuven's land on two sides and Shimon's land on two sides, which is precisely what the 'Specifying Both Sides' section discusses, not the ambiguity explanation that follows.",
+      "chosen_heading": "Specifying Both Sides",
+      "current_heading": "Ambiguity Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Gamma Markings",
+    "candidates": [
+      "Corner Points Sufficiency",
+      "Gamma Markings",
+      "Partial Edges Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the corners dilemma (kranot) AND the gamma dilemma (kemin gam) as a single Talmudic unit, and since it introduces the corners question first, it belongs under 'Corner Points Sufficiency' (index 0), which discusses the first of these unresolved questions \u2014 the current placement under 'Gamma Markings' splits what is a single textual item across two sections artificially.",
+      "chosen_heading": "Corner Points Sufficiency",
+      "current_heading": "Gamma Markings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Partial Edges Question",
+    "candidates": [
+      "Gamma Markings",
+      "Partial Edges Question",
+      "Rav: Except Final Furrow",
+      "Shmuel: All Included",
+      "Rav Assi: One Furrow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses 'beserugin' (alternating boundaries) and the teiku resolution, which exactly matches the prose in candidate 1 about the final unresolved question concerning alternating boundary specifications.",
+      "chosen_heading": "Partial Edges Question",
+      "current_heading": "Partial Edges Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rav Assi: One Furrow",
+    "candidates": [
+      "Rav: Except Final Furrow",
+      "Shmuel: All Included",
+      "Rav Assi: One Furrow",
+      "Rava: Conditional Exclus",
+      "Mivla'ut & Independence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Rav Asi's ruling (item 1) and the Gemara's explanation of Rav Asi's logic via the 'shayar b'metzar shayar nami b'kulah' principle (item 2), which is exactly what candidate 2's prose describes.",
+      "chosen_heading": "Rav Assi: One Furrow",
+      "current_heading": "Rav Assi: One Furrow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Mivla'ut & Independence",
+    "candidates": [
+      "Rava: Conditional Exclus",
+      "Mivla'ut & Independence",
+      "Rava Versions Compared",
+      "Consensus & Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mivla'ut & Independence",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the first version of Rava's ruling (exclusion as default, with mivla'ut and lack of significance as grounds for inclusion), which is precisely what heading 1 'Mivla'ut & Independence' describes.",
+      "second_heading": "Rava Versions Compared",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20135 present the second version of Rava's ruling and the comparative conclusions drawn from both versions, which is exactly what heading 2 'Rava Versions Compared' and heading 3 'Consensus & Dispute' discuss \u2014 but since items 3\u20134 are the second version and item 5 is the consensus mapping, all three fit best under heading 2 as the starting point of that comparative analysis.",
+      "current_heading": "Mivla'ut & Independence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Consensus & Dispute",
+    "candidates": [
+      "Rava Versions Compared",
+      "Consensus & Dispute",
+      "Half vs. Half Of"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the middle/disputed cases where the two versions of Rava diverge, and concludes with 'shuda dedaynei' \u2014 the discretion of the judges \u2014 which is the precise content described in the 'Consensus & Dispute' section's prose.",
+      "chosen_heading": "Consensus & Dispute",
+      "current_heading": "Consensus & Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Half vs. Half Of",
+    "candidates": [
+      "Half vs. Half Of",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba's distinction and Abaye's silent challenge, which together are introduced under heading 0's prose about the linguistic distinction in partnership land sales, and the current placement is correct.",
+      "chosen_heading": "Half vs. Half Of",
+      "current_heading": "Half vs. Half Of",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Documentary Evidence",
+      "My Half vs. My Portion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the documentary evidence from Raba's court that proved Abaye wrong, which is precisely what candidate 1 ('Documentary Evidence') discusses \u2014 the shtarei that issued from Mar's house demonstrating Raba's consistent distinction in practice.",
+      "chosen_heading": "Documentary Evidence",
+      "current_heading": "Abaye's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "My Half vs. My Portion",
+    "candidates": [
+      "Documentary Evidence",
+      "My Half vs. My Portion",
+      "Abaye Disputes Again",
+      "Boundaries Language Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba's statement about 'metzar ara demina palga' yielding half and 'metzar ara demina psika' yielding nine kav, which is precisely what the 'My Half vs. My Portion' section's prose describes and analyzes.",
+      "chosen_heading": "My Half vs. My Portion",
+      "current_heading": "My Half vs. My Portion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Boundaries Language Role",
+    "candidates": [
+      "Abaye Disputes Again",
+      "Boundaries Language Role"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Disputes Again",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is exactly the content described in candidate 0's prose: Abaye's challenge, Raba's silence, and the Sages' mistaken inference that both cases mean a half.",
+      "second_heading": "Boundaries Language Role",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yeimar bar Shelemya's clarification of Abaye's true position, which is precisely what candidate 1's prose describes and analyzes at length.",
+      "current_heading": "Boundaries Language Role",
+      "moved": true
+    }
+  }
+]

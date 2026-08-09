@@ -1,0 +1,542 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "D'Oraisa vs. D'Rabbanan",
+    "candidates": [
+      "Shniyot Application",
+      "D'Oraisa vs. D'Rabbanan",
+      "Ima v'Eim Ima"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shniyot Application",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the dilemma of whether shniyot apply to a chalutza and its two sides, matching heading 0's prose about the Gemara opening with 'gazru shniyot b'chalutza o lo' and subjecting the assumption to scrutiny.",
+      "second_heading": "Ima v'Eim Ima",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's proof from the mishna's omission of the great-grandmother, which corresponds exactly to heading 2's prose about 'ima u'veim ima' and the argument from the mishna not mentioning the great-grandmother.",
+      "current_heading": "D'Oraisa vs. D'Rabbanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Ima v'Eim Ima",
+    "candidates": [
+      "Ima v'Eim Ima",
+      "Aviv v'Avi Aviv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's back-and-forth about why the mishna omits the great-grandmother (eim eim imah), which is precisely the 'Ima v'Eim Ima' section's prose description of the deflection and the kashya counter-objection.",
+      "chosen_heading": "Ima v'Eim Ima",
+      "current_heading": "Ima v'Eim Ima",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Aviv v'Avi Aviv",
+    "candidates": [
+      "Aviv v'Avi Aviv",
+      "Reuven vs. Shimon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Aviv v'Avi Aviv",
+      "first_confidence": "high",
+      "first_reason": "Items 1-7 deal with attempts to derive proof from the mishna's cases of father's father and son's son, with all rejections tracing back to the deceased (mishum meitana), which is precisely what candidate 0 and 1 discuss \u2014 the Gemara's analysis of aviv/avi aviv and ben beno cases from the mishna.",
+      "second_heading": "Reuven vs. Shimon",
+      "second_confidence": "high",
+      "second_reason": "Items 8-11 shift to a new baraita source (Rabbi \u1e24iyya's baraita listing four Torah and four rabbinic prohibitions) and begin a fresh round of proof-attempts from that baraita, which candidate 1's prose explicitly describes as the continuation of the same structural pattern applied to subsequent cases derived from the d'oraisa relationship with Reuven rather than the d'rabbanan relationship with Shimon.",
+      "current_heading": "Aviv v'Avi Aviv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Reuven vs. Shimon",
+    "candidates": [
+      "Reuven vs. Shimon",
+      "Rabi Chiya Arba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection of a proof from a baraita case involving 'daughter's daughter-in-law' (kallat bito), which corresponds directly to the discussion in candidate 1's prose about the Gemara going through the four rabbinic categories and attempting to explain them through the biblical Reuven relationship \u2014 specifically the grandson/daughter's son cases mentioned there.",
+      "chosen_heading": "Rabi Chiya Arba",
+      "current_heading": "Reuven vs. Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Rabi Chiya Arba",
+    "candidates": [
+      "Rabi Chiya Arba",
+      "Avi Imo Case",
+      "Ben Beno Proof",
+      "Ameimar Machshir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items cover exactly the content described in candidate 3's prose: the ben bno proof attempt (items 1-3, including Ameimar's complication) and the ben bito proof attempt with its conclusion that shniyot apply to chalutza (items 4-5), which is precisely what 'Ameimar Machshir' describes.",
+      "chosen_heading": "Ameimar Machshir",
+      "current_heading": "Rabi Chiya Arba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ameimar Machshir",
+    "candidates": [
+      "Avi Imo Case",
+      "Ben Beno Proof",
+      "Ameimar Machshir",
+      "Mutar vs. Assur",
+      "Haba al Tzarat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "This passage is the concluding Gemara confirmation ('shema mina gazru shniyot b'chalutza shema mina') that definitively establishes shniyot apply to the chalutza relationship, which is exactly what the 'Ameimar Machshir' prose section describes as its final conclusion.",
+      "chosen_heading": "Ameimar Machshir",
+      "current_heading": "Ameimar Machshir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Haba al Tzarat",
+    "candidates": [
+      "Mutar vs. Assur",
+      "Haba al Tzarat",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Haba al Tzarat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Tovi bar Kisna/Shmuel's ruling that the offspring of one who engages with a rival wife of his \u1e25alutza is a mamzer, which matches exactly the prose of heading 'Haba al Tzarat'.",
+      "second_heading": "Rav Yosef",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Yosef's inference from the mishna that the \u1e25alutza status applies exclusively to the woman who performed \u1e25alitza, which matches exactly the prose of heading 'Rav Yosef'.",
+      "current_heading": "Haba al Tzarat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Rav Yosef",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why the man is permitted to the rival wife's relatives 'if you say a rival wife is similar to the chalutza' \u2014 this directly addresses Rabbi Yochanan's position that the rival wife's status changes due to the chalitza, which is exactly what the Rabbi Yochanan prose section discusses.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rav Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "D'Oraisa vs. D'Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's position that neither he nor his brothers incur karet for relations with the chalutza or her rival wife, and frames it as a potential refutation \u2014 precisely the tension the prose under heading 0 discusses.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "D'Oraisa vs. D'Rabbanan",
+    "candidates": [
+      "D'Oraisa vs. D'Rabbanan",
+      "Mai Shna Hai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's response distinguishing achot gerusha (d'oraisa) from achot chalutza (d'rabbanan), which is precisely what heading 0's prose elaborates on.",
+      "chosen_heading": "D'Oraisa vs. D'Rabbanan",
+      "current_heading": "D'Oraisa vs. D'Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Mai Shna Hai",
+    "candidates": [
+      "Mai Shna Hai",
+      "Two Brothers",
+      "Tzarat Ervah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question about the asymmetry in the mishna ('what is different about this vs. that'), which directly matches the prose under heading 0 that introduces and explains this very question.",
+      "chosen_heading": "Mai Shna Hai",
+      "current_heading": "Mai Shna Hai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Tzarat Ervah",
+    "candidates": [
+      "Two Brothers",
+      "Tzarat Ervah",
+      "Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between the woman who goes to court (acquiring chalutza status) and the one who does not, which is precisely what the prose of 'Tzarat Ervah' discusses when it quotes 'hach d'azla behada l'vei dina' and 'd'lo azla behada l'vei dina'.",
+      "chosen_heading": "Tzarat Ervah",
+      "current_heading": "Tzarat Ervah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Setup",
+    "candidates": [
+      "Setup",
+      "Hamten"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 chalitza with yevama, then brother marries her sister \u2014 is precisely what the 'Setup' prose describes, introducing the new scenario of Shimon performing chalitza with Rachel and Levi marrying Leah.",
+      "chosen_heading": "Setup",
+      "current_heading": "Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Hamten",
+    "candidates": [
+      "Hamten",
+      "Death Scenarios",
+      "Met Hayavam",
+      "Wording"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hamten",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the hamten ruling \u2014 the yavam's brother must wait \u2014 which is exactly what heading 0's prose describes.",
+      "second_heading": "Death Scenarios",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the resolution scenarios (chalitza/yibbum performed, or yevama dies \u2192 may marry; yavam dies \u2192 must divorce with get and chalitza), matching headings 1 and 2's prose, with the first clause matching 'Death Scenarios' and the final clause about met hayavam matching 'Met Hayavam' \u2014 but since the item covers both resolutions together and heading 1's prose explicitly quotes 'chalatz l'achiv o kinsah \u2014 yichnos et ishto; metah hayevama \u2014 yichnos et ishto' alongside the met yavam outcome, heading 1 is the better single home for the full item.",
+      "current_heading": "Hamten",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Wording",
+    "candidates": [
+      "Death Scenarios",
+      "Met Hayavam",
+      "Wording",
+      "Divorcee vs. Chalutza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about the mishna's use of 'and similarly' (v'chen) and the answer to emend it to 'however' (aval), which is precisely what the 'Wording' section's prose describes.",
+      "chosen_heading": "Wording",
+      "current_heading": "Wording",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Divorcee vs. Chalutza",
+    "candidates": [
+      "Divorcee vs. Chalutza",
+      "Mahu B'Yevimto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's statement distinguishing the sister of a divorc\u00e9e (biblical prohibition) from the sister of a \u1e25alutza (rabbinic prohibition), which is precisely what the 'Divorcee vs. Chalutza' section's prose discusses and even quotes directly.",
+      "chosen_heading": "Divorcee vs. Chalutza",
+      "current_heading": "Divorcee vs. Chalutza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Mahu B'Yevimto",
+    "candidates": [
+      "Mahu B'Yevimto",
+      "Rav Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage reports Shmuel's ruling that the halakha follows Rabbi Yehuda ben Beteira, which directly relates to the mishna's case of a shomeres yavam whose sister was betrothed \u2014 this is the substantive halakhic ruling being discussed in the 'Rav Position' section about who may proceed with the yevama, not the exploratory question posed in 'Mahu B'Yevimto'.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Mahu B'Yevimto",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Rav Position",
+    "candidates": [
+      "Mahu B'Yevimto",
+      "Rav Position",
+      "Shmuel Position",
+      "Gimmel Achim",
+      "Shomeres Yavam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together pose the dilemma (mesa ishto mahu b'yevimto) and give Rav's reasoning via Rava's explanation, which is precisely what candidate 0's prose describes as the key question and the three-stage permitted/forbidden/permitted sequence \u2014 the current placement under 'Rav Position' splits the question from its setup, whereas candidate 0 explicitly discusses this entire arc including the reversion-to-original-status logic.",
+      "chosen_heading": "Mahu B'Yevimto",
+      "current_heading": "Rav Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Shomeres Yavam",
+    "candidates": [
+      "Shmuel Position",
+      "Gimmel Achim",
+      "Shomeres Yavam",
+      "Rabbi Eliezer",
+      "Gerusha Case",
+      "Lo Chazya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The entire passage is one continuous chain beginning with Rav Hamnuna's three-brothers objection (items 1-3) and continuing through Rava's silent response, his proposed Rabbi Elazar resolution, and its confirmation (items 4-6), all of which flow from the gimmel achim case introduced in candidate 1's prose.",
+      "chosen_heading": "Gimmel Achim",
+      "current_heading": "Shomeres Yavam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Lo Chazya",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Gerusha Case",
+      "Lo Chazya",
+      "When Status Locks",
+      "Yevama",
+      "Kol Hanashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are about whether Shmuel and Rav Asi follow Rabbi Elazar's view, concluding that even the Rabbis would agree in this case because she became forbidden after already entering yevama status \u2014 which is precisely the topic of candidate 3, which discusses how Rav vs. Shmuel/Rav Asi disagree and why Rabbi Elazar's principle cannot resolve it.",
+      "chosen_heading": "When Status Locks",
+      "current_heading": "Lo Chazya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Kol Hanashim",
+    "candidates": [
+      "When Status Locks",
+      "Yevama",
+      "Kol Hanashim",
+      "Lo Ye'arsu",
+      "Lo Plug",
+      "Rabbi Yehuda",
+      "Arusa B'Yehuda",
+      "Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the yevama's three-month waiting period as its primary subject, which precisely matches the 'Yevama' section's prose description of this mishna's content, whereas the current placement under 'Kol Hanashim' focuses on only the second part of the mishna.",
+      "chosen_heading": "Yevama",
+      "current_heading": "Kol Hanashim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Rabbi Yosi",
+    "candidates": [
+      "Lo Ye'arsu",
+      "Lo Plug",
+      "Rabbi Yehuda",
+      "Arusa B'Yehuda",
+      "Rabbi Yosi",
+      "Ben Kayama",
+      "Eshet Ach",
+      "Karoz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together present Rabbi Yosi's opinion \u2014 that all women may be betrothed except a widow due to mourning \u2014 which is precisely what candidate 4 ('Rabbi Yosi') describes in its prose.",
+      "chosen_heading": "Rabbi Yosi",
+      "current_heading": "Rabbi Yosi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Karoz",
+    "candidates": [
+      "Ben Kayama",
+      "Eshet Ach",
+      "Karoz",
+      "Grusha",
+      "Mezonos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about why chalitza is prohibited during the three months \u2014 raising the challenge to Rabbi Yochanan, deflecting it with the karoz concern, and then questioning why the karoz announcement is insufficient \u2014 which matches precisely the 'Karoz' section's prose description.",
+      "chosen_heading": "Karoz",
+      "current_heading": "Karoz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157
+    ],
+    "current_heading": "Mezonos",
+    "candidates": [
+      "Grusha",
+      "Mezonos",
+      "Oleh Leyibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's sequential questions about the mezonos rationale \u2014 item 1 raises the grusha objection and answers it with mezonos, item 2 then presses on the arusa-grusha case \u2014 which is precisely the chain of argument described in the 'Mezonos' section's prose.",
+      "chosen_heading": "Mezonos",
+      "current_heading": "Mezonos",
+      "moved": false
+    }
+  }
+]

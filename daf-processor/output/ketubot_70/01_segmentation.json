@@ -208,8 +208,8 @@
           "timestamp": "28:01"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Gemara: If She Earns Enough, He Can Opt Out—But Does He Really?",
@@ -232,7 +232,7 @@
           "timestamp": "30:31"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -266,7 +266,7 @@
           "timestamp": "33:44"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 14,
       "matched": false
     },
     {
@@ -348,7 +348,7 @@
           "timestamp": "44:50"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -697,5 +697,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "22:20",
+  "amud_b_micro_title": "Core Question",
+  "shiur_start_daf": 70,
+  "shiur_start_amud": "a"
 }

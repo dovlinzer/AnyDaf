@@ -1,0 +1,549 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Torach/Effort Debate",
+    "candidates": [
+      "New Tefillin Concern",
+      "Torach/Effort Debate",
+      "Definitions of Old/New",
+      "Wearing Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present Rava's resolution that the torach/effort question is a tannaitic dispute, illustrated by the baraita contrasting Rabbi Meir and Rabbi Yehuda \u2014 exactly what the 'Torach/Effort Debate' prose describes.",
+      "chosen_heading": "Torach/Effort Debate",
+      "current_heading": "Torach/Effort Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Wearing Problem",
+    "candidates": [
+      "Definitions of Old/New",
+      "Wearing Problem",
+      "Bow Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines old tefillin as having tied straps and new tefillin as having untied straps, which is precisely what the 'Definitions of Old/New' section discusses, not the 'Wearing Problem' section which deals with the downstream implications of those definitions.",
+      "chosen_heading": "Definitions of Old/New",
+      "current_heading": "Wearing Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Bow Forbidden",
+    "candidates": [
+      "Wearing Problem",
+      "Bow Forbidden",
+      "Bow = Shabbat Knot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks why not use a bow and Rav \u1e24isda answers that a bow is invalid for tefillin, which is precisely what the 'Bow Forbidden' section's prose discusses.",
+      "chosen_heading": "Bow Forbidden",
+      "current_heading": "Bow Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Bow = Shabbat Knot",
+    "candidates": [
+      "Bow = Shabbat Knot",
+      "Knot Form"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Abaye's teaching that Rabbi Yehudah holds a bow is a full-fledged knot for Shabbat purposes, which is precisely what the prose under heading 0 explains and elaborates upon.",
+      "chosen_heading": "Bow = Shabbat Knot",
+      "current_heading": "Bow = Shabbat Knot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Knot Form",
+    "candidates": [
+      "Knot Form",
+      "Bow Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the very question about whether a bow can substitute for the required knot of tefillin, citing Rav Yehuda's statement about the halacha l'Moshe miSinai knot and Rav Nachman's requirement that the decorative side face outward \u2014 exactly the content discussed in the 'Knot Form' prose, which sets up this challenge before the 'Bow Solution' answers it.",
+      "chosen_heading": "Knot Form",
+      "current_heading": "Knot Form",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Bow Solution",
+    "candidates": [
+      "Bow Solution",
+      "Two-One Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes tying a bow that resembles the required knot, which is precisely what the 'Bow Solution' prose discusses as the gemara's answer for wearing tefillin on Shabbat.",
+      "chosen_heading": "Bow Solution",
+      "current_heading": "Bow Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Two-One Check",
+    "candidates": [
+      "Two-One Check",
+      "Why Two-One?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the 'two-one check' rule (bodek shtayim shel yad v'achas shel rosh) which is exactly what heading 0's prose describes, before the gemara's challenge discussed in heading 1.",
+      "chosen_heading": "Two-One Check",
+      "current_heading": "Two-One Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Why Two-One?",
+    "candidates": [
+      "Why Two-One?",
+      "One Supplier",
+      "Rav Kahana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the classic ma nafshach challenge and its resolution \u2014 the exact content described in candidate 0's prose about the 'whichever way you look at it' objection and its two horns.",
+      "chosen_heading": "Why Two-One?",
+      "current_heading": "Why Two-One?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav Kahana",
+    "candidates": [
+      "One Supplier",
+      "Rav Kahana",
+      "Rebbi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage challenges the 'total of three mixed' interpretation by citing Rabba bar Shmuel's teaching of 'three of the arm and three of the head,' then rejects the 'three of each type' reading in favor of 'three total, mixed' \u2014 exactly the resolution described in the 'One Supplier' prose section.",
+      "chosen_heading": "One Supplier",
+      "current_heading": "Rav Kahana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rebbi Position",
+    "candidates": [
+      "Rav Kahana",
+      "Rebbi Position",
+      "Multiple Bags"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Kahana baraita AND the gemara's identification of it as Rebbi's position, so it belongs under the 'Rav Kahana' heading which introduces this baraita, rather than splitting it \u2014 the current placement under 'Rebbi Position' separates the question from its answer, whereas heading 0's prose already anticipates the Rebbi resolution as part of the same discussion unit.",
+      "chosen_heading": "Rav Kahana",
+      "current_heading": "Rebbi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Multiple Bags",
+    "candidates": [
+      "Multiple Bags",
+      "Bundle Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the same continuous gemara exchange about multiple bundles (tzvatim), Rabbi Yehuda HaNasi's concession that each bundle comes from a different supplier, and the conclusion that even fourth and fifth bundles require examination \u2014 exactly what the 'Multiple Bags' prose describes.",
+      "chosen_heading": "Multiple Bags",
+      "current_heading": "Multiple Bags",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Bundle Types",
+    "candidates": [
+      "Bundle Types",
+      "Single vs. Multiple Trips",
+      "Completion Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the definition and distinction between tzfashim (bundles arranged in pairs) and krichot (wrapped piles without arrangement), which is precisely what the 'Bundle Types' section prose describes.",
+      "chosen_heading": "Bundle Types",
+      "current_heading": "Bundle Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Completion Test",
+    "candidates": [
+      "Single vs. Multiple Trips",
+      "Completion Test",
+      "Cover & Leave",
+      "Small Trips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with the gemara's question 'why not bring them pair by pair' and then provides Rav Yitzchak's answer \u2014 the entire exchange is the gemara's response to the question of single vs. multiple trips, which is precisely what heading 0 ('Single vs. Multiple Trips') describes in its prose.",
+      "chosen_heading": "Single vs. Multiple Trips",
+      "current_heading": "Completion Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Small Trips",
+    "candidates": [
+      "Cover & Leave",
+      "Small Trips",
+      "Two Danger Types",
+      "Rashi's View",
+      "Revised: Edict",
+      "Quiet Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question contrasting the mishnah's 'cover and leave' ruling with the baraita's 'less than four amot' ruling, and Rav's resolution distinguishing gentile danger from bandit danger \u2014 this entire dialectical unit (the question, the apparent contradiction, and Rav's answer) belongs under 'Cover & Leave' as it directly interrogates that mishnah ruling, with the subsequent headings ('Small Trips,' 'Two Danger Types,' etc.) representing the essay author's own elaboration of what is actually a single Talmudic passage.",
+      "chosen_heading": "Cover & Leave",
+      "current_heading": "Small Trips",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Quiet Approach",
+    "candidates": [
+      "Two Danger Types",
+      "Rashi's View",
+      "Revised: Edict",
+      "Quiet Approach",
+      "Daisy Chain",
+      "Philosophy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form precisely the content described in 'Quiet Approach': Abaye's challenge about Rabbi Shimon's daisy-chain being conspicuous under a non-Jewish edict, followed by the gemara's resolution that the mishna is incomplete and embeds a distinction between sakanas nochri (cover and leave) and sakanas listim (carry in increments), which is exactly what that section's prose describes.",
+      "chosen_heading": "Quiet Approach",
+      "current_heading": "Quiet Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Philosophy",
+    "candidates": [
+      "Daisy Chain",
+      "Philosophy",
+      "Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the gemara's articulation of the underlying logic of the tanna kamma vs. Rabbi Shimon dispute, which is precisely what the 'Philosophy' section's prose describes and analyzes.",
+      "chosen_heading": "Philosophy",
+      "current_heading": "Philosophy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Scenario",
+    "candidates": [
+      "Scenario",
+      "Barrel Analogy",
+      "Tchum Problem",
+      "Pour Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Scenario",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the child born in the field and the hundred-person chain, which is exactly what candidate 0 ('Scenario') prose describes.",
+      "second_heading": "Barrel Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rabbi Yehuda's barrel case, which is precisely what candidate 1 ('Barrel Analogy') prose discusses, and the Gemara's challenge about behema v'keilim k'raglei ha'bealim is what candidate 2 ('Tchum Problem') sets up.",
+      "current_heading": "Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Pour Method",
+    "candidates": [
+      "Barrel Analogy",
+      "Tchum Problem",
+      "Pour Method",
+      "Water Insignificant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces Reish Lakish's explanation that the scenario involves pouring from barrel to barrel, which is precisely what the 'Pour Method' section's prose describes and discusses.",
+      "chosen_heading": "Pour Method",
+      "current_heading": "Pour Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Water Insignificant",
+    "candidates": [
+      "Water Insignificant",
+      "Water in Pot",
+      "Rava: Drawn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous discussion about Rabbi Yehuda's ruling that water lacks substance \u2014 items 1-2 cite the mishna and explain it, while item 3 introduces the challenge that Rabbi Yehuda only said water is nullified when absorbed in dough, not in its free state \u2014 exactly what heading 0's prose describes as the material 'the gemara is about to press,' making the current placement correct as the full arc of the 'Water Insignificant' section including the setup for its refutation.",
+      "chosen_heading": "Water Insignificant",
+      "current_heading": "Water Insignificant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Rava: Drawn",
+    "candidates": [
+      "Water in Pot",
+      "Rava: Drawn",
+      "Caravan Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the core of Rava's explanation \u2014 the barrel nullified to the water, supported by the two parallel cases (living person on bed, food below measure in vessel) \u2014 which is exactly what the 'Rava: Drawn' section's prose describes in detail.",
+      "chosen_heading": "Rava: Drawn",
+      "current_heading": "Rava: Drawn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Caravan Need",
+    "candidates": [
+      "Caravan Need",
+      "Two Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yosef's objection from the baraita about the caravan, the inference that permission is limited to a caravan, and his reinterpretation of the mishna as referring to a caravan \u2014 all of which matches exactly the 'Caravan Need' prose description.",
+      "chosen_heading": "Caravan Need",
+      "current_heading": "Caravan Need",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Two Cases",
+    "candidates": [
+      "Two Cases",
+      "Ownerless"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's distinction between the caravan and non-caravan cases, which is precisely what the 'Two Cases' prose discusses.",
+      "chosen_heading": "Two Cases",
+      "current_heading": "Two Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Ownerless",
+    "candidates": [
+      "Ownerless",
+      "Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Ashi's interpretation involving ownerless barrels and water, Rabbi Yochanan ben Nuri's ruling on ownerless objects acquiring residence, and the meaning of the tchum limitation \u2014 all of which are precisely described in the 'Ownerless' section's prose.",
+      "chosen_heading": "Ownerless",
+      "current_heading": "Ownerless",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Scenario",
+    "candidates": [
+      "Scenario",
+      "Porch Case",
+      "Within Ten",
+      "Beyond Ten",
+      "R. Yehudah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Porch Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the iskopa (porch/threshold) case where rolling back is always permitted, matching the 'Porch Case' prose exactly.",
+      "second_heading": "Within Ten",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the roof case with the ten-tefachim distinction (rolling back permitted above ten, turning over required below ten), which spans both 'Within Ten' and 'Beyond Ten' \u2014 but since the passage begins with the above-ten permission, 'Within Ten' is the correct starting heading for this new roof scenario.",
+      "current_heading": "Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "R. Yehudah",
+    "candidates": [
+      "Porch Case",
+      "Within Ten",
+      "Beyond Ten",
+      "R. Yehudah",
+      "R. Shimon",
+      "Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's needle-breadth ruling and Rabbi Shimon's ground-level ruling with his principle, but the current placement under 'R. Yehudah' is where this combined text sits \u2014 however, the passage actually spans both R. Yehudah and R. Shimon's statements together, and since the essay separates them into distinct sections (3 and 4+5), the passage as a whole fits best under 'R. Yehudah' only if we consider it the starting point, but given that Rabbi Shimon's content (including the principle) is included, and sections 4 and 5 are separate headings with prose that matches those exact statements, the current placement under index 3 is actually correct as a combined quote placed at the R. Yehudah section where it begins.",
+      "chosen_heading": "R. Yehudah",
+      "current_heading": "R. Yehudah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Principle",
+    "candidates": [
+      "R. Shimon",
+      "Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's analysis questioning the mishna's circumstances and identifying Rabbi Shimon's principle that rabbinic decrees do not stand before the rescue of sacred writings, which is precisely what the 'Principle' prose section discusses.",
+      "chosen_heading": "Principle",
+      "current_heading": "Principle",
+      "moved": false
+    }
+  }
+]

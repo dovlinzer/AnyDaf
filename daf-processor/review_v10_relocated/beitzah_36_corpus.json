@@ -1,0 +1,425 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Chamira vs. Kala",
+    "candidates": [
+      "Intro to Mashilin",
+      "Mishnah: Fruit & Rain",
+      "Ad Kama: Limits",
+      "4-5 Baskets",
+      "Chamira vs. Kala",
+      "Uvda D'chol Worry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items discuss the comparison between the Shabbat case (4-5 baskets) and the Yom Tov case, raising arguments in both directions about chamira vs. kala and hefsed mamon, which is exactly what candidate 4 ('Chamira vs. Kala') describes in its prose.",
+      "chosen_heading": "Chamira vs. Kala",
+      "current_heading": "Chamira vs. Kala",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Uvda D'chol Worry",
+    "candidates": [
+      "Uvda D'chol Worry",
+      "Lo et HaOtzar",
+      "Furrows Concern",
+      "Roof vs. Shed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the otzar mishna, Shmuel's explanation, and poses the question about the roof on Yom Tov \u2014 exactly the content described in heading 0's prose, which covers all these elements together as one continuous Gemara discussion.",
+      "chosen_heading": "Uvda D'chol Worry",
+      "current_heading": "Uvda D'chol Worry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Roof vs. Shed",
+    "candidates": [
+      "Lo et HaOtzar",
+      "Furrows Concern",
+      "Roof vs. Shed",
+      "Skylight Only",
+      "Tania: Migag Legag",
+      "Shabbat Scenario",
+      "Braita: Rope Ban",
+      "Direct Drop Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the two-directional Gemara argument (Shabbat severe vs. Yom Tov lighter / bittul beit midrash justification) that the 'Roof vs. Shed' prose explicitly describes and analyzes in detail.",
+      "chosen_heading": "Roof vs. Shed",
+      "current_heading": "Roof vs. Shed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Direct Drop Only",
+    "candidates": [
+      "Skylight Only",
+      "Tania: Migag Legag",
+      "Shabbat Scenario",
+      "Braita: Rope Ban",
+      "Direct Drop Only",
+      "Fruit Protection",
+      "Ulla: Bricks Too",
+      "Reb Yitzchak: No Muktzah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shabbat Scenario",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rav Nachman's migag legag ruling, its baraita confirmation, and the Shabbat dilemma with competing arguments about Yom Tov's leniency vs. hefsed peiros, exactly matching the 'Shabbat Scenario' prose.",
+      "second_heading": "Direct Drop Only",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present the baraita prohibiting ropes and ladders and its own Shabbat dilemma involving bittul beit HaMidrash and hefsed peiros ending in teiku, exactly matching the 'Direct Drop Only' prose.",
+      "current_heading": "Direct Drop Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Reb Yitzchak: No Muktzah",
+    "candidates": [
+      "Fruit Protection",
+      "Ulla: Bricks Too",
+      "Reb Yitzchak: No Muktzah",
+      "Food Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Ulla's extension to bricks and Rabbi Yitzchak's disagreement with his general principle, but its primary content \u2014 Rabbi Yitzchak's ruling on covering only fit items and his principle about vessels \u2014 matches the current placement under 'Reb Yitzchak: No Muktzah' most precisely, and the current placement is correct.",
+      "chosen_heading": "Reb Yitzchak: No Muktzah",
+      "current_heading": "Reb Yitzchak: No Muktzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Food Examples",
+    "candidates": [
+      "Food Examples",
+      "Tevel Wine & Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's attempt to derive a ruling from the mishna's use of 'peiros' (produce) and the rejection that this implies exclusion of bricks, which matches exactly the prose in 'Food Examples' about the mishnah's language and the Gemara's deflection regarding arraiya d'livnei.",
+      "chosen_heading": "Food Examples",
+      "current_heading": "Food Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Tevel Wine & Oil",
+    "candidates": [
+      "Tevel Wine & Oil",
+      "Small Loss OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the tevel interpretation of the jugs of wine and oil example, which is precisely what the 'Tevel Wine & Oil' section's prose describes.",
+      "chosen_heading": "Tevel Wine & Oil",
+      "current_heading": "Tevel Wine & Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Small Loss OK",
+    "candidates": [
+      "Small Loss OK",
+      "Pot Under Drip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between hefsed merubeh and hefsed mu'at, which is precisely what the 'Small Loss OK' section's prose discusses.",
+      "chosen_heading": "Small Loss OK",
+      "current_heading": "Small Loss OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Pot Under Drip",
+    "candidates": [
+      "Pot Under Drip",
+      "Mat Over Bricks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses placing a vessel under a roof leak on Shabbat and the Gemara's limitation to 'leakage that is fit,' which matches exactly the 'Pot Under Drip' section's prose about nosnim kli tachat ha'delef and b'delef ha'rauy.",
+      "chosen_heading": "Pot Under Drip",
+      "current_heading": "Pot Under Drip",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Mat Over Bricks",
+    "candidates": [
+      "Mat Over Bricks",
+      "Hive Protection",
+      "Honey Designation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss spreading a mat over bricks and stones respectively, and the prose under 'Mat Over Bricks' explicitly covers both the bricks baraita and the rounded stones baraita, matching the content of items 1 and 2 precisely.",
+      "chosen_heading": "Mat Over Bricks",
+      "current_heading": "Mat Over Bricks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Honey Designation",
+    "candidates": [
+      "Hive Protection",
+      "Honey Designation",
+      "Trapping Worry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the beehive mat case and its honey-based resolution, matching exactly the 'Honey Designation' prose which covers the hatam nami d'ika devash response, the Rav Ukva challenge about winter/rainy season, the two honeycombs answer, and the prior designation solution \u2014 the precise content of both items.",
+      "chosen_heading": "Honey Designation",
+      "current_heading": "Honey Designation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Trapping Worry",
+    "candidates": [
+      "Trapping Worry",
+      "Not Intent-Based"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the question-and-answer exchange about whether lack of prior designation (chishev aleihem) makes covering the hive forbidden, and the Gemara's response reframing the baraita's meaning \u2014 exactly the content described in heading 0's prose about 'v'i lo chishev aleihem mai' and 'hachi ka'amar'.",
+      "chosen_heading": "Trapping Worry",
+      "current_heading": "Trapping Worry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Not Intent-Based",
+    "candidates": [
+      "Not Intent-Based",
+      "Bed Strategy",
+      "Abaye Hesitant",
+      "Disgusting Items",
+      "Dead Rat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are part of the continuous Gemara discussion about the beehive baraita \u2014 the contradiction between Rabbi Yehuda and Rabbi Shimon, the psik reisha resolution, the reinterpretation involving windows in the hive, the 'obvious' objection about trapped animals, and Rav Ashi's seasonal clarification \u2014 all of which are explicitly discussed in the 'Not Intent-Based' prose.",
+      "chosen_heading": "Not Intent-Based",
+      "current_heading": "Not Intent-Based",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Dead Rat Case",
+    "candidates": [
+      "Bed Strategy",
+      "Abaye Hesitant",
+      "Disgusting Items",
+      "Dead Rat Case",
+      "Equal on Both"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bed Strategy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna/baraita about placing a vessel under a leak on Shabbat, which is the introductory passage that precedes the Abaye millhouse narrative \u2014 it belongs under 'Bed Strategy' which opens with the millhouse/rain/leak scenario.",
+      "second_heading": "Disgusting Items",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the Abaye millhouse story, his hesitation, Shmuel's ruling on geraf shel re'i, and the dead rat case \u2014 all forming the continuous geraf shel re'i discussion that spans 'Abaye Hesitant', 'Disgusting Items', and 'Dead Rat Case', but the prose of 'Disgusting Items' explicitly introduces the geraf shel re'i principle and says 'the cases below illustrate it', making it the best single umbrella heading for items 2-5 as a group, though the current placement under 'Dead Rat Case' also captures much of the same material.",
+      "current_heading": "Dead Rat Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Equal on Both",
+    "candidates": [
+      "Dead Rat Case",
+      "Equal on Both",
+      "Climbing & Riding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah about shevut/reshut/mitzvah prohibitions applying equally on Shabbat and Yom Tov, which candidate 1's prose explicitly introduces and discusses.",
+      "chosen_heading": "Equal on Both",
+      "current_heading": "Equal on Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Climbing & Riding",
+    "candidates": [
+      "Climbing & Riding",
+      "Clapping & Dancing",
+      "Din & Kiddushin",
+      "Mitzvot Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah listing all shevut prohibitions (climbing, riding, swimming, clapping, and dancing), and while it covers content discussed under both headings 0 and 1, its current placement under 'Climbing & Riding' is appropriate since the essay prose for that section explicitly quotes and discusses this same mishnah as the source for the shevut enumeration, with the subsequent heading covering the interpretive discussion of the clapping/dancing portion specifically.",
+      "chosen_heading": "Climbing & Riding",
+      "current_heading": "Climbing & Riding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Mitzvot Examples",
+    "candidates": [
+      "Clapping & Dancing",
+      "Din & Kiddushin",
+      "Mitzvot Examples",
+      "Tree & Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the reshus category, the mitzvah category, and the concluding Yom Tov/Shabbat principle \u2014 are precisely what the 'Mitzvot Examples' prose describes, including the kal v'chomer conclusion and the ein bein formulation.",
+      "chosen_heading": "Mitzvot Examples",
+      "current_heading": "Mitzvot Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Tree & Animal",
+    "candidates": [
+      "Tree & Animal",
+      "Swimming & Music"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's reasoning for the tree-climbing and animal-riding prohibitions, exactly matching the 'Tree & Animal' section's prose about gezeirot for these two cases and the brief digression about tchumin.",
+      "chosen_heading": "Tree & Animal",
+      "current_heading": "Tree & Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Swimming & Music",
+    "candidates": [
+      "Swimming & Music",
+      "Gezeira Framework",
+      "Gezeira Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the two Talmudic texts (swimming/barrel and clapping/musical instrument) that heading 0 'Swimming & Music' explicitly quotes and discusses in its prose, making it the clear and correct placement.",
+      "chosen_heading": "Swimming & Music",
+      "current_heading": "Swimming & Music",
+      "moved": false
+    }
+  }
+]

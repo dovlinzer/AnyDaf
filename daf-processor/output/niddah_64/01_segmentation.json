@@ -24,7 +24,7 @@
           "timestamp": "03:50"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -178,7 +178,7 @@
           "timestamp": "31:21"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -192,7 +192,7 @@
           "timestamp": "31:32"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 18,
       "matched": false
     },
     {
@@ -211,7 +211,7 @@
           "timestamp": "31:43"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -225,7 +225,7 @@
           "timestamp": "32:18"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 26,
       "matched": false
     },
     {
@@ -244,8 +244,8 @@
           "timestamp": "33:37"
         }
       ],
-      "sefaria_index": 19,
-      "matched": true
+      "sefaria_index": 26,
+      "matched": false
     },
     {
       "title": "Woman Who Has Already Menstruated: Beit Shammai vs. Beit Hillel on First Relations",
@@ -263,8 +263,8 @@
           "timestamp": "33:07"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 26,
+      "matched": false
     },
     {
       "title": "Pubescent Girl Without Prior Period: First Night to Four Nights (continued)",
@@ -277,7 +277,7 @@
           "timestamp": "33:47"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 26,
       "matched": false
     }
   ],
@@ -452,5 +452,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "28:50",
+  "amud_b_micro_title": "Four Month Cycle",
+  "shiur_start_daf": 64,
+  "shiur_start_amud": "a"
 }

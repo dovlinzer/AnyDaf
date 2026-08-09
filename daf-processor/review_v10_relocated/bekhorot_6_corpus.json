@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Klal U'Prat Method",
+    "candidates": [
+      "Intro: Mother-Child Match",
+      "Klal U'Prat Method",
+      "R. Yose: Double Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the classic *hilkach tzrichi* argument \u2014 deriving why all three species must be stated explicitly \u2014 which is precisely what candidate 1's prose describes in detail, including each of the three omission-scenarios and their refutations.",
+      "chosen_heading": "Klal U'Prat Method",
+      "current_heading": "Klal U'Prat Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "R. Yose: Double Bechor",
+    "candidates": [
+      "R. Yose: Double Bechor",
+      "Broad to Narrow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Rabbi Yosei HaGelili's derivation from the repeated 'bechor' in the kosher animal verse and his handling of the repeated 'peter chamor,' which is precisely what the prose under 'R. Yose: Double Bechor' describes.",
+      "chosen_heading": "R. Yose: Double Bechor",
+      "current_heading": "R. Yose: Double Bechor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Broad to Narrow",
+    "candidates": [
+      "Broad to Narrow",
+      "Rav Achai's Challenge",
+      "Gemara Response",
+      "Peter Chamor Twice",
+      "Klal U'Prat: All Animals",
+      "R. Yose: Verse Break",
+      "Rabbis: Different Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items form a continuous chain covering the baraita of Rabbi Yosei HaGelili narrowing from broad (all non-kosher animals) to narrow (donkeys only), Rav Achai's challenge, the Gemara's response about the double 'peter chamor,' and then the tanna didan's alternative source \u2014 exactly what the 'Broad to Narrow' prose describes.",
+      "chosen_heading": "Broad to Narrow",
+      "current_heading": "Broad to Narrow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rabbis: Different Kedusha",
+    "candidates": [
+      "Rav Achai's Challenge",
+      "Gemara Response",
+      "Peter Chamor Twice",
+      "Klal U'Prat: All Animals",
+      "R. Yose: Verse Break",
+      "Rabbis: Different Kedusha",
+      "Cow-Donkey Hybrid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbis' response about the two types of sanctity (kedushat damim vs. kedushat haguf) requiring the verse break and reconnection, which is precisely what the 'Rabbis: Different Kedusha' section's prose describes.",
+      "chosen_heading": "Rabbis: Different Kedusha",
+      "current_heading": "Rabbis: Different Kedusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Cow-Donkey Hybrid",
+    "candidates": [
+      "Cow-Donkey Hybrid",
+      "Sheep-Goat Parallel",
+      "Different Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the opening dilemma about a cow giving birth to a donkey-like offspring with some cow characteristics, which is precisely what the 'Cow-Donkey Hybrid' section's prose describes as the opening case.",
+      "chosen_heading": "Cow-Donkey Hybrid",
+      "current_heading": "Cow-Donkey Hybrid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Different Categories",
+    "candidates": [
+      "Sheep-Goat Parallel",
+      "Different Categories",
+      "Baraita: Simanim Enough"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single chain of escalating dilemmas (cow-donkey \u2192 donkey-horse \u2192 cow-horse) that exactly matches the 'Different Categories' prose description of the Gemara's extension from the cow-donkey case through the intermediate and extreme cases.",
+      "chosen_heading": "Different Categories",
+      "current_heading": "Different Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Baraita: Simanim Enough",
+    "candidates": [
+      "Baraita: Simanim Enough",
+      "Donkey-Horse Example",
+      "Unresolved Questions",
+      "Yotzei Min HaTamei",
+      "Mother Determines Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of Gemara argumentation about baraitot concerning kosher animals giving birth to non-kosher-looking offspring, partial simanim, and the donkey-horse case \u2014 exactly what the 'Baraita: Simanim Enough' prose describes in detail.",
+      "chosen_heading": "Baraita: Simanim Enough",
+      "current_heading": "Baraita: Simanim Enough",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Mother Determines Status",
+    "candidates": [
+      "Donkey-Horse Example",
+      "Unresolved Questions",
+      "Yotzei Min HaTamei",
+      "Mother Determines Status",
+      "R. Gamliel: Appearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items directly address the 'umah hen ba'achilah' passage \u2014 the Gemara's question about the concluding phrase, the mnemonic about following the mother rather than appearance, and the baraita deriving the rule from 'ach et zeh lo tochlu' \u2014 which is precisely what the 'Mother Determines Status' prose describes in detail.",
+      "chosen_heading": "Mother Determines Status",
+      "current_heading": "Mother Determines Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "R. Gamliel: Appearance",
+    "candidates": [
+      "R. Gamliel: Appearance",
+      "Rabbis: Mother Status",
+      "Camel Milk Forbidden",
+      "R. Shimon: Byproducts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's interpretation of the doubled 'gamal' to include a camel born from a cow as non-kosher, which is precisely the content discussed in the 'R. Gamliel: Appearance' section's prose about the doubled gamal teaching that a camel born of a cow is non-kosher.",
+      "chosen_heading": "R. Gamliel: Appearance",
+      "current_heading": "R. Gamliel: Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "R. Shimon: Byproducts",
+    "candidates": [
+      "Rabbis: Mother Status",
+      "Camel Milk Forbidden",
+      "R. Shimon: Byproducts",
+      "Milk as Novelty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of Rabbi Shimon's derivation from 'et' and the Rabbis' non-use of 'et', illustrated by the baraita about Shimon HaAmasoni and resolved by Rabbi Akiva \u2014 exactly the content described in the 'R. Shimon: Byproducts' prose.",
+      "chosen_heading": "R. Shimon: Byproducts",
+      "current_heading": "R. Shimon: Byproducts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Milk as Novelty",
+    "candidates": [
+      "Milk as Novelty",
+      "Blood Becomes Milk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer chain about why a special verse is needed to prohibit camel milk given the existing prohibition on non-kosher byproducts, which is precisely what the 'Milk as Novelty' prose discusses.",
+      "chosen_heading": "Milk as Novelty",
+      "current_heading": "Milk as Novelty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Blood Becomes Milk",
+    "candidates": [
+      "Blood Becomes Milk",
+      "Not Eiver Min Hachai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to the blood-becomes-milk theory ('hanicha leman de'amar dam ne'char'), which is precisely what the prose of heading 0 explains and contextualizes.",
+      "chosen_heading": "Blood Becomes Milk",
+      "current_heading": "Blood Becomes Milk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Not Eiver Min Hachai",
+    "candidates": [
+      "Not Eiver Min Hachai",
+      "Redemption Milk Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why a verse is needed to forbid non-kosher milk, arguing that since milk of a kosher animal is a Torah novelty (permitted despite coming from a living animal, similar to ever min hachai), one might extend that novelty to permit non-kosher milk too \u2014 which is precisely the argument the prose under heading 0 develops.",
+      "chosen_heading": "Not Eiver Min Hachai",
+      "current_heading": "Not Eiver Min Hachai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Redemption Milk Rule",
+    "candidates": [
+      "Redemption Milk Rule",
+      "Biblical Milk Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the exact Gemara discussion described in candidate 0's prose: the question of how we know kosher milk is permitted, the rejection of the basar b'chalav inference, the attempt to derive it from redeemed korban milk, and the deflection of that proof \u2014 all matching 'Redemption Milk Rule' perfectly.",
+      "chosen_heading": "Redemption Milk Rule",
+      "current_heading": "Redemption Milk Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Biblical Milk Examples",
+    "candidates": [
+      "Biblical Milk Examples",
+      "Non-Kosher Byproducts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the chain of biblical proofs for milk's permissibility (Proverbs, I Samuel, Exodus, Isaiah), which is exactly what the 'Biblical Milk Examples' prose describes.",
+      "chosen_heading": "Biblical Milk Examples",
+      "current_heading": "Biblical Milk Examples",
+      "moved": false
+    }
+  }
+]

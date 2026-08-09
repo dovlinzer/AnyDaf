@@ -24,8 +24,8 @@
           "timestamp": "00:59"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Logic and Purpose of Keifel Payment to Shomer When Ganav is Found",
@@ -43,7 +43,7 @@
           "timestamp": "02:47"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -207,7 +207,7 @@
           "timestamp": "12:28"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -280,8 +280,8 @@
           "timestamp": "12:58"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Dispute: Whether Shoal Also Gets Keifel and the Basis for the Distinction",
@@ -309,8 +309,8 @@
           "timestamp": "12:58"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Braita on Shoal: Actual Payment Required for Keifel",
@@ -338,8 +338,8 @@
           "timestamp": "12:58"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Rav Huna's Requirement: Oath Even When Shomer Agrees to Pay (Mashbinan Shuva'ah)",
@@ -649,5 +649,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "12:28",
+  "amud_b_micro_title": "Retraction Case",
+  "shiur_start_daf": 34,
+  "shiur_start_amud": "a"
 }

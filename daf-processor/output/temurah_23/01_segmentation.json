@@ -29,8 +29,8 @@
           "timestamp": "03:30"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The First Amoraic Approach: Rav Huna in the Name of Rav on Selection and Beis Din Consultation",
@@ -102,7 +102,7 @@
           "timestamp": "24:30"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -393,5 +393,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "24:30",
+  "amud_b_micro_title": "No Quasi-Status",
+  "shiur_start_daf": 22,
+  "shiur_start_amud": "b"
 }

@@ -74,9 +74,7 @@ Rabbi Avin answers in the name of the Rabbis: *mikivan she-Beis Din re'uya le-me
 
 ### Ma'aser Sheni Transfer
 
-Turning to the *mishna*'s ruling regarding *ma'aser sheni* money — that one may eat corresponding food — the *Gemara* explains the mechanism of transfer. The verse teaches *kol she-hu kodesh ein kedusha chala alav* — one cannot impose a second *kedushah* on something already sanctified. Therefore one cannot directly consecrate *ma'aser sheni* money for *machatzis ha-shekel*. But the solution the *mishna* provides is: bring a coin of *chulin* and declare — *ma'os ma'aser sheni be-chol makom she-hen harei hen mechulalin al sela zo* — wherever my *ma'aser sheni* money is, let its value be transferred onto this coin. That coin then takes on the *kedushah* of *ma'aser sheni*, and the original money is freed to serve as *shekalim*. The same applies to *shemittah* funds. One may similarly effect this transfer for both categories.
-
----
+The *mishna* rules that *ma'aser sheni* money cannot be directly consecrated for *machatzis ha-shekel*, since *kol she-hu kodesh ein kedusha chala alav* — one cannot impose a second *kedushah* on something already sanctified. The solution is to bring a coin of *chulin* and declare that wherever the *ma'aser sheni* money is, its value is transferred onto that coin; the coin then assumes the *kedushah* of *ma'aser sheni*, and the original money is freed to serve as *shekalim*. The same mechanism applies to *shemittah* funds.
 
 ## Accumulating Shekalim
 

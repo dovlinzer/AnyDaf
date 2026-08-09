@@ -1,6 +1,7 @@
-# Shevuot 2 — Daf Yomi Shiur
-
+[DAF:2a]
 ## Intro to Shevuot
+
+
 
 ### Masechet Structure
 
@@ -32,11 +33,12 @@ One further category deserves mention: *nidrei mitzvah*, wherein a person makes 
 
 ## Two Which Are Four
 
+
+
 ### Shevuas Bitui
 
-> **Hebrew/Aramaic:** מַתְנִי׳ שְׁבוּעוֹת – שְׁתַּיִם שֶׁהֵן אַרְבַּע.
->
-> **Translation:** MISHNA: With regard to **oaths** on an utterance of the lips, there are **two** types **that are** actually **four** types. The Torah specifies only two types of oaths whose violation renders one liable to bring a sliding-scale offering to atone for his transgression (see Leviticus 5:4): Where a person takes an oath to perform some action, and where he takes an oath to refrain from performing some action. With regard to both types, the Torah explicitly mentions liability only for an oath pertaining to one's future behavior. Nevertheless, the Sages derive that one is also liable for a violation of both types of oaths when they pertain to one's past behavior. Accordingly, although only two types are explicitly mentioned in the Torah, the Sages derive that there are actually four types.
+> **Hebrew/Aramaic:** מַתְנִי׳ שְׁבוּעוֹת – שְׁתַּיִם שֶׁהֵן אַרְבַּע.
+> **Translation:** MISHNA: With regard to **oaths** on an utterance of the lips, there are **two** types **that are** actually **four** types. The Torah specifies only two types of oaths whose violation renders one liable to bring a sliding-scale offering to atone for his transgression (see Leviticus 5:4): Where a person takes an oath to perform some action, and where he takes an oath to refrain from performing some action. With regard to both types, the Torah explicitly mentions liability only for an oath pertaining to one’s future behavior. Nevertheless, the Sages derive that one is also liable for a violation of both types of oaths when they pertain to one’s past behavior. Accordingly, although only two types are explicitly mentioned in the Torah, the Sages derive that there are actually four types.
 
 The *mishnah* opens: *shevuot shtayim she-hein arba* — oaths are two which are four. The "two" refers to what is explicit in the *Torah*, and the "four" reflects rabbinic expansion. The *Torah* in *Parshat Vayikra* (perek 5) enumerates the cases for which one brings a *korban oleh ve-yored* — a variable offering whose value scales with the offerer's means: a wealthy person brings an animal, a person of moderate means brings a bird, and a poor person brings a *minchah*.
 
@@ -44,19 +46,18 @@ Among the cases listed there is the verse *o nefesh ki tishava levate bis'fatayi
 
 ### Shevuat HaEdut
 
-> **Hebrew/Aramaic:** יְדִיעוֹת הַטּוּמְאָה – שְׁתַּיִם שֶׁהֵן אַרְבַּע.
->
-> **Translation:** The mishna lists similar groups of *halakhot*. With regard to cases of **awareness of the defiling** of the Temple by entering it while one is ritually impure, or defiling its sacrificial foods by partaking of them while one is ritually impure, there are **two** types **that are** actually **four.** It is prohibited for an impure person to enter the Temple (see Numbers 19:20) or to partake of its sacrificial foods (see Leviticus 7:19–20). If one transgressed either prohibition during a lapse of awareness, then upon becoming aware of his transgression, he is liable to bring a sliding-scale offering (see Leviticus 5:2). The Torah specifies that one is liable to bring the offering only in the case in which he had a lapse of awareness of the fact that he was impure. The Sages derive that one is liable not only in these two cases, but also where he was aware of his personal status but had a lapse of awareness concerning the identity of the place he was entering or the status of the foods he ate.
-
 The same chapter in *Vayikra* also enumerates *shevuat ha-edut* — the case where a person hears a call to testify, has relevant knowledge, but swears he does not. This is a separate category of *oleh ve-yored* entirely, and it will receive its own dedicated chapter later in the *masechet*. Similarly, the chapter describes the case of one who touched something *tamei* and forgot — *ve-ne'elam mimenu ve-hu tamei ve-ashem* — and then entered the *Beit HaMikdash* or ate a *korban*. That is the case of *tumat mikdash ve-kodashav*, which will be the subject of the first two chapters.
 
 ### Mishnah's Cases
 
-> **Hebrew/Aramaic:** יְצִיאוֹת הַשַּׁבָּת – שְׁתַּיִם שֶׁהֵן אַרְבַּע. מַרְאוֹת נְגָעִים – שְׁנַיִם שֶׁהֵן אַרְבָּעָה.
->
+> **Hebrew/Aramaic:** יְדִיעוֹת הַטּוּמְאָה – שְׁתַּיִם שֶׁהֵן אַרְבַּע.
+> **Translation:** The mishna lists similar groups of *halakhot*. With regard to cases of **awareness of the defiling** of the Temple by entering it while one is ritually impure, or defiling its sacrificial foods by partaking of them while one is ritually impure, there are **two** types **that are** actually **four.** It is prohibited for an impure person to enter the Temple (see Numbers 19:20) or to partake of its sacrificial foods (see Leviticus 7:19–20). If one transgressed either prohibition during a lapse of awareness, then upon becoming aware of his transgression, he is liable to bring a sliding-scale offering (see Leviticus 5:2). The Torah specifies that one is liable to bring the offering only in the case in which he had a lapse of awareness of the fact that he was impure. The Sages derive that one is liable not only in these two cases, but also where he was aware of his personal status but had a lapse of awareness concerning the identity of the place he was entering or the status of the foods he ate.
+
+> **Hebrew/Aramaic:** יְצִיאוֹת הַשַּׁבָּת – שְׁתַּיִם שֶׁהֵן אַרְבַּע.
 > **Translation:** With regard to acts of **carrying out** that are prohibited **on Shabbat,** there are **two** types **that are** actually **four.** On Shabbat, it is prohibited to transfer an item from domain to domain. The Torah explicitly refers to only two cases, both of which involve an item being transferred from a private domain to a public domain: Where the transfer is made by a person who remains in the public domain, and where the transfer is made by a person who remains in the private domain. The Sages derive that liability is incurred in these cases also if the item is transferred from the public domain to the private domain. Although only two types are mentioned by the Torah, the Sages derive that there are actually four types.
->
-> With regard to **shades of** leprous **marks** on a person's skin, there are **two** types **that are** actually **four.** The Torah specifies that if a leprous mark appears on a person's skin, the afflicted person must undergo a process of purification and then bring various offerings. Part of the classification of these types of leprosy is based on their shade of white. Two types of marks are explicitly mentioned in the Torah, and the Sages derive that each of these two types has a secondary mark.
+
+> **Hebrew/Aramaic:** מַרְאוֹת נְגָעִים – שְׁנַיִם שֶׁהֵן אַרְבָּעָה.
+> **Translation:** With regard to **shades of** leprous **marks** on a person’s skin, there are **two** types **that are** actually **four.** The Torah specifies that if a leprous mark appears on a person’s skin, the afflicted person must undergo a process of purification and then bring various offerings. Part of the classification of these types of leprosy is based on their shade of white. Two types of marks are explicitly mentioned in the Torah, and the Sages derive that each of these two types has a secondary mark.
 
 It is striking that the *mishnah* follows this enumeration not by proceeding directly to discuss *shevuat bitui* — the oath most relevant to the *nezikin* context — but by listing several other "two which are four" structures. *Yitzi'ot ha-Shabbat shtayim she-hein arba* — the categories of carrying on *Shabbat* that are two which are four. According to *Rashi*, the more explicitly stated category in the *Torah* is transferring an object from a *reshut ha-yachid* to a *reshut ha-rabbim*, based on the episode of *Moshe* instructing the people to stop bringing donations to the *Beit HaMikdash*. This includes two cases depending on who initiates the transfer; the "four" is obtained by reversing the direction. *Mar'os negaim shtayim she-hein arba* — the *Torah* mentions two types of leprous spots, a *se'et* and a *baheret*, each of which is understood to include two shades, yielding four in total.
 
@@ -64,11 +65,9 @@ Having catalogued these parallel structures, the *mishnah* then proceeds not to 
 
 ## Tumat Mikdash
 
-### Three Awareness Points
 
-> **Hebrew/Aramaic:** אֶת שֶׁיֵּשׁ בָּהּ יְדִיעָה בַּתְּחִלָּה וִידִיעָה בַּסּוֹף וְהֶעְלֵם בֵּינָתַיִם – הֲרֵי זֶה בְּעוֹלֶה וְיוֹרֵד.
->
-> **Translation:** The mishna returns to the subject of defiling the Temple or its sacrificial foods. It elaborates on which offerings atone for different cases of defiling the Temple or its sacrificial foods: In cases **in which** one **had awareness,** i.e., he knew he was ritually impure and was aware of the sanctity of the Temple or foods involved **at the beginning,** i.e., before he transgressed, **and** had **awareness at the end,** i.e., after the transgression, **but** had **a lapse of awareness** of one of those two components **in between,** while he actually transgressed, **this** person is liable **to** bring **a sliding-scale** offering.
+
+### Three Awareness Points
 
 The *mishnah* now focuses on *tumat mikdash ve-kodashav* — the sin of entering the *Beit HaMikdash* or eating *kodashim* while *tamei*. The governing principle derives from the *Torah*'s language: *ve-ne'elam mimenu* — it was concealed from him — which implies that the person was initially aware of his status and then forgot. And *ve-hu yada ve-ashem* — he then became aware that he had sinned — implies a return to awareness at the end. The sin thus has three temporal components: initial awareness (*yediah* at the *techilah*), forgetting in the middle (*he'elam*), and awareness at the conclusion (*yediah* at the *sof*). The question the *mishnah* then systematically addresses is: what is the halakhic status when one or more of these components is absent?
 
@@ -76,10 +75,15 @@ The *mishnah* now focuses on *tumat mikdash ve-kodashav* — the sin of entering
 
 The complete case — *yediah* at the beginning, *he'elam* in the middle, and *yediah* at the end — is the paradigmatic case for the *korban oleh ve-yored*. You were aware you were *tamei*, you forgot, you entered the *Mikdash* or ate a *korban*, and subsequently you became aware that you had sinned. In this case you bring the variable offering. The "two which are four" of *tumat mikdash* refers to the two things one might forget — either that one was *tamei*, or that the place was *Mikdash* or that the food was a *korban* — and correspondingly, the two things one might have done wrong: entering the *Mikdash* or eating *kodashim*.
 
+This is why the tractate is called *Yedi'ot HaTumah* — knowledges of *tumah*. The name does not simply describe the subject matter in a general way; it captures the precise halakhic structure. The sin is defined by its relationship to knowing: *ad she-yesh bahen yedi'ah bat'chilah* — there was initial awareness — *ve-yedi'ah basof* — and awareness at the end — *ve-he'elam beintayim* — and a period of forgetting in between during which the sin occurred *be-shogeg*. The *korban* is triggered by the final awareness, the moment of *ve-hu yada ve-ashem* — he became aware and was guilty — when the person realizes what he has done and is now in a position to bring his offering. Remove any one of these components, and the simple case of *oleh ve-yored* no longer applies, which is precisely the question the *mishnah* then takes up.
+
+> **Hebrew/Aramaic:** אֶת שֶׁיֵּשׁ בָּהּ יְדִיעָה בַּתְּחִלָּה וִידִיעָה בַּסּוֹף וְהֶעְלֵם בֵּינָתַיִם – הֲרֵי זֶה בְּעוֹלֶה וְיוֹרֵד.
+> **Translation:** The mishna returns to the subject of defiling the Temple or its sacrificial foods. It elaborates on which offerings atone for different cases of defiling the Temple or its sacrificial foods: In cases **in which** one **had awareness,** i.e., he knew he was ritually impure and was aware of the sanctity of the Temple or foods involved **at the beginning,** i.e., before he transgressed, **and** had **awareness at the end,** i.e., after the transgression, **but** had **a lapse of awareness** of one of those two components **in between,** while he actually transgressed, **this** person is liable **to** bring **a sliding-scale** offering.
+
 ### Yom Kippur Inner
 
-> **Hebrew/Aramaic:** יֵשׁ בָּהּ יְדִיעָה בַּתְּחִלָּה וְאֵין בָּהּ יְדִיעָה בַּסּוֹף – שָׂעִיר הַנַּעֲשֶׂה בִּפְנִים וְיוֹם הַכִּפּוּרִים תּוֹלֶה, עַד שֶׁיִּוָּדַע לוֹ וְיָבִיא בְּעוֹלֶה וְיוֹרֵד.
->
+
+> **Hebrew/Aramaic:** יֵשׁ בָּהּ יְדִיעָה בַּתְּחִלָּה וְאֵין בָּהּ יְדִיעָה בַּסּוֹף – שָׂעִיר הַנַּעֲשֶׂה בִּפְנִים וְיוֹם הַכִּפּוּרִים תּוֹלֶה, עַד שֶׁיִּוָּדַע לוֹ וְיָבִיא בְּעוֹלֶה וְיוֹרֵד.
 > **Translation:** For cases **in which** one **had awareness at the beginning,** transgressed during a lapse of awareness, **and** still **had no awareness at the end,** the **goat whose** blood presentation is **performed inside** the Sanctuary on Yom Kippur, **and Yom Kippur** itself, **suspend** any punishment that he deserves **until he becomes aware** of his transgression; **and** then to achieve atonement **he brings a sliding-scale** offering.
 
 A more complex case arises when there is *yediah* at the beginning but no *yediah* at the end. You knew you were *tamei*, you forgot, you sinned, and you remain oblivious — you have not yet become aware of your transgression. Since you are not aware you sinned, you cannot bring a *korban*. Yet there is a real rupture that has occurred, a sin committed *be-shogeg*, that remains unaddressed. The *mishnah* states: *se'ir ha-na'aseh bifnim ve-Yom HaKippurim toleh* — the inner goat of Yom Kippur, the one whose blood is brought into the *Kodesh Kodashim* during the *kohen gadol*'s service on Yom Kippur, combined with Yom Kippur itself, *toleh* — suspends the punishment.
@@ -94,9 +98,8 @@ The *Gemara*'s narrow reading, by contrast, treats the inner service as addressi
 
 ### Musaf Goat
 
-> **Hebrew/Aramaic:** אֵין בָּהּ יְדִיעָה בַּתְּחִלָּה אֲבָל יֵשׁ בָּהּ יְדִיעָה בַּסּוֹף – שָׂעִיר הַנַּעֲשֶׂה בַּחוּץ וְיוֹם הַכִּפּוּרִים מְכַפֵּר. שֶׁנֶּאֱמַר: "מִלְּבַד חַטַּאת הַכִּפּוּרִים" – עַל מַה שֶּׁזֶה מְכַפֵּר, זֶה מְכַפֵּר; מַה הַפְּנִימִי אֵין מְכַפֵּר אֶלָּא עַל דָּבָר שֶׁיֵּשׁ בָּהּ יְדִיעָה, אַף הַחִיצוֹן אֵין מְכַפֵּר אֶלָּא עַל דָּבָר שֶׁיֵּשׁ בָּהּ יְדִיעָה.
->
-> **Translation:** For cases in which one **did not have awareness at the beginning but had awareness at the end,** the **goat whose** blood presentation is **performed outside** the Sanctuary, i.e., the goat of the additional offerings of Yom Kippur, **and Yom Kippur** itself, **atone, as it is stated** with regard to the offerings brought on Yom Kippur: "One goat for a sin-offering **aside from the sin-offering of the atonements"** (Numbers 29:11). The verse juxtaposes the internal and external goats together to teach that **for that which this** one **atones, that** one **atones. Just as the internal** goat, i.e., the one whose blood presentation is performed inside the Sanctuary, **atones only for a case in which there was awareness** of the components of the transgression at some point, i.e., at the beginning, **so too, the external** goat, i.e., the goat of the additional offerings of Yom Kippur, **atones only for a case in which there was awareness** at some point, i.e., at the end.
+> **Hebrew/Aramaic:** אֵין בָּהּ יְדִיעָה בַּתְּחִלָּה אֲבָל יֵשׁ בָּהּ יְדִיעָה בַּסּוֹף – שָׂעִיר הַנַּעֲשֶׂה בַּחוּץ וְיוֹם הַכִּפּוּרִים מְכַפֵּר. שֶׁנֶּאֱמַר: ״מִלְּבַד חַטַּאת הַכִּפּוּרִים״ – עַל מַה שֶּׁזֶּה מְכַפֵּר, זֶה מְכַפֵּר; מַה הַפְּנִימִי אֵין מְכַפֵּר אֶלָּא עַל דָּבָר שֶׁיֵּשׁ בָּהּ יְדִיעָה, אַף הַחִיצוֹן אֵין מְכַפֵּר אֶלָּא עַל דָּבָר שֶׁיֵּשׁ בָּהּ יְדִיעָה.
+> **Translation:** For cases in which one **did not have awareness at the beginning but had awareness at the end,** the **goat whose** blood presentation is **performed outside** the Sanctuary, i.e., the goat of the additional offerings of Yom Kippur, **and Yom Kippur** itself, **atone, as it is stated** with regard to the offerings brought on Yom Kippur: “One goat for a sin-offering **aside from the sin-offering of the atonements”** (Numbers 29:11). The verse juxtaposes the internal and external goats together to teach that **for that which this** one **atones, that** one **atones. Just as the internal** goat, i.e., the one whose blood presentation is performed inside the Sanctuary, **atones only for a case in which there was awareness** of the components of the transgression at some point, i.e., at the beginning, **so too, the external** goat, i.e., the goat of the additional offerings of Yom Kippur, **atones only for a case in which there was awareness** at some point, i.e., at the end.
 
 The third case: no *yediah* at the beginning, but *yediah* at the end. You were never aware that you were *tamei* — you did not know you had become *tamei* before eating the *korban* — but afterwards someone informed you of what you had done. Now you know you sinned, but you cannot bring the *oleh ve-yored* because the *Torah*'s language *ve-ne'elam mimenu* presupposes that there was prior awareness which was then forgotten. Since there was never initial awareness, you do not qualify for this *korban*. Yet you are aware you have sinned, and something must address it.
 
@@ -108,33 +111,40 @@ The *Gemara* grounds this in a *gezeirah shavah*: the *musaf* goat's Torah passa
 
 ### No Awareness
 
-> **Hebrew/Aramaic:** וְעַל שֶׁאֵין בָּהּ יְדִיעָה לֹא בַּתְּחִלָּה וְלֹא בַּסּוֹף – שְׂעִירֵי הָרְגָלִים וּשְׂעִירֵי רָאשֵׁי חֳדָשִׁים מְכַפְּרִין, דִּבְרֵי רַבִּי יְהוּדָה.
->
-> **Translation:** **And for** cases in **which** one **did not have awareness, neither at the beginning nor at the end,** the **goats** brought as sin-offerings for the additional offerings **of the Festivals and** the **goats** brought as sin-offerings for the additional offerings **of** the **New Moons atone.** This is **the statement of Rabbi Yehuda.**
 
 The final case: neither *yediah* at the beginning nor at the end. The person was not aware that he was *tamei*, did not realize he was entering the *Mikdash* or eating *kodashim*, and never subsequently became aware. He is completely oblivious. What addresses this?
 
 The *mishnah* answers: *se'irei ha-regalim u-se'irei rashei ha-chodashim mechaperim* — the goats of the *regalim* and the goats of *rosh chodesh* atone for this case. Every *musaf* of every *yom tov* and every *rosh chodesh* includes a *se'ir la-chatat se'ir le-chapper*, and the *Gemara* now gives this its precise *halakhic* content. These goats atone for *tumat mikdash ve-kodashav* in the case where the person had no awareness at all, at any point.
 
-This is in fact the answer to a question one might have carried since childhood: every time one recites the *musaf* *amidah* and mentions *se'ir le-chapper*, the natural question is — what exactly is it atoning for? The *Gemara*'s answer is technically narrow: these goats address the case of the person who violated the sanctity of the *Mikdash* without any awareness whatsoever. Whether one reads this in the broader *peshat* sense — that any sin generates *tumah* that enters the *Mikdash* and needs periodic cleansing — or in the *Gemara*'s precise *halakhic* register, the conclusion is the same: the *musaf* offerings of the year's calendar collectively address violations of *tumat mikdash* at every degree of awareness, from full awareness through complete obliviousness.
+This is in fact the answer to a question one might have carried since childhood: every time one recites the *musaf* *amidah* and mentions *se'ir le-chapper*, the natural question is — what exactly is it atoning for? The *Gemara*'s answer is technically narrow: these goats address the case of the person who violated the sanctity of the *Mikdash* without any awareness whatsoever. This reading is grounded in the same logic already established for the Yom Kippur goats: because the inner goat of Yom Kippur is explicitly linked in the *Torah* to *tumat mikdash*, the goats of the *regalim* and *rosh chodesh* — which likewise bear the designation *le-chapper* — are understood to operate in that same domain, addressing the one remaining variant of the case, where no *yediah* existed at any stage. What distinguishes the *regalim* and *rosh chodesh* goats is precisely the absence of *yediah* entirely; that is the gap in the schema that they fill. Whether one reads this in the broader *peshat* sense — that any sin generates *tumah* that enters the *Mikdash* and needs periodic cleansing — or in the *Gemara*'s precise *halakhic* register, the conclusion is the same: the *musaf* offerings of the year's calendar collectively address violations of *tumat mikdash* at every degree of awareness, from full awareness through complete obliviousness.
 
 ## Rabbinic Disputes
 
+
+
 ### Rabbi Yehuda
 
-> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן אוֹמֵר: שְׂעִירֵי הָרְגָלִים מְכַפְּרִין, אֲבָל לֹא שְׂעִירֵי רָאשֵׁי חֳדָשִׁים. וְעַל מַה שְּׂעִירֵי רָאשֵׁי חֳדָשִׁים מְכַפְּרִין? עַל הַטָּהוֹר שֶׁאָכַל אֶת הַטָּמֵא.
->
-> **Translation:** **Rabbi Shimon says:** The **goats of the Festivals atone** for cases in which one never had awareness of the transgression, **but** the **goats of** the **New Moons** do **not. But** if so, **for what do** the **goats of** the **New Moons atone? They atone** **for a ritually pure** person **who** unwittingly **partook of ritually impure** sacrificial food.
+> **Hebrew/Aramaic:** וְעַל שֶׁאֵין בָּהּ יְדִיעָה לֹא בַּתְּחִלָּה וְלֹא בַּסּוֹף – שְׂעִירֵי הָרְגָלִים וּשְׂעִירֵי רָאשֵׁי חֳדָשִׁים מְכַפְּרִין, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי שִׁמְעוֹן אוֹמֵר: שְׂעִירֵי הָרְגָלִים מְכַפְּרִין, אֲבָל לֹא שְׂעִירֵי רָאשֵׁי חֳדָשִׁים. וְעַל מַה שְּׂעִירֵי רָאשֵׁי חֳדָשִׁים מְכַפְּרִין?
+> **Translation:** **And for** cases in **which** one **did not have awareness, neither at the beginning nor at the end,** the **goats** brought as sin-offerings for the additional offerings **of the Festivals and** the **goats** brought as sin-offerings for the additional offerings **of** the **New Moons atone.** This is **the statement of Rabbi Yehuda. Rabbi Shimon says:** The **goats of the Festivals atone** for cases in which one never had awareness of the transgression, **but** the **goats of** the **New Moons** do **not. But** if so, **for what do** the **goats of** the **New Moons atone?**
 
 The preceding schema — *se'ir bifnim* for *yediah* at start only, *se'ir musaf* of Yom Kippur for *yediah* at end only, goats of *regalim* and *rosh chodesh* for no *yediah* at all — represents the view attributed in the *mishnah* to Rabbi Yehuda. He maintains a strict one-to-one correspondence: each category of goat addresses one specific type of *tumat mikdash* case, distinguished by the pattern of awareness.
 
+It is worth pausing to note that the *Gemara* is reading Yom Kippur's atonement in the same hyper-literal and narrow register. The same interpretive move that limits the *musaf* goats to the case of complete obliviousness also limits the Yom Kippur *se'ir* strictly to its assigned awareness-category, reading the Torah's language with a precision that maps each offering onto one precise *halakhic* slot and no more. This is of course a reading that sits in some tension with how one actually experiences *tefillah* on Yom Kippur or on *rosh chodesh* — when one davens the full *musaf amidah* and contemplates *se'ir le-chapper*, one is almost certainly thinking about considerably more than the narrow case of *tumat mikdash ve-kodashav* with no *yediah* whatsoever, and the *Gemara*'s own narrow technical read need not and does not foreclose the broader theological understanding. The narrow *halakhic* account and the broader *peshat* reading coexist; the *Gemara* is simply doing what it does, which is locating the precise legal content of each offering. This tension having been noted, the *mishnah* proceeds to record a dispute, introduced with the formula *divrei Rabbi Yehuda* — these are the words of Rabbi Yehuda — signaling that what has just been laid out is specifically his position, and that others disagree.
+
+[DAF:2b]
 ### Rabbi Shimon Tahor
+
+
+
+> **Hebrew/Aramaic:** עַל הַטָּהוֹר שֶׁאָכַל אֶת הַטָּמֵא.
+> **Translation:** They atone **for a ritually pure** person **who** unwittingly **partook of ritually impure** sacrificial food.
+
+> **Hebrew/Aramaic:** רַבִּי מֵאִיר אוֹמֵר: כָּל הַשְׂעִירִין כַּפָּרָתָן שָׁוָה, עַל טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו.
+> **Translation:** **Rabbi Meir says:** With regard to **all the goats** offered as additional offerings, those of the New Moons, Festivals, and Yom Kippur, **their atonement,** i.e., the atonement that they effect, **is the same;** they all atone **for** the **defiling of** the **Temple** by entering it while impure, **or** for the defiling of **its sacrificial** foods by partaking of them while impure.
 
 ### Rabbi Meir
 
-> **Hebrew/Aramaic:** רַבִּי מֵאִיר אוֹמֵר: כָּל הַשְׂעִירִין כַּפָּרָתָן שָׁוָה, עַל טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו.
->
-> **Translation:** **Rabbi Meir says:** With regard to **all the goats** offered as additional offerings, those of the New Moons, Festivals, and Yom Kippur, **their atonement,** i.e., the atonement that they effect, **is the same;** they all atone **for** the **defiling of** the **Temple** by entering it while impure, **or** for the defiling of **its sacrificial** foods by partaking of them while impure.
+
 
 Rabbi Shimon and Rabbi Meir each dispute this schema, though in different directions. Rabbi Shimon holds that the goats of the *regalim* do atone for the case of no awareness at all, but the goats of *rosh chodesh* do not atone for that case. Rather, the *se'irei rashei chodashim* atone for a different category altogether: *tahor she-achal et ha-tamei* — a person who was himself *tahor* (ritually pure), but ate a *korban* that had become *tamei*. This is a lesser form of the violation: the person did not himself bring *tumah* into the equation; the *korban* had already been compromised by someone else's *tumah*. Nevertheless, eating *tamei* *kodashim* is itself forbidden, and the *rosh chodesh* goat addresses this category.
 
@@ -142,9 +152,17 @@ Rabbi Meir takes the opposite approach: he says *kol ha-se'irim kaparatan shavah
 
 ### Interchangeable Offerings
 
-> **Hebrew/Aramaic:** אָמְרוּ לוֹ: מַהוּ שֶׁיִּקְרְבוּ זֶה בָּזֶה? אָמַר לָהֶן: יִקְרְבוּ. אָמְרוּ לוֹ: הוֹאִיל וְאֵין כַּפָּרָתָן שָׁוָה, הֵיאַךְ קְרֵבִין זֶה בְּזֶה? אָמַר לָהֶם: כּוּלָּן בָּאִין לְכַפֵּר עַל טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו.
->
+> **Hebrew/Aramaic:** הָיָה רַבִּי שִׁמְעוֹן אוֹמֵר: שְׂעִירֵי רָאשֵׁי חֳדָשִׁים מְכַפְּרִים עַל הַטָּהוֹר שֶׁאָכַל אֶת הַטָּמֵא, וְשֶׁל רְגָלִים מְכַפְּרִין עַל שֶׁאֵין בָּהּ יְדִיעָה לֹא בַּתְּחִלָּה וְלֹא בַּסּוֹף, וְשֶׁל יוֹם הַכִּפּוּרִים מְכַפֵּר עַל שֶׁאֵין בָּהּ יְדִיעָה בַּתְּחִלָּה אֲבָל יֵשׁ בָּהּ יְדִיעָה בַּסּוֹף.
+> **Translation:** **Rabbi Shimon would say,** delineating his opinion as the mishna expresses it above: The **goats of** the **New Moons atone for a ritually pure** person **who** unwittingly **partook of ritually impure** sacrificial food. **And** with regard to the defiling of the Temple or its sacrificial foods, the goats **of** the **Festivals atone for** cases **in which** one **did not have awareness, neither at the beginning nor at the end, and** the goats of the additional offerings **of Yom Kippur atone for** cases **in which** one **did not have awareness at the beginning but did have awareness at the end.**
+
+> **Hebrew/Aramaic:** אָמְרוּ לוֹ: מַהוּ שֶׁיִּקְרְבוּ זֶה בָּזֶה? אָמַר לָהֶן: יִקְרְבוּ. אָמְרוּ לוֹ: הוֹאִיל וְאֵין כַּפָּרָתָן שָׁוָה, הֵיאַךְ קְרֵבִין זֶה בְּזֶה? אָמַר לָהֶם: כּוּלָּן בָּאִין לְכַפֵּר עַל טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו.
 > **Translation:** The Rabbis **said to him: What is** the *halakha* with regard to **whether** goats consecrated for different days **may be sacrificed, this** one **in** place of **that** one? For example, if a goat was initially consecrated to be sacrificed as part of the Yom Kippur additional offerings, may it be sacrificed as part of the Festival additional offerings instead? Rabbi Shimon **said to them: They may be sacrificed. They said to him: Since,** according to you, **their atonement is not the same, how could they** possibly **be sacrificed, this** one **in** place of **that** one? Rabbi Shimon **said to them:** They can be interchanged, since ultimately **all of them come to atone for** the **defiling of** the **Temple or its sacrificial** foods.
+
+> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן יְהוּדָה אוֹמֵר מִשְּׁמוֹ: שְׂעִירֵי רָאשֵׁי חֳדָשִׁים – מְכַפְּרִין עַל הַטָּהוֹר שֶׁאָכַל אֶת הַטָּמֵא. מוֹסִיף עֲלֵיהֶן שֶׁל רְגָלִים – שֶׁמְּכַפְּרִין עַל טָהוֹר שֶׁאָכַל אֶת הַטָּמֵא, וְעַל שֶׁאֵין בָּהּ יְדִיעָה לֹא בַּתְּחִלָּה וְלֹא בַּסּוֹף.
+> **Translation:** **Rabbi Shimon ben Yehuda says in the name of** Rabbi Shimon a tradition of his opinion that differs from the way the mishna expresses it above: The **goats of** the **New Moons atone for a ritually pure** person **who** unwittingly **partook of ritually impure** sacrificial food. The goats **of** the **Festivals exceed them, as they atone** both **for a pure** person **who partook of impure** sacrificial food **and** also **for** cases of defiling the Temple or its sacrificial foods **in which** one **did not have awareness, neither at the beginning nor at the end.**
+
+> **Hebrew/Aramaic:** מוֹסִיף עֲלֵיהֶן שֶׁל יוֹם הַכִּפּוּרִים – שֶׁהֵן מְכַפְּרִין עַל הַטָּהוֹר שֶׁאָכַל אֶת הַטָּמֵא, וְעַל שֶׁאֵין בָּהּ יְדִיעָה לֹא בַּתְּחִלָּה וְלֹא בַּסּוֹף, וְעַל שֶׁאֵין בָּהּ יְדִיעָה בַּתְּחִלָּה אֲבָל יֵשׁ בָּהּ יְדִיעָה בַּסּוֹף.
+> **Translation:** The goats **of Yom Kippur** further **exceed them, as they atone** both **for a ritually pure** person **who partook of ritually impure** sacrificial food **and for** cases of defiling the Temple or its sacrificial foods **in which** one **did not have awareness, neither at the beginning nor at the end; and** they also atone **for** cases **in which** one **did not have awareness at the beginning but did have awareness at the end.**
 
 Given that these categories differ in what they atone for, the *mishnah* raises a practical question: what if the Yom Kippur goat became lost and was subsequently found on *rosh chodesh* of *Marcheshvan* — could it be used as the *musaf* goat for *rosh chodesh*?
 
@@ -152,9 +170,8 @@ One would expect the answer to be no: if each goat serves a distinct atonement f
 
 ### R. Shimon b. Yehuda
 
-> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן יְהוּדָה אוֹמֵר מִשְּׁמוֹ: שְׂעִירֵי רָאשֵׁי חֳדָשִׁים – מְכַפְּרִין עַל הַטָּהוֹר שֶׁאָכַל אֶת הַטָּמֵא. מוֹסִיף עֲלֵיהֶן שֶׁל רְגָלִים – שֶׁמְּכַפְּרִין עַל טָהוֹר שֶׁאָכַל אֶת הַטָּמֵא, וְעַל שֶׁאֵין בָּהּ יְדִיעָה לֹא בַּתְּחִלָּה וְלֹא בַּסּוֹף. מוֹסִיף עֲלֵיהֶן שֶׁל יוֹם הַכִּפּוּרִים – שֶׁהֵן מְכַפְּרִין עַל הַטָּהוֹר שֶׁאָכַל אֶת הַטָּמֵא, וְעַל שֶׁאֵין בָּהּ יְדִיעָה לֹא בַּתְּחִלָּה וְלֹא בַּסּוֹף, וְעַל שֶׁאֵין בָּהּ יְדִיעָה בַּתְּחִלָּה אֲבָל יֵשׁ בָּהּ יְדִיעָה בַּסּוֹף.
->
-> **Translation:** **Rabbi Shimon ben Yehuda says in the name of** Rabbi Shimon a tradition of his opinion that differs from the way the mishna expresses it above: The **goats of** the **New Moons atone for a ritually pure** person **who** unwittingly **partook of ritually impure** sacrificial food. The goats **of** the **Festivals exceed them, as they atone** both **for a pure** person **who partook of impure** sacrificial food **and** also **for** cases of defiling the Temple or its sacrificial foods **in which** one **did not have awareness, neither at the beginning nor at the end.** The goats **of Yom Kippur** further **exceed them, as they atone** both **for a ritually pure** person **who partook of ritually impure** sacrificial food **and for** cases of defiling the Temple or its sacrificial foods **in which** one **did not have awareness, neither at the beginning nor at the end; and** they also atone **for** cases **in which** one **did not have awareness at the beginning but did have awareness at the end.**
+> **Hebrew/Aramaic:** אָמְרוּ לוֹ: מַהוּ שֶׁיִּקְרְבוּ זֶה בָּזֶה? אָמַר לָהֶם: הֵן. אָמְרוּ לוֹ: אִם כֵּן, יִהְיוּ שֶׁל יוֹם הַכִּפּוּרִים קְרֵבִין בְּרָאשֵׁי חֳדָשִׁים; אֲבָל הֵיאַךְ שֶׁל רָאשֵׁי חֳדָשִׁים קְרֵבִין בְּיוֹם הַכִּפּוּרִים – לְכַפֵּר כַּפָּרָה שֶׁאֵינָהּ שֶׁלָּהּ? אָמַר לָהֶם: כּוּלָּן בָּאִין לְכַפֵּר עַל טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו.
+> **Translation:** The Rabbis **said to him: What is** the *halakha* with regard to **whether** goats consecrated for different days **may be sacrificed, this** one **in** place of **that** one? Rabbi Shimon **said to them: Yes,** they can be interchanged. **They said to him: If** what you say is **so,** granted that the goats **of Yom Kippur may be sacrificed on** the **New Moons, but how could** the goats **of** the **New Moons be sacrificed on Yom Kippur** when they will need **to effect atonement** for **that which they were not** consecrated **for?** Rabbi Shimon **said to them:** They can all be interchanged, since ultimately **all of them come to atone for** the **defiling of** the **Temple or its sacrificial** foods, even if each one atones for a different case.
 
 Rabbi Shimon ben Yehuda transmits a different version of Rabbi Shimon's position, one that generates a more elegant internal structure. According to this version, the categories are not parallel but cumulative. The *se'irei rashei chodashim* atone for *tahor she-achal et ha-tamei* — one category. The *regalim* goats atone for *tahor she-achal et ha-tamei* plus the case of no *yediah* at all — two categories. The *musaf* of Yom Kippur atones for all three: *tahor she-achal et ha-tamei*, the case of no awareness, and the case of *yediah* only at the end. Each level of the calendar's sacred time adds an additional layer of atonement capacity.
 
@@ -162,10 +179,12 @@ This version also generates an interesting question about interchangeability: if
 
 ## Scapegoat & Other Sins
 
+
+
 ### Se'ir Mishtale'ach
 
-> **Hebrew/Aramaic:** וְעַל שְׁאָר עֲבֵירוֹת שֶׁבַּתּוֹרָה; הַקַּלּוֹת וְהַחֲמוּרוֹת, הַזְּדוֹנוֹת וְהַשְּׁגָגוֹת, הוֹדַע וְלֹא הוֹדַע, עֲשֵׂה וְלֹא תַעֲשֶׂה, כָּרֵיתוֹת וּמִיתוֹת בֵּית דִּין – שָׂעִיר הַמִּשְׁתַּלֵּחַ מְכַפֵּר.
->
+
+> **Hebrew/Aramaic:** עַל שְׁאָר עֲבֵירוֹת שֶׁבַּתּוֹרָה; הַקַּלּוֹת וְהַחֲמוּרוֹת, הַזְּדוֹנוֹת וְהַשְּׁגָגוֹת, הוֹדַע וְלֹא הוֹדַע, עֲשֵׂה וְלֹא תַעֲשֶׂה, כָּרֵיתוֹת וּמִיתוֹת בֵּית דִּין – שָׂעִיר הַמִּשְׁתַּלֵּחַ מְכַפֵּר.
 > **Translation:** The mishna delineates how atonement is effected for other transgressions: **For** all **other transgressions that are** stated **in the Torah,** whether they are **the minor** ones **or the major** ones, whether they were **intentional or unwitting,** whether **one became aware** of them before Yom Kippur **or did not become aware** of them until after Yom Kippur, whether they involve **a positive mitzva or a prohibition,** whether the transgressors are subject to **excision from the World-to-Come [*karet*] or** to one of the **court**-imposed **death penalties,** the **scapegoat** sent to Azazel on Yom Kippur **atones.**
 
 Having discussed the full array of goats and their functions in addressing *tumat mikdash ve-kodashav*, the *mishnah* turns to an entirely different dimension of Yom Kippur atonement. *Al she'ar aveirot she-ba-Torah* — for all other violations of the *Torah* — the full range of sins across all 612 other commandments, whether light or weighty, intentional or unintentional, whether the sinner was aware or unaware, whether it involved a positive commandment or a negative prohibition, and even if the transgression carried the penalty of *karet* or *mitot beit din* — for all of these, *se'ir ha-mishtale'ach mechaper* — the scapegoat atones.
@@ -174,16 +193,17 @@ This is the goat sent to *Azazel*, driven off the cliff into the barren land. It
 
 ### Kohanim vs. Yisrael
 
-> **Hebrew/Aramaic:** אֶחָד יִשְׂרְאֵלִים וְאֶחָד כֹּהֲנִים וְאֶחָד כֹּהֵן מָשׁוּחַ. מָה בֵּין יִשְׂרְאֵלִים לְכֹהֲנִים וּלְכֹהֵן מָשׁוּחַ? אֶלָּא שֶׁהַפָּר מְכַפֵּר עַל הַכֹּהֲנִים – עַל טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו.
->
+> **Hebrew/Aramaic:** וְעַל זְדוֹן טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו – שָׂעִיר הַנַּעֲשֶׂה בִּפְנִים וְיוֹם הַכִּפּוּרִים מְכַפְּרִין.
+> **Translation:** § **And for** the **intentional defiling of** the **Temple or its sacrificial** foods, both the **goat whose** blood presentation is **performed inside** the Sanctuary on Yom Kippur, **and Yom Kippur** itself, **atone.**
+
+> **Hebrew/Aramaic:** אֶחָד יִשְׂרְאֵלִים וְאֶחָד כֹּהֲנִים וְאֶחָד כֹּהֵן מָשׁוּחַ. מָה בֵּין יִשְׂרְאֵלִים לְכֹהֲנִים וּלְכֹהֵן מָשׁוּחַ? אֶלָּא שֶׁהַפָּר מְכַפֵּר עַל הַכֹּהֲנִים – עַל טוּמְאַת מִקְדָּשׁ וְקָדָשָׁיו.
 > **Translation:** **Israelites and priests and** the **anointed priest,** i.e., the High Priest, achieve atonement from the scapegoat equally. **What** is the difference **between Israelites, priests, and** the **anointed priest?** The difference is **only that the priests achieve atonement for** their **defiling of** the **Temple or its sacrificial** foods through **the bull** that the High Priest offers on Yom Kippur, whereas the Israelites achieve atonement for defiling caused by them through the goats that are sacrificed on Yom Kippur.
 
 The *mishnah* then states that the *se'ir ha-mishtale'ach* atones equally for *Yisrael*, for *kohanim*, and for the *kohen mashiach* — the *kohen gadol* himself. So where does the distinction between *kohanim* and *Yisrael* manifest? The *mishnah* answers: *she-ha-par mechaper al ha-kohanim al tumat mikdash ve-kodashav* — the *par*, the special bull sacrificed by the *kohen gadol*, atones for the *kohanim* specifically with respect to *tumat mikdash ve-kodashav*. In other words, the elaborate inner service of Yom Kippur involves two parallel tracks: a goat whose blood is brought into the *Kodesh Kodashim* for the atonement of *Yisrael*, and a bull whose blood is brought in for the atonement of the *kohanim*, in both cases specifically for *tumat mikdash ve-kodashav*. For all other sins, the *se'ir ha-mishtale'ach* covers everyone equally.
 
 ### R. Shimon on Kohanim
 
-> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן אוֹמֵר: כְּשֵׁם שֶׁדַּם הַשָּׂעִיר הַנַּעֲשֶׂה בִּפְנִים מְכַפֵּר עַל יִשְׂרָאֵל, כָּךְ דַּם הַפָּר מְכַפֵּר עַל הַכֹּהֲנִים; כְּשֵׁם שֶׁוִּידּוּיוֹ שֶׁל שָׂעִיר הַמִּשְׁתַּלֵּחַ מְכַפֵּר עַל יִשְׂרָאֵל, כָּךְ וִידּוּיוֹ שֶׁל פָּר מְכַפֵּר עַל הַכֹּהֲנִים.
->
+> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן אוֹמֵר: כְּשֵׁם שֶׁדַּם הַשָּׂעִיר הַנַּעֲשֶׂה בִּפְנִים מְכַפֵּר עַל יִשְׂרָאֵל, כָּךְ דַּם הַפָּר מְכַפֵּר עַל הַכֹּהֲנִים; כְּשֵׁם שֶׁוִּידּוּיוֹ שֶׁל שָׂעִיר הַמִּשְׁתַּלֵּחַ מְכַפֵּר עַל יִשְׂרָאֵל, כָּךְ וִידּוּיוֹ שֶׁל פָּר מְכַפֵּר עַל הַכֹּהֲנִים.
 > **Translation:** **Rabbi Shimon says:** With regard to the defiling of the Temple or its sacrificial foods, **just as** the **blood of the goat, whose** blood presentation is **performed inside** the Sanctuary, **atones for Israelites, so** too, the **blood of the bull** of the High Priest, whose blood presentation is also performed inside the Sanctuary, **atones for the priests.** And for all other transgressions, **just as** the **confession** made **over the scapegoat atones for Israelites, so** too, the **confession** made **over** the **bull atones for the priests.**
 
 Rabbi Shimon, however, sees the distinction as running deeper. He observes that the inner service involves two instruments — blood and verbal *viduy*. *Keshem she-dam ha-se'ir ha-na'aseh bifnim mechaper Yisrael, kach dam ha-par mechaper al ha-kohanim* — just as the blood of the goat atones for *Yisrael* with respect to *tumat mikdash*, the blood of the bull atones for the *kohanim* with respect to *tumat mikdash*. So far, this parallels the anonymous position of the *mishnah*.

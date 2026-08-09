@@ -1,0 +1,487 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Safekot Overview",
+    "candidates": [
+      "Safekot Overview",
+      "Skhochos & Praot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically names 'skhochos' and 'praot' as the uncertain categories, which directly matches the 'Skhochos & Praot' section's prose about these two enumerated doubtful categories, rather than the general overview section.",
+      "chosen_heading": "Skhochos & Praot",
+      "current_heading": "Safekot Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Skhochos & Praot",
+    "candidates": [
+      "Safekot Overview",
+      "Skhochos & Praot",
+      "Beit HaPras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly define skhochos and praot \u2014 exactly the two categories discussed in the 'Skhochos & Praot' prose, which even quotes the Aramaic phrase avanim pru'ot hayotzot min hageder matching item 2.",
+      "chosen_heading": "Skhochos & Praot",
+      "current_heading": "Skhochos & Praot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Beit HaPras",
+    "candidates": [
+      "Beit HaPras",
+      "HaPras Ohel",
+      "Blown Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines beit haperas and its dimensions (100 cubits), which directly matches the prose in candidate 0 that discusses exactly this mishna and measurement.",
+      "chosen_heading": "Beit HaPras",
+      "current_heading": "Beit HaPras",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Blown Path",
+    "candidates": [
+      "HaPras Ohel",
+      "Blown Path",
+      "Trampled Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of whether beit haperas imparts tumah b'ohel at all \u2014 which matches the 'HaPras Ohel' section's prose about why beit haperas requires a marker given that only tumah b'ohel triggers marking requirements \u2014 not the 'Blown Path' section which discusses the practical solution of blowing.",
+      "chosen_heading": "HaPras Ohel",
+      "current_heading": "Blown Path",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Trampled Path",
+    "candidates": [
+      "Blown Path",
+      "Trampled Path",
+      "Mishna Types",
+      "Field of Crying"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Trampled Path",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (Rav Yehuda bar Ami's ruling and Rav Papa's resolution distinguishing the two types of beit haperas) match the 'Trampled Path' prose exactly, which discusses both the trampled beit haperas ruling and Rav Papa's distinction between the plowed-grave and lost-grave types.",
+      "second_heading": "Mishna Types",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the Gemara asking whether a plowed-grave field is called beit haperas and citing the Mishna listing the three types) matches the 'Mishna Types' prose, which introduces that same Mishnah listing the three categories of beit haperas.",
+      "current_heading": "Trampled Path",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Field of Crying",
+    "candidates": [
+      "Mishna Types",
+      "Field of Crying",
+      "Yei'ush Ba'alim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly defines 'sdei vochin' as a field where the dead are taken leave of, which is precisely what the 'Field of Crying' section's prose discusses.",
+      "chosen_heading": "Field of Crying",
+      "current_heading": "Field of Crying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Yei'ush Ba'alim",
+    "candidates": [
+      "Yei'ush Ba'alim",
+      "Ambiguous Marking",
+      "Trees & Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Avimi's explanation of yei'ush ba'alim as the reason for the weepers' field's impurity status, which is exactly what the prose under heading 0 addresses.",
+      "chosen_heading": "Yei'ush Ba'alim",
+      "current_heading": "Yei'ush Ba'alim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Trees & Type",
+    "candidates": [
+      "Ambiguous Marking",
+      "Trees & Type",
+      "Transformation",
+      "Interior/Exterior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single chain \u2014 the braita challenge (item 1), Rabbi Yehuda's qualification (item 2), and Rav Papa's resolution (item 3) \u2014 addressing the practical problem of encountering a marked field of unknown type, which is precisely what heading 0 ('Ambiguous Marking') describes, while the current heading 1 ('Trees & Type') covers the explanation of why trees serve as indicators, which logically follows after this foundational question is raised and resolved.",
+      "chosen_heading": "Ambiguous Marking",
+      "current_heading": "Trees & Type",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Interior/Exterior",
+    "candidates": [
+      "Transformation",
+      "Interior/Exterior",
+      "Interspersed Trees"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Interior/Exterior",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the interior/exterior question about trees and graves with Ulla's b'omdin al hagvulin answer, matching exactly the 'Interior/Exterior' prose.",
+      "second_heading": "Interspersed Trees",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the converse problem of tumah being inside while trees are outside, which matches precisely the opening of the 'Interspersed Trees' prose section.",
+      "current_heading": "Interior/Exterior",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Interspersed Trees",
+    "candidates": [
+      "Interspersed Trees",
+      "One Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses b'mesubachin (interspersed trees) and the principle of not distancing markers from tumah so as not to cause loss of Eretz Yisrael, which is precisely what the 'Interspersed Trees' prose section describes.",
+      "chosen_heading": "Interspersed Trees",
+      "current_heading": "Interspersed Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "One Stone",
+    "candidates": [
+      "One Stone",
+      "Two Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's inference from Rabbi Yehuda's baraita about field-plowing signs, which is directly connected to the 'Two Stones' section's discussion of the braita difficulty (specifically the ruling about plowing/choresh) that the gemara takes up next \u2014 this is the resolution/continuation of that braita, not related to the single-stone marker discussion.",
+      "chosen_heading": "Two Stones",
+      "current_heading": "One Stone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Two Stones",
+    "candidates": [
+      "One Stone",
+      "Two Stones",
+      "Plaster Spillage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core content of the 'Two Stones' section: item 1 is Rav Yehuda's ruling about two marked stones and plaster, and item 2 is the Gemara's challenge from the baraita about plowing \u2014 exactly what the 'Two Stones' prose describes, including the explicit note that the gemara raises the baraita contradiction which the next section ('Plaster Spillage') will resolve.",
+      "chosen_heading": "Two Stones",
+      "current_heading": "Two Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Plaster Spillage",
+    "candidates": [
+      "Plaster Spillage",
+      "Field Boundaries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Pappa's resolution about lime spilled on top of stones spreading to adjacent ground, with the plowing/no-plowing distinction \u2014 exactly what the 'Plaster Spillage' prose describes.",
+      "chosen_heading": "Plaster Spillage",
+      "current_heading": "Plaster Spillage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Field Boundaries",
+    "candidates": [
+      "Field Boundaries",
+      "Public Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rabbi Asi's ruling about marked field boundaries and the supporting baraita principle about not distancing markers from tumah \u2014 exactly what the 'Field Boundaries' prose discusses.",
+      "chosen_heading": "Field Boundaries",
+      "current_heading": "Field Boundaries",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Public Works",
+    "candidates": [
+      "Public Works",
+      "Kilayim Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text introducing kilayim inspection as one of the public welfare activities, which matches the 'Public Works' prose that describes it as the next item in the mishna list alongside road repair, mikveh inspection, and grave-marking.",
+      "chosen_heading": "Public Works",
+      "current_heading": "Public Works",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Kilayim Timing",
+    "candidates": [
+      "Kilayim Timing",
+      "Cheap Labor",
+      "Communal Funds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items address the timing contradiction between the 15th of Adar and chol hamoed kilayim inspections, and the resolutions offered (early/late crops, grains/vegetables, visible blossoming) \u2014 exactly what the 'Kilayim Timing' prose discusses.",
+      "chosen_heading": "Kilayim Timing",
+      "current_heading": "Kilayim Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Communal Funds",
+    "candidates": [
+      "Cheap Labor",
+      "Communal Funds",
+      "Kilayim Penalties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the chol hamoed cheap-labor discussion: item 1 raises the question and gives Rabbi Yochanan's answer about reduced wages, while item 2 (Rav Zevid's inference) is a direct elaboration of that same answer \u2014 and the 'Cheap Labor' prose explicitly covers both the reduced-wages reasoning and the implication about communal funding, whereas the 'Communal Funds' heading, despite discussing the treasury inference, is the wrong home because both items are one continuous unit flowing from the chol hamoed question.",
+      "chosen_heading": "Cheap Labor",
+      "current_heading": "Communal Funds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Kilayim Penalties",
+    "candidates": [
+      "Communal Funds",
+      "Kilayim Penalties",
+      "R. Elazar Loss",
+      "Unwatered Seeds",
+      "Chachamim Lenient",
+      "Dried Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the kilayim inspection threshold (rova per se'ah) and the historical escalation of enforcement penalties \u2014 exactly what the 'Kilayim Penalties' prose describes, including the rova ratio, the three-stage ordinance progression, and the resolution of the apparent contradiction between uprooting and confiscation.",
+      "chosen_heading": "Kilayim Penalties",
+      "current_heading": "Kilayim Penalties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Dried Field",
+    "candidates": [
+      "R. Elazar Loss",
+      "Unwatered Seeds",
+      "Chachamim Lenient",
+      "Dried Field",
+      "Garden Watering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Elazar Loss",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah that heading 0 explicitly introduces and quotes, covering the tree-to-tree and unwatered-seeds rulings that headings 0-2 discuss.",
+      "second_heading": "Dried Field",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara on Rav Yehuda's moist/dried-field ruling and the confirming baraita, which is precisely what heading 3's prose describes.",
+      "current_heading": "Dried Field",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Garden Watering",
+    "candidates": [
+      "Garden Watering",
+      "Shvi'it Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's inference about watering a garden on chol hamoed, which is precisely what the 'Garden Watering' section's prose discusses in detail.",
+      "chosen_heading": "Garden Watering",
+      "current_heading": "Garden Watering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Shvi'it Water",
+    "candidates": [
+      "Shvi'it Water",
+      "Erev Shvi'it",
+      "Trapping"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shvi'it Water",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the two contrasting baraitot about marbitzin on shvi'it vs. moed, and Rav Huna's resolution) are explicitly discussed in the 'Shvi'it Water' prose, which describes both baraitot and Rav Huna's answer.",
+      "second_heading": "Erev Shvi'it",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the baraita about watering erev shvi'it for vegetables to grow during shvi'it, and during shvi'it for post-shvi'it growth) matches exactly the 'Erev Shvi'it' prose, which paraphrases this precise baraita verbatim.",
+      "current_heading": "Shvi'it Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Trapping",
+    "candidates": [
+      "Erev Shvi'it",
+      "Trapping",
+      "Ishut Mole"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Ishut Mole",
+    "candidates": [
+      "Ishut Mole",
+      "Anthills"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the identity of the ishut creature (mole without eyes) and the scriptural basis from Psalms, which exactly matches the 'Ishut Mole' section's prose.",
+      "chosen_heading": "Ishut Mole",
+      "current_heading": "Ishut Mole",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Wounds Permitting Shabbat",
+    "candidates": [
+      "Medical Risk & Pikuach",
+      "Wounds Permitting Shabbat",
+      "Internal vs External",
+      "Assessment as Life Danger",
+      "Fever & Pikuach Nefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in candidate 1's prose: Rabba bar bar \u1e24ana's statement in Rabbi Yo\u1e25anan's name about wounds for which Shabbat is desecrated, the alternative formulation about internal wounds, and the mai beinaihu question \u2014 all of which candidate 1 explicitly discusses, including the back-of-hand/foot resolution that bridges into candidate 2.",
+      "chosen_heading": "Wounds Permitting Shabbat",
+      "current_heading": "Wounds Permitting Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Fever & Pikuach Nefesh",
+    "candidates": [
+      "Internal vs External",
+      "Assessment as Life Danger",
+      "Fever & Pikuach Nefesh",
+      "Internal Wound Definition",
+      "Teeth & Gums Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Zutra's statement about assessment/evaluation as grounds for Shabbat violation AND Rav Shemen bar Abba's fever example, and candidate 1 ('Assessment as Life Danger') explicitly discusses both statements together as a unit, while candidate 2 ('Fever & Pikuach Nefesh') treats the fever as a separate illustration \u2014 the passage as a whole (including both statements) best fits under heading 1.",
+      "chosen_heading": "Assessment as Life Danger",
+      "current_heading": "Fever & Pikuach Nefesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Teeth & Gums Debate",
+    "candidates": [
+      "Internal Wound Definition",
+      "Teeth & Gums Debate",
+      "Toothache & Vinegar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Ami's answer about 'from the lips inward' AND Rabbi Eliezer's dilemma about gums/teeth \u2014 it is a single continuous Gemara unit that begins with the definition question, and heading 0's prose explicitly covers both Rabbi Ammi's ruling and the setup for the teeth/gums question, making it the better home for the full passage rather than splitting it.",
+      "chosen_heading": "Internal Wound Definition",
+      "current_heading": "Teeth & Gums Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Toothache & Vinegar",
+    "candidates": [
+      "Teeth & Gums Debate",
+      "Toothache & Vinegar",
+      "Rabbi Yochanan's Cure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's proof from the vinegar-and-toothache mishna, including the inference about severe pain and the gemara's rejection, which matches exactly the 'Toothache & Vinegar' section's prose.",
+      "chosen_heading": "Toothache & Vinegar",
+      "current_heading": "Toothache & Vinegar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rabbi Yochanan's Cure",
+    "candidates": [
+      "Rabbi Yochanan's Cure",
+      "Oath & Revelation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yochanan's illness, his visit to the matron, the two-day treatment, and the oath \u2014 all of which is exactly what candidate 0's prose describes, stopping before the public revelation which is candidate 1's topic.",
+      "chosen_heading": "Rabbi Yochanan's Cure",
+      "current_heading": "Rabbi Yochanan's Cure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Oath & Revelation",
+    "candidates": [
+      "Oath & Revelation",
+      "Tzaftina: Internal Spread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the oath Rabbi Yochanan took, his technical interpretation of it, and the chillul Hashem concern \u2014 all of which are explicitly addressed in the 'Oath & Revelation' section prose.",
+      "chosen_heading": "Oath & Revelation",
+      "current_heading": "Oath & Revelation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Tzaftina: Internal Spread",
+    "candidates": [
+      "Tzaftina: Internal Spread",
+      "Tzaftina Symptoms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Na\u1e25man bar Yitz\u1e25ak's qualification that tzaftina is different because it begins in the mouth and ends in the intestines, which is precisely what the prose under 'Tzaftina: Internal Spread' discusses.",
+      "chosen_heading": "Tzaftina: Internal Spread",
+      "current_heading": "Tzaftina: Internal Spread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Tzaftina Symptoms",
+    "candidates": [
+      "Tzaftina Symptoms",
+      "Tzaftina Treatments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both symptoms/causes AND treatments (Rabbi Acha and Mar bar Rav Ashi's remedies), and the 'Tzaftina Treatments' section prose explicitly discusses the treatments mentioned in this passage, making it the better home for the complete passage.",
+      "chosen_heading": "Tzaftina Treatments",
+      "current_heading": "Tzaftina Symptoms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Tzaftina Treatments",
+    "candidates": [
+      "Tzaftina Symptoms",
+      "Tzaftina Treatments",
+      "Standard Prohibition",
+      "Adam Chashuv Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's personal testimony about trying various remedies for tzaftina and being cured by an Arab's remedy involving olive seeds, which directly matches the 'Tzaftina Treatments' section's prose that explicitly describes this exact sequence including Abaye's statement.",
+      "chosen_heading": "Tzaftina Treatments",
+      "current_heading": "Tzaftina Treatments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Adam Chashuv Exception",
+    "candidates": [
+      "Standard Prohibition",
+      "Adam Chashuv Exception",
+      "Rabbi Abbahu & Heretic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question ('how could Rabbi Yochanan do so?') and the answer ('adam chashuv shani'), but the prose of candidate 0 explicitly discusses this entire unit \u2014 the question of heichi avid hachi, the Rabba bar bar Chana citation, and the tzaftina connection \u2014 while candidate 1's prose covers only the answer portion; the full passage fits better under candidate 0 which frames the question and anticipates the answer.",
+      "chosen_heading": "Standard Prohibition",
+      "current_heading": "Adam Chashuv Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rabbi Abbahu & Heretic",
+    "candidates": [
+      "Adam Chashuv Exception",
+      "Rabbi Abbahu & Heretic",
+      "Expert Doctor Exception",
+      "Revenge Over Reputation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abbahu being harmed by Yaakov the heretic despite being an important person, which is exactly the counterexample to the adam chashuv answer discussed in candidate 1's prose.",
+      "chosen_heading": "Rabbi Abbahu & Heretic",
+      "current_heading": "Rabbi Abbahu & Heretic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Revenge Over Reputation",
+    "candidates": [
+      "Expert Doctor Exception",
+      "Revenge Over Reputation",
+      "Padasa Classification",
+      "Metal Wound Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses both the expert physician explanation for Rabbi Yochanan's case and the 'let me die with the Philistines' counter-explanation for Rabbi Abbahu's case, which is precisely what the 'Revenge Over Reputation' section's prose discusses.",
+      "chosen_heading": "Revenge Over Reputation",
+      "current_heading": "Revenge Over Reputation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Metal Wound Treatment",
+    "candidates": [
+      "Padasa Classification",
+      "Metal Wound Treatment",
+      "Enbasa Death-Herald",
+      "Enbasa Therapy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Shmuel's declaration that the wound is dangerous (padasa classification) AND the treatment, but the prose of candidate 0 explicitly discusses Shmuel's statement about padasa being dangerous and desecrating Shabbat, while candidate 1's prose describes only the treatment details \u2014 the Talmudic text includes both the classification and the treatment together as one unit, and candidate 0's section is where Shmuel's full statement begins, making it the better home for the complete passage.",
+      "chosen_heading": "Padasa Classification",
+      "current_heading": "Metal Wound Treatment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Enbasa Therapy",
+    "candidates": [
+      "Enbasa Death-Herald",
+      "Enbasa Therapy",
+      "Simta Fever-Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the declaration that invasa boils are death-harbingers AND the remedy (tigna in honey, parsley in wine, grape rubbing), and candidate 1 ('Enbasa Therapy') explicitly discusses both the treatment and the grape-rubbing symmetry, making it the better unified home for the complete passage.",
+      "chosen_heading": "Enbasa Therapy",
+      "current_heading": "Enbasa Therapy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Simta Fever-Sign",
+    "candidates": [
+      "Simta Fever-Sign",
+      "Aloe & Myrrh Wrapping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's statement about simta as a forerunner of fever and its remedy, which matches exactly the prose under 'Simta Fever-Sign' heading.",
+      "chosen_heading": "Simta Fever-Sign",
+      "current_heading": "Simta Fever-Sign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Aloe & Myrrh Wrapping",
+    "candidates": [
+      "Aloe & Myrrh Wrapping",
+      "Alternative Pika Cures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the same remedy for Rabbi Ya'akov's hemorrhoid condition (pika) \u2014 the seven seeds wrapped in cloth, dipped in naphtha and burned, plus the bramble kernel \u2014 which is precisely what the 'Aloe & Myrrh Wrapping' prose section discusses in detail.",
+      "chosen_heading": "Aloe & Myrrh Wrapping",
+      "current_heading": "Aloe & Myrrh Wrapping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Alternative Pika Cures",
+    "candidates": [
+      "Alternative Pika Cures",
+      "Oil & Linen Seasons",
+      "Kidney Water Cure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss remedies for the lower crevice (pika tata'a) \u2014 goat fat, dried pumpkin leaves, snail shells, and oil with wax \u2014 which is exactly what candidate 0's prose describes as the continuation of the pika treatments, making the current placement correct.",
+      "chosen_heading": "Alternative Pika Cures",
+      "current_heading": "Alternative Pika Cures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Kidney Water Cure",
+    "candidates": [
+      "Oil & Linen Seasons",
+      "Kidney Water Cure",
+      "Kidney Heat Method",
+      "Beetle & Oil Wicks",
+      "Wool & Reed Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abbahu's ear ailment and the kidney fluid remedy, which matches exactly the prose of candidate 1 ('Kidney Water Cure'), while the procedural details of cutting and heating the kidney are covered in candidate 2 ('Kidney Heat Method') \u2014 but the full Talmudic passage spans both the diagnosis/remedy principle and the procedure, and its current placement under 'Kidney Water Cure' is correct as it introduces the entire kidney-based treatment.",
+      "chosen_heading": "Kidney Water Cure",
+      "current_heading": "Kidney Water Cure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Wool & Reed Methods",
+    "candidates": [
+      "Kidney Heat Method",
+      "Beetle & Oil Wicks",
+      "Wool & Reed Methods",
+      "Wet/Dry Balance",
+      "Shabbat Ear Lifting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items continue the sequential 'and if not' chain of ear remedies (beetle fat, oil with wicks, fiber, aged reed) that heading 1 'Beetle & Oil Wicks' introduces, and the final mnemonic ('moist for dry, dry for moist') closes that same remedies chain rather than opening a new diagnostic principle discussed under heading 3.",
+      "chosen_heading": "Beetle & Oil Wicks",
+      "current_heading": "Wool & Reed Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Shabbat Ear Lifting",
+    "candidates": [
+      "Wet/Dry Balance",
+      "Shabbat Ear Lifting",
+      "Inflamed Eye Ruling",
+      "Pre-ground vs. Grinding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses raising ears on Shabbat, the hand vs. medicine debate, and the zareif injury reasoning \u2014 all of which are precisely what the 'Shabbat Ear Lifting' prose describes.",
+      "chosen_heading": "Shabbat Ear Lifting",
+      "current_heading": "Shabbat Ear Lifting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Pre-ground vs. Grinding",
+    "candidates": [
+      "Inflamed Eye Ruling",
+      "Pre-ground vs. Grinding",
+      "Shmuel's Eye Crisis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the initial ruling (ayin shemarda, mutar le-kochla) AND the debate about pre-ground vs. grinding on Shabbat AND Rav Yaakov's clarification \u2014 all three components together form a single continuous Talmudic unit that belongs under heading 0 ('Inflamed Eye Ruling'), which introduces this exact ruling, rather than being split across headings 0 and 1.",
+      "chosen_heading": "Inflamed Eye Ruling",
+      "current_heading": "Pre-ground vs. Grinding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Shmuel's Eye Crisis",
+    "candidates": [
+      "Pre-ground vs. Grinding",
+      "Shmuel's Eye Crisis",
+      "Eye-Heart Connection",
+      "Serious Eye Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda's permission, Rav Shmuel bar Yehuda's objection and subsequent eye pain, and the maidservant incident with Mar Shmuel's resulting ruling \u2014 are all narrated and analyzed together under the 'Shmuel's Eye Crisis' heading, whose prose explicitly covers every element of both items in sequence.",
+      "chosen_heading": "Shmuel's Eye Crisis",
+      "current_heading": "Shmuel's Eye Crisis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Serious Eye Types",
+    "candidates": [
+      "Eye-Heart Connection",
+      "Serious Eye Types",
+      "Hot/Cold Opposition",
+      "Sting & Wound Specifics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists specific eye conditions (discharge, pricking, blood, tearing, inflammation, onset of infection) and distinguishes the beginning from end stages, which directly matches the 'Serious Eye Types' prose discussing rira, daytza, dama, dimata, kidcha, tchilas uchla vs. sof uchla, and ptzuchei aina.",
+      "chosen_heading": "Serious Eye Types",
+      "current_heading": "Serious Eye Types",
+      "moved": false
+    }
+  }
+]

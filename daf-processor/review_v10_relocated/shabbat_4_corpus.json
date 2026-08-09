@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Kaneis Resolution",
+    "candidates": [
+      "Patur & Domain",
+      "Person as Furniture",
+      "Hand in Two Domains",
+      "Two Braitot",
+      "Kaneis Resolution",
+      "Remove Before Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items are the Gemara's successive resolutions of the contradiction between two baraitot (unwitting vs. intentional, penalizing unwitting due to intentional, same courtyard vs. different courtyard, and Rava/Rav Na\u1e25man exchange), which is exactly what heading 3 'Two Braitot' describes \u2014 the tension between the two baraitot and the various interpretations offered to resolve it.",
+      "chosen_heading": "Two Braitot",
+      "current_heading": "Kaneis Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Remove Before Violation",
+    "candidates": [
+      "Kaneis Resolution",
+      "Remove Before Violation",
+      "Shogeg vs. Mezid",
+      "Chatas Awareness Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Remove Before Violation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Beivai bar Abaye's dilemma about removing bread from the oven before incurring a sin-offering, which is precisely what heading 1 ('Remove Before Violation') discusses in its prose.",
+      "second_heading": "Shogeg vs. Mezid",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav A\u1e25a bar Abaye's clarifying question to Ravina about the shogeg/mezid distinction, which matches exactly what heading 2 ('Shogeg vs. Mezid') discusses in its prose.",
+      "current_heading": "Remove Before Violation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Chatas Awareness Rule",
+    "candidates": [
+      "Shogeg vs. Mezid",
+      "Chatas Awareness Rule",
+      "No Korban Question",
+      "Mezid Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mishna rule that chatas liability requires the act to be unwitting from beginning to end, which is precisely what the 'Chatas Awareness Rule' section discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Chatas Awareness Rule",
+      "current_heading": "Chatas Awareness Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Mezid Case",
+    "candidates": [
+      "No Korban Question",
+      "Mezid Case",
+      "Rav Sheshet Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mezid (intentional) case and the point that the dilemma should be phrased in terms of sekilah rather than chatas, which is exactly what the 'Mezid Case' prose describes.",
+      "chosen_heading": "Mezid Case",
+      "current_heading": "Mezid Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Rav Sheshet Challenge",
+    "candidates": [
+      "Rav Sheshet Challenge",
+      "Allow Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Sheila's 'le'olam beshogeg' position and Rav Sheshet's objection 'v'chi omrin lo le'adam cheit' \u2014 are explicitly discussed together in the 'Rav Sheshet Challenge' prose, which describes exactly this sequence of Rav Sheila's framing followed by Rav Sheshet's challenge.",
+      "chosen_heading": "Rav Sheshet Challenge",
+      "current_heading": "Rav Sheshet Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Allow Removal",
+    "candidates": [
+      "Allow Removal",
+      "Tosafot: Interrupt Act",
+      "Tosafot Distinctions",
+      "Self vs. Others",
+      "Poor Man Takes Bread",
+      "Four-by-Four Meaning",
+      "Gemara's Question",
+      "Kluta Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ashi's resolution that the case is mezid and the ruling that one may remove bread before becoming liable to sekilah, which is precisely what the 'Allow Removal' section's prose addresses.",
+      "chosen_heading": "Allow Removal",
+      "current_heading": "Allow Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Kluta Position",
+    "candidates": [
+      "Tosafot: Interrupt Act",
+      "Tosafot Distinctions",
+      "Self vs. Others",
+      "Poor Man Takes Bread",
+      "Four-by-Four Meaning",
+      "Gemara's Question",
+      "Kluta Position",
+      "Rava's Question",
+      "Two Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 3 ('Poor Man Takes Bread') describes: the Mishna's case of the ani extending his hand, the Gemara's question of why he is liable given the four-by-four requirement, and Rabba's answer that the Mishna follows Rabbi Akiva who does not require a makom arba al arba, illustrated by the case of throwing between two private domains with public domain in between and the kluta principle \u2014 all of which is precisely the content described in that section's prose.",
+      "chosen_heading": "Poor Man Takes Bread",
+      "current_heading": "Kluta Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Two Interpretations",
+    "candidates": [
+      "Rava's Question",
+      "Two Interpretations",
+      "Akira vs. Hanacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the complete sugya about Rabba's dilemma regarding kluta k'mi she'huncha \u2014 the two possible interpretations of the Rabbi Akiva/Rabbis dispute and the resolution \u2014 which is precisely what candidate 1 ('Two Interpretations') discusses in detail, including both framings and the final 'ha lo kashya' resolution.",
+      "chosen_heading": "Two Interpretations",
+      "current_heading": "Two Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Akira vs. Hanacha",
+    "candidates": [
+      "Akira vs. Hanacha",
+      "Small Protrusion",
+      "Abaye Reframing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of whether akira requires a four-by-four space differently from hanacha, which is precisely what the 'Akira vs. Hanacha' section's prose discusses.",
+      "chosen_heading": "Akira vs. Hanacha",
+      "current_heading": "Akira vs. Hanacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Abaye Reframing",
+    "candidates": [
+      "Small Protrusion",
+      "Abaye Reframing",
+      "Branch Follows Trunk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Rav Yosef attributes the mishna to Rabbi (item 1), the Gemara asks which ruling of Rabbi is meant and cites the baraita about a projection of any size (item 2), and then rejects that proof via Abaye's reframing about the tree (item 3) \u2014 this entire sequence is the Gemara's analysis of the 'small protrusion' baraita, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Small Protrusion",
+      "current_heading": "Abaye Reframing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Branch Follows Trunk",
+    "candidates": [
+      "Abaye Reframing",
+      "Branch Follows Trunk",
+      "Cannot Prove Absence",
+      "Window Throw",
+      "Two Transgressions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rabbi's and Rabbis' positions on 'shadi nofo basar ikaro' (branch follows trunk), which is precisely what the 'Abaye Reframing' section describes as Abaye's reframing of the case, making it a clearly better match than the 'Branch Follows Trunk' section which discusses Tosafot and Rashi's interpretations of that principle.",
+      "chosen_heading": "Abaye Reframing",
+      "current_heading": "Branch Follows Trunk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Two Transgressions",
+    "candidates": [
+      "Cannot Prove Absence",
+      "Window Throw",
+      "Two Transgressions",
+      "Roofed House Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce and elaborate the baraita about throwing from public domain to public domain with private domain in the middle \u2014 exactly what the 'Window Throw' section's prose describes \u2014 while the current placement 'Two Transgressions' only covers the Rav Yehuda/Shmuel addition, not the baraita itself which is item 1.",
+      "chosen_heading": "Window Throw",
+      "current_heading": "Two Transgressions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Roofed House Limit",
+    "candidates": [
+      "Two Transgressions",
+      "Roofed House Limit",
+      "Unresolved Hand Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's qualification that Rabbi only deems one liable in a covered (roofed) private domain, which is precisely what the 'Roofed House Limit' prose section describes.",
+      "chosen_heading": "Roofed House Limit",
+      "current_heading": "Roofed House Limit",
+      "moved": false
+    }
+  }
+]

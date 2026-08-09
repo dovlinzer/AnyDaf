@@ -1,14 +1,17 @@
-# Nedarim 76 — Daf Yomi Shiur
 [DAF:76a]
-
 ## Annulling Throughout Day
+
+
 
 [DAF:76b]
 ### Whole Day Principle
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הֲפָרַת נְדָרִים כׇּל הַיּוֹם. יֵשׁ בַּדָּבָר לְהָקֵל וּלְהַחֲמִיר
->
+> **Hebrew/Aramaic:** מַתְנִי׳ הֲפָרַת נְדָרִים כׇּל הַיּוֹם. יֵשׁ בַּדָּבָר לְהָקֵל וּלְהַחֲמִיר
 > **Translation:** MISHNA: The **nullification of vows** can be performed **all day** on the day on which the vow was heard. **There is in this matter** both **a leniency,** extending the nullification period, **and a stricture,** curtailing that period.
+
+> **Hebrew/Aramaic:** כֵּיצַד? נָדְרָה בְּלֵילֵי שַׁבָּת — יָפֵר בְּלֵילֵי שַׁבָּת וּבְיוֹם הַשַּׁבָּת עַד שֶׁתֶּחְשַׁךְ. נָדְרָה עִם חֲשֵׁכָה — מֵפֵר עַד שֶׁלֹּא תֶּחְשַׁךְ, שֶׁאִם חָשְׁכָה וְלֹא הֵפֵר — אֵינוֹ יָכוֹל לְהָפֵר,
+> **Translation:** **How so?** If a woman **took a vow on Shabbat evening,** her father or husband **can nullify** the vow **on Shabbat evening, and on Shabbat day until dark.** This is an example of extending the nullification period. However, if **she took a vow with nightfall** approaching, her father or husband **can nullify** the vow only **until nightfall, since, if it became dark and he had not** yet **nullified** her vow, **he cannot nullify** it anymore. This is an example of a curtailed nullification period.
+
 
 The *mishnah* on 76b opens with a foundational principle: *hafarat nedarim kol hayom* — the annulment of vows may be performed throughout the entire day. At first glance, one might read this as meaning twenty-four hours, a reading seemingly supported by the verse *miyom el yom*, "from day to day," which naturally suggests from this moment today until the same moment tomorrow. As the discussion will make clear, however, the *mishnah* and the final *psak halacha* actually mean something more restricted: until the end of the halakhic day, not a full twenty-four-hour window. That this point requires clarification is itself noteworthy; the *pshat* of *miyom el yom* had drawn many toward the twenty-four-hour reading.
 
@@ -16,35 +19,31 @@ The *mishnah* adds that this rule carries within it both a *kulah* and a *chumra
 
 ### Friday Night Case
 
-> **Hebrew/Aramaic:** כֵּיצַד? נָדְרָה בְּלֵילֵי שַׁבָּת — יָפֵר בְּלֵילֵי שַׁבָּת וּבְיוֹם הַשַּׁבָּת עַד שֶׁתֶּחְשַׁךְ. נָדְרָה עִם חֲשֵׁיכָה — מֵפֵר עַד שֶׁלֹּא תֶּחְשַׁךְ, שֶׁאִם חָשְׁכָה וְלֹא הֵפֵר — אֵינוֹ יָכוֹל לְהָפֵר,
->
-> **Translation:** **How so?** If a woman **took a vow on Shabbat evening,** her father or husband **can nullify** the vow **on Shabbat evening, and on Shabbat day until dark.** This is an example of extending the nullification period. However, if **she took a vow with nightfall** approaching, her father or husband **can nullify** the vow only **until nightfall, since, if it became dark and he had not** yet **nullified** her vow, **he cannot nullify** it anymore. This is an example of a curtailed nullification period.
-
 The *mishnah* illustrates with a case involving *Shabbat*: if a woman made a *neder* on Friday night after *Shabbat* had begun, the husband may perform *hafara* that same Friday night and throughout *Shabbat* day — until it gets dark at *Shabbat*'s end (*ad shetecheshach*). The word *techeshach* ordinarily implies *tzet hakochavim*, nightfall proper, though the precise question of *bein hashmashos* remains.
 
 The reverse case is equally instructive: if she made the *neder* just before *Shabbat* ended — one minute before dark — then the husband has only that one minute to perform *hafara*. If darkness fell and he did not act, the opportunity is gone permanently. The *mishnah* underscores this with urgency: *she'im chashecha velo hefer, eino yachol lehafer* — once night falls and he has not annulled, he can no longer do so.
 
-The choice of *Shabbat* as the *mishnah*'s example is itself significant. *Shabbat* serves to illustrate that even when a *neder* is made on *Shabbat*, there is a pressing imperative to perform *hafara* on *Shabbat* itself — because that may be the husband's only opportunity. As the *Gemara* will clarify, this is what permits *hafarat nedarim* on *Shabbat* even when the *neder* has no bearing whatsoever on *Shabbat* observance — for instance, if she vowed that apples would be forbidden to her on Sundays. Even in such a case, if the *neder* was made on *Shabbat*, the husband may perform *hafara* on *Shabbat*.
+The choice of *Shabbat* as the *mishnah*'s example is itself significant. *Shabbat* serves to illustrate that even when a *neder* is made on *Shabbat*, there is a pressing imperative to perform *hafara* on *Shabbat* itself — because that may be the husband's only opportunity. As the *Gemara* will clarify, this is what permits *hafarat nedarim* on *Shabbat* even when the *neder* has no bearing whatsoever on *Shabbat* observance — for instance, if she vowed that apples would be forbidden to her on Sundays. Even in such a case, if the *neder* was made on *Shabbat*, the husband may perform *hafara* on *Shabbat*. This stands in pointed contrast to *hataras nedarim*, which requires a process akin to *din* and cannot be performed on *Shabbat* — a distinction the *Gemara* will develop as well.
 
 ### Tannaim Debate
 
-> **Hebrew/Aramaic:** גְּמָ׳ תַּנְיָא: הֲפָרַת נְדָרִים כׇּל הַיּוֹם. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אָמְרוּ: מֵעֵת לְעֵת.
->
-> **Translation:** GEMARA: **It is taught** in a *baraita*: The **nullification of vows** can be performed **all day** on the day on which the vow was heard. **Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Elazar, son of Rabbi Shimon, said:** A vow can be nullified **for** a twenty-four-hour **period** from the time it was heard.
+> **Hebrew/Aramaic:** גְּמָ׳ תַּנְיָא: הֲפָרַת נְדָרִים כׇּל הַיּוֹם. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אָמְרוּ: מֵעֵת לְעֵת. מַאי טַעְמָא דְּתַנָּא קַמָּא, אָמַר קְרָא: ״בְּיוֹם שׇׁמְעוֹ״.
+> **Translation:** GEMARA: **It is taught** in a *baraita*: The **nullification of vows** can be performed **all day** on the day on which the vow was heard. **Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Elazar, son of Rabbi Shimon, said:** A vow can be nullified **for** a twenty-four-hour **period** from the time it was heard. The Gemara asks: **What is the reason for the** opinion of the **first *tanna*?** The Gemara answers: Since **the verse states:** “But if her husband make them null and void **on the day that he hears them”** (Numbers 30:13), he derives that the husband can nullify his wife’s vow only until the end of the day on which he hears the vow.
 
 A *baraita* records that this very principle is disputed among *Tannaim*. The *Tanna Kamma* holds *hafarat nedarim kol hayom* — annulment may be performed throughout the entire halakhic day. *Rabbi Yose b'Rabbi Yehuda* and *Rabbi Eliezer b'Rabbi Shimon* dissent, ruling *me'eis le'eis* — a full twenty-four hours. A note on the side cites a *Tosefta* that attributes the *kol hayom* position explicitly to *Rabbi* (Rebbi); either way, the structure is a *Tanna Kamma* in favor of the halakhic day and two dissenting voices favoring twenty-four hours.
 
 ### Verse Reconciliation
 
-> **Hebrew/Aramaic:** מַאי טַעְמָא דְּתַנָּא קַמָּא, אָמַר קְרָא: ״בְּיוֹם שׇׁמְעוֹ״. וְרַבָּנַן מַאי טַעְמַיְיהוּ — דִּכְתִיב: ״מִיּוֹם אֶל יוֹם״.
->
-> **Translation:** The Gemara asks: **What is the reason for the** opinion of the **first *tanna*?** The Gemara answers: Since **the verse states:** "But if her husband make them null and void **on the day that he hears them"** (Numbers 30:13), he derives that the husband can nullify his wife's vow only until the end of the day on which he hears the vow. The Gemara asks: **And** with regard to **the Rabbis,** Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Eliezer, son of Rabbi Shimon, **what is their reason?** The Gemara answers: **It is written: "From day to day"** (Numbers 30:15), which indicates that a vow can be nullified from a particular hour on one day until the same hour on the following day.
+> **Hebrew/Aramaic:** וְרַבָּנַן מַאי טַעְמַיְיהוּ — דִּכְתִיב: ״מִיּוֹם אֶל יוֹם״.
+> **Translation:** The Gemara asks: **And** with regard to **the Rabbis,** Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Eliezer, son of Rabbi Shimon, **what is their reason?** The Gemara answers: **It is written: “From day to day”** (Numbers 30:15), which indicates that a vow can be nullified from a particular hour on one day until the same hour on the following day.
+
+> **Hebrew/Aramaic:** וּלְתַנָּא קַמָּא, הָא כְּתִיב ״מִיּוֹם אֶל יוֹם״! אִיצְטְרִיךְ. דְּאִי ״בְּיוֹם שׇׁמְעוֹ״, הֲוָה אָמֵינָא בִּימָמָא — אִין, בְּלֵילְיָא — לָא, כְּתִיב ״מִיּוֹם אֶל יוֹם״.
+> **Translation:** The Gemara asks: **And according to the first *tanna*, isn’t it written: “From day to day”?** The Gemara answers: That verse **is necessary, as if** it had said only **“on the day that he hears them,” I would say** that **during the day, yes,** he can nullify vows, but **at night** he is **not** able to. Therefore, **it is written: “From day to day,”** to teach that nullification can be performed even between one day and the next, i.e., night.
+
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר ״מִיּוֹם אֶל יוֹם״, הָא כְּתִיב ״בְּיוֹם שׇׁמְעוֹ״! אִיצְטְרִיךְ, דְּאִי כְּתִיב ״מִיּוֹם אֶל יוֹם״, הֲוָה אָמֵינָא מֵחַד בְּשַׁבָּא לְחַד בְּשַׁבָּא לֵיפַר לָהּ, כְּתִיב ״בְּיוֹם שׇׁמְעוֹ״.
+> **Translation:** The Gemara asks: **And according to the one who said** that **“from day to day”** indicates a twenty-four-hour period for nullification, **isn’t it written: “On the day that he hears them?”** The Gemara explains here, too: That verse **was necessary, as if** it had **written** only **“from day to day,” I would say** that he **can nullify** a vow **for her** until the same day in the following week, i.e., he can nullify her vow during the entire period **from one Sunday to** the next **Sunday.** Therefore, it **is written: “On the day that he hears them”** to teach that nullification is limited to a period of a single day of twenty-four hours.
 
 The *Gemara* then asks after the reasoning on each side. The *Tanna Kamma* derives from the verse *b'yom shom'o* — "on the day that he hears" — that *hafara* must be performed on that same day. *Rabbi Yose b'Rabbi Yehuda* and *Rabbi Eliezer b'Rabbi Shimon* derive from the verse *miyom el yom*, "from day to day," which sounds precisely like from now until the same time tomorrow — a full twenty-four hours.
-
-> **Hebrew/Aramaic:** וּלְתַנָּא קַמָּא, הָא כְּתִיב ״מִיּוֹם אֶל יוֹם״! אִיצְטְרִיךְ. דְּאִי ״בְּיוֹם שׇׁמְעוֹ״, הֲוָה אָמֵינָא בִּימָמָא — אִין, בְּלֵילְיָא — לָא, כְּתִיב ״מִיּוֹם אֶל יוֹם״. וּלְמַאן דְּאָמַר ״מִיּוֹם אֶל יוֹם״, הָא כְּתִיב ״בְּיוֹם שׇׁמְעוֹ״! אִיצְטְרִיךְ, דְּאִי כְּתִיב ״מִיּוֹם אֶל יוֹם״, הֲוָה אָמֵינָא מֵחַד בְּשַׁבָּא לְחַד בְּשַׁבָּא לֵיפַר לָהּ, כְּתִיב ״בְּיוֹם שׇׁמְעוֹ״.
->
-> **Translation:** The Gemara asks: **And according to the first *tanna*, isn't it written: "From day to day"?** The Gemara answers: That verse **is necessary, as if** it had said only **"on the day that he hears them," I would say** that **during the day, yes,** he can nullify vows, but **at night** he is **not** able to. Therefore, **it is written: "From day to day,"** to teach that nullification can be performed even between one day and the next, i.e., night. The Gemara asks: **And according to the one who said** that **"from day to day"** indicates a twenty-four-hour period for nullification, **isn't it written: "On the day that he hears them?"** The Gemara explains here, too: That verse **was necessary, as if** it had **written** only **"from day to day," I would say** that he **can nullify** a vow **for her** until the same day in the following week, i.e., he can nullify her vow during the entire period **from one Sunday to** the next **Sunday.** Therefore, it **is written: "On the day that he hears them"** to teach that nullification is limited to a period of a single day of twenty-four hours.
 
 The *Gemara* then reconciles each position with the verse it appears to discard. For the *Tanna Kamma*, who rules by the end of the halakhic day: why does the Torah also write *miyom el yom*? Because without that verse, one might have read *b'yom shom'o* as meaning only the daytime — excluding the nighttime hours. The verse *miyom el yom* comes to teach that the night is included within "the day," so that if she took the vow on Friday night, he may perform *hafara* that same Friday night. Yet the outer limit remains the end of that halakhic day.
 
@@ -54,29 +53,35 @@ Both readings are thus internally coherent and genuine engagements with the vers
 
 ### Final Ruling
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: אֵין הֲלָכָה כְּאוֹתוֹ הַזּוּג. לֵוִי סָבַר לְמִיעְבַּד כְּהָנֵי תַּנָּאֵי. אֲמַר לֵיהּ רַב, הָכִי אָמַר חֲבִיבִי: אֵין הֲלָכָה כְּאוֹתוֹ הַזּוּג.
->
-> **Translation:** **Rabbi Shimon ben Pazi said** that **Rabbi Yehoshua ben Levi said: The *halakha* is not in accordance with that pair [*zug*],** Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Eliezer, son of Rabbi Shimon, who hold that one has an entire twenty-four-hour period to nullify vows. Rather, one can nullify only on that day, as stated in the mishna. The Gemara relates: **Levi thought to act in accordance with** the opinion of **those** two ***tanna'im*. Rav said to him: So said my uncle [*ḥavivi*],** Rabbi Ḥiyya: **The *halakha* is not in accordance with that pair.**
+> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: אֵין הֲלָכָה כְּאוֹתוֹ הַזּוּג. לֵוִי סָבַר לְמִיעְבַּד כְּהָנֵי תַּנָּאֵי. אֲמַר לֵיהּ רַב, הָכִי אָמַר חֲבִיבִי: אֵין הֲלָכָה כְּאוֹתוֹ הַזּוּג.
+> **Translation:** **Rabbi Shimon ben Pazi said** that **Rabbi Yehoshua ben Levi said: The *halakha* is not in accordance with that pair [*zug*],** Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Eliezer, son of Rabbi Shimon, who hold that one has an entire twenty-four-hour period to nullify vows. Rather, one can nullify only on that day, as stated in the mishna. The Gemara relates: **Levi thought to act in accordance with** the opinion of **those** two ***tanna’im*. Rav said to him: So said my uncle [*ḥavivi*],** Rabbi Ḥiyya: **The *halakha* is not in accordance with that pair.**
+
+> **Hebrew/Aramaic:** חִיָּיא בַּר רַב שָׁדֵי גִּירָא וּבָדֵיק. רַבָּה בַּר רַב הוּנָא יָתֵיב וְקָאֵים.
+> **Translation:** The Gemara relates that when a case of dissolving a vow was brought before **Ḥiyya bar Rav,** he **would shoot an arrow [*gira*] and examine** the vow at the same time. In other words, he would not examine the case in great depth, but would immediately dissolve it. Similarly, **Rabba bar Rav Huna would sit** to review the vow **and stand** immediately, without conducting a comprehensive examination.
 
 *Rabbi Shimon ben Pazi* said in the name of *Rabbi Yehoshua ben Levi*: *ein halacha k'oso hazug* — we do not rule like that pair. The *halacha* follows the *Tanna Kamma* and the *mishnah*: annulment must be performed by the end of the halakhic day. *Levi* had been inclined to follow the twenty-four-hour position, but *Rav* said in the name of his uncle *Rabbi Chiya*: we do not rule like that pair. That is the *halacha*.
+
+The *Gemara* then records two anecdotes that seem, on the surface, to have little to do with *hafara*. *Chiyya bar Rav* — Rav's son, distinct from Rav's uncle *Rabbi Chiya* just mentioned — would shoot arrows and check people as they came before him to dissolve a vow, giving the proceedings something less than his full attention. *Rabba bar Rav Huna*, similarly, would sit and stand and move about the room rather than devoting complete focus to the matter. Both anecdotes concern *hataras nedarim*, the release of a vow before a *chacham*, not *hafara* at all. The *Ran* explains their appearance here as incidental: *Rav* was mentioned, and the *Gemara* associated material about *Rav's* son. The *Rosh*, however, argues more pointedly that these passages do not genuinely belong here — they belong to the *daf* immediately ahead, which will directly take up the question of what state of mind and physical bearing is required of a *chacham* performing *hataras nedarim*: must he be seated, focused, formally present to the act? The deeper issue is whether *hataras nedarim* is fundamentally a *beis din*-like proceeding demanding that kind of deliberate, settled attention, or something less formal. That question will be examined imminently, and these anecdotes are best understood as anticipating it.
 
 ---
 
 ## Shabbat Annulling
 
-### Shabbat Overview
 
-> **Hebrew/Aramaic:** תְּנַן הָתָם: מְפִירִין נְדָרִים בְּשַׁבָּת, וְנִשְׁאָלִין לִנְדָרִים שֶׁהֵן לְצוֹרֶךְ הַשַּׁבָּת.
->
-> **Translation:** **We learned** in a mishna **elsewhere** (*Shabbat* 157a): A father or husband **may nullify** his daughter's or his wife's **vows on Shabbat and one may request** from a halakhic authority **to** dissolve **vows that are for the purpose of Shabbat.**
+
+### Shabbat Overview
 
 The discussion now turns to a *mishnah* cited from elsewhere: *mefirin nedarim b'Shabbat*, one may perform *hafarat nedarim* on *Shabbat*. As for *hataras nedarim* — the process of releasing a vow before a *chacham* — one may seek that release on *Shabbat* only when it is *letzorech haShabbat*, necessary for *Shabbat* itself. These two forms of vow dissolution are treated quite differently, and the *Gemara* proceeds to explain why.
 
+> **Hebrew/Aramaic:** תְּנַן הָתָם: מְפִירִין נְדָרִים בְּשַׁבָּת, וְנִשְׁאָלִין לִנְדָרִים שֶׁהֵן לְצוֹרֶךְ הַשַּׁבָּת. אִיבַּעְיָא לְהוּ: מְפִירִין נְדָרִים בְּשַׁבָּת לְצוֹרֶךְ הַשַּׁבָּת, אוֹ דִלְמָא אֲפִילּוּ שֶׁלֹּא לְצוֹרֶךְ?
+> **Translation:** § **We learned** in a mishna **elsewhere** (*Shabbat* 157a): A father or husband **may nullify** his daughter’s or his wife’s **vows on Shabbat and one may request** from a halakhic authority **to** dissolve **vows that are for the purpose of Shabbat. A dilemma was raised before** the Sages: May one **nullify vows on Shabbat** only **when** they are **for the purpose of Shabbat, or** may one **perhaps** nullify vows on Shabbat **even when they are not for the purpose** of Shabbat?
+
 ### Beis Din Nature
 
-Hataras nedarim is a *ma'aseh beis din* — an act of a court. It involves sitting judges who probe, inquire, and deliberate. Such an act is categorically problematic on *Shabbat*. The sole exception is when the *hatara* serves a *Shabbat* purpose: if one vowed not to eat meat and wishes to dissolve the vow in order to enjoy *cholent* on *Shabbat*, that qualifies as *letzorech Shabbat* and is permitted.
+*Hataras nedarim* is a *ma'aseh beis din* — an act of a court. It involves sitting judges who probe, inquire, and deliberate. Such an act is categorically problematic on *Shabbat*. The sole exception is when the *hatara* serves a *Shabbat* purpose: if one vowed not to eat meat and wishes to dissolve the vow in order to enjoy *cholent* on *Shabbat*, that qualifies as *letzorech Shabbat* and is permitted.
 
 ### Hafara Permitted
+
 
 *Hafarat nedarim*, by contrast, is a fundamentally different act. It involves no inquiry, no deliberation, and no beis din process. The husband or father simply declares *mufar lach* — "it is annulled for you" — and the *neder* is dissolved. This is not a *ma'aseh beis din*.
 
@@ -86,9 +91,8 @@ What overrides this concern is the urgency of the situation: *Shabbat* may be th
 
 ### One-Minute Case
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: מְפִירִין נְדָרִים בְּשַׁבָּת לְצוֹרֶךְ הַשַּׁבָּת, אוֹ דִלְמָא אֲפִילּוּ שֶׁלֹּא לְצוֹרֶךְ? תָּא שְׁמַע, דְּתָנֵי רַב זוּטֵי דְּבֵי רַב פַּפֵּי: אֵין מְפִירִין נְדָרִים אֶלָּא לְצוֹרֶךְ הַשַּׁבָּת. אָמַר רַב אָשֵׁי, הָא לָא תְּנַן הָכִי: נָדְרָה עִם חֲשֵׁיכָה — מֵפֵר לָהּ עַד שֶׁלֹּא תֶּחְשַׁךְ. וְאִי אָמְרַתְּ לְצוֹרֶךְ הַשַּׁבָּת — אִין, שֶׁלֹּא לְצוֹרֶךְ הַשַּׁבָּת — לָא, מַאי אִירְיָא חָשְׁכָה? אֲפִילּוּ בְּתוֹךְ הַיּוֹם אֵינוֹ יָכוֹל לְהָפֵר דְּשֶׁלֹּא לְצוֹרֶךְ!
->
-> **Translation:** **A dilemma was raised before** the Sages: May one **nullify vows on Shabbat** only **when** they are **for the purpose of Shabbat, or** may one **perhaps** nullify vows on Shabbat **even when they are not for the purpose** of Shabbat? The Gemara responds: **Come** and **hear** the *baraita* **that Rav Zuti from the school of Rav Pappi taught: Vows may be nullified** on Shabbat **only for the purpose of Shabbat. Rav Ashi said: We did not learn that way** in the mishna here. The mishna teaches: If **she took a vow with nightfall** approaching, her father or husband **can nullify** the vow **for her** only **until nightfall. And if you say** that with regard to nullification of vows that **are for the purpose of Shabbat, yes,** he may nullify those vows, but nullifications **that are not for the purpose of Shabbat, no,** he may not, **why** does the *tanna* **specify nightfall?** After all, **even during the day he may not nullify that** which **is not for the purpose** of Shabbat.
+> **Hebrew/Aramaic:** תָּא שְׁמַע, דְּתָנֵי רַב זוּטֵי דְּבֵי רַב פַּפֵּי: אֵין מְפִירִין נְדָרִים אֶלָּא לְצוֹרֶךְ הַשַּׁבָּת. אָמַר רַב אָשֵׁי, הָא לָא תְּנַן הָכִי: נָדְרָה עִם חֲשֵׁיכָה — מֵפֵר לָהּ עַד שֶׁלֹּא תֶּחְשַׁךְ. וְאִי אָמְרַתְּ לְצוֹרֶךְ הַשַּׁבָּת — אִין, שֶׁלֹּא לְצוֹרֶךְ הַשַּׁבָּת — לָא, מַאי אִירְיָא חָשְׁכָה? אֲפִילּוּ בְּתוֹךְ הַיּוֹם אֵינוֹ יָכוֹל לְהָפֵר דְּשֶׁלֹּא לְצוֹרֶךְ!
+> **Translation:** **Come** and **hear** the *baraita* **that Rav Zuti from the school of Rav Pappi taught: Vows may be nullified** on Shabbat **only for the purpose of Shabbat. Rav Ashi said: We did not learn that way** in the mishna here. The mishna teaches: If **she took a vow with nightfall** approaching, her father or husband **can nullify** the vow **for her** only **until nightfall. And if you say** that with regard to nullification of vows that **are for the purpose of Shabbat, yes,** he may nullify those vows, but nullifications **that are not for the purpose of Shabbat, no,** he may not, **why** does the *tanna* **specify nightfall?** After all, **even during the day he may not nullify that** which **is not for the purpose** of Shabbat.
 
 The *Gemara* initially entertained the possibility that just as *hatara* is limited to cases of *letzorech Shabbat*, perhaps *hafara* too is only permitted on *Shabbat* when it serves a *Shabbat* purpose. A *baraita* attributed to the school of *Rav Pappi* indeed stated: *ein meferin nedarim ela letzorech haShabbat* — one may perform *hafara* only for a *Shabbat* need.
 
@@ -96,9 +100,11 @@ The *Gemara* initially entertained the possibility that just as *hatara* is limi
 
 ### Tannaim Dependency
 
-> **Hebrew/Aramaic:** תַּנָּאֵי הִיא: הֲפָרַת נְדָרִים כׇּל הַיּוֹם, רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אָמְרוּ: מֵעֵת לְעֵת. לְמַאן דְּאָמַר כׇּל הַיּוֹם אִין, טְפֵי לָא — אֲפִילּוּ שֶׁלֹּא לְצוֹרֶךְ הַשַּׁבָּת מֵפֵר. לְמַאן דְּאָמַר מֵעֵת לְעֵת, לְצוֹרֶךְ הַשַּׁבָּת — אִין, שֶׁלֹּא לְצוֹרֶךְ הַשַּׁבָּת — לָא.
->
-> **Translation:** The Gemara rejects this conclusion: Nullification on Shabbat is subject to a dispute between ***tanna'im*: Nullification of vows** can be performed **all day** on the day that the vow was heard. And **Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Elazar, son of Rabbi Shimon, said:** A vow can be nullified **for** a twenty-four-hour **period** from the time it was heard. **According to the one who says all day, yes,** one can nullify vows all day, but **not more** than that; **he may nullify** on Shabbat **even** when it is **not for the purpose of Shabbat,** since otherwise, he could not nullify a vow taken on Shabbat at all. **According to the one who says** that one can nullify her vows **for** a twenty-four-hour **period,** that which is **for the purpose of Shabbat, yes,** he may nullify, but that which is **not necessary for Shabbat,** he **may not** nullify, as he can do so after Shabbat.
+> **Hebrew/Aramaic:** תַּנָּאֵי הִיא: הֲפָרַת נְדָרִים כׇּל הַיּוֹם, רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אָמְרוּ: מֵעֵת לְעֵת.
+> **Translation:** The Gemara rejects this conclusion: Nullification on Shabbat is subject to a dispute between ***tanna’im*: Nullification of vows** can be performed **all day** on the day that the vow was heard. And **Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Elazar, son of Rabbi Shimon, said:** A vow can be nullified **for** a twenty-four-hour **period** from the time it was heard.
+
+> **Hebrew/Aramaic:** לְמַאן דְּאָמַר כׇּל הַיּוֹם אִין, טְפֵי לָא — אֲפִילּוּ שֶׁלֹּא לְצוֹרֶךְ הַשַּׁבָּת מֵפֵר. לְמַאן דְּאָמַר מֵעֵת לְעֵת, לְצוֹרֶךְ הַשַּׁבָּת — אִין, שֶׁלֹּא לְצוֹרֶךְ הַשַּׁבָּת — לָא.
+> **Translation:** **According to the one who says all day, yes,** one can nullify vows all day, but **not more** than that; **he may nullify** on Shabbat **even** when it is **not for the purpose of Shabbat,** since otherwise, he could not nullify a vow taken on Shabbat at all. **According to the one who says** that one can nullify her vows **for** a twenty-four-hour **period,** that which is **for the purpose of Shabbat, yes,** he may nullify, but that which is **not necessary for Shabbat,** he **may not** nullify, as he can do so after Shabbat.
 
 The *Gemara* resolves the tension by referring back to the *Tannaim* debate. The permissibility of *hafara* on *Shabbat* without a specific *Shabbat* purpose depends entirely on whether one rules like the *Tanna Kamma* (the end of the halakhic day) or like *Rabbi Yose b'Rabbi Yehuda* and *Rabbi Eliezer b'Rabbi Shimon* (twenty-four hours).
 
@@ -108,9 +114,6 @@ According to the twenty-four-hour view, there is no such urgency. After *Shabbat
 
 ### Negligence Question
 
-> **Hebrew/Aramaic:** וְנִשְׁאָלִין לִנְדָרִים שֶׁהֵן לְצוֹרֶךְ הַשַּׁבָּת. אִיבַּעְיָא לְהוּ: כְּשֶׁלֹּא הָיָה לָהֶם פְּנַאי, אוֹ דִלְמָא כְּשֶׁהָיָה לָהֶם פְּנַאי?
->
-> **Translation:** § The mishna from tractate *Shabbat* teaches: **And one may request** from a halakhic authority **to** dissolve **vows that are for the purpose of Shabbat. A dilemma was raised before** the Sages: Is this specifically **when those** who took the vows **did not have the opportunity** to request dissolution of the vows before Shabbat, **or perhaps** it is the case even **when they did have the opportunity?**
 
 The *Gemara* now raises a question about *hataras nedarim* specifically: when we permit *hatara* on *Shabbat* because it is *letzorech Shabbat*, does this apply even when the person had ample opportunity to perform *hatara* before *Shabbat* and simply failed to do so? Or do we deny the *Shabbat* leniency when the person was negligent?
 
@@ -118,37 +121,37 @@ The case is vivid: a person vowed on Friday morning that he would not eat meat. 
 
 ### Negligence Permitted
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע, דְּאִיזְדְּקִיקוּ לֵיהּ רַבָּנַן לִבְרֵיהּ דְּרַב זוּטְרָא בְּרֵיהּ דְּרַב זְעֵירָא אֲפִילּוּ בִּנְדָרִים שֶׁהָיָה לָהֶם פְּנַאי מִבְּעוֹד יוֹם.
->
-> **Translation:** The Gemara responds: **Come** and **hear:** It happened **that the Sages attended to** the dissolution of the vows of **the son of Rav Zutra, son of Rav Zeira,** on Shabbat, **even for vows that they had the opportunity** to dissolve **while it was still day,** before Shabbat had begun.
+> **Hebrew/Aramaic:** וְנִשְׁאָלִין לִנְדָרִים שֶׁהֵן לְצוֹרֶךְ הַשַּׁבָּת. אִיבַּעְיָא לְהוּ: כְּשֶׁלֹּא הָיָה לָהֶם פְּנַאי, אוֹ דִלְמָא כְּשֶׁהָיָה לָהֶם פְּנַאי? תָּא שְׁמַע, דְּאִיזְדְּקִיקוּ לֵיהּ רַבָּנַן לִבְרֵיהּ דְּרַב זוּטְרָא בְּרֵיהּ דְּרַב זְעֵירָא אֲפִילּוּ בִּנְדָרִים שֶׁהָיָה לָהֶם פְּנַאי מִבְּעוֹד יוֹם.
+> **Translation:** § The mishna from tractate *Shabbat* teaches: **And one may request** from a halakhic authority **to** dissolve **vows that are for the purpose of Shabbat. A dilemma was raised before** the Sages: Is this specifically **when those** who took the vows **did not have the opportunity** to request dissolution of the vows before Shabbat, **or perhaps** it is the case even **when they did have the opportunity?** The Gemara responds: **Come** and **hear:** It happened **that the Sages attended to** the dissolution of the vows of **the son of Rav Zutra, son of Rav Zeira,** on Shabbat, **even for vows that they had the opportunity** to dissolve **while it was still day,** before Shabbat had begun.
 
-The *Gemara* resolves the question from a real-life precedent: *izdakkaku lei rabanan livrei d'Rav Zutra brei d'Rav Zeira* — the rabbis responded to the needs of the son of *Rav Zutra*, son of *Rav Zeira*, and performed *hatara* even for *nedarim* that he could have dissolved before *Shabbat* but did not. They did not withhold the leniency on account of his prior negligence. The *Gemara* notes that this is in fact the dominant ruling among *poskim* in analogous cases — whatever the reason one finds oneself in the situation, the present halachic need must be addressed.
+The *Gemara* resolves the question from a real-life precedent: *izdakkaku lei rabanan livrei d'Rav Zutra brei d'Rav Zeira* — the rabbis responded to the needs of the son of *Rav Zutra*, son of *Rav Zeira*, and performed *hatara* even for *nedarim* that he could have dissolved before *Shabbat* but did not. They did not withhold the leniency on account of his prior negligence. What makes this precedent particularly striking is that the person in question was the son of a *chacham* — if anything, one might expect harsher scrutiny of a *chacham* or his household, on the grounds that someone with Torah knowledge should certainly have known to take care of this before *Shabbat*. And yet the rabbis extended the leniency regardless. The *Gemara* notes that this is in fact the dominant ruling among *poskim* in analogous cases — whatever the reason one finds oneself in the situation, the present halachic need must be addressed.
 
 ---
 
 ## Hataras Requirements
 
-### One Expert Rule
 
-> **Hebrew/Aramaic:** סָבַר רַב יוֹסֵף לְמֵימַר: נִשְׁאָלִין נְדָרִים בְּשַׁבָּת, בְּיָחִיד מוּמְחֶה — אִין, בִּשְׁלֹשָׁה הֶדְיוֹטוֹת — לָא, מִשּׁוּם דְּמִתְחֲזֵי כְּדִינָא.
->
-> **Translation:** **Rav Yosef thought to say:** With regard to **requesting** that a halakhic authority dissolve **vows on Shabbat, yes,** requesting **of a single expert** is permitted on Shabbat, but requesting **of three laymen** is **not** permitted on Shabbat, **because it looks like** a court **judgment,** which may not be performed on Shabbat.
+
+### One Expert Rule
 
 The *Gemara* now addresses the question of who may perform *hataras nedarim* and under what conditions. *Rav Yosef* proposes that when *hataras nedarim* is permitted on *Shabbat* — in a case of *letzorech Shabbat* — it may only be performed before a *yachid mumcheh*, a single qualified expert. It may not be performed before three *hedyotos*, three lay people who together constitute the alternative form of a valid *beis din* for *hatara* purposes.
 
 This requires some background. The basic structure of *hataras nedarim* is that it may be performed before either a *yachid mumcheh* — a single recognized expert — or before three lay people. (The precise meaning of *mumcheh* — what qualifications it requires — is a question for another discussion.) Most of the cases in *aggadata* and *halacha* involve a single rabbi, because a qualified rabbi is a *mumcheh* and suffices alone. But the option of three lay people also exists. *Rav Yosef*'s position is that on *Shabbat*, even where *hatara* is permitted, one may only use the *yachid mumcheh* option — not the three-*hedyotos* option.
 
+> **Hebrew/Aramaic:** סָבַר רַב יוֹסֵף לְמֵימַר: נִשְׁאָלִין נְדָרִים בְּשַׁבָּת, בְּיָחִיד מוּמְחֶה — אִין, בִּשְׁלֹשָׁה הֶדְיוֹטוֹת — לָא, מִשּׁוּם דְּמִתְחֲזֵי כְּדִינָא.
+> **Translation:** **Rav Yosef thought to say:** With regard to **requesting** that a halakhic authority dissolve **vows on Shabbat, yes,** requesting **of a single expert** is permitted on Shabbat, but requesting **of three laymen** is **not** permitted on Shabbat, **because it looks like** a court **judgment,** which may not be performed on Shabbat.
+
 ### Appearance Concern
+
 
 The reason *Rav Yosef* gives is *mishum d'michzei k'dina* — because three people sitting together to perform *hatara* looks like a full *beis din*. Even if the underlying act is permitted, it creates the appearance of conducting formal legal proceedings on *Shabbat*, which is itself problematic. Therefore, when we extend the *Shabbat* leniency, we extend it only in its least court-like form: a single expert. Three people — even lay people — is too suggestive of a *beis din* sitting in judgment.
 
 ### Abaye Refutes
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: כֵּיוָן דִּסְבִירָא לַן אֲפִילּוּ מְעוּמָּד, אֲפִילּוּ בִּקְרוֹבִים, וַאֲפִילּוּ בַּלַּיְלָה — לָא מִתְחֲזֵי כְּדִינָא.
->
-> **Translation:** **Abaye said to him: Since we hold** that vows may be dissolved **even** while the halakhic authority **is standing,** and **even by relatives, and even at night,** it **does not look like a judgment.** Since it is not regarded as an act of a court, vows may be dissolved on Shabbat even by three laymen.
-
 *Abaye* rejects *Rav Yosef*'s position. He argues that given what we know about the leniencies that apply to *hataras nedarim*, it simply cannot be said to look like a *beis din* at all — whether it involves one person or three. Since the very nature of *hataras nedarim* is manifestly not that of a formal court proceeding, the concern of *michzei k'dina* does not apply, and the three-*hedyotos* option remains available even on *Shabbat*.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: כֵּיוָן דִּסְבִירָא לַן אֲפִילּוּ מְעוּמָּד, אֲפִילּוּ בִּקְרוֹבִים, וַאֲפִילּוּ בַּלַּיְלָה — לָא מִתְחֲזֵי כְּדִינָא.
+> **Translation:** **Abaye said to him: Since we hold** that vows may be dissolved **even** while the halakhic authority **is standing,** and **even by relatives, and even at night,** it **does not look like a judgment.** Since it is not regarded as an act of a court, vows may be dissolved on Shabbat even by three laymen.
 
 ### Non-Formal Features
 
@@ -156,11 +159,14 @@ The reason *Rav Yosef* gives is *mishum d'michzei k'dina* — because three peop
 
 ### Conceptual Status
 
+
 This leads directly to a deeper conceptual question: is *hataras nedarim* fundamentally an act of a *beis din* — albeit with many procedural exceptions — or is it something categorically different from a *beis din* act altogether?
 
 One could argue that it remains a *beis din* act in essence, with certain relaxed procedures. After all, even in *Sanhedrin*, a *yachid mumcheh* is treated as equivalent to a full *beis din* in certain respects. Under this view, the departures from standard *beis din* procedure (standing, night, relatives) are explicable as exceptions, and one would need to account for each one. The act itself, however, remains a form of judicial proceeding.
 
 Alternatively — and this is the more radical position — the cumulative weight of these exceptions may prove that *hataras nedarim* is not a *beis din* act at all. This is particularly compelling with respect to relatives: it is impossible to constitute a *beis din* of relatives. Standing and nighttime are merely procedural variations; one could argue those remain within the range of *beis din* flexibility. But relatives? A *beis din* composed of relatives is no *beis din*. Their inclusion in *hataras nedarim* suggests that the process belongs to an entirely different category.
+
+A further question flows from this debate: does it matter, practically speaking, how the *hatara* is actually performed? Suppose the three participants happen to be unrelated, happen to convene during the day, and happen to sit formally while the petitioner stands before them — the whole proceeding looking exactly like a standard *beis din*. Does it follow that this is now impermissible, because the appearance-of-*beis-din* concern is triggered? The answer that emerges from the *Gemara* appears to be no. Either we say that since people generally know that *hataras nedarim* can be done in any number of informal ways, a formal-looking instance does not genuinely create the impression of a *beis din* — or we say that because *hataras nedarim* is fundamentally not a *ma'aseh beis din* at all, no particular performance of it constitutes one, regardless of how it appears externally. On either account, the leniency is not conditioned on actually exploiting the procedural exceptions; the exceptions themselves are what demonstrate the underlying nature of the act.
 
 Even if one concludes that it is not a *beis din* act, this does not mean it is entirely unrestricted on *Shabbat*. Even *hafarat nedarim* — which is certainly not a *beis din* act — is problematic on *Shabbat* for the separate reason that it effects a real change in status. *Hataras nedarim* similarly effects a change, and therefore remains something that requires specific *Shabbat* justification. The key insight is that once we recognize it is not a *beis din* act, the three-*hedyotos* option is no more problematic on *Shabbat* than the *yachid mumcheh* option, and *Abaye*'s refutation of *Rav Yosef* stands.
 
@@ -168,11 +174,15 @@ Even if one concludes that it is not a *beis din* act, this does not mean it is 
 
 ## Night/Standing/Relatives
 
+
+
 ### Rav's Silence
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא אָמַר רַב הוּנָא אָמַר רַב: הֲלָכָה, מְפִירִין נְדָרִים בַּלַּיְלָה. וְהָא מַתְנִיתִין הִיא: נָדְרָה בְּלֵילֵי שַׁבָּת! אֶלָּא אֵימָא: הֲלָכָה, נִשְׁאָלִין בַּלַּיְלָה. אֲמַר לֵיהּ רַבִּי אַבָּא לְרַב הוּנָא: אֲמַר רַב הָכִי? אֲמַר לֵיהּ: אִישְׁתִּיק. אֲמַר לֵיהּ: אִישְׁתִּיק קָא אָמְרַתְּ, אוֹ שָׁתֵי קָאָמְרַתְּ?
->
-> **Translation:** **Rabbi Abba said** that **Rav Huna said** that **Rav said:** The ***halakha*** is that **one can nullify vows at night.** The Gemara asks: **But this is** already stated in **the mishna:** If a woman **took a vow on Shabbat evening,** her father or husband can nullify the vow on Shabbat evening; why would Rav Huna need to state his *halakha*? **Rather, say** that Rav's ruling was as follows: The ***halakha*** is that **one can request** that a halakhic authority dissolve a vow **at night. Rabbi Abba said to Rav Huna: Did Rav say that?** Rav Huna **said to him:** Rav **was silent [*ishtik*]** when this ruling was stated in his presence. Rabbi Abba **said to him: Did you say: He was silent [*ishtik*],** indicating that he accepted this ruling, **or did you say:** He was **drinking [*shatei*],** and was therefore preoccupied, so that his silence did not necessarily indicate agreement?
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא אָמַר רַב הוּנָא אָמַר רַב: הֲלָכָה, מְפִירִין נְדָרִים בַּלַּיְלָה. וְהָא מַתְנִיתִין הִיא: נָדְרָה בְּלֵילֵי שַׁבָּת! אֶלָּא אֵימָא: הֲלָכָה, נִשְׁאָלִין בַּלַּיְלָה.
+> **Translation:** **Rabbi Abba said** that **Rav Huna said** that **Rav said:** The ***halakha*** is that **one can nullify vows at night.** The Gemara asks: **But this is** already stated in **the mishna:** If a woman **took a vow on Shabbat evening,** her father or husband can nullify the vow on Shabbat evening; why would Rav Huna need to state his *halakha*? **Rather, say** that Rav’s ruling was as follows: The ***halakha*** is that **one can request** that a halakhic authority dissolve a vow **at night.**
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי אַבָּא לְרַב הוּנָא: אֲמַר רַב הָכִי? אֲמַר לֵיהּ: אִישְׁתִּיק. אֲמַר לֵיהּ: אִישְׁתִּיק קָא אָמְרַתְּ, אוֹ שָׁתֵי קָאָמְרַתְּ?
+> **Translation:** **Rabbi Abba said to Rav Huna: Did Rav say that?** Rav Huna **said to him:** Rav **was silent [*ishtik*]** when this ruling was stated in his presence. Rabbi Abba **said to him: Did you say: He was silent [*ishtik*],** indicating that he accepted this ruling, **or did you say:** He was **drinking [*shatei*],** and was therefore preoccupied, so that his silence did not necessarily indicate agreement?
 
 The *Gemara* now records a tradition in the name of *Rav Abba*, who said in the name of *Rav Huna* in the name of *Rav*: the *halacha* is that *hataras nedarim* may be performed at night. The *Gemara* immediately challenges: is that not already explicit in the *mishnah*? After all, the *mishnah* permits *hafara* on Friday night — surely it is obvious that vow dissolution can occur at night. The *Gemara* therefore corrects the tradition: what *Rav* meant was not *hafarat nedarim* at night — that requires no demonstration — but *hataras nedarim* at night. That is the genuine *chiddush*: the process before a *chacham*, which resembles a *beis din* proceeding, may be performed at night.
 
@@ -180,17 +190,18 @@ Once this correction is made, *Rav Abba* turns to *Rav Huna* and asks: did *Rav*
 
 ### Standing Example
 
-> **Hebrew/Aramaic:** אָמַר רַב אִיקָא בַּר אָבִין: אִיזְדְּקִיק לֵיהּ רַב לְרַבָּה
->
-> **Translation:** In order to clarify Rav's opinion on the issue, the Gemara cites **Rav Ika bar Avin** who **said: Rav attended to** the dissolution of a vow made by **Rabba,**
+> **Hebrew/Aramaic:** אָמַר רַב אִיקָא בַּר אָבִין: אִיזְדְּקִיק לֵיהּ רַב לְרַבָּה
+> **Translation:** In order to clarify Rav’s opinion on the issue, the Gemara cites **Rav Ika bar Avin** who **said: Rav attended to** the dissolution of a vow made by **Rabba,**
+
+> **Hebrew/Aramaic:** בְּקִיטוֹנָא דְבֵי רַב, עוֹמֵד, יְחִידִי, וּבַלַּיְלָה.
+> **Translation:** **in** a side **room [*kitona*] of the study hall,** while **standing, alone and at night.**
 
 A second tradition resolves the question in practice. *Rav Ika bar Avin* reported that *Rav* himself had performed *hataras nedarim* for *Rabba* — in a small chamber of the *beis midrash* (*kituna d'vei Rav*), while standing, alone, and at night. Three features in a single act: standing, without the formal quorum of three, and at night. The "alone" element, it should be noted, is not necessarily problematic if *Rav* qualifies as a *yachid mumcheh*; the significant departures from *beis din* norms are the standing and the nighttime. This incident establishes that at least *Rav*'s practice embodied these leniencies, even if his explicit ruling had been ambiguous.
 
 ### Nachman Ruling
 
-> **Hebrew/Aramaic:** אָמְרָה רַבָּה אָמַר רַב נַחְמָן: נִשְׁאָלִין נְדָרִים עוֹמְדִים, יָחִיד, וּבַלַּיְלָה, וּבְשַׁבָּת, וּבִקְרוֹבִים, וַאֲפִילּוּ הָיָה לָהֶם פְּנַאי מִבְּעוֹד יוֹם.
->
-> **Translation:** In order to clarify Rav's opinion on the issue, the Gemara cites **Rav Ika bar Avin** who **said: Rav attended to** the dissolution of a vow made by **Rabba,** Consolidating the *halacha* explicitly: *nishalin nedarim omeid, yachidi, u'valayla, u'v'Shabbos, u'v'krovim* — *hataras nedarim* may be performed while standing, alone, at night, on *Shabbat*, and by relatives. The ruling on *Shabbat* still operates within the earlier framework — it appears to refer to cases of *letzorech Shabbat*, and the addition that this applies *va'afilu haya lahem pnai mib'od yom* — even if they had time before *Shabbat* — confirms that prior negligence does not forfeit the *Shabbat* leniency.
+> **Hebrew/Aramaic:** אָמַר רַבָּה אָמַר רַב נַחְמָן: הֲלָכָה, נִשְׁאָלִין נְדָרִים עוֹמֵד, יְחִידִי, וּבַלַּיְלָה, וּבַשַּׁבָּת, וּבִקְרוֹבִים, וַאֲפִילּוּ הָיָה לָהֶן פְּנַאי מִבְּעוֹד יוֹם.
+> **Translation:** **Rabba said** that **Rav Naḥman said:** The ***halakha*** is that **one can request** the dissolution of **vows** even when the halakhic authority is **standing** or **alone,** i.e., without a court of three, as long as he is a halakhic authority, **and** that one can do so **at night, on Shabbat, and by relatives, and even** when **those** requesting dissolution on Shabbat **had the opportunity** to do so **while it was still day,** i.e., before Shabbat.
 
 *Rabba* then said in the name of *Rav Nachman*, consolidating the *halacha* explicitly: *nishalin nedarim omeid, yachidi, u'valayla, u'v'Shabbos, u'v'krovim* — *hataras nedarim* may be performed while standing, alone, at night, on *Shabbat*, and by relatives. The ruling on *Shabbat* still operates within the earlier framework — it appears to refer to cases of *letzorech Shabbat*, and the addition that this applies *va'afilu haya lahem pnai mib'od yom* — even if they had time before *Shabbat* — confirms that prior negligence does not forfeit the *Shabbat* leniency.
 
@@ -202,9 +213,14 @@ The *Rambam*'s formulation is particularly clear and worth noting. He writes: *h
 
 ## Sitting vs Standing
 
+
+
 ### Gamliel Example
 
 The *Gemara* now raises a challenge from a famous story involving *Rabban Gamliel*. The *baraita* records that when *Rabban Gamliel* performed *hataras nedarim*, he dismounted from his donkey, wrapped himself in his *tallit*, and sat down — only then proceeding to release the *neder*. This appears to contradict the position that standing is permitted, since *Rabban Gamliel* took explicit care to sit.
+
+> **Hebrew/Aramaic:** עוֹמֵד? וְהָתַנְיָא: יָרַד רַבָּן גַּמְלִיאֵל מִן הַחֲמוֹר וְנִתְעַטֵּף וְיָשַׁב וְהִתִּיר לוֹ נִדְרוֹ. רַבָּן גַּמְלִיאֵל סָבַר: פּוֹתְחִין בַּחֲרָטָה. מִיעְקַר נִדְרָא בָּעִינַן, וּבָעֵי עַיּוֹנֵי, אַהָכִי יָשַׁב. וְרַב נַחְמָן סָבַר: אֵין פּוֹתְחִין בַּחֲרָטָה, וַאֲפִילּוּ מְעוּמָּד.
+> **Translation:** The Gemara raises a difficulty with this ruling: Can a judge dissolve a vow while **standing? But it is taught** in a *baraita* that **Rabban Gamliel alighted from a donkey, and wrapped himself** in his shawl in the customary manner of a judge, **and sat, and dissolved** a man’s **vow for him.** If one can dissolve a vow while standing, why did he sit? The Gemara explains: **Rabban Gamliel holds** that one must **broach** dissolution based **on regret.** In other words, a halakhic authority does not dissolve vows directly, but must prompt the one who took the vow to concede that he regrets having taken the vow in the first place. **We require that the vow be uprooted, and he needed to examine** the case; **therefore, he sat down. But Rav Naḥman holds** that one need **not broach** dissolution based **on regret, and** therefore a halakhic authority can dissolve the vow **even** while **standing.**
 
 ### Opening Method
 
@@ -213,6 +229,7 @@ The *Gemara* resolves this by invoking the dispute over *potchin b'charata*. The
 Under the latter view, real deliberation is required — not as a formal technical requirement for the *hatara* to take effect, but because the nature of the act demands that it be given proper weight and focus. *Rabban Gamliel*, who held this view, accordingly sat, wrapped himself in his *tallit*, and gave the matter his full and serious attention. Not because sitting is a formal *din*, but because proper deliberation practically requires it.
 
 ### Simple Regret
+
 
 *Rav Nachman*, who ruled that standing is permitted, held the position that simple regret suffices. If all that is needed is for the person to express regret — *are you sorry you made this vow? yes, fine, mutar lach* — then there is no need for deep deliberation, and therefore no need to sit. One can stand, or even occupy oneself with other things, because the act is so simple and direct that it does not require focused concentration. This is what the *Rosh* suggests is the proper context for the earlier account of *Chiyya bar Rav*, who performed *hataras nedarim* while shooting arrows, and *Rabba bar Rav Huna*, who moved around the room without full concentration: those stories belong precisely here, illustrating what it looks like when the *potek b'charata* approach is taken to its logical conclusion.
 
@@ -226,27 +243,31 @@ The *Rashba* offers a nuanced position. He acknowledges that *potchin b'charata*
 
 The *Ran* is unpersuaded. He writes explicitly: *v'lo yaradeti l'ta'amo* — I do not follow his reasoning, and since I do not understand it, I cannot rule accordingly. The *Ran*'s position is that once actual deliberation becomes necessary — once one must truly probe and investigate — the practical requirement of sitting and focusing applies. Whatever was done standing before does not carry forward to justify standing through a phase of the process that genuinely requires concentration. The mode of the proceeding must match the demands of what is being done at each moment.
 
+It is worth pausing to clarify what the *Rashba* may actually have meant, because the *Ran*'s critique risks obscuring a genuine conceptual distinction. The *Rashba* appears to be differentiating between a formal requirement and a practical one. As a formal matter, *hataras nedarim* carries no inherent requirement of sitting, since at its core — *ikar dina* — it can be completed through the simplest possible exchange: are you *nitcharet*, do you regret? *Mutar lach*. That is the whole thing, and it can be done standing. The formal character of the proceeding is therefore established as one that standing suffices for. If, as events unfold, genuine probing becomes necessary, this does not alter the formal classification of the act — it simply means that practically, one must pay adequate attention, and if sitting is what allows that person to concentrate, then one should sit for that reason. Sitting in such a case is a function of cognitive need, not of a new formal requirement that has been triggered. The *Ran* responds that this distinction does not hold: once you are in a phase that demands deliberation, the practical and the formal converge, and you must sit.
+
 ---
 
 ## Vow as Sin
+
+
 
 ### Prayer Needed
 
 The *Gemara* closes with a striking moral teaching occasioned by a real case. *Rava* reported to *Rav Nachman*: a rabbi who had come from *Eretz Yisrael* said that the rabbis had performed *hataras nedarim* for the son of *Rav Huna bar Avin*, dissolving his *neder*, and then said to him: *zil u'vei rachmei a'nafshecha de'chatat* — go and pray for your soul, for you have sinned. This is remarkable. The *hatara* was successful; the *neder* was dissolved and, retroactively speaking, never truly bound him. Yet the rabbis told him to pray for his soul for having sinned.
 
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא לְרַב נַחְמָן: חֲזִי מָר הַאי מֵרַבָּנַן דַּאֲתָא מִמַּעְרְבָא וְאָמַר: אִיזְדְּקִיקוּ לֵיהּ רַבָּנַן לִבְרֵיהּ דְּרַב הוּנָא בַּר אָבִין, וּשְׁרוֹ לֵיהּ נִדְרֵיהּ וַאֲמַרוּ לֵיהּ: זִיל וּבְעִי רַחֲמֵי עַל נַפְשָׁךְ דַּחֲטָאת. דְּתָנֵי רַב דִּימִי אֲחוּהּ דְּרַב סָפְרָא: כׇּל הַנּוֹדֵר, אַף עַל פִּי שֶׁהוּא מְקַיְּימוֹ — נִקְרָא חוֹטֵא. אָמַר רַב זְבִיד: מַאי קְרָא — ״וְכִי תֶחְדַּל לִנְדֹּר לֹא יִהְיֶה בְךָ חֵטְא״, הָא לֹא חָדַלְתָּ — אִיכָּא חֵטְא.
+> **Translation:** **Rava said to Rav Naḥman: Master, see that Sage who came from the West,** Eretz Yisrael, **and** who **said: The Sages attended to** the dissolution of a vow taken by **the son of Rav Huna bar Avin, and they dissolved his vow and said to him: Go and request mercy for yourself, for you have sinned** by taking a vow. **As Rav Dimi, the brother of Rav Safra teaches:** With regard to **anyone who takes a vow, even if he fulfills it, he is called a sinner. Rav Zevid said: What verse** teaches this? It is: **“But if you refrain to vow, it will be no sin in you”** (Deuteronomy 23:23). It may be inferred **that** if **you did not refrain** from taking vows, **there is sin.**
+
 ### Sinner Status
+
 
 The *Gemara* grounds this in a *baraita* of *Rabbi Dimmi*, brother of *Rav Safra*: *kol ha'noder, af al pi she'mekayemo, nikra chotei* — anyone who makes a *neder*, even if he fulfills it, is called a sinner. One might note that the *Gemara* could have cited the more vivid formulation — *kol ha'noder ke'ilu banah bamah*, he who makes a vow is as one who built an *illicit altar* — where the *Ran* explains that fulfilling the vow is even worse, analogous to actually sacrificing upon it. But the formulation chosen here makes a distinct point: even the act of making the *neder*, independent of fulfillment or violation, is itself sinful. In the case at hand, the *neder* was dissolved — and yet the moral stain of having made it remained. The rabbis were right to tell the young man to pray.
 
 ### Cease Making Vows
 
-*Rav Zvid* then adds a verse in support: *ve'ki techdal lindor lo yihyeh vecha cheit* — if you cease from making vows, there will be no sin in you. The logical inference is clear: if you do not cease, there is sin — *even if you fulfill* the vow. And with even greater force: if the *neder* is dissolved through *hatara* and technically never existed in a halachic sense, the underlying act of having made it is still a moral failing that requires *tefillah* and seeking forgiveness.
+*Rav Zvid* then adds a verse in support: *ve'ki techdal lindor lo yihyeh vecha cheit* — if you cease from making vows, there will be no sin in you. The logical inference is clear: if you do not cease, there is sin — *even if you fulfill* the vow. And with even greater force: if the *neder* is dissolved through *hatara* and technically never existed in a halachic sense, the underlying act of having made it is still a moral failing that requires *tefillah* and seeking forgiveness. What is striking is that the verse does not merely address violation or even fulfillment — it locates the sin in the very orientation toward making a *neder* in the first place. The cessation the verse calls for is not a remedy after the fact but a wholesale turning away from the practice itself, which is what makes *hatara* insufficient to fully cleanse the matter: halachically the *neder* may be erased, but the disposition that produced it has not yet been addressed.
 
 ### Qiyyum vs Hafara
-
-> **Hebrew/Aramaic:** תַּנְיָא: אִם אָמַר לָהּ: כׇּל שֶׁתִּדְרִי — לֹא רָצִיתִי שֶׁתִּדְרִי, אוֹ: אֵינוֹ נִדָּר — לֹא אָמַר כְּלוּם. אִם אָמַר: יָפֶה, אֵין כָּמוֹךָ — לוּ לֹא נָדַרְתְּ, הִנַּחְתִּי לָךְ — דְּבָרָיו קַיָּמִים.
->
-> **Translation:** The *Gemara* closes with a *baraita* that draws an important distinction between *qiyyum* — ratification — and *hafara* — annulment. **If [the husband] said to her: 'Anything you vow, I did not want you to vow,' or 'it is not a vow,'** meaning he is trying to declare it annulled, **he has said nothing.** This is not a valid *hafara*. Expressing displeasure is not annulment; declaring that the *neder* is not a *neder* does not change the fact that it is one. *Hafara* requires a formal, active act of annulment with precise language. **If [the husband] said: 'Well done, there is none like you — had you not vowed, I would have made [vows] for you,'** then **his words are ratified.** His words constitute a valid *qiyyum*, a ratification of the vow.
 
 The *Gemara* closes with a *baraita* that draws an important distinction between *qiyyum* — ratification — and *hafara* — annulment. If a husband says to his wife: "Any vows that you make, I do not want you to make them" — or "they are not vows" — *lo amar klum*: he has said nothing. This is not a valid *hafara*. Expressing displeasure is not annulment; declaring that the *neder* is not a *neder* does not change the fact that it is one. *Hafara* requires a formal, active act of annulment with precise language.
 

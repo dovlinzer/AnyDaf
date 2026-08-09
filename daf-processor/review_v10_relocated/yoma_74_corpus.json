@@ -1,0 +1,355 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Mushba Ve'Omed: Rabbinic",
+    "candidates": [
+      "Perek Introduction",
+      "Mishnah Language",
+      "Yochanan vs. Reish Lakish",
+      "Shvua and Treifot",
+      "Kulel Explanation",
+      "Reish Lakish Alternative",
+      "Rabbi Akiva View",
+      "Mushba Ve'Omed: Rabbinic",
+      "Keivan D'Is Heter",
+      "Shvuat Ha'edut",
+      "Mishnah: Eligible Witness",
+      "Le'ma'utei Mai",
+      "Rav Papa: King",
+      "Rav Acha: Gamblers",
+      "Gamblers Disqualified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents the challenge to Reish Lakish about whether rabbinic prohibition should block the oath (matching 'Mushba Ve'Omed: Rabbinic'), with the Rav Papa / king content being part of the same argumentative unit that the gemara introduces to probe this question \u2014 the current placement at index 7 captures the opening of this challenge, while the subsequent headings 8-12 break it into further sub-stages.",
+      "chosen_heading": "Mushba Ve'Omed: Rabbinic",
+      "current_heading": "Mushba Ve'Omed: Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Gamblers Disqualified",
+    "candidates": [
+      "Keivan D'Is Heter",
+      "Shvuat Ha'edut",
+      "Mishnah: Eligible Witness",
+      "Le'ma'utei Mai",
+      "Rav Papa: King",
+      "Rav Acha: Gamblers",
+      "Gamblers Disqualified",
+      "Paradox Raised",
+      "Verse Requires Ability",
+      "Practical vs. Theoretical",
+      "Food Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Ya'akov's statement that the phrase 'eligible to testify' excludes dice players (mesachek b'kivya) who are rabbinically disqualified, which is exactly what heading 5 'Rav Acha: Gamblers' describes.",
+      "chosen_heading": "Rav Acha: Gamblers",
+      "current_heading": "Gamblers Disqualified",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Food Application",
+    "candidates": [
+      "Paradox Raised",
+      "Verse Requires Ability",
+      "Practical vs. Theoretical",
+      "Food Application",
+      "Principle Established",
+      "Braisah Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the verse 'im lo yagid' and the conclusion that this person cannot testify at all, which is precisely what the 'Verse Requires Ability' section discusses.",
+      "chosen_heading": "Verse Requires Ability",
+      "current_heading": "Food Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Braisah Text",
+    "candidates": [
+      "Principle Established",
+      "Braisah Text",
+      "Different Weights",
+      "Chatzi Shiur: Assur Only",
+      "Assur Justification",
+      "Braisah Clarifies",
+      "Inuyim Introduction",
+      "Sifrei and Shabbaton"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the baraita challenge to the principle (matching 'Braisah Text' prose) and the gemara's reinterpretation invoking chatzi shiur (matching 'Chatzi Shiur' prose), but as a single unified textual item it belongs under the heading whose prose most directly introduces and frames this exact baraita and its challenge \u2014 which is candidate 1, 'Braisah Text', where the current placement already sits.",
+      "chosen_heading": "Braisah Text",
+      "current_heading": "Braisah Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Sifrei and Shabbaton",
+    "candidates": [
+      "Different Weights",
+      "Chatzi Shiur: Assur Only",
+      "Assur Justification",
+      "Braisah Clarifies",
+      "Inuyim Introduction",
+      "Sifrei and Shabbaton",
+      "Sifrei D'vei Rav",
+      "Sifra and Torat Kohanim",
+      "Rashi's Parallel",
+      "Biblical or Rabbinic?",
+      "Rambam and Ramban",
+      "Ramban vs. Rambam",
+      "Debate Restated",
+      "Chazi L'Itztarufei",
+      "Act of Eating",
+      "Model One: Transgression",
+      "Model Two: Act Itself",
+      "Model Implications",
+      "Challenge Presented",
+      "Kol and Non-Punishment",
+      "Koy and Chatzi Shiur",
+      "Response: Rabbinic",
+      "Koy Question",
+      "Koy Its Own Category",
+      "Dam Parallel",
+      "Foods Only?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 'if you wish say' alternative explanation \u2014 ki tani assur asha'ara \u2014 that the mishnah uses 'assur' because it fits the other items on the list (bathing, anointing, sandals, relations), which is precisely what candidate 2 'Assur Justification' describes in its prose.",
+      "chosen_heading": "Assur Justification",
+      "current_heading": "Sifrei and Shabbaton",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Foods Only?",
+    "candidates": [
+      "Sifrei D'vei Rav",
+      "Sifra and Torat Kohanim",
+      "Rashi's Parallel",
+      "Biblical or Rabbinic?",
+      "Rambam and Ramban",
+      "Ramban vs. Rambam",
+      "Debate Restated",
+      "Chazi L'Itztarufei",
+      "Act of Eating",
+      "Model One: Transgression",
+      "Model Two: Act Itself",
+      "Model Implications",
+      "Challenge Presented",
+      "Kol and Non-Punishment",
+      "Koy and Chatzi Shiur",
+      "Response: Rabbinic",
+      "Koy Question",
+      "Koy Its Own Category",
+      "Dam Parallel",
+      "Foods Only?",
+      "Generic or Subcategory?",
+      "Ramban's Question",
+      "Issur Cheftza",
+      "State Not Object",
+      "Conceptual Challenge",
+      "Te'anu Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items constitute the core Gemara debate between Rabbi Yochanan and Reish Lakish on chatzi shiur \u2014 the dispute itself, Rabbi Yochanan's objection from the baraita, and the resolution involving the koy \u2014 which is precisely what candidate 6 ('Debate Restated') introduces as the gemara returning 'gufa' to this dispute.",
+      "chosen_heading": "Debate Restated",
+      "current_heading": "Foods Only?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Te'anu Meaning",
+    "candidates": [
+      "Generic or Subcategory?",
+      "Ramban's Question",
+      "Issur Cheftza",
+      "State Not Object",
+      "Conceptual Challenge",
+      "Te'anu Meaning",
+      "First Braisah",
+      "Refraining Logic",
+      "No Distinction",
+      "Rashi: Passive Active"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita that asks what 'te'anu' means and whether it could mean sitting in the sun or cold, directly matching heading 5's prose which asks exactly this question about the source and meaning of the Yom Kippur affliction prohibition.",
+      "chosen_heading": "Te'anu Meaning",
+      "current_heading": "Te'anu Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Rashi: Passive Active",
+    "candidates": [
+      "First Braisah",
+      "Refraining Logic",
+      "No Distinction",
+      "Rashi: Passive Active",
+      "Activity Standard",
+      "Piggul and Notar",
+      "Expanding Punishment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Distinction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection of distinguishing between comfortable and uncomfortable situations, matching 'No Distinction' prose which explicitly discusses the argument that one might preserve active inui in certain cases and the Gemara's rejection via the melachah parallel.",
+      "second_heading": "Activity Standard",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a second baraita deriving inui via the criterion that melachah is punishable elsewhere, matching 'Activity Standard' prose which explicitly describes this second baraita and its reasoning that inui must be an activity punishable in other halachic contexts.",
+      "current_heading": "Rashi: Passive Active",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159
+    ],
+    "current_heading": "Expanding Punishment",
+    "candidates": [
+      "Activity Standard",
+      "Piggul and Notar",
+      "Expanding Punishment",
+      "Neveilah Inclusion",
+      "All Foods Included",
+      "Obligatory Foods",
+      "Kodashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items continue the baraita's expansion via the double language of te'anu ve'inisem \u2014 item 1 extends from piggul/notar (karet) to tevel (mita biyedei shamayim), and item 2 extends from tevel (mita) to neveilah (no mita), precisely what the 'Expanding Punishment' prose describes as broadening the operative category of prohibited eating through doubled expression.",
+      "chosen_heading": "Expanding Punishment",
+      "current_heading": "Expanding Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      169,
+      170,
+      171
+    ],
+    "current_heading": "Kodashim",
+    "candidates": [
+      "Neveilah Inclusion",
+      "All Foods Included",
+      "Obligatory Foods",
+      "Kodashim",
+      "Verse Quoted",
+      "Body Wasting",
+      "Loss of Calories",
+      "Question Raised",
+      "Arayos Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "All Foods Included",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 continue the baraita's inclusion of neveilah, non-sacred food, teruma, and kodashim through the expansive te'anu language, matching the 'All Foods Included' and subsequent headings \u2014 but most precisely, item 1 fits 'All Foods Included' (neveilah/chulin inclusion) and item 2 fits 'Obligatory Foods'/'Kodashim'; since they span multiple headings but item 1 starts with neveilah/chulin and item 2 ends with kodashim, the best single heading covering both is 'All Foods Included' (index 1), as it frames the overall arc of including all food categories.",
+      "second_heading": "Verse Quoted",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the alternative verse 've'ha'avadeti et hanefesh hahi' as a proof that inui means refraining from eating and drinking, which matches exactly the 'Verse Quoted' heading (index 4) describing the gemara presenting this alternative source.",
+      "current_heading": "Kodashim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      185
+    ],
+    "current_heading": "Arayos Problem",
+    "candidates": [
+      "Verse Quoted",
+      "Body Wasting",
+      "Loss of Calories",
+      "Question Raised",
+      "Arayos Problem",
+      "Arayos Excluded",
+      "Gezerah Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage addresses the objection that the verse might refer to arayot rather than eating and drinking, which is precisely what the 'Arayos Problem' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Arayos Problem",
+      "current_heading": "Arayos Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      191
+    ],
+    "current_heading": "Gezerah Shava",
+    "candidates": [
+      "Arayos Excluded",
+      "Gezerah Shava",
+      "Inui Re'avon",
+      "Starving Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the gezerah shava derivation from Rabbi Yishmael's school, which matches the prose of heading 1 that explicitly describes this as a gezerah shava based on the word inui appearing in two contexts.",
+      "chosen_heading": "Gezerah Shava",
+      "current_heading": "Gezerah Shava",
+      "moved": false
+    }
+  }
+]

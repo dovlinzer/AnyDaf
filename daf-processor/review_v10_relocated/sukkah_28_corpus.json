@@ -1,0 +1,263 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Verse-Based Reasoning",
+    "candidates": [
+      "14 Meals in Sukkah",
+      "Collapsed Sukkah Rebuilt",
+      "Verse-Based Reasoning",
+      "Tosafos Ownership",
+      "Rabbis' Counter-Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the verse-based reasoning behind Rabbi Eliezer's position \u2014 the derivation from 'chag hasukkos ta'ase lecha shivas yamim' requiring a seven-day sukkah, the collapsed sukkah exception, and the parallel to lulav ownership \u2014 which is precisely what the 'Verse-Based Reasoning' prose section describes.",
+      "chosen_heading": "Verse-Based Reasoning",
+      "current_heading": "Verse-Based Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Rabbis' Counter-Verse",
+    "candidates": [
+      "Tosafos Ownership",
+      "Rabbis' Counter-Verse",
+      "No Holiday Visits",
+      "Praise for Staying Home",
+      "Household Rejoicing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Rabbis' Counter-Verse' explicitly summarizes all three items: the Rabbis' position on borrowing a sukkah with the kol ha'ezrach proof, the Gemara's question about what the Rabbis do with 'lecha' (excluding stolen sukkah), and what Rabbi Eliezer does with kol ha'ezrach (convert and minor who came of age during Sukkos), matching the current placement exactly.",
+      "chosen_heading": "Rabbis' Counter-Verse",
+      "current_heading": "Rabbis' Counter-Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Household Rejoicing",
+    "candidates": [
+      "No Holiday Visits",
+      "Praise for Staying Home",
+      "Household Rejoicing",
+      "Heard from Rebbe Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya about greeting one's teacher on the festival versus staying home with one's household, including the proof from Rabbi Yitzchak and the Gemara's resolution \u2014 all of which is precisely what candidate 2 ('Household Rejoicing') discusses in its prose.",
+      "chosen_heading": "Household Rejoicing",
+      "current_heading": "Household Rejoicing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Heard from Rebbe Only",
+    "candidates": [
+      "Heard from Rebbe Only",
+      "Tent-Making Analysis",
+      "Window Stopper Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together narrate the complete story of Rabbi Eliezer in Yochanan bar Rabbi Ilai's sukkah \u2014 including his deflections, his walking out, and the follow-up question about leaving one sukkah for another \u2014 which is precisely what the 'Heard from Rebbe Only' prose describes in full.",
+      "chosen_heading": "Heard from Rebbe Only",
+      "current_heading": "Heard from Rebbe Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Window Stopper Case",
+    "candidates": [
+      "Tent-Making Analysis",
+      "Window Stopper Case",
+      "30 Sukkah Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain discussing the window-stopper mishna and the distinction between negating (mevatel) vs. not negating, which is exactly what the 'Window Stopper Case' prose describes in detail, including the hatam/hacha mevatel resolution.",
+      "chosen_heading": "Window Stopper Case",
+      "current_heading": "Window Stopper Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "30 Sukkah Laws",
+    "candidates": [
+      "30 Sukkah Laws",
+      "Always in Beis Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Rabbi Eliezer being asked thirty sukkah halachot and his responses of twelve/eighteen heard vs. not heard, which is precisely what the '30 Sukkah Laws' section prose discusses.",
+      "chosen_heading": "30 Sukkah Laws",
+      "current_heading": "30 Sukkah Laws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Always in Beis Midrash",
+    "candidates": [
+      "Always in Beis Midrash",
+      "Yochanan Ben Zakkai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer's personal conduct in the beis midrash \u2014 arriving first, never sleeping, never leaving before others, no idle talk, never saying anything not heard from his teacher \u2014 which is precisely what the 'Always in Beis Midrash' section's prose analyzes in detail.",
+      "chosen_heading": "Always in Beis Midrash",
+      "current_heading": "Always in Beis Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Yochanan Ben Zakkai",
+    "candidates": [
+      "Yochanan Ben Zakkai",
+      "Yonatan ben Uziel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the middos of Rabban Yochanan ben Zakkai and notes Rabbi Eliezer followed his example, which directly matches the prose under heading 0 ('Yochanan Ben Zakkai') that explicitly discusses each of these same traits in detail.",
+      "chosen_heading": "Yochanan Ben Zakkai",
+      "current_heading": "Yochanan Ben Zakkai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Yonatan ben Uziel",
+    "candidates": [
+      "Yonatan ben Uziel",
+      "Exempt Groups"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Yonatan ben Uziel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are about Hillel's eighty students, Rabban Yochanan ben Zakkai's mastery, and Yonatan ben Uzziel's greatness \u2014 all covered in detail in the 'Yonatan ben Uziel' prose section.",
+      "second_heading": "Exempt Groups",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is a new Mishna (marked 'MISHNA:') introducing a completely different topic \u2014 the dispute between Beit Shammai and Beit Hillel about sitting in the sukka with one's head inside and table outside \u2014 matching the 'Exempt Groups' section's context of sukkah obligations.",
+      "current_heading": "Yonatan ben Uziel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Exempt Groups",
+    "candidates": [
+      "Exempt Groups",
+      "Shammai Stringency",
+      "Verse Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the general exemption ruling (women, slaves, minors) and the Shammai story, and candidate 0's prose explicitly discusses both the exemption rule and the minor obligation that leads into the Shammai incident, making it the natural home for the full mishna unit.",
+      "chosen_heading": "Exempt Groups",
+      "current_heading": "Exempt Groups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Verse Exclusions",
+    "candidates": [
+      "Shammai Stringency",
+      "Verse Exclusions",
+      "Yom Kippur Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving exemptions from 'ha'ezrach' (excluding women) and 'kol' (including minors), which is precisely what the 'Verse Exclusions' prose section describes.",
+      "chosen_heading": "Verse Exclusions",
+      "current_heading": "Verse Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Yom Kippur Comparison",
+    "candidates": [
+      "Yom Kippur Comparison",
+      "Minors Chinuch Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items discuss the same continuous Gemara analysis about whether women's exemption from sukkah is a halakha or verse-derived, why special derivations are needed, and the inclusion of converts and tosefet inuy for Yom Kippur \u2014 all of which matches precisely the 'Yom Kippur Comparison' prose.",
+      "chosen_heading": "Yom Kippur Comparison",
+      "current_heading": "Yom Kippur Comparison",
+      "moved": false
+    }
+  }
+]

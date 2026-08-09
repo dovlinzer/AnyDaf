@@ -1,0 +1,235 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Benefit Forbidden",
+      "Tanna Kamma",
+      "Rabbi Akiva",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Akiva's ruling about nullifying the vow due to potential excess production (hadafah), which is precisely what the 'Rabbi Akiva' section's prose discusses.",
+      "chosen_heading": "Rabbi Akiva",
+      "current_heading": "Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Shmuel's Ruling",
+      "Hekdesh Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan ben Nuri's statement about nullifying the vow lest he divorce her, which is exactly what heading 0's prose discusses and analyzes in detail.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Hekdesh Challenge",
+    "candidates": [
+      "Shmuel's Ruling",
+      "Hekdesh Challenge",
+      "Konamos Different"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion of the contradiction between Shmuel's two rulings (halakha like Rabbi Yochanan ben Nuri vs. halakha like Rabbi Yochanan HaSandlar regarding davar shelo ba l'olam) and the rejection of the narrow reading of Shmuel's ruling, which is precisely what the 'Hekdesh Challenge' prose describes in detail.",
+      "chosen_heading": "Hekdesh Challenge",
+      "current_heading": "Hekdesh Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Konamos Different",
+    "candidates": [
+      "Konamos Different",
+      "Abaye Challenge",
+      "Physical Hands"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Konamos Different",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's 'shani konamos' resolution, which is precisely what heading 0's prose describes and concludes with the note that Abaye is 'about to press' a challenge.",
+      "second_heading": "Abaye Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's challenge to Rav Yosef \u2014 the 'bishlama adam oser peiros chaveiro alav' argument \u2014 which is exactly what heading 1's prose describes in detail.",
+      "current_heading": "Konamos Different",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Physical Hands",
+    "candidates": [
+      "Abaye Challenge",
+      "Physical Hands",
+      "Field Analogy",
+      "Yirmiyah Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Physical Hands",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 directly correspond to the 'Physical Hands' section prose, which explicitly discusses Rav Huna's answer about the hands being in the world and the subsequent challenge about the husband's lien and the 'likh'she-tisgaresh' contingency.",
+      "second_heading": "Field Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Ila's field analogy, which is precisely what the 'Field Analogy' section prose describes \u2014 someone pre-sanctifying a field before selling it, with effect deferred to repurchase.",
+      "current_heading": "Physical Hands",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Yirmiyah Challenge",
+    "candidates": [
+      "Field Analogy",
+      "Yirmiyah Challenge",
+      "Collateral Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiyah's objection challenging the field analogy, which is exactly what the 'Yirmiyah Challenge' section's prose describes.",
+      "chosen_heading": "Yirmiyah Challenge",
+      "current_heading": "Yirmiyah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Collateral Analogy",
+    "candidates": [
+      "Collateral Analogy",
+      "Control Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's objection and collateral analogy, which is precisely what the 'Collateral Analogy' prose section describes.",
+      "chosen_heading": "Collateral Analogy",
+      "current_heading": "Collateral Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Control Objection",
+    "candidates": [
+      "Control Objection",
+      "No End-Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sheisha's objection about the woman lacking power to divorce herself and his refined analogy of the ten-year pledged field, which exactly matches the 'Control Objection' prose discussion.",
+      "chosen_heading": "Control Objection",
+      "current_heading": "Control Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "No End-Point",
+    "candidates": [
+      "No End-Point",
+      "Identity Transform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's objection about the lack of a fixed end-point for a woman's marriage, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "No End-Point",
+      "current_heading": "No End-Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Identity Transform",
+    "candidates": [
+      "Identity Transform",
+      "Slave Example",
+      "Hekdesh Chametz",
+      "Divorce Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's resolution \u2014 item 1 states that konamot are like kedushat haguf, and item 2 provides Rava's supporting principle \u2014 which is precisely what the 'Identity Transform' prose discusses in detail.",
+      "chosen_heading": "Identity Transform",
+      "current_heading": "Identity Transform",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Divorce Question",
+    "candidates": [
+      "Slave Example",
+      "Hekdesh Chametz",
+      "Divorce Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why Rabbi Yochanan ben Nuri's reason mentions divorce if the konam takes effect immediately, and the answer to teach 've'od shema yigarshena,' which is precisely what the 'Divorce Question' prose section describes.",
+      "chosen_heading": "Divorce Question",
+      "current_heading": "Divorce Question",
+      "moved": false
+    }
+  }
+]

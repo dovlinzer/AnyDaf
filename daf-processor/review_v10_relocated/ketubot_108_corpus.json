@@ -1,0 +1,222 @@
+[
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Tosafot summary",
+    "candidates": [
+      "Third-party provisions",
+      "No reimbursement owed",
+      "BKG: oath required",
+      "Dosa & Yochanan",
+      "Michael's question",
+      "Lawn/field examples",
+      "Property vs. obligation",
+      "Lion analogy",
+      "Policy difference",
+      "Tosafot summary",
+      "Half-shekel case",
+      "Three actions",
+      "Lost object payment",
+      "Hekdesh solution",
+      "Rashi/Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishna introducing the third-party provision case \u2014 \u1e24anan's ruling and the dissenting opinions \u2014 which is precisely what candidate 0 ('Third-party provisions') describes as its topic, introducing the scenario of a husband overseas and a third party sustaining his wife.",
+      "chosen_heading": "Third-party provisions",
+      "current_heading": "Tosafot summary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Rashi/Tosafot",
+    "candidates": [
+      "Half-shekel case",
+      "Three actions",
+      "Lost object payment",
+      "Hekdesh solution",
+      "Rashi/Tosafot",
+      "Oshaya attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the opening of the Nedarim mishna and the beginning of the Gemara's discussion of it \u2014 exactly what heading 0 ('Half-shekel case') describes as introducing the *mudar hanaah* scenario and its permitted actions, before the essay's later headings break out the individual sub-cases and Rashi/Tosafot analysis.",
+      "chosen_heading": "Half-shekel case",
+      "current_heading": "Rashi/Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Oshaya attribution",
+    "candidates": [
+      "Rashi/Tosafot",
+      "Oshaya attribution",
+      "Direct/indirect",
+      "Storekeeper analogy",
+      "Rava challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Oshaya's attribution of the debt-repayment ruling to Chanan, which is precisely what the 'Oshaya attribution' section's prose introduces and discusses.",
+      "chosen_heading": "Oshaya attribution",
+      "current_heading": "Oshaya attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rava challenge",
+    "candidates": [
+      "Direct/indirect",
+      "Storekeeper analogy",
+      "Rava challenge",
+      "Daughters/sons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss Rava's challenge regarding a loan borrowed on condition it need not be repaid, and Rav Oshaya's rebuttal based on the shame/embarrassment benefit \u2014 exactly the content described in the 'Rava challenge' prose section.",
+      "chosen_heading": "Rava challenge",
+      "current_heading": "Rava challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Daughters/sons",
+    "candidates": [
+      "Daughters/sons",
+      "Admon objects",
+      "Abaye misreading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers both the general rule about large/small estates AND Admon's objection and Rabban Gamliel's endorsement, and candidate 0's prose explicitly introduces all these elements as a unified passage about the first of Admon's seven rulings.",
+      "chosen_heading": "Daughters/sons",
+      "current_heading": "Daughters/sons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Abaye misreading",
+    "candidates": [
+      "Admon objects",
+      "Abaye misreading",
+      "Rava response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's specific interpretation of Admon's complaint (being male and fit for Torah study), which is exactly what the 'Abaye misreading' section's prose discusses.",
+      "chosen_heading": "Abaye misreading",
+      "current_heading": "Abaye misreading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rava response",
+    "candidates": [
+      "Rava response",
+      "Tosafot reinterpret",
+      "Jugs claim",
+      "Admon: oath required",
+      "Chakhamim: no oath",
+      "Two vs. one claim",
+      "Measurement language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's rejection of the Torah-learning interpretation and his reformulation of Admon's argument about males and large vs. small estates, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rava response",
+      "current_heading": "Rava response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Measurement language",
+    "candidates": [
+      "Tosafot reinterpret",
+      "Jugs claim",
+      "Admon: oath required",
+      "Chakhamim: no oath",
+      "Two vs. one claim",
+      "Measurement language",
+      "Ravina challenge",
+      "Language inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The passage covers the full sugya from Mishna through final resolution, and heading 5 ('Measurement language') is the most comprehensive section whose prose explicitly discusses the core content of items 4\u20138, including Rav Yehuda's distinctions, Rava's three formulations, the Rabbi Chiya bar Abba tension, and the pomegranate analogy that dominates the middle portion of the passage.",
+      "chosen_heading": "Measurement language",
+      "current_heading": "Measurement language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Language inclusion",
+    "candidates": [
+      "Ravina challenge",
+      "Language inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Admon/Rabbis debate about whether 'this expression includes pitchers' and the gilgul shevuah extension, which is exactly what the 'Language inclusion' prose section describes and analyzes.",
+      "chosen_heading": "Language inclusion",
+      "current_heading": "Language inclusion",
+      "moved": false
+    }
+  }
+]

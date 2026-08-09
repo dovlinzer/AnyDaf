@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav vs. Rav Assi",
+    "candidates": [
+      "Father Travels Abroad",
+      "Rav vs. Rav Assi",
+      "Okki Mamona B'Chezkas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav vs. Rav Assi dispute about teruma and the concluding incident where Rav deferred to Rav Assi, which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "Rav vs. Rav Assi",
+      "current_heading": "Rav vs. Rav Assi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Okki Mamona B'Chezkas",
+    "candidates": [
+      "Okki Mamona B'Chezkas",
+      "Terumah vs. Yerusha",
+      "Kiddushin Yes, Nisuin No",
+      "Silence: Approval/Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav's concession about inheritance and the principle of 'oki mamona b'chezkas mareih,' which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Okki Mamona B'Chezkas",
+      "current_heading": "Okki Mamona B'Chezkas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Silence: Approval/Object",
+    "candidates": [
+      "Terumah vs. Yerusha",
+      "Kiddushin Yes, Nisuin No",
+      "Silence: Approval/Object",
+      "Both Acts Unknown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rav Huna and Rav Yirmeya bar Abba about the case where kiddushin was with the father's consent but nisuin was without it and the father is present \u2014 which is precisely what candidate 1 ('Kiddushin Yes, Nisuin No') introduces, while candidate 2 ('Silence: Approval/Object') already contains the full explanatory prose for these same items, meaning the passage is currently placed one heading too late.",
+      "chosen_heading": "Kiddushin Yes, Nisuin No",
+      "current_heading": "Silence: Approval/Object",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Both Acts Unknown",
+    "candidates": [
+      "Silence: Approval/Object",
+      "Both Acts Unknown",
+      "Nachas B'Ma'aseh",
+      "Bein Hi U'Vein Aviha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Both Acts Unknown",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dispute between Rav Huna and Rav Yirmeya bar Abba and Ulla's sharp critique, which is exactly what the 'Both Acts Unknown' prose describes.",
+      "second_heading": "Nachas B'Ma'aseh",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's defense of Rav Huna via the 'orphan in the lifetime of the father' rationale, which is precisely what the 'Nachas B'Ma'aseh' prose elaborates.",
+      "current_heading": "Both Acts Unknown",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Bein Hi U'Vein Aviha",
+    "candidates": [
+      "Nachas B'Ma'aseh",
+      "Bein Hi U'Vein Aviha",
+      "Shtika vs. Micha",
+      "Daughter's Miun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav vs. Rav Asi dispute about whether the minor girl herself can prevent the kiddushin from taking effect, which is precisely what the 'Bein Hi U'Vein Aviha' prose discusses, including the objection from the baraita about the seduced woman's right of refusal.",
+      "chosen_heading": "Bein Hi U'Vein Aviha",
+      "current_heading": "Bein Hi U'Vein Aviha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Daughter's Miun",
+    "candidates": [
+      "Shtika vs. Micha",
+      "Daughter's Miun",
+      "Midrash on Seduction",
+      "Pita Shelo L'Shum",
+      "Maher Yimarena",
+      "Tzricha Kiddushin L'Da'as",
+      "Miun & Knas",
+      "Separate Statements"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pita Shelo L'Shum",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's deflection that the seduction was 'shelo lshum ishus' and Rav Na\u1e25man bar Yitz\u1e25ak's explanation of the knas consequence \u2014 exactly what candidate 3 ('Pita Shelo L'Shum') describes.",
+      "second_heading": "Tzricha Kiddushin L'Da'as",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's challenge from 'maher yimarena' and Abaye's answer that she requires kiddushin l'da'as aviha \u2014 exactly what candidate 5 ('Tzricha Kiddushin L'Da'as') describes.",
+      "current_heading": "Daughter's Miun",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Separate Statements",
+    "candidates": [
+      "Midrash on Seduction",
+      "Pita Shelo L'Shum",
+      "Maher Yimarena",
+      "Tzricha Kiddushin L'Da'as",
+      "Miun & Knas",
+      "Separate Statements",
+      "Combined Statements",
+      "Eating While Giving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The Mishnah text describes the separate-declaration betrothal cases (hiskadshi li b'tmara zo, hiskadshi li b'zo) and the eating-while-giving case, which is precisely what the 'Separate Statements' prose section describes as its content.",
+      "chosen_heading": "Separate Statements",
+      "current_heading": "Separate Statements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Eating While Giving",
+    "candidates": [
+      "Combined Statements",
+      "Eating While Giving",
+      "Areisha L'Olam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong to the 'Eating While Giving' section: Item 1 is Rabba's identification of Rabbi Shimon as the tanna behind the repeated hiskadshi requirement, and Item 2 is the gemara's question about which clause the eating case applies to \u2014 both of which are explicitly described in that section's prose.",
+      "chosen_heading": "Eating While Giving",
+      "current_heading": "Eating While Giving",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Areisha L'Olam",
+    "candidates": [
+      "Areisha L'Olam",
+      "Aseifa L'Olam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Aseifa L'Olam",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yo\u1e25anan's famous 'table and meat and knife' response to the loan objection, which arises in the context of the 'aseifa' reading (last clause), matching the 'Aseifa L'Olam' prose about dates already eaten becoming a debt/milveh problem.",
+      "second_heading": "Areisha L'Olam",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav and Shmuel's 'le'olam areisha' answer, which is precisely what the 'Areisha L'Olam' section's prose describes, including the lo mibaya device and the chidush about eating showing immediate benefit.",
+      "current_heading": "Areisha L'Olam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Aseifa L'Olam",
+    "candidates": [
+      "Aseifa L'Olam",
+      "Shma Mina Tlat",
+      "Mkvadesh B'Milveh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ami's statement that the case refers to the latter clause and that 'one of them worth a peruta' means the last one \u2014 exactly what the 'Aseifa L'Olam' section describes.",
+      "chosen_heading": "Aseifa L'Olam",
+      "current_heading": "Aseifa L'Olam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Mkvadesh B'Milveh",
+    "candidates": [
+      "Shma Mina Tlat",
+      "Mkvadesh B'Milveh",
+      "Sister Marriage",
+      "Money Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's three inferences from Rabbi Ami's ruling, which is precisely what heading 0 ('Shma Mina Tlat') describes in its prose, including all three specific conclusions: betrothal with a loan is invalid, betrothal with a loan plus a peruta focuses on the peruta, and money given for failed kiddushin must be returned.",
+      "chosen_heading": "Shma Mina Tlat",
+      "current_heading": "Mkvadesh B'Milveh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Money Returns",
+    "candidates": [
+      "Sister Marriage",
+      "Money Returns",
+      "Money as Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Rav's opinion that the money must be returned (ma'os chozrin) with the deposit reasoning and the savar lo mikabla answer, which matches exactly the 'Money Returns' section's prose discussion.",
+      "chosen_heading": "Money Returns",
+      "current_heading": "Money Returns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Money as Gift",
+    "candidates": [
+      "Money as Gift",
+      "Challah Flour Case",
+      "Confusion Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is entirely about Shmuel's position that the money constitutes a gift and the embarrassment explanation, which is precisely what the 'Money as Gift' section's prose discusses.",
+      "chosen_heading": "Money as Gift",
+      "current_heading": "Money as Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Confusion Risk",
+    "candidates": [
+      "Challah Flour Case",
+      "Confusion Risk",
+      "Hydroponic Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of objection-and-answer about the challah-flour case: Ravina's challenge (item 1), the 'confusion risk' answer (item 2), and the follow-up question about the kohen's knowledge and its resolution (item 3) \u2014 exactly matching the 'Confusion Risk' section's prose description.",
+      "chosen_heading": "Confusion Risk",
+      "current_heading": "Confusion Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Hydroponic Terumah",
+    "candidates": [
+      "Hydroponic Terumah",
+      "Bitrei Mani vs. Echad",
+      "Return vs. Re-Separate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hydroponic Terumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the gemara's question and the hydroponic terumah precedent, which matches heading 0's prose about the proposed alternative solution and the min hanakuv al she'eino nakuv case.",
+      "second_heading": "Bitrei Mani vs. Echad",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the gemara's answer distinguishing two containers from one container, which matches heading 1's prose about 'bitrei mani tzyat, b'chad mana lo tzyat.'",
+      "current_heading": "Hydroponic Terumah",
+      "moved": true
+    }
+  }
+]

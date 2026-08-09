@@ -1,0 +1,271 @@
+[
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Ravin Explains Weights",
+    "candidates": [
+      "Yom Kippur Service Steps",
+      "Red String Placement",
+      "Three Red Strings",
+      "Rava: Weight Debate",
+      "Abaye's Challenge",
+      "Flame vs. Fire Debate",
+      "El Toch Requirement",
+      "Three Weight Standards",
+      "Ravin Explains Weights",
+      "Debate Focus Corrected",
+      "Death & Scapegoat Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All nine items deal with the weight requirements of the three red strings (parah, sa'ir, metzora) and the tanna'im dispute about the parah's weight, which is precisely what the 'Ravin Explains Weights' section's prose describes \u2014 including Rav Dimi, Ravin, Rabbi Yonatan's explanation, and Rabbi Yochanan's dispute between Rabbi Shimon ben Chalafta and the Rabbis about the parah string's weight.",
+      "chosen_heading": "Ravin Explains Weights",
+      "current_heading": "Ravin Explains Weights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Death & Scapegoat Link",
+    "candidates": [
+      "Debate Focus Corrected",
+      "Death & Scapegoat Link",
+      "Which Needs Kohen?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yirmeya's correction about the scapegoat and the mnemonic about Ravya bar Kisi's death atoning like the scapegoat, which is precisely what the 'Death & Scapegoat Link' prose discusses in detail.",
+      "chosen_heading": "Death & Scapegoat Link",
+      "current_heading": "Death & Scapegoat Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Which Needs Kohen?",
+    "candidates": [
+      "Which Needs Kohen?",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yitzchak's statement about two slaughters and his uncertainty about which is valid for a non-priest, which is precisely what the 'Which Needs Kohen?' section's prose introduces and discusses.",
+      "chosen_heading": "Which Needs Kohen?",
+      "current_heading": "Which Needs Kohen?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Shechitah Not Avodah",
+      "Rav Sheshet's Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the Rav-Shmuel dispute about heifer vs. bull slaughter, the attribution of Rav's position via Rabbi Zeira, and the challenge to Rav's logic from the parallel 'Aaron'+'statute' verses \u2014 exactly the content described in the 'Rav vs. Shmuel' prose.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Rav Sheshet's Point",
+    "candidates": [
+      "Shechitah Not Avodah",
+      "Rav Sheshet's Point",
+      "Distraction Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the *parah adumah* slaughter by a non-priest, the *a fortiori* challenge, and Rav Shisha's response about *nega'im* \u2014 all of which are explicitly described in the 'Rav Sheshet's Point' prose section.",
+      "chosen_heading": "Rav Sheshet's Point",
+      "current_heading": "Rav Sheshet's Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Distraction Question",
+    "candidates": [
+      "Distraction Question",
+      "Distraction Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the exact content described in the 'Distraction Question' prose: Shmuel's reading of 'v'shachat osah le'fanav' as permitting a non-priest to slaughter while Elazar watches, the derivation of non-distraction requirements from the two verses, and the tzricha explanation for why both verses are necessary \u2014 all of which are explicitly covered in candidate 0's prose.",
+      "chosen_heading": "Distraction Question",
+      "current_heading": "Distraction Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Distraction Exclusions",
+    "candidates": [
+      "Distraction Exclusions",
+      "Alternative Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question-and-answer about what stages are excluded from the non-distraction requirement, which is precisely what the 'Distraction Exclusions' prose describes.",
+      "chosen_heading": "Distraction Exclusions",
+      "current_heading": "Distraction Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Alternative Opinions",
+    "candidates": [
+      "Alternative Opinions",
+      "Braita's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records the amoraic dispute between Rabbi Ami, Rabbi Yitzchak Nappa\u1e25a, and Ulla regarding the validity of a non-priest slaughtering the red heifer, which matches exactly what the 'Alternative Opinions' prose describes.",
+      "chosen_heading": "Alternative Opinions",
+      "current_heading": "Alternative Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Braita's Logic",
+    "candidates": [
+      "Braita's Logic",
+      "Torah Language Logic",
+      "Category Logic",
+      "Rashi on Judgment",
+      "Woman Exclusion Logic",
+      "Sprinkling Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita itself \u2014 the sprinkling as the paradigm case, the inclusive 'Torah,' the limiting 'zot,' and the logical derivation of which stages require day/man \u2014 which is precisely what the 'Braita's Logic' prose describes in full detail.",
+      "chosen_heading": "Braita's Logic",
+      "current_heading": "Braita's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Sprinkling Exception",
+    "candidates": [
+      "Torah Language Logic",
+      "Category Logic",
+      "Rashi on Judgment",
+      "Woman Exclusion Logic",
+      "Sprinkling Exception",
+      "Ulla's Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Sprinkling Exception' prose, which explicitly discusses the Gemara's objection that sprinkling disproves the woman-to-non-priest inference (item 1) and Abaye's response that the exclusion of women from shechitah flows from 'Elazar ve-lo isha' which equally excludes a non-kohen (item 2).",
+      "chosen_heading": "Sprinkling Exception",
+      "current_heading": "Sprinkling Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Ulla's Framework",
+    "candidates": [
+      "Ulla's Framework",
+      "Mashma Definition",
+      "Elazar Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ulla's general statement about the entire parasha of parah adumah, which is precisely what the 'Ulla's Framework' section prose discusses and introduces.",
+      "chosen_heading": "Ulla's Framework",
+      "current_heading": "Ulla's Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Elazar Requirement",
+    "candidates": [
+      "Mashma Definition",
+      "Elazar Requirement",
+      "Gezera Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Elazar verse and the two opinions about who performs the parah adumah rite in future generations, which is exactly what the 'Elazar Requirement' section's prose describes.",
+      "chosen_heading": "Elazar Requirement",
+      "current_heading": "Elazar Requirement",
+      "moved": false
+    }
+  }
+]

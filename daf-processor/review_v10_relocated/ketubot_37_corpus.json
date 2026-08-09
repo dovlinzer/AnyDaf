@@ -1,0 +1,271 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Papa's Challenge",
+    "candidates": [
+      "Intro: Knas & Captivity",
+      "Giyoret & Niddah",
+      "Papa's Challenge",
+      "Three-Month Wait",
+      "Moch & R. Yose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items constitute Rav Pappa bar Shmuel's challenge to Rav Yosef \u2014 first the giyoret/niddah contradiction, then the deflection distinguishing convert from captive, then the stronger rami shvuyah a-shvuyah contradiction ending with Rav Yosef's silence \u2014 which is precisely what the 'Papa's Challenge' prose describes.",
+      "chosen_heading": "Papa's Challenge",
+      "current_heading": "Papa's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Moch & R. Yose",
+    "candidates": [
+      "Three-Month Wait",
+      "Moch & R. Yose",
+      "Converts Planning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Sheshet's resolution (she-ra'uha she-niv'alah) and Rabba's explanation of Rabbi Yose's position, and the prose under heading 0 ('Three-Month Wait') explicitly discusses both elements \u2014 Rav Sheshet's answer and the immediate follow-up question about Rabbi Yose's rationale \u2014 making it the clearly better match than heading 1, which discusses the moch explanation as already established background.",
+      "chosen_heading": "Three-Month Wait",
+      "current_heading": "Moch & R. Yose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Converts Planning",
+    "candidates": [
+      "Moch & R. Yose",
+      "Converts Planning",
+      "Captives Seeking Help",
+      "Slaves Freed",
+      "Rape & Sudden Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage works through all three cases (convert, captive, maidservant) plus raises the yotza be-shen va-ayin difficulty in a single Gemara unit, and the prose under 'Moch & R. Yose' explicitly describes how the Gemara 'needs to work through each case individually' \u2014 making it the natural home for this passage that surveys all cases together, rather than placing it under 'Converts Planning' which covers only the convert case.",
+      "chosen_heading": "Moch & R. Yose",
+      "current_heading": "Converts Planning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rape & Sudden Changes",
+    "candidates": [
+      "Captives Seeking Help",
+      "Slaves Freed",
+      "Rape & Sudden Changes",
+      "Internal Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about raped/seduced women used to prove Rabbi Yose permits immediate marriage even in unplanned (mimela) situations, which is precisely what the prose under 'Rape & Sudden Changes' discusses.",
+      "chosen_heading": "Rape & Sudden Changes",
+      "current_heading": "Rape & Sudden Changes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Internal Methods",
+    "candidates": [
+      "Internal Methods",
+      "Three Cases",
+      "Death Over Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbah's explanation that Rabbi Yose relies on a woman's ability to reposition herself to prevent pregnancy, and Rabbi Yehuda's concern that she may not have done so effectively \u2014 exactly what the prose in 'Internal Methods' describes and analyzes.",
+      "chosen_heading": "Internal Methods",
+      "current_heading": "Internal Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Death Over Money",
+    "candidates": [
+      "Three Cases",
+      "Death Over Money",
+      "Multiple Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the kim lei principle and the derivation from 'kidei rishato' versus the 'ason' verse, which is precisely what the 'Death Over Money' prose section describes.",
+      "chosen_heading": "Death Over Money",
+      "current_heading": "Death Over Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Multiple Verses",
+    "candidates": [
+      "Multiple Verses",
+      "Corporal Punishments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the tzericha \u2014 why both verses (death+money and lashes+money) are necessary \u2014 which is precisely what the 'Multiple Verses' prose elaborates in detail, matching the ibud neshama and chamur/lo chamur reasoning described there.",
+      "chosen_heading": "Multiple Verses",
+      "current_heading": "Multiple Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Corporal Punishments",
+    "candidates": [
+      "Corporal Punishments",
+      "Murder & Ransom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss why two derivations are needed according to Rabbi Meir \u2014 one for death overriding money and one for death overriding lashes \u2014 which is precisely what the 'Corporal Punishments' prose describes with its discussion of misa arichta, chada b'gufei, and the necessity of both verses.",
+      "chosen_heading": "Corporal Punishments",
+      "current_heading": "Corporal Punishments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Murder & Ransom",
+    "candidates": [
+      "Murder & Ransom",
+      "Manslaughter Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both verses (murderer ransom and exile ransom) but the current placement under 'Murder & Ransom' is correct since the passage introduces both verses together as a unit, and the essay's prose for heading 0 already discusses both the murder verse and contextualizes the exile verse within the same discussion.",
+      "chosen_heading": "Murder & Ransom",
+      "current_heading": "Murder & Ransom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Manslaughter Cases",
+    "candidates": [
+      "Manslaughter Cases",
+      "Egla Arufa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why two verses are needed \u2014 one for intentional killing and one for unintentional manslaughter \u2014 which is precisely what the 'Manslaughter Cases' prose elaborates on in detail.",
+      "chosen_heading": "Manslaughter Cases",
+      "current_heading": "Manslaughter Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Egla Arufa",
+    "candidates": [
+      "Egla Arufa",
+      "Execution Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the verse about land atonement in the egla arufa context and the baraita teaching that performing the egla arufa ritual does not exempt a subsequently identified murderer from execution \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Egla Arufa",
+      "current_heading": "Egla Arufa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Execution Method",
+    "candidates": [
+      "Execution Method",
+      "Cherem & Erech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the verse about purging innocent blood, the analogy to the egla arufa for execution at the neck, and the cleaver/nape question resolved by 'love your neighbor as yourself' \u2014 exactly what the 'Execution Method' prose describes.",
+      "chosen_heading": "Execution Method",
+      "current_heading": "Execution Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Cherem & Erech",
+    "candidates": [
+      "Cherem & Erech",
+      "No Ransom Ever"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the verse 'kol cherem asher yucharam min ha-adam lo yipadeh' in the context of erech pledges for condemned men and Rabbi Chananya ben Akavya's position, which is precisely what the 'Cherem & Erech' prose describes in detail.",
+      "chosen_heading": "Cherem & Erech",
+      "current_heading": "Cherem & Erech",
+      "moved": false
+    }
+  }
+]

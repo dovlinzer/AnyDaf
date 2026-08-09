@@ -1,0 +1,291 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Three Cases",
+    "candidates": [
+      "Shammai/Hillel Dispute",
+      "Link to Perek Sheini",
+      "Shammai's Logic",
+      "Three Cases",
+      "Beginning/End Parallel",
+      "Temurah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishnah stating the Beit Shammai/Beit Hillel dispute and its three illustrative cases, which matches heading 0 ('Shammai/Hillel Dispute') whose prose explicitly describes this mishnah \u2014 the three cases are part of the same mishnah unit and belong under the heading that introduces the dispute, not under the separate 'Three Cases' heading which describes the Gemara's subsequent analysis of why all three are needed.",
+      "chosen_heading": "Shammai/Hillel Dispute",
+      "current_heading": "Three Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Temurah Logic",
+    "candidates": [
+      "Beginning/End Parallel",
+      "Temurah Logic",
+      "Hillel's Objection",
+      "Timing Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beginning/End Parallel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Beit Shammai's rationale \u2014 deriving initial hekdesh from the final stage (temurah), which matches the 'Beginning/End Parallel' prose about yalfinan techilat hekdesh mi-sof hekdesh.",
+      "second_heading": "Hillel's Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Beit Hillel's rejection of the temurah comparison, distinguishing between mistakes within hekdesh versus bringing something into hekdesh by mistake, which precisely matches the 'Hillel's Objection' prose.",
+      "current_heading": "Temurah Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Timing Challenge",
+    "candidates": [
+      "Hillel's Objection",
+      "Timing Challenge",
+      "First Black Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Beit Shammai using the noon-temurah timing argument, which is precisely what the 'Timing Challenge' prose describes.",
+      "chosen_heading": "Timing Challenge",
+      "current_heading": "Timing Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "First Black Ox",
+    "candidates": [
+      "First Black Ox",
+      "Not Actually Mistake",
+      "Ta'us Redefined",
+      "Gemara Objects",
+      "Pappa Responds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Candidate 3 ('Gemara Objects') describes exactly this content: the Gemara challenging Rav Pappa's reinterpretation by noting the mishnah says 'first to come out' not 'first black one,' followed by the answer about multiple black bulls and Beit Hillel's rejoinder about proper phrasing \u2014 all of which matches items 1 and 2 precisely.",
+      "chosen_heading": "Gemara Objects",
+      "current_heading": "First Black Ox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Pappa Responds",
+    "candidates": [
+      "Not Actually Mistake",
+      "Ta'us Redefined",
+      "Gemara Objects",
+      "Pappa Responds",
+      "Question Setup",
+      "Neder/Chacham Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the objection 'Is this erroneous consecration? It is intentional consecration!' and the answer that it is called ta'us because he erred in his first statement \u2014 this is precisely the content described in heading 0 ('Not Actually Mistake'), which discusses how the reinterpretation makes the case not strictly a ta'us at all and asks why the mishnah frames it as hekdesh ta'us.",
+      "chosen_heading": "Not Actually Mistake",
+      "current_heading": "Pappa Responds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Neder/Chacham Case",
+    "candidates": [
+      "Question Setup",
+      "Neder/Chacham Case",
+      "Hillel Challenges",
+      "Status Change Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of whether Beit Shammai holds that erroneous consecration is invalid \u2014 exactly what heading 0 'Question Setup' describes as the natural question emerging from Rav Pappa's model \u2014 while heading 1 'Neder/Chacham Case' discusses the mishnah's content and its implications, which comes after this initial questioning step.",
+      "chosen_heading": "Question Setup",
+      "current_heading": "Neder/Chacham Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Status Change Analysis",
+    "candidates": [
+      "Hillel Challenges",
+      "Status Change Analysis",
+      "Vocalization Difference",
+      "Past Tense Reading",
+      "First Animal Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of question-answer-challenge-resolution about whether Beit Shammai holds hekdesh b'ta'ut is valid hekdesh, which is precisely what the 'Status Change Analysis' prose describes in detail, including the walking-on-the-road mishna and Rav Pappa's response.",
+      "chosen_heading": "Status Change Analysis",
+      "current_heading": "Status Change Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "First Animal Intent",
+    "candidates": [
+      "Vocalization Difference",
+      "Past Tense Reading",
+      "First Animal Intent",
+      "Extension Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's explanation that the speaker is standing at noon (past the event) and made a retrospective declaration about the black bull that emerged, which directly matches the 'Past Tense Reading' prose discussing a retrospective declaration after an animal has already come out.",
+      "chosen_heading": "Past Tense Reading",
+      "current_heading": "First Animal Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Extension Problem",
+    "candidates": [
+      "First Animal Intent",
+      "Extension Problem",
+      "Vocalization Solutions",
+      "Rav Chisda Principle",
+      "First Case Quality",
+      "Second Case Quality",
+      "Third Case Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the problem of the future-tense forms ('that will come up') in the gold coin and barrel of wine cases, which is precisely what the 'Extension Problem' section describes.",
+      "chosen_heading": "Extension Problem",
+      "current_heading": "Extension Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Third Case Quality",
+    "candidates": [
+      "Vocalization Solutions",
+      "Rav Chisda Principle",
+      "First Case Quality",
+      "Second Case Quality",
+      "Third Case Quality",
+      "Resolution by Use",
+      "Miscount Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rav Chisda Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss Rav Chisda's principle about black/white bull quality and its tension with the mishna cases (ayin ra'ah/ayin yafah), which matches the 'Rav Chisda Principle' heading's prose about examining the three mishna cases through Rav Chisda's lens.",
+      "second_heading": "Resolution by Use",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rav Chisda's use-based framework (black for hide, red for meat, white for plowing) and the Karmanian ox resolution, which matches the 'Resolution by Use' heading's prose exactly.",
+      "current_heading": "Third Case Quality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Miscount Scenario",
+    "candidates": [
+      "Resolution by Use",
+      "Miscount Scenario",
+      "All Three Sanctified",
+      "Shammai's Proof",
+      "Hillel Rejects Proof",
+      "Hillel Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Resolution by Use",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a new Mishna about naziriteship vows and separated animals grazing in the flock \u2014 a completely different topic from maaser behemah, belonging under 'Resolution by Use' only loosely, but the 'teitze v'tire ba'eder' language is what Beit Hillel references in item 2, making item 1 the mishna that introduces the nazirite case Beit Hillel cites in the debate.",
+      "second_heading": "Miscount Scenario",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Beit Hillel citing the nazirite hekdesh ta'us case to Beit Shammai, and Beit Shammai responding with the maaser behemah miscount counter-proof, which is precisely what the 'Miscount Scenario' prose describes.",
+      "current_heading": "Miscount Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Hillel Logic",
+    "candidates": [
+      "All Three Sanctified",
+      "Shammai's Proof",
+      "Hillel Rejects Proof",
+      "Hillel Logic",
+      "Animal Status Question",
+      "Conscious Act Distinction",
+      "Summary Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Beit Hillel's rejection of Beit Shammai's proof ('lo ha-shevet kidsho') combined with the reductio about the eighth and twelfth animal, which together constitute the full argument described in candidate 2's prose about Hillel rejecting the proof via 'lo ha-shevet kidsho' and the rod mechanism.",
+      "chosen_heading": "Hillel Rejects Proof",
+      "current_heading": "Hillel Logic",
+      "moved": true
+    }
+  }
+]

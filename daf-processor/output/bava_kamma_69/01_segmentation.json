@@ -24,8 +24,8 @@
           "timestamp": "02:28"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Object Stolen from Ganav's House: No Keplal Payment and Implications of Loss of Reshut",
@@ -48,8 +48,8 @@
           "timestamp": "05:46"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Marking Fields in Shmita Year: Kerem Revai, Orlah, and Graves",
@@ -82,7 +82,7 @@
           "timestamp": "14:11"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -116,7 +116,7 @@
           "timestamp": "33:02"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -537,5 +537,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "22:53",
+  "amud_b_micro_title": "RY No Breira",
+  "shiur_start_daf": 69,
+  "shiur_start_amud": "a"
 }

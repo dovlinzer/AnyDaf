@@ -1,0 +1,677 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Lust & punishment",
+    "candidates": [
+      "Vayivka intro",
+      "Lust & punishment",
+      "Dan prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Shimshon's lust for impure things and the punishment of his life being dependent on something impure, which exactly matches the 'Lust & punishment' section's prose.",
+      "chosen_heading": "Lust & punishment",
+      "current_heading": "Lust & punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Dan prophecy",
+    "candidates": [
+      "Dan prophecy",
+      "Shechina as bell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 0's prose describes: Rabbi \u1e24ama son of Rabbi \u1e24anina's teaching that Jacob's prophecy about Dan as a serpent took effect through Samson.",
+      "chosen_heading": "Dan prophecy",
+      "current_heading": "Dan prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Shechina as bell",
+    "candidates": [
+      "Shechina as bell",
+      "Mountains crushed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Divine Presence jangling like a bell before Shimshon, matching exactly the prose of the 'Shechina as bell' section.",
+      "chosen_heading": "Shechina as bell",
+      "current_heading": "Shechina as bell",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Mountains crushed",
+    "candidates": [
+      "Mountains crushed",
+      "Ahimeleach oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Samson uprooting two mountains and grinding them together, which directly matches the 'Mountains crushed' section's prose about Rabbi Assi's teaching on Tzor'ah and Eshta'ol as two enormous mountains that Shimshon uprooted and ground together.",
+      "chosen_heading": "Mountains crushed",
+      "current_heading": "Mountains crushed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Ahimeleach oath",
+    "candidates": [
+      "Ahimeleach oath",
+      "Sexual blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi \u1e24ama's interpretation that 'yachel' refers to the negation of Abimelech's oath, which is precisely what the 'Ahimeleach oath' prose section describes.",
+      "chosen_heading": "Ahimeleach oath",
+      "current_heading": "Ahimeleach oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Sexual blessing",
+    "candidates": [
+      "Sexual blessing",
+      "Foxes & torches"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sexual blessing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 directly concerns the sexual blessing God gave Samson, which is exactly what the 'Sexual blessing' prose discusses \u2014 Rav Yehuda/Rav's teaching about amaso k'vnei adam v'zaro k'nachal shotef.",
+      "second_heading": "Foxes & torches",
+      "second_confidence": "low",
+      "second_reason": "Item 2 concerns Samson's final prayer before death referencing his 22 years of judging Israel, which does not fit neatly under either 'Sexual blessing' or 'Foxes & torches' \u2014 but since the true home is guaranteed to be in this list, and 'Foxes & torches' is the only other candidate, it is placed there with low confidence as no candidate prose clearly discusses this content.",
+      "current_heading": "Sexual blessing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Foxes & torches",
+    "candidates": [
+      "Foxes & torches",
+      "Shimshon's width",
+      "Gates on back"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the foxes and torches episode and why Samson chose foxes, which matches the 'Foxes & torches' section prose perfectly.",
+      "chosen_heading": "Foxes & torches",
+      "current_heading": "Foxes & torches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Gates on back",
+    "candidates": [
+      "Shimshon's width",
+      "Gates on back",
+      "Grinding metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita from Rabbi Shimon the Pious establishing Samson's shoulder width as sixty cubits is the primary claim being made, and candidate 0's prose directly describes this baraita and its conclusion, while candidate 1's prose describes the supporting derivation from the Gaza gate episode \u2014 the passage contains both the claim and its proof, but the heading 'Shimshon's width' is the correct home for the whole unit.",
+      "chosen_heading": "Shimshon's width",
+      "current_heading": "Gates on back",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Grinding metaphor",
+    "candidates": [
+      "Gates on back",
+      "Grinding metaphor",
+      "Desire fulfilled",
+      "Mida k'neged mida",
+      "Job proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Grinding metaphor' prose: Rabbi Yochanan's interpretation of 'grinding' as a euphemism for sexual intercourse, the Job proof-text, and Rav Pappa's folk saying \u2014 all of which are explicitly discussed in candidate 1's prose.",
+      "chosen_heading": "Grinding metaphor",
+      "current_heading": "Grinding metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Job proofs",
+    "candidates": [
+      "Desire fulfilled",
+      "Mida k'neged mida",
+      "Job proofs",
+      "Gourd & gander",
+      "Shimshon judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yo\u1e25anan's statement that 'anyone who commits adultery, his wife commits adultery against him' along with the Job proofs and folk saying \u2014 this complete unit belongs under the 'Mida k'neged mida' heading, which explicitly discusses this teaching, while the current placement splits it artificially across 'Job proofs' and 'Gourd & gander' headings.",
+      "chosen_heading": "Mida k'neged mida",
+      "current_heading": "Job proofs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Shimshon judges",
+    "candidates": [
+      "Gourd & gander",
+      "Shimshon judges",
+      "Shimshon & God",
+      "Name clarified",
+      "Eternal protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan statements \u2014 Shimshon judging like God AND the name derivation plus the me-ein resolution \u2014 but the current placement under 'Shimshon judges' already contains prose that explicitly discusses both teachings together as a unified block, and the essay's subsequent headings ('Shimshon & God' and 'Name clarified') appear to be the prose commentary on these same statements rather than separate Talmudic passages, making the current placement the best single home for this combined text.",
+      "chosen_heading": "Shimshon judges",
+      "current_heading": "Shimshon judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Eternal protection",
+    "candidates": [
+      "Shimshon & God",
+      "Name clarified",
+      "Eternal protection",
+      "Five intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about Balaam and Samson's lameness is explicitly discussed in the prose of 'Eternal protection,' which mentions Rabbi Yochanan's statement about Bilam being lame in one leg and Shimshon in both, referencing the same verses.",
+      "chosen_heading": "Eternal protection",
+      "current_heading": "Eternal protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Five intro",
+    "candidates": [
+      "Five intro",
+      "Shimshon strength",
+      "Shaul's neck"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the introductory baraita listing all five individuals, and Item 2 begins the Gemara's clarification of the first case (Samson), which together belong under the 'Five intro' heading that introduces the baraita and its general principle before the individual cases are elaborated in subsequent sections.",
+      "chosen_heading": "Five intro",
+      "current_heading": "Five intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Shaul's neck",
+    "candidates": [
+      "Shimshon strength",
+      "Shaul's neck",
+      "Absalom's hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Shaul falling upon his sword (neck/tzavar), which directly matches the 'Shaul's neck' section prose.",
+      "chosen_heading": "Shaul's neck",
+      "current_heading": "Shaul's neck",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Absalom's hair",
+    "candidates": [
+      "Absalom's hair",
+      "Zidkiyahu eyes",
+      "Asa gout"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists both Absalom (hair) and Zedekiah (eyes) together in one brief Talmudic statement, and the current heading 'Absalom's hair' is where it sits \u2014 the Gemara text introduces Absalom first and notes the fuller discussion comes later, matching the prose under heading 0 which says exactly that, while heading 1 covers the essay author's own elaboration on Zedekiah separately.",
+      "chosen_heading": "Absalom's hair",
+      "current_heading": "Absalom's hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Asa gout",
+    "candidates": [
+      "Zidkiyahu eyes",
+      "Asa gout",
+      "Asa draft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Asa's foot ailment (padagra/gout), Mar Zutra's question about what gout feels like, and Rav Nachman's answer, which exactly matches the 'Asa gout' section's prose description of these same elements.",
+      "chosen_heading": "Asa gout",
+      "current_heading": "Asa gout",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Asa draft",
+    "candidates": [
+      "Asa draft",
+      "Timnah verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Asa's punishment for conscripting Torah scholars matches exactly the prose under 'Asa draft', which discusses the same Rava teaching, the same verse, and the same Rav Yehuda/Rav statement about the bridegroom and bride.",
+      "chosen_heading": "Asa draft",
+      "current_heading": "Asa draft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Timnah verses",
+    "candidates": [
+      "Timnah verses",
+      "Moral reading",
+      "Single vs. two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two verses (descent vs. ascent to Timnah) and Rabbi Elazar's moral resolution, which matches heading 0's prose that sets up the contradiction \u2014 heading 1's prose already describes Rabbi Elazar's answer in the essay author's own words, meaning the Talmudic source text belongs under the heading that introduces the question it addresses.",
+      "chosen_heading": "Timnah verses",
+      "current_heading": "Timnah verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Single vs. two",
+    "candidates": [
+      "Moral reading",
+      "Single vs. two",
+      "Pesach Einayim",
+      "Abraham's tent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the two-Timnah vs. one-Timnah geographical positions of Rav Shmuel bar Na\u1e25mani and Rav Pappa, which is precisely what the 'Single vs. two' section's prose describes and analyzes.",
+      "chosen_heading": "Single vs. two",
+      "current_heading": "Single vs. two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Abraham's tent",
+    "candidates": [
+      "Pesach Einayim",
+      "Abraham's tent",
+      "Enaim place",
+      "Eyes to words",
+      "Non-Jewish",
+      "Married status",
+      "Father married"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Alexandri's interpretation AND Rav's interpretation of 'pesach einayim,' so it belongs under the heading that introduces the phrase and notes it receives multiple interpretations, not under the heading devoted solely to Rabbi Alexandri's 'Abraham's tent' reading.",
+      "chosen_heading": "Pesach Einayim",
+      "current_heading": "Abraham's tent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Father married",
+    "candidates": [
+      "Enaim place",
+      "Eyes to words",
+      "Non-Jewish",
+      "Married status",
+      "Father married",
+      "Niddah status",
+      "Rashi truth",
+      "Family levirate",
+      "Eshel meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full quote from Rabbi Shmuel bar Na\u1e25mani about 'giving eyes to her words' along with all four questions, which matches heading 1 ('Eyes to words') whose prose explicitly introduces this rabbi's reading and notes 'the precise implication will become clearer as the encounter unfolds' \u2014 meaning the entire exchange of questions belongs under that single heading rather than being split across headings 2-5.",
+      "chosen_heading": "Eyes to words",
+      "current_heading": "Father married",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Eshel meaning",
+    "candidates": [
+      "Niddah status",
+      "Rashi truth",
+      "Family levirate",
+      "Eshel meaning",
+      "Eshel acrostic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the meaning of 'eshel' \u2014 item 1 gives Reish Lakish's view (orchard with delicacies) and item 2 gives the Rabbi Yehuda/Rabbi Ne\u1e25emya dispute (orchard vs. inn) with the resolution of the 'vayita' verb issue \u2014 exactly matching the 'Eshel meaning' prose which describes this dispute and its resolution.",
+      "chosen_heading": "Eshel meaning",
+      "current_heading": "Eshel meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Eshel acrostic",
+    "candidates": [
+      "Eshel acrostic",
+      "Abraham method",
+      "Blessing redirect",
+      "Covered face"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's specific content \u2014 Reish Lakish's reading of *vayikra* as *vayakri*, and Abraham redirecting guests' thanks to God after eating and drinking \u2014 matches candidate 2 ('Blessing redirect') most precisely, which quotes the exact same phrases and explains the same deeper meaning of the verse.",
+      "chosen_heading": "Blessing redirect",
+      "current_heading": "Eshel acrostic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Covered face",
+    "candidates": [
+      "Abraham method",
+      "Blessing redirect",
+      "Covered face",
+      "Veil meaning",
+      "Recognition failure",
+      "Modest bride reward",
+      "Amotz lineage",
+      "Isaiah descent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes and questions the verse about Judah thinking Tamar a prostitute because she covered her face, which is precisely what the 'Covered face' section's prose discusses.",
+      "chosen_heading": "Covered face",
+      "current_heading": "Covered face",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Isaiah descent",
+    "candidates": [
+      "Veil meaning",
+      "Recognition failure",
+      "Modest bride reward",
+      "Amotz lineage",
+      "Isaiah descent",
+      "Burning threat",
+      "Samael removal",
+      "Gabriel restore"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Elazar's explanation that Tamar covered her face in her father-in-law's house (causing the recognition failure), then flows into the modesty-reward principle and the Amotz/Amatzia lineage proof \u2014 all of which begins with the 'Recognition failure' heading's prose about Rabbi Elazar's resolution, making heading 1 the best single home for the entire passage.",
+      "chosen_heading": "Recognition failure",
+      "current_heading": "Isaiah descent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Gabriel restore",
+    "candidates": [
+      "Burning threat",
+      "Samael removal",
+      "Gabriel restore",
+      "Fire principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items belong under 'Gabriel restore': Item 1 describes Gabriel restoring the signs (the core content of that section), and Item 2 is the Psalm interpretation directly connected to that moment, which the prose explicitly discusses as part of the same section.",
+      "chosen_heading": "Gabriel restore",
+      "current_heading": "Gabriel restore",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Fire principle",
+    "candidates": [
+      "Fire principle",
+      "David humility",
+      "Recognition items",
+      "Haker circularity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'fiery furnace' principle about not shaming others in public derived from Tamar's conduct, which is precisely what the 'Fire principle' section's prose discusses in detail.",
+      "chosen_heading": "Fire principle",
+      "current_heading": "Fire principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166,
+      167
+    ],
+    "current_heading": "Haker circularity",
+    "candidates": [
+      "David humility",
+      "Recognition items",
+      "Haker circularity",
+      "Jacob echo",
+      "Teshuva opening",
+      "Recognition theme",
+      "Tzaddka statement",
+      "Joseph vs Yehudah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly explicate the word 'haker/haker na' \u2014 item 1 shows the circularity of the word 'haker' between Yehudah informing Yaakov and Tamar informing Yehudah, and item 2 expounds the word 'na' as a request, both of which are precisely what the 'Haker circularity' section's prose describes.",
+      "chosen_heading": "Haker circularity",
+      "current_heading": "Haker circularity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179,
+      180
+    ],
+    "current_heading": "Joseph vs Yehudah",
+    "candidates": [
+      "Jacob echo",
+      "Teshuva opening",
+      "Recognition theme",
+      "Tzaddka statement",
+      "Joseph vs Yehudah",
+      "Bat kol promise",
+      "Three names",
+      "Divine origin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form exactly the Rav \u1e24anin bar Bizna/Rabbi Shimon \u1e24asida teaching comparing Yosef's private sanctification (gaining one letter of God's name) with Yehudah's public sanctification (his entire name containing God's name), which is precisely what the 'Joseph vs Yehudah' prose describes.",
+      "chosen_heading": "Joseph vs Yehudah",
+      "current_heading": "Joseph vs Yehudah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      187
+    ],
+    "current_heading": "Divine origin",
+    "candidates": [
+      "Bat kol promise",
+      "Three names",
+      "Divine origin",
+      "Separation read",
+      "Marriage alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's interpretation of 'mimmenni' as a divine utterance and the bat kol declaring 'from Me these hidden matters emerged,' which matches exactly the prose of 'Divine origin' describing mimeni yatzu kevushim as God's design.",
+      "chosen_heading": "Divine origin",
+      "current_heading": "Divine origin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      193
+    ],
+    "current_heading": "Marriage alternative",
+    "candidates": [
+      "Separation read",
+      "Marriage alternative",
+      "Textual variant",
+      "Happy ending",
+      "Cult prostitute",
+      "Face-saving",
+      "No cult here"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with the plain reading of 'velo yasaf od leda'atah' as separation, then presents Shmuel Saba's reinterpretation via gezeirah shavah \u2014 this complete unit (plain reading + rebuttal + proof) belongs under the 'Separation read' heading where the plain reading is introduced, not split across multiple headings.",
+      "chosen_heading": "Separation read",
+      "current_heading": "Marriage alternative",
+      "moved": true
+    }
+  }
+]

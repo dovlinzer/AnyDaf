@@ -1,0 +1,194 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Notar & Pigul",
+    "candidates": [
+      "Shelamim After Blood",
+      "Notar & Pigul",
+      "Notar Shel Olah",
+      "Why Call It Notar?",
+      "Resolution on Olah",
+      "Meat & Wine Neder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of question-objection-resolution about whether notar and piggul prove b'ikaro kamatpis, which is precisely what the 'Notar & Pigul' section's prose describes.",
+      "chosen_heading": "Notar & Pigul",
+      "current_heading": "Notar & Pigul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Meat & Wine Neder",
+    "candidates": [
+      "Notar Shel Olah",
+      "Why Call It Notar?",
+      "Resolution on Olah",
+      "Meat & Wine Neder",
+      "Shmuel's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's clarification of Shmuel's ruling \u2014 item 1 quotes the baraita and Shmuel's condition, item 2 asks 'what are the circumstances?' and concludes 'b'ikaro kamatpis' \u2014 which is precisely what candidate 4 ('Shmuel's Explanation') describes: Shmuel clarifying which day is the davar hanadur being invoked and resolving the ambiguity about which instantiation of the day is referenced.",
+      "chosen_heading": "Shmuel's Explanation",
+      "current_heading": "Meat & Wine Neder",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Shmuel's Explanation",
+    "candidates": [
+      "Meat & Wine Neder",
+      "Shmuel's Explanation",
+      "Proof from Years",
+      "Neder on Prohibited",
+      "Kraft Cheese Example",
+      "Teruma Permissible",
+      "Lachmei Todah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's clarification that the case requires continuous vowing from that day forward, which is exactly what the 'Shmuel's Explanation' section discusses.",
+      "chosen_heading": "Shmuel's Explanation",
+      "current_heading": "Shmuel's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Lachmei Todah",
+    "candidates": [
+      "Proof from Years",
+      "Neder on Prohibited",
+      "Kraft Cheese Example",
+      "Teruma Permissible",
+      "Lachmei Todah",
+      "Separation Details"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lachmei Todah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Ravina's attempted proof from terumas lachmei todah and his comment that it is designated after zrikat hadam, which is the core content discussed in heading 4 ('Lachmei Todah').",
+      "second_heading": "Separation Details",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present the Gemara's refutations and alternative explanations \u2014 specifically the proposal about separating terumas lachmei todah before zrikat hadam during kneading \u2014 which corresponds precisely to heading 5 ('Separation Details') and its discussion of pre-zrikat hadam separation mechanics.",
+      "current_heading": "Lachmei Todah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Separation Details",
+    "candidates": [
+      "Separation Details",
+      "B'Hashta Interpretation",
+      "Bechor Dispute",
+      "Bechor After Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the Shmuel/Rav Tovi bar Kisna ruling about baking four loaves instead of forty, the subsequent problem of how to separate terumah from those four loaves, and the resolution that the terumah was separated during kneading \u2014 exactly the content described in the 'Separation Details' prose.",
+      "chosen_heading": "Separation Details",
+      "current_heading": "Separation Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Bechor After Blood",
+    "candidates": [
+      "B'Hashta Interpretation",
+      "Bechor Dispute",
+      "Bechor After Blood",
+      "Davar Ha'Assur View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the Gemara's heichi dami question and its resolution \u2014 that the case is zeh kazeh with bechor meat after zrikat hadam, mapping onto b'ikaro vs b'hashta \u2014 which is precisely what heading 2 ('Bechor After Blood') describes.",
+      "chosen_heading": "Bechor After Blood",
+      "current_heading": "Bechor After Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Davar Ha'Assur View",
+    "candidates": [
+      "Davar Ha'Assur View",
+      "Sanctification View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dispute about 'l'Hashem' as a ribuy for davar ha'assur versus its use to include chatas and asham, which is precisely the content described in the 'Davar Ha'Assur View' prose.",
+      "chosen_heading": "Davar Ha'Assur View",
+      "current_heading": "Davar Ha'Assur View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Sanctification View",
+    "candidates": [
+      "Sanctification View",
+      "Sanctity Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question about why sin/guilt-offerings are included while firstborn is excluded, and then the counter-argument that firstborn also involves a vow-like dimension (mitzvah of takdish), which is precisely what the 'Sanctification View' prose discusses \u2014 Rabbi Yaakov's position that bechor is a davar hanadur because of the mitzvah to sanctify it, citing the same baraisa in the name of Rebbi about 'hazachar takdish'.",
+      "chosen_heading": "Sanctification View",
+      "current_heading": "Sanctification View",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rusted Objects",
+    "candidates": [
+      "Rusted Objects",
+      "Hinuach vs. Aveidah",
+      "Knife & Pouch Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about finding objects in a new wall (midpoint outward vs. inward), which is precisely what the 'Rusted Objects' section prose describes and contextualizes.",
+      "chosen_heading": "Rusted Objects",
+      "current_heading": "Rusted Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Knife & Pouch Rule",
+    "candidates": [
+      "Hinuach vs. Aveidah",
+      "Knife & Pouch Rule",
+      "Full Wall Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Ashi ruling and the immediate challenge-and-answer that follows it, which is precisely what the 'Knife & Pouch Rule' prose describes in full detail.",
+      "chosen_heading": "Knife & Pouch Rule",
+      "current_heading": "Knife & Pouch Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Full Wall Division",
+    "candidates": [
+      "Full Wall Division",
+      "Rental House Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the braita about dividing a wall-hollow filled with items, including the peshita objection and the angled/inclined wall case (ishtapuche ishtapach), which precisely matches the 'Full Wall Division' prose.",
+      "chosen_heading": "Full Wall Division",
+      "current_heading": "Full Wall Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rental House Case",
+    "candidates": [
+      "Rental House Case",
+      "Chatzer Awareness",
+      "Animal Sellers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the rental house case from the mishna and asks why the finder keeps the items, which is exactly what the 'Rental House Case' prose discusses.",
+      "chosen_heading": "Rental House Case",
+      "current_heading": "Rental House Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Animal Sellers Case",
+    "candidates": [
+      "Chatzer Awareness",
+      "Animal Sellers Case",
+      "Jerusalem Sweeping",
+      "Temple Mount Money"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Animal Sellers Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 quotes the mishna about money before animal merchants and on the Temple Mount, which matches the 'Animal Sellers Case' prose that explicitly discusses maos shenimtzu lifnei socharei beheima and the Temple Mount ruling.",
+      "second_heading": "Jerusalem Sweeping",
+      "second_confidence": "high",
+      "second_reason": "Item 2 quotes the continuation of the mishna about money found in Jerusalem during ordinary days versus the Festival (b'shaar yemos hashana chullin / b'shas haregel hakol maaser), which matches exactly the 'Jerusalem Sweeping' prose that discusses this same distinction.",
+      "current_heading": "Animal Sellers Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Temple Mount Money",
+    "candidates": [
+      "Jerusalem Sweeping",
+      "Temple Mount Money",
+      "Three Renters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact statement of Rav Shemaya bar Ze'eira about Jerusalem markets being swept daily, which is precisely what candidate 0 ('Jerusalem Sweeping') discusses in its prose, including the same quote and its logic about attributing found coins to the most recent period.",
+      "chosen_heading": "Jerusalem Sweeping",
+      "current_heading": "Temple Mount Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Three Renters",
+    "candidates": [
+      "Temple Mount Money",
+      "Three Renters",
+      "Ye'ush No Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Bar Kappara's ruling about three Jewish renters, the inference about Rabbi Shimon ben Elazar, and Rav Menashya bar Ya'akov's alternative about three gentile renters \u2014 are precisely the content described in the 'Three Renters' prose, which is the current placement.",
+      "chosen_heading": "Three Renters",
+      "current_heading": "Three Renters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Ye'ush No Admission",
+    "candidates": [
+      "Ye'ush No Admission",
+      "Partners Exception",
+      "Pruta Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items belong under 'Ye'ush No Admission': items 1-4 are explicitly summarized in that section's prose (Rav Nachman's inn case, the two-person sela case, and the three-person case), and item 5 (Rava's partners exception) is also previewed there, with candidates 1 and 2 being separate downstream sections that discuss Rava's qualification in more detail but don't match this passage's specific content as closely as the current placement.",
+      "chosen_heading": "Ye'ush No Admission",
+      "current_heading": "Ye'ush No Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Pruta Threshold",
+    "candidates": [
+      "Partners Exception",
+      "Pruta Threshold",
+      "Steal Before Ye'ush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava's ruling that even an object worth only two perutas must be returned because one partner may have waived their share to another, which is explicitly the 'further refinement' discussed in the Pruta Threshold section's prose.",
+      "chosen_heading": "Pruta Threshold",
+      "current_heading": "Pruta Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Steal Before Ye'ush",
+    "candidates": [
+      "Steal Before Ye'ush",
+      "Change Mind After",
+      "Wait for Ye'ush"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Steal Before Ye'ush",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the scenario of taking before ye'ush with intent to steal, which is precisely what heading 0 ('Steal Before Ye'ush') discusses in its prose.",
+      "second_heading": "Change Mind After",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes taking before ye'ush with intent to return but then deciding to steal after ye'ush, which is exactly the scenario described in heading 1 ('Change Mind After').",
+      "current_heading": "Steal Before Ye'ush",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Wait for Ye'ush",
+    "candidates": [
+      "Change Mind After",
+      "Wait for Ye'ush",
+      "Beach Loss",
+      "Sieve Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the scenario of waiting until the owner despaired before taking the object and violating only 'lo suchal l'hisalem,' which matches exactly the 'Wait for Ye'ush' section's prose discussion of the third scenario.",
+      "chosen_heading": "Wait for Ye'ush",
+      "current_heading": "Wait for Ye'ush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Sieve Exception",
+    "candidates": [
+      "Beach Loss",
+      "Sieve Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the beach-loss ruling and the sieve exception in one continuous Gemara text, but its specific content \u2014 including the sifter/sieve detail and the reasoning about finding someone else's coins \u2014 matches precisely what the 'Sieve Exception' prose discusses, and the current placement is correct.",
+      "chosen_heading": "Sieve Exception",
+      "current_heading": "Sieve Exception",
+      "moved": false
+    }
+  }
+]

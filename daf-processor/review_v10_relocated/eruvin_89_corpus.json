@@ -1,0 +1,296 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Intro & Review",
+      "Two Balconies",
+      "Rava's Position",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's conclusion from the baraita \u2014 'therefore, even a kor and even two kor' \u2014 which is the resolution of Abaye's challenge to Rava's water-quantity concern, exactly as described in the 'Abaye's Challenge' prose.",
+      "second_heading": "Rava's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mishna citation followed by Rava's ruling ('even if they established an eruv'), which is precisely the opening move described in the 'Rava's Position' prose.",
+      "current_heading": "Rava's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Rava Clarified",
+      "Objects & Movement",
+      "Object Identity",
+      "Multiple Courtyards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete sugya about Rava's ruling \u2014 Abaye's challenge (item 1), the corrected version of Rava's statement (items 2-3), and Rav Ashi's explanation of why no-eruv prohibits pouring (item 4) \u2014 which is precisely what candidate 1 ('Rava Clarified') describes in its prose, including the gezeira dilma and the eiruv distinction.",
+      "chosen_heading": "Rava Clarified",
+      "current_heading": "Abaye's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Multiple Courtyards",
+    "candidates": [
+      "Rava Clarified",
+      "Objects & Movement",
+      "Object Identity",
+      "Multiple Courtyards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The hadran formula marks the conclusion of the perek 'Keitzad Mishtatefin,' which the prose of candidate 0 explicitly states: 'This concludes the discussion of the final sugya of perek Keitzad Mishtatefin.'",
+      "chosen_heading": "Rava Clarified",
+      "current_heading": "Multiple Courtyards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Multiple Courtyards",
+    "candidates": [
+      "Multiple Courtyards",
+      "Mishna Text",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text presenting Rabbi Meir's position and the Rabbis' counter-position about rooftops, which directly matches the 'Mishna Text' section's prose discussing kol ha-gagot ir reshut achat and the height differential qualification.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Multiple Courtyards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Mishna Text",
+      "Three Positions",
+      "Rabbi Shimon",
+      "Height Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's position that roofs, courtyards, and enclosures are one domain for vessels that began Shabbat within them but not for vessels from the house, which directly matches the 'Three Positions' section prose that explicitly describes this as one of the three mishna positions and paraphrases this exact content.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Three Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Height Problem",
+    "candidates": [
+      "Rabbi Shimon",
+      "Height Problem",
+      "Pillar Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the analytical difficulty raised by Abaye bar Avin and Rabbi Chanina bar Avin about Rabbi Meir's position \u2014 exactly what the 'Height Problem' prose describes as the core question of what Rabbi Meir holds regarding rooftop domains.",
+      "chosen_heading": "Height Problem",
+      "current_heading": "Height Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Pillar Teaching",
+    "candidates": [
+      "Pillar Teaching",
+      "Rooftop Application",
+      "Limitation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pillar Teaching",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Abaye's invocation of Rabbi Meir's pillar principle (the gezeira mishum tel bi-reshut harabim), which is exactly what candidate 0 'Pillar Teaching' describes.",
+      "second_heading": "Limitation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening move of the Gemara's inquiry into the extent of Rabbi Meir's prohibition \u2014 specifically whether it applies to a mortar or vat \u2014 which is precisely what candidate 2 'Limitation' discusses.",
+      "current_heading": "Pillar Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Limitation",
+    "candidates": [
+      "Rooftop Application",
+      "Limitation",
+      "Wall Between",
+      "Rabbi Meir",
+      "Doorways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records Abaye's transmission of Rabba's limitation of Rabbi Meir's ruling to only a pillar and millstone base because a person fixes a permanent place for them \u2014 exactly what the 'Limitation' section's prose describes.",
+      "chosen_heading": "Limitation",
+      "current_heading": "Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Doorways",
+    "candidates": [
+      "Wall Between",
+      "Rabbi Meir",
+      "Doorways",
+      "Chachamim View",
+      "Rav Four Cubits",
+      "Shmuel Allowed",
+      "Parutz Principle",
+      "Walls Visible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a single chain \u2014 the wall-between-courtyards challenge, the question of whether it permits carrying via the wall, and Rav Huna bar Yehuda/Rav Sheshet's resolution that carrying is via doorways \u2014 which is precisely what heading 2 ('Doorways') describes in its prose.",
+      "chosen_heading": "Doorways",
+      "current_heading": "Doorways",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Walls Visible",
+    "candidates": [
+      "Chachamim View",
+      "Rav Four Cubits",
+      "Shmuel Allowed",
+      "Parutz Principle",
+      "Walls Visible",
+      "Scenario",
+      "Why Difference",
+      "Shmuel Habitation",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 4 ('Walls Visible') describes: the Rav/Shmuel dispute about conspicuous vs. non-conspicuous partitions, the gud asik principle, the mishna challenge and Rav's school's response, the baraita from Shmuel's school, and then Rav Yosef/Abaye's exchange about the large/small roof case with habitation \u2014 all of which are explicitly narrated in the prose of candidate 4.",
+      "chosen_heading": "Walls Visible",
+      "current_heading": "Walls Visible",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Scenario",
+      "Why Difference",
+      "Shmuel Habitation",
+      "Rav Yosef",
+      "Mechitza Definition",
+      "Contrast Effect",
+      "Result"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are part of Rav Yosef's correction of Abaye's understanding \u2014 item 1 gives his mechitza-based reformulation and item 2 addresses the diurin terminology \u2014 which is precisely what the 'Rav Yosef' section's prose describes, including the back-and-forth where Abaye insists on the diurin concept and Rav Yosef reframes it.",
+      "chosen_heading": "Rav Yosef",
+      "current_heading": "Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Result",
+    "candidates": [
+      "Mechitza Definition",
+      "Contrast Effect",
+      "Result",
+      "Fixed Ladder",
+      "Total Use",
+      "Summary"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Result",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the ruling about large/small roofs with permanent vs. impermanent mechitzot, which is precisely what the 'Result' prose describes \u2014 silukei silikei nafshei meihacha.",
+      "second_heading": "Fixed Ladder",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's statement about the fixed ladder, which is exactly what the 'Fixed Ladder' prose introduces and explains.",
+      "current_heading": "Result",
+      "moved": true
+    }
+  }
+]

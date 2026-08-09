@@ -24,7 +24,7 @@
           "timestamp": "05:08"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -48,7 +48,7 @@
           "timestamp": "18:13"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -96,7 +96,7 @@
           "timestamp": "26:26"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -348,5 +348,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 25
+  "amud_b_sefaria_index": 25,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "23:39",
+  "amud_b_micro_title": "Explicit vs. Derived",
+  "shiur_start_daf": 94,
+  "shiur_start_amud": "b"
 }

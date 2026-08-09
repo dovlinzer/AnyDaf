@@ -1,0 +1,186 @@
+[
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Natural Operation",
+    "candidates": [
+      "Nikneit vs. Mekadesh",
+      "Lishna D'Kra vs. Status",
+      "Object vs. Subject",
+      "Gender Agreement",
+      "Derech and Bi'ah",
+      "Derech Natural Way",
+      "Man Seeks Woman",
+      "Aveidah Metaphor",
+      "Beyond Kinyan",
+      "Natural Operation",
+      "Drachim Alternatives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All seven items constitute the Gemara's extended inquiry into why various mishnayot use 'drachim' rather than 'devarim,' testing the word choice against zav, etrog, koy, and gittin cases \u2014 precisely the content described in candidate 9's prose about broadening the inquiry into drachim across other mishnayot.",
+      "chosen_heading": "Natural Operation",
+      "current_heading": "Natural Operation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Drachim Alternatives",
+    "candidates": [
+      "Drachim Alternatives",
+      "Minyana Resha",
+      "Chuppah Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's final resolution of the drachim/devarim question and the proof from the etrog seifa, which is exactly what the 'Drachim Alternatives' prose describes.",
+      "chosen_heading": "Drachim Alternatives",
+      "current_heading": "Drachim Alternatives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Chuppah Exclusion",
+    "candidates": [
+      "Minyana Resha",
+      "Chuppah Exclusion",
+      "Chalipin Excluded",
+      "Chalipin Perutah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items pose the question of what the numbers in the first and latter clauses exclude \u2014 item 1 asks the question and item 2 begins answering it (chuppah) \u2014 which matches heading 0 ('Minyana Resha') whose prose explicitly describes this question being asked, whereas heading 1 ('Chuppah Exclusion') is for the answer and subsequent Rav Huna discussion that follows.",
+      "chosen_heading": "Minyana Resha",
+      "current_heading": "Chuppah Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Chalipin Perutah",
+    "candidates": [
+      "Chalipin Excluded",
+      "Chalipin Perutah",
+      "Exchange Model Fails",
+      "Tosafot Chalipin",
+      "Minyana Sifa",
+      "Chalitza Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous Gemara unit about excluding chalipin from kiddushin via the gezeira shava from Ephron's field, which matches exactly the prose of candidate 0 ('Chalipin Excluded'), not candidate 1 where it currently sits.",
+      "chosen_heading": "Chalipin Excluded",
+      "current_heading": "Chalipin Perutah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Chalitza Exclusion",
+    "candidates": [
+      "Exchange Model Fails",
+      "Tosafot Chalipin",
+      "Minyana Sifa",
+      "Chalitza Exclusion",
+      "Menalan Kesef",
+      "Father's Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of excluding chalitza via the kal vachomer from yevama and the verse 'sefer keritut', which is precisely what the 'Chalitza Exclusion' prose describes.",
+      "chosen_heading": "Chalitza Exclusion",
+      "current_heading": "Chalitza Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Father's Rights",
+    "candidates": [
+      "Menalan Kesef",
+      "Father's Rights",
+      "Adon Zeh Adon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the foundational question of 'from where do we derive that a woman can be acquired through money' \u2014 which is precisely what candidate 0 ('Menalan Kesef') describes as its topic, while the current placement under 'Father's Rights' covers the subsequent discussion of the mishnah in Ketubot as part of the derivation, not the initial question itself.",
+      "chosen_heading": "Menalan Kesef",
+      "current_heading": "Father's Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Adon Zeh Adon",
+    "candidates": [
+      "Father's Rights",
+      "Adon Zeh Adon",
+      "Father Active Agent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Yehuda/Rav derivation from 'veyatza chinam ein kesef' explaining 'ein kesef le'adon zeh aval yesh kesef le'adon acher,' which is precisely the content described in the 'Adon Zeh Adon' section's prose.",
+      "chosen_heading": "Adon Zeh Adon",
+      "current_heading": "Adon Zeh Adon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Father Active Agent",
+    "candidates": [
+      "Father Active Agent",
+      "Ketanah Na'arah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the father receives the betrothal money rather than the daughter, citing 'et biti natati l'ish hazeh,' which is precisely what the 'Father Active Agent' prose discusses.",
+      "chosen_heading": "Father Active Agent",
+      "current_heading": "Father Active Agent",
+      "moved": false
+    }
+  }
+]

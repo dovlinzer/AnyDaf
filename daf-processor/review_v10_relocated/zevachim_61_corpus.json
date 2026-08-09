@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Kodshei vs. Kodshim Kalim",
+    "candidates": [
+      "Shechita Requirement",
+      "Kodshei vs. Kodshim Kalim",
+      "Rabbi Yishmael Bechor",
+      "Babylonians Criticized",
+      "Camp Transit Pesul",
+      "Rashi vs. Tosafot",
+      "Two Eating Scenarios",
+      "Ravina Reconciles"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Babylonians Criticized",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the content described in 'Babylonians Criticized' \u2014 Ravin ascends, presents the halakha to Rabbi Yirmiyah, who calls the Babylonians foolish and introduces the braita about siluk masa'ot.",
+      "second_heading": "Two Eating Scenarios",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the second braita (bishnei mekomos kodshim ne'echalin) and the suggestion that one braita refers to kodshei kodashim and the other to kodshim kalim, which is precisely what 'Two Eating Scenarios' describes.",
+      "current_heading": "Kodshei vs. Kodshim Kalim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Ravina Reconciles",
+    "candidates": [
+      "Rabbi Yishmael Bechor",
+      "Babylonians Criticized",
+      "Camp Transit Pesul",
+      "Rashi vs. Tosafot",
+      "Two Eating Scenarios",
+      "Ravina Reconciles",
+      "Two Places",
+      "Shechinah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are Ravina's reconciliation \u2014 that both baraitot discuss kodshim kalim and the apparent contradiction reflects the dispute between Rabbi Yishmael and the Sages \u2014 which is precisely what candidate 5 ('Ravina Reconciles') describes in its prose.",
+      "chosen_heading": "Ravina Reconciles",
+      "current_heading": "Ravina Reconciles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Shechinah Status",
+    "candidates": [
+      "Two Places",
+      "Shechinah Status",
+      "Ohel Moed Transit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-3 present the 've'ibais eima' resolution about bishnei mekomos referring to before erection and after dismantling, which is precisely what candidate 0 ('Two Places') discusses in its prose, whereas the current placement under 'Shechinah Status' covers the Rashi/Tosafot debate that follows this passage.",
+      "chosen_heading": "Two Places",
+      "current_heading": "Shechinah Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Ohel Moed Transit",
+    "candidates": [
+      "Shechinah Status",
+      "Ohel Moed Transit",
+      "Shiloh Stone Altar",
+      "Three Avanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge 'eima hachi nami' and the answer from the verse 'venasa ohel moed' \u2014 af al pi shenasa ohel moed hu \u2014 which is precisely what candidate 1's prose describes and analyzes.",
+      "chosen_heading": "Ohel Moed Transit",
+      "current_heading": "Ohel Moed Transit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Three Avanim",
+    "candidates": [
+      "Shiloh Stone Altar",
+      "Three Avanim",
+      "Fire on Copper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's statement about the stone altar at Shiloh AND the baraita supporting it, so the entire unit belongs under 'Shiloh Stone Altar' which introduces Rav Huna's statement and notes the baraita as support, rather than splitting it across two headings.",
+      "chosen_heading": "Shiloh Stone Altar",
+      "current_heading": "Three Avanim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Fire on Copper",
+    "candidates": [
+      "Three Avanim",
+      "Fire on Copper",
+      "Hybrid Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Ami's objection about the divine fire remaining on the copper altar, which is precisely what the 'Fire on Copper' section's prose describes and analyzes.",
+      "chosen_heading": "Fire on Copper",
+      "current_heading": "Fire on Copper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Hybrid Altar",
+    "candidates": [
+      "Hybrid Altar",
+      "Coexisting Altars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Natan's baraita about the copper hollow altar filled with stones, which is exactly what the 'Hybrid Altar' section's prose discusses and analyzes.",
+      "chosen_heading": "Hybrid Altar",
+      "current_heading": "Hybrid Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Coexisting Altars",
+    "candidates": [
+      "Coexisting Altars",
+      "Fire Rounds",
+      "Footprint Extended"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabbanan's 'sparks' view AND Rav Pappa's 'guest/alternating' view, and candidate 1 ('Fire Rounds') explicitly discusses Rav Pappa's ushpiza reading and contrasts it with Rav Adda's view, making it the better match for this complete passage that includes Rav Na\u1e25man bar Yitz\u1e25ak's framing of both opinions.",
+      "chosen_heading": "Fire Rounds",
+      "current_heading": "Coexisting Altars",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Footprint Extended",
+    "candidates": [
+      "Fire Rounds",
+      "Footprint Extended",
+      "Population Reason",
+      "Abaye Counters",
+      "Divine Fire Speed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Bnei Gola adding four amot to the south and west of the altar in a gamma shape, and Rav Yosef's explanation that the old size was insufficient \u2014 exactly what the 'Footprint Extended' section's prose describes and contextualizes.",
+      "chosen_heading": "Footprint Extended",
+      "current_heading": "Footprint Extended",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Divine Fire Speed",
+    "candidates": [
+      "Population Reason",
+      "Abaye Counters",
+      "Divine Fire Speed",
+      "Wine Libation",
+      "Hole Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's challenge (comparing First and Second Temple populations) and Rav Yosef's response about heavenly fire, but the Gemara text as a unit \u2014 including the question and answer together \u2014 is best placed under 'Abaye Counters' since that heading's prose explicitly describes both Abaye's challenge and anticipates the population argument, while 'Divine Fire Speed' describes the resolution separately; however, since the passage contains both the challenge AND the answer, and 'Abaye Counters' prose covers Abaye's question while 'Divine Fire Speed' covers the answer, the passage actually spans both headings \u2014 but given the current placement is under 'Divine Fire Speed' and that section's prose explicitly discusses the heavenly fire resolution which is the climax of this exchange, the passage fits best under heading 1 ('Abaye Counters') since that prose describes exactly what Abaye says in the first half of the quoted text, and the response follows naturally as part of the same unit.",
+      "chosen_heading": "Abaye Counters",
+      "current_heading": "Divine Fire Speed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Hole Position",
+    "candidates": [
+      "Wine Libation",
+      "Hole Position",
+      "Solid to Drinking",
+      "Proper Dimensions",
+      "Better Than Shlomo",
+      "Verse Derivation",
+      "House Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the expansion of the altar to accommodate the shittin (underground cavities for libations), which directly matches the 'Wine Libation' section's prose about 'shishin hosifu' \u2014 the addition made to accommodate the shittin that received wine nesachim.",
+      "chosen_heading": "Wine Libation",
+      "current_heading": "Hole Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "House Analogy",
+    "candidates": [
+      "Solid to Drinking",
+      "Proper Dimensions",
+      "Better Than Shlomo",
+      "Verse Derivation",
+      "House Analogy",
+      "Oral Torah Space"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Solid to Drinking",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 complete the conceptual shift about 'drinking like eating' and the reinterpretation of 'mizbe'ach adamah' as prohibiting arches/tunnels, which is precisely what heading 0 ('Solid to Drinking') discusses.",
+      "second_heading": "Proper Dimensions",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rav Yosef's citation of the baraita about the altar reaching its proper dimensions and then the verse derivation, matching headings 1-3, with item 3 fitting heading 1 ('Proper Dimensions') as the starting point of that sub-discussion.",
+      "current_heading": "House Analogy",
+      "moved": true
+    }
+  }
+]

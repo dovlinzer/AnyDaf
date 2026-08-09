@@ -1,0 +1,425 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Normal vs. Abnormal Use",
+    "candidates": [
+      "Heat Retention Rules",
+      "Mishna: Insulation Rules",
+      "Removing & Restoring Pots",
+      "Fear of Heating",
+      "Filling Water Vessels",
+      "Shmuel Permits Cold",
+      "Rav Yosef's Challenge",
+      "Abaye's Response",
+      "Normal vs. Abnormal Use",
+      "Rav Huna vs. Rabbi",
+      "Rabbi's Reversal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Filling Water Vessels",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the flask/pillow case, which heading 4 ('Filling Water Vessels') explicitly discusses as insulating something cold.",
+      "second_heading": "Rav Yosef's Challenge",
+      "second_confidence": "medium",
+      "second_reason": "Items 2-3 form a continuous challenge-and-response chain about Shmuel's ruling on insulating cold things, which heading 6 introduces with Rav Yosef's challenge to Shmuel's statement.",
+      "current_heading": "Normal vs. Abnormal Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rabbi's Reversal",
+    "candidates": [
+      "Rav Huna vs. Rabbi",
+      "Rabbi's Reversal",
+      "Respect Between Scholars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the initial conflict (Rav Huna vs. Rabbi) and its resolution including the narrative scene, all of which is introduced and framed under heading 0's prose, while heading 1's prose describes the same content as if summarizing what the passage itself narrates \u2014 meaning the passage is the source text for heading 0's discussion that sets up the conflict and resolution together.",
+      "chosen_heading": "Rav Huna vs. Rabbi",
+      "current_heading": "Rabbi's Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Respect Between Scholars",
+    "candidates": [
+      "Rabbi's Reversal",
+      "Respect Between Scholars",
+      "Rav Nachman's Instruction",
+      "Ammi's Objection, Yosef",
+      "Following Teachers",
+      "Bishul Akum Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's observation about mutual love and deference between the sages, which exactly matches the prose of candidate 1 ('Respect Between Scholars') that discusses this same quote and its implications.",
+      "chosen_heading": "Respect Between Scholars",
+      "current_heading": "Respect Between Scholars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Bishul Akum Issue",
+    "candidates": [
+      "Rav Nachman's Instruction",
+      "Ammi's Objection, Yosef",
+      "Following Teachers",
+      "Bishul Akum Issue",
+      "Adam Chashuv Standard",
+      "Marit Ayin & Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete narrative of Rav Nachman's instruction, Rabbi Ammi's anger, and Rav Yosef's defense explaining the two teachers \u2014 all of which is introduced under heading 0 ('Rav Nachman's Instruction'), whose prose describes exactly this scene, while the current placement under 'Bishul Akum Issue' only captures the tail end of item 2.",
+      "chosen_heading": "Rav Nachman's Instruction",
+      "current_heading": "Bishul Akum Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Marit Ayin & Standards",
+    "candidates": [
+      "Adam Chashuv Standard",
+      "Marit Ayin & Standards",
+      "Braita Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states 'an important person is different' (adam chashuv shani), which is precisely what heading 0 'Adam Chashuv Standard' is about, and that section's prose explicitly discusses this Gemara's answer about why Rabbi Ammi objected.",
+      "chosen_heading": "Adam Chashuv Standard",
+      "current_heading": "Marit Ayin & Standards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Braita Rules",
+    "candidates": [
+      "Marit Ayin & Standards",
+      "Braita Rules",
+      "Exchanging Coverings",
+      "Adjustment vs. New"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the braita itself stating the rule that one may not initiate new hatmana on Shabbat but may add to existing insulation, plus Rabban Shimon ben Gamliel's method \u2014 exactly what the 'Braita Rules' prose describes.",
+      "chosen_heading": "Braita Rules",
+      "current_heading": "Braita Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Adjustment vs. New",
+    "candidates": [
+      "Exchanging Coverings",
+      "Adjustment vs. New",
+      "Transfer to 2nd Vessel",
+      "Cooling Logic",
+      "Muktzeh Materials",
+      "Access Issues",
+      "Pot in Box",
+      "Removing Muktzeh",
+      "Flax Remnants"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cooling Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the transfer-to-second-vessel leniency and the cooling logic (hashta akurei k'meiker), which match headings 'Transfer to 2nd Vessel' and 'Cooling Logic' \u2014 but since the cooling logic prose (heading 3) explicitly quotes and explains the same Gemara line in item 1, items 1-2 together belong under heading 3 ('Cooling Logic').",
+      "second_heading": "Muktzeh Materials",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 describe the Tosefta cases about muktzeh materials \u2014 insulating/covering with nittal vs. non-nittal items and the rule of notel u'machzir \u2014 which directly match heading 4 ('Muktzeh Materials').",
+      "current_heading": "Adjustment vs. New",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Flax Remnants",
+    "candidates": [
+      "Transfer to 2nd Vessel",
+      "Cooling Logic",
+      "Muktzeh Materials",
+      "Access Issues",
+      "Pot in Box",
+      "Removing Muktzeh",
+      "Flax Remnants",
+      "Stacking Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda's ruling that fine flax chaff is like manure (zevel) and therefore may not be used for insulation, which matches exactly the prose in 'Flax Remnants' describing Rabbi Yehuda's ruling on nesoret shel pishtan dakah being ke'zevel.",
+      "chosen_heading": "Flax Remnants",
+      "current_heading": "Flax Remnants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Stacking Vessels",
+    "candidates": [
+      "Stacking Vessels",
+      "Sealing with Dough",
+      "Snow & Hail"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stacking Vessels",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses stacking vessels and sealing with dough, both covered under 'Stacking Vessels' and 'Sealing with Dough' prose \u2014 but its primary content about stacking meicham/kdeira combinations matches the 'Stacking Vessels' section most directly, and the sealing-with-dough clause is a subordinate detail within the same Mishnah passage discussed there.",
+      "second_heading": "Snow & Hail",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new topic \u2014 insulating cold food \u2014 which is a self-contained ruling unrelated to stacking or sealing, and while it doesn't perfectly match 'Snow & Hail,' that section is the closest candidate as it deals with keeping things cold, and the current placement under 'Stacking Vessels' is clearly wrong for this item.",
+      "current_heading": "Stacking Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Snow & Hail",
+    "candidates": [
+      "Sealing with Dough",
+      "Snow & Hail",
+      "Nolad Debate",
+      "Intro to Animals",
+      "Animal Melacha",
+      "Clothing vs. Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the prohibition on crushing snow/hail on Shabbat and the permissibility of passive melting, which is precisely what the 'Snow & Hail' section's prose describes.",
+      "chosen_heading": "Snow & Hail",
+      "current_heading": "Snow & Hail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Clothing vs. Burden",
+    "candidates": [
+      "Nolad Debate",
+      "Intro to Animals",
+      "Animal Melacha",
+      "Clothing vs. Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d1\u05de\u05d4 \u05d8\u05d5\u05de\u05e0\u05d9\u05df' is the closing formula marking the end of the perek 'bameh tomnin,' which matches exactly the prose under 'Intro to Animals' that explicitly mentions 'hadran alach bameh tomnin' as the transition point to the new subject of animals.",
+      "chosen_heading": "Intro to Animals",
+      "current_heading": "Clothing vs. Burden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Clothing vs. Burden",
+    "candidates": [
+      "Clothing vs. Burden",
+      "Specific Accessories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishna listing specific animal accessories (camel with afsar, naaka with \u1e25atam, horse with chain, all chain-wearing animals), which exactly matches the 'Specific Accessories' prose that enumerates these same items in the same order.",
+      "chosen_heading": "Specific Accessories",
+      "current_heading": "Clothing vs. Burden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Specific Accessories",
+    "candidates": [
+      "Clothing vs. Burden",
+      "Specific Accessories",
+      "Naaka & Nose Ring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about sprinkling purification waters and immersing the collar in place is explicitly discussed in the 'Specific Accessories' prose, which mentions this exact detail about performing sprinkling of parah adumah ashes or immersing in a mikvah while the collar remains on the animal.",
+      "chosen_heading": "Specific Accessories",
+      "current_heading": "Specific Accessories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Naaka & Nose Ring",
+    "candidates": [
+      "Naaka & Nose Ring",
+      "Libyan Donkeys",
+      "Digression: Barley"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the naaka/chotam and luvdekim/perumbiya explanations in a single Gemara unit, and the current heading's prose already discusses both topics together as part of the same analytical section.",
+      "chosen_heading": "Naaka & Nose Ring",
+      "current_heading": "Naaka & Nose Ring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Digression: Barley",
+    "candidates": [
+      "Libyan Donkeys",
+      "Digression: Barley",
+      "Switching Accessories",
+      "Four Animals Bit",
+      "Naaka Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Levi sending money to Bei \u1e24ozai for a Libyan donkey and receiving barley in return, which is precisely what the 'Digression: Barley' section's prose discusses.",
+      "chosen_heading": "Digression: Barley",
+      "current_heading": "Digression: Barley",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Naaka Limitation",
+    "candidates": [
+      "Switching Accessories",
+      "Four Animals Bit",
+      "Naaka Limitation",
+      "Braita Debate",
+      "Excess = Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous discussion of Shmuel's question about switching accessories between animals (naaka with afsar, camel with chatam), which matches heading 0 'Switching Accessories' exactly \u2014 the current placement under 'Naaka Limitation' captures only part of the passage's content, while heading 0's prose directly describes the Shmuel/Rav Yehuda question that opens item 1 and drives items 2 and 3.",
+      "chosen_heading": "Switching Accessories",
+      "current_heading": "Naaka Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Excess = Burden",
+    "candidates": [
+      "Braita Debate",
+      "Excess = Burden",
+      "Chananya View",
+      "Cat Case",
+      "Halakha = Chananya",
+      "Donkey Story",
+      "Clever Response",
+      "Respect & Halakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together introduce the baraita dispute (item 1), clarify the case (item 2), and resolve it with the cat case and Shmuel's ruling (item 3) \u2014 this entire sequence is introduced and framed by the 'Braita Debate' heading's prose, which presents the Chananya dispute, whereas the current heading 'Excess = Burden' only covers part of what items 2-3 discuss and misses item 1's introductory baraita.",
+      "chosen_heading": "Braita Debate",
+      "current_heading": "Excess = Burden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Respect & Halakha",
+    "candidates": [
+      "Chananya View",
+      "Cat Case",
+      "Halakha = Chananya",
+      "Donkey Story",
+      "Clever Response",
+      "Respect & Halakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the complete donkey story narrative \u2014 the travel incident, the offense, Levi's question about the halter, and Rabba bar Rav Huna's ruling \u2014 which is precisely what the 'Donkey Story' prose section describes.",
+      "chosen_heading": "Donkey Story",
+      "current_heading": "Respect & Halakha",
+      "moved": true
+    }
+  }
+]

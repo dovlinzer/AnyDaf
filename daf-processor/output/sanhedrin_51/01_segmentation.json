@@ -15,7 +15,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Baraita on the Conditions for the Burning Punishment of a Kohen's Daughter",
@@ -96,7 +96,7 @@
           "timestamp": "35:40"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -477,5 +477,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 30
+  "amud_b_sefaria_index": 30,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "45:34",
+  "amud_b_micro_title": "Rabbi Yishmael Analogy",
+  "shiur_start_daf": 51,
+  "shiur_start_amud": "a"
 }

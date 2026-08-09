@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Issur Chal al Issur",
+    "candidates": [
+      "Gedi & Imo Derivation",
+      "Issur Chal al Issur",
+      "Three Resolutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's challenge to Shmuel's position on issur chal al issur, citing the kohen tamei/terumah tme'ah case, which is exactly what the 'Issur Chal al Issur' section's prose describes.",
+      "chosen_heading": "Issur Chal al Issur",
+      "current_heading": "Issur Chal al Issur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Three Resolutions",
+    "candidates": [
+      "Three Resolutions",
+      "Pregnant Animal Milk",
+      "Female Milk Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the three resolutions to the tension between Shmuel's rulings on issur chal al issur, which is precisely what the 'Three Resolutions' prose describes in detail.",
+      "chosen_heading": "Three Resolutions",
+      "current_heading": "Three Resolutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Female Milk Status",
+    "candidates": [
+      "Pregnant Animal Milk",
+      "Female Milk Status",
+      "Initial Lashes Question",
+      "Ami & Assi Debate",
+      "Primary Concern Framing",
+      "Independence Theory",
+      "Derivative Theory",
+      "Derivative Theory",
+      "Possible Resolution",
+      "Mei Chalav Exemption",
+      "Blood Exemption",
+      "Inedible Parts",
+      "Forbidden Meat Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the dilemma of cooking in milk of a goat that has not yet nursed, which is precisely the 'Pregnant Animal Milk' scenario described in candidate 0's prose, not the answer/reasoning section described in candidate 1.",
+      "chosen_heading": "Pregnant Animal Milk",
+      "current_heading": "Female Milk Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Forbidden Meat Liable",
+    "candidates": [
+      "Initial Lashes Question",
+      "Ami & Assi Debate",
+      "Primary Concern Framing",
+      "Independence Theory",
+      "Derivative Theory",
+      "Derivative Theory",
+      "Possible Resolution",
+      "Mei Chalav Exemption",
+      "Blood Exemption",
+      "Inedible Parts",
+      "Forbidden Meat Liable",
+      "Baraita Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's initial statement of the Rabbi Ami/Rabbi Asi dispute and the opening suggestion that it turns on issur chal al issur, which is precisely what the 'Ami & Assi Debate' prose section describes.",
+      "chosen_heading": "Ami & Assi Debate",
+      "current_heading": "Forbidden Meat Liable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Baraita Analysis",
+    "candidates": [
+      "Forbidden Meat Liable",
+      "Baraita Analysis",
+      "Mishna Mei Chalav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The entire passage forms a continuous chain about the issur chal al issur debate \u2014 alternative explanations (items 1-4), a baraita objection about piggul/notar (items 5-6), and the Gemara's resolution (item 7) \u2014 which candidate 1's prose directly addresses with its discussion of the baraita and the 'hai tanna savar' answer.",
+      "chosen_heading": "Baraita Analysis",
+      "current_heading": "Baraita Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Mishna Mei Chalav",
+    "candidates": [
+      "Mishna Mei Chalav",
+      "Reish Lakish Limit",
+      "Baraita Confirmation",
+      "Cross-Species Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the mishna about mei chalav being like milk and Reish Lakish's limitation together in one unit, and the current heading 'Mishna Mei Chalav' with its prose covers both elements \u2014 the mishna foundation and Reish Lakish's distinction \u2014 making it the best single home for this complete passage.",
+      "chosen_heading": "Mishna Mei Chalav",
+      "current_heading": "Mishna Mei Chalav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Cross-Species Derivation",
+    "candidates": [
+      "Reish Lakish Limit",
+      "Baraita Confirmation",
+      "Cross-Species Derivation",
+      "Kal va-Chomer Mother",
+      "Species Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the opening of the baraita asking how we extend the prohibition from the literal mother's milk to cow and ewe milk, which is exactly what the 'Cross-Species Derivation' prose introduces.",
+      "chosen_heading": "Cross-Species Derivation",
+      "current_heading": "Cross-Species Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Species Expansion",
+    "candidates": [
+      "Kal va-Chomer Mother",
+      "Species Expansion",
+      "Rav Ashi Objection",
+      "Counter-objection",
+      "Verse Necessity",
+      "Older Sister Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: item 1 is the kal va-chomer argument, item 2 challenges why a verse is needed if the kal va-chomer suffices, and item 3 (Rav Ashi) provides the refutation showing why the kal va-chomer fails \u2014 this entire unit belongs under 'Kal va-Chomer Mother' which describes the baraita's kal va-chomer, not under 'Species Expansion' where it currently sits.",
+      "chosen_heading": "Kal va-Chomer Mother",
+      "current_heading": "Species Expansion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Older Sister Case",
+    "candidates": [
+      "Rav Ashi Objection",
+      "Counter-objection",
+      "Verse Necessity",
+      "Older Sister Case",
+      "Ma'aser Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita asking about cooking a kid in the milk of its older sister ('bachalav achoto ha-gedolah minayin'), which is precisely what the 'Older Sister Case' prose describes.",
+      "chosen_heading": "Older Sister Case",
+      "current_heading": "Older Sister Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Ma'aser Logic",
+    "candidates": [
+      "Ma'aser Logic",
+      "Rav Ashi Second Objection",
+      "Slaughter Difference",
+      "Common Denominator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the kal va-chomer argument about the mother entering the pen for ma'aser versus the older sister, and the verse's response, which is exactly what the 'Ma'aser Logic' prose describes.",
+      "chosen_heading": "Ma'aser Logic",
+      "current_heading": "Ma'aser Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Common Denominator",
+    "candidates": [
+      "Rav Ashi Second Objection",
+      "Slaughter Difference",
+      "Common Denominator",
+      "Self-Milk Question",
+      "Siblings vs. Mother",
+      "Horse-Mule Case"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Horse-Mule Case",
+    "candidates": [
+      "Self-Milk Question",
+      "Siblings vs. Mother",
+      "Horse-Mule Case",
+      "Reverse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items continue the horse-mule crossbreeding challenge and its rebuttal ('the seed of the father causes it'), which is precisely what the 'Horse-Mule Case' prose describes as the invalidation of the kal va-chomer through a counterexample and its refutation.",
+      "chosen_heading": "Horse-Mule Case",
+      "current_heading": "Horse-Mule Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Reverse Case",
+    "candidates": [
+      "Reverse Case",
+      "Slave-Woman Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a mule born of a donkey and mare, where pri im pri is permitted and pri im em is forbidden \u2014 exactly the reverse case scenario described in candidate 0's prose.",
+      "chosen_heading": "Reverse Case",
+      "current_heading": "Reverse Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Slave-Woman Analogy",
+    "candidates": [
+      "Slave-Woman Analogy",
+      "Kilai Zera'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the slave/freed-slave sibling scenario (pri im pri / pri im em) and the rejection via 'get shichrur hu de-ka garem,' which is precisely what the 'Slave-Woman Analogy' prose describes.",
+      "chosen_heading": "Slave-Woman Analogy",
+      "current_heading": "Slave-Woman Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Kilai Zera'im",
+    "candidates": [
+      "Kilai Zera'im",
+      "One Body Principle",
+      "Verse Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the kilai zera'im (diverse seeds) argument and its rejection, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Kilai Zera'im",
+      "current_heading": "Kilai Zera'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Verse Needed",
+    "candidates": [
+      "One Body Principle",
+      "Verse Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's argument about the two-bodies vs. one-body distinction (the core of the 'One Body Principle'), and while it also mentions the verse being necessary, the primary content \u2014 the *pircha* that the kal va-chomer fails because fruit-with-fruit involves two bodies whereas fruit-with-mother involves one body \u2014 matches the prose of heading 0, which explicitly discusses *shnei gufim* vs. *guf echad* as Rav Ashi's decisive answer.",
+      "chosen_heading": "One Body Principle",
+      "current_heading": "Verse Needed",
+      "moved": true
+    }
+  }
+]

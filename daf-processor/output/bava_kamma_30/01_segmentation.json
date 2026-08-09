@@ -50,7 +50,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Adam Hamazik and the Tripping Case: When Does a Falling Object Become Your Act?",
@@ -112,7 +112,7 @@
           "timestamp": "20:02"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -146,7 +146,7 @@
           "timestamp": "25:54"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -184,8 +184,8 @@
           "timestamp": "35:08"
         }
       ],
-      "sefaria_index": 15,
-      "matched": false
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Distinguishing Principle from Profit: Rav Meir vs. Rabbis on Usurious Loans and the Mekalkel Principle",
@@ -198,7 +198,7 @@
           "timestamp": "36:54"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 18,
       "matched": false
     },
     {
@@ -237,7 +237,7 @@
           "display_title": "Timing: Immediate or"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -261,7 +261,7 @@
           "timestamp": "54:59"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 40,
       "matched": true
     },
     {
@@ -305,7 +305,7 @@
           "timestamp": "58:56"
         }
       ],
-      "sefaria_index": 35,
+      "sefaria_index": 43,
       "matched": true
     }
   ],
@@ -608,5 +608,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 28
+  "amud_b_sefaria_index": 28,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "40:14",
+  "amud_b_micro_title": "Permission/Liability Link",
+  "shiur_start_daf": 29,
+  "shiur_start_amud": "b"
 }

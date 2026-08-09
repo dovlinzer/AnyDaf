@@ -1,0 +1,373 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Rav's Position",
+      "Shmuel's Position",
+      "Principal Requirement",
+      "Scenario Setup",
+      "Brayta Logic",
+      "Gemara's Challenge",
+      "The Novelty",
+      "Torah's Language",
+      "Tana'im Debate",
+      "Witnesses Discredited",
+      "Slaughter Witnesses Kefel",
+      "Sumchus Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Brayta Logic",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-5 form a continuous chain analyzing the baraita's logic regarding whether admission to tevicha constitutes a valid admission, matching the 'Brayta Logic' prose discussion.",
+      "second_heading": "Tana'im Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 6 opens the tanna'im debate proposal with the edim zomemim baraita, which directly matches the 'Tana'im Debate' prose description.",
+      "current_heading": "Scenario Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Sumchus Position",
+    "candidates": [
+      "Brayta Logic",
+      "Gemara's Challenge",
+      "The Novelty",
+      "Torah's Language",
+      "Tana'im Debate",
+      "Witnesses Discredited",
+      "Slaughter Witnesses Kefel",
+      "Sumchus Position",
+      "Setup & Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items present the baraita's statement about Sumakhos (item 1) and the Gemara's analysis of which clause Sumakhos is addressing (items 2-3), which corresponds exactly to the prose in candidate 7 ('Sumcus Position') that discusses the Sumchus position and the Gemara working through 'ileima reisha' and 'ella seifa' possibilities.",
+      "chosen_heading": "Sumchus Position",
+      "current_heading": "Sumchus Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Setup & Proof",
+    "candidates": [
+      "Setup & Proof",
+      "Rabbanan View",
+      "Sumchus View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage presents the factual reconstruction of the case \u2014 two witnesses accuse, defendant admits, defendant's witnesses make them zomemim, owner's witnesses confirm \u2014 which is exactly the 'Setup & Proof' section's prose content describing the case structure before the Rabbanan/Sumchus split is analyzed.",
+      "chosen_heading": "Setup & Proof",
+      "current_heading": "Setup & Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Sumchus View",
+    "candidates": [
+      "Rabbanan View",
+      "Sumchus View",
+      "Rav Acha's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present the Rabbanan/Sumakhos dispute about whether an admission to slaughter (*hoda'at tevicha*) is valid when the theft admission was made due to witnesses \u2014 this is precisely what the 'Rabbanan View' prose describes, covering both sides of the dispute (Rabbanan exempt, Sumakhos obligates), whereas the 'Sumchus View' prose discusses a different framing involving *zomemim* and the asymmetry between *ganafti* and *tavachti u'macharti*.",
+      "chosen_heading": "Rabbanan View",
+      "current_heading": "Sumchus View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Rav Acha's Reading",
+    "candidates": [
+      "Sumchus View",
+      "Rav Acha's Reading",
+      "Real Witnesses",
+      "Rabbanan Position",
+      "Sumchus Position (II)",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Acha's alternative reading: item 1 states his thesis (everyone agrees admission to tevicha alone is not a valid hoda'ah) and item 2 presents the actual case he constructs around edut she'ei atah yachol lehazimah, which is precisely what the 'Rav Acha's Reading' prose describes.",
+      "chosen_heading": "Rav Acha's Reading",
+      "current_heading": "Rav Acha's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Real Witnesses",
+      "Rabbanan Position",
+      "Sumchus Position (II)",
+      "Conclusion",
+      "Mishnah Case",
+      "Gemara Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items cover exactly the content described in the 'Conclusion' prose: the Rabbanan/Sumchus dispute over edut she'ei atah yachol lehazimah (items 1-2), the Gemara's invocation of the accepted principle against Sumchus (item 3), and the clarification via Rav Elazar that the zomemim pay only the knas portion beyond the principal (items 4-5).",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Gemara Question",
+    "candidates": [
+      "Mishnah Case",
+      "Gemara Question",
+      "Rabbi Shimon Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah case and the immediate Gemara question about it \u2014 the prose under 'Mishnah Case' (index 0) explicitly covers both the Mishnah's ruling (de'ki tavach de'hekdesh tavach) and the follow-up question (mah li machar l'hedyot mah li machar l'shamayim), matching both items precisely, while 'Gemara Question' (index 1) is where it currently sits but its prose only describes the question portion, making index 0 the clearly better unified home for the passage.",
+      "chosen_heading": "Mishnah Case",
+      "current_heading": "Gemara Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rabbi Shimon Answer",
+    "candidates": [
+      "Gemara Question",
+      "Rabbi Shimon Answer",
+      "Types of Kodashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the Gemara's answer citing Rabbi Shimon's principle about kodshim she'chayav b'achrayutan, which is precisely what the 'Rabbi Shimon Answer' section's prose discusses.",
+      "chosen_heading": "Rabbi Shimon Answer",
+      "current_heading": "Rabbi Shimon Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Types of Kodashim",
+    "candidates": [
+      "Types of Kodashim",
+      "Association Remains",
+      "Kedusha vs. Ownership",
+      "Types of Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's rejection of Rabbi Shimon as the basis for the mishna's first clause and the alternative proposal involving kodashim kalim and Rabbi Yose HaGalili \u2014 exactly the content described in the 'Types of Kodashim' prose.",
+      "chosen_heading": "Types of Kodashim",
+      "current_heading": "Types of Kodashim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Types of Sanctity",
+    "candidates": [
+      "Association Remains",
+      "Kedusha vs. Ownership",
+      "Types of Sanctity",
+      "Tosafot Analysis",
+      "Seeming Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion \u2014 rejecting the kodshei kodashim distinction, then resolving via the principle that hekdesh leaves the animal still called 'Reuven's ox' \u2014 which is precisely the content described in candidate 0's prose about me'ikara tora d'Reuven v'hashta tora d'Reuven and the persistent association distinguishing hekdesh from mechira.",
+      "chosen_heading": "Association Remains",
+      "current_heading": "Types of Sanctity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Seeming Contradiction",
+    "candidates": [
+      "Tosafot Analysis",
+      "Seeming Contradiction",
+      "Different Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge that Rabbi Shimon's ruling seems backward \u2014 that chayav b'achrayutan should exempt and she'eino chayav b'achrayutan should obligate \u2014 which is precisely the 'seeming contradiction' or paradox that heading 1's prose describes.",
+      "chosen_heading": "Seeming Contradiction",
+      "current_heading": "Seeming Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Different Case",
+    "candidates": [
+      "Different Case",
+      "Liability = Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's answer that Rabbi Shimon is addressing a different case \u2014 stealing already-consecrated property from the owner's house \u2014 which is precisely what the 'Different Case' prose describes.",
+      "chosen_heading": "Different Case",
+      "current_heading": "Different Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Liability = Ownership",
+    "candidates": [
+      "Liability = Ownership",
+      "No Liability = Exemption",
+      "Problem Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Liability = Ownership",
+      "first_confidence": "high",
+      "first_reason": "Item 1 gives the scriptural basis ('v'gunav mibeis ha'ish' excludes hekdesh) which sets up the rule that ownership/responsibility determines liability \u2014 matching the 'Liability = Ownership' section's prose about karina bei v'gunav mibeis ha'ish.",
+      "second_heading": "No Liability = Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Shimon's full ruling, covering both the liable case (chayav b'achrayutan) and the exempt case (not chayav b'achrayutan), but the exempt half ('d'lo karina bei') maps precisely to the 'No Liability = Exemption' prose which explicitly quotes that phrase.",
+      "current_heading": "Liability = Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Problem Setup",
+    "candidates": [
+      "No Liability = Exemption",
+      "Problem Setup",
+      "Korban Shechinacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's principle that 'shechita she'einah re'uyah lo shma shechita' and applies it to question whether slaughtering a stolen korban outside the Temple can trigger the four-and-five payment \u2014 exactly the 'serious difficulty' described in the 'Problem Setup' prose.",
+      "chosen_heading": "Problem Setup",
+      "current_heading": "Problem Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Korban Shechinacha",
+    "candidates": [
+      "Korban Shechinacha",
+      "Second Answer: Ravin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Dimi's ruling about slaughtering unblemished animals inside the Temple for the owner's sake, and Rabbi Yitz\u1e25ak bar Avin's answer about the blood being spilled \u2014 are explicitly discussed together in candidate 0's prose, which covers exactly this scenario of l'shem ba'alim followed by nishpach hadam.",
+      "chosen_heading": "Korban Shechinacha",
+      "current_heading": "Korban Shechinacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Second Answer: Ravin",
+    "candidates": [
+      "Second Answer: Ravin",
+      "Third Answer: Animal Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravin citing Rabbi Yochanan about slaughtering unblemished animals inside the Temple not for the owner's sake, which matches exactly the prose under 'Second Answer: Ravin'.",
+      "chosen_heading": "Second Answer: Ravin",
+      "current_heading": "Second Answer: Ravin",
+      "moved": false
+    }
+  }
+]

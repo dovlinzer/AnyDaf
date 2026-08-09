@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Baraita: Three & Gmar Din",
+    "candidates": [
+      "Pshara: No Kinyan Needed",
+      "Three Judges & Kinyan",
+      "Tosafot: Legitimacy",
+      "Baraita: Three & Gmar Din",
+      "Assur Livtzoa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage 'nigmar hadin i ata rashai livtzo'a' is directly quoted and explained in the prose of heading 3 ('Baraita: Three & Gmar Din'), which explicitly discusses this exact phrase about bitzua being forbidden once gmar din has occurred.",
+      "chosen_heading": "Baraita: Three & Gmar Din",
+      "current_heading": "Baraita: Three & Gmar Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Assur Livtzoa",
+    "candidates": [
+      "Assur Livtzoa",
+      "Moshe vs. Aharon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Eliezer ben Rabbi Yossi HaGlili's prohibition on bitzua with the prooftext from Psalms 10:3, which is precisely what the 'Assur Livtzoa' section's prose discusses.",
+      "chosen_heading": "Assur Livtzoa",
+      "current_heading": "Assur Livtzoa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Moshe vs. Aharon",
+    "candidates": [
+      "Moshe vs. Aharon",
+      "Rashi: Before Din",
+      "Stolen Goods & Bracha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contrasts Moses's principle of 'let judgment pierce the mountain' with Aaron's pursuit of peace, which is precisely what the 'Moshe vs. Aharon' section's prose describes.",
+      "chosen_heading": "Moshe vs. Aharon",
+      "current_heading": "Moshe vs. Aharon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Stolen Goods & Bracha",
+    "candidates": [
+      "Rashi: Before Din",
+      "Stolen Goods & Bracha",
+      "R. Meir & Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer's teaching about stolen wheat, grinding, baking, and separating challah with a blessing that becomes a desecration \u2014 exactly what the 'Stolen Goods & Bracha' section prose discusses.",
+      "chosen_heading": "Stolen Goods & Bracha",
+      "current_heading": "Stolen Goods & Bracha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "R. Meir & Yehuda",
+    "candidates": [
+      "R. Meir & Yehuda",
+      "Emes Umishpat Shalom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's teaching about Yehuda and the botze'a verse, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "R. Meir & Yehuda",
+      "current_heading": "R. Meir & Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Emes Umishpat Shalom",
+    "candidates": [
+      "Emes Umishpat Shalom",
+      "Judgment with Peace",
+      "David's Mishpat & Tzedaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua ben Korcha's statement that it is a mitzva to mediate and his prooftext from Zechariah 8:16, which is precisely what heading 0 ('Emes Umishpat Shalom') discusses, while heading 1 handles the paradox resolution that follows this statement.",
+      "chosen_heading": "Emes Umishpat Shalom",
+      "current_heading": "Emes Umishpat Shalom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "David's Mishpat & Tzedaka",
+    "candidates": [
+      "Judgment with Peace",
+      "David's Mishpat & Tzedaka",
+      "Judgment as Tzedakah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the David verse (II Samuel 8:15) and the reconciliation of mishpat and tzedakah through the first tanna's reading \u2014 David ruling strictly and then paying the poor loser from his own pocket \u2014 which is precisely what the 'David's Mishpat & Tzedaka' prose section describes.",
+      "chosen_heading": "David's Mishpat & Tzedaka",
+      "current_heading": "David's Mishpat & Tzedaka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Judgment as Tzedakah",
+    "candidates": [
+      "Judgment as Tzedakah",
+      "Before Clarity",
+      "After Clarity: Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda HaNasi's objection to the 'lechol amo' formulation and his resolution that judgment itself constitutes both mishpat and tzedakah for all parties, which is precisely what the prose in 'Judgment as Tzedakah' describes.",
+      "chosen_heading": "Judgment as Tzedakah",
+      "current_heading": "Judgment as Tzedakah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "After Clarity: Forbidden",
+    "candidates": [
+      "Before Clarity",
+      "After Clarity: Forbidden",
+      "Recusal Early Stage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full statement of Rabbi Shimon ben Menasya covering both the permitted case (before hearing or before knowing which way judgment leans) and the forbidden case, and candidate 0 ('Before Clarity') is the section whose prose explicitly introduces and analyzes Rabbi Shimon ben Menasya's position in its entirety, whereas candidate 1 ('After Clarity: Forbidden') already presupposes the passage has been quoted and analyzes only its latter half.",
+      "chosen_heading": "Before Clarity",
+      "current_heading": "After Clarity: Forbidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Recusal Early Stage",
+    "candidates": [
+      "After Clarity: Forbidden",
+      "Recusal Early Stage",
+      "No Recusal Late Stage",
+      "Student's Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the early-stage permission to recuse (before clarity) and the late-stage prohibition (after clarity), but its primary focus and the bulk of its content describes the recusal scenario introduced by Reish Lakish, which is precisely what heading 1 'Recusal Early Stage' discusses, and the current placement is correct.",
+      "chosen_heading": "Recusal Early Stage",
+      "current_heading": "Recusal Early Stage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Student's Obligation",
+    "candidates": [
+      "No Recusal Late Stage",
+      "Student's Obligation",
+      "Speaker's Obligation",
+      "Witness Awareness",
+      "Witnesses Before God",
+      "Judge Awareness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua ben Korcha's teaching about a student's obligation to speak when sitting before his teacher, plus Rabbi Chanin's extension and the witness awareness prooftext \u2014 exactly matching the 'Student's Obligation' section's prose discussion of lo taguru applied to students before their teachers.",
+      "chosen_heading": "Student's Obligation",
+      "current_heading": "Student's Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Judge Awareness",
+    "candidates": [
+      "Speaker's Obligation",
+      "Witness Awareness",
+      "Witnesses Before God",
+      "Judge Awareness",
+      "Judge's Responsibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Judge's Responsibility",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the judge's awareness of divine accountability and the reassurance that a judge is only responsible for what his eyes see (*ein lo l'dayan ela mah she'einav ro'ot*), which is precisely what the 'Judge's Responsibility' prose describes.",
+      "second_heading": "Judge Awareness",
+      "second_confidence": "low",
+      "second_reason": "Items 2-3 discuss the definition of a verdict and the debate about compromise vs. strict judgment (Rabbi Yehoshua ben Kor\u1e25a), which does not match any candidate prose well, but 'Judge Awareness' (index 3) is the closest current placement and the passage follows naturally after the judge awareness/responsibility sections.",
+      "current_heading": "Judge Awareness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Judge's Responsibility",
+    "candidates": [
+      "Judge's Responsibility",
+      "Definition of Gmar Din",
+      "Halacha: Mitzvah",
+      "Mitzvah: Inform Options",
+      "Mitzvah: Inform Options",
+      "Difference: Proactive",
+      "Botze'a = Eigel",
+      "Aharon's Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the difference between the Tanna Kamma and Rabbi Shimon ben Menasya regarding 'mishetishma divreihem v'atah yode'a leheichan hadin noteh,' which is precisely what the 'Difference: Proactive' section's prose describes.",
+      "chosen_heading": "Difference: Proactive",
+      "current_heading": "Judge's Responsibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Aharon's Rationale",
+    "candidates": [
+      "Definition of Gmar Din",
+      "Halacha: Mitzvah",
+      "Mitzvah: Inform Options",
+      "Mitzvah: Inform Options",
+      "Difference: Proactive",
+      "Botze'a = Eigel",
+      "Aharon's Rationale",
+      "Critique of Justification",
+      "Torah Study Focus",
+      "Rav Hamnuna's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Tan\u1e25um bar \u1e24anilai's interpretation that the 'botze'a berech' verse refers to the Golden Calf episode, which is precisely what candidate 5 ('Botze'a = Eigel') describes \u2014 the passage belongs there, not under 'Aharon's Rationale' (candidate 6) which discusses Aharon's reasoning after the identification of Chur has already been established.",
+      "chosen_heading": "Botze'a = Eigel",
+      "current_heading": "Aharon's Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rav Hamnuna's Reading",
+    "candidates": [
+      "Critique of Justification",
+      "Torah Study Focus",
+      "Rav Hamnuna's Reading",
+      "Cracked Hose Metaphor",
+      "Bridge Board Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Hamnuna's interpretation (that Tanna'im who reject the compromise reading apply the verse to Torah judgment) and Rav Huna's cracked-hose metaphor, but the opening clause \u2014 explaining what those Tanna'im derive from the verse \u2014 corresponds directly to the 'Torah Study Focus' section's prose, which explicitly sets up that the Tanna'im who reject the bitzua reading must find an alternative and that the Gemara tells us they read it in line with Rav Hamnuna; the current placement under 'Rav Hamnuna's Reading' splits what is a single unified textual unit.",
+      "chosen_heading": "Torah Study Focus",
+      "current_heading": "Rav Hamnuna's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Bridge Board Metaphor",
+    "candidates": [
+      "Cracked Hose Metaphor",
+      "Bridge Board Metaphor",
+      "Folk Wisdom & Verses",
+      "Ignoring Insults"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye the Elder's metaphor of a bridge board (gudda degamla) becoming stable once set, which matches exactly the 'Bridge Board Metaphor' section prose discussing Abaye Kishisha's image of a quarrel being like a board of a bridge that holds firm once in place.",
+      "chosen_heading": "Bridge Board Metaphor",
+      "current_heading": "Bridge Board Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Ignoring Insults",
+    "candidates": [
+      "Folk Wisdom & Verses",
+      "Ignoring Insults",
+      "Love vs. Wealth",
+      "God's Presence & Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full series of folk aphorisms with corroborating verses (introduced by the mnemonic in item 1), which matches the 'Folk Wisdom & Verses' heading perfectly \u2014 that heading's prose explicitly describes this rhetorical pattern of 'kra ktiv' responses to street sayings, whereas heading 1 ('Ignoring Insults') is the sub-discussion that belongs under heading 0 as a sub-topic, not the other way around.",
+      "chosen_heading": "Folk Wisdom & Verses",
+      "current_heading": "Ignoring Insults",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "God's Presence & Sin",
+    "candidates": [
+      "Love vs. Wealth",
+      "God's Presence & Sin",
+      "Taguru = Gather",
+      "Ant's Gathering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rav Huna's theological extension of the love/sword-blade aphorism \u2014 the progression from the Ark's ten handbreadths to Solomon's Temple to Isaiah's infinite heavens \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "God's Presence & Sin",
+      "current_heading": "God's Presence & Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Ant's Gathering",
+    "candidates": [
+      "Taguru = Gather",
+      "Ant's Gathering",
+      "Wise Son Gathering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three prooftexts together (Rav Na\u1e25man, Rav A\u1e25a bar Ya'akov, and Rav A\u1e25a son of Rav Ika) and belongs under heading 0 which introduces the question of deriving that 'taguru' means 'to gather in' \u2014 the entire Gemara unit is one continuous discussion that should sit under that single heading rather than being split across multiple headings.",
+      "chosen_heading": "Taguru = Gather",
+      "current_heading": "Ant's Gathering",
+      "moved": true
+    }
+  }
+]

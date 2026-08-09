@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Overview & Applications",
+    "candidates": [
+      "Overview & Applications",
+      "Assur be-Hana'ah",
+      "No Chatzi Kofer",
+      "R. Yose HaGelili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Yosei HaGelili deriving exemption from dmei vladot (fetal compensation) from 'ba'al hashor naki,' which is precisely what candidate 3 'R. Yose HaGelili' describes in its prose.",
+      "chosen_heading": "R. Yose HaGelili",
+      "current_heading": "Overview & Applications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "R. Yose HaGelili",
+    "candidates": [
+      "Assur be-Hana'ah",
+      "No Chatzi Kofer",
+      "R. Yose HaGelili",
+      "R. Akiva's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's exact argument that 'anashim velo shevarim' already excludes oxen from dmei vladot, which is precisely what candidate 3's prose describes as Rabbi Akiva's critique of Rabbi Yose HaGelili.",
+      "chosen_heading": "R. Akiva's Critique",
+      "current_heading": "R. Yose HaGelili",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "R. Akiva's Critique",
+    "candidates": [
+      "R. Akiva's Critique",
+      "Muad vs. Tam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'shapir ka'amar Rabbi Akiva' directly corresponds to the prose in heading 0, which explicitly quotes this phrase and discusses Rabbi Akiva's critique being acknowledged as well-taken.",
+      "chosen_heading": "R. Akiva's Critique",
+      "current_heading": "R. Akiva's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Muad vs. Tam",
+    "candidates": [
+      "Muad vs. Tam",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Ulla's answer, Rava's objection, and Rava's revised answer \u2014 are the core content described in the 'Muad vs. Tam' prose, which explicitly walks through Rav Ulla's reasoning, Rava's sharp objection, and Rava's reversal that yields the muad liable/tam exempt conclusion.",
+      "chosen_heading": "Muad vs. Tam",
+      "current_heading": "Muad vs. Tam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Anashim Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's challenge to Rava's method \u2014 item 1 raises the boshet parallel and item 2 follows up with the baraita point \u2014 exactly as described in the 'Abaye's Challenge' prose.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Anashim Resolution",
+    "candidates": [
+      "Anashim Resolution",
+      "R. Ada bar Ahava",
+      "Intention Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye and Rava's joint resolution distinguishing men from oxen regarding ason and kim leh, which is precisely what the 'Anashim Resolution' prose section describes.",
+      "chosen_heading": "Anashim Resolution",
+      "current_heading": "Anashim Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Intention Doctrine",
+    "candidates": [
+      "R. Ada bar Ahava",
+      "Intention Doctrine",
+      "Reconciliation",
+      "R. Akiva Slave Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Rav Adda bar Ahava's objection and his alternative reading of the verse, which is precisely what candidate 0 ('R. Ada bar Ahava') describes \u2014 his challenge to the *ason*-based framework and his intention-based doctrine \u2014 whereas candidate 1 ('Intention Doctrine') describes the elaborated explanation of his position, suggesting the passage introducing his view belongs under candidate 0.",
+      "chosen_heading": "R. Ada bar Ahava",
+      "current_heading": "Intention Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "R. Akiva Slave Exempt",
+    "candidates": [
+      "Reconciliation",
+      "R. Akiva Slave Exempt",
+      "Internal Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Akiva's teaching that ba'al hashor naki exempts the owner from dmei eved (compensation for a slave), which is precisely what the 'R. Akiva Slave Exempt' section's prose describes and introduces.",
+      "chosen_heading": "R. Akiva Slave Exempt",
+      "current_heading": "R. Akiva Slave Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Internal Contradiction",
+    "candidates": [
+      "Internal Contradiction",
+      "Pre-Court Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why Rabbi Akiva needs a verse given his own 'migufo' argument, which is precisely what the 'Internal Contradiction' section's prose describes.",
+      "chosen_heading": "Internal Contradiction",
+      "current_heading": "Internal Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Pre-Court Slaughter",
+    "candidates": [
+      "Pre-Court Slaughter",
+      "R. Eliezer's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Shmuel bar Rav Yitz\u1e25ak's explanation of the pre-gmar din slaughter scenario, which is precisely what the 'Pre-Court Slaughter' section's prose discusses.",
+      "chosen_heading": "Pre-Court Slaughter",
+      "current_heading": "Pre-Court Slaughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "R. Eliezer's Answer",
+    "candidates": [
+      "R. Eliezer's Answer",
+      "Akiva's Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are a continuous chain of question-and-answer about why Rabbi Eliezer didn't use the pre-gmar-din slaughter answer and why Rabbi Akiva challenged him, which is precisely what the 'R. Eliezer's Answer' prose discusses.",
+      "chosen_heading": "R. Eliezer's Answer",
+      "current_heading": "R. Eliezer's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Akiva's Doctrine",
+    "candidates": [
+      "Akiva's Doctrine",
+      "Arbitrary Payment",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Asi's explanation based on Rabbi Akiva's doctrine about a tam that injures a person paying full damages, and Rabbi Zeira's refutation of that explanation \u2014 precisely the content described in the 'Akiva's Doctrine' prose section.",
+      "chosen_heading": "Akiva's Doctrine",
+      "current_heading": "Akiva's Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Final Resolution",
+    "candidates": [
+      "Arbitrary Payment",
+      "Final Resolution",
+      "New Derivation",
+      "Woman-Man Linkage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's explanation of the hava amina based on the arbitrary thirty-shekel payment for a slave versus actual value for a freeman, followed by the baraita confirming Rava's view and the kal va'chomer arguments in both directions \u2014 all of which is precisely what the 'Arbitrary Payment' prose section describes, not the 'Final Resolution' section which discusses the final tally of teachings.",
+      "chosen_heading": "Arbitrary Payment",
+      "current_heading": "Final Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Woman-Man Linkage",
+    "candidates": [
+      "New Derivation",
+      "Woman-Man Linkage",
+      "Post-Mortem Obligation",
+      "Inheritance Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit \u2014 Rabbi Akiva's question about 'man or woman,' his analogy directing kofer to her heirs, and the Gemara's challenge from the baraita that Rabbi Akiva himself holds a husband inherits from his wife \u2014 all of which is precisely what the 'Woman-Man Linkage' prose describes.",
+      "chosen_heading": "Woman-Man Linkage",
+      "current_heading": "Woman-Man Linkage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Inheritance Timing",
+    "candidates": [
+      "Post-Mortem Obligation",
+      "Inheritance Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Reish Lakish's ruling that kofer goes to the wife's heirs because it is paid only posthumously (ra'uy), which is exactly what heading 0 'Post-Mortem Obligation' describes, whereas heading 1 'Inheritance Timing' discusses the elaborated principle of ein haba'al notel b'ra'uy k'b'muchzak that builds on this foundation.",
+      "chosen_heading": "Post-Mortem Obligation",
+      "current_heading": "Inheritance Timing",
+      "moved": true
+    }
+  }
+]

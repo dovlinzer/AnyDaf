@@ -1,0 +1,190 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Takanah: Daughters & Sons",
+    "candidates": [
+      "Yerushah & Binyamin",
+      "Takanah: Daughters & Sons",
+      "Tzelofchad's Daughters",
+      "Sons Descendants Priority",
+      "Kol she'eino maniach ben"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the verse from Judges about Benjamin's inheritance and Rabbi Yitzchak's explanation of the takanah \u2014 exactly the content described in heading 0's prose about the pasuk from Shoftim and the historical backdrop of Pilegesh b'Givah, whereas heading 1 ('Takanah: Daughters & Sons') discusses the takanah in isolation without the introductory verse that item 1 provides.",
+      "chosen_heading": "Yerushah & Binyamin",
+      "current_heading": "Takanah: Daughters & Sons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Kol she'eino maniach ben",
+    "candidates": [
+      "Tzelofchad's Daughters",
+      "Sons Descendants Priority",
+      "Kol she'eino maniach ben",
+      "Son vs. Student Dispute",
+      "Resolution & Rav Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source text for the 'kol she'eino maniach ben' teaching that candidate 2's prose explicitly discusses and analyzes.",
+      "chosen_heading": "Kol she'eino maniach ben",
+      "current_heading": "Kol she'eino maniach ben",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Resolution & Rav Yochanan",
+    "candidates": [
+      "Son vs. Student Dispute",
+      "Resolution & Rav Yochanan",
+      "David & Yoav Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous dispute about whether the verse refers to leaving no son vs. no student, with the back-and-forth attribution between Rabbi Yo\u1e25anan and Rabbi Yehoshua ben Levi and the final resolution \u2014 exactly what candidate 0 ('Son vs. Student Dispute') describes in its prose, whereas candidate 1 ('Resolution & Rav Yochanan') presupposes this material has already been presented and discusses it as concluded context.",
+      "chosen_heading": "Son vs. Student Dispute",
+      "current_heading": "Resolution & Rav Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "David & Yoav Drasha",
+    "candidates": [
+      "Resolution & Rav Yochanan",
+      "David & Yoav Drasha",
+      "Ben Kamoso Concept",
+      "Poverty & Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Hadad/David/Yoav drasha \u2014 the mnemonic, the initial exposition about David leaving a son vs. Yoav not, and the challenge about Yoav's sons \u2014 which is precisely what candidate 1 ('David & Yoav Drasha') describes in its prose.",
+      "chosen_heading": "David & Yoav Drasha",
+      "current_heading": "David & Yoav Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Poverty & Wisdom",
+    "candidates": [
+      "Ben Kamoso Concept",
+      "Poverty & Wisdom",
+      "Son, Daughter, Father",
+      "Heir Depth Question",
+      "Males Over Females",
+      "Avi ha'av Question",
+      "Rava vs. Rami Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the second and third homiletic interpretations of Rabbi Pinchas bar \u1e24ama \u2014 poverty being worse than fifty plagues and going to a sage for a sick person \u2014 which is exactly what the 'Poverty & Wisdom' section's prose describes.",
+      "chosen_heading": "Poverty & Wisdom",
+      "current_heading": "Poverty & Wisdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Rava vs. Rami Answer",
+    "candidates": [
+      "Son, Daughter, Father",
+      "Heir Depth Question",
+      "Males Over Females",
+      "Avi ha'av Question",
+      "Rava vs. Rami Answer",
+      "Direct Descendants First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's treatment of Rami bar Chama's dilemma about avi ha'av vs. achei ha'av (Abraham/Ishmael and Abraham/Jacob with respect to Esau's property), which is precisely what heading 3 ('Avi ha'av Question') describes, whereas the current placement under heading 4 describes Rava's answer and the refinement \u2014 content that actually belongs to heading 5's prose about the resolution.",
+      "chosen_heading": "Avi ha'av Question",
+      "current_heading": "Rava vs. Rami Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Direct Descendants First",
+    "candidates": [
+      "Rava vs. Rami Answer",
+      "Direct Descendants First",
+      "Three Essential Rules",
+      "Edge Cases & Exceptions",
+      "Yotzei Mitzrayim Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly supports the 'Direct Descendants First' section's prose, which explicitly references this Gemara text (hachi nami mistavra, the klal about yotzei yerecho, and the Yitzchak/Yaakov/Avraham example) as confirmation that Yaakov precedes Avraham because descendants of one who would have inherited take that person's place before moving up the chart.",
+      "chosen_heading": "Direct Descendants First",
+      "current_heading": "Direct Descendants First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Yotzei Mitzrayim Division",
+    "candidates": [
+      "Three Essential Rules",
+      "Edge Cases & Exceptions",
+      "Yotzei Mitzrayim Division",
+      "Tzelofchad's Portions",
+      "Daughters Get Bechor",
+      "Muchzekim Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text directly introduces the three portions of Zelophehad's daughters and invokes the yotzei Mitzrayim principle, which is precisely what the 'Yotzei Mitzrayim Division' section's prose is introducing and explaining.",
+      "chosen_heading": "Yotzei Mitzrayim Division",
+      "current_heading": "Yotzei Mitzrayim Division",
+      "moved": false
+    }
+  }
+]

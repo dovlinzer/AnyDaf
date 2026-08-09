@@ -1,0 +1,403 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Kohen Gadol Source",
+    "candidates": [
+      "Opening Remarks",
+      "Eternal Marriage Polemic",
+      "Kohen Gadol Source",
+      "Mitzvat Asei Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly derives that the husband's death permits his widow to remarry via logical reasoning ('he rendered her forbidden and he has permitted her'), which directly matches the 'Eternal Marriage Polemic' section's prose about how the Gemara establishes that death fully dissolves the marital bond \u2014 not the Kohen Gadol derivation discussed in the current placement.",
+      "chosen_heading": "Eternal Marriage Polemic",
+      "current_heading": "Kohen Gadol Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Mitzvat Asei Proposal",
+    "candidates": [
+      "Kohen Gadol Source",
+      "Mitzvat Asei Proposal",
+      "Lav vs Asei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's chain of objections leading to the derivation from 'almanah le'kohen gadol asura ha le'kohen hedyot sharya,' which is precisely what the 'Kohen Gadol Source' prose describes \u2014 the passage belongs there, not under 'Mitzvat Asei Proposal' which discusses subsequent challenges to that derivation.",
+      "chosen_heading": "Kohen Gadol Source",
+      "current_heading": "Mitzvat Asei Proposal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Lav vs Asei",
+    "candidates": [
+      "Lav vs Asei",
+      "Rav Sheshet's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the lav vs. asei question, the psulei hamukdashim analogy, and its explanation \u2014 are explicitly discussed in the 'Lav vs Asei' prose, which covers exactly this sequence of the Gemara's reasoning about what an issur asei would accomplish and the giza va'avoda analogy.",
+      "chosen_heading": "Lav vs Asei",
+      "current_heading": "Lav vs Asei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Sheshet's Objection",
+    "candidates": [
+      "Rav Sheshet's Objection",
+      "Yavam Not Acher",
+      "Death Like Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheisha's objection that 'another man' in the verse refers to the yavam, which is exactly what the prose of heading 0 ('Rav Sheshet's Objection') describes.",
+      "chosen_heading": "Rav Sheshet's Objection",
+      "current_heading": "Rav Sheshet's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Death Like Divorce",
+    "candidates": [
+      "Yavam Not Acher",
+      "Death Like Divorce",
+      "Yibbum Not Kesef",
+      "Yavo Aleha Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH of Rav Ashi's two refutations in a single Talmudic statement, and the first refutation (yavam lo ikrei acher) is the primary heading under candidate 0, which explicitly discusses both answers together starting with 'Amar Rav Ashi: shtei teshuvot badavar'; the current placement under 'Death Like Divorce' only covers the second refutation, artificially splitting what is a single unified Talmudic passage.",
+      "chosen_heading": "Yavam Not Acher",
+      "current_heading": "Death Like Divorce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Yavo Aleha Source",
+    "candidates": [
+      "Yibbum Not Kesef",
+      "Yavo Aleha Source",
+      "Veyibmah Redundancy",
+      "Implicit Consent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's question 'from where do we derive biah?' and its answer via the verse plus the baraita excluding kesef and shtar \u2014 exactly the content described in candidate 0 ('Yibbum Not Kesef'), which frames the question as specifically about why kesef and shtar don't work and requires derivation.",
+      "chosen_heading": "Yibbum Not Kesef",
+      "current_heading": "Yavo Aleha Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Implicit Consent",
+    "candidates": [
+      "Veyibmah Redundancy",
+      "Implicit Consent",
+      "Chalitzah: Remarriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether 'veyibmah' teaches that yibum can proceed without the woman's consent (baal karkhah) and the resolution that the feminine suffix allows learning both principles simultaneously (shema mina tartei), which is precisely what the 'Implicit Consent' section's prose describes.",
+      "chosen_heading": "Implicit Consent",
+      "current_heading": "Implicit Consent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Chalitzah: Remarriage",
+    "candidates": [
+      "Chalitzah: Remarriage",
+      "Shoe Removal Source",
+      "Beth Din Jurisdiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage asks 'from where do we derive' that chalitzah permits remarriage, which matches the question posed in heading 0's prose, though the answer (the verse derivation) is discussed in heading 1's prose \u2014 the question and answer together fit best under heading 0 as the current placement, since the derivation is the answer to that section's posed question.",
+      "chosen_heading": "Chalitzah: Remarriage",
+      "current_heading": "Chalitzah: Remarriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Beth Din Jurisdiction",
+    "candidates": [
+      "Shoe Removal Source",
+      "Beth Din Jurisdiction",
+      "Multiple Yisrael Uses",
+      "Rabbi Tarfon Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge from Rav Shmuel bar Yehuda that 'Yisrael' is needed to teach chalitzah must be before a Jewish court (not a gentile court), and the answer that 'Yisrael' is written twice \u2014 exactly what the 'Beth Din Jurisdiction' prose describes.",
+      "chosen_heading": "Beth Din Jurisdiction",
+      "current_heading": "Beth Din Jurisdiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rabbi Tarfon Procedure",
+    "candidates": [
+      "Multiple Yisrael Uses",
+      "Rabbi Tarfon Procedure",
+      "Calling Him by Name",
+      "Kal Vachomer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'but still we require [the word Yisrael] for the baraita about Rabbi Tarfon' followed by the answer that the public calling is derived from 've'nikra shemo' not from 'Yisrael' \u2014 this is the dialectic that sets up and resolves how multiple halachot can be derived from multiple occurrences of Yisrael, which is precisely what the 'Multiple Yisrael Uses' section discusses.",
+      "chosen_heading": "Multiple Yisrael Uses",
+      "current_heading": "Rabbi Tarfon Procedure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Kal Vachomer Logic",
+    "candidates": [
+      "Calling Him by Name",
+      "Kal Vachomer Logic",
+      "Get vs Chalitzah",
+      "Yavam's Dual Role",
+      "Reverse Kal Vachomer",
+      "Kacha & La",
+      "Yom Kippur Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the kal vachomer inference that a yevama is released by the death of the yavam, exactly matching the prose of candidate 1 which describes this same kal vachomer from eishet ish.",
+      "chosen_heading": "Kal Vachomer Logic",
+      "current_heading": "Kal Vachomer Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Yom Kippur Example",
+    "candidates": [
+      "Get vs Chalitzah",
+      "Yavam's Dual Role",
+      "Reverse Kal Vachomer",
+      "Kacha & La",
+      "Yom Kippur Example",
+      "Whose Shoe Works",
+      "Shoe Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 12 items form a continuous chain covering the kal vachomer challenges (items 1-2), the reverse kal vachomers and kacha/sefer exclusions (items 3-4), the Yom Kippur goral example proving kacha alone cannot block a kal vachomer (items 5-8), and the subsequent derivations from 'lah' and 'naal' (items 9-12), which precisely matches the prose of heading 4 ('Yom Kippur Example') that describes all of these topics together.",
+      "chosen_heading": "Yom Kippur Example",
+      "current_heading": "Yom Kippur Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Shoe Exclusions",
+    "candidates": [
+      "Whose Shoe Works",
+      "Shoe Exclusions",
+      "Proper Fit",
+      "Veyibmah Teaches All",
+      "Three Sources",
+      "Two Paths",
+      "Mishnah Overview",
+      "Amah Ivriyah",
+      "Eved Nirtza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete braita discussing the three exclusions (large shoe, small shoe, heelless sandal) and the concluding 'shema mina tartei' \u2014 all of which is precisely what candidate 1 ('Shoe Exclusions') describes in its prose.",
+      "chosen_heading": "Shoe Exclusions",
+      "current_heading": "Shoe Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Eved Nirtza",
+    "candidates": [
+      "Proper Fit",
+      "Veyibmah Teaches All",
+      "Three Sources",
+      "Two Paths",
+      "Mishnah Overview",
+      "Amah Ivriyah",
+      "Eved Nirtza",
+      "Non-Jew Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The mishnah passage covers exactly what candidate 4's prose describes: acquisition of an eved ivri through money/document, emancipation through years/yovel/giraon kesef, plus the amah ha'ivriyah and eved nirtza \u2014 and candidate 4 is titled 'Mishnah Overview,' which matches this being the opening mishnah of the tractate covering all three topics together.",
+      "chosen_heading": "Mishnah Overview",
+      "current_heading": "Eved Nirtza",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Non-Jew Case",
+    "candidates": [
+      "Eved Nirtza",
+      "Non-Jew Case",
+      "Amah Extension",
+      "Primary Source",
+      "Mocher Atzmo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation of acquisition-by-money for an eved ivri, starting with the non-Jew case (item 1) and then moving to the amah verse as the bridge to the Jew-sold-to-Jew case (item 2), which is precisely what candidate 1 ('Non-Jew Case') describes in its prose.",
+      "chosen_heading": "Non-Jew Case",
+      "current_heading": "Non-Jew Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Mocher Atzmo",
+    "candidates": [
+      "Amah Extension",
+      "Primary Source",
+      "Mocher Atzmo",
+      "Tanna Kamma View",
+      "Six Year Limit",
+      "Nirtza Only",
+      "Severance Gifts",
+      "Shfachah Rights",
+      "Rabbi Elazar View",
+      "Amoraim Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The 'Mocher Atzmo' section prose explicitly describes all components of this passage \u2014 the gezeirah shavah of sachir-sachir, the alternative ve'chi tassig derivation, the identifying of the tanna who rejects the gezeirah shavah, and the baraita's distinctions \u2014 making it the best single heading despite items 7-8 also matching later headings.",
+      "chosen_heading": "Mocher Atzmo",
+      "current_heading": "Mocher Atzmo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Amoraim Resolution",
+    "candidates": [
+      "Tanna Kamma View",
+      "Six Year Limit",
+      "Nirtza Only",
+      "Severance Gifts",
+      "Shfachah Rights",
+      "Rabbi Elazar View",
+      "Amoraim Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items directly continue the Amoraic resolution discussed in candidate 6, specifically tracing how Rabbi Elazar derives 've'avadcha lecha ve'lo le'yoresh' and how each tanna handles the redundant verse \u2014 exactly the content the prose of section 6 says will be 'worked through in the following session.'",
+      "chosen_heading": "Amoraim Resolution",
+      "current_heading": "Amoraim Resolution",
+      "moved": false
+    }
+  }
+]

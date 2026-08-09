@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Samaritan Slaughter Ban",
+    "candidates": [
+      "Samaritan Slaughter Ban",
+      "Rabbi Meir's Minority Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Meir sending Rabbi Shimon ben Elazar to bring wine from the Samaritans and the subsequent decree, which is precisely what the 'Samaritan Slaughter Ban' prose discusses in detail.",
+      "chosen_heading": "Samaritan Slaughter Ban",
+      "current_heading": "Samaritan Slaughter Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Meir's Minority Ban",
+    "candidates": [
+      "Rabbi Meir's Minority Ban",
+      "Gamliel's Shechita Rule",
+      "Verse Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Nachman bar Yitzchak's explanation of the dove image on Mount Gerizim and Rabbi Meir's minority-concern principle (chayesh lemi'uta), which is precisely what the prose under 'Rabbi Meir's Minority Ban' elaborates upon.",
+      "chosen_heading": "Rabbi Meir's Minority Ban",
+      "current_heading": "Rabbi Meir's Minority Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Verse Interpretation",
+    "candidates": [
+      "Gamliel's Shechita Rule",
+      "Verse Interpretation",
+      "Pshat Terminology",
+      "Rabbi Isaac's Mission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the Gemara discussion described in the 'Verse Interpretation' prose \u2014 the question of the plain meaning of the verse and Rabbi \u1e24iyya's baraita explaining it in terms of a student before his teacher \u2014 which is precisely what that section's prose describes in detail.",
+      "chosen_heading": "Verse Interpretation",
+      "current_heading": "Verse Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rabbi Isaac's Mission",
+    "candidates": [
+      "Pshat Terminology",
+      "Rabbi Isaac's Mission",
+      "Ami & Assi's Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abbahu dispatching Rabbi Yitzchak to bring wine from the Samaritans and the elder's remark, which is precisely the incident described in the 'Rabbi Isaac's Mission' prose.",
+      "chosen_heading": "Rabbi Isaac's Mission",
+      "current_heading": "Rabbi Isaac's Mission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Ami & Assi's Declaration",
+    "candidates": [
+      "Ami & Assi's Declaration",
+      "Rashi on Habit & Change",
+      "Gerizim Temple Context",
+      "Status Distinction",
+      "Rambam on Tumah",
+      "Eruv Mechanics",
+      "Annulling vs. Renting",
+      "Samaritans in Eruv",
+      "Mumar Respecting Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about what Rabbi Ami and Rabbi Assi's declaration added (lemei) and the answer that earlier decrees on shechita and wine were not accepted until Rabbi Ami and Rabbi Assi reissued them, which is precisely what the 'Ami & Assi's Declaration' prose section describes.",
+      "chosen_heading": "Ami & Assi's Declaration",
+      "current_heading": "Ami & Assi's Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Mumar Respecting Shabbat",
+    "candidates": [
+      "Rashi on Habit & Change",
+      "Gerizim Temple Context",
+      "Status Distinction",
+      "Rambam on Tumah",
+      "Eruv Mechanics",
+      "Annulling vs. Renting",
+      "Samaritans in Eruv",
+      "Mumar Respecting Shabbat",
+      "Public Shabbat Violator",
+      "Jewish Verbal Annulment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit explaining the Baraita about a Jewish mumar who observes/does not observe Shabbat publicly and the general principle about verbal annulment vs. rental, which is precisely what the 'Mumar Respecting Shabbat' prose discusses.",
+      "chosen_heading": "Mumar Respecting Shabbat",
+      "current_heading": "Mumar Respecting Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Jewish Verbal Annulment",
+    "candidates": [
+      "Public Shabbat Violator",
+      "Jewish Verbal Annulment",
+      "Eggs & Wine Mixture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the verbal formula 'reshusi knuya lach / reshusi mevutela lach' and the rule that no physical acquisition is needed, which is precisely what the 'Jewish Verbal Annulment' section's prose discusses.",
+      "chosen_heading": "Jewish Verbal Annulment",
+      "current_heading": "Jewish Verbal Annulment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Eggs & Wine Mixture",
+    "candidates": [
+      "Eggs & Wine Mixture",
+      "Tzadikim Protected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the narrative in candidate 0's prose: Rabbi Zeira and Rav Assi at the inn, the eggs cooked in wine, Rabbi Zeira's concern about demai mixture, and Rav Assi's reply that it didn't enter his mind.",
+      "chosen_heading": "Eggs & Wine Mixture",
+      "current_heading": "Eggs & Wine Mixture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Tzadikim Protected",
+    "candidates": [
+      "Tzadikim Protected",
+      "Raw Ingredients Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's reasoning about tzadikim not being caused to stumble, which is precisely what the 'Tzadikim Protected' prose discusses.",
+      "chosen_heading": "Tzadikim Protected",
+      "current_heading": "Tzadikim Protected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Raw Ingredients Rule",
+    "candidates": [
+      "Raw Ingredients Rule",
+      "Prepared Dish Exemption",
+      "First Encounter Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Zeira's investigation and the Baraita ruling on raw ingredients (wine, vetch, lentils) purchased with intent to mix, which matches exactly the 'Raw Ingredients Rule' prose discussion of the same Baraita and its ruling that demai obligation is triggered at the raw product stage.",
+      "chosen_heading": "Raw Ingredients Rule",
+      "current_heading": "Raw Ingredients Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "First Encounter Rule",
+    "candidates": [
+      "Prepared Dish Exemption",
+      "First Encounter Rule",
+      "Additive vs. Dominant"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Prepared Dish Exemption",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing ruling about mixtures being permitted (vehein atzman mutarin mipnei shehein ta'aroves), which is exactly what the 'Prepared Dish Exemption' prose discusses as its key ruling.",
+      "second_heading": "First Encounter Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the Baraita challenge about giving dough/pot to a neighbor (hanosenes leshchentah) and the explicit-instruction case, which the 'First Encounter Rule' prose discusses in detail as the Gemara pressing the question v'lo gazru al ta'aroves demai.",
+      "current_heading": "First Encounter Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Additive vs. Dominant",
+    "candidates": [
+      "Additive vs. Dominant",
+      "Mother-in-Law Case",
+      "Embarrassment Motive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'as if mixed by hand' answer and Rafram's 'taste is not nullified' answer, which are precisely what the 'Additive vs. Dominant' section's prose discusses in detail.",
+      "chosen_heading": "Additive vs. Dominant",
+      "current_heading": "Additive vs. Dominant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Embarrassment Motive",
+    "candidates": [
+      "Mother-in-Law Case",
+      "Embarrassment Motive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the challenge from the mother-in-law Mishnah AND the Gemara's resolution via Rabbi Yehuda's reasoning, making it a complete unit that belongs under 'Mother-in-Law Case' which discusses the full problem of swapping in that context, while 'Embarrassment Motive' is a separate section that elaborates on the resolution \u2014 the passage should sit under the heading that introduces the challenge, not the one that only discusses the answer.",
+      "chosen_heading": "Mother-in-Law Case",
+      "current_heading": "Embarrassment Motive",
+      "moved": true
+    }
+  }
+]

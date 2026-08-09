@@ -1,0 +1,525 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Yad/Shomer Intro",
+    "candidates": [
+      "Yad/Shomer Intro",
+      "Hair as Shomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly references the dispute being 'with regard to' the mishna listing hide, gravy, spices, etc. joining to impart food impurity, which is precisely what the 'Hair as Shomer' section's prose describes as the backdrop for the Rabbi Yochanan/Reish Lakish dispute.",
+      "chosen_heading": "Hair as Shomer",
+      "current_heading": "Yad/Shomer Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Hair as Shomer",
+    "candidates": [
+      "Yad/Shomer Intro",
+      "Hair as Shomer",
+      "Tefillin Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Reish Lakish / Rabbi Yochanan dispute over whether a hair qualifies as a shomer, which is precisely what the 'Hair as Shomer' prose describes, including the challenge about shomer atop shomer \u2014 the current placement is correct.",
+      "chosen_heading": "Hair as Shomer",
+      "current_heading": "Hair as Shomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tefillin Challenge",
+    "candidates": [
+      "Tefillin Challenge",
+      "Ink Passes Over"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a's objection about tefillin and ketivah tamah, which is precisely what the 'Tefillin Challenge' prose describes and discusses.",
+      "chosen_heading": "Tefillin Challenge",
+      "current_heading": "Tefillin Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Ink Passes Over",
+    "candidates": [
+      "Ink Passes Over",
+      "Hair Pierces Skin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling that 'any perforation over which ink passes is not a perforation,' which is precisely what the prose under heading 0 ('Ink Passes Over') describes and discusses.",
+      "chosen_heading": "Ink Passes Over",
+      "current_heading": "Ink Passes Over",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Hair Pierces Skin",
+    "candidates": [
+      "Hair Pierces Skin",
+      "Multiple Hairs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's objection to Reish Lakish and the initial exchange about whether the hair functions as a shomer or yad, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Hair Pierces Skin",
+      "current_heading": "Hair Pierces Skin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Multiple Hairs",
+    "candidates": [
+      "Multiple Hairs",
+      "Yad/Shomer Summary",
+      "What is Rotev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabbi Ila ruling about hairs/awns serving as a yad, which is exactly what the 'Multiple Hairs' prose discusses in detail, including the bimloi she-bein ha-mloi'im teaching and its application to hairs.",
+      "chosen_heading": "Multiple Hairs",
+      "current_heading": "Multiple Hairs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "What is Rotev",
+    "candidates": [
+      "Yad/Shomer Summary",
+      "What is Rotev",
+      "Gravy Combining"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'rotev' as 'shumna' (fat), which directly matches the 'What is Rotev' section's prose describing Rava's answer that rotev refers to the fat and fatty liquids that run off of meat during cooking.",
+      "chosen_heading": "What is Rotev",
+      "current_heading": "What is Rotev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Gravy Combining",
+    "candidates": [
+      "Gravy Combining",
+      "Gelled vs. Liquid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Abaye challenging Rava's definition of rotev and introducing the congealed fat interpretation, which is exactly what the 'Gravy Combining' prose describes as its content.",
+      "chosen_heading": "Gravy Combining",
+      "current_heading": "Gravy Combining",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Gelled vs. Liquid",
+    "candidates": [
+      "Gelled vs. Liquid",
+      "Yishuv Hadaat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's challenge about why congealed fat is specified and the Reish Lakish teaching about brine on vegetables \u2014 the very content described in the 'Gelled vs. Liquid' prose section.",
+      "chosen_heading": "Gelled vs. Liquid",
+      "current_heading": "Gelled vs. Liquid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Yishuv Hadaat",
+    "candidates": [
+      "Yishuv Hadaat",
+      "What is Kipah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's direct answer distinguishing yishuv ha-daat (Yom Kippur) from itztarufei (tumah combination), which is precisely what the 'Yishuv Hadaat' prose section describes and even quotes verbatim.",
+      "chosen_heading": "Yishuv Hadaat",
+      "current_heading": "Yishuv Hadaat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "What is Kipah",
+    "candidates": [
+      "What is Kipah",
+      "Tavlin Spices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines kifa as pirma (congealed hash/meat remnants), which matches exactly the 'What is Kipah' section's prose about Rabba's answer identifying kifa as small remnants settling at the bottom of a pot.",
+      "chosen_heading": "What is Kipah",
+      "current_heading": "What is Kipah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Tavlin Spices",
+    "candidates": [
+      "Tavlin Spices",
+      "Non-Food Items",
+      "Blood Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's challenge and Rav Pappa's answer that *kipah* refers to spices (*tavlin*), which is precisely what the 'Tavlin Spices' section's prose describes and analyzes.",
+      "chosen_heading": "Tavlin Spices",
+      "current_heading": "Tavlin Spices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Blood Case",
+    "candidates": [
+      "Non-Food Items",
+      "Blood Case",
+      "Fat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about congealing blood and melting fat, which is exactly what the 'Blood Case' prose describes as its opening text and subject matter.",
+      "chosen_heading": "Blood Case",
+      "current_heading": "Blood Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Fat Case",
+    "candidates": [
+      "Fat Case",
+      "Nefesh Includes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the objection about melted fat being swallowed ('achilah ketivah beih') \u2014 exactly the 'Fat Case' the prose describes, questioning whether drinking liquefied chelev constitutes eating under the Torah's prohibition.",
+      "chosen_heading": "Fat Case",
+      "current_heading": "Fat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Nefesh Includes",
+    "candidates": [
+      "Nefesh Includes",
+      "Chametz Case",
+      "Matzah Case",
+      "Dead Bird Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nefesh Includes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Reish Lakish's ruling on chelev/fat using the word nefesh, which belongs under 'Nefesh Includes' where the prose discusses this exact ruling.",
+      "second_heading": "Chametz Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form the complete chametz case \u2014 the baraita, the objection about achilah, and Reish Lakish's nefesh resolution \u2014 matching exactly the 'Chametz Case' prose description.",
+      "current_heading": "Nefesh Includes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Dead Bird Case",
+    "candidates": [
+      "Chametz Case",
+      "Matzah Case",
+      "Dead Bird Case",
+      "Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal specifically with the carcass of a kosher bird (neveilat of tahor) \u2014 the fire vs. sun distinction and Reish Lakish's derivation from 'nefesh' \u2014 which is precisely what the 'Dead Bird Case' prose describes.",
+      "chosen_heading": "Dead Bird Case",
+      "current_heading": "Dead Bird Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Three Cases",
+    "candidates": [
+      "Three Cases",
+      "Forbidden Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 13 items form a continuous Talmudic discussion about why the Torah must state the liquid-equivalence principle for all three cases (chelev, chametz, neveilah) and why the shratzim verse is also necessary \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Three Cases",
+      "current_heading": "Three Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Forbidden Items",
+    "candidates": [
+      "Forbidden Items",
+      "Liquid Status",
+      "Natural vs. Imposed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces and presents the baraita listing the five forbidden items (tevel, chadash, hekdesh, shvi'it, kilayim) and their liquid equivalence rule, which matches exactly what the 'Forbidden Items' section prose describes.",
+      "chosen_heading": "Forbidden Items",
+      "current_heading": "Forbidden Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Natural vs. Imposed",
+    "candidates": [
+      "Liquid Status",
+      "Natural vs. Imposed",
+      "Bikurim Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the *issur ha-ba me-elav* distinction \u2014 item 1 raises the refutation that the earlier cases involve prohibitions that arise on their own, and item 2 asks what the source is for cases where the prohibition does not arise on its own (like hekdesh), which is precisely the problem articulated in the 'Natural vs. Imposed' prose.",
+      "chosen_heading": "Natural vs. Imposed",
+      "current_heading": "Natural vs. Imposed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Bikurim Model",
+    "candidates": [
+      "Bikurim Model",
+      "Bikurim Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the bikurim model and then asks where bikurim itself derives its rule \u2014 this is exactly what the 'Bikurim Model' prose describes, as it explains that bikurim serves as the model and the question about bikurim's own source follows naturally from that introduction.",
+      "chosen_heading": "Bikurim Model",
+      "current_heading": "Bikurim Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Bikurim Source",
+    "candidates": [
+      "Bikurim Source",
+      "Bikurim Weight",
+      "Terumah Link",
+      "Terumah Weight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain \u2014 item 1 establishes the bikurim liquid-equivalence rule (matching 'Bikurim Source' prose exactly), item 2 raises the refutation about bikurim's unique weight (previewed in 'Bikurim Weight'), item 3 shifts to terumah, and item 4 closes the circle back to bikurim via the teruma-bikurim equation \u2014 but the entire passage is the internal derivation discussion that the 'Bikurim Source' section's prose describes as its own content, and the current placement is correct.",
+      "chosen_heading": "Bikurim Source",
+      "current_heading": "Bikurim Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Terumah Weight",
+    "candidates": [
+      "Bikurim Weight",
+      "Terumah Link",
+      "Terumah Weight",
+      "Combined Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's refutation that terumah (and terumah+bikurim) cannot serve as the source for liquid equivalence precisely because of their unique stringencies of death and one-fifth payment \u2014 which is exactly what the 'Terumah Weight' prose describes as the challenge raised by terumah's weightiness.",
+      "chosen_heading": "Terumah Weight",
+      "current_heading": "Terumah Weight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Combined Cases",
+    "candidates": [
+      "Combined Cases",
+      "Terumah Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's resolution of combining terumah or bikurim with one of the naturally-prohibited cases, which is precisely what the 'Combined Cases' prose describes.",
+      "chosen_heading": "Combined Cases",
+      "current_heading": "Combined Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Terumah Examples",
+    "candidates": [
+      "Terumah Examples",
+      "Rabbi Eliezer View",
+      "Rabbi Yehoshua View",
+      "Damino Mimo Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna citation itself \u2014 listing the liquid products (date honey, apple wine, autumn vinegar, other fruit liquids) and introducing the Eliezer/Yehoshua dispute \u2014 which matches exactly what the 'Terumah Examples' prose describes as its content.",
+      "chosen_heading": "Terumah Examples",
+      "current_heading": "Terumah Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Damino Mimo Debate",
+    "candidates": [
+      "Rabbi Eliezer View",
+      "Rabbi Yehoshua View",
+      "Damino Mimo Debate",
+      "Wine & Oil Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together explain the 'dun minah u-minah' vs. 'dun minah ve-okei be-atrah' dispute \u2014 precisely the exegetical principle debate that heading 2 ('Damino Mimo Debate') is about, with its prose explicitly describing both Rabbi Eliezer's and Rabbi Yehoshua's positions in terms of this same derivation methodology.",
+      "chosen_heading": "Damino Mimo Debate",
+      "current_heading": "Damino Mimo Debate",
+      "moved": false
+    }
+  }
+]

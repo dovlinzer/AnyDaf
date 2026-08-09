@@ -86,7 +86,7 @@
           "timestamp": "24:02"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -110,7 +110,7 @@
           "timestamp": "30:43"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -168,7 +168,7 @@
           "timestamp": "40:57"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -202,7 +202,7 @@
           "timestamp": "53:14"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -412,5 +412,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "40:57",
+  "amud_b_micro_title": "Sages: Both Day 41",
+  "shiur_start_daf": 29,
+  "shiur_start_amud": "b"
 }

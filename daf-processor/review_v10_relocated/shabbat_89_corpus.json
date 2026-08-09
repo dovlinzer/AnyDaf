@@ -1,0 +1,317 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Torah Belongs in Heaven",
+    "candidates": [
+      "Angels Question Gift",
+      "Torah Belongs in Heaven",
+      "974 Generations",
+      "Moshe Defends Humans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire scene from Moses ascending to heaven through the angels' objection including the 974 generations and the Psalms verses, matching heading 0 ('Angels Question Gift') which introduces the angels' challenge, while the current placement under 'Torah Belongs in Heaven' only covers part of the passage's content \u2014 but heading 0's prose explicitly describes God's reply and the angels pressing their objection, making it the best single home for the complete passage.",
+      "chosen_heading": "Angels Question Gift",
+      "current_heading": "Torah Belongs in Heaven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Moshe Defends Humans",
+    "candidates": [
+      "974 Generations",
+      "Moshe Defends Humans",
+      "Angels Agree",
+      "Angels' Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Moshe's full argument to the angels \u2014 working through each commandment to show it applies only to humans \u2014 which is precisely what heading 1 ('Moshe Defends Humans') describes in its prose.",
+      "chosen_heading": "Moshe Defends Humans",
+      "current_heading": "Moshe Defends Humans",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Angels' Gifts",
+    "candidates": [
+      "Angels Agree",
+      "Angels' Gifts",
+      "Ascending to Take",
+      "Rashi on 974",
+      "Satan Searches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes each angel becoming a friend to Moses and giving him gifts, culminating in the Angel of Death's secret about incense stopping a plague \u2014 exactly what the 'Angels' Gifts' prose section discusses in detail.",
+      "chosen_heading": "Angels' Gifts",
+      "current_heading": "Angels' Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Satan Searches",
+    "candidates": [
+      "Ascending to Take",
+      "Rashi on 974",
+      "Satan Searches",
+      "Satan to Moshe",
+      "Moshe Declines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Satan's search through earth, sea, and depths for the Torah after Moses descended, which matches exactly the 'Satan Searches' section's prose about Satan asking the earth, sea, and depths where the Torah is.",
+      "chosen_heading": "Satan Searches",
+      "current_heading": "Satan Searches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Moshe Declines",
+    "candidates": [
+      "Satan to Moshe",
+      "Moshe Declines",
+      "Torah Named After",
+      "Sixth Hour Means"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Satan questioning Moses about the Torah and Moses's humble response, which exactly matches the 'Moshe Declines' section's prose discussion of this same exchange.",
+      "chosen_heading": "Moshe Declines",
+      "current_heading": "Moshe Declines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Sixth Hour Means",
+    "candidates": [
+      "Torah Named After",
+      "Sixth Hour Means",
+      "Satan Confused Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage from Rabbi Yehoshua ben Levi about Moses ascending on high and finding God tying crowns to letters directly precedes and introduces the 'Sixth Hour Means' section's discussion of Rabbi Yehoshua ben Levi's teaching about Moses's ascent and the sixth hour, making it a natural fit under that heading rather than 'Satan Confused Time' or 'Torah Named After.'",
+      "chosen_heading": "Sixth Hour Means",
+      "current_heading": "Sixth Hour Means",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Satan Confused Time",
+    "candidates": [
+      "Satan Confused Time",
+      "Sinai Etymology",
+      "Five Wilderness Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Satan confusing the world about Moses' delay, the sixth hour arriving, and showing the image of Moses' deathbed \u2014 exactly the content discussed in the 'Satan Confused Time' prose section.",
+      "chosen_heading": "Satan Confused Time",
+      "current_heading": "Satan Confused Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Five Wilderness Names",
+    "candidates": [
+      "Sinai Etymology",
+      "Five Wilderness Names",
+      "Chorev Desolation",
+      "Grammar of Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sinai Etymology",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the etymology debate of Har Sinai (nissim/siman objections, Rav Pappa reference, sin'ah explanation) and the five wilderness names through Paran, all of which are discussed under 'Sinai Etymology' and 'Five Wilderness Names' \u2014 but since item 1 spans both topics and the prose of heading 0 explicitly discusses the nissim/siman exchange and the referral to Rav Pappa while heading 1 discusses the five names, item 1 as a whole best fits under heading 0 which sets up the full passage.",
+      "second_heading": "Five Wilderness Names",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concludes the five names (Sinai/sin'ah) and then pivots to the dispute about the mountain's true name (Chorev vs. Sinai) and the churvah theme, which is precisely what heading 2 'Chorev Desolation' discusses.",
+      "current_heading": "Five Wilderness Names",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Grammar of Verse",
+    "candidates": [
+      "Chorev Desolation",
+      "Grammar of Verse",
+      "Deep Sin Cleansing",
+      "Forefathers Judge",
+      "Forefathers' Failures",
+      "God as Judge",
+      "God's Compassion",
+      "Sin Calculation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Deep Sin Cleansing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yitzchak's explanation of ka-shanim (sins as old as creation) and Rava's derivation about 'go to your forefathers,' which matches heading 2 ('Deep Sin Cleansing') and heading 3 ('Forefathers Judge') \u2014 but since item 1 includes both Rabbi Yitzchak's temporal depth point AND Rava's opening of the forefathers theme, and heading 2's prose explicitly covers the ka-shanim/creation explanation while heading 3 covers Rava's drash, item 1 spans both; however the bulk of item 1's content (Rabbi Yitzchak's explanation) matches heading 2 best.",
+      "second_heading": "Forefathers' Failures",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Israel's response about the forefathers failing to plead for them (Avraham, Yitzchak, Yaakov), which matches heading 4 ('Forefathers' Failures') exactly, as that prose describes Israel saying to whom shall we go and listing each patriarch's failure to intercede.",
+      "current_heading": "Grammar of Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Sin Calculation",
+    "candidates": [
+      "Deep Sin Cleansing",
+      "Forefathers Judge",
+      "Forefathers' Failures",
+      "God as Judge",
+      "God's Compassion",
+      "Sin Calculation",
+      "Sin Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes exactly the narrative discussed in candidate 5's prose: Rabbi Shmuel bar Na\u1e25mani/Rabbi Yonatan's teaching about God telling Abraham, Jacob, and Isaac that their children have sinned, with Isaac's response about 'my children and not Your children' and the na'aseh/nishma reference \u2014 all of which matches the current placement's prose description precisely.",
+      "chosen_heading": "Sin Calculation",
+      "current_heading": "Sin Calculation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Sin Calculation",
+    "candidates": [
+      "Sin Calculation",
+      "Isaac's Offer",
+      "Akeidah Merit",
+      "Praise to God",
+      "Chains to Kindness",
+      "Ropes of Love"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage spans multiple sections (sin calculation, Isaac's offer, Akeidah merit, and praise to God), but since all items must go under one heading and the current placement at 'Sin Calculation' captures the opening of the passage, while candidate 3 'Praise to God' captures its conclusion most fully \u2014 however, the passage as a whole is a continuous unit that includes all these elements, and the current placement is where the passage begins; given the instruction to prefer current placement when confidence is low, index 0 is retained.",
+      "chosen_heading": "Sin Calculation",
+      "current_heading": "Sin Calculation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Ropes of Love",
+    "candidates": [
+      "Isaac's Offer",
+      "Akeidah Merit",
+      "Praise to God",
+      "Chains to Kindness",
+      "Ropes of Love",
+      "Wood Shiur",
+      "Spice/Dye Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage about Jacob deserving to descend in iron chains but his merit causing a gentler descent directly matches candidate 3 ('Chains to Kindness'), whose prose explicitly paraphrases this same Gemara statement with 'b'shalshela'ot shel barzel' and 'zechuto garamah lo', while candidate 4 ('Ropes of Love') covers the verse interpretation that follows.",
+      "chosen_heading": "Chains to Kindness",
+      "current_heading": "Ropes of Love",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Spice/Dye Shiur",
+    "candidates": [
+      "Wood Shiur",
+      "Spice/Dye Shiur",
+      "Cleansing Shiur",
+      "Reed Shiur",
+      "Standard Use Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers wood, spices, dyes, and cleansing agents all together, and its opening topic is the wood shiur (ha-motzi etzim), making heading 0 'Wood Shiur' the natural home for this mishnaic passage that begins the entire section.",
+      "chosen_heading": "Wood Shiur",
+      "current_heading": "Spice/Dye Shiur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Standard Use Rule",
+    "candidates": [
+      "Cleansing Shiur",
+      "Reed Shiur",
+      "Standard Use Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage directly discusses the reed shiur (kulmos/beitzah kalah) and explains why the mishna's ruling is still necessary \u2014 this is precisely what the 'Reed Shiur' prose section describes, whereas the current 'Standard Use Rule' heading describes only the Gemara's answer/chiddush without the full context of the passage including the initial question.",
+      "chosen_heading": "Reed Shiur",
+      "current_heading": "Standard Use Rule",
+      "moved": true
+    }
+  }
+]

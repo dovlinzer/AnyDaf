@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Challenge to Yehuda",
+    "candidates": [
+      "Chavitai Overview",
+      "No Replacement",
+      "Shimon vs. Yehuda",
+      "Full Portion Agreement",
+      "General Continuation",
+      "Mibnav Ya'aseh",
+      "Otah = Complete",
+      "Chok Olam",
+      "Kalil Toktar",
+      "Challenge to Yehuda",
+      "Section Division"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Section Division",
+    "candidates": [
+      "Section Division",
+      "Hedyot's First Day",
+      "Mibnav Reconciled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 deriving from 'asher yakrivu' that Aaron and his sons bring separate offerings, with 'his sons' referring to ordinary priests \u2014 directly supports the 'Hedyot's First Day' section's discussion of the kohen hedyot's inaugural mincha offering, which is precisely what this baraita establishes.",
+      "chosen_heading": "Hedyot's First Day",
+      "current_heading": "Section Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Mibnav Reconciled",
+    "candidates": [
+      "Hedyot's First Day",
+      "Mibnav Reconciled",
+      "Succession Otah",
+      "New Kohen Full Unit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'mi-banav' exegesis \u2014 item 1 establishes that 'banav' refers to ordinary priests while item 2 derives 'tarti' (two halakhot) from the prefix 'mem' in 'mi-banav' \u2014 which is precisely what the 'Mibnav Reconciled' prose discusses.",
+      "chosen_heading": "Mibnav Reconciled",
+      "current_heading": "Mibnav Reconciled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "New Kohen Full Unit",
+    "candidates": [
+      "Succession Otah",
+      "New Kohen Full Unit",
+      "No Vav Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks what Rabbi Shimon does with the word 'otah' \u2014 which is precisely the question posed in candidate 0's prose ('What does Rebbi Shimon do with the word otah?'), while candidate 1 discusses the answer/ruling itself and candidate 2 discusses why he needs otah rather than the vav derivation.",
+      "chosen_heading": "Succession Otah",
+      "current_heading": "New Kohen Full Unit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "No Vav Derivation",
+    "candidates": [
+      "New Kohen Full Unit",
+      "No Vav Derivation",
+      "Chok = Perpetual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Rabbi Shimon does not derive the halakha from the vav in 'u-machatzitah' \u2014 exactly what the 'No Vav Derivation' section's prose describes.",
+      "chosen_heading": "No Vav Derivation",
+      "current_heading": "No Vav Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Chok = Perpetual",
+    "candidates": [
+      "Chok = Perpetual",
+      "Kalil Gzerah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks what Rabbi Yehuda does with 'chok olam' and answers that it teaches the statute is perpetual \u2014 exactly what the prose under 'Chok = Perpetual' describes.",
+      "chosen_heading": "Chok = Perpetual",
+      "current_heading": "Chok = Perpetual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Kalil Gzerah Shavah",
+    "candidates": [
+      "Kalil Gzerah Shavah",
+      "Eating Issurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why Rabbi Yehuda needs 'kalil toktar' and answers with the baraita about the High Priest's mincha and the ordinary priest's mincha, which is precisely what the prose under heading 0 ('Kalil Gzerah Shavah') describes as the baraita quoted in response to that question.",
+      "chosen_heading": "Kalil Gzerah Shavah",
+      "current_heading": "Kalil Gzerah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Eating Issurim",
+    "candidates": [
+      "Eating Issurim",
+      "Funding Source Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gzerah shavah from 'kalil kalil' connecting the kohen gadol's griddle-cake offering to the kohen hedyot's voluntary meal offering, establishing the prohibition on eating \u2014 exactly what the prose of 'Eating Issurim' describes in detail.",
+      "chosen_heading": "Eating Issurim",
+      "current_heading": "Eating Issurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Funding Source Q",
+    "candidates": [
+      "Funding Source Q",
+      "Takkanot List",
+      "Found Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks directly whether Rabbi Shimon holds that communal funding is d'oraita, which is precisely the 'striking challenge' described in the Funding Source Q prose \u2014 questioning how his position can be Torah-derived if it is actually a rabbinic takkanah.",
+      "chosen_heading": "Funding Source Q",
+      "current_heading": "Funding Source Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Found Animals",
+    "candidates": [
+      "Takkanot List",
+      "Found Animals",
+      "Non-Jew Olah",
+      "Ger's Sacrifices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly describes a gentile sending an olah from overseas with or without libation funds, which is precisely what the 'Non-Jew Olah' section's prose discusses.",
+      "chosen_heading": "Non-Jew Olah",
+      "current_heading": "Found Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Ger's Sacrifices",
+    "candidates": [
+      "Non-Jew Olah",
+      "Ger's Sacrifices",
+      "Kohen Gadol Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes a convert who died leaving offerings without libations, which matches exactly the 'Ger's Sacrifices' section prose discussing a ger who dies leaving korbanot but no heirs and the use of communal funds for nesachim.",
+      "chosen_heading": "Ger's Sacrifices",
+      "current_heading": "Ger's Sacrifices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Kohen Gadol Death",
+    "candidates": [
+      "Kohen Gadol Death",
+      "De'oraita Source",
+      "Burden Relief",
+      "Heirs Pay",
+      "Heirs Default"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about the kohen gadol who died with no replacement, and the current heading's prose explicitly discusses this exact case and its tension between rabbinic and Torah-derived status, matching the passage's content precisely.",
+      "chosen_heading": "Kohen Gadol Death",
+      "current_heading": "Kohen Gadol Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Heirs Default",
+    "candidates": [
+      "De'oraita Source",
+      "Burden Relief",
+      "Heirs Pay",
+      "Heirs Default",
+      "Ashes No Me'ilah",
+      "Chatas Derivation",
+      "Ashes Misused"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Abbahu's full statement introducing the two-stage ordinance framework \u2014 item 1 announces 'there were two ordinances' and item 2 explains all three stages including the de'oraita starting point \u2014 which matches heading 0 ('De'oraita Source') whose prose explicitly summarizes Rabbi Abbahu's shtei takkanos havo and the de'oraisa mishel tzibur baseline, whereas the current placement under 'Heirs Default' covers only the final stage of the passage.",
+      "chosen_heading": "De'oraita Source",
+      "current_heading": "Heirs Default",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Ashes Misused",
+    "candidates": [
+      "Ashes No Me'ilah",
+      "Chatas Derivation",
+      "Ashes Misused",
+      "Rabbinic Me'ilah",
+      "Purification Reluctance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion of the Torah-law challenge and Rav Ashi's resolution regarding the baraita's 'chatas hi' derivation \u2014 exactly what candidate 1's prose describes \u2014 whereas candidate 2 ('Ashes Misused') covers only Rav Ashi's explanation of the disrespectful use of ashes, which is just item 3's content in isolation.",
+      "chosen_heading": "Chatas Derivation",
+      "current_heading": "Ashes Misused",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Purification Reluctance",
+    "candidates": [
+      "Rabbinic Me'ilah",
+      "Purification Reluctance",
+      "Back to Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the revocation of the decree and restoration to Torah law ('established it in accordance with the halakha as it is by Torah law'), which matches the 'Back to Torah' section's prose about reverting to the de'oraita position, not the 'Purification Reluctance' section which discusses the unintended consequence causing people to avoid sprinkling.",
+      "chosen_heading": "Back to Torah",
+      "current_heading": "Purification Reluctance",
+      "moved": true
+    }
+  }
+]

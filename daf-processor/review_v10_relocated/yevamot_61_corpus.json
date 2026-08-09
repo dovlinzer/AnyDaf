@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Challenge to Rabba",
+    "candidates": [
+      "Ailonit & Zonah",
+      "Rabba's Combination",
+      "Challenge to Rabba",
+      "Zonah Definitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the gemara's challenge to Rabba's combination \u2014 item 1 states Rabba's explanation, items 2-3 present the baraita challenge showing Rabbi Eliezer does not hold like Rabbi Meir \u2014 which is precisely what candidate 2 ('Challenge to Rabba') describes in its prose.",
+      "chosen_heading": "Challenge to Rabba",
+      "current_heading": "Challenge to Rabba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Zonah Definitions",
+    "candidates": [
+      "Zonah Definitions",
+      "Rabbi Eliezer's View",
+      "Kohen Gadol Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full baraita listing all the Tannaitic opinions on the definition of 'zonah', which is precisely what the 'Zonah Definitions' section prose describes in detail, including every named opinion from Rabbi Eliezer through Rabbi Elazar.",
+      "chosen_heading": "Zonah Definitions",
+      "current_heading": "Zonah Definitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Kohen Gadol Case",
+    "candidates": [
+      "Rabbi Eliezer's View",
+      "Kohen Gadol Case",
+      "Seduction Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Adda bar Ahava's explanation that Rabbi Eliezer's prohibition concerns a High Priest who cannot marry a non-virgin, which is precisely the Kohen Gadol Case that the section's prose describes as the gemara's alternative explanation involving a ketana becoming a be'ulah before the kiddushin takes legal effect.",
+      "chosen_heading": "Kohen Gadol Case",
+      "current_heading": "Kohen Gadol Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Seduction Concern",
+    "candidates": [
+      "Seduction Concern",
+      "Naara Age Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's consecutive statements \u2014 first rejecting a prior explanation, then offering his own rationale about seduction concern \u2014 which precisely matches the 'Seduction Concern' prose description of Rava dismissing the earlier suggestion and then explaining pittuy ketana ones hu.",
+      "chosen_heading": "Seduction Concern",
+      "current_heading": "Seduction Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Naara Age Limit",
+    "candidates": [
+      "Naara Age Limit",
+      "Betula Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about the High Priest and the baraita deriving the na'ara requirement, which matches exactly the prose under 'Naara Age Limit' describing Rav Pappa's citation and the yatz'ah mi-klal ketana conclusion.",
+      "chosen_heading": "Naara Age Limit",
+      "current_heading": "Naara Age Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Betula Definition",
+    "candidates": [
+      "Betula Definition",
+      "Rav Amram Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man bar Yitz\u1e25ak's statement deriving that 'betula' means only a 'na'ara' from the Rivkah verse, which is precisely what the prose under 'Betula Definition' describes.",
+      "chosen_heading": "Betula Definition",
+      "current_heading": "Betula Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Amram Ruling",
+    "candidates": [
+      "Rav Amram Ruling",
+      "Mishnah Intro",
+      "Shammai/Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Elazar's opinion and Rav Amram's ruling against it, which is precisely what the 'Rav Amram Ruling' section's prose discusses.",
+      "chosen_heading": "Rav Amram Ruling",
+      "current_heading": "Rav Amram Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Shammai/Hillel",
+    "candidates": [
+      "Mishnah Intro",
+      "Shammai/Hillel",
+      "Hillel's Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah text belongs under 'Mishnah Intro' whose prose explicitly introduces and frames this very mishnah, while the 'Shammai/Hillel' section's prose describes the dispute content that the gemara discusses after the mishnah is cited.",
+      "chosen_heading": "Mishnah Intro",
+      "current_heading": "Shammai/Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Hillel's Purpose",
+    "candidates": [
+      "Shammai/Hillel",
+      "Hillel's Purpose",
+      "Shammai Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the gemara's inference about being released from pru u'revu vs. the obligation to marry, Rav Nachman/Shmuel's ruling, and the practical difference regarding selling a Torah scroll \u2014 all of which are explicitly discussed in the 'Hillel's Purpose' prose section.",
+      "chosen_heading": "Hillel's Purpose",
+      "current_heading": "Hillel's Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Shammai Logic",
+    "candidates": [
+      "Shammai Logic",
+      "Wife Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Beit Shammai/Beit Hillel debate about deriving the mitzva from Moses vs. creation, including the three things Moses did on his own \u2014 all of which are explicitly discussed in the 'Shammai Logic' prose section.",
+      "chosen_heading": "Shammai Logic",
+      "current_heading": "Shammai Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Wife Separation",
+    "candidates": [
+      "Wife Separation",
+      "Broken Tablets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Moses's separation from his wife and the reasoning behind it, matching exactly the 'Wife Separation' section's prose.",
+      "chosen_heading": "Wife Separation",
+      "current_heading": "Wife Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Broken Tablets",
+    "candidates": [
+      "Broken Tablets",
+      "Extra Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Moses breaking the tablets \u2014 item 1 gives his kal va-chomer reasoning from Pesach and item 2 gives the divine confirmation via 'asher shibarta' and Reish Lakish's wordplay \u2014 exactly matching the 'Broken Tablets' prose description.",
+      "chosen_heading": "Broken Tablets",
+      "current_heading": "Broken Tablets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Extra Day",
+    "candidates": [
+      "Extra Day",
+      "Two Males/Females"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Moses adding an extra day of separation before Sinai and the reasoning behind it, which is precisely what the 'Extra Day' section's prose discusses.",
+      "chosen_heading": "Extra Day",
+      "current_heading": "Extra Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Two Males/Females",
+    "candidates": [
+      "Two Males/Females",
+      "Male & Female"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Natan's baraita attributing to Beit Shammai the requirement of two males and two females, and Rav Huna's derivation from the Genesis verses about Cain and Abel \u2014 exactly what the 'Two Males/Females' prose describes, including the specific proof-text and the Rabbis' rejection of it as mere thanksgiving.",
+      "chosen_heading": "Two Males/Females",
+      "current_heading": "Two Males/Females",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Male & Female",
+    "candidates": [
+      "Male & Female",
+      "Convert's Children",
+      "Conversion Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Natan's baraita about Beit Shammai requiring male and female while Beit Hillel requires either one, and Rava's explanation from 'la-shevet yetzarah,' which is precisely what the 'Male & Female' section prose discusses.",
+      "chosen_heading": "Male & Female",
+      "current_heading": "Male & Female",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Conversion Debate",
+    "candidates": [
+      "Convert's Children",
+      "Conversion Debate",
+      "Inheritance/Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose directly introduces the question of whether children fathered before conversion count for pru u'revu and frames the ger ke-katan principle, which is exactly what both items present \u2014 the amoraic dispute between Rabbi Yochanan and Reish Lakish on pru u'revu and its parallel in bechor le-nachala; candidate 1's prose already summarizes the content of these items as if they have already been quoted, confirming the passage belongs under candidate 0.",
+      "chosen_heading": "Convert's Children",
+      "current_heading": "Conversion Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Inheritance/Bechor",
+    "candidates": [
+      "Conversion Debate",
+      "Inheritance/Bechor",
+      "Slaves vs. Non-Jews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items spell out why both disputes (pru u'revu and inheritance/bechor) must be stated explicitly \u2014 exactly the content described in candidate 1's prose about the necessity of stating both cases and their distinct internal logic.",
+      "chosen_heading": "Inheritance/Bechor",
+      "current_heading": "Inheritance/Bechor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Slaves vs. Non-Jews",
+    "candidates": [
+      "Slaves vs. Non-Jews",
+      "Death of Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic discussion contrasting gentile lineage with slave lineage \u2014 exactly the topic described in the 'Slaves vs. Non-Jews' prose, which explicitly references the donkey verse, Ziba's sons, and the multi-generational genealogical tracing of non-Jews.",
+      "chosen_heading": "Slaves vs. Non-Jews",
+      "current_heading": "Slaves vs. Non-Jews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Death of Children",
+    "candidates": [
+      "Death of Children",
+      "Huna's View",
+      "Messiah Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the dispute between Rav Huna and Rabbi Yo\u1e25anan about whether having children who died fulfills pru u'revu, which corresponds exactly to the 'Death of Children' section's prose introducing the case of *hayu lo banim u-mesu*.",
+      "chosen_heading": "Death of Children",
+      "current_heading": "Death of Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Messiah Theory",
+    "candidates": [
+      "Huna's View",
+      "Messiah Theory",
+      "Living Settlement",
+      "Raising Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's position grounded in Rav Asi's soul-depletion/Mashiach theory AND Rabbi Yochanan's counter-position based on la-shevet, and the 'Messiah Theory' section's prose explicitly covers both arguments together, making it the best match for this unified Gemara passage.",
+      "chosen_heading": "Messiah Theory",
+      "current_heading": "Messiah Theory",
+      "moved": false
+    }
+  }
+]

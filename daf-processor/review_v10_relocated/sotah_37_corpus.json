@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Benjamin's Ten Sons",
+    "candidates": [
+      "Joseph Intro",
+      "Twelve Tribes from Joseph",
+      "Benjamin's Ten Sons",
+      "Pharaoh's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous baraita and its explanation about Joseph deserving twelve tribes but losing that potential, with Benjamin's sons named after Joseph \u2014 exactly the content described in the 'Twelve Tribes from Joseph' prose, not the 'Benjamin's Ten Sons' section which merely summarizes the same material as background prose.",
+      "chosen_heading": "Twelve Tribes from Joseph",
+      "current_heading": "Benjamin's Ten Sons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Pharaoh's Test",
+    "candidates": [
+      "Benjamin's Ten Sons",
+      "Pharaoh's Test",
+      "Gabriel & Languages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Pharaoh's astrologers objecting to Joseph's appointment and Pharaoh responding with 'ginnunei malkhut,' which is precisely what the 'Pharaoh's Test' section prose discusses.",
+      "chosen_heading": "Pharaoh's Test",
+      "current_heading": "Pharaoh's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Gabriel & Languages",
+    "candidates": [
+      "Gabriel & Languages",
+      "Hebrew Language Secret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Gabriel teaching Joseph the seventy languages, Joseph's inability to complete the learning, and God adding the letter heh to his name \u2014 exactly the content discussed in the 'Gabriel & Languages' prose section.",
+      "chosen_heading": "Gabriel & Languages",
+      "current_heading": "Gabriel & Languages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Hebrew Language Secret",
+    "candidates": [
+      "Hebrew Language Secret",
+      "Oath Annulment",
+      "Benjamin Jumps First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together narrate the exact story described in heading 0's prose \u2014 Joseph speaking Hebrew to Pharaoh, Pharaoh failing to learn it, the oath of secrecy, and then the leverage that oath provided when Joseph needed to bury Jacob \u2014 which is precisely what the 'Hebrew Language Secret' section covers.",
+      "chosen_heading": "Hebrew Language Secret",
+      "current_heading": "Hebrew Language Secret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Benjamin Jumps First",
+    "candidates": [
+      "Oath Annulment",
+      "Benjamin Jumps First",
+      "Nachshon's Faith",
+      "Nachshon Drowning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe the baraita about the tribes competing at the sea, Binyamin jumping first, Yehudah stoning them, and Binyamin's reward of hosting the Shechinah \u2014 which is precisely the content discussed under the 'Benjamin Jumps First' heading.",
+      "chosen_heading": "Benjamin Jumps First",
+      "current_heading": "Benjamin Jumps First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Nachshon Drowning",
+    "candidates": [
+      "Nachshon's Faith",
+      "Nachshon Drowning",
+      "Judah's Kingdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yehuda's account of Nachshon leaping first, the Psalms verses describing Nachshon drowning while waiting for the sea to split, and Moses prolonging prayer while God urges action \u2014 are explicitly discussed together in the 'Nachshon's Faith' prose, which addresses the sequential narrative of Nachshon entering, the waters reaching his throat, and Moses being told to act rather than pray.",
+      "chosen_heading": "Nachshon's Faith",
+      "current_heading": "Nachshon Drowning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Judah's Kingdom",
+    "candidates": [
+      "Nachshon Drowning",
+      "Judah's Kingdom",
+      "Levi's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Judah meriting dominion/kingship in Israel because of the sea-crossing act, which is precisely what the 'Judah's Kingdom' section prose discusses (memshalah, the verse haysah Yehudah l'kodsho, and mishum dehayam ra'ah vayanos).",
+      "chosen_heading": "Judah's Kingdom",
+      "current_heading": "Judah's Kingdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Levi's Position",
+    "candidates": [
+      "Levi's Position",
+      "All Below Mountains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Eliezer ben Yaakov's problem about Levi's position and the resolution (elders below, rest above) plus Rabbi Yoshiya's alternative, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Levi's Position",
+      "current_heading": "Levi's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "All Below Mountains",
+    "candidates": [
+      "All Below Mountains",
+      "Facing Mountains",
+      "Three Covenants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yehuda HaNasi's position that everyone stood below (al = besamuch) and the supporting baraita about frankincense, which is precisely what the 'All Below Mountains' prose describes in detail.",
+      "chosen_heading": "All Below Mountains",
+      "current_heading": "All Below Mountains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Three Covenants",
+    "candidates": [
+      "Facing Mountains",
+      "Three Covenants",
+      "Generalities & Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about general/particular blessings and curses, the four dimensions per mitzvah, and the calculation of forty-eight covenants across three covenant-moments \u2014 exactly the content that heading 1 ('Three Covenants') discusses in its prose.",
+      "chosen_heading": "Three Covenants",
+      "current_heading": "Three Covenants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Generalities & Details",
+    "candidates": [
+      "Generalities & Details",
+      "48 Covenants Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rabbi Yishmael vs. Rabbi Akiva dispute about whether general principles and details were given at Sinai or separately at the Tent of Meeting, which is precisely what the 'Generalities & Details' section's prose elaborates at length.",
+      "chosen_heading": "Generalities & Details",
+      "current_heading": "Generalities & Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "48 Covenants Math",
+    "candidates": [
+      "48 Covenants Math",
+      "Mutual Guarantee"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the baraita's conclusion about 48 covenants, Rabbi Shimon ben Yehuda's extension to 603,550 times, and Rabbi Yehuda HaNasi's arithmetic corollary \u2014 exactly the material the '48 Covenants Math' prose section describes.",
+      "chosen_heading": "48 Covenants Math",
+      "current_heading": "48 Covenants Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Mutual Guarantee",
+    "candidates": [
+      "Mutual Guarantee",
+      "Adultery Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the distinction between Rabbi Shimon ben Yehuda and Rabbi Yehuda HaNasi regarding guarantor-upon-guarantor (arvut d'arvut), which is precisely what the 'Mutual Guarantee' section's prose elaborates on.",
+      "chosen_heading": "Mutual Guarantee",
+      "current_heading": "Mutual Guarantee",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Adultery Theme",
+    "candidates": [
+      "Adultery Theme",
+      "Curses Explained",
+      "Alternating Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Both items establish the interpretive principle that the entire parasha refers to an adulterer and adulteress, which matches the 'Adultery Theme' section's prose about Rabbi Yehudah ben Nechemia's teaching that the whole section was stated only with reference to an adulterer and adulteress \u2014 though item 2's content about the idol-worship curse also appears in 'Curses Explained', the two items together form the opening statement plus its first proof, which belongs under the initial framing heading.",
+      "chosen_heading": "Adultery Theme",
+      "current_heading": "Adultery Theme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Alternating Pattern",
+    "candidates": [
+      "Curses Explained",
+      "Alternating Pattern",
+      "Seven Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss why the verse specifies blessing before curse and the alternating one-by-one pattern, which is precisely what the 'Alternating Pattern' prose describes.",
+      "chosen_heading": "Alternating Pattern",
+      "current_heading": "Alternating Pattern",
+      "moved": false
+    }
+  }
+]

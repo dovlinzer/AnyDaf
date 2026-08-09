@@ -1,42 +1,29 @@
-# Pesachim 85 — Daf Yomi Shiur
-
+[DAF:84b]
 ## Breaking Bones
+
+
 
 ### Parameters & Exceptions
 
-> **Hebrew/Aramaic:** אִיתְּמַר: אֵבֶר שֶׁאֵין עָלָיו כְּזַיִת בָּשָׂר בִּמְקוֹם זֶה וְיֵשׁ עָלָיו כְּזַיִת בָּשָׂר בִּמְקוֹם אַחֵר, רַבִּי יוֹחָנָן אָמַר: יֵשׁ בּוֹ מִשּׁוּם שְׁבִירַת הָעֶצֶם, רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אָמַר: אֵין בּוֹ מִשּׁוּם שְׁבִירַת עֶצֶם.
->
-> **Translation:** **It was stated** that the *amora'im* argued about the following matter: In the case of **a limb upon which there is not an olive-bulk of meat in this place** in which one breaks the bone, **and there is an olive-bulk of meat in a different place,** has one violated the prohibition of breaking a bone? **Rabbi Yoḥanan said: It is subject to** the prohibition of **breaking a bone. Rabbi Shimon ben Lakish said: It is not subject to** the prohibition of **breaking a bone.**
-
-The daf opens in the middle of a discussion about the parameters of the prohibition against breaking a bone in the *korban pesach*. Two exceptions had already been established: one where the *pesach* is *pasul*, and another where it is not fit to be eaten. The Gemara had been probing what exactly is meant by "not fit to be eaten" — whether that represents an independent exemption built on the prohibition of *pasul*, or whether it is an extension of the same idea. That had been the position of *Rebbi*. Among the intriguing possibilities raised was that one would not transgress the prohibition on the fourteenth of Nisan itself, since the time for eating has not yet arrived — a striking formulation. The Gemara now focuses on the position that one does not transgress *shevrias etzem* when there is no meat on the bone at the moment of breaking, i.e., that the prohibition applies only when there is food on the bone at that time, such that it is currently fit to be eaten.
+The daf opens in the middle of a discussion about the parameters of the prohibition against breaking a bone in the *korban pesach*. Two exceptions had already been established: one where the *pesach* is *pasul*, and another where it is not fit to be eaten. The Gemara had been probing what exactly is meant by "not fit to be eaten" — whether that represents an independent exemption built on the prohibition of *pasul*, or whether it is an extension of the same idea. That had been the position of *Rebbi*. Among the intriguing possibilities raised was that one would not transgress the prohibition on the fourteenth of Nisan itself, since the time for eating has not yet arrived — a striking formulation. The Gemara now focuses on the position that one does not transgress *sheviras etzem* when there is no meat on the bone at the moment of breaking, i.e., that the prohibition applies only when there is food on the bone at that time, such that it is currently fit to be eaten.
 
 What becomes clear from the discussion that follows is that this exemption applies even when there was meat on the bone previously but it has since been stripped away. This is quite surprising. For most of us, the natural assumption would be that the whole point of the prohibition is to prevent one from chewing away at a bone after having eaten the meat off it — that once the meat is gone, one should not start chomping on the bone. Yet according to this view, if there is literally no meat on the bone at this moment, even if all the meat has been eaten off, one does not transgress the prohibition.
 
 ### Yochanan vs. Lakish
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַבִּי יוֹחָנָן לְרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: ״וְעֶצֶם לֹא תִשְׁבְּרוּ בּוֹ״ — אֶחָד עֶצֶם שֶׁיֵּשׁ עָלָיו כְּזַיִת בָּשָׂר, וְאֶחָד עֶצֶם שֶׁאֵין עָלָיו כְּזַיִת בָּשָׂר. מַאי אֵין עָלָיו כְּזַיִת בָּשָׂר? אִילֵּימָא דְּאֵין עָלָיו כְּזַיִת בָּשָׂר כְּלָל — אַמַּאי יֵשׁ בּוֹ מִשּׁוּם שְׁבִירַת הָעֶצֶם?! אֶלָּא לָאו, הָכִי קָאָמַר: אֶחָד עֶצֶם שֶׁיֵּשׁ עָלָיו כְּזַיִת בָּשָׂר בְּמָקוֹם זֶה, וְאֶחָד שֶׁאֵין עָלָיו כְּזַיִת בָּשָׂר בְּמָקוֹם זֶה וְיֵשׁ עָלָיו כְּזַיִת בָּשָׂר בְּמָקוֹם אַחֵר (— קַשְׁיָא לְרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ)!
->
-> **Translation:** **Rabbi Yoḥanan raised an objection to Reish Lakish** from a *baraita*: The verse states: **"And you shall not break a bone in it,"** which indicates that the prohibition applies to **both a bone upon which there is an olive-bulk of meat and a bone upon which there is not an olive-bulk of meat. What** is the meaning of the phrase: **Upon which there is not an olive-bulk of meat? If we say that it does not have an olive-bulk of meat on it at all,** it is not fit for eating at all. **Why,** then, **is it subject to** the prohibition against **breaking a bone? Rather, is it not** true that **this is what it is saying:** The prohibition applies **both** to **a bone upon which there is an olive-bulk of meat in this place, and** to a bone **upon which there is not an olive-bulk of meat in this place and there is an olive-bulk of meat in a different place?** This poses **a difficulty to** the opinion of **Rabbi Shimon ben Lakish.**
-
 The Gemara immediately takes up a related debate between Rabbi Yochanan and Resh Lakish. The case is where there is meat somewhere on the bone, but not at the precise point where it is being broken. Does the prohibition apply? Rabbi Yochanan says yes, Resh Lakish says no — according to Resh Lakish, the prohibition requires that there be meat at the actual location of the break. A *braita* had been cited, which Rabbi Yochanan interpreted as supporting his view. Resh Lakish's response is that the *braita* is not making that point at all. Rather, the *braita* is emphasizing that even if the meat is not on the outside of the bone but on the inside — that is, it is *moach*, marrow — that still counts as "meat on the bone" for purposes of the prohibition. But the *braita* would not apply the prohibition when there is no meat at the specific location of the break.
 
+[DAF:85a]
 ### Marrow Prohibition
 
-> **Hebrew/Aramaic:** לָא, הָכִי קָאָמַר: אֶחָד עֶצֶם שֶׁיֵּשׁ עָלָיו כְּזַיִת בָּשָׂר מִבַּחוּץ, וְאֶחָד עֶצֶם שֶׁאֵין עָלָיו כַּזַּיִת בָּשָׂר מִבַּחוּץ, וְיֵשׁ עָלָיו כַּזַּיִת בָּשָׂר מִבִּפְנִים בִּמְקוֹם שְׁבִירָה.
->
-> **Translation:** **No,** that is not what it means to say. Rather, **this is what it is saying:** It is prohibited to break **both a bone upon which there is an olive-bulk of meat on the outside and a bone upon which there is not an olive-bulk of meat on the outside,** but **there is an olive-bulk of meat,** i.e., bone marrow, **on** the **inside at the place of the break.**
+> **Hebrew/Aramaic:** וְהָתַנְיָא: ״וְעֶצֶם לֹא תִשְׁבְּרוּ בּוֹ״ — אֶחָד עֶצֶם שֶׁיֵּשׁ בּוֹ מוֹחַ, וְאֶחָד עֶצֶם שֶׁאֵין בּוֹ מוֹחַ. וּמָה אֲנִי מְקַיֵּים ״וְאָכְלוּ אֶת הַבָּשָׂר בַּלַּיְלָה הַזֶּה״ — בְּבָשָׂר שֶׁעַל גַּבֵּי הָעֶצֶם.
+> **Translation:** **And** as a proof, the Gemara cites that which **was taught** in a *baraita* with regard to the verse: **“And you shall not break a bone in it”** (Exodus 12:46). This prohibition includes **both a bone in which there is marrow and a bone in which there is no marrow. How do I establish** the positive mitzva expressed in the verse: **“And they shall eat the meat on that night”** (Exodus 12:8)? It is to be fulfilled exclusively **with meat that is on the bone.**
 
-> **Hebrew/Aramaic:** וְהָתַנְיָא: ״וְעֶצֶם לֹא תִשְׁבְּרוּ בּוֹ״ — אֶחָד עֶצֶם שֶׁיֵּשׁ בּוֹ מוֹחַ, וְאֶחָד עֶצֶם שֶׁאֵין בּוֹ מוֹחַ. וּמָה אֲנִי מְקַיֵּים ״וְאָכְלוּ אֶת הַבָּשָׂר בַּלַּיְלָה הַזֶּה״ — בְּבָשָׂר שֶׁעַל גַּבֵּי הָעֶצֶם.
->
-> **Translation:** **And** as a proof, the Gemara cites that which **was taught** in a *baraita* with regard to the verse: **"And you shall not break a bone in it"** (Exodus 12:46). This prohibition includes **both a bone in which there is marrow and a bone in which there is no marrow. How do I establish** the positive mitzva expressed in the verse: **"And they shall eat the meat on that night"** (Exodus 12:8)? It is to be fulfilled exclusively **with meat that is on the bone.**
-
-> **Hebrew/Aramaic:** אוֹ אֵינוֹ אֶלָּא בְּבָשָׂר שֶׁבְּתוֹךְ הָעֶצֶם, וּמָה אֲנִי מְקַיֵּים ״וְעֶצֶם לֹא תִשְׁבְּרוּ בוֹ״ — בְּעֶצֶם שֶׁאֵין בּוֹ מוֹחַ, אֲבָל בְּעֶצֶם שֶׁיֵּשׁ בּוֹ מוֹחַ — שׁוֹבֵר וְאוֹכֵל. וְאַל תִּתְמַהּ, שֶׁהֲרֵי יָבֹא עֲשֵׂה וְיִדְחֶה לֹא תַעֲשֶׂה.
->
+> **Hebrew/Aramaic:** אוֹ אֵינוֹ אֶלָּא בְּבָשָׂר שֶׁבְּתוֹךְ הָעֶצֶם, וּמָה אֲנִי מְקַיֵּים ״וְעֶצֶם לֹא תִשְׁבְּרוּ בוֹ״ — בְּעֶצֶם שֶׁאֵין בּוֹ מוֹחַ, אֲבָל בְּעֶצֶם שֶׁיֵּשׁ בּוֹ מוֹחַ — שׁוֹבֵר וְאוֹכֵל. וְאַל תִּתְמַהּ, שֶׁהֲרֵי יָבֹא עֲשֵׂה וְיִדְחֶה לֹא תַעֲשֶׂה.
 > **Translation:** **Or** perhaps **it** means **only** that the positive mitzva also applies **to the** marrow **meat that is inside the bone. And** if so, **how do I establish** the prohibition: **And you shall not break a bone in it?** It is referring specifically **to a bone that does not have marrow. However,** in the case of **a bone that does have marrow, one may break and eat** the marrow. **And do not be surprised** that one may violate the prohibition of breaking a bone in order to eat the marrow, **as** it is possible to say that **the positive** mitzva to eat the meat **comes and overrides the prohibition** prohibiting one to break a bone, in accordance with the general principle that positive mitzvot override negative mitzvot.
 
-> **Hebrew/Aramaic:** כְּשֶׁהוּא אוֹמֵר ״וְעֶצֶם לֹא יִשְׁבְּרוּ בוֹ״ בְּפֶסַח שֵׁנִי, שֶׁאֵין תַּלְמוּד לוֹמַר, שֶׁהֲרֵי כְּבָר נֶאֱמַר ״כְּכׇל חֻקַּת הַפֶּסַח יַעֲשׂוּ אֹתוֹ״ — הֱוֵי אוֹמֵר אֶחָד עֶצֶם שֶׁיֵּשׁ בּוֹ מוֹחַ וְאֶחָד עֶצֶם שֶׁאֵין בּוֹ מוֹחַ.
->
-> **Translation:** **When it says:** "They shall leave none of it until the morning, **nor break a bone in it"** (Numbers 9:12), **with regard to the** Paschal lamb of the **second *Pesaḥ*,** for **which there is no need for the verse to state** this prohibition, **as it is already stated "according to all the statute of the Paschal lamb they shall keep it,"** which includes the prohibition to break a bone, **you must say** that it is repeated in order to emphasize the prohibition and indicate that it applies to **both a bone in which there is marrow and a bone in which there is no marrow.**
+> **Hebrew/Aramaic:** כְּשֶׁהוּא אוֹמֵר ״וְעֶצֶם לֹא יִשְׁבְּרוּ בוֹ״ בְּפֶסַח שֵׁנִי, שֶׁאֵין תַּלְמוּד לוֹמַר, שֶׁהֲרֵי כְּבָר נֶאֱמַר ״כְּכׇל חֻקַּת הַפֶּסַח יַעֲשׂוּ אֹתוֹ״ — הֱוֵי אוֹמֵר אֶחָד עֶצֶם שֶׁיֵּשׁ בּוֹ מוֹחַ וְאֶחָד עֶצֶם שֶׁאֵין בּוֹ מוֹחַ.
+> **Translation:** **When it says:** “They shall leave none of it until the morning, **nor break a bone in it”** (Numbers 9:12), **with regard to the** Paschal lamb of the **second *Pesaḥ*,** for **which there is no need for the verse to state** this prohibition, **as it is already stated “according to all the statute of the Paschal lamb they shall keep it,”** which includes the prohibition to break a bone, **you must say** that it is repeated in order to emphasize the prohibition and indicate that it applies to **both a bone in which there is marrow and a bone in which there is no marrow.**
 
 The Gemara now cites the *braita* formally, introduced with *ve-hatanya*. The *braita* states: *ve-etzem lo tishberu bo* — you shall not break a bone in the *korban pesach* — *echad etzem she-yesh bo moach ve-echad etzem she-ein bo moach* — whether the bone has marrow or does not have marrow. The prohibition applies in either case.
 
@@ -52,12 +39,10 @@ One might also ask: why not access the marrow from a different part of the bone?
 
 ### Limb Outside
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: אֵבֶר שֶׁיָּצָא מִקְצָתוֹ, חוֹתֵךְ עַד מָקוֹם שֶׁמַּגִּיעַ לָעֶצֶם וְקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק, וְחוֹתֵךְ.
->
-> **Translation:** The Gemara **raises an objection** to the view of Rabbi Shimon ben Lakish: If **a portion of a limb has gone out** of its permissible boundary, **one** must **cut** through the meat **until one reaches the bone, and** then **peel** the meat that did not go out of the boundary away from the bone **until one reaches the joint, and cut** off the limb.
+> **Hebrew/Aramaic:** מֵיתִיבִי: אֵבֶר שֶׁיָּצָא מִקְצָתוֹ, חוֹתֵךְ עַד מָקוֹם שֶׁמַּגִּיעַ לָעֶצֶם וְקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק, וְחוֹתֵךְ.
+> **Translation:** The Gemara **raises an objection** to the view of Rabbi Shimon ben Lakish: If **a portion of a limb has gone out** of its permissible boundary, **one** must **cut** through the meat **until one reaches the bone, and** then **peel** the meat that did not go out of the boundary away from the bone **until one reaches the joint, and cut** off the limb. One then eats the meat that has been detached from the bone and discards the bone and the portion of the limb that went out of the appropriate location.
 
-> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ אֵבֶר שֶׁאֵין עָלָיו כְּזַיִת בָּשָׂר בְּמָקוֹם זֶה וְיֵשׁ בְּמָקוֹם אַחֵר אֵין בּוֹ מִשּׁוּם שְׁבִירַת הָעֶצֶם, לְמָה לִי דְּקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק וְחוֹתֵךְ? נִקְלוֹף בֵּיהּ פּוּרְתָּא וְנִתְבְּרֵיהּ!
->
+> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ אֵבֶר שֶׁאֵין עָלָיו כְּזַיִת בָּשָׂר בְּמָקוֹם זֶה וְיֵשׁ בְּמָקוֹם אַחֵר אֵין בּוֹ מִשּׁוּם שְׁבִירַת הָעֶצֶם, לְמָה לִי דְּקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק וְחוֹתֵךְ? נִקְלוֹף בֵּיהּ פּוּרְתָּא וְנִתְבְּרֵיהּ!
 > **Translation:** **And if you say that a limb upon which there is not an olive-bulk of meat in this place but there is** an olive-bulk of meat **in a different place is not subject to** the prohibition of **breaking a bone, why do I need** the *halakha* requiring one to **peel** the meat **until he reaches the joint and** then **cut** off the bone? **Let him peel a little bit** from the section of bone that adjoins the portion that went out of the boundary **and break** the bone once there is no meat at the location of the break.
 
 The Gemara now asks a question from the *mishnah* that will be treated formally later: *ever she-yatza miktzato* — if a limb of the *korban pesach* partially extended outside of Yerushalayim. Since meat that goes outside Yerushalayim becomes *pasul*, one must cut away the outer portion. The *mishnah* prescribes: *choteich ad makom she-magia la-etzem* — cut the meat until reaching the bone — *ve-kolef ad she-magia la-perek* — peel the meat on the inner portion until reaching the joint — and then sever the limb at the joint. The meat that was peeled away on the inside, which is still *kasher*, is eaten; the bone is discarded.
@@ -68,17 +53,13 @@ The Gemara now asks a pointed question, presenting a position attributed to *Rav
 
 ### Abaye: Cracking
 
-> **Hebrew/Aramaic:** אַבָּיֵי אָמַר: מִשּׁוּם פֶּקַע.
->
-> **Translation:** **Abaye said:** One may not do this, **due to** a concern that the entire bone will **crack,** including a part of the bone that has meat on it.
-
 Abaye answers: *mishum paka* — because of cracking. If one breaks the bone at a spot that has been stripped of meat, the break will not be clean; it will create a crack that runs into the adjacent portion of the bone where meat is still present. Since the cracking effect extends to areas where there is still meat on the bone, one cannot simply strip a small section and break there — the breaking action itself will effectively constitute breaking a bone in a place where meat remains.
+
+> **Hebrew/Aramaic:** אַבָּיֵי אָמַר: מִשּׁוּם פֶּקַע. רָבִינָא אָמַר: בְּקוּלִית.
+> **Translation:** **Abaye said:** One may not do this, **due to** a concern that the entire bone will **crack,** including a part of the bone that has meat on it. **Ravina said:** This ruling was stated with regard to **a thigh bone,** which has a large amount of marrow in it. It cannot be broken even if one peels away the meat from the location of the break.
 
 ### Ravina: Marrow
 
-> **Hebrew/Aramaic:** רָבִינָא אָמַר: בְּקוּלִית.
->
-> **Translation:** **Ravina said:** This ruling was stated with regard to **a thigh bone,** which has a large amount of marrow in it. It cannot be broken even if one peels away the meat from the location of the break.
 
 Ravina offers a different answer. The case involves a *kulis* — a particular type of limb, understood to be a thigh bone that contains marrow. The answer that one could simply peel away a spot and break the bone overlooks the marrow on the inside of the bone, which also counts as meat at the location of the break. This is an important clarification, and in some ways it restores a more intuitive picture of the prohibition.
 
@@ -90,19 +71,19 @@ This fits with the Gemara's broader understanding of the relationship between *v
 
 ## Pigul & Nosar
 
+
+
 ### Huna vs. Chisda
 
-> **Hebrew/Aramaic:** תְּנַן הָתָם: הַפִּיגּוּל וְהַנּוֹתָר (וְהַטָּמֵא) מְטַמְּאִין אֶת הַיָּדַיִם. רַב הוּנָא וְרַב חִסְדָּא. חַד אָמַר: מִפְּנֵי חֲשֵׁדֵי כְהוּנָּה. וְחַד אָמַר: מִפְּנֵי עֲצֵלֵי כְהוּנָּה.
->
+> **Hebrew/Aramaic:** תְּנַן הָתָם: הַפִּיגּוּל וְהַנּוֹתָר (וְהַטָּמֵא) מְטַמְּאִין אֶת הַיָּדַיִם. רַב הוּנָא וְרַב חִסְדָּא. חַד אָמַר: מִפְּנֵי חֲשֵׁדֵי כְהוּנָּה. וְחַד אָמַר: מִפְּנֵי עֲצֵלֵי כְהוּנָּה.
 > **Translation:** **We learned** in a mishna **there,** at the end of the tractate: ***Piggul* and leftover** sacrificial meat **render hands impure** due to rabbinic edict, although they are not ritually impure by Torah law. **Rav Huna and Rav Ḥisda** disagreed with regard to the reason for this. **One said:** The reason is **due to priests,** who were **suspected** of purposely disqualifying the offerings of people they disliked via improper intentions. The Sages decreed that the disqualified offerings immediately render the hands of the priest impure as a penalty. **And one said:** The reason is **due to lazy priests.** The decree is meant to stop them from allowing offerings to go uneaten.
 
-> **Hebrew/Aramaic:** מָר מַתְנֵי אַפִּיגּוּל, וּמַר מַתְנֵי אַנּוֹתָר. מַאן דְּמַתְנֵי אַפִּיגּוּל — מִשּׁוּם חֲשֵׁדֵי כְהוּנָּה. וּמַאן דְּמַתְנֵי אַנּוֹתָר — מִשּׁוּם עֲצֵלֵי כְהוּנָּה.
->
+> **Hebrew/Aramaic:** מָר מַתְנֵי אַפִּיגּוּל, וּמַר מַתְנֵי אַנּוֹתָר. מַאן דְּמַתְנֵי אַפִּיגּוּל — מִשּׁוּם חֲשֵׁדֵי כְהוּנָּה. וּמַאן דְּמַתְנֵי אַנּוֹתָר — מִשּׁוּם עֲצֵלֵי כְהוּנָּה.
 > **Translation:** The Gemara explains that they do not really argue: One **Sage teaches** his reason **with regard to *piggul*, and** the other **Sage teaches** his reason **with regard to leftover** sacrificial meat. **The one who teaches** the reason **with regard to *piggul*** says: The decree is **due to priests suspected** of purposely disqualifying offerings via improper intentions, as an offering only becomes *piggul* through intent. **And the one who teaches** the reason **with regard to leftover** sacrificial meat says: It is **due to lazy priests** who would not eat the meat.
 
 The Gemara now transitions to a related topic. *Ha-pigul ve-ha-nosar u-metame'im et ha-yadayim* — meat that is *pigul* or *nosar* causes *tumah* of the hands upon contact. This is a rabbinic enactment. The dispute is between Rav Huna and Rav Chisda: *chad amar mipnei chashdei kehunah*, one says it is because of *kohanim* who are suspected of acting improperly; *ve-chad amar mipnei atzlei kehunah*, the other says it is because of *kohanim* who are lazy.
 
-The one who emphasizes *pigul* says *mishum chashdei kehunah*. How does *pigul* occur? A *kohen* who performs the *avodah* with the intent to eat the offering outside its designated time renders the offering *pigul*. This is an intentional, willful act — not a matter of negligence. What would motivate a *kohen* to do this? Rashi suggests *mipnei eivah* — out of hostility. A vindictive *kohen* might intend to invalidate someone's *korban*, or worse, to cause the owner — who would not know of the *pigul* — to eat the meat and thereby incur *karet*, even if unknowingly and therefore as an *ones*. In any case, the result is that the *korban* is invalidated.
+The one who emphasizes *pigul* says *mishum chashdei kehunah*. How does *pigul* occur? A *kohen* who performs the *avodah* with the intent to eat the offering outside its designated time renders the offering *pigul*. This is an intentional, willful act — not a matter of negligence. What would motivate a *kohen* to do this? Rashi suggests *mipnei eivah* — out of hostility. A vindictive *kohen* might intend to invalidate someone's *korban*, or worse, to cause the owner — who would not know of the *pigul* — to eat the meat and thereby incur *karet*, even if unknowingly and therefore as an *ones*. It is worth noting that if a *kohen* simply wanted to invalidate the *korban*, there were easier ways to do so — spilling the blood, for instance — without transgressing any prohibition at all. That the Gemara envisions a *kohen* choosing specifically the route of *pigul* speaks to the particular malice involved: the goal is not merely to ruin the *korban* but to cause the owner to transgress. In any case, the result is that the *korban* is invalidated.
 
 The one who emphasizes *nosar* says *mishum atzlei kehunah* — lazy *kohanim* who fail to eat the meat within the required time, allowing it to become *nosar*.
 
@@ -114,8 +95,7 @@ Tosafot addresses this directly. He writes: *de-atzlu reshaim chamira lehu tumah
 
 ### Minimum Quantities
 
-> **Hebrew/Aramaic:** מָר מַתְנֵי כְּזַיִת, וּמַר מַתְנֵי כְּבֵיצָה. מַאן דְּמַתְנֵי כְּזַיִת — כְּאִיסּוּרוֹ. וּמַאן דְּמַתְנֵי כְּבֵיצָה — כְּטוּמְאָתוֹ.
->
+> **Hebrew/Aramaic:** מָר מַתְנֵי כְּזַיִת, וּמַר מַתְנֵי כְּבֵיצָה. מַאן דְּמַתְנֵי כְּזַיִת — כְּאִיסּוּרוֹ. וּמַאן דְּמַתְנֵי כְּבֵיצָה — כְּטוּמְאָתוֹ.
 > **Translation:** One **Sage teaches** that this ritual impurity applies to meat in the amount of **an olive-bulk, and** the other **Sage teaches** that the minimum amount of meat necessary for the decree to apply is **an egg-bulk.** The Gemara explains: The reason for **the one who teaches** that the minimum amount of meat necessary for the decree to apply is **an olive-bulk** is that the decree is **like its prohibition;** one violates the prohibition to eat *piggul* or leftover sacrificial meat only when one eats an olive-bulk. **And the one who teaches** that the decree applies only when there is **an egg-bulk** of meat reasons that it is **like its ritual impurity;** by Torah law, only an egg-bulk of food can impart ritual impurity.
 
 The Gemara then records another dispute: *mar masni kezayis u-mar masni kebetzah* — one teaches a *kezayis* and another teaches a *kebetzah* as the minimum quantity of meat that triggers this rabbinic *tumah*. The one who says *kezayis* holds that since the relevant prohibition — eating *pigul* or *nosar* — kicks in at a *kezayis*, the *tumah* should similarly apply from that quantity. The one who says *kebetzah* holds that since the standard minimum unit for *tumah* is normally the size of an egg, the same threshold should apply here.
@@ -124,10 +104,11 @@ The Gemara then records another dispute: *mar masni kezayis u-mar masni kebetzah
 
 ## Yotzei & Tumah
 
+
+
 ### Extension Question
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: יוֹצֵא גְּזַרוּ רַבָּנַן טוּמְאָה אוֹ לָא? מִי אָמְרִינַן: נוֹתָר דִּגְזַרוּ טוּמְאָה דְּאָתֵי לְאִיעֲצוֹלֵי בֵּיהּ, אֲבָל יוֹצֵא, אַפּוֹקֵי בְּיָדַיִם לָא מַפְּקִי לֵיהּ בְּיָדַיִם, לָא גְּזַרוּ בֵּיהּ רַבָּנַן טוּמְאָה, אוֹ דִילְמָא לָא שְׁנָא.
->
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: יוֹצֵא גְּזַרוּ רַבָּנַן טוּמְאָה אוֹ לָא? מִי אָמְרִינַן: נוֹתָר דִּגְזַרוּ טוּמְאָה דְּאָתֵי לְאִיעֲצוֹלֵי בֵּיהּ, אֲבָל יוֹצֵא, אַפּוֹקֵי בְּיָדַיִם לָא מַפְּקִי לֵיהּ בְּיָדַיִם, לָא גְּזַרוּ בֵּיהּ רַבָּנַן טוּמְאָה, אוֹ דִילְמָא לָא שְׁנָא.
 > **Translation:** **A dilemma was raised before the** Sages: With regard to sacrificial meat **that has gone out** of its permitted boundaries, did **the Sages decree** that it attains **ritual impurity or not? Do we say that** a decree had to be made with regard to **leftover** sacrificial meat, **as** the priests **would come to be lazy about it** and not eat it; **but** with regard to sacrificial meat that has **gone out** there is no reason for concern, because priests would not **actively take it out** of its boundaries and thereby disqualify it, and therefore **the Sages did not decree that it** be considered ritually impure? **Or perhaps it is no different,** as the Sages decreed that all disqualified sacrificial meat be considered ritually impure, so that the people handling it would do so with greater care.
 
 The Gemara poses a question: *yotzei* — meat that was taken outside its designated boundaries — is another way in which *korban* meat becomes *pasul*. The three standard categories of disqualified *korban* meat are *pigul*, *nosar*, and *tamei*. The current discussion is about when the Rabbis applied *tumah* to *pasul* meat, so *tamei* meat need not be discussed — it is already *tamei*. But what about *yotzei*? If meat of a *kodshei kodashim* offering is taken outside the *azarah*, or meat of *kodshim kalim* is taken outside Yerushalayim, does it also become *tamei*?
@@ -136,12 +117,10 @@ The Gemara poses a question: *yotzei* — meat that was taken outside its design
 
 ### Tumah Setarim
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: אֵבֶר שֶׁיָּצָא מִקְצָתוֹ חוֹתֵךְ עַד שֶׁמַּגִּיעַ לָעֶצֶם, וְקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק, וְחוֹתֵךְ. וְאִי אָמְרַתְּ גְּזַרוּ בֵּיהּ רַבָּנַן טוּמְאָה, כִּי חָתֵיךְ לֵיהּ מַאי הָוֵי? הָא קָמְטַמֵּא לֵיהּ!
->
+> **Hebrew/Aramaic:** תָּא שְׁמַע: אֵבֶר שֶׁיָּצָא מִקְצָתוֹ חוֹתֵךְ עַד שֶׁמַּגִּיעַ לָעֶצֶם, וְקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק, וְחוֹתֵךְ. וְאִי אָמְרַתְּ גְּזַרוּ בֵּיהּ רַבָּנַן טוּמְאָה, כִּי חָתֵיךְ לֵיהּ מַאי הָוֵי? הָא קָמְטַמֵּא לֵיהּ!
 > **Translation:** The Gemara suggests: **Come** and **hear** a solution to this dilemma based on the following mishna: If **a portion of a limb has gone out** of its permissible boundary, **one must cut** through the meat **until one reaches the bone, and** then **peel** the meat away from the bone **until one reaches the joint, and cut** off the limb. **And if you say the Sages decreed ritual impurity** on sacrificial meat that has gone out of its boundary, **when one cuts it, what has** been accomplished? The portion that has gone out **renders impure** the rest of the sacrificial meat through contact.
 
-> **Hebrew/Aramaic:** טוּמְאַת סְתָרִים הִיא, וְטוּמְאַת סְתָרִים לָא מְטַמְּיָא.
->
+> **Hebrew/Aramaic:** טוּמְאַת סְתָרִים הִיא, וְטוּמְאַת סְתָרִים לָא מְטַמְּיָא.
 > **Translation:** The Gemara answers: **It is** a case of **ritual impurity** in **a concealed** place, as the part that has gone out would impart ritual impurity to the portion that has not gone out due to the contact they make underneath the skin, which is concealed from view; and the principle is that **ritual impurity** in **a concealed** place **does not render** other objects **impure.**
 
 The Gemara attempts to resolve the question from the *mishnah* about a limb that partially went outside Yerushalayim: *choteich ad she-magia la-etzem, ve-kolef ad she-magia la-perek, ve-choteich*. The Gemara asks: if the Rabbis applied *tumah* to *yotzei*, then when you cut away the outer meat, how does cutting help? The outer meat that crossed the line is *tamei* — and it was touching the inner meat. Should not the inner meat also be *tamei*, making the whole enterprise pointless?
@@ -154,25 +133,27 @@ This principle has a well-known application in a different context: the question
 
 ### Ravina: Food Units
 
-> **Hebrew/Aramaic:** וּלְרָבִינָא דְּאָמַר: חִיבּוּרֵי אוֹכָלִין — לָאו חִיבּוּר הוּא, וּכְמָאן דְּמִפָּרְתִי דָּמֵי, מַאי אִיכָּא לְמֵימַר? הָא קָנָגַע בַּהֲדָדֵי וְקָא מְטַמֵּא! אֶלָּא: לְמַאן דְּמַתְנֵי כְּזַיִת — דְּלֵית בֵּיהּ כְּזַיִת. וּמַאן דְּמַתְנֵי כְּבֵיצָה — דְּלֵית בֵּיהּ כְּבֵיצָה.
->
-> **Translation:** The Gemara asks: **And according to** the opinion of **Ravina, who said** that **connections** between two pieces **of food are not** considered true **connections and are comparable to** foods that are **separate,** and therefore it cannot be considered ritual impurity in a concealed place, **what is there to say? They touch each other, and** one **imparts ritual impurity** to the other. The Gemara answers: **Rather,** according to his opinion, this must be explained differently: **According to the one who teaches** that the decree applies only when there is **an olive-bulk** of meat, the mishna may be addressing a case in which **it does not have an olive-bulk** of meat. And according to **the one who teaches** that the decree applies only when there is **an egg-bulk** of meat, the mishna may be addressing a case in which **it does not have an egg-bulk** of meat.
-
 Ravina complicates this resolution. He holds that *chiburei ochlin lav chibur hu* — when food is connected, it is not truly considered an indivisible unit. Because food by its nature is consumed in pieces, Ravina treats a connected piece of food as if it were already divided, *ke-man de-mifarshei dami*. According to him, the meat on the inside and the meat on the outside would be deemed as already separate, and the contact between them would count as exposed-surface contact — meaning the inside would also be *tamei*.
 
 ### Two Solutions
 
+> **Hebrew/Aramaic:** וּלְרָבִינָא דְּאָמַר: חִיבּוּרֵי אוֹכָלִין — לָאו חִיבּוּר הוּא, וּכְמָאן דְּמִפָּרְתִי דָּמֵי, מַאי אִיכָּא לְמֵימַר? הָא קָנָגַע בַּהֲדָדֵי וְקָא מְטַמֵּא! אֶלָּא: לְמַאן דְּמַתְנֵי כְּזַיִת — דְּלֵית בֵּיהּ כְּזַיִת. וּמַאן דְּמַתְנֵי כְּבֵיצָה — דְּלֵית בֵּיהּ כְּבֵיצָה.
+> **Translation:** The Gemara asks: **And according to** the opinion of **Ravina, who said** that **connections** between two pieces **of food are not** considered true **connections and are comparable to** foods that are **separate,** and therefore it cannot be considered ritual impurity in a concealed place, **what is there to say? They touch each other, and** one **imparts ritual impurity** to the other. The Gemara answers: **Rather,** according to his opinion, this must be explained differently: **According to the one who teaches** that the decree applies only when there is **an olive-bulk** of meat, the mishna may be addressing a case in which **it does not have an olive-bulk** of meat. And according to **the one who teaches** that the decree applies only when there is **an egg-bulk** of meat, the mishna may be addressing a case in which **it does not have an egg-bulk** of meat.
+
 For Ravina, then, the *tumas setarim* answer does not work. But the Gemara provides an alternative: the case in the *mishnah* may simply involve a quantity below the threshold for *tumah*. According to the opinion that *tumah* applies from a *kezayis*, the case may involve less than a *kezayis* of meat having gone outside. According to the opinion that requires a *kebetzah*, the outside portion may be less than a *kebetzah*. Either way, there is an insufficient quantity to trigger *tumah* transfer, and therefore the inside remains *tahor*. The upshot is that one cannot prove from this *mishnah* whether the Rabbis applied *tumah* to *yotzei* or not, because there are explanations available that avoid *tumah* either through *tumas setarim* or through insufficient quantity.
+
+It is worth pausing here to note that this entire discussion about *tumas setarim* — whether a connected surface counts as an exposed surface or not — has a surprising practical resonance. The same conceptual question underlies a well-known issue in the laws of *mikvah*: whether long fingernails require cutting before immersion. The accepted reason is straightforwardly about dirt beneath the nails constituting a *chatzitzah*. Some, however, have proposed an additional rationale: that if a nail has grown to the point where it ought to be cut, the portion that would be removed is considered as though it were already detached and unwanted, and the surface that would be exposed upon cutting is therefore an external surface even now — rendering that nail a *chatzitzah* in its own right. The lecturer notes this is not the mainstream *halacha*, and is in any case a rather strange position, but it illustrates the underlying principle at stake here: there is a meaningful legal difference between something that is truly continuous and unified versus something that is connected but effectively already separate, with what amounts to exposed-surface contact between the parts. That is precisely the tension the Gemara has been working through in this passage.
 
 ### Group Transfer
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: הַמּוֹצִיא בְּשַׂר פֶּסַח מֵחֲבוּרָה לַחֲבוּרָה, אַף עַל פִּי שֶׁהוּא בְּלֹא תַעֲשֶׂה, טָהוֹר. מַאי לָאו — טָהוֹר וְאָסוּר, דְּיוֹצֵא מֵחֲבוּרָה לַחֲבוּרָה כַּיּוֹצֵא חוּץ לִמְחִיצָתוֹ דָּמֵי, וּמִפְּסִיל, וַאֲפִילּוּ הָכִי קָתָנֵי טָהוֹר, אַלְמָא לָא גְּזַרוּ רַבָּנַן טוּמְאָה!
->
-> **Translation:** The Gemara suggests: **Come** and **hear** a different proof from a *baraita*: If **one removes the meat of a Paschal lamb from** the location of one **group to** the location of another **group, although he** violates **a prohibition,** as the Torah prohibits removing the Paschal lamb from the location of the group that registered for it, the Paschal lamb remains **pure.** The Gemara seeks to clarify: **What, is it not** that the meat remains **pure, and** yet it is **prohibited** to eat it, because a Paschal lamb that **goes out from** the location of one **group to** that of another **group is comparable to** any offering that **goes out of its boundary, and it is disqualified? And even so, it is teaching** that the meat remains **pure. Apparently,** based on this it seems that **the Sages did not decree ritual impurity** on meat that goes out of the location of its group.
+> **Hebrew/Aramaic:** תָּא שְׁמַע: הַמּוֹצִיא בְּשַׂר פֶּסַח מֵחֲבוּרָה לַחֲבוּרָה, אַף עַל פִּי שֶׁהוּא בְּלֹא תַעֲשֶׂה, טָהוֹר. מַאי לָאו — טָהוֹר וְאָסוּר, דְּיוֹצֵא מֵחֲבוּרָה לַחֲבוּרָה כַּיּוֹצֵא חוּץ לִמְחִיצָתוֹ דָּמֵי, וּמִפְּסִיל, וַאֲפִילּוּ הָכִי קָתָנֵי טָהוֹר, אַלְמָא לָא גְּזַרוּ רַבָּנַן טוּמְאָה!
+> **Translation:** **Come** and **hear** a different proof from a *baraita*: If **one removes the meat of a Paschal lamb from** the location of one **group to** the location of another **group, although he** violates **a prohibition,** as the Torah prohibits removing the Paschal lamb from the location of the group that registered for it, the Paschal lamb remains **pure.** The Gemara seeks to clarify: **What, is it not** that the meat remains **pure, and** yet it is **prohibited** to eat it, because a Paschal lamb that **goes out from** the location of one **group to** that of another **group is comparable to** any offering that **goes out of its boundary, and it is disqualified? And even so, it is teaching** that the meat remains **pure. Apparently,** based on this it seems that **the Sages did not decree ritual impurity** on meat that goes out of the location of its group.
 
-> **Hebrew/Aramaic:** לָא — טָהוֹר וּמוּתָּר, דְּיוֹצֵא מֵחֲבוּרָה לַחֲבוּרָה לָאו כַּיּוֹצֵא חוּץ לִמְחִיצָתוֹ דָּמֵי, וְלָא מִפְּסִיל.
->
+> **Hebrew/Aramaic:** לָא — טָהוֹר וּמוּתָּר, דְּיוֹצֵא מֵחֲבוּרָה לַחֲבוּרָה לָאו כַּיּוֹצֵא חוּץ לִמְחִיצָתוֹ דָּמֵי, וְלָא מִפְּסִיל.
 > **Translation:** The Gemara rejects this proof: **No,** the *baraita* should be understood as teaching that the meat is **pure and permitted** to be eaten because meat that **goes from** the location of one **group to** the location of another **group is not comparable to** sacrificial meat that **goes out of its boundary, and it is not disqualified.**
+
+> **Hebrew/Aramaic:** וְהָא קָא תָנֵי סֵיפָא: הָאוֹכְלוֹ הֲרֵי זֶה בְּלֹא תַעֲשֶׂה! בִּשְׁלָמָא לְמַאן דְּאָמַר כְּבֵיצָה — דְּאִית בֵּיהּ כְּזַיִת וְלֵית בֵּיהּ כְּבֵיצָה, אֶלָּא לְמַאן דְּאָמַר כְּזַיִת, מַאי אִיכָּא לְמֵימַר?
+> **Translation:** The Gemara asks: **But didn’t the latter clause** of the *baraita* **teach** that **one who eats** the meat of a Paschal lamb that was removed from the location of its group **is in** violation of **a prohibition? Granted, according to the one who said** that the Sages decreed ritual impurity on offerings only when there is at least **an egg-bulk,** the case in this *baraita* may be one in which **there is an olive-bulk,** which is the minimal measure one must eat to violate the prohibition, **and there is not an egg-bulk,** which is the minimal measure necessary for the rabbinic decree of ritual impurity to take effect. **But according to the one who says** that the Sages decreed ritual impurity even on **an olive-bulk, what is there to say?**
 
 The Gemara brings another attempt to resolve the question. *Ha-motzi besar pesach mi-chaburah le-chaburah* — one who transfers meat of the *korban pesach* from one group to another — *af al pi she-hu be-lo ta'aseh*, although doing so violates a negative prohibition — *tahor*, the meat remains *tahor*. The Gemara asks: does *tahor* here mean merely *tahor* but *assur be-achilah* — pure but forbidden to eat, because taking it out of the *chaburah* is like taking it out of its *mechitza* and invalidates it just as *yotzei* invalidates other *korbanot*? If so, we would see that *pasul* meat through *yotzei* is nonetheless *tahor* — proof that *tumah* was not applied to *yotzei*.
 
@@ -180,35 +161,36 @@ The Gemara responds: no, *tahor u-mutar* — the meat is not only *tahor* but re
 
 ### Pesach Carefulness
 
-> **Hebrew/Aramaic:** אֶלָּא: בְּיוֹצֵא בַּפֶּסַח לָא מִיבַּעְיָא לַן דְּלָא גְּזַרוּ רַבָּנַן טוּמְאָה, מַאי טַעְמָא — בְּנֵי חֲבוּרָה זְרִיזִין הֵן, וּמִזְהָר זְהִירִי בֵּיהּ. אֶלָּא, כִּי קָמִיבַּעְיָא לַן בְּיוֹצֵא בְּקָדָשִׁים, מַאי, תֵּיקוּ.
->
-> **Translation:** **Rather,** the previous answers may be withdrawn in favor of the following: **With regard to** meat that **goes out** of its location that is **from the Paschal lamb,** it is **not necessary for us** to say that **the Sages did not decree ritual impurity** on it, because it is obvious. **What is the reason** the Sages did not decree it to be ritually impure? It is because **the members of the group are zealous and are** very **careful** to ensure that the meat remains in its proper location, making it unnecessary to penalize those who allow the meat to leave the location of its group. **Rather, when** this question **was asked,** it was **with regard to** other **sacrificial** meat **that has gone out** of its boundary. **What** is the *halakha*? The Gemara does not have an answer to this question and concludes: **Let it stand** unresolved.
-
 The Gemara accepts this proof — but only in part. *Yotzei be-pesach lo mibaya lan* — the case of *yotzei* by the *korban pesach* is not our question. *De-lo gazru Rabbanan tumah* — there, the Rabbis did not apply *tumah*. And the reason: *benei chaburah zrizin hein* — the members of the *chaburah* are vigilant. The setting of the *pesach* is one of intense communal focus, and the group is scrupulous; there is no need for the deterrent of *tumah* to prevent the meat from going outside its boundaries.
 
 It is worth noting that this answer distinguishes *pesach* from other cases on the basis of its unique *psul*: the *psul yotzei* that applies specifically to leaving the *chaburah* is a *psul* that exists nowhere else in the world of *korbanot*. This particularity may itself be a reason not to extend the rabbinic *tumah* to it, in addition to the carefulness of the participants. By contrast, taking *pesach* meat outside Yerushalayim is the generic *psul yotzei* common to all *kodshim kalim* — and it is possible the Rabbis did apply *tumah* to that scenario, since the *lo plug* logic would be more relevant for a universal type of *psul*.
 
 The same reasoning addresses why *tumah* of *nosar* was applied to *pesach* meat: unlike the *chaburah*-specific *psul*, *nosar* is a universal prohibition and the laziness concern is fully applicable.
 
+> **Hebrew/Aramaic:** אֶלָּא: בְּיוֹצֵא בַּפֶּסַח לָא מִיבַּעְיָא לַן דְּלָא גְּזַרוּ רַבָּנַן טוּמְאָה, מַאי טַעְמָא — בְּנֵי חֲבוּרָה זְרִיזִין הֵן, וּמִזְהָר זְהִירִי בֵּיהּ. אֶלָּא, כִּי קָמִיבַּעְיָא לַן בְּיוֹצֵא בְּקָדָשִׁים, מַאי, תֵּיקוּ.
+> **Translation:** **Rather,** the previous answers may be withdrawn in favor of the following: **With regard to** meat that **goes out** of its location that is **from the Paschal lamb,** it is **not necessary for us** to say that **the Sages did not decree ritual impurity** on it, because it is obvious. **What is the reason** the Sages did not decree it to be ritually impure? It is because **the members of the group are zealous and are** very **careful** to ensure that the meat remains in its proper location, making it unnecessary to penalize those who allow the meat to leave the location of its group. **Rather, when** this question **was asked,** it was **with regard to** other **sacrificial** meat **that has gone out** of its boundary. **What** is the *halakha*? The Gemara does not have an answer to this question and concludes: **Let it stand** unresolved.
+
 ### Regular Kodashim
 
-> **Hebrew/Aramaic:** וּמוֹצִיא בְּשַׂר פֶּסַח מֵחֲבוּרָה לַחֲבוּרָה מִנַּיִן?
->
-> **Translation:** The Gemara questions the source of a *halakha* mentioned above: **And** with regard to **one who carries out meat** from the **Paschal lamb**
 
-The Gemara concludes: *elle ki ka mibaya lan, be-yotzei be-kodshim* — our real question is about *yotzei* in regular *kodshim*. And the Gemara declares *teiku* — the question remains unresolved.
+The Gemara concludes: *ella ki ka mibaya lan, be-yotzei be-kodshim* — our real question is about *yotzei* in regular *kodshim*. And the Gemara declares *teiku* — the question remains unresolved.
 
-One further point deserves attention. The Gemara's willingness to distinguish *pesach* from other cases suggests that the logic of *lo plug* — once we apply *tumah* to one form of *psul*, we apply it to all — is not being invoked here. The Gemara is treating each case on its own merits. This is significant because it implies that the extension of *tumah* to various forms of *psul* was a considered, case-by-case decision by the Rabbis, not a blanket rule.
+One further point deserves attention. The Gemara's willingness to distinguish *pesach* from other cases suggests that the logic of *lo plug* — once we apply *tumah* to one form of *psul*, we apply it to all — is not being invoked here. The Gemara is treating each case on its own merits. This is significant because it implies that the extension of *tumah* to various forms of *psul* was a considered, case-by-case decision by the Rabbis, not a blanket rule. Rather, it seems the Rabbis applied *tumah* specifically where there is an identifiable reason for the preventive — namely, the concern that someone will be inattentive and inadvertently allow the meat to leave its permitted boundary. The *tumah* serves as a deterrent against that kind of carelessness, and it is applied in each case only where that concern is operative. By *pesach*, as discussed above, the combination of the participants' vigilance and the highly particular nature of the *chaburah*-specific *psul* removed that concern — whereas a generic *psul yotzei* common to all *kodshim*, or a universal prohibition like *nosar*, falls squarely within the kind of case where the Rabbis' preventive reasoning does apply.
 
 ---
 
 ## Hotzaah Mi-Chabura
 
+
+
+[DAF:85b]
 ### Source: Chutz
 
-> **Hebrew/Aramaic:** מֵחֲבוּרָה לַחֲבוּרָה מִנַּיִן? דְּתַנְיָא: ״לֹא תוֹצִיא מִן הַבַּיִת מִן הַבָּשָׂר חוּצָה״, אֵין לִי אֶלָּא מִבַּיִת לְבַיִת, מֵחֲבוּרָה לַחֲבוּרָה מִנַּיִן? תַּלְמוּד לוֹמַר: ״חוּצָה״ — חוּץ לַאֲכִילָתוֹ.
->
-> **Translation:** **from** the location of its **group to** the location of another **group, from where** is it derived that he has violated a prohibition? **As it was taught** in a *baraita* with regard to the verse: "In one house shall it be eaten; **you shall not carry out any of the meat from the house to the outside"** (Exodus 12:46), **I have** derived **only** that it is prohibited to remove meat **from house to house; from where** do I derive that it is prohibited even to transfer the meat **from group to group** within one house? **The verse states: To the outside,** which includes any case in which one brings the meat **outside of** the place where **it may be eaten.**
+> **Hebrew/Aramaic:** וּמוֹצִיא בְּשַׂר פֶּסַח
+> **Translation:** The Gemara questions the source of a *halakha* mentioned above: **And** with regard to **one who carries out meat** from the **Paschal lamb**
+
+> **Hebrew/Aramaic:** מֵחֲבוּרָה לַחֲבוּרָה מִנַּיִן? דְּתַנְיָא: ״לֹא תוֹצִיא מִן הַבַּיִת מִן הַבָּשָׂר חוּצָה״, אֵין לִי אֶלָּא מִבַּיִת לְבַיִת, מֵחֲבוּרָה לַחֲבוּרָה מִנַּיִן? תַּלְמוּד לוֹמַר: ״חוּצָה״ — חוּץ לַאֲכִילָתוֹ.
+> **Translation:** **from** the location of its **group to** the location of another **group, from where** is it derived that he has violated a prohibition? **As it was taught** in a *baraita* with regard to the verse: “In one house shall it be eaten; **you shall not carry out any of the meat from the house to the outside”** (Exodus 12:46), **I have** derived **only** that it is prohibited to remove meat **from house to house; from where** do I derive that it is prohibited even to transfer the meat **from group to group** within one house? **The verse states: To the outside,** which includes any case in which one brings the meat **outside of** the place where **it may be eaten.**
 
 The Gemara now asks: *u-motzi besar pesach mi-chaburah le-chaburah minayin* — from where do we know there is a prohibition against taking *pesach* meat from one group to another? The source is the verse *ve-lo totzi min ha-bayit min ha-basar chutza* — do not remove the meat from the house outside. *Ein li ela mi-bayit le-bayit* — I might read this only as prohibiting carrying from one house to another. How do I know the prohibition extends even to two groups eating in the same house? The verse teaches *chutza* — meaning *chutz le-achilato*, outside the area designated for its eating. The word *chutza* expands the prohibition beyond the physical structure to anything outside the group's designated eating space.
 
@@ -222,25 +204,23 @@ This abstraction raises an important question: if a group is eating in a room an
 
 ### Placement Required
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַמֵּי: הַמּוֹצִיא בְּשַׂר פֶּסַח מֵחֲבוּרָה לַחֲבוּרָה, אֵינוֹ חַיָּיב עַד שֶׁיַּנִּיחַ. הוֹצָאָה כְּתִיב בֵּיהּ כְּשַׁבָּת: מָה שַׁבָּת — עַד דְּעָבֵד עֲקִירָה וְהַנָּחָה, אַף הָכָא נָמֵי — עַד דְּעָבֵד עֲקִירָה וְהַנָּחָה.
->
-> **Translation:** **Rabbi Ami said: One who carries out the meat of the Paschal lamb from** the location of one **group to** another **group is not liable until he places** the meat in the location of the second group. The reason for this is that the term **carrying out is written about it,** as the Torah says: "You shall not carry out," which is similar to the prohibited labor of the same name **pertaining to Shabbat.** Therefore, **just as** when it comes to **Shabbat one is not liable** for carrying from one domain to another **until he performs** an act of **lifting** from one domain **and placing** in the other domain, **so too, here also** one is not liable **until he performs** an act of **lifting** the meat from the location of one group **and placing** it in the location of another group.
 
 Abaye rules: *ha-motzi besar pesach mi-chaburah le-chaburah eino chayav ad she-yaniah* — one who removes *pesach* meat from one group to another is not liable until he places it down. Taking it out is insufficient; there must also be a *hanacha*, an act of resting or depositing the meat in the other location.
 
 ### Hotza'ah Parallel
 
-> **Hebrew/Aramaic:** מֵתִיב רַבִּי אַבָּא בַּר מֶמֶל: הָיוּ סוֹבְלִים אוֹתָן בְּמוֹטוֹת, הָרִאשׁוֹנִים יָצְאוּ חוּץ לְחוֹמַת הָעֲזָרָה וְהָאַחֲרוֹנִים לֹא יָצְאוּ, הָרִאשׁוֹנִים מְטַמְּאִין בְּגָדִים וְהָאַחֲרוֹנִים אֵין מְטַמְּאִין בְּגָדִים. וְהָא לָא נָח?
->
-> **Translation:** **Rabbi Abba bar Mammal raised an objection** based upon the *halakha* that those who remove the inner sin-offerings from the Temple become ritually impure. A *baraita* with regard to that *halakha* teaches as follows: If those carrying the inner sin-offerings **were carrying them on poles,** and **those in front** already **went outside the wall** around the Temple courtyard, **and those in the rear had not** yet **gone out, the ones in front** nonetheless immediately cause **their garments** to become **ritually impure, and the ones in the rear do not** cause **their garments** to become **ritually impure** until they also leave. This proves that the people carrying these offerings become impure immediately. **But** the meat **has not** yet **been placed** outside the courtyard, so why should it already be considered to have been taken out?
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַמֵּי: הַמּוֹצִיא בְּשַׂר פֶּסַח מֵחֲבוּרָה לַחֲבוּרָה, אֵינוֹ חַיָּיב עַד שֶׁיַּנִּיחַ. הוֹצָאָה כְּתִיב בֵּיהּ כְּשַׁבָּת: מָה שַׁבָּת — עַד דְּעָבֵד עֲקִירָה וְהַנָּחָה, אַף הָכָא נָמֵי — עַד דְּעָבֵד עֲקִירָה וְהַנָּחָה.
+> **Translation:** **Rabbi Ami said: One who carries out the meat of the Paschal lamb from** the location of one **group to** another **group is not liable until he places** the meat in the location of the second group. The reason for this is that the term **carrying out is written about it,** as the Torah says: “You shall not carry out,” which is similar to the prohibited labor of the same name **pertaining to Shabbat.** Therefore, **just as** when it comes to **Shabbat one is not liable** for carrying from one domain to another **until he performs** an act of **lifting** from one domain **and placing** in the other domain, **so too, here also** one is not liable **until he performs** an act of **lifting** the meat from the location of one group **and placing** it in the location of another group.
 
-> **Hebrew/Aramaic:** הוּא מוֹתֵיב לַהּ וְהוּא מְפָרֵק לַהּ, בְּנִגְרָרִין.
->
-> **Translation:** **He raised the objection and he resolved it:** The *baraita* addresses a case in which the people are **dragging** the offerings, and therefore as soon as they leave the courtyard the offerings are considered to have been placed on the ground.
-
-The reason: *hotza'ah ketiv bei, ke-Shabbos* — the verb *hotza'ah* is used here, as it is in the context of Shabbat. Just as the *melachah* of carrying on Shabbat requires both an *akirah* — a lifting — and a *hanacha* — a resting — so too here: *af hacha nami ad de-avid akirah ve-hanacha*. The complete act of *hotza'ah* requires both picking up and putting down. The parallel between *hotza'ah* on Shabbat and *hotza'ah mi-chaburah le-chaburah* for the *pesach* is being applied in full, including all its technical criteria.
+The reason: *hotza'ah ketiv bei, ke-Shabbos* — the verb *hotza'ah* is used here, as it is in the context of Shabbat. It is worth noting that Shabbat itself does not quite say *lo totzi* — do not carry out; rather, it says *al yetzei ish* — let no man go out from his place. But the Rabbis read this as *al yotzi* — do not carry things out from your place — and it is from that reading that the full technical structure of *hotza'ah* is derived. Just as the *melachah* of carrying on Shabbat requires both an *akirah* — a lifting — and a *hanacha* — a resting — so too here: *af hacha nami ad de-avid akirah ve-hanacha*. The complete act of *hotza'ah* requires both picking up and putting down. The parallel between *hotza'ah* on Shabbat and *hotza'ah mi-chaburah le-chaburah* for the *pesach* is being applied in full, including all its technical criteria.
 
 ### Dragging as Hanacha
+
+> **Hebrew/Aramaic:** מֵתִיב רַבִּי אַבָּא בַּר מֶמֶל: הָיוּ סוֹבְלִים אוֹתָן בְּמוֹטוֹת, הָרִאשׁוֹנִים יָצְאוּ חוּץ לְחוֹמַת הָעֲזָרָה וְהָאַחֲרוֹנִים לֹא יָצְאוּ, הָרִאשׁוֹנִים מְטַמְּאִין בְּגָדִים וְהָאַחֲרוֹנִים אֵין מְטַמְּאִין בְּגָדִים. וְהָא לָא נָח?
+> **Translation:** **Rabbi Abba bar Mammal raised an objection** based upon the *halakha* that those who remove the inner sin-offerings from the Temple become ritually impure. A *baraita* with regard to that *halakha* teaches as follows: If those carrying the inner sin-offerings **were carrying them on poles,** and **those in front** already **went outside the wall** around the Temple courtyard, **and those in the rear had not** yet **gone out, the ones in front** nonetheless immediately cause **their garments** to become **ritually impure, and the ones in the rear do not** cause **their garments** to become **ritually impure** until they also leave. This proves that the people carrying these offerings become impure immediately. **But** the meat **has not** yet **been placed** outside the courtyard, so why should it already be considered to have been taken out?
+
+> **Hebrew/Aramaic:** הוּא מוֹתֵיב לַהּ וְהוּא מְפָרֵק לַהּ, בְּנִגְרָרִין.
+> **Translation:** **He raised the objection and he resolved it:** The *baraita* addresses a case in which the people are **dragging** the offerings, and therefore as soon as they leave the courtyard the offerings are considered to have been placed on the ground.
 
 The Gemara raises an objection from Rav Abba bar Mamal regarding the *parim ha-nisrafim* — the bulls burned outside Yerushalayim. These were carried out of the *azarah* on poles. The *mishnah* states that when the front carriers had already passed outside the wall of the *azarah* but the rear carriers had not yet left, the front carriers become *tamei* in their garments while the rear ones do not. The Gemara notes that the term *hotza'ah* is used here too — and yet the carriers had not yet stopped; they were mid-motion. How can *tumah* apply if the *hanacha* had not yet occurred?
 
@@ -252,10 +232,11 @@ The Gemara's importation of the technical laws of *hotza'ah* from Shabbat into t
 
 ## Limb Removal
 
+
+
 ### Cutting & Peeling
 
-> **Hebrew/Aramaic:** מַתְנִי׳ אֵבֶר שֶׁיָּצָא מִקְצָתוֹ, חוֹתֵךְ עַד שֶׁמַּגִּיעַ לָעֶצֶם, וְקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק, וְחוֹתֵךְ. וּבַמּוּקְדָּשִׁין — קוֹצֵץ בְּקוֹפִיץ, שֶׁאֵין בּוֹ מִשּׁוּם שְׁבִירַת הָעֶצֶם.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ אֵבֶר שֶׁיָּצָא מִקְצָתוֹ, חוֹתֵךְ עַד שֶׁמַּגִּיעַ לָעֶצֶם, וְקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק, וְחוֹתֵךְ. וּבַמּוּקְדָּשִׁין — קוֹצֵץ בְּקוֹפִיץ, שֶׁאֵין בּוֹ מִשּׁוּם שְׁבִירַת הָעֶצֶם.
 > **Translation:** MISHNA: If **a portion of a limb has gone out** of its permissible boundary, **one must cut** the meat **until one reaches the bone** at the point that separates between the part of the limb that went out of its boundary and the part that did not, **and** then **peel** the meat away from the bone **until one reaches the joint, and cut** off the limb at the joint, as it is prohibited to break the bone itself. **And with regard to** other **offerings, one may chop** off the part that exited **with a hatchet, as it is not subject to** the prohibition of **breaking a bone.**
 
 The *mishnah* is now treated formally. *Ever she-yatza miktzato* — if part of a limb went outside Yerushalayim. The prescribed procedure: *choteich ad she-magia la-etzem* — cut away the outer meat down to the bone — *ve-kolef ad she-magia la-perek* — then peel away the inner meat, which is still *kasher* and will be eaten, until reaching the joint — *ve-choteich* — and then sever the limb at the joint. The peeled meat from the inside is what one eats; the bone is discarded.
@@ -272,13 +253,14 @@ This leads to the *mishnah*'s discussion of precisely where the line falls at th
 
 ## Gate Threshold
 
+
+
 ### Inner Doorjamb
 
-> **Hebrew/Aramaic:** מִן הָאֲגַף וְלִפְנִים — כְּלִפְנִים, מִן הָאֲגַף וּלְחוּץ — כְּלַחוּץ. הַחַלּוֹנוֹת וְעוֹבִי הַחוֹמָה — כְּלִפְנִים.
->
-> **Translation:** How does one determine the outer boundaries of a particular location? Anything that is located **from the** inside of the **doorway inward is** considered **as though** it is **inside,** and anything that is located **from the doorway outward is** considered **as though** it is **outside. And the windows** in the wall **and the thickness of the wall are** considered **as though** they are **inside,** such that an offering is considered to have exited the premises only if it is taken outside the wall.
-
 *Min ha-agaf ve-lifnim ke-lifnim* — from the inner doorjamb inward is considered the inside of Yerushalayim. The *agaf* refers to the part of the doorway where the door closes and rests — the inner edge of the gate's frame. Everything from that point inward into the city is within the boundary.
+
+> **Hebrew/Aramaic:** מִן הָאֲגַף וְלִפְנִים — כְּלִפְנִים, מִן הָאֲגַף וּלְחוּץ — כְּלַחוּץ. הַחַלּוֹנוֹת וְעוֹבִי הַחוֹמָה — כְּלִפְנִים.
+> **Translation:** How does one determine the outer boundaries of a particular location? Anything that is located **from the** inside of the **doorway inward is** considered **as though** it is **inside,** and anything that is located **from the doorway outward is** considered **as though** it is **outside. And the windows** in the wall **and the thickness of the wall are** considered **as though** they are **inside,** such that an offering is considered to have exited the premises only if it is taken outside the wall.
 
 ### Outer Doorjamb
 
@@ -286,25 +268,28 @@ This leads to the *mishnah*'s discussion of precisely where the line falls at th
 
 ### Windows & Walls
 
+
 *Ha-chalonot ve-ovi ha-chomah ke-lifnim* — windows set into the wall and the thickness of the wall itself are considered as inside. If one is situated in a window recess or standing atop the wall within its thickness, that is halachically inside Yerushalayim. There is an internal logic here: as long as one has not passed beyond the wall entirely, one remains within the city. By contrast, when the gate is open and one is standing in the space normally occupied by the door itself, one may already be halachically outside — depending on which side of the inner *agaf* one stands. The same physical thickness of the wall yields different rulings depending on whether one is in a window or in the gate opening, because passing through the gate represents a different kind of spatial crossing than standing in a window.
 
 ---
 
 ## Prayer & Minyan
 
+
+
 ### Rav Yehuda
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר רַב: וְכֵן לִתְפִלָּה. וּפְלִיגָא דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי. דְּאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: אֲפִילּוּ מְחִיצָה שֶׁל בַּרְזֶל אֵינָהּ מַפְסֶקֶת בֵּין יִשְׂרָאֵל לַאֲבִיהֶם שֶׁבַּשָּׁמַיִם.
->
-> **Translation:** GEMARA: **Rav Yehuda said** that **Rav said: And** the *halakha* is **similar with regard to prayer,** in that one who is standing outside the doorway cannot be included together with those praying inside. The Gemara notes that Rav **disagrees with Rabbi Yehoshua ben Levi, as Rabbi Yehoshua ben Levi said: Even a barrier of iron does not separate between the Jewish people and their Father in Heaven.** Barriers are irrelevant with regard to prayer.
-
 Rav Yehuda rules in the name of Rav: *ve-chein li-tefillah* — the same threshold applies for purposes of prayer. If someone is standing beyond the outer *agaf*, on the outside of the doorway, they are considered in a different space from those inside.
+
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר רַב: וְכֵן לִתְפִלָּה. וּפְלִיגָא דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי. דְּאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: אֲפִילּוּ מְחִיצָה שֶׁל בַּרְזֶל אֵינָהּ מַפְסֶקֶת בֵּין יִשְׂרָאֵל לַאֲבִיהֶם שֶׁבַּשָּׁמַיִם.
+> **Translation:** GEMARA: **Rav Yehuda said** that **Rav said: And** the *halakha* is **similar with regard to prayer,** in that one who is standing outside the doorway cannot be included together with those praying inside. The Gemara notes that Rav **disagrees with Rabbi Yehoshua ben Levi, as Rabbi Yehoshua ben Levi said: Even a barrier of iron does not separate between the Jewish people and their Father in Heaven.** Barriers are irrelevant with regard to prayer.
 
 ### Ben Levi
 
 Rabbi Yehoshua ben Levi disagrees. He states: *afilu mechitzah shel barzel einah mafsekes bein Yisrael la-Avihem she-bashamayim* — even an iron wall does not divide between Israel and their Father in heaven. This is a deeply evocative teaching, particularly resonant at this time of year.
 
 ### Minyan Logic
+
 
 The practical ruling that emerges from these two views is as follows. The principle of Rabbi Yehoshua ben Levi — that no wall separates Israel from their Father in heaven — means that if a *minyan* is gathered in one location and someone is outside the building but able to hear the prayers, that person is still part of the *tefillah be-tzibbur*. Once a *tzibbur* is constituted in one space, individuals outside its walls can attach themselves to that *minyan*. The concern raised by Rav Yehuda — that the partition creates a spatial separation — is more acute when there is no *minyan* to begin with, and one needs to count people in different spaces toward the required quorum. Tosafot introduces a third category: whether someone outside the building is *yotzei* with *Kaddish* and *Kedushah* even when a *minyan* is already present. Whether this is truly distinct from the question of *tefillah be-tzibbur* or is essentially the same issue is itself a matter of discussion.
 
@@ -314,23 +299,18 @@ This discussion has practical implications for the status of the *ezrat nashim* 
 
 ## Gate Sanctification
 
+
+
 ### Leper Accommodation
 
-> **Hebrew/Aramaic:** הָא גוּפָא קַשְׁיָא, אָמְרַתְּ: מִן הָאֲגַף וְלִפְנִים — כְּלִפְנִים, הָא אֲגַף עַצְמוֹ — כְּלַחוּץ. אֵימָא סֵיפָא: מִן הָאֲגַף וּלְחוּץ — כְּלַחוּץ. הָא אֲגַף עַצְמוֹ — כְּלִפְנִים!
->
-> **Translation:** The Gemara questions the mishna: **This matter itself is difficult;** the mishna itself contains an internal contradiction. At first **you said** that the space **from the doorway inward is considered as though** it is **inside, which** indicates that the space of the **doorway itself is like the outside.** Now you **say the latter clause** of the mishna's ruling, which states that **from the doorway outward is considered as though** it is **outside, which** indicates that the **doorway itself is considered as though** it is **inside.**
+> **Hebrew/Aramaic:** הָא גוּפָא קַשְׁיָא, אָמְרַתְּ: מִן הָאֲגַף וְלִפְנִים — כְּלִפְנִים, הָא אֲגַף עַצְמוֹ — כְּלַחוּץ. אֵימָא סֵיפָא: מִן הָאֲגַף וּלְחוּץ — כְּלַחוּץ. הָא אֲגַף עַצְמוֹ — כְּלִפְנִים!
+> **Translation:** The Gemara questions the mishna: **This matter itself is difficult;** the mishna itself contains an internal contradiction. At first **you said** that the space **from the doorway inward is considered as though** it is **inside, which** indicates that the space of the **doorway itself is like the outside.** Now you **say the latter clause** of the mishna’s ruling, which states that **from the doorway outward is considered as though** it is **outside, which** indicates that the **doorway itself is considered as though** it is **inside.**
 
-> **Hebrew/Aramaic:** לָא קַשְׁיָא: כָּאן — בְּשַׁעֲרֵי עֲזָרָה, כָּאן — בְּשַׁעֲרֵי יְרוּשָׁלַיִם.
->
-> **Translation:** The Gemara answers: **It is not difficult,** as one can explain that these two statements are referring to different situations: **Here,** in the latter clause of the mishna's ruling, it is referring **to the gates of the** Temple **courtyard,** where the inside of the doorways were considered as though they were inside the courtyard and had the sanctity of the courtyard itself. **There,** in the first clause, it is discussing **the gates of Jerusalem,** where the insides of the gates were considered like the outside and did not have the sanctity of Jerusalem.
+> **Hebrew/Aramaic:** לָא קַשְׁיָא: כָּאן — בְּשַׁעֲרֵי עֲזָרָה, כָּאן — בְּשַׁעֲרֵי יְרוּשָׁלַיִם.
+> **Translation:** The Gemara answers: **It is not difficult,** as one can explain that these two statements are referring to different situations: **Here,** in the latter clause of the mishna’s ruling, it is referring **to the gates of the** Temple **courtyard,** where the inside of the doorways were considered as though they were inside the courtyard and had the sanctity of the courtyard itself. **There,** in the first clause, it is discussing **the gates of Jerusalem,** where the insides of the gates were considered like the outside and did not have the sanctity of Jerusalem.
 
-> **Hebrew/Aramaic:** דְּאָמַר רַבִּי שְׁמוּאֵל בַּר רַב יִצְחָק: מִפְּנֵי מָה לֹא נִתְקַדְּשׁוּ שַׁעֲרֵי יְרוּשָׁלַיִם? מִפְּנֵי שֶׁמְּצוֹרָעִים מְגִינִּים תַּחְתֵּיהֶן, בַּחַמָּה מִפְּנֵי הַחַמָּה, וּבַגְּשָׁמִים מִפְּנֵי הַגְּשָׁמִים.
->
+> **Hebrew/Aramaic:** דְּאָמַר רַבִּי שְׁמוּאֵל בַּר רַב יִצְחָק: מִפְּנֵי מָה לֹא נִתְקַדְּשׁוּ שַׁעֲרֵי יְרוּשָׁלַיִם? מִפְּנֵי שֶׁמְּצוֹרָעִין מְגִינִּין תַּחְתֵּיהֶן, בַּחַמָּה מִפְּנֵי הַחַמָּה, וּבַגְּשָׁמִים מִפְּנֵי הַגְּשָׁמִים.
 > **Translation:** **As Rabbi Shmuel bar Rav Yitzḥak said: For what** reason were the insides of the **gates of Jerusalem not sanctified? Because lepers protect themselves** by sitting **under them; in the sun** they protect themselves **from the sun and in the rain** they sit in the gateway to protect themselves **from the rain.** Lepers are not permitted to enter Jerusalem. In order to allow them to use the gates of the city as shelter from the elements, the gateways were not sanctified.
-
-> **Hebrew/Aramaic:** וְאָמַר רַבִּי שְׁמוּאֵל בַּר רַב יִצְחָק: מִפְּנֵי מָה לֹא נִתְקַדְּשָׁה שַׁעַר נִקָּנוֹר? מִפְּנֵי שֶׁמְּצוֹרָעִים עוֹמְדִין שָׁם וּמַכְנִיסִין בְּהוֹנוֹת יָדָם.
->
-> **Translation:** Similarly, **Rabbi Shmuel bar Rav Yitzḥak said: For what** reason was the inside of the **Gate of Nicanor not sanctified** with the sanctity of the Temple courtyard? It is **because lepers** who had healed and needed to bring their purification offerings would **stand there and insert their thumbs** into the courtyard, so that the blood of the offerings could be sprinkled on them, which would allow them to be purified. These sources indicate that the insides of the other gates of the Temple courtyard were sanctified and that the insides of the gates of Jerusalem were not sanctified.
 
 The Gemara notes an apparent inconsistency between the two parts of the *mishnah*: the first part implies the *agaf* itself is on the outside; the second part implies it is on the inside. The resolution is: *kan be-sha'arei azarah, kan be-sha'arei Yerushalayim* — one ruling applies to the gates of the *azarah*, the other to the gates of Yerushalayim. The reason they differ is provided by Rabbi Shmuel bar Rav Yitzchak: *mipnei mah lo nitkadshu sha'arei Yerushalayim* — why were the gates of Yerushalayim not sanctified? *Mipnei she-metzoraim meginim tachteihem ba-chamah mipnei ha-chamah u-va-geshem mipnei ha-geshem* — because *metzoraim*, who must remain outside the walls of Yerushalayim, would shelter in the gate openings from the sun and the rain.
 

@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav Nachman: Stones",
+    "candidates": [
+      "Rav Nachman: Stones",
+      "Rava's Challenge: Pot",
+      "Ohel vs. Temporary",
+      "Binyan Keva Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the current heading's prose describes: Rav Nachman's ruling on bathroom stones and the objection from the barrel-and-pot mishnah, which is the content of heading 0's prose section.",
+      "chosen_heading": "Rav Nachman: Stones",
+      "current_heading": "Rav Nachman: Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Binyan Keva Principle",
+    "candidates": [
+      "Rava's Challenge: Pot",
+      "Ohel vs. Temporary",
+      "Binyan Keva Principle",
+      "Bonfire: Top vs. Bottom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bench/platform (itztaba) challenge and Rav Ashi's response about binyan keva vs. binyan arai and the kvod habriyot dispensation, which is precisely what the 'Binyan Keva Principle' prose describes.",
+      "chosen_heading": "Binyan Keva Principle",
+      "current_heading": "Binyan Keva Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Bonfire: Top vs. Bottom",
+    "candidates": [
+      "Bonfire: Top vs. Bottom",
+      "Eggs, Beds, Barrels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's ruling about the bonfire (medurta) from above to below vs. below to above, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Bonfire: Top vs. Bottom",
+      "current_heading": "Bonfire: Top vs. Bottom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Eggs, Beds, Barrels",
+    "candidates": [
+      "Eggs, Beds, Barrels",
+      "Tosafot: Walls & Roof",
+      "Stacking Books Limitation",
+      "Lo Nitnu Etzim Principle",
+      "R. Shimon vs. Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the analogous cases of eggs, pots, beds, and barrels \u2014 exactly what the 'Eggs, Beds, Barrels' section prose discusses in detail.",
+      "chosen_heading": "Eggs, Beds, Barrels",
+      "current_heading": "Eggs, Beds, Barrels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "R. Shimon vs. Sages",
+    "candidates": [
+      "Tosafot: Walls & Roof",
+      "Stacking Books Limitation",
+      "Lo Nitnu Etzim Principle",
+      "R. Shimon vs. Sages",
+      "Leading Animals Uvdin",
+      "Bamboo Spit: Dry vs Moist"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lo Nitnu Etzim Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita establishing that wood is only for kindling and Rabbi Shimon's dissent, which is precisely the content the 'Lo Nitnu Etzim Principle' section discusses \u2014 the mishnah's ruling about propping a pot, the principle lo nitnu eitzim ela lehassaka, and Rabbi Shimon's permitting position.",
+      "second_heading": "Leading Animals Uvdin",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about leading an animal with a stick and the uvdin d'chol concern (chinga/market appearance), which matches the 'Leading Animals Uvdin' section's prose exactly, including the discussion of Rabbi Elazar son of Rabbi Shimon and Rashi's gloss on chinga.",
+      "current_heading": "R. Shimon vs. Sages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Bamboo Spit: Dry vs Moist",
+    "candidates": [
+      "Leading Animals Uvdin",
+      "Bamboo Spit: Dry vs Moist",
+      "Broken Pokers & Dry Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the bamboo spit dispute between Rav Nachman and Rav Sheshet, the dry vs. moist distinction, and conclude with 'yavishta shari, rativuta assur' \u2014 exactly what the 'Bamboo Spit: Dry vs Moist' prose section describes.",
+      "chosen_heading": "Bamboo Spit: Dry vs Moist",
+      "current_heading": "Bamboo Spit: Dry vs Moist",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Broken Pokers & Dry Wood",
+    "candidates": [
+      "Broken Pokers & Dry Wood",
+      "Goose Entrails Disposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's two rulings about the woodshed poker and the broken firebrand, which is precisely what the prose under 'Broken Pokers & Dry Wood' discusses in detail.",
+      "chosen_heading": "Broken Pokers & Dry Wood",
+      "current_heading": "Broken Pokers & Dry Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Goose Entrails Disposal",
+    "candidates": [
+      "Goose Entrails Disposal",
+      "Rashi: Muktzah vs Gemara",
+      "Rabbi Eliezer: Twigs",
+      "Sages: House Wood Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rava's entrails-to-the-cat ruling and the gemara's resolution that spoiling innards were mentally prepared from the eve of yom tov, which is exactly what the 'Goose Entrails Disposal' prose describes.",
+      "chosen_heading": "Goose Entrails Disposal",
+      "current_heading": "Goose Entrails Disposal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Sages: House Wood Only",
+    "candidates": [
+      "Rashi: Muktzah vs Gemara",
+      "Rabbi Eliezer: Twigs",
+      "Sages: House Wood Only",
+      "Fire Sources Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage presents both Rabbi Eliezer's view (twigs from before him, courtyard wood) and the Sages' response, but the prose under candidate 1 ('Rabbi Eliezer: Twigs') explicitly introduces and discusses this very mishna, making it the natural home for the full mishna text, while candidate 2's prose discusses only the Sages' position as a follow-up.",
+      "chosen_heading": "Rabbi Eliezer: Twigs",
+      "current_heading": "Sages: House Wood Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Fire Sources Prohibited",
+    "candidates": [
+      "Sages: House Wood Only",
+      "Fire Sources Prohibited",
+      "Animal Food Straw Heter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on producing fire from various sources and whitening tiles, which is precisely what the 'Fire Sources Prohibited' section's prose describes.",
+      "chosen_heading": "Fire Sources Prohibited",
+      "current_heading": "Fire Sources Prohibited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Animal Food Straw Heter",
+    "candidates": [
+      "Animal Food Straw Heter",
+      "Cedar Wood: Smell vs. Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together state Rav Yehuda's ruling that animal fodder is exempt from the prohibition of fashioning a vessel, which is precisely what the 'Animal Food Straw Heter' prose discusses.",
+      "chosen_heading": "Animal Food Straw Heter",
+      "current_heading": "Animal Food Straw Heter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Cedar Wood: Smell vs. Use",
+    "candidates": [
+      "Cedar Wood: Smell vs. Use",
+      "Soft vs Hard Wood Break"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's objection to Rav Yehuda from the baraita, which is precisely what heading 0 ('Cedar Wood: Smell vs. Use') describes in its prose, covering the handling, rubbing, snapping, and toothpick provisions of that baraita and the surface contradiction with Rav Yehuda.",
+      "chosen_heading": "Cedar Wood: Smell vs. Use",
+      "current_heading": "Cedar Wood: Smell vs. Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Soft vs Hard Wood Break",
+    "candidates": [
+      "Soft vs Hard Wood Break",
+      "Breaking Stick: Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the soft vs. hard wood distinction, the chisurei mechsera resolution, the reconciliation of the two beraitot by Rabbi Zeira/Rav Chisda, and Rav Acha bar Yaakov's objection with the barrel-breaking comparison and Rav Yehuda's practice \u2014 are precisely the content described in candidate 0's prose, which covers all these elements in sequence.",
+      "chosen_heading": "Soft vs Hard Wood Break",
+      "current_heading": "Soft vs Hard Wood Break",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Breaking Stick: Biblical",
+    "candidates": [
+      "Breaking Stick: Biblical",
+      "Mostaki & Disposable Pack"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita and its resolution distinguishing Rabbi Eliezer from the Rabbis on snapping a toothpick, which is precisely what the 'Breaking Stick: Biblical' prose describes as the gemara's resolution mapping the two positions onto the earlier tension.",
+      "chosen_heading": "Breaking Stick: Biblical",
+      "current_heading": "Breaking Stick: Biblical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Mostaki & Disposable Pack",
+    "candidates": [
+      "Mostaki & Disposable Pack",
+      "Wood Piles Debate",
+      "Tomorrow vs. Present Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ashi's answer that the mishnah's lenient ruling applies to a mustaki (patched vessel), which is precisely what the prose in candidate 0 discusses in detail.",
+      "chosen_heading": "Mostaki & Disposable Pack",
+      "current_heading": "Mostaki & Disposable Pack",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Tomorrow vs. Present Need",
+    "candidates": [
+      "Wood Piles Debate",
+      "Tomorrow vs. Present Need",
+      "Molid Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the rule about gathering from the courtyard and the pile-making dispute with Rabbi Shimon, which is precisely what heading 0 ('Wood Piles Debate') discusses, while heading 1 covers only the gemara's explanation of the underlying dispute about appearances \u2014 meaning the passage spans both sections but its primary content (the baraita itself) belongs under heading 0, with the disputational reasoning belonging under heading 1; however, since the passage is a single unit containing both the baraita and the gemara's explanation, and heading 0's prose explicitly covers the full baraita including Rabbi Shimon's permit, it is the better single home for this combined passage.",
+      "chosen_heading": "Wood Piles Debate",
+      "current_heading": "Tomorrow vs. Present Need",
+      "moved": true
+    }
+  }
+]

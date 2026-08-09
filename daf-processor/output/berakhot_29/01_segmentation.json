@@ -169,8 +169,8 @@
           "timestamp": "26:54"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Yaaleh V'Yavo on Rosh Chodesh: When to Return to Refeit",
@@ -391,5 +391,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 27
+  "amud_b_sefaria_index": 27,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "26:11",
+  "amud_b_micro_title": "Mistake vs Intention",
+  "shiur_start_daf": 29,
+  "shiur_start_amud": "a"
 }

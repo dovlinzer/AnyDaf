@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Meir",
+      "Rabbi Yehuda",
+      "Rabbi Shimon",
+      "Zevid Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yehuda's and Rabbi Shimon's opinions together along with the gemara's question 'mai beinayhu,' which corresponds precisely to the 'Rabbi Yehuda' section's prose that discusses both positions together and explicitly mentions the mai beinayhu question.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Zevid Interpretation",
+    "candidates": [
+      "Rabbi Shimon",
+      "Zevid Interpretation",
+      "Rav Pappa Version",
+      "Tosafot Explanation",
+      "Purpose & Incentive",
+      "Portion Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Zevid's statement that the dispute concerns enhancement still upon the stolen item, with Rabbi Yehuda holding it belongs to the nigzal and Rabbi Shimon holding it belongs to the gazlan \u2014 exactly what the 'Zevid Interpretation' prose section discusses.",
+      "chosen_heading": "Zevid Interpretation",
+      "current_heading": "Zevid Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Portion Amount",
+    "candidates": [
+      "Rav Pappa Version",
+      "Tosafot Explanation",
+      "Purpose & Incentive",
+      "Portion Amount",
+      "Bechor Case",
+      "Creditor Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items directly concern Rav Pappa's position on the dispute between Rabbi Yehuda and Rabbi Shimon regarding the portion of shevach the gazlan retains, along with the baraita confirming Rav Pappa's reading and Rav Ashi's question about monetary vs. physical settlement \u2014 all of which are explicitly discussed in the 'Portion Amount' section's prose.",
+      "chosen_heading": "Portion Amount",
+      "current_heading": "Portion Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Creditor Case",
+    "candidates": [
+      "Bechor Case",
+      "Creditor Case",
+      "Orphans Case",
+      "Reimburse Purchaser",
+      "Creditor Collects",
+      "Ready vs. Natural Growth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full enumeration of Shmuel's three cases (bechor, creditor-purchaser, creditor-orphans), and this passage is the source text being introduced and discussed under the 'Bechor Case' heading, which opens by presenting all three cases before focusing on the first.",
+      "chosen_heading": "Bechor Case",
+      "current_heading": "Creditor Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Ready vs. Natural Growth",
+    "candidates": [
+      "Orphans Case",
+      "Reimburse Purchaser",
+      "Creditor Collects",
+      "Ready vs. Natural Growth",
+      "Tosafot Alternative",
+      "Loan Less Than Value",
+      "Loan Exceeds Value",
+      "Purchaser Forces Payment",
+      "Purchaser Cannot Force"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialogue resolving the contradiction between Shmuel's two statements via the shevach ha-magiya li-ktefayim distinction, then raising and beginning to address the further complication about Shmuel's actual practice \u2014 exactly what candidate 3's prose describes.",
+      "chosen_heading": "Ready vs. Natural Growth",
+      "current_heading": "Ready vs. Natural Growth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Purchaser Cannot Force",
+    "candidates": [
+      "Tosafot Alternative",
+      "Loan Less Than Value",
+      "Loan Exceeds Value",
+      "Purchaser Forces Payment",
+      "Purchaser Cannot Force",
+      "Apotiki Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Ravina's challenge specifically about the view that the purchaser CAN force the creditor to accept payment, and argues the purchaser should then be able to demand a plot of land equal to his improvement \u2014 which is precisely what the 'Purchaser Forces Payment' prose describes.",
+      "chosen_heading": "Purchaser Forces Payment",
+      "current_heading": "Purchaser Cannot Force",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Apotiki Exception",
+    "candidates": [
+      "Purchaser Cannot Force",
+      "Apotiki Exception",
+      "Rights Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the apotiki designation ('l\u05d0 \u05d9\u05d4\u05d0 \u05dc\u05da \u05e4\u05e8\u05e2\u05d5\u05df \u05d0\u05dc\u05d0 \u05de\u05d6\u05d4') which is precisely the mechanism discussed in the 'Apotiki Exception' prose section.",
+      "chosen_heading": "Apotiki Exception",
+      "current_heading": "Apotiki Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rights Transfer",
+    "candidates": [
+      "Rights Transfer",
+      "Non-Jewish Purchaser",
+      "Complex Chain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rights Transfer",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover Rava's ruling on the gazlan who enhanced and sold/bequeathed, and his dilemma/resolution about a purchaser who enhanced \u2014 both discussed in the 'Rights Transfer' prose.",
+      "second_heading": "Non-Jewish Purchaser",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rava's dilemma about a gentile who enhanced the stolen item, which matches exactly the 'Non-Jewish Purchaser' prose discussing takanta le-ovdei kochavim and Rav Acha of Difti's challenge.",
+      "current_heading": "Rights Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Complex Chain",
+    "candidates": [
+      "Non-Jewish Purchaser",
+      "Complex Chain",
+      "Chopped Palm Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the 'teku' question about a Jewish gazlan selling to a gentile who improves and resells to a Jew \u2014 the complex chain scenario described in candidate 1's prose.",
+      "chosen_heading": "Complex Chain",
+      "current_heading": "Complex Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Chopped Palm Tree",
+    "candidates": [
+      "Chopped Palm Tree",
+      "Palm Logs",
+      "Logs to Beams",
+      "Beam to Smaller Beam",
+      "Beams to Planks",
+      "Lulab to Broom",
+      "Broom to Chufya",
+      "Reversible Rope"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chopped Palm Tree",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the 'chopped palm tree' (lo kani) and the 'palm logs' (lo kani) cases, matching exactly the prose of candidate 0 which discusses both sub-cases together as part of Rav Pappa's opening analysis.",
+      "second_heading": "Logs to Beams",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the logs-to-beams (kani), large-to-small-beams (lo kani), and beams-to-planks (kani) cases, which correspond precisely to candidates 2, 3, and 4 \u2014 but since all three transformations appear in one continuous Gemara passage, the best single heading is candidate 2 ('Logs to Beams') where this chain of rulings begins.",
+      "current_heading": "Chopped Palm Tree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Reversible Rope",
+    "candidates": [
+      "Palm Logs",
+      "Logs to Beams",
+      "Beam to Smaller Beam",
+      "Beams to Planks",
+      "Lulab to Broom",
+      "Broom to Chufya",
+      "Reversible Rope",
+      "Dust Reversible",
+      "Brick Irreversible",
+      "Metal Reversible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items belong together: item 1 is Rava's lulav/broom/rope series (including the reversible rope case), and items 2-4 are Rav Pappa's dilemma about the tiyomet \u2014 all of which are explicitly described in the 'Reversible Rope' section's prose.",
+      "chosen_heading": "Reversible Rope",
+      "current_heading": "Reversible Rope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Metal Reversible",
+    "candidates": [
+      "Dust Reversible",
+      "Brick Irreversible",
+      "Metal Reversible",
+      "Coin Irreversible",
+      "Polished Reversible"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dust Reversible",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the earth\u2192brick (reversible, lo kani) and brick\u2192earth (irreversible, kani) cases, which map precisely to the prose of headings 0 and 1, but as a single Rav Pappa statement it belongs under heading 0 ('Dust Reversible') which introduces the paired brick/earth examples.",
+      "second_heading": "Metal Reversible",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Pappa's separate, parallel ruling about the naskha/coins cases, which is exactly what heading 2 ('Metal Reversible') describes in its prose.",
+      "current_heading": "Metal Reversible",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Polished Reversible",
+    "candidates": [
+      "Coin Irreversible",
+      "Polished Reversible",
+      "Blackened Irreversible",
+      "Universal Rule",
+      "Natural Development"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both cases (blackened\u2192polished = lo kani, and new\u2192blackened = kani) together, and the current heading 'Polished Reversible' with its prose about shichimei ve-avdinhu charatei lo kani is the best match since it introduces both coin-state transformations in sequence, matching the passage's content exactly.",
+      "chosen_heading": "Polished Reversible",
+      "current_heading": "Polished Reversible",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Natural Development",
+    "candidates": [
+      "Blackened Irreversible",
+      "Universal Rule",
+      "Natural Development",
+      "Return Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna's 'This is the principle: All robbers pay according to the time of the robbery' and the Gemara's discussion of what the phrase adds, which directly corresponds to the 'Universal Rule' section's prose about 'zeh ha-klal kol ha-gazlanin meshalmin ke-sha'at ha-gezeilah', whereas the current 'Natural Development' heading already covers the Rabbi Ela content in its own prose.",
+      "chosen_heading": "Universal Rule",
+      "current_heading": "Natural Development",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Return Claim",
+    "candidates": [
+      "Natural Development",
+      "Return Claim",
+      "Rav Nachman Ruling",
+      "Partial Responsibility",
+      "Half Payment",
+      "Original Form Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the robbery victim coming before Rav Na\u1e25man and Rav Na\u1e25man's initial instruction to estimate the enhancement, which corresponds to the 'Return Claim' section's prose about the scenario and the claim, not yet the full ruling discussion in 'Rav Nachman Ruling'.",
+      "chosen_heading": "Return Claim",
+      "current_heading": "Return Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Original Form Argument",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Partial Responsibility",
+      "Half Payment",
+      "Original Form Argument",
+      "Judicial Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rava's challenge about the oxen vs. land contribution, Rav Nachman's 'only half' clarification, and Rava's 'gezeilah returned as-is' objection \u2014 spanning candidates 1-3, but since it is a single continuous exchange, it belongs under the first heading where Rava's challenge begins, which is 'Partial Responsibility' (index 1), as that prose introduces Rava's challenges and the full Gemara excerpt naturally starts there.",
+      "chosen_heading": "Partial Responsibility",
+      "current_heading": "Original Form Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Judicial Authority",
+    "candidates": [
+      "Original Form Argument",
+      "Judicial Authority",
+      "Deterrent Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Nachman's assertion of judicial authority (the 'don't second-guess me' statement and the Shapur/Shmuel comparison) and the deterrent punishment rationale, but the current placement under 'Judicial Authority' is correct since that heading's prose explicitly discusses both elements of this passage \u2014 the rebuke of Rava and the invocation of Rav Nachman's authority \u2014 while 'Deterrent Punishment' is a separate subsequent section covering the second half of the same statement.",
+      "chosen_heading": "Judicial Authority",
+      "current_heading": "Judicial Authority",
+      "moved": false
+    }
+  }
+]

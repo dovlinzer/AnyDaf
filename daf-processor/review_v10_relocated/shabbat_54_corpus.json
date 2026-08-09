@@ -1,0 +1,689 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Story Setup",
+    "candidates": [
+      "Story Setup",
+      "Rav Yosef's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself describing the story setup (the man whose wife died, the nursing son, and the miracle of developing breasts), which is exactly what the 'Story Setup' prose discusses, before Rav Yosef's evaluative comment in the next section.",
+      "chosen_heading": "Story Setup",
+      "current_heading": "Story Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav Yosef's View",
+    "candidates": [
+      "Rav Yosef's View",
+      "Abaye's Counter",
+      "Theology Debate",
+      "Earning Livelihood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's statement and Abaye's reply in a single Talmudic exchange, and it currently sits under 'Rav Yosef's View' whose prose already anticipates both voices; the passage as a unit belongs under the heading that introduces the exchange, which is heading 0.",
+      "chosen_heading": "Rav Yosef's View",
+      "current_heading": "Rav Yosef's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Earning Livelihood",
+    "candidates": [
+      "Abaye's Counter",
+      "Theology Debate",
+      "Earning Livelihood",
+      "Rav Nachman's Point",
+      "Scientific Evidence",
+      "Narrative Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's statement about the difficulty of sustenance and Rav Nachman's corroborating point, and the current heading 'Earning Livelihood' with its prose directly addresses both of these statements together, making it the best fit.",
+      "chosen_heading": "Earning Livelihood",
+      "current_heading": "Earning Livelihood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Narrative Setup",
+    "candidates": [
+      "Rav Nachman's Point",
+      "Scientific Evidence",
+      "Narrative Setup",
+      "Woman's Modesty",
+      "Husband's Modesty",
+      "Marital Context",
+      "Functional Achievement",
+      "Rams & Levuvin",
+      "Levuvin Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage recounts the full story of the one-armed woman, which is exactly what the 'Narrative Setup' section introduces with its prose describing 'a certain man married a woman who was missing an arm.'",
+      "chosen_heading": "Narrative Setup",
+      "current_heading": "Narrative Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Levuvin Definition",
+    "candidates": [
+      "Woman's Modesty",
+      "Husband's Modesty",
+      "Marital Context",
+      "Functional Achievement",
+      "Rams & Levuvin",
+      "Levuvin Definition",
+      "Wolf Protection",
+      "Why Rams Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage defines 'levuvin' as 'tutri' (tied pairs) and provides the etymological proof from Song of Songs, which is precisely what the 'Levuvin Definition' section's prose describes.",
+      "chosen_heading": "Levuvin Definition",
+      "current_heading": "Levuvin Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Why Rams Only",
+    "candidates": [
+      "Wolf Protection",
+      "Why Rams Only",
+      "Copulation Control",
+      "Shchuzot Definition"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shchuzot Definition",
+    "candidates": [
+      "Copulation Control",
+      "Shchuzot Definition",
+      "Shchuzot Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Na\u1e25man bar Yitz\u1e25ak's interpretation of *levuvin* as a hide tied under the males' genitals to prevent mounting, and then uses the *she\u1e25uzot* clause as supporting evidence \u2014 this is precisely what the 'Copulation Control' section's prose describes, whereas 'Shchuzot Definition' treats the *she\u1e25uzot* term as the primary topic rather than as supporting proof for the *levuvin* interpretation.",
+      "chosen_heading": "Copulation Control",
+      "current_heading": "Shchuzot Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Shchuzot Etymology",
+    "candidates": [
+      "Shchuzot Definition",
+      "Shchuzot Etymology",
+      "Kevulot Definition",
+      "Kevulot Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question and answer about the etymology of 'shechuzot' as a term of exposure, which is exactly what the 'Shchuzot Etymology' section's prose describes.",
+      "chosen_heading": "Shchuzot Etymology",
+      "current_heading": "Shchuzot Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Kevulot Etymology",
+    "candidates": [
+      "Kevulot Definition",
+      "Kevulot Etymology",
+      "Conceptual Analysis",
+      "Kvunot Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's etymological exploration of 'kavul' via the Hiram/Solomon story, which is precisely what the 'Kevulot Etymology' prose describes in detail, including Rav Huna's explanation, Rava's objection, and Rav Nachman bar Yitzchak's alternative derivation.",
+      "chosen_heading": "Kevulot Etymology",
+      "current_heading": "Kevulot Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Kvunot Definition",
+    "candidates": [
+      "Conceptual Analysis",
+      "Kvunot Definition",
+      "Goat Binding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly defines 'kevunot' and connects it to the white wool appearance in tzara'at, which is precisely what the 'Kvunot Definition' section's prose discusses.",
+      "chosen_heading": "Kvunot Definition",
+      "current_heading": "Kvunot Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Goat Binding",
+    "candidates": [
+      "Goat Binding",
+      "Dry vs. Catch",
+      "Rav's Ruling",
+      "Shmuel's Ruling",
+      "Baraita Problem",
+      "Ben Beseira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the amoraic dispute where Rav rules like Rabbi Yehuda and Shmuel rules like Rabbi Yosei, which directly corresponds to the 'Rav's Ruling' section \u2014 though it also introduces Shmuel's position, the gemara text as a unit introducing both rulings fits best under the heading that opens the discussion of these rulings, and 'Rav's Ruling' is where this stated dispute begins.",
+      "chosen_heading": "Rav's Ruling",
+      "current_heading": "Goat Binding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Ben Beseira",
+    "candidates": [
+      "Dry vs. Catch",
+      "Rav's Ruling",
+      "Shmuel's Ruling",
+      "Baraita Problem",
+      "Ben Beseira",
+      "Final Ruling",
+      "Metulteles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the 'independent' and baraita versions of the Rav/Shmuel dispute over le-yavesh vs. le-chalav, which is precisely what the 'Baraita Problem' prose (candidate 3) introduces \u2014 the baraita reflecting Rabbi Yehudah's distinction and then Ben Beseira's practical qualification leading to a blanket prohibition, all of which belongs together under that heading rather than being split across candidates 3 and 4.",
+      "chosen_heading": "Baraita Problem",
+      "current_heading": "Ben Beseira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Metulteles",
+    "candidates": [
+      "Final Ruling",
+      "Metulteles",
+      "Double-Bound OK",
+      "Placenta Binding",
+      "Akud",
+      "Ragul",
+      "Textual Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The 'Metulteles' heading prose explicitly covers all four items \u2014 the mishna's prohibitions (metulteles, akud/ragul, camel-tying) and notes that the gemara will develop them further, making it the best single home for this continuous passage.",
+      "chosen_heading": "Metulteles",
+      "current_heading": "Metulteles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Textual Fix",
+    "candidates": [
+      "Double-Bound OK",
+      "Placenta Binding",
+      "Akud",
+      "Ragul",
+      "Textual Fix",
+      "Permitted vs. Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage raises a challenge from a baraita defining akud as two-forelegs-and-two-hindlegs and resolves it by identifying the tanna whose position Rav Yehudah follows, which is precisely what the 'Textual Fix' prose describes.",
+      "chosen_heading": "Textual Fix",
+      "current_heading": "Textual Fix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Permitted vs. Forbidden",
+    "candidates": [
+      "Permitted vs. Forbidden",
+      "Mishnah Rules",
+      "Market Appearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the Gemara's technical discussion of what precisely constitutes 'akud' and 'ragul' \u2014 resolving the tension between Rav Yehuda and the baraita by identifying which tanna Rav Yehuda follows \u2014 which fits squarely under the 'Permitted vs. Forbidden' section's detailed analysis of what distinguishes forbidden binding configurations.",
+      "chosen_heading": "Permitted vs. Forbidden",
+      "current_heading": "Permitted vs. Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Market Appearance",
+    "candidates": [
+      "Mishnah Rules",
+      "Market Appearance",
+      "Shatnez Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly gives Rav Ashi's reason that tying camels looks like going to the market (\u1e25inga), which is exactly what the 'Market Appearance' section's prose discusses.",
+      "chosen_heading": "Market Appearance",
+      "current_heading": "Market Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Shatnez Problem",
+    "candidates": [
+      "Shatnez Problem",
+      "Baraita Objection",
+      "Resolution",
+      "Camel Walking",
+      "Rope Distance",
+      "Tefach Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous chain: Rav Ashi raises the kilayim de-chavalim explanation (item 1), the baraita objection is raised (item 2), and the gemara resolves it by specifying wrapping-and-tying (item 3) \u2014 this entire sequence belongs under 'Shatnez Problem' which is where it currently sits, as it introduces and develops the kilayim de-chavalim concern that the subsequent headings ('Baraita Objection' and 'Resolution') then treat as already introduced.",
+      "chosen_heading": "Shatnez Problem",
+      "current_heading": "Shatnez Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Tefach Dispute",
+    "candidates": [
+      "Baraita Objection",
+      "Resolution",
+      "Camel Walking",
+      "Rope Distance",
+      "Tefach Dispute",
+      "Donkey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items discuss the tefach/tefachayim dispute between Shmuel and the school of Shmuel, Abaye's resolution, and the related rope-height-from-ground rule \u2014 exactly what candidate 4 ('Tefach Dispute') describes in its prose.",
+      "chosen_heading": "Tefach Dispute",
+      "current_heading": "Tefach Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Donkey",
+    "candidates": [
+      "Donkey",
+      "Bell Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are consecutive clauses of the same Mishna listing prohibited animal accessories on Shabbat, and candidate 0's prose directly paraphrases each of the donkey-related prohibitions found in item 1, while items 2 and 3 continue the same Mishna's list \u2014 the current placement under 'Donkey' is the correct home for this entire Mishna passage.",
+      "chosen_heading": "Donkey",
+      "current_heading": "Donkey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Bell Reason",
+    "candidates": [
+      "Bell Reason",
+      "Ladder Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the donkey's bell prohibition \u2014 item 1 gives the general 'as we stated' reason for items in the mishnah, and item 2 explicitly explains the bell ruling with the market-appearance rationale, which is precisely what the 'Bell Reason' prose discusses.",
+      "chosen_heading": "Bell Reason",
+      "current_heading": "Bell Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Ladder Purpose",
+    "candidates": [
+      "Ladder Purpose",
+      "Leg Strap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ladder-like device (sulum shebetzavaro) and Rav Huna's explanation of its purpose for wounds, which matches exactly the 'Ladder Purpose' section's prose.",
+      "chosen_heading": "Ladder Purpose",
+      "current_heading": "Ladder Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Leg Strap",
+    "candidates": [
+      "Leg Strap",
+      "Chickens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a strap on a donkey's leg used to correct a gait/stride problem, which matches exactly the 'Leg Strap' section's prose about correcting knock-knees in a donkey, not the 'Chickens' section which discusses straps on chickens for property protection.",
+      "chosen_heading": "Leg Strap",
+      "current_heading": "Leg Strap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Chickens",
+    "candidates": [
+      "Chickens",
+      "Rams"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses roosters and identifying strings, which matches exactly the 'Chickens' section prose that discusses the same topic.",
+      "chosen_heading": "Chickens",
+      "current_heading": "Chickens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Rams",
+    "candidates": [
+      "Rams",
+      "Sheep",
+      "Chanunot Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both roosters with straps and rams with wagons under their tails, and the rams portion directly matches the 'Rams' section prose which discusses the same wagon-under-the-tail prohibition and its protective purpose.",
+      "chosen_heading": "Rams",
+      "current_heading": "Rams",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159
+    ],
+    "current_heading": "Chanunot Options",
+    "candidates": [
+      "Sheep",
+      "Chanunot Options",
+      "Chanun Tree",
+      "Female Only",
+      "Compassion View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the competing definitions of *chanunot* (Rav Acha bar Ulla's shearing explanation rejected by Rav \u1e24isda, and Rav Pappa bar Shmuel's birthing explanation rejected by Rav Na\u1e25man), which is precisely what the 'Chanunot Options' prose describes.",
+      "chosen_heading": "Chanunot Options",
+      "current_heading": "Chanunot Options",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168
+    ],
+    "current_heading": "Compassion View",
+    "candidates": [
+      "Chanun Tree",
+      "Female Only",
+      "Compassion View",
+      "Calf",
+      "Gimon Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete discussion of Rav Huna's chanun tree explanation, Shimon the Nazirite's broom tree alternative, and the terminological resolution via 'compassion' \u2014 exactly what candidate 2 ('Compassion View') describes in its prose.",
+      "chosen_heading": "Compassion View",
+      "current_heading": "Compassion View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Gimon Etymology",
+    "candidates": [
+      "Calf",
+      "Gimon Etymology",
+      "Cow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Huna's explanation of 'gimon' as a small training yoke (bar nira) AND Rabbi Elazar's etymological derivation, and the 'Calf' section prose explicitly discusses Rav Huna's bar nira explanation, making it the better unified home for the entire passage rather than splitting it across two headings.",
+      "chosen_heading": "Calf",
+      "current_heading": "Gimon Etymology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      176
+    ],
+    "current_heading": "Cow",
+    "candidates": [
+      "Gimon Etymology",
+      "Cow",
+      "Strap Between"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the cow going out with hedgehog skin on its udder to prevent animals from suckling, which matches exactly the prose under 'Cow' that explains this same topic.",
+      "chosen_heading": "Cow",
+      "current_heading": "Cow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179
+    ],
+    "current_heading": "Strap Between",
+    "candidates": [
+      "Strap Between",
+      "Neighbor's Cow",
+      "Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the strap between the horns and the Rav/Shmuel dispute about ornament vs. protection, which matches exactly what the 'Strap Between' section's prose describes.",
+      "chosen_heading": "Strap Between",
+      "current_heading": "Strap Between",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      185
+    ],
+    "current_heading": "Attribution",
+    "candidates": [
+      "Neighbor's Cow",
+      "Attribution",
+      "Neighbor's Ownership",
+      "Protest Duty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'did he have only one cow?' and cites Rav's statement about 12,000 calves, which matches exactly the prose of candidate 1 ('Attribution') discussing the gemara's challenge about Rabbi Elazar ben Azarya's wealth.",
+      "chosen_heading": "Attribution",
+      "current_heading": "Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      190
+    ],
+    "current_heading": "Protest Duty",
+    "candidates": [
+      "Neighbor's Ownership",
+      "Protest Duty",
+      "Household"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's primary content establishes that the cow belonged to the neighbor, which matches heading 0's prose about 'lo shelo hayeta' and 'ella she'shchenato hayeta'; the failure-to-protest consequence is secondary and flows from that ownership fact, while heading 1 focuses on the protest duty principle more broadly.",
+      "chosen_heading": "Neighbor's Ownership",
+      "current_heading": "Protest Duty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      193
+    ],
+    "current_heading": "Household",
+    "candidates": [
+      "Protest Duty",
+      "Household",
+      "Scope Expansion",
+      "Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the teaching by Rav, Rabbi \u1e24anina, Rabbi Yo\u1e25anan, and Rav \u1e24aviva about accountability for household members, city, and world \u2014 is directly described in the 'Household' section's prose, which explicitly summarizes this same passage including the parenthetical about Rabbi Yonatan.",
+      "chosen_heading": "Household",
+      "current_heading": "Household",
+      "moved": false
+    }
+  }
+]

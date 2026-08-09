@@ -1,0 +1,533 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Kariv vs. Rachok",
+    "candidates": [
+      "Moneh Imahem",
+      "Kariv vs. Rachok",
+      "Gadol Habayis Role",
+      "Gadol at Burial"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kariv vs. Rachok",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita itself distinguishing kariv/rachok and the first-three-days rule, which matches heading 1 ('Kariv vs. Rachok') whose prose explicitly describes this very baraita and its distinction.",
+      "second_heading": "Gadol Habayis Role",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rabbi Chiyya bar Abba citing Rabbi Yochanan's qualification about the gadol habayis being present, which is precisely what heading 2 ('Gadol Habayis Role') discusses in its prose.",
+      "current_heading": "Kariv vs. Rachok",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Gadol at Burial",
+    "candidates": [
+      "Gadol Habayis Role",
+      "Gadol at Burial",
+      "Resolution: Three Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the dilemma about the gadol habayis going to the cemetery, which is precisely what candidate 1 ('Gadol at Burial') discusses in its prose.",
+      "chosen_heading": "Gadol at Burial",
+      "current_heading": "Gadol at Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Resolution: Three Days",
+    "candidates": [
+      "Resolution: Three Days",
+      "Rav's Ruling",
+      "Departure Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact tension and resolution described in candidate 0's prose \u2014 the Rabbi \u1e24iyya bar Abba citation, the conflicting baraita, and the three-day distinction including Rav's ruling to the people of Hatzleponi \u2014 all of which are explicitly covered in that section's prose.",
+      "chosen_heading": "Resolution: Three Days",
+      "current_heading": "Resolution: Three Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Departure Point",
+    "candidates": [
+      "Rav's Ruling",
+      "Departure Point",
+      "Aninus vs. Aveilus",
+      "Yom Hashevi'i",
+      "Menachamim Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling to the people of Me\u1e25oza about when those who do not follow the coffin begin counting mourning, which is precisely what the 'Departure Point' section's prose discusses.",
+      "chosen_heading": "Departure Point",
+      "current_heading": "Departure Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Menachamim Present",
+    "candidates": [
+      "Aninus vs. Aveilus",
+      "Yom Hashevi'i",
+      "Menachamim Present",
+      "Ninnaru Laamod"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Shimon's ruling (covered in candidate 1's prose) and Rabbi Chiyya bar Gamda's qualification about menachamim being present (covered in candidate 2's prose), but since the current placement is candidate 2 and that prose directly discusses this exact qualification about comforters still being present, the current placement is correct.",
+      "chosen_heading": "Menachamim Present",
+      "current_heading": "Menachamim Present",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ninnaru Laamod",
+    "candidates": [
+      "Ninnaru Laamod",
+      "Transmission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Anan's unresolved question about consolers who stirred to stand but did not yet stand, which matches exactly the prose under heading 0 ('Ninnaru Laamod').",
+      "chosen_heading": "Ninnaru Laamod",
+      "current_heading": "Ninnaru Laamod",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Transmission",
+    "candidates": [
+      "Transmission",
+      "Verification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together convey exactly the transmission chain and the dual ruling (Rabbi Shimon in mourning, Rabban Shimon ben Gamliel in treifos) that candidate 0's prose describes in detail, making the current placement correct.",
+      "chosen_heading": "Transmission",
+      "current_heading": "Transmission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Verification",
+    "candidates": [
+      "Verification",
+      "Halacha Ki-Meikel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the anonymous scholar's desire to verify the teaching and his subsequent journey to find Rabbi Abba, who corrected the transmission \u2014 exactly what the 'Verification' prose describes.",
+      "chosen_heading": "Verification",
+      "current_heading": "Verification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Halacha Ki-Meikel",
+    "candidates": [
+      "Halacha Ki-Meikel",
+      "Rav Chisda vs. Nachman",
+      "Speed of Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute over whether halacha follows Rabbi Shimon in aveilus and the Gemara's conclusion invoking Shmuel's principle of halacha k'divrei hameikel ba'avel, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Halacha Ki-Meikel",
+      "current_heading": "Halacha Ki-Meikel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Speed of Burial",
+    "candidates": [
+      "Rav Chisda vs. Nachman",
+      "Speed of Burial",
+      "Business Dealings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly discusses the speed of burial (mezachach mittato) for all deceased versus one's parents, including the erev Shabbat exception, which is precisely what the 'Speed of Burial' section's prose describes.",
+      "chosen_heading": "Speed of Burial",
+      "current_heading": "Speed of Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Business Dealings",
+    "candidates": [
+      "Business Dealings",
+      "Chalitza",
+      "Gadol Habayis Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Business Dealings",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss reducing business dealings (isko) for all deceased versus father/mother, which is exactly what the 'Business Dealings' prose describes.",
+      "second_heading": "Chalitza",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses chalitza (uncovering the shoulder) for all deceased versus father/mother, which is precisely what the 'Chalitza' prose describes.",
+      "current_heading": "Business Dealings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Gadol Habayis Story",
+    "candidates": [
+      "Chalitza",
+      "Gadol Habayis Story",
+      "Haircut Timing",
+      "Simcha Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about the gadol hador chalitza story \u2014 the incident, Abaye's identification of the figures, and the Gemara's analysis of which version is coherent \u2014 exactly matching the 'Gadol Habayis Story' prose where the current placement sits.",
+      "chosen_heading": "Gadol Habayis Story",
+      "current_heading": "Gadol Habayis Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Simcha Timing",
+    "candidates": [
+      "Haircut Timing",
+      "Simcha Timing",
+      "Merayot Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both haircut timing and simcha timing rules, but the haircut section (candidate 0) introduces both rules together in the baraita continuation, and the essay's 'Haircut Timing' prose already discusses the full baraita context including the appearance-based criterion \u2014 the passage belongs under candidate 0 as it introduces both rulings as a unit from the same baraita, with the simcha rule following immediately after.",
+      "chosen_heading": "Haircut Timing",
+      "current_heading": "Simcha Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Merayot Definition",
+    "candidates": [
+      "Simcha Timing",
+      "Merayot Definition",
+      "Equal Duration",
+      "Arisusa vs. Puranusa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabba bar bar \u1e24ana's distinction that the thirty-day ruling applies to simchas mere'ut (social gatherings) rather than major celebrations, followed by the baraita objection and the kasha conclusion \u2014 exactly matching the 'Merayot Definition' prose which describes this very teaching and its challenge.",
+      "chosen_heading": "Merayot Definition",
+      "current_heading": "Merayot Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Arisusa vs. Puranusa",
+    "candidates": [
+      "Equal Duration",
+      "Arisusa vs. Puranusa",
+      "Practical Synthesis",
+      "Tear Extent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ameimar's transmission of Rabba bar bar \u1e24ana's ruling that simchas mere'us is permitted immediately, and the baraita challenge equating both categories at thirty days \u2014 are precisely what candidate 0 ('Equal Duration') describes in its prose, including the flagging of the contradiction as 'kasha' and the note that the Gemara will resolve it; candidate 1 ('Arisusa vs. Puranusa') describes the resolution, but items 1 and 2 together form the challenge-and-resolution unit that the prose of candidate 0 sets up and candidate 0 explicitly says the Gemara 'will resolve immediately,' making candidate 0 the better home for the whole unit.",
+      "chosen_heading": "Equal Duration",
+      "current_heading": "Arisusa vs. Puranusa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Tear Extent",
+    "candidates": [
+      "Practical Synthesis",
+      "Tear Extent",
+      "Multiple Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tefach measurement for all deceased versus full heart-exposure for parents, with Rabbi Abbahu's scriptural derivation from David's grasping \u2014 precisely the content described in the 'Tear Extent' prose.",
+      "chosen_heading": "Tear Extent",
+      "current_heading": "Tear Extent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Multiple Garments",
+    "candidates": [
+      "Multiple Garments",
+      "Mavdil Definition",
+      "Yehuda's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Multiple Garments",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover tearing multiple garments and the man/woman distinction, which are explicitly discussed in the 'Multiple Garments' prose.",
+      "second_heading": "Mavdil Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the mavdil (hem-ripping) distinction between parents and other relatives, which is precisely what the 'Mavdil Definition' prose describes.",
+      "current_heading": "Multiple Garments",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Yehuda's Position",
+    "candidates": [
+      "Mavdil Definition",
+      "Yehuda's Position",
+      "Repair Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's position on frivolous tearing and Rabbi Abbahu's scriptural reasoning, which is precisely what the 'Yehuda's Position' prose describes.",
+      "chosen_heading": "Yehuda's Position",
+      "current_heading": "Yehuda's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Repair Timeline",
+    "candidates": [
+      "Repair Timeline",
+      "Women's Keriah",
+      "Hand Tearing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full repair timeline for all relatives versus parents (sholel/me'acheh after 7/30 days), which matches the 'Repair Timeline' section's prose exactly, and the woman's exception is a subordinate clause within the same baraita rather than a standalone topic.",
+      "chosen_heading": "Repair Timeline",
+      "current_heading": "Repair Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Hand Tearing",
+    "candidates": [
+      "Women's Keriah",
+      "Hand Tearing",
+      "Mipnim vs. Mibachutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the hand vs. instrument distinction for keriah, which is exactly what the 'Hand Tearing' section's prose describes.",
+      "chosen_heading": "Hand Tearing",
+      "current_heading": "Hand Tearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Mipnim vs. Mibachutz",
+    "candidates": [
+      "Mipnim vs. Mibachutz",
+      "Nasi Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the mipnim/mibachutz ruling and the Rav Chisda addition about the Nasi, and the current heading's prose explicitly discusses both elements (including the Nasi comparison as part of the same teaching), making heading 0 the correct placement for the complete passage.",
+      "chosen_heading": "Mipnim vs. Mibachutz",
+      "current_heading": "Mipnim vs. Mibachutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Nasi Comparison",
+    "candidates": [
+      "Nasi Comparison",
+      "Public Keriah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's objection from the baraita and its resolution regarding whether the Nasi comparison is limited to rejoining, which matches exactly the 'Nasi Comparison' prose describing this challenge and resolution.",
+      "chosen_heading": "Nasi Comparison",
+      "current_heading": "Nasi Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Public Keriah",
+    "candidates": [
+      "Public Keriah",
+      "Shoulder Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes publicly demonstrating keriah upon the Nasi's death, which directly matches the 'Public Keriah' section's prose about overturning a mortar and demonstrating keriah to the community.",
+      "chosen_heading": "Public Keriah",
+      "current_heading": "Public Keriah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Shoulder Location",
+    "candidates": [
+      "Shoulder Location",
+      "Study Hall Closure",
+      "National Closure",
+      "Torah Reading",
+      "Private Davening",
+      "Public Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes which shoulder is exposed for mourning a sage, av beit din, and nasi, directly matching the 'Shoulder Location' section's prose.",
+      "chosen_heading": "Shoulder Location",
+      "current_heading": "Shoulder Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Public Silence",
+    "candidates": [
+      "Study Hall Closure",
+      "National Closure",
+      "Torah Reading",
+      "Private Davening",
+      "Public Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full baraita about graduated responses to deaths of chacham, av beit din, and nasi \u2014 including the synagogue gathering, seat-changing, seven aliyot, and Rabbi Yehoshua ben Korcha's ruling about silent mourning \u2014 and heading 0 ('Study Hall Closure') with its prose about graduated communal responses is where this entire baraita begins, making it the correct home for the whole passage rather than the current placement under 'Public Silence' which only covers the final line.",
+      "chosen_heading": "Study Hall Closure",
+      "current_heading": "Public Silence",
+      "moved": true
+    }
+  }
+]

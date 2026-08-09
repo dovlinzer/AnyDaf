@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Bread Types Cases",
+    "candidates": [
+      "Opening & Overview",
+      "Topics Summary",
+      "Eating Includes Drinking",
+      "Two Oaths, Two Korbanot",
+      "Shabbat Melachot Analogy",
+      "Bread Types Cases",
+      "Liquid Types Cases",
+      "Inedible Foods & Drinks",
+      "Konam Conditional Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna covers all six cases (eating/drinking, bread types, liquid types) but the passage begins with the eating-includes-drinking case, which is the opening case of the mishna and belongs under the heading that introduces the entire mishna \u2014 'Eating Includes Drinking' \u2014 which describes the mishna opening with shvua shelo ochal and the principle that drinking is included in eating, exactly matching this passage's content as the full mishna text.",
+      "chosen_heading": "Eating Includes Drinking",
+      "current_heading": "Bread Types Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Konam Conditional Oath",
+    "candidates": [
+      "Liquid Types Cases",
+      "Inedible Foods & Drinks",
+      "Konam Conditional Oath",
+      "Svara Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the three cases discussed in the 'Inedible Foods & Drinks' prose: exempt for truly unfit foods/drinks, liable for neveilos/treifos (with Rabbi Shimon exempting), and the konam conditional case \u2014 all of which are explicitly described in that section's prose as a unified block from the mishna.",
+      "chosen_heading": "Inedible Foods & Drinks",
+      "current_heading": "Konam Conditional Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Svara Explanation",
+    "candidates": [
+      "Konam Conditional Oath",
+      "Svara Explanation",
+      "Resh Lakish Proof",
+      "Rav Acha Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Shmuel's ruling that one who swore not to eat and then drank is liable, and offers the choice between svara or kra \u2014 exactly what the 'Svara Explanation' prose introduces and elaborates upon.",
+      "chosen_heading": "Svara Explanation",
+      "current_heading": "Svara Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Rav Acha Proof",
+    "candidates": [
+      "Resh Lakish Proof",
+      "Rav Acha Proof",
+      "Svara vs. Pasuk Debate",
+      "Rava's Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Svara vs. Pasuk Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the iba'it eima svara / iba'it eima kra framework and Reish Lakish's proof from tirosh, which is precisely what the 'Svara vs. Pasuk Debate' and 'Resh Lakish Proof' sections discuss \u2014 and since candidate 0 ('Resh Lakish Proof') covers the tirosh verse directly, items 1-2 belong there.",
+      "second_heading": "Rav Acha Proof",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 present the anigeron challenge to Reish Lakish's proof, Rav Acha bar Yaakov's alternative verse, the dveilah k'ilit challenge, and the gezeirah shavah from nazir \u2014 exactly the content described in the 'Rav Acha Proof' prose.",
+      "current_heading": "Rav Acha Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rava's Proof",
+    "candidates": [
+      "Svara vs. Pasuk Debate",
+      "Rava's Proof",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from the mishna that drinking is included in eating, which is precisely what the 'Rava's Proof' section's prose describes.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Rava's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Rava's Response",
+      "Context Defines Scope"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye's Challenge",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 contain Abaye's challenge and Rava's response, which are summarized in heading 0's prose about Abaye's challenge and heading 1's prose about Rava's reply \u2014 heading 0 is the current placement and covers the initiation of this exchange.",
+      "second_heading": "Context Defines Scope",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 contain the follow-up challenge about why the mishna didn't teach the more novel case and the resolution via 'gali adatei' that context defines the scope of 'achilah', which is precisely what heading 2 ('Context Defines Scope') describes in its prose.",
+      "current_heading": "Abaye's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Context Defines Scope",
+    "candidates": [
+      "Rava's Response",
+      "Context Defines Scope",
+      "Bread Repetition Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses Rav Ashi's proof from the mishna that drinking is included in eating (shtiyah bichlal achilah) and the rejection that the mishna may have stated both oaths explicitly \u2014 this is a continuation of the shtiyah bichlal achilah discussion, but none of the candidate prose sections directly address this specific argument; the current placement under 'Context Defines Scope' is the closest match since it deals with the same underlying principle about how oath language defines scope of consumption.",
+      "chosen_heading": "Context Defines Scope",
+      "current_heading": "Context Defines Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Bread Repetition Analysis",
+    "candidates": [
+      "Bread Repetition Analysis",
+      "Separation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial challenge \u2014 perhaps the separate naming was to exclude other foods rather than create separate oaths \u2014 which matches exactly the prose of 'Bread Repetition Analysis' describing the gemara raising this very problem, before the methodical resolution described in 'Separation Principle'.",
+      "chosen_heading": "Bread Repetition Analysis",
+      "current_heading": "Bread Repetition Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Separation Principle",
+    "candidates": [
+      "Separation Principle",
+      "Rav Papa's Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items trace the gemara's step-by-step elimination of alternative phrasings (chewing, single phrase, connective shel, taaroves) to establish that the repetition of 'pas' signals three separate oaths \u2014 exactly the content described in the 'Separation Principle' prose.",
+      "chosen_heading": "Separation Principle",
+      "current_heading": "Separation Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rav Papa's Context",
+    "candidates": [
+      "Rav Papa's Context",
+      "Rav Acha Bar Acha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the continuous gemara discussion about why naming wine, oil, and honey separately creates three oaths \u2014 the very content described in candidate 0's prose about Rav Papa's context, munachim lefanav, and the series of alternative formulations tested and refined.",
+      "chosen_heading": "Rav Papa's Context",
+      "current_heading": "Rav Papa's Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Rav Acha Bar Acha",
+    "candidates": [
+      "Rav Acha Bar Acha",
+      "Return Goods Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous Gemara discussion about why the mishna specifies wine, oil, and honey individually \u2014 item 1 is a rejected alternative formulation and item 2 is Rav Acha brei de'Rav Ika's answer, exactly matching the prose under heading 0.",
+      "chosen_heading": "Rav Acha Bar Acha",
+      "current_heading": "Rav Acha Bar Acha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Return Goods Cases",
+    "candidates": [
+      "Return Goods Cases",
+      "Half-Pruta Combination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact mishna about oath liability for wheat/barley/spelt deposits, distinguishing single global oaths from separate specific oaths, which is precisely what the 'Return Goods Cases' prose discusses.",
+      "chosen_heading": "Return Goods Cases",
+      "current_heading": "Return Goods Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Half-Pruta Combination",
+    "candidates": [
+      "Half-Pruta Combination",
+      "Rav Acha vs. Ravina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Yo\u1e25anan's rule that even a peruta combining from all species creates liability, which candidate 1's prose explicitly identifies as 'Rabbi Yochanan's half-pruta rule' in the context of the Rav Acha/Ravina debate about how that rule applies \u2014 whereas candidate 0's prose mischaracterizes the passage as being about half-a-peruta of each type rather than the actual text's 'pruta from all of them combined.'",
+      "chosen_heading": "Rav Acha vs. Ravina",
+      "current_heading": "Half-Pruta Combination",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rav Acha vs. Ravina",
+    "candidates": [
+      "Half-Pruta Combination",
+      "Rav Acha vs. Ravina",
+      "Rava's Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav A\u1e25a and Ravina dispute about liability on specific versus general oaths, which is precisely what the 'Rav Acha vs. Ravina' section's prose describes.",
+      "chosen_heading": "Rav Acha vs. Ravina",
+      "current_heading": "Rav Acha vs. Ravina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Rava's Application",
+    "candidates": [
+      "Rava's Application",
+      "Treif vs. Inedible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and Rava's answer about whether a general oath is embedded in specific oaths, which is precisely what the 'Rava's Application' prose describes \u2014 including the hachi hashta question, the mushba v'omed principle, and the elimination of specific shvuot.",
+      "chosen_heading": "Rava's Application",
+      "current_heading": "Rava's Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Treif vs. Inedible",
+    "candidates": [
+      "Treif vs. Inedible",
+      "Stam vs. Meforash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the contradiction between the two clauses of the mishna \u2014 inedible foods exempt vs. non-kosher foods liable \u2014 which is precisely what the 'Treif vs. Inedible' section's prose describes and analyzes.",
+      "chosen_heading": "Treif vs. Inedible",
+      "current_heading": "Treif vs. Inedible",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Stam vs. Meforash",
+    "candidates": [
+      "Stam vs. Meforash",
+      "Mushba V'Omed Problem",
+      "Bundling Solution",
+      "Reish Lakish Alt."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the stam vs. meforesh resolution (reisha bi-stam, seifa bi-meforesh), which is exactly what the 'Stam vs. Meforash' section's prose describes.",
+      "chosen_heading": "Stam vs. Meforash",
+      "current_heading": "Stam vs. Meforash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Reish Lakish Alt.",
+    "candidates": [
+      "Mushba V'Omed Problem",
+      "Bundling Solution",
+      "Reish Lakish Alt."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mushba V'Omed Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mushba v'omed challenge and Item 2 (Rav/Shmuel/Rabbi Yochanan's bundling answer) together form the problem-and-resolution that candidate 0's prose describes, but candidate 0 only covers the problem while candidate 1 covers the bundling solution \u2014 however, item 1 (the question) naturally belongs under the heading that poses that exact question (candidate 0), and item 2 belongs under the bundling solution heading.",
+      "second_heading": "Bundling Solution",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present the bundling solution (Rav/Shmuel/Rabbi Yochanan) and Reish Lakish's alternative, which together are discussed under candidates 1 and 2, but since all three items form one continuous dispute chain, splitting after item 1 places items 2-3 under candidate 1 whose prose explicitly covers both the bundling answer and sets up Reish Lakish's disagreement that candidate 2 then elaborates.",
+      "current_heading": "Reish Lakish Alt.",
+      "moved": true
+    }
+  }
+]

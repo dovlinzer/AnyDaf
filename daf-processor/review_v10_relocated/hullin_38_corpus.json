@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Exclusions from Valid",
+    "candidates": [
+      "Mesukenet Intro",
+      "Shmuel's Definition",
+      "Exclusions from Valid",
+      "Mishnah: Hand Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct answer to the question 'mai ninhu dvarim shehamisa osa,' which is precisely the question posed at the end of candidate 1's prose, making it the natural home for this content rather than candidate 2 which describes the answer's implications in retrospect.",
+      "chosen_heading": "Shmuel's Definition",
+      "current_heading": "Exclusions from Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Mishnah: Hand Extension",
+    "candidates": [
+      "Exclusions from Valid",
+      "Mishnah: Hand Extension",
+      "Inference: Hand Retract"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge asking 'what is Shmuel teaching us?' followed by the Mishnah's ruling on foreleg extension, which is precisely what the prose under 'Mishnah: Hand Extension' describes.",
+      "chosen_heading": "Mishnah: Hand Extension",
+      "current_heading": "Mishnah: Hand Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Inference: Hand Retract",
+    "candidates": [
+      "Inference: Hand Retract",
+      "Tosefta Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's answer explaining why Shmuel's teaching adds beyond the Mishnah \u2014 specifically that the Mishnah alone would only cover bent-then-straightened-then-bent, while Shmuel teaches that straight-then-bent also suffices, which is precisely what the 'Inference: Hand Retract' prose describes.",
+      "chosen_heading": "Inference: Hand Retract",
+      "current_heading": "Inference: Hand Retract",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Tosefta Challenge",
+    "candidates": [
+      "Tosefta Challenge",
+      "Reconciling Lists"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita contradiction itself (Rabbi Yosei/Rabbi Meir/Rabbi Elazar's statements and the noting of difficulty), which corresponds exactly to the 'Tosefta Challenge' section's prose about raising a challenge from the tosefta and the direct opposition to Rav's list, before any reconciliation occurs.",
+      "chosen_heading": "Tosefta Challenge",
+      "current_heading": "Tosefta Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Reconciling Lists",
+    "candidates": [
+      "Reconciling Lists",
+      "Rav Chisda: Middle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's reconciliation of contradictions about mooing (go'ah/ago'ah) and defecation (re'i/are'i), which is precisely what the 'Reconciling Lists' prose describes in detail.",
+      "chosen_heading": "Reconciling Lists",
+      "current_heading": "Reconciling Lists",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rav Chisda: Middle",
+    "candidates": [
+      "Rav Chisda: Middle",
+      "Rava: End Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Chisda's statements about pirchus occurring be-emtza shechita and his proof from the Mishnah about the foreleg, which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rav Chisda: Middle",
+      "current_heading": "Rav Chisda: Middle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rava: End Required",
+    "candidates": [
+      "Rava: End Required",
+      "Rav Nachman: Beginning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement explaining that the sign of life must occur at the conclusion of slaughter, directly matching the prose in candidate 0 which discusses Rava's position requiring the sign at the literal end of the shechita.",
+      "chosen_heading": "Rava: End Required",
+      "current_heading": "Rava: End Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rav Nachman: Beginning",
+    "candidates": [
+      "Rav Nachman: Beginning",
+      "Blood Squirt Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rav Na\u1e25man bar Yitz\u1e25ak's position that a convulsion at the beginning of slaughter suffices, which is exactly what candidate 0's prose describes, not the proof/Mishnah discussion in candidate 1.",
+      "chosen_heading": "Rav Nachman: Beginning",
+      "current_heading": "Rav Nachman: Beginning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Blood Squirt Proof",
+    "candidates": [
+      "Blood Squirt Proof",
+      "Squirt as Stronger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man bar Yitz\u1e25ak's proof from Rabbi Shimon's ruling and Shmuel's clarification about the walls of the beis ha-shechita, which is precisely what the 'Blood Squirt Proof' section's prose describes and analyzes.",
+      "chosen_heading": "Blood Squirt Proof",
+      "current_heading": "Blood Squirt Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Squirt as Stronger",
+    "candidates": [
+      "Squirt as Stronger",
+      "Squirt Weaker Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's rejoinder that squirting blood may be superior as a sign of life, which is precisely what candidate 0 ('Squirt as Stronger') discusses before moving on to test whether squirting is indeed stronger.",
+      "chosen_heading": "Squirt as Stronger",
+      "current_heading": "Squirt as Stronger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Squirt Weaker Sign",
+    "candidates": [
+      "Squirt Weaker Sign",
+      "Orphan Calf Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of challenge and response about whether blood spurting is a stronger or weaker sign of life than hand/foot movement, which is precisely what the 'Squirt Weaker Sign' prose section describes in detail.",
+      "chosen_heading": "Squirt Weaker Sign",
+      "current_heading": "Squirt Weaker Sign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Orphan Calf Proof",
+    "candidates": [
+      "Orphan Calf Proof",
+      "Halacha Final",
+      "Small Animal Front"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute Rava's proof from the orphan calf baraita that pirchus must appear at the end of shechita, which is precisely what the 'Orphan Calf Proof' section's prose describes in detail.",
+      "chosen_heading": "Orphan Calf Proof",
+      "current_heading": "Orphan Calf Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Small Animal Front",
+    "candidates": [
+      "Halacha Final",
+      "Small Animal Front",
+      "Small Animal Hind",
+      "Large Animal Any",
+      "Bird Movement",
+      "Implicit in Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's citation of the baraita specifically about a small animal's foreleg extension being invalid, which matches exactly the 'Small Animal Front' section's prose about a behema daka extending its foreleg without bending it back.",
+      "chosen_heading": "Small Animal Front",
+      "current_heading": "Small Animal Front",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Implicit in Mishnah",
+    "candidates": [
+      "Small Animal Hind",
+      "Large Animal Any",
+      "Bird Movement",
+      "Implicit in Mishnah",
+      "Basic Rule & Dispute",
+      "Rabbi Eliezer Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Small Animal Hind",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita detailing the rules for hind leg of small animal, large animal, and bird \u2014 content that spans headings 0-2 but is anchored at the start by the small animal hind leg distinction, and the full baraita text is what those prose sections (0, 1, 2) are summarizing.",
+      "second_heading": "Implicit in Mishnah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's 'mai kamashma lan' question and answer explaining what the baraita adds beyond the Mishnah, which is precisely what heading 3 'Implicit in Mishnah' discusses.",
+      "current_heading": "Implicit in Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rabbi Eliezer Logic",
+    "candidates": [
+      "Basic Rule & Dispute",
+      "Rabbi Eliezer Logic",
+      "Rabbi Yosi Kal Chomer",
+      "Two Dispute Points",
+      "Dispute: Intent",
+      "Dispute: Owner Outside",
+      "Thought Framework"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Basic Rule & Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah itself \u2014 presenting the basic rule, Rabbi Eliezer's position, and Rabbi Yosi's kal va-chomer \u2014 which matches heading 0 ('Basic Rule & Dispute') and its elaboration in headings 1 and 2, but the Mishnah text as a unit (including Rabbi Yosi's response) belongs under the opening presentation of the dispute.",
+      "second_heading": "Two Dispute Points",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 are the Gemara's analysis of the structure of the dispute \u2014 introducing Rabbi Eliezer bar Rabbi Yosi's tradition and then presenting two readings of the disagreement \u2014 which matches heading 3 ('Two Dispute Points') and its continuation in headings 4 and 5.",
+      "current_heading": "Rabbi Eliezer Logic",
+      "moved": true
+    }
+  }
+]

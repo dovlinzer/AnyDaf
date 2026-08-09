@@ -1,0 +1,375 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Baraita: Tzara'at",
+      "Abaye vs. Rava",
+      "Indirect Removal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita: Tzara'at",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the fundamental question of why a verse is needed for an unintentional act (davar she'eino mitkaven), which is the opening challenge described in the 'Baraita: Tzara'at' prose section.",
+      "second_heading": "Abaye vs. Rava",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Abaye/Rava dispute and the psik reisha reasoning, which is precisely what the 'Abaye vs. Rava' prose section describes in detail.",
+      "current_heading": "Abaye vs. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Indirect Removal",
+    "candidates": [
+      "Indirect Removal",
+      "Rav Avin: Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about tzara'at lesion removal and the subsequent Abaye/Rava dispute about whether a verse is needed for Rabbi Yehuda or also Rabbi Shimon, which is precisely what the 'Indirect Removal' prose describes in detail.",
+      "chosen_heading": "Indirect Removal",
+      "current_heading": "Indirect Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Avin: Intent",
+    "candidates": [
+      "Rav Avin: Intent",
+      "Minor & Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Amram's answer about the word 'basar' addressing a case of explicit intent to cut the bright spot, which matches exactly the prose of 'Rav Avin: Intent' discussing how the pasuk permits the act even when one explicitly declares intent to remove the tzara'at during milah.",
+      "chosen_heading": "Rav Avin: Intent",
+      "current_heading": "Rav Avin: Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Minor & Intent",
+    "candidates": [
+      "Minor & Intent",
+      "Alternative Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case of a minor's circumcision and Rav Mesharshiya's answer about the father's intent, which is precisely what the 'Minor & Intent' section's prose discusses.",
+      "chosen_heading": "Minor & Intent",
+      "current_heading": "Minor & Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Alternative Methods",
+    "candidates": [
+      "Alternative Methods",
+      "Late Milah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the principle of seeking an alternative mohel to avoid conflict between milah and tzara'at removal, and the case where no other person is available, which is precisely what the 'Alternative Methods' section's prose describes.",
+      "chosen_heading": "Alternative Methods",
+      "current_heading": "Alternative Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Late Milah",
+    "candidates": [
+      "Late Milah",
+      "Chizkiyah Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'from where are these matters derived?' which is the opening question that sets up the derivation, and the current heading's prose explicitly addresses the principle that yom tov is not overridden by milah shelo bizmanah \u2014 this question belongs with that section as its launching point, before the Chizkiyah drasha answers it.",
+      "chosen_heading": "Late Milah",
+      "current_heading": "Late Milah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chizkiyah Drasha",
+    "candidates": [
+      "Chizkiyah Drasha",
+      "Pesach Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Chizkiyah's drasha about the double 'ad boker' in the Paschal lamb laws, which is exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Chizkiyah Drasha",
+      "current_heading": "Chizkiyah Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Pesach Offerings",
+    "candidates": [
+      "Pesach Offerings",
+      "Yom Tov Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's derivation from 'olas Shabbos b'shabbaso' that burnt-offerings of weekdays cannot be brought on Shabbat or Yom Tov, which is explicitly discussed in the 'Pesach Offerings' section prose where this exact Abaye teaching is described.",
+      "chosen_heading": "Pesach Offerings",
+      "current_heading": "Pesach Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Yom Tov Nature",
+    "candidates": [
+      "Yom Tov Nature",
+      "Tzorchei Milah",
+      "Preparation Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items \u2014 Rava's derivation from 'hu levado', Rav Ashi's Shabbaton argument, and the rulings about Rabbi Akiva's principle applied to both milah and korban pesach with the necessity of both statements \u2014 are explicitly discussed and summarized in the 'Yom Tov Nature' prose, which concludes by noting that halacha k'Rabbi Akiva applies in both contexts and that both rulings must be stated independently.",
+      "chosen_heading": "Yom Tov Nature",
+      "current_heading": "Yom Tov Nature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Preparation Issues",
+    "candidates": [
+      "Tzorchei Milah",
+      "Preparation Issues",
+      "Wrapping & Shinui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishna that introduces all the necessities of circumcision on Shabbat, which is precisely what the 'Tzorchei Milah' prose describes \u2014 the two categories of acts permitted under that heading \u2014 whereas the current placement under 'Preparation Issues' describes the content of these very items as if summarizing them, making heading 0 the natural home for the Mishna text itself.",
+      "chosen_heading": "Tzorchei Milah",
+      "current_heading": "Preparation Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Wrapping & Shinui",
+    "candidates": [
+      "Preparation Issues",
+      "Wrapping & Shinui",
+      "Shinui Debate",
+      "Kol Tzorchei",
+      "Engagement Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes not making a pouch but wrapping a rag, and carrying it on one's finger from another courtyard \u2014 exactly the wrapping and shinui content discussed in the 'Wrapping & Shinui' section prose.",
+      "chosen_heading": "Wrapping & Shinui",
+      "current_heading": "Wrapping & Shinui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Engagement Status",
+    "candidates": [
+      "Shinui Debate",
+      "Kol Tzorchei",
+      "Engagement Status",
+      "Pesach Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 is the gemara's question about what 'kol tzorchei milah' adds, and Item 2 is the gemara's answer \u2014 both together form the content described under heading 1 ('Kol Tzorchei'), whose prose explicitly covers exactly this question and its baraita answer, whereas heading 2 ('Engagement Status') covers the downstream analysis of the baraita's ruling rather than the question-and-answer unit itself.",
+      "chosen_heading": "Kol Tzorchei",
+      "current_heading": "Engagement Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Pesach Analogy",
+    "candidates": [
+      "Engagement Status",
+      "Pesach Analogy",
+      "Aesthetic Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the Pesach analogy \u2014 item 1 identifies Rabbi Yishmael ben Rabbi Yochanan ben Beroka via the flaying-until-the-breast baraita, and item 2 is the gemara's challenge to that analogy (maybe the Pesach case differs because Zeh Eli v'anvehu doesn't apply there), which is still part of establishing and testing the Pesach parallel before moving on to the Aesthetic Doctrine section.",
+      "chosen_heading": "Pesach Analogy",
+      "current_heading": "Pesach Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Aesthetic Doctrine",
+    "candidates": [
+      "Aesthetic Doctrine",
+      "Beautification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita expounding 'Zeh Eli v'anvehu' with its list of beautiful mitzvot objects, which candidate 0's prose explicitly introduces and discusses in the context of the milah/peireish question, making it the correct placement.",
+      "chosen_heading": "Aesthetic Doctrine",
+      "current_heading": "Aesthetic Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Beautification",
+    "candidates": [
+      "Beautification",
+      "Lechem Panim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abba Shaul's interpretation of ve'anvehu as imitatio dei (be similar to God, compassionate and merciful), which is precisely what the prose under 'Beautification' discusses and analyzes at length.",
+      "chosen_heading": "Beautification",
+      "current_heading": "Beautification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Lechem Panim",
+    "candidates": [
+      "Lechem Panim",
+      "Final Strands",
+      "Who Gets Kares"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion: Rav Ashi's attempt to attribute the baraita to Rabbi Yosei (items 1-2), its rejection, and the Neharde'ans' alternative attribution to the Rabbis via the Lechem haPanim mishna (items 3-4) \u2014 exactly the content described in the 'Lechem Panim' prose section.",
+      "chosen_heading": "Lechem Panim",
+      "current_heading": "Lechem Panim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Who Gets Kares",
+    "candidates": [
+      "Final Strands",
+      "Who Gets Kares",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita text and Rav Kahana's identification of the mohel as liable for karet, which directly matches the 'Who Gets Kares' section's prose about the gemara asking who is liable and Rav Kahana answering it is the umman/mohel.",
+      "chosen_heading": "Who Gets Kares",
+      "current_heading": "Who Gets Kares",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Rav Pappa",
+    "candidates": [
+      "Rav Pappa",
+      "Nightfall Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Pappa",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Pappa's objection and reinterpretation (the gadol), which is precisely what heading 0 'Rav Pappa' describes in its prose.",
+      "second_heading": "Nightfall Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Ashi's objection to the gadol interpretation and his return to the mohel/bein hashmashot case, which is exactly what heading 1 'Nightfall Case' describes in its prose.",
+      "current_heading": "Rav Pappa",
+      "moved": true
+    }
+  }
+]

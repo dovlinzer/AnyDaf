@@ -1,0 +1,234 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Peshat: Nosar Timeline",
+    "candidates": [
+      "Basic Me'ilah Rule",
+      "Zrikat Pigul",
+      "Rabbi Shimon: Nosar",
+      "Peshat: Nosar Timeline",
+      "Gemara Challenge",
+      "Ra'ui L'zrika"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "Peshat: Nosar Timeline",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-8 cover Rabbi Shimon's notar baraita, the inference attempt, refutation, and ra'ui l'zrika resolution \u2014 the content of the Notar Timeline/Challenge/Ra'ui cluster, with the current placement being a reasonable fit.",
+      "second_heading": "Zrikat Pigul",
+      "second_confidence": "high",
+      "second_reason": "Items 9-13 introduce an entirely new ta shema baraita about piggul with the same structural argument, which corresponds to the 'Zrikat Pigul' section discussing whether a quasi-valid zrika effects status change.",
+      "current_heading": "Peshat: Nosar Timeline",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ra'ui L'zrika",
+    "candidates": [
+      "Gemara Challenge",
+      "Ra'ui L'zrika",
+      "Rashi: Nosar Reading",
+      "Rabbi Shimon: Pigul",
+      "Pigul After Kabbalah",
+      "Zrika vs Kabbalah Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rabbi Shimon means 'before/after it was fit for sprinkling' (ra'ui l'zrika), which is precisely what the 'Ra'ui L'zrika' section's prose describes as the gemara's resolution.",
+      "chosen_heading": "Ra'ui L'zrika",
+      "current_heading": "Ra'ui L'zrika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Zrika vs Kabbalah Pigul",
+    "candidates": [
+      "Rashi: Nosar Reading",
+      "Rabbi Shimon: Pigul",
+      "Pigul After Kabbalah",
+      "Zrika vs Kabbalah Pigul",
+      "Zrika = Ra'ui L'zrika",
+      "Braita: Pigul Me'ilah",
+      "Why Kodshim Kalim",
+      "Two Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Gemara citation of the baraita about pigul in kodshei kodashim being subject to me'ilah, followed by the attempt to derive from it that heter achila (actual zrika) is the criterion, and the rejection that the baraita may refer to a case where zrika had not yet occurred \u2014 which is precisely what the 'Braita: Pigul Me'ilah' section describes.",
+      "chosen_heading": "Braita: Pigul Me'ilah",
+      "current_heading": "Zrika vs Kabbalah Pigul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Two Standards",
+    "candidates": [
+      "Zrika = Ra'ui L'zrika",
+      "Braita: Pigul Me'ilah",
+      "Why Kodshim Kalim",
+      "Two Standards",
+      "Kol Ha-Apokei",
+      "Mishna: Yotzei",
+      "R. Eliezer: No Change",
+      "R. Akiva: Status Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the question and answer described in candidate 2 ('Why Kodshim Kalim'): the Gemara asks why the baraita uses kodshim kalim to illustrate no me'ilah when it could have distinguished within kodshei kodashim itself (before/after zrika), and then gives the answer about kol ha-asui lidei me'ilah \u2014 all of which matches the prose of candidate 2, not the current placement in candidate 3.",
+      "chosen_heading": "Why Kodshim Kalim",
+      "current_heading": "Two Standards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "R. Akiva: Status Changes",
+    "candidates": [
+      "Kol Ha-Apokei",
+      "Mishna: Yotzei",
+      "R. Eliezer: No Change",
+      "R. Akiva: Status Changes",
+      "Parallel Case",
+      "Same Machloket"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kol Ha-Apokei",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concluding general principle ('kol l'apokei') that wraps up the first amud's discussion about the asymmetry of me'ilah entry/exit, which is exactly what heading 0's prose describes as the final conceptual statement concluding the first amud.",
+      "second_heading": "R. Akiva: Status Changes",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 contain the mishna introducing the yotzei dispute (item 2), Rabbi Eliezer's ruling (item 3), Rabbi Akiva's ruling (item 4), and Rabbi Akiva's proof from the two sin offerings (items 5-7), all of which are described in detail under heading 3's prose about Rabbi Akiva's position and his kal va-chomer argument.",
+      "current_heading": "R. Akiva: Status Changes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Same Machloket",
+    "candidates": [
+      "Parallel Case",
+      "Same Machloket",
+      "Why Both Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the parallel case of eimurai kodshim kalim that left before zrika and the Rabbi Eliezer/Rabbi Akiva dispute about it, which is precisely what candidate 0 ('Parallel Case') describes in its prose, while candidate 1 ('Same Machloket') describes only the ruling/analysis of that dispute after the case has been introduced.",
+      "chosen_heading": "Parallel Case",
+      "current_heading": "Same Machloket",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Why Both Cases",
+    "candidates": [
+      "Same Machloket",
+      "Why Both Cases",
+      "R. Yochanan Clarifies",
+      "Miktzato vs. Kulo (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the Gemara's question-and-answer about why both cases (kodshei kodashim and kodshim kalim) are necessary, which is precisely what the 'Why Both Cases' prose section describes in detail.",
+      "chosen_heading": "Why Both Cases",
+      "current_heading": "Why Both Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Miktzato vs. Kulo (II)",
+    "candidates": [
+      "R. Yochanan Clarifies",
+      "Miktzato vs. Kulo (II)",
+      "Avud v'Saruf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's qualification of Rabbi Akiva's position (only applies when part left, not all), which is exactly what candidate 0's prose describes, making it a clearly better match than candidate 1 which discusses the conceptual basis rather than introducing the ruling itself.",
+      "chosen_heading": "R. Yochanan Clarifies",
+      "current_heading": "Miktzato vs. Kulo (II)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Avud v'Saruf",
+    "candidates": [
+      "Miktzato vs. Kulo (II)",
+      "Avud v'Saruf",
+      "Implication Teased"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Asi's report of the 'avud v'saruf' teaching to Rabbi Yochanan, which is precisely what candidate 1's prose describes \u2014 the teaching from colleagues in the Diaspora that one can form machsheves pigul with respect to lost or burned objects.",
+      "chosen_heading": "Avud v'Saruf",
+      "current_heading": "Avud v'Saruf",
+      "moved": false
+    }
+  }
+]

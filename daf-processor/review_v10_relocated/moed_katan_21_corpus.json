@@ -1,0 +1,551 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Tanna's List",
+    "candidates": [
+      "Tanna's List",
+      "Extensions of List",
+      "2nd Generation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the original seven relatives from the kohanim parasha AND the added relatives, and the current heading's prose explicitly discusses both parts of this baraita, while heading 1 only covers the extensions portion.",
+      "chosen_heading": "Tanna's List",
+      "current_heading": "Tanna's List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "2nd Generation Debate",
+    "candidates": [
+      "Extensions of List",
+      "2nd Generation Debate",
+      "Chachamim Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the debate between Rabbi Akiva and Rabbi Shimon ben Elazar on second-degree relatives, plus the Rabbis' position \u2014 all three opinions are discussed together in candidate 1's prose (and candidate 2 is a separate section that elaborates only on the chachamim's position in isolation), making the current placement the best fit for this unified passage.",
+      "chosen_heading": "2nd Generation Debate",
+      "current_heading": "2nd Generation Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Chachamim Position",
+    "candidates": [
+      "Chachamim Position",
+      "Direct vs. Respect",
+      "Rav & Chiya Case",
+      "Mar Ukva Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the teaching of Rav to \u1e24iyya and Rav Huna to Rabba about observing mourning in the wife's presence vs. not, which is precisely what Candidate 2 ('Rav & Chiya Case') describes in its prose.",
+      "chosen_heading": "Rav & Chiya Case",
+      "current_heading": "Chachamim Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Mar Ukva Case",
+    "candidates": [
+      "Direct vs. Respect",
+      "Rav & Chiya Case",
+      "Mar Ukva Case",
+      "Spouse Duties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Mar Ukva case \u2014 his brother-in-law's death, Rav Huna's challenge, and the ruling that solidarity aveilus applies only for father-in-law or mother-in-law \u2014 which is precisely what the 'Mar Ukva Case' prose describes.",
+      "chosen_heading": "Mar Ukva Case",
+      "current_heading": "Mar Ukva Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Spouse Duties",
+    "candidates": [
+      "Spouse Duties",
+      "Contradiction Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the first baraita about a spouse not compelling makeup during mourning and overturning the bed, which is precisely what the 'Spouse Duties' prose discusses in detail before mentioning a second baraita in 'Contradiction Resolution'.",
+      "chosen_heading": "Spouse Duties",
+      "current_heading": "Spouse Duties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Contradiction Resolution",
+    "candidates": [
+      "Contradiction Resolution",
+      "Ameimar's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core contradiction between the two baraitot and its resolution (distinguishing father-in-law/mother-in-law from other relatives), which is exactly what the 'Contradiction Resolution' prose section discusses in detail.",
+      "chosen_heading": "Contradiction Resolution",
+      "current_heading": "Contradiction Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Ameimar's Case",
+    "candidates": [
+      "Ameimar's Case",
+      "Rav Ashi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ameimar's grandson's death, his kriya, his son's arrival, and his correction of having performed kriya while seated \u2014 all of which is precisely what the 'Ameimar's Case' prose section discusses in detail.",
+      "chosen_heading": "Ameimar's Case",
+      "current_heading": "Ameimar's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Ashi's Challenge",
+    "candidates": [
+      "Rav Ashi's Challenge",
+      "Job Verse Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Rav Ashi's question to Ameimar about the source for standing during keriah and Ameimar's answer citing Job 1:20, which is exactly what heading 0 ('Rav Ashi's Challenge') describes in its prose.",
+      "chosen_heading": "Rav Ashi's Challenge",
+      "current_heading": "Rav Ashi's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Job Verse Analysis",
+    "candidates": [
+      "Job Verse Analysis",
+      "Chalitzah Distinction",
+      "King David Source",
+      "David's Propriety"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single exchange \u2014 Rav Ashi's challenge from the chalitzah verse and Ameimar's resolution distinguishing prescriptive from narrative formulations \u2014 which is precisely what 'Job Verse Analysis' prose describes.",
+      "chosen_heading": "Job Verse Analysis",
+      "current_heading": "Job Verse Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "David's Propriety",
+    "candidates": [
+      "Chalitzah Distinction",
+      "King David Source",
+      "David's Propriety",
+      "David's Lying Down"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rami bar \u1e24ama deriving that keriah must be performed standing from the verse about Job (not David), which matches the 'King David Source' section's prose describing Rami bar \u1e24ama proposing a source \u2014 but more critically, the passage's content (Job verse, then the objection about shaving the head) is the Job-based proof that precedes the David discussion, and the prose under heading 1 describes Rami bar \u1e24ama's alternative source, making it the closest match; however, the current placement under 'David's Propriety' (index 2) discusses the exact same objection formula (dilma milta yetirata) applied to David, while this passage applies it to Job \u2014 meaning the Job passage belongs under heading 1 (King David Source) as the prior attempt before the David source is introduced.",
+      "chosen_heading": "King David Source",
+      "current_heading": "David's Propriety",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "David's Lying Down",
+    "candidates": [
+      "David's Propriety",
+      "David's Lying Down",
+      "Prohibition List",
+      "Work Prohibition",
+      "Physical Prohibitions",
+      "Torah Learning",
+      "Community Exception",
+      "Rabbi Yosei Case",
+      "Rabbah Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "David's Lying Down",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 continue the gemara's discussion about David's lying on the ground and whether keriah must be performed standing, which is precisely what heading 1 ('David's Lying Down') discusses.",
+      "second_heading": "Prohibition List",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the tanna rabanan listing the prohibitions of an avel, which is a new structural unit (baraita opening with 'tanu rabbanan') matching heading 2 ('Prohibition List') whose prose explicitly describes this enumeration of mourner prohibitions.",
+      "current_heading": "David's Lying Down",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rabbah Case",
+    "candidates": [
+      "Prohibition List",
+      "Work Prohibition",
+      "Physical Prohibitions",
+      "Torah Learning",
+      "Community Exception",
+      "Rabbi Yosei Case",
+      "Rabbah Case",
+      "Rabbi Yehuda Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rabbah bar bar Chana incident \u2014 his bereavement, Rabbi Chanina's advice about public need, his consideration of using an amora, and Rav's ruling against appointing a turgeman \u2014 which is precisely what heading 6 'Rabbah Case' describes in its prose.",
+      "chosen_heading": "Rabbah Case",
+      "current_heading": "Rabbah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rabbi Yehuda Case",
+    "candidates": [
+      "Rabbi Yehuda Case",
+      "Indirect Teaching",
+      "Prohibition vs. Practice",
+      "List Incompleteness",
+      "Three Days Rule",
+      "Day Three Permission",
+      "Rabbi Eliezer View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about Rabbi Yehuda bar Ilai's son dying and him entering the study hall with the whispering chain, which is exactly what the 'Rabbi Yehuda Case' prose describes as the gemara's answer to how such a scholar should proceed.",
+      "chosen_heading": "Rabbi Yehuda Case",
+      "current_heading": "Rabbi Yehuda Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rabbi Eliezer View",
+    "candidates": [
+      "Indirect Teaching",
+      "Prohibition vs. Practice",
+      "List Incompleteness",
+      "Three Days Rule",
+      "Day Three Permission",
+      "Rabbi Eliezer View",
+      "Rabbi Yehoshua View",
+      "Verse Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita covers both the three-day rule (Rabbi Eliezer) and the two-day rule (Rabbi Yehoshua) as a single unit, and the 'Three Days Rule' heading is where the baraita's full text is first introduced and discussed, before the subsequent headings break it into components.",
+      "chosen_heading": "Three Days Rule",
+      "current_heading": "Rabbi Eliezer View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Verse Sources",
+    "candidates": [
+      "Rabbi Yehoshua View",
+      "Verse Sources",
+      "Override Limited",
+      "Day Two Gray Zone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the verse-source debate between Rabbi Eliezer and Rabbi Yehoshua \u2014 Rav Mattana/Rav Eina deriving each position from scripture, then the gemara pressing each with the other's verse and resolving it \u2014 which is precisely what the 'Verse Sources' prose describes in detail.",
+      "chosen_heading": "Verse Sources",
+      "current_heading": "Verse Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Day Two Gray Zone",
+    "candidates": [
+      "Override Limited",
+      "Day Two Gray Zone",
+      "Rava's Leniency",
+      "Reconciliation",
+      "Three Day Ban",
+      "Poor Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Day Two Gray Zone",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Ulla's ruling and the day-two gray zone question with its answer (choletz u-maniach afilu meiah pe'amim), which is precisely what the 'Day Two Gray Zone' prose describes.",
+      "second_heading": "Rava's Leniency",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rava's independent ruling that once tefillin are donned they need not be removed, which is exactly what 'Rava's Leniency' prose discusses.",
+      "current_heading": "Day Two Gray Zone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Poor Exception",
+    "candidates": [
+      "Rava's Leniency",
+      "Reconciliation",
+      "Three Day Ban",
+      "Poor Exception",
+      "Private Work Later",
+      "Women's Work",
+      "Work Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The phrase 'mitzva shanei' (a mitzva is different) is explicitly quoted and explained in the 'Reconciliation' section's prose as the answer to the tension between Rava's positions, making that section the clear home for this passage.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Poor Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Work Ambiguity",
+    "candidates": [
+      "Private Work Later",
+      "Women's Work",
+      "Work Ambiguity",
+      "Three Day Isolation",
+      "Later Visiting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers the prohibition on work for the first three days and then the permission for private work afterward \u2014 content that fits squarely under 'Private Work Later,' which introduces the three-day structure and the mikan v'eilach rule, rather than the 'Work Ambiguity' section which discusses interpretive debates about that rule.",
+      "chosen_heading": "Private Work Later",
+      "current_heading": "Work Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Later Visiting",
+    "candidates": [
+      "Three Day Isolation",
+      "Later Visiting",
+      "Three Day Silence",
+      "Response Only",
+      "Normal After",
+      "Rabbi Akiva Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the three-day prohibition AND the later visiting rule in one continuous passage, but the passage opens with the three-day restriction and candidate 0's prose explicitly discusses this baraita ('A further tanna rabanan: avel gimmel yamim harishonim...') and covers both the prohibition and the subsequent permission, making it the clearly intended home for this complete source text.",
+      "chosen_heading": "Three Day Isolation",
+      "current_heading": "Later Visiting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Rabbi Akiva Exception",
+    "candidates": [
+      "Three Day Silence",
+      "Response Only",
+      "Normal After",
+      "Rabbi Akiva Exception",
+      "Shalom Meaning",
+      "Thirty Day Consolations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a single continuous unit: the baraita stating the three-day prohibition, the challenge from Rabbi Akiva's case, the details of that case, and the gemara's resolution (kevod rabbim shani) \u2014 exactly what candidate 3 'Rabbi Akiva Exception' describes in its prose.",
+      "chosen_heading": "Rabbi Akiva Exception",
+      "current_heading": "Rabbi Akiva Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Thirty Day Consolations",
+    "candidates": [
+      "Shalom Meaning",
+      "Thirty Day Consolations",
+      "After Thirty Days",
+      "Others' Shalom",
+      "Mourner's Shalom Ban",
+      "Unaware Responder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous sugya of the baraita about days 3-7/post-7, followed by the contradiction from the thirty-day baraita, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Thirty Day Consolations",
+      "current_heading": "Thirty Day Consolations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164
+    ],
+    "current_heading": "Unaware Responder",
+    "candidates": [
+      "After Thirty Days",
+      "Others' Shalom",
+      "Mourner's Shalom Ban",
+      "Unaware Responder",
+      "No Response Days 1-3"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Others' Shalom",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Idi bar Avin's resolution distinguishing the avel asking others' shalom vs. others asking his) matches precisely the prose of candidate 1 'Others' Shalom', which discusses exactly this distinction between the avel directing inquiry toward others' wholeness vs. his own shalom.",
+      "second_heading": "Unaware Responder",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the challenge from 'meshiv' implying others do greet him, resolved by 'delo yad'ei') matches precisely the prose of candidate 3 'Unaware Responder', which discusses how people sometimes ask without knowing the person is an avel.",
+      "current_heading": "Unaware Responder",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "No Response Days 1-3",
+    "candidates": [
+      "No Response Days 1-3",
+      "After 30 Days Ok",
+      "Parent Year Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between the first three days (must inform and not respond) and after three days (need not inform), which is precisely what the 'No Response Days 1-3' prose discusses.",
+      "chosen_heading": "No Response Days 1-3",
+      "current_heading": "No Response Days 1-3",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172,
+      173,
+      174,
+      175
+    ],
+    "current_heading": "Parent Year Rules",
+    "candidates": [
+      "After 30 Days Ok",
+      "Parent Year Rules",
+      "Broken Leg Parable",
+      "Indirect Consolations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya: the baraita about twelve-month rules (item 1), Rabbi Meir's parable (item 2), the resolution distinguishing parents from other relatives (item 3), and the refinement about indirect consolation (item 4) all belong together under 'Parent Year Rules,' whose prose explicitly describes this entire sequence including the twelve-month/thirty-day distinction and the indirect consolation point.",
+      "chosen_heading": "Parent Year Rules",
+      "current_heading": "Parent Year Rules",
+      "moved": false
+    }
+  }
+]

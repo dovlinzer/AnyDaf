@@ -58,7 +58,7 @@
           "timestamp": "13:30"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -120,7 +120,7 @@
           "timestamp": "27:44"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -149,7 +149,7 @@
           "timestamp": "41:03"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -173,7 +173,7 @@
           "timestamp": "57:02"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 31,
       "matched": true
     },
     {
@@ -187,8 +187,8 @@
           "timestamp": "41:33"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 31,
+      "matched": false
     },
     {
       "title": "Shemittah Laws: Connection Between Bi'ur (Removal) and Shevi'it (Sabbatical Year) Obligations",
@@ -206,8 +206,8 @@
           "timestamp": "41:33"
         }
       ],
-      "sefaria_index": 29,
-      "matched": true
+      "sefaria_index": 31,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -539,5 +539,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "36:14",
+  "amud_b_micro_title": "Dill Question",
+  "shiur_start_daf": 50,
+  "shiur_start_amud": "b"
 }

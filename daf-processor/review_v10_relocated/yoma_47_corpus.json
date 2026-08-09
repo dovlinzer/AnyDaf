@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Coals & Vessels",
+    "candidates": [
+      "Daf 47 Overview",
+      "Coals & Vessels",
+      "Scooping Practice",
+      "Right & Left Hands",
+      "Two Machtah Types",
+      "Kaf Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes bringing out the kaf and machtah, scooping handfuls into the spoon, the measure varying by hand size, and taking the fire pan in the right hand and spoon in the left \u2014 content that spans candidates 1-3, but the current placement under 'Coals & Vessels' (index 1) is the correct starting point for this mishnah, which covers the full text being quoted here.",
+      "chosen_heading": "Coals & Vessels",
+      "current_heading": "Coals & Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Kaf Source",
+    "candidates": [
+      "Scooping Practice",
+      "Right & Left Hands",
+      "Two Machtah Types",
+      "Kaf Source",
+      "Single Entry Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about why the machtah is mentioned again and explains that there are two different vessels sharing the same name \u2014 coals vs. incense \u2014 which is precisely what the 'Two Machtah Types' section discusses.",
+      "chosen_heading": "Two Machtah Types",
+      "current_heading": "Kaf Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Single Entry Rule",
+    "candidates": [
+      "Kaf Source",
+      "Single Entry Rule",
+      "Teeth Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question of why a kaf is needed at all and the answer that two separate entries are forbidden \u2014 are explicitly discussed in candidate 0's prose ('The gemara then asks: kaf Yom Hakippurim lama li?' and 'hava'ah achat amar rachmana velo shtei hava'ot'), making candidate 0 the clear home for this passage rather than candidate 1 which picks up only after this Q&A is resolved.",
+      "chosen_heading": "Kaf Source",
+      "current_heading": "Single Entry Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Teeth Solution",
+    "candidates": [
+      "Teeth Solution",
+      "Tosafot Long Handle",
+      "Inversion Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the teeth-solution rejection and its conclusion ('therefore impossible, so we act as we find with the princes'), which is precisely what the 'Teeth Solution' prose describes \u2014 including the 'lifnei melech basar vadam' reasoning and the 'avdinan kedashkachan binesi'im' conclusion.",
+      "chosen_heading": "Teeth Solution",
+      "current_heading": "Teeth Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Inversion Problem",
+    "candidates": [
+      "Tosafot Long Handle",
+      "Inversion Problem",
+      "Quantity vs Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's arrangement of coal pan in right hand and spoon in left hand, then questions this inversion with the maxim about the native and the stranger \u2014 exactly what the 'Inversion Problem' prose describes.",
+      "chosen_heading": "Inversion Problem",
+      "current_heading": "Inversion Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Quantity vs Quality",
+    "candidates": [
+      "Quantity vs Quality",
+      "R. Yishmael ben Kimchit",
+      "R. Yishmael Prodigy",
+      "Zerad Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the reasons for the right/left hand arrangement (weight difference, temperature difference, and the Rabbi Yishmael ben Kimchit example as a conditional), which exactly matches the 'Quantity vs Quality' section's prose.",
+      "chosen_heading": "Quantity vs Quality",
+      "current_heading": "Quantity vs Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Zerad Meaning",
+    "candidates": [
+      "R. Yishmael ben Kimchit",
+      "R. Yishmael Prodigy",
+      "Zerad Meaning",
+      "Contamination Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the two interpretations of 'zered' (arsa/flour and semen) along with their supporting prooftexts, which is precisely what the 'Zerad Meaning' prose section describes in detail \u2014 making the current placement correct.",
+      "chosen_heading": "Zerad Meaning",
+      "current_heading": "Zerad Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Contamination Story",
+    "candidates": [
+      "Contamination Story",
+      "Seven Sons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the single incident with the Arab's spittle, Yeshevav serving in his stead, and their mother seeing two High Priests in one day \u2014 exactly what the 'Contamination Story' prose discusses in detail.",
+      "chosen_heading": "Contamination Story",
+      "current_heading": "Contamination Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Seven Sons",
+    "candidates": [
+      "Seven Sons",
+      "Kimchit's Virtue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the second incident with Rabbi Yishmael ben Kim\u1e25it where spittle landed on his clothing and his brother Yosef served in his stead, with their mother seeing two High Priests in one day \u2014 exactly what the 'Seven Sons' prose section describes and discusses.",
+      "chosen_heading": "Seven Sons",
+      "current_heading": "Seven Sons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Kimchit's Virtue",
+    "candidates": [
+      "Kimchit's Virtue",
+      "Hands Not Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about Kimchit and her seven sons serving as High Priests, her modesty practice, and the sages' response \u2014 exactly what the prose under 'Kimchit's Virtue' discusses in detail.",
+      "chosen_heading": "Kimchit's Virtue",
+      "current_heading": "Kimchit's Virtue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Hands Not Vessels",
+    "candidates": [
+      "Hands Not Vessels",
+      "Measure Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about not measuring the kometz with a vessel and the dilemma about whether the same applies to the chafina, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Hands Not Vessels",
+      "current_heading": "Hands Not Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Measure Ambiguity",
+    "candidates": [
+      "Measure Ambiguity",
+      "Scooping Technique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the same continuous Gemara discussion about interpreting 'vekakh haya midatah' \u2014 whether it permits a vessel, describes a second scooping, or means exact measure \u2014 which is precisely what the 'Measure Ambiguity' prose describes in detail.",
+      "chosen_heading": "Measure Ambiguity",
+      "current_heading": "Measure Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Scooping Technique",
+    "candidates": [
+      "Scooping Technique",
+      "Hardest Avodah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mechanics of the kometz \u2014 the baraita about melo kumtzo vs. bekumtzo and the scooping technique \u2014 which matches precisely the prose under 'Scooping Technique'.",
+      "chosen_heading": "Scooping Technique",
+      "current_heading": "Scooping Technique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Hardest Avodah",
+    "candidates": [
+      "Hardest Avodah",
+      "RYB Uza Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the difficult rite of smoothing the kometz in a pan/deep container offering and the Gemara's revision that this is one of the hardest avodot, which exactly matches the 'Hardest Avodah' section's prose.",
+      "chosen_heading": "Hardest Avodah",
+      "current_heading": "Hardest Avodah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "RYB Uza Question",
+    "candidates": [
+      "RYB Uza Question",
+      "Safek Status",
+      "Tosafot Safek",
+      "Two-Stage Burning",
+      "Eliezer Designation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover exactly what heading 1 ('Safek Status') describes: Rav Pappa clarifying the scope of the question (inside=kometz, outside=shirayim) and Rav Yochanan reporting that Rabbi Yehoshua ben Uza resolved the dilemma by declaring the in-between material a safek \u2014 which is precisely what the prose of candidate 1 summarizes.",
+      "chosen_heading": "Safek Status",
+      "current_heading": "RYB Uza Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Eliezer Designation",
+    "candidates": [
+      "Safek Status",
+      "Tosafot Safek",
+      "Two-Stage Burning",
+      "Eliezer Designation",
+      "Rav Mari Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion of *heichi avid* \u2014 Rabbi \u1e24anina's two-stage burning solution and the resulting reverse problem (items 1-2) plus Rav Yehuda's *leshum etzim* resolution (item 3) \u2014 which is precisely what candidate 2 ('Two-Stage Burning') describes in its prose, including the explicit mention of both the two-stage procedure and the reverse difficulty that is then addressed.",
+      "chosen_heading": "Two-Stage Burning",
+      "current_heading": "Eliezer Designation",
+      "moved": true
+    }
+  }
+]

@@ -12,11 +12,6 @@ The Gemara now returns to a *Baraita* that was cited earlier concerning the posi
 
 The Gemara now presents the full text of the *Baraita*: *"Umal-ma bashem"* — four lines from the top of 13a — *"lirbos kodshim kalim shehem mamonot, divrei Rabbi Yose Haglili."* The *pasuk* in question concerns one who, while serving as a *shomer* for his fellow's property, denies holding it and takes a false oath, obligating him to bring an *asham*. The Torah characterizes this as a trespass against God. Rabbi Yose Haglili derives from this that even if the object denied was a *shelamim* or other *kodshim kalim* held for one's fellow, the denial still constitutes *v'kichash b'amito* — a wrong against one's fellow — because the *kodshim kalim* remain *mamon ba'alim*, the owner's property.
 
-## Ben Azzai Position
-
-### Shelamim Specifically
-
-Ben Azzai's position in the *Baraita* is formulated similarly but with a notable narrowing: *"lirbos es ha-shelamim"* — to include not *kodshim kalim* in general, but specifically *shelamim*, the paradigmatic form of *kodshim kalim*. This immediately raises the question of what Ben Azzai intends to exclude, and how his position differs from that of Rabbi Yose Haglili.
 
 ## Kodshim Kalim Debate (II)
 

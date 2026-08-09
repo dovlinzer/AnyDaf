@@ -1,0 +1,94 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Son's Equal Portion",
+    "candidates": [
+      "Intro & Fetus Rules",
+      "Future Children Gift",
+      "Son's Equal Portion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the six-way dispute about the older son's share, the exchange between Rabbi Abbahu and Rabbi Yirmeya about seniority vs. reasoning, and Rabbi Avin's donkey analogy \u2014 are the exact content described in the 'Son's Equal Portion' prose, which narrates this entire sequence in detail.",
+      "chosen_heading": "Son's Equal Portion",
+      "current_heading": "Son's Equal Portion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Son's Equal Portion",
+    "candidates": [
+      "Son's Equal Portion",
+      "The Terumah Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Son's Equal Portion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the 'at vachamor' dispute among Rav Na\u1e25man, Rav Hamnuna, and Rav Sheshet, which belongs under 'Son's Equal Portion' where the prose explicitly discusses the 'at vachamor' principle (kni kachamor) in the context of the older son's kinyan.",
+      "second_heading": "The Terumah Parallel",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rav Sheshet's proof from the terumah/cucumber baraita (Rabbi Yosei) and the 'at vachamor' challenge to it, which is exactly the content described in 'The Terumah Parallel' prose.",
+      "current_heading": "Son's Equal Portion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "The Terumah Parallel",
+    "candidates": [
+      "The Terumah Parallel",
+      "The Five Women Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's answer explaining why the bitter inner gourd portion is valid teruma by Torah law (citing Rabbi Ile'a's derivation), which is precisely what the prose of 'The Terumah Parallel' section describes as the resolution to the at vachamor challenge in that case.",
+      "chosen_heading": "The Terumah Parallel",
+      "current_heading": "The Terumah Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "The Five Women Case",
+    "candidates": [
+      "The Five Women Case",
+      "Silk to the House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "This passage discusses Rav Yosef's ruling that 'my property to you and your sons' gives the wife half, with supporting baraita and subsequent dispute \u2014 this is the 'half and half' division topic that fits the 'Silk to the House' section's context of property distribution to household members, and is entirely unrelated to the Five Women Case discussed in candidate 0.",
+      "chosen_heading": "Silk to the House",
+      "current_heading": "The Five Women Case",
+      "moved": true
+    }
+  }
+]

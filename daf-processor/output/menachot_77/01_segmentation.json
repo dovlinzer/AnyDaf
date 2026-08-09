@@ -83,7 +83,7 @@
           "timestamp": "21:47"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -171,7 +171,7 @@
           "timestamp": "41:27"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 8,
       "matched": true
     }
   ],
@@ -445,5 +445,7 @@
   "amud_b_segment_index": 2,
   "amud_b_timestamp": "23:12",
   "amud_b_micro_title": "Shmuel's Rules",
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "shiur_start_daf": 77,
+  "shiur_start_amud": "a"
 }

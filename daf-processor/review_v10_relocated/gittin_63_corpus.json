@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rejecting Shaliach Role",
+    "candidates": [
+      "Rejecting Shaliach Role",
+      "Holech vs. Heilech",
+      "Zachi Definition",
+      "Default Roles",
+      "Reverse Roles"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rejecting Shaliach Role",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the ta shma proof from the Mishnah and the inference that holech k'zachi dami, which is precisely what candidate 0's prose describes in detail.",
+      "second_heading": "Holech vs. Heilech",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's rejection of the proof via the heilech alternative, which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Rejecting Shaliach Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Reverse Roles",
+    "candidates": [
+      "Holech vs. Heilech",
+      "Zachi Definition",
+      "Default Roles",
+      "Reverse Roles",
+      "Women as Deliverers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Reverse Roles",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the Gemara's question about reverse roles (man for kabala, woman for holacha), the attempts to resolve from the Mishnah, and the bishnei sheluchim rejection \u2014 exactly what heading 3 'Reverse Roles' describes in its prose.",
+      "second_heading": "Women as Deliverers",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rav Mari's resolution via the Mishnah about women delivering gittin, which is precisely what heading 4 'Women as Deliverers' describes.",
+      "current_heading": "Reverse Roles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Women as Deliverers",
+    "candidates": [
+      "Women as Deliverers",
+      "Agent's Lie",
+      "Relying on Agent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about the seifa of the Mishnah establishing that a woman can serve as her own agent for delivery (holacha), which is precisely what the prose under 'Women as Deliverers' describes.",
+      "chosen_heading": "Women as Deliverers",
+      "current_heading": "Women as Deliverers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Relying on Agent",
+    "candidates": [
+      "Agent's Lie",
+      "Relying on Agent",
+      "Rav Ashi Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the case introduction and Rav's ruling for the 'Agent's Lie' scenario (wife says havei/bring, agent reports hitkabel/receive, husband says heilech kemah she'amrah), which is precisely what heading 0's prose describes, while the current heading 1 prose discusses the reasoning and inference drawn from Rav's ruling \u2014 meaning the passage was placed one heading too late.",
+      "chosen_heading": "Agent's Lie",
+      "current_heading": "Relying on Agent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rav Ashi Objects",
+    "candidates": [
+      "Relying on Agent",
+      "Rav Ashi Objects",
+      "Rejecting Delivery Role",
+      "Reinterpretation Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's opening objection ('How can these cases be compared?'), which is precisely what the 'Rav Ashi Objects' section's prose introduces and expands upon.",
+      "chosen_heading": "Rav Ashi Objects",
+      "current_heading": "Rav Ashi Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Reinterpretation Rules",
+    "candidates": [
+      "Rejecting Delivery Role",
+      "Reinterpretation Rules",
+      "Law vs. Fact",
+      "Minor Wife Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rejecting Delivery Role",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly discuss the Gemara's analysis of why Rav Nachman's ruling cannot resolve the adibura question \u2014 because the agent negated his agency entirely \u2014 which is precisely what heading 0 ('Rejecting Delivery Role') describes.",
+      "second_heading": "Reinterpretation Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Huna bar \u1e24iyya's ta shma from the Mishnah about hitkabel/holech and the Gemara's question about why the husband can appoint a shaliach l'kabala at all, resolved by keivan shenatan einav l'garsha \u2014 exactly what heading 1 ('Reinterpretation Rules') describes.",
+      "current_heading": "Reinterpretation Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Minor Wife Case",
+    "candidates": [
+      "Law vs. Fact",
+      "Minor Wife Case",
+      "Tanna Kamma Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "Minor Wife Case",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-8 continue the chain of challenges and rejections to Rav Na\u1e25man's ruling, covered by the Minor Wife Case prose which explicitly mentions the baraita permutations and back-and-forth analysis.",
+      "second_heading": "Tanna Kamma Position",
+      "second_confidence": "high",
+      "second_reason": "Items 9-13 introduce the tanna kamma/Rabbi Natan/Rabbi Yehuda HaNasi baraita about retraction rights, which is precisely what the Tanna Kamma Position prose describes.",
+      "current_heading": "Minor Wife Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Tanna Kamma Position",
+    "candidates": [
+      "Tanna Kamma Position",
+      "Rabbi Natan Position",
+      "Explicit Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are Gemara challenges and rejections testing whether the mishna supports Rabbi Natan's position (heilech vs. holech distinction), which maps directly onto the 'Rabbi Natan Position' section's prose about whether holech equals zachi according to Rabbi Natan and the question of heilech.",
+      "chosen_heading": "Rabbi Natan Position",
+      "current_heading": "Tanna Kamma Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Explicit Distinction",
+    "candidates": [
+      "Rabbi Natan Position",
+      "Explicit Distinction",
+      "Dual Agency",
+      "Both Agents",
+      "Safek Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that explicitly contrasts holech (retractable) with heilech (irretractable) and concludes heilech k'zachi, which is precisely what the 'Explicit Distinction' section's prose describes in detail.",
+      "chosen_heading": "Explicit Distinction",
+      "current_heading": "Explicit Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Safek Status",
+    "candidates": [
+      "Dual Agency",
+      "Both Agents",
+      "Safek Status",
+      "Money Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Abba citing Rav Huna citing Rav's ruling that the agent becomes both the husband's and wife's agent (*na'aseh shlucho u'shlucha*) and prescribes *chalitzah*, which is precisely what the 'Both Agents' prose discusses.",
+      "chosen_heading": "Both Agents",
+      "current_heading": "Safek Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Money Analogy",
+    "candidates": [
+      "Safek Status",
+      "Money Analogy",
+      "Rav's Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the Gemara's challenge-and-resolution sequence about the monetary analogy (holech maneh l'ploni) and the safek mamona/safek issura distinction, which is precisely what the 'Money Analogy' prose section describes.",
+      "chosen_heading": "Money Analogy",
+      "current_heading": "Money Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rav's Restriction",
+    "candidates": [
+      "Rav's Restriction",
+      "Honor Concern",
+      "Indirect Acquisition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav's restriction and Rabbi Chanina's counter-ruling, which is precisely what Candidate 0's prose introduces and discusses.",
+      "chosen_heading": "Rav's Restriction",
+      "current_heading": "Rav's Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Indirect Acquisition",
+    "candidates": [
+      "Honor Concern",
+      "Indirect Acquisition",
+      "Rabbi Chanina Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the two reasons (bizayon d'baal and chatzer haba'ah me'achareha) and the nafka mina between them \u2014 form a single continuous Gemara discussion explaining Rav's opinion, and the 'Honor Concern' heading's prose explicitly addresses both reasons and their distinction, making it the better home than 'Indirect Acquisition' which only covers the second reason in isolation.",
+      "chosen_heading": "Honor Concern",
+      "current_heading": "Indirect Acquisition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Rabbi Chanina Permits",
+    "candidates": [
+      "Indirect Acquisition",
+      "Rabbi Chanina Permits",
+      "One vs. Two Agents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of the woman kneading dough who says 'let it be in your hand,' and Rav Nachman's statement that he would rule according to Rabbi Chanina \u2014 which is precisely what the prose under 'Rabbi Chanina Permits' describes.",
+      "chosen_heading": "Rabbi Chanina Permits",
+      "current_heading": "Rabbi Chanina Permits",
+      "moved": false
+    }
+  }
+]

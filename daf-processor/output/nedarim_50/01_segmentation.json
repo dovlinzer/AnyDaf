@@ -111,7 +111,7 @@
           "timestamp": "20:54"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -150,7 +150,7 @@
           "timestamp": "34:31"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -392,5 +392,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "34:31",
+  "amud_b_micro_title": "Turnusrufus wife",
+  "shiur_start_daf": 50,
+  "shiur_start_amud": "a"
 }

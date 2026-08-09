@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Fire-Direct Vessels",
+    "candidates": [
+      "Baraita Overview",
+      "Unused Vessels",
+      "Cold-Use Vessels",
+      "Hot-Water Vessels",
+      "Fire-Direct Vessels",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the complete baraita covering all four categories of vessels, so it belongs under the 'Baraita Overview' heading which introduces it as a whole, rather than under any single sub-category heading.",
+      "chosen_heading": "Baraita Overview",
+      "current_heading": "Fire-Direct Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Fire-Direct Vessels",
+      "Baraita Contradiction",
+      "Noten Ta'am Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the bediavad contradiction and its lo kashya resolution, which is precisely what the 'Baraita Contradiction' prose describes \u2014 the two baraitot and the gemara's note that it is not a genuine contradiction.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Noten Ta'am Debate",
+    "candidates": [
+      "Noten Ta'am Debate",
+      "Hagala + Toveling",
+      "Toveling Prohibition",
+      "Toveling Order",
+      "Torah's Ben Yomo Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "This Gemara passage directly asks how the Torah's prohibition on gentile utensils can exist if noten ta'am lifgam is permitted \u2014 exactly the question that candidate 4's prose addresses, leading to Rabbi Chiya's answer about ben yomo vessels.",
+      "chosen_heading": "Torah's Ben Yomo Ban",
+      "current_heading": "Noten Ta'am Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Torah's Ben Yomo Ban",
+    "candidates": [
+      "Hagala + Toveling",
+      "Toveling Prohibition",
+      "Toveling Order",
+      "Torah's Ben Yomo Ban",
+      "Bad Taste Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24iyya's statement that the Torah forbade only a ben yomo vessel because it does not impart deteriorated flavor, which is precisely what the prose of 'Torah's Ben Yomo Ban' describes and analyzes.",
+      "chosen_heading": "Torah's Ben Yomo Ban",
+      "current_heading": "Torah's Ben Yomo Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Bad Taste Rationale",
+    "candidates": [
+      "Bad Taste Rationale",
+      "Rashi's Night Definition",
+      "Eino Ben Yomo Use",
+      "Pottery Vessels",
+      "Post-Kasher Taste",
+      "Libun vs Hagala"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eino Ben Yomo Use",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the gzeirah kdeira she'eina bat yoma mishum kdeira bat yoma \u2014 the rabbinic decree against using eino ben yomo vessels \u2014 which is exactly what candidate 2 'Eino Ben Yomo Use' describes.",
+      "second_heading": "Bad Taste Rationale",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the opposing tanna's view that kdeira bat yoma nami mifgam pagma, which is explicitly quoted and discussed in candidate 0 'Bad Taste Rationale' as proof that the other school holds noten ta'am lifgam assur.",
+      "current_heading": "Bad Taste Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Libun vs Hagala",
+    "candidates": [
+      "Rashi's Night Definition",
+      "Eino Ben Yomo Use",
+      "Pottery Vessels",
+      "Post-Kasher Taste",
+      "Libun vs Hagala",
+      "Heteira vs Issura",
+      "Rava's Challenge",
+      "Hagala Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer exchange between Rav Amram and Rav Sheshet about the contradiction between libun for non-Jewish spits and hagala for sacrificial spits, which is precisely what heading 4 ('Libun vs Hagala') describes \u2014 the contradiction and its resolution (heteira vs issura) are treated as one unit here, and heading 5 covers Rav Sheshet's answer in its own prose section while heading 4's prose explicitly describes this Rav Amram/Rav Sheshet exchange as a whole.",
+      "chosen_heading": "Libun vs Hagala",
+      "current_heading": "Libun vs Hagala",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Hagala Definition",
+    "candidates": [
+      "Heteira vs Issura",
+      "Rava's Challenge",
+      "Hagala Definition",
+      "Abaye Rejects",
+      "Both Sources Needed",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's challenge that 'ultimately it emits forbidden flavor' (sof sof issura ka palit), which matches heading 1 'Rava's Challenge' whose prose explicitly describes this argument.",
+      "second_heading": "Abaye Rejects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye rejecting Rava's merika/shtifa interpretation with 'mi dami \u2014 merika v'shtifa b'tzinuni, hagala b'chamimin', which matches heading 3 'Abaye Rejects' whose prose explicitly describes this exact objection.",
+      "current_heading": "Hagala Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Abaye Rejects",
+      "Both Sources Needed",
+      "Rava's Logic",
+      "Daily Hagala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's structural objection to Abaye's 'yagid alav re'o' resolution, which is precisely what the 'Rava's Logic' section prose describes.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Rava's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Daily Hagala",
+    "candidates": [
+      "Daily Hagala",
+      "Shelamim Logic",
+      "Chatas Complexity",
+      "Daily Alternation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement introducing the principle of 'each day constitutes purging for the other day' (kol yom v'yom na'aseh gi'ul l'chavero), which is precisely the teaching that the 'Daily Hagala' section's prose describes as the foundation of that section's argument.",
+      "chosen_heading": "Daily Hagala",
+      "current_heading": "Daily Hagala",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Daily Alternation",
+    "candidates": [
+      "Shelamim Logic",
+      "Chatas Complexity",
+      "Daily Alternation",
+      "Hagala Puzzle",
+      "Ease of Extraction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Chatas Complexity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the chatas complexity objection and the gemara's proposed daily alternation solution (cook chatas then shelamim on the same day), which corresponds to the 'Chatas Complexity' and 'Daily Alternation' prose \u2014 but since items 1-3 form one continuous chain of objection-and-resolution, they belong together under 'Chatas Complexity' which introduces the problem that items 2-3 then resolve, matching the current passage's specific content about the chatas timing problem and the proposed fix.",
+      "second_heading": "Hagala Puzzle",
+      "second_confidence": "high",
+      "second_reason": "Item 4 ('if so, hagala is also unnecessary \u2014 kashya') is precisely the content described under 'Hagala Puzzle', which discusses the gemara's follow-up challenge that if daily cooking performs continuous hagala, why does the mishna require hagala at all, ending with kashya.",
+      "current_heading": "Daily Alternation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Ease of Extraction",
+    "candidates": [
+      "Hagala Puzzle",
+      "Ease of Extraction",
+      "Heteira Bala Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about karid/lo karid (crusty vs. not crusty), which corresponds exactly to the 'Ease of Extraction' section's prose discussing hai karid v'hai lo karid and how embedded absorbed taste differs based on frequency of use.",
+      "chosen_heading": "Ease of Extraction",
+      "current_heading": "Ease of Extraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Heteira Bala Rule",
+    "candidates": [
+      "Heteira Bala Rule",
+      "Libun Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core of Rav Ashi's resolution \u2014 the heteira bala/issura bala distinction and the be'ein objection-and-answer \u2014 which is precisely what the 'Heteira Bala Rule' prose discusses in detail.",
+      "chosen_heading": "Heteira Bala Rule",
+      "current_heading": "Heteira Bala Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Libun Measure",
+    "candidates": [
+      "Libun Measure",
+      "Small Pot Method",
+      "Large Pot Problem",
+      "Dough Rim Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the libun question (Rabbi Mani's answer about shedding the outer layer) and the hagala question (Rav Huna's answer about small kettle in large kettle), and the current placement under 'Libun Measure' is where the combined passage sits, with the essay having split the prose discussion across two headings \u2014 but the single Talmudic excerpt belongs under its current heading (index 0) since it opens with the libun question which is the primary topic of that section.",
+      "chosen_heading": "Libun Measure",
+      "current_heading": "Libun Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Dough Rim Solution",
+    "candidates": [
+      "Small Pot Method",
+      "Large Pot Problem",
+      "Dough Rim Solution",
+      "Bolo Kach Polto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'what does one do with a large kettle?' and introduces the incident of Rav Akavya's cauldron, which precisely matches the 'Large Pot Problem' section's prose about 'yora gedola mai \u2014 what does one do with a large pot that cannot fit inside another vessel?'",
+      "chosen_heading": "Large Pot Problem",
+      "current_heading": "Dough Rim Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Bolo Kach Polto",
+    "candidates": [
+      "Dough Rim Solution",
+      "Bolo Kach Polto",
+      "Knife Friction",
+      "Ground Stabbing",
+      "Good Knife",
+      "Cold Use Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's statement about who was clever enough to devise this solution and the principle of kebolo kach polto, which is precisely what the 'Bolo Kach Polto' section's prose discusses.",
+      "chosen_heading": "Bolo Kach Polto",
+      "current_heading": "Bolo Kach Polto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Cold Use Only",
+    "candidates": [
+      "Knife Friction",
+      "Ground Stabbing",
+      "Good Knife",
+      "Cold Use Only",
+      "Bati Bar Tuvia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all aspects of knife kashering \u2014 polishing, ground-stabbing, the good-knife qualification, and the cold-use limitation \u2014 and belongs under the first heading 'Knife Friction' which introduces the knife kashering discussion, with the subsequent headings being redundant sub-divisions of this single Talmudic passage.",
+      "chosen_heading": "Knife Friction",
+      "current_heading": "Cold Use Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Bati Bar Tuvia",
+    "candidates": [
+      "Cold Use Only",
+      "Bati Bar Tuvia",
+      "Final Narrative",
+      "Thematic Arc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the main story of Mar Yehuda and Bati bar Tuvia before King Shapur, and the alternative version referencing 'what you did last night' \u2014 are precisely the narrative described in the 'Bati Bar Tuvia' section's prose, which explicitly covers both versions of the exchange.",
+      "chosen_heading": "Bati Bar Tuvia",
+      "current_heading": "Bati Bar Tuvia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Thematic Arc",
+    "candidates": [
+      "Final Narrative",
+      "Thematic Arc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Hadran formula concluding Masechet Avodah Zarah, which the 'Thematic Arc' prose explicitly quotes and discusses as the closing of the tractate.",
+      "chosen_heading": "Thematic Arc",
+      "current_heading": "Thematic Arc",
+      "moved": false
+    }
+  }
+]

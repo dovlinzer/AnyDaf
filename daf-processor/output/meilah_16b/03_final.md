@@ -1,7 +1,7 @@
-# Meilah 16b — Daf Yomi Shiur
 [DAF:16a]
-
 ## Me'ilah Principles
+
+
 
 ### Kodshei Mizbe'ach Combo
 
@@ -11,22 +11,19 @@ The perek opened by teaching that one can combine *me'ilah* liability even acros
 
 ### Nevelos & Sheratzim
 
-> **Hebrew/Aramaic:** כׇּל הַנְּבֵילוֹת – מִצְטָרְפִין זוֹ עִם זוֹ. וְכׇל הַשְּׁקָצִים – מִצְטָרְפִין זֶה עִם זֶה.
->
-> **Translation:** MISHNA: **All animal carcasses,** whose consumption is prohibited and which transmit impurity through contact with them and through carrying, **join together with one another** to constitute the requisite olive-bulk measure. **And all repugnant creatures join together with one another** to constitute the requisite olive-bulk measure to render one who consumes it liable to receive lashes. The eight creeping animals enumerated in the Torah join together to constitute the measure of a lentil-bulk, which transmits impurity through contact, and to render one who consumes it liable to receive lashes.
-
 With that background, the Mishna goes on to discuss other categories that combine, stating that all *nevelos* combine and all *sheratzim* combine. Regarding *nevelos*: at minimum, this means that half a *kezayit* from one carcass and half a *kezayit* from another combine for *tumah*. But the Mishna may also intend combination for the *issur achila* — the eating prohibition. This raises the question of whether a dead non-kosher animal, say a dead pig, carries only the prohibition of *chazir* or whether it also carries the status of *neveilah*. The principle of *issur chal al issur* becomes relevant here: if it does also carry *neveilah* status, then half a *kezayit* of pig and half a *kezayit* of a dead cow would combine for the *issur* of *neveilah*. Whether the Mishna intends this remains an open question; at minimum, the combination applies to *tumah*.
 
 We turn now to the second part of the Mishna: the *tumah* of *sheratzim* combines — that is, half a *shiur* from one type of crawling creature and half a *shiur* from another type combine. The question before us is the same: does this combination apply to *achila*, to *tumah*, or to both?
 
 ## Sheratzim Eating Shiur
 
+
+
 [DAF:16b]
 ### Rav: Kezayit Shiur
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה, אָמַר רַב: אֲכִילַת שְׁרָצִים – לוֹקֶה עָלָיו בִּכְזַיִת. מַאי טַעְמָא? ׳אֲכִילָה׳ כְּתִיב בְּהוּ.
->
-> **Translation:** § **Rav Yehuda says** that **Rav says:** With regard to **eating creeping animals,** one **is flogged for** eating **an olive-bulk** of them. **What is the reason?** It is because the term **"eating" is written** in the Torah **with regard to them.** The verse states: "And every creeping thing that swarms upon the earth is a detestable thing; it shall not be eaten" (Leviticus 11:41). The term "eating" is invariably referring to consuming an olive-bulk.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה, אָמַר רַב: אֲכִילַת שְׁרָצִים – לוֹקֶה עָלָיו בִּכְזַיִת. מַאי טַעְמָא? ׳אֲכִילָה׳ כְּתִיב בְּהוּ.
+> **Translation:** § **Rav Yehuda says** that **Rav says:** With regard to **eating creeping animals,** one **is flogged for** eating **an olive-bulk** of them. **What is the reason?** It is because the term **“eating” is written** in the Torah **with regard to them.** The verse states: “And every creeping thing that swarms upon the earth is a detestable thing; it shall not be eaten” (Leviticus 11:41). The term “eating” is invariably referring to consuming an olive-bulk.
 
 At the top of 16b, Rav Yehuda states in the name of Rav: *achilat sheratzim lokeh alav be-kezayit* — one who eats *sheratzim* receives lashes upon eating a *kezayit*. At first glance this seems unremarkable, since a *kezayit* is the standard measure for eating prohibitions. One might raise the principle of *beriya* — that eating a whole creature, even smaller than a *kezayit*, could itself trigger lashes according to certain opinions (as associated with Rabbi Eliezer). But setting aside the *beriya* question, and assuming either that ruling is not the operative *halacha* or that we are dealing with partial portions rather than whole creatures, Rav's statement that the *shiur* is a *kezayit* would seem to be the straightforward rule.
 
@@ -34,15 +31,13 @@ It is worth noting that the Mishna uses the term *shkatzim* while Rav's statemen
 
 ### Shemini Braisah
 
-> **Hebrew/Aramaic:** וְהָתָנֵי רַבִּי יוֹסֵי בַּר רַבִּי חֲנִינָא קַמֵּיהּ דְּרַבִּי יוֹחָנָן: ״וְהִבְדַּלְתֶּם בֵּין הַבְּהֵמָה הַטְּהֹרָה לַטְּמֵאָה וּבֵין הָעוֹף הַטָּמֵא לַטָּהֹר וְלֹא תְשַׁקְּצוּ אֶת נַפְשֹׁתֵיכֶם בַּבְּהֵמָה וּבָעוֹף וּבְכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה אֲשֶׁר הִבְדַּלְתִּי לָכֶם לְטַמֵּא״ – פָּתַח הַכָּתוּב בַּאֲכִילָה, וְסִיֵּים בְּטוּמְאָה.
->
-> **Translation:** The Gemara raises a difficulty. **But didn't Rabbi Yosei bar Rabbi Ḥanina teach** the following *baraita* **before Rabbi Yoḥanan:** The verse states: **"You shall separate between the kosher animal and the non-kosher, and between the non-kosher bird and the kosher; and you shall not make your souls detestable by animal, or by bird, or by anything that swarms on the ground, which I have set apart for you as impure"** (Leviticus 20:25). **The verse opens with eating** creeping animals, in the phrase "You shall not make your souls detestable," **and** it **ends with** the **ritual impurity** of creeping animals: "Which I have set apart for you as impure."
+> **Hebrew/Aramaic:** וְהָתָנֵי רַבִּי יוֹסֵי בַּר רַבִּי חֲנִינָא קַמֵּיהּ דְּרַבִּי יוֹחָנָן: ״וְהִבְדַּלְתֶּם בֵּין הַבְּהֵמָה הַטְּהֹרָה לַטְּמֵאָה וּבֵין הָעוֹף הַטָּמֵא לַטָּהֹר וְלֹא תְשַׁקְּצוּ אֶת נַפְשֹׁתֵיכֶם בַּבְּהֵמָה וּבָעוֹף וּבְכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה אֲשֶׁר הִבְדַּלְתִּי לָכֶם לְטַמֵּא״ – פָּתַח הַכָּתוּב בַּאֲכִילָה, וְסִיֵּים בְּטוּמְאָה.
+> **Translation:** The Gemara raises a difficulty. **But didn’t Rabbi Yosei bar Rabbi Ḥanina teach** the following *baraita* **before Rabbi Yoḥanan:** The verse states: **“You shall separate between the kosher animal and the non-kosher, and between the non-kosher bird and the kosher; and you shall not make your souls detestable by animal, or by bird, or by anything that swarms on the ground, which I have set apart for you as impure”** (Leviticus 20:25). **The verse opens with eating** creeping animals, in the phrase “You shall not make your souls detestable,” **and** it **ends with** the **ritual impurity** of creeping animals: “Which I have set apart for you as impure.”
+
+> **Hebrew/Aramaic:** מָה טוּמְאָה בְּכַעֲדָשָׁה, אַף אֲכִילָה בְּכַעֲדָשָׁה. וְקַלְּסֵיהּ רַבִּי יוֹחָנָן, וְקַשְׁיָא לִדְרַב!
+> **Translation:** The *baraita* explains: This teaches that **just as** the carcass of a creeping animal imparts **ritual impurity** through contact **when** it is the volume of **a lentil-bulk, so too,** one is liable for the prohibition of **eating** a creeping animal **when** it is the volume of **a lentil-bulk. And Rabbi Yoḥanan praised [*vekilseih*]** Rabbi Yosei bar Rabbi Ḥanina for citing this *baraita*. **And** this poses **a difficulty to** the opinion of **Rav,** who maintains that one is flogged only if he eats an olive-bulk of creeping animals.
 
 The Gemara then cites a challenge from a *braisa* taught by Rav Yosef b'Rabbi Chanina before Rabbi Yochanan. The *braisa* draws on the passage at the end of *Parshas Shemini*: *ve-hivdaltem bein ha-behemah ha-tehorah la-tme'ah u-vein ha-of ha-tamei la-tahor* — you shall distinguish between the kosher and non-kosher animal and between the non-kosher and kosher bird. The Torah's use of *tamei* and *tahor* in reference to birds is notable: the Torah never speaks of birds as *tamei* in the sense of the laws of *tumah v'taharah*; it speaks only of their being kosher or not kosher. The verse continues: *ve-lo tishaktzu es nafshoseichem ba-behemah uva-of u-ve-chol asher tirmos ha-adamah asher hivdalti lachem l'tamei* — do not abominate yourselves with animals, birds, and all that creeps on the ground, which I have separated out for you to be *tamei*.
-
-> **Hebrew/Aramaic:** מָה טוּמְאָה בְּכַעֲדָשָׁה, אַף אֲכִילָה בְּכַעֲדָשָׁה.
->
-> **Translation:** The *baraita* explains: This teaches that **just as** the carcass of a creeping animal imparts **ritual impurity** through contact **when** it is the volume of **a lentil-bulk, so too,** one is liable for the prohibition of **eating** a creeping animal **when** it is the volume of **a lentil-bulk.**
 
 The *braisa* observes that *pasach ha-kasuv b'achila* — the verse opens with a form of *tumah* that refers to eating, since the distinctions between *behemah* and *of* described in *Parshas Shemini* concern kosher and non-kosher status, not *tumah v'taharah* in the ritual sense. As Rashi and Tosafos note, *ve-lo tishaktzu es nafshoseichem* — "do not abominate your souls" — speaks to what one ingests, and is thus about transgression rather than *tumah* in the ritual-purity sense. Then *ve-siyem b'tumah* — and the verse closes with literal *tumah*, as indicated by the phrase *asher hivdalti lachem l'tamei*, which Tosafos reads as meaning "that transmit *tumah*" — i.e., creatures whose contact or consumption renders one or other things *tamei* in the ritual sense. The verse thus uses *tumah* in both senses: the prohibition of eating non-kosher food, and the transmission of ritual impurity.
 
@@ -50,16 +45,11 @@ The purpose of combining both senses within one verse is to derive the following
 
 One might ask why the *shiur* for *tumah* by *sheratzim* is a *k'adasha* in the first place. The general answer would be that *shiurim* are *halacha l'Moshe mi-Sinai*. But if the *shiurim* are all *halacha l'Moshe mi-Sinai*, one would not need a verse to link the two, since the *shiur* for eating is independently assumed to be a *kezayit* by *halacha l'Moshe mi-Sinai*. Tosafos brings a *drasha* based on the word *mehem u-vahem* — the Torah understands that some of these rodents begin their existence at the size of a lentil bean, and the word *bahem* ("in their entirety") establishes the smallest complete form as the paradigm, giving us the *k'adasha* for *tumah*. The *shiur* for *tumah* by *behemah* and *of* being a *kezayit* likely derives from a separate *drasha* or *halacha l'Moshe mi-Sinai* assumption — this would require further verification.
 
-> **Hebrew/Aramaic:** וְקַלְּסֵיהּ רַבִּי יוֹחָנָן, וְקַשְׁיָא לִדְרַב!
->
-> **Translation:** **And Rabbi Yoḥanan praised [*vekilseih*]** Rabbi Yosei bar Rabbi Ḥanina for citing this *baraita*. **And** this poses **a difficulty to** the opinion of **Rav,** who maintains that one is flogged only if he eats an olive-bulk of creeping animals.
-
 Rabbi Yochanan praised this *braisa* enthusiastically. The Gemara is not inclined to posit a direct dispute between Rav and Rabbi Yochanan, so it must reconcile Rav's statement that the *shiur* for eating *sheratzim* is a *kezayit* with Rabbi Yochanan's endorsement of the *k'adasha* ruling.
 
 ### Alive vs. Dead
 
-> **Hebrew/Aramaic:** לָא קַשְׁיָא: כָּאן – בְּמִיתָתָן, כָּאן – בְּחַיֵּיהֶן.
->
+> **Hebrew/Aramaic:** לָא קַשְׁיָא: כָּאן – בְּמִיתָתָן, כָּאן – בְּחַיֵּיהֶן.
 > **Translation:** The Gemara answers: This is **not difficult. Here,** the *baraita* is referring to eating creeping animals **when they are dead,** at which stage they impart ritual impurity and one is liable for eating a lentil-bulk. By contrast, **there,** Rav is speaking about eating creeping animals **when they are alive,** which do not yet impart ritual impurity. For this reason one is flogged only if he eats an olive-bulk.
 
 The Gemara resolves the apparent contradiction: *lo kashya — kan be-mitatan, kan be-chayeihen*. The distinction depends on whether the *sheratzim* are dead or alive. When they are dead, they transmit *tumah* — these eight species enumerated by the Torah (the *choled*, *achbar*, *tzav*, and the rest) transmit *tumah* when dead, and the *shiur* for that *tumah* is a *k'adasha*. Since the verse links eating to *tumah*, eating dead *sheratzim* is governed by the *k'adasha* measure. When they are alive, they do not transmit *tumah*, so the linkage between eating and *tumah* does not apply, and the standard *kezayit* governs. Rav's statement therefore refers to living *sheratzim*, while the *braisa* praised by Rabbi Yochanan refers to dead ones.
@@ -68,11 +58,9 @@ This resolution prompts an important clarification. The prohibition of eating li
 
 ## Rav's Intent Debate
 
-### Abaye's Objection
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: וְהָא רַב אַמַּתְנִיתִין קָאֵי, וּמַתְנִיתִין ״כׇּל הַשְּׁרָצִים״ קָתָנֵי, אֲפִילּוּ בְּמִיתָתָן. לָאו דְּאִיכָּא פּוּרְתָּא מֵהַאי וּפוּרְתָּא מֵהַאי? אֲמַר לֵיהּ רַב יוֹסֵף: הָהִיא דִּיּוּקָא דִּילָךְ הוּא. רַב – שְׁמַעְתָּא בְּעָלְמָא קָאָמַר.
->
-> **Translation:** **Abaye said to** Rav Yosef: **But** in his statement **Rav** was **referring to the mishna, and the mishna teaches: And all the creeping animals** join together to constitute the requisite olive-bulk measure to render one who consumes it liable to receive lashes. This indicates that this *halakha* applies **even when they are dead.** Is the mishna **not** referring to a case **where there is a bit of this** live creeping animal **and a bit of that** carcass of a creeping animal, which together combine to amount to an olive-bulk? **Rav Yosef said to** Abaye: **This** deductive **inference,** that Rav is referring to the mishna, **is yours.** But in fact **Rav** was **merely saying a *halakha*** unconnected to the mishna. Therefore, there is no proof that Rav was speaking about the carcasses of creeping animals.
+
+### Abaye's Objection
 
 The Gemara now raises a further question: Abaye objects that Rav's statement must be understood as a commentary on the Mishna. The Mishna states that all *sheratzim* combine — *kol ha-sheratzim katani* — and this implies all *sheratzim*, even dead ones. When Rav said the *shiur* for eating *sheratzim* is a *kezayit*, Abaye reads this as an explanation of the Mishna: the Mishna's statement that *sheratzim* combine means they combine for a *kezayit* for the eating prohibition, even for dead *sheratzim*. If Rav was commenting on the Mishna, he could not be limiting his ruling to living creatures, since the Mishna's language is categorical and encompasses all *sheratzim* alike, whether alive or dead.
 
@@ -80,17 +68,18 @@ There is an additional reason to believe Rav was commenting on the Mishna: we sa
 
 ### Rav Yosef Response
 
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: וְהָא רַב אַמַּתְנִיתִין קָאֵי, וּמַתְנִיתִין ״כׇּל הַשְּׁרָצִים״ קָתָנֵי, אֲפִילּוּ בְּמִיתָתָן. לָאו דְּאִיכָּא פּוּרְתָּא מֵהַאי וּפוּרְתָּא מֵהַאי? אֲמַר לֵיהּ רַב יוֹסֵף: הָהִיא דִּיּוּקָא דִּילָךְ הוּא. רַב – שְׁמַעְתָּא בְּעָלְמָא קָאָמַר.
+> **Translation:** **Abaye said to** Rav Yosef: **But** in his statement **Rav** was **referring to the mishna, and the mishna teaches: And all the creeping animals** join together to constitute the requisite olive-bulk measure to render one who consumes it liable to receive lashes. This indicates that this *halakha* applies **even when they are dead.** Is the mishna **not** referring to a case **where there is a bit of this** live creeping animal **and a bit of that** carcass of a creeping animal, which together combine to amount to an olive-bulk? **Rav Yosef said to** Abaye: **This** deductive **inference,** that Rav is referring to the mishna, **is yours.** But in fact **Rav** was **merely saying a *halakha*** unconnected to the mishna. Therefore, there is no proof that Rav was speaking about the carcasses of creeping animals.
+
 Rav Yosef responds to Abaye: *hahi diyuka dilchu* — that inference is yours, not mine. The reading that Rav was commenting on the Mishna is Abaye's interpretive choice, not an established fact. Rav Yosef holds that Rav simply made an independent statement (*shme'ata b'alma*), not a commentary on the Mishna. Since the statement is free-standing, it can be understood as referring specifically to living *sheratzim*, without any obligation to address the case of dead ones. Some textual witnesses have a more colorful formulation: *hahi dufka didach* — "that is your way of pasting things together," meaning Abaye is the one conflating Rav's statement with the Mishna. According to this reading, the juxtaposition of Rav's statement with the Mishna's language is Abaye's construction, not Rav's intent.
 
 The Gemara's conclusion, then, is that Rav spoke of living *sheratzim* — where the *shiur* for eating is a *kezayit* — while for dead *sheratzim*, which transmit *tumah* at the *k'adasha* measure, eating is likewise governed by the *k'adasha*.
 
 ## Rabbi Yochanan Limbs
 
-### Limbs & Tumah
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: הָאֵיבָרִין – אֵין לָהֶן שִׁיעוּר, אֲפִילּוּ פָּחוֹת מִכְּזַיִת נְבֵלָה וּפָחוֹת מִכַּעֲדָשָׁה מִן הַשֶּׁרֶץ – מְטַמְּאִין.
->
-> **Translation:** The Gemara **raises an objection** from a mishna (*Oholot* 1:7): **The** whole **limbs** of impure bodies **have no minimum measure** with regard to imparting ritual impurity. **Even** if the limbs were **less than an olive-bulk of a carcass or less than a lentil-bulk of a creeping animal,** they **impart** ritual **impurity.**
+
+### Limbs & Tumah
 
 The Gemara now presents a challenge to the position of Rabbi Yochanan. A *braisa* teaches: *evarim ein lahem shiur* — limbs have no minimum measure. *Afilu pachos mi-kezayit neveilah, pachos mi-k'adasha min ha-sheretz metamei* — even less than a *kezayit* of *neveilah*, or less than a *k'adasha* of a *sheretz*, transmits *tumah*, provided it constitutes a complete limb. This principle applies to *tumah* transmission. A complete limb of a *neveilah* causes *tumah* even if it is less than a *kezayit*, and a complete limb of a *sheretz* causes *tumah* even if it is less than a *k'adasha*. A practical illustration would be some very small appendage — whatever constitutes a halachically meaningful *ever*, which typically requires *basar ve-gidim ve-atzamos* in combination, though the exact parameters of that requirement as applied to small creatures deserve separate analysis.
 
@@ -98,17 +87,16 @@ This is not about *ever min ha-chai*, since these are dead animals, and as estab
 
 ### Lashes Kezayit Only
 
-> **Hebrew/Aramaic:** וְאָמַר רַבִּי יוֹחָנָן: אֵין לוֹקִין עֲלֵיהֶן אֶלָּא בִּכְזַיִת!
->
-> **Translation:** **And Rabbi Yoḥanan says:** This mishna is referring to the *halakhot* of ritual impurity; but with regard to the minimum measure which renders one liable for consumption, **one is flogged for** eating **them only** if they amount to **an olive-bulk.**
-
 Against the backdrop of this *braisa*, Rabbi Yochanan states: *ein lokin aleihem ela be-kezayit* — one does not receive lashes for them unless one eats a *kezayit*. Here Rabbi Yochanan appears to be speaking about dead *sheratzim* and ruling that the eating *shiur* requires a *kezayit* — yet earlier Rabbi Yochanan praised a *braisa* that equated the eating *shiur* to the *tumah shiur* of *k'adasha*. The tension is apparent: one statement endorses *k'adasha* for eating *sheratzim*, the other demands *kezayit*.
+
+> **Hebrew/Aramaic:** וְקַלְּסֵיהּ רַבִּי יוֹחָנָן. מֵיתִיבִי: הָאֵיבָרִין – אֵין לָהֶן שִׁיעוּר, אֲפִילּוּ פָּחוֹת מִכְּזַיִת נְבֵלָה וּפָחוֹת מִכַּעֲדָשָׁה מִן הַשֶּׁרֶץ – מְטַמְּאִין. וְאָמַר רַבִּי יוֹחָנָן: אֵין לוֹקִין עֲלֵיהֶן אֶלָּא בִּכְזַיִת!
+> **Translation:** The Gemara stated: **And Rabbi Yoḥanan praised** Rabbi Yosei bar Rabbi Ḥanina for citing the *baraita* that rules that one is liable for violating the prohibition of eating a creeping animal by the amount of a lentil-bulk. The Gemara **raises an objection** from a mishna (*Oholot* 1:7): **The** whole **limbs** of impure bodies **have no** minimum **measure** with regard to imparting ritual impurity. **Even** if the limbs were **less than an olive-bulk of a carcass or less than a lentil-bulk of a creeping animal,** they **impart** ritual **impurity. And Rabbi Yoḥanan says:** This mishna is referring to the *halakhot* of ritual impurity; but with regard to the minimum measure which renders one liable for consumption, **one is flogged for** eating **them only** if they amount to **an olive-bulk.**
 
 ### Muvdalim Doctrine
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: בְּמוּבְדָּלִין דִּבֵּר הַכָּתוּב.
->
-> **Translation:** **Rava says** in resolution of the apparent contradiction between Rabbi Yoḥanan's statements: When Rabbi Yoḥanan said that one is flogged for eating even a lentil-bulk of a creeping animal, he was referring only to those eight creeping animals of which **the verse speaks, which are separated** from all other creeping animals. The Torah (Leviticus 11:29–32) lists eight types of creeping animals, and Rabbi Yoḥanan was referring specifically to those eight. He maintains that one is flogged for eating a lentil-bulk of such creatures, whereas in the case of other creeping animals one is flogged only for eating an olive-bulk of them.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: בְּמוּבְדָּלִין דִּבֵּר הַכָּתוּב.
+> **Translation:** **Rava says** in resolution of the apparent contradiction between Rabbi Yoḥanan’s statements: When Rabbi Yoḥanan said that one is flogged for eating even a lentil-bulk of a creeping animal, he was referring only to those eight creeping animals of which **the verse speaks, which are separated** from all other creeping animals. The Torah (Leviticus 11:29–32) lists eight types of creeping animals, and Rabbi Yoḥanan was referring specifically to those eight. He maintains that one is flogged for eating a lentil-bulk of such creatures, whereas in the case of other creeping animals one is flogged only for eating an olive-bulk of them.
 
 Rava resolves the contradiction: *bi-muvdalim diber ha-kasuv* — the verse is speaking about the *muvdalim*, the "separated-out" ones. The concluding phrase of the verse is *asher hivdalti lachem l'tamei* — which I separated out for you to be *tamei*. Among *sheratzim*, there is a genuine internal distinction: some cause *tumah* (the eight enumerated species when dead) and some do not. This internal differentiation is precisely what *asher hivdalti* describes. The verse's equation of eating with *tumah* — such that the *shiur* for eating mirrors the *shiur* for *tumah* — is derived specifically from this phrase, and therefore applies only to *sheratzim*, where such a distinction between *tamei* and non-*tamei* exists.
 
@@ -118,21 +106,21 @@ The underlying logic is now clear. Rabbi Yochanan had derived, from the verse, t
 
 ### Adda Challenge
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַדָּא בַּר אַהֲבָה לְרָבָא: אֶלָּא מֵעַתָּה, בְּהֵמָה נָמֵי, לִיפְלְגִי בֵּין מוּבְדֶּלֶת לְשֶׁאֵינָהּ מוּבְדֶּלֶת.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַדָּא בַּר אַהֲבָה לְרָבָא: אֶלָּא מֵעַתָּה, בְּהֵמָה נָמֵי, לִיפְלְגִי בֵּין מוּבְדֶּלֶת לְשֶׁאֵינָהּ מוּבְדֶּלֶת.
 > **Translation:** **Rav Adda bar Ahava said to Rava: If that is so,** that there is a difference in the measure of liability for consumption between various types of creeping animals, the same should **also** apply with regard to **an animal.** Since the Torah in Leviticus 20:25 juxtaposes both kosher animals and non-kosher animals to creeping animals, one can say that an analogous difference should apply here as well: **Let** the *halakha* **distinguish between** flesh from the carcass of kosher animals, which is **separated** from other types in that it is permitted in consumption by the Torah, and flesh from the carcass of a non-kosher animal, **which is not separated,** i.e., which is not permitted by the Torah. Consequently, if the carcass of a kosher animal imparts ritual impurity by the amount of an olive-bulk of flesh, the measure of flesh from the carcass of a non-kosher animal that imparts ritual impurity should be larger, i.e., an egg-bulk.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: כִּי קָא מַקֵּישׁ רַחֲמָנָא – לְבַל תְּשַׁקְּצוּ, אֲבָל לְשִׁיעוּרִין – לָא.
+> **Translation:** Rava **said to** Rav Adda bar Ahava: **When the Merciful One juxtaposes** kosher and non-kosher animals to creeping animals, this is referring **to** the prohibition of: “You shall **not make** your souls **detestable”** (Leviticus 20:25), teaching that they are all included in that prohibition. **But with regard to measures** the Torah does **not** juxtapose those animals to creeping animals. For this reason there is no difference between the measure of impurity of carcasses of kosher animals and non-kosher animals.
 
 Adda bar Ahava challenges Rava. If the *muvdalim* principle is what distinguishes *sheratzim* from everything else, then why not apply an analogous distinction within *behemah* — between those *behemos* that cause *tumah* (as dead animals) and those that do not, and link eating to *tumah* for the former category? As Tosafos explains, the thrust of the question is: even granting that the end of the verse focuses on *sheratzim*, the entire verse encompasses *behemah* and *of* as well — *ve-hivdaltem bein ha-behemah ha-tehorah la-tme'ah u-vein ha-of ha-tamei la-tahor* — and the verse links all of these categories together. Why should the halacha derived from the verse's conclusion, equating eating *shiur* with *tumah shiur*, be limited to *sheratzim*? Let the same logic apply to *behemah* by virtue of the verse's broader scope.
 
 ### Bal Teshaktzu
 
-> **Hebrew/Aramaic:** אָמַר לֵיהּ: כִּי קָא מַקֵּישׁ רַחֲמָנָא – לְבַל תְּשַׁקְּצוּ, אֲבָל לְשִׁיעוּרִין – לָא.
->
-> **Translation:** Rava **said to** Rav Adda bar Ahava: **When the Merciful One juxtaposes** kosher and non-kosher animals to creeping animals, this is referring **to** the prohibition of: "You shall **not make** your souls **detestable"** (Leviticus 20:25), teaching that they are all included in that prohibition. **But with regard to measures** the Torah does **not** juxtapose those animals to creeping animals. For this reason there is no difference between the measure of impurity of carcasses of kosher animals and non-kosher animals.
-
 Rava responds: *ki kamakish Rachmana l'val teshaktzu, aval l'shiurim lo* — when the Torah links these categories together, it does so for the prohibition of *bal teshaktzu*, not for the equation of *shiurim*. The verse *ve-lo tishaktzu es nafshoseichem ba-behemah uva-of u-ve-chol asher tirmos ha-adamah asher hivdalti lachem l'tamei* does indeed encompass *behemah*, *of*, and *sheratzim* together — but the purpose of that encompassing is to establish that eating from any of these categories incurs the *lav* of *bal teshaktzu* in addition to all the other specific prohibitions. The verse does not create a universal equation between *tumah shiurim* and eating *shiurim* across all categories. That equation — *ma tumah b'kha-adasha af achila b'kha-adasha* — is specific to the *muvdalim*, the *sheratzim* singled out by *asher hivdalti*, and is not exported to *behemah*.
 
 ## Conclusion & Transition
+
+
 
 ### Final Sheratzim Ruling
 

@@ -19,8 +19,8 @@
           "timestamp": "00:26"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Two Men Claiming to be Kohanim and the Dispute Over Accepting One Witness for Kehuna Status",
@@ -48,7 +48,7 @@
           "timestamp": "03:45"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -125,7 +125,7 @@
           "timestamp": "26:03"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -149,7 +149,7 @@
           "timestamp": "32:06"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -407,5 +407,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "26:03",
+  "amud_b_micro_title": "Demai & Shvuya",
+  "shiur_start_daf": 24,
+  "shiur_start_amud": "a"
 }

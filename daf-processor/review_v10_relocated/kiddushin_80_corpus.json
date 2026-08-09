@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Overseas Return",
+    "candidates": [
+      "Overseas Return",
+      "Three Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself describing the first scenario (man returns with wife and children), which is precisely what the 'Overseas Return' prose discusses in detail, including the specific language and Rashi's explanation.",
+      "chosen_heading": "Overseas Return",
+      "current_heading": "Overseas Return",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Three Scenarios",
+    "candidates": [
+      "Three Scenarios",
+      "Kerucha Achareiha",
+      "Small vs Adult",
+      "Two Wives Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Scenarios",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text presenting the 'married overseas' and 'she died' scenarios, which matches heading 0 ('Three Scenarios') whose prose explicitly discusses these exact cases.",
+      "second_heading": "Kerucha Achareiha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba bar Rav Huna's Gemara statement about 'kruchin achareha' (clinging to her), which matches heading 1 ('Kerucha Achareiha') whose prose explicitly discusses this very teaching.",
+      "current_heading": "Three Scenarios",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Two Wives Rule",
+    "candidates": [
+      "Kerucha Achareiha",
+      "Small vs Adult",
+      "Two Wives Rule",
+      "RL vs RY Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita discusses exactly the 'two wives' distinction (bameh devarim amurim b'ishah achat / aval bishtei nashim) which is precisely what the 'Two Wives Rule' prose section describes.",
+      "chosen_heading": "Two Wives Rule",
+      "current_heading": "Two Wives Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "RL vs RY Dispute",
+    "candidates": [
+      "RL vs RY Dispute",
+      "Chazaka Definition",
+      "Lashes & Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Reish Lakish vs. Rabbi Yo\u1e25anan dispute about whether kerucha achareha applies only to kodshei ha-gvul/terumah or even to yuchasin, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "RL vs RY Dispute",
+      "current_heading": "RL vs RY Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Lashes & Death",
+    "candidates": [
+      "Chazaka Definition",
+      "Lashes & Death",
+      "Niddah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rabbi Yochanan statement about flogging, stoning/burning on the basis of chazakah, and not burning terumah on chazakah, which is exactly what the 'Lashes & Death' prose section discusses and quotes.",
+      "chosen_heading": "Lashes & Death",
+      "current_heading": "Lashes & Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Niddah Status",
+    "candidates": [
+      "Niddah Status",
+      "Incest Case",
+      "Facts vs Acts",
+      "Practical Reality",
+      "One Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda's ruling about flogging based on a woman's presumptive niddah status among her neighbors, which is precisely what the 'Niddah Status' section's prose explains and elaborates upon.",
+      "chosen_heading": "Niddah Status",
+      "current_heading": "Niddah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "One Witness",
+    "candidates": [
+      "Incest Case",
+      "Facts vs Acts",
+      "Practical Reality",
+      "One Witness",
+      "Mother-Son Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabba bar Rav Huna's teaching about a man, woman, boy, and girl growing up together in one household being subject to stoning or burning \u2014 exactly the content discussed in the 'Incest Case' prose, which explicitly references this teaching and its application to capital punishment based on presumptive family status.",
+      "chosen_heading": "Incest Case",
+      "current_heading": "One Witness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Mother-Son Case",
+    "candidates": [
+      "One Witness",
+      "Mother-Son Case",
+      "Terumah Anomaly",
+      "Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the mother-son incident (maaseh be-ishah) which is exactly what the 'Mother-Son Case' prose section discusses in detail.",
+      "chosen_heading": "Mother-Son Case",
+      "current_heading": "Mother-Son Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Setup",
+    "candidates": [
+      "Terumah Anomaly",
+      "Setup",
+      "RM vs Chachamim",
+      "Infant Nature",
+      "Miut Logic",
+      "Chachamim Rov",
+      "RL Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dispute between Resh Lakish and Rabbi Yochanan about burning terumah on presumptive status and then connects it to the tinok mishna, which is exactly what the 'Terumah Anomaly' section's prose describes \u2014 returning to the flagged anomaly and attributing conflicting positions to Resh Lakish and Rabbi Yochanan with the note that they follow their respective reasonings.",
+      "chosen_heading": "Terumah Anomaly",
+      "current_heading": "Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "RL Burning",
+    "candidates": [
+      "RM vs Chachamim",
+      "Infant Nature",
+      "Miut Logic",
+      "Chachamim Rov",
+      "RL Burning",
+      "Chullin Framework",
+      "Inversion",
+      "Quality Diff",
+      "Perception Type",
+      "Rodents & Frogs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Item 1 explains the Chachamim's reasoning (miuta ke-man de-leita, rov vs chazakah) and Item 2 is Reish Lakish and Rabbi Yochanan's dispute about burning teruma on this same case \u2014 both belong under 'Chachamim Rov' which discusses exactly the Chachamim's position and sets up the burning-teruma question, rather than 'RL Burning' which already covers Item 2's content in its prose but does not match Item 1.",
+      "chosen_heading": "Chachamim Rov",
+      "current_heading": "RL Burning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rodents & Frogs",
+    "candidates": [
+      "Chullin Framework",
+      "Inversion",
+      "Quality Diff",
+      "Perception Type",
+      "Rodents & Frogs",
+      "No Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about dough with shratzim and frogs to answer what chazakah suffices for Rabbi Yochanan to burn terumah, which is exactly what the 'Rodents & Frogs' section's prose describes and explains.",
+      "chosen_heading": "Rodents & Frogs",
+      "current_heading": "Rodents & Frogs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "No Questions",
+    "candidates": [
+      "No Questions",
+      "Clear Liquid",
+      "Written Docs",
+      "DNA & Fingerprints",
+      "Facts vs Acts",
+      "Eyewitness Irony",
+      "Why Here",
+      "Primary Cases",
+      "Historical Mikvah",
+      "One Man Rule",
+      "Two Men Rule",
+      "Rabbi Shimon",
+      "Wife Present",
+      "Close Relatives"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "No Questions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the baraita supporting Rabbi Yochanan and the two exceptional cases (child and dough/chickens), which is exactly what the 'No Questions' prose describes in detail.",
+      "second_heading": "Clear Liquid",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rabbi Yehoshua ben Levi's distinction between white and red liquids and Rabbi Yochanan's correction introducing the clear/murky liquid distinction, which is precisely what the 'Clear Liquid' prose discusses.",
+      "current_heading": "No Questions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Close Relatives",
+    "candidates": [
+      "Clear Liquid",
+      "Written Docs",
+      "DNA & Fingerprints",
+      "Facts vs Acts",
+      "Eyewitness Irony",
+      "Why Here",
+      "Primary Cases",
+      "Historical Mikvah",
+      "One Man Rule",
+      "Two Men Rule",
+      "Rabbi Shimon",
+      "Wife Present",
+      "Close Relatives",
+      "Adopted Children",
+      "Rape or Sex",
+      "Male vs Female",
+      "Locked Door",
+      "Tzitz Eliezer",
+      "Women Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The mishna opens with 'lo yityached adam im shtei nashim' \u2014 the one man/two women rule \u2014 which is precisely what candidate 8 ('One Man Rule') discusses, making it the natural home for this mishna that introduces all the yichud rules.",
+      "chosen_heading": "One Man Rule",
+      "current_heading": "Close Relatives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Women Light",
+    "candidates": [
+      "Adopted Children",
+      "Rape or Sex",
+      "Male vs Female",
+      "Locked Door",
+      "Tzitz Eliezer",
+      "Women Light",
+      "Male Strength",
+      "Three Women",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes the exact Tana devei Eliyahu teaching about women being of light mind (nashim da'atan kalot), which is precisely what the 'Women Light' section's prose discusses and explains.",
+      "chosen_heading": "Women Light",
+      "current_heading": "Women Light",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Male Strength",
+      "Three Women",
+      "Torah Source",
+      "D'Oraita Status",
+      "Single Woman",
+      "Abaye Reading",
+      "Inheritance Logic",
+      "Seduction Warn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Torah source derivation (remez) for yichud from Deuteronomy 13:7, which is precisely what the 'Torah Source' section's prose describes in detail.",
+      "chosen_heading": "Torah Source",
+      "current_heading": "Torah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Seduction Warn",
+    "candidates": [
+      "D'Oraita Status",
+      "Single Woman",
+      "Abaye Reading",
+      "Inheritance Logic",
+      "Seduction Warn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's statement (amar Abaye: lo mibaya ka'amar) explaining the plain meaning of the verse's specification of 'son of your mother,' which is precisely what the 'Abaye Reading' section's prose describes.",
+      "chosen_heading": "Abaye Reading",
+      "current_heading": "Seduction Warn",
+      "moved": true
+    }
+  }
+]

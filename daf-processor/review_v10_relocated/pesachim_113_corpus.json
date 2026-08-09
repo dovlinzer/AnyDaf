@@ -1,0 +1,398 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mum B'Atzmecha",
+    "candidates": [
+      "Mum B'Atzmecha",
+      "Onaat Devarim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the first command (al ta'as mum b'atzmecha) and the second command (al ta'amod al hamekach), and the current heading's prose explicitly discusses both of these items together, making it the correct placement.",
+      "chosen_heading": "Mum B'Atzmecha",
+      "current_heading": "Mum B'Atzmecha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Onaat Devarim",
+    "candidates": [
+      "Onaat Devarim",
+      "R. Yossi's Commands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the third command about a wife's immersion and Rav's explanation about ziva/niddah concerns, which is precisely what the prose under 'Onaat Devarim' explicitly discusses in its second paragraph.",
+      "chosen_heading": "Onaat Devarim",
+      "current_heading": "Onaat Devarim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "R. Yossi's Commands",
+    "candidates": [
+      "R. Yossi's Commands",
+      "Candlelight & Epilepsy",
+      "Tinok Asleep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three of Rabbi Yosei's commands plus the twelve-month bathhouse ruling and the baraita about standing naked before a candle, which matches exactly the prose under heading 0 ('R. Yossi's Commands'), which discusses all three commandments and Rabbi Yehoshua ben Levi's twelve-month answer.",
+      "chosen_heading": "R. Yossi's Commands",
+      "current_heading": "R. Yossi's Commands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Tinok Asleep",
+    "candidates": [
+      "Candlelight & Epilepsy",
+      "Tinok Asleep",
+      "Agrath Bath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact braita about marital relations on a bed where an infant sleeps causing epilepsy, with the three qualifying conditions, which is precisely what the 'Tinok Asleep' section's prose discusses.",
+      "chosen_heading": "Tinok Asleep",
+      "current_heading": "Tinok Asleep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Agrath Bath",
+    "candidates": [
+      "Agrath Bath",
+      "Chanina Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about not going out alone at night due to Agrath bath Machlath and her 180,000 angels of destruction, which matches exactly what the prose under heading 0 ('Agrath Bath') discusses.",
+      "chosen_heading": "Agrath Bath",
+      "current_heading": "Agrath Bath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Chanina Encounter",
+    "candidates": [
+      "Chanina Encounter",
+      "Abaye & Agrath",
+      "Narrow Alleys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the initial daily presence of demons, the encounter between Agrat and Rabbi Chanina ben Dosa, his decree, her plea for space, and his concession of Shabbat/Tuesday nights \u2014 exactly what the 'Chanina Encounter' prose discusses.",
+      "chosen_heading": "Chanina Encounter",
+      "current_heading": "Chanina Encounter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Narrow Alleys",
+    "candidates": [
+      "Abaye & Agrath",
+      "Narrow Alleys",
+      "Horses & Dogs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with Abaye's encounter with Agrat and the subsequent decree \u2014 the content of item 1 (the encounter and decree) and item 2 (the resolution about gazyata/paths) are discussed together in the 'Abaye & Agrath' prose, which explicitly addresses both the decree and the edge-case explanation of why demons still appear in inhabited areas.",
+      "chosen_heading": "Abaye & Agrath",
+      "current_heading": "Narrow Alleys",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Horses & Dogs",
+    "candidates": [
+      "Narrow Alleys",
+      "Horses & Dogs",
+      "Multiple Wives",
+      "Rav Kahana Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three pieces of advice \u2014 horses/dogs, mayor-as-doctor, and two/three wives \u2014 and candidate 1 ('Horses & Dogs') prose explicitly discusses all three elements including the marriage advice, making it the correct unified home for this passage.",
+      "chosen_heading": "Horses & Dogs",
+      "current_heading": "Horses & Dogs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Rav Kahana Labor",
+    "candidates": [
+      "Multiple Wives",
+      "Rav Kahana Labor",
+      "Aivo Trading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are explicitly discussed in the 'Rav Kahana Labor' prose, which covers Rav's advice to Rav Kahana about labor and dignity, then Rav's advice to \u1e24iyya about medications/snakes/gentiles, and the baraita about not provoking three small beings.",
+      "chosen_heading": "Rav Kahana Labor",
+      "current_heading": "Rav Kahana Labor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Aivo Trading",
+    "candidates": [
+      "Aivo Trading",
+      "Beer Business"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav's practical business advice to his son Ayvu (sell merchandise quickly, sell wine without regret, collect payment before delivering goods, prefer safe local trade), which matches exactly the 'Aivo Trading' prose that covers all these same points in the same order.",
+      "chosen_heading": "Aivo Trading",
+      "current_heading": "Aivo Trading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Beer Business",
+    "candidates": [
+      "Beer Business",
+      "Credit Dangers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is entirely about converting dates into beer, the beer business, Rav Pappa/Rav \u1e24isda's wealth from brewing, and the meaning of 'sudana,' which precisely matches the 'Beer Business' section prose.",
+      "chosen_heading": "Beer Business",
+      "current_heading": "Beer Business",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Credit Dangers",
+    "candidates": [
+      "Credit Dangers",
+      "War & Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's warnings about liens requiring collection and the dangers of credit, which directly matches the 'Credit Dangers' section prose.",
+      "chosen_heading": "Credit Dangers",
+      "current_heading": "Credit Dangers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "War & Shabbat",
+    "candidates": [
+      "War & Shabbat",
+      "Rooftop & Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'War & Shabbat' section prose, which explicitly discusses Rabbi Yochanan's three teachings from the people of Jerusalem including the war, Shabbat, and associating with the fortunate \u2014 exactly the content of this item.",
+      "chosen_heading": "War & Shabbat",
+      "current_heading": "War & Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rooftop & Marriage",
+    "candidates": [
+      "Rooftop & Marriage",
+      "Olam Ha-Ba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yehoshua ben Levi's three teachings (shameful acts, freeing a slave for a grown daughter, and being careful with one's wife regarding her first son-in-law) is precisely what the 'Rooftop & Marriage' section prose discusses in detail.",
+      "chosen_heading": "Rooftop & Marriage",
+      "current_heading": "Rooftop & Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Olam Ha-Ba",
+    "candidates": [
+      "Olam Ha-Ba",
+      "Daily Proclamation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Yochanan's three inheritors of the World-to-Come and the explanation of havdalah wine, which matches exactly the prose under 'Olam Ha-Ba' where this content is currently placed.",
+      "chosen_heading": "Olam Ha-Ba",
+      "current_heading": "Olam Ha-Ba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Daily Proclamation",
+    "candidates": [
+      "Daily Proclamation",
+      "God Loves",
+      "God Hates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are directly about Rabbi Yochanan's teaching on the three people proclaimed about daily, including the Rav Safra/Rav Hanina and Rav Oshaya episode, which is fully covered in the 'Daily Proclamation' prose.",
+      "chosen_heading": "Daily Proclamation",
+      "current_heading": "Daily Proclamation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "God Hates",
+    "candidates": [
+      "God Loves",
+      "God Hates",
+      "Tuvya & Zigud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the three whom God loves AND the three whom God hates as a single unified text, and the 'God Loves' section prose explicitly discusses all three loved qualities before transitioning \u2014 the full passage should sit under heading 0 which introduces the loves/hates dichotomy together, rather than being split under the 'God Hates' heading alone.",
+      "chosen_heading": "God Loves",
+      "current_heading": "God Hates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Tuvya & Zigud",
+    "candidates": [
+      "God Hates",
+      "Tuvya & Zigud",
+      "Permitted Hatred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Tuvya/Zigud incident that candidate 1's prose explicitly discusses and analyzes in detail.",
+      "chosen_heading": "Tuvya & Zigud",
+      "current_heading": "Tuvya & Zigud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Permitted Hatred",
+    "candidates": [
+      "Permitted Hatred",
+      "Report to Master"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuous Gemara discussion about permitted hatred of a lone witness \u2014 exactly the content described in the 'Permitted Hatred' prose, which quotes and explains the same sugyah in detail.",
+      "chosen_heading": "Permitted Hatred",
+      "current_heading": "Permitted Hatred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Report to Master",
+    "candidates": [
+      "Report to Master",
+      "Hatred Breeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Na\u1e25man bar Yitz\u1e25ak's statement that it is a mitzva to hate a sinner and Rav A\u1e25a/Rav Ashi's exchange about telling one's master \u2014 exactly the content discussed in the 'Report to Master' prose section.",
+      "chosen_heading": "Report to Master",
+      "current_heading": "Report to Master",
+      "moved": false
+    }
+  }
+]

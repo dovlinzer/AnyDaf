@@ -1,0 +1,253 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Forgot Shabbat Existence",
+    "candidates": [
+      "New Perek, Shabbat Laws",
+      "Forgot Shabbat Existence",
+      "Case 2: Forgot Which Day",
+      "Case 3: Forgot Melacha",
+      "Melachot: One Category",
+      "Thirty-Nine Categories",
+      "Linguistic Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna of the perek (klal gadol amru b'Shabbat) presenting all its cases together, which candidate 0 explicitly describes as the mishna that begins the new perek and whose phrase 'klal gadol amru b'Shabbat' will occupy the gemara's attention \u2014 making it the natural home for the full mishna text before the essay breaks down each case individually.",
+      "chosen_heading": "New Perek, Shabbat Laws",
+      "current_heading": "Forgot Shabbat Existence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Linguistic Question",
+    "candidates": [
+      "Case 2: Forgot Which Day",
+      "Case 3: Forgot Melacha",
+      "Melachot: One Category",
+      "Thirty-Nine Categories",
+      "Linguistic Question",
+      "Avot and Toldot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why the mishna uses 'klal gadol,' compares it to Shevi'it and Ma'aser, and raises the difficulty about Ma'aser not using 'klal gadol' \u2014 exactly what the 'Linguistic Question' section's prose discusses.",
+      "chosen_heading": "Linguistic Question",
+      "current_heading": "Linguistic Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Avot and Toldot",
+    "candidates": [
+      "Avot and Toldot",
+      "Scope Comparison",
+      "Bar Kappara Version",
+      "Pe'ah vs Ma'aser Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei bar Avin's statement about Shabbat and Shevi'it having avot and toldot (and therefore using 'klal gadol') while ma'aser does not, plus the question about Bar Kappara's version \u2014 exactly the content discussed in the 'Avot and Toldot' section's prose.",
+      "chosen_heading": "Avot and Toldot",
+      "current_heading": "Avot and Toldot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Pe'ah vs Ma'aser Scope",
+    "candidates": [
+      "Scope Comparison",
+      "Bar Kappara Version",
+      "Pe'ah vs Ma'aser Scope",
+      "Tosafot Explanation",
+      "Never Knew = Forgot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the scope comparison between ma'aser and pe'ah \u2014 the criteria in the pe'ah mishna, what each criterion excludes, and how ma'aser lacks the last two criteria making its scope broader \u2014 which is precisely what the 'Pe'ah vs Ma'aser Scope' section's prose describes.",
+      "chosen_heading": "Pe'ah vs Ma'aser Scope",
+      "current_heading": "Pe'ah vs Ma'aser Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Never Knew = Forgot",
+    "candidates": [
+      "Tosafot Explanation",
+      "Never Knew = Forgot",
+      "Definitions",
+      "Tosafot Question",
+      "Kabbalat Mitzvot",
+      "Linguistic Challenge",
+      "Case Escalation",
+      "Knew Then Forgot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage addresses the linguistic challenge that 'forgot' implies prior knowledge \u2014 exactly what the 'Linguistic Challenge' section's prose describes \u2014 including the Gemara's resolution that 'forgot' here means 'was always forgotten from him,' i.e., never knew.",
+      "chosen_heading": "Linguistic Challenge",
+      "current_heading": "Never Knew = Forgot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Knew Then Forgot",
+    "candidates": [
+      "Definitions",
+      "Tosafot Question",
+      "Kabbalat Mitzvot",
+      "Linguistic Challenge",
+      "Case Escalation",
+      "Knew Then Forgot",
+      "Reinterpretation",
+      "Rejection of Escalation",
+      "Final Position",
+      "Yochanan & Lakish",
+      "Korban Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case of 'one who knew and ultimately forgot' and how the mishna's language about 'one who knows the essence of Shabbat' is reinterpreted by Rav and Shmuel to mean 'one who once knew and forgot,' which is precisely what the 'Knew Then Forgot' section's prose describes.",
+      "chosen_heading": "Knew Then Forgot",
+      "current_heading": "Knew Then Forgot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Korban Logic",
+    "candidates": [
+      "Reinterpretation",
+      "Rejection of Escalation",
+      "Final Position",
+      "Yochanan & Lakish",
+      "Korban Logic",
+      "Horayot Parallel",
+      "Rambam Ruling",
+      "Examples",
+      "Multiple Categories",
+      "Munbaz Exemption",
+      "Chotei Linking",
+      "Akiva Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Final Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the reinterpretation problem by clarifying that the mishna deals with 'knew and ultimately forgot,' and states Rav and Shmuel's position that even a tinok shenishba is treated as one who knew and forgot \u2014 exactly what the 'Final Position' prose describes.",
+      "second_heading": "Yochanan & Lakish",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yochanan and Reish Lakish's opposing view that only 'knew and forgot' generates liability while tinok shenishba is exempt, followed by the baraita objection \u2014 exactly matching the 'Yochanan & Lakish' prose.",
+      "current_heading": "Korban Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Akiva Response",
+    "candidates": [
+      "Horayot Parallel",
+      "Rambam Ruling",
+      "Examples",
+      "Multiple Categories",
+      "Munbaz Exemption",
+      "Chotei Linking",
+      "Akiva Response",
+      "Baraita Affirmed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items depict the exchange between Munbaz and Rabbi Akiva about extending the heikesh to require awareness at the moment of transgression and Munbaz's acceptance of that conclusion, which is precisely what the 'Akiva Response' prose describes.",
+      "chosen_heading": "Akiva Response",
+      "current_heading": "Akiva Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Baraita Affirmed",
+    "candidates": [
+      "Baraita Affirmed",
+      "Kares Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the challenge to Rabbi Yochanan and Reish Lakish from the baraita's use of 'tinok' and their resolution by aligning with Munbaz, followed by the rationale for Munbaz's position \u2014 all of which is precisely what the 'Baraita Affirmed' prose describes.",
+      "chosen_heading": "Baraita Affirmed",
+      "current_heading": "Baraita Affirmed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Kares Principle",
+    "candidates": [
+      "Kares Principle",
+      "Juxtaposition",
+      "Rabbinic Reading",
+      "Karaites",
+      "Shulchan Aruch",
+      "Rav Kook",
+      "Inclusivity Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the rabbinic derivation of the kares-chatat principle from the juxtaposition in Numbers 15, which is precisely what the 'Kares Principle' prose describes as the starting point \u2014 a chatat is brought only for sins whose intentional commission is punishable by kares, learned from a juxtaposition in the context of avoda zara.",
+      "chosen_heading": "Kares Principle",
+      "current_heading": "Kares Principle",
+      "moved": false
+    }
+  }
+]

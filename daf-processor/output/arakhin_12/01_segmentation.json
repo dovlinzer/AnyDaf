@@ -151,8 +151,8 @@
           "timestamp": "43:08"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Reconciling the Shemita Calculation Discrepancy Through Historical Interruptions",
@@ -185,8 +185,8 @@
           "timestamp": "50:53"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Why the Second Temple Destruction Could Not Mirror the First Temple Exactly",
@@ -224,8 +224,8 @@
           "timestamp": "54:07"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -404,5 +404,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "36:32",
+  "amud_b_micro_title": "One Year Dual Count",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "b"
 }

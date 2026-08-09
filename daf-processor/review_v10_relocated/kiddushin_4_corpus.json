@@ -1,0 +1,442 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Neurim to Father",
+    "candidates": [
+      "Intro: Kesef & Father",
+      "Ktana: Father Controls",
+      "Na'arah Question",
+      "Slave Sale Source",
+      "Neurim to Father",
+      "Chart Three Rights",
+      "Why Not Nedarim?",
+      "Knas Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items deal with the derivation chain around 'b'neureiha beit aviha' and 'v'chi yimkor' \u2014 the na'arah's earnings going to the father, the question of why Rav Huna needs a separate pasuk given the neureiha verse, and the answer that neureiha is written for hafarat nedarim not monetary law \u2014 which is precisely what heading 4 ('Neurim to Father') describes in its prose.",
+      "chosen_heading": "Neurim to Father",
+      "current_heading": "Neurim to Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Knas Distinction",
+    "candidates": [
+      "Chart Three Rights",
+      "Why Not Nedarim?",
+      "Knas Distinction",
+      "Boshet & Pegam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states 'we do not derive monetary matters from fines' (mamona miknasa lo yalfinan), which is precisely what the 'Knas Distinction' section's prose describes as the gemara's rejection of deriving kiddushei kesef from the knas payments in cases of ones u'mifateh.",
+      "chosen_heading": "Knas Distinction",
+      "current_heading": "Knas Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Boshet & Pegam",
+    "candidates": [
+      "Boshet & Pegam",
+      "Father's Rights",
+      "Rashi: Lost Profit",
+      "Why Not Boshet?",
+      "Tosafot Resolves",
+      "Misavra: Ein Kesef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the suggestion to derive from boshet and pegam and explains why they are different (d'avuha shaich b'guvayyhu), which matches exactly the prose under 'Boshet & Pegam' that discusses this precise objection and the mamona miknasa distinction.",
+      "chosen_heading": "Boshet & Pegam",
+      "current_heading": "Boshet & Pegam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Misavra: Ein Kesef",
+    "candidates": [
+      "Father's Rights",
+      "Rashi: Lost Profit",
+      "Why Not Boshet?",
+      "Tosafot Resolves",
+      "Misavra: Ein Kesef",
+      "Still in Father House",
+      "Shared Vow Control"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items discuss the 'misavra' reasoning from the 'ein kesef' verse \u2014 that the exclusion of money for one master implies money for another (the father), which is precisely what heading 4 ('Misavra: Ein Kesef') describes.",
+      "chosen_heading": "Misavra: Ein Kesef",
+      "current_heading": "Misavra: Ein Kesef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Shared Vow Control",
+    "candidates": [
+      "Still in Father House",
+      "Shared Vow Control",
+      "Limited Status Change",
+      "Transactional Model",
+      "50 Coins & Burden",
+      "Dowry Shift",
+      "Ketubah Balance",
+      "Extra Yud Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge about departure not being comparable (she still lacks passing to the chupah) AND the answer about vow nullification \u2014 the full dialectical unit begins with the objection described in heading 0, and the current placement under 'Shared Vow Control' splits the argument mid-way, but heading 0's prose explicitly describes both the challenge and its context, making it the better home for the complete unit including the resolution.",
+      "chosen_heading": "Still in Father House",
+      "current_heading": "Shared Vow Control",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Extra Yud Method",
+    "candidates": [
+      "Limited Status Change",
+      "Transactional Model",
+      "50 Coins & Burden",
+      "Dowry Shift",
+      "Ketubah Balance",
+      "Extra Yud Method",
+      "Rabina's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita that splits 'yatz'ah chinam' and 'ein kesef' between days of adulthood and youth, which is precisely the textual puzzle the 'Extra Yud Method' prose describes as its subject matter.",
+      "chosen_heading": "Extra Yud Method",
+      "current_heading": "Extra Yud Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rabina's Drasha",
+    "candidates": [
+      "Rabina's Drasha",
+      "Zera Ein Lah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's direct statement deriving two halachot from the spelling 'ein' with a yud, which is precisely what the 'Rabina's Drasha' section discusses.",
+      "chosen_heading": "Rabina's Drasha",
+      "current_heading": "Rabina's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Zera Ein Lah",
+    "candidates": [
+      "Zera Ein Lah",
+      "Both Verses Needed",
+      "If Only Kesef..."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the baraita about v'zera ein lah, the derivations for zera zarah and zera pasul, and the methodology of the extra yod \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Zera Ein Lah",
+      "current_heading": "Zera Ein Lah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "If Only Kesef...",
+    "candidates": [
+      "Both Verses Needed",
+      "If Only Kesef...",
+      "If Only Yatzah..."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that BOTH verses were necessary (using the '\u05d5\u05b0\u05d0\u05b4\u05d9\u05e6\u05b0\u05d8\u05b0\u05e8\u05b4\u05d9\u05da\u05b0...\u05d5\u05b0\u05d0\u05b4\u05d9\u05e6\u05b0\u05d8\u05b0\u05e8\u05b4\u05d9\u05da\u05b0' construction), which matches heading 0's prose about confirming both pesukim are necessary, not heading 1 which only discusses the 'if only kesef' scenario.",
+      "chosen_heading": "Both Verses Needed",
+      "current_heading": "If Only Kesef...",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "If Only Yatzah...",
+    "candidates": [
+      "If Only Kesef...",
+      "If Only Yatzah...",
+      "Reciprocity Model",
+      "Unexpected Kesef",
+      "Father Can Override",
+      "Self-Marriage Debate",
+      "Rambam: Prior OK",
+      "Retroactive Approval",
+      "Redundancy Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case where only ma'aseh yadeiha (earnings) was taught and argues that kiddushei kesef coming 'me'alma' (from an external source) might be thought to belong to her \u2014 exactly matching the 'If Only Yatzah' section's prose about kiddushei kesef falling 'out of the sky, unexpectedly.'",
+      "chosen_heading": "If Only Yatzah...",
+      "current_heading": "If Only Yatzah...",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Redundancy Question",
+    "candidates": [
+      "Reciprocity Model",
+      "Unexpected Kesef",
+      "Father Can Override",
+      "Self-Marriage Debate",
+      "Rambam: Prior OK",
+      "Retroactive Approval",
+      "Redundancy Question",
+      "Rabba: Both Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly addresses the textual redundancy question about why the verse mentions both bagrut and na'arut, which is exactly what the 'Redundancy Question' section's prose describes.",
+      "chosen_heading": "Redundancy Question",
+      "current_heading": "Redundancy Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rabba: Both Stages",
+    "candidates": [
+      "Rabba: Both Stages",
+      "Bazzeh U'Limad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabba's principle that one phrase teaches through the other, matching the prose in heading 0 which explains Rabba's answer about how the double language allows derivation of na'arut independently.",
+      "chosen_heading": "Rabba: Both Stages",
+      "current_heading": "Rabba: Both Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Bazzeh U'Limad",
+    "candidates": [
+      "Bazzeh U'Limad",
+      "Aylonit Definition",
+      "Skips Freedom?",
+      "Aylonit Freed",
+      "Kal Va'Chomer?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the toshav v'sachir baraita and Abaye's challenge to Rabba's analogy, which is precisely what the 'Bazzeh U'Limad' prose describes in detail.",
+      "chosen_heading": "Bazzeh U'Limad",
+      "current_heading": "Bazzeh U'Limad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Kal Va'Chomer?",
+    "candidates": [
+      "Aylonit Definition",
+      "Skips Freedom?",
+      "Aylonit Freed",
+      "Kal Va'Chomer?",
+      "Chidush: Sell Her"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks 'once she has left upon her youth, what is she doing in his authority as an adult?' \u2014 this is precisely the kal va'chomer challenge: if she already left at na'arut, bagrut is obviously superfluous, matching the prose of heading 3 which describes Mar bar Rav Ashi's challenge that a pasuk should not be needed to teach what is obvious from kal va'chomer.",
+      "chosen_heading": "Kal Va'Chomer?",
+      "current_heading": "Kal Va'Chomer?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Chidush: Sell Her",
+    "candidates": [
+      "Chidush: Sell Her",
+      "Braita: Ki Yikach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss Abaye's and Mar bar Rav Ashi's positions on why the verse 'Then shall she go out for nothing' is needed specifically regarding the sale and liberation of an ailonit, which is precisely the topic of the 'Chidush: Sell Her' section's prose.",
+      "chosen_heading": "Chidush: Sell Her",
+      "current_heading": "Chidush: Sell Her",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Braita: Ki Yikach",
+    "candidates": [
+      "Braita: Ki Yikach",
+      "Slave to Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving kiddushei kesef from 'ki yikach ish isha' and the analogy to Ephron's 'natati kesef hasadeh,' which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Braita: Ki Yikach",
+      "current_heading": "Braita: Ki Yikach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Slave to Woman",
+    "candidates": [
+      "Slave to Woman",
+      "Yevamah Contrast",
+      "Yevamah Limited",
+      "Derive from Marriage",
+      "Woman Keeps?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the kal va'chomer argument from amah ivriyah to woman acquired through money, which is exactly what the prose under 'Slave to Woman' describes.",
+      "chosen_heading": "Slave to Woman",
+      "current_heading": "Slave to Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Woman Keeps?",
+    "candidates": [
+      "Yevamah Contrast",
+      "Yevamah Limited",
+      "Derive from Marriage",
+      "Woman Keeps?",
+      "Two-Party Model",
+      "Ein Kesef Ambiguous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "Items 3-4 align precisely with candidate 3's discussion of the amah ivriyah asymmetry and the necessity of both ki yikach and yatz'ah chinam, and items 1-2 (the yevamah/shtar chain leading into Rav Ashi's point) are a continuous buildup to that same conclusion, making candidate 3 the best single home for the whole passage.",
+      "chosen_heading": "Woman Keeps?",
+      "current_heading": "Woman Keeps?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Ein Kesef Ambiguous",
+    "candidates": [
+      "Two-Party Model",
+      "Ein Kesef Ambiguous",
+      "Rashi: She Gives",
+      "Ki Yikach: He Takes",
+      "She Becomes M'k",
+      "She Declares",
+      "Tosafot Full",
+      "Not Pshat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ambiguity created by 'veyatzah chinnam' (ein kesef) alone \u2014 that it doesn't specify direction of money transfer \u2014 and how 'ki yikach' resolves it, which is precisely what the 'Ein Kesef Ambiguous' section's prose addresses.",
+      "chosen_heading": "Ein Kesef Ambiguous",
+      "current_heading": "Ein Kesef Ambiguous",
+      "moved": false
+    }
+  }
+]

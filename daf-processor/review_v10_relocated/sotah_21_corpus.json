@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Merit Three Years",
+    "candidates": [
+      "Merit Three Years",
+      "Ner Mitzvah Torah Or"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks 'which merit delays punishment for three years' and raises the two possibilities of Torah merit and mitzvah merit, which exactly matches the prose under 'Merit Three Years' that discusses zechus d'Torah and zechus d'mitzvah.",
+      "chosen_heading": "Merit Three Years",
+      "current_heading": "Merit Three Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Ner Mitzvah Torah Or",
+    "candidates": [
+      "Ner Mitzvah Torah Or",
+      "Parable Traveler"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita of Rabbi Mena\u1e25em bar Yosei comparing mitzva to a lamp and Torah to light, which is precisely what heading 0's prose discusses in detail, including the Proverbs 6:22-23 verses and their interpretation as this world/death/future world.",
+      "chosen_heading": "Ner Mitzvah Torah Or",
+      "current_heading": "Ner Mitzvah Torah Or",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Parable Traveler",
+    "candidates": [
+      "Parable Traveler",
+      "Rav Yosef Position",
+      "Rava Doeg Challenge",
+      "Rava Revision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the parable of the night traveler, the torch/dawn/crossroads resolution, and the 'alternatively' teaching about transgression extinguishing a mitzva but not Torah \u2014 are precisely what the 'Parable Traveler' prose describes and analyzes, making the current placement correct.",
+      "chosen_heading": "Parable Traveler",
+      "current_heading": "Parable Traveler",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rava Revision",
+    "candidates": [
+      "Rav Yosef Position",
+      "Rava Doeg Challenge",
+      "Rava Revision",
+      "Ravina Merit Enable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yosef Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's position distinguishing mitzva and Torah protection, which matches candidate 0's prose exactly.",
+      "second_heading": "Rava Doeg Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba's challenge using Doeg and Achitophel followed by Rava's revision, which matches candidate 1's prose about that exact challenge \u2014 candidate 2 covers Rava's revision but candidate 1 is the better home since the challenge and revision belong together and candidate 1's prose explicitly covers both the objection and introduces Rava's response.",
+      "current_heading": "Rava Revision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Ravina Merit Enable",
+    "candidates": [
+      "Rava Revision",
+      "Ravina Merit Enable",
+      "Women Enablers",
+      "Crossroads: 3 Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement about women sharing in Torah merit by enabling their sons and husbands to study, which is precisely what the 'Ravina Merit Enable' section's prose discusses.",
+      "chosen_heading": "Ravina Merit Enable",
+      "current_heading": "Ravina Merit Enable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Crossroads: 3 Views",
+    "candidates": [
+      "Women Enablers",
+      "Crossroads: 3 Views",
+      "Aveira Mechabah",
+      "Doeg Achitophel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the three amoraic interpretations of 'crossroads' (Rav \u1e24isda, Rav Na\u1e25man bar Yitz\u1e25ak, Mar Zutra), which is precisely what the 'Crossroads: 3 Views' section prose discusses in detail.",
+      "chosen_heading": "Crossroads: 3 Views",
+      "current_heading": "Crossroads: 3 Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Doeg Achitophel",
+    "candidates": [
+      "Aveira Mechabah",
+      "Doeg Achitophel",
+      "Ben Azzai Teach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous discussion: items 1\u20132 cover the Doeg/Ahithophel drasha on aveira mechaba mitzvah/Torah, and items 3\u20134 cover the 'boz yavozu lo' / Hillel-Shevna material \u2014 exactly what candidate 1 ('Doeg Achitophel') prose describes in full detail.",
+      "chosen_heading": "Doeg Achitophel",
+      "current_heading": "Doeg Achitophel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ben Azzai Teach",
+    "candidates": [
+      "Ben Azzai Teach",
+      "Rabbi Eliezer Tiflus",
+      "Torah Effect Tiflus",
+      "Wisdom Craftiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ben Azzai's statement about the obligation to teach one's daughter Torah and Rabbi Eliezer's opposing view, and the Gemara's clarification ('ela eima') of Rabbi Eliezer \u2014 but since the prose under heading 0 explicitly frames this as the debate between Ben Azzai and Rabbi Eliezer and anticipates the clarification, while headings 1 and 2 separately unpack Rabbi Eliezer's position in detail, the passage as a whole (introducing both sides of the mishna debate plus the immediate Gemara clarification) best fits under the Ben Azzai Teach heading where the essay introduces the full exchange.",
+      "chosen_heading": "Ben Azzai Teach",
+      "current_heading": "Ben Azzai Teach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Wisdom Craftiness",
+    "candidates": [
+      "Rabbi Eliezer Tiflus",
+      "Torah Effect Tiflus",
+      "Wisdom Craftiness",
+      "Rabbanan Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abbahu's statement explaining Rabbi Eliezer's reasoning via the verse 'I, wisdom, dwell with cunning,' which is precisely what the 'Wisdom Craftiness' section's prose discusses.",
+      "chosen_heading": "Wisdom Craftiness",
+      "current_heading": "Wisdom Craftiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rabbanan Three Positions",
+    "candidates": [
+      "Rabbanan Three Positions",
+      "Yerushalmi Matron",
+      "Kav Tiflus Nine",
+      "Income Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbanan's interpretation of 'ani chochma' and presents Rabbi Yosei bar Chanina's nakedness reading and Rabbi Yochanan's self-negation teaching, which is precisely what the prose of 'Rabbanan Three Positions' describes.",
+      "chosen_heading": "Rabbanan Three Positions",
+      "current_heading": "Rabbanan Three Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Income Presence",
+    "candidates": [
+      "Yerushalmi Matron",
+      "Kav Tiflus Nine",
+      "Income Presence",
+      "Chasid Shoteh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rabbi Yehoshua's statement about 'kav and tiflus vs. nine kav and perishus,' which is precisely what candidate 1 ('Kav Tiflus Nine') discusses, before the interpretations by Rashi and Rabbeinu Chananel in candidate 2.",
+      "chosen_heading": "Kav Tiflus Nine",
+      "current_heading": "Income Presence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Chasid Shoteh",
+    "candidates": [
+      "Income Presence",
+      "Chasid Shoteh",
+      "Rasha Arum",
+      "Early Case Judge",
+      "Poor Disqualify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's definition of 'chasid shoteh' \u2014 the drowning woman example \u2014 which is precisely what the 'Chasid Shoteh' section's prose discusses.",
+      "chosen_heading": "Chasid Shoteh",
+      "current_heading": "Chasid Shoteh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Poor Disqualify",
+    "candidates": [
+      "Rasha Arum",
+      "Early Case Judge",
+      "Poor Disqualify",
+      "Estate Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's and Rabbi Abbahu's definitions of 'rasha arum' and belongs under the general 'Rasha Arum' heading, not split across the two sub-headings that each address only one of the two opinions.",
+      "chosen_heading": "Rasha Arum",
+      "current_heading": "Poor Disqualify",
+      "moved": true
+    }
+  }
+]

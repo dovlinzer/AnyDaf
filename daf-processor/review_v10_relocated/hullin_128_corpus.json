@@ -1,0 +1,492 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Intro & Mishna",
+    "candidates": [
+      "Intro & Mishna",
+      "Rabba's Yad Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Items 1-2 are the Mishna text explicitly described in the 'Intro & Mishna' prose, and items 3-9 are the opening Gemara analysis (tumah of carcass vs. food, ki yipol, dried figs) that precedes Rabba's yad theory \u2014 neither candidate 1's prose about yad and hechsher matches these Gemara items better than the current placement.",
+      "chosen_heading": "Intro & Mishna",
+      "current_heading": "Intro & Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rabba's Yad Theory",
+    "candidates": [
+      "Rabba's Yad Theory",
+      "Abaye's Unity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Both items discuss whether dried produce is susceptible to impurity as a single unit/detached entity, which aligns better with Abaye's framing of unity/attachment than with Rabba's yad/handle theory, and the Gemara's inference about 'other produce' being susceptible and the question of whether stems are dried together both concern the single-unit attachment question rather than yad as a conduit.",
+      "chosen_heading": "Abaye's Unity",
+      "current_heading": "Rabba's Yad Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Abaye's Unity",
+    "candidates": [
+      "Abaye's Unity",
+      "Yochanan's Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The items discuss challenges and resolutions regarding Shmuel's opinion about dried fruit on trees \u2014 this fits neither candidate's prose well, but 'Yochanan's Contradiction' at least involves challenges to Amoraic positions, making it marginally more plausible than 'Abaye's Unity' which focuses on the cow/dangling limb unit question.",
+      "chosen_heading": "Yochanan's Contradiction",
+      "current_heading": "Abaye's Unity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Yochanan's Contradiction",
+    "candidates": [
+      "Yochanan's Contradiction",
+      "Tvul Yom Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous unit covering the Rabba/Abaye/Rabbi Yochanan explanations of the Meir-Shimon dispute and Rabbi Yochanan's internal contradiction within Rabbi Meir's positions, which is precisely what 'Yochanan's Contradiction' prose describes.",
+      "chosen_heading": "Yochanan's Contradiction",
+      "current_heading": "Yochanan's Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Tvul Yom Solution",
+    "candidates": [
+      "Tvul Yom Solution",
+      "Rava's Position",
+      "Why Intent Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the continuous Gemara dialogue about whether Rabbi Meir distinguishes between tvul yom and other tumot, and Rabbi Yoshiya's refinement of Rabbi Yochanan's position \u2014 exactly what the 'Tvul Yom Solution' prose describes.",
+      "chosen_heading": "Tvul Yom Solution",
+      "current_heading": "Tvul Yom Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Why Intent Matters",
+    "candidates": [
+      "Rava's Position",
+      "Why Intent Matters",
+      "Rav Papa's Question",
+      "Rabbi Akiva on Chelev",
+      "Ulshin Counterexample"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rava's explanation of the dispute (yesh yad l'tumah ve-ein yad l'hechsher), which matches exactly the prose of candidate 0 ('Rava's Position').",
+      "second_heading": "Rav Papa's Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Pappa's framing of the dispute around hechsher kodem machshava and the supporting baraita about chelev, which matches candidate 2 ('Rav Papa's Question') whose prose explicitly introduces Rav Papa's position and the immediately following baraita about Rabbi Akiva.",
+      "current_heading": "Why Intent Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ulshin Counterexample",
+    "candidates": [
+      "Rav Papa's Question",
+      "Rabbi Akiva on Chelev",
+      "Ulshin Counterexample",
+      "Akiva Reverses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda's counterexample about ulshin (endives rinsed for animals then reconsidered for human use requiring a second hechsher) and Rabbi Akiva's retraction, which is precisely what the 'Ulshin Counterexample' prose describes \u2014 including both the ulshin argument and the resulting reversal by Rabbi Akiva.",
+      "chosen_heading": "Ulshin Counterexample",
+      "current_heading": "Ulshin Counterexample",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Akiva Reverses",
+    "candidates": [
+      "Akiva Reverses",
+      "Blood Splatter Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that one Sage holds the pre-reversal position and the other holds the post-reversal position, which is precisely what the 'Akiva Reverses' section's prose discusses and quotes.",
+      "chosen_heading": "Akiva Reverses",
+      "current_heading": "Akiva Reverses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Blood Splatter Case",
+    "candidates": [
+      "Blood Splatter Case",
+      "Shechita: Continuous/End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav A\u1e25a's explanation about blood wiped off between the cutting of the two simanim, which matches the 'Blood Splatter Case' prose describing blood that came out between cutting the trachea and esophagus and was subsequently wiped away, not the 'Shechita: Continuous/End' prose which discusses the theoretical debate about when shechita is formally defined.",
+      "chosen_heading": "Blood Splatter Case",
+      "current_heading": "Blood Splatter Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Shechita: Continuous/End",
+    "candidates": [
+      "Shechita: Continuous/End",
+      "Retroactive Definition",
+      "Rav Ashi's Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the two positions \u2014 shechita is from beginning to end versus only at the conclusion \u2014 and labels the resulting blood as blood of shechita or blood of a wound, which is precisely what the prose under 'Shechita: Continuous/End' describes.",
+      "chosen_heading": "Shechita: Continuous/End",
+      "current_heading": "Shechita: Continuous/End",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rav Ashi's Theory",
+    "candidates": [
+      "Retroactive Definition",
+      "Rav Ashi's Theory",
+      "Living Cow as Yad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's formulation that the dispute is about whether shechita-as-act or blood-of-shechita creates hechsher, which directly matches the prose of candidate 1 ('Rav Ashi's Theory').",
+      "chosen_heading": "Rav Ashi's Theory",
+      "current_heading": "Rav Ashi's Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Living Cow as Yad",
+    "candidates": [
+      "Living Cow as Yad",
+      "Connected Cucumber"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabba's dilemma about whether a living animal constitutes a yad for its partially severed limb, which is precisely what the 'Living Cow as Yad' prose section discusses.",
+      "chosen_heading": "Living Cow as Yad",
+      "current_heading": "Living Cow as Yad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Connected Cucumber",
+    "candidates": [
+      "Connected Cucumber",
+      "Avodah Zarah Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's citation of the cucumber mishna, Rabbi Shimon's position, and Abaye's dilemma about yad \u2014 are precisely the content described in the 'Connected Cucumber' prose, which explicitly covers the atzitz cucumber, Rabbi Shimon's ha-tamei be-tumato ruling, and Abaye's teiku question about whether the mechubar portion serves as a yad.",
+      "chosen_heading": "Connected Cucumber",
+      "current_heading": "Connected Cucumber",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Avodah Zarah Half",
+    "candidates": [
+      "Avodah Zarah Half",
+      "Fig Branch Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Yirmeya's dilemma about whether the forbidden half of a gourd (rendered avodah zarah) can serve as a yad for the permitted half, which is precisely what the 'Avodah Zarah Half' prose describes.",
+      "chosen_heading": "Avodah Zarah Half",
+      "current_heading": "Avodah Zarah Half",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Fig Branch Case",
+    "candidates": [
+      "Fig Branch Case",
+      "Cornerstone Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's fig branch discussion \u2014 item 1 presents the mishna and item 2 raises the yad dilemma \u2014 exactly matching the 'Fig Branch Case' prose.",
+      "chosen_heading": "Fig Branch Case",
+      "current_heading": "Fig Branch Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Cornerstone Half",
+    "candidates": [
+      "Cornerstone Half",
+      "Death Principle",
+      "Meat vs. Limb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely about the cornerstone case from Nega'im \u2014 Rabbi Zeira's statement about chalitzah vs. netitzah of the cornerstone and his dilemma about whether the tahor half serves as a yad for the tamei half \u2014 matching the 'Cornerstone Half' prose exactly.",
+      "chosen_heading": "Cornerstone Half",
+      "current_heading": "Cornerstone Half",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Meat vs. Limb",
+    "candidates": [
+      "Death Principle",
+      "Meat vs. Limb",
+      "Pasuk Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about the practical difference between ever min hachai and ever min hneveilah, and the answer about flesh separating from the limb \u2014 which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Meat vs. Limb",
+      "current_heading": "Meat vs. Limb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Pasuk Source",
+    "candidates": [
+      "Pasuk Source",
+      "Meat vs. Limb (II)",
+      "Yosei: Non-Replacement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete sugya about deriving ever min hachai tumah from 'min ha-behemah,' the challenge that the verse is needed for the tereifa/shechita ruling, and the resolution that the two-word formulation teaches both halakhot simultaneously \u2014 exactly what the 'Pasuk Source' prose describes.",
+      "chosen_heading": "Pasuk Source",
+      "current_heading": "Pasuk Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Yosei: Non-Replacement",
+    "candidates": [
+      "Meat vs. Limb (II)",
+      "Yosei: Non-Replacement",
+      "Akiva: Animal Analogy",
+      "Rebbi: Adds Flesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the challenge ('if so, even flesh?') and then answers it with the baraita \u2014 this is precisely the transitional moment described in candidate 0's prose, which frames the Gemara's question about why the verse is limited to a limb rather than flesh, and notes that a braisa is invoked to address this; candidate 1's prose describes only the baraita's content (already the answer), while candidate 0 captures both the challenge and the baraita invocation together, matching this passage perfectly.",
+      "chosen_heading": "Meat vs. Limb (II)",
+      "current_heading": "Yosei: Non-Replacement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rebbi: Adds Flesh",
+    "candidates": [
+      "Akiva: Animal Analogy",
+      "Rebbi: Adds Flesh",
+      "Arkuva Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Akiva's and Rebbi's statements together, and heading 0 ('Akiva: Animal Analogy') is the first of the two positions presented, with heading 1's prose describing Rebbi's extension \u2014 but since the Talmudic text presents both opinions as a single quoted unit, it belongs under the heading that introduces the debate, which is heading 0, where the essay prose for heading 1 already summarizes Rebbi's view in its own words without needing the quote to sit there separately.",
+      "chosen_heading": "Akiva: Animal Analogy",
+      "current_heading": "Rebbi: Adds Flesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Arkuva Debate",
+    "candidates": [
+      "Rebbi: Adds Flesh",
+      "Arkuva Debate",
+      "Organs Test Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the practical difference between Rabbi Yehuda HaNasi and Rabbi Akiva regarding the leg joint (arkuva), which is precisely what the 'Arkuva Debate' section's prose discusses.",
+      "chosen_heading": "Arkuva Debate",
+      "current_heading": "Arkuva Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Organs Test Case",
+    "candidates": [
+      "Organs Test Case",
+      "Sheratzim Debates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly concerns Rav Pappa's identification of the kidney and upper lip as the practical difference between Rabbi Akiva and Rabbi Yosei HaGelili, which is precisely what the 'Organs Test Case' prose discusses.",
+      "chosen_heading": "Organs Test Case",
+      "current_heading": "Organs Test Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Sheratzim Debates",
+    "candidates": [
+      "Sheratzim Debates",
+      "Both Pesukim Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the baraita about sheratzim with the three-way debate (Rabbi Yosei HaGelili, Rabbi Akiva, Rabbi Yehuda HaNasi) and Rav Pappa's distinction, which is precisely what the 'Sheratzim Debates' prose describes.",
+      "chosen_heading": "Sheratzim Debates",
+      "current_heading": "Sheratzim Debates",
+      "moved": false
+    }
+  }
+]

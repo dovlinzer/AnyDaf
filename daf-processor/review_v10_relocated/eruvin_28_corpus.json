@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Pri Mipri & Mushrooms",
+    "candidates": [
+      "Mishnah Overview",
+      "Reb Yochanan's Warning",
+      "Fish Brine Debate",
+      "Hermeneutical Schools",
+      "Pri Mipri & Mushrooms",
+      "Vlad Vladot & Fish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The baraita defining the category as 'vlad vladot ha'aretz' (offspring of the offspring of the earth) is precisely what the prose in candidate 5 describes as 'a second braita formulating the same rule differently: mah ha'prat meforash vlad vladot aretz.'",
+      "chosen_heading": "Vlad Vladot & Fish",
+      "current_heading": "Pri Mipri & Mushrooms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Vlad Vladot & Fish",
+    "candidates": [
+      "Pri Mipri & Mushrooms",
+      "Vlad Vladot & Fish",
+      "Birds & Creation",
+      "Abstraction Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Abaye's fish distinction, the challenge from the putita lashes count, and Ravina's fowl answer \u2014 are precisely the content described in the 'Vlad Vladot & Fish' prose, which explicitly narrates each of these steps including the putita challenge and Ravina's subsequent proposal.",
+      "chosen_heading": "Vlad Vladot & Fish",
+      "current_heading": "Vlad Vladot & Fish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Abstraction Debate",
+    "candidates": [
+      "Birds & Creation",
+      "Abstraction Debate",
+      "Eatable vs. Uneatable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's explanation of why one posek includes fowl (klala basra davka) and the other excludes fowl (klala kamma davka), which is precisely what the 'Abstraction Debate' prose describes as the central question and answer of that section.",
+      "chosen_heading": "Abstraction Debate",
+      "current_heading": "Abstraction Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Eatable vs. Uneatable",
+    "candidates": [
+      "Eatable vs. Uneatable",
+      "Clover Sterilization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's statement listing which items may or may not be used for eruv, which is precisely what heading 0 ('Eatable vs. Uneatable') discusses, before the Gemara's questioning of sweet clover begins in heading 1.",
+      "chosen_heading": "Eatable vs. Uneatable",
+      "current_heading": "Eatable vs. Uneatable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Clover Sterilization",
+    "candidates": [
+      "Clover Sterilization",
+      "Green Corn in Bavel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the permissibility of using sweet clover (gudgadaniyot) for eruv and its sterilizing effects, which is precisely what the 'Clover Sterilization' prose describes in detail.",
+      "chosen_heading": "Clover Sterilization",
+      "current_heading": "Clover Sterilization",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Green Corn in Bavel",
+    "candidates": [
+      "Green Corn in Bavel",
+      "Intention Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction in Rav's rulings on chaziz and the Gemara's resolution that the earlier prohibition predated Rav's arrival in Babylonia, which is precisely what the 'Green Corn in Bavel' prose describes.",
+      "chosen_heading": "Green Corn in Bavel",
+      "current_heading": "Green Corn in Bavel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Intention Changes",
+    "candidates": [
+      "Intention Changes",
+      "Child's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain of objection and resolution about whether Babylonian practice suffices to define chaziz as human food, culminating in the 'garden variety' answer and the arugula-seeds digression \u2014 exactly the content described in the 'Intention Changes' prose.",
+      "chosen_heading": "Intention Changes",
+      "current_heading": "Intention Changes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Child's Teaching",
+    "candidates": [
+      "Child's Teaching",
+      "Unripe Dates Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous narrative about Rabbi Zeira sitting at the doorway, questioning the schoolchild about blessings for dodder and green grain, and the Gemara's resolution \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Child's Teaching",
+      "current_heading": "Child's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Unripe Dates Issue",
+    "candidates": [
+      "Unripe Dates Issue",
+      "Kore as Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items form a continuous chain discussing whether unripe dates can be used for eruv, moving through the baraita about kore and kafniyot, Rabbi Yehuda's position, the nischane resolution and its rejection, Rabbi Yochanan's ho'il principle, and the bitter almonds baraita that contextualizes that principle \u2014 all of which is precisely what the 'Unripe Dates Issue' prose describes.",
+      "chosen_heading": "Unripe Dates Issue",
+      "current_heading": "Unripe Dates Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Kore as Wood",
+    "candidates": [
+      "Kore as Wood",
+      "Boiling & Frying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's ruling that kore is like wood and the Gemara's immediate question of how it differs from the first tanna, which is precisely what the 'Kore as Wood' prose discusses.",
+      "chosen_heading": "Kore as Wood",
+      "current_heading": "Kore as Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Boiling & Frying",
+    "candidates": [
+      "Boiling & Frying",
+      "Rava on Bracha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye's statement about boiling and frying as the practical difference, which matches exactly the prose under 'Boiling & Frying' that explains this very distinction.",
+      "chosen_heading": "Boiling & Frying",
+      "current_heading": "Boiling & Frying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rava on Bracha",
+    "candidates": [
+      "Rava on Bracha",
+      "Rav Yehuda vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection using the hide/placenta baraita to challenge the notion that boiling/frying doesn't confer food status, which matches exactly the prose in 'Rava on Bracha' describing this argument.",
+      "chosen_heading": "Rava on Bracha",
+      "current_heading": "Rava on Bracha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rav Yehuda vs. Shmuel",
+    "candidates": [
+      "Rav Yehuda vs. Shmuel",
+      "Final Ruling on Kore"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Yehuda vs. Shmuel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the dispute between Rav Yehuda and Shmuel over the blessing on kore, which matches heading 0's prose about the bracha debate.",
+      "second_heading": "Final Ruling on Kore",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover Shmuel's concession to Rav Yehuda via the radish analogy, the Gemara's rejection of that analogy, and the final ruling following Shmuel \u2014 all of which matches heading 1's prose exactly.",
+      "current_heading": "Rav Yehuda vs. Shmuel",
+      "moved": true
+    }
+  }
+]

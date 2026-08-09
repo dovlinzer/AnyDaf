@@ -1,0 +1,152 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Nedarim & Bittul",
+    "candidates": [
+      "Sugya Overview",
+      "Konam vs. Ochel/Toeim",
+      "Bittul Question",
+      "Nedarim & Bittul",
+      "Davar She'Yesh Lo",
+      "Terumah Objection",
+      "Power of Speech",
+      "Theology & Derash",
+      "Terumah Batel Case",
+      "Terumah Pre-Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abba's statement that konamot/nedarim are different because they have a pathway to become permitted (davar she-yesh lo matirin) and therefore bittul does not apply, which is precisely what the 'Nedarim & Bittul' section's prose describes.",
+      "chosen_heading": "Nedarim & Bittul",
+      "current_heading": "Nedarim & Bittul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Terumah Pre-Transfer",
+    "candidates": [
+      "Davar She'Yesh Lo",
+      "Terumah Objection",
+      "Power of Speech",
+      "Theology & Derash",
+      "Terumah Batel Case",
+      "Terumah Pre-Transfer",
+      "No Charge Rule",
+      "R. Natan Source",
+      "Bamah Metaphor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terumah Batel Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the gemara's challenge to the 'teruma in kohen's hands' resolution and the counter-proposal about an Israelite heir, which directly corresponds to heading 4 ('Terumah Batel Case') discussing the first attempted limitation that bittul only applies after transfer to a kohen.",
+      "second_heading": "Terumah Pre-Transfer",
+      "second_confidence": "high",
+      "second_reason": "Item 3's challenge about 'chutz midmei otah se'ah' \u2014 that the seller cannot charge for the teruma unit \u2014 is precisely the content described in heading 5/'No Charge Rule' (index 6), which explicitly discusses this detail proving the teruma originated with the Israelite and was never transferred.",
+      "current_heading": "Terumah Pre-Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Bamah Metaphor",
+    "candidates": [
+      "No Charge Rule",
+      "R. Natan Source",
+      "Bamah Metaphor",
+      "Neder Fulfillment",
+      "Critique Context",
+      "Historical Context",
+      "Mitzvah Reversal",
+      "Terumah Obligation",
+      "Replanted Tithes",
+      "Chisda Objection",
+      "Ran Analysis",
+      "Transform Question",
+      "Mezuzah Case",
+      "Six-to-Seven Year",
+      "Black Leaves Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Rabbi Natan distinction between konamot and teruma, explaining the mitzvah to seek release from vows \u2014 which is precisely what the 'R. Natan Source' prose describes as the definitive answer about why konamot are yesh lo matirin.",
+      "chosen_heading": "R. Natan Source",
+      "current_heading": "Bamah Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Black Leaves Test",
+    "candidates": [
+      "Neder Fulfillment",
+      "Critique Context",
+      "Historical Context",
+      "Mitzvah Reversal",
+      "Terumah Obligation",
+      "Replanted Tithes",
+      "Chisda Objection",
+      "Ran Analysis",
+      "Transform Question",
+      "Mezuzah Case",
+      "Six-to-Seven Year",
+      "Black Leaves Test",
+      "New Growth Only",
+      "Gamliel Position",
+      "Tanna Kamma Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's direct examination of Rabbi Yochanan's ruling about the replanted tithed litra of onions \u2014 Rav Chisda's objection and Rabba's response via the shmitta onion mishna \u2014 which is precisely what heading 5 ('Replanted Tithes') introduces, not heading 11 ('Black Leaves Test') which discusses the observable criterion and its implications for bittul in reverse.",
+      "chosen_heading": "Replanted Tithes",
+      "current_heading": "Black Leaves Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Tanna Kamma Debate",
+    "candidates": [
+      "New Growth Only",
+      "Gamliel Position",
+      "Tanna Kamma Debate",
+      "No Effort Case",
+      "Effort Exerted",
+      "Vegetable to Seed",
+      "Ma'aser Contrast",
+      "Verse Limitation",
+      "Natural Planting",
+      "Dual Tevel Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rabban Shimon ben Gamliel's ruling applies only where he did not exert effort (lo tarach), while where effort is exerted the prohibition is nullified by the majority \u2014 this directly introduces the tarach/no-tarach distinction that heading 3 ('No Effort Case') discusses as its central topic.",
+      "chosen_heading": "No Effort Case",
+      "current_heading": "Tanna Kamma Debate",
+      "moved": true
+    }
+  }
+]

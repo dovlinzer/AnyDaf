@@ -40,7 +40,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Distinguishing the Prophet's Categories: Uprooting All vs. Partial Overrides",
@@ -73,7 +73,7 @@
           "timestamp": "12:29"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -533,5 +533,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "27:34",
+  "amud_b_micro_title": "Mida K'Neged Mida",
+  "shiur_start_daf": 90,
+  "shiur_start_amud": "a"
 }

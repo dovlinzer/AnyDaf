@@ -1,0 +1,321 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Punishment Gradations",
+    "candidates": [
+      "Shevua vs. Other Sins",
+      "Collective Responsibility",
+      "Punishment Gradations",
+      "Universal Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the resolution about protesting (item 1), the question about gradations between family/world wicked/righteous (item 2), and the answer about graduated punishments for other sins (item 3) \u2014 belong under 'Collective Responsibility,' whose prose explicitly quotes and discusses all three of these exact Aramaic phrases (hasam she'yesh b'yadam limchot, the question about rish'ei d'mishpacha vs. d'alma, and the graduated punishment framework for other sins), whereas 'Punishment Gradations' prose discusses the shevua-specific gradations which come afterward.",
+      "chosen_heading": "Collective Responsibility",
+      "current_heading": "Punishment Gradations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Universal Impact",
+    "candidates": [
+      "Punishment Gradations",
+      "Universal Impact",
+      "Refusal & Joint Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the punishment gradations for false oath specifically \u2014 perpetrator and family punished equally, wider world wicked punished severely, and righteous punished lightly \u2014 which matches exactly the content described in candidate 0's prose about the shevua case shifting the structure of punishment gradations.",
+      "chosen_heading": "Punishment Gradations",
+      "current_heading": "Universal Impact",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Refusal & Joint Liability",
+    "candidates": [
+      "Refusal & Joint Liability",
+      "Oath Language Norms",
+      "Hollowed Staff Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita's ruling about refusing or accepting the oath and the question of why the one administering the oath is also called wicked, with the answer from Rabbi Shimon ben Tarfon \u2014 all of which is explicitly discussed in the 'Refusal & Joint Liability' prose.",
+      "chosen_heading": "Refusal & Joint Liability",
+      "current_heading": "Refusal & Joint Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Hollowed Staff Case",
+    "candidates": [
+      "Oath Language Norms",
+      "Hollowed Staff Case",
+      "Mishnah Ambiguity",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Kesef O Keilim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the court must state the oath caveat \u2014 specifically citing the reed/staff incident of Rava's court \u2014 which is precisely what the 'Hollowed Staff Case' section's prose discusses.",
+      "chosen_heading": "Hollowed Staff Case",
+      "current_heading": "Hollowed Staff Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Kesef O Keilim",
+    "candidates": [
+      "Mishnah Ambiguity",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Kesef O Keilim",
+      "Sela Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 21 items discuss the Rav-Shmuel dispute about whether the shtei kesef threshold applies to the claim or the denial, the biblical derivations, and the series of Mishnaic cases (shtei kesef/peruta, litra zahav, dinar zahav) that the prose of heading 3 ('Kesef O Keilim') explicitly and comprehensively covers.",
+      "chosen_heading": "Kesef O Keilim",
+      "current_heading": "Kesef O Keilim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Sela Case",
+    "candidates": [
+      "Sela Case",
+      "Shmuel's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Chiyya supporting Rav's position on the sela case, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Sela Case",
+      "current_heading": "Sela Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Shmuel's Teaching",
+    "candidates": [
+      "Shmuel's Teaching",
+      "Rav's Eid Echad View",
+      "Eid Echad Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's direct teaching distinguishing modeh bemiktzat from eid echad cases, which is precisely what the 'Shmuel's Teaching' section's prose introduces and elaborates upon.",
+      "chosen_heading": "Shmuel's Teaching",
+      "current_heading": "Shmuel's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Eid Echad Basis",
+    "candidates": [
+      "Rav's Eid Echad View",
+      "Eid Echad Basis",
+      "Shmuel on Multiple Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage provides the textual derivation (from Deuteronomy 19:15) and the baraita establishing that one witness obligates a shevua, which is precisely what the 'Eid Echad Basis' prose section describes.",
+      "chosen_heading": "Eid Echad Basis",
+      "current_heading": "Eid Echad Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Shmuel on Multiple Items",
+    "candidates": [
+      "Shmuel on Multiple Items",
+      "Support for Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Na\u1e25man's teaching in the name of Shmuel about claiming wheat and barley, which is precisely what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Shmuel on Multiple Items",
+      "current_heading": "Shmuel on Multiple Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Support for Shmuel",
+    "candidates": [
+      "Support for Shmuel",
+      "Wheat vs. Barley Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yitzchak's 'yasher' response, Rabbi Yochanan's agreement, and the gemara's discussion of why Reish Lakish's position was unknown (tarrying or drinking), which is precisely what the 'Support for Shmuel' prose describes.",
+      "chosen_heading": "Support for Shmuel",
+      "current_heading": "Support for Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Wheat vs. Barley Alone",
+    "candidates": [
+      "Wheat vs. Barley Alone",
+      "Vessels & Land Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the wheat-vs-barley Mishnah and the gemara's attempt to support Shmuel followed by the rejection, which is precisely what the 'Wheat vs. Barley Alone' prose describes.",
+      "chosen_heading": "Wheat vs. Barley Alone",
+      "current_heading": "Wheat vs. Barley Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Vessels & Land Problem",
+    "candidates": [
+      "Vessels & Land Problem",
+      "Unified Claims Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Vessels & Land Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 cover the vessels-and-land case, the zokkhin inference, and its resolution, matching exactly the prose of candidate 0.",
+      "second_heading": "Unified Claims Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 7-11 open a new dispute among Amoraim about Rabbi Yochanan's position on chitin u'se'orin, then re-examine the same sources as contradictions \u2014 exactly what candidate 1's prose describes.",
+      "current_heading": "Vessels & Land Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Unified Claims Problem",
+    "candidates": [
+      "Unified Claims Problem",
+      "Rava's Challenge",
+      "Admon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that Rava uses as a challenge \u2014 ox/sheep cross-claim yields patur, but ox-and-sheep claim with admission to one yields chayav \u2014 which is precisely what the 'Rava's Challenge' prose describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Unified Claims Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Admon's Position",
+    "candidates": [
+      "Rava's Challenge",
+      "Admon's Position",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the single exchange where Rabban Gamliel is proposed and rejected, and Admon is identified as the correct attribution \u2014 exactly what heading 1 ('Admon's Position') describes in its prose.",
+      "chosen_heading": "Admon's Position",
+      "current_heading": "Admon's Position",
+      "moved": false
+    }
+  }
+]

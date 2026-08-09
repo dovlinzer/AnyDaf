@@ -1,0 +1,417 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Kedusha Mechanisms",
+    "candidates": [
+      "Shiva Tuvei Ha'ir",
+      "Elders + Community",
+      "Desacralizing Sale",
+      "Lemishta Interpretation",
+      "Kedusha Mechanisms",
+      "Fallen Synagogue Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement introducing the shiva tuvei ha'ir qualification, which is precisely what candidate 0 ('Shiva Tuvei Ha'ir') describes as its content \u2014 the gemara returning to the mishna with Rava's lo shanu ela qualification about the conditions under which restrictions apply.",
+      "chosen_heading": "Shiva Tuvei Ha'ir",
+      "current_heading": "Kedusha Mechanisms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Fallen Synagogue Sale",
+    "candidates": [
+      "Kedusha Mechanisms",
+      "Fallen Synagogue Sale",
+      "Material Salvage Plan",
+      "Rav Chisda's Rule",
+      "Negligence Concern",
+      "Queries to Authorities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's mound from a collapsed synagogue and his question about sowing it, which is precisely what the 'Fallen Synagogue Sale' prose discusses in detail.",
+      "chosen_heading": "Fallen Synagogue Sale",
+      "current_heading": "Fallen Synagogue Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Queries to Authorities",
+    "candidates": [
+      "Material Salvage Plan",
+      "Rav Chisda's Rule",
+      "Negligence Concern",
+      "Queries to Authorities",
+      "Chalufa & Zvuna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire sequence \u2014 Rami bar Abba's building project, the old synagogue, his material salvage plan, Rav \u1e24isda's rule, the negligence concern, and the queries to authorities \u2014 making it a single unified narrative that best sits under 'Material Salvage Plan' (candidate 0), which introduces the whole scenario, with the subsequent headings being the essay author's analytical breakdown of what the passage contains.",
+      "chosen_heading": "Material Salvage Plan",
+      "current_heading": "Queries to Authorities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Chalufa & Zvuna",
+    "candidates": [
+      "Queries to Authorities",
+      "Chalufa & Zvuna",
+      "Rental & Collateral",
+      "Bricks Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's statement covering both the permitted acts (exchange/sale) and the prohibited acts (rental/mortgage) with the reasoning, and the current placement under 'Chalufa & Zvuna' is correct as that section introduces Rava's general principle which this text directly supplies.",
+      "chosen_heading": "Chalufa & Zvuna",
+      "current_heading": "Chalufa & Zvuna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Bricks Sanctity",
+    "candidates": [
+      "Rental & Collateral",
+      "Bricks Sanctity",
+      "Hazmanah & Preparation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rules for old versus new bricks of a synagogue, matching the 'Bricks Sanctity' section's prose about *atikta* (old bricks) and the permitted/forbidden uses, which is exactly what this Gemara text covers.",
+      "chosen_heading": "Bricks Sanctity",
+      "current_heading": "Bricks Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Hazmanah & Preparation",
+    "candidates": [
+      "Hazmanah & Preparation",
+      "Gift Controversy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the hazmanah milta debate and the analogy of woven shrouds versus spun thread, which is precisely what the 'Hazmanah & Preparation' section's prose addresses.",
+      "chosen_heading": "Hazmanah & Preparation",
+      "current_heading": "Hazmanah & Preparation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Gift Controversy",
+    "candidates": [
+      "Gift Controversy",
+      "Mitzvah vs. Kedusha",
+      "Mitzvah Objects",
+      "Kedusha Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the Rav A\u1e25a and Ravina dispute over whether giving a synagogue as a gift removes its sanctity, which is precisely what the 'Gift Controversy' section's prose discusses in detail.",
+      "chosen_heading": "Gift Controversy",
+      "current_heading": "Gift Controversy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Kedusha Objects",
+    "candidates": [
+      "Mitzvah vs. Kedusha",
+      "Mitzvah Objects",
+      "Kedusha Objects",
+      "Bimah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita introduces the entire distinction between tashmishei mitzvah and tashmishei kedushah, including both lists, so it belongs under the heading that introduces this categorical distinction, not under the heading discussing only the kedushah objects.",
+      "chosen_heading": "Mitzvah vs. Kedusha",
+      "current_heading": "Kedusha Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Bimah Status",
+    "candidates": [
+      "Kedusha Objects",
+      "Bimah Status",
+      "Parochet Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses Rava's evolving assessment of the korsaya (bimah/lectern) and its status as tashmish de'tashmish versus tashmish kedushah, which is precisely what the 'Bimah Status' prose section discusses.",
+      "chosen_heading": "Bimah Status",
+      "current_heading": "Bimah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Parochet Status",
+    "candidates": [
+      "Parochet Status",
+      "Dead Body Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rava's rulings about the sanctity status of synagogue/Torah accessories (curtain, ark, wrapping cloths, cases), which is precisely what the 'Parochet Status' prose discusses.",
+      "chosen_heading": "Parochet Status",
+      "current_heading": "Parochet Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Dead Body Problem",
+    "candidates": [
+      "Dead Body Problem",
+      "Ark as Barrier",
+      "Portability Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the problem scenario (corpse in adjacent room, priests wanting to pray, asking Rava) AND Rava's solution, which together belong under the 'Dead Body Problem' heading that introduces the case, while the 'Ark as Barrier' heading's prose already covers Rava's solution separately \u2014 but since the Gemara text is a single continuous passage covering both the problem and solution, and it currently sits under heading 0 which introduces the full scenario, that is the correct placement.",
+      "chosen_heading": "Dead Body Problem",
+      "current_heading": "Dead Body Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Portability Objection",
+    "candidates": [
+      "Ark as Barrier",
+      "Portability Objection",
+      "Concession",
+      "Worn Wraps Reuse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the rabbis' objection about the ark being moved while full, which is precisely what the 'Portability Objection' prose describes, and Rava's concession ('Ei hachi lo efshar') belongs to the 'Concession' section \u2014 but since there is only one item and it includes both the objection and the concession, it best fits under 'Portability Objection' where the challenge is introduced, matching the current placement.",
+      "chosen_heading": "Portability Objection",
+      "current_heading": "Portability Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Worn Wraps Reuse",
+    "candidates": [
+      "Concession",
+      "Worn Wraps Reuse",
+      "Torah Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Mar Zutra's ruling about worn wrapping cloths being made into burial shrouds, which is precisely what the 'Worn Wraps Reuse' prose section discusses.",
+      "chosen_heading": "Worn Wraps Reuse",
+      "current_heading": "Worn Wraps Reuse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Torah Burial",
+    "candidates": [
+      "Torah Burial",
+      "Conversion Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses burying a worn Torah scroll next to a Torah scholar in an earthenware vessel, which matches exactly the prose under 'Torah Burial'.",
+      "chosen_heading": "Torah Burial",
+      "current_heading": "Torah Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Conversion Direction",
+    "candidates": [
+      "Conversion Direction",
+      "Ben Levi's Ruling",
+      "Bayit Gadol Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the dispute between Rav Pappi and Rav Pappa about the direction of permitted conversion between synagogue and study hall, which is precisely what heading 0 ('Conversion Direction') discusses \u2014 the heading 1 prose misattributes the ruling to 'Rav Pappa' and conflates the supporting proof incorrectly, but the core content of items 1-2 (the Rav Pappi vs. Rav Pappa dispute and Rabbi Yehoshua ben Levi's corroborating ruling) matches heading 0's topic most directly.",
+      "chosen_heading": "Conversion Direction",
+      "current_heading": "Conversion Direction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Bayit Gadol Dispute",
+    "candidates": [
+      "Ben Levi's Ruling",
+      "Bayit Gadol Dispute",
+      "Scriptural Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Bar Kappara's derashah on 'kol beit gadol' and the dispute between Rabbi Yochanan and Rabbi Yehoshua ben Levi, which is precisely what the 'Bayit Gadol Dispute' section prose describes.",
+      "chosen_heading": "Bayit Gadol Dispute",
+      "current_heading": "Bayit Gadol Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Scriptural Support",
+    "candidates": [
+      "Scriptural Support",
+      "Primacy Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage provides the scriptural prooftexts for each opinion (Torah from Isaiah 42:21, prayer from II Kings 8:4), which is precisely what the 'Scriptural Support' section's prose discusses.",
+      "chosen_heading": "Scriptural Support",
+      "current_heading": "Scriptural Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Primacy Question",
+    "candidates": [
+      "Primacy Question",
+      "Same Level Question",
+      "Upgrade Necessity",
+      "Mishnah Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly concludes the identification of Rabbi Yehoshua ben Levi as the one who holds that 'beit gadol' means a place of Torah study, which is precisely what the 'Primacy Question' prose describes and analyzes.",
+      "chosen_heading": "Primacy Question",
+      "current_heading": "Primacy Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Mishnah Evidence",
+    "candidates": [
+      "Same Level Question",
+      "Upgrade Necessity",
+      "Mishnah Evidence",
+      "Wrapping Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the dilemma about selling an old sefer Torah to buy a new one \u2014 item 1 raises the question and item 2 attempts and rejects a resolution \u2014 which perfectly matches the 'Same Level Question' heading's prose describing the dilemma of mahu limkor sefer yashan likach bo chadash, while the current heading 'Mishnah Evidence' only captures item 2's content.",
+      "chosen_heading": "Same Level Question",
+      "current_heading": "Mishnah Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Wrapping Hierarchy",
+    "candidates": [
+      "Mishnah Evidence",
+      "Wrapping Hierarchy",
+      "Inconclusive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about wrapping cloths and their hierarchy of sanctity, which is exactly what the 'Wrapping Hierarchy' section's prose discusses.",
+      "chosen_heading": "Wrapping Hierarchy",
+      "current_heading": "Wrapping Hierarchy",
+      "moved": false
+    }
+  }
+]

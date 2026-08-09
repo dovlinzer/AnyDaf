@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Source for Separate Korbanot Per Melacha Category",
@@ -87,7 +87,7 @@
           "timestamp": "18:40"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -111,8 +111,8 @@
           "timestamp": "22:00"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Rabbi Yossi's Alternative Source from Achas Meihena (continued)",
@@ -125,7 +125,7 @@
           "timestamp": "23:08"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -183,8 +183,8 @@
           "timestamp": "25:04"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "The Tannaitic Source: Thirty-Nine Melachot and Multiple Korbanot (continued)",
@@ -450,5 +450,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "23:08",
+  "amud_b_micro_title": "Shmuel's Disagreement",
+  "shiur_start_daf": 70,
+  "shiur_start_amud": "a"
 }

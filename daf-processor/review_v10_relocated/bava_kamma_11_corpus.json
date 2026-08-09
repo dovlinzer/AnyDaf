@@ -1,0 +1,509 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Owners & Carcass",
+    "candidates": [
+      "Mishna: Tashlumei Nezek",
+      "Owners & Carcass",
+      "Makeh Behema Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's observation about the mishna's linguistic choice of 'tashlumei nizko' versus 'nizko,' which is precisely what candidate 0's prose describes, including the lead-in to the baraita \u2014 the baraita in item 2 is the one that candidate 0 says 'leads directly' to, making heading 0 the natural home for both items.",
+      "chosen_heading": "Mishna: Tashlumei Nezek",
+      "current_heading": "Owners & Carcass",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Makeh Behema Source",
+    "candidates": [
+      "Owners & Carcass",
+      "Makeh Behema Source",
+      "Shomer & Hatreifah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the rule about supplementing (rather than fully replacing) the value via Rabbi Ami's reading of 'yeshallemenna' as 'yashlimenna,' which is precisely what the 'Makeh Behema Source' prose describes.",
+      "chosen_heading": "Makeh Behema Source",
+      "current_heading": "Makeh Behema Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Shomer & Hatreifah",
+    "candidates": [
+      "Shomer & Hatreifah",
+      "Goring & Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's derivation from the verse about a torn animal (shomer/tereifah context), which matches exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Shomer & Hatreifah",
+      "current_heading": "Shomer & Hatreifah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Goring & Ownership",
+    "candidates": [
+      "Goring & Ownership",
+      "Three Cases Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present \u1e24izkiyya's derivation that the carcass belongs to the injured party from Exodus 21:36, which is precisely what the 'Goring & Ownership' prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Goring & Ownership",
+      "current_heading": "Goring & Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Three Cases Logic",
+    "candidates": [
+      "Three Cases Logic",
+      "Carcass as Payment",
+      "Depreciation Matter"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Three Cases Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 cover Abaye's explanation of 'vehamet yihyeh lo' and the entire utzricha analysis showing why all three cases must be stated, which matches the Three Cases Logic prose exactly.",
+      "second_heading": "Carcass as Payment",
+      "second_confidence": "high",
+      "second_reason": "Items 7-8 are Rav Kahana's challenge to Rav about why it matters who owns the carcass given that any item of value can serve as payment, which matches the Carcass as Payment prose exactly.",
+      "current_heading": "Three Cases Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Depreciation Matter",
+    "candidates": [
+      "Carcass as Payment",
+      "Depreciation Matter",
+      "Tannaim Dispute",
+      "Tarof Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the depreciation of the carcass (p\u0115chat nevelah) as the practical consequence of the ownership principle, which is precisely what the 'Depreciation Matter' section's prose discusses.",
+      "chosen_heading": "Depreciation Matter",
+      "current_heading": "Depreciation Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Tarof Pasuk",
+    "candidates": [
+      "Tannaim Dispute",
+      "Tarof Pasuk",
+      "All Agree Owner",
+      "Bringing Carcass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's raising of the possibility that p'chas neveilah is a machlokes tanna'im and the baraita evidence for it, which is precisely what candidate 0 ('Tannaim Dispute') describes \u2014 the gemara raises this question and brings the tanna kamma/Abba Shaul dispute as potential evidence, before candidate 1 ('Tarof Pasuk') then analyzes the content of that baraita in detail.",
+      "chosen_heading": "Tannaim Dispute",
+      "current_heading": "Tarof Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Bringing Carcass",
+    "candidates": [
+      "All Agree Owner",
+      "Bringing Carcass",
+      "Effort & Debt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All Agree Owner",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the gemara's rejection of the 'pchaz neveilah d'mazik' reading and its counter-claim that everyone agrees the carcass belongs to the nizak \u2014 exactly what candidate 0 ('All Agree Owner') describes.",
+      "second_heading": "Bringing Carcass",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita from 'acheirim omrim' proving the mazik must bring the carcass up from the pit, which candidate 1 ('Bringing Carcass') explicitly discusses in its prose.",
+      "current_heading": "Bringing Carcass",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Effort & Debt",
+    "candidates": [
+      "Effort & Debt",
+      "Shamin Principle",
+      "Possession vs Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Abaye-Rava dialogue about the effort to retrieve the carcass and the beam-in-city/field proverb, which is exactly what the 'Effort & Debt' prose describes in detail.",
+      "chosen_heading": "Effort & Debt",
+      "current_heading": "Effort & Debt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Possession vs Damage",
+    "candidates": [
+      "Shamin Principle",
+      "Possession vs Damage",
+      "Shoel Full Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's teaching about 'ein shamin' for thieves/robbers vs. nizikin, which is precisely what the 'Shamin Principle' section's prose introduces and discusses, making it a clearly better match than the 'Possession vs Damage' section where it currently sits.",
+      "chosen_heading": "Shamin Principle",
+      "current_heading": "Possession vs Damage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Shoel Full Amount",
+    "candidates": [
+      "Possession vs Damage",
+      "Shoel Full Amount",
+      "Axe Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic dilemma about which direction Shmuel's statement goes \u2014 whether he means a shoel does or does not get appraised \u2014 which is precisely the textual dispute and conceptual tension described in the 'Shoel Full Amount' prose.",
+      "chosen_heading": "Shoel Full Amount",
+      "current_heading": "Shoel Full Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Axe Case",
+    "candidates": [
+      "Axe Case",
+      "Challenge to Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the axe-borrowing incident and Rav's ruling to pay a full-value axe, which matches exactly the 'Axe Case' prose describing that same incident and its implication that a shoel pays the full amount.",
+      "chosen_heading": "Axe Case",
+      "current_heading": "Axe Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Challenge to Rav",
+    "candidates": [
+      "Challenge to Rav",
+      "Ulla's Version",
+      "Rav Pappa Halakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Kahana and Rav Asi challenging Rav and his silence leading to the inference of shamin, which is exactly what heading 0 ('Challenge to Rav') discusses.",
+      "chosen_heading": "Challenge to Rav",
+      "current_heading": "Challenge to Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rav Pappa Halakha",
+    "candidates": [
+      "Ulla's Version",
+      "Rav Pappa Halakha",
+      "Shoel Halakha",
+      "Birth Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ulla's ruling (shamin leganav ulegazlan) AND Rav Pappi's counter-ruling AND the final halakha, making it a single unified Talmudic excerpt that should sit under heading 0 ('Ulla's Version') which introduces Ulla's teaching \u2014 the current placement splits what is one continuous Gemara passage across multiple headings.",
+      "chosen_heading": "Ulla's Version",
+      "current_heading": "Rav Pappa Halakha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Birth Timing",
+    "candidates": [
+      "Shoel Halakha",
+      "Birth Timing",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Ulla's ruling that counting begins from the first day when the afterbirth emerged partially on two days, which is precisely what the 'Birth Timing' section's prose describes.",
+      "chosen_heading": "Birth Timing",
+      "current_heading": "Birth Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Rava Challenge",
+      "Fetus Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rava's challenge and resolution \u2014 he questions counting from the first day as a stringency that leads to leniency, then rules she is concerned from the first day but counts only from the second \u2014 exactly matching the 'Rava Challenge' prose.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Fetus Presence",
+    "candidates": [
+      "Fetus Presence",
+      "Bechor Treifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion about whether Ulla's teaching adds a chiddush beyond the mishna regarding shilya and velad, which is exactly what the 'Fetus Presence' prose describes.",
+      "chosen_heading": "Fetus Presence",
+      "current_heading": "Fetus Presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Bechor Treifa",
+    "candidates": [
+      "Bechor Treifa",
+      "Animal Meshicha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the halakha that a firstborn mauled within thirty days need not be redeemed, exactly matching the 'Bechor Treifa' prose which describes Ulla/Rabbi Elazar's ruling and the corroborating baraita with the word 'ach' limiting the obligation.",
+      "chosen_heading": "Bechor Treifa",
+      "current_heading": "Bechor Treifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Animal Meshicha",
+    "candidates": [
+      "Animal Meshicha",
+      "Estate Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the acquisition of a large animal through meshicha, the tension with mesira in Kiddushin, and the baraita with the Rabbis and Rabbi Shimon \u2014 exactly what the 'Animal Meshicha' prose describes.",
+      "chosen_heading": "Animal Meshicha",
+      "current_heading": "Animal Meshicha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Estate Division",
+    "candidates": [
+      "Estate Division",
+      "Shomer Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the appraisal of clothing when brothers divide an inherited estate, which is exactly what the 'Estate Division' prose describes, including the specific rulings about children's clothing and the eldest brother's representative role.",
+      "chosen_heading": "Estate Division",
+      "current_heading": "Estate Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Shomer Transfer",
+    "candidates": [
+      "Shomer Transfer",
+      "Rava Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ulla citing Rabbi Elazar's ruling that a bailee who transfers to another bailee is exempt, covering both the unpaid-to-paid and paid-to-unpaid cases with the reasoning of 'conveyed to a mentally competent person' \u2014 matching precisely the content described in the 'Shomer Transfer' prose.",
+      "chosen_heading": "Shomer Transfer",
+      "current_heading": "Shomer Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Rava Liable",
+    "candidates": [
+      "Rava Liable",
+      "Trust & Oath",
+      "Slave Collection",
+      "Nachman Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's ruling that a bailee who transfers to another bailee is liable, along with his reason (the oath-credibility argument), which is exactly what candidate 0 ('Rava Liable') discusses \u2014 the oath reason is part of Rava's own ruling and is addressed within that section's prose.",
+      "chosen_heading": "Rava Liable",
+      "current_heading": "Rava Liable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Nachman Challenge",
+    "candidates": [
+      "Trust & Oath",
+      "Slave Collection",
+      "Nachman Challenge",
+      "Slave Apotiki",
+      "Slave Publicity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Ulla's ruling that one collects from slaves, Rav Nachman's challenge about orphans/direct debtor, and Ulla's resolution via appoteiki \u2014 and the 'Slave Collection' heading's prose explicitly introduces this entire sequence including the implication about slave status as karka, making it the best match over the current 'Nachman Challenge' placement.",
+      "chosen_heading": "Slave Collection",
+      "current_heading": "Nachman Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Slave Publicity",
+    "candidates": [
+      "Slave Apotiki",
+      "Slave Publicity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the publicity distinction between slaves and oxen (kala), which is precisely what the 'Slave Publicity' section's prose discusses.",
+      "chosen_heading": "Slave Publicity",
+      "current_heading": "Slave Publicity",
+      "moved": false
+    }
+  }
+]

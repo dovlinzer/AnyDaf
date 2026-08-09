@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Raba: Gov't Stamps",
+    "candidates": [
+      "Assur L'Adam Measures",
+      "Raba: Gov't Stamps",
+      "Bein Hashmashot",
+      "Sefer Torah Analogy",
+      "Modern Scales Q&A",
+      "Baraita Se'ah List",
+      "Dry Measures",
+      "Log & Ounces",
+      "Hin & Liquid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the core ruling from Rav Yehuda/Rav about keeping inaccurate measures (including the chamber pot example) plus Rav Pappa's qualifications about stamped measures and inspectors, which matches the 'Assur L'Adam Measures' section prose exactly, not the 'Raba: Gov't Stamps' section where it currently sits.",
+      "chosen_heading": "Assur L'Adam Measures",
+      "current_heading": "Raba: Gov't Stamps",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Hin & Liquid",
+    "candidates": [
+      "Bein Hashmashot",
+      "Sefer Torah Analogy",
+      "Modern Scales Q&A",
+      "Baraita Se'ah List",
+      "Dry Measures",
+      "Log & Ounces",
+      "Hin & Liquid",
+      "Kav Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Se'ah List",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Gemara's 'v'lo hi' conclusion plus the baraita's prohibition on inaccurate measures and the beginning of the permitted dry-measure list, which matches heading 3 ('Baraita Se'ah List') perfectly.",
+      "second_heading": "Hin & Liquid",
+      "second_confidence": "high",
+      "second_reason": "Item 2 completes the dry-measure list with 'ukla' and then enumerates the full liquid-measure series including hin, log, and kortov, which is precisely what heading 6 ('Hin & Liquid') discusses.",
+      "current_heading": "Hin & Liquid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Kav Problem",
+    "candidates": [
+      "Kav Problem",
+      "Quarter & Fifth",
+      "Small Discernable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why a two-kav measure is excluded, the initial confusion-with-tarkav answer, the objection about one-third errors, and the reframing to chatzi-tarkav confusion \u2014 exactly what the 'Kav Problem' prose describes.",
+      "chosen_heading": "Kav Problem",
+      "current_heading": "Kav Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Small Discernable",
+    "candidates": [
+      "Quarter & Fifth",
+      "Small Discernable",
+      "Mikdash Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question about chatzi tomen and ukla measures (which differ by less than a quarter), which matches candidate 0's prose about why both a chatzi tuman and uchla appear on the permitted list \u2014 the question belongs under 'Quarter & Fifth' while Rav Pappa's answer is discussed in candidate 1's prose, but since the Gemara text contains both the question and answer as a unit, and candidate 0's prose explicitly sets up this exact question, the passage should be moved to candidate 0 where the question it poses is introduced.",
+      "chosen_heading": "Quarter & Fifth",
+      "current_heading": "Small Discernable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Mikdash Measures",
+    "candidates": [
+      "Small Discernable",
+      "Mikdash Measures",
+      "Ein Mosifin Shtut",
+      "Price Spike Concern",
+      "Rava: Bitul Mekach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mikdash Measures",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's discussion of why a third and quarter of a hin are both permitted despite their close ratio, resolved by Temple context and priestly vigilance \u2014 exactly what the 'Mikdash Measures' prose describes.",
+      "second_heading": "Ein Mosifin Shtut",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens Shmuel's entirely new ruling about not increasing measures by more than a sixth, which is precisely what the 'Ein Mosifin Shtut' section introduces as a 'broader and more conceptually significant rule.'",
+      "current_heading": "Mikdash Measures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rava: Bitul Mekach",
+    "candidates": [
+      "Ein Mosifin Shtut",
+      "Price Spike Concern",
+      "Rava: Bitul Mekach",
+      "Merchant Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the ona'ah/bitul mekach rationale and Rava's principle that any mistake in measure, weight, or count is reversible even below the ona'ah threshold \u2014 precisely the content described in the 'Rava: Bitul Mekach' section's prose.",
+      "chosen_heading": "Rava: Bitul Mekach",
+      "current_heading": "Rava: Bitul Mekach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Merchant Loss",
+    "candidates": [
+      "Merchant Loss",
+      "Yechezkel Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'merchant loss' rationale and the objection that merchants also need profit, which is precisely what the 'Merchant Loss' prose section describes.",
+      "chosen_heading": "Merchant Loss",
+      "current_heading": "Merchant Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Yechezkel Source",
+    "candidates": [
+      "Yechezkel Source",
+      "Maneh 50 to 60"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's statement that Shmuel found and interpreted a verse from Ezekiel, which is exactly what the 'Yechezkel Source' prose describes \u2014 the finding and expounding of that specific verse as the source for the rule.",
+      "chosen_heading": "Yechezkel Source",
+      "current_heading": "Yechezkel Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Maneh 50 to 60",
+    "candidates": [
+      "Maneh 50 to 60",
+      "Tosafot Gerah",
+      "Birchat Kohanim",
+      "Rav Pappa Cheila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's three simultaneous inferences (shema mina tlat) about the sacred maneh being doubled, the permissibility of increasing measures, and the one-sixth being calculated from the outside \u2014 exactly what the prose under 'Maneh 50 to 60' describes and analyzes.",
+      "chosen_heading": "Maneh 50 to 60",
+      "current_heading": "Maneh 50 to 60",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav Pappa Cheila",
+    "candidates": [
+      "Tosafot Gerah",
+      "Birchat Kohanim",
+      "Rav Pappa Cheila",
+      "Pumbedita & Papunia",
+      "Otzrei Peirot",
+      "Amos Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly what section 3 ('Pumbedita & Papunia') discusses \u2014 Rav Pappa's measure being sent to Pumbedita (rejected) and Papunia (accepted, called 'Roz Papa') \u2014 while section 2 covers the creation and halakhic justification of the measure, making section 3 the correct home for this specific Gemara text.",
+      "chosen_heading": "Pumbedita & Papunia",
+      "current_heading": "Rav Pappa Cheila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Amos Example",
+    "candidates": [
+      "Pumbedita & Papunia",
+      "Otzrei Peirot",
+      "Amos Example",
+      "Abua Dishmuel",
+      "Shmuel Bereih"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic and the baraita listing hoarders, usurers, measure-reducers, and price-manipulators \u2014 belong under 'Otzrei Peirot,' whose prose explicitly describes this baraita and its catalogue of economic wrongdoers, whereas the current placement 'Amos Example' discusses the Amos verses and the figure of Shabtai the fruit hoarder, which comes later in the sugya.",
+      "chosen_heading": "Otzrei Peirot",
+      "current_heading": "Amos Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Shmuel Bereih",
+    "candidates": [
+      "Abua Dishmuel",
+      "Shmuel Bereih",
+      "Father Better"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies 'Shabbtai the hoarder of produce' as the archetype of produce hoarders, which contextually introduces the problem that Shmuel's father's strategy (section 0) was designed to counteract, not the son's strategy discussed in section 1 where it currently sits.",
+      "chosen_heading": "Abua Dishmuel",
+      "current_heading": "Shmuel Bereih",
+      "moved": true
+    }
+  }
+]

@@ -108,7 +108,7 @@
           "timestamp": "26:50"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -196,7 +196,7 @@
           "timestamp": "31:02"
         }
       ],
-      "sefaria_index": 48,
+      "sefaria_index": 52,
       "matched": true
     }
   ],
@@ -339,5 +339,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 31
+  "amud_b_sefaria_index": 31,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "19:19",
+  "amud_b_micro_title": "R. Chanina's Question",
+  "shiur_start_daf": 9,
+  "shiur_start_amud": "a"
 }

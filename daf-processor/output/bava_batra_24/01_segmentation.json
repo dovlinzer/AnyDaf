@@ -288,8 +288,8 @@
           "timestamp": "42:09"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     },
     {
       "title": "Final Mishna Case: Doubt About Which Came First (No Payment)",
@@ -307,7 +307,7 @@
           "timestamp": "43:12"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 25,
       "matched": true
     }
   ],
@@ -498,5 +498,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "32:59",
+  "amud_b_micro_title": "Flask Sizes",
+  "shiur_start_daf": 24,
+  "shiur_start_amud": "a"
 }

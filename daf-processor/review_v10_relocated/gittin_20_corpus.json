@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shmuel's Blank Paper",
+    "candidates": [
+      "Shmuel's Blank Paper",
+      "Beraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's ruling about a blank piece of paper and gall water, which is precisely what the 'Shmuel's Blank Paper' section prose describes and analyzes.",
+      "chosen_heading": "Shmuel's Blank Paper",
+      "current_heading": "Shmuel's Blank Paper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Beraita Challenge",
+    "candidates": [
+      "Beraita Challenge",
+      "Shmuel & Beraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita objection itself (meitivei) about the wife destroying the get and the husband claiming it was a shtar passim or shtar amanah, which is precisely what heading 0 ('Beraita Challenge') discusses in its prose.",
+      "chosen_heading": "Beraita Challenge",
+      "current_heading": "Beraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Shmuel & Beraita",
+    "candidates": [
+      "Shmuel & Beraita",
+      "Processing Invisible Ink",
+      "Reading Before Handing",
+      "Beraita Without Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the Shmuel/baraita tension \u2014 the inference from the baraita against Shmuel and the resolution via maya denara processing, followed by the further question about timing of expulsion and Shmuel's 'we are concerned' answer \u2014 exactly matching the content described in the 'Shmuel & Beraita' prose.",
+      "chosen_heading": "Shmuel & Beraita",
+      "current_heading": "Shmuel & Beraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Beraita Without Reading",
+    "candidates": [
+      "Processing Invisible Ink",
+      "Reading Before Handing",
+      "Beraita Without Reading",
+      "Resolution & Pockets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Ameimar/Mareimar/Rav Dimi ruling that witnesses must read the get AND the objection from the baraita, and candidate 1's prose explicitly introduces both elements together as part of the 'Reading Before Handing' section, while candidate 2's prose discusses only the challenge/objection portion.",
+      "chosen_heading": "Reading Before Handing",
+      "current_heading": "Beraita Without Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Resolution & Pockets",
+    "candidates": [
+      "Beraita Without Reading",
+      "Resolution & Pockets",
+      "Tosafot: Lechatchila vs",
+      "Reading Before & After",
+      "Mezuza Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case where witnesses read the get but the husband then placed it under his arm and took it out again, which is precisely what the 'Resolution & Pockets' section's prose describes as the Gemara's resolution to the beraita challenge.",
+      "chosen_heading": "Resolution & Pockets",
+      "current_heading": "Resolution & Pockets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Mezuza Case",
+    "candidates": [
+      "Tosafot: Lechatchila vs",
+      "Reading Before & After",
+      "Mezuza Case",
+      "Rav Nachman's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the exact case of a man throwing a get among barrels and finding a mezuza, which matches the 'Mezuza Case' section's prose that introduces this very scenario.",
+      "chosen_heading": "Mezuza Case",
+      "current_heading": "Mezuza Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Nachman's Logic",
+    "candidates": [
+      "Rav Nachman's Logic",
+      "Lost Get Reasoning",
+      "Sefer Torah Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the distinction between finding one mezuza versus two or three, which is the core logic described in Rav Nachman's Logic section, and the mice explanation for the missing get is a subsidiary point within that same reasoning unit.",
+      "chosen_heading": "Rav Nachman's Logic",
+      "current_heading": "Rav Nachman's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Sefer Torah Get",
+    "candidates": [
+      "Lost Get Reasoning",
+      "Sefer Torah Get",
+      "Mei Milin on Klaf",
+      "Lishmah Overwriting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items describe the Sefer Torah get case \u2014 Rav Yosef's dismissal of concerns about mei milin, lishmah, and the names requirement \u2014 which is precisely what heading 1 'Sefer Torah Get' discusses in its prose, including the concluding question of what Rav Yosef's chiddush is.",
+      "chosen_heading": "Sefer Torah Get",
+      "current_heading": "Sefer Torah Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Lishmah Overwriting",
+    "candidates": [
+      "Mei Milin on Klaf",
+      "Lishmah Overwriting",
+      "God's Name Overwrite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's statement about a get written shelo lishmah with the scribe overwriting it lishmah, which is precisely what the 'Lishmah Overwriting' section's prose describes and introduces.",
+      "chosen_heading": "Lishmah Overwriting",
+      "current_heading": "Lishmah Overwriting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "God's Name Overwrite",
+    "candidates": [
+      "God's Name Overwrite",
+      "Rav Acha Distinction",
+      "Tosafot Missing Component"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the baraita about the scribe intending to write Yehuda but accidentally writing God's name, and the dispute between Rabbi Yehuda and the Rabbis about overwriting \u2014 which is precisely what the 'God's Name Overwrite' section's prose discusses.",
+      "chosen_heading": "God's Name Overwrite",
+      "current_heading": "God's Name Overwrite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Tosafot Missing Component",
+    "candidates": [
+      "Rav Acha Distinction",
+      "Tosafot Missing Component",
+      "Invalidate All Gittin",
+      "Woman's Payment Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Ya'akov's distinction between the Torah scroll case and the get case based on the principle of 'zeh Eli ve'anveihu,' which is precisely what the 'Rav Acha Distinction' section's prose describes.",
+      "chosen_heading": "Rav Acha Distinction",
+      "current_heading": "Tosafot Missing Component",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Woman's Payment Issue",
+    "candidates": [
+      "Invalidate All Gittin",
+      "Woman's Payment Issue",
+      "Material Value & Issurei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's initial statement about invalidating all bills of divorce AND Rava's question about the reason, which corresponds exactly to heading 0's prose describing the theoretical statement and Rava's question, while heading 1 covers only Rava's dismissal of the woman's payment argument.",
+      "chosen_heading": "Invalidate All Gittin",
+      "current_heading": "Woman's Payment Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Material Value & Issurei",
+    "candidates": [
+      "Woman's Payment Issue",
+      "Material Value & Issurei",
+      "Issurei Hana'ah Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the ve'natan argument (that giving must have monetary value) and then immediately refutes it with the issurei hana'ah ruling \u2014 this is the full dialectical unit that belongs under 'Material Value & Issurei' which describes exactly this second argument and its context, while candidate 2's prose describes the conclusion/implications after the fact.",
+      "chosen_heading": "Material Value & Issurei",
+      "current_heading": "Material Value & Issurei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Issurei Hana'ah Valid",
+    "candidates": [
+      "Material Value & Issurei",
+      "Issurei Hana'ah Valid",
+      "Levi's Announcement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the ruling from Eretz Yisrael that a get written on issurei hana'ah is valid, Rav Ashi's attempt to derive this from the mishna's olive leaf case, and the Gemara's rejection \u2014 all of which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Issurei Hana'ah Valid",
+      "current_heading": "Issurei Hana'ah Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Levi's Announcement",
+    "candidates": [
+      "Levi's Announcement",
+      "Writing Not Engraving",
+      "Tablets Engraving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Levi's announcement of Rabbi Yehuda HaNasi's ruling about writing a get on issurei hana'ah, which matches exactly the prose of candidate 0 about Levi's announcement.",
+      "chosen_heading": "Levi's Announcement",
+      "current_heading": "Levi's Announcement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Tablets Engraving",
+    "candidates": [
+      "Writing Not Engraving",
+      "Tablets Engraving",
+      "Chok Tocho & Yerechot",
+      "Tzitz Protruding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita establishing that 'he shall write and not chisel' followed immediately by the contradiction from the slave emancipation case \u2014 this is precisely the opening move described in heading 0's prose ('Writing Not Engraving'), which introduces the ve'chasav ve'lo chakak rule and the challenge, whereas heading 1's prose describes the resolution and analysis of that contradiction.",
+      "chosen_heading": "Writing Not Engraving",
+      "current_heading": "Tablets Engraving",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Tzitz Protruding",
+    "candidates": [
+      "Chok Tocho & Yerechot",
+      "Tzitz Protruding",
+      "Coins Minting",
+      "Yerechot is Writing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Tzitz Protruding",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Ulla/Rabbi Elazar's distinction between chak tochot and chak yerachot and the tzitz/gold dinar challenge with its resolution, which matches the 'Tzitz Protruding' prose exactly.",
+      "second_heading": "Coins Minting",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present Ravina's question to Rav Ashi about how coin-minting works (michratz charitz) and the re-raised tzitz objection, which matches the 'Coins Minting' prose exactly.",
+      "current_heading": "Tzitz Protruding",
+      "moved": true
+    }
+  }
+]

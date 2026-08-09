@@ -1,0 +1,482 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Molech as Avodah Zarah",
+    "candidates": [
+      "Three Kritot Intro",
+      "K'Darkah vs Lo K'Darkah",
+      "Molech as Avodah Zarah",
+      "Megadef & Two Kareits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Three Kritot Intro",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the opening question of three kritot, the answer distinguishing k'darkah/lo k'darkah/Molech, and the follow-up about Molech as avodah zarah \u2014 all matching candidates 0-2's prose flow, and most naturally the full unit through item 3 belongs under 'Three Kritot Intro' through 'Molech as Avodah Zarah', but since items 1-3 form one continuous chain ending with the Molech-as-avodah-zarah resolution, they belong under candidate 2 ('Molech as Avodah Zarah') which covers all of that content.",
+      "second_heading": "Megadef & Two Kareits",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens the parallel question about the one who holds megadef is avodah zarah, which is precisely the topic introduced in candidate 3 ('Megadef & Two Kareits').",
+      "current_heading": "Molech as Avodah Zarah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Megadef & Two Kareits",
+    "candidates": [
+      "Molech as Avodah Zarah",
+      "Megadef & Two Kareits",
+      "Rabbi Akiva Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita interpreting 'hikkaret tikkaret' as two excisions (this world and World-to-Come) in Rabbi Akiva's name, which is precisely what the 'Megadef & Two Kareits' prose describes as the Gemara's answer citing this braita.",
+      "chosen_heading": "Megadef & Two Kareits",
+      "current_heading": "Megadef & Two Kareits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rabbi Akiva Response",
+    "candidates": [
+      "Rabbi Akiva Response",
+      "Ba'al Ov Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yishmael's objection and the conclusion that 'the Torah spoke in the language of people,' which is precisely what the 'Rabbi Akiva Response' prose describes as the exchange between Rabbi Yishmael and Rabbi Akiva regarding dibra Torah kileshon bnei adam.",
+      "chosen_heading": "Rabbi Akiva Response",
+      "current_heading": "Rabbi Akiva Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Ba'al Ov Defined",
+    "candidates": [
+      "Ba'al Ov Defined",
+      "Omission Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines ba'al ov and yidoni with their penalties, directly matching the prose of heading 0 which discusses exactly these definitions from the Mishnah on 65a.",
+      "chosen_heading": "Ba'al Ov Defined",
+      "current_heading": "Ba'al Ov Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Omission Query",
+    "candidates": [
+      "Omission Query",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the exact question of why our Mishnah lists both ba'al ov and yidoni while Kritot omits yidoni, which is precisely what the 'Omission Query' prose describes.",
+      "chosen_heading": "Omission Query",
+      "current_heading": "Omission Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement that both necromancer and sorcerer are stated in one prohibition, which matches exactly the current heading's prose about Rabbi Yochanan explaining they are covered by a single lav.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "First Mentioned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Reish Lakish's statement that yidoni is omitted because it involves no action (maaseh), which precisely matches the prose under heading 0 describing Reish Lakish's position.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "First Mentioned",
+    "candidates": [
+      "First Mentioned",
+      "Disagreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the Mishnah uses ba'al ov as the representative example \u2014 because the verse introduces the pair with it \u2014 which is exactly what section 0's prose discusses (mishum de-fatach bei kra and the Torah's word order).",
+      "chosen_heading": "First Mentioned",
+      "current_heading": "First Mentioned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Disagreement",
+    "candidates": [
+      "Disagreement",
+      "Chalukah Types",
+      "According Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exchange about the two types of chalukah \u2014 Item 1 raises why Reish Lakish doesn't accept Rabbi Yochanan's view (answered: chalukah de-mitah), and Item 2 gives Rabbi Yochanan's counter (chalukah de-lav is significant, chalukah de-mitah is not) \u2014 which is precisely what the 'Chalukah Types' prose describes, whereas the current 'Disagreement' heading only describes Item 1's content and explicitly defers Item 2 to 'the discussion that follows immediately.'",
+      "chosen_heading": "Chalukah Types",
+      "current_heading": "Disagreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "According Akiva",
+    "candidates": [
+      "Chalukah Types",
+      "According Akiva",
+      "Megadef Maaseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the Rabbi Yochanan / Reish Lakish exchange about Rabbi Akiva's position and the distinction between maaseh rabbah and maaseh zuta, which is precisely what the 'According Akiva' prose describes.",
+      "chosen_heading": "According Akiva",
+      "current_heading": "According Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Megadef Maaseh",
+    "candidates": [
+      "Megadef Maaseh",
+      "Ba'al Ov Maaseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks about the maaseh in blasphemy (megadef) and answers with akimat sefatav, which is precisely what the prose of heading 0 discusses.",
+      "chosen_heading": "Megadef Maaseh",
+      "current_heading": "Megadef Maaseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Ba'al Ov Maaseh",
+    "candidates": [
+      "Ba'al Ov Maaseh",
+      "Braita Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question and answer about what maaseh exists for ba'al ov and the answer that arm-striking constitutes a maaseh, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Ba'al Ov Maaseh",
+      "current_heading": "Ba'al Ov Maaseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Braita Examples",
+    "candidates": [
+      "Braita Examples",
+      "Ulla Incense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about whether bowing/arm-waving constitutes a maaseh according to the Rabbanan vs. Rabbi Akiva, which is precisely what the 'Braita Examples' prose describes in detail.",
+      "chosen_heading": "Braita Examples",
+      "current_heading": "Braita Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Ulla Incense",
+    "candidates": [
+      "Ulla Incense",
+      "Rava Objection",
+      "Lechever"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the challenge-and-resolution sequence that introduces Ulla's answer about burning incense to a demon, which is precisely what the 'Ulla Incense' section's prose describes.",
+      "chosen_heading": "Ulla Incense",
+      "current_heading": "Ulla Incense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Lechever",
+    "candidates": [
+      "Rava Objection",
+      "Lechever",
+      "Abaye Types",
+      "Bees & Scorpions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous exchange: Rava's objection that burning incense to a demon is avodah zarah (item 1), Abaye's counter that burning to gather demons is merely 'chover chaver' (item 2), and Rava's response that this chover chaver is punishable by stoning (item 3) \u2014 this entire chain belongs under 'Rava Objection' which describes exactly this dynamic where Rava rejects the incense-to-demon identification as avodah zarah and proposes an alternative.",
+      "chosen_heading": "Rava Objection",
+      "current_heading": "Lechever",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Bees & Scorpions",
+    "candidates": [
+      "Abaye Types",
+      "Bees & Scorpions",
+      "Bowing Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the charmer (chovev chever) prohibition applied to snakes/scorpions/hornets, and Abaye's practical ruling about gathering bees and scorpions \u2014 exactly what the 'Bees & Scorpions' prose describes.",
+      "chosen_heading": "Bees & Scorpions",
+      "current_heading": "Bees & Scorpions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Bowing Dispute",
+    "candidates": [
+      "Bowing Dispute",
+      "Heart Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks precisely the question that the 'Heart Intent' section's prose sets up \u2014 why bowing counts as a maaseh for the Rabbanan but lip-movement (akimat sefatav) does not \u2014 which is the specific contrast Rava then resolves with the heart-intent explanation described in that section's prose.",
+      "chosen_heading": "Heart Intent",
+      "current_heading": "Bowing Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Heart Intent",
+    "candidates": [
+      "Bowing Dispute",
+      "Heart Intent",
+      "Eidim Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that blasphemy is different because it exists in the heart, which is precisely what the 'Heart Intent' section's prose discusses and contextualizes.",
+      "chosen_heading": "Heart Intent",
+      "current_heading": "Heart Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Eidim Challenge",
+    "candidates": [
+      "Eidim Challenge",
+      "Voice Not Maaseh",
+      "Voice Maaseh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eidim Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Zeira's objection from eidim zomemin \u2014 exactly what the 'Eidim Challenge' prose describes.",
+      "second_heading": "Voice Not Maaseh",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's response that eidim zomemin are different because their transgression is through voice (yeshnan be-kol), which is precisely what the 'Voice Not Maaseh' prose discusses.",
+      "current_heading": "Eidim Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Voice Maaseh",
+    "candidates": [
+      "Voice Not Maaseh",
+      "Voice Maaseh",
+      "Lip Movement",
+      "Girsa Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the chasamah be-kol/hinhigah be-kol dispute between Rabbi Yochanan and Reish Lakish, which is precisely what the 'Voice Maaseh' prose describes as the explicit dispute on whether voice constitutes a maaseh, including the akimat piv reasoning that follows.",
+      "chosen_heading": "Voice Maaseh",
+      "current_heading": "Voice Maaseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Girsa Variants",
+    "candidates": [
+      "Lip Movement",
+      "Girsa Variants",
+      "Ba'al Ov Defined",
+      "Yidoni Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that conspiring witnesses are different because they are rendered liable through sight, which is precisely the text that candidate 1's prose discusses and analyzes, including the variant readings.",
+      "chosen_heading": "Girsa Variants",
+      "current_heading": "Girsa Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Yidoni Defined",
+    "candidates": [
+      "Ba'al Ov Defined",
+      "Yidoni Defined",
+      "Tanakh Challenge",
+      "Spirit Between"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single baraita that defines both ba'al ov AND yidoni together, and its content begins with the ba'al ov definition which matches candidate 0's prose about the braita giving precise technical definitions of both practitioners starting with ba'al ov speaking from between the joints and armpits.",
+      "chosen_heading": "Ba'al Ov Defined",
+      "current_heading": "Yidoni Defined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Spirit Between",
+    "candidates": [
+      "Tanakh Challenge",
+      "Spirit Between",
+      "Saul's Woman",
+      "Dwelling Place"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tanakh Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the challenge from Isaiah 29:4 plus its resolution, which matches exactly what candidates 0 and 1 describe \u2014 but candidate 0's prose covers the challenge and candidate 1 covers the resolution, and together they form the single unit discussed under 'Tanakh Challenge' (the challenge is what drives that section, with the resolution as its immediate follow-up, so the natural home is candidate 0 which introduces the meitivei and its implied resolution).",
+      "second_heading": "Saul's Woman",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the second challenge from the Saul/Ein Dor episode (I Samuel 28:13) plus its resolution, which is precisely what candidate 2 ('Saul's Woman') describes as a second meitivei raised from that episode.",
+      "current_heading": "Spirit Between",
+      "moved": true
+    }
+  }
+]

@@ -29,7 +29,7 @@
           "timestamp": "03:31"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -77,8 +77,8 @@
           "timestamp": "14:52"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "The Swap and Sale Case: When Clear Monetary Standing Requires a Split",
@@ -96,7 +96,7 @@
           "timestamp": "17:23"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 4,
       "matched": false
     },
     {
@@ -125,7 +125,7 @@
           "timestamp": "22:07"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 4,
       "matched": false
     }
   ],
@@ -384,5 +384,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 4
+  "amud_b_sefaria_index": 4,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "07:38",
+  "amud_b_micro_title": "Tafsinan/Lo Tafsinan",
+  "shiur_start_daf": 33,
+  "shiur_start_amud": "b"
 }

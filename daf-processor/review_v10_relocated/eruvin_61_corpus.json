@@ -1,0 +1,428 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Gemara Demonstration",
+    "candidates": [
+      "Mishnah Contradiction",
+      "Rav Yehoshua Solution",
+      "Divrei Neviyut",
+      "Gemara Demonstration",
+      "Two Girsaot",
+      "Measuring Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's attempt to demonstrate what was and wasn't derivable from the mishnah about measuring (the cave case), followed by the answer that the 'end of city' ruling was the novel contribution \u2014 exactly what the 'Gemara Demonstration' prose describes.",
+      "chosen_heading": "Gemara Demonstration",
+      "current_heading": "Gemara Demonstration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Measuring Scenario",
+    "candidates": [
+      "Two Girsaot",
+      "Measuring Scenario",
+      "Eiruv Membership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's statement that both textual versions of the mishnah are valid, which directly corresponds to the 'Two Girsaot' section's prose about him noting two versions and arguing neither is in error.",
+      "chosen_heading": "Two Girsaot",
+      "current_heading": "Measuring Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Eiruv Membership",
+    "candidates": [
+      "Measuring Scenario",
+      "Eiruv Membership",
+      "Textual Reconstruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man's reconciliation of the two textual variants by assigning each to a different scenario (placing an eiruv vs. measuring), which directly corresponds to the 'Textual Reconstruction' section's prose about reconciling the two readings through a chisurai mechasra framework.",
+      "chosen_heading": "Textual Reconstruction",
+      "current_heading": "Eiruv Membership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Textual Reconstruction",
+    "candidates": [
+      "Eiruv Membership",
+      "Textual Reconstruction",
+      "Wadi Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's 'chisurai mechasra' textual reconstruction that candidate 1's prose describes, including the bameh devarim amurim clause distinguishing measuring from eiruv placement.",
+      "chosen_heading": "Textual Reconstruction",
+      "current_heading": "Textual Reconstruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Wadi Cities",
+    "candidates": [
+      "Wadi Cities",
+      "Functional vs Symbolic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the ruling about a city on the edge of a ravine requiring a four-cubit barrier for techum measurement, which is precisely what the 'Wadi Cities' section prose describes and analyzes.",
+      "chosen_heading": "Wadi Cities",
+      "current_heading": "Wadi Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Functional vs Symbolic",
+    "candidates": [
+      "Functional vs Symbolic",
+      "Slope Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of 'Functional vs Symbolic' directly describes Abaye's question about four amot vs four tefachim and Rav Yosef's answer about frightening vs non-frightening use, which is exactly the content of both items.",
+      "chosen_heading": "Functional vs Symbolic",
+      "current_heading": "Functional vs Symbolic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Slope Cities",
+    "candidates": [
+      "Slope Cities",
+      "Wall Explanation",
+      "Political Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's specific explanation about the retaining wall (dakah) being the reason for the asymmetric ruling, which is precisely what the 'Wall Explanation' section's prose describes.",
+      "chosen_heading": "Wall Explanation",
+      "current_heading": "Slope Cities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Political Takana",
+    "candidates": [
+      "Wall Explanation",
+      "Political Takana",
+      "Power Dynamics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Dimi's report that the ruling was a takana due to violence between residents, which is exactly what the 'Political Takana' section's prose describes.",
+      "chosen_heading": "Political Takana",
+      "current_heading": "Political Takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Power Dynamics",
+    "candidates": [
+      "Power Dynamics",
+      "Rainbow City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Shabbat/drunkenness explanation, the dog-not-on-its-turf proverb, and the \u1e24amtan counter-attack concern \u2014 are precisely the content described in the 'Power Dynamics' prose, which explicitly paraphrases all three Gemara exchanges in order.",
+      "chosen_heading": "Power Dynamics",
+      "current_heading": "Power Dynamics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rainbow City",
+    "candidates": [
+      "Rainbow City",
+      "Squaring Off",
+      "Simple Big/Small"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Safra's statement about the bow-shaped city, which is precisely what the 'Rainbow City' section's prose introduces and explains.",
+      "chosen_heading": "Rainbow City",
+      "current_heading": "Rainbow City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Simple Big/Small",
+    "candidates": [
+      "Squaring Off",
+      "Simple Big/Small",
+      "Eiruv Integration",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Dimi bar \u1e24inana's big-city/small-city explanation and the attribution dispute between Rav Kahana and Rav Tavyomi, which is precisely what the 'Simple Big/Small' prose section describes.",
+      "chosen_heading": "Simple Big/Small",
+      "current_heading": "Simple Big/Small",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Eiruv Integration",
+      "Rabbi Akiva",
+      "Cave Precedent",
+      "Physical Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text directly states the rule about residents of large/small cities and eiruv placement that the 'Eiruv Integration' prose explicitly describes as 'the mishnah that we now reach,' making it a clear match for that section rather than the Rabbi Akiva section.",
+      "chosen_heading": "Eiruv Integration",
+      "current_heading": "Rabbi Akiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Physical Presence",
+    "candidates": [
+      "Cave Precedent",
+      "Physical Presence",
+      "Shabbat in Desolate City",
+      "Eiruv Insufficient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Akiva's cave argument, the Rabbis' inhabited-cave response, and the measuring-into-a-cave rule \u2014 are precisely the content described in candidate 0's prose about the cave precedent dispute between Rabbi Akiva and the Chachamim.",
+      "chosen_heading": "Cave Precedent",
+      "current_heading": "Physical Presence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Eiruv Insufficient",
+    "candidates": [
+      "Shabbat in Desolate City",
+      "Eiruv Insufficient",
+      "Rabbi Eliezer",
+      "Scope Dispute",
+      "City-Cave Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form the continuous sequence of Rav Yehuda/Shmuel's ruling, Rabbi Elazar's dispute, the objection from Rabbi Akiva's exchange with the Rabbis, and its resolution \u2014 exactly what the 'Scope Dispute' prose describes, including the inference from the cave case and the distinction that a desolate city remains fit for habitation.",
+      "chosen_heading": "Scope Dispute",
+      "current_heading": "Eiruv Insufficient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "City-Cave Analogy",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Scope Dispute",
+      "City-Cave Analogy",
+      "Mar Yehudah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items constitute the continuous Gemara discussion of the baraita comparing city and cave (Antioch/Cave of Zedekiah), analyzing whose opinion it reflects, resolving the city-cave analogy, and clarifying the Cave of Zedekiah comparison \u2014 exactly what the 'City-Cave Analogy' prose describes in detail.",
+      "chosen_heading": "City-Cave Analogy",
+      "current_heading": "City-Cave Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Mar Yehudah Case",
+    "candidates": [
+      "Mar Yehudah Case",
+      "Inhabited Synagogue",
+      "Lenient Ruling",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mar Yehudah Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Mar Yehuda's advice to place the eiruv further inside, which is precisely what candidate 0 ('Mar Yehudah Case') discusses.",
+      "second_heading": "Lenient Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's objection dismissing Rabbi Akiva's view as non-operative in eiruvin, which matches candidate 2 ('Lenient Ruling') that explicitly discusses Rava's objection and the principle that we follow the lenient view in eruvin matters.",
+      "current_heading": "Mar Yehudah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Inhabited Synagogue",
+      "Lenient Ruling",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Hadran (concluding formula) for Perek Keitzad Me'arvin, which marks the transition to the next perek, and the prose under 'Mishnah Rule' explicitly discusses this transition from Perek Keitzad Me'arvin to the next chapter's mishnah.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Mishnah Rule",
+      "Rabbi Eliezer Exception",
+      "Sadducee Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna stating the basic rule about a gentile or non-acceptor of eruv rendering carrying prohibited, which matches the 'Mishnah Rule' prose exactly.",
+      "second_heading": "Rabbi Eliezer Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Eliezer ben Ya'akov's exception requiring two Jews to be present, which matches the 'Rabbi Eliezer Exception' prose exactly.",
+      "current_heading": "Mishnah Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Sadducee Story",
+    "candidates": [
+      "Rabbi Eliezer Exception",
+      "Sadducee Story",
+      "Waiving Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of Rabban Gamliel's account of the Sadducee incident, which is exactly what the 'Sadducee Story' prose describes.",
+      "chosen_heading": "Sadducee Story",
+      "current_heading": "Sadducee Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Waiving Rights",
+    "candidates": [
+      "Waiving Rights",
+      "Retractable Waiver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's alternative formulation emphasizing that the waiver is always retractable and residents must act quickly before the Tzeduki reasserts his rights, which is precisely what the 'Retractable Waiver' prose discusses.",
+      "chosen_heading": "Retractable Waiver",
+      "current_heading": "Waiving Rights",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Ketana & Teruma",
+    "candidates": [
+      "Opening & Mishna",
+      "Chereshet & Divorce",
+      "Ketana & Teruma",
+      "Marish Gazul",
+      "Chatas Gazula",
+      "Mnemonic Pattern",
+      "Undisclosed Get Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the complete Mishna of Rabbi Yochanan ben Gudgeda's four testimonies, which candidate 0 ('Opening & Mishna') explicitly describes as presenting all four testimonies together, making it the correct home for the full Mishna passage before the Gemara breaks each one down individually.",
+      "chosen_heading": "Opening & Mishna",
+      "current_heading": "Ketana & Teruma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Undisclosed Get Case",
+    "candidates": [
+      "Marish Gazul",
+      "Chatas Gazula",
+      "Mnemonic Pattern",
+      "Undisclosed Get Case",
+      "No Cognizance Needed",
+      "Nullification Question",
+      "Witness Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rava's derivation from Rabbi Yochanan ben Gudguda's testimony about delivering a get while calling it a promissory note, which is precisely what the 'Undisclosed Get Case' prose describes.",
+      "chosen_heading": "Undisclosed Get Case",
+      "current_heading": "Undisclosed Get Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Witness Declaration",
+    "candidates": [
+      "No Cognizance Needed",
+      "Nullification Question",
+      "Witness Declaration",
+      "Why Ketana?",
+      "Cheresh Gezeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's response about witness declaration and the embarrassment explanation, which is precisely what the 'Witness Declaration' section's prose describes.",
+      "chosen_heading": "Witness Declaration",
+      "current_heading": "Witness Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Cheresh Gezeira",
+    "candidates": [
+      "Why Ketana?",
+      "Cheresh Gezeira",
+      "Mirror Image Problem",
+      "Teruma Allowance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the inference that a chereshet may not eat teruma and asks why, which matches the 'Why Ketana?' section's prose about v'ilu hereshet lo achla and the gemara setting out to explain why \u2014 not the 'Cheresh Gezeira' section which discusses the details of the gezeira concern itself.",
+      "chosen_heading": "Why Ketana?",
+      "current_heading": "Cheresh Gezeira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Teruma Allowance",
+    "candidates": [
+      "Mirror Image Problem",
+      "Teruma Allowance",
+      "Demolition vs. Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-answer chain about why the chereshet cannot eat teruma (the 'minor eats carcasses' objection, the mirror-image gezeira answer, and the teruma d'rabbanan sub-question with its answer), which precisely matches the 'Mirror Image Problem' prose describing the gezeira shema yaachiil cheresh b'pikachat concern and its implications \u2014 not the 'Teruma Allowance' section which discusses the d'rabbanan sub-question only as a secondary point after the main mirror-image analysis.",
+      "chosen_heading": "Mirror Image Problem",
+      "current_heading": "Teruma Allowance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Demolition vs. Payment",
+    "candidates": [
+      "Teruma Allowance",
+      "Demolition vs. Payment",
+      "Takanas Hashavim",
+      "Ulla's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Beit Shammai/Beit Hillel dispute about demolishing the building versus paying monetary value for a stolen beam, which is precisely what the 'Demolition vs. Payment' section's prose discusses.",
+      "chosen_heading": "Demolition vs. Payment",
+      "current_heading": "Demolition vs. Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Ulla's Position",
+    "candidates": [
+      "Takanas Hashavim",
+      "Ulla's Position",
+      "Kohanim Anxiety"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Ulla's position \u2014 item 1 states his ruling that by Torah law a stolen korban never atones, and item 2 gives his reasoning (yeiush alone does not transfer ownership) and then the rabbinic rationale (kohanim not being distraught), all of which is precisely what the 'Ulla's Position' prose discusses.",
+      "chosen_heading": "Ulla's Position",
+      "current_heading": "Ulla's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Kohanim Anxiety",
+    "candidates": [
+      "Kohanim Anxiety",
+      "Rav Yehuda Position",
+      "Mizbeach & Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts the Rabbis challenging Ulla about the mishna's language 'mipnei tikkun hamizbe'ach' and Ulla's response that kohanim distress leads to the altar being idle \u2014 exactly the content described in the 'Kohanim Anxiety' prose section.",
+      "chosen_heading": "Kohanim Anxiety",
+      "current_heading": "Kohanim Anxiety",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Mizbeach & Theft",
+    "candidates": [
+      "Rav Yehuda Position",
+      "Mizbeach & Theft",
+      "Kereis Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items discuss Rav Yehuda's position that yeiush transfers ownership and the rabbinic decree restricting publicly-known stolen offerings due to 'mizbeach ochel gezeilos,' along with the gemara's question about chatat vs. olah and the lo mibaya answer \u2014 all of which are explicitly covered in the 'Mizbeach & Theft' prose.",
+      "chosen_heading": "Mizbeach & Theft",
+      "current_heading": "Mizbeach & Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Kereis Question",
+    "candidates": [
+      "Kereis Question",
+      "Kereis Midvreihem",
+      "Kereis Cannot Be Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection about the karet liability implying valid consecration, which is exactly what the 'Kereis Question' prose describes as Rava's challenge against Ulla's position.",
+      "chosen_heading": "Kereis Question",
+      "current_heading": "Kereis Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Kereis Cannot Be Rabbinic",
+    "candidates": [
+      "Kereis Midvreihem",
+      "Kereis Cannot Be Rabbinic",
+      "Before Sanctification",
+      "Timing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sheizevi's initial suggestion of 'karet midivrehem' and Rava's reframing of it, which belongs under the heading that introduces this concept, not under 'Kereis Cannot Be Rabbinic' which discusses the substantive rejection and reframing as its own section.",
+      "chosen_heading": "Kereis Midvreihem",
+      "current_heading": "Kereis Cannot Be Rabbinic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Timing Question",
+    "candidates": [
+      "Before Sanctification",
+      "Timing Question",
+      "At Sanctification",
+      "Sikrikon Definition",
+      "Original Owner Retains",
+      "Sikrikon Then Owner",
+      "Owner Then Sikrikon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's dilemma about whether the rabbis assigned ownership from the time of theft or sanctification and the practical difference regarding wool and offspring, which is precisely what the 'Timing Question' prose describes.",
+      "chosen_heading": "Timing Question",
+      "current_heading": "Timing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Owner Then Sikrikon",
+    "candidates": [
+      "At Sanctification",
+      "Sikrikon Definition",
+      "Original Owner Retains",
+      "Sikrikon Then Owner",
+      "Owner Then Sikrikon",
+      "Husband-Wife Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the entire sikrikon law from scratch \u2014 defining what sikrikon is, when it applies, and the two basic cases \u2014 which matches the 'Sikrikon Definition' prose that introduces the law of sikrikon, the historical context of harugei milchama, and the yesh ba-sikrikon ruling, rather than the 'Owner Then Sikrikon' section which discusses only the second case in isolation.",
+      "chosen_heading": "Sikrikon Definition",
+      "current_heading": "Owner Then Sikrikon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Husband-Wife Analogy",
+    "candidates": [
+      "Owner Then Sikrikon",
+      "Husband-Wife Analogy",
+      "Sikrikon as Owner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the husband-wife analogy case with the exact ruling (purchase void vs. stands) and the phrase 'zo mishna rishona,' matching perfectly the prose of the 'Husband-Wife Analogy' section.",
+      "chosen_heading": "Husband-Wife Analogy",
+      "current_heading": "Husband-Wife Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Sikrikon as Owner",
+    "candidates": [
+      "Sikrikon as Owner",
+      "Unable to Repurchase",
+      "Right of First Refusal",
+      "12-Month Cutoff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the later court's ruling about giving the original owner one-quarter AND the condition about ability to repurchase, and the current placement's prose explicitly discusses both elements (the later beit din's quarter-value rule and the pragmatic framework), making it the best fit even though candidates 1 and 2 discuss sub-elements separately.",
+      "chosen_heading": "Sikrikon as Owner",
+      "current_heading": "Sikrikon as Owner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "12-Month Cutoff",
+    "candidates": [
+      "Unable to Repurchase",
+      "Right of First Refusal",
+      "12-Month Cutoff",
+      "Quarter Payment",
+      "Practical Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda HaNasi convening a court that voted on the twelve-month rule and the first-come-first-served principle, which is precisely what the '12-Month Cutoff' section's prose discusses.",
+      "chosen_heading": "12-Month Cutoff",
+      "current_heading": "12-Month Cutoff",
+      "moved": false
+    }
+  }
+]

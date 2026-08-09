@@ -1,0 +1,416 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Sotah & Ma'aser",
+    "candidates": [
+      "Eliezer vs. Yehoshua",
+      "Witnesses & Timing",
+      "Elu Ne'emarim Intro",
+      "Sotah & Ma'aser",
+      "Shema & Tefillah",
+      "Shvuas Ha'Eidus",
+      "Tosafot: Shomeia",
+      "Tosafot: Other Items",
+      "Tosafot: No Shomeia",
+      "Hebrew Texts List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text of 'Elu Ne'emarim' itself, which introduces the entire list of items that may be recited in any language \u2014 it belongs under the introductory heading 'Elu Ne'emarim Intro' that sets up the new perek and its topic.",
+      "chosen_heading": "Elu Ne'emarim Intro",
+      "current_heading": "Sotah & Ma'aser",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Hebrew Texts List",
+    "candidates": [
+      "Shema & Tefillah",
+      "Shvuas Ha'Eidus",
+      "Tosafot: Shomeia",
+      "Tosafot: Other Items",
+      "Tosafot: No Shomeia",
+      "Hebrew Texts List",
+      "Mikra Bikkurim",
+      "Chalitza"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hebrew Texts List",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah listing all items that must be recited in lashon hakodesh, which matches heading 5's prose describing exactly that list.",
+      "second_heading": "Mikra Bikkurim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives via gezera shava why Mikra Bikkurim requires lashon hakodesh, matching heading 6's prose which discusses precisely this derivation from the juxtaposition of ve'anita ve'amarta and ve'anu haLevi'im ve'amru.",
+      "current_heading": "Hebrew Texts List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Chalitza",
+    "candidates": [
+      "Mikra Bikkurim",
+      "Chalitza",
+      "Geography"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the requirement for \u1e25alitza recitation to be in Hebrew \u2014 item 1 via the gezera shava with the Levites, item 2 via Rabbi Yehuda's derivation from 'kacha' \u2014 matching precisely the prose under 'Chalitza'.",
+      "chosen_heading": "Chalitza",
+      "current_heading": "Chalitza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Geography",
+    "candidates": [
+      "Geography",
+      "Arrangement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the geographic identification of elonei Moreh with Shechem via a gezerah shavah, which matches exactly the Geography section's prose about how the Gemara establishes that elonei Moreh refers to Shechem.",
+      "chosen_heading": "Geography",
+      "current_heading": "Geography",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Arrangement",
+    "candidates": [
+      "Arrangement",
+      "Brachos & Klalos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the physical arrangement of the tribes on the two mountains, with the kohanim, Levi'im, and Ark in the middle \u2014 exactly what the 'Arrangement' section's prose discusses.",
+      "chosen_heading": "Arrangement",
+      "current_heading": "Arrangement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Brachos & Klalos",
+    "candidates": [
+      "Brachos & Klalos",
+      "70 Languages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the turning toward Har Gerizim and Har Eival to recite blessings and curses with both groups answering Amen, which is precisely what the 'Brachos & Klalos' section prose discusses.",
+      "chosen_heading": "Brachos & Klalos",
+      "current_heading": "Brachos & Klalos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "70 Languages",
+    "candidates": [
+      "70 Languages",
+      "Sotah Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the building of the altar, writing the Torah in 70 languages, and the people going to sleep at Gilgal \u2014 exactly what the '70 Languages' prose section discusses in detail.",
+      "chosen_heading": "70 Languages",
+      "current_heading": "70 Languages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Sotah Language",
+    "candidates": [
+      "Sotah Language",
+      "Woman's Understanding",
+      "Four Topics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives that Parshas Sotah may be recited in any language from the verse 've'amar hakohen laisha,' which is precisely what the prose under 'Sotah Language' discusses.",
+      "chosen_heading": "Sotah Language",
+      "current_heading": "Sotah Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Four Topics",
+    "candidates": [
+      "Woman's Understanding",
+      "Four Topics",
+      "Praise & Faults"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraisa detailing the four topics (al ma hi shotah, uvmah hi shotah, al mah nitmes, uvmah hi nitmes) that the priest must communicate to the sota, which is precisely what the 'Four Topics' prose section discusses in detail.",
+      "chosen_heading": "Four Topics",
+      "current_heading": "Four Topics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Praise & Faults",
+    "candidates": [
+      "Praise & Faults",
+      "Viduy as Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion about the declaration of tithes, the verbal analogy with sota, the distinction between 'saying' alone vs. 'speaking and saying,' and Rabbi Shimon ben Yo\u1e25ai's teaching about praise in a soft voice and discredit in a loud voice \u2014 exactly the content described in the 'Praise & Faults' prose.",
+      "chosen_heading": "Praise & Faults",
+      "current_heading": "Praise & Faults",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Viduy as Praise",
+    "candidates": [
+      "Viduy as Praise",
+      "Tefillah Undertone",
+      "Chatas & Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the correction from 'gnus' to 'tza'ar' and the baraita about the metzora announcing his pain so the masses pray for him, which is precisely what the 'Viduy as Praise' prose section describes and analyzes.",
+      "chosen_heading": "Viduy as Praise",
+      "current_heading": "Viduy as Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Chatas & Olah",
+    "candidates": [
+      "Tefillah Undertone",
+      "Chatas & Olah",
+      "Blood Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the reason prayer was instituted in a whisper \u2014 to avoid embarrassing transgressors \u2014 which is precisely what the 'Tefillah Undertone' prose discusses, whereas the 'Chatas & Olah' prose discusses the korban illustration of that principle.",
+      "chosen_heading": "Tefillah Undertone",
+      "current_heading": "Chatas & Olah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Blood Distinction",
+    "candidates": [
+      "Chatas & Olah",
+      "Blood Distinction",
+      "Gender Concealment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the blood application difference between chatas and olah and the answer that only the kohen knows, which is exactly what the 'Blood Distinction' section's prose describes.",
+      "chosen_heading": "Blood Distinction",
+      "current_heading": "Blood Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Gender Concealment",
+    "candidates": [
+      "Gender Concealment",
+      "Avodah Zarah",
+      "Shema Any Language"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gender Concealment",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the gender concealment issue for sheep vs. goat, which is precisely what candidate 0's prose covers.",
+      "second_heading": "Avodah Zarah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses the avodah zarah sin-offering case where a female goat is mandatory, matching candidate 1's prose exactly.",
+      "current_heading": "Gender Concealment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Shema Any Language",
+    "candidates": [
+      "Avodah Zarah",
+      "Shema Any Language",
+      "Rabbi vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation that Shema may be recited in any language from the word 'shema,' which is precisely what the prose under 'Shema Any Language' describes.",
+      "chosen_heading": "Shema Any Language",
+      "current_heading": "Shema Any Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Rabbi vs. Rabbanan",
+    "candidates": [
+      "Rabbi vs. Rabbanan",
+      "Rabbi's Ve'hayu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records the dispute between Rabbi and the Rabbis about reciting Shema in Hebrew vs. any language, which is exactly what the 'Rabbi vs. Rabbanan' section's prose describes.",
+      "chosen_heading": "Rabbi vs. Rabbanan",
+      "current_heading": "Rabbi vs. Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rabbi's Ve'hayu",
+    "candidates": [
+      "Rabbi's Ve'hayu",
+      "Rabbanan Shema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yehuda HaNasi's reason using the word ve'hayu, which is precisely what the prose in heading 0 discusses.",
+      "chosen_heading": "Rabbi's Ve'hayu",
+      "current_heading": "Rabbi's Ve'hayu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Rabbanan Shema",
+    "candidates": [
+      "Rabbanan Shema",
+      "Hearing Requirement",
+      "Deduction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbanan Shema",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 address the Rabbis' derivation from 'shema' (any language), their use of 've'hayu' for order, and Rabbi's derivation of order from 'hadevarim' \u2014 all matching the 'Rabbanan Shema' prose exactly.",
+      "second_heading": "Hearing Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 4 addresses what Rabbi does with 'shema' (audibility requirement) and the Rabbis' position on audibility, which matches the 'Hearing Requirement' prose precisely.",
+      "current_heading": "Rabbanan Shema",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Deduction",
+    "candidates": [
+      "Hearing Requirement",
+      "Deduction",
+      "Default Rule",
+      "70 Languages Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's back-and-forth about whether Rabbi's use of 've'hayu' implies the general rule permits any language, and whether the Rabbis' use of 'shema' implies the default is Hebrew \u2014 exactly what the 'Deduction' prose describes, including both deflections.",
+      "chosen_heading": "Deduction",
+      "current_heading": "Deduction",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Spies' Report",
+    "candidates": [
+      "Kalev at Chevron",
+      "Tosafot: Dead & Prayer",
+      "Intermediaries & Worship",
+      "Spies' Report",
+      "Lashon Hara & Truth",
+      "Kalev's Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern the spies' report \u2014 item 1 derives that their going was already with evil counsel (makish halicha levi'ah), and item 2 introduces Rabbi Meir's principle about lashon hara requiring a truthful opening, both of which are explicitly described in candidate 3's prose as the content of that section.",
+      "chosen_heading": "Spies' Report",
+      "current_heading": "Spies' Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Kalev's Strategy",
+    "candidates": [
+      "Lashon Hara & Truth",
+      "Kalev's Strategy",
+      "Rosh Ketiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the verse about Caleb stilling the people and Rabba's interpretation of vayyahas, which is precisely what the 'Kalev's Strategy' section prose discusses.",
+      "chosen_heading": "Kalev's Strategy",
+      "current_heading": "Kalev's Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rosh Ketiah",
+    "candidates": [
+      "Rosh Ketiah",
+      "Kalev's Counterargument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly depicts Joshua beginning to speak and being dismissed as 'rosh keti'ah,' which is precisely what the prose under heading 0 discusses and explains.",
+      "chosen_heading": "Rosh Ketiah",
+      "current_heading": "Rosh Ketiah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Kalev's Counterargument",
+    "candidates": [
+      "Kalev's Counterargument",
+      "Land Consumes Inhabitants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Caleb's rhetorical strategy, his pivot to praise Moses, and Rabbi \u1e24anina bar Pappa's interpretation of 'stronger than Him' \u2014 are explicitly discussed in the 'Kalev's Counterargument' prose, which covers exactly this sequence of gemara.",
+      "chosen_heading": "Kalev's Counterargument",
+      "current_heading": "Kalev's Counterargument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Land Consumes Inhabitants",
+    "candidates": [
+      "Land Consumes Inhabitants",
+      "Liars or Interpreters?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expounds on 'eretz ochelet yoshveha' through Rava's teaching about God's hidden benevolent intent, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Land Consumes Inhabitants",
+      "current_heading": "Land Consumes Inhabitants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Liars or Interpreters?",
+    "candidates": [
+      "Liars or Interpreters?",
+      "Crying & Tisha B'Av"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Mesharshiyya's accusation that the spies were liars and the Gemara's rebuttal explaining how they overheard the grasshopper remark from cedar trees \u2014 are explicitly discussed together in the 'Liars or Interpreters?' prose, which covers exactly this exchange in sequence.",
+      "chosen_heading": "Liars or Interpreters?",
+      "current_heading": "Liars or Interpreters?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Crying & Tisha B'Av",
+    "candidates": [
+      "Crying & Tisha B'Av",
+      "Stoning & Divine Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the congregation's weeping and God's declaration of Tisha B'Av as a day of weeping for generations, which is exactly what the 'Crying & Tisha B'Av' section's prose discusses.",
+      "chosen_heading": "Crying & Tisha B'Av",
+      "current_heading": "Crying & Tisha B'Av",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Stoning & Divine Presence",
+    "candidates": [
+      "Stoning & Divine Presence",
+      "Spies' Plague",
+      "Worm Cycle Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about the congregation throwing stones upward toward God is exactly what the 'Stoning & Divine Presence' section's prose describes, including Rabbi Chiya bar Abba's teaching and the connection to klapei ma'ala.",
+      "chosen_heading": "Stoning & Divine Presence",
+      "current_heading": "Stoning & Divine Presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Worm Cycle Death",
+    "candidates": [
+      "Spies' Plague",
+      "Worm Cycle Death",
+      "Waters Return",
+      "Ark Lifts Carriers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Reish Lakish, Rabbi \u1e24anina bar Pappa/Rabbi Sheila, and Rav Na\u1e25man bar Yitz\u1e25ak) about the unusual death of the spies, and candidate 0's prose introduces exactly this verse and topic ('mitah meshunah'), while candidate 1's prose already paraphrases the content of this passage as if summarizing it \u2014 meaning the Talmudic text itself belongs under heading 0, which sets up the discussion.",
+      "chosen_heading": "Spies' Plague",
+      "current_heading": "Worm Cycle Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Ark Lifts Carriers",
+    "candidates": [
+      "Waters Return",
+      "Ark Lifts Carriers",
+      "Uzza's Error",
+      "God's Rebuke"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Waters Return",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the waters returning to their place after the last Israelite crossed, which is precisely what the 'Waters Return' prose section discusses.",
+      "second_heading": "Ark Lifts Carriers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the Ark and its bearers ending up on one side while Israel was on the other, and the Ark miraculously carrying its bearers across, which is exactly what the 'Ark Lifts Carriers' prose section discusses.",
+      "current_heading": "Ark Lifts Carriers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "God's Rebuke",
+    "candidates": [
+      "Uzza's Error",
+      "God's Rebuke",
+      "Uzza's Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage recounts the event of Uzzah reaching out to grab the Ark and God's rebuke about the Ark carrying its bearers, which is the narrative content described in the 'Uzza's Error' section's prose, not the broader theological discussion of God's rebuke framed in section 1.",
+      "chosen_heading": "Uzza's Error",
+      "current_heading": "God's Rebuke",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Uzza's Merit",
+    "candidates": [
+      "God's Rebuke",
+      "Uzza's Merit",
+      "David's Zmirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the interpretation of 'al ha-shal' and Rabbi Yochanan's ruling that Uzzah enters the World-to-Come, which is precisely what the 'Uzza's Merit' prose section describes.",
+      "chosen_heading": "Uzza's Merit",
+      "current_heading": "Uzza's Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "David's Zmirot",
+    "candidates": [
+      "David's Zmirot",
+      "Treating Torah Lightly"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "David's Zmirot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the interpretation of 'vayyi\u1e25ar' regarding David's displeasure and his face changing color, which fits under 'David's Zmirot' as introductory material about David's reaction, but more precisely these items address the exegesis of vayyi\u1e25ar which the current heading 0 prose contextualizes as part of the episode setup.",
+      "second_heading": "Treating Torah Lightly",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 contain Rava's teaching about David being punished for calling Torah 'zmirot' and God's response about stumbling over the wagon/Kohath law, which exactly matches the prose of candidate 1 ('Treating Torah Lightly') describing God's rebuke and the schoolchildren knowing the Ark must be carried on shoulders.",
+      "current_heading": "David's Zmirot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Treating Torah Lightly",
+    "candidates": [
+      "Treating Torah Lightly",
+      "Ark's Autonomy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ark's Autonomy",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 deal with the smiting of the men of Beit Shemesh who gazed upon/dismissed the Ark, which is explicitly discussed in candidate 1's prose including the exact quote 'man amricha de'mrayat' and the harvesting/dismissive speech opinions.",
+      "second_heading": "Treating Torah Lightly",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-5 discuss David's sacrifices during the Ark's journey to Jerusalem, which relates to the broader David/Ark narrative context in candidate 0, though neither candidate's prose explicitly addresses this sub-topic about the number of sacrifices per step.",
+      "current_heading": "Treating Torah Lightly",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Ark's Autonomy",
+    "candidates": [
+      "Ark's Autonomy",
+      "Moshe's Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly interprets the two names for Uzzah's threshing floor (Chidon/javelin vs. Nacon/established) in relation to the Ark's lethal and then blessing-bringing power, which fits squarely under the 'Ark's Autonomy' section discussing the Ark's divine power and the consequences of Uzzah's death.",
+      "chosen_heading": "Ark's Autonomy",
+      "current_heading": "Ark's Autonomy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Moshe's Stones",
+    "candidates": [
+      "Moshe's Stones",
+      "Yehoshua's Stones",
+      "Gilgal Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Moses's stones in the land of Moab and the verbal analogy using 'be'er', which matches exactly the prose under 'Moshe's Stones'.",
+      "chosen_heading": "Moshe's Stones",
+      "current_heading": "Moshe's Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Gilgal Stones",
+    "candidates": [
+      "Yehoshua's Stones",
+      "Gilgal Stones",
+      "Writing Method Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the Jordan set AND the Gilgal set together in one continuous statement, matching the prose of heading 0 which introduces the Jordan stones \u2014 the current placement under 'Gilgal Stones' (index 1) splits what is a single unified textual item that begins with the Jordan stones and should sit under heading 0.",
+      "chosen_heading": "Yehoshua's Stones",
+      "current_heading": "Gilgal Stones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Writing Method Debate",
+    "candidates": [
+      "Gilgal Stones",
+      "Writing Method Debate",
+      "Yehuda's Method",
+      "Shimon's Challenge",
+      "Plaster Printing Press"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself introducing Rabbi Yehuda's position on how Israel wrote the Torah, which directly matches the 'Writing Method Debate' prose that describes this baraita addressing how Israel wrote the Torah on stones given the plastering command.",
+      "chosen_heading": "Writing Method Debate",
+      "current_heading": "Writing Method Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Plaster Printing Press",
+    "candidates": [
+      "Yehuda's Method",
+      "Shimon's Challenge",
+      "Plaster Printing Press",
+      "Writing on Plaster"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon's challenge to Rabbi Yehuda ('according to your statement, how did the nations study Torah?') and the response about God granting extra understanding and the nations peeling off the plaster \u2014 this is precisely what the 'Shimon's Challenge' prose section describes, including the embedded assumption that the Torah was meant for the nations and the question of how they accessed it if it was covered.",
+      "chosen_heading": "Shimon's Challenge",
+      "current_heading": "Plaster Printing Press",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Writing on Plaster",
+    "candidates": [
+      "Plaster Printing Press",
+      "Writing on Plaster",
+      "Nations Could Repent",
+      "Plaster Metaphor",
+      "Seven Nations Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's key point is that the verse written below implies the nations could have repented and been accepted \u2014 which is precisely what the 'Nations Could Repent' section discusses, not the 'Writing on Plaster' section which focuses on the mechanics of how the plaster was written.",
+      "chosen_heading": "Nations Could Repent",
+      "current_heading": "Writing on Plaster",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Seven Nations Debate",
+    "candidates": [
+      "Nations Could Repent",
+      "Plaster Metaphor",
+      "Seven Nations Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the plaster verse (Isaiah 33:12) and its two interpretations \u2014 Rava bar Sheila's 'because of the plaster' reading and Rabbi Yehuda's 'like plaster' reading \u2014 which is precisely what the 'Plaster Metaphor' prose describes, making it a clearly better fit than the current 'Seven Nations Debate' heading.",
+      "chosen_heading": "Plaster Metaphor",
+      "current_heading": "Seven Nations Debate",
+      "moved": true
+    }
+  }
+]

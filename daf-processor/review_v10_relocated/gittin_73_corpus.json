@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Explicit Condition",
+    "candidates": [
+      "Explicit Condition",
+      "Get vs. Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the mishna case of 'zeh gittech mehayom im mati mecholi zeh' with the husband walking in the marketplace, which is precisely what the 'Explicit Condition' prose discusses in detail.",
+      "chosen_heading": "Explicit Condition",
+      "current_heading": "Explicit Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Get vs. Gift",
+    "candidates": [
+      "Get vs. Gift",
+      "Rashi vs. Tosafot",
+      "Rashi's View",
+      "Tosafot's View",
+      "Mishna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Huna's two-part statement comparing the get of a shechiv mera to his gift, which is precisely what the 'Get vs. Gift' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Get vs. Gift",
+      "current_heading": "Get vs. Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Mishna Position",
+    "candidates": [
+      "Rashi vs. Tosafot",
+      "Rashi's View",
+      "Tosafot's View",
+      "Mishna Position",
+      "Rav Huna Challenge",
+      "Mecholi L'Choli"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage challenges Rav Huna's position by asking why assessment is needed if 'amad' automatically retracts the get, which is precisely what the 'Rav Huna Challenge' section discusses.",
+      "chosen_heading": "Rav Huna Challenge",
+      "current_heading": "Mishna Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Mecholi L'Choli",
+    "candidates": [
+      "Rav Huna Challenge",
+      "Mecholi L'Choli",
+      "Amad Definition",
+      "Mishna Chiddush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source (Mar son of Rav Yosef in the name of Rava) explaining 'shenitak mecholi l'choli,' which is precisely what the 'Mecholi L'Choli' section's prose discusses and attributes to this exact statement.",
+      "chosen_heading": "Mecholi L'Choli",
+      "current_heading": "Mecholi L'Choli",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Mishna Chiddush",
+    "candidates": [
+      "Amad Definition",
+      "Mishna Chiddush",
+      "Rava & Rabba",
+      "Get After Death Fear",
+      "Rashi Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the reinterpretation of 'amad' and 'halach bashuk,' the chiddush that omdana is required only when he walked with a staff, and the inference about shchiv mera who transitioned mecholi l'choli \u2014 are all explicitly discussed together in the 'Mishna Chiddush' prose, which covers exactly this chain of questions, answers, and the matnas shchiv mera conclusion.",
+      "chosen_heading": "Mishna Chiddush",
+      "current_heading": "Mishna Chiddush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rashi Explanation",
+    "candidates": [
+      "Rava & Rabba",
+      "Get After Death Fear",
+      "Rashi Explanation",
+      "Can Rabbis Invalidate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states precisely the gezeira shema yomru yesh get le'achar mita \u2014 the 'Get After Death Fear' heading whose prose explicitly unpacks this very concern, whereas the current placement under 'Rashi Explanation' discusses the downstream interpretive consequences rather than the initial statement of Rabba and Rava's reasoning.",
+      "chosen_heading": "Get After Death Fear",
+      "current_heading": "Rashi Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Can Rabbis Invalidate",
+    "candidates": [
+      "Rashi Explanation",
+      "Can Rabbis Invalidate",
+      "Kiddushin Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the challenge of how a rabbinic decree can permit a married woman (eshet ish) when de'oraita she remains married, which is precisely what the 'Can Rabbis Invalidate' section's prose describes.",
+      "chosen_heading": "Can Rabbis Invalidate",
+      "current_heading": "Can Rabbis Invalidate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Kiddushin Principle",
+    "candidates": [
+      "Kiddushin Principle",
+      "Ravina vs. Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the 'kol de-mekadesh ada'ata de-rabbanan' principle and rabbinic expropriation of betrothal, which is exactly what the 'Kiddushin Principle' section's prose discusses.",
+      "chosen_heading": "Kiddushin Principle",
+      "current_heading": "Kiddushin Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Ravina vs. Ashi",
+    "candidates": [
+      "Ravina vs. Ashi",
+      "House Collapse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Ravina/Rav Ashi exchange about kiddushei kessef vs. kiddushei bi'ah and the declaration of bi'at zenut, which is precisely what the prose under 'Ravina vs. Ashi' discusses.",
+      "chosen_heading": "Ravina vs. Ashi",
+      "current_heading": "Ravina vs. Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "House Collapse Case",
+    "candidates": [
+      "House Collapse Case",
+      "Recover Condition",
+      "Cases Comparison",
+      "During Illness Reading",
+      "Acts of God Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (both cases together), and candidate 0's prose introduces this exact baraita, with candidate 1 handling only the second case's explanation \u2014 the full quoted text belongs under the heading that introduces the baraita as a whole, which is candidate 0 (its current placement).",
+      "chosen_heading": "House Collapse Case",
+      "current_heading": "House Collapse Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Acts of God Resolution",
+    "candidates": [
+      "Recover Condition",
+      "Cases Comparison",
+      "During Illness Reading",
+      "Acts of God Resolution",
+      "Full Responsibility",
+      "River Redirection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cases Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question 'what is the difference between the two clauses' which is precisely what candidate 1 ('Cases Comparison') describes in its prose.",
+      "second_heading": "Acts of God Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the ruling sent from Eretz Yisrael about the lion case ('shalchu mitam / achlu ari ein lanu') which is exactly what candidate 3 ('Acts of God Resolution') discusses in its prose.",
+      "current_heading": "Acts of God Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "River Redirection",
+    "candidates": [
+      "Full Responsibility",
+      "River Redirection",
+      "Rav Acha Ruling",
+      "Rava Position",
+      "Rava's Criticism",
+      "No Yichud Rule",
+      "New Kiddushin Risk",
+      "Witnesses Safeguard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All 9 items form one continuous legal narrative about kol onsa and ones delo shchiach \u2014 the field sale case (items 1-6) followed by the sesame/shippers case (items 7-9) \u2014 and the 'River Redirection' heading's prose is the most comprehensive match, covering both the field/river-diversion scenario and the sesame/Malka-River damming scenario together.",
+      "chosen_heading": "River Redirection",
+      "current_heading": "River Redirection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Witnesses Safeguard",
+    "candidates": [
+      "Rav Acha Ruling",
+      "Rava Position",
+      "Rava's Criticism",
+      "No Yichud Rule",
+      "New Kiddushin Risk",
+      "Witnesses Safeguard",
+      "Woman's Status (II)",
+      "Rabbi Yehuda",
+      "Rashi Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Mishna establishing the yichud rule \u2014 item 1 states the prohibition and item 2 details the slave/maidservant exceptions \u2014 which maps precisely to candidate 3 ('No Yichud Rule'), whose prose explicitly introduces 'lo tityached imo ela bifnei eidim'; the current placement under 'Witnesses Safeguard' (5) covers the explanatory prose about why witnesses help, which should follow after this Mishna text is anchored under heading 3.",
+      "chosen_heading": "No Yichud Rule",
+      "current_heading": "Witnesses Safeguard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Rashi Reinterpretation",
+    "candidates": [
+      "Woman's Status (II)",
+      "Rabbi Yehuda",
+      "Rashi Reinterpretation",
+      "Braita Conditions",
+      "Zenut Concern",
+      "Witness Required",
+      "Money Reframing",
+      "Rabbi Yose",
+      "Abaye Challenge",
+      "Abaye Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Woman's Status (II)",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses the question about the woman's status during the intervening days, which is precisely what candidate 0 ('Woman's Status (II)') describes \u2014 the mishna's question of 'mah hi be'otan hayamim.'",
+      "second_heading": "Rabbi Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rabbi Yehuda's ruling (ke'eshet ish lekol devareha) and Rabbi Yose's ruling (megureshes ve-eina megureshes), matching candidate 1 ('Rabbi Yehuda') whose prose explicitly describes Rabbi Yehuda's position as treating her as a fully married woman for all purposes.",
+      "current_heading": "Rashi Reinterpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Abaye Reading",
+    "candidates": [
+      "Braita Conditions",
+      "Zenut Concern",
+      "Witness Required",
+      "Money Reframing",
+      "Rabbi Yose",
+      "Abaye Challenge",
+      "Abaye Reading",
+      "Rava Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous discussion of the baraita's interpretation: items 1-4 present Rav Nachman's reading (with money as pivot), item 5 is Abaye's objection to that reading, items 6-8 present Abaye's alternative reading and its consequence for Rabbi Yochanan's ruling, and item 9 is Rava's opening objection \u2014 all of which are explicitly described in the 'Abaye Reading' prose as the content of that section.",
+      "chosen_heading": "Abaye Reading",
+      "current_heading": "Abaye Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Rava Reading",
+    "candidates": [
+      "Rava Reading",
+      "Spectrum Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's reading of the baraita \u2014 specifically Rabbi Yose son of Rabbi Yehuda's position that even without observed sex there is a concern of kiddushin \u2014 which is precisely what the 'Rava Reading' section's prose describes and analyzes.",
+      "chosen_heading": "Rava Reading",
+      "current_heading": "Rava Reading",
+      "moved": false
+    }
+  }
+]

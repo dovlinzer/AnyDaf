@@ -1,0 +1,482 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Mishnah Supports Rav",
+    "candidates": [
+      "50-50 Status",
+      "Rav's View",
+      "Rav Kahana View",
+      "Mishnah Analysis",
+      "Mishnah Supports Rav",
+      "Rav Kahana Versions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together constitute Rav's resolution of the mishnah difficulty and the Gemara's confirmation via the seifa \u2014 exactly what heading 4 ('Mishnah Supports Rav') describes in its prose.",
+      "chosen_heading": "Mishnah Supports Rav",
+      "current_heading": "Mishnah Supports Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rav Kahana Versions",
+    "candidates": [
+      "Rav Kahana Versions",
+      "Mishnah Reconciled",
+      "Baraita for Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the tension between the mishnah's use of 'miut' and Rav Kahana's two versions regarding the fifty-fifty case, which is precisely what heading 0 ('Rav Kahana Versions') discusses \u2014 the distinction between lishna batra (item 1-2) and lishna kama (item 3), exactly as described in that section's prose.",
+      "chosen_heading": "Rav Kahana Versions",
+      "current_heading": "Rav Kahana Versions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Baraita for Rav",
+    "candidates": [
+      "Mishnah Reconciled",
+      "Baraita for Rav",
+      "Baraita for RK1"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita for Rav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the baraita supporting Rav's position (each group brings for itself), which matches the 'Baraita for Rav' prose exactly.",
+      "second_heading": "Baraita for RK1",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the baraita supporting Rav Kahana's first version (tahor on Pesach Rishon, tamei on Pesach Sheni), which matches the 'Baraita for RK1' prose exactly.",
+      "current_heading": "Baraita for Rav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Baraita for RK1",
+    "candidates": [
+      "Baraita for RK1",
+      "Baraita for RK2",
+      "Explaining RK1 Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the baraita where in a fifty-fifty case the tamei people bring neither Pesach Rishon nor Pesach Sheni ('einan osin lo et ha-rishon ve-lo et ha-sheni'), which matches the prose of 'Baraita for RK2' describing Rav Kahana's second version, not the current placement which describes the tamei people bringing Pesach Sheni.",
+      "chosen_heading": "Baraita for RK2",
+      "current_heading": "Baraita for RK1",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Explaining RK1 Baraita",
+    "candidates": [
+      "Baraita for RK2",
+      "Explaining RK1 Baraita",
+      "Women's Role",
+      "Recounting Without Women",
+      "Rav on RK2 Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Explaining RK1 Baraita",
+      "first_confidence": "medium",
+      "first_reason": "Items 1 and 2 form the question-and-answer reconciling the second baraita (tamei bring Pesach Sheni) for Rav and RK's latter version, which candidate 1's prose explicitly sets up as the first reconciliation challenge.",
+      "second_heading": "Rav on RK2 Baraita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens the next reconciliation challenge \u2014 how Rav and RK's first version explain the baraita where tamei bring neither \u2014 which candidate 4's prose explicitly introduces.",
+      "current_heading": "Explaining RK1 Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rav on RK2 Baraita",
+    "candidates": [
+      "Women's Role",
+      "Recounting Without Women",
+      "Rav on RK2 Baraita",
+      "Retroactive Census"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav's reconciliation of the baraita by explaining the half-pure/half-impure scenario with women added to the pure side, holding women obligatory in Pesach Rishon but optional in Pesach Sheni \u2014 which is precisely what the prose of candidate 2 ('Rav on RK2 Baraita') describes as Rav's explanation that manipulates numbers by distinguishing which population is counted, with women making it look fifty-fifty on the tahor side and the view that nashim be-rishon chovah u-ve-sheni reshut.",
+      "chosen_heading": "Rav on RK2 Baraita",
+      "current_heading": "Rav on RK2 Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Retroactive Census",
+    "candidates": [
+      "Retroactive Census",
+      "RK on RK2 Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes a scenario where the tamei side is exactly half (palga u-palga) on Pesach Rishon and a majority of men on Pesach Sheni, which matches the 'RK on RK2 Baraita' prose describing Rav Kahana's inverse scenario where women complete the tahor side to fifty percent \u2014 not the 'Retroactive Census' prose which describes the tamei side as a miut on Pesach Rishon.",
+      "chosen_heading": "RK on RK2 Baraita",
+      "current_heading": "Retroactive Census",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "RK on RK2 Baraita",
+    "candidates": [
+      "Retroactive Census",
+      "RK on RK2 Baraita",
+      "RK's Challenge",
+      "RK Concedes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe Rav Kahana's reconciliation of the baraita using the scenario where women complete the tahor half to fifty percent, then the double exclusion from both Pesachim \u2014 exactly what the 'RK on RK2 Baraita' prose describes.",
+      "chosen_heading": "RK on RK2 Baraita",
+      "current_heading": "RK on RK2 Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "RK Concedes",
+    "candidates": [
+      "RK's Challenge",
+      "RK Concedes",
+      "Majority Tamei",
+      "No Splitting Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Kahana conceding that the baraita represents a tannaic dispute (tanna'ei hi), with one tanna holding mechetza al mechetza ke-rov and another eino ke-rov, which is precisely what the 'RK Concedes' prose describes.",
+      "chosen_heading": "RK Concedes",
+      "current_heading": "RK Concedes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "No Splitting Korban",
+    "candidates": [
+      "Majority Tamei",
+      "No Splitting Korban",
+      "RE ben Matya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the fifty-fifty case and the majority-tamei case as a continuous unit, and candidate 0 ('Majority Tamei') explicitly describes both scenarios together, while candidate 1 focuses only on the principle of ein korban tzibbur chaluk as a standalone concept.",
+      "chosen_heading": "Majority Tamei",
+      "current_heading": "No Splitting Korban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "RE ben Matya",
+    "candidates": [
+      "No Splitting Korban",
+      "RE ben Matya",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Elazar ben Matya's ruling and its scriptural derivation, which is precisely what the 'RE ben Matya' prose section describes \u2014 ein ha-yachid machria et ha-tzibbur le-tumah derived from lo tuchal lizbo'ach et ha-pesach be-achad bishe'arecha.",
+      "chosen_heading": "RE ben Matya",
+      "current_heading": "RE ben Matya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Shimon",
+      "Rabbi Yehuda",
+      "Rav's Method",
+      "Gemara Challenge",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's ruling that one impure tribe brings separately while pure tribes bring separately, and explains his reasoning that one tribe constitutes a kahal \u2014 exactly what the prose under heading 0 ('Rabbi Shimon') describes.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rav's Method",
+      "Gemara Challenge",
+      "Reconciliation",
+      "Ulla's Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehuda's opinion that even one impure tribe causes all to bring in tumah because a communal offering is not divided, which matches exactly the 'Rabbi Yehuda' prose section.",
+      "second_heading": "Rav's Method",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 form a continuous chain about Rav's proposal to render one person impure when the community is exactly half-half, the Gemara's challenges to that proposal, and the final reconciliation \u2014 matching the sequence of 'Rav's Method', 'Gemara Challenge', and 'Reconciliation' sections, with item 2 (Rav's ruling) being the opening of that chain best placed under 'Rav's Method'.",
+      "current_heading": "Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Ulla's Method",
+    "candidates": [
+      "Reconciliation",
+      "Ulla's Method",
+      "Ulla's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's proposal to send one tahor person on a distant journey, which is precisely what 'Ulla's Method' section describes, and the Gemara's suggestion to use sheretz impurity instead is the opening challenge that transitions into 'Ulla's Problem.'",
+      "chosen_heading": "Ulla's Method",
+      "current_heading": "Ulla's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Ulla's Problem",
+    "candidates": [
+      "Ulla's Problem",
+      "Practical Reality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items constitute the continuous chain of challenges and responses regarding Ulla's solution \u2014 tamei sheretz, tamei meit, chagigah deferral, Pesach Sheni, and the kullan tashlumin principle \u2014 which is precisely what the 'Ulla's Problem' prose describes in detail.",
+      "chosen_heading": "Ulla's Problem",
+      "current_heading": "Ulla's Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Practical Reality",
+    "candidates": [
+      "Practical Reality",
+      "Rav on Zavin Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's practical dismissal of Ulla's solution, which is exactly what the 'Practical Reality' section's prose describes.",
+      "chosen_heading": "Practical Reality",
+      "current_heading": "Practical Reality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rav on Zavin Case",
+    "candidates": [
+      "Rav on Zavin Case",
+      "No First Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav's ruling on the zavin/tamei meitim case, which is precisely what candidate 0's prose introduces and explains, including the specific ruling 'ein osin lo be-rishon ve-lo be-sheni'.",
+      "chosen_heading": "Rav on Zavin Case",
+      "current_heading": "Rav on Zavin Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "No First Pesach",
+    "candidates": [
+      "No First Pesach",
+      "No Second Pesach",
+      "Shmuel Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains both why the minority cannot bring on the first Pesach AND the rule that when the community doesn't bring on the first Pesach the individual cannot bring on the second \u2014 matching exactly the 'No Second Pesach' section's prose which quotes both principles (kol heicha de-avdi tzibur b'rishon and kol heicha de-lo avdi tzibur be-rishon).",
+      "chosen_heading": "No Second Pesach",
+      "current_heading": "No First Pesach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Shmuel Challenge",
+    "candidates": [
+      "No Second Pesach",
+      "Shmuel Challenge",
+      "Rav Response",
+      "Zavin Pesach Sheni"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Zavin Pesach Sheni",
+    "candidates": [
+      "Rav Response",
+      "Zavin Pesach Sheni",
+      "Rav Huna",
+      "Rav Adda",
+      "Tumah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce the case of majority tamei meitim / minority zavin and the dispute between Rav Huna and Rav Adda bar Ahava, which is precisely what the 'Zavin Pesach Sheni' prose sets up as its topic before the individual rulings are elaborated in subsequent sections.",
+      "chosen_heading": "Zavin Pesach Sheni",
+      "current_heading": "Zavin Pesach Sheni",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Tumah Status",
+    "candidates": [
+      "Rav Huna",
+      "Rav Adda",
+      "Tumah Status",
+      "Rav Mani Analysis",
+      "No First Pesach",
+      "Zavin Recounted",
+      "No Second Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items directly address the underlying conceptual dispute between tumah dechuya and tumah hutra be-tzibur, and the secondary question of whether impurity defers to Pesach Sheni \u2014 exactly what the 'Tumah Status' prose section describes.",
+      "chosen_heading": "Tumah Status",
+      "current_heading": "Tumah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148
+    ],
+    "current_heading": "No Second Pesach",
+    "candidates": [
+      "Rav Mani Analysis",
+      "No First Pesach",
+      "Zavin Recounted",
+      "No Second Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together state Rabbi Manni bar Pattish's ruling and its full reasoning (why tmei meitim are excluded from both Pesach Rishon and Pesach Sheni), which matches heading 0 ('Rav Mani Analysis') that introduces the entire ruling as a unit, whereas the current placement under 'No Second Pesach' only captures half the content.",
+      "chosen_heading": "Rav Mani Analysis",
+      "current_heading": "No Second Pesach",
+      "moved": true
+    }
+  }
+]

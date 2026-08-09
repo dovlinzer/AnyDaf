@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rabbi Abbahu Exclusion",
+    "candidates": [
+      "Rabbi Abbahu Exclusion",
+      "Mumchin Concept",
+      "Eruv Parshiyot",
+      "Three Elohim",
+      "Gezelah Definition",
+      "Modeh B'Miktzat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the conclusion of Rabbi Abbahu's position \u2014 that hoda'ot ve-halva'ot do not require mumchin \u2014 which is precisely what the 'Rabbi Abbahu Exclusion' prose section explains as the point of his exclusion.",
+      "chosen_heading": "Rabbi Abbahu Exclusion",
+      "current_heading": "Rabbi Abbahu Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Modeh B'Miktzat",
+    "candidates": [
+      "Mumchin Concept",
+      "Eruv Parshiyot",
+      "Three Elohim",
+      "Gezelah Definition",
+      "Modeh B'Miktzat",
+      "Derishah Chakira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'mai kasavar' dilemma about eruv parshiyot and mumchin, which the prose of heading 4 ('Modeh B'Miktzat') explicitly quotes and discusses as the gemara posing the challenge and then resolving it.",
+      "chosen_heading": "Modeh B'Miktzat",
+      "current_heading": "Modeh B'Miktzat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Derishah Chakira",
+    "candidates": [
+      "Derishah Chakira",
+      "Removing Obstacles",
+      "Tosafot Extension",
+      "Judicial Liability"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Derishah Chakira",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rabbi \u1e24anina's teaching that both monetary and capital cases require drisha ve-chakira by Torah law, which matches heading 0 ('Derishah Chakira') whose prose discusses exactly this teaching and its source verse.",
+      "second_heading": "Removing Obstacles",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the reason the Sages waived drisha ve-chakira \u2014 'so as not to lock the door before borrowers' \u2014 which matches heading 1 ('Removing Obstacles') whose prose is entirely about this rationale.",
+      "current_heading": "Derishah Chakira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Judicial Liability",
+    "candidates": [
+      "Removing Obstacles",
+      "Tosafot Extension",
+      "Judicial Liability",
+      "Challenging Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's objection about judicial liability for erroneous rulings and the response about locking the door before borrowers, which is precisely what the 'Judicial Liability' section's prose describes.",
+      "chosen_heading": "Judicial Liability",
+      "current_heading": "Judicial Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Challenging Exclusion",
+    "candidates": [
+      "Challenging Exclusion",
+      "Rava Resolution",
+      "Minimum Size",
+      "Yoshei Kranot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenges to Rabbi Abbahu's explanation \u2014 'if so, why not just say two matters are taught' and 'why repeat bishlosha twice' \u2014 which are precisely what the 'Challenging Exclusion' prose describes.",
+      "chosen_heading": "Challenging Exclusion",
+      "current_heading": "Challenging Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Yoshei Kranot",
+    "candidates": [
+      "Rava Resolution",
+      "Minimum Size",
+      "Yoshei Kranot",
+      "Rava vs Rav Acha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rava's resolution (tarti katanei) plus Rav Acha's de-oraita ruling, both of which are explicitly discussed under 'Rava Resolution' (which covers Rava's reading) and 'Minimum Size' (which covers Rav Acha's one-judge-suffices argument) \u2014 but since item 1 contains both Rava's statement AND Rav Acha's ruling, it most naturally belongs under 'Rava Resolution' where Rava's tarti katanei is the primary focus and Rav Acha's view follows as an addendum, yet 'Minimum Size' explicitly discusses Rav Acha's mi-de'oraita chad kasher ruling making that a better fit for item 1's Rav Acha portion; however the entire item 1 as a unit (both Rava and Rav Acha) is best placed under 'Rava Resolution' since that section explicitly mentions 'because of the statement of Rabbi Chanina' which is quoted in item 1.",
+      "second_heading": "Yoshei Kranot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the yoshei kranot objection and the malpractice/liability counterargument, which is precisely what the 'Yoshei Kranot' prose section describes in detail.",
+      "current_heading": "Yoshei Kranot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rava vs Rav Acha",
+    "candidates": [
+      "Rava vs Rav Acha",
+      "Nezek Mention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical difference between Rava and Rav Acha b'rei de-Rav Ika regarding Shmuel's ruling about two judges, which is exactly what the 'Rava vs Rav Acha' section's prose addresses.",
+      "chosen_heading": "Rava vs Rav Acha",
+      "current_heading": "Rava vs Rav Acha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Nezek Mention",
+    "candidates": [
+      "Nezek Mention",
+      "Chatzi Nezek Nature"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nezek Mention",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses why 'nezek' is mentioned separately given that it seems redundant with chavalot, which is exactly what heading 0 ('Nezek Mention') discusses.",
+      "second_heading": "Chatzi Nezek Nature",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses why chatzi nezek is distinct from chavalot by distinguishing mamona from knas, which is precisely what heading 1 ('Chatzi Nezek Nature') discusses.",
+      "current_heading": "Nezek Mention",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Chatzi Nezek Nature",
+    "candidates": [
+      "Chatzi Nezek Nature",
+      "Graduated Fines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's question about whether chatzi nezek is a fine or monetary payment (palga nizka knasa vs. palga nizka mamona), which is precisely what the 'Chatzi Nezek Nature' prose discusses.",
+      "chosen_heading": "Chatzi Nezek Nature",
+      "current_heading": "Chatzi Nezek Nature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Graduated Fines",
+    "candidates": [
+      "Graduated Fines",
+      "Pesukim Citation",
+      "Rabbi Yoshiya Count",
+      "Rabbi Yonatan Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the gemara's resolution about why the mishnah taught nezek and chatzi nezek alongside kefel/arba'ah/chamisha, which is precisely what the 'Graduated Fines' section's prose describes.",
+      "chosen_heading": "Graduated Fines",
+      "current_heading": "Graduated Fines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Rabbi Yonatan Object",
+    "candidates": [
+      "Pesukim Citation",
+      "Rabbi Yoshiya Count",
+      "Rabbi Yonatan Object",
+      "Even Beit Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together cover the full discussion of Rabbi Yoshiya vs. Rabbi Yonatan's derivation, the question of whether they dispute dorshin techilot, and Rabbi Yonatan's lishna de'alma response \u2014 exactly the content described in the 'Rabbi Yonatan Object' prose.",
+      "chosen_heading": "Rabbi Yonatan Object",
+      "current_heading": "Rabbi Yonatan Object",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Even Beit Din",
+    "candidates": [
+      "Even Beit Din",
+      "Rabbi Yehuda Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita of Rabbi Eliezer son of Rabbi Yosi HaGelili deriving that a beit din must be odd-numbered (noteh), which is exactly what candidate 0's prose describes as the gemara's citation to challenge Rabbi Yoshiya.",
+      "chosen_heading": "Even Beit Din",
+      "current_heading": "Even Beit Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Rabbi Yehuda Exception",
+    "candidates": [
+      "Rabbi Yehuda Exception",
+      "Rabbi Yoshiya Even",
+      "Majority Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical unit about Rabbi Yehuda's position \u2014 proposing him as a model for Rabbi Yoshiya, challenging whether his even-number ruling extends beyond the Great Sanhedrin, and then demonstrating via the semikhah/egla arufa mishna that Rabbi Yehuda actually requires odd-numbered courts in other contexts \u2014 which matches exactly the prose under heading 0.",
+      "chosen_heading": "Rabbi Yehuda Exception",
+      "current_heading": "Rabbi Yehuda Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Majority Rule",
+    "candidates": [
+      "Rabbi Yoshiya Even",
+      "Majority Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss exactly what the 'Majority Rule' prose covers: Rabbi Yoshiya's application of the 'lintos' verse only to capital cases, the challenge from the mishna about majority rule in monetary cases, and the kal va-chomer resolution \u2014 all of which the prose explicitly describes in detail.",
+      "chosen_heading": "Majority Rule",
+      "current_heading": "Majority Rule",
+      "moved": false
+    }
+  }
+]

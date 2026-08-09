@@ -1,0 +1,457 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "R. Yehuda & Notzah",
+      "R. Yochanan's Comparison",
+      "Rashi on Pigul",
+      "Tosafot: Shomer",
+      "Rava's Resolution",
+      "Final Mishnah Intro",
+      "Fatal Conditions List",
+      "Poison & Snake Bite"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yochanan's Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's comparison between Rabbi Yehuda and Rabbi Yishmael, which is precisely what candidate 1 ('R. Yochanan's Comparison') describes in its prose.",
+      "second_heading": "Rava's Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's challenge to Rabbi Yochanan's comparison, which is exactly what candidate 4 ('Rava's Resolution') discusses in detail, including the distinction between treifah and piggul for each sage.",
+      "current_heading": "Rava's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Poison & Snake Bite",
+    "candidates": [
+      "Final Mishnah Intro",
+      "Fatal Conditions List",
+      "Poison & Snake Bite",
+      "Shmuel on Chiltit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single mishnah that covers both the list of fatal-but-kosher conditions AND the poison/snake-bite cases together, so it belongs under the introductory heading that frames the entire mishnah, not split under a sub-section covering only part of its content.",
+      "chosen_heading": "Final Mishnah Intro",
+      "current_heading": "Poison & Snake Bite",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Shmuel on Chiltit",
+    "candidates": [
+      "Poison & Snake Bite",
+      "Shmuel on Chiltit",
+      "Rav Shizbi's Kashya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's statement that feeding an animal asafoetida makes it a tereifa because it perforates its intestines, which is precisely what the 'Shmuel on Chiltit' section's prose describes and analyzes.",
+      "chosen_heading": "Shmuel on Chiltit",
+      "current_heading": "Shmuel on Chiltit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Shizbi's Kashya",
+    "candidates": [
+      "Rav Shizbi's Kashya",
+      "Leaves vs. Seeds",
+      "Animal vs. Human Poison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheizvi's objection from the baraita and identifies the double contradiction regarding chiltit and sam ha-maves, which is exactly what the prose under 'Rav Shizbi's Kashya' describes.",
+      "chosen_heading": "Rav Shizbi's Kashya",
+      "current_heading": "Rav Shizbi's Kashya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Animal vs. Human Poison",
+    "candidates": [
+      "Leaves vs. Seeds",
+      "Animal vs. Human Poison",
+      "Tea (Tiah) ID"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the chiltit contradiction (leaves vs. slivers) and the sam ha-maves contradiction (animal vs. human poison), and the current heading 'Animal vs. Human Poison' with its prose explicitly addresses both resolutions including the trei gavnei sam ha-maves conclusion, making it the best match.",
+      "chosen_heading": "Animal vs. Human Poison",
+      "current_heading": "Animal vs. Human Poison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Tea (Tiah) ID",
+    "candidates": [
+      "Tea (Tiah) ID",
+      "Three Measures Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question and answer about what 'tia' is, which is precisely what the 'Tea (Tiah) ID' section's prose describes.",
+      "chosen_heading": "Tea (Tiah) ID",
+      "current_heading": "Tea (Tiah) ID",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Three Measures Warning",
+    "candidates": [
+      "Three Measures Warning",
+      "Rav Avahu's Experience",
+      "Rav Yosef on Sterility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's warning and Rabbi Abbahu's personal experience, but the prose under 'Rav Avahu's Experience' (index 1) explicitly discusses both the three-measure warning and Abbahu's single-measure incident together, making it the better match than the current placement which only addresses the warning portion.",
+      "chosen_heading": "Rav Avahu's Experience",
+      "current_heading": "Three Measures Warning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rav Yosef on Sterility",
+    "candidates": [
+      "Rav Avahu's Experience",
+      "Rav Yosef on Sterility",
+      "Reish Galuta Deer",
+      "Rav's Inspection",
+      "Shmuel: Snake Bite & Meat",
+      "Oven Test Result",
+      "Rav & Shmuel Praise"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yosef on Sterility",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's teaching about eating certain foods on an empty stomach in summer uprooting the heartstrings, which matches exactly the prose of candidate 1 ('Rav Yosef on Sterility').",
+      "second_heading": "Reish Galuta Deer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the entirely new narrative of the deer brought to the Exilarch with cut hind legs and Rav's inspection, which matches exactly the prose of candidate 2 ('Reish Galuta Deer').",
+      "current_heading": "Rav Yosef on Sterility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rav & Shmuel Praise",
+    "candidates": [
+      "Reish Galuta Deer",
+      "Rav's Inspection",
+      "Shmuel: Snake Bite & Meat",
+      "Oven Test Result",
+      "Rav & Shmuel Praise",
+      "Simanim Intro",
+      "Kosher Bird Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel reciting the verse about no harm befalling the righteous and Rav reciting the verse about no secret being hidden, which is precisely what heading 4 ('Rav & Shmuel Praise') discusses in its prose.",
+      "chosen_heading": "Rav & Shmuel Praise",
+      "current_heading": "Rav & Shmuel Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Kosher Bird Signs",
+    "candidates": [
+      "Simanim Intro",
+      "Kosher Bird Signs",
+      "Split Fingers Sign",
+      "Grasshoppers & Fish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah text covering all the signs (mammals, birds including dores, extra digit/crop/gizzard, and Rabbi Elazar's split-foot rule), and candidate 0 'Simanim Intro' explicitly introduces this mishnah as a whole unit \u2014 the subsequent candidates break out individual sub-topics for prose commentary but the mishnah itself belongs under the introductory heading that frames it.",
+      "chosen_heading": "Simanim Intro",
+      "current_heading": "Kosher Bird Signs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Grasshoppers & Fish",
+    "candidates": [
+      "Split Fingers Sign",
+      "Grasshoppers & Fish",
+      "Cud & Upper Teeth",
+      "Camel Exception",
+      "Statement Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the signs for kosher grasshoppers and fish, which exactly matches the 'Grasshoppers & Fish' section prose that discusses the same mishnaic content about four legs, four wings, jumper legs, fins, and scales.",
+      "chosen_heading": "Grasshoppers & Fish",
+      "current_heading": "Grasshoppers & Fish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Statement Correction",
+    "candidates": [
+      "Cud & Upper Teeth",
+      "Camel Exception",
+      "Statement Correction",
+      "Young Camel Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the initial baraita introducing the sign that cud-chewing animals lack upper teeth and are kosher, which is exactly what the 'Cud & Upper Teeth' section's prose describes.",
+      "chosen_heading": "Cud & Upper Teeth",
+      "current_heading": "Statement Correction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Young Camel Issue",
+    "candidates": [
+      "Statement Correction",
+      "Young Camel Issue",
+      "Rav Chisda Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Statement Correction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the principle correction (the camel's cuspids, young camel, shafan/arnevet objections, and the reformulated rule that no upper teeth = kosher), which matches the 'Statement Correction' prose exactly.",
+      "second_heading": "Rav Chisda Scenario",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Chisda's wilderness scenario and the ben gamal exception resolved via d'vei Rabbi Yishmael, which matches the 'Rav Chisda Scenario' prose exactly.",
+      "current_heading": "Young Camel Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rav Chisda Scenario",
+    "candidates": [
+      "Rav Chisda Scenario",
+      "Split Hooves Test",
+      "Pig Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically describes the scenario where the mouth is mutilated and hooves must be examined instead, with the pig exception caveat \u2014 exactly what the 'Split Hooves Test' prose describes, not the 'Rav Chisda Scenario' prose which discusses a different Rav Chisda ruling about severed hooves and examining the mouth.",
+      "chosen_heading": "Split Hooves Test",
+      "current_heading": "Rav Chisda Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Pig Exception",
+    "candidates": [
+      "Split Hooves Test",
+      "Pig Exception",
+      "Meat Grain Direction",
+      "Wild Donkey Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the school of Rabbi Yishmael teaching that the pig is the unique split-hooved non-ruminant, which is precisely what the 'Pig Exception' section's prose discusses.",
+      "chosen_heading": "Pig Exception",
+      "current_heading": "Pig Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Wild Donkey Exception",
+    "candidates": [
+      "Meat Grain Direction",
+      "Wild Donkey Exception",
+      "Chaya/Behema Intro",
+      "Horns & Hooves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete discussion of the meat-grain rule and its wild donkey exception \u2014 item 1 states Rav \u1e24isda's ruling and item 2 addresses the wild-donkey objection and where to inspect \u2014 which is precisely what the 'Wild Donkey Exception' prose describes, making the current placement correct.",
+      "chosen_heading": "Wild Donkey Exception",
+      "current_heading": "Wild Donkey Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Horns & Hooves",
+    "candidates": [
+      "Chaya/Behema Intro",
+      "Horns & Hooves",
+      "Goat Counterexample",
+      "Bundled Pattern",
+      "Ox Counterexample",
+      "Ridged Texture",
+      "Goat Ridged Issue",
+      "Branched Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Items 1-2 directly address the 'Chaya/Behema Intro' content (why chaya signs are needed, the fat-permitting rationale), and the subsequent items continue the same unbroken discussion, making index 0 the better starting home for this entire passage than the current 'Horns & Hooves' placement.",
+      "chosen_heading": "Chaya/Behema Intro",
+      "current_heading": "Horns & Hooves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Branched Structure",
+    "candidates": [
+      "Goat Counterexample",
+      "Bundled Pattern",
+      "Ox Counterexample",
+      "Ridged Texture",
+      "Goat Ridged Issue",
+      "Branched Structure",
+      "Deer Counterexample",
+      "Pointed Tips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses both the goat counterexample to ridged horns and the gazelle counterexample to branched horns, which maps directly to 'Goat Ridged Issue' (heading 4) as the starting point \u2014 but more precisely, the passage covers the transition from ridged to branched to rounded, and the goat/gazelle pair is exactly what heading 4's prose describes as the problem with ridging plus the branched proposal's failure with the gazelle, making heading 4 the best single home since it introduces this exact two-step refutation sequence.",
+      "chosen_heading": "Goat Ridged Issue",
+      "current_heading": "Branched Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Pointed Tips",
+    "candidates": [
+      "Deer Counterexample",
+      "Pointed Tips",
+      "Synthesis & Rules",
+      "Karchos Goats",
+      "Karchos Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the exact synthesis statement 'heicha demiftzala lo dina velo dayana' and 'heicha delo miftzala beinan keruchot chadurot vecharukot vehu demivla chirkayhu' which is precisely what the 'Synthesis & Rules' section's prose describes and quotes.",
+      "chosen_heading": "Synthesis & Rules",
+      "current_heading": "Pointed Tips",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Karchos Resolution",
+    "candidates": [
+      "Synthesis & Rules",
+      "Karchos Goats",
+      "Karchos Resolution",
+      "Respect for Rav Acha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Karchos Goats",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the karkoz goat case and the dispute between Rav A\u1e25ai and Rav Shmuel, which matches heading 1 ('Karchos Goats') whose prose explicitly discusses the basketful of fat and the question of chaya vs. behema, and also heading 2 ('Karchos Resolution') whose prose covers Rav Acha's ruling and Shmuel's eating \u2014 but heading 1's prose says 'leads directly into the famous case' suggesting it covers the case itself, while heading 2's prose covers the ruling and eating, so item 1 (the case + dispute + eating) fits best under heading 2 which explicitly describes both Rav Acha forbidding and Shmuel eating.",
+      "second_heading": "Respect for Rav Acha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the message from Eretz Yisrael instructing deference to Rav A\u1e25ai as 'meir einei ha-golah,' which exactly matches heading 3 ('Respect for Rav Acha') whose prose is entirely about that honorific and the instruction not to rule against him flagrantly.",
+      "current_heading": "Karchos Resolution",
+      "moved": true
+    }
+  }
+]

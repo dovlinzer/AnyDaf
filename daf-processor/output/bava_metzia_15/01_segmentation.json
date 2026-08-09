@@ -29,8 +29,8 @@
           "timestamp": "00:27"
         }
       ],
-      "sefaria_index": 33,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Braitta on Shevach Karka'ot: Evidence for Collection from a Gazlan",
@@ -58,7 +58,7 @@
           "timestamp": "05:01"
         }
       ],
-      "sefaria_index": 33,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -111,8 +111,8 @@
           "timestamp": "29:18"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 28,
+      "matched": false
     },
     {
       "title": "Shmuel's Ruling on Insurance in Sale Documents: Evidence of Gazlan Reimbursement",
@@ -135,7 +135,7 @@
           "timestamp": "34:00"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -232,7 +232,7 @@
           "timestamp": "59:14"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -457,5 +457,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "55:28",
+  "amud_b_micro_title": "Gazlan Answer",
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "a"
 }

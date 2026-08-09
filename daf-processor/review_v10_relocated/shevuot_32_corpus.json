@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "First Denies",
+    "candidates": [
+      "Opening & Transition",
+      "Mishnah Setup",
+      "Oath vs. Amen",
+      "Self vs. Other Oath",
+      "Outside BD Oaths",
+      "Kfira Triggers Chiyuv",
+      "No Retraction Rule",
+      "Multiple Oaths BD",
+      "Posul After First",
+      "Simultaneous Denial",
+      "Sequential Denial",
+      "First Denies",
+      "Two Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage covers all three sub-cases (both deny together, one after the other, one denies and one admits), and heading 9 'Simultaneous Denial' begins exactly this sequence of the mishnah's discussion of the structure of chiyuv when two eidim are involved \u2014 the passage belongs under that opening heading rather than the later 'First Denies' heading which covers only the last sub-case.",
+      "chosen_heading": "Simultaneous Denial",
+      "current_heading": "First Denies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Two Groups",
+    "candidates": [
+      "First Denies",
+      "Two Groups",
+      "Shmuel's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses two sets of witnesses (shtei kitei eidim) with sequential denials and both being liable because testimony can be established by either group \u2014 exactly what the 'Two Groups' section's prose describes.",
+      "chosen_heading": "Two Groups",
+      "current_heading": "Two Groups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Shmuel's Ruling",
+    "candidates": [
+      "Shmuel's Ruling",
+      "Running After",
+      "Necessity Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's ruling AND the Gemara's challenge from the later mishnah ('we already learn this \u2014 ad sheyishme'u mipi hatoveia'), which is precisely the 'Necessity Debate' that candidate 2's prose describes in detail.",
+      "chosen_heading": "Necessity Debate",
+      "current_heading": "Shmuel's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Necessity Debate",
+    "candidates": [
+      "Running After",
+      "Necessity Debate",
+      "Pikadon Compare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara debate about whether Shmuel's ruling is necessary given existing mishnaic sources \u2014 item 1 resolves the first challenge (running after them), items 2-3 raise and resolve the second challenge (amar in the mishna) \u2014 exactly matching the 'Necessity Debate' prose which explicitly describes both of these sub-discussions in sequence.",
+      "chosen_heading": "Necessity Debate",
+      "current_heading": "Necessity Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Pikadon Compare",
+    "candidates": [
+      "Pikadon Compare",
+      "Verbal Essential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the pikadon comparison argument \u2014 that 'amar' in the pikadon mishnah cannot be a strict requirement given the verse 've'hikhash be'amito' \u2014 which is precisely what the 'Pikadon Compare' prose describes.",
+      "chosen_heading": "Pikadon Compare",
+      "current_heading": "Pikadon Compare",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Verbal Essential",
+    "candidates": [
+      "Verbal Essential",
+      "Braisa Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara exchange about whether 'amar' is davka or not, culminating in 'orcha de'milsa' \u2014 exactly the discussion described in the 'Verbal Essential' prose.",
+      "chosen_heading": "Verbal Essential",
+      "current_heading": "Verbal Essential",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Braisa Support",
+    "candidates": [
+      "Braisa Support",
+      "Im Lo Yagid",
+      "Abaye's Logic",
+      "Papa's Question",
+      "Multiple Chiyuvim",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita that corroborates Shmuel's position, exactly matching the 'Braisa Support' section's prose description of witnesses preemptively declaring a shvuah and being exempt, with the pikadon exception.",
+      "chosen_heading": "Braisa Support",
+      "current_heading": "Braisa Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Im Lo Yagid",
+      "Abaye's Logic",
+      "Papa's Question",
+      "Multiple Chiyuvim",
+      "Reconciliation",
+      "K'dei Dibur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers Abaye's derivation from 'im lo yagid,' Rav Pappa's challenge about whether the oath itself must be in beis din, and the refutation using 'le'achas' to prove multiple chiyuvim require oaths outside beis din \u2014 all of which is precisely what candidate 3 ('Multiple Chiyuvim') discusses, including the baraita about liability for each oath and the mishnah about five oaths before beis din generating only one chiyuv.",
+      "chosen_heading": "Multiple Chiyuvim",
+      "current_heading": "Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "K'dei Dibur",
+    "candidates": [
+      "Reconciliation",
+      "K'dei Dibur",
+      "Concept Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the mishna's ruling about simultaneous denial (k'echad), the challenge of tzimtzum, Rav \u1e24isda's attribution to Rabbi Yosei HaGelili, Rabbi Yo\u1e25anan's k'dei dibur resolution, and Rav A\u1e25a mi'Difti's objection with Ravina's answer \u2014 precisely the content described in the 'K'dei Dibur' prose.",
+      "chosen_heading": "K'dei Dibur",
+      "current_heading": "K'dei Dibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Concept Debate",
+    "candidates": [
+      "Concept Debate",
+      "Eliezer Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion: item 1 introduces the baraita and Rabbi Elazar's dispute, item 2 proposes the conceptual root (eid echad for shvuah vs. mamon), and item 3 rejects that proposal via Abaye \u2014 all of which matches exactly the 'Concept Debate' prose describing the initial proposal and its nafka mina regarding the nature of eid echad.",
+      "chosen_heading": "Concept Debate",
+      "current_heading": "Concept Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Eliezer Position",
+    "candidates": [
+      "Eliezer Position",
+      "Chachamim Position",
+      "Abaye's Framework",
+      "Sotah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the principle of 'davar ha'gorem l'mamon k'mamon dami' as Rabbi Eliezer's position and 'lav k'mamon dami' as the chachamim's counter-position, but the specific framing \u2014 presenting the eid echad coming for shvuah and then introducing the machloket \u2014 is the Gemara's explanation of Rabbi Eliezer's reasoning, which is precisely what the 'Eliezer Position' prose discusses.",
+      "chosen_heading": "Eliezer Position",
+      "current_heading": "Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Sotah Cases",
+    "candidates": [
+      "Chachamim Position",
+      "Abaye's Framework",
+      "Sotah Cases",
+      "Sotah Stirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's full introductory statement and its first elaboration, which the prose under 'Abaye's Framework' explicitly describes as the cryptic five-case formulation that 'we will unpack each in turn' \u2014 making this the natural home for the passage before the unpacking begins under the subsequent headings.",
+      "chosen_heading": "Abaye's Framework",
+      "current_heading": "Sotah Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Sotah Stirah",
+    "candidates": [
+      "Sotah Cases",
+      "Sotah Stirah",
+      "Shvua Impossible",
+      "Abba Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the universal agreement regarding eidei kinuy (item 1) and the dispute regarding eidei stirah (item 2), which are precisely the two cases described in the 'Sotah Cases' prose \u2014 the hakol modim be'eidei kinuy she'patur and the machloket regarding eidei stirah \u2014 making candidate 0 the clearly correct home for this passage.",
+      "chosen_heading": "Sotah Cases",
+      "current_heading": "Sotah Stirah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Abba Case",
+    "candidates": [
+      "Shvua Impossible",
+      "Abba Case",
+      "Death Framework",
+      "Private Tell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the two cases described in candidate 0's prose: 'she'kenegdo chashud al ha'shvuah' (items 1-3) and 'eid echad de'Rabbi Abba' (items 4-5), both explaining when everyone agrees a chiyuv exists due to mitoch she'eino yachol lishava meshalem \u2014 the content of candidate 0, not candidate 1 which describes only the Rabbi Abba incident in isolation.",
+      "chosen_heading": "Shvua Impossible",
+      "current_heading": "Abba Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Private Tell",
+    "candidates": [
+      "Death Framework",
+      "Private Tell",
+      "Refuses Both",
+      "Monetary Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Pappa's entire parallel framework about the witness of death \u2014 both the liable and exempt cases \u2014 which maps precisely to what heading 0 ('Death Framework') describes as Rav Papa constructing a framework with scenarios where everyone agrees the witness is chayav, patur, and the active machloket; the current placement under 'Private Tell' only covers one sub-case, but item 1 introduces the whole framework, making heading 0 the correct home for all three items together.",
+      "chosen_heading": "Death Framework",
+      "current_heading": "Private Tell",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Monetary Effect",
+    "candidates": [
+      "Refuses Both",
+      "Monetary Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of whether administering an oath regarding land incurs liability and the Gemara's answer that perhaps the case involves movable property (metaltalei), which is precisely what the 'Monetary Effect' prose describes with its reference to dilma d'tfisa metaltalei.",
+      "chosen_heading": "Monetary Effect",
+      "current_heading": "Monetary Effect",
+      "moved": false
+    }
+  }
+]

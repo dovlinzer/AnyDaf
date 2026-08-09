@@ -87,7 +87,7 @@
         }
       ],
       "sefaria_index": 2,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Remedies for Toothache: Swallowing vs. Rinsing Vinegar (continued)",
@@ -143,8 +143,8 @@
           "timestamp": "30:51"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Remedies for Loin Pain: Oil Rubbing and the Rose Oil Debate (continued)",
@@ -157,7 +157,7 @@
           "timestamp": "32:08"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": false
     },
     {
@@ -239,7 +239,7 @@
           "timestamp": "49:13"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -456,5 +456,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "30:27",
+  "amud_b_micro_title": "Rav Contradiction",
+  "shiur_start_daf": 110,
+  "shiur_start_amud": "b"
 }

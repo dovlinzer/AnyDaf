@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Mishnah Text",
+    "candidates": [
+      "Institution Overview",
+      "Words Create Kinyan",
+      "Void Upon Recovery",
+      "Kol vs. Miktzat",
+      "Kinyan Requirements",
+      "Partial Gift Recovery",
+      "Mishnah Text",
+      "Gift Valid with Land",
+      "Invalid Without Land",
+      "Amad vs. Kinyan",
+      "Inheritance Portion",
+      "Who Holds Umdana?",
+      "Rabbi Shimon ben Menasya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself (shechiv mera who writes all property to others and reserves any land), which is precisely what the 'Mishnah Text' section's prose introduces and discusses.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Mishnah Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rabbi Shimon ben Menasya",
+    "candidates": [
+      "Gift Valid with Land",
+      "Invalid Without Land",
+      "Amad vs. Kinyan",
+      "Inheritance Portion",
+      "Who Holds Umdana?",
+      "Rabbi Shimon ben Menasya",
+      "Tana Kama vs. RSbM",
+      "Execution & Anticipation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's answer to the question 'which tanna holds azlinan batar umdana?' \u2014 which is precisely what the 'Who Holds Umdana?' section's prose describes, making that the natural home for this text rather than the subsequent section that discusses RSbM's position in isolation.",
+      "chosen_heading": "Who Holds Umdana?",
+      "current_heading": "Rabbi Shimon ben Menasya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Execution & Anticipation",
+    "candidates": [
+      "Tana Kama vs. RSbM",
+      "Execution & Anticipation",
+      "Umdana & Devarim",
+      "Tosafot's Question",
+      "One-Sided Transactions",
+      "RN's Preference",
+      "Evidence Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Sheshet attribution of the umdana principle to Rabbi Shimon Shezuri via the hayotzei b'kolar baraita, which is precisely what the 'Execution & Anticipation' section's prose describes.",
+      "chosen_heading": "Execution & Anticipation",
+      "current_heading": "Execution & Anticipation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Evidence Requirement",
+    "candidates": [
+      "Umdana & Devarim",
+      "Tosafot's Question",
+      "One-Sided Transactions",
+      "RN's Preference",
+      "Evidence Requirement",
+      "Sick Person Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Rav Nachman didn't use Rabbi Shimon Shezuri's case (the 'kitvu' distinction) and why Rav Sheshet didn't use Rabbi Shimon ben Menasya's case (umdana d'mokeach shani), which is precisely what the 'RN's Preference' prose discusses \u2014 the structural reasoning behind each Amora's choice of precedent.",
+      "chosen_heading": "RN's Preference",
+      "current_heading": "Evidence Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Sick Person Braita",
+    "candidates": [
+      "Evidence Requirement",
+      "Sick Person Braita",
+      "Explicit Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the braita about the ill, bedridden person directing property based on a mistaken assumption about an heir, which is exactly what the 'Sick Person Braita' prose describes.",
+      "chosen_heading": "Sick Person Braita",
+      "current_heading": "Sick Person Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Explicit Statement",
+    "candidates": [
+      "Explicit Statement",
+      "Torah Source Query",
+      "V'Ha'avartem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss whether the baraita can be attributed to the Rabbis and why the sick person's verbal statement of his assumption distinguishes this case, which is precisely what the 'Explicit Statement' prose section describes.",
+      "chosen_heading": "Explicit Statement",
+      "current_heading": "Explicit Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "V'Ha'avartem",
+    "candidates": [
+      "Torah Source Query",
+      "V'Ha'avartem",
+      "V'Natattem",
+      "Verse Selection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together address the foundational Torah-source question for matnat shechiv mera \u2014 Rav Zeira's derivation, Rav Nachman's alternative derivation, and the explanation of why each chose a different verse \u2014 which is precisely what heading 0 ('Torah Source Query') describes as the gemara's central inquiry, making it the best home for the entire passage.",
+      "chosen_heading": "Torah Source Query",
+      "current_heading": "V'Ha'avartem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Verse Selection",
+    "candidates": [
+      "V'Natattem",
+      "Verse Selection",
+      "Chizkiyahu Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why Rabbi Zeira did not derive the halakha from 'v'netatem' \u2014 because it is simply the normal manner of the verse \u2014 which is precisely what the 'Verse Selection' section's prose discusses as 'orcha dikra hu.'",
+      "chosen_heading": "Verse Selection",
+      "current_heading": "Verse Selection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Chizkiyahu Case",
+    "candidates": [
+      "Chizkiyahu Case",
+      "Achitofel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Menashya bar Yirmeya's derivation from the Hezekiah verse, which is exactly what the 'Chizkiyahu Case' prose describes.",
+      "chosen_heading": "Chizkiyahu Case",
+      "current_heading": "Chizkiyahu Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Achitofel Case",
+    "candidates": [
+      "Achitofel Case",
+      "Narrative Evidence",
+      "Three Commands",
+      "Weather Signs",
+      "Holy Day Signs",
+      "Wind & Crops"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Achitofel Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rami bar Yechezkel's proof from Ahithophel establishing matnat shechiv mera via verbal command, which is precisely what heading 0 ('Achitofel Case') discusses.",
+      "second_heading": "Three Commands",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the braita recording the three ethical commands Ahithophel gave his sons, which is exactly what heading 2 ('Three Commands') describes in its prose.",
+      "current_heading": "Achitofel Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Wind & Crops",
+    "candidates": [
+      "Narrative Evidence",
+      "Three Commands",
+      "Weather Signs",
+      "Holy Day Signs",
+      "Wind & Crops",
+      "Wind & Crops"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items describe Rav Yitzchak bar Avdimi's teaching about observing the altar smoke on Shemini Atzeret to forecast the year's rainfall \u2014 which is precisely what the 'Holy Day Signs' prose introduces, not the elaboration of wind directions that 'Wind & Crops' (index 4) discusses.",
+      "chosen_heading": "Holy Day Signs",
+      "current_heading": "Wind & Crops",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Wind & Crops",
+    "candidates": [
+      "Wind & Crops",
+      "Annual Forecast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita contradiction about east/west/north/south winds and crops, the mnemonic about the Table and Candelabrum, and the resolution 'ha lan v'ha lehu' \u2014 are precisely the content described in the 'Wind & Crops' prose.",
+      "chosen_heading": "Wind & Crops",
+      "current_heading": "Wind & Crops",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Annual Forecast",
+    "candidates": [
+      "Annual Forecast",
+      "High Priest Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 0's prose (Abba Shaul's baraita about Shavuot being clear, and Rav Zevid's statement about Rosh Hashana temperature), and ends with the question 'lemai nafka mina' which belongs to the next section's discussion.",
+      "chosen_heading": "Annual Forecast",
+      "current_heading": "Annual Forecast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "High Priest Practice",
+    "candidates": [
+      "High Priest Practice",
+      "Rava's Position",
+      "Rashbam Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the prayer of the High Priest (Kohen Gadol), which is precisely what the 'High Priest Practice' section's prose describes.",
+      "chosen_heading": "High Priest Practice",
+      "current_heading": "High Priest Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rashbam Explanations",
+    "candidates": [
+      "Rava's Position",
+      "Rashbam Explanations",
+      "Medical Autonomy",
+      "Challenge: Debt Transfer",
+      "Shtar Chov Mechanics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava citing Rav Nachman that matnat shechiv mera is purely rabbinic due to concern for tiruf hadaas, which is exactly what candidate 0 ('Rava's Position') describes in its prose, not the Rashbam's explanations where it currently sits.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rashbam Explanations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Shtar Chov Mechanics",
+    "candidates": [
+      "Medical Autonomy",
+      "Challenge: Debt Transfer",
+      "Shtar Chov Mechanics",
+      "Shechiv Mera Power",
+      "Yerusha Model",
+      "Rabbinic as Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to Rav Nachman's position by citing his own ruling about selling a promissory note, which is precisely what the 'Challenge: Debt Transfer' section's prose describes.",
+      "chosen_heading": "Challenge: Debt Transfer",
+      "current_heading": "Shtar Chov Mechanics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rabbinic as Biblical",
+    "candidates": [
+      "Shechiv Mera Power",
+      "Yerusha Model",
+      "Rabbinic as Biblical",
+      "Internal Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's resolution that although matnat shechiv mera is d'Rabbanan, the Rabbis made it with the force of Torah law \u2014 precisely the 'eima d'Rabbanan v'asu'uhu k'shel Torah' formulation discussed in the 'Rabbinic as Biblical' section's prose.",
+      "chosen_heading": "Rabbinic as Biblical",
+      "current_heading": "Rabbinic as Biblical",
+      "moved": false
+    }
+  }
+]

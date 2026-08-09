@@ -1,0 +1,373 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Renting to Samaritans",
+    "candidates": [
+      "Renting to Samaritans",
+      "Non-Jew vs. Samaritan",
+      "Two Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's back-and-forth distinguishing why renting to a gentile is permitted while renting to a Samaritan is not \u2014 exactly the content described in the 'Non-Jew vs. Samaritan' prose, which covers the aris principle, the pushback, and the final answer about the Samaritan's non-compliance.",
+      "chosen_heading": "Non-Jew vs. Samaritan",
+      "current_heading": "Renting to Samaritans",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Two Sources",
+    "candidates": [
+      "Non-Jew vs. Samaritan",
+      "Two Sources",
+      "Rambam Marit Ayin",
+      "Saffron Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about deriving the prohibition from 'lifnei iver' and the answer that both reasons are stated together, which is precisely what the 'Two Sources' section prose describes.",
+      "chosen_heading": "Two Sources",
+      "current_heading": "Two Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Saffron Field",
+    "candidates": [
+      "Rambam Marit Ayin",
+      "Saffron Field",
+      "Ravina's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the saffron growers case where a gentile worked on Shabbat and a Jew on Sunday, coming before Rava who permitted it \u2014 exactly what the 'Saffron Field' section prose describes.",
+      "chosen_heading": "Saffron Field",
+      "current_heading": "Saffron Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Ravina's Challenge",
+    "candidates": [
+      "Ravina's Challenge",
+      "Orlah Plants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Ravina's challenge to Rava from the baraita about a Jew and gentile partnering on a field, the embarrassment of Rava, and the subsequent revelation that the original stipulation was made from the outset \u2014 exactly what candidate 0 ('Ravina's Challenge') discusses in its prose.",
+      "chosen_heading": "Ravina's Challenge",
+      "current_heading": "Ravina's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Orlah Plants",
+    "candidates": [
+      "Orlah Plants",
+      "Cases Distinguished"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Geviha's account of the orla saplings arrangement and Rava's permission, which directly matches the prose under 'Orlah Plants' that summarizes exactly this incident.",
+      "chosen_heading": "Orlah Plants",
+      "current_heading": "Orlah Plants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Cases Distinguished",
+    "candidates": [
+      "Cases Distinguished",
+      "Tnai vs. Cheshbon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ravina's support for Rava's ruling and the 'lo hayu devarim me'olam' clarification, which is exactly what the 'Cases Distinguished' prose describes.",
+      "chosen_heading": "Cases Distinguished",
+      "current_heading": "Cases Distinguished",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Tnai vs. Cheshbon",
+    "candidates": [
+      "Tnai vs. Cheshbon",
+      "Three Prohibitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the unspecified (stama) case dilemma and the contradictory inferences from the baraita's two clauses, which is precisely what the 'Tnai vs. Cheshbon' prose describes.",
+      "chosen_heading": "Tnai vs. Cheshbon",
+      "current_heading": "Tnai vs. Cheshbon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Three Prohibitions",
+    "candidates": [
+      "Three Prohibitions",
+      "Rashi on Payment",
+      "Bestiality Preview",
+      "Purchase Animals"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Three Prohibitions",
+      "current_heading": "Three Prohibitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Purchase Animals",
+    "candidates": [
+      "Rashi on Payment",
+      "Bestiality Preview",
+      "Purchase Animals",
+      "Four Concerns",
+      "Non-Jew Cares",
+      "Female Barrenness",
+      "Male Deterioration"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Purchase Animals",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the formal contradiction raised from the baraita about purchasing animals for korban without concern, which is precisely what the 'Purchase Animals' prose describes as the Gemara's objection to the Mishnah.",
+      "second_heading": "Non-Jew Cares",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the contradiction by explaining muktzeh/ne'evad won't be sold and then introduces Rav Tachlifa's principle that a gentile spares his animal from barrenness, which exactly matches the 'Non-Jew Cares' prose discussion of that principle.",
+      "current_heading": "Purchase Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Male Deterioration",
+    "candidates": [
+      "Four Concerns",
+      "Non-Jew Cares",
+      "Female Barrenness",
+      "Male Deterioration",
+      "Shepherd's Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case of male animals and Rav Kahana's answer about physical deterioration, which is precisely what the 'Male Deterioration' section's prose describes.",
+      "chosen_heading": "Male Deterioration",
+      "current_heading": "Male Deterioration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Shepherd's Fear",
+    "candidates": [
+      "Shepherd's Fear",
+      "Non-Jews Know Each Other"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the shepherd's fear of financial loss (hefsed secharo) \u2014 item 1 establishes the principle that a shepherd is deterred by fear of losing wages, and item 2 raises the tension with the prohibition on entrusting one's animal to a gentile shepherd, which is exactly the dynamic described in heading 0's prose.",
+      "chosen_heading": "Shepherd's Fear",
+      "current_heading": "Shepherd's Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Non-Jews Know Each Other",
+    "candidates": [
+      "Non-Jews Know Each Other",
+      "No Male Dog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion about deterrence mechanisms \u2014 item 1 introduces the 'sinners know each other' principle and item 2 raises and resolves the male-animal/female-owner objection \u2014 both of which are explicitly discussed in the prose of candidate 0.",
+      "chosen_heading": "Non-Jews Know Each Other",
+      "current_heading": "Non-Jews Know Each Other",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "No Male Dog",
+    "candidates": [
+      "No Male Dog",
+      "Dog Arousal & Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial Talmudic question about why a widow may not raise a dog given that the dog's behavior would deter her, which directly matches heading 0's prose introducing Rav Yosef's teaching and the puzzle about the male dog prohibition \u2014 the resolution with the meat explanation belongs to heading 1, but this passage itself is the question/setup discussed under heading 0.",
+      "chosen_heading": "No Male Dog",
+      "current_heading": "No Male Dog",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Dog Arousal & Meat",
+    "candidates": [
+      "Dog Arousal & Meat",
+      "Female-Female Worst"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the dog's following behavior is not a deterrent (people attribute it to the meat), which is precisely what the 'Dog Arousal & Meat' section prose describes as the alternative explanation neutralizing the deterrent effect.",
+      "chosen_heading": "Dog Arousal & Meat",
+      "current_heading": "Dog Arousal & Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Female-Female Worst",
+    "candidates": [
+      "Female-Female Worst",
+      "Zohama Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks why female animals with female owners require seclusion restrictions and gives Mar Ukva bar \u1e24ama's answer about gentiles frequenting companions' wives \u2014 exactly what the 'Female-Female Worst' prose section describes.",
+      "chosen_heading": "Female-Female Worst",
+      "current_heading": "Female-Female Worst",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Zohama Doctrine",
+    "candidates": [
+      "Zohama Doctrine",
+      "Textual Proofs",
+      "Sinai as Cure",
+      "Poultry Concern",
+      "Goose Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the zohama doctrine via Rabbi Yochanan's teaching about the snake and Eve, which is precisely what the 'Zohama Doctrine' section's prose describes as its content.",
+      "chosen_heading": "Zohama Doctrine",
+      "current_heading": "Zohama Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Goose Incident",
+    "candidates": [
+      "Textual Proofs",
+      "Sinai as Cure",
+      "Poultry Concern",
+      "Goose Incident",
+      "Meat Incident",
+      "Lechatchila-Bedieved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with the dilemma about birds ('iba'it lehu ofot mai') and then brings both eyewitness accounts as proof \u2014 the entire unit belongs under the 'Poultry Concern' heading which introduces the question about fowl and notes these proofs are brought to establish the concern is real, rather than being split across 'Goose Incident' and 'Meat Incident'.",
+      "chosen_heading": "Poultry Concern",
+      "current_heading": "Goose Incident",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Lechatchila-Bedieved",
+    "candidates": [
+      "Meat Incident",
+      "Lechatchila-Bedieved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's lechatchila/bedieved resolution, which is precisely what the 'Lechatchila-Bedieved' section's prose discusses in detail.",
+      "chosen_heading": "Lechatchila-Bedieved",
+      "current_heading": "Lechatchila-Bedieved",
+      "moved": false
+    }
+  }
+]

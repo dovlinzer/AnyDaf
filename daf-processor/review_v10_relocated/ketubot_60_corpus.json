@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Divorce & Nursing",
+    "candidates": [
+      "Intro: Nursing & Vows",
+      "Vow Mechanics",
+      "Shammai vs Hillel",
+      "Divorce & Nursing",
+      "Blame & Payment",
+      "Sakana Override",
+      "Affirmed Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the nursing obligation, raises the Beit Shammai challenge, and cites the baraita about the vow not to nurse \u2014 precisely what the 'Intro: Nursing & Vows' prose describes as the opening of the Gemara's discussion.",
+      "chosen_heading": "Intro: Nursing & Vows",
+      "current_heading": "Divorce & Nursing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Affirmed Vow",
+    "candidates": [
+      "Blame & Payment",
+      "Sakana Override",
+      "Affirmed Vow",
+      "Recognition Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's analysis of the 'she vowed and he ratified' scenario (etzba bein shineha) and the subsequent rejection of that reinterpretation via the ketuva objection and the Baraita citing Beit Shammai explicitly \u2014 all of which is precisely what the 'Affirmed Vow' section's prose describes in detail.",
+      "chosen_heading": "Affirmed Vow",
+      "current_heading": "Affirmed Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Recognition Age",
+    "candidates": [
+      "Recognition Age",
+      "Age Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita's condition 'if he recognized her' \u2014 the setup for asking what recognition age means \u2014 which is exactly what the 'Recognition Age' section's prose describes as its starting premise before the Gemara's question about from what age recognition applies.",
+      "chosen_heading": "Recognition Age",
+      "current_heading": "Recognition Age",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Age Dispute",
+    "candidates": [
+      "Age Dispute",
+      "Case-by-Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three Amoraic opinions on age of recognition (three months, thirty days, fifty days), the ruling in favor of Rabbi Yochanan's fifty days, and the Gemara's question about Shmuel's position \u2014 all of which are precisely what the 'Age Dispute' prose section describes.",
+      "chosen_heading": "Age Dispute",
+      "current_heading": "Age Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Case-by-Case",
+    "candidates": [
+      "Case-by-Case",
+      "Lineup Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rami bar Ye\u1e25ezkel's correction that Shmuel's rule is 'kol zman shemakkira' (case by case), which is exactly what the 'Case-by-Case' heading's prose discusses.",
+      "chosen_heading": "Case-by-Case",
+      "current_heading": "Case-by-Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Lineup Test",
+    "candidates": [
+      "Lineup Test",
+      "Blind Child",
+      "24 Month Limit",
+      "4-5 Years Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the lineup test story before Shmuel, which is exactly what heading 0 'Lineup Test' discusses in its prose.",
+      "chosen_heading": "Lineup Test",
+      "current_heading": "Lineup Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "4-5 Years Option",
+    "candidates": [
+      "Blind Child",
+      "24 Month Limit",
+      "4-5 Years Option",
+      "Act vs Product",
+      "Kashrut Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita text covers both Rabbi Eliezer's 24-month limit and Rabbi Yehoshua's 4-5 year opinion plus the cessation rule, and candidate 1 ('24 Month Limit') is where the essay begins discussing this baraita, making it the natural home for the full quoted passage rather than the mid-discussion '4-5 Years Option' heading where it currently sits.",
+      "chosen_heading": "24 Month Limit",
+      "current_heading": "4-5 Years Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Kashrut Proof",
+    "candidates": [
+      "Act vs Product",
+      "Kashrut Proof",
+      "Blood Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the kal va-chomer argument that human milk might be non-kosher and the Torah's rebuttal via 'hu tamei' (the camel verse), followed by the parallel derivation excluding human blood \u2014 precisely the content described in the 'Kashrut Proof' section prose.",
+      "chosen_heading": "Kashrut Proof",
+      "current_heading": "Kashrut Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Blood Analogy",
+    "candidates": [
+      "Blood Analogy",
+      "Halakha Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Sheshet's ruling about no prohibition on human milk, the parish/lo parish distinction, and the blood analogy \u2014 are explicitly discussed in the 'Blood Analogy' prose, which covers exactly this sequence of Gemara.",
+      "chosen_heading": "Blood Analogy",
+      "current_heading": "Blood Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Halakha Ruling",
+    "candidates": [
+      "Halakha Ruling",
+      "Sick Suckling",
+      "Shinui Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yehoshua's ruling on nursing duration and Rav Yosef's halakhic ruling in accordance with Rabbi Yehoshua, which directly matches the 'Halakha Ruling' section's prose about Rav Yosef ruling halacha ke-Rabbi Yehoshua permitting nursing up to four to five years.",
+      "chosen_heading": "Halakha Ruling",
+      "current_heading": "Halakha Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Shinui Leniency",
+    "candidates": [
+      "Sick Suckling",
+      "Shinui Leniency",
+      "Mother Expressing",
+      "Drain Pipe Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (Rabbi Marinos's ruling and Rav Yosef's confirmation), which is the source text for the 'Sick Suckling' heading, while 'Shinui Leniency' is the prose analysis/explanation of why that ruling is permitted.",
+      "chosen_heading": "Sick Suckling",
+      "current_heading": "Shinui Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Drain Pipe Case",
+    "candidates": [
+      "Mother Expressing",
+      "Drain Pipe Case",
+      "Forbidden Betrothal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Nachum Ish Galia drain pipe ruling, which is precisely what the 'Drain Pipe Case' prose discusses.",
+      "chosen_heading": "Drain Pipe Case",
+      "current_heading": "Drain Pipe Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Forbidden Betrothal",
+    "candidates": [
+      "Forbidden Betrothal",
+      "Milk Supply Concern",
+      "Duration Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses how long cessation of nursing must last before the child is considered weaned, which directly relates to the Duration Dispute section's discussion of when nursing restrictions end and the debate between Rabbi Meir (24 months) and Rabbi Yehuda (18 months).",
+      "chosen_heading": "Duration Dispute",
+      "current_heading": "Forbidden Betrothal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Duration Dispute",
+    "candidates": [
+      "Milk Supply Concern",
+      "Duration Dispute",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about the nursing widow's prohibition on betrothal/marriage and the dispute between Rabbi Meir (24 months) and Rabbi Yehuda (18 months) identified with Beit Shammai and Beit Hillel, which is precisely what the 'Duration Dispute' prose discusses.",
+      "chosen_heading": "Duration Dispute",
+      "current_heading": "Duration Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Reconciliation",
+      "Amoraim Rulings",
+      "Sharecropper Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabban Shimon ben Gamliel's reframing of both positions (twenty-four months \u2192 twenty-one, eighteen months \u2192 fifteen), which is precisely what the 'Reconciliation' prose describes.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Sharecropper Case",
+    "candidates": [
+      "Amoraim Rulings",
+      "Sharecropper Case",
+      "Rebbe Authority",
+      "Exceptions Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's ruling to his sharecropper, Rav Yosef's correction and Abaye's chase, and Abaye's lesson about ruling in one's teacher's presence \u2014 form one continuous narrative that is precisely described by the 'Sharecropper Case' prose.",
+      "chosen_heading": "Sharecropper Case",
+      "current_heading": "Sharecropper Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Exceptions Listed",
+    "candidates": [
+      "Rebbe Authority",
+      "Exceptions Listed",
+      "Attempted Ruling",
+      "Resh Galuta Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Baraita listing the three exceptions (natna bnah le-menekes, o gemalto, o met) AND the episode of Rav Pappa and Rav Huna wishing to rule accordingly plus the elderly woman's correction, but since candidate 1 ('Exceptions Listed') already anticipates the Baraita content and candidate 2 ('Attempted Ruling') covers the Rav Pappa/elderly woman episode, the passage as a whole \u2014 being a single quoted unit \u2014 best fits under 'Exceptions Listed' (index 1) where it currently sits, as that heading introduces the Baraita which opens this passage.",
+      "chosen_heading": "Exceptions Listed",
+      "current_heading": "Exceptions Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Resh Galuta Exception",
+    "candidates": [
+      "Attempted Ruling",
+      "Resh Galuta Exception",
+      "Paternity Analogy",
+      "3-Month Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Nachman's permission for the Exilarch's household and the reason they are different (lo hadru behu), which exactly matches the 'Resh Galuta Exception' section's prose.",
+      "chosen_heading": "Resh Galuta Exception",
+      "current_heading": "Resh Galuta Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "3-Month Cases",
+    "candidates": [
+      "Paternity Analogy",
+      "3-Month Cases",
+      "3-Month Halakha",
+      "Consistent 24-Month"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappi's challenge citing the baraita \u2014 it is the act of raising the challenge itself, which belongs under 'Paternity Analogy' where the prose explicitly describes Rav Pappi raising a further challenge and introducing the three-month waiting period discussion, not under '3-Month Cases' which describes the baraita's content in isolation.",
+      "chosen_heading": "Paternity Analogy",
+      "current_heading": "3-Month Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Consistent 24-Month",
+    "candidates": [
+      "3-Month Halakha",
+      "Consistent 24-Month",
+      "Infanticide Fear",
+      "Rejection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "3-Month Halakha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yosei's permissive ruling and the ruling that halakha follows Rabbi Meir in his decrees, which is precisely what heading 0 ('3-Month Halakha') describes \u2014 the lo plug categorical approach and halacha ke-Rabbi Meir bi-gzeirosuav.",
+      "second_heading": "Consistent 24-Month",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the halakhic conclusion about met vs. gemaltathu, Mar bar Rav Ashi's infanticide concern, and its rejection, which maps exactly onto headings 1 ('Consistent 24-Month') through 3 ('Rejection') \u2014 but since item 2 contains all three of those discussions together, it best fits the current placement at heading 1 where the met/gemaltathu ruling first appears.",
+      "current_heading": "Consistent 24-Month",
+      "moved": true
+    }
+  }
+]

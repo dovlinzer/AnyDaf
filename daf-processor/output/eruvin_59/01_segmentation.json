@@ -58,7 +58,7 @@
           "timestamp": "10:14"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -164,8 +164,8 @@
           "timestamp": "46:10"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Historical Status and Practical Reality: When a Garbage Dump Determines Eruv Validity",
@@ -508,5 +508,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "25:24",
+  "amud_b_micro_title": "Rabbi Yehuda Lechi",
+  "shiur_start_daf": 58,
+  "shiur_start_amud": "b"
 }

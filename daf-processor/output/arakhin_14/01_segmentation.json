@@ -48,7 +48,7 @@
           "timestamp": "13:40"
         }
       ],
-      "sefaria_index": 40,
+      "sefaria_index": 39,
       "matched": true
     },
     {
@@ -81,7 +81,7 @@
           "timestamp": "28:30"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -105,7 +105,7 @@
           "timestamp": "43:26"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -177,7 +177,7 @@
           "timestamp": "68:54"
         }
       ],
-      "sefaria_index": 38,
+      "sefaria_index": 37,
       "matched": true
     },
     {
@@ -555,5 +555,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "43:26",
+  "amud_b_micro_title": "Inherited Land Status",
+  "shiur_start_daf": 13,
+  "shiur_start_amud": "b"
 }

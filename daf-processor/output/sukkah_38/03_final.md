@@ -1,13 +1,9 @@
-# Sukkah 38 — Daf Yomi Shiur
 [DAF:38a]
-
 ## Waving (Tenufah)
 
-### Intro & Menachot
 
-> **Hebrew/Aramaic:** תְּנַן הָתַם: שְׁתֵּי הַלֶּחֶם וּשְׁנֵי כִּבְשֵׂי עֲצֶרֶת כֵּיצַד הוּא עוֹשֶׂה? מַנִּיחַ שְׁתֵּי הַלֶּחֶם עַל גַּבֵּי שְׁנֵי הַכְּבָשִׂין, וּמַנִּיחַ יָדוֹ תַּחְתֵּיהֶן, וּמֵנִיף וּמוֹלִיךְ וּמֵבִיא, מַעֲלֶה וּמוֹרִיד. שֶׁנֶּאֱמַר: ״אֲשֶׁר הוּנַף וַאֲשֶׁר הוּרָם״.
->
-> **Translation:** **We learned** in a mishna **there** (*Menaḥot* 61a): With regard to **the two loaves and the two lambs** offered on the festival of ***Shavuot*, how does he perform** their waving before the altar? **He places the two loaves atop the two lambs, and places his hand beneath them, and waves to and fro** to each side, **and he raises and lowers** them, **as it is stated: "Which is waved and which is lifted"** (Exodus 29:27), indicating that there is waving to the sides as well as raising and lowering.
+
+### Intro & Menachot
 
 Today's daf is 38, and we pick up at the bottom of 37b, approximately ten lines from the bottom — three lines after the *gemara* begins following the *mishnah*. The *gemara* opens with *tnan hatam*, "we taught over there in Menachot," because the *mishnah* had mentioned the waving of the *lulav* and discussed waving it at different points during *hallel*: at *hodu lashem* at the beginning and end, and at *ana Hashem hoshia na* — and according to Beit Shammai, at *ana Hashem hatzlicha na* as well.
 
@@ -15,9 +11,8 @@ Tosafot had already brought a beautiful explanation linking this to *psukim* in 
 
 ### Shtei Halechem
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: מוֹלִיךְ וּמֵבִיא לְמִי שֶׁהָאַרְבַּע רוּחוֹת שֶׁלּוֹ, מַעֲלֶה וּמוֹרִיד לְמִי שֶׁהַשָּׁמַיִם וְהָאָרֶץ שֶׁלּוֹ. בְּמַעְרְבָא מַתְנוּ הָכִי: אָמַר רַבִּי חָמָא בַּר עוּקְבָא אָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: מוֹלִיךְ וּמֵבִיא כְּדֵי לַעֲצוֹר רוּחוֹת רָעוֹת, מַעֲלֶה וּמוֹרִיד כְּדֵי לַעֲצוֹר טְלָלִים רָעִים. אָמַר רַבִּי יוֹסֵי בַּר אָבִין וְאִיתֵּימָא רַבִּי יוֹסֵי בַּר זְבִידָא: זֹאת אוֹמֶרֶת
->
-> **Translation:** **Rabbi Yoḥanan said: He moves** them **to and fro** to dedicate them **to He Whom the four directions are His. He raises and lowers** them **to He Whom the heavens and earth are His. In the West,** Eretz Yisrael, **they taught** it **as follows. Rabbi Ḥama bar Ukva said** that **Rabbi Yosei, son of Rabbi Ḥanina, said: He moves** them **to and fro in order to** request **a halt** to **harmful winds,** storms and tempests that come from all directions; **he raises and lowers** them **in order to halt harmful dews** and rains that come from above. **Rabbi Yosei bar Avin said, and some say** that it was **Rabbi Yosei bar Zevila** who said: **That is to say,**
+> **Hebrew/Aramaic:** תְּנַן הָתָם: שְׁתֵּי הַלֶּחֶם וּשְׁנֵי כִּבְשֵׂי עֲצֶרֶת כֵּיצַד הוּא עוֹשֶׂה? מַנִּיחַ שְׁתֵּי הַלֶּחֶם עַל גַּבֵּי שְׁנֵי הַכְּבָשִׂין, וּמַנִּיחַ יָדוֹ תַּחְתֵּיהֶן, וּמֵנִיף וּמוֹלִיךְ וּמֵבִיא, מַעֲלֶה וּמוֹרִיד. שֶׁנֶּאֱמַר: ״אֲשֶׁר הוּנַף וַאֲשֶׁר הוּרָם״.
+> **Translation:** **We learned** in a mishna **there** (*Menaḥot* 61a): With regard to **the two loaves and the two lambs** offered on the festival of ***Shavuot*, how does he perform** their waving before the altar? **He places the two loaves atop the two lambs, and places his hand beneath them, and waves to and fro** to each side, **and he raises and lowers** them, **as it is stated: “Which is waved and which is lifted”** (Exodus 29:27), indicating that there is waving to the sides as well as raising and lowering.
 
 Now the *gemara* connects this idea of waving to another context entirely. The *mishnah* in Menachot teaches: *shtei halechem ushnei kivsei atzeret* — on *shavuot*, one brings the two loaves of bread from the newly cut wheat together with the two lambs. What is the procedure for waving them? *Maniach shtei halechem al gabei shenei hakvasim* — you place the loaves on top of the lambs — *umaniach yadav tachtehen* — and place your hands beneath them — *umanif umolich umavi ma'aleh umorid* — and you wave, bringing forward and back, up and down.
 
@@ -27,23 +22,23 @@ The verse cited is *asher hunaf va'asher huram* — "that which was waved and th
 
 What does this waving signify? *Amar Rabbi Yochanan*: *molich umavi lemi she'arba ruchot shelo* — the bringing forward and back is directed toward the One to whom the four winds belong, that is, toward God. The *mishnah* in Menachot had said *umanif umolich umavi* — wave, bring forward and back — suggesting that *manif* might refer to side-to-side motion while *molich umavi* refers to front and back, together encompassing all four directions. And then *ma'aleh umorid* — up and down — *lemi sheshamayim va'aretz shelo*, to the One to whom heaven and earth belong.
 
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: מוֹלִיךְ וּמֵבִיא לְמִי שֶׁהָאַרְבַּע רוּחוֹת שֶׁלּוֹ, מַעֲלֶה וּמוֹרִיד לְמִי שֶׁהַשָּׁמַיִם וְהָאָרֶץ שֶׁלּוֹ. בְּמַעְרְבָא מַתְנוּ הָכִי: אָמַר רַבִּי חָמָא בַּר עוּקְבָא אָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: מוֹלִיךְ וּמֵבִיא כְּדֵי לַעֲצוֹר רוּחוֹת רָעוֹת, מַעֲלֶה וּמוֹרִיד כְּדֵי לַעֲצוֹר טְלָלִים רָעִים. אָמַר רַבִּי יוֹסֵי בַּר אָבִין וְאִיתֵּימָא רַבִּי יוֹסֵי בַּר זְבִידָא: זֹאת אוֹמֶרֶת
+> **Translation:** **Rabbi Yoḥanan said: He moves** them **to and fro** to dedicate them **to He Whom the four directions are His. He raises and lowers** them **to He Whom the heavens and earth are His. In the West,** Eretz Yisrael, **they taught** it **as follows. Rabbi Ḥama bar Ukva said** that **Rabbi Yosei, son of Rabbi Ḥanina, said: He moves** them **to and fro in order to** request **a halt** to **harmful winds,** storms and tempests that come from all directions; **he raises and lowers** them **in order to halt harmful dews** and rains that come from above. **Rabbi Yosei bar Avin said, and some say** that it was **Rabbi Yosei bar Zevila** who said: **That is to say,**
+
 ### Ward Off Bad
+
+
 
 In *eretz Yisrael* they taught this differently. *Amar Rabbi Chama bar Ukva amar Rabbi Yose bar Rabbi Chanina*: *molich umavi kedei la'atzor ruchot ra'ot* — you bring forward and back in order to hold back the bad winds — *ma'aleh umorid kedei la'atzor tlalim ra'im* — and up and down in order to hold back bad rains. It is notable that the purpose is framed negatively: not to draw down good, but to ward off the bad.
 
 ### Shirei Mitzvah
 
-> **Hebrew/Aramaic:** שְׁיָרֵי מִצְוָה מְעַכְּבִין אֶת הַפּוּרְעָנוּת. שֶׁהֲרֵי תְּנוּפָה שְׁיָרֵי מִצְוָה הִיא — וְעוֹצֶרֶת רוּחוֹת וּטְלָלִים רָעִים.
->
-> **Translation:** **non-essential aspects of a mitzva avert calamity, as waving is a non-essential aspect of the mitzva,** since even if one failed to wave the loaves he fulfilled his obligation, **and** nevertheless **it halts harmful winds and dews.**
+> **Hebrew/Aramaic:** שְׁיָרֵי מִצְוָה מְעַכְּבִין אֶת הַפּוּרְעָנוּת. שֶׁהֲרֵי תְּנוּפָה שְׁיָרֵי מִצְוָה הִיא — וְעוֹצֶרֶת רוּחוֹת וּטְלָלִים רָעִים. וְאָמַר רָבָא: וְכֵן בְּלוּלָב. רַב אַחָא בַּר יַעֲקֹב מַמְטֵי לֵיהּ וּמַיְיתֵי לֵיהּ, אֲמַר: דֵּין גִּירָא בְּעֵינֵיהּ דְּסִטְנָא. וְלָאו מִלְּתָא הִיא, מִשּׁוּם דְּאָתֵי לְאִיגָּרוֹיֵי בֵּיהּ.
+> **Translation:** **non-essential aspects of a mitzva avert calamity, as waving is a non-essential aspect of the mitzva,** since even if one failed to wave the loaves he fulfilled his obligation, **and** nevertheless **it halts harmful winds and dews. And Rava said: And likewise** one should conduct himself the same way **with a *lulav*,** i.e., one should wave it to and fro and raise and lower it for the same reasons. When **Rav Aḥa bar Ya’akov** would **move** the *lulav* **to and fro, he would say: This is an arrow in the eye of Satan,** as despite his best efforts, the Jewish people continue to joyously fulfill mitzvot. The Gemara notes: **That is not** a proper **manner** of conduct, **as** it will induce Satan to **come to incite him** to sin. Gloating due to his victory over the evil inclination will lead Satan to redouble his efforts to corrupt him.
 
 *Amar Rabbi Yose bar Avin ve'itayma Rabbi Yose bar Zavda*: *zot omeret* — this teaches us — *shiyarei mitzvah me'akvin et hapuranut*, that even the remnants of a *mitzvah* hold back calamity. Why characterize the *tnufah* as a *shirei mitzvah*, a remnant? Because if one failed to perform the waving, the *korban* remains valid — the waving is important but not indispensable. And yet: *sheharei tnufah shirei mitzvah hi ve'otzeret ruchot utlalim ra'im* — the waving, though not strictly necessary, still holds back bad winds and bad rains.
 
 ### Satan's Eyes
-
-> **Hebrew/Aramaic:** וְאָמַר רָבָא: וְכֵן בְּלוּלָב. רַב אַחָא בַּר יַעֲקֹב מַמְטֵי לֵיהּ וּמַיְיתֵי לֵיהּ, אֲמַר: דֵּין גִּירָא בְּעֵינֵיהּ דְּסִטְנָא. וְלָאו מִלְּתָא הִיא, מִשּׁוּם דְּאָתֵי לְאִיגָּרוֹיֵי בֵּיהּ.
->
-> **Translation:** **And Rava said: And likewise** one should conduct himself the same way **with a *lulav*,** i.e., one should wave it to and fro and raise and lower it for the same reasons. When **Rav Aḥa bar Ya'akov** would **move** the *lulav* **to and fro, he would say: This is an arrow in the eye of Satan,** as despite his best efforts, the Jewish people continue to joyously fulfill mitzvot. The Gemara notes: **That is not** a proper **manner** of conduct, **as** it will induce Satan to **come to incite him** to sin. Gloating due to his victory over the evil inclination will lead Satan to redouble his efforts to corrupt him.
 
 *Ve'amar Rava*: *vechein balulav* — and the same applies to the *lulav*. According to Rashi, the direct application is practical: *molich umavi ma'aleh umorid* — this is how the waving is to be performed, to all four directions and then up and down. *Rav Acha bar Yaakov manfi lei umaytei lei* — Rav Acha bar Yaakov would bring it out and bring it in, implementing *molich umavi* in a quite forceful way. Indeed, those who performed it that way would say *dein gira be'einei desitna* — this is like a spear in the eyes of the *satan*. But the *gemara* pushes back: *velav nichuta hi, mishum de'ati le'agruyei beih* — that is not ideal conduct, because you risk provoking the *satan* and drawing his attention rather than warding him off.
 
@@ -63,6 +58,8 @@ Tosafot raises a further question: in *perek kol hamenachot ba'ot matzah* there 
 
 The reason is then drawn from a teaching in the first chapter of Rosh Hashanah: *gezar din nechtam bePesach al hatvu'ah uve'atzeret al peirot ha'ilan uvachag al hamayim* — the judgment is sealed at Pesach regarding grain, at *shavuot* regarding fruit of the trees, and on *sukkot* regarding water, that is, rain. Tosafot therefore says: *ulachen anu menan'im balulav sheyesh bo holachah vahava'ah* — we wave the *lulav* as a type of *tefillah* for rain. The specific application of the *shtei halechem* waving to *sukkot* is thus rooted in the parallel *gezar din*: just as the waving at *shavuot* is oriented toward that season's agricultural judgment, so too the waving at *sukkot* is a prayer for the water upon which the coming year depends.
 
+What makes this comparison more than a merely technical point is the substantive symmetry between the two occasions. At *shavuot* one takes the product of the new wheat harvest and waves it; at *sukkot* one takes the lush species of the field — things that themselves grow by virtue of rain — and waves those. The lush vitality of the *arba minim* is not incidental to the gesture; it gives the waving its expressive force as a petition for continued rain and agricultural abundance. In this way the comparison to the *korbanos* world is not simply formal but carries genuine symbolic weight, and the *lulav* waving emerges as a petition oriented toward the season's specific judgment — a point whose broader implications for how we understand the two competing rationales for the waving will surface in what follows.
+
 ### Divine vs. Petition
 
 Two distinct symbolic orientations for the *lulav* thus emerge from this discussion. The first, expressed by Rabbi Yochanan, frames the waving as directed toward God — an act of religious expression. The second approach, reflected in the *eretz Yisrael* teaching and Tosafot's application, frames it as a petition: the *lulav* becomes a vehicle for prayer for beneficial agricultural conditions.
@@ -79,11 +76,15 @@ Tosafot also raises a practical question about how exactly to count the wavings,
 
 ## Outside Proper Time
 
+
+
 ### Journey Scenario
 
-> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁבָּא בַּדֶּרֶךְ וְלֹא הָיָה בְּיָדוֹ לוּלָב לִיטּוֹל — לִכְשֶׁיִּכָּנֵס לְבֵיתוֹ, יִטּוֹל עַל שֻׁלְחָנוֹ. לֹא נָטַל שַׁחֲרִית — יִטּוֹל בֵּין הָעַרְבַּיִם, שֶׁכׇּל הַיּוֹם כָּשֵׁר לְלוּלָב.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁבָּא בַּדֶּרֶךְ וְלֹא הָיָה בְּיָדוֹ לוּלָב לִיטּוֹל — לִכְשֶׁיִּכָּנֵס לְבֵיתוֹ, יִטּוֹל עַל שֻׁלְחָנוֹ. לֹא נָטַל שַׁחֲרִית — יִטּוֹל בֵּין הָעַרְבַּיִם, שֶׁכׇּל הַיּוֹם כָּשֵׁר לְלוּלָב.
 > **Translation:** MISHNA: With regard to **one who was coming** along **the way and did not have a *lulav* in his hand to take** and fulfill the mitzva while traveling, **when he enters his house** to eat, **he** should **take** the *lulav* **at his table.** He interrupts his meal to fulfill the mitzva of *lulav*. **If he did not take** the *lulav* in the **morning, he** should **take it in the afternoon, as the entire day is suited for** fulfilling the mitzva of ***lulav*.**
+
+> **Hebrew/Aramaic:** גְּמָ׳ אָמְרַתְּ, נוֹטְלוֹ עַל שֻׁלְחָנוֹ; לְמֵימְרָא דְּמַפְסֵיק? וּרְמִינְהִי: אִם הִתְחִילוּ — אֵין מַפְסִיקִין! אָמַר רַב סָפְרָא: לָא קַשְׁיָא, הָא — דְּאִיכָּא שְׁהוּת בַּיּוֹם, הָא — דְּלֵיכָּא שְׁהוּת בַּיּוֹם.
+> **Translation:** GEMARA: The Gemara analyzes the mishna. On one hand, **you said** that if he did not take the *lulav* before the meal then **he takes it at his table. That is to say that** if remembers that he did not yet take the *lulav*, **he interrupts** his meal, takes the *lulav*, and then continues his meal. **And** the Gemara **raises a contradiction** from a mishna (*Shabbat* 9b): One may not begin to eat before he recites the afternoon prayer; however, **if they started** a meal, **they need not interrupt** the meal in order to pray. **Rav Safra said:** This is **not difficult,** as **that** mishna, where one need not interrupt his meal, is referring to a case **where there is opportunity** to pray later **in the day; this** mishna, where one must interrupt his meal, is referring to a case **where there is no opportunity** to take the *lulav* later **in the day.** In that case, one must fulfill the mitzva immediately.
 
 We now turn to the next *mishnah*, which raises a fascinating issue implicit in everything discussed thus far — namely, what happens when a person takes the *lulav* outside the primary context of *hallel* in the *beit knesset*. The *mishnah* states: *mi sheba baderech velo hayah beyado lulav* — someone who has returned from a journey without a *lulav* in hand. *L'kshe'yikanes leveito yitol al shulchano* — when he enters his house, he takes it at the table.
 
@@ -99,33 +100,30 @@ The internal tension within the *mishnah* itself also demands attention. The fir
 
 ### Rav Safra
 
-> **Hebrew/Aramaic:** אָמַר רַב סָפְרָא: לָא קַשְׁיָא, הָא — דְּאִיכָּא שְׁהוּת בַּיּוֹם, הָא — דְּלֵיכָּא שְׁהוּת בַּיּוֹם.
->
-> **Translation:** **Rav Safra said:** This is **not difficult. This** clause, where one need not interrupt his meal, is referring to a case **where there is opportunity** to take the *lulav* later **in the day; that** clause, where one must interrupt his meal, is referring to a case **where there is no opportunity** to take the *lulav* later **in the day.**
-
 *Amar Rav Safra lo kashya*: there is no difficulty. *Ha d'ika sha'os bayom ha d'leika sha'os bayom* — the cases differ depending on whether time remains in the day. When the *mishnah* says to interrupt, it refers to a case where one is eating in the afternoon and night will arrive before he finishes. When it says to take it later in the afternoon, it refers to a case where the morning meal could be completed with time still remaining.
 
 ### Rava's View
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: מַאי קוּשְׁיָא? דִּילְמָא הָא דְּאוֹרָיְיתָא, הָא דְּרַבָּנַן. אֶלָּא אָמַר רָבָא: אִי קַשְׁיָא — הָא קַשְׁיָא: לִכְשֶׁיִּכָּנֵס לְבֵיתוֹ — נוֹטְלוֹ עַל שֻׁלְחָנוֹ, אַלְמָא דְּמַפְסֵיק, וַהֲדַר תָּנֵי: לֹא נָטַל שַׁחֲרִית — יִטּוֹל בֵּין הָעַרְבַּיִם. אַלְמָא לָא מַפְסֵיק!
->
+> **Hebrew/Aramaic:** אָמַר רָבָא: מַאי קוּשְׁיָא? דִּילְמָא הָא דְּאוֹרָיְיתָא, הָא דְּרַבָּנַן. אֶלָּא אָמַר רָבָא: אִי קַשְׁיָא — הָא קַשְׁיָא: לִכְשֶׁיִּכָּנֵס לְבֵיתוֹ — נוֹטְלוֹ עַל שֻׁלְחָנוֹ, אַלְמָא דְּמַפְסֵיק, וַהֲדַר תָּנֵי: לֹא נָטַל שַׁחֲרִית — יִטּוֹל בֵּין הָעַרְבַּיִם. אַלְמָא לָא מַפְסֵיק!
 > **Translation:** **Rava said: What is the difficulty?** The two cases are different, and there is no contradiction at all. **Perhaps this** mitzva of *lulav* **is** a mitzva **by Torah law,** and therefore one must interrupt his meal to take the *lulav*, while **that** mitzva to recite the afternoon prayer **is** a mitzva **by rabbinic law,** and therefore one need not interrupt his meal to pray. **Rather, Rava said: If** there is **a difficulty,** i.e., a contradiction, this is the **difficulty:** In the first clause in the mishna it says that **when he enters his house** to eat, **he** should **take** the *lulav* **at his table. Apparently, one** must **interrupt** his meal. **And then** in the latter clause of the mishna it **is taught: If he did not take** the *lulav* in the **morning, he** should **take it in the afternoon. Apparently, he** need **not interrupt** his meal.
+
+> **Hebrew/Aramaic:** אָמַר רַב סָפְרָא: לָא קַשְׁיָא, הָא — דְּאִיכָּא שְׁהוּת בַּיּוֹם, הָא — דְּלֵיכָּא שְׁהוּת בַּיּוֹם.
+> **Translation:** Resolving the contradiction, **Rav Safra said:** This is **not difficult. This** clause, where one need not interrupt his meal, is referring to a case **where there is opportunity** to take the *lulav* later **in the day; that** clause, where one must interrupt his meal, is referring to a case **where there is no opportunity** to take the *lulav* later **in the day.**
 
 *Amar Rava*: I do not understand what bothered you at all. *D'omar ha d'Oraisa ha d'Rabbanan* — the *Mincha* case poses no difficulty because *davening Mincha* is *derabbanan*. While there may be a *d'Oraisa* obligation to pray once a day, the specific institution of *Shacharis*, *Mincha*, and *Maariv* is rabbinic. One does not interrupt an ongoing activity to perform a rabbinic *mitzvah*. Taking the *lulav*, by contrast, is a biblical *mitzvah*, so the question never arose. *Ella amar Rava, i kushya ha kushya* — if there is a genuine internal tension in the *mishnah*, Rava reformulates it precisely: the first clause implies one interrupts, and the second clause — the one about taking it in the afternoon because one did not take it in the morning — implies one does not interrupt. That is the actual internal contradiction Rav Safra was resolving.
 
 ### Rebbe Zeira
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: מַאי קוּשְׁיָא? דִּלְמָא: מִצְוָה לְאַפְסוֹקֵי, וְאִי לָא פְּסַיק — יִטּוֹל בֵּין הָעַרְבַּיִם, שֶׁכׇּל הַיּוֹם כָּשֵׁר לְלוּלָב. אֶלָּא אָמַר רַבִּי זֵירָא: לְעוֹלָם כִּדְאָמְרִינַן מֵעִיקָּרָא, וּדְקַשְׁיָא לָךְ הָא דְּאוֹרָיְיתָא הָא דְּרַבָּנַן — הָכָא בְּיוֹם טוֹב שֵׁנִי דְּרַבָּנַן עָסְקִינַן.
->
-> **Translation:** **Rabbi Zeira said: What is the difficulty?** There is no contradiction, as **perhaps** the mishna is teaching that there is **a mitzva to interrupt** one's meal and take the *lulav*; **but if he did not interrupt** his meal **he** should **take it in the afternoon, as the entire day is suited for** fulfilling the mitzva of ***lulav*. Rather, Rabbi Zeira said: Actually,** the contradiction is **as we said initially,** between the ruling with regard to *lulav* and the ruling with regard to the afternoon prayer. **And** as to **that which you found difficult,** i.e., there is no contradiction at all, as **this** mitzva of *lulav* **is** a mitzva **by Torah law** and **that** mitzva to recite the afternoon prayer **is** a mitzva **by rabbinic law,** that is not difficult; as **here,** in the case of *lulav*, **we are dealing with the second day of the Festival** and beyond, during the intermediate days, when the mitzva of *lulav* is **by rabbinic law.** The contradiction is therefore between the rulings pertaining to two mitzvot by rabbinic law.
-
 *Amar Rebbe Zeira*: even that formulation is not a problem. *D'omar mitzvah l'afsoukay* — the plain reading of the *mishnah* is simply that you should interrupt your meal. *V'ilo pasak, yitol bein ha'arbayim* — but if you did not interrupt, you can still take it in the afternoon. The *mishnah* states the ideal but does not specify consequences for failure; the fact that someone might not have interrupted their morning meal does not mean the *mishnah* permitted that. And the *Mincha* case remains distinguished by the *d'Oraisa/d'Rabbanan* distinction — no additional resolution is required.
 
 ### Chol Hamoed
 
-> **Hebrew/Aramaic:** דַּיְקָא נָמֵי, מִדְּקָתָנֵי: מִי שֶׁבָּא בַּדֶּרֶךְ וְאֵין בְּיָדוֹ לוּלָב. דְּאִי סָלְקָא דַעְתָּךְ בְּיוֹם טוֹב רִאשׁוֹן — מִי שְׁרֵי?!
->
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: מַאי קוּשְׁיָא? דִּלְמָא: מִצְוָה לְאַפְסוֹקֵי, וְאִי לָא פְּסַיק — יִטּוֹל בֵּין הָעַרְבַּיִם, שֶׁכׇּל הַיּוֹם כָּשֵׁר לְלוּלָב. אֶלָּא אָמַר רַבִּי זֵירָא: לְעוֹלָם כִּדְאָמְרִינַן מֵעִיקָּרָא, וּדְקַשְׁיָא לָךְ הָא דְּאוֹרָיְיתָא הָא דְּרַבָּנַן — הָכָא בְּיוֹם טוֹב שֵׁנִי דְּרַבָּנַן עָסְקִינַן.
+> **Translation:** **Rabbi Zeira said: What is the difficulty?** There is no contradiction, as **perhaps** the mishna is teaching that there is **a mitzva to interrupt** one’s meal and take the *lulav*; **but if he did not interrupt** his meal **he** should **take it in the afternoon, as the entire day is suited for** fulfilling the mitzva of ***lulav*. Rather, Rabbi Zeira said: Actually,** the contradiction is **as we said initially,** between the ruling with regard to *lulav* and the ruling with regard to the afternoon prayer. **And** as to **that which you found difficult,** i.e., there is no contradiction at all, as **this** mitzva of *lulav* **is** a mitzva **by Torah law** and **that** mitzva to recite the afternoon prayer **is** a mitzva **by rabbinic law,** that is not difficult; as **here,** in the case of *lulav*, **we are dealing with the second day of the Festival** and beyond, during the intermediate days, when the mitzva of *lulav* is **by rabbinic law.** The contradiction is therefore between the rulings pertaining to two mitzvot by rabbinic law.
+
+> **Hebrew/Aramaic:** דַּיְקָא נָמֵי, מִדְּקָתָנֵי: מִי שֶׁבָּא בַּדֶּרֶךְ וְאֵין בְּיָדוֹ לוּלָב. דְּאִי סָלְקָא דַעְתָּךְ בְּיוֹם טוֹב רִאשׁוֹן — מִי שְׁרֵי?!
 > **Translation:** The language of the mishna **is also precise** and indicates that it is dealing with the intermediate days of the Festival **from** the fact **that it teaches: One who was coming along the way and does not have a *lulav* in his hand. As, if it enters your mind** to say that the mishna is referring to **the first day of the Festival, is it permitted** to travel a long distance on that day? Rather, it is referring to the intermediate days.
+
 
 The *gemara* then notes: *ella amar Rebbe Zeira l'olam k'dikamina me'ikara* — there actually was a problem with the comparison to *Mincha*, and the answer is: *hacha b'Yom Tov Sheni d'Rabbanan askinan* — we are dealing here with *Yom Tov Sheni*, which in this context means *Chol Hamoed*, not the second day of *Yom Tov* observed outside *Eretz Yisrael*. How do we know? The *mishnah* itself says *mi sheba baderech* — he came back from a journey. One does not travel on *Yom Tov*. Therefore the *mishnah* must be discussing *Chol Hamoed*, when travel is permitted. And since taking the *lulav* on *Chol Hamoed* is rabbinic — it applies only *d'Rabbanan* — there is now a genuine problem: why does one interrupt a meal for a rabbinic *mitzvah* here, when one does not interrupt a meal for *Mincha*, also a rabbinic obligation?
 
@@ -141,15 +139,13 @@ The larger point of the *mishnah* in context remains significant. The *gemara*'s
 
 ## Shaking Centrality
 
-### During Hallel
 
-> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁהָיָה עֶבֶד אוֹ אִשָּׁה אוֹ קָטָן מַקְרִין אוֹתוֹ — עוֹנֶה אַחֲרֵיהֶן מַה שֶּׁהֵן אוֹמְרִין, וְתָבֹא לוֹ מְאֵירָה. אִם הָיָה גָּדוֹל מַקְרֶא אוֹתוֹ, עוֹנֶה אַחֲרָיו ״הַלְלוּיָהּ״. מָקוֹם שֶׁנָּהֲגוּ לִכְפּוֹל — יִכְפּוֹל, לִפְשׁוֹט — יִפְשׁוֹט, לְבָרֵךְ — יְבָרֵךְ, הַכֹּל כְּמִנְהַג הַמְּדִינָה.
->
-> **Translation:** MISHNA: With regard to **one for whom a Canaanite slave, a woman, or a minor was reciting** *hallel*, **he repeats after them what they are saying** word for word. The mishna notes: **And may a curse come to him** for being so ignorant that he needs them to recite it for him. **If an adult male was reciting** *hallel* **on his** behalf, he need not repeat each word, as the adult male can fulfill the obligation to recite *hallel* on his behalf. Rather, **he** simply **answers: *Halleluya*,** to each phrase that is recited. In **a place where they were accustomed to repeat** certain verses, **he,** too, should **repeat** them. If the custom is **to** recite them **plainly,** without repetition, **he** should recite them **plainly. In a place where the custom is to recite a blessing** when reciting *hallel*, **he should recite a blessing. Everything is in accordance with the local custom** in these matters.
+
+### During Hallel
 
 The *mishnah* returns to *hallel*, and this transition itself is revealing. The natural structure of the *daf* has been: an elaborate discussion of waving during *hallel*, then a brief digression about taking the *lulav* outside its proper time and context, and now a return to *hallel*. The implication is that the primary context of the *mitzvah* of *lulav* is precisely the shaking during *hallel* in *shul*. This is not presented as a supplemental enhancement — "first you make the *beracha*, take the *lulav*, and by the way also shake it during *hallel*." Rather, the shaking in the context of *hallel* is the *mitzvah*.
 
-### Tosafot Minor's Obligation
+### Tosafot: Shaking & Minor
 
 Tosafot raises a pointed question: when one makes the *beracha* at the moment of taking the *lulav*, must one shake it then, or does merely holding it suffice? *Lo matzinu dechayav lina'anea bitchilat netilah* — we do not find any explicit source requiring shaking at the moment of taking. But then Tosafot invokes the principle underlying the *mishnah*'s formulation of a minor's obligation: *katan hayodeia lina'anea chayav belulav* — a minor who knows how to shake is obligated in *lulav*. Notice: not "a minor who is able to take it," but "a minor who knows how to shake it." This is how the threshold of educational obligation is defined. Since the capacity to shake defines when the *mitzvah* begins to be taught, shaking is evidently central to what the act of the *mitzvah* is.
 
@@ -165,7 +161,7 @@ Tosafot adduces a further proof from a *baraita* in Berachos: *hikdim latzeis la
 
 One might argue that this case is purely *bedi'eved*, however — he had no choice. It no more proves that shaking is *lechatchilah* independent of *hallel* than it proves that early-morning *lulav* is the ideal.
 
-### Lechatchilah Ideal
+### Lechatchildlah Ideal
 
 The stronger evidence, one can argue, runs in the opposite direction: the entire opening discussion of the *daf* places shaking squarely in the context of *hallel*. Even the minor's case does not require shaking *without* *hallel* — the minor could perfectly well be in *shul* while others are reciting *hallel*, and the principle of *shomea k'oneh*, which the *gemara* will discuss shortly, means that listening to *hallel* is like reciting it. The fact that he cannot recite it himself does not remove him from the *hallel* context.
 
@@ -183,7 +179,12 @@ This connects to the end of the *pasuk* itself: *ulekachtem lachem bayom harisho
 
 ## Hallel Responsive
 
+
+
 ### Unobligated Reader
+
+> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁהָיָה עֶבֶד אוֹ אִשָּׁה אוֹ קָטָן מַקְרִין אוֹתוֹ — עוֹנֶה אַחֲרֵיהֶן מַה שֶּׁהֵן אוֹמְרִין, וְתָבֹא לוֹ מְאֵירָה. אִם הָיָה גָּדוֹל מַקְרֶא אוֹתוֹ, עוֹנֶה אַחֲרָיו ״הַלְלוּיָהּ״. מָקוֹם שֶׁנָּהֲגוּ לִכְפּוֹל — יִכְפּוֹל, לִפְשׁוֹט — יִפְשׁוֹט, לְבָרֵךְ — יְבָרֵךְ, הַכֹּל כְּמִנְהַג הַמְּדִינָה.
+> **Translation:** MISHNA: With regard to **one for whom a Canaanite slave, a woman, or a minor was reciting** *hallel*, **he repeats after them what they are saying** word for word. The mishna notes: **And may a curse come to him** for being so ignorant that he needs them to recite it for him. **If an adult male was reciting** *hallel* **on his** behalf, he need not repeat each word, as the adult male can fulfill the obligation to recite *hallel* on his behalf. Rather, **he** simply **answers: *Halleluya*,** to each phrase that is recited. In **a place where they were accustomed to repeat** certain verses, **he,** too, should **repeat** them. If the custom is **to** recite them **plainly,** without repetition, **he** should recite them **plainly. In a place where the custom is to recite a blessing** when reciting *hallel*, **he should recite a blessing. Everything is in accordance with the local custom** in these matters.
 
 The next *mishnah* reads: *mi shehayah eved o isha o katan makrin oto* — if a slave, woman, or minor was reciting *hallel* for you — *oneh achareihem mah shehem omrim* — you repeat after them what they say. This describes a word-for-word responsive recitation.
 
@@ -201,16 +202,13 @@ Rashi understands the curse as arising from the display of ignorance: why must y
 
 ### Adult Leader
 
-If an adult male leads, the dynamic changes. *Im haya gadol mikra oto oneh acharav Hallelujah* — if an adult was reciting for you, you respond with *Hallelujah* after each phrase. The *chazzan* says *Hallelujah*, the congregation responds *Hallelujah*; he says *hallelu avdei Hashem*, they respond *Hallelujah*; he says *yehi shem Hashem mevorach*, they respond *Hallelujah*. And so on through the chapters. Depending on how the *mishnah* is read, this may have been the standard communal practice even for those who knew *hallel* — the *shliach tzibbur* recites and the *tzibbur* responds *Hallelujah* at each phrase — or it may describe only what those who do not know *hallel* should do when led by an obligated adult.
+If an adult male leads, the dynamic changes. *Im haya gadol mikra oto oneh acharav Hallelujah* — if an adult was reciting for you, you respond with *Hallelujah* after each phrase. The *chazzan* says *Hallelujah*, the congregation responds *Hallelujah*; he says *hallelu avdei Hashem*, they respond *Hallelujah*; he says *yehi shem Hashem mevorach*, they respond *Hallelujah*. And so on through the chapters. This responsive structure is worth pausing on, because it maps onto a broader difference in liturgical sensibility: in Ashkenazic practice there is a strong tendency to ensure that each individual recites the full text himself alongside the *chazzan*, whereas in Sephardic practice it is more natural for the *chazzan* and congregation to each carry their own distinct part, without the congregation needing to reproduce everything the *chazzan* says. The original mode of *hallel* recitation described here resembles that Sephardic model — the *shliach tzibbur* carries the text and the congregation genuinely responds, rather than merely echoing in parallel. Depending on how the *mishnah* is read, this may have been the standard communal practice even for those who knew *hallel* — the *shliach tzibbur* recites and the *tzibbur* responds *Hallelujah* at each phrase — or it may describe only what those who do not know *hallel* should do when led by an obligated adult.
 
-[DAF:38b]
 ### Custom Variations
 
-> **Hebrew/Aramaic:** הִלְכְתָא גִּיבָּרָתָא אִיכָּא לְמִשְׁמַע מִמִּנְהֲגָא דְהַלֵּילָא. הוּא אוֹמֵר: ״הַלְלוּיָהּ״, וְהֵן אוֹמְרִים: ״הַלְלוּיָהּ״ — מִכָּאן שֶׁמִּצְוָה לַעֲנוֹת ״הַלְלוּיָהּ״.
->
-> **Translation:** **Many significant *halakhot* can be learned from the custom of *hallel*** based on the manner in which it was recited. In reciting *hallel* there are allusions to several halakhic matters and customs that the Sages instituted due to circumstances extant at the time. Although due to increased literacy and familiarity with the *hallel* liturgy the reasons no longer apply, these customs remain in practice. The prayer leader **recites: "*Halleluya*"** (Psalms 113:1), **and** the congregation **recites: *Halleluya*,** in response. **From here** is the source **that** there is **a mitzva to respond: *Halleluya*.**
-
 *Makom shenahagu lichpol yichpol* — where the custom was to double certain *psukim* (as we do with *odecha Hashem ki anitani*), one doubles them. *Lifshot* — where the custom was to recite straight, one does so. *Levarech* — where the custom was to add a blessing, one blesses. *Hakol keminhag hamedina* — all follows local practice. This is a notable embrace of diversity in practice across communities.
+
+With that settled, the *gemara* returns to the question of what happens when the leader is not an obligated adult male — specifically, when it is a minor or a woman. Rashi's position is that the problem is one of displaying ignorance: having someone feed you the words reveals that you do not know *hallel* yourself. Tosafot pushes back, asking why this should be worse than the adult-male case — you are equally ignorant either way. The response to Tosafot's objection is that when a fully obligated adult leads and the congregation responds *Hallelujah*, no ignorance is displayed, because that responsive structure may simply be how communal *hallel* is properly performed; one could be perfectly knowledgeable and still answer *Hallelujah* phrase by phrase. The situation changes when the leader is a woman or a minor, who are not obligated in *hallel* as a time-bound *mitzvah*. In that case there is no legitimate obligated framework within which the responsive *Hallelujah* makes sense — the leader is simply feeding you the lines, and that dynamic does expose your ignorance. Tosafot, however, is not fully satisfied even with this distinction, and ultimately grounds the concern less in the display of ignorance and more in the problem of relying on — and effectively discharging one's obligation through — someone who is not themselves obligated. Both concerns, as the next section explores, bear directly on questions about women leading *hallel* in contemporary practice.
 
 ### Women Leadership
 
@@ -226,15 +224,16 @@ Tosafot's final lines are relevant here too. Tosafot mentions: *mishum derabim z
 
 ## Obligation & Blessing
 
-### Son & Slave
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: בֶּאֱמֶת אָמְרוּ בֵּן מְבָרֵךְ לְאָבִיו. וְעֶבֶד מְבָרֵךְ לְרַבּוֹ, וְאִשָּׁה מְבָרֶכֶת לְבַעְלָהּ, אֲבָל אָמְרוּ חֲכָמִים: תָּבֹא מְאֵירָה לְאָדָם שֶׁאִשְׁתּוֹ וּבָנָיו מְבָרְכִין לוֹ.
->
-> **Translation:** GEMARA: **The Sages taught: Actually, they said** that **a son may recite a blessing** on behalf of **his father, and a slave may recite a blessing** on behalf of **his master, and a woman may recite a blessing** on behalf of **her husband, but the Sages said: May a curse come to a man** who, due to his ignorance, requires **his wife and children to recite a blessing on his behalf.**
+
+### Son & Slave
 
 A *baraita* teaches: *ben mevarech l'aviv ve'eved mevarech l'rabo* — a son may lead *birkat hamazon* for his father, and a slave for his master. This is despite the fact that a minor son and a slave are at most rabbinically obligated, while the adult father may be biblically obligated.
 
 ### Woman Blessing
+
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: בֶּאֱמֶת אָמְרוּ בֵּן מְבָרֵךְ לְאָבִיו. וְעֶבֶד מְבָרֵךְ לְרַבּוֹ, וְאִשָּׁה מְבָרֶכֶת לְבַעְלָהּ, אֲבָל אָמְרוּ חֲכָמִים: תָּבֹא מְאֵירָה לְאָדָם שֶׁאִשְׁתּוֹ וּבָנָיו מְבָרְכִין לוֹ.
+> **Translation:** GEMARA: **The Sages taught: Actually, they said** that **a son may recite a blessing** on behalf of **his father, and a slave may recite a blessing** on behalf of **his master, and a woman may recite a blessing** on behalf of **her husband, but the Sages said: May a curse come to a man** who, due to his ignorance, requires **his wife and children to recite a blessing on his behalf.**
 
 *Ve'ishah mevareches l'ba'alah* — a woman may lead *birkat hamazon* for her husband as well. Whether women are biblically obligated in *birkat hamazon* is itself a debate in Berachos. *Aval amru chachamim, tavo me'eira l'adam she'ishah u'vanim mevarchin lo* — nevertheless, the Sages said: a curse should come upon a man whose wife and children recite the blessing for him.
 
@@ -250,17 +249,32 @@ Tosafot adds the alternative framing that even matching levels of obligation wou
 
 ## Rava's Approach
 
+
+
 ### Contemporary Practice
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: הִלְכְתָא גִּיבָּרָתָא אִיכָּא לְמִשְׁמַע מִמִּנְהֲגָא דְהַלֵּילָא. הוּא אוֹמֵר: ״הַלְלוּיָהּ״, וְהֵן אוֹמְרִים: ״הַלְלוּיָהּ״ — מִכָּאן שֶׁמִּצְוָה לַעֲנוֹת ״הַלְלוּיָהּ״. הוּא אוֹמֵר: ״הַלָּלוּ עַבְדֵי ה׳״, וְהֵן אוֹמְרִין: ״הַלְלוּיָהּ״ — מִכָּאן שֶׁאִם הָיָה גָּדוֹל מַקְרֶא אוֹתוֹ, עוֹנֶה אַחֲרָיו ״הַלְלוּיָהּ״. הוּא אוֹמֵר: ״הוֹדוּ לַה׳״, וְהֵן אוֹמְרִים: ״הוֹדוּ לַה׳״ — מִכָּאן שֶׁמִּצְוָה לַעֲנוֹת רָאשֵׁי פְרָקִים. אִתְּמַר נָמֵי, אָמַר רַב חָנָן בַּר רָבָא: מִצְוָה לַעֲנוֹת רָאשֵׁי פְרָקִים.
->
-> **Translation:** **Rava said: Many significant *halakhot* can be learned from the custom of *hallel*** based on the manner in which it was recited. In reciting *hallel* there are allusions to several halakhic matters and customs that the Sages instituted due to circumstances extant at the time. Although due to increased literacy and familiarity with the *hallel* liturgy the reasons no longer apply, these customs remain in practice. The prayer leader **recites: "*Halleluya*"** (Psalms 113:1), **and** the congregation **recites: *Halleluya*,** in response. **From here** is the source **that** there is **a mitzva to respond: *Halleluya*. Likewise, the prayer leader recites: "Give praise, servants of the Lord"** (Psalms 113:1), **and** the congregation **recites: *Halleluya*,** in response. **From here** is the source of the *halakha* cited in the mishna **that if an adult male was reciting** *hallel* **on his** behalf, **he answers: *Halleluya*. He recites: "Thank the Lord,** for He is good" (Psalms 118:1), **and they respond: "Thank the Lord,** for He is good." **From here** is the source **that** there is **a mitzva to respond** by reciting **the beginnings of chapters. It was also stated** that **Rav Ḥanan bar Rava said:** There is **a mitzva to respond** by reciting **the beginnings of chapters.**
 
 *Amar Rava: hilchata gevirta ika lemishma mei-ha minhaga de-halleila* — Rava says that many important *halachot* can be inferred from the contemporary practice of *hallel* in his time. By Rava's era the original responsive structure had largely fallen away, and most people recited *hallel* in full themselves. But certain vestiges of the older practice had been preserved, and Rava reads those preserved moments as deliberate signals of the underlying *halachot*.
 
+[DAF:38b]
 ### Opening Hallel
 
-*Hu omer Hallelujah vehem omrim Hallelujah* — the *chazzan* opens with *Hallelujah* and the congregation responds *Hallelujah*. Then he says *hallelu avdei Hashem* and they again say *Hallelujah*. *Mikan she-mitzvah la'anot Hallelujah* — from this we infer that there is a *mitzvah* to respond *Hallelujah* at the opening of *hallel*, even for those who know the full text and are reciting it themselves. This vestige was preserved specifically to signal that responding *Hallelujah* is an obligatory element of *hallel* participation, not merely optional.
+> **Hebrew/Aramaic:** אָמַר רָבָא:
+> **Translation:** **Rava said:**
+
+> **Hebrew/Aramaic:** הִלְכְתָא גִּיבָּרָתָא אִיכָּא לְמִשְׁמַע מִמִּנְהֲגָא דְהַלֵּילָא. הוּא אוֹמֵר: ״הַלְלוּיָהּ״, וְהֵן אוֹמְרִים: ״הַלְלוּיָהּ״ — מִכָּאן שֶׁמִּצְוָה לַעֲנוֹת ״הַלְלוּיָהּ״.
+> **Translation:** **Many significant *halakhot* can be learned from the custom of *hallel*** based on the manner in which it was recited. In reciting *hallel* there are allusions to several halakhic matters and customs that the Sages instituted due to circumstances extant at the time. Although due to increased literacy and familiarity with the *hallel* liturgy the reasons no longer apply, these customs remain in practice. The prayer leader **recites: “*Halleluya*”** (Psalms 113:1), **and** the congregation **recites: *Halleluya*,** in response. **From here** is the source **that** there is **a mitzva to respond: *Halleluya*.**
+
+> **Hebrew/Aramaic:** הוּא אוֹמֵר: ״הַלָּלוּ עַבְדֵי ה׳״, וְהֵן אוֹמְרִין: ״הַלְלוּיָהּ״ — מִכָּאן שֶׁאִם הָיָה גָּדוֹל מַקְרֶא אוֹתוֹ, עוֹנֶה אַחֲרָיו ״הַלְלוּיָהּ״. הוּא אוֹמֵר: ״הוֹדוּ לַה׳״, וְהֵן אוֹמְרִים: ״הוֹדוּ לַה׳״ — מִכָּאן שֶׁמִּצְוָה לַעֲנוֹת רָאשֵׁי פְרָקִים. אִתְּמַר נָמֵי, אָמַר רַב חָנָן בַּר רָבָא: מִצְוָה לַעֲנוֹת רָאשֵׁי פְרָקִים.
+> **Translation:** Likewise, the prayer leader **recites: “Give praise, servants of the Lord”** (Psalms 113:1), **and** the congregation **recites: *Halleluya*,** in response. **From here** is the source of the *halakha* cited in the mishna **that if an adult male was reciting** *hallel* **on his** behalf, **he answers: *Halleluya*. He recites: “Thank the Lord,** for He is good” (Psalms 118:1), **and they respond: “Thank the Lord,** for He is good.” **From here** is the source **that** there is **a mitzva to respond** by reciting **the beginnings of chapters. It was also stated** that **Rav Ḥanan bar Rava said:** There is **a mitzva to respond** by reciting **the beginnings of chapters.**
+
+> **Hebrew/Aramaic:** הוּא אוֹמֵר: ״אָנָא ה׳ הוֹשִׁיעָה נָּא״, וְהֵן אוֹמְרִים: ״אָנָּא ה׳ הוֹשִׁיעָה נָּא״, — מִכָּאן שֶׁאִם הָיָה קָטָן מַקְרֶא אוֹתוֹ, עוֹנִין אַחֲרָיו מַה שֶׁהוּא אוֹמֵר.
+> **Translation:** Rava continued to cite the significant *halakhot* learned from *hallel*. The prayer leader **recites: “Lord, please save us”** (Psalms 118:25), **and** the congregation **recites: “Lord, please save us,”** in response. **From here** is the source of the *halakha* cited in the mishna **that if a minor was reciting** a portion that is not from the beginning of a chapter **on one’s** behalf, **he recites after him** precisely **what he says.**
+
+> **Hebrew/Aramaic:** הוּא אוֹמֵר: ״אָנָא ה׳ הַצְלִיחָה נָּא״ וְהֵן אוֹמְרִים: ״אָנָּא ה׳ הַצְלִיחָה נָּא״, מִכָּאן שֶׁאִם בָּא לִכְפּוֹל — כּוֹפֵל. הוּא אוֹמֵר: ״בָּרוּךְ הַבָּא״, וְהֵן אוֹמְרִים: ״בְּשֵׁם ה׳״ — מִכָּאן לְשׁוֹמֵעַ כְּעוֹנֶה.
+> **Translation:** The prayer leader **recites: “Lord, please grant us success,” and** the congregation **recites** in response: “**Lord, please grant us success”** (Psalms 118:25). **From here** is the source of the *halakha* **that if** one **comes to repeat** a particular verse in *hallel* twice, **he** may **repeat** it. The prayer leader **recites: “Blessed is one who comes”** (Psalms 118:26), **and** the congregation **recites** the rest of the verse: **“In the name of the Lord”** (Psalms 118:26), in response. **From here** is the source of the *halakha* that the halakhic status of **one who hears** a passage recited **is equivalent to** that of **one who recites** it, as the congregation fulfills its obligation even though it does not repeat the entire verse.
+
+*Hu omer Hallelujah vehem omrim Hallelujah* — the *chazzan* opens with *Hallelujah* and the congregation responds *Hallelujah*. Then he says *hallelu avdei Hashem* and they again say *Hallelujah*. *Mikan she-mitzvah la'anot Hallelujah* — from this we infer that there is a *mitzvah* to respond *Hallelujah* at the opening of *hallel*, even for those who know the full text and are reciting it themselves. This vestige was preserved specifically to signal that responding *Hallelujah* is an obligatory element of *hallel* participation, not merely optional. But the first *Hallelujah* and the second *Hallelujah* are actually doing two different things. The first establishes that there is a *mitzvah* to respond at the very opening of *hallel*. The second, however, is a deliberate preservation of an older practice — *mikan she-im haya gadol mikra oto oneh acharayv Hallelujah*, from here we learn that if someone does not know how to recite the full *hallel*, he may simply respond *Hallelujah* after each phrase the *chazzan* recites, which was precisely the arrangement described in the *mishna*. Even though by Rava's day the normative practice had shifted to everyone reciting the full text themselves, this second response was consciously retained at the opening of *hallel* to remind us that this remains the operative *halacha* — that one who cannot recite the full *hallel* fulfills his obligation by answering *Hallelujah* after each phrase.
 
 ### Hodu Lashem
 
@@ -270,15 +284,13 @@ Tosafot adds the alternative framing that even matching levels of obligation wou
 
 What exactly does *rashei prakim* — responding at chapter beginnings — mean? The answer depends on how one understands the structure of *hallel*. Rashi and Tosafot diverge here.
 
-According to Rashi, each new *perek* of Tehillim within *hallel* would have prompted a shift in the responsive formula. Under the word-for-word practice, the opening phrase of each *perek* would be said by the congregation together (rather than in the usual call-and-response), signaling the transition. So *mitzvas la'anot rashei prakim* means that at each chapter break, the response changes to mark the new section.
+According to Rashi, each new *perek* of Tehillim within *hallel* would have prompted a shift in the responsive formula. Under the word-for-word practice, the opening phrase of each *perek* would be said by the congregation together (rather than in the usual call-and-response), signaling the transition. So *mitzvas la'anot rashei prakim* means that at each chapter break, the response changes to mark the new section. To make the mechanics concrete: the *chazzan* would call *moshivi akeret habayit* and everyone would respond *halleluyah*; then the *chazzan* would call *beit yaakov me'am lo'ez* and again *halleluyah*. But when the new *perek* begins — *betzet yisrael mimitzrayim* — the congregation repeats *betzet yisrael mimitzrayim* in unison, marking the shift. Then the familiar *halleluyah* response resumes for the remainder of that section.
 
 Tosafot suggests a different structure. In Rava's time — and perhaps in the original practice as well — the congregation understood all the *psukim* from the initial *Hallelujah* through the *hodu lashem* section to form a single large unit. The opening of that second unit, *hodu lashem ki tov*, was the moment for a new responsive phrase. Accordingly, Tosafot reads the full *hallel* as divided into two great sections: in the first, the response is *Hallelujah*; in the second, the response is *hodu lashem ki tov* — *ki le'olam chasdo* after each phrase. That would have been a genuinely stirring communal experience: half the assembly calling *hodu lashem ki tov* and the other half responding *ki le'olam chasdo* through the entire second half.
 
-### Ana Hashem
+In either reading, the key point is that by Rava's time these practices had already receded. What remained were small vestiges — particular moments of responsive reading preserved precisely to keep alive the memory of what the original *hallel* looked like, a question the gemara pursues immediately in what follows.
 
-> **Hebrew/Aramaic:** הוּא אוֹמֵר: ״אָנָא ה׳ הוֹשִׁיעָה נָּא״, וְהֵן אוֹמְרִים: ״אָנָּא ה׳ הוֹשִׁיעָה נָּא״, — מִכָּאן שֶׁאִם הָיָה קָטָן מַקְרֶא אוֹתוֹ, עוֹנִין אַחֲרָיו מַה שֶׁהוּא אוֹמֵר. הוּא אוֹמֵר: ״אָנָּא ה׳ הַצְלִיחָה נָּא״ וְהֵן אוֹמְרִים: ״אָנָּא ה׳ הַצְלִיחָה נָּא״, מִכָּאן שֶׁאִם בָּא לִכְפּוֹל — כּוֹפֵל. הוּא אוֹמֵר: ״בָּרוּךְ הַבָּא״, וְהֵן אוֹמְרִים: ״בְּשֵׁם ה׳״ — מִכָּאן לְשׁוֹמֵעַ כְּעוֹנֶה.
->
-> **Translation:** Rava continued to cite the significant *halakhot* learned from *hallel*. The prayer leader **recites: "Lord, please save us"** (Psalms 118:25), **and** the congregation **recites: "Lord, please save us,"** in response. **From here** is the source of the *halakha* cited in the mishna **that if a minor was reciting** a portion that is not from the beginning of a chapter **on one's** behalf, **he recites after him** precisely **what he says. The prayer leader recites: "Lord, please grant us success," and** the congregation **recites** in response: "**Lord, please grant us success"** (Psalms 118:25). **From here** is the source of the *halakha* **that if** one **comes to repeat** a particular verse in *hallel* twice, **he** may **repeat** it. The prayer leader **recites: "Blessed is one who comes"** (Psalms 118:26), **and** the congregation **recites** the rest of the verse: **"In the name of the Lord"** (Psalms 118:26), in response. **From here** is the source of the *halakha* that the halakhic status of **one who hears** a passage recited **is equivalent to** that of **one who recites** it, as the congregation fulfills its obligation even though it does not repeat the entire verse.
+### Ana Hashem
 
 *Hu omer Ana Hashem hoshia na vehem omrim Ana Hashem hoshia na. Hu omer Ana Hashem hatzlicha na vehem omrim Ana Hashem hatzlicha na.* Here there are two distinct inferences. The repetition of *ana Hashem hoshia na* — with the congregation echoing exactly — teaches *mikan she'im haya katan makri oto onin acharav mah shehu omer*: if a minor were feeding you the lines, you would need to repeat word for word precisely what he says, not a standard responsive formula. This is word-for-word repetition preserved as a vestige to remind us of that rule.
 
@@ -290,13 +302,11 @@ And what about the second repetition, *ana Hashem hatzlicha na*? *Mikan she'im b
 
 ---
 
-## Shomeia K'Oneh
+## Shomeia K'Oneh (II)
+
+
 
 ### Technical Meaning
-
-> **Hebrew/Aramaic:** בְּעוֹ מִינֵּיהּ מֵרַבִּי חִיָּיא בַּר אַבָּא: שָׁמַע וְלֹא עָנָה, מַהוּ? אֲמַר לְהוּ: חַכִּימַיָּא וְסָפְרַיָּא וְרֵישֵׁי עַמָּא וְדָרָשַׁיָּא אָמְרוּ: שָׁמַע וְלֹא עָנָה — יָצָא.
->
-> **Translation:** Apropos this *halakha*, the Gemara relates that the Sages **raised a dilemma before Rabbi Ḥiyya bar Abba:** If **one heard** a passage recited **and did not recite** it himself, **what is** the *halakha*? Did he fulfill his obligation or not? **He said to them** that **the Sages, and the schoolteachers, and the heads of the nation, and the** homiletic **interpreters said: One who heard** a passage recited **and did not recite** it himself **fulfilled** his obligation.
 
 Why does this particular exchange — the *chazzan* beginning and the congregation completing — teach *shomea k'oneh*? The answer lies in the precise technical meaning of the term. *Shomea k'oneh* is usually translated as "hearing is like saying," but that is imprecise. The word *oneh* does not simply mean "to say" — *vayaanu haleviyim ve'amru kol ha'am* — it means "to answer," to respond. In a responsive context, what is the proper response when the *chazzan* says something? *Hallelujah*, or *hodu lashem*, or *amen*. If one hears and responds with the expected reply, one has clearly fulfilled the obligation. But the *baruch haba / b'shem Hashem* exchange is structurally different: you are not affirming what was said with a responsive *amen* or *Hallelujah* — you are completing the speaker's sentence. Yet even here, the principle holds that having heard is sufficient. This is why the exchange teaches *shomea k'oneh* in a deeper sense than the earlier responses: it establishes that even when there is no verbal response at all, merely hearing the words fulfills the obligation.
 
@@ -314,13 +324,15 @@ Tosafot objects. If *shomea k'oneh* truly means that hearing is equivalent to re
 
 ### Tannaitic View
 
-> **Hebrew/Aramaic:** אִתְּמַר נָמֵי, אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִשּׁוּם בַּר קַפָּרָא: מִנַּיִן לְשׁוֹמֵעַ כְּעוֹנֶה — דִּכְתִיב: ״אֶת (הַדְּבָרִים) אֲשֶׁר קָרָא (יֹאשִׁיָּהוּ)״. וְכִי יֹאשִׁיָּהוּ קְרָאָן? וַהֲלֹא שָׁפָן קְרָאָן, דִּכְתִיב: ״וַיִּקְרָאֵהוּ שָׁפָן (אֵת כׇּל הַדְּבָרִים הָאֵלֶּה) לִפְנֵי הַמֶּלֶךְ״. אֶלָּא, מִכָּאן לְשׁוֹמֵעַ כְּעוֹנֶה.
->
-> **Translation:** **It was also stated** that **Rabbi Shimon ben Pazi said** that **Rabbi Yehoshua ben Levi said in the name of Bar Kappara: From where** is it derived that the halakhic status of **one who hears** a passage recited **is equivalent to** that of **one who recites** it? It is **as it is written: "All the words of the book which** the king of Judea **has read"** (II Kings 22:16). **And did** King **Josiah read them? Didn't Shaphan read them, as it is written: "And Shaphan read it before the king"** (II Kings 22:10)? **Rather, from here** it is derived **that** the halakhic status of **one who hears** a passage recited **is equivalent to** that of **one who recites** it, and it is as though Josiah read the words himself.
+> **Hebrew/Aramaic:** בְּעוֹ מִינֵּיהּ מֵרַבִּי חִיָּיא בַּר אַבָּא: שָׁמַע וְלֹא עָנָה, מַהוּ? אֲמַר לְהוּ: חַכִּימַיָּא וְסָפְרַיָּא וְרֵישֵׁי עַמָּא וְדָרָשַׁיָּא אָמְרוּ: שָׁמַע וְלֹא עָנָה — יָצָא.
+> **Translation:** Apropos this *halakha*, the Gemara relates that the Sages **raised a dilemma before Rabbi Ḥiyya bar Abba:** If **one heard** a passage recited **and did not recite** it himself, **what is** the *halakha*? Did he fulfill his obligation or not? **He said to them** that **the Sages, and the schoolteachers, and the heads of the nation, and the** homiletic **interpreters said: One who heard** a passage recited **and did not recite** it himself **fulfilled** his obligation.
 
 The *gemara* records *amar Rabbi Chiya bar Abba* that when asked whether hearing without responding counts: *chachamaya vesafraya, rashei ama, vedarshaya* — the wise men, the teachers, the communal leaders, and the expounders have all said *shama velo ana yatza* — hearing without responding, one has fulfilled the obligation.
 
 ### Yoshiyahu Source
+
+> **Hebrew/Aramaic:** אִתְּמַר נָמֵי, אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִשּׁוּם בַּר קַפָּרָא: מִנַּיִן לְשׁוֹמֵעַ כְּעוֹנֶה — דִּכְתִיב: ״אֶת (הַדְּבָרִים) אֲשֶׁר קָרָא (יֹאשִׁיָּהוּ)״. וְכִי יֹאשִׁיָּהוּ קְרָאָן? וַהֲלֹא שָׁפָן קְרָאָן, דִּכְתִיב: ״וַיִּקְרָאֵהוּ שָׁפָן (אֵת כׇּל הַדְּבָרִים הָאֵלֶּה) לִפְנֵי הַמֶּלֶךְ״. אֶלָּא, מִכָּאן לְשׁוֹמֵעַ כְּעוֹנֶה.
+> **Translation:** **It was also stated** that **Rabbi Shimon ben Pazi said** that **Rabbi Yehoshua ben Levi said in the name of Bar Kappara: From where** is it derived that the halakhic status of **one who hears** a passage recited **is equivalent to** that of **one who recites** it? It is **as it is written: “All the words of the book which** the king of Judea **has read”** (II Kings 22:16). **And did** King **Josiah read them? Didn’t Shaphan read them, as it is written: “And Shaphan read it before the king”** (II Kings 22:10)? **Rather, from here** it is derived **that** the halakhic status of **one who hears** a passage recited **is equivalent to** that of **one who recites** it, and it is as though Josiah read the words himself.
 
 A formal textual source is then provided: *amar Rebbi Shimon Pazi amar Rebbi Yehoshua ben Levi*: *minayin l'shomea k'oneh?* — from where do we derive the principle? *Dechsiv, es kol divrei hasefer asher kara melech Yehuda* — "all the words of the book that the king of Judah had read." This verse, from the story of the discovery of the *Sefer Torah* in the *Beit Hamikdash* during the reign of Yoshiyahu, describes the king as having "read" the words.
 
@@ -330,9 +342,8 @@ A formal textual source is then provided: *amar Rebbi Shimon Pazi amar Rebbi Yeh
 
 ### Humiliation Proof
 
-> **Hebrew/Aramaic:** וְדִילְמָא בָּתַר דִּקְרָאנְהוּ שָׁפָן קְרָא יֹאשִׁיָּהוּ? אָמַר רַב אַחָא בַּר יַעֲקֹב: לָא סָלְקָא דַּעְתָּךְ, דִּכְתִיב: ״יַעַן רַךְ לְבָבְךָ וַתִּכָּנַע לִפְנֵי ה׳ בְּשׇׁמְעֲךָ (אֶת הַדְּבָרִים הָאֵלֶּה)״ — ״בְּשׇׁמְעֲךָ״ וְלָא ״בְּקׇרְאֲךָ״.
->
-> **Translation:** The Gemara asks: **And perhaps after Shaphan read them Josiah read** them again? **Rav Aḥa bar Ya'akov said:** It should **not enter your mind** to say so, **as it is written: "Because your heart was tender and you humbled yourself before the Lord when you heard** what I spoke in this place" (II Kings 22:19). The Gemara infers: **"When you heard"** is written in the verse, **and not: When you read.** In other words, immediately upon hearing Shaphan read the text, King Josiah sent for Huldah the prophetess, which shows that he humbled his heart. Clearly, the halakhic status of one who hears a passage recited is equivalent to that of one who recites it.
+> **Hebrew/Aramaic:** וְדִילְמָא בָּתַר דִּקְרָאנְהוּ שָׁפָן קְרָא יֹאשִׁיָּהוּ? אָמַר רַב אַחָא בַּר יַעֲקֹב: לָא סָלְקָא דַּעְתָּךְ, דִּכְתִיב: ״יַעַן רַךְ לְבָבְךָ וַתִּכָּנַע לִפְנֵי ה׳ בְּשׇׁמְעֲךָ (אֶת הַדְּבָרִים הָאֵלֶּה)״ — ״בְּשׇׁמְעֲךָ״ וְלָא ״בְּקׇרְאֲךָ״.
+> **Translation:** The Gemara asks: **And perhaps after Shaphan read them Josiah read** them again? **Rav Aḥa bar Ya’akov said:** It should **not enter your mind** to say so, **as it is written: “Because your heart was tender and you humbled yourself before the Lord when you heard** what I spoke in this place” (II Kings 22:19). The Gemara infers: **“When you heard”** is written in the verse, **and not: When you read.** In other words, immediately upon hearing Shaphan read the text, King Josiah sent for Huldah the prophetess, which shows that he humbled his heart. Clearly, the halakhic status of one who hears a passage recited is equivalent to that of one who recites it.
 
 *Amar Rav Acha bar Yaakov*: one might object that after Shafan read it, Yoshiyahu himself then read it, and the verse reflects that subsequent personal reading. But *lo salka datchach* — that reading is untenable. The verse says *yaan rach levavcha vatichna lefanai beshamacha* — "because your heart was softened and you humbled yourself before me *when you heard* these things." *Beshamacha velo b'karacha* — when you heard, not when you read. The verse's own language confirms that Yoshiyahu heard rather than read — and yet he is described as having "read." This is the Scriptural grounding for *shomea k'oneh*.
 

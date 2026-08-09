@@ -1,0 +1,223 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Munbaz Intro",
+      "Munbaz Position",
+      "Rabbanan Shogeg",
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Scriptural Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what Munbaz considers 'unwitting' (shegagat korban) and the Rabbanan's rejection of that \u2014 precisely the content described in the 'Munbaz Position' prose section.",
+      "chosen_heading": "Munbaz Position",
+      "current_heading": "Rabbi Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Scriptural Source",
+    "candidates": [
+      "Reish Lakish",
+      "Scriptural Source",
+      "Tosafot Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the scriptural basis for Reish Lakish's position and Rabbi Yochanan's alternative use of the same verse (including the baraita about the mumar and Rabbi Shimon ben Elazar's derivation), which is precisely what the 'Scriptural Source' prose section discusses in detail.",
+      "chosen_heading": "Scriptural Source",
+      "current_heading": "Scriptural Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Tosafot Challenge",
+    "candidates": [
+      "Tosafot Challenge",
+      "Abaye Shvuat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Tosafot Challenge' explicitly discusses the 39 melachot mishnah, Rabbi Yochanan's explanation, the Reish Lakish challenge about knowing it is Shabbat, and the tchumin/Rabbi Akiva resolution \u2014 exactly the content of all three items in this passage.",
+      "chosen_heading": "Tosafot Challenge",
+      "current_heading": "Tosafot Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Abaye Shvuat",
+    "candidates": [
+      "Abaye Shvuat",
+      "Karet Gap",
+      "Karet Specific",
+      "Shvuat Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's statement about shvuat bituy and the immediate Gemara question about whose opinion he refers to and why it's obvious \u2014 exactly matching the prose under heading 0, which introduces Abaye's statement and explains that an error about karet is insufficient since there is no karet in shvuat bituy.",
+      "chosen_heading": "Abaye Shvuat",
+      "current_heading": "Abaye Shvuat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Shvuat Cases",
+    "candidates": [
+      "Karet Gap",
+      "Karet Specific",
+      "Shvuat Cases",
+      "Terumah Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 is the 'it might enter your mind to say' (salka da'atakh) reasoning about the chiddush of korban without karet, and Item 2 is the baraita challenge and its rejection as following Munbaz \u2014 both are precisely what candidate 1 ('Karet Specific') describes: the ho'il v'chiyuv korban chiddush hu argument and the conclusion that Rabbi Yochanan does not adopt Munbaz's position even for this exceptional case.",
+      "chosen_heading": "Karet Specific",
+      "current_heading": "Shvuat Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Terumah Abaye",
+    "candidates": [
+      "Shvuat Cases",
+      "Terumah Abaye",
+      "Rava Terumah",
+      "Lost Setup",
+      "Six vs One"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shvuat Cases",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'another version' (lishana acharina) of the Munbaz/Rabbanan debate about shvuat bituy, which belongs under the 'Shvuat Cases' heading that explicitly discusses the baraita about shvuat bituy and the Munbaz vs. Rabbanan dispute.",
+      "second_heading": "Terumah Abaye",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Abaye's ruling about terumah and chomesh and Rava's response, which is exactly what the 'Terumah Abaye' prose describes, so the current placement is correct for this item.",
+      "current_heading": "Terumah Abaye",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Six vs One",
+    "candidates": [
+      "Rava Terumah",
+      "Lost Setup",
+      "Six vs One",
+      "Rava Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the direct Gemara content of the Rav Huna/\u1e24iyya bar Rav dispute and its resolution via baraita, which is precisely what the 'Six vs One' prose describes, including the tiyuvta against \u1e24iyya bar Rav.",
+      "chosen_heading": "Six vs One",
+      "current_heading": "Six vs One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rava Solution",
+    "candidates": [
+      "Rava Solution",
+      "Partial Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's solution about doing minimum daily work and distinguishing the designated Shabbat through kiddush and havdalah, which matches precisely the 'Rava Solution' prose discussion.",
+      "chosen_heading": "Rava Solution",
+      "current_heading": "Rava Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Partial Knowledge",
+    "candidates": [
+      "Partial Knowledge",
+      "Tosafot Walking",
+      "One vs Many",
+      "Two Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's ruling about partial knowledge of departure day and the gemara's question/answer about obviousness and Friday departure, which matches exactly the prose in section 0 'Partial Knowledge'.",
+      "chosen_heading": "Partial Knowledge",
+      "current_heading": "Partial Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Two Verses",
+    "candidates": [
+      "Tosafot Walking",
+      "One vs Many",
+      "Two Verses",
+      "Rabbi Yitzhak"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "One vs Many",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Na\u1e25man's derivation from two verses, which perfectly matches the 'One vs Many' section's prose about the source for the distinction between one korban vs. many, and the 'Two Verses' section elaborates on that same derivation.",
+      "second_heading": "Rabbi Yitzhak",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Na\u1e25man bar Yitz\u1e25ak's objection that the verses should be assigned in the opposite way, which matches exactly the 'Rabbi Yitzhak' section's prose describing 'adaraba ipkha mistabra' and the reversed assignment of the two verses.",
+      "current_heading": "Two Verses",
+      "moved": true
+    }
+  }
+]

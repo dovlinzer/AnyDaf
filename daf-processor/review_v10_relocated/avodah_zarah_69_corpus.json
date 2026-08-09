@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Tanna/Rabban Debate",
+    "candidates": [
+      "Opening",
+      "Topic Shift",
+      "Transport Case",
+      "Chezkas Mishtamer",
+      "Time Thresholds",
+      "Tanna/Rabban Debate",
+      "Wagon/Ship Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishna passage describes the transport scenario (a gentile transporting barrels with a Jew from place to place) and the chezkas ha-mishtamer ruling plus both opinions on time thresholds \u2014 its opening case maps directly to the 'Transport Case' prose which explicitly introduces this exact Mishna scenario.",
+      "chosen_heading": "Transport Case",
+      "current_heading": "Tanna/Rabban Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Wagon/Ship Case",
+    "candidates": [
+      "Tanna/Rabban Debate",
+      "Wagon/Ship Case",
+      "Absence Indication",
+      "Store Scenario",
+      "Coming & Going",
+      "Table Drinking",
+      "Open vs. Sealed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the wagon/ship scenario where a Jew leaves his wine and departs via a shortcut, which is precisely what the 'Wagon/Ship Case' prose describes.",
+      "chosen_heading": "Wagon/Ship Case",
+      "current_heading": "Wagon/Ship Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Open vs. Sealed",
+    "candidates": [
+      "Absence Indication",
+      "Store Scenario",
+      "Coming & Going",
+      "Table Drinking",
+      "Open vs. Sealed",
+      "Table vs. Cupboard",
+      "Permissive Language",
+      "Sealed Exception",
+      "Beraita Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Absence Indication",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing rule about 'if he informed' time thresholds, which belongs with the 'Absence Indication' section that explicitly discusses im hodio she-hu maflig and the same two opinions.",
+      "second_heading": "Store Scenario",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 open new Mishna cases \u2014 the store scenario and the table scenario \u2014 with item 2 matching the 'Store Scenario' prose exactly (ha-maniach nochri be-chanuto).",
+      "current_heading": "Open vs. Sealed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Beraita Setup",
+    "candidates": [
+      "Table vs. Cupboard",
+      "Permissive Language",
+      "Sealed Exception",
+      "Beraita Setup",
+      "No Limit vs. Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's baraita about donkey-drivers and laborers carrying taharot, which is precisely what the 'Beraita Setup' section's prose describes and analyzes.",
+      "chosen_heading": "Beraita Setup",
+      "current_heading": "Beraita Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "No Limit vs. Stated",
+    "candidates": [
+      "No Limit vs. Stated",
+      "Friend Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'mai shna reisha u-mai shna seifa' and Rav Yitz\u1e25ak's answer about purifying donkey drivers and laborers, which is explicitly discussed and contextualized in the 'No Limit vs. Stated' prose section.",
+      "chosen_heading": "No Limit vs. Stated",
+      "current_heading": "No Limit vs. Stated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Friend Concern",
+    "candidates": [
+      "Friend Concern",
+      "Shortcut Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's dialectic about whether an am ha'aretz is punctilious about contact with another person (ein am ha'aretz makpid al maga chavero), which is precisely what the 'Friend Concern' section's prose describes.",
+      "chosen_heading": "Friend Concern",
+      "current_heading": "Friend Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Shortcut Fear",
+    "candidates": [
+      "Shortcut Fear",
+      "Case Redundancy Q",
+      "Scenario Risks",
+      "Boat Opportunity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's answer about coming via a roundabout/shortcut path and the follow-up about 'go and I will come after you' removing the fear \u2014 exactly the content described in the 'Shortcut Fear' prose, including the *derech akalaton* explanation and the *samcha da'ataihu* conclusion.",
+      "chosen_heading": "Shortcut Fear",
+      "current_heading": "Shortcut Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Boat Opportunity",
+    "candidates": [
+      "Case Redundancy Q",
+      "Scenario Risks",
+      "Boat Opportunity",
+      "Store Discovery",
+      "Discovery Deterrent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'utzerikha' (and it is necessary) statement explaining why the Mishna must teach multiple cases \u2014 this is precisely the 'Case Redundancy Q' section about why all three cases are enumerated separately rather than relying on one.",
+      "chosen_heading": "Case Redundancy Q",
+      "current_heading": "Boat Opportunity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Discovery Deterrent",
+    "candidates": [
+      "Store Discovery",
+      "Discovery Deterrent",
+      "Seal Material"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the reasoning behind the store case \u2014 that the gentile could lock the door and do as he wishes \u2014 which matches the 'Store Discovery' section's prose about the non-Jew locking the door without fear of interruption, rather than the 'Discovery Deterrent' section's focus on the psychological deterrent of potential surprise discovery.",
+      "chosen_heading": "Store Discovery",
+      "current_heading": "Discovery Deterrent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Seal Material",
+    "candidates": [
+      "Discovery Deterrent",
+      "Seal Material",
+      "Plaster Detection",
+      "RSBG Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rabba bar bar \u1e24ana's statement in Rabbi Yo\u1e25anan's name distinguishing the plaster/lime case from the clay/tar case, which is precisely what the 'Seal Material' section's prose describes and analyzes.",
+      "chosen_heading": "Seal Material",
+      "current_heading": "Seal Material",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "RSBG Challenge",
+    "candidates": [
+      "Plaster Detection",
+      "RSBG Challenge",
+      "Thief Assumption",
+      "Halacha Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous challenge-and-response sequence of Rabban Shimon ben Gamliel's objection and the Gemara's resolution, which is precisely what the 'RSBG Challenge' section's prose describes in detail.",
+      "chosen_heading": "RSBG Challenge",
+      "current_heading": "RSBG Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Halacha Decision",
+    "candidates": [
+      "Thief Assumption",
+      "Halacha Decision",
+      "Stam Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling that the halacha follows Rabban Shimon ben Gamliel, which directly matches the 'Halacha Decision' section's prose about Rava ruling halacha ke-Rabban Shimon ben Gamliel.",
+      "chosen_heading": "Halacha Decision",
+      "current_heading": "Halacha Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Stam Mishna",
+    "candidates": [
+      "Stam Mishna",
+      "Logic Problem",
+      "Single Seal",
+      "Permission Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly support the 'Stam Mishna' section: Item 1 quotes the closing mishna passage about jugs on the table and sealed barrels, and Item 2 is exactly the Gemara's question ('isn't it obvious?') and answer about whether the final clause is stam or a continuation of Rabban Shimon ben Gamliel \u2014 precisely what the prose in candidate 0 describes.",
+      "chosen_heading": "Stam Mishna",
+      "current_heading": "Stam Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Permission Challenge",
+    "candidates": [
+      "Logic Problem",
+      "Single Seal",
+      "Permission Challenge",
+      "Siphon Method",
+      "Hole Authorities",
+      "Wood Plank Risk",
+      "Owner Inspection",
+      "Seal vs. Delivery",
+      "Minhag Olam",
+      "Wood vs. Pottery",
+      "Vessel Recognition",
+      "Multi-Layer Seal",
+      "Signature Seal",
+      "Goy Prostitute",
+      "Control Determinant",
+      "Separate Sins",
+      "Jewish Prostitute",
+      "Follower Status",
+      "Patron Control Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's logical question about why wine cannot be left with gentiles given the two established rulings, which matches heading 0 ('Logic Problem') whose prose explicitly describes this exact question arising from the combination of Rabban Shimon ben Gamliel's and Rabbi Eliezer's rulings.",
+      "chosen_heading": "Logic Problem",
+      "current_heading": "Permission Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Patron Control Logic",
+    "candidates": [
+      "Siphon Method",
+      "Hole Authorities",
+      "Wood Plank Risk",
+      "Owner Inspection",
+      "Seal vs. Delivery",
+      "Minhag Olam",
+      "Wood vs. Pottery",
+      "Vessel Recognition",
+      "Multi-Layer Seal",
+      "Signature Seal",
+      "Goy Prostitute",
+      "Control Determinant",
+      "Separate Sins",
+      "Jewish Prostitute",
+      "Follower Status",
+      "Patron Control Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "Both items together present Rava's complete ruling about the gentile prostitute with Jewish patrons (item 1) and the Jewish prostitute with gentile patrons (item 2), which is the striking scenario introduced under heading 10 'Goy Prostitute' \u2014 the current placement under 'Patron Control Logic' (15) is too late, as the passage contains the full Gemara text that headings 10-15 collectively discuss.",
+      "chosen_heading": "Goy Prostitute",
+      "current_heading": "Patron Control Logic",
+      "moved": true
+    }
+  }
+]

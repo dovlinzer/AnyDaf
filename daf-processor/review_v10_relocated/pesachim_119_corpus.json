@@ -1,0 +1,545 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Fish & Exodus",
+    "candidates": [
+      "Hallel Intro",
+      "Fish & Exodus",
+      "Angel & Kishon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Natan's teaching that the fish of the sea recited the verse, connecting it to Rav Huna's statement about Israel's little faith at the sea \u2014 this is exactly what the 'Hallel Intro' prose describes as the new voice introduced after Gavriel, while 'Fish & Exodus' prose describes only the elaboration (Rav Huna and Rabba bar Mari's teachings) without the framing verse and Rabbi Natan attribution that opens this passage.",
+      "chosen_heading": "Hallel Intro",
+      "current_heading": "Fish & Exodus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Angel & Kishon",
+    "candidates": [
+      "Fish & Exodus",
+      "Angel & Kishon",
+      "Sisra Defeat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the exact exchange between God and the angel of the sea about spewing out the Egyptians, the gift-and-guarantor dialogue, and Israel seeing Egypt dead on the shore \u2014 precisely what the 'Angel & Kishon' prose describes in detail.",
+      "chosen_heading": "Angel & Kishon",
+      "current_heading": "Angel & Kishon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Sisra Defeat",
+    "candidates": [
+      "Sisra Defeat",
+      "Akeres Habayis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the defeat of Sisera \u2014 the comparison of chariots with Pharaoh, the stars heating the iron spears, and the Kishon River sweeping away the soldiers \u2014 which matches exactly the prose under 'Sisra Defeat'.",
+      "chosen_heading": "Sisra Defeat",
+      "current_heading": "Sisra Defeat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Akeres Habayis",
+    "candidates": [
+      "Akeres Habayis",
+      "Angels & Direct Action",
+      "Ahavti Ki Yishma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon ben Lakish's interpretation of 'moshivi akeres habayis' with Kneses Yisrael comparing herself to a creature dwelling in house crevices, which is exactly what the prose under heading 0 ('Akeres Habayis') describes in detail.",
+      "chosen_heading": "Akeres Habayis",
+      "current_heading": "Akeres Habayis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ahavti Ki Yishma",
+    "candidates": [
+      "Angels & Direct Action",
+      "Ahavti Ki Yishma",
+      "Nations Praise God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's exposition of 'ahavti ki yishma' and 'dalosi veli yehoshia,' which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Ahavti Ki Yishma",
+      "current_heading": "Ahavti Ki Yishma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Nations Praise God",
+    "candidates": [
+      "Nations Praise God",
+      "Future Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange between Rebbi and Rabbi Yishmael beRabbi Yosi about Psalm 117, which is precisely what the 'Nations Praise God' prose describes in detail.",
+      "chosen_heading": "Nations Praise God",
+      "current_heading": "Nations Praise God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Future Gifts",
+    "candidates": [
+      "Future Gifts",
+      "Rome Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Egypt and Kush bringing gifts to the Messiah, which is precisely what the 'Future Gifts' prose describes, covering both the Egypt acceptance and the Kush kal vachomer \u2014 the passage belongs under heading 0 where it currently sits.",
+      "chosen_heading": "Future Gifts",
+      "current_heading": "Future Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Rome Rejection",
+    "candidates": [
+      "Rome Rejection",
+      "Harugei Malchus",
+      "Pizar Amim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rome's a fortiori argument being rejected, the 'beast of the reeds' identified with the pig/Edom, and Rabbi \u1e24iyya bar Abba's interpretation about Rome's single-quill ledger of evil \u2014 are explicitly discussed in the 'Rome Rejection' prose, which covers exactly these three interpretations of 'ga'ar chayat kaneh' in sequence.",
+      "chosen_heading": "Rome Rejection",
+      "current_heading": "Rome Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Pizar Amim",
+    "candidates": [
+      "Harugei Malchus",
+      "Pizar Amim",
+      "Rome's Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both 'mitrapes be-ratzei chesef' (bribes/not following masters' will) AND 'pizer amim' (scattering due to desired intimacies), and the heading 'Harugei Malchus' prose explicitly discusses both phrases together in sequence, matching the passage's content exactly, while the current placement under 'Pizar Amim' only covers the second half.",
+      "chosen_heading": "Harugei Malchus",
+      "current_heading": "Pizar Amim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Rome's Wealth",
+    "candidates": [
+      "Pizar Amim",
+      "Rome's Wealth",
+      "Knowing Seats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly describe Rome's 365 markets/towers/floors full of food and the subsequent teaching that this wealth is stored for Torah scholars \u2014 exactly what the 'Rome's Wealth' prose section discusses.",
+      "chosen_heading": "Rome's Wealth",
+      "current_heading": "Rome's Wealth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Knowing Seats",
+    "candidates": [
+      "Knowing Seats",
+      "Sitrei vs Taamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the interpretation of 'who dwell before the Lord' \u2014 the storehouse/treasury distinction and Rabbi Elazar's explanations about knowing colleagues' seats and greeting them in the yeshiva \u2014 which is precisely what the 'Knowing Seats' prose section discusses.",
+      "chosen_heading": "Knowing Seats",
+      "current_heading": "Knowing Seats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Sitrei vs Taamei",
+    "candidates": [
+      "Sitrei vs Taamei",
+      "Maharsha Reasons",
+      "Lamnatzeach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between sitrei Torah and ta'amei Torah, which is precisely what the prose under heading 0 elaborates on.",
+      "chosen_heading": "Sitrei vs Taamei",
+      "current_heading": "Sitrei vs Taamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Lamnatzeach",
+    "candidates": [
+      "Maharsha Reasons",
+      "Lamnatzeach",
+      "God's Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Kahana/Rabbi Yishmael derasha on 'lamnatzeach' \u2014 God rejoicing when 'conquered' \u2014 which is precisely what the 'Lamnatzeach' section prose describes in detail.",
+      "chosen_heading": "Lamnatzeach",
+      "current_heading": "Lamnatzeach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "God's Hand",
+    "candidates": [
+      "God's Hand",
+      "Yosef's Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about God's hand stretched beneath the wings of the \u1e25ayyot to receive penitents, which is exactly what heading 0 ('God's Hand') discusses in its prose.",
+      "chosen_heading": "God's Hand",
+      "current_heading": "God's Hand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Yosef's Wealth",
+    "candidates": [
+      "Yosef's Wealth",
+      "Empire Succession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Joseph collecting the world's wealth into Egypt and Israel taking it out \u2014 are precisely what the 'Yosef's Wealth' prose describes, making the current placement the correct one.",
+      "chosen_heading": "Yosef's Wealth",
+      "current_heading": "Yosef's Wealth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Empire Succession",
+    "candidates": [
+      "Empire Succession",
+      "Three Treasures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items trace the journey of the treasure through successive empires (Rehoboam\u2192Shishak\u2192Zerah\u2192Asa\u2192Hadrimmon\u2192Ammon\u2192Jehoshaphat\u2192Ahaz\u2192Sennacherib\u2192Hezekiah\u2192Zedekiah\u2192Chaldeans\u2192Persians\u2192Greeks\u2192Romans), which is precisely what the 'Empire Succession' prose discusses in detail.",
+      "chosen_heading": "Empire Succession",
+      "current_heading": "Empire Succession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Three Treasures",
+    "candidates": [
+      "Three Treasures",
+      "Wealth Ruin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Joseph's three hidden treasures revealed to Korah, Antoninus, and reserved for the righteous, which is precisely what the 'Three Treasures' section prose discusses.",
+      "chosen_heading": "Three Treasures",
+      "current_heading": "Three Treasures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Wealth Ruin",
+    "candidates": [
+      "Wealth Ruin",
+      "300 Mules",
+      "David Stone",
+      "Verse Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Korach's wealth as 'riches to his ruin,' Rabbi Elazar on money standing a person on his feet, and Rabbi Levi's detail about the 300 mules carrying the keys \u2014 and the current heading's prose explicitly addresses all of this content together as a unified discussion of Korach's wealth and its consequences.",
+      "chosen_heading": "Wealth Ruin",
+      "current_heading": "Wealth Ruin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Verse Attribution",
+    "candidates": [
+      "300 Mules",
+      "David Stone",
+      "Verse Attribution",
+      "Hallel Drama",
+      "Custom Doubling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Gemara passage assigning specific hallel verses to David, Yishai, his brothers, and Samuel \u2014 which is precisely what the 'David Stone' prose introduces (the verse odecha, the stone rejected by builders said by Yishai, the challenge to David's legitimacy), making it a clearly better match than the current 'Verse Attribution' heading which actually summarizes the content of these very items as if they had already been quoted.",
+      "chosen_heading": "David Stone",
+      "current_heading": "Verse Attribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Custom Doubling",
+    "candidates": [
+      "Hallel Drama",
+      "Custom Doubling",
+      "Bracha Before"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Custom Doubling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('We learned there in Sukka: In a place where they were accustomed') is the opening of the custom/doubling discussion, matching heading 1's prose about minhag and doubling verses in hallel.",
+      "second_heading": "Bracha Before",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Abaye's ruling about the bracha before hallel and Shmuel's principle about all mitzvot requiring a prior bracha, which matches heading 2's prose about 'Bracha Before' and the same sources.",
+      "current_heading": "Custom Doubling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Bracha Before",
+    "candidates": [
+      "Bracha Before",
+      "Rabbi Doubling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about the meaning of 'over' as 'before' and the proofs from Rav Na\u1e25man bar Yitz\u1e25ak, Abaye, and a third version \u2014 exactly what the 'Bracha Before' prose describes in detail.",
+      "chosen_heading": "Bracha Before",
+      "current_heading": "Bracha Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rabbi Doubling",
+    "candidates": [
+      "Rabbi Doubling",
+      "Yigdal Hayeled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi doubling verses in hallel and Rabbi Elazar ben Parta adding repetitions, which exactly matches the 'Rabbi Doubling' section's prose about Rebbi's doubling and Rabbi Elazar ben Parta's extension of that doubling.",
+      "chosen_heading": "Rabbi Doubling",
+      "current_heading": "Rabbi Doubling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Yigdal Hayeled",
+    "candidates": [
+      "Yigdal Hayeled",
+      "Disqualifications"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Disqualifications",
+    "candidates": [
+      "Disqualifications",
+      "David Worthy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Moses and Joshua declining to lead the blessing, which directly corresponds to the 'Disqualifications' section's prose discussing these exact figures and their stated reasons for declining.",
+      "chosen_heading": "Disqualifications",
+      "current_heading": "Disqualifications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "David Worthy",
+    "candidates": [
+      "David Worthy",
+      "Repetition Concern",
+      "Hallel Status",
+      "Mishnah Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes David accepting the cup and declaring himself fitting to lead the blessing with the verse 'I will lift up the cup of salvation,' which is precisely what the 'David Worthy' section's prose discusses.",
+      "chosen_heading": "David Worthy",
+      "current_heading": "David Worthy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Mishnah Context",
+    "candidates": [
+      "Repetition Concern",
+      "Hallel Status",
+      "Mishnah Context",
+      "Afikoman Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah stating 'ein maftirin achar ha-Pesach afikoman,' which is precisely the text the 'Mishnah Context' section's prose introduces and analyzes in detail.",
+      "chosen_heading": "Mishnah Context",
+      "current_heading": "Mishnah Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Afikoman Meaning",
+    "candidates": [
+      "Afikoman Meaning",
+      "Afikoman Dessert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's interpretation of afikoman as prohibiting leaving one group to join another, which is precisely what the 'Afikoman Meaning' section's prose discusses.",
+      "chosen_heading": "Afikoman Meaning",
+      "current_heading": "Afikoman Meaning",
+      "moved": false
+    }
+  }
+]

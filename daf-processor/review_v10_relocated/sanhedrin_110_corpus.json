@@ -1,0 +1,489 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Mishnah: No Olam Haba",
+    "candidates": [
+      "Mishnah: No Olam Haba",
+      "Vatechas vs. Vayovdu",
+      "Aveidah Mitbakeshet",
+      "Bakesh Avdecha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah: No Olam Haba",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the spies (meraglim) having no share in the World-to-Come, which fits the opening 'Mishnah: No Olam Haba' section that introduces figures excluded from the World-to-Come.",
+      "second_heading": "Vatechas vs. Vayovdu",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is specifically about the assembly of Korah with the two-part verse reading (vatechas/vayovdu) and the Rabbi Akiva/Rabbi Eliezer dispute, which is precisely what the 'Vatechas vs. Vayovdu' prose describes.",
+      "current_heading": "Mishnah: No Olam Haba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Bakesh Avdecha",
+    "candidates": [
+      "Vatechas vs. Vayovdu",
+      "Aveidah Mitbakeshet",
+      "Bakesh Avdecha",
+      "Vayikach Korach",
+      "Names Interpreted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita contains both Rabbi Akiva's view (the two-clause interpretation of vatechas/vayovdu) and Rabbi Yehuda ben Beteira's response, making it a single unit that introduces both positions; candidate 0 ('Vatechas vs. Vayovdu') covers the full baraita as an introduction, while candidates 1 and 2 are the essay author's elaborations on each position separately \u2014 the quoted text itself belongs under the heading that opens the discussion of the whole baraita, which is candidate 0.",
+      "chosen_heading": "Vatechas vs. Vayovdu",
+      "current_heading": "Bakesh Avdecha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Names Interpreted",
+    "candidates": [
+      "Vayikach Korach",
+      "Names Interpreted",
+      "Yaakov's Pass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the word-play derashot on Korach's name and ancestral names (Yitzhar, Kehat, Levi) that candidate 1's prose describes in detail, making it the clear home for this text.",
+      "chosen_heading": "Names Interpreted",
+      "current_heading": "Names Interpreted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Yaakov's Pass",
+    "candidates": [
+      "Yaakov's Pass",
+      "Companions Analyzed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Yaakov's prayer to be excluded from association with the meraglim and Korach's assembly, which matches exactly the prose in candidate 0 ('Yaakov's Pass').",
+      "chosen_heading": "Yaakov's Pass",
+      "current_heading": "Yaakov's Pass",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Companions Analyzed",
+    "candidates": [
+      "Companions Analyzed",
+      "On's Wife Saves Him"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage interprets the names Dathan, Abiram, On, Peleth, and Ben Reuben \u2014 exactly what the 'Companions Analyzed' prose discusses in detail, covering each name's derivation and meaning.",
+      "chosen_heading": "Companions Analyzed",
+      "current_heading": "Companions Analyzed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "On's Wife Saves Him",
+    "candidates": [
+      "On's Wife Saves Him",
+      "Korach's Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the story of On ben Pelet's wife saving him \u2014 giving him wine, laying him inside, and sitting at the entrance with uncovered hair \u2014 which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "On's Wife Saves Him",
+      "current_heading": "On's Wife Saves Him",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Korach's Wife",
+    "candidates": [
+      "Korach's Wife",
+      "Nesi'ei Edah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly recount the words and actions of Korah's wife inciting Korah to rebellion, which is precisely what the 'Korach's Wife' prose section discusses in detail, including the techeilet argument and the concluding verse about wise and foolish women.",
+      "chosen_heading": "Korach's Wife",
+      "current_heading": "Korach's Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Nesi'ei Edah",
+    "candidates": [
+      "Nesi'ei Edah",
+      "Adultery Rumors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage expounds on the phrases describing the 250 men (nesi'ei edah, keri'ei moed, anshei shem), which is precisely what the 'Nesi'ei Edah' section's prose discusses.",
+      "chosen_heading": "Nesi'ei Edah",
+      "current_heading": "Nesi'ei Edah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Adultery Rumors",
+    "candidates": [
+      "Adultery Rumors",
+      "Machloket Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the suspicion of adultery against Moses and the jealousy/kinui process, which matches exactly the 'Adultery Rumors' section prose.",
+      "chosen_heading": "Adultery Rumors",
+      "current_heading": "Adultery Rumors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Machloket Prohibition",
+    "candidates": [
+      "Machloket Prohibition",
+      "Tzara'at Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Moses going to Dathan and Abiram, Reish Lakish's derivation that one may not perpetuate a dispute, and Rav's statement that doing so violates a prohibition \u2014 exactly the content described in the 'Machloket Prohibition' prose.",
+      "chosen_heading": "Machloket Prohibition",
+      "current_heading": "Machloket Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Tzara'at Punishment",
+    "candidates": [
+      "Tzara'at Punishment",
+      "Nachash Bite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about being fit for leprosy (tzara'at) through a gezeirah shavah, which matches exactly the prose under 'Tzara'at Punishment' describing this very derivation.",
+      "chosen_heading": "Tzara'at Punishment",
+      "current_heading": "Tzara'at Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Nachash Bite",
+    "candidates": [
+      "Nachash Bite",
+      "Cholek Al Rabo",
+      "Forms of Discord"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly about Rabbi Yosei's teaching that whoever disputes the reign of the house of David deserves to be bitten by a snake, with the zoheleth wordplay \u2014 precisely what the 'Nachash Bite' section's prose describes.",
+      "chosen_heading": "Nachash Bite",
+      "current_heading": "Nachash Bite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Forms of Discord",
+    "candidates": [
+      "Cholek Al Rabo",
+      "Forms of Discord",
+      "Osher Shamur",
+      "Mules of Korach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cholek Al Rabo",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rav Chisda's ruling on 'cholek al rabo' (disputing one's teacher) and Rav Chama's ruling on 'merivah', both of which are explicitly discussed in candidate 0's prose under 'Cholek Al Rabo'.",
+      "second_heading": "Forms of Discord",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Rabbi \u1e24anina bar Pappa's 'mitra'em' and Rabbi Abbahu's 'meharher' distinctions, which are explicitly discussed in candidate 1's prose under 'Forms of Discord'.",
+      "current_heading": "Forms of Discord",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Mules of Korach",
+    "candidates": [
+      "Osher Shamur",
+      "Mules of Korach",
+      "Yosef's Treasures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Reish Lakish interpretation of 'osher shamur' and the Rabbi Levi statement about the mules/keys, all as one continuous Talmudic unit, and the prose under heading 0 ('Osher Shamur') actually discusses all of this content including the mules detail, making it the better unified home for the entire passage.",
+      "chosen_heading": "Osher Shamur",
+      "current_heading": "Mules of Korach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Yosef's Treasures",
+    "candidates": [
+      "Mules of Korach",
+      "Yosef's Treasures",
+      "Magefah Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Joseph's three buried treasures revealed to Korah, Antoninus, and reserved for the righteous, which matches precisely the 'Yosef's Treasures' section prose discussing this same content.",
+      "chosen_heading": "Yosef's Treasures",
+      "current_heading": "Yosef's Treasures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Magefah Opinion",
+    "candidates": [
+      "Magefah Opinion",
+      "Both Punishments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's view that Korach was neither among the swallowed nor the burned, which is precisely what the 'Magefah Opinion' prose describes and analyzes.",
+      "chosen_heading": "Magefah Opinion",
+      "current_heading": "Magefah Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Both Punishments",
+    "candidates": [
+      "Both Punishments",
+      "Trope Reading",
+      "Gehennom Access"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita stating Korach was among both the burned and swallowed is exactly what the 'Both Punishments' section discusses, citing the same verses and the same textual argument.",
+      "chosen_heading": "Both Punishments",
+      "current_heading": "Both Punishments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Gehennom Access",
+    "candidates": [
+      "Trope Reading",
+      "Gehennom Access",
+      "Sons Survive",
+      "Rabbah's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's derasha on the creation of Gehinnom's entrance and the sun/moon ascending to zevul \u2014 are explicitly discussed together in the 'Gehennom Access' prose, which paraphrases both passages in sequence.",
+      "chosen_heading": "Gehennom Access",
+      "current_heading": "Gehennom Access",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rabbah's Story",
+    "candidates": [
+      "Sons Survive",
+      "Rabbah's Story",
+      "Repentance Song"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about the sons of Korah's place in Gehenna AND Rabbah bar bar Hana's full story including hearing 'Moses and his Torah are truth,' matching the prose of candidate 0 which introduces the baraita and begins unpacking it, while candidates 1 and 2 split the story artificially \u2014 the entire passage belongs under 'Sons Survive' which covers both the baraita and contextualizes the sons of Korah narrative.",
+      "chosen_heading": "Sons Survive",
+      "current_heading": "Rabbah's Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Repentance Song",
+    "candidates": [
+      "Rabbah's Story",
+      "Repentance Song",
+      "Midbar No Share",
+      "Akiva Excludes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Gehenna churning the souls every thirty days and them declaring 'Moses and his Torah are truth,' which matches exactly the prose in 'Repentance Song' where the merchant explains the thirty-day cycle and the repeated declaration.",
+      "chosen_heading": "Repentance Song",
+      "current_heading": "Repentance Song",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Akiva Excludes",
+    "candidates": [
+      "Midbar No Share",
+      "Akiva Excludes",
+      "Eliezer Includes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita establishing that the generation of the wilderness has no share in the World-to-Come with both proof verses, which matches heading 0's prose describing this exact content; the current placement under 'Akiva Excludes' splits what is a single baraita across two headings, but the full baraita including the second verse and Rabbi Akiva's attribution belongs together under 'Midbar No Share'.",
+      "chosen_heading": "Midbar No Share",
+      "current_heading": "Akiva Excludes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Eliezer Includes",
+    "candidates": [
+      "Akiva Excludes",
+      "Eliezer Includes",
+      "All Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Eliezer's inclusion of the Dor HaMidbar in olam haba with the prooftext from Psalms 50:5 and the reinterpretation of the oath 'in My anger,' which exactly matches the 'Eliezer Includes' section's prose discussion.",
+      "chosen_heading": "Eliezer Includes",
+      "current_heading": "Eliezer Includes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "All Generations",
+    "candidates": [
+      "All Generations",
+      "Return to Zion",
+      "Zechut Avot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Yehoshua ben Kor\u1e25a's interpretation that the verse refers to righteous people of all future generations (kol dor va-dor), which directly matches the 'All Generations' section's prose about this very reading.",
+      "chosen_heading": "All Generations",
+      "current_heading": "All Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Zechut Avot",
+    "candidates": [
+      "Return to Zion",
+      "Zechut Avot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage opens with Rabbi Shimon ben Menasya citing the 'redeemed of the Lord shall return to Zion' verse (matching heading 0's prose about that exact verse and argument), and then continues with Rabbi Yochanan's rejoinder \u2014 both parts form one continuous Talmudic exchange that is better anchored by the opening verse discussed under heading 0, though heading 1's prose also covers the Rabbi Yochanan portion.",
+      "chosen_heading": "Return to Zion",
+      "current_heading": "Zechut Avot",
+      "moved": true
+    }
+  }
+]

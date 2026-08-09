@@ -34,7 +34,7 @@
           "timestamp": "02:40"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -103,7 +103,7 @@
           "timestamp": "19:19"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -555,5 +555,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "30:40",
+  "amud_b_micro_title": "Winter Dirty Q",
+  "shiur_start_daf": 17,
+  "shiur_start_amud": "b"
 }

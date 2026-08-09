@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Mikvah Story",
+    "candidates": [
+      "One vs. Two Witnesses",
+      "Rava's Principle",
+      "Mikvah Story",
+      "Kohen Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with 'mina meimra' \u2014 exactly the phrase candidate 1's prose describes \u2014 and introduces the Diskim mikvah baraita as the source for Rava's principle, which is precisely what candidate 1 says: 'The Gemara opens with mina meimra \u2014 where do we derive this? \u2014 and points to a mishnah.'",
+      "chosen_heading": "Rava's Principle",
+      "current_heading": "Mikvah Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Kohen Analogy",
+    "candidates": [
+      "Mikvah Story",
+      "Kohen Analogy",
+      "Baal Mum Analogy",
+      "Contested Testimony",
+      "Uncontested Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Tarfon's analogy of the ben gerushah/ben chalutzah and Rabbi Akiva's counter-analogy of the baal mum, which corresponds exactly to the 'Kohen Analogy' section's prose discussing Rabbi Tarfon's mashal and Rabbi Akiva's response \u2014 the 'Baal Mum Analogy' heading's prose discusses Rabbi Akiva's further elaboration and distinctions beyond the initial analogies.",
+      "chosen_heading": "Kohen Analogy",
+      "current_heading": "Kohen Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Uncontested Testimony",
+    "candidates": [
+      "Baal Mum Analogy",
+      "Contested Testimony",
+      "Uncontested Testimony",
+      "Kohen Ben Gerusha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Baal Mum Analogy",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the baraita itself (Rabbi Tarfon's challenge, Rabbi Akiva's two arguments, and Rabbi Tarfon's capitulation), which the 'Baal Mum Analogy' prose describes in detail.",
+      "second_heading": "Contested Testimony",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 are the Gemara's analysis of the baraita asking 'in what circumstances does one witness suffice for baal mum' and the Rava/Abaye dispute, which maps precisely onto the 'Contested Testimony' prose.",
+      "current_heading": "Uncontested Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Kohen Ben Gerusha",
+    "candidates": [
+      "Uncontested Testimony",
+      "Kohen Ben Gerusha",
+      "No Aveirah Rule",
+      "Paternal Descent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Kohen Ben Gerusha' explicitly discusses the exact derivations appearing in all four items \u2014 the validity of past avodah for ben gerushah/ben chalutzah from the Pinchas verse, Shmuel's father's reading of 'barech Hashem cheilo', Rabbi Yannai's proof from 'u'vata el hakohen', and the baal mum's invalid avodah from 'briti shalom' with the vav ketia \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Kohen Ben Gerusha",
+      "current_heading": "Kohen Ben Gerusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Paternal Descent",
+    "candidates": [
+      "No Aveirah Rule",
+      "Paternal Descent",
+      "Aveirah Rule",
+      "Forbidden Marriages",
+      "Mamzer Status",
+      "No Kiddushin/Mamzer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Aveirah Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the Mishnah articulating the 'no aveirah' principle with its illustrative case, matching heading 0's prose which describes exactly this general principle and its examples.",
+      "second_heading": "Aveirah Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the second half of the Mishnah \u2014 the 'yesh aveirah' rule where the child follows the flawed parent \u2014 which matches heading 2's prose describing precisely this continuation of the Mishnah and its principle of holech achar hapagum.",
+      "current_heading": "Paternal Descent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "No Kiddushin/Mamzer",
+    "candidates": [
+      "Aveirah Rule",
+      "Forbidden Marriages",
+      "Mamzer Status",
+      "No Kiddushin/Mamzer",
+      "Matrilineal Descent",
+      "Shimon's Challenge",
+      "Ger-Mamzeret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the mamzer case (no kiddushin with this man but possible with others) and the matrilineal descent case (no kiddushin with anyone), which spans both heading 3 and 4, but the current placement under 'No Kiddushin/Mamzer' is correct since that heading's prose explicitly notes it addresses both clauses of this mishnaic passage, and heading 4 covers only the final sub-category already handled by the same mishnaic text.",
+      "chosen_heading": "No Kiddushin/Mamzer",
+      "current_heading": "No Kiddushin/Mamzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Ger-Mamzeret",
+    "candidates": [
+      "Matrilineal Descent",
+      "Shimon's Challenge",
+      "Ger-Mamzeret",
+      "Rabbi Yehuda's View",
+      "Kol Makom Inclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimon's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shimon's opening challenge to the mishnah's principle, which exactly matches heading 1 ('Shimon's Challenge') whose prose describes Rabbi Shimon asking 'klala hu?' \u2014 is this really a complete rule.",
+      "second_heading": "Ger-Mamzeret",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the ger-mamzeret case and Rabbi Yose's baraita as the substance of the challenge, then Rabbi Yochanan's response invoking Rabbi Yehuda \u2014 the current placement under 'Ger-Mamzeret' (index 2) captures the challenge content, though the resolution properly belongs under index 3; since both items 2's challenge and resolution are one continuous exchange, index 2 is the better single home for item 2 as the challenge opens there.",
+      "current_heading": "Ger-Mamzeret",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Kol Makom Inclusion",
+    "candidates": [
+      "Rabbi Yehuda's View",
+      "Kol Makom Inclusion",
+      "Chalal Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's hermeneutical moves regarding 'kol makom' (to include unlisted cases) and 'eizu zu' (to exclude), which is precisely what the 'Kol Makom Inclusion' prose section discusses.",
+      "chosen_heading": "Kol Makom Inclusion",
+      "current_heading": "Kol Makom Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Chalal Case",
+    "candidates": [
+      "Chalal Case",
+      "Framing Problem",
+      "Mitzri Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the chalal/chalala cases and why they cannot be explicitly listed in the mishnah's formulation, which is precisely what the 'Chalal Case' prose describes.",
+      "chosen_heading": "Chalal Case",
+      "current_heading": "Chalal Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Mitzri Generations",
+    "candidates": [
+      "Framing Problem",
+      "Mitzri Generations",
+      "Converting Nations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Items 1\u20132 fit the 'Mitzri Generations' heading (Rabba bar bar \u1e24ana's ruling and the Rav Dimi complication), items 3\u20134 fit 'Converting Nations' (Ravin's ruling on mixed-nation converts), but items 5\u20137 synthesize both topics together under the Rabbi Yehuda vs. Rabbi Yosei framework that the 'Mitzri Generations' prose already anticipates, and since the current placement is 'Mitzri Generations' and the passage is one continuous chain of argument, the current placement is retained.",
+      "chosen_heading": "Mitzri Generations",
+      "current_heading": "Mitzri Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Converting Nations",
+    "candidates": [
+      "Converting Nations",
+      "Category Resolution",
+      "Tribal Paternity",
+      "Cana'anite Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ravin's tradition about nations who convert and following the more flawed lineage, which is precisely what the 'Converting Nations' section's prose describes.",
+      "chosen_heading": "Converting Nations",
+      "current_heading": "Converting Nations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Cana'anite Status",
+    "candidates": [
+      "Category Resolution",
+      "Tribal Paternity",
+      "Cana'anite Status",
+      "Slavery Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks precisely 'from where do we know that a child born to a Canaanite woman by a foreign (non-Canaanite) father may be purchased as a slave,' which matches exactly the prose of candidate 2 describing the Gemara's question about the slave-purchase permission turning on national identity when a foreign father and Canaanite mother produce a child.",
+      "chosen_heading": "Cana'anite Status",
+      "current_heading": "Cana'anite Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Slavery Proofs",
+    "candidates": [
+      "Slavery Proofs",
+      "Reverse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the case of a Canaanite slave who fathers a child with a non-Canaanite maidservant and whether that child can be purchased as a slave \u2014 precisely the 'reverse case' described in candidate 1's prose, which explicitly addresses a Kena'ani man fathering a child with a non-Kena'ani woman and the distinction between those born in the land versus those merely residing there.",
+      "chosen_heading": "Reverse Case",
+      "current_heading": "Slavery Proofs",
+      "moved": true
+    }
+  }
+]

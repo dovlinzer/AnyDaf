@@ -1,0 +1,352 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "R. Meir Position",
+    "candidates": [
+      "Rabbinic Innovation",
+      "One vs. One/Two",
+      "Ulla vs. R. Nechemiah",
+      "Two Co-wives",
+      "Co-wife Excluded",
+      "Died vs. Murdered",
+      "R. Meir Position",
+      "R. Yehuda & Shimon",
+      "Shimshon Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Co-wives",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 open with 'MISHNA:' and present the mishnaic cases of co-wives \u2014 one saying 'died'/other saying 'did not die', and one saying 'died'/other saying 'murdered' \u2014 which is precisely what candidate 3 ('Two Co-wives') describes as the mishna at the bottom of 117b.",
+      "second_heading": "R. Yehuda & Shimon",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives the ruling that when one woman says 'he died' and another says 'he did not die' she may not marry, which matches candidate 7 ('R. Yehuda & Shimon') only loosely, but more precisely this closing line of the mishna belongs under candidate 5 ('Died vs. Murdered') or the current section \u2014 however the clearest structural match for the final ruling about 'woman says died / woman says did not die \u2192 may not marry' is the tail end of the mishna unit, and candidate 7's prose about both affirming death is the next section after the 'died vs. murdered' dispute that item 3 concludes.",
+      "current_heading": "R. Meir Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Shimshon Analogy",
+    "candidates": [
+      "R. Yehuda & Shimon",
+      "Shimshon Analogy",
+      "First Wife Marries",
+      "Elazar vs. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the diyuk/challenge/answer sequence about why the mishna said 'he did not die' and the Shimshon analogy, which is precisely what the 'Shimshon Analogy' section's prose describes.",
+      "chosen_heading": "Shimshon Analogy",
+      "current_heading": "Shimshon Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Elazar vs. Yochanan",
+    "candidates": [
+      "First Wife Marries",
+      "Elazar vs. Yochanan",
+      "Co-wife Claim Void"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why Rabbi Meir doesn't disagree in the first clause, Rabbi Elazar's answer (bemachloket shenuya, attributed to Rabbi Yehuda and Rabbi Shimon), and Rabbi Yochanan's answer (afilu teima Rabbi Meir, since 'he did not die' is not contradictory testimony) \u2014 exactly what the 'Elazar vs. Yochanan' prose describes.",
+      "chosen_heading": "Elazar vs. Yochanan",
+      "current_heading": "Elazar vs. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Co-wife Claim Void",
+    "candidates": [
+      "Co-wife Claim Void",
+      "Classic Case",
+      "R. Tarfon & Akiva",
+      "Father-in-law Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the difficulty for Rabbi Yochanan from the mishna case where one witness/woman says 'died' and another says 'did not die,' and ends with 'kashya' \u2014 this is precisely the content discussed in the 'Co-wife Claim Void' prose, which explicitly addresses this difficulty for Rabbi Yochanan and acknowledges the 'kashya.'",
+      "chosen_heading": "Co-wife Claim Void",
+      "current_heading": "Co-wife Claim Void",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Father-in-law Case",
+    "candidates": [
+      "Classic Case",
+      "R. Tarfon & Akiva",
+      "Father-in-law Case",
+      "Both Cases Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "R. Tarfon & Akiva",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 contain the Mishna presenting the classic co-wife case and the father-in-law case with the Rabbi Tarfon/Akiva dispute, matching heading 'R. Tarfon & Akiva' which describes exactly these cases and this dispute.",
+      "second_heading": "Both Cases Needed",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are the Gemara explaining why both cases are necessary (the tzarat ha-gufa vs. ordinary animosity argument), which matches heading 'Both Cases Needed' precisely.",
+      "current_heading": "Father-in-law Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Both Cases Needed",
+    "candidates": [
+      "Father-in-law Case",
+      "Both Cases Needed",
+      "Uncertainty Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Both Cases Needed' explicitly describes both items: Rav Yehuda/Shmuel's ruling that halacha follows Rabbi Tarfon, Abaye's support from the mishna about overseas testimony, and the diyuk from 'chosheshin li-dvareha' versus 'ein chosheshin' for co-wife testimony \u2014 exactly matching both quoted items.",
+      "chosen_heading": "Both Cases Needed",
+      "current_heading": "Both Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Uncertainty Case",
+    "candidates": [
+      "Uncertainty Case",
+      "Hamotzi Framework",
+      "R. Tarfon Position",
+      "R. Akiva Position",
+      "Theft Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text introducing the uncertainty case of betrothing one of five women, which directly corresponds to the 'Uncertainty Case' section's prose that explains this exact scenario.",
+      "chosen_heading": "Uncertainty Case",
+      "current_heading": "Uncertainty Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Theft Scenario",
+    "candidates": [
+      "Hamotzi Framework",
+      "R. Tarfon Position",
+      "R. Akiva Position",
+      "Theft Scenario",
+      "Heightened Obligation",
+      "R. Shimon b. Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's ruling on both the kiddushin case (ein zo derech motzi mi-yedei aveirah, give a get and ketubah to each woman) and the theft case, but the R. Akiva Position prose explicitly discusses both his ruling and the parallel theft case it raises, making it the best fit; the 'Theft Scenario' heading's prose describes the theft case as a 'parallel case follows immediately,' suggesting it should be covered within the R. Akiva section rather than split off separately.",
+      "chosen_heading": "R. Akiva Position",
+      "current_heading": "Theft Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "R. Shimon b. Elazar",
+    "candidates": [
+      "Heightened Obligation",
+      "R. Shimon b. Elazar",
+      "Special Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous gemara passage introducing and analyzing Rabbi Shimon ben Elazar's baraita \u2014 exactly the content described in the 'R. Shimon b. Elazar' prose \u2014 which discusses how he distinguishes the cases of betrothal/purchase from intercourse/theft and raises the question of whose opinion the mishna reflects.",
+      "chosen_heading": "R. Shimon b. Elazar",
+      "current_heading": "R. Shimon b. Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Special Obligation",
+    "candidates": [
+      "Special Obligation",
+      "Husband Then Son",
+      "Son First Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the gemara's resolution about kiddushei bi'ah and theft cases, the issur d'Rabbanan vs issur d'Oraita distinction, and the kanis framing \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Special Obligation",
+      "current_heading": "Special Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Son First Claim",
+    "candidates": [
+      "Husband Then Son",
+      "Son First Claim",
+      "Brother-in-law Overseas",
+      "Overseas Events",
+      "Scope Limited"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Husband Then Son",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the mishna discussing a woman who left with her son, which matches candidate 0's prose about 'ha-isha she-halcha hi u-va'alah limdinat ha-yam u-vnah imahem' exactly.",
+      "second_heading": "Son First Claim",
+      "second_confidence": "medium",
+      "second_reason": "Items 2 and 3 continue the mishna with new cases (no son when left, then the yavam case), fitting candidate 1's prose about the childless woman whose credibility is limited, though Item 3 more precisely matches candidate 2.",
+      "current_heading": "Son First Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Scope Limited",
+    "candidates": [
+      "Brother-in-law Overseas",
+      "Overseas Events",
+      "Scope Limited",
+      "Get via Agent",
+      "Mezakeh Principle",
+      "Benefit vs. Harm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the mishna's ruling that she is not believed when she went overseas with her husband and yavam and reports both deaths \u2014 exactly the 'Overseas Events' section whose prose discusses *halchah hi u-va'alah ve-yavamah limdinat ha-yam* and the ruling of *einah ne'emenet*.",
+      "chosen_heading": "Overseas Events",
+      "current_heading": "Scope Limited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Benefit vs. Harm",
+    "candidates": [
+      "Get via Agent",
+      "Mezakeh Principle",
+      "Benefit vs. Harm",
+      "Fighting Couple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the gemara exchange described in candidate 2's prose \u2014 Rava's dilemma about benefit vs. harm (item 1) and Rav Na\u1e25man's answer from the mishna about \u1e25alitza (item 2) \u2014 which candidate 2 explicitly describes end-to-end.",
+      "chosen_heading": "Benefit vs. Harm",
+      "current_heading": "Benefit vs. Harm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Fighting Couple",
+    "candidates": [
+      "Fighting Couple",
+      "Two vs. Widow",
+      "Women Settle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the quarrel question and the Reish Lakish statement as a proposed resolution to that question, and the current heading's prose explicitly discusses both sides of the quarrel dilemma and the Reish Lakish idiom as the answer \u2014 the passage is correctly placed under 'Fighting Couple' which encompasses the full unit of discourse.",
+      "chosen_heading": "Fighting Couple",
+      "current_heading": "Fighting Couple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Women Settle",
+    "candidates": [
+      "Two vs. Widow",
+      "Women Settle",
+      "Adultery Reversal",
+      "Modern Issues"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Women Settle",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers Abaye and Rav Pappa's sayings about women settling for inadequate husbands, which matches the 'Women Settle' prose exactly.",
+      "second_heading": "Adultery Reversal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Ashi's saying plus the braita about adultery ('ve-kullan mezanot'), which is precisely what the 'Adultery Reversal' prose describes as a dramatic reversal of the preceding theme.",
+      "current_heading": "Women Settle",
+      "moved": true
+    }
+  }
+]

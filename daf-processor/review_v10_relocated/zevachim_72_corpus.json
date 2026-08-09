@@ -1,0 +1,134 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Logic of Bitul",
+    "candidates": [
+      "Daf Overview",
+      "Why No Bitul",
+      "Kol vs. Et Shedarko",
+      "Watermelons vs. Cars",
+      "Logic of Bitul",
+      "People & Identity",
+      "Fenugreek Bundles",
+      "Rabbi Meir's Position",
+      "Sages & Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's direct debate over *kol shedarko limanot* vs. *et shedarko limanot* and the cited Mishnah from Orla about fenugreek bundles that illustrates that dispute \u2014 exactly what candidate 2 ('Kol vs. Et Shedarko') describes in its prose.",
+      "chosen_heading": "Kol vs. Et Shedarko",
+      "current_heading": "Logic of Bitul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Sages & Rabbi Akiva",
+    "candidates": [
+      "People & Identity",
+      "Fenugreek Bundles",
+      "Rabbi Meir's Position",
+      "Sages & Rabbi Akiva",
+      "Tosafot's Question",
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Problem for Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the Mishnah's enumeration of the six/seven items that resist bitul according to the Sages and Rabbi Akiva, along with the orla/kilayim distinction \u2014 exactly what the 'Sages & Rabbi Akiva' prose section describes.",
+      "chosen_heading": "Sages & Rabbi Akiva",
+      "current_heading": "Sages & Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Problem for Yochanan",
+    "candidates": [
+      "Tosafot's Question",
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Problem for Yochanan",
+      "Pressed Figs Case",
+      "Eliezer vs. Yehoshua"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Yochanan",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the amoraic dispute between Rabbi Yochanan and Reish Lakish and the problem posed for Rabbi Yochanan's position, which matches heading 1 ('Rabbi Yochanan') and heading 3 ('Problem for Yochanan') \u2014 but since items 1 and 2 together span the dispute introduction through the problem, and the current placement is heading 3 which covers the problem, items 1-2 are better placed under heading 1 which introduces the Rabbi Yochanan/Reish Lakish dispute.",
+      "second_heading": "Pressed Figs Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the ruling that any counted item cannot be nullified even rabbinically, which is precisely Rav Papa's resolution via the litra ketziot tana described in heading 4 ('Pressed Figs Case').",
+      "current_heading": "Problem for Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Eliezer vs. Yehoshua",
+    "candidates": [
+      "Pressed Figs Case",
+      "Eliezer vs. Yehoshua",
+      "Shedarko Limanot",
+      "No Fixed Location",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Eliezer vs. Yehoshua",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 present Rabbi Meir's version of the Eliezer/Yehoshua dispute (the baraita's first three cases and Rabbi Meir's reporting of both positions), which matches exactly the 'Eliezer vs. Yehoshua' prose describing Rabbi Meir's account of the debate over barrel-tops.",
+      "second_heading": "Shedarko Limanot",
+      "second_confidence": "high",
+      "second_reason": "Items 4\u20136 present Rabbi Yehuda's version of the dispute \u2014 including Rabbi Yehoshua's ruling that even 300 openings cannot nullify the figs and the concluding case where there is no fixed location \u2014 which matches the 'Shedarko Limanot' and 'No Fixed Location' prose sections, with items 4\u20135 under 'Shedarko Limanot' and item 6 under 'No Fixed Location'; since the split must be at one point, splitting after item 3 places Rabbi Yehuda's entire account (items 4\u20136) after the seam, and the best single heading for that group is 'Shedarko Limanot' (index 2) which covers Rabbi Yehuda's version including the 300-openings ruling.",
+      "current_heading": "Eliezer vs. Yehoshua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "Shedarko Limanot",
+      "No Fixed Location",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's statement that living creatures are significant and not nullified, which directly matches the 'Rava's Solution' prose discussing how even the Rabbis agree that ba'alei chayyim chashuvin velo batlin \u2014 the exact content of this Gemara excerpt.",
+      "chosen_heading": "Rava's Solution",
+      "current_heading": "Rava's Solution",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna: Crop Changes",
+    "candidates": [
+      "Mishna: Crop Changes",
+      "RSbG: Contract Compliance",
+      "Chisda's Challenge",
+      "No Deception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text describes the rules about crop substitution by a tenant farmer \u2014 exactly what the 'Mishna: Crop Changes' prose section discusses, including the specific barley/wheat and grain/legume distinctions.",
+      "chosen_heading": "Mishna: Crop Changes",
+      "current_heading": "Mishna: Crop Changes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "No Deception",
+    "candidates": [
+      "RSbG: Contract Compliance",
+      "Chisda's Challenge",
+      "No Deception",
+      "Purim Collections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24isda's question about Rabban Shimon ben Gamliel's rationale and its answer from the verse in Zephaniah, which directly corresponds to the 'Chisda's Challenge' section that describes Rav Chisda asking this exact question and the reasoning behind RSbG's position.",
+      "chosen_heading": "Chisda's Challenge",
+      "current_heading": "No Deception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Purim Collections",
+    "candidates": [
+      "No Deception",
+      "Purim Collections",
+      "Field Rotation Damage",
+      "Plowing & Soil Care"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Purim Collections",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the Purim collection baraita and Rabban Shimon ben Gamliel's lenient position, which exactly matches the 'Purim Collections' prose describing the meitivi challenge and RSbG's leniency.",
+      "second_heading": "Field Rotation Damage",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's explanation of RSbG's reason via the field-rotation teaching, which exactly matches the 'Field Rotation Damage' prose about Abaye invoking Rabbah's teaching on planting wheat one year and barley the next to explain RSbG's strictness.",
+      "current_heading": "Purim Collections",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Plowing & Soil Care",
+    "candidates": [
+      "Field Rotation Damage",
+      "Plowing & Soil Care",
+      "Bavel vs. EY Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the qualification about plowing and repeating plowing (dela keriv utnei / keriv utnei), which is the precise topic of the 'Plowing & Soil Care' section's prose.",
+      "chosen_heading": "Plowing & Soil Care",
+      "current_heading": "Plowing & Soil Care",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Bavel vs. EY Ruling",
+    "candidates": [
+      "Bavel vs. EY Ruling",
+      "Rain vs. Irrigation",
+      "Hardened Cress"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records the Rav Yehuda/Ravin exchange about the contradictory rulings and the 'ha lan ve'ha le'hu' resolution, which is precisely what heading 0 ('Bavel vs. EY Ruling') describes in its prose.",
+      "chosen_heading": "Bavel vs. EY Ruling",
+      "current_heading": "Bavel vs. EY Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Hardened Cress",
+    "candidates": [
+      "Rain vs. Irrigation",
+      "Hardened Cress",
+      "Cress Damages Flax",
+      "Shared Orchard Saying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 cress among flax (no theft) vs. cress on boundary (theft) and cress hardened with seed (theft even among flax) \u2014 are precisely what the 'Hardened Cress' prose describes, including the mai de'afsidei afsidei conclusion.",
+      "chosen_heading": "Hardened Cress",
+      "current_heading": "Hardened Cress",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Shared Orchard Saying",
+    "candidates": [
+      "Cress Damages Flax",
+      "Shared Orchard Saying",
+      "Border Planting",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the interaction between Rav Yehuda and Ravin regarding neighboring fields and leaning trees, which is precisely what the 'Shared Orchard Saying' prose describes with the same key phrases (hanei diley dilakh, nehog benei metzar, ilan ha-noteh le-khan).",
+      "chosen_heading": "Shared Orchard Saying",
+      "current_heading": "Shared Orchard Saying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Border Planting",
+      "Rav vs. Shmuel",
+      "Baraita Support",
+      "Metzer Definition",
+      "Rashi: Roots & Fruit",
+      "Tosafot: Shared Space",
+      "Reconciling Views",
+      "Rav's Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the exact Rav vs. Shmuel dispute about a tree on the border (metzar), which is precisely what the 'Rav vs. Shmuel' section's prose describes.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rav's Exception",
+    "candidates": [
+      "Baraita Support",
+      "Metzer Definition",
+      "Rashi: Roots & Fruit",
+      "Tosafot: Shared Space",
+      "Reconciling Views",
+      "Rav's Exception",
+      "Cutting Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual text of the meitivi objection and Shmuel's interpretive response, which is precisely what the 'Baraita Support' section's prose describes \u2014 a tiyuvta de'Rav followed by tirgeman Shmuel aliba de'Rav.",
+      "chosen_heading": "Baraita Support",
+      "current_heading": "Rav's Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Cutting Method",
+    "candidates": [
+      "Rav's Exception",
+      "Cutting Method",
+      "City Proximity",
+      "Harvest Field Access"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses 'ei hachi mai lemimra' and 'lo tzricha d'tali t'unei l'chad gisa,' which are explicitly quoted and explained in the prose of candidate 0 ('Rav's Exception'), not candidate 1 which discusses the cutting method geometry.",
+      "chosen_heading": "Rav's Exception",
+      "current_heading": "Cutting Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Harvest Field Access",
+    "candidates": [
+      "City Proximity",
+      "Harvest Field Access",
+      "Deuteronomy Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the advice not to buy land near a town (the 'City Proximity' topic) and then provides the supporting ruling about standing in a neighbor's field as the reason \u2014 the entire passage belongs under 'City Proximity,' not split under 'Harvest Field Access.'",
+      "chosen_heading": "City Proximity",
+      "current_heading": "Harvest Field Access",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Deuteronomy Blessings",
+    "candidates": [
+      "Harvest Field Access",
+      "Deuteronomy Blessings",
+      "Alternative Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exchange in which Rabbi Abba asks Rav's students about the Deuteronomy blessing verses and receives Rav's interpretations \u2014 exactly what the 'Deuteronomy Blessings' prose describes.",
+      "chosen_heading": "Deuteronomy Blessings",
+      "current_heading": "Deuteronomy Blessings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Alternative Blessing",
+    "candidates": [
+      "Alternative Blessing",
+      "Walled City Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rabbi Yo\u1e25anan's alternative interpretation of the blessing verses (bathroom near table, property divided in thirds, exit without sin), which is precisely what the 'Alternative Blessing' prose describes.",
+      "chosen_heading": "Alternative Blessing",
+      "current_heading": "Alternative Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Walled City Distinction",
+    "candidates": [
+      "Walled City Distinction",
+      "Rav: Evil Eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage resolves the tension about walled vs. unwalled cities using the wall/ritka distinction, which is precisely what the 'Walled City Distinction' prose describes.",
+      "chosen_heading": "Walled City Distinction",
+      "current_heading": "Walled City Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rav: Evil Eye",
+    "candidates": [
+      "Rav: Evil Eye",
+      "Shmuel: Wind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's interpretation that 'all sickness' refers to the evil eye and his graveyard investigation finding 99 of 100 deaths caused by the evil eye, which perfectly matches the 'Rav: Evil Eye' section's prose.",
+      "chosen_heading": "Rav: Evil Eye",
+      "current_heading": "Rav: Evil Eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Shmuel: Wind",
+    "candidates": [
+      "Shmuel: Wind",
+      "Chanina: Cold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Shmuel's view that wind causes all illness, directly matching the 'Shmuel: Wind' section's prose about hakol be'ruach and the objection/response regarding those executed by the monarchy.",
+      "chosen_heading": "Shmuel: Wind",
+      "current_heading": "Shmuel: Wind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Chanina: Cold",
+    "candidates": [
+      "Chanina: Cold",
+      "Yosi: Excretions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi \u1e24anina's statement about cold (tzina) and the principle that everything is in Heaven's hands except cold and heat, which exactly matches the 'Chanina: Cold' section's prose.",
+      "chosen_heading": "Chanina: Cold",
+      "current_heading": "Chanina: Cold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Yosi: Excretions",
+    "candidates": [
+      "Yosi: Excretions",
+      "Elazar: Bile",
+      "Bile Diseases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei bar \u1e24anina's statement about excrement (tzoah) of the nose and ear, which matches exactly the prose under 'Yosi: Excretions' describing his view that choli refers to bodily excretions and the ruling about nasal/ear discharge.",
+      "chosen_heading": "Yosi: Excretions",
+      "current_heading": "Yosi: Excretions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Bile Diseases",
+    "candidates": [
+      "Elazar: Bile",
+      "Bile Diseases",
+      "First Benefits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage begins with Rabbi Elazar's statement about the gall bladder and then includes the baraita support and the morning bread remedy all as one continuous unit, making heading 0 ('Elazar: Bile') a slightly better fit since it introduces Rabbi Elazar's view \u2014 though the baraita content and 83 diseases detail aligns well with heading 1, the passage flows as a single unit starting with Rabbi Elazar's statement.",
+      "chosen_heading": "Elazar: Bile",
+      "current_heading": "Bile Diseases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "First Benefits",
+    "candidates": [
+      "First Benefits",
+      "More Benefits",
+      "Jealousy & Love",
+      "Running Speed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "First Benefits",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the first set of benefits (protection, wisdom, judgment, Torah study, words heard, learning retained) which matches heading 0's prose enumerating those exact items.",
+      "second_heading": "More Benefits",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the remaining physical/relational benefits (no excess sweat, fidelity, kills lice, removes jealousy/brings love) which matches heading 1's prose listing those exact remaining benefits.",
+      "current_heading": "First Benefits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Running Speed",
+    "candidates": [
+      "More Benefits",
+      "Jealousy & Love",
+      "Running Speed",
+      "Seasonal Eating",
+      "Isaiah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the 'sixty runners' saying and the seasonal eating instruction, and candidate 2 ('Running Speed') covers the sixty runners idiom while candidate 3 ('Seasonal Eating') covers only the second half \u2014 but since the passage is a single unified Talmudic exchange and candidate 2's prose introduces the entire exchange (Rabbah citing to Rava bar Mari the popular saying), the current placement under 'Running Speed' is the best single heading for the whole passage.",
+      "chosen_heading": "Running Speed",
+      "current_heading": "Running Speed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Isaiah Source",
+    "candidates": [
+      "Seasonal Eating",
+      "Isaiah Source",
+      "Deuteronomy Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Isaiah 49:10 verse and explains the chain logic, which is precisely what the 'Isaiah Source' prose describes.",
+      "chosen_heading": "Isaiah Source",
+      "current_heading": "Isaiah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Deuteronomy Source",
+    "candidates": [
+      "Deuteronomy Source",
+      "Bread & Salt",
+      "Survey Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's derivation from Exodus 23:25 interpreting 'serve the Lord' as Shema and prayer, and 'bless your bread and water' as bread with salt and jug of water, which is exactly what the 'Deuteronomy Source' prose describes (noting the prose mistakenly calls it Deuteronomy when it's actually Exodus, but the content match is perfect).",
+      "chosen_heading": "Deuteronomy Source",
+      "current_heading": "Deuteronomy Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Survey Precision",
+    "candidates": [
+      "Bread & Salt",
+      "Survey Precision",
+      "Irrigation Zones",
+      "River Banks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the general surveying precision instruction and the irrigation channel/river bank rules together in one continuous Talmudic exchange, and the current heading 'Survey Precision' with its prose directly introduces this exact passage including the saffron example, while the subsequent headings break out sub-topics that are all contained within this single quoted text.",
+      "chosen_heading": "Survey Precision",
+      "current_heading": "Survey Precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "River Banks",
+    "candidates": [
+      "Irrigation Zones",
+      "River Banks",
+      "Barge Path Clearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly contrasts the four cubits of a channel (anigra) belonging to its residents versus the four cubits of a river (nahara) belonging to everyone, which is precisely the principle discussed in the 'River Banks' section prose about de'nahara de'chulei alma.",
+      "chosen_heading": "River Banks",
+      "current_heading": "River Banks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Barge Path Clearance",
+    "candidates": [
+      "Barge Path Clearance",
+      "Excessive Clearance",
+      "Public Domain Distinction",
+      "Neighbor Coordination",
+      "Self-First Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Ami's announcement about barge-path clearance AND the Rav Natan bar Hoshaya incident AND the gemara's rejection of the sixteen-cubit reasoning \u2014 all three elements are present in a single continuous text, and the current heading 'Barge Path Clearance' is where it sits, but actually the passage spans all three candidate headings 0-2; however since all items must go under ONE heading and the passage begins with Rabbi Ami's announcement (heading 0) and the current placement is heading 0, and the prose of heading 0 describes exactly the opening content while headings 1 and 2 separately describe the later parts of this same unified passage, the current placement at index 0 is the best single home for the complete passage.",
+      "chosen_heading": "Barge Path Clearance",
+      "current_heading": "Barge Path Clearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Self-First Principle",
+    "candidates": [
+      "Excessive Clearance",
+      "Public Domain Distinction",
+      "Neighbor Coordination",
+      "Self-First Principle",
+      "Practical Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabba bar Rav Huna's forest on the riverbank and his response to cut only after neighbors above and below cut first, which is precisely what the 'Neighbor Coordination' prose describes, while the challenge from Reish Lakish's principle belongs under 'Self-First Principle' as a separate section.",
+      "chosen_heading": "Neighbor Coordination",
+      "current_heading": "Self-First Principle",
+      "moved": true
+    }
+  }
+]

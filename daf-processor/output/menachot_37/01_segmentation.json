@@ -63,8 +63,8 @@
           "timestamp": "04:40"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Scriptural Derivation: How Parashat Kadesh Excludes Both Night and Shabbat from the Time for Tefillin",
@@ -88,7 +88,7 @@
         }
       ],
       "sefaria_index": 1,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Ot (Sign) Framework: Why Shabbat and Yom Tov Themselves Serve as Signs, Making Separate Tefillin Obsolete",
@@ -208,7 +208,7 @@
           "timestamp": "36:32"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -242,8 +242,8 @@
           "timestamp": "43:48"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Placement on the Body: How Scriptural Comparisons Establish the Precise Location for Both Arm and Head Tefillin",
@@ -266,7 +266,7 @@
           "timestamp": "52:23"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -323,8 +323,8 @@
           "timestamp": "59:55"
         }
       ],
-      "sefaria_index": 13,
-      "matched": false
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -758,5 +758,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "47:08",
+  "amud_b_micro_title": "Two Heads",
+  "shiur_start_daf": 36,
+  "shiur_start_amud": "b"
 }

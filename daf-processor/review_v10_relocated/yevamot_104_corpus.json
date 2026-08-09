@@ -1,0 +1,388 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Rav Pappi/Pappa",
+    "candidates": [
+      "Bayit Hamusgar",
+      "Kitutei Mechatat",
+      "Rav Pappi/Pappa",
+      "House Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Pappa's ruling contrasting with Rav Pappi's, the objection from the mishna about bayit hamusgar/muchlat, and the elaboration about kitutei mechatat \u2014 are part of the single continuous Gemara discussion framed in the 'Rav Pappi/Pappa' section's prose, which explicitly describes Rav Pappa's position and the subsequent challenge from tzara'at house cases.",
+      "chosen_heading": "Rav Pappi/Pappa",
+      "current_heading": "Rav Pappi/Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "House Identity",
+    "candidates": [
+      "House Identity",
+      "Matlit Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the 'House Identity' section's prose, which discusses the same verse (venatatz et habayit) and the principle that a house retains its identity even during demolition within tzara'at law.",
+      "chosen_heading": "House Identity",
+      "current_heading": "House Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Matlit Garment",
+    "candidates": [
+      "Matlit Garment",
+      "Majority Entry",
+      "Muchlat Question",
+      "Seifa Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the question of whether the rag is muchletet or musgar and the Gemara's answer of 'No, musgar,' which is precisely what the 'Muchlat Question' section's prose describes.",
+      "chosen_heading": "Muchlat Question",
+      "current_heading": "Matlit Garment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Seifa Analysis",
+    "candidates": [
+      "Majority Entry",
+      "Muchlat Question",
+      "Seifa Analysis",
+      "Meit Parallel",
+      "Shani Hataim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Muchlat Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'eima seifa' challenge introduced by the Muchlat Question section's prose, which explicitly says 'let us look at the end of this braita' \u2014 and the Seifa Analysis prose describes exactly the content of Item 1 (the thick garment with several zeitim and the kezayit ruling).",
+      "second_heading": "Meit Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the muchlat/musgar resolution explaining why kezayit applies via the itkash la-meit comparison, which is precisely what the Meit Parallel prose discusses.",
+      "current_heading": "Seifa Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Shani Hataim",
+    "candidates": [
+      "Meit Parallel",
+      "Shani Hataim",
+      "Issur Tumah",
+      "Rava Hilchasa",
+      "AZ Distinctions",
+      "Ir Nidachas",
+      "Zakein Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the principle that 'even when being burned, it is still called a garment,' which is precisely what the 'Shani Hataim' section's prose describes and analyzes.",
+      "chosen_heading": "Shani Hataim",
+      "current_heading": "Shani Hataim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Zakein Issue",
+    "candidates": [
+      "Issur Tumah",
+      "Rava Hilchasa",
+      "AZ Distinctions",
+      "Ir Nidachas",
+      "Zakein Issue",
+      "Rav Papa Q",
+      "Beit Din Shoe",
+      "Night & Left"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Issur Tumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's answer 'issur mi-tumah lo gamrinan,' which corresponds exactly to candidate 0 'Issur Tumah' whose prose describes precisely this question and answer.",
+      "second_heading": "Rava Hilchasa",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are Rava's final halakhic ruling listing quarantined/confirmed/idolatry sandals (valid bedieved) and ir nidachas/zakein sandals (invalid even bedieved), which corresponds to candidate 1 'Rava Hilchasa' whose prose discusses Rava's direct ruling amar Rava hilchasa covering both the muchlat and the categories that follow.",
+      "current_heading": "Zakein Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Night & Left",
+    "candidates": [
+      "Rav Papa Q",
+      "Beit Din Shoe",
+      "Night & Left",
+      "Metzora Source"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 3,
+      "first_heading": "Rav Papa Q",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains Ravina's challenge to Rav Ashi about the beit din shoe versus the shroud shoe, matching Candidate 0 ('Rav Papa Q') which describes exactly this challenge about distinguishing the shroud shoe from the beit din's chalitza shoe.",
+      "second_heading": "Night & Left",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about chalitza at night and on the left foot, which matches Candidate 2 ('Night & Left') whose prose explicitly describes this Mishna's content.",
+      "third_heading": "Night & Left",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara discussion on night/left foot chalitza including the negaim comparison, Rabba bar Chiyya Katosfa'a narrative, and the metzora derivation for the right foot, all of which are discussed at length in Candidate 2's prose ('Night & Left'), with the final piece about regel/regel from metzora also covered there before Candidate 3 takes it up \u2014 however since the full segment including the Rabba bar Chiyya narrative and the regel/regel derivation both appear in Candidate 2's prose, it belongs there.",
+      "current_heading": "Night & Left",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Metzora Source",
+    "candidates": [
+      "Metzora Source",
+      "Position Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Elazar's gezeira shava of 'ear-ear' from metzora for ear-piercing, which is exactly what the 'Position Reversal' prose describes \u2014 the tension between Rabbi Eliezer rejecting the foot-metzora analogy yet using an ear-metzora analogy, leading to muchlefet hashita.",
+      "chosen_heading": "Position Reversal",
+      "current_heading": "Metzora Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Position Reversal",
+    "candidates": [
+      "Metzora Source",
+      "Position Reversal",
+      "Rava Gezeira",
+      "No Redundancy Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes 'muchlefet hashita' (the opinions are reversed), which is precisely what the 'Position Reversal' section's prose discusses \u2014 Rabbi Yosef bar Yosef/Yochanan reversing the positions to restore consistency to Rabbi Eliezer.",
+      "chosen_heading": "Position Reversal",
+      "current_heading": "Position Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "No Redundancy Q",
+    "candidates": [
+      "Rava Gezeira",
+      "No Redundancy Q",
+      "Chaltzah Verakeka",
+      "No Removal",
+      "No Spitting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rava's complete argument \u2014 item 1 is Rava's ruling that 'ear/ear' is free but 'foot/foot' is not, and item 2 is the immediate follow-up question and answer explaining why the non-redundancy of 'foot' is fatal to the gezeira shava \u2014 all of which is precisely what the 'Rava Gezeira shava' prose section describes, whereas the current placement ('No Redundancy Q') describes only item 2's content.",
+      "chosen_heading": "Rava Gezeira",
+      "current_heading": "No Redundancy Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "No Spitting",
+    "candidates": [
+      "Chaltzah Verakeka",
+      "No Removal",
+      "No Spitting",
+      "Acts Essential",
+      "To the Man"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishna covers all three components together (removal+spitting without recitation = valid; recitation+spitting without removal = invalid; removal+recitation without spitting = disputed), and heading 0 ('Chaltzah Verakeka') is where the Mishna text naturally begins, with its prose introducing exactly these three cases.",
+      "chosen_heading": "Chaltzah Verakeka",
+      "current_heading": "No Spitting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "To the Man",
+    "candidates": [
+      "Acts Essential",
+      "To the Man",
+      "Cheresh",
+      "Ketanah",
+      "Court Size",
+      "Private Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Eliezer's 'kol davar shehu maaseh me'akev' argument and Rabbi Akiva's rebuttal together, but the specific content \u2014 Rabbi Eliezer's reasoning about 'kakha ye'aseh' meaning any act is indispensable \u2014 is precisely what heading 0 ('Acts Essential') describes, and the current placement under 'To the Man' only covers Akiva's response, missing that this is a single exchange that the 'Acts Essential' prose introduces with Eliezer's argument first.",
+      "chosen_heading": "Acts Essential",
+      "current_heading": "To the Man",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Private Case",
+    "candidates": [
+      "Cheresh",
+      "Ketanah",
+      "Court Size",
+      "Private Case",
+      "Ileim Intellect",
+      "Intellect Challenge",
+      "Recitation Ability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishna passage covers all the chalitza invalidity cases starting with the deaf-mute (cheresh/chereshet) through the minor, court composition, and the prison incident \u2014 it belongs under the first heading 'Cheresh' where the full Mishna text is introduced, not under 'Private Case' which discusses only the final clause.",
+      "chosen_heading": "Cheresh",
+      "current_heading": "Private Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Recitation Ability",
+    "candidates": [
+      "Ileim Intellect",
+      "Intellect Challenge",
+      "Recitation Ability",
+      "Potential Test",
+      "Mincha Parallel",
+      "Spitting Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 2 ('Recitation Ability') discusses: Rava's initial ruling validating the mute person, the challenge from the house of Rabbi Yannai that disqualification is based on inability to recite ('omar ve-omrah'), the reversal of Rava's ruling to the latter clause, and the conclusion that the mute person's \u1e25alitza is invalid \u2014 all of which matches the prose of candidate 2 precisely.",
+      "chosen_heading": "Recitation Ability",
+      "current_heading": "Recitation Ability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Spitting Alone",
+    "candidates": [
+      "Potential Test",
+      "Mincha Parallel",
+      "Spitting Alone",
+      "Akiva Question",
+      "Two Acts",
+      "Eimurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly records the ruling sent to the father of Shmuel that a yevama who spat must perform full chalitza, which is precisely what the 'Spitting Alone' prose section describes.",
+      "chosen_heading": "Spitting Alone",
+      "current_heading": "Spitting Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148
+    ],
+    "current_heading": "Eimurim",
+    "candidates": [
+      "Akiva Question",
+      "Two Acts",
+      "Eimurim",
+      "Half Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the gemara's a fortiori argument against attributing this halakha to Rabbi Akiva \u2014 the eimurim analogy is embedded within that argument to show that even granting spitting could be me'akev when present, Rabbi Akiva still rules it non-indispensable, making it impossible for spitting alone to disqualify her \u2014 which matches the 'Akiva Question' prose precisely.",
+      "chosen_heading": "Akiva Question",
+      "current_heading": "Eimurim",
+      "moved": true
+    }
+  }
+]

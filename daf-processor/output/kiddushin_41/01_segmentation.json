@@ -336,7 +336,7 @@
           "timestamp": "55:03"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -365,7 +365,7 @@
           "timestamp": "60:47"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 17,
       "matched": true
     }
   ],
@@ -549,5 +549,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 13,
+  "amud_b_timestamp": "51:03",
+  "amud_b_micro_title": "Pesach Scenario",
+  "shiur_start_daf": 40,
+  "shiur_start_amud": "b"
 }

@@ -24,8 +24,8 @@
           "timestamp": "00:57"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of an Ox that Both Murdered and Caused Injury: Order of Judgment",
@@ -49,7 +49,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Why the Order Matters: Preventing Anguish to the Ox and Enabling Payment from Plowing",
@@ -106,8 +106,8 @@
           "timestamp": "11:23"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Is There an Assessment (Umdena) of the Damage-Causing Object in Cases of Injury?",
@@ -159,8 +159,8 @@
           "timestamp": "30:46"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Spitting and Shame (Boshet): The Nature of Direct Contact Required",
@@ -558,5 +558,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "43:14",
+  "amud_b_micro_title": "Embarrass Not Wound",
+  "shiur_start_daf": 90,
+  "shiur_start_amud": "b"
 }

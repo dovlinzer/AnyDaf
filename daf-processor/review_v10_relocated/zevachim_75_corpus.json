@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbi Yannai",
+    "candidates": [
+      "Opening",
+      "Mishna Overview",
+      "Disqualifications",
+      "Treifa Mystery",
+      "Rabbi Yannai",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the direct quote from the school of Rabbi Yannai about the thorn-pierced animal mixed with the wolf-clawed animal, which is precisely what the Rabbi Yannai section's prose discusses and explains.",
+      "chosen_heading": "Rabbi Yannai",
+      "current_heading": "Rabbi Yannai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "Rabbi Yirmiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's opinion about a fallen animal (nefulah) and the rules of me'et le'et and bedika, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rabbi Yirmiya",
+    "candidates": [
+      "Rabbi Yirmiya",
+      "Against Yannai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiya's statement about vlad treifa and Rabbi Eliezer's ruling, which is precisely what the prose under heading 0 ('Rabbi Yirmiya') discusses in detail.",
+      "chosen_heading": "Rabbi Yirmiya",
+      "current_heading": "Rabbi Yirmiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Against Yannai",
+    "candidates": [
+      "Against Yannai",
+      "Against Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why Reish Lakish and Rabbi Yirmiya reject Rabbi Yannai's answer (the wounds are distinguishable), which is precisely what the 'Against Yannai' section's prose describes.",
+      "chosen_heading": "Against Yannai",
+      "current_heading": "Against Yannai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Against Lakish",
+    "candidates": [
+      "Against Lakish",
+      "Against Yirmiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains exactly why Rabbi Yannai and Rabbi Yirmiya reject Reish Lakish's answer \u2014 because they hold the lenient position that standing/walking suffices \u2014 which is precisely what the 'Against Lakish' prose section discusses.",
+      "chosen_heading": "Against Lakish",
+      "current_heading": "Against Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Against Yirmiya",
+    "candidates": [
+      "Against Yirmiya",
+      "Kodashim Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states why Rabbi Yannai and Reish Lakish reject Rabbi Yirmiya's explanation \u2014 because it would require following Rabbi Eliezer's ruling \u2014 which matches directly the 'Against Yirmiya' section's prose about their principled rejection of Rabbi Yirmiya's answer on grounds of not holding like Rabbi Eliezer.",
+      "chosen_heading": "Against Yirmiya",
+      "current_heading": "Against Yirmiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Kodashim Principle",
+    "candidates": [
+      "Kodashim Principle",
+      "Semichah Problem",
+      "Rav Yosef",
+      "Baraita Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises exactly the semichah challenge ('ve-ha ba'ei semichah') that the 'Semichah Problem' section's prose explicitly describes, making it a clearly better fit than the 'Kodashim Principle' section which covers only the mishna's general rule.",
+      "chosen_heading": "Semichah Problem",
+      "current_heading": "Kodashim Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Baraita Cases",
+    "candidates": [
+      "Semichah Problem",
+      "Rav Yosef",
+      "Baraita Cases",
+      "Rava Interprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the continuous dispute beginning with Rav Yosef's statement (item 1) and Abaye's challenge via the baraita (items 2-5), which is precisely what heading 1 ('Rav Yosef') describes \u2014 Rav Yosef's claim about women's offerings and Abaye's challenge that the baraita discusses men's offerings, undermining that claim.",
+      "chosen_heading": "Rav Yosef",
+      "current_heading": "Baraita Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Rava Interprets",
+    "candidates": [
+      "Baraita Cases",
+      "Rava Interprets",
+      "Rabbi's Volume Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rava's analysis of the baraita \u2014 his objection to the baraita as stated and his reinterpretation of the alive/slaughtered distinction in terms of separate cups vs. mixed blood \u2014 which is precisely what the 'Rava Interprets' prose describes.",
+      "chosen_heading": "Rava Interprets",
+      "current_heading": "Rava Interprets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rabbi's Volume Test",
+    "candidates": [
+      "Rabbi's Volume Test",
+      "Eliezer Minimum",
+      "Parah vs. Korban",
+      "Grazing Till Mum",
+      "Bechor Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form one continuous unit: Rabbi's ruling about the volume test, the apparent contradiction from the Tosefta in Parah, and the Gemara's resolution \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Rabbi's Volume Test",
+      "current_heading": "Rabbi's Volume Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Bechor Restrictions",
+    "candidates": [
+      "Eliezer Minimum",
+      "Parah vs. Korban",
+      "Grazing Till Mum",
+      "Bechor Restrictions",
+      "Dual Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses Rami bar \u1e24ama's question about a firstborn offering's substitute (temuraso) in light of Beit Shammai's restriction against feeding a blemished bechor to menstruating women, which matches precisely the 'Bechor Restrictions' section's prose about Rabbi bar Chama's questions regarding the bechor's status and its temurah.",
+      "chosen_heading": "Bechor Restrictions",
+      "current_heading": "Bechor Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Dual Kedusha",
+    "candidates": [
+      "Dual Kedusha",
+      "Gender Distinctions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gender Distinctions",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 (Rava's baraita answer about firstborn/tithe substitutes) appears to be the tail of a prior discussion about substitutes, not about the dual kedusha dilemma that begins with Item 2.",
+      "second_heading": "Dual Kedusha",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 precisely match the 'Dual Kedusha' prose, which discusses the dedicated-firstborn-to-bedek-ha-bayit dilemma, the mishna proof, the two-sanctities/two-bodies distinction, Rabbi Yosi bar Avin's objection, and Rabbi Ami's resolution.",
+      "current_heading": "Dual Kedusha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Gender Distinctions",
+    "candidates": [
+      "Gender Distinctions",
+      "Age & Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening question-and-answer about why chatat and asham cannot intermingle (gender distinction), which is exactly what the 'Gender Distinctions' prose describes \u2014 the zachar/nekeva question and the chatat/olah objection with the se'ir nasi response.",
+      "chosen_heading": "Gender Distinctions",
+      "current_heading": "Gender Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Age & Type",
+    "candidates": [
+      "Age & Type",
+      "Age Counting",
+      "Strictest Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Paschal/guilt offering age distinction and the nazirite/leper guilt offering answer plus the ve-iba'it eima alternative, all of which are discussed in the 'Age & Type' prose section.",
+      "chosen_heading": "Age & Type",
+      "current_heading": "Age & Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Strictest Rule",
+    "candidates": [
+      "Age Counting",
+      "Strictest Rule",
+      "Leftovers Concern",
+      "Practical Override"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Leftovers Concern",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishna presenting Rabbi Shimon's rule and the Rabbis' objection about bringing kodashim to unfitness (notar concern), which matches the 'Leftovers Concern' prose exactly.",
+      "second_heading": "Strictest Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the distinct case of intermingled pieces (chatichot) eaten according to the strictest rule, which is precisely what the 'Strictest Rule' prose describes.",
+      "current_heading": "Strictest Rule",
+      "moved": true
+    }
+  }
+]

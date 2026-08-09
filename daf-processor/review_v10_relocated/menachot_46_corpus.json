@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Kivsei Atzeret Intro",
+    "candidates": [
+      "Kivsei Atzeret Intro",
+      "Rabbi Akiva Position",
+      "Ben Nannas Position",
+      "Gezeirah Shavah Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present the Mishnaic debate between Rabbi Akiva, Rabbi Shimon ben Nannas, and Rabbi Shimon about the mutual dependency between the two loaves and the two sheep \u2014 exactly the topic introduced in the 'Kivsei Atzeret Intro' prose, which describes this as a famous debate about the direction of dependency between the shtei halechem and the kivsei atzeret.",
+      "chosen_heading": "Kivsei Atzeret Intro",
+      "current_heading": "Kivsei Atzeret Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Gezeirah Shavah Analysis",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Ben Nannas Position",
+      "Gezeirah Shavah Analysis",
+      "Kodesh Yihyu Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Item 1 concludes the reasoning for Ben Nannas's position (sheep permit themselves, hence can be brought without loaves), and items 2-7 present the baraita that grounds the lambs-for-the-sake-of-loaves principle in biblical exegesis, all fitting the 'Ben Nannas Position' section better than the gezeirah shavah analysis which focuses on the yihyu/tihiyena wordplay.",
+      "chosen_heading": "Ben Nannas Position",
+      "current_heading": "Gezeirah Shavah Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Kodesh Yihyu Pasuk",
+    "candidates": [
+      "Kodesh Yihyu Pasuk",
+      "Rabbi Yochanan Zikah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 11 items cover the debate between Rabbi Akiva and Ben Nannas about whether the loaves or sheep are me'akev, derived via gezeirah shavah and the internal reading of 'kodesh yihyu l'Hashem lakohen' \u2014 exactly what the 'Kodesh Yihyu Pasuk' prose section describes.",
+      "chosen_heading": "Kodesh Yihyu Pasuk",
+      "current_heading": "Kodesh Yihyu Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Rabbi Yochanan Zikah",
+    "candidates": [
+      "Rabbi Yochanan Zikah",
+      "Tenufah vs Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yochanan's statement that everyone agrees shechita creates the zikah between the bread and lambs, which is precisely what heading 0 ('Rabbi Yochanan Zikah') discusses in its prose.",
+      "chosen_heading": "Rabbi Yochanan Zikah",
+      "current_heading": "Rabbi Yochanan Zikah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Tenufah vs Shechita",
+    "candidates": [
+      "Tenufah vs Shechita",
+      "Shechita Makes Zikah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion of Ulla's dilemma about whether tenufah creates zikah, the attempted resolution from Rabbi Yo\u1e25anan's statement about shechita, and the Gemara's clarification that the dilemma concerns Rabbi Yo\u1e25anan's own position \u2014 exactly matching the prose of heading 0.",
+      "chosen_heading": "Tenufah vs Shechita",
+      "current_heading": "Tenufah vs Shechita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Shechita Makes Zikah",
+    "candidates": [
+      "Shechita Makes Zikah",
+      "Bread Break Before",
+      "Bread Break After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are a continuous exchange about whether the verse 'kodesh yihyu l'Hashem lakohen' proves that tenufah does not create zikah, culminating in the 'ela meiikara ka'ei / davar she-sofo la-kohen' deflection \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Shechita Makes Zikah",
+      "current_heading": "Shechita Makes Zikah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Bread Break After",
+    "candidates": [
+      "Bread Break Before",
+      "Bread Break After",
+      "Yotzei Before Shechita",
+      "Yotzei After Shechita",
+      "Tumah Before Shechita",
+      "Tumah After Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together constitute the full baraita being cited as a contradiction, covering all three types of invalidity (breaking, yotzei, tumah) at all three time points \u2014 this is the baraita introduced in Item 1 under the heading 'Bread Break Before', which is where the Gemara raises the contradiction about slaughter establishing a bond, and the entire baraita is quoted to support/resolve that question; the current placement under 'Bread Break After' is wrong since the baraita begins with the pre-shechita breaking case that belongs under 'Bread Break Before'.",
+      "chosen_heading": "Bread Break Before",
+      "current_heading": "Bread Break After",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Tumah After Shechita",
+    "candidates": [
+      "Yotzei Before Shechita",
+      "Yotzei After Shechita",
+      "Tumah Before Shechita",
+      "Tumah After Shechita",
+      "Post-Shechita Defects",
+      "Torah Names Todah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tumah After Shechita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('nizrak hadam \u2014 torem min ha-tahor al ha-tamei') is the concluding ruling of the tumah-after-shechita case, explicitly described in candidate 3's prose as the post-zerikah scenario where the kohen takes four loaves from the tahor bread.",
+      "second_heading": "Post-Shechita Defects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge about shechita creating zikah invalidating the whole offering \u2014 precisely the 'sharp question' that candidate 4's prose introduces as arising from the baraita's structural principle.",
+      "current_heading": "Tumah After Shechita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Torah Names Todah",
+    "candidates": [
+      "Post-Shechita Defects",
+      "Torah Names Todah",
+      "Shtei Halechem Unique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer that the todah is called shelamim and can therefore be brought without loaves, which is precisely what the 'Torah Names Todah' section's prose is explaining.",
+      "chosen_heading": "Torah Names Todah",
+      "current_heading": "Torah Names Todah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Shtei Halechem Unique",
+    "candidates": [
+      "Shtei Halechem Unique",
+      "Why Only Lambs?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage about Rabbi Yirmeya's dilemma regarding whether waving (tenufah) establishes a bond (zikah) between the loaves and sheep, and the question of whether replacement loaves require waving, directly concerns the mutual dependency (zikah) between the shtei halechem and the kivsei atzeret \u2014 the core topic of the 'Shtei Halechem Unique' section, which explicitly discusses zikah and the inseparability of the bread-lamb unit.",
+      "chosen_heading": "Shtei Halechem Unique",
+      "current_heading": "Shtei Halechem Unique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Why Only Lambs?",
+    "candidates": [
+      "Why Only Lambs?",
+      "Rava Answer",
+      "Tenufah Qualifier",
+      "Todah Counterargument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's question to Rava about the distinction between the two lambs and the seven lambs/bull/rams, which is exactly what the 'Why Only Lambs?' prose describes.",
+      "chosen_heading": "Why Only Lambs?",
+      "current_heading": "Why Only Lambs?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Todah Counterargument",
+    "candidates": [
+      "Rava Answer",
+      "Tenufah Qualifier",
+      "Todah Counterargument",
+      "Bread-Shelamim Link",
+      "Nazir Ram Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Todah Counterargument",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the todah counterargument \u2014 challenging that tenufah cannot be the explanation because todah loaves are sanctified without joint waving \u2014 which matches exactly the 'Todah Counterargument' prose.",
+      "second_heading": "Bread-Shelamim Link",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'ela ke-todah' reframing \u2014 just as todah is a shelamim so too the two lambs are shelamim \u2014 which matches exactly the 'Bread-Shelamim Link' prose.",
+      "current_heading": "Todah Counterargument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Nazir Ram Proof",
+    "candidates": [
+      "Bread-Shelamim Link",
+      "Nazir Ram Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain resolving how the nazir's ram proves that only the shelamim sanctifies the bread even when other korbanos are present \u2014 exactly what the 'Nazir Ram Proof' prose describes, including the baraita from Numbers 6:17 and the shelo lishmo consequence.",
+      "chosen_heading": "Nazir Ram Proof",
+      "current_heading": "Nazir Ram Proof",
+      "moved": false
+    }
+  }
+]

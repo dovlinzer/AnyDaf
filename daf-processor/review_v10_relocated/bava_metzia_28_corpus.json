@@ -1,0 +1,392 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Simanim Scope",
+    "candidates": [
+      "Pruta Significance",
+      "Both Words Required",
+      "Fluctuating Value",
+      "Simanim: Torah or Rabbis?",
+      "Simanim Scope",
+      "Simla & Simanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the practical nafka mina of returning a get based on simanim and the distinction between monetary and issur matters, which is precisely what the 'Simanim Scope' section's prose describes.",
+      "chosen_heading": "Simanim Scope",
+      "current_heading": "Simanim Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Simla & Simanim",
+    "candidates": [
+      "Simla & Simanim",
+      "Asmachta Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the derivation of simanim from the garment analogy AND the Gemara's deflection (tov'in itztericha lei), and the current heading 'Simla & Simanim' with its prose already describes both the proof and anticipates the rejection, making it the best single home for the complete passage.",
+      "chosen_heading": "Simla & Simanim",
+      "current_heading": "Simla & Simanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Asmachta Theory",
+    "candidates": [
+      "Asmachta Theory",
+      "Donkey Saddle",
+      "Inquiry Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the donkey saddle proof (simanei ukaf) and its rejection via 'eima be'adei ukaf,' which exactly matches the 'Donkey Saddle' section's prose.",
+      "chosen_heading": "Donkey Saddle",
+      "current_heading": "Asmachta Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Inquiry Principle",
+    "candidates": [
+      "Donkey Saddle",
+      "Inquiry Principle",
+      "Husband Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'derosh achicha' verse and the question of whether scrutiny proceeds by simanim or witnesses, which is precisely what the 'Inquiry Principle' prose describes.",
+      "chosen_heading": "Inquiry Principle",
+      "current_heading": "Inquiry Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Husband Identity",
+    "candidates": [
+      "Husband Identity",
+      "Face Recognition",
+      "Weak Simanim",
+      "Donkey Lending",
+      "Non-Lent Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the braita about face/nose recognition and the Gemara's response explaining why body marks (tall/short) and garment marks (lending concern) are dismissed \u2014 exactly what candidate 0 ('Husband Identity') describes in its prose.",
+      "chosen_heading": "Husband Identity",
+      "current_heading": "Husband Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Non-Lent Items",
+    "candidates": [
+      "Face Recognition",
+      "Weak Simanim",
+      "Donkey Lending",
+      "Non-Lent Items",
+      "Get & Items",
+      "Resolution",
+      "Body Features"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "Candidate 3's prose explicitly covers all four items \u2014 the saddle lending question and answer (item 1), the alternative garments explanation (item 2), the get baraita lending challenge (item 3), and the resolution about non-lent items (item 4) \u2014 making it the best single home for this passage.",
+      "chosen_heading": "Non-Lent Items",
+      "current_heading": "Non-Lent Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Body Features",
+    "candidates": [
+      "Get & Items",
+      "Resolution",
+      "Body Features",
+      "Multiple Readings",
+      "Feature Frequency",
+      "Post-Death Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's suggestion to read the tannaitic dispute as being about whether simanim are d'Oraisa or d'Rabbanan, which is precisely what the 'Multiple Readings' prose describes \u2014 the Gemara asking whether this dispute maps onto that question, before Rava offers alternative explanations.",
+      "chosen_heading": "Multiple Readings",
+      "current_heading": "Body Features",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Post-Death Changes",
+    "candidates": [
+      "Multiple Readings",
+      "Feature Frequency",
+      "Post-Death Changes",
+      "Exceptional Marks",
+      "Finder's Incentive",
+      "Owner's Perspective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rava's alternative readings of the tannaitic dispute (the mole-frequency alternative, the post-death-change alternative, and the siman muvhak alternative), which together constitute exactly what the 'Multiple Readings' prose describes: Rava resisting the simple d'Oraisa/d'Rabbanan reading and offering three alternatives that each leave that underlying question unresolved.",
+      "chosen_heading": "Multiple Readings",
+      "current_heading": "Post-Death Changes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Owner's Perspective",
+    "candidates": [
+      "Exceptional Marks",
+      "Finder's Incentive",
+      "Owner's Perspective",
+      "Owner's Advantage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong to Rava's 'finder's incentive' discussion: item 1 is Rava's initial answer framing the justification from the finder's perspective, and item 2 is Rav Safra's immediate challenge to that answer \u2014 both are part of the same continuous exchange about why Chazal instituted simanim for aveidah, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Finder's Incentive",
+      "current_heading": "Owner's Perspective",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Owner's Advantage",
+    "candidates": [
+      "Owner's Perspective",
+      "Owner's Advantage",
+      "Promissory Notes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the owner's reasoning that he knows his own distinguishing marks better than anyone else and can therefore retrieve his lost item via simanim, which is precisely what the 'Owner's Advantage' section discusses.",
+      "chosen_heading": "Owner's Advantage",
+      "current_heading": "Owner's Advantage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Promissory Notes",
+    "candidates": [
+      "Promissory Notes",
+      "Lender Denominator",
+      "Borrower Denominator",
+      "Tied Bundles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution sequence (the Gemara raises the difficulty from Rabban Shimon ben Gamliel's mishna, then Rava answers that the ruling is based on sevara/logical reasoning rather than simanim), which is precisely what the 'Promissory Notes' prose describes \u2014 the question 'nicha leh la-loveh' and its resolution that the cases rest on logic rather than the simanim takana.",
+      "chosen_heading": "Promissory Notes",
+      "current_heading": "Promissory Notes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Tied Bundles",
+    "candidates": [
+      "Lender Denominator",
+      "Borrower Denominator",
+      "Tied Bundles",
+      "Rava's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishna about finding a bundle/roll of documents and asks whether it is satisfactory to the debtor to have them returned to the creditor \u2014 exactly the question the 'Tied Bundles' prose discusses as its central theme.",
+      "chosen_heading": "Tied Bundles",
+      "current_heading": "Tied Bundles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Rava's Proof",
+    "candidates": [
+      "Rava's Proof",
+      "Equal Simanim",
+      "Simanim vs. Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's proof that simanim are d'Oraisa from the pasuk, followed by the Gemara's challenge about his earlier conditional 'im timtzi lomar' formulation and its resolution \u2014 exactly what the 'Rava's Proof' prose describes.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Rava's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Simanim vs. Witnesses",
+    "candidates": [
+      "Equal Simanim",
+      "Simanim vs. Witnesses",
+      "One Witness",
+      "Weaving vs. Dropping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three cases (simanim vs. simanim, simanim vs. witnesses, and simanim+simanim+one witness) as a single continuous Gemara unit, and the first and most foundational case discussed is the equal simanim scenario under heading 0, making that the natural home for the entire passage rather than splitting it mid-statement.",
+      "chosen_heading": "Equal Simanim",
+      "current_heading": "Simanim vs. Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Weaving vs. Dropping",
+    "candidates": [
+      "One Witness",
+      "Weaving vs. Dropping",
+      "Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the weaving vs. falling witnesses scenario and the reasoning that the woven garment may have been sold, which matches perfectly with the 'Weaving vs. Dropping' section's prose.",
+      "chosen_heading": "Weaving vs. Dropping",
+      "current_heading": "Weaving vs. Dropping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Dimensions",
+    "candidates": [
+      "Dimensions",
+      "Precision",
+      "Weight Wins",
+      "Recipient Knowledge",
+      "Hole in Letter"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Hole in Letter",
+    "candidates": [
+      "Precision",
+      "Weight Wins",
+      "Recipient Knowledge",
+      "Hole in Letter",
+      "String Details",
+      "Storage Container"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hole in Letter",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about the perforation-next-to-a-letter distinguishing mark of the get itself, which is exactly what heading 3 ('Hole in Letter') describes.",
+      "second_heading": "String Details",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about the string's distinguishing marks (color vs. length), which is exactly what heading 4 ('String Details') describes.",
+      "current_heading": "Hole in Letter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Storage Container",
+    "candidates": [
+      "String Details",
+      "Storage Container"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of both parties claiming the get was stored in a case (chafisa), which is precisely what the 'Storage Container' section's prose describes and analyzes.",
+      "chosen_heading": "Storage Container",
+      "current_heading": "Storage Container",
+      "moved": false
+    }
+  }
+]

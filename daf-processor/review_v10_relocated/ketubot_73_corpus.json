@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "No Condition, Vows",
+    "candidates": [
+      "Opening & Context",
+      "Head Covering Review",
+      "Cond. Marriage Intro",
+      "No Vows Condition",
+      "No Condition, Vows",
+      "Blemishes Parallel",
+      "Define Mumim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah text covering both clauses, but the prose under 'No Vows Condition' (index 3) is specifically where the mishnah text is introduced and quoted, while index 4 discusses the second clause in detail \u2014 however, the mishnah as a single unit (including both the betrothal-void clause and the divorce-without-ketubah clause) is best anchored under index 3 where the mishnah's presentation begins, since index 4's prose is commentary on the second clause rather than the place where the mishnah text itself is presented.",
+      "chosen_heading": "No Vows Condition",
+      "current_heading": "No Condition, Vows",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Define Mumim",
+    "candidates": [
+      "Blemishes Parallel",
+      "Define Mumim",
+      "Inui Nefesh Vows",
+      "Affliction Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Define Mumim' prose: item 1 presents the mishna about blemishes disqualifying women (kol haMumim haposlim baKohanim), and item 2 is the Gemara explaining why the same mishna appears in both Kiddushin and Ketubot \u2014 precisely what the 'Define Mumim' prose describes.",
+      "chosen_heading": "Define Mumim",
+      "current_heading": "Define Mumim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Affliction Examples",
+    "candidates": [
+      "Inui Nefesh Vows",
+      "Affliction Examples",
+      "Explicit vs Implied",
+      "Reasonable Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines which vows the mishna refers to (inui nefesh) and gives the examples in one unit, matching the 'Inui Nefesh Vows' prose which explicitly discusses Rabbi Yochanan's statement and the baraita confirming that the mishna refers to vows of affliction \u2014 the current split between headings 0 and 1 artificially separates a single continuous Talmudic statement.",
+      "chosen_heading": "Inui Nefesh Vows",
+      "current_heading": "Affliction Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Reasonable Concern",
+    "candidates": [
+      "Explicit vs Implied",
+      "Reasonable Concern",
+      "Condition Persistence",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Ain Adam Oseh",
+      "Marital Intent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Explicit vs Implied",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's query about which clause Rabbi Yochanan's limitation applies to, concluding it must be the latter clause \u2014 exactly what candidate 0 ('Explicit vs Implied') describes in its prose.",
+      "second_heading": "Reasonable Concern",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's response applying the limitation to the first clause via the 'people are particular' standard \u2014 exactly what candidate 1 ('Reasonable Concern') describes in its prose about Rav Ashi's position.",
+      "current_heading": "Reasonable Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Marital Intent",
+    "candidates": [
+      "Condition Persistence",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Ain Adam Oseh",
+      "Marital Intent",
+      "Ktanah Growing Up"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full dispute (Rav vs. Shmuel) and Abaye's clarification of Rav's reasoning, which is exactly what the 'Condition Persistence' prose introduces as 'the central dispute' about whether a tnai made at kiddushin persists through nisu'in \u2014 the passage belongs under that heading, not under 'Marital Intent' which discusses deeper implications after the dispute is already established.",
+      "chosen_heading": "Condition Persistence",
+      "current_heading": "Marital Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Ktanah Growing Up",
+    "candidates": [
+      "Marital Intent",
+      "Ktanah Growing Up",
+      "Rav on Intercourse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the case of the minor girl who did not refuse and then grew up and married someone else, which is precisely the context described in the 'Ktanah Growing Up' prose \u2014 the current placement is correct.",
+      "chosen_heading": "Ktanah Growing Up",
+      "current_heading": "Ktanah Growing Up",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav on Intercourse",
+    "candidates": [
+      "Rav on Intercourse",
+      "Shmuel on Original",
+      "Two Cases Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's ruling that she requires a get from the second man, which matches the 'Shmuel on Original' section's prose discussing exactly this position and its rationale.",
+      "chosen_heading": "Shmuel on Original",
+      "current_heading": "Rav on Intercourse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Two Cases Needed",
+    "candidates": [
+      "Shmuel on Original",
+      "Two Cases Needed",
+      "Ein Tnai Principle",
+      "Tosafot on Agunah",
+      "Explicit Tnai Option",
+      "Secular Marriage Impact",
+      "Two Clauses Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's tzricha explanation of why both the tnai case and the ktanah case must be stated explicitly, which is precisely what the 'Two Cases Needed' prose describes in detail.",
+      "chosen_heading": "Two Cases Needed",
+      "current_heading": "Two Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Two Clauses Link",
+    "candidates": [
+      "Ein Tnai Principle",
+      "Tosafot on Agunah",
+      "Explicit Tnai Option",
+      "Secular Marriage Impact",
+      "Two Clauses Link",
+      "Rav Reads Stam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes and analyzes the second clause of the mishnah (kinusah stam v'nimtze'u aleha nedarim) and raises it as a potential refutation of Shmuel, which is precisely what the 'Two Clauses Link' prose describes.",
+      "chosen_heading": "Two Clauses Link",
+      "current_heading": "Two Clauses Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rav Reads Stam",
+    "candidates": [
+      "Rav Reads Stam",
+      "Shmuel Expects Chiddush",
+      "Resolution: Any Stage",
+      "Why Reject Vows",
+      "Taos Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous question-and-answer sequence (rejection, challenge, resolution) that the 'Resolution: Any Stage' prose describes \u2014 the gemara explaining that the mishnah's first clause covers conditional kiddushin even after nisu'in, and the second clause addresses the stam/stam independent case.",
+      "chosen_heading": "Resolution: Any Stage",
+      "current_heading": "Rav Reads Stam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Taos Analysis",
+    "candidates": [
+      "Shmuel Expects Chiddush",
+      "Resolution: Any Stage",
+      "Why Reject Vows",
+      "Taos Analysis",
+      "Safek Position",
+      "Issura-Mamona Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of why a get is required if the marriage is kiddushei ta'os due to universal objection to vows \u2014 exactly what the 'Taos Analysis' prose describes.",
+      "chosen_heading": "Taos Analysis",
+      "current_heading": "Taos Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Issura-Mamona Split",
+    "candidates": [
+      "Safek Position",
+      "Issura-Mamona Split",
+      "No Middle Ground",
+      "Warranty Analogy",
+      "Gemara's Limits",
+      "Two Women Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba and Rav Chisda's ruling that a get is required midivrehem, followed by Rava's safek explanation \u2014 which is precisely what candidate 0 ('Safek Position') describes, including the explicit mention of 'V'chen amar Rav Chisda tzricha get midivrehem' and 'Sfuki maspka lei', whereas candidate 1 ('Issura-Mamona Split') is meant to discuss the practical mamona/issura consequence as a separate analytical step.",
+      "chosen_heading": "Safek Position",
+      "current_heading": "Issura-Mamona Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Two Women Scenario",
+    "candidates": [
+      "No Middle Ground",
+      "Warranty Analogy",
+      "Gemara's Limits",
+      "Two Women Scenario",
+      "One Woman Consensus",
+      "Abaye Challenges",
+      "Rava Refines",
+      "Baraita Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form one continuous exchange: Rabba's initial formulation about two women (item 1), Abaye's challenge citing the mishnah's one-woman case (item 2), and the corrected version of Rabba's statement (item 3) \u2014 this entire unit is precisely the 'two women scenario' discussion, and the current placement under heading 3 ('Two Women Scenario') is correct, with headings 4, 5, and 6 covering the subsequent refinements that follow from this passage.",
+      "chosen_heading": "Two Women Scenario",
+      "current_heading": "Two Women Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Baraita Setup",
+    "candidates": [
+      "One Woman Consensus",
+      "Abaye Challenges",
+      "Rava Refines",
+      "Baraita Setup",
+      "Tannaim Dispute",
+      "Same as Rav-Shmuel",
+      "Taos v. Tnai",
+      "Knowledge Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form Abaye's challenge from the baraita \u2014 item 1 presents the baraita, item 2 asks whether 'error' means error about vows, and item 3 resolves that it means betrothal with less than a perutah \u2014 this is precisely the content described in the 'Baraita Setup' prose, which is the current placement.",
+      "chosen_heading": "Baraita Setup",
+      "current_heading": "Baraita Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Knowledge Approach",
+    "candidates": [
+      "Tannaim Dispute",
+      "Same as Rav-Shmuel",
+      "Taos v. Tnai",
+      "Knowledge Approach",
+      "Ignorance Approach",
+      "Condition Frames All",
+      "Father Consent Setup",
+      "Silence Suffices",
+      "Explicit Agreement",
+      "Parallels Rav-Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the dispute about whether a person knows or doesn't know that kiddushin with less than a perutah is invalid, which is exactly what the 'Knowledge Approach' prose describes as the internal logic of the baraita's dispute.",
+      "chosen_heading": "Knowledge Approach",
+      "current_heading": "Knowledge Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Parallels Rav-Shmuel",
+    "candidates": [
+      "Ignorance Approach",
+      "Condition Frames All",
+      "Father Consent Setup",
+      "Silence Suffices",
+      "Explicit Agreement",
+      "Parallels Rav-Shmuel",
+      "Rava's Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together present the objection from the father-consent baraita and its resolution \u2014 that the dispute hinges on what 'the father desires' means (silence vs. affirmative consent) \u2014 which is precisely what the 'Parallels Rav-Shmuel' prose describes as the gemara's qualification of the baraita's challenge.",
+      "chosen_heading": "Parallels Rav-Shmuel",
+      "current_heading": "Parallels Rav-Shmuel",
+      "moved": false
+    }
+  }
+]

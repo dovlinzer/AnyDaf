@@ -1,0 +1,245 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Zachin Principle",
+    "candidates": [
+      "Ketubah Amounts",
+      "Mishnah: Three Categories",
+      "Under Three: Virginity",
+      "Rav Huna's Rule",
+      "Zachin Principle",
+      "Benefit Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Huna's ruling on immersing a minor convert with beis din's consent and the gemara's question about what novel teaching this conveys \u2014 are precisely the content described in the 'Rav Huna's Rule' prose, which introduces the ger katan sugya and the amar Rav Huna principle, whereas the current placement under 'Zachin Principle' belongs to the prose that explains the answer to that very question, not the question itself.",
+      "chosen_heading": "Rav Huna's Rule",
+      "current_heading": "Zachin Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Benefit Question",
+    "candidates": [
+      "Zachin Principle",
+      "Benefit Question",
+      "Taste of Forbidden",
+      "Beit Din's Role",
+      "Rashi's Case",
+      "Three Positions",
+      "Father Converts Too"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's challenge (a gentile/slave prefers hefker) and its resolution (only an adult who has tasted prohibition; a minor it is a zechus), which is precisely what the 'Benefit Question' prose describes in detail.",
+      "chosen_heading": "Benefit Question",
+      "current_heading": "Benefit Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Father Converts Too",
+    "candidates": [
+      "Taste of Forbidden",
+      "Beit Din's Role",
+      "Rashi's Case",
+      "Three Positions",
+      "Father Converts Too",
+      "Rav Yosef Rule",
+      "Ketubah Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items constitute the gemara's attempt to prove Rav Huna's ruling from the mishnah and the rejection of that proof via the case of a father converting with his children \u2014 exactly what candidate 4 ('Father Converts Too') describes in its prose.",
+      "chosen_heading": "Father Converts Too",
+      "current_heading": "Father Converts Too",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Ketubah Timing",
+    "candidates": [
+      "Rav Yosef Rule",
+      "Ketubah Timing",
+      "Sha'ah Achat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Abaye's objection from the mishnah about the ketubah of 200 zuz \u2014 precisely the content described in the 'Ketubah Timing' prose section, which paraphrases this exact exchange.",
+      "chosen_heading": "Ketubah Timing",
+      "current_heading": "Ketubah Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Sha'ah Achat",
+    "candidates": [
+      "Sha'ah Achat",
+      "Tosafot Position",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain covering the sha'ah achat principle, Rava's knas objection, and the Abaye/Rava explanations \u2014 exactly the content described in the 'Sha'ah Achat' prose section.",
+      "chosen_heading": "Sha'ah Achat",
+      "current_heading": "Sha'ah Achat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Tosafot Position",
+      "Mishnah Cases",
+      "Chachamim View",
+      "Post-Chuppah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah presenting the three cases (adult-minor, minor-adult, mukas eitz) with Rabbi Meir's ruling of 200, which is precisely what the 'Mishnah Cases' prose introduces and describes.",
+      "chosen_heading": "Mishnah Cases",
+      "current_heading": "Mishnah Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Post-Chuppah",
+    "candidates": [
+      "Chachamim View",
+      "Post-Chuppah",
+      "Minor Boy Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe a besulah who went through nisuin (marriage) and receives a ketubah of 100 with no ta'anas besulim, which is precisely what the 'Post-Chuppah' prose discusses.",
+      "chosen_heading": "Post-Chuppah",
+      "current_heading": "Post-Chuppah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Minor Boy Case",
+    "candidates": [
+      "Minor Boy Case",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a female convert, captive, or maidservant who underwent her status transition after three years and one day, receiving a ketubah of 100 dinars with no ta'anas besulim \u2014 exactly what the 'Minor Boy Case' prose describes as the mishnah's content.",
+      "chosen_heading": "Minor Boy Case",
+      "current_heading": "Minor Boy Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Tosafot Critique",
+      "With Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the same dispute between Rav and Shmuel about whether a minor boy's intercourse renders a woman 'mukat eitz,' including the challenge from Rav Oshaya and Rava's resolution \u2014 all continuous with the 'Rav vs. Shmuel' section's prose.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "With Knowledge",
+    "candidates": [
+      "Tosafot Critique",
+      "With Knowledge",
+      "Rabbi Meir Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rami bar \u1e24ama's statement that the dispute between Rabbi Meir and the Rabbis applies specifically when the husband knew (hikker bah) about the condition, which is precisely what the 'With Knowledge' section's prose discusses.",
+      "chosen_heading": "With Knowledge",
+      "current_heading": "With Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rabbi Meir Logic",
+    "candidates": [
+      "Rabbi Meir Logic",
+      "Chachamim Logic",
+      "No Knowledge Case",
+      "Two Frameworks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Meir's reasoning (why liken to bogeres rather than beulah) and the Rabbis' counter-reasoning (why liken to beulah rather than bogeres), but since the prose for 'Rabbi Meir Logic' already incorporates both sides of this dialectic and the passage begins with Rabbi Meir's question, while 'Chachamim Logic' prose separately summarizes the Chachamim's position \u2014 however, the current placement under 'Rabbi Meir Logic' is the best fit because that section's prose already explicitly discusses both the beulah/bogeres distinction for Rabbi Meir and the counter-argument about ma'aseh bidei adam, matching the full content of the Gemara passage.",
+      "chosen_heading": "Rabbi Meir Logic",
+      "current_heading": "Rabbi Meir Logic",
+      "moved": false
+    }
+  }
+]

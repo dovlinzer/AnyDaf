@@ -1,0 +1,482 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Three Basilica Types",
+    "candidates": [
+      "Three Basilica Types",
+      "Basilica Classification",
+      "Tosafot Altar Critique",
+      "Christian Context",
+      "Trial & Trust"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Basilica Types",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's first ruling that two of the three basilica types are permitted and one is prohibited, which matches exactly the 'Three Basilica Types' prose describing Rava's ruling with the mnemonic.",
+      "second_heading": "Basilica Classification",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the alternative version of Rava's ruling (all basilicas permitted) and the challenge from the mishnah listing basilica alongside gardom/istadya/bima, which matches exactly the 'Basilica Classification' prose about reading the mishnah as referring to a basilica of a gardom, basilica of a stadium, etc.",
+      "current_heading": "Three Basilica Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Trial & Trust",
+    "candidates": [
+      "Basilica Classification",
+      "Tosafot Altar Critique",
+      "Christian Context",
+      "Trial & Trust",
+      "Dimus Meaning",
+      "Permission Request",
+      "Marketplace Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the complete narrative of Rabbi Eliezer's arrest, trial, and acquittal \u2014 exactly what candidate 3 ('Trial & Trust') discusses in its prose, covering the gardom, the hegmon's question, Rabbi Eliezer's ambiguous reply about trusting the Judge, and the declaration of exemption (dimus).",
+      "chosen_heading": "Trial & Trust",
+      "current_heading": "Trial & Trust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Marketplace Encounter",
+    "candidates": [
+      "Dimus Meaning",
+      "Permission Request",
+      "Marketplace Encounter",
+      "Non-Response Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items cover Rabbi Akiva asking permission and then posing the heresy question to Rabbi Eliezer, which is precisely what the 'Permission Request' prose describes \u2014 the asking of permission, Rabbi Eliezer granting it, and the heresy inquiry that follows \u2014 before the marketplace encounter detail is elaborated in the 'Marketplace Encounter' section.",
+      "chosen_heading": "Permission Request",
+      "current_heading": "Marketplace Encounter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Non-Response Strategy",
+    "candidates": [
+      "Marketplace Encounter",
+      "Non-Response Strategy",
+      "Prostitute Gift",
+      "Three Threats",
+      "Four Cubits Rule",
+      "Modern Threats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact quote from Yaakov/Jesus about 'meetnan zonah' coming from filth returning to filth, which the prose in 'Non-Response Strategy' explicitly discusses and quotes as '*kach limadani Yeshu HaNotzri*... mimmekom hatinofet ba'u lemakom hatinofet yelechu.'",
+      "chosen_heading": "Non-Response Strategy",
+      "current_heading": "Non-Response Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Modern Threats",
+    "candidates": [
+      "Prostitute Gift",
+      "Three Threats",
+      "Four Cubits Rule",
+      "Modern Threats",
+      "Sexual vs. Neutral"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Threats",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the verse interpretation identifying heresy, ruling authority, and prostitution as the three threats plus Rav \u1e24isda's four cubits ruling, which matches exactly the prose of headings 'Three Threats' and 'Four Cubits Rule' \u2014 and since heading 1 ('Three Threats') flows directly into heading 2 ('Four Cubits Rule') as a single continuous unit, heading 1 is the best single home, but the split is between the two items.",
+      "second_heading": "Modern Threats",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns the Rabbis' interpretation of 'etnan zonah' via Rav \u1e24isda's teaching about the prostitute who ends up paying others, which is explicitly discussed in the prose of heading 3 ('Modern Threats') as the related halachic matter about Rav \u1e24isda's teaching on the reversed dynamic.",
+      "current_heading": "Modern Threats",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Sexual vs. Neutral",
+    "candidates": [
+      "Sexual vs. Neutral",
+      "Ulla's Practice",
+      "Lech Lech Safeguard",
+      "Give Give Daughters"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sexual vs. Neutral",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Pedat's position that the Torah only prohibits intimacy constituting actual intercourse, which is exactly what candidate 0's prose discusses in detail.",
+      "second_heading": "Ulla's Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Ulla's practice of kissing his sisters and the contradiction with his own ruling, which matches candidate 1's prose about Ulla's episode precisely.",
+      "current_heading": "Sexual vs. Neutral",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Give Give Daughters",
+    "candidates": [
+      "Ulla's Practice",
+      "Lech Lech Safeguard",
+      "Give Give Daughters",
+      "Twin Temptations",
+      "Leaving Heresy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the leech verse and Mar Ukva's interpretation of 'give give' and identifies the two daughters, which matches exactly the prose of heading 2 ('Give Give Daughters') that introduces this verse and Mar Ukva's teaching.",
+      "chosen_heading": "Give Give Daughters",
+      "current_heading": "Give Give Daughters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Leaving Heresy",
+    "candidates": [
+      "Twin Temptations",
+      "Leaving Heresy",
+      "Rav Chisda Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the verse about those who go to heresy not returning and the Gemara's explanation that even if they return they won't attain the paths of life, which is precisely what the 'Leaving Heresy' section's prose describes and analyzes.",
+      "chosen_heading": "Leaving Heresy",
+      "current_heading": "Leaving Heresy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Rav Chisda Case",
+    "candidates": [
+      "Rav Chisda Case",
+      "Incomplete Teshuva",
+      "Heresy-Only Rule",
+      "Prostitute Hunter",
+      "Overseas Prostitute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the first version of the Rav Chisda challenge (she did not die) and its resolution (incomplete teshuva), matching exactly the prose of candidates 0 and 1.",
+      "second_heading": "Heresy-Only Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the 'ika de'amrei' second version where only heresy (minut) causes death upon separation, matching exactly the 'Heresy-Only Rule' candidate's prose about the second tradition.",
+      "current_heading": "Rav Chisda Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Overseas Prostitute",
+    "candidates": [
+      "Incomplete Teshuva",
+      "Heresy-Only Rule",
+      "Prostitute Hunter",
+      "Overseas Prostitute",
+      "Mountains Dialogue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with the Gemara's challenge 'And is it correct that one who repents of the sin of forbidden sexual intercourse does not die?' \u2014 directly addressing the heresy-only rule (min vs. aveira distinction) \u2014 and then introduces the Elazar ben Durdaya story as the proof-text for that challenge, which is precisely what the 'Heresy-Only Rule' prose section describes.",
+      "chosen_heading": "Heresy-Only Rule",
+      "current_heading": "Overseas Prostitute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Mountains Dialogue",
+    "candidates": [
+      "Overseas Prostitute",
+      "Mountains Dialogue",
+      "Soul Departs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items depict Elazar ben Durdaya's appeals to cosmic entities (mountains, hills, heaven, earth, sun, moon, stars) and their refusals, which is precisely the content described in the 'Mountains Dialogue' prose section.",
+      "chosen_heading": "Mountains Dialogue",
+      "current_heading": "Mountains Dialogue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Soul Departs",
+    "candidates": [
+      "Soul Departs",
+      "Rabbi's Reflection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Elazar ben Durdaya's soul departing, the bas kol declaring him destined for Olam Haba, and the Gemara's explanation about his attachment to sin being like minut \u2014 all of which are directly discussed in the 'Soul Departs' prose, while the 'Rabbi's Reflection' section covers Rabbi's weeping reaction and the subsequent discussion, which are not yet reached in this passage.",
+      "chosen_heading": "Soul Departs",
+      "current_heading": "Soul Departs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rabbi's Reflection",
+    "candidates": [
+      "Rabbi's Reflection",
+      "Fork Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yehuda HaNasi's weeping and statement about acquiring one's world in a moment versus many years, and his remark about penitents being called Rabbi \u2014 exactly what the 'Rabbi's Reflection' prose section is discussing.",
+      "chosen_heading": "Rabbi's Reflection",
+      "current_heading": "Rabbi's Reflection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Fork Choice",
+    "candidates": [
+      "Fork Choice",
+      "Idolatry Dead",
+      "Torah Protection",
+      "Prostitutes' Shame",
+      "Mezimah Tvunah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Idolatry Dead",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the fork-in-the-road scenario and the first rabbi's suggestion to go by the idol worship house because its yetzer hara has been slaughtered, which is exactly what candidate 1 ('Idolatry Dead') discusses.",
+      "second_heading": "Torah Protection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the second rabbi's counter-proposal to go by the brothel to overpower their inclination and receive reward, then their arrival and the prostitutes yielding \u2014 matching candidates 2 and 3, but since item 2 contains both the proposal and the arrival scene, candidate 2 ('Torah Protection') is the better single match given it covers the subjugation of desire and reward, with candidate 3 covering the aftermath; however the entire item 2 content most naturally sits under candidate 2 as the starting point of that sequence.",
+      "current_heading": "Fork Choice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Mezimah Tvunah",
+    "candidates": [
+      "Idolatry Dead",
+      "Torah Protection",
+      "Prostitutes' Shame",
+      "Mezimah Tvunah",
+      "Arrest & Fates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly discuss the verse 'mezimma tishmor alecha' and Rava's explanation of its meaning, which is precisely what candidate 3's prose describes.",
+      "chosen_heading": "Mezimah Tvunah",
+      "current_heading": "Mezimah Tvunah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Arrest & Fates",
+    "candidates": [
+      "Arrest & Fates",
+      "Chananya Merits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the moment of arrest and Rabbi Elazar's initial lament about five charges versus one, which matches exactly the prose of heading 0 ('Arrest & Fates'), not heading 1 which covers Rabbi Chananya's reply and explanation.",
+      "chosen_heading": "Arrest & Fates",
+      "current_heading": "Arrest & Fates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Chananya Merits",
+    "candidates": [
+      "Chananya Merits",
+      "Elazar Limitation",
+      "Rav Huna Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Chananya's statement about being fortunate for five charges versus one charge and the contrast between Torah with charity versus Torah alone, which is exactly what the 'Chananya Merits' prose section is explaining and quoting.",
+      "chosen_heading": "Chananya Merits",
+      "current_heading": "Chananya Merits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Rav Huna Teaching",
+    "candidates": [
+      "Elazar Limitation",
+      "Rav Huna Teaching",
+      "Chisda Exemplar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna's teaching about Torah study alone being like having no God, which directly matches the 'Rav Huna Teaching' section's prose that explicitly quotes and discusses this exact statement.",
+      "chosen_heading": "Rav Huna Teaching",
+      "current_heading": "Rav Huna Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Chisda Exemplar",
+    "candidates": [
+      "Chisda Exemplar",
+      "Sage vs. Thief",
+      "Sword or Book"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's question-and-answer sequence about Rabbi \u1e24anina ben Teradyon's engagement in gemilut chasadim and tzedakah, which is precisely what the 'Chisda Exemplar' prose describes in detail.",
+      "chosen_heading": "Chisda Exemplar",
+      "current_heading": "Chisda Exemplar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Sword or Book",
+    "candidates": [
+      "Sage vs. Thief",
+      "Sword or Book",
+      "Bei Avidan Excuse"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Bei Avidan Excuse",
+    "candidates": [
+      "Bei Avidan Excuse",
+      "Slave Freedom"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slave Freedom",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the warp/woof miracle) belongs under 'Bei Avidan Excuse' only if that section discusses the weaving charge \u2014 but the prose of 'Bei Avidan Excuse' does not mention weaving at all, while item 2 (the Bei Avidan exchange and trampling miracle) matches that section's prose exactly.",
+      "second_heading": "Bei Avidan Excuse",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the Bei Avidan charge and its miraculous resolution described in the 'Bei Avidan Excuse' prose, making it a perfect match for heading 0.",
+      "current_heading": "Bei Avidan Excuse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Slave Freedom",
+    "candidates": [
+      "Slave Freedom",
+      "Witness Sent Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Elijah appearing disguised as a Roman nobleman to warn the witness against testifying about the slave emancipation charge, which matches exactly the 'Slave Freedom' section's prose describing that same sequence of events.",
+      "chosen_heading": "Slave Freedom",
+      "current_heading": "Slave Freedom",
+      "moved": false
+    }
+  }
+]

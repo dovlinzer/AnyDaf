@@ -1,0 +1,334 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Walking vs. Standing",
+    "candidates": [
+      "Avodah Overview",
+      "Mixed Blood Question",
+      "Corner Order Debate",
+      "Missed Corner Logic",
+      "Walking vs. Standing",
+      "Hakafa Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are the second and third 've'iba'it eima' explanations about hakafa beyad versus beregel, which is precisely what the 'Walking vs. Standing' section's prose describes in detail.",
+      "chosen_heading": "Walking vs. Standing",
+      "current_heading": "Walking vs. Standing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Hakafa Resolution",
+    "candidates": [
+      "Hakafa Resolution",
+      "Inner vs. Outer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge to whether Rabbi Yosei HaGelili holds hakafa beyad, concludes it collapses, and restores the original answer distinguishing hakafa beyad from hakafa beregel \u2014 exactly matching the 'Hakafa Resolution' prose.",
+      "chosen_heading": "Hakafa Resolution",
+      "current_heading": "Hakafa Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Inner vs. Outer",
+    "candidates": [
+      "Inner vs. Outer",
+      "Theological Implications",
+      "Two Priests Found"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two positions on whether the inner altar's perimeter parallels the outer altar or whether the entire inner altar occupies the space of one corner/horn of the outer altar \u2014 exactly the structural debate described in the 'Inner vs. Outer' prose.",
+      "chosen_heading": "Inner vs. Outer",
+      "current_heading": "Inner vs. Outer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Two Priests Found",
+    "candidates": [
+      "Theological Implications",
+      "Two Priests Found",
+      "Hand vs. Foot",
+      "Scriptural Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita with Rabbi Yishmael's statement about two High Priests from the First Temple disagreeing on their method, which matches exactly the 'Two Priests Found' heading's prose about this historically striking testimony.",
+      "chosen_heading": "Two Priests Found",
+      "current_heading": "Two Priests Found",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Scriptural Reasoning",
+    "candidates": [
+      "Hand vs. Foot",
+      "Scriptural Reasoning",
+      "Pluralistic Resolution",
+      "Rabbi Eliezer Position",
+      "Rabbi Meir Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the scriptural reasoning given by each priest (saviv/kulei Mizbe'ach Pnimi), which is precisely what the 'Scriptural Reasoning' section's prose discusses and analyzes.",
+      "chosen_heading": "Scriptural Reasoning",
+      "current_heading": "Scriptural Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rabbi Meir Version",
+    "candidates": [
+      "Pluralistic Resolution",
+      "Rabbi Eliezer Position",
+      "Rabbi Meir Version",
+      "Rabbi Yehuda Version",
+      "Tahoro Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita debate between Rabbi Meir and Rabbi Yehuda about Rabbi Eliezer's position on direction of blood application, which the prose under 'Rabbi Eliezer Position' (index 1) explicitly sets up as the natural follow-on question to Rabbi Eliezer standing in one place \u2014 the current placement under 'Rabbi Meir Version' splits what should be a unified passage, but since the prose under index 1 is the one that introduces the very question these items answer, that is the better home; however, given that indices 2 and 3 also discuss this material, the passage actually spans both and the current split across 2 and 3 is the pipeline's design \u2014 yet all items together most naturally belong under index 1 which introduces the directional question, making index 1 the single best heading for the entire passage.",
+      "chosen_heading": "Rabbi Eliezer Position",
+      "current_heading": "Rabbi Meir Version",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Tahoro Definition",
+    "candidates": [
+      "Rabbi Yehuda Version",
+      "Tahoro Definition",
+      "Clearing Ashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the meaning of 'tohoro shel mizbe'ach' and Rabbah bar Rav Shila's explanation that it means the midpoint/half of the altar, which is precisely what the 'Tahoro Definition' section's prose discusses.",
+      "chosen_heading": "Tahoro Definition",
+      "current_heading": "Tahoro Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Clearing Ashes",
+    "candidates": [
+      "Clearing Ashes",
+      "North vs. South",
+      "Curtain Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the objection about sprinkling on the altar top (not on ashes/coals) and Rabba bar Rav Sheila's revised interpretation about the exposed surface, which is precisely what the 'Clearing Ashes' prose discusses in detail.",
+      "chosen_heading": "Clearing Ashes",
+      "current_heading": "Clearing Ashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Curtain Theory",
+    "candidates": [
+      "North vs. South",
+      "Curtain Theory",
+      "Circuit End Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records the baraita of Chananya vs. Rabbi Yosei debating north vs. south placement, which is exactly what heading 0 ('North vs. South') describes, while the current placement under 'Curtain Theory' corresponds to the Gemara's explanation of the underlying dispute (the entrance position), not the baraita itself.",
+      "chosen_heading": "North vs. South",
+      "current_heading": "Curtain Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Circuit End Rule",
+    "candidates": [
+      "Curtain Theory",
+      "Circuit End Rule",
+      "Proximate Base Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the universal agreement that sprinklings are performed where the horn circuit concludes, and provides the scriptural basis (Leviticus 16:19) \u2014 exactly what the 'Circuit End Rule' prose describes and elaborates upon.",
+      "chosen_heading": "Circuit End Rule",
+      "current_heading": "Circuit End Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Proximate Base Rule",
+    "candidates": [
+      "Proximate Base Rule",
+      "Yishmael vs. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the remainder of the blood is poured at the western base \u2014 because exiting the Sanctuary one first encounters the western side \u2014 which directly corresponds to the 'Proximate Base Rule' section's discussion of proximity as the governing principle.",
+      "chosen_heading": "Proximate Base Rule",
+      "current_heading": "Proximate Base Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Yishmael vs. Shimon",
+    "candidates": [
+      "Yishmael vs. Shimon",
+      "Altar Position Theory",
+      "Meila Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yishmael vs. Shimon",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita establishing which base (southern vs. western) is used and the proximity-based derivation, matching the 'Yishmael vs. Shimon' section's discussion of the divergent positions and their rationale.",
+      "second_heading": "Altar Position Theory",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present Rabbi Yishmael and Rabbi Shimon's explicit dispute, Rav Ashi's resolution via the altar-placement theory, and the school-of-Rabbi-Yishmael addendum \u2014 precisely what the 'Altar Position Theory' prose describes.",
+      "current_heading": "Yishmael vs. Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Meila Debate",
+    "candidates": [
+      "Altar Position Theory",
+      "Meila Debate",
+      "Biblical Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about meilah by blood with the dispute between Rabbi Meir/Rabbi Shimon and the Rabbis, which is precisely what the 'Meila Debate' section's prose describes.",
+      "chosen_heading": "Meila Debate",
+      "current_heading": "Meila Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Biblical Agreement",
+    "candidates": [
+      "Biblical Agreement",
+      "Blood for You"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the dispute is only at the Rabbinic level while everyone agrees there is no Biblical meilah, which matches exactly the 'Biblical Agreement' section's prose about lo pligi ela miderabbanan and the universal Biblical exemption.",
+      "chosen_heading": "Biblical Agreement",
+      "current_heading": "Biblical Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Blood for You",
+    "candidates": [
+      "Blood for You",
+      "Before and After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ulla's derivation from 'lachem' and the school of Rabbi Shimon's derivation from 'lekapper,' which are precisely what heading 0's prose elaborates on.",
+      "chosen_heading": "Blood for You",
+      "current_heading": "Blood for You",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Before and After",
+    "candidates": [
+      "Before and After",
+      "Two Cases Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yo\u1e25anan's derivation from the word 'hu' equating the status of blood before and after atonement, which is precisely what the 'Before and After' section's prose discusses.",
+      "chosen_heading": "Before and After",
+      "current_heading": "Before and After",
+      "moved": false
+    }
+  }
+]

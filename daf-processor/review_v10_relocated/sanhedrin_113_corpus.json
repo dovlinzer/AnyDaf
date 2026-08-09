@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Terumah Ownership",
+    "candidates": [
+      "Hekdesh Paradox",
+      "Terumah Ownership",
+      "Maaser Sheni Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with Rav \u1e24isda's ruling about terumah in the hand of a kohen vs. a Yisrael, including Rav Yosef's objection and the revised formulation, which is precisely what the 'Terumah Ownership' prose describes.",
+      "chosen_heading": "Terumah Ownership",
+      "current_heading": "Terumah Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Maaser Sheni Location",
+    "candidates": [
+      "Maaser Sheni Location",
+      "Rav Yosef Challenge",
+      "Klatu Mechitzot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24isda's teaching distinguishing the dispute about maaser sheni in Jerusalem versus the outlying areas, which is precisely what the 'Maaser Sheni Location' section prose describes.",
+      "chosen_heading": "Maaser Sheni Location",
+      "current_heading": "Maaser Sheni Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Klatu Mechitzot",
+    "candidates": [
+      "Rav Yosef Challenge",
+      "Klatu Mechitzot",
+      "Walls Fallen Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous chain of challenge and response about the Mishnah's case of maaser sheni in an ir nidachas \u2014 covering the Jerusalem objection, klatu mechitzot, tamei produce, redemption via Rabbi Elazar's ruling, and the lakuach case \u2014 exactly matching the detailed prose of heading 1 ('Klatu Mechitzot').",
+      "chosen_heading": "Klatu Mechitzot",
+      "current_heading": "Klatu Mechitzot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Walls Fallen Case",
+    "candidates": [
+      "Walls Fallen Case",
+      "Texts Buried",
+      "Rabbi Eliezer View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the walls-fallen scenario (naflu mechitzot) and Rava's distinction between biblical and rabbinic wall functions, which is precisely what the 'Walls Fallen Case' prose elaborates upon.",
+      "chosen_heading": "Walls Fallen Case",
+      "current_heading": "Walls Fallen Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rabbi Eliezer View",
+    "candidates": [
+      "Texts Buried",
+      "Rabbi Eliezer View",
+      "Barren vs City",
+      "Klal Prat Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both the Mishnah's ruling that sacred scrolls must be interred AND the Gemara's note that this is not in accordance with Rabbi Eliezer \u2014 matching the 'Texts Buried' prose which explicitly covers both 'kisvei hakodesh yignazu' and 'masnisin delo k'Rabbi Eliezer', making it the correct home for this single combined passage.",
+      "chosen_heading": "Texts Buried",
+      "current_heading": "Rabbi Eliezer View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Klal Prat Rule",
+    "candidates": [
+      "Barren vs City",
+      "Klal Prat Rule",
+      "Od Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether the Tannaim dispute Rabbi Avin/Rabbi Ile'a's klal u'ferat principle, which is precisely what the 'Klal Prat Rule' section's prose discusses.",
+      "chosen_heading": "Klal Prat Rule",
+      "current_heading": "Klal Prat Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Od Meaning",
+    "candidates": [
+      "Od Meaning",
+      "Trees Distinction",
+      "Yericho Cherem",
+      "Joshua Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the debate over the meaning of 'od' in 'lo sibaneh od' \u2014 whether it means entirely/at all or only 'as it was' \u2014 which is precisely what the 'Od Meaning' section's prose discusses, including the same Tannaitic dispute and Rav Avin's principle.",
+      "chosen_heading": "Od Meaning",
+      "current_heading": "Od Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Joshua Curse",
+    "candidates": [
+      "Trees Distinction",
+      "Yericho Cherem",
+      "Joshua Curse",
+      "Chiel Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about detached/attached trees and the identification of 'another city' as Jericho, which is precisely what the 'Trees Distinction' prose section describes and analyzes.",
+      "chosen_heading": "Trees Distinction",
+      "current_heading": "Joshua Curse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Chiel Violation",
+    "candidates": [
+      "Joshua Curse",
+      "Chiel Violation",
+      "Moses vs Joshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about Hiel's violation \u2014 the prohibition against rebuilding Jericho under another name, Hiel's failure to learn from Aviram's death before Segub's, and the clarification that Hiel was burying children throughout construction \u2014 which is precisely what candidate 1 ('Chiel Violation') describes in its prose.",
+      "chosen_heading": "Chiel Violation",
+      "current_heading": "Chiel Violation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Moses vs Joshua",
+    "candidates": [
+      "Moses vs Joshua",
+      "No Rain Oath"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moses vs Joshua",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Ahab's argument about Moses's unfulfilled curse versus Joshua's curse, which is precisely what heading 0 ('Moses vs Joshua') discusses in its prose.",
+      "second_heading": "No Rain Oath",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Elijah's immediate oath about rain and his being granted the key to rainfall, which matches heading 1 ('No Rain Oath') exactly.",
+      "current_heading": "Moses vs Joshua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "No Rain Oath",
+    "candidates": [
+      "No Rain Oath",
+      "Keys Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the events described in candidate 0's prose: Elijah hiding at Wadi Cherith, ravens bringing meat from Ahab's slaughterhouses, the wadi drying up, and God seeing the world's suffering \u2014 all of which precede the 'Keys Exchange' narrative of candidate 1.",
+      "chosen_heading": "No Rain Oath",
+      "current_heading": "No Rain Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Keys Exchange",
+    "candidates": [
+      "Keys Exchange",
+      "Door Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the keys exchange narrative \u2014 Elijah requesting the resurrection key, Heaven's response about three keys not given to agents, and the directive to return the rain key \u2014 which is precisely what the 'Keys Exchange' prose section discusses.",
+      "chosen_heading": "Keys Exchange",
+      "current_heading": "Keys Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Door Parable",
+    "candidates": [
+      "Door Parable",
+      "Kaptan Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the door/key parable about Elijah, which is exactly what the 'Door Parable' section's prose discusses.",
+      "chosen_heading": "Door Parable",
+      "current_heading": "Door Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Kaptan Story",
+    "candidates": [
+      "Kaptan Story",
+      "Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the 'Kaptan Story' \u2014 Rabbi Yosei calling Elijah a kaptan and Elijah's reaction proving the point \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Kaptan Story",
+      "current_heading": "Kaptan Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Consequences",
+    "candidates": [
+      "Consequences",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Consequences",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Gemara discussion about wicked/righteous people and divine wrath, which perfectly matches the 'Consequences' section prose.",
+      "second_heading": "Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Hadran/concluding formula marking the end of the tractate, which belongs under the 'Conclusion' section.",
+      "current_heading": "Consequences",
+      "moved": true
+    }
+  }
+]

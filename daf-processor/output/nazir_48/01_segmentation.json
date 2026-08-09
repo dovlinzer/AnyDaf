@@ -24,8 +24,8 @@
           "timestamp": "02:02"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Deriving the Nazir's Meis Mitzvah Exception from the Braita's Drasha on Nefesh Meis",
@@ -125,8 +125,8 @@
           "timestamp": "30:37"
         }
       ],
-      "sefaria_index": 18,
-      "matched": false
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Resolving the Gezeirah Shavah: How Rabbi Akiva Frees Up Imo When Needed",
@@ -144,7 +144,7 @@
           "timestamp": "32:00"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -158,8 +158,8 @@
           "timestamp": "36:34"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     },
     {
       "title": "Why Rabbi Akiva Needs Both Aviv and Imo: Preventing Misinterpretation of the Drasha",
@@ -182,7 +182,7 @@
           "timestamp": "40:18"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 21,
       "matched": false
     },
     {
@@ -201,8 +201,8 @@
           "timestamp": "44:42"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -669,5 +669,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "09:05",
+  "amud_b_micro_title": "Why Not Kal Vachomer",
+  "shiur_start_daf": 48,
+  "shiur_start_amud": "a"
 }

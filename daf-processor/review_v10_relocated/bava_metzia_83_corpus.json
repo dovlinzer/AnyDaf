@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rabbi Elazar's Challenge",
+    "candidates": [
+      "Three Positions",
+      "Rabbi Yehuda's Position",
+      "Rabbi Elazar's Challenge",
+      "Tosafot on Adam Hamazik",
+      "Ramban's Categorization",
+      "Takana for Workers",
+      "Economic Rationale",
+      "Oath Content",
+      "Rava's Clarification",
+      "Barrel on Beam Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form the continuous gemara discussion of Rabbi Elazar's challenge \u2014 questioning how a paid bailee can swear, how an unpaid bailee can swear on level ground, and the Isi ben Yehuda baraita about witnesses \u2014 which is precisely what the 'Rabbi Elazar's Challenge' prose describes.",
+      "chosen_heading": "Rabbi Elazar's Challenge",
+      "current_heading": "Rabbi Elazar's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Barrel on Beam Case",
+    "candidates": [
+      "Tosafot on Adam Hamazik",
+      "Ramban's Categorization",
+      "Takana for Workers",
+      "Economic Rationale",
+      "Oath Content",
+      "Rava's Clarification",
+      "Barrel on Beam Case",
+      "Isi ben Yehuda Ruling",
+      "Wine to Vinegar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes the exact case of the man carrying a barrel in the market of Mechuza who broke it on a protrusion and came before Rava, which is precisely what the 'Barrel on Beam Case' prose discusses.",
+      "chosen_heading": "Barrel on Beam Case",
+      "current_heading": "Barrel on Beam Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Wine to Vinegar Case",
+    "candidates": [
+      "Isi ben Yehuda Ruling",
+      "Wine to Vinegar Case",
+      "Agent Proof Required",
+      "Agra: Half Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the same case of the agent sent to buy 400 pitchers of wine that fermented, which is exactly what the 'Wine to Vinegar Case' prose discusses \u2014 the agent coming before Rava and Rava requiring proof that the wine was good at time of purchase.",
+      "chosen_heading": "Wine to Vinegar Case",
+      "current_heading": "Wine to Vinegar Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Agra: Half Payment",
+    "candidates": [
+      "Agent Proof Required",
+      "Agra: Half Payment",
+      "Dilga: Full Payment",
+      "Broken Barrel Seized",
+      "Beyond Strict Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav \u1e24iyya bar Yosef's ruling about carrying on an agra (pole) with half payment, which matches exactly the 'Agra: Half Payment' section's prose discussion, including the karov le'ones ve'karov li'pshia characterization.",
+      "chosen_heading": "Agra: Half Payment",
+      "current_heading": "Agra: Half Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Beyond Strict Law",
+    "candidates": [
+      "Dilga: Full Payment",
+      "Broken Barrel Seized",
+      "Beyond Strict Law",
+      "Lifnim Mishurat Hadin",
+      "Work Hours by Custom",
+      "Tosafot on Stipulation",
+      "Feeding Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage narrates the actual Talmudic story of Rabba bar bar \u1e24anan's porters breaking his barrel, which is exactly what candidate 1 ('Broken Barrel Seized') introduces in its prose, making it the natural home for this quoted text.",
+      "chosen_heading": "Broken Barrel Seized",
+      "current_heading": "Beyond Strict Law",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Feeding Standards",
+    "candidates": [
+      "Lifnim Mishurat Hadin",
+      "Work Hours by Custom",
+      "Tosafot on Stipulation",
+      "Feeding Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The hadran formula marks the conclusion of the sixth perek and transition to the seventh, which is exactly what the prose under 'Work Hours by Custom' describes \u2014 the hadran closing perek six and opening Hassocher et haPoalim.",
+      "chosen_heading": "Work Hours by Custom",
+      "current_heading": "Feeding Standards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Feeding Standards",
+    "candidates": [
+      "Feeding Standards",
+      "Rabbi Yochanan Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers the full content of both the working hours/local custom rule AND the feeding/sweet foods rule, and the current 'Feeding Standards' section's prose discusses exactly these elements of the mishna (lazun, metika, minhag hamedina), making it the correct placement.",
+      "chosen_heading": "Feeding Standards",
+      "current_heading": "Feeding Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Rabbi Yochanan Story",
+    "candidates": [
+      "Rabbi Yochanan Story",
+      "Rabban Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rabbi Yochanan ben Matya story (including Rabban Shimon's closing opinion), which is precisely what candidate 0's prose discusses in detail, making the current placement correct.",
+      "chosen_heading": "Rabbi Yochanan Story",
+      "current_heading": "Rabbi Yochanan Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rabban Shimon Position",
+    "candidates": [
+      "Rabban Shimon Position",
+      "Reish Lakish's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the non-obvious case discussed in the 'Rabban Shimon Position' prose \u2014 where the employer increased wages and the competing interpretations of why (extended hours vs. quality work) are laid out, matching the prose's detailed discussion of *detafi lehu agrayhu* and the workers' counter-argument about *avidta shapirta*.",
+      "chosen_heading": "Rabban Shimon Position",
+      "current_heading": "Rabban Shimon Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Reish Lakish's Rule",
+    "candidates": [
+      "Reish Lakish's Rule",
+      "Travel Practicalities",
+      "Scriptural Basis",
+      "Workday Span",
+      "New City Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Reish Lakish's rule and its scriptural basis, which is exactly what heading 0 ('Reish Lakish's Rule') describes \u2014 the formulation of the poel bichnisato/biytziato principle with the Psalm 104 verse as its source.",
+      "chosen_heading": "Reish Lakish's Rule",
+      "current_heading": "Reish Lakish's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "New City Practice",
+    "candidates": [
+      "Travel Practicalities",
+      "Scriptural Basis",
+      "Workday Span",
+      "New City Practice",
+      "Rava's Homily"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's discussion of what happens when there is no established custom (new city, eclectic laborers, hiring 'by Torah law'), which is precisely what the 'New City Practice' section's prose describes.",
+      "chosen_heading": "New City Practice",
+      "current_heading": "New City Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Rava's Homily",
+    "candidates": [
+      "Rava's Homily",
+      "Identifying Thieves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rabbi Zeira/Rav Yosef's homiletical reading of Psalm 104 contrasting this world (night/wicked) with the World-to-Come (sun rises/righteous rewarded), which is precisely what candidate 0 ('Rava's Homily') discusses in detail.",
+      "chosen_heading": "Rava's Homily",
+      "current_heading": "Rava's Homily",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Identifying Thieves",
+    "candidates": [
+      "Identifying Thieves",
+      "New Policeman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete narrative of Rabbi Elazar's encounter with the royal officer and his advice on identifying thieves, which is precisely what the 'Identifying Thieves' prose describes in detail.",
+      "chosen_heading": "Identifying Thieves",
+      "current_heading": "Identifying Thieves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "New Policeman",
+    "candidates": [
+      "New Policeman",
+      "Ethical Challenge",
+      "Thorn Removal",
+      "Vineyard Owner's Role"
+    ],
+    "result": null
+  }
+]

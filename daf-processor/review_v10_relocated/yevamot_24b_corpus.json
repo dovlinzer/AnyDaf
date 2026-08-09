@@ -1,0 +1,394 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Married Woman Case",
+    "candidates": [
+      "Previous Mishnah Review",
+      "Insertion Explanation",
+      "Theme Transition",
+      "Freed Slave Case",
+      "Converting Non-Jew Case",
+      "Rationale for Leniency",
+      "Married Woman Case",
+      "Why More Stringent",
+      "Conversion Validity Q",
+      "Ulterior Motive Converts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text covers all three cases (maidservant freed, gentile converted, married woman), but the prose under heading 3 ('Freed Slave Case') explicitly introduces this mishna with 'The mishnah on 24b opens' and begins analyzing it \u2014 making it the natural home for the mishna itself, with subsequent headings analyzing its individual components.",
+      "chosen_heading": "Freed Slave Case",
+      "current_heading": "Married Woman Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ulterior Motive Converts",
+    "candidates": [
+      "Why More Stringent",
+      "Conversion Validity Q",
+      "Ulterior Motive Converts",
+      "R. Nehemiah's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with the gemara noting the mishna implies she is a convert, then raises the contradiction from the baraita \u2014 this is precisely the 'challenge' the prose in candidate 1 describes ('the gemara opens with a challenge'), before the baraita content itself is then elaborated under candidate 2.",
+      "chosen_heading": "Conversion Validity Q",
+      "current_heading": "Ulterior Motive Converts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "R. Nehemiah's View",
+    "candidates": [
+      "Ulterior Motive Converts",
+      "R. Nehemiah's View",
+      "Halakha Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly articulate Rabbi Ne\u1e25emya's list of invalid convert paradigms (lions, dreams, Mordecai/Esther) and the Gemara's clarification of 'ki-vzman ha-zeh,' which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "R. Nehemiah's View",
+      "current_heading": "R. Nehemiah's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Halakha Ruling",
+    "candidates": [
+      "Halakha Ruling",
+      "Rav Ashi Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Yitz\u1e25ak bar Shmuel bar Marta's ruling in the name of Rav that the halakha follows the position that all such converts are valid, which is precisely what the 'Halakha Ruling' prose section describes.",
+      "chosen_heading": "Halakha Ruling",
+      "current_heading": "Halakha Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Ashi Principle",
+    "candidates": [
+      "Rav Ashi Principle",
+      "Lechatilla vs B'dieavad",
+      "Modern Teshuvot",
+      "Lesser-of-Evils Analysis",
+      "Kabbalat Mitzvot Concern",
+      "Gerim in Prosperous Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Asi's principle about avoiding perverse speech/rumors as the reason marriage is prohibited ab initio, which is precisely what the 'Rav Ashi Principle' section discusses in detail.",
+      "chosen_heading": "Rav Ashi Principle",
+      "current_heading": "Rav Ashi Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Gerim in Prosperous Times",
+    "candidates": [
+      "Lechatilla vs B'dieavad",
+      "Modern Teshuvot",
+      "Lesser-of-Evils Analysis",
+      "Kabbalat Mitzvot Concern",
+      "Gerim in Prosperous Times",
+      "R. Elazar's Pasuk",
+      "Tosafot on Exceptions",
+      "Gerim Grurim Cases",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is about not accepting converts in the messianic era or in the times of David and Solomon, which is precisely what the 'Gerim in Prosperous Times' section discusses.",
+      "chosen_heading": "Gerim in Prosperous Times",
+      "current_heading": "Gerim in Prosperous Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "R. Elazar's Pasuk",
+      "Tosafot on Exceptions",
+      "Gerim Grurim Cases",
+      "Rav's Position",
+      "Rav Sheshet's Objection",
+      "Interruption Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav's ruling that witnesses are required before compelling divorce in the suspected adulterous woman case, which matches exactly the prose of 'Rav's Position' describing Rav's u-ve-edim standard.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Interruption Scenario",
+    "candidates": [
+      "Rav Sheshet's Objection",
+      "Interruption Scenario",
+      "Rumor Interruption Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Sheshet's dismissive remark about Rav being asleep AND the baraita he cites as contradiction, which together constitute his objection \u2014 exactly what candidate 0's prose describes as a unified unit.",
+      "chosen_heading": "Rav Sheshet's Objection",
+      "current_heading": "Interruption Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rumor Interruption Logic",
+    "candidates": [
+      "Interruption Scenario",
+      "Rumor Interruption Logic",
+      "Rav Maintains Position",
+      "No Children Case",
+      "Children Present Case",
+      "Eidim Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's reasoning about what circumstances make the interruption scenario meaningful \u2014 specifically the logic that the intermediate marriage matters only when there are no witnesses, implying rumors alone suffice \u2014 which is exactly what the 'Rumor Interruption Logic' prose describes.",
+      "chosen_heading": "Rumor Interruption Logic",
+      "current_heading": "Rumor Interruption Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Eidim Override",
+    "candidates": [
+      "Rav Maintains Position",
+      "No Children Case",
+      "Children Present Case",
+      "Eidim Override",
+      "Court Force Language"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Maintains Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's rebuttal maintaining his position that witnesses are required for forced divorce, matching exactly the 'Rav Maintains Position' prose about Rav arguing the baraita's chiddush is at the le-khatkhila level.",
+      "second_heading": "No Children Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new baraita with 'ba-meh devarim amurim' distinguishing the no-children case, which matches the 'No Children Case' prose precisely.",
+      "current_heading": "Eidim Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Court Force Language",
+    "candidates": [
+      "Eidim Override",
+      "Court Force Language",
+      "Language Question",
+      "Rav Interpreting Mishnah",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why Rav needs to establish the mishnah as requiring both children and witnesses, rather than simply explaining it as a no-children case where even without witnesses divorce is compelled \u2014 this is precisely the challenge the 'Eidim Override' prose describes: the baraita implying that without children, rumor alone forces divorce, which directly challenges Rav's witnesses-only position.",
+      "chosen_heading": "Eidim Override",
+      "current_heading": "Court Force Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Language Question",
+      "Rav Interpreting Mishnah",
+      "Resolution",
+      "Both Positions Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the evidence for Rebbi's distinct position \u2014 Rava's linguistic observation (item 1) and the baraita citing Rebbi's 'mechuar ha-davar' rulings (items 2\u20133) \u2014 which is precisely what the 'Resolution' prose describes as the gemara's final move: showing that the lenient baraita reflects Rebbi's view and that Rav disagrees with Rebbi outright.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Both Positions Valid",
+    "candidates": [
+      "Both Positions Valid",
+      "Rumor Duration",
+      "Fear Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the halakhic conclusions for both Rav and Rabbi Yehuda HaNasi and resolves the apparent contradiction by distinguishing kala d'pasik from kala d'lo pasik, which is exactly what the 'Both Positions Valid' prose describes.",
+      "chosen_heading": "Both Positions Valid",
+      "current_heading": "Both Positions Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Fear Exception",
+    "candidates": [
+      "Rumor Duration",
+      "Fear Exception",
+      "Enemies Exception",
+      "Scope of Sugya",
+      "Original Husband Standard",
+      "Suspicious Evidence Scope",
+      "Shem Ra Case",
+      "Neder Case",
+      "Rationale",
+      "Intent Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full discussion of rumor duration (yoma u-palga), the fear exception, and the enemies exception together \u2014 but the primary topic introduced is 'what constitutes a persistent rumor and how long it lasts,' which is precisely what the 'Rumor Duration' section's prose describes, and that section's prose already references all three qualifications as part of Abbaye's teaching.",
+      "chosen_heading": "Rumor Duration",
+      "current_heading": "Fear Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Intent Analysis",
+    "candidates": [
+      "Enemies Exception",
+      "Scope of Sugya",
+      "Original Husband Standard",
+      "Suspicious Evidence Scope",
+      "Shem Ra Case",
+      "Neder Case",
+      "Rationale",
+      "Intent Analysis",
+      "Question Setup",
+      "Proof Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage cites the mishnah about 'ha-motzi et ishto mishum shem ra' and 'mishum neder' and poses the question of remarriage, which is exactly what the 'Shem Ra Case' heading introduces \u2014 the prose of heading 4 explicitly describes this mishnah citation.",
+      "chosen_heading": "Shem Ra Case",
+      "current_heading": "Intent Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Proof Attempt",
+    "candidates": [
+      "Question Setup",
+      "Proof Attempt",
+      "Counter-Distinction",
+      "Final Ruling",
+      "Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the same proof attempt and counter-distinction exchange: item 1 advances the analogy to the adultery case (eshet ish) as a proof, and item 2 continues the same back-and-forth by pressing and then resolving the distinction between husband and adulterer \u2014 all of which fits squarely under 'Proof Attempt' where the analogy to the adultery case is introduced and debated.",
+      "chosen_heading": "Proof Attempt",
+      "current_heading": "Proof Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Reasoning",
+    "candidates": [
+      "Counter-Distinction",
+      "Final Ruling",
+      "Reasoning",
+      "Pattern Observation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection of the analogy ('That is not so') and its counter-distinction between the adultery case (which strengthens the rumor) and the remarriage case (which dispels it), matching precisely the 'Counter-Distinction' section's prose about resisting the analogy and explaining the structural difference between the two cases.",
+      "chosen_heading": "Counter-Distinction",
+      "current_heading": "Reasoning",
+      "moved": true
+    }
+  }
+]

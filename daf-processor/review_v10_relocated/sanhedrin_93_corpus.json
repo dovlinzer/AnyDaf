@@ -1,0 +1,512 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Five Categories",
+    "candidates": [
+      "Five Categories",
+      "Bnei Ephraim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'who are the dead that Ezekiel revived?' which is exactly what the 'Five Categories' section prose describes as the gemara on 92b asking.",
+      "chosen_heading": "Five Categories",
+      "current_heading": "Five Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Bnei Ephraim",
+    "candidates": [
+      "Bnei Ephraim",
+      "Rejected Resurrection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the descendants of Ephraim who miscalculated the end of the Egyptian enslavement, matching precisely the prose under 'Bnei Ephraim' about premature redemption and the killing by men of Gath.",
+      "chosen_heading": "Bnei Ephraim",
+      "current_heading": "Bnei Ephraim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rejected Resurrection",
+    "candidates": [
+      "Rejected Resurrection",
+      "Dry Practitioners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's opinion about people who denied resurrection, which is precisely what the 'Rejected Resurrection' section's prose discusses, including the same verse about dried bones and lost hope.",
+      "chosen_heading": "Rejected Resurrection",
+      "current_heading": "Rejected Resurrection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Dry Practitioners",
+    "candidates": [
+      "Dry Practitioners",
+      "Temple Desecrators"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Dry Practitioners' directly discusses Rabbi Yirmeya bar Abba's statement about people lacking the moisture of a mitzva and the dry bones imagery, which is exactly what this passage contains.",
+      "chosen_heading": "Dry Practitioners",
+      "current_heading": "Dry Practitioners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Temple Desecrators",
+    "candidates": [
+      "Temple Desecrators",
+      "Beautiful Youth/Dura"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yitz\u1e25ak Nappa\u1e25a's statement about people who covered the Sanctuary with repugnant creatures, which directly matches the 'Temple Desecrators' prose discussion of this exact teaching.",
+      "chosen_heading": "Temple Desecrators",
+      "current_heading": "Temple Desecrators",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Beautiful Youth/Dura",
+    "candidates": [
+      "Beautiful Youth/Dura",
+      "Modern Context",
+      "Six Miracles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the dead of Bik'at Dura and the beautiful youths trampled by Nebuchadnezzar, which is exactly what the 'Beautiful Youth/Dura' section's prose discusses.",
+      "chosen_heading": "Beautiful Youth/Dura",
+      "current_heading": "Beautiful Youth/Dura",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Six Miracles",
+    "candidates": [
+      "Modern Context",
+      "Six Miracles",
+      "Furnace Rising",
+      "Furnace Lime/Base",
+      "Officials Burned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about Ezekiel reviving the dead in the Dura Valley simultaneous with the furnace episode, Rabbi Yitz\u1e25ak's comment about Nebuchadnezzar's praise, and the baraita listing the six miracles \u2014 are explicitly discussed together in the 'Six Miracles' prose, which quotes the opening baraita verbatim and lists all six miracles including Ezekiel reviving the dead in Bik'at Dura.",
+      "chosen_heading": "Six Miracles",
+      "current_heading": "Six Miracles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Officials Burned",
+    "candidates": [
+      "Furnace Rising",
+      "Furnace Lime/Base",
+      "Officials Burned",
+      "Royal Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly supports the 'Officials Burned' section by providing the Scriptural proof that four of eight ranks of officials were burned \u2014 exactly what that section's prose describes.",
+      "chosen_heading": "Officials Burned",
+      "current_heading": "Officials Burned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Royal Garments",
+    "candidates": [
+      "Royal Garments",
+      "Pirkei Avot",
+      "Historical Dignity",
+      "Greater Status",
+      "Fourth Figure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the school of Rabbi Eliezer ben Ya'akov teaching that even in danger one should not deviate from one's prominence, derived from the Daniel verse about the men bound in their royal garments \u2014 is precisely what the 'Royal Garments' section prose discusses.",
+      "chosen_heading": "Royal Garments",
+      "current_heading": "Royal Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Fourth Figure",
+    "candidates": [
+      "Pirkei Avot",
+      "Historical Dignity",
+      "Greater Status",
+      "Fourth Figure",
+      "Nations React"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement that tzadikim are greater than ministering angels, which is precisely what candidate 2 ('Greater Status') introduces and discusses \u2014 including the same verse from Daniel and the same claim about Chananyah, Mishael, and Azaryah.",
+      "chosen_heading": "Greater Status",
+      "current_heading": "Fourth Figure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Nations React",
+    "candidates": [
+      "Fourth Figure",
+      "Nations React",
+      "Admission of Sin",
+      "Shir HaMa'alot",
+      "Shame Concept",
+      "Palm/Israel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the nations striking Israel and confronting them about bowing to the idol after Hananiah, Mishael, and Azariah emerged from the furnace, which matches exactly the 'Nations React' section's prose discussion of this same event.",
+      "chosen_heading": "Nations React",
+      "current_heading": "Nations React",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Palm/Israel",
+    "candidates": [
+      "Admission of Sin",
+      "Shir HaMa'alot",
+      "Shame Concept",
+      "Palm/Israel",
+      "One Branch",
+      "Tamar/Judah",
+      "Darkness/Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is currently under 'Palm/Israel' and the prose there directly discusses this exact Gemara \u2014 Rabbi Shmuel bar Na\u1e25mani's interpretation of the palm tree verse from Shir HaShirim as referring to Israel, which is precisely what the quoted text contains.",
+      "chosen_heading": "Palm/Israel",
+      "current_heading": "Palm/Israel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Darkness/Night",
+    "candidates": [
+      "One Branch",
+      "Tamar/Judah",
+      "Darkness/Night",
+      "God/Red Horse",
+      "God Cools",
+      "Myrtles/Righteous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the meaning of 'I saw the night' and 'upon a red horse,' with the night interpretation ('God sought to turn the world to night') being the primary focus, matching the 'Darkness/Night' section's prose exactly.",
+      "chosen_heading": "Darkness/Night",
+      "current_heading": "Darkness/Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Myrtles/Righteous",
+    "candidates": [
+      "God/Red Horse",
+      "God Cools",
+      "Myrtles/Righteous",
+      "Esther/Hadassah",
+      "Three Leaves",
+      "White Horse",
+      "Three Opinions",
+      "Evil Eye Death",
+      "Spat Upon",
+      "Went to Israel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with 'keivan shenistakel beChananyah Mishael va'Azaryah nitkarera da'ato' \u2014 exactly the phrase discussed in candidate 1's prose about God's mind cooling when He looked upon the three men, and the subsequent content about hadasim/metzulah/white horse all flows from that moment, making candidate 1 the natural home rather than candidate 2 which focuses only on the myrtle symbolism.",
+      "chosen_heading": "God Cools",
+      "current_heading": "Myrtles/Righteous",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Went to Israel",
+    "candidates": [
+      "Esther/Hadassah",
+      "Three Leaves",
+      "White Horse",
+      "Three Opinions",
+      "Evil Eye Death",
+      "Spat Upon",
+      "Went to Israel",
+      "Tannaitic Sources",
+      "Anshei Mofet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents all three Amoraic opinions together (Rav, Shmuel, Rabbi Yo\u1e25anan) about where the three went after the furnace, which matches the 'Three Opinions' heading that introduces all three views as a unit, rather than the 'Went to Israel' heading which covers only Rabbi Yo\u1e25anan's opinion.",
+      "chosen_heading": "Three Opinions",
+      "current_heading": "Went to Israel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Anshei Mofet",
+    "candidates": [
+      "Tannaitic Sources",
+      "Anshei Mofet",
+      "Three Reasons",
+      "Tverya Aqueduct",
+      "Tverya Center",
+      "Alfalfa Seeds",
+      "Egyptian Pigs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the tannaitic parallel dispute (Rabbi Eliezer, Rabbi Yehoshua, and the Rabbis) which matches heading 0 'Tannaitic Sources' whose prose explicitly describes these three positions, while heading 1 'Anshei Mofet' covers only the subsequent exegetical point about the Zechariah verse and who the anshei mofet are.",
+      "chosen_heading": "Tannaitic Sources",
+      "current_heading": "Anshei Mofet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Egyptian Pigs",
+    "candidates": [
+      "Three Reasons",
+      "Tverya Aqueduct",
+      "Tverya Center",
+      "Alfalfa Seeds",
+      "Egyptian Pigs",
+      "Thodos Practice",
+      "Unauthorized Pigs",
+      "God's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three Amoraic explanations (Rav, Shmuel, and Rabbi Yo\u1e25anan) plus the baraita challenge and resolution in one continuous unit, which belongs under the 'Three Reasons' heading that introduces Daniel's absence and all three explanations together.",
+      "chosen_heading": "Three Reasons",
+      "current_heading": "Egyptian Pigs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "God's Reason",
+    "candidates": [
+      "Thodos Practice",
+      "Unauthorized Pigs",
+      "God's Reason",
+      "Daniel's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes God's reason for sending Daniel away \u2014 exactly what the prose under 'God's Reason' discusses \u2014 and the current placement is correct.",
+      "chosen_heading": "God's Reason",
+      "current_heading": "God's Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Daniel's Reason",
+    "candidates": [
+      "Daniel's Reason",
+      "King's Concern",
+      "King Worshipped"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Daniel's own reasoning for leaving, which is precisely what heading 0 'Daniel's Reason' discusses in its prose.",
+      "chosen_heading": "Daniel's Reason",
+      "current_heading": "Daniel's Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "King Worshipped",
+    "candidates": [
+      "King's Concern",
+      "King Worshipped",
+      "False Prophets Intro",
+      "Curse Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Nebuchadnezzar's motivation to send Daniel away AND the proof that he worshipped Daniel, which together match heading 1's prose that explicitly addresses both the premise and the derivation from the Daniel verse.",
+      "chosen_heading": "King Worshipped",
+      "current_heading": "King Worshipped",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Curse Comparison",
+    "candidates": [
+      "False Prophets Intro",
+      "Curse Comparison",
+      "Roasted Seeds",
+      "Sexual Sin",
+      "Seduction Plan",
+      "Daughter Reports"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the false prophets verse (Jeremiah 29:21) AND the curse/roasting verse (Jeremiah 29:22) plus Rabbi Yochanan's teaching, spanning content described in candidates 0, 1, and 2 \u2014 but since it begins with the introductory citation of the false prophets verse which is what candidate 0's prose is specifically about, and the passage is a single unified Talmudic excerpt, candidate 0 ('False Prophets Intro') is the best single home, though the current placement at 'Curse Comparison' is also defensible.",
+      "chosen_heading": "False Prophets Intro",
+      "current_heading": "Curse Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Daughter Reports",
+    "candidates": [
+      "Roasted Seeds",
+      "Sexual Sin",
+      "Seduction Plan",
+      "Daughter Reports",
+      "Prohibition Confirmed",
+      "King's Test",
+      "Joshua Chosen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sexual Sin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the verse about adultery and the seduction scheme including Nebuchadnezzar's daughter reporting to her father \u2014 exactly what heading 1 ('Sexual Sin') introduces with 'Mai avud \u2014 what exactly did they do?'",
+      "second_heading": "Prohibition Confirmed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins with 'when they came to her she sent them to her father' and then covers Nebuchadnezzar confronting them about Hananiah/Mishael/Azariah's ruling of prohibition, which is precisely what heading 4 ('Prohibition Confirmed') describes.",
+      "current_heading": "Daughter Reports",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Joshua Chosen",
+    "candidates": [
+      "Prohibition Confirmed",
+      "King's Test",
+      "Joshua Chosen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Ahab and Zedekiah telling Nebuchadnezzar they are only two (vs. three), being told to choose a companion, and selecting Joshua the High Priest for his great merit \u2014 exactly what the 'Joshua Chosen' section's prose discusses.",
+      "chosen_heading": "Joshua Chosen",
+      "current_heading": "Joshua Chosen",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Amemar on Loans",
+    "candidates": [
+      "Muchzak vs Ra'uy",
+      "Rabbi vs Chachamim",
+      "Amemar on Loans",
+      "Nehardea View",
+      "Rabba vs Rav Nachman",
+      "Liens & Possession",
+      "Tosafot on Cash",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Amemar on Loans",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the shalchu mitam ruling and Ameimar's teaching about loans vs. interest, which is precisely what heading 2 ('Amemar on Loans') describes in its prose.",
+      "second_heading": "Rabba vs Rav Nachman",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 present Rabba vs. Rav Nachman's dispute about whether collecting cash or land entitles the bechor to double, which is exactly what heading 4 ('Rabba vs Rav Nachman') discusses.",
+      "current_heading": "Amemar on Loans",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Nehardea View",
+      "Rabba vs Rav Nachman",
+      "Liens & Possession",
+      "Tosafot on Cash",
+      "Abaye's Challenge",
+      "Creditor Collection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items are Abaye's challenge to both Rabba and Rav Nachman \u2014 items 1-2 challenge the asymmetry between cash and land, and item 3 is Abaye's second challenge using the Bnei Ma'arava/grandmother case \u2014 exactly matching the prose of candidate 4 ('Abaye's Challenge').",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Creditor Collection",
+    "candidates": [
+      "Creditor Collection",
+      "Shibuda Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute Abaye's challenge to Rav Nachman's position \u2014 item 1 raises the internal logical difficulty with the land/money distinction, and item 2 cites Rav Nachman's own ruling about creditors collecting from orphans' land \u2014 exactly what the 'Creditor Collection' prose describes.",
+      "chosen_heading": "Creditor Collection",
+      "current_heading": "Creditor Collection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Shibuda Mechanism",
+    "candidates": [
+      "Shibuda Mechanism",
+      "Tosafot Position",
+      "Property Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba/Rava's response that he and Rav Nachman were only articulating Bnei Ma'arava's position, not their own views \u2014 exactly the content discussed in the 'Shibuda Mechanism' prose section.",
+      "chosen_heading": "Shibuda Mechanism",
+      "current_heading": "Shibuda Mechanism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Property Condition",
+    "candidates": [
+      "Tosafot Position",
+      "Property Condition",
+      "Rav Huna vs Anan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the grandmother case facts \u2014 the declaration of 'nichsai l'savta,' the married daughter who died during the grandmother's lifetime, and the husband's claim \u2014 which is exactly what candidate 1 ('Property Condition') describes in its prose.",
+      "chosen_heading": "Property Condition",
+      "current_heading": "Property Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Huna vs Anan",
+    "candidates": [
+      "Rav Huna vs Anan",
+      "Parsing Heirs",
+      "Husband Status",
+      "Shachid Mitam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Huna vs. Rav Anan dispute about parsing 'yorshai' as meaning immediate heirs only or heirs of heirs, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rav Huna vs Anan",
+      "current_heading": "Rav Huna vs Anan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Shachid Mitam",
+    "candidates": [
+      "Parsing Heirs",
+      "Husband Status",
+      "Shachid Mitam",
+      "Rav Elazar's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly introduce and elaborate the core ruling of 'shalchu mitam' \u2014 that the husband does not inherit because the property was ra'uy and a husband does not take ra'uy as muchzak \u2014 which is precisely what the 'Husband Status' prose section discusses, whereas the current placement ('Shachid Mitam') discusses the downstream implications and reframing of that ruling rather than its initial statement.",
+      "chosen_heading": "Husband Status",
+      "current_heading": "Shachid Mitam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rav Elazar's Rule",
+    "candidates": [
+      "Shachid Mitam",
+      "Rav Elazar's Rule",
+      "Rava's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's rule that 'after you' is like 'from now,' which is precisely the principle discussed in the 'Rav Elazar's Rule' section's prose.",
+      "chosen_heading": "Rav Elazar's Rule",
+      "current_heading": "Rav Elazar's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rava's Argument",
+    "candidates": [
+      "Rava's Argument",
+      "Rav Papa Ruling",
+      "No Double in Ra'uy",
+      "No Double in Debts",
+      "Bechor's Own Debt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's statement that the Bnei Ma'arava position is reasonable because the grandmother's sale would be valid \u2014 exactly the argument described in candidate 0's prose about Rava/Rabba's consistency argument.",
+      "chosen_heading": "Rava's Argument",
+      "current_heading": "Rava's Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Bechor's Own Debt",
+    "candidates": [
+      "Rav Papa Ruling",
+      "No Double in Ra'uy",
+      "No Double in Debts",
+      "Bechor's Own Debt",
+      "Ketubah & Geonim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's complete halakhic ruling covering all three points (husband, firstborn in ra'uy, firstborn in loans), which corresponds directly to candidate 0's prose about Rav Papa's definitive ruling, while the current placement under 'Bechor's Own Debt' (index 3) is clearly wrong as that passage contains no mention of the bechor's own debt case.",
+      "chosen_heading": "Rav Papa Ruling",
+      "current_heading": "Bechor's Own Debt",
+      "moved": true
+    }
+  }
+]

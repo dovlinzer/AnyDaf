@@ -1,0 +1,589 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Tamar & Zimri",
+    "candidates": [
+      "Praised King",
+      "Righteous & Wicked",
+      "Tamar & Zimri",
+      "Aveirah Lishmah",
+      "Yael Superior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Ulla statement about Tamar/Zimri and the Rav Nachman bar Yitzchak statement about aveirah lishmah, and candidate 1 ('Righteous & Wicked') explicitly discusses both the Tamar/Zimri contrast and the gedola aveirah lishmah principle as a crystallization of that comparison, making it the clearly better fit than candidate 2 which discusses only the Rav Nachman/Yael portion.",
+      "chosen_heading": "Righteous & Wicked",
+      "current_heading": "Tamar & Zimri",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Yael Superior",
+    "candidates": [
+      "Aveirah Lishmah",
+      "Yael Superior",
+      "Mitzvah Value",
+      "Reconciliation",
+      "Dangers & Exceptions",
+      "Esther & Examples",
+      "Passion vs Apathy",
+      "Seven Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's objection from Rav Yehuda/Rav's principle about shelo lishmah, which is precisely what the 'Yael Superior' section's prose describes and analyzes.",
+      "chosen_heading": "Yael Superior",
+      "current_heading": "Yael Superior",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Seven Acts",
+    "candidates": [
+      "Mitzvah Value",
+      "Reconciliation",
+      "Dangers & Exceptions",
+      "Esther & Examples",
+      "Passion vs Apathy",
+      "Seven Acts",
+      "Pleasure Question",
+      "Good of Wicked",
+      "Shelo Lishmah Value",
+      "Balak's Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers both the seven acts of intercourse (matching 'Seven Acts' prose) and the resolution about pleasure from the wicked (matching 'Good of Wicked' prose), but since it is a single quoted text spanning both points and the current placement at 'Seven Acts' is where this combined passage begins, and the prose for heading 5 explicitly discusses the seven acts derivation which opens this passage, the current placement is correct.",
+      "chosen_heading": "Seven Acts",
+      "current_heading": "Seven Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Balak's Merit",
+    "candidates": [
+      "Pleasure Question",
+      "Good of Wicked",
+      "Shelo Lishmah Value",
+      "Balak's Merit",
+      "Reward for Words",
+      "Lot's Daughters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is specifically about Balak's forty-two offerings and Ruth descending from him, which is exactly what the 'Balak's Merit' section's prose discusses.",
+      "chosen_heading": "Balak's Merit",
+      "current_heading": "Balak's Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Lot's Daughters",
+    "candidates": [
+      "Reward for Words",
+      "Lot's Daughters",
+      "Priority Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete teaching of Rabbi \u1e24iyya bar Abba in the name of Rabbi Yo\u1e25anan about God rewarding euphemistic speech, which is precisely what heading 0 ('Reward for Words') introduces in its prose, whereas the current placement under 'Lot's Daughters' is a thematic neighbor but not the true home of this specific derivation.",
+      "chosen_heading": "Reward for Words",
+      "current_heading": "Lot's Daughters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Priority Merit",
+    "candidates": [
+      "Lot's Daughters",
+      "Priority Merit",
+      "Me'am Ha'aretz",
+      "Kohen Gadol Logic",
+      "Nasi Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle of rushing to perform a mitzvah and the reward the older daughter received for preceding her sister, which is precisely what the 'Priority Merit' section's prose describes.",
+      "chosen_heading": "Priority Merit",
+      "current_heading": "Priority Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Nasi Logic",
+    "candidates": [
+      "Me'am Ha'aretz",
+      "Kohen Gadol Logic",
+      "Nasi Logic",
+      "Half & Half Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita's initial exclusion of the mashiach and nasi from 'me'am ha'aretz' plus the immediate question of why such exclusion is needed \u2014 exactly what candidate 0's prose describes \u2014 before the detailed logical reasoning addressed in candidates 1 and 2.",
+      "chosen_heading": "Me'am Ha'aretz",
+      "current_heading": "Nasi Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Half & Half Case",
+    "candidates": [
+      "Nasi Logic",
+      "Half & Half Case",
+      "Status Change",
+      "Kingship Interrupt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous sugya: item 1 raises the challenge about the nasi, item 2 is Rav Zevid's first answer (the commoner-then-appointed scenario), and item 3 is the revised answer for the Rabbanan \u2014 all of which is described precisely in the 'Nasi Logic' prose, which explicitly walks through both formulations of Rav Zevid's answer and the Rabbi Shimon vs. Rabbanan tension.",
+      "chosen_heading": "Nasi Logic",
+      "current_heading": "Half & Half Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Kingship Interrupt",
+    "candidates": [
+      "Status Change",
+      "Kingship Interrupt",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's dilemma about whether kingship interrupts a sin when both halves were eaten as a commoner, which is precisely what the 'Kingship Interrupt' prose describes in detail.",
+      "chosen_heading": "Kingship Interrupt",
+      "current_heading": "Kingship Interrupt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Unresolved",
+    "candidates": [
+      "Unresolved",
+      "Safek Chelev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Ulla/Rabbi Yochanan dichuy principle and the gemara's rejection of the comparison, which is exactly what the 'Unresolved' section's prose discusses in detail.",
+      "chosen_heading": "Unresolved",
+      "current_heading": "Unresolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Safek Chelev",
+    "candidates": [
+      "Safek Chelev",
+      "Rabbanan View",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Zeira's dilemma about safek chelev and frames the question by dismissing the Rabbanan side, which matches the 'Safek Chelev' section's prose that sets up the problem and its structural complexity before separately analyzing the Rabbanan and Rabbi Shimon positions.",
+      "chosen_heading": "Safek Chelev",
+      "current_heading": "Safek Chelev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Rabbanan View",
+      "Rabbi Shimon View",
+      "Teiku Status",
+      "Mumar Excluded",
+      "Shav B'Yedi'ah",
+      "Lo Shav Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the exact dilemma about whether the status change affects the asham taluy obligation, which is precisely what the Rabbi Shimon View prose describes, including both possibilities and the reasoning about whether the korban itself changes.",
+      "chosen_heading": "Rabbi Shimon View",
+      "current_heading": "Rabbi Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Lo Shav Status",
+    "candidates": [
+      "Teiku Status",
+      "Mumar Excluded",
+      "Shav B'Yedi'ah",
+      "Lo Shav Status",
+      "Mumar Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita that excludes the mumar (apostate) from bringing a korban chatat, with item 1 giving the first derivation from 'me'am ha'aretz' and item 2 giving Rabbi Shimon bar Yosi's alternative derivation \u2014 exactly what the 'Mumar Excluded' prose describes.",
+      "chosen_heading": "Mumar Excluded",
+      "current_heading": "Lo Shav Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Mumar Scope",
+    "candidates": [
+      "Lo Shav Status",
+      "Mumar Scope",
+      "Rava Position",
+      "Mumar Teivon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Hamnuna's practical distinction between the two opinions using the case of a mumar le'chelev who brings a korban for blood, which is precisely what the 'Mumar Scope' section's prose describes.",
+      "chosen_heading": "Mumar Scope",
+      "current_heading": "Mumar Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Mumar Teivon",
+    "candidates": [
+      "Rava Position",
+      "Mumar Teivon",
+      "Baraita Definitions",
+      "Kilayim Mumar",
+      "Teivon vs Hachis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Rava's statement that everyone agrees a mumar for chelev is not a mumar for dam, which is precisely what the 'Rava Position' prose describes, and then provides the gemara's reframing \u2014 both parts belong under that heading rather than under 'Mumar Teivon' which discusses the reframed case in detail without needing to quote the initial Rava objection.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Mumar Teivon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Teivon vs Hachis",
+    "candidates": [
+      "Baraita Definitions",
+      "Kilayim Mumar",
+      "Teivon vs Hachis",
+      "D'oraita vs Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the baraita that defines mumar in two seemingly contradictory ways, followed by Rabba bar bar Chana/Rabbi Yochanan's resolution distinguishing l'teiavon from lehachis \u2014 which is precisely what the 'Baraita Definitions' prose describes.",
+      "chosen_heading": "Baraita Definitions",
+      "current_heading": "Teivon vs Hachis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "D'oraita vs Rabbanan",
+    "candidates": [
+      "Teivon vs Hachis",
+      "D'oraita vs Rabbanan",
+      "Min Definition",
+      "Min Criteria",
+      "Flea Case",
+      "One-Time Act",
+      "Nasi Defined"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "D'oraita vs Rabbanan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the kilayim de'rabbanan case and whether rabbinic violations constitute mumar status, which matches exactly the 'D'oraita vs Rabbanan' prose.",
+      "second_heading": "Teivon vs Hachis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Rav Acha/Ravina dispute about l'teiavon vs lehachis and the flea case, which belongs under 'Teivon vs Hachis' as that section's prose explicitly discusses this exact conceptual distinction and the flea/insect example.",
+      "current_heading": "D'oraita vs Rabbanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Nasi Defined",
+    "candidates": [
+      "Min Definition",
+      "Min Criteria",
+      "Flea Case",
+      "One-Time Act",
+      "Nasi Defined",
+      "Rabbi's Status",
+      "Bavel Competition",
+      "Kings Separate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items form a continuous baraita establishing that the 'nasi' who brings the se'ir offering must be a king \u2014 one over whom no human authority stands \u2014 which is precisely what the 'Nasi Defined' prose describes.",
+      "chosen_heading": "Nasi Defined",
+      "current_heading": "Nasi Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Kings Separate",
+    "candidates": [
+      "Rabbi's Status",
+      "Bavel Competition",
+      "Kings Separate",
+      "Subject to Bavel",
+      "Staff vs Law",
+      "Roles Separated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire exchange \u2014 Rabbi's initial question about his status, Rabbi \u1e24iyya's answer about the Exilarch, the objection from kings of Israel/House of David, and the reply about subjection to Babylonian authority \u2014 which is all introduced and framed under the 'Rabbi's Status' heading that poses the very dilemma the passage explores.",
+      "chosen_heading": "Rabbi's Status",
+      "current_heading": "Kings Separate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Roles Separated",
+    "candidates": [
+      "Subject to Bavel",
+      "Staff vs Law",
+      "Roles Separated",
+      "Inheritance Question",
+      "Mashiach Defined",
+      "Anointed Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Safra's alternative formulation distinguishing the shevet (rod/scepter) of the Exilarch from the mechokek (staff/lawgiver) of Rabbi's descendants, which directly matches the 'Staff vs Law' section's prose describing exactly this distinction between Bavel's coercive enforcement power and Rabbi's Torah authority.",
+      "chosen_heading": "Staff vs Law",
+      "current_heading": "Roles Separated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Anointed Distinction",
+    "candidates": [
+      "Inheritance Question",
+      "Mashiach Defined",
+      "Anointed Distinction",
+      "Par Exception",
+      "Kohen Gadol Laws",
+      "Murderer Release"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna defining 'who is the Mashiach' (anointed with shemen hamishcha vs. merubeh begadim) directly matches the prose of candidate 1 ('Mashiach Defined'), which explicitly introduces this very question and answer, while the current placement (candidate 2) describes only the equality between the two types with one exception.",
+      "chosen_heading": "Mashiach Defined",
+      "current_heading": "Anointed Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155
+    ],
+    "current_heading": "Murderer Release",
+    "candidates": [
+      "Par Exception",
+      "Kohen Gadol Laws",
+      "Murderer Release",
+      "Oil Method",
+      "Boil vs Soak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Mishnah that distinguishes the serving Kohen Gadol from the former one \u2014 the differences (par and tenth of an ephah) and the equalities (Yom Kippur service, virgin marriage, widow prohibition, impurity, mourning practices, restoring the murderer) \u2014 which is precisely what Candidate 2's prose summarizes, including explicit mention of the par, the eifa, Yom Kippur avodah, and the murderer's return.",
+      "chosen_heading": "Murderer Release",
+      "current_heading": "Murderer Release",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "Boil vs Soak",
+    "candidates": [
+      "Oil Method",
+      "Boil vs Soak",
+      "Miracles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both Rabbi Yehuda's boiling method and Rabbi Yosi's soaking alternative in a single baraita, matching heading 0 ('Oil Method') which describes the full dispute between the two opinions, whereas heading 1 only covers Rabbi Yosi's objection and alternative \u2014 the current placement splits content that belongs together under the introductory heading.",
+      "chosen_heading": "Oil Method",
+      "current_heading": "Boil vs Soak",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165
+    ],
+    "current_heading": "Miracles",
+    "candidates": [
+      "Boil vs Soak",
+      "Miracles",
+      "Oil Quantities",
+      "Future Oil"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Future Oil",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yehuda's statement that the oil remains intact for the future (citing 'ledoroteichem'), which matches the 'Future Oil' prose about the oil persisting through all generations.",
+      "second_heading": "Miracles",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita listing all the miracles of the anointing oil from beginning to end, which matches the 'Miracles' prose about the entire history of the shemen hamishcha being a continuous chain of miracles.",
+      "current_heading": "Miracles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Future Oil",
+    "candidates": [
+      "Oil Quantities",
+      "Future Oil",
+      "Kohen Gadol Anointing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with the rule about anointing a High Priest son of a High Priest, then explains exceptions for kings, and concludes with the gematria about the twelve log \u2014 all of which maps directly to the 'Kohen Gadol Anointing' prose that explicitly quotes and discusses 've'afilu kohen gadol ben kohen gadol ta'un meshichah' and the surrounding baraisa content.",
+      "chosen_heading": "Kohen Gadol Anointing",
+      "current_heading": "Future Oil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Kohen Gadol Anointing",
+    "candidates": [
+      "Future Oil",
+      "Kohen Gadol Anointing",
+      "King Anointing",
+      "Inheritance Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the requirement for a High Priest son of a High Priest to receive anointing, deriving it from the verse 'vehakohen hamashiach tachtav mibanav,' which is precisely what the 'Kohen Gadol Anointing' section's prose addresses.",
+      "chosen_heading": "Kohen Gadol Anointing",
+      "current_heading": "Kohen Gadol Anointing",
+      "moved": false
+    }
+  }
+]

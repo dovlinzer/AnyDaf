@@ -35,7 +35,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Overseer of the Har HaBayit and Discipline of Sleeping Guards",
@@ -58,7 +58,7 @@
           "timestamp": "07:40"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -381,5 +381,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "09:28",
+  "amud_b_micro_title": "Shaarei Chulda South",
+  "shiur_start_daf": 34,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,424 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Causes of Blindness",
+    "candidates": [
+      "Causes of Blindness",
+      "Poverty Omens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes three causes of blindness, matching precisely the 'Causes of Blindness' section prose which describes the same three behaviors from Rav Yosef's teaching.",
+      "chosen_heading": "Causes of Blindness",
+      "current_heading": "Causes of Blindness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Poverty Omens",
+    "candidates": [
+      "Poverty Omens",
+      "Demons & Spirits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers hanging food causing poverty, bran causing poverty, and crumbs causing poverty \u2014 all topics directly addressed in the 'Poverty Omens' prose, which explicitly discusses each of these elements; the mention of demons on Shabbat/Tuesday nights at the end of the passage is just the tail of this unit, and the 'Demons & Spirits' section's prose picks up from there with named spirits.",
+      "chosen_heading": "Poverty Omens",
+      "current_heading": "Poverty Omens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Demons & Spirits",
+    "candidates": [
+      "Demons & Spirits",
+      "Uncleanliness & Poverty",
+      "Vision Hazards",
+      "Cress & Fear",
+      "Bloodletting Rules",
+      "Hair & Nail Care",
+      "Shulchan Aruch Rules",
+      "Rambam vs. Demons",
+      "No Water Nights"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Uncleanliness & Poverty",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the angels Nakid/Naval, the plate on a jug causing poverty, drinking water from a plate causing eye pain, and eating cress without washing hands \u2014 all topics addressed in candidates 0-3 (Demons/Spirits through Cress & Fear), and the prose of candidate 1 ('Uncleanliness & Poverty') explicitly discusses Nakid, Navel, the dirty barrel/pitcher causing poverty, and the eye-pain from drinking water from a dish, making it the best single home for item 1.",
+      "second_heading": "Bloodletting Rules",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers bloodletting without washing hands (seven days of fear), haircut without washing (three days), nail-cutting without washing (one day), and placing hand on nostrils/forehead \u2014 exactly the content described in candidate 4 ('Bloodletting Rules') and candidate 5 ('Hair & Nail Care'), with candidate 4's prose explicitly matching the opening clause about bloodletting for seven days.",
+      "current_heading": "Demons & Spirits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "No Water Nights",
+    "candidates": [
+      "Uncleanliness & Poverty",
+      "Vision Hazards",
+      "Cress & Fear",
+      "Bloodletting Rules",
+      "Hair & Nail Care",
+      "Shulchan Aruch Rules",
+      "Rambam vs. Demons",
+      "No Water Nights",
+      "Food Under Bed",
+      "Protective Rituals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage contains two distinct teachings \u2014 food/drink under a bed having evil spirit resting on them (baraita), and not drinking water on Tuesday/Friday nights \u2014 and heading 8 'Food Under Bed' introduces the baraita about food under a bed, while heading 7 'No Water Nights' covers only the water-drinking prohibition; since the passage opens with the food-under-bed baraita before moving to the water prohibition, and heading 8's prose explicitly describes this baraita, the passage better belongs under heading 8, with the water-nights content serving as a continuation that leads into the 'No Water Nights' section.",
+      "chosen_heading": "Food Under Bed",
+      "current_heading": "No Water Nights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Protective Rituals",
+    "candidates": [
+      "Food Under Bed",
+      "Protective Rituals",
+      "Rivers & Pools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the remedies for thirst on dangerous nights \u2014 reciting the seven voices of David over water and the alternative incantations \u2014 which is precisely what candidate 1 ('Protective Rituals') discusses in detail in its prose.",
+      "chosen_heading": "Protective Rituals",
+      "current_heading": "Protective Rituals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rivers & Pools",
+    "candidates": [
+      "Rivers & Pools",
+      "Tamchoi & Poor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about not drinking from rivers or pools at night, warning about the demon of blindness (shavriri) and the diminishing incantation, which matches exactly what the 'Rivers & Pools' prose section discusses.",
+      "chosen_heading": "Rivers & Pools",
+      "current_heading": "Rivers & Pools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Tamchoi & Poor",
+    "candidates": [
+      "Tamchoi & Poor",
+      "Akiva's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's 'pshita' question about the tamchoi ruling, which is precisely what the 'Tamchoi & Poor' section's prose discusses.",
+      "chosen_heading": "Tamchoi & Poor",
+      "current_heading": "Tamchoi & Poor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Akiva's Principle",
+    "candidates": [
+      "Akiva's Principle",
+      "D'vei Eliyahu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Akiva's principle of making Shabbat like a weekday versus taking loans for arba kosot, and how pirsumei nisa overrides that principle \u2014 exactly the content described in the 'Akiva's Principle' prose.",
+      "chosen_heading": "Akiva's Principle",
+      "current_heading": "Akiva's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "D'vei Eliyahu",
+    "candidates": [
+      "D'vei Eliyahu",
+      "Commands 1-3"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Tana D'vei Eliyahu's teaching about making a small gesture for Shabbos, Rav Pappa's answer of kasa d'harsena, and the quote from Rabbi Yehuda ben Teima, all of which are explicitly discussed in the 'D'vei Eliyahu' section's prose.",
+      "chosen_heading": "D'vei Eliyahu",
+      "current_heading": "D'vei Eliyahu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Commands 1-3",
+    "candidates": [
+      "Commands 1-3",
+      "Shoes & Breakfast",
+      "Shabbos vs. Dependence",
+      "Fortune & Blessing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Commands 1-3",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers commands 1-2 (don't sit at city heights, don't live in a city led by scholars), which matches the 'Commands 1-3' prose that discusses exactly those first teachings.",
+      "second_heading": "Shoes & Breakfast",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers commands 3-7 (don't enter suddenly, shoes, breakfast, Shabbat/dependence, fortune), spanning 'Shoes & Breakfast' and beyond, but the structural seam is that item 2 begins the continuation of the seven commands starting with the shoes/breakfast teachings discussed under 'Shoes & Breakfast'.",
+      "current_heading": "Commands 1-3",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Fortune & Blessing",
+    "candidates": [
+      "Shoes & Breakfast",
+      "Shabbos vs. Dependence",
+      "Fortune & Blessing",
+      "Great Tree Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses forming partnerships with fortunate people and the blessing derived from Iyov's business dealings, which is precisely what the 'Fortune & Blessing' section's prose describes.",
+      "chosen_heading": "Fortune & Blessing",
+      "current_heading": "Fortune & Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Great Tree Metaphor",
+    "candidates": [
+      "Great Tree Metaphor",
+      "Checked Books"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva's imprisonment and his exchange with Rabbi Shimon ben Yochai about teaching Torah, including the calf/cow metaphor, which is precisely what the 'Great Tree Metaphor' section's prose discusses in detail.",
+      "chosen_heading": "Great Tree Metaphor",
+      "current_heading": "Great Tree Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Checked Books",
+    "candidates": [
+      "Checked Books",
+      "Used Pot Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'hang yourself on a tall tree' proverb and the 'teach from a corrected text' teaching with Rava/Rav Mesharshiya's explanation about new learning, which is precisely what the prose under 'Checked Books' elaborates on in detail.",
+      "chosen_heading": "Checked Books",
+      "current_heading": "Checked Books",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Used Pot Metaphor",
+    "candidates": [
+      "Used Pot Metaphor",
+      "Mitzvah & Profit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the 'used pot' metaphor teaching \u2014 the passage about cooking in a colleague's pot and its explanation about divorced/widowed women \u2014 which is precisely what the 'Used Pot Metaphor' prose section discusses in detail.",
+      "chosen_heading": "Used Pot Metaphor",
+      "current_heading": "Used Pot Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Mitzvah & Profit",
+    "candidates": [
+      "Mitzvah & Profit",
+      "Pure Body Marriage",
+      "Avoid Mockers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the fruit/loan teaching and the marriage/pure body teaching together, but since the current placement is index 0 ('Mitzvah & Profit') and the passage contains both teachings as a single quoted unit, the current placement is acceptable \u2014 though index 1 would better match the second half, the passage as a whole unit fits where it currently sits given it opens with the fruit/loan teaching that index 0's prose discusses.",
+      "chosen_heading": "Mitzvah & Profit",
+      "current_heading": "Mitzvah & Profit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Avoid Mockers",
+    "candidates": [
+      "Pure Body Marriage",
+      "Avoid Mockers",
+      "Aramaic Bed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbeinu HaKadosh's command not to live in Shekhantziv because of mockers, which directly matches the 'Avoid Mockers' section's prose about not dwelling in a place of mockers who will draw you into their culture of mockery.",
+      "chosen_heading": "Avoid Mockers",
+      "current_heading": "Avoid Mockers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Aramaic Bed",
+    "candidates": [
+      "Aramaic Bed",
+      "Pay Taxes",
+      "Ox Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the command about the Aramean bed and its multiple interpretations, which is precisely what the 'Aramaic Bed' section prose describes, including all three readings (Shema, convert, and the Rav Pappa incident).",
+      "chosen_heading": "Aramaic Bed",
+      "current_heading": "Aramaic Bed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Ox Danger",
+    "candidates": [
+      "Pay Taxes",
+      "Ox Danger",
+      "Black Oxes Spring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the tax-evasion warning AND the ox danger warning AND Rabbi Shmuel's qualification, covering all three sections' content in one continuous quote, but the passage starts with the tax content which is the opening item \u2014 however, since all items must go under ONE heading and the passage spans multiple topics, the current placement under 'Ox Danger' is not ideal; yet looking more carefully, the passage includes all three elements and the best single heading that captures the START of this quoted block is 'Pay Taxes' (index 0), since the Gemara text begins with the tax warning before moving to the ox warnings.",
+      "chosen_heading": "Pay Taxes",
+      "current_heading": "Ox Danger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Black Oxes Spring",
+    "candidates": [
+      "Ox Danger",
+      "Black Oxes Spring",
+      "Animal Sounds",
+      "Leprosy Hazards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Black Oxes Spring",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Oshaya on distancing from a shor tam vs. shor muad) is explicitly discussed in the 'Black Oxes Spring' prose as part of the ox danger/distance theme.",
+      "second_heading": "Animal Sounds",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Meir's hyperbole plus Rav's animal vocalizations) splits naturally here \u2014 the 'Animal Sounds' prose explicitly discusses Rav's calls for oxen, lions, camels, and boats, matching item 2's content precisely.",
+      "current_heading": "Black Oxes Spring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Leprosy Hazards",
+    "candidates": [
+      "Animal Sounds",
+      "Leprosy Hazards",
+      "Cats & Shoes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's teaching about hide, fish, cup, hot water, eggs, and white lice causing leprosy (davar acher), which is exactly what the 'Leprosy Hazards' section prose discusses in detail.",
+      "chosen_heading": "Leprosy Hazards",
+      "current_heading": "Leprosy Hazards",
+      "moved": false
+    }
+  }
+]

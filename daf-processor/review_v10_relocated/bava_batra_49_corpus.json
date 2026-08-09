@@ -1,0 +1,211 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Rav Nachman: No Retract",
+    "candidates": [
+      "Talyuhu & Moda'ah Intro",
+      "Rav Nachman: No Retract",
+      "Peh vs. Shtar Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Na\u1e25man's ruling that witnesses who claim their signed document was an amana or moda'ah are not believed \u2014 exactly the content described in the 'Rav Nachman: No Retract' prose section.",
+      "chosen_heading": "Rav Nachman: No Retract",
+      "current_heading": "Rav Nachman: No Retract",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Peh vs. Shtar Doctrine",
+    "candidates": [
+      "Peh vs. Shtar Doctrine",
+      "Amana vs. Moda'ah Ethics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly articulates the peh vs. shtar doctrine \u2014 oral testimony cannot override a document but one document can override another \u2014 which is precisely what section 0's prose discusses.",
+      "chosen_heading": "Peh vs. Shtar Doctrine",
+      "current_heading": "Peh vs. Shtar Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Amana vs. Moda'ah Ethics",
+    "candidates": [
+      "Amana vs. Moda'ah Ethics",
+      "Tzon Barzel & Milog",
+      "No Chazaka Despite Peirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Na\u1e25man / Mar bar Rav Ashi dispute about whether witnesses who claim their signed document was an amana or moda'ah are deemed credible \u2014 exactly the content the 'Amana vs. Moda'ah Ethics' prose analyzes in detail.",
+      "chosen_heading": "Amana vs. Moda'ah Ethics",
+      "current_heading": "Amana vs. Moda'ah Ethics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "No Chazaka Despite Peirot",
+    "candidates": [
+      "Tzon Barzel & Milog",
+      "No Chazaka Despite Peirot",
+      "Waiver Before Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's 'pishita' (obvious) objection that since the husband has legal rights to the produce (peirot), his use of the land cannot establish chazaka \u2014 exactly the content described in the 'No Chazaka Despite Peirot' section's prose.",
+      "chosen_heading": "No Chazaka Despite Peirot",
+      "current_heading": "No Chazaka Despite Peirot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Waiver Before Marriage",
+    "candidates": [
+      "Waiver Before Marriage",
+      "Rav Kahana Nachalah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'din u-devarim ein li bi-nechasayich' waiver formulation and the baraita challenging its legal effectiveness, which is precisely what the 'Waiver Before Marriage' prose discusses.",
+      "chosen_heading": "Waiver Before Marriage",
+      "current_heading": "Waiver Before Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rav Kahana Nachalah",
+    "candidates": [
+      "Rav Kahana Nachalah",
+      "Aikkar Mezonot",
+      "Kolech Rider & Assets",
+      "Insurance Analogy Pidyon",
+      "Tosafot: Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the school of Rabbi Yannai's answer (the mishna speaks of a waiver written during erusin) and Rav Kahana's principle about pre-emptive renunciation of a future rabbinic benefit, which is precisely what the 'Rav Kahana Nachalah' prose section explains and contextualizes.",
+      "chosen_heading": "Rav Kahana Nachalah",
+      "current_heading": "Rav Kahana Nachalah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Tosafot: Redemption",
+    "candidates": [
+      "Aikkar Mezonot",
+      "Kolech Rider & Assets",
+      "Insurance Analogy Pidyon",
+      "Tosafot: Redemption",
+      "Nachat Ruach Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's ruling about a woman waiving mezonot in exchange for keeping her earnings, which is precisely the content the 'Aikkar Mezonot' prose discusses as the identification of 'ke-gone zo' and the foundational ruling for that section's analysis.",
+      "chosen_heading": "Aikkar Mezonot",
+      "current_heading": "Tosafot: Redemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Nachat Ruach Claim",
+    "candidates": [
+      "Tosafot: Redemption",
+      "Nachat Ruach Claim",
+      "Lien Waiver Invalid",
+      "Three Fields of Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's pivot from chazaka to rayah (proof via shtar) and the wife's counter-claim of 'nachat ruach asiti le-ba'ali,' which is precisely what the 'Nachat Ruach Claim' section's prose describes.",
+      "chosen_heading": "Nachat Ruach Claim",
+      "current_heading": "Nachat Ruach Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Three Fields of Ketubah",
+    "candidates": [
+      "Lien Waiver Invalid",
+      "Three Fields of Ketubah",
+      "Selling Milog Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: item 1 cites the Mishnah about purchasing from husband then wife (nachat ruach), and items 2-3 give Rabba bar Rav Huna's qualification about the three fields \u2014 this entire exchange is precisely what heading 0 ('Lien Waiver Invalid') describes in its prose, including the nachat ruach defense and the three ketubah fields context, whereas heading 1 ('Three Fields of Ketubah') describes the limiting function of 'these three fields' (le-mautei mai) which is the next section's topic.",
+      "chosen_heading": "Lien Waiver Invalid",
+      "current_heading": "Three Fields of Ketubah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Selling Milog Valid",
+    "candidates": [
+      "Three Fields of Ketubah",
+      "Selling Milog Valid",
+      "Shtar Required for Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what 'these three fields' excludes (le-mautei mai), concluding that excluding other property would only strengthen the enmity argument, which matches the 'Selling Milog Valid' section's prose about this precise Gemara passage.",
+      "chosen_heading": "Selling Milog Valid",
+      "current_heading": "Selling Milog Valid",
+      "moved": false
+    }
+  }
+]

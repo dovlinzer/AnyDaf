@@ -54,7 +54,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Aris Model: Sharing Produce When Ownership Is Uncertain",
@@ -81,8 +81,8 @@
           "timestamp": "17:08"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Aris Model: Sharing Produce When Ownership Is Uncertain (continued)",
@@ -100,7 +100,7 @@
           "timestamp": "24:27"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -369,5 +369,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "45:17",
+  "amud_b_micro_title": "Chazaka Fails",
+  "shiur_start_daf": 38,
+  "shiur_start_amud": "b"
 }

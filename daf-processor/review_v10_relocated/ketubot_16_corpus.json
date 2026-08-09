@@ -1,0 +1,204 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Four Migo Cases",
+    "candidates": [
+      "Mishnah Overview",
+      "Bari v'Bari Analysis",
+      "Rabban Gamliel Concedes",
+      "Rov Nashim Betulot",
+      "R. Yehoshua Concedes",
+      "Four Migo Cases",
+      "Rape Case Migo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All nine items constitute the gemara's survey of the four migo cases from the first perek \u2014 exactly what candidate 5 ('Four Migo Cases') describes: working backward through the mishnayot asking whether each contains a migo, covering the pregnant woman, the woman seen speaking/secluding, and the mukat etz cases with the Rabbi Elazar/Rabbi Yochanan dispute \u2014 matching the current placement precisely.",
+      "chosen_heading": "Four Migo Cases",
+      "current_heading": "Four Migo Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rape Case Migo",
+    "candidates": [
+      "Rape Case Migo",
+      "Field Example",
+      "Rashi/Tosfos Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the rape case migo \u2014 the woman claiming rape after betrothal versus mukat etz, Rabban Gamliel's credibility ruling, and Rabbi Yehoshua's concession on this migo while distinguishing it from the earlier one \u2014 which is precisely what the 'Rape Case Migo' prose section discusses.",
+      "chosen_heading": "Rape Case Migo",
+      "current_heading": "Rape Case Migo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rashi/Tosfos Debate",
+    "candidates": [
+      "Field Example",
+      "Rashi/Tosfos Debate",
+      "Qol Counteracts Rov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question and answer about the distinction between the two *migo* cases (field vs. woman), which is precisely what the 'Field Example' prose explains \u2014 the *shor shachut* imagery and why Rabbi Yehoshua rejects the woman's *migo* \u2014 while the 'Rashi/Tosfos Debate' prose presupposes this Gemara passage and builds on it.",
+      "chosen_heading": "Field Example",
+      "current_heading": "Rashi/Tosfos Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Qol Counteracts Rov",
+    "candidates": [
+      "Rashi/Tosfos Debate",
+      "Qol Counteracts Rov",
+      "Balance of Rov/Qol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Ravina's answer to why the rov alone is insufficient \u2014 that every first wedding generates kol, and the absence of kol undermines the rov \u2014 which is precisely what candidate 1 ('Qol Counteracts Rov') describes in its prose.",
+      "chosen_heading": "Qol Counteracts Rov",
+      "current_heading": "Qol Counteracts Rov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Balance of Rov/Qol",
+    "candidates": [
+      "Balance of Rov/Qol",
+      "Witness Evidence",
+      "Double Collection Risk",
+      "Shovar Solution",
+      "Rav Pappa Position",
+      "Baraita Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the refinement from 'all' to 'most' (rov) weddings generating kol, and how the absence of kol undermines the majority presumption \u2014 precisely the content described in the 'Balance of Rov/Qol' section's prose.",
+      "chosen_heading": "Balance of Rov/Qol",
+      "current_heading": "Balance of Rov/Qol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Baraita Reinterpretation",
+    "candidates": [
+      "Witness Evidence",
+      "Double Collection Risk",
+      "Shovar Solution",
+      "Rav Pappa Position",
+      "Baraita Reinterpretation",
+      "Final Shovar Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All six items constitute the continuous gemara discussion about applying Rabbi Abbahu and Rav Pappa's debate to the baraita \u2014 including the baraita's text, the challenge to Rav Pappa's reading, his forced reinterpretation of 'avda'/'hitmina'/'nisrefa', and the concluding asymmetry about who would apply this reading to the mishna versus the baraita \u2014 which is precisely what the 'Baraita Reinterpretation' prose describes in detail.",
+      "chosen_heading": "Baraita Reinterpretation",
+      "current_heading": "Baraita Reinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Final Shovar Rule",
+    "candidates": [
+      "Final Shovar Rule",
+      "Kos Shel Besora"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the double-collection risk with hinnuma witnesses and concludes with the principle that where there is no alternative a shovar is certainly written \u2014 exactly what the 'Final Shovar Rule' prose describes.",
+      "chosen_heading": "Final Shovar Rule",
+      "current_heading": "Final Shovar Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Kos Shel Besora",
+    "candidates": [
+      "Kos Shel Besora",
+      "Wine Barrel Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the kos shel besora, Rav Adda bar Ahava's terumah explanation, Rav Pappa's objection, and Rav Pappa's alternative reishit explanation \u2014 all of which are precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Kos Shel Besora",
+      "current_heading": "Kos Shel Besora",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Wine Barrel Symbolism",
+    "candidates": [
+      "Wine Barrel Symbolism",
+      "Concrete vs. Absence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content centers on the Gemara's question of why an open barrel is needed rather than simply no barrel at all, and the answer about preventing fraud through false claims \u2014 which is precisely what Candidate 1's prose discusses in detail, whereas Candidate 0 only covers the basic symbolism of sealed vs. open barrels.",
+      "chosen_heading": "Concrete vs. Absence",
+      "current_heading": "Wine Barrel Symbolism",
+      "moved": true
+    }
+  }
+]

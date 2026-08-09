@@ -1,0 +1,309 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Minchat Choteh Logic",
+    "candidates": [
+      "Mincha Shelo Lishmo",
+      "Minchat Choteh Logic",
+      "Gezeirah Shavah Avon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what 'Minchat Choteh Logic' describes: the gemara's derivation that the minchat choteh is disqualified shelo lishmo because the Torah calls it a chatat, citing the verse about no oil or frankincense, and then raising the question about minchat kenaot \u2014 which is precisely where this section's prose ends and the next section (Gezeirah Shavah Avon) begins.",
+      "chosen_heading": "Minchat Choteh Logic",
+      "current_heading": "Minchat Choteh Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Gezeirah Shavah Avon",
+    "candidates": [
+      "Gezeirah Shavah Avon",
+      "Asham Extension"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gezeirah Shavah Avon",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover exactly the content described in the 'Gezeirah Shavah Avon' prose: the baraita before Rav Nachman, his shappir kamarta response, the avon-avon gezeirah shavah linking minchat kenaot to chatat, and the shelo lishmo disqualification.",
+      "second_heading": "Asham Extension",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the question of whether the same avon gezeirah shavah should extend to invalidate an asham shelo lishmo, which is precisely the opening challenge described in the 'Asham Extension' prose.",
+      "current_heading": "Gezeirah Shavah Avon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Asham Extension",
+    "candidates": [
+      "Asham Extension",
+      "Limited Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the 'Asham Extension' prose, which explicitly discusses donin avon me-avon ve-ein donin avono me-avon (item 1), the mai nafka mina challenge from Rabbi Yishmael's school regarding veshav/uva (item 2), and the ve-od point about im lo yagid ve-nasa avono (item 3).",
+      "chosen_heading": "Asham Extension",
+      "current_heading": "Asham Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Limited Gezeirah Shavah",
+    "candidates": [
+      "Limited Gezeirah Shavah",
+      "Word Hi Teaches",
+      "Asham Hu Differs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the limited gezeirah shavah argument: item 1 states the gezeirah shavah was derived only for the surplus/nedavah halacha, and item 2 addresses the objection that a gezeirah shavah cannot be partial, with the response that the Torah's limiting word by the chatat (osah) prevents the shelo lishmah rule from spreading \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Limited Gezeirah Shavah",
+      "current_heading": "Limited Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Asham Hu Differs",
+    "candidates": [
+      "Word Hi Teaches",
+      "Asham Hu Differs",
+      "Hu Sticky Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion: items 1-2 derive the disqualification of minchat choteh and minchat kenaot from the word 'hi,' and items 3-4 address the challenge from the asham's use of 'hu' and explain why it does not carry the same derasha \u2014 exactly the content described in candidate 1's prose about 'Asham Hu Differs.'",
+      "chosen_heading": "Asham Hu Differs",
+      "current_heading": "Asham Hu Differs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Hu Sticky Identity",
+    "candidates": [
+      "Hu Sticky Identity",
+      "Rav's Innovation",
+      "Function Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the teaching derived from the word 'hu' by the asham \u2014 specifically Rav Huna's ruling about an asham consigned to grazing and the principle that the asham retains its identity until actively transferred \u2014 which is precisely what candidate 0's prose elaborates in detail.",
+      "chosen_heading": "Hu Sticky Identity",
+      "current_heading": "Hu Sticky Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Function Logic",
+    "candidates": [
+      "Rav's Innovation",
+      "Function Logic",
+      "Textual Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav's ruling about the omer and its extension to asham nazir/metzora, which is precisely what heading 0 ('Rav's Innovation') describes \u2014 Rav expanding the mishna's list \u2014 while the current heading 1 ('Function Logic') is the prose that explains and analyzes Rav's reasoning after the fact, not the primary locus of the ruling itself.",
+      "chosen_heading": "Rav's Innovation",
+      "current_heading": "Function Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Textual Gap",
+    "candidates": [
+      "Function Logic",
+      "Textual Gap",
+      "Private vs. Public"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's textual question about why the mishna does not list the minchat ha-omer as an exception, which is exactly what the 'Textual Gap' section's prose describes.",
+      "chosen_heading": "Textual Gap",
+      "current_heading": "Textual Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Private vs. Public",
+    "candidates": [
+      "Private vs. Public",
+      "Textual Gap Extended",
+      "Asham Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the first two of the three answers discussed in the 'Private vs. Public' section prose \u2014 the mishna deals with individuals not community, and with independent offerings not those accompanying animal sacrifices \u2014 matching that section's content precisely.",
+      "chosen_heading": "Private vs. Public",
+      "current_heading": "Private vs. Public",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Asham Distinction",
+    "candidates": [
+      "Textual Gap Extended",
+      "Asham Distinction",
+      "Status vs. Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the minchat ha-omer was not listed as an exception in the mishna in Zevachim \u2014 because its time is fixed \u2014 which directly answers the 'textual gap' question raised in candidate 0's prose about why certain items were omitted from the mishna's list of exceptions.",
+      "chosen_heading": "Textual Gap Extended",
+      "current_heading": "Asham Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Status vs. Atonement",
+    "candidates": [
+      "Asham Distinction",
+      "Status vs. Atonement",
+      "Yoledes Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge from the Mishnah in Zevachim regarding why asham nazir and asham metzora are not listed as exceptions alongside pesach and chatat \u2014 exactly the content discussed in candidate 0's prose about the mishna's omission of asham and the subdivision problem.",
+      "chosen_heading": "Asham Distinction",
+      "current_heading": "Status vs. Atonement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Yoledes Case",
+    "candidates": [
+      "Yoledes Case",
+      "Nazir Funds Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Yoledes Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the distinction between guilt offerings for atonement vs. rendering fit, culminating in Rabbi Yirmiyah's proof from the yoledes mishna \u2014 exactly the content described in the 'Yoledes Case' prose.",
+      "second_heading": "Nazir Funds Case",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the challenge from the nazir funds mishna (one who separates funds for his naziriteship), which is precisely the subject of the 'Nazir Funds Case' prose.",
+      "current_heading": "Yoledes Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Nazir Funds Case",
+    "candidates": [
+      "Nazir Funds Case",
+      "Olah Shelamim Alive",
+      "Challenge to Theory",
+      "Rav Pappa Explains",
+      "Sole vs. Multiple",
+      "Any Korban Works"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nazir Funds Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna's case of a nazirite who died with designated/undesignated funds, which is exactly what candidate 0's prose describes in detail (chatat funds to the sea, olah funds for an olah, shelamim funds for a shelamim).",
+      "second_heading": "Olah Shelamim Alive",
+      "second_confidence": "high",
+      "second_reason": "Item 2 closes the mishna and then poses the challenge that the nazirite's olah and shelamim are machshirin yet come after death, which is precisely what candidate 1's prose discusses as the critical point leading into the challenge against Rabbi Yirmiyah's principle.",
+      "current_heading": "Nazir Funds Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Any Korban Works",
+    "candidates": [
+      "Olah Shelamim Alive",
+      "Challenge to Theory",
+      "Rav Pappa Explains",
+      "Sole vs. Multiple",
+      "Any Korban Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's resolution \u2014 item 1 is his clarification that Rabbi Yirmiyah meant only 'fixed' hechsher cannot come after death, and item 2 provides the supporting proof that nazirite offerings are not fixed \u2014 which is precisely what the 'Rav Pappa Explains' prose describes.",
+      "chosen_heading": "Rav Pappa Explains",
+      "current_heading": "Any Korban Works",
+      "moved": true
+    }
+  }
+]

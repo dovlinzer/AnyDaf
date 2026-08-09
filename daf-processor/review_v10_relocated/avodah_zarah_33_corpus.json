@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Kshurim Zeh Bazeh",
+    "candidates": [
+      "Vhaba'im Mutarin",
+      "Kshurim Zeh Bazeh",
+      "Nodot Grudim Mutarin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's qualification about pilgrims traveling as a group (kshurin zeh bazeh) with the reasoning eima daito lachzor, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Kshurim Zeh Bazeh",
+      "current_heading": "Kshurim Zeh Bazeh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Nodot Grudim Mutarin",
+    "candidates": [
+      "Nodot Grudim Mutarin",
+      "Shikhur Bishvil Pariput",
+      "Rav Papa: Wine & Tar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about wineskins of gentiles \u2014 stripped/new being permitted, old/tarred being forbidden \u2014 which is precisely what the prose under heading 0 ('Nodot Grudim Mutarin') describes and analyzes.",
+      "chosen_heading": "Nodot Grudim Mutarin",
+      "current_heading": "Nodot Grudim Mutarin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rav Papa: Wine & Tar Case",
+    "candidates": [
+      "Shikhur Bishvil Pariput",
+      "Rav Papa: Wine & Tar Case",
+      "Zorkeik Mayim Letit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in candidate 1's prose: Rav Papa's reinterpretation of the baraita (item 1) followed by the question of why a second Jew is needed and the answer about distraction/preoccupation enabling the gentile to libate unnoticed (item 2).",
+      "chosen_heading": "Rav Papa: Wine & Tar Case",
+      "current_heading": "Rav Papa: Wine & Tar Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Zorkeik Mayim Letit",
+    "candidates": [
+      "Zorkeik Mayim Letit",
+      "Salt Processing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Zevid's statement about pouring wine being like throwing water into clay/pitch, which is exactly what the 'Zorkeik Mayim Letit' section's prose discusses, while the Salt Processing section discusses Rav Papa's inference and Rav Ashi's challenge that follows afterward.",
+      "chosen_heading": "Zorkeik Mayim Letit",
+      "current_heading": "Zorkeik Mayim Letit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Salt Processing",
+    "candidates": [
+      "Salt Processing",
+      "Bar Addi Taya",
+      "Memalim Mayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's objection comparing the pitch case to the salt case, which is explicitly discussed in the 'Salt Processing' section's prose.",
+      "chosen_heading": "Salt Processing",
+      "current_heading": "Salt Processing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Memalim Mayim",
+    "candidates": [
+      "Bar Addi Taya",
+      "Memalim Mayim",
+      "Aran Me'et L'et",
+      "Didan vs. Didehu",
+      "Echad Shelanu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage narrates the incident of Bar Adi the Arab seizing and returning wineskins, which is precisely what candidate 0 ('Bar Addi Taya') describes as its content, including the question brought to the beit midrash \u2014 the ruling details belong under that heading rather than the separate 'Memalim Mayim' heading.",
+      "chosen_heading": "Bar Addi Taya",
+      "current_heading": "Memalim Mayim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Echad Shelanu",
+    "candidates": [
+      "Aran Me'et L'et",
+      "Didan vs. Didehu",
+      "Echad Shelanu",
+      "Kankanin Question",
+      "Rav Ashi Response",
+      "Kankanin Chadashim",
+      "Non-Jew Wine, Jew Water",
+      "Tzir U'Moris"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three sub-topics: the didan/didehu distinction (candidate 1), Ravin's report of Reish Lakish's ruling echad shelanu (candidate 2), and Rav Acha/Rav Ashi's exchange about nodot vs. kankanin (candidates 3-4), but candidate 1 ('Didan vs. Didehu') is the opening frame of the entire passage and the subsequent points flow from it \u2014 however, since the passage is a single continuous unit and must go under ONE heading, and the gemara text begins with the didan/didehu assumption being corrected by Ravin, the best single home is candidate 1 which sets up the entire discussion that follows.",
+      "chosen_heading": "Didan vs. Didehu",
+      "current_heading": "Echad Shelanu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Tzir U'Moris",
+    "candidates": [
+      "Kankanin Question",
+      "Rav Ashi Response",
+      "Kankanin Chadashim",
+      "Non-Jew Wine, Jew Water",
+      "Tzir U'Moris",
+      "Lechatchila or Bedi'avad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita covers the entire content of new/stripped vs. old/tarred kankanin, the water method, and the brine method \u2014 all of which begins with the 'Kankanin Chadashim' section's prose introduction to this baraita, making that the correct home for the full quoted passage.",
+      "chosen_heading": "Kankanin Chadashim",
+      "current_heading": "Tzir U'Moris",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Lechatchila or Bedi'avad",
+    "candidates": [
+      "Tzir U'Moris",
+      "Lechatchila or Bedi'avad",
+      "Rav Zevid Permits",
+      "Fire Method Question",
+      "Fire Negates Taste"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lechatchila or Bedi'avad",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('A dilemma was raised') is the opening of the lechatchila/bedi'avad question, matching heading 1's prose exactly.",
+      "second_heading": "Rav Zevid Permits",
+      "second_confidence": "high",
+      "second_reason": "Item 2 cites Rav Zevid bar Oshaya's ruling that old vessels may receive brine lechatchila, which is precisely what heading 2 ('Rav Zevid Permits') describes as its content.",
+      "current_heading": "Lechatchila or Bedi'avad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Fire Negates Taste",
+    "candidates": [
+      "Rav Zevid Permits",
+      "Fire Method Question",
+      "Fire Negates Taste",
+      "Tar Melts Off",
+      "Softening Suffices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the dilemma posed by Rabbi Yehuda Nesia about returning vessels to the furnace AND Rabbi Yochanan's ruling about tar melting off, spanning headings 1-3, but the opening question about the fire method is what initiates this entire unit \u2014 however, since the passage includes both the question (heading 1), the kal vachomer answer (heading 2), and the tar ruling (heading 3), and heading 1's prose explicitly frames the question that begins the passage, while the current placement at heading 2 captures the kal vachomer response, the passage as a whole unit best fits under heading 1 where it begins, but given that all items must go under one heading and heading 1 introduces the question that this passage answers in full, heading 1 is the best single home.",
+      "chosen_heading": "Fire Method Question",
+      "current_heading": "Fire Negates Taste",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Softening Suffices",
+    "candidates": [
+      "Tar Melts Off",
+      "Softening Suffices",
+      "Kinsa Debate",
+      "Outside vs. Inside Fire",
+      "Wine Barrels Kashering",
+      "Beer in Wine Vessels",
+      "Rav Nachman vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Ashi's ruling that softening suffices (matching heading 1's prose exactly) and the kinsa dispute with its halacha (matching heading 2's prose), but since the single Talmudic excerpt contains both topics together and heading 1's prose already anticipates Rav Ashi's statement while heading 2 is a separate section, the current placement under 'Softening Suffices' is correct as the passage begins with Rav Ashi's ruling which is the primary content of that section.",
+      "chosen_heading": "Softening Suffices",
+      "current_heading": "Softening Suffices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rav Nachman vs. Rava",
+    "candidates": [
+      "Kinsa Debate",
+      "Outside vs. Inside Fire",
+      "Wine Barrels Kashering",
+      "Beer in Wine Vessels",
+      "Rav Nachman vs. Rava",
+      "Ravina Permits",
+      "Teaching Correct Law",
+      "Dung Vessels Burst"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the dilemma about beer in wine vessels AND Ravina's ruling with the incidental wine error, which together naturally sit under the 'Beer in Wine Vessels' heading that introduces this entire sub-topic, rather than being split across multiple headings.",
+      "chosen_heading": "Beer in Wine Vessels",
+      "current_heading": "Rav Nachman vs. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Dung Vessels Burst",
+    "candidates": [
+      "Ravina Permits",
+      "Teaching Correct Law",
+      "Dung Vessels Burst",
+      "Issura D'Olam",
+      "Vessels of Nitron"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 2 ('Dung Vessels Burst') discusses \u2014 Rav Yitzchak bar Bisna's dung vessels that burst after being placed in the sun \u2014 and the current placement is correct.",
+      "chosen_heading": "Dung Vessels Burst",
+      "current_heading": "Dung Vessels Burst",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Vessels of Nitron",
+    "candidates": [
+      "Issura D'Olam",
+      "Vessels of Nitron",
+      "Temporary Use Rinsing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses natron vessels (klei netron) and their inability to be kashered, which is exactly what the 'Vessels of Nitron' section prose describes.",
+      "chosen_heading": "Vessels of Nitron",
+      "current_heading": "Vessels of Nitron",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Temporary Use Rinsing",
+    "candidates": [
+      "Temporary Use Rinsing",
+      "Lo Machnisan Lekiyomam",
+      "Porous Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the narrative of Parzak seizing vessels from Pumbedita and returning them, which matches exactly the prose under 'Temporary Use Rinsing' (candidate 0), while candidate 1's prose covers Rav Yehuda's ruling and candidate 2 covers unrelated earthenware porosity discussions.",
+      "chosen_heading": "Temporary Use Rinsing",
+      "current_heading": "Temporary Use Rinsing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Porous Assessment",
+    "candidates": [
+      "Lo Machnisan Lekiyomam",
+      "Porous Assessment",
+      "Glaze Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about dark brown Aramean jugs and Bei Mikhsei vessels that don't absorb well and need only water rinsing is exactly what the 'Porous Assessment' section's prose describes, discussing Rav Avira and Rav Pappi's rulings on actual porosity.",
+      "chosen_heading": "Porous Assessment",
+      "current_heading": "Porous Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Glaze Types",
+    "candidates": [
+      "Glaze Types",
+      "Cracked Glaze",
+      "Mareimar Permits All",
+      "Pesach Question",
+      "Sweating Shows Absorption",
+      "Torah's Testimony",
+      "Heat vs. Cold"
+    ],
+    "result": null
+  }
+]

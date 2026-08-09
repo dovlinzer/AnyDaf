@@ -1,0 +1,546 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Bed Ropes & Lattice",
+    "candidates": [
+      "Daf & Opening",
+      "Three Explanations",
+      "Bed Ropes & Lattice",
+      "Separation Principle",
+      "Lattice Over Corpse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof text introduced by 'from where do I say my opinion,' which the prose of section 1 ('Three Explanations') explicitly anticipates with 'We now turn to Rava's proof for his position,' making it the natural home for this citation rather than section 2 which discusses the content of the mishnah after it has already been introduced.",
+      "chosen_heading": "Three Explanations",
+      "current_heading": "Bed Ropes & Lattice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Lattice Over Corpse",
+    "candidates": [
+      "Separation Principle",
+      "Lattice Over Corpse",
+      "Touching vs. Hole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes lattice spread over a corpse in open air with the rule about touching opposite a hole being impure versus not opposite a hole being pure, which precisely matches the 'Lattice Over Corpse' section's prose description of that scenario.",
+      "chosen_heading": "Lattice Over Corpse",
+      "current_heading": "Lattice Over Corpse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Touching vs. Hole",
+    "candidates": [
+      "Touching vs. Hole",
+      "Within Tefach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute Rava's proof that Rabbi Yosei uses 'touching' to describe overlying from more than a tefach above the corpse, which is precisely what the 'Touching vs. Hole' prose describes \u2014 Rava's argument that the mishnah's use of 'touch' in a scenario above a tefach confirms his broad position.",
+      "chosen_heading": "Touching vs. Hole",
+      "current_heading": "Touching vs. Hole",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Within Tefach",
+    "candidates": [
+      "Within Tefach",
+      "Buried Tumah Burst",
+      "Yosei Rejects Burst",
+      "Cabinet Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Within Tefach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's rejection of Rava's proof and the met bikesuto objection/answer, which matches exactly the 'Within Tefach' prose describing Abaye's position and the clothing/mevatel response.",
+      "second_heading": "Buried Tumah Burst",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the tumah temunah boka'at objection against Abaye's reading, and Rabbi Yosei's rejection of that principle, which matches exactly the 'Buried Tumah Burst' prose describing this second objection and the 'Yosei Rejects Burst' prose \u2014 item 2 fits 'Buried Tumah Burst' as it contains both the objection and Rabbi Yosei's answer in one unit.",
+      "current_heading": "Within Tefach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Cabinet Setup",
+    "candidates": [
+      "Buried Tumah Burst",
+      "Yosei Rejects Burst",
+      "Cabinet Setup",
+      "Sof Tumah Latzeit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's proof-text (from Oholot 4:2) cited to establish whether Rabbi Yosei rejects the principle of tumah temunah boka'at, which is precisely what the 'Yosei Rejects Burst' section discusses \u2014 independent evidence for Rabbi Yosei's position \u2014 not the description of the cabinet setup itself.",
+      "chosen_heading": "Yosei Rejects Burst",
+      "current_heading": "Cabinet Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Sof Tumah Latzeit",
+    "candidates": [
+      "Cabinet Setup",
+      "Sof Tumah Latzeit",
+      "Yosei's Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the principle of sof tumah latzeit ('it is typical for impurity to exit... but not typical for impurity to enter'), which is precisely what the 'Sof Tumah Latzeit' section's prose explains and discusses.",
+      "chosen_heading": "Sof Tumah Latzeit",
+      "current_heading": "Sof Tumah Latzeit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Yosei's Exemption",
+    "candidates": [
+      "Yosei's Exemption",
+      "Cabinet in Doorframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei's reasoning about removing the impurity in halves or burning it in place, which is precisely what the 'Yosei's Exemption' prose discusses.",
+      "chosen_heading": "Yosei's Exemption",
+      "current_heading": "Yosei's Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Cabinet in Doorframe",
+    "candidates": [
+      "Cabinet in Doorframe",
+      "Redundancy Problem",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the latter clause of the mishna where the cabinet is placed in the doorframe with opening facing outward, and the resulting purity rulings \u2014 exactly what the 'Cabinet in Doorframe' prose section describes.",
+      "chosen_heading": "Cabinet in Doorframe",
+      "current_heading": "Cabinet in Doorframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Redundancy Problem",
+      "Resolution",
+      "Yosei's Objections",
+      "Dog & Flesh Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's identification of the redundancy problem and its resolution regarding which case Rabbi Yosei addresses, which matches the 'Redundancy Problem' prose describing how the gemara is struck by the apparent redundancy and is forced to reconsider which case Rabbi Yosei's statement actually addresses \u2014 item 1 raises the redundancy question and item 2 resolves it by explaining the tanna kamma's two rationales and Rabbi Yosei's two rejections, all of which is the content of the 'Redundancy Problem' section.",
+      "chosen_heading": "Redundancy Problem",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Dog & Flesh Setup",
+    "candidates": [
+      "Yosei's Objections",
+      "Dog & Flesh Setup",
+      "Doorstep Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces a contradiction between two statements of Rabbi Yosei, which directly follows from and belongs under the section establishing Rabbi Yosei's position on tumah temunah einah boka'at \u2014 not under the 'Dog & Flesh Setup' section which introduces a new mishnah.",
+      "chosen_heading": "Yosei's Objections",
+      "current_heading": "Dog & Flesh Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Doorstep Position",
+    "candidates": [
+      "Dog & Flesh Setup",
+      "Doorstep Position",
+      "Rabbi Meir",
+      "Rabbi Yosei",
+      "Rabbi Eliezer",
+      "R. Yehuda ben Batera"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the four-way mishnaic dispute about the dog on the threshold, which is precisely what heading 1 ('Doorstep Position') introduces \u2014 the dog lying on the iskoppa and the question of which part of the house becomes tamei, with the mishnah recording the multi-way dispute that follows.",
+      "chosen_heading": "Doorstep Position",
+      "current_heading": "Doorstep Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "R. Yehuda ben Batera",
+    "candidates": [
+      "Rabbi Meir",
+      "Rabbi Yosei",
+      "Rabbi Eliezer",
+      "R. Yehuda ben Batera",
+      "Initial Reading",
+      "Cavity Requirement",
+      "Meir vs. Yosei",
+      "Two Objections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda ben Beteira's ruling that the house is impure in both cases, which is exactly what the prose under 'R. Yehuda ben Batera' discusses.",
+      "chosen_heading": "R. Yehuda ben Batera",
+      "current_heading": "R. Yehuda ben Batera",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Two Objections",
+    "candidates": [
+      "Initial Reading",
+      "Cavity Requirement",
+      "Meir vs. Yosei",
+      "Two Objections",
+      "Three Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-2 present the initial inference that Rabbi Yosei holds tumah temunah boka'at, and items 3-5 present Rava's reinterpretation (ro'in et challal ha-tumah) and Rav Acha's explicit textual support \u2014 exactly what the 'Cavity Requirement' prose describes, including the dual dispute with Rabbi Meir and the challal reading attributed to Rav Acha son of Rava.",
+      "chosen_heading": "Cavity Requirement",
+      "current_heading": "Two Objections",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Three Types",
+    "candidates": [
+      "Two Objections",
+      "Three Types",
+      "Decomposed Dust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce Rabbi Shimon's baraita about three types of tumah deriving from a corpse, which is exactly what the 'Three Types' section prose describes \u2014 identifying the tanna who disputes Rabbi Yosei and citing Rabbi Shimon's statement about shalosh tumot porshot min ha-met.",
+      "chosen_heading": "Three Types",
+      "current_heading": "Three Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Decomposed Dust",
+    "candidates": [
+      "Decomposed Dust",
+      "Small Bone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses melo tarvad rakev (decomposed dust) and its impurity modes, which is exactly what the 'Decomposed Dust' section's prose describes.",
+      "chosen_heading": "Decomposed Dust",
+      "current_heading": "Decomposed Dust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Small Bone",
+    "candidates": [
+      "Small Bone",
+      "Coffin-Boards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bone the size of a barley grain and its tumah modes, which is precisely what the 'Small Bone' section's prose addresses.",
+      "chosen_heading": "Small Bone",
+      "current_heading": "Small Bone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Coffin-Boards",
+    "candidates": [
+      "Coffin-Boards",
+      "No Roofing-as-Touch",
+      "Yosei's Proof",
+      "Fundamental Dispute",
+      "Bone Rule",
+      "Shomer Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the golel va-dofek (grave cover and grave wall) imparting tumah through contact and ohel but not carrying, and asks where carrying applies \u2014 exactly matching the 'Coffin-Boards' section prose which discusses these same rulings about golel va-dofek and the im achas mehen principle.",
+      "chosen_heading": "Coffin-Boards",
+      "current_heading": "Coffin-Boards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Shomer Concept",
+    "candidates": [
+      "No Roofing-as-Touch",
+      "Yosei's Proof",
+      "Fundamental Dispute",
+      "Bone Rule",
+      "Shomer Concept",
+      "Source Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita deriving from 'be-nivlatah' that a sealed thigh bone does not impart impurity, which directly corresponds to the 'Bone Rule' section discussing the mishnah's ruling about bones of neveilah and the condition of accessibility to marrow.",
+      "chosen_heading": "Bone Rule",
+      "current_heading": "Shomer Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Source Analysis",
+    "candidates": [
+      "Shomer Concept",
+      "Source Analysis",
+      "Rav Zeira's Q.",
+      "Abaye's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic derivation from the verse 'ha-nogea yitma' establishing the she-efshar liga / she-i efshar liga tahor principle, which is exactly what the 'Source Analysis' prose describes.",
+      "chosen_heading": "Source Analysis",
+      "current_heading": "Source Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Abaye's Answer",
+    "candidates": [
+      "Rav Zeira's Q.",
+      "Abaye's Answer",
+      "Rav Pappa's Q."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Zeira's challenge AND Abaye's answer in a single quote, but the challenge is the primary content being posed, and candidate 0 ('Rav Zeira's Q.') describes exactly this exchange \u2014 Rav Zeira challenging Abaye about how a whole animal carcass imparts tumah if the skin is intact \u2014 making it the better fit than placing it solely under 'Abaye's Answer.'",
+      "chosen_heading": "Rav Zeira's Q.",
+      "current_heading": "Abaye's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Rav Pappa's Q.",
+    "candidates": [
+      "Abaye's Answer",
+      "Rav Pappa's Q.",
+      "Rava's Answer",
+      "Rav Ushaya's Q.",
+      "Resolution (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's challenge about kidneys covered in fat, which is exactly what heading 1 ('Rav Pappa's Q.') describes, and the current placement is correct.",
+      "chosen_heading": "Rav Pappa's Q.",
+      "current_heading": "Rav Pappa's Q.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Resolution (II)",
+    "candidates": [
+      "Rava's Answer",
+      "Rav Ushaya's Q.",
+      "Resolution (II)",
+      "Sealed Egg",
+      "Hole in Egg",
+      "Basic Rule",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-resolution unit of Rav Oshaya's dilemma about intending to perforate the bone, which is precisely what candidate 1 ('Rav Ushaya's Q.') describes \u2014 the question and its answer belong under the same heading rather than being split across two headings.",
+      "chosen_heading": "Rav Ushaya's Q.",
+      "current_heading": "Resolution (II)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Sealed Egg",
+      "Hole in Egg",
+      "Basic Rule",
+      "Rabbi Yehuda",
+      "Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishna covers all three topics in sequence \u2014 the sealed egg (tahor), the perforated egg (tamei), and the half-flesh half-earth mouse including Rabbi Yehuda's extension \u2014 and belongs under the first heading 'Sealed Egg' which introduces the mishnah passage, with the subsequent headings covering the gemara's analysis of each element.",
+      "chosen_heading": "Sealed Egg",
+      "current_heading": "Rabbi Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Derivation",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Derivation",
+      "Movement Condition",
+      "Logical Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita deriving impurity rules for reptile eggs and bones from scriptural interpretation, which is precisely what the 'Derivation' prose section describes in detail.",
+      "chosen_heading": "Derivation",
+      "current_heading": "Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Logical Inference",
+    "candidates": [
+      "Movement Condition",
+      "Logical Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the dispute about where Rabbi Yehoshua ben Levi's condition attaches (first clause vs. latter clause) and the logical inference that follows \u2014 exactly what the 'Logical Inference' prose describes.",
+      "chosen_heading": "Logical Inference",
+      "current_heading": "Logical Inference",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Fourth/Fifth Hour",
+    "candidates": [
+      "Rashi: Bitul & Tashbitu",
+      "Tosafot: Hefker Model",
+      "Ran: Torah Non-Ownership",
+      "Why Bedika After Bitul",
+      "Bal Yera'eh Approaches",
+      "Da'ateih Iluyei Debate",
+      "Fourth/Fifth Hour",
+      "Sixth Hour Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly addresses why bitul cannot be deferred to the fourth or fifth hour, matching exactly the prose of the 'Fourth/Fifth Hour' section which discusses this precise gemara and its answer about negligence.",
+      "chosen_heading": "Fourth/Fifth Hour",
+      "current_heading": "Fourth/Fifth Hour",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Sixth Hour Limit",
+    "candidates": [
+      "Sixth Hour Limit",
+      "Kiddushin Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why bitul cannot be performed during the sixth hour due to the rabbinic prohibition rendering chametz as if it were biblically prohibited, which is precisely what the 'Sixth Hour Limit' prose section discusses.",
+      "chosen_heading": "Sixth Hour Limit",
+      "current_heading": "Sixth Hour Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Kiddushin Analogy",
+    "candidates": [
+      "Kiddushin Analogy",
+      "Braita: Yom Tov Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav Giddel/Rav \u1e24iyya bar Yosef/Rav teaching about betrothal with hard wheat (chitei kurdanaita) from the sixth hour onward, which is exactly what the 'Kiddushin Analogy' prose discusses in detail.",
+      "chosen_heading": "Kiddushin Analogy",
+      "current_heading": "Kiddushin Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Braita: Yom Tov Exception",
+    "candidates": [
+      "Braita: Yom Tov Exception",
+      "Bread Basket Rov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous unit \u2014 the baraita challenge about Yom Tov bitul, Rav A\u1e25a bar Ya'akov's resolution involving kneaded dough, and the gemara's textual confirmation \u2014 exactly matching the prose of heading 0 ('Braita: Yom Tov Exception').",
+      "chosen_heading": "Braita: Yom Tov Exception",
+      "current_heading": "Braita: Yom Tov Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Bread Basket Rov",
+    "candidates": [
+      "Bread Basket Rov",
+      "Jerusalem Money Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba bar Rav Huna's ruling about moldy bread and the rov of matzah, which is precisely what the 'Bread Basket Rov' section's prose introduces and explains.",
+      "chosen_heading": "Bread Basket Rov",
+      "current_heading": "Bread Basket Rov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Jerusalem Money Parallel",
+    "candidates": [
+      "Jerusalem Money Parallel",
+      "Mold Evidence",
+      "Fresh Baking Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the Jerusalem money parallel \u2014 the mishna about coins found near animal merchants, the distinction between festival and non-festival periods, and Rav Shemaya bar Zeira's explanation about daily sweeping leading to the 'kamai kamai azlu' principle \u2014 which is exactly what the 'Jerusalem Money Parallel' prose section describes.",
+      "chosen_heading": "Jerusalem Money Parallel",
+      "current_heading": "Jerusalem Money Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Fresh Baking Theory",
+    "candidates": [
+      "Mold Evidence",
+      "Fresh Baking Theory",
+      "Practical Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the 'several days of matza have passed' reasoning and the daily fresh baking theory that explains extensive mold, which is precisely what the 'Fresh Baking Theory' prose describes in detail.",
+      "chosen_heading": "Fresh Baking Theory",
+      "current_heading": "Fresh Baking Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Practical Leniency",
+    "candidates": [
+      "Practical Leniency",
+      "Bracha Requirement",
+      "Le-Va'er vs. Al Biyur",
+      "Al for Future Tense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Practical Leniency' explicitly discusses the money-box case, Rabbi Yossi b'Rabbi Yehuda's ruling by rov rather than batar basra, and the explanations of Rav Nachman bar Yitzchak, Rav Zevid, and Rav Pappa \u2014 which is precisely the content of both items in this passage.",
+      "chosen_heading": "Practical Leniency",
+      "current_heading": "Practical Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Al for Future Tense",
+    "candidates": [
+      "Bracha Requirement",
+      "Le-Va'er vs. Al Biyur",
+      "Al for Future Tense",
+      "Halakha: Al Biyur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items constitute the continuous Talmudic discussion testing whether 'al' can refer to a future act \u2014 through the mila, shechita, and lulav examples with their objections and resolutions \u2014 which is precisely what the 'Al for Future Tense' section prose describes in detail.",
+      "chosen_heading": "Al for Future Tense",
+      "current_heading": "Al for Future Tense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Halakha: Al Biyur",
+    "candidates": [
+      "Halakha: Al Biyur",
+      "Bracha Before Mitzva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the halakhic ruling of 'al biyur chametz' and its implications, which directly matches the prose of heading 0 ('Halakha: Al Biyur') that discusses the gemara's ruling of v'hilchasa al biyur chametz and its broader significance.",
+      "chosen_heading": "Halakha: Al Biyur",
+      "current_heading": "Halakha: Al Biyur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Bracha Before Mitzva",
+    "candidates": [
+      "Bracha Before Mitzva",
+      "Over L'Asiyatan Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the principle of 'kol ha-mitzvot mevarech aleihen over la'asiyastan' and asks its source, which matches heading 0's prose about establishing this universal principle, before the prooftexts discussed under heading 1.",
+      "chosen_heading": "Bracha Before Mitzva",
+      "current_heading": "Bracha Before Mitzva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Over L'Asiyatan Proof",
+    "candidates": [
+      "Over L'Asiyatan Proof",
+      "Three Blessing Types",
+      "Tevilah Exception",
+      "Tevilah Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about proving that 'over' means 'to precede/go before' through biblical prooftexts, which is exactly what the 'Over L'Asiyatan Proof' section discusses.",
+      "chosen_heading": "Over L'Asiyatan Proof",
+      "current_heading": "Over L'Asiyatan Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Tevilah Explanations",
+    "candidates": [
+      "Three Blessing Types",
+      "Tevilah Exception",
+      "Tevilah Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact gemara passage discussed in the 'Tevilah Exception' prose \u2014 the school of Rav's claim about shofar, the challenge that shechita and mila face the same concern, and Rav Chisda's resolution that only tvila is the exception \u2014 matching that section's prose precisely, whereas the current placement ('Tevilah Explanations') discusses Rashi/Tosafot explanations and Sefardi/Ashkenazi practice, which is downstream content not yet reached in these items.",
+      "chosen_heading": "Tevilah Exception",
+      "current_heading": "Tevilah Explanations",
+      "moved": true
+    }
+  }
+]

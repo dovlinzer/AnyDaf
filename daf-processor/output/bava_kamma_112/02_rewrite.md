@@ -96,11 +96,7 @@ The *gemara* cites a *braita* that tracks the structure of our *mishna*. *Ha-goz
 
 ### Adult Ignorance Claim
 
-The case of the minor children is different — they cannot be sued because requiring them to answer testimony in court is a violation of the principle of *mekabelin eidut she-lo bifnei ba'al din*: one cannot proceed with a case when the opposing party is not capable of defending themselves. A minor does not have full legal standing to face accusers in court, so the proceeding must wait until they reach majority. The stolen object will be retrieved, but not until the children can respond.
-
-The *braita* then introduces a wrinkle: *ve-im amru gedolim einanu yod'in cheshbonot she-chishav avinu imach* — if the adult children declare that they do not know the arrangement their father made with the claimant, perhaps the father paid for the object or was given permission to keep it — in that case, *peturim*, they are exempt. The *gemara* presses: does simply saying "we don't know" actually exempt them? You can see plainly that the object is in their home; the claimant knows what his property looks like. How does a plea of ignorance relieve them of the obligation to return what appears to be a stolen item?
-
----
+The *braita* then introduces a wrinkle: if the adult children declare *einanu yod'in cheshbonos she-chishiv avinu imach* — we do not know the arrangement our father made with you — perhaps he paid for the object or was permitted to keep it — then *peturim*, they are exempt from payment. The *gemara* immediately presses: *mishum de-amri ein anu yod'in peturim?* Does simply saying "we don't know" exempt them? The stolen object is plainly sitting in their home; a plea of ignorance hardly seems sufficient to relieve them of the obligation to return it. *Rava* then reinterprets the case.
 
 ## Mishna: Two Cases (II)
 

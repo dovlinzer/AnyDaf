@@ -1,12 +1,9 @@
-# Meilah 12 — Daf Yomi Shiur
-
+[DAF:12a]
 ## Ashes: Inner Mizbe'ach
 
-### Deshen Intro
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא מִזְבֵּחַ הַחִיצוֹן, דִּכְתִיב בֵּיהּ: "וְשָׂמוֹ אֵצֶל הַמִּזְבֵּחַ". מִזְבֵּחַ הַפְּנִימִי מְנָלַן?
->
-> **Translation:** Granted that the ashes of **the external altar** are subject to misuse, **as it is written in** the context of those ashes: **"And he shall put it beside the altar"** (Leviticus 6:3). But **from where do we** derive that the ashes of **the inner altar** are also subject to misuse?
+
+### Deshen Intro
 
 The *mishna* at the bottom of 11b introduces a new subject: *deshen mizbe'ach hapnimi vehammenorah* — the ashes of the inner altar and the *menorah*. The ruling is *lo nehenin velo mo'alin*: one may not derive benefit from these ashes, yet there is no Torah-level *me'ila* for them. To properly situate this ruling, it helps to recall what the *gemara* had been exploring regarding the ashes of the outer *mizbe'ach*, where the question concerned at which stage the ashes are no longer subject to *me'ila* — whether after *terumas hadeshen* or only after they are carried outside. Here, in contrast, we are dealing with ashes generated inside the *heichal*: from the golden inner altar upon which the *ketoret* was burned, and from the *menorah* whose lights were kindled daily.
 
@@ -22,27 +19,9 @@ Tosafot draws an important distinction to explain why the inner and outer altars
 
 This creates a meaningful structural difference between the two altars. For the outer *mizbe'ach* — specifically by *kodshei kodshim* — the existence of a *mitzvah* of *terumas hadeshen*, or more broadly of ash-removal, postpones the moment of *na'asa mitzvaso*: the ashes retain *me'ila* until that ritual act has been performed or until they are removed entirely from the *beis hamikdash*. For the inner *mizbe'ach* and the *menorah*, where no such *mitzvah* exists, the *mitzvah* completes at the earlier stage of combustion, and *me'ila* ends there as well.
 
-The *gemara* itself, however, does not address this analysis directly. Instead, it pivots to a seemingly unrelated question: since the *mishna* mentions the removal of ashes, and it is elsewhere assumed that ashes from the inner *mizbe'ach* and *menorah* are deposited at the same location as the outer altar's ashes — near the ramp — the *gemara* asks for the biblical source of this practice.
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר: דְּאָמַר קְרָא: "וְהֵסִיר אֶת מֻרְאָתוֹ בְּנֹצָתָהּ" – אִם אֵינוֹ עִנְיָן לְמִזְבֵּחַ הַחִיצוֹן, תְּנֵהוּ עִנְיָן לְמִזְבֵּחַ הַפְּנִימִי.
->
-> **Translation:** **Rabbi Elazar said** in response: It is derived from the fact **that the verse states** with regard to a bird sacrificed as a burnt offering: **"And he shall take away its crop with its feathers, and cast it beside the altar on the east part, in the place of the ashes"** (Leviticus 1:16), referring to the location for the placement of the removed ashes. **If** this verse **is not needed for** the **matter of the external altar,** as that *halakha* is already derived from the phrase: "And he shall put them beside the altar" (Leviticus 6:3), **apply it** to the **matter of** the ashes of **the inner altar,** teaching that these ashes must also be placed there.
-
-The *gemara* traces it through a *gezeira shava* and an exegetical reading of *el mekom hadeshen*, concluding that the ashes of the inner *mizbe'ach* and *menorah* are indeed placed at that designated ash-pile. This is conceptually interesting: although there is no *mitzvah* of *terumas hadeshen* for the inner *mizbe'ach* or *menorah*, the physical destination of the ashes is nonetheless the same location used for the outer altar's ash-ritual.
-
-> **Hebrew/Aramaic:** אִם כֵּן, לֵימָא קְרָא: "אֵצֶל הַמִּזְבֵּחַ". מַאי "הַדָּשֶׁן"? דַּאֲפִילּוּ מִזְבֵּחַ הַפְּנִימִי.
->
-> **Translation:** **If so,** that both verses are referring to the external altar, **let** that **verse** merely **state:** "And he shall take away its crop with its feathers and cast it **beside the altar,"** and it would be understood that the two verses are referring to the same place, as the identical phrase "beside the altar" appears in the other verse. **What** is the reason for the additional phrase "in the place of **the ashes"?** It teaches **that even** the ashes of the **inner altar** are placed there.
-
-> **Hebrew/Aramaic:** מְנוֹרָה מְנָלַן? "דָּשֶׁן", "הַדָּשֶׁן".
->
-> **Translation:** The Gemara asks: **From where do we** derive that the ashes of the **Candelabrum** are also placed to the east of the altar? The Gemara answers: It is derived from the definite article in: "The ashes," as the verse could have said **"ashes"** and instead it said **"the ashes."** This addition serves to include the ashes of the Candelabrum.
+The *gemara* itself, however, does not address this analysis directly. Instead, it pivots to a seemingly unrelated question: since the *mishna* mentions the removal of ashes, and it is elsewhere assumed that ashes from the inner *mizbe'ach* and *menorah* are deposited at the same location as the outer altar's ashes — near the ramp — the *gemara* asks for the biblical source of this practice. The *gemara* traces it through a *gezeira shava* and an exegetical reading of *el mekom hadeshen*, concluding that the ashes of the inner *mizbe'ach* and *menorah* are indeed placed at that designated ash-pile. This is conceptually interesting: although there is no *mitzvah* of *terumas hadeshen* for the inner *mizbe'ach* or *menorah*, the physical destination of the ashes is nonetheless the same location used for the outer altar's ash-ritual.
 
 ### Sanctifying Ashes
-
-> **Hebrew/Aramaic:** הַמַּקְדִּישׁ דִּישּׁוּן בַּתְּחִלָּה – מוֹעֲלִין בָּהּ.
->
-> **Translation:** In the case of **one who consecrates anew** the **ash** that has been **removed,** he is liable for **misusing it.**
 
 The *mishna* adds a further ruling: *hamakdish deshen batichla mo'alin bo* — if someone consecrates ashes from the outset, there is *me'ila* on them. Rashi and Tosafot read this in the context of the ash-removal process, suggesting it concerns re-sanctification after the ashes have been burned. The Rambam, by contrast, reads the statement simply and straightforwardly: no matter how trivial the sanctified object may seem — even a pile of ash or dung — if one formally consecrates it, *me'ila* applies. The ruling is thus a general principle about the power of *hekdesh* even over seemingly worthless material.
 
@@ -50,11 +29,31 @@ The *mishna* adds a further ruling: *hamakdish deshen batichla mo'alin bo* — i
 
 ## Birds Unfit by Age
 
+
+
 ### Mishna: Birds
 
-> **Hebrew/Aramaic:** תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן, וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
->
-> **Translation:** With regard to **doves whose time** of fitness for sacrifice **has not arrived,** as they are too young, **and pigeons whose time** of fitness for sacrifice **has passed,** as they are too old, one **may not derive benefit** from them *ab initio*; **but** if one derived benefit from them he is **not** liable for their **misuse.**
+> **Hebrew/Aramaic:** מַתְנִי׳ דִּישּׁוּן מִזְבֵּחַ הַפְּנִימִי, וְהַמְּנוֹרָה – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין. הַמַּקְדִּישׁ דִּישּׁוּן בַּתְּחִלָּה – מוֹעֲלִין בָּהּ. תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן, וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
+> **Translation:** MISHNA: With regard to **the removal of ash** from **the inner altar** to the place where the ashes lifted from the outer altar are deposited, **and** similarly with regard to the wicks of **the Candelabrum,** one **may not derive benefit** from them *ab initio*; **but** if one derived benefit from them he is **not** liable for their **misuse.** In the case of **one who consecrates anew** the **ash** that has been **removed,** he is liable for **misusing it.** With regard to **doves whose time** of fitness for sacrifice **has not arrived,** as they are too young, **and pigeons whose time** of fitness for sacrifice **has passed,** as they are too old, one **may not derive benefit** from them *ab initio*; **but** if one derived benefit from them he is **not** liable for their **misuse.**
+
+> **Hebrew/Aramaic:** גְּמָ׳ בִּשְׁלָמָא
+> **Translation:** GEMARA: The mishna teaches that the ashes of the inner altar are not subject to misuse once they have been moved to the place where the ashes lifted from the outer altar are deposited. The Gemara asks: **Granted**
+
+> **Hebrew/Aramaic:** מִזְבֵּחַ הַחִיצוֹן, דִּכְתִיב בֵּיהּ: ״וְשָׂמוֹ אֵצֶל הַמִּזְבֵּחַ״. מִזְבֵּחַ הַפְּנִימִי מְנָלַן?
+> **Translation:** that the ashes of **the external altar** are subject to misuse, **as it is written in** the context of those ashes: **“And he shall put it beside the altar”** (Leviticus 6:3). This teaches that these ashes must be interred, despite the fact that their mitzva has been performed by its removal, and therefore they are subject to misuse. But **from where do we** derive that the ashes of **the inner altar** are also subject to misuse?
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר: דְּאָמַר קְרָא: ״וְהֵסִיר אֶת מֻרְאָתוֹ בְּנֹצָתָהּ״ – אִם אֵינוֹ עִנְיָן לְמִזְבֵּחַ הַחִיצוֹן, תְּנֵהוּ עִנְיָן לְמִזְבֵּחַ הַפְּנִימִי.
+> **Translation:** **Rabbi Elazar said** in response: It is derived from the fact **that the verse states** with regard to a bird sacrificed as a burnt offering: **“And he shall take away its crop with its feathers,** and cast it beside the altar on the east part, in the place of the ashes” (Leviticus 1:16), referring to the location for the placement of the removed ashes. **If** this verse **is not needed for** the **matter of the external altar,** as that *halakha* is already derived from the phrase: “And he shall put them beside the altar” (Leviticus 6:3), **apply it** to the **matter of** the ashes of **the inner altar,** teaching that these ashes must also be placed there.
+
+> **Hebrew/Aramaic:** אֵימָא: אִידֵּי וְאִידֵּי בְּמִזְבֵּחַ הַחִיצוֹן, וְלִקְבּוֹעַ לוֹ מָקוֹם!
+> **Translation:** The Gemara questions this conclusion: One can **say** that **this and that,** i.e., both verses cited above, are stated **with regard to** the ashes that are on **the external altar, and** the additional verse is necessary **to fix its place,** i.e., that it should be put on the east part, which is mentioned only in Leviticus 1:16. If so, there is no source for the placement of the ashes of the inner altar.
+
+> **Hebrew/Aramaic:** אִם כֵּן, לֵימָא קְרָא: ״אֵצֶל הַמִּזְבֵּחַ״. מַאי ״הַדָּשֶׁן״? דַּאֲפִילּוּ מִזְבֵּחַ הַפְּנִימִי.
+> **Translation:** The Gemara answers: **If so,** that both verses are referring to the external altar, and the sole purpose of Leviticus 1:16 is to fix its place, **let** that **verse** merely **state:** “And he shall take away its crop with its feathers and cast it **beside the altar,”** and it would be understood that the two verses are referring to the same place, as the identical phrase “beside the altar” appears in the other verse. **What** is the reason for the additional phrase “in the place of **the ashes”?** It teaches **that even** the ashes of the **inner altar** are placed there.
+
+> **Hebrew/Aramaic:** מְנוֹרָה מְנָלַן? ״דָּשֶׁן״, ״הַדָּשֶׁן״.
+> **Translation:** The Gemara asks: **From where do we** derive that the ashes of the **Candelabrum** are also placed to the east of the altar? The Gemara answers: It is derived from the definite article in: “The ashes,” as the verse could have said **“ashes”** and instead it said **“the ashes.”** This addition serves to include the ashes of the Candelabrum.
+
 
 The *mishna* continues with the case of *torin shelo higia zmanan uvnei yona she'avar zmanan* — turtle-doves that have not yet reached the age at which they are fit for offering, and young pigeons (*bnei yona*) that have passed the age at which they are fit. In both cases, the ruling is *lo nehenin velo mo'alin*: benefit is rabbinically forbidden, yet there is no *me'ila*. This immediately calls for explanation, because as a general principle, a *korban* that becomes *pasul* still retains *me'ila*. Why should these birds be different?
 
@@ -64,29 +63,25 @@ The *gemara* thus focuses not on the central *me'ila* question of the *mishna* b
 
 ### R. Shimon: Young
 
-> **Hebrew/Aramaic:** מַתְנִי׳ רַבִּי שִׁמְעוֹן אוֹמֵר תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן – מוֹעֲלִין בָּהֶן, בְּנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין בָּהֶן.
->
-> **Translation:** MISHNA: **Rabbi Shimon** disagrees with this ruling and **says:** With regard to **doves whose time** of fitness for sacrifice **has not arrived,** one is liable for **misusing them.** With regard to **pigeons whose time** of fitness for sacrifice **has passed,** one **may not derive benefit** *ab initio*, **but** if one derived benefit from them he is **not** liable for their **misuse.**
+> **Hebrew/Aramaic:** מַתְנִי׳ רַבִּי שִׁמְעוֹן אוֹמֵר תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן – מוֹעֲלִין בָּהֶן, בְּנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין בָּהֶן.
+> **Translation:** MISHNA: The previous mishna teaches that one may not derive benefit from doves whose time of fitness for sacrifice has not arrived and from pigeons whose time of fitness for sacrifice has passed, but one who derived benefit from them is not liable for their misuse. **Rabbi Shimon** disagrees with this ruling and **says:** With regard to **doves whose time** of fitness for sacrifice **has not arrived,** one is liable for **misusing them.** With regard to **pigeons whose time** of fitness for sacrifice **has passed,** one **may not derive benefit** *ab initio*, **but** if one derived benefit from them he is **not** liable for their **misuse.**
+
+> **Hebrew/Aramaic:** גְּמָ׳ בִּשְׁלָמָא רַבִּי שִׁמְעוֹן, כִּדְקָתָנֵי טַעְמָא: שֶׁהָיָה רַבִּי שִׁמְעוֹן אוֹמֵר, כׇּל הָרָאוּי לְאַחַר זְמַן, וְהִקְדִּישׁוֹ בְּתוֹךְ זְמַנּוֹ – הֲרֵי הוּא בְּלֹא תַעֲשֶׂה, וְאֵין בּוֹ כָּרֵת.
+> **Translation:** GEMARA: This and the preceding mishna indicate that the Rabbis and Rabbi Shimon disagree as to whether or not doves whose time of fitness for sacrifice has not arrived are subject to misuse. The Gemara clarifies their opinions: **Granted,** one can understand the opinion of **Rabbi Shimon, as** he himself **teaches** his **reason** in a mishna (*Zevaḥim* 112b). **As Rabbi Shimon would say:** In the case of **any** sacrificial animal **that is fit to** be sacrificed **after** the passage of **time,** e.g., doves that will be fit for sacrifice when they mature, if **one consecrated it before its time** of fitness and slaughtered it outside the Temple courtyard, **that** person is **in** violation of **a prohibition but there is no** liability to receive ***karet* for it.**
 
 Rabbi Shimon's position is presented in the following *mishna*: he holds that *torin shelo higia zmanan* — turtle-doves that are too young — do carry *me'ila*, even though the rabbis disagree. His reasoning is clear: since these birds will eventually become fit for a *korban*, their current unfitness is only temporary. Why, then, should their consecrated status not carry *me'ila*?
-
-> **Hebrew/Aramaic:** גְּמָ׳ בִּשְׁלָמָא רַבִּי שִׁמְעוֹן, כִּדְקָתָנֵי טַעְמָא: שֶׁהָיָה רַבִּי שִׁמְעוֹן אוֹמֵר, כׇּל הָרָאוּי לְאַחַר זְמַן, וְהִקְדִּישׁוֹ בְּתוֹךְ זְמַנּוֹ – הֲרֵי הוּא בְּלֹא תַעֲשֶׂה, וְאֵין בּוֹ כָּרֵת.
->
-> **Translation:** GEMARA: **Granted,** one can understand the opinion of **Rabbi Shimon, as** he himself **teaches** his **reason** in a mishna (*Zevaḥim* 112b). **As Rabbi Shimon would say:** In the case of **any** sacrificial animal **that is fit to** be sacrificed **after** the passage of **time,** e.g., doves that will be fit for sacrifice when they mature, if **one consecrated it before its time** of fitness and slaughtered it outside the Temple courtyard, **that** person is **in** violation of **a prohibition but there is no** liability to receive ***karet* for it.**
 
 The *gemara* notes that Rabbi Shimon's position here is consistent with a principle he articulates elsewhere. In the laws of *oso ve'es beno* — the prohibition against slaughtering a mother animal and its offspring on the same day — Rabbi Shimon rules that *kol hara'uy le'achar zman*, anything that will be fit at a later time but that was consecrated while still temporarily unfit, carries sufficient significance that if one slaughters it outside the *beis hamikdash*, one transgresses the *lav* of *shechutei chutz*, even if no *kares* is incurred. The logic is that future fitness endows the object with present significance. Applied to the birds, Rabbi Shimon reasons that the young turtle-dove, which will become fit in due course, carries enough present sanctity to bear *me'ila*.
 
 ### Comparison: Pidyon
 
-> **Hebrew/Aramaic:** אֶלָּא רַבָּנַן: מַאי שְׁנָא מִמְּחוּסַּר זְמַן?
->
-> **Translation:** **But** according to the opinion of **the Rabbis,** who hold that doves whose time of fitness for sacrifice has not arrived are not subject to misuse, in **what** way **is** this case **different from** an animal **whose time has not yet** arrived, and yet it can be consecrated?
+> **Hebrew/Aramaic:** אֶלָּא רַבָּנַן: מַאי שְׁנָא מִמְּחוּסַּר זְמַן?
+> **Translation:** **But** according to the opinion of **the Rabbis,** who hold that doves whose time of fitness for sacrifice has not arrived are not subject to misuse, in **what** way **is** this case **different from** an animal **whose time has not yet** arrived, and yet it can be consecrated? An animal whose time has not yet arrived enters the pen to be tithed together with the other animals (see *Bekhorot* 56a). Why is the case of the young doves any different?
+
+> **Hebrew/Aramaic:** אָמְרִי: מְחוּסַּר זְמַן – מִידֵּי דְּהָוֵה אַבַּעַל מוּם, דְּבַר פִּדְיוֹן הוּא. אֲבָל הָנֵי עוֹפוֹת, כֵּיוָן דְּאֵין מוּם פּוֹסֵל בְּעוֹפוֹת – אֵין לָעוֹפוֹת פִּדְיוֹן.
+> **Translation:** The Rabbis would **say** in response that the cases are not comparable. An animal **whose time has not yet** arrived can indeed be consecrated, **just as is** the *halakha* **with regard to a blemished** animal, **which** can be consecrated, although only to the degree **that** it **is subject to redemption. But** in the case of **these birds, since a blemish does not render birds unfit, there is no** possibility of **redemption for** blemished **birds.** Therefore, one cannot compare the case of animal, which is subject to redemption, to the case of a bird whose time has not yet arrived.
 
 The *gemara* then asks the more basic question: why do the rabbis disagree? Even if they reject Rabbi Shimon's position regarding *shechutei chutz*, consider a standard animal that is less than eight days old — *mechusar zman* — and is consecrated. There is no dispute that *me'ila* applies. It will simply become fit when sufficient time has passed, just as the young turtle-dove will become fit. Why should the birds be different?
-
-> **Hebrew/Aramaic:** אָמְרִי: מְחוּסַּר זְמַן – מִידֵּי דְּהָוֵה אַבַּעַל מוּם, דְּבַר פִּדְיוֹן הוּא. אֲבָל הָנֵי עוֹפוֹת, כֵּיוָן דְּאֵין מוּם פּוֹסֵל בְּעוֹפוֹת – אֵין לָעוֹפוֹת פִּדְיוֹן.
->
-> **Translation:** The Rabbis would **say** in response that the cases are not comparable. An animal **whose time has not yet** arrived can indeed be consecrated, **just as is** the *halakha* **with regard to a blemished** animal, **which** can be consecrated, although only to the degree **that** it **is subject to redemption. But** in the case of **these birds, since a blemish does not render birds unfit, there is no** possibility of **redemption for** blemished **birds.** Therefore, one cannot compare the case of animal, which is subject to redemption, to the case of a bird whose time has not yet arrived.
 
 The *gemara* answers: *mechusar zman midi dehavai aba'al mum* — the case of an animal unfit by reason of age is comparable to an animal with a blemish. The reason *me'ila* applies to a blemished animal is *d'var pidyon hu* — it is something that can be redeemed. Even though a blemished animal cannot presently be offered, the *kedusha* is not purposeless: it can be transferred through *pidyon* to money, which in turn funds another *korban*. The *kedusha* has somewhere to go. The same logic applies to the underage animal: were some complication to arise, *pidyon* would remain an option.
 
@@ -102,11 +97,13 @@ This answer, while formally satisfying, leaves a conceptual difficulty. When the
 
 ## Dead/Unfit Animals
 
+
+
 ### Kodashim Shemeisu
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא, אָמַר רַבִּי יוֹחָנָן: קָדָשִׁים שֶׁמֵּתוּ, יָצְאוּ מִידֵי מְעִילָה דְּבַר תּוֹרָה.
->
-> **Translation:** **Ulla says** that **Rabbi Yoḥanan says: Sacrificial** animals **that died** without being sacrificed **are excluded from** the *halakhot* of **misuse by Torah law.** This is because they are no longer fit to be sacrificed, and therefore are no longer in the category of: "The sacred items of the Lord" (Leviticus 5:15). They cannot be redeemed either, since one may not redeem sacrificial animals merely in order to feed them to the dogs.
+> **Hebrew/Aramaic:** אָמַר עוּלָּא, אָמַר רַבִּי יוֹחָנָן: קָדָשִׁים שֶׁמֵּתוּ, יָצְאוּ מִידֵי מְעִילָה דְּבַר תּוֹרָה.
+> **Translation:** § **Ulla says** that **Rabbi Yoḥanan says: Sacrificial** animals **that died** without being sacrificed **are excluded from** the *halakhot* of **misuse by Torah law.** This is because they are no longer fit to be sacrificed, and therefore are no longer in the category of: “The sacred items of the Lord” (Leviticus 5:15). They cannot be redeemed either, since one may not redeem sacrificial animals merely in order to feed them to the dogs.
+
 
 The *gemara* now moves to a statement by Ulla in the name of Rabbi Yochanan: *kodashim shemeisu yatz'u midei me'ila d'var Torah* — consecrated animals that have died exit the category of Torah-level *me'ila*. This requires contextualizing against what has already been established. A *korban* that becomes *pasul* — disqualified in the context of the *avodah* — retains *me'ila*; there is still a *mitzvas sreifah*, an obligation to burn it, and the object remains within the orbit of *kedusha*. What removes something from *me'ila* is when it becomes *holech le'ibud* — headed toward destruction with no ritual purpose remaining — as with a *chatas hamesa* or the overage birds.
 
@@ -114,112 +111,126 @@ The current case concerns a different end-point: the animal was not *pasul* in a
 
 ### Rav Chisda Object
 
-> **Hebrew/Aramaic:** יָתֵיב עוּלָּא וְקָאָמַר לְהָא שְׁמַעְתָּא, אֲמַר לֵיהּ רַב חִסְדָּא: מַאן שָׁמַע לָךְ וּלְרַבִּי יוֹחָנָן רַבָּךְ?! וְכִי קְדוּשָּׁה שֶׁבָּהֶן לְהֵיכָן הָלְכָה?!
->
+> **Hebrew/Aramaic:** יָתֵיב עוּלָּא וְקָאָמַר לְהָא שְׁמַעְתָּא, אֲמַר לֵיהּ רַב חִסְדָּא: מַאן שָׁמַע לָךְ וּלְרַבִּי יוֹחָנָן רַבָּךְ?! וְכִי קְדוּשָּׁה שֶׁבָּהֶן לְהֵיכָן הָלְכָה?!
 > **Translation:** The Gemara relates that **Ulla was sitting** in the study hall **and he recited this *halakha*** in the name of Rabbi Yoḥanan. **Rav Ḥisda said to him: Who will listen to you and Rabbi Yoḥanan, your teacher,** with regard to this opinion, that such offerings are not subject to the *halakhot* of misuse by Torah law? After all, **to where has** the **sanctity that was** inherent **in them** until they died **gone?**
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: תִּיקְשֵׁי מַתְנִיתִין: ״תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין״, הָכָא נָמֵי נֵימָא: קְדוּשָּׁה שֶׁבָּהֶן לְהֵיכָן הָלְכָה?!
+> **Translation:** Ulla **said to** Rav Ḥisda: According to your reasoning, **the mishna** itself **should present a difficulty,** as it teaches: With regard to **doves whose time** of fitness for sacrifice **has not arrived,** as they are too young, **and pigeons whose time** of fitness for sacrifice **has passed,** as they are too old, one **may not derive benefit** from them *ab initio*, **but** if one derived benefit from them he is **not** liable for their **misuse. Here too,** one can **say: To where has** the **sanctity that was** inherent **in** the pigeons whose time of fitness for sacrifice has passed **gone?** Why are they no longer subject to the *halakhot* of misuse?
 
 Rav Chisda challenges this forcefully: *v'harei kedusha shebahen heichan halcha* — where did the *kedusha* go? The animal was fully consecrated, there was nothing wrong with the *kedusha*, and then it simply died. How can a perfectly valid *kedusha* simply evaporate? Ulla responds by pointing to the *mishna*'s own cases: *torin shelo higia zmanan uvnei yona she'avar zmanan* — birds where the *kedusha* may have started valid (for example, birds consecrated at the appropriate age that subsequently aged out of fitness) and now carries no *me'ila*. The *gemara* could equally have raised the *chatas hamesa* from the very first *mishna* of the *perek*, which may also have begun as a perfectly valid *kedusha* before circumstances — such as *niskafru ba'aleha b'acheres*, atonement being achieved through another offering — rendered it a *chatas hamesa*. Our *perek* is replete with cases in which a *kedusha* that began well becomes purposeless and loses its *me'ila* status. Rav Chisda's objection, while emotionally resonant, cannot be sustained against the weight of these precedents.
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: תִּיקְשֵׁי מַתְנִיתִין: "תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין", הָכָא נָמֵי נֵימָא: קְדוּשָּׁה שֶׁבָּהֶן לְהֵיכָן הָלְכָה?!
->
-> **Translation:** Ulla **said to** Rav Ḥisda: According to your reasoning, **the mishna** itself **should present a difficulty,** as it teaches: With regard to **doves whose time** of fitness for sacrifice **has not arrived,** as they are too young, **and pigeons whose time** of fitness for sacrifice **has passed,** as they are too old, one **may not derive benefit** from them *ab initio*, **but** if one derived benefit from them he is **not** liable for their **misuse. Here too,** one can **say: To where has** the **sanctity that was** inherent **in** the pigeons whose time of fitness for sacrifice has passed **gone?** Why are they no longer subject to the *halakhot* of misuse?
-
 ### D'Oraisa vs Rabbanan
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: מוֹדֵינָא לָךְ דְּאִיכָּא מְעִילָה מִדְּרַבָּנַן. וְקַשְׁיָא לִי: מִי אִיכָּא מִידֵּי דְּמֵעִיקָּרָא לָא אִית בֵּיהּ מְעִילָה, וּלְבַסּוֹף אִית בֵּיהּ מְעִילָה?
->
-> **Translation:** Rav Ḥisda **said to** Ulla in response: I agree that both the sacrificial animals that died and the pigeons whose time of fitness for sacrifice has passed are not subject to the *halakhot* of misuse by Torah law. **I** also **concede to you that** in the case of sacrificial animals that died and doves whose time of fitness for sacrifice has not arrived **there is** a prohibition of **misuse** of consecrated property **by rabbinic law.** Accordingly, I am no longer troubled by the question of where the sanctity has gone. **But** there is another matter that is **difficult for me: Is there anything where initially,** when it was consecrated, it is **not subject to** the *halakhot* of **misuse, and ultimately** it is **subject to** the *halakhot* of **misuse** by rabbinic law, such as these doves whose time of fitness for sacrifice has not arrived?
 
 Ulla concedes the conceptual force of Rav Chisda's point. His concession, as Tosafot reads the somewhat difficult language, is that he agrees: *d'ika me'ila miderabbanan* — there ought to be at least rabbinic *me'ila* in such cases. His original statement — *yatzu midei me'ila d'var Torah* — meant to deny only Torah-level *me'ila*; some form of rabbinic *me'ila* may still apply. The critical distinction between *issur hana'ah* — which is what *lo nehenin velo mo'alin* typically denotes — and *me'ila derabbanan* is not merely one of stringency. The operative difference is that *me'ila derabbanan* involves a notion of taking from the domain of the *beis hamikdash*, such that payment and restitution are required. *Issur hana'ah*, by contrast, like the prohibition against deriving benefit from *chametz* on *Pesach*, carries no mechanism of payment — it is simply a prohibition, transgression of which yields no obligation of repayment.
 
 ### Me'ila D'Rabbanan
 
-> **Hebrew/Aramaic:** וְלָא? וְהָא אִיכָּא דָּם, דְּמֵעִיקָּרָא לֵית בַּהּ מְעִילָה, וּלְבַסּוֹף אִית בַּהּ מְעִילָה, דִּתְנַן: דָּם, בַּתְּחִלָּה – אֵין מוֹעֲלִין בּוֹ, יָצָא לְנַחַל קִדְרוֹן – מוֹעֲלִין בּוֹ!
->
-> **Translation:** The Gemara asks: **And** is it so that there is **no** instance of an item that is initially not subject to the *halakhot* of misuse, and in the end is subject to the *halakhot* of misuse? **But there is** the case of **blood, which initially** is **not subject** to the *halakhot* of **misuse, and ultimately** it is **subject** to the *halakhot* of **misuse. As we learned** in the mishna (11a): With regard to **blood, at** its **outset,** before it is sprinkled on the altar, one is **not** liable for **misusing it,** but once it **emerges** via the canal that runs through the Temple **to the Kidron Valley** at the foot of the Temple Mount, one is liable for **misusing it.**
+A further difficulty then arises: *mi ika midi d'meikara lo is bei me'ila u'lesof is bei me'ila* — is there any case where something begins without *me'ila* and subsequently acquires *me'ila*? The question is pointed, because if *kodashim shemeisu* — including *kodshim kalim*, whose meat carries no *me'ila* while the animal lives — die, and Ulla's position implies they would then carry *me'ila derabbanan*, the situation becomes paradoxical: by dying, the animal's status has become worse in practice, yet more *me'ila* now applies than did before. Something that moved further from the *mizbe'ach*, as it were, now attracts a stricter treatment than it had in life. It is worth noting that this is quite different from the case of *imurei kodshim kalim* — the sacrificial portions of *kodshim kalim* — which do carry *me'ila d'oraisa*, but there the logic runs in the expected direction: those portions are progressing toward the *mizbe'ach*, and their *me'ila* reflects that proximity. What troubles the *gemara* here is the inverse: that death, which takes the animal entirely out of the domain of sanctity, could somehow generate a new layer of *me'ila*, even if only rabbinic, where none existed before.
 
-A further difficulty then arises: *mi ika midi d'meikara lo is bei me'ila u'lesof is bei me'ila* — is there any case where something begins without *me'ila* and subsequently acquires *me'ila*? The question is pointed, because if *kodashim shemeisu* — including *kodshim kalim*, whose meat carries no *me'ila* while the animal lives — die, and Ulla's position implies they would then carry *me'ila derabbanan*, the situation becomes paradoxical: by dying, the animal's status has become worse in practice, yet more *me'ila* now applies than did before. Something that moved further from the *mizbe'ach*, as it were, now attracts a stricter treatment than it had in life.
-
+[DAF:12b]
 ### Blood Exception
 
-> **Hebrew/Aramaic:** אָמְרִי: הָתָם נָמֵי אִיכָּא מְעִילָה מֵעִיקָּרָא, דְּאָמַר רַב: הַמַּקִּיז דָּם לְבֶהֱמַת קָדָשִׁים, אָסוּר בַּהֲנָאָה, וּמוֹעֲלִין בּוֹ.
->
-> **Translation:** The Sages **say** in response: This is not a proof, as **there too,** in the case of blood **it is** subject to the *halakhot* of **misuse initially. As Rav said:** In a case of **one who lets blood from** a live **sacrificial animal,** deriving **benefit** from that blood **is prohibited and** one is liable for **misusing it** by Torah law.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: מוֹדֵינָא לָךְ דְּאִיכָּא מְעִילָה מִדְּרַבָּנַן. וְקַשְׁיָא לִי: מִי אִיכָּא מִידֵּי דְּמֵעִיקָּרָא לָא אִית בֵּיהּ מְעִילָה, וּלְבַסּוֹף אִית בֵּיהּ מְעִילָה?
+> **Translation:** Rav Ḥisda **said to** Ulla in response: I agree that both the sacrificial animals that died and the pigeons whose time of fitness for sacrifice has passed are not subject to the *halakhot* of misuse by Torah law. **I** also **concede to you that** in the case of sacrificial animals that died and doves whose time of fitness for sacrifice has not arrived **there is** a prohibition of **misuse** of consecrated property **by rabbinic law.** Accordingly, I am no longer troubled by the question of where the sanctity has gone. **But** there is another matter that is **difficult for me: Is there anything where initially,** when it was consecrated, it is **not subject to** the *halakhot* of **misuse, and ultimately** it is **subject to** the *halakhot* of **misuse** by rabbinic law, such as these doves whose time of fitness for sacrifice has not arrived?
 
-The *gemara* raises the case of *dam* as a potential precedent. The *mishna* teaches that blood, *b'techila*, initially carries no *me'ila* — yet once it flows to the *nachal kidron*, the wadi outside the *beis hamikdash*, rabbinic *me'ila* applies. Here too, something begins without *me'ila* and ends with it. The *gemara* responds: *hasam nami ika me'ila meikara* — the blood case is not truly a counterexample, because there is a way blood could carry *me'ila* even from the outset. This is the teaching cited earlier in the name of Rav: *hamakiz dam l'behemas kodshim assur b'hana'ah umo'alin bo* — blood let from a consecrated animal for therapeutic purposes is fully subject to *me'ila*. Since *me'ila* is not conceptually foreign to blood, its rabbinic application in the *nachal kidron* case is not as startling as applying *me'ila derabbanan* to *kodshim kalim* that die, where *me'ila* was never a relevant concept at all. The *gemara* leaves the difficulty unresolved. The upshot of the entire sugya, however, is clear: *holech le'ibud* and *ibud* itself — actual death without a *mitzvas sreifah* — remove an animal from *me'ila d'Oraisa*, with the possibility of *me'ila derabbanan* remaining a live question.
+> **Hebrew/Aramaic:** וְלָא? וְהָא אִיכָּא דָּם, דְּמֵעִיקָּרָא לֵית בַּהּ מְעִילָה, וּלְבַסּוֹף אִית בַּהּ מְעִילָה, דִּתְנַן: דָּם, בַּתְּחִלָּה – אֵין מוֹעֲלִין בּוֹ, יָצָא לְנַחַל קִדְרוֹן – מוֹעֲלִין בּוֹ!
+> **Translation:** The Gemara asks: **And** is it so that there is **no** instance of an item that is initially not subject to the *halakhot* of misuse, and in the end is subject to the *halakhot* of misuse? **But there is** the case of **blood, which initially** is **not subject** to the *halakhot* of **misuse, and ultimately** it is **subject** to the *halakhot* of **misuse. As we learned** in the mishna (11a): With regard to **blood, at** its **outset,** before it is sprinkled on the altar, one is **not** liable for **misusing it,** but once it **emerges** via the canal that runs through the Temple **to the Kidron Valley** at the foot of the Temple Mount, one is liable for **misusing it.**
+
+> **Hebrew/Aramaic:** אָמְרִי: הָתָם נָמֵי אִיכָּא מְעִילָה מֵעִיקָּרָא,
+> **Translation:** The Sages **say** in response: This is not a proof, as **there too,** in the case of blood **it is** subject to the *halakhot* of **misuse initially.**
+
+> **Hebrew/Aramaic:** דְּאָמַר רַב: הַמַּקִּיז דָּם לְבֶהֱמַת קָדָשִׁים, אָסוּר בַּהֲנָאָה, וּמוֹעֲלִין בּוֹ.
+> **Translation:** **As Rav said:** In a case of **one who lets blood from** a live **sacrificial animal,** deriving **benefit** from that blood **is prohibited and** one is liable for **misusing it** by Torah law. Since there is a stage when there is a prohibition of misuse by Torah law, one can understand the *halakha* that one is liable by rabbinic law for misusing the blood ultimately, when it descended to the Kidron Valley. This is not comparable to doves whose time of fitness for sacrifice has not arrived, as they are initially not subject to misuse by Torah law.
+
+The *gemara* raises the case of *dam* as a potential precedent. The *mishna* teaches that blood, *b'techila*, initially carries no *me'ila* — yet once it flows to the *nachal kidron*, the wadi outside the *beis hamikdash*, rabbinic *me'ila* applies. Here too, something begins without *me'ila* and ends with it. The *gemara* responds: *hasam nami ika me'ila meikara* — the blood case is not truly a counterexample, because there is a way blood could carry *me'ila* even from the outset. This is the teaching cited earlier in the name of Rav: *hamakiz dam l'behemas kodshim assur b'hana'ah umo'alin bo* — blood let from a consecrated animal for therapeutic purposes is fully subject to *me'ila*. Since *me'ila* is not conceptually foreign to blood, its rabbinic application in the *nachal kidron* case is not as startling as applying *me'ila derabbanan* to *kodshim kalim* that die, where *me'ila* was never a relevant concept at all. What makes this ironic, and worth pausing on, is the overall picture that emerges regarding blood: the default rule is famously that blood carries *no* *me'ila*, and that exclusion is the baseline one would expect to encounter throughout. Yet here we find that blood drawn therapeutically — precisely the blood that was never going to the *mizbe'ach* for *kaparah* — actually does carry *me'ila*, while the blood used for the *mitzvah* itself does not. The exception, in other words, turns out to be broader than the rule. The *gemara* presses the objection nonetheless: granting that *me'ila* is not foreign to blood in the abstract does not mean the two blood situations are genuinely comparable. The blood that becomes subject to *me'ila* at the *nachal kidron* is sacrificial blood that served its ritual purpose; the blood that carries *me'ila* from the outset is blood that never entered the sacrificial process at all. These are different kinds of blood, and one may not feel that the latter establishes a precedent for the former. The *gemara* leaves the difficulty unresolved. The upshot of the entire sugya, however, is clear: *holech le'ibud* and *ibud* itself — actual death without a *mitzvas sreifah* — remove an animal from *me'ila d'Oraisa*, with the possibility of *me'ila derabbanan* remaining a live question.
 
 ---
 
 ## Blood: Part Animal
 
-### Hematziz Dam
 
-> **Hebrew/Aramaic:** גּוּפָא. אָמַר רַב הוּנָא, אָמַר רַב: הַמַּקִּיז דָּם לְבֶהֱמַת קָדָשִׁים – אָסוּר בַּהֲנָאָה, וּמוֹעֲלִין בּוֹ. מֵתִיב רַב הַמְנוּנָא חֲלֵב הַמּוּקְדָּשִׁין, וּבֵיצֵי תוֹרִין – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין!
->
-> **Translation:** § The Gemara analyzes **the** matter **itself. Rav Huna says** that **Rav says:** In a case of **one who lets blood from a sacrificial animal, deriving benefit** from that blood **is prohibited and** one is liable for **misusing it. Rav Hamnuna raises an objection** to the opinion of Rav from the mishna below: With regard to **the milk of** animals **consecrated** to be sacrificed **and the eggs of doves** consecrated to be sacrificed, one **may not derive benefit** from them *ab initio*, **but** if one derived benefit from them after the fact he is **not** liable for their **misuse,** despite the fact that one is liable for misuse of the animals and doves themselves.
+
+### Hematziz Dam
 
 Rav Huna states in the name of Rav: *hamakiz dam b'vehemat kodshim assur b'hana'ah* — one who lets blood from a consecrated animal may not derive benefit from that blood, and moreover *mo'alin bo* — it is subject to full *me'ila*. The reasoning is straightforward: this blood was never designated for *kaparah* on the *mizbe'ach*, so the biblical exclusion of blood from *me'ila* — derived from the verse's language of *lachem*, given over to you, and *lechaper*, for the purpose of atonement — does not apply. That exclusion covers only blood being used for its ritual purpose. Blood extracted therapeutically from a consecrated animal is simply part of the animal's body, and since there is *me'ila* on the animal, there is *me'ila* on this blood as well.
 
 ### Blood vs Byproducts
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: כִּי קָאָמְרִינַן, לְגַבֵּי דָּם, דְּלֹא מִתְקַיֶּימֶת בְּלָא דָּם. אֲבָל חֵלֶב, דְּקָא מִקַּיְימָא בְּלֹא חֵלֶב – לָא.
->
+> **Hebrew/Aramaic:** גּוּפָא. אָמַר רַב הוּנָא, אָמַר רַב: הַמַּקִּיז דָּם לְבֶהֱמַת קָדָשִׁים – אָסוּר בַּהֲנָאָה, וּמוֹעֲלִין בּוֹ. מֵתִיב רַב הַמְנוּנָא חֲלֵב הַמּוּקְדָּשִׁין, וּבֵיצֵי תוֹרִין – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין!
+> **Translation:** § The Gemara analyzes **the** matter **itself. Rav Huna says** that **Rav says:** In a case of **one who lets blood from a sacrificial animal, deriving benefit** from that blood **is prohibited and** one is liable for **misusing it. Rav Hamnuna raises an objection** to the opinion of Rav from the mishna below: With regard to **the milk of** animals **consecrated** to be sacrificed **and the eggs of doves** consecrated to be sacrificed, one **may not derive benefit** from them *ab initio*, **but** if one derived benefit from them he is **not** liable for their **misuse,** despite the fact that one is liable for misuse of the animals and doves themselves. Apparently, the products of a consecrated item do not share its status with regard to the *halakha* of misuse. Why doesn’t this principle apply to blood as well?
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: כִּי קָאָמְרִינַן, לְגַבֵּי דָּם, דְּלֹא מִתְקַיֶּימֶת בְּלָא דָּם. אֲבָל חֵלֶב, דְּקָא מִקַּיְימָא בְּלֹא חֵלֶב – לָא.
 > **Translation:** Rav **said to** Rav Hamnuna in response: **When we said** the products of a consecrated item are also subject to the *halakha* of misuse that was only **with regard to blood, as** the animal **cannot exist without blood** and therefore the blood is considered like the animal itself. **But** in the case of **milk, since** the animal can **exist without milk,** the milk is **not** considered like the animal itself.
 
 Rav Hamnuna raises an objection from the *mishna* that follows: *kol hamukdashim uveitzei torin* — the milk of consecrated female animals and the eggs of turtle-doves are *lo nehenin velo mo'alin*. Benefit is forbidden, yet *me'ila* does not apply. If blood is treated as part of the animal itself, why are milk and eggs not treated similarly?
 
 The answer given is: *delo miskayem belo dam* — an animal cannot survive without blood; blood is intrinsic to life itself and therefore intrinsic to the animal. *Aval chalav*, milk, by contrast — *deka mikayem belo chalav* — an animal can exist without producing milk. These are products generated by the animal, but they are not constitutive of the animal. They are byproducts, not the thing itself, and therefore *me'ila* does not extend to them.
 
-### Dung Question
+One might ask whether the same logic would extend to wool. An interesting wrinkle here is that milk and eggs are biologically produced so that they will naturally separate from the animal, whereas wool must ordinarily be shorn — though it does eventually come off on its own in season. Whether that distinction matters for the question of *me'ila* on wool is a point worth tracking down, since the fact that benefit from wool may be forbidden does not by itself settle whether *me'ila* applies.
 
-> **Hebrew/Aramaic:** מֵתִיב רַב מְשַׁרְשְׁיָא: הַזֶּבֶל וְהַפֶּרֶשׁ שֶׁבֶּחָצֵר – אֵין נֶהֱנִין וְאֵין מוֹעֲלִין. וְיִפְּלוּ דָּמֶיהָ לַלִּשְׁכָּה.
->
-> **Translation:** **Rav Mesharshiyya raises an objection** to this suggestion from a *baraita*: One **may not derive benefit** from **the** dried **manure and the** fresh **dung** of offerings of the most sacred order found **in the** Temple **courtyard** *ab initio*, **but** if one derived benefit from them he is **not** liable for **misusing** them; **and** the **money** received from **their** sale **will** be **allocated for the** treasury **chamber** of the Temple.
+### Dung Question
 
 Rav Mesharshaya presses the point further: *ha-zevel veha-peresh shebe-chatzer* — dung and the undigested stomach contents found in the yard of a *kodshim* animal are also *lo nehenin velo mo'alin*. Yet, argues Rav Mesharshaya, *lo mikayem belo peresh* — an animal cannot subsist without having some food in its stomach at any moment. By the same logic used to include blood, should undigested food not also be included as intrinsic to the animal?
 
+> **Hebrew/Aramaic:** מֵתִיב רַב מְשַׁרְשְׁיָא: הַזֶּבֶל וְהַפֶּרֶשׁ שֶׁבֶּחָצֵר – אֵין נֶהֱנִין וְאֵין מוֹעֲלִין. וְיִפְּלוּ דָּמֶיהָ לַלִּשְׁכָּה.
+> **Translation:** **Rav Mesharshiyya raises an objection** to this suggestion from a *baraita*: One **may not derive benefit** from **the** dried **manure and the** fresh **dung** of offerings of the most sacred order found **in the** Temple **courtyard** *ab initio*, **but** if one derived benefit from them he is **not** liable for **misusing** them; **and** the **money** received from **their** sale **will** be **allocated for the** treasury **chamber** of the Temple.
+
+> **Hebrew/Aramaic:** אַמַּאי? הָכָא נָמֵי, לָא מְקַיֵּים בְּלֹא פֶּרֶשׁ! אָמְרִי: מַאי אִירְיָא, הָדֵין פֶּרֶשׁ דְּמִן עָלְמָא קָאָתֵי לַהּ, אָזֵיל הַאי – אָתֵי אַחֲרִינָא. לְאַפּוֹקֵי דָּם, מִגּוּפַהּ.
+> **Translation:** In light of the suggested distinction between blood and milk, the Gemara asks: **Why** is the dung not subject to the *halakhot* of misuse? **Here too,** the animal **cannot exist without dung,** and therefore the dung should be subject to the *halakhot* of misuse like blood. The Sages **say** in response: **How** can you **compare** the two cases? In the case of **this dung that comes to** the animal **from an external** source, i.e., the food that it ate, **this** food **goes** out of the body in the form of dung and **that other** food **comes** into the body and takes its place. This description serves **to exclude blood, which is** part **of** the animal’s **body** and is not replaced from an external source.
+
+> **Hebrew/Aramaic:** הָא קָתָנֵי לֹא נֶהֱנִין וְלֹא מוֹעֲלִין וְדָמָיו לַלִּשְׁכָּה. מְסַיְּיעָא לֵיהּ לְרַבִּי אֶלְעָזָר, דְּאָמַר רַבִּי אֶלְעָזָר: כׇּל מָקוֹם שֶׁאָמְרוּ חֲכָמִים קָדוֹשׁ וְאֵינוֹ קָדוֹשׁ – דָּמָיו יִפְּלוּ לַלִּשְׁכָּה.
+> **Translation:** The Gemara notes: The *baraita* **teaches** that one **may not derive benefit** from the manure and dung *ab initio*, **but** if one derived benefit from them he is **not** liable for **misuse, and** the **money** received from **their** sale **will** be **allocated for the** treasury **chamber** of the Temple. This **supports** the opinion of **Rabbi Elazar, as Rabbi Elazar said: Wherever the Sages said** an item is **consecrated and not consecrated,** as in this case where one may not derive benefit but he is not liable for misuse either, the **money** received from **its** sale is **allocated for the** treasury **chamber** of the Temple.
+
 ### Blood Intrinsic
 
-> **Hebrew/Aramaic:** אָמְרִי: מַאי אִירְיָא, הָדֵין פֶּרֶשׁ דְּמִן עָלְמָא קָאָתֵי לַהּ, אָזֵיל הַאי – אָתֵי אַחֲרִינָא. לְאַפּוֹקֵי דָּם, מִגּוּפַהּ.
->
-> **Translation:** The Sages **say** in response: **How** can you **compare** the two cases? In the case of **this dung that comes to** the animal **from an external** source, i.e., the food that it ate, **this** food **goes** out of the body in the form of dung and **that other** food **comes** into the body and takes its place. This description serves **to exclude blood, which is** part **of** the animal's **body** and is not replaced from an external source.
 
 The *gemara* responds: *mah irya* — there is a fundamental difference. Undigested food in the stomach is always food that came from the outside — *de-me'alma ka'asi lah* — and it is constantly being processed through the system, one portion replaced by another: *azil hai ve'asi achrina*. It is never truly the animal itself; it is always outside matter passing through. Blood, by contrast — *la'appokei dam di-gufeih hu* — is intrinsically produced by the body itself and is the body itself; as the commentators add, we are born already filled with blood. The body does not merely receive blood from outside and process it through; it generates blood as an expression of its own life-force. Therefore blood, even when it exits the body, retains the status of the animal itself, and *me'ila* applies accordingly.
+
+It is worth noting that this answer was received with some skepticism in the lecture hall — the question of *mai irya* was raised, essentially pushing back on whether the distinction is as obvious as the *gemara* treats it. But upon reflection, the logic holds: the issue is not whether the animal always contains the substance, but whether the substance originates from within the animal or merely passes through it. Undigested stomach contents are constitutively external matter, however continuously present, whereas blood is constitutively the animal's own product, however continuously replenished.
+
+The *gemara* then proceeds to note that the ruling on dung — *lo nehenin velo mo'alin u-demeihen lallishkah*, that it may not be used for benefit but carries no *me'ila*, and that its proceeds go to the Temple treasury — supports the position of Rabbi Elazar: *mesayyei lei le-Rabbi Elazar*. Rabbi Elazar's rule, *kol makom she-ameru chachamim kodesh ve-eino kodesh*, is that wherever the rabbis designated something as occupying this intermediate quasi-sacred status — the very category of *lo nehenin velo mo'alin* — the proceeds from it fall to the *lishka*, the Temple treasury. What exactly this means becomes a matter of dispute. The *mefareish* understands it to mean that even if one impermissibly derived benefit from such an object, what one derived must be paid back and the proceeds given to the Temple treasury — this being the practical consequence of the prohibition of *lo nehenin*. There is no *me'ila d'Oraisa*, but there is an obligation of repayment. *Tosafos*, however, strongly objects to this reading, arguing that it would effectively render the prohibition a form of *me'ila d'Rabbanan*, and the entire conceptual force of *lo nehenin* is that it operates differently from *me'ila* in any form, even rabbinic. The distinction *Tosafos* insists upon is a conceptual one: *me'ila d'Rabbanan* carries with it the notion of wrongful appropriation — taking something away — and therefore generates an obligation to repay whatever benefit one received. An *issur hana'ah*, by contrast, is a prohibition on deriving benefit, full stop, with no attendant mechanism of repayment or restitution. The analogy is to the prohibition against deriving benefit from *chametz* on *Pesach*: one who violates that prohibition has transgressed an *issur hana'ah*, but there is no concept of having taken something that must be returned. *Tosafos* therefore reads *dameihen yiplu l'lishka* not as a consequence triggered by impermissible use, but as practical guidance to the Temple administration — objects in this intermediate category should be sold rather than left to go to waste, and the proceeds directed to the Temple treasury. That is all the statement means; it says nothing about what happens when someone wrongly derives benefit from them.
 
 ---
 
 ## Milk & Eggs
 
+
+
 ### Mishna: Milk/Eggs
 
-> **Hebrew/Aramaic:** מַתְנִי׳ חֲלֵב הַמּוּקְדָּשִׁין וּבֵיצֵי תוֹרִין – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ חֲלֵב הַמּוּקְדָּשִׁין וּבֵיצֵי תוֹרִין – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
 > **Translation:** MISHNA: With regard to **the milk of sacrificial** animals **and the eggs of** sacrificial **doves,** one **may not derive benefit** from them *ab initio*, **but** if one derived benefit from them after the fact he is **not** liable for their **misuse.**
 
 The *mishna* states: *chalvan ubeitzaihen lo nehenin velo mo'alin* — the milk of consecrated animals and the eggs of consecrated birds may not be used for benefit, and yet there is no *me'ila* on them. As established, this flows from the principle that byproducts are not the animal itself, and since the *korban* is defined by the identity of the thing going to the *mizbe'ach*, products that are not themselves going to the *mizbe'ach* carry no *me'ila*.
 
 ### Bedek HaBayis
 
-> **Hebrew/Aramaic:** בַּמֶּה דְּבָרִים אֲמוּרִים – בְּקׇדְשֵׁי מִזְבֵּחַ. אֲבָל בְּקׇדְשֵׁי בֶּדֶק הַבַּיִת, הִקְדִּישׁ תַּרְנְגוֹלֶת – מוֹעֲלִין בָּהּ וּבְבֵיצָתָהּ, חֲמוֹרָה – מוֹעֲלִין בָּהּ וּבַחֲלָבָהּ.
->
+> **Hebrew/Aramaic:** בַּמֶּה דְּבָרִים אֲמוּרִים – בְּקׇדְשֵׁי מִזְבֵּחַ. אֲבָל בְּקׇדְשֵׁי בֶּדֶק הַבַּיִת, הִקְדִּישׁ תַּרְנְגוֹלֶת – מוֹעֲלִין בָּהּ וּבְבֵיצָתָהּ, חֲמוֹרָה – מוֹעֲלִין בָּהּ וּבַחֲלָבָהּ.
 > **Translation:** **In what** case **is this statement,** that if one derived benefit from the eggs or milk of sacrificial animals, he is not liable for their misuse, **said?** It is stated **in** the case of **sacrificial** animals offered on the **altar,** as their eggs and milk are not brought to the altar and therefore they are considered distinct from the offerings themselves. **But** this is not the *halakha* **in** the case of animals that are not sacrificed and are **consecrated** only **for Temple maintenance.** For example, if one **consecrated a hen** he is liable for **misusing it and for** misusing **its egg;** if one consecrated **a donkey** he is liable for **misusing it and for** misusing **its milk,** as the animal and its milk, and likewise the hen and its eggs, are both consecrated for Temple maintenance and are deemed a single unit.
 
 The *mishna* then specifies an exception: *uvameh devarim amurim b'kodshei mizbe'ach — aval b'kodshei bedek habayis* — when is it that milk and eggs carry no *me'ila*? Only when we speak of things consecrated for the *mizbe'ach* as a *korban*. But if one consecrates a chicken or a female donkey for *bedek habayis* — the temple treasury — then *mo'alin bah uveitzatah*, *mo'alin bo uvchalavo*: *me'ila* applies both to the animal and to its eggs or milk. The *mishna* deliberately chose a chicken and a female donkey because animals fit for the altar should not be consecrated to the treasury — they should be offered as *korbanos*. These examples involve animals that cannot be brought on the *mizbe'ach* at all.
 
 ### Guf vs Damim
 
-> **Hebrew/Aramaic:** אֶלָּא גַּבֵּי מִזְבֵּחַ, כִּי אַקְדְּשַׁהּ קְדוּשַּׁת דָּמִים, לָא אִית בַּהּ מְעִילָה?
->
-> **Translation:** GEMARA: The mishna teaches that if one derived benefit from the eggs or milk of consecrated animals sacrificed on the altar he is not liable for their misuse. The Gemara asks: **But** does that mean that in a case of an item that is suitable to be sacrificed **on the altar, if he consecrated it** with **a sanctity** that inheres in its **value,** i.e., to sell it and use the money to buy an offering rather than sacrifice the animal itself, then its eggs or milk are **not subject to** the *halakhot* of **misuse?**
+
+> **Hebrew/Aramaic:** מַתְנִי׳, כׇּל הָרָאוּי לַמִּזְבֵּחַ
+> **Translation:** MISHNA: With regard to **any** consecrated item **that is fit for** sacrifice on **the altar**
+
+> **Hebrew/Aramaic:** וְלֹא לְבֶדֶק הַבַּיִת, לְבֶדֶק הַבַּיִת וְלֹא לַמִּזְבֵּחַ, לֹא לַמִּזְבֵּחַ וְלֹא לְבֶדֶק הַבַּיִת – מוֹעֲלִין בָּהּ. כֵּיצַד?
+> **Translation:** **but is not** fit **for Temple maintenance,** or if it is fit **for Temple maintenance but not for** sacrifice on **the altar,** or fit **neither for the altar nor for Temple maintenance,** nevertheless one is liable for **misusing it.** The mishna clarifies each of these categories: Fit for Temple maintenance but not for sacrifice on the altar, **how so?**
 
 The conceptual key to the difference lies in understanding the two fundamental categories of *kedusha*: *kedushat haguf* and *kedushat damim*. *Kedushat haguf* is a *kedusha* grounded in the identity of the thing itself — what the thing *is* and where it is *going*. *Kedushat damim* is a *kedusha* grounded in ownership and value — it is about what the thing is *worth* and who *owns* it. When I consecrate a sheep to be brought as an *olah*, the *kedusha* is entirely about the identity of that sheep as something directed toward the *mizbe'ach*. When I transfer title of my chickens to the temple treasury, the *kedusha* is about ownership — the *beis hamikdash* now owns these animals. If the chicken lays an egg, who owns it? The *beis hamikdash* does. And therefore *me'ila* applies to the egg.
 
 By contrast, when a sheep is consecrated as a *korban* and it produces milk, that milk is not going to the *mizbe'ach*; it is not the *korban* itself; it shares none of the identity-based *kedusha* that makes the sheep a *korban*. There is accordingly no *me'ila* on it.
 
+It is worth noting that *kedushat haguf* and *kedushat damim* do not map perfectly onto *kedushat mizbe'ach* and *kedushat bedek habayis*, even though one might initially assume those two distinctions are identical. In fact, the categories can cross. If the *beis hamikdash* needs physical beams to build into its ceiling and I consecrate a beam for that purpose, this is *kedushat haguf* for *bedek habayis* — the thing itself is being used, not merely sold for its value. Conversely, one can have *kedushat damim* directed ultimately toward the *mizbe'ach*: if I consecrate an animal with a *mum*, it must be redeemed, and the money goes to purchase another *korban* for the *mizbe'ach* — or I might consecrate a sum of money to buy an *olah*, in which case the money itself is not going on the altar, only its value is, making this a *kedushat damim lemizbe'ach*. The practical upshot for our *mishna* is therefore that the governing question is not simply *mizbe'ach* versus *bedek habayis*, but the deeper one: are we dealing with *kedushat haguf* — a *kedusha* about the thing itself — or *kedushat damim* — a *kedusha* about ownership and worth? It is this distinction, the *gemara* will clarify, that drives the entire analysis of when milk and eggs carry *me'ila*.
+
 ### Kedushat Haguf
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: בַּמֶּה דְּבָרִים אֲמוּרִים – כְּשֶׁהִקְדִּישׁ קְדוּשַּׁת הַגּוּף לְגַבֵּי מִזְבֵּחַ, אֲבָל הִקְדִּישׁוֹ קְדוּשַּׁת דָּמִים לְגַבֵּי מִזְבֵּחַ – נַעֲשָׂה כְּמִי שֶׁהִקְדִּישׁוֹ לְבֶדֶק הַבַּיִת. הִקְדִּישׁ תַּרְנְגוֹלֶת – מוֹעֲלִין בָּהּ וּבְבֵיצָתָהּ, חֲמוֹרָה – מוֹעֲלִין בָּהּ וּבַחֲלָבָהּ.
->
+> **Hebrew/Aramaic:** גְּמָ׳ אֶלָּא גַּבֵּי מִזְבֵּחַ, כִּי אַקְדְּשַׁהּ קְדוּשַּׁת דָּמִים, לָא אִית בַּהּ מְעִילָה?
+> **Translation:** GEMARA: The mishna teaches that if one derived benefit from the eggs or milk of consecrated animals sacrificed on the altar he is not liable for their misuse. The Gemara asks: **But** does that mean that in a case of an item that is suitable to be sacrificed **on the altar, if he consecrated it** with **a sanctity** that inheres in its **value,** i.e., to sell it and use the money to buy an offering rather than sacrifice the animal itself, then its eggs or milk are **not subject to** the *halakhot* of **misuse?** Since he does not intend to sacrifice the animal itself, why shouldn’t the prohibition of misuse apply to its milk or its eggs?
+
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: בַּמֶּה דְּבָרִים אֲמוּרִים – כְּשֶׁהִקְדִּישׁ קְדוּשַּׁת הַגּוּף לְגַבֵּי מִזְבֵּחַ, אֲבָל הִקְדִּישׁוֹ קְדוּשַּׁת דָּמִים לְגַבֵּי מִזְבֵּחַ – נַעֲשָׂה כְּמִי שֶׁהִקְדִּישׁוֹ לְבֶדֶק הַבַּיִת. הִקְדִּישׁ תַּרְנְגוֹלֶת – מוֹעֲלִין בָּהּ וּבְבֵיצָתָהּ, חֲמוֹרָה – מוֹעֲלִין בָּהּ וּבַחֲלָבָהּ.
 > **Translation:** **Rav Pappa said:** The wording of the mishna **is incomplete and this** is what **it is teaching: In what** case **is this statement,** that the milk and eggs of a consecrated animal sacrificed on the altar are not subject to misuse, **said?** It is said **when he consecrated** the animal with **inherent sanctity** to be sacrificed **on the altar. But** if **he consecrated it** with **a sanctity** that inheres in its **value,** i.e., to sell it and use the money to buy an offering to be sacrificed **on the altar,** then **it is** considered **as though he consecrated it for** the **Temple maintenance** and it is subject to misuse. Therefore, if **one consecrated a hen** to sell it and use the money to buy an offering he is liable for **misusing it and for** misusing **its egg;** if one consecrated **a donkey** he is liable for **misusing it and for** misusing **its milk.**
 
 The *gemara* refines the analysis still further. It asks: why did the *mishna* give its exception specifically in the context of *bedek habayis*? Might there not also be *me'ila* on milk and eggs if one sanctified a donkey for the *mizbe'ach* with a *kedushat damim*? The *gemara* answers through the formulation of Rav Papa: *chisorei michasra*, the *mishna* requires supplementation. The correct reading is: *bameh devarim amurim? Keshehikdish kedushat haguf legabei mizbe'ach* — the ruling that milk and eggs carry no *me'ila* applies specifically to *kedushat haguf* for the *mizbe'ach*, where the thing itself is being directed to the altar and *kedusha* is about identity, not ownership or value.
@@ -233,6 +244,8 @@ It is worth noting, as one might observe, that this is not precisely the same as
 ---
 
 ## Summary: 5 Principles
+
+
 
 ### P1: Psul Status
 

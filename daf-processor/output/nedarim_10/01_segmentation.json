@@ -242,7 +242,7 @@
           "timestamp": "26:56"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -407,7 +407,7 @@
           "timestamp": "51:06"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -426,8 +426,8 @@
           "timestamp": "52:23"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 25,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -1058,5 +1058,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "24:19",
+  "amud_b_micro_title": "Why Kinuyim",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "a"
 }

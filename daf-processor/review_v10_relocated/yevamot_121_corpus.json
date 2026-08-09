@@ -1,0 +1,548 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Lenient or Strict?",
+    "candidates": [
+      "Rabbi Yehuda's Position",
+      "Lenient or Strict?",
+      "Proof Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma of whether Rabbi Yehuda ben Bava disagrees leniently or stringently, which is precisely what the 'Lenient or Strict?' section's prose discusses.",
+      "chosen_heading": "Lenient or Strict?",
+      "current_heading": "Lenient or Strict?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Proof Sources",
+    "candidates": [
+      "Proof Sources",
+      "Water Shrinkage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two drowning cases (Carmi/Bei Hedya after three days and Tigris/Shabistana after five days) that the prose under 'Proof Sources' explicitly describes and analyzes as demonstrations of leniency beyond the three-day limit.",
+      "chosen_heading": "Proof Sources",
+      "current_heading": "Proof Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Water Shrinkage",
+    "candidates": [
+      "Water Shrinkage",
+      "Timing of Exam",
+      "Definition of Edges",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the water-shrinkage principle (shani maye d'tsamtei) and its qualifications, which is precisely what the 'Water Shrinkage' section's prose covers, including the maya marzu maka tension and the mitsmat tsamit resolution \u2014 the timing qualification in item 2 is also explicitly mentioned in that same prose section.",
+      "chosen_heading": "Water Shrinkage",
+      "current_heading": "Water Shrinkage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Timing of Exam",
+      "Definition of Edges",
+      "Rabbi Meir Position",
+      "Rabbi Yosi's Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna presenting Rabbi Meir's position (wife prohibited in both cases) with his supporting incident of a man surviving three days in a pit, which is exactly what the 'Rabbi Meir Position' prose describes.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rabbi Yosi's Cases",
+    "candidates": [
+      "Rabbi Yosi's Cases",
+      "Severed Limb Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both stories told by Rabbi Yosi (the blind man in the cave and the man lowered into the sea), which are fully described in candidate 0's prose, while candidate 1 covers only the legal ruling about the severed limb that follows from the second story.",
+      "chosen_heading": "Rabbi Yosi's Cases",
+      "current_heading": "Rabbi Yosi's Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Severed Limb Rule",
+    "candidates": [
+      "Severed Limb Rule",
+      "Baraita Rule",
+      "4-Direction Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita quoted in candidate 1's prose, presenting Rabbi Meir's and the Rabbis' positions on water with/without a visible end, which is precisely what the 'Baraita Rule' section describes.",
+      "chosen_heading": "Baraita Rule",
+      "current_heading": "Severed Limb Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "4-Direction Test",
+    "candidates": [
+      "Baraita Rule",
+      "4-Direction Test",
+      "Wife Married",
+      "Shmuel's Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly defines 'mayim she-yesh lahem sof' via Abaye's 4-direction test, which is exactly what the '4-Direction Test' section's prose describes.",
+      "chosen_heading": "4-Direction Test",
+      "current_heading": "4-Direction Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Shmuel's Advice",
+    "candidates": [
+      "Wife Married",
+      "Shmuel's Advice",
+      "Rav's Admission",
+      "Waves Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together narrate the opening of the Rav Sheila story \u2014 the drowning, Rav Sheila permitting the wife, Rav's threat to excommunicate, and the back-and-forth questioning \u2014 which exactly matches the prose under 'Wife Married' (candidate 0), while the current placement under 'Shmuel's Advice' (candidate 1) covers the results of that exchange, not its initiation.",
+      "chosen_heading": "Wife Married",
+      "current_heading": "Shmuel's Advice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Waves Theory",
+    "candidates": [
+      "Rav's Admission",
+      "Waves Theory",
+      "No Shamta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Shila's admission of error ('I erred') and his original reasoning about standing water, which is precisely what heading 0 'Rav's Admission' discusses, not the waves theory rebuttal which is the essay author's prose under heading 1.",
+      "chosen_heading": "Rav's Admission",
+      "current_heading": "Waves Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "No Shamta",
+    "candidates": [
+      "Waves Theory",
+      "No Shamta",
+      "Rejected Meir",
+      "Torah Sages"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Shamta",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing exchange of verses between Rav and Shmuel about Rav Sheila's case, which is precisely what candidate 1 ('No Shamta') describes in its prose.",
+      "second_heading": "Rejected Meir",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 introduce a completely new baraita with Rabbi Yehuda HaNasi's incident about fishermen on the Jordan and the cave of fish, directly illustrating the distinction between mayim she-yesh lahem sof and ein lahem sof, which matches candidate 2 ('Rejected Meir') discussing that halacha follows the chachamim in cases of mayim she-yesh lahem sof.",
+      "current_heading": "No Shamta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Torah Sages",
+    "candidates": [
+      "Rejected Meir",
+      "Torah Sages",
+      "No Fame Rule",
+      "Bedi'avad Rule",
+      "Rav Dimi Case",
+      "Gamliel's Praise",
+      "Gamliel Shipwreck"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Ashi's distinction for Torah scholars AND the gemara's rejection of it plus the bedi'avad rule, and the current placement under 'Torah Sages' (candidate 1) covers the full passage including the rejection and bedi'avad conclusion as part of the same sugya unit, matching the prose which summarizes all these elements together.",
+      "chosen_heading": "Torah Sages",
+      "current_heading": "Torah Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Gamliel Shipwreck",
+    "candidates": [
+      "No Fame Rule",
+      "Bedi'avad Rule",
+      "Rav Dimi Case",
+      "Gamliel's Praise",
+      "Gamliel Shipwreck",
+      "Akiva's Survival"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabban Gamliel's shipwreck story with Rabbi Akiva, which is explicitly described and quoted in candidate 4's prose as belonging to that section.",
+      "chosen_heading": "Gamliel Shipwreck",
+      "current_heading": "Gamliel Shipwreck",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Akiva's Survival",
+    "candidates": [
+      "Akiva's Survival",
+      "Akiva's 2nd"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Gamliel's conclusion ('how great are the words of the Sages') after witnessing a shipwreck in open water, which matches the 'Akiva's Survival' prose describing Rabban Gamliel's experience and the same concluding statement, not the second baraita about Rabbi Akiva/Rabbi Meir.",
+      "chosen_heading": "Akiva's Survival",
+      "current_heading": "Akiva's Survival",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Akiva's 2nd",
+    "candidates": [
+      "Akiva's 2nd",
+      "Lions Pit",
+      "Snakes/Scorpions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the baraita about Rabbi Akiva witnessing Rabbi Meir's ship in distress and drawing the legal conclusion about endless vs. bounded water, which is precisely what heading 0 ('Akiva's 2nd') describes in its prose.",
+      "chosen_heading": "Akiva's 2nd",
+      "current_heading": "Akiva's 2nd",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Snakes/Scorpions",
+    "candidates": [
+      "Lions Pit",
+      "Snakes/Scorpions",
+      "Fiery Furnace",
+      "Boiling Liquids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita about snakes/scorpions \u2014 the tanna kamma's ruling, Rabbi Yehuda ben Beteira's dissent about the charmer, and the tanna kamma's rejoinder about pressure \u2014 which is precisely what the 'Snakes/Scorpions' prose section discusses.",
+      "chosen_heading": "Snakes/Scorpions",
+      "current_heading": "Snakes/Scorpions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Boiling Liquids",
+    "candidates": [
+      "Fiery Furnace",
+      "Boiling Liquids",
+      "Well Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses falling into a boiling cauldron of wine or oil and the distinction between them, which exactly matches the 'Boiling Liquids' section's prose about the yora filled with wine or oil and Rabbi A\u1e25a's distinction.",
+      "chosen_heading": "Boiling Liquids",
+      "current_heading": "Boiling Liquids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Well Miracle",
+    "candidates": [
+      "Well Miracle",
+      "Sleep & Ledges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Meir's well story and the baraita's response that one cannot cite miraculous acts as legal precedent, plus the opening question about what the miracle was (the food/water point) \u2014 all of which matches heading 0's prose, while heading 1's prose covers the subsequent gemara discussion about sleep and ledges which is not yet present in this passage.",
+      "chosen_heading": "Well Miracle",
+      "current_heading": "Well Miracle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Sleep & Ledges",
+    "candidates": [
+      "Sleep & Ledges",
+      "Daughter Saved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the miraculous element of not sleeping and the arches/ledges debate \u2014 exactly the content described in the 'Sleep & Ledges' prose.",
+      "chosen_heading": "Sleep & Ledges",
+      "current_heading": "Sleep & Ledges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Daughter Saved",
+    "candidates": [
+      "Daughter Saved",
+      "Ram & Old Man",
+      "Tzadik Logic",
+      "Son's Thirst",
+      "Harsh Justice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Daughter Saved",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the daughter falling into the cistern and Rabbi Chanina's hourly reports of her safety, which is precisely what the 'Daughter Saved' prose discusses.",
+      "second_heading": "Ram & Old Man",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers both the ram/old man explanation and the 'not a prophet' / tzadik logic response, but the 'Ram & Old Man' heading is the first of the two relevant sections and the passage spans both candidates 1 and 2 \u2014 however since candidate 1 ('Ram & Old Man') begins the second half of the passage and its prose directly addresses the ram and old man detail, it is the better primary home, with the tzadik logic portion also naturally falling there as part of the same continuous exchange.",
+      "current_heading": "Daughter Saved",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Harsh Justice",
+    "candidates": [
+      "Ram & Old Man",
+      "Tzadik Logic",
+      "Son's Thirst",
+      "Harsh Justice",
+      "Women's Hearsay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Abba's statement that the son died of thirst ('met b'no ba-tzama'), which is precisely what the 'Son's Thirst' section's prose describes, including the same quote and framing.",
+      "chosen_heading": "Son's Thirst",
+      "current_heading": "Harsh Justice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Women's Hearsay",
+    "candidates": [
+      "Harsh Justice",
+      "Women's Hearsay",
+      "Children Testify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers both the women's hearsay rule and Rabbi Yehuda's children extension, and the current placement under 'Women's Hearsay' is correct since that section's prose explicitly discusses this mishna's content about informal testimony from women (with the children portion handled by the following section's prose).",
+      "chosen_heading": "Women's Hearsay",
+      "current_heading": "Women's Hearsay",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Children Testify",
+    "candidates": [
+      "Children Testify",
+      "Intent Question",
+      "Jew vs. Non-Jew"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Jew vs. Non-Jew",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yehuda ben Bava's ruling distinguishing Jews from non-Jews regarding intentional testimony, which is precisely what the 'Jew vs. Non-Jew' prose discusses in detail.",
+      "second_heading": "Children Testify",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question and answer about children going to eulogize and bury, which directly matches the 'Children Testify' prose about relying on children's statements regarding going to eulogize and bury so-and-so.",
+      "current_heading": "Children Testify",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Jew vs. Non-Jew",
+    "candidates": [
+      "Intent Question",
+      "Jew vs. Non-Jew",
+      "Rav Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses validating children's testimony about a death by requiring them to mention rabbis and eulogizers who were present \u2014 this is about narrowing and establishing valid testimony, which fits under the 'Rav Yehuda' section discussing how testimony is validated and what makes it credible, not under the 'Jew vs. Non-Jew' section about intentionality distinctions.",
+      "chosen_heading": "Rav Yehuda",
+      "current_heading": "Jew vs. Non-Jew",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Rav Yehuda",
+    "candidates": [
+      "Rav Yehuda",
+      "Reish vs. Yochanan",
+      "Innocent Speech",
+      "Chassa Case",
+      "Stays Married",
+      "Self-Marriage",
+      "No Divorce",
+      "Rav Nachman's Role",
+      "Lechatchila/Bedi'avad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about the nitkaven le-hatir vs. nitkaven le-ha-id distinction, culminating in the mesiach lefi tumo examples \u2014 exactly what candidate 1 ('Reish vs. Yochanan') describes, including the Reish Lakish/Rabbi Yochanan dispute and the subsequent mesiach lefi tumo cases that follow from it.",
+      "chosen_heading": "Reish vs. Yochanan",
+      "current_heading": "Rav Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Lechatchila/Bedi'avad",
+    "candidates": [
+      "Reish vs. Yochanan",
+      "Innocent Speech",
+      "Chassa Case",
+      "Stays Married",
+      "Self-Marriage",
+      "No Divorce",
+      "Rav Nachman's Role",
+      "Lechatchila/Bedi'avad"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stays Married",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Chassa drowning report, Rav Nachman's exclamation, Chassa's wife remarrying without sanction, and Rav Ashi's explicit lechatchila/bedi'avad conclusion \u2014 all of which candidate 3 ('Stays Married') discusses as the crystallization of the bedi'avad principle from the Chassa case.",
+      "second_heading": "Rav Nachman's Role",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the 'ika de-amri' version where Rav Nachman formally permitted remarriage based on Chassa's fame, and the gemara's rejection of that reasoning, which is precisely what candidate 6 ('Rav Nachman's Role') describes.",
+      "current_heading": "Lechatchila/Bedi'avad",
+      "moved": true
+    }
+  }
+]

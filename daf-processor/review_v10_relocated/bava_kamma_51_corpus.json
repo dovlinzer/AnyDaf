@@ -1,0 +1,492 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Mishnah Analysis",
+    "candidates": [
+      "Rav-Shmuel Intro",
+      "Mishnah Analysis",
+      "Hevel Levels",
+      "Student Q&A",
+      "Story Setup",
+      "Treifa Ruling",
+      "Moral Teaching",
+      "Challenge Analysis",
+      "Execution Site"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Hevel Levels",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara's resolution of the Mishnah challenge establishing that hevel has degrees (ein hevla le-mita ve-yesh hevla le-nezikin), which matches 'Hevel Levels' precisely.",
+      "second_heading": "Story Setup",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-6 begin an entirely new narrative case (the ox in the irrigation canal), Rav Nachman's treifa ruling, his moral observation, and then Rava's challenge \u2014 all of which the 'Story Setup' heading introduces as a new scenario.",
+      "current_heading": "Mishnah Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Execution Site",
+    "candidates": [
+      "Hevel Levels",
+      "Student Q&A",
+      "Story Setup",
+      "Treifa Ruling",
+      "Moral Teaching",
+      "Challenge Analysis",
+      "Execution Site",
+      "Height Necessity",
+      "Merciful Execution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection based on the stoning platform height, which is precisely what the 'Execution Site' section's prose describes and analyzes.",
+      "chosen_heading": "Execution Site",
+      "current_heading": "Execution Site",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Merciful Execution",
+    "candidates": [
+      "Height Necessity",
+      "Merciful Execution",
+      "Balance Required",
+      "Fence Obligation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Merciful Execution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the 've-ahavta le-re'acha kamocha' principle and the obligation to choose a merciful death, which is precisely what the 'Merciful Execution' prose discusses.",
+      "second_heading": "Balance Required",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why not make the platform even higher and answers 'mishum deminuvel' (disfigurement), which is exactly the counterpoint and balance described in the 'Balance Required' prose.",
+      "current_heading": "Merciful Execution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Fence Obligation",
+    "candidates": [
+      "Balance Required",
+      "Fence Obligation",
+      "Exterior vs. Interior",
+      "Interior Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: the baraita about falling 'from it' (item 1), the exemption/liability cases with ten tefachim (item 2), Rav Nachman's bayit definition response (item 3), and the exterior vs. interior challenge with the dug-out resolution (item 4) \u2014 all directly addressed by the 'Fence Obligation' prose, which explicitly discusses the ma'akeh baraita, the ten-tefach threshold, and the implicit logic that only a fatal fall triggers the obligation.",
+      "chosen_heading": "Fence Obligation",
+      "current_heading": "Fence Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Interior Measurement",
+    "candidates": [
+      "Exterior vs. Interior",
+      "Interior Measurement",
+      "Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's challenge about hollowing out the interior floor to achieve ten tefachim internally even when the exterior is less than ten tefachim \u2014 exactly the scenario described in the 'Interior Measurement' prose as 'de-havei migavai asara kegon de-chachak bitfei.'",
+      "chosen_heading": "Interior Measurement",
+      "current_heading": "Interior Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Dimensions",
+    "candidates": [
+      "Dimensions",
+      "Total Impact",
+      "Mishnah Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Nachman's calculation (belly height = 4, canal depth = 6) which is exactly what the 'Dimensions' prose describes, before the totaling conclusion discussed under 'Total Impact'.",
+      "chosen_heading": "Dimensions",
+      "current_heading": "Dimensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Mishnah Context",
+    "candidates": [
+      "Total Impact",
+      "Mishnah Context",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the challenge-and-resolution pair about the Mishnah's ten-handbreadth requirement versus Rav Nachman's six-handbreadth ruling, which is precisely what the 'Mishnah Context' prose describes \u2014 specifically the igandar le-bor (rolled into the pit) distinction that explains why the Mishnah requires ten tefachim of pit depth while a standing animal needs only six.",
+      "chosen_heading": "Mishnah Context",
+      "current_heading": "Mishnah Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Joint Ownership Q",
+      "Liability Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself describing the pit of two partners and the ruling that the second is liable, which matches exactly what the 'Mishnah Setup' prose introduces and discusses.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Mishnah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Liability Scenarios",
+    "candidates": [
+      "Joint Ownership Q",
+      "Liability Scenarios",
+      "Agency Principle",
+      "Baraita Setup",
+      "Rabbi Position",
+      "Rabbanan Position",
+      "Source Analysis",
+      "Redundancy Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's threshold question of how a pit can belong to two partners \u2014 exactly what 'Joint Ownership Q' describes \u2014 not the substantive liability scenarios discussed under heading 1.",
+      "chosen_heading": "Joint Ownership Q",
+      "current_heading": "Liability Scenarios",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Redundancy Debate",
+    "candidates": [
+      "Agency Principle",
+      "Baraita Setup",
+      "Rabbi Position",
+      "Rabbanan Position",
+      "Source Analysis",
+      "Redundancy Debate",
+      "Baraita Text",
+      "Hevel Increase"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 15,
+      "first_heading": "Redundancy Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-15 cover the 'Redundancy Debate' content: how to find a case of two partners' pit, Rabbi vs. Rabbans on kore achar kore, ish bor exclusions, and the ve-ha-mes yihyeh lo verse \u2014 all precisely matching the 'Redundancy Debate' prose.",
+      "second_heading": "Baraita Text",
+      "second_confidence": "high",
+      "second_reason": "Items 16-19 introduce the second baraita about one who digs ten tefachim and another who plasters/cements, which is exactly the 'Baraita Text' section's subject matter, followed by the hevel resolution matching 'Hevel Increase'.",
+      "current_heading": "Redundancy Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Hevel Increase",
+    "candidates": [
+      "Baraita Text",
+      "Hevel Increase",
+      "Alternative: Rabbi",
+      "Alternative: Width",
+      "Filling Question",
+      "Two Approaches",
+      "Teiku"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Alternative: Rabbi",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Zevid's alternative version (ika de-amri) that both baraitot follow Rabbi, with the hevel explanation \u2014 precisely what candidate 2 ('Alternative: Rabbi') describes.",
+      "second_heading": "Filling Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rava's new case about placing a stone at the pit's opening to bring it to ten handbreadths, which candidate 4 ('Filling Question') describes as Rava's new question emerging from the preceding framework about the second person's stone placement.",
+      "current_heading": "Hevel Increase",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Teiku",
+    "candidates": [
+      "Alternative: Rabbi",
+      "Alternative: Width",
+      "Filling Question",
+      "Two Approaches",
+      "Teiku",
+      "Water Ratio",
+      "Water Power",
+      "Nine Plus One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's dilemma about what happens when the second person reverses his act (filling in the tenth tefach or removing his stones), which is precisely what candidate 2 'Filling Question' describes in its prose.",
+      "chosen_heading": "Filling Question",
+      "current_heading": "Teiku",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Nine Plus One",
+    "candidates": [
+      "Water Ratio",
+      "Water Power",
+      "Nine Plus One",
+      "Seven Plus Three"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Water Ratio",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the ruling of Rabba bar bar \u1e24ana/Shmuel bar Marta (eight-tefach pit with two tefachim of water = liable), which is precisely what heading 'Water Ratio' describes as its content.",
+      "second_heading": "Nine Plus One",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the dilemma of a nine-tefach pit with one tefach of water, which is exactly the unresolved question described in the 'Nine Plus One' prose.",
+      "current_heading": "Nine Plus One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Seven Plus Three",
+    "candidates": [
+      "Seven Plus Three",
+      "Expansion Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the scenario described in heading 0 \u2014 a pit seven handbreadths deep with three handbreadths of water \u2014 which matches perfectly with the 'Seven Plus Three' prose.",
+      "chosen_heading": "Seven Plus Three",
+      "current_heading": "Seven Plus Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Expansion Effect",
+    "candidates": [
+      "Expansion Effect",
+      "Rav Ashi View",
+      "Cause of Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange described in candidate 0's prose \u2014 Rav Shizbi's question about widening the pit, Rabba's response about reduced hevel, and the rejoinder about bringing damage closer \u2014 which matches the current placement perfectly.",
+      "chosen_heading": "Expansion Effect",
+      "current_heading": "Expansion Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Cause of Death",
+    "candidates": [
+      "Rav Ashi View",
+      "Cause of Death",
+      "Location-Based",
+      "First Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both formulations of Rav Ashi's 'nachzi anan' resolution, which belongs under the 'Rav Ashi View' heading that introduces his practical approach, with the cause-of-death and location-based details being sub-content of that single statement rather than separate sections.",
+      "chosen_heading": "Rav Ashi View",
+      "current_heading": "Cause of Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "First Opinion",
+    "candidates": [
+      "Location-Based",
+      "First Opinion",
+      "Second Opinion",
+      "Mishnah Text",
+      "Exemption Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both opinions together as a single stated dispute (itmmar), and candidate 1's prose directly introduces this dispute about depth vs. width affecting hevel, making it the natural home for the full quoted text before it is broken into individual opinions in candidates 1 and 2.",
+      "chosen_heading": "First Opinion",
+      "current_heading": "First Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Exemption Q",
+    "candidates": [
+      "Second Opinion",
+      "Mishnah Text",
+      "Exemption Q",
+      "Opinion One",
+      "Opinion Two",
+      "Baraita Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's question about when the first person becomes exempt and presents both opinions, which maps precisely to the 'Exemption Q' section's prose about *ve-rishon eimat miptar* and the assumption of shifted liability.",
+      "chosen_heading": "Exemption Q",
+      "current_heading": "Exemption Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Baraita Setup",
+    "candidates": [
+      "Opinion One",
+      "Opinion Two",
+      "Baraita Setup",
+      "Stricter View",
+      "Breira Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita including both opinions, and the 'Baraita Setup' section's prose explicitly introduces and describes this tannaic debate with the same framing language, making it the natural home for the entire quoted text.",
+      "chosen_heading": "Baraita Setup",
+      "current_heading": "Baraita Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177,
+      178,
+      179,
+      180
+    ],
+    "current_heading": "Breira Question",
+    "candidates": [
+      "Stricter View",
+      "Breira Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items directly discuss the breira dispute between Rabbi Eliezer ben Yaakov and the Rabbis \u2014 exactly what the 'Breira Question' prose describes \u2014 including the cistern case and the analogous courtyard case from Nedarim that Ravina cites to reinforce the same yesh/ein breira divide.",
+      "chosen_heading": "Breira Question",
+      "current_heading": "Breira Question",
+      "moved": false
+    }
+  }
+]

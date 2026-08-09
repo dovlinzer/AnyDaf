@@ -1,0 +1,537 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Chatan Damim",
+    "candidates": [
+      "Daf Opening",
+      "Brit Milah Identity",
+      "Physical vs. Conceptual",
+      "Milah vs. Neder",
+      "Moshe's Delay",
+      "Chatan Damim",
+      "Rosh & Ran",
+      "Blood Symbolism",
+      "Destructive Angels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rabban Shimon ben Gamliel's teaching that Satan sought to kill the infant, not Moses \u2014 which is precisely what heading 4 ('Moshe's Delay') describes, including the phrase 'ella le-oto tinnok,' while the current placement under 'Chatan Damim' covers the proof-text analysis that follows this statement.",
+      "chosen_heading": "Moshe's Delay",
+      "current_heading": "Chatan Damim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Destructive Angels",
+    "candidates": [
+      "Rosh & Ran",
+      "Blood Symbolism",
+      "Destructive Angels",
+      "Tzipporah Acts",
+      "Divine Wrath",
+      "Cheima Destroyed?",
+      "Yetzer Hara",
+      "Avraham's Mitzvot",
+      "Avraham Complete"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Destructive Angels",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the angels swallowing Moshe and Tzipporah's response, which matches the 'Destructive Angels' prose about Af and Cheima swallowing Moshe.",
+      "second_heading": "Divine Wrath",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Moshe wishing to destroy the angels and the debate about Cheima, which matches the 'Divine Wrath' prose about Moshe wishing to eliminate the angels.",
+      "current_heading": "Destructive Angels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Avraham Complete",
+    "candidates": [
+      "Tzipporah Acts",
+      "Divine Wrath",
+      "Cheima Destroyed?",
+      "Yetzer Hara",
+      "Avraham's Mitzvot",
+      "Avraham Complete",
+      "Equal to All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The baraita about Rabbi Yehuda HaNasi declaring the greatness of circumcision because Avraham was not called 'tamim' until circumcision is the exact passage discussed in candidate 4's prose ('Avraham's Mitzvot'), which quotes and analyzes it in detail, while candidate 5 ('Avraham Complete') also discusses it but is a duplicate/extended version \u2014 candidate 4 is the cleaner, more direct match as the primary home for this baraita.",
+      "chosen_heading": "Avraham's Mitzvot",
+      "current_heading": "Avraham Complete",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Equal to All",
+    "candidates": [
+      "Avraham Complete",
+      "Equal to All",
+      "Sustains World"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'equal to all mitzvot' statement and the 'heaven and earth' statement together, and the current heading 'Equal to All' with its prose directly discusses the first davar acher, while the second davar acher (about heaven and earth) is covered under heading 2 \u2014 however, since the passage is a single indivisible unit containing both statements, it belongs under the heading whose prose most directly introduces this combined passage, which is the current placement at index 1 where the essay author discusses the equal-to-all-mitzvot formulation first, consistent with the passage's order.",
+      "chosen_heading": "Equal to All",
+      "current_heading": "Equal to All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Sustains World",
+    "candidates": [
+      "Sustains World",
+      "vs. Torah",
+      "Elitism Debate",
+      "Avraham Trembles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's view that Torah (not brit milah) sustains heaven and earth, which is exactly what the 'vs. Torah' section's prose describes \u2014 the disagreement between the brit milah and Torah readings of the same verse.",
+      "chosen_heading": "vs. Torah",
+      "current_heading": "Sustains World",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Avraham Trembles",
+    "candidates": [
+      "vs. Torah",
+      "Elitism Debate",
+      "Avraham Trembles",
+      "Self-Doubt",
+      "God Clarifies",
+      "Avraham's Mazal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the full text of the Rav Yehuda/Rav teaching about Abraham's trembling when commanded to be wholehearted, which is precisely what the 'Avraham Trembles' section introduces.",
+      "chosen_heading": "Avraham Trembles",
+      "current_heading": "Avraham Trembles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Avraham's Mazal",
+    "candidates": [
+      "Self-Doubt",
+      "God Clarifies",
+      "Avraham's Mazal",
+      "No Mazal Israel",
+      "Name Change",
+      "Transcendence",
+      "Reciprocal Wholehearted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and expounds 'vayotze oto ha-chutza' with Abraham's statement about his mazal and God's response, which is precisely what the 'Avraham's Mazal' section's prose discusses.",
+      "chosen_heading": "Avraham's Mazal",
+      "current_heading": "Avraham's Mazal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Reciprocal Wholehearted",
+    "candidates": [
+      "No Mazal Israel",
+      "Name Change",
+      "Transcendence",
+      "Reciprocal Wholehearted",
+      "Success Follows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yitz\u1e25ak's statement about wholeheartedness (tamim) and God's reciprocal treatment, which is exactly what the 'Reciprocal Wholehearted' section's prose discusses.",
+      "chosen_heading": "Reciprocal Wholehearted",
+      "current_heading": "Reciprocal Wholehearted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Success Follows",
+    "candidates": [
+      "Success Follows",
+      "Physical to Internal",
+      "Divination Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Hoshaya's teaching that acting wholeheartedly leads to success, which is precisely what the 'Success Follows' section's prose describes and discusses.",
+      "chosen_heading": "Success Follows",
+      "current_heading": "Success Follows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Divination Rejected",
+    "candidates": [
+      "Physical to Internal",
+      "Divination Rejected",
+      "Pure Faith Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi's teaching that divination injures the one who practices it, the proof text 'ki lo nachash be-Yaakov,' and the mida ke-neged mida principle \u2014 all of which are precisely what the 'Divination Rejected' prose section discusses.",
+      "chosen_heading": "Divination Rejected",
+      "current_heading": "Divination Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Pure Faith Reward",
+    "candidates": [
+      "Pure Faith Reward",
+      "Egypt Slavery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the reward for not practicing divination (being brought closer to God than the angels), which is exactly what the 'Pure Faith Reward' section discusses.",
+      "chosen_heading": "Pure Faith Reward",
+      "current_heading": "Pure Faith Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Egypt Slavery",
+    "candidates": [
+      "Egypt Slavery",
+      "Drafting Issue",
+      "Exceeded Attributes",
+      "Faith vs. Demand",
+      "Separated People",
+      "Melech Sedom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full quote about Abraham drafting talmidei chachamim (angarya), which is precisely what the 'Drafting Issue' section's prose elaborates upon, including the same verse and the same explanation about chanichav as Torah scholars.",
+      "chosen_heading": "Drafting Issue",
+      "current_heading": "Egypt Slavery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Melech Sedom",
+    "candidates": [
+      "Drafting Issue",
+      "Exceeded Attributes",
+      "Faith vs. Demand",
+      "Separated People",
+      "Melech Sedom",
+      "Geirus Today",
+      "Eliezer = 318"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Separated People",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers Shmuel's 'exceeded God's attributes' explanation and Rabbi Yochanan's 'separated people from Shechina' explanation, both of which are discussed under headings 1-3, but the pairing of both opinions together fits best under 'Separated People' (heading 3) which is the culminating point of that thematic sequence \u2014 however, item 1 actually contains both the Shmuel and Rabbi Yochanan opinions, and the prose under heading 3 ('Separated People') directly describes Rabbi Yochanan's view while heading 1 ('Exceeded Attributes') covers Shmuel's; since both opinions appear together in item 1 as a single Gemara unit, the best single heading is 3 ('Separated People') as that is where the discussion culminates.",
+      "second_heading": "Eliezer = 318",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the interpretation of 'vayyarek et chanichav' with Rav and Shmuel's dispute about Torah vs. gold, which corresponds to heading 6 ('Eliezer = 318') whose prose discusses the same episode of Avraham arming his household, making it a structural shift to a new sub-topic about the armed household rather than a continuation of the punishment discussion.",
+      "current_heading": "Melech Sedom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Eliezer = 318",
+    "candidates": [
+      "Geirus Today",
+      "Eliezer = 318",
+      "Age Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the 318/Eliezer gematria teaching, which is precisely what the 'Eliezer = 318' section's prose describes.",
+      "chosen_heading": "Eliezer = 318",
+      "current_heading": "Eliezer = 318",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Age Three",
+    "candidates": [
+      "Age Three",
+      "Satan = 364",
+      "248 Limbs",
+      "Five Control Limbs",
+      "Control Drives",
+      "Siege Parable",
+      "Interpretation",
+      "Sins Traps",
+      "Yetzer Hatov"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Age Three",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 belong under 'Age Three' as they present Rabbi Ami bar Abba's teaching about Abraham recognizing his Creator at age three, which is exactly what that section's prose discusses.",
+      "second_heading": "Satan = 364",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 begin with the Satan=364 gematria and then move to the Abram/Abraham name change and 248 limbs, which belong under 'Satan = 364' starting a new chain of Rami bar Abba teachings that continues into the 248 limbs section.",
+      "current_heading": "Age Three",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Yetzer Hatov",
+    "candidates": [
+      "Satan = 364",
+      "248 Limbs",
+      "Five Control Limbs",
+      "Control Drives",
+      "Siege Parable",
+      "Interpretation",
+      "Sins Traps",
+      "Yetzer Hatov",
+      "Teshuvah Future",
+      "Forgotten Helper",
+      "Wisdom Strength"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute the full exposition of the Kohelet parable (city=body, limbs, evil inclination, sins, good inclination, repentance, forgotten poor man), which as a complete unit belongs under the 'Siege Parable' heading that introduces exactly this Rami bar Abba derasha on ir ketana.",
+      "chosen_heading": "Siege Parable",
+      "current_heading": "Yetzer Hatov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Wisdom Strength",
+    "candidates": [
+      "Teshuvah Future",
+      "Forgotten Helper",
+      "Wisdom Strength",
+      "Ten Temptations",
+      "Shem Kohen",
+      "Malki-Tzedek",
+      "Universalism",
+      "Blessing Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and interprets 'Wisdom is a stronghold to the wise man more than ten rulers,' identifying wisdom as repentance and good deeds and the ten rulers as the bodily organs, which is precisely what the 'Wisdom Strength' section's prose discusses.",
+      "chosen_heading": "Wisdom Strength",
+      "current_heading": "Wisdom Strength",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Blessing Order",
+    "candidates": [
+      "Ten Temptations",
+      "Shem Kohen",
+      "Malki-Tzedek",
+      "Universalism",
+      "Blessing Order",
+      "Avraham Correct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Zechariah's statement about God's original intention to bring the priesthood from Shem, which directly matches the 'Shem Kohen' section's prose about God intending to bring the kehunah from Shem's descendants.",
+      "chosen_heading": "Shem Kohen",
+      "current_heading": "Blessing Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157
+    ],
+    "current_heading": "Avraham Correct",
+    "candidates": [
+      "Blessing Order",
+      "Avraham Correct",
+      "Words Matter",
+      "Words Final",
+      "Scope Focus",
+      "Pleasure vs. Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together explain the meaning of 'al dibrati Malki-Tzedek' (his improper words cost his line the priesthood) and conclude that 'he was a priest but his descendants are not priests' \u2014 exactly what candidate 2 ('Words Matter') discusses in its prose.",
+      "chosen_heading": "Words Matter",
+      "current_heading": "Avraham Correct",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Pleasure vs. Food",
+    "candidates": [
+      "Words Matter",
+      "Words Final",
+      "Scope Focus",
+      "Pleasure vs. Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The '\u05d4\u05d3\u05e8\u05df' formula is a closing statement recited at the completion of a tractate or chapter, and it belongs under 'Words Final' which is explicitly described as the conclusion of the extended aggadata of these three perakim, making it the natural home for this closing liturgical formula.",
+      "chosen_heading": "Words Final",
+      "current_heading": "Pleasure vs. Food",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Pleasure vs. Food",
+    "candidates": [
+      "Pleasure vs. Food",
+      "Exceptions",
+      "Money & Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna text enumerates the specific differences (setting foot on property and non-food utensils), which matches Candidate 1's prose about 'Exceptions' (drisat ha-regel and keilim she-ein osim bahem ochel nefesh), not Candidate 0's prose which discusses the counterintuitive similarity between the two prohibitions.",
+      "chosen_heading": "Exceptions",
+      "current_heading": "Pleasure vs. Food",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      174,
+      175
+    ],
+    "current_heading": "Money & Food",
+    "candidates": [
+      "Exceptions",
+      "Money & Food",
+      "No Charge Items",
+      "Vessels vs. Clothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Item 1 is the Mishna listing forbidden food-preparation vessels (sieve, millstone, oven) versus permitted non-food items (garment, ring, cloak), and Item 2 is the Gemara identifying Rabbi Eliezer as the tanna \u2014 both directly match the 'Vessels vs. Clothing' prose which discusses exactly this distinction between food-related vessels and non-food clothing items.",
+      "chosen_heading": "Vessels vs. Clothing",
+      "current_heading": "Money & Food",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      180
+    ],
+    "current_heading": "Vessels vs. Clothing",
+    "candidates": [
+      "No Charge Items",
+      "Vessels vs. Clothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about one forbidden from another's food and lending utensils directly introduces the topic of vessels related to food preparation, which is exactly what the 'Vessels vs. Clothing' section discusses.",
+      "chosen_heading": "Vessels vs. Clothing",
+      "current_heading": "Vessels vs. Clothing",
+      "moved": false
+    }
+  }
+]

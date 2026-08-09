@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Direct Cases Resolved",
+    "candidates": [
+      "Kevodo Chiddush",
+      "Braita Contradiction",
+      "Direct Cases Resolved",
+      "Hybrid Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 7 items correspond precisely to the content described in the 'Direct Cases Resolved' prose: items 1-2 present the lo kashya mizbe'ach/bedek ha-bayit resolution, items 3-7 present the challenge about the cow's head spreading sanctity throughout, the baraita about 'the leg of this animal is an olah,' Rabbi Meir's position, Rabbi Yehuda/Yosei/Shimon's position, and the synthesis about vital organs \u2014 all of which are explicitly described in that section's prose.",
+      "chosen_heading": "Direct Cases Resolved",
+      "current_heading": "Direct Cases Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Hybrid Category",
+    "candidates": [
+      "Hybrid Category",
+      "Blemished Animal Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's resolution distinguishing kedushat ha-guf from kedushat damim, which is precisely what heading 0's prose describes and analyzes in detail.",
+      "chosen_heading": "Hybrid Category",
+      "current_heading": "Hybrid Category",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Blemished Animal Test",
+    "candidates": [
+      "Blemished Animal Test",
+      "Unresolved Hybrids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of Abaye-Rava challenges and responses about whether consecrating a limb or blemished animal for its value upgrades to inherent sanctity, which is precisely what the 'Blemished Animal Test' prose describes.",
+      "chosen_heading": "Blemished Animal Test",
+      "current_heading": "Blemished Animal Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Unresolved Hybrids",
+    "candidates": [
+      "Unresolved Hybrids",
+      "Less Than Month Old"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the unresolved hybrid dilemmas (Rabba's 'value of my head to the altar,' Rava's 'my valuation to the altar,' and Rav Ashi's 'ancestral field to the altar') that the 'Unresolved Hybrids' prose section explicitly describes in detail.",
+      "chosen_heading": "Unresolved Hybrids",
+      "current_heading": "Unresolved Hybrids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Less Than Month Old",
+    "candidates": [
+      "Less Than Month Old",
+      "Erech Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage directly states the rule that an infant less than one month old is 'nidar but not ne'erach,' which is precisely what the prose under heading 0 describes and introduces.",
+      "chosen_heading": "Less Than Month Old",
+      "current_heading": "Less Than Month Old",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Erech Reinterpretation",
+    "candidates": [
+      "Erech Reinterpretation",
+      "Vessel Erech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita dispute between Rabbi Meir and the Rabbis about valuing an infant under one month, and the gemara's explanation of their reasoning (ein adam motzi devarav le-vatala), which is precisely what the 'Erech Reinterpretation' prose describes in detail.",
+      "chosen_heading": "Erech Reinterpretation",
+      "current_heading": "Erech Reinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Vessel Erech",
+    "candidates": [
+      "Vessel Erech",
+      "Ani's Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the 'erech kli' (vessel valuation) case attributed to Rav Giddel/Rav, asking whose opinion it follows and why it was necessary to state it \u2014 exactly the content described in the 'Vessel Erech' prose.",
+      "chosen_heading": "Vessel Erech",
+      "current_heading": "Vessel Erech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Ani's Animal",
+    "candidates": [
+      "Ani's Animal",
+      "Alai Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the case of consecrating another's animal and why Rav needed to state it separately from the vessel ruling \u2014 exactly the content described in the 'Ani's Animal' prose.",
+      "chosen_heading": "Ani's Animal",
+      "current_heading": "Ani's Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Alai Requirement",
+    "candidates": [
+      "Alai Requirement",
+      "Mishnah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's qualification about the 'alai' requirement, which is precisely what the prose under heading 0 ('Alai Requirement') discusses.",
+      "chosen_heading": "Alai Requirement",
+      "current_heading": "Alai Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Mishnah Dispute",
+    "candidates": [
+      "Mishnah Dispute",
+      "Agreement Zone",
+      "Meir Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Mishna dispute between Rabbi Meir and Rabbi Yehuda, the baraita deriving their positions from 'children of Israel' vs. 'ish,' and Rabbi Meir's explanation of why he favors ne'erach over maarich \u2014 directly match the 'Mishnah Dispute' prose which describes exactly this textual tension between the two signals and Rabbi Meir's and Rabbi Yehuda's competing rulings.",
+      "chosen_heading": "Mishnah Dispute",
+      "current_heading": "Mishnah Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Meir Analogy",
+    "candidates": [
+      "Agreement Zone",
+      "Meir Analogy",
+      "Yehuda Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rabbi Meir's reasoning \u2014 that the Torah included more people as objects of valuation (ne'erachim) than as subjects (maarichin), citing the deaf-mute, imbecile, and minor as examples \u2014 which is precisely what the 'Meir Analogy' prose describes.",
+      "chosen_heading": "Meir Analogy",
+      "current_heading": "Meir Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Yehuda Analogy",
+    "candidates": [
+      "Yehuda Analogy",
+      "Rava Evaluation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yehuda's position and his reasoning using the tumtum/androgynous analogy, which is precisely what the 'Yehuda Analogy' prose section describes.",
+      "chosen_heading": "Yehuda Analogy",
+      "current_heading": "Yehuda Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rava Evaluation",
+    "candidates": [
+      "Rava Evaluation",
+      "Ezra-Nehemiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement evaluating Rabbi Meir's halakha vs. reasoning and Rabbi Yehuda's reasoning vs. halakha, which is precisely what the 'Rava Evaluation' section prose discusses.",
+      "chosen_heading": "Rava Evaluation",
+      "current_heading": "Rava Evaluation",
+      "moved": false
+    }
+  }
+]

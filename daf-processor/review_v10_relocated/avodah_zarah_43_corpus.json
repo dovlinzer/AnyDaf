@@ -1,0 +1,431 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Mishnah Review",
+      "Rav Sheshet's Chart",
+      "Three Categories",
+      "Spikes Between Joints"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 10 items are the Gemara's analysis of Rav Sheshet's three-category chart \u2014 probing whether each clause refers to oseh or motze, then giving Abaye's and Rava's resolutions \u2014 which is precisely what the 'Three Categories' prose describes in detail.",
+      "chosen_heading": "Three Categories",
+      "current_heading": "Three Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Spikes Between Joints",
+    "candidates": [
+      "Spikes Between Joints",
+      "Ring Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita defining the form of a dragon via scales/spikes between joints, Rabbi Asi's gesture, and Rabbi \u1e24ama's halakhic ruling \u2014 exactly what the prose under 'Spikes Between Joints' describes.",
+      "chosen_heading": "Spikes Between Joints",
+      "current_heading": "Spikes Between Joints",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ring Story",
+    "candidates": [
+      "Ring Story",
+      "Three Lessons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Ring Story narrative itself, which directly matches the prose in candidate 0 that describes and analyzes this exact incident in detail.",
+      "chosen_heading": "Ring Story",
+      "current_heading": "Ring Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Three Lessons",
+    "candidates": [
+      "Three Lessons",
+      "Owner's Despair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly enumerates the three halakhic lessons derived from the incident, exactly matching the 'Three Lessons' section prose which discusses shma mina tlat and all three derivations.",
+      "chosen_heading": "Three Lessons",
+      "current_heading": "Three Lessons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Owner's Despair",
+    "candidates": [
+      "Owner's Despair",
+      "Yeush Split",
+      "Future Worship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi \u1e24anina's challenge based on the mishnah about owner's despair (yeush) in public areas \u2014 exactly what heading 0's prose describes as the challenge being raised against Rabbi Elazar HaKappar's procedure.",
+      "chosen_heading": "Owner's Despair",
+      "current_heading": "Owner's Despair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Future Worship",
+    "candidates": [
+      "Yeush Split",
+      "Future Worship",
+      "Moon Charts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage details Abaye's reasoning about future worship scenarios (gentile finds it \u2192 worships it; Jew finds it \u2192 sells to gentile who worships it), which matches exactly the 'Future Worship' section's prose about the owner's expectation that the idol will continue to be worshipped.",
+      "chosen_heading": "Future Worship",
+      "current_heading": "Future Worship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Moon Charts",
+    "candidates": [
+      "Moon Charts",
+      "Lo Ta'asun Iti",
+      "High & Low"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Gamliel's moon diagrams used for witness identification, which directly matches the 'Moon Charts' section prose that introduces and discusses this exact mishna.",
+      "chosen_heading": "Moon Charts",
+      "current_heading": "Moon Charts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "High & Low",
+    "candidates": [
+      "Lo Ta'asun Iti",
+      "High & Low",
+      "Lower Servants Only",
+      "Chariot Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain: the question about whether figures are permitted (citing 'lo taasun iti'), Abaye's answer limiting the prohibition to reproducible attendants, and the baraita about the menorah (with Rabbi Yosei bar Yehuda and the Hasmonean example) as proof \u2014 this entire unit belongs under heading 0, which describes exactly this sequence: the lo taasun iti prohibition and Abaye's attempts to define its scope to permit Rabban Gamliel's moon charts.",
+      "chosen_heading": "Lo Ta'asun Iti",
+      "current_heading": "High & Low",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Chariot Challenge",
+    "candidates": [
+      "Lower Servants Only",
+      "Chariot Challenge",
+      "God's Image",
+      "Decalogue Forbids"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Decalogue Forbids",
+    "candidates": [
+      "God's Image",
+      "Decalogue Forbids",
+      "Worship Not Make"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita challenge about celestial bodies being forbidden, which the prose of 'Decalogue Forbids' explicitly describes as the challenge being raised \u2014 that the verse includes sun, moon, stars, constellations, and ministering angels, suggesting a blanket prohibition.",
+      "chosen_heading": "Decalogue Forbids",
+      "current_heading": "Decalogue Forbids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Worship Not Make",
+    "candidates": [
+      "Worship Not Make",
+      "Even Tiny Worms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer distinguishing worship from making, which is exactly what heading 0 ('Worship Not Make') discusses.",
+      "chosen_heading": "Worship Not Make",
+      "current_heading": "Worship Not Make",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Even Tiny Worms",
+    "candidates": [
+      "Even Tiny Worms",
+      "Making Allowed?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition against worshipping even a tiny worm and the derivation from 'that is in the earth' and 'beneath,' which matches precisely the prose of heading 0.",
+      "chosen_heading": "Even Tiny Worms",
+      "current_heading": "Even Tiny Worms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Making Allowed?",
+    "candidates": [
+      "Making Allowed?",
+      "Others Made It"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of whether mere fashioning of celestial figures is permitted, citing the baraita on 'lo taasun iti' \u2014 exactly the content described in the 'Making Allowed?' prose, which frames this as the pivotal question about who permitted Rabban Gamliel to make or own moon images.",
+      "chosen_heading": "Making Allowed?",
+      "current_heading": "Making Allowed?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Others Made It",
+    "candidates": [
+      "Others Made It",
+      "Disfigure Idol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Rabban Gamliel's case is different because others made the figures for him, which is precisely what the 'Others Made It' section's prose discusses.",
+      "chosen_heading": "Others Made It",
+      "current_heading": "Others Made It",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Disfigure Idol",
+    "candidates": [
+      "Disfigure Idol",
+      "Public Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Yehuda's ring, the baraita about protruding vs. sunken seals, and the synagogue of Shaf v'Yativ / rabbim shani answer \u2014 are explicitly covered together in the 'Disfigure Idol' prose, which walks through exactly this sequence of question, baraita, objection, and resolution.",
+      "chosen_heading": "Disfigure Idol",
+      "current_heading": "Disfigure Idol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Public Context",
+    "candidates": [
+      "Public Context",
+      "Incomplete Figures",
+      "Education Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Nasi/public-context answer and the 'pieces' alternative, but the primary content matches the 'Public Context' section's prose about Rabban Gamliel being Nasi and many people being found with him, while the 'Incomplete Figures' section is a separate heading that would better suit a passage focused solely on that alternative answer.",
+      "chosen_heading": "Public Context",
+      "current_heading": "Public Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Education Exemption",
+    "candidates": [
+      "Incomplete Figures",
+      "Education Exemption",
+      "Shimon's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the 'lehilamed shani' principle derived from Devarim 18:9, which is precisely what the 'Education Exemption' section's prose describes in detail.",
+      "chosen_heading": "Education Exemption",
+      "current_heading": "Education Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Shimon's Rule",
+    "candidates": [
+      "Shimon's Rule",
+      "Rav: Above/Below"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara asking 'which vessels are respectable and which are disgraceful?' \u2014 this is the question arising from Rabban Shimon ben Gamliel's rule itself, and belongs under 'Shimon's Rule' where that distinction is introduced, before Rav's specific answer about above/below the water line.",
+      "chosen_heading": "Shimon's Rule",
+      "current_heading": "Shimon's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Rav: Above/Below",
+    "candidates": [
+      "Rav: Above/Below",
+      "Shmuel: Vessel Type",
+      "Item Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav's positional criterion (above/below water) and Shmuel's response about jewelry types, but since the current heading 'Rav: Above/Below' covers Rav's statement and the passage begins with Rav's view, and the passage is a single unified Talmudic exchange, the current placement captures the primary content where this dispute is introduced \u2014 Rav's position is stated first and is the anchor of the passage.",
+      "chosen_heading": "Rav: Above/Below",
+      "current_heading": "Rav: Above/Below",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Item Examples",
+    "candidates": [
+      "Shmuel: Vessel Type",
+      "Item Examples",
+      "Grind & Scatter",
+      "Mixing Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Shmuel's view with specific examples of honored and disgraced items, which matches exactly what the 'Item Examples' section prose describes.",
+      "chosen_heading": "Item Examples",
+      "current_heading": "Item Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Mixing Problem",
+    "candidates": [
+      "Grind & Scatter",
+      "Mixing Problem",
+      "Nothing Clings",
+      "Golden Calf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage presents Rabbi Yose's ruling to grind and scatter/cast idols \u2014 the core content of heading 0 'Grind & Scatter' \u2014 while the current placement under 'Mixing Problem' belongs to the gemara's subsequent critique of that ruling, not the mishna itself.",
+      "chosen_heading": "Grind & Scatter",
+      "current_heading": "Mixing Problem",
+      "moved": true
+    }
+  }
+]

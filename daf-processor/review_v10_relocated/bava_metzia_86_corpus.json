@@ -1,0 +1,494 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Caves & Lament",
+    "candidates": [
+      "Caves & Lament",
+      "Heavenly Voice",
+      "R. Chanina & R. Chiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Reish Lakish marking caves and becoming distressed at Rabbi \u1e24iyya's cave, which matches the 'Caves & Lament' prose exactly, while the Divine Voice response belongs under 'Heavenly Voice' \u2014 but since there is only one item and it must go under one heading, the current placement under 'Caves & Lament' is correct as the prose there explicitly covers this entire scene including the distress and the question posed.",
+      "chosen_heading": "Caves & Lament",
+      "current_heading": "Caves & Lament",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "R. Chanina & R. Chiya",
+    "candidates": [
+      "Heavenly Voice",
+      "R. Chanina & R. Chiya",
+      "Flax to Scrolls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly depicts the debate between Rabbi \u1e24anina and Rabbi \u1e24iyya, which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "R. Chanina & R. Chiya",
+      "current_heading": "R. Chanina & R. Chiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Flax to Scrolls",
+    "candidates": [
+      "Flax to Scrolls",
+      "Teaching Model",
+      "Learner & Teacher",
+      "Affirmation & Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers the entire sequence from flax-planting through scroll-writing to teaching children, spanning both heading 0 and headings 1-2, but since it is a single unified quote and heading 0's prose explicitly covers the full arc including the teaching elements, the current placement is acceptable, though heading 1 or 2 could also claim parts of it.",
+      "chosen_heading": "Flax to Scrolls",
+      "current_heading": "Flax to Scrolls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Affirmation & Comparison",
+    "candidates": [
+      "Teaching Model",
+      "Learner & Teacher",
+      "Affirmation & Comparison",
+      "Dream Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the statement about Rabbi Chiyya's great deeds and the exchange about comparative greatness, which is precisely what the 'Affirmation & Comparison' section's prose discusses.",
+      "chosen_heading": "Affirmation & Comparison",
+      "current_heading": "Affirmation & Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Dream Hierarchy",
+    "candidates": [
+      "Dream Hierarchy",
+      "Bar Nafcha Issue",
+      "Chariot Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Zeira's dream vision and the full hierarchy ending with Rabbi Chiya, which matches heading 0's prose exactly, while heading 1 covers only the 'bar nafcha' follow-up question that is part of the same passage but the overall content best anchors to the dream hierarchy section.",
+      "chosen_heading": "Dream Hierarchy",
+      "current_heading": "Dream Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Chariot Fire",
+    "candidates": [
+      "Bar Nafcha Issue",
+      "Chariot Fire",
+      "Cave Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Chariot Fire' section's prose discusses: Rav \u1e24aviva bar Surmakei's account of seeing a sage whose eyes were scorched after viewing Rabbi \u1e24iyya's chariot ascending without angelic escort, which is the specific content of candidate 1's prose.",
+      "chosen_heading": "Chariot Fire",
+      "current_heading": "Chariot Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Cave Healing",
+    "candidates": [
+      "Cave Healing",
+      "Eliyahu Delayed",
+      "Mashiach Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the blinding, prostration at Rabbi \u1e24iyya's cave, and healing \u2014 exactly what the 'Cave Healing' prose section discusses.",
+      "chosen_heading": "Cave Healing",
+      "current_heading": "Cave Healing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Mashiach Concern",
+    "candidates": [
+      "Eliyahu Delayed",
+      "Mashiach Concern",
+      "Fast for Mashiach",
+      "Eliyahu's Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Eliyahu's delay and his explanation of waking each Patriarch sequentially, which matches heading 0 'Eliyahu Delayed' exactly \u2014 the Mashiach concern (the reason he can't wake them simultaneously) is the concluding line of this passage but the primary subject is the delay and its cause.",
+      "chosen_heading": "Eliyahu Delayed",
+      "current_heading": "Mashiach Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Eliyahu's Fire",
+    "candidates": [
+      "Fast for Mashiach",
+      "Eliyahu's Fire",
+      "Doctor Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the exact sequence covered in heading 1's prose: Rabbi \u1e24iyya's prayer causing wind and rain, the heavenly reaction to the near-utterance of 'mechayeh meisim,' Elijah's fiery lashes, and his appearance as a bear of fire scattering the congregation.",
+      "chosen_heading": "Eliyahu's Fire",
+      "current_heading": "Eliyahu's Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Doctor Role",
+    "candidates": [
+      "Doctor Role",
+      "Book Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel as Rebbe's physician treating his eye condition, which directly matches the 'Doctor Role' prose discussing exactly this medical encounter.",
+      "chosen_heading": "Doctor Role",
+      "current_heading": "Doctor Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Book Vision",
+    "candidates": [
+      "Book Vision",
+      "Wise in Monies",
+      "End of Tannaim",
+      "Rebbe's Organizing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Book Vision",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the Shmuel Yar\u1e25ina'a ordination story and belongs under 'Book Vision' where the prose explicitly discusses Rebbe's failed attempts to ordain Shmuel and the heavenly book of Adam HaRishon.",
+      "second_heading": "End of Tannaim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the passage about Rebbi/Rabbi Natan as end of Mishnah and Rav Ashi/Ravina as end of hora'ah, which matches 'End of Tannaim' whose prose directly quotes and discusses exactly these statements.",
+      "current_heading": "Book Vision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rebbe's Organizing",
+    "candidates": [
+      "Wise in Monies",
+      "End of Tannaim",
+      "Rebbe's Organizing",
+      "Rav Ashi & Ravina",
+      "Stam Authorship",
+      "Tax Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mnemonic verse connects 'mikdashei' to Rav Ashi and 'avina' to Ravina, directly supporting the prose in section 3 which discusses how Rav Ashi and Ravina organized the Gemara \u2014 this mnemonic serves as a memory device for that specific claim about their role.",
+      "chosen_heading": "Rav Ashi & Ravina",
+      "current_heading": "Rebbe's Organizing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Tax Issue",
+    "candidates": [
+      "Rav Ashi & Ravina",
+      "Stam Authorship",
+      "Tax Issue",
+      "Officer Healed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the accusation against Rabbah bar Nachmani about exempting twelve thousand Jews from the king's head tax, which directly matches the 'Tax Issue' section prose discussing exactly this accusation and the context of Yarchei Kalla.",
+      "chosen_heading": "Tax Issue",
+      "current_heading": "Tax Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Officer Healed",
+    "candidates": [
+      "Officer Healed",
+      "Multiple Escapes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbah's flight through multiple locations and the officer's arrival at the inn where his face was turned backward \u2014 exactly the events described in the 'Officer Healed' prose section, before the healing and subsequent dialogue covered under 'Multiple Escapes'.",
+      "chosen_heading": "Officer Healed",
+      "current_heading": "Officer Healed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Multiple Escapes",
+    "candidates": [
+      "Multiple Escapes",
+      "Purity Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the messenger being healed, discovering Rabbah's location, and warning him about potential torture \u2014 content that directly matches the 'Multiple Escapes' prose discussion of the officer's healing, his recognition of Rabbah's presence, and his candid warning about torture versus death.",
+      "chosen_heading": "Multiple Escapes",
+      "current_heading": "Multiple Escapes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Purity Debate",
+    "candidates": [
+      "Purity Debate",
+      "Heavenly Call",
+      "Death & Tahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rabba bar Na\u1e25mani fleeing to the swamp and the heavenly academy's debate over the baheret/se'ar lavan sequence and the safek case, which is precisely what the 'Purity Debate' prose discusses.",
+      "chosen_heading": "Purity Debate",
+      "current_heading": "Purity Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Death & Tahor",
+    "candidates": [
+      "Heavenly Call",
+      "Death & Tahor",
+      "Burial Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the heavenly messenger being sent and the Angel of Death being unable to approach Rabbah due to his continuous learning, which directly corresponds to heading 0's prose about the divine King dispatching a heavenly messenger \u2014 this is the transition moment between the heavenly call and the actual death, and heading 0's prose explicitly sets up this scene, while heading 1's prose already summarizes this same passage in its own words as background before moving to the soul's departure and tahor declaration.",
+      "chosen_heading": "Heavenly Call",
+      "current_heading": "Death & Tahor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Burial Problem",
+    "candidates": [
+      "Death & Tahor",
+      "Burial Problem",
+      "Wind Toss"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Death & Tahor",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rabbah's dying word 'tahor,' the bat kol praising his purity, and the note falling from heaven \u2014 all discussed in the 'Death & Tahor' prose which explicitly mentions the bat kol and the tahor declaration.",
+      "second_heading": "Burial Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the three/seven days of lamentation and the heavenly notes commanding continuation and then dismissal \u2014 exactly what the 'Burial Problem' prose describes with its mention of the nidui proclamation and 'go home in peace.'",
+      "current_heading": "Burial Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Wind Toss",
+    "candidates": [
+      "Wind Toss",
+      "Arab's Prayer",
+      "Custom Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Arab's Prayer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the Arab's prayer and the storm subsiding, which is exactly what heading 'Arab's Prayer' (index 1) discusses in its prose.",
+      "second_heading": "Wind Toss",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 about Rabbi Shimon ben \u1e24alafta and the wind is a completely new anecdote unrelated to Rabbah's death, and 'Wind Toss' (index 0) is the closest available heading though its prose focuses on Rabbah's death storm rather than this story.",
+      "current_heading": "Wind Toss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Custom Principle",
+    "candidates": [
+      "Arab's Prayer",
+      "Custom Principle",
+      "Matya Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'hakol k'minhag hamedina' principle and what 'hakol' includes, matching precisely the prose of the 'Custom Principle' section where it currently sits.",
+      "chosen_heading": "Custom Principle",
+      "current_heading": "Custom Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Matya Story",
+    "candidates": [
+      "Matya Story",
+      "Solomon's Feast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Gemara discussion of the Rabbi Yo\u1e25anan ben Matya incident \u2014 the chasuri m'chasra resolution and the full story \u2014 which is precisely what the 'Matya Story' prose describes.",
+      "chosen_heading": "Matya Story",
+      "current_heading": "Matya Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Solomon's Feast",
+    "candidates": [
+      "Solomon's Feast",
+      "Bread & Meat Uses",
+      "Thousand Wives",
+      "Abraham's Angels",
+      "Three Calves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks whether Abraham's feast surpasses Solomon's and then quotes the verse about Solomon's daily provisions followed by Guryon ben Asteyon's and Rabbi Yitzchak's reinterpretations \u2014 this is precisely the content described in heading 0 ('Solomon's Feast'), which discusses the verse recording Solomon's daily provisions, while heading 1 ('Bread & Meat Uses') describes the reinterpretations that follow as a separate analytical step.",
+      "chosen_heading": "Solomon's Feast",
+      "current_heading": "Solomon's Feast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Three Calves",
+    "candidates": [
+      "Bread & Meat Uses",
+      "Thousand Wives",
+      "Abraham's Angels",
+      "Three Calves",
+      "Endless Obligation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Thousand Wives",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Solomon's thousand wives each preparing a feast and the comparison with Abraham's three calves for three people, matching the 'Thousand Wives' prose exactly.",
+      "second_heading": "Three Calves",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 discuss the meaning of 'fatted fowl,' the choicest animals, and the detailed exposition of Abraham's three calves including the servant and serving sequence, matching the 'Three Calves' prose which covers precisely these details.",
+      "current_heading": "Three Calves",
+      "moved": true
+    }
+  }
+]

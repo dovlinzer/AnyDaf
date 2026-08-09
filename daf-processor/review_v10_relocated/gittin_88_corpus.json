@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Get: Two Columns",
+    "candidates": [
+      "Get: Two Columns",
+      "Signatures Top/Side",
+      "Signing on Back",
+      "Heads Touching Invalid",
+      "Tails Touching Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers both the two-column case and the top/side/back signature cases in one passage, but the current placement under 'Get: Two Columns' is where this mishna begins, and the prose there accurately describes the opening ruling about two columns with witnesses at the bottom, which is the primary content of this mishna item.",
+      "chosen_heading": "Get: Two Columns",
+      "current_heading": "Get: Two Columns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tails Touching Valid",
+    "candidates": [
+      "Signatures Top/Side",
+      "Signing on Back",
+      "Heads Touching Invalid",
+      "Tails Touching Valid",
+      "Head-Tail Adjacent",
+      "One Get, Two Languages",
+      "Scribe + Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains all three configurations (heads touching, tails touching, head-tail adjacent) as a single mishna unit, and the prose under 'Heads Touching Invalid' introduces all these cases together, making it the best home for the entire passage rather than splitting across multiple headings.",
+      "chosen_heading": "Heads Touching Invalid",
+      "current_heading": "Tails Touching Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Scribe + Witness",
+    "candidates": [
+      "Head-Tail Adjacent",
+      "One Get, Two Languages",
+      "Scribe + Witness",
+      "Name Forms Valid",
+      "Jerusalem Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses a get written in one language with witnesses signing in another language (Hebrew/Greek combinations), which matches exactly the 'One Get, Two Languages' section's prose, not the 'Scribe + Witness' section where it currently sits.",
+      "chosen_heading": "One Get, Two Languages",
+      "current_heading": "Scribe + Witness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Jerusalem Practice",
+    "candidates": [
+      "Name Forms Valid",
+      "Jerusalem Practice",
+      "One or Two Gets?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the valid name forms for witness signatures (first name only, father's name only, full name without 'witness'), the Jerusalem practice, and the surname ruling \u2014 exactly what the 'Name Forms Valid' prose describes, whereas 'Jerusalem Practice' only discusses part of the passage.",
+      "chosen_heading": "Name Forms Valid",
+      "current_heading": "Jerusalem Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "One or Two Gets?",
+    "candidates": [
+      "Jerusalem Practice",
+      "One or Two Gets?",
+      "Rava: Space Below",
+      "Cut and Paste Risk",
+      "Rav Papa: Space Above"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises exactly the concern described in the 'One or Two Gets?' prose \u2014 that two adjacent bills of divorce could be combined into one apparent document \u2014 which is precisely what this Gemara passage questions.",
+      "chosen_heading": "One or Two Gets?",
+      "current_heading": "One or Two Gets?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rav Papa: Space Above",
+    "candidates": [
+      "Rava: Space Below",
+      "Cut and Paste Risk",
+      "Rav Papa: Space Above",
+      "Dating Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Abba citing Rav's answer (space below) plus the cut-date objection and its resolution (space above), which is the content of heading 0 ('Rava: Space Below') \u2014 the current heading 2 ('Rav Papa: Space Above') misattributes the ruling to Rav Papa rather than Rav/Rav Abba, and heading 0's prose about space at the bottom signaling continuity is the closest match to this passage's core content.",
+      "chosen_heading": "Rava: Space Below",
+      "current_heading": "Rav Papa: Space Above",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Dating Problem",
+    "candidates": [
+      "Rav Papa: Space Above",
+      "Dating Problem",
+      "Parchment Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the concern that the husband changed his mind mid-composition and the resolution via the sentence spanning two columns (harei at / muteret), which is precisely what the 'Dating Problem' prose describes.",
+      "chosen_heading": "Dating Problem",
+      "current_heading": "Dating Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Parchment Proof",
+    "candidates": [
+      "Parchment Proof",
+      "Top/Side Signing Invalid",
+      "Rav's Practice",
+      "Letter Roof Orientation",
+      "Vertical vs Horizontal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's explanation that the scroll's physical stretch/grain makes it evident the parchment is intact, which directly matches the 'Parchment Proof' section's prose about physical characteristics of the document testifying to its integrity.",
+      "chosen_heading": "Parchment Proof",
+      "current_heading": "Parchment Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Vertical vs Horizontal",
+    "candidates": [
+      "Top/Side Signing Invalid",
+      "Rav's Practice",
+      "Letter Roof Orientation",
+      "Vertical vs Horizontal",
+      "Rav Not Signing Gets",
+      "Language Variants OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous chain discussing witnesses signing at the top/side of a document \u2014 the mishna's ruling, Rav's practice as objection, the orientation resolution, the bolt-perpendicular challenge and answer, and the final resolution that Rav signed court documents not gittin \u2014 all belonging under the 'Top/Side Signing Invalid' heading where the gemara's surprise at the mishna's ruling begins this entire discussion.",
+      "chosen_heading": "Top/Side Signing Invalid",
+      "current_heading": "Vertical vs Horizontal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Language Variants OK",
+    "candidates": [
+      "Rav Not Signing Gets",
+      "Language Variants OK",
+      "Scribe Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses Rabbi Yirmiyah's clarification that 'chatam sofer' means the scribe signed as a witness, which matches the 'Scribe Signs' section prose exactly, not the language variants discussion.",
+      "chosen_heading": "Scribe Signs",
+      "current_heading": "Language Variants OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Scribe Signs",
+    "candidates": [
+      "Language Variants OK",
+      "Scribe Signs",
+      "Direct Speech Requirement",
+      "Recognizing One Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav \u1e24isda attributing the ruling to Rabbi Yosei, which is precisely what the 'Direct Speech Requirement' section's prose describes \u2014 Rav Chisda identifying this as Rav Yossi's position regarding the scribe's authorization.",
+      "chosen_heading": "Direct Speech Requirement",
+      "current_heading": "Scribe Signs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Recognizing One Witness",
+    "candidates": [
+      "Direct Speech Requirement",
+      "Recognizing One Witness",
+      "Two Signatures Required",
+      "Nicknames Valid",
+      "Generations Dispute",
+      "Three Generations Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of Rabbi Abbahu considering validating a ketubah based on the scribe's handwriting and one witness's signature, which is precisely what the 'Recognizing One Witness' prose section describes.",
+      "chosen_heading": "Recognizing One Witness",
+      "current_heading": "Recognizing One Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Three Generations Pasuk",
+    "candidates": [
+      "Two Signatures Required",
+      "Nicknames Valid",
+      "Generations Dispute",
+      "Three Generations Pasuk",
+      "Seven Kingdoms"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Generations Dispute",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the mishna ruling on nicknames plus the baraita dispute about ten vs. three generations) matches candidate 2 'Generations Dispute' whose prose explicitly discusses both the ten-generation and three-generation positions and the pasul ruling.",
+      "second_heading": "Three Generations Pasuk",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (Rabbi \u1e24anina's ruling aligned with Rabbi Shimon ben Elazar, and Rav Huna's scriptural derivation from ki tolid banim) match candidate 3 'Three Generations Pasuk' whose prose is entirely about these two Amoraic statements and the venoshantem verse.",
+      "current_heading": "Three Generations Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Seven Kingdoms",
+    "candidates": [
+      "Seven Kingdoms",
+      "Hoshea ben Elah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the seven dynasties of idol worship that led to the destruction of Eretz Yisrael, with item 1 being Rabbi Yehoshua ben Levi's statement listing the seven kings and item 2 being Rav Ammi's scriptural derivation of the number seven \u2014 both directly match the 'Seven Kingdoms' section prose which covers exactly this material.",
+      "chosen_heading": "Seven Kingdoms",
+      "current_heading": "Seven Kingdoms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Hoshea ben Elah",
+    "candidates": [
+      "Hoshea ben Elah",
+      "Divine Haste"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer exchange about Hoshea ben Elah, and the prose under heading 0 explicitly describes this exact dialogue \u2014 the question about why Hoshea's generation was exiled despite his lesser wickedness, and Rav's answer about the pilgrimage festival guards.",
+      "chosen_heading": "Hoshea ben Elah",
+      "current_heading": "Hoshea ben Elah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Divine Haste",
+    "candidates": [
+      "Divine Haste",
+      "Exile Preparation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening question of the homiletical interpretation about God hastening evil, which corresponds exactly to the 'Divine Haste' section's prose discussing the same verse and the root sh-k-d.",
+      "chosen_heading": "Divine Haste",
+      "current_heading": "Divine Haste",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Exile Preparation",
+    "candidates": [
+      "Exile Preparation",
+      "850-Year Mercy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the exile of Jeconiah preceding that of Zedekiah and the interpretation of 'harash' and 'masger' as great scholars \u2014 exactly the content described in the 'Exile Preparation' prose.",
+      "chosen_heading": "Exile Preparation",
+      "current_heading": "Exile Preparation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "850-Year Mercy",
+    "candidates": [
+      "850-Year Mercy",
+      "Jewish vs Non-Jewish Ct.",
+      "Acting on Authority",
+      "According to Din",
+      "Din Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Ulla's teaching about the 850-year exile and Rav A\u1e25a bar Yaakov's inference about divine 'soon,' which is precisely what the '850-Year Mercy' section's prose discusses in detail.",
+      "chosen_heading": "850-Year Mercy",
+      "current_heading": "850-Year Mercy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Din Criteria",
+    "candidates": [
+      "Jewish vs Non-Jewish Ct.",
+      "Acting on Authority",
+      "According to Din",
+      "Din Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna on coerced get by Jewish vs. gentile courts, and Rav Nachman/Shmuel's grid of ke-din/she-lo ke-din distinctions \u2014 are precisely what candidate 2 ('According to Din') discusses in its prose, covering both the Jewish court and gentile court scenarios with pasul/posel gradations.",
+      "chosen_heading": "According to Din",
+      "current_heading": "Din Criteria",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav Assi's Ruling",
+    "candidates": [
+      "Intro: Matzah/Challah",
+      "Rav Assi's Ruling",
+      "Ownership Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Asi's direct statement about maaser sheni dough and challah obligation according to Rabbi Meir vs. the Chachamim, which is precisely what the 'Rav Assi's Ruling' section's prose describes and introduces.",
+      "chosen_heading": "Rav Assi's Ruling",
+      "current_heading": "Rav Assi's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Ownership Status",
+    "candidates": [
+      "Ownership Status",
+      "Rav Pappa's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items illustrate the practical halakhic consequences of the Rabbi Meir vs. Chachamim dispute over whether maaser sheni is mammon gavoah or mammon baalim \u2014 exactly the ownership-status dispute that Candidate 0's prose explains \u2014 and belong before Rav Pappa's question (Candidate 1) which then challenges why the matzah case should follow from that dispute at all.",
+      "chosen_heading": "Ownership Status",
+      "current_heading": "Ownership Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rav Pappa's Question",
+    "candidates": [
+      "Rav Pappa's Question",
+      "Rava's Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's objection itself \u2014 granting the challah and esrog cases based on possessive verse forms, then asking whether any verse says 'your matza' \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rav Pappa's Question",
+      "current_heading": "Rav Pappa's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rava's Gezeirah Shavah",
+    "candidates": [
+      "Rava's Gezeirah Shavah",
+      "Double 'Ariso'teichem'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's gezeirah shavah deriving the ownership requirement for matzah from challah via the shared word 'lechem,' which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rava's Gezeirah Shavah",
+      "current_heading": "Rava's Gezeirah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Double 'Ariso'teichem'",
+    "candidates": [
+      "Double 'Ariso'teichem'",
+      "R. Shimon ben Lakish",
+      "Tamei Status Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita about challah of maaser sheni as potential support for Rav Asi's position and the Gemara's explanation involving the double 'arisoteichem,' which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Double 'Ariso'teichem'",
+      "current_heading": "Double 'Ariso'teichem'",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Tamei Status Problem",
+    "candidates": [
+      "R. Shimon ben Lakish",
+      "Tamei Status Problem",
+      "Hypothetical Arguments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's resolution of Reish Lakish's dilemma \u2014 dispensing with Rabbi Yosei HaGelili's view and then explaining why according to Rabbi Akiva the challah's tamei status (burning rather than redemption) creates the disqualification \u2014 which matches precisely the 'Tamei Status Problem' prose.",
+      "chosen_heading": "Tamei Status Problem",
+      "current_heading": "Tamei Status Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Hypothetical Arguments",
+    "candidates": [
+      "Hypothetical Arguments",
+      "Purchased w/ Maaser Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'or perhaps' (dilma) hypothetical argument about hoil ve-ilu lo kara aleha shem, which is precisely what the 'Hypothetical Arguments' section prose describes.",
+      "chosen_heading": "Hypothetical Arguments",
+      "current_heading": "Hypothetical Arguments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Purchased w/ Maaser Money",
+    "candidates": [
+      "Purchased w/ Maaser Money",
+      "Rava's Resolution",
+      "Mishnah Introduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together form the continuous Gemara discussion about \u1e25alla purchased with maaser sheni money \u2014 the alternative formulation of the dilemma (item 1), the narrowing to Rabbi Yehuda's view (items 2-3), the double 'hoil' question (items 4-5) \u2014 which exactly matches the prose of candidate 0, with Rava's resolution (item 5) serving as the closing line that candidate 1's prose then summarizes.",
+      "chosen_heading": "Purchased w/ Maaser Money",
+      "current_heading": "Purchased w/ Maaser Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Mishnah Introduction",
+    "candidates": [
+      "Rava's Resolution",
+      "Mishnah Introduction",
+      "Rava's Derasha",
+      "Rav Yosef's Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question 'from where are these matters derived' and Rabba/Rava's answer from the verse 'u-shmartem et ha-matzot' requiring guarding leshem matzah \u2014 precisely what candidate 2 ('Rava's Derasha') describes in its prose.",
+      "chosen_heading": "Rava's Derasha",
+      "current_heading": "Mishnah Introduction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Rav Yosef's Derasha",
+    "candidates": [
+      "Rava's Derasha",
+      "Rav Yosef's Derasha",
+      "Kol Moshavos Query",
+      "Nov & Givon History"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items belong under 'Rav Yosef's Derasha': items 1-3 present Rav Yosef's derivation and the supporting baraitot for both Rabba and Rav Yosef, items 4-5 address the le\u1e25em oni challenge and the Rabbi Akiva answer, and items 6-7 address the matza ashira challenge \u2014 all of which the prose for heading 1 explicitly discusses as part of the Gemara's treatment of Rav Yosef's position and the baraitot supporting each view.",
+      "chosen_heading": "Rav Yosef's Derasha",
+      "current_heading": "Rav Yosef's Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Nov & Givon History",
+    "candidates": [
+      "Kol Moshavos Query",
+      "Nov & Givon History",
+      "Baraita: R. Ilai Query",
+      "R. Yehoshua's Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous question-and-answer sequence: Item 1 raises the *bechol moshvoteichem* challenge and Item 2 is Reish Lakish's response explaining the Nov and Givon history \u2014 exactly the content described in the 'Nov & Givon History' prose.",
+      "chosen_heading": "Nov & Givon History",
+      "current_heading": "Nov & Givon History",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "R. Yehoshua's Tradition",
+    "candidates": [
+      "Baraita: R. Ilai Query",
+      "R. Yehoshua's Tradition",
+      "R. Eliezer's Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita contains both Rabbi Eliezer's response and Rabbi Yehoshua's tradition as a single continuous unit, and candidate 0 ('Baraita: R. Ilai Query') is the heading that covers the entire baraita passage, while the current placement under candidate 1 only covers the second half.",
+      "chosen_heading": "Baraita: R. Ilai Query",
+      "current_heading": "R. Yehoshua's Tradition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "R. Eliezer's Acceptance",
+    "candidates": [
+      "R. Yehoshua's Tradition",
+      "R. Eliezer's Acceptance",
+      "Rava's Intent Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ilai reporting the tradition to Rabbi Eliezer and his dual possible responses (affirmation vs. skeptical questioning), which is exactly what the prose of 'R. Eliezer's Acceptance' discusses.",
+      "chosen_heading": "R. Eliezer's Acceptance",
+      "current_heading": "R. Eliezer's Acceptance",
+      "moved": false
+    }
+  }
+]

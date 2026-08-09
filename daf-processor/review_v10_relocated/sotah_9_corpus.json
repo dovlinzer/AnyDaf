@@ -1,0 +1,554 @@
+[
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Thigh & Belly",
+    "candidates": [
+      "Ritual to Theology",
+      "Core Principle",
+      "Presumption of Guilt",
+      "Tosafot Garment",
+      "Ordeal vs. Evidence",
+      "Human & Divine Agents",
+      "Mishna Opening",
+      "Beauty Reversed",
+      "Revelation",
+      "Thigh & Belly",
+      "Rest of Body",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself containing the general principle of midah k'neged midah followed by its specific applications to the sotah, which is exactly what the 'Mishna Opening' prose describes \u2014 the general formulation bemida she'adam moded and its application to the sotah.",
+      "chosen_heading": "Mishna Opening",
+      "current_heading": "Thigh & Belly",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Rest of Body",
+      "Rav Yosef",
+      "Four Executions",
+      "Divine Punishments"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yosef",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's statement that divine punishment by measure has not ceased, which matches heading 1 ('Rav Yosef') exactly.",
+      "second_heading": "Four Executions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the elaboration citing Rav Yosef and Rabbi Chiyya about the four modes of execution not ceasing, which matches heading 2 ('Four Executions') exactly.",
+      "current_heading": "Rav Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Divine Punishments",
+    "candidates": [
+      "Four Executions",
+      "Divine Punishments",
+      "Scriptural Source",
+      "Small Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage enumerates the divine analogs to each of the four modes of execution, which is precisely what the 'Divine Punishments' section's prose describes.",
+      "chosen_heading": "Divine Punishments",
+      "current_heading": "Divine Punishments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Small Measures",
+    "candidates": [
+      "Scriptural Source",
+      "Small Measures",
+      "Doorway Exposure",
+      "Adornment Reversed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous baraita deriving the principle of midah k'neged midah from scriptural sources \u2014 starting with the se'ah-based derivation (Item 1), expanding to smaller measures (Item 2), and concluding with the accumulation principle (Item 3) \u2014 which matches candidate 0's prose about Rabbi's derivation of the scriptural source and the question of smaller sins, while candidate 1's prose already summarizes all three items as if they were background material already cited.",
+      "chosen_heading": "Scriptural Source",
+      "current_heading": "Small Measures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Adornment Reversed",
+    "candidates": [
+      "Doorway Exposure",
+      "Adornment Reversed",
+      "Beckoning",
+      "Garment Binding",
+      "Physical Acts",
+      "Food & Drink"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous baraita listing the midah-keneged-midah punishments of the sota, covering adornment of head/face/eyes/hair through beckoning/belt/thigh, which maps directly onto the 'Adornment Reversed' section's prose discussing exactly these parallel punishments in this same sequence.",
+      "chosen_heading": "Adornment Reversed",
+      "current_heading": "Adornment Reversed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Food & Drink",
+    "candidates": [
+      "Beckoning",
+      "Garment Binding",
+      "Physical Acts",
+      "Food & Drink",
+      "Woman Only",
+      "Patriarchy",
+      "Adultery Definition",
+      "Victim Blaming",
+      "Mitigating Factors",
+      "Secrecy to Exposure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the three correspondences discussed in the 'Food & Drink' section prose: receiving on the belly/stomach swelling, feeding delicacies/barley offering, fine wine in fine cups/bitter water in earthenware vessel.",
+      "chosen_heading": "Food & Drink",
+      "current_heading": "Food & Drink",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Secrecy to Exposure",
+    "candidates": [
+      "Woman Only",
+      "Patriarchy",
+      "Adultery Definition",
+      "Victim Blaming",
+      "Mitigating Factors",
+      "Secrecy to Exposure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly discuss the theme of secrecy being punished by public exposure \u2014 exactly what the prose of 'Secrecy to Exposure' describes, including the specific verses and formulations cited.",
+      "chosen_heading": "Secrecy to Exposure",
+      "current_heading": "Secrecy to Exposure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Secrecy to Exposure",
+    "candidates": [
+      "Secrecy to Exposure",
+      "Nations Timing",
+      "Egypt Three Cups",
+      "Nation Identity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Nations Timing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the redundancy of verses deriving midah k'neged midah and culminate in Rav \u1e24innana bar Pappa's principle that God defers punishment of a nation until its moment of banishment, which is precisely what candidate 1 ('Nations Timing') describes.",
+      "second_heading": "Egypt Three Cups",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents Rava's challenge about Egypt's three cups of punishment across different historical periods, which is exactly what candidate 2 ('Egypt Three Cups') describes as an objection to Rabbi Chanina bar Papa's principle.",
+      "current_heading": "Secrecy to Exposure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Nation Identity",
+    "candidates": [
+      "Nations Timing",
+      "Egypt Three Cups",
+      "Nation Identity",
+      "Nation Identity (continued)",
+      "Individual Measure",
+      "Temple Treasures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Minyamin the Egyptian convert's testimony to refute the claim that later Egyptians are different people from biblical Egyptians, which is precisely what the 'Nation Identity' section's prose describes as its content.",
+      "chosen_heading": "Nation Identity",
+      "current_heading": "Nation Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Temple Treasures",
+    "candidates": [
+      "Nation Identity (continued)",
+      "Individual Measure",
+      "Temple Treasures",
+      "Hidden Vessels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Nation Identity (continued)",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 (Rav \u1e24innana bar Pappa on the king's punishment, Ameimar's elaboration on nations vs. Israel, and Rav Hamnuna on the individual's measure being filled) all belong under 'Nation Identity (continued)' and 'Individual Measure' \u2014 specifically items 1-2 under candidate 0 and item 3 under candidate 1, but since items 1-3 form a continuous chain on delayed punishment and candidate 0's prose explicitly covers all three teachings in sequence, they best fit under candidate 0.",
+      "second_heading": "Temple Treasures",
+      "second_confidence": "high",
+      "second_reason": "Item 4 (Rav \u1e24innana bar Pappa's homiletical interpretation of 'naveh tehilla' referring to Moses and David whose enemies did not rule over their achievements) belongs under 'Temple Treasures' (candidate 2), whose prose explicitly discusses this exact teaching about Moses and David and the naveh/dwelling place interpretation.",
+      "current_heading": "Temple Treasures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Hidden Vessels",
+    "candidates": [
+      "Hidden Vessels",
+      "Desire Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the hiding of the Tent of Meeting beneath the tunnels of the Sanctuary, which directly matches the 'Hidden Vessels' section's prose about the sequestering of the Tabernacle and its components.",
+      "chosen_heading": "Hidden Vessels",
+      "current_heading": "Hidden Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Desire Lost",
+    "candidates": [
+      "Desire Lost",
+      "Lust Principle",
+      "Scriptural Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the baraita about the sotah placing her eyes on one unfit for her and the consequence of losing both what she desired and what she had, which is precisely what the 'Desire Lost' section's prose discusses.",
+      "chosen_heading": "Desire Lost",
+      "current_heading": "Desire Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Scriptural Examples",
+    "candidates": [
+      "Lust Principle",
+      "Scriptural Examples",
+      "Ra'ui Definition",
+      "Desire vs. Acting",
+      "Order Question",
+      "Abaye Solution",
+      "Verse Challenge",
+      "Kohen's Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the baraita's scriptural examples of the lust principle \u2014 the primordial serpent and the list of biblical figures \u2014 which is precisely what the 'Scriptural Examples' prose section describes.",
+      "chosen_heading": "Scriptural Examples",
+      "current_heading": "Scriptural Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Kohen's Description",
+    "candidates": [
+      "Ra'ui Definition",
+      "Desire vs. Acting",
+      "Order Question",
+      "Abaye Solution",
+      "Verse Challenge",
+      "Kohen's Description",
+      "Miriam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Order Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the question-and-answer about the order of the sotah's afflictions (thigh vs. belly), which belongs under 'Order Question' where the prose explicitly introduces this technical sequence dispute.",
+      "second_heading": "Miriam",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new Mishnah (marked 'MISHNA:') introducing an entirely new case \u2014 Samson and measure-for-measure punishment \u2014 which aligns with the 'Miriam' section's prose about the mishna extending midah k'neged midah examples, as Samson's case immediately precedes Miriam's in this series.",
+      "current_heading": "Kohen's Description",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Miriam",
+    "candidates": [
+      "Kohen's Description",
+      "Miriam",
+      "Yosef"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohen's Description",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about Absalom's punishment (midah k'neged midah for sin), which fits under the 'Kohen's Description' section that discusses midah k'neged midah in the context of punishment (thigh/belly), not the Miriam reward section.",
+      "second_heading": "Miriam",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is explicitly about Miriam waiting for Moshe and the nation waiting seven days for her, which is precisely what the 'Miriam' prose section describes.",
+      "current_heading": "Miriam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Yosef",
+    "candidates": [
+      "Yosef",
+      "Moshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Joseph burying his father and the honor shown to Joseph through Moses handling his burial, which directly matches the 'Yosef' section's prose about Yosef meriting to bury his father and only Moshe being great enough to handle his bones.",
+      "chosen_heading": "Yosef",
+      "current_heading": "Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Moshe",
+    "candidates": [
+      "Moshe",
+      "Good Exceeds Bad",
+      "Eyes Poked",
+      "Free Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Moses carrying Joseph's bones and God burying Moses, which matches exactly the prose under heading 0 ('Moshe').",
+      "chosen_heading": "Moshe",
+      "current_heading": "Moshe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165,
+      166
+    ],
+    "current_heading": "Free Choice",
+    "candidates": [
+      "Good Exceeds Bad",
+      "Eyes Poked",
+      "Free Choice",
+      "Gaza Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita that Samson rebelled with his eyes and was punished by having them gouged out, plus the Gemara's challenge and resolution \u2014 this is precisely the content described in the 'Eyes Poked' prose, which discusses Shimshon going after his eyes and the Philistines piercing them out; the 'Free Choice' section's prose actually describes the challenge/resolution content of item 2, but item 1 (the baraita itself) belongs with item 2 as one continuous unit, and that unit as a whole is better matched by 'Eyes Poked' which introduces the entire Samson episode.",
+      "chosen_heading": "Eyes Poked",
+      "current_heading": "Free Choice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Gaza Sin",
+    "candidates": [
+      "Free Choice",
+      "Gaza Sin",
+      "Timnah Question",
+      "Real Sin Gaza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about Shimshon's initial wrongdoing in Gaza, which is exactly what the 'Gaza Sin' section's prose describes and introduces.",
+      "chosen_heading": "Gaza Sin",
+      "current_heading": "Gaza Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "Real Sin Gaza",
+    "candidates": [
+      "Timnah Question",
+      "Real Sin Gaza",
+      "Delilah Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge about Timnah preceding Gaza, which matches the 'Timnah Question' prose that describes exactly this challenge \u2014 whereas 'Real Sin Gaza' covers the resolution/answer, and the passage includes both the question and answer together, but the question portion ('But isn't it written Timnah...') is what the 'Timnah Question' heading's prose explicitly describes, making it the better fit since the answer flows naturally from that challenge.",
+      "chosen_heading": "Timnah Question",
+      "current_heading": "Real Sin Gaza",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      179,
+      180
+    ],
+    "current_heading": "Delilah Name",
+    "candidates": [
+      "Real Sin Gaza",
+      "Delilah Name",
+      "True Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the meaning of Delilah's name and the three ways she weakened Samson, which is precisely what the 'Delilah Name' section's prose describes in detail.",
+      "chosen_heading": "Delilah Name",
+      "current_heading": "Delilah Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      184
+    ],
+    "current_heading": "True Words",
+    "candidates": [
+      "True Words",
+      "Tzaddik Nature",
+      "Pressure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi \u1e24anin/Rav's statement and Abaye's statement together as one Gemara unit, and the current heading 'True Words' with its prose covers both opinions (noting Abaye's view as well), making it the correct placement for the entire passage.",
+      "chosen_heading": "True Words",
+      "current_heading": "True Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      190
+    ],
+    "current_heading": "Pressure",
+    "candidates": [
+      "Tzaddik Nature",
+      "Pressure",
+      "Angel Instruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the meaning of 'vate'altzehu' and Rabbi Yitzchak's explanation about Delilah's method of pressure, which is exactly what the 'Pressure' section's prose describes.",
+      "chosen_heading": "Pressure",
+      "current_heading": "Pressure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      194
+    ],
+    "current_heading": "Angel Instruction",
+    "candidates": [
+      "Angel Instruction",
+      "Nazirite Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the question about 'any unclean thing' AND Rabbi Yitzchak's answer, spanning both headings, but since heading 0's prose explicitly covers both the question and the difficulty while heading 1's prose covers only the answer, and the current placement already captures the full passage, keeping it at index 0 is reasonable \u2014 though heading 1 is also a plausible match for the resolution.",
+      "chosen_heading": "Angel Instruction",
+      "current_heading": "Angel Instruction",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Cheresh & Pikeach",
+    "candidates": [
+      "Daf Overview",
+      "Cheresh & Pikeach",
+      "Divorce Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna about a deaf-mute marrying a competent person and vice versa, with the remizah principle \u2014 exactly what Candidate 1's prose discusses in detail.",
+      "chosen_heading": "Cheresh & Pikeach",
+      "current_heading": "Cheresh & Pikeach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Divorce Rules",
+    "candidates": [
+      "Divorce Rules",
+      "Ben Nuri Q.",
+      "Man vs Woman",
+      "Gudgada Test."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the cases of a competent man marrying a competent woman who becomes deaf-mute, becomes an imbecile, or where the husband becomes deaf or an imbecile \u2014 exactly the content discussed in the 'Divorce Rules' prose.",
+      "chosen_heading": "Divorce Rules",
+      "current_heading": "Divorce Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Gudgada Test.",
+    "candidates": [
+      "Ben Nuri Q.",
+      "Man vs Woman",
+      "Gudgada Test.",
+      "Deaf Bros",
+      "Mixed Pairs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Man vs Woman",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan ben Nuri's question and the response about the structural asymmetry between man and woman in divorce, which is precisely what candidate 1 ('Man vs Woman') discusses.",
+      "second_heading": "Gudgada Test.",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan ben Gudgada's testimony about the deaf-mute woman whose father married her off, which is exactly what candidate 2 ('Gudgada Test.') describes in its prose.",
+      "current_heading": "Gudgada Test.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Mixed Pairs",
+    "candidates": [
+      "Deaf Bros",
+      "Mixed Pairs",
+      "Stuck Deaf",
+      "Deaf Yibum"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Deaf Bros",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the case of two deaf brothers married to two sisters (all exempt from chalitzah and yibum), which matches exactly the 'Deaf Bros' prose about deaf brothers married to sisters being exempt because both marriages are rabbinic.",
+      "second_heading": "Mixed Pairs",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 present the permutations of one deaf and one hearing brother married to sisters (including the 'forbidden forever' outcomes), which matches the 'Mixed Pairs' prose describing exactly these cases with their respective rulings.",
+      "current_heading": "Mixed Pairs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Deaf Yibum",
+    "candidates": [
+      "Stuck Deaf",
+      "Deaf Yibum",
+      "Hear/Deaf Yib.",
+      "All Combos",
+      "Rami Q."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Deaf Yibum",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the cases of two brothers (one deaf, one hearing) married to two unrelated competent women, and two hearing brothers married to one competent and one deaf woman \u2014 exactly the scenarios described in headings 'Deaf Yibum' and 'Hear/Deaf Yib.' respectively, but since both items fit under one structural unit of the mishnah being discussed in heading 1 ('Deaf Yibum') and heading 2 ('Hear/Deaf Yib.'), item 1 belongs under 'Deaf Yibum' and item 2 under 'Hear/Deaf Yib.'",
+      "second_heading": "All Combos",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the final permutation \u2014 two brothers one deaf one hearing, married to one deaf and one competent woman \u2014 which matches precisely the 'All Combos' heading's prose describing met cheresh be-chereshet and met pikeach be-pikachet scenarios.",
+      "current_heading": "Deaf Yibum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rami Q.",
+    "candidates": [
+      "Hear/Deaf Yib.",
+      "All Combos",
+      "Rami Q.",
+      "Inst. Stands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's question about why the Rabbis enacted marriage for the deaf but not for imbeciles, with the baraita as proof \u2014 exactly what the 'Rami Q.' section prose describes.",
+      "chosen_heading": "Rami Q.",
+      "current_heading": "Rami Q.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Inst. Stands",
+    "candidates": [
+      "Inst. Stands",
+      "Minor Diff."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the rabbinic institution stands for deaf-mutes but not for the mentally ill, which is precisely what the prose under 'Inst. Stands' discusses.",
+      "chosen_heading": "Inst. Stands",
+      "current_heading": "Inst. Stands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Minor Diff.",
+    "candidates": [
+      "Minor Diff.",
+      "Deaf Mi'un"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Sages enacted marriage for a deaf-mute but not for a minor boy \u2014 exactly the content discussed in the 'Minor Diff.' prose section.",
+      "chosen_heading": "Minor Diff.",
+      "current_heading": "Minor Diff.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Deaf Mi'un",
+    "candidates": [
+      "Deaf Mi'un",
+      "Terumah Gez."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terumah Gez.",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses why the Sages enacted rabbinic marriage for a minor girl (so she not be treated as ownerless), which is a preliminary objection/answer that precedes the mi'un discussion but doesn't fit neatly under 'Deaf Mi'un' or 'Terumah Gez.' \u2014 it most plausibly belongs under 'Deaf Mi'un' as setup to that comparative series.",
+      "second_heading": "Deaf Mi'un",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are precisely the question of why a minor may perform mi'un while a deaf-mute woman may not, and the answer that people would refrain from marrying her \u2014 exactly the content described in the 'Deaf Mi'un' prose.",
+      "current_heading": "Deaf Mi'un",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Terumah Gez.",
+    "candidates": [
+      "Terumah Gez.",
+      "Slippery Slope",
+      "Ket. Compare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the terumah distinction between a minor girl and a deaf-mute woman, and the gezeirah/katan ochel neveilot exchange \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Terumah Gez.",
+      "current_heading": "Terumah Gez.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Ket. Compare",
+    "candidates": [
+      "Slippery Slope",
+      "Ket. Compare",
+      "No Ket/Can Write"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slippery Slope",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the slippery-slope gezeirah concern about a deaf-mute priest's wife eating terumah d'Oraita, which is precisely what candidate 0 ('Slippery Slope') addresses in its prose.",
+      "second_heading": "Ket. Compare",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 discuss why a minor girl has a ketubbah while a deaf-mute woman does not, and derive the minor's ketubbah from the mishna about mi'un \u2014 exactly what candidate 1 ('Ket. Compare') describes in its prose.",
+      "current_heading": "Ket. Compare",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "No Ket/Can Write",
+    "candidates": [
+      "No Ket/Can Write",
+      "Marriage Incentive",
+      "Malkio Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "No Ket/Can Write",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (the baraita about deaf/imbecile marrying competent women, and the rule about a competent man writing a ketubbah for a deaf woman) are precisely the content discussed in the 'No Ket/Can Write' prose section.",
+      "second_heading": "Marriage Incentive",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the question about incentivizing women to marry deaf men, answered by 'more than a man wants to marry, a woman wants to be married') is precisely the content discussed in the 'Marriage Incentive' prose section.",
+      "current_heading": "No Ket/Can Write",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Malkio Story",
+    "candidates": [
+      "Marriage Incentive",
+      "Malkio Story",
+      "Asham Talui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Rav Malkiyyu/Malkio story about the deaf-mute's marriage and ketubbah, which is precisely what the 'Malkio Story' prose section describes.",
+      "chosen_heading": "Malkio Story",
+      "current_heading": "Malkio Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Asham Talui",
+    "candidates": [
+      "Asham Talui",
+      "Terumah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the ruling about asham talui and the wife of a deaf-mute, which is precisely what the 'Asham Talui' section's prose discusses and contextualizes.",
+      "chosen_heading": "Asham Talui",
+      "current_heading": "Asham Talui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Terumah Proof",
+    "candidates": [
+      "Terumah Proof",
+      "Eliezer Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the five-category terumah ruling that the 'Terumah Proof' prose explicitly discusses, matching both the content and the interpretive framing about categorical nullity implying complete exclusion from bar da'at.",
+      "chosen_heading": "Terumah Proof",
+      "current_heading": "Terumah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Eliezer Safek",
+    "candidates": [
+      "Eliezer Safek",
+      "Safek Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the Rabbi Elazar baraita about teruma of a deaf-mute and the subsequent question about asham talui, which is exactly what the 'Eliezer Safek' section's prose describes.",
+      "chosen_heading": "Eliezer Safek",
+      "current_heading": "Eliezer Safek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Safek Logic",
+    "candidates": [
+      "Safek Logic",
+      "Da'ata Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the chaticha mi-shtei chatichot requirement for asham talui, Rabbi Elazar's koy case, and Shmuel's selective adoption of Rabbi Elazar's position \u2014 exactly the content described in the 'Safek Logic' prose.",
+      "chosen_heading": "Safek Logic",
+      "current_heading": "Safek Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Da'ata Question",
+    "candidates": [
+      "Da'ata Question",
+      "Category vs Case",
+      "Divorce Outcome"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Da'ata Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Ashi's question about Rabbi Elazar's reasoning and the first possibility (da'ata kelisha vs. da'ata tzelula), which matches exactly the 'Da'ata Question' prose discussing mi-fpashat peshita leh and the distinction between attenuated intelligence and clarity of thought.",
+      "second_heading": "Category vs Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the bifurcation into 'ul'olam chada da'ata hu' versus 'itin chalim ve-itin shoteh', which matches exactly the 'Category vs Case' prose discussing those two framings \u2014 stable category-level uncertainty versus individual moment-by-moment variation.",
+      "current_heading": "Da'ata Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Divorce Outcome",
+    "candidates": [
+      "Category vs Case",
+      "Divorce Outcome",
+      "Teiku Conclusion",
+      "Geonim Develop.",
+      "Changing Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the practical difference (divorce via get) and the reasoning that if a deaf-mute has one consistent mind then 'ki-kiddushin kach geirushin,' which is precisely what the 'Divorce Outcome' section's prose discusses in detail.",
+      "chosen_heading": "Divorce Outcome",
+      "current_heading": "Divorce Outcome",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Torah Sources",
+    "candidates": [
+      "Torah Sources",
+      "All Produce Types",
+      "Growing vs Harvested",
+      "Two Verses",
+      "Ki Tavo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about why the vineyard verse is needed after deriving from 'sickle' and 'standing grain,' which is precisely what the 'Two Verses' prose describes.",
+      "chosen_heading": "Two Verses",
+      "current_heading": "Torah Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Ki Tavo",
+    "candidates": [
+      "All Produce Types",
+      "Growing vs Harvested",
+      "Two Verses",
+      "Ki Tavo",
+      "Jewish vs Non-Jewish",
+      "Gezel Goy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rava's answer that the vineyard verse is needed 'lehilchotav' (for its specific halakhot), which is precisely what heading 2 ('Two Verses') describes \u2014 the Gemara's question about why the vineyard verse is needed and Rava's answer of lehilchotav, with the braita then demonstrating through derasha of each phrase.",
+      "chosen_heading": "Two Verses",
+      "current_heading": "Ki Tavo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Gezel Goy",
+    "candidates": [
+      "Jewish vs Non-Jewish",
+      "Gezel Goy",
+      "Eating Restrictions",
+      "Like Owner",
+      "Before Gmar Melacha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gezel Goy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge about gezel goy \u2014 whether it is permitted or forbidden \u2014 which is precisely the content discussed in the 'Gezel Goy' prose section.",
+      "second_heading": "Eating Restrictions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the gezel goy question by redirecting 'becherem re'echa' to exclude hekdesh, then continues with the restrictions on eating (motzetz, anavim ve'davar acher), which matches exactly the 'Eating Restrictions' prose section.",
+      "current_heading": "Gezel Goy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Before Gmar Melacha",
+    "candidates": [
+      "Eating Restrictions",
+      "Like Owner",
+      "Before Gmar Melacha",
+      "Purchaser Obligation",
+      "Until Full",
+      "No Own Vessel",
+      "Rei'yat Pnei Bayit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Like Owner",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the kenafshekha derivation equating the owner's exemption with the laborer's exemption from tithes, which is exactly what candidate 1 'Like Owner' describes.",
+      "second_heading": "Until Full",
+      "second_confidence": "high",
+      "second_reason": "Item 2 interprets 'savecha' (until full) and 've'el kelyecha lo titen' (no own vessel), which directly matches candidates 4 and 5 \u2014 but since item 2 covers both topics in one unit and candidate 4 'Until Full' appears first and its prose explicitly covers savecha excluding achila gassa, while candidate 5 covers the vessel restriction, item 2 is better split off starting at candidate 4 which opens that section.",
+      "current_heading": "Before Gmar Melacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rei'yat Pnei Bayit",
+    "candidates": [
+      "Purchaser Obligation",
+      "Until Full",
+      "No Own Vessel",
+      "Rei'yat Pnei Bayit",
+      "Chatzer Kovia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together state Rabbi Yannai's ruling that untithed produce is not obligated in tithing until it sees the front of the house, with the verse source \u2014 exactly the content described in the 'Rei'yat Pnei Bayit' prose.",
+      "chosen_heading": "Rei'yat Pnei Bayit",
+      "current_heading": "Rei'yat Pnei Bayit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Chatzer Kovia",
+    "candidates": [
+      "Chatzer Kovia",
+      "Chatzer Defined",
+      "Field Obligation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chatzer Kovia",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yochanan's position that chatzer is kovia and the qualification that it must be a secured courtyard analogous to a house, matching heading 0's prose about Rabbi Yochanan's ruling and heading 1's prose about the mishtamer requirement \u2014 but item 1 (Rabbi Yochanan's ruling) fits heading 0 and item 2 (the chatzer-as-house qualification) fits heading 1; however since item 1 alone introduces Rabbi Yochanan and heading 0's prose covers both his ruling and Rabbi Yannai's derech sha'ar point, items 1 and 3 belong under heading 0.",
+      "second_heading": "Chatzer Defined",
+      "second_confidence": "high",
+      "second_reason": "Item 2, which discusses the min habayit objection and the chatzer dumya d'bayit / mishtamer qualification, matches heading 1's prose almost word for word.",
+      "current_heading": "Chatzer Kovia",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Field Obligation",
+    "candidates": [
+      "Chatzer Defined",
+      "Field Obligation",
+      "Fig Tree Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly constitute the challenge of Rav \u1e24anina \u1e24oza'a \u2014 the baraita's kenafshekha derivation and the inference that a purchaser in the field is obligated \u2014 which is precisely what the 'Field Obligation' prose describes in detail.",
+      "chosen_heading": "Field Obligation",
+      "current_heading": "Field Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Fig Tree Case",
+    "candidates": [
+      "Fig Tree Case",
+      "Tree vs Fruit",
+      "Job Completion",
+      "Torah Level"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous exchange \u2014 Rav Pappa's resolution about the fig tree in the garden and the immediate follow-up question/answer about why the homeowner is exempt \u2014 which is precisely what the 'Fig Tree Case' prose describes, including the final question 'why isn't the ba'al habayit also obligated?'",
+      "chosen_heading": "Fig Tree Case",
+      "current_heading": "Fig Tree Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Torah Level",
+    "candidates": [
+      "Tree vs Fruit",
+      "Job Completion",
+      "Torah Level",
+      "Not Your Seed",
+      "Sale Obligation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Torah Level",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Beit Hino baraita establishing that a buyer has no d'oraita obligation, which is precisely what the 'Torah Level' section's prose discusses.",
+      "second_heading": "Not Your Seed",
+      "second_confidence": "high",
+      "second_reason": "Item 3 shifts to a new question about what kenafshekha teaches regarding a laborer being muzzled \u2014 a distinct topic addressed in the 'Not Your Seed' / subsequent section context, but more precisely it is the Gemara's follow-up derivation about the muzzling exemption, which the 'Not Your Seed' prose does not cover; however among the candidates, index 3 'Not Your Seed' is the closest next section after the Beit Hino discussion concludes.",
+      "current_heading": "Torah Level",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Sale Obligation",
+    "candidates": [
+      "Not Your Seed",
+      "Sale Obligation",
+      "Two Domains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage discusses when gmar melacha occurs (losing blossom, being brought into the house) and how that determines the moment tithes attach \u2014 directly relevant to the 'Sale Obligation' section's discussion of gmar melacha as the critical moment when the tithe obligation crystallizes, even though the fit is imperfect.",
+      "chosen_heading": "Sale Obligation",
+      "current_heading": "Sale Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Two Domains",
+    "candidates": [
+      "Two Domains",
+      "Kal Va-Chomer",
+      "Muzzling Only Ox"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Domains",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses the question of how we derive a person's right to eat b'talush, which is precisely what candidate 0 ('Two Domains') describes as the open question after establishing the two separate domains.",
+      "second_heading": "Kal Va-Chomer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the kal va-chomer argument and its rejection (mah leshor sheken atah metzuveh chasimato), which matches exactly the prose of candidate 1 ('Kal Va-Chomer') describing the kal va-chomer proposal and its refutation.",
+      "current_heading": "Two Domains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Muzzling Only Ox",
+    "candidates": [
+      "Kal Va-Chomer",
+      "Muzzling Only Ox",
+      "Kama Kama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the kal va-chomer that one should be prohibited from muzzling a worker, and the Torah's refutation via 'kenafshecha' \u2014 are explicitly described in the 'Muzzling Only Ox' prose, making the current placement correct.",
+      "chosen_heading": "Muzzling Only Ox",
+      "current_heading": "Muzzling Only Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Kama Kama",
+    "candidates": [
+      "Kama Kama",
+      "Ki Tavo Includes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the doubling of 'kama' (standing grain) and the redirection of the second occurrence to teach about eating detached produce, which matches exactly the prose under heading 0.",
+      "chosen_heading": "Kama Kama",
+      "current_heading": "Kama Kama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Ki Tavo Includes",
+    "candidates": [
+      "Ki Tavo Includes",
+      "Ox Attached Rights",
+      "Keep Alive Only Humans",
+      "Reverse Kal Va-Chomer",
+      "Fellow Human Only",
+      "Re'cha Re'cha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Ami's statement that 'ki tavo becharme re'echa' already implies the right to eat detached produce because the worker could have been hired to transport (likatef) already-harvested grapes, which matches exactly what the 'Ki Tavo Includes' prose section describes.",
+      "chosen_heading": "Ki Tavo Includes",
+      "current_heading": "Ki Tavo Includes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Re'cha Re'cha",
+    "candidates": [
+      "Ox Attached Rights",
+      "Keep Alive Only Humans",
+      "Reverse Kal Va-Chomer",
+      "Fellow Human Only",
+      "Re'cha Re'cha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous chain addressing the ox's right to eat b'mechubar: item 1 proposes the kal va-chomer (matching candidate 1's prose), item 2 attempts to rescue it with a reverse kal va-chomer (candidate 2), and item 3 refutes that and gives the final textual derivation from re'echa re'echa (candidate 4) \u2014 but candidate 0 ('Ox Attached Rights') is the overarching topic heading under which all three items fall as a unit, since they collectively answer 'from where do we derive an ox eats b'mechubar.'",
+      "chosen_heading": "Ox Attached Rights",
+      "current_heading": "Re'cha Re'cha",
+      "moved": true
+    }
+  }
+]

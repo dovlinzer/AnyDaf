@@ -1,0 +1,204 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Yehoshua's Response",
+    "candidates": [
+      "Mishnah Overview",
+      "Rabbi Yehoshua Theory",
+      "Asham Counterexample",
+      "Yehoshua's Response",
+      "Second Counterexample"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All five items are part of the same baraita recording the extended debate between Rabbi Eliezer and Rabbi Yehoshua, beginning with the asham counterexample in item 4 and continuing through successive exchanges, which matches heading 2's description of this baraita and its counterexamples.",
+      "chosen_heading": "Asham Counterexample",
+      "current_heading": "Yehoshua's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Second Counterexample",
+    "candidates": [
+      "Second Counterexample",
+      "Ma'aseh Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Eliezer's argument using the asham slaughtered in the south for the sake of a shelamim \u2014 changing both designation and location \u2014 which is precisely what the 'Second Counterexample' prose describes.",
+      "chosen_heading": "Second Counterexample",
+      "current_heading": "Second Counterexample",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ma'aseh Distinction",
+    "candidates": [
+      "Ma'aseh Distinction",
+      "Me'ilah Distinction",
+      "Zerikah Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly contrasts changing name and location (but not ma'aseh) in the asham case versus changing name, location, AND ma'aseh in the olah case \u2014 precisely the 'Ma'aseh Distinction' that section 0's prose describes.",
+      "chosen_heading": "Ma'aseh Distinction",
+      "current_heading": "Ma'aseh Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Zerikah Problem",
+    "candidates": [
+      "Me'ilah Distinction",
+      "Zerikah Problem",
+      "Concession Moment",
+      "The Gap Concept",
+      "Siman Echad Logic",
+      "Two Lenses Framework",
+      "Identity Redefinition",
+      "Challenge Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's question about why Rabbi Eliezer didn't strengthen his counterexample by adding a change of owner, which is explicitly described and quoted in the 'Zerikah Problem' section's prose.",
+      "chosen_heading": "Zerikah Problem",
+      "current_heading": "Zerikah Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Challenge Posed",
+    "candidates": [
+      "Concession Moment",
+      "The Gap Concept",
+      "Siman Echad Logic",
+      "Two Lenses Framework",
+      "Identity Redefinition",
+      "Challenge Posed",
+      "Rav Ashi's Answer",
+      "Directional Asymmetry",
+      "Kinnim Overview",
+      "Women's Sacrifices",
+      "Designation Rules",
+      "Uncertain Designation",
+      "Both-Above/Both-Below",
+      "Split Placement",
+      "Paradox Stated",
+      "Person-Specific Limit",
+      "Testing Limitation",
+      "Scenario Setup",
+      "Three Sets Types",
+      "All-Above Case",
+      "All-Below Case",
+      "Split Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Concession Moment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's conclusion that Rabbi Eliezer grasped Rabbi Yehoshua's reasoning and introduces Rav Adda bar Ahava's formulation of that reasoning \u2014 exactly what heading 0 ('Concession Moment') describes, including the specific quote about Rabbi Eliezer coming to understand Rabbi Yehoshua's position.",
+      "second_heading": "Challenge Posed",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 present the symmetrical challenge (can a bird chatat above become an olah?), the Rabbi Yochanan/Rabbi Bena'a discussion, and Rav Ashi's resolution \u2014 all of which match heading 5 ('Challenge Posed') and its continuation into Rav Ashi's answer, precisely as described in that section's prose.",
+      "current_heading": "Challenge Posed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Split Case",
+    "candidates": [
+      "Rav Ashi's Answer",
+      "Directional Asymmetry",
+      "Kinnim Overview",
+      "Women's Sacrifices",
+      "Designation Rules",
+      "Uncertain Designation",
+      "Both-Above/Both-Below",
+      "Split Placement",
+      "Paradox Stated",
+      "Person-Specific Limit",
+      "Testing Limitation",
+      "Scenario Setup",
+      "Three Sets Types",
+      "All-Above Case",
+      "All-Below Case",
+      "Split Case",
+      "Paradox Stated",
+      "Person-Specific Limitati\u2026",
+      "Testing Limitation",
+      "Rabbi Yehoshua Authorship",
+      "Me'ilah vs. Obligation",
+      "Final Conclusion",
+      "Neder Setup",
+      "Neder Constraint",
+      "Kohen's Assumption",
+      "Error Described",
+      "Obligation Shortfall",
+      "Species Confusion",
+      "Mixed Species Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Paradox Stated",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-9 discuss the gufah of Rav Adda bar Ahava's ruling, the Kinnim challenge about two women, and the person-specific limitation \u2014 matching the 'Paradox Stated' section.",
+      "second_heading": "Neder Setup",
+      "second_confidence": "high",
+      "second_reason": "Items 10-18 introduce an entirely new Mishnah about a woman who vowed to bring a nest if she gives birth to a male, covering the kohen's error and species complications \u2014 matching the 'Neder Setup' section.",
+      "current_heading": "Split Case",
+      "moved": true
+    }
+  }
+]

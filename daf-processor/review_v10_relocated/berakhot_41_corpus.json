@@ -1,0 +1,441 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "R. Yehuda: Min Klala",
+    "candidates": [
+      "Intro: Vinegar & Locusts",
+      "R. Yehuda: Min Klala",
+      "Seven Species Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage contains both the general ruling about foods not grown from the ground AND Rabbi Yehuda's opinion in a single unit, and the 'Intro: Vinegar & Locusts' prose explicitly describes all elements of this mishna including vinegar, novlot, locusts, and the shehakol ruling, making it the clear home for the complete mishna text.",
+      "chosen_heading": "Intro: Vinegar & Locusts",
+      "current_heading": "R. Yehuda: Min Klala",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Seven Species Priority",
+    "candidates": [
+      "R. Yehuda: Min Klala",
+      "Seven Species Priority",
+      "Braita: Shehakol List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Yehuda and the Rabbis about which food to bless first when many types are present, which is precisely what the 'Seven Species Priority' section's prose describes.",
+      "chosen_heading": "Seven Species Priority",
+      "current_heading": "Seven Species Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Braita: Shehakol List",
+    "candidates": [
+      "Braita: Shehakol List",
+      "Fungi: Root Question",
+      "Abaye: No Root Draw"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full braita enumerating shehakol categories AND the gemara's question about truffles/mushrooms, which spans headings 0 and 1, but since the current placement (heading 0) already includes prose discussing the braita and its tension with Rabbi Yehuda, and heading 1's prose discusses only the gemara's question about fungi (a subset of the passage), the entire passage fits best under heading 0 which covers the braita enumeration that introduces the fungi question.",
+      "chosen_heading": "Braita: Shehakol List",
+      "current_heading": "Braita: Shehakol List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Abaye: No Root Draw",
+    "candidates": [
+      "Fungi: Root Question",
+      "Abaye: No Root Draw",
+      "Novlot Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Abaye's resolution (mirba ravvu/minka la yanki) and the subsequent re-reading of the baraita's language from 'gidulo' to 'yonek', which is precisely what the 'Abaye: No Root Draw' prose describes.",
+      "chosen_heading": "Abaye: No Root Draw",
+      "current_heading": "Abaye: No Root Draw",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Novlot Debate",
+    "candidates": [
+      "Novlot Debate",
+      "Demai Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the continuous debate about what 'novelot' means, testing both interpretations against Rabbi Yehuda's ruling and the appropriate blessing, which is exactly what the 'Novlot Debate' prose describes.",
+      "chosen_heading": "Novlot Debate",
+      "current_heading": "Novlot Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Demai Categories",
+    "candidates": [
+      "Demai Categories",
+      "Fruit Identifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the mishna listing lenient demai categories including novelot temara, which directly matches the 'Demai Categories' prose that explains hakalin she-be-demai and the mishna in tractate Demai listing these inferior fruits.",
+      "chosen_heading": "Demai Categories",
+      "current_heading": "Demai Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Fruit Identifications",
+    "candidates": [
+      "Fruit Identifications",
+      "Fallen Dates Hekker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies all the plants listed in the Demai mishna (shitin, rimin, uzradin, bnot shuach, bnot shikma, gufnin, nitzpa, novelot temara), which is precisely what the 'Fruit Identifications' prose describes.",
+      "chosen_heading": "Fruit Identifications",
+      "current_heading": "Fruit Identifications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Fallen Dates Hekker",
+    "candidates": [
+      "Fallen Dates Hekker",
+      "Same Bracha Priority",
+      "Different Brachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the same dispute about novelot temara (wind-blown vs. sun-cooked dates) in the context of demai, including the hefker/goren resolution and the terminological kashya \u2014 all of which are explicitly discussed in the 'Fallen Dates Hekker' prose.",
+      "chosen_heading": "Fallen Dates Hekker",
+      "current_heading": "Fallen Dates Hekker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Different Brachot",
+    "candidates": [
+      "Same Bracha Priority",
+      "Different Brachot",
+      "Radish & Olive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ulla's statement introducing the entire framework \u2014 that the dispute applies when brachot are the same (min shiva vs. min chaviv) and that when brachot differ everyone agrees to recite each separately \u2014 which maps precisely to the 'Same Bracha Priority' section's prose about Ulla framing the machlokes parameters, rather than the 'Different Brachot' section which discusses the implications and objections that follow.",
+      "chosen_heading": "Same Bracha Priority",
+      "current_heading": "Different Brachot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Radish & Olive",
+    "candidates": [
+      "Different Brachot",
+      "Radish & Olive",
+      "Ikkar v'Tafel",
+      "Gemara Rewrite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core gemara discussion of the radish-and-olive baraita \u2014 the objection, the ikkar answer, and the Rabbi Yehuda sub-question \u2014 which is precisely what the 'Radish & Olive' section's prose describes in detail.",
+      "chosen_heading": "Radish & Olive",
+      "current_heading": "Radish & Olive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Gemara Rewrite",
+    "candidates": [
+      "Ikkar v'Tafel",
+      "Gemara Rewrite",
+      "Rav Ami Debate",
+      "Pasuk Order Ruling",
+      "Seven Species List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's radical rewrite of the baraita (ve-chasurei mechsera ve-hachi katani), which is precisely what the 'Gemara Rewrite' section's prose describes in detail.",
+      "chosen_heading": "Gemara Rewrite",
+      "current_heading": "Gemara Rewrite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Seven Species List",
+    "candidates": [
+      "Rav Ami Debate",
+      "Pasuk Order Ruling",
+      "Seven Species List",
+      "R. Chanin: Sizes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous discussion of the Rav Ami/Rabbi Yitzchak Nappa\u1e25a dispute, Rabbi Yirmiyah's answer about precedence (le-hakdim), and Rav Yosef's pasuk-ordering principle \u2014 exactly what candidate 1 ('Pasuk Order Ruling') describes in its prose.",
+      "chosen_heading": "Pasuk Order Ruling",
+      "current_heading": "Seven Species List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "R. Chanin: Sizes",
+    "candidates": [
+      "Seven Species List",
+      "R. Chanin: Sizes",
+      "Wheat: Eat Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi \u1e24anan's opinion that the verse was stated for shiurim (measures), which is exactly what the 'R. Chanin: Sizes' section's prose describes.",
+      "chosen_heading": "R. Chanin: Sizes",
+      "current_heading": "R. Chanin: Sizes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Wheat: Eat Time",
+    "candidates": [
+      "Wheat: Eat Time",
+      "Barley: Bone Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bayit ha-menuga mishna and the achilat pras standard measured with wheat bread, which is exactly what the 'Wheat: Eat Time' section prose describes.",
+      "chosen_heading": "Wheat: Eat Time",
+      "current_heading": "Wheat: Eat Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Barley: Bone Size",
+    "candidates": [
+      "Barley: Bone Size",
+      "Wine: Reviit",
+      "Fig: Grogeret",
+      "Pomegranate: Hole Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about a bone the size of a barley grain and its tuma status, which matches exactly the 'Barley: Bone Size' heading's prose about etzem keshorah causing tuma by contact and carrying but not tumas ohel.",
+      "chosen_heading": "Barley: Bone Size",
+      "current_heading": "Barley: Bone Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Pomegranate: Hole Size",
+    "candidates": [
+      "Wine: Reviit",
+      "Fig: Grogeret",
+      "Pomegranate: Hole Size",
+      "Kezayis Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the vine/fig/pomegranate measures in sequence, culminating in the pomegranate-hole standard for homeowners' vessels, which is precisely what candidate 2 ('Pomegranate: Hole Size') discusses in its prose.",
+      "chosen_heading": "Pomegranate: Hole Size",
+      "current_heading": "Pomegranate: Hole Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Kezayis Standard",
+    "candidates": [
+      "Kezayis Standard",
+      "Date Honey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei's statement that the land's measures are (mostly) the size of olives, which is exactly what the 'Kezayis Standard' prose section addresses.",
+      "chosen_heading": "Kezayis Standard",
+      "current_heading": "Kezayis Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Date Honey",
+    "candidates": [
+      "Date Honey",
+      "Dates & Pomegranates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Yom Kippur eating measure (ke-kosevet ha-gasa) derived from 'devash' and the asmakhta explanation, which is precisely what the 'Date Honey' section's prose describes.",
+      "chosen_heading": "Date Honey",
+      "current_heading": "Date Honey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Dates & Pomegranates",
+    "candidates": [
+      "Dates & Pomegranates",
+      "Mid-Meal Fruit",
+      "Huna & Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuous narrative of Rav \u1e24isda and Rav Hamnuna's exchange about dates and pomegranates, which is precisely what the 'Dates & Pomegranates' prose section describes in detail.",
+      "chosen_heading": "Dates & Pomegranates",
+      "current_heading": "Dates & Pomegranates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Huna & Nachman",
+    "candidates": [
+      "Mid-Meal Fruit",
+      "Huna & Nachman",
+      "Rav Sheshet",
+      "Rashi: Flavored Bread",
+      "R. Chiya: Full Exemption",
+      "Rav Papa Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the full debate (Rav Huna, Rav Nachman, Rav Sheshet, and Rabbi Chiya) as a single Talmudic unit, and the 'Mid-Meal Fruit' heading's prose explicitly frames this as introducing the case of figs and grapes during a meal \u2014 making it the natural home for the entire passage before it is broken down topic by topic.",
+      "chosen_heading": "Mid-Meal Fruit",
+      "current_heading": "Huna & Nachman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rav Papa Halacha",
+    "candidates": [
+      "Rav Sheshet",
+      "Rashi: Flavored Bread",
+      "R. Chiya: Full Exemption",
+      "Rav Papa Halacha",
+      "Machmas Haseuda",
+      "Tosafot vs Rashi",
+      "Modern Meal Courses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Papa's summary ruling on the three categories (machmat haseudah during meal, shelo machmat haseudah during meal, and after meal), which is exactly what the 'Rav Papa Halacha' section's prose describes.",
+      "chosen_heading": "Rav Papa Halacha",
+      "current_heading": "Rav Papa Halacha",
+      "moved": false
+    }
+  }
+]

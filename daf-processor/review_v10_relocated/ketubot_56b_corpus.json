@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Yehuda vs. Meir on Waiver",
+    "candidates": [
+      "Yehuda vs. Meir on Waiver",
+      "Stipulation Nullity Thry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge from donkey drivers, the mishna about chamarin, and the Abaye/Rava resolutions \u2014 are explicitly discussed in the prose of heading 0 ('Yehuda vs. Meir on Waiver'), which describes the donkey-driver challenge and both Abaye's vadai/safek distinction and Rava's demai leniency point in detail.",
+      "chosen_heading": "Yehuda vs. Meir on Waiver",
+      "current_heading": "Yehuda vs. Meir on Waiver",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Stipulation Nullity Thry",
+    "candidates": [
+      "Stipulation Nullity Thry",
+      "Biat Zenut Analysis",
+      "Ketubah d'Oraisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference from 'hapocheis' that Rabbi Meir holds the stipulation is void yet she retains the full amount, which is precisely what the 'Stipulation Nullity Thry' prose section describes.",
+      "chosen_heading": "Stipulation Nullity Thry",
+      "current_heading": "Stipulation Nullity Thry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Ketubah d'Oraisa",
+    "candidates": [
+      "Biat Zenut Analysis",
+      "Ketubah d'Oraisa",
+      "R. Yosi: Allowed",
+      "R. Yehuda: Waiver Method",
+      "R. Meir: Stipulation Void",
+      "Chattel Prohibition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ketubah d'Oraisa",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara's resolution that Rabbi Meir holds ketubah is d'Oraisa plus the baraita presenting all three positions (Meir/Yosi/Yehuda), which matches the 'Ketubah d'Oraisa' prose discussing kasavar Rabbi Meir ketubah de'Oraisa and the baraita with all three opinions.",
+      "second_heading": "Chattel Prohibition",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's challenge to Rabbi Yosi from the baraita about ein osin kesubas ishah mitaltlin mipnei tikkun ha-olam, which matches exactly the 'Chattel Prohibition' prose discussing that same braisa and its tikkun ha-olam rationale.",
+      "current_heading": "Ketubah d'Oraisa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Chattel Prohibition",
+    "candidates": [
+      "R. Yosi: Allowed",
+      "R. Yehuda: Waiver Method",
+      "R. Meir: Stipulation Void",
+      "Chattel Prohibition",
+      "R. Yosi: Liability Issue",
+      "Unilateral vs. Mutual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's analysis of the dispute between the Tanna Kamma and Rabbi Yosi over the chattel prohibition, asking what their disagreement actually is \u2014 which matches heading 4 ('R. Yosi: Liability Issue') whose prose explicitly describes this same Gemara observation about the Tanna Kamma also saying 'ein osin' and asking what their dispute is.",
+      "chosen_heading": "R. Yosi: Liability Issue",
+      "current_heading": "Chattel Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Unilateral vs. Mutual",
+    "candidates": [
+      "R. Yosi: Liability Issue",
+      "Unilateral vs. Mutual",
+      "Sister of Rami: Lost Doc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact kal v'chomer argument and the 'hachi hashta' response (yada'ah v'kamachla) that the prose of 'Unilateral vs. Mutual' explicitly discusses and explains.",
+      "chosen_heading": "Unilateral vs. Mutual",
+      "current_heading": "Unilateral vs. Mutual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Sister of Rami: Lost Doc",
+    "candidates": [
+      "Sister of Rami: Lost Doc",
+      "Rav Yosef's Citation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the sister of Rami bar \u1e24ama being married to Rav Avya, which is exactly what heading 0's prose discusses as the opening of that practical case.",
+      "chosen_heading": "Sister of Rami: Lost Doc",
+      "current_heading": "Sister of Rami: Lost Doc",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Yosef's Citation",
+    "candidates": [
+      "Rav Yosef's Citation",
+      "Sages: No Rush",
+      "Abaye: Rule Like R. Meir",
+      "Modern Practice",
+      "Rav Dimi: Debate Techilla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange before Rav Yosef \u2014 the lost ketubah case, Rav Yehuda/Shmuel citing Rabbi Meir, the Rabbis' lenient view, and Abaye's interjection \u2014 all of which are explicitly covered in candidate 0's prose.",
+      "chosen_heading": "Rav Yosef's Citation",
+      "current_heading": "Rav Yosef's Citation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Rav Dimi: Debate Techilla",
+    "candidates": [
+      "Sages: No Rush",
+      "Abaye: Rule Like R. Meir",
+      "Modern Practice",
+      "Rav Dimi: Debate Techilla",
+      "R. Yochanan: Both Cases",
+      "R. Abbahu: Harmonization",
+      "Ravin: Debate Sof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Dimi: Debate Techilla",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Dimi's version of the tradition including Rabbi Yehoshua ben Levi's 'beginning/end' positions and Rabbi Abbahu's harmonization, which matches headings 3-5 (Rav Dimi, R. Yochanan, R. Abbahu) \u2014 but since all three headings' prose is about the Rav Dimi version and the passage is currently under heading 3, the best single home for items 1-2 is heading 5 (R. Abbahu: Harmonization) whose prose most fully describes the content of both items together.",
+      "second_heading": "Ravin: Debate Sof",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Ravin's version of the same tradition with inverted positions, which matches heading 6 ('Ravin: Debate Sof') exactly.",
+      "current_heading": "Rav Dimi: Debate Techilla",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Ravin: Debate Sof",
+    "candidates": [
+      "R. Yochanan: Both Cases",
+      "R. Abbahu: Harmonization",
+      "Ravin: Debate Sof",
+      "Rav Pappa: Sevara Best"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's statement about what he would have said had Rabbi Abbahu not clarified \u2014 exactly the content described in the 'Rav Pappa: Sevara Best' prose, which discusses how Rav Pappa would have preferred to collapse the Rav Dimi/Ravin dispute (sof chuppah = techillas biah) rather than the Yochanan/Yehoshua ben Levi dispute.",
+      "chosen_heading": "Rav Pappa: Sevara Best",
+      "current_heading": "Ravin: Debate Sof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rav Pappa: Sevara Best",
+    "candidates": [
+      "Rav Pappa: Sevara Best",
+      "Mishnah: 12 vs. 30 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about Rav Pappa's methodological principle (d'pligi trei amorai ta'ama d'nafshaihu), which is precisely what the 'Rav Pappa: Sevara Best' prose discusses.",
+      "chosen_heading": "Rav Pappa: Sevara Best",
+      "current_heading": "Rav Pappa: Sevara Best",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Mishnah: 12 vs. 30 Days",
+    "candidates": [
+      "Mishnah: 12 vs. 30 Days",
+      "Support Begins",
+      "Terumah Eligibility",
+      "Terumah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself covering the twelve-month/thirty-day waiting periods and the onset of support and terumah eligibility, which is precisely what the 'Mishnah: 12 vs. 30 Days' section's prose summarizes in full.",
+      "chosen_heading": "Mishnah: 12 vs. 30 Days",
+      "current_heading": "Mishnah: 12 vs. 30 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Terumah Dispute",
+    "candidates": [
+      "Support Begins",
+      "Terumah Eligibility",
+      "Terumah Dispute",
+      "Yavam Exception",
+      "Split Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the Tarfon/Akiva dispute about teruma proportions, which matches the 'Terumah Dispute' section's prose discussing exactly this disagreement and its reasoning.",
+      "chosen_heading": "Terumah Dispute",
+      "current_heading": "Terumah Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Split Service",
+    "candidates": [
+      "Yavam Exception",
+      "Split Service",
+      "Original Teaching",
+      "Later Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly covers the split-service scenarios (six months under husband, six months under yavam, and the edge cases with one day), which is precisely what the 'Split Service' section's prose describes.",
+      "chosen_heading": "Split Service",
+      "current_heading": "Split Service",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Later Restriction",
+    "candidates": [
+      "Original Teaching",
+      "Later Restriction",
+      "Ketanah: Can Postpone",
+      "Father's Right Question",
+      "Father's Concern Logic"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Father's Concern Logic",
+    "candidates": [
+      "Ketanah: Can Postpone",
+      "Father's Right Question",
+      "Father's Concern Logic",
+      "R. Abba: No Nissuin",
+      "Psychological Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the baraisa about the minor's and father's right to delay (matching heading 0's prose) AND the Gemara's question and answer about the father's rationale \u2014 all of this flows as one continuous sugya that heading 0's prose explicitly introduces and previews, making it the natural home for the entire passage rather than splitting it across headings 1 and 2.",
+      "chosen_heading": "Ketanah: Can Postpone",
+      "current_heading": "Father's Concern Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Psychological Concern",
+    "candidates": [
+      "R. Abba: No Nissuin",
+      "Psychological Concern",
+      "Rav Huna: 30 Days",
+      "Baraisa: 12 Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Abba bar Levi's ruling (no nissu'in while a ketannah, but permissible to arrange for when she grows up) AND the Gemara's follow-up question and answer about the psychological concern \u2014 both components are discussed together in candidate 0's prose, which covers the full statement including the chiddush, whereas candidate 1 ('Psychological Concern') only covers the Q&A portion and the passage as a whole belongs under the heading that introduces Rabbi Abba bar Levi's ruling.",
+      "chosen_heading": "R. Abba: No Nissuin",
+      "current_heading": "Psychological Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Baraisa: 12 Months",
+    "candidates": [
+      "Rav Huna: 30 Days",
+      "Baraisa: 12 Months",
+      "Rav Pappa Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous chain of challenges to Rav Huna's 30-day ruling \u2014 the baraita about bogeret k'tavu'ah, the mishna about bogeret sheshahata 12 months, and the final baraita that explicitly refutes Rav Huna \u2014 exactly matching the 'Baraisa: 12 Months' prose which describes all three objections and concludes with tyuvta d'Rav Huna tyuvta.",
+      "chosen_heading": "Baraisa: 12 Months",
+      "current_heading": "Baraisa: 12 Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Rav Pappa Resolution",
+    "candidates": [
+      "Rav Pappa Resolution",
+      "Tosafot Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Pappa's resolution about a grown woman who has been an adult for twelve months before betrothal receiving thirty days, which is precisely what the 'Rav Pappa Resolution' prose describes.",
+      "chosen_heading": "Rav Pappa Resolution",
+      "current_heading": "Rav Pappa Resolution",
+      "moved": false
+    }
+  }
+]

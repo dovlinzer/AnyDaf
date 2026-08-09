@@ -34,8 +34,8 @@
           "timestamp": "05:43"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Multiple Oaths and Multiple Claims: Scenarios Determining Separate Korbans",
@@ -63,7 +63,7 @@
           "timestamp": "12:51"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 25,
       "matched": false
     },
     {
@@ -213,7 +213,7 @@
           "timestamp": "50:49"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -875,5 +875,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "45:51",
+  "amud_b_micro_title": "Two Witness Sets",
+  "shiur_start_daf": 36,
+  "shiur_start_amud": "b"
 }

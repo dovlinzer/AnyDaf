@@ -29,8 +29,8 @@
           "timestamp": "04:28"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Pardes Story: Four Who Entered the Heavenly Garden",
@@ -107,7 +107,7 @@
           "timestamp": "22:30"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -505,5 +505,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "46:37",
+  "amud_b_micro_title": "Thirteen Synagogues",
+  "shiur_start_daf": 14,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,342 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Achot Zekukato Test",
+    "candidates": [
+      "Opening & Reframing",
+      "Mishnah Setup",
+      "Beit Shammai View",
+      "Rabbi Elazar",
+      "Achot Zekukato Test",
+      "Ma'amar DeHeteira",
+      "Rav Ashi Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 Rabbi Elazar's qualification (item 1), Rabbi Avin's proof from the mishna (item 2), the objection about kinyan gamur allowing an ab initio solution (item 3), the counter-objection about dichiya gemura (item 4), and the resolution via ma'amar de-heteira/de-issura (item 5) \u2014 exactly matching the 'Achot Zekukato Test' prose which describes Rav Avin's proof, the kinyan gamur vs. dichiya gemura symmetry objection, and the gemara's pushback, all of which is the content of these items.",
+      "chosen_heading": "Achot Zekukato Test",
+      "current_heading": "Achot Zekukato Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Ashi Reading",
+    "candidates": [
+      "Ma'amar DeHeteira",
+      "Rav Ashi Reading",
+      "Rejection of Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's teaching that ma'amar is 'docheh u-meshayer' (precludes but leaves a remnant), which is precisely what the 'Rav Ashi Reading' prose describes as Rav Ashi's third reading reducing ma'amar's power.",
+      "chosen_heading": "Rav Ashi Reading",
+      "current_heading": "Rav Ashi Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rejection of Rav Ashi",
+    "candidates": [
+      "Rejection of Rav Ashi",
+      "Yerushalmi Source",
+      "Nisuin Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong to the 'Rejection of Rav Ashi' section: Item 1 presents Rabbi Avin's proof from the mishna that ma'amar is not a complete preclusion (dichiya gemura) and raises the challenge from the mishna's language about the sister of his wife, and Item 2 states the resolution principle (yevamah de-chazya le-kulhu / de-lo chazya) \u2014 exactly the content described in that section's prose.",
+      "chosen_heading": "Rejection of Rav Ashi",
+      "current_heading": "Rejection of Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Nisuin Question",
+    "candidates": [
+      "Yerushalmi Source",
+      "Nisuin Question",
+      "Abaye Response",
+      "Arusah vs Nesuah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's question about whether ma'amar effects nissu'in or erusin according to Beit Shammai, followed by Abaye's initial 'le-mai hilcheta' challenge \u2014 this is precisely what the 'Nisuin Question' section's prose describes.",
+      "chosen_heading": "Nisuin Question",
+      "current_heading": "Nisuin Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Arusah vs Nesuah",
+    "candidates": [
+      "Abaye Response",
+      "Arusah vs Nesuah",
+      "Rava's Logic",
+      "Mesirah LeChuppah",
+      "Sex as Chuppah",
+      "Coercive Yibum",
+      "Rabba's Track Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Arusah vs Nesuah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 together form the gemara's challenge and reframing of Rabba's question \u2014 item 1 raises the objection from Rabbi Chiyya's baraita about arusah rights (inheritance, tum'ah, vow annulment), and item 2 pivots to the real question about mesirah le-chuppah \u2014 both fitting under 'Arusah vs Nesuah' and leading into 'Mesirah LeChuppah'.",
+      "second_heading": "Sex as Chuppah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's response that yibum works even al korcha without chuppah, which directly matches the 'Sex as Chuppah' / 'Coercive Yibum' discussion, but fits best under 'Sex as Chuppah' (index 4) as it addresses what the act of yibum itself accomplishes regarding nissu'in without requiring mesirah le-chuppah.",
+      "current_heading": "Arusah vs Nesuah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rabba's Track Theory",
+    "candidates": [
+      "Rava's Logic",
+      "Mesirah LeChuppah",
+      "Sex as Chuppah",
+      "Coercive Yibum",
+      "Rabba's Track Theory",
+      "Shomer Yavam",
+      "Vow Annulment Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's theory that ma'amar causes the yibum bond to fly away and replaces it with a betrothal bond, which is precisely what the 'Rabba's Track Theory' section describes.",
+      "chosen_heading": "Rabba's Track Theory",
+      "current_heading": "Rabba's Track Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Vow Annulment Views",
+    "candidates": [
+      "Shomer Yavam",
+      "Vow Annulment Views",
+      "Annulment Problem",
+      "Rav Ami Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the mishnah about shomeret yavam and the initial analysis of the three opinions (Eliezer, Yehoshua, Akiva) in terms of zika \u2014 exactly what heading 0's prose describes as introducing the mishnah and its scenario, before the deeper difficulty with Rabbi Eliezer is taken up under heading 2.",
+      "chosen_heading": "Shomer Yavam",
+      "current_heading": "Vow Annulment Views",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Rav Ami Solution",
+    "candidates": [
+      "Annulment Problem",
+      "Rav Ami Solution",
+      "Rav Nachman Clarification",
+      "Implicit Stipulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Ami's ma'amar/Beit Shammai resolution, the nissu'in vs. erusin question about vow annulment, and Rabbi Elazar's objection about kinyan lidchos batzara \u2014 are exactly the content described in the 'Rav Ami Solution' prose, which explicitly covers Rabbi Ami's reframing, the i amarta bishlama nissu'in question, and the complication from Rabbi Eliezer's view that ma'amar is not kinyan gamur.",
+      "chosen_heading": "Rav Ami Solution",
+      "current_heading": "Rav Ami Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Implicit Stipulation",
+    "candidates": [
+      "Rav Nachman Clarification",
+      "Implicit Stipulation",
+      "Case 1: Reuven Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Elazar's alternative resolution involving the court-ordered support arrangement and Rav Pinchas/Rava's principle of implicit stipulation \u2014 are precisely what candidate 1 ('Implicit Stipulation') describes in its prose, making the current placement correct.",
+      "chosen_heading": "Implicit Stipulation",
+      "current_heading": "Implicit Stipulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Case 1: Reuven Dies",
+    "candidates": [
+      "Case 1: Reuven Dies",
+      "Case 1 Ma'amar",
+      "No Zika Principle",
+      "Case 2: Levi Dies",
+      "Case 2 Ma'amar",
+      "Redundancy Question",
+      "Pedagogical Order"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "No Zika Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna and Gemara for Case 1 (Reuven dies, Levi performs yibum/ma'amar) and the No Zika inference, matching candidates 0-2 which cover Case 1, Case 1 Ma'amar, and the No Zika Principle.",
+      "second_heading": "Case 2: Levi Dies",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 constitute a new, self-contained Mishna (Case 2: Levi dies first) followed by its Gemara discussing redundancy and pedagogical order, matching candidates 3-6.",
+      "current_heading": "Case 1: Reuven Dies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Pedagogical Order",
+    "candidates": [
+      "Case 1 Ma'amar",
+      "No Zika Principle",
+      "Case 2: Levi Dies",
+      "Case 2 Ma'amar",
+      "Redundancy Question",
+      "Pedagogical Order",
+      "Case 3: Changed Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explains why the second mishna was taught first (because it was a beloved chiddush) and why it wasn't removed despite redundancy (mishnah lo zaz mi-mekoma), which is exactly the compositional/pedagogical history discussed in the 'Pedagogical Order' section.",
+      "chosen_heading": "Pedagogical Order",
+      "current_heading": "Pedagogical Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Case 3: Changed Status",
+    "candidates": [
+      "Case 3: Changed Status",
+      "Rav's Rule",
+      "Why Different"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Case 3: Changed Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the three-brothers/two-sisters case that Case 3 prose explicitly describes and analyzes, including the 'forbidden to him forever since she was forbidden at one time' ruling.",
+      "second_heading": "Rav's Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara presenting Rav Yehuda's rule and the objection/answer about it, which is precisely what the 'Rav's Rule' prose section discusses \u2014 the principle that a yevamah ineligible at the moment of nefilah becomes like eshet ach she-yesh lah banim.",
+      "current_heading": "Case 3: Changed Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Why Different",
+    "candidates": [
+      "Rav's Rule",
+      "Why Different",
+      "Multiple Brothers",
+      "Dual Status",
+      "Divorce Setup",
+      "Leah Freed",
+      "Dvorah Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes a mishna about two brothers married to two sisters where a temporary prohibition becomes permanent \u2014 this is precisely the textual support for Rav's Rule ('since she was forbidden to him at one time'), which the prose of heading 0 explicitly discusses as the governing principle of permanent prohibition stemming from the sha'at nefilah.",
+      "chosen_heading": "Rav's Rule",
+      "current_heading": "Why Different",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Dvorah Permitted",
+    "candidates": [
+      "Multiple Brothers",
+      "Dual Status",
+      "Divorce Setup",
+      "Leah Freed",
+      "Dvorah Permitted",
+      "Final Teaching"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Multiple Brothers",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's answer about why Rav's ruling applies even when the yevamah was not completely precluded from the household \u2014 precisely the 'lo idchi lah me-hai beita le-gamrei' argument that candidate 0's prose explicitly discusses.",
+      "second_heading": "Divorce Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna of an entirely new case involving divorce (Shimon divorces his wife), which is the 'Divorce Setup' scenario candidate 2's prose describes as introducing divorce in place of death with the same three-brother structure.",
+      "current_heading": "Dvorah Permitted",
+      "moved": true
+    }
+  }
+]

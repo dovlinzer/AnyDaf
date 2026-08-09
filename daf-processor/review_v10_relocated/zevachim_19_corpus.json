@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Bandaging on Shabbat",
+    "candidates": [
+      "Invalid Service",
+      "Bandaging on Shabbat",
+      "Extra Garments Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes a kohen wrapping a finger wound with a reed on Shabbat, permitted in the Temple but not outside, and forbidden if intending to draw blood \u2014 exactly the content discussed in the 'Bandaging on Shabbat' prose.",
+      "chosen_heading": "Bandaging on Shabbat",
+      "current_heading": "Bandaging on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Extra Garments Debate",
+    "candidates": [
+      "Extra Garments Debate",
+      "Single Thread Issue",
+      "Three-by-Three Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute between Rabbi Yehuda son of Rabbi \u1e24iyya and Rabbi Yo\u1e25anan about yitur begadim and the subsequent challenge/resolution regarding chatzitza, which is precisely what the 'Extra Garments Debate' prose describes in detail.",
+      "chosen_heading": "Extra Garments Debate",
+      "current_heading": "Extra Garments Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Three-by-Three Rule",
+    "candidates": [
+      "Single Thread Issue",
+      "Three-by-Three Rule",
+      "Reconciling Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rava's disagreement with Rabbi Yochanan and then raise the question of whether Rava also disagrees with Rabbi Yehuda son of Rabbi Chiya \u2014 which is precisely the content the 'Reconciling Positions' prose discusses as its opening move.",
+      "chosen_heading": "Reconciling Positions",
+      "current_heading": "Three-by-Three Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Reconciling Positions",
+    "candidates": [
+      "Three-by-Three Rule",
+      "Reconciling Positions",
+      "Air Gaps & Normal Wear",
+      "Lice Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with the reconciliation of Rava's position with Rabbi Yehuda son of Rabbi \u1e24iyya (via the tziltzul katan distinction), the lishana acharina presenting Rabbi Yo\u1e25anan's version, and the concluding question about why the Mishnah used gemi rather than tziltzul \u2014 all of which are explicitly discussed in the 'Reconciling Positions' prose.",
+      "chosen_heading": "Reconciling Positions",
+      "current_heading": "Reconciling Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Lice Status",
+    "candidates": [
+      "Air Gaps & Normal Wear",
+      "Lice Status",
+      "Hair as Barrier"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items (wind gap, louse, dust, armpit) are the series of Rava's open dilemmas about chatzitza that candidate 0 ('Air Gaps & Normal Wear') introduces, and candidate 1's prose itself describes these same items as follow-on questions that belong with the wind-gap discussion \u2014 meaning the entire passage belongs under heading 0, not under the current 'Lice Status' heading.",
+      "chosen_heading": "Air Gaps & Normal Wear",
+      "current_heading": "Lice Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Hair as Barrier",
+    "candidates": [
+      "Lice Status",
+      "Hair as Barrier",
+      "Tefillin Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about inserting one's hand into the chest/vestments ('hichnis yado letoch cheiko') is explicitly referenced in the Hair as Barrier section's prose as a comparison case to the hair question, confirming this is its correct placement.",
+      "chosen_heading": "Hair as Barrier",
+      "current_heading": "Hair as Barrier",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Tefillin Issues",
+    "candidates": [
+      "Tefillin Issues",
+      "Mechusar Kippurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items discuss the tefillin interposition question (chatzitza), including the thread/hair dilemmas, Rabbi Zeira's dilemma, Rabbi Ami's ruling, the baraita objections, and the shel yad vs. shel rosh distinction \u2014 all of which are explicitly covered in the 'Tefillin Issues' prose.",
+      "chosen_heading": "Tefillin Issues",
+      "current_heading": "Tefillin Issues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Mechusar Kippurim",
+    "candidates": [
+      "Mechusar Kippurim",
+      "Morning Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses mechusar kippurim and Rav Huna's derivation from Leviticus 12:8, which matches exactly the prose under heading 0.",
+      "chosen_heading": "Mechusar Kippurim",
+      "current_heading": "Mechusar Kippurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Morning Washing",
+    "candidates": [
+      "Morning Washing",
+      "Teaching Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the invalidation of rites when hands and feet are unwashed, derived via gezeira shava from 'chukah'/'chukah', which is precisely what the 'Morning Washing' prose describes.",
+      "chosen_heading": "Morning Washing",
+      "current_heading": "Morning Washing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Teaching Overview",
+    "candidates": [
+      "Teaching Overview",
+      "Rabbi Yochanan's Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Teaching Overview",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita itself, which candidate 0's prose explicitly quotes and explains in full detail as the source text under discussion.",
+      "second_heading": "Rabbi Yochanan's Drasha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Asi's question to Rabbi Yochanan about why the five immersions and ten sanctifications don't invalidate, which is precisely the question that candidate 1's prose opens with and elaborates upon.",
+      "current_heading": "Teaching Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rabbi Yochanan's Drasha",
+    "candidates": [
+      "Rabbi Yochanan's Drasha",
+      "Chizkiyah's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yo\u1e25anan's drasha on 'velavasham' and the subsequent exchange where Rav Asi's face lit up followed by Rabbi Yo\u1e25anan's self-refutation ('vav aufsa') \u2014 are explicitly described and discussed in the prose of heading 0, 'Rabbi Yochanan's Drasha.'",
+      "chosen_heading": "Rabbi Yochanan's Drasha",
+      "current_heading": "Rabbi Yochanan's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Chizkiyah's Drasha",
+    "candidates": [
+      "Chizkiyah's Drasha",
+      "Rabbi Yonatan's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Chizkiyah's drasha from Exodus 30:21 deriving that only washings indispensable for priests invalidate the High Priest's service, which is precisely what heading 0 ('Chizkiyah's Drasha') discusses.",
+      "chosen_heading": "Chizkiyah's Drasha",
+      "current_heading": "Chizkiyah's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Rabbi Yonatan's Drasha",
+    "candidates": [
+      "Rabbi Yonatan's Drasha",
+      "Washing Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the exact content described in candidate 0's prose: Rabbi Yonatan's derivation from the Basin verse, the question of why he didn't use \u1e24izkiyya's verse, and the counter-question of why \u1e24izkiyya didn't use Rabbi Yonatan's verse (needing it for Rabbi Yosei b. Rabbi \u1e24anina's ruling about four priests).",
+      "chosen_heading": "Rabbi Yonatan's Drasha",
+      "current_heading": "Rabbi Yonatan's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Washing Methods",
+    "candidates": [
+      "Washing Methods",
+      "Standing Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the method of sanctification (placing hands on feet), Rabbi Yosei's alternative posture, Rav Yosef's resolution about a supporting priest, and Abaye's clarification about supported standing \u2014 exactly matching the 'Washing Methods' prose description.",
+      "chosen_heading": "Washing Methods",
+      "current_heading": "Washing Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Standing Requirement",
+    "candidates": [
+      "Standing Requirement",
+      "Night-to-Day Work",
+      "Rabbi vs. Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why sanctification must be performed while standing, citing the verse about ministration and the principle that sherut is performed standing \u2014 exactly the content described in the 'Standing Requirement' prose.",
+      "chosen_heading": "Standing Requirement",
+      "current_heading": "Standing Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Rabbi vs. Rabbi Elazar",
+    "candidates": [
+      "Night-to-Day Work",
+      "Rabbi vs. Rabbi Elazar",
+      "Textual Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the Rabbi vs. Rabbi Elazar dispute and the Gemara's explanation of why both baraitot are necessary, which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Rabbi vs. Rabbi Elazar",
+      "current_heading": "Rabbi vs. Rabbi Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Textual Basis",
+    "candidates": [
+      "Textual Basis",
+      "Garment Change Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's textual back-and-forth explaining the derivations of Rabbi Yehuda HaNasi (bigishtam) and Rabbi Elazar b. Rabbi Shimon (bevo'am), which is exactly what the 'Textual Basis' prose describes.",
+      "chosen_heading": "Textual Basis",
+      "current_heading": "Textual Basis",
+      "moved": false
+    }
+  }
+]

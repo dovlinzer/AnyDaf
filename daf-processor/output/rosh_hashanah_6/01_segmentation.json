@@ -34,7 +34,7 @@
           "timestamp": "06:22"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -48,8 +48,8 @@
           "timestamp": "14:48"
         }
       ],
-      "sefaria_index": 2,
-      "matched": false
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Extension of Bal Te'acher Beyond Korbanot: Tzedakah, Bedek Habayit, and Other Obligations",
@@ -62,7 +62,7 @@
           "timestamp": "16:58"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 4,
       "matched": false
     },
     {
@@ -81,7 +81,7 @@
           "timestamp": "31:13"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -96,7 +96,7 @@
         }
       ],
       "sefaria_index": 13,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rava's Multiple Formulations on the Severity and Scope of Bal Te'acher",
@@ -142,8 +142,8 @@
           "timestamp": "44:46"
         }
       ],
-      "sefaria_index": 13,
-      "matched": false
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rava's Multiple Formulations on the Severity and Scope of Bal Te'acher (continued)",
@@ -156,7 +156,7 @@
           "timestamp": "45:27"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -569,5 +569,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "41:40",
+  "amud_b_micro_title": "Rava II: One Regel",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,373 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Sister case intro",
+    "candidates": [
+      "Case setup",
+      "Rav's ruling",
+      "Shmuel's ruling",
+      "Debate foundation",
+      "Rav's logic",
+      "Shmuel's logic",
+      "Sister case intro",
+      "Why both cases needed",
+      "Difference in recipients"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel's ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's and Shmuel's rulings in the stolen-field case, matching candidates 1\u20132 (the rulings themselves), and most precisely candidate 2 since Shmuel's ruling closes item 1 \u2014 but taken together items 1 covers both rulings, so the best single home for item 1 alone is candidate 2 'Shmuel's ruling' which is where the passage ends.",
+      "second_heading": "Debate foundation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's *bemai kamiflagi* question asking what underlies the Rav\u2013Shmuel dispute, which is precisely what candidate 3 'Debate foundation' describes in its prose.",
+      "current_heading": "Sister case intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Difference in recipients",
+    "candidates": [
+      "Why both cases needed",
+      "Difference in recipients",
+      "Harvesting problem"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Harvesting problem",
+    "candidates": [
+      "Harvesting problem",
+      "Resolution offered",
+      "Money status timing",
+      "First protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer pair about how Michael justifies entering and using the field, which is precisely what the 'Harvesting problem' prose describes \u2014 the challenge of *hai le-ara bemai ka nachis* and Rashi's suggestion about Michael's belief \u2014 making the current placement correct.",
+      "chosen_heading": "Harvesting problem",
+      "current_heading": "Harvesting problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "First protection",
+    "candidates": [
+      "Resolution offered",
+      "Money status timing",
+      "First protection",
+      "Second protection",
+      "Lien presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling that covers both the standard case (money + shevach, even without explicit guarantee) and the hikir case (money only), which is precisely what the 'First protection' prose describes as the first ruling delivered by the Gemara.",
+      "chosen_heading": "First protection",
+      "current_heading": "First protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Lien presumption",
+    "candidates": [
+      "Second protection",
+      "Lien presumption",
+      "Complete protection",
+      "Case posed",
+      "Rav's answer",
+      "Ganav reasoning",
+      "Trustworthiness reasoning",
+      "Multiple sales",
+      "Inheritance case",
+      "Debt collection",
+      "Specific choice",
+      "Only option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that omission of achrayut (guarantee/lien) is a scribal error applying to both loan documents and sale documents, which is precisely what the 'Lien presumption' section's prose describes.",
+      "chosen_heading": "Lien presumption",
+      "current_heading": "Lien presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Only option",
+    "candidates": [
+      "Complete protection",
+      "Case posed",
+      "Rav's answer",
+      "Ganav reasoning",
+      "Trustworthiness reasoning",
+      "Multiple sales",
+      "Inheritance case",
+      "Debt collection",
+      "Specific choice",
+      "Only option",
+      "Gift status",
+      "Gift like inheritance",
+      "Gift like sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous discussion of the *mai ta'ama* question \u2014 Mar Zutra's 'not be called a gazlan' vs. Rav Ashi's 'maintain his reliability' \u2014 including the *mai beineihu* dialectic, exactly what candidate 3 ('Ganav reasoning') introduces and candidate 4 ('Trustworthiness reasoning') elaborates, but the entire passage from item 1 onward (Shmuel's question to Rav, the answer, and then the full *mai ta'ama* dispute with all its edge cases) belongs together starting from where Shmuel's question is first posed, which is candidate 3's section that opens the *mai ta'ama* discussion \u2014 however, since item 1 is Shmuel's original question and Rav's answer (the 'kol zechus' ruling), which candidate 2 ('Rav's answer') describes, and items 2-8 are the *mai ta'ama* elaboration, the single best fit for the whole passage as one unit is candidate 3 ('Ganaz reasoning') which is where the *mai ta'ama* discussion begins and which the essay's prose for that section summarizes both Mar Zutra and Rav Ashi plus the beineihu analysis \u2014 matching all 8 items.",
+      "chosen_heading": "Ganav reasoning",
+      "current_heading": "Only option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Gift like sale",
+    "candidates": [
+      "Gift status",
+      "Gift like inheritance",
+      "Gift like sale",
+      "Rav Huna",
+      "Court proceedings",
+      "Rav Papa",
+      "Challenge posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the scenarios (sale, bequest, gift, inheritance, debt collection, the Rav A\u1e25a/Ravina gift dispute, and the time limits of Rav Huna/\u1e24iyya bar Rav/Rav Pappa) that together form the complete discussion of when a robber's acquisition validates the original sale, and candidate 0 ('Gift status') is the opening heading of this entire block \u2014 the current placement under 'Gift like sale' splits the passage mid-topic, whereas the passage as a whole begins before the gift question and should sit under the heading that introduces the broader set of scenarios leading into the gift case.",
+      "chosen_heading": "Gift status",
+      "current_heading": "Gift like sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Challenge posed",
+    "candidates": [
+      "Rav Huna",
+      "Court proceedings",
+      "Rav Papa",
+      "Challenge posed",
+      "Rava's answer",
+      "Trust paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's objection that the deed is merely a worthless shard ('chaspa be-alma'), which is precisely the challenge described in the 'Challenge posed' section's prose.",
+      "chosen_heading": "Challenge posed",
+      "current_heading": "Challenge posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Trust paradox",
+    "candidates": [
+      "Rava's answer",
+      "Trust paradox",
+      "Futures cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct answer explaining the 'trusts him' principle (tehei be-ma'amino), which is precisely what candidate 0 'Rava's answer' discusses, not the 'Trust paradox' section which is analytical commentary built on top of that answer.",
+      "chosen_heading": "Rava's answer",
+      "current_heading": "Trust paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Futures cases",
+    "candidates": [
+      "Trust paradox",
+      "Futures cases",
+      "Opinions differ"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Futures cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rav Sheshes's objection and Rami bar Chama's praise of it) match the 'Futures cases' prose which explicitly discusses the inheritance/net-catch baraita and Rav Sheshes's challenge.",
+      "second_heading": "Opinions differ",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rava's response distinguishing the cases by 'samcha da'ato') matches the 'Opinions differ' prose which quotes Rava's 'gavra kachazeina, tiyufta lo kachazeina' and his disagreement with Rami bar Chama.",
+      "current_heading": "Futures cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Opinions differ",
+    "candidates": [
+      "Futures cases",
+      "Opinions differ",
+      "Urgency exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Abba bar Zavda's evaluation and Rava's disagreement about whether the objection needs investigation, which is precisely what the 'Opinions differ' prose section discusses.",
+      "chosen_heading": "Opinions differ",
+      "current_heading": "Opinions differ",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Urgency exception",
+    "candidates": [
+      "Urgency exception",
+      "Unspecified field"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Urgency exception",
+      "current_heading": "Urgency exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Unspecified field",
+    "candidates": [
+      "Unspecified field",
+      "Rava's refinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Huna citing Rav's ruling about an unspecified field ('sadeh she-ani loke'ach'), which is exactly what the prose under heading 0 introduces and explains.",
+      "chosen_heading": "Unspecified field",
+      "current_heading": "Unspecified field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Rava's refinement",
+    "candidates": [
+      "Rava's refinement",
+      "Rabbi Meir view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's exact statement distinguishing between an unspecified field and a specific field, which is precisely what the prose under 'Rava's refinement' describes and analyzes.",
+      "chosen_heading": "Rava's refinement",
+      "current_heading": "Rava's refinement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Rabbi Meir view",
+    "candidates": [
+      "Rabbi Meir view",
+      "Betrothal proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection of Rava's limitation and Rav's alignment with Rabbi Meir, which is exactly what the 'Rabbi Meir view' prose section describes.",
+      "chosen_heading": "Rabbi Meir view",
+      "current_heading": "Rabbi Meir view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Betrothal proofs",
+    "candidates": [
+      "Betrothal proofs",
+      "Rambam synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the baraita and Rabbi Meir's position on conditional betrothal that candidate 0's prose explicitly discusses, including the 'behai isha ke-sadeh zu damya' analogy mentioned in item 3.",
+      "chosen_heading": "Betrothal proofs",
+      "current_heading": "Betrothal proofs",
+      "moved": false
+    }
+  }
+]

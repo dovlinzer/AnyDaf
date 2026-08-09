@@ -46,13 +46,7 @@ The principle Tosafot articulates is: *dekapid kra sheyavi korbanot neziroot bet
 
 ### Tosafot Clarification
 
-This leads naturally to a clarification of what Rabbi Eliezer actually means when he says *soter et hakol*. The phrase sounds sweeping — it destroys everything — but we already know from an earlier *mishnah* that Rabbi Eliezer ruled that *tumah* after the full thirty days of *nezirut* requires only seven additional days, not the full thirty. So *soteret hakol* cannot literally mean all the days.
-
-Tosafot makes this explicit in his very first comment here: *v'nitma Rabbi Eliezer omer soter hakol v'lo kol hayamim k'mforesh ba-Gemara d'Rabbi Eliezer hu d'amar l'eil nitma l'achar milo soter zayin ela soter korbanot kama* — Rabbi Eliezer says it destroys everything, but not all the days, as the *Gemara* clarifies; Rabbi Eliezer is the same one who said earlier that becoming *tamei* after the full thirty days requires only seven additional days. What is destroyed is not the count of days but the *korbanot* — the prior *korbanot* are nullified, and any subsequent *korbanot* are also invalid until the *nazir* properly completes his *nezirut*.
-
-The context of the *mishnayot* throughout this section has been precisely this: whether the *korbanot* already brought remain valid or are destroyed. This is the *machloket* between Rabbi Eliezer and the *chachamim*, and the relationship to the number of days is secondary — a natural consequence of whether the *nezirut* itself was complete, but not the primary focus.
-
----
+Tosafot, in his very first comment, makes this explicit: *v'nitma Rabbi Eliezer omer soter hakol v'lo kol hayamim k'mforesh ba-Gemara d'Rabbi Eliezer hu d'amar l'eil nitma l'achar milo soter zayin ela soter korbanot kama* — Rabbi Eliezer says *soter hakol*, but not all the days, as the *Gemara* clarifies; what is destroyed is specifically the *korbanot*. And that is indeed the context of these *mishnayot* — the very question that arose the day before regarding shaving and the first *korban* not being valid. The dispute between Rabbi Eliezer and the *chachamim* concerns whether the *korbanot* brought previously remain good or are nullified: Rabbi Eliezer holds that *tumah* before *nezirut* is complete invalidates both the prior *korban* and any subsequent ones, while the *chachamim* hold that the *korban* already brought stands, the *tumah* does not undermine the *nezirut*, and after becoming *tahor* the *nazir* may complete the remaining *korbanot*. The primary focus is thus the *korbanot*, not the days — though naturally the two are related.
 
 ## Miriam from Tarmod Story
 

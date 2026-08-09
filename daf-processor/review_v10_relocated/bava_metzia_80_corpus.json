@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Threshing Cases",
+    "candidates": [
+      "Mishnah Setup",
+      "Kankan & Workers",
+      "Easier Place - Exempt",
+      "Harder Place - Liable",
+      "Threshing Cases",
+      "Who Pays?",
+      "Rav Papa",
+      "Rav Sheshet",
+      "Halacha Decision",
+      "Tosafot Challenge",
+      "Tosafot Resolution",
+      "Rocky Place Case",
+      "Mutual Watchfulness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishna passage covers both the plowing cases (mountain/valley) and the threshing cases in full, making it a complete mishnaic unit that belongs under the 'Mishnah Setup' heading which introduces the entire mishnah, rather than being split and placed only under 'Threshing Cases.'",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Threshing Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Mutual Watchfulness",
+    "candidates": [
+      "Who Pays?",
+      "Rav Papa",
+      "Rav Sheshet",
+      "Halacha Decision",
+      "Tosafot Challenge",
+      "Tosafot Resolution",
+      "Rocky Place Case",
+      "Mutual Watchfulness",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire Gemara discussion \u2014 the initial question of who pays when no deviation occurred, Rav Pappa's opinion, Rav Sheisha's opinion, the halacha ruling, and the rocky-place case \u2014 all of which are introduced under heading 0 ('Who Pays?') which frames this exact question and its resolution.",
+      "chosen_heading": "Who Pays?",
+      "current_heading": "Mutual Watchfulness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Mutual Watchfulness",
+      "Rabbi Yochanan",
+      "Mekach Taut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yochanan's ruling about the cow and the parallel baraita about the maidservant \u2014 are the core Talmudic texts that the 'Rabbi Yochanan' section's prose explicitly introduces and explains, covering the scenario of inserting a real defect among fictitious ones.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Mekach Taut",
+    "candidates": [
+      "Mekach Taut",
+      "Single Defect",
+      "Slave Woman",
+      "All Defects",
+      "Verification",
+      "Wheat/Barley"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question posed by Rav Acha son of Rava about what happens if the animal had all the listed defects, which is precisely what candidate 3 ('All Defects') describes in its prose.",
+      "chosen_heading": "All Defects",
+      "current_heading": "Mekach Taut",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Wheat/Barley",
+    "candidates": [
+      "Single Defect",
+      "Slave Woman",
+      "All Defects",
+      "Verification",
+      "Wheat/Barley",
+      "Volume = Weight",
+      "One-Thirtieth Rule",
+      "Abaye vs. Rava",
+      "When Volume Violates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing the donkey rental cases (wheat vs. barley, grain vs. straw, letekh measurements, and Sumakhos's overage rule), which is exactly what the 'Wheat/Barley' section's prose describes and analyzes.",
+      "chosen_heading": "Wheat/Barley",
+      "current_heading": "Wheat/Barley",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "When Volume Violates",
+    "candidates": [
+      "Volume = Weight",
+      "One-Thirtieth Rule",
+      "Abaye vs. Rava",
+      "When Volume Violates",
+      "Lighter Goods",
+      "Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items constitute the Gemara's testing of Abaye vs. Rava's positions against the mishnah cases (letach wheat/barley, the se'ah vs. three-kav question, and the sixteen se'ah baraita), which is precisely what the 'When Volume Violates' prose describes.",
+      "chosen_heading": "When Volume Violates",
+      "current_heading": "When Volume Violates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Standards",
+    "candidates": [
+      "Lighter Goods",
+      "Standards",
+      "Porter's Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita lists overage standards for different carriers (porter, small boat *adriv*, regular boat *sfinah*, large ship *burnei gedola*), which exactly matches the 'Standards' section prose that describes this same *tanu rabbanan* passage and its carrier-capacity thresholds.",
+      "chosen_heading": "Standards",
+      "current_heading": "Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Porter's Choice",
+    "candidates": [
+      "Porter's Choice",
+      "Abaye",
+      "Rava",
+      "Rav Ashi",
+      "Boats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all four parts of the discussion \u2014 the initial challenge about the porter being rational, Abaye's response, Rava's response, and Rav Ashi's response \u2014 and heading 0 ('Porter's Choice') is where the full unit begins, matching the current placement which encompasses the entire Gemara exchange.",
+      "chosen_heading": "Porter's Choice",
+      "current_heading": "Porter's Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Boats",
+    "candidates": [
+      "Abaye",
+      "Rava",
+      "Rav Ashi",
+      "Boats",
+      "Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the one-thirtieth rule for boats and Rav Pappa's inference about standard boat capacity (thirty kor) with practical relevance for buying and selling, which directly matches the 'Boats' section prose.",
+      "chosen_heading": "Boats",
+      "current_heading": "Boats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Mishnah",
+    "candidates": [
+      "Mishnah",
+      "Initial Inquiry",
+      "Baraita Dispute",
+      "Employment Benefit",
+      "Extra Money",
+      "Leverage",
+      "Uncertainty"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mishnah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text (with its cases about artisans, mutual watching, collateral, Rabbi Yehuda, and Abba Shaul) which the 'Mishnah' section prose discusses in full detail.",
+      "second_heading": "Initial Inquiry",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 are the Gemara's inquiry into whether the mishnah aligns with Rabbi Meir, introducing the baraita dispute and the subsequent arguments, which matches the 'Initial Inquiry' section that asks 'leima matnitin dela kerabbi Meir.'",
+      "current_heading": "Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Uncertainty",
+    "candidates": [
+      "Initial Inquiry",
+      "Baraita Dispute",
+      "Employment Benefit",
+      "Extra Money",
+      "Leverage",
+      "Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rabba bar Avuh's reversal of the baraita opinions (Rabbi Meir = shomer sachar, Rabbi Yehuda = shomer chinam), which is precisely what the 'Uncertainty' section's prose describes as the textual dispute that leaves the question unresolved.",
+      "chosen_heading": "Uncertainty",
+      "current_heading": "Uncertainty",
+      "moved": false
+    }
+  }
+]

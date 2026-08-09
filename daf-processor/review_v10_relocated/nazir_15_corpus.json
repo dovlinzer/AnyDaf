@@ -1,0 +1,272 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Conditional Nazirut",
+      "Double Counting Principle",
+      "Day 70 Boundary",
+      "Tosafot's Reading",
+      "Rav's Position",
+      "Bringing Korban Early",
+      "Challenge to Rav",
+      "Gains vs. Loses Nothing",
+      "'Achar' Means Day 72"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge from the final clause of the Mishnah ('nolad achar shivim soter shivim') and proposes that 'achar' means 'after after' (day 72), which is precisely what the prose under heading 8 describes.",
+      "chosen_heading": "'Achar' Means Day 72",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "'Achar' Means Day 72",
+    "candidates": [
+      "Bringing Korban Early",
+      "Challenge to Rav",
+      "Gains vs. Loses Nothing",
+      "'Achar' Means Day 72",
+      "Day of Birth Conclusion",
+      "General Principle",
+      "Why Day 71 Fails",
+      "Miktzas Hayom Intro",
+      "Moed Katan Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's proposal that 'achar' might mean day 72 and its immediate rejection, concluding that 'achar mamash' means day 71 \u2014 exactly what the prose of candidate 3 describes.",
+      "chosen_heading": "'Achar' Means Day 72",
+      "current_heading": "'Achar' Means Day 72",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Moed Katan Case",
+    "candidates": [
+      "Day of Birth Conclusion",
+      "General Principle",
+      "Why Day 71 Fails",
+      "Miktzas Hayom Intro",
+      "Moed Katan Case",
+      "Abba Shaul's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the Abba Shaul baraita from Moed Katan (three days voiding shiva, eight days voiding shloshim with the haircut caveat), which is precisely what the 'Miktzas Hayom Intro' prose describes as the content introduced when the Gemara asks v'Rav keman amar l'shmaisa and suggests k'Abba Shaul.",
+      "chosen_heading": "Miktzas Hayom Intro",
+      "current_heading": "Moed Katan Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Abba Shaul's Position",
+    "candidates": [
+      "Moed Katan Case",
+      "Abba Shaul's Position",
+      "Parallel Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abba Shaul's direct statement that even without a pre-festival haircut one may cut hair after the festival, justified by the parallelism of mitzvas shiva voiding gezeiras shloshim \u2014 exactly what candidate 1's prose describes as Abba Shaul's position and his parallelism formula.",
+      "chosen_heading": "Abba Shaul's Position",
+      "current_heading": "Abba Shaul's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Parallel Principles",
+    "candidates": [
+      "Parallel Principles",
+      "Rabbinic Extension",
+      "Rabbi Yosi's Zava",
+      "Zava Setup",
+      "Retroactivity Problem",
+      "Rabbi Yosi's Ruling",
+      "Day 71 Application",
+      "Sufficiency Model",
+      "Anticipation Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection (*dilma*) of the Abba Shaul parallel on the grounds that his principle may apply only to rabbinic mourning law but not to Torah-level nezirut \u2014 which is precisely what the 'Rabbinic Extension' section's prose describes.",
+      "chosen_heading": "Rabbinic Extension",
+      "current_heading": "Parallel Principles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Anticipation Model",
+    "candidates": [
+      "Rabbinic Extension",
+      "Rabbi Yosi's Zava",
+      "Zava Setup",
+      "Retroactivity Problem",
+      "Rabbi Yosi's Ruling",
+      "Day 71 Application",
+      "Sufficiency Model",
+      "Anticipation Model",
+      "Retroactivity Rabbinic",
+      "Special Exception",
+      "Tumah of Depths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yosi's baraita about the shomeret yom keneged yom, her ruling regarding Pesach Sheni, and the Gemara's initial probing of whether his rationale is miktzas hayom or tumah from that moment onward \u2014 precisely what candidate 1 ('Rabbi Yosi's Zava') describes as the content it will develop in detail.",
+      "chosen_heading": "Rabbi Yosi's Zava",
+      "current_heading": "Anticipation Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Tumah of Depths",
+    "candidates": [
+      "Retroactivity Rabbinic",
+      "Special Exception",
+      "Tumah of Depths",
+      "Zav Day 7 Loss"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Retroactivity Rabbinic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's first resolution that the retroactive tumah is only rabbinic (le'mafrea miderabbanan), which matches candidate 0's prose exactly.",
+      "second_heading": "Special Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the alternative resolution (le'olam eima lach \u2014 perhaps the retroactive tumah is biblical) and the tumas tehom of ziva argument, which is precisely what candidate 1's 'Special Exception' prose introduces as a lead-in to the tumas tehom discussion.",
+      "current_heading": "Tumah of Depths",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Zav Day 7 Loss",
+    "candidates": [
+      "Tumah of Depths",
+      "Zav Day 7 Loss",
+      "Yochanan Response",
+      "Logical Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Oshaya's ruling that a zav who sees discharge on his seventh day loses all preceding days, which matches exactly the 'Zav Day 7 Loss' section describing Rabbi Yoshiya's (Oshaya's) view that discharge on day seven causes the zav to lose all seven preceding clean days.",
+      "chosen_heading": "Zav Day 7 Loss",
+      "current_heading": "Zav Day 7 Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Logical Problem",
+    "candidates": [
+      "Yochanan Response",
+      "Logical Problem",
+      "No Retroactive Effect",
+      "From Now Onward",
+      "Oshaya Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mah nafshach challenge to Rabbi Yochanan's position, which is exactly what the 'Logical Problem' section's prose describes.",
+      "chosen_heading": "Logical Problem",
+      "current_heading": "Logical Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Oshaya Conclusion",
+    "candidates": [
+      "No Retroactive Effect",
+      "From Now Onward",
+      "Oshaya Conclusion",
+      "Consecutive Days Problem",
+      "Continuous Bleeding",
+      "Sunset Straddling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Oshaya's conclusion that Rabbi Yosi aligns with Rabbi Yochanan, and resolves the retroactive impurity as merely rabbinic \u2014 exactly what the 'Oshaya Conclusion' prose discusses.",
+      "chosen_heading": "Oshaya Conclusion",
+      "current_heading": "Oshaya Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Sunset Straddling",
+    "candidates": [
+      "Consecutive Days Problem",
+      "Continuous Bleeding",
+      "Sunset Straddling",
+      "Miktzas Hayom Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Consecutive Days Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the full Gemara passage covering the question about Rabbi Yosi's consecutive-days problem AND both answers (continuous bleeding and sunset-straddling), so it belongs under the heading that introduces the problem ('Consecutive Days Problem'), not under 'Sunset Straddling' where only the second answer is discussed.",
+      "second_heading": "Miktzas Hayom Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is 'Hadran alach hareini nazir' \u2014 the closing formula marking the end of the chapter \u2014 which belongs under the final section ('Miktzas Hayom Requirement') whose prose explicitly concludes with '*Hadran alach hareini nazir*'.",
+      "current_heading": "Sunset Straddling",
+      "moved": true
+    }
+  }
+]

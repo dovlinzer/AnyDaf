@@ -110,13 +110,6 @@ The *Gemara* explains: *chacham shemet ein lanu kayotzei bo* — when a *chacham
 
 ---
 
-## Kohanim Hierarchy
-
-### Kohen Gadol Grades
-
-Within the category of *Kohanim*, the hierarchy descends as follows. A *Kohen Gadol* anointed with the sacred oil (*mashuach b'shemen hamishcha*) precedes one invested through garments (*merubeh begadim*). The one invested through garments precedes a past *Kohen Gadol* (*mashuach she'avar*). A past *Kohen Gadol* who was removed due to a seminal emission (*keri*) precedes one removed due to a bodily blemish (*mum*), because the disqualification caused by *keri* is temporary, while that caused by a *mum* is permanent — and a lesser or more recoverable disqualification retains greater priority over a more permanent one. A past *Kohen Gadol* disqualified by a blemish precedes the *Mashuach Milchama*, because having once held the status of *Kohen Gadol* — even if one can no longer serve — places one above a *Mashuach Milchama*, who holds an entirely different and lower office. The principle resembles the precedence an ex-president might be accorded over a sitting senator.
-
----
 
 ## Man vs. Woman Priori (II)
 

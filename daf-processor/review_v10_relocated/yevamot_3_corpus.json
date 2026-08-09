@@ -1,0 +1,209 @@
+[
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Gezeira Shava",
+    "candidates": [
+      "Nashim Definition",
+      "Masechet Structure",
+      "Yevamot Scope",
+      "Yabam Terminology",
+      "Yibum History",
+      "Lehakim Shem",
+      "Yibum Halakha",
+      "Asei/Lo Taase",
+      "Karaite Views",
+      "Opening Sugya",
+      "Bito Priority",
+      "Bito vs Bat Ishto",
+      "Gezeira Shava",
+      "Korvei Ordering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya about why 'bito' heads the mishna's list \u2014 the retraction to the 'chaviva' explanation, the challenge that all exemptions come from derasha, the answer distinguishing explicit vs. derived prohibitions, and the gezeira shava (heina-heina, zima-zima) that proves bito's prohibition is entirely midrashic \u2014 exactly what the 'Gezeira Shava' section's prose describes.",
+      "chosen_heading": "Gezeira Shava",
+      "current_heading": "Gezeira Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Korvei Ordering",
+    "candidates": [
+      "Korvei Ordering",
+      "Three Generations",
+      "Sister Inclusion",
+      "Wives Ordering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's rejection of the derasha-ordering theory and pivot to the 'korvei korvei' (closeness) explanation, which is precisely what the 'Korvei Ordering' section's prose describes \u2014 including the tana bito u'bat bito passage and the three-generations-downward movement that candidate 0 explicitly discusses.",
+      "chosen_heading": "Korvei Ordering",
+      "current_heading": "Korvei Ordering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Wives Ordering",
+    "candidates": [
+      "Three Generations",
+      "Sister Inclusion",
+      "Wives Ordering",
+      "Potrot Mechanism",
+      "Assur vs Patur",
+      "Tzara Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why the mishna listed eshet achiv shelo haya beolamo before kallato, explaining that since the tanna was already dealing with the issur achva (sibling prohibition), it grouped the sibling-wives together first and only then taught kallato \u2014 which is precisely what the 'Wives Ordering' section's prose describes.",
+      "chosen_heading": "Wives Ordering",
+      "current_heading": "Wives Ordering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Tzara Mechanism",
+    "candidates": [
+      "Potrot Mechanism",
+      "Assur vs Patur",
+      "Tzara Mechanism",
+      "Chalitza Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about why the mishna uses 'potrot' rather than 'osrot' or 'assura lachlotz,' which exactly matches the prose under 'Assur vs Patur' (candidate 1), while the current placement under 'Tzara Mechanism' (candidate 2) only addresses the final point about the tzara being forbidden only in the context of the mitzva.",
+      "chosen_heading": "Assur vs Patur",
+      "current_heading": "Tzara Mechanism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Chalitza Priority",
+    "candidates": [
+      "Tzara Mechanism",
+      "Chalitza Priority",
+      "Leshem Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the mishna lists both chalitza and yibum (rather than yibum alone), explaining the rule that eligibility for yibum implies eligibility for chalitza and vice versa \u2014 which is precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Chalitza Priority",
+      "current_heading": "Chalitza Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Leshem Mitzvah",
+    "candidates": [
+      "Leshem Mitzvah",
+      "Rav Disputes",
+      "Suta/Aylonit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abba Shaul's view that \u1e25alitza takes precedence over levirate marriage, which is exactly what the 'Leshem Mitzvah' prose discusses \u2014 Abba Shaul's position and the mishna placing \u1e25alitza first.",
+      "chosen_heading": "Leshem Mitzvah",
+      "current_heading": "Leshem Mitzvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Suta/Aylonit",
+    "candidates": [
+      "Rav Disputes",
+      "Suta/Aylonit",
+      "Tzara Exclusions",
+      "Mema'enes Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question about what the enumeration excludes and the answer that it excludes the views of Rav and Rav Asi \u2014 exactly what candidate 0 ('Rav Disputes') describes in its prose, before the detailed discussion of those views begins in candidate 1.",
+      "chosen_heading": "Rav Disputes",
+      "current_heading": "Suta/Aylonit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Mema'enes Case",
+    "candidates": [
+      "Tzara Exclusions",
+      "Mema'enes Case",
+      "Machzir Grushaso",
+      "Tzarat Tzara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's answer to what Rav and Rav Asi say the mishna's numerical specifications exclude \u2014 the tzara of a mema'enet and the tzara of a machzir gerushato \u2014 which is precisely what the 'Tzara Exclusions' prose describes in detail, including the exact phrases chada l'mautei tzarat mema'enet and the conditional ei/v'i structure.",
+      "chosen_heading": "Tzara Exclusions",
+      "current_heading": "Mema'enes Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Tzarat Tzara",
+    "candidates": [
+      "Machzir Grushaso",
+      "Tzarat Tzara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss why Rav and Rav Asi's cases were excluded from the mishna's list \u2014 specifically because they lack the tzarat tzara dynamic \u2014 which is precisely what the 'Tzarat Tzara' section's prose addresses.",
+      "chosen_heading": "Tzarat Tzara",
+      "current_heading": "Tzarat Tzara",
+      "moved": false
+    }
+  }
+]

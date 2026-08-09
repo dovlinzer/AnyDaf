@@ -1,0 +1,257 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Mishna: Inheritance Rules",
+    "candidates": [
+      "Shomeret Yavam Definition",
+      "Mishna: Inheritance Rules",
+      "Ketubah vs. Nikhsei Melog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna text about a shomeret yavam selling or giving away inherited property with Beit Shammai and Beit Hillel agreeing on validity is directly discussed in the 'Mishna: Inheritance Rules' prose, which explicitly references this exact ruling and contrasts it with the arusah case.",
+      "chosen_heading": "Mishna: Inheritance Rules",
+      "current_heading": "Mishna: Inheritance Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Ketubah vs. Nikhsei Melog",
+    "candidates": [
+      "Ketubah vs. Nikhsei Melog",
+      "Beit Shammai: Equal Split",
+      "Beit Hillel: Status Quo",
+      "Property Types at Death",
+      "Ketubah Lien Principle",
+      "Restriction on Sale",
+      "Money to Land Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text presenting both Beit Shammai's ruling (yachloku) and Beit Hillel's ruling on the shomeret yavam who died, which serves as the source text that headings 1 and 2 analyze \u2014 but since it introduces Beit Shammai's position first and heading 1 ('Beit Shammai: Equal Split') is the section that presents and discusses Beit Shammai's ruling as the lead topic, this is the most natural home for the quoted Mishna that introduces both positions.",
+      "chosen_heading": "Beit Shammai: Equal Split",
+      "current_heading": "Ketubah vs. Nikhsei Melog",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Money to Land Solution",
+    "candidates": [
+      "Beit Shammai: Equal Split",
+      "Beit Hillel: Status Quo",
+      "Property Types at Death",
+      "Ketubah Lien Principle",
+      "Restriction on Sale",
+      "Money to Land Solution",
+      "Lien on Chattel Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishna text about converting the deceased brother's money and detached produce into land for the yavam to consume peirot, which is precisely what the 'Money to Land Solution' section's prose explains and discusses.",
+      "chosen_heading": "Money to Land Solution",
+      "current_heading": "Money to Land Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Lien on Chattel Debate",
+    "candidates": [
+      "Lien on Chattel Debate",
+      "Possession Rights Rules",
+      "Post-Yibum Ketubah Status",
+      "No Pre-designation Rule",
+      "Universal Lien Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are from the same Mishnaic dispute about attached produce (hamechubarim lakarka), with Rabbi Meir's position and the Chachamim's position \u2014 exactly what candidate 0's prose describes in detail, including the specific rulings about converting surplus value into land, kol hakodem zachah, and the underlying debate about whether a ketubah lien extends to chattel.",
+      "chosen_heading": "Lien on Chattel Debate",
+      "current_heading": "Lien on Chattel Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Universal Lien Principle",
+    "candidates": [
+      "Possession Rights Rules",
+      "Post-Yibum Ketubah Status",
+      "No Pre-designation Rule",
+      "Universal Lien Principle",
+      "Divorce-Remarry Solution",
+      "Remarriage: Normal Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the post-yibum wife's full marital status with the single exception that her ketubah remains charged against the first husband's estate, which is precisely what candidate 0 ('Possession Rights Rules') discusses in its prose.",
+      "chosen_heading": "Possession Rights Rules",
+      "current_heading": "Universal Lien Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Remarriage: Normal Status",
+    "candidates": [
+      "Divorce-Remarry Solution",
+      "Remarriage: Normal Status",
+      "Who Buries Her",
+      "Baraita: Ketubah Heirs",
+      "Contrast: Normal Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the ketubah lien on property and the consequence of the yavam divorcing her \u2014 exactly the topic of the 'Divorce-Remarry Solution' prose \u2014 while the current placement under 'Remarriage: Normal Status' only addresses the remarriage consequence (item 2), not the foundational ruling about the mortgage on property (item 1).",
+      "chosen_heading": "Divorce-Remarry Solution",
+      "current_heading": "Remarriage: Normal Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Contrast: Normal Widow",
+    "candidates": [
+      "Who Buries Her",
+      "Baraita: Ketubah Heirs",
+      "Contrast: Normal Widow",
+      "Yavam's Escape Attempt",
+      "Abaye: Both Ways Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's discussion of who buries the shomeret yavam \u2014 the initial dilemma plus Rav Amram's baraita and Abaye's supporting proof \u2014 which is precisely what heading 0 ('Who Buries Her') introduces and discusses.",
+      "chosen_heading": "Who Buries Her",
+      "current_heading": "Contrast: Normal Widow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Abaye: Both Ways Argument",
+    "candidates": [
+      "Yavam's Escape Attempt",
+      "Abaye: Both Ways Argument",
+      "Midrash Ketubah Defined",
+      "Beit Shammai: Doc Ready",
+      "Sotah Case Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Rava-Abaye exchange about the yavam's attempted escape argument and Abaye's 'both sides' refutation, which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Abaye: Both Ways Argument",
+      "current_heading": "Abaye: Both Ways Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Sotah Case Application",
+    "candidates": [
+      "Midrash Ketubah Defined",
+      "Beit Shammai: Doc Ready",
+      "Sotah Case Application",
+      "Yavam Like Other Husband"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together form the Gemara's argument that Beit Shammai holds 'shtar ha'omed ligvot ke-gavuy dami,' illustrated through the sotah mishna \u2014 which is precisely what the 'Beit Shammai: Doc Ready' prose describes, while the current heading 'Sotah Case Application' captures only the illustrative example rather than the overarching principle these items establish.",
+      "chosen_heading": "Beit Shammai: Doc Ready",
+      "current_heading": "Sotah Case Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Yavam Like Other Husband",
+    "candidates": [
+      "Sotah Case Application",
+      "Yavam Like Other Husband",
+      "Kohen Option: Appeasement",
+      "Israelite: Divorce",
+      "Ketubah: Property Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items address whether the ketubah can be collected during the yavam's lifetime \u2014 item 1 raises the objection from the 'when you marry another' clause, and item 2 (Rav Ashi's resolution that the yavam counts as 'another') directly resolves that objection \u2014 matching candidate 4's prose discussion of whether the ketubah can be collected while the yavam is alive (nitan ketuvah ligvot mechayim).",
+      "chosen_heading": "Ketubah: Property Rights",
+      "current_heading": "Yavam Like Other Husband",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Ketubah: Property Rights",
+    "candidates": [
+      "Kohen Option: Appeasement",
+      "Israelite: Divorce",
+      "Ketubah: Property Rights"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ketubah: Property Rights",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's inquiry about collecting the ketubah during the yavam's lifetime, which is precisely what heading 2 ('Ketubah: Property Rights') discusses in its prose.",
+      "second_heading": "Kohen Option: Appeasement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about Rabbi Abba asking Sumchus how a yavam who wants to sell his brother's property proceeds, which is exactly what heading 0 ('Kohen Option: Appeasement') introduces in its prose.",
+      "current_heading": "Ketubah: Property Rights",
+      "moved": true
+    }
+  }
+]

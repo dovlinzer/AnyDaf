@@ -1,0 +1,175 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Adult Daughter Marrying",
+    "candidates": [
+      "Feeding Wife & Children",
+      "Adult Daughter Marrying",
+      "Father & Son Study Vow",
+      "Context & Exclusion",
+      "Cup of Peace: Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with the Gemara's discussion of whether one forbidden from benefiting another may marry off his adult daughter (*bogeret*) to that person, exactly as described in candidate 1's prose.",
+      "chosen_heading": "Adult Daughter Marrying",
+      "current_heading": "Adult Daughter Marrying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Cup of Peace: Exceptions",
+    "candidates": [
+      "Father & Son Study Vow",
+      "Context & Exclusion",
+      "Cup of Peace: Exceptions",
+      "Servants vs. Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Ya'akov's ruling about vowing regarding a son for Torah study (filling barrel, kindling lamp, roasting fish) and then Rabbi Yirmiya/Yochanan's cup of peace ruling \u2014 all of this content is discussed together in the 'Father & Son Study Vow' prose, which explicitly mentions filling a barrel, kindling a candle, frying a small fish, and the cup of peace examples, whereas the current heading 'Cup of Peace: Exceptions' only covers part of the passage.",
+      "chosen_heading": "Father & Son Study Vow",
+      "current_heading": "Cup of Peace: Exceptions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Servants vs. Animals",
+    "candidates": [
+      "Cup of Peace: Exceptions",
+      "Servants vs. Animals",
+      "Stand vs. Sit Rule",
+      "Refuat Nefesh & Mamon",
+      "Fee-Based Services"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the baraita of Yehoshua Ish Uzza distinguishing between feeding Canaanite servants (permitted) and feeding animals (forbidden), with the Gemara's explanation about labor vs. fattening \u2014 which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Servants vs. Animals",
+      "current_heading": "Servants vs. Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Fee-Based Services",
+    "candidates": [
+      "Stand vs. Sit Rule",
+      "Refuat Nefesh & Mamon",
+      "Fee-Based Services",
+      "Essential Well-Being",
+      "Person vs. Family Visit",
+      "Direction of Vow",
+      "Korach & Visitation",
+      "Death & Visiting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stand vs. Sit Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the Mishnah text about standing vs. sitting and refuat nefesh/mamon) belongs under 'Stand vs. Sit Rule' which introduces this exact Mishnah and notes the standing/sitting distinction will occupy the Gemara.",
+      "second_heading": "Fee-Based Services",
+      "second_confidence": "high",
+      "second_reason": "Items 2-8 are the Gemara's analysis of whose property is forbidden to whom, Shmuel's fee-based resolution, Ulla's alternative, the baraita about visiting the son, and Rava's proof \u2014 all of which the 'Fee-Based Services' prose describes in detail.",
+      "current_heading": "Fee-Based Services",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Death & Visiting",
+    "candidates": [
+      "Essential Well-Being",
+      "Person vs. Family Visit",
+      "Direction of Vow",
+      "Korach & Visitation",
+      "Death & Visiting",
+      "Seven Pre-World Creations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's question about the Torah's allusion to bikur cholim and Rava's elaboration on the Korach verse, which is precisely what the 'Korach & Visitation' section's prose describes as its content.",
+      "chosen_heading": "Korach & Visitation",
+      "current_heading": "Death & Visiting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Seven Pre-World Creations",
+    "candidates": [
+      "Death & Visiting",
+      "Seven Pre-World Creations",
+      "Gehinnom Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous unit: Rava's homiletical interpretation of Moses' conditional statement about Gehenna, followed by the baraita listing seven pre-world creations with their scriptural sources \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Seven Pre-World Creations",
+      "current_heading": "Seven Pre-World Creations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Gehinnom Creation",
+    "candidates": [
+      "Gehinnom Creation",
+      "Sun & Moon Strike"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's resolution of how Moses could request God 'create' the mouth of Gehinnom given that nothing new exists under the sun, which is precisely what the 'Gehinnom Creation' section's prose describes.",
+      "chosen_heading": "Gehinnom Creation",
+      "current_heading": "Gehinnom Creation",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Kol Achar Nisuin",
+    "candidates": [
+      "Kol Requires Beit Din",
+      "Kol Achar Nisuin",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both of Rav Ashi's rulings \u2014 the first about beit din confirmation and the second about post-marriage rumors \u2014 and heading 0 ('Kol Requires Beit Din') explicitly discusses both rulings together, including Rashi's explanation, while heading 1 only covers the second ruling about nisuin/erusin.",
+      "chosen_heading": "Kol Requires Beit Din",
+      "current_heading": "Kol Achar Nisuin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Kol Achar Nisuin",
+      "Case Setup",
+      "Tetzei Response",
+      "Investigation: Eidus",
+      "Perception Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the case setup \u2014 the question sent from Rav's academy to Shmuel about a kol from the first man followed by kiddushei Torah from a second man \u2014 which is precisely what the 'Case Setup' prose describes.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Perception Issue",
+    "candidates": [
+      "Tetzei Response",
+      "Investigation: Eidus",
+      "Perception Issue",
+      "Rav Huna View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Investigation: Eidus",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the interpretation of 'clarify the matter,' the rejection of the suppression-of-rumor reading, Rav Huna's disagreement with Shmuel, Rav Hamnuna's principle, and its resolution \u2014 all continuous content matching the 'Investigation: Eidus' and 'Perception Issue' prose, with items 1-4 best fitting under 'Investigation: Eidus' (index 1) as that section's prose covers exactly the rejection of the rumor-suppression reading and the conclusion that no get is needed from Shimon, including the Rav Huna/Rav Hamnuna dispute and its resolution.",
+      "second_heading": "Rav Huna View",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 address the unresolved case where no definitive conclusion was reached and Rav Huna's ruling that Reuven must divorce her so she may marry Shimon, which matches precisely the 'Rav Huna View' prose about *lo matza davar barur* and Rav Huna's *megaresh rishon ve-nosei sheni* ruling.",
+      "current_heading": "Perception Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Rav Huna View",
+    "candidates": [
+      "Perception Issue",
+      "Rav Huna View",
+      "Machzir Grushaso",
+      "Rav Idi Disagrees",
+      "Lo Mevatlinan Kala",
+      "Two Rumors Setup",
+      "Rav Papa View",
+      "Ashmeimar View",
+      "Halacha Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Idi Disagrees",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Shinnana (son of Rav Idi) arguing that the second man may divorce and the first man remarry because people will say the betrothal was a mistake \u2014 exactly the content described in the 'Rav Idi Disagrees' prose.",
+      "second_heading": "Two Rumors Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens an entirely new case \u2014 two competing rumors (kol mi-zeh u-mi-zeh) \u2014 which is precisely the setup described in the 'Two Rumors Setup' prose section.",
+      "current_heading": "Rav Huna View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Halacha Ruling",
+    "candidates": [
+      "Machzir Grushaso",
+      "Rav Idi Disagrees",
+      "Lo Mevatlinan Kala",
+      "Two Rumors Setup",
+      "Rav Papa View",
+      "Ashmeimar View",
+      "Halacha Ruling",
+      "Beit Shammai View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage states the halakhic ruling that she is permitted to both, which directly corresponds to the 'Halacha Ruling' section's prose discussing ve-hilkheta muteres li-shneihem following Ashmeimar.",
+      "chosen_heading": "Halacha Ruling",
+      "current_heading": "Halacha Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Beit Shammai View",
+    "candidates": [
+      "Beit Shammai View",
+      "Beit Hillel View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Beit Shammai portion of the mishna, and the prose under 'Beit Shammai View' directly discusses and explains this exact text about Beit Shammai's position on divorce requiring 'ervat davar.'",
+      "chosen_heading": "Beit Shammai View",
+      "current_heading": "Beit Shammai View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Beit Hillel View",
+    "candidates": [
+      "Beit Hillel View",
+      "Rabbi Akiva View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Beit Hillel's position about burning his dish and the 'ervat davar' verse, which matches exactly the content described in the 'Beit Hillel View' prose.",
+      "chosen_heading": "Beit Hillel View",
+      "current_heading": "Beit Hillel View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rabbi Akiva View",
+    "candidates": [
+      "Rabbi Akiva View",
+      "Davar vs. Ervah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's statement about divorcing for finding a more beautiful woman, which directly matches the 'Rabbi Akiva View' section's prose discussing exactly this position.",
+      "chosen_heading": "Rabbi Akiva View",
+      "current_heading": "Rabbi Akiva View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Davar vs. Ervah",
+    "candidates": [
+      "Davar vs. Ervah",
+      "Interpretation of Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the baraita debate between Beit Hillel and Beit Shammai over 'davar' vs. 'ervat davar,' which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Davar vs. Ervah",
+      "current_heading": "Davar vs. Ervah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Interpretation of Pasuk",
+    "candidates": [
+      "Interpretation of Pasuk",
+      "Beit Shammai Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the question of what underlies the dispute and cites Reish Lakish's four meanings of 'ki', which is precisely what the 'Interpretation of Pasuk' prose describes.",
+      "chosen_heading": "Interpretation of Pasuk",
+      "current_heading": "Interpretation of Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Beit Shammai Reading",
+    "candidates": [
+      "Beit Shammai Reading",
+      "Rabbi Akiva Reading",
+      "Get Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Beit Shammai's reading of the verse (she doesn't find favor because of ervat davar) alongside Rabbi Akiva's contrasting reading, but the primary subject introduced is Beit Shammai's interpretation, matching the current placement under 'Beit Shammai Reading.'",
+      "chosen_heading": "Beit Shammai Reading",
+      "current_heading": "Beit Shammai Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Get Validity",
+    "candidates": [
+      "Rabbi Akiva Reading",
+      "Get Validity",
+      "Rapist Cannot Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's question to Rava about whether a get is valid when there is no justification at all, which is precisely what the 'Get Validity' section's prose describes.",
+      "chosen_heading": "Get Validity",
+      "current_heading": "Get Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rapist Cannot Divorce",
+    "candidates": [
+      "Rapist Cannot Divorce",
+      "Hidden Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's reasoning about the rapist case (ones) and the Torah's explicit disclosure regarding remarriage, which is precisely what the 'Rapist Cannot Divorce' section's prose describes.",
+      "chosen_heading": "Rapist Cannot Divorce",
+      "current_heading": "Rapist Cannot Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Hidden Intent",
+    "candidates": [
+      "Hidden Intent",
+      "Rabbi Meir Parable",
+      "Overly Fastidious"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Mesharshiyya's question to Rava about a man who secretly intends to divorce his wife while she serves him, and Rava's response citing Proverbs 3:29 \u2014 exactly what the 'Hidden Intent' prose discusses.",
+      "chosen_heading": "Hidden Intent",
+      "current_heading": "Hidden Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Overly Fastidious",
+    "candidates": [
+      "Rabbi Meir Parable",
+      "Overly Fastidious",
+      "Average Man"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Meir's general parable about attitudes toward food/women, which matches the 'Rabbi Meir Parable' heading's prose introducing the analogy, while the current 'Overly Fastidious' heading discusses only the first specific type (Pappos ben Yehuda) \u2014 but this baraita text actually contains both the opening framing and the first example, making it a better fit under the introductory heading that describes the whole analogy being 'developed through three character types.'",
+      "chosen_heading": "Rabbi Meir Parable",
+      "current_heading": "Overly Fastidious",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Average Man",
+    "candidates": [
+      "Overly Fastidious",
+      "Average Man",
+      "Least Fastidious"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the fly-in-cup scenario where the fly is removed and the cup is drunk, corresponding to the average man who allows his wife to speak with relatives \u2014 exactly what the 'Average Man' section discusses.",
+      "chosen_heading": "Average Man",
+      "current_heading": "Average Man",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Least Fastidious",
+    "candidates": [
+      "Least Fastidious",
+      "Immodest Behavior",
+      "Public Bathing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the 'bad man' who tolerates his wife's immodest behavior (uncovered hair, spinning in marketplace, garment open at sides, bathing with men), which is precisely what the 'Least Fastidious' section's prose describes \u2014 the third type who sucks the fly and ignores his wife's misconduct.",
+      "chosen_heading": "Least Fastidious",
+      "current_heading": "Least Fastidious",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Public Bathing",
+    "candidates": [
+      "Immodest Behavior",
+      "Public Bathing",
+      "Rabbi Yehuda",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous passage about the woman who bathes in a place where men bathe: item 1 clarifies the baraita's meaning, items 2-3 continue with the Torah-mandated divorce and its consequences \u2014 exactly what the 'Public Bathing' prose describes in detail.",
+      "chosen_heading": "Public Bathing",
+      "current_heading": "Public Bathing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rabbi Yochanan",
+      "Bezug Rishon/Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's and Rabbi Yochanan's interpretations of the verse, and candidate 0 ('Rabbi Yehuda') is the section that introduces this exact dispute about ki sane shalakh, making it the natural home for the full quoted exchange rather than splitting it under Rabbi Yochanan's section alone.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Bezug Rishon/Sheni",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Bezug Rishon/Sheni",
+      "First Wife Tragedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states 've-lo peligi, ha be-zug rishon ha be-zug sheni,' which is exactly what the 'Bezug Rishon/Sheni' prose describes and explains.",
+      "chosen_heading": "Bezug Rishon/Sheni",
+      "current_heading": "Bezug Rishon/Sheni",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "First Wife Tragedy",
+    "candidates": [
+      "First Wife Tragedy",
+      "Chavratcha",
+      "Balance Issues",
+      "Closing: Partnership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's statement about the altar shedding tears over one who divorces his first wife, which is exactly what the 'First Wife Tragedy' section's prose discusses and elaborates upon.",
+      "chosen_heading": "First Wife Tragedy",
+      "current_heading": "First Wife Tragedy",
+      "moved": false
+    }
+  }
+]

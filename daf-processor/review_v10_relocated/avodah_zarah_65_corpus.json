@@ -1,0 +1,295 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Avidrana Gift Story",
+    "candidates": [
+      "Opening Context",
+      "Formal Status Question",
+      "Avidrana Gift Story",
+      "Rav Yosef Challenge",
+      "Status vs. Practice",
+      "Religious Communities",
+      "Three Categories",
+      "Circumcision Requirement",
+      "Conversion Intent",
+      "Gift on Holiday",
+      "Bar Sheishach Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Avidarna story \u2014 Rav Yehuda's gift, Rav Yosef's challenge about formal ger toshav status, and the circumcision objection with its resolution \u2014 which is precisely what the 'Avidrana Gift Story' prose describes.",
+      "chosen_heading": "Avidrana Gift Story",
+      "current_heading": "Avidrana Gift Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Bar Sheishach Challenge",
+    "candidates": [
+      "Rav Yosef Challenge",
+      "Status vs. Practice",
+      "Religious Communities",
+      "Three Categories",
+      "Circumcision Requirement",
+      "Conversion Intent",
+      "Gift on Holiday",
+      "Bar Sheishach Challenge",
+      "Rava's Response",
+      "King's Messenger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes Rava bringing a gift to Bar Sheishach on a festival day with the justification that he doesn't worship idols, then finding him in the rose water scene \u2014 content that matches heading 6 ('Gift on Holiday') which explicitly discusses Rava presenting a gift to Bar Sheishach on a pagan holiday and the subsequent discovery, rather than heading 7 which only covers the rose water scene already in progress.",
+      "chosen_heading": "Gift on Holiday",
+      "current_heading": "Bar Sheishach Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "King's Messenger",
+    "candidates": [
+      "Rava's Response",
+      "King's Messenger",
+      "Blessing & Blinded Eye",
+      "Alternative Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the royal messenger arriving and Bar Sheshakh being summoned by the king, which matches exactly the 'King's Messenger' section's prose about the pristaka arriving and the king requiring Bar Sheshakh \u2014 the eye-bursting detail is a brief coda that follows naturally, and the 'Blessing & Blinded Eye' section's prose separately covers that moment as its own focus.",
+      "chosen_heading": "King's Messenger",
+      "current_heading": "King's Messenger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Alternative Verses",
+    "candidates": [
+      "Blessing & Blinded Eye",
+      "Alternative Verses",
+      "Ultimate Principle",
+      "Hiring Workers Rule",
+      "Nightfall Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the statements by Rav Pappi and Rav Na\u1e25man bar Yitz\u1e25ak about alternative verses Rava should have cited, which is precisely what the 'Alternative Verses' section prose discusses.",
+      "chosen_heading": "Alternative Verses",
+      "current_heading": "Alternative Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Nightfall Request",
+    "candidates": [
+      "Ultimate Principle",
+      "Hiring Workers Rule",
+      "Nightfall Request",
+      "Lump Sum Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the mishna's implication that wages are permitted even without a nightfall ('l'tutei erev') specification, which directly corresponds to the 'Nightfall Request' section's prose about the tension between the Tosefta's nightfall qualification and the Mishna's broader permission.",
+      "chosen_heading": "Nightfall Request",
+      "current_heading": "Nightfall Request",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Lump Sum Problem",
+    "candidates": [
+      "Lump Sum Problem",
+      "Animal Rental"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion of the lump-sum vs. per-barrel payment distinction (the baraita raising the contradiction, Abaye and Rava's resolutions, and the confirming baraita), which is precisely what the 'Lump Sum Problem' prose describes.",
+      "chosen_heading": "Lump Sum Problem",
+      "current_heading": "Lump Sum Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Animal Rental",
+    "candidates": [
+      "Animal Rental",
+      "Donkey Driver Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why the donkey rental clause needs to be stated and introduces the latter clause about riding (not transporting wine), which is exactly what the 'Animal Rental' prose describes \u2014 the Gemara's question about redundancy and the resolution that the end of the Mishnah requires statement.",
+      "chosen_heading": "Animal Rental",
+      "current_heading": "Animal Rental",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Donkey Driver Rights",
+    "candidates": [
+      "Donkey Driver Rights",
+      "Personal vs. Incidental",
+      "Wine Pouring Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion about the renter's right to place a jug on a donkey and the distinction between renter's and donkey driver's provisioning rights, which is precisely what the 'Donkey Driver Rights' prose describes in detail.",
+      "chosen_heading": "Donkey Driver Rights",
+      "current_heading": "Donkey Driver Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Wine Pouring Story",
+    "candidates": [
+      "Personal vs. Incidental",
+      "Wine Pouring Story",
+      "Heteira & Rotzeh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the opening narrative of the wine-pouring story \u2014 the father of Rav A\u1e25a son of Rav Ika pouring wine and ferrying gentiles, and Abaye's ki katrach be-heteira ruling \u2014 which is precisely what the 'Wine Pouring Story' prose describes.",
+      "chosen_heading": "Wine Pouring Story",
+      "current_heading": "Wine Pouring Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Heteira & Rotzeh",
+    "candidates": [
+      "Heteira & Rotzeh",
+      "Wine on Produce",
+      "Min Bemino Rule",
+      "Veitos Ben Zonam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same Gemara discussion about rotzeh be-kiyumo and ferrying wine across a crossing, which is precisely what the prose under heading 0 ('Heteira & Rotzeh') describes in detail.",
+      "chosen_heading": "Heteira & Rotzeh",
+      "current_heading": "Heteira & Rotzeh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Veitos Ben Zonam",
+    "candidates": [
+      "Wine on Produce",
+      "Min Bemino Rule",
+      "Veitos Ben Zonam",
+      "Good vs. Bad Taste",
+      "Wheat Sale Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah about wine on figs/dates with the Boethus ben Zunen incident, the concluding principle about beneficial vs. detrimental taste, and the Gemara's resolution that the Mishnah is incomplete (*chisore mekhsara*) \u2014 are precisely what the 'Veitos Ben Zonam' prose describes, making the current placement correct.",
+      "chosen_heading": "Veitos Ben Zonam",
+      "current_heading": "Veitos Ben Zonam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Wheat Sale Ruling",
+    "candidates": [
+      "Good vs. Bad Taste",
+      "Wheat Sale Ruling",
+      "Bread Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Rava wheat-sale ruling and the kil'ayim-garment objection raised by Rabbah bar Livai, which is precisely the content described in the 'Wheat Sale Ruling' prose.",
+      "chosen_heading": "Wheat Sale Ruling",
+      "current_heading": "Wheat Sale Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Bread Solution",
+    "candidates": [
+      "Bread Solution",
+      "Wheat Kernel Grooves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's retraction and his ruling to permit grinding, baking, and selling to gentiles not in Jewish presence, which exactly matches the 'Bread Solution' section's prose discussing this same ruling and its rationale.",
+      "chosen_heading": "Bread Solution",
+      "current_heading": "Bread Solution",
+      "moved": false
+    }
+  }
+]

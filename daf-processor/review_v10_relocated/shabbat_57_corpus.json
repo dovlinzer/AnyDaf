@@ -1,0 +1,466 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Mishnah Overview",
+    "candidates": [
+      "Opening & Context",
+      "Rashi's Framework",
+      "Mishnah Overview",
+      "Tevila Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items are the opening Mishnah of perek six listing what a woman may and may not wear on Shabbat, which is precisely what the 'Mishnah Overview' prose describes in detail \u2014 the wool/flax strings, the tevila parenthetical, the totefet/sarvitin, the kvul, the city of gold, katla, rings, needle, and the concluding exemption from chatat.",
+      "chosen_heading": "Mishnah Overview",
+      "current_heading": "Mishnah Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Tevila Question",
+    "candidates": [
+      "Tevila Question",
+      "Nachman's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's opening question 'who mentioned immersion?' which is precisely what candidate 0's prose discusses, making it the correct placement.",
+      "chosen_heading": "Tevila Question",
+      "current_heading": "Tevila Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Nachman's Reasoning",
+    "candidates": [
+      "Nachman's Reasoning",
+      "Mikvah Removal Fear",
+      "Tosafot Minor Items",
+      "Rav Kahana Query",
+      "Arig Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's explanation of the mishna's reasoning (ma taam kamar), which is precisely what heading 0 'Nachman's Reasoning' discusses in its prose.",
+      "chosen_heading": "Nachman's Reasoning",
+      "current_heading": "Nachman's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Arig Standard",
+    "candidates": [
+      "Mikvah Removal Fear",
+      "Tosafot Minor Items",
+      "Rav Kahana Query",
+      "Arig Standard",
+      "Case-by-Case Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Kahana's question and Rav's answer about woven/porous chains, along with Rav Huna's corroborating statement, which matches precisely the 'Arig Standard' section's prose about woven items not being subject to the decree.",
+      "chosen_heading": "Arig Standard",
+      "current_heading": "Arig Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Case-by-Case Debate",
+    "candidates": [
+      "Case-by-Case Debate",
+      "Categorical vs Individual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the alternative version (ve-ika de-amri) of Rav Huna's statement about his sisters not being particular, which is exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Case-by-Case Debate",
+      "current_heading": "Case-by-Case Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Categorical vs Individual",
+    "candidates": [
+      "Categorical vs Individual",
+      "Makpid Definition",
+      "Mikvaot Mishnah",
+      "Rabbi Yehuda Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the question-and-answer about the practical difference between the two versions (categorical vs. individual makpid approach), which is precisely what the 'Categorical vs Individual' prose section describes in detail.",
+      "chosen_heading": "Categorical vs Individual",
+      "current_heading": "Categorical vs Individual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rabbi Yehuda Hair",
+    "candidates": [
+      "Makpid Definition",
+      "Mikvaot Mishnah",
+      "Rabbi Yehuda Hair",
+      "Rav Huna Clarify",
+      "Soft on Hard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the full mishnah from Mikvaot including both the tanna kamma's list and Rabbi Yehuda's opinion and Rav Huna's statement, and the prose under 'Mikvaot Mishnah' describes exactly this \u2014 the Gemara citing the relevant mishnah from Mikvaot with its list of obstructions, which is the complete content of this passage.",
+      "chosen_heading": "Mikvaot Mishnah",
+      "current_heading": "Rabbi Yehuda Hair",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Soft on Hard",
+    "candidates": [
+      "Rav Huna Clarify",
+      "Soft on Hard",
+      "Choker vs. Necklace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of Rav Yosef's objection and resolution \u2014 the soft-on-soft/hard-on-soft arguments and the final 'because a woman does not strangle herself' conclusion \u2014 which is precisely what candidate 1 ('Soft on Hard') describes in its prose.",
+      "chosen_heading": "Soft on Hard",
+      "current_heading": "Soft on Hard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Choker vs. Necklace",
+    "candidates": [
+      "Choker vs. Necklace",
+      "Totafet Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Choker vs. Necklace",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 (Abaye's objection about chokers and Ravina's resolution with 'katla') are exactly what the 'Choker vs. Necklace' prose describes.",
+      "second_heading": "Totafet Definition",
+      "second_confidence": "low",
+      "second_reason": "Items 4-10 discuss whether wool strings and hair strands interpose in mikvah immersion (the Rabbi Yehuda dispute from Mikvaot), which does not match the 'Totafet Definition' prose \u2014 but there is no better candidate heading available, so the second segment may be misplaced relative to the available options.",
+      "current_heading": "Choker vs. Necklace",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Totafet Definition",
+    "candidates": [
+      "Totafet Definition",
+      "Amulet Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines what a totefet is (a spice bundle), which matches exactly the prose of heading 0 about the definition of totfet, not heading 1 which discusses Abaye's follow-up question about amulets.",
+      "chosen_heading": "Totafet Definition",
+      "current_heading": "Totafet Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Amulet Question",
+    "candidates": [
+      "Amulet Question",
+      "Amulet Deferred",
+      "Rabbi Yannai",
+      "Golden Hairnet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct challenge about treating the packet like a proven amulet, which is precisely what the 'Amulet Question' prose discusses \u2014 Abaye pressing that it should be permitted like a kameia mumcheh.",
+      "chosen_heading": "Amulet Question",
+      "current_heading": "Amulet Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Golden Hairnet",
+    "candidates": [
+      "Amulet Deferred",
+      "Rabbi Yannai",
+      "Golden Hairnet",
+      "Anatomy Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Yehuda/Abaye identification of totefet as apuzainu AND the baraita about the golden hairnet, but candidate 1 ('Rabbi Yannai') explicitly discusses Rav Yehuda mishmeih de-Abaye and the apuzaino identification as its primary content, while candidate 2 ('Golden Hairnet') discusses only the baraita portion \u2014 the full passage is better unified under the heading that covers the Abaye identification, which introduces the baraita as supporting evidence.",
+      "chosen_heading": "Rabbi Yannai",
+      "current_heading": "Golden Hairnet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Anatomy Description",
+    "candidates": [
+      "Golden Hairnet",
+      "Anatomy Description",
+      "Poor Women Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines totefet and sarvitin anatomically (ear to ear, down to cheeks), which matches exactly the 'Anatomy Description' section prose discussing these same definitions.",
+      "chosen_heading": "Anatomy Description",
+      "current_heading": "Anatomy Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Poor Women Items",
+    "candidates": [
+      "Poor Women Items",
+      "Kvul Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Huna's statement about poor women using colored materials and wealthy women using silver and gold, which is exactly what the 'Poor Women Items' section's prose discusses.",
+      "chosen_heading": "Poor Women Items",
+      "current_heading": "Poor Women Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Kvul Ambiguity",
+    "candidates": [
+      "Kvul Ambiguity",
+      "Underneath Hairnet",
+      "Above Below Divide"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yannai's statement of uncertainty about what 'kavul' means and his two proposed interpretations, which is precisely what the 'Kvul Ambiguity' section's prose discusses.",
+      "chosen_heading": "Kvul Ambiguity",
+      "current_heading": "Kvul Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Above Below Divide",
+    "candidates": [
+      "Underneath Hairnet",
+      "Above Below Divide",
+      "Istama Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Abbahu's reasoning and the baraita culminating in Rabbi Shimon ben Elazar's general principle, which is precisely what the 'Underneath Hairnet' section's prose is about \u2014 the formulation of that klal \u2014 rather than the detailed analysis of the above/below divide found in candidate 1.",
+      "chosen_heading": "Underneath Hairnet",
+      "current_heading": "Above Below Divide",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Istama Definition",
+    "candidates": [
+      "Above Below Divide",
+      "Istama Definition",
+      "Istama Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'istama' via Rabbi Abbahu and Abaye/Rav, which is precisely what the 'Istama Definition' section's prose discusses.",
+      "chosen_heading": "Istama Definition",
+      "current_heading": "Istama Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Istama Rules",
+    "candidates": [
+      "Istama Rules",
+      "Bride Crowns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing the three rules about istama (kilayim, nega'im, reshut ha-rabim), which is precisely what the 'Istama Rules' prose section discusses in detail.",
+      "chosen_heading": "Istama Rules",
+      "current_heading": "Istama Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Bride Crowns",
+    "candidates": [
+      "Bride Crowns",
+      "Samuel's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the statement about bridal crowns not applying to the istema, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Bride Crowns",
+      "current_heading": "Bride Crowns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Samuel's Distinction",
+    "candidates": [
+      "Samuel's Distinction",
+      "Master Requirement",
+      "Seal Breaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's opinion that kavul refers to a slave's seal and the immediate challenge from Shmuel's own ruling about neck vs. garment seals, which is precisely what heading 0 ('Samuel's Distinction') discusses in its prose.",
+      "chosen_heading": "Samuel's Distinction",
+      "current_heading": "Samuel's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Seal Breaking",
+    "candidates": [
+      "Master Requirement",
+      "Seal Breaking",
+      "Folding Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the lo kashya resolution distinguishing master-made vs. self-made seals, which is precisely what candidate 0 ('Master Requirement') describes in its prose, not the follow-up challenge about the garment seal discussed in candidate 1.",
+      "chosen_heading": "Master Requirement",
+      "current_heading": "Seal Breaking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Folding Concern",
+    "candidates": [
+      "Seal Breaking",
+      "Folding Concern",
+      "Resh Galuta Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the slave folding his garment and placing it on his shoulder, and cites Rav Yitz\u1e25ak bar Yosef/Rabbi Yo\u1e25anan's ruling that carrying a folded garment on one's shoulders constitutes carrying, which is precisely what the 'Folding Concern' section's prose discusses.",
+      "chosen_heading": "Folding Concern",
+      "current_heading": "Folding Concern",
+      "moved": false
+    }
+  }
+]

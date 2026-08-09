@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Get After Death",
+    "candidates": [
+      "Ones Concept Intro",
+      "Get After Death",
+      "Dating Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about 'harei zeh gitich im mati' and related formulations establishing ein get achar misa, which is precisely what the 'Get After Death' section's prose describes and analyzes.",
+      "chosen_heading": "Get After Death",
+      "current_heading": "Get After Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Dating Documents",
+    "candidates": [
+      "Dating Documents",
+      "Conditional Get Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabboseinu baraita, Bei Dina Desharu Mishcha, and Rabbi Yossi's principle of zmano shel shetar mochiach alav, all of which are the specific topics elaborated in the 'Dating Documents' prose section.",
+      "chosen_heading": "Dating Documents",
+      "current_heading": "Dating Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Conditional Get Case",
+    "candidates": [
+      "Conditional Get Case",
+      "Dying vs. Sickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the case from the latter clause of the mishna about 'from now if I do not return within twelve months' and concludes it is a valid get, which is precisely what the 'Conditional Get Case' prose discusses \u2014 the gemara turning to the end of the mishna and analyzing this exact scenario.",
+      "chosen_heading": "Conditional Get Case",
+      "current_heading": "Conditional Get Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Dying vs. Sickness",
+    "candidates": [
+      "Dying vs. Sickness",
+      "River Blockage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection ('dilma mes davka') regarding dying vs. illness, which is precisely what the 'Dying vs. Sickness' section's prose discusses.",
+      "chosen_heading": "Dying vs. Sickness",
+      "current_heading": "Dying vs. Sickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "River Blockage",
+    "candidates": [
+      "River Blockage",
+      "Anticipated Ones",
+      "Foreseeability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the river blockage case and Shmuel's ruling that it is not considered a return, which is precisely what the 'River Blockage' section's prose discusses.",
+      "chosen_heading": "River Blockage",
+      "current_heading": "River Blockage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Foreseeability",
+    "candidates": [
+      "Anticipated Ones",
+      "Foreseeability",
+      "Raba's Reasoning",
+      "Policy Problems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's rejection of a proof by distinguishing common/foreseeable ones, which directly matches heading 0's prose about 've-dilma unsa de-shiyach shani' and the categorical difference of foreseeable ones \u2014 heading 1's prose already discusses the elaboration and implication of this rejection, but the quoted text itself is the initial rejection statement that belongs under heading 0.",
+      "chosen_heading": "Anticipated Ones",
+      "current_heading": "Foreseeability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Policy Problems",
+    "candidates": [
+      "Raba's Reasoning",
+      "Policy Problems",
+      "Hafka'as Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items articulate the mishum tznuos u-mishum prutzos policy reasoning \u2014 the exact content that candidate 1 ('Policy Problems') describes in its prose, explaining how virtuous women might sit as agunot and licentious women might remarry invalidly.",
+      "chosen_heading": "Policy Problems",
+      "current_heading": "Policy Problems",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Hafka'as Kiddushin",
+    "candidates": [
+      "Hafka'as Kiddushin",
+      "Fig Leaf Get",
+      "Money vs. Sex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's challenge about permitting a married woman for policy reasons and the answer about ada'ata d'rabanan mekadesh/hafka'as kiddushin \u2014 are explicitly discussed and quoted in the 'Hafka'as Kiddushin' prose, which is the current placement.",
+      "chosen_heading": "Hafka'as Kiddushin",
+      "current_heading": "Hafka'as Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Money vs. Sex",
+    "candidates": [
+      "Fig Leaf Get",
+      "Money vs. Sex",
+      "Redefining Acts",
+      "Alternate View",
+      "Ones Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ravina's question to Rav Ashi about the distinction between kiddushei kesef and kiddushei biah, which is exactly what the 'Money vs. Sex' section's prose describes.",
+      "chosen_heading": "Money vs. Sex",
+      "current_heading": "Money vs. Sex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Ones Matters",
+    "candidates": [
+      "Redefining Acts",
+      "Alternate View",
+      "Ones Matters",
+      "Mishna Challenge",
+      "Death Anticipated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 'some say' version of Rava's ruling that yesh ones begitin \u2014 ones does matter with regard to bills of divorce \u2014 which is precisely what the 'Ones Matters' section's prose describes as its subject matter.",
+      "chosen_heading": "Ones Matters",
+      "current_heading": "Ones Matters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Death Anticipated",
+    "candidates": [
+      "Mishna Challenge",
+      "Death Anticipated",
+      "Final Conclusion",
+      "Three-Day Prep",
+      "Court Schedule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of objections and responses about whether ones (unavoidable circumstances) negates a conditional get, culminating in the river case and the foreseeable-ones distinction \u2014 exactly the content described in the 'Death Anticipated' prose.",
+      "chosen_heading": "Death Anticipated",
+      "current_heading": "Death Anticipated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Court Schedule",
+    "candidates": [
+      "Final Conclusion",
+      "Three-Day Prep",
+      "Court Schedule",
+      "Variable Courts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Shmuel bar Yitz\u1e25ak's statement about the rule applying only from Ezra's takana onward, which is precisely what the 'Court Schedule' section's prose discusses and explicates.",
+      "chosen_heading": "Court Schedule",
+      "current_heading": "Court Schedule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Variable Courts",
+    "candidates": [
+      "Variable Courts",
+      "Core Requirement",
+      "Shakdu Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the gemara's reinterpretation of 'prior to Ezra's ordinance' \u2014 that it means if courts sat regularly today as they did then, a woman could marry any day \u2014 which is precisely what the 'Variable Courts' prose section discusses.",
+      "chosen_heading": "Variable Courts",
+      "current_heading": "Variable Courts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Shakdu Source",
+    "candidates": [
+      "Core Requirement",
+      "Shakdu Source",
+      "Three-Day Pattern",
+      "Wednesday to Tuesday",
+      "Monday Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Core Requirement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question about whether the shakdu requirement still applies and the answer that preparation is what matters, which matches exactly the 'Core Requirement' prose about ha ba'inan shakdu and the tarach lei answer.",
+      "second_heading": "Shakdu Source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita sourcing and explaining the concept of shakdu, which matches exactly the 'Shakdu Source' prose discussing mai shakdu, the baraita's question about Wednesday, and the takanas bnos Yisrael answer.",
+      "current_heading": "Shakdu Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Monday Exception",
+    "candidates": [
+      "Three-Day Pattern",
+      "Wednesday to Tuesday",
+      "Monday Exception",
+      "Ruler's Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Tuesday custom shift and the Monday prohibition with coercion exception, matching the 'Wednesday to Tuesday' section's prose which explicitly discusses the shift to Tuesday and the rabbis not objecting, while the 'Monday Exception' section's prose already describes the Monday rule in its own words \u2014 but the actual quoted baraita contains both elements together and the Tuesday shift content is the primary framing, making candidate 1 the better fit; however, since the passage also covers the Monday exception and Shabbat isolation rule, and candidate 2's prose explicitly addresses the Monday content, the current placement under 'Monday Exception' is actually a reasonable match for the latter portion of the baraita.",
+      "chosen_heading": "Wednesday to Tuesday",
+      "current_heading": "Monday Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Ruler's Right",
+    "candidates": [
+      "Monday Exception",
+      "Ruler's Right",
+      "Tznuot Resistance",
+      "Submission Permitted",
+      "Education Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's discussion of what the 'danger' (*sakana*) was \u2014 first rejecting the death-penalty explanation, then Rabba's answer about the hegmon's droit de seigneur \u2014 which is precisely what candidate 1 ('Ruler's Right') describes in its prose.",
+      "chosen_heading": "Ruler's Right",
+      "current_heading": "Ruler's Right",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Education Risk",
+    "candidates": [
+      "Tznuot Resistance",
+      "Submission Permitted",
+      "Education Risk",
+      "Gezeira vs. Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about why the Sages don't simply teach that submission is permitted, and the two answers (prutzos and kohanos) \u2014 which is precisely what the 'Education Risk' section's prose discusses.",
+      "chosen_heading": "Education Risk",
+      "current_heading": "Education Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Gezeira vs. Takana",
+    "candidates": [
+      "Gezeira vs. Takana",
+      "Shift to Tuesday",
+      "Tuesday Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle of not abolishing a rabbinic ordinance in the face of persecution (gezeira avidah de-batlah / takkanata de-rabbanan) AND the Tuesday uncertainty argument, and the current heading's prose explicitly covers both of these exact points from this Talmudic excerpt.",
+      "chosen_heading": "Gezeira vs. Takana",
+      "current_heading": "Gezeira vs. Takana",
+      "moved": false
+    }
+  }
+]

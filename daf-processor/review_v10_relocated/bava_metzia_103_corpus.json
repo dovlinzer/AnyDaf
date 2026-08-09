@@ -1,0 +1,421 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Burden of Proof Setup",
+    "candidates": [
+      "Burden of Proof Setup",
+      "Hamotzi Mechavero",
+      "Temporal Presumptions",
+      "Pidyon Haben Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma posed to Rabbi Yannai about who bears the burden of proof, which matches exactly the 'Burden of Proof Setup' prose that introduces this very question.",
+      "chosen_heading": "Burden of Proof Setup",
+      "current_heading": "Burden of Proof Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Pidyon Haben Analogy",
+    "candidates": [
+      "Hamotzi Mechavero",
+      "Temporal Presumptions",
+      "Pidyon Haben Analogy",
+      "Last Day Payment Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'eimas' question (when did the dispute occur?) and the pidyon haben mishna cited as its proof \u2014 this entire unit belongs under 'Temporal Presumptions' where the prose describes exactly this structure: the gemara asking 'when' and citing a mishna to establish the temporal presumption principle, rather than under 'Pidyon Haben Analogy' which discusses only the second half of the passage.",
+      "chosen_heading": "Temporal Presumptions",
+      "current_heading": "Pidyon Haben Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Last Day Payment Practice",
+    "candidates": [
+      "Pidyon Haben Analogy",
+      "Last Day Payment Practice",
+      "Worker Oath Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's dilemma about whether people pay on the final day of the rental period, which is precisely what the 'Last Day Payment Practice' section's prose describes.",
+      "chosen_heading": "Last Day Payment Practice",
+      "current_heading": "Last Day Payment Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Worker Oath Exception",
+    "candidates": [
+      "Worker Oath Exception",
+      "Ten-Year Rental Case",
+      "Shetar Purpose Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the hired laborer oath exception (sakhir bizmano nishba venotel) and the rationale that the ba'al habayis is distracted by his workers, which is precisely what candidate 0's prose elaborates upon in detail.",
+      "chosen_heading": "Worker Oath Exception",
+      "current_heading": "Worker Oath Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Shetar Purpose Analysis",
+    "candidates": [
+      "Ten-Year Rental Case",
+      "Shetar Purpose Analysis",
+      "Shetar Rental: Non-Extr"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Rav Nachman ruling on the ten-year rental case plus its internal challenge-and-response, all of which the 'Ten-Year Rental Case' prose introduces as a single unit; the current placement under 'Shetar Purpose Analysis' splits off only the challenge-response portion, but the entire passage belongs under heading 0 which explicitly sets up this ruling.",
+      "chosen_heading": "Ten-Year Rental Case",
+      "current_heading": "Shetar Purpose Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Shetar Rental: Non-Extr",
+    "candidates": [
+      "Shetar Purpose Analysis",
+      "Shetar Rental: Non-Extr",
+      "Betuvo Indefinite Rights",
+      "Kinyan Sudar for Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Na\u1e25man's principle about borrowing 'in its good working order forever,' which is precisely the *shoel adam betuvo le'olam* principle described in the 'Betuvo Indefinite Rights' prose section.",
+      "chosen_heading": "Betuvo Indefinite Rights",
+      "current_heading": "Shetar Rental: Non-Extr",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Kinyan Sudar for Rights",
+    "candidates": [
+      "Betuvo Indefinite Rights",
+      "Kinyan Sudar for Rights",
+      "Betuvo Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that the unlimited borrowing right applies only if a kinyan (act of acquisition) was performed, which matches exactly the prose of 'Kinyan Sudar for Rights' discussing Rav Mari's qualification about kinyan sudar being required for the ongoing right.",
+      "chosen_heading": "Kinyan Sudar for Rights",
+      "current_heading": "Kinyan Sudar for Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Betuvo Obligation",
+    "candidates": [
+      "Betuvo Obligation",
+      "Orchard Scope Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Mari returning the handle (katei) directly matches the 'Betuvo Obligation' prose, which explicitly discusses Rav Mari son of Rav Ashi and the umehadar lei katei teaching about returning a broken object.",
+      "chosen_heading": "Betuvo Obligation",
+      "current_heading": "Betuvo Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Orchard Scope Limits",
+    "candidates": [
+      "Orchard Scope Limits",
+      "Meita Machmat Melacha",
+      "Named vs. Abstract Well",
+      "Area of Wells Rights",
+      "Kinyan Sudar: Non-Posses",
+      "Specific vs. Generic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the scope of lending a hoe for orchards \u2014 'this orchard,' 'an orchard,' 'orchards' \u2014 which is precisely what the 'Orchard Scope Limits' prose describes, including the detail about returning the handle, making the current placement correct.",
+      "chosen_heading": "Orchard Scope Limits",
+      "current_heading": "Orchard Scope Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Specific vs. Generic",
+    "candidates": [
+      "Meita Machmat Melacha",
+      "Named vs. Abstract Well",
+      "Area of Wells Rights",
+      "Kinyan Sudar: Non-Posses",
+      "Specific vs. Generic",
+      "House Like This Standard"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Named vs. Abstract Well",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains Rav Pappa's teaching about 'this well' vs. 'a well' vs. 'a place for a well,' which matches the Named vs. Abstract Well heading's prose about the same distinctions.",
+      "second_heading": "Specific vs. Generic",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about renting a house that falls, with rules about replacement specifications, which matches the 'Specific vs. Generic' heading's prose describing exactly this Mishna.",
+      "third_heading": "Specific vs. Generic",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara's question about the circumstances of the Mishna (this house vs. a house unspecified), which also belongs under 'Specific vs. Generic' as that heading's prose explicitly describes this Gemara discussion.",
+      "current_heading": "Specific vs. Generic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "House Like This Standard",
+    "candidates": [
+      "House Like This Standard",
+      "River View Plus Footage",
+      "Harvest vs. Uproot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Reish Lakish's initial resolution, the gemara's objection, and Ravin's revised version with the riverbank qualification \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "House Like This Standard",
+      "current_heading": "House Like This Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Harvest vs. Uproot",
+    "candidates": [
+      "River View Plus Footage",
+      "Harvest vs. Uproot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage is a Hadran (end-of-tractate/chapter marker) with no substantive content that clearly matches either candidate's prose, so the current placement is retained by default.",
+      "chosen_heading": "Harvest vs. Uproot",
+      "current_heading": "Harvest vs. Uproot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Harvest vs. Uproot",
+    "candidates": [
+      "Harvest vs. Uproot",
+      "Plowing After Harvest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover the mishna and gemara about cutting vs. uprooting and the baraita explaining that both parties can prevent deviation from local custom \u2014 exactly what the 'Harvest vs. Uproot' prose discusses in detail.",
+      "chosen_heading": "Harvest vs. Uproot",
+      "current_heading": "Harvest vs. Uproot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Plowing After Harvest",
+    "candidates": [
+      "Plowing After Harvest",
+      "Tree Rights Allocation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses plowing after harvest, weeding as a substitute, and the requirement to specify conditions explicitly \u2014 matching precisely the prose under 'Plowing After Harvest'.",
+      "chosen_heading": "Plowing After Harvest",
+      "current_heading": "Plowing After Harvest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Tree Rights Allocation",
+    "candidates": [
+      "Tree Rights Allocation",
+      "Explicit Stipulation Ovrd"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's interpretation of 'hakol ke-minhag hamedinah' as including the baraisa about renting trees with land, which is precisely what the prose under 'Tree Rights Allocation' describes.",
+      "chosen_heading": "Tree Rights Allocation",
+      "current_heading": "Tree Rights Allocation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Explicit Stipulation Ovrd",
+    "candidates": [
+      "Explicit Stipulation Ovrd",
+      "Straw Division Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the two scenarios (owner reduced percentage / worker increased percentage) where one party argues their deviation from the standard split implicitly modified tree rights, and the gemara rules that explicit stipulation was required \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Explicit Stipulation Ovrd",
+      "current_heading": "Explicit Stipulation Ovrd",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Straw Division Practice",
+    "candidates": [
+      "Straw Division Practice",
+      "Field Protection Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the division of stubble and straw between owner and sharecropper, and Rav Yosef's statement about Babylonian custom not giving straw to the sharecropper, which is precisely what the 'Straw Division Practice' prose describes.",
+      "chosen_heading": "Straw Division Practice",
+      "current_heading": "Straw Division Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Field Protection Division",
+    "candidates": [
+      "Field Protection Division",
+      "Vine Trellis Sharing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the division of field protection responsibilities (earthen barriers, thorn fences, irrigation equipment) between landowner and sharecropper, which precisely matches the 'Field Protection Division' section's prose.",
+      "chosen_heading": "Field Protection Division",
+      "current_heading": "Field Protection Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Vine Trellis Sharing",
+    "candidates": [
+      "Vine Trellis Sharing",
+      "Unnamed Features: No Rent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the division and supply of vine-trellis poles (kanim) between landowner and sharecropper, which is precisely what the 'Vine Trellis Sharing' prose describes.",
+      "chosen_heading": "Vine Trellis Sharing",
+      "current_heading": "Vine Trellis Sharing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Unnamed Features: No Rent",
+    "candidates": [
+      "Unnamed Features: No Rent",
+      "Named Features: Rent Red."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the unnamed-features rule (no rent reduction) and the named-features rule (rent reduction), but as a single unified passage it belongs under heading 0 where the overall mishna is introduced, since heading 1 covers only the second half's specific content and the passage as a whole is the complete mishna text.",
+      "chosen_heading": "Unnamed Features: No Rent",
+      "current_heading": "Unnamed Features: No Rent",
+      "moved": false
+    }
+  }
+]

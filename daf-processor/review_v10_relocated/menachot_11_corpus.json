@@ -1,0 +1,481 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Foreign Objects",
+    "candidates": [
+      "Foreign Objects",
+      "Three Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Foreign Objects",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna's list of foreign objects (stone, salt, frankincense) that invalidate the kometz, which is exactly what heading 0 'Foreign Objects' describes.",
+      "second_heading": "Three Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens with the Gemara's question 'Why do I need all these examples?' which is precisely the 'kulei lama li' question that heading 1 'Three Examples' addresses in its prose.",
+      "current_heading": "Foreign Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Three Examples",
+    "candidates": [
+      "Three Examples",
+      "Chatzitza Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items explain why all three examples (pebble/stone, salt, frankincense) are necessary \u2014 exactly what the 'Three Examples' prose section discusses in detail, covering the same distinctions about fitness for sacrifice and original designation with the meal offering.",
+      "chosen_heading": "Three Examples",
+      "current_heading": "Three Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Chatzitza Question",
+    "candidates": [
+      "Chatzitza Question",
+      "Min HaTzad",
+      "Abaye Asks Rava",
+      "Halakhic Fingers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why the mishna uses 'lacking or outsized' rather than chatzitza, and Rabbi Yirmiya's 'min hatzad' answer \u2014 which together constitute the core content of the 'Chatzitza Question' section's prose discussion.",
+      "chosen_heading": "Chatzitza Question",
+      "current_heading": "Chatzitza Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Halakhic Fingers",
+    "candidates": [
+      "Min HaTzad",
+      "Abaye Asks Rava",
+      "Halakhic Fingers",
+      "All Fingers Question",
+      "Three Fingers Bent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Asks Rava",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of Abaye's practical question to Rava about how kemitza is performed, matching candidate 1 ('Abaye Asks Rava') which describes exactly this exchange.",
+      "second_heading": "Halakhic Fingers",
+      "second_confidence": "high",
+      "second_reason": "Items continuing with the baraita listing the five halakhic fingers (zeret, kemitza, amah, etzba, gudal) match candidate 2 ('Halakhic Fingers') whose prose describes precisely this identification of the five fingers by their ritual names.",
+      "current_heading": "Halakhic Fingers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Three Fingers Bent",
+    "candidates": [
+      "All Fingers Question",
+      "Three Fingers Bent",
+      "Tanya Nami Hachi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the 'ela le-hashvot' leveling clarification (resolving the all-fingers challenge) and Item 2 is Rav Zutra bar Tuvya's description of bending three fingers \u2014 both belong under 'All Fingers Question' whose prose describes exactly this sequence: the Gemara clarifies that all five fingers aren't used for scooping, then gives Rav's resolution about the three bent fingers; the current heading 'Three Fingers Bent' duplicates this content but the prose of 'All Fingers Question' is the clearer match for the passage's specific question-and-answer structure.",
+      "chosen_heading": "All Fingers Question",
+      "current_heading": "Three Fingers Bent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Tanya Nami Hachi",
+    "candidates": [
+      "Three Fingers Bent",
+      "Tanya Nami Hachi",
+      "Smoothing Chunks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita that reconciles 'melo kumtzo' with 'bekumtzo,' concluding with 'chofeh shalosh etzba'otav al pas yado ve-komatz,' which is precisely what the 'Tanya Nami Hachi' prose describes.",
+      "chosen_heading": "Tanya Nami Hachi",
+      "current_heading": "Tanya Nami Hachi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Smoothing Chunks",
+    "candidates": [
+      "Smoothing Chunks",
+      "Hardest Labor",
+      "Why Hardest?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the thumb/pinky wiping technique AND the 'hardest rite' declaration, spanning content discussed in headings 0 and 1, but since heading 0's prose explicitly discusses the mochek be-gudlo milma'alah technique with pan offerings and the passage begins with that content, and the passage is a single continuous baraita unit, the current placement under 'Smoothing Chunks' is the best fit given it introduces both elements together.",
+      "chosen_heading": "Smoothing Chunks",
+      "current_heading": "Smoothing Chunks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Why Hardest?",
+    "candidates": [
+      "Hardest Labor",
+      "Why Hardest?",
+      "Fingertips & Sides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's skeptical challenge ('This one and no other? But isn't there melikah and chafina?') and its amended conclusion ('one of the hardest rites'), which is exactly what heading 1 'Why Hardest?' discusses in its prose.",
+      "chosen_heading": "Why Hardest?",
+      "current_heading": "Why Hardest?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Fingertips & Sides",
+    "candidates": [
+      "Fingertips & Sides",
+      "Chafina Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's dilemmas about unconventional kemitza methods (fingertips, sides, bottom-up) concluding with teiku, which is precisely what the 'Fingertips & Sides' prose describes.",
+      "chosen_heading": "Fingertips & Sides",
+      "current_heading": "Fingertips & Sides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Chafina Variants",
+    "candidates": [
+      "Chafina Variants",
+      "Process vs Result",
+      "Body of Cohen",
+      "Wall Placement",
+      "Upside-Down Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's dilemmas about chafina (the double handful of Yom Kippur incense) \u2014 fingertips, sides, and bringing two hands together \u2014 which is exactly what the 'Chafina Variants' prose describes.",
+      "chosen_heading": "Chafina Variants",
+      "current_heading": "Chafina Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Upside-Down Vessel",
+    "candidates": [
+      "Process vs Result",
+      "Body of Cohen",
+      "Wall Placement",
+      "Upside-Down Vessel",
+      "Too Much Oil"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wall Placement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Pappa's dilemma about sticking the kometz to the side wall of the vessel) is precisely what the 'Wall Placement' prose describes \u2014 the tension between toch ha-kli versus hanacha be-tocho with the kometz pressed against the inner wall.",
+      "second_heading": "Upside-Down Vessel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Mar bar Rav Ashi's dilemma about inverting the vessel and sticking the kometz to the underside/base) is precisely what the 'Upside-Down Vessel' prose describes \u2014 hafkhei le-mana, the inverted vessel scenario, and the question of ke-tikuno versus be-tocho.",
+      "current_heading": "Upside-Down Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Too Much Oil",
+    "candidates": [
+      "Too Much Oil",
+      "Two Logs Case",
+      "Why Sanctified?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the kometz procedure and the invalidating conditions (increased/decreased oil, decreased frankincense), which is precisely what the 'Too Much Oil' section's prose discusses as its opening mishnah content.",
+      "chosen_heading": "Too Much Oil",
+      "current_heading": "Too Much Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Why Sanctified?",
+    "candidates": [
+      "Two Logs Case",
+      "Why Sanctified?",
+      "Unsanctified Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Eliezer's 'two log' answer and the immediate Gemara challenge about non-sacred/other-mincha oil, which together form the content described under heading 0 ('Two Logs Case'), while heading 1 ('Why Sanctified?') describes the implicit assumption behind that challenge \u2014 a later analytical step not yet reached in this passage.",
+      "chosen_heading": "Two Logs Case",
+      "current_heading": "Why Sanctified?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Unsanctified Oil",
+    "candidates": [
+      "Why Sanctified?",
+      "Unsanctified Oil",
+      "Both Logs Fit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Zutra bar Toviyya's objection about the minchat choteh \u2014 asking how oil could ever disqualify it if unsanctified/external oil doesn't invalidate \u2014 which is precisely what the 'Unsanctified Oil' prose describes as the absurdity reached by that line of reasoning.",
+      "chosen_heading": "Unsanctified Oil",
+      "current_heading": "Unsanctified Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Both Logs Fit",
+    "candidates": [
+      "Both Logs Fit",
+      "Its Oil Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'lo mibaya' formulation and the case where both logs are fit ('hai chazi leh ve-hai chazi leh'), which is precisely what the prose under 'Both Logs Fit' describes.",
+      "chosen_heading": "Both Logs Fit",
+      "current_heading": "Both Logs Fit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Its Oil Language",
+    "candidates": [
+      "Its Oil Language",
+      "Lacking Levona",
+      "One vs Two Seeds",
+      "One Seed Valid",
+      "All Present?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of why Rabbi Eliezer derives his ruling from the possessive language 'its oil' in the mishnah, which is exactly what the 'Its Oil Language' section's prose describes.",
+      "chosen_heading": "Its Oil Language",
+      "current_heading": "Its Oil Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "All Present?",
+    "candidates": [
+      "Lacking Levona",
+      "One vs Two Seeds",
+      "One Seed Valid",
+      "All Present?",
+      "Three Positions",
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Position",
+      "Rabbi Shimon Position",
+      "Ve-es Kol",
+      "Kol = All",
+      "Kol = Any",
+      "Et = Add One",
+      "Et = Nothing",
+      "With Mincha Dispute",
+      "Separate Offering",
+      "Why Different?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "All Present?",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita contradiction with Rabbi Shimon and its two resolutions, matching heading 3's prose exactly.",
+      "second_heading": "With Mincha Dispute",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-6 present Rabbi Yitzchak bar Yosef/Rabbi Yochanan's organized three-way dispute and its scope clarification (with mincha vs. independent), best matching heading 13's discussion of the machlokes applying to levona that accompanies the mincha.",
+      "current_heading": "All Present?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Why Different?",
+    "candidates": [
+      "Three Positions",
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Position",
+      "Rabbi Shimon Position",
+      "Ve-es Kol",
+      "Kol = All",
+      "Kol = Any",
+      "Et = Add One",
+      "Et = Nothing",
+      "With Mincha Dispute",
+      "Separate Offering",
+      "Why Different?",
+      "Two Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "Both items directly address the scope of the dispute regarding levona that comes with a mincha versus levona brought by itself \u2014 item 1 explains why the ruling about the bazichin bowls is not governed by the mincha verse, and item 2 records Rabbi Ami and Rabbi Yitzchak Nappacha's disagreement about whether the tanna'im's dispute applies only to levona accompanying a mincha or also to levona brought independently, which is precisely what the 'With Mincha Dispute' section (index 9) discusses.",
+      "chosen_heading": "With Mincha Dispute",
+      "current_heading": "Why Different?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Two Vessels",
+    "candidates": [
+      "Why Different?",
+      "Two Vessels",
+      "All Agree",
+      "Bread Exception",
+      "No Kometz",
+      "Mishnah Silence",
+      "Braita Says Invalid",
+      "Two Handfuls",
+      "Moment of Fixing",
+      "Before Kemitza",
+      "After Kemitza",
+      "Four Handfuls",
+      "Before Removal",
+      "After Removal",
+      "Why Repeat?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rami bar \u1e24ama's resolution that the baraita's case of excess frankincense being disqualified refers specifically to when two kematzim were designated for a mincha, which is exactly what heading 7 ('Two Handfuls') describes.",
+      "chosen_heading": "Two Handfuls",
+      "current_heading": "Two Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157,
+      158,
+      159
+    ],
+    "current_heading": "Why Repeat?",
+    "candidates": [
+      "All Agree",
+      "Bread Exception",
+      "No Kometz",
+      "Mishnah Silence",
+      "Braita Says Invalid",
+      "Two Handfuls",
+      "Moment of Fixing",
+      "Before Kemitza",
+      "After Kemitza",
+      "Four Handfuls",
+      "Before Removal",
+      "After Removal",
+      "Why Repeat?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "All four items together form the complete 'Why Repeat?' unit: items 1-2 are the two Rami bar \u1e24ama rulings being compared, item 3 is the Gemara's question 'why do I need this?' (ha tu lama li), and item 4 is the Gemara's answer explaining the novel teaching about actual removal vs. mere arrival of the time \u2014 exactly what the prose of heading 12 describes.",
+      "chosen_heading": "Why Repeat?",
+      "current_heading": "Why Repeat?",
+      "moved": false
+    }
+  }
+]

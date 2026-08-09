@@ -1,0 +1,179 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Examples & Me'ilah",
+    "candidates": [
+      "Selling Chatzer & Zivlah",
+      "Four Categories",
+      "Examples & Me'ilah",
+      "Empty vs. Full",
+      "R. Yehuda's View",
+      "R. Yosi's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Me'ilah 12b baraita cited immediately after the mishna's ruling on selling a dunghill/cistern, and candidate 0's prose explicitly describes the gemara invoking this exact baraita from Me'ilah \u2014 making it the clear home for these two items, not candidate 2 which discusses the subsequent elaboration and examples.",
+      "chosen_heading": "Selling Chatzer & Zivlah",
+      "current_heading": "Examples & Me'ilah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "R. Yosi's View",
+    "candidates": [
+      "Empty vs. Full",
+      "R. Yehuda's View",
+      "R. Yosi's View",
+      "Ownership vs. Sanctity",
+      "Clarifying Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita (both Rabbi Yehuda's and Rabbi Yosi's views together) and belongs under 'Empty vs. Full' which introduces this baraita as a unit, while the subsequent headings break down each rabbi's view separately in the essay's prose analysis.",
+      "chosen_heading": "Empty vs. Full",
+      "current_heading": "R. Yosi's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Clarifying Scope",
+    "candidates": [
+      "Ownership vs. Sanctity",
+      "Clarifying Scope",
+      "Dispute Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita and gemara analysis about Rabbi Yehuda HaNasi's statement endorsing Rabbi Yehuda in cistern/dovecote cases and Rabbi Yosi in field/tree cases, including the challenge and resolution \u2014 exactly what the 'Clarifying Scope' prose describes in detail.",
+      "chosen_heading": "Clarifying Scope",
+      "current_heading": "Clarifying Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Dispute Framework",
+    "candidates": [
+      "Dispute Framework",
+      "Tanna Kamma View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the baraita about empty/full consecration, Rabba's first attempt to locate the dispute in field/tree, Abaye's challenge about the reversal, and Rabba's revised assignment of the dispute to cistern/dovecote \u2014 constitute the exact dialectical chain described in the 'Dispute Framework' prose, which explicitly walks through each of these steps in order.",
+      "chosen_heading": "Dispute Framework",
+      "current_heading": "Dispute Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Tanna Kamma View",
+    "candidates": [
+      "Tanna Kamma View",
+      "R. Elazar Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together explain the empty-cistern/dovecote dispute in terms of the Rabbi Meir vs. Rabbanan principle, with item 2 explicitly naming the tanna kamma as holding like the Rabbanan \u2014 exactly what the 'Tanna Kamma View' prose describes.",
+      "chosen_heading": "Tanna Kamma View",
+      "current_heading": "Tanna Kamma View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "R. Elazar Position",
+    "candidates": [
+      "R. Elazar Position",
+      "Water via Courtyard",
+      "Tosafot Critique",
+      "Filled When Sanctified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection that Rabbi Meir's principle applies only to near-certain future items (like palm fruit) and asks who can guarantee water/doves will come \u2014 then gives Rava's answer about courtyard water and pigeons \u2014 which directly corresponds to the prose in heading 0 ('R. Elazar Position') that raises exactly this objection and mentions Rava's resolution, rather than heading 1 which discusses the deeper ownership/standing argument that Rava's answer implies.",
+      "chosen_heading": "R. Elazar Position",
+      "current_heading": "R. Elazar Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Filled When Sanctified",
+    "candidates": [
+      "Water via Courtyard",
+      "Tosafot Critique",
+      "Filled When Sanctified",
+      "Hekdesh = Hedyot",
+      "Well Includes Water?",
+      "Mishna Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items elaborate the principle of 'danin din gavoah midin hedyot' \u2014 that hekdesh law is derived from ordinary transactions \u2014 which is precisely what candidate 3 ('Hekdesh = Hedyot') discusses, making it a clearly better match than the current placement in candidate 2 ('Filled When Sanctified'), which covers the setup but not the derivation of Rabbi Elazar bar Shimon's reasoning from his father's principle.",
+      "chosen_heading": "Hekdesh = Hedyot",
+      "current_heading": "Filled When Sanctified",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Mishna Status",
+    "candidates": [
+      "Hekdesh = Hedyot",
+      "Well Includes Water?",
+      "Mishna Status",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge from the mishna and Rava's resolution that the mishna is an individual opinion, which is precisely what the 'Mishna Status' section's prose describes.",
+      "chosen_heading": "Mishna Status",
+      "current_heading": "Mishna Status",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Sanctify > Temurah",
+    "candidates": [
+      "Mishnah Setup",
+      "Sanctify > Temurah",
+      "Temurah > Sanctify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah introducing both sides of the comparison (chomer bekodshim mibetemurah vechomer betemurah mibekodshim), which the 'Mishnah Setup' prose explicitly describes as framing the two-directional comparison, whereas the current placement under 'Sanctify > Temurah' covers only the first half of the mishnah's content.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Sanctify > Temurah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Temurah > Sanctify",
+    "candidates": [
+      "Sanctify > Temurah",
+      "Temurah > Sanctify",
+      "Position Statement",
+      "R. Eliezer Statement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Temurah > Sanctify",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the stringency of temurah over kodshim regarding kedusha taking effect on a blemished animal and not being redeemed to non-sacred status, which is precisely what candidate 1's prose explains in detail.",
+      "second_heading": "Position Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yosei son of Rabbi Yehuda's position that unwitting action is treated like intentional action in temurah but not in consecration, which is exactly what candidate 2's prose ('Position Statement') is about.",
+      "current_heading": "Temurah > Sanctify",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "R. Eliezer Statement",
+    "candidates": [
+      "Position Statement",
+      "R. Eliezer Statement",
+      "Lokeh vs. Kadosh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's statement about kilayim, tereifa, yotzei dofen, tumtum, and androgynos not being sacred and not sanctifying others, which directly matches the prose in candidate 1 ('R. Eliezer Statement') that explicitly discusses these same categories and their exclusion from temurah.",
+      "chosen_heading": "R. Eliezer Statement",
+      "current_heading": "R. Eliezer Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Lokeh vs. Kadosh",
+    "candidates": [
+      "Lokeh vs. Kadosh",
+      "Olah/Shelamim Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about Rabbi Yosei son of Rabbi Yehuda's reasoning and the answer from 'yihyeh kodesh' including unwitting acts, which is precisely what the 'Lokeh vs. Kadosh' prose introduces and analyzes as its opening exegetical foundation.",
+      "chosen_heading": "Lokeh vs. Kadosh",
+      "current_heading": "Lokeh vs. Kadosh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Olah/Shelamim Case",
+    "candidates": [
+      "Olah/Shelamim Case",
+      "Black/White Case",
+      "Stipulation Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with \u1e24izkiyya's analysis and Reish Lakish/Rabbi Yo\u1e25anan's olah/shelamim case \u2014 exactly the content discussed in the 'Olah/Shelamim Case' prose \u2014 while the 'Black/White Case' prose explicitly covers only the black/white scenario (item 4), which is merely the final alternative version appended to the same sugya.",
+      "chosen_heading": "Olah/Shelamim Case",
+      "current_heading": "Olah/Shelamim Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Stipulation Case",
+    "candidates": [
+      "Black/White Case",
+      "Stipulation Case",
+      "Pre-intent Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yo\u1e25anan's case of 'tetzei zu vetikanes zu' (explicit stipulation) and the parallel kodshim case of eating a blemished animal without redemption, which is precisely what the 'Stipulation Case' prose discusses in detail.",
+      "chosen_heading": "Stipulation Case",
+      "current_heading": "Stipulation Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Pre-intent Case",
+    "candidates": [
+      "Pre-intent Case",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Sheshet's scenario of pre-declared intent followed by absentminded execution, which is precisely what the 'Pre-intent Case' prose elaborates upon in detail.",
+      "chosen_heading": "Pre-intent Case",
+      "current_heading": "Pre-intent Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Shmuel Position",
+      "Rav Oshaya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items deal with Rabbi Elazar's list of excluded animals, Shmuel's explanation of that mishna, Rabbi Meir's baraita, and Rav Pappa/Rava's analysis of Rabbi Elazar's reasoning \u2014 exactly the content described in the 'Shmuel Position' prose, which explicitly mentions Shmuel's explanation of Rabbi Elazar's statement and Rabbi Meir's baraita.",
+      "chosen_heading": "Shmuel Position",
+      "current_heading": "Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Rav Oshaya",
+    "candidates": [
+      "Rav Oshaya",
+      "Category Distinction",
+      "Psul Guf Analysis",
+      "Challenge to Rava",
+      "Behemah Tmeia",
+      "Mishnah on Vlad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with Shmuel's ruling about consecrating a tereifa animal, challenges from the mishnah and baraita about kedushat haguf, and Shmuel's responses \u2014 exactly the content described in the 'Rav Oshaya' section's prose.",
+      "chosen_heading": "Rav Oshaya",
+      "current_heading": "Rav Oshaya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Mishnah on Vlad",
+    "candidates": [
+      "Category Distinction",
+      "Psul Guf Analysis",
+      "Challenge to Rava",
+      "Behemah Tmeia",
+      "Mishnah on Vlad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Hadran formula marking the end of a tractate chapter, which naturally belongs under the 'Mishnah on Vlad' heading that discusses the opening of a new perek \u2014 the Hadran concludes the preceding perek just before this new chapter begins.",
+      "chosen_heading": "Mishnah on Vlad",
+      "current_heading": "Mishnah on Vlad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Mishnah on Vlad",
+    "candidates": [
+      "Mishnah on Vlad",
+      "End of Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself, and heading 0's prose directly summarizes and explains this exact Mishnah about vlad shelamim, temurasan, and ad sof kol ha'olam, making it the correct placement.",
+      "chosen_heading": "Mishnah on Vlad",
+      "current_heading": "Mishnah on Vlad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "End of Time",
+    "candidates": [
+      "End of Time",
+      "Zachar Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the mishnah adds 'until the end of time' and the response involving Rabbi Elazar's position on offspring of peace offerings, which is precisely what the prose under 'End of Time' discusses.",
+      "chosen_heading": "End of Time",
+      "current_heading": "End of Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Zachar Source",
+    "candidates": [
+      "Zachar Source",
+      "Nekeivah Source",
+      "Word Gender Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Zachar Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the baraita deriving vlad from 'zachar' and temurah from 'nekeivah', including the kal vachomer and its rebuttal, and the extension to ba'alei mumim \u2014 all of which matches the 'Zachar Source' prose precisely.",
+      "second_heading": "Word Gender Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the Rav Safra/Abaye exchange asking why the derivations shouldn't be reversed, which matches exactly the 'Word Gender Debate' prose describing that precise question and Abaye's response.",
+      "current_heading": "Zachar Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Word Gender Debate",
+    "candidates": [
+      "Nekeivah Source",
+      "Word Gender Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts the exact exchange between Rav Safra and Abaye about reversing derivations and Abaye's answer based on grammatical gender, which is precisely what the 'Word Gender Debate' prose describes.",
+      "chosen_heading": "Word Gender Debate",
+      "current_heading": "Word Gender Debate",
+      "moved": false
+    }
+  }
+]

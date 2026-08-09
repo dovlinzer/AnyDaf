@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Three-Month Wait Intro",
+    "candidates": [
+      "Three-Month Wait Intro",
+      "Virgin/Non-Virgin Eirusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks the opening Gemara question about why virgins/betrothed and non-virgins/married are listed separately, which directly matches the 'Three-Month Wait Intro' prose describing the Gemara's opening inquiry into why both categories needed to be listed.",
+      "chosen_heading": "Three-Month Wait Intro",
+      "current_heading": "Three-Month Wait Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Virgin/Non-Virgin Eirusin",
+    "candidates": [
+      "Virgin/Non-Virgin Eirusin",
+      "Lo Plug as Daas Yachid",
+      "Impossible Pregnancies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's interpretation that the Mishnah's categories of virgin and non-virgin map onto eirusin and nissuin respectively, which is exactly the 'hachi ka'amar' resolution described in the prose of candidate 0.",
+      "chosen_heading": "Virgin/Non-Virgin Eirusin",
+      "current_heading": "Virgin/Non-Virgin Eirusin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Impossible Pregnancies",
+    "candidates": [
+      "Lo Plug as Daas Yachid",
+      "Impossible Pregnancies",
+      "Chazar Bo Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lo Plug as Daas Yachid",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the framing narrative (Rabbi Elazar asking about the study hall ruling) that introduces the 'lo plug as daas yachid' question, and item 2 begins the baraita answer to that question \u2014 together they belong under heading 0, whose prose explicitly discusses the Gemara asking whether the stam Mishnah is a daas yachid and answering 'yes' from a braisa.",
+      "second_heading": "Impossible Pregnancies",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the actual content of the baraita enumerating impossible-pregnancy cases and the Rabbi Meir/Rabbi Yehuda dispute, which is precisely what heading 1 ('Impossible Pregnancies') describes in its prose.",
+      "current_heading": "Impossible Pregnancies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Chazar Bo Ruling",
+    "candidates": [
+      "Chazar Bo Ruling",
+      "Stam Mishna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's retraction and Rav Yosef's explanation citing the baraita from Kerem B'Yavne, which is precisely what the 'Chazar Bo Ruling' prose describes.",
+      "chosen_heading": "Chazar Bo Ruling",
+      "current_heading": "Chazar Bo Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Stam Mishna Challenge",
+    "candidates": [
+      "Stam Mishna Challenge",
+      "Stam V'Achar Machloket",
+      "Stam/Machloket Configs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge (stam mishna contradiction) and Rabbi Abbahu's response (stam v'acharav machlokes), which is precisely what heading 0's prose describes \u2014 the question raised to Rabbi Abbahu and his sharp dismissal with the stam/machlokes distinction.",
+      "chosen_heading": "Stam Mishna Challenge",
+      "current_heading": "Stam Mishna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Stam/Machloket Configs",
+    "candidates": [
+      "Stam V'Achar Machloket",
+      "Stam/Machloket Configs",
+      "Flax/Wool Combs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Abbahu's rulings on the four stam/machloket configurations including the cross-source cases and the concluding 'v'chi Rabbi lo shna'ah' line \u2014 are precisely the content described in candidate 1's prose about Rabbi Abbahu's attendant working through stam/machloket configurations.",
+      "chosen_heading": "Stam/Machloket Configs",
+      "current_heading": "Stam/Machloket Configs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Flax/Wool Combs",
+    "candidates": [
+      "Flax/Wool Combs",
+      "Comb Mishna Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items deal with the internal contradictions within the comb Mishnah (flax comb, wool comb, tooth-by-tooth removals) and the various resolutions proposed by the Gemara \u2014 exactly the content described in the 'Flax/Wool Combs' prose, which covers all these sub-questions before the 'Comb Mishna Attribution' section takes over with the dokanai/Rabbi Shimon resolution.",
+      "chosen_heading": "Flax/Wool Combs",
+      "current_heading": "Flax/Wool Combs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Comb Mishna Attribution",
+    "candidates": [
+      "Comb Mishna Attribution",
+      "Eirusin Within 3 Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the precise transmitters concluding the mishna with 'This is Rabbi Shimon,' which is exactly what the 'Comb Mishna Attribution' prose describes as the reason the stam mishna is not truly anonymous.",
+      "chosen_heading": "Comb Mishna Attribution",
+      "current_heading": "Comb Mishna Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Eirusin Within 3 Months",
+    "candidates": [
+      "Eirusin Within 3 Months",
+      "Amimar vs. Rav Ashi",
+      "Rav/Shmuel Exclusion Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the permissibility of eirusin within three months and the flexible calculation of that period (rubo shel rishon, etc.), which is precisely what the prose of candidate 0 discusses.",
+      "chosen_heading": "Eirusin Within 3 Months",
+      "current_heading": "Eirusin Within 3 Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav/Shmuel Exclusion Rule",
+    "candidates": [
+      "Amimar vs. Rav Ashi",
+      "Rav/Shmuel Exclusion Rule",
+      "Final: 3 Months Always"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange between Ameimar and Rav Ashi \u2014 Ameimar's leniency on day ninety, Rav Ashi's challenge, and Ameimar's deflection \u2014 which is precisely what the 'Amimar vs. Rav Ashi' prose describes, making it the clearly better match than the 'Rav/Shmuel Exclusion Rule' heading where it currently sits.",
+      "chosen_heading": "Amimar vs. Rav Ashi",
+      "current_heading": "Rav/Shmuel Exclusion Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Final: 3 Months Always",
+    "candidates": [
+      "Rav/Shmuel Exclusion Rule",
+      "Final: 3 Months Always",
+      "Pregnancy Test Validity",
+      "R. Yossi Widow Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Rava feast incident and the hilchata summary \u2014 are explicitly described in candidate 1's prose, which covers exactly the seudat erusin/nissuin clarification and the final halakhic conclusion about the twenty-four-month and three-month waits.",
+      "chosen_heading": "Final: 3 Months Always",
+      "current_heading": "Final: 3 Months Always",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "R. Yossi Widow Exception",
+    "candidates": [
+      "Pregnancy Test Validity",
+      "R. Yossi Widow Exception",
+      "Kal V'Chomer Argument",
+      "Tisha B'Av Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24isda's kal vachomer argument about betrothal being permitted during a period when laundering is permitted, which directly matches the prose of candidate 2 'Kal V'Chomer Argument' rather than the widow exception introduction in candidate 1.",
+      "chosen_heading": "Kal V'Chomer Argument",
+      "current_heading": "R. Yossi Widow Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Tisha B'Av Kiddushin",
+    "candidates": [
+      "Kal V'Chomer Argument",
+      "Tisha B'Av Kiddushin",
+      "Case Flip Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Gemara's proof from the Tisha B'Av mishna/baraita, the resolution that the baraita refers to 'prior to prior,' and Rava's reconstruction of the kal vachomer from that earlier period \u2014 are precisely the content described in candidate 1's prose about the Tisha B'Av sources underlying the kal vachomer and Rava's v'kodem d'kodem response.",
+      "chosen_heading": "Tisha B'Av Kiddushin",
+      "current_heading": "Tisha B'Av Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Case Flip Strategy",
+    "candidates": [
+      "Case Flip Strategy",
+      "Braita Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly continue the Gemara's 'case flip' reinterpretation of Rabbi Yosei's position \u2014 emending from eirusin to nissuin, questioning whether he holds l'havchana, and distinguishing him from Rabbi Yehuda \u2014 which is precisely what the 'Case Flip Strategy' prose describes.",
+      "chosen_heading": "Case Flip Strategy",
+      "current_heading": "Case Flip Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Braita Reinterpretation",
+    "candidates": [
+      "Braita Reinterpretation",
+      "No Aveilus Eirusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic exchange about reinterpreting Rabbi Yosei's baraita \u2014 the challenge from the baraita, the Gemara's clarification of the difficulty, the inference from the latter clause, and Rava's resolution \u2014 which perfectly matches the 'Braita Reinterpretation' prose describing exactly this process of inverting the baraita's terms through Rava's emendation.",
+      "chosen_heading": "Braita Reinterpretation",
+      "current_heading": "Braita Reinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "No Aveilus Eirusin",
+    "candidates": [
+      "No Aveilus Eirusin",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi \u1e24iyya bar Ami's baraita establishing that there is no aveilus for an eirusin relationship, which is exactly what the 'No Aveilus Eirusin' section prose describes and analyzes.",
+      "chosen_heading": "No Aveilus Eirusin",
+      "current_heading": "No Aveilus Eirusin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Tannaim Debate",
+      "Aveilus Chadasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about restrictions from Rosh Chodesh Av, Rav Ashi's objection about whether the prohibition refers to the act or only the feast, and the Gemara's rebuttal distinguishing eirusin from nissuin \u2014 are precisely the content described in the 'Tannaim Debate' prose, which narrates this exact sequence in detail.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Aveilus Chadasha",
+    "candidates": [
+      "Aveilus Chadasha",
+      "Mishna: 4 Brothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's distinction between new/old mourning and public/individual mourning, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Aveilus Chadasha",
+      "current_heading": "Aveilus Chadasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Mishna: 4 Brothers",
+    "candidates": [
+      "Mishna: 4 Brothers",
+      "Chalitzah Disqualifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna about four brothers married to four women, which is exactly what the prose under 'Mishna: 4 Brothers' describes.",
+      "chosen_heading": "Mishna: 4 Brothers",
+      "current_heading": "Mishna: 4 Brothers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Chalitzah Disqualifies",
+    "candidates": [
+      "Chalitzah Disqualifies",
+      "Preference Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that intercourse or chalitzah with one wife releases her rival wife, which matches exactly the prose under 'Chalitzah Disqualifies' describing mi she-hayah nasui l'shtei nashim u-meit and how either chalitzah or biah exempts the co-wife.",
+      "chosen_heading": "Chalitzah Disqualifies",
+      "current_heading": "Chalitzah Disqualifies",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rav Gidal Vessels",
+    "candidates": [
+      "Definition & Grammar",
+      "Rav Gidal Vessels",
+      "Metaltelin Designated",
+      "Abbahu & Yerushalmi",
+      "Rav Acha Three Din"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Gidal Vessels",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Rav Giddel/Rav's explanation that 'erech of a vessel' means paying its monetary value, plus the grammatical objection and emendation \u2014 exactly what heading 1 ('Rav Gidal Vessels') discusses.",
+      "second_heading": "Metaltelin Designated",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Rav \u1e24isda/Avimi's distinct explanation of 'one who designates movable property toward an erech obligation' with its own grammatical objection and emendation \u2014 exactly what heading 2 ('Metaltelin Designated') discusses.",
+      "current_heading": "Rav Gidal Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rav Acha Three Din",
+    "candidates": [
+      "Metaltelin Designated",
+      "Abbahu & Yerushalmi",
+      "Rav Acha Three Din",
+      "Beis Din Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Abbahu's statement about 'erki alai' with three for movable property and ten for land, followed by Rav Acha of Difti's challenge to Ravina \u2014 exactly the content described in the 'Abbahu & Yerushalmi' prose, which covers both Rabbi Abbahu's reading and introduces the three-versus-ten distinction that Rav Acha then questions.",
+      "chosen_heading": "Abbahu & Yerushalmi",
+      "current_heading": "Rav Acha Three Din",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Beis Din Purpose",
+    "candidates": [
+      "Rav Acha Three Din",
+      "Beis Din Purpose",
+      "Rabbi Yehudah Kohen",
+      "Rav Pappa Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's 'svara hu' response explaining that both giving to and taking from hekdesh require a beis din due to the risk of erring in valuation, which is precisely what the 'Beis Din Purpose' prose section describes and analyzes.",
+      "chosen_heading": "Beis Din Purpose",
+      "current_heading": "Beis Din Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rav Pappa Question",
+    "candidates": [
+      "Rabbi Yehudah Kohen",
+      "Rav Pappa Question",
+      "Ten Kohenim Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav Pappa\u2013Abaye exchange about why the Torah mentions 'kohen' according to the rabbanan, which is precisely what the 'Rav Pappa Question' section's prose describes.",
+      "chosen_heading": "Rav Pappa Question",
+      "current_heading": "Rav Pappa Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Ten Kohenim Count",
+    "candidates": [
+      "Ten Kohenim Count",
+      "Five Kohenim Five"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's derivation about ten occurrences of 'kohen' and the miyut achar miyut principle yielding nine Israelites and one kohen, which is precisely what the 'Ten Kohenim Count' prose describes.",
+      "chosen_heading": "Ten Kohenim Count",
+      "current_heading": "Ten Kohenim Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Five Kohenim Five",
+    "candidates": [
+      "Five Kohenim Five",
+      "Kashya Consensus",
+      "Abbahu Adam Value",
+      "Slave Market Price"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna son of Rav Natan's objection about five priests and five Israelites, which is precisely what the current heading 'Five Kohenim Five' describes in its prose.",
+      "chosen_heading": "Five Kohenim Five",
+      "current_heading": "Five Kohenim Five",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Slave Market Price",
+    "candidates": [
+      "Kashya Consensus",
+      "Abbahu Adam Value",
+      "Slave Market Price",
+      "Tosafot Slaves",
+      "Sanctified Valuations",
+      "Hair Valuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 1 ('Abbahu Adam Value') describes: the Gemara's question about whether a person can be consecrated, Rabbi Abbahu's answer about 'demay alai,' and the baraita explaining the slave-market appraisal \u2014 all of which is the content that heading 1's prose introduces, whereas heading 2 ('Slave Market Price') describes the interpretive analysis of that same passage rather than being its natural home.",
+      "chosen_heading": "Abbahu Adam Value",
+      "current_heading": "Slave Market Price",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Hair Valuation",
+    "candidates": [
+      "Tosafot Slaves",
+      "Sanctified Valuations",
+      "Hair Valuation",
+      "Meila Hair Laws",
+      "Meila Applies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Avin's dilemma about whether hair ready to be shorn is assessed by three or ten judges, which matches exactly what the 'Hair Valuation' prose describes.",
+      "chosen_heading": "Hair Valuation",
+      "current_heading": "Hair Valuation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Meila Applies",
+    "candidates": [
+      "Meila Hair Laws",
+      "Meila Applies",
+      "Grapes Harvest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about consecrating a slave and the debate over me'ilah applying to his hair, which is the introductory material discussed in candidate 0's prose, not the analytical conclusions drawn in candidate 1.",
+      "chosen_heading": "Meila Hair Laws",
+      "current_heading": "Meila Applies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Grapes Harvest",
+    "candidates": [
+      "Meila Applies",
+      "Grapes Harvest",
+      "Hair Grapes Differ"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's introduction of the Rabbi Meir/Rabbis dispute about laden vines (gafnim te'unot) and the oath exemption for karka, which is exactly what the 'Grapes Harvest' section's prose describes and analyzes.",
+      "chosen_heading": "Grapes Harvest",
+      "current_heading": "Grapes Harvest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Hair Grapes Differ",
+    "candidates": [
+      "Hair Grapes Differ",
+      "Rova Nirva",
+      "Male Penetrator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei bar \u1e24anina's explanation distinguishing harvest-ready grapes from cut-ready hair, which is precisely what the 'Hair Grapes Differ' section prose describes.",
+      "chosen_heading": "Hair Grapes Differ",
+      "current_heading": "Hair Grapes Differ",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Male Penetrator",
+    "candidates": [
+      "Rova Nirva",
+      "Male Penetrator",
+      "Textual Parallelism",
+      "Owner Ox Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugyah about rova zachar vs. rova nekevah \u2014 item 1 raises the question and item 2 answers it \u2014 and candidate 0's prose explicitly describes this exact discussion (the mishnah drawing no distinction between male and female cases), while candidates 1 and 2 describe the same content but are split artificially; the natural home for the whole unit is under 'Rova Nirva' where the question originates.",
+      "chosen_heading": "Rova Nirva",
+      "current_heading": "Male Penetrator",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Owner Ox Parallel",
+    "candidates": [
+      "Textual Parallelism",
+      "Owner Ox Parallel",
+      "Abaye Challenge",
+      "Lighter Penalty",
+      "No Death Kofer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about the ox being stoned by twenty-three judges and Abaye's initial challenge, which corresponds exactly to the 'Owner Ox Parallel' prose describing the shor ha-niskal ruling and its textual basis, with Abaye's challenge beginning at the end \u2014 fitting naturally under this heading rather than the 'Abaye Challenge' heading which describes only the challenge itself.",
+      "chosen_heading": "Owner Ox Parallel",
+      "current_heading": "Owner Ox Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "No Death Kofer",
+    "candidates": [
+      "Abaye Challenge",
+      "Lighter Penalty",
+      "No Death Kofer",
+      "Chizkiyah Yomus",
+      "Policy Reasoning",
+      "Sinai Beis Din",
+      "Peshat Killing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items trace the Gemara's sustained argument about whether 'yumat' imposes actual death on the owner \u2014 covering Rava's proof, Abaye's stoning objection, the strangulation possibility, the kofer rebuttal, and the adaraba counter \u2014 exactly the content described in the 'No Death Kofer' prose, which explicitly narrates each of these moves in sequence.",
+      "chosen_heading": "No Death Kofer",
+      "current_heading": "No Death Kofer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Peshat Killing",
+    "candidates": [
+      "Chizkiyah Yomus",
+      "Policy Reasoning",
+      "Sinai Beis Din",
+      "Peshat Killing",
+      "Rami Yechezkel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about how many judges would be needed for the ox at Sinai and resolves it with Rami bar Yechezkel's teaching, which matches heading 2 ('Sinai Beis Din') whose prose explicitly describes this exact question (shor Sinai be-kama) and the Gemara that closes with it.",
+      "chosen_heading": "Sinai Beis Din",
+      "current_heading": "Peshat Killing",
+      "moved": true
+    }
+  }
+]

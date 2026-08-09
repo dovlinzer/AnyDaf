@@ -1,0 +1,400 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Oath's necessity",
+    "candidates": [
+      "Oath's necessity",
+      "Preventive takkanah",
+      "Thief & oath",
+      "Gemara's question",
+      "Migo principle",
+      "Tosafot reasoning",
+      "Modeh b'miktzat",
+      "Loan vs. deposit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's question about why an oath is needed when both parties are already holding the garment, which is precisely what the 'Oath's necessity' section's prose describes and analyzes.",
+      "chosen_heading": "Oath's necessity",
+      "current_heading": "Oath's necessity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Loan vs. deposit",
+    "candidates": [
+      "Preventive takkanah",
+      "Thief & oath",
+      "Gemara's question",
+      "Migo principle",
+      "Tosafot reasoning",
+      "Modeh b'miktzat",
+      "Loan vs. deposit",
+      "Old debt claim",
+      "Specificity matters",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 16,
+      "first_heading": "Loan vs. deposit",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u201316 cover the entire migo de-chashid amamona discussion \u2014 the question, the principle, and all the supporting cases (modeh b'miktzat, loan vs. deposit, four bailees, Rav Huna, lo tachmod, Rav Nachman, Rabbi Chiyya, Rav Sheshet) \u2014 which matches exactly the 'Loan vs. deposit' section's detailed prose about those cases.",
+      "second_heading": "Old debt claim",
+      "second_confidence": "high",
+      "second_reason": "Items 17\u201320 introduce Abaye's distinct theoretical framing of milva yeshana and the subsequent challenge about safek, which matches the 'Old debt claim' section's prose about Abaye's rationalization argument.",
+      "current_heading": "Loan vs. deposit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "Old debt claim",
+      "Specificity matters",
+      "Rav Sheshet",
+      "Rabbi Zeira's question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet son of Rav Idi's statement about people refraining from doubtful oaths but not from doubtful property seizure, with the rationale that money can be returned but an oath cannot \u2014 exactly what the 'Rav Sheshet' section's prose discusses.",
+      "chosen_heading": "Rav Sheshet",
+      "current_heading": "Rav Sheshet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rabbi Zeira's question",
+    "candidates": [
+      "Rabbi Zeira's question",
+      "Silence interpretation",
+      "Rav Nachman braita",
+      "Braita ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's initial dilemma question itself, which matches exactly what the prose under heading 0 describes \u2014 the posing of the question about one party seizing the garment in court.",
+      "chosen_heading": "Rabbi Zeira's question",
+      "current_heading": "Rabbi Zeira's question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Braita ambiguity",
+    "candidates": [
+      "Silence interpretation",
+      "Rav Nachman braita",
+      "Braita ambiguity",
+      "Return with possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the interpretation of silence vs. protest \u2014 the initial silence followed by later shouting \u2014 which is precisely what the 'Silence interpretation' prose describes in detail, including the exact phrases *ei deshatik*, *lo tzricha deshatik me-ikara vehadar tzavach*, and *savar ha chazu lei rabanan*.",
+      "chosen_heading": "Silence interpretation",
+      "current_heading": "Braita ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Return with possession",
+    "candidates": [
+      "Braita ambiguity",
+      "Return with possession",
+      "Edge holding"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Braita ambiguity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita and the Gemara's initial question about its ambiguity (peshita / she-takafa), which matches exactly the prose of 'Braita ambiguity' describing heichi dami and the peshita objection.",
+      "second_heading": "Return with possession",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's deflection (hacha b'mai askinan) presenting the 'zilu palgu' scenario with the ad hashta chashadat lei explanation, which matches exactly the 'Return with possession' prose.",
+      "current_heading": "Return with possession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Edge holding",
+    "candidates": [
+      "Edge holding",
+      "Dedication question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 've-iba'is eima' reading about one party holding properly while the other grips by the edge (sircha), and Sumchos's concession that such edge-holding counts for nothing \u2014 exactly matching the 'Edge holding' section's prose.",
+      "chosen_heading": "Edge holding",
+      "current_heading": "Edge holding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Dedication question",
+    "candidates": [
+      "Dedication question",
+      "Verbal transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the im timtzi lomar framework about seizure in front of beit din and consecration without seizure, which is precisely what the 'Dedication question' prose describes.",
+      "chosen_heading": "Dedication question",
+      "current_heading": "Dedication question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Verbal transfer",
+    "candidates": [
+      "Verbal transfer",
+      "Possession requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the principle 'amirato le-gavo'ah ki-mesirato la-hedyot' and the conclusion 'ke-man de-takfah dami,' which is precisely what the prose in candidate 0 explains and discusses.",
+      "chosen_heading": "Verbal transfer",
+      "current_heading": "Verbal transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Possession requirement",
+    "candidates": [
+      "Possession requirement",
+      "Dedication to Temple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'or perhaps' counterargument using the Leviticus verse about a man consecrating his house, which is precisely what the prose of heading 0 discusses \u2014 the possession requirement derived from 'mah beito bi-reshuto.'",
+      "chosen_heading": "Possession requirement",
+      "current_heading": "Possession requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Dedication to Temple",
+    "candidates": [
+      "Dedication to Temple",
+      "Sacred concern",
+      "Rav Chisda query",
+      "Taharos reference",
+      "Bechor cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the incident of the disputed bathhouse and its consecration, which is precisely what heading 0's prose introduces \u2014 the concrete case of verbal hekdesh over disputed property where one party consecrated it.",
+      "chosen_heading": "Dedication to Temple",
+      "current_heading": "Dedication to Temple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Bechor cases",
+    "candidates": [
+      "Sacred concern",
+      "Rav Chisda query",
+      "Taharos reference",
+      "Bechor cases",
+      "Hamotzi rule",
+      "Priest grabbing",
+      "Paradox of ownership",
+      "Rabba's answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabba arriving at Sura, Rav Hamnuna pointing him to a mishnah in Taharos about doubtful firstborns, and citing the baraita about shearing/working \u2014 exactly what the 'Taharos reference' prose describes as Rav Hamnuna's reply pointing to a mishnah in Taharos dealing with doubtful firstborn animals.",
+      "chosen_heading": "Taharos reference",
+      "current_heading": "Bechor cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rabba's answer",
+    "candidates": [
+      "Hamotzi rule",
+      "Priest grabbing",
+      "Paradox of ownership",
+      "Rabba's answer",
+      "Sanctity principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the theory that the kohen's latent ability to seize the animal confers kedushah even without actual seizure, and draws a parallel to the hekdesh case \u2014 this is precisely the unexpected theory the prose of section 3 ('Rabba's answer') describes as being proposed before Rabba's rejection.",
+      "chosen_heading": "Rabba's answer",
+      "current_heading": "Rabba's answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Sanctity principle",
+    "candidates": [
+      "Sanctity principle",
+      "Parallel case",
+      "Ma'aser proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly articulates the principle of kedushah ba'ah me-eleha shani \u2014 that sanctity of a bechor inheres in the animal itself \u2014 which is precisely what the 'Sanctity principle' section's prose discusses.",
+      "chosen_heading": "Sanctity principle",
+      "current_heading": "Sanctity principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Ma'aser proof",
+    "candidates": [
+      "Parallel case",
+      "Ma'aser proof",
+      "Safek animals",
+      "Tithe problem",
+      "Exactly ten",
+      "Interruption case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous exchange: Rav Chananya's baraita proof to Rabba (item 1), the logical argument deriving from it (item 2), and Abaye's rebuttal (item 3) \u2014 all directly concerning the ma'aser proof for tokfo kohen motziin oto mi-yado, which is precisely what heading 1 ('Ma'aser proof') describes, and this matches the current placement.",
+      "chosen_heading": "Ma'aser proof",
+      "current_heading": "Ma'aser proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Interruption case",
+    "candidates": [
+      "Safek animals",
+      "Tithe problem",
+      "Exactly ten",
+      "Interruption case",
+      "Either-way objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Abaye's retraction where he declares a safek animal cannot be used for ma'aser, citing the mishna about an animal jumping back into the pen \u2014 which is exactly what the 'Interruption case' prose describes.",
+      "chosen_heading": "Interruption case",
+      "current_heading": "Interruption case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Either-way objection",
+    "candidates": [
+      "Either-way objection",
+      "Minyan hara'uy",
+      "Definite tenth",
+      "Definitive presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-2 present the mimanafshach/either-way argument (with minyan ha-ra'uy as its supporting principle), and item 3 is the Gemara's rejection of that argument \u2014 together they form the 'either-way objection and its answer,' which is exactly what the 'Either-way objection' prose describes, making the current placement correct.",
+      "chosen_heading": "Either-way objection",
+      "current_heading": "Either-way objection",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Strategy via Migo",
+    "candidates": [
+      "Opening & Migo Review",
+      "Forged Doc & Migo",
+      "Rashba & False Evidence",
+      "Migo in Modern Courts",
+      "Mortgage Explanation",
+      "Mashkanta d'Sura",
+      "Strategy via Migo",
+      "Abaye's Rejection",
+      "Rashbam vs Tosafot",
+      "Inheritance Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara narrative of Rava bar Sharshom's case \u2014 his explanation of the migo strategy and Abaye's rejection \u2014 which is precisely what the 'Strategy via Migo' prose section describes in detail.",
+      "chosen_heading": "Strategy via Migo",
+      "current_heading": "Strategy via Migo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Inheritance Dispute",
+    "candidates": [
+      "Abaye's Rejection",
+      "Rashbam vs Tosafot",
+      "Inheritance Dispute",
+      "Admission Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the initial inheritance dispute over the date tree between Rav Idi bar Avin and the other relative, and Rav \u1e24isda's establishment of possession \u2014 exactly what the 'Inheritance Dispute' section's prose discusses as the setup before the admission debate.",
+      "chosen_heading": "Inheritance Dispute",
+      "current_heading": "Inheritance Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Admission Debate",
+    "candidates": [
+      "Admission Debate",
+      "Gift vs Retraction",
+      "Witnesses & Migo",
+      "Two Claimants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Rav Idi bar Avin / Rav \u1e24isda exchange about returning produce and the Abaye-Rava disagreement with Rav \u1e24isda, which is precisely what the 'Admission Debate' prose describes in detail.",
+      "chosen_heading": "Admission Debate",
+      "current_heading": "Admission Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Two Claimants",
+    "candidates": [
+      "Gift vs Retraction",
+      "Witnesses & Migo",
+      "Two Claimants",
+      "Rav Chisda Migo",
+      "Abaye & Rava"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Claimants",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the new case of two claimants each saying 'it belonged to my ancestors,' with one bringing witnesses to ancestral ownership and the other to chazakah years \u2014 exactly what heading 2 'Two Claimants' describes.",
+      "second_heading": "Rav Chisda Migo",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Chisda's migo ruling (ma li leshaker) and Abaye and Rava's rejection of it, which matches heading 3 'Rav Chisda Migo' that discusses precisely this migo argument and the alternative claim he could have made.",
+      "current_heading": "Two Claimants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Abaye & Rava",
+    "candidates": [
+      "Rav Chisda Migo",
+      "Abaye & Rava",
+      "Insufficient Proof",
+      "Sharecropper Claim",
+      "Brazenness Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case discussed in 'Insufficient Proof' \u2014 a possessor who claims purchase and chazakah years but can only produce witnesses for two years, and Rav Nachman's ruling that both land and produce revert \u2014 matching that section's prose precisely.",
+      "chosen_heading": "Insufficient Proof",
+      "current_heading": "Abaye & Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Brazenness Principle",
+    "candidates": [
+      "Insufficient Proof",
+      "Sharecropper Claim",
+      "Brazenness Principle",
+      "Land vs Fruit Shtar",
+      "Witness Problem",
+      "Adverse vs Supportive",
+      "Item Taking Scenario",
+      "Rabbi Ami's Dilemma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Zevid's ruling that one who claimed 'I entered for produce' is deemed credible, which is the sharecropper/produce claim qualification \u2014 the brazenness principle citation (Rav Yehuda's sickle and rope teaching) is the supporting reasoning for that ruling, and the prose of candidate 1 ('Sharecropper Claim') explicitly describes Rav Zvid's qualification and the ne'eman ruling about fruit, making it the clearly better match than candidate 2 which discusses the brazenness principle as a standalone topic.",
+      "chosen_heading": "Sharecropper Claim",
+      "current_heading": "Brazenness Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rabbi Ami's Dilemma",
+    "candidates": [
+      "Land vs Fruit Shtar",
+      "Witness Problem",
+      "Adverse vs Supportive",
+      "Item Taking Scenario",
+      "Rabbi Ami's Dilemma",
+      "Gazlan Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the land vs. fruit distinction \u2014 requiring a shtar for land claims but not for fruit \u2014 which is precisely what the 'Land vs Fruit Shtar' section's prose discusses, not the 'Rabbi Ami's Dilemma' section where it currently sits.",
+      "chosen_heading": "Land vs Fruit Shtar",
+      "current_heading": "Rabbi Ami's Dilemma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Gazlan Principle",
+    "candidates": [
+      "Rabbi Ami's Dilemma",
+      "Gazlan Principle",
+      "Adverse vs Supportive"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Ami's Dilemma",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the chazakah case and the scholars' proposal to apply the naska ruling, which sets up the scenario \u2014 this belongs under 'Rabbi Ami's Dilemma' which discusses the parallel structure being invoked.",
+      "second_heading": "Gazlan Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present the actual naska case of Rabbi Abba in full \u2014 the snatching, Rabbi Ami's dilemma, and Rabbi Abba's ruling on mechuyav shevua \u2014 which is precisely what the 'Gazlan Principle' prose describes.",
+      "current_heading": "Gazlan Principle",
+      "moved": true
+    }
+  }
+]

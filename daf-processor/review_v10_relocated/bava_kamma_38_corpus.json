@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishna: Hekdesh Cases",
+    "candidates": [
+      "Overview & Context",
+      "Mishna: Hekdesh Cases",
+      "Censorship & Terminology",
+      "Non-Jew Cases in Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna about hekdesh goring cases (shor re'ehu exclusion), which exactly matches the 'Mishna: Hekdesh Cases' section prose describing this very mishna and its exemption in both directions.",
+      "chosen_heading": "Mishna: Hekdesh Cases",
+      "current_heading": "Mishna: Hekdesh Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Non-Jew Cases in Mishna",
+    "candidates": [
+      "Censorship & Terminology",
+      "Non-Jew Cases in Mishna",
+      "Tanna Kamma vs. R. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about an ox of a Jew goring a gentile's ox (exempt) versus a gentile's ox goring a Jew's ox (full damages, whether tam or mu'ad), which is exactly what the 'Non-Jew Cases in Mishna' section's prose describes and analyzes.",
+      "chosen_heading": "Non-Jew Cases in Mishna",
+      "current_heading": "Non-Jew Cases in Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Tanna Kamma vs. R. Shimon",
+    "candidates": [
+      "Tanna Kamma vs. R. Shimon",
+      "Reish Lakish Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover exactly the dispute between Tanna Kamma and Rabbi Shimon ben Menasya, the logical problem of re'ehu davka vs. lav davka, the kal vachomer proposal, and the dayo objection \u2014 all of which are explicitly discussed in candidate 0's prose, before Reish Lakish's resolution which belongs to candidate 1.",
+      "chosen_heading": "Tanna Kamma vs. R. Shimon",
+      "current_heading": "Tanna Kamma vs. R. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Reish Lakish Solution",
+    "candidates": [
+      "Reish Lakish Solution",
+      "Rashi's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Reish Lakish's argument that the default is full damages and that re'ehu by tam excludes hekdesh from the half-damages reduction, which is precisely what the 'Reish Lakish Solution' prose describes.",
+      "chosen_heading": "Reish Lakish Solution",
+      "current_heading": "Reish Lakish Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rashi's Explanation",
+    "candidates": [
+      "Rashi's Explanation",
+      "Rav Yosef's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the exact 'whichever way you look at it' (mimah nafshach) dilemma regarding re'ehu and the gentile's ox, which is precisely what Rav Yosef's Logic prose describes as the structural difficulty that leads Rav Yosef to abandon re'ehu and turn to the Habakkuk verse instead.",
+      "chosen_heading": "Rav Yosef's Logic",
+      "current_heading": "Rashi's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Yosef's Logic",
+    "candidates": [
+      "Rashi's Explanation",
+      "Rav Yosef's Logic",
+      "Rav Abbahu: Sheva Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abbahu's statement deriving from Habakkuk 3:6 that God permitted the nations' money to Israel because they did not fulfill the seven Noahide commandments \u2014 this is precisely the content discussed in Rav Yosef's Logic section, which explicitly analyzes this same Habakkuk verse and its interpretation.",
+      "chosen_heading": "Rav Yosef's Logic",
+      "current_heading": "Rav Yosef's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rav Abbahu: Sheva Mitzvot",
+    "candidates": [
+      "Rav Abbahu: Sheva Mitzvot",
+      "Rambam's Rationale",
+      "Later Qualifications",
+      "Tanya on Non-Jew Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yo\u1e25anan deriving the damage law from 'v'hofia me-Har Paran,' which is explicitly discussed in candidate 3's prose as one of the two pesukim cited in the beraita alongside Rav Yosef's verse, with the Gemara explaining why two verses are needed.",
+      "chosen_heading": "Tanya on Non-Jew Cases",
+      "current_heading": "Rav Abbahu: Sheva Mitzvot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Tanya on Non-Jew Cases",
+    "candidates": [
+      "Rambam's Rationale",
+      "Later Qualifications",
+      "Tanya on Non-Jew Cases",
+      "Rav Matna & Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the baraita stating the exemption/liability rule for ox-goring cases involving Jews and gentiles, followed by the Gemara's question about why a second verse is needed \u2014 precisely what the prose under 'Tanya on Non-Jew Cases' describes.",
+      "chosen_heading": "Tanya on Non-Jew Cases",
+      "current_heading": "Tanya on Non-Jew Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rav Matna & Rav Yosef",
+    "candidates": [
+      "Rav Matna & Rav Yosef",
+      "Reward for Non-Jews",
+      "Rabbi Meir on Goy & Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly present the Rav Mattana and Rav Yosef expositions of 'amad vayimoded eretz,' including the gezerah shavah for exile and the objection/resolution about the sinner being rewarded \u2014 exactly the content described in the 'Rav Matna & Rav Yosef' prose.",
+      "chosen_heading": "Rav Matna & Rav Yosef",
+      "current_heading": "Rav Matna & Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rabbi Meir on Goy & Torah",
+    "candidates": [
+      "Reward for Non-Jews",
+      "Rabbi Meir on Goy & Torah",
+      "Aino Metzuveh Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with 'But do they not receive reward?' \u2014 it is the Gemara's challenge introducing the reward question, which belongs under 'Reward for Non-Jews' whose prose explicitly frames this as the deeper question raised and notes that Rabbi Meir's statement provides the answer, making it the natural home for this transitional challenge-plus-answer unit.",
+      "chosen_heading": "Reward for Non-Jews",
+      "current_heading": "Rabbi Meir on Goy & Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Aino Metzuveh Resolution",
+    "candidates": [
+      "Rabbi Meir on Goy & Torah",
+      "Aino Metzuveh Resolution",
+      "Roman Officers & Torah",
+      "Officers' Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's resolution using Rabbi Chanina's principle about metzuveh v'oseh vs. eino metzuveh v'oseh, which is exactly what the 'Aino Metzuveh Resolution' prose discusses in detail.",
+      "chosen_heading": "Aino Metzuveh Resolution",
+      "current_heading": "Aino Metzuveh Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Officers' Critique",
+    "candidates": [
+      "Roman Officers & Torah",
+      "Officers' Critique",
+      "Officers' Discretion",
+      "Bavli vs. Yerushalmi",
+      "Ulla's Theology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Roman officers story (the arrival/study/departure critique plus the mimah nafshach argument and decision not to report), which belongs under heading 0 'Roman Officers & Torah' whose prose describes exactly this narrative arc \u2014 the officers studying Torah three times and the full episode \u2014 rather than being split across the 'Officers' Critique' and 'Officers' Discretion' headings.",
+      "chosen_heading": "Roman Officers & Torah",
+      "current_heading": "Officers' Critique",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Ulla's Theology",
+    "candidates": [
+      "Officers' Discretion",
+      "Bavli vs. Yerushalmi",
+      "Ulla's Theology",
+      "Kal V'Chomer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose under 'Ulla's Theology' discusses: Rav Shmuel bar Yehuda's daughter dying, the rabbis asking Ulla to accompany them for consolation, and Ulla's refusal on the grounds that Babylonian condolences constitute blasphemy.",
+      "chosen_heading": "Ulla's Theology",
+      "current_heading": "Ulla's Theology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Kal V'Chomer Logic",
+    "candidates": [
+      "Kal V'Chomer Logic",
+      "Ruth & Na'amah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete kal vachomer story \u2014 Moses's reasoning, the Moabite inference, and God's response about Ruth and Naamah \u2014 which is exactly what heading 0's prose describes in full, including the shtei preidot conclusion.",
+      "chosen_heading": "Kal V'Chomer Logic",
+      "current_heading": "Kal V'Chomer Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Ruth & Na'amah",
+    "candidates": [
+      "Ruth & Na'amah",
+      "God's Reward System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact kal vachomer argument about two virtuous fledglings and God's compassion over two nations that Candidate 0's prose explicitly analyzes and quotes in detail.",
+      "chosen_heading": "Ruth & Na'amah",
+      "current_heading": "Ruth & Na'amah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "God's Reward System",
+    "candidates": [
+      "God's Reward System",
+      "Daughters' Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that God does not deprive any creature of its reward, even for pleasant speech \u2014 which is exactly what the 'God's Reward System' section discusses, while the 'Daughters' Merit' section discusses the specific illustration from Lot's daughters that follows as a consequence of this principle.",
+      "chosen_heading": "God's Reward System",
+      "current_heading": "God's Reward System",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Daughters' Merit",
+    "candidates": [
+      "Daughters' Merit",
+      "Genealogical Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the contrast between Moab and Ammon regarding forced labor/angarya, which is precisely what the 'Daughters' Merit' prose describes in detail, including the modesty/tzniut angle and the differential treatment of the two daughters' descendants.",
+      "chosen_heading": "Daughters' Merit",
+      "current_heading": "Daughters' Merit",
+      "moved": false
+    }
+  }
+]

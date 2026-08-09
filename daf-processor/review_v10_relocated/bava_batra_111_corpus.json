@@ -1,0 +1,254 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Braita Derivation",
+    "candidates": [
+      "Prior Coverage",
+      "New Topics Intro",
+      "Tosafot Question",
+      "Tribal Disruption",
+      "Braita Derivation",
+      "Qal Va-Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita derivation itself \u2014 asking how a daughter inherits from two tribes and answering that her father is from one tribe and mother from another \u2014 which is precisely what the 'Braita Derivation' section's prose describes.",
+      "chosen_heading": "Braita Derivation",
+      "current_heading": "Braita Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Qal Va-Chomer",
+    "candidates": [
+      "Qal Va-Chomer",
+      "Rabbi Zechariah Equal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the kal va-chomer argument deriving that a son inherits from his mother and that a son precedes a daughter in maternal inheritance, which is exactly what the 'Qal Va-Chomer' section's prose describes.",
+      "chosen_heading": "Qal Va-Chomer",
+      "current_heading": "Qal Va-Chomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Rabbi Zechariah Equal",
+    "candidates": [
+      "Rabbi Zechariah Equal",
+      "Rav Nisa'i Rebuke",
+      "Rabbi Tavla Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion about Rabbi Zechariah ben HaKatzav's ruling that sons and daughters inherit equally from the mother, the dayo principle, the Miriam proof-text, and the Tanna Kamma's rebuttal via the hekesh from 'mimatot' \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Rabbi Zechariah Equal",
+      "current_heading": "Rabbi Zechariah Equal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rabbi Tavla Rav Nachman",
+    "candidates": [
+      "Rav Nisa'i Rebuke",
+      "Rabbi Tavla Rav Nachman",
+      "Rav Huna Bar Chiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Nittai/Shmuel exchange AND the Rabbi Tavla/Rav Nachman exchange as a single continuous Gemara text, but the essay has split it across two headings; however, since the passage begins with the Rav Nittai incident (heading 0's content) and that heading's prose describes both episodes together while heading 1 covers only the Rabbi Tavla portion, and the passage covers both stories as one unit, heading 0 ('Rav Nisa'i Rebuke') is the better single home since it introduces the entire sequence \u2014 though the current placement under heading 1 captures the latter half, the full passage starting with Rav Nittai belongs under heading 0.",
+      "chosen_heading": "Rav Nisa'i Rebuke",
+      "current_heading": "Rabbi Tavla Rav Nachman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav Huna Bar Chiya",
+    "candidates": [
+      "Rabbi Tavla Rav Nachman",
+      "Rav Huna Bar Chiya",
+      "Rav Nachman Traditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna bar \u1e24iyya's attempt to rule like Rabbi Zechariah ben HaKatzav and Rav Na\u1e25man's response, which is precisely what the prose under 'Rav Huna Bar Chiya' discusses.",
+      "chosen_heading": "Rav Huna Bar Chiya",
+      "current_heading": "Rav Huna Bar Chiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rav Nachman Traditions",
+    "candidates": [
+      "Rav Nachman Traditions",
+      "Tribes Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Na\u1e25man's position being grounded in the tradition of Rav and Shmuel rejecting Rabbi Zekharya ben HaKatzav's opinion, which is exactly what the 'Rav Nachman Traditions' prose describes.",
+      "chosen_heading": "Rav Nachman Traditions",
+      "current_heading": "Rav Nachman Traditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Tribes Analogy",
+    "candidates": [
+      "Tribes Analogy",
+      "Bechor Double Portion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scene narrated in candidate 0's prose \u2014 Rabbi Yannai leaning on Rabbi Simlai's shoulder, the attendant describing the approaching man's handsome cloak, and Rabbi Yannai feeling the garment and remarking it is of inferior quality like sackcloth.",
+      "chosen_heading": "Tribes Analogy",
+      "current_heading": "Tribes Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Bechor Double Portion",
+    "candidates": [
+      "Bechor Double Portion",
+      "Abaye Lo Pronoun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exchange between Rabbi Yehuda Nesia and Rabbi Yannai about whether a firstborn takes a double portion from the mother's estate, followed by Abaye's answer from 'lo' \u2014 exactly the content described in the 'Bechor Double Portion' section's prose.",
+      "chosen_heading": "Bechor Double Portion",
+      "current_heading": "Bechor Double Portion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Abaye Lo Pronoun",
+    "candidates": [
+      "Abaye Lo Pronoun",
+      "Rava Father Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of challenges and responses about whether the double portion rule applies when a bachelor marries a virgin \u2014 exactly the progression described in the 'Abaye Lo Pronoun' prose, which explicitly walks through the bachelor/widow and bachelor/virgin distinctions, the reshit ono derivation, the viability requirement challenge, and the 'shema mina tartei' resolution.",
+      "chosen_heading": "Abaye Lo Pronoun",
+      "current_heading": "Abaye Lo Pronoun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rava Father Only",
+    "candidates": [
+      "Rava Father Only",
+      "Rava Sharp Knife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's derivation that 'mishpat ha-bechora' applies to a man's estate not a woman's, which is precisely what the 'Rava Father Only' prose discusses and explains in detail.",
+      "chosen_heading": "Rava Father Only",
+      "current_heading": "Rava Father Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Rava Sharp Knife",
+    "candidates": [
+      "Rava Sharp Knife",
+      "Rambam Oraita Status",
+      "She'ero Drasha",
+      "Abaye Hermeneutics",
+      "Akiva Yishmael Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita deriving husband's inheritance from 'she'ero zo ishto', Abaye's rearrangement, and Rava's 'sharp knife' objection with his alternative gore'in u-mosifin derivation \u2014 are precisely the content described in the 'Rava Sharp Knife' prose, which explicitly covers all these elements in sequence.",
+      "chosen_heading": "Rava Sharp Knife",
+      "current_heading": "Rava Sharp Knife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Akiva Yishmael Debate",
+    "candidates": [
+      "Rambam Oraita Status",
+      "She'ero Drasha",
+      "Abaye Hermeneutics",
+      "Akiva Yishmael Debate",
+      "Yishmael Five Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rabbi Akiva's derivation of the husband-inherits-wife rule from 've-yarash otah,' which is precisely what the 'Akiva Yishmael Debate' prose describes as Rabbi Akiva's simpler direct approach.",
+      "chosen_heading": "Akiva Yishmael Debate",
+      "current_heading": "Akiva Yishmael Debate",
+      "moved": false
+    }
+  }
+]

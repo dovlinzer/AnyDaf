@@ -24,7 +24,7 @@
           "timestamp": "03:48"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -218,7 +218,7 @@
           "timestamp": "44:03"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -621,5 +621,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "35:06",
+  "amud_b_micro_title": "Case: Man in Palm Tree",
+  "shiur_start_daf": 75,
+  "shiur_start_amud": "a"
 }

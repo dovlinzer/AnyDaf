@@ -1,0 +1,629 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna: Gambled & Lenders",
+    "candidates": [
+      "Mishna: Gambled & Lenders",
+      "De-Oraita vs De-Rabbanan",
+      "Rav Yehuda's Condition",
+      "Rav Elazar Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Abbahu citing Rabbi Elazar that the halakha follows Rabbi Yehuda, which is precisely what the 'Rav Elazar Rule' section discusses \u2014 the gemara's citation of Rabbi Abahu in the name of Rav Elazar ruling halacha ke-Rav Yehuda.",
+      "chosen_heading": "Rav Elazar Rule",
+      "current_heading": "Mishna: Gambled & Lenders",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Elazar Rule",
+    "candidates": [
+      "De-Oraita vs De-Rabbanan",
+      "Rav Yehuda's Condition",
+      "Rav Elazar Rule",
+      "Shepherd Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Abbahu in the name of Rabbi Elazar that all require a proclamation in court, which is precisely what the 'Rav Elazar Rule' section's prose discusses as its central topic.",
+      "chosen_heading": "Rav Elazar Rule",
+      "current_heading": "Rav Elazar Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Shepherd Debate",
+    "candidates": [
+      "Shepherd Debate",
+      "Stam Ro'eh Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents only the Rav A\u1e25a/Ravina dispute about whether a shepherd requires a proclamation, which is exactly what heading 0 describes; heading 1 addresses the subsequent gemara discussion resolving 'stam ro'eh pasul' against the backdrop of that dispute.",
+      "chosen_heading": "Shepherd Debate",
+      "current_heading": "Shepherd Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Stam Ro'eh Explained",
+    "candidates": [
+      "Stam Ro'eh Explained",
+      "Rav Pappa Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tension between 'stam ro'eh pasul' and the requirement for hachraza, which is precisely what the prose under 'Stam Ro'eh Explained' discusses.",
+      "chosen_heading": "Stam Ro'eh Explained",
+      "current_heading": "Stam Ro'eh Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rav Pappa Case",
+    "candidates": [
+      "Rav Pappa Case",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('bistemah macharzinan alaiv') is the closing answer about how the proclamation works in ordinary shepherding cases, which wraps up the prior discussion \u2014 it belongs under 'Rava's Challenge' which discusses the hachraza mechanism.",
+      "second_heading": "Rav Pappa Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the Rav Pappa bar Shmuel case with its own new facts (a specific deed signed by two robbers), exactly matching the 'Rav Pappa Case' prose which describes this very scenario.",
+      "current_heading": "Rav Pappa Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rava's Challenge",
+      "Rav Nachman Rule",
+      "Public vs. Private",
+      "Chashud Arayos Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct challenge distinguishing de-oraita from de-rabbanan disqualification, which is precisely what the 'Rava's Challenge' section prose describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Chashud Arayos Valid",
+    "candidates": [
+      "Rav Nachman Rule",
+      "Public vs. Private",
+      "Chashud Arayos Valid",
+      "Rav Sheshet Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic introducing the following statements and Rav Na\u1e25man's ruling about those who eat 'davar acher' (pork/non-Jewish charity) being disqualified \u2014 belong under 'Rav Nachman Rule,' whose prose explicitly discusses exactly this ruling about ochlei davar acher and its disqualification rationale.",
+      "chosen_heading": "Rav Nachman Rule",
+      "current_heading": "Chashud Arayos Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rav Sheshet Query",
+    "candidates": [
+      "Chashud Arayos Valid",
+      "Rav Sheshet Query",
+      "Money vs. Arayos",
+      "Woman's Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Sheshet Query",
+      "first_confidence": "low",
+      "first_reason": "Item 1 discusses charity-taking in public vs. private and has no connection to arayos; it closes a prior topic, but none of the listed candidates clearly match it, so the closest current placement is retained with low confidence.",
+      "second_heading": "Chashud Arayos Valid",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Nachman's ruling that one suspected of arayos is valid as a witness and Rav Sheshet's objection, which is precisely what heading 0 ('Chashud Arayos Valid') describes in its prose.",
+      "current_heading": "Rav Sheshet Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Woman's Status",
+    "candidates": [
+      "Money vs. Arayos",
+      "Woman's Status",
+      "Nissan/Tishrei Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the qualification and refinement of disqualification for testimony about a woman's marital status (Rava's concession, Ravina/Rav Pappa's distinction between le-afuka and le-ayulei, and the mayim genuvim counter-argument), which is precisely what the 'Woman's Status' prose describes.",
+      "chosen_heading": "Woman's Status",
+      "current_heading": "Woman's Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Nissan/Tishrei Theft",
+    "candidates": [
+      "Nissan/Tishrei Theft",
+      "Sharecropper Logic",
+      "Arisa vs. Tenant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Na\u1e25man's ruling about thieves of Nisan and Tishrei, which is precisely what the prose under 'Nissan/Tishrei Theft' discusses and explains.",
+      "chosen_heading": "Nissan/Tishrei Theft",
+      "current_heading": "Nissan/Tishrei Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Arisa vs. Tenant",
+    "candidates": [
+      "Sharecropper Logic",
+      "Arisa vs. Tenant",
+      "Gravediggers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 defines the exact three conditions (arisa, davar mu'at, nigmera melachto) that heading 0 'Sharecropper Logic' explicitly discusses, and Item 2 illustrates what happens when those conditions aren't met \u2014 both together support the sharecropper logic principle rather than a contrast between arisa and tenant farmer types as heading 1 suggests.",
+      "chosen_heading": "Sharecropper Logic",
+      "current_heading": "Arisa vs. Tenant",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Gravediggers",
+    "candidates": [
+      "Arisa vs. Tenant",
+      "Gravediggers",
+      "Kapara Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the gravediggers burying on Shavuot and Rav Pappa's excommunication and disqualification, which matches exactly the 'Gravediggers' section prose before the disagreement of Rav Huna is elaborated in the next section.",
+      "chosen_heading": "Gravediggers",
+      "current_heading": "Gravediggers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Kapara Logic",
+    "candidates": [
+      "Kapara Logic",
+      "Abaye: Retroactive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Rav Pappa/Rav Huna exchange about 'savri mitzvah ka avdi' and 'savri kapara ka avdi lan rabbanan' that the 'Kapara Logic' prose explicitly discusses and quotes.",
+      "chosen_heading": "Kapara Logic",
+      "current_heading": "Kapara Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Abaye: Retroactive",
+    "candidates": [
+      "Abaye: Retroactive",
+      "Rava: Prospective",
+      "Chiddush Reasoning",
+      "Lakuchos Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together present the full Abaye-Rava dispute about retroactive vs. prospective disqualification of a conspiring witness, including both opinions and their reasoning, which is exactly what the 'Abaye: Retroactive' section's prose introduces as the dispute at the top of 27a \u2014 the current placement covers the entire dispute unit that opens this topic.",
+      "chosen_heading": "Abaye: Retroactive",
+      "current_heading": "Abaye: Retroactive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Lakuchos Protection",
+    "candidates": [
+      "Rava: Prospective",
+      "Chiddush Reasoning",
+      "Lakuchos Protection",
+      "Distinguishing Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the 'there are those who say' alternative that Rava agrees with Abaye in principle but limits psul to going forward due to 'pseida de-lakuchos' \u2014 exactly what the 'Lakuchos Protection' prose describes.",
+      "chosen_heading": "Lakuchos Protection",
+      "current_heading": "Lakuchos Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Distinguishing Reasons",
+    "candidates": [
+      "Distinguishing Reasons",
+      "For Appetite",
+      "Neveilah Economics",
+      "L'Hach'is Category",
+      "Abaye/Rava Dispute",
+      "Abaye: Formal Rasha",
+      "Rava: Money Only",
+      "Two Psul Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly continue the Distinguishing Reasons discussion: item 1 is the practical differences between Rava's two rationales, item 2 is Rav Pappi acting like Rava and Mar bar Rav Ashi ruling like Abaye, and item 3 is the ya'al kagam mnemonic \u2014 all of which are explicitly discussed in the prose of candidate 0.",
+      "chosen_heading": "Distinguishing Reasons",
+      "current_heading": "Distinguishing Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Two Psul Types",
+    "candidates": [
+      "For Appetite",
+      "Neveilah Economics",
+      "L'Hach'is Category",
+      "Abaye/Rava Dispute",
+      "Abaye: Formal Rasha",
+      "Rava: Money Only",
+      "Two Psul Types",
+      "Rabbi Meir View",
+      "Rabbi Yossi View",
+      "Alignment Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All six items together constitute exactly the full dispute and baraita challenges (meisivei) described in heading 6's prose \u2014 the Abaye/Rava debate, the two baraita objections about robbers/oath-takers and robbers/interest-lenders, and the tiyuvta de-Abaye conclusion \u2014 which is precisely what heading 6 summarizes.",
+      "chosen_heading": "Two Psul Types",
+      "current_heading": "Two Psul Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Alignment Theory",
+    "candidates": [
+      "Rabbi Meir View",
+      "Rabbi Yossi View",
+      "Alignment Theory",
+      "Fact vs. Form"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the tannaitic dispute with Rabbi Meir's position stated first, and candidate 0's prose explicitly describes the gemara grounding the dispute in a tannaitic debate and explains Rabbi Meir's view \u2014 the passage belongs under 'Rabbi Meir View' as the entry point for this tannaitic comparison, not under 'Alignment Theory' which discusses the subsequent step of aligning these positions with Abaye and Rava.",
+      "chosen_heading": "Rabbi Meir View",
+      "current_heading": "Alignment Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Fact vs. Form",
+    "candidates": [
+      "Alignment Theory",
+      "Fact vs. Form",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items \u2014 the Abaye/Rava alignment with Rabbi Meir/Yosei, the rejection that the dispute is really within Rabbi Meir's view, Rava's 'bad toward Heaven vs. bad toward people' distinction, the halakha ruling for Abaye, the tiyuvta resolution, and the stam mishna question \u2014 are precisely the content described in the 'Fact vs. Form' prose, which walks through each of these points in order.",
+      "chosen_heading": "Fact vs. Form",
+      "current_heading": "Fact vs. Form",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Counter-Testimony",
+      "Rav Abba Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the counter-testimony phase \u2014 Bar Chama bringing two witnesses against the prosecution witness, one testifying about stolen barley and the other about the stolen spear handle \u2014 which matches exactly the 'Counter-Testimony' prose description of the defense witnesses testifying that the prosecution witness was a gazlan.",
+      "chosen_heading": "Counter-Testimony",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Rav Abba Query",
+    "candidates": [
+      "Counter-Testimony",
+      "Rav Abba Query",
+      "Mishna Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Abba bar Ya'akov's challenge to Bar Chama about relying on Rabbi Meir versus Rabbi Yosei, which is precisely what the 'Rav Abba Query' prose section describes.",
+      "chosen_heading": "Rav Abba Query",
+      "current_heading": "Rav Abba Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Mishna Analysis",
+    "candidates": [
+      "Mishna Analysis",
+      "Yuchas Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappi's intervention about the stam mishna like Rabbi Meir, which is exactly what the 'Mishna Analysis' prose discusses as its opening point.",
+      "chosen_heading": "Mishna Analysis",
+      "current_heading": "Mishna Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Yuchas Clarification",
+    "candidates": [
+      "Yuchas Clarification",
+      "Rosh Hashanah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic argument about whether the Nidda mishna can serve as proof of a stam mishna like Rabbi Meir, with the gemara rejecting it by arguing the mishna is about yuchasin (lineage) disqualification \u2014 exactly what the 'Yuchas Clarification' prose describes in detail.",
+      "chosen_heading": "Yuchas Clarification",
+      "current_heading": "Yuchas Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157
+    ],
+    "current_heading": "Rosh Hashanah Source",
+    "candidates": [
+      "Rosh Hashanah Source",
+      "Case Outcome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the stam mishna from Rosh Hashanah listing the disqualified witnesses and the gemara's question about whose opinion it reflects (Rabbi Yosei vs. Rabbi Meir) \u2014 are precisely what the 'Rosh Hashanah Source' prose describes in detail.",
+      "chosen_heading": "Rosh Hashanah Source",
+      "current_heading": "Rosh Hashanah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Case Outcome",
+    "candidates": [
+      "Case Outcome",
+      "Psul Summary",
+      "Relatives Overview",
+      "Rabbi Akiva Relatives",
+      "In-Laws Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case outcome \u2014 bar \u1e24ama's acquittal and his grateful kiss and tax payment to Rabbi Pappi \u2014 which directly matches the 'Case Outcome' section's prose discussion of exactly these events.",
+      "chosen_heading": "Case Outcome",
+      "current_heading": "Case Outcome",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "In-Laws Rule",
+    "candidates": [
+      "Psul Summary",
+      "Relatives Overview",
+      "Rabbi Akiva Relatives",
+      "In-Laws Rule",
+      "Children & Stepsons",
+      "Earlier Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text enumerates all the relatives who are disqualified \u2014 brothers, uncles, in-laws, stepsons \u2014 which corresponds exactly to the 'Relatives Overview' section's introductory prose that announces 've-elu hein ha-krovim' and sets up the enumeration, rather than the 'In-Laws Rule' section which discusses only the marriage-based relatives mid-list.",
+      "chosen_heading": "Relatives Overview",
+      "current_heading": "In-Laws Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      181
+    ],
+    "current_heading": "Earlier Mishna",
+    "candidates": [
+      "Children & Stepsons",
+      "Earlier Mishna",
+      "Former Relatives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yosei's statement about the earlier mishna (Mishnah Rishonah) versus Rabbi Akiva's version, which is precisely what the 'Earlier Mishna' section prose discusses in detail.",
+      "chosen_heading": "Earlier Mishna",
+      "current_heading": "Earlier Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      185
+    ],
+    "current_heading": "Former Relatives",
+    "candidates": [
+      "Former Relatives",
+      "Love & Hate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses former relatives becoming fit to testify and Rabbi Yehuda's ruling about children maintaining the relationship, which directly matches the 'Former Relatives' section prose that explicitly discusses these exact rulings.",
+      "chosen_heading": "Former Relatives",
+      "current_heading": "Former Relatives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Love & Hate",
+    "candidates": [
+      "Love & Hate",
+      "Not Suspected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines both 'ohev' (groomsman) and 'soneh' (three days of enmity) and includes the rabbis' response about suspicion \u2014 all of which is discussed together in candidate 0's prose, while candidate 1's prose focuses only on the concluding declaration about Israel not being suspected, which is just the tail end of this mishna passage.",
+      "chosen_heading": "Love & Hate",
+      "current_heading": "Love & Hate",
+      "moved": false
+    }
+  }
+]

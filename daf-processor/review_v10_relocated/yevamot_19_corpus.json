@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Reisha: Birth Before",
+    "candidates": [
+      "Opening & Zika Review",
+      "Three Brothers Scenario",
+      "Yibum Timing Question",
+      "Reisha: Birth Before",
+      "Seifa: Yibum Before",
+      "Tanna Kamma v Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The mishna passage describes exactly the seifa scenario (yibum before birth of third brother) and the maamar case with its chalitza ruling, which is precisely what the 'Seifa: Yibum Before' prose section discusses.",
+      "chosen_heading": "Seifa: Yibum Before",
+      "current_heading": "Reisha: Birth Before",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Tanna Kamma v Shimon",
+    "candidates": [
+      "Seifa: Yibum Before",
+      "Tanna Kamma v Shimon",
+      "Superfluous Reisha",
+      "Reisha Showcases Shimon",
+      "Board Diagram"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's ruling about performing yibum or chalitza with whichever woman he wishes, which is precisely what the 'Tanna Kamma v Shimon' prose describes and analyzes \u2014 Rabbi Shimon's dispute with the tanna kamma regarding the reisha case.",
+      "chosen_heading": "Tanna Kamma v Shimon",
+      "current_heading": "Tanna Kamma v Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Board Diagram",
+    "candidates": [
+      "Superfluous Reisha",
+      "Reisha Showcases Shimon",
+      "Board Diagram",
+      "Rachel's Status Change",
+      "Gemara's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Oshaya's statement that Rabbi Shimon disagrees even in the reisha, derived from the fact that the mishna is superfluous \u2014 which is precisely what the 'Superfluous Reisha' section's prose discusses.",
+      "chosen_heading": "Superfluous Reisha",
+      "current_heading": "Board Diagram",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Gemara's Question",
+    "candidates": [
+      "Rachel's Status Change",
+      "Gemara's Question",
+      "Two Brothers No Yibum",
+      "Zika Definition",
+      "Rav Yosef Objects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rachel's Status Change",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 resolve which mishna clause serves which opinion and explain the editorial structure, fitting the lead-up discussion in 'Rachel's Status Change' about how Rabbi Shimon's position is conveyed.",
+      "second_heading": "Gemara's Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 directly address the *heichi mashkachas lah* question and the *yesh zika / zika ke-knusa damya* answer, which is precisely what Candidate 1's prose describes.",
+      "current_heading": "Gemara's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav Yosef Objects",
+    "candidates": [
+      "Two Brothers No Yibum",
+      "Zika Definition",
+      "Rav Yosef Objects",
+      "Three Brothers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection questioning whether zika alone suffices for Rabbi Shimon given his uncertainty even about zika plus maamar, which matches exactly the 'Rav Yosef Objects' section's prose.",
+      "chosen_heading": "Rav Yosef Objects",
+      "current_heading": "Rav Yosef Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Three Brothers Case",
+    "candidates": [
+      "Three Brothers Case",
+      "Cannot Yibum Both",
+      "Dual Zika Problem",
+      "Shimon Denies Dual",
+      "Abaye: One vs Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about three brothers married to three unrelated women where the second performed maamar and died, resulting in chalitza \u2014 this is precisely the foundational case being introduced and described in the 'Three Brothers Case' section's prose.",
+      "chosen_heading": "Three Brothers Case",
+      "current_heading": "Three Brothers Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Abaye: One vs Two",
+    "candidates": [
+      "Cannot Yibum Both",
+      "Dual Zika Problem",
+      "Shimon Denies Dual",
+      "Abaye: One vs Two",
+      "Zika Maamar Strength",
+      "Safek vs Dual Status",
+      "Birth Before Nisuin",
+      "Nisuin Before Birth",
+      "Two Brothers Problem"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Two Brothers Problem",
+    "candidates": [
+      "Zika Maamar Strength",
+      "Safek vs Dual Status",
+      "Birth Before Nisuin",
+      "Nisuin Before Birth",
+      "Two Brothers Problem",
+      "Two Brothers Resolution",
+      "Birth Timing Only",
+      "Setup Two Sisters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "These three items form the gemara's challenge and rejection of the 'two yevamin' answer \u2014 exactly the content described in candidate 5's prose about the gemara attempting to salvage Rav Oshaya's framework by saying the baraita speaks of two yevamin, which is precisely what items 1-3 discuss (the question whether the baraita means one or two yevamin, and the rejection of the two-yevamin reading as untenable).",
+      "chosen_heading": "Two Brothers Resolution",
+      "current_heading": "Two Brothers Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Setup Two Sisters",
+    "candidates": [
+      "Two Brothers Resolution",
+      "Birth Timing Only",
+      "Setup Two Sisters",
+      "Cannot Yibum Either",
+      "Chalitza Both",
+      "Shimon: Both Exempt",
+      "Rav Amram Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about three brothers married to two women who are relatives (sisters, mother-daughter, etc.), which is precisely what the 'Setup Two Sisters' prose describes as setting up this new scenario.",
+      "chosen_heading": "Setup Two Sisters",
+      "current_heading": "Setup Two Sisters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Rav Amram Reading",
+    "candidates": [
+      "Cannot Yibum Either",
+      "Chalitza Both",
+      "Shimon: Both Exempt",
+      "Rav Amram Reading",
+      "Rava Multiple Pairs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Amram's narrower reading of Rabbi Shimon's exemption (poter bi-shniya) and the immediate objection from the baraita that Rabbi Shimon exempts both women, which is precisely what the 'Rav Amram Reading' prose section describes.",
+      "chosen_heading": "Rav Amram Reading",
+      "current_heading": "Rav Amram Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rava Multiple Pairs",
+    "candidates": [
+      "Rava Multiple Pairs",
+      "Or Not And",
+      "Should Say Four",
+      "Tzarot Cannot Be Taken"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava Multiple Pairs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's proposal about 'the second from this pair and the second from that pair,' which matches heading 0's prose about Rava's reading of shteihen as referring to the second woman from each pairing.",
+      "second_heading": "Or Not And",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Gemara's rejection of Rava citing the 'or, or' language, which matches heading 1's prose about the baraita using 'or, or, or' as a list of alternatives rather than a cumulative conjunction.",
+      "current_heading": "Rava Multiple Pairs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Tzarot Cannot Be Taken",
+    "candidates": [
+      "Or Not And",
+      "Should Say Four",
+      "Tzarot Cannot Be Taken",
+      "Rav Ashi: Simultaneous",
+      "Like Yossi Glili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita quoted in the 'Tzarot Cannot Be Taken' section, and that section's prose directly quotes and explains this exact baraita about Rabbi Shimon exempting both women via the verse prohibiting taking a woman alongside her sister.",
+      "chosen_heading": "Tzarot Cannot Be Taken",
+      "current_heading": "Tzarot Cannot Be Taken",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Like Yossi Glili",
+    "candidates": [
+      "Rav Ashi: Simultaneous",
+      "Like Yossi Glili",
+      "Sequential Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both parts of Rav Ashi's answer \u2014 the sequential case concession AND the simultaneous-death resolution \u2014 which matches heading 0's prose perfectly, while heading 1 covers only the Rabbi Yossi HaGelili conclusion that follows.",
+      "chosen_heading": "Rav Ashi: Simultaneous",
+      "current_heading": "Like Yossi Glili",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Sequential Death",
+    "candidates": [
+      "Like Yossi Glili",
+      "Sequential Death",
+      "Yibum Then Birth",
+      "Birth Then Yibum",
+      "Rejecting Rav Oshaya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Pappa's statement that Rabbi Shimon disagreed specifically in the 'yibum then birth' case, which is precisely what candidate 2 ('Yibum Then Birth') discusses in its prose.",
+      "chosen_heading": "Yibum Then Birth",
+      "current_heading": "Sequential Death",
+      "moved": true
+    }
+  }
+]

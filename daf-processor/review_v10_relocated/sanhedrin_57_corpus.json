@@ -1,0 +1,379 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Tana D'Bei Menashe",
+    "candidates": [
+      "Overview & Context",
+      "Tana D'Bei Menashe",
+      "R. Yehuda View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Tana d'bei Menashe's substitution of dinim/birchat Hashem with sirus/kilayim, which is precisely what the 'Tana D'Bei Menashe' section prose describes and where the passage currently sits.",
+      "chosen_heading": "Tana D'Bei Menashe",
+      "current_heading": "Tana D'Bei Menashe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "R. Yehuda View",
+    "candidates": [
+      "R. Yehuda View",
+      "R. Yehuda ben Beteira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's minimalist view alongside Rabbi Yehuda ben Beteira and 'some say,' which is exactly what the 'R. Yehuda View' section's prose introduces, while the 'R. Yehuda ben Beteira' section's prose elaborates on these views without needing to re-quote the source text.",
+      "chosen_heading": "R. Yehuda View",
+      "current_heading": "R. Yehuda View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "R. Yehuda ben Beteira",
+    "candidates": [
+      "R. Yehuda ben Beteira",
+      "Individual Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda's teaching in Rav's name about 'Elohim ani' and its alignment with 'yesh omrim' (those who add dinim), which is explicitly addressed in the prose of section 0 under 'R. Yehuda ben Beteira.'",
+      "chosen_heading": "R. Yehuda ben Beteira",
+      "current_heading": "R. Yehuda ben Beteira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Individual Sources",
+    "candidates": [
+      "Individual Sources",
+      "Avodah Zarah & Giluy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's dilemma about Tana d'bei Menashe and whether it interprets 'vayetzav,' which is precisely what the prose under 'Individual Sources' describes and analyzes.",
+      "chosen_heading": "Individual Sources",
+      "current_heading": "Individual Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Avodah Zarah & Giluy",
+    "candidates": [
+      "Avodah Zarah & Giluy",
+      "Shfichus Damim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the derivation of avodah zarah and giluy arayos from the word 'hashchasa' and the school of Rabbi Yishmael's teaching, which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Avodah Zarah & Giluy",
+      "current_heading": "Avodah Zarah & Giluy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Shfichus Damim",
+    "candidates": [
+      "Shfichus Damim",
+      "Gezel Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition of bloodshed (shfichus damim) from Genesis 9:6 and the debate over whether the verse establishes the prohibition or merely reveals the punishment, which matches exactly the prose under heading 0.",
+      "chosen_heading": "Shfichus Damim",
+      "current_heading": "Shfichus Damim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Gezel Source",
+    "candidates": [
+      "Gezel Source",
+      "Ever Min Hachai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation of gezel (robbery) from the verse about green herbs given to Noach, and the alternative interpretation that the verse permits eating meat \u2014 all of which is precisely what the 'Gezel Source' prose section discusses.",
+      "chosen_heading": "Gezel Source",
+      "current_heading": "Gezel Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Ever Min Hachai",
+    "candidates": [
+      "Ever Min Hachai",
+      "Sirus & Kilayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition of ever min hachai and the interpretation of Genesis 9:4, including the explanation that the verse permits creeping animals from this prohibition \u2014 all of which is directly addressed in the 'Ever Min Hachai' section's prose.",
+      "chosen_heading": "Ever Min Hachai",
+      "current_heading": "Ever Min Hachai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Sirus & Kilayim",
+    "candidates": [
+      "Sirus & Kilayim",
+      "Three Mitzvot View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss sirus and kilayim with their opposing interpretations, which is precisely what the 'Sirus & Kilayim' section prose explicates in detail.",
+      "chosen_heading": "Sirus & Kilayim",
+      "current_heading": "Sirus & Kilayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Three Mitzvot View",
+    "candidates": [
+      "Three Mitzvot View",
+      "Four Mitzvot View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rav Yosef's teaching that a ben Noach is executed for three mitzvot with the gimmel-shin-reish mnemonic, which is exactly what the 'Three Mitzvot View' prose discusses.",
+      "chosen_heading": "Three Mitzvot View",
+      "current_heading": "Three Mitzvot View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Four Mitzvot View",
+    "candidates": [
+      "Four Mitzvot View",
+      "Azharah Shelo Mita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form Rav Sheshet's objection and resolution \u2014 the challenge about deriving capital liability, the logical problem with extending it, and the conclusion that four mitzvot carry the death penalty \u2014 which is precisely what the 'Four Mitzvos View' prose describes in detail.",
+      "chosen_heading": "Four Mitzvot View",
+      "current_heading": "Four Mitzvot View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Azharah Shelo Mita",
+    "candidates": [
+      "Azharah Shelo Mita",
+      "Seven Mitzvot Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita's use of 'muzhar' versus execution and Rav Nachman bar Yitzchak's principle 'azharah shelahen zu hi mitatan,' which is precisely what the prose under heading 0 elaborates upon.",
+      "chosen_heading": "Azharah Shelo Mita",
+      "current_heading": "Azharah Shelo Mita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Seven Mitzvot Death",
+    "candidates": [
+      "Seven Mitzvot Death",
+      "Gezel Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna, Rav Yehuda, and students of Rav stating that a ben Noach is executed for all seven mitzvot, which is precisely what the 'Seven Mitzvot Death' section's prose discusses and analyzes.",
+      "chosen_heading": "Seven Mitzvot Death",
+      "current_heading": "Seven Mitzvot Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Gezel Braita",
+    "candidates": [
+      "Gezel Braita",
+      "Less Than Prutah",
+      "Jew vs. Non-Jew Threshold",
+      "Restitution vs Punishment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Gezel Braita",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 are precisely the gezel baraita discussion (assur vs. chayav, similar cases including laborer, less than prutah, withholding wages) that the Gezel Braita prose describes in detail.",
+      "second_heading": "Restitution vs Punishment",
+      "second_confidence": "low",
+      "second_reason": "Items 10-42 shift to entirely new topics (yefat toar similar cases, Noahide court procedures, forbidden sexual relations, convert kinship) that don't match any candidate well, but index 3 is the furthest downstream candidate available.",
+      "current_heading": "Gezel Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Restitution vs Punishment",
+    "candidates": [
+      "Less Than Prutah",
+      "Jew vs. Non-Jew Threshold",
+      "Restitution vs Punishment",
+      "Withholding Wages",
+      "Yifat Toar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The entire passage discusses the baraita's derivation of forbidden sexual relations for Noahides (father's sister, mother's sister, father's wife, etc.) and the dispute between Rabbi Eliezer and Rabbi Akiva \u2014 content about arayot for bnei Noach that matches the 'Yifat Toar Case' section's discussion of giluy arayos and ben Noach prohibitions, and is entirely unrelated to the gezel/prutah/wages topics of the other candidates.",
+      "chosen_heading": "Yifat Toar Case",
+      "current_heading": "Restitution vs Punishment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Yifat Toar Case",
+    "candidates": [
+      "Withholding Wages",
+      "Yifat Toar Case",
+      "Murder Cases",
+      "Self-Defense Rodef",
+      "Non-Jew Permissions"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Yifat Toar Case",
+      "current_heading": "Yifat Toar Case",
+      "moved": false
+    }
+  }
+]

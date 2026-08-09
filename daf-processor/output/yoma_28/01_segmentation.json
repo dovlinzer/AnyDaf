@@ -34,8 +34,8 @@
           "timestamp": "01:43"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Alternative Girsa Dispute: Interim vs. Final Avodah Framework",
@@ -97,7 +97,7 @@
           "timestamp": "10:43"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -589,5 +589,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "27:49",
+  "amud_b_micro_title": "Workers/Foremen",
+  "shiur_start_daf": 27,
+  "shiur_start_amud": "b"
 }

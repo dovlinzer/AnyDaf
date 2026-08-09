@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Pieces on Pedestals",
+    "candidates": [
+      "Self-Broken Idols",
+      "Pieces on Pedestals",
+      "Bending the Idol",
+      "Rabba's Gezeirah",
+      "Markolis Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's answer invoking Shmuel's interpretation of b'omdin al basisam, which is precisely what the 'Pieces on Pedestals' section's prose describes.",
+      "chosen_heading": "Pieces on Pedestals",
+      "current_heading": "Pieces on Pedestals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Markolis Stones",
+    "candidates": [
+      "Bending the Idol",
+      "Rabba's Gezeirah",
+      "Markolis Stones",
+      "Shaving the Idol",
+      "Idol Dust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the core dispute between Rabbi Yochanan and Reish Lakish about whether an idol that breaks by itself is prohibited or permitted \u2014 this is the foundational disagreement that 'Rabba's Gezeirah' section directly builds upon as Reish Lakish's position that Rabba's gezeirah must defend.",
+      "chosen_heading": "Rabba's Gezeirah",
+      "current_heading": "Markolis Stones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Idol Dust",
+    "candidates": [
+      "Shaving the Idol",
+      "Idol Dust",
+      "Dragon Head Cut",
+      "Winter Planting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The entire 33-item passage covers the continuous dispute between Rabbi Yochanan and Reish Lakish about a spontaneously broken idol, and while items 28-29 specifically match the 'Shaving the Idol' prose of heading 0, that heading is the earliest candidate and the full passage (items 1-33) belongs together under one heading rather than split across multiple sections.",
+      "chosen_heading": "Shaving the Idol",
+      "current_heading": "Idol Dust",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Winter Planting",
+    "candidates": [
+      "Dragon Head Cut",
+      "Winter Planting",
+      "Falling Leaves",
+      "Natural Growth Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Yochanan raising an objection (eitivei) to Reish Lakish using Rabbi Yosei's ruling about vegetables under an asheira, asking why the fallen leaves aren't treated like an idol that broke on its own \u2014 this is Rabbi Yochanan challenging Reish Lakish, not Reish Lakish challenging Rabbi Yochanan, matching heading 0's description of Rabbi Yochanan asking 'tehavi k'avodat kochavim shenishbeira me'aleha' and Reish Lakish responding with the same gezeirah; heading 1's prose incorrectly frames this as Reish Lakish challenging Rabbi Yochanan.",
+      "chosen_heading": "Dragon Head Cut",
+      "current_heading": "Winter Planting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Natural Growth Rule",
+    "candidates": [
+      "Falling Leaves",
+      "Natural Growth Rule",
+      "Nests on Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of question-answer-objection-resolution about falling leaves from an asheira tree: item 1 is Rabbi Yochanan's answer (ikar avodah zarah kayemet), item 2 is the pushback from shavings, and item 3 is Rav Huna's resolution \u2014 all of which the 'Falling Leaves' prose describes precisely, whereas the 'Natural Growth Rule' prose describes items 2 and 3 but not item 1, meaning the passage starts under 'Falling Leaves'.",
+      "chosen_heading": "Falling Leaves",
+      "current_heading": "Natural Growth Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Nests on Trees",
+    "candidates": [
+      "Natural Growth Rule",
+      "Nests on Trees",
+      "Chicks Not Twigs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Reish Lakish's objection to Rabbi Yochanan using the nest case \u2014 item 1 is the mishna/baraita he cites and item 2 is the initial analysis assuming the bird broke branches from the asheira tree \u2014 which precisely matches the 'Nests on Trees' prose describing Reish Lakish's challenge and his argument that material breaking off from avodah zarah on its own becomes mutar.",
+      "chosen_heading": "Nests on Trees",
+      "current_heading": "Nests on Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Chicks Not Twigs",
+    "candidates": [
+      "Chicks Not Twigs",
+      "Eggs & Young Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's explanation that the bird brought branches from elsewhere (de'aytei etzim me'alma), and the proof from the hekdesh case (lo nehenin velo mo'alin) that the twigs must be external \u2014 exactly what the 'Chicks Not Twigs' prose describes in detail.",
+      "chosen_heading": "Chicks Not Twigs",
+      "current_heading": "Chicks Not Twigs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Eggs & Young Birds",
+    "candidates": [
+      "Eggs & Young Birds",
+      "Destroying Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the same ongoing Gemara discussion about the hekdesh tree nest case \u2014 the gidulin principle, Rabbi Abbahu's interpretation of 'yattiz' regarding chicks, and Rabbi Ya'akov's/Rav Ashi's distinctions between eggs and chicks \u2014 all of which are explicitly addressed in the 'Eggs & Young Birds' prose.",
+      "chosen_heading": "Eggs & Young Birds",
+      "current_heading": "Eggs & Young Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Destroying Vessels",
+    "candidates": [
+      "Destroying Vessels",
+      "Create vs. Find"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself about finding vessels with sun/moon/dragon images and casting them into the Dead Sea, which is precisely what the 'Destroying Vessels' section's prose introduces and discusses.",
+      "chosen_heading": "Destroying Vessels",
+      "current_heading": "Destroying Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Create vs. Find",
+    "candidates": [
+      "Create vs. Find",
+      "Rav Sheshet's Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's contradiction from the baraita listing many objects of worship, and Abaye's resolution distinguishing 'worship anything found' from 'craft only the three important ones for decoration' \u2014 are precisely what the 'Create vs. Find' prose describes, making that the correct placement.",
+      "chosen_heading": "Create vs. Find",
+      "current_heading": "Create vs. Find",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rav Sheshet's Rules",
+    "candidates": [
+      "Rav Sheshet's Rules",
+      "Making Idols Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's consolidation of the baraitot into three rules about permitted/prohibited images, which is precisely what the prose under heading 0 ('Rav Sheshet's Rules') describes.",
+      "chosen_heading": "Rav Sheshet's Rules",
+      "current_heading": "Rav Sheshet's Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Making Idols Problem",
+    "candidates": [
+      "Making Idols Problem",
+      "Finding vs. Making"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to the 'making' interpretation of Rav Sheshet's ruling, citing the verse about not making images of God's celestial attendants \u2014 precisely what the 'Making Idols Problem' prose describes.",
+      "chosen_heading": "Making Idols Problem",
+      "current_heading": "Making Idols Problem",
+      "moved": false
+    }
+  }
+]

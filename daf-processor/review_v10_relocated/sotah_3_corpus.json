@@ -1,0 +1,639 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "R. Akiva vs. R. Yishmael",
+    "candidates": [
+      "Intro: Kina'ut Framework",
+      "R. Akiva vs. R. Yishmael",
+      "Debates: Universal/Pasuk?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the three paired disputes between Rabbi Yishmael and Rabbi Akiva (kina'ut, kohen becoming tamei, Canaanite slaves) that candidate 1's prose explicitly describes as the content of the gufa section.",
+      "chosen_heading": "R. Akiva vs. R. Yishmael",
+      "current_heading": "R. Akiva vs. R. Yishmael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Debates: Universal/Pasuk?",
+    "candidates": [
+      "Debates: Universal/Pasuk?",
+      "Rashi: Rhetorical Reading",
+      "Alt Reading: Ambiguity",
+      "Case 1: Vekina et Ishto"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Debates: Universal/Pasuk?",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question about whether Rabbi Yishmael and Rabbi Akiva dispute universally and Abaye's answer that it is specific to these verses \u2014 exactly what candidate 0 discusses.",
+      "second_heading": "Case 1: Vekina et Ishto",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins the individual case analysis of 'v'kina et ishto' as reshut vs. chova, which is precisely what candidate 3's prose introduces as 'the gemara now examines each of the three cases individually, beginning with v'kina et ishto'.",
+      "current_heading": "Debates: Universal/Pasuk?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Case 1: Vekina et Ishto",
+    "candidates": [
+      "Rashi: Rhetorical Reading",
+      "Alt Reading: Ambiguity",
+      "Case 1: Vekina et Ishto",
+      "R. Akiva: Text Repetition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yishmael's reasoning on v'kina et ishto via Rabbi Eliezer ben Yaakov's baraita, which is precisely what the prose of candidate 2 describes.",
+      "chosen_heading": "Case 1: Vekina et Ishto",
+      "current_heading": "Case 1: Vekina et Ishto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "R. Akiva: Text Repetition",
+    "candidates": [
+      "R. Akiva: Text Repetition",
+      "R. Yishmael: She'ne'emra"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Akiva: Text Repetition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Akiva's derivation from the repeated warning phrase, which is exactly what heading 0's prose describes \u2014 the repetition of v'kina et ishto teaching that warning is obligatory.",
+      "second_heading": "R. Yishmael: She'ne'emra",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yishmael's explanation that the repetition was structurally compelled by the need to write both outcomes, which is precisely what heading 1's prose describes as his she'ne'emra-based counter-argument.",
+      "current_heading": "R. Akiva: Text Repetition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "R. Yishmael: She'ne'emra",
+    "candidates": [
+      "R. Yishmael: She'ne'emra",
+      "Akiva vs Yishmael: Speech",
+      "Case 2: Letamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the school of Rabbi Yishmael's hermeneutical principle about repeated passages, which is precisely what the current heading's prose discusses.",
+      "chosen_heading": "R. Yishmael: She'ne'emra",
+      "current_heading": "R. Yishmael: She'ne'emra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Case 2: Letamei",
+    "candidates": [
+      "Akiva vs Yishmael: Speech",
+      "Case 2: Letamei",
+      "R. Yishmael: Presumption",
+      "R. Akiva: Extra Phrase",
+      "R. Yishmael: Body & Limbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the core dispute between Rabbi Yishmael and Rabbi Akiva over whether a kohen is obligated or merely permitted to become tamei for his sister, which is precisely what candidate 1 ('Case 2: Letamei') describes in its prose.",
+      "chosen_heading": "Case 2: Letamei",
+      "current_heading": "Case 2: Letamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "R. Yishmael: Body & Limbs",
+    "candidates": [
+      "R. Yishmael: Presumption",
+      "R. Akiva: Extra Phrase",
+      "R. Yishmael: Body & Limbs",
+      "Case 3: Le'olam Bahem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items continue the same Rabbi Yishmael / Rabbi Akiva exchange about 'lah yitama' and the body-versus-limbs distinction, which is precisely what the 'R. Yishmael: Body & Limbs' prose describes.",
+      "chosen_heading": "R. Yishmael: Body & Limbs",
+      "current_heading": "R. Yishmael: Body & Limbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Case 3: Le'olam Bahem",
+    "candidates": [
+      "Case 3: Le'olam Bahem",
+      "Values: Slavery Context",
+      "Canaanite vs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rabbi Yishmael (reshut) and Rabbi Akiva (chova) regarding le'olam bahem ta'avodu, which is exactly what heading 0 ('Case 3: Le'olam Bahem') introduces and discusses.",
+      "chosen_heading": "Case 3: Le'olam Bahem",
+      "current_heading": "Case 3: Le'olam Bahem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Canaanite vs",
+    "candidates": [
+      "Values: Slavery Context",
+      "Canaanite vs",
+      "Patrilineal Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yishmael's reasoning regarding lo techayeh kol neshamah and le'olam bahem ta'avodu for the child of a non-Canaanite father and Canaanite mother, which is precisely what the 'Canaanite vs' section's prose describes.",
+      "chosen_heading": "Canaanite vs",
+      "current_heading": "Canaanite vs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Patrilineal Identity",
+    "candidates": [
+      "Patrilineal Identity",
+      "Mixed Parentage: Non-Can"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the baraita about the non-Canaanite father/Canaanite mother scenario plus the subsequent derivations by Rabbi Akiva and Rabbi Yishmael, which all elaborate on the 'mehem tiknu' verse in the context of mixed parentage with a non-Canaanite father \u2014 exactly what candidate 1 ('Mixed Parentage: Non-Can') discusses, while candidate 0 already summarizes the baraita's opening point in its own prose.",
+      "chosen_heading": "Mixed Parentage: Non-Can",
+      "current_heading": "Patrilineal Identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Mixed Parentage: Non-Can",
+    "candidates": [
+      "Patrilineal Identity",
+      "Mixed Parentage: Non-Can",
+      "Reverse: Canaanite Father",
+      "Zenuta & Tukpa Comparison"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Zenuta & Tukpa Comparison",
+    "candidates": [
+      "Reverse: Canaanite Father",
+      "Zenuta & Tukpa Comparison",
+      "Gender Asymmetry Analysis",
+      "Shechina Before & After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav \u1e24isda's two statements about zenuta and tukpa being like a worm in sesame, which is precisely what the 'Zenuta & Tukpa Comparison' prose section discusses.",
+      "chosen_heading": "Zenuta & Tukpa Comparison",
+      "current_heading": "Zenuta & Tukpa Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Shechina Before & After",
+    "candidates": [
+      "Gender Asymmetry Analysis",
+      "Shechina Before & After",
+      "Mitzvah's Path Forward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's statement about the Divine Presence residing with each person before sin and departing after sin, which is precisely what the 'Shechina Before & After' section's prose describes and analyzes.",
+      "chosen_heading": "Shechina Before & After",
+      "current_heading": "Shechina Before & After",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Mitzvah's Path Forward",
+    "candidates": [
+      "Mitzvah's Path Forward",
+      "Aveirah's Wrapping Nature",
+      "R. Eliezer: Dog Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the mitzva going before a person to the World-to-Come AND the aveirah wrapping around him to the Day of Judgment \u2014 it is a single unified Talmudic statement, and its current placement under 'Mitzvah's Path Forward' is where it begins, though the essay splits the commentary across two headings; the passage as a whole unit best fits its current placement (index 0) since that is where it already sits and the split is an editorial choice in the prose, not a misplacement of the source text.",
+      "chosen_heading": "Mitzvah's Path Forward",
+      "current_heading": "Mitzvah's Path Forward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "R. Eliezer: Dog Metaphor",
+    "candidates": [
+      "Aveirah's Wrapping Nature",
+      "R. Eliezer: Dog Metaphor",
+      "One Witness Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's statement about the aveirah being chained like a dog with the Yosef/Potiphar prooftext, which is exactly what candidate 1's prose describes.",
+      "chosen_heading": "R. Eliezer: Dog Metaphor",
+      "current_heading": "R. Eliezer: Dog Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "One Witness Logic",
+    "candidates": [
+      "One Witness Logic",
+      "Two vs. One Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the a fortiori argument (kal va-chomer) about why one might think two witnesses are required for the final testimony \u2014 exactly the 'logical tension' that heading 0's prose describes as its central topic.",
+      "chosen_heading": "One Witness Logic",
+      "current_heading": "One Witness Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Two vs. One Witness",
+    "candidates": [
+      "Two vs. One Witness",
+      "Gezerah Shavah: Ervat",
+      "One Witness Ervat Davar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-5 collectively discuss the gezerah shavah of 'davar' requiring two witnesses for seclusion, then the question of why the mishna cited that source rather than 'bah,' and the resolution that 'bah v'lo b'kinnuy bah v'lo b'stirah' is the real source \u2014 exactly what candidate 2's prose describes as the final answer about one witness for adultery vs. two for kinuy and stirah.",
+      "chosen_heading": "One Witness Ervat Davar",
+      "current_heading": "Two vs. One Witness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "One Witness Ervat Davar",
+    "candidates": [
+      "Gezerah Shavah: Ervat",
+      "One Witness Ervat Davar",
+      "Rishona/Achrona: Kinuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses defilement without prior kinuy and stirah and why one witness is not believed in that case \u2014 exactly what the 'One Witness Ervat Davar' section's prose describes, including the same gezerah shavah proof text being applied to this distinct question.",
+      "chosen_heading": "One Witness Ervat Davar",
+      "current_heading": "One Witness Ervat Davar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rishona/Achrona: Kinuy",
+    "candidates": [
+      "Rishona/Achrona: Kinuy",
+      "Definitional Chain",
+      "Ha'arah Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines 'first testimony' as testimony of seclusion and 'last testimony' as testimony of defilement, which matches exactly the prose in heading 0 that describes a beraita providing formal definitions for edut rishona (edut stirah) and edut achrona (edut tumah).",
+      "chosen_heading": "Rishona/Achrona: Kinuy",
+      "current_heading": "Rishona/Achrona: Kinuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Ha'arah Definition",
+    "candidates": [
+      "Definitional Chain",
+      "Ha'arah Definition",
+      "R. Yishmael: Kedei Hak.",
+      "R. Eliezer: Mixing Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the definitional chain (stirah \u2192 tumah \u2192 bi'ah \u2192 ha'ara'ah), which is precisely what heading 0's prose describes, not the explanation of what ha'ara'ah means that heading 1 discusses.",
+      "chosen_heading": "Definitional Chain",
+      "current_heading": "Ha'arah Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "R. Eliezer: Mixing Wine",
+    "candidates": [
+      "R. Yishmael: Kedei Hak.",
+      "R. Eliezer: Mixing Wine",
+      "R. Yehoshua: Drinking",
+      "Ben Azzai: Frying Egg",
+      "R. Akiva: Swallowing",
+      "R. Yehuda ben Beteira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions together (Rabbi Yishmael, Rabbi Eliezer, and Rabbi Yehoshua) as a single baraita unit, and it begins with Rabbi Yishmael's measure, making heading 0 ('R. Yishmael: Kedei Hak.') the correct home for the complete quoted text.",
+      "chosen_heading": "R. Yishmael: Kedei Hak.",
+      "current_heading": "R. Eliezer: Mixing Wine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "R. Yehuda ben Beteira",
+    "candidates": [
+      "R. Yehoshua: Drinking",
+      "Ben Azzai: Frying Egg",
+      "R. Akiva: Swallowing",
+      "R. Yehuda ben Beteira",
+      "R. Elazar: String Tying",
+      "Ben Chanin: Yad el Peh",
+      "Pelimo: Bread from Basket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Ben Azzai, Rabbi Akiva, Rabbi Yehuda ben Beteira, and Rabbi Elazar ben Yirmeya together, and the earliest of these figures (Ben Azzai) corresponds to heading 1, which is where this multi-opinion baraita naturally begins.",
+      "chosen_heading": "Ben Azzai: Frying Egg",
+      "current_heading": "R. Yehuda ben Beteira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Pelimo: Bread from Basket",
+    "candidates": [
+      "R. Elazar: String Tying",
+      "Ben Chanin: Yad el Peh",
+      "Pelimo: Bread from Basket",
+      "Enumeration Purpose"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Enumeration Purpose",
+    "candidates": [
+      "Enumeration Purpose",
+      "Hakafa vs. Chazara"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Enumeration Purpose",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 cover the gemara's question and answer about why all three definitions (tumah, bi'ah, ha'ara'ah) are necessary, which is precisely what the 'Enumeration Purpose' prose discusses.",
+      "second_heading": "Hakafa vs. Chazara",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20136 introduce the contradicting second beraita with Rabbi Eliezer's 'chazarat dekel' and the shifted attributions, which is exactly what the 'Hakafa vs. Chazara' prose addresses.",
+      "current_heading": "Enumeration Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147,
+      148
+    ],
+    "current_heading": "Hakafa vs. Chazara",
+    "candidates": [
+      "Hakafa vs. Chazara",
+      "Rav Ashi: Palm Return",
+      "Combining Positions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Hakafa vs. Chazara",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the hakafa vs. chazara distinction and Abaye's resolution, which matches heading 0's prose exactly.",
+      "second_heading": "Rav Ashi: Palm Return",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Ashi's question about when the palm tree's return ends (teiku), which matches heading 1's prose exactly, while item 4 about mezigat hakos belongs under heading 2 but since we can only split once, items 3-4 are better placed starting at heading 1 given item 3's clear match there.",
+      "current_heading": "Hakafa vs. Chazara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154
+    ],
+    "current_heading": "Combining Positions",
+    "candidates": [
+      "Rav Ashi: Palm Return",
+      "Combining Positions",
+      "Frying & Swallowing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Combining Positions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the reconciliation of Rabbi Yehoshua's contradictory measures across the two baraitot, which is exactly what the 'Combining Positions' prose discusses.",
+      "second_heading": "Frying & Swallowing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 reconciles Ben Azzai's contradictory measures by equating frying an egg with drinking a cup, which is precisely the opening topic of the 'Frying & Swallowing' section.",
+      "current_heading": "Combining Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158
+    ],
+    "current_heading": "Frying & Swallowing",
+    "candidates": [
+      "Frying & Swallowing",
+      "Unresolved Ambiguities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with reconciling contradictions between Rabbi Akiva's and Rabbi Yehuda ben Beteira's measures across the two baraitot, which is precisely what the 'Frying & Swallowing' prose describes.",
+      "chosen_heading": "Frying & Swallowing",
+      "current_heading": "Frying & Swallowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161,
+      162,
+      163,
+      164
+    ],
+    "current_heading": "Unresolved Ambiguities",
+    "candidates": [
+      "Unresolved Ambiguities",
+      "Personal Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present Rav Ashi's unresolved questions about the measures of Rabbi Elazar ben Yirmeya, \u1e24anin ben Pine\u1e25as, and Peleimu \u2014 exactly the content described in the 'Unresolved Ambiguities' prose.",
+      "chosen_heading": "Unresolved Ambiguities",
+      "current_heading": "Unresolved Ambiguities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168
+    ],
+    "current_heading": "Personal Measurement",
+    "candidates": [
+      "Personal Measurement",
+      "Ben Azzai Problem",
+      "Ben Azzai Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yochanan's principle that each Sage estimated based on his own experience, which is exactly what the 'Personal Measurement' section discusses, and only raises the Ben Azzai question as a challenge \u2014 the resolution belongs under subsequent headings.",
+      "chosen_heading": "Personal Measurement",
+      "current_heading": "Personal Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Ben Azzai Solutions",
+    "candidates": [
+      "Ben Azzai Problem",
+      "Ben Azzai Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the three resolutions to Ben Azzai's problem, which is exactly what the 'Ben Azzai Solutions' section prose describes.",
+      "chosen_heading": "Ben Azzai Solutions",
+      "current_heading": "Ben Azzai Solutions",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rabbi Yochanan: Full Body",
+    "candidates": [
+      "Maaseh Yadayim Review",
+      "Onah Frequency Overview",
+      "Rashi on Permission",
+      "Talmud Torah vs Home",
+      "Rav: Half the Body",
+      "Rabbi Yochanan: Full Body",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both Rav's and Rabbi Yochanan's opinions together in a single Talmudic excerpt, and the prose under heading 4 ('Rav: Half the Body') introduces this as a parallel dispute between the same two authorities covering both positions, making it the natural home for the entire passage rather than splitting it under heading 5 which covers only Rabbi Yochanan's view.",
+      "chosen_heading": "Rav: Half the Body",
+      "current_heading": "Rabbi Yochanan: Full Body",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Rabbi Yochanan: Full Body",
+      "Reconciliation",
+      "Traveler Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the reconciliation of contradictory verses \u2014 explaining how Rabbi Yochanan handles the loins verse and how Rav handles the full-body verse \u2014 which is exactly what the 'Reconciliation' section's prose describes.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Traveler Story",
+    "candidates": [
+      "Traveler Story",
+      "Sighing & Absence",
+      "Monogamy vs Polygamy",
+      "Marriage Intrinsic Value",
+      "Marriage vs. Talmud Torah",
+      "Rabbi Yochanan EY View",
+      "Tayalim Daily",
+      "Wives Torah Students"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the traveler story itself \u2014 a Jew and non-Jew walking together, the sigh, and the distinction between new and habituated grief \u2014 which is precisely what the 'Traveler Story' prose describes and analyzes.",
+      "chosen_heading": "Traveler Story",
+      "current_heading": "Traveler Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Wives Torah Students",
+    "candidates": [
+      "Sighing & Absence",
+      "Monogamy vs Polygamy",
+      "Marriage Intrinsic Value",
+      "Marriage vs. Talmud Torah",
+      "Rabbi Yochanan EY View",
+      "Tayalim Daily",
+      "Wives Torah Students",
+      "Wealthy Independents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rava's definition of tayalin as bnei pirkei and Abaye's objection citing the verse about wives of Torah scholars \u2014 this is precisely the content described in heading 5 ('Tayalim Daily'), which asks 'mai tayalin?' and gives Rava's answer, while heading 6 describes only Abaye's objection and its conclusion, meaning the full Gemara exchange (both Rava's answer and Abaye's rebuttal) belongs under the heading that introduces the question.",
+      "chosen_heading": "Tayalim Daily",
+      "current_heading": "Wives Torah Students",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Wealthy Independents",
+    "candidates": [
+      "Wives Torah Students",
+      "Wealthy Independents",
+      "Ravin on Pampered",
+      "Bathhouse Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's rejection of a prior explanation and his positive reformulation citing Rav Shmuel bar Shilat plus Ravin's parallel \u2014 this is the conclusion of Abaye's objection, which the prose of heading 0 ('Wives Torah Students') explicitly anticipates by saying 'Abaye therefore concludes that the tayalin must refer to something else \u2014 specifically to people like Rav Shmuel bar Shilat, as Rav taught.'",
+      "chosen_heading": "Wives Torah Students",
+      "current_heading": "Wealthy Independents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Bathhouse Stories",
+    "candidates": [
+      "Ravin on Pampered",
+      "Bathhouse Stories",
+      "Workers Local vs Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two anecdotes (Rabbi Abbahu in the bathhouse and Rabbi Yochanan on the stairs) that the 'Bathhouse Stories' prose discusses in detail, confirming the current placement is correct.",
+      "chosen_heading": "Bathhouse Stories",
+      "current_heading": "Bathhouse Stories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Workers Local vs Travel",
+    "candidates": [
+      "Workers Local vs Travel",
+      "Donkey Drivers",
+      "One Week Neder Q",
+      "Bread in Basket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the contradiction between workers' onah being twice versus once a week, resolved by the distinction between working locally versus in another city \u2014 exactly what the 'Workers Local vs Travel' prose discusses.",
+      "chosen_heading": "Workers Local vs Travel",
+      "current_heading": "Workers Local vs Travel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Bread in Basket",
+    "candidates": [
+      "Donkey Drivers",
+      "One Week Neder Q",
+      "Bread in Basket",
+      "Occupation Switch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the single Q&A exchange where Rabba bar Rav \u1e24anan raises the question (why should the tanna bother teaching man of leisure/laborer) and Abaye answers it (it applies to all, and the bread-in-basket principle explains even the sailor case), which is precisely what candidate 1 'One Week Neder Q' describes \u2014 the question about what the neder actually withholds for various occupations and Abaye's resolution.",
+      "chosen_heading": "One Week Neder Q",
+      "current_heading": "Bread in Basket",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Occupation Switch",
+    "candidates": [
+      "Bread in Basket",
+      "Occupation Switch",
+      "Wife's Preference",
+      "Rosh Exception",
+      "Sailors Six Months",
+      "2-3 Year Absence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question posed by Rabba bar Rav Chanan about switching from donkey driver to camel driver, which is precisely what the 'Occupation Switch' prose describes, and the answer (rotzah ishah) is handled under the separate 'Wife's Preference' heading.",
+      "chosen_heading": "Occupation Switch",
+      "current_heading": "Occupation Switch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "2-3 Year Absence",
+    "candidates": [
+      "Wife's Preference",
+      "Rosh Exception",
+      "Sailors Six Months",
+      "2-3 Year Absence",
+      "Students' Self-Reliance",
+      "Rashi Risk Interpretation",
+      "Annual Return Delayed",
+      "Wife's Tear Collapses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the sailors' six-month interval, Rabbi Eliezer's ruling, Rav Berona/Rav's halakhic ruling, AND Rav Adda bar Ahava's extension about students \u2014 all of which together belong under 'Sailors Six Months' (index 2), whose prose already introduces this exact sequence, rather than being split across indices 2 and 3.",
+      "chosen_heading": "Sailors Six Months",
+      "current_heading": "2-3 Year Absence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Wife's Tear Collapses",
+    "candidates": [
+      "Students' Self-Reliance",
+      "Rashi Risk Interpretation",
+      "Annual Return Delayed",
+      "Wife's Tear Collapses",
+      "Ra'avad vs Rashi",
+      "Friday to Friday",
+      "Oneg Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Candidate 2's prose explicitly introduces the Rav Rechumi story with 'Ki ha de'Rav Rechumi' and describes his annual return practice and becoming absorbed in learning \u2014 exactly what this passage narrates from its opening through the wife's tear and the roof collapse, making it the natural home for the entire passage rather than splitting it under 'Wife's Tear Collapses.'",
+      "chosen_heading": "Annual Return Delayed",
+      "current_heading": "Wife's Tear Collapses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Oneg Shabbat",
+    "candidates": [
+      "Ra'avad vs Rashi",
+      "Friday to Friday",
+      "Oneg Shabbat",
+      "Weekly Returns",
+      "Missed Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's ruling that the onah for Torah scholars is from Shabbat eve to Shabbat eve, which matches the 'Friday to Friday' section's prose about Rav Yehuda/Shmuel's ruling on me'erev Shabbos l'erev Shabbos, whereas the current placement ('Oneg Shabbat') is the subsequent section that discusses Rashi's explanation and the verse about fruit in its season.",
+      "chosen_heading": "Friday to Friday",
+      "current_heading": "Oneg Shabbat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Missed Sign",
+    "candidates": [
+      "Weekly Returns",
+      "Missed Sign",
+      "Death from Word",
+      "Duty Message",
+      "Bride Dies",
+      "Yichus Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire story of Yehuda son of Rabbi Chiyya \u2014 his weekly returns, the pillar of fire, the missed sign, Rabbi Yannai's decree, and his death \u2014 and the prose under 'Weekly Returns' (index 0) is the only section that introduces this full narrative, while the subsequent headings each cover only a fragment; placing the whole passage under the opening heading that sets up the story is the best fit.",
+      "chosen_heading": "Weekly Returns",
+      "current_heading": "Missed Sign",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Yichus Problem",
+    "candidates": [
+      "Death from Word",
+      "Duty Message",
+      "Bride Dies",
+      "Yichus Problem",
+      "Second Marriage",
+      "Bride Walks Forward",
+      "Marry Then Learn",
+      "Biblical Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the arrangement of the match and the bride's death when they came to write the ketubah, which exactly matches the 'Bride Dies' section's prose, not the 'Yichus Problem' section which discusses the aftermath (examining lineages).",
+      "chosen_heading": "Bride Dies",
+      "current_heading": "Yichus Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Biblical Timeline",
+    "candidates": [
+      "Second Marriage",
+      "Bride Walks Forward",
+      "Marry Then Learn",
+      "Biblical Timeline",
+      "Return Wife Sterile",
+      "Rav Solutions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Marry Then Learn",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the son's decision to marry first then learn and his embarrassment before his father, which matches the 'Marry Then Learn' prose exactly.",
+      "second_heading": "Biblical Timeline",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the biblical proof text (t'vi'eimo/v'asu li mikdash) that the father cites to reassure his son, which matches the 'Biblical Timeline' prose exactly.",
+      "current_heading": "Biblical Timeline",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rav Solutions",
+    "candidates": [
+      "Return Wife Sterile",
+      "Rav Solutions",
+      "Prayer & Cure",
+      "Rabbi Shimeon Delay",
+      "Chanina Proceeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the wife's sterility and Rav's deliberation about his options (divorce vs. second wife) and the prayer/cure, but the current heading 'Rav Solutions' whose prose explicitly discusses all three options (divorce, second wife, and their social consequences) is the best match for the bulk of this passage's content, which centers on those dilemmas before briefly noting the prayer cure.",
+      "chosen_heading": "Rav Solutions",
+      "current_heading": "Rav Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Chanina Proceeds",
+    "candidates": [
+      "Prayer & Cure",
+      "Rabbi Shimeon Delay",
+      "Chanina Proceeds",
+      "Lost Roads",
+      "Hears Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Chanina ben Chachinai departing at the end of Rabbi Shimon bar Yochai's wedding feast and Rabbi Shimon asking him to wait \u2014 exactly what the 'Rabbi Shimeon Delay' prose section discusses, not the 'Chanina Proceeds' section which covers his not waiting and the twelve years.",
+      "chosen_heading": "Rabbi Shimeon Delay",
+      "current_heading": "Chanina Proceeds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Hears Daughter",
+    "candidates": [
+      "Lost Roads",
+      "Hears Daughter",
+      "Wife Dies Shock",
+      "Prayer Revives",
+      "Advance Notice",
+      "Son Recognition",
+      "Three-Bound Cord"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage begins with him sitting by the riverbank (matching 'Lost Roads' prose about sitting disoriented by the riverbank), then continues through hearing his daughter, his wife dying, and his prayer reviving her \u2014 it covers all remaining story beats in one block, but the opening action of sitting on the riverbank aligns best with heading 0, though heading 1 where it currently sits is also plausible since the daughter-recognition is the main narrative pivot.",
+      "chosen_heading": "Lost Roads",
+      "current_heading": "Hears Daughter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Three-Bound Cord",
+    "candidates": [
+      "Wife Dies Shock",
+      "Prayer Revives",
+      "Advance Notice",
+      "Son Recognition",
+      "Three-Bound Cord",
+      "Akiva Marriage",
+      "First 12 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items describe Rabbi Chama's interaction with his unrecognized son Rabbi Oshaya \u2014 the distress at not having raised such a sharp scholar, and then entering the house together \u2014 which matches candidate 3 ('Son Recognition') exactly, while the current placement (4, 'Three-Bound Cord') covers only the wife's remark and the threefold cord verse that concludes the story.",
+      "chosen_heading": "Son Recognition",
+      "current_heading": "Three-Bound Cord",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159
+    ],
+    "current_heading": "First 12 Years",
+    "candidates": [
+      "Akiva Marriage",
+      "First 12 Years",
+      "Return with Students",
+      "Wife Knows Soul",
+      "Wife Partnership",
+      "Father Reconciles"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Akiva Marriage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rabbi Akiva's secret marriage to Kalba Savua's daughter and her father's angry vow, which matches the 'Akiva Marriage' prose about the secret marriage and Kalba Savua expelling his daughter.",
+      "second_heading": "Return with Students",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the wife urging another twelve years, the return with twenty-four thousand students, and the wife kissing his feet, which spans the 'Return with Students' section's content about the twenty-four-year return.",
+      "current_heading": "First 12 Years",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Father Reconciles",
+    "candidates": [
+      "Return with Students",
+      "Wife Knows Soul",
+      "Wife Partnership",
+      "Father Reconciles",
+      "Daughter & Ben Azai",
+      "Early Return",
+      "Father Attacks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 3's prose covers: Kalba Savua seeking vow nullification, Rabbi Akiva's reveal of 'ana hu,' the kissing of feet, and the giving of half his wealth, plus the daughter/Ben Azzai folk saying that flows naturally into candidate 4.",
+      "chosen_heading": "Father Reconciles",
+      "current_heading": "Father Reconciles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Father Attacks",
+    "candidates": [
+      "Daughter & Ben Azai",
+      "Early Return",
+      "Father Attacks",
+      "Yom Kippur Fast",
+      "Concluding Message"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef son of Rava being sent for six years, returning after three on Erev Yom Kippur \u2014 matching heading 1 'Early Return' \u2014 while heading 2 'Father Attacks' covers only the father's confrontation and heading 3 covers the fasting consequence, but the full Talmudic passage encompasses all of this and its opening content (the setup of six years and early return) best matches heading 1's prose which introduces the entire episode.",
+      "chosen_heading": "Early Return",
+      "current_heading": "Father Attacks",
+      "moved": true
+    }
+  }
+]

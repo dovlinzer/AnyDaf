@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Eliezer on Avadcha",
+    "candidates": [
+      "Daf Overview",
+      "Three Contexts",
+      "Categories & Link",
+      "Gezeirah Shavah Question",
+      "Baraita Overview",
+      "Tavyumi on Abaye",
+      "Six Year Limit",
+      "Reframing Debate",
+      "Eliezer on Avadcha",
+      "Ear-Piercing Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All three items deal with Rabbi Eliezer's interpretation of 'avadcha' (serving you vs. your heir) and the second occurrence of 'avadcha' as moral exhortation rather than legal restriction \u2014 exactly the content described in the 'Eliezer on Avadcha' prose.",
+      "chosen_heading": "Eliezer on Avadcha",
+      "current_heading": "Eliezer on Avadcha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Ear-Piercing Limit",
+    "candidates": [
+      "Ear-Piercing Limit",
+      "Ozno Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks and answers why the tanna kamma holds that mokhher atzmo is not pierced, deriving it from 'ozno shelo velo ozno shel mokhher atzmo,' which is precisely what the 'Ear-Piercing Limit' prose describes.",
+      "chosen_heading": "Ear-Piercing Limit",
+      "current_heading": "Ear-Piercing Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Ozno Analysis",
+    "candidates": [
+      "Ozno Analysis",
+      "Gifting Limited",
+      "Wages Debate",
+      "Lo Creditor Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the back-and-forth between the tanna kamma and Rabbi Eliezer over how to derive the right-ear requirement, the exclusion of the maidservant, and the timing condition from 'ozno'/'eved'/'ha'eved' \u2014 exactly the content described in the 'Ozno Analysis' prose.",
+      "chosen_heading": "Ozno Analysis",
+      "current_heading": "Ozno Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Lo Creditor Reading",
+    "candidates": [
+      "Gifting Limited",
+      "Wages Debate",
+      "Lo Creditor Reading",
+      "Maidservant Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation from 'lo' regarding the creditor exclusion and Rabbi Natan's principle, which is precisely what the 'Lo Creditor Reading' section's prose describes.",
+      "chosen_heading": "Lo Creditor Reading",
+      "current_heading": "Lo Creditor Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Maidservant Limit",
+    "candidates": [
+      "Maidservant Limit",
+      "Double Wage & Force"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about the tanna kamma's reasoning and the exclusion of mokhher atzmo via 'lo,' which is exactly the mechanic described in the 'Maidservant Limit' prose section, not the 'Double Wage & Force' section which covers Rabbi Eliezer's reading and the mishneh sechar sakhir discussion.",
+      "chosen_heading": "Maidservant Limit",
+      "current_heading": "Maidservant Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Double Wage & Force",
+    "candidates": [
+      "Double Wage & Force",
+      "Fundamental Link",
+      "V'shav Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the gemara's back-and-forth about deriving compelled cohabitation from 'mishneh sechar sakhir' versus 'lo,' which is precisely what the 'Double Wage & Force' prose section describes in detail.",
+      "chosen_heading": "Double Wage & Force",
+      "current_heading": "Double Wage & Force",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "V'shav Argument",
+    "candidates": [
+      "Fundamental Link",
+      "V'shav Argument",
+      "Yovel Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita of Rabbi Eliezer ben Yaakov asking what verse 'veshav el mishpachto' refers to, concluding it must address makhruhu beit din, and then the gemara's inference that this shows he rejects the sakhir-sakhir gezeirah shavah \u2014 precisely the content described in the 'V'shav Argument' prose.",
+      "chosen_heading": "V'shav Argument",
+      "current_heading": "V'shav Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Yovel Exception",
+    "candidates": [
+      "Yovel Exception",
+      "Two V'shavtem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's argument that the sakhir-sakhir gezeirah shavah can still be accepted while an additional verse is needed for the yovel case due to the penalization concern for makhruhu beit din \u2014 precisely what the 'Yovel Exception' prose discusses.",
+      "chosen_heading": "Yovel Exception",
+      "current_heading": "Yovel Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Two V'shavtem",
+    "candidates": [
+      "Two V'shavtem",
+      "Necessity Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the baraita and Rava bar Sheila's derivation from the word 'ish' that candidate 0's prose describes as the source for the nirtza's inclusion in yovel freedom via the second veshavtem verse.",
+      "chosen_heading": "Two V'shavtem",
+      "current_heading": "Two V'shavtem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Necessity Argument",
+    "candidates": [
+      "Necessity Argument",
+      "Reconciliation",
+      "L'olam Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the bidirectional necessity argument (tzricha) that the 'Necessity Argument' prose describes in detail \u2014 why makhruhu beit din cannot be derived from nirtza and vice versa.",
+      "chosen_heading": "Necessity Argument",
+      "current_heading": "Necessity Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "L'olam Resolution",
+    "candidates": [
+      "Reconciliation",
+      "L'olam Resolution",
+      "Rabbi's Position",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together explain precisely why both 'le'olam' and 'veshavtem' are necessary \u2014 item 1 addresses why 'le'olam' alone is insufficient and item 2 addresses why 'veshavtem' alone is insufficient \u2014 which is exactly the content described in the 'L'olam Resolution' prose.",
+      "chosen_heading": "L'olam Resolution",
+      "current_heading": "L'olam Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Rabbi's Position",
+      "Kal Vachomer",
+      "Rav Nachman Counter",
+      "Yigalenu Limit",
+      "Braita Intro",
+      "Yossi View",
+      "Akiva View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the identification of Rabbi as the tanna who rejects the sakhir-sakhir gezeirah shavah (items 1-4) plus Rav Nachman's counter that Rabbi could still hold the gezeirah shavah due to the yigalenu verse (item 5), which perfectly matches heading 0's prose describing Rabbi's position and the baraita about ba-eleh \u2014 the current placement under 'Kal Vachomer' splits this material awkwardly across headings 0 and 1.",
+      "chosen_heading": "Rabbi's Position",
+      "current_heading": "Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Akiva View",
+    "candidates": [
+      "Rav Nachman Counter",
+      "Yigalenu Limit",
+      "Braita Intro",
+      "Yossi View",
+      "Akiva View",
+      "Three Geulahs",
+      "Yossi Reasoning",
+      "Akiva Reasoning",
+      "Ba'eleh Limiting",
+      "Svara Debate",
+      "Yossi Svara",
+      "Akiva Svara",
+      "R. Chiya Quote",
+      "Chachamim View",
+      "Rabbi Position",
+      "V'yatza Yovel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with 'who is the tanna who disagrees with Rabbi' and presents the full dispute between Rabbi Yosei HaGelili and Rabbi Akiva through all its textual and logical stages, which is precisely what heading 2 ('Braita Intro') describes as its content \u2014 introducing the braita with the two disagreeing tannaim \u2014 and the passage then continues through all the sub-discussions (textual basis, svara, Chachamim) that belong under this umbrella introduction to that dispute.",
+      "chosen_heading": "Braita Intro",
+      "current_heading": "Akiva View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "V'yatza Yovel",
+    "candidates": [
+      "Three Geulahs",
+      "Yossi Reasoning",
+      "Akiva Reasoning",
+      "Ba'eleh Limiting",
+      "Svara Debate",
+      "Yossi Svara",
+      "Akiva Svara",
+      "R. Chiya Quote",
+      "Chachamim View",
+      "Rabbi Position",
+      "V'yatza Yovel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "Both items directly address what Rabbi does with the verse 've-yatza bi-shnat ha-yovel' and its application to a non-Jew under Jewish authority versus not under Jewish authority, which is precisely what the prose of heading 10 ('V'yatza Yovel') describes.",
+      "chosen_heading": "V'yatza Yovel",
+      "current_heading": "V'yatza Yovel",
+      "moved": false
+    }
+  }
+]

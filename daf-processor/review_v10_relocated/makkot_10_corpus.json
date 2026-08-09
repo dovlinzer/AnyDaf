@@ -1,0 +1,624 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Hermeneutics: In/Exclude",
+    "candidates": [
+      "Intro: Blind Person",
+      "Hermeneutics: In/Exclude",
+      "R. Yehuda: Without Seeing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita quoted directly introduces the hermeneutical debate over 'without seeing' as excluding or including a blind person, which is precisely what the 'Hermeneutics: In/Exclude' section's prose describes.",
+      "chosen_heading": "Hermeneutics: In/Exclude",
+      "current_heading": "Hermeneutics: In/Exclude",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "R. Yehuda: Without Seeing",
+    "candidates": [
+      "R. Yehuda: Without Seeing",
+      "R. Meir: Two Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yehuda's textual reasoning from 'without seeing,' which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "R. Yehuda: Without Seeing",
+      "current_heading": "R. Yehuda: Without Seeing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "R. Meir: Two Exclusions",
+    "candidates": [
+      "R. Meir: Two Exclusions",
+      "R. Yehuda: Intent Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's interpretation using the double exclusion (mi'ut achar mi'ut) principle, which is precisely what the prose under heading 0 explains.",
+      "chosen_heading": "R. Meir: Two Exclusions",
+      "current_heading": "R. Meir: Two Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "R. Yehuda: Intent Issue",
+    "candidates": [
+      "R. Yehuda: Intent Issue",
+      "R. Yossi: Execution",
+      "Responsibility Levels",
+      "Warning Problem",
+      "Chaver: No Warning",
+      "Purpose of Warning",
+      "Hater: No Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yehuda's interpretation of 'bivli da'at' to exclude one with intent (aiming at an animal and killing a person), which is precisely what the prose under 'R. Yehuda: Intent Issue' describes.",
+      "chosen_heading": "R. Yehuda: Intent Issue",
+      "current_heading": "R. Yehuda: Intent Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Hater: No Warning",
+    "candidates": [
+      "R. Yossi: Execution",
+      "Responsibility Levels",
+      "Warning Problem",
+      "Chaver: No Warning",
+      "Purpose of Warning",
+      "Hater: No Warning",
+      "Shimon: May/May Not",
+      "Rope Break vs. Slip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the problem of missing forewarning (hasro'ah) and the Gemara's resolution via Rabbi Yossi bar Rabbi Yehuda's ruling, which is precisely what the 'Warning Problem' section's prose discusses.",
+      "chosen_heading": "Warning Problem",
+      "current_heading": "Hater: No Warning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rope Break vs. Slip",
+    "candidates": [
+      "Shimon: May/May Not",
+      "Rope Break vs. Slip",
+      "Contradiction: 2 Baraitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita distinguishing nifsak (rope snapped \u2192 exiled) from nishmat (displaced \u2192 not exiled), which is precisely what the 'Rope Break vs. Slip' section's prose discusses.",
+      "chosen_heading": "Rope Break vs. Slip",
+      "current_heading": "Rope Break vs. Slip",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Contradiction: 2 Baraitot",
+    "candidates": [
+      "Contradiction: 2 Baraitot",
+      "Resolution: Friend/Enemy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two baraitot (kashya nifsak anifsak, kashya nishmat anishmat), which is exactly what the 'Contradiction: 2 Baraitot' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Contradiction: 2 Baraitot",
+      "current_heading": "Contradiction: 2 Baraitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Resolution: Friend/Enemy",
+    "candidates": [
+      "Resolution: Friend/Enemy",
+      "Rabbi/Rabbanan Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage resolves a nifsak/nifsak contradiction using the friend/enemy distinction, which matches exactly what heading 0's prose describes as the Gemara's resolution of the first contradiction via ohev/soneh distinction.",
+      "chosen_heading": "Resolution: Friend/Enemy",
+      "current_heading": "Resolution: Friend/Enemy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rabbi/Rabbanan Debate",
+    "candidates": [
+      "Rabbi/Rabbanan Debate",
+      "Six Cities Total"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage resolves the nifsak/nishmat contradiction by attributing one baraita to Rabbi and the other to Rabbanan, which is precisely what the 'Rabbi/Rabbanan Debate' section's prose describes.",
+      "chosen_heading": "Rabbi/Rabbanan Debate",
+      "current_heading": "Rabbi/Rabbanan Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Six Cities Total",
+    "candidates": [
+      "Six Cities Total",
+      "Simultaneous Operation",
+      "Roads Between Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers both the establishment of six cities (three per side of the Jordan) and the simultaneous operation principle, but the current heading 'Six Cities Total' with its prose about three cities on each side matches the opening content of this mishna, while the simultaneous operation detail is already summarized in candidate 1's prose \u2014 however, since this is a single mishna passage that must sit under one heading, and the passage's primary topic is where exiles go (the six cities), and candidate 0's prose most directly introduces this mishna's content, it belongs under 'Six Cities Total'.",
+      "chosen_heading": "Six Cities Total",
+      "current_heading": "Six Cities Total",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Roads Between Cities",
+    "candidates": [
+      "Simultaneous Operation",
+      "Roads Between Cities",
+      "Talmidei Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses roads being aligned/prepared between cities of refuge and cites the verse about preparing the road, which directly matches the 'Roads Between Cities' section prose that discusses highways connecting the cities and explicitly mentions the same verse tachin lecha haderech v'shilashta.",
+      "chosen_heading": "Roads Between Cities",
+      "current_heading": "Roads Between Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Talmidei Chachamim",
+    "candidates": [
+      "Talmidei Chachamim",
+      "R. Meir: Self-Defense",
+      "Initial Custody Rule",
+      "Three Outcomes",
+      "Named Cities"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Meir: Self-Defense",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the tanna kamma's rule about two talmidei chachamim and Rabbi Meir's position on self-advocacy, which together map onto headings 0 and 1 \u2014 but since Rabbi Meir's view is the concluding point of item 1, it fits best under heading 1 ('R. Meir: Self-Defense') which explicitly discusses Rabbi Meir's citation of the verse and his ruling, while heading 0's prose already summarizes the tanna kamma material.",
+      "second_heading": "Initial Custody Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yose bar Yehuda's distinct procedural rule about initial custody (batchila, both shogeg and meizid go first to ir miklat) and the three outcomes, which maps directly onto heading 2 ('Initial Custody Rule') whose prose explicitly discusses this very teaching.",
+      "current_heading": "Talmidei Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Named Cities",
+    "candidates": [
+      "R. Meir: Self-Defense",
+      "Initial Custody Rule",
+      "Three Outcomes",
+      "Named Cities",
+      "Parallel Arrangement",
+      "Equal Spacing",
+      "Gilead Murderers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers all three topics in sequence \u2014 naming the six cities (heading 3), their parallel vineyard arrangement (heading 4), and the equal spacing requirement (heading 5) \u2014 but since it is a single continuous baraita and the essay breaks these into separate sections, the current placement under 'Named Cities' is where the passage begins and is the correct anchor for the full quoted text; however, the content actually spans headings 3\u20135, and since we must pick one, the passage most naturally fits under heading 3 where it currently sits as the source text that introduces all three concepts.",
+      "chosen_heading": "Named Cities",
+      "current_heading": "Named Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Gilead Murderers",
+    "candidates": [
+      "Parallel Arrangement",
+      "Equal Spacing",
+      "Gilead Murderers",
+      "Shechem Murderers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gilead Murderers",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address why three cities serve Transjordan despite its smaller population (Gilead's prevalence of murderers), which is exactly the topic of the 'Gilead Murderers' section.",
+      "second_heading": "Shechem Murderers",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the new question about inequitable spacing within Eretz Yisrael \u2014 why border cities are farther from residents than the middle city \u2014 which is precisely the setup described in the 'Shechem Murderers' prose.",
+      "current_heading": "Gilead Murderers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shechem Murderers",
+    "candidates": [
+      "Shechem Murderers",
+      "Six vs. Forty-Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's statement about murderers being common in Shechem and Rabbi Elazar's explanation of 'band of priests,' which is precisely what the 'Shechem Murderers' prose section describes.",
+      "chosen_heading": "Shechem Murderers",
+      "current_heading": "Shechem Murderers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Six vs. Forty-Two",
+    "candidates": [
+      "Six vs. Forty-Two",
+      "Hebron: Suburbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between the six primary cities of refuge and the forty-two Levite cities, matching precisely the prose of 'Six vs. Forty-Two' which describes Abaye's distinction between intentional and inadvertent entry.",
+      "chosen_heading": "Six vs. Forty-Two",
+      "current_heading": "Six vs. Forty-Two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Hebron: Suburbs",
+    "candidates": [
+      "Hebron: Suburbs",
+      "Kadesh: Village"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of Hebron as an ir miklat and Abaye's resolution about its suburbs (parvadaha), which is exactly what the 'Hebron: Suburbs' prose describes.",
+      "chosen_heading": "Hebron: Suburbs",
+      "current_heading": "Hebron: Suburbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Kadesh: Village",
+    "candidates": [
+      "Kadesh: Village",
+      "Town Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the specific question of whether Kadesh can be a city of refuge given it is listed among fortified cities, with Rav Yosef's and Rav Ashi's resolutions, which precisely matches the prose under 'Kadesh: Village' rather than the general topic of town size requirements under 'Town Size'.",
+      "chosen_heading": "Kadesh: Village",
+      "current_heading": "Kadesh: Village",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Town Size",
+    "candidates": [
+      "Town Size",
+      "Water & Markets",
+      "Population Needs",
+      "Weapon Prohibition",
+      "Nets & Ropes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all topics from town size through population needs in one continuous baraita, but it opens specifically with the medium-sized town requirement and the current heading 'Town Size' with its prose about returning to the baraita itself and medium-sized towns is the correct anchor for this complete baraita citation.",
+      "chosen_heading": "Town Size",
+      "current_heading": "Town Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Nets & Ropes",
+    "candidates": [
+      "Water & Markets",
+      "Population Needs",
+      "Weapon Prohibition",
+      "Nets & Ropes",
+      "Verse: 'And Live'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the weapon/hunting tool prohibition (Rabbi Ne\u1e25emya vs. Rabbis) and the nets/ropes agreement, which together form a single continuous baraita that belongs under 'Weapon Prohibition' since that heading introduces the full topic, while 'Nets & Ropes' only describes the secondary agreed-upon detail.",
+      "chosen_heading": "Weapon Prohibition",
+      "current_heading": "Nets & Ropes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Verse: 'And Live'",
+    "candidates": [
+      "Nets & Ropes",
+      "Verse: 'And Live'",
+      "Student-Teacher Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yitzchak's derivation from the verse 'and live' that the city of refuge must sustain life, which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "Verse: 'And Live'",
+      "current_heading": "Verse: 'And Live'",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Student-Teacher Exile",
+    "candidates": [
+      "Student-Teacher Exile",
+      "Torah Refuge",
+      "Active Study"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Student-Teacher Exile",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the baraita about a student's exile bringing his teacher along, and Rabbi Zeira's lesson about unworthy students \u2014 exactly what heading 0's prose covers.",
+      "second_heading": "Torah Refuge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rabbi Yochanan's ruling that a teacher's school accompanies him into exile, then pivots to the question of whether Torah itself provides refuge \u2014 which is precisely what heading 1's prose addresses.",
+      "current_heading": "Student-Teacher Exile",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Active Study",
+    "candidates": [
+      "Torah Refuge",
+      "Active Study",
+      "David Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly resolves the contradiction between Torah-as-refuge and the requirement to go to a city of refuge by distinguishing between times of active engagement versus non-engagement in study \u2014 precisely what the 'Active Study' section's prose describes.",
+      "chosen_heading": "Active Study",
+      "current_heading": "Active Study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "David Story",
+    "candidates": [
+      "David Story",
+      "Reuben: First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24isda and the Angel of Death matches exactly what the 'David Story' prose describes \u2014 the cedar tree incident, the concept of Torah protecting from the Angel of Death, and the clarification of Rabbi Yochanan's 'koltin' teaching.",
+      "chosen_heading": "David Story",
+      "current_heading": "David Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Reuben: First",
+    "candidates": [
+      "Reuben: First",
+      "Sun Shines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Tan\u1e25um bar \u1e24anilai's teaching about Reuben's merit in being enumerated first in rescue due to his initial act of saving Joseph, which matches exactly the prose under 'Reuben: First'.",
+      "chosen_heading": "Reuben: First",
+      "current_heading": "Reuben: First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Sun Shines",
+    "candidates": [
+      "Sun Shines",
+      "Love of Mitzvos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Simlai's exposition of 'mizrecha shamesh' and Moses designating cities of refuge causing the sun to shine for murderers, which matches exactly the prose under heading 0 ('Sun Shines').",
+      "chosen_heading": "Sun Shines",
+      "current_heading": "Sun Shines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Love of Mitzvos",
+    "candidates": [
+      "Love of Mitzvos",
+      "Teaching Masses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Moses's eagerness to fulfill a mitzva even knowing it would not take practical effect in his lifetime, which directly matches the 'Love of Mitzvos' section's prose about mitzvah sheba'ah leyadi akaymena.",
+      "chosen_heading": "Love of Mitzvos",
+      "current_heading": "Love of Mitzvos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Teaching Masses",
+    "candidates": [
+      "Teaching Masses",
+      "Love Community",
+      "Sin: Solitary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses who is fit to teach Torah to the masses (requiring comprehensive knowledge), which corresponds to candidate 2's prose about 'three separate readings of kol ha'ohev lilmod bahamon' \u2014 specifically the first reading about who is qualified to teach publicly, and the Rabbi Elazar proof-text about needing full mastery to speak God's praises, all of which is explicitly described in candidate 2's prose.",
+      "chosen_heading": "Sin: Solitary",
+      "current_heading": "Teaching Masses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Sin: Solitary",
+    "candidates": [
+      "Love Community",
+      "Sin: Solitary",
+      "Gates of Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items interpret the verse about 'loving abundance' in terms of communal Torah study/teaching, fitting perfectly under 'Love Community' which describes the theme of communal Torah study and those who love to be among masses of learners \u2014 not under 'Sin: Solitary' which describes the negative consequences of isolated study.",
+      "chosen_heading": "Love Community",
+      "current_heading": "Sin: Solitary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Gates of Study",
+    "candidates": [
+      "Gates of Study",
+      "David's Joy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yehoshua ben Levi's exposition of 'our feet standing in your gates' is directly and specifically discussed in the 'Gates of Study' section prose, which paraphrases this exact teaching.",
+      "chosen_heading": "Gates of Study",
+      "current_heading": "Gates of Study",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Bor Analogy Rejected",
+    "candidates": [
+      "Gray Zone Definition",
+      "Incursion vs. Head-Turn",
+      "Owner Permits Public Use",
+      "Rav vs. Shmuel",
+      "Bor Analogy Rejected",
+      "Functional Definition",
+      "Beraita Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are the Rav and Shmuel responses to the bor analogy \u2014 item 1 is Rav's position that bor birshuto is normally patur but this case differs because the fruit owner brought produce close to reshus harabim, and item 2 is Shmuel's counter that bor birshuto is chayav but produce is visible unlike a pit \u2014 exactly the content described in the 'Bor Analogy Rejected' prose.",
+      "chosen_heading": "Bor Analogy Rejected",
+      "current_heading": "Bor Analogy Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Beraita Sources",
+    "candidates": [
+      "Functional Definition",
+      "Beraita Sources",
+      "Universal Agreement",
+      "Sdeh Acher Definition",
+      "Conceptual Framework",
+      "Hamazik-Only Theory",
+      "Gemara Rejects Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's suggestion that the mechazeres dispute is a Tannaitic one, citing the exact beraita about eating from the rachavah versus tziddei harachavah with Rabbi Meir/Yehuda versus Rabbi Yossi/Elazar \u2014 which is precisely what the 'Beraita Sources' prose describes.",
+      "chosen_heading": "Beraita Sources",
+      "current_heading": "Beraita Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Gemara Rejects Theory",
+    "candidates": [
+      "Universal Agreement",
+      "Sdeh Acher Definition",
+      "Conceptual Framework",
+      "Hamazik-Only Theory",
+      "Gemara Rejects Theory",
+      "Roof Jump Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's analysis of the dispute between Tanna Kamma and Rabbi Yosei in terms of 'uv-ve-ar bi-sdeh acher' \u2014 first identifying the mechazeres difference, then reframing the dispute as a debate over whether the verse excludes reshus harabim or reshus hamazik, then challenging the reshus hamazik reading \u2014 which corresponds precisely to the 'Sdeh Acher Definition' section's prose about the same textual debate over the verse's exclusion.",
+      "chosen_heading": "Sdeh Acher Definition",
+      "current_heading": "Gemara Rejects Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Roof Jump Mishna",
+    "candidates": [
+      "Gemara Rejects Theory",
+      "Roof Jump Mishna",
+      "Jumping Down Natural"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the roof-jump mishna itself, and candidate 1's prose explicitly introduces and summarizes this exact mishna \u2014 the dog/goat jumping from a roof and the dog taking a biscuit to a wheat stack \u2014 making it the clearly correct home.",
+      "chosen_heading": "Roof Jump Mishna",
+      "current_heading": "Roof Jump Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Jumping Down Natural",
+    "candidates": [
+      "Jumping Down Natural",
+      "Negligence + Oness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces and explains the principle of techilato bifshiya vesofo be-ones patur as inferred from the mishna's jump/fall distinction, which is precisely what the 'Jumping Down Natural' section's prose describes.",
+      "chosen_heading": "Jumping Down Natural",
+      "current_heading": "Jumping Down Natural",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Negligence + Oness",
+    "candidates": [
+      "Negligence + Oness",
+      "Narrow Wall Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita about jumping vs. falling animals and the techilato bifshiya/oness dispute, which is precisely what the 'Negligence + Oness' prose section discusses, including the resolution about vessels placed close to the wall.",
+      "chosen_heading": "Negligence + Oness",
+      "current_heading": "Negligence + Oness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Narrow Wall Example",
+    "candidates": [
+      "Narrow Wall Example",
+      "Up vs. Down Jump"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the narrow wall case (kotel tzar) and the techilato bifshiya vesofo be-ones analysis, which is precisely what the 'Narrow Wall Example' prose section describes.",
+      "chosen_heading": "Narrow Wall Example",
+      "current_heading": "Narrow Wall Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Up vs. Down Jump",
+    "candidates": [
+      "Up vs. Down Jump",
+      "Half Payment Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about dogs/goats jumping up vs. down and people/chickens being liable in both directions is precisely the text discussed in the 'Up vs. Down Jump' prose section.",
+      "chosen_heading": "Up vs. Down Jump",
+      "current_heading": "Up vs. Down Jump",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Half Payment Resolution",
+    "candidates": [
+      "Half Payment Resolution",
+      "Arrow vs. Property",
+      "Rav Yochanan Position",
+      "Reish Lakish Position",
+      "Why Not Chitzav",
+      "Why Not Mamono",
+      "Tosafot Nuance",
+      "Biscuit Mishna",
+      "Rav Yochanan's Problem",
+      "Reish Lakish's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about the dog and goat jumping, Rav Pappa's interpretation of their unusual movement as a shinuy, and the resolution that they are exempt from full damages but liable for half-payment \u2014 exactly what the 'Half Payment Resolution' prose describes.",
+      "chosen_heading": "Half Payment Resolution",
+      "current_heading": "Half Payment Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Reish Lakish's Problem",
+    "candidates": [
+      "Arrow vs. Property",
+      "Rav Yochanan Position",
+      "Reish Lakish Position",
+      "Why Not Chitzav",
+      "Why Not Mamono",
+      "Tosafot Nuance",
+      "Biscuit Mishna",
+      "Rav Yochanan's Problem",
+      "Reish Lakish's Problem",
+      "Direct vs. Spread",
+      "Reish Lakish Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Biscuit Mishna",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna about the dog and the biscuit, which the 'Biscuit Mishna' prose (index 6) explicitly introduces as the Gemara applying Rav Yochanan and Reish Lakish's positions to this very mishna.",
+      "second_heading": "Arrow vs. Property",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 contain the core Arrow vs. Property dispute (itmar, Rabbi Yochanan vs. Reish Lakish, the reasons each rejected the other's view, and the challenge/resolution from the dog mishna), which corresponds precisely to the 'Arrow vs. Property' heading (index 0) that introduces the fundamental question about the conceptual basis of fire liability.",
+      "current_heading": "Reish Lakish's Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Reish Lakish Answer",
+    "candidates": [
+      "Direct vs. Spread",
+      "Reish Lakish Answer",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's view that full payment applies to the cake and the immediate spot of the coal (direct contact = kocho) while half payment applies to the rest of the stack (indirect force), which directly illustrates the 'Direct vs. Spread' distinction that heading 0's prose is explicating.",
+      "chosen_heading": "Direct vs. Spread",
+      "current_heading": "Reish Lakish Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Reish Lakish Answer",
+      "Case Setup",
+      "Rav Yochanan Problem",
+      "Reish Lakish Problem",
+      "Mistachsechet Contact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the verbatim Talmudic text of the camel/flax/storekeeper case, which the 'Case Setup' section's prose explicitly describes and introduces in detail.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Mistachsechet Contact",
+    "candidates": [
+      "Rav Yochanan Problem",
+      "Reish Lakish Problem",
+      "Mistachsechet Contact",
+      "Oness via Urination",
+      "Negligence + Oness Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are precisely the gemara exchange that the 'Mistachsechet Contact' prose describes: item 1 is Reish Lakish's resolution via the camel directly igniting the entire building (mesachseches kol ha-birah kullah), and item 2 is the immediate challenge from the latter clause about the storekeeper's liability and its answer (beshe'amdah), which the prose explicitly flags as the new difficulty that 'immediately raises' from the mistachseches framing.",
+      "chosen_heading": "Mistachsechet Contact",
+      "current_heading": "Mistachsechet Contact",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Negligence + Oness Logic",
+    "candidates": [
+      "Oness via Urination",
+      "Negligence + Oness Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 contains the core 'urinating camel' answer by Rav Huna bar Manoach that section 0's prose explicitly quotes and analyzes, and item 2 follows directly as the resolution of that same scenario \u2014 both belong under 'Oness via Urination' rather than the subsequent 'Negligence + Oness Logic' section which discusses these conclusions as already established premises.",
+      "chosen_heading": "Oness via Urination",
+      "current_heading": "Negligence + Oness Logic",
+      "moved": true
+    }
+  }
+]

@@ -34,7 +34,7 @@
           "timestamp": "02:47"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -194,8 +194,8 @@
           "timestamp": "33:26"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Forms of Proof for Personal Fund Claims: Witnesses vs. Document Validation (continued)",
@@ -208,7 +208,7 @@
           "timestamp": "34:50"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 11,
       "matched": false
     },
     {
@@ -626,5 +626,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "14:32",
+  "amud_b_micro_title": "Ta'aninan Limit",
+  "shiur_start_daf": 52,
+  "shiur_start_amud": "a"
 }

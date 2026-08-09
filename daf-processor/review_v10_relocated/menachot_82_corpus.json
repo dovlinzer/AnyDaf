@@ -1,0 +1,288 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Intro: Todah & Ma'aser",
+    "candidates": [
+      "Intro: Todah & Ma'aser",
+      "Forcing Full Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the Gemara's inference and rejection regarding the baraita's case of todah without loaves, and item 3 raises the 'neder u'pitcho imo' question \u2014 exactly the content described in heading 0's prose about the immediate challenge to the ruling and why we don't dissolve the vow entirely.",
+      "chosen_heading": "Intro: Todah & Ma'aser",
+      "current_heading": "Intro: Todah & Ma'aser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Forcing Full Obligation",
+    "candidates": [
+      "Forcing Full Obligation",
+      "Beit Shammai's View",
+      "Rabbi Yochanan's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Chizkiyah's statement attributing the baraita to Beit Shammai and their principle of 'tfos lashon rishon,' illustrated by the Nazir mishna \u2014 which is precisely what the 'Forcing Full Obligation' prose describes and analyzes.",
+      "chosen_heading": "Forcing Full Obligation",
+      "current_heading": "Forcing Full Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Rabbi Yochanan's Position",
+    "candidates": [
+      "Beit Shammai's View",
+      "Rabbi Yochanan's Position",
+      "Baraita Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous dialectical unit: Item 2 is the baraita cited, Item 1 is Rabbi Yochanan's interpretation of it, and Item 3 is the challenge to Rabbi Yochanan and his resolution \u2014 exactly the content described in candidate 1's prose about the second Baraita, Chizkiyah vs. Rabbi Yochanan, and the Beit Shammai attribution.",
+      "chosen_heading": "Rabbi Yochanan's Position",
+      "current_heading": "Rabbi Yochanan's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Baraita Example",
+    "candidates": [
+      "Baraita Example",
+      "Shamor Veshamata",
+      "Stipulation Permitted",
+      "Yavi Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage analyzes the phrase 'shemor ve-shama'ta' with Abaye and Rava's interpretations, which directly matches the 'Baraita Example' section's prose about explaining that exact phrase from the Baraita.",
+      "chosen_heading": "Baraita Example",
+      "current_heading": "Baraita Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Yavi Interpretation",
+    "candidates": [
+      "Shamor Veshamata",
+      "Stipulation Permitted",
+      "Yavi Interpretation",
+      "Permission Not Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether 'yavi' means the person must bring from Ma'aser Sheni, and Rav Na\u1e25man and Rav \u1e24isda's answer that it is optional (ratzah meivi, lo ratzah lo meivi), which matches exactly what candidate 1 'Stipulation Permitted' describes in its prose.",
+      "chosen_heading": "Stipulation Permitted",
+      "current_heading": "Yavi Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Permission Not Obligation",
+    "candidates": [
+      "Yavi Interpretation",
+      "Permission Not Obligation",
+      "Grain vs. Money",
+      "Rav Nachman's Position",
+      "Rabbi Zeira's Stricture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous dispute about whether wheat purchased with second-tithe money may be used for Todah loaves \u2014 the exact topic described in candidate 0's prose (Rav Nachman/Rav Chisda's position and the subsequent Rabbi Yirmeyah/Rabbi Zeira exchange all flow from the Mishnah's 'yavi' ruling), whereas candidate 1's prose already describes this entire passage's content, suggesting the passage was placed one heading too late.",
+      "chosen_heading": "Yavi Interpretation",
+      "current_heading": "Permission Not Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rabbi Zeira's Stricture",
+    "candidates": [
+      "Grain vs. Money",
+      "Rav Nachman's Position",
+      "Rabbi Zeira's Stricture",
+      "Rabbi Zeira Explains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Ami's ruling that Shelamim sanctity cannot take hold on Ma'aser Sheni money, which is precisely what the prose of 'Rabbi Zeira's Stricture' (index 2) introduces and explains in detail.",
+      "chosen_heading": "Rabbi Zeira's Stricture",
+      "current_heading": "Rabbi Zeira's Stricture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rabbi Zeira Explains",
+    "candidates": [
+      "Rabbi Zeira Explains",
+      "Analogy to Shelamim",
+      "Avoiding Double Identity",
+      "Practical Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous objection-and-resolution sequence (the Gemara raises the mishna about purchasing a chayah for Shelamim, then Rav and Rabba resolve it), which is precisely what the prose of heading 0 ('Rabbi Zeira Explains') describes in detail, including the specific ruling of lo kani Shelamim and the analogy to buying an ox for plowing.",
+      "chosen_heading": "Rabbi Zeira Explains",
+      "current_heading": "Rabbi Zeira Explains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Practical Difficulty",
+    "candidates": [
+      "Analogy to Shelamim",
+      "Avoiding Double Identity",
+      "Practical Difficulty",
+      "Rabbi Ammi's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together state the Amoraic dispute (Rabbi Yo\u1e25anan vs. Rabbi Elazar) and then explain it through the Rabbi Yehuda/Rabbi Meir framework \u2014 precisely what the 'Practical Difficulty' prose describes in detail, including the ki pligi aliba de-Rabbi Meir reasoning and the keivan de-ma'aser karev Shelamim argument.",
+      "chosen_heading": "Practical Difficulty",
+      "current_heading": "Practical Difficulty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Rabbi Ammi's Rule",
+    "candidates": [
+      "Rabbi Ammi's Rule",
+      "Sanctity Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about designating second-tithe money for a peace offering requiring two-fifths upon redemption, and the Gemara's response attributing it to Rabbi Yehuda \u2014 are precisely what the prose under 'Rabbi Ammi's Rule' describes and analyzes.",
+      "chosen_heading": "Rabbi Ammi's Rule",
+      "current_heading": "Rabbi Ammi's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Sanctity Hierarchy",
+    "candidates": [
+      "Sanctity Hierarchy",
+      "Ownership vs. Sanctity",
+      "Improper Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text (and its conclusion) establishing from the Pesach hekesh that obligatory offerings come only from Chulin, and that Nesachim always come from Chulin \u2014 exactly the content described in the 'Sanctity Hierarchy' prose.",
+      "chosen_heading": "Sanctity Hierarchy",
+      "current_heading": "Sanctity Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Improper Uses",
+    "candidates": [
+      "Ownership vs. Sanctity",
+      "Improper Uses",
+      "Yatza Or L'Chullin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about the source for the Pesach rule and Rabbi Eliezer's baraita answer, which is precisely what the 'Improper Uses' prose describes \u2014 the question of how we know Pesach itself requires Chulin funds and Rabbi Eliezer's gezerah shavah comparing pesach mitzrayim to pesach le-dorot.",
+      "chosen_heading": "Improper Uses",
+      "current_heading": "Improper Uses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Yatza Or L'Chullin",
+    "candidates": [
+      "Yatza Or L'Chullin",
+      "Direct Sanctification",
+      "Mamon Hedyot vs. Gavoah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 11 items form one continuous debate between Rabbi Akiva and Rabbi Eliezer about deriving the Pesach le-dorot from Pesach Mitzrayim, including the efshar/ee efshar principle, the matan damim refutation, the ve-avadta verse, and Rav Sheshet's conclusion about hekesh \u2014 exactly matching the prose under heading 0, which covers all these same points in sequence.",
+      "chosen_heading": "Yatza Or L'Chullin",
+      "current_heading": "Yatza Or L'Chullin",
+      "moved": false
+    }
+  }
+]

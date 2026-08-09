@@ -82,7 +82,7 @@
           "timestamp": "08:25"
         }
       ],
-      "sefaria_index": 42,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -101,7 +101,7 @@
           "timestamp": "10:30"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 37,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "21:50"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 41,
       "matched": true
     },
     {
@@ -199,7 +199,7 @@
           "timestamp": "31:57"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 46,
       "matched": true
     },
     {
@@ -233,7 +233,7 @@
           "timestamp": "40:14"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 53,
       "matched": true
     },
     {
@@ -257,8 +257,8 @@
           "timestamp": "48:07"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 53,
+      "matched": false
     },
     {
       "title": "Models of Prayer from Tanakh: Windows, Times, Directions, and Voice",
@@ -291,7 +291,7 @@
           "timestamp": "55:55"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 27,
       "matched": true
     }
   ],
@@ -449,5 +449,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 28
+  "amud_b_sefaria_index": 28,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "06:14",
+  "amud_b_micro_title": "Chana's Anguish",
+  "shiur_start_daf": 30,
+  "shiur_start_amud": "b"
 }

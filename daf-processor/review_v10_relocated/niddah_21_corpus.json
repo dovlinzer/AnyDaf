@@ -1,0 +1,513 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Lost stain baraita",
+    "candidates": [
+      "Yalta intro",
+      "Tosafot dialectic",
+      "Yalta stain case",
+      "Override challenge",
+      "Resolution via context",
+      "Yalta expertise Q&A",
+      "Lost stain baraita",
+      "Facts vs rulings",
+      "Non-expert limits",
+      "Gender vs expertise",
+      "Doctor analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 6 ('Lost stain baraita') describes: the formally posed dilemma about relaying a rabbinic ruling ('k'zeh tiher ish ploni chacham'), the ta-shma from the lost-stain baraita, and the Gemara's rejection distinguishing testimony about facts from transmission of a ruling \u2014 all of which is explicitly narrated in that section's prose.",
+      "chosen_heading": "Lost stain baraita",
+      "current_heading": "Lost stain baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Doctor analogy",
+    "candidates": [
+      "Facts vs rulings",
+      "Non-expert limits",
+      "Gender vs expertise",
+      "Doctor analogy",
+      "Deaf woman baraita",
+      "Yoetzet halacha",
+      "Night vs day viewing",
+      "Color change observation",
+      "Rabbi's doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi examining blood at night, ruling tamei, then by day ruling tahor, then waiting an hour and ruling tamei again \u2014 exactly what the 'Night vs day viewing' section's prose describes.",
+      "chosen_heading": "Night vs day viewing",
+      "current_heading": "Doctor analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rabbi's doubt",
+    "candidates": [
+      "Deaf woman baraita",
+      "Yoetzet halacha",
+      "Night vs day viewing",
+      "Color change observation",
+      "Rabbi's doubt",
+      "Night ruling tentative",
+      "Judge by clear sight",
+      "Definite vs tentative",
+      "Changing colors insight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The baraita quoted \u2014 that a halakhic authority may not say 'if it were moist it would certainly have been impure' \u2014 is precisely the baraita cited in section 6's prose about 'ein lo l'dayan ela mah she'einav ro'os' and the rule against speculating about what a stain might have shown when fresh and moist.",
+      "chosen_heading": "Judge by clear sight",
+      "current_heading": "Rabbi's doubt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Changing colors insight",
+    "candidates": [
+      "Night ruling tentative",
+      "Judge by clear sight",
+      "Definite vs tentative",
+      "Changing colors insight",
+      "Candlelight vs shade"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with 'me'ikara achzukei b'tamei' (he initially established it as definitely impure) and then traces the reversals, which directly corresponds to the 'Definite vs tentative' section's prose about how Rabbi's original nighttime ruling was definite and how the subsequent reversals are explained \u2014 the Gemara text here IS the correction/explanation that section promises, not the 'Changing colors insight' section which describes the conclusion already reached.",
+      "chosen_heading": "Definite vs tentative",
+      "current_heading": "Changing colors insight",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Candlelight vs shade",
+    "candidates": [
+      "Changing colors insight",
+      "Candlelight vs shade",
+      "Sun and shade ideal",
+      "Hand shade method",
+      "Why indirect works",
+      "Sharon wine ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all the lighting examination methods (Rabbi by candlelight, Rabbi Yishmael between pillars, Rav Ami bar Shmuel's principle of between sunlight and shade, and Rav Nachman/Rabbah bar Avuha's hand-shade method) as a unified block, and the 'Candlelight vs shade' heading's prose explicitly introduces and contextualizes this entire sequence of methods.",
+      "chosen_heading": "Candlelight vs shade",
+      "current_heading": "Candlelight vs shade",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Sharon wine ratio",
+    "candidates": [
+      "Sun and shade ideal",
+      "Hand shade method",
+      "Why indirect works",
+      "Sharon wine ratio",
+      "Wine aging requirement",
+      "Tiberian glass",
+      "Thin glass reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the Sharon wine ratio \u2014 the baraita establishing that Sharon wine diluted two parts water to one part wine equals undiluted Carmelite wine \u2014 which is precisely what the 'Sharon wine ratio' section's prose describes.",
+      "chosen_heading": "Sharon wine ratio",
+      "current_heading": "Sharon wine ratio",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Thin glass reason",
+    "candidates": [
+      "Wine aging requirement",
+      "Tiberian glass",
+      "Thin glass reason",
+      "Yoledet periods",
+      "Demei tohar blood",
+      "Miscarriage 40 days",
+      "Non-human form exception",
+      "Small chunk rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yitz\u1e25ak bar Avudimi's statement about using a simple Tiberian cup AND Abaye's explanation of why, so while the current placement (index 2) covers Abaye's reasoning, the passage as a whole better matches index 1 ('Tiberian glass') which introduces the Tiberian cup requirement and notes that the container affects perceived color \u2014 the full quote belongs under the heading that introduces the topic rather than the explanatory follow-up heading.",
+      "chosen_heading": "Tiberian glass",
+      "current_heading": "Thin glass reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Small chunk rule",
+    "candidates": [
+      "Yoledet periods",
+      "Demei tohar blood",
+      "Miscarriage 40 days",
+      "Non-human form exception",
+      "Small chunk rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The text 'Hadaran alakh kol ha-yad' is the closing formula marking the end of a chapter (perek), which fits naturally at the end of the 'Small chunk rule' section as the concluding element of that chapter's discussion.",
+      "chosen_heading": "Small chunk rule",
+      "current_heading": "Small chunk rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Small chunk rule",
+    "candidates": [
+      "Small chunk rule",
+      "Rabbi Yehudah strict",
+      "Tiny fragment test",
+      "Non-human animal forms",
+      "Animal form fetus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Small chunk rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the opening Mishnah case of a discharged chunk (chatichah) and Rabbi Yehudah's dispute \u2014 exactly what candidates 0 and 1 discuss \u2014 but since they form one continuous Mishnah unit, they belong under the 'Small chunk rule' heading (index 0) which opens the Mishnah.",
+      "second_heading": "Tiny fragment test",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses discharges resembling shells, hairs, soil, and red gnats with the water-dissolution test, which is precisely what candidate 2 ('Tiny fragment test') describes in its prose.",
+      "current_heading": "Small chunk rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Animal form fetus",
+    "candidates": [
+      "Rabbi Yehudah strict",
+      "Tiny fragment test",
+      "Non-human animal forms",
+      "Animal form fetus",
+      "Red color limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the case of a discharge resembling a domesticated/wild animal or bird (kosher or non-kosher), the male/female distinction for yoledet periods, and the Rabbi Meir vs. Chachamim dispute about non-human form \u2014 all of which are precisely what the 'Animal form fetus' prose describes.",
+      "chosen_heading": "Animal form fetus",
+      "current_heading": "Animal form fetus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Red color limit",
+    "candidates": [
+      "Red color limit",
+      "Color consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda citing Shmuel limiting Rabbi Yehuda's ruling to the four types of blood colors, which is precisely what the 'Red color limit' prose describes.",
+      "chosen_heading": "Red color limit",
+      "current_heading": "Red color limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Color consensus",
+    "candidates": [
+      "Color consensus",
+      "Rov presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's position about the four blood colors causing impurity and other colors causing purity, which is exactly what the 'Color consensus' section's prose describes.",
+      "chosen_heading": "Color consensus",
+      "current_heading": "Color consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rov presumption",
+    "candidates": [
+      "Rov presumption",
+      "Chezkat tahorah",
+      "Color listing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yehuda's position of following the majority of pieces (rov chatichot) and the Rabbis' rejection of that majority rule, which matches the 'Rov presumption' section's prose about Rabbi Yehuda following rov and the majority of uterine discharges being the four problematic blood colors.",
+      "chosen_heading": "Rov presumption",
+      "current_heading": "Rov presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Color listing",
+    "candidates": [
+      "Chezkat tahorah",
+      "Color listing",
+      "Yehudah either way",
+      "Shmuel contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita (colors listed, Chachamim's ruling, Rabbi Yehudah's ruling, and the note that it poses difficulties to both Shmuel and Rabbi Yo\u1e25anan), which matches the 'Color listing' section's prose that introduces this exact baraita brought by Rav Oshaya from Nehardea with all its elements.",
+      "chosen_heading": "Color listing",
+      "current_heading": "Color listing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Shmuel contradiction",
+    "candidates": [
+      "Yehudah either way",
+      "Shmuel contradiction",
+      "Yochanan contradiction",
+      "Blood assumption basis",
+      "Grave opening concept",
+      "Kever as womb",
+      "Womb grave metaphor",
+      "Noda B'Yehudah app",
+      "Unclear miscarriage",
+      "If yoledet status",
+      "If not yoledet",
+      "Safek status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shmuel contradiction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 directly address the contradiction to Shmuel's limiting principle regarding the four blood colors and the green/white cases, matching the 'Shmuel contradiction' prose exactly.",
+      "second_heading": "Yochanan contradiction",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 address the contradiction to Rabbi Yochanan's position that red/black chunks are universally impure, matching the 'Yochanan contradiction' prose exactly.",
+      "current_heading": "Shmuel contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160,
+      161
+    ],
+    "current_heading": "Safek status",
+    "candidates": [
+      "Yochanan contradiction",
+      "Blood assumption basis",
+      "Grave opening concept",
+      "Kever as womb",
+      "Womb grave metaphor",
+      "Noda B'Yehudah app",
+      "Unclear miscarriage",
+      "If yoledet status",
+      "If not yoledet",
+      "Safek status",
+      "Yehoshua position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man bar Yitz\u1e25ak's reformulation of the dispute and the baraita about a woman who labored for two days and miscarried on the third without knowing what she discharged \u2014 exactly what candidate 6 ('Unclear miscarriage') describes: the baraita applying the pesichat ha-kever principle to a woman with labor pains for two days who miscarries on the third day with double uncertainty.",
+      "chosen_heading": "Unclear miscarriage",
+      "current_heading": "Safek status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "current_heading": "Yehoshua position",
+    "candidates": [
+      "Safek status",
+      "Yehoshua position",
+      "Feinstein limitation",
+      "Sumachus view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage\u2014the alternative version of Shmuel's ruling, the challenge from Rav Hoshaya's baraita, the dialectical refutation, and Rav Yehuda's resolution that the dispute concerns whether the womb can open without blood, culminating in the baraita about the woman who labored two days and the positions of the Tanna Kamma and Rabbi Yehoshua\u2014is precisely the content described in the 'Yehoshua position' prose, which explicitly discusses the pesichat ha-kever principle and identifies the Rabbi Yehoshua/Tanna Kamma dispute as the same as the Rabbi Yehudah/Chachamim dispute about the chunk.",
+      "chosen_heading": "Yehoshua position",
+      "current_heading": "Yehoshua position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      178,
+      179
+    ],
+    "current_heading": "Sumachus view",
+    "candidates": [
+      "Feinstein limitation",
+      "Sumachus view",
+      "Stricter than chachamim",
+      "Akiva view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Sumakhos baraita and the Gemara's immediate comparison to the Rabbis' position, which is precisely what the 'Sumachus view' prose section describes \u2014 the tearing of the chunk and the blood-inside criterion \u2014 and the current placement is correct.",
+      "chosen_heading": "Sumachus view",
+      "current_heading": "Sumachus view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      184,
+      185
+    ],
+    "current_heading": "Akiva view",
+    "candidates": [
+      "Stricter than chachamim",
+      "Akiva view",
+      "Binyamin bone test",
+      "Pappa white chunk",
+      "Chadyav baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi A\u1e25a's ruling that redness (without actual blood) in the interior of a chunk renders the woman impure, and the Gemara's comparison to Sumakhos noting Rabbi A\u1e25a is more far-reaching \u2014 exactly what candidate 1 ('Akiva view') describes, even though the prose names Rabbi Akiva; the content matches this section's discussion of the reddish-coloration standard stricter than Sumakhos.",
+      "chosen_heading": "Akiva view",
+      "current_heading": "Akiva view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      192
+    ],
+    "current_heading": "Chadyav baraita",
+    "candidates": [
+      "Binyamin bone test",
+      "Pappa white chunk",
+      "Chadyav baraita",
+      "Agur blood standard",
+      "Most lenient view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements together \u2014 Rabbi Binyamin's baraita, Rav \u1e24isda's white-chunk limitation, and the Chadyav corroboration \u2014 and the prose under heading 0 ('Binyamin bone test') is where this unified passage begins, while headings 1 and 2 describe only portions of it; since the passage is one continuous unit it belongs under the first heading that introduces it.",
+      "chosen_heading": "Binyamin bone test",
+      "current_heading": "Chadyav baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      198
+    ],
+    "current_heading": "Most lenient view",
+    "candidates": [
+      "Agur blood standard",
+      "Most lenient view",
+      "Internal vs external"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's specific content \u2014 tearing open the piece, finding 'dam agur' (accumulated blood), and the ruling of impurity only for significant pooled blood \u2014 is directly described in candidate 0's prose, which quotes these exact terms and concepts, while candidate 1 discusses the comparative leniency without quoting the primary ruling itself.",
+      "chosen_heading": "Agur blood standard",
+      "current_heading": "Most lenient view",
+      "moved": true
+    }
+  }
+]

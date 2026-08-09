@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Fire Pan Prep",
+    "candidates": [
+      "Shechita",
+      "Blood Stirring",
+      "Fire Pan Prep",
+      "Special Fire",
+      "Silver/Gold Pans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers both the shechita/blood receiving AND the coal-scooping sequence as a continuous narrative, but the prose under heading 0 ('Shechita') explicitly introduces this mishna as opening the daf and describes the shechita and blood-receiving actions, while headings 1 and 2 handle the sub-topics separately \u2014 the single mishna text belongs under the heading that introduces it, which is 'Shechita' (index 0).",
+      "chosen_heading": "Shechita",
+      "current_heading": "Fire Pan Prep",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Silver/Gold Pans",
+    "candidates": [
+      "Special Fire",
+      "Silver/Gold Pans",
+      "Coal Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the silver/gold pan contrast between ordinary days and Yom Kippur, which is precisely what the 'Silver/Gold Pans' section prose discusses in detail.",
+      "chosen_heading": "Silver/Gold Pans",
+      "current_heading": "Silver/Gold Pans",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Coal Measures",
+    "candidates": [
+      "Coal Measures",
+      "Pan Weight",
+      "Pan Color"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the coal pan sizes (four kav vs three kav, or a se'ah vs three kav) on ordinary days versus Yom Kippur, which exactly matches the 'Coal Measures' prose discussing these same quantity distinctions.",
+      "chosen_heading": "Coal Measures",
+      "current_heading": "Coal Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Pan Color",
+    "candidates": [
+      "Pan Weight",
+      "Pan Color",
+      "Incense Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three differences (weight, handle length, and color) together as a unified unit attributed to Rabbi Mena\u1e25em, and the 'Pan Weight' section's prose discusses all three features including the handle and color, while 'Pan Color' is a subsection that only partially covers the passage's content \u2014 the natural home for the complete quoted text is under 'Pan Weight' where the full context of the pan's special Yom Kippur properties is introduced.",
+      "chosen_heading": "Pan Weight",
+      "current_heading": "Pan Color",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Incense Quality",
+    "candidates": [
+      "Pan Color",
+      "Incense Quality",
+      "Kohen Movement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the quantity and quality of incense on Yom Kippur versus ordinary days, which matches exactly the 'Incense Quality' section's prose about pras offerings and daka min ha-daka.",
+      "chosen_heading": "Incense Quality",
+      "current_heading": "Incense Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Kohen Movement",
+    "candidates": [
+      "Kohen Movement",
+      "Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the High Priest ascending and descending the ramp in the middle versus the usual eastern/western practice, which is precisely what the 'Kohen Movement' section's prose discusses in detail.",
+      "chosen_heading": "Kohen Movement",
+      "current_heading": "Kohen Movement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Washing",
+    "candidates": [
+      "Washing",
+      "Fire Piles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the High Priest sanctifying hands and feet from the laver versus the golden flask, which is exactly what the 'Washing' section's prose addresses.",
+      "chosen_heading": "Washing",
+      "current_heading": "Washing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Fire Piles",
+    "candidates": [
+      "Fire Piles",
+      "Stirrer Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the dispute between Rabbi Meir, Rabbi Yosei, and Rabbi Yehuda about the number of wood arrangements on the altar, which is precisely what the 'Fire Piles' section prose discusses.",
+      "chosen_heading": "Fire Piles",
+      "current_heading": "Fire Piles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Stirrer Problem",
+    "candidates": [
+      "Stirrer Problem",
+      "No One in Ohel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the contradiction between the blood-stirrer's position in the Heichal and the verse prohibiting anyone in the Ohel Mo'ed, with Rav Yehuda's emendation that the fourth row is outside the Heichal \u2014 exactly what the 'Stirrer Problem' prose describes.",
+      "chosen_heading": "Stirrer Problem",
+      "current_heading": "Stirrer Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "No One in Ohel",
+    "candidates": [
+      "No One in Ohel",
+      "Blood Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the baraita deriving the scope of the 'no man in the Tent of Meeting' prohibition \u2014 limiting it to the Ohel Mo'ed proper (not the courtyard) and extending it to Shiloh and the Beit Olam via 'bakodesh' \u2014 which is exactly what the prose under heading 0 ('No One in Ohel') describes.",
+      "chosen_heading": "No One in Ohel",
+      "current_heading": "No One in Ohel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Blood Offerings",
+    "candidates": [
+      "Blood Offerings",
+      "Ketores Mekapper",
+      "Lashon Hara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita extending the prohibition to matan damim and until tzei'to, the order of kapparah precedence, and Rava/Rabbi Yitzchak bar Avdimi/Rabbi Elazar's explanation of why the verse initially suggested only the burning of the ketores \u2014 are precisely the content described in the 'Blood Offerings' prose section.",
+      "chosen_heading": "Blood Offerings",
+      "current_heading": "Blood Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Lashon Hara",
+    "candidates": [
+      "Ketores Mekapper",
+      "Lashon Hara",
+      "Separation Rule",
+      "Rav Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the question of whether incense effects atonement and the answer from Rabbi \u1e24ananya and Rabbi Yishmael's school \u2014 all of which is explicitly discussed in candidate 0's prose under 'Ketores Mekapper', which addresses both the proof from Numbers 17:12 and the lashon hara connection together as part of that same discussion.",
+      "chosen_heading": "Ketores Mekapper",
+      "current_heading": "Lashon Hara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Elazar",
+    "candidates": [
+      "Separation Rule",
+      "Rav Elazar",
+      "Rabbi Yose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's ruling distinguishing between the daily Heichal ketores (which requires vacating bein ha-ulam vela-mizbe'ach) and the Yom Kippur Kodesh Hakodashim ketores (which does not), which is precisely what the 'Rav Elazar' section's prose describes in detail.",
+      "chosen_heading": "Rav Elazar",
+      "current_heading": "Rav Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabbi Yose",
+    "candidates": [
+      "Rabbi Yose",
+      "Heichal Status",
+      "Two Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita from Rabbi Yosei enumerating the specific korbanot that trigger separation from the area between the Entrance Hall and the altar, which is precisely what the prose under heading 0 ('Rabbi Yose') discusses and analyzes in detail.",
+      "chosen_heading": "Rabbi Yose",
+      "current_heading": "Rabbi Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Two Contexts",
+    "candidates": [
+      "Heichal Status",
+      "Two Contexts",
+      "Gemara Challenge",
+      "Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Heichal Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the baraita's own question about what higher standard distinguishes the Heichal) belongs under 'Heichal Status', whose prose explicitly discusses this exact question the baraita poses about the Heichal's superior status.",
+      "second_heading": "Two Contexts",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the baraita's answer and the Gemara's challenge/resolution regarding besha'at haktarah, which matches 'Two Contexts' prose describing the answer that the Heichal must be vacated both during and outside incense-burning times.",
+      "current_heading": "Two Contexts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Gemara Challenge",
+      "Resolution",
+      "Rava's Argument",
+      "One Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly continue the 'Resolution' section's discussion of the Heichal's superior status: item 1 is Rava's answer about 'one category of removal' (explicitly mentioned in the Resolution prose's final paragraph about 've-ika hai ma'ala'), item 2 introduces Rabbi Pedat's verbal analogy for the bull/goat offerings, and item 3 is Rav A\u1e25a bar Ahava's conclusion that these higher standards are de'oraita \u2014 all part of the same continuous resolution of the baraita's scope.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "One Space",
+    "candidates": [
+      "Rava's Argument",
+      "One Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous dialectical chain \u2014 items 1-2 are the Rav A\u1e25a bar Ahava argument and its rejection, items 3-4 are Rava's argument and its rejection \u2014 and candidate 0 ('Rava's Argument') explicitly discusses both Rava's gezeirah li-gezeirah proof and its structural context, while candidate 1 ('One Space') discusses only the final resolution (item 4), meaning the bulk of the passage (items 1-3) clearly belongs under candidate 0.",
+      "chosen_heading": "Rava's Argument",
+      "current_heading": "One Space",
+      "moved": true
+    }
+  }
+]

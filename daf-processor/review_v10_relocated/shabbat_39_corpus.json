@@ -1,0 +1,222 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Kupach Definition",
+    "candidates": [
+      "Tannur Restrictions",
+      "Kupach Definition",
+      "Kupach vs Kira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Aha's question about the kupach's intermediate status and Rav Ashi's answer about its heat being greater than a kira but less than a tannur, which is precisely what the 'Kupach Definition' prose describes.",
+      "chosen_heading": "Kupach Definition",
+      "current_heading": "Kupach Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Kupach vs Kira",
+    "candidates": [
+      "Kupach vs Kira",
+      "Modern Ovens",
+      "Blech Practice",
+      "Egg Cooking Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines and distinguishes kupach from kira by pot capacity and behavior when divided, which is precisely what the 'Kupach vs Kira' section's prose discusses.",
+      "chosen_heading": "Kupach vs Kira",
+      "current_heading": "Kupach vs Kira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Egg Cooking Rules",
+    "candidates": [
+      "Modern Ovens",
+      "Blech Practice",
+      "Egg Cooking Rules",
+      "Rav Yosef Opinion",
+      "Ein Bishul"
+    ],
+    "result": {
+      "best_index": 2,
+      "action": "single",
+      "chosen_heading": "Egg Cooking Rules",
+      "current_heading": "Egg Cooking Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Ein Bishul",
+    "candidates": [
+      "Rav Yosef Opinion",
+      "Ein Bishul",
+      "Salted Fish",
+      "Gmar Melacha",
+      "Sun Heat Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Yosef's ruling (gilgel chayav chatas) and Mar b'rei d'Ravina's supporting proof from the salted fish mishnah \u2014 exactly the content described in the 'Rav Yosef Opinion' prose, which explicitly discusses both the egg case and the salted fish proof text as part of establishing Rav Yosef's position.",
+      "chosen_heading": "Rav Yosef Opinion",
+      "current_heading": "Ein Bishul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Sun Heat Rules",
+    "candidates": [
+      "Salted Fish",
+      "Gmar Melacha",
+      "Sun Heat Rules",
+      "Rav Nachman",
+      "Hatmanah Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna about not wrapping an egg in cloths and then cites the contrasting mishna about placing cold water in the sun to heat it, asking whether the latter reflects only Rabbi Yosei's position \u2014 which is exactly what the 'Sun Heat Rules' prose describes.",
+      "chosen_heading": "Sun Heat Rules",
+      "current_heading": "Sun Heat Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Hatmanah Concern",
+    "candidates": [
+      "Rav Nachman",
+      "Hatmanah Concern",
+      "Rabbi Yose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nachman",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Nachman's ruling distinguishing sun/derivatives-of-sun/derivatives-of-fire, which is precisely what candidate 0 ('Rav Nachman') discusses in its prose.",
+      "second_heading": "Hatmanah Concern",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns why Rabbi Yosei does not dispute the sand-burying prohibition and the Rabbah/Rav Yosef debate about hatmanah and moving dirt, which is exactly what candidate 1 ('Hatmanah Concern') covers in its prose.",
+      "current_heading": "Hatmanah Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rabbi Yose",
+    "candidates": [
+      "Rabbi Yose",
+      "Pipe Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabban Shimon ben Gamliel's ruling about roasting an egg on a hot rooftop versus boiling limestone, and the gemara's resolution involving 'stam gagot leit behu afar,' which is precisely what the 'Rabbi Yose' section's prose describes in detail.",
+      "chosen_heading": "Rabbi Yose",
+      "current_heading": "Rabbi Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Pipe Setup",
+    "candidates": [
+      "Pipe Setup",
+      "Water Prohibition",
+      "Heat Addition",
+      "Ulla & Nachman",
+      "Pre-Heated Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about the Tiberias pipe incident as it relates to hatmanah in a heat-adding substance (mosif hevel), culminating in Rav Hisda's ruling that such hatmanah is forbidden even erev Shabbat and Ulla/Rav Nachman's exchange \u2014 exactly the content described in the 'Heat Addition' prose.",
+      "chosen_heading": "Heat Addition",
+      "current_heading": "Pipe Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Pre-Heated Water",
+    "candidates": [
+      "Water Prohibition",
+      "Heat Addition",
+      "Ulla & Nachman",
+      "Pre-Heated Water",
+      "Bathhouse Concern",
+      "Yom Tov Water",
+      "Beit Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of what type of bathing the mishnah prohibits and introduces the baraita about pre-heated water permitting only face/hands/feet washing, which is precisely what the 'Pre-Heated Water' section's prose describes.",
+      "chosen_heading": "Pre-Heated Water",
+      "current_heading": "Pre-Heated Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Beit Shammai",
+    "candidates": [
+      "Bathhouse Concern",
+      "Yom Tov Water",
+      "Beit Shammai",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether the stam mishna follows Beit Shammai and cites the relevant Beit Shammai/Beit Hillel dispute about heating water for feet on Yom Tov, which is precisely what the 'Beit Shammai' section's prose discusses.",
+      "chosen_heading": "Beit Shammai",
+      "current_heading": "Beit Shammai",
+      "moved": false
+    }
+  }
+]

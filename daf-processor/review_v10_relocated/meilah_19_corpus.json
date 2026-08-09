@@ -1,0 +1,251 @@
+[
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "R. Shimon vs R. Yehudah",
+    "candidates": [
+      "Shinui & Two Forms",
+      "Three Biblical Models",
+      "Cumulative Me'ilah",
+      "Wormy Flour Case",
+      "Terumah Analogy",
+      "Sacred Obligation Cases",
+      "R. Shimon vs R. Yehudah",
+      "Timoal Ma'al Teaching",
+      "Nefesh Inclusivity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sacred Obligation Cases",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (kinei zavim/zavot/yoldot examples) belongs under 'Sacred Obligation Cases' (index 5), which explicitly discusses these exact examples of temple treasury funds used for obligatory korbanot.",
+      "second_heading": "R. Shimon vs R. Yehudah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the shekel/chatat/asham case with the Rabbi Shimon vs Rabbi Yehudah dispute and the 'timoal ma'al mikol makom' derivation) belongs under 'R. Shimon vs R. Yehudah' (index 6), which directly discusses this exact debate about the moment me'ilah occurs when using hekdesh for obligatory offerings.",
+      "current_heading": "R. Shimon vs R. Yehudah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Nefesh Inclusivity",
+    "candidates": [
+      "Timoal Ma'al Teaching",
+      "Nefesh Inclusivity",
+      "Sotah Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita's derivation from 'nefesh' to include the king and High Priest in me'ilah, and the reason this is necessary (lest one exclude them based on the shemen hamishchah verse about 'zar'), which is precisely what the 'Nefesh Inclusivity' prose describes.",
+      "chosen_heading": "Nefesh Inclusivity",
+      "current_heading": "Nefesh Inclusivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Sotah Model",
+    "candidates": [
+      "Sotah Model",
+      "Avodah Zarah Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the sotah comparison and the ring-on-finger example illustrating me'ilah without pagam, which exactly matches the Sotah Model prose discussing natan taba'at beyada and hana'ah without damage.",
+      "chosen_heading": "Sotah Model",
+      "current_heading": "Sotah Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Avodah Zarah Model",
+    "candidates": [
+      "Avodah Zarah Model",
+      "Hatchet Case",
+      "Terumah Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic text comparing misuse of hekdesh to avodah zarah and deriving that liability requires a 'change' (shinui), with the hatchet case as illustration \u2014 this is precisely what the 'Avodah Zarah Model' prose discusses, including the avodah zarah comparison, shinui, and the hatchet/pagam case.",
+      "chosen_heading": "Avodah Zarah Model",
+      "current_heading": "Avodah Zarah Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Terumah Model",
+    "candidates": [
+      "Hatchet Case",
+      "Terumah Model",
+      "Both Tracks Combine",
+      "Conceptual Definition",
+      "Golden Necklace",
+      "Gold Depreciation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's derivation from terumah that damaging hekdesh without benefit does not constitute me'ilah, which is precisely what the 'Terumah Model' prose discusses.",
+      "chosen_heading": "Terumah Model",
+      "current_heading": "Terumah Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Gold Depreciation",
+    "candidates": [
+      "Both Tracks Combine",
+      "Conceptual Definition",
+      "Golden Necklace",
+      "Gold Depreciation",
+      "Depreciation Timeframe",
+      "Unblemished Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Kahana's challenge about gold depreciation (the daughter-in-law of Nun) and Rav Zevid's response about improper care and eventual depreciation, which is precisely what the 'Gold Depreciation' prose section describes.",
+      "chosen_heading": "Gold Depreciation",
+      "current_heading": "Gold Depreciation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Unblemished Korban",
+    "candidates": [
+      "Depreciation Timeframe",
+      "Unblemished Korban",
+      "Blemished Korban",
+      "Dead Korban",
+      "Half Perutah Rule",
+      "Same Object Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about whether the sin-offering animal is unblemished (equated to a gold cup) and Rav Pappa's answer that it is blemished, which is precisely what the 'Unblemished Korban' section discusses as the lead-in to explaining why pagam is required \u2014 the current placement is correct.",
+      "chosen_heading": "Unblemished Korban",
+      "current_heading": "Unblemished Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Same Object Rule",
+    "candidates": [
+      "Blemished Korban",
+      "Dead Korban",
+      "Half Perutah Rule",
+      "Same Object Rule",
+      "Textual Variants",
+      "Kedushah Disappears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishnah passage discusses the half-peruta threshold rule (neheneh k'chezi prutah, pagam k'chezi prutah) and the requirement that both benefit and damage must combine to a full peruta in the same object, which directly matches the 'Half Perutah Rule' section's prose about minimum thresholds for me'ilah.",
+      "chosen_heading": "Half Perutah Rule",
+      "current_heading": "Same Object Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Kedushah Disappears",
+    "candidates": [
+      "Textual Variants",
+      "Kedushah Disappears",
+      "Kedushat Haguf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah that introduces the principle of 'ein mo'el achar mo'el,' which is exactly what the prose under 'Kedushah Disappears' (index 1) explicitly describes and analyzes.",
+      "chosen_heading": "Kedushah Disappears",
+      "current_heading": "Kedushah Disappears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Kedushat Haguf",
+    "candidates": [
+      "Kedushat Haguf",
+      "Multiple Me'ilah Examples",
+      "No Pidyon Rule",
+      "Wood as Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's identification of the mishna as Rabbi Ne\u1e25emya's opinion, the first tanna's reasoning from 'be'eil ha'asham,' and Rabbi Ne\u1e25emya's kal v'chomer about kelei sharet sanctifying their contents \u2014 exactly the material the 'Kedushat Haguf' prose discusses regarding the dispute between the first tanna and Rabbi Ne\u1e25emya over whether kelei sharet retain their kedushah through me'ilah.",
+      "chosen_heading": "Kedushat Haguf",
+      "current_heading": "Kedushat Haguf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Wood as Korban",
+    "candidates": [
+      "Multiple Me'ilah Examples",
+      "No Pidyon Rule",
+      "Wood as Korban",
+      "Dead Animal Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly discuss the debate about whether donated wood is a korban or bedek habayis, Rava's and Rav Pappa's elaborations on Rabbi's position regarding wood, which is precisely what the 'Wood as Korban' prose section describes.",
+      "chosen_heading": "Wood as Korban",
+      "current_heading": "Wood as Korban",
+      "moved": false
+    }
+  }
+]

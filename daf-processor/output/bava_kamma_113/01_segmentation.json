@@ -87,7 +87,7 @@
           "timestamp": "16:06"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -188,8 +188,8 @@
           "timestamp": "61:44"
         }
       ],
-      "sefaria_index": 11,
-      "matched": false
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Gezel Goy: Stealing from Non-Jews and Related Prohibitions",
@@ -207,8 +207,8 @@
           "timestamp": "64:54"
         }
       ],
-      "sefaria_index": 11,
-      "matched": false
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Scope of Dina Demalchuta Dina: Government Authority Over Property and Obligations (continued)",
@@ -221,8 +221,8 @@
           "timestamp": "66:35"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Gezel Goy: Stealing from Non-Jews and Related Prohibitions (continued)",
@@ -235,8 +235,8 @@
           "timestamp": "67:38"
         }
       ],
-      "sefaria_index": 13,
-      "matched": false
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Shepherds with Mixed Flocks and Concerns About Stolen Animals",
@@ -254,8 +254,8 @@
           "timestamp": "68:35"
         }
       ],
-      "sefaria_index": 13,
-      "matched": false
+      "sefaria_index": 35,
+      "matched": true
     },
     {
       "title": "Gezel Goy: Stealing from Non-Jews and Related Prohibitions (continued)",
@@ -268,7 +268,7 @@
           "timestamp": "68:42"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 35,
       "matched": false
     },
     {
@@ -282,7 +282,7 @@
           "timestamp": "68:48"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 35,
       "matched": false
     },
     {
@@ -296,7 +296,7 @@
           "timestamp": "68:56"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 35,
       "matched": false
     },
     {
@@ -448,5 +448,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "62:27",
+  "amud_b_micro_title": "Judging Mixed Cases",
+  "shiur_start_daf": 112,
+  "shiur_start_amud": "b"
 }

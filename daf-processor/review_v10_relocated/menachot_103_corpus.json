@@ -1,0 +1,381 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Cases Overview",
+    "candidates": [
+      "Cases Overview",
+      "Invalid Specifications",
+      "Half-Issaron Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage presents exactly the cases described in the 'Cases Overview' prose \u2014 barley, flour/kemach, and no oil/frankincense \u2014 matching that section's detailed description of each case verbatim.",
+      "chosen_heading": "Cases Overview",
+      "current_heading": "Cases Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Half-Issaron Case",
+    "candidates": [
+      "Invalid Specifications",
+      "Half-Issaron Case",
+      "Neder Upitcho Imo",
+      "Tafos Lashon Rishon",
+      "Beit Shammai vs Hillel",
+      "Assumed Intent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Half-Issaron Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishnah text about half-issaron and issaron-and-a-half cases with Rabbi Shimon's dissent, which is precisely what the 'Half-Issaron Case' prose discusses.",
+      "second_heading": "Neder Upitcho Imo",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's opening question 'amai? neder upitcho imo hu' which is exactly what the 'Neder Upitcho Imo' prose describes as the Gemara's sharp opening challenge.",
+      "current_heading": "Half-Issaron Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Assumed Intent",
+    "candidates": [
+      "Neder Upitcho Imo",
+      "Tafos Lashon Rishon",
+      "Beit Shammai vs Hillel",
+      "Assumed Intent",
+      "Binding Without Words",
+      "Chizkiyah's Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Shammai vs Hillel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Chizkiyah's citation of the Nazir mishnah to illustrate Beit Shammai's tafos lashon rishon principle, which is precisely what candidate 2 ('Beit Shammai vs Hillel') describes \u2014 the Nazir dispute as the locus of the Shammai/Hillel disagreement.",
+      "second_heading": "Assumed Intent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan's counter-reading that the mishnah can follow Beit Hillel via assumed intent ('had I known I would have vowed differently'), which is exactly what candidate 3 ('Assumed Intent') discusses.",
+      "current_heading": "Assumed Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chizkiyah's Limit",
+    "candidates": [
+      "Binding Without Words",
+      "Chizkiyah's Limit",
+      "Challenge to Chizkiyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Chizkiyah's distinction between barley and lentils meal offerings, which is precisely what the prose in candidate 1 ('Chizkiyah's Limit') describes.",
+      "chosen_heading": "Chizkiyah's Limit",
+      "current_heading": "Chizkiyah's Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Challenge to Chizkiyah",
+    "candidates": [
+      "Challenge to Chizkiyah",
+      "Chizkiyah Reverses",
+      "Rava's Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the challenge to Chizkiyah's Beit Shammai explanation and his retraction, which corresponds directly to the 'Challenge to Chizkiyah' prose that describes exactly this objection (barley vs. lentils distinction failing under tafos lashon rishon) \u2014 the retraction is the natural conclusion of that challenge, and the current placement is correct.",
+      "chosen_heading": "Challenge to Chizkiyah",
+      "current_heading": "Challenge to Chizkiyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Rava's Inference",
+    "candidates": [
+      "Chizkiyah Reverses",
+      "Rava's Inference",
+      "Yochanan: Even Lentils",
+      "Lentils Obvious",
+      "Intent vs Retraction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Inference",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rava's inference about why Chizkiyah retracted \u2014 exactly what candidate 1 ('Rava's Inference') describes: the mishnah's choice of barley over lentils reveals the mishum de-ta'ei rationale of Beit Hillel.",
+      "second_heading": "Yochanan: Even Lentils",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rabbi Yochanan's assertion that even lentils would bind and the Gemara's resolution that he spoke li-devarav de-Chizkiyah, which is precisely what candidates 2 ('Yochanan: Even Lentils') and 3 ('Lentils Obvious') discuss \u2014 item 3 fits candidate 2 and item 4 fits candidate 3, but since they must go together, candidate 2 is the entry point for this sub-unit.",
+      "current_heading": "Rava's Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Intent vs Retraction",
+    "candidates": [
+      "Yochanan: Even Lentils",
+      "Lentils Obvious",
+      "Intent vs Retraction",
+      "Mincha Word Required",
+      "Rava Challenges"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intent vs Retraction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's 'lo mibaya' argument distinguishing retraction (lentils) from mistaken intent (barley), which is exactly what the 'Intent vs Retraction' prose discusses as his categorical refinement of Beit Shammai's position.",
+      "second_heading": "Mincha Word Required",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ze'eiri's ruling that the word 'minchah' must be stated explicitly, which matches precisely the 'Mincha Word Required' prose about Zeriri's condition at the top of 103b.",
+      "current_heading": "Intent vs Retraction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Rava Challenges",
+    "candidates": [
+      "Mincha Word Required",
+      "Rava Challenges",
+      "Mincha Implied",
+      "One Word Binds",
+      "Reversed Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rava's series of challenges to Rav Na\u1e25man (based on kemach, shemen u-levonah, chatzi issaron, and issaron u-mechtzah cases from the mishnah), which is precisely what the 'Rava Challenges' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Rava Challenges",
+      "current_heading": "Rava Challenges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Reversed Order",
+    "candidates": [
+      "Mincha Implied",
+      "One Word Binds",
+      "Reversed Order",
+      "Two Statements",
+      "Whole Statement",
+      "Rabbi Yosi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's resolution using the reversed-order formulation (chatzi issaron ve-issaron), explaining how chatzi issaron is discarded and the final issaron obligates a second tenth \u2014 exactly what the 'Reversed Order' prose describes.",
+      "chosen_heading": "Reversed Order",
+      "current_heading": "Reversed Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rabbi Yosi Position",
+    "candidates": [
+      "Two Statements",
+      "Whole Statement",
+      "Rabbi Yosi Position",
+      "Same Sentence Rule",
+      "Sixty-One Split",
+      "Communal Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's question about why Rabbi Shimon exempts entirely given the final 'issaron' should be valid, which matches the 'Whole Statement' section's prose that poses exactly this difficulty about Rabbi Shimon's exemption when the statement contains what sounds like two components.",
+      "chosen_heading": "Whole Statement",
+      "current_heading": "Rabbi Yosi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Communal Sacrifice",
+    "candidates": [
+      "Same Sentence Rule",
+      "Sixty-One Split",
+      "Communal Sacrifice",
+      "Not Mixed",
+      "Cannot Mix",
+      "One Difference",
+      "Sages' Measures",
+      "Parallel Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sixty-One Split",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 introduce the new Mishnah establishing the sixty/sixty-one issaron rule and its communal sacrifice rationale, which is exactly what candidate 1 ('Sixty-One Split') describes.",
+      "second_heading": "Not Mixed",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Shimon's objection that the communal tenths are never mixed together, which matches candidate 3 ('Not Mixed') precisely.",
+      "current_heading": "Communal Sacrifice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Parallel Examples",
+    "candidates": [
+      "Not Mixed",
+      "Cannot Mix",
+      "One Difference",
+      "Sages' Measures",
+      "Parallel Examples",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon's response that 'all the measures of the Sages are so,' using the mikveh example to illustrate \u2014 this is the content of the 'Sages' Measures' section, not the 'Parallel Examples' section which covers the full illustration including both mikveh and cloth examples.",
+      "chosen_heading": "Sages' Measures",
+      "current_heading": "Parallel Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Parallel Examples",
+      "Question Posed",
+      "Bar Ilai Speaks",
+      "Communal Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records exactly the question posed before Rabbi Yehudah bar Ilai about the source for the sixty-one issaron rule, which matches the 'Question Posed' section's prose perfectly.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Question Posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Communal Debate",
+    "candidates": [
+      "Bar Ilai Speaks",
+      "Communal Debate",
+      "Final Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present exactly the exchange described in the 'Communal Debate' prose: Rabbi Yehuda bar Ilai's argument about sixty-one issronot and Rabbi Shimon's detailed rebuttal about bulls/rams/lambs, thick/thin mixtures, and morning/afternoon offerings that cannot be combined.",
+      "chosen_heading": "Communal Debate",
+      "current_heading": "Communal Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Final Answer",
+    "candidates": [
+      "Final Answer",
+      "Mixing Not Required",
+      "Potential Mixing",
+      "Theoretical Capacity",
+      "Cannot Mix Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the exact exchange described in the 'Final Answer' prose: Rabbi Shimon's verse-based response, the sixty/sixty-one challenge, and the three parallel examples of rabbinic measures (forty se'ah, egg-bulk, three-by-three cloth).",
+      "chosen_heading": "Final Answer",
+      "current_heading": "Final Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Cannot Mix Fails",
+    "candidates": [
+      "Mixing Not Required",
+      "Potential Mixing",
+      "Theoretical Capacity",
+      "Cannot Mix Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question about mixing not being required (citing the mishna 'im lo balal kasher') and then provides Rabbi Zeira's answer \u2014 this complete unit of question-and-answer belongs under 'Mixing Not Required' where the essay prose sets up exactly this question, with Rabbi Zeira's principle being the resolution that follows naturally from that heading's framing.",
+      "chosen_heading": "Mixing Not Required",
+      "current_heading": "Cannot Mix Fails",
+      "moved": true
+    }
+  }
+]

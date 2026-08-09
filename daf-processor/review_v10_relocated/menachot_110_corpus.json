@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Alexandria Altar",
+    "candidates": [
+      "House of Onias",
+      "Isaiah 19 Reading",
+      "Alexandria Altar",
+      "Sons & Daughters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Alexandria Altar' prose, which explicitly discusses the altar built in Alexandria and the interpretation of 'Ir HaHeres' via Rav Yosef's Aramaic translation and the proof from Job \u2014 exactly matching both items' content.",
+      "chosen_heading": "Alexandria Altar",
+      "current_heading": "Alexandria Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Sons & Daughters",
+    "candidates": [
+      "Sons & Daughters",
+      "Tyre-Carthage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Huna's interpretation of 'bring My sons from far and My daughters from the ends of the earth' distinguishing Babylonian exiles from other exiles, which is exactly what the 'Sons & Daughters' section prose describes.",
+      "chosen_heading": "Sons & Daughters",
+      "current_heading": "Sons & Daughters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Tyre-Carthage",
+    "candidates": [
+      "Tyre-Carthage",
+      "Geographic Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Tyre-to-Carthage teaching, which is exactly what candidate 0's prose discusses in detail, including the geographic directions and Rashi's explanation.",
+      "chosen_heading": "Tyre-Carthage",
+      "current_heading": "Tyre-Carthage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Geographic Challenge",
+    "candidates": [
+      "Geographic Challenge",
+      "Learning = Incense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Shimi bar \u1e24iyya's geographic challenge to Rav using the Malachi verse and Rav's response about 'God of Gods,' which is precisely what the 'Geographic Challenge' prose section discusses.",
+      "chosen_heading": "Geographic Challenge",
+      "current_heading": "Geographic Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Learning = Incense",
+    "candidates": [
+      "Learning = Incense",
+      "Night Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Learning = Incense' section's prose, which explicitly discusses the same two interpretations: Torah scholars offering incense in every place, and learning Torah in purity by first marrying.",
+      "chosen_heading": "Learning = Incense",
+      "current_heading": "Learning = Incense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Night Learning",
+    "candidates": [
+      "Night Learning",
+      "Supernal Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Torah scholars studying at night being credited as if doing Temple service, which is precisely what the 'Night Learning' section's prose discusses.",
+      "chosen_heading": "Night Learning",
+      "current_heading": "Night Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Supernal Altar",
+    "candidates": [
+      "Supernal Altar",
+      "Laws Rebuild Temple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the heavenly altar where Michael offers sacrifices, which is precisely what the 'Supernal Altar' section's prose discusses in detail.",
+      "chosen_heading": "Supernal Altar",
+      "current_heading": "Supernal Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Laws Rebuild Temple",
+    "candidates": [
+      "Laws Rebuild Temple",
+      "No Need Sacrifices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Reish Lakish teaching that candidate 1's prose explicitly discusses and contextualizes, whereas candidate 0 is about Rabbi Yochanan's teaching on studying laws of temple service rebuilding the Temple.",
+      "chosen_heading": "No Need Sacrifices",
+      "current_heading": "Laws Rebuild Temple",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "No Need Sacrifices",
+    "candidates": [
+      "No Need Sacrifices",
+      "All Four Sacrifices",
+      "Tosafot & Prayer",
+      "Heart to Heaven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's objection to Reish Lakish's interpretation and his alternative reading that Torah study means one does not need sacrifices, which is exactly what the 'No Need Sacrifices' section's prose discusses in detail.",
+      "chosen_heading": "No Need Sacrifices",
+      "current_heading": "No Need Sacrifices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Heart to Heaven",
+    "candidates": [
+      "All Four Sacrifices",
+      "Tosafot & Prayer",
+      "Heart to Heaven",
+      "Sleep Reward"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All Four Sacrifices",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yitzchak's teaching about studying the laws of chatat and asham, which is explicitly quoted and discussed in the 'All Four Sacrifices' section prose.",
+      "second_heading": "Heart to Heaven",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Mishna about 'one who brings much and one who brings little, provided he directs his heart to Heaven,' which is precisely what the 'Heart to Heaven' section prose describes and discusses.",
+      "current_heading": "Heart to Heaven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Sleep Reward",
+    "candidates": [
+      "Sleep Reward",
+      "God Sees Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's citation of the Kohelet verse about sweet sleep of the laboring man, which directly matches the 'Sleep Reward' section's prose discussing exactly this gemara and verse.",
+      "chosen_heading": "Sleep Reward",
+      "current_heading": "Sleep Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "God Sees Intent",
+    "candidates": [
+      "God Sees Intent",
+      "Divine Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage from Ecclesiastes 5:10 about God seeing the owner's intent is precisely what the 'God Sees Intent' section prose discusses, matching the verse, the argument about more priests eating vs. divine recognition of intent.",
+      "chosen_heading": "God Sees Intent",
+      "current_heading": "God Sees Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Divine Names",
+    "candidates": [
+      "Divine Names",
+      "Psalm 50 Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Shimon ben Azzai's teaching that only 'the Lord' (not El or Elohim) appears in the offerings section, which matches exactly what the 'Divine Names' prose discusses.",
+      "chosen_heading": "Divine Names",
+      "current_heading": "Divine Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Psalm 50 Meaning",
+    "candidates": [
+      "Psalm 50 Meaning",
+      "Intent Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are explicitly quoted and discussed in the prose of candidate 0 ('Psalm 50 Meaning'), which walks through each of these passages in order: the ishei rei'ach nicho'ach comparison, the Psalm 50 verses about God not needing food, and the lirtzonchem tizbachu teaching.",
+      "chosen_heading": "Psalm 50 Meaning",
+      "current_heading": "Psalm 50 Meaning",
+      "moved": false
+    }
+  }
+]

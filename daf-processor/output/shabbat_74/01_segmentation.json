@@ -87,8 +87,8 @@
           "timestamp": "18:19"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Me'amer: Gathering and Collecting",
@@ -498,5 +498,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "48:50",
+  "amud_b_micro_title": "Lupine Exception",
+  "shiur_start_daf": 73,
+  "shiur_start_amud": "b"
 }

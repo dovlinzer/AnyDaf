@@ -1,0 +1,352 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Virgins vs Non-Virgins",
+    "candidates": [
+      "Virgins vs Non-Virgins",
+      "Divorced/Widowed: Erusin",
+      "R. Yochanan's Ruling",
+      "Non-Pregnant Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Virgins vs Non-Virgins",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (the Gemara's textual question about virgins/non-virgins and Rabbi Yehuda's resolution) are precisely what heading 0 'Virgins vs Non-Virgins' describes in its prose.",
+      "second_heading": "Divorced/Widowed: Erusin",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rabbi Elazar missing the session and Rabbi Asi reporting Rabbi Yochanan's ruling that halakha follows Rabbi Yossi) matches heading 1 'Divorced/Widowed: Erusin' which explicitly describes this exact anecdote and ruling.",
+      "current_heading": "Virgins vs Non-Virgins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Non-Pregnant Cases",
+    "candidates": [
+      "Divorced/Widowed: Erusin",
+      "R. Yochanan's Ruling",
+      "Non-Pregnant Cases",
+      "R. Yochanan Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that proves the stam mishna is a single (yachid) opinion \u2014 specifically Rabbi Meir's \u2014 which is exactly what candidate 1 ('R. Yochanan's Ruling') describes: the Gemara is 'about to demonstrate from a braisa' that the stam is yachid, making this baraita the direct proof cited there, not a standalone 'Non-Pregnant Cases' discussion.",
+      "chosen_heading": "R. Yochanan's Ruling",
+      "current_heading": "Non-Pregnant Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "R. Yochanan Reversal",
+    "candidates": [
+      "Non-Pregnant Cases",
+      "R. Yochanan Reversal",
+      "Contradiction Raised"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yochanan's retraction and Rav Yosef's citation of the Kerem b'Yavneh baraita, which is exactly what the 'R. Yochanan Reversal' section's prose discusses.",
+      "chosen_heading": "R. Yochanan Reversal",
+      "current_heading": "R. Yochanan Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Contradiction Raised",
+    "candidates": [
+      "Contradiction Raised",
+      "Stam Then Machloket",
+      "R. Abbahu's Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the contradiction raised by Rabbi Yirmiya and Rabbi Abbahu's resolution (including the stam/machlokes principle), which is precisely what heading 0 'Contradiction Raised' describes in its prose \u2014 the question posed, the response, and the stam v'achar kach machlokes principle as part of that resolution.",
+      "chosen_heading": "Contradiction Raised",
+      "current_heading": "Contradiction Raised",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "R. Abbahu's Cases",
+    "candidates": [
+      "Stam Then Machloket",
+      "R. Abbahu's Cases",
+      "Combs Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rabbi Abbahu's four enumerated cases (machlokes-then-stam, stam-then-machlokes, stam in Mishna/dispute in baraita, dispute in Mishna/stam in baraita), which is precisely what candidate 1 'R. Abbahu's Cases' describes in its prose, including the closing 'v'chi Rebbi lo shna'ah' line that appears in item 3.",
+      "chosen_heading": "R. Abbahu's Cases",
+      "current_heading": "R. Abbahu's Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Combs Mishna",
+    "candidates": [
+      "Combs Mishna",
+      "Combs Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Combs Mishna",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the challenge from the combs mishna and Rabbi \u1e24iyya's response that it is not authoritative, matching the 'Combs Mishna' prose which describes exactly this challenge and the declaration of 'zu einah mishna'.",
+      "second_heading": "Combs Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 explain *why* the mishna is not authoritative by exposing its internal contradictions and attempting resolutions, matching the 'Combs Resolution' prose which describes Rav Huna bar Minyumi's contradiction argument and the various attempted distinctions.",
+      "current_heading": "Combs Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Combs Resolution",
+    "candidates": [
+      "Combs Resolution",
+      "Day Ninety Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to content described in the 'Combs Resolution' prose: Rav Pappa's resolution involving thick versus thin teeth, and the final textual resolution that precise transmitters conclude the mishna with 'zu Rabbi Shimon.'",
+      "chosen_heading": "Combs Resolution",
+      "current_heading": "Combs Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Day Ninety Question",
+    "candidates": [
+      "Day Ninety Question",
+      "Nursing Women Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together cover exactly what candidate 0's prose describes: Rabbi \u1e24iyya bar Avin's ruling on betrothal within three months, Rabbi Elazar/\u1e24anina's majority-of-months formula, Ameimar permitting erusin on day ninety, Rav Ashi's challenge from Rav and Shmuel, the clarification that their ruling concerned nursing women, and the incident with Rava and the feast \u2014 all of which are narrated in candidate 0's prose.",
+      "chosen_heading": "Day Ninety Question",
+      "current_heading": "Day Ninety Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Nursing Women Case",
+    "candidates": [
+      "Nursing Women Case",
+      "Lo Pelug Conclusion",
+      "R. Yossi Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the final halakhic ruling (hilchasa) summarizing both the 24-month nursing wait and the 3-month general wait with their exclusions, which matches precisely the 'Lo Pelug Conclusion' prose that opens with 'The final ruling (hilchasa) is that a nursing woman must wait twenty-four months, exclusive of the day of birth and the day of erusin. For the three-month wait...it is likewise exclusive of the day of death and exclusive of the day of erusin.'",
+      "chosen_heading": "Lo Pelug Conclusion",
+      "current_heading": "Nursing Women Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "R. Yossi Exception",
+    "candidates": [
+      "Lo Pelug Conclusion",
+      "R. Yossi Exception",
+      "Rav Chisda Challenge",
+      "Tisha B'Av Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Chisda's kal v'chomer argument about erusin being permitted even when laundering is prohibited, which directly matches the 'Rav Chisda Challenge' section's prose description of exactly this argument.",
+      "chosen_heading": "Rav Chisda Challenge",
+      "current_heading": "R. Yossi Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Tisha B'Av Precedent",
+    "candidates": [
+      "Rav Chisda Challenge",
+      "Tisha B'Av Precedent",
+      "Reinterpreting R. Yossi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items provide the textual basis (the Mishna and baraita about Tisha B'Av laundering/erusin prohibitions) and then the Gemara's rebuttal deflating Rav Chisda's kal v'chomer, which is exactly what the 'Rav Chisda Challenge' prose describes \u2014 the current placement under 'Tisha B'Av Precedent' is a nearby heading but the passage is specifically the evidentiary foundation and resolution of Rav Chisda's challenge, not a standalone discussion of the nine-day period.",
+      "chosen_heading": "Rav Chisda Challenge",
+      "current_heading": "Tisha B'Av Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Reinterpreting R. Yossi",
+    "candidates": [
+      "Tisha B'Av Precedent",
+      "Reinterpreting R. Yossi",
+      "Almanah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items are a continuous chain of the Gemara's reinterpretation of Rabbi Yosei's ruling \u2014 Rava's kal v'chomer forcing the emendation, then the successive questions and answers about what Rabbi Yosei actually means (leis lei / arusot gerushot / distinction from Rabbi Yehuda / the baraita challenge) \u2014 which is precisely what the 'Reinterpreting R. Yossi' prose section describes.",
+      "chosen_heading": "Reinterpreting R. Yossi",
+      "current_heading": "Reinterpreting R. Yossi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Almanah Question",
+    "candidates": [
+      "Almanah Question",
+      "New vs Old Aveilus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the challenge from the latter clause about marrying vs. betrothing, Rava's emendation, the baraita about a widow from betrothal having no mourning, and the tanna'im dispute from the Tisha B'Av baraita \u2014 are precisely the content described in the 'Almanah Question' prose, which traces this exact sequence through the aveilus of an arusa and concludes with the machlokes tanna'im from the nine-day period baraita.",
+      "chosen_heading": "Almanah Question",
+      "current_heading": "Almanah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "New vs Old Aveilus",
+    "candidates": [
+      "New vs Old Aveilus",
+      "Four Brothers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Ashi's challenge about erusin vs. seudas erusin, the Gemara's response distinguishing erusin from nissuin based on simcha, and Rav Ashi's final resolution distinguishing new vs. old mourning and public vs. private mourning \u2014 are explicitly described and discussed in the 'New vs Old Aveilus' prose, making that the correct placement.",
+      "chosen_heading": "New vs Old Aveilus",
+      "current_heading": "New vs Old Aveilus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Four Brothers Case",
+    "candidates": [
+      "Four Brothers Case",
+      "Two Brothers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes four brothers married to four women where the eldest survivor may perform yibum with all the widows, which matches exactly the 'Four Brothers Case' prose description.",
+      "chosen_heading": "Four Brothers Case",
+      "current_heading": "Four Brothers Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Two Brothers Case",
+    "candidates": [
+      "Two Brothers Case",
+      "Kasher/Pasul Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a man married to two women who dies childless, with bi'ah or chalitzah with one wife releasing the other \u2014 exactly what the 'Two Brothers Case' prose describes.",
+      "chosen_heading": "Two Brothers Case",
+      "current_heading": "Two Brothers Case",
+      "moved": false
+    }
+  }
+]

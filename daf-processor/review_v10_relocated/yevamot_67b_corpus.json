@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Braita Cases",
+    "candidates": [
+      "Braita Cases",
+      "Male Minority Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the baraita elaborating Rabbi Yosei's position and the tannaitic disputes (Rabbi Yishmael son of Rabbi Yosei and Rabbi Shimon bar Yochai) that follow directly from it, all of which are explicitly discussed in the 'Braita Cases' prose.",
+      "chosen_heading": "Braita Cases",
+      "current_heading": "Braita Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Male Minority Risk",
+    "candidates": [
+      "Male Minority Risk",
+      "Small Estate Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the male minority risk analysis \u2014 the chada ve-od reasoning about female/male fetus, the ei choshishin le-mi'uta principle, Rav Nachman's apotropos arrangement, and the final conclusion that the tanna'im dispute only concerns concern for the minority \u2014 exactly matching the 'Male Minority Risk' prose.",
+      "chosen_heading": "Male Minority Risk",
+      "current_heading": "Male Minority Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Small Estate Rule",
+    "candidates": [
+      "Small Estate Rule",
+      "Gray Zone Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items are the continuous Gemara discussion about Rabbi Yishmael son of Rabbi Yosei's ruling (bat ma'achelet, ben eino ma'achil), including Abaye's small-estate explanation, the challenges to it, and the final reinterpretation of 'bat' as 'mother' \u2014 exactly the content described in the 'Small Estate Rule' prose.",
+      "chosen_heading": "Small Estate Rule",
+      "current_heading": "Small Estate Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Gray Zone Intro",
+    "candidates": [
+      "Gray Zone Intro",
+      "Fetus Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna listing the gray-zone cases (fetus, yavam, erusin, deaf-mute, nine-year-old), the safek cases, and the nafal ha-bayit case \u2014 are precisely the content described in the 'Gray Zone Intro' prose, which explicitly summarizes all of these elements together.",
+      "chosen_heading": "Gray Zone Intro",
+      "current_heading": "Gray Zone Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Fetus Case",
+    "candidates": [
+      "Fetus Case",
+      "Yavam Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the fetus (uber) case \u2014 disqualifying a bat kohen married to a yisrael via 'ke-ne'ureha' and not enabling a bat yisrael married to a kohen \u2014 matching the prose of candidate 0 precisely.",
+      "chosen_heading": "Fetus Case",
+      "current_heading": "Fetus Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Yavam Case",
+    "candidates": [
+      "Yavam Case",
+      "Erusin Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the yavam case specifically, matching exactly the prose in candidate 0 about shomeret yavam, kinyan kaspo, and the brother's acquisition.",
+      "chosen_heading": "Yavam Case",
+      "current_heading": "Yavam Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Erusin Case",
+    "candidates": [
+      "Erusin Case",
+      "Cheresh Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the erusin case \u2014 a bat kohen betrothed to a yisrael being disqualified, and a bat yisrael betrothed to a kohen not eating teruma due to Ulla's ruling \u2014 which matches precisely the prose under 'Erusin Case'.",
+      "chosen_heading": "Erusin Case",
+      "current_heading": "Erusin Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Cheresh Case",
+    "candidates": [
+      "Cheresh Case",
+      "Nine Years Old Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the cheresh case \u2014 rabbinic acquisition disqualifying a bat kohen and the Torah requirement of kinyan kaspo preventing a cheresh kohen from enabling a bat yisrael to eat teruma \u2014 which is precisely what the 'Cheresh Case' prose describes.",
+      "chosen_heading": "Cheresh Case",
+      "current_heading": "Cheresh Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Nine Years Old Case",
+    "candidates": [
+      "Nine Years Old Case",
+      "Braita Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (the initial question about the nine-year-old, Abaye's answer about bi'ah as ma'amar, and Rava's objection about the safek formulation) are precisely the sugya described in the 'Nine Years Old Case' prose, which explicitly covers Abaye's proposal and Rava's objection about the safek formulation.",
+      "chosen_heading": "Nine Years Old Case",
+      "current_heading": "Nine Years Old Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Braita Categories",
+    "candidates": [
+      "Braita Categories",
+      "Rabbi Yose View",
+      "Rabban Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rava's explanation referencing the baraita listing categories of unfit males (pesulei kahal vs. pesulei kehuna), which matches exactly the prose of candidate 0 ('Braita Categories') discussing the structural distinction between the two mishna sections and the categories of forbidden men who invalidate women.",
+      "chosen_heading": "Braita Categories",
+      "current_heading": "Braita Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Rabban Shimon View",
+    "candidates": [
+      "Rabbi Yose View",
+      "Rabban Shimon View",
+      "Parashat Emor Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yose View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening baraita listing who disqualifies women, which sets up Rabbi Yose's formulation discussed under heading 0 ('Rabbi Yose View').",
+      "second_heading": "Rabban Shimon View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains both Rabbi Yose's rule and Rabban Shimon ben Gamliel's parallel formulation, matching heading 1's prose which discusses Rabban Shimon's view and notes the gemara will explore its relationship to Rabbi Yose's position.",
+      "current_heading": "Rabban Shimon View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Parashat Emor Source",
+    "candidates": [
+      "Parashat Emor Source",
+      "Non-Kohen Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain of question-and-answer deriving the biblical source for forbidden intercourse invalidating a woman, exactly matching the 'Parashat Emor Source' prose which traces the same sequence of challenges and resolutions about the verse u-vat kohen ki tihyeh l'ish zar through to the conclusion of shma mina tarti.",
+      "chosen_heading": "Parashat Emor Source",
+      "current_heading": "Parashat Emor Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Non-Kohen Women",
+    "candidates": [
+      "Non-Kohen Women",
+      "Leviyah Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Non-Kohen Women",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address deriving the rule for Leviyah and Yisraelit from the extra 'u-vat' and whether this follows Rabbi Akiva or even the Rabbis, which matches exactly the 'Non-Kohen Women' prose.",
+      "second_heading": "Leviyah Status",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address whether the extension covers terumah or marriage to the priesthood, and the counterargument that a Yisraelit can eat terumah via her son, which matches exactly the 'Leviyah Status' prose.",
+      "current_heading": "Non-Kohen Women",
+      "moved": true
+    }
+  }
+]

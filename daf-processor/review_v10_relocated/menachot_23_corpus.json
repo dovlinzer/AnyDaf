@@ -1,0 +1,379 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Kometz + Oil: Pasul",
+    "candidates": [
+      "Intro: Mixed Menachot",
+      "Kometz + Oil: Pasul",
+      "Resh Lakish: Oil OK",
+      "Tosafot: Lo Nitnah Torah",
+      "Pasuk Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the initial disagreement between Rabbi Yo\u1e25anan (who rules pasul) and Resh Lakish about the handful of the sinner's meal offering that had oil added, which is exactly what the 'Kometz + Oil: Pasul' section introduces \u2014 both opinions are stated together in the Talmudic text even though the prose splits them across two headings, but the current placement under heading 1 is where this itmar passage belongs as it introduces the full dispute.",
+      "chosen_heading": "Kometz + Oil: Pasul",
+      "current_heading": "Kometz + Oil: Pasul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Pasuk Challenge",
+    "candidates": [
+      "Resh Lakish: Oil OK",
+      "Tosafot: Lo Nitnah Torah",
+      "Pasuk Challenge",
+      "Resolution: Lo Yikba",
+      "Challenge: Charev & Balul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the scriptural challenge from the pasuk 'lo yasim aleha shemen,' which is precisely what 'Pasuk Challenge' prose describes.",
+      "chosen_heading": "Pasuk Challenge",
+      "current_heading": "Pasuk Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Challenge: Charev & Balul",
+    "candidates": [
+      "Resolution: Lo Yikba",
+      "Challenge: Charev & Balul",
+      "Minchat Parim vs. Kvasim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Yochanan's challenge to Resh Lakish from the baraita about a dry mincha intermingled with an oily one, which is precisely what the 'Challenge: Charev & Balul' section's prose describes.",
+      "chosen_heading": "Challenge: Charev & Balul",
+      "current_heading": "Challenge: Charev & Balul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Minchat Parim vs. Kvasim",
+    "candidates": [
+      "Minchat Parim vs. Kvasim",
+      "Squeezed Oil Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the direct exchange between Reish Lakish and Rabbi Yo\u1e25anan about minchat parim v'eilim vs. minchat kevasim, which is precisely what the 'Minchat Parim vs. Kvasim' prose describes in detail.",
+      "chosen_heading": "Minchat Parim vs. Kvasim",
+      "current_heading": "Minchat Parim vs. Kvasim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Squeezed Oil Question",
+    "candidates": [
+      "Squeezed Oil Question",
+      "Chiburei Olin Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's dilemma about squeezed oil and the chiburei olin question, which is precisely what heading 0's prose discusses, including Rashi's two readings and the conceptual framework \u2014 heading 1 covers Ravina's follow-up connecting it to the Rabbi Yochanan/Reish Lakish dispute, but the passage itself spans both Rava's question and Ravina's connection, and its primary content matches heading 0's detailed discussion of the dilemma itself.",
+      "chosen_heading": "Squeezed Oil Question",
+      "current_heading": "Squeezed Oil Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Chiburei Olin Debate",
+    "candidates": [
+      "Chiburei Olin Debate",
+      "Oil: Intrinsic vs Added"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present exactly the Rabbi Yochanan\u2013Reish Lakish dispute about chiburei olin that the 'Chiburei Olin Debate' prose directly describes and quotes.",
+      "chosen_heading": "Chiburei Olin Debate",
+      "current_heading": "Chiburei Olin Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Oil: Intrinsic vs Added",
+    "candidates": [
+      "Oil: Intrinsic vs Added",
+      "Teiku: Unresolved",
+      "Measure Each Separately",
+      "Cannot Separate: Pasul",
+      "Kometz + Unmeasured"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oil: Intrinsic vs Added",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Ashi's elaboration of the dilemma according to Rabbi Yo\u1e25anan (bone vs. oil as same-type argument), which matches exactly the prose in 'Oil: Intrinsic vs Added' discussing the Rabbi Yochanan\u2013Resh Lakish dispute and its applicability to oil.",
+      "second_heading": "Teiku: Unresolved",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concludes with 'teiku' \u2014 the dilemma is left unresolved \u2014 which matches perfectly the 'Teiku: Unresolved' section's prose about the gemara reaching no resolution and concluding with teiku.",
+      "current_heading": "Oil: Intrinsic vs Added",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Kometz + Unmeasured",
+    "candidates": [
+      "Teiku: Unresolved",
+      "Measure Each Separately",
+      "Cannot Separate: Pasul",
+      "Kometz + Unmeasured",
+      "If Offered: One Kosher"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Measure Each Separately",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna presenting the two-menachot intermingling case, which corresponds exactly to the 'Measure Each Separately' / 'Cannot Separate: Pasul' section discussing the overlapping circles scenario and the kesherot/pasul ruling.",
+      "second_heading": "Kometz + Unmeasured",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the distinct second case of a kometz mixed with an un-kamtzed mincha, which matches the 'Kometz + Unmeasured' prose describing lo yaktir and the reasoning about placing B on the mizbeach.",
+      "current_heading": "Kometz + Unmeasured",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "If Offered: One Kosher",
+    "candidates": [
+      "If Offered: One Kosher",
+      "Kometz Back to Shirayim",
+      "Offered: Kometz Works",
+      "Neveilah Batel Shechutah",
+      "Shechutah Not Batel",
+      "Min B'Mino Framework",
+      "Rav Chisda: Mevatel Batel",
+      "Rabbi Chanina: Batel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of a kometz intermingled with shirayim (its own or another's), ruling lo yaktir but valid if offered \u2014 which is precisely what heading 1 ('Kometz Back to Shirayim') discusses, while the current placement under 'If Offered: One Kosher' describes a different scenario about two meal offerings whose kometz was mixed together.",
+      "chosen_heading": "Kometz Back to Shirayim",
+      "current_heading": "If Offered: One Kosher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rabbi Chanina: Batel",
+    "candidates": [
+      "Kometz Back to Shirayim",
+      "Offered: Kometz Works",
+      "Neveilah Batel Shechutah",
+      "Shechutah Not Batel",
+      "Min B'Mino Framework",
+      "Rav Chisda: Mevatel Batel",
+      "Rabbi Chanina: Batel",
+      "Whose Position?",
+      "Narrowing Rabbi Yehuda",
+      "Why No Bittul to Overlap?",
+      "Rabbi Zeira: No Bittul",
+      "Derasha Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 15 items together form the continuous Gemara discussion introduced by Rav \u1e24isda's principle that neveilah is nullified in shechutah, which is precisely what heading 2 ('Neveilah Batel Shechutah') describes \u2014 the passage covers Rav \u1e24isda's ruling, Rabbi \u1e24anina's counter-formulation, the question of whose opinion they follow, the resolution via Rabbi \u1e24iyya/Rabbi Yehuda, and the application to the mishna's mixed menachot case, all as one continuous unit beginning with Rav \u1e24isda's neveilah/shechutah principle.",
+      "chosen_heading": "Neveilah Batel Shechutah",
+      "current_heading": "Rabbi Chanina: Batel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Derasha Source",
+    "candidates": [
+      "Whose Position?",
+      "Narrowing Rabbi Yehuda",
+      "Why No Bittul to Overlap?",
+      "Rabbi Zeira: No Bittul",
+      "Derasha Source",
+      "Rabbi Zeira Applies Here"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Derasha Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Zeira's derasha \u2014 the verbal analogy between haktara in the kometz and haktara in the shirayim \u2014 which is precisely what heading 4 ('Derasha Source') describes.",
+      "second_heading": "Rabbi Zeira Applies Here",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 constitute a new sugya unit: a 'come and hear' challenge from the mishna about a kometz intermingled with an un-kamtzed mincha, followed by the question of whose opinion it follows, which matches heading 5 ('Rabbi Zeira Applies Here') describing the application of Rabbi Zeira's principle to the second case of the mishna.",
+      "current_heading": "Derasha Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rabbi Zeira Applies Here",
+    "candidates": [
+      "Rabbi Zeira Applies Here",
+      "Testing Frameworks",
+      "Kometz & Shirayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses following the mevatel (Rav Chisda's framework) \u2014 arguing that every bit of the un-kamtzed mincha is fit to become a kometz, making it min b'mino and not nullified \u2014 which matches exactly the 'Testing Frameworks' prose description of Rav Chisda's position in this case.",
+      "chosen_heading": "Testing Frameworks",
+      "current_heading": "Rabbi Zeira Applies Here",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Kometz & Shirayim",
+    "candidates": [
+      "Testing Frameworks",
+      "Kometz & Shirayim",
+      "Spiced Matza Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with the kometz/shirayim case: items 1-3 test Rabbi Chanina's framework against the mishnah and deflect with Rabbi Zeira, and item 4 is Rabbi Zeira's original statement about the verbal analogy between burning of the kometz and burning of the shirayim \u2014 exactly what candidate 1's prose describes as the core of Rabbi Zeira's teaching.",
+      "chosen_heading": "Kometz & Shirayim",
+      "current_heading": "Kometz & Shirayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Spiced Matza Kosher",
+    "candidates": [
+      "Spiced Matza Kosher",
+      "Challenge: Bittul?",
+      "Rav Chisda's View",
+      "Rabbi Chanina's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about spiced matza being kosher, which is exactly what heading 0's prose describes \u2014 the subsequent headings discuss the gemara's analysis and challenges that follow this initial citation.",
+      "chosen_heading": "Spiced Matza Kosher",
+      "current_heading": "Spiced Matza Kosher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Rabbi Chanina's View",
+    "candidates": [
+      "Challenge: Bittul?",
+      "Rav Chisda's View",
+      "Rabbi Chanina's View",
+      "Gemara: Matza Majori",
+      "Inconclusive Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the bittul debate (Rabbi Chanina and Rav Chisda) together as a single unit exploring the challenge of why spices don't nullify the matzah, which corresponds to the 'Challenge: Bittul?' heading that frames exactly this question, rather than belonging solely under the Rabbi Chanina heading where only half the passage currently sits.",
+      "chosen_heading": "Challenge: Bittul?",
+      "current_heading": "Rabbi Chanina's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Inconclusive Proof",
+    "candidates": [
+      "Gemara: Matza Majori",
+      "Inconclusive Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's answer about majority-matza and the diyyuk from the baraita's language, which is precisely what heading 0 ('Gemara: Matza Majori') describes, whereas heading 1 discusses the collapse of the proof and its implications \u2014 content that follows this passage rather than containing it.",
+      "chosen_heading": "Gemara: Matza Majori",
+      "current_heading": "Inconclusive Proof",
+      "moved": true
+    }
+  }
+]

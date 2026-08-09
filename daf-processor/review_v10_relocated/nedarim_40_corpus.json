@@ -1,0 +1,197 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Multiple Visits & Healing",
+    "candidates": [
+      "No Limit to Bikur",
+      "Gadol Etzel Katan",
+      "Multiple Visits & Healing",
+      "Rav Chelbo & R. Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items belong together under 'Multiple Visits & Healing': item 1 discusses Rava's reading of ein lah shiur (even 100 times a day), item 2 introduces Rav Acha bar Chanina's one-sixtieth teaching with the sixty-visitors objection and the ben gilo qualification, and item 3 elaborates the issur nechasim analogy from Rebbi's school \u2014 exactly the content described in the prose of candidate 2.",
+      "chosen_heading": "Multiple Visits & Healing",
+      "current_heading": "Multiple Visits & Healing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Rav Chelbo & R. Akiva",
+    "candidates": [
+      "Rav Chelbo & R. Akiva",
+      "Prayer & End-of-Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together narrate the Rav \u1e24elbo/Rabbi Akiva story about visiting the sick, which is precisely what the prose under heading 0 ('Rav Chelbo & R. Akiva') describes in detail.",
+      "chosen_heading": "Rav Chelbo & R. Akiva",
+      "current_heading": "Rav Chelbo & R. Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Prayer & End-of-Life",
+    "candidates": [
+      "Prayer & End-of-Life",
+      "Rava's Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Dimi's teaching on visiting the sick and its connection to prayer is explicitly discussed and analyzed in the 'Prayer & End-of-Life' section prose, which quotes and unpacks this exact Gemara text.",
+      "chosen_heading": "Prayer & End-of-Life",
+      "current_heading": "Prayer & End-of-Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rava's Strategy",
+    "candidates": [
+      "Rava's Strategy",
+      "Rewards for Visiting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's practice of first concealing his illness and then announcing it publicly to benefit from enemies' rejoicing and friends' prayers, which matches exactly the prose under 'Rava's Strategy'.",
+      "chosen_heading": "Rava's Strategy",
+      "current_heading": "Rava's Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rewards for Visiting",
+    "candidates": [
+      "Rewards for Visiting",
+      "Timing & Divine Presence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rewards for Visiting",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 (Rav's teaching on rewards for visiting the sick, the worldly rewards from Psalms 41, and the baraita about Rehoboam) are all discussed in the 'Rewards for Visiting' prose, which explicitly covers each of these elements.",
+      "second_heading": "Timing & Divine Presence",
+      "second_confidence": "high",
+      "second_reason": "Item 5 (Rav Sheisha's teaching about the timing of visits and prayer) is precisely what the 'Timing & Divine Presence' prose discusses as its opening teaching.",
+      "current_heading": "Rewards for Visiting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Timing & Divine Presence",
+    "candidates": [
+      "Timing & Divine Presence",
+      "Euphrates Testimony",
+      "Underground Springs",
+      "Moving Water & Tishrei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss God sustaining the sick and the Divine Presence above the sick person's bed, which is precisely what the 'Timing & Divine Presence' prose describes in detail.",
+      "chosen_heading": "Timing & Divine Presence",
+      "current_heading": "Timing & Divine Presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Moving Water & Tishrei",
+    "candidates": [
+      "Euphrates Testimony",
+      "Underground Springs",
+      "Moving Water & Tishrei",
+      "Practical Mikvahs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Ravin citing Rav about the Euphrates as testimony to Western rain, then Shmuel's contradicting view that rivers are spring-fed, then the internal contradiction in Shmuel about moving water \u2014 this is precisely the content described in the 'Underground Springs' prose, which explicitly covers the Rav/Shmuel dispute, the halachic stakes of mayim chayim vs. rainwater, and the contradiction between Shmuel's two statements, whereas the current heading 'Moving Water & Tishrei' is better suited to the resolution/conclusion (the Tishrei-only ruling) that follows.",
+      "chosen_heading": "Underground Springs",
+      "current_heading": "Moving Water & Tishrei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Practical Mikvahs",
+    "candidates": [
+      "Moving Water & Tishrei",
+      "Practical Mikvahs",
+      "Vessels of Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel's father constructing ritual baths for his daughters in Nisan and placing mats in Tishrei, which directly matches the 'Practical Mikvahs' prose that explicitly discusses and elaborates on this exact narrative.",
+      "chosen_heading": "Practical Mikvahs",
+      "current_heading": "Practical Mikvahs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Vessels of Exile",
+    "candidates": [
+      "Vessels of Exile",
+      "Lacking Everything",
+      "Intellect & Sufficiency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vessels of Exile",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about the 'vessels of exile' from Ezekiel, which is precisely what heading 0 discusses.",
+      "second_heading": "Lacking Everything",
+      "second_confidence": "high",
+      "second_reason": "Item 2 interprets 'b'choser kol' (lacking everything) from Deuteronomy, which is exactly what heading 1's prose describes.",
+      "current_heading": "Vessels of Exile",
+      "moved": true
+    }
+  }
+]

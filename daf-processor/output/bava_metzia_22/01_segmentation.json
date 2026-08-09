@@ -19,8 +19,8 @@
           "timestamp": "00:19"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah Cases: Ganav, Gazlan, and the River—Challenging Abaye's Position",
@@ -193,7 +193,7 @@
           "timestamp": "36:55"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     }
   ],
@@ -535,5 +535,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "28:51",
+  "amud_b_micro_title": "Post-Drying Awareness",
+  "shiur_start_daf": 22,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,437 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Vessel Distinction",
+    "candidates": [
+      "Opening Remarks",
+      "Hagasha & Tenufa",
+      "Mishna Text",
+      "Vessel Distinction",
+      "Rabbi Yose HaGelili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, covering both the ruling about machavat vs. marcheshet and the distinction between them, which matches the 'Mishna Text' section's prose that introduces and describes exactly this mishnah content, before the Gemara's analysis under later headings.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Vessel Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rabbi Yose HaGelili",
+    "candidates": [
+      "Vessel Distinction",
+      "Rabbi Yose HaGelili",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial symbolic reasoning for Rabbi Yose HaGelili's distinction (marcheshet\u2192heart musings, machavat\u2192mouth speech), which is exactly what the 'Rabbi Yose HaGelili' prose section discusses, while the 'Gemara Challenge' section covers the subsequent reversal and conclusion that the distinction is received tradition.",
+      "chosen_heading": "Rabbi Yose HaGelili",
+      "current_heading": "Rabbi Yose HaGelili",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Gemara Challenge",
+      "Rabbi Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the gemara's challenge ('eima ipcha'), the alternative derivations, and the conclusion 'ella gemara gemiri lah,' which is exactly what the prose under 'Gemara Challenge' discusses.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabbi Chanina",
+    "candidates": [
+      "Rabbi Chanina",
+      "Beit Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi \u1e24anina ben Gamliel's distinction using the prepositions 'be-' (in) and 'al' (on) from the verses, which is precisely what the prose under 'Rabbi Chanina' discusses.",
+      "chosen_heading": "Rabbi Chanina",
+      "current_heading": "Rabbi Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Beit Shammai",
+    "candidates": [
+      "Beit Shammai",
+      "Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Beit Shammai's ruling that the money should be set aside until Elijah comes, which is exactly what the prose under heading 0 ('Beit Shammai') discusses.",
+      "chosen_heading": "Beit Shammai",
+      "current_heading": "Beit Shammai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Ambiguity",
+    "candidates": [
+      "Ambiguity",
+      "Tosafot",
+      "Beit Hillel",
+      "Marcheshet Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Beit Shammai's uncertainty about whether the terms refer to the vessel or the manner of preparation, which is precisely what the 'Ambiguity' section's prose discusses and explains.",
+      "chosen_heading": "Ambiguity",
+      "current_heading": "Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Marcheshet Description",
+    "candidates": [
+      "Tosafot",
+      "Beit Hillel",
+      "Marcheshet Description",
+      "Mincha Be-Tanur",
+      "Prohibited Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe Beit Hillel's account of the marcheshet vessel's appearance and cite the verse confirming the names belong to the vessels \u2014 precisely what the 'Marcheshet Description' prose discusses.",
+      "chosen_heading": "Marcheshet Description",
+      "current_heading": "Marcheshet Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Prohibited Vessels",
+    "candidates": [
+      "Mincha Be-Tanur",
+      "Prohibited Vessels",
+      "Home Preparation",
+      "Rabbi Yehuda",
+      "Rabbi Shimon",
+      "Yotzei Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the mishna about oven-baked mincha vows, the mishna about half-loaves/half-wafers, and the gemara with the baraita and Rabbi Yehuda/Rabbi Shimon disputes \u2014 together form the opening unit of the oven-baked mincha discussion, which is precisely what the 'Mincha Be-Tanur' heading's prose describes as its content.",
+      "chosen_heading": "Mincha Be-Tanur",
+      "current_heading": "Prohibited Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Yotzei Problem",
+    "candidates": [
+      "Home Preparation",
+      "Rabbi Yehuda",
+      "Rabbi Shimon",
+      "Yotzei Problem",
+      "Mincha Kedusha",
+      "Tosafot on Kedusha",
+      "Rava's Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly raises the challenge to Rabbi Shimon's position based on the yotzei problem \u2014 that his own ruling about shtei ha-lechem and lechem ha-panim being valid in Beit Pagi contradicts the idea that the oven sanctifies the mincha \u2014 which is precisely what the 'Yotzei Problem' section describes.",
+      "chosen_heading": "Yotzei Problem",
+      "current_heading": "Yotzei Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rava's Reinterpretation",
+    "candidates": [
+      "Mincha Kedusha",
+      "Tosafot on Kedusha",
+      "Rava's Reinterpretation",
+      "Vow Text",
+      "Rabbi Yehuda",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Rava's statement about 'hekdesham le-shum tanur' is precisely what the prose in 'Rava's Reinterpretation' describes and analyzes \u2014 the reinterpretation that explicit designation for an oven-baked mincha is required at the moment of sanctification.",
+      "chosen_heading": "Rava's Reinterpretation",
+      "current_heading": "Rava's Reinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Vow Text",
+      "Rabbi Yehuda",
+      "Rabbi Shimon",
+      "Mixing Method",
+      "Different Pasuk",
+      "Kol Mincha Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vow Text",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a baraita about the voluntary nature of the minchat ma'afeh, which belongs under the 'Vow Text' section discussing the general nature of the minchat ma'afeh vow.",
+      "second_heading": "Rabbi Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yehuda's derivation from 'korban mincha' that one may not bring half chalos and half rekikin, which is precisely what the 'Rabbi Yehuda' prose section describes.",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Kol Mincha Drasha",
+    "candidates": [
+      "Mixing Method",
+      "Different Pasuk",
+      "Kol Mincha Drasha",
+      "Shemen Shemen",
+      "Rabbi Shimon Response"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rabbi Shimon Response",
+    "candidates": [
+      "Shemen Shemen",
+      "Rabbi Shimon Response",
+      "B'Diavad Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon's explanation of the doubled 'ba-shemen' and his reasoning about why one might have thought only half-and-half was valid, which matches precisely the prose in candidate 1 ('Rabbi Shimon Response').",
+      "chosen_heading": "Rabbi Shimon Response",
+      "current_heading": "Rabbi Shimon Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "B'Diavad Distinction",
+    "candidates": [
+      "B'Diavad Distinction",
+      "Omer Introduction",
+      "Starting Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the practical difference (be-diavad) between Rabbi Yehuda and Rabbi Yose bar Rabbi Yehuda regarding whether a mixed offering is valid after the fact, which is precisely what the 'B'Diavad Distinction' prose section describes.",
+      "chosen_heading": "B'Diavad Distinction",
+      "current_heading": "B'Diavad Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Starting Amounts",
+    "candidates": [
+      "Omer Introduction",
+      "Starting Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The 'Hadr\u00e1n' formula marks the end of a tractate/chapter, making it a closing/transitional element that belongs under the introductory heading for the new perek ('Omer Introduction') rather than under the substantive legal discussion of starting amounts.",
+      "chosen_heading": "Omer Introduction",
+      "current_heading": "Starting Amounts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Starting Amounts",
+    "candidates": [
+      "Starting Amounts",
+      "Shabbat Procedure",
+      "Weekday Procedure",
+      "Chachamim",
+      "Sadducee Refutation",
+      "Isaron Quality",
+      "Rava's Explanation",
+      "Shabbat Minimization",
+      "One vs. Many Melachot",
+      "Five Melachot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Starting Amounts",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text covering both Rabbi Yishmael's dispute about starting quantities and Rabbi Chananya's dispute about the cutting procedure, which matches the 'Starting Amounts' section's prose about the mishna's disputes.",
+      "second_heading": "Isaron Quality",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's direct questioning of Rabbi Yishmael's position \u2014 if a choice issaron requires five se'im use five even on Shabbat, if three suffices use three even on weekdays \u2014 which exactly matches the 'Isaron Quality' prose describing this precise Gemara challenge.",
+      "current_heading": "Starting Amounts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Five Melachot",
+    "candidates": [
+      "Shabbat Procedure",
+      "Weekday Procedure",
+      "Chachamim",
+      "Sadducee Refutation",
+      "Isaron Quality",
+      "Rava's Explanation",
+      "Shabbat Minimization",
+      "One vs. Many Melachot",
+      "Five Melachot",
+      "Same Principle",
+      "Effort or Deeper",
+      "Korban Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of Rabbi Yishmael's position \u2014 that a select issaron comes without exertion from five se'im and with exertion from three, and the weekday/Shabbat calculus that follows \u2014 which is precisely what the prose under 'Rava's Explanation' describes.",
+      "chosen_heading": "Rava's Explanation",
+      "current_heading": "Five Melachot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Korban Pesach",
+    "candidates": [
+      "Same Principle",
+      "Effort or Deeper",
+      "Korban Pesach",
+      "Religious Purpose",
+      "Omer Warranted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about whether Rabbi Yishmael and Rabbi Yishmael son of Rabbi Yochanan ben Beroka share the same principle regarding the korban Pesach flaying, including the baraita, the initial equation, and the gemara's challenges to that equation \u2014 all of which the 'Korban Pesach' prose explicitly describes as its content.",
+      "chosen_heading": "Korban Pesach",
+      "current_heading": "Korban Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163
+    ],
+    "current_heading": "Omer Warranted",
+    "candidates": [
+      "Religious Purpose",
+      "Omer Warranted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All 8 items form a continuous Talmudic discussion about whether Rabbi Yishmael's principle (minimizing Shabbat labor when possible) aligns with other Tannaim, directly relevant to the 'Omer Warranted' section's discussion of whether Rabbi Ishmael's ruling about using three vs. five se'im on Shabbat coheres with other positions.",
+      "chosen_heading": "Omer Warranted",
+      "current_heading": "Omer Warranted",
+      "moved": false
+    }
+  }
+]

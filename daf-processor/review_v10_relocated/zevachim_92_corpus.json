@@ -1,0 +1,497 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shmuel's Wine Ruling",
+    "candidates": [
+      "Shmuel's Wine Ruling",
+      "Fire Extinguishing Issue",
+      "Constant Fire Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Shmuel's ruling about voluntary wine offerings being sprinkled on the flames and the initial challenge about extinguishing, which matches the current heading's prose describing Shmuel's position and its scriptural basis.",
+      "chosen_heading": "Shmuel's Wine Ruling",
+      "current_heading": "Shmuel's Wine Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Constant Fire Principle",
+    "candidates": [
+      "Fire Extinguishing Issue",
+      "Constant Fire Principle",
+      "Trumas Ha-Deshen",
+      "Mitzvah Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 1's prose: the challenge from Rav Na\u1e25man/Rabbah bar Avuha about extinguishing a coal, the clarification that it refers to the only coal on the altar, and the alternative answer that kibuy de-mitzvah shani \u2014 all of which are explicitly discussed in the 'Constant Fire Principle' section.",
+      "chosen_heading": "Constant Fire Principle",
+      "current_heading": "Constant Fire Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Mitzvah Context",
+    "candidates": [
+      "Trumas Ha-Deshen",
+      "Mitzvah Context",
+      "Contradictory Braisas",
+      "Rabbi Shimon Position",
+      "Intention in Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita challenge about trumas ha-deshen (Rabbi Eliezer ben Ya'akov) and its resolution, which is exactly what heading 0 ('Trumas Ha-Deshen') describes in its prose, while the current placement under 'Mitzvah Context' actually describes only the Gemara's answer/distinction that follows.",
+      "chosen_heading": "Trumas Ha-Deshen",
+      "current_heading": "Mitzvah Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Intention in Violation",
+    "candidates": [
+      "Contradictory Braisas",
+      "Rabbi Shimon Position",
+      "Intention in Violation",
+      "Purpose vs. Consequence",
+      "Two Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the ta shema challenge citing the baraitot about wine going to the basins versus the flames, which directly corresponds to the 'Contradictory Braisas' section prose describing exactly this ta shema and the baraita's reasoning from lo yechabeh.",
+      "chosen_heading": "Contradictory Braisas",
+      "current_heading": "Intention in Violation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Two Positions",
+    "candidates": [
+      "Purpose vs. Consequence",
+      "Two Positions",
+      "Rav Huna Ruling",
+      "Temple Burning Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about Shmuel holding two independent positions \u2014 like Rabbi Shimon on eino miskavein and like Rabbi Yehuda on melacha she'eina tzricha legufa \u2014 which is precisely what candidate 1 ('Two Positions') describes in its prose.",
+      "chosen_heading": "Two Positions",
+      "current_heading": "Two Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Temple Burning Rules",
+    "candidates": [
+      "Rav Huna Ruling",
+      "Temple Burning Rules",
+      "Rashi's Reasoning",
+      "Public Announcement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Huna's ruling about impure nesachim being burned on a separate arrangement, plus the confirming baraita \u2014 which is precisely what the 'Rav Huna Ruling' prose describes, making it the clearest match.",
+      "chosen_heading": "Rav Huna Ruling",
+      "current_heading": "Temple Burning Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Public Announcement",
+    "candidates": [
+      "Rashi's Reasoning",
+      "Public Announcement",
+      "Scriptural Source",
+      "Extending to All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records Shmuel's instruction to Rav \u1e24ana of Baghdad to gather ten people for a public announcement about burning impure nesachim on a separate fire, which is precisely what the 'Public Announcement' section's prose describes and analyzes.",
+      "chosen_heading": "Public Announcement",
+      "current_heading": "Public Announcement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Extending to All",
+    "candidates": [
+      "Scriptural Source",
+      "Extending to All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The Hadr\u00e1n formula marks the end of a chapter/tractate and doesn't clearly match either candidate's prose; the current placement is retained by default given no clearly better match.",
+      "chosen_heading": "Extending to All",
+      "current_heading": "Extending to All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Extending to All",
+    "candidates": [
+      "Extending to All",
+      "Invalid Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses extending the laundering requirement to all sin offerings via 'Torat HaChatas,' which is exactly what the 'Extending to All' section's prose describes.",
+      "chosen_heading": "Extending to All",
+      "current_heading": "Extending to All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Invalid Blood",
+    "candidates": [
+      "Invalid Blood",
+      "Inclusion Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnah's ruling on disqualified sin offerings (chatas pesulah) and their categories of having or not having a period of fitness, which is precisely what the 'Invalid Blood' section's prose describes.",
+      "chosen_heading": "Invalid Blood",
+      "current_heading": "Invalid Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Inclusion Question",
+    "candidates": [
+      "Inclusion Question",
+      "Limiting Word Zot",
+      "Reish Lakish View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the challenge and baraita discussed in the 'Inclusion Question' prose \u2014 the Gemara's question about bird sin offerings and the baraita that raises then counters that possibility \u2014 matching that section's content precisely.",
+      "chosen_heading": "Inclusion Question",
+      "current_heading": "Inclusion Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Reish Lakish View",
+    "candidates": [
+      "Limiting Word Zot",
+      "Reish Lakish View",
+      "The Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reish Lakish View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Reish Lakish's view that 'tishachet' limits the law to slaughtered offerings, which is precisely what the 'Reish Lakish View' prose describes.",
+      "second_heading": "The Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge that 'te'achel' equally limits the law to eaten offerings (excluding inner chata'ot), which is exactly what the 'The Problem' prose describes as the counter-argument exposing the tension between the two exclusions.",
+      "current_heading": "Reish Lakish View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "The Problem",
+    "candidates": [
+      "The Problem",
+      "Comparison Points",
+      "Seven Similarities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the challenge that bird sin offerings would also be included and the exclusionary response via 'zot,' which directly supports the prose in 'The Problem' about why bird chatat must be excluded on textual grounds.",
+      "chosen_heading": "The Problem",
+      "current_heading": "The Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Seven Similarities",
+    "candidates": [
+      "Comparison Points",
+      "Seven Similarities",
+      "Rav Yosef View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items enumerate the points of similarity between internal animal sin offerings and eaten animal sin offerings, then raise and dismiss the counter-argument for including bird sin offerings \u2014 precisely what candidate 1 ('Seven Similarities') describes in its prose.",
+      "chosen_heading": "Seven Similarities",
+      "current_heading": "Seven Similarities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rav Yosef View",
+    "candidates": [
+      "Rav Yosef View",
+      "Rava's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Yosef's derivation from 'yochlena' and the follow-up question about why 'zot' is needed, which is precisely what the 'Rav Yosef View' prose describes.",
+      "chosen_heading": "Rav Yosef View",
+      "current_heading": "Rav Yosef View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rava's Approach",
+    "candidates": [
+      "Rava's Approach",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Rabba's argument (item 1), the challenge from the baraita and its resolution (item 2), and the consequent correction of the Mishnah's word order (item 3) \u2014 all of which are explicitly described in candidate 0's prose about Rava's approach and the baraita's confirmation regarding 'asher yizeh' and merika ushtifa.",
+      "chosen_heading": "Rava's Approach",
+      "current_heading": "Rava's Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Rava Challenge",
+      "Blood in Neck"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same Gemara chain discussing why bird sin offerings are excluded from laundering while external sin offerings are included \u2014 exactly the content described in the 'Rava Challenge' prose about zot/torah exclusion/inclusion and the comparative points between inner and outer behemah chatat versus bird chatat.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Blood in Neck",
+    "candidates": [
+      "Blood in Neck",
+      "Neck as Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses whether the bird sin offering should be included in laundering requirements based on shared features (sprinkling) with internal sin offerings, which fits the 'Neck as Vessel' section's discussion of the bird chatat service and its analogies, not the 'Blood in Neck' section which discusses the specific question of invalidation when blood is brought into the heikhal.",
+      "chosen_heading": "Neck as Vessel",
+      "current_heading": "Blood in Neck",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Neck as Vessel",
+    "candidates": [
+      "Blood in Neck",
+      "Neck as Vessel",
+      "Thrashing Braisa",
+      "Intentional vs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Avin's question about a bird sin offering whose blood is brought inside in its neck \u2014 exactly what heading 0 ('Blood in Neck') describes \u2014 while the current placement under 'Neck as Vessel' covers the Gemara's framing of the two sides and the verse-based resolution, which comes after the initial question is posed.",
+      "chosen_heading": "Blood in Neck",
+      "current_heading": "Neck as Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Intentional vs",
+    "candidates": [
+      "Thrashing Braisa",
+      "Intentional vs",
+      "Outside Courtyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's rejection-by-analogy using the most-sacred-order animal that convulsed southward, which is precisely what the 'Intentional vs' section's prose describes as the mechanism for rejecting the implication that intentional action would invalidate.",
+      "chosen_heading": "Intentional vs",
+      "current_heading": "Intentional vs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Outside Courtyard",
+    "candidates": [
+      "Outside Courtyard",
+      "Spilled Blood",
+      "Direct vs. Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the 'went out to the outside' (yatzah lachutz) contrast \u2014 that the thrashing animal baraita's true purpose is to establish what happens when an animal exits beyond the courtyard, which matches exactly the 'Outside Courtyard' section's prose about the chiddush being that inadvertent exit outside the azara does not invalidate.",
+      "chosen_heading": "Outside Courtyard",
+      "current_heading": "Outside Courtyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Direct vs. Vessel",
+    "candidates": [
+      "Spilled Blood",
+      "Direct vs. Vessel",
+      "Rava Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Avin's question about blood that spilled onto the floor and whether it can be collected \u2014 this is exactly what heading 0 ('Spilled Blood') describes in its prose, whereas heading 1 describes the analytical framework used to resolve that question.",
+      "chosen_heading": "Spilled Blood",
+      "current_heading": "Direct vs. Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Rava Argument",
+    "candidates": [
+      "Direct vs. Vessel",
+      "Rava Argument",
+      "Air Space Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the structural question of whether the Torah's omission of a kli sharet means the bird's body substitutes for it (allowing collection) or means direct application is mandated (making collection invalid), which is precisely the 'deeper structural question' described in the 'Direct vs. Vessel' prose.",
+      "chosen_heading": "Direct vs. Vessel",
+      "current_heading": "Rava Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Air Space Principle",
+    "candidates": [
+      "Air Space Principle",
+      "Unresolved Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous unit: Rava's challenge (item 1) and Rav Huna's resolution via the 'affixing vessel to neck' scenario (item 2) are precisely what the 'Air Space Principle' prose describes \u2014 the bemadbi'a kli betzavara case explaining why the baraita's use of 'zot' is still needed despite the air-space disqualification principle.",
+      "chosen_heading": "Air Space Principle",
+      "current_heading": "Air Space Principle",
+      "moved": false
+    }
+  }
+]

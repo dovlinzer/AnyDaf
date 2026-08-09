@@ -39,7 +39,7 @@
           "timestamp": "08:08"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -282,8 +282,8 @@
           "timestamp": "54:26"
         }
       ],
-      "sefaria_index": 27,
-      "matched": true
+      "sefaria_index": 29,
+      "matched": false
     },
     {
       "title": "Rabbinic Prohibition on Nissuin While Ketana and Bogeret Status (continued)",
@@ -296,7 +296,7 @@
           "timestamp": "55:21"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 29,
       "matched": false
     },
     {
@@ -310,7 +310,7 @@
           "timestamp": "56:14"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 29,
       "matched": false
     }
   ],
@@ -579,5 +579,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "09:34",
+  "amud_b_micro_title": "Tanya 3 Views",
+  "shiur_start_daf": 56,
+  "shiur_start_amud": "a"
 }

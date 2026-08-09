@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Yosef Explanation",
+    "candidates": [
+      "Opening Review",
+      "General Principle",
+      "Mishnah Text",
+      "Rav Yosef Explanation",
+      "Abaye Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita text (hamotzi shtar chov) and Rav Yosef's explanation, but the 'Mishnah Text' heading's prose explicitly describes this baraita and notes 'the Gemara will address the underlying dispute,' suggesting the entire quoted passage \u2014 including Rav Yosef's clarification \u2014 belongs under that heading as the primary text being introduced, while 'Rav Yosef Explanation' is a separate analytical section in the essay's prose that discusses the content rather than presenting the source text.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Rav Yosef Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Abaye Alternative",
+    "candidates": [
+      "Rav Yosef Explanation",
+      "Abaye Alternative",
+      "Unauth. Writ Scenario",
+      "Rava Receipt Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Abaye's position \u2014 that everyone agrees retaining a paid shtar is forbidden, and the dispute concerns whether a debtor who admits writing the note still requires ratification \u2014 which matches precisely the 'Abaye Alternative' prose description of 'kulei alma assur lish-ho'os shtar parua' and 'modeh bi-shtar she-k'tavo tzarich l'kaymo kamipalgi'.",
+      "chosen_heading": "Abaye Alternative",
+      "current_heading": "Abaye Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rava Receipt Debate",
+    "candidates": [
+      "Unauth. Writ Scenario",
+      "Rava Receipt Debate",
+      "Value w/o Receipt",
+      "Rav Ashi Value",
+      "Rava's Question",
+      "Nachman's Answer",
+      "Untanned Leather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's receipt dispute explanation and Rav Ashi's rationale about showing the paid shtar to a second creditor, and the 'Rav Ashi Value' section's prose explicitly discusses Rav Ashi's statement about needing to show the document to a second creditor as proof of creditworthiness \u2014 making it the better home for this combined passage, especially since the 'Rava Receipt Debate' prose already covers Rava's position in detail without needing the actual Gemara text placed there.",
+      "chosen_heading": "Rav Ashi Value",
+      "current_heading": "Rava Receipt Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Untanned Leather",
+    "candidates": [
+      "Value w/o Receipt",
+      "Rav Ashi Value",
+      "Rava's Question",
+      "Nachman's Answer",
+      "Untanned Leather",
+      "No Tan Plans",
+      "Thread Processing Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly Rava's question to Rav Nachman about the shiur for carrying out hide, his answer citing the mishna, and the follow-up questions about tanning \u2014 the entire exchange initiated by Rava's dilemma, which is what heading 2 ('Rava's Question') introduces, with headings 3 and 4 covering the subsequent answers that are part of the same continuous Talmudic exchange best anchored under the opening question.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Untanned Leather",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Thread Processing Proof",
+    "candidates": [
+      "No Tan Plans",
+      "Thread Processing Proof",
+      "Dye Challenge",
+      "Bothering Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the thread-processing Mishnah proof (the bulk of the text, proving that pre-processed material is measured by its finished-stage shiur) and the brief 'lo shna' answer about untanned hide, and the current heading's prose explicitly covers both elements in sequence.",
+      "chosen_heading": "Thread Processing Proof",
+      "current_heading": "Thread Processing Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Bothering Standard",
+    "candidates": [
+      "Dye Challenge",
+      "Bothering Standard",
+      "Seeds Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge (objection about soaked vs. unsoaked herbs showing different shiurim) and the answer (Rav Na\u1e25man's resolution), and candidate 0 'Dye Challenge' covers the full arc of this exchange including the challenge and the apparent contradiction, while candidate 1 'Bothering Standard' covers the conceptual analysis derived from that answer \u2014 the passage itself should sit under the heading that introduces the challenge, which is candidate 0.",
+      "chosen_heading": "Dye Challenge",
+      "current_heading": "Bothering Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Seeds Example",
+    "candidates": [
+      "Bothering Standard",
+      "Seeds Example",
+      "Plaster Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses garden seeds before and after sowing, with Rav Pappa's explanation that nobody bothers carrying out a single seed for planting, which is precisely what the 'Seeds Example' prose describes.",
+      "chosen_heading": "Seeds Example",
+      "current_heading": "Seeds Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Plaster Example",
+    "candidates": [
+      "Plaster Example",
+      "Three Types",
+      "Matza Weight Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses clay/plaster (tit), waste water (shofchin), the revi'it measure, and the pi kur opening \u2014 exactly matching the 'Plaster Example' prose description.",
+      "chosen_heading": "Plaster Example",
+      "current_heading": "Plaster Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Matza Weight Use",
+    "candidates": [
+      "Three Types",
+      "Matza Weight Use",
+      "Chipa Standard",
+      "Diftera Writing",
+      "Moist Hide Challenge",
+      "Process Stage Dist.",
+      "Cloth Comparisons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the full baraita about the three hides (matza/chifa/diftera) and then raise the challenge that matza's shiur (weight-wrapping) conflicts with Rav Nachman's ruling, followed by the answer 'hasam bevishula' \u2014 which is precisely what candidate 4 ('Moist Hide Challenge') describes as its topic.",
+      "chosen_heading": "Moist Hide Challenge",
+      "current_heading": "Matza Weight Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Cloth Comparisons",
+    "candidates": [
+      "Chipa Standard",
+      "Diftera Writing",
+      "Moist Hide Challenge",
+      "Process Stage Dist.",
+      "Cloth Comparisons",
+      "Boiled Leather",
+      "Two Parchments",
+      "Klaf Definition",
+      "Duchsustus Def.",
+      "Contradictory Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah about cloth/sack/hide minimum sizes for tumah and the Tosefta equating tumah and Shabbat carrying measures, then resolves the contradiction with 'hahu b'kurtovla' \u2014 exactly what the 'Cloth Comparisons' prose section describes.",
+      "chosen_heading": "Cloth Comparisons",
+      "current_heading": "Cloth Comparisons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Contradictory Braita",
+    "candidates": [
+      "Boiled Leather",
+      "Two Parchments",
+      "Klaf Definition",
+      "Duchsustus Def.",
+      "Contradictory Braita",
+      "Textual Fix",
+      "Physical Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the contradictory braita discussion described in candidate 4's prose: item 1 raises the contradiction and resolves 'mezuzah' as referring to tefillin scrolls, and item 2 raises the further inference problem and proposes the textual reconstruction \u2014 all of which is described in candidate 4's 'Contradictory Braita' section.",
+      "chosen_heading": "Contradictory Braita",
+      "current_heading": "Contradictory Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Physical Structure",
+    "candidates": [
+      "Textual Fix",
+      "Physical Structure",
+      "Rav's Claim",
+      "Switching Forbidden",
+      "Reconcile Switch",
+      "Tanna Dispute",
+      "Menashe Braita",
+      "Subject ID",
+      "Proof Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of Rav's claim that duchsustus has the same status as klaf for tefillin \u2014 item 1 presents Rav's ruling and the baraita challenge (halacha le-Moshe mi-Sinai), and item 2 continues with further challenges and resolutions including Rav Pappa's identification of Rav with the tanna de-vei Menashe, all of which is precisely what candidate 2 ('Rav's Claim') describes in its prose.",
+      "chosen_heading": "Rav's Claim",
+      "current_heading": "Physical Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Proof Attempt",
+    "candidates": [
+      "Rav's Claim",
+      "Switching Forbidden",
+      "Reconcile Switch",
+      "Tanna Dispute",
+      "Menashe Braita",
+      "Subject ID",
+      "Proof Attempt",
+      "Correction",
+      "Rav Reinterp.",
+      "Tosafot Modern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items deal with the Gemara's attempt to support Rav from the baraita about worn tefillin/Sefer Torah not being downgraded to mezuzah, the inference about parchment compatibility, and the rejection (klaf written for mezuzah), which matches exactly the prose of heading 7 ('Correction').",
+      "chosen_heading": "Correction",
+      "current_heading": "Proof Attempt",
+      "moved": true
+    }
+  }
+]

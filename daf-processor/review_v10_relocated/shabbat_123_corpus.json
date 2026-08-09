@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hammer & Nuts",
+    "candidates": [
+      "Hammer & Nuts",
+      "Mishna vs Rav Yehuda",
+      "Rava's Position",
+      "Beit Shammai/Hillel",
+      "Post-Use Restriction",
+      "Rabbi Nechemia",
+      "Fragrance/Gold Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the eitivei citing the Beit Shammai/Beit Hillel dispute about the pestle/ali, which is precisely what the 'Beit Shammai/Hillel' section prose describes.",
+      "chosen_heading": "Beit Shammai/Hillel",
+      "current_heading": "Hammer & Nuts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Fragrance/Gold Tools",
+    "candidates": [
+      "Mishna vs Rav Yehuda",
+      "Rava's Position",
+      "Beit Shammai/Hillel",
+      "Post-Use Restriction",
+      "Rabbi Nechemia",
+      "Fragrance/Gold Tools",
+      "Tool Gradation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rabba initially considering Rabbi Nechemia's approach but abandoning it upon hearing Rav \u1e24inana bar Shelemya's ruling \u2014 this is precisely the transition the 'Rabbi Nechemia' section's prose describes: 'The Gemara, however, moves past this resolution upon hearing a report in the name of Rav.'",
+      "chosen_heading": "Rabbi Nechemia",
+      "current_heading": "Fragrance/Gold Tools",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Tool Gradation",
+    "candidates": [
+      "Fragrance/Gold Tools",
+      "Tool Gradation",
+      "Spindles & Pokers",
+      "Fig in Straw"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the amoraic dispute between Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan and Rav Shemen bar Abba regarding the goldsmith's versus spice merchant's hammer, which is precisely the content described in the 'Tool Gradation' prose section.",
+      "chosen_heading": "Tool Gradation",
+      "current_heading": "Tool Gradation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Fig in Straw",
+    "candidates": [
+      "Spindles & Pokers",
+      "Fig in Straw",
+      "Wafer in Coals",
+      "Spearing Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fig in Straw",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about the fig in straw and cake in coals with the exposure rule, which matches the 'Fig in Straw' and 'Wafer in Coals' prose \u2014 but since it covers both cases together and the baraita is introduced as a unit, it best fits under 'Fig in Straw' which opens the baraita discussion.",
+      "second_heading": "Spearing Method",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Elazar ben Tadai's spindle/spearing solution and Rav Na\u1e25man's ruling that the halakha follows him, which is precisely what the 'Spearing Method' prose describes as tiltul min hatzad via insertion of a spindle.",
+      "current_heading": "Fig in Straw",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Spearing Method",
+    "candidates": [
+      "Wafer in Coals",
+      "Spearing Method",
+      "Rav Nachman Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nachman Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 directly continues the Rav Na\u1e25man ruling about tiltul min hatzad lo shemei tiltul, resolving a contradiction about his position on indirect movement \u2014 exactly what the 'Rav Nachman Ruling' prose discusses.",
+      "second_heading": "Spearing Method",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 open a new self-contained unit beginning with 'We learned in the mishna' about a needle (machut) whose eye or point was removed, an entirely different case about what qualifies as a vessel for Shabbat purposes, fitting the 'Spearing Method' section only loosely but clearly separated from the Rav Na\u1e25man tiltul discussion.",
+      "current_heading": "Spearing Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav Nachman Ruling",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Radish Orientation",
+      "Needle Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Rava's statement directly addresses whether a broken needle (one lacking its eye or point) is considered a 'kli' for purposes of ritual impurity and Shabbat, which is precisely the broken-needle/kli status discussion under the 'Needle Query' heading.",
+      "chosen_heading": "Needle Query",
+      "current_heading": "Rav Nachman Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Needle Query",
+    "candidates": [
+      "Radish Orientation",
+      "Needle Query",
+      "Abaye Challenge",
+      "Tumah vs Shabbat",
+      "Rava's Distinction",
+      "Rava's Distinction",
+      "Functional Status",
+      "Limb Straightening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita objection to Rava's position (that a broken needle is muktzah) showing that whether perforated or not the needle is permitted on Shabbat, which corresponds exactly to the prose in candidate 4 describing Rava's complication and this very tosefta/baraita ruling.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Needle Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Limb Straightening",
+    "candidates": [
+      "Abaye Challenge",
+      "Tumah vs Shabbat",
+      "Rava's Distinction",
+      "Rava's Distinction",
+      "Functional Status",
+      "Limb Straightening",
+      "Purgatives",
+      "Splinter Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Distinction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's interpretation of the tosefta in light of Rava's position \u2014 golmei, unfinished needles \u2014 which is precisely what candidate 2 ('Rava's Distinction') discusses.",
+      "second_heading": "Limb Straightening",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce the entirely new case of asuvei yanuka (aligning an infant's limbs), with Rav Nachman and Rav Sheshet disputing, which is the subject of candidate 5 ('Limb Straightening').",
+      "current_heading": "Limb Straightening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Splinter Analogy",
+    "candidates": [
+      "Purgatives",
+      "Splinter Analogy",
+      "Oleaster Stick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange between Rav Sheshet (citing the needle/splinter mishna as proof) and Rav Nachman's rebuttal (pakid vs. not pakid), which is precisely what the 'Splinter Analogy' prose discusses.",
+      "chosen_heading": "Splinter Analogy",
+      "current_heading": "Splinter Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Oleaster Stick",
+    "candidates": [
+      "Oleaster Stick",
+      "Rabbi Yosi",
+      "Expanded Vessels",
+      "Three Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Mishnah and Gemara about the olive-turning reed (kaneh shel zeitim) with its knot functioning as a receptacle, which is exactly what the 'Oleaster Stick' prose discusses in detail.",
+      "chosen_heading": "Oleaster Stick",
+      "current_heading": "Oleaster Stick",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Three Vessels",
+    "candidates": [
+      "Rabbi Yosi",
+      "Expanded Vessels",
+      "Three Vessels",
+      "Stage One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Mishna stating Rabbi Yosi's rule, Rav Nachman and Abaye's extensions of the plow-blade category, and the Tosefta's historical progression \u2014 are directly discussing Rabbi Yosi's principle and its application, matching candidate 0's prose perfectly, while the current placement under 'Three Vessels' only fits item 4.",
+      "chosen_heading": "Rabbi Yosi",
+      "current_heading": "Three Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Stage One",
+    "candidates": [
+      "Three Vessels",
+      "Stage One",
+      "Stage Two",
+      "Stage Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Gemara's question 'What are the stages: they permitted, and then they permitted, and then they permitted?' is a direct response to the Tosefta's progression described in the 'Three Vessels' section, which explicitly quotes 'hitiru v'chazru v'hitiru' and states that the Gemara turns to reconstructing these stages \u2014 making it a transitional question belonging under that heading rather than under Stage One which discusses Abaye's first answer.",
+      "chosen_heading": "Three Vessels",
+      "current_heading": "Stage One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Stage Three",
+    "candidates": [
+      "Stage Two",
+      "Stage Three",
+      "Stage Four",
+      "Gufo=Mekomo",
+      "Rava Stage 1",
+      "Rava Stage 2",
+      "Final Ruling",
+      "Definition",
+      "Conceptual Basis",
+      "Hammer Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stage Three",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's full reconstruction of the stages, which matches Stage 1-3 prose; it currently sits under Stage Three but its content spans all of Abaye's stages \u2014 however, since Stage Three's prose explicitly describes Abaye's position on kli shemelachto l'issur with one-hand/two-hand distinction, which is what Item 1 concludes with, Stage Three is the best single home for Abaye's complete statement.",
+      "second_heading": "Gufo=Mekomo",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's challenge to Abaye ('ma li l'tzorech gufo ma li l'tzorech mekomo') followed by Rava's own reconstruction, which matches exactly the 'Gufo=Mekomo' heading prose describing Rava's foundational objection and his alternative explanation.",
+      "current_heading": "Stage Three",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Hammer Example",
+    "candidates": [
+      "Stage Four",
+      "Gufo=Mekomo",
+      "Rava Stage 1",
+      "Rava Stage 2",
+      "Final Ruling",
+      "Definition",
+      "Conceptual Basis",
+      "Hammer Example",
+      "Crisis Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage about the mortar (medocha) with garlic and the 'mechama l'tzel' resolution is explicitly discussed in the 'Hammer Example' prose section, which directly references this mortar-and-pestle Gemara case and Rava's resolution.",
+      "chosen_heading": "Hammer Example",
+      "current_heading": "Hammer Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Crisis Context",
+    "candidates": [
+      "Crisis Context",
+      "Corrective Measure",
+      "Gradual Liberalization",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi \u1e24anina's statement about this Mishnah being taught in the days of Nehemiah and cites the verse about treading winepresses on Shabbat, which is precisely what the 'Crisis Context' prose discusses.",
+      "chosen_heading": "Crisis Context",
+      "current_heading": "Crisis Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Corrective Measure",
+      "Gradual Liberalization",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's statement about mishnayot taught before the permission of utensils, which is exactly what the 'Rabbi Eliezer' section's prose describes and discusses in detail.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  }
+]

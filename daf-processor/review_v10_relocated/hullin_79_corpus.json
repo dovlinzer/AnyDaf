@@ -1,0 +1,221 @@
+[
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Mule with Horse",
+    "candidates": [
+      "Father-Child Inclusion",
+      "Mother Focus Reasoning",
+      "Chosheim L'Zera Ha-Av",
+      "Halacha K'Chananya",
+      "Shmuel's Reasoning",
+      "Mishnah: Mules",
+      "R. Yehuda: No Father",
+      "Chachamim: Father Matters",
+      "Two Different Questions",
+      "Certain or Uncertain?",
+      "Mule with Horse",
+      "Female Mule In Heat",
+      "Unknown Parentage",
+      "Abaye: Voice",
+      "Rav Pappa: Ears & Tail",
+      "Mute & Mutilated",
+      "Rav Huna: All Agree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All 10 items form a continuous discussion about whether Rabbi Yehuda is certain or uncertain that one need not be concerned with paternity (chosheim l'zera ha-av), including the dilemma, its practical stakes, and the attempts to resolve it from the Mishnah and baraita \u2014 exactly what heading 9 ('Certain or Uncertain?') describes.",
+      "chosen_heading": "Certain or Uncertain?",
+      "current_heading": "Mule with Horse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rav Huna: All Agree",
+    "candidates": [
+      "Female Mule In Heat",
+      "Unknown Parentage",
+      "Abaye: Voice",
+      "Rav Pappa: Ears & Tail",
+      "Mute & Mutilated",
+      "Rav Huna: All Agree",
+      "Selecting Mules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the 'mai havi alah' question and Rav Huna's resolution that concludes Rabbi Yehuda is uncertain, which candidate 1 ('Unknown Parentage') explicitly describes as its content, including the phrase 'mai havi alah' and the unresolved question about Rabbi Yehuda's position.",
+      "chosen_heading": "Unknown Parentage",
+      "current_heading": "Rav Huna: All Agree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Selecting Mules",
+    "candidates": [
+      "Rav Huna: All Agree",
+      "Selecting Mules",
+      "Baraita on Kilayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly describe Rabbi Abba's instruction to his servant about selecting similar mules and the Gemara's inference that simanim operate by Torah law \u2014 exactly the content the 'Selecting Mules' prose discusses in detail.",
+      "chosen_heading": "Selecting Mules",
+      "current_heading": "Selecting Mules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Baraita on Kilayim",
+    "candidates": [
+      "Baraita on Kilayim",
+      "R. Eliezer: Domestic Only",
+      "Which Koy?",
+      "Mother Chaya Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita including both the Rabbis' ruling and Rabbi Eliezer's dissent and Rav \u1e24isda's clarification as a single unit, and the current heading's prose explicitly introduces and discusses all three components together as one baraita citation.",
+      "chosen_heading": "Baraita on Kilayim",
+      "current_heading": "Baraita on Kilayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Mother Chaya Exempt",
+    "candidates": [
+      "R. Eliezer: Domestic Only",
+      "Which Koy?",
+      "Mother Chaya Exempt",
+      "Father's Role in Koy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's dismissal of the 'doe as mother, goat as father' scenario based on Rav \u1e24isda's ruling that when the mother is a chaya (doe), all concede one is exempt from oso v'es beno, which is precisely what the 'Mother Chaya Exempt' section's prose describes.",
+      "chosen_heading": "Mother Chaya Exempt",
+      "current_heading": "Mother Chaya Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Father's Role in Koy",
+    "candidates": [
+      "Father's Role in Koy",
+      "Chachamim: Father Counts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father's Role in Koy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the exact Gemara passage that Candidate 0's prose explicitly analyzes \u2014 the deer-mates-with-goat case, Rav \u1e24isda's ruling, and the 'seh amar Rachmana u-vno kol dehu' principle are all paraphrased word-for-word in Candidate 0's prose.",
+      "second_heading": "Chachamim: Father Counts",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new resolution (goat mates with doe, female koy offspring then has its own offspring) which is the setup for the Chachamim/Rabbi Eliezer dispute about the father's role \u2014 precisely what Candidate 1's prose discusses.",
+      "current_heading": "Father's Role in Koy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Chachamim: Father Counts",
+    "candidates": [
+      "Chachamim: Father Counts",
+      "R. Eliezer: Father N/A",
+      "Koy Debate Purpose",
+      "Don't Slaughter Koy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's question-and-answer about why the Tannaim framed their dispute around the koy rather than directly debating chosheim l'zera ha-av, which is precisely what the 'Koy Debate Purpose' prose describes.",
+      "chosen_heading": "Koy Debate Purpose",
+      "current_heading": "Chachamim: Father Counts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Don't Slaughter Koy",
+    "candidates": [
+      "R. Eliezer: Father N/A",
+      "Koy Debate Purpose",
+      "Don't Slaughter Koy",
+      "Don't Cover Blood",
+      "Safek Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about not slaughtering a koy on Yom Tov and not covering its blood, which is exactly what the 'Don't Slaughter Koy' section's prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Don't Slaughter Koy",
+      "current_heading": "Don't Slaughter Koy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Safek Scenario",
+    "candidates": [
+      "Don't Cover Blood",
+      "Safek Scenario",
+      "Chachamim's Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together work through exactly the logic described in the 'Safek Scenario' prose: ruling out the goat-mother/deer-father case (item 1) and identifying the deer-father/goat-mother case as the genuine source of uncertainty (item 2), which matches the prose's explanation of why only the reverse parentage creates a real safek.",
+      "chosen_heading": "Safek Scenario",
+      "current_heading": "Safek Scenario",
+      "moved": false
+    }
+  }
+]

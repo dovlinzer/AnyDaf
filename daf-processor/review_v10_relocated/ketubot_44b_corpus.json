@@ -1,0 +1,444 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Reish Lakish's Source",
+    "candidates": [
+      "Overview & Ketubah",
+      "Mishnah Cases",
+      "Special Halachos",
+      "Reish Lakish's Source",
+      "Conception Non-Jewish",
+      "Limitation to Meisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is exactly the Gemara text where Reish Lakish derives the law from the word 'u-mesah,' which is precisely what section 3 ('Reish Lakish's Source') describes in its prose.",
+      "chosen_heading": "Reish Lakish's Source",
+      "current_heading": "Reish Lakish's Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Limitation to Meisa",
+    "candidates": [
+      "Conception Non-Jewish",
+      "Limitation to Meisa",
+      "Exclusion Logic",
+      "Rav Yose on Yesomah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's challenges about the scope of inclusion via u-mesah \u2014 whether it extends to fines/malkus, whether it covers horasah ve-liddasah bi-kdusha, and whether it covers horasah ve-liddasah she-lo bi-kdusha \u2014 which is precisely what the 'Limitation to Meisa' prose describes.",
+      "chosen_heading": "Limitation to Meisa",
+      "current_heading": "Limitation to Meisa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Yose on Yesomah",
+    "candidates": [
+      "Exclusion Logic",
+      "Rav Yose on Yesomah",
+      "Source Exclusion",
+      "Challenge from Mefateh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the verse 'venatenu le-avi ha-na'arah' with the exclusion 'prat lezo she-ein lah av,' which is precisely what the 'Source Exclusion' prose describes as Rav Yose bar Chanina's source and reasoning.",
+      "chosen_heading": "Source Exclusion",
+      "current_heading": "Rav Yose on Yesomah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Challenge from Mefateh",
+    "candidates": [
+      "Source Exclusion",
+      "Challenge from Mefateh",
+      "Obligation Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita challenge from the mefateh case using the double formulation ma'en yima'en to include an orphan for the fine, which is precisely what the 'Challenge from Mefateh' prose describes.",
+      "chosen_heading": "Challenge from Mefateh",
+      "current_heading": "Challenge from Mefateh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Obligation Timing",
+    "candidates": [
+      "Obligation Timing",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the objection-and-resolution formula and the specific case of 'had intercourse and afterward was orphaned,' which is precisely what the prose under 'Obligation Timing' explains in detail.",
+      "chosen_heading": "Obligation Timing",
+      "current_heading": "Obligation Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Betulat Yisrael",
+      "Reconciliation Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's ruling (chayav) and his derivation from Ami's teaching, which is precisely what the 'Rava's Position' prose describes \u2014 his disagreement with Rabbi Yosei bar \u1e24anina and his reasoning drawn from the teaching of Ami.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Reconciliation Logic",
+    "candidates": [
+      "Betulat Yisrael",
+      "Reconciliation Logic",
+      "Reish Lakish on Ketanah",
+      "Father-Based Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the 'i amarta bishlama' / 'ela i amarta' reconciliation logic about Jewish yesomah vs. convert that the prose of heading 1 explicitly describes and quotes.",
+      "chosen_heading": "Reconciliation Logic",
+      "current_heading": "Reconciliation Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Father-Based Exemption",
+    "candidates": [
+      "Reish Lakish on Ketanah",
+      "Father-Based Exemption",
+      "Rav Acha's Objection",
+      "Context & Execution",
+      "Linguistic Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reish Lakish on Ketanah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Reish Lakish's ruling that a defamer of a minor is exempt, which matches heading 0 ('Reish Lakish on Ketanah') whose prose describes exactly this teaching.",
+      "second_heading": "Rav Acha's Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Acha bar Abba's objection to Reish Lakish's derivation, which matches heading 2 ('Rav Acha's Objection') whose prose describes precisely this challenge about the execution context making the *hey* unnecessary.",
+      "current_heading": "Father-Based Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Linguistic Rule",
+    "candidates": [
+      "Rav Acha's Objection",
+      "Context & Execution",
+      "Linguistic Rule",
+      "Case 1: After Nisuin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage establishes the linguistic rule that 'na'ar' without a heh includes even a minor, which directly matches the 'Linguistic Rule' section's prose about the systematic indicator of presence/absence of the heh.",
+      "chosen_heading": "Linguistic Rule",
+      "current_heading": "Linguistic Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Case 1: After Nisuin",
+    "candidates": [
+      "Case 1: After Nisuin",
+      "Sekilah Location",
+      "Case 2: Becomes Bogerit",
+      "Shila's Position",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita of Sheila covering all three scenarios (witnesses in father-in-law's house, witnesses in father's house, and bagra), which is exactly what heading 0 ('Case 1: After Nisuin') introduces as the opening of Sheila's baraita \u2014 the subsequent headings deal with specific sub-analyses of those cases, but the baraita text itself belongs at its opening presentation under heading 0.",
+      "chosen_heading": "Case 1: After Nisuin",
+      "current_heading": "Case 1: After Nisuin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Sekilah Location",
+      "Case 2: Becomes Bogerit",
+      "Shila's Position",
+      "Braita Contradiction",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's contradiction from the baraita about the na'arah me'orasah who became a bogeret, and the internal emendation of 'she and her conspiring witnesses' \u2014 exactly what candidate 3's prose describes in detail.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Why Exception",
+      "Body Change Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement distinguishing motzi shem ra as a chiddush using the nesu'ah/sekilah example, which is precisely what the 'Rava's Resolution' prose describes and analyzes.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Body Change Criterion",
+    "candidates": [
+      "Why Exception",
+      "Body Change Criterion",
+      "Priest Korban Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the statement 'ki chidesh rachmana heicha de-lav ishtani gufa' which the Body Change Criterion prose explicitly quotes and analyzes, making it a clear match for that section.",
+      "chosen_heading": "Body Change Criterion",
+      "current_heading": "Body Change Criterion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Priest Korban Example",
+    "candidates": [
+      "Priest Korban Example",
+      "Rabbi Shimon vs. Tanna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about sinning before appointment and being treated as commoners, which is precisely what the 'Priest Korban Example' prose describes \u2014 the tanna kamma position from Horayot about chatu ad she-lo nitmanu, matching the current placement.",
+      "chosen_heading": "Priest Korban Example",
+      "current_heading": "Priest Korban Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rabbi Shimon vs. Tanna",
+    "candidates": [
+      "Rabbi Shimon vs. Tanna",
+      "Gemara's Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon's ruling about noda lahem before/after appointment, which is precisely what candidate 0's prose discusses and introduces.",
+      "chosen_heading": "Rabbi Shimon vs. Tanna",
+      "current_heading": "Rabbi Shimon vs. Tanna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Gemara's Difficulty",
+    "candidates": [
+      "Gemara's Difficulty",
+      "Execution Parallel",
+      "Rabbi Yochanan's Rewrite",
+      "Reconsideration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about whether Rabbi Shimon follows awareness vs. sin-time, culminating in the 'let him bring the current offering' argument (leitei korban ki de-hashtah), which is precisely the difficulty the prose in heading 0 describes.",
+      "chosen_heading": "Gemara's Difficulty",
+      "current_heading": "Gemara's Difficulty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Reconsideration",
+    "candidates": [
+      "Execution Parallel",
+      "Rabbi Yochanan's Rewrite",
+      "Reconsideration",
+      "Rabbi Ila: Na'arah",
+      "Rav Yitzchak Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Yo\u1e25anan instructing the tanna to rewrite the ruling to 'tidon be-sekilah,' which is precisely what candidate 1 ('Rabbi Yochanan's Rewrite') describes \u2014 the instruction to amend the braisa so punishment follows the time of the sin.",
+      "chosen_heading": "Rabbi Yochanan's Rewrite",
+      "current_heading": "Reconsideration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rav Yitzchak Resolution",
+    "candidates": [
+      "Rabbi Ila: Na'arah",
+      "Rav Yitzchak Resolution",
+      "Person/Act Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts exactly the exchange between Rabbi Chanina and Rabbi Ila (with mutual 'rachmana litzlan' retorts) that the Rav Yitzchak Resolution prose explicitly describes as the setup to the final resolution.",
+      "chosen_heading": "Rav Yitzchak Resolution",
+      "current_heading": "Rav Yitzchak Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Person/Act Logic",
+    "candidates": [
+      "Person/Act Logic",
+      "Father's Doorway",
+      "City Gate Alternative",
+      "Beis Din Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the punishment differs based on whether the relevant act (adultery vs. defamation) occurred when she was a na'arah or bogeret, which is precisely what the 'Person/Act Logic' prose section discusses.",
+      "chosen_heading": "Person/Act Logic",
+      "current_heading": "Person/Act Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Beis Din Alternative",
+    "candidates": [
+      "Father's Doorway",
+      "City Gate Alternative",
+      "Beis Din Alternative",
+      "Avodah Zarah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all three location rules (father's house, city gate, beis din) plus the avodah zarah parallel as a single unified teaching, and belongs under the first heading that introduces the stoning-location discussion \u2014 'Father's Doorway' \u2014 rather than being split mid-baraita under a later sub-heading.",
+      "chosen_heading": "Father's Doorway",
+      "current_heading": "Beis Din Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Avodah Zarah Parallel",
+    "candidates": [
+      "Beis Din Alternative",
+      "Avodah Zarah Parallel",
+      "Textual Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'from where are these matters derived' and presents the initial baraisa citing 'she'arecha' with the question of whether it means the gate where he worshipped or where he was sentenced \u2014 this is precisely the opening of the derivation that candidate 1's prose describes as 'a question the gemara develops in full in the derivation that follows,' making it the setup question that belongs under 'Avodah Zarah Parallel' before the full derivation in candidate 2.",
+      "chosen_heading": "Avodah Zarah Parallel",
+      "current_heading": "Avodah Zarah Parallel",
+      "moved": false
+    }
+  }
+]

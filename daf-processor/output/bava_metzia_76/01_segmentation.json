@@ -96,7 +96,7 @@
           "timestamp": "12:02"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -173,7 +173,7 @@
           "timestamp": "31:00"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -207,7 +207,7 @@
           "timestamp": "45:51"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -231,7 +231,7 @@
           "timestamp": "51:08"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -265,7 +265,7 @@
           "timestamp": "55:47"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -519,5 +519,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "43:23",
+  "amud_b_micro_title": "Rav Ashi Distinction",
+  "shiur_start_daf": 76,
+  "shiur_start_amud": "a"
 }

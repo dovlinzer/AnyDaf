@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Karmelit as a Rabbinic Domain: Definition and Boundaries",
@@ -159,7 +159,7 @@
           "timestamp": "46:13"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -475,5 +475,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "24:16",
+  "amud_b_micro_title": "Ten-Tefach Limit",
+  "shiur_start_daf": 7,
+  "shiur_start_amud": "a"
 }

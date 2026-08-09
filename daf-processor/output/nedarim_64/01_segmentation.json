@@ -159,7 +159,7 @@
           "timestamp": "28:33"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -227,8 +227,8 @@
           "timestamp": "39:42"
         }
       ],
-      "sefaria_index": 8,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -561,5 +561,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "25:17",
+  "amud_b_micro_title": "Rava: Beit Din Undermined",
+  "shiur_start_daf": 64,
+  "shiur_start_amud": "a"
 }

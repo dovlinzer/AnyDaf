@@ -72,7 +72,7 @@
           "timestamp": "08:48"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -101,7 +101,7 @@
           "timestamp": "13:22"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -531,5 +531,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "31:01",
+  "amud_b_micro_title": "Five Fingers Solution",
+  "shiur_start_daf": 20,
+  "shiur_start_amud": "a"
 }

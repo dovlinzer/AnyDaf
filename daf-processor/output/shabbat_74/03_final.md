@@ -1,12 +1,9 @@
-# Shabbat 74 — Daf Yomi Shiur
-
+[DAF:73b]
 ## Overview: 39 Melachot
 
-### Daf Context
 
-> **Hebrew/Aramaic:** מִנְיָנָא לְמָה לִי? אָמַר רַבִּי יוֹחָנָן: שֶׁאִם עֲשָׂאָן כּוּלָּם בְּהֶעְלֵם אֶחָד — חַיָּיב עַל כׇּל אַחַת וְאַחַת.
->
-> **Translation:** We learned in the mishna that the primary categories of labor number forty-less-one. The Gemara asks: **Why do I need** this **tally? Rabbi Yoḥanan said:** The tally was included to teach **that if he performed all of** the prohibited labors **in** the course of **one lapse of awareness,** during which he was unaware of the prohibition involved, **he is liable for each and every one.**
+
+### Daf Context
 
 Today's *daf* is 74, though we begin in the middle of 73b, which we did not finish in the previous session. A few words of introduction are appropriate, because we have been spending considerable time building toward this *mishna*. The *mishna* lists the thirty-nine *melachot*, and the *gemara* had in fact quoted its opening line no fewer than six times before actually arriving at it — building anticipation, as it were — and then once more immediately upon reaching it. The *mishna* on 73a is thus the central location, the canonical listing of the thirty-nine categories of *melacha*.
 
@@ -14,7 +11,7 @@ As we work through the *gemara* examining each category in turn, we should note 
 
 ### Four Categories
 
-The thirty-nine *melachot* break down into four organizational categories. The process of making bread accounts for eleven *melachot*; making a garment accounts for thirteen; making a *klaf* — a type of parchment with writing upon it — accounts for nine; and the process of building a house accounts for the remaining group. Clothes, food, shelter, and, of course, books: that brings us to thirty-eight, with *hotza'ah* — carrying — standing apart as the thirty-ninth, not falling neatly into any of the preceding categories. The working assumption, which we will see operative throughout today's *gemara*, is that these categories are linked to what was done in the *mishkan*. Even though this is not precisely how the *mishkan*'s activities were categorized at the time, the *mishkan* serves as an organizing principle — a useful framework for thinking about those thirty-nine *melachot*.
+The thirty-nine *melachot* break down into four organizational categories. The process of making bread accounts for eleven *melachot*; making a garment accounts for thirteen; making a *klaf* — a type of parchment with writing upon it — accounts for nine; and the process of building a house accounts for the remaining group. Clothes, food, shelter, and, of course, books: that brings us to thirty-eight, with *hotza'ah* — carrying — standing apart as the thirty-ninth, not falling neatly into any of the preceding categories. The working assumption, which we will see operative throughout today's *gemara*, is that these categories are linked to what was done in the *mishkan*. Even though this is not precisely how the *mishkan*'s activities were categorized at the time, the *mishkan* serves as an organizing principle — a useful framework for thinking about those thirty-nine *melachot*. It is worth pausing to note, however, that this *mishkan*-based framing is not the only way the *gemara* has been read, a point the following discussion of the *Yereim*'s position will make clear.
 
 ### Yereim Position
 
@@ -32,19 +29,17 @@ When something is similar to its parent category both in form and in function, i
 
 ## Choresh
 
-### Choresh Definitions
 
-> **Hebrew/Aramaic:** תָּנָא: הַחוֹרֵשׁ וְהַחוֹפֵר וְהַחוֹרֵץ כּוּלָּן מְלָאכָה אַחַת הֵן.
->
-> **Translation:** A *tanna* **taught** in a *baraita* with regard to the labor of plowing: **One who plows, and one who digs, and one who makes a furrow** in the ground have **all** performed **one** type of **labor.**
+
+### Choresh Definitions
 
 The *gemara* cites a *braita*: *hachoresh vehachofer vehachoretz* — whether one makes a furrow, digs a ditch for the sake of planting, or carves out a narrow channel — *kulan melacha achat hen*, they are all one *melacha*. Notice that the *gemara* does not call these *toldot*; it calls them one *melacha*, because they are all essentially the same thing: working the ground in some way to make it softer and more appropriate for planting. The physical change in the earth — whatever its precise form — serves the function of making the ground more fit for growth.
 
+> **Hebrew/Aramaic:** וְהַחוֹרֵשׁ. תָּנָא: הַחוֹרֵשׁ וְהַחוֹפֵר וְהַחוֹרֵץ כּוּלָּן מְלָאכָה אַחַת הֵן. אָמַר רַב שֵׁשֶׁת: הָיְתָה לוֹ גַּבְשׁוּשִׁית וּנְטָלָהּ, בַּבַּיִת — חַיָּיב מִשּׁוּם בּוֹנֶה, בַּשָּׂדֶה — חַיָּיב מִשּׁוּם חוֹרֵשׁ. אָמַר רָבָא: הָיְתָה לוֹ גּוּמָּא וּטְמָמָהּ, בַּבַּיִת — חַיָּיב מִשּׁוּם בּוֹנֶה, בַּשָּׂדֶה — מִשּׁוּם חוֹרֵשׁ.
+> **Translation:** We learned in the mishna among those liable for performing primary categories of labor: **One who plows.** A *tanna* **taught** in a *baraita* with regard to the labor of plowing: **One who plows, and one who digs, and one who makes a furrow** in the ground have **all** performed **one** type of **labor. Rav Sheshet said: One who had a mound** of earth **and removed it in the house,** thereby evening the surface, **is liable due to** the labor of **building,** as he thereby engages in construction of the house. **In the field, he is liable due to** the labor of **plowing.** Similarly, **Rava said: One who had a hole and filled it, in the house he is liable due to** the labor of **building. In the field, he is liable due to** the labor of **plowing.**
+
 ### Ground Leveling
 
-> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: הָיְתָה לוֹ גַּבְשׁוּשִׁית וּנְטָלָהּ, בַּבַּיִת — חַיָּיב מִשּׁוּם בּוֹנֶה, בַּשָּׂדֶה — חַיָּיב מִשּׁוּם חוֹרֵשׁ. אָמַר רָבָא: הָיְתָה לוֹ גּוּמָּא וּטְמָמָהּ, בַּבַּיִת — חַיָּיב מִשּׁוּם בּוֹנֶה, בַּשָּׂדֶה — מִשּׁוּם חוֹרֵשׁ.
->
-> **Translation:** **Rav Sheshet said: One who had a mound** of earth **and removed it in the house,** thereby evening the surface, **is liable due to** the labor of **building,** as he thereby engages in construction of the house. **In the field, he is liable due to** the labor of **plowing.** Similarly, **Rava said: One who had a hole and filled it, in the house he is liable due to** the labor of **building. In the field, he is liable due to** the labor of **plowing.**
 
 Rav Sheshet then teaches: if one has a mound of earth — *gavshushit* — and removes it to level the ground, the *din* depends on context. *Bevayit chayav mishum boneh*: if it was done inside the house, where floors were made of dirt, one is liable for *boneh*, building, since leveling the floor is a significant part of the construction process. *Besadeh chayav mishum choresh*: if done out in the field, it constitutes *choresh*, plowing — even though plowing normally involves making a hole while here one is flattening something. The conceptual point is that one is working the ground, doing something to it that makes it more appropriate for planting. Whether that is a *toldah* or a parallel *av* is not entirely clear, but it is certainly within the *choresh* category when performed in the field.
 
@@ -54,8 +49,7 @@ Rava extends the analysis with a parallel case. If one levels the ground by fill
 
 ### Digging for Dirt
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא: הַחוֹפֵר גּוּמָּא בְּשַׁבָּת וְאֵינוֹ צָרִיךְ אֶלָּא לַעֲפָרָהּ — פָּטוּר עָלֶיהָ. וַאֲפִילּוּ לְרַבִּי יְהוּדָה, דְּאָמַר מְלָאכָה שֶׁאֵינָהּ צְרִיכָה לְגוּפָהּ חַיָּיב עָלֶיהָ — הָנֵי מִילֵּי מְתַקֵּן, הַאי — מְקַלְקֵל הוּא.
->
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא: הַחוֹפֵר גּוּמָּא בְּשַׁבָּת וְאֵינוֹ צָרִיךְ אֶלָּא לַעֲפָרָהּ — פָּטוּר עָלֶיהָ. וַאֲפִילּוּ לְרַבִּי יְהוּדָה, דְּאָמַר מְלָאכָה שֶׁאֵינָהּ צְרִיכָה לְגוּפָהּ חַיָּיב עָלֶיהָ — הָנֵי מִילֵּי מְתַקֵּן, הַאי — מְקַלְקֵל הוּא.
 > **Translation:** **Rabbi Abba said: One who digs a hole on Shabbat and** digs the hole **only** because he **needs its dirt is exempt for** that act, which is not the labor of digging prohibited on Shabbat by Torah law. **And even according to Rabbi Yehuda,** who **said** that in general one who performs **labor that is not necessary for its own sake,** i.e., he performs the labor for a purpose other than the direct result of that action, **is liable for it;** that ruling **applies only** to a purpose that is **constructive.** However, **this** purpose is **destructive,** as one performs an act that unnecessarily mars the surface of the ground. Therefore, Rabbi Yehuda would agree that in this case he is exempt.
 
 Rabbi Abba's teaching presents the classic case of *melacha she'eina tzricha legufa*: *hachofer guma b'Shabbat v'eino tzarich ela l'afrah* — one digs a hole on *Shabbat* but only wants the dirt. Perhaps one needed dirt to cover a mess on a dirt floor, or for some similar purpose. The ruling is *patur*: one is exempt. The *issur* attaches to digging the hole, so why is one exempt? Because this is *melacha she'eina tzricha legufa*. The person performed the exact physical act of digging, and an outside observer would see what looks entirely like a *melacha*. But one's goal was entirely different from the stated purpose of the *melacha* — the purpose as defined by how it was performed in the *mishkan*. Digging a hole is a *melacha* because its goal is either to build something in the house or to make something fit for planting. Here the person is wholly indifferent to the hole; the dirt is the object. Performing the physical act for an entirely different purpose renders one *patur*.
@@ -66,21 +60,19 @@ Now, this is normally the subject of the famous dispute between Rabbi Yehuda and
 
 ## Kotzer
 
-### Harvest Terms
 
-> **Hebrew/Aramaic:** תָּנָא: הַקּוֹצֵר, הַבּוֹצֵר, וְהַגּוֹדֵר וְהַמַּסִּיק, וְהָאוֹרֶה — כּוּלָּן מְלָאכָה אַחַת.
->
-> **Translation:** A *tanna* **taught** in a *Tosefta* with regard to the labor of reaping: **One who reaps,** and **one who picks** grapes, **and one who harvests** dates, **and one who collects** olives, **and one who gathers** figs have **all** performed **one** type of **labor,** as they all involve picking fruit.
+
+### Harvest Terms
 
 Moving to *kotzer* — harvesting. Having addressed planting and plowing, the *gemara* now turns to cutting growing things. *Kotzer* applies when one picks something that is growing specifically because one wants that thing. Pruning for wood, picking fruit off a tree — any act of detaching a growing thing because one desires it — falls under this category.
 
 The *gemara* teaches: *hakotzer, habotzer, v'hagoder, v'hamasik, ha'oreh* — whether one harvests wheat, harvests grapes, picks dates, picks olives, or picks figs — *kulam melacha achas hen*, they are all one *melacha*. Farmers use a different verb for every type of harvesting, but for our purposes these are all parallel forms of the same act. Crucially, the *gemara* does not call these *toldot* of one another; they are all parallel *avot*.
 
+> **Hebrew/Aramaic:** וְהַקּוֹצֵר. תָּנָא: הַקּוֹצֵר, הַבּוֹצֵר, וְהַגּוֹדֵר וְהַמַּסִּיק, וְהָאוֹרֶה — כּוּלָּן מְלָאכָה אַחַת. אָמַר רַב פָּפָּא: הַאי מַאן דִּשְׁדָא פִּיסָּא לְדִיקְלָא וְאַתַּר תַּמְרֵי חַיָּיב שְׁתַּיִם: אַחַת מִשּׁוּם תּוֹלֵשׁ, וְאַחַת מִשּׁוּם מְפָרֵק. רַב אָשֵׁי אָמַר: אֵין דֶּרֶךְ תְּלִישָׁה בְּכָךְ, וְאֵין דֶּרֶךְ פְּרִיקָה בְּכָךְ.
+> **Translation:** **And** we learned in the mishna, among those liable for performing primary categories of labor: **One who reaps. It was taught** in a *Tosefta* with regard to the labor of reaping: **One who reaps,** and **one who picks** grapes, **and one who harvests** dates, **and one who collects** olives, **and one who gathers** figs have **all** performed **one** type of **labor,** as they all involve picking fruit. **Rav Pappa said: One who threw a clod** of earth **at a palm tree and severed dates is liable to** bring **two** sin-offerings: **One due to severing,** which is a subcategory of the primary category of reaping; **and one for extracting,** which is a subcategory of the primary category of threshing, as he removes something edible, the date, from its cover, its cluster. **Rav Ashi said:** In that case, one is exempt, since **that is not the** typical **manner of severing, and that is not the** typical **manner of extracting,** and one who performs a labor in an atypical manner is exempt.
+
 ### Throwing at Dates
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: הַאי מַאן דִּשְׁדָא פִּיסָּא לְדִיקְלָא וְאַתַּר תַּמְרֵי חַיָּיב שְׁתַּיִם: אַחַת מִשּׁוּם תּוֹלֵשׁ, וְאַחַת מִשּׁוּם מְפָרֵק. רַב אָשֵׁי אָמַר: אֵין דֶּרֶךְ תְּלִישָׁה בְּכָךְ, וְאֵין דֶּרֶךְ פְּרִיקָה בְּכָךְ.
->
-> **Translation:** **Rav Pappa said: One who threw a clod** of earth **at a palm tree and severed dates is liable to** bring **two** sin-offerings: **One due to severing,** which is a subcategory of the primary category of reaping; **and one for extracting,** which is a subcategory of the primary category of threshing, as he removes something edible, the date, from its cover, its cluster. **Rav Ashi said:** In that case, one is exempt, since **that is not the** typical **manner of severing, and that is not the** typical **manner of extracting,** and one who performs a labor in an atypical manner is exempt.
 
 Rav Pappa introduces a striking case: *hai man d'shada pissa l'dikla v'atar tamrei* — someone throws a clump of earth or a rock at a palm tree and the dates fall. *Chayav shtayim* — this person has incurred liability for two *melachot*, and if done *beshogeg*, one would bring two *korbanot*. What are the two? *Achat mishum tolesh v'achat mishum mefarek*.
 
@@ -102,19 +94,21 @@ This sets up an important and recurring tension between Rav Pappa and Rav Ashi a
 
 ## Me'amer
 
+
+
 ### Gathering Definition
 
 The *gemara* continues with *me'amer* — gathering. Having cut the grain, one now gathers it, much as in Yosef's dream. The question of what exactly this *melacha* prohibits is more nuanced than it might initially appear. Does it cover any act of gathering scattered items together? If your children scatter their toys, may you not collect them?
 
-### Salt Gathering
+> **Hebrew/Aramaic:** וְהַמְעַמֵּר. אָמַר רָבָא: הַאי מַאן דְּכָנֵיף מִילְחָא מִמִּלְחֲתָא חַיָּיב מִשּׁוּם מְעַמֵּר. אַבָּיֵי אָמַר: אֵין עִימּוּר אֶלָּא בְּגִידּוּלֵי קַרְקַע.
+> **Translation:** **And** we learned in the mishna, among those liable for performing primary categories of labor: **One who gathers. Rava said: One who gathers salt from salt pools is liable due to** the labor of **gathering,** as he gathers a substance from the field into a pile. **Abaye said:** That is not so, as the prohibition of **gathering** by Torah law applies **only to** produce **that grows from the ground.**
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: הַאי מַאן דְּכָנֵיף מִילְחָא מִמִּלְחֲתָא חַיָּיב מִשּׁוּם מְעַמֵּר. אַבָּיֵי אָמַר: אֵין עִימּוּר אֶלָּא בְּגִידּוּלֵי קַרְקַע.
->
-> **Translation:** **Rava said: One who gathers salt from salt pools is liable due to** the labor of **gathering,** as he gathers a substance from the field into a pile. **Abaye said:** That is not so, as the prohibition of **gathering** by Torah law applies **only to** produce **that grows from the ground.**
+### Salt Gathering
 
 Rava addresses the case: *hai man de-khanif milkha mi-milkhasa* — someone gathers salt from a salt flat, a place where seawater is dried to extract the salt that spreads across a large area, which is then gathered into piles. This is strikingly similar to gathering grain: something has been produced by a drying or separating process, it lies spread out, and one gathers it together. Rava rules: *chayav mishum me'amer* — one is liable for gathering.
 
 ### Ground Growth Only
+
 
 Abaye, however, limits this: *ein imur ela b'gidulei karka* — *me'amer* applies only to things that grow from the ground. This is an important limitation that we sometimes apply and sometimes do not across different *melachot*. We already encountered the question regarding *mefarek* and *dash* — do they apply to milking cows, which does not involve *gidulei karka*? Here, at least for *me'amer*, Abaye explicitly limits the *melacha* to things growing from the ground. Salt, even though its gathering is functionally similar — it is a food substance, it undergoes a processing stage, and then one gathers it — is not *gidulei karka* and therefore does not carry the *issur* of *me'amer*.
 
@@ -128,11 +122,12 @@ One useful practical resource here is the illustrated *39 Melachos* set, which p
 
 ## Dash & Combing
 
+
+
 ### Threshing Types
 
-> **Hebrew/Aramaic:** תָּנָא: הַדָּשׁ, וְהַמְנַפֵּץ, וְהַמְנַפֵּט — כּוּלָּן מְלָאכָה אַחַת הֵן.
->
-> **Translation:** A *tanna* **taught** in a *Tosefta*: **One who threshes, and one who beats** flax to remove it from the hard cover of its stalk, **and one who strikes** a cotton plant to remove the cotton seeds have **all** performed **one** type of **labor.**
+> **Hebrew/Aramaic:** וְהַדָּשׁ. תָּנָא: הַדָּשׁ, וְהַמְנַפֵּץ, וְהַמְנַפֵּט — כּוּלָּן מְלָאכָה אַחַת הֵן.
+> **Translation:** **And** we learned in the mishna, among those liable for performing primary categories of labor: **One who threshes.** A *tanna* **taught** in a *Tosefta*: **One who threshes, and one who beats** flax to remove it from the hard cover of its stalk, **and one who strikes** a cotton plant to remove the cotton seeds have **all** performed **one** type of **labor.**
 
 The *gemara* continues with *dash*, threshing. Animals would be driven over a board fitted with cleats, pressing down on the stalks of grain to extract the kernel from the husk. A *tanna* teaches: *ha-dash, ha-menapeitz, v'ha-menafet* — whether one threshes grain, combs flax to remove its seeds, or combs cotton to remove its seeds — *kuleihu melacha achas hen*, they are all one *melacha*.
 
@@ -146,23 +141,26 @@ Rashi raises the question directly: why are *menapeitz* and *menafet* not treate
 
 ## Separation Melachot
 
-### Three Separation Methods
 
-> **Hebrew/Aramaic:** הַזּוֹרֶה, הַבּוֹרֵר, וְהַטּוֹחֵן, וְהַמְרַקֵּד. הַיְינוּ זוֹרֶה, הַיְינוּ בּוֹרֵר, הַיְינוּ מְרַקֵּד. אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: כׇּל מִילְּתָא דַּהֲוַאי בְּמִשְׁכָּן, אַף עַל גַּב דְּאִיכָּא דְּדָמְיָא לַהּ — חָשֵׁיב לַהּ.
->
-> **Translation:** **And** we learned in the mishna, among those liable for performing primary categories of labor: **One who winnows, and one who selects, and one who grinds, and one who sifts.** The Gemara asks: The prohibited labor of **winnowing is the same as** the prohibited labor of **selecting,** which **is the same as** the prohibited labor of **sifting.** They are all identical in the manner in which they are performed and have the same objective: Separating food from the accompanying waste. Why was it necessary to list them all? An answer was provided by **Abaye and Rava, who both said** and established a principle: **Any manner** of labor **that was** performed **in the Tabernacle,** for the purposes of the Tabernacle, **even though there is** a different labor **that is similar to it,** the mishna **enumerated it.**
+
+### Three Separation Methods
 
 The *gemara* continues with three *melachot* that are all essentially ways of separating good from bad: *hazoreh*, winnowing — throwing threshed grain into the air so the wind carries off the chaff while the denser kernels fall; *haborer*, selecting by hand to remove dirt and debris; and *meraked*, sifting through a sieve. The *gemara* acknowledges the obvious: *hainu zoreh hainu borer hainu meraked* — winnowing, selecting, and sifting are all conceptually identical.
 
+> **Hebrew/Aramaic:** הַזּוֹרֶה, הַבּוֹרֵר, וְהַטּוֹחֵן, וְהַמְרַקֵּד. הַיְינוּ זוֹרֶה, הַיְינוּ בּוֹרֵר, הַיְינוּ מְרַקֵּד. אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: כׇּל מִילְּתָא דַּהֲוַאי בְּמִשְׁכָּן,
+> **Translation:** **And** we learned in the mishna, among those liable for performing primary categories of labor: **One who winnows, and one who selects, and one who grinds, and one who sifts.** The Gemara asks: The prohibited labor of **winnowing is the same as** the prohibited labor of **selecting,** which **is the same as** the prohibited labor of **sifting.** They are all identical in the manner in which they are performed and have the same objective: Separating food from the accompanying waste. Why was it necessary to list them all? An answer was provided by **Abaye and Rava, who both said** and established a principle: **Any manner** of labor **that was** performed **in the Tabernacle,** for the purposes of the Tabernacle,
+
 ### Mishkan Principle
+
+
 
 Abaye and Rava both respond with a unifying principle: *kol milta dehavya bamishkan, af al gav de-ika dedamya leh, chashiv leh* — anything that was a distinct process in the *mishkan*, even if there exist other activities similar to it, receives its own separate category. Each of these three processes — winnowing, selecting, and sifting — was performed as a distinct operation in the *mishkan*, and that is sufficient to grant each its own *melacha*, regardless of their conceptual overlap. Part of what seems to motivate this ruling is the need to account for thirty-nine distinct *melachot* — though the *gemara* has not yet said so explicitly.
 
+[DAF:74a]
 ### Kutesh Question
 
-> **Hebrew/Aramaic:** וְלִיחְשֹׁב נָמֵי כּוֹתֵשׁ! אָמַר אַבָּיֵי: שֶׁכֵּן עָנִי אוֹכֵל פִּתּוֹ בְּלֹא כְּתִישָׁה. רָבָא אָמַר: הָא מַנִּי — רַבִּי הִיא, דְּאָמַר אֲבוֹת מְלָאכוֹת אַרְבָּעִים חָסֵר אַחַת, וְאִי חָשֵׁיב כּוֹתֵשׁ הָוְיָא לֵיהּ אַרְבָּעִים. וְלַיפֵּיק חֲדָא מֵהָנָךְ וּלְעַיֵּיל כּוֹתֵשׁ! אֶלָּא מְחַוַּורְתָּא כִּדְאַבָּיֵי.
->
-> **Translation:** **And let him enumerate** the labor of **pounding as well,** as wheat was pounded to remove its outer kernel in the Tabernacle. **Abaye said:** The labor of pounding is not one of the essential stages in the baking of bread, **as paupers eat their bread without pounding** the wheat to remove the bran. Therefore, since the *tanna* enumerated threshing, there was no need to include pounding among the labors enumerated in the breadmaking process. **Rava said** a different explanation: **Who is** the *tanna* of **this** mishna? **It is Rabbi** Yehuda HaNasi, who **said:** The **primary categories of labor are forty-less-one,** a number derived from a textual allusion. Therefore, the list cannot be expanded. **And had** the *tanna* **enumerated pounding, there would be forty** labors rather than thirty-nine. The Gemara asks: **And let him take out one of these,** selecting or winnowing, **and insert pounding,** thereby leaving the number intact. **Rather,** the reason that the *tanna* did not include pounding **is clear, according to** the explanation of **Abaye.**
+> **Hebrew/Aramaic:** אַף עַל גַּב דְּאִיכָּא דְּדָמְיָא לַהּ — חָשֵׁיב לַהּ. וְלִיחְשֹׁב נָמֵי כּוֹתֵשׁ! אָמַר אַבָּיֵי: שֶׁכֵּן עָנִי אוֹכֵל פִּתּוֹ בְּלֹא כְּתִישָׁה. רָבָא אָמַר: הָא מַנִּי — רַבִּי הִיא, דְּאָמַר אֲבוֹת מְלָאכוֹת אַרְבָּעִים חָסֵר אַחַת, וְאִי חָשֵׁיב כּוֹתֵשׁ הָוְיָא לֵיהּ אַרְבָּעִים. וְלַיפֵּיק חֲדָא מֵהָנָךְ וּלְעַיֵּיל כּוֹתֵשׁ! אֶלָּא מְחַוַּורְתָּא כִּדְאַבָּיֵי.
+> **Translation:** **even though there is** a different labor **that is similar to it,** the mishna **enumerated it.** Every labor that was performed in the Tabernacle is significant. The Gemara asks: **And let him enumerate** the labor of **pounding as well,** as wheat was pounded to remove its outer kernel in the Tabernacle. **Abaye said:** The labor of pounding is not one of the essential stages in the baking of bread, **as paupers eat their bread without pounding** the wheat to remove the bran. Therefore, since the *tanna* enumerated threshing, there was no need to include pounding among the labors enumerated in the breadmaking process. **Rava said** a different explanation: **Who is** the *tanna* of **this** mishna? **It is Rabbi** Yehuda HaNasi, who **said:** The **primary categories of labor are forty-less-one,** a number derived from a textual allusion. Therefore, the list cannot be expanded. **And had** the *tanna* **enumerated pounding, there would be forty** labors rather than thirty-nine. The Gemara asks: **And let him take out one of these,** selecting or winnowing, **and insert pounding,** thereby leaving the number intact. **Rather,** the reason that the *tanna* did not include pounding **is clear, according to** the explanation of **Abaye.**
 
 If the principle is that anything done in the *mishkan* receives its own category, then *velichtov nami koteish* — why not also include *kotesh*, the pounding that removes the inner layer of bran from the wheat kernel after threshing but before the fine grinding? The process works as follows: threshing removes the outer husk; pounding removes the inner bran layer still attached to the kernel, yielding whiter flour; then fine grinding produces flour. So why not count *kotesh* as its own *melacha*?
 
@@ -172,7 +170,9 @@ Rashi adds a further observation: there is actually an ambiguity about which cat
 
 ### Thirty-Nine Limit
 
-The text above (in the blockquote for "Kutesh Question") addresses Rava's position on the fixed number of thirty-nine *melachot* and explains why the arithmetic alone is insufficient to explain the omission of *kotesh*.
+Rava offers a more fundamental answer: *hai mani Rebi hi, d'amar avot melachot arbayim chaser achas* — this *mishna* follows the view of Rebi, who holds there are exactly thirty-nine *melachot*. The number is not merely a convenient count — it is a fixed limit. *V'i chashiv kotesh havu lehu arbayim* — if *kotesh* were counted, there would be forty. Therefore it cannot be included.
+
+The *gemara* then presses: but if we have to reach exactly thirty-nine and cannot exceed it, why do we count three separate *melachot* for what is essentially one process of separation — *zoreh*, *borer*, and *meraked* — while including *kotesh* only once, or not at all? Rashi notes the asymmetry: if *kotesh* is a type of *tochen*, we have two types of *borer* and two types of *tochen*, yet the *gemara* assigned three to separation and one to grinding. Why not swap one of the three separation *melachot* for *kotesh*?
 
 The *gemara* concludes: *ela mechvarta ke'Abaye* — Abaye's answer is the better one. The reason *kotesh* is not counted is not primarily the arithmetic of thirty-nine, but the fact that it was not a universal step in the bread-making process. The arithmetic does play a role — the *gemara* acknowledges that we could have organized things differently and arrived at the same number — but the decisive factor is whether a step was universally performed. This does raise the broader question of whether the thirty-nine are an objective list or an organizational scheme that could have been constructed somewhat differently. The *gemara*'s discussion here suggests, perhaps uncomfortably, that both things are somewhat true.
 
@@ -182,11 +182,9 @@ One further note: Rashi comments that the bread-related *melachot* in the *mishk
 
 ## Borer Part 1
 
-### Borer Principle
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הָיוּ לְפָנָיו מִינֵי אוֹכָלִין — בּוֹרֵר וְאוֹכֵל, בּוֹרֵר וּמַנִּיחַ. וְלֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַאי קָאָמַר?
->
-> **Translation:** **The Sages taught** in a *baraita* with regard to the laws of selecting: **If there were** several **types of food before him,** and he wants to remove one or more from the mixture, **one selects and eats, selects and puts** aside. **And one may not select, and if one did select, he is liable to** bring **a sin-offering.** The Gemara asks: **What is** the *baraita* **saying?**
+
+### Borer Principle
 
 The *gemara* now moves to the *halachot* of *borer* in earnest. A *braita* teaches: if one had before him multiple types of foodstuffs — *borer v'ochel, borer u'maniach*, one may sort and eat, one may sort and set aside. *Velo yavor*: but do not do *borer*. *V'im beirer chayav chatas*: and if one did *borer*, one is liable to bring a sin offering. This is perplexing: it says one may sort and then says do not sort. The *gemara* immediately asks: *mai ka'amar*? What exactly is being said?
 
@@ -194,9 +192,8 @@ What the *braita* is missing is the key criterion: what distinguishes the permit
 
 ### Timing Criterion
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא, הָכִי קָאָמַר: בּוֹרֵר וְאוֹכֵל לְבוֹ בַּיּוֹם, וּבוֹרֵר וּמַנִּיחַ לְבוֹ בַּיּוֹם. וּלְמָחָר לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַתְקִיף לַהּ רַב חִסְדָּא: וְכִי מוּתָּר לֶאֱפוֹת לְבוֹ בַּיּוֹם? וְכִי מוּתָּר לְבַשֵּׁל לְבוֹ בַּיּוֹם?
->
-> **Translation:** **Ulla said: It is saying as follows: One selects and eats** if he is doing so **for** the purpose of **that day,** Shabbat. **And** he **selects and puts** aside food **for** the purpose of **that day. And one may not select** for the purpose of **the next day. And if one did select** for the next day, **he is liable to** bring **a sin-offering. Rav Ḥisda strongly objects to this** explanation: **And is it permitted to bake for that day, and is it permitted to cook for that day?** No other labor prohibited on Shabbat may be performed for the purpose of Shabbat, and the same should hold true for selecting.
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הָיוּ לְפָנָיו מִינֵי אוֹכָלִין — בּוֹרֵר וְאוֹכֵל, בּוֹרֵר וּמַנִּיחַ. וְלֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַאי קָאָמַר? אָמַר עוּלָּא, הָכִי קָאָמַר: בּוֹרֵר וְאוֹכֵל לְבוֹ בַּיּוֹם, וּבוֹרֵר וּמַנִּיחַ לְבוֹ בַּיּוֹם. וּלְמָחָר לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַתְקִיף לַהּ רַב חִסְדָּא: וְכִי מוּתָּר לֶאֱפוֹת לְבוֹ בַּיּוֹם? וְכִי מוּתָּר לְבַשֵּׁל לְבוֹ בַּיּוֹם?
+> **Translation:** **The Sages taught** in a *baraita* with regard to the laws of selecting: **If there were** several **types of food before him,** and he wants to remove one or more from the mixture, **one selects and eats, selects and puts** aside. **And one may not select, and if one did select, he is liable to** bring **a sin-offering.** The Gemara asks: **What is** the *baraita* **saying?** The end of this *baraita* contradicts the beginning. **Ulla said: It is saying as follows: One selects and eats** if he is doing so **for** the purpose of **that day,** Shabbat. **And** he **selects and puts** aside food **for** the purpose of **that day. And one may not select** for the purpose of **the next day. And if one did select** for the next day, **he is liable to** bring **a sin-offering. Rav Ḥisda strongly objects to this** explanation: **And is it permitted to bake for that day, and is it permitted to cook for that day?** No other labor prohibited on Shabbat may be performed for the purpose of Shabbat, and the same should hold true for selecting.
 
 Ulla says: *borer v'ocheil l'vo bayom* — one may sort if one will eat that day; *u'borer u'maniach l'vo bayom* — one may set aside if it will be eaten that day, which Tosafot explains means setting it aside for someone else who will eat it that day. *U'l'machar lo yivror*: but one may not sort for tomorrow. If one did sort for tomorrow, *chayav chatas* — one is liable.
 
@@ -206,19 +203,15 @@ The implicit logic behind Ulla's criterion — as Tosafot explains — is that s
 
 ### Quantity Criterion
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב חִסְדָּא: בּוֹרֵר וְאוֹכֵל פָּחוֹס מִכְּשִׁיעוּר, בּוֹרֵר וּמַנִּיחַ פָּחוֹס מִכְּשִׁיעוּר. וּכְשִׁיעוּר לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַתְקִיף לַהּ רַב יוֹסֵף: וְכִי מוּתָּר לֶאֱפוֹת פָּחוֹס מִכְּשִׁיעוּר?
->
-> **Translation:** **Rather, Rav Ḥisda said** it is to be understood as follows: **One selects and eats less than the measure** of a dried fig-bulk, which is the smallest amount for which one is liable by Torah law. One **selects and puts** aside **less than that measure. And one may not select the measure** of a dried fig-bulk, **and if one did select** that measure, **he is liable to** bring **a sin-offering. Rav Yosef strongly objects to this** explanation: **And is it permitted to bake less than the measure for liability** *ab initio*?
-
 Rav Chisda proposes instead: *borer v'ocheil pachas m'kishiur, borer u'maniach pachas m'kishiur* — one may sort less than the minimum *shiur*, i.e., less than the volume of a *grogeres* (a dried fig). *V'kishiur lo yivror* — do not sort the minimum amount or more. Rav Yosef challenges with the same question: *v'chi mutar l'afos pachas m'kishiur?* Does one bake less than a *shiur*? The criterion of quantity is likewise rejected. Rashi notes in passing that there is a question of *chatzi shiur* — a biblical prohibition of performing a *melacha* below the minimum — though its application to *melachot* as opposed to prohibited foods is debated.
 
 The underlying idea behind Rav Chisda's criterion — again, as Tosafot explains — was that a small quantity might be considered eating rather than preparation. But this too is rejected: the distinction between preparation and eating is not defined by quantity.
 
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב חִסְדָּא: בּוֹרֵר וְאוֹכֵל פָּחוֹת מִכְּשִׁיעוּר, בּוֹרֵר וּמַנִּיחַ פָּחוֹת מִכְּשִׁיעוּר. וּכְשִׁיעוּר לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַתְקִיף לַהּ רַב יוֹסֵף: וְכִי מוּתָּר לֶאֱפוֹת פָּחוֹת מִכְּשִׁיעוּר? אֶלָּא אָמַר רַב יוֹסֵף: בּוֹרֵר וְאוֹכֵל בַּיָּד, בּוֹרֵר וּמַנִּיחַ בַּיָּד. בְּקָנוֹן וּבְתַמְחוּי לֹא יִבְרוֹר, וְאִם בֵּירַר — פָּטוּר אֲבָל אָסוּר, וּבְנָפָה וּבִכְבָרָה לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת.
+> **Translation:** **Rather, Rav Ḥisda said** it is to be understood as follows: **One selects and eats less than the measure** of a dried fig-bulk, which is the smallest amount for which one is liable by Torah law. One **selects and puts** aside **less than that measure. And one may not select the measure** of a dried fig-bulk, **and if one did select** that measure, **he is liable to** bring **a sin-offering. Rav Yosef strongly objects to this** explanation: **And is it permitted to bake less than the measure for liability** *ab initio*? Although performing a prohibited labor on a minute measure does not engender liability, it is prohibited. Therefore, the *baraita* cannot be interpreted as saying that one may *ab initio* select an amount that is less than the measure for liability. **Rather, Rav Yosef said: One selects and eats by hand, selects and put** aside **by hand.** However, **with a basket [*kanon*] or with a plate,** both of which are large, flat vessels used for sorting sizeable quantities, **one may not select** *ab initio*. **And if he did select, he is exempt** from bringing a sin-offering if he did so unwittingly. If he did so intentionally he is exempt from stoning. **However, it is prohibited. And one may not select with a sieve or with a sifter. And if he did select** with those utensils, **he is liable to** bring **a sin-offering.**
+
 ### Method Criterion
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב יוֹסֵף: בּוֹרֵר וְאוֹכֵל בַּיָּד, בּוֹרֵר וּמַנִּיחַ בַּיָּד. בְּקָנוֹן וּבְתַמְחוּי לֹא יִבְרוֹר, וְאִם בֵּירַר — פָּטוּר אֲבָל אָסוּר, וּבְנָפָה וּבִכְבָרָה לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת.
->
-> **Translation:** **Rather, Rav Yosef said: One selects and eats by hand, selects and put** aside **by hand.** However, **with a basket [*kanon*] or with a plate,** both of which are large, flat vessels used for sorting sizeable quantities, **one may not select** *ab initio*. **And if he did select, he is exempt** from bringing a sin-offering if he did so unwittingly. If he did so intentionally he is exempt from stoning. **However, it is prohibited. And one may not select with a sieve or with a sifter. And if he did select** with those utensils, **he is liable to** bring **a sin-offering.**
 
 Rav Yosef proposes: *borer v'ocheil b'yad, borer u'maniach b'yad* — one may sort using one's hand. *B'kanun u'v'tamchui lo yivror* — one should not use a funnel or a large dish, which facilitates the sorting without being the professional tool; if one did, *patur aval assur* — exempt but prohibited, perhaps because of *shinui* or because it begins to resemble the professional act of *borer*. *U'vinfa u'v'khvara lo yivror* — one certainly should not use a sieve or sifter, the professional vessels for separation. If one uses such a vessel, *chayav chatas* — one is fully liable.
 
@@ -226,11 +219,11 @@ This criterion has considerable logical force: it distinguishes between *derech 
 
 Rav Hamnuna objects: *midi kanun v'tamchui tani?* The *braita* never mentioned a funnel or a large dish. Tosafot explains the objection: if there are to be three levels — *mutar*, *patur aval assur*, and *chayav chatas* — based on the specific type of vessel, the *braita* would need to have specified those vessels explicitly. Since it did not, this reading cannot be correct as a *peshat* of the *braita*, even if the underlying legal distinction is sound.
 
+> **Hebrew/Aramaic:** מַתְקִיף לַהּ רַב הַמְנוּנָא: מִידֵּי קָנוֹן וְתַמְחוּי קָתָנֵי? אֶלָּא אָמַר רַב הַמְנוּנָא: בּוֹרֵר וְאוֹכֵל אוֹכֶל מִתּוֹךְ הַפְּסוֹלֶת, בּוֹרֵר וּמַנִּיחַ אוֹכֶל מִתּוֹךְ הַפְּסוֹלֶת. פְּסוֹלֶת מִתּוֹךְ אוֹכֶל לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַתְקִיף לַהּ אַבָּיֵי: מִידֵּי אוֹכֶל מִתּוֹךְ פְּסוֹלֶת קָתָנֵי? אֶלָּא אָמַר אַבָּיֵי: בּוֹרֵר וְאוֹכֵל לְאַלְתַּר, וּבוֹרֵר וּמַנִּיחַ לְאַלְתַּר, וּלְבוֹ בַּיּוֹם — לֹא יִבְרוֹר, וְאִם בֵּירַר — נַעֲשָׂה כְּבוֹרֵר לָאוֹצָר וְחַיָּיב חַטָּאת. אַמְרוּהָ רַבָּנַן קַמֵּיהּ דְּרָבָא, אֲמַר לְהוּ: שַׁפִּיר אָמַר נַחְמָנִי.
+> **Translation:** **Rav Hamnuna strongly objects to this: Does** the mishna **teach anything** about **a basket or a plate?** Rav Yosef’s explanation is based on the addition of details that do not appear in the *baraita* either. **Rather, Rav Hamnuna said: One selects and eats** if he is removing **food from the waste,** and similarly, **selects and puts** aside if he is removing **food from the waste.** However, **one may not select waste from food, and if he did select** in that manner, **he is liable to** bring **a sin-offering.** The typical method of selecting is the removal of waste from the food. An individual who alters the procedure is not liable. **Abaye strongly objects to this: Does** the mishna **teach anything** about **food from waste?** That detail is not mentioned in the *baraita* either. **Rather, Abaye said: One selects and eats** if he is removing food for **immediate** use, and similarly **one selects and puts** aside for **immediate** use. However, **one may not select for** use later **that same day. And if he did select, he is considered like one who selects for storage, and he is liable to** bring **a sin-offering.** This explanation requires no emendation of the mishna. It is merely an interpretation of the phrase: One selects and eats, as referring to selecting for immediate use. The Gemara relates that **the Sages stated** Abaye’s explanation of the *baraita* **before Rava. He said to them: Naḥmani,** Abaye, **spoke well.**
+
 ### Immediacy Criterion
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר אַבָּיֵי: בּוֹרֵר וְאוֹכֵל לְאַלְתַּר, וּבוֹרֵר וּמַנִּיחַ לְאַלְתַּר, וּלְבוֹ בַּיּוֹם — לֹא יִבְרוֹר, וְאִם בֵּירַר — נַעֲשָׂה כְּבוֹרֵר לָאוֹצָר וְחַיָּיב חַטָּאת. אַמְרוּהָ רַבָּנַן קַמֵּיהּ דְּרָבָא, אֲמַר לְהוּ: שַׁפִּיר אָמַר נַחְמָנִי.
->
-> **Translation:** **Rather, Abaye said: One selects and eats** if he is removing food for **immediate** use, and similarly **one selects and puts** aside for **immediate** use. However, **one may not select** for use later **that same day. And if he did select, he is considered like one who selects for storage, and he is liable to** bring **a sin-offering.** This explanation requires no emendation of the mishna. It is merely an interpretation of the phrase: One selects and eats, as referring to selecting for immediate use. The Gemara relates that **the Sages stated** Abaye's explanation of the *baraita* **before Rava. He said to them: Naḥmani,** Abaye, **spoke well.**
 
 Abaye therefore proposes: *borer v'ochel l'alter u'borer u'maniach l'alter* — one may sort if eating immediately; *u'vo bayom lo yivror* — do not sort for later that day; *v'im birer, na'asah k'borer l'otzar* — if one did sort for later, one has done the paradigmatic act of *borer*: selecting into storage, an early stage of preparation. Anything beyond immediate is the biblical *borer*, and one is *chayav chatas*.
 
@@ -242,11 +235,9 @@ What exactly constitutes "immediate," *l'alter*? The general accepted definition
 
 ## Borer Part 2
 
-### Food vs. Chaff
 
-> **Hebrew/Aramaic:** אָמַר רַב הוּנָא: בּוֹרֵר וְאוֹכֵל אוֹכֶל מִתּוֹךְ הַפְּסוֹלֶת, בּוֹרֵר וּמַנִּיחַ אוֹכֶל מִתּוֹךְ הַפְּסוֹלֶת. פְּסוֹלֶת מִתּוֹךְ אוֹכֶל לֹא יִבְרוֹר, וְאִם בֵּירַר — חַיָּיב חַטָּאת. מַתְקִיף לַהּ אַבָּיֵי: מִידֵּי אוֹכֶל מִתּוֹךְ פְּסוֹלֶת קָתָנֵי?
->
-> **Translation:** The *baraita* does not settle on Abaye's criterion alone. Rav Huna now introduces the criterion of direction: **One who selects and eats, removes food from waste,** and **one who selects and puts aside, removes food from waste.** However, **one may not remove waste from food.** And **if one did, he is liable.** The logic here is that removing food from chaff mimics the natural manner of eating — one focuses on the food and takes it — while removing chaff from food is the professional manner of *borer*, the act of the one who selects and prepares produce for storage. The latter is precisely how grain was sorted in its early processing stages: the chaff was removed from the grain, not the grain from the chaff. Abaye objects: **Does the** *baraita* **teach anything** about **food from waste?**
+
+### Food vs. Chaff
 
 The *gemara* does not settle on Abaye's criterion alone. Rav Huna now introduces the criterion of direction: *borer v'ochel, ochel mitoch psoles* — one may sort food from chaff, removing the food and leaving the waste; *borer u'maniach, ochel mitoch psoles* — or one may set aside food for someone else, still removing the food from the waste. *Psoles mitoch ochel lo yivror* — however, one may not remove the chaff from the food; *v'im birer chayav chatas* — and if one did, one is liable.
 
@@ -256,9 +247,8 @@ Abaye objects: *midi ochel mitoch psoles katani?* The *braita* does not use the 
 
 ### Two Food Types
 
-> **Hebrew/Aramaic:** הָיוּ לְפָנָיו שְׁנֵי מִינֵי אוֹכָלִין, וּבֵירַר וְאָכַל, וּבֵירַר וְהִנִּיחַ. רַב אָשֵׁי מַתְנֵי: פָּטוּר, רַבִּי יִרְמְיָה מִדִּיפְתִּי מַתְנֵי: חַיָּיב. רַב אָשֵׁי מַתְנֵי פָּטוּר, וְהָא תָּנֵי חַיָּיב! לָא קַשְׁיָא: הָא בְּקָנוֹן וְתַמְחוּי, הָא בְּנָפָה וּכְבָרָה.
->
-> **Translation:** Until this point, the Gemara discussed selecting food from waste. The Gemara proceeds to discuss a different case. If **there were two types of foods before him, and he selected and ate** one type, **and selected and put** aside one type, **Rav Ashi taught:** He is **exempt. Rav Yirmeya from Difti taught:** He is **liable. Rav Ashi taught:** He is **exempt.** The Gemara asks: **Wasn't it taught** in a *baraita* that in that case **he is liable?** The Gemara answers: This is **not difficult: This,** where Rav Ashi said that he is exempt, is referring to a case where he selects **by** means of **a basket or a plate,** as that method of selecting is not considered expert work; and **that,** where the *baraita* said he is liable, is in a case where he selects **by** means of **a sieve or a sifter,** as that method of selecting is considered expert work.
+> **Hebrew/Aramaic:** הָיוּ לְפָנָיו שְׁנֵי מִינֵי אוֹכָלִין, וּבֵירַר וְאָכַל, וּבֵירַר וְהִנִּיחַ. רַב אָשֵׁי מַתְנֵי: פָּטוּר, רַבִּי יִרְמְיָה מִדִּיפְתִּי מַתְנֵי: חַיָּיב. רַב אָשֵׁי מַתְנֵי פָּטוּר, וְהָא תָּנֵי חַיָּיב! לָא קַשְׁיָא: הָא בְּקָנוֹן וְתַמְחוּי, הָא בְּנָפָה וּכְבָרָה.
+> **Translation:** Until this point, the Gemara discussed selecting food from waste. The Gemara proceeds to discuss a different case. If **there were two types of foods before him, and he selected and ate** one type, **and selected and put** aside one type, **Rav Ashi taught:** He is **exempt. Rav Yirmeya from Difti taught:** He is **liable. Rav Ashi taught:** He is **exempt.** The Gemara asks: **Wasn’t it taught** in a *baraita* that in that case **he is liable?** The Gemara answers: This is **not difficult: This,** where Rav Ashi said that he is exempt, is referring to a case where he selects **by** means of **a basket or a plate,** as that method of selecting is not considered expert work; and **that,** where the *baraita* said he is liable, is in a case where he selects **by** means of **a sieve or a sifter,** as that method of selecting is considered expert work.
 
 The *gemara* introduces a further complexity: what if one has two types of food before one — not food and chaff, but two perfectly edible items, one of which one happens not to want? The *gemara* reports a case: *hayu l'fanav shenei minei ochlin — borer v'achal, borer v'hiniach*. One sorted and ate; one sorted and set aside. Rav Ashi says *patur* — exempt; Rabbi Yirmeya mi-Difti says *chayav* — liable.
 
@@ -268,19 +258,21 @@ This is the crucial structural question underlying all of *borer*: are these cri
 
 ### Fruit Basket Story
 
-> **Hebrew/Aramaic:** כִּי אֲתָא רַב דִּימִי, אָמַר: שַׁבְּתָא דְּרַב בִּיבִי הֲוַאי, וְאִיקְּלַעוּ רַבִּי אַמֵּי וְרַבִּי אַסִּי, שְׁדָא קַמַּיְיהוּ כַּלְכַּלָּה דְפֵירֵי. וְלָא יָדַעְנָא אִי מִשּׁוּם דְּסָבַר אוֹכֶל מִתּוֹךְ פְּסוֹלֶת אָסוּר, אִי מִשּׁוּם עַיִן יָפָה הוּא דְּמִכַּוֵּין.
->
-> **Translation:** The Gemara relates that **when Rav Dimi came** from Eretz Yisrael to Babylonia **he said: It was the Shabbat** of **Rav Beivai** to serve food to the students, **and Rabbi Ami and Rabbi Asi happened** to come to his house. **He placed before them a basket of fruits** without removing the leaves and the stems. **And I do not know whether** he did so **because he holds** that it **is prohibited** to select **food from waste** when it is not for immediate consumption, **or whether** he did so **because he intended to** show **generosity to** his guests by creating the impression that the basket was full.
+> **Hebrew/Aramaic:** כִּי אֲתָא רַב דִּימִי, אָמַר: שַׁבְּתָא דְּרַב בִּיבִי הֲוַאי, וְאִיקְּלַעוּ רַבִּי אַמֵּי וְרַבִּי אַסִּי, שְׁדָא קַמַּיְיהוּ כַּלְכַּלָּה דְפֵירֵי. וְלָא יָדַעְנָא אִי מִשּׁוּם דְּסָבַר אוֹכֶל מִתּוֹךְ פְּסוֹלֶת אָסוּר, אִי מִשּׁוּם עַיִן יָפָה הוּא דְּמִכַּוֵּין.
+> **Translation:** The Gemara relates that **when Rav Dimi came** from Eretz Yisrael to Babylonia **he said: It was the Shabbat** of **Rav Beivai** to serve food to the students, **and Rabbi Ami and Rabbi Asi happened** to come to his house. **He placed before them a basket of fruits** without removing the leaves and the stems. **And I do not know whether** he did so **because he holds** that it **is prohibited** to select **food from waste** when it is not for immediate consumption, **or whether** he did so **because he intended to** show **generosity to** his guests by creating the impression that the basket was full. A fruit-filled basket conveys to the guests that there is plenty and that they may take as much as they wish. Therefore, there is no clear proof from this incident.
 
 The *gemara* relates a story involving Rav Bibi. It was his *Shabbat* of attendance — Rashi explains that it was his turn to see to the needs of the rabbis. Rabbi Ami and Rabbi Assi came to visit, and he placed before them a basket of fruit, *shada kammaihu kalkala de-firi*, pouring it out in front of them and letting them select for themselves. The *gemara* notes: *v'lo yadana* — we do not know the reason. Was it *im mishum de-savar ochel mi-toch psolet assur* — because he thought that even removing food from chaff is forbidden, and therefore he did not want to sort for them in advance? Or was it *mishum ayin yafa* — simply a generous gesture, allowing his guests to take what they liked?
 
 Tosafot offers a clarification: perhaps Rav Bibi thought that when the sorting is not *l'alter* — not immediate — even *ochel mitoch psoles* is forbidden. So he did not sort in advance because it would not have been immediate, and the guests sorted for themselves immediately as they ate. Whatever the precise reason, what is significant is what the story quietly demonstrates: all three criteria are still in play. The story follows directly on Abaye's ruling about immediacy, yet it invokes the *ochel mitoch psoles* distinction. Neither criterion has displaced the other.
 
+[DAF:74b]
 ### Lupine Exception
 
-> **Hebrew/Aramaic:** חִזְקִיָּה אָמַר: הַבּוֹרֵר תּוּרְמוֹסִים מִתּוֹךְ פְּסוֹלֶת שֶׁלָּהֶן — חַיָּיב. לֵימָא קָסָבַר חִזְקִיָּה אוֹכֶל מִתּוֹךְ פְּסוֹלֶת אָסוּר? שָׁאנֵי תּוּרְמוֹסָא, דְּשָׁלְקִי לֵיהּ שִׁבְעָא זִימְנֵי, וְאִי לָא שָׁקְלִי לֵיהּ מַסְרַח — וְכִפְסוֹלֶת מִתּוֹךְ אוֹכֶל דָּמֵי.
->
-> **Translation:** **Ḥizkiya said: One who selects lupines from their waste** after boiling them **is liable** for performing the prohibited labor of selecting. The Gemara asks: **Let us say,** based on this statement, that **Ḥizkiya holds** that even selecting **food from waste is prohibited.** The Gemara rejects this proof: **Lupines are different, as they are boiled seven times. And, if one does not remove them** from the shells, they **rot.** Therefore, **it is considered like** removing **waste from food.** The rotting edible portion of the lupine causes the shell to reek. Removing the edible portion, therefore, has the legal status of removing waste.
+> **Hebrew/Aramaic:** חִזְקִיָּה אָמַר: הַבּוֹרֵר תּוּרְמוֹסִים מִתּוֹךְ פְּסוֹלֶת שֶׁלָּהֶן — חַיָּיב. לֵימָא קָסָבַר חִזְקִיָּה אוֹכֶל מִתּוֹךְ פְּסוֹלֶת אָסוּר? שָׁאנֵי תּוּרְמוֹסָא
+> **Translation:** **Ḥizkiya said: One who selects lupines from their waste** after boiling them **is liable** for performing the prohibited labor of selecting. The Gemara asks: **Let us say,** based on this statement, that **Ḥizkiya holds** that even selecting **food from waste is prohibited.** The Gemara rejects this proof: **Lupines are different,**
+
+> **Hebrew/Aramaic:** דְּשָׁלְקִי לֵיהּ שִׁבְעָא זִימְנֵי, וְאִי לָא שָׁקְלִי לֵיהּ מַסְרַח — וְכִפְסוֹלֶת מִתּוֹךְ אוֹכֶל דָּמֵי.
+> **Translation:** **as they are boiled seven times. And, if one does not remove them** from the shells, they **rot.** Therefore, **it is considered like** removing **waste from food.** The rotting edible portion of the lupine causes the shell to reek. Removing the edible portion, therefore, has the legal status of removing waste.
 
 Chizkiya teaches a case that seems to contradict the established rules: *ha-borer turmusin mi-toch psolet shelahen chayav* — one who removes lupines from their shells is liable. This is striking, because this appears to be *ochel mitoch psoles* — removing food from waste — which we established is the permitted direction. Why is it *chayav*?
 
@@ -290,13 +282,14 @@ The *gemara* explains: *shani turmusin de-shalkei lehu sheva zimni* — lupines 
 
 ## Tachan
 
+
+
 ### Chopping Beets
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: הַאי מַאן דְּפָרֵים סִילְקָא — חַיָּיב מִשּׁוּם טוֹחֵן.
->
-> **Translation:** **Rav Pappa said: One who chops beets** into small pieces on Shabbat **is liable due to** the prohibited labor of **grinding,** as the actions are similar.
-
 Rav Pappa teaches: *hai man defaris silka chayav mishum tochen* — one who chops up a beet is liable for the *melacha* of *tochen*, grinding. This is a jarring statement. Cutting food into small pieces is *tochen*?
+
+> **Hebrew/Aramaic:** וְהַטּוֹחֵן. אָמַר רַב פָּפָּא: הַאי מַאן דְּפָרֵים סִילְקָא — חַיָּיב מִשּׁוּם טוֹחֵן. אָמַר רַב מְנַשֶּׁה: הַאי מַאן דְּסָלֵית סִילְתֵּי — חַיָּיב מִשּׁוּם טוֹחֵן. אָמַר רַב אָשֵׁי: אִי קָפֵיד אַמִּשְׁחֲתָא — חַיָּיב מִשּׁוּם מְחַתֵּךְ.
+> **Translation:** We learned in the mishna, among those liable for performing primary categories of labor: **And one who grinds. Rav Pappa said: One who chops beets** into small pieces on Shabbat **is liable due to** the prohibited labor of **grinding,** as the actions are similar. **Rav Menashe said: One who chops wood chips** for sawdust (Rambam) **is liable due to** the prohibited labor of **grinding. Rav Ashi said: If** he **is particular** in his chopping **with regard to the measurement,** i.e., he is careful to cut all the chips to a particular size, he is also **liable due to** the labor of **cutting.**
 
 ### Cutting vs. Grinding
 
@@ -308,17 +301,10 @@ This question has immediate practical implications. Can one make egg salad on *S
 
 ### Sawdust Example
 
-> **Hebrew/Aramaic:** אָמַר רַב מְנַשֶּׁה: הַאי מַאן דְּסָלֵית סִילְתֵּי — חַיָּיב מִשּׁוּם טוֹחֵן.
->
-> **Translation:** **Rav Menashe said: One who chops wood chips** for sawdust (Rambam) **is liable due to** the prohibited labor of **grinding.**
-
 Rav Menashya teaches: *hai man desalis silti chayav mishum tochen* — one who produces sawdust is liable for *tochen*. This is a clearer case. Sawdust represents a genuine physical transformation: one takes solid wood and reduces it to fine powder. The material is not merely smaller; it has undergone a real change. Notably, this applies even though wood is not food — it is not part of the bread-making process — though it does grow from the ground. This demonstrates that *tochen* is not limited to food but extends to any material that undergoes this kind of transformative reduction.
 
 ### Kapid Amishchata
 
-> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: אִי קָפֵיד אַמִּשְׁחֲתָא — חַיָּיב מִשּׁוּם מְחַתֵּךְ.
->
-> **Translation:** **Rav Ashi said: If** he **is particular** in his chopping **with regard to the measurement,** i.e., he is careful to cut all the chips to a particular size, he is also **liable due to** the labor of **cutting.**
 
 Rav Ashi adds a related but distinct ruling: *ei kapid amishchata chayav mishum mechatech* — if one cuts wood and is particular about the exact size of each piece, one is liable for *mechatech*, the *melacha* of cutting.
 
@@ -327,6 +313,8 @@ This introduces an important distinction between two related categories. *Koreia
 ---
 
 ## Dash & Sechita
+
+
 
 ### Dash Definition
 

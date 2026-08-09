@@ -1,0 +1,188 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Loan Case Doesn't Fit",
+    "candidates": [
+      "Introduction & Overview",
+      "Loan Case Doesn't Fit",
+      "Borrower With Witnesses",
+      "Business & Policy Impact",
+      "Audacity Presumption",
+      "Case: Half Consumed",
+      "Modeh B'Miktzat Concept",
+      "Rabbis: Meshiv Aveida",
+      "R. Eliezer: Oath Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage asks why the tanna didn't use the 'maneh l'avicha b'yadi v'he'achalti pras' (hundred dinars with half consumed) case as Rabbi Yehoshua's example, which is precisely the question introduced in the 'Case: Half Consumed' prose section.",
+      "chosen_heading": "Case: Half Consumed",
+      "current_heading": "Loan Case Doesn't Fit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "R. Eliezer: Oath Required",
+    "candidates": [
+      "Borrower With Witnesses",
+      "Business & Policy Impact",
+      "Audacity Presumption",
+      "Case: Half Consumed",
+      "Modeh B'Miktzat Concept",
+      "Rabbis: Meshiv Aveida",
+      "R. Eliezer: Oath Required",
+      "Son's Claim Weight Debate",
+      "No Chutzpah to Creditor",
+      "Oath Compels Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about Rabbi Eliezer ben Ya'akov's position that an oath is required even on a self-generated claim, the baraita introducing this dispute, and the subsequent questions about its scope \u2014 exactly what heading 6 ('R. Eliezer: Oath Required') describes in its prose.",
+      "chosen_heading": "R. Eliezer: Oath Required",
+      "current_heading": "R. Eliezer: Oath Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Oath Compels Admission",
+    "candidates": [
+      "Son's Claim Weight Debate",
+      "No Chutzpah to Creditor",
+      "Oath Compels Admission",
+      "Witnesses Claim Disqualif"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present Rabba's principle (ein adam meiz panav) and its application to the son debate, which is precisely what candidate 1 ('No Chutzpah to Creditor') describes \u2014 the psychological account of why modeh b'miktzat requires an oath and how that maps onto the father/son distinction \u2014 rather than candidate 2 which discusses consequences and Tosafot's elaborations on that foundation.",
+      "chosen_heading": "No Chutzpah to Creditor",
+      "current_heading": "Oath Compels Admission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Witnesses Claim Disqualif",
+    "candidates": [
+      "Oath Compels Admission",
+      "Witnesses Claim Disqualif",
+      "Peh She-Asar in Documents",
+      "Rami bar Chama: Coercion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text describes witnesses affirming their signatures while claiming disqualification (compulsion, minority, or being invalid witnesses), and the candidate 1 prose ('Witnesses Claim Disqualif') directly introduces and explains this exact mishna scenario.",
+      "chosen_heading": "Witnesses Claim Disqualif",
+      "current_heading": "Witnesses Claim Disqualif",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rami bar Chama: Coercion",
+    "candidates": [
+      "Peh She-Asar in Documents",
+      "Rami bar Chama: Coercion",
+      "Testimony Non-Retraction",
+      "Reish Lakish: Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rami bar \u1e24ama's distinction between monetary and mortal coercion, which is precisely what the 'Rami bar Chama: Coercion' section's prose discusses in detail.",
+      "chosen_heading": "Rami bar Chama: Coercion",
+      "current_heading": "Rami bar Chama: Coercion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Reish Lakish: Witnesses",
+    "candidates": [
+      "Testimony Non-Retraction",
+      "Reish Lakish: Witnesses",
+      "Ein Adam Meisim Atzmo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's challenge invoking 'keivan shehigid' and then immediately citing Reish Lakish's ruling as support \u2014 this entire unit is the argument for non-retraction of testimony, which is precisely what candidate 0 ('Testimony Non-Retraction') describes in its prose, including both the Rava objection and the Reish Lakish ruling as part of that argument.",
+      "chosen_heading": "Testimony Non-Retraction",
+      "current_heading": "Reish Lakish: Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Ein Adam Meisim Atzmo",
+    "candidates": [
+      "Reish Lakish: Witnesses",
+      "Ein Adam Meisim Atzmo",
+      "Meir: No Self-Disqualifi",
+      "Presumptions Override",
+      "Chazaka: Witnesses Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rami bar \u1e24ama's distinction between life-threat coercion and financial coercion, explaining that financial duress renders witnesses non-credible due to 'ein adam meisim atzmo rasha' \u2014 exactly what the 'Ein Adam Meisim Atzmo' section's prose is discussing.",
+      "chosen_heading": "Ein Adam Meisim Atzmo",
+      "current_heading": "Ein Adam Meisim Atzmo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Chazaka: Witnesses Valid",
+    "candidates": [
+      "Meir: No Self-Disqualifi",
+      "Presumptions Override",
+      "Chazaka: Witnesses Valid",
+      "Coercion Claim Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the beraita (tanu rabbanan) introducing Rabbi Meir vs. Rabbis dispute and the gemara's initial explanation of Rabbi Meir's position via chazakot for disqualified witnesses and minors, which is precisely what candidate 0 ('Meir: No Self-Disqualifi') describes \u2014 the beraita, the peh she-asar reasoning of Chachamim, and Rabbi Meir's rejection of the disqualifying claim.",
+      "chosen_heading": "Meir: No Self-Disqualifi",
+      "current_heading": "Chazaka: Witnesses Valid",
+      "moved": true
+    }
+  }
+]

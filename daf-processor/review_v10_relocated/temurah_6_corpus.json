@@ -1,0 +1,391 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Blemished Animal Case",
+    "candidates": [
+      "Core Debate Setup",
+      "Blemished Animal Case",
+      "Abaye's Position",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the blemished animal case and the Mishnaic ruling that the consecration takes effect despite the prohibition, culminating in the 'tiyuvta d'Rava' challenge \u2014 exactly what the 'Blemished Animal Case' prose describes.",
+      "chosen_heading": "Blemished Animal Case",
+      "current_heading": "Blemished Animal Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Abaye's Position",
+      "Rava's Response",
+      "Mirror Case Intro",
+      "Applied to Treasury",
+      "Unified Verse Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address Rava's response and Abaye's counter-use of the verse u'l'neder lo yeratzeh, which is precisely what the 'Rava's Response' prose section describes in detail.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Unified Verse Analysis",
+    "candidates": [
+      "Mirror Case Intro",
+      "Applied to Treasury",
+      "Unified Verse Analysis",
+      "Challenge to Debate",
+      "Theft & Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the objection to Rava from the case of consecrating unblemished animals for bedek ha-bayit and Rava's response \u2014 exactly what candidate 1 ('Applied to Treasury') describes, including the baraita citation, the tiyuvta d'Rava, and the mimakom resolution, while candidate 2 ('Unified Verse Analysis') covers only Rava's answer and the current placement splits the challenge from its setup.",
+      "chosen_heading": "Applied to Treasury",
+      "current_heading": "Unified Verse Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Theft & Change",
+    "candidates": [
+      "Challenge to Debate",
+      "Theft & Change",
+      "Quasi-Ownership Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the robbery case and the mishna ruling that the thief pays at time of theft, concluding with 'tiyuvta d'Rava,' which matches exactly the 'Theft & Change' section prose describing this same case and its challenge to Rava.",
+      "chosen_heading": "Theft & Change",
+      "current_heading": "Theft & Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Quasi-Ownership Rights",
+    "candidates": [
+      "Quasi-Ownership Rights",
+      "Pledge Seizure",
+      "Daily Return Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the verse 'asher gazal' in the context of the gezeilah/mashkon dispute between Rava and Abaye \u2014 Rava uses it to explain the robbery case and Abaye redirects it to the fifth-payment rule \u2014 which directly continues the pledge seizure topic introduced under 'Pledge Seizure,' not the quasi-ownership theoretical discussion.",
+      "chosen_heading": "Pledge Seizure",
+      "current_heading": "Quasi-Ownership Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Daily Return Rule",
+    "candidates": [
+      "Pledge Seizure",
+      "Daily Return Rule",
+      "Change & Ownership"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Daily Return Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are the continuous pledge/mashkon discussion involving the challenge from the mattress-and-plow mishna, Rava's hashev tashiv response, and Abaye's reading of the same verse \u2014 all perfectly matching the 'Daily Return Rule' prose.",
+      "second_heading": "Change & Ownership",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens an entirely new case (pe'a) with its own verse and baraita, matching the 'Change & Ownership' prose which explicitly discusses the pe'a case and Rabbi Yishmael's ruling.",
+      "current_heading": "Daily Return Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Change & Ownership",
+    "candidates": [
+      "Change & Ownership",
+      "Pe'ah Case",
+      "Double Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the baraita's ruling about separating pe'ah even from dough and the conclusive refutation of Abaye, which directly matches the 'Double Language' section's prose discussing Rabbi Yishmael's ruling, the tiyuvta on Abaye, and the subsequent response involving the double language of ta'azov ta'azov.",
+      "chosen_heading": "Double Language",
+      "current_heading": "Change & Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Double Language",
+    "candidates": [
+      "Pe'ah Case",
+      "Double Language",
+      "Ownerless Vineyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's response explaining the doubled 'ta'azov' language as the reason pe'ah remains obligatory even after harvesting, which is precisely what the 'Double Language' section's prose describes.",
+      "chosen_heading": "Double Language",
+      "current_heading": "Double Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Ownerless Vineyard",
+    "candidates": [
+      "Ownerless Vineyard",
+      "Ribit Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's derivation from the doubled ta'azov regarding mafkir karmo and the baraita about one who renounces and retakes his vineyard, which is precisely what the 'Ownerless Vineyard' prose describes.",
+      "chosen_heading": "Ownerless Vineyard",
+      "current_heading": "Ownerless Vineyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Ribit Question",
+    "candidates": [
+      "Ribit Question",
+      "Elazar vs. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a son of Rava's question to Rav Ashi about what Abaye and Rava actually disagree on after all the answers have been given, which is precisely what the 'Ribit Question' prose describes as the opening of that section.",
+      "chosen_heading": "Ribit Question",
+      "current_heading": "Ribit Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Elazar vs. Yochanan",
+    "candidates": [
+      "Elazar vs. Yochanan",
+      "Interest Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Rabbi Elazar vs. Rabbi Yochanan dispute about ribit ketzutzah and avak ribit being repossessed by judges, which is precisely what the 'Elazar vs. Yochanan' section prose describes.",
+      "chosen_heading": "Elazar vs. Yochanan",
+      "current_heading": "Elazar vs. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Interest Verses",
+    "candidates": [
+      "Interest Verses",
+      "Binding Contract",
+      "Rava's Statement",
+      "Alternative Version",
+      "Rashi's Analysis",
+      "Scholarly Background",
+      "Temurah's Status",
+      "Other Cases",
+      "Oath & Divorce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Interest Verses",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are all about the scriptural sources for Rabbi Yochanan's and Rabbi Elazar's positions on ribit, which is precisely what the 'Interest Verses' prose discusses.",
+      "second_heading": "Rava's Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 5 asks 'with regard to what do Abaye and Rava disagree' and answers 'shinui koneh,' which is exactly what the 'Rava's Statement' prose discusses.",
+      "current_heading": "Interest Verses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Oath & Divorce",
+    "candidates": [
+      "Binding Contract",
+      "Rava's Statement",
+      "Alternative Version",
+      "Rashi's Analysis",
+      "Scholarly Background",
+      "Temurah's Status",
+      "Other Cases",
+      "Oath & Divorce",
+      "Five Prohibitions",
+      "Verse Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the 'alternative version' (lishna achrina) of the Abaye-Rava dispute regarding ribit ketzutzah and shinui koneh, which is precisely what the 'Alternative Version' heading's prose describes.",
+      "chosen_heading": "Alternative Version",
+      "current_heading": "Oath & Divorce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Verse Derivation",
+    "candidates": [
+      "Five Prohibitions",
+      "Verse Derivation",
+      "Blood Reception",
+      "Dual Meanings",
+      "Burning Portions",
+      "Blood Sprinkling",
+      "Scapegoat Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Heading 1's prose covers the complete derivation sequence for all five prohibitions (lo takdishu, lo tishchatu, burning whole/part, blood sprinkling, scapegoat), which matches all five items in this passage.",
+      "chosen_heading": "Verse Derivation",
+      "current_heading": "Verse Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Scapegoat Extension",
+    "candidates": [
+      "Blood Reception",
+      "Dual Meanings",
+      "Burning Portions",
+      "Blood Sprinkling",
+      "Scapegoat Extension",
+      "Outside Slaughter Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the baraita about slaughtering outside the Temple (shechutei chutz) and the term 'korban l'Hashem,' which matches precisely the prose of 'Outside Slaughter Ban' rather than the current 'Scapegoat Extension' heading.",
+      "chosen_heading": "Outside Slaughter Ban",
+      "current_heading": "Scapegoat Extension",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Outside Slaughter Ban",
+    "candidates": [
+      "Scapegoat Extension",
+      "Outside Slaughter Ban",
+      "For God Clause",
+      "Scapegoat Exclusion",
+      "Context Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives from the verse 'el pesach ohel moed' the principle that only animals fit for the entrance of the Tent of Meeting are subject to shechutei chutz, which is precisely what candidate 2 ('For God Clause') describes \u2014 using ra'uy le-fesach ohel moed to exempt things not fit for the altar.",
+      "chosen_heading": "For God Clause",
+      "current_heading": "Outside Slaughter Ban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Context Direction",
+    "candidates": [
+      "For God Clause",
+      "Scapegoat Exclusion",
+      "Context Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses excluding the parah adumah and sa'ir ha-mishtale'ach from shechutei chutz via the 'l'Hashem' qualifier, which is precisely what Candidate 1 ('Scapegoat Exclusion') describes in its prose.",
+      "chosen_heading": "Scapegoat Exclusion",
+      "current_heading": "Context Direction",
+      "moved": true
+    }
+  }
+]

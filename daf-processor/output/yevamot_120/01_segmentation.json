@@ -72,7 +72,7 @@
           "timestamp": "14:54"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -187,8 +187,8 @@
           "timestamp": "34:27"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rava Resolves the Contradiction Through Different Standards",
@@ -201,7 +201,7 @@
           "timestamp": "35:30"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 11,
       "matched": false
     },
     {
@@ -216,7 +216,7 @@
         }
       ],
       "sefaria_index": 11,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Rava Resolves the Contradiction Through Different Standards (continued)",
@@ -282,7 +282,7 @@
           "timestamp": "47:47"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -306,7 +306,7 @@
           "timestamp": "51:29"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -354,8 +354,8 @@
           "timestamp": "57:37"
         }
       ],
-      "sefaria_index": 31,
-      "matched": true
+      "sefaria_index": 28,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -603,5 +603,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "37:03",
+  "amud_b_micro_title": "Change or Common",
+  "shiur_start_daf": 119,
+  "shiur_start_amud": "b"
 }

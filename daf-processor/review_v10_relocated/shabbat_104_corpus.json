@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Nisuch Hamayim Drasha",
+    "candidates": [
+      "Shin-Mem Word Issue",
+      "Braita Letter Validity",
+      "Nisuch Hamayim Drasha",
+      "Mem Equivalence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Yehuda ben Beteira deriving nisuch hamayim from the extra letters mem-yod-mem across the Sukkot korbanot verses, which is precisely what the 'Nisuch Hamayim Drasha' prose describes.",
+      "chosen_heading": "Nisuch Hamayim Drasha",
+      "current_heading": "Nisuch Hamayim Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Mem Equivalence",
+    "candidates": [
+      "Mem Equivalence",
+      "Luchos Miracle",
+      "Yerushalmi Ayin",
+      "Prophets & Letters",
+      "Bavli Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous argument about whether open-rendered-closed and closed-rendered-open are equivalent, leading directly into Rav \u1e24isda's miracle teaching and Rabbi Yirmeya's prophets teaching \u2014 exactly the content described in the 'Mem Equivalence' prose, which explicitly covers the mi dami objection, the elevation/diminishment distinction, and the citations of both Rav \u1e24isda and Rabbi Yirmeya.",
+      "chosen_heading": "Mem Equivalence",
+      "current_heading": "Mem Equivalence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Bavli Rejection",
+    "candidates": [
+      "Luchos Miracle",
+      "Yerushalmi Ayin",
+      "Prophets & Letters",
+      "Bavli Rejection",
+      "Resolution",
+      "Bidirectional Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the gemara's rejection (ve-tisbera) of the prophets introducing new letter forms, the verse 'eileh ha-mitzvos,' the first resolution attempt about not knowing which form goes where, and the re-rejection \u2014 precisely the content described in the 'Bavli Rejection' prose.",
+      "chosen_heading": "Bavli Rejection",
+      "current_heading": "Bavli Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Bidirectional Reading",
+    "candidates": [
+      "Resolution",
+      "Bidirectional Reading",
+      "Mystical Codes",
+      "Aleph-Beis Start"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav \u1e24isda's teaching about the mem and samekh standing miraculously and the bidirectional reading of the luchos, which is precisely what the 'Bidirectional Reading' section's prose describes.",
+      "chosen_heading": "Bidirectional Reading",
+      "current_heading": "Bidirectional Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Aleph-Beis Start",
+    "candidates": [
+      "Mystical Codes",
+      "Aleph-Beis Start",
+      "Gimmel-Dalet Shapes",
+      "Hey-Vav Zecharya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 1 ('Aleph-Beis Start') describes \u2014 the children's arrival at the beit midrash, their drasha on alef-beis, and the gimmel-dalet pairing \u2014 and its current placement there is correct.",
+      "chosen_heading": "Aleph-Beis Start",
+      "current_heading": "Aleph-Beis Start",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Hey-Vav Zecharya",
+    "candidates": [
+      "Gimmel-Dalet Shapes",
+      "Hey-Vav Zecharya",
+      "Mem Nun Teachings",
+      "Samekh-Tzaddi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers hey-vav as God's name and the zayin through lamed letters as divine promises, plus mem and nun teachings \u2014 the current heading 'Hey-Vav Zecharya' (index 1) discusses exactly the hey-vav and zayin-through-lamed content, and while the mem/nun portion partially overlaps with index 2, the entire passage as a unit best fits under the current placement since index 1's prose explicitly covers all the zayin-lamed material that forms the bulk of the passage.",
+      "chosen_heading": "Hey-Vav Zecharya",
+      "current_heading": "Hey-Vav Zecharya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Samekh-Tzaddi",
+    "candidates": [
+      "Mem Nun Teachings",
+      "Samekh-Tzaddi",
+      "Kuf-Reish Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses samekh-ayin, peh kefufah/peshutah, and tzaddi kefufah/peshutah with the conclusion about Torah given with gravity \u2014 exactly matching the 'Samekh-Tzaddi' section's prose which covers all these same topics in the same order.",
+      "chosen_heading": "Samekh-Tzaddi",
+      "current_heading": "Samekh-Tzaddi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Kuf-Reish Teshuvah",
+    "candidates": [
+      "Kuf-Reish Teshuvah",
+      "Shin-Tav Truth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the letters kuf and reish and the teshuvah theme, and the 'Kuf-Reish Teshuvah' prose explicitly covers all the content of both items including the Reish Lakish statement about ba le-tamei/ba le-taher.",
+      "chosen_heading": "Kuf-Reish Teshuvah",
+      "current_heading": "Kuf-Reish Teshuvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Shin-Tav Truth",
+    "candidates": [
+      "Shin-Tav Truth",
+      "Atbash Folding",
+      "Wicked Response",
+      "Righteous Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses shin=sheker and tav=emet, with the drasha about the letters' proximity and stability, which is precisely what the 'Shin-Tav Truth' section's prose describes.",
+      "chosen_heading": "Shin-Tav Truth",
+      "current_heading": "Shin-Tav Truth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Righteous Response",
+    "candidates": [
+      "Atbash Folding",
+      "Wicked Response",
+      "Righteous Response",
+      "Gehenom Dialogue",
+      "Seven-Letter Code"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wicked Response",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the 'attribute of the wicked' portion of the atbash drasha, which matches the 'Wicked Response' section's prose describing exactly those letter-pairs (oti te'ev, bi lo chashak, gufo tamei, daltosai na'al) and ending with 'ad kan midat resha'im'.",
+      "second_heading": "Righteous Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the 'attribute of the righteous' (midat tzaddikim) continuation of the atbash, including yam kol and the sar shel Gehenom's opening demand, which the 'Righteous Response' prose explicitly discusses including the yam kol closing image and the exchange that follows.",
+      "current_heading": "Righteous Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Seven-Letter Code",
+    "candidates": [
+      "Gehenom Dialogue",
+      "Seven-Letter Code",
+      "Al-Bam Code"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the seven-letter substitution code (achas-batas-gif, dak-tzadi, hel-kuf, vav-mem-reish-zayin-nun shin-tav) and Gehenna's request for the seed of Seth, which matches precisely the 'Seven-Letter Code' section's prose description of this same system and dialogue.",
+      "chosen_heading": "Seven-Letter Code",
+      "current_heading": "Seven-Letter Code",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Al-Bam Code",
+    "candidates": [
+      "Al-Bam Code",
+      "Musar & Kabbalah",
+      "Yehoshua ben Nun",
+      "Two Letter Rule",
+      "Location Requirement",
+      "Skin & Scratching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the al-bam cipher system with God's response to Gehenna about leading souls to Gan Eden and protecting the descendants of Yitzchak, which is precisely what the prose under heading 0 ('Al-Bam Code') discusses.",
+      "chosen_heading": "Al-Bam Code",
+      "current_heading": "Al-Bam Code",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Skin & Scratching",
+    "candidates": [
+      "Musar & Kabbalah",
+      "Yehoshua ben Nun",
+      "Two Letter Rule",
+      "Location Requirement",
+      "Skin & Scratching",
+      "Non-Permanent",
+      "Shinuy Methods",
+      "Single Letter Add",
+      "Re-Inking",
+      "Single Letter Acronym",
+      "Ink Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Letter Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna of the ketivah section covering the two-letter rule, qualifying substances, corner-wall cases, and writing on flesh \u2014 all introduced by the 'Two Letter Rule' prose which quotes 'ha-kosev shtei osiyos be-helem echad chayav' and describes the qualifying materials.",
+      "second_heading": "Non-Permanent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins the Mishna's list of exempt cases starting with non-permanent substances ('eino mitkayem'), which is precisely what the 'Non-Permanent' prose section discusses.",
+      "current_heading": "Skin & Scratching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Ink Types",
+    "candidates": [
+      "Non-Permanent",
+      "Shinuy Methods",
+      "Single Letter Add",
+      "Re-Inking",
+      "Single Letter Acronym",
+      "Ink Types",
+      "Get Validity Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage defines the ink types listed in the mishna (deyo, sam, sikra, komos, kankantom), which directly matches the 'Ink Types' section prose that describes the gemara examining those specific materials.",
+      "chosen_heading": "Ink Types",
+      "current_heading": "Ink Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Get Validity Test",
+    "candidates": [
+      "Get Validity Test",
+      "Scratching Dispute",
+      "Ben Stada Story",
+      "Genealogy",
+      "Mother Identity",
+      "Jesus Theory",
+      "Censorship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses what 'anything that makes a mark' includes, citing Rabbi \u1e24ananya and Rabbi \u1e24iyya's teachings about valid get-writing substances, which matches exactly the 'Get Validity Test' section's prose about these same sources and their relevance to Shabbat liability.",
+      "chosen_heading": "Get Validity Test",
+      "current_heading": "Get Validity Test",
+      "moved": false
+    }
+  }
+]

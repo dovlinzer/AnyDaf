@@ -1,0 +1,261 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Leatzimech Analysis",
+    "candidates": [
+      "Mishna & R. Yehuda",
+      "Leatzimech Analysis",
+      "Ein Li Esek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the exact content described in the 'Leatzimech Analysis' prose: the invalid formulations (bat chorin for wife, muteret le-chol adam for slave), the question about harei at le-atzmech, and Ravina's proof from the mishna about get shichrur \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Leatzimech Analysis",
+      "current_heading": "Leatzimech Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Ein Li Esek",
+    "candidates": [
+      "Ein Li Esek",
+      "Explicit vs Implicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous discussion about whether 'ein li esek bach' constitutes a valid bill of manumission, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Ein Li Esek",
+      "current_heading": "Ein Li Esek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Explicit vs Implicit",
+    "candidates": [
+      "Explicit vs Implicit",
+      "Spelling Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rabbis vs. Rabbi Yehuda dispute over yadayim she-einan mochichos, which is precisely what the 'Explicit vs Implicit' prose section analyzes in detail.",
+      "chosen_heading": "Explicit vs Implicit",
+      "current_heading": "Explicit vs Implicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Spelling Rules",
+    "candidates": [
+      "Spelling Rules",
+      "Rashi Nusach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's rulings about precise spelling in a bill of divorce (v'dein/v'den, igeret/ageret, le-meihach spelling), which exactly matches the 'Spelling Rules' section's prose describing these same hazards.",
+      "chosen_heading": "Spelling Rules",
+      "current_heading": "Spelling Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Rashi Nusach",
+    "candidates": [
+      "Rashi Nusach",
+      "Tosafot Letters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the specific letter-formation requirements (extending the vav of teiruchin/shevukin/khedu, and writing lehitnasseva with a heh rather than alef) that are the precise subject of candidate 1's prose about Tosafot's fine points regarding letter formation.",
+      "chosen_heading": "Tosafot Letters",
+      "current_heading": "Rashi Nusach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Tosafot Letters",
+    "candidates": [
+      "Rashi Nusach",
+      "Tosafot Letters",
+      "Rava Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma of whether 'v'dein' is required, which is precisely what Candidate 2 ('Rava Takana') discusses \u2014 the question of whether we rule like Rabbi Yehuda regarding the v'dein line and Rava's formulation of the get nusach.",
+      "chosen_heading": "Rava Takana",
+      "current_heading": "Tosafot Letters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Rava Takana",
+    "candidates": [
+      "Rava Takana",
+      "Handwriting No Edim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items directly correspond to the content described in the 'Rava Takana' prose: Rava's formulation of the get, the challenge about whether his silence implies exclusion, and the analysis of 'miyoma de-nan' and 'u-le-olam' \u2014 exactly what that section's prose discusses.",
+      "chosen_heading": "Rava Takana",
+      "current_heading": "Rava Takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Handwriting No Edim",
+    "candidates": [
+      "Handwriting No Edim",
+      "No Date/One Witness"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 5,
+      "first_heading": "Handwriting No Edim",
+      "first_confidence": "low",
+      "first_reason": "Segment 1 discusses the basic formula of a bill of manumission and a slave sale document, which doesn't directly match either heading, but heading 0 ('Handwriting No Edim') is its current placement and is the closest available option since heading 1 is about the second and third mishna cases.",
+      "second_heading": "Handwriting No Edim",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 contains the mishna introducing the three invalid bills of divorce including the first case of handwriting without witnesses, matching heading 0 ('Handwriting No Edim') which discusses this mishna and Rabbi Eliezer's position on edei mesira.",
+      "third_heading": "No Date/One Witness",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara discussing why only these three cases are listed and not others (outdated get, bare get, peaceful kingdom), including analysis of Rabbi Meir vs. Rabbis on mamzer status, which fits heading 1 ('No Date/One Witness') as it continues the Gemara discussion of the mishna's enumeration relating to the date and witness cases.",
+      "current_heading": "Handwriting No Edim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "No Date/One Witness",
+    "candidates": [
+      "No Date/One Witness",
+      "Rav Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous dispute between Rav, Shmuel, and Rabbi Yo\u1e25anan about the third case in the mishna (a dated get with only one witness), specifically whether 'ktav yado' refers to the husband's handwriting or the scribe's \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "No Date/One Witness",
+      "current_heading": "No Date/One Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Rav Positions",
+    "candidates": [
+      "Rav Positions",
+      "Tannaitic Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav's two seemingly contradictory rulings about whether the woman must leave her second husband and their reconciliation based on whether she has children, which is precisely what the 'Rav Positions' prose describes.",
+      "chosen_heading": "Rav Positions",
+      "current_heading": "Rav Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Tannaitic Proofs",
+    "candidates": [
+      "Tannaitic Proofs",
+      "Remarriage & Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous objection from Mar Zutra bar Toviya about sefek kiddushin/sefek gerushin and the Gemara's response about chashasha de-rabbanan, which is precisely what the 'Tannaitic Proofs' prose describes.",
+      "chosen_heading": "Tannaitic Proofs",
+      "current_heading": "Tannaitic Proofs",
+      "moved": false
+    }
+  }
+]

@@ -1,16 +1,9 @@
-# Pesachim 103 — Daf Yomi Shiur
-
+[DAF:102b]
 ## Bundling Mitzvos
 
-> **Hebrew/Aramaic:** גָּמְרוּ, כּוֹס רִאשׁוֹן מְבָרֵךְ עָלָיו בִּרְכַּת הַמָּזוֹן וְהַשֵּׁנִי אוֹמֵר עָלָיו קְדוּשַּׁת הַיּוֹם. אַמַּאי? וְנֵימְרִינְהוּ לְתַרְוַיְיהוּ אַחֲדָא כָּסָא!
->
-> **Translation:** Rabbi Yosei maintains that once they have **finished** their meal, they bring out two cups; **over the first cup one recites the Grace after Meals, and over the second** cup he **recites the sanctification of the day.** The Gemara asks: **Why** do they need two cups? **And let them say both of them,** Grace after Meals and *kiddush*, **over one cup.**
+
 
 ### One Cup vs. Two
-
-> **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב שֵׁשֶׁת: אֵין אוֹמְרִים שְׁתֵּי קְדוּשּׁוֹת עַל כּוֹס אֶחָד. מַאי טַעְמָא? אָמַר רַב נַחְמָן בַּר יִצְחָק: לְפִי שֶׁאֵין עוֹשִׂין מִצְווֹת חֲבִילוֹת חֲבִילוֹת.
->
-> **Translation:** **Rav Huna said** that **Rav Sheshet said: One does not recite two sanctifications,** i.e., for two mitzvot such as Grace after Meals and *kiddush*, **over one cup. What is the reason** for this *halakha*? **Rav Naḥman bar Yitzḥak said: Because one does not perform mitzvot in bundles.** If someone performs multiple mitzvot all in one go, he gives the impression that they are a burdensome obligation that he wants to complete as fast as possible.
 
 The daf opens with the continuation of a discussion about *shalosh seudos*: when someone is eating the third Shabbos meal and Shabbos ends, must he recite *birkas hamazon* and *kiddush* over one *kos* or two? The *gemara*'s conclusion is that ideally one uses two *kosot*, because *ein osin mitzvos chavilos chavilos* — we do not bundle *mitzvos* together into a single act.
 
@@ -23,10 +16,6 @@ This principle might seem counterintuitive, since there are certainly cases wher
 The concern is not about the physical cup per se. If one were to drink from it, rinse it, refill it with new wine, no one would question that these are two distinct *kosot*. The issue is rather about which *mitzvah* the wine is identified with at the moment it is used — and that association is what the *chavilos* principle seeks to keep unambiguous.
 
 ### Similar Functions
-
-> **Hebrew/Aramaic:** אֶלָּא: הַבְדָּלָה וְקִידּוּשׁ חֲדָא מִילְּתָא הִיא, בִּרְכַּת הַמָּזוֹן וְקִידּוּשׁ תְּרֵי מִילֵּי נִינְהוּ.
->
-> **Translation:** **Rather,** the Gemara rejects the previous explanation in favor of the following: ***Havdala* and *kiddush* are one matter,** as they both mark and draw attention to the sanctity of certain days. By contrast, **Grace after Meals and *kiddush* are two** entirely different **matters.** Therefore, one who recites both of them over the same cup of wine is combining two unrelated mitzvot, apparently so that he can be done with them as quickly as possible. Consequently, this practice is prohibited.
 
 Interestingly, the *gemara* draws a distinction between *mitzvos* that are similar in character and those that are wholly distinct. *Birkas hamazon* and *kiddush* serve fundamentally different functions and therefore require separate *kosot*. By contrast, *havdalah* for the departing Shabbos and *kiddush* for the incoming *Yom Tov* — even though they operate in opposite directions — share a family resemblance: both involve distinguishing between *kodesh* and *chol*, albeit in different directions. In that case, the *gemara* permits — indeed encourages — combining them on a single *kos*.
 
@@ -42,27 +31,25 @@ What is striking is that the common practice in many *shuls* that conduct *shalo
 
 ## Kiddush and Havdalah
 
-### Both Required
 
-> **Hebrew/Aramaic:** גּוּפָא. יוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת, רַב אָמַר: יַקְנֶ״ה. וּשְׁמוּאֵל אָמַר: יִנְהַ״ק.
->
-> **Translation:** After raising the issue of the proper order of the blessings for *kiddush* on a Festival that occurs right after Shabbat, the Gemara addresses **the** matter **itself.** With regard to **a Festival that occurs after Shabbat, Rav said** that the proper order of the blessings follows the acronym ***yod*, *kuf*, *nun*, *heh*:** Wine [*yayin*], *kiddush*, candle [*ner*], and *havdala*; **and Shmuel said** the proper order is ***yod*, *nun*, *heh*, *kuf*:** Wine [*yayin*], candle [*ner*], *havdala*, and *kiddush*.
+
+### Both Required
 
 The *gemara* now turns to the more intricate scenario of *Yom Tov* that falls immediately after Shabbos. In this case one is obligated to perform both *havdalah* — to mark the end of Shabbos — and *kiddush* — to sanctify *Yom Tov*. One note bears repeating from the prior discussion: since there is no concept of *neshamah yeseirah* on *Yom Tov* itself, and since the *simcha* of *Yom Tov* compensates for whatever sense of spiritual departure one might feel, there are no *besamim* in this combined service. All the positions discussed below therefore involve only *yayin*, *kiddush*, *ner*, and *havdalah* — never *besamim*.
 
 ### Rava: Yaknah
 
-> **Hebrew/Aramaic:** וְרַבָּה אָמַר: יַהְנֵ״ק. וְלֵוִי אָמַר: קְנִיָּ״ה. וְרַבָּנַן אָמְרִי: קִינָ״ה. מָר בְּרֵיהּ דְּרַבְנָא אָמַר: נְקִיָּ״ה. מָרְתָא אָמַר מִשְּׁמֵיהּ דְּרַבִּי יְהוֹשֻׁעַ: נִיהָ״ק.
->
-> **Translation:** **And Rabba said** that the correct order is ***yod*, *heh*, *nun*, *kuf*:** Wine [*yayin*], *havdala*, candle [*ner*], and *kiddush*. **And Levi said** the order is ***kuf*, *nun*, *yod*, *heh*:** *Kiddush*, candle [*ner*], wine [*yayin*], and *havdala*. **And the Rabbis say** the order is ***kuf*, *yod*, *nun*, *heh*:** *kiddush*, wine [*yayin*], candle [*ner*], and *havdala*. **Mar, son of Rabbana, said** the order is ***nun*, *kuf*, *yod*, *heh*:** Candle [*ner*], *kiddush*, wine [*yayin*], and *havdala*. The Sage named **Marta said in the name of Rabbi Yehoshua** that the proper order is ***nun*, *yod*, *heh*, *kuf*:** Candle [*ner*], wine [*yayin*], *havdala*, and *kiddush*.
-
 *Rava* says *yaknah* — *yayin*, *kiddush*, *ner*, *havdalah*. He performs *kiddush* first, and then proceeds directly to *havdalah* without a second recitation of *borei pri hagafen*, since the *yayin* was already introduced at the beginning. *Ner* comes between *kiddush* and *havdalah* as part of the standard *havdalah* sequence.
+
+> **Hebrew/Aramaic:** וְהָא יוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת, דְּאִית לֵיהּ, וְאָמַר רַב יַקְנֶ״ה!
+> **Translation:** The Gemara continues its line of questioning: **But** there is the case of **a Festival that occurs after Shabbat,** when presumably **one has** enough wine. **And** nevertheless, **Rav said** that the proper order of the blessings is according to the Hebrew acronym ***yod*, *kuf*, *nun*, *heh*:** The blessing over the wine [*yayin*], *kiddush*, the blessing over the candle [*ner*], and *havdala*. This ruling shows that one recites *kiddush* and *havdala* over the same cup of wine.
 
 ### Shmuel: Yanhak
 
 *Shmuel* reverses the order: *yanhak* — *yayin*, *ner*, *havdalah*, *kiddush*. His position is chronologically intuitive: first conclude the outgoing sanctity of Shabbos with *havdalah*, and only then inaugurate the incoming sanctity of *Yom Tov* with *kiddush*. No second *yayin* is required since the *kos* was introduced at the start.
 
 ### Rav vs. Shmuel Logic
+
 
 Why *Rav* places *kiddush* before *havdalah* is not immediately obvious. The *Rashbam* offers two explanations. The first is a matter of priority: sanctifying the incoming *kedushah* is more important than marking the departure of a prior *kedushah*, and *kiddush* therefore takes precedence. The second is a more symbolic gesture: we always seek to delay *havdalah* even by a moment, as a sign of our reluctance to see the holiness of Shabbos depart — just as on *Chanukah* that falls on Shabbos, the practice in *shul* is to light the *Chanukah* candles before performing *havdalah*, even though Shabbos is technically already over, in order to symbolically postpone the formal end of Shabbos.
 
@@ -71,6 +58,9 @@ One might add that the principle of *tadir u'sheino tadir* — that the more fre
 ### Raba: Yanhak
 
 *Raba* proposes a third arrangement: *yayin*, *havdalah*, *ner*, *kiddush*. He sides with *Shmuel* in placing *havdalah* before *kiddush*, but he introduces the *ner* between *havdalah* and *kiddush* rather than before *havdalah* as one would expect. The *Rashbam* explains that *Raba* wishes to avoid placing *havdalah* and *kiddush* in direct juxtaposition, since they operate in opposite directions — one declares the departure of *kedushah*, the other its arrival. The *ner* creates a brief pause between *hamavdil bein kodesh lekodesh* and *mekadesh Yisrael*, a kind of structural separator analogous in function to the reading of the *kesuba* between *kiddushin* and *nisuin*.
+
+> **Hebrew/Aramaic:** גּוּפָא. יוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת, רַב אָמַר: יַקְנֶ״ה. וּשְׁמוּאֵל אָמַר: יִנְהַ״ק.
+> **Translation:** After raising the issue of the proper order of the blessings for *kiddush* on a Festival that occurs right after Shabbat, the Gemara addresses **the** matter **itself.** With regard to **a Festival that occurs after Shabbat, Rav said** that the proper order of the blessings follows the acronym ***yod*, *kuf*, *nun*, *heh*:** Wine [*yayin*], *kiddush*, candle [*ner*], and *havdala*; **and Shmuel said** the proper order is ***yod*, *nun*, *heh*, *kuf*:** Wine [*yayin*], candle [*ner*], *havdala*, and *kiddush*.
 
 ### Levi: Kanya
 
@@ -82,14 +72,27 @@ The *rabbanan* rule *kina* — *kiddush*, *yayin*, *ner*, *havdalah*. They too a
 
 ### Mar Breh: Kiah
 
+> **Hebrew/Aramaic:** אָמְרִי: מִדְּלָא אָמַר זְמַן, מִכְּלָל דְּבִשְׁבִיעִי שֶׁל פֶּסַח עָסְקִינַן, דְּכׇל מַאי דַּהֲוָה לֵיהּ אָכֵיל לֵיהּ, וְלֵית לֵיהּ.
+> **Translation:** **They say** in answer to this question: **From** the fact that Rav **did not say** that one recites the blessing for **time,** Who has given us life [*sheheḥiyanu*], sustained us, and brought us to this time, this proves **by inference that we are dealing with the seventh** day **of Passover,** which is the only Festival day on which one does not recite the blessing for time. If so, it is possible that **whatever** wine this person **had, he** has already **consumed** over the course of the Festival, **and he does not have** enough wine left for two separate cups.
+
+> **Hebrew/Aramaic:** וְהָא יוֹם טוֹב רִאשׁוֹן דְּאִית לֵיהּ, וְאָמַר אַבָּיֵי: יַקְזְנָ״ה, וְרָבָא אָמַר: יַקְנְהָ״ז.
+> **Translation:** The Gemara asks: **But** there is the case of **the first Festival** night that occurs after Shabbat, **when one has** wine, **and** nevertheless **Abaye said** that the order of the blessings in this instance follows the Hebrew acronym ***yod*, *kuf*, *zayin*, *nun*, *heh*:** The blessing over wine [*yayin*]; *kiddush*; the blessing for time [*zeman*]; the blessing over the candle [*ner*]; and *havdala*. **And Rava said** that the order of the blessings is in accordance with the acronym ***yod*, *kuf*, *nun*, *heh*, *zayin*:** Wine [*yayin*]; *kiddush*; candle [*ner*]; *havdala*; and the blessing for time [*zeman*]. Although Abaye and Rava dispute the correct order of the blessings, they agree that one recites multiple blessings over a single cup of wine.
+
+> **Hebrew/Aramaic:** אֶלָּא: הַבְדָּלָה וְקִידּוּשׁ חֲדָא מִילְּתָא הִיא, בִּרְכַּת הַמָּזוֹן וְקִידּוּשׁ תְּרֵי מִילֵּי נִינְהוּ.
+> **Translation:** **Rather,** the Gemara rejects the previous explanation in favor of the following: ***Havdala* and *kiddush* are one matter,** as they both mark and draw attention to the sanctity of certain days. By contrast, **Grace after Meals and *kiddush* are two** entirely different **matters.** Therefore, one who recites both of them over the same cup of wine is combining two unrelated mitzvot, apparently so that he can be done with them as quickly as possible. Consequently, this practice is prohibited.
+
+
 *Mar breh de-Ravina* rules *nakiah* — *ner*, *kiddush*, *yayin*, *havdalah*. He also stands in *Rav*'s camp with *kiddush* preceding *havdalah*, but his concern for the *yayin*'s double function leads him to a different structural solution: the only way to ensure the *yayin* serves both *kiddush* and *havdalah* equally is to have it literally touching both — immediately after *kiddush* and immediately before *havdalah*. He therefore arranges *kiddush*, *yayin*, *havdalah* as a continuous unit. Since *ner* must still precede *havdalah* in some fashion, he moves it all the way to the beginning.
 
-The underlying question — why *yayin* is required for *havdalah* at all — is worth pausing on. The *gemara*'s rationale is that *shirah* is only recited over wine, derived from the *nesachim* in the *Mikdash*, where the *leviyim* sang their *shirah* during the *nisuch hayayin*. The *yayin* thus lends ritual weight and gravitas to *divrei shevach*, giving the moment a significance rooted in the *avodah* of the *Mikdash*. It is less about *oneg* in the meal-pleasure sense and more about elevating an act of *shevach* into something of lasting moment.
+The underlying question — why *yayin* is required for *havdalah* at all — is worth pausing on. The *gemara*'s rationale is that *shirah* is only recited over wine, derived from the *nesachim* in the *Mikdash*, where the *leviyim* sang their *shirah* during the *nisuch hayayin*. The *yayin* thus lends ritual weight and gravitas to *divrei shevach*, giving the moment a significance rooted in the *avodah* of the *Mikdash*. It is less about *oneg* in the meal-pleasure sense and more about elevating an act of *shevach* into something of lasting moment. One might then ask whether simply holding the *kos yayin* should itself be sufficient to achieve that association — and indeed there are contexts, such as *poresh mappah u-mekaddesh* during a *seudah*, where one performs *kiddush* over wine already present without reciting *borei peri hagafen*. But once a *berakha* over the *yayin* is being recited, its placement unavoidably shapes what the *yayin* is identified with — and it is precisely that dynamic that generates all of these variations within *Rav*'s camp, each seeking the arrangement that best allows the *yayin* to relate equally to both *kiddush* and *havdalah*.
 
+[DAF:103a]
 ### Tannaim: Nihak
 
-> **Hebrew/Aramaic:** שְׁלַח לֵיהּ אֲבוּהּ דִּשְׁמוּאֵל לְרַבִּי: יְלַמְּדֵנוּ רַבֵּינוּ, סֵדֶר הַבְדָּלוֹת הֵיאַךְ. שְׁלַח לֵיהּ: כָּךְ אָמַר רַבִּי יִשְׁמָעֵאל בַּר רַבִּי יוֹסֵי שֶׁאָמַר מִשּׁוּם אָבִיו שֶׁאָמַר מִשּׁוּם רַבִּי יְהוֹשֻׁעַ בֶּן חֲנַנְיָה: נְהִי״ק.
->
+> **Hebrew/Aramaic:** וְרַבָּה אָמַר: יַהְנֵ״ק. וְלֵוִי אָמַר: קְנִיָּ״ה. וְרַבָּנַן אָמְרִי: קִינָ״ה. מָר בְּרֵיהּ דְּרַבְנָא אָמַר: נְקִיָּ״ה. מָרְתָא אָמַר מִשְּׁמֵיהּ דְּרַבִּי יְהוֹשֻׁעַ: נִיהָ״ק.
+> **Translation:** **And Rabba said** that the correct order is ***yod*, *heh*, *nun*, *kuf*:** Wine [*yayin*], *havdala*, candle [*ner*], and *kiddush*. **And Levi said** the order is ***kuf*, *nun*, *yod*, *heh*:** *Kiddush*, candle [*ner*], wine [*yayin*], and *havdala*. **And the Rabbis say** the order is ***kuf*, *yod*, *nun*, *heh*:** *kiddush*, wine [*yayin*], candle [*ner*], and *havdala*. **Mar, son of Rabbana, said** the order is ***nun*, *kuf*, *yod*, *heh*:** Candle [*ner*], *kiddush*, wine [*yayin*], and *havdala*. The Sage named **Marta said in the name of Rabbi Yehoshua** that the proper order is ***nun*, *yod*, *heh*, *kuf*:** Candle [*ner*], wine [*yayin*], *havdala*, and *kiddush*.
+
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ אֲבוּהּ דִּשְׁמוּאֵל לְרַבִּי: יְלַמְּדֵנוּ רַבֵּינוּ, סֵדֶר הַבְדָּלוֹת הֵיאַךְ. שְׁלַח לֵיהּ: כָּךְ אָמַר רַבִּי יִשְׁמָעֵאל בַּר רַבִּי יוֹסֵי שֶׁאָמַר מִשּׁוּם אָבִיו שֶׁאָמַר מִשּׁוּם רַבִּי יְהוֹשֻׁעַ בֶּן חֲנַנְיָה: נְהִי״ק.
 > **Translation:** With regard to this issue, **the father of Shmuel,** Abba ben Abba, **sent** a letter **to Rabbi** Yehuda HaNasi: **Teach us, our Rabbi. How** should one recite **the order of *havdala*** when a Festival occurs after Shabbat? Rabbi **sent him** the following response: **This** is what **Rabbi Yishmael, son of Rabbi Yosei, said, who said** it **in the name of his father, who** himself **said** it **in the name of Rabbi Yehoshua ben Ḥananya:** The proper order of the blessings is ***nun*, *heh*, *yod*, *kuf*:** Candle [*ner*], *havdala*, wine [*yayin*], and *kiddush*.
 
 The *gemara* now introduces a *tannaic* source. *Shmuel*'s father sent a question to *Rabbi* — the *Nasi*, at the end of the *tannaic* period — asking how *havdalah* is performed when it coincides with *kiddush*. *Rabbi* responded with a chain of transmission: *Rabbi Yishmael berabbi Yossi* said in the name of his father, who said in the name of *Rabbi Yehoshua ben Chananya* — *nahik*: *ner*, *havdalah*, *yayin*, *kiddush*.
@@ -98,8 +101,7 @@ This is the *Shmuel* position — *havdalah* precedes *kiddush* — and the *yay
 
 ### King/Governor Parable
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי חֲנִינָא: מָשָׁל דְּרַבִּי יְהוֹשֻׁעַ בֶּן חֲנַנְיָה לְמֶלֶךְ שֶׁיּוֹצֵא וְאִפַּרְכוֹס נִכְנָס, מְלַוִּוין אֶת הַמֶּלֶךְ וְאַחַר כָּךְ יוֹצְאִים לִקְרַאת אִפַּרְכוֹס.
->
+> **Hebrew/Aramaic:** אָמַר רַבִּי חֲנִינָא: מָשָׁל דְּרַבִּי יְהוֹשֻׁעַ בֶּן חֲנַנְיָה לְמֶלֶךְ שֶׁיּוֹצֵא וְאִפַּרְכוֹס נִכְנָס, מְלַוִּוין אֶת הַמֶּלֶךְ וְאַחַר כָּךְ יוֹצְאִים לִקְרַאת אִפַּרְכוֹס.
 > **Translation:** **Rabbi Ḥanina said** that the following **parable** serves to explain the opinion **of Rabbi Yehoshua ben Ḥananya:** This is comparable **to a king who is exiting** a city **and a governor is entering.** Etiquette dictates that the inhabitants of the city first **escort the king** out of the city to take leave of him in a dignified fashion, **and afterward they go out to greet the governor.** Similarly, one should first recite *havdala*, to take leave of Shabbat, and only then recite *kiddush* over the Festival, whose sanctity is lesser than that of Shabbat.
 
 *Rabbi Chananya* then cites a *mashal* of *Rabbi Yehoshua ben Chananya* that explains the underlying logic of placing *havdalah* before *kiddush*. When a king departs and a governor arrives, one first accompanies the king to the gate — *melavin et hamelech* — and only afterward goes out to welcome the incoming governor. Shabbos is the *melech*; *Yom Tov* is the *aparchos*. One attends to the departure of Shabbos first before welcoming *Yom Tov*.
@@ -110,13 +112,14 @@ The force of this argument is evident. *Shmuel*'s position — and by extension 
 
 ## Shehecheyanu and Zman
 
+
+
 ### Abaye: Yakznah
 
-> **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? אַבָּיֵי אָמַר: יַקְזְנָ״ה, וְרָבָא אָמַר: יַקְנְהָ״ז, וְהִילְכְתָא כְּרָבָא.
->
-> **Translation:** The Gemara asks: **What** halakhic conclusion **was reached about** this matter? What is the proper order of the blessings? The *amora'im* accept Rav's opinion that one should recite *kiddush* before *havdala*; however, they disagree about the blessing of time, which is generally relevant in such cases and which Rav did not address. **Abaye said** that the proper order is ***yod*, *kuf*, *zayin*, *nun*, *heh*:** The blessing over wine [*yayin*], *kiddush*, the blessing for time [*zeman*], the blessing over the candle [*ner*], and *havdala*. **And Rava said** the order is ***yod*, *kuf*, *nun*, *heh*, *zayin*:** Wine [*yayin*], *kiddush*, candle [*ner*], *havdala*, and time [*zeman*]. The Gemara concludes: **And** the ***halakha*** is **in accordance with** the opinion of **Rava.**
-
 The preceding discussion had concerned *shevi'i shel Pesach*, where no *zman* is recited. Now the *gemara* must rule on the full formula for the ordinary case when *Yom Tov* follows Shabbos — including *shehecheyanu*. *Abaye* rules *yakznah*: *yayin*, *kiddush*, *zman*, *ner*, *havdalah*. This is a straightforward *Rav* position: *kiddush* with its standard appended *shehecheyanu*, followed by the normal *havdalah* sequence.
+
+> **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? אַבָּיֵי אָמַר: יַקְזְנָ״ה, וְרָבָא אָמַר: יַקְנְהָ״ז, וְהִילְכְתָא כְּרָבָא.
+> **Translation:** The Gemara asks: **What** halakhic conclusion **was reached about** this matter? What is the proper order of the blessings? The *amora’im* accept Rav’s opinion that one should recite *kiddush* before *havdala*; however, they disagree about the blessing of time, which is generally relevant in such cases and which Rav did not address. **Abaye said** that the proper order is ***yod*, *kuf*, *zayin*, *nun*, *heh*:** The blessing over wine [*yayin*], *kiddush*, the blessing for time [*zeman*], the blessing over the candle [*ner*], and *havdala*. **And Rava said** the order is ***yod*, *kuf*, *nun*, *heh*, *zayin*:** Wine [*yayin*], *kiddush*, candle [*ner*], *havdala*, and time [*zeman*]. The Gemara concludes: **And** the ***halakha*** is **in accordance with** the opinion of **Rava.**
 
 ### Rava: Yaknaz
 
@@ -128,42 +131,40 @@ The *Rashbam* explains that *shehecheyanu* is always said at the end of *kiddush
 
 ### Rava Accepted
 
+
 *Vahilkhata k'Rava* — the *halacha* follows *Rava*. The accepted practice is *yaknaz*: *yayin*, *kiddush*, *ner*, *havdalah*, *zman*. This places *kiddush* before *havdalah* — the opposite of what most would intuit — and concludes with *zman* at the end. Among the many proposed orderings discussed, *yaknaz* has also endured simply because it is memorable; it falls off the tongue in a way that other formulations do not.
 
 ---
 
 ## Ner vs. Besamim Order
 
+
+
 ### Rava's Practice
 
-> **Hebrew/Aramaic:** רַב הוּנָא בַּר יְהוּדָה אִיקְּלַע לְבֵי רָבָא, אַיְיתוֹ לְקַמַּיְיהוּ מָאוֹר וּבְשָׂמִים. בָּרֵיךְ רָבָא אַבְּשָׂמִים בְּרֵישָׁא וַהֲדַר אַמָּאוֹר. אֲמַר לֵיהּ: וְהָא בֵּין בֵּית שַׁמַּאי וּבֵין בֵּית הִילֵּל — מָאוֹר בְּרֵישָׁא וַהֲדַר אַבְּשָׂמִים.
->
+> **Hebrew/Aramaic:** רַב הוּנָא בַּר יְהוּדָה אִיקְּלַע לְבֵי רָבָא, אַיְיתוֹ לְקַמַּיְיהוּ מָאוֹר וּבְשָׂמִים. בָּרֵיךְ רָבָא אַבְּשָׂמִים בְּרֵישָׁא וַהֲדַר אַמָּאוֹר. אֲמַר לֵיהּ: וְהָא בֵּין בֵּית שַׁמַּאי וּבֵין בֵּית הִילֵּל — מָאוֹר בְּרֵישָׁא וַהֲדַר אַבְּשָׂמִים.
 > **Translation:** With regard to this issue of *havdala*, the Gemara relates that **Rav Huna bar Yehuda happened to** come to **the house of Rava.** After Shabbat, **they brought before them a light and spices. Rava recited the blessing over the spices first and then** the blessing **over the light.** Rav Huna bar Yehuda **said to him: But both Beit Shammai and Beit Hillel,** who dispute the order of the blessings at *havdala*, agree that the blessing over **light is first, and** only **then** comes the blessing **over the spices.**
+
+> **Hebrew/Aramaic:** וּמַאי הִיא? דִּתְנַן, בֵּית שַׁמַּאי אוֹמְרִים: נֵר וּמָזוֹן, בְּשָׂמִים וְהַבְדָּלָה. וּבֵית הִילֵּל אוֹמְרִים: נֵר וּבְשָׂמִים, וּמָזוֹן וְהַבְדָּלָה.
+> **Translation:** **And what is this;** what is the source that this is the dispute between Beit Shammai and Beit Hillel? **As we learned** in a mishna: **Beit Shammai say** that with regard to one who is required to say Grace after Meals and *havdala*, and he has only one cup of wine, the proper order of the blessings is: The blessing over the **candle, and** the blessing of Grace After **Meals,** followed by the blessing over the **spices, and** finally ***havdala*. And Beit Hillel say:** The blessing over the **candle** comes first, **and** then the blessing over the **spices, and** afterward the blessing of Grace After **Meals, and** last is ***havdala*.** Both Beit Shammai and Beit Hillel agree that the blessing over the candle is recited before blessing over the spices.
 
 *Rav Huna bar Yehuda* came to *Rava*'s house. When it came time for *havdalah*, they brought out fire and *besamim*. *Rava* recited the *beracha* on the *besamim* first and then on the fire — which is indeed our practice: *yayin*, *besamim*, *ner*, *havdalah*. *Rav Huna bar Yehuda* challenged this immediately: surely, between *Beit Shammai* and *Beit Hillel*, both agree that *maor* comes first?
 
 ### Shammai/Hillel Debate
 
-> **Hebrew/Aramaic:** וּמַאי הִיא? דִּתְנַן, בֵּית שַׁמַּאי אוֹמְרִים: נֵר וּמָזוֹן, בְּשָׂמִים וְהַבְדָּלָה. וּבֵית הִילֵּל אוֹמְרִים: נֵר וּבְשָׂמִים, וּמָזוֹן וְהַבְדָּלָה.
->
-> **Translation:** **And what is this;** what is the source that this is the dispute between Beit Shammai and Beit Hillel? **As we learned** in a mishna: **Beit Shammai say** that with regard to one who is required to say Grace after Meals and *havdala*, and he has only one cup of wine, the proper order of the blessings is: The blessing over the **candle, and** the blessing of Grace After **Meals,** followed by the blessing over the **spices, and** finally ***havdala*. And Beit Hillel say:** The blessing over the **candle** comes first, **and** then the blessing over the **spices, and** afterward the blessing of Grace After **Meals, and** last is ***havdala*.** Both Beit Shammai and Beit Hillel agree that the blessing over the candle is recited before blessing over the spices.
 
 The *gemara* cites the *mishnah* in *Berakhot*. *Beit Shammai* rules: *ner*, *mazon*, *besamim*, *havdalah*. *Beit Hillel* rules: *ner*, *besamim*, *mazon*, *havdalah*. The context here is the case where only one *kos* is available for both *birkas hamazon* and *havdalah* — a scenario already familiar from our earlier discussion. In this case one must integrate *birkas hamazon* into the *havdalah* sequence, and the debate between *Beit Shammai* and *Beit Hillel* is over how deeply to embed it. Both, however, appear to begin with *ner*, which is what *Rav Huna bar Yehuda* was pointing out.
 
 An important structural observation is worth making here: *borei meorei ha-esh* and *borei minei besamim* are independent of the *havdalah al hakos* proper. The *beracha* of *hamavdil* is specifically what constitutes *havdalah al hakos*. If one were unable to obtain fire or *besamim*, he could perform *havdalah* without them and recite those *berakhot* separately later. This independence is why they can be moved around within the *havdalah* sequence without disrupting its core.
 
-### Rava's Response
-
-> **Hebrew/Aramaic:** עָנֵי רָבָא בָּתְרֵיהּ וְאָמַר: זוֹ דִּבְרֵי רַבִּי מֵאִיר, אֲבָל רַבִּי יְהוּדָה אוֹמֵר: לֹא נֶחְלְקוּ בֵּית שַׁמַּאי וּבֵית הִילֵּל עַל הַמָּזוֹן שֶׁהוּא בַּתְּחִלָּה וְעַל הַבְדָּלָה שֶׁהִיא בַּסּוֹף,
->
-> **Translation:** **Rava answered after him and said: This** mishna is **the statement of Rabbi Meir. However, Rabbi Yehuda says: Beit Shammai and Beit Hillel did not disagree over** Grace After **Meals, as** everyone concurs that **it is** recited **first, nor** did they disagree **over *havdala*, as it is** recited **last.**
-
 *Rava* responded: *zu divrei Rabbi Meir* — that reading of the *Beit Shammai*/*Beit Hillel* debate is *Rabbi Meir*'s interpretation.
 
 ### Rabbi Yehuda's View
 
-> **Hebrew/Aramaic:** עַל מָה נֶחְלְקוּ? עַל הַמָּאוֹר וְעַל הַבְּשָׂמִים. בֵּית שַׁמַּאי אוֹמְרִים: מָאוֹר וְאַחַר כָּךְ בְּשָׂמִים, וּבֵית הִילֵּל אוֹמְרִים: בְּשָׂמִים וְאַחַר כָּךְ מָאוֹר. וְאָמַר רַבִּי יוֹחָנָן: נָהֲגוּ הָעָם כְּבֵית הִילֵּל וְאַלִּיבָּא דְּרַבִּי יְהוּדָה.
->
+> **Hebrew/Aramaic:** עָנֵי רָבָא בָּתְרֵיהּ וְאָמַר: זוֹ דִּבְרֵי רַבִּי מֵאִיר, אֲבָל רַבִּי יְהוּדָה אוֹמֵר: לֹא נֶחְלְקוּ בֵּית שַׁמַּאי וּבֵית הִילֵּל עַל הַמָּזוֹן שֶׁהוּא בַּתְּחִלָּה וְעַל הַבְדָּלָה שֶׁהִיא בַּסּוֹף,
+> **Translation:** **Rava answered after him and said: This** mishna is **the statement of Rabbi Meir. However, Rabbi Yehuda says: Beit Shammai and Beit Hillel did not disagree over** Grace After **Meals, as** everyone concurs that **it is** recited **first, nor** did they disagree **over *havdala*, as it is** recited **last.**
+
+> **Hebrew/Aramaic:** עַל מָה נֶחְלְקוּ? עַל הַמָּאוֹר וְעַל הַבְּשָׂמִים. בֵּית שַׁמַּאי אוֹמְרִים: מָאוֹר וְאַחַר כָּךְ בְּשָׂמִים, וּבֵית הִילֵּל אוֹמְרִים: בְּשָׂמִים וְאַחַר כָּךְ מָאוֹר. וְאָמַר רַבִּי יוֹחָנָן: נָהֲגוּ הָעָם כְּבֵית הִילֵּל וְאַלִּיבָּא דְּרַבִּי יְהוּדָה.
 > **Translation:** **With regard to what did they disagree?** They disagreed over the blessings recited in the middle of *havdala*, i.e., the blessings **over light and over the spices. Beit Shammai say: Light** first, **and spices thereafter; and Beit Hillel say: Spices** first, **and light thereafter. And Rabbi Yoḥanan said: The people were accustomed** to conduct themselves **in accordance with** the opinion of **Beit Hillel, according to** the interpretation of **Rabbi Yehuda.** Rava acted as dictated by this custom.
 
 *Rabbi Yehuda* reads the debate entirely differently. According to *Rabbi Yehuda*, *Beit Shammai* and *Beit Hillel* never disagreed about *mazon* at all. Both agree that *birkas hamazon* comes first — it is performed as its own standalone unit — and both agree that *havdalah* comes last. The entire debate between them concerns only the order of *ner* and *besamim* within *havdalah* itself: *Beit Shammai* holds *meor* then *besamim*; *Beit Hillel* holds *besamim* then *meor*.
@@ -182,33 +183,37 @@ With that understanding of the *ner*, the logic of *Beit Hillel*'s order becomes
 
 ### Hashevach Not Hanehnin
 
-One further point bears emphasis: *borei meorei ha-esh* is a *birkas hashevach*, not a *birkas hanehenin*. It is not a permission-seeking *beracha* required before deriving benefit from fire; it is an expression of praise evoked by the phenomenon of fire itself. Because it is a *birkas hashevach*, the sequence is first to experience the phenomenon and only then to recite the *beracha* — one should derive benefit from the light first, and then make the *beracha*. The *gemara* explicitly states one does not recite *borei meorei ha-esh* until *ad sheye'ousu le'oro* — until one has derived benefit from it. The proper practice is therefore to look at the fire (or do the customary hand gesture to derive benefit from the firelight) and then recite the *beracha* — not to recite the *beracha* and treat the hand gesture as an afterthought. The widespread practice of reciting the *beracha* first and then looking at one's hands unfortunately conveys the misleading impression that this is a *birkas hanehenin*, which it is not.
+One further point bears emphasis: *borei meorei ha-esh* is a *birkas hashevach*, not a *birkas hanehenin*. It is not a permission-seeking *beracha* required before deriving benefit from fire; it is an expression of praise evoked by the phenomenon of fire itself. That praise is itself connected to something deeper about fire's significance: fire is the paradigmatic expression of human creativity, and the *beracha* reflects the *shevach* owed to God for that creativity — a creativity that exists because humans are made *betzelem Elokim*, in the image of God. The Talmud's description of how *Adam HaRishon* came to make fire captures this precisely: *Motzaei Shabbos nasna Hakadosh Baruch Hu de'a be'Adam HaRishon me'ein dugma shel ma'ala* — at the close of Shabbos, the Holy One blessed be He placed wisdom into *Adam HaRishon*, something like a reflection of the pattern above. This is not the theft of fire from God, but a divinely granted partnership, and the *beracha* gives *shevach* for exactly that.
+
+Because it is a *birkas hashevach*, the sequence is first to experience the phenomenon and only then to recite the *beracha* — one should derive benefit from the light first, and then make the *beracha*. The *gemara* explicitly states one does not recite *borei meorei ha-esh* until *ad sheye'ousu le'oro* — until one has derived benefit from it. The proper practice is therefore to look at the fire (or do the customary hand gesture to derive benefit from the firelight) and then recite the *beracha* — not to recite the *beracha* and treat the hand gesture as an afterthought. The widespread practice of reciting the *beracha* first and then looking at one's hands unfortunately conveys the misleading impression that this is a *birkas hanehenin*, which it is not.
 
 ---
 
-## Multiple Wines One M (II)
+## Multiple Wines One Meal
+
+
 
 ### Two Boruchs?
 
-> **Hebrew/Aramaic:** רַב יַעֲקֹב בַּר אַבָּא אִיקְּלַע לְבֵי רָבָא, חַזְיֵהּ דְּבָרֵיךְ ״בּוֹרֵא פְּרִי הַגֶּפֶן״ אַכָּסָא קַמָּא, וַהֲדַר בָּרֵיךְ אַכָּסָא דְבִרְכְּתָא, וְאִישְׁתִּי. אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי? הָא בָּרֵיךְ לַן מָר חֲדָא זִימְנָא! אֲמַר לֵיהּ: כִּי הֲוֵינַן בֵּי רֵישׁ גָּלוּתָא הָכִי עָבְדִינַן.
->
-> **Translation:** The Gemara relates another incident with regard to establishing meals and reciting blessings. **Rav Ya'akov bar Abba happened to** come to **Rava's house** for a Shabbat meal. **He saw that** Rava **recited** the blessing: **Who creates the fruit of the vine, over the first cup** of wine he drank at the meal, **and then he recited** the same **blessing upon the cup of** wine he used for the **blessing** of Grace after Meals **and drank** it. **He said to him: Why do you** have to say **all this,** i.e., why is it necessary to recite a second blessing? **The Master has recited a blessing for us once** already, at the beginning of the meal, and thereby exempted us from a blessing on all the wine drunk during the meal. Rava **said to him: When we were in the house of the Exilarch, this was our practice.** It was the custom among the Sages to recite two blessings.
+> **Hebrew/Aramaic:** רַב יַעֲקֹב בַּר אַבָּא אִיקְּלַע לְבֵי רָבָא, חַזְיֵהּ דְּבָרֵיךְ ״בּוֹרֵא פְּרִי הַגֶּפֶן״ אַכָּסָא קַמָּא, וַהֲדַר בָּרֵיךְ אַכָּסָא דְבִרְכְּתָא, וְאִישְׁתִּי. אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי? הָא בָּרֵיךְ לַן מָר חֲדָא זִימְנָא! אֲמַר לֵיהּ: כִּי הֲוֵינַן בֵּי רֵישׁ גָּלוּתָא הָכִי עָבְדִינַן.
+> **Translation:** The Gemara relates another incident with regard to establishing meals and reciting blessings. **Rav Ya’akov bar Abba happened to** come to **Rava’s house** for a Shabbat meal. **He saw that** Rava **recited** the blessing: **Who creates the fruit of the vine, over the first cup** of wine he drank at the meal, **and then he recited** the same **blessing upon the cup of** wine he used for the **blessing** of Grace after Meals **and drank** it. **He said to him: Why do you** have to say **all this,** i.e., why is it necessary to recite a second blessing? **The Master has recited a blessing for us once** already, at the beginning of the meal, and thereby exempted us from a blessing on all the wine drunk during the meal. Rava **said to him: When we were in the house of the Exilarch, this was our practice.** It was the custom among the Sages to recite two blessings.
 
 *Rav Yaakov bar Abba* came to *Rava*'s house. He observed that *Rava* recited *borei pri hagafen* on the first cup of wine at the start of the meal, and then again recited *borei pri hagafen* on the *kos* used for *birkas hamazon* after benching. *Rav Yaakov bar Abba* challenged him: you already recited *borei pri hagafen* for us at the start of the meal — why do you need to recite it again on the *kos* of *birkas hamazon*?
 
+[DAF:103b]
 ### Different Contexts
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: תִּינַח בֵּי רֵישׁ גָּלוּתָא דְּהָכִי עָבֵיד, דְּסָפֵק מַיְיתֵי לַן סָפֵק לָא מַיְיתֵי לַן. הָכָא, הָא מַנַּח כָּסָא קַמַּן וְדַעְתַּן עִילָּוֵיהּ? אֲמַר לֵיהּ: אֲנָא עֲבַדִי כְּתַלְמִידֵי דְרַב, דְּרַב בְּרוֹנָא וְרַב חֲנַנְאֵל תַּלְמִידֵי דְרַב הֲווֹ יָתְבִי בִּסְעוֹדְתָּא
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: תִּינַח בֵּי רֵישׁ גָּלוּתָא דְּהָכִי עָבֵיד, דְּסָפֵק מַיְיתֵי לַן סָפֵק לָא מַיְיתֵי לַן. הָכָא, הָא מַנַּח כָּסָא קַמַּן וְדַעְתַּן עִילָּוֵיהּ? אֲמַר לֵיהּ: אֲנָא עֲבַדִי כְּתַלְמִידֵי דְרַב, דְּרַב בְּרוֹנָא וְרַב חֲנַנְאֵל תַּלְמִידֵי דְרַב הֲווֹ יָתְבִי בִּסְעוֹדְתָּא
 > **Translation:** **He said to him:** It works out **well to act this way** in **the house of the Exilarch, as there is uncertainty** as to whether **he will bring us** another cup of wine to drink, **or whether he will not bring us** another cup. Since we are dependent upon the host and cannot anticipate in advance whether we will drink more wine, each cup requires its own blessing. **Here,** however, **the cup is resting before us and our attention is on it,** i.e., we intend to drink this wine after Grace after Meals. What need is there to recite another blessing? **He said to him: I acted in accordance with the** opinion of the **students of Rav, as Rav Beruna and Rav Ḥananel, the students of Rav, were sitting** together **at a meal,**
+
+> **Hebrew/Aramaic:** קָאֵי עֲלַיְיהוּ רַב יֵיבָא סָבָא. אֲמַרוּ לֵיהּ: הַב לַן וְנִיבָרֵיךְ. לְסוֹף אֲמַרוּ לֵיהּ: הַב לַן וְנִישְׁתֵּי, אֲמַר לְהוּ: הָכִי אָמַר רַב, כֵּיוָן דְּאָמְרִיתוּ הַב לַן וְנִיבָרֵיךְ, אִיתַּסְרָא לְכוּ לְמִישְׁתֵּי. מַאי טַעְמָא, דְּאַסְחִיתוּ דַּעְתַּיְיכוּ.
+> **Translation:** and **Rav Yeiva the Elder stood over them** to serve them. **They said to him: Give us** a cup of wine **and we will recite the blessings** of Grace after Meals. **Ultimately, they** changed their mind and **said to him: Give us** a cup of wine **and we will drink** it. **He said to them** that **Rav said as follows: Since you** have **said: Give us** a cup **and we will recite the blessings** of Grace after Meals, **it is prohibited for you to drink** any more. **What is the reason** for this? The reason is **that you have diverted your attention** from drinking. Therefore, if you want to drink any more, you must recite the blessing over wine again.
 
 *Rava* replied by citing the practice of the house of the *Reish Galusa*, where he had served: there too they would make a second *borei pri hagafen* on the *kos* of *birkas hamazon*. His challenger pushed back: the situation in the house of the *Reish Galusa* is different — there one is a guest, not the *baal habayis*, and it is uncertain whether the host will continue to serve wine. Any new cup that arrives is a surprise, and a new *borei pri hagafen* is therefore required. Here, however, *hamanah kasa kaman* — the cup is right in front of us, and *bedaitin alavei* — our intention throughout the meal encompasses it. Why should another *beracha* be necessary?
 
-### Hifsek Hadaat
+*Rava*'s response to this is striking: he simply says *ana avdi k'talmidei deRav* — I follow the practice of *Rav*'s students. He then cites a story about *Rav Bruna* and *Rav Chananel*, both students of *Rav*, who were sitting at a meal. *Rav Yeiva Saba* was attending them as a *shamash*. They asked him to bring wine so they could bench — *havu lan venivrich* — but by the time he returned with it, they changed their minds and decided they wanted to drink more first before beginning *birkas hamazon*, saying *havu lan venishti*. The force of this story lies in exactly the dynamic the challenger described: even where the wine is present and one might assume a continuous intention, the question of what happens to one's *daas* at the threshold of *birkas hamazon* turns out to be more complicated than it appears — a question the gemara will take up directly in the next section.
 
-> **Hebrew/Aramaic:** קָאֵי עֲלַיְיהוּ רַב יֵיבָא סָבָא. אֲמַרוּ לֵיהּ: הַב לַן וְנִיבָרֵיךְ. לְסוֹף אֲמַרוּ לֵיהּ: הַב לַן וְנִישְׁתֵּי, אֲמַר לְהוּ: הָכִי אָמַר רַב, כֵּיוָן דְּאָמְרִיתוּ הַב לַן וְנִיבָרֵיךְ, אִיתַּסְרָא לְכוּ לְמִישְׁתֵּי. מַאי טַעְמָא, דְּאַסְחִיתוּ דַּעְתַּיְיכוּ.
->
-> **Translation:** and **Rav Yeiva the Elder stood over them** to serve them. **They said to him: Give us** a cup of wine **and we will recite the blessings** of Grace after Meals. **Ultimately, they** changed their mind and **said to him: Give us** a cup of wine **and we will drink** it. **He said to them** that **Rav said as follows: Since you** have **said: Give us** a cup **and we will recite the blessings** of Grace after Meals, **it is prohibited for you to drink** any more. **What is the reason** for this? The reason is **that you have diverted your attention** from drinking. Therefore, if you want to drink any more, you must recite the blessing over wine again.
+### Hifsek Hadaat
 
 *Rava* responded that he follows the teaching of *Rav*'s students. The issue here is the principle of *hissech hada'at* — the subjective or objective severing of intention — and how it applies at the transition into *birkas hamazon*.
 
@@ -230,10 +235,11 @@ This explains what is otherwise structurally puzzling: why is the *borei pri hag
 
 ## Three Rabbis' Methods
 
+
+
 ### Amemar: Every Cup
 
-> **Hebrew/Aramaic:** אַמֵּימָר וּמָר זוּטְרָא וְרַב אָשֵׁי הֲווֹ יָתְבִי בִּסְעוּדָה, וְקָאֵי עֲלַיְיהוּ רַב אַחָא בְּרֵיהּ דְּרָבָא. אַמֵּימָר בָּרֵיךְ עַל כׇּל כָּסָא וְכָסָא, וּמָר זוּטְרָא בָּרֵיךְ אַכָּסָא קַמָּא וְאַכָּסָא בָּתְרָא, רַב אָשֵׁי בָּרֵיךְ אַכָּסָא קַמָּא, וְתוּ לָא בָּרֵיךְ.
->
+> **Hebrew/Aramaic:** אַמֵּימָר וּמָר זוּטְרָא וְרַב אָשֵׁי הֲווֹ יָתְבִי בִּסְעוּדָה, וְקָאֵי עֲלַיְיהוּ רַב אַחָא בְּרֵיהּ דְּרָבָא. אַמֵּימָר בָּרֵיךְ עַל כׇּל כָּסָא וְכָסָא, וּמָר זוּטְרָא בָּרֵיךְ אַכָּסָא קַמָּא וְאַכָּסָא בָּתְרָא, רַב אָשֵׁי בָּרֵיךְ אַכָּסָא קַמָּא, וְתוּ לָא בָּרֵיךְ.
 > **Translation:** The Gemara relates that **Ameimar, Mar Zutra, and Rav Ashi were sitting at a meal, and Rav Aḥa, son of Rava, stood over them** to serve them. **Ameimar recited a blessing over each and every cup** of wine he drank. **And Mar Zutra recited a blessing over the first cup** he drank during the meal **and over the last cup** he drank, upon concluding Grace after Meals. **Rav Ashi recited a blessing over the first cup and** did **not recite any further blessings** over the subsequent cups he drank.
 
 *Amemar*, *Mar Zutra*, and *Rav Ashi* were sitting together at a meal, with *Rav Acha brei de-Rava* attending them. *Amemar* recited *borei pri hagafen* on every single cup of wine throughout the meal. His reasoning, as he later explained, was *nimlachana* — he was constantly changing his mind, deciding after each cup whether he would drink more or stop. Each new decision constituted a fresh intention, and therefore each cup required its own *beracha*.
@@ -248,35 +254,39 @@ This explains what is otherwise structurally puzzling: why is the *borei pri hag
 
 ### Which Method?
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב אַחָא בַּר רָבָא: אֲנַן כְּמַאן נַעֲבֵיד? אַמֵּימָר אָמַר: נִמְלָךְ אֲנָא. מָר זוּטְרָא אָמַר: אֲנָא דַּעֲבַדִי כְּתַלְמִידֵי דְרַב.
->
+> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב אַחָא בַּר רָבָא: אֲנַן כְּמַאן נַעֲבֵיד? אַמֵּימָר אָמַר: נִמְלָךְ אֲנָא. מָר זוּטְרָא אָמַר: אֲנָא דַּעֲבַדִי כְּתַלְמִידֵי דְרַב.
 > **Translation:** **Rav Aḥa bar Rava said to them: In accordance with whose** opinion should **we act** in this matter? We have witnessed three different courses of action. **Ameimar said: I** repeatedly **changed my mind.** In other words, the reason Ameimar recited a blessing over each cup was not because he maintains that it is always necessary to do so. Rather, he drank each cup with the intention that it should be his last. Consequently, he diverted his attention from drinking each time, and therefore he was required to recite a new blessing before he could drink again. **Mar Zutra said: I acted in accordance with the** opinion of the **students of Rav.** They maintain that one who prepares to recite Grace after Meals has completely diverted his attention from drinking, and therefore the blessing on wine that one recites during the meal does not include the wine he drinks after Grace after Meals.
 
-*Rav Acha bar Rava*, who was attending all three, asked: *anan k'man na'avid* — which of these approaches should we follow? The *gemara* records the reasoning of each *amora* but does not issue an explicit ruling here. *Rav Ashi* disputes whether the second *beracha* on the *kos* of *birkas hamazon* is necessary at all, while *Mar Zutra* holds that the transition into bentching creates an objective *hefsek* requiring one. *Amemar*'s position — a new *beracha* for every cup — is grounded in his own personal pattern of changing his mind throughout the meal. The question of which approach to adopt touches on how objectively the transition into *birkas hamazon* is defined and whether the original *beracha* can be extended to cover it.
+> **Hebrew/Aramaic:** וְרַב אָשֵׁי אָמַר: לֵית הִילְכְתָא כְּתַלְמִידֵי דְרַב, דְּהָא יוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת, וְאָמַר רַב: יַקְנֶ״ה.
+> **Translation:** **And Rav Ashi said:** The ***halakha*** is **not in accordance with** the opinion of **the students of Rav.** This can be proven from a ruling of Rav himself, **as** with regard to **a Festival that occurs after Shabbat, Rav said** that the order of blessings is ***yod*, *kuf*, *nun*, *heh*:** Wine [*yayin*], *kiddush*, candle [*ner*], and *havdala*. This shows that although one recites *kiddush* between the blessing over wine and *havdala*, it is unnecessary to recite the blessing over wine again before *havdala*. The same should hold true in our case: Just as *kiddush* is not considered an interruption between the blessing over wine and its consumption, Grace after Meals should not be considered an interruption either.
+
+> **Hebrew/Aramaic:** וְלָא הִיא, הָתָם — עָקַר דַּעְתֵּיהּ מִמִּשְׁתְּיָא, הָכָא — לָא עָקַר דַּעְתֵּיהּ מִמִּשְׁתְּיָא.
+> **Translation:** The Gemara rejects this reasoning: **And that is not so. There,** when one is preparing himself to recite Grace after Meals, he has already **uprooted his mind from drinking. Here,** with regard to *kiddush* and *havdala*, **he has not uprooted his mind from drinking.**
+
+*Rav Acha bar Rava*, who was attending all three, asked: *anan k'man na'avid* — which of these approaches should we follow? The *gemara* records the reasoning of each *amora* but does not issue an explicit ruling here. *Amemar*'s position — a new *beracha* for every cup — is grounded in his own personal pattern of changing his mind throughout the meal: after each cup he had resolved to stop, and each new decision to drink again required a fresh *beracha*. *Mar Zutra* follows the teaching transmitted to the students of *Rav* — and it is worth noting, as the *gemara* itself implies, that it was actually *Rav Yeba Saba* who reported this ruling to those students, so the attribution to the students of *Rav* is really a shorthand — namely that the transition into *birkas hamazon* constitutes a *hefsek*, requiring a new *borei pri hagafen* on the *kos* of *birkas hamazon*. *Rava* disagrees and attempts to draw support from the rule of *yaknah*: when *Yom Tov* falls immediately after *Shabbat*, *Rav* rules that a single cup of wine serves for both *kiddush* and *havdalah* without requiring a second *borei pri hagafen*, which would suggest that adjacent ritual acts need not each generate a new *beracha*. The *gemara* rejects this comparison, however, on the grounds that *hatam ikar daitaihu mi-mishtaya* — in the *yaknah* case, one has not actually disengaged from drinking, whereas *birkas hamazon* represents an objective conclusion to the meal regardless of what one may have been thinking. That distinction is worth pausing on: the *gemara*'s position is that the move into bentching is an objective *hefsek* — *kovei'a* in itself — and we do not ask what was actually going through the person's mind. This stands in contrast to *nimlach*, where the subjective state of equivocation is precisely what is being measured. *Rav Ashi* disputes whether the second *beracha* on the *kos* of *birkas hamazon* is necessary at all, while *Mar Zutra* holds that the transition into bentching creates an objective *hefsek* requiring one. The question of which approach to adopt thus touches on how objectively the transition into *birkas hamazon* is defined and whether the original *beracha* can be extended to cover it.
 
 ---
 
 ## Multiple Wines One M (II)
 
-### Tosafot Wine Discussion
 
-> **Hebrew/Aramaic:** וְרַב אָשֵׁי אָמַר: לֵית הִילְכְתָא כְּתַלְמִידֵי דְרַב, דְּהָא יוֹם טוֹב שֶׁחָל לִהְיוֹת אַחַר הַשַּׁבָּת, וְאָמַר רַב: יַקְנֶ״ה.
->
-> **Translation:** **And Rav Ashi said:** The ***halakha*** is **not in accordance with** the opinion of **the students of Rav.** This can be proven from a ruling of Rav himself, **as** with regard to **a Festival that occurs after Shabbat, Rav said** that the order of blessings is ***yod*, *kuf*, *nun*, *heh*:** Wine [*yayin*], *kiddush*, candle [*ner*], and *havdala*. This shows that although one recites *kiddush* between the blessing over wine and *havdala*, it is unnecessary to recite the blessing over wine again before *havdala*. The same should hold true in our case: Just as *kiddush* is not considered an interruption between the blessing over wine and its consumption, Grace after Meals should not be considered an interruption either.
+
+### Tosafot Wine Discussion
 
 *Tosafot* raises a question based on the position of *Rav Ashi*: if — absent the complication of *birkas hamazon* — a single *borei pri hagafen* at the start of the meal covers all wine drunk during it, why is a new *borei pri hagafen* required at all for the various cups throughout the evening?
 
-One distinction of anthropological interest emerges from *Tosafot*'s discussion. *Tosafot* notes that in earlier practice, the table would sometimes be cleared of bread before *birkas hamazon*, and people would continue to drink wine or eat fruit after the bread course ended. This created genuine questions about whether a *beracha achrona* was required on such items or whether the subsequent *birkas hamazon* would cover them. *Tosafot* observes: *ein anu mesalkim yadeinu mi-pat ad Birkat Hamazon* — in our practice, bread continues throughout the meal straight up to *birkas hamazon*, and therefore everything is considered within the *seudah* and no separate *beracha achrona* is needed for anything eaten during that span. The structural reality of how meals are conducted — with bread present throughout — resolves what in the *gemara*'s context was an open question.
+One distinction of anthropological interest emerges from *Tosafot*'s discussion. *Tosafot* notes that in earlier practice, the table would sometimes be cleared of bread before *birkas hamazon*, and people would continue to drink wine or eat fruit after the bread course ended. This created genuine questions about whether a *beracha achrona* was required on such items or whether the subsequent *birkas hamazon* would cover them. *Tosafot* observes: *ein anu mesalkim yadeinu mi-pat ad Birkat Hamazon* — in our practice, bread continues throughout the meal straight up to *birkas hamazon*, and therefore everything is considered within the *seudah* and no separate *beracha achrona* is needed for anything eaten during that span. The structural reality of how meals are conducted — with bread present throughout — resolves what in the *gemara*'s context was an open question. It is worth noting that this same principle has a bearing on the question of items that are *lo ba machmat haseudah* — things brought not to fill but purely for taste, such as dessert. Even if such an item might in theory warrant a *beracha rishona* on its own, the question of whether it requires a separate *beracha achrona* is for us entirely moot: since bread runs straight through to *birkas hamazon*, the *birkas hamazon* is *poteir* everything, and the scenario that would make a separate *beracha achrona* a live issue simply does not arise in practice.
 
 ---
 
 ## Havdalah Candle Quality
 
+
+
 ### Torch Practice
 
-> **Hebrew/Aramaic:** כִּי מְטָא לְאַבְדּוֹלֵי, קָם שַׁמָּעֵיהּ וְאַדְלֵיק אֲבוּקָה מִשְּׁרָגָא. אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי, הָא מַנְחָא שְׁרָגָא! אֲמַר לֵיהּ: שַׁמָּעָא מִדַּעְתֵּיהּ דְּנַפְשֵׁיהּ קָא עָבֵיד. אֲמַר לֵיהּ: אִי לָא שְׁמִיעַ לֵיהּ מִינֵּיהּ דְּמָר, לָא הֲוָה עָבֵיד! אֲמַר לֵיהּ: לָא סָבַר לֵיהּ מָר אֲבוּקָה לְהַבְדָּלָה מִצְוָה מִן הַמּוּבְחָר.
->
-> **Translation:** After discussing the opinion of the students of Rav, the Gemara returns to the story of Rav Ya'akov bar Abba's visit to Rava. **When** the time **came to recite *havdala*,** Rava's **attendant got up and lit a torch from a candle.** Rav Ya'akov bar Abba **said to him: Why do you** need **all this? The candle was present,** and you could have recited the blessing over the light of the candle itself. Rava **said to him: The attendant did** this **on his own** accord, without consulting me. Rav Ya'akov bar Abba **said to him: If he had not heard it from the Master he would not have done it** on his own; he must have been following your opinion on this matter. Rava **said to him: Does the Master not maintain** that using **a torch for *havdala* is the optimal manner** in which **to fulfill the mitzva?** It is for this reason that the attendant lit a torch for *havdala*.
+> **Hebrew/Aramaic:** כִּי מְטָא לְאַבְדּוֹלֵי, קָם שַׁמָּעֵיהּ וְאַדְלֵיק אֲבוּקָה מִשְּׁרָגָא. אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי, הָא מַנְחָא שְׁרָגָא! אֲמַר לֵיהּ: שַׁמָּעָא מִדַּעְתֵּיהּ דְּנַפְשֵׁיהּ קָא עָבֵיד. אֲמַר לֵיהּ: אִי לָא שְׁמִיעַ לֵיהּ מִינֵּיהּ דְּמָר, לָא הֲוָה עָבֵיד! אֲמַר לֵיהּ: לָא סָבַר לֵיהּ מָר אֲבוּקָה לְהַבְדָּלָה מִצְוָה מִן הַמּוּבְחָר.
+> **Translation:** After discussing the opinion of the students of Rav, the Gemara returns to the story of Rav Ya’akov bar Abba’s visit to Rava. **When** the time **came to recite *havdala*,** Rava’s **attendant got up and lit a torch from a candle.** Rav Ya’akov bar Abba **said to him: Why do you** need **all this? The candle was present,** and you could have recited the blessing over the light of the candle itself. Rava **said to him: The attendant did** this **on his own** accord, without consulting me. Rav Ya’akov bar Abba **said to him: If he had not heard it from the Master he would not have done it** on his own; he must have been following your opinion on this matter. Rava **said to him: Does the Master not maintain** that using **a torch for *havdala* is the optimal manner** in which **to fulfill the mitzva?** It is for this reason that the attendant lit a torch for *havdala*.
 
 Returning to the scene at *Rava*'s house: when the time came for *havdalah*, his *shamash* arose and lit a torch rather than using the simple candle that was already present. *Rav Yaakov bar Abba* challenged this: why go to the trouble of lighting a torch when a candle is already available? *Rava* initially deflected by saying his *shamash* acted on his own initiative — *m'daata d'nafshei avid*. But his questioner pressed: if your attendant hadn't heard you instruct him to do so, he would not have done it on his own. What is the reason?
 
@@ -292,30 +302,31 @@ The reason is not spelled out explicitly in the text, but it may be connected to
 
 ## Havdalot Content
 
-### Rava's Four Parts
 
-> **Hebrew/Aramaic:** פָּתַח וְאָמַר: ״הַמַּבְדִּיל בֵּין קוֹדֶשׁ לְחוֹל בֵּין אוֹר לְחֹשֶׁךְ בֵּין יִשְׂרָאֵל לָעַמִּים בֵּין יוֹם הַשְּׁבִיעִי לְשֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה״ אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי? וְהָאָמַר רַב יְהוּדָה אָמַר רַב: ״הַמַּבְדִּיל בֵּין קוֹדֶשׁ לְחוֹל״ זוֹ הִיא הַבְדָּלָתוֹ שֶׁל רַבִּי יְהוּדָה הַנָּשִׂיא?
->
-> **Translation:** Rava **began** his recitation of *havdala* **and said: Who distinguishes between sacred and profane, between light and darkness, between Israel and the nations, between the seventh day and the six days of work.** Rav Ya'akov bar Abba **said to him: Why do you** need **all this? Didn't Rav Yehuda say** that **Rav said** with regard to the statement: **Who distinguishes between sacred and profane,** that **this** alone **is the *havdala* of Rabbi Yehuda HaNasi?** Why is this plain statement not enough for you?
+
+### Rava's Four Parts
 
 Having just performed *havdalah*, *Rava* recited a formula containing four *havdalah* clauses: *hamavdil bein kodesh le-chol, bein or le-choshech, bein Yisrael le-amim, bein yom hashevi'i le-sheshes yemei hama'aseh*.
 
+> **Hebrew/Aramaic:** פָּתַח וְאָמַר: ״הַמַּבְדִּיל בֵּין קוֹדֶשׁ לְחוֹל בֵּין אוֹר לְחֹשֶׁךְ בֵּין יִשְׂרָאֵל לָעַמִּים בֵּין יוֹם הַשְּׁבִיעִי לְשֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה״ אֲמַר לֵיהּ: לְמָה לָךְ כּוּלֵּי הַאי? וְהָאָמַר רַב יְהוּדָה אָמַר רַב: ״הַמַּבְדִּיל בֵּין קוֹדֶשׁ לְחוֹל״ זוֹ הִיא הַבְדָּלָתוֹ שֶׁל רַבִּי יְהוּדָה הַנָּשִׂיא?
+> **Translation:** Rava **began** his recitation of *havdala* **and said: Who distinguishes between sacred and profane, between light and darkness, between Israel and the nations, between the seventh day and the six days of work.** Rav Ya’akov bar Abba **said to him: Why do you** need **all this? Didn’t Rav Yehuda say** that **Rav said** with regard to the statement: **Who distinguishes between sacred and profane,** that **this** alone **is the *havdala* of Rabbi Yehuda HaNasi?** Why is this plain statement not enough for you?
+
 ### R. Yehuda View
+
 
 His interlocutor challenged him, citing a ruling of *Rav Yehuda* in the name of *Rav*: *hamavdil bein kodesh le-chol* — this single clause constitutes *Rabbi Yehuda HaNasi*'s *havdalah*. Not only in the *chasimah* but in the body of the *beracha* itself, a single *havdalah* clause is sufficient.
 
 ### Min/Max Separations
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֲנָא כְּהָא סְבִירָא לִי, דְּאָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי אוֹשַׁעְיָא: הַפּוֹחֵת לֹא יִפְחוֹת מִשָּׁלֹשׁ, וְהַמּוֹסִיף לֹא יוֹסִיף עַל שֶׁבַע. אֲמַר לֵיהּ:
->
-> **Translation:** **He said to him: I maintain in accordance with this** statement **that Rabbi Elazar said** that **Rabbi Oshaya said: One who decreases** the number of distinctions in the text of the *havdala* should **not decrease** them to **less than three, and one who increases** the number of distinctions should **not increase** them to **more than seven.** Rav Ya'akov bar Abba **said to him:**
 
 *Rava* responded by invoking a different tradition: *Rabbi Elazar* in the name of *Rabbi Yehoshua* teaches that if one reduces the number of *havdalot*, he should say no fewer than three; if he wishes to add, he should say no more than seven. *Rava* therefore holds that one must articulate multiple forms of *havdalah*, and three is the minimum.
 
 ### Me'ein Chasimah
 
-> **Hebrew/Aramaic:** וְהָא מָר לָא תְּלָתָא אָמַר וְלָא שְׁבַע אָמַר! אֲמַר לֵיהּ: אִיבְרָא ״בֵּין יוֹם הַשְּׁבִיעִי לְשֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה״, מֵעֵין חֲתִימָה הִיא, וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הַמַּבְדִּיל צָרִיךְ שֶׁיֹּאמַר מֵעֵין חֲתִימָה סָמוּךְ לַחֲתִימָתוֹ. וּפוּמְבְּדִיתָאֵי אָמְרִי מֵעֵין פְּתִיחָתָן סָמוּךְ לַחֲתִימָתָן.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֲנָא כְּהָא סְבִירָא לִי, דְּאָמַר רַבִּי אֶלְעָזָר אָמַר רַבִּי אוֹשַׁעְיָא: הַפּוֹחֵת לֹא יִפְחוֹת מִשָּׁלֹשׁ, וְהַמּוֹסִיף לֹא יוֹסִיף עַל שֶׁבַע. אֲמַר לֵיהּ:
+> **Translation:** **He said to him: I maintain in accordance with this** statement **that Rabbi Elazar said** that **Rabbi Oshaya said: One who decreases** the number of distinctions in the text of the *havdala* should **not decrease** them to **less than three, and one who increases** the number of distinctions should **not increase** them to **more than seven.** Rav Ya’akov bar Abba **said to him:**
+
+> **Hebrew/Aramaic:** וְהָא מָר לָא תְּלָתָא אָמַר וְלָא שְׁבַע אָמַר! אֲמַר לֵיהּ: אִיבְרָא ״בֵּין יוֹם הַשְּׁבִיעִי לְשֵׁשֶׁת יְמֵי הַמַּעֲשֶׂה״, מֵעֵין חֲתִימָה הִיא, וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הַמַּבְדִּיל צָרִיךְ שֶׁיֹּאמַר מֵעֵין חֲתִימָה סָמוּךְ לַחֲתִימָתוֹ. וּפוּמְבְּדִיתָאֵי אָמְרִי מֵעֵין פְּתִיחָתָן סָמוּךְ לַחֲתִימָתָן.
 > **Translation:** **But the Master did not say three** distinctions, **nor did he say seven,** as he actually mentioned four distinctions. **He said to him: In truth,** that is inaccurate, as the distinction **between the seventh day and the six days of work** is not considered a separate statement of distinction. Rather, this distinction is mentioned because it is **similar to the conclusion** of the blessing, **and Rav Yehuda said** that **Shmuel said: One who recites *havdala* must say** an expression that is **similar to the conclusion near the conclusion** of the blessing, to emphasize the connection between the blessing and its conclusion. **And the** scholars **of Pumbedita say** that one must say a phrase **similar to the beginnings** of blessings **near their conclusions.**
 
 The objection raised is that *Rava* said four — not three and not seven. *Rava* responded: *ivra* — true, and here is the explanation. The first three clauses — *bein kodesh le-chol*, *bein or le-choshech*, *bein Yisrael le-amim* — constitute his three *havdalot*. The fourth clause — *bein yom hashevi'i le-sheshes yemei hama'aseh* — is not an additional *havdalah* in its own right. It functions as a *me'ein chasimah*: the line leading into the final *chasimah* of *hamavdil bein kodesh le-chol* must echo the theme of that concluding *beracha*. There is a general rule in the laws of *berakhot* — *tzricha shetehei me'ein chasimah* — the preceding line must evoke the content of the closing blessing. *Bein yom hashevi'i le-sheshes yemei hama'aseh* serves precisely that function, returning the listener to the specific theme of the *beracha*'s conclusion. In principle, then, *Rava* recited exactly three *havdalot* — meeting *Rabbi Yehoshua*'s minimum — with the fourth line serving as a structural lead-in rather than an independent clause.
@@ -323,6 +334,8 @@ The objection raised is that *Rava* said four — not three and not seven. *Rava
 ---
 
 ## Pesach Wine Blessings
+
+
 
 ### Tosafot Question
 

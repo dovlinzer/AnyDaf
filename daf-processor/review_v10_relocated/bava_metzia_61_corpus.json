@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Ein Li Ela Beloveh",
+    "candidates": [
+      "Beraita: Neshech/Tarbit",
+      "Ein Li Ela Beloveh",
+      "Kol Davar Lerabot",
+      "Ravina's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita's question of deriving the prohibition for the lender from the borrower's pasuk via gezeirah shavah, and the extension to 'kol davar' \u2014 all of which is explicitly described in the 'Ein Li Ela Beloveh' prose, which covers both the bamalveh minayin question and the gezeirah shavah answer including the neshech kol davar conclusion.",
+      "chosen_heading": "Ein Li Ela Beloveh",
+      "current_heading": "Ein Li Ela Beloveh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Ravina's Reading",
+    "candidates": [
+      "Kol Davar Lerabot",
+      "Ravina's Reading",
+      "Gezeirah Shavah: Davar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ravina's argument that the juxtaposition of neshech and marbit in the Vayikra verse already teaches their equal application to food and money, which is precisely what the prose under 'Ravina's Reading' describes.",
+      "chosen_heading": "Ravina's Reading",
+      "current_heading": "Ravina's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Gezeirah Shavah: Davar",
+    "candidates": [
+      "Gezeirah Shavah: Davar",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the objection-and-resolution sequence about Ravina's use of the gezeirah shavah, which is precisely what the prose of heading 0 describes in detail.",
+      "chosen_heading": "Gezeirah Shavah: Davar",
+      "current_heading": "Gezeirah Shavah: Davar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Rava's Question",
+      "Ribis \u2260 Gezel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's opening question about why the Torah needs to state three separate prohibitions, which matches exactly the prose of 'Rava's Question' describing his inquiry into the structure and redundancy of these three prohibitions.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Ribis \u2260 Gezel",
+    "candidates": [
+      "Ribis \u2260 Gezel",
+      "Ona'ah \u2260 Gezel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why ribis cannot serve as the source for other prohibitions because it is a chiddush \u2014 specifically that it prohibits even the borrower \u2014 which directly matches the 'Ribis \u2260 Gezel' prose discussing ribis as a novel category distinct from ordinary theft.",
+      "chosen_heading": "Ribis \u2260 Gezel",
+      "current_heading": "Ribis \u2260 Gezel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Ona'ah \u2260 Gezel",
+    "candidates": [
+      "Ona'ah \u2260 Gezel",
+      "Common Denominator Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ona'ah \u2260 Gezel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss why no single prohibition can be derived from one other prohibition (the bilateral derivation failures), which matches heading 0's prose about gezel vs. ona'ah and the directional derivation problems.",
+      "second_heading": "Common Denominator Test",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 explore whether any one prohibition can be derived from the other two together (the common denominator/tzad hashaveh test), which matches exactly heading 1's prose about Rava's systematic common denominator analysis.",
+      "current_heading": "Ona'ah \u2260 Gezel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Common Denominator Test",
+    "candidates": [
+      "Common Denominator Test",
+      "Ill-Gotten Gain",
+      "Gezel: Why Explicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'ribis tochiach' step in the cycling argument about deriving gezel from the common denominator of ribis and ona'ah, which is explicitly described in the 'Common Denominator Test' prose as part of the back-and-forth: 'mah l'ona'ah sheken lo yada d'machil... then ribis tochiach.'",
+      "chosen_heading": "Common Denominator Test",
+      "current_heading": "Common Denominator Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Gezel: Why Explicit",
+    "candidates": [
+      "Ill-Gotten Gain",
+      "Gezel: Why Explicit",
+      "False Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items deal with the exact content described in the 'Gezel: Why Explicit' prose: the hatzad hashaveh leading to gezel, why the explicit gezel pasuk is needed (kovesh sechar sachir), the objection from lo ta'ashok, the answer of two lavin, the davar halamad meinyano principle, and the lo tignovu baraita \u2014 all perfectly matching candidate 1's prose description.",
+      "chosen_heading": "Gezel: Why Explicit",
+      "current_heading": "Gezel: Why Explicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "False Measures",
+    "candidates": [
+      "False Measures",
+      "Divine Discernment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the prohibition against false weights and measures (burying weights in salt, measuring land differently by season, frothing liquid measures, and the kal vachomer about small measures), which is precisely what the 'False Measures' prose section describes in detail.",
+      "chosen_heading": "False Measures",
+      "current_heading": "False Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Divine Discernment",
+    "candidates": [
+      "Divine Discernment",
+      "Hidden Fraud Cases",
+      "Rav Chanina Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's complete question-and-answer about why yetzias Mitzrayim appears in three contexts, with the unifying theme of divine discernment \u2014 exactly what heading 0 ('Divine Discernment') describes in its prose.",
+      "chosen_heading": "Divine Discernment",
+      "current_heading": "Divine Discernment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rav Chanina Question",
+    "candidates": [
+      "Hidden Fraud Cases",
+      "Rav Chanina Question",
+      "Hama'aleh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous exchange between Ravina and Rav Chanina \u2014 item 1 gives Ravina's initial answer about hidden fraud, and item 2 is Rav Chanina's follow-up clarifying that his real question is about the specific word 'hama'aleh' \u2014 exactly what the 'Rav Chanina Question' prose describes as *ana hama'aleh kashya li*.",
+      "chosen_heading": "Rav Chanina Question",
+      "current_heading": "Rav Chanina Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Hama'aleh",
+    "candidates": [
+      "Hama'aleh",
+      "Elevation Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Ravina citing the school of Rabbi Yishmael about God redeeming Israel from Egypt for the sake of not defiling themselves with sheratzim, which is precisely what heading 0's prose discusses and introduces.",
+      "chosen_heading": "Hama'aleh",
+      "current_heading": "Hama'aleh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Elevation Explanation",
+    "candidates": [
+      "Elevation Explanation",
+      "Ribis Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the exchange between Rav \u1e24anina and Ravina about whether the reward for avoiding sheratzim exceeds that of ribis/tzitzis/weights, and Ravina's response about repulsiveness \u2014 which is precisely what the 'Elevation Explanation' prose describes and analyzes.",
+      "chosen_heading": "Elevation Explanation",
+      "current_heading": "Elevation Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Ribis Categories",
+    "candidates": [
+      "Ribis Categories",
+      "Father Collects Ribis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Torah/rabbinic distinction in the mishna's ribis categories \u2014 item 1 raises the question about prior cases and item 2 gives Rabbi Abbahu's and Rava's answer dividing the mishna into Torah-level and rabbinic-level ribis \u2014 which is precisely what the 'Ribis Categories' prose describes.",
+      "chosen_heading": "Ribis Categories",
+      "current_heading": "Ribis Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Father Collects Ribis",
+    "candidates": [
+      "Father Collects Ribis",
+      "Eliezer: Court Recovery",
+      "Yochanan: Not Gezel",
+      "Divine Consequence Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Father Collects Ribis",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the verse 'yachin rasha v'yilbash tzadik' and the division between ribis ketzutza and avak ribis in the mishna, which the prose under heading 0 explicitly covers in detail.",
+      "second_heading": "Eliezer: Court Recovery",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Elazar's ruling that ribis ketzutza is recoverable by judges while avak ribis is not, which matches exactly the prose under heading 1 ('Eliezer: Court Recovery').",
+      "current_heading": "Father Collects Ribis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Divine Consequence Only",
+    "candidates": [
+      "Eliezer: Court Recovery",
+      "Yochanan: Not Gezel",
+      "Divine Consequence Only",
+      "Oppression Dynamic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yitzchak's and Rav Adda bar Ahava's proof texts supporting that ribis is subject to divine consequence but not court-enforceable restitution, which is precisely what the 'Divine Consequence Only' prose describes.",
+      "chosen_heading": "Divine Consequence Only",
+      "current_heading": "Divine Consequence Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Oppression Dynamic",
+    "candidates": [
+      "Oppression Dynamic",
+      "Restore Brotherhood",
+      "Chayecha Kodmim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's derivation comparing ribis lenders to shedders of blood and the resulting non-repayability ruling, which is precisely what the 'Oppression Dynamic' prose section discusses in detail.",
+      "chosen_heading": "Oppression Dynamic",
+      "current_heading": "Oppression Dynamic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Chayecha Kodmim",
+    "candidates": [
+      "Restore Brotherhood",
+      "Chayecha Kodmim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the debate between Rabbi Elazar and Rabbi Yochanan over the verse 'v'chai achicha imach' \u2014 items 1-2 give Rabbi Elazar's derivation (return the interest), and item 3 gives Rabbi Yochanan's counter-use of the same verse \u2014 and candidate 0's prose ('Restore Brotherhood') explicitly discusses this entire exchange, while candidate 1 ('Chayecha Kodmim') only discusses the Ben Petura/Rabbi Akiva desert-water baraita portion as a wrap-up.",
+      "chosen_heading": "Restore Brotherhood",
+      "current_heading": "Chayecha Kodmim",
+      "moved": true
+    }
+  }
+]

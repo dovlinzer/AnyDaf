@@ -1,0 +1,428 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Exemptions",
+    "candidates": [
+      "Intro to Shemen",
+      "Exemptions",
+      "Non-Jews & Adam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about exemptions for animals, vessels, corpses, and gentiles, and ends with the question about why gentiles are exempt \u2014 exactly what the 'Exemptions' prose describes, before the 'Non-Jews & Adam' section takes up the resolution of that question.",
+      "chosen_heading": "Exemptions",
+      "current_heading": "Exemptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Non-Jews & Adam",
+    "candidates": [
+      "Non-Jews & Adam",
+      "Kings & Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the exact content described in the 'Non-Jews & Adam' prose: the Ezekiel derivation, the two counter-proofs from Numbers and Jonah, and the alternative answer about kol sheyeshno b'sicha \u2014 all of which are explicitly covered in that section's prose.",
+      "chosen_heading": "Non-Jews & Adam",
+      "current_heading": "Non-Jews & Adam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Kings & Kohanim",
+    "candidates": [
+      "Kings & Kohanim",
+      "Sicha vs. Netina",
+      "Deriving Kol Shehu",
+      "Rav Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about anointing kings/kohanim, the dispute between Rabbi Meir and Rabbi Yehuda on liability, the quantity debate, and the Gemara's resolution about hedyot \u2014 all of which exactly match the prose under 'Kings & Kohanim'.",
+      "chosen_heading": "Kings & Kohanim",
+      "current_heading": "Kings & Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rav Yehuda",
+    "candidates": [
+      "Sicha vs. Netina",
+      "Deriving Kol Shehu",
+      "Rav Yehuda",
+      "Two Debates",
+      "R. Meir Position",
+      "R. Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Yosef's explanation of the Rabbi Meir/Rabbi Yehuda dispute about sicha vs. netina and their respective quantity standards, which is exactly what heading 0 ('Sicha vs. Netina') describes \u2014 the crux of the quantity debate based on the two different verbs used in the pesukim.",
+      "chosen_heading": "Sicha vs. Netina",
+      "current_heading": "Rav Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "R. Yehuda Position",
+    "candidates": [
+      "Two Debates",
+      "R. Meir Position",
+      "R. Yehuda Position",
+      "Individual vs. Class",
+      "Kohen's Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Meir's and Rabbi Yehuda's positions together in one Talmudic unit, and the prose under 'R. Meir Position' (index 1) introduces this as 'the Gemara now returns to the debate about kings and kohanim and asks what its underlying logic is,' which matches the passage's framing of Rav Yosef asking what the dispute is about and then presenting both sides \u2014 making it the better single home for the entire quoted text.",
+      "chosen_heading": "R. Meir Position",
+      "current_heading": "R. Yehuda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Kohen's Daughter",
+    "candidates": [
+      "Individual vs. Class",
+      "Kohen's Daughter",
+      "R. Eliezer's Derasha",
+      "Kohen Gadol Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita about the daughter of a priest (bat kohen) that demonstrates Rabbi Meir and Rabbi Yehuda following their respective lines of reasoning, which is precisely what candidate 1 ('Kohen's Daughter') discusses in its prose.",
+      "chosen_heading": "Kohen's Daughter",
+      "current_heading": "Kohen's Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Kohen Gadol Case",
+    "candidates": [
+      "R. Eliezer's Derasha",
+      "Kohen Gadol Case",
+      "Trumah vs. Shemen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohen Gadol Case",
+      "first_confidence": "medium",
+      "first_reason": "Rav Yosef's statement about the dispute applying to placing of anointing oil and the olive-bulk measure is part of the ongoing Kohen Gadol case discussion about quantities and liabilities related to shemen hamishcha.",
+      "second_heading": "R. Eliezer's Derasha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the tanna teaching before Rabbi Elazar about kol sheyeshno b'sicha/lo yisach, which the prose of 'R. Eliezer's Derasha' describes precisely, including the shapir kamarta response and the causative reading of lo yisach.",
+      "current_heading": "Kohen Gadol Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Trumah vs. Shemen",
+    "candidates": [
+      "Trumah vs. Shemen",
+      "Three Categories",
+      "Tuma'at Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange about the High Priest taking anointing oil and the contrast with teruma oil, which is exactly what the 'Trumah vs. Shemen' section's prose discusses in detail.",
+      "chosen_heading": "Trumah vs. Shemen",
+      "current_heading": "Trumah vs. Shemen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Tuma'at Mikdash",
+    "candidates": [
+      "Three Categories",
+      "Tuma'at Mikdash",
+      "Yom Kippur Q",
+      "Atone w/o Teshuva?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnah's exception for tuma'at mikdash and the Gemara's question 'mimai mapik lei' with the answer that this category is excluded from asham talui, which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Tuma'at Mikdash",
+      "current_heading": "Tuma'at Mikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Atone w/o Teshuva?",
+    "candidates": [
+      "Yom Kippur Q",
+      "Atone w/o Teshuva?",
+      "Willingness Question",
+      "Chatat & Will"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question of why Yom Kippur was not listed as an exclusion from asham talui, with Reish Lakish's answer (item 1) and Rabbi Yochanan's alternative answer (item 2) \u2014 exactly what candidate 0's prose describes as 'two approaches to this question' about Yom Kippur's atoning power.",
+      "chosen_heading": "Yom Kippur Q",
+      "current_heading": "Atone w/o Teshuva?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Chatat & Will",
+    "candidates": [
+      "Willingness Question",
+      "Chatat & Will",
+      "Baraitot Conflict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Abaye/Rava dispute about whether a sin offering atones when the owner says 'tikarev v'lo techaper' and Rava's subsequent retraction \u2014 are explicitly discussed together in the 'Chatat & Will' prose, which covers exactly this dispute and the ve-hadar bei Rava reversal driven by the baraita about shavim/she'einam shavim.",
+      "chosen_heading": "Chatat & Will",
+      "current_heading": "Chatat & Will",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Baraitot Conflict",
+    "candidates": [
+      "Baraitot Conflict",
+      "Rabbi's Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the continuous Gemara discussion of the Sifra baraitot about whether Yom Kippur atones for those who repent/don't repent and the conflicting baraita about violating Yom Kippur, which is precisely what the 'Baraitot Conflict' prose describes.",
+      "chosen_heading": "Baraitot Conflict",
+      "current_heading": "Baraitot Conflict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Rabbi's Opinion",
+    "candidates": [
+      "Rabbi's Opinion",
+      "Megaleh Panim",
+      "Rava Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's resolution \u2014 item 1 states Rabbi's general rule that Yom Kippur atones regardless of teshuvah, and item 2 gives Rabbi's three exceptions, which together form the complete baraita that Abaye cites to explain Rabbi's own opinion, exactly matching the prose under 'Rabbi's Opinion.'",
+      "chosen_heading": "Rabbi's Opinion",
+      "current_heading": "Rabbi's Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rava Reversal",
+    "candidates": [
+      "Megaleh Panim",
+      "Rava Reversal",
+      "Karet Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that both baraitot reflect Rabbi's opinion and that Rabbi concedes Yom Kippur does not atone for transgressions of the day itself, which is precisely what the 'Rava Reversal' prose describes.",
+      "chosen_heading": "Rava Reversal",
+      "current_heading": "Rava Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Karet Challenge",
+    "candidates": [
+      "Karet Challenge",
+      "Yidoni Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge-and-resolution sequence about how karet for Yom Kippur violations can ever apply given that the day itself atones, which is precisely what the 'Karet Challenge' prose describes in detail.",
+      "chosen_heading": "Karet Challenge",
+      "current_heading": "Karet Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Yidoni Question",
+    "candidates": [
+      "Yidoni Question",
+      "R. Akiva View",
+      "Not All Karet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabbis' use of 'af megadef' in response to Rabbi Akiva's distinction between ba'al ov and yidoni, which is precisely what the 'Yidoni Question' prose describes.",
+      "chosen_heading": "Yidoni Question",
+      "current_heading": "Yidoni Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Not All Karet",
+    "candidates": [
+      "R. Akiva View",
+      "Not All Karet",
+      "Juxtaposition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rabbi Akiva's ruling that megadef brings a korban due to karet AND the immediate challenge about pesach and milah, but the single textual item covers both elements together; however, candidate 0 ('R. Akiva View') best captures the opening statement while candidate 1 ('Not All Karet') handles the challenge \u2014 since the item is indivisible and contains the full argument starting with Rabbi Akiva's position, and candidate 0's prose explicitly describes the baraita being cited, it is a slightly better fit, though the current placement at candidate 1 also has merit given the challenge content.",
+      "chosen_heading": "R. Akiva View",
+      "current_heading": "Not All Karet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Juxtaposition",
+    "candidates": [
+      "Juxtaposition",
+      "Et Hashem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Akiva's reasoning that karet is written in a place (bi-mkom korban) where the Torah discusses an offering, which is precisely the juxtaposition argument described in the 'Juxtaposition' prose section.",
+      "chosen_heading": "Juxtaposition",
+      "current_heading": "Juxtaposition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Et Hashem",
+    "candidates": [
+      "Et Hashem",
+      "Issi & R. Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts exactly the exchange described in heading 0's prose: Rabbi Akiva challenges the Rabbis about what purpose the karet verse serves if megadef has no action, and the Rabbis respond that it comes to establish karet for the mekalel via a gezeira shava with Pesach Sheni \u2014 precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Et Hashem",
+      "current_heading": "Et Hashem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Issi & R. Elazar",
+    "candidates": [
+      "Issi & R. Elazar",
+      "Final Tanya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present exactly the Isi ben Yehuda / Rabbi Elazar ben Azarya baraita with the bowl metaphor that candidate 0's prose explicitly and fully discusses, making it the clear correct placement.",
+      "chosen_heading": "Issi & R. Elazar",
+      "current_heading": "Issi & R. Elazar",
+      "moved": false
+    }
+  }
+]

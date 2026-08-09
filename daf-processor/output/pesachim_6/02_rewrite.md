@@ -166,9 +166,7 @@ Rashi makes a striking observation. Why is it that if one intends to return, one
 
 ### Issur hana'ah paradox
 
-This raises what is truly a striking conceptual difficulty. On *Pesach* itself, *chametz* is *issur hana'ah* and, in a meaningful legal sense, is out of one's possession — the Torah removes it from one's *reshut*. Yet one remains liable for *bal yera'eh uval yimatzei* as if it were one's own. The Torah simultaneously removes the *chametz* from one's possession (in the sense that one cannot benefit from it or perform *bitul* over it) and retains it in one's possession (in the sense that one remains *over* on the prohibition). This paradox is essential for understanding the structure of the obligation and will continue to bear on the discussion that follows.
-
----
+The Torah presents a striking tension: *chametz* on *Pesach* is *issur hana'ah*, which in one legal sense removes it from one's possession entirely — and yet one remains liable for *bal yera'eh uval yimatzei* as though it were fully one's own. This must be so, for if *issur hana'ah* truly took the *chametz* out of one's possession in every sense, the prohibition would write itself out of existence. *Rashi*'s position follows from this: since the Torah removes one's rights over the *chametz* to the extent that one cannot perform *bitul* on *Pesach*, once the holiday has begun that avenue is closed. As for the liability of *bal yera'eh uval yimatzei* itself, the *meforshim* clarify that one does not become *over* the instant one lays eyes on the *chametz* — it is seeing it and doing nothing, that moment of hesitation or inaction, that triggers the violation.
 
 ## Timing of bi'ur (II)
 

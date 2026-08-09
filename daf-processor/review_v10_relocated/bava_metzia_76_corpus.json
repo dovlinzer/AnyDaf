@@ -1,0 +1,333 @@
+[
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Deception as Remedy",
+    "candidates": [
+      "Umnin vs. Po'alim",
+      "Tosafot: Categories",
+      "Taromet Only",
+      "Davar Avad Examples",
+      "Flax Removal",
+      "Tosafot: Davar Avad",
+      "Socher Aleihen",
+      "Deception as Remedy",
+      "Workers Back Out",
+      "Rashi on Deduction",
+      "Employer Back Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage quotes 'yadam al hatachtona' \u2014 workers who reneged are at a disadvantage \u2014 which is precisely what heading 8 ('Workers Back Out') discusses, describing this exact Mishna phrase and its meaning.",
+      "chosen_heading": "Workers Back Out",
+      "current_heading": "Deception as Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Employer Back Out",
+    "candidates": [
+      "Workers Back Out",
+      "Rashi on Deduction",
+      "Employer Back Out",
+      "General Principle",
+      "Workers Deceive Others"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage states both the 'kol hamishaneh' and 'kol hachozer bo' principles together as a concluding summary, which matches the 'General Principle' section's prose that explicitly discusses these two phrases as the Mishna's governing conclusion.",
+      "chosen_heading": "General Principle",
+      "current_heading": "Employer Back Out",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Workers Deceive Others",
+    "candidates": [
+      "General Principle",
+      "Workers Deceive Others",
+      "Foreman Pockets Wage Diff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly analyzes the phrase 'they deceived one another' versus 'they reneged,' identifies that the deception involves workers deceiving each other, and asks 'what are the circumstances' \u2014 exactly matching the prose of heading 1 ('Workers Deceive Others').",
+      "chosen_heading": "Workers Deceive Others",
+      "current_heading": "Workers Deceive Others",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Foreman Pockets Wage Diff",
+    "candidates": [
+      "Foreman Pockets Wage Diff",
+      "Sharchkem Al Ba'al Habit",
+      "Foreman's Pay Obligation",
+      "Foreman Reimbursement",
+      "Foreman Misrepresents Pay",
+      "Foreman: 4 vs 3 Shekels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Foreman Pockets Wage Diff",
+      "first_confidence": "high",
+      "first_reason": "Item 1 directly addresses the 'what are the circumstances' question about the foreman pocketing wage differences, matching the current heading's prose about the foreman being told four but telling workers three (or vice versa) and the savru vekabilu / contractual obligation analysis.",
+      "second_heading": "Foreman's Pay Obligation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about one who hires a laborer for his own field but shows him another's field, illustrating the 'sharchchem alai' obligation and the foreman paying full wages then recovering from the ba'al habayit \u2014 which is precisely what candidate 2 ('Foreman's Pay Obligation') describes.",
+      "current_heading": "Foreman Pockets Wage Diff",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Foreman: 4 vs 3 Shekels",
+    "candidates": [
+      "Sharchkem Al Ba'al Habit",
+      "Foreman's Pay Obligation",
+      "Foreman Reimbursement",
+      "Foreman Misrepresents Pay",
+      "Foreman: 4 vs 3 Shekels",
+      "Scenario 2: Own Field",
+      "Scenario 3: Quality Work",
+      "Benefit-Based Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the case where the foreman tells workers 'your wages are upon the employer' (sharchkem al ba'al habayit), which is exactly what heading 0 describes as the critical case.",
+      "chosen_heading": "Sharchkem Al Ba'al Habit",
+      "current_heading": "Foreman: 4 vs 3 Shekels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Benefit-Based Payment",
+    "candidates": [
+      "Scenario 2: Own Field",
+      "Scenario 3: Quality Work",
+      "Benefit-Based Payment",
+      "Whose Word Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All four items are a continuous chain of 'if you wish say' alternatives that collectively build up all three/four scenarios, and Candidate 2's prose is the only section that explicitly summarizes all scenarios together including the fourth foreman variation matching Item 4.",
+      "chosen_heading": "Benefit-Based Payment",
+      "current_heading": "Benefit-Based Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Whose Word Standard",
+    "candidates": [
+      "Whose Word Standard",
+      "Gitin Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the obvious case and the hard case of workers saying 'as the employer said,' which is precisely what the 'Whose Word Standard' prose describes as the Gemara's fundamental question about what that phrase means.",
+      "chosen_heading": "Whose Word Standard",
+      "current_heading": "Whose Word Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Gitin Analogy",
+    "candidates": [
+      "Gitin Analogy",
+      "Rav Ashi Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Gitin Analogy",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the get analogy case and its inference (shema mina dadibura didey kasamich), which is precisely what the 'Gitin Analogy' prose describes, ending with 'Rav Ashi said:' as a transition.",
+      "second_heading": "Rav Ashi Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Ashi's structural objection (hachi hashta) to the get analogy, which is exactly what the 'Rav Ashi Distinction' prose describes as his counter-argument about the messenger rejecting his own shlichus.",
+      "current_heading": "Gitin Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rav Ashi Distinction",
+    "candidates": [
+      "Rav Ashi Distinction",
+      "Hypothetical Test",
+      "Unresolved Shlichus",
+      "Baraita Agrees",
+      "Before Work Begins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the agent negates his agency entirely by saying 'I am an agent for receipt, not for delivery,' which directly corresponds to the 'Rav Ashi Distinction' prose about the messenger rejecting his own shlichus and declaring 'shliach leholacha lo havina.'",
+      "chosen_heading": "Rav Ashi Distinction",
+      "current_heading": "Rav Ashi Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Before Work Begins",
+    "candidates": [
+      "Hypothetical Test",
+      "Unresolved Shlichus",
+      "Baraita Agrees",
+      "Before Work Begins",
+      "Workers Arrive: Full Pay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's alternative explanation that 'hitu' means 'reneged' and quotes the baraita about artisans deceiving the employer or vice versa resulting only in tar'omet \u2014 exactly what candidate 2 ('Baraita Agrees') describes in its prose.",
+      "chosen_heading": "Baraita Agrees",
+      "current_heading": "Before Work Begins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Workers Arrive: Full Pay",
+    "candidates": [
+      "Before Work Begins",
+      "Workers Arrive: Full Pay",
+      "Proportional Payment",
+      "Grain Cutting Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes workers who arrived at the job site but found no work available, and the employer's obligation to pay full wages minus the 'poel batel' discount \u2014 exactly what candidate 1's prose discusses with the same examples and terminology.",
+      "chosen_heading": "Workers Arrive: Full Pay",
+      "current_heading": "Workers Arrive: Full Pay",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Grain Cutting Example",
+    "candidates": [
+      "Proportional Payment",
+      "Grain Cutting Example",
+      "Tanna Kamma View",
+      "Rabbi Dosa View",
+      "Cost-Withholding Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the distinction between not-yet-started and already-started work (heading 0's topic) and the illustrative examples (heading 1's topic), but the opening clause 'bameh devarim amurim' establishing when appraisal applies is the primary content, matching heading 0's prose about 'elu hitchilu bemilacha, shamin lahem ma sheasu,' with the examples serving as elaboration \u2014 however, since the passage inseparably contains both the rule and the examples, and heading 1's prose explicitly discusses those same grain/garment examples, the current placement under heading 1 is also defensible, making this a close call where heading 0 is a slightly better fit for the opening legal distinction.",
+      "chosen_heading": "Proportional Payment",
+      "current_heading": "Grain Cutting Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Cost-Withholding Rule",
+    "candidates": [
+      "Tanna Kamma View",
+      "Rabbi Dosa View",
+      "Cost-Withholding Rule",
+      "Replacement Availability",
+      "Doubled Wage Deception",
+      "Cost Limit",
+      "Market Availability"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tanna Kamma View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Tanna Kamma's ruling that workers receive proportional wages (one sela for half the work) without penalty for the employer's extra cost, matching the 'Tanna Kamma View' prose exactly.",
+      "second_heading": "Rabbi Dosa View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Dosa's view that the court appraises the remaining work and deducts excess cost from the workers' earnings, matching the 'Rabbi Dosa View' prose exactly.",
+      "current_heading": "Cost-Withholding Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Market Availability",
+    "candidates": [
+      "Replacement Availability",
+      "Doubled Wage Deception",
+      "Cost Limit",
+      "Market Availability"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Doubled Wage Deception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the davar avad distinction, mat'an (deception with doubled wage), and the socher aleihen cost limit up to forty or fifty zuz \u2014 exactly what headings 'Doubled Wage Deception' and 'Cost Limit' discuss, but most precisely it belongs under 'Doubled Wage Deception' which covers the mat'an procedure and the sela/shtayim example, with the cost limit following naturally.",
+      "second_heading": "Replacement Availability",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the market availability condition (bizman she'ein sham po'alim liskor) that governs when the stronger remedies apply, which is precisely what heading 'Replacement Availability' discusses.",
+      "current_heading": "Market Availability",
+      "moved": true
+    }
+  }
+]

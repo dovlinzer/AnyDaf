@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Morning Tamid",
+    "candidates": [
+      "Morning Tamid",
+      "Musaf Service",
+      "Afternoon Tamid",
+      "Thursday Rosh Hashanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita raised by Rav A\u1e25a bar Huna that covers all three services (morning, musaf, afternoon) in one unit, and the 'Morning Tamid' section's prose explicitly introduces and contextualizes this very baraita from Rav Acha bar Huna as its opening challenge.",
+      "chosen_heading": "Morning Tamid",
+      "current_heading": "Morning Tamid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Thursday Rosh Hashanah",
+    "candidates": [
+      "Musaf Service",
+      "Afternoon Tamid",
+      "Thursday Rosh Hashanah",
+      "Pre-Takana Practice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Thursday Rosh Hashanah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the Thursday Rosh Hashanah baraita about dividing Psalm 81 and what happens when witnesses arrive before or after shacharit, matching exactly the 'Thursday Rosh Hashanah' prose.",
+      "second_heading": "Pre-Takana Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's logical inference from the baraita about pre-takana uncertainty at mincha \u2014 whether one says the weekday shir or nothing \u2014 which matches the 'Pre-Takana Practice' prose precisely.",
+      "current_heading": "Thursday Rosh Hashanah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Pre-Takana Practice",
+    "candidates": [
+      "Pre-Takana Practice",
+      "Sunday\u2013Friday Shir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'shani hatam de-shir de-yoma hu' is the Gemara's rejection of the inference about pre-takana uncertain practice at mincha, which is precisely what the 'Pre-Takana Practice' section's prose describes and analyzes.",
+      "chosen_heading": "Pre-Takana Practice",
+      "current_heading": "Pre-Takana Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Sunday\u2013Friday Shir",
+    "candidates": [
+      "Sunday\u2013Friday Shir",
+      "Shabbat Shir",
+      "World Duration Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Sunday\u2013Friday Shir",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 present Rabbi Yehuda/Rabbi Akiva's baraita on the daily psalms for all seven days, which matches heading 0's prose exactly (Sunday through Friday shir) and heading 1's prose (Shabbat shir), but items 1\u20134 cover Sunday through Shabbat and belong under heading 0 which discusses the full baraita including the Shabbat psalm.",
+      "second_heading": "Shabbat Shir",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20136 present Rabbi Ne\u1e25emya's objection and alternative explanation of why the Sages distinguished between the psalms, which is exactly what heading 1's prose discusses as the transition point introducing the debate about past vs. future interpretation of the Shabbat shir.",
+      "current_heading": "Sunday\u2013Friday Shir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "World Duration Debate",
+    "candidates": [
+      "Shabbat Shir",
+      "World Duration Debate",
+      "Musaf Ha'azinu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ketina's statement about six thousand years and one millennium of destruction, and Abaye's counter-statement about two millennia, which is precisely what the 'World Duration Debate' prose section discusses in detail.",
+      "chosen_heading": "World Duration Debate",
+      "current_heading": "World Duration Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Musaf Ha'azinu",
+    "candidates": [
+      "Musaf Ha'azinu",
+      "Mincha Songs",
+      "Cycle or Complete"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the musaf of Shabbat and the Ha'azinu mnemonic HaZiV LaKh, which is precisely what the 'Musaf Ha'azinu' section's prose discusses.",
+      "chosen_heading": "Musaf Ha'azinu",
+      "current_heading": "Musaf Ha'azinu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Cycle or Complete",
+    "candidates": [
+      "Mincha Songs",
+      "Cycle or Complete",
+      "Ten Journeys"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mincha Songs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rabbi Yochanan's teaching about the afternoon Shabbat offering songs (Az Yashir, Mi Kamocha, Az Yashir of the well), which is precisely what the 'Mincha Songs' prose discusses.",
+      "second_heading": "Cycle or Complete",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises and resolves the dilemma of whether all sections are recited on one Shabbat or one per Shabbat, which is exactly what the 'Cycle or Complete' prose discusses, including Rabbi Yosi's baraita about two cycles of mincha songs per one cycle of Ha'azinu.",
+      "current_heading": "Cycle or Complete",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Ten Journeys",
+    "candidates": [
+      "Ten Journeys",
+      "Verse Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the core teaching about the ten journeys of the Shechina \u2014 the introductory statement and the enumeration of the ten stages \u2014 which is exactly what the 'Ten Journeys' prose section describes in detail, before the 'Verse Sources' section moves on to the scriptural prooftexts for each individual stage.",
+      "chosen_heading": "Ten Journeys",
+      "current_heading": "Ten Journeys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Verse Sources",
+    "candidates": [
+      "Verse Sources",
+      "Six Months Wait"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the systematic scriptural sourcing for each stage of the Divine Presence's departure, which is precisely what the 'Verse Sources' prose describes in detail.",
+      "chosen_heading": "Verse Sources",
+      "current_heading": "Verse Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Six Months Wait",
+    "candidates": [
+      "Six Months Wait",
+      "Jerusalem Moves",
+      "Post-Churban Moves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan's teaching about the six months the Shechina waited in the wilderness, which matches exactly what the 'Six Months Wait' section's prose discusses.",
+      "chosen_heading": "Six Months Wait",
+      "current_heading": "Six Months Wait",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Post-Churban Moves",
+    "candidates": [
+      "Jerusalem Moves",
+      "Post-Churban Moves",
+      "Six Exiles"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Jerusalem Moves",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the pre-churban stages of the Sanhedrin's exile (Chamber of Hewn Stone \u2192 \u1e24anut \u2192 Jerusalem \u2192 Yavne), which matches the 'Jerusalem Moves' prose describing the Sanhedrin's departure from the Temple precincts into Jerusalem proper.",
+      "second_heading": "Post-Churban Moves",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers all the post-churban relocations from Yavne onward through Usha, Shefaram, Beit She'arim, Tzippori, and Tiberias, which is precisely what the 'Post-Churban Moves' prose discusses in detail.",
+      "current_heading": "Post-Churban Moves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Six Exiles",
+    "candidates": [
+      "Six Exiles",
+      "Takana Established"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's count of six exiles and Rabbi Yo\u1e25anan's promise of redemption from the dust, which is precisely what the 'Six Exiles' section prose describes.",
+      "chosen_heading": "Six Exiles",
+      "current_heading": "Six Exiles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Takana Established",
+    "candidates": [
+      "Takana Established",
+      "Woman's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself about Rabban Yochanan ben Zakkai's takana that witnesses go only to the fixed location of the vaad, which is precisely what the 'Takana Established' prose discusses and introduces.",
+      "chosen_heading": "Takana Established",
+      "current_heading": "Takana Established",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Woman's Case",
+    "candidates": [
+      "Woman's Case",
+      "Amemar's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in heading 0's prose \u2014 the woman's summons, Ameimar's move to Me\u1e25oza, her refusal to follow, the peti\u1e25a, and Rav Ashi's challenge \u2014 which is precisely what heading 0 discusses, before Ameimar's response covered under heading 1.",
+      "chosen_heading": "Woman's Case",
+      "current_heading": "Woman's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Amemar's Response",
+    "candidates": [
+      "Amemar's Response",
+      "Introduction",
+      "Six in This Chapter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ameimar's direct response distinguishing eidut hachodesh from monetary claims, which is precisely what the 'Amemar's Response' section's prose describes.",
+      "chosen_heading": "Amemar's Response",
+      "current_heading": "Amemar's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Six in This Chapter",
+    "candidates": [
+      "Introduction",
+      "Six in This Chapter",
+      "Nisan/Tishrei",
+      "Convert's Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita that introduces the prohibition on sandals on the duchan and identifies it as one of the nine takanot, which is precisely what the 'Introduction' prose discusses \u2014 the baraita citation, its content, and the enumeration of the nine takanot \u2014 whereas 'Six in This Chapter' discusses those six takanot in summary form as already established.",
+      "chosen_heading": "Introduction",
+      "current_heading": "Six in This Chapter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Convert's Sacrifice",
+    "candidates": [
+      "Nisan/Tishrei",
+      "Convert's Sacrifice",
+      "Ninth Takana Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about a convert setting aside a quarter for his bird-offerings and Rabbi Shimon ben Elazar reporting that Rabban Yochanan voted to rescind it due to potential mishap, which is precisely what the 'Convert's Sacrifice' section's prose discusses.",
+      "chosen_heading": "Convert's Sacrifice",
+      "current_heading": "Convert's Sacrifice",
+      "moved": false
+    }
+  }
+]

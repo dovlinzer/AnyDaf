@@ -1,0 +1,475 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Yetzer Hara Nature",
+    "candidates": [
+      "Yetzer Hara Nature",
+      "Divine Help & Torah",
+      "Beit Midrash Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the nature and power of the yetzer hara (its being called evil by its Creator, its daily renewal, its seeking to kill), which is precisely what the 'Yetzer Hara Nature' prose discusses; the divine assistance mentioned at the end of item 2 is merely the closing clause of that same baraita, not a standalone topic.",
+      "chosen_heading": "Yetzer Hara Nature",
+      "current_heading": "Yetzer Hara Nature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Beit Midrash Solution",
+    "candidates": [
+      "Divine Help & Torah",
+      "Beit Midrash Solution",
+      "Marry Off Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Tana debei Rabbi Yishmael teaching about dragging the yetzer hara to the beit midrash, with the stone/iron/water imagery, which is precisely what the 'Beit Midrash Solution' prose discusses in detail.",
+      "chosen_heading": "Beit Midrash Solution",
+      "current_heading": "Beit Midrash Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Marry Off Son",
+    "candidates": [
+      "Marry Off Son",
+      "Teaching Trade"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the obligation to marry off one's son (and daughter), the verse from Jeremiah, and the Gemara's analysis of 'bishlama beno beyado' \u2014 all of which are explicitly discussed in the 'Marry Off Son' prose section.",
+      "chosen_heading": "Marry Off Son",
+      "current_heading": "Marry Off Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Teaching Trade",
+    "candidates": [
+      "Teaching Trade",
+      "Swimming & Safety"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the obligation to teach a trade (omanut) and its Talmudic source, which directly matches the 'Teaching Trade' section's prose discussion of lelamdo omanut and the Ecclesiastes verse.",
+      "chosen_heading": "Teaching Trade",
+      "current_heading": "Teaching Trade",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Swimming & Safety",
+    "candidates": [
+      "Swimming & Safety",
+      "Sons & Daughters Equal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the obligation to teach swimming as a life-saving skill, which is exactly what the 'Swimming & Safety' prose section discusses.",
+      "chosen_heading": "Swimming & Safety",
+      "current_heading": "Swimming & Safety",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Sons & Daughters Equal",
+    "candidates": [
+      "Sons & Daughters Equal",
+      "Married Women Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the father's obligation to teach his son a trade (Rabbi Yehuda's ruling and the distinction between teaching trade vs. business), which is part of the parental obligations topic discussed under 'Married Women Exemption' \u2014 but more critically, neither item has anything to do with the 'Sons & Daughters Equal' prose about kibbud av va'em and women's equal obligations; the passage belongs under a heading discussing filial/parental duties content, and candidate 1 is the closer match among the two options, though neither prose perfectly describes trade-teaching, making this the better of the available homes.",
+      "chosen_heading": "Married Women Exemption",
+      "current_heading": "Sons & Daughters Equal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Married Women Exemption",
+    "candidates": [
+      "Sons & Daughters Equal",
+      "Married Women Exemption",
+      "Honor Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about the mishna's phrase 'mitzvot of a father upon the son,' which candidate 0's prose describes in detail \u2014 from the initial question through Rav Yehuda's resolution and the baraita's plural tira'u \u2014 whereas candidate 1 ('Married Women Exemption') covers the later portion about why the verse says 'ish' and the practical constraint on married women, meaning the passage has been placed too late and belongs under candidate 0 where the full discussion is described.",
+      "chosen_heading": "Sons & Daughters Equal",
+      "current_heading": "Married Women Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Honor Parallel",
+    "candidates": [
+      "Honor Parallel",
+      "Reverence Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses equating 'honor' (\u05db\u05d1\u05d5\u05d3) of parents with 'honor' of God, which matches the 'Honor Parallel' section's prose exactly, not the 'Reverence Parallel' which deals with fear/reverence (\u05de\u05d5\u05e8\u05d0).",
+      "chosen_heading": "Honor Parallel",
+      "current_heading": "Honor Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Reverence Parallel",
+    "candidates": [
+      "Reverence Parallel",
+      "Cursing Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the fear/reverence parallel between parents and God, which matches exactly the 'Reverence Parallel' section's prose about equating morat av va'eim with morat hamakom.",
+      "chosen_heading": "Reverence Parallel",
+      "current_heading": "Reverence Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Cursing Parallel",
+    "candidates": [
+      "Cursing Parallel",
+      "Three Partners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the cursing parallel between parents and God, matching the 'Cursing Parallel' section's prose which explicitly covers the same verses and the euphemism 'birchat' for cursing, along with the impossibility of a striking parallel.",
+      "chosen_heading": "Cursing Parallel",
+      "current_heading": "Cursing Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Three Partners",
+    "candidates": [
+      "Three Partners",
+      "Gratitude Model",
+      "Awe Model",
+      "Action Over Feeling",
+      "Self-Care Priority",
+      "No Love Command",
+      "Natural Tendencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about three partners in a person's creation and God's statement about dwelling among parents who are honored, which is exactly what the 'Three Partners' section prose discusses.",
+      "chosen_heading": "Three Partners",
+      "current_heading": "Three Partners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Natural Tendencies",
+    "candidates": [
+      "Gratitude Model",
+      "Awe Model",
+      "Action Over Feeling",
+      "Self-Care Priority",
+      "No Love Command",
+      "Natural Tendencies",
+      "Torah's Reversal",
+      "God Withdraws",
+      "Secret Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Yehuda HaNasi explaining natural tendencies \u2014 sons honor mothers more and fear fathers more \u2014 which is precisely what heading 5 ('Natural Tendencies') discusses in its prose.",
+      "chosen_heading": "Natural Tendencies",
+      "current_heading": "Natural Tendencies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Secret Sins",
+    "candidates": [
+      "Torah's Reversal",
+      "God Withdraws",
+      "Secret Sins",
+      "Head Covering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'God withdraws' baraita (about causing parents anguish) AND Rabbi Yitz\u1e25ak's statement about secret sins, and candidate 1's prose explicitly discusses both the 'yafeh asiti' teaching and segues into the secret sins concept, while candidate 2's prose discusses only the secret sins portion \u2014 meaning the full passage fits better under heading 1 which covers the complete content.",
+      "chosen_heading": "God Withdraws",
+      "current_heading": "Secret Sins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Head Covering",
+    "candidates": [
+      "Secret Sins",
+      "Head Covering",
+      "Father Precedence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yehoshua ben Levi's teaching about walking with upright posture (melo kol ha'aretz kevodo) and Rav Huna's head-covering practice, and the 'Secret Sins' prose explicitly discusses both of these teachings together, whereas the 'Head Covering' prose only discusses Rav Huna's practice as a follow-on conclusion.",
+      "chosen_heading": "Secret Sins",
+      "current_heading": "Head Covering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Father Precedence",
+    "candidates": [
+      "Father Precedence",
+      "Divorced Mother",
+      "Harsh Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the scenario described in the 'Father Precedence' prose \u2014 the widow's son asking Rabbi Eliezer (and Rabbi Yehoshua) about competing water requests, receiving the answer about the father's priority because both son and mother are obligated in the father's honor.",
+      "chosen_heading": "Father Precedence",
+      "current_heading": "Father Precedence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Harsh Response",
+    "candidates": [
+      "Divorced Mother",
+      "Harsh Response",
+      "Ulla's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the content discussed in the 'Harsh Response' prose: Rabbi Yehoshua's observation about the eyelashes, his rebuke that the questioner is a son of a widow, and his sarcastic instruction to pour water and cluck like chickens.",
+      "chosen_heading": "Harsh Response",
+      "current_heading": "Harsh Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Ulla's Drasha",
+    "candidates": [
+      "Ulla's Drasha",
+      "Rava's Drasha",
+      "Lost Fortune"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ulla's Drasha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Ulla's drasha about the plural 'words of Your mouth' and the nations' reaction to the first commandments, which matches exactly the prose under heading 0 'Ulla's Drasha'.",
+      "second_heading": "Rava's Drasha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rava's separate drasha from 'rosh devarcha emet' about the end of God's words validating the beginning, which matches exactly the prose under heading 1 'Rava's Drasha'.",
+      "current_heading": "Ulla's Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Lost Fortune",
+    "candidates": [
+      "Rava's Drasha",
+      "Lost Fortune",
+      "Divine Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Dama ben Netina story \u2014 the question of how far kibbud av va'em extends and his forfeiture of a fortune rather than disturb his sleeping father \u2014 which is precisely what the 'Lost Fortune' section's prose discusses in detail.",
+      "chosen_heading": "Lost Fortune",
+      "current_heading": "Lost Fortune",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Divine Reward",
+    "candidates": [
+      "Divine Reward",
+      "Commanded Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the divine reward of the red heifer and Dama's modest request, which is exactly what the 'Divine Reward' section's prose discusses in detail.",
+      "chosen_heading": "Divine Reward",
+      "current_heading": "Divine Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Commanded Principle",
+    "candidates": [
+      "Commanded Principle",
+      "Initial Hope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi \u1e24anina's principle that one who is commanded and performs is greater than one who is not commanded and performs, which is precisely what the 'Commanded Principle' prose section discusses.",
+      "chosen_heading": "Commanded Principle",
+      "current_heading": "Commanded Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Initial Hope",
+    "candidates": [
+      "Initial Hope",
+      "Reversal",
+      "Public Assault"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's initial hope and his reversal in a single continuous statement, but the current placement under 'Initial Hope' captures the full passage since the prose for heading 0 already summarizes both parts, while heading 1's prose describes the same content as a continuation \u2014 the passage is correctly placed under its current heading (0) as it opens with the 'meireisha' statement that defines that section.",
+      "chosen_heading": "Initial Hope",
+      "current_heading": "Initial Hope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Public Assault",
+    "candidates": [
+      "Reversal",
+      "Public Assault",
+      "Feeding Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Dama ben Netina being publicly humiliated by his mother while wearing a golden sirkon among Roman nobles, which is exactly what the 'Public Assault' section's prose discusses in detail.",
+      "chosen_heading": "Public Assault",
+      "current_heading": "Public Assault",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Feeding Example",
+    "candidates": [
+      "Feeding Example",
+      "Respect Demonstration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Avimi teaching about feeding pheasant vs. grinding at a millstone, which is exactly what candidate 0 ('Feeding Example') quotes and discusses in its prose.",
+      "chosen_heading": "Feeding Example",
+      "current_heading": "Feeding Example",
+      "moved": false
+    }
+  }
+]

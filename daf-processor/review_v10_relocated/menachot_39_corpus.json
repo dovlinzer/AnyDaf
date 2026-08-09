@@ -1,0 +1,380 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Both Colors Required?",
+    "candidates": [
+      "Both Colors Required?",
+      "R. Yochanan ben Nuri",
+      "Tosafot's Structure",
+      "Multiple Wrappings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies Rabbi Yochanan ben Nuri as the tanna who disagrees with Rabbi, citing the baraita chain through Rabbi Yitzchak, Rabbi Natan, and Rabbi Yose HaGelili \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "R. Yochanan ben Nuri",
+      "current_heading": "Both Colors Required?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Multiple Wrappings",
+    "candidates": [
+      "R. Yochanan ben Nuri",
+      "Tosafot's Structure",
+      "Multiple Wrappings",
+      "Knot Undoing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rava's inference that one must tie a knot after each wrapping section (chulya), derived from the gardum ruling of the sons of Rabbi Chiya \u2014 exactly what the 'Multiple Wrappings' prose describes.",
+      "chosen_heading": "Multiple Wrappings",
+      "current_heading": "Multiple Wrappings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Knot Undoing",
+    "candidates": [
+      "Knot Undoing",
+      "Tosafot Extreme",
+      "Kilayim Proof",
+      "Shatnez Juxtaposition",
+      "Binding Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'dilma de-iktar' is the gemara's rejection that extra knots are obligatory \u2014 a rebuttal fitting the 'Knot Undoing' section's prose, which explicitly discusses this very phrase and its implication that knots were made by chance without proving halachic necessity.",
+      "chosen_heading": "Knot Undoing",
+      "current_heading": "Knot Undoing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Binding Requirement",
+    "candidates": [
+      "Tosafot Extreme",
+      "Kilayim Proof",
+      "Shatnez Juxtaposition",
+      "Binding Requirement",
+      "Complete Severance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's inference that the uppermost knot is de-oraita, proven from the fact that the Torah needed to permit kilayim in tzitzit \u2014 this is precisely what the 'Kilayim Proof' section describes, not the 'Binding Requirement' section which discusses the chibur/connection aspect.",
+      "chosen_heading": "Kilayim Proof",
+      "current_heading": "Binding Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Complete Severance",
+    "candidates": [
+      "Binding Requirement",
+      "Complete Severance",
+      "Initial vs. Final",
+      "Remnants Defined",
+      "Minimum Knot Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with Rava's challenge to Rav Nachman from the baraita about 'bameh devarim amurim be-techilato' and the interpretation of shiyerav ve-gardumav \u2014 exactly what the 'Initial vs. Final' section's prose describes, not the 'Complete Severance' section where it currently sits.",
+      "chosen_heading": "Initial vs. Final",
+      "current_heading": "Complete Severance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Minimum Knot Amount",
+    "candidates": [
+      "Initial vs. Final",
+      "Remnants Defined",
+      "Minimum Knot Amount",
+      "String Counts",
+      "Attribution Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why both 'shiyerav' and 'gardumav' are needed, concluding that we require a remainder of the severed strings enough to tie them \u2014 this is the definitional discussion of remnants (shiyerav ve-gardumav) that candidate 1 'Remnants Defined' explicitly covers, not the 'Minimum Knot Amount' section which discusses how much must remain after that definition is established.",
+      "chosen_heading": "Remnants Defined",
+      "current_heading": "Minimum Knot Amount",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Attribution Correction",
+    "candidates": [
+      "String Counts",
+      "Attribution Correction",
+      "Majority Wrapped OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the ruling that the wrapping string counts in the quota AND the attribution correction together \u2014 Candidate 0's prose covers the full content of this passage (the ruling itself plus the conceptual explanation), while Candidate 1 covers only the correction portion, making Candidate 0 the better fit for the complete passage.",
+      "chosen_heading": "String Counts",
+      "current_heading": "Attribution Correction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Majority Wrapped OK",
+    "candidates": [
+      "Attribution Correction",
+      "Majority Wrapped OK",
+      "Single Wrapping OK"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Majority Wrapped OK",
+      "first_confidence": "high",
+      "first_reason": "Items 1 discusses the ruling that majority-wrapped tzitzit is still kasher and the attribution dispute between Rav and Shmuel, which exactly matches the 'Majority Wrapped OK' prose.",
+      "second_heading": "Single Wrapping OK",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the additional ruling that even a single chulya suffices and states the ideal one-third/two-thirds proportion, which exactly matches the 'Single Wrapping OK' prose discussion.",
+      "current_heading": "Majority Wrapped OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Single Wrapping OK",
+    "candidates": [
+      "Single Wrapping OK",
+      "1/3 Knots 2/3 Fringe",
+      "Range 7-13",
+      "Heavens Symbolism",
+      "Gematria Significance",
+      "White First Last"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Range 7-13",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita establishing the 7-13 range and Rabbi's minimum-of-three ruling, which matches candidate 2's prose about exactly those rules.",
+      "second_heading": "Heavens Symbolism",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the cosmological explanation (seven firmaments, six air spaces) that candidate 3's prose describes as grounding the numbers in heavens symbolism.",
+      "current_heading": "Single Wrapping OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "White First Last",
+    "candidates": [
+      "1/3 Knots 2/3 Fringe",
+      "Range 7-13",
+      "Heavens Symbolism",
+      "Gematria Significance",
+      "White First Last",
+      "Ascending Holiness",
+      "Full Knot Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is about beginning with white string ('ha-kanaf min kanaf') and the principle of maalin ba-kodesh, which matches the 'White First Last' section's prose about starting with white \u2014 the ending principle (maalin ba-kodesh) is introduced here as part of the same teaching, even though section 5 elaborates on it separately.",
+      "chosen_heading": "White First Last",
+      "current_heading": "White First Last",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Full Knot Garment",
+    "candidates": [
+      "Ascending Holiness",
+      "Full Knot Garment",
+      "Rabbah: Or Requirement",
+      "Rav: Both Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe the narrative setup \u2014 the man passing by in an all-blue cloak with fully-wound tzitzit and the contrasting reactions of Rav and Rabba bar bar Chana \u2014 which is exactly what the 'Full Knot Garment' prose section describes as its illustrative case.",
+      "chosen_heading": "Full Knot Garment",
+      "current_heading": "Full Knot Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav: Both Needed",
+    "candidates": [
+      "Rabbah: Or Requirement",
+      "Rav: Both Needed",
+      "Four Strings & Emergence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbah bar bar \u1e24ana's reasoning (o gedil o petil \u2014 either twisted cords or threads suffice), which matches the prose of heading 0 ('Rabbah: Or Requirement') that explicitly discusses this exact position and reasoning, not heading 1 which is about Rav's opposing view.",
+      "chosen_heading": "Rabbah: Or Requirement",
+      "current_heading": "Rav: Both Needed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Four Strings & Emergence",
+    "candidates": [
+      "Rav: Both Needed",
+      "Four Strings & Emergence",
+      "Wool & Linen Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav's position that gedilim teaches the number of strings (four) and that both petil and gedil are required, with the instruction 'aseh gedil u-ftulehu mi-tocha' \u2014 exactly the content described in the 'Four Strings & Emergence' section's prose.",
+      "chosen_heading": "Four Strings & Emergence",
+      "current_heading": "Four Strings & Emergence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Wool & Linen Mix",
+    "candidates": [
+      "Wool & Linen Mix",
+      "Linen on Wool?",
+      "Juxtaposition Permits",
+      "Universal Exemption",
+      "Rav Nachman Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the opening question about wool strings exempting linen garments and the dilemma about linen strings on wool garments, which is precisely what the 'Wool & Linen Mix' prose describes as the baseline statement followed by the harder question \u2014 the subsequent headings ('Linen on Wool?', 'Juxtaposition Permits', etc.) cover the resolution and further elaboration, not this initial raising of the problem.",
+      "chosen_heading": "Wool & Linen Mix",
+      "current_heading": "Wool & Linen Mix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rav Nachman Exempt",
+    "candidates": [
+      "Linen on Wool?",
+      "Juxtaposition Permits",
+      "Universal Exemption",
+      "Rav Nachman Exempt",
+      "Braita Obligates",
+      "Level Determines Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the conflict between Ra\u1e25ava/Rav Yehuda's ruling that wool-and-linen strings exempt even silk garments and Rav Na\u1e25man's position that silk garments are exempt from tzitzit, which is precisely what heading 3 ('Rav Nachman Exempt') discusses.",
+      "chosen_heading": "Rav Nachman Exempt",
+      "current_heading": "Rav Nachman Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Level Determines Rules",
+    "candidates": [
+      "Braita Obligates",
+      "Level Determines Rules",
+      "Kanaf Min Kanaf",
+      "Two Pesukim Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's back-and-forth about whether the baraita's obligation is rabbinic or biblical, resolved by reading 'either wool or linen' \u2014 exactly what the 'Level Determines Rules' prose describes.",
+      "chosen_heading": "Level Determines Rules",
+      "current_heading": "Level Determines Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Two Pesukim Resolved",
+    "candidates": [
+      "Kanaf Min Kanaf",
+      "Two Pesukim Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's resolution of the contradiction between the two verses \u2014 item 1 raises the contradiction and item 2 gives the resolution \u2014 which is precisely what candidate 1 ('Two Pesukim Resolved') discusses in its prose.",
+      "chosen_heading": "Two Pesukim Resolved",
+      "current_heading": "Two Pesukim Resolved",
+      "moved": false
+    }
+  }
+]

@@ -130,8 +130,8 @@
           "timestamp": "52:39"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Disputed Documents and Forged Receipts: Protecting Orphans' Future Interests",
@@ -518,5 +518,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "37:34",
+  "amud_b_micro_title": "Brothers' Division",
+  "shiur_start_daf": 6,
+  "shiur_start_amud": "b"
 }

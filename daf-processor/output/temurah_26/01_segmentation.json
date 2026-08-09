@@ -131,8 +131,8 @@
           "timestamp": "14:29"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Clarification of When Sequential Versus Simultaneous Application Applies",
@@ -160,7 +160,7 @@
           "timestamp": "17:22"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -189,7 +189,7 @@
           "timestamp": "24:10"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -223,7 +223,7 @@
           "timestamp": "32:07"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -310,8 +310,8 @@
           "timestamp": "46:10"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Conceptual Distinction Between Tmurah and Mechulal (Redemption) (continued)",
@@ -329,8 +329,8 @@
           "timestamp": "47:01"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Gemara's Linguistic Analysis of Tachat in Different Contexts",
@@ -363,7 +363,7 @@
           "timestamp": "50:26"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 22,
       "matched": true
     }
   ],
@@ -697,5 +697,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "29:16",
+  "amud_b_micro_title": "Lesson 2: Living Animals",
+  "shiur_start_daf": 26,
+  "shiur_start_amud": "a"
 }

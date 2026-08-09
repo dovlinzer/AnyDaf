@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Orlah Proof",
+    "candidates": [
+      "Practical Parameters",
+      "Rabbi Abbahu",
+      "Orlah Proof",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's proof from orlah about olives/grapes vs. mulberries/figs/pomegranates, which is precisely what the 'Orlah Proof' section's prose describes.",
+      "chosen_heading": "Orlah Proof",
+      "current_heading": "Orlah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Zei'ah Be'alma",
+      "Taam Ke'ikar",
+      "Kilayim Exception",
+      "Kodesh Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct challenge explaining why the pomegranate juice case doesn't prove the point \u2014 it's zei'ah be'alma \u2014 which is exactly what the 'Abaye's Challenge' section describes, and the current placement is correct.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Kodesh Model",
+    "candidates": [
+      "Zei'ah Be'alma",
+      "Taam Ke'ikar",
+      "Kilayim Exception",
+      "Kodesh Model",
+      "Basar Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage records Abaye's statement that everyone agrees kilayim incurs lashes even without normal-manner benefit, which is precisely what the 'Kilayim Exception' prose section describes as its content.",
+      "chosen_heading": "Kilayim Exception",
+      "current_heading": "Kodesh Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Basar Proof",
+    "candidates": [
+      "Kodesh Model",
+      "Basar Proof",
+      "Orlah vs Chametz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Isi ben Yehuda's gezeirah shavah deriving the prohibition of eating basar bechalav from the parallel 'kodesh' language with treifah, which is precisely what the 'Basar Proof' section prose describes.",
+      "chosen_heading": "Basar Proof",
+      "current_heading": "Basar Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Orlah vs Chametz",
+    "candidates": [
+      "Orlah vs Chametz",
+      "Abaye Responds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of kal vachomer, rejection via orlah/sha'at hachosher, chametz b'Pesach as rejoinder, rejection via karet, and kilayim as the final proof \u2014 exactly the sequence described in the 'Orlah vs Chametz' prose.",
+      "chosen_heading": "Orlah vs Chametz",
+      "current_heading": "Orlah vs Chametz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Abaye Responds",
+    "candidates": [
+      "Abaye Responds",
+      "Kodesh Framework",
+      "Flower Pot Case",
+      "Bitul 1:200",
+      "Two Kilayim Forms",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the same continuous dispute about whether flogging for basar bechalav applies shelo k'derech hana'ah, centering on Abaye's argument that achilah is not written in the verse for basar bechalav \u2014 exactly the content described in the 'Abaye Responds' section prose.",
+      "chosen_heading": "Abaye Responds",
+      "current_heading": "Abaye Responds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Kodesh Framework",
+      "Flower Pot Case",
+      "Bitul 1:200",
+      "Two Kilayim Forms",
+      "Rava's Resolution",
+      "Healing Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: item 1 raises a challenge about kilayim hakerem roots (leading to Rabbi Adda's conclusion), item 2 presents Rav Shemaya's objection from the flower pot mishna, and item 3 is Rava's resolution distinguishing zaru'a mei'ikaro from zaru'a uva \u2014 exactly what the 'Rava's Resolution' prose describes.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Healing Exception",
+    "candidates": [
+      "Healing Exception",
+      "Love Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Ya'akov/Rabbi Yo\u1e25anan's ruling about healing with any substance except asherah wood and the Gemara's immediate question about the circumstances, which is precisely what the 'Healing Exception' prose describes.",
+      "chosen_heading": "Healing Exception",
+      "current_heading": "Healing Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Love Midrash",
+    "candidates": [
+      "Love Midrash",
+      "Three Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi Eliezer baraita interpreting 'with all your soul' and 'with all your might,' which is precisely what the 'Love Midrash' prose describes in detail, making the current placement correct.",
+      "chosen_heading": "Love Midrash",
+      "current_heading": "Love Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Three Sins",
+    "candidates": [
+      "Three Sins",
+      "Avizrayhu Debate",
+      "Torah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's teaching (via Ravin) that one may heal with any substance except idolatry, forbidden sexual relations, and bloodshed \u2014 exactly the three-category rule that the 'Three Sins' prose is explaining and analyzing.",
+      "chosen_heading": "Three Sins",
+      "current_heading": "Three Sins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Torah Comparison",
+    "candidates": [
+      "Avizrayhu Debate",
+      "Torah Comparison",
+      "Kill Rapist",
+      "Extension to Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the baraita from Rabbi about the betrothed young woman and the murder comparison, which is precisely what the 'Torah Comparison' prose describes as the starting point of the Gemara's derivation for gilluy arayot and shfikhut damim.",
+      "chosen_heading": "Torah Comparison",
+      "current_heading": "Torah Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Extension to Acts",
+    "candidates": [
+      "Kill Rapist",
+      "Extension to Acts",
+      "Rava's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both directions of the hekesh \u2014 saving via the attacker's life and the yehareg v'al ya'avor obligation on the victim \u2014 which matches exactly the 'Extension to Acts' prose describing the bidirectional analogy between murder and na'arah hame'orasah.",
+      "chosen_heading": "Extension to Acts",
+      "current_heading": "Extension to Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rava's Case",
+    "candidates": [
+      "Rava's Case",
+      "Unresolved Issues",
+      "Orlah Application",
+      "Fever as Sakanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rava murder case and the 'whose blood is redder' reasoning, which is precisely what the prose under 'Rava's Case' discusses.",
+      "chosen_heading": "Rava's Case",
+      "current_heading": "Rava's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Fever as Sakanah",
+    "candidates": [
+      "Unresolved Issues",
+      "Orlah Application",
+      "Fever as Sakanah",
+      "Not Derech Hana'ah",
+      "Refuah Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Orlah Application",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Mar bar Rav Ashi's challenge and Ravina's first answer (high fever = sakanah), which matches exactly the 'Orlah Application' and 'Fever as Sakanah' prose \u2014 but item 1 alone (the challenge) fits best under heading 1 'Orlah Application' which sets up the scene, while the fever response fits heading 2.",
+      "second_heading": "Not Derech Hana'ah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Ravina's second answer \u2014 'Am I deriving benefit in the usual manner?' \u2014 which corresponds precisely to the 'Not Derech Hana'ah' heading's prose about midi derech hana'ah ka avidna.",
+      "current_heading": "Fever as Sakanah",
+      "moved": true
+    }
+  }
+]

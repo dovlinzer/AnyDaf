@@ -39,8 +39,8 @@
           "timestamp": "01:45"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Yaakov's Position on Half Payment and the Debate with Rabbi Yehuda",
@@ -83,7 +83,7 @@
           "timestamp": "06:11"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -175,7 +175,7 @@
           "timestamp": "20:01"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -461,5 +461,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 28
+  "amud_b_sefaria_index": 28,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "36:23",
+  "amud_b_micro_title": "Tam Payment Rule",
+  "shiur_start_daf": 39,
+  "shiur_start_amud": "b"
 }

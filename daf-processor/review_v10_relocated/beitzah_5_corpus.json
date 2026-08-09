@@ -1,0 +1,430 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Egg Permissibility",
+    "candidates": [
+      "Egg Permissibility",
+      "One Kedusha",
+      "Havdalah Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the core dispute between Rav and Rav Asi about an egg laid on one day of the two-day Diaspora yom tov, which is exactly what the 'Egg Permissibility' section's prose describes.",
+      "chosen_heading": "Egg Permissibility",
+      "current_heading": "Egg Permissibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Havdalah Contradiction",
+    "candidates": [
+      "One Kedusha",
+      "Havdalah Contradiction",
+      "Safek Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rav Asi holds one kedusha and then raises the contradiction that he recites havdalah between the two Festival days, which is precisely what the 'Havdalah Contradiction' prose section discusses.",
+      "chosen_heading": "Havdalah Contradiction",
+      "current_heading": "Havdalah Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Safek Resolution",
+    "candidates": [
+      "Safek Resolution",
+      "Modern Calendar Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Asi's uncertainty and his acting stringently on both fronts, which is precisely what the 'Safek Resolution' section's prose discusses.",
+      "chosen_heading": "Safek Resolution",
+      "current_heading": "Safek Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Modern Calendar Logic",
+    "candidates": [
+      "Modern Calendar Logic",
+      "Historical Minhag",
+      "Beacon System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Zeira's argument that even though the calendar is fixed today and we know the month's determination, we still observe two Festival days \u2014 precisely the 'Modern Calendar Logic' discussed in candidate 0's prose.",
+      "chosen_heading": "Modern Calendar Logic",
+      "current_heading": "Modern Calendar Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Beacon System",
+    "candidates": [
+      "Historical Minhag",
+      "Beacon System",
+      "Regional Flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's statement that Rav's position is more reasonable (*k'vatei d'Rav mistabra*) and introduces the Mishnah as supporting evidence \u2014 this matches the 'Historical Minhag' prose which explicitly describes Abaye disagreeing and citing a Mishnah in support, whereas the 'Beacon System' prose describes the content of that Mishnah rather than Abaye's introductory framing.",
+      "chosen_heading": "Historical Minhag",
+      "current_heading": "Beacon System",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Regional Flexibility",
+    "candidates": [
+      "Beacon System",
+      "Regional Flexibility",
+      "Minhag Continuity",
+      "Chacham Tzvi",
+      "Future Persecution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Abaye's inference about Samaritans desisting and messengers arriving \u2014 the exact content the 'Regional Flexibility' prose describes as Abaye drawing the critical inference about one-day observance based on geography and circumstances.",
+      "chosen_heading": "Regional Flexibility",
+      "current_heading": "Regional Flexibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Future Persecution",
+    "candidates": [
+      "Minhag Continuity",
+      "Chacham Tzvi",
+      "Future Persecution",
+      "RH One Kedusha",
+      "Witness Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why two days are kept despite the fixed calendar, and the answer about future persecution (gezerat hamalchut) disrupting the calendar \u2014 exactly what the 'Future Persecution' section's prose describes.",
+      "chosen_heading": "Future Persecution",
+      "current_heading": "Future Persecution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Witness Rules",
+    "candidates": [
+      "RH One Kedusha",
+      "Witness Rules",
+      "Levim Mistake",
+      "Mincha Cutoff",
+      "Post-Mincha Kedusha"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Post-Mincha Kedusha",
+    "candidates": [
+      "Levim Mistake",
+      "Mincha Cutoff",
+      "Post-Mincha Kedusha",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states that when witnesses arrived after mincha, both that day and the next were kept as sacred \u2014 exactly what the 'Post-Mincha Kedusha' section discusses, including the ruling 'nogin oso hayom kodesh u'l'machar kodesh' and its implication that two days of Rosh HaShana form a single unit (kedusha achas) rather than two separate days of doubt.",
+      "chosen_heading": "Post-Mincha Kedusha",
+      "current_heading": "Post-Mincha Kedusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Rava's View",
+      "Abaye Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's statement about the ordinance of Rabban Yochanan ben Zakkai permitting the egg, which is precisely what the 'Rava's View' prose section describes and analyzes.",
+      "chosen_heading": "Rava's View",
+      "current_heading": "Rava's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Abaye Objects",
+    "candidates": [
+      "Abaye Objects",
+      "EY vs. CL",
+      "Practice Divergence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Abaye's objection citing Rav and Shmuel and Rabba's dismissive response prioritizing Rabban Yochanan ben Zakkai, which is precisely what the 'Abaye Objects' section's prose describes.",
+      "chosen_heading": "Abaye Objects",
+      "current_heading": "Abaye Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Practice Divergence",
+    "candidates": [
+      "EY vs. CL",
+      "Practice Divergence",
+      "Legislation Permanence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's 'lo kashya, ha lan, ha lehu' distinction between Eretz Yisrael and Chutz La'aretz, which is precisely what heading 0 ('EY vs. CL') describes in its prose, whereas the current placement under 'Practice Divergence' contains the essay author's elaboration on what that distinction means \u2014 the Gemara text itself belongs under the heading that introduces it.",
+      "chosen_heading": "EY vs. CL",
+      "current_heading": "Practice Divergence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Legislation Permanence",
+    "candidates": [
+      "Practice Divergence",
+      "Legislation Permanence",
+      "Biblical Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yosef's principle that a davar she'be'minyan requires another vote to permit it, which is precisely what the 'Legislation Permanence' section's prose discusses and explains.",
+      "chosen_heading": "Legislation Permanence",
+      "current_heading": "Legislation Permanence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Biblical Proofs",
+    "candidates": [
+      "Biblical Proofs",
+      "Kerem Revai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's biblical proofs from Deuteronomy 5:26 and Exodus 19:13, which is precisely what the 'Biblical Proofs' section prose describes in detail.",
+      "chosen_heading": "Biblical Proofs",
+      "current_heading": "Biblical Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Kerem Revai",
+    "candidates": [
+      "Kerem Revai",
+      "Tosafot Refinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous chain about kerem revai, the davar she'be'minyan principle applied to rabbinic law, and the Sinai proof-texts \u2014 exactly what the 'Kerem Revai' prose section describes in detail.",
+      "chosen_heading": "Kerem Revai",
+      "current_heading": "Kerem Revai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Tosafot Refinement",
+    "candidates": [
+      "Tosafot Refinement",
+      "Takana Application",
+      "Dependent Reality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's answer 'ki nimnu a'eidus, a'beitza lo nimnu' \u2014 they voted about testimony but not about the egg \u2014 which is precisely what the 'Takana Application' prose describes and explains.",
+      "chosen_heading": "Takana Application",
+      "current_heading": "Tosafot Refinement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Dependent Reality",
+    "candidates": [
+      "Takana Application",
+      "Dependent Reality",
+      "Automatic Shift",
+      "Rebuilding Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's retort questioning whether the egg was ever subject to a formal vote, which matches the 'Dependent Reality' section's prose about Abaye's sharp retort and the absence of any standalone legislation about the egg.",
+      "chosen_heading": "Dependent Reality",
+      "current_heading": "Dependent Reality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rebuilding Concern",
+    "candidates": [
+      "Automatic Shift",
+      "Rebuilding Concern",
+      "Authority Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rebuilding Concern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the ruling of Rav Adda and Rav Shalman that the egg remains forbidden even after Rabban Yochanan ben Zakkai's reform due to concern about future confusion when the Temple is rebuilt, which is precisely what the 'Rebuilding Concern' prose describes.",
+      "second_heading": "Authority Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection that if confusion after rebuilding is the concern, we should also not accept testimony, which is exactly the challenge the 'Authority Distinction' prose addresses, explaining why the concern applies to eggs but not to witness acceptance.",
+      "current_heading": "Rebuilding Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Authority Distinction",
+    "candidates": [
+      "Authority Distinction",
+      "Deliberate Preservation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between testimony entrusted to the court versus eggs entrusted to all people, which is precisely what the 'Authority Distinction' section prose describes.",
+      "chosen_heading": "Authority Distinction",
+      "current_heading": "Authority Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Deliberate Preservation",
+    "candidates": [
+      "Deliberate Preservation",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's argument about Rabban Yochanan ben Zakkai's ordinance and the kedusha achas principle, which is precisely what the 'Deliberate Preservation' prose discusses in detail.",
+      "chosen_heading": "Deliberate Preservation",
+      "current_heading": "Deliberate Preservation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Final Ruling",
+    "candidates": [
+      "Final Ruling",
+      "Rif Always Two",
+      "Rishonim One Day",
+      "Modern Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's concluding halakhic ruling, which is precisely what the 'Final Ruling' section's prose discusses and quotes.",
+      "chosen_heading": "Final Ruling",
+      "current_heading": "Final Ruling",
+      "moved": false
+    }
+  }
+]

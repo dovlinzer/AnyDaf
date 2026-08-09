@@ -1,0 +1,458 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "R. Shmuel bar Nachmani",
+    "candidates": [
+      "Opening & Summary",
+      "Reuven Debate",
+      "R. Shmuel bar Nachmani",
+      "Lecturer's Concerns",
+      "Rav: Chofni Sinned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mnemonic, Rabbi Shmuel bar Na\u1e25mani's statement about the sons of Eli, and the Rav-based resolution via hekesh \u2014 are precisely the content described in candidate 2's prose, which walks through exactly this sequence: the sons of Eli, the verse proving Pinehas didn't sin, the hekesh to Hophni, and the reinterpretation of 'lying with the women' as delaying bird-offerings.",
+      "chosen_heading": "R. Shmuel bar Nachmani",
+      "current_heading": "R. Shmuel bar Nachmani",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rav: Chofni Sinned",
+    "candidates": [
+      "Lecturer's Concerns",
+      "Rav: Chofni Sinned",
+      "Delaying Sacrifices",
+      "Textual Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav's proof that Pinehas did not sin \u2014 first from the lineage verse and then from the Malachi curse \u2014 which is precisely what candidate 1's prose describes under 'Rav: Chofni Sinned,' where the current placement already sits.",
+      "chosen_heading": "Rav: Chofni Sinned",
+      "current_heading": "Rav: Chofni Sinned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Textual Issues",
+    "candidates": [
+      "Delaying Sacrifices",
+      "Textual Issues",
+      "Phinehas Silence",
+      "Sons Not Sinful"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Textual Issues",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the textual challenges and resolutions about plural vs. singular spellings, which directly match the 'Textual Issues' prose discussing yishkevan ktiv, beni ktiv, and ma'aviram.",
+      "second_heading": "Phinehas Silence",
+      "second_confidence": "high",
+      "second_reason": "Item 4 about Phinehas's failure to protest and being ascribed liability as if he sinned matches exactly the 'Phinehas Silence' prose which quotes mitoch shehayah lo l'Pinchas limchot b'Chofni v'lo michah.",
+      "current_heading": "Textual Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Sons Not Sinful",
+    "candidates": [
+      "Phinehas Silence",
+      "Sons Not Sinful",
+      "Samuel's Circuit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete statement that the sons of Samuel did not sin, which is precisely what the 'Sons Not Sinful' section's prose introduces and discusses.",
+      "chosen_heading": "Sons Not Sinful",
+      "current_heading": "Sons Not Sinful",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Samuel's Circuit",
+    "candidates": [
+      "Samuel's Circuit",
+      "Gain Reframed",
+      "Tannaic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Samuel's circuit through Israel and his sons' failure to emulate it, which is precisely what the 'Samuel's Circuit' section's prose describes.",
+      "chosen_heading": "Samuel's Circuit",
+      "current_heading": "Samuel's Circuit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Tannaic Debate",
+    "candidates": [
+      "Gain Reframed",
+      "Tannaic Debate",
+      "Bathsheba Not Adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the tannaic dispute about the precise nature of the sons of Samuel's misconduct, which is exactly what the 'Tannaic Debate' section's prose discusses \u2014 the machlokes tana'im between Rabbi Meir, Rabbi Yehuda, Rabbi Akiva, and Rabbi Yosi regarding their conduct.",
+      "chosen_heading": "Tannaic Debate",
+      "current_heading": "Tannaic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Bathsheba Not Adultery",
+    "candidates": [
+      "Bathsheba Not Adultery",
+      "Get & Conditional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the defense of David from the charge of adultery with Bathsheba \u2014 Rabbi Yonatan's claim that David didn't sin, the resolution of Nathan's rebuke via 'sought to do but did not do,' and Rabbi Yehuda HaNasi's grammatical proof \u2014 all of which are explicitly discussed in the 'Bathsheba Not Adultery' prose.",
+      "chosen_heading": "Bathsheba Not Adultery",
+      "current_heading": "Bathsheba Not Adultery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Get & Conditional",
+    "candidates": [
+      "Get & Conditional",
+      "Uriah: Mored Malchus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Uriah: Mored Malchus",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses David's sin regarding Uriah's killing and Bathsheba's marriage rights, which matches the 'Uriah: Mored Malchus' prose exactly.",
+      "second_heading": "Get & Conditional",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 explain the conditional get that soldiers wrote before going to war and the derivation from 'arubatam', which matches the 'Get & Conditional' prose exactly.",
+      "current_heading": "Get & Conditional",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Uriah: Mored Malchus",
+    "candidates": [
+      "Uriah: Mored Malchus",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address why David was not punished for Uriah's death \u2014 the 'sword of Ammon' exculpation and the mored bemalchus reasoning \u2014 which is precisely what the 'Uriah: Mored Malchus' prose section discusses in detail.",
+      "chosen_heading": "Uriah: Mored Malchus",
+      "current_heading": "Uriah: Mored Malchus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Lashon Hara & Tziva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav's statement that David had no sin except for the matter of Uriah, which is exactly what heading 0 ('Rav's Position') discusses in its prose.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Lashon Hara & Tziva",
+    "candidates": [
+      "Lashon Hara & Tziva",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav's statement that David accepted lashon hara and the Tziva/Mefivoshet episode, which is exactly what the prose of heading 0 ('Lashon Hara & Tziva') discusses in detail, making the current placement correct.",
+      "chosen_heading": "Lashon Hara & Tziva",
+      "current_heading": "Lashon Hara & Tziva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Kingdom Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly discuss the Rav vs. Shmuel dispute about whether David accepted lashon hara regarding Mephibosheth, including Shmuel's position that David saw supporting evidence, the exchange between David and Mephibosheth, and the Meriv-Baal/natza bar natza conclusion \u2014 all of which are explicitly covered in the 'Rav vs. Shmuel' prose.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Kingdom Split",
+    "candidates": [
+      "Kingdom Split",
+      "Solomon Not Sinful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Yehuda citing Rav about David's acceptance of slander causing the kingdom's division, which is precisely what the 'Kingdom Split' prose discusses in detail.",
+      "chosen_heading": "Kingdom Split",
+      "current_heading": "Kingdom Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Solomon Not Sinful",
+    "candidates": [
+      "Solomon Not Sinful",
+      "Wives Led Astray"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Solomon did not sin, matching exactly the 'Solomon Not Sinful' section's prose which discusses this same Talmudic statement and inference.",
+      "chosen_heading": "Solomon Not Sinful",
+      "current_heading": "Solomon Not Sinful",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Wives Led Astray",
+    "candidates": [
+      "Wives Led Astray",
+      "Future Tense Exegesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Natan's resolution of the contradiction about Solomon's wives turning his heart astray, which is precisely what the 'Wives Led Astray' section's prose describes.",
+      "chosen_heading": "Wives Led Astray",
+      "current_heading": "Wives Led Astray",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Future Tense Exegesis",
+    "candidates": [
+      "Future Tense Exegesis",
+      "Reb Natan: Not Protesting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the future-tense exegesis debate about yivneh (Solomon's altar) and the Joshua objection/resolution, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Future Tense Exegesis",
+      "current_heading": "Future Tense Exegesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Reb Natan: Not Protesting",
+    "candidates": [
+      "Reb Natan: Not Protesting",
+      "Active vs. Passive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Rabbi Yosei and its Gemara resolution about Solomon/Yoshiah/Asa/Jehoshaphat, which candidate 0's prose explicitly and thoroughly describes as its central content.",
+      "chosen_heading": "Reb Natan: Not Protesting",
+      "current_heading": "Reb Natan: Not Protesting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Active vs. Passive",
+    "candidates": [
+      "Active vs. Passive",
+      "Rome Founded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'active vs. passive' theme \u2014 item 1 explains that Solomon's failure to protest his wives' idolatry is treated as if he sinned, and item 2 (Rav Yehuda/Shmuel) says it would have been better to actively perform a minor act of idolatry than to be written up as having done evil through passive non-intervention \u2014 exactly what the prose of heading 0 discusses.",
+      "chosen_heading": "Active vs. Passive",
+      "current_heading": "Active vs. Passive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Rome Founded",
+    "candidates": [
+      "Rome Founded",
+      "Jeroboam's Calves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact two Shmuel statements about Solomon's marriage to Pharaoh's daughter that the 'Rome Founded' prose explicitly quotes and discusses together \u2014 the musical instruments/idolatry statement and the Gabriel/reed/Rome statement.",
+      "chosen_heading": "Rome Founded",
+      "current_heading": "Rome Founded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Jeroboam's Calves",
+    "candidates": [
+      "Jeroboam's Calves",
+      "Josiah's Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly describes Jeroboam's golden calves and the construction of the first hut in Italy of Greece, which is precisely what heading 0 'Jeroboam's Calves' discusses in its prose.",
+      "chosen_heading": "Jeroboam's Calves",
+      "current_heading": "Jeroboam's Calves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Josiah's Return",
+    "candidates": [
+      "Josiah's Return",
+      "Rav: Ba'al Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuous gemara passage about Josiah's 'return' \u2014 the question about the verse and its answer about reversing judgments \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Josiah's Return",
+      "current_heading": "Josiah's Return",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Rav: Ba'al Teshuvah",
+    "candidates": [
+      "Rav: Ba'al Teshuvah",
+      "Later Ba'alei Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly continues Rav's statement about ba'alei teshuvah and Yoshiyahu, identifying the specific person in Rav's generation, which belongs under the 'Rav: Ba'al Teshuvah' heading that discusses Rav's view on Yoshiyahu and teshuvah.",
+      "chosen_heading": "Rav: Ba'al Teshuvah",
+      "current_heading": "Rav: Ba'al Teshuvah",
+      "moved": false
+    }
+  }
+]

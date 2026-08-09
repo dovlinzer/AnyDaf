@@ -62,17 +62,12 @@ From the *ezrat nashim* to the *ezrat yisrael*, there were fifteen steps, each a
 
 Finally, from the area beyond the *mizbeach* — moving through the *ezrat kohanim* — to the *ulam*, there were another twelve steps, each again half an *amah* tall, for a further rise of six *amot*. Adding six to thirteen and a half gives a total rise of nineteen and a half *amot* from the level of the outer eastern wall to the floor of the *ulam* and *heichal*. Since the doorways were all twenty *amot* tall, a *kohen* looking in a perfectly straight horizontal line from outside the eastern wall would, in theory, just barely be able to see the bottom half-*amah* of the *heichal* doorway — the threshold itself would be just at or barely above his line of sight.
 
-## Low Wall Necessity
-
-### Barely Sufficient Height
-
-This calculation creates an apparent difficulty for the passage we are analyzing. The *mishnah* in *Middot* states that the eastern wall was specifically kept low so that the *kohen* on *Har HaMishcha* could see the *heichal* opening. But if the total accumulated rise is only nineteen and a half *amot* and the doorways are twenty *amot* tall, then even with a wall of normal height, he ought to be able to see at least the bottom half-*amah* of the opening. Why, then, was a specially low wall necessary?
 
 ## Middot Attribution Proof
 
 ### Challenge to Rabbanan
 
-This is precisely the *gemara*'s logical challenge. If *Masechet Middot* follows the view of the *rabbanan* — the majority opinion that does not introduce any additional rise before the *ulam* — then the nineteen-and-a-half-*amah* calculation is complete, and the bottom half-*amah* of the *heichal* doorway remains visible. In that case, the *kohen* on *Har HaMishcha* could manage a direct sightline without any special accommodation. Why, then, would the *mishnah* in *Middot* bother specifying that the eastern wall had to be low? The explicit statement that the wall was kept low implies that without this concession, visibility would have been impossible — but according to the *rabbanan*'s dimensions, visibility is achievable, barely. The special low wall is therefore unexplained if *Middot* follows the *rabbanan*.
+The *gemara* now cites another *mishnah* — *v'tenan* — this one recording the view of *Rabbi Eliezer ben Yaakov*.
 
 ## Low Wall Necessity (II)
 

@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Anpaktan Debate",
+    "candidates": [
+      "Omer & Shtei HaLechem",
+      "Bikkurim Sourcing",
+      "Anpaktan Debate",
+      "Chiya vs Shimon: Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the core textual contradiction between the Mishnah and the Baraita regarding anpaktan/unripe olive oil \u2014 exactly the content described in the 'Anpaktan Debate' prose, which explicitly discusses this very contradiction between the Mishnah's ruling and the Baraita's ruling about validity b'di'avad.",
+      "chosen_heading": "Anpaktan Debate",
+      "current_heading": "Anpaktan Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Chiya vs Shimon: Oil",
+    "candidates": [
+      "Chiya vs Shimon: Oil",
+      "Shemen Hamor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's resolution of the contradiction between Rabbi \u1e24iyya and Rabbi Shimon bar Rabbi regarding unripe olive oil, with the mnemonic 'ashirin mekamtzin,' which is precisely what the prose under 'Chiya vs Shimon: Oil' describes.",
+      "chosen_heading": "Chiya vs Shimon: Oil",
+      "current_heading": "Chiya vs Shimon: Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Shemen Hamor",
+    "candidates": [
+      "Shemen Hamor",
+      "Bad Oils & Ba'al Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of 'shemen hamor' from Esther 2:12, identifying it as oil from unripe olives and confirming it via a baraita \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Shemen Hamor",
+      "current_heading": "Shemen Hamor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Bad Oils & Ba'al Mum",
+    "candidates": [
+      "Bad Oils & Ba'al Mum",
+      "First Harvest Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita listing invalid oils and Rava's ba'al mum question about consecrating such oils \u2014 are explicitly discussed together in the 'Bad Oils & Ba'al Mum' prose, which is the current placement.",
+      "chosen_heading": "Bad Oils & Ba'al Mum",
+      "current_heading": "Bad Oils & Ba'al Mum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "First Harvest Process",
+    "candidates": [
+      "First Harvest Process",
+      "Rabbi Yehuda's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna statement introducing the three olive harvests and three grades of oil, which is precisely what the 'First Harvest Process' prose begins by quoting and explaining ('The Mishnah now teaches: shlosha zeisim hem \u2014 there are three olive harvests').",
+      "chosen_heading": "First Harvest Process",
+      "current_heading": "First Harvest Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Rabbi Yehuda's Method",
+    "candidates": [
+      "Rabbi Yehuda's Method",
+      "Later Harvests"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rabbi Yehuda's Method",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 describe the first olive harvest's three extraction grades and their Temple uses, matching heading 0's prose about the Mishnah's baseline process and Rabbi Yehuda's refinements for the first harvest.",
+      "second_heading": "Later Harvests",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 describe the second harvest's three-stage extraction process, which directly matches heading 1's prose discussing 'the second harvest' and its parallel three-stage process.",
+      "current_heading": "Rabbi Yehuda's Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Later Harvests",
+    "candidates": [
+      "Later Harvests",
+      "Oil Grading System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 13 items deal with the third harvest's processing methods, the three grades of oil from each harvest, and the Gemara's resolution of the megargero/megalgelo textual dilemma \u2014 exactly the content described in the 'Later Harvests' prose, which explicitly covers the third harvest procedure, the baraita's millstone vs. mortar distinction, and Rabbi Yehuda's dissenting positions.",
+      "chosen_heading": "Later Harvests",
+      "current_heading": "Later Harvests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Oil Grading System",
+    "candidates": [
+      "Oil Grading System",
+      "Kal VaChomer Logic",
+      "Zach Katit LaMe'or"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oil Grading System",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 3 are the Mishna and Gemara of the oil grading system (shavin discussion), which candidate 0's prose explicitly addresses in detail.",
+      "second_heading": "Kal VaChomer Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the kal vachomer baraita arguing that menachot should require refined olive oil, which is precisely what candidate 1's prose describes.",
+      "current_heading": "Oil Grading System",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Zach Katit LaMe'or",
+    "candidates": [
+      "Kal VaChomer Logic",
+      "Zach Katit LaMe'or",
+      "Chisachon Principle",
+      "Purpose of Menorah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Zach Katit LaMe'or",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita defining 'zach' and 'katit' and the gezera shava permitting this oil for menachot, which matches the 'Zach Katit LaMe'or' section's prose about exactly these topics.",
+      "second_heading": "Chisachon Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Elazar's explanation of 'chisachon' \u2014 the Torah sparing Israel's money \u2014 which is precisely the topic of the 'Chisachon Principle' section.",
+      "current_heading": "Zach Katit LaMe'or",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Purpose of Menorah",
+    "candidates": [
+      "Chisachon Principle",
+      "Purpose of Menorah",
+      "Arrangement Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shmuel bar Na\u1e25mani's interpretation of 'eilecha' to mean the Menorah is for Israel's benefit and not God's, which is precisely what the 'Purpose of Menorah' section's prose describes and analyzes.",
+      "chosen_heading": "Purpose of Menorah",
+      "current_heading": "Purpose of Menorah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Arrangement Symbolism",
+    "candidates": [
+      "Arrangement Symbolism",
+      "Windows & Divine Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Table in the north and Candelabrum in the south with Rabbi Zerika/Elazar's statement about not needing food or light, which is precisely what the 'Arrangement Symbolism' prose elaborates on.",
+      "chosen_heading": "Arrangement Symbolism",
+      "current_heading": "Arrangement Symbolism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Windows & Divine Light",
+    "candidates": [
+      "Windows & Divine Light",
+      "Ner Ma'aravi Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the windows of Solomon's Temple and the baraita explaining they were narrow within and broad without because God does not require illumination, which is precisely what the 'Windows & Divine Light' section prose describes.",
+      "chosen_heading": "Windows & Divine Light",
+      "current_heading": "Windows & Divine Light",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Ner Ma'aravi Miracle",
+    "candidates": [
+      "Ner Ma'aravi Miracle",
+      "Wine Regions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the testimony verse, the refutation of the 'God needs light' argument, and Rava's identification of the ner ma'aravi as the specific testimony \u2014 are explicitly discussed together in the 'Ner Ma'aravi Miracle' prose, which quotes or paraphrases each of these passages in sequence.",
+      "chosen_heading": "Ner Ma'aravi Miracle",
+      "current_heading": "Ner Ma'aravi Miracle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Wine Regions",
+    "candidates": [
+      "Wine Regions",
+      "Bad Wine Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the primary and secondary wine regions for Temple libations, which directly matches the 'Wine Regions' prose discussing Keduchim, Atulin, Beit Rima, Beit Lavan, and Kfar Signa as ideal wine sources.",
+      "chosen_heading": "Wine Regions",
+      "current_heading": "Wine Regions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Bad Wine Sources",
+    "candidates": [
+      "Bad Wine Sources",
+      "Old Wine Debate",
+      "Cooked Wine",
+      "Vine Growing Method",
+      "Wine Processing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the disqualifying wine sources (fertilized/irrigated vineyards, hilyasteyon, old wine debate, sweet/smoked/boiled wine, and trellis-grown vines) as a single Mishnah unit, and the current heading 'Bad Wine Sources' with its prose most comprehensively introduces this entire passage, while the other headings each address only sub-portions of it.",
+      "chosen_heading": "Bad Wine Sources",
+      "current_heading": "Bad Wine Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Wine Processing",
+    "candidates": [
+      "Old Wine Debate",
+      "Cooked Wine",
+      "Vine Growing Method",
+      "Wine Processing",
+      "Quality Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items describe the wine collection and extraction process \u2014 small casks, leaving space for aroma, and drawing from the middle third to avoid scum and sediment \u2014 which is precisely what the 'Wine Processing' prose section discusses.",
+      "chosen_heading": "Wine Processing",
+      "current_heading": "Wine Processing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Quality Inspection",
+    "candidates": [
+      "Quality Inspection",
+      "Impurity & Ba'al Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the treasurer's quality inspection procedure with the reed and chalk-like scum, which directly matches the prose discussion of the gizbar's inspection method under 'Quality Inspection'.",
+      "chosen_heading": "Quality Inspection",
+      "current_heading": "Quality Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Impurity & Ba'al Mum",
+    "candidates": [
+      "Impurity & Ba'al Mum",
+      "Abaye: Choleh Case",
+      "Rava: Gezeirat HaKatuv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yosei son of Rabbi Yehuda's ruling that wine with flour-like scum is unfit based on the 'temimim' verses, which is exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Impurity & Ba'al Mum",
+      "current_heading": "Impurity & Ba'al Mum",
+      "moved": false
+    }
+  }
+]

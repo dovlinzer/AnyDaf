@@ -1,0 +1,422 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rava: Animal Analogy",
+    "candidates": [
+      "Mishnah: Child Purchase",
+      "Jug Ownership Problem",
+      "Rav Yosef: Jug & Store",
+      "Gemara Rejects Mishnah",
+      "Storekeeper Borrows Jug",
+      "Rava: Animal Analogy",
+      "Refining Animal Case",
+      "Rava's Position: Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly concern the Rabba/Rava animal-striking principle and its attempted application to the storekeeper, which is precisely what the 'Rava: Animal Analogy' section's prose describes \u2014 item 1 introduces the analogy and item 2 is the Gemara's challenge to it, both part of the same continuous discussion under that heading.",
+      "chosen_heading": "Rava: Animal Analogy",
+      "current_heading": "Rava: Animal Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rava's Position: Kinyan",
+    "candidates": [
+      "Refining Animal Case",
+      "Rava's Position: Kinyan",
+      "Shoel vs. Gazlan",
+      "Return Obligations Differ"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement that he and Rabbi Zeira explained the case as one where the storekeeper took the jug to measure for others, which is precisely the content described in candidate 1's prose about Rava clarifying with Rav Zeira that the storekeeper took the jug without permission for other customers.",
+      "chosen_heading": "Rava's Position: Kinyan",
+      "current_heading": "Rava's Position: Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Return Obligations Differ",
+    "candidates": [
+      "Shoel vs. Gazlan",
+      "Return Obligations Differ",
+      "Tosafot: Protected Return",
+      "Shmuel: Vessel Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Talmudic dispute between Rabbi Yehuda and the Rabbis about whether an unauthorized borrower is a *shoel* or a *gazlan*, which is precisely what the 'Shoel vs. Gazlan' section introduces as the core question.",
+      "chosen_heading": "Shoel vs. Gazlan",
+      "current_heading": "Return Obligations Differ",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Shmuel: Vessel Inspection",
+    "candidates": [
+      "Tosafot: Protected Return",
+      "Shmuel: Vessel Inspection",
+      "Price: Lokeach Model",
+      "Butcher's Meat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Shmuel statement itself ('gufa \u2014 Shmuel says: one who takes a vessel from a craftsman to examine it...'), which is precisely what heading 1 ('Shmuel: Vessel Inspection') introduces and discusses.",
+      "chosen_heading": "Shmuel: Vessel Inspection",
+      "current_heading": "Shmuel: Vessel Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Butcher's Meat Case",
+    "candidates": [
+      "Price: Lokeach Model",
+      "Butcher's Meat Case",
+      "Gourds at Market"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the butcher shop incident with the horseman and Rav Yeimar's ruling, which is precisely what the 'Butcher's Meat Case' prose section describes.",
+      "chosen_heading": "Butcher's Meat Case",
+      "current_heading": "Butcher's Meat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Gourds at Market",
+    "candidates": [
+      "Gourds at Market",
+      "Rav Kahana: No Kedush",
+      "Tosafot: Konayim Model",
+      "Tentative Purchase Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of the man bringing pumpkins to Pum Nahara and his declaration of hekdesh, which is exactly what the 'Gourds at Market' prose section describes.",
+      "chosen_heading": "Gourds at Market",
+      "current_heading": "Gourds at Market",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Tentative Purchase Logic",
+    "candidates": [
+      "Rav Kahana: No Kedush",
+      "Tosafot: Konayim Model",
+      "Tentative Purchase Logic",
+      "Mishnah: No Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's actual ruling ('ein adam makdish davar she-eino shelo') with the fixed/unfixed price distinction, which is precisely what heading 0 ('Rav Kahana: No Kedush') describes in its prose.",
+      "chosen_heading": "Rav Kahana: No Kedush",
+      "current_heading": "Tentative Purchase Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Mishnah: No Sale",
+    "candidates": [
+      "Tentative Purchase Logic",
+      "Mishnah: No Sale",
+      "Intent Creates Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about buying vegetables from the market, inspecting them, and not acquiring them or incurring ma'aser obligation is precisely what the 'Mishnah: No Sale' section's prose describes and introduces.",
+      "chosen_heading": "Mishnah: No Sale",
+      "current_heading": "Mishnah: No Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Intent Creates Liability",
+    "candidates": [
+      "Intent Creates Liability",
+      "Rav Hoshaya: Fear Heaven",
+      "Rav Safra Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the content discussed in 'Intent Creates Liability' \u2014 the rule that forming definitive intent to buy creates acquisition and tithe obligation, and the resolution of paying the seller for the tithe portion \u2014 which is precisely what that section's prose elaborates upon.",
+      "chosen_heading": "Intent Creates Liability",
+      "current_heading": "Intent Creates Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav Safra Story",
+    "candidates": [
+      "Rav Hoshaya: Fear Heaven",
+      "Rav Safra Story",
+      "Rash'bam: Intent Purc",
+      "Mishnah: Cleaning Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the sharp objection ('Is that to say that because one determined to buy...') and Rav Hoshaya's answer about the yarei shamayim like Rav Safra, which is precisely what heading 0 ('Rav Hoshaya: Fear Heaven') describes in its prose, making it a better fit than heading 1 which focuses on the Rav Safra story details separately.",
+      "chosen_heading": "Rav Hoshaya: Fear Heaven",
+      "current_heading": "Rav Safra Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Mishnah: Cleaning Rules",
+    "candidates": [
+      "Rash'bam: Intent Purc",
+      "Mishnah: Cleaning Rules",
+      "Shimon: Infrequent Use",
+      "Storekeeper Obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah introducing cleaning obligations for wholesalers and homeowners, which is precisely what the 'Mishnah: Cleaning Rules' section prose describes and contextualizes.",
+      "chosen_heading": "Mishnah: Cleaning Rules",
+      "current_heading": "Mishnah: Cleaning Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Storekeeper Obligations",
+    "candidates": [
+      "Shimon: Infrequent Use",
+      "Storekeeper Obligations",
+      "Liquid vs. Dry Measures",
+      "Tefach & Geirumin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the storekeeper's (chanvani's) obligations to clean measuring vessels, weights, and balance pans, which matches exactly the 'Storekeeper Obligations' section's prose, and Rabban Shimon ben Gamliel's qualification about lach vs. yavesh is covered under 'Liquid vs. Dry Measures' only as a separate elaboration \u2014 but since both are in the same mishnaic unit and the current placement already contains this full passage, the current placement is correct.",
+      "chosen_heading": "Storekeeper Obligations",
+      "current_heading": "Storekeeper Obligations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Tefach & Geirumin",
+    "candidates": [
+      "Liquid vs. Dry Measures",
+      "Tefach & Geirumin",
+      "Custom Determines Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tefach obligation and geirumin amounts (one-tenth for liquids, one-twentieth for dry goods), which is precisely what the 'Tefach & Geirumin' section's prose covers in detail.",
+      "chosen_heading": "Tefach & Geirumin",
+      "current_heading": "Tefach & Geirumin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Custom Determines Method",
+    "candidates": [
+      "Custom Determines Method",
+      "Reish Lakish: Even Shelem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna's rules about using small vs. large measuring vessels and leveling vs. heaping, which is exactly what the 'Custom Determines Method' prose describes.",
+      "chosen_heading": "Custom Determines Method",
+      "current_heading": "Custom Determines Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Reish Lakish: Even Shelem",
+    "candidates": [
+      "Reish Lakish: Even Shelem",
+      "Tipping vs. Adding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in heading 0 \u2014 Reish Lakish's derivation from 'even sheleima va-tzedek' and the initial challenge from the latter clause \u2014 which is precisely what heading 0's prose describes, while heading 1 covers the resolution of that tension, not the initial question and derivation.",
+      "chosen_heading": "Reish Lakish: Even Shelem",
+      "current_heading": "Reish Lakish: Even Shelem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tipping vs. Adding",
+    "candidates": [
+      "Tipping vs. Adding",
+      "Rav Abba: One of Ten",
+      "Dry Measures: Twenty Q's"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the Gemara's resolution of the tension (reisha be-makom she-nahagu), the relocation of Reish Lakish's teaching to the latter clause, and the quantification question answered by Rav Abba bar Memel \u2014 all of which the 'Tipping vs. Adding' prose explicitly discusses, including that Reish Lakish's derivation applies to the seifa and that Rav's answer quantifies the geirumin, which is precisely what this passage contains.",
+      "chosen_heading": "Tipping vs. Adding",
+      "current_heading": "Tipping vs. Adding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Dry Measures: Twenty Q's",
+    "candidates": [
+      "Rav Abba: One of Ten",
+      "Dry Measures: Twenty Q's",
+      "Rav Levi: Fraud vs Arayos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma about liquids and dry measures (one-tenth vs one-twentieth) and concludes with teku, which matches exactly the prose of candidate 1 describing the be-ayah about dry measures and the unresolved teku.",
+      "chosen_heading": "Dry Measures: Twenty Q's",
+      "current_heading": "Dry Measures: Twenty Q's",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rav Levi: Fraud vs Arayos",
+    "candidates": [
+      "Rav Levi: Fraud vs Arayos",
+      "Impossible Restitution",
+      "Theft Comparison: Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Levi's statement about measures vs. arayos and the Gemara's challenge/resolution regarding the word 'elleh', which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rav Levi: Fraud vs Arayos",
+      "current_heading": "Rav Levi: Fraud vs Arayos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Theft Comparison: Order",
+    "candidates": [
+      "Impossible Restitution",
+      "Theft Comparison: Order",
+      "Blessings vs. Curses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Impossible Restitution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the Gemara's answer that false measures allow no possibility of repentance) is directly discussed in candidate 0's prose about impossible restitution.",
+      "second_heading": "Theft Comparison: Order",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Levi's statement that robbing an ordinary person is more severe than robbing the Most High) is directly discussed in candidate 1's prose about the theft comparison via verse ordering.",
+      "current_heading": "Theft Comparison: Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Blessings vs. Curses",
+    "candidates": [
+      "Blessings vs. Curses",
+      "Vayeilech & Nitzavim",
+      "Rabbeinu Nissim: Buffer",
+      "Bamidbar Before Shavuot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of Rabbi Levi's continuous teaching comparing God's blessings/curses (22 vs. 8 letters) with Moses's blessings/curses (8 vs. 22 letters), which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Blessings vs. Curses",
+      "current_heading": "Blessings vs. Curses",
+      "moved": false
+    }
+  }
+]

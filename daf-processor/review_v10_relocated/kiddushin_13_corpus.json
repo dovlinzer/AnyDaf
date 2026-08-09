@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Rava - Silence After",
+    "candidates": [
+      "Mat Marriage Story",
+      "Hidden Zuzim",
+      "Rava - Silence After",
+      "Rav Huna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items constitute Rava's ruling on silence after money is given and his proof from the pikadon baraita, which is precisely what candidate 2 ('Rava - Silence After') describes in its prose.",
+      "chosen_heading": "Rava - Silence After",
+      "current_heading": "Rava - Silence After",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rav Huna Challenge",
+    "candidates": [
+      "Rav Huna Challenge",
+      "Gemara Response",
+      "Rav Acha Objection",
+      "Ravina Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Pum Nahara challenge in the name of Rav Huna son of Rav Yehoshua distinguishing the pikadon case from the kiddushin case, which is exactly what heading 0 'Rav Huna Challenge' describes in its prose.",
+      "chosen_heading": "Rav Huna Challenge",
+      "current_heading": "Rav Huna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Ravina Resolution",
+    "candidates": [
+      "Gemara Response",
+      "Rav Acha Objection",
+      "Ravina Resolution",
+      "Man Grabs Bundle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav A\u1e25ai's refutation (matching 'Rav Acha Objection' prose exactly) and Rav A\u1e25a bar Rav's query to Ravina with his response, and since all items must go under one heading, the 'Rav Acha Objection' section's prose explicitly describes both the objection and the liability fear argument that opens this passage, making it the better single home \u2014 though the Ravina exchange is also present, the passage begins with Rav A\u1e25ai's refutation which is the topic of candidate 1.",
+      "chosen_heading": "Rav Acha Objection",
+      "current_heading": "Ravina Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Man Grabs Bundle",
+    "candidates": [
+      "Ravina Resolution",
+      "Man Grabs Bundle",
+      "Rav Nachman Ruling",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact narrative of the woman selling belts/bundles and a man snatching one, which is precisely what 'Man Grabs Bundle' section introduces, and Rav Na\u1e25man's ruling in the passage flows naturally into the next section 'Rav Nachman Ruling'.",
+      "chosen_heading": "Man Grabs Bundle",
+      "current_heading": "Man Grabs Bundle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Rava Challenge",
+      "Sheduch Distinction",
+      "Debt Payment Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's challenge to Rav Nachman from the baraita about betrothal with stolen/grabbed property, which is precisely what the 'Rava Challenge' prose describes.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Debt Payment Braita",
+    "candidates": [
+      "Sheduch Distinction",
+      "Debt Payment Braita",
+      "Timing Analysis",
+      "Ratzta Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's proof text for the shadich/lo shadich distinction, quoted in candidate 0's prose as 'the answer comes from a braita concerning debt repayment' \u2014 it belongs under the 'Sheduch Distinction' heading where the essay author explicitly says this braita will be cited, not under 'Debt Payment Braita' which analyzes the braita's internal rulings separately.",
+      "chosen_heading": "Sheduch Distinction",
+      "current_heading": "Debt Payment Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Ratzta Definition",
+    "candidates": [
+      "Timing Analysis",
+      "Ratzta Definition",
+      "Silence Failure",
+      "Gezel Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'what is the meaning of ratzta and lo ratzta' and follows the same logical structure about silence implying betrothal, exactly matching the 'Ratzta Definition' prose which describes this precise Gemara question and its logical implications.",
+      "chosen_heading": "Ratzta Definition",
+      "current_heading": "Ratzta Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Gezel Contradiction",
+    "candidates": [
+      "Silence Failure",
+      "Gezel Contradiction",
+      "Rav Assi Deathbed",
+      "Woman & Land Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the silence/betrothal question and the gezel contradiction resolved by the sheduch distinction, which is precisely what the 'Gezel Contradiction' prose discusses.",
+      "chosen_heading": "Gezel Contradiction",
+      "current_heading": "Gezel Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Woman & Land Value",
+    "candidates": [
+      "Rav Assi Deathbed",
+      "Woman & Land Value",
+      "Moral Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya about the woman/land peruta comparison and its resolution via chalipin, which is precisely what the 'Woman & Land Value' prose describes in detail.",
+      "chosen_heading": "Woman & Land Value",
+      "current_heading": "Woman & Land Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Moral Teaching",
+    "candidates": [
+      "Moral Teaching",
+      "Korban Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a single continuous discussion about the severity of errors in gittin and kiddushin leading to adultery and illegitimate children, exactly matching the 'Moral Teaching' prose which walks through each of these items in sequence.",
+      "chosen_heading": "Moral Teaching",
+      "current_heading": "Moral Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Korban Obligation",
+    "candidates": [
+      "Korban Obligation",
+      "Shibuda Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's ruling that heirs only bring the olah if the woman designated it in her lifetime, which is exactly what the 'Korban Obligation' section's prose describes and analyzes.",
+      "chosen_heading": "Korban Obligation",
+      "current_heading": "Korban Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Shibuda Debate",
+    "candidates": [
+      "Shibuda Debate",
+      "Rav Pappa Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the shibuda d'Oraisa debate \u2014 Shmuel vs. Rabbi Yochanan on the korban case, the parallel malveh al peh dispute, and the tzricha explanation for why both formulations are necessary \u2014 which matches precisely the prose of candidate 0.",
+      "chosen_heading": "Shibuda Debate",
+      "current_heading": "Shibuda Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rav Pappa Ruling",
+    "candidates": [
+      "Rav Pappa Ruling",
+      "Get & Death Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's ruling on oral loans, heirs, and purchasers, which is precisely what the prose under 'Rav Pappa Ruling' discusses.",
+      "chosen_heading": "Rav Pappa Ruling",
+      "current_heading": "Rav Pappa Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Get & Death Q",
+    "candidates": [
+      "Get & Death Q",
+      "Arayot Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the mishna about a woman acquiring herself through a get and the Torah source for it, matching exactly the prose of 'Get & Death Q' which introduces this very topic and quotes the same verse.",
+      "chosen_heading": "Get & Death Q",
+      "current_heading": "Get & Death Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Arayot Problem",
+    "candidates": [
+      "Arayot Problem",
+      "Yevamah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the sevara 'hu asrah ve'hu sharya' \u2014 the logical reasoning that the husband's death releases his wife \u2014 which is precisely what the prose of heading 0 describes as the Gemara's first suggestion before the arayot objection.",
+      "chosen_heading": "Arayot Problem",
+      "current_heading": "Arayot Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Yevamah Case",
+    "candidates": [
+      "Yevamah Case",
+      "Widow & Kohen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yevamah Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the yevamah derivation and the Gemara's rejection of it, which matches heading 0's prose describing exactly this failed inference from the childless yevamah case.",
+      "second_heading": "Widow & Kohen",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the widow/kohen gadol derivation, which matches heading 1's prose discussing the attempt to derive a widow's permissibility from the prohibition on a kohen gadol marrying a widow.",
+      "current_heading": "Yevamah Case",
+      "moved": true
+    }
+  }
+]

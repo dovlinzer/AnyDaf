@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Hotzi Es Imureihem",
+    "candidates": [
+      "Ba Lo Etzel Par V'Sa'ir",
+      "Hotzi Es Imureihem",
+      "Kela'an B'miklaot",
+      "Mimasi Mitamim B'gadim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage describes the High Priest coming to the bull and goat to be burned, tearing them open, removing the imurim, and burning them on the mizbe'ach \u2014 this is precisely the content introduced by heading 0 ('Ba Lo Etzel Par V'Sa'ir'), which describes this very stage of the avoda, whereas heading 1 discusses the subsequent step of removing the carcasses to the place of burning.",
+      "chosen_heading": "Ba Lo Etzel Par V'Sa'ir",
+      "current_heading": "Hotzi Es Imureihem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Mimasi Mitamim B'gadim",
+    "candidates": [
+      "Kela'an B'miklaot",
+      "Mimasi Mitamim B'gadim",
+      "Lo Okim Lah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both the braiding/transport and the tumah question with Rabbi Shimon's dispute, and candidate 1's prose explicitly discusses both the tumah timing question (tanna kamma vs. Rabbi Shimon) and the threshold of leaving the azara wall \u2014 a perfect match for the full content of this mishna excerpt.",
+      "chosen_heading": "Mimasi Mitamim B'gadim",
+      "current_heading": "Mimasi Mitamim B'gadim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Lo Okim Lah",
+    "candidates": [
+      "Lo Okim Lah",
+      "Magis V'Kli Sherut",
+      "Lo Hayu M'natchin",
+      "Netzar Kan: Head & Legs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about 'vehiktiran salka da'atach' and the emendation to 'lehaktiran,' which is precisely what the prose under 'Lo Okim Lah' describes.",
+      "chosen_heading": "Lo Okim Lah",
+      "current_heading": "Lo Okim Lah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Netzar Kan: Head & Legs",
+    "candidates": [
+      "Magis V'Kli Sherut",
+      "Lo Hayu M'natchin",
+      "Netzar Kan: Head & Legs",
+      "Nitach V'Lo Hifshit",
+      "Kemin Klia V'Or",
+      "Michutz Lamachaneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain deriving from gezerah shavah that the bull/goat are dismembered but not flayed \u2014 exactly the content described in candidate 2's prose about ne'emar kan or basar u-feresh, the parallel to Vayikra 4, and learning nituach but not hifshit from the olah.",
+      "chosen_heading": "Netzar Kan: Head & Legs",
+      "current_heading": "Netzar Kan: Head & Legs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Michutz Lamachaneh",
+    "candidates": [
+      "Nitach V'Lo Hifshit",
+      "Kemin Klia V'Or",
+      "Michutz Lamachaneh",
+      "Lehalan At Noheg"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Michutz Lamachaneh",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the specific question of when the Yom Kippur bull and goat render garments impure upon leaving 'one camp,' which is precisely what the prose under 'Michutz Lamachaneh' describes.",
+      "second_heading": "Lehalan At Noheg",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 derive that other sin-offerings (par kohen gadol, par he'elam davar) must be burned outside all three camps using the systematic baraita from Leviticus 4 and 6, which matches exactly the prose under 'Lehalan At Noheg.'",
+      "current_heading": "Michutz Lamachaneh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Lehalan At Noheg",
+    "candidates": [
+      "Lehalan At Noheg",
+      "Lifnei Ma Nemar Michutz",
+      "Shimon: Parah Adumah Link",
+      "Sheyadim Sham Deshen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yosei saying the animals are burned 'at the place of the ashes' (beis hadeshen), which is precisely the topic discussed in candidate 3's prose about Rabbi Yossi's opinion and the beis hadeshen.",
+      "chosen_heading": "Sheyadim Sham Deshen",
+      "current_heading": "Lehalan At Noheg",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Sheyadim Sham Deshen",
+    "candidates": [
+      "Lifnei Ma Nemar Michutz",
+      "Shimon: Parah Adumah Link",
+      "Sheyadim Sham Deshen",
+      "Makom Meshupach",
+      "Dilma Makom Meshupach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Rava's statement identifies who disagrees with Rabbi Yosei and what the nature of the dispute is, which directly corresponds to the 'Dilma Makom Meshupach' section where Abaye raises whether the two opinions are actually contradictory \u2014 Rava's answer clarifies that Rabbi Eliezer ben Ya'akov is indeed the dissenting tanna, resolving the question posed in that section's prose.",
+      "chosen_heading": "Dilma Makom Meshupach",
+      "current_heading": "Sheyadim Sham Deshen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Dilma Makom Meshupach",
+    "candidates": [
+      "Makom Meshupach",
+      "Dilma Makom Meshupach",
+      "Velo Hamatzis Es Ha'or"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's exact statement introducing the 'dilma b'makom meshupach' objection, which is precisely what the prose of heading 1 describes.",
+      "chosen_heading": "Dilma Makom Meshupach",
+      "current_heading": "Dilma Makom Meshupach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Velo Hamatzis Es Ha'or",
+    "candidates": [
+      "Velo Hamatzis Es Ha'or",
+      "Zeh Hamisayeya",
+      "Impurity: Carcass to Ash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the exclusion of the fire-kindler and wood-arranger AND the definition of 'the one who burns' as the one who assists at the time of burning \u2014 but the current placement's prose explicitly discusses all three elements (hasoref, hamatzis, hamasader) as a unified baraita, making it the best single home for the entire passage.",
+      "chosen_heading": "Velo Hamatzis Es Ha'or",
+      "current_heading": "Velo Hamatzis Es Ha'or",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Impurity: Carcass to Ash",
+    "candidates": [
+      "Zeh Hamisayeya",
+      "Impurity: Carcass to Ash",
+      "Nizach Habasar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'osam' derivation (carcass-to-ash tumah lapsing) and Rabbi Elazar ben Rabbi Shimon's position on nizach habasar, spanning both headings 1 and 2, but the current placement under 'Impurity: Carcass to Ash' is correct since that section's prose explicitly covers the osam/tumah-to-ash content of the first half, and the second half (Rabbi Elazar) flows naturally as an extension introduced within the same Talmudic passage \u2014 with heading 2's prose discussing the gemara's follow-up analysis separately.",
+      "chosen_heading": "Impurity: Carcass to Ash",
+      "current_heading": "Impurity: Carcass to Ash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Nizach Habasar",
+    "candidates": [
+      "Nizach Habasar",
+      "Amru Lo L'Kohen Gadol",
+      "Eino Rashai Lehatchil",
+      "Uminayin Hayu Yodim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical difference (mai beinaihu) between the chachamim and Rabbi Elazar ben Rabbi Shimon regarding charred meat, which is exactly what the 'Nizach Habasar' section's prose describes and analyzes.",
+      "chosen_heading": "Nizach Habasar",
+      "current_heading": "Nizach Habasar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Uminayin Hayu Yodim",
+    "candidates": [
+      "Amru Lo L'Kohen Gadol",
+      "Eino Rashai Lehatchil",
+      "Uminayin Hayu Yodim",
+      "Siman Gadol Hayah",
+      "Shlosha Milin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers both the announcement to the Kohen Gadol AND the dirka'ot/sudarin relay system in one continuous text, and candidate 0 ('Amru Lo L'Kohen Gadol') is the heading that introduces this mishna, while candidates 1 and 2 represent the essay's prose commentary on the two sub-topics within it \u2014 the passage itself belongs under the heading that introduces the mishna as a whole.",
+      "chosen_heading": "Amru Lo L'Kohen Gadol",
+      "current_heading": "Uminayin Hayu Yodim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Shlosha Milin",
+    "candidates": [
+      "Siman Gadol Hayah",
+      "Shlosha Milin",
+      "Kohen Gadol: Ratza Likros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of candidate 1 ('Shlosha Milin') explicitly discusses all three items: Rabbi Yehuda's timing calculation, Rabbi Yishmael's crimson strip sign, and Abaye's inference about Beit Chidudo being in the wilderness \u2014 matching the content of all three passage items exactly.",
+      "chosen_heading": "Shlosha Milin",
+      "current_heading": "Shlosha Milin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Kohen Gadol: Ratza Likros",
+    "candidates": [
+      "Kohen Gadol: Ratza Likros",
+      "Chazzan Haknesset Notel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text directly describes the Kohen Gadol coming to read and his garment options, which is precisely what the prose under 'Kohen Gadol: Ratza Likros' discusses.",
+      "chosen_heading": "Kohen Gadol: Ratza Likros",
+      "current_heading": "Kohen Gadol: Ratza Likros",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Chazzan Haknesset Notel",
+    "candidates": [
+      "Chazzan Haknesset Notel",
+      "V'korei Acharei Mot",
+      "Yosser Mimah Shekarasi",
+      "Korei Al Peh",
+      "Shemoneh Berachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the entire chain of transmission of the Torah scroll through the synagogue attendant, head of synagogue, deputy, and High Priest, as well as the readings and the by-heart recitation \u2014 and the current heading's prose explicitly covers all these elements beginning with the attendant taking the scroll, matching the full scope of this mishna passage.",
+      "chosen_heading": "Chazzan Haknesset Notel",
+      "current_heading": "Chazzan Haknesset Notel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Shemoneh Berachot",
+    "candidates": [
+      "V'korei Acharei Mot",
+      "Yosser Mimah Shekarasi",
+      "Korei Al Peh",
+      "Shemoneh Berachot",
+      "Derech Rechoka Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage lists the eight blessings recited by the Kohen Gadol after the Torah reading, which is precisely what candidate 3 ('Shemoneh Berachot') discusses in its prose.",
+      "chosen_heading": "Shemoneh Berachot",
+      "current_heading": "Shemoneh Berachot",
+      "moved": false
+    }
+  }
+]

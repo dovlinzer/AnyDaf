@@ -1,0 +1,296 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Scriptural Basis",
+    "candidates": [
+      "R. Chiya bar Yosef",
+      "Scriptural Basis",
+      "Rabbi Zeira's Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya bar Yosef's statement itself \u2014 his ruling and its scriptural derivation \u2014 which is precisely what the prose under heading 0 ('R. Chiya bar Yosef') introduces and discusses, whereas heading 1 ('Scriptural Basis') is a continuation/elaboration of that same passage's exegesis and belongs together with it under heading 0.",
+      "chosen_heading": "R. Chiya bar Yosef",
+      "current_heading": "Scriptural Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rabbi Zeira's Query",
+    "candidates": [
+      "Scriptural Basis",
+      "Rabbi Zeira's Query",
+      "Three Positions",
+      "Rav Sheshet",
+      "Three Oaths"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rabbi Zeira's Query",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover Rabbi Zeira's query to Rabbi \u1e24iyya bar Abba about whether Rabbi Yo\u1e25anan's ruling requires shlichut yad, the parallel case of two successive oaths, and Rabbi Avin's corroborating statement \u2014 all of which match exactly the content described in the 'Rabbi Zeira's Query' prose.",
+      "second_heading": "Rav Sheshet",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is Rav Sheshet's independent ruling that shlichut yad exempts from kefel with his scriptural derivation, which matches precisely the 'Rav Sheshet' section's prose.",
+      "current_heading": "Rabbi Zeira's Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Three Oaths",
+    "candidates": [
+      "Three Positions",
+      "Rav Sheshet",
+      "Three Oaths",
+      "Shlach Yad vs. Negligence",
+      "Parallel to Negligence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Nachman introducing the three oaths administered to an unpaid bailee, which is precisely what the 'Three Oaths' section prose describes \u2014 the three oaths of negligence, shlichut yad, and she'eina birshusi.",
+      "chosen_heading": "Three Oaths",
+      "current_heading": "Three Oaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Parallel to Negligence",
+    "candidates": [
+      "Shlach Yad vs. Negligence",
+      "Parallel to Negligence",
+      "Kefel vs. Chomesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rav Sheshet arguing that the oath of shlichut yad is analogous to the oath of negligence (pshiah) rather than to she'eina birshusi, concluding that false shlichut yad oath exempts from kefel \u2014 exactly the content described in the 'Parallel to Negligence' prose.",
+      "chosen_heading": "Parallel to Negligence",
+      "current_heading": "Parallel to Negligence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Kefel vs. Chomesh",
+    "candidates": [
+      "Kefel vs. Chomesh",
+      "Two Accomplices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a single continuous discussion of Rami bar \u1e24ama's dilemma about whether it is the monetary obligation or the oath that generates kefel which exempts from chomesh, followed by Rava's proof from the mishna in Shevuot \u2014 exactly matching the 'Kefel vs. Chomesh' section's prose.",
+      "chosen_heading": "Kefel vs. Chomesh",
+      "current_heading": "Kefel vs. Chomesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Two Accomplices",
+    "candidates": [
+      "Two Accomplices",
+      "Multiple Like Payments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Ravina's dilemma about whether the restriction on kefel and chomesh applies to one person or one money when two different people are paying for the same underlying object \u2014 exactly the content described in the 'Two Accomplices' prose.",
+      "chosen_heading": "Two Accomplices",
+      "current_heading": "Two Accomplices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Multiple Like Payments",
+    "candidates": [
+      "Multiple Like Payments",
+      "Mishna Ambiguity",
+      "Abaye's Reading",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form Rav Pappa's dilemma about multiple chomesh or kefel payments for one principal, resolved by Rava's verse derivation \u2014 exactly what candidate 0 ('Multiple Like Payments') describes in its prose.",
+      "chosen_heading": "Multiple Like Payments",
+      "current_heading": "Multiple Like Payments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Mishna Ambiguity",
+      "Abaye's Reading",
+      "Rava's Reading",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items cover the Abaye-Rava dispute about who receives kefel when the shomer both swore and paid, including their respective readings of the mishna's two clauses and the resolutions to each other's difficulties \u2014 this is precisely what heading 0 ('Mishna Ambiguity') describes, whereas headings 1 and 2 describe only one side each and heading 3 moves to an entirely different question about the ganav's admission to the shomer.",
+      "chosen_heading": "Mishna Ambiguity",
+      "current_heading": "Rava's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Reading",
+      "Rava's Position",
+      "Intention Question",
+      "Shomer's Kefel Rights"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava's Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 all concern the scenario where the shomer swore and the ganav admitted to the shomer \u2014 exactly what candidates 1 and 2 discuss (Rava's distinction based on true/false oath, and the dilemma about intention to swear falsely), fitting under candidate 1 which covers both Rava's ruling and the teiku question.",
+      "second_heading": "Shomer's Kefel Rights",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the mirror-image scenario where the shomer paid (rather than swore) and the ganav admitted to the owner (rather than the shomer), which is precisely the new dilemma described in candidate 3's prose about the shomer's kefel rights.",
+      "current_heading": "Rava's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Shomer's Kefel Rights",
+    "candidates": [
+      "Intention Question",
+      "Shomer's Kefel Rights",
+      "Moral Responsibility",
+      "Abaye Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic debate about whether the shomer can tell the owner 'you took your money, step aside' versus the owner saying 'we'll help you recover by pursuing the ganav,' which is precisely what heading 1 ('Shomer's Kefel Rights') describes, and ends with teiku matching that section's framing.",
+      "chosen_heading": "Shomer's Kefel Rights",
+      "current_heading": "Shomer's Kefel Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Abaye Position",
+    "candidates": [
+      "Moral Responsibility",
+      "Abaye Position",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Abaye's and Rava's positions in a single Talmudic statement, and the current placement under 'Abaye Position' is where the full quoted text begins; the prose of candidate 1 explicitly introduces this entire scenario and Abaye's distinction, making it the correct home for this combined passage.",
+      "chosen_heading": "Abaye Position",
+      "current_heading": "Abaye Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Rava Position",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question of whether Rava disagrees with Rav Huna bar Avin's ruling, which is exactly what the 'Rava Position' prose describes \u2014 the note that 'the gemara asks whether Rava is arguing with Rav Huna bar Avin' matches this passage directly.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Rava Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Reconciliation",
+      "Shomira Reinstatement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's reconciliation attempt with Rav Huna bar Avin's ruling, the gemara's challenge about the explicit language of the ruling, and Rava's re-reading \u2014 all of which precisely match the 'Reconciliation' prose.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  }
+]

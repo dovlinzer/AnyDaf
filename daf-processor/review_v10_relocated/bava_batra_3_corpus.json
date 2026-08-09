@@ -1,0 +1,387 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Gatehouse Tashma",
+    "candidates": [
+      "Two Mishnah Readings",
+      "Tosafot & Hezek",
+      "Gatehouse Tashma",
+      "Hezek vs Rights",
+      "Public vs Private Hezek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the tashma proof from the gatehouse Mishnah and the Gemara's rebuttal (hezeka derabbim shani), which is exactly what the 'Gatehouse Tashma' section's prose describes in detail.",
+      "chosen_heading": "Gatehouse Tashma",
+      "current_heading": "Gatehouse Tashma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Public vs Private Hezek",
+    "candidates": [
+      "Hezek vs Rights",
+      "Public vs Private Hezek",
+      "Windows & Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Public vs Private Hezek' prose, which explicitly describes this Mishnah about dividing a courtyard with four amot, the question of forced wall construction (mai lav bekosel), and the answer about a mere boundary partition (bemistama/mesifsas).",
+      "chosen_heading": "Public vs Private Hezek",
+      "current_heading": "Public vs Private Hezek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Windows & Walls",
+    "candidates": [
+      "Windows & Walls",
+      "Rooftop vs Yard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the windows-and-walls ruling with the four-amot requirement in all directions, which directly matches the 'Windows & Walls' section prose that explicitly discusses this same baraita and its rationale about visual access.",
+      "chosen_heading": "Windows & Walls",
+      "current_heading": "Windows & Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Rooftop vs Yard",
+    "candidates": [
+      "Rooftop vs Yard",
+      "Lishna Achrina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of challenge and response about the rooftop-adjacent-to-courtyard case (Rav Na\u1e25man/Shmuel ruling, plus the Gemara's distinction about regular vs. irregular use), which is precisely what the 'Rooftop vs Yard' prose describes in detail.",
+      "chosen_heading": "Rooftop vs Yard",
+      "current_heading": "Rooftop vs Yard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Lishna Achrina",
+    "candidates": [
+      "Lishna Achrina",
+      "Mechitza Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the lishna achrina itself \u2014 the alternative formulation beginning with the assumption that mechitza means plugta (division) \u2014 which is precisely what heading 0's prose describes as the opening move of the lishna achrina, before the extended discussion of the mechitza definition covered in heading 1.",
+      "chosen_heading": "Lishna Achrina",
+      "current_heading": "Lishna Achrina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Mechitza Definition",
+    "candidates": [
+      "Mechitza Definition",
+      "Kinyan Devarim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's debate over whether 'mechitza' means 'guda' (wall) or 'plugta' (division), including the kilayim proof-text, the hezek re'iyah inference, and the linguistic objections \u2014 exactly what the 'Mechitza Definition' prose describes.",
+      "chosen_heading": "Mechitza Definition",
+      "current_heading": "Mechitza Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Kinyan Devarim",
+    "candidates": [
+      "Kinyan Devarim",
+      "Rashi & Tosafot",
+      "Kinyan in Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous Gemara discussion about why the Mishnah specifies 'if they wished' (mai irya ratzu), Rabbi Asi/Yochanan's answer about a courtyard not subject to compelled division, the retraction problem (nahadru behu), and the kinyan resolution \u2014 exactly the content described in the 'Kinyan Devarim' prose, which traces this precise chain of questions and answers.",
+      "chosen_heading": "Kinyan Devarim",
+      "current_heading": "Kinyan Devarim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Kinyan in Division",
+    "candidates": [
+      "Rashi & Tosafot",
+      "Kinyan in Division",
+      "Material Types",
+      "Smooth Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the resolution to kinyan devarim through acquisition of directions (beruchot) and Rav Ashi's elaboration on physical acts of ownership, which is precisely what the 'Kinyan in Division' prose describes.",
+      "chosen_heading": "Kinyan in Division",
+      "current_heading": "Kinyan in Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Smooth Stones",
+    "candidates": [
+      "Material Types",
+      "Smooth Stones",
+      "Half-Bricks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the four building materials (gevil, gazit, kfisin, leveinim), which exactly matches the 'Material Types' section prose that explains these same four terms, not the 'Smooth Stones' section which discusses Rav Acha's challenge about why gevil means unsmoothed stones.",
+      "chosen_heading": "Material Types",
+      "current_heading": "Smooth Stones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Half-Bricks",
+    "candidates": [
+      "Smooth Stones",
+      "Half-Bricks",
+      "Width & Height",
+      "First Temple Wall",
+      "Extra Tefach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form one continuous exchange about gevil/gazit vs. kefisin/leveinim terminology, the two versions of the Rav Asha/Rav Ashi dispute, and Abaye's inference about the handbreadth between rows \u2014 exactly what the 'Half-Bricks' prose describes.",
+      "chosen_heading": "Half-Bricks",
+      "current_heading": "Half-Bricks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Extra Tefach",
+    "candidates": [
+      "Width & Height",
+      "First Temple Wall",
+      "Extra Tefach",
+      "Second Temple Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the classic challenge-and-answer sequence about wall thickness vs. height, with item 1 raising the *amah teraksin* objection and item 2 explaining why the Second Temple lacked it \u2014 exactly what the 'Width & Height' prose describes as the Gemara's question about structural stability ratios and the Temple wall challenge.",
+      "chosen_heading": "Width & Height",
+      "current_heading": "Extra Tefach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Second Temple Size",
+    "candidates": [
+      "Extra Tefach",
+      "Second Temple Size",
+      "Ceiling Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the verse from Haggai about the second Temple being greater than the first, the Rav/Shmuel and Rabbi Yochanan/Rabbi Elazar dispute about whether 'greater' means in structure or in years, and the conclusion that both are true \u2014 all of which is precisely what the 'Second Temple Size' prose describes.",
+      "chosen_heading": "Second Temple Size",
+      "current_heading": "Second Temple Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Ceiling Support",
+    "candidates": [
+      "Ceiling Support",
+      "Curtains vs Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the suggestion to build a 30-cubit wall and then use a curtain (parochet) for the rest, and why that is impossible \u2014 which matches the 'Curtains vs Wall' section's prose about this exact compromise proposal and its rejection, not the 'Ceiling Support' section which discusses why the wall needed ceiling support in the first place.",
+      "chosen_heading": "Curtains vs Wall",
+      "current_heading": "Ceiling Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Curtains vs Wall",
+    "candidates": [
+      "Ceiling Support",
+      "Curtains vs Wall",
+      "Plaster Edges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's tradition that the partition must be entirely a wall or entirely a curtain, which is precisely what the 'Curtains vs Wall' section's prose describes.",
+      "chosen_heading": "Curtains vs Wall",
+      "current_heading": "Curtains vs Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Plaster Edges",
+    "candidates": [
+      "Plaster Edges",
+      "Build Before Destroy",
+      "Negligence vs Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the dilemma of whether Mishnah wall-width measurements include plaster or not, which is exactly what the 'Plaster Edges' prose describes in detail.",
+      "chosen_heading": "Plaster Edges",
+      "current_heading": "Plaster Edges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Negligence vs Prayer",
+    "candidates": [
+      "Build Before Destroy",
+      "Negligence vs Prayer",
+      "Seasonal Synagogues",
+      "Funds & Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together state Rav \u1e24isda's core ruling and the two rationales for it \u2014 exactly the content described under 'Build Before Destroy,' whose prose says the replacement must be standing before the original is torn down and introduces the two reasons; the current heading 'Negligence vs Prayer' covers the elaboration and practical difference, but the passage itself (including the Mareimar/Mar Zutra anecdote) all flows from the initial ruling and belongs under the heading that introduces it.",
+      "chosen_heading": "Build Before Destroy",
+      "current_heading": "Negligence vs Prayer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Funds & Materials",
+    "candidates": [
+      "Seasonal Synagogues",
+      "Funds & Materials",
+      "Decay Exception",
+      "Rav Ashi Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the escalating Ravina-Rav Ashi dialogue about collected funds and prepared building materials, which is precisely what the 'Funds & Materials' section prose describes in detail.",
+      "chosen_heading": "Funds & Materials",
+      "current_heading": "Funds & Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Rav Ashi Story",
+    "candidates": [
+      "Decay Exception",
+      "Rav Ashi Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the general rule about cracks (decay exception) and the Rav Ashi story as its illustration, but the Gemara text begins with the rule about cracks/decay and then presents Rav Ashi as an example of that rule \u2014 however, since the passage is a single unit and candidate 0 ('Decay Exception') explicitly discusses both the rule and its rationale while candidate 1 discusses only the Rav Ashi story, the passage could sit under either; yet given the text opens with the general crack-exception rule before the story, candidate 0 is a slightly better fit, though the current placement in candidate 1 is also defensible.",
+      "chosen_heading": "Decay Exception",
+      "current_heading": "Rav Ashi Story",
+      "moved": true
+    }
+  }
+]

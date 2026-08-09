@@ -253,8 +253,8 @@
           "timestamp": "43:00"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "The Quality and Form of the Havdalah Candle",
@@ -605,5 +605,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "33:00",
+  "amud_b_micro_title": "Different Contexts",
+  "shiur_start_daf": 102,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,336 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna: Sefer & Tik",
+    "candidates": [
+      "Mishna: Sefer & Tik",
+      "Mavoi: Mefulash Debate",
+      "Ben Beteira Identity",
+      "Rabbi Yishmael vs. Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about saving sefer/tik/tefillin casings with money inside and carrying to a mavoi, which is precisely what the prose in heading 0 ('Mishna: Sefer & Tik') describes in detail.",
+      "chosen_heading": "Mishna: Sefer & Tik",
+      "current_heading": "Mishna: Sefer & Tik",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rabbi Yishmael vs. Sages",
+    "candidates": [
+      "Mavoi: Mefulash Debate",
+      "Ben Beteira Identity",
+      "Rabbi Yishmael vs. Sages",
+      "Three Explanations",
+      "Meat vs. Kavod Kodashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the baraita debate between Rabbi Yishmael and the Sages about flaying the Paschal lamb on Shabbat, the reasoning behind each position, and the verse from Proverbs \u2014 all of which is the precise content described in the 'Rabbi Yishmael vs. Sages' prose section.",
+      "chosen_heading": "Rabbi Yishmael vs. Sages",
+      "current_heading": "Rabbi Yishmael vs. Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Meat vs. Kavod Kodashim",
+    "candidates": [
+      "Three Explanations",
+      "Meat vs. Kavod Kodashim",
+      "Basis Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the practical difference between Rav Yosef and Rava (gold table / north wind cases) and Rabbi Yishmael's use of the verse regarding removing emurim before flaying, which is precisely what the 'Meat vs. Kavod Kodashim' section's prose covers in detail.",
+      "chosen_heading": "Meat vs. Kavod Kodashim",
+      "current_heading": "Meat vs. Kavod Kodashim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Basis Distinction",
+    "candidates": [
+      "Basis Distinction",
+      "External Container"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 0's prose discusses: Mar Ukva's report of the colleagues' argument from saving the sefer Torah casing, the gemara's mi dami challenge distinguishing tiltul from melacha, and Rav Ashi's bitartei pligi explanation with the reformulated argument about carrying the hide together with the flesh.",
+      "chosen_heading": "Basis Distinction",
+      "current_heading": "Basis Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "External Container",
+    "candidates": [
+      "External Container",
+      "Rabbinical Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the successive reformulations of the external-container argument (basis ledavar ha'asur, bringing a casing with money from outside) and the gemara's challenge of 've-hi gufa minalan,' which is precisely what the prose under heading 0 ('External Container') describes in detail.",
+      "chosen_heading": "External Container",
+      "current_heading": "External Container",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rabbinical Labor",
+    "candidates": [
+      "Rabbinical Labor",
+      "Shinu'i: Small Pieces",
+      "Rav Chisda: Dual Lechaim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Abaye and Rava's ruling on psik reisha ve-lo yamut and flaying strip by strip (be-varzei) is directly discussed in the 'Shinu'i: Small Pieces' section's prose, which explicitly addresses this exact content about the be-varzei method eliminating psik reisha concerns based on Abaye and Rava's concession.",
+      "chosen_heading": "Shinu'i: Small Pieces",
+      "current_heading": "Rabbinical Labor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rav Chisda: Dual Lechaim",
+    "candidates": [
+      "Shinu'i: Small Pieces",
+      "Rav Chisda: Dual Lechaim",
+      "Rava: Two Walls Model"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda: Dual Lechaim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Chisda's definition of mefulash/eino mefulash using three walls and two/one lechaim, which is exactly what candidate 1's prose describes.",
+      "second_heading": "Rava: Two Walls Model",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba's objection to Rav Chisda's framework and his alternative two-walls model, which is precisely what candidate 2's prose describes.",
+      "current_heading": "Rav Chisda: Dual Lechaim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rava: Two Walls Model",
+    "candidates": [
+      "Rava: Two Walls Model",
+      "Rav Ashi: Three Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about Rabbi Yehuda's ruling on two houses on two sides of reshut ha-rabim with lechaim/korot is explicitly discussed in the prose of 'Rava: Two Walls Model' as the source for understanding Rava's framework operating aliba de-Rabbi Yehuda.",
+      "chosen_heading": "Rava: Two Walls Model",
+      "current_heading": "Rava: Two Walls Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rav Ashi: Three Walls",
+    "candidates": [
+      "Rav Ashi: Three Walls",
+      "Mishna: Three Seudos"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Rav Ashi: Three Walls",
+      "current_heading": "Rav Ashi: Three Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Mishna: Three Seudos",
+    "candidates": [
+      "Mishna: Three Seudos",
+      "Gezerah: Overzealousness",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself describing the three-meals rule and Rabbi Yosei's dissent, which is precisely what the 'Mishna: Three Seudos' section's prose summarizes and discusses.",
+      "chosen_heading": "Mishna: Three Seudos",
+      "current_heading": "Mishna: Three Seudos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Gezerah: Overzealousness",
+      "Abaye's Objection",
+      "One vs. Multiple Vessels",
+      "Guest Exception",
+      "Scheming Debate",
+      "Mother & Offspring"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's challenge about the barrel baraita and Rava's response about the decree of bringing vessels through the public domain, which matches exactly the prose of 'Abaye's Objection' (candidate 1).",
+      "second_heading": "One vs. Multiple Vessels",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's independent examination of the barrel baraita 'in its own right' (gufah), discussing single vs. multiple vessels and the guest exception, which matches the prose of 'One vs. Multiple Vessels' (candidate 2).",
+      "current_heading": "Abaye's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Mother & Offspring",
+    "candidates": [
+      "One vs. Multiple Vessels",
+      "Guest Exception",
+      "Scheming Debate",
+      "Mother & Offspring",
+      "Alternatives Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita about oso ve-et beno (mother and offspring) falling into a pit, with Rabbi Eliezer and Rabbi Yehoshua's positions, which is precisely what the 'Mother & Offspring' section prose describes.",
+      "chosen_heading": "Mother & Offspring",
+      "current_heading": "Mother & Offspring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Alternatives Analysis",
+    "candidates": [
+      "Alternatives Analysis",
+      "Bread Quality Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection of conflating the two debates by distinguishing Rabbi Eliezer's and Rabbi Yehoshua's positions based on the availability of alternatives (de-efshar be-parnasa) and animal suffering (tza'ar ba'alei chayim), which is precisely what the 'Alternatives Analysis' prose discusses.",
+      "chosen_heading": "Alternatives Analysis",
+      "current_heading": "Alternatives Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Bread Quality Hierarchy",
+    "candidates": [
+      "Bread Quality Hierarchy",
+      "Holiday Boundaries",
+      "Forgotten Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage covers both bread quality (fine vs. coarse bread) and holiday boundaries (Yom Kippur/Shabbat/Yom Tov), so it spans both headings 0 and 1, but since it currently sits under heading 0 and confidence is low due to the split content, the current placement is retained.",
+      "chosen_heading": "Bread Quality Hierarchy",
+      "current_heading": "Bread Quality Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Forgotten Bread",
+    "candidates": [
+      "Holiday Boundaries",
+      "Forgotten Bread",
+      "Friday Preparation",
+      "Lechem Mishneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses forgotten bread in the oven on Shabbat, the permissibility of removing it for three meals, inviting others to save bread, and the requirement to use a knife (shinu'i) rather than a baker's paddle \u2014 exactly matching the 'Forgotten Bread' section's prose.",
+      "chosen_heading": "Forgotten Bread",
+      "current_heading": "Forgotten Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Lechem Mishneh",
+    "candidates": [
+      "Friday Preparation",
+      "Lechem Mishneh",
+      "Rav Kahana Practice",
+      "Rabbi Zeira Custom",
+      "Eiruv Bread Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's teaching about rising early on Friday (which belongs under 'Friday Preparation') and Rabbi Abba's teaching about lechem mishneh \u2014 but the prose under 'Friday Preparation' explicitly covers both teachings as a unit, noting the transition from Friday preparation to the manna-derived lechem mishneh law, making it the better home for the complete passage.",
+      "chosen_heading": "Friday Preparation",
+      "current_heading": "Lechem Mishneh",
+      "moved": true
+    }
+  }
+]

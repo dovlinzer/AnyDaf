@@ -149,8 +149,8 @@
           "timestamp": "51:03"
         }
       ],
-      "sefaria_index": 16,
-      "matched": false
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Pesach She-Ba B'Tumah: Zvaim, Niddot, and Yoldot Unable to Eat; Exemption from Karet",
@@ -432,5 +432,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "24:02",
+  "amud_b_micro_title": "Three Categories",
+  "shiur_start_daf": 94,
+  "shiur_start_amud": "b"
 }

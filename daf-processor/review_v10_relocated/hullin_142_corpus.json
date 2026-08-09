@@ -1,0 +1,241 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Walking vs Flying",
+    "candidates": [
+      "Distance of Shiluach",
+      "Walking vs Flying",
+      "Clipped Wings Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both 'how far' (Rav Yehuda's ruling that she must leave his grasp) and 'by what means' (the feet vs. wings dispute), and the 'Distance of Shiluach' prose explicitly discusses the ad kama question while the 'Walking vs Flying' prose discusses the bemei question \u2014 since the passage contains both topics but begins with the distance question, and the current placement under 'Walking vs Flying' only covers the second half, the passage arguably spans both sections; however, since candidate 0 explicitly opens with the ad kama question that begins this passage, it is a slightly better home, though confidence is medium given the passage genuinely covers both topics.",
+      "chosen_heading": "Distance of Shiluach",
+      "current_heading": "Walking vs Flying",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Clipped Wings Case",
+    "candidates": [
+      "Clipped Wings Case",
+      "Rabbinic Lashes",
+      "Mitzvah Timing",
+      "Single Egg Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the clipped-wings case and its resolution via makkat mardut, which is precisely what the 'Clipped Wings Case' prose discusses in detail.",
+      "chosen_heading": "Clipped Wings Case",
+      "current_heading": "Clipped Wings Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Single Egg Question",
+    "candidates": [
+      "Rabbinic Lashes",
+      "Mitzvah Timing",
+      "Single Egg Question",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the man coming before Rava with a question about the teima bird and Rava probing whether the question was about a single egg, which is exactly what the 'Single Egg Question' prose describes.",
+      "chosen_heading": "Single Egg Question",
+      "current_heading": "Single Egg Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Rava's Ruling",
+      "Suspicion Concern",
+      "Doves Control Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava catching the bird and the Gemara's concern about suspicion (chashada) answered by 'ke-le-achar yad' \u2014 exactly what candidate 1's prose discusses in detail.",
+      "chosen_heading": "Suspicion Concern",
+      "current_heading": "Rava's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Doves Control Status",
+    "candidates": [
+      "Suspicion Concern",
+      "Doves Control Status",
+      "Egg Emergence",
+      "Possession Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about dovecote and attic pigeons being subject to shiluach and prohibited due to darchei shalom is precisely what the 'Doves Control Status' prose section introduces and analyzes.",
+      "chosen_heading": "Doves Control Status",
+      "current_heading": "Doves Control Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Possession Prohibited",
+    "candidates": [
+      "Egg Emergence",
+      "Possession Prohibited",
+      "Dovecote Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain dealing with the egg-emergence timing problem and its consequences (chatzer acquisition, darchei shalom, and the katan case), which is precisely what the 'Egg Emergence' prose describes, whereas 'Possession Prohibited' prose describes the Rav Yehuda/Rav ruling that begins only in item 4.",
+      "chosen_heading": "Egg Emergence",
+      "current_heading": "Possession Prohibited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Dovecote Transfer",
+    "candidates": [
+      "Possession Prohibited",
+      "Dovecote Transfer",
+      "Bang Dovecote",
+      "Hagbaha Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Levi bar Simon transferring produce of his dovecote to Rav Yehuda and Shmuel's instruction to bang on the nest, which corresponds exactly to the 'Dovecote Transfer' heading's prose about this specific incident and its context.",
+      "chosen_heading": "Dovecote Transfer",
+      "current_heading": "Dovecote Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Hagbaha Method",
+    "candidates": [
+      "Bang Dovecote",
+      "Hagbaha Method",
+      "Tzaraat Exception",
+      "Long Days Promise",
+      "Tower Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question-and-answer explaining why hagbahah was necessary rather than kinyan sudar \u2014 precisely because Levi bar Shimon hadn't yet acquired the chicks himself \u2014 which matches exactly the prose of candidate 1 ('Hagbaha Method') discussing why kinyan sudar alone was insufficient and how the banging mechanism first vested ownership in Levi before transfer to Rabbi Yehuda.",
+      "chosen_heading": "Hagbaha Method",
+      "current_heading": "Hagbaha Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Tower Case",
+    "candidates": [
+      "Tzaraat Exception",
+      "Long Days Promise",
+      "Tower Case",
+      "Olam Ha-Ba Reward"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Long Days Promise",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the Mishna about not taking the mother even for tzaraat purification and its kal va-chomer about reward, plus Rabbi Yaakov's beraita connecting mitzvah rewards to resurrection) belong under 'Long Days Promise' which discusses the closing ethical observation of the mishnah about shiluach ha-ken's reward and the parallel to kibbud av va-em.",
+      "second_heading": "Tower Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the tower case where a boy fulfills both mitzvot and dies) belongs under 'Tower Case' whose prose explicitly describes this exact scenario of the father sending the son to bring chicks and the son falling to his death.",
+      "current_heading": "Tower Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Olam Ha-Ba Reward",
+    "candidates": [
+      "Olam Ha-Ba Reward",
+      "Mitzvah Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's probing of why the boy died despite performing mitzvot \u2014 sinful thoughts and idolatrous thoughts \u2014 which the 'Olam Ha-Ba Reward' prose explicitly addresses as part of the chain of reasoning leading to the conclusion that mitzvah reward is not in this world.",
+      "chosen_heading": "Olam Ha-Ba Reward",
+      "current_heading": "Olam Ha-Ba Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Mitzvah Protection",
+    "candidates": [
+      "Mitzvah Protection",
+      "Elisha Loss Faith"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the principle of sheluchei mitzvah einan nizokin \u2014 the challenge, the initial resolution (be-chazaratam shani), the counter, and the final resolution (sulam ra'ua/makom de-kavia heizika) \u2014 which is precisely what the 'Mitzvah Protection' prose describes in detail.",
+      "chosen_heading": "Mitzvah Protection",
+      "current_heading": "Mitzvah Protection",
+      "moved": false
+    }
+  }
+]

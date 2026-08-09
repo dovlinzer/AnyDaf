@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Four Exceptions",
+    "candidates": [
+      "What Gets Salted",
+      "Four Exceptions",
+      "Ishmael's Criteria",
+      "Blood & Wine",
+      "Incense Exception",
+      "Wood Status",
+      "Blood Exclusion",
+      "Cooked Blood",
+      "Salt Like Heat",
+      "Salted Blood Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete unit: citing the baraita listing four exceptions, questioning whose opinion it reflects (Rabbi vs. Rabbis), and resolving via Rabbi Yishmael's three criteria \u2014 exactly what heading 1 ('Four Exceptions') describes in its prose, including the attribution to Rabbi Yishmael which is previewed there and elaborated in the subsequent headings.",
+      "chosen_heading": "Four Exceptions",
+      "current_heading": "Four Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Salted Blood Problem",
+    "candidates": [
+      "Ishmael's Criteria",
+      "Blood & Wine",
+      "Incense Exception",
+      "Wood Status",
+      "Blood Exclusion",
+      "Cooked Blood",
+      "Salt Like Heat",
+      "Salted Blood Problem",
+      "Salt Quantity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's question about the hava amina of salting blood given that salting removes it from the category of blood \u2014 which corresponds precisely to the 'Blood Exclusion' section's prose about the deeper question raised when the verse excludes blood: how could there ever have been a hava amina to salt it if salting itself disqualifies it.",
+      "chosen_heading": "Blood Exclusion",
+      "current_heading": "Salted Blood Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Salt Quantity",
+    "candidates": [
+      "Salted Blood Problem",
+      "Salt Quantity",
+      "Congealed Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 2 directly addresses the 'mashehu l'mitzvah' hava amina that the 'Salt Quantity' prose explicitly discusses, and Item 1 (Rav Yehuda on roasted limbs) is the adjacent Talmudic context leading into that resolution \u2014 both belong under the 'Salt Quantity' heading where they currently sit.",
+      "chosen_heading": "Salt Quantity",
+      "current_heading": "Salt Quantity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Congealed Challenge",
+    "candidates": [
+      "Congealed Challenge",
+      "Fire vs Sun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Ze'iri's teaching and Abaye's challenge from the braita about congealing blood and melting fat, which is precisely what the 'Congealed Challenge' prose describes.",
+      "chosen_heading": "Congealed Challenge",
+      "current_heading": "Congealed Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Fire vs Sun",
+    "candidates": [
+      "Fire vs Sun",
+      "Mani's Question",
+      "Dichuy Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's resolution distinguishing fire from sun congealing, which is precisely what the 'Fire vs Sun' section's prose describes and analyzes.",
+      "chosen_heading": "Fire vs Sun",
+      "current_heading": "Fire vs Sun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Dichuy Principle",
+    "candidates": [
+      "Mani's Question",
+      "Dichuy Principle",
+      "Inner vs Outer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection that invokes Rabbi Mani's question to Rabbi Yochanan about congealed blood and Rava's silence \u2014 this is precisely the content described in the 'Mani's Question' section prose, not the 'Dichuy Principle' section which discusses the theoretical framework rather than the specific exchange.",
+      "chosen_heading": "Mani's Question",
+      "current_heading": "Dichuy Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Inner vs Outer",
+    "candidates": [
+      "Dichuy Principle",
+      "Inner vs Outer",
+      "Heat Transforms",
+      "Tosafot Leniency",
+      "Rambam View",
+      "Practical Case",
+      "Rava's View",
+      "Donkey Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's distinction between external and internal sin offerings, and Rav Chisda's ruling about congealed blood liability based on that same distinction \u2014 are precisely what the 'Inner vs Outer' prose describes, making the current placement correct.",
+      "chosen_heading": "Inner vs Outer",
+      "current_heading": "Inner vs Outer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Donkey Blood",
+    "candidates": [
+      "Heat Transforms",
+      "Tosafot Leniency",
+      "Rambam View",
+      "Practical Case",
+      "Rava's View",
+      "Donkey Blood",
+      "Blood Chatzitza",
+      "Dried vs Wet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's statement about inner sin offerings and Rav Pappa's conclusion about donkey blood, which together form the content described in candidate 4 ('Rava's View'), whose prose explicitly discusses both Rava's principle and Rav Papa's logical conclusion as part of the same unified teaching.",
+      "chosen_heading": "Rava's View",
+      "current_heading": "Donkey Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Dried vs Wet",
+    "candidates": [
+      "Blood Chatzitza",
+      "Dried vs Wet",
+      "Adhesiveness",
+      "Timlach Usage",
+      "Sodomite Salt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from Rav Giddel's ruling through the baraita objection and its resolution, which spans headings 0\u20132, but the opening statement and its immediate context (Rav Giddel/Ze'eiri on blood interposing) is introduced under 'Blood Chatzitza,' making that the natural home for the entire self-contained sugya.",
+      "chosen_heading": "Blood Chatzitza",
+      "current_heading": "Dried vs Wet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Sodomite Salt",
+    "candidates": [
+      "Adhesiveness",
+      "Timlach Usage",
+      "Sodomite Salt",
+      "Salt Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the purpose of the word 'timlach' (you shall season) in the verse, which is exactly what the 'Timlach Usage' section's prose describes \u2014 examining what the verbal form timlach adds beyond the word melach.",
+      "chosen_heading": "Timlach Usage",
+      "current_heading": "Sodomite Salt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Salt Types",
+    "candidates": [
+      "Sodomite Salt",
+      "Salt Types",
+      "Tavunuhu Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the derivation of Sodomite salt as the ideal salt and the fallback of istrokanit salt, which is precisely what the 'Sodomite Salt' section's prose describes, including the same textual elements (v'lo tashbit melach, melach Sedomit, melach istrokanit, takriv) in the same order.",
+      "chosen_heading": "Sodomite Salt",
+      "current_heading": "Salt Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Tavunuhu Debate",
+    "candidates": [
+      "Tavunuhu Debate",
+      "Binah Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabba bar Ulla/Abaye/Rava debate over the meaning of 'tevonehu' (straw-in-clay vs. building metaphor), which is precisely what the 'Tavunuhu Debate' prose describes.",
+      "chosen_heading": "Tavunuhu Debate",
+      "current_heading": "Tavunuhu Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Binah Metaphor",
+    "candidates": [
+      "Binah Metaphor",
+      "Salting Method",
+      "Pot Comparison",
+      "Me'ilah Status",
+      "Pesuk Source",
+      "Shekalim Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both the Rav Ashi interpretation of 'tevonehu' and the practical salting method (bring limb, apply salt, flip, apply salt, bring up), which matches the 'Salting Method' prose that explicitly quotes and discusses this exact procedure.",
+      "chosen_heading": "Salting Method",
+      "current_heading": "Binah Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Shekalim Source",
+    "candidates": [
+      "Salting Method",
+      "Pot Comparison",
+      "Me'ilah Status",
+      "Pesuk Source",
+      "Shekalim Source",
+      "Chamber Salt",
+      "Ramp Salt",
+      "Top Salt",
+      "Cleanliness Reason",
+      "Shmuel View",
+      "Permitted Uses",
+      "Prohibited Uses",
+      "Use Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pot Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's v'chen lakdeira statement, which is explicitly the topic of the 'Pot Comparison' prose.",
+      "second_heading": "Shekalim Source",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 form a continuous chain about me'ilah status of salt, the Shekalim mishna, Shmuel's ruling, the baraita about three salting locations, and the reinterpretation \u2014 all of which are described in the 'Shekalim Source' prose.",
+      "current_heading": "Shekalim Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Use Distinction",
+    "candidates": [
+      "Chamber Salt",
+      "Ramp Salt",
+      "Top Salt",
+      "Cleanliness Reason",
+      "Shmuel View",
+      "Permitted Uses",
+      "Prohibited Uses",
+      "Use Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly addresses the reinterpretation of Shmuel's ruling \u2014 that 'eating' prohibited refers to chulin eaten alongside the korban for sova purposes \u2014 which is precisely what the 'Use Distinction' section's prose describes.",
+      "chosen_heading": "Use Distinction",
+      "current_heading": "Use Distinction",
+      "moved": false
+    }
+  }
+]

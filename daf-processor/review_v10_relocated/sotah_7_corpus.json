@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Previous Context",
+      "Woman to Beis Din",
+      "Chazal's Authority",
+      "Shema Yavo Aleha",
+      "Rav's Position",
+      "Witnesses Role",
+      "Talmidei Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's discussion of Rav's principle that three men are needed on a journey to avoid yichud (lest one need to relieve himself), which is precisely what the 'Rav's Position' section's prose describes.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Talmidei Chachamim",
+    "candidates": [
+      "Witnesses Role",
+      "Talmidei Chachamim",
+      "Arei Miklat Parallel",
+      "Ba'ala Ne'eman",
+      "Kal V'Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about why two escorts are needed \u2014 first proposing the 'witnesses' reason (item 1), then raising whether the mishna supports Rav's ruling about prutzim (item 2), then rejecting that and giving the final 'hatra'ah' answer (item 3) \u2014 and candidate 0's prose explicitly walks through all three moves including the witnesses rationale, the talmidei chachamim question, and the lead-in to the hatra'ah discussion, making it the clearly superior match over candidate 1 which discusses only the final hatra'ah conclusion.",
+      "chosen_heading": "Witnesses Role",
+      "current_heading": "Talmidei Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Kal V'Chomer",
+    "candidates": [
+      "Arei Miklat Parallel",
+      "Ba'ala Ne'eman",
+      "Kal V'Chomer",
+      "Rabbis Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's kal v'chomer argument from niddah (karet) to sotah (lav), which matches exactly the prose in candidate 2 'Kal V'Chomer,' where the essay author describes this very baraita and its kal v'chomer structure.",
+      "chosen_heading": "Kal V'Chomer",
+      "current_heading": "Kal V'Chomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rabbis Counter",
+    "candidates": [
+      "Rabbis Counter",
+      "Biblical Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Rabbis' response using the exact phrases discussed in candidate 0's prose (*hi hanosenes*, *niddah d'kares chamira lei u'meheiman*, *sotah b'lav lo chamira lei v'lo meheiman*), which directly matches the content of the 'Rabbis Counter' section.",
+      "chosen_heading": "Rabbis Counter",
+      "current_heading": "Rabbis Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Biblical Source",
+      "Chazal's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita dispute (Rabbi Yosei's kal v'chomer, the Rabbis' rebuttal with 'she has no heter' and 'stolen waters are sweet', and the resolution about Rabbi Yehuda deriving from the pasuk) that candidate 0's prose explicitly describes in detail.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Biblical Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Chazal's Role",
+    "candidates": [
+      "Chazal's Role",
+      "To Jerusalem",
+      "Intimidation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yehuda's derivation from the verse, the Gemara's answer about the kal v'chomer being refuted first, and the question of Rabbi Yehuda vs. the first tanna resolved by 'ika beinaihu aval amru' \u2014 are precisely the content described in the 'Chazal's Role' prose, which explicitly discusses all these elements in order.",
+      "chosen_heading": "Chazal's Role",
+      "current_heading": "Chazal's Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Intimidation",
+    "candidates": [
+      "To Jerusalem",
+      "Intimidation",
+      "Appeals to Admit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna text covers both the bringing to Jerusalem and the intimidation in a single passage, but the essay's heading 'To Jerusalem' is the section that first introduces this mishna, while 'Intimidation' covers only the second clause \u2014 however, since the mishna text as a whole unit introduces the Jerusalem stage first, it fits better under 'To Jerusalem' as the opening of that mishna's discussion, with the intimidation detail then elaborated in the subsequent section's prose.",
+      "chosen_heading": "To Jerusalem",
+      "current_heading": "Intimidation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Appeals to Admit",
+    "candidates": [
+      "Appeals to Admit",
+      "Shelo Yimacheh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the mitigating factors (wine, levity, immaturity, bad neighbors) offered to encourage confession, which is exactly what the 'Appeals to Admit' section's prose discusses.",
+      "chosen_heading": "Appeals to Admit",
+      "current_heading": "Appeals to Admit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Shelo Yimacheh",
+    "candidates": [
+      "Shelo Yimacheh",
+      "Admission Consequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the 'shelo yimacheh' formula and the additional warning to her and her father's family, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Shelo Yimacheh",
+      "current_heading": "Shelo Yimacheh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Admission Consequence",
+    "candidates": [
+      "Admission Consequence",
+      "Maintains Innocence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the consequence of a woman admitting defilement (losing her ketubah and being divorced), which directly matches the 'Admission Consequence' prose.",
+      "chosen_heading": "Admission Consequence",
+      "current_heading": "Admission Consequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Maintains Innocence",
+    "candidates": [
+      "Maintains Innocence",
+      "Eastern Gate",
+      "Gate Theology",
+      "Garment Tearing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the sotah's declaration of innocence and the immediate consequence of being brought to the Eastern Gate \u2014 content that matches heading 0's prose about 'tehorah ani' and the resulting advancement of proceedings, before the deeper topographical and theological discussion begins in headings 1 and 2.",
+      "chosen_heading": "Maintains Innocence",
+      "current_heading": "Maintains Innocence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Garment Tearing",
+    "candidates": [
+      "Eastern Gate",
+      "Gate Theology",
+      "Garment Tearing",
+      "Modesty Limits",
+      "Degradation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the kohen grabbing the woman's garments, tearing them until her chest is exposed, and unbraiding her hair \u2014 exactly what the 'Garment Tearing' section's prose discusses, including the same key phrases (nikre'u, nifremu, megaleh libah, soter et se'arah), with Rabbi Yehuda's dissent about attractive features following naturally as the next section 'Modesty Limits'.",
+      "chosen_heading": "Garment Tearing",
+      "current_heading": "Garment Tearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Degradation",
+    "candidates": [
+      "Modesty Limits",
+      "Degradation",
+      "Public Spectacle",
+      "Who May Watch",
+      "Deriving Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Degradation",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 describe the systematic degradation ritual (black garments, removal of jewelry, Egyptian rope) which is precisely what candidate 1 'Degradation' discusses in its prose.",
+      "second_heading": "Who May Watch",
+      "second_confidence": "high",
+      "second_reason": "Item 3 describes who may watch the sotah proceeding and the Yechezkel verse about women being warned, which matches candidate 3 'Who May Watch' exactly.",
+      "current_heading": "Degradation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Deriving Rule",
+    "candidates": [
+      "Public Spectacle",
+      "Who May Watch",
+      "Deriving Rule",
+      "Zaken Mamre",
+      "Chronology Problem",
+      "Warning Not Required",
+      "Chazal Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text deriving the rule that sotah requires a beit din of seventy-one via the gezeirah shavah of Torah-Torah, which is precisely what the prose under 'Deriving Rule' discusses.",
+      "chosen_heading": "Deriving Rule",
+      "current_heading": "Deriving Rule",
+      "moved": false
+    }
+  }
+]

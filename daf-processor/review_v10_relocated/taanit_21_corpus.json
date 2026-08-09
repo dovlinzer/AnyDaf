@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Merit: Torah & Respect",
+    "candidates": [
+      "Intro: Falling Buildings",
+      "Students Ask Long Life",
+      "Merit: Torah & Respect",
+      "Nicknames & Respect",
+      "Building Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Adda bar Ahava's answer to his students' question about longevity, and candidate 1 ('Students Ask Long Life') is precisely where that question and answer begin, while the current placement (candidate 2) is the prose that discusses the content of the answer \u2014 the passage belongs at the start of that answer under candidate 1.",
+      "chosen_heading": "Students Ask Long Life",
+      "current_heading": "Merit: Torah & Respect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Building Inspection",
+    "candidates": [
+      "Nicknames & Respect",
+      "Building Inspection",
+      "Price Support Markets",
+      "Why Not Give Poor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna's golden carriage inspection and demolition/rebuilding of unstable walls, which is precisely what the 'Building Inspection' section's prose discusses in detail.",
+      "chosen_heading": "Building Inspection",
+      "current_heading": "Building Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Why Not Give Poor",
+    "candidates": [
+      "Price Support Markets",
+      "Why Not Give Poor",
+      "Public Health Care"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous gemara discussion about Rav Huna's market intervention \u2014 why he didn't give to the poor, why he didn't feed animals, and why he bought at all \u2014 which is precisely what candidate 1's prose discusses in detail.",
+      "chosen_heading": "Why Not Give Poor",
+      "current_heading": "Why Not Give Poor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Public Health Care",
+    "candidates": [
+      "Public Health Care",
+      "Hospitality Meals",
+      "Rava Response Limits",
+      "Leave for Business"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Leave for Business",
+    "candidates": [
+      "Hospitality Meals",
+      "Rava Response Limits",
+      "Leave for Business",
+      "Angel Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Ilfa and Rabbi Yo\u1e25anan studying Torah, becoming financially hard-pressed, deciding to go into business to fulfill 'there shall be no needy among you,' and sitting under a dilapidated wall eating bread \u2014 exactly what the 'Leave for Business' section prose discusses.",
+      "chosen_heading": "Leave for Business",
+      "current_heading": "Leave for Business",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Angel Debate",
+    "candidates": [
+      "Angel Debate",
+      "Yochanan Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the angel conversation and Yochanan's deduction that his time stands before him, but the prose under 'Yochanan Returns' explicitly discusses Rav Yochanan hearing while Ilfa did not, the exchange between them, and Yochanan's conclusion \u2014 matching this passage's specific content more precisely than the 'Angel Debate' section which only covers the angels' dialogue.",
+      "chosen_heading": "Yochanan Returns",
+      "current_heading": "Angel Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Yochanan Returns",
+    "candidates": [
+      "Angel Debate",
+      "Yochanan Returns",
+      "Ilfa Success",
+      "Ilfa Regrets",
+      "Mast Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan deciding to return and fulfill the verse about the poor, which exactly matches the 'Yochanan Returns' section prose discussing his decision to go back to the Beis Medrash and accept poverty.",
+      "chosen_heading": "Yochanan Returns",
+      "current_heading": "Yochanan Returns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Mast Challenge",
+    "candidates": [
+      "Ilfa Success",
+      "Ilfa Regrets",
+      "Mast Challenge",
+      "Deathbed Wishes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes colleagues telling Ilfa he would have been appointed Rosh Yeshiva had he stayed to study, which matches the 'Ilfa Regrets' prose about 'amru lo' and the colleagues' rebuke \u2014 not the 'Mast Challenge' section where it currently sits.",
+      "chosen_heading": "Ilfa Regrets",
+      "current_heading": "Mast Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Deathbed Wishes",
+    "candidates": [
+      "Mast Challenge",
+      "Deathbed Wishes",
+      "Knowledge Mastery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the baraita about deathbed shekel/sela instructions, which is exactly what the 'Deathbed Wishes' section prose discusses in detail, including the same specific content about giving shekel vs. sela to children.",
+      "chosen_heading": "Deathbed Wishes",
+      "current_heading": "Deathbed Wishes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Knowledge Mastery",
+    "candidates": [
+      "Knowledge Mastery",
+      "Physical Afflictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita about deathbed stipulations and Ilfa's identification of Rabbi Meir's principle, which is precisely what the 'Knowledge Mastery' section's prose elaborates on in detail.",
+      "chosen_heading": "Knowledge Mastery",
+      "current_heading": "Knowledge Mastery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Physical Afflictions",
+    "candidates": [
+      "Physical Afflictions",
+      "House Protection",
+      "Question Afflictions",
+      "Poor Man Neglect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the physical afflictions of Nachum Ish Gamzu AND the house protection story, but the current placement under 'Physical Afflictions' (index 0) whose prose explicitly covers both elements together makes it the best single home, even though index 1's prose also discusses the house portion \u2014 the essay author appears to have split the commentary across two sections while the Talmudic text is one continuous unit that begins with the afflictions.",
+      "chosen_heading": "Physical Afflictions",
+      "current_heading": "Physical Afflictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Poor Man Neglect",
+    "candidates": [
+      "House Protection",
+      "Question Afflictions",
+      "Poor Man Neglect",
+      "Self-Imposed Curses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with the students' question about why suffering befell a righteous man, which is precisely what candidate 1 ('Question Afflictions') discusses, and then continues into the poor man story \u2014 but the opening framing ('his students said to him... why has this befallen you... I brought it upon myself... once I was traveling') belongs together as one unit that starts with the question, matching candidate 1's prose which explicitly sets up that question and his answer.",
+      "chosen_heading": "Question Afflictions",
+      "current_heading": "Poor Man Neglect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Self-Imposed Curses",
+    "candidates": [
+      "Poor Man Neglect",
+      "Self-Imposed Curses",
+      "Name Etymology",
+      "Caesar Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Nachum's self-imposed curses and his exchange with students about his afflicted state, which matches exactly the 'Self-Imposed Curses' section's prose discussion of those same elements.",
+      "chosen_heading": "Self-Imposed Curses",
+      "current_heading": "Self-Imposed Curses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Caesar Gift",
+    "candidates": [
+      "Name Etymology",
+      "Caesar Gift",
+      "Magic Dust"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Magic Dust",
+    "candidates": [
+      "Magic Dust",
+      "Subdue Country"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Elijah appearing and explaining that the earth may be Abraham's magical dust that turns to swords/arrows, which is exactly what the 'Magic Dust' section's prose discusses.",
+      "chosen_heading": "Magic Dust",
+      "current_heading": "Magic Dust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Subdue Country",
+    "candidates": [
+      "Subdue Country",
+      "Innkeepers Killed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the conquest of the province and filling Na\u1e25um's chest with jewels, which exactly matches the 'Subdue Country' section's prose about testing the dirt, subduing the country, and sending Na\u1e25um off with great honor.",
+      "chosen_heading": "Subdue Country",
+      "current_heading": "Subdue Country",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Innkeepers Killed",
+    "candidates": [
+      "Innkeepers Killed",
+      "Faith Critique",
+      "Dever Parameters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the events discussed in the 'Innkeepers Killed' section prose: the innkeepers asking Na\u1e25um what he brought, tearing down their inn, bringing the soil to the king, being tested and found wanting, and being executed.",
+      "chosen_heading": "Innkeepers Killed",
+      "current_heading": "Innkeepers Killed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Dever Parameters",
+    "candidates": [
+      "Faith Critique",
+      "Dever Parameters",
+      "Drokrat Case",
+      "Nachman Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items define the parameters of dever \u2014 the thresholds for cities of 1,500 and 500 men, the three-consecutive-days requirement, and the exclusion of single-day or four-day spreads \u2014 which is precisely what the 'Dever Parameters' prose discusses.",
+      "chosen_heading": "Dever Parameters",
+      "current_heading": "Dever Parameters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Nachman Dispute",
+    "candidates": [
+      "Drokrat Case",
+      "Nachman Dispute",
+      "Move Invitation",
+      "Person Honors Place"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Drokart narrative \u2014 the fast decree and Rav Na\u1e25man bar Yitz\u1e25ak's challenge about Rabbi Meir's ox-goring logic are all part of the same continuous Drokart case discussion, which candidate 0's prose explicitly covers, while candidate 1 ('Nachman Dispute') already summarizes this very material in its prose, making candidate 0 the primary home and the current placement redundant.",
+      "chosen_heading": "Drokrat Case",
+      "current_heading": "Nachman Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Person Honors Place",
+    "candidates": [
+      "Move Invitation",
+      "Person Honors Place",
+      "Sura Shovel Lender"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous exchange about Rav Na\u1e25man bar Yitz\u1e25ak declining to move, citing Rabbi Yosei's principle that a person honors his place, with the Tent of Meeting proof and the maneh/peras resolution \u2014 exactly matching the 'Person Honors Place' heading's prose.",
+      "chosen_heading": "Person Honors Place",
+      "current_heading": "Person Honors Place",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Sura Shovel Lender",
+    "candidates": [
+      "Sura Shovel Lender",
+      "Drokrat Oven Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the plague in Sura, Rav's neighborhood being spared, and the dream revealing it was due to the shovel-lender's merit \u2014 exactly what candidate 0 ('Sura Shovel Lender') discusses in its prose.",
+      "chosen_heading": "Sura Shovel Lender",
+      "current_heading": "Sura Shovel Lender",
+      "moved": false
+    }
+  }
+]

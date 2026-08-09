@@ -1,12 +1,11 @@
-# Nedarim 45 — Daf Yomi Shiur
-
+[DAF:45a]
 ## Hefker & Ownership
+
+
 
 ### Hefker as Speech Act
 
-> **Hebrew/Aramaic:** וְדִלְמָא אָתֵי לְעַשּׂוֹרֵי מִן הַחִיּוּב עַל הַפְּטוּר וּמִן הַפְּטוּר עַל הַחִיּוּב.
->
-> **Translation:** **And** that ordinance could lead to a problem, as **perhaps he** will **come to tithe from** produce that **requires** tithing by Torah law **for** produce **exempt** from tithing by Torah law **and from** produce **exempt** from tithing by Torah law **for** produce that **requires** tithing by Torah law. By Torah law, the produce is not ownerless and requires tithing. However, due to the ordinance, people might relate to it as ownerless produce and assume that one is exempt from tithing it. Alternatively, they will erroneously conclude that the obligation to tithe from that produce is by rabbinic law and will tithe produce from it that one is exempt from tithing by Torah law, or they will tithe that produce from produce that one is exempt from tithing by Torah law. The result will be produce that is not properly tithed, as one may tithe produce that one is obligated to tithe by Torah law only from other produce that one is obligated to tithe by Torah law.
+The previous *perek* closed with a *machlokes* between Rabbi Yosi and the *Rabbanan* concerning how *hefker* operates, along with a dispute among the *Amora'im* about how to apply Rabbi Yosi's position, drawing on various *beraisos* and *mishnayos*. Before turning to the new *perek*, it is worth stepping back to examine the nature of *hefker* more broadly.
 
 The case at the end of the prior *mishna* involved a person who was *mudar hana'ah* from another and placed food on a rock, declaring it *hefker*, so that the other person could freely take and benefit from it. The operative question is: what precisely does *hefker* accomplish? If *hefker* merely grants others permission to use an object without actually extinguishing the original owner's title — so that during the limbo period between the declaration and another person's acquisition the original ownership persists — then the *neder* would remain in effect wherever that *neder* depends on ownership. This would create a real difficulty for understanding how Rabbi Yosi's position functions in the *mishna*.
 
@@ -30,8 +29,7 @@ This is thus another domain in which the structural similarity between *hefker* 
 
 ### Hefker Beit Din
 
-> **Hebrew/Aramaic:** וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי אָמַר: דְּבַר תּוֹרָה אֲפִילּוּ בְּאֶחָד — הָוֵי הֶפְקֵר, וּמַה טַּעַם אָמְרוּ בִּשְׁלֹשָׁה, כְּדֵי שֶׁיְּהֵא אֶחָד זוֹכֶה וּשְׁנַיִם מְעִידִין.
->
+> **Hebrew/Aramaic:** וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי אָמַר: דְּבַר תּוֹרָה אֲפִילּוּ בְּאֶחָד — הָוֵי הֶפְקֵר, וּמַה טַּעַם אָמְרוּ בִּשְׁלֹשָׁה, כְּדֵי שֶׁיְּהֵא אֶחָד זוֹכֶה וּשְׁנַיִם מְעִידִין.
 > **Translation:** **And Rabbi Yehoshua ben Levi said: By Torah law, even with one** person, the item **is ownerless, and what** is the **reason** that the Sages **said** that ownerless status must be declared **with three** people? It is **so that one will take possession** of the item **and two** will **testify** that the item was declared ownerless and that it was acquired by that person. It is not a requirement fundamental to the declaration of ownerless status.
 
 The principle of *hefker beit din hefker* — that a rabbinic court possesses the authority to render property ownerless — also arose at the end of *amud alef*. Rabbi Shimon ben Hotzadak holds: *kol hamaphkir bifnei shlosha havi hefker* — declaring something *hefker* before three people constitutes valid *hefker*; before fewer than three it does not. Rabbi Yehoshua ben Levi disagrees and says that *devar Torah*, even one person suffices, and the rabbis required three for a pragmatic reason: *kedai sheyihiyeh echad zocheh ushnayim me'idim* — so that one person may acquire the property and two may serve as witnesses.
@@ -66,17 +64,13 @@ One might press: with *avodah zarah*, the act of physical destruction demonstrat
 
 ### Ran on Chametz
 
-The Ran in *Psachim* — on daf 1 amud alef in the pages of the Rif — offers a distinctive answer. *Chametz* is categorically different from other property, the Ran explains, because the Torah itself declared *bal yera'eh u'bal yimatzei* — two distinct prohibitions against owning or possessing *chametz* on Passover. These prohibitions have the effect of removing the *chametz* from one's *reshut* in a meaningful sense: the only dimension of "ownership" one retains over *chametz* on Passover is precisely the dimension that makes one liable for violating those two *mitzvot*. The *Gemara* itself uses language suggesting that the Torah places the *chametz* into one's ownership for the purpose of creating the violation. What remains of ordinary ownership is therefore only a residual sliver of connection, and to dissolve even that sliver requires only a much weaker mechanism than would be needed to declare ordinary property *hefker*.
+The Ran in *Psachim* — on daf 1 amud alef in the pages of the Rif — offers a distinctive answer. *Chametz* is categorically different from other property, the Ran explains, because the Torah itself declared *bal yera'eh u'val yimatzei* — two distinct prohibitions against owning or possessing *chametz* on Passover. These prohibitions have the effect of removing the *chametz* from one's *reshut* in a meaningful sense: the only dimension of "ownership" one retains over *chametz* on Passover is precisely the dimension that makes one liable for violating those two *mitzvot*. The *Gemara* itself uses language suggesting that the Torah places the *chametz* into one's ownership for the purpose of creating the violation. What remains of ordinary ownership is therefore only a residual sliver of connection, and to dissolve even that sliver requires only a much weaker mechanism than would be needed to declare ordinary property *hefker*.
 
 This is the counterintuitive point: because the Torah has rendered the *chametz* so nearly outside one's *reshut* already, the bar for completing the severance is lower than for real property. It is not that *bitul chametz* is a full *hefker*; rather, the ownership that needs to be dissolved is itself attenuated, and so an attenuated act suffices.
 
 The question of how all this fits with Rabbi Yosi's position — who holds that *hefker* does not fully remove ownership until another person acquires the property — is itself a subject the *Rishonim* address primarily from the perspective of the *Rabbanan*. Tosafot might resolve the difficulty by noting that *bitul chametz* is a different and weaker kind of *hefker* than ordinary *hefker*, one appropriate to the already-diminished ownership the Torah leaves one with respect to *chametz*. This would align, in spirit if not in precise mechanism, with the Ran's approach.
 
 ### Hefker Witnesses
-
-> **Hebrew/Aramaic:** אִיבָּעֵית אֵימָא: הָא דְּאַפְקְרֵיהּ בְּאַנְפֵּי תְרֵין, וְהָא דְּאַפְקְרֵיהּ בְּאַפֵּי תְלָתָא. דְּאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק: כׇּל הַמַּפְקִיר בִּפְנֵי שְׁלֹשָׁה — הָוֵי הֶפְקֵר, בִּפְנֵי שְׁנַיִם — לָא הָוֵי הֶפְקֵר.
->
-> **Translation:** **If you wish, say** instead: **That** *baraita*, in which it is taught that the item does not leave the possession of the owner until it enters the possession of another, is referring to a case **where** one declared it ownerless **before two** people; **and this** *baraita*, in which it is taught that the item is ownerless when it is declared ownerless, is referring to a case **where** one declared it ownerless **before three** people. **As Rabbi Yoḥanan said in the name of Rabbi Shimon ben Yehotzadak:** With regard to **anyone who declares** an item **ownerless before three** people, that item **is ownerless;** if he does so **before two** people, **it is not ownerless.**
 
 Returning to the question of how many people are required for *hefker* to take effect: Rabbi Shimon ben Hotzadak holds that three people are required even *mide'oraita*, while Rabbi Yehoshua ben Levi holds that one suffices *mide'oraita* and three are required only *miderabbanan* (so that one may acquire while two serve as witnesses). The *Mishna* in the previous *perek* apparently involved a case with only two people — the *mudar hana'ah* and the one being *mafkir* — and the *Ritva* resolves this by invoking *sha'at hadachak*: because the person had nothing to eat, it was a pressing situation, and even if one follows Rabbi Yehoshua ben Levi and requires three rabbinically, the rabbis relaxed their requirement in a case of genuine need.
 
@@ -90,11 +84,19 @@ This observation loops back directly to the question of *bitul chametz*: if the 
 
 ### Shulchan Aruch Ruling
 
+> **Hebrew/Aramaic:** הַדְרָן עֲלָךְ אֵין בֵּין הַמּוּדָּר
+> **Translation:** 
+
+
 Interestingly, the *Shulchan Aruch* does not rule uniformly. In *Orach Chayim*, the *Shulchan Aruch* rules in accordance with the *Rosh* and accepts *hefker beino levein atzmo* in the context of *shevitat behemto* — the prohibition against allowing one's animal to work on *Shabbat*. If a person has lent his animal to a non-Jew who intends to plow with it on *Shabbat*, the owner may declare the animal *hefker* privately on *Shabbat* morning and thereby remove it from his ownership, dissolving the prohibition. In *Choshen Mishpat*, however, where the *Shulchan Aruch* addresses property law more directly, it rules like the Rambam — requiring at least one person present even *mide'oraita*, and three *miderabbanan*. The *Shulchan Aruch* thus applies different standards depending on the context: a leniency for *shevitat behemto* that it does not extend to ordinary property transactions.
+
+Setting aside for a moment the question of how many people must be present, it is worth noting that the underlying issue from the *mishna* remains unresolved: the entire scenario there concerned a case where a person is prohibited by *neder* from benefiting from another's property, and the device of placing the object on a rock was a legal contrivance designed to work around that *neder*. The deeper question — whether *hefker* constitutes a genuinely independent ownerless state or whether ownership persists until another person actually takes possession — is what gave that contrivance its bite. Either the object is truly ownerless and available to anyone, or it is not, and a person prohibited from taking possession can never benefit from it regardless. As noted earlier, this dispute appears to track a *machloket* among the *tannai'im* between *Rabbi Yosi* and the other rabbis, and the *halacha* seemingly follows *rabbanan*, since that is the position the *mishna* relies upon — though a full ruling on this point may be found in the *Ran*, whose relevant discussion we do not pursue here. The bearing of all this on *bitul chametz* — and whether the Tosafot-Rambam dispute about *hefker* governs whether *bitul* requires any form of public manifestation — remains an open question we carry forward.
 
 ---
 
 ## Perek Hashutfim
+
+
 
 ### Breira Concept
 
@@ -122,11 +124,13 @@ In some ways this resembles a *tnai*, a conditional statement: I make this *eruv
 
 ## Partners Mutual Neder
 
+
+
+[DAF:45b]
 ### Mutual Neder Case
 
-> **Hebrew/Aramaic:** הַשּׁוּתָּפִין שֶׁנָּדְרוּ הֲנָאָה זֶה מִזֶּה — אֲסוּרִין לִיכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: זֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ, וְזֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ.
->
-> **Translation:** MISHNA: **Partners who vowed** not to derive **benefit from one another are prohibited from entering into a courtyard** that they jointly own, since each one has a portion in it and benefits from the share owned by the other, thereby leading to a violation of the vow. **Rabbi Eliezer ben Ya'akov says:** It is permitted for both to use the courtyard, as it can be said that since each has a portion in the courtyard; **this one enters into his own** portion **and that one enters into his own** portion.
+> **Hebrew/Aramaic:** הַשּׁוּתָּפִין שֶׁנָּדְרוּ הֲנָאָה זֶה מִזֶּה — אֲסוּרִין לִיכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: זֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ, וְזֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ.
+> **Translation:** MISHNA: **Partners who vowed** not to derive **benefit from one another are prohibited from entering into a courtyard** that they jointly own, since each one has a portion in it and benefits from the share owned by the other, thereby leading to a violation of the vow. **Rabbi Eliezer ben Ya’akov says:** It is permitted for both to use the courtyard, as it can be said that since each has a portion in the courtyard; **this one enters into his own** portion **and that one enters into his own** portion.
 
 The *mishna* states: *ha-shutafin she-nadru hana'ah zeh mi-zeh, asurin likanes le-chatzer* — two partners who have each taken a *neder* against receiving any *hana'ah* from the other are forbidden from entering their shared *chatzer*. The scenario is two people, call them Reuven and Shimon, who own adjacent apartments and share a courtyard — something like the hallway of a modern apartment building. Each has declared a *neder* of *hana'ah* against the other, meaning each has sworn not to receive any benefit from the other. They intensely dislike one another.
 
@@ -152,14 +156,13 @@ Rabbeinu Tam, whose view is cited within the Ran, makes an observation along the
 
 ### Not Real Hana'ah
 
-The first explanation the Ran entertains for why Rabbi Elazar ben Yaakov permits entry is that walking across a courtyard may not constitute real *hana'ah* at all. The *neder* forbade *hana'ah* from the other person's property. But is the act of putting one's feet on shared property truly a benefit within the meaning of the *neder*? Traversing a space to get from point A to point B, with no enjoyment of the amenities of the space as such, may simply fall below the threshold of *hana'ah* that the *neder* was intended to prohibit.
+The first explanation the Ran entertains for why Rabbi Elazar ben Yaakov permits entry is that walking across a courtyard may not constitute real *hana'ah* at all. The *neder* forbade *hana'ah* from the other person's property. But is the act of putting one's feet on shared property truly a benefit within the meaning of the *neder*? Traversing a space to get from point A to point B, with no enjoyment of the amenities of the space as such, may simply fall below the threshold of *hana'ah* that the *neder* was intended to prohibit. If the courtyard were a garden with trees and flowers, something one entered for the pleasure of the space itself, the calculus might be different. But mere passage is arguably not *hana'ah* in any meaningful sense, and the prohibition on walking may therefore be not a *de'oraita* violation at all but rather a rabbinic extension — the Sages extending the *neder*'s reach to cover conduct that is not genuine *hana'ah* but is close enough in kind to warrant additional stringency.
 
-If that is the case, then the mechanism that allows entry is not *breira* at all, and the case does not really turn on *yesh breira* versus *ein breira*. Walking is categorically outside the *neder*'s scope. This does not mean *breira* is irrelevant to the case — the *Gemara* still invokes *breira* as a factor in Rabbi Elazar ben Yaakov's position — but it would mean that *breira* provides an additional layer of reasoning rather than the primary one. There is tension here that the *Gemara* will need to work through in the coming days.
+If that is the case, then the mechanism that allows entry is not *breira* at all, and the case does not really turn on *yesh breira* versus *ein breira*. Walking is categorically outside the *neder*'s scope. This does not mean *breira* is irrelevant to the case — the *Gemara* still invokes *breira* as a factor in Rabbi Elazar ben Yaakov's position — but it would mean that *breira* provides an additional layer of reasoning rather than the primary one. Indeed, if walking is not real *hana'ah*, then there is no longer a portion that is "his" and a portion that is "forbidden" in the way *breira* normally operates; the entire courtyard, with respect to the act of walking across it, is treated uniformly. On this reading, *breira* cannot be doing the work of permitting entry, because the problem that *breira* would need to solve does not arise in the first place. There is tension here that the *Gemara* will need to work through in the coming days.
 
 ### Millstones/Ovens
 
-> **Hebrew/Aramaic:** וּשְׁנֵיהֶם אֲסוּרִים לְהַעֲמִיד רֵיחַיִם וְתַנּוּר וּלְגַדֵּל תַּרְנְגוֹלִים.
->
+> **Hebrew/Aramaic:** וּשְׁנֵיהֶם אֲסוּרִים לְהַעֲמִיד רֵיחַיִם וְתַנּוּר וּלְגַדֵּל תַּרְנְגוֹלִים.
 > **Translation:** **And** all agree that **they are both prohibited from setting up a mill or an oven** in the jointly owned courtyard, **or to raise chickens** in it.
 
 The second clause of the *mishna* states: *u-shneihem assurim le-ha'amid reichayim ve-tannur u-legadel tarnagolim* — both partners are forbidden from placing a millstone (*reichayim*) or an oven (*tannur*) in the *chatzer*, or from raising chickens there.
@@ -174,15 +177,14 @@ The third prohibited act, *legadel tarnagolim* — raising chickens — raises q
 
 ### Unidirectional Neder
 
-> **Hebrew/Aramaic:** הָיָה אֶחָד מֵהֶם מוּדָּר הֲנָאָה מֵחֲבֵירוֹ — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל הוּא לוֹמַר לוֹ: לְתוֹךְ שֶׁלִּי אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ. וְכוֹפִין אֶת הַנּוֹדֵר לִמְכּוֹר אֶת חֶלְקוֹ.
->
-> **Translation:** If only **one of the** partners **was prohibited by a vow from deriving benefit from the other, he may not enter the courtyard. Rabbi Eliezer ben Ya'akov says: He can say to** the partner: **I am entering into my own** portion **and I am not entering into your** portion. **And** the court **forces the one who took** such **a vow to sell his portion** so that he does not cause the other to transgress.
-
 The *mishna* then shifts to a case where the *neder* is unidirectional: *haya echad mehem mudar hana'ah michaveiro, lo yikanes lachatzer* — if one of the partners has been forbidden from receiving *hana'ah* from the other, he cannot enter the *chatzer*.
 
 This case is, on reflection, more difficult than the mutual-*neder* case. Here the person forbidden from the *chatzer* is a co-owner of that property. He owns fifty percent of it. How can the other partner's *neder* strip him of access to his own property? The principle *ein adam oser davar she'eino shelo* — a person cannot forbid something that does not belong to him — would seem to protect the co-owner's right of access, since the *chatzer* is also his.
 
 Yet the *Tanna Kamma* permits this situation to arise. The *Tanna Kamma*'s position in the first clause — that joint ownership means every fleck of the *chatzer* is co-owned — creates this paradox: because every inch is partially his, every inch is also partially the other partner's, and so the forbidden party can find no spot in the *chatzer* that is uncontaminated by the other's ownership.
+
+> **Hebrew/Aramaic:** הָיָה אֶחָד מֵהֶם מוּדָּר הֲנָאָה מֵחֲבֵירוֹ — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל הוּא לוֹמַר לוֹ: לְתוֹךְ שֶׁלִּי אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ. וְכוֹפִין אֶת הַנּוֹדֵר לִמְכּוֹר אֶת חֶלְקוֹ.
+> **Translation:** If only **one of the** partners **was prohibited by a vow from deriving benefit from the other, he may not enter the courtyard. Rabbi Eliezer ben Ya’akov says: He can say to** the partner: **I am entering into my own** portion **and I am not entering into your** portion. **And** the court **forces the one who took** such **a vow to sell his portion** so that he does not cause the other to transgress.
 
 ### Ran Explanations
 
@@ -198,9 +200,9 @@ A close structural parallel exists in *halacha*: if two partners jointly own a s
 
 ### Outsider Neder
 
-> **Hebrew/Aramaic:** הָיָה אֶחָד מִן הַשּׁוּק מוּדָּר בְּאֶחָד מֵהֶם הֲנָאָה — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל לוֹמַר לוֹ: לְתוֹךְ שֶׁל חֲבֵירְךָ אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ.
->
-> **Translation:** If **someone from the marketplace is prohibited by a vow from deriving benefit from one of the** partners, **he may not enter a courtyard** of the partners, since it belongs partly to the one from whom he may not benefit. **Rabbi Eliezer ben Ya'akov says: He can say to him: I am entering into the** portion **of another** resident of the courtyard **and I am not entering your** own portion since it does not belong entirely to you.
+
+> **Hebrew/Aramaic:** הָיָה אֶחָד מִן הַשּׁוּק מוּדָּר בְּאֶחָד מֵהֶם הֲנָאָה — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל לוֹמַר לוֹ: לְתוֹךְ שֶׁל חֲבֵירְךָ אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ.
+> **Translation:** If **someone from the marketplace is prohibited by a vow from deriving benefit from one of the** partners, **he may not enter a courtyard** of the partners, since it belongs partly to the one from whom he may not benefit. **Rabbi Eliezer ben Ya’akov says: He can say to him: I am entering into the** portion **of another** resident of the courtyard **and I am not entering your** own portion since it does not belong entirely to you.
 
 The next clause of the *mishna* takes the case outward: *ha'echad min hashuk mudar be'echad mehen hana'ah, lo yikanes lachatzer*. An outsider — someone who neither lives in nor owns any part of the *chatzer* — has taken a *neder* forbidding himself from receiving *hana'ah* from one of the two partners. He, too, cannot enter the *chatzer*.
 
@@ -210,8 +212,7 @@ Rabbi Elazar ben Yaakov again offers a way out: *yachol lomar letoch shel chaver
 
 ### Rented Property
 
-> **Hebrew/Aramaic:** הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְיֵשׁ לוֹ מֶרְחָץ וּבֵית הַבַּד מוּשְׂכָּרִין בָּעִיר, אִם יֵשׁ לוֹ בָּהֶן תְּפִיסַת יָד — אָסוּר, אֵין לוֹ בָּהֶן תְּפִיסַת יָד — מוּתָּר.
->
+> **Hebrew/Aramaic:** הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְיֵשׁ לוֹ מֶרְחָץ וּבֵית הַבַּד מוּשְׂכָּרִין בָּעִיר, אִם יֵשׁ לוֹ בָּהֶן תְּפִיסַת יָד — אָסוּר, אֵין לוֹ בָּהֶן תְּפִיסַת יָד — מוּתָּר.
 > **Translation:** With regard to **one prohibited by a vow from deriving benefit from another and he has a bathhouse or an olive press in the city that is leased out** and available for public use, **if** the one who took the vow **has a right** to profits from **usage in** the property, i.e., he retains some rights in the property and has not leased them out completely, it is **forbidden** for the one who took the vow to use it. If **he has no right of usage in the** property, it is **permitted.**
 
 The *mishna* then introduces a case involving rental: *hamudar hana'ah mechaveiro, veyesh lo merchatz uveit habad mushcharim ba'ir* — a person who is *mudar hana'ah* from another, where that other person owns a bathhouse and an olive press which are rented out to the public in the city. *Im yesh lo bahen tefisat yad, assur* — if the owner retains a *tefisat yad* in those properties, it is forbidden for the *mudar* to use them.
@@ -226,13 +227,13 @@ The exact nature of *tefisat yad* — what kinds of residual rights during a ren
 
 ### House/Field Neder
 
-> **Hebrew/Aramaic:** הָאוֹמֵר לַחֲבֵירוֹ: "קֻוֽנָּם לְבֵיתְךָ שֶׁאֲנִי נִכְנָס, וְשָׂדְךָ שֶׁאֲנִי לוֹקֵחַ", מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — מוּתָּר. "קֻוֽנָּם בַּיִת זֶה שֶׁאֲנִי נִכְנָס", "שָׂדֶה זוֹ שֶׁאֲנִי לוֹקֵחַ", מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — אָסוּר.
->
-> **Translation:** With regard to one **who says to another: Entering your house is *konam* for me, or: Purchasing your field** is *konam* **for me,** then if **he,** i.e., the owner of the house or field, **dies or sells** the house **to another,** it is **permitted** for the one who took the vow to enter the house or purchase the field, as it is no longer in the possession of the prior owner. But if he said: **Entering this house is *konam* for me,** or: **Purchasing this field** is *konam* **for me,** then even if the owner **dies or sells it to another,** it is **forbidden.**
-
 The *mishna* then introduces a *konam*-formulation: *ha'omer lachaveiro konam leveitcha she'ani nichnas, uvesadecha she'ani loke'ach* — one who says to his fellow: "Your house is forbidden to me as a *konam* that I shall not enter it," or "Your field is forbidden to me as a *konam* that I shall not take from its produce."
 
+> **Hebrew/Aramaic:** הָאוֹמֵר לַחֲבֵירוֹ: ״קֻוֽנָּם לְבֵיתְךָ שֶׁאֲנִי נִכְנָס, וְשָׂדְךָ שֶׁאֲנִי לוֹקֵחַ״, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — מוּתָּר. ״קֻוֽנָּם בַּיִת זֶה שֶׁאֲנִי נִכְנָס״, ״שָׂדֶה זוֹ שֶׁאֲנִי לוֹקֵחַ״, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — אָסוּר.
+> **Translation:** With regard to one **who says to another: Entering your house is *konam* for me, or: Purchasing your field** is *konam* **for me,** then if **he,** i.e., the owner of the house or field, **dies or sells** the house **to another,** it is **permitted** for the one who took the vow to enter the house or purchase the field, as it is no longer in the possession of the prior owner. But if he said: **Entering this house is *konam* for me,** or: **Purchasing this field** is *konam* **for me,** then even if the owner **dies or sells it to another,** it is **forbidden.**
+
 ### Death/Sale
+
 
 *Met o shemacharo le'acher, assur* — if the owner dies, or if he sells the property to someone else, the prohibition remains in effect. This clause was already employed as a proof-text approximately two weeks earlier in the discussion of what can dissolve a *neder*: specifically, whether making a *neder* against a person's property lapses when that property is transferred.
 
@@ -241,6 +242,8 @@ The language here is deliberate. The clause that follows the present one uses th
 ---
 
 ## Modern Applications
+
+
 
 ### Corporate Ownership
 

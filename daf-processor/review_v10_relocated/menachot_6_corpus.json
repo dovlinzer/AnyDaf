@@ -1,0 +1,344 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Omer Exception",
+    "candidates": [
+      "Non-Kosher Food Intro",
+      "Omer Exception",
+      "Shemitah & Omer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav's argument that the omer meal offering could serve as a counter-example (prohibited to layperson yet permitted as a korban), followed by the Gemara's rejection that the omer is distinguishable because it renders new grain permitted \u2014 exactly the content described in the 'Omer Exception' prose.",
+      "chosen_heading": "Omer Exception",
+      "current_heading": "Omer Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Shemitah & Omer",
+    "candidates": [
+      "Shemitah & Omer",
+      "Treifa Self-Permit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Sabbatical Year omer and Rabbi Akiva's prohibition of sefi\u1e25in, which is precisely the content described in the 'Shemitah & Omer' section prose.",
+      "chosen_heading": "Shemitah & Omer",
+      "current_heading": "Shemitah & Omer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Treifa Self-Permit",
+    "candidates": [
+      "Treifa Self-Permit",
+      "Incense Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of challenge and counter-challenge about whether the omer's permissive power can be used to refute Rav's position, culminating in the 'mitzvata be-khach' conclusion \u2014 exactly what the 'Treifa Self-Permit' prose describes in detail.",
+      "chosen_heading": "Treifa Self-Permit",
+      "current_heading": "Treifa Self-Permit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Incense Exception",
+    "candidates": [
+      "Incense Exception",
+      "Shabbat for God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Reish Lakish's incense argument and the Gemara's refutation with 'mah le-pitum ha-ktoret she-ken mitzvata be-khach,' which is precisely what the 'Incense Exception' prose section describes.",
+      "chosen_heading": "Incense Exception",
+      "current_heading": "Incense Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Shabbat for God",
+    "candidates": [
+      "Shabbat for God",
+      "Shatnez in Tzitzit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Shabbat proof case raised by Mar son of Ravina, including the milah objection and its refutation, which is exactly what the 'Shabbat for God' prose describes in detail.",
+      "chosen_heading": "Shabbat for God",
+      "current_heading": "Shabbat for God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Shatnez in Tzitzit",
+    "candidates": [
+      "Shatnez in Tzitzit",
+      "Common Denominator",
+      "Baal Mum Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the kilayim/shatnez counter-argument and its refutation via tzitzit and then via 'mitzvato be-khach,' which is precisely what the 'Shatnez in Tzitzit' section's prose describes in detail.",
+      "chosen_heading": "Shatnez in Tzitzit",
+      "current_heading": "Shatnez in Tzitzit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Baal Mum Challenge",
+    "candidates": [
+      "Common Denominator",
+      "Baal Mum Challenge",
+      "Yotzei Dofen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheisha son of Rav Idi introducing the *ma ha-tzad* (common denominator) argument with melika and chelev/dam as the two cases, which directly matches the 'Common Denominator' section's prose about raising the *ma ha-tzad ha-shaveh* possibility, not the 'Baal Mum Challenge' where it currently sits.",
+      "chosen_heading": "Common Denominator",
+      "current_heading": "Baal Mum Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Yotzei Dofen",
+    "candidates": [
+      "Baal Mum Challenge",
+      "Yotzei Dofen",
+      "Treifa Hidden Flaw"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Baal Mum Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the chelev/dam/melika tzad ha-shaveh argument and Rav Ashi's baal mum reframing, which the 'Baal Mum Challenge' prose explicitly describes.",
+      "second_heading": "Yotzei Dofen",
+      "second_confidence": "high",
+      "second_reason": "Items 5-11 begin Rav Acha Sava's yotzei dofen challenge and the subsequent chazer ha-din/hutrah mi-khlalah discussion, which the 'Yotzei Dofen' prose covers in full detail.",
+      "current_heading": "Yotzei Dofen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Treifa Hidden Flaw",
+    "candidates": [
+      "Treifa Hidden Flaw",
+      "Need for Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'muman nikar' refutation and the conclusion that a verse was necessary because the treifa's hidden flaw makes it logically non-excludable \u2014 exactly what the 'Treifa Hidden Flaw' prose describes.",
+      "chosen_heading": "Treifa Hidden Flaw",
+      "current_heading": "Treifa Hidden Flaw",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Need for Pasuk",
+    "candidates": [
+      "Need for Pasuk",
+      "Three Pesukim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly questions whether the disqualification of tereifa is derived from the Torah verse or from the Yechezkel verse 'mimashkei Yisrael,' which is precisely what the prose under 'Need for Pasuk' describes.",
+      "chosen_heading": "Need for Pasuk",
+      "current_heading": "Need for Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Three Pesukim",
+    "candidates": [
+      "Three Pesukim",
+      "Never vs. Later Treifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the derivation from 'mikol asher ya'avor tachat ha-shevet' excluding a tereifa, which is exactly what heading 0's prose describes as the second of the three pesukim needed.",
+      "chosen_heading": "Three Pesukim",
+      "current_heading": "Three Pesukim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Never vs. Later Treifa",
+    "candidates": [
+      "Never vs. Later Treifa",
+      "Mincha Invalidities List",
+      "Zar & Kamitza",
+      "Disqualified Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the classic tzerichi argument explaining why all three verses are necessary, which is precisely what the 'Never vs. Later Treifa' prose describes in detail, including the orla/kilayei ha-kerem comparison, the hikdishah u-levasof nitreifa case, and the final conclusion that all three are necessary.",
+      "chosen_heading": "Never vs. Later Treifa",
+      "current_heading": "Never vs. Later Treifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Disqualified Kohanim",
+    "candidates": [
+      "Mincha Invalidities List",
+      "Zar & Kamitza",
+      "Disqualified Kohanim",
+      "Left Hand Kamitza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, which belongs under 'Mincha Invalidities List' \u2014 the heading whose prose explicitly introduces this very Mishnah as the next one the Gemara moves to, covering the categories of individuals whose kamitza invalidates the mincha.",
+      "chosen_heading": "Mincha Invalidities List",
+      "current_heading": "Disqualified Kohanim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Left Hand Kamitza",
+    "candidates": [
+      "Disqualified Kohanim",
+      "Left Hand Kamitza",
+      "Pebbles in Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the left-hand kamitza ruling and Ben Beteira's response, which is precisely what the 'Left Hand Kamitza' section's prose discusses in detail.",
+      "chosen_heading": "Left Hand Kamitza",
+      "current_heading": "Left Hand Kamitza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Pebbles in Kometz",
+    "candidates": [
+      "Pebbles in Kometz",
+      "Mincha Sinner Phrase",
+      "Rabbi Shimon & Beauty",
+      "Zevachim Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mechanics of kamitza \u2014 foreign items (pebble, salt, frankincense) making the kometz pasul, and defines yater (overflowing) and chaser (fingertips), which is precisely what the 'Pebbles in Kometz' prose describes.",
+      "chosen_heading": "Pebbles in Kometz",
+      "current_heading": "Pebbles in Kometz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Zevachim Parallel",
+    "candidates": [
+      "Mincha Sinner Phrase",
+      "Rabbi Shimon & Beauty",
+      "Zevachim Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form one continuous Gemara discussion covering exactly what heading 2 ('Zevachim Parallel') describes: the Mishnah's explicit mention of minchat chotei, the Rabbi Shimon baraita (items 2-3), the Zevachim parallel challenge (items 4-5), and the resolution about the first clause not being like Rabbi Shimon (item 6) \u2014 all of which are laid out in the prose of heading 2.",
+      "chosen_heading": "Zevachim Parallel",
+      "current_heading": "Zevachim Parallel",
+      "moved": false
+    }
+  }
+]

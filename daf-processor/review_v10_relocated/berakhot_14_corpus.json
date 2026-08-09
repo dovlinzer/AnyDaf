@@ -1,0 +1,410 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rabbi Meir's Logic",
+    "candidates": [
+      "Rabbi Meir's Logic",
+      "Rabbi Yehuda's View",
+      "Braita Framework",
+      "Tosafot on Kaddish",
+      "Hallel Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-5 together constitute the gemara's resolution via 'chasuri michasra' \u2014 establishing that Rabbi Meir's position means responding is needless to say (ein tzarich lomar), confirmed by the baraita \u2014 which is precisely what the 'Braita Framework' prose describes.",
+      "chosen_heading": "Braita Framework",
+      "current_heading": "Rabbi Meir's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Hallel Status",
+    "candidates": [
+      "Rabbi Yehuda's View",
+      "Braita Framework",
+      "Tosafot on Kaddish",
+      "Hallel Status",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma posed by the tanna from Rabbi Chiyya's school about interrupting Hallel and Megilla, including the kal vachomer and the pirsumei nisa counterargument, which is precisely what the 'Hallel Status' prose describes.",
+      "chosen_heading": "Hallel Status",
+      "current_heading": "Hallel Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Rava's Distinction",
+      "Rav Bar Shaba Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 0's prose: Rabbi Chiyya's terse response ('posek ve'ein bekach klum') followed by Rabba's distinction between full Hallel and chatzi Hallel regarding mid-chapter vs. between-chapter interruptions.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Rava's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Rav Bar Shaba Case",
+    "candidates": [
+      "Rav Bar Shaba Case",
+      "Yachid Definition",
+      "Taste Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge from Rav bar Shaba's visit to Ravina and its resolution, which the 'Rav Bar Shaba Case' prose describes precisely and in full.",
+      "chosen_heading": "Rav Bar Shaba Case",
+      "current_heading": "Rav Bar Shaba Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Taste Definition",
+    "candidates": [
+      "Yachid Definition",
+      "Taste Definition",
+      "Revi'it Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma about whether a person fasting accepted upon himself to refrain from eating/drinking or from deriving pleasure, which is precisely what the 'Taste Definition' section's prose describes.",
+      "chosen_heading": "Taste Definition",
+      "current_heading": "Taste Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Revi'it Measure",
+    "candidates": [
+      "Revi'it Measure",
+      "Tosafot Spitting",
+      "Altar Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the ruling that tasting is permissible for a faster, the question of how much, and Rav Ami and Rav Asi's answer of a revi'it \u2014 are exactly what the 'Revi'it Measure' prose describes in detail.",
+      "chosen_heading": "Revi'it Measure",
+      "current_heading": "Revi'it Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Altar Metaphor",
+    "candidates": [
+      "Tosafot Spitting",
+      "Altar Metaphor",
+      "Shmuel's Point",
+      "Rav Sheshet Q",
+      "Incidental vs. Deliberate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav's bamah statement, Shmuel's elaboration, and Rav Sheshet's objection \u2014 belong together under 'Altar Metaphor' (index 1), as they form a single continuous dispute chain about greeting before prayer, and the prose there explicitly introduces both Rav's ruling and its connection to earlier themes, with the objection naturally following.",
+      "chosen_heading": "Altar Metaphor",
+      "current_heading": "Altar Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Incidental vs. Deliberate",
+    "candidates": [
+      "Shmuel's Point",
+      "Rav Sheshet Q",
+      "Incidental vs. Deliberate",
+      "Personal Matters Ban",
+      "Tzedek First"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Incidental vs. Deliberate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Abba's resolution of the incidental-vs-deliberate distinction, which matches exactly the 'Incidental vs. Deliberate' prose about mashkim lefischo.",
+      "second_heading": "Personal Matters Ban",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Zeira's ruling that attending to personal affairs (chafatzav) before praying is forbidden, which matches the 'Personal Matters Ban' prose that explicitly discusses chafatzav and generalizing the principle.",
+      "current_heading": "Incidental vs. Deliberate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Tzedek First",
+    "candidates": [
+      "Personal Matters Ban",
+      "Tzedek First",
+      "God Provides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the prohibition against attending to personal affairs before prayer, which matches the 'Personal Matters Ban' prose exactly, while the current placement under 'Tzedek First' focuses on the scriptural source and its interpretation rather than the prohibition itself.",
+      "chosen_heading": "Personal Matters Ban",
+      "current_heading": "Tzedek First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "God Provides",
+    "candidates": [
+      "Tzedek First",
+      "God Provides",
+      "Dreams & Evil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about praying before setting out on a journey and God tending to one's affairs, which is exactly what the 'God Provides' prose section discusses, including the same rabbinic figures, the same promise, and the same pasuk.",
+      "chosen_heading": "God Provides",
+      "current_heading": "God Provides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Dreams & Evil",
+    "candidates": [
+      "Dreams & Evil",
+      "Torah Sleep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbi Yona/Rabbi Zeira statement about seven nights without a dream being called evil, which is exactly what the 'Dreams & Evil' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Dreams & Evil",
+      "current_heading": "Dreams & Evil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Torah Sleep",
+    "candidates": [
+      "Torah Sleep",
+      "No Interruption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly what the 'Torah Sleep' prose describes: Rav A\u1e25a son of Rabbi \u1e24iyya bar Abba citing Rabbi Yo\u1e25anan's teaching that one who satiates himself with Torah before sleep will not be visited by evil tidings.",
+      "chosen_heading": "Torah Sleep",
+      "current_heading": "Torah Sleep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "No Interruption",
+    "candidates": [
+      "No Interruption",
+      "Emet Repetition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Interruption",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the ruling that the halacha follows Rabbi Yehuda \u2014 no interruption between eloheichem and emet veyatziv \u2014 which matches the 'No Interruption' prose exactly.",
+      "second_heading": "Emet Repetition",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the verse 'Hashem Eloheichem emet') is the scriptural proof for Rabbi Yehuda's reason, which the 'Emet Repetition' prose explicitly introduces as the basis for the practical question about repeating the word emet.",
+      "current_heading": "No Interruption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Emet Repetition",
+    "candidates": [
+      "Emet Repetition",
+      "Emet Emet Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the opening question about whether to repeat 'emet,' which directly matches the prose in heading 0 that discusses this exact question and Rabbi Yochanan's position, before Rava's disagreement introduced in heading 1.",
+      "chosen_heading": "Emet Repetition",
+      "current_heading": "Emet Repetition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Emet Emet Problem",
+    "candidates": [
+      "Emet Emet Problem",
+      "Western Skip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Yo\u1e25anan/Rabbi Abbahu and Rabba about repeating 'emet,' and the anecdote of the prayer leader saying 'emet emet' twice before Rabba \u2014 exactly what the 'Emet Emet Problem' prose section addresses.",
+      "chosen_heading": "Emet Emet Problem",
+      "current_heading": "Emet Emet Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Western Skip",
+    "candidates": [
+      "Western Skip",
+      "Complete or Skip",
+      "Starting Point"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Western Skip",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's introduction of the Eretz Yisrael practice of abbreviating parashat tzitzit at night, which is precisely what the 'Western Skip' prose describes.",
+      "second_heading": "Complete or Skip",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's objection invoking Rav Kahana/Rav's ruling that one must complete what one begins, which is exactly what the 'Complete or Skip' prose discusses.",
+      "current_heading": "Western Skip",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Starting Point",
+    "candidates": [
+      "Complete or Skip",
+      "Starting Point",
+      "Babylonian Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Pappa explaining the Eretz Yisrael position that even 've'amarta aleihem' is not a starting point until 've'asu lahem tzitzit,' which is precisely what the 'Starting Point' section's prose discusses.",
+      "chosen_heading": "Starting Point",
+      "current_heading": "Starting Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Babylonian Practice",
+    "candidates": [
+      "Babylonian Practice",
+      "Conditional Emet",
+      "Yetziat Mitzrayim",
+      "Ga'al Yisrael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Abaye's conclusion about Babylonian practice \u2014 beginning and completing the parasha of tzitzit at night \u2014 which is precisely what the 'Babylonian Practice' section's prose discusses.",
+      "chosen_heading": "Babylonian Practice",
+      "current_heading": "Babylonian Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Ga'al Yisrael",
+    "candidates": [
+      "Conditional Emet",
+      "Yetziat Mitzrayim",
+      "Ga'al Yisrael",
+      "Custom Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous sugya about \u1e24iyya bar Rav's ruling on reciting 'emet' conditionally \u2014 item 1 states the ruling, item 2 raises the objection about yetziat Mitzrayim, and item 3 resolves it \u2014 and candidate 0 ('Conditional Emet') describes exactly this ruling and its logic, making it the clearest match rather than the current placement under 'Ga'al Yisrael'.",
+      "chosen_heading": "Conditional Emet",
+      "current_heading": "Ga'al Yisrael",
+      "moved": true
+    }
+  }
+]

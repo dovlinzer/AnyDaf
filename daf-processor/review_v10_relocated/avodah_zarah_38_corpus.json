@@ -1,0 +1,444 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Devarim Prooftext",
+    "candidates": [
+      "Opening & Shlakot",
+      "Tosafot's Source",
+      "Devarim Prooftext",
+      "Kamayim Principle",
+      "Roasted & Ground Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's derivation from the Deuteronomy verse (Sihon episode), which is precisely what the 'Devarim Prooftext' section's prose describes \u2014 the scriptural allusion from Sefer Devarim chapter 2 about food and water for money.",
+      "chosen_heading": "Devarim Prooftext",
+      "current_heading": "Devarim Prooftext",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Roasted & Ground Grain",
+    "candidates": [
+      "Kamayim Principle",
+      "Roasted & Ground Grain",
+      "Heating Element",
+      "Derabbanan Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Roasted & Ground Grain",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the roasted grain case and the basic 'not altered from its original state' formulation, which matches the 'Roasted & Ground Grain' prose exactly.",
+      "second_heading": "Heating Element",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the refinement 'al yedei ha'or' (by fire) as the operative criterion, which is precisely what the 'Heating Element' prose discusses.",
+      "current_heading": "Roasted & Ground Grain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Derabbanan Status",
+    "candidates": [
+      "Heating Element",
+      "Derabbanan Status",
+      "Rashi vs. Tosafot",
+      "Ra'avad Permissive",
+      "Rejection & Reasoning",
+      "Modern Context",
+      "Rav Shmuel: Chi",
+      "Pumbedita Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge 'is fire written in the verse?' and the conclusion that the prohibition is rabbinic with the verse as mere asmachta \u2014 are precisely what candidate 1 ('Derabbanan Status') describes in its prose, making the current placement correct.",
+      "chosen_heading": "Derabbanan Status",
+      "current_heading": "Derabbanan Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Pumbedita Criterion",
+    "candidates": [
+      "Rashi vs. Tosafot",
+      "Ra'avad Permissive",
+      "Rejection & Reasoning",
+      "Modern Context",
+      "Rav Shmuel: Chi",
+      "Pumbedita Criterion",
+      "Examples & Salting",
+      "Fried Fish & Harsana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the Sura and Pumbedita versions of Rav Shmuel bar Rav Yitz\u1e25ak's ruling and their practical difference (small fish, mushrooms, porridge), which is exactly what candidate 4 ('Rav Shmuel: Chi') introduces \u2014 the raw-food criterion and its underlying logic \u2014 while candidate 5 ('Pumbedita Criterion') already contains the full prose explanation of both versions and their practical differences, meaning the passage is displaced one heading too late and actually belongs under heading 4, which sets up this very teaching.",
+      "chosen_heading": "Rav Shmuel: Chi",
+      "current_heading": "Pumbedita Criterion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Fried Fish & Harsana",
+    "candidates": [
+      "Examples & Salting",
+      "Fried Fish & Harsana",
+      "Ikar Question",
+      "Honey & Cheese",
+      "Singeing Head"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Examples & Salting",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the salted fish ruling (dagim ktanim mluchim) and the kasa deharsena case, matching heading 0 ('Examples & Salting') for the first part and heading 1 ('Fried Fish & Harsana') for the second \u2014 but since item 1 is a single continuous Talmudic passage and heading 0's prose explicitly mentions salted fish while heading 1's prose explicitly discusses kasa deharsena, item 1 as a whole is best placed under heading 1 where it currently sits, as it contains both rulings together.",
+      "second_heading": "Ikar Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the pshita question and its resolution about ikar (flour vs. fish), which is precisely what heading 2 ('Ikar Question') describes in its prose.",
+      "current_heading": "Fried Fish & Harsana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Singeing Head",
+    "candidates": [
+      "Ikar Question",
+      "Honey & Cheese",
+      "Singeing Head",
+      "Peg & Gourd"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form one continuous sugya about the marsh-fire case (Rav Beruna's ruling, the objection from the singed head case, and the resolution), which is precisely what the 'Singeing Head' prose describes in detail.",
+      "chosen_heading": "Singeing Head",
+      "current_heading": "Singeing Head",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Peg & Gourd",
+    "candidates": [
+      "Peg & Gourd",
+      "Kavanah Required",
+      "Meat on Coals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the peg-and-gourd case (sikta and kra) along with the introductory ruling about the singed animal head, which is exactly what the 'Peg & Gourd' section prose describes.",
+      "chosen_heading": "Peg & Gourd",
+      "current_heading": "Peg & Gourd",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Meat on Coals",
+    "candidates": [
+      "Kavanah Required",
+      "Meat on Coals",
+      "Hastening Cooking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Rav Yehuda/Shmuel ruling about a Jew placing meat on coals and a gentile turning it, which is precisely what the 'Meat on Coals' prose section describes, including the same analysis of the obvious case versus the more interesting case.",
+      "chosen_heading": "Meat on Coals",
+      "current_heading": "Meat on Coals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Hastening Cooking",
+    "candidates": [
+      "Hastening Cooking",
+      "Techilo V'Gemaro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the question of whether hastening cooking (kruvei bishula) is significant, the ben Derosai threshold in that context, and the baraita examples of a gentile turning meat or stirring a pot \u2014 all of which are explicitly discussed in the 'Hastening Cooking' prose.",
+      "chosen_heading": "Hastening Cooking",
+      "current_heading": "Hastening Cooking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Techilo V'Gemaro",
+    "candidates": [
+      "Techilo V'Gemaro",
+      "Bread Combinations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the rule of techilo v'gemaro \u2014 whether beginning and end of cooking must both be by a gentile for bishul akum to apply \u2014 which is precisely what the prose under heading 0 explains.",
+      "chosen_heading": "Techilo V'Gemaro",
+      "current_heading": "Techilo V'Gemaro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Bread Combinations",
+    "candidates": [
+      "Bread Combinations",
+      "Salted Fish",
+      "Roasted Egg"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's halakhic ruling about permitted bread combinations (gentile lit/Jew baked, Jew lit/gentile baked, gentile lit/gentile baked with Jewish stoking), which is precisely what the 'Bread Combinations' prose discusses.",
+      "chosen_heading": "Bread Combinations",
+      "current_heading": "Bread Combinations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Roasted Egg",
+    "candidates": [
+      "Salted Fish",
+      "Roasted Egg",
+      "Reish Galuta Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both salted fish and roasted eggs together (including Rav Dimi's summary), and the 'Salted Fish' section prose explicitly discusses the Chizkiyah/Rabbi Yochanan dispute on salted fish and anticipates the full passage, while the 'Roasted Egg' section prose separately discusses only the egg dispute \u2014 the passage as a whole, starting with salted fish, belongs under the 'Salted Fish' heading.",
+      "chosen_heading": "Salted Fish",
+      "current_heading": "Roasted Egg",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Reish Galuta Story",
+    "candidates": [
+      "Roasted Egg",
+      "Reish Galuta Story",
+      "Baraita Foods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Chiyya of Parva at the Exilarch's home, Rav Zevid's intervention, and his death from vinegar \u2014 exactly what the 'Reish Galuta Story' prose discusses in detail.",
+      "chosen_heading": "Reish Galuta Story",
+      "current_heading": "Reish Galuta Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Baraita Foods",
+    "candidates": [
+      "Baraita Foods",
+      "Matlya Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing permitted foods (capers, leeks, matlya, hot water, roasted grains), the prohibition on roasted eggs, and Rabbi Yehuda HaNasi's permitting of oil \u2014 exactly what heading 0 'Baraita Foods' discusses in its prose.",
+      "chosen_heading": "Baraita Foods",
+      "current_heading": "Baraita Foods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Matlya Definition",
+    "candidates": [
+      "Matlya Definition",
+      "Shiata Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the identification of matlya/pashlya/shiata and the forty/sixty years dispute, which is precisely what the 'Matlya Definition' prose describes.",
+      "chosen_heading": "Matlya Definition",
+      "current_heading": "Matlya Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Shiata Process",
+    "candidates": [
+      "Shiata Process",
+      "Shiata Use",
+      "Rav Ashi Skeptical",
+      "Kusfan Vessel Size",
+      "Vessel Size Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the full preparation process AND the use/eating of shiata plus cooling effect AND Rav Ashi's skeptical comment, spanning candidates 1 and 2, but since the passage is a single unified Talmudic excerpt describing the entire shiata narrative including its use and Rav Ashi's reaction, candidate 1 ('Shiata Use') best captures the bulk of the content \u2014 the going to the bathhouse, eating, and cooling effect \u2014 with Rav Ashi's comment being a natural conclusion; however, candidate 0 ('Shiata Process') is the current placement and also covers the preparation steps, while candidate 2 covers Rav Ashi specifically. Since the passage contains all elements, the current placement under 'Shiata Process' is reasonable but candidate 1 covers more of the passage's content including the use and Rav Ashi quote which are prominent features of the text.",
+      "chosen_heading": "Shiata Use",
+      "current_heading": "Shiata Process",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Vessel Size Details",
+    "candidates": [
+      "Shiata Use",
+      "Rav Ashi Skeptical",
+      "Kusfan Vessel Size",
+      "Vessel Size Details",
+      "Vessel Conflict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover the baraita about kusfan vessel size and Rabbi Yannai's definition of a small vessel, which is precisely what candidate 2 ('Kusfan Vessel Size') describes, while candidate 3 ('Vessel Size Details') already covers the same content \u2014 the passage should move to candidate 2 as the introductory baraita and the vessel-size discussion belong together under that heading.",
+      "chosen_heading": "Kusfan Vessel Size",
+      "current_heading": "Vessel Size Details",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Vessel Conflict",
+    "candidates": [
+      "Vessel Size Details",
+      "Vessel Conflict",
+      "Oil Forbidden",
+      "Rav Safra's Inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the conflicting baraita about large and small vessels being permitted and its resolution via the noten taam lifgam dispute, which is exactly what the 'Vessel Conflict' section's prose describes.",
+      "chosen_heading": "Vessel Conflict",
+      "current_heading": "Vessel Conflict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rav Safra's Inquiry",
+    "candidates": [
+      "Oil Forbidden",
+      "Rav Safra's Inquiry",
+      "Flavor Analysis",
+      "Sfek Sfeka",
+      "Boiled Dates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Sheshet's ruling AND Rav Safra's challenge together as a single unit, and heading 0 ('Oil Forbidden') introduces Rav Sheshet's ruling while heading 1 only covers Rav Safra's response \u2014 but since the passage is one inseparable exchange, it best belongs under heading 0 which opens the topic, as the essay's heading 1 prose already fully describes Rav Safra's content separately, meaning the combined passage was likely misplaced from heading 0.",
+      "chosen_heading": "Oil Forbidden",
+      "current_heading": "Rav Safra's Inquiry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Boiled Dates",
+    "candidates": [
+      "Flavor Analysis",
+      "Sfek Sfeka",
+      "Boiled Dates",
+      "Dates Ruling",
+      "Shtita Definition",
+      "Vinegar Concern",
+      "To Continue",
+      "Caper Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma about boiled dates of Arameans with the sweet/bitter/moderate trichotomy, which is precisely what the 'Boiled Dates' section prose describes.",
+      "chosen_heading": "Boiled Dates",
+      "current_heading": "Boiled Dates",
+      "moved": false
+    }
+  }
+]

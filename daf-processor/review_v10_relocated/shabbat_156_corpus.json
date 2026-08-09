@@ -1,0 +1,342 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Lisha Debate",
+    "candidates": [
+      "Mishna Setup",
+      "Lisha Debate",
+      "Bar Gibbul",
+      "Baraita Rejects",
+      "Kelli Kneading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous Lisha Debate: Item 1 presents the baraita dispute between Rabbi and Rabbi Yose bar Yehuda about flour/water liability, and Item 2 is the immediate challenge and rejection (via explicit baraita) of the suggestion that bran's lav bar gibul status might distinguish it \u2014 exactly what the 'Lisha Debate' prose describes.",
+      "chosen_heading": "Lisha Debate",
+      "current_heading": "Lisha Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Kelli Kneading",
+    "candidates": [
+      "Bar Gibbul",
+      "Baraita Rejects",
+      "Kelli Kneading",
+      "Shinui: Bit by Bit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about kneading kelli and Rav \u1e24isda's identification of the lenient opinion as Rabbi Yosei b'Rabbi Yehuda plus his specification of the shinui (al yad al yad), which is exactly the content described in the 'Kelli Kneading' prose \u2014 the passage has not yet moved into the broader shinui discussion that heading 3 develops.",
+      "chosen_heading": "Kelli Kneading",
+      "current_heading": "Kelli Kneading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Shinui: Bit by Bit",
+    "candidates": [
+      "Shinui: Bit by Bit",
+      "Shatis Method",
+      "Handlers Mixing",
+      "Maternal Grandfather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the permissibility of mixing shatis on Shabbat, the thick/thin distinction (belila ava vs. belila raka), and the requirement for shinui \u2014 all of which are precisely what the 'Shatis Method' prose discusses.",
+      "chosen_heading": "Shatis Method",
+      "current_heading": "Shinui: Bit by Bit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Maternal Grandfather",
+    "candidates": [
+      "Shatis Method",
+      "Handlers Mixing",
+      "Maternal Grandfather",
+      "Shinui Required",
+      "Cross Stirring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Yosef's ruling about reversing the order of vinegar and shatit (directly matching the 'Shatis Method' prose) and the story of Levi kicking the attendant plus the ruling of Rabbi Yirmeya bar Abba about kneading/feeding with shinui \u2014 all of which the 'Shatis Method' prose explicitly discusses as a unified unit ending with 'vahani mili huda meshani.'",
+      "chosen_heading": "Shatis Method",
+      "current_heading": "Maternal Grandfather",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Cross Stirring",
+    "candidates": [
+      "Shinui Required",
+      "Cross Stirring",
+      "Vessel Method",
+      "Zeiri Notebook",
+      "Animal Feeding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the warp-and-woof stirring method (shesi ve'erev) and the vessel-pouring alternative, and the current heading 'Cross Stirring' with its prose directly discusses both Rav Yeimar bar Shmaya's cross-directional shinui and the Gemara's objection that it doesn't mix well \u2014 making it the best match for this combined passage.",
+      "chosen_heading": "Cross Stirring",
+      "current_heading": "Cross Stirring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Animal Feeding",
+    "candidates": [
+      "Vessel Method",
+      "Zeiri Notebook",
+      "Animal Feeding",
+      "Levi Notebook"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records Ze'eiri's notebook entry (pinkas) with questions to Rabbi Chiyya about kneading and emptying, plus the subsequent rulings of Rav Menashya, Rav Yosef, and Ulla \u2014 all of which are explicitly discussed under the 'Zeiri Notebook' heading's prose, which covers exactly this content including Rabbi Chiyya's rulings and the pinkas context.",
+      "chosen_heading": "Zeiri Notebook",
+      "current_heading": "Animal Feeding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Levi Notebook",
+    "candidates": [
+      "Animal Feeding",
+      "Levi Notebook",
+      "Birth Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Levi's notebook entry about Rabbi Yehuda HaNasi's protest over kneading shatit in Babylonia and his inability to prohibit it due to Rabbi Yosei b'Rabbi Yehuda's opinion, which matches exactly the 'Levi Notebook' section's prose.",
+      "chosen_heading": "Levi Notebook",
+      "current_heading": "Levi Notebook",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Birth Days",
+    "candidates": [
+      "Birth Days",
+      "Mazal Debate",
+      "Celestial Bodies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover the day-of-the-week birth traits from Rabbi Yehoshua ben Levi's notebook (Sunday through Shabbat), which is precisely what the 'Birth Days' prose describes in detail.",
+      "chosen_heading": "Birth Days",
+      "current_heading": "Birth Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Celestial Bodies",
+    "candidates": [
+      "Mazal Debate",
+      "Celestial Bodies",
+      "Mars & Blood",
+      "Mazal & Jews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with Rabbi \u1e24anina's declaration that 'mazal sha'ah' (not 'mazal yom') determines character \u2014 which is precisely what the 'Mazal Debate' section prose describes \u2014 and then details all the planetary influences, which the 'Mazal Debate' prose explicitly covers including the full sequence of celestial bodies and the Mars/Rava exchange, making it the best single home for this entire passage.",
+      "chosen_heading": "Mazal Debate",
+      "current_heading": "Celestial Bodies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Mazal & Jews",
+    "candidates": [
+      "Mars & Blood",
+      "Mazal & Jews",
+      "Abraham Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the debate between Rabbi \u1e24anina and Rabbi Yo\u1e25anan about whether constellations influence Jews, which is precisely what the 'Mazal & Jews' section's prose describes.",
+      "chosen_heading": "Mazal & Jews",
+      "current_heading": "Mazal & Jews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Abraham Test",
+    "candidates": [
+      "Abraham Test",
+      "Shmuel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Rav/Rav Yehuda derivation from Abraham's astrological concern and God's response about Jupiter (Tzedek), which is precisely what the 'Abraham Test' prose describes in detail.",
+      "chosen_heading": "Abraham Test",
+      "current_heading": "Abraham Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Shmuel Case",
+    "candidates": [
+      "Shmuel Case",
+      "Akiva Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Shmuel/Ablet story about ein mazal l'Yisrael, which is precisely what the 'Shmuel Case' prose section describes in full detail.",
+      "chosen_heading": "Shmuel Case",
+      "current_heading": "Shmuel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Akiva Daughter",
+    "candidates": [
+      "Akiva Daughter",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together tell the complete story of Rabbi Akiva's daughter \u2014 the snake prophecy, her rescue by charity, and Rabbi Akiva's subsequent teaching \u2014 which is precisely what the 'Akiva Daughter' prose section describes.",
+      "chosen_heading": "Akiva Daughter",
+      "current_heading": "Akiva Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Rambam Letter",
+      "Gourds Issue",
+      "Muktzah Principle",
+      "Defective Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rav Nachman bar Yitzchak and his mother's encounter with the Chaldean astrologers, which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Defective Animals",
+    "candidates": [
+      "Rambam Letter",
+      "Gourds Issue",
+      "Muktzah Principle",
+      "Defective Animals",
+      "Ulla vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about cutting pumpkins before animals and carcasses before dogs directly matches the 'Gourds Issue' section prose, which introduces this exact mishna and the muktzah concern it raises.",
+      "chosen_heading": "Gourds Issue",
+      "current_heading": "Defective Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Ulla vs. Shmuel",
+    "candidates": [
+      "Defective Animals",
+      "Ulla vs. Shmuel",
+      "Levi's Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records Ulla and Shmuel's competing halakhic rulings, which is precisely what the 'Ulla vs. Shmuel' section's prose discusses.",
+      "chosen_heading": "Ulla vs. Shmuel",
+      "current_heading": "Ulla vs. Shmuel",
+      "moved": false
+    }
+  }
+]

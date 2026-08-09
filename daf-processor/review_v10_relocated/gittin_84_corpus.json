@@ -1,0 +1,372 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "R. Eliezer Intro",
+    "candidates": [
+      "R. Eliezer Intro",
+      "R. Shimon ben Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Eliezer's concession (modeh Rabbi Eliezer) that a woman becomes permitted to the excluded man after a subsequent marriage and widowhood/divorce, which is precisely what the 'R. Eliezer Intro' prose describes and analyzes in detail.",
+      "chosen_heading": "R. Eliezer Intro",
+      "current_heading": "R. Eliezer Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "R. Shimon ben Elazar",
+    "candidates": [
+      "R. Shimon ben Elazar",
+      "Undoing Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical chain \u2014 Rabbi Shimon bar Elazar's refutation and the two counterexamples (yevamah and nedarim) with their resolutions \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "R. Shimon ben Elazar",
+      "current_heading": "R. Shimon ben Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Undoing Restrictions",
+    "candidates": [
+      "Undoing Restrictions",
+      "Kerisus Argument",
+      "Rabbis' Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses hafarat ha-ba'al and the ruling of Rav Pinchas in the name of Rava (kol ha-noderet al da'at ba'alah hi noderet), which is precisely what the 'Undoing Restrictions' prose section addresses in detail.",
+      "chosen_heading": "Undoing Restrictions",
+      "current_heading": "Undoing Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rabbis' Approach",
+    "candidates": [
+      "Kerisus Argument",
+      "Rabbis' Approach",
+      "Hovering Conditions",
+      "Duration Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the content described in the 'Rabbis' Approach' prose: Rabbi Elazar ben Azarya's kerisus argument, the Rabbis' need for kerisus to teach the hovering-condition baraita, and the karet/kerisus double derasha \u2014 precisely what candidate 1 describes.",
+      "chosen_heading": "Rabbis' Approach",
+      "current_heading": "Rabbis' Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Duration Analysis",
+    "candidates": [
+      "Hovering Conditions",
+      "Duration Analysis",
+      "One-Day Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items\u2014Rava's initial ruling, the Gemara's challenge, and the revised formulation\u2014are precisely the content described in the 'Duration Analysis' prose, which traces the same sequence of Rava's case, the objection about the husband's own life, and the correction to 'all the days of your life.'",
+      "chosen_heading": "Duration Analysis",
+      "current_heading": "Duration Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "One-Day Get",
+    "candidates": [
+      "One-Day Get",
+      "Severance Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rava's dilemma to Rav Na\u1e25man about 'today you are not my wife, tomorrow you are my wife' and the elaboration of how it applies according to Rabbi Eliezer, which matches precisely the 'One-Day Get' prose discussion of that exact question framed from Rabbi Eliezer's perspective.",
+      "chosen_heading": "One-Day Get",
+      "current_heading": "One-Day Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Severance Principle",
+    "candidates": [
+      "Severance Principle",
+      "Reuven Marriage Condition",
+      "Rav Nachman's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the resolution of Rava's dilemma \u2014 concluding that 'once severed, severed' applies equally to Rabbi Eliezer and the Rabbis \u2014 which matches exactly the 'Severance Principle' prose's description of the gemara's conclusion that keivan de-paska paska applies according to both authorities.",
+      "chosen_heading": "Severance Principle",
+      "current_heading": "Severance Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Rav Nachman's Reading",
+    "candidates": [
+      "Reuven Marriage Condition",
+      "Rav Nachman's Reading",
+      "Rava's Challenge",
+      "Control Analysis",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita itself (item 1) and Rav Na\u1e25man's first interpretation of it (item 2), which together form exactly the content described in candidate 0's prose \u2014 introducing the 'harei zeh gittech al menat she-tinasi le-ploni' baraita and explaining the wife-swapping concern, before the gemara's challenge discussed in candidate 1.",
+      "chosen_heading": "Reuven Marriage Condition",
+      "current_heading": "Rav Nachman's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Rava's Challenge",
+      "Control Analysis",
+      "Resolution",
+      "Absurd Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous dispute chain (Rav Na\u1e25man's interpretation \u2192 Rava's challenge \u2192 the konam analogy \u2192 Rava's control objection \u2192 Rava's final resolution \u2192 confirming baraita) that matches exactly the prose of candidate 2, which describes Rava's resolution that she may marry neither Shimon nor anyone else, the 'lo teitzei'/'teitzei' distinction, and the baraita confirmation.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Absurd Conditions",
+    "candidates": [
+      "Absurd Conditions",
+      "R. Yehuda ben Teima"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing impossible conditions (ascending to sky, descending to depths, swallowing a reed, etc.) and ruling it is not a valid get, which is exactly what candidate 0's prose describes \u2014 candidate 1 covers R. Yehuda ben Teima's dissenting opinion, which is not present in this passage.",
+      "chosen_heading": "Absurd Conditions",
+      "current_heading": "Absurd Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "R. Yehuda ben Teima",
+    "candidates": [
+      "R. Yehuda ben Teima",
+      "Rav Nachman's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda ben Teima's ruling and principle, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "R. Yehuda ben Teima",
+      "current_heading": "R. Yehuda ben Teima",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav Nachman's Ruling",
+    "candidates": [
+      "Rav Nachman's Ruling",
+      "Abaye vs. Rava",
+      "Abaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Nachman's ruling in favor of Rabbi Yehuda ben Teima and Rav Nachman bar Yitzchak's corroboration from the Bava Metzia mishna, which is exactly what the 'Rav Nachman's Ruling' prose describes.",
+      "chosen_heading": "Rav Nachman's Ruling",
+      "current_heading": "Rav Nachman's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Abaye vs. Rava",
+      "Abaye's Position",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma and both Abaye's and Rava's responses together as a single unit, matching the 'Abaye vs. Rava' heading which frames the debate about whether impossible-to-fulfill conditions extend to halakhically forbidden acts.",
+      "chosen_heading": "Abaye vs. Rava",
+      "current_heading": "Abaye's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Abaye's Position",
+      "Rava's Position",
+      "Sexual Conditions",
+      "Others' Violations",
+      "Rava's Synthesis",
+      "Tosefta Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion elaborating Abaye and Rava's positions on the klal/kaze terms and the sexual-condition baraita challenge with Rava's resolution, which is exactly what the 'Rava's Position' prose describes as its content.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Tosefta Challenge",
+    "candidates": [
+      "Sexual Conditions",
+      "Others' Violations",
+      "Rava's Synthesis",
+      "Tosefta Challenge",
+      "Abaye's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Tosefta challenge about pig meat, teruma, and wine conditions that works well for Rava but is difficult for Abaye \u2014 exactly what the 'Tosefta Challenge' section's prose describes.",
+      "chosen_heading": "Tosefta Challenge",
+      "current_heading": "Tosefta Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Abaye's Response",
+    "candidates": [
+      "Abaye's Response",
+      "Matne al Mah Shekatuv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct response explaining that the baraita reflects only the Rabbanan's view, which matches exactly what the 'Abaye's Response' section prose describes.",
+      "chosen_heading": "Abaye's Response",
+      "current_heading": "Abaye's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Matne al Mah Shekatuv",
+    "candidates": [
+      "Matne al Mah Shekatuv",
+      "Rav Adda's Clarification",
+      "Ravina's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the complete sugya on 'matneh al mah she-katuv ba-Torah' \u2014 the initial challenge (item 1), Rav Adda's response (item 2), Ravina's objection (item 3), and Ravina's resolution (item 4) \u2014 which is exactly what heading 0's prose describes in full, including all the sub-arguments about she'erah/kesutah/onatah, who is doing the uprooting, and the lo teichol ve-lo tisgaresh conclusion.",
+      "chosen_heading": "Matne al Mah Shekatuv",
+      "current_heading": "Matne al Mah Shekatuv",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Judges' Assessment",
+    "candidates": [
+      "Memorial Remarks",
+      "Dinar Correction",
+      "Judges' Assessment",
+      "Rabban Shimon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text about judges' assessments being voided when off by one-sixth (shtu'sh) is precisely what the 'Judges' Assessment' section's prose introduces and discusses, making the current placement correct.",
+      "chosen_heading": "Judges' Assessment",
+      "current_heading": "Judges' Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rabban Shimon's Position",
+    "candidates": [
+      "Rabban Shimon's Position",
+      "Igeret Bikoret",
+      "Rashi on Hachrazah",
+      "Land Valuation Question",
+      "Shaliach Category",
+      "Rava & R. Shmuel Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabban Shimon ben Gamliel's ruling and the igeret bikoret clause, but the current heading's prose explicitly discusses Rabban Shimon's position including the 'mah ko'ach beis din yafeh' reasoning and the igeret bikoret as an addendum, making it the best fit; the igeret bikoret heading (index 1) discusses the same clause but as a separate section that the essay treats as following this passage.",
+      "chosen_heading": "Rabban Shimon's Position",
+      "current_heading": "Rabban Shimon's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Rava & R. Shmuel Dispute",
+    "candidates": [
+      "Igeret Bikoret",
+      "Rashi on Hachrazah",
+      "Land Valuation Question",
+      "Shaliach Category",
+      "Rava & R. Shmuel Dispute",
+      "Shaliach Like Widow",
+      "Paradox of Benefit",
+      "Why Be a Shaliach?",
+      "Terumah Range"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's dispute about whether an agent is like judges or a widow, including the reasoning for each position and the final halakhic ruling \u2014 exactly what the 'Rava & R. Shmuel Dispute' prose describes.",
+      "chosen_heading": "Rava & R. Shmuel Dispute",
+      "current_heading": "Rava & R. Shmuel Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Terumah Range",
+    "candidates": [
+      "Shaliach Like Widow",
+      "Paradox of Benefit",
+      "Why Be a Shaliach?",
+      "Terumah Range",
+      "Range vs. Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the exact mishnah about a shaliach separating terumah with a range of one-fortieth to one-sixtieth, which is precisely what the 'Terumah Range' section's prose describes and analyzes.",
+      "chosen_heading": "Terumah Range",
+      "current_heading": "Terumah Range",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Range vs. Error",
+    "candidates": [
+      "Range vs. Error",
+      "Market Context",
+      "Wheat Fields Pricing",
+      "Halacha Ruling (II)",
+      "Orphans' Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between the terumah range-of-practice case and the sale error case, which is exactly what the 'Range vs. Error' section's prose discusses.",
+      "chosen_heading": "Range vs. Error",
+      "current_heading": "Range vs. Error",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Orphans' Division",
+    "candidates": [
+      "Market Context",
+      "Wheat Fields Pricing",
+      "Halacha Ruling (II)",
+      "Orphans' Division",
+      "Challenge Division?",
+      "Error vs. Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's ruling that the halakha follows the Rabbis, followed immediately by the challenge about mah ko'ach beis din yafeh \u2014 which is precisely what candidate 2 ('Halacha Ruling (II)') introduces, with candidate 3 then developing the orphans' division context that the Gemara uses to raise the challenge.",
+      "chosen_heading": "Halacha Ruling (II)",
+      "current_heading": "Orphans' Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Error vs. Preference",
+    "candidates": [
+      "Challenge Division?",
+      "Error vs. Preference",
+      "Rabbi's Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's resolution of the apparent contradiction between Rav Nachman's rulings \u2014 distinguishing error (ta'ah) from preference (ruchot) \u2014 which is precisely what candidate 1 'Error vs. Preference' discusses in its prose.",
+      "chosen_heading": "Error vs. Preference",
+      "current_heading": "Error vs. Preference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Rabbi's Reversal",
+    "candidates": [
+      "Rabbi's Reversal",
+      "Two Story Versions",
+      "Reversal Irony",
+      "Law Always Reversed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two Story Versions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the two versions of the story (Rav Dimi's and Rav Safra's), which is exactly what candidate 1 'Two Story Versions' discusses \u2014 Rebbe acted then reversed vs. never acted in the first place.",
+      "second_heading": "Law Always Reversed",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the Gemara's suggestion that the two versions dispute whether a ruling erred in a matter of Mishna is revoked or not, which is precisely what candidate 3 'Law Always Reversed' discusses with its lema bahai kamifligi analysis.",
+      "current_heading": "Rabbi's Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Law Always Reversed",
+    "candidates": [
+      "Two Story Versions",
+      "Reversal Irony",
+      "Law Always Reversed",
+      "Authority Concept",
+      "Estate Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's rejection that everyone agrees 'to'eh bidvar mishnah chozer' and that the two versions differ only on historical facts, which is precisely what the 'Law Always Reversed' section's prose discusses.",
+      "chosen_heading": "Law Always Reversed",
+      "current_heading": "Law Always Reversed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Estate Liability",
+    "candidates": [
+      "Authority Concept",
+      "Estate Liability",
+      "No Announcement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous discussion of Rav Yosef's ruling about warranty (achrayus) resting on the orphans' estate when a widow or court sells estate property, which matches precisely the 'Estate Liability' section's prose description of this exact Gemara passage.",
+      "chosen_heading": "Estate Liability",
+      "current_heading": "Estate Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "No Announcement",
+    "candidates": [
+      "No Announcement",
+      "Announcement Terms",
+      "Right Price Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "No Announcement",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the extent of permissible error under Rabban Shimon ben Gamliel's ruling (up to half the value), which is the topic of the 'No Announcement' section's broader context but actually precedes it \u2014 however, items 3-7 match the 'No Announcement' prose exactly, covering Ameimar's ruling, the Gemara's question about 'na'asu', the mishna about shum ha-yetomim, and the challenge/resolution about hachrazah.",
+      "second_heading": "Right Price Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 map precisely onto candidate 2's prose ('Right Price Question'), which describes Ameimar's ruling, Rav Ashi's objection about shaveh be-shaveh, the Gemara's response 'lo be-d'achriz', and the igeret bikoret resolution \u2014 matching every element of items 3-7 in sequence.",
+      "current_heading": "No Announcement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Right Price Question",
+    "candidates": [
+      "Announcement Terms",
+      "Right Price Question",
+      "Land vs. Movable Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage resolves the contradiction by distinguishing items requiring announcements from those that don't, which is precisely what the 'Land vs. Movable Items' section discusses (ela le-olam de-lo achruz and the categories exempt from hachrazah).",
+      "chosen_heading": "Land vs. Movable Items",
+      "current_heading": "Right Price Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Land vs. Movable Items",
+    "candidates": [
+      "Land vs. Movable Items",
+      "Auction Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why slaves, movable property, and contracts are sold without public announcement, which directly corresponds to the prose in 'Land vs. Movable Items' that discusses these exact categories and their reasons for exemption from hachrazah.",
+      "chosen_heading": "Land vs. Movable Items",
+      "current_heading": "Land vs. Movable Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Auction Exceptions",
+    "candidates": [
+      "Auction Exceptions",
+      "Neharde'a Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the situational exception of selling without an announcement (akhrazta) for urgent needs \u2014 the 'if you wish say' reconciliation and the Neharde'a rule about head tax, sustenance, and burial \u2014 which is precisely what the 'Auction Exceptions' prose discusses, including explicit mention of le-kharga, mezonot, kevura, and mazbininan belo akhrazta.",
+      "chosen_heading": "Auction Exceptions",
+      "current_heading": "Auction Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Neharde'a Custom",
+    "candidates": [
+      "Neharde'a Custom",
+      "Perishable Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Neharde'a custom of not making announcements \u2014 item 1 states the principle and item 2 explains the social reason behind it \u2014 which is precisely what the 'Neharde'a Custom' prose section describes.",
+      "chosen_heading": "Neharde'a Custom",
+      "current_heading": "Neharde'a Custom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Perishable Timing",
+    "candidates": [
+      "Perishable Timing",
+      "Holiday Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Rav Yehuda/Shmuel vs. Rav \u1e24isda/Avimi dispute and its resolution ('ve-lo peligi') about selling orphans' movable property immediately vs. on market day, which is precisely what the 'Perishable Timing' prose describes in detail.",
+      "chosen_heading": "Perishable Timing",
+      "current_heading": "Perishable Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Holiday Timing",
+    "candidates": [
+      "Holiday Timing",
+      "Shipping Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Kahana delaying the sale of orphan's beer until the Festival for a better cash price, which matches exactly the 'Holiday Timing' section's prose about selling at the regel for immediate cash payment.",
+      "chosen_heading": "Holiday Timing",
+      "current_heading": "Holiday Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Shipping Risk",
+    "candidates": [
+      "Shipping Risk",
+      "Discretion Balance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravina transporting the orphan's wine to Sikhra and Rav Ashi's ruling that the orphan's wine is no better than his own, which is precisely the shipping risk scenario discussed in candidate 0's prose.",
+      "chosen_heading": "Shipping Risk",
+      "current_heading": "Shipping Risk",
+      "moved": false
+    }
+  }
+]

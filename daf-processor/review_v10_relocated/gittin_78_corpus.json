@@ -1,0 +1,658 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Oshaya's Position",
+    "candidates": [
+      "Daf Identification",
+      "Kinyan vs. Act of Giving",
+      "Two Models of Transfer",
+      "Mishna Emphasis",
+      "Ulla's Position",
+      "Oshaya's Position",
+      "Mishtameret Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents both Ulla's position (she must be next to her house/courtyard) and Rabbi Oshaya's position (even different cities works) together, and candidate 4 'Ulla's Position' is where this dual presentation belongs \u2014 the current placement under 'Oshaya's Position' splits a single textual unit that introduces both opinions simultaneously.",
+      "chosen_heading": "Ulla's Position",
+      "current_heading": "Oshaya's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Mishtameret Principle",
+    "candidates": [
+      "Oshaya's Position",
+      "Mishtameret Principle",
+      "Chatzer Models Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's challenge ('But isn't it taught she is in her house and in her courtyard?') and the hachi ka'amar answer ('she is like one who is in her house/courtyard'), which is precisely what Oshaya's Position prose discusses \u2014 the forced reading of the mishna and the mishtameret principle conclusion \u2014 making heading 0 the clearly better match than the current placement under 'Mishtameret Principle.'",
+      "chosen_heading": "Oshaya's Position",
+      "current_heading": "Mishtameret Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Chatzer Models Debate",
+    "candidates": [
+      "Chatzer Models Debate",
+      "Chatzer Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's suggestion that the dispute between Ulla and Oshaya maps onto the yad vs. shlichus debate, which is precisely what the 'Chatzer Models Debate' prose describes.",
+      "chosen_heading": "Chatzer Models Debate",
+      "current_heading": "Chatzer Models Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Chatzer Resolution",
+    "candidates": [
+      "Chatzer Resolution",
+      "Physical Proximity Model",
+      "Yad: Physical vs Concept",
+      "Control Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that everyone agrees chatzer is included as an extension of her hand (d'chulei alma) and introduces Ulla's position that chatzer must be spatially adjacent like her hand, which is precisely what the 'Chatzer Resolution' prose describes as the Gemara's resolution and the opening of the debate.",
+      "chosen_heading": "Chatzer Resolution",
+      "current_heading": "Chatzer Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Control Model",
+    "candidates": [
+      "Physical Proximity Model",
+      "Yad: Physical vs Concept",
+      "Control Model",
+      "Get on Wood Piece"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection of the literal 'attached' reading of yad and the pivot to the conceptual 'secured with her knowledge' reading, which is precisely what the 'Yad: Physical vs Concept' section's prose describes.",
+      "chosen_heading": "Yad: Physical vs Concept",
+      "current_heading": "Control Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Get on Wood Piece",
+    "candidates": [
+      "Control Model",
+      "Get on Wood Piece",
+      "Space Boundaries",
+      "Lending Space Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of a man throwing a get that lands on a piece of wood, and Rav Yosef's ruling about four amos constituting a separate domain, which is precisely what the 'Get on Wood Piece' section's prose summarizes.",
+      "chosen_heading": "Get on Wood Piece",
+      "current_heading": "Get on Wood Piece",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Lending Space Concept",
+    "candidates": [
+      "Space Boundaries",
+      "Lending Space Concept",
+      "Four Amot & Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the challenge-and-answer sequence about whose courtyard is involved, which is precisely what candidate 0 ('Space Boundaries') describes in its prose, whereas candidate 1 describes the lending-space answer as already resolved and moves on to deeper analysis.",
+      "chosen_heading": "Space Boundaries",
+      "current_heading": "Lending Space Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Four Amot & Names",
+    "candidates": [
+      "Lending Space Concept",
+      "Four Amot & Names",
+      "Husband's Bed Problem",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the two refinements about height (ten tefachim) and named identity (shem levai) as conditions for separate domain status, which is precisely what the 'Four Amot & Names' prose describes with the phrases v'lo amran ela delo gavo'ah asarah and v'lo amran ela deleis lei shem levai.",
+      "chosen_heading": "Four Amot & Names",
+      "current_heading": "Four Amot & Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Husband's Bed Problem",
+      "Rava's Distinction",
+      "Vessel in Seller's Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's distinction between his bed and her bed, and the confirming baraita from Rabbi Eliezer \u2014 are precisely what the 'Rava's Distinction' prose describes, making the current placement correct.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Rava's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Vessel in Seller's Domain",
+    "candidates": [
+      "Vessel in Seller's Domain",
+      "Ten Tefachim Height",
+      "Lo Makpid Principle",
+      "Lap Case",
+      "Lap Explanation",
+      "Suspended Basket",
+      "Tied Basket",
+      "Between Thighs Case",
+      "Rashi's Lo Makpid",
+      "Basket Seller Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the kelay shel lokeach birshut mocher question raised by the bed case and the resolution via the ten-tefachim height, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Vessel in Seller's Domain",
+      "current_heading": "Vessel in Seller's Domain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Basket Seller Case",
+    "candidates": [
+      "Ten Tefachim Height",
+      "Lo Makpid Principle",
+      "Lap Case",
+      "Lap Explanation",
+      "Suspended Basket",
+      "Tied Basket",
+      "Between Thighs Case",
+      "Rashi's Lo Makpid",
+      "Basket Seller Case",
+      "Yochanan: Woman's Right",
+      "Rava on Lo Makpid",
+      "Baraita on Baskets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of the lap/basket case \u2014 the initial question (why does the basket work?), Shmuel/Rabbi Oshaya/Reish Lakish's answers about suspension and tying, and Rav Adda/Rav Mesharshiyya's answers \u2014 and heading 2 ('Lap Case') is where the essay introduces this entire discussion, with the subsequent headings covering the individual answers in detail; however, since items 1\u20133 span the opening question through all the answers, the best single home that covers the full passage as introduced is heading 2, though headings 3\u20138 each cover sub-portions.",
+      "chosen_heading": "Lap Case",
+      "current_heading": "Basket Seller Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Baraita on Baskets",
+    "candidates": [
+      "Yochanan: Woman's Right",
+      "Rava on Lo Makpid",
+      "Baraita on Baskets",
+      "Debt Document Case",
+      "Sleeping Wife Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yochanan's ruling, Rava's explanation, and the baraita with its expansion to the taska \u2014 are covered together in candidate 2's prose, which discusses exactly this chain: the baraita confirming lap/basket validity, the 'kol davar shekaltah' expansion, and the taska illustration.",
+      "chosen_heading": "Baraita on Baskets",
+      "current_heading": "Baraita on Baskets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Sleeping Wife Case",
+    "candidates": [
+      "Debt Document Case",
+      "Sleeping Wife Case",
+      "Why Explicit Naming",
+      "Tosafot Position",
+      "Witnesses Case",
+      "Rambam Position",
+      "Picking Up Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Debt Document Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the debt-document/found-behind-him cases, which candidate 0 ('Debt Document Case') explicitly discusses \u2014 the husband saying 'take this business document' and it not being valid until he names it a get.",
+      "second_heading": "Sleeping Wife Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the sleeping wife case, which candidate 1 ('Sleeping Wife Case') directly addresses \u2014 placing the get in her hand while asleep and it not being valid until he tells her.",
+      "current_heading": "Sleeping Wife Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Picking Up Issue",
+    "candidates": [
+      "Why Explicit Naming",
+      "Tosafot Position",
+      "Witnesses Case",
+      "Rambam Position",
+      "Picking Up Issue",
+      "Ground Pick-up Ruled Out",
+      "Jutting Out Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items discuss the problem that picking up the get from behind the husband is equivalent to taking it off the ground \u2014 exactly what candidate 4 ('Picking Up Issue') describes, with Rava's ruling serving as the supporting proof that this is the core problem.",
+      "chosen_heading": "Picking Up Issue",
+      "current_heading": "Picking Up Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Jutting Out Solution",
+    "candidates": [
+      "Ground Pick-up Ruled Out",
+      "Jutting Out Solution",
+      "Baraita Parallel",
+      "Rabbi's Position",
+      "R. S. ben Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'jutting out his waist' (da'arak chartzei) solution to the problem of her pulling the get, which is exactly what the 'Jutting Out Solution' prose describes.",
+      "chosen_heading": "Jutting Out Solution",
+      "current_heading": "Jutting Out Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "R. S. ben Elazar",
+    "candidates": [
+      "Baraita Parallel",
+      "Rabbi's Position",
+      "R. S. ben Elazar",
+      "Consciousness Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita text itself (the two parallel scenarios with Rabbi's and Rabbi Shimon ben Elazar's positions), which belongs under 'Baraita Parallel' \u2014 the heading whose prose explicitly describes these very scenarios from the baraita, whereas the current placement under 'R. S. ben Elazar' only covers his ruling in isolation.",
+      "chosen_heading": "Baraita Parallel",
+      "current_heading": "R. S. ben Elazar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Consciousness Factor",
+    "candidates": [
+      "R. S. ben Elazar",
+      "Consciousness Factor",
+      "Sleeping Slave Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the classic tzricha argument explaining why both cases (misrepresentation/awake and sleeping) are needed to establish the full scope of the dispute \u2014 exactly what the 'Consciousness Factor' prose describes in detail.",
+      "chosen_heading": "Consciousness Factor",
+      "current_heading": "Consciousness Factor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Sleeping Slave Works",
+    "candidates": [
+      "Sleeping Slave Works",
+      "Awake Slave Fails",
+      "Slave as Moving Domain",
+      "Rava on Movement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sleeping Slave Works",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rava's full ruling covering both the sleeping slave (valid get) and awake slave (invalid get) cases, which matches heading 0's prose about the sleeping slave being valid and heading 1's prose about the awake slave failing \u2014 but item 1 covers both cases as a single ruling unit, and since heading 0 is the current placement and introduces the ruling, it fits there; however, item 2 raises the 'chatzer mehalechet' objection, which is precisely what heading 2 'Slave as Moving Domain' discusses.",
+      "second_heading": "Slave as Moving Domain",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the exact 'chatzer mehalechet hi' objection that heading 2's prose describes as its central question \u2014 why doesn't the sleeping slave case fail because a slave is a moving courtyard.",
+      "current_heading": "Sleeping Slave Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Rava on Movement",
+    "candidates": [
+      "Awake Slave Fails",
+      "Slave as Moving Domain",
+      "Rava on Movement",
+      "Bound Slave Solution",
+      "Proximity Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's principle about movement and acquisition (kol she'ilu mehalach lo kanah) and concludes with the halakhic ruling about a bound slave, matching exactly the content described in 'Rava on Movement' prose, which discusses this same Rava statement and its implications.",
+      "chosen_heading": "Rava on Movement",
+      "current_heading": "Rava on Movement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Proximity Rule",
+    "candidates": [
+      "Bound Slave Solution",
+      "Proximity Rule",
+      "General Application",
+      "Debt Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact mishna text about a woman standing in the public domain with the get thrown to her and the proximity rule, which is precisely what the 'Proximity Rule' section's prose describes and introduces.",
+      "chosen_heading": "Proximity Rule",
+      "current_heading": "Proximity Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Debt Parallel",
+    "candidates": [
+      "General Application",
+      "Debt Parallel",
+      "Kinyan Question",
+      "Rav's Four Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the debt case verbatim, and the 'Debt Parallel' prose directly quotes and analyzes this exact text with its specific terminology (zerok li chovi, karov l'malveh, etc.), making it the clear home for this passage.",
+      "chosen_heading": "Debt Parallel",
+      "current_heading": "Debt Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Rav's Four Amot",
+    "candidates": [
+      "Kinyan Question",
+      "Rav's Four Amot",
+      "Half and Half Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav's statement defining 'closer to her' and 'closer to him' as four cubits, which is precisely what the 'Rav's Four Amot' section's prose discusses.",
+      "chosen_heading": "Rav's Four Amot",
+      "current_heading": "Rav's Four Amot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      180,
+      181,
+      182,
+      183,
+      184
+    ],
+    "current_heading": "Half and Half Case",
+    "candidates": [
+      "Half and Half Case",
+      "Conflicting Witnesses",
+      "Rejects Four Amot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Half and Half Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the half-and-half spatial case (overlapping four-amos zones, simultaneity objection, Rav Kahana's eight-cubit resolution), matching the 'Half and Half Case' prose exactly.",
+      "second_heading": "Conflicting Witnesses",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rabba and Rav Yosef's conflicting-witnesses resolution, which is precisely what the 'Conflicting Witnesses' prose describes.",
+      "current_heading": "Half and Half Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      191
+    ],
+    "current_heading": "Rejects Four Amot",
+    "candidates": [
+      "Conflicting Witnesses",
+      "Rejects Four Amot",
+      "Protection Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's rejection of Rav's four-cubits interpretation in favor of a literal 'closer' reading even at one hundred cubits, which is precisely what the 'Rejects Four Amot' section's prose describes.",
+      "chosen_heading": "Rejects Four Amot",
+      "current_heading": "Rejects Four Amot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      194
+    ],
+    "current_heading": "Protection Model",
+    "candidates": [
+      "Protection Model",
+      "Clarification",
+      "Protection Categories",
+      "Praise from Babylon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage defines the three protection categories (closer to him, closer to her, equally balanced) which is precisely what 'Protection Categories' prose discusses, and the current placement under 'Protection Model' is a worse match since that section discusses the general principle rather than the specific three-way categorization.",
+      "chosen_heading": "Protection Categories",
+      "current_heading": "Protection Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      202
+    ],
+    "current_heading": "Praise from Babylon",
+    "candidates": [
+      "Clarification",
+      "Protection Categories",
+      "Praise from Babylon",
+      "Dog Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's exclamation of surprise and praise that the Babylonian scholars arrived at the same interpretation, which is exactly what the 'Praise from Babylon' section's prose discusses.",
+      "chosen_heading": "Praise from Babylon",
+      "current_heading": "Praise from Babylon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      205,
+      206
+    ],
+    "current_heading": "Dog Example",
+    "candidates": [
+      "Dog Example",
+      "Bending Down Test",
+      "Direct Hand Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the dog/baraita passage that candidate 0's prose describes in detail, including the challenge about guarding and the resolution about who can protect the get.",
+      "chosen_heading": "Dog Example",
+      "current_heading": "Dog Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      212
+    ],
+    "current_heading": "Direct Hand Requirement",
+    "candidates": [
+      "Bending Down Test",
+      "Direct Hand Requirement",
+      "Chalitza Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'bending down' teaching (shinana/kdei she-tishoch v'titlennu) and the practical ruling about waiting until the get reaches her hand \u2014 the 'Bending Down Test' prose explicitly discusses both elements as a single unit from Shmuel's statement to Rav Yehuda, making it the better home for the complete quote, while 'Direct Hand Requirement' prose treats the second clause as a separate progression point.",
+      "chosen_heading": "Bending Down Test",
+      "current_heading": "Direct Hand Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      215
+    ],
+    "current_heading": "Chalitza Case",
+    "candidates": [
+      "Direct Hand Requirement",
+      "Chalitza Case",
+      "Tosafot Limit",
+      "Yard Exception",
+      "Summary Arc",
+      "Non-Kinyan Model",
+      "Definition vs. Awareness",
+      "Forward Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident (Rav Mordekhai to Rav Ashi) where the get was close to the woman but chalitza was required, which is precisely what the 'Chalitza Case' prose describes.",
+      "chosen_heading": "Chalitza Case",
+      "current_heading": "Chalitza Case",
+      "moved": false
+    }
+  }
+]

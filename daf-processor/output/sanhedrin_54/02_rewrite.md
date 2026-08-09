@@ -132,11 +132,7 @@ The *Gemara* resolves this with the ruling of Rav Sheshet the son of Rav Idi: *a
 
 ### Actor and Passive
 
-The *Gemara* now transitions to the prohibition and punishment for *mishkav zachor* — intercourse between males. The terminology here is notable: the word *zachur* (as distinct from *zachar*) is understood by Rashi as referring specifically to the one who is penetrated — the passive participant. The form *zachur* connotes the passive, as in *shamur* or *sagur*, suggesting one who has been "maled." When the verse or *Gemara* refers to the active penetrator, it uses *zachar*.
-
-With that distinction in mind, the *Gemara* proceeds to examine both the source for the punishment and the source for the prohibition, and to determine which categories of person — actor, passive participant, adult, minor — are covered by each verse.
-
----
+The *Gemara* now turns to *haba al hazachur* — intercourse with a male. The terminology is notable: Rashi understands *zachur* (as distinct from *zachar*) as referring specifically to the passive participant, the one being penetrated. The form *zachur* connotes the passive voice, analogous to *shamur* or *sagur* — one who has, so to speak, been "maled." When referring to the active penetrator, the verse uses *zachar* rather than *zachur*.
 
 ## Bestiality Laws
 

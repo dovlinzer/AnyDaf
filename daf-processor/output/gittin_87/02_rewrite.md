@@ -46,11 +46,7 @@ The *mishnah*'s solution is elegant: *notnin shnayhem l'zu v'shnayhem l'zu* — 
 
 ### One Date, Multiple Names
 
-The *mishnah* then introduces a distinct case: *chamisha shekatvu klal b'toch haget* — five husbands who incorporated all their names within a single *get*, listing each man and his wife: *ish ploni megaresh plonit, v'ploni plonit*, and so on, with the witnesses signing below. The ruling is *kulam kesherim* — they are all valid — and the *get* is given to each wife in turn.
-
-However, if *haya chosev tofes l'chol echad v'echad* — if there was a separate text for each individual — and the witnesses sign below, then only the one most proximate to the witnesses is valid: *es she'ha'eidim niktamim imo kasher*. The question that will occupy the *gemara* is: what exactly distinguishes a single unified statement, for which the witnesses' signatures validate the whole, from multiple separate statements, for which the signatures apply only to the bottommost?
-
----
+The *mishnah* then introduces a distinct case: *chamisha shekatvu klal b'toch haget* — five husbands who incorporated all their names within a single *get*, listing each man and his wife (*ish ploni megaresh plonit v'ploni plonit*), with witnesses signing below. The ruling is *kulam kesherim* — all valid — and the *get* is given to each wife in turn. By contrast, if there was a separate text (*tofes*) for each husband, with witnesses at the bottom, only the bottommost text is validated by those signatures, since it cannot be assumed the witnesses intended to sign on everything written above. The *gemara* will go on to define precisely where the line falls between a single unified *get* whose witnesses cover the whole document and a conceptually multiple set of *gittin* whose witnesses authenticate only the last.
 
 ## Mixed-Up Gittin (II)
 

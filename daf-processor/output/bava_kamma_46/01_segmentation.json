@@ -131,7 +131,7 @@
           "timestamp": "16:18"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -214,7 +214,7 @@
           "timestamp": "39:18"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 23,
       "matched": true
     }
   ],
@@ -528,5 +528,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "28:25",
+  "amud_b_micro_title": "Money vs. Rov",
+  "shiur_start_daf": 46,
+  "shiur_start_amud": "a"
 }

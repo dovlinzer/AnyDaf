@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "What Case?",
+    "candidates": [
+      "Opening",
+      "Stoning vs Kofer",
+      "Basic Distinction",
+      "What Case?",
+      "Abaye's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the gemara's heichi dami interrogation \u2014 asking what case the baraita means when it says rovei'a does not pay kofer \u2014 which is precisely what the 'What Case?' prose section describes.",
+      "chosen_heading": "What Case?",
+      "current_heading": "What Case?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Abaye's View",
+    "candidates": [
+      "Abaye's View",
+      "Rava's View",
+      "Shen ve-Regel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Abaye's specific position and the havamina/resolution about whether the ox is treated 'like one that killed her,' which is precisely what the 'Abaye's View' prose section describes.",
+      "chosen_heading": "Abaye's View",
+      "current_heading": "Abaye's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Shen ve-Regel",
+    "candidates": [
+      "Rava's View",
+      "Shen ve-Regel",
+      "The Paradox",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 3,
+      "split2": 4,
+      "first_heading": "Shen ve-Regel",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains exactly the three elements described in the 'Shen ve-Regel' prose: Rava's distinction about kavanato la-hana'at atzmo, the regel/tinok dispute between Abaye and Rava, and the baraita about the stadium ox being ke-anusah.",
+      "second_heading": "The Paradox",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna stating mu'ad pays kofer, tam is exempt, yet both are chayav mita, which is precisely the text described in 'The Paradox' heading.",
+      "third_heading": "The Paradox",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara's opening question 've'chi me'achar demitam katlinan lei mu'ad heichi mashkachat lai,' which is the exact logical paradox described in 'The Paradox' prose.",
+      "current_heading": "Shen ve-Regel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "The Paradox",
+      "Rav Ashi",
+      "Rav Zevid Rejected",
+      "Victims & Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of candidate 1 ('Rav Ashi') explicitly discusses all three items: Rabba's assessment answer, Rav Ashi's rejection of umdna and his own answer about siken lishelosha, and Rav Zevid's killed-three-animals suggestion \u2014 exactly matching the three quoted items in sequence.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Victims & Status",
+    "candidates": [
+      "Rav Zevid Rejected",
+      "Victims & Status",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Zevid Rejected",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's rejection of Rav Zevid's proposal (ox killed three animals) and Rav Shimi's counter-suggestion, which is precisely what heading 0 ('Rav Zevid Rejected') describes \u2014 the rejection of the behema-to-adam extension and Rav Shimi's alternative.",
+      "second_heading": "Victims & Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's rejection of Rav Shimi's gentile-victims proposal and Resh Lakish's tereifa suggestion, which is exactly what heading 1 ('Victims & Status') discusses in its prose.",
+      "current_heading": "Victims & Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Pappa",
+    "candidates": [
+      "Rav Pappa",
+      "Zommin Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about the ox killing and fleeing to the marsh, which is exactly what the prose under heading 0 ('Rav Pappa') discusses.",
+      "chosen_heading": "Rav Pappa",
+      "current_heading": "Rav Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Zommin Case",
+    "candidates": [
+      "Zommin Case",
+      "Ravina"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Zommin Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the zommin/zommei-zomemin scenario and its gemara challenge/resolution, which exactly matches the 'Zommin Case' prose.",
+      "second_heading": "Ravina",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Ravina's distinct scenario about witnesses recognizing the owner but not the ox, which exactly matches the 'Ravina' prose.",
+      "current_heading": "Zommin Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ravina",
+    "candidates": [
+      "Ravina",
+      "Lo Yochel",
+      "Mishnah Text",
+      "Ba'al Naki"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the Ravina section's discussion of 'mai hava lei lemevad' and the answer that the owner must safeguard his entire herd once warned there is a goring ox among his cattle.",
+      "chosen_heading": "Ravina",
+      "current_heading": "Ravina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Ba'al Naki",
+    "candidates": [
+      "Lo Yochel",
+      "Mishnah Text",
+      "Ba'al Naki",
+      "Eliezer vs Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The entire passage \u2014 from the baraita about 'lo yeachel et besaro' through the Ben Zoma derivation from 'uba'al hashor naki', the Rabbi Abbahu principle, the hide prohibition, the 'et' hermeneutic, Shimon HaAmasoni's withdrawal, and Rabbi Akiva's resolution \u2014 is precisely what the 'Ba'al Naki' prose section describes in detail, matching the current placement.",
+      "chosen_heading": "Ba'al Naki",
+      "current_heading": "Ba'al Naki",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Eliezer vs Akiva",
+    "candidates": [
+      "Eliezer vs Akiva",
+      "Akiva's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's teaching that 'uba'al hashor naki' means clear from paying half kofer, which is exactly what the prose under 'Eliezer vs Akiva' (index 0) describes as Rabbi Eliezer's drasha.",
+      "chosen_heading": "Eliezer vs Akiva",
+      "current_heading": "Eliezer vs Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Akiva's Logic",
+    "candidates": [
+      "Akiva's Logic",
+      "Eliezer Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's objection about the tam ox's payment coming from its body, which is precisely what heading 0 ('Akiva's Logic') describes in its prose.",
+      "chosen_heading": "Akiva's Logic",
+      "current_heading": "Akiva's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Eliezer Clarifies",
+    "candidates": [
+      "Eliezer Clarifies",
+      "Intended Beast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Eliezer's clarification about one witness/owner's admission, the objection about admitting to a fine, and the answer that kofer is kapara \u2014 are explicitly described in candidate 0's prose, which is the current placement.",
+      "chosen_heading": "Eliezer Clarifies",
+      "current_heading": "Eliezer Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Intended Beast",
+    "candidates": [
+      "Intended Beast",
+      "Examples",
+      "Big Fish Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's clarification that his ruling concerns cases where the ox lacked intent to kill a human (intended animal, intended gentile, intended nefil), which is precisely what the 'Intended Beast' section's prose discusses \u2014 the baraisa where Rabbi Eliezer explains he is not dealing with a case deserving sekilah at all.",
+      "chosen_heading": "Intended Beast",
+      "current_heading": "Intended Beast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Big Fish Parable",
+    "candidates": [
+      "Examples",
+      "Big Fish Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items concern the dispute between Rav Kahana and Rav Tavyumei about which answer Rabbi Eliezer gave first, illustrated by the fisherman parable \u2014 exactly what the 'Big Fish Parable' prose describes.",
+      "chosen_heading": "Big Fish Parable",
+      "current_heading": "Big Fish Parable",
+      "moved": false
+    }
+  }
+]

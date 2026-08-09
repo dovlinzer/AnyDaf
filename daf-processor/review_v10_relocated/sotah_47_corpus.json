@@ -1,0 +1,664 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Talmid LeRav",
+    "candidates": [
+      "HaRav LeTalmid",
+      "Distances: Ibburah",
+      "Talmid LeRav",
+      "Rebbe vs. Rabbo Muvhak",
+      "Rav Kahana & Tinisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The baraita covers all three distances (harav letalmid, chaver lechaver, talmid lerav, plus the muvhak distinction), so it encompasses content from candidates 1-3, but candidate 1's prose explicitly introduces this baraita ('the baraita specifies') and begins the breakdown of distances, making it the most natural home for the full quoted text; however, current placement at candidate 2 is also defensible since the gemara's elaboration focuses on the talmid lerav direction.",
+      "chosen_heading": "Distances: Ibburah",
+      "current_heading": "Talmid LeRav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Kahana & Tinisa",
+    "candidates": [
+      "Rebbe vs. Rabbo Muvhak",
+      "Rav Kahana & Tinisa",
+      "Adam HaRishon Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Kahana accompanying Rav Shimi bar Ashi to the palm grove in Babylonia and asking about the palm trees \u2014 exactly what the 'Rav Kahana & Tinisa' prose describes, before the Adam HaRishon discussion begins.",
+      "chosen_heading": "Rav Kahana & Tinisa",
+      "current_heading": "Rav Kahana & Tinisa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Adam HaRishon Discussion",
+    "candidates": [
+      "Adam HaRishon Discussion",
+      "Rav Mordechai Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the teaching about Adam HaRishon's decree over settled lands, which is exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Adam HaRishon Discussion",
+      "current_heading": "Adam HaRishon Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rav Mordechai Story",
+    "candidates": [
+      "Rav Mordechai Story",
+      "Rabbi Meir Teaching",
+      "Elisha & Bears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Mordekhai accompanying Rav Ashi from Hagronya to Bei Keifei/Bei Dura, which directly matches the 'Rav Mordechai Story' section prose about exactly this event.",
+      "chosen_heading": "Rav Mordechai Story",
+      "current_heading": "Rav Mordechai Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Elisha & Bears",
+    "candidates": [
+      "Rabbi Meir Teaching",
+      "Elisha & Bears",
+      "Korach: Baldy",
+      "Ne'arim & Ketanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yochanan's teaching in the name of Rabbi Meir about accompanying others being like spilling blood, which is exactly what candidate 0 ('Rabbi Meir Teaching') is about, while the current placement under 'Elisha & Bears' covers the biblical narrative context that the essay treats as a separate subsequent discussion.",
+      "chosen_heading": "Rabbi Meir Teaching",
+      "current_heading": "Elisha & Bears",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Ne'arim & Ketanim",
+    "candidates": [
+      "Korach: Baldy",
+      "Ne'arim & Ketanim",
+      "Elisha's Ra'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the interpretation of 'ne'arim ketannim' \u2014 item 1 presents Rabbi Elazar's explanation and item 2 presents Rav Yosef's geographical challenge and its resolution \u2014 exactly matching the prose of candidate 1 which walks through the same dispute about whether ne'arim refers to character traits or a place name.",
+      "chosen_heading": "Ne'arim & Ketanim",
+      "current_heading": "Ne'arim & Ketanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Elisha's Ra'ah",
+    "candidates": [
+      "Elisha's Ra'ah",
+      "Mitigating Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav's explanation (ra'ah mamash with the baraita about Sages' gaze) and Shmuel's explanation (Yom Kippur conception), and the current heading's prose explicitly addresses both of these points, while the 'Mitigating Factors' heading's prose begins with Shmuel's view as its opening sentence, suggesting the passage straddles both but is better placed under heading 0 which introduces the question and Rav's answer that the 'Mitigating Factors' section presupposes as already discussed.",
+      "chosen_heading": "Elisha's Ra'ah",
+      "current_heading": "Elisha's Ra'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Mitigating Factors",
+    "candidates": [
+      "Mitigating Factors",
+      "Bears & Casualties",
+      "Ness v. Ness B'Toch Ness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yitz\u1e25ak Nappa\u1e25a's observation about plaited locks, Rabbi Yo\u1e25anan's observation about lack of mitzvot, and Rabbi Elazar's ruling about descendants \u2014 all of which are explicitly addressed in the 'Mitigating Factors' prose section.",
+      "chosen_heading": "Mitigating Factors",
+      "current_heading": "Mitigating Factors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Ness v. Ness B'Toch Ness",
+    "candidates": [
+      "Bears & Casualties",
+      "Ness v. Ness B'Toch Ness",
+      "Arba'im u'Shnayim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bears & Casualties",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the verse about the two bears and forty-two children, which matches the 'Bears & Casualties' section prose describing exactly that verse.",
+      "second_heading": "Ness v. Ness B'Toch Ness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rav/Shmuel dispute about miracle vs. miracle-within-a-miracle, which matches perfectly the 'Ness v. Ness B'Toch Ness' section prose describing that exact dispute and its resolution about the bears needing a forest refuge.",
+      "current_heading": "Ness v. Ness B'Toch Ness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Arba'im u'Shnayim",
+    "candidates": [
+      "Arba'im u'Shnayim",
+      "Shelo Lishma Ba Lishma",
+      "Balak & Rut Legacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi \u1e24anina's statement that forty-two children perished due to Balak's forty-two offerings, which is exactly what the 'Arba'im u'Shnayim' section's prose describes.",
+      "chosen_heading": "Arba'im u'Shnayim",
+      "current_heading": "Arba'im u'Shnayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Balak & Rut Legacy",
+    "candidates": [
+      "Shelo Lishma Ba Lishma",
+      "Balak & Rut Legacy",
+      "Ta'avato La'Kella",
+      "Moshav HaIr Tov",
+      "Chen Makom",
+      "Shlosha Chinot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Rav Yehuda/Rav's teaching about engaging in Torah and mitzvot even shelo lishma, which is precisely what heading 0 ('Shelo Lishma Ba Lishma') is about, and the Balak/Ruth content serves as the proof-text for that principle \u2014 the full passage including the ta'avato answer is one continuous unit that belongs under the shelo lishma heading where the teaching is introduced.",
+      "chosen_heading": "Shelo Lishma Ba Lishma",
+      "current_heading": "Balak & Rut Legacy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Shlosha Chinot",
+    "candidates": [
+      "Ta'avato La'Kella",
+      "Moshav HaIr Tov",
+      "Chen Makom",
+      "Shlosha Chinot",
+      "Shlosha Cholaim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi \u1e24anin's answer and Rabbi Yo\u1e25anan's extension, covering the full discussion that begins with the question about Yericho's pleasantness \u2014 which matches the prose of candidate 1 ('Moshav HaIr Tov') that sets up precisely this question, while candidates 2 and 3 split the answer artificially.",
+      "chosen_heading": "Moshav HaIr Tov",
+      "current_heading": "Shlosha Chinot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Shlosha Cholaim",
+    "candidates": [
+      "Shlosha Chinot",
+      "Shlosha Cholaim",
+      "Smol Docha Yamin Mekarev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Elisha's three illnesses and the derivation from the verse, which is exactly what the 'Shlosha Cholaim' section prose discusses.",
+      "chosen_heading": "Shlosha Cholaim",
+      "current_heading": "Shlosha Cholaim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Smol Docha Yamin Mekarev",
+    "candidates": [
+      "Smol Docha Yamin Mekarev",
+      "Geichazi's Greed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about 'smol dochah yamin mekarevet' and the examples of Elisha and Yehoshua ben Perachya, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Smol Docha Yamin Mekarev",
+      "current_heading": "Smol Docha Yamin Mekarev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Geichazi's Greed",
+    "candidates": [
+      "Geichazi's Greed",
+      "Shmonah Sheratzim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Elisha's rebuke of Gehazi for taking payment, which directly matches the 'Geichazi's Greed' section prose about Elisha confronting Gehazi with the exact verse cited (lo libi halach... ha'eit lakachas et hakesef), before the enumeration of goods discussed in the next section.",
+      "chosen_heading": "Geichazi's Greed",
+      "current_heading": "Geichazi's Greed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Shmonah Sheratzim",
+    "candidates": [
+      "Shmonah Sheratzim",
+      "Tzaraas Geichazi",
+      "Elisha Seeks Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the eight creeping animals explanation and the leprosy verse, matching the current heading's prose which discusses the sheratzim connection, and the next heading's prose about tzaraas is a separate section \u2014 but since the passage combines both topics and the current placement already contains the sheratzim content which is the primary focus, it belongs under heading 0.",
+      "chosen_heading": "Shmonah Sheratzim",
+      "current_heading": "Shmonah Sheratzim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Elisha Seeks Teshuvah",
+    "candidates": [
+      "Tzaraas Geichazi",
+      "Elisha Seeks Teshuvah",
+      "Ein Maspikin B'Yado",
+      "Hichti Es HaRabim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Elisha going to Damascus to bring Gehazi to repentance, which directly matches the 'Elisha Seeks Teshuvah' section's prose about Elisha going to Damascus to bring Geichazi back to teshuvah.",
+      "chosen_heading": "Elisha Seeks Teshuvah",
+      "current_heading": "Elisha Seeks Teshuvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Hichti Es HaRabim",
+    "candidates": [
+      "Ein Maspikin B'Yado",
+      "Hichti Es HaRabim",
+      "Yannai's Persecution",
+      "Return & Inn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the traditions about how Gehazi caused others to sin (the floating calves, the engraved name, and pushing away the Sages), which is precisely what the prose of candidate 1 ('Hichti Es HaRabim') discusses in detail.",
+      "chosen_heading": "Hichti Es HaRabim",
+      "current_heading": "Hichti Es HaRabim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Return & Inn",
+    "candidates": [
+      "Yannai's Persecution",
+      "Return & Inn",
+      "Student Rebuked",
+      "Repeated Rejection",
+      "Stone Worship",
+      "Ein Maspikin (Repeated)"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yannai's Persecution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the flight to Alexandria and Shimon ben Shetach's letter recalling Yehoshua ben Perachiah, which is exactly what candidate 0 ('Yannai's Persecution') discusses \u2014 the persecution, the flight, and the coded message signaling peace.",
+      "second_heading": "Return & Inn",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the inn episode and the excommunication of the student, which is precisely what candidate 1 ('Return & Inn') discusses \u2014 the journey back, the inn, the praise, the student's remark, and the harsh rebuke leading to excommunication.",
+      "current_heading": "Return & Inn",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Ein Maspikin (Repeated)",
+    "candidates": [
+      "Student Rebuked",
+      "Repeated Rejection",
+      "Stone Worship",
+      "Ein Maspikin (Repeated)",
+      "Yeitzer, Tinok, Ishah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the specific day Yehoshua ben Perachiah was reciting Shema when Jesus came before him, he signaled with his hand, Jesus misinterpreted it as rejection, and then went to worship a brick idol \u2014 this entire sequence matches the prose of 'Repeated Rejection' (candidate 1) which explicitly describes this same scene including the hand gesture and misinterpretation, not 'Ein Maspikin (Repeated)' which covers only the repentance dialogue that follows.",
+      "chosen_heading": "Repeated Rejection",
+      "current_heading": "Ein Maspikin (Repeated)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Yeitzer, Tinok, Ishah",
+    "candidates": [
+      "Ein Maspikin (Repeated)",
+      "Yeitzer, Tinok, Ishah",
+      "Horeg Ad Lo Neerfah",
+      "Acharei Neerfah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Shimon ben Elazar about yeitzer, tinok, and ishah, which is exactly what candidate 1's prose discusses and introduces.",
+      "chosen_heading": "Yeitzer, Tinok, Ishah",
+      "current_heading": "Yeitzer, Tinok, Ishah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Acharei Neerfah",
+    "candidates": [
+      "Horeg Ad Lo Neerfah",
+      "Acharei Neerfah",
+      "Kiphrah B'Safeik",
+      "Yehareg",
+      "Ed Echad Ra'iti",
+      "Neutralization Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all cases (before neck broken, after neck broken, and killer found afterward), and candidate 0 'Horeg Ad Lo Neerfah' is the opening section that introduces this mishna, with candidates 1-3 being subsections discussing specific clauses \u2014 the entire mishna text belongs under the first heading that introduces it.",
+      "chosen_heading": "Horeg Ad Lo Neerfah",
+      "current_heading": "Acharei Neerfah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Neutralization Rules",
+    "candidates": [
+      "Kiphrah B'Safeik",
+      "Yehareg",
+      "Ed Echad Ra'iti",
+      "Neutralization Rules",
+      "Mishe-Rabu Rotzchanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the series of competing testimony cases (one vs. one, woman vs. woman, one vs. two, two vs. one) that the 'Neutralization Rules' prose describes, making the current placement correct.",
+      "chosen_heading": "Neutralization Rules",
+      "current_heading": "Neutralization Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Mishe-Rabu Rotzchanim",
+    "candidates": [
+      "Mishe-Rabu Rotzchanim",
+      "Mishe-Rabu Menafim",
+      "Yochanan ben Zakkai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the nullification of eglah arufah due to proliferating murderers and the renaming of Elazar ben Dinai, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Mishe-Rabu Rotzchanim",
+      "current_heading": "Mishe-Rabu Rotzchanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Yochanan ben Zakkai",
+    "candidates": [
+      "Mishe-Rabu Menafim",
+      "Yochanan ben Zakkai",
+      "Mishe-Meit Yosi",
+      "Yochanan Kohen Gadol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the nullification of bitter waters when adulterers proliferated AND Yochanan ben Zakkai's formal discontinuation \u2014 it is a single mishna that belongs under the 'Mishe-Rabu Menafim' heading, which discusses exactly this content, while the current placement under 'Yochanan ben Zakkai' splits what is one unified textual unit.",
+      "chosen_heading": "Mishe-Rabu Menafim",
+      "current_heading": "Yochanan ben Zakkai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Yochanan Kohen Gadol",
+    "candidates": [
+      "Mishe-Meit Yosi",
+      "Yochanan Kohen Gadol",
+      "Lo Yichupuhr",
+      "Ed Echad Ne'eman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the reforms of Yochanan Kohen Gadol (abolishing the tithe declaration, the awakeners and strikers, the hammer striking on Chol HaMoed, and the demai inquiry), which matches exactly the prose under candidate 1 'Yochanan Kohen Gadol' \u2014 the current placement is correct, noting that item 1 also contains the tail end of the 'eshkolot' clause which flows continuously into Yochanan's reforms in the Mishnah itself.",
+      "chosen_heading": "Yochanan Kohen Gadol",
+      "current_heading": "Yochanan Kohen Gadol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160,
+      161
+    ],
+    "current_heading": "Ed Echad Ne'eman",
+    "candidates": [
+      "Lo Yichupuhr",
+      "Ed Echad Ne'eman",
+      "Kashya on Neutralization",
+      "Ulla's Girsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what candidate 1's prose describes: the baraita about the murderer found after the heifer's neck is broken (item 1), the inference about one witness being believed when uncontradicted (item 2), and the baraita from 'lo noda mi hikahu' plus Rabbi Akiva's derivation from 've'eineinu lo rau' (item 3) \u2014 all of which are explicitly narrated in candidate 1's prose.",
+      "chosen_heading": "Ed Echad Ne'eman",
+      "current_heading": "Ed Echad Ne'eman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166,
+      167,
+      168,
+      169
+    ],
+    "current_heading": "Ulla's Girsa",
+    "candidates": [
+      "Kashya on Neutralization",
+      "Ulla's Girsa",
+      "Garsot HaMishnah",
+      "Simultaneous vs Serial",
+      "Mishnah Structure",
+      "Psulei Edut Resolution",
+      "Rabbi Nechemya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the full dialectic around Ulla's principle (the 'kashya' of how one witness can neutralize another believed-as-two witness), Rabbi \u1e24iyya's alternative reading, the simultaneous vs. serial resolution, and the mishnah's structural inference problem \u2014 the prose of candidate 0 ('Kashya on Neutralization') introduces exactly this difficulty that drives the entire passage.",
+      "chosen_heading": "Kashya on Neutralization",
+      "current_heading": "Ulla's Girsa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      181
+    ],
+    "current_heading": "Rabbi Nechemya",
+    "candidates": [
+      "Garsot HaMishnah",
+      "Simultaneous vs Serial",
+      "Mishnah Structure",
+      "Psulei Edut Resolution",
+      "Rabbi Nechemya",
+      "Shnei Nashim v. Ish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly introduces the 'psulei edut' resolution and then states Rabbi Nechemya's principle, making it a direct match for the 'Psulei Edut Resolution' section which introduces exactly this gemara move before Rabbi Nechemya gets his own dedicated section.",
+      "chosen_heading": "Psulei Edut Resolution",
+      "current_heading": "Rabbi Nechemya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      184
+    ],
+    "current_heading": "Shnei Nashim v. Ish",
+    "candidates": [
+      "Rabbi Nechemya",
+      "Shnei Nashim v. Ish",
+      "Why Mention Zwei?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'and there are those who say' alternative version where a valid male witness at the outset cannot be overridden by even 100 women, which matches exactly the prose of 'Shnei Nashim v. Ish' describing this alternative reading where a kasher male witness testified first and even a hundred women cannot neutralize him.",
+      "chosen_heading": "Shnei Nashim v. Ish",
+      "current_heading": "Shnei Nashim v. Ish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      187
+    ],
+    "current_heading": "Why Mention Zwei?",
+    "candidates": [
+      "Why Mention Zwei?",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why two cases of psulei edut are needed \u2014 addressing the concern that majority rule might only apply stringently \u2014 which is precisely what the 'Why Mention Zwei?' section's prose discusses.",
+      "chosen_heading": "Why Mention Zwei?",
+      "current_heading": "Why Mention Zwei?",
+      "moved": false
+    }
+  }
+]

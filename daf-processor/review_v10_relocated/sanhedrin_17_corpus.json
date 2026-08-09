@@ -1,0 +1,462 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "71 Judges Required",
+    "candidates": [
+      "71 Judges Required",
+      "Geographic Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives the requirement for 71 judges for an ir nidachas from the verse about taking out a man or woman to the gates, which is exactly what the prose under '71 Judges Required' describes.",
+      "chosen_heading": "71 Judges Required",
+      "current_heading": "71 Judges Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Geographic Limits",
+    "candidates": [
+      "Geographic Limits",
+      "Number of Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the geographic restriction against declaring a border city as an ir nidachas, citing the verse 'mikirbecha' \u2014 exactly what the 'Geographic Limits' section's prose describes.",
+      "chosen_heading": "Geographic Limits",
+      "current_heading": "Geographic Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Number of Cities",
+    "candidates": [
+      "Number of Cities",
+      "Karcha Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation of 'one but not three' from 'achas' and the permission for two from 'arecha,' which is precisely what the 'Number of Cities' prose describes.",
+      "chosen_heading": "Number of Cities",
+      "current_heading": "Number of Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Karcha Issue",
+    "candidates": [
+      "Karcha Issue",
+      "Border Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's varying positions on multiple courts designating idolatrous cities, Reish Lakish's geographic qualification, and Rabbi Yochanan's blanket prohibition, all framed around the karcha (desolation) concern \u2014 precisely what the 'Karcha Issue' prose describes.",
+      "chosen_heading": "Karcha Issue",
+      "current_heading": "Karcha Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Border Restrictions",
+    "candidates": [
+      "Border Restrictions",
+      "Moshe's Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the border restriction on condemned cities and Rabbi Shimon's interpretive method regarding 'mikirbecha,' which is precisely what the 'Border Restrictions' prose discusses.",
+      "chosen_heading": "Border Restrictions",
+      "current_heading": "Border Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Moshe's Count",
+    "candidates": [
+      "Moshe's Count",
+      "Lottery Selection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Rabbanan vs. Rabbi Yehuda dispute about whether Moses is counted as part of the 71-member Great Sanhedrin, which is precisely what the 'Moshe's Count' prose describes.",
+      "chosen_heading": "Moshe's Count",
+      "current_heading": "Moshe's Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Lottery Selection",
+    "candidates": [
+      "Lottery Selection",
+      "Eldad & Medad"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eldad & Medad",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Eldad and Medad remaining in the camp, which matches the 'Eldad & Medad' section prose about the yesh omrim opinion that they drew blank lots and were excluded.",
+      "second_heading": "Lottery Selection",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 describe the lottery mechanism Moshe used to select the 70 elders and the parallel redemption of the 273 bechorim, which exactly matches the 'Lottery Selection' prose description.",
+      "current_heading": "Lottery Selection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Eldad & Medad",
+    "candidates": [
+      "Eldad & Medad",
+      "Their Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's opinion about why Eldad and Medad remained in the camp and the greatness added to them, which is explicitly discussed in the 'Eldad & Medad' section prose.",
+      "chosen_heading": "Eldad & Medad",
+      "current_heading": "Eldad & Medad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Their Prophecy",
+    "candidates": [
+      "Their Prophecy",
+      "Content Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly address what Eldad and Medad prophesied (items 1-2) and the textual proof that they prophesied continuously (items 3-4), which is precisely what the 'Their Prophecy' section's prose discusses, including all three opinions and the Gog and Magog interpretation.",
+      "chosen_heading": "Their Prophecy",
+      "current_heading": "Their Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Content Debate",
+    "candidates": [
+      "Content Debate",
+      "Silencing Them",
+      "Moshe's Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Content Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses why Joshua said 'imprison them' under each opinion, which is precisely what the 'Content Debate' prose discusses \u2014 the coherence of each opinion with Joshua's reaction and the 'not proper conduct' answer.",
+      "second_heading": "Silencing Them",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses why Moses responded with 'would that all were prophets' under the 'Moses will die' opinion and the answer that they did not conclude the prophecy before him, which is exactly what the 'Silencing Them' prose discusses.",
+      "current_heading": "Content Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Moshe's Response",
+    "candidates": [
+      "Silencing Them",
+      "Moshe's Response",
+      "I Don't Know",
+      "Odd Numbers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the meaning of 'kela'em' as placing communal responsibilities upon them so they cease prophesying on their own, which is precisely what candidate 1's prose discusses under 'Moshe's Response.'",
+      "chosen_heading": "Moshe's Response",
+      "current_heading": "Moshe's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Odd Numbers",
+    "candidates": [
+      "I Don't Know",
+      "Odd Numbers",
+      "Unanimous Guilty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the derivation of 23 judges, the objection that a majority of two is unachievable, and Rabbi Abbahu's rulings about mosifin and the even-numbered court \u2014 are precisely the content described in candidate 1's prose about odd numbers, mosifin, and the eini yodeia judge.",
+      "chosen_heading": "Odd Numbers",
+      "current_heading": "Odd Numbers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Unanimous Guilty",
+    "candidates": [
+      "Unanimous Guilty",
+      "Physical & Wisdom",
+      "70 Languages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the unanimous guilty verdict rule and halanas din rationale, which is exactly what the 'Unanimous Guilty' section's prose describes.",
+      "chosen_heading": "Unanimous Guilty",
+      "current_heading": "Unanimous Guilty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "70 Languages",
+    "candidates": [
+      "Physical & Wisdom",
+      "70 Languages",
+      "Sheretz Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full quote including both the physical/wisdom qualifications AND the 70 languages requirement as one unified statement by Rabbi Yochanan, and the prose under heading 0 explicitly discusses all these qualifications together including kishafim, while heading 1 only discusses the 70 languages portion \u2014 the complete passage belongs under heading 0 which covers the entire enumeration.",
+      "chosen_heading": "Physical & Wisdom",
+      "current_heading": "70 Languages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Sheretz Argument",
+    "candidates": [
+      "70 Languages",
+      "Sheretz Argument",
+      "City Language Needs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav's argument that a sheretz should be tahor and the Gemara's rejection of that argument, which is precisely what the 'Sheretz Argument' prose describes.",
+      "chosen_heading": "Sheretz Argument",
+      "current_heading": "Sheretz Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "City Language Needs",
+    "candidates": [
+      "City Language Needs",
+      "Beitar & Yavneh",
+      "Learning vs. Deliberating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Beitar & Yavneh') explicitly discusses both the historical examples of Beitar and Yavneh with their language experts AND the baraita tension/resolution about whether two, three, or four language experts is the minimum/praiseworthy standard \u2014 exactly the content of both items in this passage.",
+      "chosen_heading": "Beitar & Yavneh",
+      "current_heading": "City Language Needs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Learning vs. Deliberating",
+    "candidates": [
+      "Beitar & Yavneh",
+      "Learning vs. Deliberating",
+      "Regional Sages",
+      "Amoraim Roles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between 'learning before sages' (Levi from Rabbi) and 'deliberating before sages' (Shimon ben Azzai et al.), which is precisely what the 'Learning vs. Deliberating' section's prose describes.",
+      "chosen_heading": "Learning vs. Deliberating",
+      "current_heading": "Learning vs. Deliberating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Amoraim Roles",
+    "candidates": [
+      "Regional Sages",
+      "Amoraim Roles",
+      "120 People"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover the full list of regional sage identifications (from 'Our Rabbis in Babylonia' through the reversal of shalchu misam/machaku aleih), which is precisely what candidate 1 ('Amoraim Roles') describes in its prose, including the challenge and resolution about Rav Huna/Rav Hamnuna and the reversal of Rabbi Elazar/Rabbi Yosi bar Chanina.",
+      "chosen_heading": "Amoraim Roles",
+      "current_heading": "Amoraim Roles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "120 People",
+    "candidates": [
+      "120 People",
+      "Ten Services"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's derivation of the 120-person minimum for a city to have a Sanhedrin ketana, directly matching the prose of candidate 0 which discusses exactly this calculation.",
+      "chosen_heading": "120 People",
+      "current_heading": "120 People",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Ten Services",
+    "candidates": [
+      "Ten Services",
+      "Alternative Minimums"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the ten things a city must have for a Torah scholar to reside there, which is exactly what the 'Ten Services' section prose discusses.",
+      "chosen_heading": "Ten Services",
+      "current_heading": "Ten Services",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Alternative Minimums",
+    "candidates": [
+      "Alternative Minimums",
+      "Military Hierarchy",
+      "Total 78,600"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Ne\u1e25emya's 230-man minimum and Rabbi Yehuda HaNasi's figure of 277, which is precisely what the 'Alternative Minimums' prose describes.",
+      "chosen_heading": "Alternative Minimums",
+      "current_heading": "Alternative Minimums",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Total 78,600",
+    "candidates": [
+      "Military Hierarchy",
+      "Total 78,600"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Total 78,600",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 resolves the contradiction between 277 and 278 regarding city population requirements, which fits under 'Total 78,600' only loosely \u2014 but neither candidate perfectly matches it; however the current placement is the closest available.",
+      "second_heading": "Military Hierarchy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita listing the military hierarchy (sarei alafim, sarei meos, etc.) which directly matches the 'Military Hierarchy' prose describing that exact verse and organizational structure.",
+      "current_heading": "Total 78,600",
+      "moved": true
+    }
+  }
+]

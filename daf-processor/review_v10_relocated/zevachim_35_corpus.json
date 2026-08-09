@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Multiple Scenarios",
+    "candidates": [
+      "Psul Thrower",
+      "Invalid Service",
+      "Multiple Scenarios",
+      "Dachuy Principle",
+      "Chanana Mitzri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's tzricha argument explaining why all three mishna scenarios (pasul, left hand, non-sacred vessel) are necessary, which is precisely what candidate 2 ('Multiple Scenarios') describes in its prose.",
+      "chosen_heading": "Multiple Scenarios",
+      "current_heading": "Multiple Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Chanana Mitzri",
+    "candidates": [
+      "Dachuy Principle",
+      "Chanana Mitzri",
+      "Kol She'biyado"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Ravina's answer citing Rav Yirmiah mi-Difti in the name of Rava that the mishna follows \u1e24anan HaMitzri (item 1) and the supporting baraita demonstrating \u1e24anan HaMitzri's position (item 2), which is precisely what the 'Chanana Mitzri' section prose describes.",
+      "chosen_heading": "Chanana Mitzri",
+      "current_heading": "Chanana Mitzri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Kol She'biyado",
+    "candidates": [
+      "Kol She'biyado",
+      "Mixed Blood Fix",
+      "Vessel Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present Rav Ashi's kol she'biyado principle, Rav Shaya's confirmation that it aligns with Rabbi Yehuda's position, and the baraita proof from Rabbi Yehuda's mixed blood ruling \u2014 exactly what the 'Kol She'biyado' prose describes in full detail.",
+      "chosen_heading": "Kol She'biyado",
+      "current_heading": "Kol She'biyado",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Vessel Question",
+    "candidates": [
+      "Mixed Blood Fix",
+      "Vessel Question",
+      "Invalid Blood Bittul",
+      "Dam Hatamtzit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the vessel question and its resolution \u2014 Rabbi Yehuda's cup of mixed blood, the challenge about whether blood was collected in a vessel, his clarification that he only meant when it was collected, and the follow-up about priests being vigilant but working swiftly \u2014 which matches exactly the 'Vessel Question' prose description.",
+      "chosen_heading": "Vessel Question",
+      "current_heading": "Vessel Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Dam Hatamtzit",
+    "candidates": [
+      "Invalid Blood Bittul",
+      "Dam Hatamtzit",
+      "Drain Stopper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items trace the dam hatamtzit discussion: the baraita about Rabbi Yehuda holding karet, Rabbi Elazar's concession about kapparah, the verse distinguishing dam hanefesh from dam hatamtzit, and the resolution via ein dam m'vateil dam \u2014 exactly the sequence described in candidate 1's prose.",
+      "chosen_heading": "Dam Hatamtzit",
+      "current_heading": "Dam Hatamtzit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Drain Stopper",
+    "candidates": [
+      "Drain Stopper",
+      "Kohanim Platforms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yehuda's challenge about plugging the drain and the Rabbis' response about the sons of Aaron walking in blood, which is precisely what the 'Drain Stopper' section's prose discusses.",
+      "chosen_heading": "Drain Stopper",
+      "current_heading": "Drain Stopper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Kohanim Platforms",
+    "candidates": [
+      "Kohanim Platforms",
+      "Abnormal Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the same continuous chain of practical difficulties (hatzitzah from blood, soiled garments, garment length) and their resolutions, which is precisely what the 'Kohanim Platforms' prose describes in detail.",
+      "chosen_heading": "Kohanim Platforms",
+      "current_heading": "Kohanim Platforms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Abnormal Intent",
+    "candidates": [
+      "Abnormal Intent",
+      "No Combination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact mishna text about slaughtering with intent to eat/burn items not normally eaten/burned, which is precisely what the 'Abnormal Intent' section prose discusses.",
+      "chosen_heading": "Abnormal Intent",
+      "current_heading": "Abnormal Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "No Combination",
+    "candidates": [
+      "No Combination",
+      "Inedible Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses intent to eat/burn less than a kezayit and the non-combination of eating and burning intents, which matches exactly the prose under 'No Combination.'",
+      "chosen_heading": "No Combination",
+      "current_heading": "No Combination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Inedible Parts",
+    "candidates": [
+      "Inedible Parts",
+      "Fetus & Placenta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the mishnah about inedible parts (hide, gravy, sediment, tendons, bones, horns, hooves) and their non-liability for pigul/notar/tumah, which is precisely what the 'Inedible Parts' prose section discusses.",
+      "chosen_heading": "Inedible Parts",
+      "current_heading": "Inedible Parts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Fetus & Placenta",
+    "candidates": [
+      "Fetus & Placenta",
+      "Milk & Eggs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses slaughtering female consecrated animals with intent to eat fetus or placenta outside, and pinching doves with intent to eat their eggs outside \u2014 exactly the content described in the 'Fetus & Placenta' section prose, which covers both the shalil/shilya ruling and the melikah/eggs ruling as part of the same mishnah clause.",
+      "chosen_heading": "Fetus & Placenta",
+      "current_heading": "Fetus & Placenta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Milk & Eggs",
+    "candidates": [
+      "Milk & Eggs",
+      "Elazar Asymmetry",
+      "Rashi Explanation",
+      "Bird Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about milk of consecrated animals and eggs of doves not carrying liability for pigul, notar, or tumah is precisely what the 'Milk & Eggs' section prose discusses.",
+      "chosen_heading": "Milk & Eggs",
+      "current_heading": "Milk & Eggs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Bird Parts",
+    "candidates": [
+      "Elazar Asymmetry",
+      "Rashi Explanation",
+      "Bird Parts",
+      "Tosafot View",
+      "Burned Animals",
+      "Baraita Proof",
+      "Emurim Thought"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's full statement covering both the animal/fetus asymmetry and the bird/crop asymmetry, which together establish the core asymmetry principle that the 'Elazar Asymmetry' section introduces, while the 'Bird Parts' section (current placement) is meant to discuss only the bird case as elaborated upon separately.",
+      "chosen_heading": "Elazar Asymmetry",
+      "current_heading": "Bird Parts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Emurim Thought",
+    "candidates": [
+      "Tosafot View",
+      "Burned Animals",
+      "Baraita Proof",
+      "Emurim Thought",
+      "Hair & Body Parts",
+      "Separate Entities"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Emurim Thought",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 all concern the piggul status of parim hanisrafim (burned bulls) and their emurim, including the linah proof attempt and its rejection, which precisely matches the 'Emurim Thought' section's prose about the gemara's attempts to prove Rabbi Elazar's asymmetry.",
+      "second_heading": "Hair & Body Parts",
+      "second_confidence": "high",
+      "second_reason": "Items 7\u201312 introduce Rabba's objection from the baraita listing wool, hair, hide, crop, bones, fetus, placenta, etc. that neither create nor become piggul, which matches exactly the 'Hair & Body Parts' section's prose cataloguing those same items.",
+      "current_heading": "Emurim Thought",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Separate Entities",
+    "candidates": [
+      "Hair & Body Parts",
+      "Separate Entities",
+      "No Obligation",
+      "Mother Thought",
+      "Baraita Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items constitute Rava's proof from the mishna/braita supporting Rabbi Elazar's asymmetry \u2014 Item 1 cites the ruling that slaughtering with intent to eat fetus/placenta/eggs outside does not create piggul, and Item 2 draws the inference that fetus/placenta *can* become piggul (from the mother), which directly supports the 'Baraita Intent' section's discussion of how the braita's scope is restricted to thoughts directed at these objects themselves, not thoughts about the mother.",
+      "chosen_heading": "Baraita Intent",
+      "current_heading": "Separate Entities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Baraita Intent",
+    "candidates": [
+      "No Obligation",
+      "Mother Thought",
+      "Baraita Intent",
+      "Rava Inference",
+      "Akiva Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's conclusion 'shema mina: kan machmat zevach, kan machmat atzman' \u2014 the precise inference Rava draws from the mishnah establishing the asymmetry \u2014 which is exactly what the 'Rava Inference' prose describes.",
+      "chosen_heading": "Rava Inference",
+      "current_heading": "Baraita Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Akiva Permits",
+    "candidates": [
+      "Rava Inference",
+      "Akiva Permits",
+      "Bird Parallel",
+      "Female Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Akiva's ruling on blemished animals placed on the altar and Rabbi Yochanan's qualification limiting it to eye-blemishes (dukin sheba'ayin) where consecration preceded the blemish \u2014 exactly what the 'Akiva Permits' prose describes.",
+      "chosen_heading": "Akiva Permits",
+      "current_heading": "Akiva Permits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Female Olah",
+    "candidates": [
+      "Bird Parallel",
+      "Female Olah",
+      "Zeira Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Akiva's concession regarding a female burnt offering and the reasoning that it is comparable to a blemish preceding consecration, which is precisely what the 'Female Olah' section's prose describes.",
+      "chosen_heading": "Female Olah",
+      "current_heading": "Female Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Zeira Challenge",
+    "candidates": [
+      "Zeira Challenge",
+      "Meat vs Emurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's objection itself \u2014 the raising of the challenge about the female burnt offering \u2014 which is exactly what the 'Zeira Challenge' section's prose describes, not the gemara's resolution discussed in 'Meat vs Emurim'.",
+      "chosen_heading": "Zeira Challenge",
+      "current_heading": "Zeira Challenge",
+      "moved": false
+    }
+  }
+]

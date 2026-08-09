@@ -1,0 +1,367 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Chizkiyahu Overview",
+    "candidates": [
+      "Chizkiyahu Overview",
+      "Half Impure & Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All eight items discuss the Hezekiah intercalation dispute \u2014 reasons for his seeking mercy, the tanna'im's positions on intercalating due to impurity, and the specific error of intercalating Nisan during Nisan \u2014 which is precisely the content described in the 'Chizkiyahu Overview' prose.",
+      "chosen_heading": "Chizkiyahu Overview",
+      "current_heading": "Chizkiyahu Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Half Impure & Women",
+    "candidates": [
+      "Half Impure & Women",
+      "Women's Status Shift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Ashi explanation of the half-impure/half-pure scenario with women completing the tally, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Half Impure & Women",
+      "current_heading": "Half Impure & Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Women's Status Shift",
+    "candidates": [
+      "Women's Status Shift",
+      "No Ibur on Adar 30",
+      "Ulla's De Facto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Chizkiyahu's evolving position on women's obligation in Pesach Rishon and how that shift affected the majority/minority calculation, which is precisely what the 'Women's Status Shift' prose discusses.",
+      "chosen_heading": "Women's Status Shift",
+      "current_heading": "Women's Status Shift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Ulla's De Facto",
+    "candidates": [
+      "No Ibur on Adar 30",
+      "Ulla's De Facto",
+      "Rava vs. Nachman",
+      "Purim-Pesach Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full sugya including Shmuel's initial ruling, Ulla's response, Rava's ruling, and Rav Nachman's ruling \u2014 the entire unit belongs under 'No Ibur on Adar 30' which introduces Shmuel's statement, while the current placement under 'Ulla's De Facto' and the split across candidates 1 and 2 artificially fragments what is a single Talmudic passage (gufah).",
+      "chosen_heading": "No Ibur on Adar 30",
+      "current_heading": "Ulla's De Facto",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Purim-Pesach Gap",
+    "candidates": [
+      "Rava vs. Nachman",
+      "Purim-Pesach Gap",
+      "Computation Known"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's objection to Rav Nachman about the thirty-day Purim-Pesach gap and the concern about treating chametz lightly, which is precisely what the 'Purim-Pesach Gap' section's prose describes.",
+      "chosen_heading": "Purim-Pesach Gap",
+      "current_heading": "Purim-Pesach Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Computation Known",
+    "candidates": [
+      "Computation Known",
+      "Majority Month Rule",
+      "Rabbi Yehuda: 16 Days",
+      "Rabbi Yose: 21 Days",
+      "Chag Ha-Asif Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's response that the public knows intercalation depends on calculation, which is precisely what the 'Computation Known' section's prose describes.",
+      "chosen_heading": "Computation Known",
+      "current_heading": "Computation Known",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Chag Ha-Asif Views",
+    "candidates": [
+      "Majority Month Rule",
+      "Rabbi Yehuda: 16 Days",
+      "Rabbi Yose: 21 Days",
+      "Chag Ha-Asif Views",
+      "Yom Tekufah Debate",
+      "Rabbi Yehuda: 16/20 Days",
+      "Matchil/Gomer Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 12 items form a continuous discussion about intercalating the year based on the tekufah being off by a majority of the month, the dispute between Rabbi Yehuda and Rabbi Yose over sixteen vs. twenty-one days derived from 'chag ha'asif tekufat hashana,' the yom tekufah gomer/matchil debate, and the contradictions between baraitot \u2014 all of which is precisely what the 'Chag Ha-Asif Views' prose describes.",
+      "chosen_heading": "Chag Ha-Asif Views",
+      "current_heading": "Chag Ha-Asif Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Matchil/Gomer Resolution",
+    "candidates": [
+      "Yom Tekufah Debate",
+      "Rabbi Yehuda: 16/20 Days",
+      "Matchil/Gomer Resolution",
+      "Five-Day Shift",
+      "Acheirim: 14 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that the difference between the two opinions concerns 'yom tekufah matchil' versus 'yom tekufah gomer' being unresolved, which directly matches the 'Matchil/Gomer Resolution' section's prose about the debate between Rabbi Yehuda and Rabbi Yose regarding whether the equinox day begins or concludes the season.",
+      "chosen_heading": "Matchil/Gomer Resolution",
+      "current_heading": "Matchil/Gomer Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Acheirim: 14 Days",
+    "candidates": [
+      "Five-Day Shift",
+      "Acheirim: 14 Days",
+      "Pesach Reference",
+      "Waxing Moon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Shmuel bar Rav Yitz\u1e25ak explaining that A\u1e25erim are discussing the Nisan tekufah based on 'shamor et chodesh ha'aviv' \u2014 is precisely what the 'Waxing Moon' prose section describes.",
+      "chosen_heading": "Waxing Moon",
+      "current_heading": "Acheirim: 14 Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Waxing Moon",
+    "candidates": [
+      "Pesach Reference",
+      "Waxing Moon",
+      "Ravina & Tishrei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Yaakov's answer about why one cannot simply add a day to Adar, which is precisely the content described in the 'Waxing Moon' prose section where it explicitly discusses this question and Rav Acha bar Yaakov's resolution.",
+      "chosen_heading": "Waxing Moon",
+      "current_heading": "Waxing Moon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Ravina & Tishrei",
+    "candidates": [
+      "Ravina & Tishrei",
+      "Elders Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ravina's alternative reading about Tishrei, acheirim requiring yom tov rishon to fall in the new season, and the chag ha'asif objection and answer \u2014 all of which are precisely what candidate 0's prose elaborates.",
+      "chosen_heading": "Ravina & Tishrei",
+      "current_heading": "Ravina & Tishrei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Elders Defined",
+    "candidates": [
+      "Elders Defined",
+      "5 vs. 3"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the baraita defining 'zekenim' as elders of the congregation (not marketplace elders), which is precisely what the 'Elders Defined' section's prose discusses.",
+      "chosen_heading": "Elders Defined",
+      "current_heading": "Elders Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "5 vs. 3",
+    "candidates": [
+      "5 vs. 3",
+      "Vayasmchu Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the debate between Rabbi Yehuda (five judges) and Rabbi Shimon (three judges) based on their respective derivations, which is precisely what the '5 vs. 3' section's prose describes.",
+      "chosen_heading": "5 vs. 3",
+      "current_heading": "5 vs. 3",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Vayasmchu Debate",
+    "candidates": [
+      "Vayasmchu Debate",
+      "Two Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the same dispute between Rabbi Yehuda and Rabbi Shimon over whether v'samchu is exegetically available, including the rosh-rosh gezeirah shavah argument, which is precisely what the 'Vayasmchu Debate' prose describes.",
+      "chosen_heading": "Vayasmchu Debate",
+      "current_heading": "Vayasmchu Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Two Types",
+    "candidates": [
+      "Two Types",
+      "Semichah Definition",
+      "Moshe & Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's core content \u2014 asking 'what is semichah and what is semichas zekeinim?' and Rabbi Yochanan's answer that it refers to ordination of elders \u2014 directly matches the 'Semichah Definition' section's prose, which explicitly discusses this same question and answer.",
+      "chosen_heading": "Semichah Definition",
+      "current_heading": "Two Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Moshe & Yehoshua",
+    "candidates": [
+      "Semichah Definition",
+      "Moshe & Yehoshua",
+      "One or 71?",
+      "Semichah by Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Abaye's question to Rav Yosef about deriving the requirement of three from the Moshe-Yehoshua verse, which is precisely what the 'Moshe & Yehoshua' section's prose describes, and the unresolved 'kashya' about one vs. seventy-one is a sub-point within that discussion rather than a separate section.",
+      "chosen_heading": "Moshe & Yehoshua",
+      "current_heading": "Moshe & Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Semichah by Name",
+    "candidates": [
+      "One or 71?",
+      "Semichah by Name",
+      "Dinei Knasos",
+      "One Person?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes ordination being conferred by name/title ('Rabbi') rather than by literal hand-laying, which is precisely what the 'Semichah by Name' section's prose discusses.",
+      "chosen_heading": "Semichah by Name",
+      "current_heading": "Semichah by Name",
+      "moved": false
+    }
+  }
+]

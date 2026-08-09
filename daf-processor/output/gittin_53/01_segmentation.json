@@ -43,7 +43,7 @@
           "timestamp": "08:46"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -62,7 +62,7 @@
           "timestamp": "20:59"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -353,5 +353,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "42:09",
+  "amud_b_micro_title": "Water Displacement",
+  "shiur_start_daf": 53,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,170 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rainwater & Intent",
+    "candidates": [
+      "Rainwater & Intent",
+      "Special Considerations",
+      "Rabbi Eliezer & Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's dilemma about rainwater and millstones (itztroblin), which is precisely what the 'Rainwater & Intent' section's prose describes and contextualizes.",
+      "chosen_heading": "Rainwater & Intent",
+      "current_heading": "Rainwater & Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbi Eliezer & Rabbis",
+    "candidates": [
+      "Special Considerations",
+      "Rabbi Eliezer & Rabbis",
+      "Tosafot's Middle Category",
+      "Spectrum of Attachment",
+      "Ayin Yafa & Sales",
+      "The Instruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's clarification that the dilemma only applies according to the rabbanan (not Rabbi Eliezer) and concludes with teiku, which is precisely what the 'Rabbi Eliezer & Rabbis' prose section describes.",
+      "chosen_heading": "Rabbi Eliezer & Rabbis",
+      "current_heading": "Rabbi Eliezer & Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "The Instruction",
+    "candidates": [
+      "Tosafot's Middle Category",
+      "Spectrum of Attachment",
+      "Ayin Yafa & Sales",
+      "The Instruction",
+      "Issur Nichsei Defined",
+      "Liens on Land Only",
+      "Itztroblin as Ground",
+      "Rental Income Collection",
+      "Lien Attachment Timing",
+      "What's Included",
+      "Separate Enterprises",
+      "Rabbi Eliezer's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute the instruction from Rav Nechemiah to collect the daughter's tenth even from the itztroblin, plus Rav Ashi's related teaching about rental income \u2014 exactly what heading 3 ('The Instruction') describes, and the subsequent headings (4\u20138) cover the essay's prose analysis of these rulings rather than the Talmudic text itself.",
+      "chosen_heading": "The Instruction",
+      "current_heading": "The Instruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rabbi Eliezer's View",
+    "candidates": [
+      "Issur Nichsei Defined",
+      "Liens on Land Only",
+      "Itztroblin as Ground",
+      "Rental Income Collection",
+      "Lien Attachment Timing",
+      "What's Included",
+      "Separate Enterprises",
+      "Rabbi Eliezer's View",
+      "Sand Fields",
+      "Courtyard Stores"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah introducing the sale of a courtyard including Rabbi Eliezer's restrictive 'airspace only' view, and the Gemara/baraita elaborating on outer/inner houses and Rabbi Eliezer's position \u2014 are precisely the content discussed in the 'Rabbi Eliezer's View' prose, which explicitly covers the baraita about outer and inner homes and Rabbi Eliezer's ruling.",
+      "chosen_heading": "Rabbi Eliezer's View",
+      "current_heading": "Rabbi Eliezer's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Courtyard Stores",
+    "candidates": [
+      "Sand Fields",
+      "Courtyard Stores",
+      "Linguistic Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses stores opening into both the courtyard and public domain, the contradiction between baraitot, and the resolution based on majority use (rov tashmishta), which is precisely what the 'Courtyard Stores' prose describes.",
+      "chosen_heading": "Courtyard Stores",
+      "current_heading": "Courtyard Stores",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Linguistic Analysis",
+    "candidates": [
+      "Linguistic Analysis",
+      "Mishkan Parallel",
+      "Sand & Pond Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabba's two versions of the linguistic analysis distinguishing dirata/darta/chatzer, which is precisely what the 'Linguistic Analysis' prose describes in detail.",
+      "chosen_heading": "Linguistic Analysis",
+      "current_heading": "Linguistic Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Sand & Pond Sale",
+    "candidates": [
+      "Mishkan Parallel",
+      "Sand & Pond Sale",
+      "Separate Functions Rule",
+      "Shmuel's Inclusive View",
+      "Connected vs. Distinct",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items together constitute the complete discussion of both versions of Rav Nachman's ruling on the sand field and pond \u2014 the first version (chazaka on one does not acquire the other), the challenge from Shmuel, the distinction based on separate functions, and then the alternative version (chazaka on one does acquire the other with the reframed chidush) \u2014 which matches precisely the 'Final Resolution' prose describing the alternative version and the kamashma lan conclusion.",
+      "chosen_heading": "Final Resolution",
+      "current_heading": "Sand & Pond Sale",
+      "moved": true
+    }
+  }
+]

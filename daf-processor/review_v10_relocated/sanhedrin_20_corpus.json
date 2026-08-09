@@ -1,0 +1,479 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Yosef, Boaz, Palti",
+    "candidates": [
+      "Yosef, Boaz, Palti",
+      "Charm, Vanity, Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the comparison of Yosef, Boaz, and Palti ben Laish in terms of resisting temptation, which is precisely what the prose under heading 0 ('Yosef, Boaz, Palti') discusses.",
+      "chosen_heading": "Yosef, Boaz, Palti",
+      "current_heading": "Yosef, Boaz, Palti",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Charm, Vanity, Fear",
+    "candidates": [
+      "Charm, Vanity, Fear",
+      "Generations Comparison",
+      "Yehuda bar Ilai Era"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Charm, Vanity, Fear",
+      "first_confidence": "high",
+      "first_reason": "Item 1 interprets 'Grace is deceitful' as referring to Joseph, Boaz, and Palti ben Laish \u2014 personal moral restraint \u2014 which matches the 'Charm, Vanity, Fear' prose exactly.",
+      "second_heading": "Generations Comparison",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'davar acher' shifting to generations of Moses, Joshua, and Hezekiah in the context of Torah study, which matches the 'Generations Comparison' prose exactly.",
+      "current_heading": "Charm, Vanity, Fear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Yehuda bar Ilai Era",
+    "candidates": [
+      "Generations Comparison",
+      "Yehuda bar Ilai Era",
+      "Mesirut Nefesh Analysis",
+      "King Confinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the second 'davar acher' where Moshe/Yehoshua = sheker hachen, Chizkiya = hevel hayofi, and Rabbi Yehuda bar Ilai's generation = yiras Hashem hi tishallal, with the detail about six students sharing one tallis \u2014 exactly matching the 'Yehuda bar Ilai Era' prose description.",
+      "chosen_heading": "Yehuda bar Ilai Era",
+      "current_heading": "Yehuda bar Ilai Era",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "King Confinement",
+    "candidates": [
+      "Mesirut Nefesh Analysis",
+      "King Confinement",
+      "David & Avner Case",
+      "Consolation Meal",
+      "Procession Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers the king's confinement to his palace during mourning, Rabbi Yehuda's proof from David following Avner's bier, the Sages' rebuttal about appeasing the people, and the consolation meal with the dargash \u2014 all of which begin with the 'King Confinement' section's prose introduction to this mishnah.",
+      "chosen_heading": "King Confinement",
+      "current_heading": "King Confinement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Procession Order",
+    "candidates": [
+      "David & Avner Case",
+      "Consolation Meal",
+      "Procession Order",
+      "David's Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself about procession order and Rabbi Yehuda's derivation from David and Avner's bier, which is precisely what the 'Procession Order' prose describes.",
+      "chosen_heading": "Procession Order",
+      "current_heading": "Procession Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "David's Strategy",
+    "candidates": [
+      "David's Strategy",
+      "Havra'ah Wordplay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes David moving between the men and women mourners to appease the people, which is precisely what the 'David's Strategy' section prose discusses.",
+      "chosen_heading": "David's Strategy",
+      "current_heading": "David's Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Havra'ah Wordplay",
+    "candidates": [
+      "Havra'ah Wordplay",
+      "Avner's Protest",
+      "David's Eulogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's homiletical interpretation of the ketiv-keri wordplay between 'lehakhrot' (destroy) and 'lehavrot' (comfort), which matches exactly the content described in the 'Havra'ah Wordplay' section prose.",
+      "chosen_heading": "Havra'ah Wordplay",
+      "current_heading": "Havra'ah Wordplay",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "David's Eulogy",
+    "candidates": [
+      "Avner's Protest",
+      "David's Eulogy",
+      "Injustice Reading",
+      "Delayed Kingship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rav and Rabbi Yitzchak about whether Avner protested or not, and then explain how each reads the verse \u2014 this is precisely what heading 0 ('Avner's Protest') describes, while heading 1 ('David's Eulogy') covers only the reading of the verse according to the 'did not protest' view, and heading 2 covers only the 'did protest' reading, making heading 0 the best single home for the complete passage.",
+      "chosen_heading": "Avner's Protest",
+      "current_heading": "David's Eulogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Delayed Kingship",
+    "candidates": [
+      "Injustice Reading",
+      "Delayed Kingship",
+      "Luck Bed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Avner was punished despite protesting, with Rav Na\u1e25man bar Yitz\u1e25ak's answer about delaying the kingdom of the house of David \u2014 exactly the content described in the 'Delayed Kingship' prose.",
+      "chosen_heading": "Delayed Kingship",
+      "current_heading": "Delayed Kingship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Luck Bed",
+    "candidates": [
+      "Luck Bed",
+      "Functionality Challenge",
+      "Mourning Context",
+      "Bed Overturning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Ulla's definition of dargash as 'arsa degada' (bed of fortune) and the rabbanan's immediate challenge \u2014 both of which are discussed in heading 0's prose about what a dargash is and heading 1's prose about the functionality challenge, but since the passage covers only up to the rabbanan's question (not Rava's response), and heading 0's prose explicitly addresses Ulla's answer and the decorative non-sitting nature of the dargash, the current placement under 'Luck Bed' is correct.",
+      "chosen_heading": "Luck Bed",
+      "current_heading": "Luck Bed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Bed Overturning",
+    "candidates": [
+      "Functionality Challenge",
+      "Mourning Context",
+      "Bed Overturning",
+      "Strap Release"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with Rava's deflection using the eating/drinking analogy (matching 'Mourning Context' prose exactly) and then pivots to the dargash overturning difficulty \u2014 but the current placement under 'Bed Overturning' skips the eating/drinking deflection, while candidate 1's prose explicitly describes Rava's eating/drinking deflection as its content, making it the correct home for this passage which contains both Rava's initial response and his redirection.",
+      "chosen_heading": "Mourning Context",
+      "current_heading": "Bed Overturning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Strap Release",
+    "candidates": [
+      "Bed Overturning",
+      "Strap Release",
+      "Leather Bed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'designated for garments' response (dismissing the first difficulty) and the introduction of Rabban Shimon ben Gamliel's strap ruling as the real difficulty \u2014 which is precisely what the 'Bed Overturning' prose describes as Rava's redirection, making that section the correct home for this text.",
+      "chosen_heading": "Bed Overturning",
+      "current_heading": "Strap Release",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Leather Bed",
+    "candidates": [
+      "Leather Bed",
+      "Strap Placement",
+      "Wood Finishing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Leather Bed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Ravin's report that a dargash is a leather bed, which matches heading 0's prose about Ravin, Rav Tachlifa, the tanners' marketplace, and the leather bed definition.",
+      "second_heading": "Strap Placement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rabbi Yirmiyah/Rabbi Yochanan's structural distinction about strap placement (sirugo mitocho vs. me'al gabah), which matches exactly the prose of heading 1.",
+      "current_heading": "Leather Bed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Wood Finishing",
+    "candidates": [
+      "Strap Placement",
+      "Wood Finishing",
+      "Both Have Holes",
+      "Rings vs Holes",
+      "Halacha Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage challenges Rabbi Yochanan's claim about exterior strapping by citing the fish-skin polishing requirement, then resolves it \u2014 exactly the content described in the 'Wood Finishing' prose about the fish-skin challenge and why exposed wood would need polishing.",
+      "chosen_heading": "Wood Finishing",
+      "current_heading": "Wood Finishing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Halacha Ruling",
+    "candidates": [
+      "Both Have Holes",
+      "Rings vs Holes",
+      "Halacha Ruling",
+      "High Posts",
+      "War & Roads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the ruling by Rabbi Ya'akov in the name of Rabbi Yehoshua ben Levi that the halacha follows Rabban Shimon ben Gamliel, which is precisely what the 'Halacha Ruling' section's prose describes, and its current placement is correct.",
+      "chosen_heading": "Halacha Ruling",
+      "current_heading": "Halacha Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "War & Roads",
+    "candidates": [
+      "High Posts",
+      "War & Roads",
+      "Seventy-One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about optional war requiring 71 judges, the king's pathway, and receiving first portion of spoils is directly described and analyzed in the 'War & Roads' section prose.",
+      "chosen_heading": "War & Roads",
+      "current_heading": "War & Roads",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Seventy-One",
+    "candidates": [
+      "Seventy-One",
+      "Powers Permitted",
+      "Fear, Not Rights",
+      "R. Yose & R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about the Gemara's question of why the mishna repeats the 71-judge requirement for optional war, and the answer that it's gathering all royal laws together \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Seventy-One",
+      "current_heading": "Seventy-One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "R. Yose & R. Yehuda",
+    "candidates": [
+      "Powers Permitted",
+      "Fear, Not Rights",
+      "R. Yose & R. Yehuda",
+      "Three Commandments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Amoraic dispute (Rav Yehuda/Shmuel vs. Rav) and its parallel Tannaitic dispute (Rabbi Yose vs. Rabbi Yehuda), which is precisely what the prose under 'R. Yose & R. Yehuda' describes \u2014 the current placement is correct.",
+      "chosen_heading": "R. Yose & R. Yehuda",
+      "current_heading": "R. Yose & R. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Three Commandments",
+    "candidates": [
+      "Three Commandments",
+      "Response to Complaint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda's teaching about the three commandments upon entering the Land, which is exactly what the prose under 'Three Commandments' discusses.",
+      "chosen_heading": "Three Commandments",
+      "current_heading": "Three Commandments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Response to Complaint",
+    "candidates": [
+      "Response to Complaint",
+      "Elders vs. People"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Nehorai's view that the biblical passage about appointing a king was stated only in response to the people's complaint, which is precisely what the 'Response to Complaint' section's prose discusses.",
+      "chosen_heading": "Response to Complaint",
+      "current_heading": "Response to Complaint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Elders vs. People",
+    "candidates": [
+      "Elders vs. People",
+      "Sequence Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Elders vs. People' section prose, which explicitly discusses Rabbi Eliezer's baraita distinguishing the elders' proper request from the common people's corrupted motivation.",
+      "chosen_heading": "Elders vs. People",
+      "current_heading": "Elders vs. People",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Sequence Logic",
+    "candidates": [
+      "Sequence Logic",
+      "King First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly presents Rabbi Yosei's statement of the three commandments and his uncertainty about their sequence ('I do not know which comes first'), which is precisely what the 'Sequence Logic' prose section introduces and discusses.",
+      "chosen_heading": "Sequence Logic",
+      "current_heading": "Sequence Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "King First",
+    "candidates": [
+      "King First",
+      "Historical Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the verse about the throne (kes/kisei) of God and its connection to appointing a king before waging war on Amalek, which matches exactly what the 'King First' section's prose describes.",
+      "chosen_heading": "King First",
+      "current_heading": "King First",
+      "moved": false
+    }
+  }
+]

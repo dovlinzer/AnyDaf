@@ -1,0 +1,478 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Proof 1: Mishnah",
+    "candidates": [
+      "Intro: Tzaar Ba'alei",
+      "Proof 1: Mishnah",
+      "Response: Paid vs Free",
+      "Proof 2: Non-Jew's Animal",
+      "Resolution: Eivah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 is the 'teda' proof from the Mishnah's patur ruling (matching heading 1's prose exactly), and Item 2 is the Gemara's rejection of that proof via the paid/free distinction (matching heading 2's prose exactly) \u2014 but since the current placement puts both under heading 1 and the passage is a continuous challenge-and-response unit, it belongs under heading 1 where the proof originates, with heading 2's prose describing the same content as Item 2. However, since the essay author clearly wrote separate prose for headings 1 and 2 describing Items 1 and 2 respectively, and the current placement has both items under heading 1, but heading 2 exists precisely to cover Item 2, a split is warranted \u2014 yet the instructions say to use FORM 1 for challenge-and-resolution chains. The passage is one continuous topic (proof and its rejection), so it stays under the current placement.",
+      "chosen_heading": "Proof 1: Mishnah",
+      "current_heading": "Proof 1: Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Resolution: Eivah",
+    "candidates": [
+      "Response: Paid vs Free",
+      "Proof 2: Non-Jew's Animal",
+      "Resolution: Eivah",
+      "Proof 3: Non-Jew Animal",
+      "Loading vs Unloading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mnemonic, the proof from a non-Jew's animal, and the rejection via eivah reinforced by the yayin nesech case \u2014 are precisely what candidate 2 ('Resolution: Eivah') describes in its prose, including the eivah counterproposal and the yayin nesech sub-argument.",
+      "chosen_heading": "Resolution: Eivah",
+      "current_heading": "Resolution: Eivah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Loading vs Unloading",
+    "candidates": [
+      "Proof 3: Non-Jew Animal",
+      "Loading vs Unloading",
+      "Proof 4: Verse Citations",
+      "Rabbi Yosei HaGelili"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Proof 3: Non-Jew Animal",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous chain of argument about the non-Jew's animal/Jew's burden case, the loading/unloading distinction, and the 'person follows his donkey' resolution \u2014 exactly what candidates 0 and 1 discuss, and the flow across those two headings matches the content of items 1-3 being placed under heading 0 ('Proof 3: Non-Jew Animal') since that prose explicitly covers the te'inah/prika distinction and the stama d'milta principle.",
+      "second_heading": "Proof 4: Verse Citations",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises the objection that the cited verses (ve'chadalta and azov ta'azov) are explicitly about unloading (prika), not loading (te'inah), which is precisely what candidate 2 ('Proof 4: Verse Citations') describes as backing the Gemara into a corner.",
+      "current_heading": "Loading vs Unloading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Rabbi Yosei HaGelili",
+    "candidates": [
+      "Proof 4: Verse Citations",
+      "Rabbi Yosei HaGelili",
+      "Proof 5: Unloading Limits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rabbi Yosei HaGelili",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the Rabbi Yosei HaGelili attribution and the ohev/sonei and sonei Yisrael proofs, exactly matching candidate 1's prose.",
+      "second_heading": "Proof 5: Unloading Limits",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 introduce the new rovetz/ravtzan/omed baraita with its challenge and Rabbi Yosei ha-Gelili attribution, precisely matching candidate 2's prose about 'Proof 5: Unloading Limits'.",
+      "current_heading": "Rabbi Yosei HaGelili",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Proof 5: Unloading Limits",
+    "candidates": [
+      "Proof 5: Unloading Limits",
+      "Charging for Reload",
+      "Distance: One Ris"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's challenge to attributing the Baraita to Rabbi Yosei ha-Gelili based on the 'velo mefurak' clause, and the resolution that he agrees with the Rabbanan on reloading for pay \u2014 exactly what Candidate 1 ('Charging for Reload') describes in its prose.",
+      "chosen_heading": "Charging for Reload",
+      "current_heading": "Proof 5: Unloading Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Distance: One Ris",
+    "candidates": [
+      "Charging for Reload",
+      "Distance: One Ris",
+      "Accompaniment: One Parsah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly defines the obligation distance using the tension between 'ki tir'eh' and 'ki tifga,' concluding with the Sages' measurement of one ris \u2014 exactly what the 'Distance: One Ris' section's prose describes.",
+      "chosen_heading": "Distance: One Ris",
+      "current_heading": "Distance: One Ris",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Accompaniment: One Parsah",
+    "candidates": [
+      "Accompaniment: One Parsah",
+      "Charge for Parsah",
+      "Your Object First",
+      "Father Over Teacher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about accompanying the animal for one parsah is discussed under heading 0, and while heading 1 discusses the remuneration aspect, both parts of this single passage (the accompaniment requirement and the payment ruling) are presented together as one unit, and the current placement under 'Accompaniment: One Parsah' covers the full content including the Rabbah bar bar \u1e24ana statement.",
+      "chosen_heading": "Accompaniment: One Parsah",
+      "current_heading": "Accompaniment: One Parsah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Father Over Teacher",
+    "candidates": [
+      "Charge for Parsah",
+      "Your Object First",
+      "Father Over Teacher",
+      "Father Is Sage",
+      "Burdens & Captivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Mishnah text covering all three priority rules (self over father, self over teacher, teacher over father including the chacham qualification), and candidate 1 ('Your Object First') introduces this Mishnah as a unit \u2014 its prose explicitly references the opening ruling about one's own lost object coming first, which is where this Mishnah begins, making it the correct home for the complete Mishnah passage.",
+      "chosen_heading": "Your Object First",
+      "current_heading": "Father Over Teacher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Burdens & Captivity",
+    "candidates": [
+      "Father Is Sage",
+      "Burdens & Captivity",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the burden-carrying and captivity cases along with the father-as-scholar exception, matching precisely the 'Burdens & Captivity' section's prose which discusses all three scenarios together.",
+      "chosen_heading": "Burdens & Captivity",
+      "current_heading": "Burdens & Captivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "Verse Source",
+      "Who Is a Rabbi?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the content described in the 'Verse Source' prose: the Gemara's derivation from the verse and Rav Yehuda/Rav's caution about always insisting on priority for oneself.",
+      "chosen_heading": "Verse Source",
+      "current_heading": "Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Who Is a Rabbi?",
+    "candidates": [
+      "Who Is a Rabbi?",
+      "Honor vs Precedence",
+      "Rav Chisda's Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Who Is a Rabbi?",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (the Baraita defining who counts as one's teacher and Rava/Shmuel's illustrations of Rabbi Yosei's position) are precisely what heading 0 'Who Is a Rabbi?' discusses in its prose.",
+      "second_heading": "Honor vs Precedence",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Ulla's distinction between the broad honors owed to Torah scholars generally and the stricter rabo muvhak standard for lost-object priority over one's father) matches exactly what heading 1 'Honor vs Precedence' discusses in its prose.",
+      "current_heading": "Who Is a Rabbi?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rav Chisda's Question",
+    "candidates": [
+      "Honor vs Precedence",
+      "Rav Chisda's Question",
+      "Ruling on Rabbi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange between Rav Chisda and Rav Huna, the estrangement, and the forty fasts each observed, which is precisely what the prose under 'Rav Chisda's Question' discusses.",
+      "chosen_heading": "Rav Chisda's Question",
+      "current_heading": "Rav Chisda's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Ruling on Rabbi",
+    "candidates": [
+      "Ruling on Rabbi",
+      "Study Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the competing rulings about Rabbi Yehuda vs. Rabbi Yosei and the challenge/resolution regarding Rabbi Yochanan's consistency with the stam mishna, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Ruling on Rabbi",
+      "current_heading": "Ruling on Rabbi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Study Classification",
+    "candidates": [
+      "Study Classification",
+      "Contradiction",
+      "Rabbi's Reform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Baraita including both the hierarchy and the 'always pursue Mishnah' conclusion, and the 'Study Classification' prose explicitly discusses the entire Baraita as a unit covering all three levels (mikra, Mishnah, gemara), while the 'Contradiction' section's prose deals with the Gemara's subsequent analysis of the internal tension within the Baraita rather than the Baraita itself.",
+      "chosen_heading": "Study Classification",
+      "current_heading": "Study Classification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rabbi's Reform",
+    "candidates": [
+      "Contradiction",
+      "Rabbi's Reform",
+      "Gemara: Errors = Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer resolving the internal contradiction of the Baraita \u2014 item 1 is the Gemara's question noting the contradiction, and item 2 is Rabbi Yochanan's historical resolution \u2014 which matches candidate 0 ('Contradiction') whose prose explicitly quotes the contradiction and notes the Gemara flags it, rather than candidate 1 ('Rabbi's Reform') which discusses the resolution's broader implications.",
+      "chosen_heading": "Contradiction",
+      "current_heading": "Rabbi's Reform",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Gemara: Errors = Sins",
+    "candidates": [
+      "Rabbi's Reform",
+      "Gemara: Errors = Sins",
+      "Learner Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yehuda bar Ila'i's derasha on Isaiah 58:1 establishing that Torah scholars' errors become intentional transgressions, which is precisely what candidate 1's prose describes as the basis for gemara's supreme status.",
+      "chosen_heading": "Gemara: Errors = Sins",
+      "current_heading": "Gemara: Errors = Sins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Learner Categories",
+    "candidates": [
+      "Learner Categories",
+      "All Israel Rejoices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expounds the Isaiah 66:5 verse identifying talmidei chachamim, ba'alei mikra, ba'alei Mishnah, and ammei ha'aretz, which is precisely what the 'Learner Categories' prose discusses in detail.",
+      "chosen_heading": "Learner Categories",
+      "current_heading": "Learner Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "All Israel Rejoices",
+    "candidates": [
+      "All Israel Rejoices",
+      "Four Watchmen",
+      "Voluntary Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the closing reconciliatory note about all Israel rejoicing and the nations being ashamed, which is precisely what the 'All Israel Rejoices' section prose discusses.",
+      "chosen_heading": "All Israel Rejoices",
+      "current_heading": "All Israel Rejoices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Voluntary Payment",
+    "candidates": [
+      "Four Watchmen",
+      "Voluntary Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The text 'Hadran alach Eilu Metziot' is the concluding formula recited at the end of chapter two (Eilu Metziot), marking the transition to chapter three \u2014 which the prose under 'Four Watchmen' explicitly introduces as the opening of the third chapter of Bava Metzia.",
+      "chosen_heading": "Four Watchmen",
+      "current_heading": "Voluntary Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Voluntary Payment",
+    "candidates": [
+      "Voluntary Payment",
+      "Thief Found: Kefel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text describes the scenario of an unpaid bailee who pays voluntarily rather than taking an oath, which is precisely what the 'Voluntary Payment' section's prose discusses and introduces.",
+      "chosen_heading": "Voluntary Payment",
+      "current_heading": "Voluntary Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Thief Found: Kefel",
+    "candidates": [
+      "Thief Found: Kefel",
+      "Swears Not Pays",
+      "Animals & Vessels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Thief Found: Kefel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the bailee who paid voluntarily and the thief's kefel going to the shomer, exactly matching candidate 0's prose about the shomer who pays acquiring the right to kefel.",
+      "second_heading": "Swears Not Pays",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the contrasting case where the bailee took an oath and did not pay, with the thief's kefel going to the owner, exactly matching candidate 1's prose about the shomer who swore and the payment going to the ba'al ha'pikadon.",
+      "current_heading": "Thief Found: Kefel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Animals & Vessels",
+    "candidates": [
+      "Swears Not Pays",
+      "Animals & Vessels",
+      "Rami's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'why does the mishna need to teach behema and why does it need to teach keilim,' which is exactly the question that candidate 1's prose ('Animals & Vessels') addresses and elaborates upon.",
+      "chosen_heading": "Animals & Vessels",
+      "current_heading": "Animals & Vessels",
+      "moved": false
+    }
+  }
+]

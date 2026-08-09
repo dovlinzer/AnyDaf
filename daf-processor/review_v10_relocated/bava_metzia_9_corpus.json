@@ -1,0 +1,417 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Camel/Donkey Debate",
+    "candidates": [
+      "Rocheiv Definition",
+      "Camel/Donkey Debate",
+      "Natural Control",
+      "Tanna/Rabbi Yehuda",
+      "Disputed Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Tanna/Rabbi Yehuda' prose: the baraita about pulling/driving camels and donkeys, Rabbi Yehuda's position requiring the natural method, the gemara's question about why the tanna kamma separates the animals, and the unresolved conclusion that one specific method for one animal fails (meshicha for donkey or hanhaga for camel).",
+      "chosen_heading": "Tanna/Rabbi Yehuda",
+      "current_heading": "Camel/Donkey Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Disputed Method",
+    "candidates": [
+      "Natural Control",
+      "Tanna/Rabbi Yehuda",
+      "Disputed Method",
+      "Rider & Reins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the continuation of the seifa-based objection and the tanna kamma/Rabbi Yehuda comparison discussed in the 'Disputed Method' prose, which explicitly traces exactly this chain: the gemara reads bemidah zo lema'utei ipcha, then objects ee hachi hainu Rebbi Yehuda, then resolves it with ika beineihu tzad echad delo kani \u2014 matching items 1 and 2 precisely.",
+      "chosen_heading": "Disputed Method",
+      "current_heading": "Disputed Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rider & Reins",
+    "candidates": [
+      "Rider & Reins",
+      "Animal vs. Reins",
+      "Asymmetry Question",
+      "First Girsa",
+      "Hagbaha Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about one person riding a donkey and another holding the reins, which is precisely what the 'Rider & Reins' section prose describes as its core text and initial analysis.",
+      "chosen_heading": "Rider & Reins",
+      "current_heading": "Rider & Reins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Hagbaha Half",
+    "candidates": [
+      "Animal vs. Reins",
+      "Asymmetry Question",
+      "First Girsa",
+      "Hagbaha Half",
+      "Second Girsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the gemara's proposed emendation (eima ze kana chamor vechatzi mosira veze kana chatzi mosira) and the immediate question about how the rein-holder acquires his half, which is precisely what 'First Girsa' prose describes \u2014 the rider acquiring the donkey and half the reins, and the puzzle about the ground-picker's acquisition mechanism.",
+      "chosen_heading": "First Girsa",
+      "current_heading": "Hagbaha Half",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Second Girsa",
+    "candidates": [
+      "Hagbaha Half",
+      "Second Girsa",
+      "Third Girsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Second Girsa' section: item 1 presents the emended text where the rider acquires the donkey and entire reins while the picker gets only what is in his hand, and item 2 is the gemara's rejection of this reading based on the principle that hagbaha on behalf of another requires intent to acquire for that other \u2014 exactly what the 'Second Girsa' prose describes in detail.",
+      "chosen_heading": "Second Girsa",
+      "current_heading": "Second Girsa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Third Girsa",
+    "candidates": [
+      "Third Girsa",
+      "Rav Abbahu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about the rider acquiring the donkey and its halter, the holder acquiring what is in his hand, and neither acquiring the remainder \u2014 which is precisely what the 'Third Girsa' prose section discusses and attributes to Rav Ashi.",
+      "chosen_heading": "Third Girsa",
+      "current_heading": "Third Girsa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Abbahu",
+    "candidates": [
+      "Rav Abbahu",
+      "Talis Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abbahu's statement that the baraita stands as-is because he can detach and bring the reins to himself, which directly matches the prose under heading 0 ('Rav Abbahu') and precedes the Talis Rejection.",
+      "chosen_heading": "Rav Abbahu",
+      "current_heading": "Rav Abbahu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Talis Rejection",
+    "candidates": [
+      "Talis Rejection",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the gemara's rejection of Rabbi Abbahu's principle using the talis-half-on-floor/half-on-pillar reductio ad absurdum, which is precisely what the 'Talis Rejection' section's prose describes.",
+      "chosen_heading": "Talis Rejection",
+      "current_heading": "Talis Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Manhig Forms",
+      "Rav Kahana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Rabbi Eliezer baraita about riding in the field and leading in the city, which is exactly what the prose under heading 0 discusses, including the two-types-of-leading resolution.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Kahana",
+    "candidates": [
+      "Manhig Forms",
+      "Rav Kahana",
+      "Unnatural Acts",
+      "Seller Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Kahana's statement that people do not normally ride in the city, which is exactly what the 'Rav Kahana' section's prose discusses and analyzes.",
+      "chosen_heading": "Rav Kahana",
+      "current_heading": "Rav Kahana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Seller Restriction",
+    "candidates": [
+      "Unnatural Acts",
+      "Seller Restriction",
+      "Special Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's challenge about lifting a purse on Shabbat to prove that unusual acts still effect acquisition, which is precisely what the 'Unnatural Acts' section's prose describes and analyzes.",
+      "chosen_heading": "Unnatural Acts",
+      "current_heading": "Seller Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Special Conditions",
+    "candidates": [
+      "Seller Restriction",
+      "Special Conditions",
+      "Drag for Goods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the gemara's resolution about the seller's stipulation ('kani k'derech bnei adam konim'), and Item 2 lists the refinements/exceptions to that ruling \u2014 both are discussed together in candidate 0's prose, which covers both the seller's stipulation and the contextual overrides, whereas candidate 1's prose discusses the same material but candidate 0 is where the passage currently should be moved to since it opens with the seller-stipulation resolution that candidate 0's prose explicitly addresses first.",
+      "chosen_heading": "Seller Restriction",
+      "current_heading": "Special Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Drag for Goods",
+    "candidates": [
+      "Drag for Goods",
+      "Phrasing Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's initial dilemma about pulling an animal to acquire vessels upon it, which matches heading 0's prose describing exactly this question before the phrasing objection discussed in heading 1.",
+      "chosen_heading": "Drag for Goods",
+      "current_heading": "Drag for Goods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Phrasing Issue",
+    "candidates": [
+      "Phrasing Issue",
+      "Rava Deflection",
+      "Kinyan Chatzer",
+      "Moving Chatzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the phrasing correction from 'liknos' to 'meshoch behemah zu ve'kni keilim she'alehah' and poses the substantive meshicha question, which is precisely what the 'Phrasing Issue' prose describes.",
+      "chosen_heading": "Phrasing Issue",
+      "current_heading": "Phrasing Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Moving Chatzer",
+    "candidates": [
+      "Rava Deflection",
+      "Kinyan Chatzer",
+      "Moving Chatzer",
+      "Boat & Basket"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava Deflection",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 form a continuous discussion of Rava's challenge about chatzer mehalekhes and the rejection of the 'when standing' workaround, which precisely matches the prose of candidates 0 and 1 taken together \u2014 but candidate 0 ('Rava Deflection') introduces Rava's meta-challenge and candidate 1 ('Kinyan Chatzer') covers the rejection of the standing-still argument, so items 1-2 belong under candidate 0 as the opening of that discussion arc that flows into candidate 1.",
+      "second_heading": "Moving Chatzer",
+      "second_confidence": "high",
+      "second_reason": "Item 3 \u2014 the concluding halakhic ruling 'b'kfusa' (when bound) \u2014 is the wrap-up line that candidate 2 ('Moving Chatzer') explicitly references as the partial answer offered along the way, making it the natural home for this closing ruling.",
+      "current_heading": "Moving Chatzer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Boat & Basket",
+    "candidates": [
+      "Boat & Basket",
+      "Self-Moving vs. Owned",
+      "Rider Case",
+      "Friend's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the boat/fish case and the basket/get case, which are precisely what the 'Boat & Basket' section prose describes in detail.",
+      "chosen_heading": "Boat & Basket",
+      "current_heading": "Boat & Basket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Friend's Claim",
+    "candidates": [
+      "Self-Moving vs. Owned",
+      "Rider Case",
+      "Friend's Claim",
+      "Peah Case",
+      "Migo Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage describes the rider-on-animal scenario (hayah rochev al gabei behemah), which is precisely what the 'Rider Case' prose introduces, covering the full mishna including both the friend's acquisition and the retroactive claim.",
+      "chosen_heading": "Rider Case",
+      "current_heading": "Friend's Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Migo Analysis",
+    "candidates": [
+      "Peah Case",
+      "Migo Analysis",
+      "Both Poor",
+      "Core Debate",
+      "Mishnah Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Peah Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the pe'ah mishna, Ulla/Rabbi Yehoshua ben Levi's rich-vs-poor framing, the double-migo analysis of Rabbi Eliezer vs. Rabbis, and the me'ani le'ani conclusion \u2014 all matching 'Peah Case' and 'Migo Analysis' prose, but since they form one continuous unit starting with the pe'ah mishna citation through the migo resolution, heading 0 ('Peah Case') is where this block begins.",
+      "second_heading": "Both Poor",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 present Rav Nachman's challenge to Ulla arguing the dispute should be framed as me'ani le'ani with support from the metziah mishna, which matches exactly the 'Both Poor' heading's prose about Rav Nachman reframing the debate around poor-to-poor gleaning.",
+      "current_heading": "Migo Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Mishnah Reading",
+    "candidates": [
+      "Both Poor",
+      "Core Debate",
+      "Mishnah Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Ulla's response that the mishna refers to a case where the lifter declared his intention at the outset, which is precisely what the prose under 'Mishnah Reading' discusses and elaborates upon.",
+      "chosen_heading": "Mishnah Reading",
+      "current_heading": "Mishnah Reading",
+      "moved": false
+    }
+  }
+]

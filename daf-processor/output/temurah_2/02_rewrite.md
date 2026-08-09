@@ -130,7 +130,7 @@ The *Gemara* leaves the question unresolved, and then introduces a conditional f
 
 ### Non-Jew Setup
 
-This conditional leads directly to the parallel case of the non-Jew: *oved kochavim mahu she'yamir* — can a non-Jew perform *temurah*? The *Gemara* notes that a non-Jew does have the power to sanctify. The *baraita* derives this from the double expression *ish ish* — "any man" who brings a *korban* — understood as inclusive of non-Jews, who may make *nedarim* and *nedavot* like Jews. So he has *kedushah* capacity. Yet he is not merely not yet subject to the laws of *temurah* — he will never be. He is categorically outside the prohibition. The question is whether this categorical exclusion also removes the metaphysical efficacy of his act.
+The *Gemara* now raises the parallel case of the non-Jew: can a non-Jew perform *temurah*? On one hand, a non-Jew does have the power to sanctify — the *baraita* derives this from the double expression *ish ish*, "any man" who brings a *korban*, understood as inclusive of non-Jews who may make *nedarim* and *nedavot* like Jews. Since he can sanctify, perhaps he can also effect a *temurah* on his offering. On the other hand, since he is not in the category of punishment — he will never be subject to the prohibition of *temurah* — perhaps the *temurah* he performs will also not take effect. The question is posed, and the *Gemara* now turns to examine it further.
 
 ## Sin vs Metaphysics (III)
 

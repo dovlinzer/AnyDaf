@@ -1,0 +1,504 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "R. Yochanan: Mashiach Era",
+    "candidates": [
+      "Opening Context",
+      "Bar Nafli",
+      "R. Yochanan: Mashiach Era",
+      "7-Year Progression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Bar Nafli exchange \u2014 item 1 establishes the name and its derivation, and item 2 is Rabbi Yitzchak's immediate response within that same conversation \u2014 and the 'Bar Nafli' section prose explicitly describes both the naming discussion and its connection to the fallen booth verse, making it the clearly correct home for this passage rather than the current placement under 'R. Yochanan: Mashiach Era'.",
+      "chosen_heading": "Bar Nafli",
+      "current_heading": "R. Yochanan: Mashiach Era",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "7-Year Progression",
+    "candidates": [
+      "R. Yochanan: Mashiach Era",
+      "7-Year Progression",
+      "Rav Yosef Challenge",
+      "Abaye Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita describing the seven-year progression leading to Mashiach's arrival, which is precisely what the '7-Year Progression' section's prose discusses in detail.",
+      "chosen_heading": "7-Year Progression",
+      "current_heading": "7-Year Progression",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Abaye Response",
+    "candidates": [
+      "Rav Yosef Challenge",
+      "Abaye Response",
+      "Social Breakdown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rav Yosef's challenge and Abaye's response as a single continuous exchange, but Rav Yosef's objection is the initiating statement that the subsequent Abaye response builds upon \u2014 however, since the passage includes both voices and the 'Rav Yosef Challenge' heading's prose covers Rav Yosef's objection while 'Abaye Response' covers Abaye's reply, and both appear together in one quoted block, the best single home is index 0 where the exchange begins, though index 1 is also plausible given it contains Abaye's words which are the more substantive portion.",
+      "chosen_heading": "Rav Yosef Challenge",
+      "current_heading": "Abaye Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Social Breakdown",
+    "candidates": [
+      "Social Breakdown",
+      "Wisdom Spoiled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full baraita including social breakdown elements (hall of assembly for prostitution, Galilee destroyed, border residents wandering) which are the primary focus of heading 0's prose, and the current placement is correct.",
+      "chosen_heading": "Social Breakdown",
+      "current_heading": "Social Breakdown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Wisdom Spoiled",
+    "candidates": [
+      "Wisdom Spoiled",
+      "Truth Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the meaning of 'vatehi ha-emet ne'ederet' and 've-sar me-ra mishtolel,' which is exactly what candidate 1 ('Truth Lost') elaborates on in its prose, whereas candidate 0 only briefly mentions 've-ha-emet ne'ederet' in passing without analyzing it.",
+      "chosen_heading": "Truth Lost",
+      "current_heading": "Wisdom Spoiled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Truth Lost",
+    "candidates": [
+      "Wisdom Spoiled",
+      "Truth Lost",
+      "Rava's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava's initial skepticism about truth and Rav Tavut/Tavyomi's story of visiting the city called Truth, which is exactly what the 'Truth Lost' section's prose discusses in detail.",
+      "chosen_heading": "Truth Lost",
+      "current_heading": "Truth Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rava's Story",
+    "candidates": [
+      "Rava's Story",
+      "R. Nehorai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of the wife washing her hair, the neighbor at the door, the two sons dying, and the expulsion from the city \u2014 which is precisely what the prose under 'Rava's Story' discusses.",
+      "chosen_heading": "Rava's Story",
+      "current_heading": "Rava's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "R. Nehorai",
+    "candidates": [
+      "R. Nehorai",
+      "R. Nechemiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Nehorai describing youth humiliating elders, daughter rebelling against mother, bride against mother-in-law, etc., which matches exactly the prose under heading 0 ('R. Nehorai').",
+      "chosen_heading": "R. Nehorai",
+      "current_heading": "R. Nehorai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "R. Nechemiah",
+    "candidates": [
+      "R. Nechemiah",
+      "R. Yitzchak Sign",
+      "Divine Judgment",
+      "Hand Extended"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Ne\u1e25emya's baraita and Rabbi Yitz\u1e25ak's supporting statement with Rava's verse, and the current heading's prose explicitly covers all of this content including the vine/wine, minut, and the connection to Rabbi Yitz\u1e25ak \u2014 the separate 'R. Yitzchak Sign' heading's prose discusses only the Rabbi Yitzchak/Rava portion, but since the baraita and the support for Rabbi Yitzchak appear as one continuous Talmudic unit, it belongs under the heading whose prose covers the full passage starting with Rabbi Ne\u1e25emya.",
+      "chosen_heading": "R. Nechemiah",
+      "current_heading": "R. Nechemiah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Hand Extended",
+    "candidates": [
+      "R. Yitzchak Sign",
+      "Divine Judgment",
+      "Hand Extended",
+      "R. Zeira Warning",
+      "3 Unbidden Things"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Divine Judgment' explicitly introduces this baraita with 'Tanu rabbanan' and the same verse (ki yadin Hashem amo / ki yireh ki azlat yad ve-efes atzur ve-azuv) and states 'From this verse the Gemara derives multiple conditions for Mashiach's arrival,' making it the clear home for this passage rather than 'Hand Extended' which discusses the four readings derived from it.",
+      "chosen_heading": "Divine Judgment",
+      "current_heading": "Hand Extended",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "3 Unbidden Things",
+    "candidates": [
+      "R. Zeira Warning",
+      "3 Unbidden Things",
+      "6000 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source for Rabbi Zeira's practice and warning, which is precisely what the 'R. Zeira Warning' section's prose describes \u2014 the baraita about three things coming be-hesech ha-da'at is embedded within that story as its supporting proof, not as a standalone topic.",
+      "chosen_heading": "R. Zeira Warning",
+      "current_heading": "3 Unbidden Things",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "6000 Years",
+    "candidates": [
+      "3 Unbidden Things",
+      "6000 Years",
+      "Shmita Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav Katina and Abaye statements about 6000 years of the world and 1-2 thousand years of destruction, which is precisely what the '6000 Years' section prose describes.",
+      "chosen_heading": "6000 Years",
+      "current_heading": "6000 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Shmita Analogy",
+    "candidates": [
+      "Shmita Analogy",
+      "3 Epochs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a baraita supporting Rav Katina's shmita analogy, and the prose under 'Shmita Analogy' directly discusses this exact baraita, its scriptural proofs, and the tension in the imagery.",
+      "chosen_heading": "Shmita Analogy",
+      "current_heading": "Shmita Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "3 Epochs",
+    "candidates": [
+      "3 Epochs",
+      "Roman Scroll"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Tana d'vei Eliyahu teaching on the three epochs, the caveat about sins causing years to elapse, and Elijah's statement to Rav Yehuda about 85 Jubilees \u2014 are explicitly discussed together in the '3 Epochs' prose, which covers exactly this sequence of Talmudic material.",
+      "chosen_heading": "3 Epochs",
+      "current_heading": "3 Epochs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Roman Scroll",
+    "candidates": [
+      "Roman Scroll",
+      "End Wars",
+      "7000 Years",
+      "R. Acha Variant",
+      "R. Nasan Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage \u2014 from Rav \u1e24anan bar Ta\u1e25lifa's message about the Roman scroll through the 4,291-year figure, the wars of sea monsters/Gog and Magog, the seven-thousand-year renewal, and Rav A\u1e25a's five-thousand-year variant \u2014 is a single continuous Talmudic unit that the essay has split across multiple headings, but it belongs under 'Roman Scroll' as the current placement where the passage begins and is introduced.",
+      "chosen_heading": "Roman Scroll",
+      "current_heading": "Roman Scroll",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "R. Nasan Verse",
+    "candidates": [
+      "End Wars",
+      "7000 Years",
+      "R. Acha Variant",
+      "R. Nasan Verse",
+      "Three Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Natan quoting Habakkuk 2:3, which is precisely what the 'R. Nasan Verse' section's prose describes and discusses.",
+      "chosen_heading": "R. Nasan Verse",
+      "current_heading": "R. Nasan Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Three Rejected",
+    "candidates": [
+      "Three Rejected",
+      "3 Kingdoms",
+      "Tiphach Curse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Three Rejected",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the three rejected rabbinic computations (Daniel/Rabbis, Rabbi Simlai, Rabbi Akiva) that the 'Three Rejected' prose explicitly describes and analyzes.",
+      "second_heading": "3 Kingdoms",
+      "second_confidence": "high",
+      "second_reason": "Item 4 describes the three kingdoms (Hasmonean 70 years, Herod 52 years, Bar Kokhba 2.5 years) which matches exactly the '3 Kingdoms' prose section.",
+      "current_heading": "Three Rejected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tiphach Curse",
+    "candidates": [
+      "3 Kingdoms",
+      "Tiphach Curse",
+      "Computation Failure",
+      "Just Wait",
+      "Justice Prevents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the curse on those who calculate end times, the reason for the curse (leading to despair when the date passes), and the injunction to wait instead \u2014 all of which corresponds exactly to the 'Tiphach Curse' heading where it currently sits, and the content spans what the prose of headings 1-3 describes but is one unified Talmudic passage.",
+      "chosen_heading": "Tiphach Curse",
+      "current_heading": "Tiphach Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Justice Prevents",
+    "candidates": [
+      "Computation Failure",
+      "Just Wait",
+      "Justice Prevents",
+      "Reward Waiting",
+      "Abaye 36",
+      "Gematria 36",
+      "Rava Objection",
+      "Clear/Cloudy Lens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses who is preventing Mashiach's coming and identifies midat ha-din as the obstacle, which is precisely what the 'Justice Prevents' section's prose discusses.",
+      "chosen_heading": "Justice Prevents",
+      "current_heading": "Justice Prevents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Clear/Cloudy Lens",
+    "candidates": [
+      "Reward Waiting",
+      "Abaye 36",
+      "Gematria 36",
+      "Rava Objection",
+      "Clear/Cloudy Lens",
+      "S.b.Y. Few"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Abaye's full statement about 36 tzadikim, the gematria proof, Rava's objection, and the clear/cloudy lens resolution \u2014 all of this begins with Abaye's statement, and candidate 1 ('Abaye 36') is where this entire unit logically starts, with candidates 2-4 being sub-breakdowns of the same continuous Talmudic passage that should sit together under the opening heading.",
+      "chosen_heading": "Abaye 36",
+      "current_heading": "Clear/Cloudy Lens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "S.b.Y. Few",
+    "candidates": [
+      "Clear/Cloudy Lens",
+      "S.b.Y. Few",
+      "R. Eliezer: If"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge from Rabbi Shimon bar Yo\u1e25ai that the number of righteous is very few, and the resolution distinguishing those who enter with permission from those who enter without \u2014 are explicitly discussed and paraphrased in the 'S.b.Y. Few' prose, which is a perfect match for this passage's specific content.",
+      "chosen_heading": "S.b.Y. Few",
+      "current_heading": "S.b.Y. Few",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "R. Eliezer: If",
+    "candidates": [
+      "R. Eliezer: If",
+      "R. Yehoshua: Evil King",
+      "Scripture Quotes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Rav/Shmuel dispute plus the tannaitic parallel including both Rabbi Eliezer's position and Rabbi Yehoshua's response, all of which is discussed together in candidate 0's prose which covers the entire unit from Rav/Shmuel through Rabbi Eliezer's position leading into the debate.",
+      "chosen_heading": "R. Eliezer: If",
+      "current_heading": "R. Eliezer: If",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Scripture Quotes",
+    "candidates": [
+      "R. Yehoshua: Evil King",
+      "Scripture Quotes",
+      "Ownership Forced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the second baraita with Rabbi Eliezer and Rabbi Yehoshua's exchange about teshuvah and redemption using the Isaiah 52:3 verse, which is precisely what the 'Scripture Quotes' prose section describes.",
+      "chosen_heading": "Scripture Quotes",
+      "current_heading": "Scripture Quotes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Ownership Forced",
+    "candidates": [
+      "Ownership Forced",
+      "Despised Redeemed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange between Rabbi Eliezer and Rabbi Yehoshua about 'Return to me' vs. the unconditional ingathering to Zion, which is precisely what the 'Ownership Forced' section's prose describes and analyzes.",
+      "chosen_heading": "Ownership Forced",
+      "current_heading": "Ownership Forced",
+      "moved": false
+    }
+  }
+]

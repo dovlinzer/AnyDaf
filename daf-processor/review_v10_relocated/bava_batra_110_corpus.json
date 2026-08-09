@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Adoniyah Case",
+    "candidates": [
+      "Inheritance Order",
+      "Patriarchal Principle",
+      "Bnot Tzelofchad",
+      "Practical Consequences",
+      "Tolin Kalkala",
+      "Adoniyah Case",
+      "Cleave to Good"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yochanan's statement of 'tolin kalkala ba-mekulkal' and then Rabbi Yosei bar \u1e24anina's Adoniyah example as a parallel illustration \u2014 both belong under heading 4 ('Tolin Kalkala'), whose prose explicitly describes this principle and notes that Rabbi Yochanan said it, rather than splitting them across headings 4 and 5.",
+      "chosen_heading": "Tolin Kalkala",
+      "current_heading": "Adoniyah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Cleave to Good",
+    "candidates": [
+      "Adoniyah Case",
+      "Cleave to Good",
+      "Pinchas & Yitro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar's teaching about cleaving to good people with the Moses/Yitro and Aaron/Amminadab examples, which is precisely what the 'Cleave to Good' section's prose describes.",
+      "chosen_heading": "Cleave to Good",
+      "current_heading": "Cleave to Good",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Pinchas & Yitro",
+    "candidates": [
+      "Pinchas & Yitro",
+      "Women Invisible",
+      "Putiel Descent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about Pinchas's descent from Yitro, which is precisely what the 'Pinchas & Yitro' section's prose describes \u2014 the complication that Pinchas was also descended from an idolater \u2014 before the resolution (Yosef lineage) is discussed in the 'Putiel Descent' section.",
+      "chosen_heading": "Pinchas & Yitro",
+      "current_heading": "Pinchas & Yitro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Putiel Descent",
+    "candidates": [
+      "Women Invisible",
+      "Putiel Descent",
+      "Check Brothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core Gemara passage about Pinchas's dual descent from Yitro and Joseph \u2014 the tribal mockery of 'ben Puti' and the resolution via 'Putiel' = two lineages \u2014 which is precisely what the 'Putiel Descent' prose describes in detail.",
+      "chosen_heading": "Putiel Descent",
+      "current_heading": "Putiel Descent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Check Brothers",
+    "candidates": [
+      "Check Brothers",
+      "Rov Banim Domim",
+      "Patriarchal Focus",
+      "Danites Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rava's teaching to examine a woman's brothers before marriage, which is exactly what the 'Check Brothers' section prose describes, including the proof-text from Aharon's marriage and the question about why the verse adds 'sister of Nahshon.'",
+      "chosen_heading": "Check Brothers",
+      "current_heading": "Check Brothers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Danites Question",
+    "candidates": [
+      "Rov Banim Domim",
+      "Patriarchal Focus",
+      "Danites Question",
+      "Yaskir Adam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly depicts the Danites questioning Yehonatan using language echoing Moshe, which is exactly what the 'Danites Question' section's prose describes.",
+      "chosen_heading": "Danites Question",
+      "current_heading": "Danites Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Yaskir Adam",
+    "candidates": [
+      "Yaskir Adam",
+      "David Intervenes",
+      "Rav's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Jonathan's statement about hiring oneself out to idol worship rather than depending on others, which is precisely what the 'Yaskir Adam' section's prose directly discusses and analyzes.",
+      "chosen_heading": "Yaskir Adam",
+      "current_heading": "Yaskir Adam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav's Teaching",
+    "candidates": [
+      "David Intervenes",
+      "Rav's Teaching",
+      "Shevuel Repents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the misunderstanding of 'avodah zarah' as literal idol worship versus strange labor (velo hi) and the Rav-Kahana teaching about flaying carcasses, and candidate 0's prose explicitly discusses both the velo hi correction and the avodah she-zarah lo explanation, while candidate 1's prose discusses only the Rav-Kahana teaching as a parallel \u2014 the full passage including the correction belongs under candidate 0 'David Intervenes' where the misunderstanding is the central topic.",
+      "chosen_heading": "David Intervenes",
+      "current_heading": "Rav's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Shevuel Repents",
+    "candidates": [
+      "Rav's Teaching",
+      "Shevuel Repents",
+      "Sons Inherit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses David appointing Jonathan/Shebuel over the treasuries and Rabbi Yo\u1e25anan's explanation of the name Shebuel as alluding to repentance, which is precisely what the 'Shevuel Repents' section prose describes.",
+      "chosen_heading": "Shevuel Repents",
+      "current_heading": "Shevuel Repents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Sons Inherit",
+    "candidates": [
+      "Sons Inherit",
+      "Rav Pappa's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the initial derivation (currently under 'Sons Inherit') and Rav Pappa's challenge, but since the item is a single continuous Talmudic excerpt that begins with the derivation question and ends with Rav Pappa's challenge, and the current placement under 'Sons Inherit' captures the opening of the passage, keeping it there is reasonable \u2014 though candidate 1 also discusses the same content; the current placement is the better fit as it covers the full arc from derivation to challenge.",
+      "chosen_heading": "Sons Inherit",
+      "current_heading": "Sons Inherit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rav Pappa's Reading",
+    "candidates": [
+      "Rav Pappa's Reading",
+      "Abaye's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's clarification of his own reading \u2014 the absurdist 'ruler of the city' reductio and his actual meaning that son and daughter inherit equally \u2014 which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Rav Pappa's Reading",
+      "current_heading": "Rav Pappa's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Abaye's Response",
+    "candidates": [
+      "Abaye's Response",
+      "Bnot Tzelofchad Claim",
+      "HaKarov Eilav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's challenge about whether the verse is needed and the response about daughters inheriting, which is exactly what the 'Abaye's Response' section's prose describes.",
+      "chosen_heading": "Abaye's Response",
+      "current_heading": "Abaye's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "HaKarov Eilav",
+    "candidates": [
+      "Bnot Tzelofchad Claim",
+      "HaKarov Eilav",
+      "Son Closer Logic",
+      "Failed Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav A\u1e25a bar Ya'akov's proof from the daughters of Zelophehad's claim, the Gemara's objection that the Torah may have initiated a new halakha, and Ravina's proof from 'ha-karov eilav' \u2014 are discussed in candidate 0's prose, which covers exactly this sequence: the Bnot Tzelofchad claim as a source, the objection that the Torah gave a new ruling, the conclusion reverting to the earlier answer, and Ravina's separate proof from ha-karov karov kodem.",
+      "chosen_heading": "Bnot Tzelofchad Claim",
+      "current_heading": "HaKarov Eilav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Failed Proofs",
+    "candidates": [
+      "Son Closer Logic",
+      "Failed Proofs",
+      "Closeness by Default",
+      "Banim Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents and then refutes both proposed proofs (yi'ud and sedei achuzah) for the son's closeness over a daughter, concluding the proofs fail \u2014 exactly what candidate 1 'Failed Proofs' describes in its prose.",
+      "chosen_heading": "Failed Proofs",
+      "current_heading": "Failed Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Banim Definition",
+    "candidates": [
+      "Closeness by Default",
+      "Banim Definition",
+      "Paternal Brothers Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the interpretation of 'bneichem' (sons vs. children) and the 'bracha shani' distinction, which is precisely what the 'Banim Definition' prose section describes.",
+      "chosen_heading": "Banim Definition",
+      "current_heading": "Banim Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Paternal Brothers Only",
+    "candidates": [
+      "Paternal Brothers Only",
+      "Yaakov Sons Proof",
+      "Family via Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rabba's derivation from the verbal analogy with Jacob's sons (the 'brothers' of Genesis 42:13), which is precisely what the 'Yaakov Sons Proof' section's prose describes, making it a clearly better match than the general 'Paternal Brothers Only' heading.",
+      "chosen_heading": "Yaakov Sons Proof",
+      "current_heading": "Paternal Brothers Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Family via Father",
+    "candidates": [
+      "Yaakov Sons Proof",
+      "Family via Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the derivation from 'mishpachat ha-av kruya mishpacha' and the explanation that Rabba's statement was made in the context of yibum rather than inheritance \u2014 precisely what the 'Family via Father' prose describes.",
+      "chosen_heading": "Family via Father",
+      "current_heading": "Family via Father",
+      "moved": false
+    }
+  }
+]

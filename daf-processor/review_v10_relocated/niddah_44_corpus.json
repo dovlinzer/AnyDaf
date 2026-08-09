@@ -1,0 +1,464 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Female Infant Tumah",
+    "candidates": [
+      "Daf Overview",
+      "Niddah Blood",
+      "Female Infant Tumah",
+      "Male Infant Zav",
+      "Negaim & Met Tumah",
+      "Tosafot on Psukim",
+      "Yibum & Birth",
+      "Terumah Via Child",
+      "Pregnant Bas Kohen",
+      "Nachal & Hanchil",
+      "Horgo Chayav",
+      "Aveilus & Choson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna discussing a baby girl's tumah as niddah and zavah, which is precisely what the 'Female Infant Tumah' section's prose discusses in detail.",
+      "chosen_heading": "Female Infant Tumah",
+      "current_heading": "Female Infant Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Aveilus & Choson",
+    "candidates": [
+      "Male Infant Zav",
+      "Negaim & Met Tumah",
+      "Tosafot on Psukim",
+      "Yibum & Birth",
+      "Terumah Via Child",
+      "Pregnant Bas Kohen",
+      "Nachal & Hanchil",
+      "Horgo Chayav",
+      "Aveilus & Choson",
+      "Niddah from Vav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage is the opening Mishnah listing all the laws applicable to a one-day-old infant, covering ziva, negaim, met tumah, yibum, terumah, inheritance, murder, and mourning \u2014 it belongs under the first heading 'Male Infant Zav' which introduces the Mishnah's enumeration, not under 'Aveilus & Choson' which discusses only the final clause.",
+      "chosen_heading": "Male Infant Zav",
+      "current_heading": "Aveilus & Choson",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Niddah from Vav",
+    "candidates": [
+      "Aveilus & Choson",
+      "Niddah from Vav",
+      "Zavah from Vav",
+      "Zav from Ish Ish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Niddah from Vav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 derives niddah applying to a one-day-old girl from the vav in ve-isha, exactly matching the 'Niddah from Vav' prose.",
+      "second_heading": "Zavah from Vav",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives zavah applying to a ten-day-old girl from the vav in ve-isha, exactly matching the 'Zavah from Vav' prose.",
+      "current_heading": "Niddah from Vav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Zav from Ish Ish",
+    "candidates": [
+      "Zavah from Vav",
+      "Zav from Ish Ish",
+      "Yishmael: Male/Female"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving that a one-day-old male infant can become a zav from the doubled 'ish ish' formulation and attributes it to Rabbi Yehuda, which is precisely what the 'Zav from Ish Ish' section's prose describes.",
+      "chosen_heading": "Zav from Ish Ish",
+      "current_heading": "Zav from Ish Ish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Yishmael: Male/Female",
+    "candidates": [
+      "Yishmael: Male/Female",
+      "Negaim from Adam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yishmael ben Rabbi Yochanan ben Broka's argument about the la-zachar/la-nekevah verse and dibra Torah ki-leshon benei adam, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Yishmael: Male/Female",
+      "current_heading": "Yishmael: Male/Female",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Negaim from Adam",
+    "candidates": [
+      "Negaim from Adam",
+      "Met Tumah from Nefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses tzara'at (leprous marks) applying to infants via the word 'adam,' which is exactly what the 'Negaim from Adam' section's prose describes.",
+      "chosen_heading": "Negaim from Adam",
+      "current_heading": "Negaim from Adam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Met Tumah from Nefesh",
+    "candidates": [
+      "Met Tumah from Nefesh",
+      "Achim Yachdav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses tumah from a corpse derived from 've-al ha-nefashot asher hayu sham' and the concept of 'nefesh kol dehu,' which exactly matches the prose of candidate 0 about Met Tumah from Nefesh.",
+      "chosen_heading": "Met Tumah from Nefesh",
+      "current_heading": "Met Tumah from Nefesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Achim Yachdav",
+    "candidates": [
+      "Achim Yachdav",
+      "Ven Ein Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the verse 'ki yeshvu achim yachdav' and the concept of brothers who had one dwelling in the world (achim she-haya lahem yeshiva achat ba-olam), which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Achim Yachdav",
+      "current_heading": "Achim Yachdav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Ven Ein Lo",
+    "candidates": [
+      "Ven Ein Lo",
+      "Pregnant Bas Kohen (II)",
+      "Knuracha Pshat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the derivation for exemption from levirate marriage based on 'u-ven ein lo,' which matches exactly the prose of candidate 0 about poter min ha-yibum and the verse u-ven ein lo.",
+      "chosen_heading": "Ven Ein Lo",
+      "current_heading": "Ven Ein Lo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Knuracha Pshat",
+    "candidates": [
+      "Pregnant Bas Kohen (II)",
+      "Knuracha Pshat",
+      "Why Both Stated?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses how a born child enables the Israelite mother to continue eating teruma, which relates to the 'Why Both Stated?' section's discussion of how a born child (ve-zera ein lah) maintains the connection to the prior marriage \u2014 the passage is explaining the positive counterpart (enabling teruma) that parallels the section's discussion of a born child's effect.",
+      "chosen_heading": "Why Both Stated?",
+      "current_heading": "Knuracha Pshat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Why Both Stated?",
+    "candidates": [
+      "Knuracha Pshat",
+      "Why Both Stated?",
+      "Rav Sheshet Resolution",
+      "Two Wives Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Knuracha Pshat",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 establish the two verses (ve-zera ein lah and ki-neuracha) and the question of why both are needed, matching candidate 0's prose about ki-neuracha excluding a pregnant woman and why the mishna requires a born child.",
+      "second_heading": "Why Both Stated?",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 give the tzarichi answer explaining why both formulations are necessary (one body/two bodies vs. empty/full body), which is precisely what candidate 1's prose describes.",
+      "current_heading": "Why Both Stated?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Two Wives Case",
+    "candidates": [
+      "Rav Sheshet Resolution",
+      "Two Wives Case",
+      "Nochal Umanchil",
+      "Why Inheritance Matters",
+      "Bechor Reduction",
+      "Mother's Property Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Sheshet's full answer \u2014 the two-wives scenario and the exclusion of Rabbi Yosei's fetus position \u2014 which is precisely what candidate 1 ('Two Wives Case') describes in detail, including the ben yom echad/ubar distinction and the rejection of Rabbi Yosei.",
+      "chosen_heading": "Two Wives Case",
+      "current_heading": "Two Wives Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Mother's Property Case",
+    "candidates": [
+      "Nochal Umanchil",
+      "Why Inheritance Matters",
+      "Bechor Reduction",
+      "Mother's Property Case",
+      "Mother Dies First",
+      "Thrashing & Lizard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why Inheritance Matters",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the question of why the mishna's 'nochal u-manchil' matters and Rav Sheshet's answer about inheriting the mother's property to pass to paternal half-brothers, which matches candidate 1 ('Why Inheritance Matters') and candidate 3 ('Mother's Property Case') \u2014 but item 1 is the Gemara's probing question about novelty and item 2 is Rav Sheshet's answer establishing the mother's property case, so together they belong under 'Mother's Property Case' (index 3) where the prose explicitly discusses *nochal be-nichsei ha-em le-hanhil le-achiv min ha-av*.",
+      "second_heading": "Mother Dies First",
+      "second_confidence": "high",
+      "second_reason": "Item 3 ('ba-kever le-hanhil le-achiv min ha-av') is the concluding phrase of the halakha that a son does not inherit from his mother while in the grave, which directly matches candidate 4 ('Mother Dies First') whose prose discusses *ve-ein ha-ben yoresh et imo ba-kever*.",
+      "current_heading": "Mother's Property Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Thrashing & Lizard",
+    "candidates": [
+      "Mother Dies First",
+      "Thrashing & Lizard",
+      "Tosafot: In a Box",
+      "Tosafot: Abortion Status",
+      "Mutar Language",
+      "Shabbat Paradox",
+      "Born After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Gemara's challenge about the fetus thrashing after the mother's death and Mar son of Rav Ashi's lizard-tail response, which is precisely what the 'Thrashing & Lizard' section's prose discusses.",
+      "chosen_heading": "Thrashing & Lizard",
+      "current_heading": "Thrashing & Lizard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Born After Death",
+    "candidates": [
+      "Tosafot: In a Box",
+      "Tosafot: Abortion Status",
+      "Mutar Language",
+      "Shabbat Paradox",
+      "Born After Death",
+      "Halacha: Rav Yosef",
+      "Murder Threshold",
+      "Rav Moshe: Murder",
+      "Kol Nefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items discuss Mar bar Rav Yosef's rulings about posthumously born children and the bechor's double portion, which is precisely what the 'Born After Death' section's prose describes.",
+      "chosen_heading": "Born After Death",
+      "current_heading": "Born After Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Kol Nefesh",
+    "candidates": [
+      "Halacha: Rav Yosef",
+      "Murder Threshold",
+      "Rav Moshe: Murder",
+      "Kol Nefesh",
+      "Aveilus Day One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly explains the verse 'kol nefesh' as applying to a one-day-old infant in any case, which is precisely what the 'Kol Nefesh' section's prose discusses.",
+      "chosen_heading": "Kol Nefesh",
+      "current_heading": "Kol Nefesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Aveilus Day One",
+    "candidates": [
+      "Aveilus Day One",
+      "30-Day Viability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Pappa's ruling that the ke-chatan shalem phrase applies to aveilus, which is precisely what the prose under 'Aveilus Day One' discusses.",
+      "chosen_heading": "Aveilus Day One",
+      "current_heading": "Aveilus Day One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "30-Day Viability",
+    "candidates": [
+      "30-Day Viability",
+      "Early Viability Signs",
+      "3-Year Threshold",
+      "Kiddushin vs. Bia",
+      "Yibum & Adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the challenge that the ruling contradicts Rabban Shimon ben Gamliel's 30-day viability threshold and introduces the resolution about completed gestation, which maps directly to heading 0's prose describing this exact dialectical exchange before the Gemara's resolution (heading 1 covers the resolution itself, but the passage includes both the challenge and the resolution, and heading 0's prose explicitly anticipates the Gemara resolving by 'distinguishing cases based on observable signs of full gestation,' making it the better home for the full exchange).",
+      "chosen_heading": "30-Day Viability",
+      "current_heading": "30-Day Viability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Yibum & Adultery",
+    "candidates": [
+      "Early Viability Signs",
+      "3-Year Threshold",
+      "Kiddushin vs. Bia",
+      "Yibum & Adultery",
+      "Niddah Intercourse",
+      "Wife to Kohen",
+      "Pasul Kohen",
+      "Arayos Intercourse",
+      "Under 3 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the opening Mishna of the 3-year threshold section, listing all the halakhic consequences of bi'ah at three years and a day (betrothal, yibum, adultery, niddah impurity, teruma, disqualification from priesthood, arayos liability), which is precisely what the '3-Year Threshold' prose introduces as the mishna's list of consequences for that developmental marker.",
+      "chosen_heading": "3-Year Threshold",
+      "current_heading": "Yibum & Adultery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Under 3 Years",
+    "candidates": [
+      "Niddah Intercourse",
+      "Wife to Kohen",
+      "Pasul Kohen",
+      "Arayos Intercourse",
+      "Under 3 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the ke-noten etzba ba-ayin metaphor for intercourse with a girl below three years and a day, which is precisely what the 'Under 3 Years' section's prose describes.",
+      "chosen_heading": "Under 3 Years",
+      "current_heading": "Under 3 Years",
+      "moved": false
+    }
+  }
+]

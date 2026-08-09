@@ -1,0 +1,473 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Asasyos Case",
+    "candidates": [
+      "Debate Overview",
+      "Asasyos Case",
+      "Rabba Concedes",
+      "Two Concerns",
+      "Remaining Debate",
+      "Two Witnesses Case",
+      "Lishmah Concerns"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Asasyos Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Asasyos case and Rabbi Yitzchak's explanation, which is precisely what the 'Asasyos Case' prose discusses \u2014 the divided city, the two hegemonies, and why this is nichah l'Rava but kashya l'Rabba.",
+      "second_heading": "Rabba Concedes",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the resolution 'Rabba is lei d'Rava,' which is exactly what the 'Rabba Concedes' prose section describes as its topic.",
+      "current_heading": "Asasyos Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Lishmah Concerns",
+    "candidates": [
+      "Rabba Concedes",
+      "Two Concerns",
+      "Remaining Debate",
+      "Two Witnesses Case",
+      "Lishmah Concerns",
+      "Aino Yachol Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly identify the two cases that constitute the remaining difference between Rabba and Rava \u2014 two witnesses bringing the get, and bringing within the same region of Medinat Hayam \u2014 which is precisely what the 'Remaining Debate' section's prose describes.",
+      "chosen_heading": "Remaining Debate",
+      "current_heading": "Lishmah Concerns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Aino Yachol Intro",
+    "candidates": [
+      "Lishmah Concerns",
+      "Aino Yachol Intro",
+      "Rav Yosef Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah about the agent unable to say bifnei nichtav and the immediate objection about a deaf-mute \u2014 are precisely what candidate 1's prose ('Aino Yachol Intro') describes: the Gemara's opening clarification of what 'eino yachol lomar' means, including the rejected deaf-mute answer.",
+      "chosen_heading": "Aino Yachol Intro",
+      "current_heading": "Aino Yachol Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Yosef Explanation",
+    "candidates": [
+      "Rav Yosef Explanation",
+      "Tosafot Alternative",
+      "Signatures Primary",
+      "Evidence Conflict",
+      "Gezeirah Yachzor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's explanation of the case where the agent became a deaf-mute after delivery but before making the declaration, and notes it works well for Rava but is difficult for Rabba \u2014 exactly what the 'Rav Yosef Explanation' prose describes.",
+      "chosen_heading": "Rav Yosef Explanation",
+      "current_heading": "Rav Yosef Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Gezeirah Yachzor",
+    "candidates": [
+      "Tosafot Alternative",
+      "Signatures Primary",
+      "Evidence Conflict",
+      "Gezeirah Yachzor",
+      "Lechatachila Bedi'eved",
+      "Unusual Cases Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gezeirah shema yachzor hadavar lekilkulo principle \u2014 the decree lest the matter return to its corrupt state \u2014 which is precisely what heading 3 'Gezeirah Yachzor' is about, and the prose there explicitly explains this very Gemara answer.",
+      "chosen_heading": "Gezeirah Yachzor",
+      "current_heading": "Gezeirah Yachzor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Unusual Cases Exempt",
+    "candidates": [
+      "Lechatachila Bedi'eved",
+      "Unusual Cases Exempt",
+      "Woman Get Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case of a pike'ach shenishtatek and the principle that rabbis do not decree regarding uncommon matters, which is precisely what the 'Unusual Cases Exempt' section's prose describes.",
+      "chosen_heading": "Unusual Cases Exempt",
+      "current_heading": "Unusual Cases Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Woman Get Case",
+    "candidates": [
+      "Woman Get Case",
+      "Resolution Balance",
+      "Husband Question",
+      "Real Concern",
+      "Husband Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about the woman bringing her own get and the answer 'shelo tachlok b'shlichus', which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Woman Get Case",
+      "current_heading": "Woman Get Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Husband Exception",
+    "candidates": [
+      "Resolution Balance",
+      "Husband Question",
+      "Real Concern",
+      "Husband Exception",
+      "Shmuel Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the question-and-answer unit about why the husband who delivers his own get need not declare bifnei nichtav u'bifnei nechtam, which is precisely what candidate 1 ('Husband Question') describes \u2014 the braita exempting the husband and the question of why not.",
+      "chosen_heading": "Husband Question",
+      "current_heading": "Husband Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Shmuel Query",
+    "candidates": [
+      "Husband Exception",
+      "Shmuel Query",
+      "Two Unusual",
+      "Woman Compare",
+      "Testimony Paradigm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form one continuous sugya beginning with Shmuel's query to Rav Huna about two messengers, then resolving the Rabba/Rava tension via 'delamdu', then working through the gezeirah/lo shechicha reasoning, the woman comparison, and the husband exception \u2014 exactly the content described in the 'Shmuel Query' prose, which explicitly previews all these sub-points including the Rabba-Rava tension, the delamdu answer, and the two-messengers exemption.",
+      "chosen_heading": "Shmuel Query",
+      "current_heading": "Shmuel Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Testimony Paradigm",
+    "candidates": [
+      "Two Unusual",
+      "Woman Compare",
+      "Testimony Paradigm",
+      "Yehoshua Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous sugya about the Tosefta proof regarding the agent's declaration being a leniency (not stringency) for the woman, the challenge to Rabba's position, the answer of 'l'achar shelamdu,' and the subsequent questions about gezeirah and the woman who remarried \u2014 this entire chain directly supports the 'Yehoshua Proof' section's discussion of l'achar shelamdu and the Rabba-Rava debate, not the 'Testimony Paradigm' section which discusses shlichus vs. edus distinctions.",
+      "chosen_heading": "Yehoshua Proof",
+      "current_heading": "Testimony Paradigm",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Yehoshua Proof",
+    "candidates": [
+      "Testimony Paradigm",
+      "Yehoshua Proof",
+      "Contradiction",
+      "Two Messenger Implicit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Yehoshua Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the Rabba-Rava parallel to Rabbi Yochanan and Rabbi Yehoshua ben Levi's dispute and the proof-incident with Rabbi Shimon bar Abba, which is exactly what the 'Yehoshua Proof' prose describes.",
+      "second_heading": "Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises the objection that Rabbi Yehoshua ben Levi's ruling seems to contradict the established requirement (since Rabba holds both reasons remain valid and shema yachzor applies), which is precisely the contradiction the 'Contradiction' prose section addresses.",
+      "current_heading": "Yehoshua Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Two Messenger Implicit",
+    "candidates": [
+      "Contradiction",
+      "Two Messenger Implicit",
+      "Resolution Unusual",
+      "Two vs Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that Rabbi Shimon bar Abba had another person with him and explains why he wasn't mentioned (due to Rabbi Shimon's honor), which is precisely what the 'Two Messenger Implicit' section's prose describes.",
+      "chosen_heading": "Two Messenger Implicit",
+      "current_heading": "Two Messenger Implicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Two vs Three",
+    "candidates": [
+      "Resolution Unusual",
+      "Two vs Three",
+      "Rachavei Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the debate between Rabbi Yo\u1e25anan and Rabbi \u1e24anina about whether the get must be delivered before two or three witnesses, which is exactly what the 'Two vs Three' section's prose describes.",
+      "chosen_heading": "Two vs Three",
+      "current_heading": "Two vs Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Rachavei Proof",
+    "candidates": [
+      "Rachavei Proof",
+      "Theory Initial",
+      "Theory Rejected"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rachavei Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Ravin bar Rav \u1e24isda incident proving Rabbi Yo\u1e25anan holds bifnei shenayim, which is exactly what the 'Rachavei Proof' prose describes.",
+      "second_heading": "Theory Initial",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the theoretical mapping of two-vs-three onto lishmah-vs-signature-validation, which is precisely what the 'Theory Initial' prose discusses.",
+      "current_heading": "Rachavei Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Theory Rejected",
+    "candidates": [
+      "Theory Initial",
+      "Theory Rejected",
+      "Shliach Eid Dayan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection of the proposed mapping between two/three and lishmah/signature-validation, which matches exactly the 'Theory Rejected' section's prose about how this mapping does not survive scrutiny because Rabbi Yochanan himself holds the signature-validation position yet rules that two suffice.",
+      "chosen_heading": "Theory Rejected",
+      "current_heading": "Theory Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Shliach Eid Dayan",
+    "candidates": [
+      "Shliach Eid Dayan",
+      "Eid Dayan Rabbinic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eid Dayan Rabbinic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('And furthermore, Rabba is of the opinion of Rava') is the closing rebuttal that wraps up the previous debate about rationales, belonging under 'Eid Dayan Rabbinic' which discusses why that rationale-based dispute collapses.",
+      "second_heading": "Shliach Eid Dayan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new resolution \u2014 'Rather, everyone agrees we require witnesses to ratify, and the dispute is about shaliach na'aseh eid v'eid na'aseh dayan' \u2014 which is precisely what the 'Shliach Eid Dayan' prose describes as the crux of the debate.",
+      "current_heading": "Shliach Eid Dayan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Eid Dayan Rabbinic",
+    "candidates": [
+      "Eid Dayan Rabbinic",
+      "Woman Dayan Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the principle that 'a witness can become a judge in rabbinic law,' which is exactly what heading 0 ('Eid Dayan Rabbinic') discusses \u2014 the accepted halacha of b'drabanan eid na'aseh dayan and its implications for kiyum shtaros.",
+      "chosen_heading": "Eid Dayan Rabbinic",
+      "current_heading": "Eid Dayan Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Woman Dayan Risk",
+    "candidates": [
+      "Woman Dayan Risk",
+      "Two Witnesses Accepted",
+      "Meir Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the exact dispute about whether people will mistakenly rely on a woman as a dayan, which is precisely what the 'Woman Dayan Risk' prose describes \u2014 including the specific phrase 'ishah meida yadiah velo samchi alah' quoted in that section's prose.",
+      "chosen_heading": "Woman Dayan Risk",
+      "current_heading": "Woman Dayan Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Meir Stringency",
+    "candidates": [
+      "Two Witnesses Accepted",
+      "Meir Stringency",
+      "Sages Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita that supports Rabbi Yo\u1e25anan's position and presents the case of a shaliach who delivered the get without making the declaration \u2014 which is exactly what heading 0 ('Two Witnesses Accepted') describes in its prose, before the consequences (Rabbi Meir's ruling) are discussed under heading 1.",
+      "chosen_heading": "Two Witnesses Accepted",
+      "current_heading": "Meir Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Sages Leniency",
+    "candidates": [
+      "Meir Stringency",
+      "Sages Leniency",
+      "Timing Declaration",
+      "Meir Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Sages' ruling that the offspring is not a mamzer and describes the remedy of redelivering the get in the presence of two witnesses, which is precisely what the 'Sages Leniency' section's prose discusses.",
+      "chosen_heading": "Sages Leniency",
+      "current_heading": "Sages Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Meir Rationale",
+    "candidates": [
+      "Timing Declaration",
+      "Meir Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about Rabbi Meir's strict position that any deviation from the Sages' formula renders the get invalid and offspring a mamzer, which is precisely what the 'Meir Rationale' prose describes.",
+      "chosen_heading": "Meir Rationale",
+      "current_heading": "Meir Rationale",
+      "moved": false
+    }
+  }
+]

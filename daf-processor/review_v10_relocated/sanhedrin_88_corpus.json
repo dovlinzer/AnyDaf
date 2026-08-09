@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Archin, Charamin, Hekdes",
+    "candidates": [
+      "Opening & Zaken Mamre",
+      "Divrei Rivos Pasuk",
+      "Rebbi Meir's Position",
+      "Archin, Charamin, Hekdes",
+      "Erech Pachus Miben Chod",
+      "Stam Charamin Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the three domains (archin, charamin, hekdeshos) and then specifically elaborates the archin dispute between Rabbi Meir and the Rabbis regarding valuating a child under one month old, which matches exactly the prose of heading 3 ('Archin, Charamin, Hekdes') describing the braisa specifying the debate in each domain starting with archin.",
+      "chosen_heading": "Archin, Charamin, Hekdes",
+      "current_heading": "Archin, Charamin, Hekdes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Stam Charamin Ruling",
+    "candidates": [
+      "Erech Pachus Miben Chod",
+      "Stam Charamin Ruling",
+      "Tzinor Shel Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the exact mishna dispute between Rabbi Yehuda ben Beteira and the Rabbis about stam charamin going to bedek habayis vs. the kohein, which is precisely what the 'Stam Charamin Ruling' prose section describes.",
+      "chosen_heading": "Stam Charamin Ruling",
+      "current_heading": "Stam Charamin Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Tzinor Shel Hekdesh",
+    "candidates": [
+      "Tzinor Shel Hekdesh",
+      "Hashka'at Sotah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Eliezer ben Yaakov and the Rabbis regarding redemption of consecrated items requiring ten people, which is precisely what the 'Tzinor Shel Hekdesh' section's prose addresses.",
+      "chosen_heading": "Tzinor Shel Hekdesh",
+      "current_heading": "Tzinor Shel Hekdesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Hashka'at Sotah",
+    "candidates": [
+      "Hashka'at Sotah",
+      "Arifas Egla Arufa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rabbi Eliezer/Rabbi Yehoshua dispute about hashka'at sotah (warning and drinking requirements), which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Hashka'at Sotah",
+      "current_heading": "Hashka'at Sotah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Arifas Egla Arufa",
+    "candidates": [
+      "Arifas Egla Arufa",
+      "Taharat Metzora"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the egla arufa measurement dispute between Rabbi Eliezer, Rabbi Akiva, and Rabbi Eliezer ben Yaakov, which is precisely the content described in the 'Arifas Egla Arufa' prose section.",
+      "chosen_heading": "Arifas Egla Arufa",
+      "current_heading": "Arifas Egla Arufa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Taharat Metzora",
+    "candidates": [
+      "Taharat Metzora",
+      "Leket Shikcha Pe'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the purification of a leper (taharat metzora) and the dispute between Rabbi Eliezer, Rabbi Shimon, and the Rabbis regarding placement of blood/oil when body parts are missing, which exactly matches the prose under heading 0.",
+      "chosen_heading": "Taharat Metzora",
+      "current_heading": "Taharat Metzora",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Leket Shikcha Pe'ah",
+    "candidates": [
+      "Leket Shikcha Pe'ah",
+      "Rav Kahana's Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the agricultural gifts leket, shikcha, and pe'ah \u2014 exactly the content described in the 'Leket Shikcha Pe'ah' section's prose, which covers the threshold disputes, Beit Shammai's ruling, and the Rabbi Yishmael vs. Rabbanan dispute about pe'ah designation up to the dough stage.",
+      "chosen_heading": "Leket Shikcha Pe'ah",
+      "current_heading": "Leket Shikcha Pe'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Kahana's Scenarios",
+    "candidates": [
+      "Rav Kahana's Scenarios",
+      "Rebbi Elazar's View",
+      "Akavya ben Mahalalel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the first of Rav Kahana's four scenarios (both sides arguing from tradition \u2192 not executed), which is explicitly discussed and analyzed in the 'Rav Kahana's Scenarios' section prose.",
+      "chosen_heading": "Rav Kahana's Scenarios",
+      "current_heading": "Rav Kahana's Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Akavya ben Mahalalel",
+    "candidates": [
+      "Rebbi Elazar's View",
+      "Akavya ben Mahalalel",
+      "Derashti vs. Lamadti",
+      "Gemara Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'kach b'einai' vs. 'mipi hashmua' distinction \u2014 his personal reasoning vs. tradition \u2014 which is precisely what the 'Derashti vs. Lamadti' section discusses, contrasting self-derived rulings with received tradition and how these combinations affect liability.",
+      "chosen_heading": "Derashti vs. Lamadti",
+      "current_heading": "Akavya ben Mahalalel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Gemara Reconciliation",
+    "candidates": [
+      "Derashti vs. Lamadti",
+      "Gemara Reconciliation",
+      "Rebbi Yose: No Prolif.",
+      "Three-Court System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items belong together under 'Gemara Reconciliation': items 1-2 address the mishna's double language and Rav Kahana's position (the lo reconciliation), and items 3-5 present Rabbi Yoshiya's three rulings from Ze'ira including the zaken mamre case and the tiyuvta refutation of Rav Kahana \u2014 exactly the content described in that section's prose.",
+      "chosen_heading": "Gemara Reconciliation",
+      "current_heading": "Gemara Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Three-Court System",
+    "candidates": [
+      "Rebbi Yose: No Prolif.",
+      "Three-Court System",
+      "Sanhedrin Vote System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together describe the three-tier court hierarchy and the step-by-step escalation process (asking local court, adjacent court, Temple Mount entrance, Temple courtyard, and finally the Chamber of Hewn Stone), which is precisely what the 'Three-Court System' prose details.",
+      "chosen_heading": "Three-Court System",
+      "current_heading": "Three-Court System",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Sanhedrin Vote System",
+    "candidates": [
+      "Sanhedrin Vote System",
+      "Shammai & Hillel Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the voting mechanism of the court (rabu hamitame'im timu, rabu hamitaharim tiharu) which is precisely the foundational vote system discussed in the 'Sanhedrin Vote System' prose.",
+      "chosen_heading": "Sanhedrin Vote System",
+      "current_heading": "Sanhedrin Vote System",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Shammai & Hillel Effect",
+    "candidates": [
+      "Shammai & Hillel Effect",
+      "Judge Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the text about Shammai and Hillel's students causing disputes and Torah becoming like two Torahs, which is precisely what the prose under heading 0 discusses and analyzes in detail.",
+      "chosen_heading": "Shammai & Hillel Effect",
+      "current_heading": "Shammai & Hillel Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Judge Requirements",
+    "candidates": [
+      "Judge Requirements",
+      "Zaken Mamre: Act/Teach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Judge Requirements' prose, which explicitly discusses the qualifications for local judges (wise, humble, pleasant to people), the promotion pathway through the Temple courts, and the tradition about who merits olam ha-ba with the rabbanan looking at Rav Ulla bar Abba \u2014 all the content of items 1 and 2.",
+      "chosen_heading": "Judge Requirements",
+      "current_heading": "Judge Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Zaken Mamre: Act/Teach",
+    "candidates": [
+      "Zaken Mamre: Act/Teach",
+      "Why Zaken Mamre Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the braisa about the zaken mamre needing to act or instruct others who act, which is precisely what the prose in heading 0 describes and cites verbatim.",
+      "chosen_heading": "Zaken Mamre: Act/Teach",
+      "current_heading": "Zaken Mamre: Act/Teach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Why Zaken Mamre Needed",
+    "candidates": [
+      "Why Zaken Mamre Needed",
+      "Transition Eliminates",
+      "Meisis & Avodah Zara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's challenge about what the zaken mamre framework adds when he acts on his own ruling, and the answer involving chelev/dam (kares vs. misa) and the hatra'ah distinction \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Transition Eliminates",
+      "current_heading": "Why Zaken Mamre Needed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Meisis & Avodah Zara",
+    "candidates": [
+      "Transition Eliminates",
+      "Meisis & Avodah Zara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the meisis/avodah zarah case and the ta'ama argument, which is precisely what the 'Meisis & Avodah Zara' prose section discusses.",
+      "chosen_heading": "Meisis & Avodah Zara",
+      "current_heading": "Meisis & Avodah Zara",
+      "moved": false
+    }
+  }
+]

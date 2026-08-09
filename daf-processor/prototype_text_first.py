@@ -29,9 +29,22 @@ from pathlib import Path
 from check_pass2_coverage import content_words, normalize, phonetic_key
 
 ITEM_RE = re.compile(
-    r'\*Hebrew/Aramaic:\*\s*(.+?)\n\*Translation:\*\s*(.+?)(?=\n\n\*\*\d|\Z)',
+    r'\*Hebrew/Aramaic:\*[ \t]*(.+?)\n\*Translation:\*[ \t]*(.*?)(?=\n\n\*\*\d|\Z)',
     re.DOTALL,
 )
+# NOTE: translation group is (.*?) (zero-or-more), not (.+?) -- some Sefaria items
+# (e.g. the chapter-closing "Hadran" formula) genuinely have no English translation.
+# With \s* (which also matches newlines) after each label and a one-or-more translation
+# group, an empty translation forced the lazy match to consume forward past the blank
+# line into the ENTIRE next item (its "**N.**" label, Hebrew, and real translation) in
+# search of the next "\n\n**" boundary -- silently merging two pool items into one
+# garbage-translation entry and making the swallowed item's own Hebrew unmatchable as
+# a standalone quote. Found on Meilah 8 (found 2026-08-07): the Hadran line swallowed
+# the actual Chatas Ha'of Mishna text, producing a visibly broken blockquote in the
+# final essay. [ \t]* (not \s*) keeps each label's own line separate from the next, and
+# (.*?) lets an empty translation match zero characters instead of forcing a search
+# past the boundary. Confirmed corpus-wide: 416 sefaria*.md files / 420 items hit the
+# empty-translation case that triggered this.
 
 
 def parse_sefaria_full(text: str) -> list[dict]:

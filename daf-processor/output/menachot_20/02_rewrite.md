@@ -202,18 +202,6 @@ The *baraita* then continues with the expansion: *talmud lomar al kol korbancha 
 
 ---
 
-## Blood Question
-
-*(continued from the Baraita's analysis above)*
-
----
-
-## Ashbanat Tamei
-
-*(continued from the Baraita's analysis above)*
-
----
-
 ## Wood as Korban
 
 ### Wood Offering

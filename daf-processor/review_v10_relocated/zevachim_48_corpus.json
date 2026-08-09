@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Opening Overview",
+    "candidates": [
+      "Opening Overview",
+      "Chatat Before Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks why the mishna lists the bull and goat (sin offerings) before the burnt offering, given that 'north' is written in the Torah with respect to the olah \u2014 this is precisely the question described in the 'Chatat Before Olah' section's prose about why the mishnah doesn't list the olah first.",
+      "chosen_heading": "Chatat Before Olah",
+      "current_heading": "Opening Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Chatat Before Olah",
+    "candidates": [
+      "Opening Overview",
+      "Chatat Before Olah",
+      "Inner vs Outer Chataot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the chatat is listed before the olah in the mishnah, explaining that since the chatat's location is derived through a derasha it is dear to the tanna \u2014 exactly what the 'Chatat Before Olah' section prose describes.",
+      "chosen_heading": "Chatat Before Olah",
+      "current_heading": "Chatat Before Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Inner vs Outer Chataot",
+    "candidates": [
+      "Inner vs Outer Chataot",
+      "Tzafon Source in Olah",
+      "Bakar vs Tzon Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why inner sin offerings take priority over outer ones, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Inner vs Outer Chataot",
+      "current_heading": "Inner vs Outer Chataot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Bakar vs Tzon Comparison",
+    "candidates": [
+      "Tzafon Source in Olah",
+      "Bakar vs Tzon Comparison",
+      "Vav Mosif Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzafon Source in Olah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the question and answer about where tzafon is written for the olah, which is exactly what heading 0 'Tzafon Source in Olah' describes.",
+      "second_heading": "Bakar vs Tzon Comparison",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the follow-up question of extending tzafon from tzon to bakar and introduces the vav mosif principle, which is exactly what heading 1 'Bakar vs Tzon Comparison' describes.",
+      "current_heading": "Bakar vs Tzon Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Vav Mosif Principle",
+    "candidates": [
+      "Vav Mosif Principle",
+      "Ve'im Nefesh Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's challenge 'this works out well according to the one who says we learn... but according to the one who says we do not learn, what is there to say?' \u2014 which is precisely the debate about the vav mosif/ein melamdim principle described in the 'Vav Mosif Principle' prose.",
+      "chosen_heading": "Vav Mosif Principle",
+      "current_heading": "Vav Mosif Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Ve'im Nefesh Sources",
+    "candidates": [
+      "Ve'im Nefesh Sources",
+      "Rabbi Akiva Position",
+      "Rabbis' Mitzvot Limit",
+      "Akiva: Fixed Korbanot",
+      "Heikesh vs Gezeirah",
+      "Kessef Shekalim Rule",
+      "Cost Requirement Sources",
+      "Asham Shifchah Extension",
+      "Torah Sources Chatat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 13 items form a continuous discussion of the Rabbi Akiva vs. Rabbis debate about asham taluy for uncertain me'ilah, covering the baraita, Rav Pappa's gezeirah shavah explanation, the heikesh vs. gezeirah shavah question, the kesef shekalim derivation, and the b'erkecha/b'ayil extensions \u2014 precisely the content described in candidate 1 ('Rabbi Akiva Position') and its subsequent sections, which together narrate this entire dispute, and which fits far better than the current placement (candidate 0) whose prose only introduces the two adjacent Torah passages as background.",
+      "chosen_heading": "Rabbi Akiva Position",
+      "current_heading": "Ve'im Nefesh Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Torah Sources Chatat",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Rabbis' Mitzvot Limit",
+      "Akiva: Fixed Korbanot",
+      "Heikesh vs Gezeirah",
+      "Kessef Shekalim Rule",
+      "Cost Requirement Sources",
+      "Asham Shifchah Extension",
+      "Torah Sources Chatat",
+      "Me'akev Default Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Torah Sources Chatat",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the derivation that chatat requires tzafon for shechita and kabbalah, and the question of whether it is le'mitzvah or me'akev, which matches heading 7's prose about deriving the chatat's requirement for the north from multiple verses.",
+      "second_heading": "Me'akev Default Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 directly address the question of le'akev (invalidation) versus le'mitzvah, which is precisely what heading 8's prose discusses \u2014 the principle that invalidation requires a doubling of the law.",
+      "current_heading": "Torah Sources Chatat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Me'akev Default Principle",
+    "candidates": [
+      "Me'akev Default Principle",
+      "Double Mention Doubling",
+      "Doubling Extension Logic",
+      "Se'ir Nachshon Status"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Se'ir Nachshon Status",
+    "candidates": [
+      "Double Mention Doubling",
+      "Doubling Extension Logic",
+      "Se'ir Nachshon Status",
+      "Se'ir Smicha Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the baraita 'oso b'tzafon v'ein se'ir Nachshon b'tzafon' \u2014 that the chatat nasi is slaughtered in the north but the se'ir Nachshon is not \u2014 which is precisely what the prose of candidate 2 ('Se'ir Nachshon Status') describes and explains.",
+      "chosen_heading": "Se'ir Nachshon Status",
+      "current_heading": "Se'ir Nachshon Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Se'ir Smicha Derivation",
+    "candidates": [
+      "Se'ir Smicha Derivation",
+      "Ravina Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about the smicha derivation from 'hase'ir' and then explain why the exclusion from tzafon is still needed \u2014 this is precisely the content described in the 'Se'ir Smicha Derivation' prose, which discusses the same baraita, Rabbi Yehuda's and Rabbi Shimon's positions, and the need to prevent the inference that smicha-inclusion implies tzafon-inclusion.",
+      "chosen_heading": "Se'ir Smicha Derivation",
+      "current_heading": "Se'ir Smicha Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Ravina Challenge",
+    "candidates": [
+      "Ravina Challenge",
+      "Medorot Lo Gamrinan",
+      "Oto Animal Teaching",
+      "Rabbi Chiya Shochet",
+      "Ben Ohf Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ravina's objection that the argument only works for Rabbi Yehuda, and Mar Zutra's counter that it doesn't even work for Rabbi Yehuda \u2014 are precisely what candidate 0's prose describes as the content of the 'Ravina Challenge' section.",
+      "chosen_heading": "Ravina Challenge",
+      "current_heading": "Ravina Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Ben Ohf Exclusion",
+    "candidates": [
+      "Medorot Lo Gamrinan",
+      "Oto Animal Teaching",
+      "Rabbi Chiya Shochet",
+      "Ben Ohf Exclusion",
+      "Pesach Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Medorot Lo Gamrinan",
+      "first_confidence": "low",
+      "first_reason": "Items 1-6 span multiple headings (0-3) but the current placement under heading 3 best captures items 5-6 which discuss the ben ohf exclusion matching the current prose.",
+      "second_heading": "Pesach Exclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 7 explicitly introduces the Pesach exclusion ('v'ein Pesach b'tzafon'), which directly matches heading 4's prose about the korban Pesach not requiring tzafon.",
+      "current_heading": "Ben Ohf Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Pesach Exclusion",
+    "candidates": [
+      "Pesach Exclusion",
+      "Oto Mekabel Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit about the kal vachomer argument that the Paschal offering might require slaughter in the north, followed by the gemara's refutations from olah, chatat, and asham \u2014 precisely what the 'Pesach Exclusion' prose describes.",
+      "chosen_heading": "Pesach Exclusion",
+      "current_heading": "Pesach Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Oto Mekabel Teaching",
+    "candidates": [
+      "Oto Mekabel Teaching",
+      "Olah Doubling Search",
+      "Kal Vachomer Argument",
+      "Chatat Kapparah Objection",
+      "Derivative Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the teaching that the shochet need not stand in the north but the mekabel must, and the rejection of the velakach derivation \u2014 exactly what the 'Oto Mekabel Teaching' prose describes.",
+      "chosen_heading": "Oto Mekabel Teaching",
+      "current_heading": "Oto Mekabel Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Derivative Principle",
+    "candidates": [
+      "Olah Doubling Search",
+      "Kal Vachomer Argument",
+      "Chatat Kapparah Objection",
+      "Derivative Principle",
+      "Ma'aser Sheni Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 the question of whether tzafon is me'akev for the olah (item 1), the kal vachomer answer (item 2), the chatat kapparah objection (item 3), and Ravina's structural rejoinder (item 4) \u2014 which precisely matches heading 0's prose about seeking the source that renders tzafon me'akev for the olah itself, covering all these sub-steps as part of that single inquiry.",
+      "chosen_heading": "Olah Doubling Search",
+      "current_heading": "Derivative Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Ma'aser Sheni Example",
+    "candidates": [
+      "Derivative Principle",
+      "Ma'aser Sheni Example",
+      "Stringency vs Weakness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the challenge-and-response unit of the ma'aser sheni counterexample: item 1 raises the challenge, item 2 elaborates it, and item 3 gives the gemara's answer \u2014 exactly what heading 1's prose describes, and the answer (item 3) belongs with the challenge it resolves rather than being split off to heading 2.",
+      "chosen_heading": "Ma'aser Sheni Example",
+      "current_heading": "Ma'aser Sheni Example",
+      "moved": false
+    }
+  }
+]

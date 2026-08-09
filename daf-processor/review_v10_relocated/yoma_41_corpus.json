@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Goral Oseo Chatat",
+    "candidates": [
+      "Hagralah Overview",
+      "Goral Oseo Chatat",
+      "Kal Vachomer",
+      "Sifra Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the baraita's core teaching that 'the lot makes it a chatat and not the verbal designation,' which is precisely what the 'Goral Oseo Chatat' section's prose describes \u2014 the kal vachomer and talmud lomar elaboration are integral parts of this same baraita unit, and the 'Kal Vachomer' section's prose discusses the gemara's subsequent technical difficulty with the kal vachomer, which does not yet appear in these items.",
+      "chosen_heading": "Goral Oseo Chatat",
+      "current_heading": "Goral Oseo Chatat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Sifra Proof",
+    "candidates": [
+      "Kal Vachomer",
+      "Sifra Proof",
+      "Conclusion",
+      "Rav Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Sifra's anonymous authorship being Rabbi Yehuda and its teaching that the lottery makes it a sin-offering while verbal designation does not, which is precisely what the 'Sifra Proof' section's prose describes.",
+      "chosen_heading": "Sifra Proof",
+      "current_heading": "Sifra Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Chisda",
+    "candidates": [
+      "Conclusion",
+      "Rav Chisda",
+      "Two Moments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's statement about kinnim designation, which is exactly what the 'Rav Chisda' section's prose introduces and explains.",
+      "chosen_heading": "Rav Chisda",
+      "current_heading": "Rav Chisda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Two Moments",
+    "candidates": [
+      "Two Moments",
+      "Purification Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion of Rav \u1e24isda's ruling about the two valid moments of designation (lekichah and asiyah), with Rav Shimi bar Ashi providing the scriptural source and items 2-5 presenting the objection from the Yom Kippur goat baraita and its resolution \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Two Moments",
+      "current_heading": "Two Moments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Purification Birds",
+    "candidates": [
+      "Purification Birds",
+      "Money Designation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's reinterpretation of the baraita's kal vachomer comparing lottery-based and verbal designation of birds, which is explicitly discussed in the 'Purification Birds' prose section as 'what Rava proceeds to do, as discussed above.'",
+      "chosen_heading": "Purification Birds",
+      "current_heading": "Purification Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Money Designation",
+    "candidates": [
+      "Money Designation",
+      "Rich vs Poor"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Money Designation",
+      "current_heading": "Money Designation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Rich vs Poor",
+    "candidates": [
+      "Rich vs Poor",
+      "Yoshiya: Lo Yatzei",
+      "Chaga: Yatzei",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together form the resolution sequence: Rav Sheshet's objection (items 1-2) and the Rabbi Chaga counter-case with its emendation (items 3-4) are precisely what candidate 3 ('Resolution') describes \u2014 reading the braita as imprecise under Rabbi Yoshiya's view and re-reading it as 'lakach ve-amar' under Rabbi Chaga's view.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Rich vs Poor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Yoshiya: Lo Yatzei",
+      "Chaga: Yatzei",
+      "Resolution",
+      "Metzora Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question about 'lakach', the rejected suggestion of pidyon, and Rav Pappa's resolution about preda achat \u2014 are explicitly discussed in the 'Resolution' section's prose, which covers precisely these Gemara exchanges about lekichah, mosif u-meivi, azla le-misa, and the single bird scenario.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Metzora Proof",
+    "candidates": [
+      "Metzora Proof",
+      "Oleh V'Yored"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the core dispute between Rabbi Elazar/Rabbi Hoshaya (lo yatza) and Rabbi Chaga/Rabbi Hoshaya (yatza), which is precisely what the 'Metzora Proof' prose introduces as the starting point before bringing the braita to clarify it.",
+      "chosen_heading": "Metzora Proof",
+      "current_heading": "Metzora Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Oleh V'Yored",
+    "candidates": [
+      "Oleh V'Yored",
+      "String on Scapegoat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the metzora offering scale (poor vs. wealthy), the words 'zot' and 'torat', and the derivation limiting these rules to metzora via 've-im dal hu' \u2014 exactly the content described in the 'Oleh V'Yored' prose.",
+      "chosen_heading": "Oleh V'Yored",
+      "current_heading": "Oleh V'Yored",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "String on Scapegoat",
+    "candidates": [
+      "String on Scapegoat",
+      "Second String Question",
+      "No Mixing",
+      "Neck String"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "String on Scapegoat",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna describing the tying/positioning of the goats and the second viduy confession, which matches heading 0's prose about the red string placement and the kohen gadol's second viduy on behalf of himself, household, and kohanim.",
+      "second_heading": "Second String Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara dilemma about whether 've-la-nishchat' refers to tying or positioning, resolved by Rav Yosef's baraita, which matches heading 1's prose about exactly this grammatical/halakhic question.",
+      "current_heading": "String on Scapegoat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Neck String",
+    "candidates": [
+      "Second String Question",
+      "No Mixing",
+      "Neck String",
+      "Two Strings",
+      "Two String Types",
+      "Scapegoat Minimum"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Neck String",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's reasoning from the baraita concluding that the clause refers to tying \u2014 exactly what candidate 2 ('Neck String') describes in its prose.",
+      "second_heading": "Two Strings",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yitzchak's statement about two strips (parah adumah and scapegoat) and the shiur question \u2014 exactly what candidate 3 ('Two Strings') describes in its prose.",
+      "current_heading": "Neck String",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Scapegoat Minimum",
+    "candidates": [
+      "Two Strings",
+      "Two String Types",
+      "Scapegoat Minimum",
+      "Parah No Minimum",
+      "Weight Question",
+      "Tanna Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's proposal that the scapegoat string requires a minimum measure because it must be divided, which is precisely what 'Scapegoat Minimum' (index 2) discusses in its prose.",
+      "chosen_heading": "Scapegoat Minimum",
+      "current_heading": "Scapegoat Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Tanna Debate",
+    "candidates": [
+      "Parah No Minimum",
+      "Weight Question",
+      "Tanna Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rami bar \u1e24ama's objection about weight AND Rava's response that it is a tanna'im dispute, and the current placement under 'Tanna Debate' (index 2) whose prose explicitly covers Rava's 'koved tanna'i hi' response is the best match for the full content of this passage.",
+      "chosen_heading": "Tanna Debate",
+      "current_heading": "Tanna Debate",
+      "moved": false
+    }
+  }
+]

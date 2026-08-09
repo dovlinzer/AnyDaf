@@ -1,0 +1,425 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Larger Than Ten Amos",
+    "candidates": [
+      "Keivan De'hutra Hutra",
+      "Maintaining Status",
+      "Rav vs. Shmuel Debate",
+      "Ten Amos Consensus",
+      "Larger Than Ten Amos",
+      "Beam in Field Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the two versions of the dispute over whether the consensus is at ten amos or beyond ten amos, which is precisely what candidate 3 ('Ten Amos Consensus') introduces \u2014 the statement 'b'eser kulei alma lo peligi' \u2014 while candidate 4 already contains the prose describing both versions in full, meaning the Talmudic text itself belongs under heading 3 where the topic is first opened, not under 4 where the prose has already summarized it.",
+      "chosen_heading": "Ten Amos Consensus",
+      "current_heading": "Larger Than Ten Amos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Beam in Field Case",
+    "candidates": [
+      "Larger Than Ten Amos",
+      "Beam in Field Case",
+      "Water vs. Dry Land"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beam in Field Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('And that which Rav Yehuda said') is the introductory phrase leading into the Rav Yehuda ruling about a beam in a ruin, which belongs under 'Beam in Field Case' where that ruling is discussed.",
+      "second_heading": "Water vs. Dry Land",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents both Rav Yehuda's ruling (kora arba in a ruin) and Rav Nachman/Rabba bar Avuha's ruling (kora arba in water) with the question 'mani,' which is exactly what 'Water vs. Dry Land' discusses \u2014 the qualification to water and the subsequent 'mani' analysis.",
+      "current_heading": "Beam in Field Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Water vs. Dry Land",
+    "candidates": [
+      "Beam in Field Case",
+      "Water vs. Dry Land",
+      "Sukkah S'chach Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two versions of the Rav-Shmuel debate regarding ten cubits and which version the beam ruling follows, which is precisely what the 'Water vs. Dry Land' section's prose describes.",
+      "chosen_heading": "Water vs. Dry Land",
+      "current_heading": "Water vs. Dry Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Sukkah S'chach Debate",
+    "candidates": [
+      "Sukkah S'chach Debate",
+      "Permanent vs. Ad Hoc",
+      "Past vs. Future Shabbosos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Abaye-Rava dispute over s'chach on a portico without doorposts and whether it parallels the Rav-Shmuel dispute, which is precisely what candidate 0's prose describes, including the pi takra reasoning and the aliba d'Rav conclusion.",
+      "chosen_heading": "Sukkah S'chach Debate",
+      "current_heading": "Sukkah S'chach Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Past vs. Future Shabbosos",
+    "candidates": [
+      "Permanent vs. Ad Hoc",
+      "Past vs. Future Shabbosos",
+      "Ruling Like Rabbi Yosi",
+      "Rabbi Yehuda in Eruvin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Past vs. Future Shabbosos",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dilemma (ibayu lehu) of whether Rabbi Yosi intended l'issura or l'hetera, which matches the 'Past vs. Future Shabbosos' prose describing exactly this question.",
+      "second_heading": "Ruling Like Rabbi Yosi",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rav Sheshet's and Rabbi Yochanan's rulings l'issura plus the corroborating baraita, which matches the 'Ruling Like Rabbi Yosi' prose describing precisely these rulings and that baraita.",
+      "current_heading": "Past vs. Future Shabbosos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rabbi Yehuda in Eruvin",
+    "candidates": [
+      "Ruling Like Rabbi Yosi",
+      "Rabbi Yehuda in Eruvin",
+      "Shmuel vs Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states exactly the dispute between Rav \u1e24iyya bar Yosef (ruling like Rabbi Yosi) and Shmuel (ruling like Rabbi Yehuda), which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Rabbi Yehuda in Eruvin",
+      "current_heading": "Rabbi Yehuda in Eruvin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Shmuel vs Rabbi Yehuda",
+    "candidates": [
+      "Shmuel vs Rabbi Yehuda",
+      "Eruvin vs. Mechitzos",
+      "Karmelis v. Reshus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel vs Rabbi Yehuda",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern whether Shmuel ruled like Rabbi Yehuda regarding eiruv techimin vs. eiruv chatzeiros, which matches heading 0's prose about challenging Shmuel's position across the board and Rav Chana Bagdata'ah's question.",
+      "second_heading": "Eruvin vs. Mechitzos",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Yehuda's clarification that Shmuel's ruling applies to eruvin but not mechitzos, which precisely matches heading 1's prose quoting 'b'Eruvin amri lach, v'lo b'mechitzos' and explaining the distinction between eruvin and mechitzos laws.",
+      "current_heading": "Shmuel vs Rabbi Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Karmelis v. Reshus",
+    "candidates": [
+      "Eruvin vs. Mechitzos",
+      "Karmelis v. Reshus",
+      "Second Story Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Anan's report from Shmuel distinguishing between a breach into a karmelis versus a reshus ha'rabim, which is precisely what the 'Karmelis v. Reshus' section's prose discusses.",
+      "chosen_heading": "Karmelis v. Reshus",
+      "current_heading": "Karmelis v. Reshus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Second Story Case",
+    "candidates": [
+      "Second Story Case",
+      "Rabba's Pi Takra View",
+      "Two Walls Sufficing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Second Story Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah presenting the bridge case and mavoi mefulash case, which candidate 0's prose explicitly describes in detail including both rulings of Rabbi Yehuda and the chachamim.",
+      "second_heading": "Rabba's Pi Takra View",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabba's Gemara statement cautioning against misreading Rabbi Yehuda's reasoning and introducing pi takra, which is precisely what candidate 1's prose discusses.",
+      "current_heading": "Second Story Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Two Walls Sufficing",
+    "candidates": [
+      "Rabba's Pi Takra View",
+      "Two Walls Sufficing",
+      "Two Principles Analysis",
+      "Chachamim Disagree",
+      "Finding Tefillin",
+      "Pair-by-Pair Transport",
+      "Two Pairs Option",
+      "Used vs. New Tefillin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about the 've'od' formulation in the mishnah \u2014 Abaye's objection from the baraita about two houses across a reshus ha'rabim, Rabba's response, and Rav Ashi's analysis of why 've'od' proves pi takra is the reason for the first case \u2014 which precisely matches the 'Two Principles Analysis' prose describing Rav Ashi's ve'od argument and the shma mina conclusion.",
+      "chosen_heading": "Two Principles Analysis",
+      "current_heading": "Two Walls Sufficing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Used vs. New Tefillin",
+    "candidates": [
+      "Two Principles Analysis",
+      "Chachamim Disagree",
+      "Finding Tefillin",
+      "Pair-by-Pair Transport",
+      "Two Pairs Option",
+      "Used vs. New Tefillin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The 'Hadran alach kol ha'gagos' formula is the traditional closing declaration for a tractate chapter, and the prose under 'Chachamim Disagree' explicitly ends with 'With that, the perek concludes. Hadran alach kol ha'gagos,' making it the clear home for this passage.",
+      "chosen_heading": "Chachamim Disagree",
+      "current_heading": "Used vs. New Tefillin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Used vs. New Tefillin",
+    "candidates": [
+      "Used vs. New Tefillin",
+      "Bundled Tefillin Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text that introduces the pair-by-pair ruling and the old vs. new tefillin distinction, which is exactly what the 'Used vs. New Tefillin' section's prose discusses and explains.",
+      "chosen_heading": "Used vs. New Tefillin",
+      "current_heading": "Used vs. New Tefillin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Bundled Tefillin Case",
+    "candidates": [
+      "Bundled Tefillin Case",
+      "Danger Override",
+      "Daisy Chain Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bundled Tefillin Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the bundled tefillin case where one waits until dark, which matches exactly the 'Bundled Tefillin Case' prose about remaining until nightfall.",
+      "second_heading": "Danger Override",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the danger override where one covers the tefillin and leaves, which matches exactly the 'Danger Override' prose about sakkanah exempting one from staying.",
+      "current_heading": "Bundled Tefillin Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Daisy Chain Method",
+    "candidates": [
+      "Danger Override",
+      "Daisy Chain Method",
+      "Object Techumim Rule",
+      "Property Outside Tehum",
+      "Tosafot's Reasoning",
+      "Mishnah Positions",
+      "Rabbi Meir Comparison",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Shimon's daisy-chain method for tefillin, the extension to an infant, and Rabbi Yehuda's barrel/techumim dispute \u2014 are precisely what Candidate 1's prose ('Daisy Chain Method') describes, including the infant case and Rabbi Yehuda's position as the explicit content of that section.",
+      "chosen_heading": "Daisy Chain Method",
+      "current_heading": "Daisy Chain Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Object Techumim Rule",
+      "Property Outside Tehum",
+      "Tosafot's Reasoning",
+      "Mishnah Positions",
+      "Rabbi Meir Comparison",
+      "Rava's Distinction",
+      "Shabbos as Zman Tefillin",
+      "One Pair If Zman",
+      "Tefillin as Accessory",
+      "Normal Wearing Location",
+      "Space for Two",
+      "Head Placement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Rabbi Meir Comparison",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 form a continuous unit analyzing whether the mishna follows Rabbi Meir and Rava's resolution of that tension, which is precisely what candidate 4 ('Rabbi Meir Comparison') and candidate 5 ('Rava's Distinction') discuss \u2014 but since items 1-3 set up the Rabbi Meir question and items 4-5 are Rava's answer, and candidate 4's prose explicitly covers both the question and the fire-mishna attribution while candidate 5 covers Rava's resolution, the best single heading for items 1-5 is candidate 4, as it introduces the entire sub-discussion.",
+      "second_heading": "Shabbos as Zman Tefillin",
+      "second_confidence": "high",
+      "second_reason": "Items 6-8 pivot to a new analytical question \u2014 whether Shabbos is zman tefillin \u2014 which is exactly the subject of candidate 6 ('Shabbos as Zman Tefillin'), and this is a structurally new dispute with its own framing, independent of the Rabbi Meir comparison.",
+      "current_heading": "Rava's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Head Placement",
+    "candidates": [
+      "Shabbos as Zman Tefillin",
+      "One Pair If Zman",
+      "Tefillin as Accessory",
+      "Normal Wearing Location",
+      "Space for Two",
+      "Head Placement",
+      "Zman Tefillin Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Space for Two",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 are the continuous Gemara discussion establishing that there is physical space for two tefillin on both head and arm, exactly what heading 4 'Space for Two' describes as its content.",
+      "second_heading": "Head Placement",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is the baraita from the school of Menashe defining the precise location of tefillin placement (biceps and crown/fontanelle), which is exactly the anatomical content heading 5 'Head Placement' discusses, including the d'vei Rav Yannai ruling about the infant's soft spot.",
+      "current_heading": "Head Placement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Zman Tefillin Resolution",
+    "candidates": [
+      "Zman Tefillin Resolution",
+      "Bal Tosif Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Items 1\u20133 match perfectly the 'Zman Tefillin Resolution' prose (everyone agrees on Rav Shmuel bar Rav Yitzchak; dispute is about Shabbat being zman tefillin), while items 4\u20138 extend into kavvanah and bal tosif sub-debates that are continuous elaborations of the same gemara passage rather than a separate structural unit, making the current placement the best available home even though candidate 1's prose about bal tosif is also related.",
+      "chosen_heading": "Zman Tefillin Resolution",
+      "current_heading": "Zman Tefillin Resolution",
+      "moved": false
+    }
+  }
+]

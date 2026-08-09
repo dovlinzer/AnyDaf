@@ -1,0 +1,451 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Shlomo's Dedication",
+    "candidates": [
+      "Forbidden Activities",
+      "Four Reasons",
+      "Tosafot's Exceptions",
+      "Shlomo's Dedication",
+      "Gemara's Challenge",
+      "Explanations Examined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic text deriving 'ein me'arvin simcha b'simcha' from the verse about Solomon's dedication, which is precisely what section 3 'Shlomo's Dedication' describes in its prose.",
+      "chosen_heading": "Shlomo's Dedication",
+      "current_heading": "Shlomo's Dedication",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Explanations Examined",
+    "candidates": [
+      "Gemara's Challenge",
+      "Explanations Examined",
+      "Proof from Language",
+      "Violation of Yom Kippur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Explanations Examined",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the v'dilma challenge, the shiurei pursa response, the binyan Beit HaMikdash objection, and the ama kalya orev exchange \u2014 all of which are explicitly narrated in the 'Explanations Examined' prose.",
+      "second_heading": "Proof from Language",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the conclusion drawn from the redundancy in the verse ('shivas yamim v'shivas yamim'), which is precisely what the 'Proof from Language' prose describes as the gemara's shift to a linguistic derivation.",
+      "current_heading": "Explanations Examined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Violation of Yom Kippur",
+    "candidates": [
+      "Proof from Language",
+      "Violation of Yom Kippur",
+      "People's Worry",
+      "Kal V'Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes that year's non-observance of Yom Kippur and the people's worry about destruction, but the current heading 'Violation of Yom Kippur' has prose that directly introduces this exact passage (Parnakh/Yochanan, chanukas habayis, eating on Yom Kippur), making it the best match \u2014 the worry detail in the passage is just the continuation of the same narrative unit introduced under this heading.",
+      "chosen_heading": "Violation of Yom Kippur",
+      "current_heading": "Violation of Yom Kippur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Kal V'Chomer",
+    "candidates": [
+      "People's Worry",
+      "Kal V'Chomer",
+      "Simcha Requires Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the kal va-chomer argument about Tabernacle vs. Temple, Shabbat vs. Yom Kippur, individual vs. communal offerings, which is precisely what the 'Kal V'Chomer' section's prose discusses in detail.",
+      "chosen_heading": "Kal V'Chomer",
+      "current_heading": "Kal V'Chomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Simcha Requires Food",
+    "candidates": [
+      "Simcha Requires Food",
+      "Heavenly Voice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the same continuous discussion about why they were worried, the distinction between heavenly vs. mortal needs, the 'no rejoicing without eating and drinking' principle, and the proofs from the Tabernacle/Temple dedication verses \u2014 all of which are explicitly discussed in the 'Simcha Requires Food' prose section.",
+      "chosen_heading": "Simcha Requires Food",
+      "current_heading": "Simcha Requires Food",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Heavenly Voice",
+    "candidates": [
+      "Heavenly Voice",
+      "Verse Analysis",
+      "Stuck Gates",
+      "Shlomo's Prayer",
+      "David's Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what heading 0 ('Heavenly Voice') describes: the bas kol declaration, Tachlifa's baraita, the phrase-by-phrase unpacking of the verse's blessings, and the opening question about what goodness was done for David \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Heavenly Voice",
+      "current_heading": "Heavenly Voice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "David's Blessing",
+    "candidates": [
+      "Verse Analysis",
+      "Stuck Gates",
+      "Shlomo's Prayer",
+      "David's Blessing",
+      "Enemies Shamed",
+      "Leave Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together describe Solomon's failed attempts to open the gates \u2014 the twenty-four songs and the Psalms verse (item 1) and then the successful invocation of David's merit (item 2) \u2014 which matches heading 2 ('Shlomo's Prayer') whose prose explicitly covers all of this: the twenty-four expressions, the Tehillim verse, and the final prayer that invoked David and caused the gates to open immediately.",
+      "chosen_heading": "Shlomo's Prayer",
+      "current_heading": "David's Blessing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Leave Requirements",
+    "candidates": [
+      "Enemies Shamed",
+      "Leave Requirements",
+      "Shlomo Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yonatan ben Asmai and Rabbi Yehuda ben Gerim taking leave of Rabbi Shimon bar Yochai twice, which is precisely the narrative the 'Leave Requirements' section's prose discusses as introducing the rule about students needing to take leave again after sleeping in the same city.",
+      "chosen_heading": "Leave Requirements",
+      "current_heading": "Leave Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Shlomo Proof",
+    "candidates": [
+      "Shlomo Proof",
+      "Blessing Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are directly about the rule that a disciple who takes leave of his teacher and stays overnight must take leave again, derived from the Solomon/Temple dedication verses \u2014 exactly what the 'Shlomo Proof' prose describes.",
+      "chosen_heading": "Shlomo Proof",
+      "current_heading": "Shlomo Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Blessing Request",
+    "candidates": [
+      "Blessing Request",
+      "First Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items describe exactly the content detailed in the 'Blessing Request' prose: the son finding the scholars resolving contradictions between verses about weighing mitzvot and about Torah study versus mitzvot, with the same resolutions (mitzvah doable by others vs. not), which is precisely what candidate 0 discusses at length.",
+      "chosen_heading": "Blessing Request",
+      "current_heading": "Blessing Request",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "First Blessings",
+    "candidates": [
+      "First Blessings",
+      "Blessings Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the actual text of the blessings being delivered to the son, which corresponds to the 'First Blessings' section's prose that describes those same blessings before the father explains their meaning.",
+      "chosen_heading": "First Blessings",
+      "current_heading": "First Blessings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Blessings Explained",
+    "candidates": [
+      "Blessings Explained",
+      "Chalafta's Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuation of Rabbi Shimon ben Yo\u1e25ai's explanation of the cryptic blessings to his son, which is precisely what candidate 0 ('Blessings Explained') discusses in detail.",
+      "chosen_heading": "Blessings Explained",
+      "current_heading": "Blessings Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Chalafta's Blessing",
+    "candidates": [
+      "Chalafta's Blessing",
+      "Permitted Makeup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of Rabbi Shimon ben \u1e24alafta receiving Rav's blessing and his father explaining its significance, which is exactly what candidate 0 ('Chalafta's Blessing') describes in its prose.",
+      "chosen_heading": "Chalafta's Blessing",
+      "current_heading": "Chalafta's Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Permitted Makeup",
+    "candidates": [
+      "Permitted Makeup",
+      "Age Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the specific cosmetic treatments permitted on Chol HaMoed (kochelet, pokeset, srak), which directly matches the 'Permitted Makeup' section's prose discussing exactly these practices.",
+      "chosen_heading": "Permitted Makeup",
+      "current_heading": "Permitted Makeup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Age Objection",
+    "candidates": [
+      "Age Objection",
+      "Chisda's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Age Objection' prose discusses: Rav Hisda's wife adorning herself before her daughter-in-law and Rav Huna bar Chinana's ruling that the permission applies only to young women, not old women.",
+      "chosen_heading": "Age Objection",
+      "current_heading": "Age Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Chisda's Response",
+    "candidates": [
+      "Chisda's Response",
+      "Aging Principle",
+      "Yehuda's Prohibition",
+      "Plaster Exception",
+      "Micro vs. Macro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24isda's direct response including the 'by God' oath, the references to mother and grandmother, and the folk saying about the sixty-year-old, all of which are discussed together in the 'Chisda's Response' prose \u2014 the folk saying is quoted as part of his response, not as a separate principle.",
+      "chosen_heading": "Chisda's Response",
+      "current_heading": "Chisda's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Micro vs. Macro",
+    "candidates": [
+      "Aging Principle",
+      "Yehuda's Prohibition",
+      "Plaster Exception",
+      "Micro vs. Macro",
+      "Nachman's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the tension described in candidate 3's prose: Rabbi Yehuda's concession about peelable plaster (item 1) followed by the Gemara's challenge (item 2) citing the Avoda Zara mishna where Rabbi Yehuda uses immediate-distress reasoning (item 3), which is precisely the 'micro vs. macro' structural disagreement that candidate 3 describes.",
+      "chosen_heading": "Micro vs. Macro",
+      "current_heading": "Micro vs. Macro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Nachman's Resolution",
+    "candidates": [
+      "Nachman's Resolution",
+      "Methods by Class"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rav Na\u1e25man bar Yitz\u1e25ak's statement about Chol HaMoed and Ravina's alternative explanation about gentile debt repayment) are explicitly discussed together in the prose of candidate 0, which covers exactly these two resolutions in sequence.",
+      "chosen_heading": "Nachman's Resolution",
+      "current_heading": "Nachman's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Methods by Class",
+    "candidates": [
+      "Methods by Class",
+      "Olive Oil Effects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the class-based methods of hair removal (lime for poor, fine flour for wealthy, shemen hamor for royalty), which directly matches the 'Methods by Class' section's prose description of the same content.",
+      "chosen_heading": "Methods by Class",
+      "current_heading": "Methods by Class",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Olive Oil Effects",
+    "candidates": [
+      "Olive Oil Effects",
+      "Rav Bibi Story",
+      "Cautionary Tale",
+      "Mead-Drinkers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the identity and properties of shemen hamor/anpikinon (hair removal and skin-pampering effects of unripened olive oil), which is precisely what the 'Olive Oil Effects' prose discusses.",
+      "chosen_heading": "Olive Oil Effects",
+      "current_heading": "Olive Oil Effects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Mead-Drinkers",
+    "candidates": [
+      "Rav Bibi Story",
+      "Cautionary Tale",
+      "Mead-Drinkers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Rav Bibi's daughter, the neighbor's failed attempt, and Rav Na\u1e25man's beer explanation \u2014 but the quoted text is a single continuous unit, and its current placement under 'Mead-Drinkers' (index 2) is the correct home since the prose there explicitly discusses Rav Na\u1e25man's remark about beer/mead and daughters requiring the treatment, which is the concluding and unifying explanation of the entire anecdote.",
+      "chosen_heading": "Mead-Drinkers",
+      "current_heading": "Mead-Drinkers",
+      "moved": false
+    }
+  }
+]

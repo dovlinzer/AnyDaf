@@ -1,0 +1,403 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Aveiros & Bal Tashkutzu",
+    "candidates": [
+      "Opening Overview",
+      "Aveiros & Bal Tashkutzu",
+      "Tevel Definition",
+      "Rav's Position",
+      "Hierarchy of Separations",
+      "Ma'aser Ani Case",
+      "Braitah: Rabbi Yosei"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Aveiros & Bal Tashkutzu",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the multiple lashes for eating insects (putita, ant, wasp) and bal teshaktzu violations, which exactly matches the 'Aveiros & Bal Tashkutzu' prose description of multiple aveiros from eating insects and the bal teshaktzu digression.",
+      "second_heading": "Tevel Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 6 begins with the mishna's case of tevel and ma'aser rishon, marked by the paragraph-opening '\u00a7' and a direct quote of the mishna, which is a structural new topic matching the 'Tevel Definition' prose that says 'the gemara now turns to the case in the mishnah dealing with the consumption of tevel.'",
+      "current_heading": "Aveiros & Bal Tashkutzu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Braitah: Rabbi Yosei",
+    "candidates": [
+      "Tevel Definition",
+      "Rav's Position",
+      "Hierarchy of Separations",
+      "Ma'aser Ani Case",
+      "Braitah: Rabbi Yosei",
+      "Scriptural Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself in which Rabbi Yosei raises the question about liability for tevel from which only partial separations have been made, which directly corresponds to the 'Braitah: Rabbi Yosei' section's prose describing exactly this content.",
+      "chosen_heading": "Braitah: Rabbi Yosei",
+      "current_heading": "Braitah: Rabbi Yosei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Scriptural Basis",
+    "candidates": [
+      "Scriptural Basis",
+      "Demai Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezerah shavah on 'bish'arecha' linking the prohibition to ma'aser ani, which is precisely what the 'Scriptural Basis' prose describes.",
+      "chosen_heading": "Scriptural Basis",
+      "current_heading": "Scriptural Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Demai Definition",
+    "candidates": [
+      "Demai Definition",
+      "Separating from Demai",
+      "Separation Process",
+      "Eliezer vs. Chachamim",
+      "Gemara Analysis",
+      "Debate Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's framing of the tannaitic dispute between Rabbi Eliezer and the Rabbis regarding designation of ma'aser ani for demai, which is precisely what the 'Demai Definition' prose describes \u2014 quoting this exact dispute as the gemara's continuation.",
+      "chosen_heading": "Demai Definition",
+      "current_heading": "Demai Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Debate Conclusion",
+    "candidates": [
+      "Separating from Demai",
+      "Separation Process",
+      "Eliezer vs. Chachamim",
+      "Gemara Analysis",
+      "Debate Conclusion",
+      "Mishnah's Question",
+      "Ke'Briato Concept",
+      "Ant vs. Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Abaye challenge and its resolution \u2014 the exact content described in heading 3 ('Gemara Analysis'), where Abaye's objection 'ei hachi, adamiflagi b'sfeiku liflgu b'vadai' and the gemara's conclusion about the narrow debate over am ha'aretz behavior are precisely what that prose discusses, making it a clearly better fit than the current heading 4 which covers the final conclusion reached after this exchange.",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Debate Conclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Ant vs. Grain",
+    "candidates": [
+      "Mishnah's Question",
+      "Ke'Briato Concept",
+      "Ant vs. Grain",
+      "Rabbi Shimon Position",
+      "Tosafot's Logic",
+      "Mishnah List",
+      "Kodshim Kalim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion of the wheat/flour dispute (Rav Beivai vs. Rabbi Yirmiyah citing Resh Lakish), the ant vs. grain challenge, and the baraita confirming Rabbi Yirmiyah's position \u2014 exactly the content described in the 'Ant vs. Grain' section's prose.",
+      "chosen_heading": "Ant vs. Grain",
+      "current_heading": "Ant vs. Grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Kodshim Kalim",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Tosafot's Logic",
+      "Mishnah List",
+      "Kodshim Kalim",
+      "Mother Bird Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah that lists bikurim, kodshei kodashim outside the curtains, kodashim kalim/ma'aser sheni outside the wall, and breaking the bone of the Paschal offering \u2014 which directly matches the 'Mishnah List' prose that discusses bikurim and kodshei kodashim, with kodshim kalim continuing in the next section.",
+      "chosen_heading": "Mishnah List",
+      "current_heading": "Kodshim Kalim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Mother Bird Case",
+    "candidates": [
+      "Kodshim Kalim",
+      "Mother Bird Case",
+      "Kiyum Asei Bitul Lav",
+      "Akiva vs. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the shiluach ha-ken dispute between Rabbi Yehuda and the Rabbis, which is exactly what the 'Mother Bird Case' prose describes, including the same ruling of lokeh v'eino meshaleach vs. meshaleach v'eino lokeh and the nitak la'aseh principle.",
+      "chosen_heading": "Mother Bird Case",
+      "current_heading": "Mother Bird Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Akiva vs. Shimon",
+    "candidates": [
+      "Kiyum Asei Bitul Lav",
+      "Akiva vs. Shimon",
+      "Devarim 12 Derashah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabba bar bar Chana's attribution of the stam mishna to Rabbi Akiva and the gemara's question about why not attribute it to Rabbi Shimon instead, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Akiva vs. Shimon",
+      "current_heading": "Akiva vs. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Devarim 12 Derashah",
+    "candidates": [
+      "Devarim 12 Derashah",
+      "Lo Tuchal Phrase",
+      "Terumas Yadecha",
+      "Nedavot & Todah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically identifies 'terumat yadecha' as referring to bikurim, which is precisely what the 'Terumas Yadecha' section's prose discusses \u2014 the identification of u-serumas yadecha with bikurim and what Rabbi Shimon derives from it.",
+      "chosen_heading": "Terumas Yadecha",
+      "current_heading": "Devarim 12 Derashah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Nedavot & Todah",
+    "candidates": [
+      "Lo Tuchal Phrase",
+      "Terumas Yadecha",
+      "Nedavot & Todah",
+      "Bechoros Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terumas Yadecha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns bikurim/terumas yadecha and Rabbi Shimon's derivation that eating bikurim before the declaration incurs malkos, which is precisely what the 'Terumas Yadecha' prose describes.",
+      "second_heading": "Nedavot & Todah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns nedavot (todah and shelamim) and Rabbi Shimon's derivation that eating them before zerikah incurs malkos, which is exactly what the 'Nedavot & Todah' prose describes.",
+      "current_heading": "Nedavot & Todah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Bechoros Case",
+    "candidates": [
+      "Bechoros Case",
+      "Bechoros Outside Temple",
+      "Olah Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Shimon's argument about what the explicit mention of 'firstborn' (bechor) comes to teach \u2014 namely that a non-priest eating from a bechor even after zerikah is flogged \u2014 which matches exactly the prose in candidate 0 about 'Bechoros Case'.",
+      "chosen_heading": "Bechoros Case",
+      "current_heading": "Bechoros Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Olah Prohibition",
+    "candidates": [
+      "Bechoros Outside Temple",
+      "Olah Prohibition",
+      "Rava's Praise"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bechoros Outside Temple",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the chatat and asham (sin-offering and guilt-offering) and the ruling that eating them outside the curtains incurs flogging, which matches heading 0 ('Bechoros Outside Temple') discussing kodshei kodashim and chutz la-kla'im incurring malkos.",
+      "second_heading": "Olah Prohibition",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 discuss the olah (burnt-offering) and the ruling that eating it even inside after zerikah incurs flogging, which matches heading 1 ('Olah Prohibition') discussing the olah and le-echol min ha-olah le-achar zerikah afilu bi-fnim she-hu lokeh.",
+      "current_heading": "Olah Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rava's Praise",
+    "candidates": [
+      "Rava's Praise",
+      "Kal Vachomer Challenge",
+      "Weight Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's praise of Rabbi Shimon ('she should bear that child like Rabbi Shimon') and his caveat about refutations, which matches exactly the prose of heading 0 ('Rava's Praise'), which discusses precisely this statement and its meaning.",
+      "chosen_heading": "Rava's Praise",
+      "current_heading": "Rava's Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Weight Examples",
+    "candidates": [
+      "Kal Vachomer Challenge",
+      "Weight Examples",
+      "Kal Vachomer Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the specific challenge-and-rebuttal pairs (bikurim vs. ma'aser sheni, and todah/shelamim vs. ma'aser sheni) that the 'Weight Examples' prose explicitly discusses, matching its content about adaraba objections undermining each kal vachomer step.",
+      "chosen_heading": "Weight Examples",
+      "current_heading": "Weight Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Kal Vachomer Fails",
+    "candidates": [
+      "Kal Vachomer Fails",
+      "Ain Mazirin Problem",
+      "Yatira Solution",
+      "Scriptural Support",
+      "Word Repetition",
+      "Separate Lavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-6 all belong under 'Kal Vachomer Fails': items 1-4 are the exact kal vachomer challenges and refutations (bechor vs. todah/shlamim, chatas/asham vs. bechor, olah vs. chatas/asham, and shtei achilos) that the prose explicitly quotes and discusses, item 5 is the 'mesarsia le-kora ve-darish lei' conclusion that the prose also explicitly mentions, and item 6 is the 'ein mazhirin min ha-din' question which the prose foreshadows as the 'more fundamental objection' about to be raised \u2014 all matching the current heading's prose perfectly.",
+      "chosen_heading": "Kal Vachomer Fails",
+      "current_heading": "Kal Vachomer Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Separate Lavim",
+    "candidates": [
+      "Ain Mazirin Problem",
+      "Yatira Solution",
+      "Scriptural Support",
+      "Word Repetition",
+      "Separate Lavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are part of the gemara's discussion of the 'kra yesera' (superfluous verse) solution \u2014 items 3 and 4 explicitly present the yatira argument, while items 1 and 2 are the objections (from Rava's ruling and the mishna) that precede and prompt that solution, all belonging to the 'Yatira Solution' section's prose which describes exactly this mechanism.",
+      "chosen_heading": "Yatira Solution",
+      "current_heading": "Separate Lavim",
+      "moved": true
+    }
+  }
+]

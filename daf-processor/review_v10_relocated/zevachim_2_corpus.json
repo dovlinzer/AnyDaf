@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Pesach, Chatat",
+    "candidates": [
+      "New masechet",
+      "Three masechtos",
+      "Sources: Rishonim",
+      "Shelo lishmah rule",
+      "Kesher vs. obligation",
+      "Pesach, Chatat",
+      "R. Eliezer, Yosi: Asham",
+      "Higher vs. lower"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items constitute the opening Mishnah of Zevachim \u2014 the general shelo lishmah rule, the Pesach/Chatat exceptions with Rabbi Eliezer's extension to Asham, and Yosi ben Choni's reciprocity argument \u2014 which is precisely what heading 5 ('Pesach, Chatat') discusses in its prose.",
+      "chosen_heading": "Pesach, Chatat",
+      "current_heading": "Pesach, Chatat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Higher vs. lower",
+    "candidates": [
+      "R. Eliezer, Yosi: Asham",
+      "Higher vs. lower",
+      "Hierarchy examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shimon Achi Azaryah's ruling about higher vs. lower sanctity, which is precisely what the 'Higher vs. lower' section's prose discusses.",
+      "chosen_heading": "Higher vs. lower",
+      "current_heading": "Higher vs. lower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Hierarchy examples",
+    "candidates": [
+      "Hierarchy examples",
+      "Language analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the hierarchy of sacrificial orders (kodshei kodashim vs. kodashim kalim, shelamim vs. bechor/maaser), which is precisely what the 'Hierarchy examples' section prose describes and analyzes.",
+      "chosen_heading": "Hierarchy examples",
+      "current_heading": "Hierarchy examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Language analysis",
+    "candidates": [
+      "Language analysis",
+      "Rava's ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about the Gemara's grammatical/linguistic question regarding why the mishnah uses 'ella shelo' instead of 'velo', which matches the Language analysis section's prose about the Gemara's precise grammatical observation concerning the word 'ela'.",
+      "chosen_heading": "Language analysis",
+      "current_heading": "Language analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Rava's ruling",
+    "candidates": [
+      "Rava's ruling",
+      "Neder vs. nedava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly concern Rava's ruling about not continuing with wrong intent after a shelo lishmah shechita \u2014 the gemara's response about retained kedushah, Rava's statement itself, and the sevara/kra support \u2014 exactly matching the prose under 'Rava's ruling'.",
+      "chosen_heading": "Rava's ruling",
+      "current_heading": "Rava's ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Neder vs. nedava",
+    "candidates": [
+      "Neder vs. nedava",
+      "Ravina's question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's exegesis of the Deuteronomy 23:24 verse distinguishing neder from nedava, which is precisely what the prose of candidate 0 ('Neder vs. nedava') elaborates upon, including the exact formulation 'ka'asher nadarta...yehei neder...nedava yehei' quoted in that prose.",
+      "chosen_heading": "Neder vs. nedava",
+      "current_heading": "Neder vs. nedava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Ravina's question",
+    "candidates": [
+      "Ravina's question",
+      "Language nuance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's introductory remark to Rav Pappa about missing the session at Bei \u1e24armakh, which directly matches the 'Ravina's question' section prose describing exactly this framing scene.",
+      "chosen_heading": "Ravina's question",
+      "current_heading": "Ravina's question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Language nuance",
+    "candidates": [
+      "Language nuance",
+      "Blank intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's inference from the mishna's language \u2014 that 'not for their sake' implies blank intent still satisfies the obligation \u2014 which is precisely what the 'Language nuance' section's prose describes and analyzes.",
+      "chosen_heading": "Language nuance",
+      "current_heading": "Language nuance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Blank intent",
+    "candidates": [
+      "Blank intent",
+      "Sanctity defines act",
+      "Woman no default"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's contradiction from the get mishna (kol haget shenichtav shelo l'shem isha pasul), which is precisely what candidate 0's prose describes as the starting point of the contradiction that Rava raises \u2014 the current placement is correct.",
+      "chosen_heading": "Blank intent",
+      "current_heading": "Blank intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Woman no default",
+    "candidates": [
+      "Sanctity defines act",
+      "Woman no default",
+      "Mishnah language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rava's resolution contrasting zevachim (stam leshmah omed) with an ordinary wife not standing designated for divorce, which is precisely the content the 'Woman no default' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Woman no default",
+      "current_heading": "Woman no default",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Mishnah language",
+    "candidates": [
+      "Mishnah language",
+      "Six things; R. Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening moves in the gemara's search for proof that blank intent works for zevachim \u2014 the first deflected attempt from mishnah language and the second from the 'keitzad lishmam v'shelo lishmam' mishna \u2014 exactly what the 'Mishnah language' prose describes.",
+      "chosen_heading": "Mishnah language",
+      "current_heading": "Mishnah language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Six things; R. Yosi",
+    "candidates": [
+      "Six things; R. Yosi",
+      "Beis din rule",
+      "Marketplace get",
+      "Generic names",
+      "Two wives case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Six things; R. Yosi",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-7 form a continuous argument establishing that stam (unspecified intent) is valid for zevachim, culminating in the Beis Din proof from Rabbi Yosi's statement, matching the prose of candidate 0 which covers the six-things mishna and Rabbi Yosi's ruling.",
+      "second_heading": "Marketplace get",
+      "second_confidence": "high",
+      "second_reason": "Item 8 ('from where do we derive that a get without specification is invalid?') is the opening question of the gittin section, which matches candidate 2's prose about establishing the converse rule for gittin.",
+      "current_heading": "Six things; R. Yosi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Two wives case",
+    "candidates": [
+      "Beis din rule",
+      "Marketplace get",
+      "Generic names",
+      "Two wives case",
+      "Blank form gittin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Marketplace get",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with the marketplace case (sofrim practicing, Rav Pappa's deflection), which matches the 'Marketplace get' prose exactly.",
+      "second_heading": "Two wives case",
+      "second_confidence": "high",
+      "second_reason": "Items 3-9 cover the neighbor/same-name cases and the two-wives/breira cases, which match the 'Two wives case' prose that explicitly discusses all these scenarios and their deflections.",
+      "current_heading": "Two wives case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Blank form gittin",
+    "candidates": [
+      "Blank form gittin",
+      "Sanctified identity",
+      "No inherent woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source text (the mishna about tufsei gittin and Rav Yehuda/Shmuel's addition about leaving blank 'harei at muteret') that the prose under heading 0 explicitly discusses and analyzes.",
+      "chosen_heading": "Blank form gittin",
+      "current_heading": "Blank form gittin",
+      "moved": false
+    }
+  }
+]

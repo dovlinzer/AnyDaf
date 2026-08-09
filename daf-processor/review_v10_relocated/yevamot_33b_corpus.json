@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Kolel vs. Bas Achas",
+    "candidates": [
+      "Three Prohibition Cases",
+      "Misattribution Question",
+      "Kolel vs. Bas Achas",
+      "Third Case Confusion",
+      "Mosif, Kolel, Achas",
+      "Baraita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items contain Rabbi \u1e24iyya's explanation of how Bar Kappara misremembered \u2014 that Rebbe taught him two exemption cases involving issur kolel, and Bar Kappara then mixed in the melikah case \u2014 which is precisely what the 'Kolel vs. Bas Achas' section's prose describes.",
+      "chosen_heading": "Kolel vs. Bas Achas",
+      "current_heading": "Kolel vs. Bas Achas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Third Case Confusion",
+      "Mosif, Kolel, Achas",
+      "Baraita Evidence",
+      "Shimon Exemption",
+      "Which Act Violates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the baraita objection and its resolution (l'man shiyarah analysis concluding tyufta d'Bar Kappara tyufta), which is precisely what the 'Baraita Evidence' prose describes \u2014 testing Bar Kappara's position with the baraita about zar/ba'al mum on Shabbat/tumah and the omission of the melikah case.",
+      "chosen_heading": "Baraita Evidence",
+      "current_heading": "Baraita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Which Act Violates",
+    "candidates": [
+      "Shimon Exemption",
+      "Which Act Violates",
+      "Par on Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the Gemara's question about which specific act of avodah the zar performed on Shabbat (shechitah, kabalah/holachah, or haktarah), which is precisely what the 'Which Act Violates' prose describes in detail.",
+      "chosen_heading": "Which Act Violates",
+      "current_heading": "Which Act Violates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Par on Yom Kippur",
+    "candidates": [
+      "Par on Yom Kippur",
+      "Rav Ashi Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav A\u1e25a bar Yaakov's statement about the slaughtering of the High Priest's bull and the zar/kohen hedyot distinction, which is precisely what the prose under 'Par on Yom Kippur' describes.",
+      "chosen_heading": "Par on Yom Kippur",
+      "current_heading": "Par on Yom Kippur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Ashi Response",
+    "candidates": [
+      "Rav Ashi Response",
+      "Chuppah Exchange",
+      "Four Transgressions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's objection and the practical consequence of burial among the wicked, which matches perfectly with the 'Rav Ashi Response' section's prose discussion of the same content.",
+      "chosen_heading": "Rav Ashi Response",
+      "current_heading": "Rav Ashi Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Four Transgressions",
+    "candidates": [
+      "Chuppah Exchange",
+      "Four Transgressions",
+      "Minors Exception",
+      "Accident Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself, which introduces the case of two men exchanging wives at the chuppah \u2014 exactly what heading 0 'Chuppah Exchange' describes, while heading 1 'Four Transgressions' covers the enumeration of the specific prohibitions that the Gemara derives from the Mishnah.",
+      "chosen_heading": "Chuppah Exchange",
+      "current_heading": "Four Transgressions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Accident Proof",
+    "candidates": [
+      "Minors Exception",
+      "Accident Proof",
+      "Four from One Act",
+      "Chelev Example",
+      "Chelev Analysis",
+      "Chelev Analysis",
+      "Meir Following Whom",
+      "Yehoshua Exemption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Accident Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the three-month separation, the accidental vs. intentional nature of the wife-exchange, and the proof from minors \u2014 exactly what the 'Accident Proof' prose describes.",
+      "second_heading": "Four from One Act",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 introduce the new conceptual question of which tanna holds issur chal al issur (kolel, mosif, bas achas) and the Rabbi Meir baraita with chelev/Yom Kippur \u2014 exactly what the 'Four from One Act' prose describes.",
+      "current_heading": "Accident Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Yehoshua Exemption",
+    "candidates": [
+      "Four from One Act",
+      "Chelev Example",
+      "Chelev Analysis",
+      "Chelev Analysis",
+      "Meir Following Whom",
+      "Yehoshua Exemption",
+      "Brit Milah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of whose opinion Rabbi Meir follows (Rabbi Yehoshua vs. Rabbi Eliezer), which is precisely what the 'Meir Following Whom' section's prose describes as 'l'Rabbi Meir aliba d'man.'",
+      "chosen_heading": "Meir Following Whom",
+      "current_heading": "Yehoshua Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Brit Milah Case",
+    "candidates": [
+      "Yehoshua Exemption",
+      "Brit Milah Case",
+      "No Time Pressure",
+      "Terumah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the 'i ba'it eima' alternative resolution that directly answers why the Mishnah can follow Rabbi Yehoshua yet still impose liability \u2014 exactly what the 'Yehoshua Exemption' prose section describes as the Gemara's alternative explanation (citing the baby/mohel case as limited to pressed-for-time situations), making it the natural home of this text rather than the 'Brit Milah Case' section which discusses the mohel scenario as an illustration rather than as the resolution itself.",
+      "chosen_heading": "Yehoshua Exemption",
+      "current_heading": "Brit Milah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Terumah Parallel",
+    "candidates": [
+      "No Time Pressure",
+      "Terumah Parallel",
+      "Simultaneous Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a single challenge-and-response unit about the terumah case and whether time pressure is required for Rabbi Yehoshua's exemption, which is precisely what the 'Terumah Parallel' prose describes \u2014 including Rav Bibi bar Abaye's resolution that the case involved chametz terumah on Erev Pesach.",
+      "chosen_heading": "Terumah Parallel",
+      "current_heading": "Terumah Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Simultaneous Kiddushin",
+    "candidates": [
+      "Simultaneous Kiddushin",
+      "Niddah Simultaneity",
+      "Under Three Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the alternative explanation that the mishna deals with simultaneous prohibitions (issur bas achas) according to Rabbi Shimon, which is exactly what the 'Simultaneous Kiddushin' section's prose is discussing.",
+      "chosen_heading": "Simultaneous Kiddushin",
+      "current_heading": "Simultaneous Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Under Three Solution",
+    "candidates": [
+      "Niddah Simultaneity",
+      "Under Three Solution",
+      "First Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form a continuous question-and-answer unit about how niddah status can coincide precisely with the moment of betrothal, which is exactly what the 'Niddah Simultaneity' prose describes as the core problem, whereas the current placement's prose describes an entirely different solution involving girls under three years old that does not match Rav Amram's answer about ages twelve and thirteen.",
+      "chosen_heading": "Niddah Simultaneity",
+      "current_heading": "Under Three Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "First Act",
+    "candidates": [
+      "Under Three Solution",
+      "First Act",
+      "Tamar Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'sheba'u v'shanu' resolution and the counting of sixteen sin-offerings from the first act alone, which is precisely what the 'First Act' prose section describes.",
+      "chosen_heading": "First Act",
+      "current_heading": "First Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Tamar Question",
+    "candidates": [
+      "Tamar Question",
+      "Hymen Removal",
+      "Er Onan Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rava's challenge about Tamar conceiving from a first act of intercourse and the immediate responses (finger-breaking, Er and Onan's atypical intercourse), which is precisely what the 'Tamar Question' prose describes as the question and its presuppositions \u2014 the current placement is correct.",
+      "chosen_heading": "Tamar Question",
+      "current_heading": "Tamar Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Er Onan Sin",
+    "candidates": [
+      "Hymen Removal",
+      "Er Onan Sin",
+      "Nursing Women",
+      "Withdrawal Critique",
+      "Tamar Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita about Rabbi Eliezer's prescription for nursing women (threshing inside, winnowing outside for 24 months), which is exactly what the 'Nursing Women' section's prose describes and introduces.",
+      "chosen_heading": "Nursing Women",
+      "current_heading": "Er Onan Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Tamar Proof",
+    "candidates": [
+      "Nursing Women",
+      "Withdrawal Critique",
+      "Tamar Proof",
+      "Tosafot Views",
+      "Rama's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's resolution of how withdrawal is 'similar to but not identical with' the act of Er and Onan, and the derivation of Er's sin from the word 'gam' \u2014 precisely the content described in the 'Tamar Proof' prose.",
+      "chosen_heading": "Tamar Proof",
+      "current_heading": "Tamar Proof",
+      "moved": false
+    }
+  }
+]

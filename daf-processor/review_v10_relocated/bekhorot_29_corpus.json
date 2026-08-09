@@ -1,0 +1,401 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Ilo Exception",
+    "candidates": [
+      "Bad vs. No Judgment",
+      "Kiblu Aleihu & Din Torah",
+      "Liability: Error vs Auth",
+      "Ilo Exception",
+      "Ilo's Piety",
+      "Flat Fee Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna about taking payment for examining bechorot, the exception of Ila in Yavne, and the Gemara explaining the fee differential \u2014 are precisely what the 'Ilo Exception' prose describes, making the current placement correct.",
+      "chosen_heading": "Ilo Exception",
+      "current_heading": "Ilo Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Flat Fee Logic",
+    "candidates": [
+      "Ilo's Piety",
+      "Flat Fee Logic",
+      "One Payment Takana",
+      "Blemish Incentive",
+      "Right of Refusal",
+      "Judges & Witnesses",
+      "Parah Adumah Payment",
+      "Subjective Functions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous gemara discussion about why the flat fee must apply whether the animal is tam or ba'al mum, which is precisely what candidate 1 ('Flat Fee Logic') discusses \u2014 the current placement is correct, as candidate 2 ('One Payment Takana') covers the resolution that follows these items.",
+      "chosen_heading": "Flat Fee Logic",
+      "current_heading": "Flat Fee Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Subjective Functions",
+    "candidates": [
+      "One Payment Takana",
+      "Blemish Incentive",
+      "Right of Refusal",
+      "Judges & Witnesses",
+      "Parah Adumah Payment",
+      "Subjective Functions",
+      "Kohen Expenses",
+      "Food Compensation",
+      "Sechar Batel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishnah passage covers judges whose rulings are void, witnesses whose testimony is void, and those who take payment for parah adumah preparation \u2014 exactly the content described in the 'Judges & Witnesses' prose, which quotes the same Hebrew phrases (ha'notel sacharo ladun, dinav betelin, leha'id, eduto betela) and introduces all three cases together.",
+      "chosen_heading": "Judges & Witnesses",
+      "current_heading": "Subjective Functions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Sechar Batel",
+    "candidates": [
+      "Kohen Expenses",
+      "Food Compensation",
+      "Sechar Batel",
+      "Moshe's Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 the kohen/teruma compensation, the elderly person on a donkey, and the laborer wage \u2014 which begin with the kohen case, making heading 0 ('Kohen Expenses') the natural home for the full mishnah text, with headings 1 and 2 providing the essay author's commentary on sub-portions of that same mishnah.",
+      "chosen_heading": "Kohen Expenses",
+      "current_heading": "Sechar Batel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Moshe's Example",
+    "candidates": [
+      "Sechar Batel",
+      "Moshe's Example",
+      "Emet Kneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Scriptural source for the prohibition against payment for judging, derived from Moses's example of teaching for free \u2014 exactly what the 'Moshe's Example' section prose describes.",
+      "chosen_heading": "Moshe's Example",
+      "current_heading": "Moshe's Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Emet Kneh",
+    "candidates": [
+      "Emet Kneh",
+      "Sechar Batel Principle",
+      "Community Funds",
+      "Talmud Torah Exception",
+      "Supreme Value",
+      "Communal Necessity",
+      "Rambam Critique",
+      "Rashi's Limitation",
+      "vs. Shochad",
+      "Why Throw Out",
+      "Prevention Takana",
+      "Rosh's Position",
+      "Kohanim Model",
+      "Preparation Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly expounds the 'emet kneh' and 'emet kneh ve'al timkor' verses to establish the rules about paying for Torah study and not charging for teaching, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Emet Kneh",
+      "current_heading": "Emet Kneh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Preparation Payment",
+    "candidates": [
+      "Sechar Batel Principle",
+      "Community Funds",
+      "Talmud Torah Exception",
+      "Supreme Value",
+      "Communal Necessity",
+      "Rambam Critique",
+      "Rashi's Limitation",
+      "vs. Shochad",
+      "Why Throw Out",
+      "Prevention Takana",
+      "Rosh's Position",
+      "Kohanim Model",
+      "Preparation Payment",
+      "Teacher Preparation",
+      "Language Inference",
+      "Tamei Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "All three items form a single continuous unit \u2014 the contradiction between the two mishnayot about parah adumah payment, Abaye's resolution distinguishing preparatory acts from the mitzvah act itself, and the gemara's confirmation from the precise language \u2014 which is exactly what the 'Preparation Payment' prose describes.",
+      "chosen_heading": "Preparation Payment",
+      "current_heading": "Preparation Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Tamei Override",
+    "candidates": [
+      "Teacher Preparation",
+      "Language Inference",
+      "Tamei Override",
+      "Blowing Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the Gemara's question 'ihu gufeh heichi azil' \u2014 how was the kohen permitted to go become impure \u2014 which is precisely what the 'Tamei Override' prose discusses.",
+      "chosen_heading": "Tamei Override",
+      "current_heading": "Tamei Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Blowing Debate",
+    "candidates": [
+      "Blowing Debate",
+      "Different Tumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Blowing Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Yehuda/Rav's blowing ruling) is the core source for the 'Blowing Debate' section, which directly quotes and analyzes this very statement about blowing through a beit haperas.",
+      "second_heading": "Different Tumah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rav Yehuda bar Ami's ruling that a trodden beit haperas is pure) is the precise source discussed at the opening of the 'Different Tumah' section's prose.",
+      "current_heading": "Blowing Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Different Tumah",
+    "candidates": [
+      "Different Tumah",
+      "Rashi's Definition",
+      "Batel Variables",
+      "Ethical Problem",
+      "Tosafot Critique",
+      "Sechar Batel Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the Gemara's alternative suggestion that the kohen became impure through 'other forms of impurity' not specifically prohibited for priests, which is precisely what the 'Different Tumah' section's prose describes as 'bish'ar tumos d'lo muzhar aleihu.'",
+      "chosen_heading": "Different Tumah",
+      "current_heading": "Different Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Sechar Batel Issues",
+    "candidates": [
+      "Rashi's Definition",
+      "Batel Variables",
+      "Ethical Problem",
+      "Tosafot Critique",
+      "Sechar Batel Issues",
+      "Beach Day Debate",
+      "Doctors & Services",
+      "Doctor Dilemma",
+      "Prof Salaries",
+      "Deer & Leather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Talmudic source text defining 'kepo'el batel shel ota melacha' (Abaye's statement), which is precisely what Heading 0 ('Rashi's Definition') discusses \u2014 the gemara's amplification of the mishna's phrase and the practical definition of how much a person would accept to take a day off from their specific occupation.",
+      "chosen_heading": "Rashi's Definition",
+      "current_heading": "Sechar Batel Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Deer & Leather",
+    "candidates": [
+      "Beach Day Debate",
+      "Doctors & Services",
+      "Doctor Dilemma",
+      "Prof Salaries",
+      "Deer & Leather",
+      "Female Leather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the mishnah and gemara about one suspected of improperly slaughtering bechorot, the prohibition on purchasing deer meat and untanned hides, and the reason deer meat is forbidden (confusion with calf meat) \u2014 exactly what the 'Deer & Leather' prose describes.",
+      "chosen_heading": "Deer & Leather",
+      "current_heading": "Deer & Leather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Female Leather",
+    "candidates": [
+      "Female Leather",
+      "Investment Risk",
+      "Tanned Leather",
+      "Rat Damage Claim",
+      "Rat Verification",
+      "Carded Wool"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Investment Risk",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the effort-based trust principle for tanned hides, matching the 'Investment Risk' prose about why tanning effort signals permissibility.",
+      "second_heading": "Female Leather",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 discuss Rabbi Eliezer's female-hide exception and the tanna kamma's rat-damage counter-argument, which corresponds to the 'Female Leather' and subsequent rat-damage headings where this passage currently sits.",
+      "current_heading": "Female Leather",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Carded Wool",
+    "candidates": [
+      "Investment Risk",
+      "Tanned Leather",
+      "Rat Damage Claim",
+      "Rat Verification",
+      "Carded Wool",
+      "Effort Logic",
+      "Spun Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna's teaching about bleached/dirty wool (tzemer meluban vetzoa'i) and the gemara's resolution that it refers to a single case of wool whitened from its dirt, which is precisely what the 'Carded Wool' section's prose describes.",
+      "chosen_heading": "Carded Wool",
+      "current_heading": "Carded Wool",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Spun Garments",
+    "candidates": [
+      "Effort Logic",
+      "Spun Garments",
+      "Flax Prohibition",
+      "Spun Flax"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses purchasing spun thread and garments (felt) from a suspect seller, which is precisely what the 'Spun Garments' prose describes, including the same Gemara question and felt resolution.",
+      "chosen_heading": "Spun Garments",
+      "current_heading": "Spun Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175,
+      176
+    ],
+    "current_heading": "Spun Flax",
+    "candidates": [
+      "Flax Prohibition",
+      "Spun Flax",
+      "Confidence Indicator"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Flax Prohibition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the flax prohibition and the spun/woven exception, which maps directly to candidate 0's prose about the shevi'it suspect and the flax purchase concern.",
+      "second_heading": "Confidence Indicator",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's inversion argument ('if spun is permitted, is woven necessary?') and the resolution that 'arig' means chain-linked wool, which matches candidate 2's prose almost word-for-word.",
+      "current_heading": "Spun Flax",
+      "moved": true
+    }
+  }
+]

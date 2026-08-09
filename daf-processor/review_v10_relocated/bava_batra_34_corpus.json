@@ -1,0 +1,158 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Two Years Parallel",
+    "candidates": [
+      "Intro & Setup",
+      "Supporting vs. Damning",
+      "Naska de-Rabbi Abba",
+      "Two Years Parallel",
+      "Boat Dispute Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case of one witness testifying to two years of fruit consumption as the precise parallel to naska de-Rabbi Abba, which is exactly what the 'Two Years Parallel' section's prose describes.",
+      "chosen_heading": "Two Years Parallel",
+      "current_heading": "Two Years Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Boat Dispute Setup",
+    "candidates": [
+      "Boat Dispute Setup",
+      "Tafsinan/Lo Tafsinan",
+      "Mafkinan/Lo Mafkinan",
+      "Kol D'Alim Gavar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tafsinan/Lo Tafsinan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the tafsinan/lo tafsinan dispute between Rav Huna and Rav Yehuda, which matches exactly the 'Tafsinan/Lo Tafsinan' section's prose discussion of those same two positions.",
+      "second_heading": "Mafkinan/Lo Mafkinan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the mafkinan/lo mafkinan dispute and the final halakha, which matches exactly the 'Mafkinan/Lo Mafkinan' section's prose discussion of Rav Yehuda, Rav Pappa, and the concluding ruling.",
+      "current_heading": "Boat Dispute Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Kol D'Alim Gavar",
+    "candidates": [
+      "Tafsinan/Lo Tafsinan",
+      "Mafkinan/Lo Mafkinan",
+      "Kol D'Alim Gavar",
+      "Competing Deeds",
+      "Full Evidence Required",
+      "Swap Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kol D'Alim Gavar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the 'zeh omer shel avosai' dispute and Rav Na\u1e25man's 'kol d'alim gavar' ruling, which is precisely what the 'Kol D'Alim Gavar' prose describes.",
+      "second_heading": "Competing Deeds",
+      "second_confidence": "high",
+      "second_reason": "Item 2 answers the comparison question about two deeds issued on one day (Rav's yachloku vs. Shmuel's shudda d'dayni) and the distinction between the two cases, which is exactly what the 'Competing Deeds' prose discusses.",
+      "current_heading": "Kol D'Alim Gavar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Swap Dispute",
+    "candidates": [
+      "Competing Deeds",
+      "Full Evidence Required",
+      "Swap Dispute",
+      "Standing Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question comparing the boat case to the cow/donkey and maidservant mishna, which is precisely what the 'Swap Dispute' section's prose describes and introduces.",
+      "chosen_heading": "Swap Dispute",
+      "current_heading": "Swap Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Standing Doctrine",
+    "candidates": [
+      "Standing Doctrine",
+      "Amri Neharda'a"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's answer distinguishing the cow/calf exchange case (where each party has drara d'mamona) from Rav Na\u1e25man's boat case (where only one party can have any claim), which is precisely what the 'Standing Doctrine' prose discusses in detail.",
+      "chosen_heading": "Standing Doctrine",
+      "current_heading": "Standing Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Amri Neharda'a",
+    "candidates": [
+      "Amri Neharda'a",
+      "Gazlan Shel Rabim",
+      "Rav Ashi's View",
+      "Gazlan Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Nehardea ruling about the third-party seizure and the Rabbi Hiyya teaching cited in support, which together form the content described in the 'Amri Neharda'a' section prose, making the current placement correct.",
+      "chosen_heading": "Amri Neharda'a",
+      "current_heading": "Amri Neharda'a",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Gazlan Definition",
+    "candidates": [
+      "Gazlan Shel Rabim",
+      "Rav Ashi's View",
+      "Gazlan Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's direct disagreement stating he IS called a gazlan, with the clarification about not being subject to return \u2014 exactly matching the prose of 'Rav Ashi's View' which discusses Rav Ashi's position that the third party is indeed called a gazlan.",
+      "chosen_heading": "Rav Ashi's View",
+      "current_heading": "Gazlan Definition",
+      "moved": true
+    }
+  }
+]

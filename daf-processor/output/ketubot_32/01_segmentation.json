@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Ulla's Resolution: Payment Overrides Lashes in Cases of Rape",
@@ -106,8 +106,8 @@
           "timestamp": "20:29"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Ulla's Gezeirah Shavah: Learning From 'Tachat' to Apply Money Over Lashes to Rape",
@@ -168,8 +168,8 @@
           "timestamp": "29:38"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Examining the Exception of Personal Injury: When Payment Is Required",
@@ -527,5 +527,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "21:22",
+  "amud_b_micro_title": "Tachat Connection",
+  "shiur_start_daf": 32,
+  "shiur_start_amud": "a"
 }

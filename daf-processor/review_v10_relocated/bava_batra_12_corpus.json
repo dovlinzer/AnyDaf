@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Four Amot Rule",
+    "candidates": [
+      "Courtyard Division",
+      "Shift to Mavoy",
+      "Sealed Door Opening",
+      "Paratz Ptzimav",
+      "Four Amot Rule",
+      "Dead Body Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the continuous exchange where Rava qualifies the sealed-door ruling (paratz ptzimav) and Abaye brings a supporting baraita \u2014 all of which belongs under the 'Paratz Ptzimav' section, whose prose explicitly describes Rava's distinction and Abaye's supporting baraita about arba amot.",
+      "chosen_heading": "Paratz Ptzimav",
+      "current_heading": "Four Amot Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Dead Body Tumah",
+    "candidates": [
+      "Four Amot Rule",
+      "Dead Body Tumah",
+      "Inter-City Alleys",
+      "Mefulash Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tumah (ritual impurity) rules for a sealed grave and sealed house with a corpse, which is exactly what the 'Dead Body Tumah' section's prose describes.",
+      "chosen_heading": "Dead Body Tumah",
+      "current_heading": "Dead Body Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Mefulash Definition",
+    "candidates": [
+      "Inter-City Alleys",
+      "Mefulash Definition",
+      "Established Access Rights",
+      "Doors in Public Alleys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the ruling about alleyways open to another city and the reason one cannot block them (Rav Yehuda/Rav's principle), which is precisely what the 'Inter-City Alleys' prose describes, whereas the current placement under 'Mefulash Definition' merely uses this passage as background illustration after defining the terms.",
+      "chosen_heading": "Inter-City Alleys",
+      "current_heading": "Mefulash Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Doors in Public Alleys",
+    "candidates": [
+      "Established Access Rights",
+      "Doors in Public Alleys",
+      "Four Amot Spillover",
+      "Nine Kavin Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the ruling about alleyways opening onto a public thoroughfare and the subsequent discussion about whether the four-amot principle applies, which is precisely what the 'Doors in Public Alleys' prose describes.",
+      "chosen_heading": "Doors in Public Alleys",
+      "current_heading": "Doors in Public Alleys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Nine Kavin Standard",
+    "candidates": [
+      "Four Amot Spillover",
+      "Nine Kavin Standard",
+      "One Day's Plowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the nine-kav minimum for field division and the Gemara's resolution that the authorities don't disagree but speak according to local conditions, which is precisely what the 'Nine Kavin Standard' prose describes.",
+      "chosen_heading": "Nine Kavin Standard",
+      "current_heading": "Nine Kavin Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "One Day's Plowing",
+    "candidates": [
+      "One Day's Plowing",
+      "Plowing Seasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Yosef's statement establishing 'bei radya yoma' (a day's plowing) as the Babylonian standard, which is precisely what candidate 0's prose discusses as the foundational threshold before the Gemara's deeper analysis of plowing seasons in candidate 1.",
+      "chosen_heading": "One Day's Plowing",
+      "current_heading": "One Day's Plowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Plowing Seasons",
+    "candidates": [
+      "Plowing Seasons",
+      "Water Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's question and resolution about what constitutes 'one day's plowing' and the seasonal variation between plowing season and planting season, which is precisely what the 'Plowing Seasons' prose describes.",
+      "chosen_heading": "Plowing Seasons",
+      "current_heading": "Plowing Seasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Water Division",
+    "candidates": [
+      "Water Division",
+      "Orchard Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the davla (cistern/irrigation source) and the pardesa (orchard) minimum division rules in a single Gemara statement, and the current 'Water Division' section's prose explicitly discusses Rav Nachman's ruling on the davla and the day's irrigation standard, making it the better match since the orchard mention here is brief and secondary, while the 'Orchard Division' section discusses the orchard minimum in much greater depth separately.",
+      "chosen_heading": "Water Division",
+      "current_heading": "Water Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Orchard Division",
+    "candidates": [
+      "Orchard Division",
+      "Prophecy to Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita about selling 'a portion of a vineyard,' Sumchus's three-kav minimum, Rabbi Yosi's 'divrei nevi'os' critique, and Rava bar Kisna's Babylonian standard \u2014 all of which are directly addressed in the 'Orchard Division' prose.",
+      "chosen_heading": "Orchard Division",
+      "current_heading": "Orchard Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Prophecy to Sages",
+    "candidates": [
+      "Prophecy to Sages",
+      "Chacham Prophecy",
+      "Chacham Superior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Avdimi's statement that prophecy was taken from prophets and given to Sages, along with the Gemara's initial challenge and resolution \u2014 exactly what the 'Prophecy to Sages' section prose describes as its content.",
+      "chosen_heading": "Prophecy to Sages",
+      "current_heading": "Prophecy to Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Chacham Superior",
+    "candidates": [
+      "Chacham Prophecy",
+      "Chacham Superior",
+      "Parallel Discoveries",
+      "Mazal Theory",
+      "Tradition Discovery",
+      "Luck vs. Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Ameimar's claim that a chacham is superior to a navi with the proof from 've'navi levav chochmah,' which is precisely what the 'Chacham Superior' section's prose discusses.",
+      "chosen_heading": "Chacham Superior",
+      "current_heading": "Chacham Superior",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Luck vs. Prophecy",
+    "candidates": [
+      "Parallel Discoveries",
+      "Mazal Theory",
+      "Tradition Discovery",
+      "Luck vs. Prophecy",
+      "Fools & Children Prophecy",
+      "Mad Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together cover Rav Ashi's objection to the Rabbi Akiva argument (mazal), his sharper proof from Halakha le-Moshe mi-Sinai, and the blind-man/reasoned-argument exchange \u2014 exactly what the 'Luck vs. Prophecy' prose describes.",
+      "chosen_heading": "Luck vs. Prophecy",
+      "current_heading": "Luck vs. Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Mad Prophecy",
+    "candidates": [
+      "Fools & Children Prophecy",
+      "Mad Prophecy",
+      "Self-Fulfilling Rise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's statement about prophecy being given to imbeciles and children AND the Mar bar Rav Ashi example, and heading 0's prose explicitly discusses both Rabbi Yochanan's statement and introduces the concept, while headings 1 and 2 cover the subsequent narrative details \u2014 the full quoted passage (which includes both the statement and the example) best matches heading 0 which frames the entire teaching.",
+      "chosen_heading": "Fools & Children Prophecy",
+      "current_heading": "Mad Prophecy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Self-Fulfilling Rise",
+    "candidates": [
+      "Mad Prophecy",
+      "Self-Fulfilling Rise",
+      "Rav Akha's Lament"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Mar bar Rav Ashi detaining the pairs of rabbis until ten were present and then opening a formal discourse, which is exactly what the 'Self-Fulfilling Rise' section's prose describes and analyzes.",
+      "chosen_heading": "Self-Fulfilling Rise",
+      "current_heading": "Self-Fulfilling Rise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Akha's Lament",
+    "candidates": [
+      "Rav Akha's Lament",
+      "Child Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav A\u1e25a of Difti reading the aphorism about misfortune and good fortune about himself after being passed over, which is precisely what the prose in 'Rav Akha's Lament' discusses.",
+      "chosen_heading": "Rav Akha's Lament",
+      "current_heading": "Rav Akha's Lament",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Child Prophecy",
+    "candidates": [
+      "Child Prophecy",
+      "Two Hearts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the story of Rav \u1e24isda's daughter as an example of child prophecy, which is precisely what the 'Child Prophecy' section's prose discusses.",
+      "chosen_heading": "Child Prophecy",
+      "current_heading": "Child Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Two Hearts",
+    "candidates": [
+      "Two Hearts",
+      "Wine Opens Heart"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the 'two hearts' concept before and after eating, which exactly matches the prose in candidate 0 discussing Rav Dimi of Haifa's teaching on hunger causing a divided heart.",
+      "chosen_heading": "Two Hearts",
+      "current_heading": "Two Hearts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Wine Opens Heart",
+    "candidates": [
+      "Wine Opens Heart",
+      "Bechor Adjacent Portions",
+      "Yavam Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses wine opening the heart/mind using the verse about new wine and virgins, which matches exactly the prose under 'Wine Opens Heart' discussing Rav Huna son of Rav Yehoshua and the yenovev root.",
+      "chosen_heading": "Wine Opens Heart",
+      "current_heading": "Wine Opens Heart",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Yavam Status",
+    "candidates": [
+      "Bechor Adjacent Portions",
+      "Yavam Status",
+      "Adjacent Plot Request",
+      "Sdom Accommodation",
+      "Premium for Service"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yavam Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the yavam's entitlement to adjacent portions, the exact topic of the 'Yavam Status' prose.",
+      "second_heading": "Adjacent Plot Request",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces an entirely new case \u2014 a man who bought land on the boundary of his father's estate and demands his inherited portion be allocated adjacently \u2014 which matches the 'Adjacent Plot Request' prose exactly.",
+      "current_heading": "Yavam Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Premium for Service",
+    "candidates": [
+      "Adjacent Plot Request",
+      "Sdom Accommodation",
+      "Premium for Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's objection that the brothers can charge a premium (like Bar Maryon's property) and the halakhic ruling in his favor, which is exactly what the 'Premium for Service' section's prose discusses.",
+      "chosen_heading": "Premium for Service",
+      "current_heading": "Premium for Service",
+      "moved": false
+    }
+  }
+]

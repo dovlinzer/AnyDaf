@@ -1,0 +1,372 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rav Pappa's Source",
+    "candidates": [
+      "Skilah Outside Beit Din",
+      "Three Camps Structure",
+      "Rav Pappa's Source",
+      "Two Verses Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Camps Structure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('makshir mimakshir adif leih') is the closing resolution of the preceding baraita discussion about comparing cases, which belongs under 'Three Camps Structure' or the discussion leading into Rav Pappa, but its content about preferring makshir-to-makshir comparisons matches the prose of candidate 1 which discusses the structural backdrop before Rav Pappa's independent derivation.",
+      "second_heading": "Rav Pappa's Source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Pappa's derivation from the blasphemer narrative, which is precisely what candidate 2 ('Rav Pappa's Source') describes in its prose.",
+      "current_heading": "Rav Pappa's Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Two Verses Analysis",
+    "candidates": [
+      "Two Verses Analysis",
+      "Even vs. Avanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a question-and-answer pair about whether a verse is needed to teach implementation vs. the action being explicitly written elsewhere, which matches precisely the 'Two Verses Analysis' prose discussion about redundancy and what each verse comes to teach.",
+      "chosen_heading": "Two Verses Analysis",
+      "current_heading": "Two Verses Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Even vs. Avanim",
+    "candidates": [
+      "Even vs. Avanim",
+      "One Stone Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces and explains the baraita deriving 'oto' and 'even' teachings, which is precisely what the prose of heading 0 describes as the starting point before the even/avanim question arises.",
+      "chosen_heading": "Even vs. Avanim",
+      "current_heading": "Even vs. Avanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "One Stone Teaching",
+    "candidates": [
+      "One Stone Teaching",
+      "Both Forms Needed",
+      "Rav Pappa vs. Tanna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains precisely why both singular 'even' and plural 'avanim' are each necessary, which matches exactly the prose of heading 0 ('One Stone Teaching') that walks through the same two-sided reasoning about beginning with one stone and bringing more if needed.",
+      "chosen_heading": "One Stone Teaching",
+      "current_heading": "One Stone Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Pappa vs. Tanna",
+    "candidates": [
+      "Both Forms Needed",
+      "Rav Pappa vs. Tanna",
+      "Rav Ashi's Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge to Rav Pappa and the answer about the tanna's use of 'ne'emar' vs. 'ilu lo ne'emar,' which is precisely what the prose under 'Rav Pappa vs. Tanna' describes.",
+      "chosen_heading": "Rav Pappa vs. Tanna",
+      "current_heading": "Rav Pappa vs. Tanna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rav Ashi's Setup",
+    "candidates": [
+      "Rav Ashi's Setup",
+      "Verse Splitting",
+      "Action Occurred",
+      "Unexampled Actions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Ashi's full argument \u2014 Moses sitting in the Levite camp, the two-stage removal command, and the implementation verse \u2014 which maps exactly to the current heading's prose that introduces his reading from the same premise.",
+      "chosen_heading": "Rav Ashi's Setup",
+      "current_heading": "Rav Ashi's Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Unexampled Actions",
+    "candidates": [
+      "Verse Splitting",
+      "Action Occurred",
+      "Unexampled Actions",
+      "Smicha vs. Dechiya",
+      "Beit Skilah Structure",
+      "Hotzei Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks what the verse 'u'venei yisrael asu' teaches and answers that one is needed for smicha and one for dechiya, which is precisely what the 'Unexampled Actions' prose describes \u2014 the gemara identifying that the additional verse accounts for smicha and dechiya as actions beyond the bare fact of execution.",
+      "chosen_heading": "Unexampled Actions",
+      "current_heading": "Unexampled Actions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Hotzei Objection",
+    "candidates": [
+      "Smicha vs. Dechiya",
+      "Beit Skilah Structure",
+      "Hotzei Objection",
+      "Rav Huna's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the Sages' objection to Rav Ashi regarding superfluous 'hotzei' phrases in the bulls-that-are-burned passages, and the gemara's conclusion of 'kashya' \u2014 exactly what the 'Hotzei Objection' prose describes.",
+      "chosen_heading": "Hotzei Objection",
+      "current_heading": "Hotzei Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rav Huna's Rule",
+    "candidates": [
+      "Rav Huna's Rule",
+      "Rationale",
+      "Signal Cloth & Horse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the mishna's introduction of the signal-man and Rav Huna's ruling that execution implements come from the community, which matches exactly the prose of heading 0 ('Rav Huna's Rule').",
+      "chosen_heading": "Rav Huna's Rule",
+      "current_heading": "Rav Huna's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Signal Cloth & Horse",
+    "candidates": [
+      "Rationale",
+      "Signal Cloth & Horse",
+      "Frankincense Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's dilemma about the signal cloth and horse, which exactly matches the 'Signal Cloth & Horse' section's prose describing this unresolved question about whose responsibility these items are.",
+      "chosen_heading": "Signal Cloth & Horse",
+      "current_heading": "Signal Cloth & Horse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Frankincense Wine",
+    "candidates": [
+      "Frankincense Wine",
+      "Women Volunteers",
+      "Tzibur Provides",
+      "Appeal Rights",
+      "Silent Student"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics (frankincense wine, women volunteers, and tzibur provision) in one continuous Talmudic excerpt, but it is currently placed under 'Frankincense Wine' (index 0), which is the opening topic of this unified passage and the correct anchor heading for the whole block.",
+      "chosen_heading": "Frankincense Wine",
+      "current_heading": "Frankincense Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Silent Student",
+    "candidates": [
+      "Women Volunteers",
+      "Tzibur Provides",
+      "Appeal Rights",
+      "Silent Student",
+      "Blowing Wind",
+      "World-Wide Objection",
+      "Claims Only Count",
+      "Completed Appeal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the question Rav Acha bar Huna posed to Rav Sheshet about a student who declared he had a limud zechut and then went silent (nishtatek), which is precisely what the 'Silent Student' section's prose describes.",
+      "chosen_heading": "Silent Student",
+      "current_heading": "Silent Student",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Completed Appeal",
+    "candidates": [
+      "Blowing Wind",
+      "World-Wide Objection",
+      "Claims Only Count",
+      "Completed Appeal",
+      "Substitute Voting",
+      "Censored Text",
+      "Unfinished Appeal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yosei bar \u1e24anina's ruling about a student who completed his appeal (zika) and then died, with the implication that only a completed appeal counts \u2014 exactly what the 'Completed Appeal' section's prose describes.",
+      "chosen_heading": "Completed Appeal",
+      "current_heading": "Completed Appeal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Unfinished Appeal",
+    "candidates": [
+      "Substitute Voting",
+      "Censored Text",
+      "Unfinished Appeal",
+      "Baraita Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between completing a limud zechut ('zika') versus merely stating intent ('amar'), which is precisely what the 'Unfinished Appeal' prose discusses with its 'zika peshita li / lo zika tiba'i lach' analysis.",
+      "chosen_heading": "Unfinished Appeal",
+      "current_heading": "Unfinished Appeal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Baraita Timing",
+    "candidates": [
+      "Baraita Timing",
+      "Announcer Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about the tension between the mishna and baraita regarding when 'substance to his words' is required, Rav Pappa's resolution, Abaye's practical procedure with two rabbis, and the reason for not applying it from the outset \u2014 exactly what the 'Baraita Timing' prose describes.",
+      "chosen_heading": "Baraita Timing",
+      "current_heading": "Baraita Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Announcer Role",
+    "candidates": [
+      "Announcer Role",
+      "Details Announced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 acquittal or stoning, and the crier's public announcement \u2014 is precisely what the 'Announcer Role' prose describes, making the current placement correct.",
+      "chosen_heading": "Announcer Role",
+      "current_heading": "Announcer Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Details Announced",
+    "candidates": [
+      "Details Announced",
+      "Why Not Earlier?",
+      "Censored Jesus Text",
+      "Yetzer Sacrifice",
+      "Sacrifices & Reward",
+      "Lowered Mind",
+      "Ten Amot Rule",
+      "Achan Example",
+      "Default Confession",
+      "Innocent Exception",
+      "Innocence Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about announcing the day, hour, and place to enable potential witnesses to come forward and render the witnesses conspiring witnesses \u2014 exactly what the 'Details Announced' section's prose discusses.",
+      "chosen_heading": "Details Announced",
+      "current_heading": "Details Announced",
+      "moved": false
+    }
+  }
+]

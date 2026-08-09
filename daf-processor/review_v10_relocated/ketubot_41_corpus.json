@@ -1,0 +1,412 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Muad Direct Proof",
+    "candidates": [
+      "Tam vs. Muad",
+      "Muad Direct Proof",
+      "Braita Slave Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact ta shma proof from the mishna/braita about one who admits his ox gored, with the Gemara asking whether it refers to a tam and rejecting it as speaking of a muad \u2014 precisely what the 'Muad Direct Proof' prose describes.",
+      "chosen_heading": "Muad Direct Proof",
+      "current_heading": "Muad Direct Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Braita Slave Case",
+    "candidates": [
+      "Braita Slave Case",
+      "Exceeding Damages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why the braita introduced the slave case rather than distinguishing tam/muad within the original case, and the answer 'kulah bemuad kamari' \u2014 exactly what the prose of 'Braita Slave Case' describes.",
+      "chosen_heading": "Braita Slave Case",
+      "current_heading": "Braita Slave Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Exceeding Damages",
+    "candidates": [
+      "Exceeding Damages",
+      "Less Than Damages",
+      "Contradiction Resolved",
+      "Pebbles Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's attempt to derive a proof from the mishna's 'more than damages' rule and its subsequent refutation, which is precisely what the 'Exceeding Damages' prose describes: the mishna's general rule about paying more than damages and its apparent implication that paying less is tashlumim.",
+      "chosen_heading": "Exceeding Damages",
+      "current_heading": "Exceeding Damages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Pebbles Exception",
+    "candidates": [
+      "Less Than Damages",
+      "Contradiction Resolved",
+      "Pebbles Exception",
+      "Ruling: Knas",
+      "Meshuneh Examples",
+      "Knas Jurisdiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the tiyuvta, the ve-hilkheta ruling, and the explanation of why the mishna couldn't state the broader rule due to the tzurot exception \u2014 all of which are described in candidate 1's prose, which explicitly covers tiyuvta ve-hilkheta and the tzurot half-mammon explanation preventing the mishna's broader formulation.",
+      "chosen_heading": "Contradiction Resolved",
+      "current_heading": "Pebbles Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Knas Jurisdiction",
+    "candidates": [
+      "Ruling: Knas",
+      "Meshuneh Examples",
+      "Knas Jurisdiction",
+      "Normal Behavior",
+      "Collection Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the dog/cat meshuneh examples and the rule that unusual behavior yields half-damages as a knas uncollectable in Babylonia, while normal behavior (small roosters) is collectible \u2014 this matches the 'Meshuneh Examples' prose which introduces exactly these cases, not the 'Knas Jurisdiction' section which discusses the general jurisdictional principles without introducing the specific animal examples.",
+      "chosen_heading": "Meshuneh Examples",
+      "current_heading": "Knas Jurisdiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Collection Methods",
+    "candidates": [
+      "Normal Behavior",
+      "Collection Methods",
+      "Rabbi Natan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses seizing property (tafas), setting appointments for Eretz Yisrael courts, and excommunication for non-compliance \u2014 all directly addressed in the 'Collection Methods' prose.",
+      "chosen_heading": "Collection Methods",
+      "current_heading": "Collection Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rabbi Natan",
+    "candidates": [
+      "Rabbi Natan",
+      "Three vs. Four",
+      "Payments to Father",
+      "Father Alive Case",
+      "Father Dies After",
+      "Case Before Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita of Rabbi Natan about the vicious dog and unsteady ladder, which is exactly what the prose under heading 0 ('Rabbi Natan') discusses.",
+      "chosen_heading": "Rabbi Natan",
+      "current_heading": "Rabbi Natan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Case Before Death",
+    "candidates": [
+      "Three vs. Four",
+      "Payments to Father",
+      "Father Alive Case",
+      "Father Dies After",
+      "Case Before Death",
+      "Woman Emancipated",
+      "Rabbi Shimon View",
+      "Earnings vs. Knas"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father Dies After",
+      "first_confidence": "medium",
+      "first_reason": "The Hadaran formula closes the previous chapter, belonging near the end of the prior discussion \u2014 candidate 3 ('Father Dies After') is the last section of that chapter's content and the closest plausible home for a chapter-closing formula.",
+      "second_heading": "Three vs. Four",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna of the new perek, introducing the three/four payments and who receives them, which is exactly what candidate 0 ('Three vs. Four') describes in its prose.",
+      "current_heading": "Case Before Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Earnings vs. Knas",
+    "candidates": [
+      "Woman Emancipated",
+      "Rabbi Shimon View",
+      "Earnings vs. Knas",
+      "Gemara's Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the full mishna dispute between chachamim and Rabbi Shimon about standing trial vs. collecting before the father's death, which matches headings 0 and 1 \u2014 but since it includes Rabbi Shimon's view as its culminating ruling, heading 1 ('Rabbi Shimon View') is the best single home for the combined content of item 1.",
+      "second_heading": "Earnings vs. Knas",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is specifically about earnings and found objects passing to the brothers even if uncollected \u2014 the exact contrast discussed in heading 2 ('Earnings vs. Knas') prose.",
+      "current_heading": "Earnings vs. Knas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Gemara's Question",
+    "candidates": [
+      "Gemara's Question",
+      "Why Seducer Pays"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in heading 0's prose: the Gemara's challenge (mai kamashmalan), the reference to the earlier mishna, and the question about whether the father-payment rule is obvious \u2014 all before the full answer is elaborated in heading 1.",
+      "chosen_heading": "Gemara's Question",
+      "current_heading": "Gemara's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Why Seducer Pays",
+    "candidates": [
+      "Why Seducer Pays",
+      "Ones/Pituy Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemar din dispute between Rabbi Shimon and the Rabbis, which the prose of 'Why Seducer Pays' explicitly identifies as the true chiddush of the mishna that the Gemara concludes with.",
+      "chosen_heading": "Why Seducer Pays",
+      "current_heading": "Why Seducer Pays",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Ones/Pituy Debate",
+    "candidates": [
+      "Ones/Pituy Debate",
+      "No Korban for Knas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna from Shevuot introducing the case of rape/seduction and false oath, which Candidate 0's prose explicitly describes as the context for raising the korban shevuah question \u2014 before the debate between Rabbi Shimon and the Sages discussed in Candidate 1.",
+      "chosen_heading": "Ones/Pituy Debate",
+      "current_heading": "Ones/Pituy Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "No Korban for Knas",
+    "candidates": [
+      "No Korban for Knas",
+      "Abayes Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Shimon/Rabbis debate about knas vs. boshet and pegam that candidate 0's prose explicitly describes in detail.",
+      "chosen_heading": "No Korban for Knas",
+      "current_heading": "No Korban for Knas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Abayes Question",
+    "candidates": [
+      "Abayes Question",
+      "Ravas Answer",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's dilemma and Rabba's answer, which is precisely what the prose under 'Abayes Question' describes \u2014 the two sides of the question and Rabba's resolution that after gemar din it is mammon and korban shevuah applies.",
+      "chosen_heading": "Abayes Question",
+      "current_heading": "Abayes Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Ravas Answer",
+      "Braita Contradiction",
+      "Reisha/Seifa Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita of Rabbi Shimon \u2014 item 1 presents the cases (rape, seduction, ox killing slave, knocking out slave's tooth) where one might think there is korban shevuah liability, and item 2 gives the baraita's conclusion that these are excluded as knas \u2014 which is precisely what the 'Braita Contradiction' prose describes.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Reisha/Seifa Analysis",
+    "candidates": [
+      "Reisha/Seifa Analysis",
+      "Inheritance Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous reisha/seifa dialectic about whether the baraita's clauses refer to amad ba-din or lo amad ba-din, culminating in Rabba's concession regarding korban shevuah \u2014 exactly the content described in the 'Reisha/Seifa Analysis' prose.",
+      "chosen_heading": "Reisha/Seifa Analysis",
+      "current_heading": "Reisha/Seifa Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Inheritance Proof",
+    "candidates": [
+      "Inheritance Proof",
+      "22 Year Struggle",
+      "Two Exceptions",
+      "Korban Exception",
+      "Ones/Pituah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the inheritance objection \u2014 Item 1 clarifies that 'mammon' means the payment is bequeathed to sons, and Item 2 is Abaye's objection from the mishna that Rabbi Shimon says it goes to the daughter rather than the brothers \u2014 which is precisely what Candidate 0's prose describes as the challenge to Rava's position.",
+      "chosen_heading": "Inheritance Proof",
+      "current_heading": "Inheritance Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Ones/Pituah Exception",
+    "candidates": [
+      "22 Year Struggle",
+      "Two Exceptions",
+      "Korban Exception",
+      "Ones/Pituah Exception",
+      "Yiten vs. Natan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the ones/pituah exception \u2014 item 1 presents Rav Yosef's resolution citing the verse 've-natan' to explain that the father's entitlement vests only at actual payment, and item 2 clarifies that Rabba's general rule about knas becoming mammon applies only to other fines, not ones u-mefateh \u2014 exactly what candidate 3's prose describes.",
+      "chosen_heading": "Ones/Pituah Exception",
+      "current_heading": "Ones/Pituah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Yiten vs. Natan",
+    "candidates": [
+      "Yiten vs. Natan",
+      "Final Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge regarding the slave verse and the answer distinguishing yiten from venatan, which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Yiten vs. Natan",
+      "current_heading": "Yiten vs. Natan",
+      "moved": false
+    }
+  }
+]

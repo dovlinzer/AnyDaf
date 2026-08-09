@@ -127,7 +127,7 @@
           "timestamp": "22:09"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -195,8 +195,8 @@
           "timestamp": "51:55"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 17,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -423,5 +423,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "21:26",
+  "amud_b_micro_title": "Metzora: Sliding Scale",
+  "shiur_start_daf": 40,
+  "shiur_start_amud": "a"
 }

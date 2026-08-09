@@ -1,0 +1,375 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Reish Lakish/R. Chanina",
+    "candidates": [
+      "Beit Shammai/Hillel",
+      "R. Yochanan Daytime",
+      "Reish Lakish/R. Chanina",
+      "Bozeh Drachav & Ben Sira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the Reish Lakish/Rabbi Chanina bar Pappa teaching about the angel Layla, the drop presented before God, and Rabbi Chanina's principle that everything is in Heaven's hands except fear of Heaven \u2014 which is precisely what the prose of candidate 2 ('Reish Lakish/R. Chanina') describes in detail.",
+      "chosen_heading": "Reish Lakish/R. Chanina",
+      "current_heading": "Reish Lakish/R. Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Bozeh Drachav & Ben Sira",
+    "candidates": [
+      "Bozeh Drachav & Ben Sira",
+      "Four Things God Hates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are directly about Rabbi Yo\u1e25anan's use of the Ben Sira verse listing the four hated things, which is precisely what the 'Bozeh Drachav & Ben Sira' prose section discusses in detail.",
+      "chosen_heading": "Bozeh Drachav & Ben Sira",
+      "current_heading": "Bozeh Drachav & Ben Sira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Four Things God Hates",
+    "candidates": [
+      "Four Things God Hates",
+      "Five Hazards Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (Rabbi Shimon ben Yo\u1e25ai's four things God hates, the discussion about intercourse in front of living beings, the donkey verse, and the Sages' modesty practices) are explicitly discussed in the 'Four Things God Hates' prose section, which covers every element of this passage in detail.",
+      "chosen_heading": "Four Things God Hates",
+      "current_heading": "Four Things God Hates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Five Hazards Intro",
+    "candidates": [
+      "Five Hazards Intro",
+      "Peeled Foods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the source text for the 'Five Hazards Intro' section, which directly paraphrases and explains these exact five hazards listed by Rabbi Shimon ben Yochai, whereas the 'Peeled Foods' section discusses a subsequent Gemara qualification about when peeled foods are dangerous.",
+      "chosen_heading": "Five Hazards Intro",
+      "current_heading": "Five Hazards Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Peeled Foods",
+    "candidates": [
+      "Peeled Foods",
+      "Mixed Liquids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses peeled garlic left overnight and the conditions under which an evil spirit rests upon them, which directly matches the 'Peeled Foods' section prose about ruach ra on peeled foods and the root/shell exemption.",
+      "chosen_heading": "Peeled Foods",
+      "current_heading": "Peeled Foods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Mixed Liquids",
+    "candidates": [
+      "Mixed Liquids",
+      "Cemetery Sleep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses diluted drinks left overnight in metal vessels and natron vessels, which matches exactly the prose under 'Mixed Liquids' about Rav Yehuda/Shmuel's ruling on metal vessels and Rav Papa's ruling on natron vessels.",
+      "chosen_heading": "Mixed Liquids",
+      "current_heading": "Mixed Liquids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Cemetery Sleep",
+    "candidates": [
+      "Cemetery Sleep",
+      "Fingernails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses sleeping in a cemetery to invoke spirits of impurity and the resulting danger, which exactly matches the 'Cemetery Sleep' section's prose about necromancy, impure spirits, and the life hazard noted in the Gemara.",
+      "chosen_heading": "Cemetery Sleep",
+      "current_heading": "Cemetery Sleep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Fingernails",
+    "candidates": [
+      "Fingernails",
+      "Bloodletting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss nail disposal \u2014 the dangers of throwing nails in public and the three-tiered ruling on nail disposal (burn/bury/throw) \u2014 which is precisely what the 'Fingernails' section prose describes in detail.",
+      "chosen_heading": "Fingernails",
+      "current_heading": "Fingernails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Bloodletting",
+    "candidates": [
+      "Bloodletting",
+      "Rav Chisda & Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses bloodletting and marital relations, weak children, ra'atan disease, and Rav's qualification about eating afterward \u2014 all of which are directly addressed in the 'Bloodletting' section's prose.",
+      "chosen_heading": "Bloodletting",
+      "current_heading": "Bloodletting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Chisda & Abaye",
+    "candidates": [
+      "Rav Chisda & Abaye",
+      "Rav Huna & Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Chisda's prohibition on daytime relations with its proof-text and Abaye's explanation, which is precisely what candidate 0's prose discusses, while Rav Huna's statement (also in the passage) is the opening of candidate 1's prose section \u2014 but since the passage ends with Rav Huna's statement and candidate 0's prose explicitly discusses both Rav Chisda and Abaye's reasoning, the current placement under candidate 0 is the better fit as it covers the core content of the passage.",
+      "chosen_heading": "Rav Chisda & Abaye",
+      "current_heading": "Rav Chisda & Abaye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rav Huna & Rava",
+    "candidates": [
+      "Rav Huna & Rava",
+      "Beit Shammai Reinterpret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's ruling about a dark house and a Torah scholar darkening himself with his garment, which is precisely what the prose under 'Rav Huna & Rava' describes and analyzes.",
+      "chosen_heading": "Rav Huna & Rava",
+      "current_heading": "Rav Huna & Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Beit Shammai Reinterpret",
+    "candidates": [
+      "Beit Shammai Reinterpret",
+      "King Munbaz House",
+      "Check vs. Sex",
+      "Nighttime Fatigue",
+      "Meiri Exception",
+      "Cloth Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's reinterpretation of 'or she must engage in intercourse by candlelight' as 'she must examine the cloth by candlelight,' which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "Beit Shammai Reinterpret",
+      "current_heading": "Beit Shammai Reinterpret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Cloth Materials",
+    "candidates": [
+      "King Munbaz House",
+      "Check vs. Sex",
+      "Nighttime Fatigue",
+      "Meiri Exception",
+      "Cloth Materials",
+      "Raba Linen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the full Gemara discussion of the King Munbaz baraita \u2014 item 1 introduces it, item 2 debates whether 'by day' means intercourse or checking, and item 3 analyzes the wool-of-Parhava detail and Shmuel's ruling \u2014 all of which is precisely what candidate 0 ('King Munbaz House') describes in its prose.",
+      "chosen_heading": "King Munbaz House",
+      "current_heading": "Cloth Materials",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Raba Linen",
+    "candidates": [
+      "Cloth Materials",
+      "Raba Linen",
+      "Snow Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge to Rava's endorsement of worn linen and its resolution \u2014 exactly the content described in the 'Raba Linen' prose section, which explicitly discusses this contradiction and its two resolutions (raw linen vs. garments, and new vs. worn).",
+      "chosen_heading": "Raba Linen",
+      "current_heading": "Raba Linen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Snow Tumah",
+    "candidates": [
+      "Snow Tumah",
+      "Snow Airspace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the tumah/taharah laws of snow \u2014 item 1 establishes snow as neither food nor drink and the rules for liquid tumah, item 2 addresses partial tumah/purification \u2014 which is precisely what the 'Snow Tumah' prose section discusses.",
+      "chosen_heading": "Snow Tumah",
+      "current_heading": "Snow Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Snow Airspace",
+    "candidates": [
+      "Snow Airspace",
+      "House Anatomy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the internal tension in the baraita about snow becoming impure and Abaye's resolution involving the airspace of an earthenware vessel, which is precisely what the 'Snow Airspace' prose describes.",
+      "chosen_heading": "Snow Airspace",
+      "current_heading": "Snow Airspace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "House Anatomy",
+    "candidates": [
+      "House Anatomy",
+      "Blood Origin",
+      "Chamber Layout"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "House Anatomy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna introducing the house parable and its three-part anatomy, which matches the 'House Anatomy' prose that discusses the metaphor and its three components.",
+      "second_heading": "Blood Origin",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the halakhic rulings for blood from each chamber and the chazaka for the prozdor, which precisely matches the 'Blood Origin' prose discussion of dam hacheder tamei, dam ha'aliya tahor, and the chazaka ruling.",
+      "current_heading": "House Anatomy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Chamber Layout",
+    "candidates": [
+      "Blood Origin",
+      "Chamber Layout",
+      "Blood Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the anatomical layout (cheder, prozdor, aliya, lul) as recounted by Rami bar Shmuel and Rav Yitzchak in Rav Huna's study hall, which is precisely what the 'Chamber Layout' prose section discusses.",
+      "chosen_heading": "Chamber Layout",
+      "current_heading": "Chamber Layout",
+      "moved": false
+    }
+  }
+]

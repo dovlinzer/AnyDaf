@@ -1,0 +1,439 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Intro: Menachot Types",
+    "candidates": [
+      "Intro: Menachot Types",
+      "Oil/Frankincense Transgr"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 27,
+      "split2": 29,
+      "first_heading": "Intro: Menachot Types",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains the baraita discussing oil and frankincense requirements for various meal offerings (omer, shewbread, libations, etc.), which fits under 'Intro: Menachot Types' as it introduces the rules about which menachos receive oil and frankincense.",
+      "second_heading": "Oil/Frankincense Transgr",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna discussing liability for placing oil or frankincense on the minchas chotei/minchas kenaos and the consequences (disqualification vs. removal), which matches the 'Oil/Frankincense Transgr' heading's prose about transgression and the pasalah/yelaktenah distinction.",
+      "third_heading": "Oil/Frankincense Transgr",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara opening that analyzes the baraita on 'lo yasim aleha shemen' and disqualification, directly continuing the 'Oil/Frankincense Transgr' section's discussion of the prohibition and its consequences.",
+      "current_heading": "Intro: Menachot Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Oil/Frankincense Transgr",
+    "candidates": [
+      "Oil/Frankincense Transgr",
+      "Oil vs. Frankincense",
+      "Vessel Upon Vessel",
+      "Baraita: Oil/Frankincense",
+      "Ground Frankincense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita's derivation from 'ki chatas'/'hi' distinguishing oil (which disqualifies) from frankincense (which does not) because oil cannot be gathered back, which is precisely what candidate 1 ('Oil vs. Frankincense') describes in its prose.",
+      "chosen_heading": "Oil vs. Frankincense",
+      "current_heading": "Oil/Frankincense Transgr",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Ground Frankincense",
+    "candidates": [
+      "Oil vs. Frankincense",
+      "Vessel Upon Vessel",
+      "Baraita: Oil/Frankincense",
+      "Ground Frankincense",
+      "Absorption vs. Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara debate about whether the validity of levonah on a minchah depends on 'efshar lilketa' (can be gathered up) or 'lo mivla' (not absorbed), with the mishna and baraita cited as attempted proofs and rejected via 'chada v'od' \u2014 precisely the content described in candidate 4's prose about 'Absorption vs. Removal,' not candidate 3 which covers only the initial framing of the ground frankincense question.",
+      "chosen_heading": "Absorption vs. Removal",
+      "current_heading": "Ground Frankincense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Absorption vs. Removal",
+    "candidates": [
+      "Ground Frankincense",
+      "Absorption vs. Removal",
+      "Baraita: Removal & Pigul",
+      "Reversible Invalidity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita cited by Rav Nachman bar Yitzchak that resolves Rabba bar Rav Huna's dilemma about whether kashrut requires physical removal or merely non-absorption \u2014 which is precisely what the 'Absorption vs. Removal' section's prose describes as its concluding proof.",
+      "chosen_heading": "Absorption vs. Removal",
+      "current_heading": "Absorption vs. Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Reversible Invalidity",
+    "candidates": [
+      "Baraita: Removal & Pigul",
+      "Reversible Invalidity",
+      "Tosafot Textual Criticism",
+      "Abaye's Answer",
+      "Rava & Rav Ada"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge 'v'tehave pach' and the dichuy objection \u2014 precisely the content described in candidate 1's prose about the 'v'tehave pach' formulation and why machshavah has effect on an already-pasul minchah that should be considered dachuy.",
+      "chosen_heading": "Reversible Invalidity",
+      "current_heading": "Reversible Invalidity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Rava & Rav Ada",
+    "candidates": [
+      "Tosafot Textual Criticism",
+      "Abaye's Answer",
+      "Rava & Rav Ada",
+      "Rav Ashi: B'Yado"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rava's answer (that the baraita follows \u1e24anan the Egyptian who rejects dichuyin) and the supporting baraita about \u1e24anan the Egyptian's ruling on Yom Kippur, which is precisely what candidate 2 ('Rava & Rav Ada') describes in its prose.",
+      "chosen_heading": "Rava & Rav Ada",
+      "current_heading": "Rava & Rav Ada",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav Ashi: B'Yado",
+    "candidates": [
+      "Rav Ashi: B'Yado",
+      "Rabbi Yehuda & Dachuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's direct statement of the b'yado principle, which is precisely what heading 0 ('Rav Ashi: B'Yado') describes in its prose.",
+      "chosen_heading": "Rav Ashi: B'Yado",
+      "current_heading": "Rav Ashi: B'Yado",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Rabbi Yehuda & Dachuy",
+    "candidates": [
+      "Rabbi Yehuda & Dachuy",
+      "Oil Shiur",
+      "Oil: Kol Shehu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact argument described in candidate 0's prose: Rav Adda supports Rav Ashi from Rabbi Yehuda's mishna about the Yom Kippur goats (item 1), and then the baraita about the Pesach blood mixture shows that even Rabbi Yehuda does not apply dichuy when the remedy is b'yado (item 2).",
+      "chosen_heading": "Rabbi Yehuda & Dachuy",
+      "current_heading": "Rabbi Yehuda & Dachuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Oil: Kol Shehu",
+    "candidates": [
+      "Oil Shiur",
+      "Oil: Kol Shehu",
+      "Frankincense: Kezayit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 1's prose describes: any amount of oil (mashehu) disqualifies a kezayit of minchah, with the reasoning from 'lo yasim' (no minimum for placing) and 'aleha' (minimum measure for the minchah itself).",
+      "chosen_heading": "Oil: Kol Shehu",
+      "current_heading": "Oil: Kol Shehu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Frankincense: Kezayit",
+    "candidates": [
+      "Frankincense: Kezayit",
+      "Double Language Rule",
+      "Sima vs. Nitan",
+      "Tosafot on Nitan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yochanan's ruling that a kezayit of frankincense disqualifies any amount of meal offering, with the reasoning from 'lo yiten' (kezayit requirement) and 'aleha' as ribui achar ribui (mashehu of minchah), which is precisely what the 'Frankincense: Kezayit' prose describes.",
+      "chosen_heading": "Frankincense: Kezayit",
+      "current_heading": "Frankincense: Kezayit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Tosafot on Nitan",
+    "candidates": [
+      "Double Language Rule",
+      "Sima vs. Nitan",
+      "Tosafot on Nitan",
+      "Remnants Rule",
+      "Frankincense After Oil",
+      "Tosafot Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's dilemma about whether 'simah' (placing oil) requires a kezayit like 'netinah' (giving frankincense), which is precisely what the 'Sima vs. Nitan' section's prose describes, including the teku resolution.",
+      "chosen_heading": "Sima vs. Nitan",
+      "current_heading": "Tosafot on Nitan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Tosafot Explanation",
+    "candidates": [
+      "Remnants Rule",
+      "Frankincense After Oil",
+      "Tosafot Explanation",
+      "Vessel Upon Vessel Rule",
+      "Mishna Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous baraita explaining the verse 'lo yasim aleha shemen' in the context of the remnants rule \u2014 the passage directly follows the mishna about oil placed on shirayim and belongs under 'Remnants Rule', not under the Tosafot explanation heading where it currently sits.",
+      "chosen_heading": "Remnants Rule",
+      "current_heading": "Tosafot Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Mishna Categories",
+    "candidates": [
+      "Vessel Upon Vessel Rule",
+      "Mishna Categories",
+      "Hagashah Only: Ten",
+      "Kohanim Minchah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage introduces exactly the four categories of menachos (hagashah/tenuphah combinations) that the 'Mishna Categories' prose directly describes and contextualizes.",
+      "chosen_heading": "Mishna Categories",
+      "current_heading": "Mishna Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Kohanim Minchah",
+    "candidates": [
+      "Hagashah Only: Ten",
+      "Kohanim Minchah",
+      "Rabbi Shimon: Kemitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself listing the ten meal offerings requiring hagashah but not tenuphah, which is precisely what candidate 0 introduces and discusses, before the subsequent candidates analyze specific items on that list.",
+      "chosen_heading": "Hagashah Only: Ten",
+      "current_heading": "Kohanim Minchah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Rabbi Shimon: Kemitzah",
+    "candidates": [
+      "Kohanim Minchah",
+      "Rabbi Shimon: Kemitzah",
+      "Rav Papa: Ten Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's ruling that minchas kohanim and minchas kohein mashiach have no hagashah because they lack kemitzah, which is precisely what the prose under 'Rabbi Shimon: Kemitzah' discusses.",
+      "chosen_heading": "Rabbi Shimon: Kemitzah",
+      "current_heading": "Rabbi Shimon: Kemitzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Rav Papa: Ten Count",
+    "candidates": [
+      "Rav Papa: Ten Count",
+      "Baraita Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Pappa's principle about the ten-count and its exclusion of Rabbi Shimon's position, which is precisely what the 'Rav Papa: Ten Count' prose describes.",
+      "chosen_heading": "Rav Papa: Ten Count",
+      "current_heading": "Rav Papa: Ten Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Baraita Verses",
+    "candidates": [
+      "Baraita Verses",
+      "Cheshibat Tzadim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the baraita deriving which meal offerings require hagashah from the verse's use of 'haminchah' and 'et haminchah', which is precisely what the 'Baraita Verses' prose describes.",
+      "chosen_heading": "Baraita Verses",
+      "current_heading": "Baraita Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "current_heading": "Cheshibat Tzadim",
+    "candidates": [
+      "Cheshibat Tzadim",
+      "Rabbi Shimon Inclusions",
+      "Kemitzah = Hagashah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Cheshibat Tzadim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 detail the *cheshibat tzadim* argument for *minchas chotei* requiring *hagashah*, ending with the verse *et haminchah* being needed \u2014 exactly what heading 0's prose describes.",
+      "second_heading": "Rabbi Shimon Inclusions",
+      "second_confidence": "high",
+      "second_reason": "Items 7 onward begin Rabbi Shimon's distinct derivations using *v'heiveisa* and *v'hikrivah* for *minchas ha'omer* and *minchas sotah*, which is precisely what heading 1's prose describes.",
+      "current_heading": "Cheshibat Tzadim",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Ulla: Dates & Torah",
+    "candidates": [
+      "Ulla: Dates & Torah",
+      "Ulla's Dates Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Ulla's teaching about dates and Torah (item 1) and the Pumbedita anecdote that illustrates it (item 2), which is exactly what heading 0's prose describes; heading 1's prose covers the continuation of that same anecdote including the stomachache reversal, which is not present in these items.",
+      "chosen_heading": "Ulla: Dates & Torah",
+      "current_heading": "Ulla: Dates & Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Ulla's Dates Story",
+    "candidates": [
+      "Ulla's Dates Story",
+      "Comfort & Growth",
+      "Yaakov's House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ulla's night of indigestion and his revised praise of Babylonian Torah scholars, which is precisely what the 'Ulla's Dates Story' section's prose narrates and analyzes.",
+      "chosen_heading": "Ulla's Dates Story",
+      "current_heading": "Ulla's Dates Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Yaakov's House",
+    "candidates": [
+      "Comfort & Growth",
+      "Yaakov's House",
+      "Kibbutz Galuyos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a single continuous teaching by Rabbi Elazar about why the nations say 'God of Jacob' (not Abraham or Isaac), which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Yaakov's House",
+      "current_heading": "Yaakov's House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Kibbutz Galuyos",
+    "candidates": [
+      "Kibbutz Galuyos",
+      "Bayis vs. Mountain",
+      "Orphan & Guardians"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's teaching about kibbutz galuyos being as great as the day of creation, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Kibbutz Galuyos",
+      "current_heading": "Kibbutz Galuyos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Orphan & Guardians",
+    "candidates": [
+      "Bayis vs. Mountain",
+      "Orphan & Guardians",
+      "Consent Requirements",
+      "Household vs. Consent",
+      "Knowledge Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the orphan/guardians mishna case and Rabbi Zeira's resolution via 'seh l'vayit,' which is exactly what the 'Orphan & Guardians' section prose describes.",
+      "chosen_heading": "Orphan & Guardians",
+      "current_heading": "Orphan & Guardians",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Knowledge Defined",
+    "candidates": [
+      "Consent Requirements",
+      "Household vs. Consent",
+      "Knowledge Defined",
+      "Rami's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items form a single continuous Talmudic discussion about the apparent contradiction within the baraita regarding consent requirements and how 'mida'atan' is defined \u2014 resolved by Rava's explanation that silence implies consent and slaughtering one's own lamb constitutes protest \u2014 which is precisely what the 'Knowledge Defined' prose describes.",
+      "chosen_heading": "Knowledge Defined",
+      "current_heading": "Knowledge Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rami's Question",
+    "candidates": [
+      "Rami's Question",
+      "Kapdan Partners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the contradiction between the Mishnah and baraita that heading 0 ('Rami's Question') describes \u2014 Rav Eina the Elder raising the challenge before Rav Na\u1e25man \u2014 not the resolution discussed in heading 1.",
+      "chosen_heading": "Rami's Question",
+      "current_heading": "Rami's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Kapdan Partners",
+    "candidates": [
+      "Kapdan Partners",
+      "Shammai-Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Na\u1e25man's resolution distinguishing between partners who are exacting with each other (mishna) and those who are not (baraita), which is precisely what the 'Kapdan Partners' prose describes.",
+      "chosen_heading": "Kapdan Partners",
+      "current_heading": "Kapdan Partners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Shammai-Hillel",
+    "candidates": [
+      "Shammai-Hillel",
+      "Forced Freedom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the mishna about one who is half slave and half free and his eligibility to eat from the Paschal lamb, which is precisely what the 'Shammai-Hillel' section's prose discusses.",
+      "chosen_heading": "Shammai-Hillel",
+      "current_heading": "Shammai-Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Forced Freedom",
+    "candidates": [
+      "Forced Freedom",
+      "Agunah Parallel"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Forced Freedom",
+      "current_heading": "Forced Freedom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Agunah Parallel",
+    "candidates": [
+      "Agunah Parallel",
+      "Unspecified Animal",
+      "Two Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes 'Ve-chazru Beit Hillel le-horot ke-Beit Shammai,' which is explicitly discussed and analyzed in the 'Agunah Parallel' section's prose as the central textual reference for that section's argument.",
+      "chosen_heading": "Agunah Parallel",
+      "current_heading": "Agunah Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Two Animals",
+    "candidates": [
+      "Unspecified Animal",
+      "Two Animals",
+      "Stipulation Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna text covers the full scenario \u2014 including both the single-animal cases (kid or lamb) and the two-animal case \u2014 but its primary content introducing the case is the unspecified instruction to the slave, which matches heading 0 ('Unspecified Animal') that discusses the master giving no specification and the slave's discretion, whereas heading 1 ('Two Animals') discusses the Gemara's analysis of the two-animal ruling that follows from this Mishna.",
+      "chosen_heading": "Unspecified Animal",
+      "current_heading": "Two Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Stipulation Solution",
+    "candidates": [
+      "Two Animals",
+      "Stipulation Solution",
+      "Both Forgot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the stipulation solution when a slave forgot what his master said, directly matching the 'Stipulation Solution' prose which explicitly discusses this scenario of slaughtering both animals with the conditional stipulation about which belongs to whom.",
+      "chosen_heading": "Stipulation Solution",
+      "current_heading": "Stipulation Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Both Forgot",
+    "candidates": [
+      "Both Forgot",
+      "Royal Question",
+      "Don't Care Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case where both master and slave forgot, leading to both animals being burned and both being exempt from Pesach Sheni, which matches exactly what the 'Both Forgot' section's prose discusses.",
+      "chosen_heading": "Both Forgot",
+      "current_heading": "Both Forgot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Don't Care Logic",
+    "candidates": [
+      "Royal Question",
+      "Don't Care Logic",
+      "Lizard Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Don't Care Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the initial Gemara discussion (obvious objection, contradiction from baraita about two Paschal offerings) that precedes the king-and-queen story, matching the 'Don't Care Logic' section's prose which summarizes Rabban Gamliel's ruling and the min ha-rishon principle.",
+      "second_heading": "Royal Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the actual king-and-queen anecdote and Rabban Gamliel's ruling, which directly matches the 'Royal Question' prose describing the servants slaughtering two animals and the chain of deferral to Rabban Gamliel.",
+      "current_heading": "Don't Care Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Lizard Story",
+    "candidates": [
+      "Lizard Story",
+      "Dependency Chain",
+      "Abaye's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together narrate the lizard-in-the-kitchen episode and its concluding observation about the king depending on Rabban Gamliel, which is precisely what the 'Lizard Story' prose describes.",
+      "chosen_heading": "Lizard Story",
+      "current_heading": "Lizard Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Abaye's Rule",
+    "candidates": [
+      "Dependency Chain",
+      "Abaye's Rule",
+      "Fitness at Zerika",
+      "Blemish Found"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye's Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 concern the slave forgetting his master's instructions and Abaye's solution involving the shepherd granting ownership, which fits the 'Abaye's Rule' section discussing the slave/master forgotten case.",
+      "second_heading": "Fitness at Zerika",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a new mishna case (the master forgetting) and presents Abaye's ruling about before/after zerika, which is precisely what the 'Fitness at Zerika' prose describes.",
+      "current_heading": "Abaye's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Blemish Found",
+    "candidates": [
+      "Fitness at Zerika",
+      "Blemish Found",
+      "Impossible Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the baraita about five people's Pesach hides mixed up with a blemish found, which is precisely what the 'Blemish Found' section's prose introduces and discusses.",
+      "chosen_heading": "Blemish Found",
+      "current_heading": "Blemish Found",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Impossible Identity",
+    "candidates": [
+      "Impossible Identity",
+      "Stipulation Attempts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items contain Abaye's ruling about mixing before vs. after zerika and the subsequent Gemara comment about whether it applies to the mishna or baraita \u2014 exactly the content described in the 'Impossible Identity' prose section.",
+      "chosen_heading": "Impossible Identity",
+      "current_heading": "Impossible Identity",
+      "moved": false
+    }
+  }
+]

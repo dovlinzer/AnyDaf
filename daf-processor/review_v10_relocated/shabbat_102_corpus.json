@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Carrying vs. Wounding",
+    "candidates": [
+      "Daf 102 Overview",
+      "Hazorek Venizkar",
+      "Object Doesn't Rest",
+      "Ze Haklal Principle",
+      "Zadon/Shogeg Mix",
+      "Carrying vs. Wounding",
+      "Rav Kahana Challenge",
+      "Control & Awareness",
+      "Rope Example",
+      "Wounding w/ Rope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge ('if it comes to rest he is liable, but didn't he remember?') and Rav Kahana's response about seifa atan l'lichta u'mashna, which is precisely what the 'Rav Kahana Challenge' section's prose describes.",
+      "chosen_heading": "Rav Kahana Challenge",
+      "current_heading": "Carrying vs. Wounding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Wounding w/ Rope",
+    "candidates": [
+      "Rav Kahana Challenge",
+      "Control & Awareness",
+      "Rope Example",
+      "Wounding w/ Rope",
+      "Carrying vs. Throwing",
+      "Four Amot Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the bolt-and-cord (lichta u'mashna) case, the gemara's objection that holding the rope means no throwing occurred (ugdo b'yado hu), the pivot to wounding intent, and Rava's final resolution to carrying (meavir) \u2014 this is precisely the content described in the 'Rope Example' prose section, not the 'Wounding w/ Rope' section which discusses the aftermath of those objections.",
+      "chosen_heading": "Rope Example",
+      "current_heading": "Wounding w/ Rope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Four Amot Example",
+    "candidates": [
+      "Carrying vs. Throwing",
+      "Four Amot Example",
+      "Simple Mishna Reading",
+      "Two Conditions",
+      "No Forgetting Again"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's 'tarti katani' statement listing the multiple independent exemption cases (remembering mid-flight, another catching it, a dog catching it, burning), which is precisely what the 'Simple Mishna Reading' prose describes.",
+      "chosen_heading": "Simple Mishna Reading",
+      "current_heading": "Four Amot Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "No Forgetting Again",
+    "candidates": [
+      "Simple Mishna Reading",
+      "Two Conditions",
+      "No Forgetting Again",
+      "Beginning/End Rule",
+      "Rabba vs. Rava",
+      "Rabba's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's 'chisorei mechasra' reading which is precisely what candidate 1 ('Two Conditions') describes \u2014 his abbreviated mishna reading requiring both conditions \u2014 and then continues into the 'shechazar veshachach' explanation that candidate 2 describes, but the full Rav Ashi statement belongs under candidate 1 which introduces his reading, since candidate 2's prose describes the answer/explanation that follows from candidate 1's setup, and the Gemara text covers both together as one unit starting with Rav Ashi's initial statement.",
+      "chosen_heading": "Two Conditions",
+      "current_heading": "No Forgetting Again",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Rabba's View",
+    "candidates": [
+      "Beginning/End Rule",
+      "Rabba vs. Rava",
+      "Rabba's View",
+      "Meavir & Control",
+      "Rava's View",
+      "Throwing/Carrying",
+      "Intent to Dog",
+      "Intent Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together present the Rabba/Rava dispute (itmar) on the two-cubits-unwitting/two-intentional/two-unwitting scenario, which is precisely what candidate 1 ('Rabba vs. Rava') describes as its topic, and that section's prose explicitly sets up the question these items answer.",
+      "chosen_heading": "Rabba vs. Rava",
+      "current_heading": "Rabba's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Intent Difference",
+    "candidates": [
+      "Meavir & Control",
+      "Rava's View",
+      "Throwing/Carrying",
+      "Intent to Dog",
+      "Intent Difference",
+      "Multiple Chiyuvim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's ruling about throwing into a dog's mouth and the apparent contradiction with the mishna, which is precisely what heading 3 ('Intent to Dog') describes \u2014 the resolution (intent difference) belongs in heading 4, but the passage itself is the statement of the paradox that heading 3's prose addresses.",
+      "chosen_heading": "Intent to Dog",
+      "current_heading": "Intent Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Multiple Chiyuvim",
+    "candidates": [
+      "Intent Difference",
+      "Multiple Chiyuvim",
+      "Rabbi Meir Add-on",
+      "Gemara Response",
+      "Machshava",
+      "Applications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna case of one eating act incurring four sin-offerings and one guilt-offering (tamei person eating chelev/notar/hekdesh on Yom Kippur), which is exactly what the 'Multiple Chiyuvim' section's prose describes.",
+      "chosen_heading": "Multiple Chiyuvim",
+      "current_heading": "Multiple Chiyuvim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Applications",
+    "candidates": [
+      "Rabbi Meir Add-on",
+      "Gemara Response",
+      "Machshava",
+      "Applications",
+      "Hadran Alach",
+      "Carrying Significance",
+      "Habona",
+      "Kol Shehu",
+      "Other Acts",
+      "Mitkayem",
+      "Rabban Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's core content is precisely the principle of *machshava meshvia lei makom* \u2014 intention rendering a non-standard location a valid place \u2014 which is what the 'Machshava' section's prose explicitly discusses, whereas the current 'Applications' section discusses how this principle applies in two directions, which would logically follow after the principle itself is introduced by this quoted text.",
+      "chosen_heading": "Machshava",
+      "current_heading": "Applications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rabban Shimon",
+    "candidates": [
+      "Hadran Alach",
+      "Carrying Significance",
+      "Habona",
+      "Kol Shehu",
+      "Other Acts",
+      "Mitkayem",
+      "Rabban Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The text '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d4\u05d6\u05d5\u05e8\u05e7' is the Hadran formula recited at the completion of a perek, and candidate 0 ('Hadran Alach') is explicitly about completing the perek and the extended treatment of hotza'ah \u2014 a perfect match.",
+      "chosen_heading": "Hadran Alach",
+      "current_heading": "Rabban Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rabban Shimon",
+    "candidates": [
+      "Rabban Shimon",
+      "Kol Shehu Question",
+      "Hole Example",
+      "Tripod Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full Mishna text that introduces building liability, chiseling, hammering, drilling, and Rabban Shimon ben Gamliel's statement \u2014 all of which are directly discussed and unpacked in the 'Rabban Shimon' section's prose, which explicitly quotes and analyzes Rabban Shimon's ruling and the broader principles of the Mishna.",
+      "chosen_heading": "Rabban Shimon",
+      "current_heading": "Rabban Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Tripod Example",
+    "candidates": [
+      "Kol Shehu Question",
+      "Hole Example",
+      "Tripod Example",
+      "Filling Hole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire Gemara discussion \u2014 the initial question (kol shehu), Rabbi Yirmiyah's hole example, Abaye's objection, and the tripod example \u2014 making it best placed under the 'Kol Shehu Question' heading which introduces the whole inquiry, rather than splitting it under a later heading that covers only part of the content.",
+      "chosen_heading": "Kol Shehu Question",
+      "current_heading": "Tripod Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Filling Hole",
+    "candidates": [
+      "Tripod Example",
+      "Filling Hole",
+      "Cornerstone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav A\u1e25a bar Ya'akov's statement about 'no poverty in a place of wealth' and the example of sealing a hole in a beam with lead, which precisely matches the 'Filling Hole' section's prose discussion of this exact teaching.",
+      "chosen_heading": "Filling Hole",
+      "current_heading": "Filling Hole",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Cornerstone",
+    "candidates": [
+      "Cornerstone",
+      "Stone/Plaster",
+      "Rabbi Yose View",
+      "Three Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's ruling AND the braita challenge about stone vs. plaster, which is precisely what candidate 1 ('Stone/Plaster') discusses \u2014 the braita's challenge to Shmuel's ruling and the implication that plaster is required for liability.",
+      "chosen_heading": "Stone/Plaster",
+      "current_heading": "Cornerstone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Three Levels",
+    "candidates": [
+      "Stone/Plaster",
+      "Rabbi Yose View",
+      "Three Levels",
+      "Mesatet",
+      "Rav/Shmuel Stone",
+      "Chicken Coop",
+      "Shovel Handle",
+      "Rav Broad View",
+      "Why Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly resolves the contradiction by introducing the three levels of building (bottom, middle, upper rows with different requirements), which is precisely what the 'Three Levels' section's prose describes.",
+      "chosen_heading": "Three Levels",
+      "current_heading": "Three Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Why Three Cases",
+    "candidates": [
+      "Mesatet",
+      "Rav/Shmuel Stone",
+      "Chicken Coop",
+      "Shovel Handle",
+      "Rav Broad View",
+      "Why Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's explanation of why all three cases needed to be stated \u2014 the tzericha passage \u2014 which is precisely what candidate 5 ('Why Three Cases') discusses in its prose.",
+      "chosen_heading": "Why Three Cases",
+      "current_heading": "Why Three Cases",
+      "moved": false
+    }
+  }
+]

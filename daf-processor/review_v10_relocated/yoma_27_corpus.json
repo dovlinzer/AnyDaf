@@ -1,0 +1,231 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Tamid Distribution",
+    "candidates": [
+      "Tamid Distribution",
+      "Ram Sacrifice",
+      "Cow Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Eliezer ben Ya'akov and Rabbi Yehuda regarding the seventeenth task in the tamid service, which is explicitly addressed in the 'Tamid Distribution' section's prose.",
+      "chosen_heading": "Tamid Distribution",
+      "current_heading": "Tamid Distribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Cow Sacrifice",
+    "candidates": [
+      "Ram Sacrifice",
+      "Cow Sacrifice",
+      "Communal vs Individual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single mishna covering both the ram (ayil) and bull (par) sacrifices, and its content about the ram directly matches the 'Ram Sacrifice' prose section, while the bull portion is also introduced there \u2014 the current placement under 'Cow Sacrifice' splits what is a single unified mishna from its primary heading.",
+      "chosen_heading": "Ram Sacrifice",
+      "current_heading": "Cow Sacrifice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Communal vs Individual",
+    "candidates": [
+      "Cow Sacrifice",
+      "Communal vs Individual",
+      "Hefshet v'Nituach",
+      "Mishna Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage distinguishes communal from individual offerings and notes equality in flaying/cutting, which is precisely what the 'Communal vs Individual' section's prose discusses.",
+      "chosen_heading": "Communal vs Individual",
+      "current_heading": "Communal vs Individual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Mishna Intro",
+    "candidates": [
+      "Hefshet v'Nituach",
+      "Mishna Intro",
+      "Chizkiyah's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Tosefta teaching that flaying and cutting are equal for non-priests directly supports the 'Hefshet v'Nituach' section's prose, which introduces this exact point \u2014 that the mishnah is saying hefshet venituach can be performed by a zar \u2014 rather than the 'Mishna Intro' section which discusses the subsequent gemara's search for a textual source.",
+      "chosen_heading": "Hefshet v'Nituach",
+      "current_heading": "Mishna Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Chizkiyah's Logic",
+    "candidates": [
+      "Mishna Intro",
+      "Chizkiyah's Logic",
+      "Abaye's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Chizkiyah's derivation that flaying and cutting do not require priesthood, which is precisely what the 'Chizkiyah's Logic' section is about \u2014 the current placement is correct.",
+      "chosen_heading": "Chizkiyah's Logic",
+      "current_heading": "Chizkiyah's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Abaye's Teaching",
+    "candidates": [
+      "Abaye's Teaching",
+      "Gemara Challenge",
+      "Fire Requires Kohen",
+      "Arranging Limbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita that Abaye was explaining to his son \u2014 the challenge about the fire verse being needed for its own sake, followed by Abaye's resolution via the baraita showing slaughter by a non-priest is valid \u2014 which is precisely the content described in the 'Abaye's Teaching' prose.",
+      "chosen_heading": "Abaye's Teaching",
+      "current_heading": "Abaye's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Arranging Limbs",
+    "candidates": [
+      "Gemara Challenge",
+      "Fire Requires Kohen",
+      "Arranging Limbs",
+      "Rabbi Elazar Obj.",
+      "Tamid Context",
+      "Yochanan's Rule",
+      "Why Redo?",
+      "Sidur vs Natan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Arranging Limbs",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 trace the gemara's attempts to derive that hefshet venituach does not require kehunah, including the challenge to Chizkiyah's derivation and the resolution via ve-archu and ve-hikriv, exactly as described in candidate 2's prose.",
+      "second_heading": "Rabbi Elazar Obj.",
+      "second_confidence": "high",
+      "second_reason": "Items 10-12 shift to a new derivation that a lamb requires six priests, followed immediately by Rav Hamnuna citing Rabbi Elazar's objection that the verse is about a bull, which is precisely the content described in candidate 3's prose.",
+      "current_heading": "Arranging Limbs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Sidur vs Natan",
+    "candidates": [
+      "Rabbi Elazar Obj.",
+      "Tamid Context",
+      "Yochanan's Rule",
+      "Why Redo?",
+      "Sidur vs Natan",
+      "Beivai Question",
+      "Two Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Asi citing Rabbi Yo\u1e25anan's ruling about a non-priest arranging the woodpile and the initial question of what to do, which directly matches the 'Yochanan's Rule' prose about Rabbi Yochanan's statement that a zar who performed sidur hama'aracha is chayav and the question of what is to be done.",
+      "chosen_heading": "Yochanan's Rule",
+      "current_heading": "Sidur vs Natan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Two Stages",
+    "candidates": [
+      "Beivai Question",
+      "Two Stages",
+      "Rava's Question",
+      "Lottery Principle",
+      "Burning Limbs",
+      "Trumat HaDeshen",
+      "Hand Washing",
+      "Shechita Timing",
+      "Wood Flexibility",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage's core content \u2014 Rabbi Zeira's objection linking nighttime service to non-priest liability, tested against the limbs/fats and ash-removal examples \u2014 matches the 'Two Stages' prose which explicitly discusses those same two examples and their resolution, even though the passage extends further into Rava's lottery objection and the Mar Zutra/Rav Ashi proof.",
+      "chosen_heading": "Two Stages",
+      "current_heading": "Two Stages",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Sons Condition",
+    "candidates": [
+      "Kohen/Levi Cases",
+      "Natin/Mamzer Status",
+      "Town vs. City",
+      "Bathhouse Proximity",
+      "Household Help",
+      "Sons Condition",
+      "Internal Intent Invalid",
+      "Aliyah Sale Case",
+      "Rava's Principle",
+      "Sacrifice Forced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers both the daughter/maidservant condition and the sons condition together as one continuous mishnah text, and the 'Household Help' prose (index 4) explicitly introduces the daughter/maidservant condition that begins this passage, making it the better home than the 'Sons Condition' heading where it currently sits.",
+      "chosen_heading": "Household Help",
+      "current_heading": "Sons Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Sacrifice Forced",
+    "candidates": [
+      "Internal Intent Invalid",
+      "Aliyah Sale Case",
+      "Rava's Principle",
+      "Sacrifice Forced",
+      "Challenge to Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Aliyah Sale Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the aliyah sale case and Rava's ruling with the gemara's question about the source, which matches the 'Aliyah Sale Case' prose describing exactly this scenario and question.",
+      "second_heading": "Sacrifice Forced",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the sacrifice/korban source text (yakriv oto / lirtzono) which is precisely what the 'Sacrifice Forced' prose discusses as the gemara's proposed source for Rava's principle.",
+      "current_heading": "Sacrifice Forced",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Challenge to Principle",
+    "candidates": [
+      "Challenge to Principle",
+      "Get & Slave Freedom",
+      "Yetzer Hatov Defense",
+      "Woman Assumed Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses coercing someone until he says 'rotzeh ani' and questioning why this is effective if his heart disagrees, which matches the 'Get & Slave Freedom' section's prose about compelling a man to say 'rotzeh ani' and his internal reluctance being legally irrelevant \u2014 the current placement under 'Challenge to Principle' actually contains only the gemara's rejection/deflection, while the passage itself is the initial proof attempt from the sacrifice/coercion case that leads into the get and slave discussion.",
+      "chosen_heading": "Get & Slave Freedom",
+      "current_heading": "Challenge to Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Woman Assumed Kohen",
+    "candidates": [
+      "Get & Slave Freedom",
+      "Yetzer Hatov Defense",
+      "Woman Assumed Kohen",
+      "Stringency Objection",
+      "Woman's Indifference",
+      "Stated Negates Internal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yetzer Hatov Defense",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's rejection of the get/slave-freedom proof via the 'mitzvah to listen to chachamim' deflection, which matches heading 1 ('Yetzer Hatov Defense') perfectly.",
+      "second_heading": "Woman Assumed Kohen",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's new proof from the case of one who betroths a woman thinking she was a kohenet, which matches heading 2 ('Woman Assumed Kohen') exactly.",
+      "current_heading": "Woman Assumed Kohen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Stated Negates Internal",
+    "candidates": [
+      "Stringency Objection",
+      "Woman's Indifference",
+      "Stated Negates Internal",
+      "Shaliach & Windowsill"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's proof from the mishna about the woman's inner intent being discounted (lekula), which matches the 'Woman's Indifference' section's prose describing exactly this proof \u2014 the gemara's rejection ('perhaps it is different since he stipulated a condition, she cannot uproot it') is part of the same unit and is described in that section's following discussion.",
+      "chosen_heading": "Woman's Indifference",
+      "current_heading": "Stated Negates Internal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Shaliach & Windowsill",
+    "candidates": [
+      "Stated Negates Internal",
+      "Shaliach & Windowsill",
+      "Shaliach Proof",
+      "Korban Escape Doubt",
+      "Easier Escape Routes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rav Chiya bar Avin bringing the case to Rav Chisda and Rav Huna, and the shaliach/windowsill me'ilah case with the ba'al habayis claiming his intent was elsewhere, which exactly matches the prose of candidate 1 ('Shaliach & Windowsill').",
+      "chosen_heading": "Shaliach & Windowsill",
+      "current_heading": "Shaliach & Windowsill",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Easier Escape Routes",
+    "candidates": [
+      "Shaliach Proof",
+      "Korban Escape Doubt",
+      "Easier Escape Routes",
+      "Exceptions Overview",
+      "Self-Evident Exception",
+      "One vs. Two-Sided",
+      "Went, Didn't Settle",
+      "Rava: Settling Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the gemara's chain of challenges and responses to the 'korban escape' doubt \u2014 exactly what the 'Easier Escape Routes' prose describes: the mezid claim, la avid inish demashvi nafshia rasha, and the nizkarti/shaliach ma'al alternative \u2014 so the current placement is correct.",
+      "chosen_heading": "Easier Escape Routes",
+      "current_heading": "Easier Escape Routes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rava: Settling Intent",
+    "candidates": [
+      "Exceptions Overview",
+      "Self-Evident Exception",
+      "One vs. Two-Sided",
+      "Went, Didn't Settle",
+      "Rava: Settling Intent",
+      "Alternative: Going Only",
+      "Never Went Case",
+      "Option to Go",
+      "Impossible Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the full case of the man who sold property with stated intent to ascend to Eretz Yisrael, went but couldn't settle, and presents both versions of Rava's ruling \u2014 which matches heading 3 ('Went, Didn't Settle') that introduces this exact scenario, rather than heading 4 which only covers one version of Rava's ruling or heading 5 which only covers the alternative version.",
+      "chosen_heading": "Went, Didn't Settle",
+      "current_heading": "Rava: Settling Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Impossible Travel",
+    "candidates": [
+      "Alternative: Going Only",
+      "Never Went Case",
+      "Option to Go",
+      "Impossible Travel",
+      "External vs. Central",
+      "Formal vs. Fundamental",
+      "Different Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full narrative of the man who sold property intending to go to Eretz Yisrael but never went, Rav Ashi's two formulations, and the mai beinaihu about oness \u2014 all of which together constitute the 'Never Went Case,' with the subsequent headings (Option to Go, Impossible Travel) handling the analytical breakdowns separately in the essay's prose.",
+      "chosen_heading": "Never Went Case",
+      "current_heading": "Impossible Travel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Different Location",
+    "candidates": [
+      "External vs. Central",
+      "Formal vs. Fundamental",
+      "Different Location",
+      "Mareh Makom",
+      "Get Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna about betrothing in a different location than specified, which is precisely what the 'Different Location' section's prose introduces and discusses.",
+      "chosen_heading": "Different Location",
+      "current_heading": "Different Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Get Location",
+    "candidates": [
+      "Mareh Makom",
+      "Get Location",
+      "Marriage Reputation",
+      "Divorce Embarrassment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the exact Gittin mishna about giving a get in a specified vs. unspecified place, which is precisely what the 'Get Location' section's prose describes and analyzes.",
+      "chosen_heading": "Get Location",
+      "current_heading": "Get Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Divorce Embarrassment",
+    "candidates": [
+      "Marriage Reputation",
+      "Divorce Embarrassment",
+      "Pre-Marriage Vows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's 'utzricha' argument explaining why the rule must be stated for both kiddushin and get, and the current heading 'Divorce Embarrassment' prose explicitly discusses this bidirectional reasoning \u2014 including the 'behai asra nicha leh denivzi' language that appears verbatim in item 2.",
+      "chosen_heading": "Divorce Embarrassment",
+      "current_heading": "Divorce Embarrassment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Pre-Marriage Vows",
+    "candidates": [
+      "Pre-Marriage Vows",
+      "Void Pre-Nisuin",
+      "No Ketubah Post-Nisuin",
+      "Nisuin Nullifies",
+      "Agunah Solution",
+      "Blemishes Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers exactly the content described in heading 0's prose \u2014 betrothal on condition of no vows found to be violated, rendering kiddushin void \u2014 which is the primary subject of that section.",
+      "chosen_heading": "Pre-Marriage Vows",
+      "current_heading": "Pre-Marriage Vows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Blemishes Condition",
+    "candidates": [
+      "Void Pre-Nisuin",
+      "No Ketubah Post-Nisuin",
+      "Nisuin Nullifies",
+      "Agunah Solution",
+      "Blemishes Condition",
+      "Insufficient Money",
+      "Savlonos as Kiddushin",
+      "Based on Initial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly concern the blemishes condition case \u2014 item 1 is the mishnah about mumim voiding kiddushin or kesuvah, and item 2 is the gemara explaining why the same mishna appears in both Kiddushin and Ketubot \u2014 exactly what the 'Blemishes Condition' prose describes in detail.",
+      "chosen_heading": "Blemishes Condition",
+      "current_heading": "Blemishes Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Based on Initial",
+    "candidates": [
+      "Insufficient Money",
+      "Savlonos as Kiddushin",
+      "Based on Initial",
+      "Why All Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Mishnah text (the opening case of two women/one perutah or one woman with less than a perutah, plus the resolution about savlonos and the minor), which is introduced and summarized in the 'Insufficient Money' prose before the essay breaks down the individual components in subsequent sections.",
+      "chosen_heading": "Insufficient Money",
+      "current_heading": "Based on Initial",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Why All Cases",
+    "candidates": [
+      "Based on Initial",
+      "Why All Cases",
+      "Concerned About Savlonos",
+      "Resolves Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's u'tzricha argument explaining why all three mishnah cases must be stated, which matches exactly what candidate 1 ('Why All Cases') describes in its prose.",
+      "chosen_heading": "Why All Cases",
+      "current_heading": "Why All Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Resolves Contradiction",
+    "candidates": [
+      "Concerned About Savlonos",
+      "Resolves Contradiction",
+      "Savlonos Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Huna and Rabbah's ruling that one must be concerned about savlonos AND Rabbah's objection from the mishnah AND Abaye's resolution, all of which are introduced and discussed together in candidate 0's prose (with candidate 1 only covering the resolution portion), making candidate 0 the better single home for the entire passage.",
+      "chosen_heading": "Concerned About Savlonos",
+      "current_heading": "Resolves Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Savlonos Kiddushin",
+    "candidates": [
+      "Resolves Contradiction",
+      "Savlonos Kiddushin",
+      "Practice Dependent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the 'ika de'amrei' alternative version where Rabbah derives his ruling from the mishnah itself and Abaye pushes back, which is precisely what the 'Savlonos Kiddushin' prose describes.",
+      "chosen_heading": "Savlonos Kiddushin",
+      "current_heading": "Savlonos Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Practice Dependent",
+    "candidates": [
+      "Practice Dependent",
+      "Kiddushin First Usually",
+      "Savlonos First Usually",
+      "Majority Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's ruling that depends on local practice (kiddushin-first vs. savlonos-first), which is exactly what the 'Practice Dependent' section's prose describes.",
+      "chosen_heading": "Practice Dependent",
+      "current_heading": "Practice Dependent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Majority Practice",
+    "candidates": [
+      "Kiddushin First Usually",
+      "Savlonos First Usually",
+      "Majority Practice",
+      "Ketubah Writing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the ruling about kiddushin-first is not obvious \u2014 it's needed for the case where most betroth first but a minority send gifts first \u2014 which matches heading 0's prose about the ruling seeming self-evident and being necessary for a more nuanced situation, not heading 2 which describes the majority/minority scenario as the novelty rather than the setup.",
+      "chosen_heading": "Kiddushin First Usually",
+      "current_heading": "Majority Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Ketubah Writing",
+    "candidates": [
+      "Majority Practice",
+      "Ketubah Writing",
+      "Ketubah Practice",
+      "Sofer Availability",
+      "Ashes Ish Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav A\u1e25a bar Rav Huna's question to Rava about whether a marriage contract seen in the marketplace establishes a woman as married, and Rav Ashi's resolution based on local practice \u2014 exactly what the 'Ketubah Writing' prose describes.",
+      "chosen_heading": "Ketubah Writing",
+      "current_heading": "Ketubah Writing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Ashes Ish Concern",
+    "candidates": [
+      "Ketubah Practice",
+      "Sofer Availability",
+      "Ashes Ish Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the ruling is non-obvious \u2014 because a scribe might not be readily available, making an early kesuvah plausible \u2014 which matches precisely the 'Sofer Availability' section's prose discussion of 'delo shakhiakh safra' and the scenario of a scribe happening to be available.",
+      "chosen_heading": "Sofer Availability",
+      "current_heading": "Ashes Ish Concern",
+      "moved": true
+    }
+  }
+]

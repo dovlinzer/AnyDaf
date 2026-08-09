@@ -63,8 +63,8 @@
           "timestamp": "04:56"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Two Witnesses: Simultaneous vs. Sequential Denials and the Chiyuv Structure",
@@ -131,7 +131,7 @@
           "timestamp": "16:12"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -165,7 +165,7 @@
           "timestamp": "19:40"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -429,5 +429,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 25
+  "amud_b_sefaria_index": 25,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "34:20",
+  "amud_b_micro_title": "Sotah Cases",
+  "shiur_start_daf": 32,
+  "shiur_start_amud": "a"
 }

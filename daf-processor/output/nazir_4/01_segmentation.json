@@ -34,7 +34,7 @@
           "timestamp": "04:25"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -193,7 +193,7 @@
           "timestamp": "32:32"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -217,8 +217,8 @@
           "timestamp": "36:17"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "The Case of Bekhor: Resolving Whether Status Can Be Transferred Without Vow",
@@ -241,7 +241,7 @@
           "timestamp": "54:17"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -289,7 +289,7 @@
           "timestamp": "57:12"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 28,
       "matched": true
     }
   ],
@@ -520,5 +520,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "24:29",
+  "amud_b_micro_title": "Nazir Olam Details",
+  "shiur_start_daf": 4,
+  "shiur_start_amud": "a"
 }

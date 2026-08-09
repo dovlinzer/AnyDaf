@@ -1,0 +1,285 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Time-bound exemption",
+    "candidates": [
+      "Women obligated Kiddush",
+      "Time-bound exemption",
+      "Zachor v'Shamor link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Adda's statement, Abaye's rabbinic reinterpretation, and Rava's two-pronged objection \u2014 are exactly the content described in the 'Time-bound exemption' prose, which explicitly covers all three moves in sequence.",
+      "chosen_heading": "Time-bound exemption",
+      "current_heading": "Time-bound exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Zachor v'Shamor link",
+    "candidates": [
+      "Zachor v'Shamor link",
+      "Drasha mechanics",
+      "Biblical vs Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's derivation from 'zachor v'shamor' linking women's obligation in shmirah to zkhirah, which is precisely what the prose of heading 0 discusses.",
+      "chosen_heading": "Zachor v'Shamor link",
+      "current_heading": "Zachor v'Shamor link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Biblical vs Rabbinic",
+    "candidates": [
+      "Drasha mechanics",
+      "Biblical vs Rabbinic",
+      "Tosefta teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's question to Rava about whether women's obligation in birkat hamazon is biblical or rabbinic, and the nafka mina regarding motzi others \u2014 exactly what the 'Biblical vs Rabbinic' section's prose describes.",
+      "chosen_heading": "Biblical vs Rabbinic",
+      "current_heading": "Biblical vs Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Tosefta teaching",
+    "candidates": [
+      "Tosefta teaching",
+      "Obligation levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the tosefta text itself (ben mevarech l'aviv, tavo me'eirah) which is directly quoted and discussed in candidate 0's prose about the tosefta from Sukkah, its cultural context, and the curse on a man whose wife and children bench for him.",
+      "chosen_heading": "Tosefta teaching",
+      "current_heading": "Tosefta teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Obligation levels",
+    "candidates": [
+      "Obligation levels",
+      "Rashi's approach",
+      "Tosafot's view",
+      "Pshat conclusion",
+      "Angels' challenge",
+      "Divine reciprocity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's argument and counter-argument about whether women's obligation in birkat hamazon is biblical or rabbinic, using the katan proof \u2014 exactly what the 'Obligation levels' prose describes in detail.",
+      "chosen_heading": "Obligation levels",
+      "current_heading": "Obligation levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Divine reciprocity",
+    "candidates": [
+      "Rashi's approach",
+      "Tosafot's view",
+      "Pshat conclusion",
+      "Angels' challenge",
+      "Divine reciprocity",
+      "Ba'al Keri practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Rav Avira teaching about the angels' challenge regarding divine favoritism, which is exactly what the 'Angels' challenge' section introduces \u2014 the current placement under 'Divine reciprocity' covers God's response, but the Gemara passage includes both the angels' question and God's answer, and the prose of section 3 explicitly sets up and introduces this very passage.",
+      "chosen_heading": "Angels' challenge",
+      "current_heading": "Divine reciprocity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Ba'al Keri practice",
+    "candidates": [
+      "Divine reciprocity",
+      "Ba'al Keri practice",
+      "Rabbi Yehuda disagrees",
+      "Thought vs. speech",
+      "Does thinking = speech",
+      "Hirhur k'dibbur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing the ba'al keri's rules for shema and birkat hamazon, which is exactly what the 'Ba'al Keri practice' section's prose describes and analyzes.",
+      "chosen_heading": "Ba'al Keri practice",
+      "current_heading": "Ba'al Keri practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Hirhur k'dibbur",
+    "candidates": [
+      "Rabbi Yehuda disagrees",
+      "Thought vs. speech",
+      "Does thinking = speech",
+      "Hirhur k'dibbur",
+      "Hirhur lav k'dibbur",
+      "Participation purpose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Does thinking = speech",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Ravina's argument that hirhur=dibbur, the objection that the ba'al keri should then speak aloud, and the Sinai answer \u2014 all of which are discussed under candidate 2/3, but candidate 2 ('Does thinking = speech') introduces Ravina's position and candidate 3 ('Hirhur k'dibbur') discusses the objection and Sinai answer, making items 1-3 best fit under candidate 3 where the current placement is.",
+      "second_heading": "Hirhur lav k'dibbur",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Chisda's opposing ruling that hirhur lav kedibbur dami, which is precisely what candidate 4 ('Hirhur lav k'dibbur') discusses.",
+      "current_heading": "Hirhur k'dibbur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Participation purpose",
+    "candidates": [
+      "Hirhur lav k'dibbur",
+      "Participation purpose",
+      "Malchut shamayim focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the exact Q&A sequence \u2014 why does the ba'al keri think shema at all, and why specifically shema rather than another chapter \u2014 that candidate 1's prose explicitly describes and analyzes under the 'participation purpose' heading.",
+      "chosen_heading": "Participation purpose",
+      "current_heading": "Participation purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Malchut shamayim focus",
+    "candidates": [
+      "Malchut shamayim focus",
+      "Benching source",
+      "Torah blessing source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous gemara discussion about why tefilla differs from shema (malchut shamayim) and why birkat hamazon differs from tefilla (d'oraita vs. d'rabbanan), which is precisely what the 'Malchut shamayim focus' prose describes in detail.",
+      "chosen_heading": "Malchut shamayim focus",
+      "current_heading": "Malchut shamayim focus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Torah blessing source",
+    "candidates": [
+      "Benching source",
+      "Torah blessing source",
+      "Kal v'chomer logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Benching source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 derives birkat hamazon from Deuteronomy 8:10, which is precisely what candidate 0 ('Benching source') discusses.",
+      "second_heading": "Torah blessing source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives the blessing over Torah before reading from 'ki shem Hashem ekra', which is precisely what candidate 1 ('Torah blessing source') discusses.",
+      "current_heading": "Torah blessing source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Kal v'chomer logic",
+    "candidates": [
+      "Kal v'chomer logic",
+      "Challenge to logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's kal v'chomer reasoning in both directions, which is exactly what candidate 0's prose discusses and explains in detail.",
+      "chosen_heading": "Kal v'chomer logic",
+      "current_heading": "Kal v'chomer logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Challenge to logic",
+    "candidates": [
+      "Challenge to logic",
+      "Mishna refutes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the refutation of the kal v'chomer arguments (ma lemazon/ma la-Torah) and the tiyuvta from the mishna, and the current heading's prose explicitly discusses both the kal v'chomer challenges and the mishna refutation as part of the same analytical unit.",
+      "chosen_heading": "Challenge to logic",
+      "current_heading": "Challenge to logic",
+      "moved": false
+    }
+  }
+]

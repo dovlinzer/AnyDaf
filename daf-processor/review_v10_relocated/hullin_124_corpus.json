@@ -1,0 +1,521 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Flayed Skin Problem",
+    "candidates": [
+      "Flayed Skin Problem",
+      "Tosafot's Analogy",
+      "Avin's Resolution",
+      "Neck Skin Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yirmiya's objection about flaying an animal for a mat and the measure of grasping, along with Rabbi Avin's resolution, which is precisely what the 'Flayed Skin Problem' prose describes as its content.",
+      "chosen_heading": "Flayed Skin Problem",
+      "current_heading": "Flayed Skin Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Neck Skin Question",
+    "candidates": [
+      "Tosafot's Analogy",
+      "Avin's Resolution",
+      "Neck Skin Question",
+      "Natural Detachment",
+      "Oven Purification",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about the neck-skin mishna (or shel tzavar): Rav Yosef's objection from Rabbi Yochanan ben Nuri's ruling, Abaye's redirect to the Rabbis' view, and Abaye's final resolution that the dispute concerns a shomer prone to detach on its own \u2014 exactly the content described in the 'Neck Skin Question' prose.",
+      "chosen_heading": "Neck Skin Question",
+      "current_heading": "Neck Skin Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Natural Detachment",
+      "Oven Purification",
+      "Rabbi Meir's View",
+      "Preemptive Purification",
+      "Functional Identity",
+      "Breaking Methods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Oven Purification",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 cover the full dispute between Rabbi Meir and the Rabbis about purifying an impure oven and the preemptive prevention of impurity, along with Rava's reframing \u2014 exactly the content described across headings 'Oven Purification', 'Rabbi Meir's View', and 'Preemptive Purification', but the continuous chain of objection-and-resolution from Rabbi Yirmiya through Rava's final restatement all belongs under heading 1 ('Oven Purification') where the mishna is first introduced and the entire discussion is framed.",
+      "second_heading": "Breaking Methods",
+      "second_confidence": "high",
+      "second_reason": "Item 7 opens a new sub-discussion of the mishna's details ('The Master said: divides it into three'), which matches the 'Breaking Methods' heading's prose about examining the mechanics of breaking the tanur.",
+      "current_heading": "Rabbi Meir's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Breaking Methods",
+    "candidates": [
+      "Preemptive Purification",
+      "Functional Identity",
+      "Breaking Methods",
+      "Braita Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the braita from Keilim presenting Rabbi Meir's four-tefachim standard and the Rabbis' qualification for large vs. small ovens \u2014 exactly the contradiction that heading 'Breaking Methods' says the Gemara examines before resolving via the widthwise/lengthwise distinction.",
+      "chosen_heading": "Breaking Methods",
+      "current_heading": "Breaking Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Braita Measurements",
+    "candidates": [
+      "Braita Measurements",
+      "Play Ovens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'how small is kol she-hu?' and answers 'one handbreadth because people make toy ovens one handbreadth tall' \u2014 this is precisely the content described in candidate 0's prose as the Gemara asking the practical minimum of kol she-hu and Rabbi Yannai's school answering tefach, before candidate 1's prose takes over to discuss the implications of the play-oven answer.",
+      "chosen_heading": "Braita Measurements",
+      "current_heading": "Braita Measurements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Play Ovens",
+    "candidates": [
+      "Play Ovens",
+      "Reconciling Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with reconciling the apparent contradiction between two Rabbinic positions on when a broken oven loses its impurity \u2014 the four-handbreadths standard vs. the majority standard \u2014 by distinguishing horizontal cutting from vertical cutting (gistera), which is precisely the synthetic reconciliation described in the 'Reconciling Views' prose.",
+      "chosen_heading": "Reconciling Views",
+      "current_heading": "Play Ovens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Reconciling Views",
+    "candidates": [
+      "Play Ovens",
+      "Reconciling Views",
+      "Leather Retains Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of what 'majority' means for small vs. large ovens and Abaye's resolution distinguishing nine-tefach from seven-tefach ovens, which is precisely what the 'Reconciling Views' prose describes.",
+      "chosen_heading": "Reconciling Views",
+      "current_heading": "Reconciling Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Leather Retains Identity",
+    "candidates": [
+      "Leather Retains Identity",
+      "Leather vs. Cloth",
+      "Intent & Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the lashon acher of Rav Huna followed immediately by Reish Lakish's qualification distinguishing cloth from leather (chashiv), which is precisely what candidate 1 ('Leather vs. Cloth') discusses \u2014 the conceptual shift from physical strength to the significance/importance framing of leather.",
+      "chosen_heading": "Leather vs. Cloth",
+      "current_heading": "Leather Retains Identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Intent & Status",
+    "candidates": [
+      "Leather vs. Cloth",
+      "Intent & Status",
+      "Hair as Shomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the challenge from Rabbi Yo\u1e25anan to Reish Lakish and its resolution, directly corresponding to the prose in 'Intent & Status' which explicitly describes this exact exchange about the tamei leather, the izmel, the five tefachim, and the Gemara's answer about intended use.",
+      "chosen_heading": "Intent & Status",
+      "current_heading": "Intent & Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Hair as Shomer",
+    "candidates": [
+      "Hair as Shomer",
+      "Rabbi Yishmael",
+      "Rabbi Akiva's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah about a hide with an olive-bulk of flesh, touching a strand or hair causing tumah \u2014 exactly what the 'Hair as Shomer' prose describes as the next mishnah being addressed.",
+      "chosen_heading": "Hair as Shomer",
+      "current_heading": "Hair as Shomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rabbi Akiva's Principle",
+    "candidates": [
+      "Rabbi Yishmael",
+      "Rabbi Akiva's Principle",
+      "Bitul from Flaying"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Bitul from Flaying",
+    "candidates": [
+      "Bitul from Flaying",
+      "Extreme Bitul Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Ulla's statement about peletato chayah vs. peletato sakin, which is precisely what the 'Bitul from Flaying' section's prose discusses.",
+      "chosen_heading": "Bitul from Flaying",
+      "current_heading": "Bitul from Flaying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Extreme Bitul Rejected",
+    "candidates": [
+      "Extreme Bitul Rejected",
+      "Rabbi Ami's Reaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Nachman's shocked questioning of Ulla about the tarta and kenafya sizes and his oath that he would not accept it even from Rabbi Yochanan directly, which exactly matches the 'Extreme Bitul Rejected' section's prose description of this exchange.",
+      "chosen_heading": "Extreme Bitul Rejected",
+      "current_heading": "Extreme Bitul Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabbi Ami's Reaction",
+    "candidates": [
+      "Rabbi Ami's Reaction",
+      "Yochanan Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Ami's reaction upon hearing the exchange \u2014 specifically his pointed comment about Rav Nachman's dismissiveness of Rabbi Yochanan's teaching being explained by his social connection to the Nasi's house \u2014 which is precisely what the prose under 'Rabbi Ami's Reaction' describes.",
+      "chosen_heading": "Rabbi Ami's Reaction",
+      "current_heading": "Rabbi Ami's Reaction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Yochanan Clarified",
+    "candidates": [
+      "Yochanan Clarified",
+      "Merudad Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the encounter where Rav Oshaya found Rabbi Ami teaching Rabbi Yo\u1e25anan's statement on the seifa (two half-olive-bulks), followed by the revelation that Ulla had taught it on the reisha, culminating in Rabbi Ami's dramatic declaration \u2014 exactly what the 'Yochanan Clarified' prose describes.",
+      "chosen_heading": "Yochanan Clarified",
+      "current_heading": "Yochanan Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Merudad Solution",
+    "candidates": [
+      "Merudad Solution",
+      "Front vs. Back Touch",
+      "Two Acts Don't Combine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe the arrival of Ravin confirming Rabbi Yochanan's ruling on the reisha and the resolution via Rav Pappa's concept of merudad (spread-thin meat), which is precisely what the 'Merudad Solution' prose discusses.",
+      "chosen_heading": "Merudad Solution",
+      "current_heading": "Merudad Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Two Acts Don't Combine",
+    "candidates": [
+      "Front vs. Back Touch",
+      "Two Acts Don't Combine",
+      "Dosa's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Bar Padda's distinction between touching from behind (outside/skin) versus from the front (inside/meat), which is precisely what candidate 0 'Front vs. Back Touch' describes, not the current placement under 'Two Acts Don't Combine' which is about Rabbi Yochanan's opposing view.",
+      "chosen_heading": "Front vs. Back Touch",
+      "current_heading": "Two Acts Don't Combine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Dosa's Case",
+    "candidates": [
+      "Two Acts Don't Combine",
+      "Dosa's Case",
+      "Tosafot's Challenge"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Tosafot's Challenge",
+    "candidates": [
+      "Tosafot's Challenge",
+      "Splitting Prevention",
+      "Verse Comparison",
+      "Akiva's Deduction",
+      "Touching Meat Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items discuss the relationship between Rabbi Dosa ben Harkinas/Rabbi Yishmael and Rabbi Akiva regarding touching vs. carrying, and whether touching two half-zeisim renders tamei \u2014 exactly the content of 'Touching Meat Question,' which addresses the Gemara's confrontation of Rabbi Akiva's principle with the touching/carrying distinction raised by Bar Padda and Rabbi Yishmael.",
+      "chosen_heading": "Touching Meat Question",
+      "current_heading": "Tosafot's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Touching Meat Question",
+    "candidates": [
+      "Splitting Prevention",
+      "Verse Comparison",
+      "Akiva's Deduction",
+      "Touching Meat Question",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute Rav Ukva bar \u1e24ama's objection based on the baraita about 'their carcass,' which introduces the scriptural juxtaposition of touching and carrying (maga and massa) \u2014 precisely the content described in the 'Verse Comparison' prose, not the 'Touching Meat Question' prose which discusses the subsequent difficulty arising from Bar Padda's distinction.",
+      "chosen_heading": "Verse Comparison",
+      "current_heading": "Touching Meat Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Sealed Marrow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's direct statement refining Rabbi Akiva's principle to require contact-capability from every side, which is exactly what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Sealed Marrow",
+    "candidates": [
+      "Sealed Marrow",
+      "Evasion Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rav Avya's question about the sealed thigh bone and Rabbi Yishmael's principle, which is exactly what the 'Sealed Marrow' prose describes.",
+      "chosen_heading": "Sealed Marrow",
+      "current_heading": "Sealed Marrow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Evasion Story",
+    "candidates": [
+      "Evasion Story",
+      "Nosei Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core of the evasion story \u2014 the raven distraction and Rava's rebuke with Rabba bar Rav Huna's explanation of exhaustion \u2014 which is precisely what the 'Evasion Story' prose describes in detail.",
+      "chosen_heading": "Evasion Story",
+      "current_heading": "Evasion Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Nosei Definition",
+    "candidates": [
+      "Nosei Definition",
+      "Contradiction",
+      "Reconciliation Attempts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Ulla's ruling about two half-olive-bulks on a skewer and the derivation from 'nosei/nissa' \u2014 exactly what the 'Nosei Definition' prose describes.",
+      "chosen_heading": "Nosei Definition",
+      "current_heading": "Nosei Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Reconciliation Attempts",
+    "candidates": [
+      "Contradiction",
+      "Reconciliation Attempts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 Rav Pappa's merudad reconciliation, the Rabbi Akiva challenge and its merudad answer, and the tannaitic dispute analysis \u2014 are exactly the reconciliation attempts described in candidate 1's prose.",
+      "chosen_heading": "Reconciliation Attempts",
+      "current_heading": "Reconciliation Attempts",
+      "moved": false
+    }
+  }
+]

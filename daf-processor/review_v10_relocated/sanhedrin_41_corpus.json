@@ -1,0 +1,237 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Makirim Atem Oto",
+    "candidates": [
+      "Makirim Atem Oto",
+      "Jew or Non-Jew; Idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly covers the baraita about 'makirim atem oto' and the subsequent questions (recognizing the accused, Jew or non-Jew, forewarning, acceptance, hitir atzmo lemitah, toch k'dei dibur), which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Makirim Atem Oto",
+      "current_heading": "Makirim Atem Oto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Jew or Non-Jew; Idolatry",
+    "candidates": [
+      "Jew or Non-Jew; Idolatry",
+      "Ulla: Source for Hatra'ah",
+      "Hatra'ah: Lashes & Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the interrogation of witnesses in an idolatry case \u2014 which deity was worshipped and in what manner \u2014 which matches exactly the prose under 'Jew or Non-Jew; Idolatry' that explains the questions about Pe'or, Markolis, and the four forms of worship.",
+      "chosen_heading": "Jew or Non-Jew; Idolatry",
+      "current_heading": "Jew or Non-Jew; Idolatry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Hatra'ah: Lashes & Death",
+    "candidates": [
+      "Ulla: Source for Hatra'ah",
+      "Hatra'ah: Lashes & Death",
+      "Rava: Hamet Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items form the continuous gemara discussion of sources for hatra'ah extending from lashes to capital cases and the necessity of multiple verses, which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Hatra'ah: Lashes & Death",
+      "current_heading": "Hatra'ah: Lashes & Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rava: Hamet Status",
+    "candidates": [
+      "Rava: Hamet Status",
+      "Rav Chanan: Edim Zomemim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation of *hitir atzmo lemitah* from the verse *yumat hamet*, which is precisely what the prose under 'Rava: Hamet Status' describes.",
+      "chosen_heading": "Rava: Hamet Status",
+      "current_heading": "Rava: Hamet Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Rav Chanan: Edim Zomemim",
+    "candidates": [
+      "Rav Chanan: Edim Zomemim",
+      "R. Yosi: Chaver, No Hatra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening of Rav Chanan's ruling and the immediate Gemara challenge about hatra'ah, which is precisely what heading 0's prose describes as the beginning of the Rav Chanan discussion before it moves to the isha chavera resolution.",
+      "chosen_heading": "Rav Chanan: Edim Zomemim",
+      "current_heading": "Rav Chanan: Edim Zomemim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "R. Yosi: Chaver, No Hatra",
+    "candidates": [
+      "R. Yosi: Chaver, No Hatra",
+      "Chaveira: Adultery Twice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the baraita of Rabbi Yosei son of Rabbi Yehuda about a \u1e25aver not requiring forewarning, which is precisely what section 0 ('R. Yosi: Chaver, No Hatra'') is discussing.",
+      "chosen_heading": "R. Yosi: Chaver, No Hatra",
+      "current_heading": "R. Yosi: Chaver, No Hatra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Chaveira: Adultery Twice",
+    "candidates": [
+      "Chaveira: Adultery Twice",
+      "Rav Chisda: Central Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the 'le'osra' claim, the chavera adultery-twice scenario, and the na'ara hame'urasa question \u2014 exactly the content described in the 'Chaveira: Adultery Twice' prose section.",
+      "chosen_heading": "Chaveira: Adultery Twice",
+      "current_heading": "Chaveira: Adultery Twice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rav Chisda: Central Check",
+    "candidates": [
+      "Rav Chisda: Central Check",
+      "Ben Zakkai: Fig Twigs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav \u1e24isda's ruling on sword vs. ariran and black vs. white garments, the baraita objection resolved by the scarf-strangulation interpretation, and the sandal baraita resolved by the kick-murder interpretation \u2014 are explicitly discussed in the 'Rav Chisda: Central Check' prose, making that the correct heading.",
+      "chosen_heading": "Rav Chisda: Central Check",
+      "current_heading": "Rav Chisda: Central Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Ben Zakkai: Fig Twigs",
+    "candidates": [
+      "Ben Zakkai: Fig Twigs",
+      "Ben Zakkai Identification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion about Ben Zakkai's examination of fig stems \u2014 the Shabbat theory, the murder-weapon theory, and the black/white figs resolution \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Ben Zakkai: Fig Twigs",
+      "current_heading": "Ben Zakkai: Fig Twigs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Ben Zakkai Identification",
+    "candidates": [
+      "Ben Zakkai Identification",
+      "Chakirot vs Bedikot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with the identification of 'Ben Zakkai' in the mishna, whether it could be Rabban Yochanan ben Zakkai, and the resolution that he was a student at the time \u2014 exactly what heading 0 'Ben Zakkai Identification' describes in its prose.",
+      "chosen_heading": "Ben Zakkai Identification",
+      "current_heading": "Ben Zakkai Identification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Chakirot vs Bedikot",
+    "candidates": [
+      "Chakirot vs Bedikot",
+      "Rav Kahana & Rav Safra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the gemara's question about the novelty of 'even two say I do not know' and the dispute between Rav Sheshet and Rava about how to read the mishnah \u2014 exactly the content described in the 'Chakirot vs Bedikot' prose section.",
+      "chosen_heading": "Chakirot vs Bedikot",
+      "current_heading": "Chakirot vs Bedikot",
+      "moved": false
+    }
+  }
+]

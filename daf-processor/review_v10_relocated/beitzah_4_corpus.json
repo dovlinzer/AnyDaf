@@ -1,0 +1,259 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Barrels Debate",
+    "candidates": [
+      "Egg Bitel Challenge",
+      "Rav Pappa: Counted Items",
+      "Pressed Figs Brayta",
+      "Barrels Debate",
+      "Rav Ashi: Yom Tov Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Pappa: Counted Items",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers Rav Pappa's identification of the tanna and his principle about counted items, which matches heading 1 ('Rav Pappa: Counted Items') precisely.",
+      "second_heading": "Barrels Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 present the full litra ketzi'ot brayta with Rabbi Meir/Yehuda's versions of the Rabbi Eliezer/Rabbi Yehoshua dispute and Rav Pappa's clarification of the igul case, which is exactly what heading 3 ('Barrels Debate') describes in its prose.",
+      "current_heading": "Barrels Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Ashi: Yom Tov Issue",
+    "candidates": [
+      "Rav Ashi: Yom Tov Issue",
+      "Rabbi Eliezer Brayta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about safek Yom Tov safek chol and davar she'yesh lo matirin, which is precisely what the 'Rav Ashi: Yom Tov Issue' section's prose discusses in detail.",
+      "chosen_heading": "Rav Ashi: Yom Tov Issue",
+      "current_heading": "Rav Ashi: Yom Tov Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rabbi Eliezer Brayta",
+    "candidates": [
+      "Rabbi Eliezer Brayta",
+      "Hen Sans Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose describes: the baraita attributed to Rabbi Eliezer, the Gemara's question about which case is meant, and Rabbi Zeira's answer \u2014 all of which are discussed in heading 0's prose, while heading 1's prose begins with Abaye's further specification which is not in this passage.",
+      "chosen_heading": "Rabbi Eliezer Brayta",
+      "current_heading": "Rabbi Eliezer Brayta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Hen Sans Purpose",
+    "candidates": [
+      "Hen Sans Purpose",
+      "Guzma Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Abaye's explanation of the 'stam' case (unspecified purchase) and the breira mechanism, which is precisely what the 'Hen Sans Purpose' prose discusses in detail.",
+      "chosen_heading": "Hen Sans Purpose",
+      "current_heading": "Hen Sans Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Guzma Interpretation",
+    "candidates": [
+      "Guzma Interpretation",
+      "Shabbat-Yom Tov Egg",
+      "Kedusha Unity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete Rav Mari guzma argument \u2014 citing the second baraita, analyzing 'klipatah,' resolving that it must be figurative, and concluding that the original phrase is likewise an exaggeration \u2014 which is precisely what the 'Guzma Interpretation' prose describes in detail.",
+      "chosen_heading": "Guzma Interpretation",
+      "current_heading": "Guzma Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Kedusha Unity",
+    "candidates": [
+      "Shabbat-Yom Tov Egg",
+      "Kedusha Unity",
+      "Hachana Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact content described in the 'Kedusha Unity' prose: item 1 raises whether Rav holds it is one kedusha, and item 2 immediately refutes that by citing Rav's own ruling that they are two kedushos \u2014 precisely the sequence the prose describes.",
+      "chosen_heading": "Kedusha Unity",
+      "current_heading": "Kedusha Unity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Hachana Debate",
+    "candidates": [
+      "Hachana Debate",
+      "Rav Adda Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the hachana de-Rabbah dispute \u2014 item 1 states the resolution that Rav and Rabbi Yochanan disagree about hachana de-Rabbah, and item 2 anchors this in the Tannaitic dispute between Beit Shammai and Beit Hillel, exactly as described in the 'Hachana Debate' prose.",
+      "chosen_heading": "Hachana Debate",
+      "current_heading": "Hachana Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Rav Adda Story",
+    "candidates": [
+      "Rav Adda Story",
+      "Rav Pappa Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the host's question about roasting eggs on Yom Tov, Rav Adda's clarification of Rabbi Yo\u1e25anan's limited leniency, and the supporting baraita about muktzah \u2014 are precisely what the 'Rav Adda Story' prose describes, making the current placement correct.",
+      "chosen_heading": "Rav Adda Story",
+      "current_heading": "Rav Adda Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Rav Pappa Story",
+    "candidates": [
+      "Rav Pappa Story",
+      "Rava's Ruling",
+      "Fallen Wood Rule",
+      "Egg vs. Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together tell the complete Rav Pappa story \u2014 the question about eggs from Shabbat before Yom Tov, his deferral due to drunkenness concerns, and his next-day explanation including Rava's ruling \u2014 which is precisely what the 'Rav Pappa Story' prose describes in full.",
+      "chosen_heading": "Rav Pappa Story",
+      "current_heading": "Rav Pappa Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Egg vs. Wood",
+    "candidates": [
+      "Rava's Ruling",
+      "Fallen Wood Rule",
+      "Egg vs. Wood",
+      "Extra Wood Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's ruling about fallen branches and his preemptive distinction from the egg case, which matches exactly the 'Fallen Wood Rule' section's prose about Rabbi Yochanan introducing the fallen-branch prohibition and anticipating the egg objection \u2014 the detailed explanation of the distinction belongs to 'Egg vs. Wood' but the Talmudic text itself covers both the ruling and the initial reasoning, and the opening statement of the ruling is what 'Fallen Wood Rule' describes.",
+      "chosen_heading": "Fallen Wood Rule",
+      "current_heading": "Egg vs. Wood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Extra Wood Solution",
+    "candidates": [
+      "Egg vs. Wood",
+      "Extra Wood Solution",
+      "Bitel Muktzah Query",
+      "Bitel Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Mattana's ruling about adding permitted wood to nullify fallen muktzah branches in an oven, and the Gemara's challenge and answer about stirring prohibited wood \u2014 exactly what the 'Extra Wood Solution' prose describes, including the rov/bitul resolution of the stirring question.",
+      "chosen_heading": "Extra Wood Solution",
+      "current_heading": "Extra Wood Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Bitel Resolution",
+    "candidates": [
+      "Bitel Muktzah Query",
+      "Bitel Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items address the proactive bitul question and Rav Ashi's davar she'yesh lo matirin objection, which is precisely what candidate 1 ('Bitel Resolution') discusses in its prose, including the mikla kali issura answer.",
+      "chosen_heading": "Bitel Resolution",
+      "current_heading": "Bitel Resolution",
+      "moved": false
+    }
+  }
+]

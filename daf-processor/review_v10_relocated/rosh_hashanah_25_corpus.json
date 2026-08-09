@@ -1,0 +1,475 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Morning & Evening",
+    "candidates": [
+      "Morning & Evening",
+      "Impossibility Objection",
+      "Gamliel Accepts",
+      "Seen Then Unseen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Mishna about witnesses seeing the moon in the morning in the east and evening in the west, along with Rabbi Yochanan ben Nuri's objection and Rabban Gamliel's acceptance \u2014 exactly what heading 0 ('Morning & Evening') describes in its prose.",
+      "chosen_heading": "Morning & Evening",
+      "current_heading": "Morning & Evening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Seen Then Unseen",
+    "candidates": [
+      "Impossibility Objection",
+      "Gamliel Accepts",
+      "Seen Then Unseen",
+      "Pregnant Woman",
+      "Retroactive Annulment",
+      "Political Confrontation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the second case where witnesses saw the moon on the thirtieth night but it was not seen the following night, and Rabban Gamliel accepted their testimony \u2014 exactly what the 'Seen Then Unseen' section's prose discusses.",
+      "chosen_heading": "Seen Then Unseen",
+      "current_heading": "Seen Then Unseen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Political Confrontation",
+    "candidates": [
+      "Pregnant Woman",
+      "Retroactive Annulment",
+      "Political Confrontation",
+      "House of Hillel",
+      "Babylon Separation",
+      "Gamliel's Sensitivity",
+      "Geographic Divide",
+      "Akiva Seeks Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Dosa's 'pregnant belly' objection and Rabbi Yehoshua's concession plus Rabban Gamliel's decree \u2014 but the specific Talmudic text quoted begins with Rabbi Dosa's statement, which is the focus of candidate 0 ('Pregnant Woman'), whose prose directly discusses and quotes this exact imagery and argument.",
+      "chosen_heading": "Pregnant Woman",
+      "current_heading": "Political Confrontation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Akiva Seeks Permission",
+    "candidates": [
+      "House of Hillel",
+      "Babylon Separation",
+      "Gamliel's Sensitivity",
+      "Geographic Divide",
+      "Akiva Seeks Permission",
+      "Moadei Declaration",
+      "Yehoshua Consults",
+      "Scope of Authority",
+      "Audit Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva finding Rabbi Yehoshua distressed and offering the verse-based argument that Rabban Gamliel's actions are valid, which matches exactly the prose of 'Akiva Seeks Permission' where the essay discusses Rabbi Akiva approaching his rebbe with deference and presenting the argument that whatever Rabban Gamliel did is legally effective.",
+      "chosen_heading": "Akiva Seeks Permission",
+      "current_heading": "Akiva Seeks Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Audit Argument",
+    "candidates": [
+      "Moadei Declaration",
+      "Yehoshua Consults",
+      "Scope of Authority",
+      "Audit Argument",
+      "Seventy Elders",
+      "Equivalent Courts",
+      "Ramban's Approach",
+      "Lo Bashamayim Hi",
+      "Masechet Horayot",
+      "YK Travel",
+      "Kiss & Dual Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua going to Rabbi Dosa ben Horkinas, which matches the 'Yehoshua Consults' section prose exactly \u2014 that section is specifically about Rabbi Yehoshua going to Rabbi Dosa to ask what he should do, while the current placement ('Audit Argument') is actually the prose explaining the argument's content rather than the narrative moment of the consultation itself.",
+      "chosen_heading": "Yehoshua Consults",
+      "current_heading": "Audit Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Kiss & Dual Role",
+    "candidates": [
+      "Seventy Elders",
+      "Equivalent Courts",
+      "Ramban's Approach",
+      "Lo Bashamayim Hi",
+      "Masechet Horayot",
+      "YK Travel",
+      "Kiss & Dual Role",
+      "Rabbi Chiya Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kiss & Dual Role",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rabbi Yehoshua's journey with staff and money and Rabban Gamliel kissing him and calling him 'my teacher and my student,' which is precisely the content discussed in the 'Kiss & Dual Role' prose section.",
+      "second_heading": "Rabbi Chiya Story",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 introduce a new baraita about the moon's variable path (Rabban Gamliel's family tradition) and Rabbi Yo\u1e25anan's scriptural support for it, which corresponds to the 'Rabbi Chiya Story' section's discussion of the moon's behavior and the astronomical backdrop to sanctification disputes.",
+      "current_heading": "Kiss & Dual Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rabbi Chiya Story",
+    "candidates": [
+      "Rabbi Chiya Story",
+      "Cloud Illusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi \u1e24iyya throwing earth at the moon and Rabbi Yehuda HaNasi sending him to Ein Tav with the coded message 'David Melech Yisrael Chai VeKayam,' which is precisely what the prose under 'Rabbi Chiya Story' discusses in detail.",
+      "chosen_heading": "Rabbi Chiya Story",
+      "current_heading": "Rabbi Chiya Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Cloud Illusion",
+    "candidates": [
+      "Cloud Illusion",
+      "Lunar Minimum",
+      "Precise Calculation",
+      "Chalakim Division",
+      "Funeral Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the cloud illusion incident where the moon appeared on the 29th and the people/court sought to sanctify it \u2014 exactly what heading 0's prose discusses, before Rabban Gamliel's intervention about the lunar minimum is covered under heading 1.",
+      "chosen_heading": "Cloud Illusion",
+      "current_heading": "Cloud Illusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Funeral Statement",
+    "candidates": [
+      "Lunar Minimum",
+      "Precise Calculation",
+      "Chalakim Division",
+      "Funeral Statement",
+      "Atem Emphasis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Gamliel delivering a great eulogy for Ben Zaza's mother to signal that the court had not sanctified the month, which is precisely what the 'Funeral Statement' section's prose discusses in detail.",
+      "chosen_heading": "Funeral Statement",
+      "current_heading": "Funeral Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Atem Emphasis",
+    "candidates": [
+      "Atem Emphasis",
+      "Yehoshua Consoled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete baraita about Rabbi Akiva consoling Rabbi Yehoshua \u2014 the distress, the three-fold otam/atem teaching, and the consolation \u2014 which candidate 0's prose explicitly describes in full detail, including the twelve-month reference, the tarshini framing, the three-fold principle, and the atem argument.",
+      "chosen_heading": "Atem Emphasis",
+      "current_heading": "Atem Emphasis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Yehoshua Consoled",
+    "candidates": [
+      "Yehoshua Consoled",
+      "Verse Citation",
+      "Judge Identities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita discusses why the names of the seventy Elders were not specified, directly referencing figures like Moses, Aaron, Nadav, Avihu, Eldad, and Medad \u2014 this is about the identities of judges/elders, matching the 'Judge Identities' section's prose about identifying named figures in judicial/leadership contexts.",
+      "chosen_heading": "Judge Identities",
+      "current_heading": "Yehoshua Consoled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Judge Identities",
+    "candidates": [
+      "Verse Citation",
+      "Judge Identities",
+      "Lightweight Pairing",
+      "Generation Equality"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Generation Equality",
+    "candidates": [
+      "Lightweight Pairing",
+      "Generation Equality",
+      "Lightweight Power",
+      "Time Absurdity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's explanation of the 'lightweight pairing' \u2014 item 1 introduces the verse equating the three lightweights to Moses/Aaron/Samuel, and item 2 draws the explicit lesson that each lesser figure equals the great figure of his generation, which is precisely what candidate 0's prose describes as *shakal ha-katuv shelosha kallei olam ke-shelosha chamurei olam*.",
+      "chosen_heading": "Lightweight Pairing",
+      "current_heading": "Generation Equality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Time Absurdity",
+    "candidates": [
+      "Lightweight Power",
+      "Time Absurdity",
+      "Your Generation",
+      "Anti-Nostalgia",
+      "Rashi: Self-Blame",
+      "Tosafot: Office",
+      "Reversal Principle",
+      "Legislative vs Interp",
+      "Central Authority",
+      "Reinterpretation",
+      "Public Submission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Deuteronomy verse about going to the judge of one's own days and the Kohelet anti-nostalgia verse together, which matches heading 1 ('Time Absurdity') whose prose explicitly discusses both the absurdity question and the verse's formulation \u2014 headings 2 and 3 split these topics but the Talmudic text presents them as a unified unit under the 'Time Absurdity' section's framing.",
+      "chosen_heading": "Time Absurdity",
+      "current_heading": "Time Absurdity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Public Submission",
+    "candidates": [
+      "Your Generation",
+      "Anti-Nostalgia",
+      "Rashi: Self-Blame",
+      "Tosafot: Office",
+      "Reversal Principle",
+      "Legislative vs Interp",
+      "Central Authority",
+      "Reinterpretation",
+      "Public Submission",
+      "Three Scenarios",
+      "All Israel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items directly contain the baraita about Rabban Gamliel kissing Rabbi Yehoshua and the 'Ashrei ha-dor' statement, plus the Gemara's clarification of the a fortiori inference \u2014 precisely the text that heading 8 ('Public Submission') is written to analyze and discuss.",
+      "chosen_heading": "Public Submission",
+      "current_heading": "Public Submission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "All Israel Case",
+    "candidates": [
+      "Three Scenarios",
+      "All Israel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The '\u05d4\u05d3\u05e8\u05df' formula marks the conclusion of a perek, which corresponds directly to the prose under 'Three Scenarios' that describes the end of the third perek and the opening of the new perek \u2014 not the content under 'All Israel Case' which discusses a specific mishna scenario.",
+      "chosen_heading": "Three Scenarios",
+      "current_heading": "All Israel Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "All Israel Case",
+    "candidates": [
+      "All Israel Case",
+      "Beit Din Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case where both the court and all of Israel saw the moon but failed to declare 'mekudash' before nightfall, which is exactly the 'All Israel Case' scenario discussed in candidate 0's prose.",
+      "chosen_heading": "All Israel Case",
+      "current_heading": "All Israel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Beit Din Alone",
+    "candidates": [
+      "Beit Din Alone",
+      "Three Members",
+      "Individual Powerless",
+      "Seeing > Hearing",
+      "Redundant Case?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'beit din alone' scenario and the 'three members' scenario together in one mishnah text, but the current placement under 'Beit Din Alone' (index 0) is the best fit since that section's prose explicitly discusses the full mishnah text quoted, including both sub-cases, while the subsequent headings (1 and 2) are analytical elaborations of specific clauses that the essay author chose to break out separately.",
+      "chosen_heading": "Beit Din Alone",
+      "current_heading": "Beit Din Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Redundant Case?",
+    "candidates": [
+      "Three Members",
+      "Individual Powerless",
+      "Seeing > Hearing",
+      "Redundant Case?",
+      "Declaration Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of why the mishnah needs to teach the case where both the beit din and all Israel saw the moon, with the answer that one might have thought public knowledge removes the need for formal intercalation \u2014 exactly what the 'Redundant Case?' prose describes.",
+      "chosen_heading": "Redundant Case?",
+      "current_heading": "Redundant Case?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164,
+      165
+    ],
+    "current_heading": "Declaration Required",
+    "candidates": [
+      "Declaration Required",
+      "Dinei Mamonot",
+      "Ki Chok Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of questions and answers about why the mishnah mentions witness interrogation alongside universal observation, culminating in the analogy to dinei mamonot \u2014 exactly the content described in candidate 0's prose about chakirat edim as a separate sub-case and the salka da'atakh about extending the process into the night.",
+      "chosen_heading": "Declaration Required",
+      "current_heading": "Declaration Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Ki Chok Verse",
+    "candidates": [
+      "Dinei Mamonot",
+      "Ki Chok Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the verse-based rejection of the night-conclusion possibility for kiddush hachodesh, which is precisely what the 'Ki Chok Verse' section's prose describes and analyzes.",
+      "chosen_heading": "Ki Chok Verse",
+      "current_heading": "Ki Chok Verse",
+      "moved": false
+    }
+  }
+]

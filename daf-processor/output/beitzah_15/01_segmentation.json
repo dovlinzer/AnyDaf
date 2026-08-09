@@ -54,7 +54,7 @@
           "timestamp": "11:08"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -162,7 +162,7 @@
           "timestamp": "32:46"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -215,7 +215,7 @@
           "timestamp": "38:10"
         }
       ],
-      "sefaria_index": 30,
+      "sefaria_index": 29,
       "matched": true
     },
     {
@@ -529,5 +529,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "21:36",
+  "amud_b_micro_title": "Prohibition/Permission",
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "a"
 }

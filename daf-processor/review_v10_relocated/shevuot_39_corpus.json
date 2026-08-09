@@ -1,0 +1,344 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Oath Model",
+    "candidates": [
+      "Oath Model",
+      "Holy Object Req.",
+      "Rava: No Object",
+      "Rav Pappa: Sefer Torah"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Oath Model",
+      "current_heading": "Oath Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav Pappa: Sefer Torah",
+    "candidates": [
+      "Holy Object Req.",
+      "Rava: No Object",
+      "Rav Pappa: Sefer Torah",
+      "Halakha Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling (no holy object = error) and Rav Pappa's ruling (tefillin instead of sefer torah = error), and candidate 1 'Rava: No Object' is where both statements belong together, since the essay's prose for candidate 1 explicitly describes invoking both rulings as a unit, while candidate 2 'Rav Pappa: Sefer Torah' is meant to discuss only Rav Pappa's ruling separately after the gemara text has already been cited.",
+      "chosen_heading": "Rava: No Object",
+      "current_heading": "Rav Pappa: Sefer Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Halakha Decision",
+    "candidates": [
+      "Rav Pappa: Sefer Torah",
+      "Halakha Decision",
+      "Standing Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the halakhic conclusion ruling in favor of Rava and against Rav Pappa, which is precisely what the 'Halakha Decision' section's prose describes.",
+      "chosen_heading": "Halakha Decision",
+      "current_heading": "Halakha Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Standing Requirement",
+    "candidates": [
+      "Standing Requirement",
+      "Any Language Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses standing vs. sitting requirements and Torah scroll vs. tefillin for oaths, which matches exactly what the 'Standing Requirement' prose describes.",
+      "chosen_heading": "Standing Requirement",
+      "current_heading": "Standing Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Any Language Allowed",
+    "candidates": [
+      "Any Language Allowed",
+      "World's Trembling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly states that an oath imposed by judges may be recited in any language, which matches perfectly with the 'Any Language Allowed' section's prose about shevuat hadayanim being administered in any language.",
+      "chosen_heading": "Any Language Allowed",
+      "current_heading": "Any Language Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "World's Trembling",
+    "candidates": [
+      "World's Trembling",
+      "No Forgiveness",
+      "Family Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the warning given before an oath \u2014 'be aware that the entire world trembled' \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "World's Trembling",
+      "current_heading": "World's Trembling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Family Punishment",
+    "candidates": [
+      "No Forgiveness",
+      "Family Punishment",
+      "Hosea's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'lo yenakkeh' distinction and the family punishment extension, but the family punishment content (mimenu umimishpachto, the besarecha proof text) matches exactly the prose under 'Family Punishment' (index 1), which is also the current placement.",
+      "chosen_heading": "Family Punishment",
+      "current_heading": "Family Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Hosea's Proof",
+    "candidates": [
+      "Hosea's Proof",
+      "Immediate Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the theme that false oaths bring punishment upon the entire world, with the proof from Hosea 4:2 and the clarifying verse from Jeremiah 23:10 \u2014 exactly what the 'Hosea's Proof' prose section describes.",
+      "chosen_heading": "Hosea's Proof",
+      "current_heading": "Hosea's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Immediate Punishment",
+    "candidates": [
+      "Immediate Punishment",
+      "Metaphor of Fire",
+      "Right to Refuse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Immediate Punishment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the core teaching of immediate punishment for false oaths with the Zechariah proof text, matching the 'Immediate Punishment' section's prose exactly.",
+      "second_heading": "Metaphor of Fire",
+      "second_confidence": "high",
+      "second_reason": "Item 2 analyzes the verse's conclusion about consuming timber and stones, which matches the 'Metaphor of Fire' section's prose about things fire cannot consume being destroyed by a false oath.",
+      "current_heading": "Immediate Punishment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Right to Refuse",
+    "candidates": [
+      "Metaphor of Fire",
+      "Right to Refuse",
+      "Distancing from Evil",
+      "Judicial Warning",
+      "No Reservations",
+      "Moses Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers three sequential elements: refusing the oath (eini nishba \u2192 dismissed immediately), the bystanders reciting 'suru na' when oath is accepted, and the court's warning about divine/judicial intent \u2014 this entire baraita excerpt spans headings 1-3, but the current placement under 'Right to Refuse' is where this unified baraita passage begins, and since all items must go under one heading, heading 1 is the best single home as it introduces the passage's opening clause and the subsequent content flows naturally from it.",
+      "chosen_heading": "Right to Refuse",
+      "current_heading": "Right to Refuse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Moses Precedent",
+    "candidates": [
+      "Distancing from Evil",
+      "Judicial Warning",
+      "No Reservations",
+      "Moses Precedent",
+      "Future Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly describes Moses administering an oath to Israel with the declaration that it is according to God's understanding and his own, not theirs, citing the Deuteronomy verse \u2014 precisely what the 'Moses Precedent' section's prose discusses.",
+      "chosen_heading": "Moses Precedent",
+      "current_heading": "Moses Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Future Generations",
+    "candidates": [
+      "Future Generations",
+      "Language Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the expansion of covenantal/mitzvot acceptance to future generations and future mitzvot like megilla reading, which is precisely what the 'Future Generations' prose discusses.",
+      "chosen_heading": "Future Generations",
+      "current_heading": "Future Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Language Clarification",
+    "candidates": [
+      "Language Clarification",
+      "Relative Severity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the meaning of 'af hi bilshonam ne'emra' by reference to the Mishna in Sota listing things recited in any language, which is precisely what the 'Language Clarification' prose describes.",
+      "chosen_heading": "Language Clarification",
+      "current_heading": "Language Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Relative Severity",
+    "candidates": [
+      "Relative Severity",
+      "Why Trembling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's exploration of why the world trembled at lo tisa \u2014 first dismissing the 'given at Sinai' reason, then examining whether it is due to severity \u2014 which is precisely what the 'Relative Severity' prose describes.",
+      "chosen_heading": "Relative Severity",
+      "current_heading": "Relative Severity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Why Trembling",
+    "candidates": [
+      "Why Trembling",
+      "Family vs. Accessory",
+      "Family Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the 'lo yenakkeh' / 'venakkeh' tension and Rabbi Elazar's resolution about repentance, which is exactly what the 'Why Trembling' prose describes.",
+      "chosen_heading": "Why Trembling",
+      "current_heading": "Why Trembling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Family Liability",
+    "candidates": [
+      "Family vs. Accessory",
+      "Family Liability",
+      "Cleanse Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the challenge about family punishment in other sins, Rabbi Shimon's answer about accessories covering for each other, and Rabbi Yehuda HaNasi's resolution distinguishing the family's lesser accessory punishment from the sinner's karet \u2014 which is precisely what candidate 1 ('Family Liability') describes in its prose.",
+      "chosen_heading": "Family Liability",
+      "current_heading": "Family Liability",
+      "moved": false
+    }
+  }
+]

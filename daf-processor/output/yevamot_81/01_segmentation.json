@@ -29,7 +29,7 @@
           "timestamp": "04:52"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -58,7 +58,7 @@
           "timestamp": "10:16"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -87,7 +87,7 @@
           "timestamp": "30:01"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -106,7 +106,7 @@
           "timestamp": "39:08"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -404,5 +404,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "24:18",
+  "amud_b_micro_title": "Kilaim Baraita",
+  "shiur_start_daf": 81,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,292 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Nafela L'Gina",
+    "candidates": [
+      "Nafela L'Gina",
+      "Cushioning Fall",
+      "Eating Exemption",
+      "Hayah Lah Shelo"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cushioning Fall",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's statement about 'benachbeta' (cushioning the fall), which matches the 'Cushioning Fall' prose exactly.",
+      "second_heading": "Eating Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the eating exemption ('aval achla afilu mah she'nehenis') and the 'hayah lah shelo tochal' reasoning, which corresponds to the 'Eating Exemption' prose's discussion of why the owner is exempt even from paying for benefit when the animal ate.",
+      "current_heading": "Nafela L'Gina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Hayah Lah Shelo",
+    "candidates": [
+      "Cushioning Fall",
+      "Eating Exemption",
+      "Hayah Lah Shelo",
+      "One Word Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's immediate rebuttal to the hayah lah shelo tochal reasoning \u2014 pointing out that this logic cannot apply when the animal damages others \u2014 which is precisely what the 'Hayah Lah Shelo' prose describes as the Gemara sensing the inversion of logic.",
+      "chosen_heading": "Hayah Lah Shelo",
+      "current_heading": "Hayah Lah Shelo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "One Word Only",
+    "candidates": [
+      "One Word Only",
+      "Lo Mibaya Achla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the *lo mibaya ka'amar* resolution \u2014 that eating pays mah she'nehenis and the chiddush is benachbeta \u2014 which is precisely what the 'Lo Mibaya Achla' prose describes, not the 'One Word Only' section which deals with the prior difficulty.",
+      "chosen_heading": "Lo Mibaya Achla",
+      "current_heading": "One Word Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Lo Mibaya Achla",
+    "candidates": [
+      "One Word Only",
+      "Lo Mibaya Achla",
+      "Lion Chase Hypothetical",
+      "Mitzvah Exemption",
+      "Mida'ato Distinction",
+      "Loss-Based Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'But why not say that this is indeed the halakha' is the Gemara's pushback against the surprising inference that the owner pays nothing even for benefit received \u2014 precisely the 'leima' challenge that the prose of heading 0 ('One Word Only') describes as the Gemara sensing the absurdity of the stam inference and the 'leima framing sitting somewhat uneasily.'",
+      "chosen_heading": "One Word Only",
+      "current_heading": "Lo Mibaya Achla",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Loss-Based Rationale",
+    "candidates": [
+      "Lion Chase Hypothetical",
+      "Mitzvah Exemption",
+      "Mida'ato Distinction",
+      "Loss-Based Rationale",
+      "Hefsed & Psida",
+      "Slipping in Urine",
+      "Single File Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both distinctions (mi-da'ato and leit lei pesida) as Gemara answers to the lion-chase comparison, but the heading 'Mida'ato Distinction' explicitly covers both rationales as part of the same Gemara answer, whereas the current placement under 'Loss-Based Rationale' only captures the second half of the passage.",
+      "chosen_heading": "Mida'ato Distinction",
+      "current_heading": "Loss-Based Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Single File Requirement",
+    "candidates": [
+      "Hefsed & Psida",
+      "Slipping in Urine",
+      "Single File Requirement",
+      "Cliff Case Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Kahana's opinion (slipped on urine) and Rava's opinion (pushed by fellow animal) as a pair answering 'how did the animal fall,' and the 'Slipping in Urine' section's prose explicitly introduces both opinions together as defining ones, making it the clear home for this passage rather than 'Single File Requirement' which addresses only the downstream implication of Rava's view.",
+      "chosen_heading": "Slipping in Urine",
+      "current_heading": "Single File Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Cliff Case Limitation",
+    "candidates": [
+      "Single File Requirement",
+      "Cliff Case Limitation",
+      "Row-to-Row Movement",
+      "No Time Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rava/Rav Kahana debate about being pushed vs. slipping in urine, and the 'single file' requirement (iba'ei lach le'avorei chada chada), which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Single File Requirement",
+      "current_heading": "Cliff Case Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "No Time Limit",
+    "candidates": [
+      "Row-to-Row Movement",
+      "No Time Limit",
+      "Heightened Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Kahana's view (same garden bed vs. moving between beds) AND Rabbi Yochanan's view (even entire day, until it leaves and returns with knowledge), and candidate 0 ('Row-to-Row Movement') explicitly discusses both opinions together, making it the correct home for the full passage rather than splitting it under 'No Time Limit'.",
+      "chosen_heading": "Row-to-Row Movement",
+      "current_heading": "No Time Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Heightened Liability",
+    "candidates": [
+      "No Time Limit",
+      "Heightened Liability",
+      "Birthing in Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about heightened liability once the animal has learned the route, which is precisely what the 'Heightened Liability' section's prose discusses in detail.",
+      "chosen_heading": "Heightened Liability",
+      "current_heading": "Heightened Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Birthing in Field",
+    "candidates": [
+      "Birthing in Field",
+      "Ubiyeir B'Sdei",
+      "Acheir Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion of Rabbi Yirmeya's dilemma about amniotic fluid damage, which is precisely what the 'Birthing in Field' prose describes.",
+      "chosen_heading": "Birthing in Field",
+      "current_heading": "Birthing in Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Acheir Analysis",
+    "candidates": [
+      "Ubiyeir B'Sdei",
+      "Acheir Analysis",
+      "Seah B'Shishim",
+      "Per-Acre Pricing",
+      "Alternative Standards",
+      "Kav Prohibitions",
+      "Fair Middle Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a single continuous chain of question-and-answer deriving the assessment standard from 'ubiyeir bisde a\u1e25er,' which is precisely what heading 1 ('Acheir Analysis') describes \u2014 the challenge that the phrase excludes public domain, the response about 'bisdei chaveiro' vs 'bisde a\u1e25er,' and the final 'tarti' conclusion drawing two lessons from the two verses.",
+      "chosen_heading": "Acheir Analysis",
+      "current_heading": "Acheir Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Fair Middle Ground",
+    "candidates": [
+      "Seah B'Shishim",
+      "Per-Acre Pricing",
+      "Alternative Standards",
+      "Kav Prohibitions",
+      "Fair Middle Ground",
+      "Palm Tree Case",
+      "Rav Nachman Position",
+      "Rava Challenge",
+      "Vineyard Baraita",
+      "Vineyard Baraita",
+      "Unripe Fruits",
+      "Maturity Standard",
+      "Shishim Applies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 14 items form a continuous discussion about how to appraise damage using the shishim (sixty-fold) standard \u2014 starting with Rabbi Yosei bar \u1e24anina's seah b'shishim se'in, through the baraita challenges, Rav Pappa's and Rav Huna bar Manoa\u1e25's clarifications, the palm tree case, and Abaye's argument that shishim applies equally to personal damage \u2014 all of which belongs under the 'Seah B'Shishim' heading that introduces this operative standard.",
+      "chosen_heading": "Seah B'Shishim",
+      "current_heading": "Fair Middle Ground",
+      "moved": true
+    }
+  }
+]

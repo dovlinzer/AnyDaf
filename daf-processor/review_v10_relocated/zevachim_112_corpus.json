@@ -1,0 +1,426 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Chatat Blood Divided",
+    "candidates": [
+      "Chatat Blood Divided",
+      "Rabbi Nechemya Position",
+      "Reisha vs Seifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage discusses shechitat ha'of bachutz and Rabbi Shimon's liability rules from the Hashochet Veha'aleh chapter, which candidate 0 explicitly names as its topic, even though the prose there focuses on a chatat blood case that follows this mishnah.",
+      "chosen_heading": "Chatat Blood Divided",
+      "current_heading": "Chatat Blood Divided",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Reisha vs Seifa",
+    "candidates": [
+      "Rabbi Nechemya Position",
+      "Reisha vs Seifa",
+      "Two Animals Designated"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 10,
+      "split2": 14,
+      "first_heading": "Reisha vs Seifa",
+      "first_confidence": "low",
+      "first_reason": "Segment 1 discusses Rabbi Shimon's position and what he refers to (reisha vs seifa), but none of the three candidate headings directly address Rabbi Shimon's rule; heading 1 'Reisha vs Seifa' is the closest match since it deals with the structural distinction between the first and latter clauses of the mishna, which is exactly what Segment 1 analyzes.",
+      "second_heading": "Two Animals Designated",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the mishna discussing blood collected in one or two cups, slaughter inside/outside, and the analogy of two designated sin-offering animals, which matches heading 2 'Two Animals Designated' precisely.",
+      "third_heading": "Rabbi Nechemya Position",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara discussing Rabbi Nechemya's position on remainder blood offered outside, then raising the problem from the seifa, and resolving it via the first tanna of Rabbi Elazar son of Rabbi Shimon, which matches exactly the prose of heading 0 'Rabbi Nechemya Position' and heading 1 'Reisha vs Seifa' combined \u2014 but heading 0 opens with the Rabbi Nechemya proposal and heading 1 covers the seifa problem and resolution, so Segment 3 spans both; since heading 0 introduces Rabbi Nechemya and Segment 3 begins there, and heading 1's prose already describes the seifa resolution, Segment 3 belongs under heading 0 as the Gemara discussion that heading 0 describes.",
+      "current_heading": "Reisha vs Seifa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Two Animals Designated",
+    "candidates": [
+      "Two Animals Designated",
+      "Rebbi's Limitations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover the lema hadavar domeh analogy, the Gemara's question of why it is needed, Rabbi Yehuda HaNasi's ruling about avudah beshas hafrasha, the distinction between two chatat animals designated as a guarantee versus a replacement, and Rav Huna's ruling about an asham consigned to grazing \u2014 exactly the content described in the 'Two Animals Designated' prose.",
+      "chosen_heading": "Two Animals Designated",
+      "current_heading": "Two Animals Designated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rebbi's Limitations",
+    "candidates": [
+      "Rebbi's Limitations",
+      "Parah & Seir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about male vs. female animals and Rav \u1e24iyya from Yostiniyya's limitation to seir nasi, which is precisely what the 'Rebbi's Limitations' prose describes.",
+      "chosen_heading": "Rebbi's Limitations",
+      "current_heading": "Rebbi's Limitations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Parah & Seir",
+    "candidates": [
+      "Parah & Seir",
+      "Inherently Disqualified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mishnah about the red heifer burned outside its pit and the scapegoat sacrificed outside, which is precisely what the 'Parah & Seir' section prose discusses.",
+      "chosen_heading": "Parah & Seir",
+      "current_heading": "Parah & Seir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Inherently Disqualified",
+    "candidates": [
+      "Inherently Disqualified",
+      "Rabbi Shimon Lo Ta'aseh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon Lo Ta'aseh",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a scriptural derivation closing a prior topic (the 'not fit to come to the Tent of Meeting' principle), but item 2 begins the new Mishnah cataloging inherently disqualified animals (rove'ah, nirba'at, muktzeh, etc.) which matches heading 0's prose exactly, and item 3 is the scriptural basis for that same Mishnah.",
+      "second_heading": "Inherently Disqualified",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 together form the Mishnah on inherently disqualified animals and its scriptural source (lifnei mishkan Hashem), which is precisely what heading 0's prose describes.",
+      "current_heading": "Inherently Disqualified",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Rabbi Shimon Lo Ta'aseh",
+    "candidates": [
+      "Rabbi Shimon Lo Ta'aseh",
+      "Age Disqualifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the mishnah about blemished animals (ba'alei mumim) with the tanna kamma's ruling and Rabbi Shimon's distinction, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rabbi Shimon Lo Ta'aseh",
+      "current_heading": "Rabbi Shimon Lo Ta'aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Age Disqualifications",
+    "candidates": [
+      "Age Disqualifications",
+      "Future Disqualifications",
+      "Shimon's Principle",
+      "Chachamim Response",
+      "Mechussarei Kapparah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Age Disqualifications",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses turtledoves and pigeons whose time has not arrived or has passed, which is precisely what the 'Age Disqualifications' prose describes including Rabbi Shimon's distinction between the two bird categories.",
+      "second_heading": "Future Disqualifications",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new case of 'oto ve'et beno' and 'mechusar zeman' with Rabbi Shimon's principle and the Rabbis' counter-position, which the 'Future Disqualifications' prose explicitly addresses as the mishnah extending Rabbi Shimon's principle to these two further cases.",
+      "current_heading": "Age Disqualifications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Mechussarei Kapparah",
+    "candidates": [
+      "Future Disqualifications",
+      "Shimon's Principle",
+      "Chachamim Response",
+      "Mechussarei Kapparah",
+      "Chatat/Asham Exempt",
+      "Olah/Shelamim Liable",
+      "Burning Meat",
+      "Permitted Leftovers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Future Disqualifications",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the general concept of mechusar zeman and its two categories (intrinsic and owner-related), which belongs under 'Future Disqualifications' where the mishnah's extension to mechusar zeman is discussed.",
+      "second_heading": "Mechussarei Kapparah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 enumerates the four mechussarei kapparah cases (zav, zavah, yoledet, metzora) and their liability distinctions, which is precisely what the 'Mechussarei Kapparah' prose section describes.",
+      "current_heading": "Mechussarei Kapparah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Permitted Leftovers",
+    "candidates": [
+      "Chatat/Asham Exempt",
+      "Olah/Shelamim Liable",
+      "Burning Meat",
+      "Permitted Leftovers",
+      "Minor Avodot",
+      "Priestly Acts",
+      "Lesser Avodot Rationale"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Burning Meat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 lists meat of sin offerings, guilt offerings, and other sacrificial foods (omer surplus, two loaves, shewbread, meal offering remainders) that are exempt because they are eaten rather than sacrificed on the altar \u2014 matching the 'Burning Meat' prose which discusses exactly this category of korban meat designated for consumption rather than the mizbe'ach.",
+      "second_heading": "Minor Avodot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 lists the preparatory acts (pouring oil, breaking, mixing, salting, waving, bringing forward, arranging the table, tending lamps, removing a handful, collecting blood) for which one is patur \u2014 matching the 'Minor Avodot' prose which enumerates precisely these same preparatory rites of the minchah and other offerings.",
+      "current_heading": "Permitted Leftovers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Lesser Avodot Rationale",
+    "candidates": [
+      "Minor Avodot",
+      "Priestly Acts",
+      "Lesser Avodot Rationale",
+      "Pre-Mishkan Period",
+      "Mishkan Established",
+      "Gilgal Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the four prohibitions (zarut, tumah, mechusar bgadim, rechutz yadayim ve-raglayim) that do not apply to lesser avodot, which is precisely what the 'Lesser Avodot Rationale' section's prose discusses and explains.",
+      "chosen_heading": "Lesser Avodot Rationale",
+      "current_heading": "Lesser Avodot Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Gilgal Period",
+    "candidates": [
+      "Pre-Mishkan Period",
+      "Mishkan Established",
+      "Gilgal Period",
+      "Shiloh Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full sequence from pre-Mishkan through Gilgal, but the mishnah text as a unit is introduced and anchored in the 'Mishkan Established' section's prose, which quotes and explains the key phrases about the Mishkan being erected, the transfer to kohanim, kodshei kodashim within the curtains, and kodashim kalim throughout the camp \u2014 all of which appear in this mishnah passage, whereas the 'Gilgal Period' prose treats only the Gilgal portion as a continuation.",
+      "chosen_heading": "Mishkan Established",
+      "current_heading": "Gilgal Period",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Shiloh Period",
+    "candidates": [
+      "Gilgal Period",
+      "Shiloh Period",
+      "Nov & Givon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the Shiloh period: prohibition of private altars, stone walls with curtains above, identification as 'menuchah,' and the rules for eating kodshei kodashim within the curtains and kodashim kalim bekhol ha-ro'eh \u2014 all matching the Shiloh Period prose exactly.",
+      "chosen_heading": "Shiloh Period",
+      "current_heading": "Shiloh Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Nov & Givon",
+    "candidates": [
+      "Nov & Givon",
+      "Jerusalem Final",
+      "Both During Issur",
+      "Sanctify During Perm"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nov & Givon",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the Nov/Gibeon period with bamot permitted and kodshei kodashim eaten within the curtains, matching exactly the 'Nov & Givon' section prose.",
+      "second_heading": "Jerusalem Final",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the arrival at Jerusalem, permanent prohibition of bamot, and the nachalah characterization, matching exactly the 'Jerusalem Final' section prose.",
+      "current_heading": "Nov & Givon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Sanctify During Perm",
+    "candidates": [
+      "Jerusalem Final",
+      "Both During Issur",
+      "Sanctify During Perm",
+      "Sanctify During Issur",
+      "Mishkan Required",
+      "Individual Permitted",
+      "Smicha & Direction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Both During Issur",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the three cases of sacrifices consecrated/offered during periods of issur/hetter bamot, matching headings 'Both During Issur' (item 1), 'Sanctify During Perm' (item 2's second case), and 'Sanctify During Issur' (item 2's third case) \u2014 but since all three cases are in one continuous mishnah, they belong under heading 1 ('Both During Issur') which introduces the entire series of cases.",
+      "second_heading": "Mishkan Required",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins a new mishnah listing which sacrifices must be brought specifically at the Mishkan, matching heading 4 ('Mishkan Required') whose prose explicitly describes 'Elu kodashim krevin ba-Mishkan' and the distinction between communal and individual offerings.",
+      "current_heading": "Sanctify During Perm",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Smicha & Direction",
+    "candidates": [
+      "Sanctify During Issur",
+      "Mishkan Required",
+      "Individual Permitted",
+      "Smicha & Direction",
+      "Blood & Waving",
+      "Rabbi Yehuda Mincha",
+      "No Priestly Items",
+      "No Mizbe'ach Division",
+      "Time & Notar Equal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Smicha & Direction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers smicha and shechitat tzafon, which is precisely what heading 3 ('Smicha & Direction') discusses.",
+      "second_heading": "Blood & Waving",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers matan saviv, tenufah, hagashah, and Rabbi Yehuda's additions, which maps directly to heading 4 ('Blood & Waving') and its discussion of those exact elements.",
+      "current_heading": "Smicha & Direction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Time & Notar Equal",
+    "candidates": [
+      "Blood & Waving",
+      "Rabbi Yehuda Mincha",
+      "No Priestly Items",
+      "No Mizbe'ach Division",
+      "Time & Notar Equal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the equal application of piggul (time-based intent), notar, and tumah at both private and public altars, which is precisely what the 'Time & Notar Equal' section's prose describes.",
+      "chosen_heading": "Time & Notar Equal",
+      "current_heading": "Time & Notar Equal",
+      "moved": false
+    }
+  }
+]

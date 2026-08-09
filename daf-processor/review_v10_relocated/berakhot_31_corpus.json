@@ -1,0 +1,422 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Beit Midrash Prayer",
+    "candidates": [
+      "Havdalah Ruling",
+      "Missed Blessings",
+      "Musaf Obligation",
+      "Beit Midrash Prayer",
+      "Standing with Seriousness",
+      "Ancient Pious Ones",
+      "No Interruption",
+      "Chana's Anguish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage derives halakhot from Hannah's prayer (kavanah, lip movement, silent voice, drunk prohibition), directly continuing the Gemara's discussion of Chana as the paradigm for proper prayer disposition, which is precisely what the 'Chana's Anguish' section introduces.",
+      "chosen_heading": "Chana's Anguish",
+      "current_heading": "Beit Midrash Prayer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Chana's Anguish",
+    "candidates": [
+      "Standing with Seriousness",
+      "Ancient Pious Ones",
+      "No Interruption",
+      "Chana's Anguish",
+      "Fear & Awe",
+      "Reinterpretation Behadrat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items are a continuous gemara discussion of Hannah's prayer (I Samuel 1:14-17), deriving halakhic principles from Eli's rebuke and Hannah's responses \u2014 directly related to Chana as the paradigm for prayer, which is exactly what the 'Chana's Anguish' section's prose discusses.",
+      "chosen_heading": "Chana's Anguish",
+      "current_heading": "Chana's Anguish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Reinterpretation Behadrat",
+    "candidates": [
+      "Fear & Awe",
+      "Reinterpretation Behadrat",
+      "Proper Appearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss Hannah's prayer and her use of the name 'Lord of Hosts,' including the parable about asking from a great feast \u2014 content that fits the 'Proper Appearance' section's closing reference to Chana's anguish as one of the gemara's derivations, and is clearly misplaced under 'Reinterpretation Behadrat' which deals with the wordplay on behadrat/becherdat.",
+      "chosen_heading": "Proper Appearance",
+      "current_heading": "Reinterpretation Behadrat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Proper Appearance",
+    "candidates": [
+      "Reinterpretation Behadrat",
+      "Proper Appearance",
+      "Prayer as Avodah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage about Hannah's double-language plea to God fits best under 'Proper Appearance,' which explicitly references Chana's anguish as part of the gemara's exploration of koved rosh, and the current placement is consistent with the prose's mention of 'moving from Chana's anguish' as one of the derivations discussed.",
+      "chosen_heading": "Proper Appearance",
+      "current_heading": "Proper Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Prayer as Avodah",
+    "candidates": [
+      "Prayer as Avodah",
+      "Father & King"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Hannah threatening to seclude herself to invoke the sota procedure is about her boldly negotiating with God as both Father and King \u2014 leveraging the Torah's promise of conception for an innocent sota woman \u2014 which directly illustrates the intimate-yet-demanding relationship captured in the 'Father & King' prose's discussion of avinu malkenu tension.",
+      "chosen_heading": "Father & King",
+      "current_heading": "Prayer as Avodah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Father & King",
+    "candidates": [
+      "Prayer as Avodah",
+      "Father & King",
+      "Awe Tempers Joy",
+      "Abaye's Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage discusses the dispute between Rabbi Yishmael and Rabbi Akiva over the interpretation of 'she shall conceive' in the context of the sotah, and Hannah's double language \u2014 this content about childbirth and Hannah's prayer connects more naturally to the 'Awe Tempers Joy' section which discusses the verse and Hannah's rejoicing, rather than 'Father & King' where it currently sits, though the fit is imperfect across all candidates.",
+      "chosen_heading": "Awe Tempers Joy",
+      "current_heading": "Father & King",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Abaye's Rebuke",
+    "candidates": [
+      "Awe Tempers Joy",
+      "Abaye's Rebuke",
+      "Tefillin Reminder",
+      "Anguish Model",
+      "Breaking Glass",
+      "Rav Ashi's Practice",
+      "Mortality Song",
+      "No Excessive Laughter",
+      "Reish Lakish Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "low",
+      "reason": "The passage discusses Hannah's prayer and the meaning of 'offspring of men,' which does not clearly match any of the candidate headings; the current placement under 'Abaye's Rebuke' is not a good fit, but none of the candidates directly address Hannah's prayer \u2014 the closest thematic connection might be to laughter/joy discussions, but confidence is low and the current placement is incorrect, so defaulting to the least-bad option nearest in the essay flow.",
+      "chosen_heading": "No Excessive Laughter",
+      "current_heading": "Abaye's Rebuke",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Reish Lakish Stringency",
+    "candidates": [
+      "Tefillin Reminder",
+      "Anguish Model",
+      "Breaking Glass",
+      "Rav Ashi's Practice",
+      "Mortality Song",
+      "No Excessive Laughter",
+      "Reish Lakish Stringency",
+      "Not During Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Rav Dimi's statement about Hannah's prayer for an inconspicuous son (neither too tall nor too short, neither too smart nor too stupid) is about avoiding extremes/conspicuousness, which fits under 'No Excessive Laughter' where Rabbi Yochanan's ruling about not filling one's mouth with laughter is discussed \u2014 Rav Dimi's teaching illustrates the same principle of avoiding excess and standing out, and this passage typically appears in the Gemara immediately in that context, not under the Reish Lakish stringency which comes afterward.",
+      "chosen_heading": "No Excessive Laughter",
+      "current_heading": "Reish Lakish Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Not During Judgment",
+    "candidates": [
+      "Reish Lakish Stringency",
+      "Not During Judgment",
+      "Halacha Pesuka",
+      "Niddah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Both items derive halachot from Hannah's prayer narrative (forbidden to sit within four cubits of one praying; Samuel taught halacha before his teacher), which fits better under the 'Not During Judgment' section discussing the proper mindset and conduct surrounding tefillah, though neither candidate is a perfect match \u2014 the current placement is retained as the closest available option.",
+      "chosen_heading": "Not During Judgment",
+      "current_heading": "Not During Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Niddah Example",
+    "candidates": [
+      "Halacha Pesuka",
+      "Niddah Example",
+      "Grain Tithe Example",
+      "Sacrifice Blood Example",
+      "Two Approaches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items depict the story of young Samuel ruling in front of Eli and Hannah's intervention \u2014 this is the narrative about Chana as a model of prayer that candidate 4's prose explicitly identifies as the central concern of the perek, culminating in the mention of Chana.",
+      "chosen_heading": "Two Approaches",
+      "current_heading": "Niddah Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Two Approaches",
+    "candidates": [
+      "Grain Tithe Example",
+      "Sacrifice Blood Example",
+      "Two Approaches",
+      "Framing Service"
+    ],
+    "result": {
+      "best_index": 2,
+      "action": "single",
+      "chosen_heading": "Two Approaches",
+      "current_heading": "Two Approaches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Framing Service",
+    "candidates": [
+      "Framing Service",
+      "Negative States List",
+      "Simcha Shel Mitzvah",
+      "Rashi's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage about Hannah speaking impertinently 'onto' (al) rather than 'to' (el) the Lord is directly discussed in the prose of 'Rashi's Reading,' which explicitly references the aggadic tradition of speaking directly and boldly to God, the phonological principle of reading aleph as ayin, and the legitimacy of pressing one's case before God \u2014 all of which this Hannah passage exemplifies and supports.",
+      "chosen_heading": "Rashi's Reading",
+      "current_heading": "Framing Service",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Rashi's Reading",
+    "candidates": [
+      "Negative States List",
+      "Simcha Shel Mitzvah",
+      "Rashi's Reading",
+      "Parting from Friends",
+      "Devar Torah Custom",
+      "Heart to Heaven",
+      "Rabbi Akiva's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the material described in candidate 2's prose: Elijah and Moses speaking impertinently toward God, the school of Rabbi Eliezer ben Yaakov's aleph/ayin hermeneutic, the school of Rabbi Yannai's Di Zahav/Dai Zahav interpretation of Moses blaming Israel's wealth for the Golden Calf, and God ultimately conceding to Moses \u2014 all of which are explicitly discussed in Rashi's Reading prose.",
+      "chosen_heading": "Rashi's Reading",
+      "current_heading": "Rashi's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Rabbi Akiva's Practice",
+    "candidates": [
+      "Parting from Friends",
+      "Devar Torah Custom",
+      "Heart to Heaven",
+      "Rabbi Akiva's Practice",
+      "Communal vs. Private",
+      "Windows in Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers Moses's intercession after the Golden Calf (descending from greatness, grabbing God by the garment, the three-legged chair argument, and the multiple interpretations of vay\u1e25al), which is precisely the content that candidate 3's prose explicitly discusses and cites as illustrative of prayer as active engagement rather than passive petition.",
+      "chosen_heading": "Rabbi Akiva's Practice",
+      "current_heading": "Rabbi Akiva's Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Windows in Prayer",
+    "candidates": [
+      "Communal vs. Private",
+      "Windows in Prayer",
+      "Three Times Daily"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Moses invoking God's oath sworn by His own name (bach) and Rabbi Elazar's explanation of its eternal validity is explicitly discussed in the 'Windows in Prayer' section's prose, which directly addresses this midrashic elaboration on Moses's intercession and the significance of God swearing by His own name.",
+      "chosen_heading": "Windows in Prayer",
+      "current_heading": "Windows in Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153,
+      154
+    ],
+    "current_heading": "Three Times Daily",
+    "candidates": [
+      "Three Times Daily",
+      "Toward Jerusalem",
+      "Silent Prayer",
+      "Personal Requests"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Three Times Daily",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the grammatical anomaly in Moses's prayer (asher amarti) and the dispute between Rabbi Elazar and Rabbi Shmuel bar Na\u1e25mani about 'words of the student vs. master,' which is precisely what the 'Three Times Daily' prose describes in detail.",
+      "second_heading": "Personal Requests",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-4 shift to an entirely new verse and topic \u2014 the feminine noun yekholet in Numbers 14:16 and Moses's argument about what the nations will say about God's strength \u2014 which is a separate Moshe prayer discussed in the 'Personal Requests' section's broader context of concluding the sugya, though none of the candidate prose sections explicitly mentions this content.",
+      "current_heading": "Three Times Daily",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162,
+      163,
+      164,
+      165
+    ],
+    "current_heading": "Personal Requests",
+    "candidates": [
+      "Toward Jerusalem",
+      "Silent Prayer",
+      "Personal Requests"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Toward Jerusalem",
+      "first_confidence": "low",
+      "first_reason": "Items 1-3 discuss God conceding to Moses regarding forgiveness of Israel (Numbers 14), which doesn't match any candidate prose well, but the closest thematic hook is absent \u2014 these items don't belong under 'Personal Requests' which is about praise before petition.",
+      "second_heading": "Personal Requests",
+      "second_confidence": "high",
+      "second_reason": "Item 4 (Rabbi Simlai's teaching that one should first offer praise then make personal requests, derived from Moses' prayer in Deuteronomy 3) is precisely what the 'Personal Requests' prose describes \u2014 praise before petition, derived from Moses, with the specific verses cited matching exactly.",
+      "current_heading": "Personal Requests",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Waiving Ona'ah Rights",
+    "candidates": [
+      "Waiving Ona'ah Rights",
+      "Rav vs. Shmuel",
+      "Rabbi Meir vs. Yehudah",
+      "Rav: Knowledge Required",
+      "Shmuel: Conditional Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly articulates the 'mi yada d'machil' argument \u2014 that the buyer doesn't know what he's waiving \u2014 which is precisely the content described in the 'Rav: Knowledge Required' section's prose.",
+      "chosen_heading": "Rav: Knowledge Required",
+      "current_heading": "Waiving Ona'ah Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Shmuel: Conditional Claim",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Rabbi Meir vs. Yehudah",
+      "Rav: Knowledge Required",
+      "Shmuel: Conditional Claim",
+      "Ein Alai vs. Ein Bo",
+      "Tosafos: Waiver Analysis",
+      "Baraita: Explicit Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's statement that even Rabbi Meir would agree here because in ona'ah no Torah law is definitely being abrogated (only contingently), which matches exactly the prose of 'Shmuel: Conditional Claim' describing his argument that the condition doesn't directly confront Torah's mandate but only triggers contingently.",
+      "chosen_heading": "Shmuel: Conditional Claim",
+      "current_heading": "Shmuel: Conditional Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Baraita: Explicit Terms",
+    "candidates": [
+      "Ein Alai vs. Ein Bo",
+      "Tosafos: Waiver Analysis",
+      "Baraita: Explicit Terms",
+      "Implicit vs. Explicit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ein Alai vs. Ein Bo",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Anan's distinction between 'ein lach alai' vs 'ein bo') is precisely the content discussed in candidate 0's prose about the two formulations and their different legal effects.",
+      "second_heading": "Baraita: Explicit Terms",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 (the baraita challenge, Abaye's resolution attributing Rav to Rabbi Meir and Shmuel to Rabbi Yehuda, and Rava's bistam/mfaresh distinction) are exactly what candidate 2's prose describes in detail.",
+      "current_heading": "Baraita: Explicit Terms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Implicit vs. Explicit",
+    "candidates": [
+      "Implicit vs. Explicit",
+      "Trust Definition",
+      "Consistent Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about explicit disclosure (bistam vs. bimfaresh) and the seller/buyer naming the price disparity explicitly is precisely what the prose under 'Implicit vs. Explicit' discusses in detail.",
+      "chosen_heading": "Implicit vs. Explicit",
+      "current_heading": "Implicit vs. Explicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Consistent Methods",
+    "candidates": [
+      "Trust Definition",
+      "Consistent Methods",
+      "Profit Margins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the rule against mixing trust and market-value methods, which is precisely what the 'Consistent Methods' prose discusses.",
+      "chosen_heading": "Consistent Methods",
+      "current_heading": "Consistent Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Profit Margins",
+    "candidates": [
+      "Profit Margins",
+      "Coin Depreciation",
+      "Tannaim: Coin Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the seller's expenses and personal wages under the trust method, and the prose of 'Profit Margins' explicitly discusses the porter/camel driver/innkeeping costs, the prohibition on charging for personal labor, and Rav Pappa's explanation about the four bonus units \u2014 exactly the content of both Talmudic items.",
+      "chosen_heading": "Profit Margins",
+      "current_heading": "Profit Margins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Tannaim: Coin Standards",
+    "candidates": [
+      "Coin Depreciation",
+      "Tannaim: Coin Standards",
+      "Coins as Vessels",
+      "City vs. Village",
+      "Recognition Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah asking how much a sela may be eroded without triggering ona'ah \u2014 exactly what the 'Coin Depreciation' prose describes as the Mishnah's question \u2014 while the current heading 'Tannaim: Coin Standards' describes the Gemara's analysis of the three opinions, which comes after the Mishnah itself.",
+      "chosen_heading": "Coin Depreciation",
+      "current_heading": "Tannaim: Coin Standards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Recognition Exception",
+    "candidates": [
+      "Coins as Vessels",
+      "City vs. Village",
+      "Recognition Exception",
+      "Coins vs. Wares"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the time window for returning a coin (city vs. village), the twelve-month recognition exception, and the Gemara's opening contradiction \u2014 are precisely the content described in candidate 2's prose, which covers the recognition exception, the taromet language, the maaser sheini permissibility, and the Gemara that follows.",
+      "chosen_heading": "Recognition Exception",
+      "current_heading": "Recognition Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Coins vs. Wares",
+    "candidates": [
+      "Coins vs. Wares",
+      "Abaye: Tolerance Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rav Pappa's resolution explains that the two tannaim (Mishnah and baraita) simply count from opposite directions with no actual halakhic dispute, which directly resolves the tension about differing depreciation thresholds for coins \u2014 the subject of Abaye's discussion about tolerance levels and coin depreciation thresholds, not the coins-vs-wares comparative question in heading 0.",
+      "chosen_heading": "Abaye: Tolerance Levels",
+      "current_heading": "Coins vs. Wares",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Abaye: Tolerance Levels",
+    "candidates": [
+      "Coins vs. Wares",
+      "Abaye: Tolerance Levels",
+      "Rava: Currency Viability",
+      "Ona'ah Threshold",
+      "Different Applications",
+      "Abaye: Context Matters",
+      "Rava: Expertise Factor",
+      "Metal Value Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's central comparative question (mai shna besela/betallit) plus the two answers (Rava attributing the garment Mishnah to Rabbi Shimon, and Abaye's behavioral/folk-saying explanation), which is precisely what heading 0 'Coins vs. Wares' describes in its prose.",
+      "chosen_heading": "Coins vs. Wares",
+      "current_heading": "Abaye: Tolerance Levels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Metal Value Threshold",
+    "candidates": [
+      "Rava: Currency Viability",
+      "Ona'ah Threshold",
+      "Different Applications",
+      "Abaye: Context Matters",
+      "Rava: Expertise Factor",
+      "Metal Value Threshold",
+      "Half-Value Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Tannaitic dispute (Rabbi Meir, Rabbi Yehuda, Rabbi Shimon) over exactly how much depreciation constitutes ona'ah for a sela, which is precisely what the 'Ona'ah Threshold' section's prose discusses \u2014 the differing thresholds by Tannaitic opinion and the contradiction between the Mishnah and baraita on this question.",
+      "chosen_heading": "Ona'ah Threshold",
+      "current_heading": "Metal Value Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Half-Value Rule",
+    "candidates": [
+      "Metal Value Threshold",
+      "Half-Value Rule",
+      "Anti-Fraud Rules",
+      "Destruction Methods",
+      "Abaye vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items deal with the half-value threshold rule (sela\u2192shekel, dinar\u2192rova), Abaye and Rava's clarification that rova means a quarter-shekel (half a dinar), and Rabbi Ami's distinction between dinars originating from a shekel vs. a sela \u2014 all of which are explicitly discussed in the 'Half-Value Rule' prose.",
+      "chosen_heading": "Half-Value Rule",
+      "current_heading": "Half-Value Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Anti-Fraud Rules",
+      "Destruction Methods",
+      "Abaye vs. Rava",
+      "Rova Terminology",
+      "Different Limits",
+      "Piercing Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Different Limits",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is exactly the Abaye/Rava dispute about the issar threshold described in heading 4 ('Different Limits').",
+      "second_heading": "Abaye vs. Rava",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 introduce a new mishna from Kelim and discuss Rav Huna vs. Rabbi Ami on erosion thresholds for coin-weights, matching the 'Abaye vs. Rava' section's description of Rav Huna, the fire-coin objection, and the intermediate-range destruction debate.",
+      "current_heading": "Abaye vs. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Piercing Method",
+    "candidates": [
+      "Rova Terminology",
+      "Different Limits",
+      "Piercing Method",
+      "Middat Chasidus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the contradiction and its resolution regarding perforating a coin in the middle vs. from the side, which is precisely what the 'Piercing Method' prose describes.",
+      "chosen_heading": "Piercing Method",
+      "current_heading": "Piercing Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Middat Chasidus",
+    "candidates": [
+      "Middat Chasidus",
+      "Moral vs. Legal",
+      "Upset But No Claim"
+    ],
+    "result": null
+  }
+]

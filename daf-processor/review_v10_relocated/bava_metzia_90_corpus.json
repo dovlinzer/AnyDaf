@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Terumah/Ma'aser Threshing",
+    "candidates": [
+      "Terumah/Ma'aser Threshing",
+      "Maris Ayin Solution",
+      "Rabbi Shimon ben Yochai",
+      "Conflicting Braisas"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terumah/Ma'aser Threshing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about cows treading on produce (parot hameraksot), which candidate 0's prose explicitly discusses as the opening of the sugya.",
+      "second_heading": "Maris Ayin Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the maris ayin remedy (hanging grain in a basket) and Rabbi Shimon ben Yochai's vetch alternative, which corresponds directly to candidate 1's prose about the maris ayin solution \u2014 candidate 2 covers Rabbi Shimon ben Yochai's statement separately, but item 2 contains both the main ruling and RSbY together as one baraita unit, and candidate 1's prose already incorporates the full baraita text including RSbY as a lead-in to candidate 2's analysis.",
+      "current_heading": "Terumah/Ma'aser Threshing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Conflicting Braisas",
+    "candidates": [
+      "Maris Ayin Solution",
+      "Rabbi Shimon ben Yochai",
+      "Conflicting Braisas",
+      "Terumah vs. Gidulei",
+      "Ma'aser Rishon/Sheni",
+      "Mammon Gavoh Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Conflicting Braisas",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the contradicting baraitot and work through the teruma/gidulei teruma resolution and the failed gidulei ma'aser parallel \u2014 exactly what the 'Conflicting Braisas' and 'Terumah vs. Gidulei' and early 'Ma'aser Rishon/Sheni' prose describes, but the current heading 'Conflicting Braisas' prose actually covers all three items in its detailed discussion.",
+      "second_heading": "Ma'aser Rishon/Sheni",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents the two resolutions for the ma'aser contradiction (ma'aser rishon vs. sheini, and Rabbi Meir vs. Rabbi Yehuda), which is precisely what the 'Ma'aser Rishon/Sheni' section's prose discusses.",
+      "current_heading": "Conflicting Braisas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Mammon Gavoh Debate",
+    "candidates": [
+      "Terumah vs. Gidulei",
+      "Ma'aser Rishon/Sheni",
+      "Mammon Gavoh Debate",
+      "Inside Jerusalem Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the Rabbi Meir / Rabbi Yehuda dispute over ma'aser sheini as mamon gavoha vs. mamon hedyot, and the threshold question of how tithe status attaches before gemar melachah (separation on the stalks) \u2014 exactly what the 'Mammon Gavoh Debate' prose discusses.",
+      "chosen_heading": "Mammon Gavoh Debate",
+      "current_heading": "Mammon Gavoh Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Inside Jerusalem Walls",
+    "candidates": [
+      "Inside Jerusalem Walls",
+      "Demai Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the requirement to bring second tithe within Jerusalem's wall and the resolution involving threshing inside the wall of Beit Pagi, which is precisely what the 'Inside Jerusalem Walls' section prose describes.",
+      "chosen_heading": "Inside Jerusalem Walls",
+      "current_heading": "Inside Jerusalem Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Demai Status",
+    "candidates": [
+      "Demai Status",
+      "Eating Causes Harm",
+      "Benefit vs. Distress",
+      "Animal Welfare Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Demai Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the demai resolution for the teruma/ma'aser contradictions, exactly matching the 'Demai Status' prose which walks through the demai distinction for ma'aser and teruma of ma'aser.",
+      "second_heading": "Eating Causes Harm",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces an entirely new scenario \u2014 an animal eating while experiencing diarrhea \u2014 posed as a dilemma to Rav Sheshet, which matches the 'Eating Causes Harm' prose perfectly.",
+      "current_heading": "Demai Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Animal Welfare Principle",
+    "candidates": [
+      "Eating Causes Harm",
+      "Benefit vs. Distress",
+      "Animal Welfare Principle",
+      "Tell Non-Jew Question",
+      "Amira L'Nokhri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's citation of Rabbi Shimon ben Yo\u1e25ai's baraita about vetches being best for the animal, and the inference that the prohibition is grounded in what is beneficial for the animal \u2014 which is precisely what the 'Animal Welfare Principle' prose describes.",
+      "chosen_heading": "Animal Welfare Principle",
+      "current_heading": "Animal Welfare Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Amira L'Nokhri",
+    "candidates": [
+      "Tell Non-Jew Question",
+      "Amira L'Nokhri",
+      "Non-Jew Using Jew Cow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma about whether amira l'nokhri applies only to Shabbat (issur sekila) or also to a simple lav like muzzling, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Amira L'Nokhri",
+      "current_heading": "Amira L'Nokhri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Non-Jew Using Jew Cow",
+    "candidates": [
+      "Non-Jew Using Jew Cow",
+      "Bull Castration Trick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a gentile threshing with a Jew's cow and the gemara's analysis of whether this implies a rabbinic prohibition, which matches exactly the prose under 'Non-Jew Using Jew Cow'.",
+      "chosen_heading": "Non-Jew Using Jew Cow",
+      "current_heading": "Non-Jew Using Jew Cow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Bull Castration Trick",
+    "candidates": [
+      "Bull Castration Trick",
+      "Rabbi Chidka Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the halakhic inquiry sent to Shmuel's father about gentiles stealing and castrating oxen, which is precisely what the 'Bull Castration Trick' prose describes in detail.",
+      "chosen_heading": "Bull Castration Trick",
+      "current_heading": "Bull Castration Trick",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rabbi Chidka Position",
+    "candidates": [
+      "Rabbi Chidka Position",
+      "Sale Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about benei ma'arava holding like Rabbi Chidka on the prohibition of castration for non-Jews and the lifnei iver concern, which is precisely what the 'Rabbi Chidka Position' prose discusses in detail.",
+      "chosen_heading": "Rabbi Chidka Position",
+      "current_heading": "Rabbi Chidka Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Sale Requirement",
+    "candidates": [
+      "Sale Requirement",
+      "Animal Swap Workaround",
+      "Various Impediments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the sale requirement penalty (knas) for animals castrated by gentiles \u2014 item 1 is Rava/Abaye's dispute about the scope of the penalty, and item 2 is the follow-up discussion about selling to one's son, both of which are explicitly covered in the 'Sale Requirement' prose.",
+      "chosen_heading": "Sale Requirement",
+      "current_heading": "Sale Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Various Impediments",
+    "candidates": [
+      "Animal Swap Workaround",
+      "Various Impediments",
+      "Effective Muzzles",
+      "Hay Over Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the dilemmas posed by Rami bar \u1e24ama \u2014 the thorn, lion, young animal, thirst, and leather mat questions \u2014 which are precisely what the 'Various Impediments' prose describes in detail.",
+      "chosen_heading": "Various Impediments",
+      "current_heading": "Various Impediments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Hay Over Grain",
+    "candidates": [
+      "Effective Muzzles",
+      "Hay Over Grain",
+      "Timing of Muzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about starving the cow and untying straw bundles, and the gemara's refutation and reinterpretation \u2014 are precisely what the 'Hay Over Grain' prose describes in detail, making the current placement correct.",
+      "chosen_heading": "Hay Over Grain",
+      "current_heading": "Hay Over Grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Timing of Muzzle",
+    "candidates": [
+      "Timing of Muzzle",
+      "State of Muzzling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yonatan's dilemma about muzzling before threshing begins, which matches exactly the 'Timing of Muzzle' section prose describing this precise question about pre-threshing muzzling.",
+      "chosen_heading": "Timing of Muzzle",
+      "current_heading": "Timing of Muzzle",
+      "moved": false
+    }
+  }
+]

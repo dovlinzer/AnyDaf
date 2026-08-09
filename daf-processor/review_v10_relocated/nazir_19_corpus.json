@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Four Positions Intro",
+      "Day 7 vs Day 8",
+      "Korban Requirements",
+      "Case Setup",
+      "Braisa: Chatas Not Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question 'who is the tanna' behind the braisa about a woman who vowed nezirut, became tamei, and had her vow annulled by her husband \u2014 exactly the case setup described in the 'Case Setup' prose section.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Braisa: Chatas Not Olah",
+    "candidates": [
+      "Braisa: Chatas Not Olah",
+      "Rabbi Yishmael Exclude",
+      "Retroactive Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's identification of the braisa's author as Rabbi Yishmael, which is precisely what the prose of candidate 1 ('Rabbi Yishmael Exclude') discusses.",
+      "chosen_heading": "Rabbi Yishmael Exclude",
+      "current_heading": "Braisa: Chatas Not Olah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Retroactive Problem",
+    "candidates": [
+      "Rabbi Yishmael Exclude",
+      "Retroactive Problem",
+      "Soul/Nefesh: Sinning",
+      "Nefesh Meaning",
+      "Asceticism Problem",
+      "Moral Sin Justification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's 'mai kasavar' question about whether the husband uproots or severs the vow, and resolves it by saying he holds 'baal meaker aker' and follows Rabbi Elazar HaKappar \u2014 exactly what the 'Retroactive Problem' prose describes.",
+      "chosen_heading": "Retroactive Problem",
+      "current_heading": "Retroactive Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Moral Sin Justification",
+    "candidates": [
+      "Soul/Nefesh: Sinning",
+      "Nefesh Meaning",
+      "Asceticism Problem",
+      "Moral Sin Justification",
+      "Challenge Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Elazar HaKappar asking what 'sinned against the soul' means for a nazirite, which is exactly what candidate 0's prose introduces and discusses.",
+      "chosen_heading": "Soul/Nefesh: Sinning",
+      "current_heading": "Moral Sin Justification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Challenge Limitation",
+    "candidates": [
+      "Moral Sin Justification",
+      "Challenge Limitation",
+      "Mishnah: Yatza Venichnas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the challenge that Rabbi Elazar HaKappar's verse is written about a nazir tamei yet he applies it to a nazir tahor, and the answer that a pure nazirite is also a sinner \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Challenge Limitation",
+      "current_heading": "Challenge Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mishnah: Yatza Venichnas",
+    "candidates": [
+      "Mishnah: Yatza Venichnas",
+      "Shmuel's Explanation",
+      "Even Re-entering Counts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Shmuel's explanation that the mishna refers to someone who left, received sprinkling on days three and seven, and immersed \u2014 which is precisely what candidate 1 ('Shmuel's Explanation') describes in its prose.",
+      "chosen_heading": "Shmuel's Explanation",
+      "current_heading": "Mishnah: Yatza Venichnas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Even Re-entering Counts",
+    "candidates": [
+      "Shmuel's Explanation",
+      "Even Re-entering Counts",
+      "Challenge to Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about whether re-entering the cemetery is required for the days to count, and the 'lo mibeaya' answer explaining that even re-entry counts \u2014 exactly matching the 'Even Re-entering Counts' section's prose.",
+      "chosen_heading": "Even Re-entering Counts",
+      "current_heading": "Even Re-entering Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Challenge to Rav",
+    "candidates": [
+      "Challenge to Rav",
+      "Not Same Day",
+      "Earlier Days Fall",
+      "Ulla Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Kahana and Rav Asi questioning Rav about why he didn't explain the material to them, and Rav's response that he assumed they didn't need it \u2014 exactly what the 'Challenge to Rav' prose describes.",
+      "chosen_heading": "Challenge to Rav",
+      "current_heading": "Challenge to Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ulla Distinction",
+    "candidates": [
+      "Not Same Day",
+      "Earlier Days Fall",
+      "Ulla Distinction",
+      "Rava Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's ruling about 'not on that day' AND Ulla's qualification distinguishing between a tamei person who became a nazir vs. a pure nazir who became impure, which is precisely what the 'Ulla Distinction' section's prose describes.",
+      "chosen_heading": "Ulla Distinction",
+      "current_heading": "Ulla Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rava Explanation",
+    "candidates": [
+      "Rava Explanation",
+      "Tamei Day One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of Rabbi Eliezer's reasoning via the verse 'ki tamei nizro' interpreted as 'because he took a vow of naziriteship when in a state of ritual impurity,' which exactly matches the 'Rava Explanation' prose description.",
+      "chosen_heading": "Rava Explanation",
+      "current_heading": "Rava Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Tamei Day One",
+    "candidates": [
+      "Tamei Day One",
+      "Tamei Last Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses becoming tamei at the beginning (day one) of a hundred-day nezirut and the absence of 'yamim rishonim,' which matches exactly the 'Tamei Day One' section's prose.",
+      "chosen_heading": "Tamei Day One",
+      "current_heading": "Tamei Day One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Tamei Last Day",
+    "candidates": [
+      "Tamei Last Day",
+      "Tamei Day 99",
+      "Full vs Partial Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'end of one hundred days' case (no acharonim) and the 'day 99' case together, but the current heading 'Tamei Last Day' and its prose already describes both scenarios as part of the same baraita continuation, making index 0 the best fit since the passage begins with the hundredth-day case which is the primary focus of that section.",
+      "chosen_heading": "Tamei Last Day",
+      "current_heading": "Tamei Last Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Full vs Partial Days",
+    "candidates": [
+      "Tamei Day 99",
+      "Full vs Partial Days",
+      "Both Terms Needed",
+      "Only Yamim",
+      "Only Yipolu"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tamei Day 99",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the conclusive refutation of Ulla's position regarding the baraita about a hundred-day nazirite who became impure at the beginning, closing out that dispute \u2014 it belongs under 'Tamei Day 99' which discusses the hundred-day nazirite structure and the refutation context.",
+      "second_heading": "Full vs Partial Days",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens Rav Pappa's new question to Abaye about whether 'yamim' requires one completed day plus a second started, or two completed days plus a third started, which is exactly what 'Full vs Partial Days' describes.",
+      "current_heading": "Full vs Partial Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Only Yipolu",
+    "candidates": [
+      "Both Terms Needed",
+      "Only Yamim",
+      "Only Yipolu",
+      "Aliyah Case",
+      "Beit Shammai: 30 Days",
+      "Beit Hillel: Start Over",
+      "Tumat Outside EY"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why both 'yamim' and 'yipolu' are each necessary and what would be misunderstood without either \u2014 precisely the content of the 'Both Terms Needed' section, which says 'Each of the two terms in the verse \u2014 yamim and yipolu \u2014 contributes something irreducible, and both are necessary.'",
+      "chosen_heading": "Both Terms Needed",
+      "current_heading": "Only Yipolu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tumat Outside EY",
+    "candidates": [
+      "Aliyah Case",
+      "Beit Shammai: 30 Days",
+      "Beit Hillel: Start Over",
+      "Tumat Outside EY",
+      "Nazir = Kohen",
+      "Helni Background",
+      "Seven-Year Vow",
+      "Aliyah After 7 Years",
+      "Another 7 Years",
+      "Becomes Tamei Day 14"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introduces the case of one who completed naziriteship outside Eretz Yisrael and then came to Eretz Yisrael, which is precisely what the 'Aliyah Case' prose describes as introducing.",
+      "chosen_heading": "Aliyah Case",
+      "current_heading": "Tumat Outside EY",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Becomes Tamei Day 14",
+    "candidates": [
+      "Nazir = Kohen",
+      "Helni Background",
+      "Seven-Year Vow",
+      "Aliyah After 7 Years",
+      "Another 7 Years",
+      "Becomes Tamei Day 14",
+      "Rabbi Yehuda: 14 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the full mishna text covering the entire story of Queen Heleni from beginning to end, and it belongs under 'Helni Background' which introduces the narrative \u2014 the subsequent headings each discuss individual sub-elements of the story in the essay's prose, but the quoted text as a whole unit is the source passage introduced by that section.",
+      "chosen_heading": "Helni Background",
+      "current_heading": "Becomes Tamei Day 14",
+      "moved": true
+    }
+  }
+]

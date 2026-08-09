@@ -1,0 +1,287 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rabbi Zeira's Challenge",
+    "candidates": [
+      "Perek 3 Structure",
+      "Mishnah: Payment vs. Oath",
+      "Two Payment Scenarios",
+      "Keifel Beneficiary",
+      "Takanah Purpose",
+      "Rava's Mechanism",
+      "Rabbi Zeira's Challenge",
+      "Zeira's Carve-Out",
+      "External vs Internal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's objection to Rava's mechanism about retroactive ownership extending to fleece and offspring, which is exactly what the prose under heading 6 ('Rabbi Zeira's Challenge') describes.",
+      "chosen_heading": "Rabbi Zeira's Challenge",
+      "current_heading": "Rabbi Zeira's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "External vs Internal",
+    "candidates": [
+      "Zeira's Carve-Out",
+      "External vs Internal",
+      "Moment-Before Ownership",
+      "Avoids Zeira Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'u'mah paska' question and gives the 'stama d'milsa' answer distinguishing external profit (kefel) from internal profit (gizos/velados), which is precisely what the 'External vs Internal' section's prose describes.",
+      "chosen_heading": "External vs Internal",
+      "current_heading": "External vs Internal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Avoids Zeira Challenge",
+    "candidates": [
+      "Moment-Before Ownership",
+      "Avoids Zeira Challenge",
+      "Agam Problem",
+      "Tosafos's Tosafos",
+      "Mishnah's Language",
+      "Rabbi Yochanan's Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moment-Before Ownership",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's alternative formulation (samuch lignevasah) which is exactly what heading 0 'Moment-Before Ownership' describes.",
+      "second_heading": "Avoids Zeira Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the two practical differences between the formulations \u2014 Rabbi Zeira's challenge and the agam case \u2014 which maps directly to heading 1 'Avoids Zeira Challenge' where these differences are analyzed.",
+      "current_heading": "Avoids Zeira Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rabbi Yochanan's Rule",
+    "candidates": [
+      "Agam Problem",
+      "Tosafos's Tosafos",
+      "Mishnah's Language",
+      "Rabbi Yochanan's Rule",
+      "Mishnah Symmetry Problem",
+      "Ambiguity in Coverage",
+      "Socher Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's rule that 'shilem' in the mishnah does not mean actual payment but merely verbal commitment to pay, which is precisely what the 'Rabbi Yochanan's Rule' section prose describes.",
+      "chosen_heading": "Rabbi Yochanan's Rule",
+      "current_heading": "Rabbi Yochanan's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Socher Braita",
+    "candidates": [
+      "Mishnah Symmetry Problem",
+      "Ambiguity in Coverage",
+      "Socher Braita",
+      "Socher's Legal Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Symmetry Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's attempt to derive Rabbi Yochanan's ruling from the mishnah, concluding that no inference can be drawn \u2014 exactly what candidates 0 and 1 describe together as the 'Mishnah Symmetry Problem' and its resolution, with candidate 0's prose most directly matching the gemara's back-and-forth analysis of reisha and seifa.",
+      "second_heading": "Socher Braita",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita supporting Rabbi Yochanan (socher who says he will pay without yet paying gets kefel), which is precisely what the 'Socher Braita' section's prose describes.",
+      "current_heading": "Socher Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Socher's Legal Status",
+    "candidates": [
+      "Socher's Legal Status",
+      "Socher as Proof",
+      "Late Agreement",
+      "Retraction Case",
+      "Retraction Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's rules about when kefel is transferred to unpaid bailees, paid bailees, and borrowers \u2014 culminating in the baraita about the socher and borrower and whether verbal agreement or actual payment is required, which matches the 'Socher as Proof' section's prose about verbal agreement sufficing versus actual payment being needed.",
+      "chosen_heading": "Socher as Proof",
+      "current_heading": "Socher's Legal Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Retraction Analysis",
+    "candidates": [
+      "Socher as Proof",
+      "Late Agreement",
+      "Retraction Case",
+      "Retraction Analysis",
+      "Shomer Dies",
+      "Children Pay"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Late Agreement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the 'obvious' case of initial refusal followed by agreement to pay, which the 'Late Agreement' prose explicitly discusses as the pishita case.",
+      "second_heading": "Retraction Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the reverse scenario \u2014 initial agreement followed by retraction \u2014 which the 'Retraction Case' prose explicitly describes as 'amar hareni meshalem vehazar ve'amar eini meshalem' with the 'mai?' question.",
+      "current_heading": "Retraction Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Children Pay",
+    "candidates": [
+      "Shomer Dies",
+      "Children Pay",
+      "Owner Dies",
+      "Both Parties Dead",
+      "Half Payment",
+      "Two Cows",
+      "Partner Payment",
+      "Co-Borrower Pay",
+      "Husband-Wife",
+      "All Teiku"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shomer Dies",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'shomer said hareni meshalem and died, sons say we won't pay' dilemma, which is precisely what heading 0 ('Shomer Dies') describes in its prose.",
+      "second_heading": "Children Pay",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 cover the scenarios of sons paying (without father's declaration) and the owner dying / paying the owner's sons, which match headings 1 ('Children Pay') and 2 ('Owner Dies') respectively \u2014 and item 2 is currently correctly placed under heading 1 while item 3 belongs under heading 2.",
+      "current_heading": "Children Pay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "All Teiku",
+    "candidates": [
+      "Owner Dies",
+      "Both Parties Dead",
+      "Half Payment",
+      "Two Cows",
+      "Partner Payment",
+      "Co-Borrower Pay",
+      "Husband-Wife",
+      "All Teiku",
+      "Pashati Case",
+      "Honesty Incentive",
+      "Bifnim Question",
+      "Shoal Exception",
+      "Rare False Claim",
+      "Rav Papa Second View",
+      "Abaye's Distinction",
+      "Gratitude Factor",
+      "Tosafos Nafka Mina",
+      "Hikdim V'Shillem",
+      "Socher-Shoal Contrast",
+      "Source Analysis",
+      "Tanaim Consultation",
+      "Oath Despite Payment",
+      "Fraud Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents all the unresolved dilemmas (half payment, two cows, partners, co-borrowers, husband-wife) that resolve with teiku, and candidate 2 ('Half Payment') is the section whose prose introduces exactly this series of cases beginning with 'shileim mechtzah, mai?' \u2014 the current placement under 'All Teiku' is a summary section that describes these cases retrospectively, whereas the passage itself is the primary text being introduced under 'Half Payment'.",
+      "chosen_heading": "Half Payment",
+      "current_heading": "All Teiku",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Fraud Concern",
+    "candidates": [
+      "Pashati Case",
+      "Honesty Incentive",
+      "Bifnim Question",
+      "Shoal Exception",
+      "Rare False Claim",
+      "Rav Papa Second View",
+      "Abaye's Distinction",
+      "Gratitude Factor",
+      "Tosafos Nafka Mina",
+      "Hikdim V'Shillem",
+      "Socher-Shoal Contrast",
+      "Source Analysis",
+      "Tanaim Consultation",
+      "Oath Despite Payment",
+      "Fraud Concern",
+      "Court Involvement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "high",
+      "reason": "The passage states Rav Huna's ruling that the shomer must swear the object is not in his possession, which is precisely what the 'Oath Despite Payment' section (index 13) introduces, before the 'Fraud Concern' section (index 14) explains the reasoning \u2014 the Talmudic text belongs under index 13 as it contains Rav Huna's statement and the reason together.",
+      "chosen_heading": "Oath Despite Payment",
+      "current_heading": "Fraud Concern",
+      "moved": true
+    }
+  }
+]

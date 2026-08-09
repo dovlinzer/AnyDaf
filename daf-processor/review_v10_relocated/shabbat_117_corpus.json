@@ -1,0 +1,83 @@
+[
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Ima Shalom",
+    "candidates": [
+      "85 Letters Overview",
+      "Rabban Shimon View",
+      "Two Punishments",
+      "Departure Complaint",
+      "Rashi Tosafot",
+      "Proper Location",
+      "Margin Question",
+      "Worn Erased",
+      "Blank Spaces",
+      "Tumah Evidence",
+      "Heretical Scrolls",
+      "Burning Practice",
+      "Tarfon Extreme",
+      "Yishmael Kal",
+      "Non-Rescue Policy",
+      "Library Status",
+      "Avidan Definition",
+      "Rav Shmuel",
+      "Ima Shalom",
+      "Study Hall Concern",
+      "Rav Shmuel",
+      "Nehardea Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 18,
+      "confidence": "high",
+      "reason": "Both items are the continuous Ima Shalom story \u2014 the golden lamp bribe, the philosopher's ruling favoring equal inheritance citing avon gilyon, then the Libyan donkey counter-bribe and the reversal \u2014 which is exactly what the 'Ima Shalom' section prose describes in detail.",
+      "chosen_heading": "Ima Shalom",
+      "current_heading": "Ima Shalom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Nehardea Evidence",
+    "candidates": [
+      "Study Hall Concern",
+      "Rav Shmuel",
+      "Nehardea Evidence",
+      "Nehemia Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Neharde'a challenge to Shmuel, the reformulation of the Rav/Shmuel dispute in terms of place vs. time, and Shmuel's reconciled position \u2014 exactly what heading 2 ('Nehardea Evidence') discusses in its prose.",
+      "chosen_heading": "Nehardea Evidence",
+      "current_heading": "Nehardea Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Nehemia Rationale",
+    "candidates": [
+      "Nehemia Rationale",
+      "Secular Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's statement and the baraita containing Rabbi Ne\u1e25emya's rationale for the prohibition on reading kitvei kodesh on Shabbat, which is precisely what the 'Nehemia Rationale' section's prose discusses.",
+      "chosen_heading": "Nehemia Rationale",
+      "current_heading": "Nehemia Rationale",
+      "moved": false
+    }
+  }
+]

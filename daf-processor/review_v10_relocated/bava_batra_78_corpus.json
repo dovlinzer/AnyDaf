@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Price Example",
+    "candidates": [
+      "Wagon/Mules Trade",
+      "Money Indicates Intent",
+      "Price Example",
+      "Words Have Fixed Meaning",
+      "Braitah: Harnessed Items",
+      "Context & Connection",
+      "Subset Usage Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wagon/Mules Trade",
+      "first_confidence": "high",
+      "first_reason": "The Mishna covers the full wagon/mules and yoke/oxen rules including Rabbi Yehuda's price-based argument and the Rabbis' rejection, all of which are introduced in heading 0's prose.",
+      "second_heading": "Braitah: Harnessed Items",
+      "second_confidence": "high",
+      "second_reason": "The Gemara item about Rav Ta\u1e25lifa's baraita contradicting the Mishna and Rabbi Abbahu's resolution via 'adukin bo' (harnessed items) matches exactly the prose of heading 4 ('Braitah: Harnessed Items').",
+      "current_heading": "Price Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Subset Usage Analysis",
+    "candidates": [
+      "Words Have Fixed Meaning",
+      "Braitah: Harnessed Items",
+      "Context & Connection",
+      "Subset Usage Analysis",
+      "Burden of Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's 'heikhi dami' analysis \u2014 the obvious cases where terminology is unambiguous \u2014 which is precisely what the 'Subset Usage Analysis' prose describes as the setup before identifying the live dispute scenario.",
+      "chosen_heading": "Subset Usage Analysis",
+      "current_heading": "Subset Usage Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Burden of Proof",
+    "candidates": [
+      "Burden of Proof",
+      "Ona'ah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage ends with the question 'let the transaction be nullified' (bitul mekach), which is precisely the ona'ah/bitul mekach question that candidate 1's prose addresses directly.",
+      "chosen_heading": "Ona'ah Question",
+      "current_heading": "Burden of Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ona'ah Question",
+    "candidates": [
+      "Burden of Proof",
+      "Ona'ah Question",
+      "Void Sale Answer",
+      "Gift Interpretation",
+      "Rashbam Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah about Rabbi Yehuda and the Rabbis disputing which items lack ona'ah, which is precisely what the 'Ona'ah Question' prose describes as the Gemara's proof that the Chachamim accept bitul mekach.",
+      "chosen_heading": "Ona'ah Question",
+      "current_heading": "Ona'ah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rashbam Analysis",
+    "candidates": [
+      "Void Sale Answer",
+      "Gift Interpretation",
+      "Rashbam Analysis",
+      "Donkey Mishnah",
+      "Nachum HaMadi View",
+      "Yehuda Context View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the first answer (void sale / bitul mekach) and the second answer (gift interpretation) as a unified Gemara exchange, and the 'Void Sale Answer' section's prose explicitly covers both answers together as a first resolution leading into the gift interpretation, making it the better home than splitting them or placing it under the Rashbam analysis.",
+      "chosen_heading": "Void Sale Answer",
+      "current_heading": "Rashbam Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Yehuda Context View",
+    "candidates": [
+      "Donkey Mishnah",
+      "Nachum HaMadi View",
+      "Yehuda Context View",
+      "Equipment Types",
+      "Riding vs. Cargo",
+      "Dual Use Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full Mishnah text containing all three opinions (Tanna Kamma, Nachum HaMadi, and Rabbi Yehuda) and belongs under the 'Donkey Mishnah' heading which introduces the entire Mishnah, not under any heading dedicated to just one opinion within it.",
+      "chosen_heading": "Donkey Mishnah",
+      "current_heading": "Yehuda Context View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Dual Use Argument",
+    "candidates": [
+      "Equipment Types",
+      "Riding vs. Cargo",
+      "Dual Use Argument",
+      "Explicit Kelav",
+      "Saddle Always Sold",
+      "On vs. Off Donkey",
+      "Resolution Debate",
+      "Ravina Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All four items together cover Ulla's clarification of the dispute, the baraita objection, its resolution, and the definition of kumni \u2014 which collectively constitute the full unit that the 'Dual Use Argument' prose discusses, including the agreement on saddle/saddlecloth and the disagreement over sacks/bags, making the current placement the best fit despite the prose also anticipating material covered in later headings.",
+      "chosen_heading": "Dual Use Argument",
+      "current_heading": "Dual Use Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Ravina Evidence",
+    "candidates": [
+      "Explicit Kelav",
+      "Saddle Always Sold",
+      "On vs. Off Donkey",
+      "Resolution Debate",
+      "Ravina Evidence",
+      "Wagon Analogy",
+      "Case-by-Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "On vs. Off Donkey",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-5 collectively address the dilemma of whether the dispute applies when vessels are on or off the donkey, with resolution attempts \u2014 exactly what candidate 2 ('On vs. Off Donkey') describes.",
+      "second_heading": "Ravina Evidence",
+      "second_confidence": "medium",
+      "second_reason": "Item 6 is Ravina's distinct proof to Rav Ashi using the wagon/mules case, which matches candidate 4 ('Ravina Evidence') that specifically describes Ravina raising the wagon question before Rav Ashi.",
+      "current_heading": "Ravina Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Case-by-Case",
+    "candidates": [
+      "Wagon Analogy",
+      "Case-by-Case",
+      "All Tannaim View",
+      "Example Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's dialectic about the wagon/donkey analogy and its rejection via the ship counterexample, culminating in 'tana milei milei katani' \u2014 exactly what the 'Case-by-Case' prose describes.",
+      "chosen_heading": "Case-by-Case",
+      "current_heading": "Case-by-Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Example Cases",
+    "candidates": [
+      "All Tannaim View",
+      "Example Cases",
+      "Vineyard Equipment",
+      "Small Boats",
+      "Yehuda Context",
+      "Rava Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's sweeping statement that all these Tannaim share the view that selling an item includes its accoutrements, which is precisely what the 'All Tannaim View' prose describes, including the mnemonic and the list of sages with their individual sources.",
+      "chosen_heading": "All Tannaim View",
+      "current_heading": "Example Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Rava Explanation",
+    "candidates": [
+      "Vineyard Equipment",
+      "Small Boats",
+      "Yehuda Context",
+      "Rava Explanation",
+      "Young Animals",
+      "Ground & Manure",
+      "Containers & Contents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yehuda's distinction and Rava's explanation of it, which is precisely what the 'Rava Explanation' section's prose describes \u2014 the operative distinction between 'chamor zeh' and 'chamor hu' and Rava's reasoning behind it.",
+      "chosen_heading": "Rava Explanation",
+      "current_heading": "Rava Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Containers & Contents",
+    "candidates": [
+      "Young Animals",
+      "Ground & Manure",
+      "Containers & Contents",
+      "Rashbam Note",
+      "Nursing Descriptor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna text covers all five rules together (donkey/foal, cow/calf, dunghill/manure, cistern/water, beehive/bees, dovecote/doves) as a single unit, and heading 0 'Young Animals' is where the Mishna itself begins \u2014 the subsequent headings (1, 2) break out sub-topics that the essay's prose discusses separately, but the quoted Mishna as a whole belongs under the first heading where it is introduced.",
+      "chosen_heading": "Young Animals",
+      "current_heading": "Containers & Contents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Nursing Descriptor",
+    "candidates": [
+      "Rashbam Note",
+      "Nursing Descriptor",
+      "Primary Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's 'heikhi dami' question about what circumstances generate the Mishnah's asymmetric ruling, which is precisely what the 'Nursing Descriptor' prose describes.",
+      "chosen_heading": "Nursing Descriptor",
+      "current_heading": "Nursing Descriptor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Primary Use",
+    "candidates": [
+      "Primary Use",
+      "Implication",
+      "Etymology: Sayach",
+      "Meshalim Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Pappa's full statement (primary use / nursing cow reasoning AND nursing donkey implication) and the etymology of sayach, so it spans headings 0-2, but since the current placement is heading 0 and the passage begins with the primary-use reasoning about the nursing cow, keeping it at 0 is the closest single match, though confidence is low given it also covers content from headings 1 and 2.",
+      "chosen_heading": "Primary Use",
+      "current_heading": "Primary Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Meshalim Derasha",
+    "candidates": [
+      "Implication",
+      "Etymology: Sayach",
+      "Meshalim Derasha",
+      "Calculation & Restraint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yochanan's exposition of the verse 'Therefore they that speak in parables say: Come to Heshbon,' which is precisely the verse and derasha discussed in the 'Meshalim Derasha' section's prose.",
+      "chosen_heading": "Meshalim Derasha",
+      "current_heading": "Meshalim Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Calculation & Restraint",
+    "candidates": [
+      "Calculation & Restraint",
+      "Two Worlds",
+      "Ayir Seduction",
+      "Fire Imagery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses ruling over one's evil inclination and calculating the account of the world (hefsed mitzvah vs. schar aveirah), which is precisely what the 'Calculation & Restraint' section's prose elaborates on.",
+      "chosen_heading": "Calculation & Restraint",
+      "current_heading": "Calculation & Restraint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Fire Imagery",
+    "candidates": [
+      "Two Worlds",
+      "Ayir Seduction",
+      "Fire Imagery",
+      "Arrogance & Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items belong under 'Fire Imagery' (index 2): Item 1 covers the fire from Heshbon consuming those who don't calculate (explicitly discussed in that prose), and Item 2 covers the flame from the city of Sihon/tzaddikim and the ayir following pleasant speech plus the arrogant falling into Gehinnom \u2014 all of which are explicitly treated in the 'Fire Imagery' prose section, which covers both the fire imagery and the transition to the arrogance theme.",
+      "chosen_heading": "Fire Imagery",
+      "current_heading": "Fire Imagery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Arrogance & Judgment",
+    "candidates": [
+      "Arrogance & Judgment",
+      "Fire Consumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's interpretation of Numbers 21:30 (vanniram through Medeba), which is explicitly discussed and paraphrased in the 'Arrogance & Judgment' prose section covering ein ram, avad cheshbon, ad din, fire of Gehinnom, and souls in anguish.",
+      "chosen_heading": "Arrogance & Judgment",
+      "current_heading": "Arrogance & Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Fire Consumption",
+    "candidates": [
+      "Fire Consumption",
+      "Gehinnom Fall",
+      "Refaim Gehinnom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Yehuda citing Rav on fire consuming one who separates from Torah, which matches exactly the 'Fire Consumption' section's prose.",
+      "chosen_heading": "Fire Consumption",
+      "current_heading": "Fire Consumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Refaim Gehinnom",
+    "candidates": [
+      "Gehinnom Fall",
+      "Refaim Gehinnom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete teaching including both the general principle (separating from Torah falls into Gehinnom) AND the proof from Refa'im verses, so it belongs under 'Gehinnom Fall' which introduces the whole teaching, while 'Refaim Gehinnom' was written as a separate prose section to discuss only the proof text \u2014 the essay author artificially split one Talmudic passage across two headings.",
+      "chosen_heading": "Gehinnom Fall",
+      "current_heading": "Refaim Gehinnom",
+      "moved": true
+    }
+  }
+]

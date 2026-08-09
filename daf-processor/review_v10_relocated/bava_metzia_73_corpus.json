@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Yatza HaSha'ar Intro",
+    "candidates": [
+      "Yatza HaSha'ar Intro",
+      "Early Harvesters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text directly introduces the yatza hashaar rule (ein poskin al hapeiros ad she-yatza hashaar, then poskin af al pi she-ein lazeh yesh lazeh), which is precisely what the prose under 'Yatza HaSha'ar Intro' describes and quotes.",
+      "chosen_heading": "Yatza HaSha'ar Intro",
+      "current_heading": "Yatza HaSha'ar Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Early Harvesters",
+    "candidates": [
+      "Early Harvesters",
+      "Dung Debate",
+      "Sha'ar HaGavoa",
+      "Rabbi Yehuda Opinion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Early Harvesters",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the early-harvester cases (stack of grain, basket of grapes, vat of olives, potter's clay, plaster in kiln) which is exactly what the 'Early Harvesters' prose discusses.",
+      "second_heading": "Dung Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the manure case and the Rabbi Yosi / Sages dispute about requiring personal ownership of dung, which is precisely what the 'Dung Debate' prose covers.",
+      "current_heading": "Early Harvesters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rabbi Yehuda Opinion",
+    "candidates": [
+      "Dung Debate",
+      "Sha'ar HaGavoa",
+      "Rabbi Yehuda Opinion",
+      "Rav Assi Contradiction",
+      "Village vs Major Markets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda's ruling about sha'ar hagavoa \u2014 that even without an explicit arrangement, the buyer may demand the lower price or his money back \u2014 which is precisely what the 'Rabbi Yehuda Opinion' section's prose discusses.",
+      "chosen_heading": "Rabbi Yehuda Opinion",
+      "current_heading": "Rabbi Yehuda Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Village vs Major Markets",
+    "candidates": [
+      "Rav Assi Contradiction",
+      "Village vs Major Markets",
+      "Warehouse Pricing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the exchange between Rabbi Zeira and Rabbi Assi about the Dormus major market versus small village markets (shuk shel ayarot), which is precisely what the 'Village vs Major Markets' prose describes.",
+      "chosen_heading": "Village vs Major Markets",
+      "current_heading": "Village vs Major Markets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Warehouse Pricing",
+    "candidates": [
+      "Warehouse Pricing",
+      "New-to-Old Problem",
+      "Rashi's Solution",
+      "Gathered Grain Prices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about how the mishna's permission can apply given Rabbi Yo\u1e25anan's ruling, and answers that the mishna speaks of wheat from warehouses and ships whose prices are more stable \u2014 exactly the content described in the 'Warehouse Pricing' prose.",
+      "chosen_heading": "Warehouse Pricing",
+      "current_heading": "Warehouse Pricing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Gathered Grain Prices",
+    "candidates": [
+      "New-to-Old Problem",
+      "Rashi's Solution",
+      "Gathered Grain Prices",
+      "Rav Nachman Allow",
+      "Rava Challenge",
+      "Quality Expectations",
+      "Rav Sheshet Forbids",
+      "First Explanation",
+      "Yatza HaSha'ar Logic",
+      "Rav Huna Changes Mind"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "New-to-Old Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the baraita presenting the new/old grain problem and the gleaners/householder price distinction \u2014 exactly the content discussed under heading 0 ('New-to-Old Problem') and then heading 2 ('Gathered Grain Prices'), but since item 1 covers the new/old grain case that belongs under heading 0 and item 2 covers the gleaner case introduced in heading 2, the baraita as a whole (items 1-2) is the source text for both headings; however the current placement under heading 2 is reasonable for both since heading 2's prose explicitly describes the baraita's gleaner content, and item 1's new/old content is addressed under heading 0 \u2014 making this a genuine structural seam where items 1-2 belong under heading 0 (which discusses both cases in its prose) while item 3 belongs under heading 3/4.",
+      "second_heading": "Rav Nachman Allow",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Na\u1e25man's ruling that one may set a price for gleaners at the gleaners' rate and Rava's challenge to it, which is precisely the content described under heading 3 ('Rav Nachman Allow') and heading 4 ('Rava Challenge').",
+      "current_heading": "Gathered Grain Prices",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Rav Huna Changes Mind",
+    "candidates": [
+      "Rav Nachman Allow",
+      "Rava Challenge",
+      "Quality Expectations",
+      "Rav Sheshet Forbids",
+      "First Explanation",
+      "Yatza HaSha'ar Logic",
+      "Rav Huna Changes Mind",
+      "Merchant Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Huna's ruling on borrowing against the market price and his eventual change of mind, which is precisely what the 'Rav Huna Changes Mind' prose section describes.",
+      "chosen_heading": "Rav Huna Changes Mind",
+      "current_heading": "Rav Huna Changes Mind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Merchant Scenario",
+    "candidates": [
+      "Merchant Scenario",
+      "Liability Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing the merchant transporting a package scenario, which is precisely what the 'Merchant Scenario' prose describes and analyzes.",
+      "chosen_heading": "Merchant Scenario",
+      "current_heading": "Merchant Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Liability Analysis",
+    "candidates": [
+      "Liability Analysis",
+      "Reputation Benefit",
+      "Tosafot Service Model"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Liability Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('birshus mocher mutar, birshus loke'ach assur') is explicitly quoted and analyzed in the Liability Analysis prose.",
+      "second_heading": "Tosafot Service Model",
+      "second_confidence": "low",
+      "second_reason": "Item 2 is a new Mishnaic case about transporting produce and donkey drivers \u2014 a structurally separate unit \u2014 and the transport/service framing of Tosafot's section is the closest thematic fit among the candidates.",
+      "current_heading": "Liability Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Tosafot Service Model",
+    "candidates": [
+      "Reputation Benefit",
+      "Tosafot Service Model",
+      "Pre-Selling Model",
+      "Rav Papa Explanation",
+      "Rav Acha Variation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question 'What is the reason?' followed by both Rav Pappa's and Rav Acha's answers together, and the 'Pre-Selling Model' section is the one that introduces this exact Gemara discussion about chamorim pre-selling and asks why it isn't ribbis \u2014 the two explanations that follow in the text naturally belong as the answer to that section's question rather than being split across separate headings.",
+      "chosen_heading": "Pre-Selling Model",
+      "current_heading": "Tosafot Service Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rav Acha Variation",
+    "candidates": [
+      "Pre-Selling Model",
+      "Rav Papa Explanation",
+      "Rav Acha Variation",
+      "Rav Conservative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks what practical difference exists between the two explanations (Rav Papa vs. Rav Acha) and answers that it concerns a new merchant \u2014 exactly the distinction the Rav Acha Variation prose explicitly discusses as the key difference between the two explanations.",
+      "chosen_heading": "Rav Acha Variation",
+      "current_heading": "Rav Acha Variation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rav Conservative",
+    "candidates": [
+      "Rav Conservative",
+      "Scrap Metal Question",
+      "Garments Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav's transaction with donkey drivers in Sura/Kafri, his acceptance of liability, taking five instead of six, and the adam chashuv explanation \u2014 all of which are precisely what the 'Rav Conservative' prose discusses.",
+      "chosen_heading": "Rav Conservative",
+      "current_heading": "Rav Conservative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Garments Dispute",
+    "candidates": [
+      "Scrap Metal Question",
+      "Garments Dispute",
+      "Grape-to-Wine Problem",
+      "Rav vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Asi's question to Rabbi Yochanan about scrap metal (bigerutaot) and Rabbi Yochanan's response referencing linen garments and scrap metal \u2014 this is the exact content described in the 'Scrap Metal Question' prose, not the 'Garments Dispute' section which should only contain interpretive commentary on that exchange.",
+      "chosen_heading": "Scrap Metal Question",
+      "current_heading": "Garments Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rav vs Shmuel",
+    "candidates": [
+      "Grape-to-Wine Problem",
+      "Rav vs Shmuel",
+      "Risk Justification",
+      "Tori High Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Rav/Shmuel dispute about the orchard (pardisa) with their respective reasoning, which matches exactly the 'Rav vs Shmuel' section's prose discussion of their positions and rationales.",
+      "chosen_heading": "Rav vs Shmuel",
+      "current_heading": "Rav vs Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Tori High Risk",
+    "candidates": [
+      "Risk Justification",
+      "Tori High Risk",
+      "Land Possession Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rav conceding in the case of oxen where the loss/risk is great, which matches the 'Tori High Risk' section's prose about Rav conceding for tori (ox-plowed land) due to elevated risk.",
+      "chosen_heading": "Tori High Risk",
+      "current_heading": "Tori High Risk",
+      "moved": false
+    }
+  }
+]

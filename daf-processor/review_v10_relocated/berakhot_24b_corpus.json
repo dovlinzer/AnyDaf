@@ -1,0 +1,513 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Rabbi's Bodily Acts",
+    "candidates": [
+      "Rabbi's Bodily Acts",
+      "Burping vs. Sneezing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabbi \u1e24anina's report of Rabbi's behaviors during prayer and the baraita objecting to those same behaviors \u2014 are explicitly described and discussed together in candidate 0's prose, which covers exactly this sequence from the personal account through the baraita's prohibitions.",
+      "chosen_heading": "Rabbi's Bodily Acts",
+      "current_heading": "Rabbi's Bodily Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Burping vs. Sneezing",
+    "candidates": [
+      "Burping vs. Sneezing",
+      "Sneezing Good Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's resolution of the burping/yawning contradiction (involuntary vs. deliberate) and then raises the harder problem of sneezing, which is precisely what the 'Burping vs. Sneezing' section's prose describes.",
+      "chosen_heading": "Burping vs. Sneezing",
+      "current_heading": "Burping vs. Sneezing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sneezing Good Sign",
+    "candidates": [
+      "Sneezing Good Sign",
+      "Spitting Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Zeira's teaching about sneezing during prayer being a good omen, which is exactly what the 'Sneezing Good Sign' section's prose describes.",
+      "chosen_heading": "Sneezing Good Sign",
+      "current_heading": "Sneezing Good Sign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Spitting Problem",
+    "candidates": [
+      "Spitting Problem",
+      "Ravina's Spitting",
+      "Voice in Prayer",
+      "Whispering Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Yehuda's ruling on handling saliva during prayer and the Ravina/Rav Ashi incident, which together form one continuous Talmudic discussion about spitting \u2014 the current 'Spitting Problem' heading encompasses the full resolution including Ravina's case, and the split into a separate 'Ravina's Spitting' heading is artificial since the Gemara treats it as one unit.",
+      "chosen_heading": "Spitting Problem",
+      "current_heading": "Spitting Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Whispering Alone",
+    "candidates": [
+      "Ravina's Spitting",
+      "Voice in Prayer",
+      "Whispering Alone",
+      "Communal Decorum",
+      "Rav Yehuda Anti-Aliyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita plus Rav Huna's qualification plus the yachid/tzibur distinction all in one block, but the opening line about 'little faith' is what candidate 1's prose explicitly introduces, while the current placement (2) only covers the Rav Huna qualification \u2014 however, since all items must go under ONE heading and the passage as a whole is most completely described by candidate 1 which introduces the baraita that this passage IS, yet candidates 2 and 3 each cover partial content; the baraita opening matches candidate 1 most precisely as the entry point the essay author signals with 'The Gemara returns to the baraita: Hamashmia kolo...'",
+      "chosen_heading": "Voice in Prayer",
+      "current_heading": "Whispering Alone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Yehuda Anti-Aliyah",
+    "candidates": [
+      "Communal Decorum",
+      "Rav Yehuda Anti-Aliyah",
+      "Rabbi Abba's Escape",
+      "Four Cubits Rule",
+      "Embarrassment Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abba avoiding Rav Yehuda because he wanted to make aliyah, and quotes Rav Yehuda's ruling that ascending from Babylonia to Eretz Yisrael transgresses a positive commandment \u2014 content that matches precisely the 'Rav Yehuda Anti-Aliyah' section's prose discussion.",
+      "chosen_heading": "Rav Yehuda Anti-Aliyah",
+      "current_heading": "Rav Yehuda Anti-Aliyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Embarrassment Prayer",
+    "candidates": [
+      "Rabbi Abba's Escape",
+      "Four Cubits Rule",
+      "Embarrassment Prayer",
+      "Sleeping Under Cloak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about sneezing/flatulence during prayer including the four cubits rule and the embarrassment prayer, and Rabbi Abba's reaction \u2014 belong together under the 'Four Cubits Rule' heading, which is where the prose actually discusses this entire baraita; the current placement under 'Embarrassment Prayer' splits the baraita from its natural home where the four cubits rule and the full teaching are discussed together.",
+      "chosen_heading": "Four Cubits Rule",
+      "current_heading": "Embarrassment Prayer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Sleeping Under Cloak",
+    "candidates": [
+      "Embarrassment Prayer",
+      "Sleeping Under Cloak",
+      "Separation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about sleeping under a cloak and forming a barrier at the neck to recite Shema, which is precisely what the 'Sleeping Under Cloak' section's prose discusses.",
+      "chosen_heading": "Sleeping Under Cloak",
+      "current_heading": "Sleeping Under Cloak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Separation Debate",
+    "candidates": [
+      "Separation Debate",
+      "Heart Sees Genitals",
+      "Hand Over Mouth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tanna kamma's position on libo roeh et ha'ervah being permitted, which is precisely what the 'Separation Debate' prose discusses in its final sentences.",
+      "chosen_heading": "Separation Debate",
+      "current_heading": "Separation Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Hand Over Mouth",
+    "candidates": [
+      "Heart Sees Genitals",
+      "Hand Over Mouth",
+      "Rav Chisda Rejects",
+      "Torah Scholars Banned",
+      "Standing vs. Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the exact ruling about placing one's hand over one's mouth while reciting Shema in filthy alleyways \u2014 the core content of the 'Hand Over Mouth' section \u2014 and Rav Chisda's rejection is already noted in that section's prose as part of the same ruling, making this the clearly correct placement.",
+      "chosen_heading": "Hand Over Mouth",
+      "current_heading": "Hand Over Mouth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Standing vs. Walking",
+    "candidates": [
+      "Rav Chisda Rejects",
+      "Torah Scholars Banned",
+      "Standing vs. Walking",
+      "Sneezing Omen",
+      "Huna vs. Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion resolving the standing-vs-walking distinction (items 1-2 raise contradictions, item 3 resolves the Rabbi Yochanan story), which is precisely what the 'Standing vs. Walking' section's prose describes in detail.",
+      "chosen_heading": "Standing vs. Walking",
+      "current_heading": "Standing vs. Walking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Huna vs. Chisda",
+    "candidates": [
+      "Sneezing Omen",
+      "Huna vs. Chisda",
+      "Excrement Types",
+      "Covering Tefillin",
+      "First Thing Drops",
+      "Health Interruption",
+      "Hand Excrement",
+      "Souls Praise God",
+      "Bones Speak"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Huna vs. Chisda",
+      "current_heading": "Huna vs. Chisda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Bones Speak",
+    "candidates": [
+      "Excrement Types",
+      "Covering Tefillin",
+      "First Thing Drops",
+      "Health Interruption",
+      "Hand Excrement",
+      "Souls Praise God",
+      "Bones Speak",
+      "Smell from Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's ruling that Shema is forbidden and his reason from 'all my bones shall say,' which is precisely what the 'Bones Speak' section's prose discusses.",
+      "chosen_heading": "Bones Speak",
+      "current_heading": "Bones Speak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Smell from Object",
+    "candidates": [
+      "Smell from Object",
+      "Bad Smell Distance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Rav Huna/Rav \u1e24isda dispute about a foul odor with a source, which is exactly what candidate 0's prose discusses in detail, including both opinions and their rationale.",
+      "chosen_heading": "Smell from Object",
+      "current_heading": "Smell from Object",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Bad Smell Distance",
+    "candidates": [
+      "Bad Smell Distance",
+      "Smell in Air",
+      "Torah Study Leniency",
+      "Abaye Lenient"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bad Smell Distance",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the baraita supporting Rav \u1e24isda and Rava's ruling on which baraita is operative halacha) are explicitly discussed in the 'Bad Smell Distance' prose, which quotes and analyzes both the ten-tefachim rule, the four-amos rule, and Rava's preference for the second baraita including the leather detail.",
+      "second_heading": "Smell in Air",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rav Sheshet's response about foul odor with no visible source, using the yeshiva mats example) directly matches the 'Smell in Air' prose which introduces exactly this question of reiach ra she'ein lo ikar and references Rav Sheshet's answer about the study hall mattresses.",
+      "current_heading": "Bad Smell Distance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Abaye Lenient",
+    "candidates": [
+      "Smell in Air",
+      "Torah Study Leniency",
+      "Abaye Lenient",
+      "Rava Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Abaye's ruling that passing excrement permits Shema and his proof from the metzora mishna, which is precisely what candidate 2 ('Abaye Lenient') describes in its prose.",
+      "chosen_heading": "Abaye Lenient",
+      "current_heading": "Abaye Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rava Strict",
+    "candidates": [
+      "Rava Strict",
+      "Pig Mouth Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement distinguishing the metzora case (keviut/permanence) from the machane kadosh requirement, which is exactly what the 'Rava Strict' prose describes.",
+      "chosen_heading": "Rava Strict",
+      "current_heading": "Rava Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Pig Mouth Analogy",
+    "candidates": [
+      "Pig Mouth Analogy",
+      "Doubt Rules",
+      "Location Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's ruling that a pig's mouth is like passing feces and the detail about emerging from a river, which matches exactly the content described in the 'Pig Mouth Analogy' section prose.",
+      "chosen_heading": "Pig Mouth Analogy",
+      "current_heading": "Pig Mouth Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Location Matters",
+    "candidates": [
+      "Doubt Rules",
+      "Location Matters",
+      "Moist Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous unit about Rav Yehuda's doubt rulings and their underlying rationale (Rav Hamnuna's principle and Rabbi Yonatan's derivation), which perfectly matches the 'Doubt Rules' prose describing safeik tzoa/mei raglayim asymmetry and the Rabbinic decree applying only to vadai not safeik \u2014 the current placement under 'Location Matters' is wrong because that heading's prose actually describes this very content but was assembled under the wrong label.",
+      "chosen_heading": "Doubt Rules",
+      "current_heading": "Location Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Moist Standard",
+    "candidates": [
+      "Location Matters",
+      "Moist Standard",
+      "Visible Mark",
+      "Rav Yosef Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'kol zman shematpichin' rulings from Shmuel/Rabbi Yochanan/Ulla AND Gneiva's 'rishumo nikar' position, but the current placement under 'Moist Standard' is appropriate since the essay splits the discussion across headings 1 and 2, and the passage as a whole initiates the question about duration \u2014 however, since the passage includes Gneiva's statement which belongs under heading 2, and the essay has already separated them, the current placement best captures the full quoted text as a unit beginning with the Gemara's question.",
+      "chosen_heading": "Moist Standard",
+      "current_heading": "Moist Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Rav Yosef Rejects",
+    "candidates": [
+      "Visible Mark",
+      "Rav Yosef Rejects",
+      "Excrement Hardened"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Yosef's rejection of Gneiva's ruling with the exact reasoning described in candidate 1's prose \u2014 forgiving Gneiva and contrasting with the leniency regarding excrement's surface crust.",
+      "chosen_heading": "Rav Yosef Rejects",
+      "current_heading": "Rav Yosef Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Excrement Hardened",
+    "candidates": [
+      "Excrement Hardened",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the same topic \u2014 the status of feces dried like earthenware and the dispute between Ameimar, Mar Zutra, and Rava \u2014 which is precisely what heading 0 ('Excrement Hardened') describes, including Abaye's challenge, the definitions of kecheres, Ravina's story, and Rava's final ruling.",
+      "chosen_heading": "Excrement Hardened",
+      "current_heading": "Excrement Hardened",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Rava's Ruling",
+      "Vessel Rule",
+      "Rabbi Yossi View",
+      "Wetness Degree"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Ruling",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the baraita objection and its refutation (the contradictory inferences that cancel each other out), which the prose of heading 0 explicitly describes in detail.",
+      "second_heading": "Vessel Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 introduce the tannaitic dispute about the vessel rule and then the tanna kamma vs. Rabbi Yossi debate with its resolution about degrees of wetness, which maps precisely onto headings 1, 2, and 3 \u2014 but since items 3-6 must go under one heading and heading 1's prose covers the vessel/absorption distinction that opens this sub-passage, the split lands after item 2.",
+      "current_heading": "Rava's Ruling",
+      "moved": true
+    }
+  }
+]

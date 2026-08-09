@@ -1,0 +1,417 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Olah & Shelamim",
+    "candidates": [
+      "Intro: Mother & Fetus",
+      "Olah & Shelamim",
+      "Rabbi Meir: Sequential",
+      "Rabbi Yose: Simultaneous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself \u2014 the opening statement of the debate \u2014 which is precisely what the 'Intro: Mother & Fetus' prose describes as 'the mishnah at the bottom of 26b opens a debate between Rabbi Meir and the Sages concerning whether the words of a designation take effect sequentially or all at once,' making it the natural home for this introductory text before the specific rulings are unpacked.",
+      "chosen_heading": "Intro: Mother & Fetus",
+      "current_heading": "Olah & Shelamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabbi Yose: Simultaneous",
+    "candidates": [
+      "Rabbi Meir: Sequential",
+      "Rabbi Yose: Simultaneous",
+      "Hybrid Status Effects",
+      "Explicit Sequential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yose's statement distinguishing between unified initial intent (both designations stand) and a change of mind after the first designation (only the first stands), which is precisely what the prose under 'Rabbi Yose: Simultaneous' describes.",
+      "chosen_heading": "Rabbi Yose: Simultaneous",
+      "current_heading": "Rabbi Yose: Simultaneous",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Explicit Sequential",
+    "candidates": [
+      "Hybrid Status Effects",
+      "Explicit Sequential",
+      "Conditional Simultaneous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yitzchak bar Yosef citing Rabbi Yochanan's ruling that when one explicitly says 'this will take effect and then that will take effect,' everyone agrees the first statement prevails \u2014 exactly what the 'Explicit Sequential' prose describes.",
+      "chosen_heading": "Explicit Sequential",
+      "current_heading": "Explicit Sequential",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Conditional Simultaneous",
+    "candidates": [
+      "Conditional Simultaneous",
+      "Ambiguous Cases Only",
+      "Meir: Repetition Logic",
+      "Yose: Intention Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the 'lo tachal zo ela im ken chalshah zo' conditional case where both kedushot take effect by agreement, which is exactly what the 'Conditional Simultaneous' section's prose discusses.",
+      "chosen_heading": "Conditional Simultaneous",
+      "current_heading": "Conditional Simultaneous",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Yose: Intention Logic",
+    "candidates": [
+      "Ambiguous Cases Only",
+      "Meir: Repetition Logic",
+      "Yose: Intention Logic",
+      "Half Olah/Shelamim",
+      "Meir: Whole = Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together establish the scope of the dispute \u2014 that Rabbi Meir and Rabbi Yosei disagree only in a case like our mishnah where the words were said sequentially \u2014 which is precisely what heading 0 ('Ambiguous Cases Only') describes, before the essay separately analyzes Meir's logic (heading 1) and Yosei's logic (heading 2).",
+      "chosen_heading": "Ambiguous Cases Only",
+      "current_heading": "Yose: Intention Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Meir: Whole = Olah",
+    "candidates": [
+      "Half Olah/Shelamim",
+      "Meir: Whole = Olah",
+      "Chachamim: Split Proceeds",
+      "Chachamim = Yose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself introducing both Rabbi Meir's and the Rabbis' positions, and candidate 0's prose explicitly describes this baraita being taught and its core question, making it the natural home before the separate sections analyzing each ruling.",
+      "chosen_heading": "Half Olah/Shelamim",
+      "current_heading": "Meir: Whole = Olah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Chachamim = Yose",
+    "candidates": [
+      "Chachamim: Split Proceeds",
+      "Chachamim = Yose",
+      "Case Setup",
+      "Meir & Chatat",
+      "Rashi: Meaningless",
+      "Tosafot: Tmura Reading",
+      "Tmura Requirement",
+      "First Effect Question",
+      "Reason for Sequential",
+      "Contradiction Analysis",
+      "Contradiction Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei's statement, the Gemara's objection that his opinion is identical to the Rabbis, and the explanation that Rabbi Yosei taught the entire baraita \u2014 which is precisely what the 'Chachamim = Yose' section's prose describes.",
+      "chosen_heading": "Chachamim = Yose",
+      "current_heading": "Chachamim = Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Contradiction Conclusion",
+    "candidates": [
+      "Case Setup",
+      "Meir & Chatat",
+      "Rashi: Meaningless",
+      "Tosafot: Tmura Reading",
+      "Tmura Requirement",
+      "First Effect Question",
+      "Reason for Sequential",
+      "Contradiction Analysis",
+      "Contradiction Conclusion",
+      "Sanctify Own Half",
+      "Acquiring Partner Half",
+      "Half-Then-Full Status",
+      "Kedusha v'Eina Kreva"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Contradiction Conclusion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 form the baraita and Gemara discussion that establishes *tfos lashon rishon* as Rabbi Meir's reason, culminating in *ka mashma lan de-lo*, which is exactly what heading 8's prose describes.",
+      "second_heading": "Kedusha v'Eina Kreva",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 introduce an entirely new baraita about half-olah/half-shelamim ruling *kedushah ve-einah kreivah* and its substitute, which directly matches heading 12's prose about *kedushah ve-einah kreivah* and *u-tmuratah ke-yotzei bah*.",
+      "current_heading": "Contradiction Conclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Kedusha v'Eina Kreva",
+    "candidates": [
+      "Sanctify Own Half",
+      "Acquiring Partner Half",
+      "Half-Then-Full Status",
+      "Kedusha v'Eina Kreva",
+      "Lesson 1: Damim Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains why the substitute (temurah) of an animal with deferred sanctity (kedushah dichuyah) cannot be sacrificed either \u2014 directly extending the 'kedushah ve-einah kreivah' principle discussed in the current section's prose, which explicitly mentions that the animal 'makes a tmurah, and that tmurah shares its status: u-tmuratah ke-yotzei bah.'",
+      "chosen_heading": "Kedusha v'Eina Kreva",
+      "current_heading": "Kedusha v'Eina Kreva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Lesson 1: Damim Rejected",
+    "candidates": [
+      "Lesson 1: Damim Rejected",
+      "Lesson 2: Living Animals",
+      "Dichuy Mei'ika Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lesson 2: Living Animals",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's case (the two-partner animal) which is the foundational scenario from which the three lessons are derived \u2014 it belongs under 'Lesson 2: Living Animals' only if we consider it setup, but actually it is the shared premise for all three lessons; however since it introduces the case that precedes the derivation, and item 2 explicitly states 'conclude three halakhot' and then gives the FIRST lesson (kedushat damim nidcheh), both items together form the introduction + first lesson, best placed under 'Lesson 1: Damim Rejected' (index 0).",
+      "second_heading": "Lesson 1: Damim Rejected",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explicitly derives the first of the three lessons \u2014 kedushat damim nidcheh \u2014 which is precisely what the 'Lesson 1: Damim Rejected' prose discusses, confirming the current placement is correct for both items together.",
+      "current_heading": "Lesson 1: Damim Rejected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Dichuy Mei'ika Status",
+    "candidates": [
+      "Lesson 2: Living Animals",
+      "Dichuy Mei'ika Status",
+      "Tosafot Analysis",
+      "Structure & Overlaps",
+      "Agreement on Mixed",
+      "Rashi: Meaningless (II)",
+      "Tosafot: Verbal Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three 'shma minah' conclusions, but the current heading focuses only on the third lesson (dichuy mei'ikara), while the passage begins with the second lesson about living animals (ba'alei chayyim nidchin), making heading 0 'Lesson 2: Living Animals' the better match as it introduces the full three-part derivation starting from the living animals lesson.",
+      "chosen_heading": "Lesson 2: Living Animals",
+      "current_heading": "Dichuy Mei'ika Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Tosafot: Verbal Power",
+    "candidates": [
+      "Tosafot Analysis",
+      "Structure & Overlaps",
+      "Agreement on Mixed",
+      "Rashi: Meaningless (II)",
+      "Tosafot: Verbal Power",
+      "Tmura/Maaser Unresolved"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Agreement on Mixed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's ruling about half-olah/half-maaser, which is precisely what candidate 2 ('Agreement on Mixed') describes: everyone agrees the olah prevails.",
+      "second_heading": "Tmura/Maaser Unresolved",
+      "second_confidence": "high",
+      "second_reason": "Item 2 poses the half-tmurah/half-maaser question, which is exactly what candidate 5 ('Tmura/Maaser Unresolved') discusses, including the teiku resolution.",
+      "current_heading": "Tosafot: Verbal Power",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Tmura/Maaser Unresolved",
+    "candidates": [
+      "Tosafot: Verbal Power",
+      "Tmura/Maaser Unresolved",
+      "Weak Kedusha Priority",
+      "Tmura Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the tmurah-vs-maaser dilemma with the 'kol ha-kodashim' and 'lifanav u-le'acharav' reasoning, ending in teiku \u2014 which is precisely what the 'Tmura/Maaser Unresolved' section's prose describes.",
+      "chosen_heading": "Tmura/Maaser Unresolved",
+      "current_heading": "Tmura/Maaser Unresolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Tmura Language",
+    "candidates": [
+      "Weak Kedusha Priority",
+      "Tmura Language",
+      "Redemption Language",
+      "No Effect on Tamim",
+      "Effect on Ba'al Mum",
+      "Assess Value",
+      "Conceptual Problem",
+      "Order Importance",
+      "Atpusei Concept",
+      "Mechulal Concept",
+      "Tachat Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tmura Language",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna covering tmurah language and the blemished animal case, matching the prose of headings 'Tmura Language', 'Redemption Language', 'No Effect on Tamim', 'Effect on Ba'al Mum', and 'Assess Value' \u2014 collectively sitting under the Tmura Language section as the mishna itself.",
+      "second_heading": "Tachat Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's contradiction about the word 'tachat' functioning as atpusei in the mishna but as mechulal in the baraita about kodshei bedek habayit, which is precisely what heading 'Tachat Contradiction' describes.",
+      "current_heading": "Tmura Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Tachat Contradiction",
+    "candidates": [
+      "Redemption Language",
+      "No Effect on Tamim",
+      "Effect on Ba'al Mum",
+      "Assess Value",
+      "Conceptual Problem",
+      "Order Importance",
+      "Atpusei Concept",
+      "Mechulal Concept",
+      "Tachat Contradiction",
+      "Abaye's Two Senses",
+      "Atpusei Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly poses the contradiction about the word *tachat* functioning differently in the mishnah versus the baraita, which is precisely what the 'Tachat Contradiction' section's prose describes.",
+      "chosen_heading": "Tachat Contradiction",
+      "current_heading": "Tachat Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Atpusei Source",
+    "candidates": [
+      "Abaye's Two Senses",
+      "Atpusei Source",
+      "Achulei Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is Abaye's statement introducing both senses of *tachat*, and item 2 is the proof-text for the *atpusei* sense \u2014 together they constitute Abaye's opening move establishing the ambiguity, which is precisely what heading 0 ('Abaye's Two Senses') describes, rather than heading 1 which discusses only the *atpusei* source in isolation.",
+      "chosen_heading": "Abaye's Two Senses",
+      "current_heading": "Atpusei Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Achulei Source",
+    "candidates": [
+      "Atpusei Source",
+      "Achulei Source",
+      "Application Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the achulei source verse AND the application rule distinguishing kodshei mizbeach from kodshei bedek habayit, making it a complete unit that belongs under the 'Application Rule' heading which discusses exactly this dual resolution.",
+      "chosen_heading": "Application Rule",
+      "current_heading": "Achulei Source",
+      "moved": true
+    }
+  }
+]

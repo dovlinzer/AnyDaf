@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "The Anonymous Student",
+    "candidates": [
+      "R. Akiva's Insistence",
+      "Relevance to Chatzer",
+      "The Anonymous Student",
+      "R. Meir's Studies",
+      "Kankantom Additive",
+      "R. Ishmael's Objection",
+      "R. Meir's Response",
+      "Contradictory Versions",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna's reference to 'a certain disciple said in the name of Rabbi Yishmael before Rabbi Akiva,' which is precisely the formulation discussed in 'The Anonymous Student' section, where Rabbi Yehoshua ben Levi identifies this anonymous student as Rabbi Meir.",
+      "chosen_heading": "The Anonymous Student",
+      "current_heading": "The Anonymous Student",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "R. Meir's Studies",
+      "Kankantom Additive",
+      "R. Ishmael's Objection",
+      "R. Meir's Response",
+      "Contradictory Versions",
+      "Resolution",
+      "Meir's Brilliance"
+    ],
+    "result": {
+      "best_index": 5,
+      "action": "single",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Meir's Brilliance",
+    "candidates": [
+      "Meir's Brilliance",
+      "Why Not Rule Like Meir",
+      "The Name Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the statement about Rabbi Meir's unmatched brilliance AND the explanation that his colleagues couldn't follow his reasoning because he could argue tamei is tahor and vice versa \u2014 the full content maps to candidate 1's prose which discusses both why he was supreme AND why we don't rule like him, whereas candidate 0's prose only covers the first half of the passage.",
+      "chosen_heading": "Why Not Rule Like Meir",
+      "current_heading": "Meir's Brilliance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "The Name Meir",
+    "candidates": [
+      "Why Not Rule Like Meir",
+      "The Name Meir",
+      "Seeing the Teacher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly teaches that Rabbi Meir's name derives from illuminating the eyes of the sages in halacha, and that Rabbi Nehorai was similarly a pseudonym \u2014 exactly the content discussed in the 'The Name Meir' section prose.",
+      "chosen_heading": "The Name Meir",
+      "current_heading": "The Name Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Seeing the Teacher",
+    "candidates": [
+      "Seeing the Teacher",
+      "Sumchus & Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi seeing Rabbi Meir from behind and the verse about seeing one's teacher is directly discussed in the 'Seeing the Teacher' section's prose.",
+      "chosen_heading": "Seeing the Teacher",
+      "current_heading": "Seeing the Teacher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Sumchus & Proofs",
+    "candidates": [
+      "Sumchus & Proofs",
+      "Anonymous Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Abbahu citing Rabbi Yo\u1e25anan about Sumchus's forty-eight reasons for impurity and purity, which is precisely what the 'Sumchus & Proofs' section's prose discusses.",
+      "chosen_heading": "Sumchus & Proofs",
+      "current_heading": "Sumchus & Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Anonymous Proofs",
+    "candidates": [
+      "Anonymous Proofs",
+      "Ravina's Failed Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the anonymous distinguished disciple at Yavne who could purify a sheretz with 150 reasons, which is precisely what the 'Anonymous Proofs' section's prose discusses and analyzes.",
+      "chosen_heading": "Anonymous Proofs",
+      "current_heading": "Anonymous Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Ravina's Failed Proof",
+    "candidates": [
+      "Ravina's Failed Proof",
+      "The Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ravina's a fortiori argument that a sheretz should be tahor, and the Gemara's rejection of it via the 'mere act of a thorn' rebuttal \u2014 are precisely the content described in the 'Ravina's Failed Proof' prose.",
+      "chosen_heading": "Ravina's Failed Proof",
+      "current_heading": "Ravina's Failed Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "The Debate",
+    "candidates": [
+      "The Debate",
+      "Why Beit Hillel Won"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "The Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the bat kol declaration ('eilu ve-eilu...ve-halacha ke-Veit Hillel') which is the climax of the debate section, matching heading 0's prose that concludes with 'The question then becomes: on what basis do we decide?'",
+      "second_heading": "Why Beit Hillel Won",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question and answer about why Beit Hillel merited the halacha \u2014 'nochin ve-aluvin hayu' \u2014 which is precisely the content discussed under heading 1 ('Why Beit Hillel Won').",
+      "current_heading": "The Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Why Beit Hillel Won",
+    "candidates": [
+      "Why Beit Hillel Won",
+      "Lessons on Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact mishna about one whose head and most of his body were in the sukkah with the table inside, illustrating Beit Hillel's practice of mentioning Beit Shammai's elders first \u2014 which is precisely what the 'Why Beit Hillel Won' section's prose discusses.",
+      "chosen_heading": "Why Beit Hillel Won",
+      "current_heading": "Why Beit Hillel Won",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Lessons on Humility",
+    "candidates": [
+      "Lessons on Humility",
+      "Engagement vs. Brilliance",
+      "The Debate (II)",
+      "The Vote",
+      "Examine Your Deeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the text about humility, seeking/fleeing greatness, and forcing/yielding to the moment, which is precisely what the 'Lessons on Humility' section's prose discusses and quotes.",
+      "chosen_heading": "Lessons on Humility",
+      "current_heading": "Lessons on Humility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Examine Your Deeds",
+    "candidates": [
+      "Engagement vs. Brilliance",
+      "The Debate (II)",
+      "The Vote",
+      "Examine Your Deeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita about the two-and-a-half-year debate between Beit Shammai and Beit Hillel including the vote and conclusion, which matches heading 1 'The Debate (II)' whose prose explicitly introduces this baraita with the phrase 'Shtei shanim va-mechetza nechleku Beit Shammai u-Veit Hillel.'",
+      "chosen_heading": "The Debate (II)",
+      "current_heading": "Examine Your Deeds",
+      "moved": true
+    }
+  }
+]

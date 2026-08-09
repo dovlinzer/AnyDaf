@@ -1,0 +1,495 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Candelabra Height",
+    "candidates": [
+      "Candelabra Height",
+      "Oil Distribution",
+      "Martha's Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the height of the candelabrum and the oil distribution question, but since it begins with the candelabrum height and the current placement's prose already summarizes the combined content (including the 120 log detail), while the Oil Distribution heading's prose covers only the dilemma and resolution portion, the passage as a whole fits best under 'Candelabra Height' where it currently sits \u2014 though it bleeds into the next section's topic.",
+      "chosen_heading": "Candelabra Height",
+      "current_heading": "Candelabra Height",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Martha's Son",
+    "candidates": [
+      "Oil Distribution",
+      "Martha's Son",
+      "Ramp vs Ladder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the son of Marta bat Boethus carrying ox thighs heel-to-toe up the ramp, which is precisely what the 'Martha's Son' section prose discusses.",
+      "chosen_heading": "Martha's Son",
+      "current_heading": "Martha's Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Ramp vs Ladder",
+    "candidates": [
+      "Ramp vs Ladder",
+      "Light & Illumination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ramp vs. ladder distinction (kevesh vs. sulamot) which is precisely what the 'Ramp vs Ladder' section's prose addresses.",
+      "chosen_heading": "Ramp vs Ladder",
+      "current_heading": "Ramp vs Ladder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Light & Illumination",
+    "candidates": [
+      "Light & Illumination",
+      "Torch Juggling",
+      "Songs of Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the illumination of Jerusalem's courtyards by the light of the Beit HaShoeivah celebration, exactly matching the 'Light & Illumination' section's prose about the same mishna and baraita.",
+      "chosen_heading": "Light & Illumination",
+      "current_heading": "Light & Illumination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Songs of Praise",
+    "candidates": [
+      "Torch Juggling",
+      "Songs of Praise",
+      "Repentance Teaching",
+      "Hillel's Statement",
+      "God's Presence",
+      "Reciprocal Homes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the two categories of song sung during the celebration \u2014 the pious who praise their untainted youth and the penitents who praise their atoning old age \u2014 which is precisely what the 'Songs of Praise' section's prose discusses.",
+      "chosen_heading": "Songs of Praise",
+      "current_heading": "Songs of Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Reciprocal Homes",
+    "candidates": [
+      "Repentance Teaching",
+      "Hillel's Statement",
+      "God's Presence",
+      "Reciprocal Homes",
+      "Floating Skull"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Hillel's 'If I am here, everyone is here' statement AND the reciprocal homes teaching, meaning the full baraita belongs under heading 1 ('Hillel's Statement') where the essay begins discussing this braita, rather than being split with only the second part under heading 3.",
+      "chosen_heading": "Hillel's Statement",
+      "current_heading": "Reciprocal Homes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Floating Skull",
+    "candidates": [
+      "Reciprocal Homes",
+      "Floating Skull",
+      "Legs Guarantors",
+      "Shlomo & Luz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the floating skull story (Hillel's statement about measure-for-measure justice) and Rabbi Yochanan's statement about feet/legs, and the 'Floating Skull' section's prose explicitly discusses both elements together, matching the current placement perfectly.",
+      "chosen_heading": "Floating Skull",
+      "current_heading": "Floating Skull",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shlomo & Luz",
+    "candidates": [
+      "Legs Guarantors",
+      "Shlomo & Luz",
+      "Angel Laughs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the two Cushite scribes, Solomon's encounter with the sad Angel of Death, and the sending to Luz \u2014 exactly what the 'Shlomo & Luz' section's prose discusses, before the arrival and death at Luz which is covered in the 'Angel Laughs' section.",
+      "chosen_heading": "Shlomo & Luz",
+      "current_heading": "Shlomo & Luz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Angel Laughs",
+    "candidates": [
+      "Angel Laughs",
+      "Torches & Kida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Solomon seeing the Angel of Death happy/laughing and his declaration about a person's feet leading him to his destined place, which matches exactly the prose in section 0 ('Angel Laughs').",
+      "chosen_heading": "Angel Laughs",
+      "current_heading": "Angel Laughs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Torches & Kida",
+    "candidates": [
+      "Torches & Kida",
+      "Levi's Knives",
+      "Wine Juggling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rabban Shimon ben Gamliel's torch-juggling and kida prostration, and Levi's demonstration of kida before Rabbi \u2014 exactly the content covered in the 'Torches & Kida' prose section, which explicitly discusses all these elements including the dual cause of Levi's lameness.",
+      "chosen_heading": "Torches & Kida",
+      "current_heading": "Torches & Kida",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Wine Juggling",
+    "candidates": [
+      "Levi's Knives",
+      "Wine Juggling",
+      "Egg Juggling",
+      "No Sleep",
+      "Daily Schedule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three juggling anecdotes (Levi, Shmuel, and Abaye) as a single Talmudic unit, and the heading 'Levi's Knives' with its prose about Levi juggling eight knives before Rabbi is the first and most natural home for this combined passage, rather than splitting it under 'Wine Juggling' where it currently sits.",
+      "chosen_heading": "Levi's Knives",
+      "current_heading": "Wine Juggling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Daily Schedule",
+    "candidates": [
+      "Egg Juggling",
+      "No Sleep",
+      "Daily Schedule",
+      "Dozing Reality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself containing Rabbi Yehoshua ben Chananya's testimony about no sleep during Simchat Beit HaShoeivah, which is precisely what the 'No Sleep' section's prose introduces, while 'Daily Schedule' prose describes the schedule as an explanation of how this was possible \u2014 meaning the baraita (which contains both the claim and the schedule) belongs under the heading that introduces the claim itself.",
+      "chosen_heading": "No Sleep",
+      "current_heading": "Daily Schedule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Dozing Reality",
+    "candidates": [
+      "Daily Schedule",
+      "Dozing Reality",
+      "Steps Setup",
+      "Songs Origin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24isda's question about the fifteen Songs of Ascents and David's digging of the shitin, which is precisely the content described in the 'Songs Origin' section's prose.",
+      "chosen_heading": "Songs Origin",
+      "current_heading": "Dozing Reality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Songs Origin",
+    "candidates": [
+      "Steps Setup",
+      "Songs Origin",
+      "Water Correction",
+      "Earth Depth",
+      "Step Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items narrate the continuous story of David digging the shitin, the tehom rising, Ahithophel's kal va-chomer permitting writing the divine name, and casting it into the depths \u2014 exactly the corrected account described in the 'Songs Origin' prose.",
+      "chosen_heading": "Songs Origin",
+      "current_heading": "Songs Origin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Step Counting",
+    "candidates": [
+      "Water Correction",
+      "Earth Depth",
+      "Step Counting",
+      "Eastward Turn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yirmiya's dilemma about which stair the priests stood on during the water-drawing ceremony, which matches precisely the 'Step Counting' section's prose about that exact question.",
+      "chosen_heading": "Step Counting",
+      "current_heading": "Step Counting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Eastward Turn",
+    "candidates": [
+      "Eastward Turn",
+      "God Dialogue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the complete baraita about the verse 'their backs toward the Sanctuary of the Lord,' and the 'Eastward Turn' prose explicitly discusses this exact baraita \u2014 the self-evident inference and the teaching that they exposed themselves in contempt toward the Heichal.",
+      "chosen_heading": "Eastward Turn",
+      "current_heading": "Eastward Turn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "God Dialogue",
+    "candidates": [
+      "God Dialogue",
+      "Tekiot Range",
+      "Daily Blasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'anu leYah uleYah eineinu' formula and Rabbi Zeira's concern about repeating God's name, which is precisely what the 'God Dialogue' section's prose addresses in detail.",
+      "chosen_heading": "God Dialogue",
+      "current_heading": "God Dialogue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Daily Blasts",
+    "candidates": [
+      "Tekiot Range",
+      "Daily Blasts",
+      "Shabbat Blasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the general rule of no fewer than twenty-one and no more than forty-eight tekiot \u2014 exactly what the 'Tekiot Range' prose discusses \u2014 before the 'Daily Blasts' section explains the breakdown of how twenty-one is achieved.",
+      "chosen_heading": "Tekiot Range",
+      "current_heading": "Daily Blasts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Shabbat Blasts",
+    "candidates": [
+      "Daily Blasts",
+      "Shabbat Blasts",
+      "Full Schedule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the six additional Shabbat eve blasts (three to stop labor, three to demarcate sacred from profane), which is exactly what the 'Shabbat Blasts' prose section discusses.",
+      "chosen_heading": "Shabbat Blasts",
+      "current_heading": "Shabbat Blasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Full Schedule",
+    "candidates": [
+      "Full Schedule",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the forty-eight blasts on Erev Shabbat during Sukkot, which is precisely what the 'Full Schedule' prose section discusses in detail.",
+      "chosen_heading": "Full Schedule",
+      "current_heading": "Full Schedule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "One or Three",
+      "Verb Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yehuda's minimum/maximum ruling and the tekiah-teruah-tekiah dispute, but the current placement under 'Rabbi Yehuda' is the best match since that section's prose explicitly covers both the baraita about seven/sixteen and the counting rationale, while candidate 1 ('One or Three') discusses the same material but is meant for the subsequent explanatory prose about the dispute's substance.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Verb Analysis",
+    "candidates": [
+      "One or Three",
+      "Verb Analysis",
+      "Torah Allowance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's scriptural source (utkatem teruah) and the Rabbis' counter-interpretation that the verse teaches tekiah precedes and follows teruah, which is precisely what the 'Verb Analysis' prose describes.",
+      "chosen_heading": "Verb Analysis",
+      "current_heading": "Verb Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Torah Allowance",
+    "candidates": [
+      "Torah Allowance",
+      "Yochanan Extreme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis' derivation from the verse about congregating with tekiah-not-teruah and Rabbi Yehuda's response that it is merely a signal, which precisely matches the 'Torah Allowance' section's prose.",
+      "chosen_heading": "Torah Allowance",
+      "current_heading": "Torah Allowance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Yochanan Extreme",
+    "candidates": [
+      "Yochanan Extreme",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the Gemara's question about whose opinion Rav Kahana's statement follows and the answer that it comes to exclude Rabbi Yochanan's position, which is precisely what the 'Yochanan Extreme' prose describes.",
+      "chosen_heading": "Yochanan Extreme",
+      "current_heading": "Yochanan Extreme",
+      "moved": false
+    }
+  }
+]

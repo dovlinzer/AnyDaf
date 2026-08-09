@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Kishuy Timeframe",
+    "candidates": [
+      "Kishuy Timeframe",
+      "Three Opinions",
+      "Sick vs. Healthy",
+      "Rabbi Levi",
+      "Rava's View",
+      "Rav Adda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the question about the kishuy timeframe and Rav \u1e24isda's sick/healthy resolution, spanning headings 0-2, but the current placement under 'Kishuy Timeframe' is acceptable since the prose there directly introduces the question this passage addresses; however, the content most precisely matches heading 2 ('Sick vs. Healthy') where Rav \u1e24isda's distinction is discussed \u2014 yet since the passage includes the setup question as well, the current placement is a reasonable home.",
+      "chosen_heading": "Kishuy Timeframe",
+      "current_heading": "Kishuy Timeframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rav Adda",
+    "candidates": [
+      "Three Opinions",
+      "Sick vs. Healthy",
+      "Rabbi Levi",
+      "Rava's View",
+      "Rav Adda",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Levi's position and Rav's counter-position about which days kishuy renders blood pure, which is precisely what the 'Rabbi Levi' section's prose discusses \u2014 the distinction between the eleven zavah days and other days \u2014 making that heading a clearly better match than 'Rav Adda' where it currently sits.",
+      "chosen_heading": "Rabbi Levi",
+      "current_heading": "Rav Adda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Rav Adda",
+      "Reconciliation",
+      "150 Days",
+      "Precise Count",
+      "Full 150 Count"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Reconciliation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 cover the challenge from Rabbi Meir's 40-50 days and Levi's resolution (mi katani), plus the second version with zavah gedolah/ketanah and Abba Shaul, all of which the Reconciliation prose explicitly discusses.",
+      "second_heading": "150 Days",
+      "second_confidence": "high",
+      "second_reason": "Items 7-8 introduce Rabbi Meir's baraita about 150 days of bleeding without zavah status, which the '150 Days' prose directly introduces as a new calculation.",
+      "current_heading": "Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Full 150 Count",
+    "candidates": [
+      "150 Days",
+      "Precise Count",
+      "Full 150 Count",
+      "Lifetime Bleeding",
+      "No Kishuy Miscarriage",
+      "100-Day Count",
+      "No Blood Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Full 150 Count",
+      "first_confidence": "high",
+      "first_reason": "Item 1 completes the 150-day count by adding the eighty days of post-female-birth purity, seven niddah days, and two zavah days, exactly matching the 'Full 150 Count' prose.",
+      "second_heading": "Lifetime Bleeding",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbis' objection that this reasoning leads to a scenario of lifetime bleeding with no zavah status, exactly matching the 'Lifetime Bleeding' prose.",
+      "current_heading": "Full 150 Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "No Blood Requirement",
+    "candidates": [
+      "Lifetime Bleeding",
+      "No Kishuy Miscarriage",
+      "100-Day Count",
+      "No Blood Requirement",
+      "Ninth Month Lenient"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Kishuy Miscarriage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Meir's response about miscarriage not benefiting from kishuy leniency, which matches the 'No Kishuy Miscarriage' prose perfectly.",
+      "second_heading": "100-Day Count",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the baraita about 100 days of bleeding without zavah status and the Gemara's explanation that it teaches ptichat hakever does not require blood, matching both '100-Day Count' and 'No Blood Requirement' prose \u2014 and since item 3 is already under 'No Blood Requirement' and item 2 belongs with the 100-day baraita introduction, the split places item 2 under '100-Day Count' (index 2).",
+      "current_heading": "No Blood Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ninth Month Lenient",
+    "candidates": [
+      "No Blood Requirement",
+      "Ninth Month Lenient",
+      "Eighth Month Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda citing Rabbi Tarfon on 'daiyah chodshah' (her month is sufficient) with both leniency and stringency, which exactly matches the prose of candidate 1 ('Ninth Month Lenient').",
+      "chosen_heading": "Ninth Month Lenient",
+      "current_heading": "Ninth Month Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Eighth Month Strict",
+    "candidates": [
+      "Eighth Month Strict",
+      "Ninth Month Always OK",
+      "Calendar Month",
+      "271 Days"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eighth Month Strict",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the stringent case (two days at end of eighth month, one at beginning of ninth \u2192 yoledet bezov), which matches exactly the 'Eighth Month Strict' prose.",
+      "second_heading": "Ninth Month Always OK",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the lenient case (one day at end of eighth month, two at beginning of ninth \u2192 not yoledet bezov), which matches exactly the 'Ninth Month Always OK' prose.",
+      "current_heading": "Eighth Month Strict",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "271 Days",
+    "candidates": [
+      "Ninth Month Always OK",
+      "Calendar Month",
+      "271 Days",
+      "Chasidim Wednes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Adda bar Ahava's inference that Rabbi Yehuda holds 'shipura garin' (the shofar causes), which is precisely what the 'Calendar Month' prose discusses, followed by the challenge from Shmuel's 271-day statement which sets up the next section.",
+      "chosen_heading": "Calendar Month",
+      "current_heading": "271 Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Chasidim Wednes",
+    "candidates": [
+      "271 Days",
+      "Chasidim Wednes",
+      "Day Calculation",
+      "Gematria 271"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chasidim Wednes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about the early pious men practicing intercourse only on Wednesday to avoid Shabbat births, which is exactly what the 'Chasidim Wednes' prose describes.",
+      "second_heading": "Day Calculation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the Gemara's question ('why only Wednesday?') and answer ('from Wednesday onward'), which matches precisely the 'Day Calculation' prose that works through the arithmetic of why Sunday/Monday/Tuesday are excluded while Wednesday onward is safe.",
+      "current_heading": "Chasidim Wednes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Gematria 271",
+    "candidates": [
+      "Day Calculation",
+      "Gematria 271",
+      "Seventh Month Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Mar Zutra's gematria derivation of 271 from the word 'herayon,' which is exactly what the 'Gematria 271' section's prose describes.",
+      "chosen_heading": "Gematria 271",
+      "current_heading": "Gematria 271",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Seventh Month Birth",
+    "candidates": [
+      "Seventh Month Birth",
+      "Two Week Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Mar Zutra's distinction regarding seven-month births and the derivation from the verse about Hannah, which is exactly what the 'Seventh Month Birth' section's prose discusses.",
+      "chosen_heading": "Seventh Month Birth",
+      "current_heading": "Seventh Month Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Two Week Limit",
+    "candidates": [
+      "Two Week Limit",
+      "Two Week Verse",
+      "25 Days Max",
+      "26 Days Zavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yosei and Rabbi Shimon's two-week limit and Shmuel's explanation of the Rabbis' reasoning, which matches heading 0's prose about the restrictive position and Shmuel explaining the view \u2014 heading 1 covers the detailed verse analysis that follows, but this passage is the introduction to that reasoning, best placed under 'Two Week Limit'.",
+      "chosen_heading": "Two Week Limit",
+      "current_heading": "Two Week Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "26 Days Zavah",
+    "candidates": [
+      "Two Week Verse",
+      "25 Days Max",
+      "26 Days Zavah",
+      "Two Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together constitute exactly the baraita and Gemara discussion described in the '26 Days Zavah' prose: the 25-day scenario, the impossibility of 26 days without becoming a zavah, Rav Sheshet's proposed emendation, Rava's rejection, and Rava's resolution involving ein koshi linefalim \u2014 all of which are laid out in detail in candidate 2's prose.",
+      "chosen_heading": "26 Days Zavah",
+      "current_heading": "26 Days Zavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Two Positions",
+    "candidates": [
+      "Two Positions",
+      "First Argument",
+      "Dayo Principle",
+      "Second Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the Mishnah and opening Gemara presenting the two-position dispute (tanna kamma vs. Rabbi Eliezer) about blood during labor pains within eighty days of a female birth, which is exactly what heading 0 'Two Positions' describes.",
+      "chosen_heading": "Two Positions",
+      "current_heading": "Two Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Second Argument",
+    "candidates": [
+      "First Argument",
+      "Dayo Principle",
+      "Second Argument",
+      "Self vs. Fetus",
+      "Wellspring Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbis' initial kal vachomer argument to Rabbi Eliezer comparing dam shofei and dam koshi before and after birth, which is precisely what the 'First Argument' prose describes, not the 'Second Argument' which involves a reformulation comparing kishuy after birth to non-pain after birth.",
+      "chosen_heading": "First Argument",
+      "current_heading": "Second Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Wellspring Limit",
+    "candidates": [
+      "Self vs. Fetus",
+      "Wellspring Limit",
+      "No Niddah Either"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Self vs. Fetus",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Rabbi Eliezer / Rabbis dayo exchange about the kal vachomer reformulation, which precisely matches heading 0's prose about that back-and-forth debate.",
+      "second_heading": "Wellspring Limit",
+      "second_confidence": "medium",
+      "second_reason": "Item 4 is Rava's tahorah mimkor dameha argument that matches heading 1's prose exactly, and item 5 while belonging to heading 2 is closer to heading 1 than heading 0.",
+      "current_heading": "Wellspring Limit",
+      "moved": true
+    }
+  }
+]

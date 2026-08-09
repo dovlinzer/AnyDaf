@@ -1,0 +1,436 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Individual Pesach Sheni",
+    "candidates": [
+      "Five Pesachim w/ Mum",
+      "Individual Pesach Sheni",
+      "Priest Covers All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the proposal to bring a kohen along to handle the chazeh v'shok problem, which is precisely what candidate 2 ('Priest Covers All') describes \u2014 the suggestion of 'veneyti kol chad vechad kohen bahadeih' and its implications \u2014 not the initial collapse of the stipulation discussed in candidate 1.",
+      "chosen_heading": "Priest Covers All",
+      "current_heading": "Individual Pesach Sheni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Priest Covers All",
+    "candidates": [
+      "Individual Pesach Sheni",
+      "Priest Covers All",
+      "Sanctify as Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's objection to the 'each brings a kohen' solution and its refinement ('let all five bring one kohen'), which is precisely what the 'Priest Covers All' prose describes in detail \u2014 venimtza Pesach ne'echal shelo limnuyav and the demia nafshach resolution.",
+      "chosen_heading": "Priest Covers All",
+      "current_heading": "Priest Covers All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sanctify as Pesach",
+    "candidates": [
+      "Sanctify as Pesach",
+      "Motar Pesach Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the incompatibility between Pesach's one-day eating window and the shelamim's two-day window, which is precisely what the prose under heading 0 ('Sanctify as Pesach') discusses with the exact same Aramaic phrase d'ilu Pesach l'yom valailah v'ilu shelamim lishnei yamim valailah echad.",
+      "chosen_heading": "Sanctify as Pesach",
+      "current_heading": "Sanctify as Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Motar Pesach Money",
+    "candidates": [
+      "Motar Pesach Money",
+      "Semicha by Women",
+      "Dam Shfika Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the motar Pesach proposal \u2014 suggesting it, elaborating the stipulation, and then challenging whether one can initially designate something as motar \u2014 which matches exactly the 'Motar Pesach Money' section's prose about this specific gemara topic.",
+      "chosen_heading": "Motar Pesach Money",
+      "current_heading": "Motar Pesach Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Dam Shfika Problem",
+    "candidates": [
+      "Semicha by Women",
+      "Dam Shfika Problem",
+      "Tosafot Objection",
+      "Who Gets There First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of distinctions between Pesach and shelamim (semicha, matanot, shfika/zerika) that is precisely described in the 'Dam Shfika Problem' prose, including the bedi'avad/lechatchila resolution at the end.",
+      "chosen_heading": "Dam Shfika Problem",
+      "current_heading": "Dam Shfika Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Who Gets There First",
+    "candidates": [
+      "Tosafot Objection",
+      "Who Gets There First",
+      "Incentive, Not Breira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text about the father declaring he will slaughter the Pesach for whichever child arrives first, with the rule of rosho ve'rubo and zachah be'chelko u'mezakeh et echav imo \u2014 precisely what the 'Who Gets There First' prose describes and analyzes.",
+      "chosen_heading": "Who Gets There First",
+      "current_heading": "Who Gets There First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Incentive, Not Breira",
+    "candidates": [
+      "Incentive, Not Breira",
+      "Daughters vs. Sons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the breira challenge, Rabbi Yo\u1e25anan's motivational resolution, and the diyuk proof from 'acquires for his brothers' \u2014 are precisely what the 'Incentive, Not Breira' prose describes, and the current placement is correct.",
+      "chosen_heading": "Incentive, Not Breira",
+      "current_heading": "Incentive, Not Breira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Daughters vs. Sons",
+    "candidates": [
+      "Daughters vs. Sons",
+      "Kezayit Minimum",
+      "Rav Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about daughters preceding sons and being deemed zealous while sons were lazy, which is precisely what the 'Daughters vs. Sons' section's prose discusses.",
+      "chosen_heading": "Daughters vs. Sons",
+      "current_heading": "Daughters vs. Sons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav Shimon View",
+    "candidates": [
+      "Kezayit Minimum",
+      "Rav Shimon View",
+      "Replace Whole Group"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Mishnah text covering both the kezayit minimum rule AND the withdrawal/Rabbi Shimon position, but its primary content opening with 'leolam nimnin alav' and the kezayit requirement matches heading 0's prose which quotes exactly this language, while headings 1 and 2 cover only portions of the Mishnah that the essay author treats as separate topics in their own prose sections \u2014 the whole Mishnah unit belongs under the first heading that introduces it.",
+      "chosen_heading": "Kezayit Minimum",
+      "current_heading": "Rav Shimon View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Replace Whole Group",
+    "candidates": [
+      "Rav Shimon View",
+      "Replace Whole Group",
+      "Join/Withdraw Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks what the Mishnah's chiddush is and answers that even a complete chavura can be replaced by a new one \u2014 exactly what the 'Replace Whole Group' prose describes.",
+      "chosen_heading": "Replace Whole Group",
+      "current_heading": "Replace Whole Group",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Join/Withdraw Timeline",
+    "candidates": [
+      "Join/Withdraw Timeline",
+      "Solo Invitation",
+      "Separate Portions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between the Rabbis and Rabbi Shimon about when one can withdraw from or join a Paschal lamb registration, which is precisely what the 'Join/Withdraw Timeline' prose describes, including Abaye's clarification and the confirming baraita.",
+      "chosen_heading": "Join/Withdraw Timeline",
+      "current_heading": "Join/Withdraw Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Separate Portions",
+    "candidates": [
+      "Solo Invitation",
+      "Separate Portions",
+      "Glutton Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage describes the case of someone who registers another person with him without consulting the group \u2014 which is precisely what the 'Solo Invitation' prose introduces as its topic, while 'Separate Portions' discusses the ruling/consequence rather than the case itself.",
+      "chosen_heading": "Solo Invitation",
+      "current_heading": "Separate Portions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Glutton Problem",
+    "candidates": [
+      "Separate Portions",
+      "Glutton Problem",
+      "Shamash Eats First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous gemara discussion about the 'fine hands' (glutton) dilemma \u2014 the initial question, the attempted proof from the mishna, and the gemara's rejection of that proof \u2014 which exactly matches the 'Glutton Problem' section's prose.",
+      "chosen_heading": "Glutton Problem",
+      "current_heading": "Glutton Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Shamash Eats First",
+    "candidates": [
+      "Shamash Eats First",
+      "Group Follows or Stays",
+      "Can't Force Shamash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's core content is the Gemara's inference and question \u2014 'if they wanted yes, if not no, but why can't the shamash demand they come?' \u2014 which matches heading 2's prose about why the shamash cannot force the group to follow him, including the answer about the terms of acceptance.",
+      "chosen_heading": "Can't Force Shamash",
+      "current_heading": "Shamash Eats First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Can't Force Shamash",
+    "candidates": [
+      "Group Follows or Stays",
+      "Can't Force Shamash",
+      "Baraita: Five Separate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Talmudic text answering why the shamash cannot demand the group come to him, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Can't Force Shamash",
+      "current_heading": "Can't Force Shamash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Baraita: Five Separate",
+    "candidates": [
+      "Baraita: Five Separate",
+      "Real Question: Divide?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the Tosefta about members with fine hands and the sibolet case, which is exactly what the 'Baraita: Five Separate' prose describes \u2014 the baraita permitting expulsion of a disproportionate eater from both Pesach groups and communal meal arrangements.",
+      "chosen_heading": "Baraita: Five Separate",
+      "current_heading": "Baraita: Five Separate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Real Question: Divide?",
+    "candidates": [
+      "Real Question: Divide?",
+      "Proof: Only If Unequal",
+      "Papa Gobbles Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 poses the 'real question' about whether members may divide up (matching heading 0's prose exactly), and Item 2 is the gemara's attempt to answer that question from the baraita \u2014 both together belong under 'Real Question: Divide?' since the proof cited in Item 2 directly resolves the dilemma raised in Item 1, and heading 1's prose ('Proof: Only If Unequal') seems to describe a summary/codification step rather than the live gemara exchange shown here.",
+      "chosen_heading": "Real Question: Divide?",
+      "current_heading": "Real Question: Divide?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Papa Gobbles Four",
+    "candidates": [
+      "Proof: Only If Unequal",
+      "Papa Gobbles Four",
+      "Huna Wants Out",
+      "Papa Refuses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Rav Pappa and Rav Huna pooling bread and Rav Pappa eating four portions while Rav Huna ate one, which matches the 'Papa Gobbles Four' section's prose precisely.",
+      "chosen_heading": "Papa Gobbles Four",
+      "current_heading": "Papa Gobbles Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Papa Refuses",
+    "candidates": [
+      "Huna Wants Out",
+      "Papa Refuses",
+      "Ravina Even Worse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Papa answering each of Rav Huna's objections with distinctions (including the Pesach/le'tikkunei zevach explanation) and finally conceding on the sibolot proof \u2014 exactly what the 'Papa Refuses' prose describes.",
+      "chosen_heading": "Papa Refuses",
+      "current_heading": "Papa Refuses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Ravina Even Worse",
+    "candidates": [
+      "Ravina Even Worse",
+      "Pesach: Join Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna joining with Ravina for a meal and Ravina eating eight times more, matching exactly the prose under 'Ravina Even Worse.'",
+      "chosen_heading": "Ravina Even Worse",
+      "current_heading": "Ravina Even Worse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Pesach: Join Allowed",
+    "candidates": [
+      "Pesach: Join Allowed",
+      "Olah: No Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita covers both the Pesach joining rule AND the olah/shelamim transfer rule as a single unit, and candidate 1's prose explicitly discusses the full baraita including both halves and the contrast between them, making it the better home for the complete passage.",
+      "chosen_heading": "Olah: No Transfer",
+      "current_heading": "Pesach: Join Allowed",
+      "moved": true
+    }
+  }
+]

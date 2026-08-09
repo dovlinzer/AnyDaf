@@ -1,20 +1,13 @@
-# Bava Batra 74 — Daf Yomi Shiur
-
+[DAF:74a]
 ## Dead Desert & Tzitzit
 
-### Introduction
 
-> **Hebrew/Aramaic:** וְגָנוּ אַפַּרְקִיד. וַהֲוָה זְקִיפָא בִּרְכֵּיהּ דְּחַד מִינַּיְיהוּ, וְעָיֵל טַיָּיעָא תּוּתֵי בִּרְכֵּיהּ כִּי רְכִיב גַּמְלָא, וּזְקִיפָא רוּמְחֵיהּ וְלָא נָגַע בֵּיהּ.
->
-> **Translation:** **and they were lying on their backs. And the knee of one of them was elevated, and he was so enormous that the Arab entered under his knee while riding a camel and with his spear upright, and he did not touch him.**
+
+### Introduction
 
 The daf opens in the middle of a classic section of *aggadata* centered on sea stories and fantastic narratives, picking up at the bottom of 73b. The subject is Rabbah bar Bar Chana, who recounts his encounters with an Arab Bedouin nomad who knew the secrets of the wilderness and offered to show him its hidden wonders.
 
 ### Bodies in Wilderness
-
-> **Hebrew/Aramaic:** אָמַר לִי: תָּא אַחֲוֵי לָךְ מֵתֵי מִדְבָּר. אֲזַלִי, חֲזִיתִינְהוּ וְדָמוּ כְּמַאן דְּמִיבַּסְּמִי,
->
-> **Translation:** That Arab **said to me: Come, I will show you the dead of the wilderness,** i.e., the Jewish people who left Egypt and died in the wilderness. **I went and saw them; and they had the appearance of one who is intoxicated,**
 
 The nomad said to Rabbah bar Bar Chana: *ta achvei lach mesei midbar* — come, let me show you those who died in the desert, the *Bnei Yisrael* who perished during the forty years of wandering in the wilderness. They went, and Rabbah reports: *vedamu keman demivsemi* — they looked as though they were slightly drunk, with a smile on their faces, as the *Rashbam* explains. They were lying on their backs — the term *aparkid* is debated as to whether it means face-up or face-down, but since Rabbah could see their faces, the implication is clearly that they were lying on their backs.
 
@@ -22,25 +15,13 @@ One remarkable detail: the knees of one of the bodies were raised, and the nomad
 
 ### Cutting Tzitzit
 
-> **Hebrew/Aramaic:** פְּסַקִי חֲדָא קַרְנָא דִתְכֵלְתָּא דְּחַד מִינַּיְיהוּ, וְלָא הֲוָה מִסְתַּגִּי לַן.
->
-> **Translation:** I cut one corner of the sky-blue garment that contains ritual fringes of one of them, and we were unable to walk.
-
 Rabbah then reasoned that as long as he was there, he should try to learn something practical. He therefore cut off the corner of one of their *tzitzit* — the *tcheiles* string — in order to bring back evidence of how the *mitzvah* of *tzitzit* was originally performed. After all, the *Torah* defines *tzitzit* in only a few words: *ve'asu lahem tzitzit*, *al kanfei bigdeichem*, *knaf pesil tcheiles* — and there are many debates about the precise manner of their construction. What better source than the very people who first received and fulfilled the commandment?
 
 ### Curse & Return
 
-> **Hebrew/Aramaic:** אָמַר לִי: דִּלְמָא שְׁקַלְתְּ מִידֵּי מִינַּיְיהוּ? אַהְדְּרֵיהּ, דִּגְמִירִי דְּמַאן דְּשָׁקֵיל מִידֵּי מִינַּיְיהוּ לָא מִסְתַּגִּי לֵיהּ. אֲזַלִי אַהְדַּרְתֵּיהּ, וַהֲדַר מִסְתַּגִּי לַן.
->
-> **Translation:** He **said to me: Perhaps you took something from them? Return it, as we know by tradition that one who takes something from them cannot walk. I then returned the corner of the garment, and then we were able to walk.**
-
 After cutting off the corner, Rabbah and the nomad found that they were unable to move forward — *velo hava mistagyei lan*. The nomad asked whether Rabbah had taken anything from the bodies. When Rabbah confirmed that he had, the nomad explained that there is a firm tradition: *deman deshakeil midi mineihu, lo mistagyei lei* — anyone who takes something from the dead of the wilderness will not be able to move. Rabbah returned the *tzitzit* to the corpse, and immediately they were able to travel again.
 
 ### Rabbis' Mockery
-
-> **Hebrew/Aramaic:** כִּי אֲתַאי לְקַמֵּיהּ דְּרַבָּנַן, אֲמַרוּ לִי: כֹּל ״אַבָּא״ – חַמְרָא, וְכֹל ״בַּר בַּר חָנָה״ – סִיכְסָא! לְמַאי הִלְכְתָא עֲבַדְתְּ הָכִי? לְמִידַּע אִי כְּבֵית שַׁמַּאי אִי כְּבֵית הִלֵּל? אִיבְּעִי לָךְ לְמִימְנֵי חוּטִין וּלְמִימְנֵי חוּלְיוֹת.
->
-> **Translation:** **When I came before the Sages, they said to me in rebuke: Every Abba is a donkey, and every bar bar Ḥana is an idiot. For the purpose of clarifying what *halakha* did you do that? If you wanted to know whether the *halakha* is in accordance with the opinion of Beit Shammai or in accordance with the opinion of Beit Hillel, as to whether there are four or three threads and joints in ritual fringes, in that case there was no need to take anything with you, as you should have simply counted the threads and counted the joints.**
 
 When Rabbah bar Bar Chana returned to the *beit midrash* and reported what had happened, the rabbis mocked him: *kol Abba chamra, v'kol Bar Bar Chana sachsa* — every Abba is a donkey and every Bar Bar Chana is a fool. The mockery plays on his actual first name, Abba. They then asked: *l'mai hilchasa avdas hachi?* — for what halachic purpose did you do this? To know whether the practice followed *Beis Shammai* or *Beis Hillel* in constructing *tzitzit*? The comparison is apt: when *tefillin* were recovered at Masada, scholars hoped to determine from them whether the order of the *parshiyos* followed Rashi or Rabbeinu Tam — and indeed both types were found. Similarly, Rabbah wanted to see how these ancient figures had made their *tzitzit*. But the rabbis pointed out that even if he had to return the piece he cut, he could at least have counted the strings (*chutin*) and the wraps (*chulyos*) before returning it. He had all or nothing thinking when a middle path was available.
 
@@ -66,27 +47,17 @@ The active removal of *tzitzit*, rather than simple omission, is symbolically po
 
 ## Sinai & Scorpions
 
-### Sinai Scorpions
 
-> **Hebrew/Aramaic:** אָמַר לִי: תָּא אַחְוֵי לָךְ הַר סִינַי. אֲזַלִי, חֲזַאי דְּהָדְרָא לֵיהּ עַקְרַבָּא, וְקָיְימָא כִּי חֲמָרֵי חִווֹרָתִי.
->
-> **Translation:** This Arab also **said to me: Come, I will show you Mount Sinai. I went and saw that scorpions were encircling it, and they were standing as high as white donkeys.**
+
+### Sinai Scorpions
 
 Continuing with the account of the Arab nomad, he said to Rabbah bar Bar Chana: *ta achvei lach hai Sinai* — come, let me show you Mount Sinai. They went, and Rabbah saw that the mountain was surrounded by scorpions — *de-hadra lei akrava* — scorpions the size of white donkeys. The reference to white donkeys is significant: the *Gemara* records that one does not recover from the bite of a white donkey, making the image of such creatures surrounding the mountain all the more forbidding.
 
 ### Heavenly Voice
 
-> **Hebrew/Aramaic:** שָׁמַעְתִּי בַּת קוֹל שֶׁאוֹמֶרֶת: ״אוֹי לִי שֶׁנִּשְׁבַּעְתִּי; וְעַכְשָׁיו שֶׁנִּשְׁבַּעְתִּי – מִי מֵפֵר לִי?״
->
-> **Translation:** I heard a Divine Voice saying: Woe is Me that I took an oath; and now that I took the oath, who will nullify it for me?
-
 There, Rabbah heard a heavenly voice — a *bat kol* — saying: *oy li she-nishbati, v'akhshav she-nishbati mi mefer li?* — woe to Me that I took this oath, and now that I have taken it, who can annul it for Me?
 
 ### Failed Annulment
-
-> **Hebrew/Aramaic:** כִּי אֲתַאי לְקַמֵּיהּ דְּרַבָּנַן, אֲמַרוּ לִי: כָּל ״אַבָּא״ – חַמְרָא, כׇּל ״בַּר בַּר חָנָה״ – סִיכְסָא! הָיָה לְךָ לוֹמַר ״מוּפָר לָךְ״! וְהוּא סָבַר: דִּלְמָא שְׁבוּעֲתָא דְמַבּוּל הוּא. וְרַבָּנַן – אִם כֵּן, ״אוֹי לִי״ לָמָּה?
->
-> **Translation:** **When I came before the Sages, they said to me in rebuke: Every Abba is a donkey, and every bar bar Ḥana is an idiot. You should have said: Your oath is nullified. And Rabbah bar Bar Chana did not nullify the oath because he reasoned: Perhaps God is referring to the oath that He will not flood the earth again. But the Sages would argue that if that were so, why say: Woe is Me?** Rather, this must be referring to God's oath of exile upon the Jewish people.
 
 When Rabbah returned to the *beit midrash* and reported this, the rabbis again rebuked him: *kol Abba chamra, v'kol Bar Bar Chana sikhla* — every Abba is a donkey, every Bar Bar Chana is a fool. God was effectively inviting someone to be *matir* His *neder* — and Rabbah had missed the opportunity. The *Gemara* explains that Rabbah hesitated because he thought the *shevuah* in question might have been God's oath after the *mabul* never to flood the world again, and he did not want to release that vow lest God destroy the world. The rabbis, however, understood it differently: God would surely not lament an oath that prevented Him from wiping out humanity. Rather, the *shevuah* must have been the oath consigning *Bnei Yisrael* to exile — God suffers alongside the suffering of *Bnei Yisrael*, and that is why He cries out in pain about the oath He has taken.
 
@@ -98,19 +69,13 @@ One might also ask why the *shevuah* about *galut* would be heard specifically a
 
 ## Korah & Confession
 
-### Cracks & Wool Test
 
-> **Hebrew/Aramaic:** אָמַר לִי: תָּא אַחְוֵי לָךְ בְּלוּעֵי דְקֹרַח. חֲזַאי תְּרֵי בִּיזְעֵי, וַהֲווֹ קָא מַפְּקִי קוּטְרָא. שְׁקַל גְּבָבָא דְעַמְרָא וְאַמְשִׁינֵּהּ בְּמַיָּא, וְדַעֲצִיתֵהּ בְּרֵאשֵׁהּ דְּרוּמְחָא וְעַיְּילֵיהּ הָתָם, וְכִי אַפֵּיק, הֲוָה אִיחֲרַךְ אִיחֲרוֹכֵי.
->
-> **Translation:** Rabba bar bar Ḥana continues his account. The Arab also **said to me: Come, I will show you those who were swallowed by the earth due to the sin of Korah. I saw two rifts in the ground that were issuing smoke. The Arab took a shearing of wool, and dipped it in water, and inserted it on the head of a spear, and placed it there. And when he removed the wool, it was scorched.**
+
+### Cracks & Wool Test
 
 The nomad then said: *ta achvei lach beluei d'Korach* — come, let me show you where the earth swallowed up Korah's camp. Rabbah saw two cracks in the ground from which smoke was rising. To gauge the heat, he took a clump of wet wool, soaked it in water, attached it to the end of a pole, lowered it into the crack, and when he drew it back up it was singed. The heat below was intense.
 
 ### Monthly Return
-
-> **Hebrew/Aramaic:** אָמַר לִי: אַצֵּית מַאי שָׁמְעַתְּ, וּשְׁמַעִית דַּהֲווֹ אָמְרִין: ״מֹשֶׁה וְתוֹרָתוֹ אֱמֶת, וְהֵן בַּדָּאִין״. אֲמַר לִי: כֹּל תְּלָתִין יוֹמֵי מַהְדַּר לְהוּ גֵּיהִנָּם לְהָכָא כְּבָשָׂר בְּקַלַּחַת, וְאָמְרִי הָכִי: ״מֹשֶׁה וְתוֹרָתוֹ אֱמֶת, וְהֵן בַּדָּאִין״.
->
-> **Translation:** He said to me: Listen to what you hear; and I heard that they were saying: Moses and his Torah are true, and they, i.e., we in the earth, are liars. The Arab further said to me: Every thirty days Gehenna returns them to here, like meat in a pot that is moved around by the boiling water as it cooks. And every time they say this: Moses and his Torah are true, and they, i.e., we in the earth, are liars.
 
 The nomad then said: *atzit mah shamat* — listen carefully to what is being said. Every thirty days, *kol tlatzin yomin*, the followers of Korah are returned from *Gehinnom* to this place — *mahadu l'Gehinnom l'hacha* — like a piece of meat being turned over in a boiling pot, *k'vasra b'chalachta*, so that both sides are exposed to the heat. This place in the depths of the earth is evidently not *Gehinnom* itself; most of the time they are elsewhere, in *Gehinnom*, but once a month they cycle back to the precise location of their sin.
 
@@ -120,19 +85,13 @@ And when they return, they say: *Moshe v'Torato emet v'hen badaya* — Moses and
 
 ## Heaven & Earth
 
-### Mountain Top Window
 
-> **Hebrew/Aramaic:** אָמַר לִי: תָּא אַחְוֵי לָךְ הֵיכָא דְּנָשְׁקִי אַרְעָא וּרְקִיעָא אַהֲדָדֵי. שְׁקַלְתָּא לְסִילְתַּאי, אַתְנַחְתָּא בְּכַוְּותָא דִרְקִיעָא.
->
-> **Translation:** This Arab also **said to me: Come, I will show you the place where the earth and the heavens touch each other. I took my basket and placed it in a window of the heavens.**
+
+### Mountain Top Window
 
 The nomad continued: *ta achvei lach heicha d'nashki ara v'rakia* — come, let me show you where heaven and earth kiss. He brought Rabbah to a mountain so high that one could actually touch the physical dome of the *rakia* — the firmament understood by the Sages as a tangible covering stretched over the earth. Here at this point, heaven and earth meet one another.
 
 ### Basket Disappears
-
-> **Hebrew/Aramaic:** אַדִּמְצַלֵּינָא, בְּעֵיתֵהּ וְלָא אַשְׁכַּחְתֵּהּ. אָמֵינָא לֵיהּ: אִיכָּא גַּנָּבֵי הָכָא? אֲמַר לִי: הַאי גִּלְגְּלָא דִרְקִיעָא הֲוָה דְּהָדַר, נְטַר עַד לִמְחַר הָכָא – וּמַשְׁכַּחַתְּ לַהּ.
->
-> **Translation:** After I finished praying, I searched for it but did not find it. I said to him: Are there thieves here? He said to me: This is the heavenly sphere that is turning around; wait here until tomorrow and you will find it.
 
 Rabbah placed his bread basket — his knapsack — into a small window or opening in the *rakia*, similar to the *arubbot ha-shamayim* referenced in connection with the *mabul*. He set the basket down there because it was time to *daven* — and what better place than standing at the threshold of heaven? When he finished his prayers and went to retrieve the basket, it was gone. He asked whether there were perhaps thieves even at the mountaintop — or perhaps in heaven itself.
 
@@ -146,19 +105,17 @@ One interpretation connects the bread basket to *parnassah*: the Arab nomad — 
 
 ## Sea Tales Start
 
-### Moon-eyed Fish
 
-> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בִּסְפִינְתָּא; וַחֲזֵינַן הָהוּא כְּווֹרָא דְּאַפְּקֵיהּ לְרֵישֵׁהּ מִיַּמָּא, וְדָמְיָין עַיְינֵיהּ כִּתְרֵי סֵיהֲרֵי; וּנְפוּץ מַיָּא מִתַּרְתֵּי זִימֵיהּ כִּתְרֵי מַבָּרֵי דְסוּרָא.
->
-> **Translation:** **Rabbi Yoḥanan relates: Once we were traveling on a ship and we saw a certain fish that took its head out of the sea, and its eyes had the appearance of two moons, and water scattered from its two gills like the two rivers of Sura.**
+
+### Moon-eyed Fish
 
 Having concluded the accounts involving the Arab nomad, the *Gemara* transitions to sea tales told by rabbis about their own voyages. The verb used here — *mishtayei* — suggests a storytelling mode rather than a formal legal pronouncement. Rabbi Yochanan told the following: once, while traveling by boat, he saw a sea creature that lifted its head out of the ocean. Its eyes looked like two moons, and water was flowing from its two nostrils like the two rivers of Sura.
 
+> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בִּסְפִינְתָּא; וַחֲזֵינַן הָהוּא כְּווֹרָא דְּאַפְּקֵיהּ לְרֵישֵׁיהּ מִיַּמָּא, וְדָמְיָין עַיְינֵיהּ כִּתְרֵי סֵיהֲרֵי; וּנְפוּץ מַיָּא מִתַּרְתֵּי זִימֵיהּ כִּתְרֵי מַבָּרֵי דְסוּרָא. רַב סָפְרָא מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בִּסְפִינְתָּא; וַחֲזֵינַן הָהוּא כְּווֹרָא דְּאַפְּקֵיהּ לְרֵישֵׁיהּ מִיַּמָּא, וַהֲוָה לֵיהּ קַרְנֵי וַחֲקִיק עֲלָיהּ: ״אֲנָא בְּרִיָּה קַלָּה שֶׁבַּיָּם״; וַהֲוֵינָא תְּלָת מְאָה פַּרְסֵי, וְאָזֵילְנָא לְפוּמָּא דְלִוְיָתָן. אָמַר רַב אָשֵׁי: הָהוּא עִיזָּא דְיַמָּא הוּא, דְּבָחִישָׁא וְאִית לַהּ קַרְנֵי.
+> **Translation:** § **Rabbi Yoḥanan relates: Once we were traveling on a ship and we saw a certain fish that took its head out of the sea, and its eyes had the appearance of two moons, and water scattered from its two gills like the two rivers of Sura. Rav Safra relates: Once we were traveling on a ship and we saw a certain fish that took its head out of the sea, and it had horns, and** the following was **inscribed on them: I am a lowly creature of the sea and I am three hundred parasangs** long, **and I am going into the mouth of the leviathan. Rav Ashi said: That is the goat of the sea, which searches** through the sea **and has horns.**
+
 ### Horned Fish
 
-> **Hebrew/Aramaic:** רַב סָפְרָא מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בִּסְפִינְתָּא; וַחֲזֵינַן הָהוּא כְּווֹרָא דְּאַפְּקֵיהּ לְרֵישֵׁהּ מִיַּמָּא, וַהֲוָה לֵיהּ קַרְנֵי וַחֲקִיק עֲלָיהּ: ״אֲנָא בְּרִיָּה קַלָּה שֶׁבַּיָּם״; וַהֲוֵינָא תְּלָת מְאָה פַּרְסֵי, וְאָזֵילְנָא לְפוּמָּא דְלִוְיָתָן. אָמַר רַב אָשֵׁי: הָהוּא עִיזָּא דְיַמָּא הוּא, דְּבָחִישָׁא וְאִית לַהּ קַרְנֵי.
->
-> **Translation:** **Rav Safra relates: Once we were traveling on a ship and we saw a certain fish that took its head out of the sea, and it had horns, and the following was inscribed on them: I am a lowly creature of the sea and I am three hundred parasangs long, and I am going into the mouth of the leviathan. Rav Ashi said: That is the goat of the sea, which searches through the sea and has horns.**
 
 Rav Saphra likewise told a story: once, while at sea, he saw a creature that stuck its head out of the water and had horns. Inscribed on the horns was the following: *ana birya kala she-ba-yam* — I am merely a small creature of the sea — *ve-havina tlath mea parsei* — and I am three hundred *parsa'ot* long — *ve-azlina le-phuma de-Livyathan* — and I am going into the mouth of the *Livyathan*. If this creature considers itself small and is merely *Livyathan*'s breakfast, one can begin to appreciate the dimensions of the *Livyathan* itself.
 
@@ -166,69 +123,50 @@ Rav Saphra likewise told a story: once, while at sea, he saw a creature that stu
 
 Rav Ashi commented that the horns identify this creature as the goat of the sea — a *iza de-yama* — which uses its horns to dig in the ocean floor in search of food. Just as sea horses are known, so too were sea goats, and their horns serve a practical foraging function.
 
+[DAF:74b]
 ### Treasure Chest
 
-> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בִּסְפִינְתָּא; וַחֲזֵינַן הָהִיא קַרְטְלִיתָא, דַּהֲווֹ קָא מְקַבְּעִי בַּהּ אֲבָנִים טוֹבוֹת וּמַרְגָּלִיּוֹת, וְהָדְרִי לַהּ מִינֵי דִכְווֹרֵי דְּמִקְּרֵי כַּרְשָׁא. נְחֵית
->
-> **Translation:** **Rabbi Yoḥanan relates: Once we were traveling on a ship and we saw a certain crate [*kartalita*] in which precious stones and pearls were set, and a species of fish called sharks encircled it. He descended,**
+> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בִּסְפִינְתָּא; וַחֲזֵינַן הָהִיא קַרְטְלִיתָא, דַּהֲווֹ קָא מְקַבְּעִי בַּהּ אֲבָנִים טוֹבוֹת וּמַרְגָּלִיּוֹת, וְהָדְרִי לַהּ מִינֵי דִכְווֹרֵי דְּמִקְּרֵי כַּרְשָׁא. נְחֵית
+> **Translation:** **Rabbi Yoḥanan relates: Once we were traveling on a ship and we saw a certain crate [*kartalita*] in which precious stones and pearls were set, and a species of fish called sharks encircled it.** He **descended,**
+
+> **Hebrew/Aramaic:** בַּר אָמוֹרַאי לְאֵתוּיַהּ, וּרְגַשׁ וּבָעֵי לִשְׁמְטֵיהּ לְאַטְמֵיהּ, וּשְׁדָא זִיקָא דְחַלָּא וּנְחֵת. נְפַק בַּת קָלָא אֲמַר לַן: ״מַאי אִית לְכוּ בַּהֲדֵי קַרְטְלִיתָא דִּדְבֵיתְהוּ דְּרַבִּי חֲנִינָא בֶּן דּוֹסָא, דַּעֲתִידָה דְּשָׁדְיָא תְּכֵלְתָּא בָּהּ לְצַדִּיקֵי לְעָלְמָא דְאָתֵי!״
+> **Translation:** i.e., **a diver [*bar amoraei*]** went into the water **to bring** up this chest, **and** the fish **became angry and sought to sever his thigh, but** the diver **threw** upon it **a flask of vinegar and they descended** and swam away. **A Divine Voice emerged** and **said to us: What** right **do you have to** touch **the crate of the wife of Rabbi Ḥanina ben Dosa, as she is destined to insert sky-blue** wool **in it to** be used in the ritual fringes of **the righteous in the World-to-Come?**
+
 
 Rabbi Yochanan told another story: once at sea, he saw a chest affixed with precious stones and gems (*avanim tovot* and *margaliot*), surrounded by a type of fish called *karsha* — which appears to be the ancient equivalent of sharks. The modern Hebrew word for shark, in fact, derives from this very term. The image is the classic one: a treasure chest guarded by sharks.
 
 ### Diver & Vinegar
 
-> **Hebrew/Aramaic:** בַּר אָמוֹרַאי לְאֵתוּיַהּ, וּרְגַשׁ וּבָעֵי לִשְׁמְטֵיהּ לְאַטְמֵיהּ, וּשְׁדָא זִיקָא דְחַלָּא וּנְחֵת.
->
-> **Translation:** i.e., **a diver [*bar amoraei*] went into the water to bring up this chest, and the fish became angry and sought to sever his thigh, but the diver threw upon it a flask of vinegar and they descended and swam away.**
-
 A *bar Amorei* — a diver, the word apparently deriving from the Latin *mare*, meaning sea — was sent down to retrieve the chest. The shark sensed his approach and moved to tear off his leg, but the diver threw a flask of vinegar (*zika de-hala*), which calmed the creature and allowed him to proceed. The word *bar Amorei* itself is interesting: just as *mare* in Latin refers to the ocean (and in cartography to the seas of the moon), so too the Aramaic term for a professional diver reflects an ancient Mediterranean linguistic influence.
 
 ### Heavenly Voice
-
-> **Hebrew/Aramaic:** נְפַק בַּת קָלָא אֲמַר לַן: ״מַאי אִית לְכוּ בַּהֲדֵי קַרְטְלִיתָא דִּדְבֵיתְהוּ דְּרַבִּי חֲנִינָא בֶּן דּוֹסָא, דַּעֲתִידָה דְּשָׁדְיָא תְּכֵלְתָּא בָּהּ לְצַדִּיקֵי לְעָלְמָא דְאָתֵי!״
->
-> **Translation:** **A Divine Voice emerged and said to us: What right do you have to touch the crate of the wife of Rabbi Ḥanina ben Dosa, as she is destined to insert sky-blue wool in it to be used in the ritual fringes of the righteous in the World-to-Come?**
 
 Before the chest could be retrieved, a *bat kol* — a heavenly voice — declared: *mai isaikhu bahadei kartelita de-dveiteh de-Rabbi Hanina ben Dosa?* — what business do you have with the treasure chest of the wife of Rabbi Hanina ben Dosa? This chest is designated for her in the future. She is described as one who refused to derive benefit in this world from her share in the world to come, and the chest is reserved for her for the *olam ha-ba*. Furthermore, it is said that she will use it to provide *tcheiles* for the *tzaddikim* in the future world. Since *tcheiles* itself comes from the sea, there is a certain poetic logic in the chest being kept there. Some suggest that the *tcheiles* dye, whose source had been lost by the time of the later *Geonim*, will be rediscovered and it is Rabbi Hanina ben Dosa's wife who will be the one to provide it.
 
 ## Resurrection Stone
 
+
+
 ### Jewel & Serpent
 
-> **Hebrew/Aramaic:** רַב יְהוּדָה הִינְדְּוָא מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה אָזְלִינַן בִּסְפִינְתָּא, וַחֲזֵינַן הָהוּא אֶבֶן טָבָא דַּהֲוָה הָדַיר לַהּ תַּנִּינָא. נָחֵית בַּר אָמוֹרָאֵי לְאֵתוּיַהּ, אֲתָא תַּנִּינָא קָא בָּעֵי לְמִבְלַע לַהּ לִסְפִינְתָּא.
->
-> **Translation:** **Rav Yehuda from India relates: Once we were traveling in a ship and we saw a certain precious stone that was encircled by a snake. A diver descended to bring it up, and the snake came and sought to swallow the ship.**
+> **Hebrew/Aramaic:** רַב יְהוּדָה הִינְדְּוָא מִשְׁתַּעֵי: זִימְנָא חֲדָא הֲוָה אָזְלִינַן בִּסְפִינְתָּא, וַחֲזֵינַן הָהוּא אֶבֶן טָבָא דַּהֲוָה הָדַיר לַהּ תַּנִּינָא. נָחֵית בַּר אָמוֹרָאֵי לְאֵתוּיַהּ, אֲתָא תַּנִּינָא קָא בָּעֵי לְמִבְלַע לַהּ לִסְפִינְתָּא. אֲתָא פִּישְׁקַנְצָא פַּסְקֵיהּ לְרֵישֵׁיהּ, אִתְהֲפִיכוּ מַיָּא וַהֲווֹ דְּמָא. אֲתָא תַּנִּינָא חַבְרֵיהּ, שַׁקְלַהּ וְתַלְיַהּ לֵיהּ וַחֲיָה. הֲדַר אֲתָא קָא בָּעֵי בָּלְעָא לִסְפִינְתָּא, הֲדַר אֲתָא צִיפְּרָא פַּסְקֵיהּ לְרֵישֵׁיהּ. שַׁקְלוּהָ לְהַהִיא אֶבֶן טָבָא שַׁדְיוּהָ לִסְפִינְתָּא; הֲוָה הָנֵי צִיפְּרֵי מְלִיחִי בַּהֲדַן, אוֹתְבִינְהוּ עֲלַיְיהוּ; שַׁקְלוּהָ וּפְרַחוּ לְהוּ בַּהֲדַהּ.
+> **Translation:** **Rav Yehuda from India relates: Once we were traveling in a ship and we saw a certain precious stone that was encircled by a snake. A diver descended to bring it** up, and the **snake came and sought to swallow the ship. A raven came** and **cut off its head,** and **the water turned into blood** due to the enormousness of the snake. **Another snake came, took** the precious stone, **and hung it** on the dead snake, **and it recovered. It returned** and again **sought to swallow the ship,** and yet again **a bird came and cut off its head, took that precious stone,** and **threw it onto the ship. We had with us these salted birds; we placed** the stone **on them,** and **they took** the stone **and flew away with it.**
 
 Rav Yehuda Hindua — Rav Yehuda the Indian, from India — recounted the following: once, while traveling by sea, he saw a beautiful jewel surrounded by a sea serpent (*tanina*). A *bar Amorei*, a diver, was sent to retrieve it. The sea serpent not only tried to swallow the diver but moved to swallow the entire boat.
 
 ### Raven & Blood
 
-> **Hebrew/Aramaic:** אֲתָא פִּישְׁקַנְצָא פַּסְקֵיהּ לְרֵישֵׁיהּ, אִתְהֲפִיכוּ מַיָּא וַהֲווֹ דְּמָא.
->
-> **Translation:** A raven came and cut off its head, and the water turned into blood due to the enormousness of the snake.
-
 Then a raven — *pishkantsa* — appeared and cut off the head of the sea serpent. The water in the area then turned to blood. This detail echoes the *makat dam* of Egypt, and indeed there is a resonance with the *pasuk* in *Yechezkel* where *Par'oh* is described as *ha-Tanin ha-Gadol ha-rovetz betoch ye'orav* — the great sea monster crouching in the midst of its rivers, who says *ani ye'ori va'ani asitani* — the river is mine and I made myself. The *tanin* here, cut down and its water turned to blood, may carry echoes of that imagery.
 
 ### Revived Monster
-
-> **Hebrew/Aramaic:** אֲתָא תַּנִּינָא חַבְרֵיהּ, שַׁקְלַהּ וְתַלְיַהּ לֵיהּ וַחֲיָה. הֲדַר אֲתָא קָא בָּעֵי בָּלְעָא לִסְפִינְתָּא,
->
-> **Translation:** Another snake came, took the precious stone, and hung it on the dead snake, and it recovered. It returned and again sought to swallow the ship,**
 
 A companion sea serpent then came, took what had been severed, and reaffixed it to the body — *v'chaya* — and the sea monster came back to life. The precise detail here — whether the second serpent retrieved the severed head or the stone — would become clearer in the subsequent passage. Having been revived, the monster once again turned to attack the boat.
 
 ### Second Decapitation
 
-> **Hebrew/Aramaic:** הֲדַר אֲתָא צִיפְּרָא פַּסְקֵיהּ לְרֵישֵׁיהּ. שַׁקְלוּהָ לְהַהִיא אֶבֶן טָבָא שַׁדְיוּהָ לִסְפִינְתָּא;
->
-> **Translation:** and yet again a bird came and cut off its head, took that precious stone, and threw it onto the ship.**
-
 A second bird came and cut off the creature's head a second time. After this second decapitation, a diver — or perhaps the bird itself — retrieved the precious stone and brought it onto the boat. The moment was opportune, since it appeared from what followed that the stone was what had allowed the sea monster to be revived, and they now had a brief window before anything else could interfere.
 
 ### Birds Fly Away
-
-> **Hebrew/Aramaic:** הֲוָה הָנֵי צִיפְּרֵי מְלִיחִי בַּהֲדַן, אוֹתְבִינְהוּ עֲלַיְיהוּ; שַׁקְלוּהָ וּפְרַחוּ לְהוּ בַּהֲדַהּ.
->
-> **Translation:** We had with us these salted birds; we placed the stone on them, and they took the stone and flew away with it.
 
 The sailors had stored salted birds aboard the boat for provisions. They placed the stone on the salted birds — and the birds revived, took the stone, and flew away. The stone thus turned out to be a kind of *tachiyat ha-meitim* stone, with the power to restore life to the dead. Its power was demonstrated twice over: first on the sea monster (whose companion used it to revive it), and then on the salted birds. The stone could not ultimately be held — it was taken back by the forces of nature.
 
@@ -236,27 +174,23 @@ The story invites allegorical reading. One might see in it an echo of *Yetziat M
 
 ## Leviathan Stories
 
+
+
 ### Light in Ocean
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַעֲשֶׂה בְּרַבִּי אֱלִיעֶזֶר וְרַבִּי יְהוֹשֻׁעַ שֶׁהָיוּ בָּאִין בִּסְפִינָה, וְהָיָה רַבִּי אֱלִיעֶזֶר יָשֵׁן וְרַבִּי יְהוֹשֻׁעַ נֵעוֹר. נִזְדַּעְזַע רַבִּי יְהוֹשֻׁעַ, וְנִנְעַר רַבִּי אֱלִיעֶזֶר. אָמַר לוֹ: מָה זֶה יְהוֹשֻׁעַ, מִפְּנֵי מָה נִזְדַּעְזַעְתָּ? אָמַר לוֹ: מָאוֹר גָּדוֹל רָאִיתִי בַּיָּם.
->
-> **Translation:** § Apropos the stories of large sea creatures, the Gemara discusses the large sea creatures mentioned in the Bible. **The Sages taught: There was an incident involving Rabbi Eliezer and Rabbi Yehoshua, who were traveling on a ship, and Rabbi Eliezer was sleeping and Rabbi Yehoshua was awake. Rabbi Yehoshua trembled, and Rabbi Eliezer awoke. Rabbi Eliezer said to him: What is this, Yehoshua; for what reason did you tremble? Rabbi Yehoshua said to him: I saw a great light in the sea.**
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַעֲשֶׂה בְּרַבִּי אֱלִיעֶזֶר וְרַבִּי יְהוֹשֻׁעַ שֶׁהָיוּ בָּאִין בִּסְפִינָה, וְהָיָה רַבִּי אֱלִיעֶזֶר יָשֵׁן וְרַבִּי יְהוֹשֻׁעַ נֵעוֹר. נִזְדַּעְזַע רַבִּי יְהוֹשֻׁעַ, וְנִנְעַר רַבִּי אֱלִיעֶזֶר. אָמַר לוֹ: מָה זֶה יְהוֹשֻׁעַ, מִפְּנֵי מָה נִזְדַּעְזַעְתָּ? אָמַר לוֹ: מָאוֹר גָּדוֹל רָאִיתִי בַּיָּם. אָמַר לוֹ: שֶׁמָּא עֵינָיו שֶׁל לִוְיָתָן רָאִיתָ – דִּכְתִיב: ״עֵינָיו כְּעַפְעַפֵּי שָׁחַר״.
+> **Translation:** § Apropos the stories of large sea creatures, the Gemara discusses the large sea creatures mentioned in the Bible. **The Sages taught:** There was **an incident involving Rabbi Eliezer and Rabbi Yehoshua, who were traveling on a ship, and Rabbi Eliezer was sleeping and Rabbi Yehoshua was awake. Rabbi Yehoshua trembled, and Rabbi Eliezer awoke.** Rabbi Eliezer **said to him: What is this, Yehoshua; for what** reason **did you tremble?** Rabbi Yehoshua **said to him: I saw a great light in the sea.** Rabbi Eliezer **said to him: Perhaps you saw the eyes of the leviathan, as it is written: “And his eyes are like the eyelids of the morning”** (Job 41:10).
 
 The *Gemara* presents a *beraitah*: there was an incident involving Rabbi Eliezer and Rabbi Yehoshua — both of whom were *rabbeim* of Rabbi Akiva, a generation earlier — who were traveling together on a boat. Rabbi Eliezer was asleep and Rabbi Yehoshua was awake. Rabbi Yehoshua began trembling (*nizda'aze'a*) and his trembling woke Rabbi Eliezer. Rabbi Eliezer asked him what had alarmed him. Rabbi Yehoshua replied: *ma'or gadol ra'iti ba-yam* — I saw a great luminary in the ocean.
 
 ### Leviathan's Eye
 
-> **Hebrew/Aramaic:** אָמַר לוֹ: שֶׁמָּא עֵינָיו שֶׁל לִוְיָתָן רָאִיתָ – דִּכְתִיב: ״עֵינָיו כְּעַפְעַפֵּי שָׁחַר״.
->
-> **Translation:** Rabbi Eliezer **said to him: Perhaps you saw the eyes of the leviathan, as it is written: "And his eyes are like the eyelids of the morning"** (Job 41:10).
-
 Rabbi Eliezer replied: perhaps what you saw was the eye of the *Livyatan*. As it is written: *einav k'afapei shachar* — its eyes are like the eyelids of the morning, like the morning luminary, like the sun. The casual certainty of Rabbi Eliezer's identification — oh, that must have been the eye of the *Livyatan* — is itself a remarkable window into how these *Tannaim* related to the creatures of sacred imagination.
 
 ### Self-healing Meat
 
-> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי, אָמַר לִי הוּנָא בַּר נָתָן: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בְּמַדְבְּרָא, וַהֲוַאי אַטְמָא דְּבִשְׂרָא בַּהֲדַן. פְּתַחְנָא, וְנַקַּירְנָא, וְאַנַּחְנָא אַעִשְׂבֵי. אַדְּמַיְיתִינַן צִיבֵי, חֲלַם אַטְמָא, וּטְוֵינַן. כִּי הֲדַרַן לְבָתַר תְּרֵיסַר יַרְחֵי שַׁתָּא, חֲזֵינְהוּ לְהָנְהוּ גּוּמְרֵי דַּהֲווֹ קָא מְלַחֲשִׁי.
->
-> **Translation:** **Rav Ashi said: Huna bar Natan said to me: Once we were traveling in the desert, and we had a thigh of meat with us. We cut open the thigh and tore off the sciatic nerve and the forbidden fat and put it on the grass. By the time that we brought wood, the thigh had repaired itself, and we roasted it. When we returned to that place after twelve months of the year had passed, we saw that those coals were still glowing.**
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי, אָמַר לִי הוּנָא בַּר נָתָן: זִימְנָא חֲדָא הֲוָה קָא אָזְלִינַן בְּמַדְבְּרָא, וַהֲוַאי אַטְמָא דְּבִשְׂרָא בַּהֲדַן. פְּתַחְנָא, וְנַקַּירְנָא, וְאַנַּחְנָא אַעִשְׂבֵי. אַדְּמַיְיתִינַן צִיבֵי, חֲלַם אַטְמָא, וּטְוֵינַן. כִּי הֲדַרַן לְבָתַר תְּרֵיסַר יַרְחֵי שַׁתָּא, חֲזֵינְהוּ לְהָנְהוּ גּוּמְרֵי דַּהֲווֹ קָא מְלַחֲשִׁי. כִּי אֲתַאי לְקַמֵּיהּ דְּאַמֵּימָר, אֲמַר לִי: הַהוּא עִישְׂבָּא סַמְתָּרִי הֲוָה; הָנְהוּ גּוּמְרֵי דְּרִיתְמָא הֲווֹ.
+> **Translation:** **Rav Ashi said: Huna bar Natan said to me: Once we were traveling in the desert, and we had a thigh of meat with us. We cut open** the thigh **and tore** off the sciatic nerve and the forbidden fat **and put it on the grass. By** the time **that we brought wood, the thigh had repaired** itself, **and we roasted it. When we returned** to that place **after twelve months** of **the year** had passed, **we saw that those coals were still glowing. When I came before Ameimar, he said to me: That grass was a drug of life [*samterei*],** while **those coals were of broom.**
 
 Huna bar Nasan told Rav Ashi the following: once I was traveling in the wilderness, and we had with us a thigh of meat. We opened it, removed the fat and the *gid ha-nasheh*, and set it down on the grass while we went to gather wood for a fire. When we returned, the leg had healed itself — closed back up as it had been before we cut it. We roasted it and ate it.
 
@@ -264,17 +198,14 @@ When Huna bar Nasan returned a full twelve months later to that same place, he f
 
 ## Leviathan Created
 
+
+
 ### Male & Female
 
-> **Hebrew/Aramaic:** ״וַיִּבְרָא אֱלֹהִים אֶת הַתַּנִּינִם הַגְּדוֹלִים״ – הָכָא תַּרְגִּימוּ: אֻרְזִילֵי דְיַמָּא. רַבִּי יוֹחָנָן אָמַר: זֶה לִוְיָתָן נָחָשׁ בָּרִיחַ וְלִוְיָתָן נָחָשׁ עֲקַלָּתוֹן, שֶׁנֶּאֱמַר: ״בַּיּוֹם הַהוּא יִפְקֹד ה׳ בְּחַרְבּוֹ הַקָּשָׁה וְגוֹ׳״.
->
-> **Translation:** The verse states: **"And God created the great sea monsters"** (Genesis 1:21). **Here, in Babylonia, they interpreted this as a reference to the sea oryx. Rabbi Yoḥanan says: This is leviathan the slant serpent, and leviathan the tortuous serpent, as it is stated: "In that day the Lord with His sore and great and strong sword will punish leviathan the slant serpent, and leviathan the tortuous serpent"** (Isaiah 27:1).
+> **Hebrew/Aramaic:** ״וַיִּבְרָא אֱלֹהִים אֶת הַתַּנִּינִם הַגְּדוֹלִים״ – הָכָא תַּרְגִּימוּ: אֻרְזִילֵי דְיַמָּא. רַבִּי יוֹחָנָן אָמַר: זֶה לִוְיָתָן נָחָשׁ בָּרִיחַ וְלִוְיָתָן נָחָשׁ עֲקַלָּתוֹן, שֶׁנֶּאֱמַר: ״בַּיּוֹם הַהוּא יִפְקֹד ה׳ בְּחַרְבּוֹ הַקָּשָׁה וְגוֹ׳״.
+> **Translation:** The verse states: **“And God created the great sea monsters”** (Genesis 1:21). **Here,** in Babylonia, **they interpreted** this as a reference to the **sea oryx. Rabbi Yoḥanan says: This is leviathan the slant serpent, and leviathan the tortuous serpent, as it is stated: “In that day the Lord with His sore** and great and strong **sword** will punish leviathan the slant serpent, and leviathan the tortuous serpent” (Isaiah 27:1).
 
 The *Gemara* now addresses the *pasuk*: *vayivra Elokim et ha-tanninim ha-gedolim* — and God created the great sea monsters. In the *Gemara*'s locale, this was translated as the *arzeilei de-yama*, the great beasts of the sea. Rabbi Yochanan identifies these as the *Livyatan nachash bariach* — the straight serpent — and the *Livyatan nachash akalasson* — the coiled serpent — male and female respectively, as corroborated by the *pasuk* in *Yeshayahu*: *bayom hahu yifkod Hashem b'charbo ha-kasha... et livyatan nachash bariach ve-et livyatan nachash akalasson*.
-
-> **Hebrew/Aramaic:** אָמַר רַב: יְהוּדָה אָמַר רַב: כֹּל מַה שֶּׁבָּרָא הַקָּדוֹשׁ בָּרוּךְ הוּא בְּעוֹלָמוֹ – זָכָר וּנְקֵבָה בְּרָאָם. אַף לִוְיָתָן נָחָשׁ בָּרִיחַ וְלִוְיָתָן נָחָשׁ עֲקַלָּתוֹן – זָכָר וּנְקֵבָה בְּרָאָם, וְאִלְמָלֵי נִזְקָקִין זֶה לָזֶה – מַחְרִיבִין כָּל הָעוֹלָם כּוּלּוֹ.
->
-> **Translation:** Rav Yehuda says that Rav says: Everything that the Holy One, Blessed be He, created in His world, He created male and female. Even leviathan the slant serpent and leviathan the tortuous serpent He created male and female. And if they would have coupled and produced offspring, they would have destroyed the entire world.**
 
 Rav Yehuda in the name of Rav states the general principle: everything God created in His world He created male and female — *zachar u-nekeivah bera'am* — and so too the *Livyatan*. This is striking, because as the *Gemara* will note, there exist creatures that are not clearly binary in their sex, yet the principle is stated in its fullest generality.
 
@@ -282,19 +213,20 @@ Rav Yehuda in the name of Rav states the general principle: everything God creat
 
 The problem with creating both a male and a female *Livyatan* is that if they were ever to mate, their progeny would destroy the entire world: *ilmalei nizkakkin zeh la-zeh machrivin kol ha-olam kulo*. The same applies to the *Behemoth*, the great land beast — *Behemoth be-harerei alef*, described in *Tehillim* as dwelling on the thousand mountains, which *Chazal* understand as a reference to the immense creature whose flesh will be served at the feast of the righteous in the *olam ha-ba*: those who prefer fish will have *Livyatan*, those who prefer meat will have *Shor ha-Bar*.
 
-### Castration & Death
+> **Hebrew/Aramaic:** (סִימָן: כׇּל, שָׁעָה, יַרְדֵּן) אָמַר רַב: יְהוּדָה אָמַר רַב: כֹּל מַה שֶּׁבָּרָא הַקָּדוֹשׁ בָּרוּךְ הוּא בְּעוֹלָמוֹ – זָכָר וּנְקֵבָה בְּרָאָם. אַף לִוְיָתָן נָחָשׁ בָּרִיחַ וְלִוְיָתָן נָחָשׁ עֲקַלָּתוֹן – זָכָר וּנְקֵבָה בְּרָאָם, וְאִלְמָלֵי נִזְקָקִין זֶה לָזֶה – מַחְרִיבִין כָּל הָעוֹלָם כּוּלּוֹ. מָה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא? סֵירַס אֶת הַזָּכָר, וְהָרַג הַנְּקֵבָה וּמְלָחָהּ לַצַּדִּיקִים לֶעָתִיד לָבֹא, שֶׁנֶּאֱמַר: ״וְהָרַג אֶת הַתַּנִּין אֲשֶׁר בַּיָּם״.
+> **Translation:** § The Gemara provides **a mnemonic** for the following statements of Rav Yehuda citing Rav: **Everything; time; Jordan. Rav Yehuda says** that **Rav says: Everything that the Holy One, Blessed be He, created in His world, He created male and female. Even leviathan the slant serpent and leviathan the tortuous serpent He created male and female. And if they would have coupled** and produced offspring, they would have **destroyed the entire world. What did the Holy One, Blessed be He, do? He castrated the male and killed the female, and salted** the female to preserve it for the banquet **for the righteous in the future. As it is stated: “And He will slay the serpent that is in the sea”** (Isaiah 27:1).
 
-> **Hebrew/Aramaic:** מָה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא? סֵירַס אֶת הַזָּכָר, וְהָרַג הַנְּקֵבָה וּמְלָחָהּ לַצַּדִּיקִים לֶעָתִיד לָבֹא, שֶׁנֶּאֱמַר: ״וְהָרַג אֶת הַתַּנִּין אֲשֶׁר בַּיָּם״.
->
-> **Translation:** What did the Holy One, Blessed be He, do? He castrated the male and killed the female, and salted the female to preserve it for the banquet for the righteous in the future. As it is stated: "And He will slay the serpent that is in the sea"** (Isaiah 27:1).
+> **Hebrew/Aramaic:** וְאַף בְּהֵמוֹת בְּהַרְרֵי אֶלֶף – זָכָר וּנְקֵבָה בְּרָאָם, וְאִלְמָלֵי נִזְקָקִין זֶה לָזֶה מַחֲרִיבִין כָּל הָעוֹלָם כּוּלּוֹ. מָה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא? סֵירַס הַזָּכָר, וְצִינֵּן הַנְּקֵבָה וּשְׁמָרָהּ לַצַּדִּיקִים לֶעָתִיד לָבֹא, שֶׁנֶּאֱמַר: ״הִנֵּה נָא כֹחוֹ בְמׇתְנָיו״ – זֶה זָכָר, ״וְאוֹנוֹ בִּשְׁרִירֵי בִטְנוֹ״ – זוֹ נְקֵבָה.
+> **Translation:** **And He created even the beasts on the thousand hills** (see Psalms 50:10) **male and female. And** they were so enormous that **if they would have coupled** and produced offspring, **they would have destroyed the entire world. What did the Holy One, Blessed be He, do? He castrated the male and cooled** the sexual desire of **the female and preserved it for the righteous in the future. As it is stated** about the beasts: **“Lo now, his strength is in his loins”** (Job 40:16); **this** is referring to the **male.** The continuation of the verse: **“And his force is in the stays of his body”; this** is the **female,** alluding to the idea that they did not use their genitals for the purpose of procreation.
+
+> **Hebrew/Aramaic:** הָתָם נָמֵי, לִיסָרְסֵיהּ לְזָכָר וְלִיצַנְּנַּהּ לִנְקֵבָה! דָּגִים פְּרִיצִי. וְלֶיעְבֵּיד אִיפְּכָא! אִיבָּעֵית אֵימָא: נְקֵבָה מְלִיחָא מְעַלֵּי; אִיבָּעֵית אֵימָא, כֵּיוָן דִּכְתִיב: ״לִוְיָתָן זֶה יָצַרְתָּ לְשַׂחֶק בּוֹ״, בַּהֲדֵי נְקֵבָה לָאו אוֹרַח אַרְעָא. הָכָא נָמֵי, לִימְלְחַהּ לִנְקֵבָה! כְּווֹרָא מְלִיחָא מְעַלֵּי, בִּשְׂרָא מְלִיחָא לָא מְעַלֵּי.
+> **Translation:** The Gemara asks: **There too,** with regard to the leviathan, **let Him castrate the male and cool the female;** why was it necessary to kill the female? The Gemara answers: **Fish are unrestrained,** and therefore even if the female was cooled, the female would still procreate. The Gemara suggests: **And let Him do the opposite,** and kill and preserve the male leviathan. The Gemara responds: **If you wish, say** that the **salted female is better; if you wish, say** instead **that** since **it is written: “There is leviathan, whom You have formed to sport with”** (Psalms 104:26), the male must be left alive for sport, because it is **not proper conduct** to sport **with a female.** The Gemara asks: **Here too,** with regard to the beasts, **let Him** preserve the **female in salt,** instead of cooling it. The Gemara answers: **Salted fish is good,** but **salted meat is not good.**
+
+### Castration & Death
 
 To prevent the *Livyatan* pair from mating, God castrated the male and killed the female — *siras et ha-zachar ve-harag et ha-nekeivah* — and then salted the female's flesh to preserve it for the righteous in the future: *u-malachah la-tzaddikim le-asid lavo*. This is derived from the *pasuk*: *ve-harag et ha-tannin asher ba-yam* — where the word is singular, indicating that one was killed while the other was left alive.
 
 ### Salt Debate
-
-> **Hebrew/Aramaic:** הָתָם נָמֵי, לִיסָרְסֵיהּ לְזָכָר וְלִיצַנְּנַּהּ לִנְקֵבָה! דָּגִים פְּרִיצִי. וְלֶיעְבֵּיד אִיפְּכָא! אִיבָּעֵית אֵימָא: נְקֵבָה מְלִיחָא מְעַלֵּי; אִיבָּעֵית אֵימָא, כֵּיוָן דִּכְתִיב: ״לִוְיָתָן זֶה יָצַרְתָּ לְשַׂחֶק בּוֹ״, בַּהֲדֵי נְקֵבָה לָאו אוֹרַח אַרְעָא. הָכָא נָמֵי, לִימְלְחַהּ לִנְקֵבָה! כְּווֹרָא מְלִיחָא מְעַלֵּי, בִּשְׂרָא מְלִיחָא לָא מְעַלֵּי.
->
-> **Translation:** The Gemara asks: **There too, with regard to the leviathan, let Him castrate the male and cool the female; why was it necessary to kill the female? The Gemara answers: Fish are unrestrained, and therefore even if the female was cooled, the female would still procreate. The Gemara suggests: And let Him do the opposite, and kill and preserve the male leviathan. The Gemara responds: If you wish, say that the salted female is better; if you wish, say instead that since it is written: "There is leviathan, whom You have formed to sport with"** (Psalms 104:26), the male must be left alive for sport, because it is **not proper conduct to sport with a female. The Gemara asks: Here too, with regard to the beasts, let Him preserve the female in salt, instead of cooling it. The Gemara answers: Salted fish is good, but salted meat is not good.**
 
 The obvious question is: if the male was castrated, why was it also necessary to kill the female? Why not simply cool her down, as was done with the female *Behemoth*, and keep her alive? The answer is *dagei pritzei* — fish are particularly promiscuous. Even after being cooled, the female *Livyatan* might still mate — perhaps with other fish rather than the castrated male — and that risk could not be tolerated.
 
@@ -302,12 +234,11 @@ Conversely, one might ask why the female *Livyatan* was killed rather than kept 
 
 ### Behemoth
 
-> **Hebrew/Aramaic:** וְאַף בְּהֵמוֹת בְּהַרְרֵי אֶלֶף – זָכָר וּנְקֵבָה בְּרָאָם, וְאִלְמָלֵי נִזְקָקִין זֶה לָזֶה מַחֲרִיבִין כָּל הָעוֹלָם כּוּלּוֹ. מָה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא? סֵירַס הַזָּכָר, וְצִינֵּן הַנְּקֵבָה וּשְׁמָרָהּ לַצַּדִּיקִים לֶעָתִיד לָבֹא, שֶׁנֶּאֱמַר: ״הִנֵּה נָא כֹחוֹ בְמׇתְנָיו״ – זֶה זָכָר, ״וְאוֹנוֹ בִּשְׁרִירֵי בִטְנוֹ״ – זוֹ נְקֵבָה.
->
-> **Translation:** **And He created even the beasts on the thousand hills** (see Psalms 50:10) **male and female. And they were so enormous that if they would have coupled and produced offspring, they would have destroyed the entire world. What did the Holy One, Blessed be He, do? He castrated the male and cooled the sexual desire of the female and preserved it for the righteous in the future. As it is stated about the beasts: "Lo now, his strength is in his loins"** (Job 40:16); **this is referring to the male. The continuation of the verse: "And his force is in the stays of his body"; this is the female,** alluding to the idea that they did not use their genitals for the purpose of procreation.
-
 The same logic applies to the *Behemoth*: God castrated the male and cooled the female rather than killing her — *siras ha-zachar ve-tzinan ha-nekeivah* — and she is kept preserved for the *tzaddikim le-asid lavo*. The *pasuk* is cited: *hineh na kocho be-mosnav* — behold, its strength is in its loins — *zeh zachar*, this refers to the male; *ve-ono be-shirirei vitno* — and its power in its belly — *zeh nekeivah*, referring to the female, evoking the womb.
 
 ### Fresh vs Salted
 
-Why was the female *Behemoth* cooled rather than killed and salted, as was done with the *Livyatan*? The answer: *kavara melicha ma'alei* — salted fish is good. *Bisra melicha lo ma'alei* — salted meat is not as good. Fresh meat tastes better than preserved meat. Therefore, for the *Behemoth* — a land animal whose flesh would be eaten as meat — it is preferable to keep the female alive and slaughter her fresh at the time of the feast rather than salt her in advance. The *Livyatan*, being fish, benefits from salting. The practical culinary logic of the eschatological feast thus determines which creature was preserved alive and which was killed and salted.
+
+Why was the female *Behemoth* cooled rather than killed and salted, as was done with the *Livyatan*? But before arriving at that question, the gemara first asks why the *Livyatan* arrangement could not simply mirror what was done for the *Behemoth* — why not cool the female *Livyatan* down rather than kill her? The answer is *dagei pritzei* — fish are promiscuous — and so cooling her would not have been sufficient to prevent her from copulating, even with the male castrated, perhaps with other fish entirely. The gemara then asks the inverse: why not kill the male *Livyatan* and preserve the female alive? Two answers are offered. *Nekeivah melicha ma'alei* — a salted female fish tastes better than a salted male fish, so we want the better specimen preserved for the feast. Alternatively, *keivan deksiv livyasan zeh yatzarta lesachek bo* — since the verse says God created the *Livyatan* to play with, and the gemara in *Brachos* describes God spending time playing with the *Livyatan* — *bahadi nekeivah lav orech ara* — it would not be appropriate for God, cast in a masculine role, to be playing with the female.
+
+With that settled, the gemara turns to the *Behemoth*. Why not kill the female and salt her, as was done with the female *Livyatan*? The answer: *kavara melicha ma'alei* — salted fish is good. *Bisra melicha lo ma'alei* — salted meat is not as good. Fresh meat tastes better than preserved meat. Therefore, for the *Behemoth* — a land animal whose flesh would be eaten as meat — it is preferable to keep the female alive and slaughter her fresh at the time of the feast rather than salt her in advance. The *Livyatan*, being fish, benefits from salting. The practical culinary logic of the eschatological feast thus determines which creature was preserved alive and which was killed and salted.

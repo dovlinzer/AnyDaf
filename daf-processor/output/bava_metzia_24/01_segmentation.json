@@ -121,7 +121,7 @@
           "timestamp": "36:04"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -135,7 +135,7 @@
           "timestamp": "39:03"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": false
     },
     {
@@ -149,7 +149,7 @@
           "timestamp": "45:36"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -352,5 +352,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "45:36",
+  "amud_b_micro_title": "Wine - Non-Jewish City",
+  "shiur_start_daf": 23,
+  "shiur_start_amud": "b"
 }

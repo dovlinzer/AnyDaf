@@ -1,0 +1,233 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Store Wine Quality",
+    "candidates": [
+      "Store Wine Quality",
+      "Checking Barrel Baraita",
+      "Timeline of Spoilage",
+      "Tasting Tevel Issue",
+      "R. Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Abaye asking Rav Yosef how he rules and Rav Yosef responding that he knows a baraita \u2014 this is precisely the transitional exchange described in the 'Store Wine Quality' prose, which explicitly states that 'Abaye posed this question to Rav Yosef, asking how he paskens, and Rav Yosef replied that he has a baraita from which the answer can be derived.'",
+      "chosen_heading": "Store Wine Quality",
+      "current_heading": "Store Wine Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "R. Yochanan Position",
+    "candidates": [
+      "Checking Barrel Baraita",
+      "Timeline of Spoilage",
+      "Tasting Tevel Issue",
+      "R. Yochanan Position",
+      "R. Y. ben Levi Position",
+      "Resolution & Consensus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Checking Barrel Baraita",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the baraita itself and Rabbi Yochanan's interpretation with his reasoning (chamra me'ilai akar, reicha chala ve-ta'ama chamra = yayin), which is precisely what the 'Checking Barrel Baraita' and 'R. Yochanan Position' headings cover \u2014 but since items 1-2 are the baraita text that candidate 0's prose introduces, and item 3 is the reasoning that candidate 3's prose explains, all three belong under heading 0 which sets up the baraita context that candidate 3 then analyzes; however the current placement is candidate 3, and items 1-3 fit candidate 3's prose about Rabbi Yochanan's reading and the mechanical reasoning about souring from the top.",
+      "second_heading": "R. Y. ben Levi Position",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rabbi Yehoshua ben Levi's opposing interpretation (last three days vadai chometz, chamra mitatai akar, reicha chala ve-ta'ama chamra = chala), which exactly matches the 'R. Y. ben Levi Position' heading's prose content.",
+      "current_heading": "R. Yochanan Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Resolution & Consensus",
+    "candidates": [
+      "R. Y. ben Levi Position",
+      "Resolution & Consensus",
+      "Case Setup",
+      "Rav: 3-Day Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Sages of the South tradition in the name of Rabbi Yehoshua ben Levi, the internal contradiction, the sipatka resolution, and the Rav Mari/Rav Zevid dispute about Rav Yosef's reading \u2014 are explicitly discussed in the 'Resolution & Consensus' prose, which is exactly where the passage currently sits.",
+      "chosen_heading": "Resolution & Consensus",
+      "current_heading": "Resolution & Consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav: 3-Day Rule",
+    "candidates": [
+      "Case Setup",
+      "Rav: 3-Day Rule",
+      "Shmuel: Mazal Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav's ruling about the 3-day rule for wine souring liability, which is precisely what candidate 1 ('Rav: 3-Day Rule') discusses in its prose.",
+      "chosen_heading": "Rav: 3-Day Rule",
+      "current_heading": "Rav: 3-Day Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shmuel: Mazal Defense",
+    "candidates": [
+      "Shmuel: Mazal Defense",
+      "Tosafot: Transport Theory",
+      "Rav Yosef's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's statement about wine souring on the owner's shoulders, which is precisely the text being discussed in the 'Shmuel: Mazal Defense' section's prose.",
+      "chosen_heading": "Shmuel: Mazal Defense",
+      "current_heading": "Shmuel: Mazal Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Yosef's Ruling",
+    "candidates": [
+      "Tosafot: Transport Theory",
+      "Rav Yosef's Ruling",
+      "Final Halacha",
+      "Baraita: Beverages",
+      "Fruit Juice Principle",
+      "Wine & Oil Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's practical ruling splitting beer and wine cases between Rav and Shmuel, plus the final halacha following Shmuel \u2014 content that exactly matches the 'Rav Yosef's Ruling' prose, which explicitly discusses this bifurcated ruling and notes the halacha follows Shmuel.",
+      "chosen_heading": "Rav Yosef's Ruling",
+      "current_heading": "Rav Yosef's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Wine & Oil Exception",
+    "candidates": [
+      "Final Halacha",
+      "Baraita: Beverages",
+      "Fruit Juice Principle",
+      "Wine & Oil Exception",
+      "Extraction Method",
+      "Full Extra Unit Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about date beer, barley beer, pomace water (shimrei yayin) all receiving shehakol, plus the A\u1e25erim dispute and the ruling of Rabba and Rav Yosef, is precisely the content described in the 'Baraita: Beverages' section prose.",
+      "chosen_heading": "Baraita: Beverages",
+      "current_heading": "Wine & Oil Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Full Extra Unit Case",
+    "candidates": [
+      "Extraction Method",
+      "Full Extra Unit Case",
+      "Equal Amount Case",
+      "Disputed Middle Case",
+      "Minority vs Majority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case where three units go in and four come out (qualifying as wine), and cites Rava's rule about three-to-one water-to-wine ratio \u2014 exactly what the 'Full Extra Unit Case' prose describes.",
+      "chosen_heading": "Full Extra Unit Case",
+      "current_heading": "Full Extra Unit Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Minority vs Majority",
+    "candidates": [
+      "Equal Amount Case",
+      "Disputed Middle Case",
+      "Minority vs Majority",
+      "Mishnah Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the disputed middle case (three in, three and a half out) from the perspectives of the Rabbis and Acherim, which is exactly what candidate 2 ('Minority vs Majority') describes in its prose.",
+      "chosen_heading": "Minority vs Majority",
+      "current_heading": "Minority vs Majority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Mishnah Connection",
+    "candidates": [
+      "Mishnah Connection",
+      "Tosafot Modern Practice",
+      "Standard Wine Mixture",
+      "Kiddush Cup Measure",
+      "Sanhedrin Quorum Rule",
+      "Mazeg Gematria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara exchange \u2014 challenge from the Mishnah in Ma'asrot about tamad, the inference that disagreement only applies when output equals input, and the resolution that they would disagree even when more comes out (to show Rabbi Yehuda's stringency) \u2014 which matches exactly the prose under 'Mishnah Connection'.",
+      "chosen_heading": "Mishnah Connection",
+      "current_heading": "Mishnah Connection",
+      "moved": false
+    }
+  }
+]

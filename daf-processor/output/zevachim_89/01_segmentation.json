@@ -49,7 +49,7 @@
           "timestamp": "09:18"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -224,7 +224,7 @@
           "timestamp": "44:33"
         }
       ],
-      "sefaria_index": 30,
+      "sefaria_index": 29,
       "matched": true
     },
     {
@@ -263,7 +263,7 @@
           "timestamp": "49:59"
         }
       ],
-      "sefaria_index": 33,
+      "sefaria_index": 32,
       "matched": true
     }
   ],
@@ -611,5 +611,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "20:55",
+  "amud_b_micro_title": "Levites' Bulls",
+  "shiur_start_daf": 89,
+  "shiur_start_amud": "a"
 }

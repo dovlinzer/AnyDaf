@@ -1,0 +1,709 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "L'olam al Yitpalel",
+    "candidates": [
+      "Shemoneh Esrei & Avodah",
+      "Tefillah as Substitute",
+      "Ishei Yisrael",
+      "Tannaim Debate",
+      "Empty Ritual",
+      "Biblical Tefillah",
+      "Rambam's Position",
+      "Davening Practice",
+      "L'olam al Yitpalel",
+      "Rabbi Eliezer",
+      "Five Violations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items together form the question 'how did Rabbi Yirmeyah daven behind Rav given Rav's own ruling against it,' which is precisely what candidate 7 ('Davening Practice') introduces \u2014 the context of Rabbi Yirmeyah davening behind Rav \u2014 while candidate 8 ('L'olam al Yitpalel') describes the irony/resolution, making 7 the better home for the opening challenge that these items constitute.",
+      "chosen_heading": "Davening Practice",
+      "current_heading": "L'olam al Yitpalel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Five Violations",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Five Violations",
+      "Shechina Departs",
+      "Talmid Chaver",
+      "Havdalah Question",
+      "Second-Person Address"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0 ('Rabbi Eliezer') explicitly describes the baraita about Rabbi Eliezer saying that one who davens behind his rebbe and other related behaviors causes the shechina to depart \u2014 a direct match for this passage's content, whereas candidate 1 ('Five Violations') is the analytical breakdown of those violations rather than the primary citation home.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Five Violations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Second-Person Address",
+    "candidates": [
+      "Shechina Departs",
+      "Talmid Chaver",
+      "Havdalah Question",
+      "Second-Person Address",
+      "Eliezer Ideology",
+      "Melacha Separation",
+      "Rabbi's Bath Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that Rabbi Yirmeyah was a talmid chaver, which is precisely what heading 1 ('Talmid Chaver') discusses, while the current placement under 'Second-Person Address' covers the downstream proof of that status \u2014 the passage itself is the source text establishing the talmid chaver status, not the analysis of the address form.",
+      "chosen_heading": "Talmid Chaver",
+      "current_heading": "Second-Person Address",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rabbi's Bath Story",
+    "candidates": [
+      "Eliezer Ideology",
+      "Melacha Separation",
+      "Rabbi's Bath Story",
+      "Bathhouse Laws",
+      "Before Gezeirah",
+      "Early Acceptance",
+      "Mistake Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge from Rabbi Avin's story about Rebbi davening Shabbat prayer early and then entering the bathhouse, which is exactly what the 'Rabbi's Bath Story' section prose describes.",
+      "chosen_heading": "Rabbi's Bath Story",
+      "current_heading": "Rabbi's Bath Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Mistake Case",
+    "candidates": [
+      "Bathhouse Laws",
+      "Before Gezeirah",
+      "Early Acceptance",
+      "Mistake Case",
+      "Community Mistake"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge from Abaye permitting Rav Dimi to fumigate baskets and the response that it was a mistake (ta'uta havai) \u2014 are precisely what candidate 3 'Mistake Case' describes in its prose.",
+      "chosen_heading": "Mistake Case",
+      "current_heading": "Mistake Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Community Mistake",
+    "candidates": [
+      "Community Mistake",
+      "Mistake Counts?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Avidan story and Rebbi's ruling about the community mistake, which is precisely what the 'Community Mistake' prose describes in detail.",
+      "chosen_heading": "Community Mistake",
+      "current_heading": "Community Mistake",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Mistake Counts?",
+    "candidates": [
+      "Mistake Counts?",
+      "Kabbalat Shabbat",
+      "Rav's Practice",
+      "Rabbi Yoshiya's Case",
+      "Tzibbur vs Yachid",
+      "Rambam's View",
+      "Kiddush Question",
+      "Rambam Kiddush",
+      "Kiddush on Cup",
+      "Anticipation vs Reality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's practice of praying Shabbat on Friday and then raises the kiddush question, which is precisely what the 'Kiddush Question' section's prose introduces: 'if one davens Shabbos maariv early on Friday, can one then go home and make kiddush?'",
+      "chosen_heading": "Kiddush Question",
+      "current_heading": "Mistake Counts?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Anticipation vs Reality",
+    "candidates": [
+      "Kabbalat Shabbat",
+      "Rav's Practice",
+      "Rabbi Yoshiya's Case",
+      "Tzibbur vs Yachid",
+      "Rambam's View",
+      "Kiddush Question",
+      "Rambam Kiddush",
+      "Kiddush on Cup",
+      "Anticipation vs Reality",
+      "Havdalah Timing",
+      "Tzorech Mitzvah",
+      "Summer Schedule",
+      "Tosefet Concern",
+      "Transmission Chain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether Rabbi Yoshiya, who davens maariv of motzaei shabbos while it is still Shabbos, may recite havdalah over a cup \u2014 exactly the question discussed in the 'Havdalah Timing' section's prose.",
+      "chosen_heading": "Havdalah Timing",
+      "current_heading": "Anticipation vs Reality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Transmission Chain",
+    "candidates": [
+      "Havdalah Timing",
+      "Tzorech Mitzvah",
+      "Summer Schedule",
+      "Tosefet Concern",
+      "Transmission Chain",
+      "Date Palm",
+      "Identity Corrections",
+      "Mesorah Issues",
+      "Daven vs Melacha",
+      "No Fixed Time",
+      "Reshut Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the transmission chain story \u2014 item 1 is the chain itself (fitting heading 4's prose perfectly) and item 2 is Ulla's correction of that chain, which heading 4's prose introduces as a unit before headings 5 and 6 break it down further; however, since headings 5 and 6 each cover only part of Ulla's correction while heading 4 explicitly introduces the full passage including the chain, the current placement under 'Transmission Chain' is the best single home for both items together.",
+      "chosen_heading": "Transmission Chain",
+      "current_heading": "Transmission Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Reshut Status",
+    "candidates": [
+      "Date Palm",
+      "Identity Corrections",
+      "Mesorah Issues",
+      "Daven vs Melacha",
+      "No Fixed Time",
+      "Reshut Status",
+      "Gamliel vs Yehoshua",
+      "Abaye vs Rava",
+      "Tosafot Reading",
+      "Rambam's Position (II)",
+      "First Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Fixed Time",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks exactly what 'ein lah keva' means, which is the precise question posed in heading 4's prose ('The gemara asks: what does ein lah keva mean?'), not the answer about reshut status.",
+      "second_heading": "Reshut Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the answer \u2014 ein lah keva signals reshut status \u2014 and then cites the Gamliel/Yehoshua dispute with Abaye and Rava's rulings, matching heading 5's prose which explains the reshut implication and segues into that very dispute.",
+      "current_heading": "Reshut Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "First Question",
+    "candidates": [
+      "Gamliel vs Yehoshua",
+      "Abaye vs Rava",
+      "Tosafot Reading",
+      "Rambam's Position (II)",
+      "First Question",
+      "Yehoshua's Answer",
+      "Second Question",
+      "Gamliel's Answer",
+      "Contradiction Exposed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing the student who came before Rabbi Yehoshua asking whether evening prayer is reshut or chova, which is exactly what the 'First Question' section's prose describes.",
+      "chosen_heading": "First Question",
+      "current_heading": "First Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Contradiction Exposed",
+    "candidates": [
+      "Yehoshua's Answer",
+      "Second Question",
+      "Gamliel's Answer",
+      "Contradiction Exposed",
+      "Public Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts the student coming before Rabban Gamliel to pose the same question he already asked Rabbi Yehoshua, which is precisely what the 'Second Question' section describes \u2014 the student seeking a second opinion after receiving Rabbi Yehoshua's ruling.",
+      "chosen_heading": "Second Question",
+      "current_heading": "Contradiction Exposed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143
+    ],
+    "current_heading": "Public Testimony",
+    "candidates": [
+      "Contradiction Exposed",
+      "Public Testimony",
+      "Standing Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items depict the public confrontation scene \u2014 the questioner rising, Rabban Gamliel declaring chova, cornering Rabbi Yehoshua, and ordering him to stand for testimony \u2014 which is precisely what the 'Public Testimony' prose describes.",
+      "chosen_heading": "Public Testimony",
+      "current_heading": "Public Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Standing Punishment",
+    "candidates": [
+      "Standing Punishment",
+      "People Protest",
+      "Affliction Complaint",
+      "Prior Incidents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Gamliel sitting and lecturing while Rabbi Yehoshua stands on his feet, which matches the 'Standing Punishment' prose exactly \u2014 the murmuring and stopping of Chutzpit is the conclusion of that standing episode, before the separate 'People Protest' section elaborates on the reaction.",
+      "chosen_heading": "Standing Punishment",
+      "current_heading": "Standing Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Prior Incidents",
+    "candidates": [
+      "People Protest",
+      "Affliction Complaint",
+      "Prior Incidents",
+      "Other Cases",
+      "Removal Decision",
+      "Yehoshua Rejected",
+      "Akiva Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the affliction complaint ('how long will he go on afflicting us') and the prior incidents, matching heading 1 'Affliction Complaint' whose prose directly quotes 'ad kama nitztar ve'neizil' \u2014 the exact phrase in this passage \u2014 while heading 2 'Prior Incidents' only covers the background stories, not the opening complaint that introduces this unified Talmudic excerpt.",
+      "chosen_heading": "Affliction Complaint",
+      "current_heading": "Prior Incidents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Akiva Rejected",
+    "candidates": [
+      "Other Cases",
+      "Removal Decision",
+      "Yehoshua Rejected",
+      "Akiva Rejected",
+      "Elazar Chosen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the rejection of Rabbi Yehoshua and the rejection of Rabbi Akiva in a single continuous text, and the 'Removal Decision' heading (index 1) is the umbrella section that introduces the replacement question \u2014 however, the content actually spans both rejections, so the best single heading that introduces and frames this entire discussion is index 1, but since the passage explicitly discusses both rejections, it most naturally belongs under the heading whose prose already discusses both candidates being rejected together, which is the 'Removal Decision' section that sets up the replacement question encompassing all the candidate discussions.",
+      "chosen_heading": "Removal Decision",
+      "current_heading": "Akiva Rejected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168
+    ],
+    "current_heading": "Elazar Chosen",
+    "candidates": [
+      "Akiva Rejected",
+      "Elazar Chosen",
+      "Qualifications",
+      "Wife's Advice",
+      "One Day Worth It",
+      "Youth Problem",
+      "Eighteen Rows",
+      "Seventy-Year-Old",
+      "Open Doors",
+      "Gamliel's Policy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover the selection of Rabbi Elazar ben Azaryah \u2014 his qualifications, the offer, his consultation with his wife, her concerns, his response about the goblet, and the miracle of the white hair \u2014 all of which fall squarely under the 'Elazar Chosen' heading where the passage currently sits.",
+      "chosen_heading": "Elazar Chosen",
+      "current_heading": "Elazar Chosen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      186
+    ],
+    "current_heading": "Gamliel's Policy",
+    "candidates": [
+      "Qualifications",
+      "Wife's Advice",
+      "One Day Worth It",
+      "Youth Problem",
+      "Eighteen Rows",
+      "Seventy-Year-Old",
+      "Open Doors",
+      "Gamliel's Policy",
+      "Benches Added",
+      "Torah Prevented"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes the removal of the door guard and granting permission for students to enter, which directly matches the 'Open Doors' section prose about silkuhu leshomeir hapetach, while the current placement under 'Gamliel's Policy' focuses only on the exclusionary policy rather than the day's opening event.",
+      "chosen_heading": "Open Doors",
+      "current_heading": "Gamliel's Policy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      192
+    ],
+    "current_heading": "Torah Prevented",
+    "candidates": [
+      "Benches Added",
+      "Torah Prevented",
+      "Dream Vision",
+      "Dream Consolation",
+      "True Reality",
+      "Eduyot Taught",
+      "Bayom Reference",
+      "Eduyot Purpose",
+      "All Resolved",
+      "Gamliel Stays",
+      "Diversity Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all elements in one continuous unit \u2014 the benches added, the dispute about numbers, Gamliel's distress, and the dream \u2014 and candidate 0 ('Benches Added') is the section whose prose most directly introduces this entire passage, while candidates 1-3 each cover only a fragment of it.",
+      "chosen_heading": "Benches Added",
+      "current_heading": "Torah Prevented",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      212
+    ],
+    "current_heading": "Diversity Resolves",
+    "candidates": [
+      "Dream Vision",
+      "Dream Consolation",
+      "True Reality",
+      "Eduyot Taught",
+      "Bayom Reference",
+      "Eduyot Purpose",
+      "All Resolved",
+      "Gamliel Stays",
+      "Diversity Resolves",
+      "Silence vs Voices",
+      "Convert's Petition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers Eduyot being taught that day, the meaning of 'bo bayom,' all halachot being resolved, and Gamliel not leaving \u2014 matching the 'Eduyot Taught' section which introduces all these points together, and the subsequent headings (Bayom Reference, Eduyot Purpose, All Resolved, Gamliel Stays) each elaborate on individual sub-points of this single baraita.",
+      "chosen_heading": "Eduyot Taught",
+      "current_heading": "Diversity Resolves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      218,
+      219
+    ],
+    "current_heading": "Convert's Petition",
+    "candidates": [
+      "Silence vs Voices",
+      "Convert's Petition",
+      "Gamliel Forbids",
+      "Yehoshua Permits",
+      "Biblical Citation",
+      "Sancheriv Argument",
+      "Majority Rule",
+      "Gamliel Persists"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Convert's Petition narrative \u2014 item 1 is Yehuda's question and item 2 contains the full exchange between Gamliel and Yehoshua including the Sennacherib argument and majority-rule principle, all of which are part of the same continuous dispute about the convert's status that the 'Convert's Petition' prose introduces.",
+      "chosen_heading": "Convert's Petition",
+      "current_heading": "Convert's Petition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      232,
+      233
+    ],
+    "current_heading": "Gamliel Persists",
+    "candidates": [
+      "Gamliel Forbids",
+      "Yehoshua Permits",
+      "Biblical Citation",
+      "Sancheriv Argument",
+      "Majority Rule",
+      "Gamliel Persists",
+      "Israel First",
+      "Convert Admitted",
+      "Exclusion vs Inclusion",
+      "Debate Styles",
+      "Honest Argument",
+      "Inside Outside",
+      "Gamliel Reconciles",
+      "House Inspection",
+      "Blacksmith Deduction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gamliel Persists",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabban Gamliel's counter-argument citing the restoration of Ammon prophecy, which is precisely what heading 5 ('Gamliel Persists') describes.",
+      "second_heading": "Israel First",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yehoshua's response citing the unrealized restoration of Israel and the immediate permission granted, which matches heading 6 ('Israel First') and its discussion of the conditional prophetic framework plus the 'miyad hitiru' conclusion.",
+      "current_heading": "Gamliel Persists",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      254
+    ],
+    "current_heading": "Blacksmith Deduction",
+    "candidates": [
+      "Israel First",
+      "Convert Admitted",
+      "Exclusion vs Inclusion",
+      "Debate Styles",
+      "Honest Argument",
+      "Inside Outside",
+      "Gamliel Reconciles",
+      "House Inspection",
+      "Blacksmith Deduction",
+      "Yehoshua's Rebuke",
+      "Scholar's Suffering",
+      "Livelihood Concern",
+      "Gamliel Submits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage covers Rabban Gamliel's decision to go appease Rabbi Yehoshua, his arrival at the house, the observation of the black walls, and the rebuke \u2014 this entire sequence begins with the reconciliation decision which is the content of heading 6 ('Gamliel Reconciles'), and the passage should sit there as it encompasses all of that narrative unit starting from that decision.",
+      "chosen_heading": "Gamliel Reconciles",
+      "current_heading": "Blacksmith Deduction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      263
+    ],
+    "current_heading": "Gamliel Submits",
+    "candidates": [
+      "Yehoshua's Rebuke",
+      "Scholar's Suffering",
+      "Livelihood Concern",
+      "Gamliel Submits",
+      "Father's Honor",
+      "Announcement",
+      "Launderer Messenger",
+      "Position Message"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both Gamliel's request for forgiveness ('na'aniti lach, mechol li') and the appeal to his father's honor ('aseh bishvil kevod aba'), but the current placement under 'Gamliel Submits' is the better fit since it introduces the forgiveness request that opens the passage, and the father's honor detail is a continuation of the same exchange rather than a separate section.",
+      "chosen_heading": "Gamliel Submits",
+      "current_heading": "Gamliel Submits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      273
+    ],
+    "current_heading": "Position Message",
+    "candidates": [
+      "Father's Honor",
+      "Announcement",
+      "Launderer Messenger",
+      "Position Message",
+      "Authority Principle",
+      "Door Locking",
+      "Personal Announcement",
+      "Sprinkler Parable",
+      "Akiva's Apology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with the question of who will go inform the rabbis, then the launderer volunteers, then Rabbi Yehoshua's message, then Rabbi Akiva's door-locking \u2014 all of this content starts at the 'Announcement' section (index 1), which covers the question of who would go tell the rabbis, and the subsequent items (launderer, message, locking) are all part of that single narrative unit that begins there.",
+      "chosen_heading": "Announcement",
+      "current_heading": "Position Message",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      284
+    ],
+    "current_heading": "Akiva's Apology",
+    "candidates": [
+      "Authority Principle",
+      "Door Locking",
+      "Personal Announcement",
+      "Sprinkler Parable",
+      "Akiva's Apology",
+      "Rotation System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both the sprinkler parable (mazeh ben mazeh) and Rabbi Akiva's response, but the current placement under 'Akiva's Apology' splits content that belongs together under 'Sprinkler Parable,' whose prose explicitly describes both the parable and its meaning including the reaction \u2014 the passage is a single unit covering Rabbi Yehoshua's arrival, the parable delivery, and Akiva's acknowledgment, all of which the 'Sprinkler Parable' prose already encompasses.",
+      "chosen_heading": "Sprinkler Parable",
+      "current_heading": "Akiva's Apology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      287
+    ],
+    "current_heading": "Rotation System",
+    "candidates": [
+      "Akiva's Apology",
+      "Rotation System",
+      "Institutionalized",
+      "Chiastic Structure",
+      "Student Bookends",
+      "Tocho Kevaro",
+      "External Judgement",
+      "Sincerity Paradox",
+      "Diversity Necessary",
+      "Wikipedia Analogy",
+      "Sabbatical Status",
+      "Tithe Differences",
+      "Shvi'it Rules",
+      "Poor's Tithe",
+      "Sustenance Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the rotation system debate and resolution \u2014 exactly what the 'Rotation System' section's prose discusses, including the ma'alin bakodesh principle, the three-weeks/one-week arrangement, and the identification of Rabbi Shimon ben Yochai.",
+      "chosen_heading": "Rotation System",
+      "current_heading": "Rotation System",
+      "moved": false
+    }
+  }
+]

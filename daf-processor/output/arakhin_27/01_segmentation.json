@@ -39,7 +39,7 @@
           "timestamp": "13:37"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -68,7 +68,7 @@
           "timestamp": "31:48"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -348,5 +348,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "45:19",
+  "amud_b_micro_title": "Non-Owner Bids Higher",
+  "shiur_start_daf": 27,
+  "shiur_start_amud": "a"
 }

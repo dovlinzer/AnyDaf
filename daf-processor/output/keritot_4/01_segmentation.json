@@ -162,8 +162,8 @@
           "timestamp": "38:47"
         }
       ],
-      "sefaria_index": 31,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "What Constitutes an Action: Distinguishing Between Physical Movements and Acts in the Real World",
@@ -181,7 +181,7 @@
           "timestamp": "40:03"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -205,7 +205,7 @@
           "timestamp": "43:24"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -224,7 +224,7 @@
           "timestamp": "46:41"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -277,7 +277,7 @@
           "timestamp": "54:39"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 35,
       "matched": true
     }
   ],
@@ -523,5 +523,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 33
+  "amud_b_sefaria_index": 33,
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "50:26",
+  "amud_b_micro_title": "Sages Argument",
+  "shiur_start_daf": 3,
+  "shiur_start_amud": "b"
 }

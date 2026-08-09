@@ -29,8 +29,8 @@
           "timestamp": "03:38"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Enumeration of Multiple Melachot Within Single Processes: Pottery Barrel, Oven, Wicker Basket, and Wool Spinning",
@@ -68,7 +68,7 @@
           "timestamp": "08:46"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "13:16"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -338,7 +338,7 @@
           "timestamp": "59:25"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 11,
       "matched": true
     }
   ],
@@ -774,5 +774,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "42:46",
+  "amud_b_micro_title": "Rava vs. Shmuel",
+  "shiur_start_daf": 74,
+  "shiur_start_amud": "b"
 }

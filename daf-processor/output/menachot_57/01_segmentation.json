@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Comparison to Shabbat Cooking: Liability for Passive Heat Application and Cooking Standards",
@@ -58,7 +58,7 @@
           "timestamp": "21:02"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -96,8 +96,8 @@
           "timestamp": "32:32"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Timing of Offering: Chametz at the Top of the Mizbe'ach and the Moment of Karavas",
@@ -110,7 +110,7 @@
           "timestamp": "35:48"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -446,5 +446,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "43:17",
+  "amud_b_micro_title": "Nesachim Problem",
+  "shiur_start_daf": 57,
+  "shiur_start_amud": "a"
 }

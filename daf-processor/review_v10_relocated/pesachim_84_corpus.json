@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Comparative Standard",
+    "candidates": [
+      "Meat Definition Intro",
+      "Comparative Standard",
+      "Cartilage Analysis",
+      "Cartilage Hardening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, which is introduced and contextualized by the 'Meat Definition Intro' prose (heading 0), which explicitly announces 'the present mishnah advances a formal and somewhat striking definition of what counts as basar' \u2014 the subsequent headings discuss the mishnah's content analytically after it has been presented.",
+      "chosen_heading": "Meat Definition Intro",
+      "current_heading": "Comparative Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Cartilage Hardening",
+    "candidates": [
+      "Cartilage Analysis",
+      "Cartilage Hardening",
+      "Rabba's Challenge",
+      "Tannaim Debate",
+      "Rava's Shalka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabba raising the internal contradiction in the mishnah between the general rule and the specific inclusions of rashei knafayim and sachchusim, which is exactly what 'Rabba's Challenge' describes in its prose.",
+      "chosen_heading": "Rabba's Challenge",
+      "current_heading": "Cartilage Hardening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Rava's Shalka",
+    "candidates": [
+      "Rabba's Challenge",
+      "Tannaim Debate",
+      "Rava's Shalka",
+      "Hardening Sinews",
+      "Yochanan Position",
+      "Lakish Position",
+      "Yochanan's Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items belong under 'Rava's Shalka': items 1-2 present the tannaim dispute resolution and Rava's elegant reading respectively, and item 3 is the baraita confirming Rava's position \u2014 all of which are explicitly described in the prose of candidate 2.",
+      "chosen_heading": "Rava's Shalka",
+      "current_heading": "Rava's Shalka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Yochanan's Reconciliation",
+    "candidates": [
+      "Hardening Sinews",
+      "Yochanan Position",
+      "Lakish Position",
+      "Yochanan's Reconciliation",
+      "Liberal Edibility",
+      "Abbahu Challenge",
+      "Skin Precedent",
+      "Abbahu Response",
+      "Yochanan Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the dispute between Rabbi Yochanan and Reish Lakish about hardening sinews, which is precisely what heading 0 ('Hardening Sinews') describes \u2014 the itamar marker, the two positions, and their reasoning \u2014 whereas the current placement under heading 3 ('Yochanan's Reconciliation') is too late in the sequence, as that heading covers the challenge and response which are the next stage of the same dispute.",
+      "chosen_heading": "Hardening Sinews",
+      "current_heading": "Yochanan's Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Yochanan Reversal",
+    "candidates": [
+      "Liberal Edibility",
+      "Abbahu Challenge",
+      "Skin Precedent",
+      "Abbahu Response",
+      "Yochanan Reversal",
+      "Rambam's Position",
+      "Meat/Partnership",
+      "Roasting Procedure",
+      "Ra'avad Objection",
+      "Lashes Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the full 'Abbahu Challenge' exchange \u2014 Item 1 is Rabbi Yirmeyah sending the contradiction about sinews vs. calf-hide to Rabbi Abbahu, and Item 2 is Rabbi Abbahu's dismissive response explaining that Rabbi Yochanan retracted \u2014 which is precisely what candidate 1's prose describes as 'Rav Yirmeyah sends a question to Rabbi Abbahu via Rav Avin' and the resolution embedded in the Chullin sugya.",
+      "chosen_heading": "Abbahu Challenge",
+      "current_heading": "Yochanan Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Lashes Distinction",
+    "candidates": [
+      "Rambam's Position",
+      "Meat/Partnership",
+      "Roasting Procedure",
+      "Ra'avad Objection",
+      "Lashes Distinction",
+      "Nosar Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The mishna text directly states the ruling about lashes for breaking a bone of a pure pesach versus no lashes for leaving over or breaking an impure one, which is precisely what the 'Lashes Distinction' prose section describes and introduces.",
+      "chosen_heading": "Lashes Distinction",
+      "current_heading": "Lashes Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Nosar Exemption",
+    "candidates": [
+      "Nosar Exemption",
+      "Tumah Pesach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nosar Exemption",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's analysis of why leftover nosar in a valid pesach does not incur lashes (Rabbi Yehuda's lav hanitak l'asei and Rabbi Yaakov's lav she'ein bo ma'aseh), which matches the 'Nosar Exemption' prose exactly.",
+      "second_heading": "Tumah Pesach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 transitions to the new question of breaking a bone in a tamei/invalid pesach, deriving from 'bo b'kasher velo b'pasul,' which is precisely what the 'Tumah Pesach' prose discusses as its opening topic.",
+      "current_heading": "Nosar Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Tumah Pesach",
+    "candidates": [
+      "Tumah Pesach",
+      "Scope Resolution",
+      "14th Breaking",
+      "Marrow Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Tumah Pesach",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 cover the baraita about kasher/pasul, Rabbi Yirmeya's case of tumah pesach, Rav Yosef's leniency framing, and Abaye's proposal about sheviras etzem mibod yom \u2014 all of which are discussed under headings 0 and 1, but taken together items 1-6 span the 'Tumah Pesach' through 'Scope Resolution' discussions; however since items 1-5 are clearly about the kasher/pasul debate and Rav Yosef's framing (heading 0-1), and item 6 introduces Abaye's mibod yom case (heading 1-2), the bulk fits under heading 0 where it currently sits with the dispute chain intact.",
+      "second_heading": "Marrow Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is the challenge from the baraita about brain marrow vs. thigh-bone marrow, which is explicitly the content described under heading 3 ('Marrow Cases').",
+      "current_heading": "Tumah Pesach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Marrow Cases",
+    "candidates": [
+      "Scope Resolution",
+      "14th Breaking",
+      "Marrow Cases",
+      "Burning Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's 'uletaimaich' counter-argument about burning the bone with a coal as an alternative to breaking it, and cites the baraita about burning not constituting sheviras etzem \u2014 exactly what the 'Marrow Cases' prose describes as Abaye's response to the challenge about thigh-bone marrow.",
+      "chosen_heading": "Marrow Cases",
+      "current_heading": "Marrow Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Burning Alternative",
+    "candidates": [
+      "Burning Alternative",
+      "Rabbinical Safeguard",
+      "Half-Limb Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Abaye/Rava debate about burning (burst bones and ruining sacrificial food) plus the mibod yom decree, which is precisely what the 'Burning Alternative' prose describes.",
+      "chosen_heading": "Burning Alternative",
+      "current_heading": "Burning Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Half-Limb Case",
+    "candidates": [
+      "Rabbinical Safeguard",
+      "Half-Limb Case",
+      "Fat Tail Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items (Rav Pappa's resolution placing the dispute in the half-limb case, the supporting baraita of Rabbi Yishmael son of Rabbi Yochanan ben Beroka, and Rav Sheshet son of Rav Idi's counter-position) directly discuss the 'eiver sheyatza miktzato' scenario that is the central topic of the 'Half-Limb Case' prose section.",
+      "chosen_heading": "Half-Limb Case",
+      "current_heading": "Half-Limb Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Fat Tail Case",
+    "candidates": [
+      "Fat Tail Case",
+      "Stripped Limb",
+      "Meat Distribution",
+      "Internal Marrow",
+      "Four Standards",
+      "Rebbi Standard",
+      "Location Debate",
+      "Outside/Inside"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Fat Tail Case",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 are the Amoraic discussion of practical differences (fat tail, stripped limb, meat distribution) which the 'Fat Tail Case' prose addresses, covering Rav Na\u1e25man bar Yitz\u1e25ak, Rav Ashi, and Ravina's positions.",
+      "second_heading": "Four Standards",
+      "second_confidence": "high",
+      "second_reason": "Items 4-8 are the baraita (\u05ea\u05b7\u05bc\u05e0\u05b0\u05d9\u05b8\u05d0) cited to support four of the Amoraic interpretations, which matches the 'Four Standards' prose describing a baraita encapsulating four distinct positions regarding when sheviras etzem applies.",
+      "current_heading": "Fat Tail Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Outside/Inside",
+    "candidates": [
+      "Stripped Limb",
+      "Meat Distribution",
+      "Internal Marrow",
+      "Four Standards",
+      "Rebbi Standard",
+      "Location Debate",
+      "Outside/Inside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Rabbi Yochanan and Reish Lakish about a limb with a kezayis at one location but not at the point of breaking, which is precisely what candidate 5 ('Location Debate') describes, whereas candidate 6 ('Outside/Inside') describes Reish Lakish's deflection response about marrow \u2014 the current placement puts the entire dispute including its setup under the heading that only covers the resolution, so the better home is candidate 5 which covers the initial dispute itself.",
+      "chosen_heading": "Location Debate",
+      "current_heading": "Outside/Inside",
+      "moved": true
+    }
+  }
+]

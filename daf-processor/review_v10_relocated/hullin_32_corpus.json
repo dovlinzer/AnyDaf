@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbis' Position",
+    "candidates": [
+      "Intro: General Framework",
+      "Rabbis' Position",
+      "Kavana Levels",
+      "Rabbi Natan Extreme",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the Rabbis' intermediate position on kavana l'chatichah, which is precisely what the 'Rabbis' Position' prose section discusses.",
+      "chosen_heading": "Rabbis' Position",
+      "current_heading": "Rabbis' Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Kavana Levels",
+      "Rabbi Natan Extreme",
+      "Rava's Challenge",
+      "Tevilah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct logical argument about 'vezavachta ktiv' versus 'vechatachta,' which is precisely what the 'Rava's Challenge' section prose describes and analyzes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Tevilah Parallel",
+    "candidates": [
+      "Tevilah Parallel",
+      "Rule: One Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question about a niddah compelled to immerse, the mishnah about deaf-mute/imbecile/blind women eating teruma, and Rav Pappa's formulation distinguishing Rabbi Natan's case (fell from bridge) from the Rabbanan's case (descended to cool off) \u2014 are explicitly described and analyzed in the 'Tevilah Parallel' prose, making that the clear correct placement.",
+      "chosen_heading": "Tevilah Parallel",
+      "current_heading": "Tevilah Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Rule: One Animal",
+    "candidates": [
+      "Rule: One Animal",
+      "Both Intentional",
+      "Accidental Second",
+      "Intent vs. Side Effect",
+      "Intro: Shehiya"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Both Intentional",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the intentional slaughter case (item 1\u2192candidate 1) and the accidental slaughter case with its gemara explanation (items 2-3\u2192candidate 2), but all three together fit under candidate 1 ('Both Intentional') only if we split further; actually items 1 fits candidate 1, items 2-3 fit candidate 2, but since the passage must split only once, items 1-3 collectively deal with the animal slaughter cases (intentional and accidental) which are discussed under candidates 1 and 2, while item 4 (the gourd case) maps precisely to candidate 3 ('Intent vs. Side Effect').",
+      "second_heading": "Intent vs. Side Effect",
+      "second_confidence": "high",
+      "second_reason": "Item 4 discusses cutting a gourd simultaneously with the parah adumah \u2014 both intentionally and incidentally \u2014 which matches candidate 3's prose exactly, describing the melachah/gourd distinction and its two-reason analysis.",
+      "current_heading": "Rule: One Animal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Intro: Shehiya",
+    "candidates": [
+      "Both Intentional",
+      "Accidental Second",
+      "Intent vs. Side Effect",
+      "Intro: Shehiya",
+      "Time Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text presents the exact scenarios of shehiya (knife falling, garments falling, growing weary) and the dispute between the Tanna Kamma and Rabbi Shimon about the time measure, which is precisely what the 'Intro: Shehiya' prose introduces and explains.",
+      "chosen_heading": "Intro: Shehiya",
+      "current_heading": "Intro: Shehiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Time Measure",
+    "candidates": [
+      "Time Measure",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav's definition of 'k'dei shechita,' Rav Kahana and Rav Asi's follow-up question, and Rav's admission that he couldn't ask Rabbi \u1e24iyya \u2014 are precisely the content described in the 'Time Measure' prose, which explicitly covers all three of these exchanges.",
+      "chosen_heading": "Time Measure",
+      "current_heading": "Time Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Rabbi Chanina Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav vs. Shmuel dispute about the measure being calibrated to animal type versus a fixed generous standard, along with Rabbi Yo\u1e25anan's ruling via Ravin, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Rabbi Chanina Lenient",
+    "candidates": [
+      "Rabbi Chanina Lenient",
+      "Dull Knife Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi \u1e24ananya's ruling, Rav Pappa's resolution, and Rabbi Yosei son of Rabbi \u1e24anina's formulation \u2014 are explicitly discussed in the 'Rabbi Chanina Lenient' prose, which covers exactly these texts in sequence.",
+      "chosen_heading": "Rabbi Chanina Lenient",
+      "current_heading": "Rabbi Chanina Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Dull Knife Case",
+    "candidates": [
+      "Dull Knife Case",
+      "Unresolved Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's ruling about slaughtering with a blunt knife taking the entire day being valid, which is precisely the content discussed in the 'Dull Knife Case' prose.",
+      "chosen_heading": "Dull Knife Case",
+      "current_heading": "Dull Knife Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Unresolved Issues",
+    "candidates": [
+      "Unresolved Issues",
+      "Rashi vs. Rabbeinu Tam",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Unresolved Issues' precisely describes all three items: Rava's dilemma about whether multiple brief pauses combine, the gemara's challenge and response about continuous motion, and Rav Huna son of Rav Natan's dilemma about pausing in the minority of simanim \u2014 all of which match the current placement exactly.",
+      "chosen_heading": "Unresolved Issues",
+      "current_heading": "Unresolved Issues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rashi vs. Rabbeinu Tam",
+      "Rabbi Shimon",
+      "Three Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon's opinion on k'dei bikur and Rabbi Yochanan's clarification about k'dei bikur tabach chacham, which is exactly what the 'Rabbi Shimon' section's prose describes.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Three Scenarios",
+    "candidates": [
+      "Three Scenarios",
+      "Akiva vs. Rabbis",
+      "Akiva Concedes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna presents exactly the four defective shechita scenarios (ikur of esophagus, ikur of trachea first, waiting until death, and chalada) that Candidate 0's prose explicitly describes, and the dispute between Rabbi Yeshevav and Rabbi Akiva is merely the tail end of the mishna text, while Candidate 0 already covers it as the conclusion of those scenarios.",
+      "chosen_heading": "Three Scenarios",
+      "current_heading": "Three Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Akiva Concedes",
+    "candidates": [
+      "Akiva vs. Rabbis",
+      "Akiva Concedes",
+      "Gemara Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the principle distinguishing neveila from treifa (shechita performed properly vs. not) and Rabbi Akiva's concession, which exactly matches the 'Akiva Concedes' section's prose description of this content.",
+      "chosen_heading": "Akiva Concedes",
+      "current_heading": "Akiva Concedes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Gemara Question",
+    "candidates": [
+      "Gemara Question",
+      "Rava's Answer",
+      "List Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the contradiction the Gemara raises \u2014 quoting the mishna about shechting the gullet and then citing the trefos list that mentions a perforated gullet and severed windpipe \u2014 which matches precisely what candidate 0's prose describes as 'the gemara now raises a pointed difficulty against this consensus.'",
+      "chosen_heading": "Gemara Question",
+      "current_heading": "Gemara Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "List Clarification",
+    "candidates": [
+      "Rava's Answer",
+      "List Clarification",
+      "Resh Lakish Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain: Rava's sequence-based resolution (items 1-3), the refutation of his reinterpretation (item 4), his fallback 'elu asurot' reading (item 5), the objection about omitted neveilot cases (item 6), and the resolution about neveilot that impart impurity while alive (item 7) \u2014 all of which the prose under heading 0 ('Rava's Answer') explicitly describes, whereas heading 1's prose covers only items 5-7 and the current placement misses items 1-4.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "List Clarification",
+      "moved": true
+    }
+  }
+]

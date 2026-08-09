@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Sweeping Dung",
+    "candidates": [
+      "Intro & Chatzos",
+      "Hens on Eggs",
+      "Sweeping Dung",
+      "Vessels from Uman",
+      "Abaye on Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna covers hens on eggs, sweeping dung, and vessels from the craftsman \u2014 all three topics together \u2014 and candidate 1 ('Hens on Eggs') is the introductory prose section that introduces this entire mishna, making it the natural home for the full mishna text before the essay breaks it into sub-topics.",
+      "chosen_heading": "Hens on Eggs",
+      "current_heading": "Sweeping Dung",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Abaye on Returns",
+    "candidates": [
+      "Vessels from Uman",
+      "Abaye on Returns",
+      "Rav Huna 3 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's statement resolving the Gemara's question about returning hens versus placing them, explaining that the latter clause addresses Chol HaMoed \u2014 exactly what the 'Abaye on Returns' section discusses.",
+      "chosen_heading": "Abaye on Returns",
+      "current_heading": "Abaye on Returns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Huna 3 Days",
+    "candidates": [
+      "Rav Huna 3 Days",
+      "Hefsed Merubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's qualification (the three-day rules for rebellion and sitting) and Rabbi Ami's dissent, but the current heading's prose covers both Rav Huna's full statement and the conditions, while heading 1 covers only Rabbi Ami's position and the subsequent Gemara dispute \u2014 the passage as a whole is best placed under heading 0 which discusses Rav Huna's framework that forms the bulk of the quoted text.",
+      "chosen_heading": "Rav Huna 3 Days",
+      "current_heading": "Rav Huna 3 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Hefsed Merubah",
+    "candidates": [
+      "Hefsed Merubah",
+      "Chatzer Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav Huna/Rabbi Ami dispute about hefsed merubeh vs. hefsed muat, which is precisely what the 'Hefsed Merubah' section's prose describes and analyzes.",
+      "chosen_heading": "Hefsed Merubah",
+      "current_heading": "Hefsed Merubah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Chatzer Contradiction",
+    "candidates": [
+      "Chatzer Contradiction",
+      "Abaye's Resolution",
+      "Rava Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with its internal contradiction about the chatzer, which is exactly what the 'Chatzer Contradiction' prose discusses before moving to Abaye's and Rava's resolutions.",
+      "chosen_heading": "Chatzer Contradiction",
+      "current_heading": "Chatzer Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rava Alternative",
+    "candidates": [
+      "Abaye's Resolution",
+      "Rava Alternative",
+      "Rav Papa Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's resolution and Rava's alternative, but since Abaye's response comes first and the heading 'Abaye's Resolution' is where this entire Gemara exchange (including Rava's follow-up) belongs as a unit, it should sit under heading 0 rather than being split or placed only under Rava's heading.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Rava Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav Papa Question",
+    "candidates": [
+      "Rava Alternative",
+      "Rav Papa Question",
+      "Gemara Resolution",
+      "Zilzul Yom Tov?",
+      "Baraita Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose describes: Rav Papa reporting Rava's test, the mishna permitting taking/bringing vessels even not needed for the festival, and the contradicting baraita forbidding retrieval from the craftsman with only a limited allowance to move them to another courtyard.",
+      "chosen_heading": "Rav Papa Question",
+      "current_heading": "Rav Papa Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Baraita Vessels",
+    "candidates": [
+      "Gemara Resolution",
+      "Zilzul Yom Tov?",
+      "Baraita Vessels",
+      "Jericho Intro",
+      "No Protest",
+      "With Protest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's resolution of the contradiction between the mishna and baraita \u2014 item 1 gives the two answers (fourteenth vs. Chol HaMoed; trusts vs. doesn't trust), item 2 is the baraita being reconciled, and item 3 concludes by rejecting the second answer and affirming the first \u2014 exactly matching the 'Gemara Resolution' prose which describes both resolutions and their logic.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Baraita Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "With Protest",
+    "candidates": [
+      "Jericho Intro",
+      "No Protest",
+      "With Protest",
+      "Actions Approved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Mishna listing all six practices of the people of Jericho (three not protested and three protested), which belongs under the introductory 'Jericho Intro' heading that describes the baraita presenting all six practices, rather than being split under the individual 'No Protest' or 'With Protest' headings.",
+      "chosen_heading": "Jericho Intro",
+      "current_heading": "With Protest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Actions Approved",
+    "candidates": [
+      "With Protest",
+      "Actions Approved",
+      "Rambam & Medicine",
+      "Actions Disapproved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the three approved actions of King Hezekiah, which directly matches the 'Actions Approved' section's prose discussing exactly these three approved acts.",
+      "chosen_heading": "Actions Approved",
+      "current_heading": "Actions Approved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Actions Disapproved",
+    "candidates": [
+      "Rambam & Medicine",
+      "Actions Disapproved",
+      "Rav Yehuda Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the three actions the Sages disapproved of regarding Hezekiah, which is exactly what the 'Actions Disapproved' section's prose discusses.",
+      "chosen_heading": "Actions Disapproved",
+      "current_heading": "Actions Disapproved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rav Yehuda Method",
+    "candidates": [
+      "Rav Yehuda Method",
+      "Rav Acha Method",
+      "Shema V'ahavta",
+      "Rashi Break",
+      "Rava Pause",
+      "Tannaim Debate",
+      "Jacob Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's method and Rav Acha's method as a single Gemara unit, and the current placement under 'Rav Yehuda Method' correctly captures the beginning of this discussion, with the Rav Acha portion being a natural continuation within the same textual item.",
+      "chosen_heading": "Rav Yehuda Method",
+      "current_heading": "Rav Yehuda Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Jacob Midrash",
+    "candidates": [
+      "Rav Acha Method",
+      "Shema V'ahavta",
+      "Rashi Break",
+      "Rava Pause",
+      "Tannaim Debate",
+      "Jacob Midrash",
+      "Resolution Softly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items cover the tannaic debate about how korchin et Shema was practiced (Rabbi Meir vs. Rabbi Yehuda) and then immediately ask why we recite Baruch Shem at all, leading into the Shimon ben Lakish midrash \u2014 the entire unit is introduced and explained by candidate 4's prose about the baraita mapping the dispute to tannaim and the role of Baruch Shem as the break.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Jacob Midrash",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Resolution Softly",
+    "candidates": [
+      "Jacob Midrash",
+      "Resolution Softly",
+      "Minim Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the dilemma of whether to recite Baruch Shem, the resolution to say it quietly, and the mashal of the princess and the pot \u2014 all of which match precisely the prose of 'Resolution Softly'.",
+      "chosen_heading": "Resolution Softly",
+      "current_heading": "Resolution Softly",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Minim Challenge",
+    "candidates": [
+      "Minim Challenge",
+      "Mishna No Protest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly concerns Rabbi Abbahu's ruling about reciting Baruch Shem aloud due to minim, and the Nehardea exception, which is precisely what the 'Minim Challenge' section's prose discusses.",
+      "chosen_heading": "Minim Challenge",
+      "current_heading": "Minim Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Mishna No Protest",
+    "candidates": [
+      "Mishna No Protest",
+      "Mishna Protest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the baraita's presentation of the six Jericho practices, Rabbi Yehuda's structural objection to the formulation, and the Gemara's question about whether harvesting was against the Sages' will \u2014 all of which are precisely what the 'Mishna No Protest' prose describes.",
+      "chosen_heading": "Mishna No Protest",
+      "current_heading": "Mishna No Protest",
+      "moved": false
+    }
+  }
+]

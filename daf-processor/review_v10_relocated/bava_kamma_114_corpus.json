@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tax Collectors & Bandits",
+    "candidates": [
+      "Prior Discussion Review",
+      "Tax Collectors & Bandits",
+      "Ye'ush Resolution",
+      "Rescued Items",
+      "Presume vs. Establish",
+      "Bees & Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna covering tax collectors taking a donkey and bandits taking a garment (ye'ush presumed), salvaging from river/troops/bandits (ye'ush if established), and the swarm of bees \u2014 all of which maps to the 'Tax Collectors & Bandits' section prose that explicitly discusses natlu mochsin es chamoro and natlu listim es kesuso, which is exactly where it currently sits.",
+      "chosen_heading": "Tax Collectors & Bandits",
+      "current_heading": "Tax Collectors & Bandits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Bees & Testimony",
+    "candidates": [
+      "Ye'ush Resolution",
+      "Rescued Items",
+      "Presume vs. Establish",
+      "Bees & Testimony",
+      "Field Entry Rights",
+      "Branch Cutting Rule",
+      "Conflicting Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains all three elements\u2014testimony of a woman or minor about the swarm's origin, entering another's field to retrieve the swarm, and the branch-cutting dispute\u2014and the prose under heading 3 ('Bees & Testimony') explicitly introduces this exact mishna text including Rabbi Yochanan ben Broka's ruling about testimony, making it the correct placement even though headings 4 and 5 cover later parts of the same passage.",
+      "chosen_heading": "Bees & Testimony",
+      "current_heading": "Bees & Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Conflicting Braita",
+    "candidates": [
+      "Field Entry Rights",
+      "Branch Cutting Rule",
+      "Conflicting Braita",
+      "Jewish vs. Non-Jewish",
+      "Rav Yosef Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the baraita and its alternate version (ve'ika d'amrei) discussing whether one must or may voluntarily return the donkey to the original owners, which is precisely what the 'Conflicting Braita' prose section describes in detail.",
+      "chosen_heading": "Conflicting Braita",
+      "current_heading": "Conflicting Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Rav Yosef Counter",
+    "candidates": [
+      "Jewish vs. Non-Jewish",
+      "Rav Yosef Counter",
+      "Keilim Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion \u2014 Rav Ashi's distinction (items 1, 4), Rav Yosef's counter (item 2), and the repositioning of Rav Ashi's statement to the seifa (item 3) \u2014 which is precisely what heading 1 ('Rav Yosef Counter') describes in its prose, including the repositioning to the seifa and the final ruling about Jewish vs. non-Jewish bandits.",
+      "chosen_heading": "Rav Yosef Counter",
+      "current_heading": "Rav Yosef Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Keilim Sources",
+    "candidates": [
+      "Keilim Sources",
+      "Rabbi Shimon View",
+      "Ulla Position",
+      "Rabbah Disagrees"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Keilim Sources",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the mishna in Kelim covering the owner, leatherworker, robber, and thief cases, which exactly matches the 'Keilim Sources' prose discussion of those same distinctions.",
+      "second_heading": "Rabbi Shimon View",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rabbi Shimon's reversal of the mishna's ruling, which exactly matches the 'Rabbi Shimon View' prose that begins 'Rabbi Shimon omer chiluf hadavar \u2014 the exact reverse.'",
+      "current_heading": "Keilim Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rabbah Disagrees",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Ulla Position",
+      "Rabbah Disagrees",
+      "Tanna Identification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbah Disagrees",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the Ulla/Rabbah/Abaye dispute about whether known ye'ush is universally effective or still disputed, which is precisely what the 'Rabbah Disagrees' prose describes.",
+      "second_heading": "Tanna Identification",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens a new Gemara unit asking which tanna the mishna about customs collectors and bandits follows, which matches exactly the 'Tanna Identification' prose.",
+      "current_heading": "Rabbah Disagrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Tanna Identification",
+    "candidates": [
+      "Tanna Identification",
+      "Armed Bandits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tanna Identification",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 directly address the tanna identification problem and Ulla's resolution, matching candidate 0's prose about ee Rabbanan/ee Rabbi Shimon and Ulla's answer.",
+      "second_heading": "Armed Bandits",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-7 cover the armed bandits resolution, the two types of gazlan clarification, and the subsequent baraita proof \u2014 all fitting candidate 1's discussion of listim m'zuyanin and the breadth of the rule.",
+      "current_heading": "Tanna Identification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Armed Bandits",
+    "candidates": [
+      "Armed Bandits",
+      "Braita Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses armed bandits (listim m'zuyanin), the distinction between two types of gazlan, and Rabbi Shimon's position \u2014 all of which are the explicit subject of the 'Armed Bandits' section prose.",
+      "chosen_heading": "Armed Bandits",
+      "current_heading": "Armed Bandits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Braita Sources",
+    "candidates": [
+      "Braita Sources",
+      "Ibbaya Lehu",
+      "Father's Honor Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the alternative explanation (ve'ibayis eima) that the baraita follows Rabbi Yehuda HaNasi who equates gannav with gazlan, and clarifies this means like Rabbi Shimon's gazlan \u2014 exactly what candidate 0's prose describes as the gemara's alternative answer to the strained armed-bandit reading.",
+      "chosen_heading": "Braita Sources",
+      "current_heading": "Braita Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Father's Honor Proof",
+    "candidates": [
+      "Ibbaya Lehu",
+      "Father's Honor Proof",
+      "Bees Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 12 items form one continuous Gemara discussion about whether Rabbi Yehuda HaNasi's equation of gannav with gazlan follows Rabbi Shimon or the Rabbanan, which is precisely what candidate 0 ('Ibbaya Lehu') describes in its prose, including the mishna proof, the armed bandit response, the baraita proof, and the final resolution from Rav Ashi's proof about the father's honor \u2014 all of which candidate 0 explicitly discusses.",
+      "chosen_heading": "Ibbaya Lehu",
+      "current_heading": "Father's Honor Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Bees Status",
+    "candidates": [
+      "Father's Honor Proof",
+      "Bees Status",
+      "Woman Minor Testimony",
+      "Corroboration & Speech",
+      "Ravina Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about why the mishna uses 'and so too' for the bee swarm case and the answer about rabbinic acquisition of bees requiring actual ye'ush \u2014 precisely what the 'Bees Status' prose discusses.",
+      "chosen_heading": "Bees Status",
+      "current_heading": "Bees Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Ravina Challenge",
+    "candidates": [
+      "Woman Minor Testimony",
+      "Corroboration & Speech",
+      "Ravina Challenge",
+      "Rav Ashi Response",
+      "Cohen Status Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about women and minors as witnesses in the bee-swarm case \u2014 starting with the mishna's ruling, through the gemara's question about their eligibility, Rav Ashi's limitation of mesiach l'fi tumo to edut isha, and Ravina's challenge resolved by the rabbinic-acquisition answer \u2014 which matches heading 0 ('Woman Minor Testimony') whose prose directly addresses exactly this question of women and minors as competent witnesses in the bee context.",
+      "chosen_heading": "Woman Minor Testimony",
+      "current_heading": "Ravina Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Cohen Status Proof",
+    "candidates": [
+      "Rav Ashi Response",
+      "Cohen Status Proof",
+      "Captive Woman Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous challenge-and-resolution sequence about the Yo\u1e25anan/kohen case \u2014 Rav Yehuda's anecdote, Rabbi \u1e24anina's addition and Rabbi's ruling, then Rav Ashi's rebuttal limiting it to teruma derabbanan \u2014 which is precisely what Candidate 1's prose describes in detail.",
+      "chosen_heading": "Cohen Status Proof",
+      "current_heading": "Cohen Status Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Captive Woman Case",
+    "candidates": [
+      "Captive Woman Case",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the captive child case and Rabbi's ruling that the prose under 'Captive Woman Case' explicitly describes \u2014 the child's offhand testimony and Rabbi permitting her to marry a kohen.",
+      "chosen_heading": "Captive Woman Case",
+      "current_heading": "Captive Woman Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Conclusion",
+      "Branch Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about 'bishvuya hikilu' (leniency for a captive woman) is directly discussed in the Conclusion section's prose, which explicitly references this exact phrase and concept as part of the gemara's resolution.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Branch Cutting",
+    "candidates": [
+      "Branch Cutting",
+      "Extended Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the baraita of Rabbi Yishmael son of Rabbi Yochanan ben Broka regarding the court stipulation permitting cutting another's branch to retrieve one's swarm, which is precisely what the 'Branch Cutting' prose describes.",
+      "chosen_heading": "Branch Cutting",
+      "current_heading": "Branch Cutting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Extended Cases",
+    "candidates": [
+      "Extended Cases",
+      "Voluntary vs. Forced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the honey/wine and wood/flax court stipulations and the Joshua condition, which is precisely what the 'Extended Cases' prose discusses in detail.",
+      "chosen_heading": "Extended Cases",
+      "current_heading": "Extended Cases",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Black Before Yom Tov",
+    "candidates": [
+      "Dichuy Intro",
+      "Black Before Yom Tov",
+      "Black During Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's analysis of the mishnah's 'if he diminished their number it is fit' clause, directly wrestling with the dichuy mei'ikara question and whether binding constitutes the outset \u2014 exactly the content described in the 'Dichuy Intro' prose, which sets up the sugya's unresolved question about dichuy bi-mitzvot and the final mishnah clause as opening a new avenue of inquiry into that question.",
+      "chosen_heading": "Dichuy Intro",
+      "current_heading": "Black Before Yom Tov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Black During Yom Tov",
+    "candidates": [
+      "Black Before Yom Tov",
+      "Black During Yom Tov",
+      "Conclusion on Dichuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's single argument about when the berries turned black \u2014 item 1 raises the 'dichuy mei'ikara' possibility (black before Yom Tov) and item 2 pivots to 'nireh ve-nidcheh' (black during Yom Tov), and heading 0 ('Black Before Yom Tov') contains prose that covers exactly this two-part argument in sequence, whereas heading 1 ('Black During Yom Tov') only discusses the second half of the argument.",
+      "chosen_heading": "Black Before Yom Tov",
+      "current_heading": "Black During Yom Tov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Conclusion on Dichuy",
+    "candidates": [
+      "Conclusion on Dichuy",
+      "Prohibition Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's rejection and conclusion about dichuy mei'ikara versus nireh ve-nidcheh, which is precisely what the 'Conclusion on Dichuy' prose describes.",
+      "chosen_heading": "Conclusion on Dichuy",
+      "current_heading": "Conclusion on Dichuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Prohibition Stated",
+    "candidates": [
+      "Prohibition Stated",
+      "Psik Reisha Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about diminishing berries on Yom Tov, the dispute with Rabbi Eliezer bar Rabbi Shimon, and the Gemara's challenge about tikkun mana \u2014 all of which match exactly what Candidate 0's prose describes, while Candidate 1 discusses the subsequent rationale involving psik reisha which is not in this passage.",
+      "chosen_heading": "Prohibition Stated",
+      "current_heading": "Prohibition Stated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Psik Reisha Concept",
+    "candidates": [
+      "Psik Reisha Concept",
+      "Rashi Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the psik reisha concept \u2014 item 1 introduces Rabbi Shimon's 'unintentional act is permitted' ruling and item 2 raises Abaye and Rava's objection about psik reisha, which is precisely what the 'Psik Reisha Concept' prose section describes.",
+      "chosen_heading": "Psik Reisha Concept",
+      "current_heading": "Psik Reisha Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rashi Explanation",
+    "candidates": [
+      "Rashi Explanation",
+      "Tosafot Explanation",
+      "Vegetable Bundle Tying",
+      "Rabbi Yehuda Knot Req."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's answer ('where he has another myrtle branch') which is the source text being explained by Rashi's interpretation in candidate 0, making it correctly placed under the Rashi Explanation heading.",
+      "chosen_heading": "Rashi Explanation",
+      "current_heading": "Rashi Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rabbi Yehuda Knot Req.",
+    "candidates": [
+      "Tosafot Explanation",
+      "Vegetable Bundle Tying",
+      "Rabbi Yehuda Knot Req.",
+      "Rashi on Real Knot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about retying a lulav binding like a vegetable bundle, and the Gemara's question about why not use a bow knot answered by Rabbi Yehuda's position, is precisely what the 'Vegetable Bundle Tying' section's prose describes as its topic.",
+      "chosen_heading": "Vegetable Bundle Tying",
+      "current_heading": "Rabbi Yehuda Knot Req.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rashi on Real Knot",
+    "candidates": [
+      "Rabbi Yehuda Knot Req.",
+      "Rashi on Real Knot",
+      "Modern Practices",
+      "Aravah Disqualifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's resolution that this tanna agrees with Rabbi Yehuda that a bow is a full-fledged knot but disagrees that binding is a Torah requirement, which is precisely the content described in candidate 0's prose about Rabbi Yehuda's knot requirement and the tanna who holds in one matter and disagrees in another.",
+      "chosen_heading": "Rabbi Yehuda Knot Req.",
+      "current_heading": "Rashi on Real Knot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Aravah Disqualifications",
+    "candidates": [
+      "Modern Practices",
+      "Aravah Disqualifications",
+      "Arvei Nachal Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna listing aravah disqualifications and validations, which directly corresponds to the 'Aravah Disqualifications' section whose prose explicitly discusses this exact Mishna content.",
+      "chosen_heading": "Aravah Disqualifications",
+      "current_heading": "Aravah Disqualifications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Arvei Nachal Defined",
+    "candidates": [
+      "Arvei Nachal Defined",
+      "Arvei Nachal Anywhere"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines 'arvei nachal' via two interpretations (grows by the brook; leaf elongated like a brook), which is precisely what the prose of heading 0 discusses, making the current placement correct.",
+      "chosen_heading": "Arvei Nachal Defined",
+      "current_heading": "Arvei Nachal Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Arvei Nachal Anywhere",
+    "candidates": [
+      "Arvei Nachal Anywhere",
+      "Tzaftzafah Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about willows growing anywhere, Abba Shaul's derivation of two aravah mitzvot, and the Rabbis' source for the Temple aravah as halakha le-Moshe mi-Sinai \u2014 are explicitly discussed together in the prose of candidate 0, 'Arvei Nachal Anywhere'.",
+      "chosen_heading": "Arvei Nachal Anywhere",
+      "current_heading": "Arvei Nachal Anywhere",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Tzaftzafah Verse",
+    "candidates": [
+      "Tzaftzafah Verse",
+      "Physical Characteristics",
+      "Chilfah Gila Species"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the baraita excluding the tzaftzafah, Rabbi Zeira's verse from Ezekiel, Abaye's challenge, and Rabbi Abbahu's homiletical resolution \u2014 exactly the content described in candidate 0's prose, including the variant tradition in item 3.",
+      "chosen_heading": "Tzaftzafah Verse",
+      "current_heading": "Tzaftzafah Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Chilfah Gila Species",
+    "candidates": [
+      "Physical Characteristics",
+      "Chilfah Gila Species",
+      "Chisda: Post-Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita distinguishing aravah from tzaftzafah, Abaye's resolution via chilfah gila, and the derivation from 'arvei nachal' \u2014 are precisely the content described in the 'Chilfah Gila Species' prose, which covers the scythe/saw contradiction, Abaye's species-specific resolution, the kashrut of chilfah gila, the shem livai concern, and the Torah's plural inclusion.",
+      "chosen_heading": "Chilfah Gila Species",
+      "current_heading": "Chilfah Gila Species",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Chisda: Post-Destruction",
+    "candidates": [
+      "Chisda: Post-Destruction",
+      "R. Yishmael Quantities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items form the continuous Gemara passage about name changes since the Temple's destruction (Rav \u1e24isda, Abaye, and Rava bar Yosef), which is precisely what the prose under heading 0 'Chisda: Post-Destruction' describes in full detail.",
+      "chosen_heading": "Chisda: Post-Destruction",
+      "current_heading": "Chisda: Post-Destruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "R. Yishmael Quantities",
+    "candidates": [
+      "R. Yishmael Quantities",
+      "R. Tarfon Position",
+      "R. Akiva One Each",
+      "Etrog Binding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers Rabbi Yishmael's quantities (three hadassim, two aravos, one lulav, one etrog) and the katum rule, which is precisely what the 'R. Yishmael Quantities' prose discusses, making the current placement correct.",
+      "chosen_heading": "R. Yishmael Quantities",
+      "current_heading": "R. Yishmael Quantities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Etrog Binding",
+    "candidates": [
+      "R. Tarfon Position",
+      "R. Akiva One Each",
+      "Etrog Binding",
+      "Taking All Together",
+      "R. Yishmael Questioned"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Akiva One Each",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita with Rabbi Yishmael's counts, Rabbi Tarfon's leniency, and Rabbi Akiva's position \u2014 this is the foundational source text for the 'R. Akiva One Each' section, which explicitly discusses and analyzes all three opinions including Rabbi Yishmael's and Rabbi Akiva's derivations.",
+      "second_heading": "Etrog Binding",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Eliezer's argument about whether the etrog should be bound with the other species and the derivation that all four species are mutually indispensable \u2014 matching exactly the 'Etrog Binding' section's prose about the absence of a vav connecting peri etz hadar to the other species.",
+      "current_heading": "Etrog Binding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "R. Yishmael Questioned",
+    "candidates": [
+      "Taking All Together",
+      "R. Yishmael Questioned",
+      "R. Yishmael Reversal",
+      "Halacha Like Tarfon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge to Rabbi Yishmael's position (the 'whichever way you look at it' dilemma) and the resolution (chazar bo Rabbi Yishmael), but since both elements are in a single Talmudic excerpt and candidate 1 ('R. Yishmael Questioned') covers both the challenge and the retraction in its prose, while candidate 2 ('R. Yishmael Reversal') duplicates the resolution content \u2014 the current placement under candidate 1 is correct as it matches the full passage including the retraction statement.",
+      "chosen_heading": "R. Yishmael Questioned",
+      "current_heading": "R. Yishmael Questioned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Halacha Like Tarfon",
+    "candidates": [
+      "R. Yishmael Reversal",
+      "Halacha Like Tarfon",
+      "Shmuel Market Threat",
+      "Why Tarfon Threatens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Halacha Like Tarfon' \u2014 Rav Yehuda citing Shmuel's ruling that halakha follows Rabbi Tarfon, plus Shmuel's market threat to the myrtle sellers, which the 'Halacha Like Tarfon' prose explicitly addresses as a combined unit.",
+      "chosen_heading": "Halacha Like Tarfon",
+      "current_heading": "Halacha Like Tarfon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Why Tarfon Threatens",
+    "candidates": [
+      "Shmuel Market Threat",
+      "Why Tarfon Threatens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks why Shmuel chose Rabbi Tarfon over Rabbi Akiva and answers that three ketumim are common while one intact is not \u2014 exactly what the 'Why Tarfon Threatens' prose describes.",
+      "chosen_heading": "Why Tarfon Threatens",
+      "current_heading": "Why Tarfon Threatens",
+      "moved": false
+    }
+  }
+]

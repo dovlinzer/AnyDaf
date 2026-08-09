@@ -1,0 +1,324 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "First Shearer's Wool",
+    "candidates": [
+      "Intro: All vs. Some",
+      "Rav Yehuda & Rav Yirmeyah",
+      "Eved Case Evidence",
+      "Context Argument",
+      "First Shearer's Wool",
+      "Rav's Maneh Standard",
+      "Kol Shehu as Relative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge to 'kol shehu' being literally minimal, citing the reshit hagez mishna with Rabbi Dosa and the Rabbis' dispute, which is precisely what the 'First Shearer's Wool' section's prose describes.",
+      "chosen_heading": "First Shearer's Wool",
+      "current_heading": "First Shearer's Wool",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Kol Shehu as Relative",
+    "candidates": [
+      "Rav's Maneh Standard",
+      "Kol Shehu as Relative",
+      "Literal Interpretation",
+      "What's in Metaltelin",
+      "Kol Metaltelin Expansion",
+      "Millstone Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why the Sages used 'kol shehu' as a relative term in response to Rabbi Dosa's large standard, which is precisely what the 'Kol Shehu as Relative' section's prose describes.",
+      "chosen_heading": "Kol Shehu as Relative",
+      "current_heading": "Kol Shehu as Relative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Millstone Distinction",
+    "candidates": [
+      "Literal Interpretation",
+      "What's in Metaltelin",
+      "Kol Metaltelin Expansion",
+      "Millstone Distinction",
+      "Slaves Classification",
+      "Town Sale Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three formulations (metaltelin, kol metaltelin, kol d'mitaltel) as a unified unit, but its opening 'peshita' framing and the progression through all three cases maps most naturally to the 'Kol Metaltelin Expansion' section, which introduces the kol expansion \u2014 and the passage itself starts with the basic metaltelin case before expanding, making it the entry point for the entire sequence that candidate 2's prose introduces.",
+      "chosen_heading": "Kol Metaltelin Expansion",
+      "current_heading": "Millstone Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Town Sale Case",
+    "candidates": [
+      "Slaves Classification",
+      "Town Sale Case",
+      "Ambulatory Exception",
+      "Slave Freeing Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma about slave classification and the proof-attempt from the town-sale mishna, which is exactly what the 'Town Sale Case' prose describes.",
+      "chosen_heading": "Town Sale Case",
+      "current_heading": "Town Sale Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Slave Freeing Case",
+    "candidates": [
+      "Ambulatory Exception",
+      "Slave Freeing Case",
+      "Rava's Explanation",
+      "Rav Nachman Kerisuta"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ambulatory Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's rebuttal about the ambulatory exception (metaltelin de-naydi vs. de-lo naydi), which is precisely what heading 0 'Ambulatory Exception' describes.",
+      "second_heading": "Slave Freeing Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 introduce Ravina's citation of the slave-freeing mishnah and Rav Dimi's statement about metaltelin as shiyur, which is exactly the content described under heading 1 'Slave Freeing Case'.",
+      "current_heading": "Slave Freeing Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav Nachman Kerisuta",
+    "candidates": [
+      "Rava's Explanation",
+      "Rav Nachman Kerisuta",
+      "Shechiv Mera"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rav Ashi responding to Ravina by affirming that the slave case is about the document lacking complete severance (kerisuta), not about the slave being classified as metaltelin \u2014 which is precisely the kerisuta argument that Candidate 1's prose describes as Rav Nachman's position.",
+      "chosen_heading": "Rav Nachman Kerisuta",
+      "current_heading": "Rav Nachman Kerisuta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Shechiv Mera",
+    "candidates": [
+      "Shechiv Mera",
+      "Eved Freedom",
+      "Wife Executor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the opening of Rav Na\u1e25man's enumeration of the five categories, with items 2 and 3 explaining the first two cases (shechiv mera and eved), and the current heading 'Shechiv Mera' is where this introductory passage and its first elaborations belong, matching the prose that describes exactly this enumeration and the shechiv mera rule.",
+      "chosen_heading": "Shechiv Mera",
+      "current_heading": "Shechiv Mera",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Wife Executor",
+    "candidates": [
+      "Eved Freedom",
+      "Wife Executor",
+      "Wife's Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda citing Shmuel about writing all property to one's wife making her only a steward, which directly matches the 'Wife Executor' section's prose discussing exactly this ruling.",
+      "chosen_heading": "Wife Executor",
+      "current_heading": "Wife Executor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Wife's Ketubah",
+    "candidates": [
+      "Wife's Ketubah",
+      "Property Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about writing all property to sons and giving the wife any amount of land causing her to forfeit her ketubah, which is precisely what the 'Wife's Ketubah' section's prose discusses and explains.",
+      "chosen_heading": "Wife's Ketubah",
+      "current_heading": "Wife's Ketubah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Property Protection",
+    "candidates": [
+      "Property Protection",
+      "Metaltelin in Five",
+      "Ketubah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Talmudic source defining mavrachat and the requirement to transfer all property, which is precisely what the 'Property Protection' section's prose discusses.",
+      "chosen_heading": "Property Protection",
+      "current_heading": "Property Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Ketubah Exception",
+    "candidates": [
+      "Metaltelin in Five",
+      "Ketubah Exception",
+      "Amimar's Liens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the general rule that metaltelin constitutes a shiyur in all cases except ketubah, which is precisely what heading 0 ('Metaltelin in Five') describes as Rav Nachman's conclusion \u2014 the ketubah exception is introduced here as part of that summary statement, not as the standalone elaboration found in heading 1.",
+      "chosen_heading": "Metaltelin in Five",
+      "current_heading": "Ketubah Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Amimar's Liens",
+    "candidates": [
+      "Ketubah Exception",
+      "Amimar's Liens",
+      "Slaves in Nechasim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ameimar's statement about movable property explicitly written in the ketubah constituting a shiyur, which is precisely what the 'Amimar's Liens' prose section discusses.",
+      "chosen_heading": "Amimar's Liens",
+      "current_heading": "Amimar's Liens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Slaves in Nechasim",
+    "candidates": [
+      "Slaves in Nechasim",
+      "Land in Nechasim",
+      "Metaltelin in Nechasim",
+      "Cash/Zuzim",
+      "Rav Pappa Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three items (slave, land, cloak) as examples of nechasim, and the current heading 'Slaves in Nechasim' with its prose explicitly introduces this multi-part analysis beginning with slaves, matching the passage's content which starts with the slave proof and continues through land and garment.",
+      "chosen_heading": "Slaves in Nechasim",
+      "current_heading": "Slaves in Nechasim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rav Pappa Story",
+    "candidates": [
+      "Land in Nechasim",
+      "Metaltelin in Nechasim",
+      "Cash/Zuzim",
+      "Rav Pappa Story",
+      "Shtarot/Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with 'Money [zuzei] is called property' and cites the mishna about property without liens being acquired together with property with liens \u2014 which is precisely the proof discussed in the 'Cash/Zuzim' section \u2014 and the Rav Pappa story is presented as an illustration of that same point, so the entire passage belongs under heading 2 rather than being split off under a separate 'Rav Pappa Story' heading.",
+      "chosen_heading": "Cash/Zuzim",
+      "current_heading": "Rav Pappa Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Shtarot/Documents",
+    "candidates": [
+      "Rav Pappa Story",
+      "Shtarot/Documents",
+      "Presigned Shtar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba bar Yitz\u1e25ak's teaching about the two types of deeds (the 'acquire and write' vs. 'on condition that you write' distinction), which is precisely the content described in the 'Shtarot/Documents' prose section.",
+      "chosen_heading": "Shtarot/Documents",
+      "current_heading": "Shtarot/Documents",
+      "moved": false
+    }
+  }
+]

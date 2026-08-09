@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Bamah Challenge",
+    "candidates": [
+      "Opening & Topic Setup",
+      "Kabbalat HaDam Review",
+      "Source of Zar Prohibition",
+      "Veyinnazru vs. Vezar",
+      "Bamah Challenge",
+      "Onen & Baal Mum Fix",
+      "Zar, Onen, Bamah Accept",
+      "Yoshev Kal VaChomer (II)",
+      "Yoshev Edus Challenge",
+      "Talmid Chacham Exception",
+      "Tzad HaShaveh Alternative"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Veyinnazru vs. Vezar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks where the zar's prohibition comes from and identifies the source as 'vezar lo yikrav aleichem,' which is precisely what section 3 ('Veyinnazru vs. Vezar') describes \u2014 the rejection of veyinnazru in favor of vezar.",
+      "second_heading": "Bamah Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the bamah challenge to the tzad hashaveh, which is exactly what section 4 ('Bamah Challenge') describes \u2014 the objection that tamei and baal mum were never permitted on a bamah whereas a zar was.",
+      "current_heading": "Bamah Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Tzad HaShaveh Alternative",
+    "candidates": [
+      "Onen & Baal Mum Fix",
+      "Zar, Onen, Bamah Accept",
+      "Yoshev Kal VaChomer (II)",
+      "Yoshev Edus Challenge",
+      "Talmid Chacham Exception",
+      "Tzad HaShaveh Alternative",
+      "Lifnei Hashem Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Zar, Onen, Bamah Accept",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 complete the onen/baal mum tzad hashaveh and the bamah question, matching candidate 1's prose about the onen being potentially permitted on a bamah and the resulting common denominator.",
+      "second_heading": "Yoshev Kal VaChomer (II)",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 begin Rav Mesharshiya's independent kal vachomer from yoshev and its challenges/resolutions, which is a new derivation matching candidate 2's prose about the yoshev kal vachomer.",
+      "current_heading": "Tzad HaShaveh Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Lifnei Hashem Source",
+    "candidates": [
+      "Lifnei Hashem Source",
+      "General Rule Established",
+      "Kohen Gadol Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's derivation that sitting is valid on a bamah from the verse 'la'amod lifnei Hashem lesharto,' which is precisely what the 'Lifnei Hashem Source' prose section discusses.",
+      "chosen_heading": "Lifnei Hashem Source",
+      "current_heading": "Lifnei Hashem Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Kohen Gadol Source",
+    "candidates": [
+      "General Rule Established",
+      "Kohen Gadol Source",
+      "Hen HaKrivu Debate",
+      "Nadav & Avihu Context",
+      "Gemara Rejects Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: item 1 introduces the Kohen Gadol verse derivation, item 2 presents Rabbi Elazar's alternative from 'hen hikrivu,' and item 3 explains why Rabbi Elazar rejects the first verse \u2014 all of which the 'Kohen Gadol Source' prose explicitly describes as the Gemara's treatment of the onen question beginning with the min hamikdash verse and the counter-derivation.",
+      "chosen_heading": "Kohen Gadol Source",
+      "current_heading": "Kohen Gadol Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Gemara Rejects Both",
+    "candidates": [
+      "Hen HaKrivu Debate",
+      "Nadav & Avihu Context",
+      "Gemara Rejects Both",
+      "Kal VaChomer Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the second opinion rejects deriving from 'hen hikrivu' \u2014 answering that he holds the meat was burned due to tumah, not aninut \u2014 which is explicitly discussed in the 'Gemara Rejects Both' section's prose about 'kasavar mipnei tumah nisrefah' and why the inference from the exchange collapses.",
+      "chosen_heading": "Gemara Rejects Both",
+      "current_heading": "Gemara Rejects Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Kal VaChomer Approach",
+    "candidates": [
+      "Kal VaChomer Approach",
+      "Baal Mum vs. Zar",
+      "Takana Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the school of Rabbi Yishmael's kal vachomer derivation from baal mum to onen, which is precisely what the 'Kal VaChomer Approach' prose describes.",
+      "chosen_heading": "Kal VaChomer Approach",
+      "current_heading": "Kal VaChomer Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Takana Challenge",
+    "candidates": [
+      "Baal Mum vs. Zar",
+      "Takana Challenge",
+      "Zar & Mum Tzad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baal mum objection and the zar counter-proof (with its rejection), which is precisely the content described in candidate 0's prose about the interplay between baal mum and zar disqualifications \u2014 not the 'ein lo takana' challenge that is the focus of candidate 1.",
+      "chosen_heading": "Baal Mum vs. Zar",
+      "current_heading": "Takana Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Zar & Mum Tzad",
+    "candidates": [
+      "Takana Challenge",
+      "Zar & Mum Tzad",
+      "Onen Prohibition Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the tzad hashaveh formula (lo rei zeh kirei zeh, hatzad hashaveh shebahen) described in candidate 1's prose, concluding that an onen who performed avodah desecrates it.",
+      "chosen_heading": "Zar & Mum Tzad",
+      "current_heading": "Zar & Mum Tzad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Onen Prohibition Source",
+    "candidates": [
+      "Onen Prohibition Source",
+      "Kohen Gadol Source Limits",
+      "Tamei Exception Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses where the onen prohibition is derived from \u2014 rejecting the 'min hamikdash lo yetzei' verse because profanation is already explicit there, and instead pointing to 'hen hikrivu' \u2014 which is precisely what the 'Onen Prohibition Source' prose discusses.",
+      "chosen_heading": "Onen Prohibition Source",
+      "current_heading": "Onen Prohibition Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Tamei Exception Analogy",
+    "candidates": [
+      "Kohen Gadol Source Limits",
+      "Tamei Exception Analogy",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Tamei Exception Analogy",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 directly continue the tzad hashaveh challenge and resolution (mah lehatzad hashaveh / tamei yochiach / chazar hadin) that Candidate 1 ('Tamei Exception Analogy') explicitly describes in its prose.",
+      "second_heading": "Rava's Position",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 introduce Rav Mesharshiyya's new kal vachomer derivation from a sitting priest, which is a structurally distinct argument, and Candidate 2 ('Rava's Position') is the next section \u2014 but more precisely, items 5-7 form a new self-contained unit that follows the resolved tzad hashaveh and precedes Rava's qualification, placing them under the heading that immediately follows Candidate 1, which is Candidate 2.",
+      "current_heading": "Tamei Exception Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Rava's Logic Grid"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's ruling that an onen invalidates only a korban yachid but effects acceptance for a korban tzibur, matching the 'Rava's Position' prose exactly.",
+      "second_heading": "Rava's Logic Grid",
+      "second_confidence": "high",
+      "second_reason": "Item 2 elaborates the full kal vachomer grid comparing tumah and aninut across Kohen Gadol/hedyot and korban yachid/tzibur axes, matching the 'Rava's Logic Grid' prose exactly.",
+      "current_heading": "Rava's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Rava's Logic Grid",
+    "candidates": [
+      "Rava's Logic Grid",
+      "Multiple QV Paths",
+      "Alt 1: Onen Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are Rava bar Ahilai's challenge showing that the same grid of four parameters yields multiple contradictory *kal vachomer* inferences, which is precisely what heading 1 ('Multiple QV Paths') describes \u2014 the current placement under heading 0 ('Rava's Logic Grid') is wrong since that prose describes Rava's original argument, not the objections to it.",
+      "chosen_heading": "Multiple QV Paths",
+      "current_heading": "Rava's Logic Grid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Alt 1: Onen Limits",
+    "candidates": [
+      "Multiple QV Paths",
+      "Alt 1: Onen Limits",
+      "Alt 2: Tumah Extends",
+      "Alt 3: Tumah Limits",
+      "Pshat Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Alt 3: Tumah Limits",
+      "first_confidence": "medium",
+      "first_reason": "The mnemonic summarizes all the rejections of Rava bar Ahilai's challenges across the alternatives, and fits best after Alt 3 as a wrap-up of the entire series of alternatives before the conclusion.",
+      "second_heading": "Pshat Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's explicit concluding statement \u2014 'each and every halakha shall stand in its place' \u2014 which is precisely what the 'Pshat Conclusion' prose describes and quotes.",
+      "current_heading": "Alt 1: Onen Limits",
+      "moved": true
+    }
+  }
+]

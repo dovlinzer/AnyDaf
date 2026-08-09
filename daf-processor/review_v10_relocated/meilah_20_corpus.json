@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Beam Case",
+    "candidates": [
+      "Daf 20 Setup",
+      "Previous Concepts",
+      "Beam Case",
+      "Building in House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The 'Beam Case' prose directly discusses this Mishnah (natal even o karah shel hekdesh, harei zeh lo ma'al) and explains its content in detail, making it the clear home for this passage.",
+      "chosen_heading": "Beam Case",
+      "current_heading": "Beam Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Building in House",
+    "candidates": [
+      "Building in House",
+      "Bathhouse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both giving the stone to another (he is liable, the other is not) and building it into one's house (not liable until dwelling beneath it for a perutah's worth), and the 'Building in House' prose explicitly discusses both the giving-to-another scenario and the building-into-house scenario as part of the same Mishnaic unit it is analyzing.",
+      "chosen_heading": "Building in House",
+      "current_heading": "Building in House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Bathhouse Case",
+    "candidates": [
+      "Bathhouse Case",
+      "Combined Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the bathhouse attendant case (nasno labalan) and the reasoning about why handing over payment completes the transaction, which is precisely what the 'Bathhouse Case' prose analyzes in detail.",
+      "chosen_heading": "Bathhouse Case",
+      "current_heading": "Bathhouse Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Combined Benefit",
+    "candidates": [
+      "Combined Benefit",
+      "Shmuel's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah text about combinations of eating and benefit joining together, which is exactly what the 'Combined Benefit' section's prose discusses and analyzes.",
+      "chosen_heading": "Combined Benefit",
+      "current_heading": "Combined Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Shmuel's Answer",
+    "candidates": [
+      "Shmuel's Answer",
+      "Building Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's answer about the gizbar (temple treasurer), which is precisely what the prose under 'Shmuel's Answer' discusses in detail.",
+      "chosen_heading": "Shmuel's Answer",
+      "current_heading": "Shmuel's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Building Question",
+    "candidates": [
+      "Building Question",
+      "Rav's Position",
+      "Roof Case",
+      "Visible Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why dwelling is required and Rav's answer about placing it on a skylight, which is exactly what 'Building Question' heading's prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Building Question",
+      "current_heading": "Building Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Visible Benefit",
+    "candidates": [
+      "Rav's Position",
+      "Roof Case",
+      "Visible Benefit",
+      "Sanctified Chattel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the mechubar lekarka tension \u2014 item 1 raises Rav's position about a house retaining metaltelin status, and item 2 offers Rav Acha's 'hana'ah hanir'et la'einayim' answer \u2014 which is precisely what the 'Visible Benefit' prose discusses in detail, including its difficulties and the Rambam's rejection of it.",
+      "chosen_heading": "Visible Benefit",
+      "current_heading": "Visible Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Sanctified Chattel",
+    "candidates": [
+      "Sanctified Chattel",
+      "Shlichut Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about dwelling in a consecrated house and Reish Lakish's qualification, followed by the Gemara's question about why the baraita uses a cave rather than a built-then-sanctified house, and the resolution \u2014 all of which is directly and explicitly covered in the 'Sanctified Chattel' prose.",
+      "chosen_heading": "Sanctified Chattel",
+      "current_heading": "Sanctified Chattel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Shlichut Intro",
+    "candidates": [
+      "Shlichut Intro",
+      "Liver vs Meat",
+      "Portions Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishnah passage introduces the basic rule of shlichut in me'ilah (agent performed vs. did not perform his agency), which is precisely what the 'Shlichut Intro' prose describes as the opening of the final perek, before the specific illustrative cases (liver vs. meat, portions) discussed under the subsequent headings.",
+      "chosen_heading": "Shlichut Intro",
+      "current_heading": "Shlichut Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Portions Case",
+    "candidates": [
+      "Liver vs Meat",
+      "Portions Case",
+      "Rav Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the liver/meat case AND the portions case in a single Mishnah text, but the 'How so?' introduction and the liver/meat illustration match heading 0's prose description of the Mishnah's illustration, while heading 1's prose already describes the portions case separately \u2014 however, since this is a single quoted passage covering both examples, and heading 0's prose explicitly describes the full Mishnah including both the liver/meat and portions scenarios as one unit ('kulam ma'alu'), the passage fits better under heading 0 which introduces the 'How so?' question that opens this entire Mishnah section.",
+      "chosen_heading": "Liver vs Meat",
+      "current_heading": "Portions Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Rav Chisda",
+    "candidates": [
+      "Portions Case",
+      "Rav Chisda",
+      "Abaye's Refinement",
+      "Rava Approves",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara discussion about who the tanna is behind the liver-vs-meat ruling \u2014 Rav Chisda's answer, Abaye's refinement, and Rava's approval \u2014 which is precisely what candidate 1 ('Rav Chisda') describes in its prose, covering the mimlach principle, the Rabbi Akiva dispute, and the resolution.",
+      "chosen_heading": "Rav Chisda",
+      "current_heading": "Rav Chisda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Abaye's Refinement",
+      "Rava Approves",
+      "Rabbi Akiva",
+      "R. Shimon b. Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage identifies Rabban Shimon ben Gamliel as the tanna who disputes Rabbi Akiva and presents the baraita with both positions, which corresponds exactly to the 'Rabbi Akiva' section's prose that introduces the beraita and describes Rabbi Akiva's expansive view as the first position being contrasted.",
+      "chosen_heading": "Rabbi Akiva",
+      "current_heading": "Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "R. Shimon b. Gamliel",
+    "candidates": [
+      "R. Shimon b. Gamliel",
+      "Fish Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabban Shimon ben Gamliel's statement about innards not being meat, which is explicitly discussed and contextualized in the 'R. Shimon b. Gamliel' section's prose.",
+      "chosen_heading": "R. Shimon b. Gamliel",
+      "current_heading": "R. Shimon b. Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Fish Challenge",
+    "candidates": [
+      "Fish Challenge",
+      "Rav Papa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about why fish should not also be included alongside fowl \u2014 the exact content described in the 'Fish Challenge' prose section.",
+      "chosen_heading": "Fish Challenge",
+      "current_heading": "Fish Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Rav Papa",
+    "candidates": [
+      "Rav Papa",
+      "Agency Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Rav Pappa dialectic \u2014 first proposal (bloodletting day), challenge (birds also excluded), and revised resolution (eyes hurting day) \u2014 which is precisely what the 'Rav Papa' prose describes in detail.",
+      "chosen_heading": "Rav Papa",
+      "current_heading": "Rav Papa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Agency Validity",
+    "candidates": [
+      "Agency Validity",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether an agent who adds to his agency remains a valid agent, which is exactly the conceptual question about agency validity discussed in candidate 0's prose.",
+      "chosen_heading": "Agency Validity",
+      "current_heading": "Agency Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "Rav Sheshet",
+      "Agency Preserved"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Sheshet",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Sheshet's limiting answer about the agent explicitly delineating the two pieces, which matches the 'Rav Sheshet' prose describing exactly this delineation.",
+      "second_heading": "Agency Preserved",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'mashmah lan' \u2014 the novelty that overreach does not collapse the underlying shlichut \u2014 which matches precisely the 'Agency Preserved' prose discussing how the Mishnah's chiddush is that the original commission remains intact despite the agent going beyond his instructions.",
+      "current_heading": "Rav Sheshet",
+      "moved": true
+    }
+  }
+]

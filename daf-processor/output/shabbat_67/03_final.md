@@ -1,12 +1,18 @@
-# Shabbat 67 — Daf Yomi Shiur
-
+[DAF:66b]
 ## Healing Incantations
+
+
 
 ### One-Day Fever
 
-> **Hebrew/Aramaic:** וְאָמַר אַבָּיֵי, אֲמַרָה לִי אֵם: לְאִשָּׁתָא בַּת יוֹמָא — לִישְׁקוֹל זוּזָא חִיוּוֹרָא, וְלֵיזִיל לְמִלְחֲתָא, וְלִיתְקוֹל מַתְקָלֵיהּ מִילְחָא, וְלִצְיְירֵיהּ בַּחֲלָלָא דְבֵי צַוָּאר בְּנִירָא בַּרְקָא. וְאִי לָא — לִיתֵּיב אַפָּרָשַׁת דְּרָכִים, וְכִי חָזֵי שׁוּמְשְׁמָנָא גַּמְלָא דְּדָרֵי מִידֵּי, לִישְׁקְלֵיהּ וְלִישְׁדְּיֵיהּ בְּגוּבְתָּא דִנְחָשָׁא, וְלִיסְתְּמֵיהּ בַּאֲבָרָא, וְלִיחְתְּמֵיהּ בְּשִׁיתִּין גּוּשְׁפַּנְקֵי, וּלְבַרְזוֹלֵיהּ, וְלִידְרֵיהּ, וְלֵימָא לֵיהּ: "טְעוּנָךְ עֲלַי וּטְעוּנַאי עֲלָךְ". אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב הוּנָא לְרַב אָשֵׁי: וְדִילְמָא אִינִישׁ אַשְׁכְּחֵיהּ וְאִיפְּסִק בֵּיהּ? אֶלָּא לֵימָא לֵיהּ: "טְעוּנַאי וּטְעוּנָךְ עֲלָךְ". וְאִי לָא, לִישְׁקוֹל כּוּזָא חַדְתָּא, וְלֵיזִיל לְנַהְרָא, וְלֵימָא לֵיהּ: "נַהֲרָא נַהֲרָא, אוֹזְפַן כּוּזָא דְמַיָּא לְאוֹרְחָא דְּאִיקְּלַע לִי". וְלַיהְדַּר שָׁב זִימְנֵי עַל רֵישֵׁיהּ, וְלִשְׁדְּיֵיהּ לַאֲחוֹרֵיהּ, וְלֵימָא לֵיהּ: "נַהֲרָא נַהֲרָא, שְׁקוֹל מַיָּא דִּיהַבְתְּ לִי, דְּאוֹרְחָא דְּאִיקְּלַע לִי בְּיוֹמֵיהּ אֲתָא וּבְיוֹמֵיהּ אֲזַל".
->
-> **Translation:** **And Abaye said, Mother said to me: To** heal **a fever of one day, let one take a pale,** i.e., newly minted, **dinar and go to the salt** pools, **and weigh its weight in salt** against it, **and let him bind** the salt **to the opening of the neckline** of his garment **with a thread** made **of hair. And if** this remedy is **not** effective, **let him sit at a crossroads, and when he sees a large ant carrying something, he should take** the ant **and place it in a copper tube, and close it with lead, and seal it with sixty seals, and shake it, and lift it, and say to it: Your burden is upon me and my burden,** my fever, **is upon you. Rav Aḥa, son of Rav Huna, said to Rav Ashi: And perhaps a** different **person** already **found** this ant **and** used **this** remedy to **end** his illness. In that case, by accepting the burden of the ant, he is bringing another's illness upon himself. **Rather, let him say to** the ant: **My burden and your burden are upon you. And if** that remedy is **not** effective, **let him take a new jug, and go to the river, and say to it: River, river, lend me a jug of water for a guest who happened** to come **to me. And let him turn it around his head seven times, and pour out** the water **behind him, and say to it: River, river, take** back **the water that you gave me because the guest who happened** to come **to me came on its day and left on its day.**
+> **Hebrew/Aramaic:** וְאָמַר אַבָּיֵי, אֲמַרָה לִי אֵם: לְאִשָּׁתָא בַּת יוֹמָא — לִישְׁקוֹל זוּזָא חִיוּוֹרָא, וְלֵיזִיל לְמִלְחֲתָא, וְלִיתְקוֹל מַתְקָלֵיהּ מִילְחָא, וְלִצְיְירֵיהּ בַּחֲלָלָא דְבֵי צַוָּאר בְּנִירָא בַּרְקָא.
+> **Translation:** **And Abaye said, Mother said to me: To** heal **a fever of one day, let one take a pale,** i.e., newly minted, **dinar and go to the salt** pools, **and weigh its weight in salt** against it, **and let him bind** the salt **to the opening of the neckline** of his garment **with a thread** made **of hair.**
+
+> **Hebrew/Aramaic:** וְאִי לָא — לִיתֵּיב אַפָּרָשַׁת דְּרָכִים, וְכִי חָזֵי שׁוּמְשְׁמָנָא גַּמְלָא דְּדָרֵי מִידֵּי, לִישְׁקְלֵיהּ וְלִישְׁדְּיֵיהּ בְּגוּבְתָּא דִנְחָשָׁא, וְלִיסְתְּמֵיהּ בַּאֲבָרָא, וְלִיחְתְּמֵיהּ בְּשִׁיתִּין גּוּשְׁפַּנְקֵי, וּלְבַרְזוֹלֵיהּ, וְלִידְרֵיהּ, וְלֵימָא לֵיהּ: ״טְעוּנָךְ עֲלַי וּטְעוּנַאי עֲלָךְ״. אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב הוּנָא לְרַב אָשֵׁי: וְדִילְמָא אִינִישׁ אַשְׁכְּחֵיהּ וְאִיפְּסִק בֵּיהּ? אֶלָּא לֵימָא לֵיהּ: ״טְעוּנַאי וּטְעוּנָךְ עֲלָךְ״.
+> **Translation:** **And if** this remedy is **not** effective, **let him sit at a crossroads, and when he sees a large ant carrying something, he should take** the ant **and place it in a copper tube, and close it with lead, and seal it with sixty seals, and shake it, and lift it, and say to it: Your burden is upon me and my burden,** my fever, **is upon you. Rav Aḥa, son of Rav Huna, said to Rav Ashi: And perhaps a** different **person** already **found** this ant **and** used **this** remedy to **end** his illness. In that case, by accepting the burden of the ant, he is bringing another’s illness upon himself. **Rather, let him say to** the ant: **My burden and your burden are upon you.**
+
+> **Hebrew/Aramaic:** וְאִי לָא, לִישְׁקוֹל כּוּזָא חַדְתָּא, וְלֵיזִיל לְנַהְרָא, וְלֵימָא לֵיהּ: ״נַהֲרָא נַהֲרָא, אוֹזְפַן כּוּזָא דְמַיָּא לְאוֹרְחָא דְּאִיקְּלַע לִי״. וְלַיהְדַּר שָׁב זִימְנֵי עַל רֵישֵׁיהּ, וְלִשְׁדְּיֵיהּ לַאֲחוֹרֵיהּ, וְלֵימָא לֵיהּ: ״נַהֲרָא נַהֲרָא, שְׁקוֹל מַיָּא דִּיהַבְתְּ לִי, דְּאוֹרְחָא דְּאִיקְּלַע לִי בְּיוֹמֵיהּ אֲתָא וּבְיוֹמֵיהּ אֲזַל״.
+> **Translation:** **And if** that remedy is **not** effective, **let him take a new jug, and go to the river, and say to it: River, river, lend me a jug of water for a guest who happened** to come **to me. And let him turn it around his head seven times, and pour out** the water **behind him, and say to it: River, river, take** back **the water that you gave me because the guest who happened** to come **to me came on its day and left on its day.**
 
 The Gemara opens with *v'amar Abaye* — Abaye states that his mother (his nurse-maid, who raised him as an orphan) taught him the following. The *amud* begins ten lines from the bottom of 66b, at the words *mai teiku*, and the material picks up in the middle of a sequence of remedies and incantations Abaye received from her.
 
@@ -16,31 +22,34 @@ At this point *Rav Acha the son of Rav Huna* raised a question to *Rav Ashi*: pe
 
 If neither approach is available, take a new small flask (*kuza chadta*), go to the river, and say: *Nahara Nahara* — river, river, lend me (*oizfen*) a flask of water for a guest who has visited me, the fever being the guest. Fill the flask, spin it seven times around the head, throw it behind the back, and say to the river: take back the water you gave me, for the guest who came to me came in a day and shall leave in a day (*b'yoma asa b'yoma azal*). This is intended to cause the fever to depart.
 
+[DAF:67a]
 ### Three-Day Fever
 
-> **Hebrew/Aramaic:** אָמַר רַב הוּנָא: לְאִשָּׁתָא תִּילְתָּא — לַיְיתֵי שִׁבְעָה סִילְוֵי מִשִּׁבְעָה דִּיקְלֵי, וְשִׁבְעָה צִיבֵי מִשִּׁבְעָה כְּשׁוּרֵי, וְשִׁבְעָה סִיכֵּי מִשִּׁבְעָה גְּשׁוּרֵי, וְשִׁבְעָה קִיטְמֵי מִשִּׁבְעָה תַּנּוּרֵי, וְשִׁבְעָה עַפְרֵי מִשִּׁבְעָה סֻנְרֵי, וְשִׁבְעָה כּוּפְרֵי מִשִּׁבְעָה אַרְבֵי, וְשִׁבְעָה בּוּנֵי כַּמּוֹנֵי, וְשִׁבְעָה בִּינֵי מִדִּיקְנָא דְכַלְבָּא סָבָא, וְלִצְיְירִינְהוּ בַּחֲלָלָא דְבֵי צַוְּארָא בְּנִירָא בַּרְקָא.
->
-> **Translation:** **Rav Huna said: For tertian fever,** which afflicts one every three days, **let one bring seven thorns from seven palm trees, and seven slivers from seven beams, and seven pegs from seven bridges, and seven** types of **ashes from seven ovens, and seven** types of **dust from seven door sockets,** the hole in which the hinge of the door revolves, **and seven** types of **tar from seven boats, and seven cumin seeds, and seven hairs from the beard of an old dog, and let him bind it to the opening of the neckline** of his garment **with a thread** made **of hair.**
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא:
+> **Translation:** **Rav Huna said:**
+
+> **Hebrew/Aramaic:** לְאִשָּׁתָא תִּילְתָּא — לַיְיתֵי שִׁבְעָה סִילְוֵי מִשִּׁבְעָה דִּיקְלֵי, וְשִׁבְעָה צִיבֵי מִשִּׁבְעָה כְּשׁוּרֵי, וְשִׁבְעָה סִיכֵּי מִשִּׁבְעָה גְּשׁוּרֵי, וְשִׁבְעָה קִיטְמֵי מִשִּׁבְעָה תַּנּוּרֵי, וְשִׁבְעָה עַפְרֵי מִשִּׁבְעָה סֻנְרֵי, וְשִׁבְעָה כּוּפְרֵי מִשִּׁבְעָה אַרְבֵי, וְשִׁבְעָה בּוּנֵי כַּמּוֹנֵי, וְשִׁבְעָה בִּינֵי מִדִּיקְנָא דְכַלְבָּא סָבָא, וְלִצְיְירִינְהוּ בַּחֲלָלָא דְבֵי צַוְּארָא בְּנִירָא בַּרְקָא.
+> **Translation:** **For tertian fever,** which afflicts one every three days, **let one bring seven thorns from seven palm trees, and seven slivers from seven beams, and seven pegs from seven bridges, and seven** types of **ashes from seven ovens, and seven** types of **dust from seven door sockets,** the hole in which the hinge of the door revolves, **and seven** types of **tar from seven boats, and seven cumin seeds, and seven hairs from the beard of an old dog, and let him bind it to the opening of the neckline** of his garment **with a thread** made **of hair.**
 
 *Rav Huna* teaches the remedy for a three-day fever (*eshta silsa* — Rashi notes it may refer to a fever that has returned three times). The treatment requires an elaborate collection of seven items from seven separate sources: seven thorns from seven palm trees, seven splinters from seven beams, seven pegs from seven bridges, seven portions of ash from seven ovens, seven measures of dust from seven door-sockets, seven scrapings of tar from seven boats, and seven seeds of cumin, together with seven hairs from the beard of an old dog (*dikna d'kalba sava*). All of these are bound in the hollow of the neck with a string of hair. One might wonder, practically, about the source of the seven pegs from seven bridges — whether one simply removes them. Perhaps, as one suggestion proposes, the pegs were surplus materials left over after construction, available to those who needed them for healing purposes.
 
 ### Intense Fever
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: לְאִשָּׁתָא צְמִירְתָּא — לִישְׁקֹל סַכִּינָא דְּכוּלֵּהּ פַּרְזְלָא, וְלֵיזִיל לְהֵיכָא דְּאִיכָּא וַורְדִּינָא, וְלִיקְטַר בֵּיהּ נִירָא בַּרְקָא. יוֹמָא קַמָּא, לִיחְרוֹק בֵּיהּ פּוּרְתָּא וְלֵימָא: "וַיֵּרָא מַלְאַךְ ה׳ אֵלָיו וְגוֹ׳". לִמְחַר, לִיחְרוֹק בֵּיהּ פּוּרְתָּא וְלֵימָא: "וַיֹּאמֶר מֹשֶׁה אָסֻרָה נָּא וְאֶרְאֶה". לִמְחַר, לִיחְרוֹק בֵּיהּ פּוּרְתָּא וְלֵימָא: "וַיַּרְא ה׳ כִּי סָר לִרְאוֹת וְגוֹ׳".
->
-> **Translation:** **Rabbi Yoḥanan said: For** healing a **burning fever, let one take a knife that is** made **entirely** of **iron,** including the handle, **and let him go to a place where there is a bush and tie a string of hair to it. On the first day, let him carve** the bush **a little, and recite: "And an angel of the Lord appeared to him** in a flame of fire from within the bush and he looked and behold the bush was aflame in fire and the bush was not consumed" (Exodus 3:2). **On the following day, let him carve** the bush **a little** more **and recite: "And Moses said: I will turn aside now, and see** this great sight, why the bush is not burned" (Exodus 3:3). **On the following day, let him carve** the bush **a little** more **and recite: "And the Lord saw that he turned aside to see** and God called to him within the bush and said: Moses, Moses, and he said: Here I am" (Exodus 3:4).
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: לְאִשָּׁתָא צְמִירְתָּא — לִישְׁקֹל סַכִּינָא דְּכוּלֵּהּ פַּרְזְלָא, וְלֵיזִיל לְהֵיכָא דְּאִיכָּא וַורְדִּינָא, וְלִיקְטַר בֵּיהּ נִירָא בַּרְקָא.
+> **Translation:** **Rabbi Yoḥanan said: For** healing a **burning fever, let one take a knife that is** made **entirely** of **iron,** including the handle, **and let him go to a place where there is a bush and tie a string of hair to it.**
+
+> **Hebrew/Aramaic:** יוֹמָא קַמָּא, לִיחְרוֹק בֵּיהּ פּוּרְתָּא וְלֵימָא: ״וַיֵּרָא מַלְאַךְ ה׳ אֵלָיו וְגוֹ׳״. לִמְחַר, לִיחְרוֹק בֵּיהּ פּוּרְתָּא וְלֵימָא: ״וַיֹּאמֶר מֹשֶׁה אָסֻרָה נָּא וְאֶרְאֶה״. לִמְחַר, לִיחְרוֹק בֵּיהּ פּוּרְתָּא וְלֵימָא: ״וַיַּרְא ה׳ כִּי סָר לִרְאוֹת וְגוֹ׳״.
+> **Translation:** On **the first day, let him carve** the bush **a little, and recite: “And an angel of the Lord appeared to him** in a flame of fire from within the bush and he looked and behold the bush was aflame in fire and the bush was not consumed” (Exodus 3:2). **On the following day, let him carve** the bush **a little** more **and recite: “And Moses said: I will turn aside now, and see** this great sight, why the bush is not burned” (Exodus 3:3). **On the following day, let him carve** the bush **a little** more **and recite: “And the Lord saw that he turned aside to see** and God called to him within the bush and said: Moses, Moses, and he said: Here I am” (Exodus 3:4).
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי, וְלֵימָא: ״וַיֹּאמֶר אַל תִּקְרַב הֲלֹם וְגוֹ׳״? אֶלָּא לְיוֹמָא קַמָּא, לֵימָא: ״וַיֵּרָא מַלְאַךְ ה׳ אֵלָיו וְגוֹ׳ וַיֹּאמֶר מֹשֶׁה וְגוֹ׳״, וְלִמְחַר, לֵימָא: ״וַיַּרְא ה׳ כִּי סָר לִרְאוֹת״, וְלִמְחַר: ״וַיֹּאמֶר ה׳ אַל תִּקְרַב הֲלֹם״.
+> **Translation:** **Rav Aḥa, son of Rava, said to Rav Ashi: And let him say: “And the Lord said: Do not come close,** take off your shoes from your feet, for the place on which you stand is holy ground” (Exodus 3:5). This verse is more suited to be recited as an incantation to cure a fever. **Rather, on the first day, let him recite** the first two verses: **“And an angel of the Lord appeared to him** in a flame of fire from within the bush and he looked and behold the bush was aflame in fire and the bush was not consumed,” as well as, **“And Moses said:** I will turn aside now and see.” **And on the following day, let him recite: “And the Lord saw that he turned aside to see.” And on the following day,** let him recite: **“And the Lord said: Do not come close,** take off your shoes from your feet, for the place on which you stand is holy ground” (Exodus 3:5).
+
+> **Hebrew/Aramaic:** וְכִי פָּסֵק לֵיהּ, לִיתַתֵּיהּ וְלִיפְסְקֵיהּ וְלֵימָא הָכִי: ״הַסְּנֶה הַסְּנֶה! לָאו מִשּׁוּם דִּגְבִיהַתְּ מִכׇּל אִילָנֵי אַשְׁרִי קוּדְשָׁא בְּרִיךְ הוּא שְׁכִינְתֵּיהּ עֲלָךְ, אֶלָּא מִשּׁוּם דְּמָיְיכַתְּ מִכׇּל אִילָנֵי אַשְׁרִי קוּדְשָׁא בְּרִיךְ הוּא שְׁכִינְתֵּיהּ עֲלָךְ. וְכִי הֵיכִי דַּחֲמִיתֵיהּ אִשָּׁתָא לַחֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה וַעֲרַקַת מִן קֳדָמוֹהִי, כֵּן תִּחְמֵינֵיהּ אִשָּׁתָא לִפְלוֹנִי בַּר פְּלוֹנִית וְתִיעְרוֹק מִן קֳדָמוֹהִי״.
+> **Translation:** **And when he carves** the bush, **let him lower** himself **and cut it** close to the ground, **and recite as follows: The bush, the bush; not because you are higher than all trees did the Holy One, Blessed be He, rest His Divine Presence upon you. Rather,** it is **because you are lower than all trees did the Holy One, Blessed be He, rested His Divine Presence upon you. And just as the fire saw Hananiah, Mishael, and Azariah and fled from before them, so too, let the fire** of the fever **see so-and-so, son of so-and-so,** his mother, **flee from before him.**
 
 *Rabbi Yochanan* teaches the treatment for *eshta tzmirtah*, an intense burning fever — Rashi describes it as one that sets the entire body on fire. Take a knife made entirely of iron, go to where there is a certain type of bush (Steinsaltz identifies it as a mulberry or thorn bush; the word *vardina* suggests something rose-adjacent), and tie a hair-string to it. On the first day, carve into the bush a little (*likhrok bei porta*) and say: *Vayera malach Hashem elav* — "And the angel of God appeared to him" (Shemos 3:2). The relevance is the verse's conclusion: *madua lo yivar hasneh* — why will the bush not be consumed? The invocation draws a parallel: as the bush was not consumed by fire, so too should the fever not consume the afflicted person. The second day, carve a bit more and say the next verse: *Vayomer Moshe asura na v'ereh madua lo yivar hasneh* — "And Moses said, let me turn and see why the bush is not burning." The third day, carve again and say: *Vayar Hashem ki sar lir'ot* — "God saw that he had turned aside to look" — the word *sar*, turned aside, is invoked to suggest that the fever too should turn aside and depart.
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי, וְלֵימָא: "וַיֹּאמֶר אַל תִּקְרַב הֲלֹם וְגוֹ׳"? אֶלָּא לְיוֹמָא קַמָּא, לֵימָא: "וַיֵּרָא מַלְאַךְ ה׳ אֵלָיו וְגוֹ׳ וַיֹּאמֶר מֹשֶׁה וְגוֹ׳", וְלִמְחַר, לֵימָא: "וַיַּרְא ה׳ כִּי סָר לִרְאוֹת", וְלִמְחַר: "וַיֹּאמֶר ה׳ אַל תִּקְרַב הֲלֹם".
->
-> **Translation:** **Rav Aḥa, son of Rava, said to Rav Ashi: And let him say: "And the Lord said: Do not come close,** take off your shoes from your feet, for the place on which you stand is holy ground" (Exodus 3:5). This verse is more suited to be recited as an incantation to cure a fever. **Rather, on the first day, let him recite** the first two verses: **"And an angel of the Lord appeared to him** in a flame of fire from within the bush and he looked and behold the bush was aflame in fire and the bush was not consumed," as well as, **"And Moses said:** I will turn aside now and see." **And on the following day, let him recite: "And the Lord saw that he turned aside to see." And on the following day,** let him recite: **"And the Lord said: Do not come close,** take off your shoes from your feet, for the place on which you stand is holy ground" (Exodus 3:5).
-
 *Rav Aha the son of Rava* then proposed to *Rav Ashi* that a fourth verse would serve well: *Vayomer al tikrav halom* — "And He said, do not draw near here" — so that the fever should not draw near to the patient. The response is to restructure the sequence: on the first day, combine the first two verses (since the essential operative phrase is *madua lo yivar hasneh*, and both those verses contribute to it); on the second day say *Vayar Hashem ki sar lir'ot*; and on the third day say *Vayomer al tikrav halom*. Again, a question is posed and the incantation revised — a pattern that recurs throughout this passage.
-
-> **Hebrew/Aramaic:** וְכִי פָּסֵק לֵיהּ, לִיתַתֵּיהּ וְלִיפְסְקֵיהּ וְלֵימָא הָכִי: "הַסְּנֶה הַסְּנֶה! לָאו מִשּׁוּם דִּגְבִיהַתְּ מִכׇּל אִילָנֵי אַשְׁרִי קוּדְשָׁא בְּרִיךְ הוּא שְׁכִינְתֵּיהּ עֲלָךְ, אֶלָּא מִשּׁוּם דְּמָיְיכַתְּ מִכׇּל אִילָנֵי אַשְׁרִי קוּדְשָׁא בְּרִיךְ הוּא שְׁכִינְתֵּיהּ עֲלָךְ. וְכִי הֵיכִי דַּחֲמִיתֵיהּ אִשָּׁתָא לַחֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה וַעֲרַקַת מִן קֳדָמוֹהִי, כֵּן תִּחְמֵינֵיהּ אִשָּׁתָא לִפְלוֹנִי בַּר פְּלוֹנִית וְתִיעְרוֹק מִן קֳדָמוֹהִי".
->
-> **Translation:** **And when he carves** the bush, **let him lower** himself **and cut it** close to the ground, **and recite as follows: The bush, the bush; not because you are higher than all trees did the Holy One, Blessed be He, rest His Divine Presence upon you. Rather,** it is **because you are lower than all trees did the Holy One, Blessed be He, rested His Divine Presence upon you. And just as the fire saw Hananiah, Mishael, and Azariah and fled from before them, so too, let the fire** of the fever **see so-and-so, son of so-and-so,** his mother, **flee from before him.**
 
 When actually carving into the bush, one should bow down close to the ground (*leitatei*) and say: O bush, O bush (*hasneh hasneh*), it was not because you were taller than all other trees that the Holy One caused His *shechinta* to dwell upon you, but rather because you were lower than all trees (*mishum d'mikhkat mikol ilanei*) did God choose you. And just as the fire saw Hananya, Mishael, and Azarya in the furnace and fled from before them (*v'arkat min kadmohei*), so should the fire of the fever see Ploni the son of Plonis — the patient — and flee from before him.
 
@@ -48,9 +57,8 @@ The connection between the humility of the *sneh* and the incantation is not ent
 
 ### Boils
 
-> **Hebrew/Aramaic:** לְסִימְטָא, לֵימָא הָכִי: "בַּז, בַּזְיָיה, מַס, מַסְיָיא, כַּס, כַּסְיָיה, שִׁרְלַאי, וַאֲמַרְלַאי, אִלֵּין מַלְאֲכֵי דְּאִישְׁתְּלַחוּ מֵאַרְעָא דִסְדוֹם וּלְאַסָּאָה שְׁחִינָא כְּאִיבִין, בְּזָךְ, בַּזַיִךְ, בַּזְבְּזִיךְ, מַסְמְסִיךְ, כַּמּוֹן, כָּמִיךְ, עֵינִיךְ בִּיךְ, עֵינִיךְ בִּיךְ, אַתְרִיךְ בִּיךְ, זַרְעִיךְ כְּקָלוּט וּכְפִרְדָּה דְּלָא פָּרָה וְלָא רָבְיָא, כָּךְ לָא תִּפְרֵה וְלָא תִּרְבֵּה בְּגוּפֵיהּ דִּפְלוֹנִי בַּר פְּלוֹנִית".
->
-> **Translation:** **For** healing **boils, let him recite as follows: Baz, Bazya, Mas, Masya, Kas, Kasya, Sharlai, and Amarlai, these are the angels who were sent from the land of Sodom and** this was all in order **to heal painful boils. Bazakh, Bazikh, Bazbazikh, Masmasikh, Kamon, Kamikh,** may **your appearance** remain **with you,** may **your appearance** remain **with you,** i.e., the boils should not grow redder. May **your place** remain **with you,** i.e., they should not spread, may **your,** the boils', **seed be like one who is barren and like a mule that is not fruitful and does not multiply, so too, do not increase and do not multiply in the body of so-and-so, son of so-and-so.**
+> **Hebrew/Aramaic:** לְסִימְטָא, לֵימָא הָכִי: ״בַּז, בַּזְיָיה, מַס, מַסְיָיא, כַּס, כַּסְיָיה, שִׁרְלַאי, וַאֲמַרְלַאי, אִלֵּין מַלְאֲכֵי דְּאִישְׁתְּלַחוּ מֵאַרְעָא דִסְדוֹם וּלְאַסָּאָה שְׁחִינָא כְּאִיבִין, בְּזָךְ, בַּזַיִךְ, בַּזְבְּזִיךְ, מַסְמְסִיךְ, כַּמּוֹן, כָּמִיךְ, עֵינִיךְ בִּיךְ, עֵינִיךְ בִּיךְ, אַתְרִיךְ בִּיךְ, זַרְעִיךְ כְּקָלוּט וּכְפִרְדָּה דְּלָא פָּרָה וְלָא רָבְיָא, כָּךְ לָא תִּפְרֵה וְלָא תִּרְבֵּה בְּגוּפֵיהּ דִּפְלוֹנִי בַּר פְּלוֹנִית״.
+> **Translation:** **For** healing **boils, let him recite as follows: Baz, Bazya, Mas, Masya, Kas, Kasya, Sharlai, and Amarlai, these are the angels who were sent from the land of Sodom and** this was all in order **to heal painful boils. Bazakh, Bazikh, Bazbazikh, Masmasikh, Kamon, Kamikh,** may **your appearance** remain **with you,** may **your appearance** remain **with you,** i.e., the boils should not grow redder. May **your place** remain **with you,** i.e., they should not spread, may **your,** the boils’, **seed be like one who is barren and like a mule that is not fruitful and does not multiply, so too, do not increase and do not multiply in the body of so-and-so, son of so-and-so.**
 
 For *simta* — which Rashi identifies as a type of boil — one recites: *baz bazya mas masya kas kasya*. Rashi does not attempt to explain these syllables. The incantation continues: *sharli v'amarli*, and then invokes *ilein malachei d'ishtalchu m'ara d'Sdom* — these are the angels sent from the land of Sodom. Rashi clarifies that they did not literally come from Sodom; it is simply part of the *lachash*. The purpose is healing: *u'l'asya shechinta d'kaivin* — to heal the painful boils.
 
@@ -58,9 +66,14 @@ Further doubled words follow: *bazach bizach bazbazach mas masach kamon kamoch*.
 
 ### Demons & Shades
 
-> **Hebrew/Aramaic:** לְכִיפָּה, לֵימָא הָכִי: "חֶרֶב שְׁלוּפָה וְקֶלַע נְטוּשָׁה לָא שְׁמֵיהּ יוֹכַב חוֹלִין מַכְאוֹבִין". לְשֵׁידָא, לֵימָא הָכִי: "הֲוֵית דִּפְקִיק, דִּפְקִיק הֲוֵית, לִיט תְּבִיר וּמְשׁוּמָּת בַּר טִיט בַּר טָמֵא בַּר טִינָא, כְּשַׁמְגַּז מְרִיגַז וְאִיסְטְמַאי". לְשֵׁידָא דְּבֵית הַכִּסֵּא, לֵימָא הָכִי: "אַקַּרְקָפֵי דַאֲרִי וְאַאוֹסֵי דְגוּרַיְיתָא אַשְׁכַּחְתּוּן לְשֵׁידַאי בַּר שְׁרִיקָא פַּנְדָּא, בְּמֵישָׁרָא דְכַרָּתֵי חֲבַטְתֵּיהּ, בְּלוֹעָא דַחֲמָרָא חֲטַרְתֵּיהּ".
->
-> **Translation:** **To** be saved from **a wound, let him recite as follows: A drawn sword and a readied sling, its name shall not be ache, sickness, and pains. To** be saved from **a demon, let him recite as follows: You were stopped up, stopped up you were. Cursed, broken, and excommunicated** be the demon called **bar Tit bar Tamei bar Tina as Shamgaz, Merigaz, and Istemai. To** be saved from **the demon of the bathroom, let him recite as follows: On the head of a lion and on the nose of a lioness we found the demon** named **bar Shirika Panda. With a bed of leeks I felled him,** and **with the jaw of the donkey I struck him.**
+> **Hebrew/Aramaic:** לְכִיפָּה, לֵימָא הָכִי: ״חֶרֶב שְׁלוּפָה וְקֶלַע נְטוּשָׁה לָא שְׁמֵיהּ יוֹכַב חוֹלִין מַכְאוֹבִין״.
+> **Translation:** **For** healing **a wound, let him recite as follows: A drawn sword and a readied sling, its name shall not be ache, sickness, and pains.**
+
+> **Hebrew/Aramaic:** לְשֵׁידָא, לֵימָא הָכִי: ״הֲוֵית דִּפְקִיק, דִּפְקִיק הֲוֵית, לִיט תְּבִיר וּמְשׁוּמָּת בַּר טִיט בַּר טָמֵא בַּר טִינָא, כְּשַׁמְגַּז מְרִיגַז וְאִיסְטְמַאי״.
+> **Translation:** **To** be saved from **a demon, let him recite as follows: You were stopped up, stopped up you were. Cursed, broken, and excommunicated** be the demon called **bar Tit bar Tamei bar Tina as Shamgaz, Merigaz, and Istemai.**
+
+> **Hebrew/Aramaic:** לְשֵׁידָא דְּבֵית הַכִּסֵּא, לֵימָא הָכִי: ״אַקַּרְקָפֵי דַאֲרִי וְאַאוֹסֵי דְגוּרַיְיתָא אַשְׁכַּחְתּוּן לְשֵׁידַאי בַּר שְׁרִיקָא פַּנְדָּא, בְּמֵישָׁרָא דְכַרָּתֵי חֲבַטְתֵּיהּ, בְּלוֹעָא דַחֲמָרָא חֲטַרְתֵּיהּ״.
+> **Translation:** **To** be saved from **the demon of the bathroom, let him recite as follows: On the head of a lion and on the nose of a lioness we found the demon** named **bar Shirika Panda. With a bed of leeks I felled him,** and **with the jaw of the donkey I struck him.**
 
 For *kifa* — which Rashi says may refer to pus-filled boils, or alternatively to a certain type of demonic shade — one says: *cherev shlufa v'chala netusha* — a drawn sword and an extended sling — *lo shmi yochav chulin machovin* — his name is not painful illnesses.
 
@@ -73,6 +86,8 @@ One might ask why an individual addresses demons directly rather than praying to
 ---
 
 ## Rationalism & Magic
+
+
 
 ### Questioning Incantations
 
@@ -100,11 +115,12 @@ It is worth noting that the *Geonim* already ruled that one may not rely on the 
 
 ## Clothing on Shabbat
 
+
+
 ### Bells & Ornaments
 
-> **Hebrew/Aramaic:** וּבְנֵי מְלָכִים בְּזֹגִין. מַאן תַּנָּא? אָמַר רַבִּי אוֹשַׁעְיָא: רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: כׇּל יִשְׂרָאֵל בְּנֵי מְלָכִים הֵם. רָבָא אָמַר: בְּאָרִיג בִּכְסוּתוֹ, וְדִבְרֵי הַכֹּל.
->
-> **Translation:** We learned in the mishna that **princes** may go out **with bells,** and the same is true for anyone else. The Gemara asks: **Who is the *tanna*** who holds that all people of Israel are permitted to conduct themselves like princes with regard to going out with precious ornaments? **Rabbi Oshaya said: It is Rabbi Shimon, who said: All of Israel are princes.** Therefore, precious ornaments are suitable for every person of Israel. They will neither remove them to show to others nor will they remove them due to concern that people will think them pretentious. **Rava said:** The mishna is referring to a case **where** the bell is **woven into his garment,** obviating the concern lest he remove it, **and** the *halakha* in the mishna is in accordance with **the statements of all** *tanna'im*, not merely the statement of Rabbi Shimon.
+> **Hebrew/Aramaic:** וּבְנֵי מְלָכִים בְּזֹגִין. מַאן תַּנָּא? אָמַר רַבִּי אוֹשַׁעְיָא: רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: כׇּל יִשְׂרָאֵל בְּנֵי מְלָכִים הֵם. רָבָא אָמַר: בְּאָרִיג בִּכְסוּתוֹ, וְדִבְרֵי הַכֹּל.
+> **Translation:** We learned in the mishna that **princes** may go out **with bells,** and the same is true for anyone else. The Gemara asks: **Who is the *tanna*** who holds that all people of Israel are permitted to conduct themselves like princes with regard to going out with precious ornaments? **Rabbi Oshaya said: It is Rabbi Shimon, who said: All of Israel are princes.** Therefore, precious ornaments are suitable for every person of Israel. They will neither remove them to show to others nor will they remove them due to concern that people will think them pretentious. **Rava said:** The mishna is referring to a case **where** the bell is **woven into his garment,** obviating the concern lest he remove it, **and** the *halakha* in the mishna is in accordance with **the statements of all** *tanna’im*, not merely the statement of Rabbi Shimon.
 
 With the discussion of incantations concluded, the Gemara turns to close the sixth *perek* with a few remaining points about what may be worn on *Shabbat*. The Gemara mentions that sons of princes (*vnei melachim*) could wear bells and similar ornaments. *Rabbi Yehoshua* identifies the opinion underlying this ruling as that of *Rabbi Shimon*, who holds that all of Israel are sons of kings (*kol Yisrael bnei melakhim hen*) — we are all descended from Avraham, Yitzchak, and Yaakov — and therefore whatever is appropriate to wear for royalty is appropriate for all Jews. *Rava* offers an alternative rationale: the discussion concerns a bell that is actually woven into the garment (*arig bi'ksusa*), and therefore everyone agrees it may be worn, since if it is integral to the garment there is no concern that one will remove it and come to carry it.
 
@@ -116,21 +132,24 @@ Second, and of particular practical importance, is the *Tosafot* ruling regardin
 
 ### Amulets & Amorites
 
-> **Hebrew/Aramaic:** מַתְנִי׳ יוֹצְאִין בְּבֵיצַת הַחַרְגּוֹל וּבְשֵׁן שׁוּעָל וּבְמַסְמֵר מִן הַצָּלוּב, מִשּׁוּם רְפוּאָה — דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹסְרִין אַף בַּחוֹל, מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
->
-> **Translation:** MISHNA: **One may go out** on Shabbat **with a locust egg, and with a fox tooth, and with a nail from the crucified, for** the purpose of **healing;** this is **the statement of Rabbi Meir. The Rabbis prohibit** using these remedies **even during the week, due to the** prohibition of following the **ways of the Amorite.** These are superstitious beliefs and the customs of gentiles from which one must distance oneself.
-
 The *perek* closes with the *Mishnah* that bridges these concerns about what may be worn and the broader topic of *darchei emori*. Items worn for medical purposes that are actively functioning on the body do not constitute carrying. But the question arises: what if those items are of a type that seems not merely medical but superstitious? That is the subject of the final *mishnah* and the ensuing Gemara discussion.
 
 ---
 
 ## Amulets Debate
 
+
+
 ### Three Amulets
 
-> **Hebrew/Aramaic:** גְּמָ׳ יוֹצְאִין בְּבֵיצַת הַחַרְגּוֹל — דְּעָבְדִי לְשִׁיחְלָא. וּבְשֵׁן שֶׁל שׁוּעָל — דְּעָבְדִי לְשִׁינְתָּא. דְּחַיָּיא — לְמַאן דְּנָיֵים. דְּמִיתָא — לְמַאן דְּלָא נָיֵים. וּבְמַסְמֵר מִן הַצָּלוּב — דְּעָבְדִי לְזִירְפָּא. מִשּׁוּם רְפוּאָה — דִּבְרֵי רַבִּי מֵאִיר.
->
-> **Translation:** GEMARA: We learned in the mishna that in Rabbi Meir's opinion one may go out on Shabbat with a locust egg, and a fox tooth, and with a nail from the crucified as a talisman or a cure. The Gemara explains the nature of each: **One may go out with a locust egg, as they use it** as a talisman **to** cure an **earache; and with a fox tooth, as they use** it as a talisman **for sleep;** the tooth **of a live** fox **for one who sleeps** too much to wake him up, and the tooth **of a dead** fox **for one who** does **not sleep. And** one may go out **with a nail from the crucified, as they use** it as a talisman for curing **infection. Going out with those objects is permitted on Shabbat for** the purpose of **healing;** this is **the statement of Rabbi Meir.**
+> **Hebrew/Aramaic:** מַתְנִי׳ יוֹצְאִין בְּבֵיצַת הַחַרְגּוֹל וּבְשֵׁן שׁוּעָל וּבְמַסְמֵר מִן הַצָּלוּב, מִשּׁוּם רְפוּאָה — דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹסְרִין אַף בַּחוֹל, מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** MISHNA: **One may go out** on Shabbat **with a locust egg, and with a fox tooth, and with a nail from the crucified, for** the purpose of **healing;** this is **the statement of Rabbi Meir. The Rabbis prohibit** using these remedies **even during the week, due to the** prohibition of following the **ways of the Amorite.** These are superstitious beliefs and the customs of gentiles from which one must distance oneself.
+
+> **Hebrew/Aramaic:** גְּמָ׳ יוֹצְאִין בְּבֵיצַת הַחַרְגּוֹל — דְּעָבְדִי לְשִׁיחְלָא. וּבְשֵׁן שֶׁל שׁוּעָל — דְּעָבְדִי לְשִׁינְתָּא. דְּחַיָּיא — לְמַאן דְּנָיֵים. דְּמִיתָא — לְמַאן דְּלָא נָיֵים. וּבְמַסְמֵר מִן הַצָּלוּב — דְּעָבְדִי לְזִירְפָּא.
+> **Translation:** GEMARA: We learned in the mishna that in Rabbi Meir’s opinion one may go out on Shabbat with a locust egg, and a fox tooth, and with a nail from the crucified as a talisman or a cure. The Gemara explains the nature of each: **One may go out with a locust egg, as they use it** as a talisman **to** cure an **earache; and with a fox tooth, as they use** it as a talisman **for sleep;** the tooth **of a live** fox **for one who sleeps** too much to wake him up, and the tooth **of a dead** fox **for one who** does **not sleep. And** one may go out **with a nail from the crucified, as they use** it as a talisman for curing **infection.**
+
+> **Hebrew/Aramaic:** מִשּׁוּם רְפוּאָה — דִּבְרֵי רַבִּי מֵאִיר.
+> **Translation:** We learned in the mishna that going out with those objects is permitted on Shabbat **for** the purpose of **healing;** this is **the statement of Rabbi Meir.**
 
 The *Mishnah* states: *yotzin b'veitzat hachargol* — one may go out wearing the egg of a locust or grasshopper (*chargol*, one of the species listed in the *Torah*). *U'v'shen shu'al* — and the tooth of a fox. *U'v'masmer min hatzaluv* — and a nail from a crucifixion. Crucifixion was not unique to any one figure; the Romans executed many people in this manner, and nails from crucifixions were believed to have medicinal properties. All of these may be worn because they serve healing purposes (*mishum refuah*), and an object worn on the body for a healing purpose is not considered carrying. This is the view of *Rabbi Meir*. The *Chachamim*, however, forbid these items even during the week, not because of carrying on *Shabbat*, but because of *darchei emori* — the ways of the Amorites, the prohibited practices of idolatrous peoples.
 
@@ -138,17 +157,15 @@ The Gemara then explains what each item treats. The locust egg (*beitzat hacharg
 
 ### Healing Exemption
 
-> **Hebrew/Aramaic:** אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: כׇּל דָּבָר שֶׁיֵּשׁ בּוֹ מִשּׁוּם רְפוּאָה אֵין בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. הָא אֵין בּוֹ מִשּׁוּום רְפוּאָה יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי? וְהָתַנְיָא: אִילָן שֶׁמַּשִּׁיר פֵּירוֹתָיו סוֹקְרוֹ וְצוֹבֵעַ אוֹתוֹ בְּסִיקְרָא וְטוֹעֲנוֹ בַּאֲבָנִים. בִּשְׁלָמָא טוֹעֲנוֹ בַּאֲבָנִים, כִּי הֵיכִי דְּלִיכְחוֹשׁ חֵילֵיהּ. אֶלָּא סוֹקְרוֹ בְּסִיקְרָא מַאי רְפוּאָה קָעָבֵיד? כִּי הֵיכִי דְּלִיחְזְיוּהּ אִינָשֵׁי וְלִיבְעוֹ עֲלֵיהּ רַחֲמֵי.
->
-> **Translation:** With regard to the *halakha* in the mishna, the Gemara cites **Abaye and Rava, who both said: Anything that contains an element of healing** and seems to be effective **does not contain** an element **of the** prohibition against following the **ways of the Amorite. Is that to say by inference that if it is does not contain an element of healing, it does contain** an element **of the** prohibition against following the **ways of the Amorite? Wasn't it taught** in a *baraita*: **A tree that sheds its fruit** prematurely, **one paints it and colors it with red paint and loads it with stones? Granted,** he is permitted **to load it with stones** because that action produces an actual benefit, i.e., he does that **so that its strength will weaken.** Sometimes a tree sheds its fruits prematurely due to excessive blossoming. Sustaining those blossoms taxes the tree, rendering it incapable of sustaining the fruits that grow from the blossoms. The stones were used to slightly weaken the tree when blossoming, thereby reducing the number of blossoms that the tree must nourish. **However, painting it with red paint, what healing is he performing** with that action? He does so **so that people will see** the tree **and pray for mercy for it.**
+> **Hebrew/Aramaic:** אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: כׇּל דָּבָר שֶׁיֵּשׁ בּוֹ מִשּׁוּם רְפוּאָה אֵין בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** With regard to the *halakha* in the mishna, the Gemara cites **Abaye and Rava, who both said: Anything that contains an element of healing** and seems to be effective **does not contain** an element **of the** prohibition against following the **ways of the Amorite.** There is no cause for suspicion of one who engages in their practice, gentile or Jew.
+
+> **Hebrew/Aramaic:** הָא אֵין בּוֹ מִשּׁוּם רְפוּאָה יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי? וְהָתַנְיָא: אִילָן שֶׁמַּשִּׁיר פֵּירוֹתָיו סוֹקְרוֹ וְצוֹבֵעַ אוֹתוֹ בְּסִיקְרָא וְטוֹעֲנוֹ בַּאֲבָנִים. בִּשְׁלָמָא טוֹעֲנוֹ בַּאֲבָנִים, כִּי הֵיכִי דְּלִיכְחוֹשׁ חֵילֵיהּ. אֶלָּא סוֹקְרוֹ בְּסִיקְרָא מַאי רְפוּאָה קָעָבֵיד?
+> **Translation:** The Gemara asks: Is that to say by inference that if it is **does not contain an element of healing, it does contain** an element **of the** prohibition against following the **ways of the Amorite? Wasn’t it taught** in a *baraita*: **A tree that sheds its fruit** prematurely, **one paints it and colors it with red paint and loads it with stones? Granted,** he is permitted **to load it with stones** because that action produces an actual benefit, i.e., he does that **so that its strength will weaken.** Sometimes a tree sheds its fruits prematurely due to excessive blossoming. Sustaining those blossoms taxes the tree, rendering it incapable of sustaining the fruits that grow from the blossoms. The stones were used to slightly weaken the tree when blossoming, thereby reducing the number of blossoms that the tree must nourish. **However, painting it with red paint, what healing is he performing** with that action?
 
 *Abaye and Rava* both state a general principle (*de'amri tarvaihu*): *kol davar sheyeish bo mishum refuah ein bo mishum darchei emori* — anything that genuinely has healing benefit is not subject to the prohibition of *darchei emori*. If something actually works medicinally, it cannot be classified as superstitious Amorite practice. The *Rambam* in his *Peirush HaMishnayot* explains the criterion: one determines whether something has *refuah* by observing whether it actually works.
 
 The Gemara then presses the converse: does this mean that something with no healing benefit necessarily falls under *darchei emori*? The question is pressed by a *Baraisa* about a tree that is shedding its fruit prematurely. Two remedies are offered: weighting the branches with stones (*toano be'avanim*) and painting the trunk with a red dye (*sokro besikra*). The Gemara readily explains the rationale for the stones — they weaken the sap flow and thereby prevent the fruit from dropping (*ki heichi delichkush cheilah*). But what good does the painting do? *Mai refuah ka'avid* — what medical benefit does it provide?
-
-> **Hebrew/Aramaic:** כִּדְתַנְיָא: "וְטָמֵא טָמֵא יִקְרָא". צָרִיךְ לְהוֹדִיעַ צַעֲרוֹ לְרַבִּים, וְרַבִּים יְבַקְּשׁוּ עָלָיו רַחֲמִים. אָמַר רָבִינָא: כְּמַאן תָּלֵינַן כּוּבְסֵי בְּדִיקְלָא — כִּי הַאי תַּנָּא.
->
-> **Translation:** **As it was taught** in a *baraita* with regard to the verse: "And the leper in whom the plague is, his clothes shall be ripped and the hair of his head shall grow long and he will put a covering upon his upper lip **and will cry: Impure, impure"** (Leviticus 13:45). The leper publicizes the fact that he is ritually impure because **he must announce his pain to the masses, and the masses will pray for mercy on his** behalf. **Ravina said: In accordance with whose** opinion **do we hang bunches of** unripe **dates on a palm tree** that casts off its dates? **According to that *tanna*** who taught that one must publicize one's pain to the masses.
 
 The Gemara's answer is striking: *ki heichi delichzeih inish veliv'ei aleih rachamei* — so that people will see the tree is in distress, and will pray for its owner. They see the painted tree, recognize that there is a problem, and pray on behalf of the owner, whose prayers are then answered. This is grounded in the rule derived from the *metzora*, who is required to call out *tamei tamei* — Rashi notes that one might have assumed the announcement should come from others, but the verse specifies that even the *metzora* himself must declare his condition. The reason: *tzarich lehodiya tza'aro lerabbim*, one must publicize one's suffering to the public, *verabbim yevakshu alav rachamim*, so that the community will pray on the afflicted person's behalf.
 
@@ -160,9 +177,8 @@ The painting example also yielded a real-world insight: a kibbutz practice of pa
 
 ### Tree Remedy
 
-> **Hebrew/Aramaic:** אָמַר רָבִינָא: כְּמַאן תָּלֵינַן כּוּבְסֵי בְּדִיקְלָא — כִּי הַאי תַּנָּא. תָּנֵי תַּנָּא בְּפֶרֶק אֱמוֹרָאֵי קַמֵּיהּ דְּרַבִּי חִיָּיא בַּר אָבִין.
->
-> **Translation:** **Ravina said: In accordance with whose** opinion **do we hang bunches of** unripe **dates on a palm tree** that casts off its dates? **According to that *tanna*** who taught that one must publicize one's pain to the masses. **The *tanna* recited the chapter of** the *Tosefta* discussing the actions of **the Amorites before Rabbi Ḥiyya bar Avin.**
+> **Hebrew/Aramaic:** כִּי הֵיכִי דְּלִיחְזְיוּהּ אִינָשֵׁי וְלִיבְעוֹ עֲלֵיהּ רַחֲמֵי. כִּדְתַנְיָא: ״וְטָמֵא טָמֵא יִקְרָא״. צָרִיךְ לְהוֹדִיעַ צַעֲרוֹ לְרַבִּים, וְרַבִּים יְבַקְּשׁוּ עָלָיו רַחֲמִים. אָמַר רָבִינָא: כְּמַאן תָּלֵינַן כּוּבְסֵי בְּדִיקְלָא — כִּי הַאי תַּנָּא.
+> **Translation:** The Gemara explains: He does so **so that people will see** the tree **and pray for mercy for it. As it was taught** in a *baraita* with regard to the verse: “And the leper in whom the plague is, his clothes shall be ripped and the hair of his head shall grow long and he will put a covering upon his upper lip **and will cry: Impure, impure”** (Leviticus 13:45). The leper publicizes the fact that he is ritually impure because **he must announce his pain to the masses, and the masses will pray for mercy on his** behalf. **Ravina said: In accordance with whose** opinion **do we hang bunches of** unripe **dates on a palm tree** that casts off its dates? **According to that *tanna*** who taught that one must publicize his pain to the masses.
 
 *Ravina* then asks: according to whom do we hang dates on a palm tree that is not producing well? *Ki hai tana* — like the *tanna* just cited, meaning the practice is justified because it alerts passersby to pray for the tree's owner. *Tani tana b'perek Amorai kamei d'Rabbi Chiya bar Avin* — a *tanna* taught in the chapters of the *Amoraim* in the presence of *Rabbi Chiya bar Avin*. Rashi explains that this refers to the two chapters of the *Tosefta* on *Shabbat* — chapters 6 and 7 or 7 and 8 depending on the version — which contain the extensive list of what constitutes *darchei emori* and what does not.
 
@@ -170,11 +186,15 @@ The painting example also yielded a real-world insight: a kibbutz practice of pa
 
 ## Darchei Emori List
 
+
+
 ### Allowed Incantations
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: כּוּלְּהוּ אִית בְּהוּ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי, לְבַר מֵהָנֵי: מִי שֶׁיֵּשׁ לוֹ עֶצֶם בִּגְרוֹנוֹ מֵבִיא מֵאוֹתוֹ הַמִּין וּמַנִּיחַ לֵיהּ עַל קׇדְקֳדוֹ, וְלֵימָא הָכִי: "חַד חַד נָחֵית בָּלַע, בָּלַע נָחֵית חַד חַד", אֵין בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. לְאִדְּרָא לֵימָא הָכִי: "נִנְּעַצְתָּא כְּמַחַט, נִנְעַלְּתָא כִּתְרִיס, שַׁיָּיא שַׁיָּיא".
->
-> **Translation:** Rabbi Ḥiyya bar Avin **said to him: All those** enumerated there **contain** an element **of the** prohibition against following the **ways of the Amorite, except for these: One who has a bone in his throat brings** a bone **from the same species** as the bone that is stuck in his throat, **and places it on his skull, and says as follows: One by one descend and be swallowed, swallow and descend one by one. That does not contain** an element **of the** prohibition against following the **ways of the Amorite. For a fish bone** stuck in the throat, **let him say as follows: You are stuck like a needle, locked as a shutter, go down, go down.**
+> **Hebrew/Aramaic:** תָּנֵי תַּנָּא בְּפֶרֶק אֱמוֹרָאֵי קַמֵּיהּ דְּרַבִּי חִיָּיא בַּר אָבִין. אֲמַר לֵיהּ: כּוּלְּהוּ אִית בְּהוּ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי, לְבַר מֵהָנֵי: מִי שֶׁיֵּשׁ לוֹ עֶצֶם בִּגְרוֹנוֹ מֵבִיא מֵאוֹתוֹ הַמִּין וּמַנִּיחַ לֵיהּ עַל קׇדְקֳדוֹ, וְלֵימָא הָכִי: ״חַד חַד נָחֵית בָּלַע, בָּלַע נָחֵית חַד חַד״, אֵין בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** **The *tanna* recited the chapter of** the *Tosefta* discussing the actions of **the Amorites before Rabbi Ḥiyya bar Avin.** Rabbi Ḥiyya bar Avin **said to him: All those** enumerated there **contain** an element **of the** prohibition against following the **ways of the Amorite, except for these: One who has a bone in his throat brings** a bone **from the same species** as the bone that is stuck in his throat, **and places it on his skull, and says as follows: One by one descend and be swallowed, swallow and descend one by one. That does not contain** an element **of the** prohibition against following the **ways of the Amorite.**
+
+> **Hebrew/Aramaic:** לְאִדְּרָא לֵימָא הָכִי: ״נִנְּעַצְתָּא כְּמַחַט, נִנְעַלְּתָא כִּתְרִיס, שַׁיָּיא שַׁיָּיא״.
+> **Translation:** **For a fish bone** stuck in the throat, **let him say as follows: You are stuck like a needle, locked as a shutter, go down, go down.**
 
 *Rabbi Chiya bar Avin* states: *kulhu yesh bo mishum darchei emori levar mi'hani* — everything in that list falls under the prohibition of *darchei emori* except for these two cases. The first exception: if a bone is lodged in one's throat (*etzem begrono*), one brings another bone from the same species — if a chicken bone, then another chicken or chicken bone — places it on the forehead, and recites: *chad chad nachis bala, bala nachis chad chad* — one by one go down and swallow, swallow and go down one by one. This is not *darchei emori*. The second exception: for a fishbone lodged in the throat (*idra*), one says: *nin'atzta ke-makat, nin'alta ke-tris, shia shia* — you are stuck like a needle, you are locked like a shutter, go down, go down. This too is permitted.
 
@@ -184,13 +204,22 @@ Regarding the overall structure of the *darchei emori* list: the *Yere'im* (*Rab
 
 ### Forbidden Incantations
 
-> **Hebrew/Aramaic:** הָאוֹמֵר "גַּד גַּדִּי, וּסְנוּק לָא אַשְׁכִּי וּבוּשְׁכִּי" — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. רַבִּי יְהוּדָה אוֹמֵר: "גַּד" אֵינוֹ אֶלָּא לְשׁוֹן עֲבוֹדָה זָרָה, שֶׁנֶּאֱמַר: "הָעֹרְכִים לַגַּד שֻׁלְחָן". הוּא בִּשְׁמָהּ וְהִיא בִּשְׁמוֹ — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. "דּוּנוּ דַּנַּי" — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. רַבִּי יְהוּדָה אוֹמֵר: אֵין "דָּן" אֶלָּא לְשׁוֹן עֲבוֹדָה זָרָה, שֶׁנֶּאֱמַר: "הַנִּשְׁבָּעִים בְּאַשְׁמַת שֹׁמְרוֹן וְאָמְרוּ חֵי אֱלֹהֶיךָ דָּן".
->
-> **Translation:** **One who says: My fortune be fortunate [*gad gaddi*] and be not weary by day or by night;** that statement **contains an element of the ways of the Amorite. Rabbi Yehuda says:** That is more severe than the ways of the Amorite, as ***gad* is nothing other than a term of idolatry, as it is stated:** "And you that forsake the Lord, that forget My holy mountain, **that prepare a table for *Gad*,** and that offer mingled wine in full measure unto *Meni*" (Isaiah 65:11). *Gad gaddi* is a form of prayer to an idol. **One who requests that he** be called **by** his wife's **name and she** be called **by his name** for good fortune, his request **contains an element of the ways of the Amorite. One who says: Let my barrels be strengthened [*donu danei*],** that **contains an element of the ways of the Amorite. Rabbi Yehuda says:** That is more severe than the ways of the Amorite, as ***Dan* is nothing other than a term of idol worship, as it is stated: "They that swear by the sin of Samaria and say: As your god *Dan* lives"** (Amos 8:14).
+
+> **Hebrew/Aramaic:** הוּא בִּשְׁמָהּ וְהִיא בִּשְׁמוֹ — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** One who requests that **he** be called **by** his wife’s **name and she** be called **by his name** for good fortune, his request **contains an element of the ways of the Amorite.**
 
 The *darchei emori* list continues. *Ha-omer gad gadi u'snuk lo ashkei u'bushkei* — one who says "let my luck increase and not falter, day and night" — *yesh bo mishum darchei emori*. This is a specific incantation for good fortune and falls under the prohibition. This is distinct from a prayer to God expressing the same wish, such as the *yehi ratzon* formulas recited at the *Rosh Hashanah* table with symbolic foods; those are prayers directed to God, not standalone incantations.
 
 *Hu b'shmo v'hi b'shmah* — if a husband and wife in the bedroom refer to each other by the other's name — this too is *darchei emori*. *Donu doni* — an incantation for the strengthening of one's wine barrels — also falls under the prohibition.
+
+[DAF:67b]
+### Divine Names
+
+> **Hebrew/Aramaic:** הָאוֹמֵר ״גַּד גַּדִּי, וּסְנוּק לָא אַשְׁכִּי וּבוּשְׁכִּי״ — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי. רַבִּי יְהוּדָה אוֹמֵר: ״גַּד״ אֵינוֹ אֶלָּא לְשׁוֹן עֲבוֹדָה זָרָה, שֶׁנֶּאֱמַר: ״הָעֹרְכִים לַגַּד שֻׁלְחָן״.
+> **Translation:** After some discussion of the ways of the Amorite, the Gemara cites additional statements from the Amorite chapter in the *Tosefta* and from other sources on this topic. **One who says: My fortune be fortunate [*gad gaddi*] and be not weary by day or by night;** that statement **contains an element of the ways of the Amorite. Rabbi Yehuda says:** That is more severe than the ways of the Amorite, as ***gad* is nothing other than a term of idolatry, as it is stated:** “And you that forsake the Lord, that forget My holy mountain, **that prepare a table for *Gad*,** and that offer mingled wine in full measure unto *Meni*” (Isaiah 65:11). *Gad gaddi* is a form of prayer to an idol.
+
+> **Hebrew/Aramaic:** ״דּוּנוּ דַּנַּי״ — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי. רַבִּי יְהוּדָה אוֹמֵר: אֵין ״דָּן״ אֶלָּא לְשׁוֹן עֲבוֹדָה זָרָה, שֶׁנֶּאֱמַר: ״הַנִּשְׁבָּעִים בְּאַשְׁמַת שֹׁמְרוֹן וְאָמְרוּ חֵי אֱלֹהֶיךָ דָּן״.
+> **Translation:** One who says: **Let my barrels be strengthened [*donu danei*],** that **contains an element of the ways of the Amorite. Rabbi Yehuda says:** That is more severe than the ways of the Amorite, as ***Dan* is nothing other than a term of idol worship, as it is stated: “They that swear by the sin of Samaria and say: As your god *Dan* lives”** (Amos 8:14).
 
 *Rabbi Yehuda* adds a further dimension to two of the above: not only are these practices *darchei emori*, they are actually worse — they invoke the names of real pagan deities. Regarding *gad gadi*: *ein Gad ela lashon avodah zarah* — the word *Gad* is the name of a deity, as the verse states (*Yeshaya* 65:11): *ha-orchim l'Gad shulchan* — those who set a table to the god Gad. Regarding *donu doni*: *ein Dan ela lashon avodah zarah* — *Dan* is also the name of a deity, as the verse states (*Amos* 8:14): *chai elohecha Dan* — by the life of your god *Dan*, associated with the worship at the city of Dan, where one of Jeroboam's two golden calves was erected.
 
@@ -198,17 +227,33 @@ It is striking that two of the names of the *shevatim* — *Gad* and *Dan* — a
 
 ### Animal Omens
 
-> **Hebrew/Aramaic:** הָאוֹמֵר לְעוֹרֵב "צְרַח", וּלְעוֹרֶבְתָּא "שְׁרִיקִי וְהַחֲזִירִי לִי זְנָבִיךְ לְטוֹבָה" — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. הָאוֹמֵר "שַׁחֲטוּ תַּרְנְגוֹל זֶה שֶׁקָּרָא עַרְבִית" וְ"תַרְנְגוֹלֶת שֶׁקָּרְאָה גַּבְרִית" — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי.
->
-> **Translation:** **One who** hears a raven calling and is concerned about a bad omen and **says to the raven: Scream, and** says **to the female raven: Whistle and turn your tail to me for the best;** those statements **contain an element of the ways of the Amorite. One who says: Slaughter this rooster that calls out** in the **evening and** says: Slaughter this **chicken that calls out like a male** rooster; those statements **contain an element of the ways of the Amorite.**
+> **Hebrew/Aramaic:** הָאוֹמֵר לְעוֹרֵב ״צְרַח״, וּלְעוֹרֶבְתָּא ״שְׁרִיקִי וְהַחֲזִירִי לִי זְנָבִיךְ לְטוֹבָה״ — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** **One who** hears a raven calling and is concerned about a bad omen and **says to the raven: Scream, and** says **to the female raven: Whistle and turn your tail to me for the best;** those statements **contain an element of the ways of the Amorite.**
+
+> **Hebrew/Aramaic:** הָאוֹמֵר ״שַׁחֲטוּ תַּרְנְגוֹל זֶה שֶׁקָּרָא עַרְבִית״ וְ״תַרְנְגוֹלֶת שֶׁקָּרְאָה גַּבְרִית״ — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** **One who says: Slaughter this rooster that calls out** in the **evening and** says: Slaughter this **chicken that calls out like a male** rooster; those statements **contain an element of the ways of the Amorite.**
 
 *Ha-omer la-orev tzrach* — one who says to a raven, "screech," and to a female raven, "screech," and "turn your tail toward me for good" (*v'hachiziri li zenavech l'tova*) — *yesh bo mishum darchei emori*. This was done upon seeing or hearing a raven, which was interpreted as a portent, and the incantation was meant to redirect the omen. *Ha-omer shachtu tarnegol ze she-kara arvit* — one who says to slaughter a rooster because it crowed after dark (when roosters should not crow), *v'tarnegolet she-kar'ah gavrit* — or a hen that crowed like a rooster — *yesh bo mishum darchei emori*. The feeling that one must slaughter such an animal to ward off misfortune is itself the Amorite practice. Many readers will recognize in these passages echoes of folk superstitions that persisted long after the Talmudic period in various Jewish communities — the impulse to neutralize a bad omen by acting against it is ancient and widespread.
 
 ### Cooking Superstitions
 
-> **Hebrew/Aramaic:** "אֶשְׁתֶּה וְאוֹתִיר, אֶשְׁתֶּה וְאוֹתִיר" — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. הַמְבַקַּעַת בֵּיצִים בַּכּוֹתֶל, וְהַטָּח בִּפְנֵי הָאֶפְרוֹחִים — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. וְהַמֵּגִיס בִּפְנֵי אֶפְרוֹחִים — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. הַמְרַקֶּדֶת, וְהַמּוֹנָה שִׁבְעִים וְאֶחָד אֶפְרוֹחִין בִּשְׁבִיל שֶׁלֹּא יָמוּתוּ — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. הַמְרַקֶּדֶת לְכוּתָּח, וְהַמְשַׁתֶּקֶת לַעֲדָשִׁים, וְהַמְצַוַּוחַת לִגְרִיסִין — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. הַמַּשְׁתֶּנֶת בִּפְנֵי קְדֵירָתָהּ בִּשְׁבִיל שֶׁתִּתְבַּשֵּׁל מְהֵרָה — יֵשׁ בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי.
->
-> **Translation:** One who says: **I will drink and leave over, I will drink and leave over,** so that his wine will increase; that statement **contains an element of the ways of the Amorite. One who cracks eggs on a wall and smears** them **in front of the chicks;** that series of actions **contains an element of the ways of the Amorite. And one who stirs** the pot **in front of chicks** as an auspicious practice so they do not die; that action **contains an element of the ways of the Amorite. A woman who dances and counts** the chicks until she reaches the number of **seventy-one chicks, so they won't die;** her action **contains an element of the ways of the Amorite. A woman who dances to** ensure that the ***kutaḥ*,** a spice made from whey salt and bread, that she is preparing will be successful, **and** a woman **who silences** bystanders **to** ensure that the **lentils** will cook properly, **and** a woman **who screams to** ensure that the **pearl barley** will cook properly; all these **contain an element of the ways of the Amorite. A woman who urinates in front of her pot so it will cook quickly;** that action **contains an element of the ways of the Amorite.**
+> **Hebrew/Aramaic:** ״אֶשְׁתֶּה וְאוֹתִיר, אֶשְׁתֶּה וְאוֹתִיר״ — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** One who says: **I will drink and leave over, I will drink and leave over,** so that his wine will increase; that statement **contains an element of the ways of the Amorite.**
+
+> **Hebrew/Aramaic:** הַמְבַקַּעַת בֵּיצִים בַּכּוֹתֶל, וְהַטָּח בִּפְנֵי הָאֶפְרוֹחִים — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** **One who cracks eggs on a wall and smears** them **in front of the chicks;** that series of actions **contains an element of the ways of the Amorite.**
+
+> **Hebrew/Aramaic:** וְהַמֵּגִיס בִּפְנֵי אֶפְרוֹחִים — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** **And one who stirs** the pot **in front of chicks** as an auspicious practice so they do not die; that action **contains an element of the ways of the Amorite.**
+
+> **Hebrew/Aramaic:** הַמְרַקֶּדֶת, וְהַמּוֹנָה שִׁבְעִים וְאֶחָד אֶפְרוֹחִין בִּשְׁבִיל שֶׁלֹּא יָמוּתוּ — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** **A woman who dances and counts** the chicks until she reaches the number of **seventy-one chicks, so they won’t die;** her action **contains an element of the ways of the Amorite.**
+
+> **Hebrew/Aramaic:** הַמְרַקֶּדֶת לְכוּתָּח, וְהַמְשַׁתֶּקֶת לַעֲדָשִׁים, וְהַמְצַוַּוחַת לִגְרִיסִין — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** A woman **who dances to** ensure that the ***kutaḥ*,** a spice made from whey salt and bread, that she is preparing will be successful, **and** a woman **who silences** bystanders **to** ensure that the **lentils** will cook properly, **and** a woman **who screams to** ensure that the **pearl barley** will cook properly; all these **contain an element of the ways of the Amorite.**
+
+> **Hebrew/Aramaic:** הַמַּשְׁתֶּנֶת בִּפְנֵי קְדֵירָתָהּ בִּשְׁבִיל שֶׁתִּתְבַּשֵּׁל מְהֵרָה — יֵשׁ בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי.
+> **Translation:** **A woman who urinates in front of her pot so it will cook quickly;** that action **contains an element of the ways of the Amorite.**
 
 *Eshteh ve-otir eshteh ve-otir* — reciting "I will drink and leave over, drink and leave over" as an incantation — *yesh bo mishum darchei emori*. The intent to leave something over at the end of a meal can be a fine custom (*v'savanu v'hotarnu*), but articulating it as a ritual formula crosses into Amorite practice.
 
@@ -220,9 +265,14 @@ It is striking that two of the names of the *shevatim* — *Gad* and *Dan* — a
 
 ### Legitimate Methods
 
-> **Hebrew/Aramaic:** אֲבָל נוֹתְנִין קֵיסָם שֶׁל תּוּת וְשִׁבְרֵי זְכוּכִית בִּקְדֵירָה בִּשְׁבִיל שֶׁתִּתְבַּשֵּׁל מְהֵרָה, וַחֲכָמִים אוֹסְרִין בְּשִׁבְרֵי זְכוּכִית מִפְּנֵי הַסַּכָּנָה. תָּנוּ רַבָּנַן: נוֹתְנִין בּוּל שֶׁל מֶלַח לְתוֹךְ הַנֵּר בִּשְׁבִיל שֶׁתָּאִיר וְתַדְלִיק. וְנוֹתְנִין טִיט וְחַרְסִית תַּחַת הַנֵּר בִּשְׁבִיל שֶׁתַּמְתִּין וְתַדְלִיק. אָמַר רַב זוּטְרָא: הַאי מַאן דִּמְכַסֵּי שְׁרָגָא דְּמִשְׁחָא וּמְגַלֵּי נַפְטָא קָעָבַר מִשּׁוּום "בַּל תַּשְׁחִית".
->
-> **Translation:** **But one may put a chip of mulberry** wood **and shards of glass in the pot so it will cook quickly,** as doing so is effective and not merely superstition. **And the Rabbis prohibit shards of glass** not due to superstition; rather, **due to** the **danger** involved if the glass is not strained out completely. **The Sages taught** in the *Tosefta*: **One** may **place a lump of salt into a candle so it will burn brightly;** that is effective and not merely for good fortune, so there is no element of the ways of the Amorites involved. **And** similarly, **one may put mud or clay under a candle so it will burn longer. Rav Zutra said: He who covers an oil lamp or who uncovers a kerosene** lamp for no purpose **violates the prohibition: Do not destroy,** since by doing so the fuel burns more quickly.
+> **Hebrew/Aramaic:** אֲבָל נוֹתְנִין קֵיסָם שֶׁל תּוּת וְשִׁבְרֵי זְכוּכִית בִּקְדֵירָה בִּשְׁבִיל שֶׁתִּתְבַּשֵּׁל מְהֵרָה, וַחֲכָמִים אוֹסְרִין בְּשִׁבְרֵי זְכוּכִית מִפְּנֵי הַסַּכָּנָה.
+> **Translation:** **But one may put a chip of mulberry** wood **and shards of glass in the pot so it will cook quickly,** as doing so is effective and not merely superstition. **And the Rabbis prohibit shards of glass** not due to superstition; rather, **due to** the **danger** involved if the glass is not strained out completely.
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: נוֹתְנִין בּוּל שֶׁל מֶלַח לְתוֹךְ הַנֵּר בִּשְׁבִיל שֶׁתָּאִיר וְתַדְלִיק. וְנוֹתְנִין טִיט וְחַרְסִית תַּחַת הַנֵּר בִּשְׁבִיל שֶׁתַּמְתִּין וְתַדְלִיק.
+> **Translation:** **The Sages taught** in the *Tosefta*: **One** may **place a lump of salt into a candle so it will burn brightly;** that is effective and not merely for good fortune, so there is no element of the ways of the Amorites involved. **And** similarly, **one may put mud or clay under a candle so it will burn longer.**
+
+> **Hebrew/Aramaic:** אָמַר רַב זוּטְרָא: הַאי מַאן דִּמְכַסֵּי שְׁרָגָא דְּמִשְׁחָא וּמְגַלֵּי נַפְטָא קָעָבַר מִשּׁוּם ״בַּל תַּשְׁחִית״.
+> **Translation:** **Rav Zutra said: He who covers an oil lamp or who uncovers a kerosene** lamp for no purpose **violates the prohibition: Do not destroy,** since by doing so the fuel burns more quickly.
 
 In contrast to the forbidden practices, certain methods of speeding up cooking or improving one's lamp are entirely permitted. Placing a twig of *tut* (mulberry) and a piece of glass in a pot will genuinely cause the contents to cook faster — this is not *darchei emori* but a real technique. The *Chachamim*, however, object to the piece of glass not on grounds of *darchei emori* but of *sakana* — physical danger, as glass fragments in food present an obvious hazard.
 
@@ -230,8 +280,7 @@ Placing a clump of salt into an oil lamp (*bul shel melach l'toch haner*) will m
 
 ### Wedding Toasts
 
-> **Hebrew/Aramaic:** "חַמְרָא וְחַיֵּי לְפוּם רַבָּנַן" — אֵין בּוֹ מִשּׁוּום דַּרְכֵי הָאֱמוֹרִי. מַעֲשֶׂה בְּרַבִּי עֲקִיבָא שֶׁעָשָׂה מִשְׁתֶּה לִבְנוֹ, וְעַל כׇּל כּוֹס וָכוֹס שֶׁהֵבִיא אָמַר: "חַמְרָא וְחַיֵּי לְפוּם רַבָּנַן, חַיֵּי וְחַמְרָא לְפוּם רַבָּנַן וּלְפוּם תַּלְמִידֵיהוֹן".
->
+> **Hebrew/Aramaic:** ״חַמְרָא וְחַיֵּי לְפוּם רַבָּנַן״ — אֵין בּוֹ מִשּׁוּם דַּרְכֵי הָאֱמוֹרִי. מַעֲשֶׂה בְּרַבִּי עֲקִיבָא שֶׁעָשָׂה מִשְׁתֶּה לִבְנוֹ, וְעַל כׇּל כּוֹס וָכוֹס שֶׁהֵבִיא אָמַר: ״חַמְרָא וְחַיֵּי לְפוּם רַבָּנַן, חַיֵּי וְחַמְרָא לְפוּם רַבָּנַן וּלְפוּם תַּלְמִידֵיהוֹן״.
 > **Translation:** One who says while drinking: **Wine and life to the mouth of the Sages,** this does **not fall into the category of the ways of the Amorite. There was an incident with Rabbi Akiva who made a banquet for his son, and over each and every cup he brought he said: Wine and life to the mouth of the Sages, wine and life to the mouth of the Sages and to the mouth of their students.**
 
 The *Baraisa* then states: saying *chamra v'chayei l'fum rabbanan* — wine and life to the mouth of the rabbis — is *ein bo mishum darchei emori*, not a *darchei emori* problem. It is simply a standard toast.
@@ -246,15 +295,23 @@ This concludes the sixth *perek*. *Hadran Alach Bameh Isha*.
 
 ## Seventh Perek Intro
 
+
+
 ### Six to Seventh
 
 It is worth pausing to appreciate the structure of *Masechet Shabbat* as we move from the sixth *perek* to the seventh. The first six *perakim* have all been, in one way or another, about preparing for *Shabbat*. The tractate opened with the rules of carrying, then moved to lighting candles, putting food on the fire, insulating food, what one may wear — and whether one's animals may wear — as one dresses for *Shabbat*. Two entire *perakim* were devoted to the topic of carrying in its various dimensions — what people and animals may wear and what constitutes forbidden carrying. It is not coincidental that there are six *perakim* before the seventh: six days lead up to the seventh, and these six *perakim* lead up to the *perek* that addresses the *melachos* of *Shabbat* themselves. The *melachos* have been implicit throughout, but now we arrive at the heart of the matter. In a few *dappim* we will reach the famous *Mishnah* that enumerates the thirty-nine *avos melachos*; but first the tractate introduces the framework for liability.
 
+> **Hebrew/Aramaic:** הדרן עלך במה אשה
+
 ### General Principle
 
-> **Hebrew/Aramaic:** מַתְנִי׳ כְּלָל גָּדוֹל אָמְרוּ בְּשַׁבָּת: כׇּל הַשּׁוֹכֵחַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — אֵינוֹ חַיָּיב אֶלָּא חַטָּאת אַחַת. הַיּוֹדֵעַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — חַיָּיב עַל כׇּל שַׁבָּת וְשַׁבָּת. הַיּוֹדֵעַ שֶׁהוּא שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — חַיָּיב עַל כׇּל
->
+> **Translation:** 
+
+> **Hebrew/Aramaic:** מַתְנִי׳ כְּלָל גָּדוֹל אָמְרוּ בְּשַׁבָּת: כׇּל הַשּׁוֹכֵחַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — אֵינוֹ חַיָּיב אֶלָּא חַטָּאת אַחַת. הַיּוֹדֵעַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — חַיָּיב עַל כׇּל שַׁבָּת וְשַׁבָּת. הַיּוֹדֵעַ שֶׁהוּא שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — חַיָּיב עַל כׇּל
 > **Translation:** MISHNA: The Sages **stated a significant principle with regard to** the *halakhot* of **Shabbat: One who forgets the essence of Shabbat,** i.e., one who is entirely ignorant of the mitzva of Shabbat according to Torah law, **and performed numerous prohibited labors on multiple *Shabbatot*, is liable** to bring **only one sin-offering** for all those labors when he becomes aware that those actions were prohibited. **One who knows the essence of Shabbat** but forgets which day is Shabbat, i.e., one who lost track of the days of the week, **and performs numerous prohibited labors on multiple *Shabbatot* is liable** to bring a sin-offering **for each Shabbat** when he becomes aware that he performed those actions on Shabbat. **One who is aware that** the day **is Shabbat** but temporarily forgot that certain labors were prohibited **and performed numerous prohibited labors on multiple *Shabbatot* is liable** to bring a sin-offering **for each**
+
+> **Hebrew/Aramaic:** אַב מְלָאכָה וּמְלָאכָה. הָעוֹשֶׂה מְלָאכוֹת הַרְבֵּה מֵעֵין מְלָאכָה אַחַת, אֵינוֹ חַיָּיב אֶלָּא חַטָּאת אַחַת.
+> **Translation:** **and every primary category of labor** that he performed. **One who performs numerous prohibited labors** subsumed under a **single** category **of labor is liable** to bring **only one sin-offering.**
 
 The seventh *perek* opens with a *klal gadol* — a general principle: *kol ha-shoche'ach ikar Shabbat v'asah melachos harbeh b'Shabbatos harbeh* — one who entirely forgot the concept of *Shabbat* and performed many categories of labor on many *Shabbosos* is liable for only one *chatat*, one sin-offering. The reasoning is that only one fundamental error was made: the complete forgetting that *Shabbat* exists at all. No matter how many *Shabbosos* passed and how many types of work were performed, the person made a single mistake, and a single *chatat* is appropriate.
 

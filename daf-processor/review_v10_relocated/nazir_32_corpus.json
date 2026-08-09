@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Counting from Onset",
+    "candidates": [
+      "Opening Context",
+      "Refused Heter Case",
+      "Beit Shammai View",
+      "Counting from Onset",
+      "Animal Goes Free",
+      "Beit Hillel Argument",
+      "Ma'aser Behema Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This is the mishna itself, which the 'Opening Context' prose explicitly identifies as appearing at the bottom of 31b and introduces as the current mishna that covers both nezirut b'ta'ut and hekdesh b'ta'ut \u2014 the passage belongs under the introductory heading that frames the entire mishna before its individual clauses are analyzed.",
+      "chosen_heading": "Opening Context",
+      "current_heading": "Counting from Onset",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Ma'aser Behema Counter",
+    "candidates": [
+      "Animal Goes Free",
+      "Beit Hillel Argument",
+      "Ma'aser Behema Counter",
+      "Different Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Beit Hillel's argument (appealing to the erroneous consecration/hekdesh ta'ut case) AND Beit Shammai's ma'aser behema counter-response in a single Talmudic exchange, but the heading 'Beit Hillel Argument' whose prose explicitly describes both sides of this exchange ('Beit Hillel said to Beit Shammai... do you not concede...') is the better fit since the passage begins with Beit Hillel's challenge and the current placement under 'Ma'aser Behema Counter' only covers Beit Shammai's reply.",
+      "chosen_heading": "Beit Hillel Argument",
+      "current_heading": "Ma'aser Behema Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Different Mechanism",
+    "candidates": [
+      "Ma'aser Behema Counter",
+      "Different Mechanism",
+      "Basic Criteria Principle",
+      "Violation Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Beit Hillel's response to Beit Shammai's ma'aser behema counter-example \u2014 arguing that it is not the rod/erroneous designation that consecrates but rather the Torah's own definition of 'tenth' that encompasses nine and eleven \u2014 which is precisely what the 'Different Mechanism' prose describes.",
+      "chosen_heading": "Different Mechanism",
+      "current_heading": "Different Mechanism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Violation Assumption",
+    "candidates": [
+      "Basic Criteria Principle",
+      "Violation Assumption",
+      "Days Makeup Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'whose opinion is expressed in the mishna' and answers 'neither Rabbi Yosei nor the Rabbanan,' which directly matches the prose of candidate 1 that explicitly discusses 'mani masnisin? Whose view does this mishna represent?' and the answer 'lo Rabbi Yosei velo Rabbanan.'",
+      "chosen_heading": "Violation Assumption",
+      "current_heading": "Violation Assumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Days Makeup Dispute",
+    "candidates": [
+      "Days Makeup Dispute",
+      "Both Views Possible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita dispute between Rabbanan and Rabbi Yosei and the Gemara's noting of difficulties with each position relative to the mishna \u2014 exactly what heading 0 ('Days Makeup Dispute') discusses in its prose.",
+      "chosen_heading": "Days Makeup Dispute",
+      "current_heading": "Days Makeup Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Both Views Possible",
+    "candidates": [
+      "Both Views Possible",
+      "Animal Stolen Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna about requesting dissolution of a nazirite vow and what happens to the separated animal (grazing among the flock), which directly corresponds to the 'Animal Stolen Setup' prose about nezirut b'ta'ut based on mistaken premises and the dissolution/release from the vow \u2014 not the 'Both Views Possible' section which discusses makeup days for violated nezirut.",
+      "chosen_heading": "Animal Stolen Setup",
+      "current_heading": "Both Views Possible",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Animal Stolen Setup",
+    "candidates": [
+      "Animal Stolen Setup",
+      "Before/After Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Beit Hillel's position on substitution being uprooted when the initial consecration is dissolved, which directly corresponds to the 'Before/After Knowledge' section's discussion of how a chacham can release a vow taken under mistaken premises (hatara uprooting the initial consecration and its substitute).",
+      "chosen_heading": "Before/After Knowledge",
+      "current_heading": "Animal Stolen Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Before/After Knowledge",
+    "candidates": [
+      "Before/After Knowledge",
+      "Ein Potchin B'Nolad",
+      "Nachum HaMedai Case",
+      "Nachum's Reasoning",
+      "Chachamim Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Before/After Knowledge",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 are a continuous Gemara discussion about animal tithe and whether erroneous vs. intentional consecration takes effect, which belongs under the 'Before/After Knowledge' section (current placement) as part of the broader ta'ut discussion preceding the Nazirite mishna.",
+      "second_heading": "Nachum HaMedai Case",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20137 introduce the new Mishna case of the nazirite whose animal was stolen and the Nachum HaMedai incident, which is the exact content described in the 'Nachum HaMedai Case' prose.",
+      "current_heading": "Before/After Knowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Chachamim Response",
+    "candidates": [
+      "Ein Potchin B'Nolad",
+      "Nachum HaMedai Case",
+      "Nachum's Reasoning",
+      "Chachamim Response",
+      "Rabbi Eliezer Silenced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Chachamim's ruling distinguishing between nazirites who vowed before versus after the Temple's destruction, which is precisely what the 'Chachamim Response' prose section discusses.",
+      "chosen_heading": "Chachamim Response",
+      "current_heading": "Chachamim Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rabbi Eliezer Silenced",
+    "candidates": [
+      "Rabbi Eliezer Silenced",
+      "Conditional Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabba's statement that the Rabbis overwhelmed Rabbi Eliezer and brought him into line with their position, which directly matches the 'Rabbi Eliezer Silenced' section's prose discussion of exactly this gemara.",
+      "chosen_heading": "Rabbi Eliezer Silenced",
+      "current_heading": "Rabbi Eliezer Silenced",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Conditional Future",
+    "candidates": [
+      "Conditional Future",
+      "Rosh Advice Theory",
+      "Prophetic Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement introducing the distinction between 'nolad' and 'tnai nolad,' which is precisely what the 'Conditional Future' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Conditional Future",
+      "current_heading": "Conditional Future",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Prophetic Warning",
+    "candidates": [
+      "Rosh Advice Theory",
+      "Prophetic Warning",
+      "Timing Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yosef's statement about the Jeremiah verse (Heichal Hashem thrice) referring to First and Second Temples, which is precisely what the 'Prophetic Warning' section's prose discusses in detail.",
+      "chosen_heading": "Prophetic Warning",
+      "current_heading": "Prophetic Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Timing Objection",
+    "candidates": [
+      "Timing Objection",
+      "Conditional Vows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the timing objection raised by Abaye regarding knowledge of when the Temple would be destroyed, including the Daniel verse about seventy sevens, which is precisely what the 'Timing Objection' prose section describes.",
+      "chosen_heading": "Timing Objection",
+      "current_heading": "Timing Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Conditional Vows",
+    "candidates": [
+      "Conditional Vows",
+      "Beit Shammai: All Nezirim",
+      "Beit Hillel: Condition",
+      "Rabbi Tarfon: No Nezirim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishna presents the six conditional vows themselves, which is exactly what the 'Conditional Vows' section's prose describes and introduces.",
+      "chosen_heading": "Conditional Vows",
+      "current_heading": "Conditional Vows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rabbi Tarfon: No Nezirim",
+    "candidates": [
+      "Beit Shammai: All Nezirim",
+      "Beit Hillel: Condition",
+      "Rabbi Tarfon: No Nezirim",
+      "Person Turns Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents all three opinions (Beit Shammai, Beit Hillel, and Rabbi Tarfon) together as a unit from the Mishna, and the first candidate heading 'Beit Shammai: All Nezirim' is where this full Mishnaic text naturally belongs as it introduces all three positions starting with Beit Shammai's ruling.",
+      "chosen_heading": "Beit Shammai: All Nezirim",
+      "current_heading": "Rabbi Tarfon: No Nezirim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Person Turns Away",
+    "candidates": [
+      "Rabbi Tarfon: No Nezirim",
+      "Person Turns Away",
+      "Rabbi Shimon: Safek Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon's statement about saying 'if it was as I said, I am an obligatory nazirite, and if not, a voluntary nazirite,' which is precisely what the prose of candidate 2 ('Rabbi Shimon: Safek Nazir') discusses as his solution for the safek nazir case.",
+      "chosen_heading": "Rabbi Shimon: Safek Nazir",
+      "current_heading": "Person Turns Away",
+      "moved": true
+    }
+  }
+]

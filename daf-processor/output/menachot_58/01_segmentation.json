@@ -38,8 +38,8 @@
           "timestamp": "06:24"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Ramp (Kibesh) as Valid Location for Burning: Rabbi Yochanan vs. Rabbi Elazar",
@@ -62,8 +62,8 @@
           "timestamp": "14:33"
         }
       ],
-      "sefaria_index": 0,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Shtei HaLechem Cannot Be Brought as Nedavah: Deriving Restriction from Korban Reishit",
@@ -86,7 +86,7 @@
           "timestamp": "24:59"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -389,5 +389,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "35:53",
+  "amud_b_micro_title": "Kometz Baseline",
+  "shiur_start_daf": 57,
+  "shiur_start_amud": "b"
 }

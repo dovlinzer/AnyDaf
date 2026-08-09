@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Rav Yosef's Logic",
+    "candidates": [
+      "Nichsei Miluog Setup",
+      "Father-Son Proof",
+      "R. Yirmiyah's Ruling",
+      "Shmuel's Distinction",
+      "Rav Yosef's Logic",
+      "Abaye's Counter"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel's Distinction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yehuda reporting Shmuel's distinction that the wife's case is not analogous to the mishna, which is precisely what heading 3 'Shmuel's Distinction' describes.",
+      "second_heading": "Rav Yosef's Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rav Yosef's explanation of why the mishna's formulation (father-to-son) doesn't prove the general principle about kinyan peirot, matching exactly the prose of heading 4 'Rav Yosef's Logic'.",
+      "current_heading": "Rav Yosef's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Abaye's Counter",
+    "candidates": [
+      "Abaye's Counter",
+      "Principle vs. Takana",
+      "R. Yosi's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's counter-argument challenging Rav Yosef's reasoning about inheritance symmetry between father and son, which matches precisely the prose of heading 0 describing Abaye's counter-argument about the rationale for the transfer arrangement.",
+      "chosen_heading": "Abaye's Counter",
+      "current_heading": "Abaye's Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "R. Yosi's Statement",
+    "candidates": [
+      "Principle vs. Takana",
+      "R. Yosi's Statement",
+      "Takana Timeline",
+      "False Witnesses Setup",
+      "Kesuvah Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that the difference between the husband-wife case and the father-son case is 'due to the ordinance of Usha' (mishum takanas Usha), which is precisely what the 'Principle vs. Takana' section describes \u2014 the concession that the practical halacha departs from logical principle because of legislative enactment at Usha.",
+      "chosen_heading": "Principle vs. Takana",
+      "current_heading": "R. Yosi's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Kesuvah Value",
+    "candidates": [
+      "Takana Timeline",
+      "False Witnesses Setup",
+      "Kesuvah Value",
+      "Abaye's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items constitute Rav Idi bar Avin's proof from the baraita for takanas Usha \u2014 items 1-2 cite the baraita's ruling on tovas hana'ah, and item 3 draws the logical conclusion ('if there were no takanas Usha, why would her husband inherit \u2014 let her sell outright'), which is precisely the proof-argument described in the 'Abaye's Question' section's prose.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Kesuvah Value",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Abaye's Question",
+    "candidates": [
+      "Kesuvah Value",
+      "Abaye's Question",
+      "Gemara's Answer",
+      "Tovas Hana'ah Defined",
+      "Rav Shaman's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Abaye's statement deflects the proof by arguing that the braisa's uncertain valuation is explained by nichsei tzon barzel (guaranteed property) without needing to reference nichsei miluog, which is precisely what the 'Gemara's Answer' prose describes.",
+      "chosen_heading": "Gemara's Answer",
+      "current_heading": "Abaye's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Shaman's Objection",
+    "candidates": [
+      "Gemara's Answer",
+      "Tovas Hana'ah Defined",
+      "Rav Shaman's Objection",
+      "Wife Owns Tovas",
+      "Rava's Ruling",
+      "Peirot d'Peirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's argument that tovas hana'ah belongs to the wife and Rav Shalman's objection about household gain, which together constitute the full gemara discussion that candidate 1's prose ('Tovas Hana'ah Defined') describes \u2014 including the exact question of whether the wife or husband owns the tovas hana'ah proceeds and the false-witnesses argument.",
+      "chosen_heading": "Tovas Hana'ah Defined",
+      "current_heading": "Rav Shaman's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Peirot d'Peirot",
+    "candidates": [
+      "Wife Owns Tovas",
+      "Rava's Ruling",
+      "Peirot d'Peirot",
+      "Mishna Statement",
+      "Why Can't She Pay?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's explicit ruling ('hilchasa tovat hana'ah l'isha') and the peirot/peirot d'peirot rationale, which is quoted and explained in detail under 'Rava's Ruling' (index 1), while index 2 ('Peirot d'Peirot') is the essay's own prose elaboration of that ruling rather than the home for the primary Talmudic text itself.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Peirot d'Peirot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Why Can't She Pay?",
+    "candidates": [
+      "Mishna Statement",
+      "Why Can't She Pay?",
+      "Shmuel's Debt Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of challenges and responses about why a married woman cannot raise funds to pay damages \u2014 exactly the content described in the 'Why Can't She Pay?' prose, which covers the takanas Usha argument, the tovas hana'ah of kesuvah argument via Rabbi Meir, the rebuttal about financial deterrence remaining intact, and the 'mili ninhu' conclusion \u2014 all of which appear sequentially in items 1\u20135.",
+      "chosen_heading": "Why Can't She Pay?",
+      "current_heading": "Why Can't She Pay?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Shmuel's Debt Rule",
+    "candidates": [
+      "Shmuel's Debt Rule",
+      "Braisa Statement",
+      "Logical Problem",
+      "Rabbi Meir's Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Shmuel's Debt Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 discuss Shmuel's rule about forgiving sold debts and why the wife cannot sell her kesuva's tovas hana'ah to pay the person she injured, which is precisely what candidate 0's prose covers.",
+      "second_heading": "Braisa Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 6 introduces the braita case of a woman who injured her husband (ve-chen hi she-chavlah be-ba'alah), which is exactly the new scenario introduced in candidate 1's prose.",
+      "current_heading": "Shmuel's Debt Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rabbi Meir's Principle",
+    "candidates": [
+      "Braisa Statement",
+      "Logical Problem",
+      "Rabbi Meir's Principle",
+      "Resolution: Kesuvah Base"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's discussion of Rabbi Meir's principle \u2014 stating the principle (item 1), raising the objection that even without the sale he could still divorce her (item 2), and resolving it with the case of a large kesuvah (item 3) \u2014 which exactly matches the prose under 'Rabbi Meir's Principle'.",
+      "chosen_heading": "Rabbi Meir's Principle",
+      "current_heading": "Rabbi Meir's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Resolution: Kesuvah Base",
+    "candidates": [
+      "Resolution: Kesuvah Base",
+      "Third Party Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-answer-objection chain about whether the wife can sell back the portion of her kesuvah above the biblical minimum, and the prose of 'Resolution: Kesuvah Base' directly describes this exact dialectic about the base kesuvah de-oraita and the four-zuzim injury case.",
+      "chosen_heading": "Resolution: Kesuvah Base",
+      "current_heading": "Resolution: Kesuvah Base",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Third Party Sale",
+    "candidates": [
+      "Third Party Sale",
+      "Economic Duress Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement identifies the latter clause of the baraita as discussing ketubas benin dichrin, which directly corresponds to heading 0's prose introducing and explaining that same baraita about whether selling a kesuvah to a third party forfeits ketubas benin dichrin.",
+      "chosen_heading": "Third Party Sale",
+      "current_heading": "Third Party Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Economic Duress Logic",
+    "candidates": [
+      "Economic Duress Logic",
+      "Husband Sale Parallel",
+      "Benin Dichrin Protected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's explanation that both the third-party sale and the husband sale preserve ketubas benin dichrin because economic duress (zuze hu de-antsuha) motivated the sale, which is precisely what the 'Economic Duress Logic' section's prose is discussing.",
+      "chosen_heading": "Economic Duress Logic",
+      "current_heading": "Economic Duress Logic",
+      "moved": false
+    }
+  }
+]

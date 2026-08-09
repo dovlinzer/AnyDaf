@@ -1,0 +1,339 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Names Debate",
+    "candidates": [
+      "Market Ethics Overview",
+      "Names Debate",
+      "Etymology & Sin",
+      "Biblical Connection",
+      "Verse Exegesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the names debate (Machlon/Chilyon vs. Yoash/Saraph), their etymological meanings, and the baraita supporting one opinion \u2014 exactly what the 'Names Debate' prose describes.",
+      "chosen_heading": "Names Debate",
+      "current_heading": "Names Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Verse Exegesis",
+    "candidates": [
+      "Etymology & Sin",
+      "Biblical Connection",
+      "Verse Exegesis",
+      "Oath Contrast",
+      "Continuation Parse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage parses 'asher ba'alu l'Moav,' 'v'yoshvei Lechem' (Ruth the Moabite returning to Bethlehem), and 'v'hadvarim atikim' (ancient matters ordained by God, connecting to David's lineage via Lot's daughters), which matches exactly the 'Verse Exegesis' section's prose describing the Gemara's turn-by-turn parsing of those same elements.",
+      "chosen_heading": "Verse Exegesis",
+      "current_heading": "Verse Exegesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Continuation Parse",
+    "candidates": [
+      "Oath Contrast",
+      "Continuation Parse",
+      "Rechabites Narrative",
+      "Shemitah Promise",
+      "Grain Preservation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items parse the verse from I Chronicles 4:23 identifying the potters as Jonadab's descendants, the plantings as Solomon, the hedges as Sanhedrin, and the king's work as Ruth \u2014 exactly the content described in the 'Continuation Parse' prose.",
+      "chosen_heading": "Continuation Parse",
+      "current_heading": "Continuation Parse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Grain Preservation",
+    "candidates": [
+      "Rechabites Narrative",
+      "Shemitah Promise",
+      "Grain Preservation",
+      "Grain Sustenance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing the divine promise about eating old grain 'without salmanton,' which matches the 'Shemitah Promise' section's prose describing the baraita that pivots toward divine agricultural sustenance during shemitah and the question of what the guarantee entails \u2014 whereas the current placement under 'Grain Preservation' describes the subsequent Gemara discussion elaborating on Rav Nachman and Rav Sheshet's interpretations.",
+      "chosen_heading": "Shemitah Promise",
+      "current_heading": "Grain Preservation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Grain Sustenance",
+    "candidates": [
+      "Grain Preservation",
+      "Grain Sustenance",
+      "Aging Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of 'Grain Preservation' explicitly states 'The Gemara brings a tanna who supports Rav Nachman's reading and another who supports Rav Sheshet's,' which is precisely what these two baraita items do \u2014 one supporting Rav Nachman (grain won't become wormy) and one supporting Rav Sheshet (grain won't go bad/blasted), matching the preservation framing rather than the sustenance/gap framing of the current placement.",
+      "chosen_heading": "Grain Preservation",
+      "current_heading": "Grain Sustenance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Aging Benefit",
+    "candidates": [
+      "Aging Benefit",
+      "Storage Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita interpreting 'yashan noshan' to teach that produce improves with age, which is exactly what the 'Aging Benefit' section's prose describes.",
+      "chosen_heading": "Aging Benefit",
+      "current_heading": "Aging Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Storage Capacity",
+    "candidates": [
+      "Storage Capacity",
+      "Perek Intro",
+      "Mishnah Seeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about storehouses full of old produce and Rav Pappa's caveat about old versus fresh items matches exactly what the 'Storage Capacity' prose section discusses, including the specific references to kol mili atika ma'alya and the exceptions of dates, beer, and fish hash.",
+      "chosen_heading": "Storage Capacity",
+      "current_heading": "Storage Capacity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Mishnah Seeds",
+    "candidates": [
+      "Perek Intro",
+      "Mishnah Seeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Hadaran formula marks the conclusion of the preceding perek (hamocher et hasfinah) and transition to the new perek, which matches the Perek Intro prose that explicitly discusses the transition from perek hamocher et hasfinah to the sixth perek.",
+      "chosen_heading": "Perek Intro",
+      "current_heading": "Mishnah Seeds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mishnah Seeds",
+    "candidates": [
+      "Mishnah Seeds",
+      "Flaxseed Question",
+      "Rabban Shimon",
+      "Goring Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself covering both the general rule (seller not liable for unsprouted produce/flaxseed) and Rabban Shimon's exception, and the current placement under 'Mishnah Seeds' directly discusses this exact text with its prose explaining the hamocher peirot case and the flaxseed ruling.",
+      "chosen_heading": "Mishnah Seeds",
+      "current_heading": "Mishnah Seeds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Goring Ox",
+    "candidates": [
+      "Flaxseed Question",
+      "Rabban Shimon",
+      "Goring Ox",
+      "Buyer Identity",
+      "Price Determination",
+      "Price Fluctuation",
+      "Practical Difference",
+      "Money Back Issue",
+      "Cash Requirement",
+      "Payment Mode",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Issur vs Mamona"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form the opening Gemara discussion of the goring ox case \u2014 introducing the Rav/Shmuel dispute and probing its conditions (buyer identity, price paid, price fluctuation, practical difference) \u2014 which is precisely what the 'Goring Ox' section's prose describes.",
+      "chosen_heading": "Goring Ox",
+      "current_heading": "Goring Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Issur vs Mamona",
+    "candidates": [
+      "Buyer Identity",
+      "Price Determination",
+      "Price Fluctuation",
+      "Practical Difference",
+      "Money Back Issue",
+      "Cash Requirement",
+      "Payment Mode",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Issur vs Mamona",
+      "Creditor Presumption",
+      "Tosafot Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks what practical difference exists between Rav and Shmuel's positions when the buyer could simply retain the ox or sell it, which directly matches the 'Practical Difference' section's prose about why the distinction matters if the buyer can recover value by selling to a butcher.",
+      "chosen_heading": "Practical Difference",
+      "current_heading": "Issur vs Mamona",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Tosafot Challenge",
+    "candidates": [
+      "Creditor Presumption",
+      "Tosafot Challenge",
+      "Woman's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the core debate about whether rov applies in monetary matters \u2014 item 1 establishes the case where the seller has funds (setting up the reimbursement scenario), and item 2 presents Rav and Shmuel's explicit dispute about rov in monetary vs. ritual law \u2014 which matches the 'Creditor Presumption' prose that explains Shmuel's position that rov cannot overcome chazakah of possession in monetary matters.",
+      "chosen_heading": "Creditor Presumption",
+      "current_heading": "Tosafot Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Woman's Claim",
+    "candidates": [
+      "Tosafot Challenge",
+      "Woman's Claim",
+      "Proof Methods",
+      "Rov Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic and the objection from the case of a widowed/divorced woman claiming besula status \u2014 are the opening of the challenge discussed under 'Woman's Claim,' which explicitly introduces the meitivei and the kesubah dispute between the woman claiming 200 zuz and the husband claiming she was an almana.",
+      "chosen_heading": "Woman's Claim",
+      "current_heading": "Woman's Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rov Question",
+    "candidates": [
+      "Proof Methods",
+      "Rov Question",
+      "Kol Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's inference that witnesses are required and the question of why rov nashim doesn't suffice, which is precisely what the 'Rov Question' section's prose discusses.",
+      "chosen_heading": "Rov Question",
+      "current_heading": "Rov Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Kol Answer",
+    "candidates": [
+      "Kol Answer",
+      "Kol v'Edim",
+      "Kol Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "All three items form a single continuous chain \u2014 Ravina's answer (item 1), the Gemara's challenge to it (item 2), and the resolution (item 3) \u2014 but while items 1-2 fit well under 'Kol Answer' and 'Kol v'Edim' respectively, item 3 belongs under 'Kol Resolution'; however, since all three items must go under one heading and the current placement captures the opening of this discussion, and splitting would require FORM 2 which is inappropriate for a question-challenge-resolution chain, the current placement is preferred at low confidence given that candidate 2 ('Kol Resolution') is also a strong match for the concluding item.",
+      "chosen_heading": "Kol Answer",
+      "current_heading": "Kol Answer",
+      "moved": false
+    }
+  }
+]

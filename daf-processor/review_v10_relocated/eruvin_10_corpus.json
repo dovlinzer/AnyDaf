@@ -1,0 +1,419 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Small Courtyard Problem",
+    "candidates": [
+      "Small Courtyard Problem",
+      "Rabbi's Two-Plank Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why lavud from one side doesn't suffice to permit carrying in the small courtyard \u2014 exactly the question the prose of 'Small Courtyard Problem' says 'brings us to where we pick up now,' making this the clear home for this Gemara excerpt.",
+      "chosen_heading": "Small Courtyard Problem",
+      "current_heading": "Small Courtyard Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Rabbi's Two-Plank Rule",
+    "candidates": [
+      "Rabbi's Two-Plank Rule",
+      "Dimensions Challenge",
+      "Visibility Proof",
+      "Rav Yosef's Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous argument about Rabbi's two-plank rule and the visibility question, exactly matching the prose of candidate 0 which explicitly discusses all the same content: the baraita about chatzer requiring two planks, Rabbi Yosei's three-tefachim requirement, the hai mai challenge, and the analysis of why the outside-visible/inside-flush lechi question matters for explaining the ten/eleven amot dimensions.",
+      "chosen_heading": "Rabbi's Two-Plank Rule",
+      "current_heading": "Rabbi's Two-Plank Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rav Yosef's Doubt",
+    "candidates": [
+      "Dimensions Challenge",
+      "Visibility Proof",
+      "Rav Yosef's Doubt",
+      "Abaye's Counterargument",
+      "Four-Amah Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement that he did not hear this halakha, explicitly tied to his illness causing him to forget his learning, which matches exactly the prose of candidate 2 ('Rav Yosef's Doubt').",
+      "chosen_heading": "Rav Yosef's Doubt",
+      "current_heading": "Rav Yosef's Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Four-Amah Threshold",
+    "candidates": [
+      "Abaye's Counterargument",
+      "Four-Amah Threshold",
+      "Three Inferences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's response to Rav Yosef ('You yourself told us this') and introduces the Rami bar Abba/Rav Huna teaching, which matches exactly the prose in candidate 0 ('Abaye's Counterargument'), while the current placement under 'Four-Amah Threshold' covers the explanation of that teaching's content rather than its introduction.",
+      "chosen_heading": "Abaye's Counterargument",
+      "current_heading": "Four-Amah Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Three Inferences",
+    "candidates": [
+      "Four-Amah Threshold",
+      "Three Inferences",
+      "Ruling Confirmation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Inferences",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the three inferences (shema mina telat), which is precisely what the 'Three Inferences' prose section discusses in detail.",
+      "second_heading": "Ruling Confirmation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the ve-hilcheta ruling and the tiuvta ve-hilcheta tension, which is exactly what the 'Ruling Confirmation' prose section addresses.",
+      "current_heading": "Three Inferences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Ruling Confirmation",
+    "candidates": [
+      "Ruling Confirmation",
+      "Ten-Amah Limit",
+      "Rabbi Yehuda's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's answer ('Yes, because Rabbi \u1e24iyya taught a baraita in accordance with it') to the tension between the ruling and the contradiction, which is precisely what the 'Ruling Confirmation' section prose discusses.",
+      "chosen_heading": "Ruling Confirmation",
+      "current_heading": "Ruling Confirmation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rabbi Yehuda's Leniency",
+    "candidates": [
+      "Ten-Amah Limit",
+      "Rabbi Yehuda's Leniency",
+      "Pasi Biraot Wells"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 1 ('Rabbi Yehuda's Leniency') describes: Abaye citing the Baraita about wider-than-ten openings, Rabbi Yehuda's dissent, and the opening question about the maximum width \u2014 all of which are the specific content that heading 1's prose addresses.",
+      "chosen_heading": "Rabbi Yehuda's Leniency",
+      "current_heading": "Rabbi Yehuda's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Pasi Biraot Wells",
+    "candidates": [
+      "Pasi Biraot Wells",
+      "Analogy Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present Rav A\u1e25ai's kal va-chomer from pasi biraot to mavoi and then the immediate refutation showing the analogy can be inverted \u2014 exactly what the 'Analogy Rejection' prose describes as the Gemara's two-directional rejection of that very argument.",
+      "chosen_heading": "Analogy Rejection",
+      "current_heading": "Pasi Biraot Wells",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Analogy Rejection",
+    "candidates": [
+      "Pasi Biraot Wells",
+      "Analogy Rejection",
+      "Post Solution Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'alternatively, to the contrary' argument (klal klal lo) that a mavoi should be held to no leniency at all, which is explicitly discussed in the 'Analogy Rejection' prose as the second of the two opposing refutations of the kal va-chomer.",
+      "chosen_heading": "Analogy Rejection",
+      "current_heading": "Analogy Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Post Solution Rejected",
+    "candidates": [
+      "Post Solution Rejected",
+      "Four-Amah Plank"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Levi's baraita about sticking a reed in the center and the rejection of that ruling (ein halacha ke-ota mishna), which matches exactly the 'Post Solution Rejected' prose discussion.",
+      "chosen_heading": "Post Solution Rejected",
+      "current_heading": "Post Solution Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Four-Amah Plank",
+    "candidates": [
+      "Four-Amah Plank",
+      "Air Space Negation",
+      "15-Amah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Shmuel's ruling in the name of Levi about the four-amah lengthwise plank solution, which is precisely what the 'Four-Amah Plank' section's prose discusses in detail.",
+      "chosen_heading": "Four-Amah Plank",
+      "current_heading": "Four-Amah Plank",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "15-Amah Example",
+    "candidates": [
+      "Air Space Negation",
+      "15-Amah Example",
+      "Negation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Yehuda's ruling about the 15-amah mavoi and the Gemara's challenge about splitting the plank across two sides, which is precisely what the '15-Amah Example' prose describes in detail, including the question of why a single three-amah plank is required rather than two one-and-a-half-amah planks flanking the gap.",
+      "chosen_heading": "15-Amah Example",
+      "current_heading": "15-Amah Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Negation Principle",
+    "candidates": [
+      "Negation Principle",
+      "Alternating Walls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Negation Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection explaining the air-negation principle (avira di-hai gisa), which is precisely what the 'Negation Principle' prose discusses \u2014 the case of a plank flanked by air on both sides being negated.",
+      "second_heading": "Alternating Walls",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the alternating-walls suggestion and the inference about omed ke-parutz assur, which is exactly what the 'Alternating Walls' prose describes as its central topic.",
+      "current_heading": "Negation Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Alternating Walls",
+    "candidates": [
+      "Alternating Walls",
+      "Spread-Out Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage says 'le-olam eima lach mutar' and explains that the air on both sides negates the board, which is precisely what the 'Alternating Walls' prose describes as the Gemara's deflection in the one-amah plank scenario.",
+      "chosen_heading": "Alternating Walls",
+      "current_heading": "Alternating Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Spread-Out Walls",
+    "candidates": [
+      "Spread-Out Walls",
+      "Abandonment Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the two-plank arrangement and the Gemara's affirmation that it works but is not required \u2014 exactly what the 'Spread-Out Walls' prose describes with 'innahu hachi nami' and 've-chulei hai lo atrachu rabbanan'.",
+      "chosen_heading": "Spread-Out Walls",
+      "current_heading": "Spread-Out Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Abandonment Fear",
+    "candidates": [
+      "Abandonment Fear",
+      "Strong Presumption",
+      "Not a Shortcut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the concern about abandoning the larger entrance AND Rav Adda's response in a single unit, and candidate 0's prose correctly frames both elements as part of one conceptual discussion about whether practical behavior might undermine the halachic construct.",
+      "chosen_heading": "Abandonment Fear",
+      "current_heading": "Abandonment Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Not a Shortcut",
+    "candidates": [
+      "Strong Presumption",
+      "Not a Shortcut",
+      "Toilet Seat Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge from Rabbi Ami and Rabbi Asi's ruling and the Gemara's distinction about shortcuts \u2014 are precisely what the 'Not a Shortcut' prose describes (hasam ka-mamit locha / hacha lo ka-mamit locha), making this the correct placement.",
+      "chosen_heading": "Not a Shortcut",
+      "current_heading": "Not a Shortcut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Toilet Seat Setup",
+    "candidates": [
+      "Toilet Seat Setup",
+      "Rav Dimi's Measure",
+      "Ravin's Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the leather toilet seat (or ha-atzla) and its hole combining to form a tefach, which is precisely what the 'Toilet Seat Setup' prose describes.",
+      "chosen_heading": "Toilet Seat Setup",
+      "current_heading": "Toilet Seat Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Ravin's Measure",
+    "candidates": [
+      "Rav Dimi's Measure",
+      "Ravin's Measure",
+      "Abaye's Challenge",
+      "Combining Sides Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Dimi's and Ravin's statements together as a single Gemara unit, and belongs under the first heading ('Rav Dimi's Measure') which introduces the question and Rav Dimi's answer, with Ravin's answer as the natural continuation \u2014 the current placement under 'Ravin's Measure' splits what is a single continuous Gemara exchange.",
+      "chosen_heading": "Rav Dimi's Measure",
+      "current_heading": "Ravin's Measure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Combining Sides Debate",
+    "candidates": [
+      "Abaye's Challenge",
+      "Combining Sides Debate",
+      "Dimi Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye asking Rav Dimi whether he and Ravin disagree and Rav Dimi's initial 'no' response about large vs. small fingers \u2014 this is precisely the content described in the 'Abaye's Challenge' prose, which explicitly quotes 'mi peligi,' 'lo,' and 'ha be-ravrvata, ha be-zutrata.'",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Combining Sides Debate",
+      "moved": true
+    }
+  }
+]

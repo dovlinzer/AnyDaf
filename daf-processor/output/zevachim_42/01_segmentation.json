@@ -29,7 +29,7 @@
           "timestamp": "03:50"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -82,7 +82,7 @@
           "timestamp": "19:06"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -106,7 +106,7 @@
           "timestamp": "35:21"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -1178,5 +1178,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "23:56",
+  "amud_b_micro_title": "Bracketing Problem",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "a"
 }

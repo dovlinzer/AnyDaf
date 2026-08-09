@@ -1,0 +1,486 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Baraita: Sanctify Yovel",
+    "candidates": [
+      "Masechet Overview",
+      "Hakdashot Structure",
+      "Mishna: Sanctify Fields",
+      "Baraita: Sanctify Yovel",
+      "Rav's Hermeneutic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's challenge to Rav from the baraita and the subsequent inference about girua, which is precisely what candidate 3 ('Baraita: Sanctify Yovel') discusses in its prose.",
+      "chosen_heading": "Baraita: Sanctify Yovel",
+      "current_heading": "Baraita: Sanctify Yovel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav's Hermeneutic",
+    "candidates": [
+      "Rav's Hermeneutic",
+      "Years Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav's argument that he follows Rebbi's hermeneutic of inclusive endpoints (rishon bikhlal, shevi'i bikhlal) to include the Jubilee Year itself, which is precisely what the 'Rav's Hermeneutic' section prose describes.",
+      "chosen_heading": "Rav's Hermeneutic",
+      "current_heading": "Rav's Hermeneutic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Years Calculation",
+    "candidates": [
+      "Years Calculation",
+      "Yovel as Year One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why the pundeyon exists if Rav holds like Rabbi Yehuda HaNasi (i.e., yovel is included making 50 years), which is precisely the arithmetic question raised in the 'Years Calculation' prose section.",
+      "chosen_heading": "Years Calculation",
+      "current_heading": "Years Calculation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Yovel as Year One",
+    "candidates": [
+      "Yovel as Year One",
+      "Baraita: Full Year Units"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the precise question of whether Rebbi holds like Rabbi Yehuda or the Rabbanan regarding the fiftieth year counting as year one, and the consequences for Shmuel's position \u2014 exactly what the 'Yovel as Year One' prose covers in detail.",
+      "chosen_heading": "Yovel as Year One",
+      "current_heading": "Yovel as Year One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Baraita: Full Year Units",
+    "candidates": [
+      "Baraita: Full Year Units",
+      "Full Years Rounding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the challenge from the mishna about redeeming less than a year after Jubilee and the opening of the gemara's response, which is precisely what candidate 0's prose discusses (the Ta shema, the Shmuel/Rav contrast, and the mi savar achar yovel mamash rejection of the literal reading).",
+      "chosen_heading": "Baraita: Full Year Units",
+      "current_heading": "Baraita: Full Year Units",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Full Years Rounding",
+    "candidates": [
+      "Full Years Rounding",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the rule that fractional years are rounded up (not deducted), which matches the 'Full Years Rounding' prose about whole-year calculations benefiting hekdesh.",
+      "chosen_heading": "Full Years Rounding",
+      "current_heading": "Full Years Rounding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "Verse Source",
+      "Months Hekdesh Rounding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about what the tanna is teaching (mah mashma lan) and the answer that it employs 'mah ta'am' style to explain why one cannot redeem with less than a year \u2014 exactly what Candidate 0's prose describes.",
+      "chosen_heading": "Verse Source",
+      "current_heading": "Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Months Hekdesh Rounding",
+    "candidates": [
+      "Months Hekdesh Rounding",
+      "Chomer Barley Seed",
+      "Crevices & Rocks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about counting months vs. years with hekdesh, including the case of consecrating in the middle of the 48th year and the priest's discretion to round \u2014 exactly the content described in the 'Months Hekdesh Rounding' prose.",
+      "chosen_heading": "Months Hekdesh Rounding",
+      "current_heading": "Months Hekdesh Rounding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Crevices & Rocks",
+    "candidates": [
+      "Chomer Barley Seed",
+      "Crevices & Rocks",
+      "Seed vs Harvest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chomer Barley Seed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna introducing the basic fifty-shekel rate for a chomer of barley seed, which matches heading 0's prose about the standard fifty-shekel valuation per chomer seorim.",
+      "second_heading": "Crevices & Rocks",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the crevices/boulders exclusion threshold and the sela-upundyon-per-year calculation for fields consecrated before Yovel, which is exactly what heading 1's prose discusses in detail.",
+      "current_heading": "Crevices & Rocks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Seed vs Harvest",
+    "candidates": [
+      "Seed vs Harvest",
+      "Why Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses kor zera vs kor tevuah and mapolet yad vs mapolet shevarim, which is precisely what the 'Seed vs Harvest' section's prose is analyzing in detail.",
+      "chosen_heading": "Seed vs Harvest",
+      "current_heading": "Seed vs Harvest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Why Excluded",
+    "candidates": [
+      "Why Excluded",
+      "Deduction Always"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss why crevices and rocks are excluded from field measurement \u2014 the suggestion to consecrate them separately, the baraita about minimum field size, Mar Ukva bar \u1e24ama's answer about water-filled crevices, and the question about shallow crevices \u2014 exactly matching the 'Why Excluded' prose.",
+      "chosen_heading": "Why Excluded",
+      "current_heading": "Why Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Deduction Always",
+    "candidates": [
+      "Deduction Always",
+      "No Payment Plans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly introduce and state the baraita about deducting years that elapsed while the field was in hekdesh's possession, which is precisely what the 'Deduction Always' prose describes.",
+      "chosen_heading": "Deduction Always",
+      "current_heading": "Deduction Always",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "No Payment Plans",
+    "candidates": [
+      "No Payment Plans",
+      "Fifth for Owners",
+      "Owner Redeems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition against installment payments (paying year by year) and derives from the verse that the full sum must be paid at once, which is exactly what the 'No Payment Plans' section's prose describes, including the same baraita derivation from 'vechishev lo hakohen et kesef.'",
+      "chosen_heading": "No Payment Plans",
+      "current_heading": "No Payment Plans",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Owner Redeems",
+    "candidates": [
+      "Fifth for Owners",
+      "Owner Redeems",
+      "Son Redeems",
+      "Other Redeems",
+      "Priest Redeems",
+      "Not to Son Exception",
+      "Brother Continuity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Priest Redeems",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 are the Mishna covering the son/other/priest redemption cases, which the prose of heading 4 ('Priest Redeems') explicitly discusses, including the priest's inability to claim the field for himself and the division among all kohanim.",
+      "second_heading": "Not to Son Exception",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20135 are the Gemara baraita analyzing 'to another man but not the son,' which matches heading 5 ('Not to Son Exception') exactly, including the question of whether 'another' excludes the son or the brother.",
+      "current_heading": "Owner Redeems",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Brother Continuity",
+    "candidates": [
+      "Son Redeems",
+      "Other Redeems",
+      "Priest Redeems",
+      "Not to Son Exception",
+      "Brother Continuity",
+      "Son Higher Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita's argument about whether the brother's yibbum-based continuity earns him the same status as the son, which is precisely what the 'Brother Continuity' prose section describes.",
+      "chosen_heading": "Brother Continuity",
+      "current_heading": "Brother Continuity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Son Higher Status",
+    "candidates": [
+      "Son Higher Status",
+      "Daughter Preserves Field",
+      "Daughter Yibbum Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the 'two against one' question and its circular-reasoning response, which the prose of 'Son Higher Status' explicitly describes in detail, making the current placement correct.",
+      "chosen_heading": "Son Higher Status",
+      "current_heading": "Son Higher Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Daughter Yibbum Status",
+    "candidates": [
+      "Daughter Preserves Field",
+      "Daughter Yibbum Status",
+      "Daughter as Other"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma raised by Rabba bar Avuh about whether a daughter preserves the field for her father, which matches heading 0's prose exactly, while headings 1 and 2 discuss the two sides of the dilemma separately \u2014 content that follows this opening question.",
+      "chosen_heading": "Daughter Preserves Field",
+      "current_heading": "Daughter Yibbum Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Daughter as Other",
+    "candidates": [
+      "Daughter Yibbum Status",
+      "Daughter as Other",
+      "Woman's Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita cited ('kol shehu acher bimkom ben') directly supports the 'Daughter as Other' section's prose, which explicitly quotes and discusses this exact baraita to establish that a daughter is considered 'other' relative to a son in the inheritance hierarchy.",
+      "chosen_heading": "Daughter as Other",
+      "current_heading": "Daughter as Other",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Woman's Sanctification",
+    "candidates": [
+      "Woman's Sanctification",
+      "Husband vs Son: Field",
+      "Within Two Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Zeira's dilemma about which heir (husband or son) preserves a woman's field, which matches the prose of heading 0 that explicitly discusses this exact question with both candidates and their reasoning, while heading 1's prose merely states the resolution (teiku) as a follow-up conclusion.",
+      "chosen_heading": "Woman's Sanctification",
+      "current_heading": "Woman's Sanctification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Within Two Years",
+    "candidates": [
+      "Husband vs Son: Field",
+      "Within Two Years",
+      "Redeemable to Priests"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Within Two Years",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rami bar \u1e24ama's dilemma about a field consecrated less than two years before the Jubilee, which is precisely what heading 1 ('Within Two Years') describes.",
+      "second_heading": "Redeemable to Priests",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav \u1e24isda's response analyzing the 'venigra me'erkecha' verse and the 'debat girayon' reasoning, which matches exactly what heading 2 ('Redeemable to Priests') describes in its prose.",
+      "current_heading": "Within Two Years",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Redeemable to Priests",
+    "candidates": [
+      "Redeemable to Priests",
+      "Priest Possession Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's 'adaraba' response establishing that eligibility for redemption (not deduction) is the criterion for priestly transfer, which is precisely what the 'Redeemable to Priests' section's prose discusses.",
+      "chosen_heading": "Redeemable to Priests",
+      "current_heading": "Redeemable to Priests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Priest Possession Rule",
+    "candidates": [
+      "Priest Possession Rule",
+      "Inheritance Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about the priest who redeemed the field and the question of why the verse is needed, which matches the 'Priest Possession Rule' prose that directly addresses this case, while 'Inheritance Principle' covers the subsequent reasoning about *achuzato* that follows this introductory question.",
+      "chosen_heading": "Priest Possession Rule",
+      "current_heading": "Priest Possession Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Inheritance Principle",
+    "candidates": [
+      "Inheritance Principle",
+      "Next: Nobody Redeems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact baraita quoted and explained in the 'Inheritance Principle' prose \u2014 the logical inference (item 1) and its Torah-based refutation via 'achuzato' (item 2) are precisely what that section's prose describes.",
+      "chosen_heading": "Inheritance Principle",
+      "current_heading": "Inheritance Principle",
+      "moved": false
+    }
+  }
+]

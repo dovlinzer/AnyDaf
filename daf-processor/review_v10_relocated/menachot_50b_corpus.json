@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Chinuch vs Kiddush",
+    "candidates": [
+      "Three Inaugurations",
+      "Chinuch vs Kiddush",
+      "Menora Lighting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of whether the Shabbat requirement applies only to chinuch (inauguration) but not kiddush (sanctification), which is precisely what the 'Chinuch vs Kiddush' section's prose discusses.",
+      "chosen_heading": "Chinuch vs Kiddush",
+      "current_heading": "Chinuch vs Kiddush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Menora Lighting",
+    "candidates": [
+      "Menora Lighting",
+      "Individual Ketoret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the chinuch and kiddush of the shulchan occurring on Shabbat, using the menora's afternoon lighting as the parallel proof \u2014 exactly the content the 'Menora Lighting' prose section is discussing.",
+      "chosen_heading": "Menora Lighting",
+      "current_heading": "Menora Lighting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Individual Ketoret",
+    "candidates": [
+      "Individual Ketoret",
+      "Voluntary Ketoret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about incense offered by an individual on the external altar as a provisional edict, identified as referring to the tribal princes \u2014 which is exactly what the 'Individual Ketoret' prose describes.",
+      "chosen_heading": "Individual Ketoret",
+      "current_heading": "Individual Ketoret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Voluntary Ketoret",
+    "candidates": [
+      "Voluntary Ketoret",
+      "Ketoret Zarah",
+      "Klal Ufrat Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about whether an individual or community may bring voluntary ketoret on the inner or outer altar, which matches precisely the 'Voluntary Ketoret' section's prose about parsing implications regarding nedavah and the prohibition of ketoret zarah on the inner altar.",
+      "chosen_heading": "Voluntary Ketoret",
+      "current_heading": "Voluntary Ketoret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Klal Ufrat Analysis",
+    "candidates": [
+      "Ketoret Zarah",
+      "Klal Ufrat Analysis",
+      "Final Ketoret Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the question of whether ketoret may be brought on the outer altar (mizbe'ach hachitzon), which matches heading 0's prose discussion of that exact question, and the baraita's answer (ein lecha ela mah she'amur be'inyan) serves as the resolution to the outer altar question raised in heading 0, not as an illustration of klal uferat methodology.",
+      "chosen_heading": "Ketoret Zarah",
+      "current_heading": "Klal Ufrat Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Final Ketoret Rule",
+    "candidates": [
+      "Klal Ufrat Analysis",
+      "Final Ketoret Rule",
+      "Chavitin Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage from Rav Pappa directly presents the 'lo mibaya' logic about tzibbur/yachid and inner/outer altar with the hora'at sha'ah conclusion, which is precisely what the 'Final Ketoret Rule' prose describes.",
+      "chosen_heading": "Final Ketoret Rule",
+      "current_heading": "Final Ketoret Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Chavitin Intro",
+    "candidates": [
+      "Chavitin Intro",
+      "Whole Unit",
+      "Priest Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself stating that the chavitin do not come in halves but are brought as a complete isaron and divided, which is exactly what the 'Chavitin Intro' prose introduces and quotes.",
+      "chosen_heading": "Chavitin Intro",
+      "current_heading": "Chavitin Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Priest Death",
+    "candidates": [
+      "Whole Unit",
+      "Priest Death",
+      "Two Halves Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a continuous baraita discussing the 'whole unit' principle applied to the specific case of a Kohen Gadol dying mid-day, which is precisely what heading 1 ('Priest Death') discusses \u2014 the replacement priest's obligation to bring a new complete isaron resulting in two halves offered and two halves lost.",
+      "chosen_heading": "Priest Death",
+      "current_heading": "Priest Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Two Halves Lost",
+    "candidates": [
+      "Two Halves Lost",
+      "Overnight Spoilage",
+      "Second Half Question",
+      "Pigul Comparison",
+      "Rashi's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Halves Lost",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita ruling that both halves must undergo ibur tzurah before burning, which is precisely what candidate 0's prose discusses as its concluding point.",
+      "second_heading": "Second Half Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's question about why the second half needs overnight treatment when it was destined to be lost from the outset, which is exactly what candidate 2's prose describes.",
+      "current_heading": "Two Halves Lost",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rashi's View",
+    "candidates": [
+      "Overnight Spoilage",
+      "Second Half Question",
+      "Pigul Comparison",
+      "Rashi's View",
+      "Order Challenge",
+      "Visual Demo",
+      "Frying vs Baking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items belong under 'Rashi's View': Item 1 presents Rav Nachman's answer invoking the school of Rabbah bar Avuha (the piggul comparison), and Item 2 is Rav Ashi's alternative explanation \u2014 that even according to the Rabbis, both halves were potential candidates for the mizbe'ach \u2014 which is precisely the reasoning the prose under heading 3 describes as Rashi's rationale.",
+      "chosen_heading": "Rashi's View",
+      "current_heading": "Rashi's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Frying vs Baking",
+    "candidates": [
+      "Order Challenge",
+      "Visual Demo",
+      "Frying vs Baking",
+      "Inside Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the amoraic dispute about baking vs. frying order, the wordplay arguments for each position, and the parallel tannaitic baraita \u2014 are precisely the content described in the 'Frying vs Baking' prose section, which explicitly covers Rabbi Chiyya/Rabbi Yochanan vs. Rabbi Assi/Rabbi Chanina, the na'eh/na readings, and the Tanna Kamma/Rabbi/Rabbi Yose tannaitic parallels.",
+      "chosen_heading": "Frying vs Baking",
+      "current_heading": "Frying vs Baking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Inside Requirement",
+    "candidates": [
+      "Inside Requirement",
+      "Freshness Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the High Priest's griddle-cake kneading, forming, and baking must be done inside the Temple courtyard and override Shabbat, which matches the 'Inside Requirement' prose exactly.",
+      "chosen_heading": "Inside Requirement",
+      "current_heading": "Inside Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Freshness Rule",
+    "candidates": [
+      "Freshness Rule",
+      "Preservation Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna's derivation from 'tufinei' about freshness and Rav Yosef's objection about covering with greens \u2014 both elements are explicitly discussed in the 'Freshness Rule' prose, which covers Rav Huna's derivation and notes Rav Yosef's challenge, whereas 'Preservation Method' prose discusses Rav Yosef's challenge as its opening move, suggesting the passage belongs under the heading that introduces the freshness derivation first.",
+      "chosen_heading": "Freshness Rule",
+      "current_heading": "Freshness Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Preservation Method",
+    "candidates": [
+      "Preservation Method",
+      "Comparison Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the school of Rabbi Yishmael's derivation from 'te'aseh' that the chavitin must be made even on Shabbat and even in tumah, which is exactly the Gemara's response discussed in the 'Preservation Method' prose.",
+      "chosen_heading": "Preservation Method",
+      "current_heading": "Preservation Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Comparison Setup",
+    "candidates": [
+      "Comparison Setup",
+      "Tamid Approach",
+      "Proportionality",
+      "Contradiction",
+      "Bahsemen Logic"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Bahsemen Logic",
+    "candidates": [
+      "Tamid Approach",
+      "Proportionality",
+      "Contradiction",
+      "Bahsemen Logic",
+      "Rava Reconciles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the logic of 'bashemen' \u2014 whether it adds extra oil (beyond what 'al machavat' implies) or merely establishes that oil must be used at all (lest one think it is like a dry offering) \u2014 which is precisely what the 'Bahsemen Logic' prose describes as Rabbi Shimon's internal reasoning before concluding that bashemen signals a generous quantity.",
+      "chosen_heading": "Bahsemen Logic",
+      "current_heading": "Bahsemen Logic",
+      "moved": false
+    }
+  }
+]

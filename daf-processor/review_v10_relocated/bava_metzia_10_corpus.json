@@ -1,0 +1,387 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Two Positions",
+    "candidates": [
+      "Migo Principle",
+      "Tofes L'Baal Chov",
+      "Mishnah Interpretation",
+      "Techila in Seifa",
+      "Two Positions",
+      "Rav Nachman Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items discuss the word 'techila' in the seifa and how it illuminates the reisha \u2014 exactly what candidate 3 ('Techila in Seifa') describes in its prose, including the gemara's question 'techila b'seifa l'ma li' and the answer 'tana seifa l'gluyei reisha,' with item 3 then presenting Rav Nachman's counter-reading of that same phrase.",
+      "chosen_heading": "Techila in Seifa",
+      "current_heading": "Two Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rav Nachman Position",
+    "candidates": [
+      "Two Positions",
+      "Rav Nachman Position",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the explicit ruling of Rav Nachman and Rav Chisda that magbiya metzia l'chaveiro lo kanah chaveiro, along with the tofes l'baal chov reasoning, which is precisely what the 'Rav Nachman Position' prose section describes.",
+      "chosen_heading": "Rav Nachman Position",
+      "current_heading": "Rav Nachman Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rava's Challenge",
+      "Task Distinction",
+      "Po'el Extension",
+      "Breaking Contract"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's objection to Rav Na\u1e25man \u2014 the baraita citation plus its qualifying distinction \u2014 which is precisely what heading 0 ('Rava's Challenge') describes: the challenge from the baraita about metzi'as po'el and the condition under which the found item belongs to the employer, contradicting Rav Na\u1e25man's principle.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Breaking Contract",
+    "candidates": [
+      "Task Distinction",
+      "Po'el Extension",
+      "Breaking Contract",
+      "Ki Li Bnei Yisrael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states 'his hand is like the hand of the employer,' which is the core principle discussed in the 'Po'el Extension' section's prose, not the 'Breaking Contract' section which addresses the challenge to that principle.",
+      "chosen_heading": "Po'el Extension",
+      "current_heading": "Breaking Contract",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Ki Li Bnei Yisrael",
+    "candidates": [
+      "Breaking Contract",
+      "Ki Li Bnei Yisrael",
+      "Rabbi Chiya Position",
+      "Delivery vs Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge (Rav's ruling that a laborer can quit midday) and its resolution (as long as he hasn't quit he is like the employer's hand; when he does quit it's for the 'ki li bnei Yisrael' reason), which is precisely what the 'Breaking Contract' prose describes as a unit.",
+      "chosen_heading": "Breaking Contract",
+      "current_heading": "Ki Li Bnei Yisrael",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Delivery vs Possession",
+    "candidates": [
+      "Rabbi Chiya Position",
+      "Delivery vs Possession",
+      "Tosafot Nuance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Chiyya bar Abba's core position (kanah chaveiro) and his explanation of the Mishnah, which directly matches the prose of 'Rabbi Chiya Position' rather than 'Delivery vs Possession' which discusses the detailed implications of that explanation.",
+      "chosen_heading": "Rabbi Chiya Position",
+      "current_heading": "Delivery vs Possession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Tosafot Nuance",
+    "candidates": [
+      "Delivery vs Possession",
+      "Tosafot Nuance",
+      "Falling Not Kinyan",
+      "Arba Amot Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna about seeing a found object, falling upon it, and another person seizing it is directly discussed in the 'Falling Not Kinyan' prose section, which explicitly describes this same scenario (ra'ah metziah venafal aleha) and its ruling.",
+      "chosen_heading": "Falling Not Kinyan",
+      "current_heading": "Tosafot Nuance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Arba Amot Principle",
+    "candidates": [
+      "Falling Not Kinyan",
+      "Arba Amot Principle",
+      "Taknat Rabanan",
+      "Pe'ah Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Reish Lakish/Abba Kohen Bardela statement about four cubits acquiring on a person's behalf, explains the rabbinic rationale to prevent quarreling, and notes the objections from Pe'a and Nezikin \u2014 all of which is precisely what the 'Arba Amot Principle' prose describes as the content of that section.",
+      "chosen_heading": "Arba Amot Principle",
+      "current_heading": "Arba Amot Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Pe'ah Challenge",
+    "candidates": [
+      "Taknat Rabanan",
+      "Pe'ah Challenge",
+      "Girsa Question",
+      "Gali Da'atei",
+      "Falling Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Abaye/Rabbi \u1e24iyya bar Yosef objection from the Pe'a mishna, which is precisely what the 'Pe'ah Challenge' section's prose describes and analyzes.",
+      "chosen_heading": "Pe'ah Challenge",
+      "current_heading": "Pe'ah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Falling Intent",
+    "candidates": [
+      "Girsa Question",
+      "Gali Da'atei",
+      "Falling Intent",
+      "Moral Not Rasha",
+      "Rav Papa Field",
+      "Owner Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the dialectical sequence described in heading 0 ('Girsa Question'): the challenge that arba amot should acquire automatically, the answer that he didn't say 'akni,' the counter that if Rabbis instituted it why should that matter, and the response about gali da'ateih \u2014 all of which that prose explicitly narrates, whereas heading 1 ('Gali Da'atei') covers only the final answer and heading 2 ('Falling Intent') is the essay's elaboration after the fact.",
+      "chosen_heading": "Girsa Question",
+      "current_heading": "Falling Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Owner Override",
+    "candidates": [
+      "Moral Not Rasha",
+      "Rav Papa Field",
+      "Owner Override",
+      "Rav Sheshes Simta",
+      "Dachki Rabbim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Papa Field",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's answer about the owner's field, which belongs under 'Rav Papa Field'/'Owner Override' \u2014 but since 'Owner Override' (index 2) is the current placement and its prose explicitly discusses the Rav Pappa content (arba amot as chatzer, the owner's field overriding the ani's claim, the Torah granting entry but not territorial claim), item 1 fits best there.",
+      "second_heading": "Rav Sheshes Simta",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form a continuous chain: the objection from the fell-upon metzia mishna (item 2), its resolution about not saying 'I will acquire' (item 3), and Rav Sheshes' simta limitation (item 4) \u2014 items 3-4 belong under 'Rav Sheshes Simta'/'Dachki Rabbim', and item 2 is the challenge that precedes Rav Sheshes' answer, making them one continuous unit under index 3.",
+      "current_heading": "Owner Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Dachki Rabbim",
+    "candidates": [
+      "Rav Sheshes Simta",
+      "Dachki Rabbim",
+      "Ketana Question",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the question-and-answer about 'bechol makom' (everywhere) and its reconciliation via 'tziddei reshus harabbim,' which candidate 1's prose explicitly describes as the gemara's resolution of the tension between the original statement and the limitations of Rav Papa and Rav Sheshes.",
+      "chosen_heading": "Dachki Rabbim",
+      "current_heading": "Dachki Rabbim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Ketana Question",
+      "Reish Lakish",
+      "Rabbi Yochanan",
+      "Yad vs Shlichut",
+      "Chatzer as Hand",
+      "Chatzer Agency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's and Rabbi Yochanan's rulings together as a unit, and candidate 0 ('Ketana Question') is the introductory section that frames the entire dispute before splitting into separate headings \u2014 the combined quotation belongs under the introduction rather than under only one side of the debate.",
+      "chosen_heading": "Ketana Question",
+      "current_heading": "Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Chatzer Agency",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Yad vs Shlichut",
+      "Chatzer as Hand",
+      "Chatzer Agency",
+      "Chatzer Crime",
+      "Gneivah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'with regard to what do they disagree?' and then explains both positions (yad and shlichut) as competing frameworks, making it a natural introduction to the dispute that belongs under 'Yad vs Shlichut' rather than under 'Chatzer Agency' which covers only the shlichut side.",
+      "chosen_heading": "Yad vs Shlichut",
+      "current_heading": "Chatzer Agency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Gneivah Proof",
+    "candidates": [
+      "Chatzer Crime",
+      "Gneivah Proof",
+      "Ravina Answer",
+      "Moral Choice",
+      "Chatzer Inanimate",
+      "Woman Slave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous chain \u2014 the baraita proof that chatzer creates gneivah liability, the challenge that this implies ein shaliach l'dvar aveirah should negate that liability, and Ravina's resolution \u2014 and this entire discussion matches heading 0 ('Chatzer Crime'), whose prose explicitly sets up the problem of ein shaliach l'dvar aveirah as applied to chatzer, which is precisely what these items address.",
+      "chosen_heading": "Chatzer Crime",
+      "current_heading": "Gneivah Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Woman Slave",
+    "candidates": [
+      "Ravina Answer",
+      "Moral Choice",
+      "Chatzer Inanimate",
+      "Woman Slave",
+      "Rava Better",
+      "Ba'al Korchah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items form a continuous question-and-answer unit about the woman/slave case, which is precisely what the 'Woman Slave' prose describes \u2014 the gemara's challenge about ishah ve-eved and the response that they are benei chiyuva who simply lack current assets to pay.",
+      "chosen_heading": "Woman Slave",
+      "current_heading": "Woman Slave",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Ba'al Korchah",
+    "candidates": [
+      "Rava Better",
+      "Ba'al Korchah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Samma's formulation of the 'ein shaliach l'dvar aveirah' principle based on free choice (i ba'ei avid, i ba'ei lo avid), which directly matches the 'Rava Better' section's prose discussing exactly this distinction \u2014 the capacity for free choice as the criterion \u2014 rather than the 'Ba'al Korchah' section which discusses the consequence for chatzer.",
+      "chosen_heading": "Rava Better",
+      "current_heading": "Ba'al Korchah",
+      "moved": true
+    }
+  }
+]

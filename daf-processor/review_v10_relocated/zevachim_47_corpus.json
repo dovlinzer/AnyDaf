@@ -1,0 +1,291 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rebbe Yose Introduction",
+    "candidates": [
+      "Rebbe Yose Introduction",
+      "Rabbi Eliezer Opinion",
+      "Machshava Follows Oved",
+      "Shechita vs. Dam",
+      "Rava's Source Hikriv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text of Rabbi Yosei's ruling about tnai beis din and machshava following the oved, which is exactly what the 'Rebbe Yose Introduction' prose describes as the final line of the mishnah being examined.",
+      "chosen_heading": "Rebbe Yose Introduction",
+      "current_heading": "Rebbe Yose Introduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rava's Source Hikriv",
+    "candidates": [
+      "Rabbi Eliezer Opinion",
+      "Machshava Follows Oved",
+      "Shechita vs. Dam",
+      "Rava's Source Hikriv",
+      "Rashi on Makriv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "low",
+      "reason": "None of the candidate headings closely match this passage's content about proper sacrificial intent derived from Leviticus 1:9 and the laws of a sin offering slaughtered with wrong intent, but the current placement discussing machshava in sacrificial context is as close as any candidate.",
+      "chosen_heading": "Rava's Source Hikriv",
+      "current_heading": "Rava's Source Hikriv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rashi on Makriv",
+    "candidates": [
+      "Rashi on Makriv",
+      "Three Tannaim Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara text that Rashi's commentary (discussed in candidate 0's prose) interprets \u2014 specifically the derivation from 'hikriv hamakriv' and Rabbi Elazar ben Rabbi Yosei's opinion that owners can create piggul, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Rashi on Makriv",
+      "current_heading": "Rashi on Makriv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Three Tannaim Intro",
+    "candidates": [
+      "Three Tannaim Intro",
+      "Rabbi Eliezer Position",
+      "Shechita Avodas Kochavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Abaye's statement identifying all three Tannaim who share the principle that one person's intention combined with another's action constitutes halachically significant thought, which matches the 'Three Tannaim Intro' prose exactly; the explanation of Rabbi Elazar ben Rabbi Yosei's specific case is just the tail end of that introductory statement, not yet the full elaboration found in candidate 1.",
+      "chosen_heading": "Three Tannaim Intro",
+      "current_heading": "Three Tannaim Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Shechita Avodas Kochavim",
+    "candidates": [
+      "Rabbi Eliezer Position",
+      "Shechita Avodas Kochavim",
+      "Shabbos Crumbs Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the exact mishna about one who slaughters on behalf of a gentile with Rabbi Eliezer deeming it unfit, which corresponds precisely to the 'Shechita Avodas Kochavim' section's prose describing that same mishnah and ruling.",
+      "chosen_heading": "Shechita Avodas Kochavim",
+      "current_heading": "Shechita Avodas Kochavim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Shabbos Crumbs Case",
+    "candidates": [
+      "Shabbos Crumbs Case",
+      "Gemara Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon ben Elazar's principle about storing items and liability through another's thought, which is precisely the content described in the 'Shabbos Crumbs Case' prose section.",
+      "chosen_heading": "Shabbos Crumbs Case",
+      "current_heading": "Shabbos Crumbs Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Gemara Hierarchy",
+    "candidates": [
+      "Gemara Hierarchy",
+      "Pigul & Beis Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the hierarchical relationship between Rabbi Eliezer/Rabbi Shimon ben Elazar and Rabbi Elazar son of Rabbi Yosei regarding inside vs. outside the Temple, which is precisely what the 'Gemara Hierarchy' prose describes with the exact same arguments (hashta bechutz amrinan/bifnim mibaya and dilma bifnim hu de'amrinan bechutz lo amrinan).",
+      "chosen_heading": "Gemara Hierarchy",
+      "current_heading": "Gemara Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Pigul & Beis Mikdash",
+    "candidates": [
+      "Pigul & Beis Mikdash",
+      "Melechet Machsheves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon ben Elazar accepting Rabbi Eliezer's ruling and the kal vachomer from Shabbat to avodah zarah, which is precisely what the 'Pigul & Beis Mikdash' prose explains in its discussion of the hierarchy between these two sages' positions.",
+      "chosen_heading": "Pigul & Beis Mikdash",
+      "current_heading": "Pigul & Beis Mikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Melechet Machsheves",
+    "candidates": [
+      "Melechet Machsheves",
+      "Perek Five Overview",
+      "North Slaughter Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses how Rabbi Eliezer need not accept Rabbi Shimon ben Elazar's ruling for Shabbat because 'meleches machsheves asra Torah,' which is precisely the principle the prose under heading 0 analyzes in detail.",
+      "chosen_heading": "Melechet Machsheves",
+      "current_heading": "Melechet Machsheves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "North Slaughter Rule",
+    "candidates": [
+      "Perek Five Overview",
+      "North Slaughter Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The 'Hadaran' formula marks the end/completion of a perek, making it a closing statement that belongs under the Perek Five Overview section rather than the North Slaughter Rule content section.",
+      "chosen_heading": "Perek Five Overview",
+      "current_heading": "North Slaughter Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "North Slaughter Rule",
+    "candidates": [
+      "North Slaughter Rule",
+      "Yom Kippur Par Se'ir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna stating the general rule that kodshei kodashim are slaughtered in the north, which matches exactly what the 'North Slaughter Rule' prose describes as the overarching rule uniting all kodshei kodashim.",
+      "chosen_heading": "North Slaughter Rule",
+      "current_heading": "North Slaughter Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Yom Kippur Par Se'ir",
+    "candidates": [
+      "Yom Kippur Par Se'ir",
+      "Parim Nisrafim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the bull and goat of Yom Kippur specifically, matching exactly the 'Yom Kippur Par Se'ir' section prose which discusses these same offerings, their northern slaughter, blood sprinklings in three places, and the non-disqualifying nature of omitting the shirayim.",
+      "chosen_heading": "Yom Kippur Par Se'ir",
+      "current_heading": "Yom Kippur Par Se'ir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Parim Nisrafim",
+    "candidates": [
+      "Parim Nisrafim",
+      "Kibbul Dam Question",
+      "Asham Metzora Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text about parim ha-nisrafim u-se'irim ha-nisrafim \u2014 their slaughter in the north, blood sprinkling on the parochet and golden altar, the disqualifying effect of omitting one application, pouring the remainder on the western base, and burning in the beis ha-deshen \u2014 which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Parim Nisrafim",
+      "current_heading": "Parim Nisrafim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Asham Metzora Exception",
+    "candidates": [
+      "Kibbul Dam Question",
+      "Asham Metzora Exception",
+      "Two Kohanim Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single Q&A chain about why the mishna omitted the kli sharet rule from its general statement \u2014 the question (item 1), the challenge from the later mishna (item 2), and the resolution (item 3) \u2014 which precisely matches the prose of 'Kibbul Dam Question' asking why the umbrella statement omitted the kli sharet rule, rather than 'Asham Metzora Exception' which discusses the braisa about two kohanim.",
+      "chosen_heading": "Kibbul Dam Question",
+      "current_heading": "Asham Metzora Exception",
+      "moved": true
+    }
+  }
+]

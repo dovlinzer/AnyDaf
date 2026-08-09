@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "R. Akiva's View",
+      "R. Yishmael Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's derivation from the doubled 'vene'elam' expression, which is precisely what Candidate 1 ('R. Akiva's View') discusses, not the general Mishnah setup of Candidate 0.",
+      "chosen_heading": "R. Akiva's View",
+      "current_heading": "Mishnah Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "R. Yishmael Challenge",
+    "candidates": [
+      "R. Akiva's View",
+      "R. Yishmael Challenge",
+      "Rava's Sotah Proof",
+      "Sotah Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yehuda HaNasi's argument (paralleling Rabbi Yishmael's approach) that vene'elam implies prior knowledge by inference, and that the second vene'elam creates liability for he'elam tumah and he'elam mikdash \u2014 exactly the content described in the R. Yishmael Challenge prose \u2014 followed by Rava's linguistic clarification of why vene'elam implies prior knowledge, which is a direct elaboration of that same point.",
+      "chosen_heading": "R. Yishmael Challenge",
+      "current_heading": "R. Yishmael Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Sotah Analysis",
+    "candidates": [
+      "Rava's Sotah Proof",
+      "Sotah Analysis",
+      "Torah Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Abaye's challenge from the sotah laws \u2014 item 1 raises the difficulty and item 2 provides the baraita proof \u2014 which exactly matches the prose of candidate 1 ('Sotah Analysis'), describing Abaye's argument from the principle that the bitter waters work only when the husband is free of sin.",
+      "chosen_heading": "Sotah Analysis",
+      "current_heading": "Sotah Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Torah Examples",
+    "candidates": [
+      "Torah Examples",
+      "Abaye's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's challenge about the Torah verse from Job 28:21 and 28:13, which directly matches the 'Torah Examples' section prose discussing how these same verses demonstrate that vene'elam need not imply prior knowledge.",
+      "chosen_heading": "Torah Examples",
+      "current_heading": "Torah Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Abaye's Solution",
+    "candidates": [
+      "Abaye's Solution",
+      "Rashi Explanation",
+      "Rav Pappa Q",
+      "Tinok Shenishba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement introducing the principle that knowledge from one's school counts as yediah, which is precisely what the 'Abaye's Solution' section discusses.",
+      "chosen_heading": "Abaye's Solution",
+      "current_heading": "Abaye's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Tinok Shenishba",
+    "candidates": [
+      "Rashi Explanation",
+      "Rav Pappa Q",
+      "Tinok Shenishba",
+      "Historical Waves",
+      "Mishnah Setup",
+      "Three Components",
+      "Case 1: Ani Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's question to Abaye about how there can be a case with no initial knowledge, which directly matches the 'Rav Pappa Q' section's prose describing exactly this challenge and formulation.",
+      "chosen_heading": "Rav Pappa Q",
+      "current_heading": "Tinok Shenishba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Case 1: Ani Outside",
+    "candidates": [
+      "Historical Waves",
+      "Mishnah Setup",
+      "Three Components",
+      "Case 1: Ani Outside",
+      "Case 2: Ani Takes",
+      "Case 3: Baal Habayit Out",
+      "Case 4: Ani Takes Out",
+      "Cases 5-8: Divided Labor",
+      "Gemara Q",
+      "Preliminary Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly poses the Gemara's question about why Shevuot says only 'two that are four' while Shabbat says 'two that are four inside and two that are four outside,' which is precisely what the 'Gemara Q' section's prose describes.",
+      "chosen_heading": "Gemara Q",
+      "current_heading": "Case 1: Ani Outside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Preliminary Answer",
+    "candidates": [
+      "Case 2: Ani Takes",
+      "Case 3: Baal Habayit Out",
+      "Case 4: Ani Takes Out",
+      "Cases 5-8: Divided Labor",
+      "Gemara Q",
+      "Preliminary Answer",
+      "Rav Pappa Object",
+      "Yetziah Broad Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly states the preliminary answer about avot/toldot and the distinction between Shabbat as primary vs. secondary topic, which is exactly what the 'Preliminary Answer' section prose describes.",
+      "chosen_heading": "Preliminary Answer",
+      "current_heading": "Preliminary Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Yetziah Broad Use",
+    "candidates": [
+      "Rav Pappa Object",
+      "Yetziah Broad Use",
+      "Baraita Source",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's objection that yetziot are only two in number, which directly corresponds to Rav Pappa's pressing question described in candidate 0's prose.",
+      "chosen_heading": "Rav Pappa Object",
+      "current_heading": "Yetziah Broad Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Baraita Source",
+      "Rav Ashi",
+      "Raba: Reshuyot",
+      "Four Marks Intro",
+      "Visual Order",
+      "Sapachat Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All nine items form a continuous Gemara discussion about why the Shevuot mishna lists four yetziot, Rav Pappa's resolution, and the chain of argumentation through Rav Ashi, Ravina, and Rava about whether hachnasah is called yetziah \u2014 exactly the content described in the 'Rav Ashi' section prose.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Sapachat Ambiguity",
+    "candidates": [
+      "Raba: Reshuyot",
+      "Four Marks Intro",
+      "Visual Order",
+      "Sapachat Ambiguity",
+      "R. Akiva Setup",
+      "Hanina Challenge",
+      "Combination Rules",
+      "Sapachat Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All five items together present Rabbi \u1e24anina's challenge to Rabbi Akiva's ordering of the four shades, arguing that under Rabbi Akiva's scheme *sid heichal* (and *krum habeitza*) cannot combine with any other shade \u2014 which is precisely what candidate 5 ('Hanina Challenge') describes in its prose.",
+      "chosen_heading": "Hanina Challenge",
+      "current_heading": "Sapachat Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Sapachat Resolution",
+    "candidates": [
+      "R. Akiva Setup",
+      "Hanina Challenge",
+      "Combination Rules",
+      "Sapachat Resolution",
+      "Non-Akiva View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly resolves the krum habeitza difficulty via the sapachat verse while leaving sid heichal problematic, concluding the mishna is not per Rabbi Akiva \u2014 exactly what the 'Sapachat Resolution' prose describes.",
+      "chosen_heading": "Sapachat Resolution",
+      "current_heading": "Sapachat Resolution",
+      "moved": false
+    }
+  }
+]

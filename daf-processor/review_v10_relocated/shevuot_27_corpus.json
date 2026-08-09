@@ -1,0 +1,261 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Rabbi Yehuda Ben Batera",
+    "candidates": [
+      "Daf 27 Overview",
+      "Rabbi Akiva & Yishmael",
+      "Positive & Negative",
+      "Shevuot vs Nedarim",
+      "Expression Requirement",
+      "Oath to Negate",
+      "Oath to Fulfill",
+      "Rabbi Yehuda Ben Batera",
+      "Lav v'Hein Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text introducing the cases of swearing to negate a mitzvah and to fulfill a mitzvah, along with Rabbi Yehuda ben Beteira's position \u2014 which is precisely what heading 5 ('Oath to Negate') introduces, covering nishba levatel et hamitzvah and leading into the lekayem case, rather than heading 7 which discusses the Rabbinic response to Rabbi Yehuda Ben Batera's reasoning.",
+      "chosen_heading": "Oath to Negate",
+      "current_heading": "Rabbi Yehuda Ben Batera",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Lav v'Hein Argument",
+    "candidates": [
+      "Rabbi Yehuda Ben Batera",
+      "Lav v'Hein Argument",
+      "Tosafot's Distinction",
+      "Tosafot's Girsa",
+      "Double Obligation",
+      "Inclusion & Exclusion",
+      "Good=Neutral",
+      "Bad=Neutral",
+      "Self-Injury",
+      "Harm Others"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbis' response to Rabbi Yehuda Ben Batera using the lav v'hein argument \u2014 that an oath concerning a mitzvah lacks the symmetry of positive/negative framing because swearing to negate a mitzvah generates no liability \u2014 which is precisely what the 'Lav v'Hein Argument' section's prose discusses.",
+      "chosen_heading": "Lav v'Hein Argument",
+      "current_heading": "Lav v'Hein Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Harm Others",
+    "candidates": [
+      "Tosafot's Distinction",
+      "Tosafot's Girsa",
+      "Double Obligation",
+      "Inclusion & Exclusion",
+      "Good=Neutral",
+      "Bad=Neutral",
+      "Self-Injury",
+      "Harm Others",
+      "Do Good to Others",
+      "Three Zones",
+      "Circularity Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita introduced by 'Tanu Rabbanan' that presents the inclusion/exclusion derivations from 'lehara o leheitiv,' which is precisely what heading 3 ('Inclusion & Exclusion') describes as its content \u2014 the gemara presenting this baraita and its core logic \u2014 rather than heading 7 ('Harm Others') which covers only the final clause about harming others.",
+      "chosen_heading": "Inclusion & Exclusion",
+      "current_heading": "Harm Others",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Circularity Problem",
+    "candidates": [
+      "Do Good to Others",
+      "Three Zones",
+      "Circularity Problem",
+      "Or Teaches Inclusion",
+      "Implicit Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's circularity challenge and its initial resolution \u2014 asking whether the verses refer to optional or mitzva matters, then showing that placing both terms in the mitzva realm causes each to collapse into the other \u2014 which is precisely what the 'Circularity Problem' prose describes.",
+      "chosen_heading": "Circularity Problem",
+      "current_heading": "Circularity Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Implicit Exclusion",
+    "candidates": [
+      "Or Teaches Inclusion",
+      "Implicit Exclusion",
+      "Vav vs Or"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's argument that the word 'or' proves the verse operates in the reshut domain \u2014 the question (item 1) and its resolution (item 2) \u2014 which is precisely what heading 0 'Or Teaches Inclusion' describes in its prose.",
+      "chosen_heading": "Or Teaches Inclusion",
+      "current_heading": "Implicit Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Vav vs Or",
+    "candidates": [
+      "Implicit Exclusion",
+      "Vav vs Or",
+      "Three Formulations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous Talmudic discussion about the word 'or' (o) separating the two oath cases, the dispute between Rabbi Yoshiya and Rabbi Yonatan over conjunctive interpretation, the baraita about cursing father and mother, and the resolution via Rabbi Akiva's ribui u'mi'ut \u2014 exactly matching the 'Vav vs Or' section prose.",
+      "chosen_heading": "Vav vs Or",
+      "current_heading": "Vav vs Or",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Three Formulations",
+    "candidates": [
+      "Three Formulations",
+      "Ein Shevua Chala",
+      "Rava's Wording Rule",
+      "Order Matters"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 3,
+      "split2": 6,
+      "first_heading": "Three Formulations",
+      "first_confidence": "low",
+      "first_reason": "Segment 1 discusses Rabbi Yehuda ben Beteira's argument about oaths concerning mitzvot, which does not match any of the four candidate headings well, but heading 0 ('Three Formulations') is the least wrong since it's the current placement and the other headings are clearly about the loaf-eating oath discussion.",
+      "second_heading": "Three Formulations",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the mishna presenting the three oath formulations and identifying shevuat bitui and shevuat shav, which matches heading 0 ('Three Formulations') whose prose explicitly describes this mishna content including the three oaths, shevuat bitui, makkot, korban oleh v'yored, and shevuat shav.",
+      "third_heading": "Ein Shevua Chala",
+      "third_confidence": "medium",
+      "third_reason": "Segment 3 begins with the gemara asking why different formulations are needed and then answers by invoking Rava's distinction, spanning headings 1 ('Ein Shevua Chala') and 2 ('Rava's Wording Rule'), but heading 1 is the better fit as it explicitly describes the gemara's question about multiple formulations and the answer from their juxtaposition, which is where this segment starts and centers.",
+      "current_heading": "Three Formulations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Order Matters",
+    "candidates": [
+      "Ein Shevua Chala",
+      "Rava's Wording Rule",
+      "Order Matters",
+      "Hovering Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks why the mishna mentions a third redundant oath and answers that even though there is no liability, the oath still exists and takes effect if room is found \u2014 which is precisely the 'hovering' principle described in candidate 3's prose, not the 'order matters' discussion of candidate 2.",
+      "chosen_heading": "Hovering Principle",
+      "current_heading": "Order Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Hovering Principle",
+    "candidates": [
+      "Order Matters",
+      "Hovering Principle",
+      "Tosafot's Girsa",
+      "Nazir Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's ruling that if the first oath is dissolved the second takes its place \u2014 which is precisely the hovering principle the 'Hovering Principle' section's prose explains and discusses.",
+      "chosen_heading": "Hovering Principle",
+      "current_heading": "Hovering Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Nazir Proof",
+    "candidates": [
+      "Tosafot's Girsa",
+      "Nazir Proof",
+      "Challenge to Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nazir Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita proof from nezirut that the gemara attempts to bring for Rava's principle, matching the 'Nazir Proof' prose exactly.",
+      "second_heading": "Challenge to Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's rejection of the nazir analogy, matching the 'Challenge to Proof' prose which describes precisely this refutation and its reasoning.",
+      "current_heading": "Nazir Proof",
+      "moved": true
+    }
+  }
+]

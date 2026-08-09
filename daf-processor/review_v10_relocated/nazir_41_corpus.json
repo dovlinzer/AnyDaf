@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "R. Eliezer: Metzora/Nazir",
+    "candidates": [
+      "Three Categories Shaving",
+      "Rabbanan: Beard & Razor",
+      "Rabbanan Learning Metzora",
+      "R. Eliezer Beard View",
+      "R. Eliezer: Metzora/Nazir",
+      "Aseh Docheh Lo Ta'aseh",
+      "Rosho Sideburns Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items present Rabbi Eliezer's derivation from 'rosho' that the metzora must shave with a razor, followed by the gemara's challenge and rebuttal invoking Reish Lakish's principle \u2014 exactly the content described in candidate 4's prose about R. Eliezer learning the metzora's razor requirement from rosho via the nazir-metzora case.",
+      "chosen_heading": "R. Eliezer: Metzora/Nazir",
+      "current_heading": "R. Eliezer: Metzora/Nazir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rosho Sideburns Issue",
+    "candidates": [
+      "Aseh Docheh Lo Ta'aseh",
+      "Rosho Sideburns Issue",
+      "Zekano Override Lesson",
+      "Beard vs. Sideburns Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses what the Rabbanan derive from 'rosho' \u2014 namely, overriding the sideburn-shaving prohibition for a metzora \u2014 which is precisely the topic described in the 'Rosho Sideburns Issue' section's prose.",
+      "chosen_heading": "Rosho Sideburns Issue",
+      "current_heading": "Rosho Sideburns Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Beard vs. Sideburns Scope",
+    "candidates": [
+      "Zekano Override Lesson",
+      "Beard vs. Sideburns Scope",
+      "Why Two Verses Needed",
+      "Sideburns Broader Scope",
+      "Tosafot Head Prohibition",
+      "Three Sources Sideburns",
+      "Tosafot K'ein Ta'ar",
+      "Shulchan Aruch Ruling",
+      "Contemporary Practice",
+      "Invalid Shaving Methods",
+      "Rubo Kekulo Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0 ('Zekano Override Lesson') describes: the baraita explaining why 'zekano' is written, the gemara asking why both 'rosho' and 'zekano' are needed, the tzrichi answer explaining each verse's indispensable contribution, and then Rabbi Eliezer's derivation of the positive-overrides-prohibition principle from gedilim \u2014 all of which the heading 0 prose explicitly previews.",
+      "chosen_heading": "Zekano Override Lesson",
+      "current_heading": "Beard vs. Sideburns Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Rubo Kekulo Principle",
+    "candidates": [
+      "Why Two Verses Needed",
+      "Sideburns Broader Scope",
+      "Tosafot Head Prohibition",
+      "Three Sources Sideburns",
+      "Tosafot K'ein Ta'ar",
+      "Shulchan Aruch Ruling",
+      "Contemporary Practice",
+      "Invalid Shaving Methods",
+      "Rubo Kekulo Principle",
+      "Yigalchenu Source",
+      "One Hair Tolerance",
+      "Nazir Tamei vs. Tahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items directly address the ruling that leaving two hairs invalidates shaving and Rav Acha's derivation of the rubo k'kulo principle from that ruling, which is precisely what the 'Rubo Kekulo Principle' prose section discusses.",
+      "chosen_heading": "Rubo Kekulo Principle",
+      "current_heading": "Rubo Kekulo Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Nazir Tamei vs. Tahor",
+    "candidates": [
+      "Yigalchenu Source",
+      "One Hair Tolerance",
+      "Nazir Tamei vs. Tahor",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yosei son of Rabbi \u1e24anina's objection about the verse being written for a nazir tamei, and the response from Eretz Yisrael about bidirectional derivation \u2014 exactly what candidate 2's prose describes in detail.",
+      "chosen_heading": "Nazir Tamei vs. Tahor",
+      "current_heading": "Nazir Tamei vs. Tahor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Rava's Question",
+      "Hair Not Significant",
+      "Giluach as Process",
+      "Baldness Without Mitzvah",
+      "Nazir Straightening Hair"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Abaye's and Rava's dilemmas about shaving two hairs, matching heading 0 ('Rava's Question') which discusses the edge case of a nazir who shaved but left two hairs \u2014 but actually the prose of heading 0 describes Abaye's scenario (hair grew back, shave the original two), so items 1-2 belong under heading 0.",
+      "second_heading": "Hair Not Significant",
+      "second_confidence": "high",
+      "second_reason": "Item 3 resolves the refined version of Rava's dilemma (one hair fell out, one shaved, giluach ein kan), which matches heading 1 ('Hair Not Significant') and heading 2 ('Giluach as Process') \u2014 item 3 spans both the question (heading 1) and the answer (heading 2), but since it is a single exchange it belongs under heading 1 as the starting point of that refined question.",
+      "current_heading": "Rava's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Nazir Straightening Hair",
+    "candidates": [
+      "Hair Not Significant",
+      "Giluach as Process",
+      "Baldness Without Mitzvah",
+      "Nazir Straightening Hair",
+      "Hair Loss: R. Shimon",
+      "Combing Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text about a nazirite shampooing, separating, and not combing his hair is directly introduced and explained by the prose in candidate 3, 'Nazir Straightening Hair'.",
+      "chosen_heading": "Nazir Straightening Hair",
+      "current_heading": "Nazir Straightening Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Combing Prohibited",
+    "candidates": [
+      "Hair Loss: R. Shimon",
+      "Combing Prohibited",
+      "Combing Shabbat Issues",
+      "R. Ovadia Modern Combing",
+      "Mineral Cleanser Ban"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hair Loss: R. Shimon",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the gemara's initial identification of Rabbi Shimon as the tanna behind the permissive ruling on shampooing/separating, which matches heading 0's prose about davar she'eino miskaven and the nazir's permitted actions.",
+      "second_heading": "Combing Prohibited",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbah's resolution that the entire mishnah follows Rabbi Shimon but combing is prohibited because the comer intends to remove stray hairs, which matches heading 1's prose about kulla Rabbi Shimon hi and kol hasorek lehassir nimi meduldlos miskaven.",
+      "current_heading": "Combing Prohibited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Mineral Cleanser Ban",
+    "candidates": [
+      "Combing Shabbat Issues",
+      "R. Ovadia Modern Combing",
+      "Mineral Cleanser Ban",
+      "Specific vs. General Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text is Rabbi Yishmael's ruling prohibiting hair-washing with earth-based mineral substance because it causes hair to fall out, which is precisely what the 'Mineral Cleanser Ban' section's prose introduces and discusses.",
+      "chosen_heading": "Mineral Cleanser Ban",
+      "current_heading": "Mineral Cleanser Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Specific vs. General Ban",
+    "candidates": [
+      "Specific vs. General Ban",
+      "Harmless Mineral Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about the precise wording of the mishna \u2014 whether the prohibition is specific or general \u2014 which directly matches the 'Specific vs. General Ban' heading's prose about whether the prohibition targets the particular causal mechanism or the broader category.",
+      "chosen_heading": "Specific vs. General Ban",
+      "current_heading": "Specific vs. General Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Harmless Mineral Use",
+    "candidates": [
+      "Harmless Mineral Use",
+      "Teiku Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the practical case of earth that does not remove hair and the logical consequences of each textual reading, which is precisely what the 'Harmless Mineral Use' prose describes \u2014 the teiku conclusion is secondary, and the core content matches heading 0's discussion of the harmless mineral scenario.",
+      "chosen_heading": "Harmless Mineral Use",
+      "current_heading": "Harmless Mineral Use",
+      "moved": false
+    }
+  }
+]

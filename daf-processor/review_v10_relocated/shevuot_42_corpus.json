@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Shmuel's Rule",
+      "Stipulation Options",
+      "Conclusion Ambiguity",
+      "Creditor's Stipulation",
+      "Different Witnesses",
+      "Abaye's Position",
+      "Rava's Position",
+      "Tosafot's Interpretation",
+      "Rashi's View",
+      "Rashi vs. Tosafot",
+      "Halacha Knowledge",
+      "Private Payment",
+      "Deposit Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage describes a creditor who stipulated repayment in front of two witnesses who know halacha ('tannu hilkheta'), which matches exactly the prose of heading 10 ('Halacha Knowledge') describing the second case involving a qualitative standard of witnesses who know halacha.",
+      "chosen_heading": "Halacha Knowledge",
+      "current_heading": "Abaye's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Deposit Argument",
+    "candidates": [
+      "Rava's Position",
+      "Tosafot's Interpretation",
+      "Rashi's View",
+      "Rashi vs. Tosafot",
+      "Halacha Knowledge",
+      "Private Payment",
+      "Deposit Argument",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly depicts the creditor's argument before Rav Nachman that he accepted the money only as a deposit (derech pikadon), which is precisely what the 'Deposit Argument' section's prose describes.",
+      "chosen_heading": "Deposit Argument",
+      "current_heading": "Deposit Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Tosafot Analysis",
+      "Rashi's Distinction",
+      "R. Akiva Eiger",
+      "Debtor's Denial",
+      "Witness Testimony",
+      "Abaye's Solution",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Nachman's ruling that admitted receipt constitutes proper repayment and his offer that he and Rav Sheshet could serve as the required witnesses, which is precisely what the 'Rav Nachman' section's prose describes.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "Tosafot Analysis",
+      "Rashi's Distinction",
+      "R. Akiva Eiger",
+      "Debtor's Denial",
+      "Witness Testimony",
+      "Abaye's Solution",
+      "Rava's Solution",
+      "Testimony Analysis",
+      "Debtor's Claim",
+      "Contradiction",
+      "Rav Sheshet",
+      "Rava",
+      "Knowledge Standard",
+      "Gallnuts Claim",
+      "Price Dispute",
+      "Credibility Loss",
+      "Challenge",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the case of the debtor who says 'lo hayu devarim me'olam' and witnesses testify both to the loan and repayment \u2014 this is precisely the case Rava's Solution (index 6) addresses with the principle that 'one who says I did not borrow is like one who says I did not repay.'",
+      "second_heading": "Debtor's Claim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new case (the fourth case) where the debtor claims he repaid in front of named witnesses who then contradict him, which is the scenario described under 'Debtor's Claim' (index 8).",
+      "current_heading": "Rava's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Testimony Analysis",
+      "Debtor's Claim",
+      "Contradiction",
+      "Rav Sheshet",
+      "Rava",
+      "Knowledge Standard",
+      "Gallnuts Claim",
+      "Price Dispute",
+      "Credibility Loss",
+      "Challenge",
+      "Rava's Answer",
+      "Creditor's Admission",
+      "Other Debt Claim",
+      "Rav Nachman (II)",
+      "Rav Pappa",
+      "Contextual Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "Both items together present the gallnuts case where Rami bar Chama challenges Rava's ruling with 'lo ramya aleh' and Rava responds that market prices (kitzutza detara) are things people consciously remember \u2014 exactly what heading 10 ('Rava's Answer') describes in its prose.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Contextual Case",
+    "candidates": [
+      "Creditor's Admission",
+      "Other Debt Claim",
+      "Rav Nachman (II)",
+      "Rav Pappa",
+      "Contextual Case",
+      "No Witnesses",
+      "Final Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute the variant case (oxen/cattle market) that illuminates the limits of Rav Pappa's position \u2014 item 1 sets up the original dispute and item 2 introduces the contextual cattle-market case where Rav Pappa himself concedes the shtar is undermined \u2014 which is precisely what the 'Contextual Case' prose describes.",
+      "chosen_heading": "Contextual Case",
+      "current_heading": "Contextual Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Final Rule",
+    "candidates": [
+      "No Witnesses",
+      "Final Rule",
+      "Stipulation",
+      "Oath Demanded",
+      "Abaye and Rava",
+      "Rav Pappa (II)",
+      "Two or Three"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Final Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 complete the itra shtara discussion with the final ruling and the migo/Abimi qualification, matching exactly what the 'Final Rule' prose describes.",
+      "second_heading": "Stipulation",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens the entirely new stipulation case ('mehemnat li kol eimat d'amart li lo parana') that the 'Stipulation' prose explicitly describes as its seventh case.",
+      "current_heading": "Final Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Two or Three",
+    "candidates": [
+      "Stipulation",
+      "Oath Demanded",
+      "Abaye and Rava",
+      "Rav Pappa (II)",
+      "Two or Three",
+      "Number Question",
+      "Rav Pappa's Rule",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the case where the debtor stipulates the creditor is believed 'like two witnesses' and then pays in front of three, with Rav Pappa's ruling that two does not override three \u2014 exactly what the 'Two or Three' prose section describes.",
+      "chosen_heading": "Two or Three",
+      "current_heading": "Two or Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Number Question",
+      "Rav Pappa's Rule",
+      "Rav Huna",
+      "Quantity Counting",
+      "Agunah Application",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All three items form a continuous dialectical unit centered on Rav Huna's invocation of the *trei k'mei'a* principle against Rav Pappa's alternate-version ruling, making 'Rav Huna' the best single heading, though item 3's extension about four witnesses also fits 'Quantity Counting.'",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Quantity Counting",
+      "Agunah Application",
+      "Mishnah Rule",
+      "Ki Yitein Ish",
+      "Exception Case",
+      "Rav Bibi",
+      "Own Claim Rule",
+      "Orphan Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly derives the rule from 'ki yitein ish el re'ehu' explaining that delivery by a minor is halakhically insignificant, which is precisely what the 'Ki Yitein Ish' section's prose discusses.",
+      "chosen_heading": "Ki Yitein Ish",
+      "current_heading": "Mishnah Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Orphan Example",
+    "candidates": [
+      "Ki Yitein Ish",
+      "Exception Case",
+      "Rav Bibi",
+      "Own Claim Rule",
+      "Orphan Example",
+      "Adult Orphan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items address the apparent contradiction between the mishna's exception (oaths to a minor) and the general rule, resolved via Rav's explanation involving the minor's claim and Rabbi Eliezer ben Yaakov's position on ta'anat atzmo and meshiv aveida \u2014 precisely what heading 4 ('Orphan Example') describes.",
+      "chosen_heading": "Orphan Example",
+      "current_heading": "Orphan Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Adult Orphan",
+    "candidates": [
+      "Adult Orphan",
+      "Chutzpah Lack",
+      "Partial Admission",
+      "Oath Purpose",
+      "Father vs. Son",
+      "Sages' View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items address the exact sequence described in the 'Adult Orphan' prose: the gemara's challenge about calling him a katan, the resolution that he is actually an adult, the subsequent difficulty with 'ta'anat atzmo' vs 'ta'anat acherim', and the further challenge that all modeh bemiktzat cases share this feature \u2014 all of which the prose explicitly narrates.",
+      "chosen_heading": "Adult Orphan",
+      "current_heading": "Adult Orphan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164,
+      165
+    ],
+    "current_heading": "Sages' View",
+    "candidates": [
+      "Chutzpah Lack",
+      "Partial Admission",
+      "Oath Purpose",
+      "Father vs. Son",
+      "Sages' View",
+      "Claim Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present Rabba's foundational principle (chutzpah/me'iz) and its application to the Rabbi Eliezer ben Yaakov vs. Rabbanan dispute \u2014 this is precisely what heading 0 'Chutzpah Lack' describes as the gemara setting out Rabbah's foundational principle.",
+      "chosen_heading": "Chutzpah Lack",
+      "current_heading": "Sages' View",
+      "moved": true
+    }
+  }
+]

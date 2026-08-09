@@ -1,0 +1,241 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Three Cases Defined",
+    "candidates": [
+      "Three Cases Defined",
+      "Default Rule Debate",
+      "Rav vs. Shmuel",
+      "Kam Leih B'Derabbah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Cases Defined",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the three cases (metameh, medameh, menasech), which matches heading 0's prose that explicitly discusses these three cases and their framework.",
+      "second_heading": "Rav vs. Shmuel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's dispute between Rav and Shmuel over the meaning of 'menasech', which matches exactly the prose of heading 2 ('Rav vs. Shmuel') describing Rav's menasech mamash versus Shmuel's me'arev interpretation.",
+      "current_heading": "Three Cases Defined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Kam Leih B'Derabbah",
+    "candidates": [
+      "Default Rule Debate",
+      "Rav vs. Shmuel",
+      "Kam Leih B'Derabbah",
+      "Tosafot Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the kam leih biderabbah mineih principle and Rabbi Yirmiyah's resolution about the moment of lifting vs. pouring, which is precisely what the 'Kam Leih B'Derabbah' section's prose describes.",
+      "chosen_heading": "Kam Leih B'Derabbah",
+      "current_heading": "Kam Leih B'Derabbah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Tosafot Resolution",
+    "candidates": [
+      "Tosafot Resolution",
+      "Baraita Progression",
+      "Case Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why the mishna lists all three cases when one could derive fines from each other \u2014 precisely the content described in the 'Baraita Progression' prose, which discusses what happens if one accepts that inferences can be drawn from one kenas to another and why all three cases are nonetheless specified.",
+      "chosen_heading": "Baraita Progression",
+      "current_heading": "Tosafot Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Case Distinctions",
+    "candidates": [
+      "Baraita Progression",
+      "Case Distinctions",
+      "Chizkiyah Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Case Distinctions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 explain why the mishna needs all three cases (metamei, medamei, menasech) and cannot derive one from another, which is precisely what the 'Case Distinctions' prose describes.",
+      "second_heading": "Baraita Progression",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 follow the Tosefta version attributed to the father of Rabbi Avin, explaining why that baraita's progression (metamei, menasech, then medameh added later) also requires all three cases, which matches the 'Baraita Progression' prose exactly.",
+      "current_heading": "Case Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Chizkiyah Position",
+    "candidates": [
+      "Chizkiyah Position",
+      "Disclosure Incentive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Chizkiyah's ruling and his reasoning (hezek she'eino nikar shemo hezek), which is precisely what the 'Chizkiyah Position' prose section discusses.",
+      "chosen_heading": "Chizkiyah Position",
+      "current_heading": "Chizkiyah Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Disclosure Incentive",
+    "candidates": [
+      "Disclosure Incentive",
+      "Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the reason for exempting the unintentional damager (kedei sheyodi'o) and the objection/answer about whether the intentional damager should also be exempt \u2014 are precisely the content described in the 'Disclosure Incentive' prose, which explicitly covers both the shogeg exemption rationale and the rejection of extending it to meizid.",
+      "chosen_heading": "Disclosure Incentive",
+      "current_heading": "Disclosure Incentive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Yochanan Position",
+    "candidates": [
+      "Yochanan Position",
+      "Knas vs. Tashlumim",
+      "Pigul Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's direct statement explaining that hezek she'eino nikar is not legally damage and that meizid liability is rabbinic deterrence, which is precisely what the 'Yochanan Position' prose is summarizing and analyzing.",
+      "chosen_heading": "Yochanan Position",
+      "current_heading": "Yochanan Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Pigul Case",
+    "candidates": [
+      "Knas vs. Tashlumim",
+      "Pigul Case",
+      "Parah Adumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara exchange about the pigul mishna \u2014 the objection from the mishna, the challenge to Chizkiyah's position, and the gemara's deflecting answer \u2014 which is precisely what the 'Pigul Case' prose describes.",
+      "chosen_heading": "Pigul Case",
+      "current_heading": "Pigul Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Parah Adumah",
+    "candidates": [
+      "Parah Adumah",
+      "Cow Intention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's objection based on the parah adumah/mei chatat baraisa, which is precisely what the prose under heading 0 discusses \u2014 the challenge that this baraisa poses to the view that hezek she'eino nikar is considered damage.",
+      "chosen_heading": "Parah Adumah",
+      "current_heading": "Parah Adumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Cow Intention",
+    "candidates": [
+      "Cow Intention",
+      "Water Displacement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage resolves both the heifer and water-of-purification cases by showing neither constitutes actual labor/melachah \u2014 the heifer was placed in a pen to nurse (incidental threshing, not intended labor) and the water was used for weighing, not for its purification function \u2014 which directly matches the 'Cow Intention' prose discussing how the cow's invalidation is mediated through intent rather than direct physical act.",
+      "chosen_heading": "Cow Intention",
+      "current_heading": "Cow Intention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Water Displacement",
+    "candidates": [
+      "Water Displacement",
+      "Hesach Hada'at"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's ruling about mei chatat used for weighing and the gemara's resolution distinguishing begufan from bichenegdan \u2014 exactly the content described in the 'Water Displacement' prose section.",
+      "chosen_heading": "Water Displacement",
+      "current_heading": "Water Displacement",
+      "moved": false
+    }
+  }
+]

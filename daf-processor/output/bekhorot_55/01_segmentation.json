@@ -43,8 +43,8 @@
           "timestamp": "03:50"
         }
       ],
-      "sefaria_index": 31,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Talmudic Derivation of the Sixteen-Mil Standard",
@@ -63,7 +63,7 @@
         }
       ],
       "sefaria_index": 31,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Debate Between Rav and Shmuel on Middle-Flock Combining",
@@ -168,7 +168,7 @@
           "timestamp": "29:51"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -187,8 +187,8 @@
           "timestamp": "33:12"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Tannaitic Debate on Jordan as Regional Boundary",
@@ -485,5 +485,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22
+  "amud_b_sefaria_index": 22,
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "50:56",
+  "amud_b_micro_title": "Eden Rivers",
+  "shiur_start_daf": 55,
+  "shiur_start_amud": "a"
 }

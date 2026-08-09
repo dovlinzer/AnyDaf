@@ -1,0 +1,216 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Papa: Gezeilah Gone",
+    "candidates": [
+      "Mishnah Overview",
+      "Rav Papa: Gezeilah Gone",
+      "Future Appreciation",
+      "Alt View: No Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Papa's ruling that when the stolen object is extant one must pursue the victim due to concern about future appreciation, which is precisely what candidate 1 ('Rav Papa: Gezeilah Gone') describes in its prose.",
+      "chosen_heading": "Rav Papa: Gezeilah Gone",
+      "current_heading": "Rav Papa: Gezeilah Gone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Alt View: No Obligation",
+    "candidates": [
+      "Future Appreciation",
+      "Alt View: No Obligation",
+      "Rava: Three Bunches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'there are those who say' version of Rav Pappa's ruling that regardless of whether the stolen item is extant or not, there is no obligation to pursue, and no concern about future appreciation \u2014 which is precisely what the 'Alt View: No Obligation' section's prose describes and analyzes.",
+      "chosen_heading": "Alt View: No Obligation",
+      "current_heading": "Alt View: No Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rava: Three Bunches",
+    "candidates": [
+      "Rava: Three Bunches",
+      "Hametz Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling about the three bundles AND the chametz mishna citation, and the current heading's prose ('Rava: Three Bunches') already discusses both elements together \u2014 the chametz case is cited within Rava's ruling as supporting precedent, not as a separate section.",
+      "chosen_heading": "Rava: Three Bunches",
+      "current_heading": "Rava: Three Bunches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Hametz Precedent",
+    "candidates": [
+      "Hametz Precedent",
+      "Original Value Theory",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text explaining the chametz inference (ta'ama de-isa be-inei / ha-leisa be-inei) and its application to the parsley case, which is precisely what the 'Hametz Precedent' prose describes and quotes.",
+      "chosen_heading": "Hametz Precedent",
+      "current_heading": "Hametz Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Original Value Theory",
+      "Rava's Question",
+      "Two Approaches",
+      "Gezeilah/Hashavah Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's dilemma about two bundles worth one peruta where one is returned, which is precisely what the 'Rava's Question' section's prose describes and frames.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Gezeilah/Hashavah Gap",
+    "candidates": [
+      "Two Approaches",
+      "Gezeilah/Hashavah Gap",
+      "Nazir Hair Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly Rava's resolution with the gezeilah/hashavah formulation and the gemara's reframing \u2014 which is precisely what the 'Gezeilah/Hashavah Gap' section's prose discusses in detail.",
+      "chosen_heading": "Gezeilah/Hashavah Gap",
+      "current_heading": "Gezeilah/Hashavah Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Nazir Hair Case",
+    "candidates": [
+      "Nazir Hair Case",
+      "Hair Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous sugya \u2014 Rava's dilemma about the nazirite who shaved one hair and had one fall out, Ravina's clarification, and Rava's resolution \u2014 which is precisely what the 'Nazir Hair Case' prose describes in detail, including the specific phrases and reasoning found in the passage.",
+      "chosen_heading": "Nazir Hair Case",
+      "current_heading": "Nazir Hair Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Hair Analysis",
+    "candidates": [
+      "Hair Analysis",
+      "Hametz Oath Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's dilemma about a punctured barrel partially sealed, which is a discrete halakhic question about sealing/ritual impurity with no connection to hair analysis or nazir, but also does not match the chametz oath prose well \u2014 however, between the two candidates the barrel/impurity passage is a self-contained Rava dilemma unit that fits neither prose perfectly, yet the 'Hametz Oath Question' heading at least involves Rava posing a dilemma about partial fulfillment of an obligation, making it a closer structural parallel than the nazir hair analysis prose.",
+      "chosen_heading": "Hametz Oath Question",
+      "current_heading": "Hair Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Hametz Oath Question",
+    "candidates": [
+      "Hair Analysis",
+      "Hametz Oath Question",
+      "Rabbah: Future Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's dilemma about a false oath on stolen chametz after Passover \u2014 exactly the scenario described in the 'Hametz Oath Question' prose, which discusses the tension between the chametz being 'afra be'alma' and the potential future monetary liability.",
+      "chosen_heading": "Hametz Oath Question",
+      "current_heading": "Hametz Oath Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Rabbah: Future Liability",
+    "candidates": [
+      "Rabbah: Future Liability",
+      "Expanded Liability Cases",
+      "Rav Amram's Challenge",
+      "Braita Reconciled",
+      "Conceding Principal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbah: Future Liability",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabba's opening case (shomer chinam) which is the core of 'Rabbah: Future Liability' \u2014 the single case that establishes the principle that a false oath exempting oneself from theft/loss liability constitutes kafarat mamon.",
+      "second_heading": "Expanded Liability Cases",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 extend Rabba's principle through the shomer sachar and shoel cases and then draw the analogy to Rava's chametz question, which matches 'Expanded Liability Cases' prose describing exactly these three extended cases and the application to the chametz scenario.",
+      "current_heading": "Rabbah: Future Liability",
+      "moved": true
+    }
+  }
+]

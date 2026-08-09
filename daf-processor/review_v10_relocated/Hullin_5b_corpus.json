@@ -1,0 +1,190 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Source of Exclusion",
+    "candidates": [
+      "Mumar Explanations",
+      "Idolaters & Shabbat",
+      "Source of Exclusion",
+      "Two Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about the source of the exclusion of a Mumar from bringing sacrifices, identifying it as deriving from 'me-am ha-aretz' (Leviticus 4:27\u201328) rather than the verse about 'mi-kem,' which is precisely what the 'Source of Exclusion' prose describes.",
+      "chosen_heading": "Source of Exclusion",
+      "current_heading": "Source of Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Two Exclusions",
+    "candidates": [
+      "Two Exclusions",
+      "Rav Hamnuna Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Shimon ben Yosei teaching about 'shav mi-da'ato' vs 'eino shav mi-da'ato,' which is precisely what the 'Two Exclusions' prose section explains and discusses.",
+      "chosen_heading": "Two Exclusions",
+      "current_heading": "Two Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rav Hamnuna Case",
+    "candidates": [
+      "Rav Hamnuna Case",
+      "Status vs Unworthiness",
+      "Chatas vs Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Hamnuna's answer about the mumar who eats chelev but accidentally consumes blood, which is precisely what the 'Rav Hamnuna Case' prose discusses in detail.",
+      "chosen_heading": "Rav Hamnuna Case",
+      "current_heading": "Rav Hamnuna Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Chatas vs Olah",
+    "candidates": [
+      "Status vs Unworthiness",
+      "Chatas vs Olah",
+      "Behemah Meanings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why both Chatas and Olah exclusions are necessary, matching exactly the prose in the 'Chatas vs Olah' section which explains the tzricha argument.",
+      "chosen_heading": "Chatas vs Olah",
+      "current_heading": "Chatas vs Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Behemah Meanings",
+    "candidates": [
+      "Behemah Meanings",
+      "Context Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the Gemara's challenge and resolution about whether 'behemah' alone carries a negative connotation, which matches the 'Behemah Meanings' section's prose precisely, while the 'Context Matters' section covers the subsequent discussion about the Yirmiyahu verse.",
+      "chosen_heading": "Behemah Meanings",
+      "current_heading": "Behemah Meanings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Context Matters",
+    "candidates": [
+      "Context Matters",
+      "Rabban Gamliel Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge about whether 'adam u-behemah' always indicates virtue, using the Jeremiah verse as a counter-example and resolving it by noting the verse separates them \u2014 exactly what the 'Context Matters' prose describes in detail.",
+      "chosen_heading": "Context Matters",
+      "current_heading": "Context Matters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rabban Gamliel Ban",
+    "candidates": [
+      "Rabban Gamliel Ban",
+      "Zeira's Question",
+      "Yaakov Response",
+      "Kutim as Non-Jews",
+      "Later Amoraim Eat",
+      "Zeira Bewildered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic and the ruling of Rabban Gamliel prohibiting Samaritan slaughter \u2014 are the opening of the 'Rabban Gamliel Ban' section, which the prose explicitly introduces as the tradition reported by \u1e24anan/Yaakov bar Idi/Yehoshua ben Levi/bar Kappara about Rabban Gamliel's court forbidding Kuti Shechita.",
+      "chosen_heading": "Rabban Gamliel Ban",
+      "current_heading": "Rabban Gamliel Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Zeira Bewildered",
+    "candidates": [
+      "Zeira's Question",
+      "Yaakov Response",
+      "Kutim as Non-Jews",
+      "Later Amoraim Eat",
+      "Zeira Bewildered",
+      "Tzaddikim Principle",
+      "Zeira Accepts Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form precisely the content described under 'Zeira Bewildered' \u2014 item 1 presents Rabbi Zeira's two-directional question (did they hear or not), and item 2 gives his self-resolution using the tzaddikim principle, exactly as the prose describes.",
+      "chosen_heading": "Zeira Bewildered",
+      "current_heading": "Zeira Bewildered",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Zeira Accepts Ban",
+    "candidates": [
+      "Tzaddikim Principle",
+      "Zeira Accepts Ban",
+      "Forbidden Food Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly demonstrates that Rabbi Zeira had no alternative resolution available (i.e., he couldn't distinguish cases by presence/absence of supervision), proving he had accepted the broader ban \u2014 exactly what the 'Zeira Accepts Ban' prose discusses.",
+      "chosen_heading": "Zeira Accepts Ban",
+      "current_heading": "Zeira Accepts Ban",
+      "moved": false
+    }
+  }
+]

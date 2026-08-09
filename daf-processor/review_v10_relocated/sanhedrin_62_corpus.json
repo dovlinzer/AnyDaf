@@ -1,0 +1,449 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Acts Without Belief",
+      "Rashi Clarifies",
+      "Abaye vs. Rava",
+      "Rava's Counterargument",
+      "Abaye's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dispute with 'itmar' and presents the core question of one who performs avodah zarah me'ahavah umiyirah, which is exactly what heading 0 ('Acts Without Belief') describes in its prose, whereas heading 2 ('Abaye vs. Rava') only contains the conclusion of the dispute without introducing the case itself.",
+      "chosen_heading": "Acts Without Belief",
+      "current_heading": "Abaye vs. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Abaye's Proof",
+    "candidates": [
+      "Rava's Counterargument",
+      "Abaye's Proof",
+      "Haman & Bowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Abaye's proof from the mishnah and Rava's rebuttal via Rabbi Yirmiya's explanation \u2014 exactly what the 'Abaye's Proof' prose section describes.",
+      "chosen_heading": "Abaye's Proof",
+      "current_heading": "Abaye's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Haman & Bowing",
+    "candidates": [
+      "Haman & Bowing",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's baraita proof involving the Haman bowing case, which is exactly what the 'Haman & Bowing' section's prose describes in detail.",
+      "chosen_heading": "Haman & Bowing",
+      "current_heading": "Haman & Bowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Rava's Distinction",
+      "Question Posed",
+      "Tosafot Resolves",
+      "V'Ahavta Principle",
+      "Rambam View",
+      "Braita Introduced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's 'keHaman velo keHaman' distinction, which is precisely what the prose under 'Rava's Distinction' explains and analyzes.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Rava's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Braita Introduced",
+    "candidates": [
+      "Question Posed",
+      "Tosafot Resolves",
+      "V'Ahavta Principle",
+      "Rambam View",
+      "Braita Introduced",
+      "Rabbi vs. Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form Abaye's proof from the baraita about the kohen mashiach in avodah zarah \u2014 the baraita text (item 1), the points of agreement (item 2), and the Gemara's analysis of what 'shiggas ma'aseh' means in this context (item 3) \u2014 which matches exactly what heading 4 ('Braita Introduced') describes, and the current placement is correct.",
+      "chosen_heading": "Braita Introduced",
+      "current_heading": "Braita Introduced",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rabbi vs. Sages",
+    "candidates": [
+      "Rabbi vs. Sages",
+      "Shiggas Ma'aseh",
+      "Three Scenarios",
+      "Ahavah Umiyirah Case",
+      "Rava's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the second scenario (seeing a statue and bowing) and specifically the sub-case where 'he accepted it as a deity \u2014 meizid hu,' which is exactly what the 'Three Scenarios' prose section describes when it says 'if he accepted it as a deity \u2014 meizid hu \u2014 he is fully liable.'",
+      "chosen_heading": "Three Scenarios",
+      "current_heading": "Rabbi vs. Sages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Rava's Case",
+    "candidates": [
+      "Shiggas Ma'aseh",
+      "Three Scenarios",
+      "Ahavah Umiyirah Case",
+      "Rava's Case",
+      "Zakkai Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form the continuous Rava-centered exchange: item 1 sets up the me'ahava umiyirah conclusion that Rava must reject, items 2-4 give Rava's response (be'omer mutar), the challenge (that is he'elam davar), and the resolution (omer mutar legamrei vs. kiyum miktzas), which is precisely what candidate 3 'Rava's Case' prose describes.",
+      "chosen_heading": "Rava's Case",
+      "current_heading": "Rava's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Zakkai Teaching",
+    "candidates": [
+      "Zakkai Teaching",
+      "Yochanan Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught by Rabbi Zakkai before Rabbi Yochanan, which is exactly what heading 0 'Zakkai Teaching' describes in its prose.",
+      "chosen_heading": "Zakkai Teaching",
+      "current_heading": "Zakkai Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Yochanan Rejects",
+    "candidates": [
+      "Yochanan Rejects",
+      "Fire Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's terse rejection ('go teach it outside'), which is exactly what the 'Yochanan Rejects' section's prose describes.",
+      "chosen_heading": "Yochanan Rejects",
+      "current_heading": "Yochanan Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Fire Debate",
+    "candidates": [
+      "Fire Debate",
+      "Hishtachavah Distinction",
+      "Yosef Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the Rabbi Yosei/Rabbi Natan dispute about kindling fire on Shabbat and its application to hishtachavah \u2014 exactly the content described in the 'Fire Debate' prose, which explicitly summarizes this baraita and Rabbi Abba's conclusion about bowing.",
+      "chosen_heading": "Fire Debate",
+      "current_heading": "Fire Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Yosef Clarifies",
+    "candidates": [
+      "Hishtachavah Distinction",
+      "Yosef Clarifies",
+      "Pasuk Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items comprise Rav Yosef's objection and its supporting baraita \u2014 exactly the content described in the 'Yosef Clarifies' prose, which explicitly paraphrases Rav Yosef's argument about Rabbi Yosi deriving chiluk melachos from me'achas mehena rather than from fire.",
+      "chosen_heading": "Yosef Clarifies",
+      "current_heading": "Yosef Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Pasuk Explained",
+    "candidates": [
+      "Pasuk Explained",
+      "Shimon Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yonatan's derivation from the verse 'me'achas mehena' explaining Rabbi Yosei's reasoning through the four terms (achat, me'achat, heina, meheinah) and the two compound cases, which is precisely what the 'Pasuk Explained' prose describes.",
+      "chosen_heading": "Pasuk Explained",
+      "current_heading": "Pasuk Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shimon Case",
+    "candidates": [
+      "Shimon Case",
+      "Categories",
+      "One That Is Many",
+      "Many That Is One",
+      "Avodah Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the Shimon/shin-mem example to illustrate 'achat' and 'me'achat', which is exactly what the 'Shimon Case' prose describes.",
+      "chosen_heading": "Shimon Case",
+      "current_heading": "Shimon Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Avodah Framework",
+    "candidates": [
+      "Categories",
+      "One That Is Many",
+      "Many That Is One",
+      "Avodah Framework",
+      "Different Korbanos",
+      "Same Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 10 items deal with applying the 'achas mehena/heina/meheinah' framework to avodah zarah \u2014 including the four primary avodos, subcategories, the compound cases of zadon/shogeg, the difficulty of defining shgegat avodah zarah, the mei'ahavah umiyirah answer, and Rava's 'omer mutar' resolution \u2014 which is precisely what the 'Avodah Framework' prose describes.",
+      "chosen_heading": "Avodah Framework",
+      "current_heading": "Avodah Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Same Korban",
+    "candidates": [
+      "Different Korbanos",
+      "Same Korban",
+      "Hishtachavah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 raises the challenge that the verses in question appear in a context of differentiated korbanot (par/seir/kisbah), which perfectly matches candidate 0's prose about the gemara withdrawing the suggestion because me'achas mehena presupposes this structure \u2014 while item 2 (the baraita about v'shavin she'bis'eirah k'yachid) completes the same argument by showing avodah zarah has no such differentiation, together forming the single challenge described in candidate 0's prose.",
+      "chosen_heading": "Different Korbanos",
+      "current_heading": "Same Korban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Hishtachavah Source",
+    "candidates": [
+      "Same Korban",
+      "Hishtachavah Source",
+      "Shabbos Stricter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'v'su lo midi' directly corresponds to the prose in 'Hishtachavah Source' which explicitly mentions 'v'su lo midi \u2014 and nothing more need be said' in the context of concluding that me'achas mehena cannot apply to avodah zarah.",
+      "chosen_heading": "Hishtachavah Source",
+      "current_heading": "Hishtachavah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Shabbos Stricter",
+    "candidates": [
+      "Shabbos Stricter",
+      "Other Mitzvos",
+      "Reverse Stringency",
+      "Consistency Question",
+      "Proposed Parallel",
+      "Rejection Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Shmuel bar Yehuda's report of the baraita comparing Shabbat stringencies to other mitzvot stringencies, which is exactly what the 'Shabbos Stricter' prose describes \u2014 the comparative baraita with chomer b'Shabbos and chomer b'sh'ar mitzvos, including the two melachos in one he'elam point.",
+      "chosen_heading": "Shabbos Stricter",
+      "current_heading": "Shabbos Stricter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Rejection Reason",
+    "candidates": [
+      "Other Mitzvos",
+      "Reverse Stringency",
+      "Consistency Question",
+      "Proposed Parallel",
+      "Rejection Reason",
+      "Mistaken Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "All five items form one continuous examination of the baraita \u2014 the initial problem (items 1-2), Rabbi Yo\u1e25anan's dismissal (item 3), the proposed avodah zarah resolution (item 4), and its rejection via the latter clause (item 5) \u2014 which is precisely what the 'Rejection Reason' prose describes in full.",
+      "chosen_heading": "Rejection Reason",
+      "current_heading": "Rejection Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Mistaken Action",
+    "candidates": [
+      "Mistaken Action",
+      "Avodah Gap",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's elimination of possible mis'asek scenarios in avodah zarah, which is precisely what the 'Mistaken Action' prose describes \u2014 the bowing-toward-synagogue case, the statue case, and the conclusion that there is no middle case parallel to mis'asek on Shabbos.",
+      "chosen_heading": "Mistaken Action",
+      "current_heading": "Mistaken Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Unresolved",
+    "candidates": [
+      "Avodah Gap",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items trace the gemara's final attempts to resolve the braisa through meahava umiyirah and omer mutar, ending with the demonstration that neither works \u2014 exactly the 'unresolved' conclusion described in candidate 1's prose.",
+      "chosen_heading": "Unresolved",
+      "current_heading": "Unresolved",
+      "moved": false
+    }
+  }
+]

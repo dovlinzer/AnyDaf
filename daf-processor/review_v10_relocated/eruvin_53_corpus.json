@@ -1,0 +1,519 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Alef vs. Ayin",
+    "candidates": [
+      "Me'abrin/Me'arvin",
+      "Alef vs. Ayin",
+      "Guttural Loss",
+      "Machpelah Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe exactly the Rav/Shmuel dispute over the alef vs. ayin spelling and both explanations of the two readings, which is precisely what candidate 1 ('Alef vs. Ayin') discusses in its prose.",
+      "chosen_heading": "Alef vs. Ayin",
+      "current_heading": "Alef vs. Ayin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Machpelah Structure",
+    "candidates": [
+      "Guttural Loss",
+      "Machpelah Structure",
+      "Four Couples",
+      "Amraphel/Nimrod"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Machpelah Cave dispute between Rav and Shmuel \u2014 the physical structure interpretation, the etymological question about the name Machpelah, and the resolution via zugot/pairs \u2014 which is precisely what the 'Machpelah Structure' prose section describes.",
+      "chosen_heading": "Machpelah Structure",
+      "current_heading": "Machpelah Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Amraphel/Nimrod",
+    "candidates": [
+      "Four Couples",
+      "Amraphel/Nimrod",
+      "New King Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav and Shmuel dispute about Amraphel/Nimrod, which is precisely what the prose under 'Amraphel/Nimrod' describes.",
+      "chosen_heading": "Amraphel/Nimrod",
+      "current_heading": "Amraphel/Nimrod",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "New King Debate",
+    "candidates": [
+      "New King Debate",
+      "Eighteen Days Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items concern the Rav-Shmuel dispute about the 'new king' over Egypt, which is precisely what the 'New King Debate' prose describes in full detail.",
+      "chosen_heading": "New King Debate",
+      "current_heading": "New King Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Eighteen Days Learning",
+    "candidates": [
+      "Eighteen Days Learning",
+      "Lev and Chochmah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mnemonic, Rabbi Yo\u1e25anan's statement about eighteen days learning only one thing, and the challenge from his contradictory statement about twelve students \u2014 are directly discussed in candidate 0's prose, which walks through exactly this sequence including the *ini* challenge at the end.",
+      "chosen_heading": "Eighteen Days Learning",
+      "current_heading": "Eighteen Days Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Lev and Chochmah",
+    "candidates": [
+      "Lev and Chochmah",
+      "Four in One Amah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three resolutions about what Rabbi Yochanan learned from Rabbi Oshaya (lev/chochmah vs. gemara, from students vs. from Oshaya himself, and one matter in the mishnah), which is precisely what the 'Lev and Chochmah' prose section explicates.",
+      "chosen_heading": "Lev and Chochmah",
+      "current_heading": "Lev and Chochmah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Four in One Amah",
+    "candidates": [
+      "Four in One Amah",
+      "Opening Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yochanan's account of sitting four per cubit by Rabbi Oshaya and Rabbi Yehuda HaNasi's account of six per cubit by Rabbi Elazar ben Shamua, which is precisely what the 'Four in One Amah' prose discusses.",
+      "chosen_heading": "Four in One Amah",
+      "current_heading": "Four in One Amah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Opening Comparison",
+    "candidates": [
+      "Opening Comparison",
+      "Needle/Wax Metaphors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yochanan's comparison of Rabbi Oshaya to Rabbi Meir, the ulam/heichal/needle metaphor, and its specification of who the rishonim and acharonim are \u2014 are all explicitly discussed together in the 'Opening Comparison' prose, which covers exactly this content about generational decline and the needle metaphor in context.",
+      "chosen_heading": "Opening Comparison",
+      "current_heading": "Opening Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Needle/Wax Metaphors",
+    "candidates": [
+      "Needle/Wax Metaphors",
+      "Rabbinic Authority",
+      "Judean Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye, Rava, and Rav Ashi's metaphors about declining generational capacity (peg in wall, finger in wax, finger in pit), which is precisely what the 'Needle/Wax Metaphors' section's prose discusses in detail.",
+      "chosen_heading": "Needle/Wax Metaphors",
+      "current_heading": "Needle/Wax Metaphors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Judean Precision",
+    "candidates": [
+      "Rabbinic Authority",
+      "Judean Precision",
+      "Galilean Looseness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the teaching about Judean precision and Galilean looseness, and the prose under 'Judean Precision' (index 1) explicitly introduces and paraphrases this exact Rav Yehuda/Rav teaching, making it the clear home for this item.",
+      "chosen_heading": "Judean Precision",
+      "current_heading": "Judean Precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Galilean Looseness",
+    "candidates": [
+      "Galilean Looseness",
+      "One vs. Many Teachers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source text that the 'Galilean Looseness' prose section is directly explaining and commenting upon, discussing precision of language and mnemonics.",
+      "chosen_heading": "Galilean Looseness",
+      "current_heading": "Galilean Looseness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "One vs. Many Teachers",
+    "candidates": [
+      "One vs. Many Teachers",
+      "Text Analysis",
+      "David/Shaul",
+      "Shaul's Evil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Bnei Yehuda learning from one teacher versus Bnei Galil learning from many teachers, which is precisely what the 'One vs. Many Teachers' section prose addresses.",
+      "chosen_heading": "One vs. Many Teachers",
+      "current_heading": "One vs. Many Teachers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Shaul's Evil",
+    "candidates": [
+      "Text Analysis",
+      "David/Shaul",
+      "Shaul's Evil",
+      "Shaul's Forgiveness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Text Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Ravina's statement about bnei Yehuda and bnei Galil disclosing the tractate) is explicitly discussed in candidate 0's prose, which quotes and analyzes this exact teaching.",
+      "second_heading": "David/Shaul",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 describe the David/Saul contrast regarding galui masechta, which is precisely what candidate 1's prose discusses, including the verse 'yereiecha yiruni veyismachu' and the contrast between David and Saul.",
+      "current_heading": "Shaul's Evil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Shaul's Forgiveness",
+    "candidates": [
+      "Shaul's Evil",
+      "Shaul's Forgiveness",
+      "Which Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's derivation that God forgave Shaul for the sin of Nov, using the phrase 'with me' to mean sharing Samuel's partition in heaven \u2014 exactly what the 'Shaul's Forgiveness' prose describes.",
+      "chosen_heading": "Shaul's Forgiveness",
+      "current_heading": "Shaul's Forgiveness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Which Version",
+    "candidates": [
+      "Which Version",
+      "Both Versions Exist",
+      "Tardin Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Which Version",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Abba's question about asking the bnei Yehuda, which matches candidate 0's prose exactly describing that same question about me'abberin/akkuzo.",
+      "second_heading": "Both Versions Exist",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the reply from the bnei Yehuda that both variants exist, which matches candidate 1's prose exactly describing that response.",
+      "current_heading": "Which Version",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tardin Example",
+    "candidates": [
+      "Both Versions Exist",
+      "Tardin Example",
+      "Chamar Confusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Judean merchant's precise color description of his cloak using beet leaves, which is exactly what the 'Tardin Example' section's prose discusses in detail.",
+      "chosen_heading": "Tardin Example",
+      "current_heading": "Tardin Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Chamar Confusion",
+    "candidates": [
+      "Chamar Confusion",
+      "Woman's Slips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Galilean chamar/amar confusion story discussed in candidate 0's prose, matching all four words and the communicative chaos theme.",
+      "chosen_heading": "Chamar Confusion",
+      "current_heading": "Chamar Confusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Woman's Slips",
+    "candidates": [
+      "Woman's Slips",
+      "Judge's Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact story of a woman who garbled 'come let me feed you milk' into 'a lioness eat you,' which is precisely what the prose under heading 0 ('Woman's Slips') discusses.",
+      "chosen_heading": "Woman's Slips",
+      "current_heading": "Woman's Slips",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Judge's Woman",
+    "candidates": [
+      "Judge's Woman",
+      "Maidservant's Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the woman who came before a judge and made mispronunciations resulting in disrespect, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Judge's Woman",
+      "current_heading": "Judge's Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Maidservant's Wisdom",
+    "candidates": [
+      "Maidservant's Wisdom",
+      "Riddles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the maidservant of Rabbi's household using indirect speech (leshon chachma) to signal that guests should leave or stay, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Maidservant's Wisdom",
+      "current_heading": "Maidservant's Wisdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Riddles",
+    "candidates": [
+      "Riddles",
+      "Abbahu's Riddle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rabbi Yosei bar Asyan's enigmatic speech patterns (beets with mustard, and inquiring about an innkeeper), which exactly match the prose under heading 0 ('Riddles') and have no connection to heading 1's discussion of Rabbi Abbahu's riddles.",
+      "chosen_heading": "Riddles",
+      "current_heading": "Riddles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Abbahu's Riddle",
+    "candidates": [
+      "Abbahu's Riddle",
+      "Hide-and-Seek",
+      "South Journey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Abbahu's enigmatic speech about coals, gold, and roosters ('speakers-in-the-dark'), which is precisely what the 'Abbahu's Riddle' section prose discusses in detail.",
+      "chosen_heading": "Abbahu's Riddle",
+      "current_heading": "Abbahu's Riddle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "South Journey",
+    "candidates": [
+      "Hide-and-Seek",
+      "South Journey",
+      "Woman/Pe'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (the riddle about Rabbi Elai's whereabouts, the two interpretations of Rabbi Abbahu's answer, and Rabbi Elai's reply about Rabbi Abbahu) form one continuous 'hide-and-seek' wordplay exchange, which is precisely what the 'Hide-and-Seek' prose describes, while the current 'South Journey' heading only describes content already contained within this passage rather than introducing a separate topic.",
+      "chosen_heading": "Hide-and-Seek",
+      "current_heading": "South Journey",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Woman/Pe'ah",
+    "candidates": [
+      "South Journey",
+      "Woman/Pe'ah",
+      "Girl/Field Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together narrate the complete story of Rabbi Yehoshua ben \u1e24ananya's encounter with the innkeeper woman and the pe'ah lesson, which is precisely what the 'Woman/Pe'ah' section prose describes in detail.",
+      "chosen_heading": "Woman/Pe'ah",
+      "current_heading": "Woman/Pe'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Girl/Field Path",
+    "candidates": [
+      "Girl/Field Path",
+      "Boy/Crossroads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the young girl/field path incident, which matches exactly the prose under heading 0.",
+      "chosen_heading": "Girl/Field Path",
+      "current_heading": "Girl/Field Path",
+      "moved": false
+    }
+  }
+]

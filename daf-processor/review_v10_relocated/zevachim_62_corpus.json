@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Locating Mizbeach",
+    "candidates": [
+      "Locating Mizbeach",
+      "R. Elazar: Michael Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question 'bishlama bayit minkar tzurato / ela mizbe'ach mena yad'ei' which is precisely what the 'Locating Mizbeach' section's prose describes and analyzes.",
+      "chosen_heading": "Locating Mizbeach",
+      "current_heading": "Locating Mizbeach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "R. Elazar: Michael Vision",
+    "candidates": [
+      "R. Elazar: Michael Vision",
+      "R. Yitzchak: Ashes Mark",
+      "R. Shmuel: Smell Distinction",
+      "Three Prophets from Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rabbi Elazar, Rabbi Yitzchak Nappa\u1e25a, and Rabbi Shmuel bar Na\u1e25mani) together in a single Talmudic block, and the current heading 'R. Elazar: Michael Vision' is where it sits, with the subsequent headings' prose already summarizing these opinions as context \u2014 the full tripartite passage belongs under the first heading where it is currently placed, as the essay then discusses each opinion separately in subsequent sections.",
+      "chosen_heading": "R. Elazar: Michael Vision",
+      "current_heading": "R. Elazar: Michael Vision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Three Prophets from Exile",
+    "candidates": [
+      "R. Yitzchak: Ashes Mark",
+      "R. Shmuel: Smell Distinction",
+      "Three Prophets from Exile",
+      "R. Elazar ben Yaakov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source quoted for the 'Three Prophets from Exile' section, which directly discusses Rabba bar bar Chana citing Rabbi Yochanan about the three prophets who ascended from exile.",
+      "chosen_heading": "Three Prophets from Exile",
+      "current_heading": "Three Prophets from Exile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "R. Elazar ben Yaakov",
+    "candidates": [
+      "R. Elazar ben Yaakov",
+      "Me'akvin Components"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Eliezer ben Yaakov about three prophets ascending from exile with testimonies about the altar location, sacrificing without a Temple, and Torah written in Ashurit script \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "R. Elazar ben Yaakov",
+      "current_heading": "R. Elazar ben Yaakov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Me'akvin Components",
+    "candidates": [
+      "Me'akvin Components",
+      "Pesuk Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the baraita listing the me'akvin components and the initial scriptural derivation from Rav Huna, but the current placement under 'Me'akvin Components' is correct since candidate 1's prose discusses the follow-up challenges and tannaitic dispute about karchov, while this passage only presents the baraita and Rav Huna's basic principle \u2014 matching the current heading's prose exactly.",
+      "chosen_heading": "Me'akvin Components",
+      "current_heading": "Me'akvin Components",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Pesuk Derivation",
+    "candidates": [
+      "Pesuk Derivation",
+      "Karchov Debate",
+      "Broken Horn Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about karchov/kiyyur/sovev being me'akev due to the hamizbe'ach formulation, which is precisely what the 'Pesuk Derivation' prose describes as the immediate challenge raised after Rav Huna's derivation rule.",
+      "chosen_heading": "Pesuk Derivation",
+      "current_heading": "Pesuk Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Broken Horn Story",
+    "candidates": [
+      "Karchov Debate",
+      "Broken Horn Story",
+      "Two Karchov Functions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the 'Broken Horn Story' episode \u2014 the damaged altar corner, the salt repair, and the list of disqualifying defects \u2014 which is precisely what the 'Broken Horn Story' section's prose discusses in detail.",
+      "chosen_heading": "Broken Horn Story",
+      "current_heading": "Broken Horn Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Two Karchov Functions",
+    "candidates": [
+      "Two Karchov Functions",
+      "Dimensions Not Me'akvin",
+      "Rabbi Yosi's Size Limit",
+      "R. Yosef's Confusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita defining karkov and Rav Na\u1e25man bar Yitz\u1e25ak's resolution that there were two karkovim \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Two Karchov Functions",
+      "current_heading": "Two Karchov Functions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "R. Yosef's Confusion",
+    "candidates": [
+      "Dimensions Not Me'akvin",
+      "Rabbi Yosi's Size Limit",
+      "R. Yosef's Confusion",
+      "Gezirin Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Yosef's 'one cubit' answer, Abaye's defense about the mekom ha-ma'arachah, and the bnei Keturah episode including the Rabbi Tarfon story \u2014 are precisely what candidate 2's prose describes, and the current placement is correct.",
+      "chosen_heading": "R. Yosef's Confusion",
+      "current_heading": "R. Yosef's Confusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Gezirin Measurements",
+    "candidates": [
+      "Gezirin Measurements",
+      "Amah Kduma Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the dimensions of the gezirin (logs Moses made), which is exactly what the prose under 'Gezirin Measurements' discusses.",
+      "chosen_heading": "Gezirin Measurements",
+      "current_heading": "Gezirin Measurements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Amah Kduma Discussion",
+    "candidates": [
+      "Amah Kduma Discussion",
+      "Kevesh Dimensions",
+      "Kevesh North Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yirmiyah's shortened cubit and Rav Yosef's baraita about logs not extending beyond the mizbe'ach, which is exactly what the 'Amah Kduma Discussion' prose describes.",
+      "chosen_heading": "Amah Kduma Discussion",
+      "current_heading": "Amah Kduma Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Kevesh North Location",
+    "candidates": [
+      "Kevesh Dimensions",
+      "Kevesh North Location",
+      "Lying vs. Sitting Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the southern location of the kevesh from the verse about 'yerech hamizbe'ach tzafonah,' which is precisely what candidate 1 'Kevesh North Location' discusses \u2014 the gemara's question of how we know the kevesh was on the south side and Rav Huna's derivation from that verse.",
+      "chosen_heading": "Kevesh North Location",
+      "current_heading": "Kevesh North Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Lying vs. Sitting Debate",
+    "candidates": [
+      "Lying vs. Sitting Debate",
+      "Right Turns East"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Rava-Abaye debate about whether 'ravu'a' implies lying down vs. squareness, which is precisely what the 'Lying vs. Sitting Debate' prose describes in detail.",
+      "chosen_heading": "Lying vs. Sitting Debate",
+      "current_heading": "Lying vs. Sitting Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Right Turns East",
+    "candidates": [
+      "Right Turns East",
+      "Air Space Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the rule that all turns must be right turns toward the east, derived from Rabbi Yehuda's baraita and Rami bar Ye\u1e25izkiya's teaching about Solomon's Basin, which is precisely what the 'Right Turns East' prose describes.",
+      "chosen_heading": "Right Turns East",
+      "current_heading": "Right Turns East",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Air Space Requirement",
+    "candidates": [
+      "Air Space Requirement",
+      "Two Small Ramps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the air space between the ramp and the altar, the zrika analogy from the verse, and Rav Pappa's derivation \u2014 exactly the content described in the 'Air Space Requirement' prose.",
+      "chosen_heading": "Air Space Requirement",
+      "current_heading": "Air Space Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Two Small Ramps",
+    "candidates": [
+      "Two Small Ramps",
+      "Elevation Ratios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation from 'saviv' and 'ravu'a' for the separation of the small ramps from the mizbe'ach, which is precisely what the 'Two Small Ramps' prose section describes in detail.",
+      "chosen_heading": "Two Small Ramps",
+      "current_heading": "Two Small Ramps",
+      "moved": false
+    }
+  }
+]

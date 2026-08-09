@@ -1,0 +1,451 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Perek Overview",
+    "candidates": [
+      "Perek Overview",
+      "Tircha Concept",
+      "Rav Chisda vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly continues the Gemara's discussion about the storeroom prohibition and identifies it as Rabbi Yehuda's position on muktzeh, which is precisely what the Rav Chisda vs Shmuel section is discussing \u2014 the Mishnah's rules about moving boxes and the muktzeh concerns involved.",
+      "chosen_heading": "Rav Chisda vs Shmuel",
+      "current_heading": "Perek Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Rav Chisda vs Shmuel",
+    "candidates": [
+      "Tircha Concept",
+      "Rav Chisda vs Shmuel",
+      "Granary Muktzeh",
+      "Min HaMuchan Gap",
+      "Granary Paths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Shmuel's position \u2014 that 'four or five' is idiomatic with no fixed limit, and that one may not completely empty the storeroom lest one smooth holes \u2014 which is precisely what the 'Rav Chisda vs Shmuel' prose describes as Shmuel's reading of the Mishnah.",
+      "chosen_heading": "Rav Chisda vs Shmuel",
+      "current_heading": "Rav Chisda vs Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Granary Paths",
+    "candidates": [
+      "Granary Muktzeh",
+      "Min HaMuchan Gap",
+      "Granary Paths",
+      "Tzvuah Tzvurah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita about not beginning to use the storeroom (ein matchilin be-otzar techila) and making a path with one's feet, which is precisely what the 'Granary Paths' prose describes and analyzes.",
+      "chosen_heading": "Granary Paths",
+      "current_heading": "Granary Paths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Tzvuah Tzvurah",
+    "candidates": [
+      "Tzvuah Tzvurah",
+      "Rabbi Achai vs Shimon",
+      "Shiur Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the baraita's initial ruling (matching heading 0's prose) and the Gemara's correction of the attribution (matching heading 1's prose), but since the entire passage is one continuous unit it should sit under one heading, and heading 0 is where it currently sits and where the baraita begins \u2014 however, heading 1's prose actually describes the correction portion which is the bulk of the passage's content, making heading 1 arguably the better fit, but the passage starts with the baraita text that heading 0 introduces, so current placement is reasonable.",
+      "chosen_heading": "Tzvuah Tzvurah",
+      "current_heading": "Tzvuah Tzvurah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Shiur Amounts",
+    "candidates": [
+      "Rabbi Achai vs Shimon",
+      "Shiur Amounts",
+      "Trips vs Load"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the measure of piled grain (a half-kor/letech) and Rav Nechumi bar Zachai's question to Abaye, which is precisely what the 'Shiur Amounts' section's prose describes.",
+      "chosen_heading": "Shiur Amounts",
+      "current_heading": "Shiur Amounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Trips vs Load",
+    "candidates": [
+      "Trips vs Load",
+      "Bottle Sizes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma between minimizing trips (mi'uta be-hilucha) versus minimizing load (mi'uta be-mas'oi), which is exactly what the 'Trips vs Load' section prose describes.",
+      "chosen_heading": "Trips vs Load",
+      "current_heading": "Trips vs Load",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Bottle Sizes",
+    "candidates": [
+      "Bottle Sizes",
+      "Guests & Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the contradiction between the two baraitot (four/five vs. ten/fifteen baskets) and the Gemara's resolution that the numbers refer to jugs of different sizes (including the pitchers of Harpanya), which is precisely what the 'Bottle Sizes' prose describes.",
+      "chosen_heading": "Bottle Sizes",
+      "current_heading": "Bottle Sizes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Guests & Limits",
+    "candidates": [
+      "Guests & Limits",
+      "Rabbi Field Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about whether four or five baskets is an absolute limit or proportional to guests, which is precisely what the 'Guests & Limits' prose section discusses.",
+      "chosen_heading": "Guests & Limits",
+      "current_heading": "Guests & Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Field Story",
+    "candidates": [
+      "Rabbi Field Story",
+      "Individual vs Group",
+      "Rabbi's Intent",
+      "Pharaoh Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two versions of the Rabbi/Rabbi \u1e24iyya field-clearing story (Rabbah's version and Rav Yosef's version), which is precisely what heading 0 'Rabbi Field Story' describes \u2014 the prose there explicitly discusses both the primary version and 'an alternate version attributed to Rav Yosef' with Rebbe Chiya, matching both items exactly.",
+      "chosen_heading": "Rabbi Field Story",
+      "current_heading": "Rabbi Field Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Pharaoh Analogy",
+    "candidates": [
+      "Individual vs Group",
+      "Rabbi's Intent",
+      "Pharaoh Analogy",
+      "Greatness of Guests",
+      "Guests vs Shechina"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Individual vs Group",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses the unresolved dilemma of whether one person clears for all or each clears for himself, which is exactly what candidate 0's prose describes as the remaining question after the main ruling.",
+      "second_heading": "Rabbi's Intent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 attempts to resolve that dilemma from the story of Rabbi clearing the field and concludes each person clears for himself, which is precisely what candidate 1's prose discusses under 'Rabbi's Intent'.",
+      "current_heading": "Pharaoh Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Guests vs Shechina",
+    "candidates": [
+      "Greatness of Guests",
+      "Guests vs Shechina",
+      "Peah Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three teachings \u2014 Rabbi Yochanan's comparison to hashkamat beit hamidrash, Rav Dimi's elevation above it, Rav Yehuda/Rav's comparison to receiving the Shechina, and Rabbi Elazar's elaboration \u2014 and heading 0 ('Greatness of Guests') with its prose discussing both Rabbi Yochanan and Rav Dimi is the natural home, while heading 1 ('Guests vs Shechina') only covers part of the passage and its prose already discusses all these teachings together anyway, making heading 0 the better unified home for the complete item.",
+      "chosen_heading": "Greatness of Guests",
+      "current_heading": "Guests vs Shechina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Peah Mishnah",
+    "candidates": [
+      "Guests vs Shechina",
+      "Peah Mishnah",
+      "List Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's list of six things whose fruits are enjoyed in this world with principal remaining for the World-to-Come, which is precisely what the 'Peah Mishnah' section's prose introduces and discusses before raising the objection from the Mishnah in Peah.",
+      "chosen_heading": "Peah Mishnah",
+      "current_heading": "Peah Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "List Reconciliation",
+    "candidates": [
+      "List Reconciliation",
+      "Practical Rewards",
+      "Worker Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge from the Peah Mishnah and its resolution (hani nami be-hani shaychi), which is precisely what the 'List Reconciliation' prose discusses \u2014 how Rabbi Yochanan's longer list is subsumed within the Mishnah's shorter list.",
+      "chosen_heading": "List Reconciliation",
+      "current_heading": "List Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Worker Payment",
+    "candidates": [
+      "Practical Rewards",
+      "Worker Payment",
+      "Employer's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the worker asking for wages and being denied with successive 'ein li' responses, walking home in anguish \u2014 exactly the first story described in the 'Worker Payment' section's prose.",
+      "chosen_heading": "Worker Payment",
+      "current_heading": "Worker Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Employer's Reasoning",
+    "candidates": [
+      "Employer's Reasoning",
+      "Mutual Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the post-festival scene where the employer visits the worker's home and conducts the 'b'mah chashadtani' dialogue, which is precisely what Candidate 0's prose ('Employer's Reasoning') discusses in detail.",
+      "chosen_heading": "Employer's Reasoning",
+      "current_heading": "Employer's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Mutual Judgment",
+    "candidates": [
+      "Mutual Judgment",
+      "Hasid & Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the homeowner's explanation about his vow and his blessing to the worker, which is precisely what the 'Mutual Judgment' section's prose discusses in detail.",
+      "chosen_heading": "Mutual Judgment",
+      "current_heading": "Mutual Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Hasid & Woman",
+    "candidates": [
+      "Hasid & Woman",
+      "Students' Charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the pious man redeeming the woman, placing her beneath his feet at the inn, and immersing the next morning before teaching \u2014 exactly what heading 0's prose discusses, before the students' dialogue covered in heading 1.",
+      "chosen_heading": "Hasid & Woman",
+      "current_heading": "Hasid & Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Students' Charity",
+    "candidates": [
+      "Students' Charity",
+      "R. Yehoshua Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the direct continuation of the chasid's dialogue with his students about judging favorably, which is precisely what the 'Students' Charity' prose discusses in detail, including the exact phrases from both items.",
+      "chosen_heading": "Students' Charity",
+      "current_heading": "Students' Charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "R. Yehoshua Story",
+    "candidates": [
+      "R. Yehoshua Story",
+      "Students Interpret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the opening of the Rabbi Yehoshua story \u2014 the scholars needing a favor from the Roman matron and Rabbi Yehoshua volunteering \u2014 which is exactly what the 'R. Yehoshua Story' prose section introduces and discusses.",
+      "chosen_heading": "R. Yehoshua Story",
+      "current_heading": "R. Yehoshua Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Students Interpret",
+    "candidates": [
+      "Students Interpret",
+      "Trumah Tahorah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe Rabbi Yehoshua's visit to the woman's house and his subsequent dialogue with his students about their suspicions, which is precisely what the 'Students Interpret' prose section discusses in detail.",
+      "chosen_heading": "Students Interpret",
+      "current_heading": "Students Interpret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Trumah Tahorah",
+    "candidates": [
+      "Trumah Tahorah",
+      "Demai Use",
+      "Beit Shammai Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses moving pure terumah on Shabbat and the novel case of terumah in a Yisrael's hands, which matches exactly the 'Trumah Tahorah' section's prose.",
+      "chosen_heading": "Trumah Tahorah",
+      "current_heading": "Trumah Tahorah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Beit Shammai Hillel",
+    "candidates": [
+      "Demai Use",
+      "Beit Shammai Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full Gemara discussion about why demai is not muktzeh (including the theoretical renouncing of possessions argument and the Mishnah about feeding the poor demai), which matches the 'Demai Use' section's prose exactly, and the Beit Shammai/Hillel citation at the end is part of the same continuous passage rather than a separate unit.",
+      "chosen_heading": "Demai Use",
+      "current_heading": "Beit Shammai Hillel",
+      "moved": true
+    }
+  }
+]

@@ -34,8 +34,8 @@
           "timestamp": "04:47"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The case of borrowing from the father and admitting partial repayment to the son",
@@ -417,5 +417,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "23:36",
+  "amud_b_micro_title": "No Chutzpah to Creditor",
+  "shiur_start_daf": 17,
+  "shiur_start_amud": "b"
 }

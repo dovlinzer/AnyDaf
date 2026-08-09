@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Degrees of Power",
+    "candidates": [
+      "Grama vs. Direct Act",
+      "Mitzamtzem Principle",
+      "Non-Direct Acts",
+      "Energy Transfer",
+      "Sluice Gate Case",
+      "Degrees of Power",
+      "Immediacy Question",
+      "Shabbat Applications",
+      "Rock Trajectory",
+      "Energy Challenge",
+      "Weakened Energy",
+      "Fire Analogy",
+      "Gravity Partnership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's ruling about binding someone and diverting water (girei deideih hu) and distinguishes koach rishon from koach sheni, which is precisely what the 'Sluice Gate Case' prose introduces, while the current placement under 'Degrees of Power' is the follow-up commentary on that ruling rather than the ruling itself.",
+      "chosen_heading": "Sluice Gate Case",
+      "current_heading": "Degrees of Power",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Gravity Partnership",
+    "candidates": [
+      "Immediacy Question",
+      "Shabbat Applications",
+      "Rock Trajectory",
+      "Energy Challenge",
+      "Weakened Energy",
+      "Fire Analogy",
+      "Gravity Partnership",
+      "Ten Sticks Case",
+      "Simultaneous vs",
+      "Shinaim She'asuhu",
+      "Blame Deflection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's ruling and Mar bar Rav Ashi's challenge-and-answer about the angled rock trajectory, which is precisely what heading 2 ('Rock Trajectory') introduces with its prose about '*zarak tsror lemala ve'azla litsadadim*.'",
+      "chosen_heading": "Rock Trajectory",
+      "current_heading": "Gravity Partnership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Blame Deflection",
+    "candidates": [
+      "Ten Sticks Case",
+      "Simultaneous vs",
+      "Shinaim She'asuhu",
+      "Blame Deflection",
+      "What is Treifa",
+      "Gosses Status",
+      "Classification Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the baraita about ten people striking with ten sticks and Rabbi Yehuda ben Beteira's ruling, followed by Rabbi Yo\u1e25anan's derivation from 'kol nefesh adam' \u2014 all of which is explicitly summarized and analyzed in the 'Blame Deflection' prose, which directly describes both the sequential-attack liability question and Rabbi Yochanan's verse-based reconciliation of the two positions.",
+      "chosen_heading": "Blame Deflection",
+      "current_heading": "Blame Deflection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Classification Debate",
+    "candidates": [
+      "What is Treifa",
+      "Gosses Status",
+      "Classification Debate",
+      "Rashi on Murder Acts",
+      "Vital Organs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's statement that is quoted verbatim in the 'Gosses Status' prose ('hakol modim behoreig et hatreifa shehu patur'), and that section's prose explicitly discusses and contextualizes this exact Rava teaching about the three categories (treifa, gosses bidei shamayim, and the contested middle case).",
+      "chosen_heading": "Gosses Status",
+      "current_heading": "Classification Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Vital Organs",
+    "candidates": [
+      "Rashi on Murder Acts",
+      "Vital Organs",
+      "Treifa Murder Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of 'Vital Organs' explicitly discusses all four items: the treifa/goses distinction (items 1-2), the Rav Sheshet baraita about ein bo k'dei l'hamit vs. yeish bo k'dei l'hamit (items 3-4), and Rabbi Yehuda ben Beteira's position \u2014 exactly matching the passage's content.",
+      "chosen_heading": "Vital Organs",
+      "current_heading": "Vital Organs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Treifa Murder Rules",
+    "candidates": [
+      "Treifa Murder Rules",
+      "Community Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's ruling about killing a tereifa and a tereifa who kills, which is precisely what the 'Treifa Murder Rules' prose describes.",
+      "chosen_heading": "Treifa Murder Rules",
+      "current_heading": "Treifa Murder Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Community Removal",
+    "candidates": [
+      "Community Removal",
+      "Unvalidatable Testimony",
+      "Zomemim Logic",
+      "Treifa Not Corpse",
+      "Limited Treifa Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unvalidatable Testimony",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains the exemption rule via 'eidut she'i atah yachol lehazimah'\u2014precisely the content of the 'Unvalidatable Testimony' prose.",
+      "second_heading": "Treifa Not Corpse",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's extension to sodomy cases with the same bifnei/shelo bifnei beit din framework, matching exactly the 'Treifa Not Corpse' prose which describes Rava extending his analysis with those same rulings.",
+      "current_heading": "Community Removal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Limited Treifa Status",
+    "candidates": [
+      "Unvalidatable Testimony",
+      "Zomemim Logic",
+      "Treifa Not Corpse",
+      "Limited Treifa Status",
+      "Other Payos Example",
+      "Witnesses vs. Treifa",
+      "Treifa Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the case of sodomizing a tereifa needed to be stated separately (the chiddush), rejecting the notion that a tereifa is like a corpse for forbidden sexual acts, and establishing that liability is based on pleasure\u2014exactly what the 'Limited Treifa Status' prose describes.",
+      "chosen_heading": "Limited Treifa Status",
+      "current_heading": "Limited Treifa Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Treifa Witnesses",
+    "candidates": [
+      "Other Payos Example",
+      "Witnesses vs. Treifa",
+      "Treifa Witnesses",
+      "Rav Ashi Position",
+      "Zomemim Logic (II)",
+      "Rava on Shor",
+      "Verse Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rava's ruling about witnesses who testified against a treifa (not executed) AND treifa witnesses who were rendered zomemim (executed per Rava, not executed per Rav Ashi), which maps directly to the 'Witnesses vs. Treifa' section that introduces Rava's statement about witnesses testifying against a treifa and being proven zomemim \u2014 the current placement under 'Treifa Witnesses' only captures the second half of the passage.",
+      "chosen_heading": "Witnesses vs. Treifa",
+      "current_heading": "Treifa Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Verse Connection",
+    "candidates": [
+      "Rav Ashi Position",
+      "Zomemim Logic (II)",
+      "Rava on Shor",
+      "Verse Connection",
+      "Rav Ashi Ox View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement about the treifa ox and treifa owner, which is exactly what 'Rava on Shor' prose describes, while the current placement 'Verse Connection' covers the verse derivation that follows as elaboration \u2014 but the full Rava quote including both the ruling and the verse reasoning belongs under the heading that introduces Rava's position on this topic.",
+      "chosen_heading": "Rava on Shor",
+      "current_heading": "Verse Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Ashi Ox View",
+    "candidates": [
+      "Verse Connection",
+      "Rav Ashi Ox View",
+      "Sicked Dog",
+      "Snake Fangs Debate",
+      "Rabbi Yehuda Snake",
+      "Chachamim Snake"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Ashi's ruling that a tereifa ox that kills is exempt, exactly matching the 'Rav Ashi Ox View' prose which explicitly discusses this ruling and its reasoning.",
+      "chosen_heading": "Rav Ashi Ox View",
+      "current_heading": "Rav Ashi Ox View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Chachamim Snake",
+    "candidates": [
+      "Sicked Dog",
+      "Snake Fangs Debate",
+      "Rabbi Yehuda Snake",
+      "Chachamim Snake",
+      "Gun Intermediary",
+      "Initial Assessment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda Snake",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav A\u1e25a bar Ya'akov's analysis of Rabbi Yehuda's position\u2014that venom sits in the fangs and the presser acts like a swordsman\u2014which matches exactly the 'Rabbi Yehuda Snake' prose.",
+      "second_heading": "Chachamim Snake",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Chachamim's counter-position\u2014that the snake releases venom on its own, making the snake liable and the presser exempt\u2014which matches exactly the 'Chachamim Snake' prose.",
+      "current_heading": "Chachamim Snake",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Initial Assessment",
+    "candidates": [
+      "Gun Intermediary",
+      "Initial Assessment",
+      "Rabbi Nechemiah",
+      "Two Conditions",
+      "Verse Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the case of hamakeh et chaveiro with the lethal assessment and interim recovery, which is exactly what the 'Initial Assessment' prose section describes and introduces.",
+      "chosen_heading": "Initial Assessment",
+      "current_heading": "Initial Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Verse Interpretation",
+    "candidates": [
+      "Rabbi Nechemiah",
+      "Two Conditions",
+      "Verse Interpretation",
+      "Custody Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's baraita presenting Rabbi Ne\u1e25emya's derivation and ruling (victim assessed as lethal, recovered, then died \u2192 exempt), which directly supports the 'Rabbi Nechemiah' heading's prose about his exemption position, rather than the 'Verse Interpretation' heading which is a broader expository discussion of the same verses from the essay author's perspective.",
+      "chosen_heading": "Rabbi Nechemiah",
+      "current_heading": "Verse Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Custody Rule",
+    "candidates": [
+      "Verse Interpretation",
+      "Custody Rule",
+      "Source Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the Rabbis' interpretation of 'venikah hamakeh' as teaching incarceration, which is precisely what the 'Custody Rule' section's prose describes.",
+      "chosen_heading": "Custody Rule",
+      "current_heading": "Custody Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Source Debate",
+    "candidates": [
+      "Source Debate",
+      "Mkoshesh",
+      "Megadef",
+      "General Rule",
+      "Verse Facts",
+      "Scenario One",
+      "Scenario Two",
+      "Rabbis Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain debating whether Rabbi Ne\u1e25emya can derive incarceration from the Mekoshesh or Megadef, and whether the Rabbanan can do the same \u2014 exactly the source debate described in candidate 0's prose, which explicitly traces the Mekoshesh \u2192 Megadef \u2192 hora'at sha'ah \u2192 verse-necessity argument in the same sequence as the passage.",
+      "chosen_heading": "Source Debate",
+      "current_heading": "Source Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165,
+      166,
+      167,
+      168,
+      169
+    ],
+    "current_heading": "Rabbis Reading",
+    "candidates": [
+      "Mkoshesh",
+      "Megadef",
+      "General Rule",
+      "Verse Facts",
+      "Scenario One",
+      "Scenario Two",
+      "Rabbis Reading",
+      "First Braita",
+      "Monetary Assessment",
+      "Relapse Ruling",
+      "Chachamim",
+      "Reassess to Living",
+      "No Retroactive",
+      "Payment Timing",
+      "Attribution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbis Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Gemara's analysis of why two assessments are needed, matching the 'Rabbis Reading' prose about how each side reads the two scriptural facts.",
+      "second_heading": "First Braita",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-6 begin with a new Braita (\u05ea\u05b8\u05bc\u05e0\u05d5\u05bc \u05e8\u05b7\u05d1\u05b8\u05bc\u05e0\u05b7\u05df) introducing the First Braita about Rabbi Ne\u1e25emya's monetary assessment, matching the 'First Braita' section's prose.",
+      "current_heading": "Rabbis Reading",
+      "moved": true
+    }
+  }
+]

@@ -24,8 +24,8 @@
           "timestamp": "01:56"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Question of Koneh K'neged Kullo versus K'negdo in Monetary Transactions",
@@ -48,7 +48,7 @@
           "timestamp": "06:43"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -144,7 +144,7 @@
           "timestamp": "30:45"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -163,8 +163,8 @@
           "timestamp": "33:27"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Levi and Maaser Case: Moral Obligation Without Legal Bindingness",
@@ -187,7 +187,7 @@
           "timestamp": "37:48"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -561,5 +561,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "47:38",
+  "amud_b_micro_title": "Rav Tuvyumi Account",
+  "shiur_start_daf": 49,
+  "shiur_start_amud": "a"
 }

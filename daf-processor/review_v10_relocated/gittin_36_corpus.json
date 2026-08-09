@@ -1,0 +1,386 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Vow annulment problem",
+    "candidates": [
+      "Vow instead of oath",
+      "Vow annulment problem",
+      "Married woman's vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the two problems raised in heading 1's prose \u2014 the chakham-annulment concern (item 1) and the husband-annulment concern for a married woman (item 2) \u2014 making the current placement the best match.",
+      "chosen_heading": "Vow annulment problem",
+      "current_heading": "Vow annulment problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Married woman's vow",
+    "candidates": [
+      "Married woman's vow",
+      "Be-rabbim vs. al da'at",
+      "Tosafot: Husband Annuls",
+      "Be-Rabbim vs. Al Da'at",
+      "Three solutions explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal precisely with the tannaitic dispute over whether a vow made be-rabbim (in public) can or cannot be annulled by a husband, which is exactly what candidate 3's prose discusses \u2014 the question of whether be-rabbim blocks hafarah and the existence of opinions on both sides.",
+      "chosen_heading": "Be-Rabbim vs. Al Da'at",
+      "current_heading": "Married woman's vow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Three solutions explained",
+    "candidates": [
+      "Be-rabbim vs. al da'at",
+      "Tosafot: Husband Annuls",
+      "Be-Rabbim vs. Al Da'at",
+      "Three solutions explained",
+      "Gemara on two concepts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 3's prose describes: the gemara's presentation of whether one must detail a vow (tzarikh lefareit et haneder), with Rav Na\u1e25man and Rav Pappa's dispute and the proof from the kohen mishna \u2014 all framed as solutions to how a chakham can be blocked from dissolving the vow.",
+      "chosen_heading": "Three solutions explained",
+      "current_heading": "Three solutions explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Gemara on two concepts",
+    "candidates": [
+      "Gemara on two concepts",
+      "Ameimar's position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the gemara's proposal of 'demadirin lei be-rabbim' and the subsequent complication about the opinion that a vow made in public can still be annulled, which is exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Gemara on two concepts",
+      "current_heading": "Gemara on two concepts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Ameimar's position",
+    "candidates": [
+      "Ameimar's position",
+      "Dardeki case study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Ameimar's ruling that al da'at rabbim ein lo hafarah, which is precisely what candidate 0 ('Ameimar's position') discusses in its prose.",
+      "chosen_heading": "Ameimar's position",
+      "current_heading": "Ameimar's position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Dardeki case study",
+    "candidates": [
+      "Dardeki case study",
+      "Communal intent limits",
+      "Oath vs. vow nature",
+      "Biblical requirement",
+      "Rabbi Elazar view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the dardeki case study \u2014 the limitation for mitzvah matters and the specific incident of the negligent children's teacher \u2014 which is precisely what the current heading's prose discusses.",
+      "chosen_heading": "Dardeki case study",
+      "current_heading": "Dardeki case study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rabbi Elazar view",
+    "candidates": [
+      "Communal intent limits",
+      "Oath vs. vow nature",
+      "Biblical requirement",
+      "Rabbi Elazar view",
+      "Rabbinic innovation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the mishnah's claim that witnesses sign for tikkun olam and immediately raises the gemara's objection that signing is actually a biblical requirement \u2014 precisely what the 'Biblical requirement' section's prose describes.",
+      "chosen_heading": "Biblical requirement",
+      "current_heading": "Rabbi Elazar view",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Rabbinic innovation",
+    "candidates": [
+      "Rabbi Elazar view",
+      "Rabbinic innovation",
+      "Original practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the rabbinic institution of signatory witnesses specifically in the context of Rabbi Elazar's view (edei mesirah) and Rabbi Meir's view, which is precisely what the 'Rabbi Elazar view' prose section discusses \u2014 the tikkun ha-olam rationale belongs to the explanation of why edei chasimah were instituted according to Rabbi Elazar, not to the broader 'Rabbinic innovation' section which discusses downstream consequences of that institution.",
+      "chosen_heading": "Rabbi Elazar view",
+      "current_heading": "Rabbinic innovation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Original practice",
+    "candidates": [
+      "Original practice",
+      "Rabban Gamliel takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the original practice of witnesses writing only their first name and the problem of verification, which matches exactly the 'Original practice' section's prose about the early system before Rabban Gamliel's takana.",
+      "chosen_heading": "Original practice",
+      "current_heading": "Original practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rabban Gamliel takana",
+    "candidates": [
+      "Rabban Gamliel takana",
+      "Symbols as signatures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabban Gamliel's statement about the takana requiring witnesses to specify their full names in gittin for tikkun olam, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Rabban Gamliel takana",
+      "current_heading": "Rabban Gamliel takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Symbols as signatures",
+    "candidates": [
+      "Symbols as signatures",
+      "Symbol establishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the examples of sages signing with pictorial marks (fish, palm branch, etc.) and the answer that their marks are well-known, which is exactly what section 0's prose discusses \u2014 the tension raised by symbolic signatures and the setup for the gemara's answer, before section 1 addresses the follow-up circular problem.",
+      "chosen_heading": "Symbols as signatures",
+      "current_heading": "Symbols as signatures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Symbol establishment",
+    "candidates": [
+      "Symbol establishment",
+      "Hillel's takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the circular problem of how scholars began using their symbols, answered with 'be-diskei' (through letters/correspondence), which is precisely what the prose under 'Symbol establishment' describes.",
+      "chosen_heading": "Symbol establishment",
+      "current_heading": "Symbol establishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Hillel's takana",
+    "candidates": [
+      "Hillel's takana",
+      "Mitzvah framing",
+      "Prozbul text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Hillel's establishment of the pruzbul and its motivation, which is exactly what the 'Hillel's takana' section's prose discusses.",
+      "chosen_heading": "Hillel's takana",
+      "current_heading": "Hillel's takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Prozbul text",
+    "candidates": [
+      "Mitzvah framing",
+      "Prozbul text",
+      "Debt transfer mechanism",
+      "Gemara's challenge",
+      "Abaye's answer",
+      "Rabbi's teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the exact formula of the prosbol and notes that judges or witnesses sign below, which is precisely what the 'Prozbul text' section's prose discusses.",
+      "chosen_heading": "Prozbul text",
+      "current_heading": "Prozbul text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Rabbi's teaching",
+    "candidates": [
+      "Debt transfer mechanism",
+      "Gemara's challenge",
+      "Abaye's answer",
+      "Rabbi's teaching",
+      "No yovel status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gemara's challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge about Hillel's pruzbul overriding biblical shemita law, which matches exactly the prose of heading 1 ('Gemara's challenge').",
+      "second_heading": "Rabbi's teaching",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita of Rabbi Yehuda HaNasi expounding the two shemitot and their interdependence, which matches exactly the prose of heading 3 ('Rabbi's teaching').",
+      "current_heading": "Rabbi's teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "No yovel status",
+    "candidates": [
+      "No yovel status",
+      "Prior puzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses how the Rabbis instituted rabbinic shemitat kesafim and how Hillel countered its effect with the prosbol, which is precisely what the 'Prior puzzle' section's prose is discussing \u2014 the question of by what authority Rabbis instituted rabbinic shemitat kesafim and how Hillel's prosbol responded to it.",
+      "chosen_heading": "Prior puzzle",
+      "current_heading": "No yovel status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Prior puzzle",
+    "candidates": [
+      "No yovel status",
+      "Prior puzzle",
+      "Shev ve'al ta'aseh",
+      "Hefker beit din",
+      "Proof texts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question the 'Prior puzzle' prose describes \u2014 how could the Rabbis institute a rabbinic shemitat kesafim that annuls debts when by Torah law those debts still stand \u2014 which is the puzzle raised before Abaye and Rava's answers in subsequent sections.",
+      "chosen_heading": "Prior puzzle",
+      "current_heading": "Prior puzzle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Proof texts",
+    "candidates": [
+      "Shev ve'al ta'aseh",
+      "Hefker beit din",
+      "Proof texts",
+      "Mechanism vs. will",
+      "Propriety concern",
+      "Fig leaf approach",
+      "Prozbul as fig leaf",
+      "Transfer doesn't work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are proof texts for 'hefker beit din hefker' \u2014 item 1 contains Rabbi Yitzchak's Ezra verse and item 2 contains Rabbi Eliezer's Joshua verse \u2014 which is precisely what candidate 2 ('Proof texts') discusses in its prose.",
+      "chosen_heading": "Proof texts",
+      "current_heading": "Proof texts",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Eight Lessons",
+    "candidates": [
+      "One Cup Setup",
+      "Eight Lessons",
+      "Rav Ashi's Logic",
+      "Stringent Authorities",
+      "What Pagum Means"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Eight Lessons",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 list the multiple lessons ('learn from it') derived from the baraita, which is precisely what the 'Eight Lessons' prose describes.",
+      "second_heading": "Rav Ashi's Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Ashi's argument that two of those lessons are actually one unified concern (chada milta hi), which is exactly what the 'Rav Ashi's Logic' prose discusses.",
+      "current_heading": "Eight Lessons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "What Pagum Means",
+    "candidates": [
+      "Rav Ashi's Logic",
+      "Stringent Authorities",
+      "What Pagum Means",
+      "Tosafot Bedieved",
+      "Yerushalmi Fix",
+      "Practical Method",
+      "Zachor Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the three authorities (Rabbi Ya'akov bar Idi, Rav Idi bar Sheisha, Mar bar Rav Ashi) and their stringencies regarding blemished pitchers, cups, and barrels, which matches exactly the prose of candidate 1 'Stringent Authorities.'",
+      "chosen_heading": "Stringent Authorities",
+      "current_heading": "What Pagum Means",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Zachor Source",
+    "candidates": [
+      "Tosafot Bedieved",
+      "Yerushalmi Fix",
+      "Practical Method",
+      "Zachor Source",
+      "Day vs. Night",
+      "Rav Ashi Unsure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together present the baraita on 'Zachor et yom haShabbat l'kadsho' as the source for kiddush on wine, the Gemara's objection that night is actually primary, and the resolution reinterpreting the baraita \u2014 exactly what the 'Zachor Source' prose describes.",
+      "chosen_heading": "Zachor Source",
+      "current_heading": "Zachor Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rav Ashi Unsure",
+    "candidates": [
+      "Day vs. Night",
+      "Rav Ashi Unsure",
+      "Vayechulu Origins",
+      "Rambam View",
+      "Havdalah Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly describe the daytime kiddush blessing (borei pri hagafen) and the Rav Ashi/Mechuza incident, which is precisely what candidate 1 ('Rav Ashi Unsure') discusses in its prose \u2014 the current placement is correct.",
+      "chosen_heading": "Rav Ashi Unsure",
+      "current_heading": "Rav Ashi Unsure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Havdalah Timeline",
+    "candidates": [
+      "Vayechulu Origins",
+      "Rambam View",
+      "Havdalah Timeline",
+      "Fire Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the havdalah makeup window \u2014 item 1 establishes the rule and Rabbi Zeira's Tuesday cutoff, and item 2 provides the supporting analogy from gittin about 'after Shabbat' meaning the first three days of the week \u2014 which is precisely the content described in the 'Havdalah Timeline' prose.",
+      "chosen_heading": "Havdalah Timeline",
+      "current_heading": "Havdalah Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Fire Exception",
+    "candidates": [
+      "Fire Exception",
+      "Hand Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ya'akov bar Idi's ruling that havdalah recited later in the week may not include the blessing over fire, which is precisely what the 'Fire Exception' prose discusses.",
+      "chosen_heading": "Fire Exception",
+      "current_heading": "Fire Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Hand Washing",
+    "candidates": [
+      "Hand Washing",
+      "Rav Yitzchak Challenge",
+      "Rav's Flexibility",
+      "Rashbam Hefsek",
+      "Tosafot B'Makom",
+      "Ashkenazi Practice",
+      "Chamar Medina",
+      "Bread Asymmetry",
+      "Practical Shiur",
+      "Grape Juice Issue",
+      "Ta'am Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rav Beruna/Rav ruling that one who has washed hands should not recite kiddush, followed immediately by Rav Yitzchak bar Shmuel bar Marta's challenge based on Rav's own practice \u2014 this is one continuous exchange that the 'Hand Washing' section's prose explicitly describes and analyzes.",
+      "chosen_heading": "Hand Washing",
+      "current_heading": "Hand Washing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Ta'am Dispute",
+    "candidates": [
+      "Rav Yitzchak Challenge",
+      "Rav's Flexibility",
+      "Rashbam Hefsek",
+      "Tosafot B'Makom",
+      "Ashkenazi Practice",
+      "Chamar Medina",
+      "Bread Asymmetry",
+      "Practical Shiur",
+      "Grape Juice Issue",
+      "Ta'am Dispute",
+      "Yirmiah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's ruling that tasting does not permit kiddush and the dispute between Rav Huna and Rav Asi about whether tasting precludes havdalah, which is precisely what the 'Ta'am Dispute' section's prose describes.",
+      "chosen_heading": "Ta'am Dispute",
+      "current_heading": "Ta'am Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Yirmiah Case",
+    "candidates": [
+      "Yirmiah Case",
+      "Final Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the anecdote of Rav Yirmeya bar Abba coming to Rav Asi's house, eating before havdala, and Rav Asi's wife questioning the behavior \u2014 which is precisely what the 'Yirmiah Case' prose discusses.",
+      "chosen_heading": "Yirmiah Case",
+      "current_heading": "Yirmiah Case",
+      "moved": false
+    }
+  }
+]

@@ -72,8 +72,8 @@
           "timestamp": "17:47"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Deriving Which Acts Require Kohanim: The Superfluous 'Benei Aharon'",
@@ -101,7 +101,7 @@
           "timestamp": "17:47"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -154,7 +154,7 @@
           "timestamp": "17:47"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -178,8 +178,8 @@
           "timestamp": "17:47"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "Why Sidur Ma'aracha Can Be Done Before Daybreak Announcement But Shechita Cannot",
@@ -202,8 +202,8 @@
           "timestamp": "17:47"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -433,5 +433,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "17:47",
+  "amud_b_micro_title": "Rabbi Elazar Obj.",
+  "shiur_start_daf": 27,
+  "shiur_start_amud": "a"
 }

@@ -52,11 +52,9 @@ There is, however, an alternative approach found in some *rishonim*, which holds
 
 ### Mishrat Question
 
-With this conceptual backdrop established, the Gemara turns to a sharp question posed by Abaye to Rav Dimi. The question is straightforward: *mimai d'hai mishrat l'aitu'ei heter mitztaref le-issur* — how do you know that the verse *mishrat anavim* comes to teach the principle of *heter mitztaref le-issur*? *Dilma l'taam k'ikar hu de'ata* — perhaps it comes to teach the broader and more fundamental principle of *taam k'ikar*?
+With this conceptual backdrop established, the Gemara turns to a sharp question posed by Abaye to Rav Dimi: *mimai d'hai mishrah l'aitu'ei heter mitztaref le-issur* — how do you know that *mishrah* comes to teach the principle of *heter mitztaref le-issur*? *Dilma l'taam k'ikar hu de'ata* — perhaps it comes to teach the principle of *taam k'ikar* instead.
 
-The Gemara explains the history of Abaye's challenge. Initially, Abaye had been troubled by Rav Dimi's limitation of *heter mitztaref le-issur* exclusively to *nazir*, and had pressed him with a series of questions aiming to apply the principle more broadly. After Rav Dimi provided answers that successfully confined *heter mitztaref le-issur* to *nazir*, Abaye shifted direction entirely: rather than arguing for the broader application of *heter mitztaref le-issur*, he now questions whether *heter mitztaref le-issur* is the correct reading of *mishrat* at all. Perhaps the verse teaches not this narrow and powerful combination-principle, but rather the universal principle that taste counts as the thing itself.
-
----
+The Gemara then explains the arc of Abaye's challenge. Initially, Abaye had been troubled by Rav Dimi's limitation of *heter mitztaref le-issur* to *nazir* alone, and had pressed him with a series of questions aimed at applying the principle more broadly. After Rav Dimi answered those questions and successfully confined *heter mitztaref le-issur* to *nazir*, Abaye shifted direction: rather than continuing to argue for the broader application of *heter mitztaref le-issur*, he now questions whether *mishrah* teaches that principle at all — perhaps the verse speaks only to *taam k'ikar*, leaving *heter mitztaref le-issur* without a source.
 
 ## Mishrat Anavim Derash
 

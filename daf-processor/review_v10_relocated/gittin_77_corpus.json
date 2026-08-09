@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Opening Cases",
+    "candidates": [
+      "Opening Cases",
+      "Rabbi Yossi & Dating"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Opening Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 are the Mishna cases (conditional get language, death within twelve months, writing/giving timing) which exactly match the 'Opening Cases' prose describing those same mishna scenarios.",
+      "second_heading": "Rabbi Yossi & Dating",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is the Gemara opening ('Our Rabbis permitted her to marry') which is precisely the baraita that the 'Rabbi Yossi & Dating' prose begins by introducing and analyzing.",
+      "current_heading": "Opening Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Rabbi Yossi & Dating",
+    "candidates": [
+      "Rabbi Yossi & Dating",
+      "Scope of Dating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly concern the court of Rabbi Yehuda Nesia, their reliance on Rabbi Yossi's principle of zmano shel shtar, the colleagues' dissent (items 1-2), and the subsequent question about whether permission was granted immediately or after twelve months (items 3-4) \u2014 all of which are explicitly discussed in the 'Rabbi Yossi & Dating' prose.",
+      "chosen_heading": "Rabbi Yossi & Dating",
+      "current_heading": "Rabbi Yossi & Dating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Scope of Dating",
+    "candidates": [
+      "Scope of Dating",
+      "Tosafot: Safek Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's exact ruling about 'lich'she'tetzei,' 'al m'nat she'tetzei,' and 'im tetzei' with the Rav Huna/Rav principle, all of which are explicitly described and analyzed in the 'Scope of Dating' prose.",
+      "chosen_heading": "Scope of Dating",
+      "current_heading": "Scope of Dating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Tosafot: Safek Get",
+    "candidates": [
+      "Tosafot: Safek Get",
+      "After = Distance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Both items discuss Rabbi Yosei's position on the conditional get (writing vs. giving, and whether the word order implies 'write from now'), which is precisely the topic Tosafot's section addresses regarding Rabbi Yossi's principle and the mechanics of conditional divorce formulation, making the current placement under 'Tosafot: Safek Get' a better fit than the 'After = Distance' section which deals with an entirely different temporal concept.",
+      "chosen_heading": "Tosafot: Safek Get",
+      "current_heading": "Tosafot: Safek Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "After = Distance",
+    "candidates": [
+      "After = Distance",
+      "Rabbi: 30 Days",
+      "Attribution Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita and its immediate clarification about 'after a week' \u2014 exactly the content described in the 'After = Distance' prose, which explicitly covers both the series of cases and the Rabbi Zeira/Rabbi Asi ruling about days before and after Shabbat.",
+      "chosen_heading": "After = Distance",
+      "current_heading": "After = Distance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Attribution Issues",
+    "candidates": [
+      "Rabbi: 30 Days",
+      "Attribution Issues",
+      "Mishna Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita itself (Rabbi's ruling that 'after the festival' means thirty days) is the primary content of the passage, and while the attribution/praise narrative is also present, the passage as a whole introduces Rabbi's thirty-day ruling which is what candidate 0's prose is specifically describing \u2014 the attribution episode in candidate 1's prose more naturally serves as commentary on what follows from the baraita rather than being the baraita's own home.",
+      "chosen_heading": "Rabbi: 30 Days",
+      "current_heading": "Attribution Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Mishna Cases",
+    "candidates": [
+      "Mishna Cases",
+      "Kinyan vs. Transfer",
+      "Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself describing the cases of throwing a get into the wife's house, courtyard, lap, or basket, which is exactly what the 'Mishna Cases' prose section analyzes line by line.",
+      "chosen_heading": "Mishna Cases",
+      "current_heading": "Mishna Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Derasha",
+    "candidates": [
+      "Kinyan vs. Transfer",
+      "Derasha",
+      "Get vs. Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the two derashot (get and theft) deriving domain-extension from the biblical verses, which is precisely what the 'Derasha' section's prose describes \u2014 the ve-natan mikol makom and himatzei timatzei mikol makom derashot.",
+      "chosen_heading": "Derasha",
+      "current_heading": "Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Get vs. Theft",
+    "candidates": [
+      "Get vs. Theft",
+      "Rights Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's classic 'utzricha' argument explaining why both the get and theft cases must be taught \u2014 exactly the content described in the 'Get vs. Theft' prose, which explicitly discusses how one cannot be inferred from the other and walks through both directions of the argument.",
+      "chosen_heading": "Get vs. Theft",
+      "current_heading": "Get vs. Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rights Problem",
+    "candidates": [
+      "Rights Problem",
+      "Waiving Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the foundational question of how the wife can own a courtyard given that 'whatever a woman acquires her husband acquires,' which is precisely the 'Rights Problem' the prose under heading 0 describes and analyzes.",
+      "chosen_heading": "Rights Problem",
+      "current_heading": "Rights Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Waiving Rights",
+    "candidates": [
+      "Waiving Rights",
+      "Timing of Waiver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Elazar's proposal that writing 'din u'dvarim ein li' solves the problem, and the Gemara's objection from the baraita that such a declaration is legally meaningless \u2014 are precisely the content described in the 'Waiving Rights' prose section.",
+      "chosen_heading": "Waiving Rights",
+      "current_heading": "Waiving Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Timing of Waiver",
+    "candidates": [
+      "Timing of Waiver",
+      "Ba'im K'Echad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous chain of Rabbi Yannai's school answering via the 'while still betrothed' mechanism, supported by Rav Kahana's principle and Rava's principle about declining rabbinic ordinances, which is precisely what Candidate 0's prose ('Timing of Waiver') describes in detail.",
+      "chosen_heading": "Timing of Waiver",
+      "current_heading": "Timing of Waiver",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Ba'im K'Echad",
+    "candidates": [
+      "Ba'im K'Echad",
+      "Freeing Eved",
+      "Divorce Timing",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical chain about the ba'im k'echad principle \u2014 Rava's proposal, Ravina's challenge, and Rav Ashi's clarification about the slave's hand \u2014 which is precisely what the 'Ba'im K'Echad' section's prose describes in detail.",
+      "chosen_heading": "Ba'im K'Echad",
+      "current_heading": "Ba'im K'Echad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Freeing Eved",
+      "Divorce Timing",
+      "Case Setup",
+      "Kinyan Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the case setup \u2014 a shechiv mera who wrote a get on erev Shabbat but couldn't deliver it \u2014 which matches the 'Case Setup' prose exactly, while the 'Kinyan Solution' prose covers Rava's response (which continues in subsequent Talmudic text not shown here).",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Kinyan Solution",
+    "candidates": [
+      "Kinyan Solution",
+      "Kinyan Problem",
+      "Arusa Not Nesua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna about locking, fencing, or breaching as constituting chazakah on land is directly cited in the 'Kinyan Solution' prose as the textual basis for Rava's proposed solution (na'al, gader, u-faratz).",
+      "chosen_heading": "Kinyan Solution",
+      "current_heading": "Kinyan Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Arusa Not Nesua",
+    "candidates": [
+      "Kinyan Problem",
+      "Arusa Not Nesua",
+      "Final Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe exactly what heading 1 ('Arusa Not Nesua') prose covers: Rav Ilish's objection embarrassing Rava, followed by the revelation that she was an arusa and Rava's initial vindication \u2014 the final retraction in item 2 is the transition point but the bulk of the content belongs here, and heading 2's prose separately addresses that final retraction.",
+      "chosen_heading": "Arusa Not Nesua",
+      "current_heading": "Arusa Not Nesua",
+      "moved": false
+    }
+  }
+]

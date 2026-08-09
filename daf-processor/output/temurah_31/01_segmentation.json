@@ -29,7 +29,7 @@
           "timestamp": "05:21"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -53,7 +53,7 @@
           "timestamp": "13:02"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -149,7 +149,7 @@
           "timestamp": "38:54"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -178,8 +178,8 @@
           "timestamp": "40:39"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "The Status of Unspecified Sanctification: Debate Between Rabbi Eliezer and Rabbi Yehoshua",
@@ -406,5 +406,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "36:33",
+  "amud_b_micro_title": "Temurah Distinction",
+  "shiur_start_daf": 30,
+  "shiur_start_amud": "b"
 }

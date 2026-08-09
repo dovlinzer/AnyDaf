@@ -112,8 +112,8 @@
           "timestamp": "25:43"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Debate in the Mishna on Wine After a Meal and the Two Approaches to Birkat HaMazon",
@@ -136,7 +136,7 @@
           "timestamp": "29:07"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -179,8 +179,8 @@
           "timestamp": "33:03"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "The Requirement for a Minimum Amount in the Cup and Adding Wine or Water (continued)",
@@ -193,7 +193,7 @@
           "timestamp": "33:50"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 9,
       "matched": false
     },
     {
@@ -227,7 +227,7 @@
           "timestamp": "39:38"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 9,
       "matched": false
     },
     {
@@ -276,7 +276,7 @@
           "timestamp": "51:41"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -315,7 +315,7 @@
           "timestamp": "58:00"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 25,
       "matched": true
     }
   ],
@@ -646,5 +646,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "46:43",
+  "amud_b_micro_title": "Outside Tamei",
+  "shiur_start_daf": 52,
+  "shiur_start_amud": "a"
 }

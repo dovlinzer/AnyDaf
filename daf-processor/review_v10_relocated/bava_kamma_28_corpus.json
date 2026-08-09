@@ -1,0 +1,400 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Rav Yehuda vs. Nachman",
+    "candidates": [
+      "Negligence Levels",
+      "Tosafot vs. Ramban",
+      "Peshiat HaNizak",
+      "Rav Yehuda vs. Nachman",
+      "Makom Psida Consensus",
+      "Leika Psida Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items deal with the leika psida dispute \u2014 item 1 states the basic disagreement, item 2 resolves it by specifying that the dispute is only where there is no imminent loss, and item 3 raises Ben Bag Bag's objection \u2014 all of which correspond precisely to the 'Leika Psida Dispute' section's prose about the Rav Yehuda/Rav Nachman disagreement in the no-loss scenario.",
+      "chosen_heading": "Leika Psida Dispute",
+      "current_heading": "Rav Yehuda vs. Nachman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Leika Psida Dispute",
+    "candidates": [
+      "Makom Psida Consensus",
+      "Leika Psida Dispute",
+      "Honest Retrieval"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's dismissal of the Ben Bag Bag challenge by calling it an individual opinion rejected by the Rabbis, which is the direct response to the Ben Bag Bag baraita raised by Rav Kahana \u2014 the content described in the 'Honest Retrieval' section's prose.",
+      "chosen_heading": "Honest Retrieval",
+      "current_heading": "Leika Psida Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Honest Retrieval",
+    "candidates": [
+      "Honest Retrieval",
+      "Minority Opinion",
+      "Rav Yannai's Reading",
+      "Ox on Ox Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yannai's alternative reading of 'break his teeth' as meaning 'in judgment' (b'din), which is precisely what the prose of candidate 2 ('Rav Yannai's Reading') describes.",
+      "chosen_heading": "Rav Yannai's Reading",
+      "current_heading": "Honest Retrieval",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Ox on Ox Case",
+    "candidates": [
+      "Minority Opinion",
+      "Rav Yannai's Reading",
+      "Ox on Ox Case",
+      "Minimal Force Principle",
+      "Conceptual Basis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yannai's Reading",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing kashya on Rav Yannai's reading of Ben Bag Bag, which is exactly what candidate 1 ('Rav Yannai's Reading') describes \u2014 the grammatical difficulty with 've'emor lo' and 'sheli ani notel' ending in kashya.",
+      "second_heading": "Ox on Ox Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present the ox-on-ox baraita, the tam/mu'ad distinction, and the liability for pushing rather than pulling \u2014 precisely the content described in candidate 2 ('Ox on Ox Case').",
+      "current_heading": "Ox on Ox Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Conceptual Basis",
+    "candidates": [
+      "Minimal Force Principle",
+      "Conceptual Basis",
+      "Seizing Privates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All ten items \u2014 the minimal force ruling, the courtyard barrels case, the pierced slave case, and the public-domain jug case \u2014 are explicitly discussed together in the 'Conceptual Basis' prose, which surveys exactly these scenarios as part of its extended analysis of avid inish dina lenafshei and its limits.",
+      "chosen_heading": "Conceptual Basis",
+      "current_heading": "Conceptual Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Seizing Privates",
+    "candidates": [
+      "Seizing Privates",
+      "Necessity Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial question about the woman seizing the attacker's genitals and whether it refers to a case where she had no other means \u2014 which is precisely what the 'Seizing Privates' prose discusses, including the exact question 'mai lav b'she'eina yechola lehatzil al yedei davar acher' and the Gemara's answer, before the 'Necessity Requirement' section takes up the implications of that answer.",
+      "chosen_heading": "Seizing Privates",
+      "current_heading": "Seizing Privates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Necessity Requirement",
+    "candidates": [
+      "Necessity Requirement",
+      "Shliach Beis Din",
+      "Path Rerouting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's question and answer about why the baraita mentions the shliach beis din exemption separately when the woman herself would be exempt if she had no alternative \u2014 exactly the content described in the 'Necessity Requirement' prose.",
+      "chosen_heading": "Necessity Requirement",
+      "current_heading": "Necessity Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Path Rerouting",
+    "candidates": [
+      "Shliach Beis Din",
+      "Path Rerouting",
+      "Gezeira Shema",
+      "Rav Ashi's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Path Rerouting",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the mishna case and the avid inish dina lenafshei challenge, which matches exactly the 'Path Rerouting' prose describing the thoroughfare case and the question of why the owner cannot physically bar the original path.",
+      "second_heading": "Gezeira Shema",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Zevid/Rava's gezeira answer and Rav Mesharshiyya's alternative, which matches the 'Gezeira Shema' prose discussing the rabbinic safeguard against circuitous routes.",
+      "current_heading": "Path Rerouting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rav Ashi's Position",
+    "candidates": [
+      "Gezeira Shema",
+      "Rav Ashi's Position",
+      "Public Acquisition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement that any side route is inherently circuitous because it is close for one person and far for another, which is precisely what the prose under 'Rav Ashi's Position' discusses.",
+      "chosen_heading": "Rav Ashi's Position",
+      "current_heading": "Rav Ashi's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Public Acquisition",
+    "candidates": [
+      "Public Acquisition",
+      "Alternate Side Taking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the question-and-answer sequence about why the landowner cannot reclaim the alternate path, directly addressed by Rav Yehuda's ruling on public paths \u2014 exactly what the 'Public Acquisition' prose describes.",
+      "chosen_heading": "Public Acquisition",
+      "current_heading": "Public Acquisition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Alternate Side Taking",
+    "candidates": [
+      "Alternate Side Taking",
+      "Momentary Peah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the owner designating pe'ah on one side while poor take from the other, and the gemara's challenge about self-help (lincot pazra v'leisav), which is precisely what candidate 0's prose describes \u2014 the resolution in candidate 1 is a separate subsequent discussion.",
+      "chosen_heading": "Alternate Side Taking",
+      "current_heading": "Alternate Side Taking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Momentary Peah Status",
+    "candidates": [
+      "Momentary Peah Status",
+      "Rishonim Consensus",
+      "Concrete Objects",
+      "Rashba's Caveat",
+      "Court Authority Balance",
+      "Burden of Proof",
+      "Injured Party Remedy",
+      "Mishna Teaching",
+      "Rabbi Yehuda's Position",
+      "Vessel vs. Person"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Momentary Peah Status' prose: item 1 is Rava's ruling that 'both are pe'ah' means exemption from ma'aser, and item 2 is the baraita about one who declares his vineyard hefker and reclaims it, both of which are explicitly described in that section's prose.",
+      "chosen_heading": "Momentary Peah Status",
+      "current_heading": "Momentary Peah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Vessel vs. Person",
+    "candidates": [
+      "Rishonim Consensus",
+      "Concrete Objects",
+      "Rashba's Caveat",
+      "Court Authority Balance",
+      "Burden of Proof",
+      "Injured Party Remedy",
+      "Mishna Teaching",
+      "Rabbi Yehuda's Position",
+      "Vessel vs. Person",
+      "Karka Olam",
+      "Shmuel's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Teaching",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the Mishna about the broken jug) and the opening of the Gemara (item 2, Rav Yehuda quoting Rav about soiled clothing) are introduced and explained under heading 6 ('Mishna Teaching') and its companion heading 8 ('Vessel vs. Person'), but item 1 is the Mishna itself which heading 6's prose explicitly introduces and discusses, while items 2-3 (Rav's distinction between clothing damage and personal injury, with the karka olam exemption) are precisely what heading 8's prose describes.",
+      "second_heading": "Vessel vs. Person",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rav's ruling distinguishing vessel damage (liable) from personal injury (exempt via karka olam), which is exactly the content heading 8 ('Vessel vs. Person') discusses in detail.",
+      "current_heading": "Vessel vs. Person",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Shmuel's Challenge",
+    "candidates": [
+      "Karka Olam",
+      "Shmuel's Challenge",
+      "Liability Despite Karka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's direct response invoking the principle that stone/knife/load are derived from bor and the ox/donkey exemptions apply to all \u2014 exactly what the 'Shmuel's Challenge' prose describes.",
+      "chosen_heading": "Shmuel's Challenge",
+      "current_heading": "Shmuel's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Liability Despite Karka",
+    "candidates": [
+      "Liability Despite Karka",
+      "Mafkir Determination",
+      "Apparent Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rule that bor exemption applies to death but creates liability for personal injury (not vessel damage), which is precisely what the 'Liability Despite Karka' prose explains and analyzes.",
+      "chosen_heading": "Liability Despite Karka",
+      "current_heading": "Liability Despite Karka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Apparent Contradiction",
+    "candidates": [
+      "Mafkir Determination",
+      "Apparent Contradiction",
+      "Rav's Resolution",
+      "Shmuel's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are part of the Rav Oshaya objection and the gemara's textual clarification of the baraita's wording \u2014 the 'apparent contradiction' section's prose explicitly describes this baraita, its internal tension, and the gemara's correction of the logical relationship between bor and stone/knife/load, which is precisely what items 2 and 3 address, while item 1 (Rav's mafkir answer) is already covered under candidate 0 but here serves as the setup being challenged by Rav Oshaya's objection that the baraita treats the stone as bor even without explicit mafkir.",
+      "chosen_heading": "Apparent Contradiction",
+      "current_heading": "Apparent Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "current_heading": "Shmuel's Resolution",
+    "candidates": [
+      "Rav's Resolution",
+      "Shmuel's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-6 form the complete sequence of the baraita's difficulty for both Rav and Shmuel, followed by both resolutions \u2014 Rav's resolution (items 4-5) is the primary content, and the passage belongs under 'Rav's Resolution' whose prose explicitly covers all six items including Shmuel's resolution as part of the same sugya unit, whereas the current placement under 'Shmuel's Resolution' only captures items 5-6.",
+      "chosen_heading": "Rav's Resolution",
+      "current_heading": "Shmuel's Resolution",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Daf Overview & Kishuf",
+    "candidates": [
+      "Daf Overview & Kishuf",
+      "Source Dispute",
+      "Illusion vs. Actual Deed",
+      "Rabbi Eliezer Background",
+      "Hurcanus Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Akiva's ruling distinguishing between actual sorcery (liable) and mere illusion (exempt), which is precisely what the 'Daf Overview & Kishuf' section discusses as the final lines of the mishnah.",
+      "chosen_heading": "Daf Overview & Kishuf",
+      "current_heading": "Daf Overview & Kishuf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Hurcanus Incident",
+    "candidates": [
+      "Source Dispute",
+      "Illusion vs. Actual Deed",
+      "Rabbi Eliezer Background",
+      "Hurcanus Incident",
+      "Harsh Prophecy",
+      "Lament on Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabbi Eliezer's illness, the Hyrcanus tefillin incident, the sages entering and sitting four cubits away, and the exchange about why they came \u2014 are precisely the content described in the 'Hurcanus Incident' prose, which covers each of these narrative elements in detail.",
+      "chosen_heading": "Hurcanus Incident",
+      "current_heading": "Hurcanus Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Lament on Knowledge",
+    "candidates": [
+      "Harsh Prophecy",
+      "Lament on Knowledge",
+      "Gourds Halachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer placing his arms on his heart and lamenting about Torah learned and taught, which is precisely what the 'Lament on Knowledge' section's prose discusses in detail.",
+      "chosen_heading": "Lament on Knowledge",
+      "current_heading": "Lament on Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Gourds Halachot",
+    "candidates": [
+      "Gourds Halachot",
+      "Magic Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Eliezer's lament about the three hundred halakhot of baheret azah and the three hundred/three thousand halakhot of planting cucumbers with no one asking him about them, which is precisely what the 'Gourds Halachot' prose discusses.",
+      "chosen_heading": "Gourds Halachot",
+      "current_heading": "Gourds Halachot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Magic Encounter",
+    "candidates": [
+      "Magic Encounter",
+      "Vessel Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer teaching Rabbi Akiva the planting and uprooting of cucumbers through sorcery, which is precisely what the 'Magic Encounter' section's prose discusses in detail.",
+      "chosen_heading": "Magic Encounter",
+      "current_heading": "Magic Encounter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Vessel Debate",
+    "candidates": [
+      "Vessel Debate",
+      "Final Ruling & Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the sages asking Rabbi Eliezer about the ball, last, amulet, pouch for pearls, and small weight \u2014 exactly the items discussed in the 'Vessel Debate' prose, which explicitly covers these objects and his ruling that they are tamei and purified as they are.",
+      "chosen_heading": "Vessel Debate",
+      "current_heading": "Vessel Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Final Ruling & Death",
+    "candidates": [
+      "Final Ruling & Death",
+      "Nidduy Ended & Eulogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the shoe-on-last question and Rabbi Eliezer's final word 'tahor' plus Rabbi Yehoshua's declaration lifting the nidduy, all of which are discussed together in candidate 0's prose, while candidate 1's prose begins after this point with Rabbi Akiva's encounter and eulogy.",
+      "chosen_heading": "Final Ruling & Death",
+      "current_heading": "Final Ruling & Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Nidduy Ended & Eulogy",
+    "candidates": [
+      "Nidduy Ended & Eulogy",
+      "Learning & Understanding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva encountering the funeral procession, striking his flesh in grief, and delivering the eulogy \u2014 exactly what the 'Nidduy Ended & Eulogy' prose discusses in detail.",
+      "chosen_heading": "Nidduy Ended & Eulogy",
+      "current_heading": "Nidduy Ended & Eulogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Learning & Understanding",
+    "candidates": [
+      "Learning & Understanding",
+      "Witchcraft Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Akiva learning from Rabbi Eliezer but not understanding, then learning from Rabbi Yehoshua who explained it to him \u2014 precisely the content described in the 'Learning & Understanding' section's prose.",
+      "chosen_heading": "Learning & Understanding",
+      "current_heading": "Learning & Understanding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Witchcraft Permission",
+    "candidates": [
+      "Witchcraft Permission",
+      "Future Conduct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how Rabbi Eliezer could perform sorcery and the distinction between learning to do versus learning to understand and teach \u2014 exactly what the 'Witchcraft Permission' prose discusses in detail.",
+      "chosen_heading": "Witchcraft Permission",
+      "current_heading": "Witchcraft Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Future Conduct",
+    "candidates": [
+      "Future Conduct",
+      "Hair Criteria",
+      "Ben v'lo Ish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna of the perek introducing the ben sorer u-moreh topic and the question 'from when does he become liable,' which directly matches the 'Future Conduct' section's prose that opens by noting this new perek begins on 68b and asks 'eimatai na'aseh ben sorer u-moreh.'",
+      "chosen_heading": "Future Conduct",
+      "current_heading": "Future Conduct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Ben v'lo Ish",
+    "candidates": [
+      "Hair Criteria",
+      "Ben v'lo Ish",
+      "Vigor Window"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ben v'lo Ish",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 cover the mishnah's age criteria, the gemara's question about why a minor needs to be exempted, and the logic that since ben sorer is killed for his future the minor might be included \u2014 all of which is explicitly discussed in the 'Ben v'lo Ish' prose.",
+      "second_heading": "Vigor Window",
+      "second_confidence": "high",
+      "second_reason": "Item 4 (Rav Yehuda amar Rav deriving ben hasamuch ligvurato shel ish) is the resolution that defines the 'vigor window,' which is precisely what the 'Vigor Window' section's prose describes.",
+      "current_heading": "Ben v'lo Ish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Vigor Window",
+    "candidates": [
+      "Vigor Window",
+      "Rav Chisda's Rule",
+      "Verse Analysis",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the continuous discussion of Rav Chisda's rule (items 1-2 derive it, items 3-4 contrast it with Rava's position on whether a minor can father a child), which is precisely what heading 1 'Rav Chisda's Rule' and its associated prose (including heading 3 'Rava's Position') describe \u2014 and since all items belong under one heading, heading 1 is the starting point of this block, matching the current essay structure where Rav Chisda's rule is introduced.",
+      "chosen_heading": "Rav Chisda's Rule",
+      "current_heading": "Vigor Window",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rav Chisda's Rule",
+      "Verse Analysis",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's derivation from gezel ha-ger that a minor cannot father a child (because no investigation is needed for a minor convert's heirs), which is precisely what the prose under 'Rava's Position' describes and quotes.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  }
+]

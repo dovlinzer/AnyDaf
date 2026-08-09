@@ -168,7 +168,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Tradition of Four Executions and the Assignment of Generic Cases to Chenek (continued)",
@@ -186,7 +186,7 @@
           "timestamp": "27:34"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -283,7 +283,7 @@
           "timestamp": "55:40"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -615,5 +615,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "53:10",
+  "amud_b_micro_title": "Rav Oshaia",
+  "shiur_start_daf": 53,
+  "shiur_start_amud": "a"
 }

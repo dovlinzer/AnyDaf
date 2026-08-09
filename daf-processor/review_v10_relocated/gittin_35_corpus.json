@@ -1,0 +1,441 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Tikkun Olam Examples",
+    "candidates": [
+      "Shift to General Tikkun",
+      "Defining Tikkun Olam",
+      "Tikkun Olam Examples",
+      "Who Benefits from Tikkun",
+      "Debt Collectors, Orphans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The prose of candidate 2 ('Tikkun Olam Examples') explicitly describes exactly these three examples \u2014 the widow's oath case, the witnesses signing a get, and Hillel's pruzbul \u2014 matching the content of both items precisely.",
+      "chosen_heading": "Tikkun Olam Examples",
+      "current_heading": "Tikkun Olam Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Debt Collectors, Orphans",
+    "candidates": [
+      "Who Benefits from Tikkun",
+      "Debt Collectors, Orphans",
+      "Mishum China Doctrine",
+      "Dinar-Bread Narrative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous question-and-answer unit: the gemara asks why the mishna singles out a widow (item 1) and then answers with the mishum china concern (item 2), which is precisely the content described in candidate 1's prose about the universal oath rule and why the widow is specifically mentioned.",
+      "chosen_heading": "Debt Collectors, Orphans",
+      "current_heading": "Debt Collectors, Orphans",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Dinar-Bread Narrative",
+    "candidates": [
+      "Mishum China Doctrine",
+      "Dinar-Bread Narrative",
+      "Benefit Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Dinar-Bread narrative \u2014 the deposit story and its aftermath \u2014 which is precisely what the prose under heading 1 ('Dinar-Bread Narrative') describes in full detail, making the current placement correct.",
+      "chosen_heading": "Dinar-Bread Narrative",
+      "current_heading": "Dinar-Bread Narrative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Benefit Analysis",
+    "candidates": [
+      "Benefit Analysis",
+      "Specificity Question",
+      "Widow's Rationalization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the benefit analysis question (why she was punished and the characterization of her oath as 'like one who swore truthfully'), which is precisely what the 'Benefit Analysis' prose discusses.",
+      "chosen_heading": "Benefit Analysis",
+      "current_heading": "Benefit Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Widow's Rationalization",
+    "candidates": [
+      "Specificity Question",
+      "Widow's Rationalization",
+      "Divorced vs. Widow",
+      "Tosafot on Negligence",
+      "Shift to Cherem",
+      "Shvua vs. Alah",
+      "Oath Context Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer pair about why the widow-specific oath restriction doesn't apply to a divorc\u00e9e, which is precisely what candidate 0 ('Specificity Question') discusses \u2014 why the concern is uniquely a problem for the almana and not others \u2014 while the current placement under 'Widow's Rationalization' covers the answer in its prose but not the initial challenge posed in item 1.",
+      "chosen_heading": "Specificity Question",
+      "current_heading": "Widow's Rationalization",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Oath Context Distinction",
+    "candidates": [
+      "Divorced vs. Widow",
+      "Tosafot on Negligence",
+      "Shift to Cherem",
+      "Shvua vs. Alah",
+      "Oath Context Distinction",
+      "Rav's Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav and Shmuel's distinction between oaths in court vs. outside court, and raises the contradiction from Rav's refusal to collect the kesuba \u2014 exactly what the 'Oath Context Distinction' prose describes.",
+      "chosen_heading": "Oath Context Distinction",
+      "current_heading": "Oath Context Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav's Refusal",
+    "candidates": [
+      "Rav's Refusal",
+      "Rav's Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents precisely the Sura/Neharde'a distinction that the prose of 'Rav's Refusal' explicitly describes, where the Neharde'a version attributes the outside-beis-din leniency to Shmuel alone while Rav holds the stricter position.",
+      "chosen_heading": "Rav's Refusal",
+      "current_heading": "Rav's Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav's Concerns",
+    "candidates": [
+      "Rav's Concerns",
+      "Woman's Workaround"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav's reasoning for not collecting the marriage contract and the explanation that vows were treated lightly in his time, which is precisely what the 'Rav's Concerns' section discusses.",
+      "chosen_heading": "Rav's Concerns",
+      "current_heading": "Rav's Concerns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Woman's Workaround",
+    "candidates": [
+      "Woman's Workaround",
+      "Rav's Concession",
+      "Widow Trapped"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the widow's unilateral oath and Rav Huna's concession as a single narrative unit, and the current heading's prose discusses exactly this story including both the oath declaration and the 'kofetzes' ruling, making it the best fit.",
+      "chosen_heading": "Woman's Workaround",
+      "current_heading": "Woman's Workaround",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Widow Trapped",
+    "candidates": [
+      "Rav's Concession",
+      "Widow Trapped",
+      "Neder + Oath",
+      "Demand for Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of the widow trapped between Rav's policy against collecting a kesuba for a widow and Shmuel's ruling that demanding the kesuba forfeits sustenance, followed by her curse and Rabbah bar Rav Huna's illness \u2014 which is precisely what candidate 1's prose narrates and analyzes.",
+      "chosen_heading": "Widow Trapped",
+      "current_heading": "Widow Trapped",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Demand for Action",
+    "candidates": [
+      "Neder + Oath",
+      "Demand for Action",
+      "Widow vs. Divorced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yehuda's proposal to combine a neder in beis din with a shvua outside beis din, which is precisely what the 'Neder + Oath' section's prose discusses, whereas the current placement under 'Demand for Action' focuses only on the latter part of the instruction ('let the report reach my ears') while missing the core content of the combined neder/oath proposal.",
+      "chosen_heading": "Neder + Oath",
+      "current_heading": "Demand for Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Widow vs. Divorced",
+    "candidates": [
+      "Demand for Action",
+      "Widow vs. Divorced",
+      "Case Facts",
+      "Kesuba Contents",
+      "Rav Ashi Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states explicitly that only a widow is exempt from the oath while a divorc\u00e9e must take one, which directly matches the 'Widow vs. Divorced' section's prose discussing that exact distinction.",
+      "chosen_heading": "Widow vs. Divorced",
+      "current_heading": "Widow vs. Divorced",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Rav Ashi Analysis",
+    "candidates": [
+      "Case Facts",
+      "Kesuba Contents",
+      "Rav Ashi Analysis",
+      "Rav Huna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the challenge-and-resolution sequence (the document from Eretz Yisrael as a proof followed by Rav Ashi's rebuttal that it was a get yavmim) that the 'Rav Ashi Analysis' prose explicitly discusses, making the current placement correct.",
+      "chosen_heading": "Rav Ashi Analysis",
+      "current_heading": "Rav Ashi Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav Huna Position",
+    "candidates": [
+      "Rav Huna Position",
+      "Husband Annuls Neder",
+      "Gemara Challenge",
+      "Pre-Existing Vows Safe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Huna's ruling that the takanah applies only when she has not remarried, which is precisely what the 'Rav Huna Position' prose describes.",
+      "chosen_heading": "Rav Huna Position",
+      "current_heading": "Rav Huna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Pre-Existing Vows Safe",
+    "candidates": [
+      "Husband Annuls Neder",
+      "Gemara Challenge",
+      "Pre-Existing Vows Safe",
+      "Chacham Annulment Risk",
+      "Detailing Requirement",
+      "Chacham's Logic",
+      "Neder B'Rabbim",
+      "Berabbim Concept",
+      "Berabbim Types",
+      "Baraita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "Item 1 contains the ein haba'al meifer bikodmin answer that matches heading 2, but Items 2 and 3 clearly extend into chacham dissolution and Rav Nachman's neder b'rabbim \u2014 the passage spans multiple headings and current placement captures at least the opening resolution.",
+      "chosen_heading": "Pre-Existing Vows Safe",
+      "current_heading": "Pre-Existing Vows Safe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Chacham Annulment Risk",
+      "Detailing Requirement",
+      "Chacham's Logic",
+      "Neder B'Rabbim",
+      "Berabbim Concept",
+      "Berabbim Types",
+      "Baraita Evidence",
+      "Tannaitic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage shows the Gemara raising an objection from a baraita about a remarried woman collecting her kesuba if she took a vow, then answering that the vow was taken initially (before remarrying) \u2014 exactly what the 'Baraita Evidence' prose describes as the first baraita and the Gemara's initial reading and reinterpretation of it.",
+      "chosen_heading": "Baraita Evidence",
+      "current_heading": "Baraita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Tannaitic Debate",
+    "candidates": [
+      "Tannaitic Debate",
+      "Rav Nachman: No Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tannaitic dispute about whether a public vow can be annulled, which is precisely what the 'Tannaitic Debate' prose section discusses.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Tannaitic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Rav Nachman: No Detail",
+    "candidates": [
+      "Rav Nachman: No Detail",
+      "False Release Risk",
+      "Rav Papa: Detail Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the dispute introduction and Rav Nachman's reasoning, which is precisely what heading 0 ('Rav Nachman: No Detail') discusses \u2014 the dilemma and Rav Nachman's rationale about partial disclosure leading to flawed annulments.",
+      "chosen_heading": "Rav Nachman: No Detail",
+      "current_heading": "Rav Nachman: No Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rav Papa: Detail Required",
+    "candidates": [
+      "False Release Risk",
+      "Rav Papa: Detail Required",
+      "Kohein's Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Pappa's statement that detailing is required due to a prohibited matter, which directly matches the prose of candidate 1 ('Rav Papa: Detail Required') that discusses Rav Papa's position requiring detail of circumstances to prevent a chacham from inadvertently releasing a protective vow.",
+      "chosen_heading": "Rav Papa: Detail Required",
+      "current_heading": "Rav Papa: Detail Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Kohein's Obligation",
+    "candidates": [
+      "Kohein's Obligation",
+      "Parallel Problem",
+      "Same Solution Applied",
+      "Detail Method",
+      "Berabbim Method",
+      "Context Application",
+      "Husband Annulment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna and baraita about the kohen who marries forbidden women and the concern about dissolving the vow, which is exactly what heading 0's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Kohein's Obligation",
+      "current_heading": "Kohein's Obligation",
+      "moved": false
+    }
+  }
+]

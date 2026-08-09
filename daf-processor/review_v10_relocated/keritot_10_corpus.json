@@ -1,0 +1,242 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Yehuda's Stringency",
+    "candidates": [
+      "Intro: Multiple Events",
+      "Incorporation Doctrine",
+      "Interloper Framework",
+      "Yehuda's Stringency",
+      "Problem Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's precise formulation of the interloper question \u2014 item 1 presents the 'second birth retains independent presence and interrupts taharah' framing, and item 2 presents the counter-framing that Yehuda's doctrine only applies where it produces stringency \u2014 which is exactly the two-sided question described in the 'Interloper Framework' prose, not the 'Yehuda's Stringency' section which describes only the counter-framing as a resolved point.",
+      "chosen_heading": "Interloper Framework",
+      "current_heading": "Yehuda's Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Problem Posed",
+    "candidates": [
+      "Yehuda's Stringency",
+      "Problem Posed",
+      "Twin Births Answer",
+      "Rejection: Twin Answer",
+      "Pesach BeAla'im Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly what candidate 1 describes: Rav Huna of Sura's baraita about day forty/eighty (item 1) and the immediate challenge that she is still impure along with Rav \u1e24isda's answer invoking Rabbi Yehuda's doctrine of the second offspring (item 2), which is precisely the 'proof from a baraita' and 'difficulty is immediate' content described in candidate 1's prose.",
+      "chosen_heading": "Problem Posed",
+      "current_heading": "Problem Posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Pesach BeAla'im Answer",
+    "candidates": [
+      "Twin Births Answer",
+      "Rejection: Twin Answer",
+      "Pesach BeAla'im Answer",
+      "Yishmael Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items trace the Gemara's discussion of the 'Pesach brought in communal tumah' answer \u2014 raising it, objecting that yoldot may not eat, resolving via immersion, pressing with tvul yom d'zav, resolving with mechusar kipurim \u2014 which is precisely what the 'Pesach BeAla'im Answer' prose describes.",
+      "chosen_heading": "Pesach BeAla'im Answer",
+      "current_heading": "Pesach BeAla'im Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Yishmael Principle",
+    "candidates": [
+      "Yishmael Principle",
+      "Sixty Days Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion under the 'Yishmael Principle' heading \u2014 item 1 is Rav Ashi's resolution on Rava's behalf via Rabbi Yishmael's principle, and item 2 is the immediate follow-up objection about niddah status and the dry birth answer, all of which are explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Yishmael Principle",
+      "current_heading": "Yishmael Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Sixty Days Derasha",
+    "candidates": [
+      "Sixty Days Derasha",
+      "Rabbis Excluded",
+      "Attribution Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core of the sixty-days derasha \u2014 item 1 presents the baraita and asks whose opinion it is, item 2 concludes it must be Rabbi Yehuda's and draws the inference about stringency vs. leniency \u2014 exactly what the 'Sixty Days Derasha' prose describes.",
+      "chosen_heading": "Sixty Days Derasha",
+      "current_heading": "Sixty Days Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Attribution Yehuda",
+    "candidates": [
+      "Rabbis Excluded",
+      "Attribution Yehuda",
+      "Thirty Days Derasha",
+      "Final Six Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's back-and-forth about whether the baraita can be attributed to the Rabbis (via yoledet zachar mi-toch shmonim and then yoledet te'omim), which is precisely what the 'Attribution Yehuda' prose describes in detail.",
+      "chosen_heading": "Attribution Yehuda",
+      "current_heading": "Attribution Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Final Six Days",
+    "candidates": [
+      "Thirty Days Derasha",
+      "Final Six Days",
+      "Overview Variable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Thirty Days Derasha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Abaye's drasha on the thirty days of a male birth (Leviticus 12:4), which matches exactly the 'Thirty Days Derasha' heading's prose about shloshim, yachol bein retzufin, and the Rabbi Yehuda conclusion.",
+      "second_heading": "Final Six Days",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Ashi's drasha on the six days within the sixty-six day female birth period (Leviticus 12:5), which matches exactly the 'Final Six Days' heading's prose about shishim, the six days being continuous, and the chumra/kula conclusion.",
+      "current_heading": "Final Six Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Overview Variable",
+    "candidates": [
+      "Overview Variable",
+      "Five Cases Listed",
+      "Substitution Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items introduce and enumerate the five cases of korban oleh v'yored and their sliding-scale categories (wealth/poverty/extreme poverty), which matches 'Five Cases Listed' prose describing the same five cases, while 'Overview Variable' is a general introduction and 'Substitution Categories' deals with a baraita about substitution forms that comes later.",
+      "chosen_heading": "Five Cases Listed",
+      "current_heading": "Overview Variable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Substitution Categories",
+    "candidates": [
+      "Five Cases Listed",
+      "Substitution Categories",
+      "Pricing Scripture"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Substitution Categories",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the baraita categorizing substitution forms (one-for-one, two-for-two, two-for-one, one-for-two) with specific cases, which is precisely what the 'Substitution Categories' prose describes.",
+      "second_heading": "Pricing Scripture",
+      "second_confidence": "high",
+      "second_reason": "Item 3 transitions to establishing the pricing baseline (a lamb costs one sela), which matches the 'Pricing Scripture' prose that discusses the baraita about declaring an offering worth one sela and the lamb as the standard sacrificial animal.",
+      "current_heading": "Substitution Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Pricing Scripture",
+    "candidates": [
+      "Pricing Scripture",
+      "Non-Sequitur Posed",
+      "Sela Baseline",
+      "1-to-16 Ratio",
+      "Ratio Downward",
+      "Applying the Ratio Downward",
+      "1-to-32 Ratio",
+      "Pruta Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form one continuous chain of ratio-derivations working through the mathematics of how a one-prutah minimum for the asirit ha-eifah is derived, which is precisely what 'Non-Sequitur Posed' describes \u2014 the Gemara working through the mathematics by a chain of ratios to explain the Mishnah's concluding statement about a tenth of an eifah costing a prutah.",
+      "chosen_heading": "Non-Sequitur Posed",
+      "current_heading": "Pricing Scripture",
+      "moved": true
+    }
+  }
+]

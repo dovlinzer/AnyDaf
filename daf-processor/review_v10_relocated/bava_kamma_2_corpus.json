@@ -1,0 +1,164 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Mishnah Statement",
+    "candidates": [
+      "Babas & Seder Nezikin",
+      "Learning Methodology",
+      "Nizkei Mammon Content",
+      "Mishnah Statement",
+      "Ordering & Mnemonics",
+      "Categorical Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna listing the four primary categories of damage, which is exactly what the 'Mishnah Statement' section's prose describes and discusses.",
+      "chosen_heading": "Mishnah Statement",
+      "current_heading": "Mishnah Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Categorical Distinctions",
+    "candidates": [
+      "Ordering & Mnemonics",
+      "Categorical Distinctions",
+      "Hatzad Hashaveh",
+      "Meitav Ha'aretz",
+      "Liability Frameworks",
+      "Parallels: Shabbos & Tuma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the lo ha'rei zeh ke'ha'rei zeh argument and the hatzad hashaveh conclusion that the 'Categorical Distinctions' prose explicitly describes in detail, covering exactly the distinctions between shor/maveh, the living spirit argument, the movement argument for bor, and the common denominator of darkan lehazik/shmiratan alecha/meitav ha'aretz.",
+      "chosen_heading": "Categorical Distinctions",
+      "current_heading": "Categorical Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Parallels: Shabbos & Tuma",
+    "candidates": [
+      "Hatzad Hashaveh",
+      "Meitav Ha'aretz",
+      "Liability Frameworks",
+      "Parallels: Shabbos & Tuma",
+      "Halakhic Implications",
+      "Rabbi Eliezer Dispute",
+      "Keren/Goring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All eight items form a continuous sugya asking whether toldot are keyotzei bahen as their avot, using Shabbat and tuma as parallel cases \u2014 exactly what the 'Parallels: Shabbos & Tuma' prose describes.",
+      "chosen_heading": "Parallels: Shabbos & Tuma",
+      "current_heading": "Parallels: Shabbos & Tuma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Keren/Goring",
+    "candidates": [
+      "Halakhic Implications",
+      "Rabbi Eliezer Dispute",
+      "Keren/Goring",
+      "Negifah vs Negichah",
+      "Muad Standards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Keren/Goring",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 cover exactly what the Keren/Goring prose describes: the baraita's three primary categories, the derivation of keren from ki yigach, the two pesukim (Prophets and Torah), why both are needed, and the tam/muad distinction for attached vs. detached horns.",
+      "second_heading": "Negifah vs Negichah",
+      "second_confidence": "high",
+      "second_reason": "Items 7-8 cover exactly what the Negifah vs Negichah prose describes: negifah as the first toldah of keren, the apparent problem that negifah also appears in the Torah, and the resolution that the Torah's negifah means negichah because the pasuk opens with yigof and concludes with nagach.",
+      "current_heading": "Keren/Goring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Muad Standards",
+    "candidates": [
+      "Negifah vs Negichah",
+      "Muad Standards",
+      "Keren Definition",
+      "Shen & Regel",
+      "Toldot of Keren"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses why the Torah uses *yiggach* for goring a person vs. *yiggof* for goring an animal (adam d'is lei mazla), and derives the ruling that muad l'adam is muad l'behemah but not vice versa \u2014 exactly what the 'Muad Standards' prose covers in detail.",
+      "chosen_heading": "Muad Standards",
+      "current_heading": "Muad Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Toldot of Keren",
+    "candidates": [
+      "Keren Definition",
+      "Shen & Regel",
+      "Toldot of Keren",
+      "Rav Pappa Query"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Toldot of Keren",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 explain why biting is not shen and why crouching/kicking are not regel, establishing the toldot of keren \u2014 exactly what the 'Toldot of Keren' prose discusses.",
+      "second_heading": "Rav Pappa Query",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 resume analysis of Rav Pappa's statement about dissimilar subcategories and argue the toldot of keren share the same defining characteristics as keren itself \u2014 precisely what the 'Rav Pappa Query' prose addresses.",
+      "current_heading": "Toldot of Keren",
+      "moved": true
+    }
+  }
+]

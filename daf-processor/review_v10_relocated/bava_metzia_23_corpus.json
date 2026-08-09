@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Dates from Trees",
+    "candidates": [
+      "Ye'ush Consciousness",
+      "Dates from Trees",
+      "Policy & Liberties",
+      "Orphans & Fenced Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange between Rav A\u1e25a brei deRava and Rav Ashi about dates blown off trees by wind, which is precisely what the 'Dates from Trees' section prose discusses in detail.",
+      "chosen_heading": "Dates from Trees",
+      "current_heading": "Dates from Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Orphans & Fenced Land",
+    "candidates": [
+      "Policy & Liberties",
+      "Orphans & Fenced Land",
+      "Krichos & Domains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the orphan and fenced-land cases (yasmi, muchzak ve-omed, kirchasa) that are explicitly covered in the 'Orphans & Fenced Land' prose, making the current placement correct.",
+      "chosen_heading": "Orphans & Fenced Land",
+      "current_heading": "Orphans & Fenced Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Krichos & Domains",
+    "candidates": [
+      "Krichos & Domains",
+      "Rava on Makom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items together develop the Rabba/Rava dispute over siman ha'asuy liddares and makom as siman, including the baraita challenges and their resolutions \u2014 exactly the content described in candidate 1's prose about Rava's position, makom, and how both Rabba and Rava explain the baraita about krichos and alumot.",
+      "chosen_heading": "Rava on Makom",
+      "current_heading": "Krichos & Domains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rava on Makom",
+    "candidates": [
+      "Krichos & Domains",
+      "Rava on Makom",
+      "Sheaves & Domains",
+      "What's Announced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of the mishnah's cases using makom (location) as the operative principle, distinguishing krichos in public vs. private domains and sheaves in both domains \u2014 exactly the content described in the 'Rava on Makom' section's prose.",
+      "chosen_heading": "Rava on Makom",
+      "current_heading": "Rava on Makom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "What's Announced",
+    "candidates": [
+      "Sheaves & Domains",
+      "What's Announced",
+      "Bread Identification",
+      "Proof Against Rabba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's tiyuvta (conclusive refutation) against Rabba based on the bread case, which is precisely what 'Proof Against Rabba' discusses, not the 'What's Announced' section where it currently sits.",
+      "chosen_heading": "Proof Against Rabba",
+      "current_heading": "What's Announced",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Proof Against Rabba",
+    "candidates": [
+      "Bread Identification",
+      "Proof Against Rabba",
+      "Money in Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's defense against the refutation from home-baked bread, explaining ein ma'avirin al ha'ochlin and the follow-up challenges about gentiles and animals, which is precisely what the 'Proof Against Rabba' prose describes.",
+      "chosen_heading": "Proof Against Rabba",
+      "current_heading": "Proof Against Rabba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Money in Bread",
+    "candidates": [
+      "Money in Bread",
+      "Rashi on Intent",
+      "Tosafot on Awareness",
+      "Hidden vs. Visible",
+      "Food Protection",
+      "Both Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the Tanna'im dispute cited by the Gemara (Rabbi Yehuda's ruling on alterations, the fig cake with potsherd, loaf with coins, and the inference about the Tanna Kamma), which is exactly what the 'Money in Bread' section's prose describes and analyzes.",
+      "chosen_heading": "Money in Bread",
+      "current_heading": "Money in Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Both Valid",
+    "candidates": [
+      "Rashi on Intent",
+      "Tosafot on Awareness",
+      "Hidden vs. Visible",
+      "Food Protection",
+      "Both Valid",
+      "Krichos Kept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the exact logical structure described in 'Food Protection' prose: multiple versions of the same argument structure testing the interaction between siman ha'asuy liddares, ma'avirin al ha'ochlin, and siman ha'ba me'elav, with Rav Zevid in the name of Rava demonstrating that home-baked bread (kickarot shel ba'al habayit) would be left without foundation for obligatory return \u2014 which is precisely the 'Food Protection' section's described content, not 'Both Valid' which describes the resolution arrived at after this analysis.",
+      "chosen_heading": "Food Protection",
+      "current_heading": "Both Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Krichos Kept",
+    "candidates": [
+      "Both Valid",
+      "Krichos Kept",
+      "Left vs. Fallen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rav Zevid in the name of Rava's principle about ye'ush \u2014 'once the owner says woe for the monetary loss, he has despaired' \u2014 which the 'Krichos Kept' prose explicitly discusses as Rava's framework for establishing ye'ush via the 'vai lah l'chisaron kis' articulation.",
+      "chosen_heading": "Krichos Kept",
+      "current_heading": "Krichos Kept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Left vs. Fallen",
+    "candidates": [
+      "Left vs. Fallen",
+      "With Siman",
+      "Fish on String"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full halakhic ruling including the 'davar she'yesh bo siman' conclusion, which is precisely what the 'With Siman' section's prose discusses \u2014 the irrelevance of domain and manner of loss when a distinguishing mark exists.",
+      "chosen_heading": "With Siman",
+      "current_heading": "Left vs. Fallen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Fish on String",
+    "candidates": [
+      "With Siman",
+      "Fish on String",
+      "Metals & Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the string-of-fish case, the fisherman's knot, and the number of fish as potential simanim \u2014 exactly what the 'Fish on String' prose describes.",
+      "chosen_heading": "Fish on String",
+      "current_heading": "Fish on String",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Metals & Measure",
+    "candidates": [
+      "Metals & Measure",
+      "Precision Debate",
+      "Meat Cuts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheshet's ruling that weight, measure, and number are valid simanim \u2014 the very principle that the 'Metals & Measure' prose section discusses and builds upon.",
+      "chosen_heading": "Metals & Measure",
+      "current_heading": "Metals & Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Meat Cuts",
+    "candidates": [
+      "Precision Debate",
+      "Meat Cuts",
+      "Barrels & Pitchers",
+      "Supplier's Mark"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss why standard weights and cut-types are insufficient simanim for meat cuts, and how unusual cuts (like Rabbah bar Rav Huna's triangular cut) serve as valid simanim \u2014 exactly what the 'Meat Cuts' prose describes.",
+      "chosen_heading": "Meat Cuts",
+      "current_heading": "Meat Cuts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Supplier's Mark",
+    "candidates": [
+      "Barrels & Pitchers",
+      "Supplier's Mark"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Gemara discussion about the baraita vs. mishna contradiction regarding barrels/pitchers \u2014 Item 1 presents the contradiction and Rav Hoshaya's resolution (sealed vs. open/covered), and Item 2 gives Abaye's temporal resolution \u2014 all of which is the content described in candidate 0's prose about the Rav Zevid/Rav distinction and the marked-pitcher explanation, whereas candidate 1's prose focuses specifically on Abaye's warehouse-opening distinction as its primary topic, suggesting the passage was split and Item 1 was incorrectly left under heading 1 when both items belong under heading 0.",
+      "chosen_heading": "Barrels & Pitchers",
+      "current_heading": "Supplier's Mark",
+      "moved": true
+    }
+  }
+]

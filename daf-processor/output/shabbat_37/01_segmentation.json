@@ -106,7 +106,7 @@
           "timestamp": "23:04"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -120,7 +120,7 @@
           "timestamp": "29:08"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 7,
       "matched": false
     },
     {
@@ -139,7 +139,7 @@
           "timestamp": "40:30"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -226,8 +226,8 @@
           "timestamp": "55:50"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -474,5 +474,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "30:52",
+  "amud_b_micro_title": "Reignition = Fully Cooked",
+  "shiur_start_daf": 37,
+  "shiur_start_amud": "a"
 }

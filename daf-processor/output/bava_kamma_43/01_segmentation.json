@@ -54,7 +54,7 @@
           "timestamp": "14:48"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -137,7 +137,7 @@
           "timestamp": "39:03"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -176,8 +176,8 @@
           "timestamp": "50:20"
         }
       ],
-      "sefaria_index": 14,
-      "matched": false
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -455,5 +455,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "35:11",
+  "amud_b_micro_title": "Tam/Muad Case",
+  "shiur_start_daf": 43,
+  "shiur_start_amud": "a"
 }

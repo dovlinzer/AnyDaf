@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Keva Context Matters",
+    "candidates": [
+      "Intro: Shabbat Koveia",
+      "Mishna: Erev Shabbat",
+      "Challenge: Dibbur Koveya",
+      "R. Eliezer: Motaro Chozer",
+      "Olives Mishna",
+      "Keva Context Matters",
+      "Grapes Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All nine items are part of the continuous Gemara discussion about whether shabbat or verbal designation is koveia, including the challenge from Rabbi Eliezer's motaro chozer principle, the olives mishna, Rabbi Abbahu's explanation, Rav Shimi bar Ashi's resolution, and the seifa inference \u2014 all of which are explicitly described in the prose of heading 5 ('Keva Context Matters').",
+      "chosen_heading": "Keva Context Matters",
+      "current_heading": "Keva Context Matters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Grapes Mishna",
+    "candidates": [
+      "Grapes Mishna",
+      "Both Agree Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial contradiction about eating from a cluster of grapes in the garden-to-courtyard scenario, which is exactly what the 'Grapes Mishna' prose describes as the ramei being raised, before the resolution discussed under 'Both Agree Shabbat'.",
+      "chosen_heading": "Grapes Mishna",
+      "current_heading": "Grapes Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Both Agree Shabbat",
+    "candidates": [
+      "Both Agree Shabbat",
+      "R. Yochanan: Gemar Melach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the Rabbi Eliezer/Rabbi Yehoshua dispute about finishing grapes when Shabbat arrives, and Rabbi Natan's resolution that 'finish' means wait until after Shabbat \u2014 exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Both Agree Shabbat",
+      "current_heading": "Both Agree Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "R. Yochanan: Gemar Melach",
+    "candidates": [
+      "R. Yochanan: Gemar Melach",
+      "Shabbat Not Koveia",
+      "Hillel Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's definitive ruling via Ravin that none of the four cases (Shabbat, teruma, chatzer, mekach) establishes a tithe obligation for produce whose labor is not yet complete, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "R. Yochanan: Gemar Melach",
+      "current_heading": "R. Yochanan: Gemar Melach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Hillel Alone",
+    "candidates": [
+      "Shabbat Not Koveia",
+      "Hillel Alone",
+      "Chatzer Not Koveia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about Hillel's lone position on shabbat being koveia for transported fruit, which is exactly what the 'Hillel Alone' section's prose describes.",
+      "chosen_heading": "Hillel Alone",
+      "current_heading": "Hillel Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Chatzer Not Koveia",
+    "candidates": [
+      "Chatzer Not Koveia",
+      "Teruma Not Koveia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses a courtyard (chatzer) and Rabbi Ya'akov's position on tithes for produce transported through a courtyard, which matches precisely the prose of candidate 0 about chatzer not being koveia and the dispute between Rabbi Ya'akov and Rabbi Yose.",
+      "chosen_heading": "Chatzer Not Koveia",
+      "current_heading": "Chatzer Not Koveia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Teruma Not Koveia",
+    "candidates": [
+      "Teruma Not Koveia",
+      "Mekach Not Koveia",
+      "Figs Purchase Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the exact mishna about teruma separated before gemar melacha and the Rabbi Eliezer/Rabbis dispute, which is precisely what the 'Teruma Not Koveia' prose section discusses and cites.",
+      "chosen_heading": "Teruma Not Koveia",
+      "current_heading": "Teruma Not Koveia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Figs Purchase Baraita",
+    "candidates": [
+      "Mekach Not Koveia",
+      "Figs Purchase Baraita",
+      "Only Gemar Melacha",
+      "Skylight Lowering",
+      "Covering from Rain",
+      "Vessel Under Drip",
+      "Rashi: Hefsed Mammon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about purchasing figs from an am ha'aretz, the three inferences (shma mina tlas), and the mishna about exchanging fruit (ha'machlif) with Rabbi Yehuda's ruling \u2014 are explicitly discussed together in the 'Figs Purchase Baraita' prose, which is the current placement and clearly the best match.",
+      "chosen_heading": "Figs Purchase Baraita",
+      "current_heading": "Figs Purchase Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rashi: Hefsed Mammon",
+    "candidates": [
+      "Only Gemar Melacha",
+      "Skylight Lowering",
+      "Covering from Rain",
+      "Vessel Under Drip",
+      "Rashi: Hefsed Mammon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Hadran marks the end of a chapter and transition to the next perek, which the prose under 'Skylight Lowering' explicitly describes as the transition introduced by 'Hadran Alach Hamavi.'",
+      "chosen_heading": "Skylight Lowering",
+      "current_heading": "Rashi: Hefsed Mammon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rashi: Hefsed Mammon",
+    "candidates": [
+      "Rashi: Hefsed Mammon",
+      "Four Verb Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, which Rashi's commentary directly analyzes in the prose under heading 0, discussing the cases of lowering produce, covering fruit/pitchers, and placing a vessel under a leak in the context of hefsed mamon.",
+      "chosen_heading": "Rashi: Hefsed Mammon",
+      "current_heading": "Rashi: Hefsed Mammon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Four Verb Options",
+    "candidates": [
+      "Four Verb Options",
+      "Mashilin: Drop",
+      "Mashchilin: Dislocate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records the initial dispute between Rav Yehuda and Rav Natan over the two verb forms, which is precisely what the 'Four Verb Options' section introduces before going into the individual verb analyses.",
+      "chosen_heading": "Four Verb Options",
+      "current_heading": "Four Verb Options",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Mashchilin: Dislocate",
+    "candidates": [
+      "Mashilin: Drop",
+      "Mashchilin: Dislocate",
+      "Mashirin: Fall"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mashchilin: Dislocate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Mar Zutra's statement covering both mashilin and mashchilin variants, and candidate 1's prose explicitly discusses both the mashilin verse and the mashchilin mishnaic support (shchul/kasul), making it the clear home for item 1.",
+      "second_heading": "Mashirin: Fall",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman bar Yitzchak's separate statement about mashirin/mashchirin/manshirin variants, which matches candidate 2's prose discussing those exact forms.",
+      "current_heading": "Mashchilin: Dislocate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Mashirin: Fall",
+    "candidates": [
+      "Mashirin: Fall",
+      "Menashirin: Drop Off"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both *mashirin* and *mashchirin* variants with their mishnaic proofs, which is precisely what the prose in candidate 0 elaborates on in detail.",
+      "chosen_heading": "Mashirin: Fall",
+      "current_heading": "Mashirin: Fall",
+      "moved": false
+    }
+  }
+]

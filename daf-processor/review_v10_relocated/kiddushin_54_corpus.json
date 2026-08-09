@@ -1,0 +1,219 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yaakov reverses",
+    "candidates": [
+      "Intro: Two positions",
+      "Yirmiyah's answer",
+      "Yaakov reverses",
+      "Rava's question",
+      "Void transaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yaakov's reversal argument (ipcha mistabra) about ma'aser sheni and hekdesh, which is precisely what the 'Yaakov reverses' section's prose describes.",
+      "chosen_heading": "Yaakov reverses",
+      "current_heading": "Yaakov reverses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Void transaction",
+    "candidates": [
+      "Rava's question",
+      "Void transaction",
+      "Storekeeper case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's question about the money's status and Rav \u1e24iyya bar Avin's follow-up about a sale \u2014 are discussed together in candidate 0's prose as part of Rava's sharply posed question and its resolution, whereas candidate 1's prose already treats these as answered and moves on to the braita challenge.",
+      "chosen_heading": "Rava's question",
+      "current_heading": "Void transaction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Storekeeper case",
+    "candidates": [
+      "Void transaction",
+      "Storekeeper case",
+      "Rav rejects position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the braita about the storekeeper/money-changer dispute and the Gemara's resolution that Rabbi Meir spoke l'divrav d'Rabbi Yehuda, which is precisely what the 'Storekeeper case' prose describes in detail.",
+      "chosen_heading": "Storekeeper case",
+      "current_heading": "Storekeeper case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Rav rejects position",
+    "candidates": [
+      "Rav rejects position",
+      "Unworn garments",
+      "Heavenly angels",
+      "Worn-out distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav's statement that he reviewed all angles of Rabbi Meir's opinions and never found the position that hekdesh is not desacralized unwittingly but is desacralized intentionally \u2014 exactly what heading 0 ('Rav rejects position') describes in its prose.",
+      "chosen_heading": "Rav rejects position",
+      "current_heading": "Rav rejects position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Worn-out distinction",
+    "candidates": [
+      "Unworn garments",
+      "Heavenly angels",
+      "Worn-out distinction",
+      "New vs. old coins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Heavenly angels",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains the mishna's ruling about unworn priestly tunics and invokes 'she-lo nitna Torah l'malachei ha-shareit', which is precisely what candidate 1 ('Heavenly angels') discusses in its prose.",
+      "second_heading": "Worn-out distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the braita about worn-out priestly tunics and the 'balu davka' distinction, which is exactly what candidate 2 ('Worn-out distinction') discusses in its prose.",
+      "current_heading": "Worn-out distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "New vs. old coins",
+    "candidates": [
+      "New vs. old coins",
+      "Fallen wall stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the braita about new vs. old shekels and Rabbi Meir's position on shiyarei halishka, which is precisely what the prose under 'New vs. old coins' describes and analyzes.",
+      "chosen_heading": "New vs. old coins",
+      "current_heading": "New vs. old coins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Fallen wall stones",
+    "candidates": [
+      "Fallen wall stones",
+      "Follow Meir: Me'aser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items deal with the same continuous discussion about me'ilah for wall stones, shiyarei halishka, Rabbi Meir vs. Rabbi Yehuda attributions, Jerusalem's kedushah in Nedarim, trei tanna'im aliba d'Rabbi Yehuda, and Ulla/Ravin's explanation of Rabbi Meir's position \u2014 all of which are explicitly described in the 'Fallen wall stones' prose.",
+      "chosen_heading": "Fallen wall stones",
+      "current_heading": "Fallen wall stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Follow Meir: Me'aser",
+    "candidates": [
+      "Follow Meir: Me'aser",
+      "Kerem revai proof",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the halakhic rulings of Rav Na\u1e25man citing Rav Adda bar Ahava \u2014 following Rabbi Meir on ma'aser and Rabbi Yehuda on hekdesh \u2014 which is exactly what candidate 0's prose introduces and explains before turning to the supporting stam Mishnayot.",
+      "chosen_heading": "Follow Meir: Me'aser",
+      "current_heading": "Follow Meir: Me'aser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Kerem revai proof",
+      "Shammai vs. Hillel",
+      "Follow Yehuda: Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the continuous Gemara discussion of the Beit Shammai/Beit Hillel dispute over kerem revai \u2014 the Mishnah text, the gezeirah shavah reasoning, and the conclusion that Beit Hillel follows Rabbi Meir \u2014 which is precisely what heading 1 ('Shammai vs. Hillel') describes in its prose.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Follow Yehuda: Hekdesh",
+    "candidates": [
+      "Follow Yehuda: Hekdesh",
+      "Rav Pappa's question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Mishnah from Me'ila about sending a competent agent with hekdesh funds who remembers before reaching the storekeeper, which is precisely the stam Mishnah supporting Rabbi Yehuda's position on hekdesh discussed in candidate 0's prose.",
+      "chosen_heading": "Follow Yehuda: Hekdesh",
+      "current_heading": "Follow Yehuda: Hekdesh",
+      "moved": false
+    }
+  }
+]

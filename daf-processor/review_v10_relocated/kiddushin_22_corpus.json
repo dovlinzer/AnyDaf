@@ -1,0 +1,348 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Nirtza Freedom",
+    "candidates": [
+      "Nirtza Freedom",
+      "Piercing Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the nirtza's acquisition through ear-piercing and his path to freedom via Jubilee and master's death, which is precisely what the 'Nirtza Freedom' prose section covers in detail.",
+      "chosen_heading": "Nirtza Freedom",
+      "current_heading": "Nirtza Freedom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Piercing Tools",
+    "candidates": [
+      "Piercing Tools",
+      "Piercing Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about valid piercing tools (awl, thorn, needle, metal requirement, large awl), which is precisely what the 'Piercing Tools' prose describes in detail.",
+      "chosen_heading": "Piercing Tools",
+      "current_heading": "Piercing Tools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Piercing Location",
+    "candidates": [
+      "Piercing Location",
+      "Metal vs. Other"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the debate about whether piercing is done in the earlobe or upper ear, and the proof from a kohen becoming a ba'al mum \u2014 exactly what the 'Piercing Location' prose describes.",
+      "chosen_heading": "Piercing Location",
+      "current_heading": "Piercing Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Metal vs. Other",
+    "candidates": [
+      "Metal vs. Other",
+      "Big Martzea"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the klal u'prat u'klal / ribui u'miut u'ribui dispute between Rabbi and Rabbi Yosi, which is precisely what the 'Metal vs. Other' prose section describes in detail.",
+      "chosen_heading": "Metal vs. Other",
+      "current_heading": "Metal vs. Other",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Big Martzea",
+    "candidates": [
+      "Big Martzea",
+      "Kohen Nirtza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation that 'hamartzea' refers to a large/special awl using Rava's analogy, which is precisely what the 'Big Martzea' section's prose describes.",
+      "chosen_heading": "Big Martzea",
+      "current_heading": "Big Martzea",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Kohen Nirtza",
+    "candidates": [
+      "Kohen Nirtza",
+      "Kohen & Shifcha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition against piercing a kohen eved ivri and Rabba bar Rav Shila's derivation from 'veshav el mishpachto,' which is precisely what the prose under 'Kohen Nirtza' describes.",
+      "chosen_heading": "Kohen Nirtza",
+      "current_heading": "Kohen Nirtza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Kohen & Shifcha",
+    "candidates": [
+      "Kohen & Shifcha",
+      "Challenge to Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the dilemma and its resolution (Rav permits, Shmuel forbids) regarding a kohen eved ivri and a shifcha kna'anit, which is precisely what the 'Kohen & Shifcha' prose describes.",
+      "chosen_heading": "Kohen & Shifcha",
+      "current_heading": "Kohen & Shifcha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Challenge to Shmuel",
+    "candidates": [
+      "Challenge to Shmuel",
+      "Yefat To'ar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge from Rav Na\u1e25man to Rav Anan about Shmuel's ruling, using the Rabbis' reason that a priestly Hebrew slave cannot be pierced because of ba'al mum, and the follow-up proof that this implies a Canaanite maidservant can be given to a priestly slave \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Challenge to Shmuel",
+      "current_heading": "Challenge to Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Yefat To'ar",
+    "candidates": [
+      "Yefat To'ar",
+      "When Sex Occurs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Yefat To'ar",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the dispute between Rav and Shmuel about whether a kohen may take a yefat to'ar, including the biah rishonah/shniyah distinction, which is precisely what candidate 0's prose discusses in detail.",
+      "second_heading": "When Sex Occurs",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are a baraita expounding the yefat to'ar verses phrase by phrase (besha'at shivyah, eshet, yefat to'ar, vachashakta, bah), including the 'lo dibrah Torah ela keneged yetzer hara' rationale and the limitation to one captive, which candidate 1's prose addresses when discussing the baraita's exegesis of the pesukim and the concept of biah rishonah at the battlefield.",
+      "current_heading": "Yefat To'ar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "When Sex Occurs",
+    "candidates": [
+      "When Sex Occurs",
+      "Yetzer Hara Concession",
+      "Lesser of Two Evils",
+      "Conversion Prevention",
+      "Timing of Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 deriving from 've'lakachta lecha le'ishah' that the marriage is valid (likuchin yesh lecha bah), that one cannot take a captive for his father or son, and that 've'heveisah' teaches not to pressure her during war \u2014 directly matches the Ramban's discussion in the 'Conversion Prevention' prose about velakachta lecha le'ishah indicating valid kiddushin and the limitation of lecha le'ishah rather than for someone else.",
+      "chosen_heading": "Conversion Prevention",
+      "current_heading": "When Sex Occurs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Timing of Declaration",
+    "candidates": [
+      "Yetzer Hara Concession",
+      "Lesser of Two Evils",
+      "Conversion Prevention",
+      "Timing of Declaration",
+      "Last Penny Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita and gemara analysis about the timing of the slave's declaration (beginning vs. end of six years), which is precisely what the 'Timing of Declaration' prose section describes.",
+      "chosen_heading": "Timing of Declaration",
+      "current_heading": "Timing of Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Last Penny Standard",
+    "candidates": [
+      "Last Penny Standard",
+      "Wife & Children",
+      "Love & Health"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rava's resolution that 'beginning of six' and 'end of six' refer to the beginning and end of the last pruta, which is exactly what the 'Last Penny Standard' prose section discusses.",
+      "chosen_heading": "Last Penny Standard",
+      "current_heading": "Last Penny Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Love & Health",
+    "candidates": [
+      "Wife & Children",
+      "Love & Health",
+      "Equal Treatment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wife & Children",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 are the baraita about wife/children and love/illness conditions for nirtza, directly matching the 'Wife & Children' section's prose about the baraita's conditions including the shifcha kna'anit and the master's household requirement \u2014 but item 2 also covers the love/health conditions described in 'Love & Health', so the structural seam is actually after item 1 (wife/children baraita) and item 2 onward (love/health conditions).",
+      "second_heading": "Love & Health",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 cover the love and illness conditions and Rav Beivai bar Abaye's dilemma about both being ill, which exactly matches the 'Love & Health' prose describing ki tov lo imach, mutual love, illness conditions, and the teiku about both being ill.",
+      "current_heading": "Love & Health",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Equal Treatment",
+    "candidates": [
+      "Equal Treatment",
+      "Support Obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Equal Treatment' section's prose, which explicitly describes this baraita about imach bema'achal, imach bemishte, the contrasts of fine vs. coarse bread, aged vs. new wine, soft bedding vs. straw, and the principle of acquiring a master for oneself.",
+      "chosen_heading": "Equal Treatment",
+      "current_heading": "Equal Treatment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Support Obligations",
+    "candidates": [
+      "Support Obligations",
+      "Through Ear & Door",
+      "Standing Door",
+      "Ear at Sinai"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Support Obligations",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the master's obligation to provide sustenance for the slave's wife and children, exactly matching the 'Support Obligations' prose.",
+      "second_heading": "Through Ear & Door",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 begin a new baraita analyzing the precise procedure of piercing the ear and door during retziah, exactly matching the 'Through Ear & Door' prose.",
+      "current_heading": "Support Obligations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Ear at Sinai",
+    "candidates": [
+      "Through Ear & Door",
+      "Standing Door",
+      "Ear at Sinai",
+      "Door as Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabban Yochanan ben Zakkai's exposition on why the ear is singled out for piercing, citing the Sinai proclamation \u2014 precisely what the 'Ear at Sinai' section's prose describes and analyzes.",
+      "chosen_heading": "Ear at Sinai",
+      "current_heading": "Ear at Sinai",
+      "moved": false
+    }
+  }
+]

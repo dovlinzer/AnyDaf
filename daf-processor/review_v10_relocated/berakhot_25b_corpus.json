@@ -1,0 +1,705 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Ba'al Keri",
+    "candidates": [
+      "Mishnah Ba'al Keri",
+      "Rabbi Eliezer Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question 'leima tanna stam keRebbi Eliezer' \u2014 asking whether the anonymous mishna follows Rabbi Eliezer's position \u2014 which is precisely what the 'Rabbi Eliezer Position' section's prose describes and analyzes.",
+      "chosen_heading": "Rabbi Eliezer Position",
+      "current_heading": "Mishnah Ba'al Keri",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rabbi Eliezer Position",
+    "candidates": [
+      "Mishnah Ba'al Keri",
+      "Rabbi Eliezer Position",
+      "Heart Seeing Nakedness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's deflection (afilu teima Rabbi Yehoshua) and the vatikin ideal (Rabbi Yochanan's statement about completing shema at sunrise), which is exactly what the 'Rabbi Eliezer Position' prose describes.",
+      "chosen_heading": "Rabbi Eliezer Position",
+      "current_heading": "Rabbi Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Heart Seeing Nakedness",
+    "candidates": [
+      "Heart Seeing Nakedness",
+      "Dirty Water Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of the heart seeing nakedness when reciting Shema in water, which is precisely what the 'Heart Seeing Nakedness' section's prose discusses as its central problem.",
+      "chosen_heading": "Heart Seeing Nakedness",
+      "current_heading": "Heart Seeing Nakedness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Dirty Water Solution",
+    "candidates": [
+      "Dirty Water Solution",
+      "Clear Water Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar/Rabbi A\u1e25a explaining that murky water resembles solid earth, which is precisely the content discussed in the 'Dirty Water Solution' prose section.",
+      "chosen_heading": "Dirty Water Solution",
+      "current_heading": "Dirty Water Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Clear Water Debate",
+    "candidates": [
+      "Clear Water Debate",
+      "Heart vs Heel",
+      "Abaye Rava Debate",
+      "Torah Not Angels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the clear water case \u2014 the baraita ruling on sitting up to one's neck and the gemara's questions about libo and akvo roeh \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Clear Water Debate",
+      "current_heading": "Clear Water Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Torah Not Angels",
+    "candidates": [
+      "Heart vs Heel",
+      "Abaye Rava Debate",
+      "Torah Not Angels",
+      "Tzoa Covered Nakedness",
+      "Covering Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Abaye-Rava debate about noge'a vs. roeh, the two different transmissions by Rav Zevid and Rav \u1e24innana, and the final halakhic ruling \u2014 all of which precisely matches the 'Abaye Rava Debate' section's prose content.",
+      "chosen_heading": "Abaye Rava Debate",
+      "current_heading": "Torah Not Angels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Covering Distinction",
+    "candidates": [
+      "Tzoa Covered Nakedness",
+      "Covering Distinction",
+      "Spit Nullification",
+      "Excrement Pit Covered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement introducing both the feces-in-lantern and nakedness-in-lantern cases along with their explanations, which matches candidate 0's prose that introduces this exact case from Rava, whereas candidate 1 (current placement) is meant to discuss only the explanatory distinction as separate prose commentary.",
+      "chosen_heading": "Tzoa Covered Nakedness",
+      "current_heading": "Covering Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Excrement Pit Covered",
+    "candidates": [
+      "Spit Nullification",
+      "Excrement Pit Covered",
+      "Stuck Excrement Teiku",
+      "Naked Non-Jew Issue",
+      "Jew Forbidden Too"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers three distinct topics (spit nullification, excrement in a pit, and stuck excrement dilemma) that span headings 0-2, but since the passage begins with Abaye's spit nullification ruling which is heading 0's specific topic, and all three items appear to be one continuous Talmudic unit, heading 0 is the earliest and best starting point \u2014 however, the current placement at heading 1 is also defensible since Rava's pit ruling is the central new ruling; given the passage contains all three topics, I prefer the earliest relevant heading.",
+      "chosen_heading": "Spit Nullification",
+      "current_heading": "Excrement Pit Covered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Jew Forbidden Too",
+    "candidates": [
+      "Stuck Excrement Teiku",
+      "Naked Non-Jew Issue",
+      "Jew Forbidden Too",
+      "Non-Jew Comments",
+      "Teaching Responsibility",
+      "Smelly Water Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Yehuda's ruling about a naked non-Jew AND the gemara's challenge/response about why a non-Jew is singled out, making it a single unified passage that belongs under 'Naked Non-Jew Issue' (index 1), which introduces Rav Yehuda's ruling, with the challenge/response being integral to that same sugya rather than a separate section.",
+      "chosen_heading": "Naked Non-Jew Issue",
+      "current_heading": "Jew Forbidden Too",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Smelly Water Ban",
+    "candidates": [
+      "Non-Jew Comments",
+      "Teaching Responsibility",
+      "Smelly Water Ban",
+      "Urine Dilution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage's key content is the Gemara's reinterpretation that foul water and flax-water are categorically forbidden while urine is permitted after adding water \u2014 the distinction and ruling about urine (mei raglayim) with the condition 'ad sheyatil letochan mayim' is precisely what the 'Urine Dilution' section's prose describes.",
+      "chosen_heading": "Urine Dilution",
+      "current_heading": "Smelly Water Ban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Urine Dilution",
+    "candidates": [
+      "Smelly Water Ban",
+      "Urine Dilution",
+      "Water Amount Debate",
+      "Timing Water Addition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita directly discusses how much water must be added (kol shehu vs. revi'is/Rabbi Zakkai), which is precisely what the 'Water Amount Debate' section's prose describes.",
+      "chosen_heading": "Water Amount Debate",
+      "current_heading": "Urine Dilution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Timing Water Addition",
+    "candidates": [
+      "Water Amount Debate",
+      "Timing Water Addition",
+      "Chamber Pots Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Na\u1e25man/Rav Yosef dispute about timing (levasof vs. betchilah) of water addition, which is precisely what the 'Timing Water Addition' prose describes in detail.",
+      "chosen_heading": "Timing Water Addition",
+      "current_heading": "Timing Water Addition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Chamber Pots Prohibited",
+    "candidates": [
+      "Chamber Pots Prohibited",
+      "Excrement Bed Position",
+      "Gamliel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the content discussed in heading 0's prose \u2014 the prohibition of chamber pots even when empty, the debate about how much water dilutes urine, and then continues into the bed-position debate (headings 1 and 2), but since it is a single baraita that begins with the core ruling about chamber pots and urine vessels, it belongs under its current heading which introduces that ruling.",
+      "chosen_heading": "Chamber Pots Prohibited",
+      "current_heading": "Chamber Pots Prohibited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Gamliel Position",
+    "candidates": [
+      "Excrement Bed Position",
+      "Gamliel Position",
+      "Eliezer Room Rule",
+      "Braisot Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the dilemma about Rabban Shimon ben Gamliel's position (behind=immediate vs. four cubits; before=four cubits vs. entirely forbidden) and its resolution via a baraita \u2014 exactly what the 'Gamliel Position' prose describes.",
+      "chosen_heading": "Gamliel Position",
+      "current_heading": "Gamliel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Braisot Resolution",
+    "candidates": [
+      "Eliezer Room Rule",
+      "Braisot Resolution",
+      "Room vs Outdoor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely the Gemara's exchange about reversing the baraitot to resolve the contradiction between them \u2014 exactly what the 'Braisot Resolution' prose describes.",
+      "chosen_heading": "Braisot Resolution",
+      "current_heading": "Braisot Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Room vs Outdoor",
+    "candidates": [
+      "Room vs Outdoor",
+      "Bed Height Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies Rabbi Shimon ben Elazar as the author of the principle that an entire house is considered like four cubits, directly supporting the 'Room vs Outdoor' section's discussion of *kulei beisa k'arba amos dami* and its attribution to Rabbi Shimon bar Elazar.",
+      "chosen_heading": "Room vs Outdoor",
+      "current_heading": "Room vs Outdoor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Bed Height Question",
+    "candidates": [
+      "Bed Height Question",
+      "Rava Bed Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's dilemma to Rav Huna about the range of three to nine handbreadths, with clear endpoints at less-than-three (lavud) and ten (separate domain), which matches exactly the prose under 'Bed Height Question' rather than 'Rava Bed Ruling' which attributes these rulings to Rava.",
+      "chosen_heading": "Bed Height Question",
+      "current_heading": "Bed Height Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rava Bed Ruling",
+    "candidates": [
+      "Rava Bed Ruling",
+      "Three Ten Range",
+      "Halacha Practice",
+      "Bridal Chamber Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rava's rulings on all three ranges (less than three, ten, and three-to-ten) plus the dispute about Rabbi Shimon ben Elazar, and the current placement's prose directly describes Rava's definitive rulings on the endpoints, making it the best fit even though the passage also touches on the unresolved middle range.",
+      "chosen_heading": "Rava Bed Ruling",
+      "current_heading": "Rava Bed Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Bridal Chamber Torah",
+    "candidates": [
+      "Three Ten Range",
+      "Halacha Practice",
+      "Bridal Chamber Torah",
+      "Torah Double Vessel",
+      "Non-Standard Covering",
+      "Standard Coverings Fail",
+      "Partition Solution",
+      "Mar Zutra Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the narrative of Rav A\u1e25ai arranging his son's marriage and discovering a Torah scroll in the bridal chamber, which exactly matches the 'Bridal Chamber Torah' section's prose about this same story.",
+      "chosen_heading": "Bridal Chamber Torah",
+      "current_heading": "Bridal Chamber Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Mar Zutra Story",
+    "candidates": [
+      "Torah Double Vessel",
+      "Non-Standard Covering",
+      "Standard Coverings Fail",
+      "Partition Solution",
+      "Mar Zutra Story",
+      "Books Distinction",
+      "Four Amot Behind"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Standard Coverings Fail",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's and Rava's rulings about standard coverings failing and the cloak-on-chest example, which matches heading 2 ('Standard Coverings Fail') exactly.",
+      "second_heading": "Partition Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens with Rabbi Yehoshua ben Levi's partition solution and the Mar Zutra story, which corresponds to headings 3 and 4, but since the partition ruling and the Mar Zutra anecdote are one continuous unit, heading 3 ('Partition Solution') is the better entry point for that combined content \u2014 though heading 4 also covers the Mar Zutra portion, the passage as a whole starts with the partition ruling that belongs under heading 3.",
+      "current_heading": "Mar Zutra Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Four Amot Behind",
+    "candidates": [
+      "Books Distinction",
+      "Four Amot Behind",
+      "Field of Vision",
+      "Bathroom Standing",
+      "Unused Bathroom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the four-amot rule and then qualifies it with Rav Sechora/Rav Huna's distinction, which is precisely what the 'Four Amot Behind' section's prose describes as its content.",
+      "chosen_heading": "Four Amot Behind",
+      "current_heading": "Four Amot Behind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Unused Bathroom",
+    "candidates": [
+      "Field of Vision",
+      "Bathroom Standing",
+      "Unused Bathroom",
+      "Designated Unused"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution sequence that heading 'Bathroom Standing' explicitly introduces \u2014 it cites Rav Chisda's ruling and asks how it is consistent, which is exactly what items 1 and 2 work through (the bathroom-without-feces resolution and its immediate refutation leading to the 'new structure' answer), whereas the current heading 'Unused Bathroom' covers only the resolution, not the initial challenge that opens item 1.",
+      "chosen_heading": "Bathroom Standing",
+      "current_heading": "Unused Bathroom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Designated Unused",
+    "candidates": [
+      "Unused Bathroom",
+      "Designated Unused",
+      "Sealed Design"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about Ravina's dilemma regarding a space designated (but not used) as a bathroom and clarifies that his question concerns praying inside it versus opposite it, which matches exactly the 'Designated Unused' section's prose discussion of Ravina's question and its clarification.",
+      "chosen_heading": "Designated Unused",
+      "current_heading": "Designated Unused",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Sealed Design",
+    "candidates": [
+      "Sealed Design",
+      "Modern Toilets",
+      "Public Restrooms",
+      "Zav Niddah Keri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's ruling about Persian bathrooms being considered sealed, which is precisely what the 'Sealed Design' section's prose discusses.",
+      "chosen_heading": "Sealed Design",
+      "current_heading": "Sealed Design",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Zav Niddah Keri",
+    "candidates": [
+      "Modern Toilets",
+      "Public Restrooms",
+      "Zav Niddah Keri",
+      "Ba'al Keri Zav",
+      "Woman Intercourse",
+      "Rabbi Chiyya Explicit",
+      "Rabbi Yehuda Exempt",
+      "Three Chapters End",
+      "Fourth Chapter Start",
+      "Shacharit Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the continuous sugya on zav/niddah/keri that the 'Zav Niddah Keri' section prose describes \u2014 the mishnah introducing the cases, the gemara's dilemma about reversed order, and the resolution via the woman's case and Rabbi Chiyya's explicit teaching all belong under this one heading which covers exactly this material.",
+      "chosen_heading": "Zav Niddah Keri",
+      "current_heading": "Zav Niddah Keri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161,
+      162
+    ],
+    "current_heading": "Shacharit Times",
+    "candidates": [
+      "Ba'al Keri Zav",
+      "Woman Intercourse",
+      "Rabbi Chiyya Explicit",
+      "Rabbi Yehuda Exempt",
+      "Three Chapters End",
+      "Fourth Chapter Start",
+      "Shacharit Times",
+      "Mincha Times",
+      "Maariv Musaf"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Chapters End",
+      "first_confidence": "high",
+      "first_reason": "The 'hadran' formula is a concluding marker signaling the end of a chapter, matching the 'Three Chapters End' prose about the third perek of Berakhot concluding.",
+      "second_heading": "Shacharit Times",
+      "second_confidence": "high",
+      "second_reason": "The Mishna about times for Shacharit and Mincha prayers (with Rabbi Yehuda's four-hour and plag hamincha positions) is the opening Mishna of the fourth perek, matching the 'Shacharit Times' prose exactly.",
+      "current_heading": "Shacharit Times",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168
+    ],
+    "current_heading": "Maariv Musaf",
+    "candidates": [
+      "Mincha Times",
+      "Maariv Musaf",
+      "Sunrise Mitzvah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Maariv Musaf",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Maariv having no fixed time and Musaf being recited all day (with Rabbi Yehuda's restriction to seven hours), which matches exactly the 'Maariv Musaf' section prose.",
+      "second_heading": "Sunrise Mitzvah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Gemara's contradiction from the baraita about sunrise and juxtaposing geulah to tefillah, which matches precisely the 'Sunrise Mitzvah' section prose about mitzvatah im hanetz hachamah.",
+      "current_heading": "Maariv Musaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Sunrise Mitzvah",
+    "candidates": [
+      "Sunrise Mitzvah",
+      "Ideal vs Halacha",
+      "Vatikin Timing",
+      "Missed Maariv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states 'ki tanya hahi l'vatikin' and cites Rabbi Yochanan's vatikin rule, which is exactly what the 'Ideal vs Halacha' prose section describes as its content \u2014 the resolution that the braisa describes only the vatikin ideal, not a binding halakhic limit.",
+      "chosen_heading": "Ideal vs Halacha",
+      "current_heading": "Sunrise Mitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      180
+    ],
+    "current_heading": "Missed Maariv",
+    "candidates": [
+      "Ideal vs Halacha",
+      "Vatikin Timing",
+      "Missed Maariv",
+      "Noon Cutoff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage questions whether everyone holds that shacharit is only until noon, raising the Rabbi Yochanan ruling about makeup prayers as an apparent contradiction \u2014 this directly sets up the 'Noon Cutoff' section's discussion about the extended period and the move toward a makeup prayer model, rather than the 'Missed Maariv' section which discusses tashlumin as an established concept.",
+      "chosen_heading": "Noon Cutoff",
+      "current_heading": "Missed Maariv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      183
+    ],
+    "current_heading": "Noon Cutoff",
+    "candidates": [
+      "Missed Maariv",
+      "Noon Cutoff",
+      "Mincha Makeup",
+      "Korban vs Rachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the noon cutoff and the distinction between receiving reward for prayer at its appointed time versus prayer in general, which is precisely what the 'Noon Cutoff' section's prose describes.",
+      "chosen_heading": "Noon Cutoff",
+      "current_heading": "Noon Cutoff",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      188,
+      189,
+      190,
+      191
+    ],
+    "current_heading": "Korban vs Rachamim",
+    "candidates": [
+      "Mincha Makeup",
+      "Korban vs Rachamim",
+      "Scripture Proof",
+      "Willful Neglect"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mincha Makeup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the dilemma about missing Mincha and its resolution (Rav Huna bar Yehuda citing Rabbi Yochanan), which matches heading 0 ('Mincha Makeup') and heading 1 ('Korban vs Rachamim') \u2014 but since the dilemma text itself (item 1) is already under heading 1 and heading 1's prose explicitly discusses the korban/rachamim tension including the yom echad argument and avar yomo batel korbano, items 1-2 best fit under heading 1.",
+      "second_heading": "Scripture Proof",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the baraita objection from 'me'uvat lo yuchal litkon' and Rabbi Yochanan's resolution distinguishing meizid from shogeg, which precisely matches headings 2 ('Scripture Proof') and 3 ('Willful Neglect') \u2014 but since items 3-4 form a single challenge-and-resolution unit, they belong together; the split places them under heading 2 since the baraita citation opens the unit and heading 2's prose describes exactly this baraita and its apparent categorical rejection of makeup prayer.",
+      "current_heading": "Korban vs Rachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      197
+    ],
+    "current_heading": "Willful Neglect",
+    "candidates": [
+      "Scripture Proof",
+      "Willful Neglect",
+      "Dialectic Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's observation about the precise language of the baraita (bittul vs. ta'ah), which is explicitly described in candidate 1's prose as part of the willful neglect discussion.",
+      "chosen_heading": "Willful Neglect",
+      "current_heading": "Willful Neglect",
+      "moved": false
+    }
+  }
+]

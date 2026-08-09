@@ -164,8 +164,8 @@
           "timestamp": "30:51"
         }
       ],
-      "sefaria_index": 16,
-      "matched": false
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "The Three Sets of Stones and the Publication of Torah in Seventy Languages",
@@ -237,7 +237,7 @@
           "timestamp": "53:52"
         }
       ],
-      "sefaria_index": 33,
+      "sefaria_index": 32,
       "matched": true
     }
   ],
@@ -408,5 +408,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "30:51",
+  "amud_b_micro_title": "Ark's Autonomy",
+  "shiur_start_daf": 35,
+  "shiur_start_amud": "a"
 }

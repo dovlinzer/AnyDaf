@@ -1,0 +1,492 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Liba vs. Niba",
+    "candidates": [
+      "Mishna: Adding Wood/Fire",
+      "Liba vs. Niba",
+      "Blowing & Wind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely about Rav Nachman bar Yitzchak's textual observation regarding the two valid manuscript traditions (liba vs. niba) for the verb in the mishna, which is exactly what the 'Liba vs. Niba' section's prose describes.",
+      "chosen_heading": "Liba vs. Niba",
+      "current_heading": "Liba vs. Niba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Blowing & Wind",
+    "candidates": [
+      "Blowing & Wind",
+      "Abaye: Separate Actions",
+      "Rava: Wind Predictability",
+      "R. Zeira: Minimal Blow",
+      "Rav Ashi: Winnowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete sugya under 'Blowing & Wind': the baraita ruling, the zoreh challenge, and the three Amoraic answers (Abaye, Rava, Rabbi Zeira) \u2014 exactly what the prose for heading 0 describes as the content of that section.",
+      "chosen_heading": "Blowing & Wind",
+      "current_heading": "Blowing & Wind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Ashi: Winnowing",
+    "candidates": [
+      "Abaye: Separate Actions",
+      "Rava: Wind Predictability",
+      "R. Zeira: Minimal Blow",
+      "Rav Ashi: Winnowing",
+      "Grama in Nezekim",
+      "Tosafot: Two People",
+      "Mishna: Sending Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about winnowing and the wind on Shabbat versus grama in damages, which is precisely what the 'Rav Ashi: Winnowing' section's prose discusses.",
+      "chosen_heading": "Rav Ashi: Winnowing",
+      "current_heading": "Rav Ashi: Winnowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Mishna: Sending Fire",
+    "candidates": [
+      "Grama in Nezekim",
+      "Tosafot: Two People",
+      "Mishna: Sending Fire",
+      "Gemara: Multiple Examples",
+      "Common vs. Uncommon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna: Sending Fire",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the law of sending fire, which matches heading 2's prose discussion of 'hashole'ach es hab'eira' and the cited verse.",
+      "second_heading": "Gemara: Multiple Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's opening question 'why did the Torah need to enumerate all these terms,' which matches heading 3's prose that explicitly quotes 'lama li d'chsav Rachmana kotzim gadish v'kama v'sadeh.'",
+      "current_heading": "Mishna: Sending Fire",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Common vs. Uncommon",
+    "candidates": [
+      "Gemara: Multiple Examples",
+      "Common vs. Uncommon",
+      "Standing Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the necessity of both 'thorns' and 'stack of grain' examples, explaining why each is needed due to the contrast between common vs. uncommon fire proximity and minimal vs. substantial loss \u2014 exactly what the 'Common vs. Uncommon' section's prose describes.",
+      "chosen_heading": "Common vs. Uncommon",
+      "current_heading": "Common vs. Uncommon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Standing Grain",
+    "candidates": [
+      "Standing Grain",
+      "Field: Charring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the derivations from 'kama' and 'o hakama'/'o hasadeh' regarding exposed vs. concealed property and inclusion of items with stature, which is precisely what the 'Standing Grain' prose section describes.",
+      "chosen_heading": "Standing Grain",
+      "current_heading": "Standing Grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Field: Charring",
+    "candidates": [
+      "Field: Charring",
+      "Suffering & Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the term 'field' (sadeh), liability for charring plowed fields and stones, and why all terms are necessary \u2014 exactly matching the 'Field: Charring' section's prose.",
+      "chosen_heading": "Field: Charring",
+      "current_heading": "Field: Charring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Suffering & Wicked",
+    "candidates": [
+      "Suffering & Wicked",
+      "Destructive Forces: No"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses calamity beginning with the righteous when wicked are present, matching exactly the prose of heading 0 which analyzes the same Rabbi Shmuel bar Na\u1e25mani/Rabbi Yonatan teaching about fire, thorns, and the haystack metaphor.",
+      "chosen_heading": "Suffering & Wicked",
+      "current_heading": "Suffering & Wicked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Destructive Forces: No",
+    "candidates": [
+      "Destructive Forces: No",
+      "Rav Yosef Weeps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the destroyer not distinguishing between righteous and wicked, matching exactly the prose under 'Destructive Forces: No' which paraphrases this same baraita of Rav Yosef.",
+      "chosen_heading": "Destructive Forces: No",
+      "current_heading": "Destructive Forces: No",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rav Yosef Weeps",
+    "candidates": [
+      "Rav Yosef Weeps",
+      "Day Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Yosef weeping and Abaye's response about the righteous being taken away before calamity, which matches exactly the prose under 'Rav Yosef Weeps' and has nothing to do with day travel.",
+      "chosen_heading": "Rav Yosef Weeps",
+      "current_heading": "Rav Yosef Weeps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Day Travel",
+    "candidates": [
+      "Day Travel",
+      "Pestilence vs. Famine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage teaches entering and leaving a city at a time of light/goodness, which matches exactly the 'Day Travel' section's prose about traveling in daylight for safety.",
+      "chosen_heading": "Day Travel",
+      "current_heading": "Day Travel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Pestilence vs. Famine",
+    "candidates": [
+      "Pestilence vs. Famine",
+      "Lepers' Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the baraita on plague, the Gemara's explanation of the additional verses, Rava's practice of closing windows, and the baraita on famine \u2014 are explicitly discussed in the 'Pestilence vs. Famine' prose, which covers all of this content in sequence.",
+      "chosen_heading": "Pestilence vs. Famine",
+      "current_heading": "Pestilence vs. Famine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Lepers' Choice",
+    "candidates": [
+      "Lepers' Choice",
+      "Angel of Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Talmudic source text for the 'Lepers' Choice' section, explaining why 'And it says' is needed \u2014 to counter the objection that leaving the city only applies when there is no mortal danger outside \u2014 which is exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Lepers' Choice",
+      "current_heading": "Lepers' Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Angel of Death",
+    "candidates": [
+      "Angel of Death",
+      "Peace: Center Road",
+      "Synagogue Safety"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the plague/middle-road rule and the peace/side-road rule together as a single baraita, and the current heading's prose explicitly discusses both halves of this teaching, making it the best match.",
+      "chosen_heading": "Angel of Death",
+      "current_heading": "Angel of Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Synagogue Safety",
+    "candidates": [
+      "Peace: Center Road",
+      "Synagogue Safety",
+      "Dogs as Omens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the braisa about not entering the synagogue alone during plague because the Angel of Death keeps his instruments there, with the qualification about children learning and ten men praying \u2014 exactly what the 'Synagogue Safety' prose discusses.",
+      "chosen_heading": "Synagogue Safety",
+      "current_heading": "Synagogue Safety",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Dogs as Omens",
+    "candidates": [
+      "Dogs as Omens",
+      "Two Wives Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about dogs crying/playing as omens of the Angel of Death or Elijah matches exactly the 'Dogs as Omens' section prose, which directly discusses this same baraita.",
+      "chosen_heading": "Dogs as Omens",
+      "current_heading": "Dogs as Omens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Two Wives Parable",
+    "candidates": [
+      "Two Wives Parable",
+      "Fire as Divine",
+      "God's Rebuilding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete 'two wives' parable story \u2014 the setup (Rav Ami and Rav Asi requesting halakha vs. aggada) and the parable itself \u2014 which is precisely what the 'Two Wives Parable' section prose describes in detail.",
+      "chosen_heading": "Two Wives Parable",
+      "current_heading": "Two Wives Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "God's Rebuilding",
+    "candidates": [
+      "Fire as Divine",
+      "God's Rebuilding",
+      "Esho Mishum Chitzav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the aggadic conclusion of Rabbi Yitzchak's teaching \u2014 God accepting responsibility for kindling the fire in Zion and promising to rebuild it with fire \u2014 which is precisely what candidate 1's prose describes as 'the aggadta portion of Rabbi Yitzchak's combined teaching.'",
+      "chosen_heading": "God's Rebuilding",
+      "current_heading": "God's Rebuilding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Esho Mishum Chitzav",
+    "candidates": [
+      "Esho Mishum Chitzav",
+      "David's Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses 'eisho mishum chitzav' \u2014 that fire liability is rooted in the person's act \u2014 which is precisely what the prose of heading 0 explains.",
+      "chosen_heading": "Esho Mishum Chitzav",
+      "current_heading": "Esho Mishum Chitzav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "David's Water",
+    "candidates": [
+      "David's Water",
+      "Hidden Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces David's longing for water and the three mighty men breaking through the Philistine camp, which is precisely what heading 0 'David's Water' discusses, including the metaphorical interpretation of water as Torah and the gate as a place of teaching.",
+      "chosen_heading": "David's Water",
+      "current_heading": "David's Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Hidden Property",
+    "candidates": [
+      "Hidden Property",
+      "Barley Mounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rava/Rav Na\u1e25man's answer that David was asking about tamun ba-esh (concealed property in fire) and the dispute between Rabbi Yehuda and the Rabbanan, which is precisely what the 'Hidden Property' section's prose addresses.",
+      "chosen_heading": "Hidden Property",
+      "current_heading": "Hidden Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Barley Mounds",
+    "candidates": [
+      "Barley Mounds",
+      "King's License"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's explanation about the barley stacks and David's dilemma, which is precisely what the 'Barley Mounds' section's prose discusses, before the reply and its legal analysis covered in the 'King's License' section.",
+      "chosen_heading": "Barley Mounds",
+      "current_heading": "Barley Mounds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "King's License",
+    "candidates": [
+      "King's License",
+      "Taking Barley"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact reply about the king's license (poretz la'asot lo derech, ein mochin beyado), which is precisely what the 'King's License' section's prose discusses in detail.",
+      "chosen_heading": "King's License",
+      "current_heading": "King's License",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Taking Barley",
+    "candidates": [
+      "Taking Barley",
+      "Barley & Lentils"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbanan/Rabba bar Mari version of David's dilemma about taking Israelite barley to feed animals with intent to repay with Philistine lentils, which is precisely what the prose under 'Taking Barley' describes, while 'Barley & Lentils' discusses the answer/response and the resolution of the scriptural contradiction.",
+      "chosen_heading": "Taking Barley",
+      "current_heading": "Taking Barley",
+      "moved": false
+    }
+  }
+]

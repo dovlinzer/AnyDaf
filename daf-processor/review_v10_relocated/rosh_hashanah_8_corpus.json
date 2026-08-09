@@ -1,0 +1,292 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two Verses Read",
+    "candidates": [
+      "Two Verses Read",
+      "Rabbi Meir Position",
+      "Rabbi Elazar/Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Elazar/Shimon's position (Tishrei) and Rabbi Yochanan's observation that both opinions derive from the same verse, plus Rabbi Meir's reading \u2014 exactly what the 'Two Verses Read' prose describes as its content, making it the correct current placement.",
+      "chosen_heading": "Two Verses Read",
+      "current_heading": "Two Verses Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbi Elazar/Shimon",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbi Elazar/Shimon",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar and Rabbi Shimon's reading that mating occurs in Nisan based on 'yitro'u af yashiru,' leading to birth in Elul and rosh hashanah in Tishrei, which matches exactly the prose under the 'Rabbi Elazar/Shimon' heading.",
+      "chosen_heading": "Rabbi Elazar/Shimon",
+      "current_heading": "Rabbi Elazar/Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Gemara Resolution",
+      "Rabbi Meir Logic",
+      "Elazar/Shimon Form",
+      "Sukkot Asif",
+      "Documents Dating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous Gemara passage covering the objections against both tannaim (items 1-2), Rava's reformulation (item 3), and the explanation of each position's hekesh (item 4), which matches exactly the content described in the 'Gemara Resolution' prose.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Documents Dating",
+    "candidates": [
+      "Rabbi Meir Logic",
+      "Elazar/Shimon Form",
+      "Sukkot Asif",
+      "Documents Dating",
+      "Kings Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of the practical application of Tishrei as rosh hashanah le-shanim, with Rav Pappa's answer that it applies to document dating \u2014 exactly what the 'Documents Dating' section's prose describes.",
+      "chosen_heading": "Documents Dating",
+      "current_heading": "Documents Dating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Kings Distinction",
+    "candidates": [
+      "Kings Distinction",
+      "Two Time Cycles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about Nisan being the new year for kings and Rav \u1e24isda's ruling that it applies to documents, which is precisely the difficulty that the 'Kings Distinction' section's prose introduces and resolves.",
+      "chosen_heading": "Kings Distinction",
+      "current_heading": "Kings Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Two Time Cycles",
+    "candidates": [
+      "Two Time Cycles",
+      "Astronomical Year"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the distinction between Jewish kings (Nisan) and gentile kings (Tishrei) and Rav \u1e24isda's teaching on this point, which is precisely what the 'Two Time Cycles' prose section explains and contextualizes.",
+      "chosen_heading": "Two Time Cycles",
+      "current_heading": "Two Time Cycles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Astronomical Year",
+    "candidates": [
+      "Astronomical Year",
+      "Day Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's teaching via Rabbi Zeira that Tishrei is the new year for astronomical cycles (tekufa), anchored to Rabbi Eliezer's view that the world was created in Tishrei \u2014 exactly what the 'Astronomical Year' section's prose discusses.",
+      "chosen_heading": "Astronomical Year",
+      "current_heading": "Astronomical Year",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Day Judgment",
+    "candidates": [
+      "Day Judgment",
+      "Partnership Beit Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are directly about Rav Na\u1e25man bar Yitz\u1e25ak's teaching that Rosh HaShana is the day of judgment, proven from Deuteronomy 11:12 and Psalms 81:4-5, which is precisely what the 'Day Judgment' section's prose discusses in detail.",
+      "chosen_heading": "Day Judgment",
+      "current_heading": "Day Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Partnership Beit Din",
+    "candidates": [
+      "Partnership Beit Din",
+      "Nations Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita deriving from 'ki chok l'Yisrael hu mishpat lelohei Yaakov' that the heavenly court does not convene until the earthly court sanctifies the month \u2014 exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Partnership Beit Din",
+      "current_heading": "Partnership Beit Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Nations Judgment",
+    "candidates": [
+      "Nations Judgment",
+      "Shemitah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about Israel entering judgment first, Rav \u1e24isda's parallel about the king, and the two reasons why the king is judged first \u2014 are explicitly discussed in the 'Nations Judgment' prose, which is exactly where the passage currently sits.",
+      "chosen_heading": "Nations Judgment",
+      "current_heading": "Nations Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Shemitah Proof",
+    "candidates": [
+      "Shemitah Proof",
+      "Shanah Types",
+      "Yovel: Yom Kippur vs Rosh",
+      "Middle Zone Limbo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single continuous gezerah shavah derivation about shemitah starting in Tishrei \u2014 the question, the verbal analogy, the challenge from Nisan, and its resolution \u2014 which is precisely what the 'Shemitah Proof' prose describes in full.",
+      "chosen_heading": "Shemitah Proof",
+      "current_heading": "Shemitah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Middle Zone Limbo",
+    "candidates": [
+      "Shanah Types",
+      "Yovel: Yom Kippur vs Rosh",
+      "Middle Zone Limbo",
+      "Ten Days Limbo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question (is Yovel from 1 Tishrei or 10 Tishrei?) and its answer (Rabbi Yishmael ben Rabbi Yochanan ben Beroka), which is precisely what candidate 1 'Yovel: Yom Kippur vs Rosh' describes in its prose.",
+      "chosen_heading": "Yovel: Yom Kippur vs Rosh",
+      "current_heading": "Middle Zone Limbo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Ten Days Limbo",
+    "candidates": [
+      "Middle Zone Limbo",
+      "Ten Days Limbo",
+      "Rabbis Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the ten-day limbo period between Rosh HaShana and Yom Kippur where slaves were neither free nor enslaved, which is precisely what the 'Ten Days Limbo' section's prose discusses in detail.",
+      "chosen_heading": "Ten Days Limbo",
+      "current_heading": "Ten Days Limbo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rabbis Yom Kippur",
+    "candidates": [
+      "Rabbis Yom Kippur",
+      "Cycle Duration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbis' position that 'you sanctify years, not months,' which is precisely what the 'Rabbis Yom Kippur' section's prose discusses and explains.",
+      "chosen_heading": "Rabbis Yom Kippur",
+      "current_heading": "Rabbis Yom Kippur",
+      "moved": false
+    }
+  }
+]

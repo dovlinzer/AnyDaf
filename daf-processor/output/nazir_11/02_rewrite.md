@@ -86,9 +86,7 @@ This reversal is genuinely striking, and the *Gemara* devotes considerable atten
 
 ### Partial Nezirus
 
-Before addressing the reversal directly, the *Gemara* first asks why there is apparently no debate regarding the first case — the person who says *hareini nazir al mnas she'ehei shoteh yayin*. If *Rabbi Shimon* holds that when a person did not realize wine was included, the *nezirus* is not binding — because the person was in effect only accepting a partial *nezirus* — why does *Rabbi Shimon* not say the same when the person explicitly stipulates that wine should be excluded?
-
-The answer given by *Rebbi Yehoshua ben Levi* is that *Rabbi Shimon* in fact does dispute that first case as well; it simply was not recorded separately in the *Mishnah*.
+The *Gemara* now raises two questions prompted by these cases. First, why do *Hachamim* and *Rabbi Shimon* appear to reverse their positions between the second and third cases? Second, why is there no recorded dispute regarding the first case — *al mnas she'eshteh yayin* — where everyone apparently assumes the *nezirus* is binding? Given that *Rabbi Shimon* holds that a person who did not realize wine was forbidden is exempt, it would seem he should equally exempt someone who explicitly stipulated that wine not be included. The *Gemara* signals it is about to address these questions.
 
 ## Conditions on Torah (II)
 

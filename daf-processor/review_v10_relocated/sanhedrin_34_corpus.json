@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Adultery Mistakes",
+    "candidates": [
+      "Monetary vs Capital",
+      "Yerushalmi Position",
+      "Rabbi Yose Stricter",
+      "No Recall Guilt",
+      "Mistrial Exception",
+      "Adultery Mistakes",
+      "Who Argues Rules",
+      "Students Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items together cover exactly the content described in the 'Adultery Mistakes' prose: item 1 is the Tzedukim rule (which the prose introduces as context), item 2 is Rabbi Chiya bar Abba's question about adultery and Rabbi Yochanan's cryptic response plus Rabbi Ami's ruling, and item 3 is Rabbi Abbahu's answer about shelo k'darkah \u2014 precisely the sequence the 'Adultery Mistakes' prose describes.",
+      "chosen_heading": "Adultery Mistakes",
+      "current_heading": "Adultery Mistakes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Students Witnesses",
+    "candidates": [
+      "Who Argues Rules",
+      "Students Witnesses",
+      "Witness Arguments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question of whether 'all' includes witnesses, the baraita distinguishing Rabbi Yosei b'Rabbi Yehuda from the Rabbis, and Rav Pappa's resolution that 'all' refers to students not witnesses \u2014 are precisely what candidate 1 ('Students Witnesses') describes in its prose.",
+      "chosen_heading": "Students Witnesses",
+      "current_heading": "Students Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Witness Arguments",
+    "candidates": [
+      "Witness Arguments",
+      "Rav Position",
+      "Morning Vote Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly elaborate the dispute between Rabbi Yosei bar Yehuda and the Rabbis regarding witness testimony and the derivation from 'lamut,' which is precisely what the 'Witness Arguments' prose section discusses in detail.",
+      "chosen_heading": "Witness Arguments",
+      "current_heading": "Witness Arguments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Morning Vote Reversal",
+    "candidates": [
+      "Rav Position",
+      "Morning Vote Reversal",
+      "Challenge Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: Item 1 states Rav's position, Item 2 raises the objection from the mishna about the morning reconvening, and Item 3 resolves that objection \u2014 this entire chain belongs under 'Rav Position' which explicitly describes Rav's ruling and anticipates exactly this challenge-and-response sequence.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Morning Vote Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Challenge Evidence",
+    "candidates": [
+      "Morning Vote Reversal",
+      "Challenge Evidence",
+      "Dead Student Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the challenge and response discussed in the 'Challenge Evidence' prose: the court working to get a guilty-voter to switch to innocence, and the gemara's answer that the tanna prefers to describe acquittal scenarios rather than liability scenarios.",
+      "chosen_heading": "Challenge Evidence",
+      "current_heading": "Challenge Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Dead Student Rule",
+    "candidates": [
+      "Dead Student Rule",
+      "Changed Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yosei bar \u1e24anina's dead student rule and the challenge/resolution regarding Rav's position, which is precisely what the 'Dead Student Rule' prose section describes.",
+      "chosen_heading": "Dead Student Rule",
+      "current_heading": "Dead Student Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Changed Reasons",
+    "candidates": [
+      "Changed Reasons",
+      "Double Counting Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about the two scribes and the Gemara's explanation for why they record the statements of those who find liable (to detect changed reasons triggering halana), which is precisely what the 'Changed Reasons' prose section discusses.",
+      "chosen_heading": "Changed Reasons",
+      "current_heading": "Changed Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Double Counting Rule",
+    "candidates": [
+      "Double Counting Rule",
+      "Two Verses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's answer about the double-counting rule and Rabbi Asi's question to Rabbi Yochanan, which is exactly the content the 'Double Counting Rule' prose section describes and quotes directly.",
+      "chosen_heading": "Double Counting Rule",
+      "current_heading": "Double Counting Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Two Verses Rule",
+    "candidates": [
+      "Two Verses Rule",
+      "Sacrifices Digression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the 'one verse yields multiple explanations' principle using Psalms 62:12 and Jeremiah 23:29, which is exactly what the 'Two Verses Rule' section prose describes as the foundation for Rabbi Yochanan's ruling.",
+      "chosen_heading": "Two Verses Rule",
+      "current_heading": "Two Verses Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Sacrifices Digression",
+    "candidates": [
+      "Sacrifices Digression",
+      "One Vote Resolution",
+      "Mishna Timing Rules",
+      "Verse Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 13 items trace the Gemara's extended search for a valid example of 'one explanation from two verses' through sacrificial law (Zevid/Gamliel/Yehoshua, Pappa/Yosei HaGelili/Akiva, Ashi/Yishmael/Akiva, and Abaye's resolution), which is precisely what the 'Sacrifices Digression' prose describes in detail.",
+      "chosen_heading": "Sacrifices Digression",
+      "current_heading": "Sacrifices Digression",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Verse Reconciliation",
+    "candidates": [
+      "One Vote Resolution",
+      "Mishna Timing Rules",
+      "Verse Reconciliation",
+      "Rabbi Meir Linking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening Gemara discussion asking 'from where are these matters derived?' following the mishna's timing rules, which matches the 'Mishna Timing Rules' prose that explicitly asks 'where do we derive these rules?' \u2014 the verse reconciliation content belongs there too as it is the direct answer to that question, and the current heading 'Verse Reconciliation' describes content that already presupposes the derivation question has been posed.",
+      "chosen_heading": "Mishna Timing Rules",
+      "current_heading": "Verse Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rabbi Meir Linking",
+    "candidates": [
+      "Verse Reconciliation",
+      "Rabbi Meir Linking",
+      "Gezera Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about Rabbi Meir as a comment that 'the mishna is not in accordance with Rabbi Meir,' which is exactly the transition point described in the 'Verse Reconciliation' prose that ends with 'the gemara then notes: matnisin d'lo k'Rabbi Meir \u2014 our mishna does not accord with the view of Rabbi Meir.'",
+      "chosen_heading": "Verse Reconciliation",
+      "current_heading": "Rabbi Meir Linking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Gezera Shava",
+    "candidates": [
+      "Gezera Shava",
+      "Blind Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gezera shava juxtaposing disputes and leprous sores \u2014 the daytime requirement, the blindness requirement, the relatives disqualification, and the three-judge question resolved by the verse about Aaron \u2014 which is precisely the content described in the 'Gezera Shava' prose.",
+      "chosen_heading": "Gezera Shava",
+      "current_heading": "Gezera Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Blind Judges",
+    "candidates": [
+      "Blind Judges",
+      "Cloudy Days Inheritance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about whether a blind man can serve as a judge, resolving the tension between two unattributed mishnayot, which is precisely what the 'Blind Judges' prose section describes.",
+      "chosen_heading": "Blind Judges",
+      "current_heading": "Blind Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Cloudy Days Inheritance",
+    "candidates": [
+      "Cloudy Days Inheritance",
+      "Bequest Day Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Meir's interpretation of 'v'shaftu et ha'am b'chol eit' as including cloudy days, citing the mishna in Nega'im about not viewing leprous sores on cloudy days \u2014 exactly what the 'Cloudy Days Inheritance' prose describes.",
+      "chosen_heading": "Cloudy Days Inheritance",
+      "current_heading": "Cloudy Days Inheritance",
+      "moved": false
+    }
+  }
+]

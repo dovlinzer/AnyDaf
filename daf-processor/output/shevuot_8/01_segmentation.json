@@ -171,8 +171,8 @@
           "timestamp": "50:33"
         }
       ],
-      "sefaria_index": 17,
-      "matched": false
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -729,5 +729,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "33:27",
+  "amud_b_micro_title": "Before Yom Kippur Case",
+  "shiur_start_daf": 7,
+  "shiur_start_amud": "b"
 }

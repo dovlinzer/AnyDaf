@@ -1,0 +1,588 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Head vs. Body Split",
+    "candidates": [
+      "Female Status",
+      "Rambam on Terumah",
+      "Kedusha & Recipients",
+      "Head vs. Body Split",
+      "Batar Chiyuva vs. Ikar",
+      "Reishit Hagez Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma of 'the head is yours and the entire remainder is mine,' which is precisely what the 'Head vs. Body Split' section's prose describes as the Gemara's question at the bottom of 133b.",
+      "chosen_heading": "Head vs. Body Split",
+      "current_heading": "Head vs. Body Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Reishit Hagez Proof",
+    "candidates": [
+      "Batar Chiyuva vs. Ikar",
+      "Reishit Hagez Proof",
+      "Zroa Proof",
+      "Zroa Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the baraita about a gentile or kohen transferring sheep to a Yisrael to shear, and purchasing shearings from a gentile \u2014 exactly what the 'Reishit Hagez Proof' prose describes and analyzes.",
+      "chosen_heading": "Reishit Hagez Proof",
+      "current_heading": "Reishit Hagez Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Zroa Resolution",
+    "candidates": [
+      "Zroa Proof",
+      "Zroa Resolution",
+      "Chutz Exclusion",
+      "Al Menat Condition",
+      "Chutz vs. Al Menat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about the stringency of zroa over reishit hagez and draws the shema mina conclusion, which matches the 'Zroa Proof' section's prose describing exactly this baraita and its implication, whereas 'Zroa Resolution' discusses the aftermath and broader implications after the conclusion has already been drawn.",
+      "chosen_heading": "Zroa Proof",
+      "current_heading": "Zroa Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Chutz vs. Al Menat",
+    "candidates": [
+      "Chutz Exclusion",
+      "Al Menat Condition",
+      "Chutz vs. Al Menat",
+      "Rabbinic Prevention",
+      "Ritva's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chutz Exclusion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah's 'chutz' ruling that the Yisrael is exempt from giving the gifts, which is precisely what the 'Chutz Exclusion' prose describes.",
+      "second_heading": "Al Menat Condition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's objection from a baraita about the 'al menat' stipulation, which is exactly what the 'Al Menat Condition' prose describes as the contradicting baraita ruling.",
+      "current_heading": "Chutz vs. Al Menat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Ritva's View",
+    "candidates": [
+      "Rabbinic Prevention",
+      "Ritva's View",
+      "Opinion 1: Retention",
+      "Opinion 2: Stipulation",
+      "Price Determination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Tannaitic dispute about whether 'al menat' is a term of retention or not \u2014 exactly what candidate 2 ('Opinion 1: Retention') and candidate 3 ('Opinion 2: Stipulation') describe, but the passage as a whole introduces and resolves the contradiction by identifying it as a dispute, which is the content of candidate 2's prose introducing the Tannaitic dispute about the al menat formulation.",
+      "chosen_heading": "Opinion 1: Retention",
+      "current_heading": "Ritva's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Price Determination",
+    "candidates": [
+      "Opinion 1: Retention",
+      "Opinion 2: Stipulation",
+      "Price Determination",
+      "Rav: Butcher Liability",
+      "Ramban: Benefit",
+      "Rav Ashi: Buyer Only",
+      "Rav Chisda Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the mishna case about buying innards (flat price vs. by weight) and then introduces the Rav/Rav Asi dispute, which is exactly what the 'Price Determination' section's prose describes as its content.",
+      "chosen_heading": "Price Determination",
+      "current_heading": "Price Determination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Rav Chisda Rule",
+    "candidates": [
+      "Rav: Butcher Liability",
+      "Ramban: Benefit",
+      "Rav Ashi: Buyer Only",
+      "Rav Chisda Rule",
+      "Abstract Ownership",
+      "Rav: Can Steal",
+      "Rav Assi: Cannot Steal",
+      "Principle Agreement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's initial suggestion that Rav and Rav Ashi dispute Rav Chisda's principle, which is exactly what heading 3 'Rav Chisda Rule' describes.",
+      "second_heading": "Principle Agreement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's rejection of that suggestion \u2014 everyone accepts Rav Chisda and the real dispute is whether matnot kehuna can be stolen \u2014 which is precisely what heading 7 'Principle Agreement' describes.",
+      "current_heading": "Rav Chisda Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Principle Agreement",
+    "candidates": [
+      "Abstract Ownership",
+      "Rav: Can Steal",
+      "Rav Assi: Cannot Steal",
+      "Principle Agreement",
+      "Shechita Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the independent dispute between Rav and Rav Asi about whether matnot kehuna can be stolen at all, which matches the 'Abstract Ownership' section that raises this fundamental question as its topic.",
+      "chosen_heading": "Abstract Ownership",
+      "current_heading": "Principle Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shechita Timing",
+    "candidates": [
+      "Shechita Timing",
+      "Burden of Proof",
+      "Reish Lakish Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah's content \u2014 a convert's cow, pre/post-conversion slaughter timing, and the resulting exemption or obligation \u2014 is precisely what the 'Shechita Timing' prose describes, making it the correct home for this passage.",
+      "chosen_heading": "Shechita Timing",
+      "current_heading": "Shechita Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Reish Lakish Proof",
+    "candidates": [
+      "Burden of Proof",
+      "Reish Lakish Proof",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Reish Lakish's challenge from the mishna about safek patur, the ant-holes case about doubtful leket, and Rabbi Meir's ruling that safeik leket is leket \u2014 form the single continuous contradiction that candidate 1's prose ('Reish Lakish Proof') explicitly describes in detail.",
+      "chosen_heading": "Reish Lakish Proof",
+      "current_heading": "Reish Lakish Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Tzedek Mishelcha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Yochanan's response ('al taknitani') and the baraita of Rabbi Yehuda ben Agra, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Tzedek Mishelcha",
+    "candidates": [
+      "Tzedek Mishelcha",
+      "Issur vs. Mamona"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the Reish Lakish exchange about 'ani va-rash hatzdiku' and 'tzedek mishelcha veten lo' that the prose of heading 0 explicitly describes and analyzes in detail.",
+      "chosen_heading": "Tzedek Mishelcha",
+      "current_heading": "Tzedek Mishelcha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Issur vs. Mamona",
+    "candidates": [
+      "Issur vs. Mamona",
+      "Eight Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous exchange (Rava's chazakah distinction, Abaye's challah challenge, Rava's safek issura/mamona resolution) which is precisely what the 'Issur vs. Mamona' section's prose describes and analyzes.",
+      "chosen_heading": "Issur vs. Mamona",
+      "current_heading": "Issur vs. Mamona",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Eight Cases",
+    "candidates": [
+      "Eight Cases",
+      "Levi's Field",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Eight Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 constitute the complete enumeration of the eight cases of uncertainty regarding converts (four obligations, four exemptions), which perfectly matches the 'Eight Cases' section prose discussing Rav Chisda's ruling.",
+      "second_heading": "Levi's Field",
+      "second_confidence": "medium",
+      "second_reason": "Item 4 introduces Ravin's report of a contradiction raised by Rabbi Shimon ben Lakish involving standing crops, which appears to transition to a new discussion \u2014 likely connected to the 'Levi's Field' or related section \u2014 rather than continuing the eight-cases enumeration.",
+      "current_heading": "Eight Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "Levi's Field",
+      "Rav Sheshet",
+      "Terumah Transport"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the full story \u2014 Levi sowing in Kishar, no poor people being present, AND Rav Sheshet's ruling \u2014 which matches the prose of heading 0 ('Levi's Field') that introduces the entire case including both the situation and its resolution, while heading 1 separates out only Rav Sheshet's appearance as if the Gemara text were split, but the single Talmudic passage covers the whole narrative and belongs under the heading that introduces the complete scenario.",
+      "chosen_heading": "Levi's Field",
+      "current_heading": "Rav Sheshet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Terumah Transport",
+    "candidates": [
+      "Rav Sheshet",
+      "Terumah Transport",
+      "Tevul Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about transporting terumah and the obligation to hire a cow due to loss of terumah, which is exactly what the 'Terumah Transport' section's prose describes as the Gemara's challenge to Rav Sheshet's ruling.",
+      "chosen_heading": "Terumah Transport",
+      "current_heading": "Terumah Transport",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Tevul Distinction",
+    "candidates": [
+      "Tevul Distinction",
+      "Nittina vs. Ta'azov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the teruma/tevul distinction followed by the matanot kehuna objection and its baraita \u2014 exactly the content described in the 'Tevul Distinction' prose, which explicitly discusses both the terumah-is-different answer and the matanot kehuna challenge with the ma'alin bedamim ruling.",
+      "chosen_heading": "Tevul Distinction",
+      "current_heading": "Tevul Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Nittina vs. Ta'azov",
+    "candidates": [
+      "Nittina vs. Ta'azov",
+      "Honor & Dignity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly elaborate the nittina/ta'azov distinction: item 1 explains the giving language for matanot kehuna and teruma, item 2 asks about the extra ta'azov term, and item 3 answers that it is needed for the ownerless vineyard case \u2014 all of which is precisely what the 'Nittina vs. Ta'azov' prose describes.",
+      "chosen_heading": "Nittina vs. Ta'azov",
+      "current_heading": "Nittina vs. Ta'azov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Honor & Dignity",
+    "candidates": [
+      "Honor & Dignity",
+      "Rabbi Ami's Action",
+      "Grabbing Gifts",
+      "First Answer",
+      "Adam Chashuv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the narrative of Rabbi Ami rushing to acquire the sack of dinars brought to the study hall, which matches exactly the prose of heading 1 ('Rabbi Ami's Action') that describes this same event.",
+      "chosen_heading": "Rabbi Ami's Action",
+      "current_heading": "Honor & Dignity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Adam Chashuv",
+    "candidates": [
+      "Rabbi Ami's Action",
+      "Grabbing Gifts",
+      "First Answer",
+      "Adam Chashuv",
+      "Zroa Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items constitute the 'adam chashuv shani' answer \u2014 the baraita about the High Priest being greater than his brethren in wealth and the 'acherim omrim' ruling that fellow kohanim must enrich him \u2014 which is precisely what candidate 3's prose describes as the second answer to Rabbi Ami's behavior.",
+      "chosen_heading": "Adam Chashuv",
+      "current_heading": "Adam Chashuv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Zroa Definition",
+    "candidates": [
+      "Zroa Definition",
+      "Right Arm",
+      "Rabbi Yehuda",
+      "Lechayayim",
+      "Wool & Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah defines the anatomical boundaries of the zroa, shok, and lechayayim, which directly matches the 'Zroa Definition' section's prose about the final Mishnah defining the anatomical scope of each of the three gifts.",
+      "chosen_heading": "Zroa Definition",
+      "current_heading": "Zroa Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168,
+      169
+    ],
+    "current_heading": "Wool & Hair",
+    "candidates": [
+      "Right Arm",
+      "Rabbi Yehuda",
+      "Lechayayim",
+      "Wool & Hair",
+      "Keiva",
+      "Kohanim's Generosity",
+      "Zroa Symbol",
+      "Lechayayim Symbol",
+      "Keiva Symbol"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Right Arm",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the derivation that the zroa given to the priest is the right foreleg, matching the 'Right Arm' section's prose about hazroa hamiyumenet shebazroa and Rava's principle.",
+      "second_heading": "Wool & Hair",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses the lechayayim and keivah definite articles and Rabbi Yehoshua's statement about kohanim's generosity, which matches the 'Wool & Hair' and subsequent sections but is most precisely captured under 'Wool & Hair' (index 3) as the current placement, covering the full baraita on jaw and maw gifts.",
+      "current_heading": "Wool & Hair",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      181,
+      182
+    ],
+    "current_heading": "Keiva Symbol",
+    "candidates": [
+      "Keiva",
+      "Kohanim's Generosity",
+      "Zroa Symbol",
+      "Lechayayim Symbol",
+      "Keiva Symbol",
+      "Thigh Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the dorshei \u1e25amurot passage covering all three symbols (zroa, lechayayim, keivah), and candidate 2 ('Zroa Symbol') is the opening section that introduces this entire aggadic unit with the phrase 'dorshei chamurot hayu omrim,' making it the correct home for the full passage rather than splitting it under the later symbol headings.",
+      "chosen_heading": "Zroa Symbol",
+      "current_heading": "Keiva Symbol",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      186
+    ],
+    "current_heading": "Thigh Source",
+    "candidates": [
+      "Keiva Symbol",
+      "Thigh Source",
+      "Nazir Derivation",
+      "Regular Shechita",
+      "Beit Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita deriving the right thigh/foreleg rules in sequence, beginning with 'shok hayamin' from shelamim, which is precisely what the 'Thigh Source' prose describes as the starting point of this derivation.",
+      "chosen_heading": "Thigh Source",
+      "current_heading": "Thigh Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      194
+    ],
+    "current_heading": "Beit Shechita",
+    "candidates": [
+      "Nazir Derivation",
+      "Regular Shechita",
+      "Beit Shechita",
+      "Mugremet Debate",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah's definition of the jaw joint and the baraita's complication involving 'beit shechita,' which is precisely what the 'Beit Shechita' section's prose describes.",
+      "chosen_heading": "Beit Shechita",
+      "current_heading": "Beit Shechita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      199,
+      200
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Mugremet Debate",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly introduce and explain the Mugremet dispute between the Rabbis and Rabbi \u1e24anina ben Antigonus, which is precisely what the 'Mugremet Debate' prose describes, whereas the 'Resolution' prose discusses a different resolution that bypasses this dispute entirely.",
+      "chosen_heading": "Mugremet Debate",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  }
+]

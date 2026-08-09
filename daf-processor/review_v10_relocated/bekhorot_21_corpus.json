@@ -1,0 +1,321 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Alternative Explanations",
+    "candidates": [
+      "Daf Overview",
+      "Minority Possibilities",
+      "First Birth Recap",
+      "Three Generations",
+      "Sequential Births",
+      "Tanna Kamma vs Shimon",
+      "Ze'iri Doctrine",
+      "Rashi's Scenario",
+      "Gestation Timeline",
+      "Rashi's Concern",
+      "Alternative Explanations",
+      "Tosafot Calendar",
+      "Leap Year Interpretations",
+      "Young Animals",
+      "Baraita: <8 Days",
+      "Bechor Comparison",
+      "Korban Analogy",
+      "Shared Properties",
+      "Goel & Mum",
+      "Tmura",
+      "Achila"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Tanna Kamma vs Shimon",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 present the gemara's multiple framings of what distinguishes the tanna kamma from Rabbi Shimon, precisely what the 'Tanna Kamma vs Shimon' prose describes as its topic.",
+      "second_heading": "Baraita: <8 Days",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the baraita cited by Rabbi Shimon ben Yehuda regarding mechusar zman entering the pen for ma'aser, which is exactly what the 'Baraita: <8 Days' prose describes.",
+      "current_heading": "Alternative Explanations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Achila",
+    "candidates": [
+      "Tosafot Calendar",
+      "Leap Year Interpretations",
+      "Young Animals",
+      "Baraita: <8 Days",
+      "Bechor Comparison",
+      "Korban Analogy",
+      "Shared Properties",
+      "Goel & Mum",
+      "Tmura",
+      "Achila",
+      "Identity Kedusha",
+      "Counter-Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge of why ma'aser shouldn't be derived from sacrificial animals rather than bechor, and the answer that it is more reasonable to derive from bechor \u2014 which is precisely what the 'Korban Analogy' section's prose describes as the gemara moving to a classical comparison of categories.",
+      "chosen_heading": "Korban Analogy",
+      "current_heading": "Achila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Counter-Analogy",
+    "candidates": [
+      "Identity Kedusha",
+      "Counter-Analogy",
+      "Gezeira Shava",
+      "Miscarriage Definition",
+      "Raba's Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the counter-analogy argument (the four grounds for deriving ma'aser from korbanot) and the gezeira shava resolution, but the current placement under 'Counter-Analogy' is correct because the prose for that section explicitly describes the adaraba counter-argument and the four grounds, which is the main content of Item 1, with the gezeira shava conclusion appearing as a brief final line that leads into the next section.",
+      "chosen_heading": "Counter-Analogy",
+      "current_heading": "Counter-Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Raba's Signs",
+    "candidates": [
+      "Gezeira Shava",
+      "Miscarriage Definition",
+      "Raba's Signs",
+      "Shmuel's Signs",
+      "Expert Consultation",
+      "Forty Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Rava's description, Shmuel's description, and the expert shepherd consultation \u2014 and the 'Expert Consultation' prose section explicitly summarizes all three, making it the best single home for the complete passage.",
+      "chosen_heading": "Expert Consultation",
+      "current_heading": "Raba's Signs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Forty Days",
+    "candidates": [
+      "Shmuel's Signs",
+      "Expert Consultation",
+      "Forty Days",
+      "Animal Development",
+      "Ze'iri 30 Days",
+      "Ze'iri Ambiguity",
+      "Seller Type",
+      "Rav: Silence=No Birth",
+      "Praise Inference",
+      "Health Benefit",
+      "Shmuel: Safek",
+      "Slaughter Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 2 ('Forty Days') discusses: Rav Chisda's statement about forty-day fetal formation in women, his question about animals, Rav Pappa's suggestion invoking Ze'iri's thirty-day statement, and the gemara's rejection leaving the question unresolved \u2014 all of which is precisely what the prose under heading 2 describes.",
+      "chosen_heading": "Forty Days",
+      "current_heading": "Forty Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Slaughter Assumption",
+    "candidates": [
+      "Animal Development",
+      "Ze'iri 30 Days",
+      "Ze'iri Ambiguity",
+      "Seller Type",
+      "Rav: Silence=No Birth",
+      "Praise Inference",
+      "Health Benefit",
+      "Shmuel: Safek",
+      "Slaughter Assumption",
+      "Rabbi Yochanan",
+      "Seller Warning",
+      "Responsibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the full three-way dispute (Rav, Shmuel, Rabbi Yochanan) about buying from a Jew, which is precisely what the 'Seller Type' heading introduces as the transition from buying from a non-Jew to buying from a Jew.",
+      "chosen_heading": "Seller Type",
+      "current_heading": "Slaughter Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Responsibility",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Seller Warning",
+      "Responsibility",
+      "Verse Mandate",
+      "Knowledge Duty",
+      "Mother/Child Case",
+      "Buyer Responsibility",
+      "Non-Jew Seller",
+      "Tosafot: Non-Jew",
+      "Testimony Principles",
+      "System Understanding",
+      "Mishna: Clots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita supporting Rabbi Yochanan and the gemara's deflection distinguishing seller responsibility from buyer responsibility, which is precisely what the 'Responsibility' section's prose describes.",
+      "chosen_heading": "Responsibility",
+      "current_heading": "Responsibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Mishna: Clots",
+    "candidates": [
+      "Verse Mandate",
+      "Knowledge Duty",
+      "Mother/Child Case",
+      "Buyer Responsibility",
+      "Non-Jew Seller",
+      "Tosafot: Non-Jew",
+      "Testimony Principles",
+      "System Understanding",
+      "Mishna: Clots",
+      "Bechor Exemption",
+      "Rabbi Chiyya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is the mishna of Rabbi Eliezer ben Yaakov about a large animal expelling a mass of blood requiring burial and exemption from bechor, which is exactly what the 'Mishna: Clots' section prose describes.",
+      "chosen_heading": "Mishna: Clots",
+      "current_heading": "Mishna: Clots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Rabbi Chiyya",
+    "candidates": [
+      "Bechor Exemption",
+      "Rabbi Chiyya",
+      "Burial Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya's teaching that the mass does not impart impurity through contact or carrying, which is precisely what the 'Rabbi Chiyya' section's prose describes.",
+      "chosen_heading": "Rabbi Chiyya",
+      "current_heading": "Rabbi Chiyya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Burial Paradox",
+    "candidates": [
+      "Burial Paradox",
+      "Burial Purpose",
+      "Tumah Paradox",
+      "Bittul B'Rov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the reason for burial (to publicize exemption from bechor), which matches exactly the 'Burial Purpose' section's prose explaining kedei lefarsem she'niptarah min habechorah.",
+      "chosen_heading": "Burial Purpose",
+      "current_heading": "Burial Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Bittul B'Rov",
+    "candidates": [
+      "Burial Purpose",
+      "Tumah Paradox",
+      "Bittul B'Rov",
+      "Lost Identity",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the paradox \u2014 if the expelled mass is a full-fledged offspring (exempting the mother), why doesn't it convey tumah through contact or carrying? \u2014 which is precisely the 'Tumah Paradox' section's content, before Rabbi Yochanan's answer about bittul be-rov is discussed in the next section.",
+      "chosen_heading": "Tumah Paradox",
+      "current_heading": "Bittul B'Rov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Lost Identity",
+      "Rabbi Shimon",
+      "Mixed Fetus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's statement that Rabbi Yochanan holds Rabbi Eliezer ben Yaakov and Rabbi Shimon said the same thing, then immediately provides the Rabbi Shimon proof from the shilya mishna \u2014 exactly what the 'Rabbi Shimon' prose section describes.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  }
+]

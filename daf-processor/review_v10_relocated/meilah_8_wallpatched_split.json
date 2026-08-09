@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Shechita Process",
+    "candidates": [
+      "Opening",
+      "Rashi Auth.",
+      "Ch. 2 Transition",
+      "Av Hatumah",
+      "Pesul vs. Tamei",
+      "Tevul Yom",
+      "Shechita Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Hadran formula marks the end of a chapter/tractate section, and here it specifically concludes 'Kodshei Kodashim' \u2014 the first chapter of Me'ilah \u2014 making it a transition marker that belongs under the 'Ch. 2 Transition' heading which explicitly discusses the conclusion of chapter one and the move to chapter two.",
+      "chosen_heading": "Ch. 2 Transition",
+      "current_heading": "Shechita Process",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Shechita Process",
+    "candidates": [
+      "Shechita Process",
+      "Chatas Intro",
+      "Pesul/Tamei Q.",
+      "Tannaim Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shechita Process",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishnah text (covering melikah, huchshara, piggul/notar/tamei, and me'ilah) which candidate 0's prose explicitly walks through in detail.",
+      "second_heading": "Pesul/Tamei Q.",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara that infers from the mishnah's language 'yipasel' (disqualification) versus 'yitamei' (becoming tamei), which is precisely the tension candidate 2's prose describes under 'Pesul/Tamei Q.'",
+      "current_heading": "Shechita Process",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Tannaim Dispute",
+    "candidates": [
+      "Chatas Intro",
+      "Pesul/Tamei Q.",
+      "Tannaim Dispute",
+      "Rava's Resol."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together present the three-way tannaitic dispute (Abba Shaul, Rabbi Meir, Rabbanan) from the Tosefta Teharos that directly answers 'matnisin mani,' which is precisely what the 'Tannaim Dispute' prose describes.",
+      "chosen_heading": "Tannaim Dispute",
+      "current_heading": "Tannaim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rava's Resol.",
+    "candidates": [
+      "Rava's Resol.",
+      "Me'ilah Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's resolution distinguishing d'Oraisa from d'rabbanan levels for tvul yom, exactly matching the prose of 'Rava's Resol.' which describes Abba Shaul treating tvul yom as rishon, Rabbi Meir as sheni, and Rabbanan having no additional rabbinic stringency.",
+      "chosen_heading": "Rava's Resol.",
+      "current_heading": "Rava's Resol.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Me'ilah Change",
+    "candidates": [
+      "Me'ilah Change",
+      "Rav Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the me'ilah/prohibition question after zerikas hadam \u2014 item 1 raises the question why any prohibition remains if the meat belongs to the kohanim, and item 2 provides Rabbi Chanina's answer about yotzei according to Rabbi Akiva \u2014 exactly matching the 'Me'ilah Change' prose description.",
+      "chosen_heading": "Me'ilah Change",
+      "current_heading": "Me'ilah Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav Positions",
+    "candidates": [
+      "Rav Positions",
+      "Mishna Proof",
+      "Baraita Cite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna citing Rav's position that mitzuy is not me'akev, supported by the mishna's language 'huzah damah' \u2014 this is precisely what the 'Rav Positions' prose section describes as Rav Huna's view and its textual basis.",
+      "chosen_heading": "Rav Positions",
+      "current_heading": "Rav Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Baraita Cite",
+    "candidates": [
+      "Mishna Proof",
+      "Baraita Cite",
+      "Repetition Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the dispute between Rav Huna and Rav Adda bar Ahava over whether mitzuy is me'akev, the verse from Leviticus 5:9, and the school of Rabbi Yishmael's interpretation \u2014 exactly what the 'Baraita Cite' prose describes in detail.",
+      "chosen_heading": "Baraita Cite",
+      "current_heading": "Baraita Cite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Repetition Rule",
+    "candidates": [
+      "Repetition Rule",
+      "Menachos Par."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rav A\u1e25a/Rav Ashi exchange about the mincha's 've-ha-noteret' and the baraita challenge with its resolution via the superfluous verse \u2014 exactly what heading 0 ('Repetition Rule') describes in its prose.",
+      "chosen_heading": "Repetition Rule",
+      "current_heading": "Repetition Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Menachos Par.",
+    "candidates": [
+      "Menachos Par.",
+      "Mitzuy Concl."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Shmuel's father's objection to Rav Huna and its resolution via 'lits'dadin') are explicitly described and analyzed in the prose of candidate 0, which covers the baraisa about chatat ha-of and olat ha-of, the pigul challenge, and the disjunctive reading resolution.",
+      "chosen_heading": "Menachos Par.",
+      "current_heading": "Menachos Par.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Mitzuy Concl.",
+    "candidates": [
+      "Mitzuy Concl.",
+      "Olat Ha'Of",
+      "Olah Me'ilah",
+      "Burned Offerings",
+      "Chatas & Asham",
+      "Shtei Halechem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the baraita of Rabbi Yishmael's school regarding mitzuy (squeezing blood from a bird sin offering) and whether it is me'akev, including the parallel dispute in Zevachim and the conclusion of 'trei tannaei aliba d'Rabbi Yishmael' \u2014 all of which is explicitly described in the 'Mitzuy Concl.' prose section.",
+      "chosen_heading": "Mitzuy Concl.",
+      "current_heading": "Mitzuy Concl.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Shtei Halechem",
+    "candidates": [
+      "Olat Ha'Of",
+      "Olah Me'ilah",
+      "Burned Offerings",
+      "Chatas & Asham",
+      "Shtei Halechem",
+      "Lechem Hapanim",
+      "Menachos"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Menachos",
+    "candidates": [
+      "Lechem Hapanim",
+      "Menachos",
+      "Trumat Hadeshen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes karav ha-komatz, chayavin mishum piggul/nosar/tamei, ein mo'alin ba-shirayim, and mo'alin ba-komatz ad she-tetzei l'veit ha-deshen \u2014 exactly the content the Menachos prose section discusses in detail.",
+      "chosen_heading": "Menachos",
+      "current_heading": "Menachos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Trumat Hadeshen",
+    "candidates": [
+      "Trumat Hadeshen",
+      "Rav Position",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and clarify the Rav/Rabbi Yochanan dispute about me'ilah on tapuach ashes, specifically the key clarification that the dispute is only after trumat ha-deshen \u2014 exactly the content described in candidate 0's prose, which covers both the opening of the dispute and the lifnei/le-achar clarification.",
+      "chosen_heading": "Trumat Hadeshen",
+      "current_heading": "Trumat Hadeshen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "R. Yochanan",
+    "candidates": [
+      "Rav Position",
+      "R. Yochanan",
+      "Mishna Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes both Rav and Rabbi Yochanan's positions together, but the current placement under 'R. Yochanan' is correct since the passage's content \u2014 especially Rabbi Yochanan's derivation from the verse about bigdei kehunah \u2014 matches exactly the prose in candidate 1, and candidate 0 covers only Rav's position in isolation.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "R. Yochanan",
+      "moved": false
+    }
+  }
+]

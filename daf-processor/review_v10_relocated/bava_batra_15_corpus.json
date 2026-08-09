@@ -1,0 +1,252 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Hoshea's Priority",
+    "candidates": [
+      "Opening & Context",
+      "Hoshea's Priority",
+      "Hoshea & Trei Asar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what section 1 describes: the baraita's enumeration of prophetic book order and the Gemara's question about Hosea's priority, with Rabbi Yochanan's explanation that Hosea was first among the four contemporaneous prophets.",
+      "chosen_heading": "Hoshea's Priority",
+      "current_heading": "Hoshea's Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Hoshea & Trei Asar",
+    "candidates": [
+      "Hoshea & Trei Asar",
+      "Thematic Ordering",
+      "Ketuvim Order List",
+      "Why Not Begin Badly"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hoshea & Trei Asar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses why Hoshea is grouped with Chaggai/Zechariah/Malachi in the Trei Asar and why a small scroll would be lost \u2014 exactly the content described in the 'Hoshea & Trei Asar' prose.",
+      "second_heading": "Thematic Ordering",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses why Isaiah follows Jeremiah and Ezekiel based on the thematic principle of juxtaposing destruction to destruction and consolation to consolation \u2014 exactly the content described in the 'Thematic Ordering' prose.",
+      "current_heading": "Hoshea & Trei Asar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Why Not Begin Badly",
+    "candidates": [
+      "Thematic Ordering",
+      "Ketuvim Order List",
+      "Why Not Begin Badly",
+      "Iyov's Placement",
+      "Moshe & Yehoshua",
+      "Yirmiyahu's Works",
+      "Chizkiyahu's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 2's prose describes: why we don't begin with Iyov's suffering, the challenge from Rus also involving suffering, the distinction of 'puranusa de-is leih achris,' and Rabbi Yochanan's explanation of the name Ruth \u2014 all matching the current placement perfectly.",
+      "chosen_heading": "Why Not Begin Badly",
+      "current_heading": "Why Not Begin Badly",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Chizkiyahu's Role",
+    "candidates": [
+      "Iyov's Placement",
+      "Moshe & Yehoshua",
+      "Yirmiyahu's Works",
+      "Chizkiyahu's Role",
+      "Great Assembly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the authors of biblical books (Moses, Joshua, Samuel, David and his ten elders), which directly corresponds to the 'Moshe & Yehoshua' section's discussion of *mi katvan* \u2014 who wrote the biblical books \u2014 rather than the 'Chizkiyahu's Role' section where it currently sits.",
+      "chosen_heading": "Moshe & Yehoshua",
+      "current_heading": "Chizkiyahu's Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Great Assembly",
+    "candidates": [
+      "Chizkiyahu's Role",
+      "Great Assembly",
+      "Moshe's Death Passage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita listing authors including Ezra and the Great Assembly, and the Gemara's support from Rav about Ezra establishing his genealogy before ascending \u2014 are explicitly discussed in the 'Great Assembly' section's prose, which covers the baraita's conclusion about Ezra and Nehemiah completing Chronicles.",
+      "chosen_heading": "Great Assembly",
+      "current_heading": "Great Assembly",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Moshe's Death Passage",
+    "candidates": [
+      "Moshe's Death Passage",
+      "Shmuel's Authorship",
+      "David & Ten Elders",
+      "Dictation Model",
+      "Moshe's Tears",
+      "Torah Authenticity",
+      "Gra's Interpretation",
+      "Single Reader Rule",
+      "Iyov in Moshe's Time"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Iyov in Moshe's Time",
+    "candidates": [
+      "Shmuel's Authorship",
+      "David & Ten Elders",
+      "Dictation Model",
+      "Moshe's Tears",
+      "Torah Authenticity",
+      "Gra's Interpretation",
+      "Single Reader Rule",
+      "Iyov in Moshe's Time",
+      "Iyov & Meraglim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "David & Ten Elders",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 deal with the 'David & Ten Elders' section: item 1 resolves the two-Heman problem (trei Heiman havu) discussed explicitly in candidate 1's prose, and item 2 introduces the Moses-wrote-Iyov claim as support for Rabbi Levi bar Lachma, which is the opening move of the Iyov discussion.",
+      "second_heading": "Iyov in Moshe's Time",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 are the Gemara's challenge and resolution of the gezeira shava from 'eifo/eipo' used to date Iyov to Moshe's time, which is precisely what candidate 7's prose describes in detail.",
+      "current_heading": "Iyov in Moshe's Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Iyov & Meraglim",
+    "candidates": [
+      "Iyov & Meraglim",
+      "Iyov as Mashal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's view that Iyov lived at the time of the spies, with the Utz/eitz wordplay and Moses's question about Iyov protecting his generation like a tree \u2014 exactly what the prose under 'Iyov & Meraglim' discusses.",
+      "chosen_heading": "Iyov & Meraglim",
+      "current_heading": "Iyov & Meraglim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Iyov as Mashal",
+    "candidates": [
+      "Iyov as Mashal",
+      "Iyov's Return",
+      "210 Years of Iyov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous debate about whether Iyov was a real person or merely a mashal, which is precisely what the prose under 'Iyov as Mashal' describes in detail.",
+      "chosen_heading": "Iyov as Mashal",
+      "current_heading": "Iyov as Mashal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "210 Years of Iyov",
+    "candidates": [
+      "Iyov's Return",
+      "210 Years of Iyov",
+      "Duration vs. Period",
+      "Iyov & Nations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yo\u1e25anan and Rabbi Elazar's opinion that Job was among the returnees from exile with his house of study in Tiberias, plus the objection from the baraita about the Egyptian period and its resolution \u2014 all of which directly match the prose of candidate 0 ('Iyov's Return'), which discusses exactly this view about Job returning from Babylonian exile with his beis midrash in Tiberias.",
+      "chosen_heading": "Iyov's Return",
+      "current_heading": "210 Years of Iyov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Iyov & Nations",
+    "candidates": [
+      "Duration vs. Period",
+      "Iyov & Nations",
+      "Universal Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about seven prophets to the nations and the challenge about Elihu ben Barachel being Jewish, which is precisely what the 'Iyov & Nations' section's prose describes.",
+      "chosen_heading": "Iyov & Nations",
+      "current_heading": "Iyov & Nations",
+      "moved": false
+    }
+  }
+]

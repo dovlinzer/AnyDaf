@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Kiyor Placement",
+    "candidates": [
+      "Fire & Four Amot",
+      "R. Yosi HaGlili",
+      "Kiyor Placement",
+      "Mizbeach Petach",
+      "North Clear Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Sherevya's attribution of the mishna to Rabbi Yosi HaGelili and the baraita he cites as proof, which is precisely what heading 1 ('R. Yosi HaGlili') describes \u2014 introducing Rabbi Yosi HaGlili's position and the baraita about the kiyor's placement as his evidence.",
+      "chosen_heading": "R. Yosi HaGlili",
+      "current_heading": "Kiyor Placement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "North Clear Only",
+    "candidates": [
+      "Mizbeach Petach",
+      "North Clear Only",
+      "Tosfot's Distinction",
+      "R. Eliezer ben Yaakov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form the continuous Gemara argument working through every configuration of the mizbeach's position and concluding that the entire mizbeach must be in the north with tzafona requiring the north be clear of vessels \u2014 exactly what the 'North Clear Only' prose describes.",
+      "chosen_heading": "North Clear Only",
+      "current_heading": "North Clear Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "R. Eliezer ben Yaakov",
+    "candidates": [
+      "Tosfot's Distinction",
+      "R. Eliezer ben Yaakov",
+      "Rav's Rule",
+      "Lost Verse",
+      "Rav Kahana's Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies Rabbi Eliezer ben Yaakov as the tanna who disagrees with Rabbi Yosei HaGelili, deriving from a baraita that the north must be clear even of the altar \u2014 precisely what the prose under heading 1 describes.",
+      "chosen_heading": "R. Eliezer ben Yaakov",
+      "current_heading": "R. Eliezer ben Yaakov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Kahana's Source",
+    "candidates": [
+      "Rav's Rule",
+      "Lost Verse",
+      "Rav Kahana's Source",
+      "Ve-Zavachta Alav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav's statement that a damaged altar disqualifies sacrifices slaughtered there \u2014 this is precisely the content of heading 0 ('Rav's Rule'), while the admission about the forgotten verse and Rav Kahana's search are merely introduced here as a lead-in, with the prose of heading 0 directly describing Rav's ruling.",
+      "chosen_heading": "Rav's Rule",
+      "current_heading": "Rav Kahana's Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Ve-Zavachta Alav",
+    "candidates": [
+      "Rav Kahana's Source",
+      "Ve-Zavachta Alav",
+      "R. Yochanan Dichuy",
+      "Rav vs. R. Yochanan",
+      "Before Altar Built",
+      "Emendation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage concludes with 'This is the verse that eluded Rav,' which identifies it as the missing derivation Rav Kahana found \u2014 the culmination of the 'Rav Kahana's Source' section, not the exegetical discussion of the verse itself which belongs under heading 1.",
+      "chosen_heading": "Rav Kahana's Source",
+      "current_heading": "Ve-Zavachta Alav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Emendation",
+    "candidates": [
+      "R. Yochanan Dichuy",
+      "Rav vs. R. Yochanan",
+      "Before Altar Built",
+      "Emendation",
+      "Mizbeach She-Ne'ekar",
+      "Blood vs. Incense",
+      "Bayom Hahu Kidesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Rav/Rabbi Yochanan dispute over ba'alei chayim nidchin, the baraita objection, and the emendation \u2014 form one continuous sugya about that dispute, matching the 'Rav vs. R. Yochanan' section's prose which explicitly discusses both the root disagreement and the baraita challenge/emendation process.",
+      "chosen_heading": "Rav vs. R. Yochanan",
+      "current_heading": "Emendation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Bayom Hahu Kidesh",
+    "candidates": [
+      "Mizbeach She-Ne'ekar",
+      "Blood vs. Incense",
+      "Bayom Hahu Kidesh",
+      "R. Yosi Rebuttal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Blood vs. Incense",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the challenge from Rav Giddel's ruling about the uprooted altar and Rava's resolution via the blood/incense distinction, which matches headings 0 and 1 ('Mizbeach She-Ne'ekar' and 'Blood vs. Incense') \u2014 but since items 1-2 form one continuous challenge-and-answer unit, they belong together under heading 1 ('Blood vs. Incense') which encompasses both the challenge and Rava's resolution.",
+      "second_heading": "Bayom Hahu Kidesh",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 present the baraita about Shlomo's dedication and the dispute between Rabbi Yehuda and Rabbi Yosi, which is exactly what heading 2 ('Bayom Hahu Kidesh') and heading 3 ('R. Yosi Rebuttal') describe \u2014 items 3-4 open Rabbi Yehuda's position (heading 2) and items 4-6 begin Rabbi Yosi's arithmetic rebuttal (heading 3), but since the split can only be at one point, placing items 3-6 under heading 2 (current placement) keeps the full dispute together under the section that introduces the baraita.",
+      "current_heading": "Bayom Hahu Kidesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "R. Yosi Rebuttal",
+    "candidates": [
+      "R. Yosi Rebuttal",
+      "R. Yehuda Too Small",
+      "Dimensions Debate",
+      "Measured from Center"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yosi's euphemistic/qualitative interpretation of 'katan mehichal' \u2014 that it means disqualified/unfit rather than literally too small \u2014 which directly corresponds to the R. Yosi Rebuttal section's prose describing how Rabbi Yosi reads 'katan mehichal' in a qualitative comparative sense, like saying someone is unfit for a role.",
+      "chosen_heading": "R. Yosi Rebuttal",
+      "current_heading": "R. Yosi Rebuttal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Measured from Center",
+    "candidates": [
+      "R. Yehuda Too Small",
+      "Dimensions Debate",
+      "Measured from Center",
+      "Ravu'a Height Double"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita and Gemara debate about whether Moshe's altar dimensions are read literally (Rabbi Yosi) or expanded via gezeirah shavah from ravu'a (Rabbi Yehuda), which is precisely the 'Dimensions Debate' prose describes \u2014 the dispute about five-by-five literal vs. measured-from-center, including the derivation from Yechezkel and Rabbi Yosi's counter that the gezeirah shavah applies to height instead.",
+      "chosen_heading": "Dimensions Debate",
+      "current_heading": "Measured from Center",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Ravu'a Height Double",
+    "candidates": [
+      "Measured from Center",
+      "Ravu'a Height Double",
+      "Exposure Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosi's gezeirah shavah connecting 'ravu'a' to the incense altar (golden altar of the mishkan) to derive that the height is twice the length \u2014 exactly what the prose under 'Ravu'a Height Double' describes.",
+      "chosen_heading": "Ravu'a Height Double",
+      "current_heading": "Ravu'a Height Double",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Exposure Concern",
+    "candidates": [
+      "Exposure Concern",
+      "Curtains Fifteen Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda's objection about the priest being visible from outside due to the five-amah curtains, which is precisely what the 'Exposure Concern' prose describes and discusses.",
+      "chosen_heading": "Exposure Concern",
+      "current_heading": "Exposure Concern",
+      "moved": false
+    }
+  }
+]

@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Case of a Rented Cow and Natural Growth: Baraita and Gemara Analysis",
@@ -54,7 +54,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rabbi vs. Rabbanan: The Core Dispute on Natural Increase",
@@ -72,8 +72,8 @@
           "timestamp": "12:14"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Cases of Inheritance: Debts Owed and Debts Against the Estate",
@@ -106,8 +106,8 @@
           "timestamp": "23:50"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rabbi vs. Rabbanan: The Core Dispute on Natural Increase (continued)",
@@ -125,8 +125,8 @@
           "timestamp": "25:18"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rav Pappa's Refinement: Degrees of Natural Growth and Transformation",
@@ -178,8 +178,8 @@
           "timestamp": "36:51"
         }
       ],
-      "sefaria_index": 7,
-      "matched": false
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Books of Beit Rav: Sources and Textual Tradition",
@@ -192,7 +192,7 @@
           "timestamp": "37:34"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 8,
       "matched": false
     },
     {
@@ -206,7 +206,7 @@
           "timestamp": "37:53"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -264,7 +264,7 @@
           "timestamp": "50:24"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     }
   ],
@@ -425,5 +425,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "34:00",
+  "amud_b_micro_title": "Halacha Ke-Rabbi Rules",
+  "shiur_start_daf": 124,
+  "shiur_start_amud": "a"
 }

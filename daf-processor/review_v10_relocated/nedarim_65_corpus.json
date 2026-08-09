@@ -1,0 +1,96 @@
+[
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Gabbayim Objection",
+    "candidates": [
+      "Baraita: Benefit Vows",
+      "Moshe & Yitro Story",
+      "Nebuchadnezzar Case",
+      "Ran's Analysis",
+      "Rabbi Meir Position",
+      "Nolad or Error",
+      "Rav Huna: Conditional",
+      "Rabbi Yochanan: Gezeirah",
+      "Woman's Beauty Case",
+      "Rabbi Meir's Opening",
+      "Objection to Opening",
+      "Gabbayim Objection",
+      "Newly Poor Person",
+      "Ketubah Opening Rule",
+      "Man's Vow Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Huna bar Rav Ketina raising the exact objection that a vow-maker could deflect personal responsibility by saying poverty doesn't 'fall upon me' and he'll contribute through communal gabbayim, which is precisely what the prose under heading 11 ('Gabbayim Objection') describes.",
+      "chosen_heading": "Gabbayim Objection",
+      "current_heading": "Gabbayim Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Man's Vow Case",
+    "candidates": [
+      "Newly Poor Person",
+      "Ketubah Opening Rule",
+      "Man's Vow Case",
+      "Rabbi Akiva's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text directly states the rule about opening vow dissolution via the wife's ketubah, which matches candidate 1's prose about 'potchin le-adam bi-ktuvatat ishto' \u2014 not the concrete case discussed under candidate 2.",
+      "chosen_heading": "Ketubah Opening Rule",
+      "current_heading": "Man's Vow Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rabbi Akiva's Ruling",
+    "candidates": [
+      "Man's Vow Case",
+      "Rabbi Akiva's Ruling",
+      "Vower Released",
+      "Chattels & Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire incident from start to finish \u2014 the vow, the ruling, the protest, and the release \u2014 and therefore belongs under the opening heading 'Man's Vow Case' which introduces the concrete case, rather than being split across the subsequent headings that discuss only portions of it.",
+      "chosen_heading": "Man's Vow Case",
+      "current_heading": "Rabbi Akiva's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Chattels & Ketubah",
+    "candidates": [
+      "Vower Released",
+      "Chattels & Ketubah",
+      "Hair Sale Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's challenge about whether chattels are encumbered for the ketubah and Abaye's resolution that the father left land worth eight hundred dinars, which is precisely what the 'Chattels & Ketubah' section's prose discusses.",
+      "chosen_heading": "Chattels & Ketubah",
+      "current_heading": "Chattels & Ketubah",
+      "moved": false
+    }
+  }
+]

@@ -188,7 +188,7 @@
           "timestamp": "37:32"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -217,7 +217,7 @@
           "timestamp": "51:38"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -607,5 +607,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "37:32",
+  "amud_b_micro_title": "Frogs Rodents",
+  "shiur_start_daf": 17,
+  "shiur_start_amud": "b"
 }

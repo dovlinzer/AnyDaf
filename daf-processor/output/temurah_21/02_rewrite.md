@@ -120,9 +120,7 @@ The *gemara* now addresses an apparent contradiction regarding bringing *bechor*
 
 ### Akiva's Distinction
 
-Rabbi Akiva's position is: *yachol ya'aleh bechor michutz la'aretz la'aretz bizman sheBeis HaMikdash kayam veyakrivenu* — one might think a *bechor* could be brought from outside *Eretz Yisrael* when the *Beis HaMikdash* stands and offered as a *korban*, even *bedi'avad*. The Torah teaches otherwise from the verse *ve'achalta lifnei Hashem Elokecha maaser degancha tiroshcha ve'yitzharecha u'bechorot bekarcha ve'tzonecha* — you shall eat before God your *maaser* of grain and wine and oil and the firstborn of your cattle and flock. The verse links *bechor* to *maaser dagan*, and from that link Rabbi Akiva derives: *mimakom she'atah maaleh maaser dagan atah maaleh bechor* — only from the place where you bring *maaser* of grain do you bring your *bechor*. And *maaser dagan* is an agricultural obligation tied to *Eretz Yisrael* — one does not bring *maaser dagan* from *chutz la'aretz*. Therefore one does not bring *bechor* from *chutz la'aretz* either, even *bedi'avad*.
-
----
+This is a debate between Rabbi Yishmael and Rabbi Akiva over whether *bedi'avad* one accepts it. As the *braita* teaches, Rabbi Yosi says —
 
 ## Three Tannaic Opinio (II)
 

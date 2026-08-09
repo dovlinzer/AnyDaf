@@ -1,0 +1,478 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Genealogy Explained",
+    "candidates": [
+      "Case Setup",
+      "Genealogy Explained",
+      "Multiple Relations",
+      "R. Yochanan b. Nuri"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 9,
+      "first_heading": "Multiple Relations",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses 'the daughter of his wife' and 'his wife's daughter's daughter' \u2014 exactly matching heading 2 'Multiple Relations,' which describes extending the mother-in-law case to grandmother-in-law constructions.",
+      "second_heading": "Genealogy Explained",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Gemara discussing how the wife-of-father prohibition applies, levirate marriage, secondary relatives, and Rabbi Yosei's view on prohibition taking effect upon prohibition \u2014 this matches heading 1 'Genealogy Explained,' which works through the complex overlapping designations underlying the mishna's case.",
+      "third_heading": "Case Setup",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the mishna opening 'haba al chamoto' listing seven sin-offering obligations \u2014 exactly matching heading 0 'Case Setup,' which describes this very mishna presenting the mother-in-law case.",
+      "current_heading": "Genealogy Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "R. Yochanan b. Nuri",
+    "candidates": [
+      "Multiple Relations",
+      "R. Yochanan b. Nuri",
+      "Sumchus Parallel",
+      "Slaughter Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yochanan ben Nuri's opinion about three liabilities for intercourse with one's mother-in-law and the Rabbis' response that these are one category, which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "R. Yochanan b. Nuri",
+      "current_heading": "R. Yochanan b. Nuri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Slaughter Case",
+    "candidates": [
+      "Sumchus Parallel",
+      "Slaughter Case",
+      "Distinct Labels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's introduction of the Sumakhos parallel \u2014 item 1 states that Rabbi Yochanan ben Nuri and Sumakhos said the same thing, and item 2 supplies the Sumakhos mishna that proves it \u2014 which matches the 'Sumchus Parallel' heading's prose perfectly, while the 'Slaughter Case' heading's prose already presupposes the reader has seen this introductory framing and moves on to analyze the case in detail.",
+      "chosen_heading": "Sumchus Parallel",
+      "current_heading": "Slaughter Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Distinct Labels",
+    "candidates": [
+      "Slaughter Case",
+      "Distinct Labels",
+      "Zimah Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement distinguishing Rabbi Yochanan ben Nuri's case from Sumchus's based on 'shemot muchlakim' (differentiated names), which is precisely what the 'Distinct Labels' section's prose describes and analyzes.",
+      "chosen_heading": "Distinct Labels",
+      "current_heading": "Distinct Labels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Zimah Argument",
+    "candidates": [
+      "Zimah Argument",
+      "Market Setting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of reasoning about differentiated bodies vs. differentiated names in the oto v'et beno / mother-in-law context, culminating in the zimah verse \u2014 exactly what the 'Zimah Argument' prose describes.",
+      "chosen_heading": "Zimah Argument",
+      "current_heading": "Zimah Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Market Setting",
+    "candidates": [
+      "Market Setting",
+      "The Question",
+      "Sages' Response",
+      "Kal Vachomer",
+      "One Person",
+      "Core Question",
+      "Challenge",
+      "Verse Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage contains exactly the question Rabbi Akiva posed \u2014 one chatat or multiple for a woman with three simultaneous designations \u2014 which is precisely what 'The Question' prose describes, whereas 'Market Setting' discusses only the background context of where/why the question was asked.",
+      "chosen_heading": "The Question",
+      "current_heading": "Market Setting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Verse Resolution",
+    "candidates": [
+      "The Question",
+      "Sages' Response",
+      "Kal Vachomer",
+      "One Person",
+      "Core Question",
+      "Challenge",
+      "Verse Resolution",
+      "Rasha Bar Rasha",
+      "Genealogy Built"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Genealogy Built",
+    "candidates": [
+      "Rasha Bar Rasha",
+      "Genealogy Built",
+      "Niddah Case",
+      "R. Eliezer",
+      "Sages' View",
+      "Agreement",
+      "Causation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Adda bar Ahava's statement introducing the 'wicked man son of a wicked man' scenario, which corresponds exactly to candidate 0's prose that quotes and introduces this same statement, not candidate 1 which describes the constructed genealogy that follows.",
+      "chosen_heading": "Rasha Bar Rasha",
+      "current_heading": "Genealogy Built",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Causation",
+    "candidates": [
+      "Niddah Case",
+      "R. Eliezer",
+      "Sages' View",
+      "Agreement",
+      "Causation",
+      "Hypothetical",
+      "Independent Judgment",
+      "Real Principle",
+      "Picking Apples",
+      "First View",
+      "Second View",
+      "Why Different?",
+      "Minimum Size",
+      "Simultaneous Acts",
+      "Distinction",
+      "Rava's View",
+      "Yosef's View",
+      "Shabbat Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Niddah Case",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-4 cover the complete baraita about repeated intercourse, R. Eliezer vs. Sages, the five-wives concession, the causation challenge, and the gufim muchlakim resolution \u2014 all part of the niddah case discussion.",
+      "second_heading": "Picking Apples",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 introduce the entirely new reaping/Shabbat dilemma (katzar v'katzar) and resolve it through Rabba and Rav Yosef's competing explanations, matching exactly the 'Picking Apples' prose.",
+      "current_heading": "Causation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Shabbat Proof",
+    "candidates": [
+      "Hypothetical",
+      "Independent Judgment",
+      "Real Principle",
+      "Picking Apples",
+      "First View",
+      "Second View",
+      "Why Different?",
+      "Minimum Size",
+      "Simultaneous Acts",
+      "Distinction",
+      "Rava's View",
+      "Yosef's View",
+      "Shabbat Proof",
+      "Scenario",
+      "Analysis",
+      "Counter",
+      "Conclusion",
+      "Limb Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "All five items constitute Abaye's objection to Rabba from Rabbi Eliezer's Shabbat ruling, the inference about same-av-twice being exempt, and Mar berei d'Ravana's resolution via the dalit ha-mudelet case \u2014 exactly what the 'Shabbat Proof' prose describes.",
+      "chosen_heading": "Shabbat Proof",
+      "current_heading": "Shabbat Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Limb Status",
+    "candidates": [
+      "Scenario",
+      "Analysis",
+      "Counter",
+      "Conclusion",
+      "Limb Status",
+      "Human Case",
+      "Pesach Story",
+      "Technique",
+      "Kal Vachomer",
+      "Leek Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the complete Mishna about Rabbi Akiva's question regarding a dangling limb of an animal, including the Jerusalem practice with boils and the kal vachomer conclusion \u2014 exactly what heading 4 ('Limb Status') introduces, and the current placement is correct.",
+      "chosen_heading": "Limb Status",
+      "current_heading": "Limb Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Leek Case",
+    "candidates": [
+      "Human Case",
+      "Pesach Story",
+      "Technique",
+      "Kal Vachomer",
+      "Leek Case",
+      "Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly present the leek case from Makhshirin and Shmuel's ruling about it, which is precisely what the 'Leek Case' prose describes.",
+      "chosen_heading": "Leek Case",
+      "current_heading": "Leek Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Question",
+    "candidates": [
+      "Question",
+      "Force Factor",
+      "Application",
+      "Rain Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the gemara's objection questioning how the leek-liquid ruling squares with the dangling limb mishna, which is precisely what the 'Question' section's prose describes and analyzes.",
+      "chosen_heading": "Question",
+      "current_heading": "Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161,
+      162
+    ],
+    "current_heading": "Rain Water",
+    "candidates": [
+      "Force Factor",
+      "Application",
+      "Rain Water",
+      "Full Separation",
+      "Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Application",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's answer applying the force principle to the limb case, which matches the 'Application' prose discussing how forceful yanking produces clean separation with no lingering contact.",
+      "second_heading": "Rain Water",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the original context of Rav Yosef's statement \u2014 the zav/tamei meis walking in rain baraita \u2014 which matches the 'Rain Water' prose describing exactly that scenario.",
+      "current_heading": "Rain Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Proof",
+    "candidates": [
+      "Full Separation",
+      "Proof",
+      "Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses 'yeitzu mikulan harei makhshirin' and Rav Yosef's principle about complete separation activating liquid status, which is precisely what the 'Proof' section's prose elaborates upon.",
+      "chosen_heading": "Proof",
+      "current_heading": "Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      171,
+      172,
+      173,
+      174
+    ],
+    "current_heading": "Question",
+    "candidates": [
+      "Question",
+      "R. Shimon",
+      "Refined Q",
+      "R. Yehoshua",
+      "Kal Vachomer",
+      "R. Akiva"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Akiva's original question about slaughtering five offerings outside and Rabbi Yehoshua's analogous me'ilah tradition with kal vachomer, which is exactly what heading 0 ('Question') describes.",
+      "second_heading": "R. Shimon",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rabbi Shimon's correction about the true nature of Rabbi Akiva's question (notar from five offerings) and Rabbi Yehoshua's revised application of the me'ilah tradition, matching headings 'R. Shimon' and 'R. Yehoshua' \u2014 but since items 3-4 form a continuous unit, heading 1 ('R. Shimon') is the best single home as it initiates the corrected discussion.",
+      "current_heading": "Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      188
+    ],
+    "current_heading": "R. Akiva",
+    "candidates": [
+      "R. Shimon",
+      "Refined Q",
+      "R. Yehoshua",
+      "Kal Vachomer",
+      "R. Akiva",
+      "Me'ilah Features"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Akiva's response ('im halacha nekabel... im ledin yesh teshuvah') and Rabbi Yehoshua's reply ('hashev'), which is precisely what candidate 4's prose describes.",
+      "chosen_heading": "R. Akiva",
+      "current_heading": "R. Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      191,
+      192
+    ],
+    "current_heading": "Me'ilah Features",
+    "candidates": [
+      "Me'ilah Features",
+      "Conclusion",
+      "Central Issue",
+      "Piece vs. Piece",
+      "Parameters",
+      "Sages' Approach",
+      "R. Akiva",
+      "Historical Shift",
+      "Two Trends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Akiva's counter-argument listing the three stringencies of me'ilah (feeder=eater, benefiter=one who benefits, and joining over extended time) that distinguish it from notar \u2014 exactly what the 'Me'ilah Features' prose describes.",
+      "chosen_heading": "Me'ilah Features",
+      "current_heading": "Me'ilah Features",
+      "moved": false
+    }
+  }
+]

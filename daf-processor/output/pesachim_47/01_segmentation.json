@@ -106,7 +106,7 @@
           "timestamp": "18:22"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -241,7 +241,7 @@
           "timestamp": "48:55"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -515,5 +515,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "29:14",
+  "amud_b_micro_title": "Challenge Sent",
+  "shiur_start_daf": 47,
+  "shiur_start_amud": "a"
 }

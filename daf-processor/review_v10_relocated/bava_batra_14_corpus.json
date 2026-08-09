@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Rolling Direction",
+    "candidates": [
+      "Gudo o Agud",
+      "Slave & Pru U'rvu",
+      "Lashevet Yetzarah",
+      "Forcing Master to Free",
+      "Tosafot Answers",
+      "Scroll Requirements",
+      "Blank Parchment",
+      "Rolling Direction",
+      "Wrapping Contradiction",
+      "Two Poles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's contradiction (techilas ha'sefer v'sofo k'dei l'gol creating ambiguity about wrapping the pole vs. circumference) and Rav Na\u1e25man bar Yitz\u1e25ak's disjunctive resolution, which is precisely what the 'Wrapping Contradiction' prose describes.",
+      "chosen_heading": "Wrapping Contradiction",
+      "current_heading": "Rolling Direction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Two Poles",
+    "candidates": [
+      "Wrapping Contradiction",
+      "Two Poles",
+      "Jerusalem Scribes",
+      "Ritual vs. Book",
+      "Length-Width Equality",
+      "Six Tefachim",
+      "Gevil & Klaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's resolution about the Torah scroll having two poles and the supporting baraita, which matches exactly the 'Two Poles' section prose discussing Rav Ashi's answer and the two-pole structure of a Sefer Torah.",
+      "chosen_heading": "Two Poles",
+      "current_heading": "Two Poles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Gevil & Klaf",
+    "candidates": [
+      "Jerusalem Scribes",
+      "Ritual vs. Book",
+      "Length-Width Equality",
+      "Six Tefachim",
+      "Gevil & Klaf",
+      "Scribal Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Beraita about length-circumference equality and Rabbi's answer about gevil being six, which is precisely what the 'Length-Width Equality' section's prose discusses as its primary content.",
+      "chosen_heading": "Length-Width Equality",
+      "current_heading": "Gevil & Klaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Scribal Stories",
+    "candidates": [
+      "Gevil & Klaf",
+      "Scribal Stories",
+      "Rabbi Ami's 400"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two stories about Rav Huna writing seventy Torah scrolls and Rav Acha bar Yaakov writing one on calf hide, which is precisely what the 'Scribal Stories' prose discusses.",
+      "chosen_heading": "Scribal Stories",
+      "current_heading": "Scribal Stories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rabbi Ami's 400",
+    "candidates": [
+      "Rabbi Ami's 400",
+      "Ark Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Ami's 400 Torah scrolls and Rabbi Yannai's 400 vineyards with the same reinterpretations described in the prose under heading 0.",
+      "chosen_heading": "Rabbi Ami's 400",
+      "current_heading": "Rabbi Ami's 400",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Ark Size",
+    "candidates": [
+      "Ark Size",
+      "Tablets Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about the Ark's dimensions using a six-handbreadth cubit, which matches exactly the 'Ark Size' prose describing this objection and the conversion of the Ark's measurements to tefachim.",
+      "chosen_heading": "Ark Size",
+      "current_heading": "Ark Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Tablets Placement",
+    "candidates": [
+      "Tablets Placement",
+      "Interior Space",
+      "Torah in Ark"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the dimensions and placement of the Tablets within the Ark and calculates the space they consume, which matches exactly the 'Tablets Placement' section's prose about the Luchot dimensions and their arrangement lengthwise in the Aron.",
+      "chosen_heading": "Tablets Placement",
+      "current_heading": "Tablets Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Torah in Ark",
+    "candidates": [
+      "Interior Space",
+      "Torah in Ark",
+      "Width Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives from 'ein ba'aron rak' via miyut achar miyut that a Sefer Torah was inside the Aron, which is precisely what the 'Torah in Ark' section's prose discusses and explicates.",
+      "chosen_heading": "Torah in Ark",
+      "current_heading": "Torah in Ark",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Width Math",
+    "candidates": [
+      "Width Math",
+      "5-Tefach Amah",
+      "Recalculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the width calculation of the Ark, the six handbreadths occupied by the tablets, the wall thickness deduction, and the two remaining handbreadths for the Torah scroll \u2014 exactly what the 'Width Math' prose describes.",
+      "chosen_heading": "Width Math",
+      "current_heading": "Width Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Recalculation",
+    "candidates": [
+      "5-Tefach Amah",
+      "Recalculation",
+      "Decorative Poles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's position that the amah is five tefachim and recalculates the Ark dimensions accordingly, which matches the '5-Tefach Amah' section prose exactly, while the current 'Recalculation' section prose discusses the consequences/arithmetic of that position (wall thicknesses, tight fit) which is commentary beyond what this passage itself contains.",
+      "chosen_heading": "5-Tefach Amah",
+      "current_heading": "Recalculation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Decorative Poles",
+    "candidates": [
+      "Recalculation",
+      "Decorative Poles",
+      "Philistine Box"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the width calculation of the Ark and concludes with the one tefach of open space being occupied by silver columns (amudim) derived from the Shir HaShirim verse, which is precisely what the 'Decorative Poles' section's prose discusses.",
+      "chosen_heading": "Decorative Poles",
+      "current_heading": "Decorative Poles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Philistine Box",
+    "candidates": [
+      "Philistine Box",
+      "Pi = 3"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the argaz placed mitzido beside the Aron and the Sefer Torah resting upon it, which is precisely what the 'Philistine Box' section's prose discusses.",
+      "chosen_heading": "Philistine Box",
+      "current_heading": "Philistine Box",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Pi = 3",
+    "candidates": [
+      "Pi = 3",
+      "Two Poles Problem",
+      "One Pole Solution",
+      "Slack & Wiggle",
+      "Back Shelf"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pi = 3",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the broken tablets inclusion and the geometric objection about the six-handbreadth circumference fitting into two pushkei, which is exactly what the 'Pi = 3' section discusses \u2014 establishing the diameter via pi=3 and then pressing the fitting problem.",
+      "second_heading": "One Pole Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Acha bar Yaakov's one-pole solution followed by Rav Ashi's wiggle-room refinement, matching precisely the 'One Pole Solution' prose (and 'Slack & Wiggle' is the next section), but since both items 3a and 3b belong together under the one-pole/slack discussion, the best single heading for item 3 is 'One Pole Solution' (index 2).",
+      "current_heading": "Pi = 3",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Back Shelf",
+    "candidates": [
+      "Two Poles Problem",
+      "One Pole Solution",
+      "Slack & Wiggle",
+      "Back Shelf",
+      "Meir: Inside Ark",
+      "Poles Outside",
+      "Broken Tablets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yehuda's question about where the Sefer Torah sat before the argaz arrived (answered by the shelf/dappa) and Rabbi Meir's interpretation of 'mitzad aron,' both of which are precisely what the 'Back Shelf' prose discusses.",
+      "chosen_heading": "Back Shelf",
+      "current_heading": "Back Shelf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Broken Tablets",
+    "candidates": [
+      "Meir: Inside Ark",
+      "Poles Outside",
+      "Broken Tablets",
+      "Yishmael School",
+      "Breaking Approved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about how Rabbi Meir derives that the shivrei luchot were placed in the Aron \u2014 first via Rav Huna's verse, then the complication from Rabbi Yochanan/Rabbi Shimon ben Yochai's teaching, then the resolution via Rav Yosef's baraita \u2014 which is precisely what the 'Broken Tablets' prose section describes.",
+      "chosen_heading": "Broken Tablets",
+      "current_heading": "Broken Tablets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Breaking Approved",
+    "candidates": [
+      "Yishmael School",
+      "Breaking Approved",
+      "Broken Tablets Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Reish Lakish's teaching that God approved Moses' breaking of the Tablets (yashar kochacha she-shibarta), which is precisely what the 'Breaking Approved' section's prose describes.",
+      "chosen_heading": "Breaking Approved",
+      "current_heading": "Breaking Approved",
+      "moved": false
+    }
+  }
+]

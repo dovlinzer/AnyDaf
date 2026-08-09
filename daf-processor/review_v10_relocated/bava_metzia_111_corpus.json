@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Indirect Hiring",
+    "candidates": [
+      "Opening & Bal Talin",
+      "Indirect Hiring",
+      "Practical Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Baraita and Gemara discussion about indirect hiring (agent saying 'scharchem alai' vs. 'scharchem al ba'al habayit') that candidate 1's prose explicitly and comprehensively covers.",
+      "chosen_heading": "Indirect Hiring",
+      "current_heading": "Indirect Hiring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Practical Examples",
+    "candidates": [
+      "Practical Examples",
+      "Marketplace Workers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the practices of Yehuda bar Mareimar instructing his attendant and Mareimar and Mar Zutra hiring workers for each other, which is precisely what the 'Practical Examples' prose discusses in detail.",
+      "chosen_heading": "Practical Examples",
+      "current_heading": "Practical Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Marketplace Workers",
+    "candidates": [
+      "Marketplace Workers",
+      "Rav vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the marketplace workers of Sura (hanei shokai deSura), bal talin, and bal tishe'ha \u2014 exactly matching the content described in the 'Marketplace Workers' prose section.",
+      "chosen_heading": "Marketplace Workers",
+      "current_heading": "Marketplace Workers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Rav vs Shmuel",
+    "candidates": [
+      "Rav vs Shmuel",
+      "Rav's Defense",
+      "Extended Terms"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav vs Shmuel",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the Rav vs Shmuel dispute and Rav's disjunctive defense (letzdadin katani), which match exactly the prose under 'Rav vs Shmuel' and 'Rav's Defense'.",
+      "second_heading": "Extended Terms",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces a new Mishnaic source about weekly/monthly/yearly laborers leaving by day or night, which is precisely the content described in the 'Extended Terms' prose section.",
+      "current_heading": "Rav vs Shmuel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Extended Terms",
+    "candidates": [
+      "Rav's Defense",
+      "Extended Terms",
+      "Chamesh Shemot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Baraita showing Rabbi Yehuda and Rabbi Shimon's dispute about hourly laborers, which is exactly what candidate 1's prose describes as Rav's response of 'tanai hi' \u2014 that his disagreement with Shmuel mirrors the Tannaitic dispute between Rabbi Yehuda and Rabbi Shimon.",
+      "chosen_heading": "Extended Terms",
+      "current_heading": "Extended Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Chamesh Shemot",
+    "candidates": [
+      "Chamesh Shemot",
+      "Oshek vs Gezel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the five prohibitions (chamesh shemot) for withholding wages and Rav \u1e24isda's clarification about shem sechirut be'alma, which is precisely what the 'Chamesh Shemot' prose section describes.",
+      "chosen_heading": "Chamesh Shemot",
+      "current_heading": "Chamesh Shemot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Oshek vs Gezel",
+    "candidates": [
+      "Oshek vs Gezel",
+      "Oshek/Gezel Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's definition of oshek vs. gezel, which is exactly what candidate 0's prose describes, not the subsequent debate and challenges covered in candidate 1.",
+      "chosen_heading": "Oshek vs Gezel",
+      "current_heading": "Oshek vs Gezel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Oshek/Gezel Debate",
+    "candidates": [
+      "Oshek/Gezel Debate",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are precisely the Rav Sheshet/Abaye debate and its subsequent give-and-take about the pikadon-style denial requirement for oshek vs. gezel, which is exactly what the 'Oshek/Gezel Debate' prose describes in detail.",
+      "chosen_heading": "Oshek/Gezel Debate",
+      "current_heading": "Oshek/Gezel Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Rental Obligations",
+      "Conditions for Exemption",
+      "Worker's Oath"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's conclusion about oshek and gezel being identical, which is exactly what heading 0 ('Rava's Position') discusses.",
+      "second_heading": "Rental Obligations",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a new Mishna (marked 'MISHNA:') introducing rental obligations for persons, animals, and utensils, which matches heading 1 ('Rental Obligations') precisely.",
+      "current_heading": "Rava's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Worker's Oath",
+    "candidates": [
+      "Rental Obligations",
+      "Conditions for Exemption",
+      "Worker's Oath",
+      "Ger Toshav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the worker's oath mechanism (sachir bizmano nishba venotel), the effect of the time period passing, and the role of witnesses \u2014 exactly what the 'Worker's Oath' prose discusses.",
+      "chosen_heading": "Worker's Oath",
+      "current_heading": "Worker's Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Ger Toshav",
+    "candidates": [
+      "Ger Toshav",
+      "Attribution Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Mishnaic rule about ger toshav \u2014 subject to 'beyomo titein sacharo' but not 'lo talin' \u2014 which is exactly what the prose under heading 0 describes and explains.",
+      "chosen_heading": "Ger Toshav",
+      "current_heading": "Ger Toshav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Attribution Question",
+    "candidates": [
+      "Attribution Question",
+      "Baraita Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 2 is the actual baraita text being cited (the Tanna Kamma's interpretation of 'from your brothers,' 'your stranger,' and 'within your gates'), which is precisely what Candidate 1 'Baraita Sources' describes in its prose, while Candidate 0 'Attribution Question' covers only the framing question about whose opinion the Mishnah reflects \u2014 both items together form the baraita citation that belongs under Candidate 1.",
+      "chosen_heading": "Baraita Sources",
+      "current_heading": "Attribution Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Baraita Sources",
+    "candidates": [
+      "Attribution Question",
+      "Baraita Sources",
+      "Tanna Kamma",
+      "Rabbi Yosei Position",
+      "Rabbi Yishmael School"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita Sources",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Baraita itself \u2014 the Tanna Kamma's derivation extending obligations to animals and utensils, and Rabbi Yosei bar Rabbi Yehuda's contrasting position \u2014 which is precisely what the 'Baraita Sources' prose describes as the three Tannaitic positions laid out in the Baraita.",
+      "second_heading": "Attribution Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's 'mani' question asking whose opinion the Mishnah follows, noting the contradiction with both the Tanna Kamma (ger toshav is difficult) and Rabbi Yosei (animals and vessels are difficult), which matches exactly the 'Attribution Question' prose.",
+      "current_heading": "Baraita Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rabbi Yishmael School",
+    "candidates": [
+      "Tanna Kamma",
+      "Rabbi Yosei Position",
+      "Rabbi Yishmael School",
+      "Ki Ani Hu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement identifying the Mishnah's tanna as from the school of Rabbi Yishmael, along with the Baraita's content \u2014 exactly what the 'Rabbi Yishmael School' prose section describes.",
+      "chosen_heading": "Rabbi Yishmael School",
+      "current_heading": "Rabbi Yishmael School",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Ki Ani Hu",
+    "candidates": [
+      "Ki Ani Hu",
+      "Rabbi Chananya",
+      "Priority Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the sachir-sachir gezeira shava and why Rabbi Yosei b'Rabbi Yehuda rejects it, along with Rabbi Chananya's answer about ki ani hu excluding animals and vessels \u2014 exactly the content described in candidate 0's prose about lo gamar sakhir sakhir and the nehi challenge resolved by Rabbi Chananya.",
+      "chosen_heading": "Ki Ani Hu",
+      "current_heading": "Ki Ani Hu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Priority Principle",
+    "candidates": [
+      "Rabbi Chananya",
+      "Priority Principle",
+      "Psychology of Payment",
+      "Apparent Contradictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the Tanna Kamma's use of 'ki ani hu' for the priority rule between poor and wealthy/destitute workers, Rabbi Yosei bar Rabbi Yehuda's alternative derivation, and the tzricha explanation \u2014 exactly what the 'Priority Principle' prose describes.",
+      "chosen_heading": "Priority Principle",
+      "current_heading": "Priority Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Apparent Contradictions",
+    "candidates": [
+      "Psychology of Payment",
+      "Apparent Contradictions",
+      "Peulato Itcha",
+      "Recha Exclusion",
+      "Mamon Recha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the exact 'whichever way you look at it' (mah nafshakh) dilemma about the tanna of our mishna regarding the gezeira shava sachir sachir and animals/vessels, which is precisely what the 'Apparent Contradictions' prose describes.",
+      "chosen_heading": "Apparent Contradictions",
+      "current_heading": "Apparent Contradictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Mamon Recha",
+    "candidates": [
+      "Peulato Itcha",
+      "Recha Exclusion",
+      "Mamon Recha",
+      "Tanna Kamma Recha",
+      "Amaleki Exclusion",
+      "Oshek/Gezel Drasha",
+      "Meiri Principle",
+      "Lo Talin Source",
+      "Rav Assi Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mamon Recha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the pe'ulato itcha derivation, behema ve-keilim inclusion via mamon re'acha, and ger toshav exclusion \u2014 exactly what the 'Mamon Recha' prose describes.",
+      "second_heading": "Oshek/Gezel Drasha",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 form a question-answer unit about why two separate derivations (oshek and gezel) are needed from re'acha, which is precisely what the 'Oshek/Gezel Drasha' prose discusses.",
+      "current_heading": "Mamon Recha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rav Assi Principle",
+    "candidates": [
+      "Tanna Kamma Recha",
+      "Amaleki Exclusion",
+      "Oshek/Gezel Drasha",
+      "Meiri Principle",
+      "Lo Talin Source",
+      "Rav Assi Principle",
+      "Work Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yosei bar Rabbi Yehuda's use of the verse 'lo talin pe'ulat sachir itcha ad boker' for Rav Assi's principle about even minimal labor triggering bal talin, which is precisely what candidate 5's prose describes.",
+      "chosen_heading": "Rav Assi Principle",
+      "current_heading": "Rav Assi Principle",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Ma'aser Behemah Cases",
+    "candidates": [
+      "Hamotzi Framework",
+      "Takfo Kohen Principle",
+      "Ma'aser Behemah Cases",
+      "Bathhouse Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the ma'aser behemah cases involving safek status \u2014 item 1 resolves the baraita proof about uncertain tithe, items 2-3 present Rav Acha mi-Difti's question and Rav Nachman's answer about safek pidyon peter chamor \u2014 which is precisely what the prose under heading 2 describes.",
+      "chosen_heading": "Ma'aser Behemah Cases",
+      "current_heading": "Ma'aser Behemah Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Bathhouse Overview",
+    "candidates": [
+      "Bathhouse Overview",
+      "Rav Nachman Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the question 'what was the final outcome of the bathhouse case' and the narrative of Rav Chiyya bar Avin bringing the case through Rav Chisda to Rav Huna, which is exactly what the 'Bathhouse Overview' prose describes, before the Rav Nachman principle is extracted in the next section.",
+      "chosen_heading": "Bathhouse Overview",
+      "current_heading": "Bathhouse Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Nachman Principle",
+    "candidates": [
+      "Rav Nachman Principle",
+      "Movables vs. Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Rav Nachman's principle using Rabbi Yochanan's ruling about robbery and consecration, which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Rav Nachman Principle",
+      "current_heading": "Rav Nachman Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Movables vs. Land",
+    "candidates": [
+      "Movables vs. Land",
+      "Silence as Admission",
+      "Rav Tachlifa Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the Gemara's clarification that the bathhouse is a fixed structure (mekarkei), not a movable object, which is precisely what the 'Movables vs. Land' section's prose discusses.",
+      "chosen_heading": "Movables vs. Land",
+      "current_heading": "Movables vs. Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Tachlifa Braita",
+    "candidates": [
+      "Silence as Admission",
+      "Rav Tachlifa Braita",
+      "Fringes Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Ta\u1e25alifa baraita itself, and the prose under heading 1 ('Rav Tachlifa Braita') directly describes and analyzes this exact baraita and Rabbi Abbahu's response.",
+      "chosen_heading": "Rav Tachlifa Braita",
+      "current_heading": "Rav Tachlifa Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Fringes Doctrine",
+    "candidates": [
+      "Fringes Doctrine",
+      "Three-by-Three Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's answer about holding the fringes (karkashta) to reconcile the Mishnah with the braita, which is precisely what the 'Fringes Doctrine' section's prose describes.",
+      "chosen_heading": "Fringes Doctrine",
+      "current_heading": "Fringes Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Three-by-Three Shiur",
+    "candidates": [
+      "Three-by-Three Shiur",
+      "Get and Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Mesharshiyya's ruling about kinyan chalipin with a cloth (sudara), the three-by-three shiur, and the dekeman de-pasik principle \u2014 precisely what the 'Three-by-Three Shiur' prose describes.",
+      "chosen_heading": "Three-by-Three Shiur",
+      "current_heading": "Three-by-Three Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Get and Possession",
+    "candidates": [
+      "Get and Possession",
+      "Golden Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav \u1e24isda get-and-string challenge and its resolution, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Get and Possession",
+      "current_heading": "Get and Possession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Golden Garment",
+    "candidates": [
+      "Golden Garment",
+      "Mishnah Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rava's ruling about the gold-threaded garment (tallis mu-zehevet), directly matching the 'Golden Garment' prose which describes exactly this scenario of the gold being closer to one party and the equal-division ruling.",
+      "chosen_heading": "Golden Garment",
+      "current_heading": "Golden Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Mishnah Overview",
+    "candidates": [
+      "Mishnah Overview",
+      "RSBG Position",
+      "Judge's Hands",
+      "Rabbi Yosi",
+      "Modeh B'Shtar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabbi Yehuda HaNasi's ruling, Rabban Shimon ben Gamliel's position, the judge's hands case, Rabbi Yosi's view, and the Gemara's initial question about whether the creditor collects the full debt \u2014 are all part of the baraita and its opening Gemara discussion, which is exactly what the 'Mishnah Overview' prose describes.",
+      "chosen_heading": "Mishnah Overview",
+      "current_heading": "Mishnah Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Modeh B'Shtar",
+    "candidates": [
+      "RSBG Position",
+      "Judge's Hands",
+      "Rabbi Yosi",
+      "Modeh B'Shtar",
+      "Ketubah Case",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Modeh B'Shtar",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 present Rava/Rav Nachman's clarification of the Rebbi vs. RSBG dispute over ratification and modeh b'shtar, which is precisely what the 'Modeh B'Shtar' prose describes in detail.",
+      "second_heading": "Judge's Hands",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 discuss the baraita about a note falling into a judge's hands (hanpak/ratification), Rava's explanation, and Rabbi Yosi's position on pira'on, which matches exactly the \"Judge's Hands\" and \"Rabbi Yosi\" prose sections \u2014 with item 5-7 under \"Judge's Hands\" and item 8 under \"Rabbi Yosi\", but since the split can only be at one point, splitting after item 4 places 5-8 under the \"Judge's Hands\" heading which begins that sequence.",
+      "current_heading": "Modeh B'Shtar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Ketubah Case",
+      "Reconciliation",
+      "Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous discussion of how to reconcile the tension between Rabbi Yosei's ruling in the shtar case and his ruling in the ketubbah case, covering the three resolutions (reversing attributions, kullah Rabbi Yosei, Rav Pappa's le-didchu approach, and Ravina's shtei ketubot approach) \u2014 exactly what the 'Reconciliation' prose describes.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rabbi Elazar",
+    "candidates": [
+      "Rabbi Elazar",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's ruling about the dispute applying when both hold the same part versus different parts, and mentions Rabbi Yochanan's brief counter-position \u2014 exactly what the prose under heading 0 ('Rabbi Elazar') describes, before heading 1 elaborates on Rabbi Yochanan's view in more detail.",
+      "chosen_heading": "Rabbi Elazar",
+      "current_heading": "Rabbi Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Liens and Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Gemara exchange about Rabbi Yochanan's ruling \u2014 the objection from the baraita, the answer that the toref is in the middle, and the follow-up about the toref being closer to one side \u2014 which is precisely what the 'Rabbi Yochanan' prose section describes.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Liens and Value",
+    "candidates": [
+      "Liens and Value",
+      "Calculation Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Rav A\u1e25a/Ravina exchange about li-dmei, which is precisely what the 'Liens and Value' prose describes \u2014 the question about bottle-stopping and Ravina's answer that the division is monetary value.",
+      "chosen_heading": "Liens and Value",
+      "current_heading": "Liens and Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Calculation Method",
+    "candidates": [
+      "Calculation Method",
+      "Division = Valuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly explains the valuation differential between a dated and undated shtar, matching the 'Calculation Method' section's detailed discussion of how the date creates lien value and the incremental difference that the toref-holder receives.",
+      "chosen_heading": "Calculation Method",
+      "current_heading": "Calculation Method",
+      "moved": false
+    }
+  }
+]

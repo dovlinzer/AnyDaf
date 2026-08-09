@@ -1,0 +1,445 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ninth Takkanah Intro",
+    "candidates": [
+      "Ninth Takkanah Intro",
+      "Rav Pappa: Kerem Reva'i"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Rav Pappa and Rav Nachman bar Yitzchak about the ninth takkanah's identity, which is exactly what the 'Ninth Takkanah Intro' prose describes as its topic, before expanding on Rav Pappa's specific position in the next section.",
+      "chosen_heading": "Ninth Takkanah Intro",
+      "current_heading": "Ninth Takkanah Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Rav Pappa: Kerem Reva'i",
+    "candidates": [
+      "Rav Pappa: Kerem Reva'i",
+      "Rabbi Eliezer's Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Pappa's teaching about kerem reva'i boundaries and Ulla/Rabbi Yochanan's rationale for adorning Jerusalem's markets \u2014 are explicitly discussed in the prose of candidate 0, which covers exactly this content.",
+      "chosen_heading": "Rav Pappa: Kerem Reva'i",
+      "current_heading": "Rav Pappa: Kerem Reva'i",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rabbi Eliezer's Concerns",
+    "candidates": [
+      "Rabbi Eliezer's Concerns",
+      "Rav Nachman: Red String",
+      "Red String Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rabbi Eliezer's kerem reva'i situation and his students' intervention citing Rabban Yochanan ben Zakkai's ruling, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Rabbi Eliezer's Concerns",
+      "current_heading": "Rabbi Eliezer's Concerns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Red String Stages",
+    "candidates": [
+      "Rav Nachman: Red String",
+      "Red String Stages",
+      "Chronological Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe the three stages of the red string practice (outside \u2192 inside \u2192 on the goat/rock), which is precisely what the 'Red String Stages' prose section describes, and the passage is already correctly placed there.",
+      "chosen_heading": "Red String Stages",
+      "current_heading": "Red String Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Chronological Proof",
+    "candidates": [
+      "Chronological Proof",
+      "Resolution: Red String"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous dialectical unit \u2014 Rav Nachman bar Yitzchak's rejection of Rav Pappa's view, then Rav Pappa's counter-argument involving the 120-year chronology and the red string, exactly matching the 'Chronological Proof' prose which describes precisely this back-and-forth about the red string and the timeline of Rabban Yochanan ben Zakkai's life.",
+      "chosen_heading": "Chronological Proof",
+      "current_heading": "Chronological Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Resolution: Red String",
+    "candidates": [
+      "Resolution: Red String",
+      "Overview of Debate",
+      "Rabbi Yochanan ben Nuri",
+      "Rabbi Akiva's Objection",
+      "Rabbi Akiva Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about a teacher establishing a ruling in the student's name directly supports the Resolution: Red String section's prose explaining how Rabban Yochanan ben Zakkai's takkanah could be attributed to him from his student years.",
+      "chosen_heading": "Resolution: Red String",
+      "current_heading": "Resolution: Red String",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Overview of Debate",
+      "Rabbi Yochanan ben Nuri",
+      "Rabbi Akiva's Objection",
+      "Rabbi Akiva Position",
+      "Gemara's Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Overview of Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the full Mishnah including Rabbi Yochanan ben Nuri's position, which the 'Overview of Debate' prose introduces as the starting point and which candidate 1 ('Rabbi Yochanan ben Nuri') specifically discusses.",
+      "second_heading": "Rabbi Akiva's Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Akiva's objection and counter-position, which belongs under 'Rabbi Akiva's Objection' whose prose explicitly quotes and analyzes the same 'im eino tokeia l'malchuyos lama hu mazkir' challenge.",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Gemara's Response",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Gemara's Response",
+      "Conceptual Analysis",
+      "Rabbi Eliezer Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's response to Rabbi Akiva's question \u2014 deflecting 'lama hu mazkir' with 'Rachmana amar' and reinterpreting his argument as being about nine vs. ten verses \u2014 which is exactly what the 'Gemara's Response' prose describes.",
+      "chosen_heading": "Gemara's Response",
+      "current_heading": "Gemara's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rabbi Eliezer Sources",
+    "candidates": [
+      "Conceptual Analysis",
+      "Rabbi Eliezer Sources",
+      "Rabbi Akiva Reading",
+      "Rabbi Yosi's Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita derives Avot, Gevurot, and Kedushat Hashem (the three opening blessings of Amidah) from Psalms 29, which corresponds to the section discussing derivations for the core liturgical blessings \u2014 Rabbi Yosi's derivation section discusses malchuyos/zichronos/shofros from Numbers, but the passage itself is about deriving the first three Amidah blessings, making it most contextually proximate to section 3 where the gemara is exploring scriptural sources for liturgical elements; however, the current placement under 'Rabbi Eliezer Sources' (index 1) is where the gemara asks 'from where do we derive these recitations,' and this baraita fits that framing of seeking scriptural sources for prayer components.",
+      "chosen_heading": "Rabbi Yosi's Derivation",
+      "current_heading": "Rabbi Eliezer Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Rabbi Yosi's Derivation",
+    "candidates": [
+      "Rabbi Akiva Reading",
+      "Rabbi Yosi's Derivation",
+      "Binyan Av Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Akiva Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Rabbi Eliezer/Rabbi Akiva dispute over deriving Kingship, Remembrances, and Shofarot from Leviticus 23:24, which is precisely what the 'Rabbi Akiva Reading' prose discusses.",
+      "second_heading": "Rabbi Yosi's Derivation",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rebbi's and Rabbi Yosi bar Yehuda's derivations of Malchuyot, which is exactly what the 'Rabbi Yosi's Derivation' prose discusses, including the specific baraita and the Numbers 10 passage.",
+      "current_heading": "Rabbi Yosi's Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Binyan Av Logic",
+    "candidates": [
+      "Binyan Av Logic",
+      "Rabbi Yochanan ben Beroka",
+      "Yavneh Practice",
+      "Rabbi Akiva Adopted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita dispute between Rabbi Yehuda HaNasi and Rabban Shimon ben Gamliel about where Kedushat Hayom is recited, which is explicitly discussed in the 'Binyan Av Logic' prose section as the concluding topic of that heading.",
+      "chosen_heading": "Binyan Av Logic",
+      "current_heading": "Binyan Av Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabbi Akiva Adopted",
+    "candidates": [
+      "Rabbi Yochanan ben Beroka",
+      "Yavneh Practice",
+      "Rabbi Akiva Adopted",
+      "Shimon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode at Usha \u2014 both Rabbi Yochanan ben Beroka's action and Rabbi Chanina's action \u2014 and heading 0 ('Rabbi Yochanan ben Beroka') introduces this very baraita, while headings 1 and 2 split the episode artificially; the baraita as a unit belongs under the heading that opens the narrative.",
+      "chosen_heading": "Rabbi Yochanan ben Beroka",
+      "current_heading": "Rabbi Akiva Adopted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shimon's Position",
+    "candidates": [
+      "Rabbi Akiva Adopted",
+      "Shimon's Position",
+      "Ten Verses Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about whether Rabban Shimon ben Gamliel agrees with Rabbi Akiva and Rabbi Zeira's clarification about their partial agreement regarding tekiyot with malchuyos \u2014 exactly what the 'Shimon's Position' prose section explains.",
+      "chosen_heading": "Shimon's Position",
+      "current_heading": "Shimon's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Ten Verses Required",
+    "candidates": [
+      "Ten Verses Required",
+      "Yochanan: Three Verses",
+      "Debate Clarified"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Debate Clarified",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses a baraita about Rabbi \u1e24anina descending on 'the second day' and Rav \u1e24isda's clarification, which fits the 'Debate Clarified' heading better than 'Ten Verses Required' or 'Yochanan: Three Verses', though it's a poor fit for all candidates \u2014 it's least wrong at heading 2 since it involves a gemara clarifying/debating a term.",
+      "second_heading": "Yochanan: Three Verses",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna stating the requirement of ten malchuyos/zichronos/shofros and Rabbi Yochanan ben Nuri's lenient view of three, which directly matches heading 1 'Yochanan: Three Verses' that describes exactly this Mishna content.",
+      "third_heading": "Ten Verses Required",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara discussion of what the ten malchuyos correspond to (Rabbi Yehuda HaNasi, Rav Yosef, Rabbi Yochanan, and the ten utterances of creation), matching perfectly with heading 0 'Ten Verses Required' which describes these exact correspondences.",
+      "current_heading": "Ten Verses Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Debate Clarified",
+    "candidates": [
+      "Yochanan: Three Verses",
+      "Debate Clarified",
+      "Seven Verses Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma about what Rabbi Yo\u1e25anan ben Nuri's 'three from each' means (nine vs. three total), which is precisely what the 'Debate Clarified' prose describes.",
+      "chosen_heading": "Debate Clarified",
+      "current_heading": "Debate Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Seven Verses Option",
+    "candidates": [
+      "Seven Verses Option",
+      "Rav Huna's Ruling",
+      "Excluding Puranus",
+      "Torah-Ketuvim-Nevi'im",
+      "Examples of Bad Verses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Seven Verses Option",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita about ten verses with seven as a be-diavad option corresponding to seven firmaments, which is precisely what the 'Seven Verses Option' prose discusses.",
+      "second_heading": "Rav Huna's Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Huna's ruling that the halakha follows Rabbi Yochanan ben Nuri, which is exactly what the 'Rav Huna's Ruling' prose section describes.",
+      "current_heading": "Seven Verses Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Examples of Bad Verses",
+    "candidates": [
+      "Rav Huna's Ruling",
+      "Excluding Puranus",
+      "Torah-Ketuvim-Nevi'im",
+      "Examples of Bad Verses",
+      "Allowed: Non-Jews"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Excluding Puranus",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the rule against mentioning punishment-themed verses and the Torah/Navi ordering rule, which matches heading 1 ('Excluding Puranus') whose prose describes exactly this introductory rule.",
+      "second_heading": "Examples of Bad Verses",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara's specific examples of prohibited verses for Kingship, Remembrance, and Shofar, which matches heading 3 ('Examples of Bad Verses') whose prose explicitly discusses these same examples with the same details.",
+      "current_heading": "Examples of Bad Verses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Allowed: Non-Jews",
+    "candidates": [
+      "Allowed: Non-Jews",
+      "No Individual Memory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses permitted verses of Kingship, remembrance, and shofar relating to punishment of gentiles, which exactly matches the prose under 'Allowed: Non-Jews'.",
+      "chosen_heading": "Allowed: Non-Jews",
+      "current_heading": "Allowed: Non-Jews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "No Individual Memory",
+    "candidates": [
+      "No Individual Memory",
+      "Zichronos vs. Pikdonos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition against reciting individual-remembrance verses, with the exact same examples cited in the 'No Individual Memory' prose section.",
+      "chosen_heading": "No Individual Memory",
+      "current_heading": "No Individual Memory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Zichronos vs. Pikdonos",
+    "candidates": [
+      "Zichronos vs. Pikdonos",
+      "Sarah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rabbi Yosei and Rabbi Yehuda about whether pikdonot count as zichronot, which is precisely what the 'Zichronos vs. Pikdonos' section discusses.",
+      "chosen_heading": "Zichronos vs. Pikdonos",
+      "current_heading": "Zichronos vs. Pikdonos",
+      "moved": false
+    }
+  }
+]

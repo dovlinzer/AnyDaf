@@ -58,8 +58,8 @@
           "timestamp": "07:47"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Clarification of 'Olat Ish' Exclusions and the Principle of Personal Versus Communal Offerings",
@@ -87,7 +87,7 @@
           "timestamp": "14:47"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -116,7 +116,7 @@
           "timestamp": "28:11"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -145,7 +145,7 @@
           "timestamp": "32:27"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -174,7 +174,7 @@
           "timestamp": "33:29"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -246,7 +246,7 @@
           "timestamp": "49:40"
         }
       ],
-      "sefaria_index": 36,
+      "sefaria_index": 35,
       "matched": true
     }
   ],
@@ -550,5 +550,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "31:11",
+  "amud_b_micro_title": "Ish Inclusivity",
+  "shiur_start_daf": 103,
+  "shiur_start_amud": "a"
 }

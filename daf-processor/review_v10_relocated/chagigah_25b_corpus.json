@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Priest Livelihood Policy",
+    "candidates": [
+      "Pressing Season Trust",
+      "Priest Livelihood Policy",
+      "Wine vs. Grain Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita contradiction about leaving unpressed olives for a poor kohen, and Rav Nachman's early/late harvest resolution with Rav Adda's follow-up \u2014 are precisely the content described in the 'Priest Livelihood Policy' prose, which explicitly summarizes this contradiction and its resolution.",
+      "chosen_heading": "Priest Livelihood Policy",
+      "current_heading": "Priest Livelihood Policy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Wine vs. Grain Vessels",
+    "candidates": [
+      "Wine vs. Grain Vessels",
+      "Judea-Galilee Split",
+      "Unified Baraita Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's geographic argument about the Galilee and Abaye's objection via the baraita about Transjordan and Galilee being like Judea \u2014 exactly what the 'Wine vs. Grain Vessels' prose describes in detail.",
+      "chosen_heading": "Wine vs. Grain Vessels",
+      "current_heading": "Wine vs. Grain Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Unified Baraita Rule",
+    "candidates": [
+      "Judea-Galilee Split",
+      "Unified Baraita Rule",
+      "Outside Season Ban",
+      "Heir Division Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'ella machvarta kedi-shani me-ikara' directly matches the prose of 'Unified Baraita Rule,' which explicitly quotes and explains this Aramaic conclusion as the gemara's final resolution favoring the original answer.",
+      "chosen_heading": "Unified Baraita Rule",
+      "current_heading": "Unified Baraita Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Heir Division Case",
+    "candidates": [
+      "Outside Season Ban",
+      "Heir Division Case",
+      "Bereira Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Outside Season Ban",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna about the post-season ban and Rav Sheshet's dilemma, which is precisely the content described in heading 0's prose about the outside-season ban and the question of whether a \u1e25aver who violated the rule may hold the barrel for the next pressing season.",
+      "second_heading": "Heir Division Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mishna about a \u1e25aver and am ha'aretz inheriting from their father, which is the proof-text Rav Sheshet cites, and its specific content \u2014 the heir division case \u2014 is exactly what heading 1's prose discusses in detail.",
+      "current_heading": "Heir Division Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Bereira Principle",
+    "candidates": [
+      "Bereira Principle",
+      "Burning Impure Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe exactly the cases the 'Bereira Principle' prose discusses \u2014 taking wine from different locations (permitted via bereira) and taking wet vs. dry or wheat vs. barley (prohibited as an exchange) \u2014 matching that section's content precisely.",
+      "chosen_heading": "Bereira Principle",
+      "current_heading": "Bereira Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Burning Impure Terumah",
+    "candidates": [
+      "Burning Impure Terumah",
+      "Purity: Clear Pressing",
+      "Blowing Path Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Burning Impure Terumah' prose: the baraita about burning wet teruma, and the subsequent gemara questions about waiting for the next winepress season or pilgrimage festival, with their answers about produce lacking a pressing season or spoiling before the festival.",
+      "chosen_heading": "Burning Impure Terumah",
+      "current_heading": "Burning Impure Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Blowing Path Leniency",
+    "candidates": [
+      "Purity: Clear Pressing",
+      "Blowing Path Leniency",
+      "Pre-Trodden Path",
+      "Karet vs. Death Rationale"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Blowing Path Leniency",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 introduce the mishna about examining for osei Pesach vs. teruma and explain the blowing-through-beit-haperas mechanism, which matches exactly the 'Blowing Path Leniency' prose.",
+      "second_heading": "Pre-Trodden Path",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Ulla's ruling about a pre-trodden beit haperas being tahor and the karet rationale, which matches the 'Pre-Trodden Path' section's prose about she-nidash and the trodden-path leniency.",
+      "current_heading": "Blowing Path Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Karet vs. Death Rationale",
+    "candidates": [
+      "Pre-Trodden Path",
+      "Karet vs. Death Rationale",
+      "Pesach-Terumah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the principle of 'he'emidu divreihem bimkom mitah' regarding teruma, which is the exact topic discussed in the 'Karet vs. Death Rationale' prose section.",
+      "chosen_heading": "Karet vs. Death Rationale",
+      "current_heading": "Karet vs. Death Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Pesach-Terumah Status",
+    "candidates": [
+      "Pesach-Terumah Status",
+      "Unified Status Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents only the initial dilemma and the two opposing opinions (Ulla vs. Rabba bar Ulla), which corresponds exactly to the 'Pesach-Terumah Status' section's prose about the question being raised; the elder's resolution and proof from the mishnah belong under 'Unified Status Resolution'.",
+      "chosen_heading": "Pesach-Terumah Status",
+      "current_heading": "Pesach-Terumah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Unified Status Resolution",
+    "candidates": [
+      "Unified Status Resolution",
+      "Seventy-Day Prior Belief",
+      "Kodesh vs. Terumah Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts the elder's intervention telling Rabba bar Ulla not to dispute Ulla, citing the mishnah about a revi'it of kodesh as proof that believability extends across categories \u2014 exactly what the 'Unified Status Resolution' prose describes in detail.",
+      "chosen_heading": "Unified Status Resolution",
+      "current_heading": "Unified Status Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Kodesh vs. Terumah Mix",
+    "candidates": [
+      "Seventy-Day Prior Belief",
+      "Kodesh vs. Terumah Mix",
+      "Libation Intention Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the baraita about flasks, the gemara's resolution distinguishing empty kodesh flasks and full terumah flasks during pressing, and the challenge from 'meduma'ot' resolved by Rabbi \u1e24iyya's school \u2014 exactly matching the prose of candidate 1 ('Kodesh vs. Terumah Mix').",
+      "chosen_heading": "Kodesh vs. Terumah Mix",
+      "current_heading": "Kodesh vs. Terumah Mix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Libation Intention Status",
+    "candidates": [
+      "Libation Intention Status",
+      "Vessels Declared Kodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about meduma applying to kodesh and the school of Rabbi Ilai's answer about tevel kept pure for nesakhim \u2014 exactly what the current section's prose discusses.",
+      "chosen_heading": "Libation Intention Status",
+      "current_heading": "Libation Intention Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Vessels Declared Kodesh",
+    "candidates": [
+      "Vessels Declared Kodesh",
+      "Jerusalem Pottery Policy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the seventy-day period before the winepress (gitot) season, which directly relates to the pressing season context discussed in the 'Vessels Declared Kodesh' prose about the winepress period and its preparations, not the Jerusalem pottery policy.",
+      "chosen_heading": "Vessels Declared Kodesh",
+      "current_heading": "Vessels Declared Kodesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Jerusalem Pottery Policy",
+    "candidates": [
+      "Jerusalem Pottery Policy",
+      "Modi'in Geography Rule",
+      "Modi'in: Direction Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the Modi'im geography rule and the potter illustration, and the current heading 'Jerusalem Pottery Policy' with its prose directly discusses this exact content \u2014 the leniency for pottery vessels from within Modi'im, the rationale about Jerusalem's dependence on outside pottery, and the believability policy.",
+      "chosen_heading": "Jerusalem Pottery Policy",
+      "current_heading": "Jerusalem Pottery Policy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Modi'in: Direction Impact",
+    "candidates": [
+      "Modi'in Geography Rule",
+      "Modi'in: Direction Impact",
+      "Small Vessel Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the directional rule for Modi'in itself (ke-lifnim vs. ke-lachutz based on direction of travel) and Abaye's inference from the mishnah \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Modi'in: Direction Impact",
+      "current_heading": "Modi'in: Direction Impact",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Small Vessel Limitation",
+    "candidates": [
+      "Small Vessel Limitation",
+      "Pure Vessel-Impure Liquid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tanna's ruling about small earthenware vessels for kodesh and the Resh Lakish/Rabbi Yochanan dispute about one-hand vs. two-hand size, which is precisely what the 'Small Vessel Limitation' prose describes.",
+      "chosen_heading": "Small Vessel Limitation",
+      "current_heading": "Small Vessel Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Pure Vessel-Impure Liquid",
+    "candidates": [
+      "Pure Vessel-Impure Liquid",
+      "Jerusalem-Festival Trust",
+      "Tax Collector Supervision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Reish Lakish/Rabbi Yochanan dispute about empty vs. full vessels and Rava's concession about liquids being impure while vessels remain pure, which is precisely what the prose under 'Pure Vessel-Impure Liquid' describes in detail.",
+      "chosen_heading": "Pure Vessel-Impure Liquid",
+      "current_heading": "Pure Vessel-Impure Liquid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tax Collector Supervision",
+    "candidates": [
+      "Jerusalem-Festival Trust",
+      "Tax Collector Supervision",
+      "Gentile Supervisor Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text that introduces tax collectors and thieves being believed about what they touched, which is precisely what the 'Tax Collector Supervision' prose discusses as its opening subject matter.",
+      "chosen_heading": "Tax Collector Supervision",
+      "current_heading": "Tax Collector Supervision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Gentile Supervisor Effect",
+    "candidates": [
+      "Gentile Supervisor Effect",
+      "Repentant Thieves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya about why a gentile's presence affects the tax collectors' credibility \u2014 item 1 raises the contradiction and resolves it by distinguishing gentile-present vs. absent cases, and item 2 explains the mechanism (fear of the gentile or fear of the government), which is precisely what the 'Gentile Supervisor Effect' prose discusses.",
+      "chosen_heading": "Gentile Supervisor Effect",
+      "current_heading": "Gentile Supervisor Effect",
+      "moved": false
+    }
+  }
+]

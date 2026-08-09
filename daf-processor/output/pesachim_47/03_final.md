@@ -1,12 +1,9 @@
-# Pesachim 47 — Daf Yomi Shiur
-
+[DAF:47a]
 ## Challah b'Tumah
 
-### Opening
 
-> **Hebrew/Aramaic:** לֹא זֶה הוּא חָמֵץ שֶׁמּוּזְהָרִין עָלָיו בְּבַל יֵרָאֶה וּבְבַל יִמָּצֵא. אֶלָּא: מַפְרִישָׁתָהּ וּמַנִּיחָתָהּ עַד הָעֶרֶב, וְאִם הֶחְמִיצָה — הֶחְמִיצָה.
->
-> **Translation:** **This is not the leavened bread about which we are warned** with the prohibitions: **It shall not be seen, and: It shall not be found.** These prohibitions do not apply because the *ḥalla* does not actually belong to the owner of the dough; it is instead considered to be consecrated property. **Rather, she should separate** the *ḥalla* **and leave it until the evening; and if it becomes leavened,** then **it will become leavened,** but this is of no concern.
+
+### Opening
 
 Today's daf is 47, and we pick up at the very last line of 46b — literally the final three words. The broader context is a *mishna* that asks the question of *keitzad mafrishin challah b'tumah*: how does one separate *challah* from a *tamei* dough on the *yom tov* of Pesach, when one faces a seemingly inescapable bind? One cannot bake the *challah* because it is *tamei* and one will not eat it. One cannot leave it unbaked because it will become *chametz*. And one cannot simply burn it, because burning things unnecessarily on *yom tov* is itself prohibited.
 
@@ -18,27 +15,17 @@ The *mishna* records a three-way debate about how to resolve this dilemma. One o
 
 ## Rava v. Rav Chisda
 
-### Ho'il Principle
 
-> **Hebrew/Aramaic:** אִיתְּמַר: הָאוֹפֶה מִיּוֹם טוֹב לְחוֹל, רַב חִסְדָּא אָמַר: לוֹקֶה, רַבָּה אָמַר: אֵינוֹ לוֹקֶה.
->
-> **Translation:** **It was stated** that the *amora'im* disagree with regard to **one who bakes** bread on **a Festival** day **for** use during **the week. Rav Ḥisda said: He is flogged** because he has desecrated the Festival. **Rabba said: He is not flogged.**
+
+### Ho'il Principle
 
 The question Rava and Rav Chisda are debating is whether one who bakes on *yom tov* for a weekday purpose actually incurs lashes. Prima facie, it would seem that he should, since the biblical dispensation of *ochel nefesh* — the license to perform food-related labor on *yom tov* — applies only when one is cooking for the sake of *yom tov* itself. Nevertheless, Rava maintains that such a person does not receive lashes. His reasoning is the principle of *ho'il*: since theoretically, if guests were to arrive unexpectedly, the food one cooked would serve *yom tov* purposes, the cooking retains at least a hypothetical *yom tov* character. It is a type of cooking that *could* serve the day, even if that was not the cook's actual intent.
 
 ### Intent Requirement
 
-> **Hebrew/Aramaic:** רַב חִסְדָּא אָמַר לוֹקֶה: לָא אָמְרִינַן ״הוֹאִיל וּמִיקַּלְעִי לֵיהּ אוֹרְחִים — חֲזֵי לֵיהּ״. רַבָּה אָמַר אֵינוֹ לוֹקֶה: אָמְרִינַן ״הוֹאִיל״.
->
-> **Translation:** **Rav Ḥisda said** that **he is flogged** because **we do not say** that **since guests** may **happen** to visit **him,** the bread is **fit for him** on the Festival day itself. **Rabba said** that **he is not flogged** because **we say** that **since** guests may visit him, the bread is considered to have been baked for use on the Festival day itself. Even if guests do not actually come, he has not desecrated the Festival.
-
 Rav Chisda disagrees sharply. In his view, intent is decisive. The cooking must specifically be for a *yom tov* purpose; absent that intent, one does receive lashes. The disagreement between them thus turns on whether a hypothetical permissibility — the mere possibility that the food could have been eaten today — is sufficient to license the act.
 
 ### Eruv Tavshilin
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבָּה לְרַב חִסְדָּא: לְדִידָךְ דְּאָמְרַתְּ לָא אָמְרִינַן ״הוֹאִיל״, הֵיאַךְ אוֹפִין מִיּוֹם טוֹב לְשַׁבָּת? אֲמַר לֵיהּ: מִשּׁוּם עֵירוּבֵי תַּבְשִׁילִין.
->
-> **Translation:** **Rabba said to Rav Ḥisda: According to you, who said that we do not say** the principle: **Since, etc., how** is it permitted to **bake** on **a Festival for Shabbat? He said to him:** One is permitted to bake on a Festival for Shabbat **due to the joining of cooked foods [*eiruv tavshilin*]** instituted by the Sages.
 
 This raises a natural question: how, according to Rav Chisda, does one cook from *yom tov* to *Shabbos*? Rav Chisda's answer is that cooking from *yom tov* to *Shabbos* is fundamentally permitted — one has a license to do so — and the institution of *eruv tavshilin* is what gives practical expression to that license. The prohibition Rav Chisda is targeting is specifically the case of cooking on *yom tov* for a plain weekday, where there is no such license and where intent to cook only for that weekday purpose would render one liable. With this backdrop established, the *gemara* proceeds with its analysis.
 
@@ -46,15 +33,17 @@ This raises a natural question: how, according to Rav Chisda, does one cook from
 
 ## Lechem HaPanim
 
-### Showbread Challenge
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: לֶחֶם הַפָּנִים נֶאֱכָל לְתִשְׁעָה, לַעֲשָׂרָה, וּלְאַחַד עָשָׂר — לֹא פָּחוֹת וְלֹא יוֹתֵר. כֵּיצַד? כְּדַרְכּוֹ, לְתִשְׁעָה. נֶאֱפֶה בְּעֶרֶב שַׁבָּת — נֶאֱכָל בְּשַׁבָּת לְתִשְׁעָה. חָל יוֹם טוֹב לִהְיוֹת בְּעֶרֶב שַׁבָּת — נֶאֱכָל לְשַׁבָּת לַעֲשָׂרָה. שְׁנֵי יָמִים טוֹבִים שֶׁל רֹאשׁ הַשָּׁנָה — נֶאֱכָל לְשַׁבָּת לְאַחַד עָשָׂר, לְפִי שֶׁאֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַיּוֹם טוֹב.
->
-> **Translation:** may be **eaten on the ninth, tenth,** or **eleventh** days from when it is baked, **no less and no more. How so? In its** usual **manner** it is eaten **on the ninth** day after it was baked, as **it is baked on Shabbat eve** and **it is eaten on** the next **Shabbat, on the ninth** day from when it was baked. If **a Festival occurs on Shabbat eve,** the shewbread is not baked on the Festival day but rather on Thursday, the eve of the Festival. Consequently, **it is eaten on Shabbat** of the next week, **on the tenth** day from when it was baked. If the **two Festival days of Rosh HaShana** preceded Shabbat, the shewbread is baked on Wednesday, Rosh HaShana eve, and **it is eaten on** the next **Shabbat, on the eleventh** day from when it was baked, **because** baking the shewbread **does not override Shabbat or a Festival.**
+
+### Showbread Challenge
 
 Rava now challenges Rav Chisda with a *braita* concerning *lechem hapanim*, the showbread that was placed on the *shulchan* in the *Beis HaMikdash* each week. The *lechem hapanim* was baked and then replaced every *Shabbos*, sitting on the table for an entire week before being eaten the following *Shabbos*. The *braita* teaches that the *lechem hapanim* could be eaten on the ninth, tenth, or eleventh day from its baking — no fewer than nine and no more than eleven — and explains the three possibilities as corresponding to different calendar configurations.
 
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: לֶחֶם הַפָּנִים נֶאֱכָל לְתִשְׁעָה, לַעֲשָׂרָה, וּלְאַחַד עָשָׂר — לֹא פָּחוֹת וְלֹא יוֹתֵר. כֵּיצַד? כְּדַרְכּוֹ, לְתִשְׁעָה. נֶאֱפֶה בְּעֶרֶב שַׁבָּת — נֶאֱכָל בְּשַׁבָּת לְתִשְׁעָה. חָל יוֹם טוֹב לִהְיוֹת בְּעֶרֶב שַׁבָּת — נֶאֱכָל לְשַׁבָּת לַעֲשָׂרָה. שְׁנֵי יָמִים טוֹבִים שֶׁל רֹאשׁ הַשָּׁנָה — נֶאֱכָל לְשַׁבָּת לְאַחַד עָשָׂר, לְפִי שֶׁאֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַיּוֹם טוֹב. וְאִי אָמְרַתְּ צוֹרְכֵי שַׁבָּת נַעֲשִׂין בְּיוֹם טוֹב, אַמַּאי לָא דָּחֵי יוֹם טוֹב?
+> **Translation:** Rabba **raised** another **objection to him: The shewbread** in the Temple may be **eaten on the ninth, tenth,** or **eleventh** days from when it is baked, **no less and no more. How so? In its** usual **manner** it is eaten **on the ninth** day after it was baked, as **it is baked on Shabbat eve** and **it is eaten on** the next **Shabbat, on the ninth** day from when it was baked. If **a Festival occurs on Shabbat eve,** the shewbread is not baked on the Festival day but rather on Thursday, the eve of the Festival. Consequently, **it is eaten on Shabbat** of the next week, **on the tenth** day from when it was baked. If the **two Festival days of Rosh HaShana** preceded Shabbat, the shewbread is baked on Wednesday, Rosh HaShana eve, and **it is eaten on** the next **Shabbat, on the eleventh** day from when it was baked, **because** baking the shewbread **does not override Shabbat or a Festival.** Rabba asks: **If you say** that whatever one **needs** for **Shabbat may be done on a Festival, why doesn’t** the baking of this bread **override the Festival?** Since the shewbread is eaten on Shabbat, it should be considered food that one is permitted to prepare during the Festival.
+
 ### Day Counting
+
 
 In a normal week, the *lechem hapanim* would be baked on *erev Shabbos* — that is, Friday — and eaten the following *Shabbos*. Counting inclusively from the day of baking, this makes Friday day one and the following *Shabbos* day nine. That is the scenario of *ne'echal l'tishah* — eaten on day nine.
 
@@ -80,11 +69,9 @@ One might ask further: if the baking took place on Wednesday, it was done in ant
 
 ## Shvut Debate
 
-### No Override
 
-> **Hebrew/Aramaic:** לְפִי שֶׁאֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַיּוֹם טוֹב. וְאִי אָמְרַתְּ צוֹרְכֵי שַׁבָּת נַעֲשִׂין בְּיוֹם טוֹב, אַמַּאי לָא דָּחֵי יוֹם טוֹב?
->
-> **Translation:** **because** baking the shewbread **does not override Shabbat or a Festival.** Rabba asks: **If you say** that whatever one **needs** for **Shabbat may be done on a Festival, why doesn't** the baking of this bread **override the Festival?** Since the shewbread is eaten on Shabbat, it should be considered food that one is permitted to prepare during the Festival.
+
+### No Override
 
 The *braita* continues: *she-eina dokha lo es ha-Shabbat v'lo es Yom Tov* — the *lechem hapanim* cannot override either *Shabbos* or *yom tov*. This is the premise from which Rava now launches his challenge to Rav Chisda.
 
@@ -96,28 +83,26 @@ Rava's point is that his own position — *ho'il* — actually explains the *bra
 
 ### Shvut Distinction
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: שְׁבוּת קְרוֹבָה — הִתִּירוּ. שְׁבוּת רְחוֹקָה — לֹא הִתִּירוּ.
->
-> **Translation:** Rav Ḥisda **said to him: They permitted** one to override **the rabbinic decree** in the Temple only with regard to baking on a Festival for the **proximate** Shabbat, i.e., Shabbat that immediately follows the Festival. However, **they did not permit** one to override **the rabbinic decree** to prepare for **a distant** Shabbat, namely Shabbat of the next week.
-
 Rav Chisda's response is: *shvut krovah hitiru, shvut rechoka lo hitiru* — the Rabbis permitted the nearby *shvut*, but not the distant *shvut*. Rav Chisda holds that cooking from *yom tov* to *Shabbos* is, at the biblical level, permitted. Rabbinically, it requires an *eruv tavshilin* or some recognized rabbinic license. But even granting that the biblical principle would allow cooking from *yom tov* for any *Shabbos* — even a distant one — the Rabbis only permitted this when the *Shabbos* is immediately adjacent to the *yom tov*. They did not permit it when the *Shabbos* is separated by many days.
 
 Two ways of understanding this rabbinic distinction present themselves. One could say that when cooking for the next day and that day is *Shabbos*, the special character of the act is evident — one will not mistake it for cooking from *yom tov* to a weekday. But if one is cooking on *yom tov* for a *Shabbos* eight days later, the purpose is far less transparent, and one might come to cook for an ordinary weekday under the same logic. Alternatively, one could frame it more conceptually: the Rabbis allowed the license to cook from *yom tov* to *Shabbos* only when the two days function as an extended *yom tov*, a single extended period of sanctity. When there is a temporal gap between them, the days cannot be seen as one continuous entity, and the rabbinic license does not apply.
 
 Either way, Rav Chisda's position is: you are right in principle — there is a fundamental license to cook from *yom tov* for *Shabbos*. But rabbinically, that license was granted only for the immediately adjacent day, not for a distant *Shabbos*.
 
-### Rabban Gamliel
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: שְׁבוּת קְרוֹבָה — הִתִּירוּ. שְׁבוּת רְחוֹקָה — לֹא הִתִּירוּ.
+> **Translation:** Rav Ḥisda **said to him: They permitted** one to override **the rabbinic decree** in the Temple only with regard to baking on a Festival for the **proximate** Shabbat, i.e., Shabbat that immediately follows the Festival. However, **they did not permit** one to override **the rabbinic decree** to prepare for **a distant** Shabbat, namely Shabbat of the next week.
 
-> **Hebrew/Aramaic:** וּלְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, דְּאָמַר מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן הַסְּגָן: דּוֹחֶה אֶת יוֹם טוֹב וְאֵינוֹ דּוֹחֶה אֶת יוֹם צוֹם, מַאי אִיכָּא לְמֵימַר?
->
+> **Hebrew/Aramaic:** וּלְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, דְּאָמַר מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן הַסְּגָן: דּוֹחֶה אֶת יוֹם טוֹב וְאֵינוֹ דּוֹחֶה אֶת יוֹם צוֹם, מַאי אִיכָּא לְמֵימַר?
 > **Translation:** The Gemara asks: **And according to Rabban Shimon ben Gamliel,** who **said in the name of Rabbi Shimon, son of the deputy** High Priest, that the baking of the shewbread **overrides a Festival but does not override the fast day** of Yom Kippur, **what can be said?** Apparently, the issue is the subject of a tannaitic dispute between Rabbi Shimon, son of the deputy High Priest, who contends that it is permissible to prepare the shewbread during a Festival, and the Rabbis, who prohibit it.
 
-The *gemara* then introduces the position of Rabban Gamliel, who cites Rabbi Shimon ben ha-Sgan and who actually holds — unlike the anonymous first opinion — that one *may* bake the *lechem hapanim* on *yom tov* for a *Shabbos* a week later. He would permit it even for a *Shabbos* that is not adjacent. However, he would *not* permit baking it on Yom Kippur, just as one would not bake on *Shabbos* itself for a future *Shabbos*.
+### Rabban Gamliel
+
+
+The *gemara* then introduces the position of Rabban Gamliel, who cites Rabbi Shimon ben ha-Sgan and who actually holds — unlike the anonymous first opinion — that one *may* bake the *lechem hapanim* on *yom tov* for a *Shabbos* a week later. He would permit it even for a *Shabbos* that is not adjacent. However, he would *not* permit baking it on Yom Kippur, just as one would not bake on *Shabbos* itself for a future *Shabbos*. It is worth noting that Rabbi Shimon ben ha-Sgan held a position of direct institutional authority in the Temple — and if this ruling was ever applied in practice, his testimony carries particular weight as someone who would have known firsthand. That said, this does raise an interesting broader question about the status of historical evidence within a *halakhic* debate. In any case, Rabban Gamliel's position now sharply presses the framework Rav Chisda has laid out: if the Rabbis permitted only the nearby *shvut* and not the distant one, how does one account for Rabban Gamliel's explicit license to bake for a *Shabbos* a full week away? The answer, as the *gemara* will make clear in the next stage of the discussion, is that Rabban Gamliel simply holds *shvut rechoka nami hitiru* — that the Rabbis permitted even the distant *shvut*.
 
 ### Dispute Explained
 
-> **Hebrew/Aramaic:** בְּהָא פְּלִיגִי: מָר סָבַר שְׁבוּת קְרוֹבָה הִתִּירוּ, שְׁבוּת רְחוֹקָה לֹא הִתִּירוּ. וּמָר סָבַר: שְׁבוּת רְחוֹקָה נָמֵי הִתִּירוּ.
->
+> **Hebrew/Aramaic:** בְּהָא פְּלִיגִי: מָר סָבַר שְׁבוּת קְרוֹבָה הִתִּירוּ, שְׁבוּת רְחוֹקָה לֹא הִתִּירוּ. וּמָר סָבַר: שְׁבוּת רְחוֹקָה נָמֵי הִתִּירוּ.
 > **Translation:** The Gemara explains that they do not dispute the basic principle. Rather, **this is** the point over which **they disagree: One Sage,** i.e., the Rabbis, **holds** that **they permitted** one to override **the rabbinic decree** only to prepare for the **proximate** Shabbat, but **they did not permit** one to override **the rabbinic decree** to prepare for a **distant** Shabbat. Therefore, the baking of the shewbread does not override the Festival. **And one Sage,** Rabbi Shimon, **holds** that **they also permitted** one to override **the rabbinic decree** in order to prepare for **a distant** Shabbat.
 
 The *gemara* identifies the crux of the dispute clearly: the first opinion holds *shvut krovah hitiru, shvut rechoka lo hitiru* — the rabbinic dispensation applies only to adjacent days. Rabban Gamliel holds *shvut rechoka nami hitiru* — even a distant *shvut* was permitted.
@@ -128,11 +113,12 @@ Returning now to the overall debate: Rava maintains that the problem with baking
 
 ## Shtei HaLechem
 
+
+
 ### Shtei HaLechem Braita
 
-> **Hebrew/Aramaic:** מֵתִיב רַב מָרִי: שְׁתֵּי הַלֶּחֶם אֵינָן נֶאֱכָלוֹת לֹא פָּחוֹת מִשְּׁנַיִם, וְלֹא יוֹתֵר עַל שְׁלֹשָׁה. כֵּיצַד? נֶאֱפוֹת עֶרֶב יוֹם טוֹב — נֶאֱכָלוֹת לְיוֹם טוֹב לִשְׁנַיִם. חָל יוֹם טוֹב לִהְיוֹת אַחַר הַשַּׁבָּת — נֶאֱכָלוֹת לְיוֹם טוֹב לִשְׁלֹשָׁה, לְפִי שֶׁאֵינָהּ דּוֹחָה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַיּוֹם טוֹב.
->
-> **Translation:** **Rav Mari raised an objection: The two loaves** of bread that are brought as a communal offering on *Shavuot* **are eaten** by the priests **no sooner than the second** day **and no later than the third** day from when they are baked. **How so? They are** generally **baked** on **the eve of the Festival and eaten on the Festival, the second** day from their baking. If **the Festival occurs after Shabbat,** they are baked on Friday and **they are eaten on the third** day from the baking, **because** the baking of the two loaves **does not override Shabbat or the Festival.**
+> **Hebrew/Aramaic:** מֵתִיב רַב מָרִי: שְׁתֵּי הַלֶּחֶם אֵינָן נֶאֱכָלוֹת לֹא פָּחוֹת מִשְּׁנַיִם, וְלֹא יוֹתֵר עַל שְׁלֹשָׁה. כֵּיצַד? נֶאֱפוֹת עֶרֶב יוֹם טוֹב — נֶאֱכָלוֹת לְיוֹם טוֹב לִשְׁנַיִם. חָל יוֹם טוֹב לִהְיוֹת אַחַר הַשַּׁבָּת — נֶאֱכָלוֹת לְיוֹם טוֹב לִשְׁלֹשָׁה, לְפִי שֶׁאֵינָהּ דּוֹחָה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת הַיּוֹם טוֹב. וְאִי אָמְרַתְּ צוֹרְכֵי שַׁבָּת נַעֲשִׂין בְּיוֹם טוֹב, הַשְׁתָּא דְּשַׁבָּת בְּיוֹם טוֹב שְׁרֵי, דְּיוֹם טוֹב בְּיוֹם טוֹב מִיבַּעְיָא?!
+> **Translation:** **Rav Mari raised an objection: The two loaves** of bread that are brought as a communal offering on *Shavuot* **are eaten** by the priests **no sooner than the second** day **and no later than the third** day from when they are baked. **How so? They are** generally **baked** on **the eve of the Festival and eaten on the Festival, the second** day from their baking. If **the Festival occurs after Shabbat,** they are baked on Friday and **they are eaten on the third** day from the baking, **because** the baking of the two loaves **does not override Shabbat or the Festival.** Rav Mari asks: **If you say** that whatever one **needs** for **Shabbat may be done on a Festival, now that it is permitted** to engage in the necessary preparations for **Shabbat on a Festival, is it necessary** to mention that it is permitted to bake **for the Festival** itself **on the Festival?** As such, why doesn’t the baking of the two loaves override the Festival?
 
 Rav Mari now raises a question from a different *braita*, this one concerning the *shtei halechem* — the two loaves brought as a communal offering on Shavuos. The *braita* states: *einam ne'echalos lo pachos mishnayim v'lo yoseir al shlosha* — the two loaves may not be eaten fewer than two days or more than three days from the day they were baked. How do these scenarios arise?
 
@@ -140,13 +126,10 @@ In a normal case, the loaves are baked on *erev Shavuos* and brought and eaten o
 
 ### Korban Issue
 
-> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ צוֹרְכֵי שַׁבָּת נַעֲשִׂין בְּיוֹם טוֹב, הַשְׁתָּא דְּשַׁבָּת בְּיוֹם טוֹב שְׁרֵי, דְּיוֹם טוֹב בְּיוֹם טוֹב מִיבַּעְיָא?!
->
-> **Translation:** Rav Mari asks: **If you say** that whatever one **needs** for **Shabbat may be done on a Festival, now that it is permitted** to engage in the necessary preparations for **Shabbat on a Festival, is it necessary** to mention that it is permitted to bake **for the Festival** itself **on the Festival?** As such, why doesn't the baking of the two loaves override the Festival?
-
 The *braita*'s statement that one cannot bake the *shtei halechem* on *yom tov* requires explanation. Unlike *lechem hapanim*, which is to be eaten a full week later and thus cannot be hypothetically eaten today, the *shtei halechem* are eaten on *yom tov* itself. One might therefore have expected that they *could* be baked on *yom tov* — if not for *Shabbos*, then at least for *yom tov* that same day.
 
 ### Rashi Explanation
+
 
 Rashi's explanation runs as follows. According to Rava's *ho'il* principle, one may bake on *yom tov* only when the food is, at least theoretically, edible immediately upon coming out of the oven. The *shtei halechem*, however, cannot be eaten the moment they are baked, even if baked on *yom tov* itself. To eat them, one must first *shecht* the accompanying *korban*. Until the *korban* is brought, the loaves remain forbidden. At the very moment of baking, they are not theoretically edible — there is a further required act standing between baking and eating. Therefore, according to Rava, *ho'il* cannot justify baking them on *yom tov*.
 
@@ -154,21 +137,21 @@ But Rav Chisda presents a difficulty. He maintains that the license to cook on *
 
 ### Lachem Exclusion
 
-> **Hebrew/Aramaic:** שָׁאנֵי הָתָם דְּאָמַר קְרָא ״לָכֶם״ — ״לָכֶם״ וְלֹא לְגָבוֹהַּ.
->
-> **Translation:** The Gemara answers: **It is different there,** in the case of the two loaves, **as the verse says:** "No kind of labor shall be done on them, save that which every man must eat, that only may be done **for you"** (Exodus 12:16). This indicates that it is permitted to cook and bake only **"for you,"** i.e., for human consumption, **and not for the** One **above,** namely for the Temple service.
+> **Hebrew/Aramaic:** שָׁאנֵי הָתָם דְּאָמַר קְרָא ״לָכֶם״ — ״לָכֶם״ וְלֹא לְגָבוֹהַּ.
+> **Translation:** The Gemara answers: **It is different there,** in the case of the two loaves, **as the verse says:** “No kind of labor shall be done on them, save that which every man must eat, that only may be done **for you”** (Exodus 12:16). This indicates that it is permitted to cook and bake only **“for you,”** i.e., for human consumption, **and not for the** One **above,** namely for the Temple service.
 
 The *gemara*'s answer is: *shani hatam d'amar kra lachem* — this case is different because the Torah says, *ach asher ye'achel l'chol nefesh hu levado ye'aseh lachem* — food preparation on *yom tov* must be done *lachem*, for yourselves. *Lachem v'lo l'Gavoha* — for your own purposes, not for the purpose of bringing a sacrifice to God. The *shtei halechem* are fundamentally a *korban*. Even though the *kohanim* ultimately eat the meat, the primary act is one of bringing an offering. The eating is derivative; the *korban* is primary. Therefore, even though the license to cook for a future *Shabbos* would in principle apply here, baking the *shtei halechem* falls outside that license entirely because the act is not one of preparing food for oneself — it is an act of offering a *korban*.
 
 ### Rabban Shimon View
 
-> **Hebrew/Aramaic:** וּלְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, דְּאָמַר מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן הַסְּגָן: דּוֹחֶה אֶת יוֹם טוֹב, מַאי אִיכָּא לְמֵימַר? סָבַר לַהּ כְּאַבָּא שָׁאוּל, דְּאָמַר: ״לָכֶם״ — ״לָכֶם״ וְלֹא לְגוֹיִם.
->
+> **Hebrew/Aramaic:** וּלְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, דְּאָמַר מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן הַסְּגָן: דּוֹחֶה אֶת יוֹם טוֹב, מַאי אִיכָּא לְמֵימַר? סָבַר לַהּ כְּאַבָּא שָׁאוּל, דְּאָמַר: ״לָכֶם״ — ״לָכֶם״ וְלֹא לְגוֹיִם.
 > **Translation:** The Gemara asks: **And according to Rabban Shimon ben Gamliel, who said in the name of Rabbi Shimon, son of the deputy** High Priest, that baking the shewbread **overrides the Festival, what can be said?** How does he understand the term: For you? The Gemara answers: **He holds in accordance with** the opinion of **Abba Shaul, who said** that this verse should be understood in the following manner: Cooking and baking are permitted **for you, and not for gentiles;** for the sake of the Temple service, however, they are permitted.
 
 However, Rabban Shimon ben Gamliel, citing Rabbi Shimon ben ha-Sgan, permits baking the *shtei halechem* on *yom tov* for Shavuos. How does he navigate the *lachem* exclusion? The *gemara* answers: *savar lah k'Abba Shaul* — he holds in accordance with Abba Shaul, who interprets *lachem* on *yom tov* as excluding only cooking done for non-Jews. Cooking for the sake of God — for a *korban* — is not excluded, both because it represents an elevated purpose and because, ultimately, the *kohanim* do eat from the *shulchan Gavoha* and thus derive personal benefit, however indirect.
 
 This parallels the famous dispute between Beit Shammai and Beit Hillel regarding the bringing of *shelamim* on *yom tov*. One winds up eating all the meat of the *shelamim*, yet the fundamental act is one of bringing a *korban*; the eating of the meat is only a derivative benefit. The same logic applies here: whether the derivative personal benefit is sufficient to bring the baking within the scope of *lachem* is precisely what Rabban Shimon ben Gamliel and the *chachamim* disagree about.
+
+It is worth noting one further wrinkle. One might ask: could *ho'il* itself rescue the baking of the *shtei halechem* on Rabban Shimon ben Gamliel's view — the argument that since a guest could theoretically arrive and eat it now, the bread counts as theoretically edible at the time of baking? The answer is no, because the *shtei halechem* acquires a degree of *kedushah* in the course of being baked — enough that it cannot simply be detached from the *korban* and consumed immediately, yet not enough that it may be eaten until the *korban* itself is brought. It is, in other words, *kodesh* enough to block eating now, but the full sanctity that would allow it to be eaten is not completed until after the *shechitah*. This means there is no moment at which a guest could simply eat the bread as though it were ordinary food, so *ho'il* cannot be invoked on its behalf. Rabban Shimon ben Gamliel's permission thus rests entirely on the *lachem* argument — that cooking for a *korban* from which one ultimately benefits falls within the license — and not on any application of *ho'il*.
 
 To summarize the overall picture: Rava says the problem with both *lechem hapanim* and *shtei halechem* is that *ho'il* is unavailable — neither can be theoretically eaten right now. According to Rav Chisda's position, which does not require present theoretical edibility, one would in principle expect both to be permissible. The *gemara* limits Rav Chisda's license by the *lachem* exclusion — baking may not be done as an act of bringing a *korban* rather than as an act of preparing one's own food. And Rabban Shimon ben Gamliel, following Abba Shaul, holds that cooking for the sake of a *korban* from which one ultimately benefits is still within the *lachem* license.
 
@@ -176,23 +159,25 @@ To summarize the overall picture: Rava says the problem with both *lechem hapani
 
 ## Plowing Challenge
 
-### Challenge Sent
 
-> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב חִסְדָּא לְרַבָּה בְּיַד רַב אַחָא בַּר רַב הוּנָא: מִי אָמְרִינַן ״הוֹאִיל״? וְהָא תְּנַן: יֵשׁ חוֹרֵשׁ תֶּלֶם אֶחָד וְחַיָּיבִין עָלֶיהָ מִשּׁוּם שְׁמוֹנָה לָאוִין: הַחוֹרֵשׁ בְּשׁוֹר וַחֲמוֹר, וְהֵן מוּקְדָּשִׁים, וְכִלְאַיִם בַּכֶּרֶם,
->
-> **Translation:** **Rav Ḥisda sent** a question **to Rabba with Rav Aḥa bar Rav Huna: Do we say** the principle: **Since, etc.? Didn't we learn** in a mishna: **There is** a case in which one **plows one furrow and is liable for** violating **eight prohibitions** with this single act? The mishna explains that this applies to **one who plows with an ox and a donkey,** thereby violating the prohibition: "You shall not plow with an ox and a donkey together" (Deuteronomy 22:10), **and they were consecrated,** in which case plowing with them constitutes misuse of consecrated property. If his plowing aids the growth of **food crops in a vineyard,** he has transgressed a third prohibition.
+
+[DAF:47b]
+### Challenge Sent
 
 Having established Rava's position through multiple exchanges, the *gemara* now turns the tables. Rav Chisda sends a challenge to Rava — not directly, but *biyad Rav Acha bar Rav Huna*, through the hand of Rav Acha bar Rav Huna, as though dispatching a question in what amounted to a correspondence debate. The question Rav Chisda sends is aimed squarely at the *ho'il* principle.
 
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב חִסְדָּא לְרַבָּה בְּיַד רַב אַחָא בַּר רַב הוּנָא: מִי אָמְרִינַן ״הוֹאִיל״? וְהָא תְּנַן: יֵשׁ חוֹרֵשׁ תֶּלֶם אֶחָד וְחַיָּיבִין עָלֶיהָ מִשּׁוּם שְׁמוֹנָה לָאוִין: הַחוֹרֵשׁ בְּשׁוֹר וַחֲמוֹר, וְהֵן מוּקְדָּשִׁים, וְכִלְאַיִם בַּכֶּרֶם,
+> **Translation:** **Rav Ḥisda sent** a question **to Rabba with Rav Aḥa bar Rav Huna: Do we say** the principle: **Since, etc.? Didn’t we learn** in a mishna: **There is** a case in which one **plows one furrow and is liable for** violating **eight prohibitions** with this single act? The mishna explains that this applies to **one who plows with an ox and a donkey,** thereby violating the prohibition: “You shall not plow with an ox and a donkey together” (Deuteronomy 22:10), **and they were consecrated,** in which case plowing with them constitutes misuse of consecrated property. If his plowing aids the growth of **food crops in a vineyard,** he has transgressed a third prohibition.
+
+> **Hebrew/Aramaic:** וּשְׁבִיעִית, בְּיוֹם טוֹב, כֹּהֵן וְנָזִיר אַבֵּית הַטּוּמְאָה. וְאִי אָמְרִינַן ״הוֹאִיל״ — אַחֲרִישָׁה לָא לִיחַיַּיב, הוֹאִיל וְחָזֵי לְכִיסּוּי דַּם צִיפּוֹר.
+> **Translation:** **And** he is plowing during the **Sabbatical** year, when agricultural labor is prohibited, **on a Festival.** Additionally, the person plowing is **a priest and a nazirite,** and he is plowing **a place of ritual impurity,** i.e., a burial site. It is prohibited for a priest and a nazirite to become impure by walking over the burial spot of a corpse. Therefore, the one plowing commits two transgressions simply by traversing the field. **And if we say** the principle: **Since, etc., he should not be liable for plowing** on a Festival, **since** the dirt he loosens **is fit for covering the blood of a bird.** One who slaughters a bird or a non-domesticated animal is required by Torah law to cover the blood. Since it is possible that one will need to slaughter many such animals or birds and will not have enough dirt to cover their blood, his plowing may end up facilitating covering the blood. Therefore, it should not be considered a prohibited labor on the Festival.
+
 ### Eight Prohibitions
+
 
 The vehicle for the challenge is a *mishna* in Makkos, which discusses how a single act can accumulate multiple violations. The *mishna* states: *yesh choresh telem echad* — one who makes a single furrow can violate eight prohibitions simultaneously. What are the eight? The person is plowing with an ox and a donkey yoked together — that is one, the prohibition of *lo tacharosh beshor uvachamor yachdav*. The animals happen to be sanctified *kodashim* — two, the prohibition of *me'ilah* (misappropriating Temple property). Rashi adds a third: there is a distinct prohibition against performing labor with animals that are *kodshei korban* — animals sanctified as sacrificial offerings. The donkey, though not itself a valid *korban*, can be sanctified for its monetary value as *bedek habayis*, constituting *me'ilah* as a separate violation — and that is the third, the way Rashi reads it. The field they are plowing happens to contain mixed seeds and grapevines — four, the prohibition of *kilayim be'cherem*. It happens to be *shemittah* — five. It happens to be *yom tov* — six. And the one doing the plowing happens to be both a *kohen* and a *nazir*, and he is plowing in a graveyard — seven for the *kohen*'s entry into a graveyard, and eight for the *nazir*'s. One might note that the last two are somewhat less organically connected to the act of plowing than the first six, since they depend on who the person is and where he happens to be rather than on the act itself — but those are the eight.
 
 ### Ho'il to Plowing
-
-> **Hebrew/Aramaic:** וּשְׁבִיעִית, בְּיוֹם טוֹב, כֹּהֵן וְנָזִיר אַבֵּית הַטּוּמְאָה. וְאִי אָמְרִינַן ״הוֹאִיל״ — אַחֲרִישָׁה לָא לִיחַיַּיב, הוֹאִיל וְחָזֵי לְכִיסּוּי דַּם צִיפּוֹר.
->
-> **Translation:** **And** he is plowing during the **Sabbatical** year, when agricultural labor is prohibited, **on a Festival.** Additionally, the person plowing is **a priest and a nazirite,** and he is plowing **a place of ritual impurity,** i.e., a burial site. It is prohibited for a priest and a nazirite to become impure by walking over the burial spot of a corpse. Therefore, the one plowing commits two transgressions simply by traversing the field. **And if we say** the principle: **Since, etc., he should not be liable for plowing** on a Festival, **since** the dirt he loosens **is fit for covering the blood of a bird.** One who slaughters a bird or a non-domesticated animal is required by Torah law to cover the blood. Since it is possible that one will need to slaughter many such animals or birds and will not have enough dirt to cover their blood, his plowing may end up facilitating covering the blood. Therefore, it should not be considered a prohibited labor on the Festival.
 
 The challenge now becomes clear. If Rava says one does not receive lashes for cooking on *yom tov* for the weekday because of *ho'il* — because theoretically the food could be eaten today — then by the same logic, should one not be exempt from lashes for plowing on *yom tov*? After all, the plowing, too, might have a theoretically valid *yom tov* purpose.
 
@@ -200,33 +185,38 @@ The challenge now becomes clear. If Rava says one does not receive lashes for co
 
 What would that purpose be? The dirt produced by the plowing could theoretically be used for *kisuy hadam* — covering the blood of a slaughtered bird, which is a *mitzvah* requiring loose earth. If one could point to this hypothetical use, then by Rava's logic — *ho'il v'chazi lechisuy dam tzippor* — the *ho'il* principle would render the act of plowing non-actionable, and the sixth lash, for plowing on *yom tov*, should not apply.
 
-This challenge is, in truth, a surprising one. Rava's *ho'il* principle was articulated specifically in the context of cooking — an act that is explicitly licensed on *yom tov* by *ach asher ye'achel l'chol nefesh*, and which requires only a justifying *yom tov* purpose to be fully permitted. The point of *ho'il* was that the hypothetical possibility of eating counts as a sufficient *yom tov* purpose to justify the cooking. That is very different from plowing, which is a fundamentally prohibited *melachah* on *yom tov*, and from which a far-fetched alternate scenario — covering bird blood — is being invoked to escape liability. These are conceptually quite different cases. Nevertheless, Rav Chisda understood Rava's principle more broadly — as saying that whenever a hypothetical scenario could justify an act, one cannot receive lashes for it — and challenged him accordingly.
+This challenge is, in truth, a surprising one. Rava's *ho'il* principle was articulated specifically in the context of cooking — an act that is explicitly licensed on *yom tov* by *ach asher ye'achel l'chol nefesh*, and which requires only a justifying *yom tov* purpose to be fully permitted. The point of *ho'il* was that the hypothetical possibility of eating counts as a sufficient *yom tov* purpose to justify the cooking. That is very different from plowing, which is a fundamentally prohibited *melachah* on *yom tov*, and from which a far-fetched alternate scenario — covering bird blood — is being invoked to escape liability. These are conceptually quite different cases. And there is an additional wrinkle worth flagging: even granting the theoretical scenario, it is not obvious that one would ever be permitted to plow in the first place in order to obtain dirt for *kisuy hadam*. Covering a bird's blood is a separate *mitzvah* — it has nothing to do with eating — and *yom tov* carries both a *lo ta'asei* and an *asei*, so it is not straightforward that an *asei doche lo ta'asei* argument could work here. Tosafos raises this difficulty and notes it is far from resolved. Indeed, the very first *mishna* in *Beitzah* deals with the question of having pre-prepared ashes or loose earth available precisely because one may not simply go and produce such dirt on *yom tov* to cover blood. So the challenge to Rava operates on two levels: not only is plowing a fundamentally different category of act than cooking, but the hypothetical *yom tov* use being proposed — plowing for the sake of *kisuy hadam* — is itself of doubtful validity. Nevertheless, Rav Chisda understood Rava's principle more broadly — as saying that whenever a hypothetical scenario could justify an act, one cannot receive lashes for it — and challenged him accordingly.
 
 ---
 
 ## Resolving Plowing
 
+
+
 ### Clumps Answer
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא בַּר שְׁמוּאֵל: בַּאֲבָנִים מְקוּרְזָלוֹת.
->
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא בַּר שְׁמוּאֵל: בַּאֲבָנִים מְקוּרְזָלוֹת.
 > **Translation:** The Gemara answers that **Rav Pappa bar Shmuel said:** The case is one in which a person plowed **sharp stones,** i.e., clods of dirt that have hardened and are unfit to be used to cover blood.
 
 The *gemara* does not record Rava answering this himself. Instead, other *amora'im* step in to answer on his behalf, which itself is telling. Rav Papa bar Shmuel offers the first answer: the case involves *b'vanei mekurzalos* — hard, compacted clumps of earth. When one plows through such soil, what is produced are clumps, not loose dirt. Compacted clumps cannot be used for *kisuy hadam*, which requires loose earth. Therefore, *ho'il* does not apply — there is no hypothetical valid use for this particular dirt — and lashes for plowing on *yom tov* stand.
 
 ### Back and Forth
 
-> **Hebrew/Aramaic:** רְאוּיוֹת לְכוֹתְשָׁן! וּכְתִישָׁה בְּיוֹם טוֹב מִי שְׁרֵי?! רְאוּיוֹת לְכוֹתְשָׁן כִּלְאַחַר יָד! בְּצוּנְמָא.
->
-> **Translation:** The Gemara asks: Aren't these clods of dirt **fit** to be **crushed** and used to cover blood? The Gemara responds: **Is crushing permitted on a Festival?** The Gemara counters: But they are **fit to be crushed in an unusual manner,** which is not prohibited by Torah law. The Gemara answers: The case is one in which a person plowed **hard,** rocky **soil,** which cannot be crushed.
-
 The *gemara* immediately challenges this. The clumps could be ground up — *re'uyos lekotesh* — so what difference does it make that they are hard? To that, the *gemara* responds: grinding up dirt on *yom tov* is itself forbidden — *v'ketisha b'Yom Tov mi shari?* — so the clumps cannot realistically be made usable. But the *gemara* pushes back: one could grind them up with a *shinui*, an irregular technique — *re'uyos lekotesh kela'achar yad* — and a *shinui* renders the act permissible. So the answer of hard clumps fails.
+
+The *gemara* then proposes: the case involves *tzunma* — actual rocks. Rocks certainly cannot be used for *kisuy hadam*. But the *gemara* rejects this as well, for a different reason: if one is plowing through rocks, how is one simultaneously violating *kilayim* and *shevi'is*? One cannot plant in rocks. So the *gemara* revises the picture: *tzunma mil'ala v'afar tichucha mil'mata* — rocks on the upper layer and loose, tillable soil below. One is plowing in order to reach the plantable soil beneath. But now the problem returns: if there is loose soil beneath, one could use that very soil for *kisuy hadam*, and *ho'il* would seem to apply after all.
+
+> **Hebrew/Aramaic:** רְאוּיוֹת לְכוֹתְשָׁן! וּכְתִישָׁה בְּיוֹם טוֹב מִי שְׁרֵי?! רְאוּיוֹת לְכוֹתְשָׁן כִּלְאַחַר יָד! בְּצוּנְמָא.
+> **Translation:** The Gemara asks: Aren’t these clods of dirt **fit** to be **crushed** and used to cover blood? The Gemara responds: **Is crushing permitted on a Festival?** The Gemara counters: But they are **fit to be crushed in an unusual manner,** which is not prohibited by Torah law. The Gemara answers: The case is one in which a person plowed **hard,** rocky **soil,** which cannot be crushed.
+
+> **Hebrew/Aramaic:** צוּנְמָא בַּר זְרִיעָה?! צוּנְמָא מִלְּמַעְלָה, וְעָפָר תִּיחוּחַ מִלְּמַטָּה. וְתִיפּוֹק לֵיהּ מִשּׁוּם עָפָר תִּיחוּחַ!
+> **Translation:** The Gemara asks: **Is hard soil fit for planting?** The case under discussion is one in which a person was preparing the ground in order to plant food crops in a vineyard. The Gemara answers: In this case, **there was hard soil above and** fertile, **loose soil underneath,** into which seeds could be planted. The Gemara rejects this answer: **Derive** that the act of plowing would be permitted in that case **due to** the **loose soil,** which is suitable for covering blood.
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר מָר בַּר רַב אָשֵׁי: בְּטִינָא. וְטִינָא בַּר זְרִיעָה הוּא?! בִּמְתוּנְתָּא.
+> **Translation:** **Rather, Mar bar Rav Ashi said:** The case is one in which a person plowed **mud,** which is not fit for covering blood. The Gemara asks rhetorically: **Is mud fit for planting?** The Gemara answers: The case is one in which a person plowed **moist earth,** which is suitable for planting but which cannot be used to cover blood.
 
 ### Mud Resolution
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר מָר בַּר רַב אָשֵׁי: בְּטִינָא. וְטִינָא בַּר זְרִיעָה הוּא?! בִּמְתוּנְתָּא.
->
-> **Translation:** **Rather, Mar bar Rav Ashi said:** The case is one in which a person plowed **mud,** which is not fit for covering blood. The Gemara asks rhetorically: **Is mud fit for planting?** The Gemara answers: The case is one in which a person plowed **moist earth,** which is suitable for planting but which cannot be used to cover blood.
 
 The final resolution, offered by Mar bar Rav Ashi, is: *bitina* — the soil in question is mud. It is wet enough and thick enough that it can be planted in, satisfying the conditions for *kilayim* and *shevi'is* violations, but it is not usable for *kisuy hadam*, which requires dry, loose earth. Mud, by its nature, cannot cover blood in the manner required. This is the case in which *ho'il* is unavailable, and lashes for plowing on *yom tov* accordingly stand.
 
@@ -236,19 +226,17 @@ It must be acknowledged that this entire exchange is analytically strange, and f
 
 ## Gid HaNasheh
 
-### Braita Overview
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: הַמְבַשֵּׁל גִּיד הַנָּשֶׁה בְּחָלָב בְּיוֹם טוֹב וְאוֹכְלוֹ — לוֹקֶה חָמֵשׁ. לוֹקֶה מִשּׁוּם מְבַשֵּׁל גִּיד בְּיוֹם טוֹב, וְלוֹקֶה מִשּׁוּם אוֹכֵל גִּיד, וְלוֹקֶה מִשּׁוּם מְבַשֵּׁל בָּשָׂר בְּחָלָב, וְלוֹקֶה מִשּׁוּם אוֹכֵל בָּשָׂר בְּחָלָב, וְלוֹקֶה מִשּׁוּם הַבְעָרָה.
->
-> **Translation:** **Abaye raised an objection to** Rabba's acceptance of the principle: Since, etc. **One who cooks the sciatic nerve in milk on a Festival and eats it is flogged** for **five** distinct prohibitions. How so? **He is flogged due to** the prohibition of **cooking the** sciatic **nerve on a Festival,** which is prohibited because the sciatic nerve is unfit for consumption; **and he is flogged due to** the prohibition of **eating** the sciatic **nerve,** which is explicitly prohibited by the Torah; **and he is flogged due to** the prohibition of **cooking meat in milk; and he is flogged due to** the prohibition of **eating meat** cooked **in milk; and** lastly, **he is flogged due to** the prohibition of **kindling** a fire unnecessarily on a Festival.
+
+### Braita Overview
 
 Abaye now poses a further challenge, framed similarly to Rav Chisda's plowing question but more intuitively grounded in the *halakha* of *yom tov*. A *braita* states: *ha'mevashel gid hanasheh b'chalav b'yom tov v'ochlo lokeh chameish* — one who cooks the *gid hanasheh* in milk on *yom tov* and eats it receives five lashes. The enumeration is as follows. Cooking on *yom tov* for something one is forbidden to eat constitutes cooking *lo l'tzorech* — without a valid *yom tov* purpose — that is one lash. Cooking *gid hanasheh* in milk constitutes cooking *basar b'chalav* — two. Eating *gid hanasheh* — three. Eating *basar b'chalav* — four. And making the fire — *havarah* — five.
 
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: הַמְבַשֵּׁל גִּיד הַנָּשֶׁה בְּחָלָב בְּיוֹם טוֹב וְאוֹכְלוֹ — לוֹקֶה חָמֵשׁ. לוֹקֶה מִשּׁוּם מְבַשֵּׁל גִּיד בְּיוֹם טוֹב, וְלוֹקֶה מִשּׁוּם אוֹכֵל גִּיד, וְלוֹקֶה מִשּׁוּם מְבַשֵּׁל בָּשָׂר בְּחָלָב, וְלוֹקֶה מִשּׁוּם אוֹכֵל בָּשָׂר בְּחָלָב, וְלוֹקֶה מִשּׁוּם הַבְעָרָה. וְאִי אָמְרִינַן ״הוֹאִיל״ — אַהַבְעָרָה לָא לִיחַיַּיב, הוֹאִיל דַּחֲזֵי לֵיהּ לְצׇרְכּוֹ!
+> **Translation:** **Abaye raised an objection to** Rabba’s acceptance of the principle: Since, etc. **One who cooks the sciatic nerve in milk on a Festival and eats it is flogged** for **five** distinct prohibitions. How so? **He is flogged due to** the prohibition of **cooking the** sciatic **nerve on a Festival,** which is prohibited because the sciatic nerve is unfit for consumption; **and he is flogged due to** the prohibition of **eating** the sciatic **nerve,** which is explicitly prohibited by the Torah; **and he is flogged due to** the prohibition of **cooking meat in milk; and he is flogged due to** the prohibition of **eating meat** cooked **in milk; and** lastly, **he is flogged due to** the prohibition of **kindling** a fire unnecessarily on a Festival. **And if we say** the principle: **Since, etc., he should not be liable for kindling** a fire unnecessarily, **since** the fire **is fit for** use in attending to his legitimate Festival needs, e.g., cooking permitted foods.
+
 ### Fire Question
 
-> **Hebrew/Aramaic:** וְאִי אָמְרִינַן ״הוֹאִיל״ — אַהַבְעָרָה לָא לִיחַיַּיב, הוֹאִיל דַּחֲזֵי לֵיהּ לְצׇרְכּוֹ!
->
-> **Translation:** **And if we say** the principle: **Since, etc., he should not be liable for kindling** a fire unnecessarily, **since** the fire **is fit for** use in attending to his legitimate Festival needs, e.g., cooking permitted foods.
 
 Here is Abaye's challenge. If *ho'il* grants a license for cooking even when one's intent was not for *yom tov*, the same *ho'il* should surely apply to making the fire — *havarah*. The fire, after all, is usable for any legitimate purpose on *yom tov*. Even if this particular fire was made to cook a forbidden mixture, theoretically the fire itself could serve any number of *yom tov* needs. This is, in fact, a much more intuitive version of Rav Chisda's challenge, because fire on *yom tov* is not simply analogous to cooking — it has an even more basic and fundamental license. The prohibition of *melacha* on *yom tov* applies to fire; yet we know from other *sugyot* that fire and carrying enjoy something close to a blanket license on *yom tov*, and cooking a somewhat more conditional but still broadly applicable license. The *gemara* here treats all three as formally parallel, each requiring some *yom tov* justification, with *ho'il* supplying that justification wherever a hypothetical use is available.
 
@@ -256,21 +244,25 @@ It is worth pausing to note the broader significance. Among the *melachos*, fire
 
 ### Fire Answer
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אַפֵּיק הַבְעָרָה, וְעַיֵּיל גִּיד הַנָּשֶׁה שֶׁל נְבֵילָה.
->
-> **Translation:** Rabba **said to him: Remove** the prohibition of **kindling** a fire from this list **and add** in its place the prohibition of eating **a sciatic nerve from an animal carcass** that was not properly slaughtered.
-
 Given the strength of that question, the *gemara* accepts it. One should indeed not receive lashes for *havarah*; *ho'il* applies. Accordingly, the fifth lash in the *braita* cannot stand as stated. The fire violation must be removed from the list and replaced with something else.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אַפֵּיק הַבְעָרָה, וְעַיֵּיל גִּיד הַנָּשֶׁה שֶׁל נְבֵילָה.
+> **Translation:** Rabba **said to him: Remove** the prohibition of **kindling** a fire from this list **and add** the prohibition of eating **a sciatic nerve from an animal carcass** that was not properly slaughtered.
+
+> **Hebrew/Aramaic:** וְהָתָנֵי רַבִּי חִיָּיא: לוֹקִין שְׁתַּיִם עַל אֲכִילָתוֹ, וְשָׁלֹשׁ עַל בִּישּׁוּלוֹ. וְאִי אִיתָא, שָׁלֹשׁ עַל אֲכִילָתוֹ מִיבְּעֵי לֵיהּ!
+> **Translation:** Abaye responded: **Didn’t Rabbi Ḥiyya teach** with regard to this mishna: He **is flogged twice for his eating,** as he violated the prohibitions of eating the sciatic nerve and eating meat cooked in milk, **and three** times **for his cooking,** as he violated the prohibitions of kindling a fire, cooking on a Festival, and cooking meat in milk? **And if it is** so, that the case is one in which the sciatic nerve was taken from an animal carcass, Rabbi Ḥiyya **should have** stated that he is flogged **three** times **for his eating,** as he violated the prohibitions of eating a sciatic nerve, eating meat cooked in milk, and eating an animal carcass.
+
+> **Hebrew/Aramaic:** אֶלָּא: אַפֵּיק הַבְעָרָה, וְעַיֵּיל עֲצֵי מוּקְצֶה.
+> **Translation:** **Rather,** Rabba said: **Remove** the prohibition of **kindling** a fire **and add** in its place the prohibition of using **wood** that has been **set aside** from use on the Festival.
 
 ---
 
 ## Muktza Wood
 
+
+
 ### Muktza Proposal
 
-> **Hebrew/Aramaic:** וְהָתָנֵי רַבִּי חִיָּיא: לוֹקִין שְׁתַּיִם עַל אֲכִילָתוֹ, וְשָׁלֹשׁ עַל בִּישּׁוּלוֹ. וְאִי אִיתָא, שָׁלֹשׁ עַל אֲכִילָתוֹ מִיבְּעֵי לֵיהּ!
->
-> **Translation:** Abaye responded: **Didn't Rabbi Ḥiyya teach** with regard to this mishna: He **is flogged twice for his eating,** as he violated the prohibitions of eating the sciatic nerve and eating meat cooked in milk, **and three** times **for his cooking,** as he violated the prohibitions of kindling a fire, cooking on a Festival, and cooking meat in milk? **And if it is** so, that the case is one in which the sciatic nerve was taken from an animal carcass, Rabbi Ḥiyya **should have** stated that he is flogged **three** times **for his eating,** as he violated the prohibitions of eating a sciatic nerve, eating meat cooked in milk, and eating an animal carcass.
 
 The proposal is to amend the *braita* text: *eipcha havarah v'ayeil gid hanasheh shel neveila* — perhaps take out the fire violation and replace it with a different element. One option floated is to change the *gid hanasheh* to one from an animal that was not properly *shechted* — a *neveila* — so that eating it constitutes an additional violation of eating *neveila*, making up the fifth lash through eating rather than cooking. But this is rejected, because Rabbi Chiya's version of the *braita* specifies that two of the five lashes are for eating and three are for cooking-related acts. If we replace the fire violation with a *neveila* violation, we would have three lashes for eating and two for cooking, which contradicts Rabbi Chiya's breakdown.
 
@@ -278,13 +270,13 @@ Therefore, the replacement must be a cooking-related violation, not an eating on
 
 ### Muktza Biblical
 
-> **Hebrew/Aramaic:** אֶלָּא: אַפֵּיק הַבְעָרָה, וְעַיֵּיל עֲצֵי מוּקְצֶה. וּמוּקְצֶה דְּאוֹרָיְיתָא הוּא? אֲמַר לֵיהּ: אִין, דִּכְתִיב: ״וְהָיָה בַּיּוֹם הַשִּׁשִּׁי וְהֵכִינוּ אֵת אֲשֶׁר יָבִיאוּ״. וְאַזְהָרָתַהּ מֵהָכָא, מִ״לֹּא תַעֲשֶׂה כׇל מְלָאכָה״.
->
-> **Translation:** **Rather,** Rabba said: **Remove** the prohibition of **kindling** a fire **and add** in its place the prohibition of using **wood** that has been **set aside** from use on the Festival. The Gemara asks: Is the prohibition against utilizing **set-aside** material prohibited **by Torah** law, such that a person is flogged for violating this prohibition? **He said to him: Yes, as it is written: "And it shall come to pass on the sixth day that they shall prepare that which they bring in"** (Exodus 16:5). This verse teaches that anything that has not been prepared before the Festival is considered to be set-aside, and it is prohibited to utilize it. This verse indicates that utilizing set-aside objects is prohibited; however, it does not formulate this prohibition as a negative commandment. Therefore, the Gemara adds that **the warning** indicating that it is a negative commandment **is from here: "You shall not perform any labor"** (Exodus 20:10). This general statement pertaining to Shabbat includes utilizing objects that were not set aside for use before Shabbat.
+> **Hebrew/Aramaic:** וּמוּקְצֶה דְּאוֹרָיְיתָא הוּא? אֲמַר לֵיהּ: אִין, דִּכְתִיב: ״וְהָיָה בַּיּוֹם הַשִּׁשִּׁי וְהֵכִינוּ אֵת אֲשֶׁר יָבִיאוּ״. וְאַזְהָרָתַהּ מֵהָכָא, מִ״לֹּא תַעֲשֶׂה כׇל מְלָאכָה״.
+> **Translation:** The Gemara asks: Is the prohibition against utilizing **set-aside** material prohibited **by Torah** law, such that a person is flogged for violating this prohibition? **He said to him: Yes, as it is written: “And it shall come to pass on the sixth day that they shall prepare that which they bring in”** (Exodus 16:5). This verse teaches that anything that has not been prepared before the Festival is considered to be set-aside, and it is prohibited to utilize it. This verse indicates that utilizing set-aside objects is prohibited; however, it does not formulate this prohibition as a negative commandment. Therefore, the Gemara adds that **the warning** indicating that it is a negative commandment **is from here: “You shall not perform any labor”** (Exodus 20:10). This general statement pertaining to Shabbat includes utilizing objects that were not set aside for use before Shabbat.
 
 This proposal immediately raises the objection: *v'muktza de'oraisa hu?* — is *muktza* a biblical prohibition? One only receives lashes for biblical violations. The *gemara* answers: yes, there is a biblical basis. The verse says *v'haya bayom ha-shishi v'heichinu es asher yaviu* — on the sixth day they shall prepare that which they bring. This is the principle of *hachana de-Rabbah* discussed in the beginning of Beitzah: the idea that what is to be used on *Shabbos* or *yom tov* must be prepared beforehand, and that using items that were not set aside — *muktza* — is biblically disfavored. The *azharah*, the biblical warning, comes from *lo ta'aseh kol melachah* — the general prohibition of labor.
 
 ### No Permitted Use
+
 
 But if *muktza* is biblical, one might then ask: why does *ho'il* not apply to *muktza* as well? The answer is that *ho'il* requires at least a theoretical scenario in which the act would be permitted. A fire made from non-*muktza* wood is theoretically permissible at any moment. But *muktza* wood has no theoretical permitted use on *yom tov* — there is simply no scenario in which one can legitimately use it. Therefore, *ho'il* is unavailable, and the violation stands.
 
@@ -292,35 +284,43 @@ But if *muktza* is biblical, one might then ask: why does *ho'il* not apply to *
 
 ## Muktza Biblical?
 
+
+
 ### Gazelle Question
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ, וְהָא אַתְּ הוּא דַּאֲמַרְתְּ: בְּעַאי מִינֵּיהּ מֵרַב חִסְדָּא, וְאָמְרִי לַהּ: בְּעַאי מִינֵּיהּ מֵרַב הוּנָא: הֵבִיא שֶׂה מֵאֲפָר, וּשְׁחָטוֹ תָּמִיד בְּיוֹם טוֹב, מַהוּ?
->
-> **Translation:** Abaye **said to him: Wasn't it you who said: I raised a dilemma before Rav Ḥisda, and some say** the correct version is: **I raised a dilemma before Rav Huna:** If **one brought a lamb from the meadow,** and the lamb is therefore set-aside because it was not designated for use before the Festival, **and he slaughtered it** as the **daily** offering **on a Festival, what is** the *halakha*? Is it permissible to offer this sacrifice?
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ, וְהָא אַתְּ הוּא דַּאֲמַרְתְּ: בְּעַאי מִינֵּיהּ מֵרַב חִסְדָּא, וְאָמְרִי לַהּ: בְּעַאי מִינֵּיהּ מֵרַב הוּנָא: הֵבִיא שֶׂה מֵאֲפָר, וּשְׁחָטוֹ תָּמִיד בְּיוֹם טוֹב, מַהוּ?
+> **Translation:** Abaye **said to him: Wasn’t it you who said: I raised a dilemma before Rav Ḥisda, and some say** the correct version is: **I raised a dilemma before Rav Huna:** If **one brought a lamb from the meadow,** and the lamb is therefore set-aside because it was not designated for use before the Festival, **and he slaughtered it** as the **daily** offering **on a Festival, what is** the *halakha*? Is it permissible to offer this sacrifice?
 
 The claim that *muktza* is biblical is immediately subjected to scrutiny. The *gemara* recalls a question that was posed to Rav Chisda — or according to some versions, to Rav Huna: if one caught a wild gazelle on *yom tov* and wanted to bring it as a *korban tamid*, may one do so, given that the animal was *muktza* — it was grazing in the wilderness when *yom tov* began?
 
 ### Mutar Principle
 
-> **Hebrew/Aramaic:** וְעוֹד, הָא אַתְּ הוּא דְּאָמְרַתְּ: חִילּוּק מְלָאכוֹת לְשַׁבָּת, וְאֵין חִילּוּק מְלָאכוֹת לְיוֹם טוֹב.
->
-> **Translation:** **And furthermore,** Abaye said to Rabba: It is possible to challenge your interpretation of the *baraita* from a different angle. **Wasn't it you who said,** as cited in tractate *Makkot*, that there is **division of labors** with regard **to Shabbat,** and therefore one is required to bring two sin-offerings if he performed two prohibited labors of different primary categories in one lapse of awareness, or if he performed a prohibited labor twice, during separate lapses of awareness; however, there is **no division of labors** with regard **to a Festival,** and therefore one is not punished with multiple floggings for performing multiple prohibited labors? Consequently, how could one be liable for multiple floggings for the prohibition of utilizing set-aside materials and for cooking the sciatic nerve on a Festival?
+> **Hebrew/Aramaic:** וְאַתְּ אָמְרַתְּ לַן, (אָמַר לִי) עֲלַהּ: ״שֶׂה״ — וְלֹא הַבְּכוֹר.
+> **Translation:** **And you said to us: He said to me about this** issue that the answer can be derived from a verse in Ezekiel pertaining to communal offerings. The verse states: “And one lamb of the flock, out of two hundred, from the well-watered pastures of Israel” (Ezekiel 45:15). This verse is expounded in the following manner: The word **lamb** is referring to either a male or female lamb, **but not to a firstborn,** as that status applies only to male sheep.
 
-The answer given draws on a *pasuk* in Yechezkel: *seh achat min ha-tzon min ha-masa'yim mimashke Yisrael* — one sheep from the flock, from two hundred, from the drink of Israel. This verse in Yechezkel is expounded to teach several conditions for valid *korbanos*: not a *bechor*, not *ma'aser*, not a *pilgas* (an animal between one year and thirteen months old, between the category of *seh* and *ayil*). And the concluding phrase, *mimashke Yisrael*, is read as *min ha-mutar le-Yisrael* — from that which is permitted to Israel. *Mikan amru ein mevi'in nesachim min ha-tevel* — just as one cannot bring wine that is *tevel* (untithed) as a libation offering, so one cannot bring as a *korban* anything that is intrinsically forbidden to eat.
+> **Hebrew/Aramaic:** ״אַחַת״ — וְלֹא מַעֲשֵׂר.
+> **Translation:** The word **one** indicates that a sacrifice may **not** be brought from the animal **tithe.** The lamb must be one that can stand alone. An animal designated as tithe is always part of a group, as it is the tenth animal to leave the pen; therefore, it cannot be offered as a communal offering.
+
+> **Hebrew/Aramaic:** ״מִן הַצֹּאן״ — וְלֹא הַפַּלְגָּס.
+> **Translation:** The expression: **Of the flock** indicates that only some animals of the flock may be offered, whereas one may **not** offer **a *palges*,** which is no longer a lamb but is not yet considered a ram.
+
+> **Hebrew/Aramaic:** ״מִן הַמָּאתַיִם״ — מִמּוֹתַר שְׁתֵּי מֵאוֹת שֶׁנִּשְׁתַּיְּירוּ בַּבּוֹר. מִכָּאן לְעׇרְלָה שֶׁבְּטֵילָה בְּמָאתַיִם.
+> **Translation:** The phrase: **Out of two hundred,** is expounded with regard to wine brought as a libation: **From the remaining two hundred** portions **that remain in the vat.** This is referring to a case where wine prohibited as produce grown during a tree or vine’s first three years [*orla*] is mixed with permitted wine. The *halakha* is that this wine mixture may be brought as a libation only if there is two hundred times more permitted wine than prohibited wine. **From here** it is derived **that *orla* is nullified in** a mixture of **two hundred.**
+
+> **Hebrew/Aramaic:** ״מִמַּשְׁקֵה יִשְׂרָאֵל״ — מִן הַמּוּתָּר לְיִשְׂרָאֵל. מִכָּאן אָמְרוּ: אֵין מְבִיאִין נְסָכִין מִן הַטֶּבֶל.
+> **Translation:** The phrase: **From the well-watered pastures of Israel,** means that sacrifices may be offered only **from that which is permitted to Israel. From here,** the Sages **stated: One** may **not offer libations from untithed produce [*tevel*],** since Jews are prohibited from eating *tevel*.
+
+The answer given draws on a *pasuk* in Yechezkel: *seh achat min ha-tzon min ha-masa'yim mimashke Yisrael* — one sheep from the flock, from two hundred, from the drink of Israel. This verse in Yechezkel is expounded to teach several conditions for valid *korbanos*: not a *bechor*, not *ma'aser*, not a *pilgas* (an animal between one year and thirteen months old, between the category of *seh* and *ayil*). The *pilgas* occupies an awkward in-between status — once an animal passes its first birthday it is no longer a *seh*, and yet it does not become a full *ayil* until it reaches a year and a month, meaning there is an entire month during which the animal cannot be brought as a *korban* at all. And the concluding phrase, *mimashke Yisrael*, is read as *min ha-mutar le-Yisrael* — from that which is permitted to Israel. *Mikan amru ein mevi'in nesachim min ha-tevel* — just as one cannot bring wine that is *tevel* (untithed) as a libation offering, so one cannot bring as a *korban* anything that is intrinsically forbidden to eat.
 
 ### Not Intrinsic
 
-> **Hebrew/Aramaic:** יָכוֹל לֹא יָבִיא מִן הַמּוּקְצֶה. אָמַרְתָּ: מָה טֶבֶל מְיוּחָד שֶׁאִיסּוּר גּוּפוֹ גָּרַם לוֹ — אַף כֹּל שֶׁאִיסּוּר גּוּפוֹ גָּרַם לוֹ. יָצָא מוּקְצֶה שֶׁאֵין אִיסּוּר גּוּפוֹ גָּרַם לוֹ, אֶלָּא אִיסּוּר דָּבָר אַחֵר גָּרַם לוֹ.
->
-> **Translation:** I **might** have thought that **one** may **not offer** an animal that is **set-aside** on Shabbat or during a Festival; therefore, **you** have **said: Just as *tevel* is unique in that its inherent prohibition caused it** to be prohibited for Jews to eat, **so too, anything whose inherent prohibition caused it** to be prohibited for Jews to eat is invalid as an offering. This **excludes** an animal that has been **set aside, which** does not have **an inherent prohibition** that **caused it** to be prohibited for eating; **rather, a different prohibition,** i.e., the prohibition of utilizing set-aside objects on Shabbat, **caused it** to be prohibited for eating.
-
 One might then ask: perhaps one also cannot bring a *korban* from an animal that is *muktza*? The answer given is no — the exclusion applies only when *issur gufo garam lo*, when the prohibition is intrinsic to the object itself, as with *tevel*, whose untithed status is an inherent legal disability. *Muktza*, by contrast, is an example of *issur davar acher garam lo* — the prohibition arises not from the animal itself but from an external circumstance, namely the fact that *Shabbos* or *yom tov* began while the animal was out in the wilderness. The animal itself is perfectly permissible; only the circumstance renders it *muktza*.
+
+> **Hebrew/Aramaic:** יָכוֹל לֹא יָבִיא מִן הַמּוּקְצֶה. אָמַרְתָּ: מָה טֶבֶל מְיוּחָד שֶׁאִיסּוּר גּוּפוֹ גָּרַם לוֹ — אַף כֹּל שֶׁאִיסּוּר גּוּפוֹ גָּרַם לוֹ. יָצָא מוּקְצֶה שֶׁאֵין אִיסּוּר גּוּפוֹ גָּרַם לוֹ, אֶלָּא אִיסּוּר דָּבָר אַחֵר גָּרַם לוֹ. וְאִי אָמְרַתְּ אִיסּוּר מוּקְצֶה דְּאוֹרָיְיתָא, מָה לִי אִיסּוּר גּוּפוֹ מָה לִי אִיסּוּר דָּבָר אַחֵר?
+> **Translation:** I **might** have thought that **one** may **not offer** an animal that is **set-aside** on Shabbat or during a Festival; therefore, **you** have **said: Just as *tevel* is unique in that its inherent prohibition caused it** to be prohibited for Jews to eat, **so too, anything whose inherent prohibition caused it** to be prohibited for Jews to eat is invalid as an offering. This **excludes** an animal that has been **set aside, which** does not have **an inherent prohibition** that **caused it** to be prohibited for eating; **rather, a different prohibition,** i.e., the prohibition of utilizing set-aside objects on Shabbat, **caused it** to be prohibited for eating. **And if you say the prohibition of** utilizing **set-aside** material **is by Torah** law, **what** difference is there **to me** if a food is **inherently prohibited; and what** difference is there **to me** if it is prohibited due to **a different prohibition?** If there is a distinction between these prohibitions, it must be that the prohibition of utilizing set-aside material is by rabbinic law, and therefore, like many other rabbinic decrees, it does not apply in the Temple.
 
 ### Not Like Tevel
 
-> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ אִיסּוּר מוּקְצֶה דְּאוֹרָיְיתָא, מָה לִי אִיסּוּר גּוּפוֹ מָה לִי אִיסּוּר דָּבָר אַחֵר?
->
-> **Translation:** **And if you say the prohibition of** utilizing **set-aside** material **is by Torah** law, **what** difference is there **to me** if a food is **inherently prohibited; and what** difference is there **to me** if it is prohibited due to **a different prohibition?** If there is a distinction between these prohibitions, it must be that the prohibition of utilizing set-aside material is by rabbinic law, and therefore, like many other rabbinic decrees, it does not apply in the Temple.
 
 But this distinction raises a sharp question. If *muktza* is truly a biblical prohibition, what difference does it make whether the prohibition is intrinsic or circumstantial? *Tevel* is forbidden; *muktza* is forbidden. Why should one be treated differently from the other when it comes to bringing a *korban*? The *gemara* presses this point: *v'i amarta issur muktza de'oraisa* — if *muktza* is really a biblical prohibition, then *mah li issur gufo, mah li issur davar acher* — what difference does it make whether the source of the prohibition is the object itself or the circumstances? Both are biblical prohibitions; both should disqualify a *korban* equally. The fact that one *can* bring a *korban* from a *muktza* animal therefore constitutes strong evidence that *muktza* is *not* a biblical prohibition at all.
 

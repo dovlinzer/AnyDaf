@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Tanna Kamma",
+    "candidates": [
+      "Levona Placement",
+      "Rambam vs Rashi",
+      "Separate vs Together",
+      "Tanna Kamma",
+      "Rabbi Yehuda",
+      "Kol Damo Gezeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's three-way debate about lehanniach, with item 1 giving the tanna kamma's position (divrei hakol kasher) and item 2 giving Rabbi Yehuda's position (divrei hakol pasul with the gezeira explanation), which is exactly what the 'Tanna Kamma' prose section describes as its content \u2014 the three-way debate clarifying the status of lehanniach.",
+      "chosen_heading": "Tanna Kamma",
+      "current_heading": "Tanna Kamma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Kol Damo Gezeira",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Kol Damo Gezeira",
+      "Rav Elazar",
+      "Repeated Kasher Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yehuda's baraita argument (item 1) and Rabbi Elazar's response to it (item 2), which together form the core content described under the 'Rabbi Yehuda' heading \u2014 that Rabbi Yehuda holds lehanniach is divrei hakol pasul, followed immediately by Rav Elazar's qualification of that position, exactly as the 'Rabbi Yehuda' prose describes the gemara's explanation of his reasoning.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Kol Damo Gezeira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Repeated Kasher Answers",
+    "candidates": [
+      "Rav Elazar",
+      "Repeated Kasher Answers",
+      "Rabbi Eliezer Dispute",
+      "Yosef's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita narrative of Yosef HaBavli repeatedly asking Rabbi Elazar ben Shammua about slaughtering with intent to leave blood until the next day and receiving 'kasher' answers, which is precisely what the 'Repeated Kasher Answers' prose section describes in detail.",
+      "chosen_heading": "Repeated Kasher Answers",
+      "current_heading": "Repeated Kasher Answers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Yosef's Explanation",
+    "candidates": [
+      "Rabbi Eliezer Dispute",
+      "Yosef's Explanation",
+      "Emotional Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Yosef's explanation of why he sought corroboration for Rabbi Yehuda's ruling and his gratitude at having his 'lost object' returned, which matches precisely the prose under 'Yosef's Explanation' (candidate 1), where the essay author explicates this exact exchange in detail.",
+      "chosen_heading": "Yosef's Explanation",
+      "current_heading": "Yosef's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Emotional Response",
+    "candidates": [
+      "Emotional Response",
+      "Transmission Resolved",
+      "Lost Object Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar ben Shamua's tearful emotional response and his praise of Torah scholars, which is precisely what the 'Emotional Response' section's prose discusses in detail.",
+      "chosen_heading": "Emotional Response",
+      "current_heading": "Emotional Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Lost Object Problem",
+    "candidates": [
+      "Transmission Resolved",
+      "Lost Object Problem",
+      "Explicit Divrei HaKol",
+      "Lo Yatzak",
+      "Lo Balal",
+      "Other Defects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous gemara dialectic about whether Rabbi Yehuda taught 'divrei hakol pasul' and what 'you have returned my lost object' means \u2014 exactly the content described in candidate 2 ('Explicit Divrei HaKol'), which discusses the gemara pushing toward the conclusion that Rabbi Yehuda claimed divrei hakol pasul and resolving the avedah problem via 'dehadar leh mishum paslus d'alma.'",
+      "chosen_heading": "Explicit Divrei HaKol",
+      "current_heading": "Lost Object Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Other Defects",
+    "candidates": [
+      "Explicit Divrei HaKol",
+      "Lo Yatzak",
+      "Lo Balal",
+      "Other Defects",
+      "Yetzika Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text that introduces the entire list of defects including lo yatzak, and the 'Lo Yatzak' section's prose explicitly describes this Mishna as presenting a list of procedural omissions, making it the natural home for this introductory Mishna text.",
+      "chosen_heading": "Lo Yatzak",
+      "current_heading": "Other Defects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Yetzika Required",
+    "candidates": [
+      "Other Defects",
+      "Yetzika Required",
+      "Non-Kohen Yetzika",
+      "Tosefta Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 1's prose describes: the Gemara's interrogation of 'lo yatzak,' the assumption that yetzika is me'akev, and the reinterpretation as a non-kohen performing it \u2014 all of which is the content of the 'Yetzika Required' section where it currently sits.",
+      "chosen_heading": "Yetzika Required",
+      "current_heading": "Yetzika Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Tosefta Support",
+    "candidates": [
+      "Non-Kohen Yetzika",
+      "Tosefta Support",
+      "Fitness for Mixing",
+      "Ptitim Merubot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion about lo balal \u2014 the challenge from shishim nivlalim, Rabbi Zeira's answer, and the final resolution ha ke-isa ve-ha ke-isa \u2014 which is precisely what the 'Tosefta Support' prose describes in detail.",
+      "chosen_heading": "Tosefta Support",
+      "current_heading": "Tosefta Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Ptitim Merubot",
+    "candidates": [
+      "Fitness for Mixing",
+      "Ptitim Merubot",
+      "Rabbi Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the mishna's case of *pitim merubbot* \u2014 the gemara's question about large vs. many pieces and the alternate answer about the intermediate state between *torat chalot* and *torat ptitim* \u2014 which is precisely what the 'Ptitim Merubot' prose section describes.",
+      "chosen_heading": "Ptitim Merubot",
+      "current_heading": "Ptitim Merubot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Rabbi Shimon's View",
+      "Fifteen Avodot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in candidate 0's prose: the gemara's suggestion that the mishna doesn't accord with Rabbi Shimon, and the baraita citing Rabbi Shimon's principle about a kohen who does not admit to the avodot having no portion in kehuna, with the verse from Leviticus 7:33 \u2014 all of which candidate 0 discusses directly, while candidate 1 covers the subsequent extension to fifteen avodot.",
+      "chosen_heading": "Rabbi Shimon's View",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Fifteen Avodot",
+    "candidates": [
+      "Fifteen Avodot",
+      "Rav Nachman's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the baraita listing and sourcing the fifteen avodot, which is precisely what the 'Fifteen Avodot' section prose describes in detail.",
+      "chosen_heading": "Fifteen Avodot",
+      "current_heading": "Fifteen Avodot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rav Nachman's Resolution",
+    "candidates": [
+      "Rav Nachman's Resolution",
+      "Rava's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's resolution distinguishing minchat Kohanim from minchat Yisrael, which matches exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Rav Nachman's Resolution",
+      "current_heading": "Rav Nachman's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Rava's Objection",
+    "candidates": [
+      "Rava's Objection",
+      "Kedusha Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of Rava's objection to Rav Na\u1e25man's resolution, which is precisely what the prose under heading 0 describes \u2014 Rava's argument that yetzika's derivation from another mincha-type means a zar should be valid, concluding that the mishna does not accord with Rabbi Shimon.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Rava's Objection",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Ship Owner Insurance",
+    "candidates": [
+      "Cargo Distribution",
+      "Ship Owner Insurance",
+      "Seasonal Routes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the mutual insurance stipulation among sailors and the negligence exception, which is exactly what the 'Ship Owner Insurance' section's prose discusses.",
+      "chosen_heading": "Ship Owner Insurance",
+      "current_heading": "Ship Owner Insurance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Seasonal Routes",
+    "candidates": [
+      "Seasonal Routes",
+      "Caravan Rescue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Nisan/Tishrei rope-distance distinction and seasonal sailing routes, which is precisely what the 'Seasonal Routes' prose describes.",
+      "chosen_heading": "Seasonal Routes",
+      "current_heading": "Seasonal Routes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Caravan Rescue",
+    "candidates": [
+      "Caravan Rescue",
+      "Salvage Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about caravan rescue itself, which is exactly what heading 0's prose describes \u2014 the ruling about hitzil le'emtza and the prior declaration condition \u2014 while heading 1's prose discusses the subsequent Talmudic analysis of the underlying logic (hefker, shutafim, workers).",
+      "chosen_heading": "Caravan Rescue",
+      "current_heading": "Caravan Rescue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Salvage Rights",
+    "candidates": [
+      "Salvage Rights",
+      "Worker Quits",
+      "Rav Ashi Salvage"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 5,
+      "split2": 6,
+      "first_heading": "Salvage Rights",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains the Gemara's question about yachol/eino yachol lehatzil, Rami bar Chama's shutafin answer, Rava's po'el answer, and Rav Ashi's answer \u2014 all of which are described in the 'Salvage Rights' prose covering the full range of responses to the baraita's distinction.",
+      "second_heading": "Rav Ashi Salvage",
+      "second_confidence": "medium",
+      "second_reason": "Segment 2 is the Mishna about one who robs a field and massikin take it, which doesn't perfectly match any candidate prose but is closest to 'Rav Ashi Salvage' as the next sequential section heading after the Gemara discussion ends, and neither heading 0 nor 1 introduces a new mishna topic.",
+      "third_heading": "Rav Ashi Salvage",
+      "third_confidence": "medium",
+      "third_reason": "Segment 3 is the Gemara on massikin/matzikin terminology from the mishna in Segment 2, so it belongs under the same heading as that mishna, which is 'Rav Ashi Salvage' as the closest available heading for this new topic.",
+      "current_heading": "Salvage Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Rav Ashi Salvage",
+    "candidates": [
+      "Worker Quits",
+      "Rav Ashi Salvage",
+      "Mishnah Field",
+      "Pointing Out",
+      "Wheat Case",
+      "Din vs Knas",
+      "Fine Extrapolation",
+      "Fine Extrapolation",
+      "Damage Types",
+      "Rav Nachman Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal with the Gemara's analysis of 'machamas hagazlan' as meaning the robber pointed out the field (d'achvei achveih) and the second version (lishna achrina) where gentiles coerced him \u2014 precisely what the 'Pointing Out' section's prose describes.",
+      "chosen_heading": "Pointing Out",
+      "current_heading": "Rav Ashi Salvage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Rav Nachman Ruling",
+    "candidates": [
+      "Mishnah Field",
+      "Pointing Out",
+      "Wheat Case",
+      "Din vs Knas",
+      "Fine Extrapolation",
+      "Fine Extrapolation",
+      "Damage Types",
+      "Rav Nachman Ruling",
+      "Baraita Exemption",
+      "Point vs Hand Over"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items describe the single incident of the man who pointed out the Exilarch's wheat to thugs, Rav Nachman's ruling, and the dina/knasa question \u2014 which is precisely what the 'Wheat Case' prose (index 2) describes, with the dina/knasa distinction then elaborated in the next heading (index 3).",
+      "chosen_heading": "Wheat Case",
+      "current_heading": "Rav Nachman Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Point vs Hand Over",
+    "candidates": [
+      "Baraita Exemption",
+      "Point vs Hand Over",
+      "Rava Voluntary",
+      "Rav Ashi Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "This passage discusses whether fines can be generalized across cases (\u05e7\u05e0\u05e1\u05d0 \u05dc\u05d0 \u05d2\u05de\u05e8\u05d9\u05e0\u05df), using the baraita about one who renders food impure/pours libations/intermingles teruma \u2014 content that does not match any of the candidate prose sections closely, but 'Rava Voluntary' is the least mismatched given the overall discussion of liability principles; however, none of the candidates genuinely describe this passage's content about learning from fines.",
+      "chosen_heading": "Rava Voluntary",
+      "current_heading": "Point vs Hand Over",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rav Ashi Case",
+    "candidates": [
+      "Rava Voluntary",
+      "Rav Ashi Case",
+      "River Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together form the continuous sugya about Rav Huna bar Yehuda's ruling, Rava's correction citing the baraita (exempt unless handed over physically), Rabba's qualification about voluntary disclosure, and then the Rav Ashi incident with the wine \u2014 exactly the content described in the 'Rav Ashi Case' prose.",
+      "chosen_heading": "Rav Ashi Case",
+      "current_heading": "Rav Ashi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "River Case",
+    "candidates": [
+      "River Case",
+      "Net Dispute",
+      "Joint Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the river case challenge to Rav Ashi and its resolution via the precise language of 'hoshit,' which is exactly what the 'River Case' prose describes in detail.",
+      "chosen_heading": "River Case",
+      "current_heading": "River Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Joint Property",
+    "candidates": [
+      "Net Dispute",
+      "Joint Property",
+      "Straw Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the initial dispute over the fishing net and one party surrendering it to a royal officer, which matches the 'Net Dispute' prose exactly, while the current placement under 'Joint Property' actually describes Abaye's and Rava's rulings \u2014 the passage contains both the incident and those rulings, but the opening narrative of the net dispute clearly belongs under heading 0.",
+      "chosen_heading": "Net Dispute",
+      "current_heading": "Joint Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Straw Story",
+    "candidates": [
+      "Joint Property",
+      "Straw Story",
+      "Neck Breaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the straw informer incident and Rav Kahana breaking the man's neck, which is precisely what the 'Straw Story' section's prose describes.",
+      "chosen_heading": "Straw Story",
+      "current_heading": "Straw Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Neck Breaking",
+    "candidates": [
+      "Neck Breaking",
+      "Persian Greeks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav reading the verse about the antelope in a net and its interpretation regarding Jewish property falling into gentile hands, which is precisely what the 'Neck Breaking' section's prose describes.",
+      "chosen_heading": "Neck Breaking",
+      "current_heading": "Neck Breaking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Persian Greeks",
+    "candidates": [
+      "Persian Greeks",
+      "Exile Terms",
+      "Rav Kahana Arrives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the warning about Greeks/bloodshed AND the instruction to go to Eretz Yisrael and accept the seven-year condition, but the 'Exile Terms' prose (candidate 1) explicitly discusses both the instruction to arise and go and the seven-year condition, while candidate 0 ('Persian Greeks') covers only the political context \u2014 the passage as a whole unit belongs under 'Exile Terms' since it includes the full directive including the seven-year acceptance.",
+      "chosen_heading": "Exile Terms",
+      "current_heading": "Persian Greeks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rav Kahana Arrives",
+    "candidates": [
+      "Exile Terms",
+      "Rav Kahana Arrives",
+      "Row Movement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Kahana finding Reish Lakish, demonstrating his erudition with questions and resolutions, and Reish Lakish telling Rabbi Yochanan 'a lion has ascended from Babylonia' \u2014 exactly what the 'Rav Kahana Arrives' prose section describes.",
+      "chosen_heading": "Rav Kahana Arrives",
+      "current_heading": "Rav Kahana Arrives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Row Movement",
+    "candidates": [
+      "Row Movement",
+      "Pillars Removed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the row-movement sequence \u2014 Rav Kahana being moved back seven rows and then restored to the front \u2014 which is exactly what the 'Row Movement' prose section discusses.",
+      "chosen_heading": "Row Movement",
+      "current_heading": "Row Movement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Pillars Removed",
+    "candidates": [
+      "Pillars Removed",
+      "Death Event",
+      "Revival Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 0's prose discusses: Rabbi Yochanan sitting on seven cushions, removing them one by one as Rav Kahana challenges him, until sitting on the ground, and then having his eyelids lifted with a silver instrument \u2014 all of which matches 'Pillars Removed' perfectly.",
+      "chosen_heading": "Pillars Removed",
+      "current_heading": "Pillars Removed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Revival Condition",
+    "candidates": [
+      "Death Event",
+      "Revival Condition",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the death/cave discovery, the serpent dialogue and revival, and Rabbi Yochanan's apology plus Rav Kahana's condition for returning \u2014 are explicitly discussed in Candidate 1's prose, making the current placement correct.",
+      "chosen_heading": "Revival Condition",
+      "current_heading": "Revival Condition",
+      "moved": false
+    }
+  }
+]

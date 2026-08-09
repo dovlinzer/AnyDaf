@@ -1,0 +1,481 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Gibben Definitions",
+    "candidates": [
+      "Framework Overview",
+      "Rambam Approach",
+      "Aesthetics vs Objective",
+      "Birchas Kohanim vs Avoda",
+      "Rambam's 140 Blemishes",
+      "Gibben Definitions",
+      "Linguistic Resolution",
+      "Rava's Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The mishna passage defines gibben through three opinions (no eyebrows/one eyebrow, hanging eyebrows, two backs/spines), which is precisely what the 'Gibben Definitions' section's prose discusses.",
+      "chosen_heading": "Gibben Definitions",
+      "current_heading": "Gibben Definitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rava's Etymology",
+    "candidates": [
+      "Linguistic Resolution",
+      "Rava's Etymology",
+      "Two Backs Viability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the linguistic contradiction (giben meaning many eyebrows vs. no eyebrows) and Rava's resolution, which together constitute the full content described in candidate 0's prose about the linguistic paradox and its resolution via the baraita \u2014 candidate 1 only covers Rava's explanation in isolation, but the passage as a whole fits better under 'Linguistic Resolution' which describes the complete arc of the problem and solution.",
+      "chosen_heading": "Linguistic Resolution",
+      "current_heading": "Rava's Etymology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Two Backs Viability",
+    "candidates": [
+      "Rava's Etymology",
+      "Two Backs Viability",
+      "Bent Spine Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether a two-backed person can live and cites Rav's ruling about miscarrying such an entity, which is precisely what the 'Two Backs Viability' section's prose describes.",
+      "chosen_heading": "Two Backs Viability",
+      "current_heading": "Two Backs Viability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Bent Spine Interpretation",
+    "candidates": [
+      "Bent Spine Interpretation",
+      "Charum & Eye Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Shimi bar \u1e24iyya's challenge to Rav and Rav's answer about the crooked spine, which is the exact content described in the 'Bent Spine Interpretation' prose section.",
+      "chosen_heading": "Bent Spine Interpretation",
+      "current_heading": "Bent Spine Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Charum & Eye Issues",
+    "candidates": [
+      "Charum & Eye Issues",
+      "Charum Categories",
+      "Rabbi Yossi View",
+      "Eye Placement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Charum & Eye Issues",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna defining charum and listing eye-related disqualifications, which matches the 'Charum & Eye Issues' prose that walks through exactly those mishna cases.",
+      "second_heading": "Charum Categories",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara baraita listing nasal abnormalities and Rabbi Yossi's dispute about the definition of charum, which matches 'Charum Categories' and 'Rabbi Yossi View' prose \u2014 but since both items 2 and 3 form one continuous dispute (the baraita's definition challenged by Rabbi Yossi, then rejected), they belong together under 'Charum Categories' which introduces the baraita and references Rabbi Yossi's limitation and the chachamim's rejection.",
+      "current_heading": "Charum & Eye Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Eye Placement",
+    "candidates": [
+      "Charum Categories",
+      "Rabbi Yossi View",
+      "Eye Placement",
+      "Eye Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Gemara's analysis of eye placement terminology (eyes situated above/below vs. directional gaze), which is precisely what the 'Eye Placement' prose section describes.",
+      "chosen_heading": "Eye Placement",
+      "current_heading": "Eye Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Eye Categories",
+    "candidates": [
+      "Eye Categories",
+      "Rava's Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically presents the baraita that lists the 'mishniyata' category (eyes misaligned/misplaced), which Rava's analysis in candidate 1 explicitly discusses as derived from 'be-eino' \u2014 the derivation and categories in the baraita are precisely what Rava's prose is analyzing and explaining.",
+      "chosen_heading": "Rava's Analysis",
+      "current_heading": "Eye Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Rava's Analysis",
+    "candidates": [
+      "Eye Categories",
+      "Rava's Analysis",
+      "Zagdayan Mismatch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form Rava's analysis of why each term in the verse is necessary, exactly matching the prose of 'Rava's Analysis' which describes this same chain of reasoning about iver/ish/dak/tavlul/be-eino and Rava's concluding categorization.",
+      "chosen_heading": "Rava's Analysis",
+      "current_heading": "Rava's Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Zagdayan Mismatch",
+    "candidates": [
+      "Zagdayan Mismatch",
+      "Tziran Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the zagdayan/zagdum blemish \u2014 Rav Huna's demonstration and the baraita's objection/resolution \u2014 which is precisely what the 'Zagdayan Mismatch' prose discusses in detail.",
+      "chosen_heading": "Zagdayan Mismatch",
+      "current_heading": "Zagdayan Mismatch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Tziran Details",
+    "candidates": [
+      "Tziran Details",
+      "Eyelash Loss",
+      "Size Disproportions",
+      "Ear Issues",
+      "Lip Protrusion",
+      "Moses Height"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tziran Details",
+      "first_confidence": "high",
+      "first_reason": "Item 1 defines the tearing-eye conditions (trutot, tziraniot, dumot, etc.) which matches the 'Tziran Details' prose exactly.",
+      "second_heading": "Eyelash Loss",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers zadir/lupin/tamir and the eyelash-root distinction, which matches the 'Eyelash Loss' prose that explicitly discusses ha-zadir, ha-lufan, ha-tamir and the gardumai resolution.",
+      "current_heading": "Tziran Details",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Moses Height",
+    "candidates": [
+      "Eyelash Loss",
+      "Size Disproportions",
+      "Ear Issues",
+      "Lip Protrusion",
+      "Moses Height",
+      "Non-Blemish Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Size Disproportions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a new Mishna opening that lists size disproportions (eyes, body, nose, ears, lips, fallen teeth), which matches the 'Size Disproportions' section prose discussing eyes, body, and nose disproportions as mumim.",
+      "second_heading": "Moses Height",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara discussing Moses's height in relation to the body-disproportionate-to-limbs mum and the nose measurement baraita, which perfectly matches the 'Moses Height' section's prose about Rav's statement, Rav Shimi's objection, and Rav's resolution.",
+      "current_heading": "Moses Height",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Non-Blemish Examples",
+    "candidates": [
+      "Non-Blemish Examples",
+      "Horn Hoof Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the tzomem/tzome'a/tzime'a\u1e25 conditions and the ruling that a hornless goat or horned sheep are not true blemishes for altar sacrifices, which matches exactly the 'Non-Blemish Examples' prose describing these same cases and the baraita listing them.",
+      "chosen_heading": "Non-Blemish Examples",
+      "current_heading": "Non-Blemish Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Horn Hoof Removal",
+    "candidates": [
+      "Horn Hoof Removal",
+      "Para Aduma",
+      "Condition List"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Horn Hoof Removal",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the Rav \u1e24isda/Ameimar ruling on horn/hoof removal with bones and the baraita contradiction with its resolution, which is precisely what the 'Horn Hoof Removal' prose describes.",
+      "second_heading": "Para Aduma",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the parah adumah mishna about cutting black horn/hoof tips above the marrow bone, which is exactly what the 'Para Aduma' prose discusses.",
+      "current_heading": "Horn Hoof Removal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Condition List",
+    "candidates": [
+      "Para Aduma",
+      "Condition List",
+      "Bloated Belly Story",
+      "Urination Imperative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna listing the disqualifying blemishes (breasts, bloated belly, protruding navel, epilepsy, melancholy temper, large scrotum, large penis), which is precisely what the 'Condition List' prose discusses in detail.",
+      "chosen_heading": "Condition List",
+      "current_heading": "Condition List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Urination Imperative",
+    "candidates": [
+      "Bloated Belly Story",
+      "Urination Imperative",
+      "Shmuel's Lecture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the urination-in-public ruling and the prohibition on drinking in public, plus the baraita and the bloated belly incident \u2014 all of which are discussed in the 'Urination Imperative' prose, which explicitly references all these elements including the pairing with drinking, making it the best match.",
+      "chosen_heading": "Urination Imperative",
+      "current_heading": "Urination Imperative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Shmuel's Lecture",
+    "candidates": [
+      "Shmuel's Lecture",
+      "Gershom's View",
+      "Mar bar Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Shmuel urinating during a shabta de-rigla and his father's subsequent instruction, which is precisely what the 'Shmuel's Lecture' section prose discusses.",
+      "chosen_heading": "Shmuel's Lecture",
+      "current_heading": "Shmuel's Lecture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Mar bar Rav Ashi",
+    "candidates": [
+      "Gershom's View",
+      "Mar bar Rav Ashi",
+      "Male Anatomy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Mar bar Rav Ashi urinating on a bridge and his reply about his mother-in-law, which matches exactly the prose under heading 1 describing this same incident.",
+      "chosen_heading": "Mar bar Rav Ashi",
+      "current_heading": "Mar bar Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Male Anatomy",
+    "candidates": [
+      "Male Anatomy",
+      "Reish Lakish View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the anatomical discussion of urinary retention causing bloating and sterility via the two passages separated by a garlic-peel membrane, which is precisely what the 'Male Anatomy' prose describes.",
+      "chosen_heading": "Male Anatomy",
+      "current_heading": "Male Anatomy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Reish Lakish View",
+    "candidates": [
+      "Reish Lakish View",
+      "Rabbi Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's interpretation that 'among your cattle' is a behavioral model (urinate when needed, like an animal), which matches exactly the prose in candidate 0 describing Reish Lakish's reading of bi-vehemetekha as behavioral instruction.",
+      "chosen_heading": "Reish Lakish View",
+      "current_heading": "Reish Lakish View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rabbi Yehoshua",
+    "candidates": [
+      "Rabbi Yehoshua",
+      "Rav Papa Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua ben Levi's interpretation of the verse about barrenness in terms of students and prayer, which matches perfectly with the prose under heading 0.",
+      "chosen_heading": "Rabbi Yehoshua",
+      "current_heading": "Rabbi Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rav Papa Concern",
+    "candidates": [
+      "Rav Papa Concern",
+      "Tosafot Geography",
+      "Women Urination",
+      "Retention Illnesses",
+      "Retention Disease List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's instruction about urination on hard surfaces/pottery (matching heading 0's prose exactly) and Abaye's statement about women (which heading 0 already encompasses), and the current placement under 'Rav Papa Concern' is correct since the passage as a whole is a single gemara unit covering both statements together.",
+      "chosen_heading": "Rav Papa Concern",
+      "current_heading": "Rav Papa Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Retention Disease List",
+    "candidates": [
+      "Tosafot Geography",
+      "Women Urination",
+      "Retention Illnesses",
+      "Retention Disease List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabban Shimon ben Gamliel's baraita about retained feces/urine causing hidrokan/jaundice AND Reish Lakish's comprehensive list, and the prose under 'Retention Illnesses' (index 2) explicitly describes the baraita from Rabban Shimon ben Gamliel as its content, while 'Retention Disease List' (index 3) describes only the Rava bar Rav Huna/Reish Lakish list \u2014 since the passage is a single unit containing both, and index 2's prose best matches the opening baraita that introduces the whole unit, but actually the current placement at index 3 covers the Reish Lakish portion; however, since the passage is one unified textual item covering both the baraita and the list, and index 2 explicitly mentions the baraita while index 3 covers the list portion, the passage as a whole fits better under index 2 which introduces the topic the list elaborates upon.",
+      "chosen_heading": "Retention Illnesses",
+      "current_heading": "Retention Disease List",
+      "moved": true
+    }
+  }
+]

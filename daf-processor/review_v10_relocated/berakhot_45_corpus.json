@@ -1,0 +1,224 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Food Purity Rules",
+    "candidates": [
+      "Perek 7 Structure",
+      "Purpose of Zimun",
+      "Mishnah: Three Eat",
+      "Demai Food Status",
+      "Food Purity Rules",
+      "Demai Economics",
+      "Women/Slaves/Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna of perek 7 stating 'three who ate together are obligated to perform zimun' along with the list of who may be counted, which directly matches the 'Mishnah: Three Eat' heading whose prose explicitly describes this very mishna opening with 'shlosha she'achlu ke'achat chayavin lezamen' and the subsequent distinctions.",
+      "chosen_heading": "Mishnah: Three Eat",
+      "current_heading": "Food Purity Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Women/Slaves/Children",
+    "candidates": [
+      "Demai Economics",
+      "Women/Slaves/Children",
+      "Gadlu Lashem Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna covering who is excluded from zimmun (tevel, gentile, waiter, women/slaves/minors) and the minimum quantity dispute (kezayit vs. kebeitzah), which is precisely what the 'Women/Slaves/Children' section prose discusses in detail.",
+      "chosen_heading": "Women/Slaves/Children",
+      "current_heading": "Women/Slaves/Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Gadlu Lashem Proof",
+    "candidates": [
+      "Gadlu Lashem Proof",
+      "Ki Shem Hashem",
+      "Zimun Institution",
+      "Three vs. Two Minimum",
+      "Kohen Terumah",
+      "Reciprocal Eating",
+      "Mutual Vows",
+      "Modern Examples",
+      "Medical Barriers",
+      "Amein Voice Level"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Asi's proof from Psalms 34:4 and Rabbi Abbahu's proof from Deuteronomy 32:3, and while candidate 1 discusses Rabbi Abbahu's verse separately, the Gemara presents both sources as a single unit answering the same question, and candidate 0's prose explicitly introduces both the question (mena hanei milei) and Rav Assi's answer as the primary framing, making it the correct home for the entire passage.",
+      "chosen_heading": "Gadlu Lashem Proof",
+      "current_heading": "Gadlu Lashem Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Amein Voice Level",
+    "candidates": [
+      "Ki Shem Hashem",
+      "Zimun Institution",
+      "Three vs. Two Minimum",
+      "Kohen Terumah",
+      "Reciprocal Eating",
+      "Mutual Vows",
+      "Modern Examples",
+      "Medical Barriers",
+      "Amein Voice Level",
+      "Metargem Translator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24anan bar Abba's teaching about not raising one's voice louder than the one reciting the blessing when answering amen, which is precisely what the 'Amein Voice Level' section's prose discusses.",
+      "chosen_heading": "Amein Voice Level",
+      "current_heading": "Amein Voice Level",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Metargem Translator",
+    "candidates": [
+      "Metargem Translator",
+      "Moshe & God Voice",
+      "Reader Lowers Voice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Shimon ben Pazi's ruling about the translator not raising his voice louder than the reader, which is exactly what the 'Metargem Translator' section's prose describes.",
+      "chosen_heading": "Metargem Translator",
+      "current_heading": "Metargem Translator",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Reader Lowers Voice",
+    "candidates": [
+      "Moshe & God Voice",
+      "Reader Lowers Voice",
+      "Equal Dignity",
+      "Rav vs. R. Yochanan",
+      "Cannot Split Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly states that the translator may not raise his voice above the reader and that the reader should lower his voice if needed \u2014 exactly what the 'Reader Lowers Voice' section's prose describes.",
+      "chosen_heading": "Reader Lowers Voice",
+      "current_heading": "Reader Lowers Voice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Cannot Split Groups",
+    "candidates": [
+      "Equal Dignity",
+      "Rav vs. R. Yochanan",
+      "Cannot Split Groups",
+      "Servant with Two",
+      "Separate Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 10 items form one continuous Talmudic discussion about whether two people may optionally form a zimmun \u2014 the Rav vs. Rabbi Yochanan dispute \u2014 with a series of attempted proofs and rejections, exactly matching candidate 1's prose description of that dispute and its proofs.",
+      "chosen_heading": "Rav vs. R. Yochanan",
+      "current_heading": "Cannot Split Groups",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Separate Groups",
+    "candidates": [
+      "Servant with Two",
+      "Separate Groups",
+      "Rashi: Optional Status",
+      "Tosafot: Obligatory",
+      "Obligation Question",
+      "Pritzuta Concern",
+      "Shomea Ke'oneh Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's objection (why can't women and slaves form a mixed zimmun if they each have 'de'ot'?) and its resolution (mishum pritzuta \u2014 due to promiscuity), which is precisely what the 'Pritzuta Concern' section's prose describes.",
+      "chosen_heading": "Pritzuta Concern",
+      "current_heading": "Separate Groups",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Shomea Ke'oneh Only",
+    "candidates": [
+      "Rashi: Optional Status",
+      "Tosafot: Obligatory",
+      "Obligation Question",
+      "Pritzuta Concern",
+      "Shomea Ke'oneh Only",
+      "West's Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is a chain of attempts to resolve which amora (Rav or Rabbi Yochanan) held that two may not form a zimmun, culminating in Rabbi Zeira's conclusion that Rabbi Yochanan is that amora \u2014 exactly the content described in 'West's Testimony' prose about assigning positions between Rav and Rabbi Yochanan.",
+      "chosen_heading": "West's Testimony",
+      "current_heading": "Shomea Ke'oneh Only",
+      "moved": true
+    }
+  }
+]

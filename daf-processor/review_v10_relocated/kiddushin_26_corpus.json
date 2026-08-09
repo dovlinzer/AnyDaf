@@ -1,0 +1,389 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Three Methods",
+    "candidates": [
+      "Jumping Elephants",
+      "Hierarchy Debate",
+      "R. Tam's Objection",
+      "Ownership Demonstration",
+      "Achrayut Defined",
+      "Three Methods",
+      "Money Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself introducing nechasim sheyesh lahem achrayut and its acquisition modes, which is precisely what the 'Achrayut Defined' prose section introduces and explains, whereas the current placement under 'Three Methods' discusses the subsequent elaboration and analysis of those methods.",
+      "chosen_heading": "Achrayut Defined",
+      "current_heading": "Three Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Money Source",
+    "candidates": [
+      "Three Methods",
+      "Money Source",
+      "Rav's Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's derivation of kinyan kesef from Jeremiah 32:44 and the grammatical argument that the document is merely evidentiary, which is precisely what the 'Money Source' prose section describes.",
+      "chosen_heading": "Money Source",
+      "current_heading": "Money Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav's Condition",
+    "candidates": [
+      "Rav's Condition",
+      "R. Idi Bar Avin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav's qualification about document-writing locales and the explicit-specification exception, which is precisely what the 'Rav's Condition' section prose discusses in detail.",
+      "chosen_heading": "Rav's Condition",
+      "current_heading": "Rav's Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "R. Idi Bar Avin",
+    "candidates": [
+      "R. Idi Bar Avin",
+      "Document Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the practice of Rav Idi bar Avin when purchasing land, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "R. Idi Bar Avin",
+      "current_heading": "R. Idi Bar Avin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Document Source",
+    "candidates": [
+      "Document Source",
+      "Shmuel's Limit",
+      "Hamnuna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the source derivation for acquisition by document (matching candidate 0's prose about the Yirmiyah verses and sefer ha'miknah) and Shmuel's limitation (matching candidate 1's prose), but since the item is a single undivided passage and candidate 0's prose explicitly discusses both the initial question about the source and notes the operative verse, while candidate 1 is a separate section \u2014 however, the passage actually contains both topics; given the current placement is candidate 0 and that section's prose already anticipates Shmuel's ruling as part of the same textual unit, the current placement is correct.",
+      "chosen_heading": "Document Source",
+      "current_heading": "Document Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Hamnuna Challenge",
+    "candidates": [
+      "Shmuel's Limit",
+      "Hamnuna Challenge",
+      "Desperate Seller",
+      "R. Ashi Reinterp."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Hamnuna's objection from the baraita treating sale and gift together, which is precisely what the 'Hamnuna Challenge' prose describes, including his self-resolution about the desperate seller \u2014 though the resolution is mentioned in the prose of heading 1 as well, making heading 1 the best single home for this combined objection-and-resolution passage.",
+      "chosen_heading": "Hamnuna Challenge",
+      "current_heading": "Hamnuna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "R. Ashi Reinterp.",
+    "candidates": [
+      "Desperate Seller",
+      "R. Ashi Reinterp.",
+      "Document Concept",
+      "Dwelling Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's reinterpretation of the baraita as discussing a gift written with the language of a sale to enhance the recipient's power, which is precisely what the prose under 'R. Ashi Reinterp.' describes.",
+      "chosen_heading": "R. Ashi Reinterp.",
+      "current_heading": "R. Ashi Reinterp.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Dwelling Source",
+    "candidates": [
+      "Document Concept",
+      "Dwelling Source",
+      "Kedusha Rishona",
+      "Meshicha Requirement",
+      "Hand-to-Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Talmudic source for acquisition through chazakah/dwelling, which is precisely what the 'Dwelling Source' section's prose describes \u2014 Chizkiyah's two verses and the b'yeshivah derivation.",
+      "chosen_heading": "Dwelling Source",
+      "current_heading": "Dwelling Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Hand-to-Hand",
+    "candidates": [
+      "Kedusha Rishona",
+      "Meshicha Requirement",
+      "Hand-to-Hand",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question 'm'nalan' and the verse 'miyad amitecha' explaining meshichah for chattels, which is precisely what the 'Hand-to-Hand' section's prose describes.",
+      "chosen_heading": "Hand-to-Hand",
+      "current_heading": "Hand-to-Hand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "R. Yochanan",
+    "candidates": [
+      "R. Yochanan",
+      "Risk and Control",
+      "Partial Meshicha",
+      "Chattels w/ Land",
+      "Walled Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yochanan's position that money effects acquisition by Torah law and the Gemara's resolution that the mishna teaches the rabbinic ordinance, which matches exactly the prose under heading 0.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "R. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Walled Cities",
+    "candidates": [
+      "Risk and Control",
+      "Partial Meshicha",
+      "Chattels w/ Land",
+      "Walled Cities",
+      "Piled Requirement",
+      "Agav vs. Chatzer",
+      "R. Yosef Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives the law of acquiring chattels together with land (kinyan agav) from the verse about gifts given with walled cities, which is the foundational source for 'Chattels w/ Land' \u2014 the section with no prose yet, indicating the Gemara passage itself is meant to fill that role, rather than 'Walled Cities' which already has prose paraphrasing this exact content but is a downstream section discussing the mishna's statement after the source is established.",
+      "chosen_heading": "Chattels w/ Land",
+      "current_heading": "Walled Cities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "R. Yosef Source",
+    "candidates": [
+      "Piled Requirement",
+      "Agav vs. Chatzer",
+      "R. Yosef Source",
+      "Needle Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening of the dilemma about whether tzivurin (piling) is required and Rav Yosef's introduction of the Rabbi Akiva source to address it \u2014 this is precisely what the 'Piled Requirement' prose describes as the conceptual question being raised, before the detailed analysis of the braita content covered under 'R. Yosef Source'.",
+      "chosen_heading": "Piled Requirement",
+      "current_heading": "R. Yosef Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Needle Example",
+    "candidates": [
+      "R. Yosef Source",
+      "Needle Example",
+      "R. Sheshet",
+      "Man's Situation",
+      "Beit Sela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Shmuel bar Bisna's needle interpretation and Rav Yosef's sharp rejection, followed by Rav Ashi's pearl response, which matches exactly the 'Needle Example' section's prose discussion of the needle/kavastan exchange and the pearl worth a thousand zuz.",
+      "chosen_heading": "Needle Example",
+      "current_heading": "Needle Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Beit Sela",
+    "candidates": [
+      "R. Sheshet",
+      "Man's Situation",
+      "Beit Sela",
+      "Beit Rova"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the Beit Sela case and the Gemara's challenge/resolution about whether tzibburin is required, which is precisely what the 'Beit Sela' prose section describes in detail.",
+      "chosen_heading": "Beit Sela",
+      "current_heading": "Beit Sela",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Beit Rova",
+    "candidates": [
+      "Beit Rova",
+      "Piling Problem",
+      "Money Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the incident of the man in Jerusalem who acquired a beit rova and declared a tefach by tefach for a recipient along with sheep and barrels, which is precisely what the 'Beit Rova' section's prose discusses, including the tzivurin problem raised at the end of item 2 being the bridge to the next section.",
+      "chosen_heading": "Beit Rova",
+      "current_heading": "Beit Rova",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Money Resolution",
+    "candidates": [
+      "Piling Problem",
+      "Money Resolution",
+      "Alt. Methods",
+      "No Chatlipin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage's specific content \u2014 asking why symbolic exchange (chalipin) wasn't used instead, and implying that money cannot be acquired through chalipin \u2014 matches the 'No Chatlipin' section's prose exactly, not the 'Money Resolution' section which discusses the initial proposal that the case involves money.",
+      "chosen_heading": "No Chatlipin",
+      "current_heading": "Money Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "No Chatlipin",
+    "candidates": [
+      "Alt. Methods",
+      "No Chatlipin",
+      "No Meshicha",
+      "No Participation",
+      "Final Answer",
+      "Zachin Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why money couldn't simply be transferred via pulling (meshichah) and concludes the recipient was absent \u2014 this is the 'alternative methods' discussion that immediately follows the question of why karka was necessary, matching the 'Alt. Methods' prose about pressing further on whether other transfer methods were available.",
+      "chosen_heading": "Alt. Methods",
+      "current_heading": "No Chatlipin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Zachin Principle",
+    "candidates": [
+      "No Meshicha",
+      "No Participation",
+      "Final Answer",
+      "Zachin Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the failed attempt to transfer property 'agav acher' (by means of another person) and the reason it failed (lo samcha da'atei / fear of misappropriation), which matches candidate 1's prose about why a third party couldn't effectuate the transfer \u2014 not candidate 3's discussion of the zachin principle.",
+      "chosen_heading": "No Participation",
+      "current_heading": "Zachin Principle",
+      "moved": true
+    }
+  }
+]

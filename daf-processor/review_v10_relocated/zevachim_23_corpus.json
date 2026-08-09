@@ -1,0 +1,222 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Ziknei Darom Position",
+    "candidates": [
+      "Mishnah: Tamei Psul",
+      "Ziknei Darom Position",
+      "Ritzuy & Retzei",
+      "Only Tamei Meis",
+      "Conditions",
+      "Hutra vs Dchuya",
+      "Reish Lakish Challenge",
+      "Mechapprim Analogy",
+      "Individual Level Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items form the continuous kal vachomer challenge against Ziknei Darom (tamei sheretz should also be valid by inference from tamei meis) and Ziknei Darom's response (mechapprim k'mitchapprim), which is precisely what heading 6 'Reish Lakish Challenge' describes.",
+      "chosen_heading": "Reish Lakish Challenge",
+      "current_heading": "Ziknei Darom Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Individual Level Issues",
+    "candidates": [
+      "Ritzuy & Retzei",
+      "Only Tamei Meis",
+      "Conditions",
+      "Hutra vs Dchuya",
+      "Reish Lakish Challenge",
+      "Mechapprim Analogy",
+      "Individual Level Issues",
+      "Death & Tuma",
+      "Scripture Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All eight items trace the Gemara's internal debate about what the Ziknei Darom hold regarding tamei sheretz, Reish Lakish's kal vachomer challenge, the mechapprim/mitchapprim response, and the subsequent questions about tamei meis sending his korban and the lefi ochlo requirement \u2014 all of which are explicitly narrated in the 'Individual Level Issues' prose.",
+      "chosen_heading": "Individual Level Issues",
+      "current_heading": "Individual Level Issues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Scripture Basis",
+    "candidates": [
+      "Death & Tuma",
+      "Scripture Basis",
+      "Eaters Requirement",
+      "Ziknei Darom Radical",
+      "Tzitz Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about 'bemichsat nefashot' (according to the number of souls), the requirement that the Paschal offering be slaughtered only for those registered, and the juxtaposition of eaters to those registered \u2014 which is precisely what the 'Eaters Requirement' section's prose describes.",
+      "chosen_heading": "Eaters Requirement",
+      "current_heading": "Scripture Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Tzitz Function",
+    "candidates": [
+      "Eaters Requirement",
+      "Ziknei Darom Radical",
+      "Tzitz Function",
+      "Dam vs Haguf"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ziknei Darom Radical",
+      "first_confidence": "high",
+      "first_reason": "Item 1 continues the Gemara's challenge against Ziknei Darom using the kal va-chomer about tamei sheretz vs. tamei meis at the owner/kohen level, which is precisely the content described in the 'Ziknei Darom Radical' prose.",
+      "second_heading": "Tzitz Function",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the braita about the tzitz effecting acceptance for tumat dam but not tumat haguf for a nazir and oseh Pesach, which is exactly the new topic introduced in the 'Tzitz Function' prose.",
+      "current_heading": "Tzitz Function",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Dam vs Haguf",
+    "candidates": [
+      "Dam vs Haguf",
+      "Tumat Hatehom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's challenge and resolution regarding whether the tzitz case involves tamei meis owners or a kohen tamei sheretz, which is precisely what the 'Dam vs Haguf' prose describes in detail.",
+      "chosen_heading": "Dam vs Haguf",
+      "current_heading": "Dam vs Haguf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Tumat Hatehom",
+    "candidates": [
+      "Tumat Hatehom",
+      "Rami Bar Chama"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tumat Hatehom",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern the Rabbi \u1e24iyya teaching about tumat hatehom limited to meis vs. ziva, which is explicitly discussed in candidate 0's prose about what tumat hatehom excludes.",
+      "second_heading": "Rami Bar Chama",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is precisely the Rami bar \u1e24ama dilemma about whether tumat hatehom applies to the kohen himself, which is the central topic of candidate 1's prose.",
+      "current_heading": "Tumat Hatehom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rami Bar Chama",
+    "candidates": [
+      "Rami Bar Chama",
+      "Excluding Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'de-Rami bar Chama vadai pligi' is the Gemara's conclusion that Rami bar Chama disagrees with Ziknei Darom, which is explicitly discussed and quoted in the prose of candidate 0.",
+      "chosen_heading": "Rami Bar Chama",
+      "current_heading": "Rami Bar Chama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Excluding Pigul",
+    "candidates": [
+      "Excluding Pigul",
+      "Impurity Only",
+      "Logic Framework",
+      "Which Tumah",
+      "Kodashim vs Makdishim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's inquiry into which sin the tzitz bears, ruling out pigul and notar \u2014 exactly what the 'Excluding Pigul' prose describes.",
+      "chosen_heading": "Excluding Pigul",
+      "current_heading": "Excluding Pigul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Kodashim vs Makdishim",
+    "candidates": [
+      "Impurity Only",
+      "Logic Framework",
+      "Which Tumah",
+      "Kodashim vs Makdishim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items trace the exact argument sequence described in candidate 2's prose: identifying which tumah the tzitz bears (sheretz vs. meis), the nazir/Pesach distinction, and the le'olam besheretz resolution \u2014 all of which candidate 2 describes in detail, while candidate 3 covers only the avon kodashim/makdishim counter-reading that begins in item 5.",
+      "chosen_heading": "Which Tumah",
+      "current_heading": "Kodashim vs Makdishim",
+      "moved": true
+    }
+  }
+]

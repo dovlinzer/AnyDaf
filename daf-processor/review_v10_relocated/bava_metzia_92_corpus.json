@@ -1,0 +1,469 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Eliezer vs. Sages",
+    "candidates": [
+      "Mishnah Statement",
+      "Eliezer vs. Sages",
+      "Gemara Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah text contains the complete passage including both the Tanna Kamma's ruling and Rabbi Elazar \u1e24isma's dissent plus the Sages' response, and heading 0 ('Mishnah Statement') is the natural home for the entire mishnah unit, while heading 1 covers only the Gemara's discussion/analysis of those positions.",
+      "chosen_heading": "Mishnah Statement",
+      "current_heading": "Eliezer vs. Sages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "Eliezer vs. Sages",
+      "Gemara Analysis",
+      "Single Cluster Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's resolution of why the Sages differ from the Tanna Kamma \u2014 specifically the 'ika beineihu aval m'lamdin' point \u2014 which is precisely what the 'Gemara Analysis' prose describes.",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Gemara Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Single Cluster Case",
+    "candidates": [
+      "Single Cluster Case",
+      "Whole Day Case",
+      "Necessity of Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces both of Rav Asi's rulings together as a unit ('if you wish, say the difference between them concerns Rav Asi'), which corresponds to the 'Necessity of Both' section that discusses how the gemara explains why both cases are needed and notes the connection to the mishnaic dispute.",
+      "chosen_heading": "Necessity of Both",
+      "current_heading": "Single Cluster Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Necessity of Both",
+    "candidates": [
+      "Whole Day Case",
+      "Necessity of Both",
+      "Issi's View Found"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's explanation of why both of Rav Asi's rulings are necessary (tzricha), which is precisely what the 'Necessity of Both' section's prose describes in detail.",
+      "chosen_heading": "Necessity of Both",
+      "current_heading": "Necessity of Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Issi's View Found",
+    "candidates": [
+      "Issi's View Found",
+      "Rav Rejects Issi",
+      "Ashi's Problem",
+      "Kahana's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav's discovery of the concealed scroll and Issi ben Yehuda's opinion, which is exactly what the 'Issi's View Found' prose section discusses.",
+      "chosen_heading": "Issi's View Found",
+      "current_heading": "Issi's View Found",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Kahana's Solution",
+    "candidates": [
+      "Rav Rejects Issi",
+      "Ashi's Problem",
+      "Kahana's Solution",
+      "Core Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Rejects Issi",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's sharp rejection of Issi's position ('Isi has not left any livelihood for any entity'), which matches heading 0 'Rav Rejects Issi' exactly.",
+      "second_heading": "Ashi's Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi reporting his reinterpretation to Rav Kahana (uninvited labor with incidental eating as a middle ground), which matches heading 1 'Ashi's Problem' exactly \u2014 the owner's preference for hired workers is Kahana's response to Ashi's suggestion, all part of that same exchange.",
+      "current_heading": "Kahana's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Core Debate",
+    "candidates": [
+      "Kahana's Solution",
+      "Core Debate",
+      "Wage Limit Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together pose the core dilemma of mishelo vs. mishel Shamayim and introduce the practical nafka mina (wife and children), which is precisely what the 'Core Debate' prose describes as the central conceptual question of the sugya, before the 'Wage Limit Problem' section takes over with the mishnah-based proof attempt.",
+      "chosen_heading": "Core Debate",
+      "current_heading": "Core Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Wage Limit Problem",
+    "candidates": [
+      "Wage Limit Problem",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial proof attempt and its refutation (oger b'danka achil b'zuza / Rachmana zakkei lei), which corresponds precisely to what the 'Wage Limit Problem' prose describes as the gemara's first attempt to prove the right cannot be mishelo from the mishnah's wage-exceeding anomaly.",
+      "chosen_heading": "Wage Limit Problem",
+      "current_heading": "Wage Limit Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Conclusion",
+      "Reassignment Attempt",
+      "Reassignment Forbidden",
+      "Nazir Safeguard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Rabbi Elazar \u1e24isma and the Sages as a potential vehicle for the mishelo vs. mishel Shamayim debate, which is exactly what the 'Conclusion' section's prose describes and analyzes.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Nazir Safeguard",
+    "candidates": [
+      "Reassignment Attempt",
+      "Reassignment Forbidden",
+      "Nazir Safeguard",
+      "Drying Extends Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of proofs and refutations about whether a laborer eats 'mishelo' or 'mishel Shamayim,' centered on the nazirite safeguard principle and the baraita about redirecting produce to wife and children \u2014 exactly what heading 2 ('Nazir Safeguard') describes.",
+      "chosen_heading": "Nazir Safeguard",
+      "current_heading": "Nazir Safeguard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Drying Extends Work",
+    "candidates": [
+      "Drying Extends Work",
+      "Son's Obligation",
+      "Appearance Matters"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Drying Extends Work",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the mishna about hiring a laborer to prepare figs for drying, and the first half of item 2 gives the ruling that the worker eats and is exempt from maaser \u2014 exactly what heading 0 ('Drying Extends Work') discusses.",
+      "second_heading": "Son's Obligation",
+      "second_confidence": "high",
+      "second_reason": "The second half of item 2 gives the stipulation ruling (al m'nat she'yochal ani u'vni) and the son's obligation in maaser, which is precisely what heading 1 ('Son's Obligation') is about.",
+      "current_heading": "Drying Extends Work",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Appearance Matters",
+    "candidates": [
+      "Son's Obligation",
+      "Appearance Matters",
+      "Undisclosed Neta Revai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage cites Ravina's answer (not Rav Pappa's) explaining why the son is obligated, which directly answers the question posed in the 'Son's Obligation' section, and that section's prose explicitly anticipates this answer while noting 'a question whose answer Rav Pappa supplies' \u2014 the current placement under 'Appearance Matters' is actually the section whose prose describes Rav Pappa's explanation, but the Talmudic text here attributes the answer to Ravina, matching the flow described in heading 0.",
+      "chosen_heading": "Son's Obligation",
+      "current_heading": "Appearance Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Undisclosed Neta Revai",
+    "candidates": [
+      "Appearance Matters",
+      "Undisclosed Neta Revai",
+      "Redemption and Feeding",
+      "Mekach Taut Appearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about hiring a laborer for neta revai work and the workers being unable to eat, which is precisely what the 'Undisclosed Neta Revai' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Undisclosed Neta Revai",
+      "current_heading": "Undisclosed Neta Revai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Mekach Taut Appearance",
+    "candidates": [
+      "Redemption and Feeding",
+      "Mekach Taut Appearance",
+      "Unsealed Barrels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about why the employer must compensate if the right is mishel Shamayim, and resolves it with the principle of mechzi kemekach taut \u2014 exactly the content described in the 'Mekach Taut Appearance' section's prose.",
+      "chosen_heading": "Mekach Taut Appearance",
+      "current_heading": "Mekach Taut Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Unsealed Barrels",
+    "candidates": [
+      "Unsealed Barrels",
+      "Gmar Melacha Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of gemara argument about the 'unsealed barrels' case \u2014 the proof from the latter clause of the mishna, the mistaken-transaction objection, and Rav Sheshet's resolution \u2014 exactly matching the prose of candidate 0.",
+      "chosen_heading": "Unsealed Barrels",
+      "current_heading": "Unsealed Barrels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Gmar Melacha Debate",
+    "candidates": [
+      "Gmar Melacha Debate",
+      "Packaged Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rabbi Akiva / Tanna Kamma debate about when gmar melacha occurs for wine (misheyikpeh vs. misheyishleh bechaviyot) and the workers' claim of not knowing, which is precisely what the 'Gmar Melacha Debate' prose describes, while the 'Packaged Work' prose discusses the ba'asra locality custom resolution that comes after this dispute is laid out.",
+      "chosen_heading": "Gmar Melacha Debate",
+      "current_heading": "Gmar Melacha Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Packaged Work",
+    "candidates": [
+      "Packaged Work",
+      "Who Can Negotiate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why workers assumed they would also drain the froth (because in that locale the same person who plugs also drains), which is precisely the content explained in the 'Packaged Work' prose.",
+      "chosen_heading": "Packaged Work",
+      "current_heading": "Packaged Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Who Can Negotiate",
+    "candidates": [
+      "Who Can Negotiate",
+      "Who Cannot Negotiate",
+      "Feeding Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both who can and cannot negotiate in a single mishnah text, but heading 0 ('Who Can Negotiate') with its prose explicitly introduces this mishnah as a whole and discusses both the permitted and restricted cases as part of one unit, making it the best match for the complete passage as cited.",
+      "chosen_heading": "Who Can Negotiate",
+      "current_heading": "Who Can Negotiate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Feeding Requirement",
+    "candidates": [
+      "Who Cannot Negotiate",
+      "Feeding Requirement",
+      "Rav Ushaya Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the continuous gemara exchange about whether the father feeds the minors (the 'mishel Shamayim' question and its resolution), which is precisely what the 'Feeding Requirement' prose describes.",
+      "chosen_heading": "Feeding Requirement",
+      "current_heading": "Feeding Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Rav Ushaya Baraita",
+    "candidates": [
+      "Rav Ushaya Baraita",
+      "Salary Interpretation",
+      "Logical Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Hoshaya/Oshaya itself, which is exactly what the 'Rav Ushaya Baraita' section's prose is introducing and discussing.",
+      "chosen_heading": "Rav Ushaya Baraita",
+      "current_heading": "Rav Ushaya Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Logical Problem",
+    "candidates": [
+      "Salary Interpretation",
+      "Logical Problem",
+      "Entitlement Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong to the gemara's attempt to read the mishna/baraita dispute as turning on the mishelo vs. mishel Shamayim question while assuming the father feeds both groups \u2014 Item 1 proposes this reading and refutes it, Item 2 then probes the 'provides food' interpretation further, all of which matches the 'Salary Interpretation' prose description precisely, not the 'Logical Problem' section which discusses the asymmetry between minor children and slaves as a difficulty with a later resolution.",
+      "chosen_heading": "Salary Interpretation",
+      "current_heading": "Logical Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Entitlement Debate",
+    "candidates": [
+      "Logical Problem",
+      "Entitlement Debate",
+      "Common Ground",
+      "Adult Waiver",
+      "Minor Protection",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about whether a master can demand slave labor without feeding the slave \u2014 exactly what candidate 1 ('Entitlement Debate') describes: the complication that the mishna/baraita resolution only works according to one opinion, the conclusion that both sources speak of not feeding, and the dispute about whether a master can demand labor without food.",
+      "chosen_heading": "Entitlement Debate",
+      "current_heading": "Entitlement Debate",
+      "moved": false
+    }
+  }
+]

@@ -34,8 +34,8 @@
           "timestamp": "06:16"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The case of two brothers and the question of whether zika applies when one becomes engaged to the sister",
@@ -63,7 +63,7 @@
           "timestamp": "13:11"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -92,7 +92,7 @@
           "timestamp": "34:16"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "48:20"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -390,5 +390,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "50:15",
+  "amud_b_micro_title": "Attribution Issue",
+  "shiur_start_daf": 17,
+  "shiur_start_amud": "b"
 }

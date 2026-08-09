@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Sura version",
+    "candidates": [
+      "Two versions intro",
+      "Sura version",
+      "Neharde'a version",
+      "Practical ruling",
+      "Plank mishna",
+      "Shmuel's reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the Neharde'a version of the tradition (contrasting with Sura), matching the 'Neharde'a version' section's prose which describes exactly this formulation where Shmuel distinguishes side vs. middle and Rav applies arba amot uniformly.",
+      "chosen_heading": "Neharde'a version",
+      "current_heading": "Sura version",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Shmuel's reinterpretation",
+    "candidates": [
+      "Neharde'a version",
+      "Practical ruling",
+      "Plank mishna",
+      "Shmuel's reinterpretation",
+      "Sheets vs. planks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's proof from the plank mishna and the challenge/resolution regarding Shmuel's position, which is precisely what candidate 2 ('Plank mishna') describes \u2014 the textual proof from the mishna about a four-tefachim plank and how it fits Rav's view, with Shmuel's reconciliation belonging as part of that same unit of discussion.",
+      "chosen_heading": "Plank mishna",
+      "current_heading": "Shmuel's reinterpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Sheets vs. planks",
+    "candidates": [
+      "Shmuel's reinterpretation",
+      "Sheets vs. planks",
+      "Rav's approach tested",
+      "Sura Rav tested"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about two sheets combining and two planks not combining, with Rabbi Meir's dissent \u2014 which is precisely what the prose under heading 1 ('Sheets vs. planks') describes and analyzes.",
+      "chosen_heading": "Sheets vs. planks",
+      "current_heading": "Sheets vs. planks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Sura Rav tested",
+    "candidates": [
+      "Rav's approach tested",
+      "Sura Rav tested",
+      "Cedar planks baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the Gemara's challenge to the Sura version of Rav (ei d'is behu arba / ei d'les behu arba) and its resolution (le'olam de'is behu arba, mitztarfin l'arba amot min hatzad), which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Sura Rav tested",
+      "current_heading": "Sura Rav tested",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Cedar planks baraita",
+    "candidates": [
+      "Cedar planks baraita",
+      "Rabbi Meir concedes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the cedar planks baraita with the four-tefachim threshold and the Rabbi Meir/Rabbi Yehuda dispute, matching precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Cedar planks baraita",
+      "current_heading": "Cedar planks baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rabbi Meir concedes",
+    "candidates": [
+      "Rabbi Meir concedes",
+      "Rav Huna's solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the concession of Rabbi Meir about alternating planks with valid schach, which is what the prose under heading 0 ('Rabbi Meir concedes') directly explains and analyzes.",
+      "chosen_heading": "Rabbi Meir concedes",
+      "current_heading": "Rabbi Meir concedes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Rav Huna's solution",
+    "candidates": [
+      "Rav Huna's solution",
+      "Three tefachim rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: the Gemara's challenge about why the sukka is fit according to the opinion that four handbreadths in the center invalidates, followed by Rav Huna son of Rav Yehoshua's resolution involving an eight-cubit sukka with alternating boards and waste from each side meeting in the middle \u2014 exactly what Candidate 0's prose describes.",
+      "chosen_heading": "Rav Huna's solution",
+      "current_heading": "Rav Huna's solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Three tefachim rule",
+    "candidates": [
+      "Three tefachim rule",
+      "Space definition",
+      "Levud question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's ruling about three tefachim diminution in large vs. small sukkahs, which is exactly what candidate 0's prose describes and summarizes.",
+      "chosen_heading": "Three tefachim rule",
+      "current_heading": "Three tefachim rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Levud question",
+    "candidates": [
+      "Space definition",
+      "Levud question",
+      "Rav Acha position",
+      "Ravina position",
+      "Beam proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the side/center distinction and the Rav A\u1e25a/Ravina dispute about levud in the middle, which is precisely what the 'Levud question' section's prose describes as its content.",
+      "chosen_heading": "Levud question",
+      "current_heading": "Levud question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Beam proof",
+    "candidates": [
+      "Rav Acha position",
+      "Ravina position",
+      "Beam proof",
+      "Skylight proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the baraita proof supporting yesh levud be'emtza and the rebuttal by the opposing sage \u2014 exactly the content described in the 'Beam proof' section's prose about the kora baraita and the response that beams are different because they are rabbinic.",
+      "chosen_heading": "Beam proof",
+      "current_heading": "Beam proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Skylight proof",
+    "candidates": [
+      "Skylight proof",
+      "Exception response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the mishnah about the skylight (aruba) used as a proof against lavud in the center, which is precisely what the 'Skylight proof' section's prose describes.",
+      "chosen_heading": "Skylight proof",
+      "current_heading": "Skylight proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Exception response",
+    "candidates": [
+      "Exception response",
+      "Roof hole teaching",
+      "Four amot qualification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that hilchot tumah are different because they were learned as a specific tradition, which matches perfectly with the 'Exception response' section's prose about the tumah laws being an independent category transmitted as a specific tradition.",
+      "chosen_heading": "Exception response",
+      "current_heading": "Exception response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Four amot qualification",
+    "candidates": [
+      "Roof hole teaching",
+      "Four amot qualification",
+      "Avruma fish",
+      "Location dependency"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Location dependency",
+    "candidates": [
+      "Avruma fish",
+      "Location dependency",
+      "Modern prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yehuda bar Elai's initial ruling on the avruma fish AND Rabbi Yishmael's clarification, which together constitute the full teaching \u2014 the 'Avruma fish' section's prose explicitly describes this exact scenario (the initial ruling plus Rashi's explanation), while the 'Location dependency' section's prose describes only the clarification, meaning the complete passage belongs under heading 0 which opens the topic.",
+      "chosen_heading": "Avruma fish",
+      "current_heading": "Location dependency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Modern prohibition",
+    "candidates": [
+      "Location dependency",
+      "Modern prohibition",
+      "Portico case",
+      "Abaye allows it",
+      "Rava forbids",
+      "Roof edge as wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Gemara passage about Abaye's permission for Bav River fish and Ravina's epilogue about current prohibition \u2014 exactly what the 'Modern prohibition' prose describes in detail.",
+      "chosen_heading": "Modern prohibition",
+      "current_heading": "Modern prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Roof edge as wall",
+    "candidates": [
+      "Portico case",
+      "Abaye allows it",
+      "Rava forbids",
+      "Roof edge as wall",
+      "Parallel debate?",
+      "Shabbat parallel",
+      "Rav on Shabbat",
+      "Shmuel on Shabbat",
+      "Shmuel consistent",
+      "Two-wall concession",
+      "Roofed portico",
+      "Roof serves space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together cover the complete dispute about roofing a portico with or without posts \u2014 introducing the case (item 1), stating Abaye's and Rava's positions on pi tikra (items 2-3), comparing to the Rav/Shmuel Shabbat dispute (items 4-6) \u2014 which is precisely the 'Portico case' heading's topic, not any single sub-heading.",
+      "chosen_heading": "Portico case",
+      "current_heading": "Roof edge as wall",
+      "moved": true
+    }
+  }
+]

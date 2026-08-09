@@ -48,6 +48,19 @@ for daf, v10_suffix, out_suffix in JOBS:
                 "second_confidence": res.get("second_confidence"),
             }
             n_split += 1
+        elif res.get("action") == "split3":
+            moves[tuple(r["quote_indices"])] = {
+                "type": "split3",
+                "split1": res["split1"],
+                "split2": res["split2"],
+                "first_target": res["first_heading"],
+                "first_confidence": res.get("first_confidence"),
+                "second_target": res["second_heading"],
+                "second_confidence": res.get("second_confidence"),
+                "third_target": res["third_heading"],
+                "third_confidence": res.get("third_confidence"),
+            }
+            n_split += 1
         elif res.get("moved") and res.get("confidence") == "high":
             moves[tuple(r["quote_indices"])] = {"type": "single", "target": res["chosen_heading"]}
             n_single += 1

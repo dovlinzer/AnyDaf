@@ -16,9 +16,7 @@ The *mishnah* lists *shor* as one of the four primary categories. A *beraisa*, h
 
 ### Keren Definition
 
-The *gemara* describes *keren* as the *parshah* in the *Torah* dealing with goring, for which one pays half-damages for the first three occurrences and full damages thereafter. Crucially, however, what defines the *keren* category is not the specific body part — the horn — but rather the nature of the act. The defining characteristic of *keren* is *kavanaso l'hazik*: the animal's intention is to cause damage.
-
----
+The *gemara* identifies *keren* — using the horn — as the *parshah* in the *Torah* dealing with goring, and notes that what defines this category is not the body part used but the nature of the act: *kavanaso l'hazik*, its intention is to cause damage. The *gemara* then proceeds, toward the bottom of *daf beis amud beis*, with the statement *ela toldosayhen lav k'yotsei bahen* — that the *toldos* are not like their *av*.
 
 ## Avos & Toldos Framew (II)
 

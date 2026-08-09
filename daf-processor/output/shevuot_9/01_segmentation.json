@@ -34,8 +34,8 @@
           "timestamp": "04:00"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Scope of Musaf Korbanos: Why Multiple Offerings for Tumat Mikdash",
@@ -63,7 +63,7 @@
           "timestamp": "11:01"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -136,7 +136,7 @@
           "timestamp": "29:03"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -184,8 +184,8 @@
           "timestamp": "37:05"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Distinguishing Two Types of Avon: Avon Hakodashim vs. Avon HaEidah",
@@ -213,7 +213,7 @@
           "timestamp": "41:09"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -478,5 +478,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "23:41",
+  "amud_b_micro_title": "Regalim Question",
+  "shiur_start_daf": 8,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Exceptions Prove Rule",
+    "candidates": [
+      "Blood Disposal Overview",
+      "No Me'ilah Before Mitzvah",
+      "Three Pesukim Analysis",
+      "Exceptions Prove Rule",
+      "Rabbi Dosa Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses trumat hadeshen and bigdei kehunah as two verses that come as one (shenei kesuvim habayim ke'echad), which is precisely what the 'Exceptions Prove Rule' section's prose describes.",
+      "chosen_heading": "Exceptions Prove Rule",
+      "current_heading": "Exceptions Prove Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rabbi Dosa Position",
+    "candidates": [
+      "Rabbi Dosa Position",
+      "Eglah Arufah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Rabbis' position that the white garments require interment, which directly contrasts with Rabbi Dosa's position being discussed in candidate 0's prose \u2014 this is the setup for the complication the Rabbi Dosa section addresses.",
+      "chosen_heading": "Rabbi Dosa Position",
+      "current_heading": "Rabbi Dosa Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Eglah Arufah Exception",
+    "candidates": [
+      "Eglah Arufah Exception",
+      "Blood Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Rabbi Dosa objection, the two-verses-that-come-as-one principle regarding trumat hadeshen and eglah arufah, and the two mi'utim (vesamo and ha'arufah) \u2014 exactly what the 'Eglah Arufah Exception' prose describes.",
+      "chosen_heading": "Eglah Arufah Exception",
+      "current_heading": "Eglah Arufah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Blood Exclusions",
+    "candidates": [
+      "Blood Exclusions",
+      "Pigul & Matir Hu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about why three verses are needed regarding blood, directly corresponding to the 'Blood Exclusions' prose which explicitly discusses exactly these three exclusions (nosar, tumah, me'ilah) and why each separate verse is required.",
+      "chosen_heading": "Blood Exclusions",
+      "current_heading": "Blood Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Pigul & Matir Hu",
+    "candidates": [
+      "Pigul & Matir Hu",
+      "Service Order Review",
+      "Pesukim Emphasis",
+      "Nine Steps Enumerated",
+      "Out of Order Principle",
+      "Interruption Protocol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses how blood is exempt from piggul because it is itself the matir, which is precisely what the 'Pigul & Matir Hu' section's prose describes in detail.",
+      "chosen_heading": "Pigul & Matir Hu",
+      "current_heading": "Pigul & Matir Hu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Interruption Protocol",
+    "candidates": [
+      "Service Order Review",
+      "Pesukim Emphasis",
+      "Nine Steps Enumerated",
+      "Out of Order Principle",
+      "Interruption Protocol",
+      "Three Components",
+      "Resume Mid-Service View",
+      "Ketoret Question",
+      "Tanu Rabanan Intro",
+      "Rabbi Yehuda Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Out of Order Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna stating the out-of-order principle (kol ma'aseh Yom HaKippurim al haseder, lo asa klum), which matches perfectly with the 'Out of Order Principle' prose discussing exactly that rule.",
+      "second_heading": "Interruption Protocol",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the interruption/spilling scenario and the independent kapara principle with Rabbi Elazar and Rabbi Shimon's view on resuming mid-service, matching the 'Interruption Protocol' section's prose about what happens when blood spills mid-service.",
+      "current_heading": "Interruption Protocol",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rabbi Yehuda Position",
+    "candidates": [
+      "Three Components",
+      "Resume Mid-Service View",
+      "Ketoret Question",
+      "Tanu Rabanan Intro",
+      "Rabbi Yehuda Position",
+      "Rabbi Nechemiah Position",
+      "Pesuk Derivation",
+      "Rabbi Yochanan Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself \u2014 'tanu rabanan kol ma'asei Yom HaKippurim amurim al haseder' \u2014 which is precisely what heading 3 ('Tanu Rabanan Intro') describes, including the quote of 'im hikdim ma'aseh lachaveiro lo asa klum' and Rabbi Yehuda's qualification, all of which belong to the opening of that baraita before the deeper analysis of Rabbi Yehuda's position in heading 4.",
+      "chosen_heading": "Tanu Rabanan Intro",
+      "current_heading": "Rabbi Yehuda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Rabbi Yochanan Analysis",
+    "candidates": [
+      "Rabbi Nechemiah Position",
+      "Pesuk Derivation",
+      "Rabbi Yochanan Analysis",
+      "Vichilah Emphasis",
+      "Akiva vs Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items concern the derivation of Rabbi Yehuda and Rabbi Ne\u1e25emya's positions from the single verse 'achat bashanah,' including the Gemara's reconstruction using 'zot' and 'achat' as two limiting words, and the dispute about shirayin \u2014 exactly what the prose under 'Rabbi Yochanan Analysis' (index 2) discusses in detail.",
+      "chosen_heading": "Rabbi Yochanan Analysis",
+      "current_heading": "Rabbi Yochanan Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Akiva vs Yehuda",
+    "candidates": [
+      "Vichilah Emphasis",
+      "Akiva vs Yehuda",
+      "Shirayin Integral?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Akiva vs Rabbi Yehuda dispute over the emphasis of 'vechila mekapper,' which is precisely what heading 1 'Akiva vs Yehuda' describes in its prose.",
+      "chosen_heading": "Akiva vs Yehuda",
+      "current_heading": "Akiva vs Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Shirayin Integral?",
+    "candidates": [
+      "Shirayin Integral?",
+      "Nechemiah Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Yochanan/Rabbi Yehoshua ben Levi debate about whether the difference between the two opinions is hermeneutic or whether shirayin me'akvei, which is precisely what the 'Shirayin Integral?' section's prose discusses.",
+      "chosen_heading": "Shirayin Integral?",
+      "current_heading": "Shirayin Integral?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Nechemiah Contradiction",
+    "candidates": [
+      "Nechemiah Contradiction",
+      "Tosafot Resolution",
+      "Ketoret Before Par"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Rabbi Yochanan's consistency regarding Rabbi Ne\u1e25emya's view on shirayin being me'akev, and ends with 'kashya' \u2014 precisely the tension and unresolved difficulty described in the 'Nechemiah Contradiction' prose.",
+      "chosen_heading": "Nechemiah Contradiction",
+      "current_heading": "Nechemiah Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Ketoret Before Par",
+    "candidates": [
+      "Tosafot Resolution",
+      "Ketoret Before Par",
+      "Not Rabbi Yehuda",
+      "Tzorech Pnim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rabbi \u1e24anina's ruling that scooping incense before slaughtering the bull accomplished nothing, which is exactly what the 'Ketoret Before Par' section's prose describes as its subject matter.",
+      "chosen_heading": "Ketoret Before Par",
+      "current_heading": "Ketoret Before Par",
+      "moved": false
+    }
+  }
+]

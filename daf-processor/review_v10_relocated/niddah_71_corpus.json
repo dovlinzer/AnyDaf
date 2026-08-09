@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Men Cannot Be Zav",
+    "candidates": [
+      "Dead Niddah Tumah",
+      "Fear vs. Shock Analysis",
+      "Pachda/Bisusa Difference",
+      "Men Cannot Be Zav",
+      "Baraita on Clothes",
+      "Women's Clothes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the gemara's challenge that Beit Shammai's bisusa-reasoning cannot explain why all men die as zavim, because a zav discharge must come mi-besaro and not mi-chamat ones \u2014 precisely the content described in the 'Men Cannot Be Zav' prose.",
+      "chosen_heading": "Men Cannot Be Zav",
+      "current_heading": "Men Cannot Be Zav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Women's Clothes",
+    "candidates": [
+      "Baraita on Clothes",
+      "Women's Clothes",
+      "Universal Immersion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita as the reason for Beit Shammai's opinion, which matches heading 0's prose that explicitly states 'the real reasoning of Beit Shammai is as found in a baraita' and that 'that baraita is the subject of the next section,' making heading 0 the natural home for this transitional passage.",
+      "chosen_heading": "Baraita on Clothes",
+      "current_heading": "Women's Clothes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Universal Immersion",
+    "candidates": [
+      "Women's Clothes",
+      "Universal Immersion",
+      "Men's Clothes Too",
+      "Niddah vs. Zav Frequency",
+      "Woman's Vaginal Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the parallel case of living zavin being embarrassed when utensils of deceased zavin were singled out for immersion, and the enactment to immerse utensils of all men \u2014 which is precisely what the 'Men's Clothes Too' section prose describes.",
+      "chosen_heading": "Men's Clothes Too",
+      "current_heading": "Universal Immersion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Woman's Vaginal Blood",
+    "candidates": [
+      "Men's Clothes Too",
+      "Niddah vs. Zav Frequency",
+      "Woman's Vaginal Blood",
+      "Both Ketem & Ohel",
+      "After Death Only",
+      "Childbirth Exception",
+      "Ketem Excludes Ohel",
+      "Makor Makomo Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishna text describes a woman who died and a quarter-log of blood emerged from her, transmitting both ketem and ohel impurity \u2014 precisely the case introduced in the 'Woman's Vaginal Blood' section's prose, which sets up this exact scenario.",
+      "chosen_heading": "Woman's Vaginal Blood",
+      "current_heading": "Woman's Vaginal Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Makor Makomo Tamei",
+    "candidates": [
+      "Both Ketem & Ohel",
+      "After Death Only",
+      "Childbirth Exception",
+      "Ketem Excludes Ohel",
+      "Makor Makomo Tamei",
+      "Corpse Tumah Only",
+      "Mixed Timing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ketem Excludes Ohel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Mishnah text covering Rabbi Yehuda's ruling, his childbirth concession, and Rabbi Yosi's logical implication \u2014 all of which are discussed under heading 3 ('Ketem Excludes Ohel') which addresses exactly Rabbi Yosi's conclusion that childbirth blood lacks ohel tumah status.",
+      "second_heading": "Makor Makomo Tamei",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 are the Gemara's analysis inferring the first tanna's position and Zeiri's resolution via 'makor mekomo tamei', which is precisely what heading 4 ('Makor Makomo Tamei') discusses.",
+      "current_heading": "Makor Makomo Tamei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Mixed Timing",
+    "candidates": [
+      "Corpse Tumah Only",
+      "Mixed Timing",
+      "Dam T'fusa Concept",
+      "Murdered Person Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the childbirth case where Rabbi Yehuda concedes and the gemara's clarification via Rav Yehuda that dam t'fusa is the crux \u2014 exactly the content described in the 'Mixed Timing' prose, which explains Rabbi Yehuda's concession in the childbirth case and the dam t'fusa clarification.",
+      "chosen_heading": "Mixed Timing",
+      "current_heading": "Mixed Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Murdered Person Case",
+    "candidates": [
+      "Dam T'fusa Concept",
+      "Murdered Person Case",
+      "Flow Continuity",
+      "Dripping Exception",
+      "Rishon Nullification",
+      "Blood Immunity",
+      "Crucifixion Scenario",
+      "Chachamim Tahor",
+      "Death Blood Isolated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous baraita discussion defining dam t'fusa \u2014 covering Rabbi Elazar's definition, the Chachamim's response about private/public domain, the refined definition requiring continuous flow, Rabbi Yehuda's dripping case, and the Chachamim's nullification argument \u2014 exactly matching the 'Murdered Person Case' prose which walks through precisely these elements of the baraita.",
+      "chosen_heading": "Murdered Person Case",
+      "current_heading": "Murdered Person Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Death Blood Isolated",
+    "candidates": [
+      "Flow Continuity",
+      "Dripping Exception",
+      "Rishon Nullification",
+      "Blood Immunity",
+      "Crucifixion Scenario",
+      "Chachamim Tahor",
+      "Death Blood Isolated",
+      "Porous Material Effect",
+      "Childbirth Dam T'fusa",
+      "First Opinion",
+      "Mixed Timing View",
+      "Preparing Pesach Water",
+      "Tevul Yom Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Crucifixion Scenario",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shimon's and Rabbi Yehuda's positions on the crucifixion scenario, which matches heading 4 ('Crucifixion Scenario') describing tzaluv al ha-eitz and the revi'it found beneath him, not heading 6 which discusses Rabbi Yehuda's reasoning after the fact.",
+      "second_heading": "Porous Material Effect",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question about why Rabbi Yehuda doesn't apply the same 'death drop remains on the wood' argument to the bed case, answered by shani mittah de-mechalchela (the bed is porous), which exactly matches heading 7 ('Porous Material Effect').",
+      "current_heading": "Death Blood Isolated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Tevul Yom Problem",
+    "candidates": [
+      "Porous Material Effect",
+      "Childbirth Dam T'fusa",
+      "First Opinion",
+      "Mixed Timing View",
+      "Preparing Pesach Water",
+      "Tevul Yom Problem",
+      "Rishon Status",
+      "Chullin Tahor",
+      "Pouring Solution",
+      "Maaser & Challah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items \u2014 the Mishna about a woman in her days of dam tahor pouring water for the Pesach offering, the retraction, and the Gemara's analysis including the Abba Shaul resolution \u2014 are precisely what candidate 4 ('Preparing Pesach Water') introduces, covering the mishnah's opening case, the debate about chullin she-na'asu al taharat ha-kodesh, and the woman's permitted role in preparing the pesach waters.",
+      "chosen_heading": "Preparing Pesach Water",
+      "current_heading": "Tevul Yom Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Maaser & Challah",
+    "candidates": [
+      "Rishon Status",
+      "Chullin Tahor",
+      "Pouring Solution",
+      "Maaser & Challah",
+      "Virtual Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Items 1-2 and 4-6 all discuss the mishna's rulings on maaser, challah separation, and teruma loaf, which directly matches the 'Maaser & Challah' section's prose about tevul yom eating maaser and separating challah; item 3 is an interpolated mishna but the overall passage belongs here.",
+      "chosen_heading": "Maaser & Challah",
+      "current_heading": "Maaser & Challah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Virtual Separation",
+    "candidates": [
+      "Virtual Separation",
+      "Spit & Blood Safe",
+      "Tevul Yom Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the designation of challah by name and the concern about touching it from the outside, which is precisely what the 'Virtual Separation' prose addresses when it mentions the gemara noting the concern about inadvertently touching the newly created challah but dismissing it.",
+      "chosen_heading": "Virtual Separation",
+      "current_heading": "Virtual Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Tevul Yom Limited",
+    "candidates": [
+      "Spit & Blood Safe",
+      "Tevul Yom Limited",
+      "Beit Shammai Required",
+      "Beit Hillel Not Required",
+      "Rav Katina Explains",
+      "Rashi Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna from Tevul Yom explaining that bodily fluids of a tevul yom have the same status as liquids he touches and do not transmit impurity, except for a zav's fluids \u2014 which is precisely what candidate 1 ('Tevul Yom Limited') discusses in its prose.",
+      "chosen_heading": "Tevul Yom Limited",
+      "current_heading": "Tevul Yom Limited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Rashi Clarification",
+    "candidates": [
+      "Beit Shammai Required",
+      "Beit Hillel Not Required",
+      "Rav Katina Explains",
+      "Rashi Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Katina's explanation of the dispute between Beit Shammai and Beit Hillel in terms of 'tevul yom aroch,' which is precisely what the 'Rav Katina Explains' section's prose discusses.",
+      "chosen_heading": "Rav Katina Explains",
+      "current_heading": "Rashi Clarification",
+      "moved": true
+    }
+  }
+]

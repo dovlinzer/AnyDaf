@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Machlokes Overview",
+    "candidates": [
+      "Machlokes Overview",
+      "Zevachim Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents a challenge to Rav's opinion and his resolution of it, which directly concerns the machlokes between Rav and Rabbi Yochanan described in the Machlokes Overview prose, not the Zevachim Mishnah discussion about coals falling off the mizbeiach.",
+      "chosen_heading": "Machlokes Overview",
+      "current_heading": "Machlokes Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Zevachim Mishnah",
+    "candidates": [
+      "Zevachim Mishnah",
+      "Coal vs. Ash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's initial objection from the Zevachim Mishnah, presenting the text of the challenge itself, which matches the prose of heading 0 that explicitly discusses this meiseiv from Zevachim and the ruling about coals on/off the mizbeiach.",
+      "chosen_heading": "Zevachim Mishnah",
+      "current_heading": "Zevachim Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Coal vs. Ash",
+    "candidates": [
+      "Coal vs. Ash",
+      "R. Yochanan's Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two-directional version of the Rav/Rabbi Yochanan debate about coal vs. ash and substance (meshasha), which is precisely what heading 0's prose describes in detail, including the alternative formulation presented in item 2.",
+      "chosen_heading": "Coal vs. Ash",
+      "current_heading": "Coal vs. Ash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "R. Yochanan's Reply",
+    "candidates": [
+      "R. Yochanan's Reply",
+      "Tosafot on Terumas",
+      "Benefit Before/After",
+      "Rav: Olat Nedavah",
+      "Levi: Ketoret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's reply that the same rule applies even to ash, and the Mishnah chose to teach the ember case to show even substantial items need not be returned \u2014 which is precisely what the prose under 'R. Yochanan's Reply' describes.",
+      "chosen_heading": "R. Yochanan's Reply",
+      "current_heading": "R. Yochanan's Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Levi: Ketoret",
+    "candidates": [
+      "Tosafot on Terumas",
+      "Benefit Before/After",
+      "Rav: Olat Nedavah",
+      "Levi: Ketoret",
+      "Money Restitution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present Levi's ruling and the supporting baraita identifying ketoret as the item entirely consumed on the altar, which is precisely what the 'Levi: Ketoret' section's prose discusses.",
+      "chosen_heading": "Levi: Ketoret",
+      "current_heading": "Levi: Ketoret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Money Restitution",
+    "candidates": [
+      "Money Restitution",
+      "Restitution Principles",
+      "Contradiction",
+      "Rav Gbiha: Reisha/Seifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit about money designated for chatat/asham \u2014 the baraita supporting Rav (items 1-2), the internal contradiction noted (item 3), and Rabbi Shimon's resolution (item 4) \u2014 which matches exactly the 'Money Restitution' section's prose discussion of chatat/asham money, yam hamelach, and the chatat she'niskapru ba'aleha analysis.",
+      "chosen_heading": "Money Restitution",
+      "current_heading": "Money Restitution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rav Gbiha: Reisha/Seifa",
+    "candidates": [
+      "Restitution Principles",
+      "Contradiction",
+      "Rav Gbiha: Reisha/Seifa",
+      "Tamei After Zerikat",
+      "Tosafot on Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Geviha of Bei Katil reporting to Rav Ashi that Abaye said 'reisha Rabbi Shimon, seifa Rabbanan,' which is precisely what the prose of candidate 2 describes.",
+      "chosen_heading": "Rav Gbiha: Reisha/Seifa",
+      "current_heading": "Rav Gbiha: Reisha/Seifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Tosafot on Status",
+    "candidates": [
+      "Tamei After Zerikat",
+      "Tosafot on Status",
+      "Gemara Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0 ('Tamei After Zerikat') directly introduces Rava's broad statement and the Gemara's 'peshita' response \u2014 exactly the two items in the passage \u2014 whereas the current placement (Tosafot on Status) discusses Tosafot's interpretation, which comes after the basic Gemara exchange is presented.",
+      "chosen_heading": "Tamei After Zerikat",
+      "current_heading": "Tosafot on Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Gemara Consensus",
+    "candidates": [
+      "Tosafot on Status",
+      "Gemara Consensus",
+      "Kedusha Levels",
+      "Rava: Timing of Awareness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the Gemara's 'mahu de-teima' reasoning for both cases (basar kodshei kodashim and imurei kodshim kalim), which is precisely what the Gemara Consensus section's prose discusses in detail.",
+      "chosen_heading": "Gemara Consensus",
+      "current_heading": "Gemara Consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rava: Timing of Awareness",
+    "candidates": [
+      "Kedusha Levels",
+      "Rava: Timing of Awareness",
+      "Fully Burned Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's ruling about the timing of awareness (before vs. after atonement) and the principle of ein mafrishin l'chatchilah l'ibud, which is precisely what the 'Rava: Timing of Awareness' section's prose describes.",
+      "chosen_heading": "Rava: Timing of Awareness",
+      "current_heading": "Rava: Timing of Awareness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Fully Burned Items",
+    "candidates": [
+      "Fully Burned Items",
+      "Three Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna introducing the fully-burned sacrificial items (kometz, levonah, ketoret, minchat kohanim, etc.) and stating that me'ilah applies from consecration, which is exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Fully Burned Items",
+      "current_heading": "Fully Burned Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Three Stages",
+    "candidates": [
+      "Three Stages",
+      "Matirin Principle",
+      "Asher Yikrav",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three-stage consecration process \u2014 kiddeshan bikli triggering susceptibility to tevel yom, mechusar kippurim, linah, notar, and tumah liability, but no piggul \u2014 which is precisely what the 'Three Stages' prose section discusses.",
+      "chosen_heading": "Three Stages",
+      "current_heading": "Three Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Matirin Principle",
+      "Asher Yikrav",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Matirin Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text stating the 'matirin principle' \u2014 the rule about piggul/notar/tumah liability depending on whether an item has permitting factors \u2014 which matches heading 0 ('Matirin Principle') whose prose explicitly summarizes this exact Mishnaic rule.",
+      "second_heading": "Asher Yikrav",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 are the Gemara's derivation of these rules from pesukim, including the kal vachomer about tumah vs piggul and the exegesis of 'asher yikrav,' which matches heading 1 ('Asher Yikrav') whose prose describes exactly this Talmudic discussion.",
+      "current_heading": "Rabbi Eliezer",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,672 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Metzitzah Overview",
+    "candidates": [
+      "Metzitzah Overview",
+      "Rav Papa on Health",
+      "Blood Vessels & Melacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Papa's statement about a mohel who does not perform metzitzah being a danger and being removed, which is precisely what candidate 1 ('Rav Papa on Health') discusses in its prose.",
+      "chosen_heading": "Rav Papa on Health",
+      "current_heading": "Metzitzah Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Blood Vessels & Melacha",
+    "candidates": [
+      "Rav Papa on Health",
+      "Blood Vessels & Melacha",
+      "Isplanit & Kammon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question of 'pshita' and the answer about whether the blood is pooled or connected to vessels (hibubi mikhbar), which is precisely what the 'Blood Vessels & Melacha' section's prose describes.",
+      "chosen_heading": "Blood Vessels & Melacha",
+      "current_heading": "Blood Vessels & Melacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Isplanit & Kammon",
+    "candidates": [
+      "Isplanit & Kammon",
+      "Metzitzah Evolution",
+      "Poultice Recipe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the analogy between metzitzah and isplanit/kammon to establish sakana, which is precisely what the 'Isplanit & Kammon' section's prose describes.",
+      "chosen_heading": "Isplanit & Kammon",
+      "current_heading": "Isplanit & Kammon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Poultice Recipe",
+    "candidates": [
+      "Metzitzah Evolution",
+      "Poultice Recipe",
+      "Rava's Secret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the bandage (isplanit) recipe with Abaye's formula of seven parts fat and one part wax, which matches exactly the 'Poultice Recipe' section's prose about Abaye's nursemaid teaching the isplanita formula \u2014 the current placement is correct.",
+      "chosen_heading": "Poultice Recipe",
+      "current_heading": "Poultice Recipe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Rava's Secret",
+    "candidates": [
+      "Rava's Secret",
+      "Cumin Grinding",
+      "Yom Tov Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rava teaching in Me\u1e25oza, the doctors tearing their garments, and Shmuel's remedy of beet water \u2014 exactly what the 'Rava's Secret' prose discusses.",
+      "chosen_heading": "Rava's Secret",
+      "current_heading": "Rava's Secret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Yom Tov Differences",
+    "candidates": [
+      "Cumin Grinding",
+      "Yom Tov Differences",
+      "Abaye's Question",
+      "Tanna Kamma Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Baraita about actions permitted for circumcision on Yom Tov but not Shabbat (grinding cumin, mixing wine and oil), which is precisely what the 'Yom Tov Differences' section prose describes.",
+      "chosen_heading": "Yom Tov Differences",
+      "current_heading": "Yom Tov Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Tanna Kamma Dispute",
+    "candidates": [
+      "Abaye's Question",
+      "Tanna Kamma Dispute",
+      "Rabbi Meir's Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's question to Rav Yosef about cumin on Yom Tov and the wine-and-oil baraita citation, which is precisely what Candidate 0 ('Abaye's Question') describes in its prose, not Candidate 1 which focuses on the tanna kamma dispute as a standalone baraita.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Tanna Kamma Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rabbi Meir's Humility",
+    "candidates": [
+      "Tanna Kamma Dispute",
+      "Rabbi Meir's Humility",
+      "Vigor vs. Method",
+      "Authority & Trust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Meir's personal stringency episode and the Gemara's conclusion that it was a personal chumra only, which is precisely what candidate 1 ('Rabbi Meir's Humility') discusses in its prose.",
+      "chosen_heading": "Rabbi Meir's Humility",
+      "current_heading": "Rabbi Meir's Humility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Authority & Trust",
+    "candidates": [
+      "Vigor vs. Method",
+      "Authority & Trust",
+      "Filtering Ban",
+      "Egg Filter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between vigorous beating (leicha) required for circumcision vs. not required for medicine, and the resolution that placing components separately (lo leicha) is what the Mishna intends \u2014 exactly what the 'Vigor vs. Method' section's prose describes.",
+      "chosen_heading": "Vigor vs. Method",
+      "current_heading": "Authority & Trust",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Egg Filter",
+    "candidates": [
+      "Filtering Ban",
+      "Egg Filter",
+      "Borer Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Baraita about filtering mustard and Abaye's question, which together are introduced and discussed under the 'Filtering Ban' section's prose, while the current 'Egg Filter' heading only covers Abaye's question in isolation \u2014 the full passage belongs under the heading that introduces the Baraita itself.",
+      "chosen_heading": "Filtering Ban",
+      "current_heading": "Egg Filter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Borer Analysis",
+    "candidates": [
+      "Egg Filter",
+      "Borer Analysis",
+      "Coal & Kibui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's response distinguishing the egg case from the mustard case using the 'appears like selecting' reasoning, which is precisely what the 'Borer Analysis' prose section discusses.",
+      "chosen_heading": "Borer Analysis",
+      "current_heading": "Borer Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Coal & Kibui",
+    "candidates": [
+      "Coal & Kibui",
+      "Ochel Nefesh Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the contradiction between the Mishnah and Baraita about sweetening mustard with coal and its resolution via the metal/wood distinction, which is precisely what the 'Coal & Kibui' section's prose describes.",
+      "chosen_heading": "Coal & Kibui",
+      "current_heading": "Coal & Kibui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ochel Nefesh Rules",
+    "candidates": [
+      "Ochel Nefesh Rules",
+      "Cheese vs. Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Abaye-Rav Yosef exchange about meat on coals vs. mustard on coals (bishra agumrei / lo efshar / efshar), which is exactly what the 'Ochel Nefesh Rules' prose describes.",
+      "chosen_heading": "Ochel Nefesh Rules",
+      "current_heading": "Ochel Nefesh Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Cheese vs. Bread",
+    "candidates": [
+      "Cheese vs. Bread",
+      "Pre-Yom Tov Option",
+      "Fresh Cheese Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Abaye's question about curdling cheese and Rav Yosef's prohibition plus the comparison to kneading dough, which is exactly what heading 0 ('Cheese vs. Bread') describes in its prose.",
+      "chosen_heading": "Cheese vs. Bread",
+      "current_heading": "Cheese vs. Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Fresh Cheese Value",
+    "candidates": [
+      "Pre-Yom Tov Option",
+      "Fresh Cheese Value",
+      "Seam Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Nehardea sages' statement about fresh cheese quality and the Gemara's response, which is precisely what the 'Fresh Cheese Value' section's prose describes.",
+      "chosen_heading": "Fresh Cheese Value",
+      "current_heading": "Fresh Cheese Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Seam Placement",
+    "candidates": [
+      "Seam Placement",
+      "Inner Lining",
+      "Alternative Garment",
+      "Imperforate Anus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics (seam placement, inner lining/half-pouch, and alternative garment) as one continuous Talmudic unit, and the current heading 'Seam Placement' is where the passage sits; however, since all items must go under one heading and the passage begins with the seam/thread concern that matches heading 0's prose introduction of the mishna and Abaye's nursemaid teaching, heading 0 is the best single home for the entire passage.",
+      "chosen_heading": "Seam Placement",
+      "current_heading": "Seam Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Imperforate Anus",
+    "candidates": [
+      "Inner Lining",
+      "Alternative Garment",
+      "Imperforate Anus",
+      "Nursing Issues",
+      "Breathing Issues",
+      "Low Birth Weight",
+      "Ruddy Appearance",
+      "Jaundice Concern",
+      "Ruddy Infant Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly three topics in sequence \u2014 imperforate anus, nursing issues, and urination problems \u2014 and the current placement under 'Imperforate Anus' is where this combined passage begins, matching the essay's prose which discusses the imperforate anus remedy that opens the quoted text.",
+      "chosen_heading": "Imperforate Anus",
+      "current_heading": "Imperforate Anus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Ruddy Infant Case",
+    "candidates": [
+      "Nursing Issues",
+      "Breathing Issues",
+      "Low Birth Weight",
+      "Ruddy Appearance",
+      "Jaundice Concern",
+      "Ruddy Infant Case",
+      "Jaundiced Infant Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ruddy Appearance",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers three teachings from Abaye's nurse/mother: breathing (placenta), low birth weight (placenta rub direction), and ruddy/pale infants awaiting blood absorption before circumcision \u2014 the ruddy and pale content matches heading 3 ('Ruddy Appearance') which discusses waiting until blood is absorbed, and the breathing/size content precedes it, but the circumcision delay content is the dominant final topic of item 1, fitting heading 3's prose about *de-sumak* and *de-yarok* combined.",
+      "second_heading": "Ruddy Infant Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita of Rabbi Natan describing the ruddy infant case where he instructed the mother to wait until blood was absorbed, which matches heading 5 ('Ruddy Infant Case') exactly.",
+      "current_heading": "Ruddy Infant Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Jaundiced Infant Case",
+    "candidates": [
+      "Jaundiced Infant Case",
+      "Rashi on Blood",
+      "Blood Ritualization",
+      "Bathing Allowed",
+      "Third Day Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Cappadocia case of the pale/jaundiced infant whose blood was insufficient for circumcision, which is precisely what the 'Jaundiced Infant Case' prose discusses.",
+      "chosen_heading": "Jaundiced Infant Case",
+      "current_heading": "Jaundiced Infant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Third Day Exception",
+    "candidates": [
+      "Rashi on Blood",
+      "Blood Ritualization",
+      "Bathing Allowed",
+      "Third Day Exception",
+      "Sprinkling Only",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bathing Allowed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna about bathing before/after circumcision and Rabbi Elazar ben Azaryah's third-day ruling, which the 'Bathing Allowed' prose explicitly introduces as 'the next Mishna on 134b' discussing marchitzin et ha-katan.",
+      "second_heading": "Third Day Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the safek and androgynos cases, which the 'Third Day Exception' prose explicitly addresses as part of the same Mishna section, noting these additional cases alongside Rabbi Elazar ben Azaryah's ruling.",
+      "current_heading": "Third Day Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Sprinkling Only",
+      "Rava's Reading",
+      "Rava's Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in 'Rava's Reading' prose: the Gemara's initial question, Rav Yehuda/Rabbah bar Avuha's resolution, Rava's objection and alternative reading, the supporting Baraita, the clarification about sprinkling by hand only, and the explanation of why the verse is only a 'zecher' rather than absolute proof.",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Rava's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Rava's Doubt",
+    "candidates": [
+      "Rava's Doubt",
+      "Rav Dimi Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the same continuous episode: Rava's ruling, his subsequent illness and doubt, his students' challenge citing the baraita, and his response analyzing the mishna's precise language \u2014 exactly what the 'Rava's Doubt' prose describes in detail.",
+      "chosen_heading": "Rava's Doubt",
+      "current_heading": "Rava's Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Rav Dimi Ruling",
+    "candidates": [
+      "Rav Dimi Ruling",
+      "Scope Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Rav Dimi's ruling that the halacha follows Rabbi Elazar ben Azaryah, which is precisely what the 'Rav Dimi Ruling' section prose discusses.",
+      "chosen_heading": "Rav Dimi Ruling",
+      "current_heading": "Rav Dimi Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Scope Question",
+    "candidates": [
+      "Scope Question",
+      "Rabbi Yaakov's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the question about whether bathing refers to the entire body or just the circumcision wound, which is exactly what the 'Scope Question' prose describes, before Rabbi Yaakov's answer is given in the next section.",
+      "chosen_heading": "Scope Question",
+      "current_heading": "Scope Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Rabbi Yaakov's View",
+    "candidates": [
+      "Rabbi Yaakov's View",
+      "Rav Yosef Pushes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Ya'akov's argument that the Mishna must refer to washing the entire body because washing the wound area alone would be redundant given Rav's existing rule \u2014 exactly what section 0's prose describes.",
+      "chosen_heading": "Rabbi Yaakov's View",
+      "current_heading": "Rabbi Yaakov's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Rav Yosef Pushes",
+    "candidates": [
+      "Rav Yosef Pushes",
+      "Rav Dimi Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection distinguishing water heated on Shabbat from water heated before Shabbat, which matches exactly the prose under heading 0 ('Rav Yosef Pushes').",
+      "chosen_heading": "Rav Yosef Pushes",
+      "current_heading": "Rav Yosef Pushes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Rav Dimi Answer",
+    "candidates": [
+      "Rav Dimi Answer",
+      "Sakana Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Dimi's objection and Abaye's brief note that Rav Yosef answered first with 'because it poses a danger,' which together constitute the exchange described under 'Rav Dimi Answer' \u2014 the current placement correctly captures both the challenge and its immediate resolution.",
+      "chosen_heading": "Rav Dimi Answer",
+      "current_heading": "Rav Dimi Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Sakana Permits",
+    "candidates": [
+      "Sakana Permits",
+      "Rav Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling transmitted by Ravin in the name of Rabbi Abbahu/Rabbi Yochanan that the halacha follows Rabbi Elazar ben Azarya in all cases because of sakana, which is explicitly described and quoted in the 'Sakana Permits' prose section.",
+      "chosen_heading": "Sakana Permits",
+      "current_heading": "Sakana Permits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Rav Permits",
+    "candidates": [
+      "Rav Permits",
+      "Squeezing Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav's and Shmuel's positions on applying hot water and oil to a wound on Shabbat, which is exactly what the 'Rav Permits' section's prose discusses.",
+      "chosen_heading": "Rav Permits",
+      "current_heading": "Rav Permits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165,
+      166
+    ],
+    "current_heading": "Squeezing Concern",
+    "candidates": [
+      "Squeezing Concern",
+      "Shmuel Forbids",
+      "Running vs. Applying"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Squeezing Concern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a baraita about placing oil/hot water on a cloth before placing it on a wound, dismissed due to squeezing concern \u2014 matching exactly the 'Squeezing Concern' prose.",
+      "second_heading": "Shmuel Forbids",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a second baraita about cloth already on the wound, also dismissed due to squeezing \u2014 matching the 'Shmuel Forbids' prose which discusses this variant case where the bandage is already in place.",
+      "current_heading": "Squeezing Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Running vs. Applying",
+    "candidates": [
+      "Shmuel Forbids",
+      "Running vs. Applying",
+      "Dry Materials OK",
+      "Old vs. New"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Baraita supporting Shmuel's position about applying oil/hot water outside the wound and letting it flow in, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Running vs. Applying",
+      "current_heading": "Running vs. Applying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Old vs. New",
+    "candidates": [
+      "Dry Materials OK",
+      "Old vs. New",
+      "Curative Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire baraita including the permitted items (dry compress/sponge), the prohibition on reeds and rags, the contradiction and resolution about new vs. old rags, and Abaye's conclusion \u2014 all of which together belong under the heading that introduces this baraita, with sections 1 and 2 representing prose commentary that was split out separately but the quoted text itself is a single unified passage best placed under heading 0 where the baraita is first introduced.",
+      "chosen_heading": "Dry Materials OK",
+      "current_heading": "Old vs. New",
+      "moved": true
+    }
+  }
+]

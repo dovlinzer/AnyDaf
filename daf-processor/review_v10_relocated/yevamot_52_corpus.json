@@ -1,0 +1,503 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Zika disagreement",
+    "candidates": [
+      "Opening context",
+      "Rabban Gamliel's rule",
+      "Zika disagreement",
+      "Ein Zika consensus",
+      "Amar Mar setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items concern Rabba bar Rav Huna's defense that both Rabban Gamliel and the Rabbis hold *ein zika* and their dispute is only about *get* after *get* and *ma'amar* after *ma'amar*, which matches precisely the prose of candidate 3 ('Ein Zika consensus').",
+      "chosen_heading": "Ein Zika consensus",
+      "current_heading": "Zika disagreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Amar Mar setup",
+    "candidates": [
+      "Ein Zika consensus",
+      "Amar Mar setup",
+      "Why break first?",
+      "Gezeirah rationale",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage poses the exact question 'why must he break off from the first wife at all if the second ma'amar was meaningless' \u2014 matching heading 2 ('Why break first?') \u2014 and then provides the gezeira answer, but the question itself is the content that drives placement, and the gezeira answer belongs under heading 3; however since the passage contains both the question AND the answer together as one unit, and the question (why chalitza with the first?) is what the passage opens with, heading 2 is the best match for where this combined Q&A unit should sit, immediately before the dedicated gezeira prose of heading 3.",
+      "chosen_heading": "Why break first?",
+      "current_heading": "Amar Mar setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Why break first?",
+      "Gezeirah rationale",
+      "Rabban Gamliel",
+      "Beit Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yo\u1e25anan's statement that Rabban Gamliel and others hold ma'amar koneh kinyan gamur, beginning specifically with Rabban Gamliel's position \u2014 exactly what the 'Rabban Gamliel' section's prose discusses.",
+      "chosen_heading": "Rabban Gamliel",
+      "current_heading": "Rabban Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Beit Shammai",
+    "candidates": [
+      "Beit Shammai",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Beit Shammai ruling from the mishna about three brothers, two married to sisters and one single, which is precisely the case described in the Beit Shammai prose section.",
+      "chosen_heading": "Beit Shammai",
+      "current_heading": "Beit Shammai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Shimon",
+      "Ben Azzai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Shimon's baraita argument about bias rishon/sheni, which is precisely what the prose under 'Rabbi Shimon' describes and analyzes.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Ben Azzai",
+    "candidates": [
+      "Ben Azzai",
+      "Rabbi Nechemiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both ben Azzai's and Rabbi Ne\u1e25emya's sources in sequence, but it begins with ben Azzai and is currently placed under that heading, which is appropriate since the text opens with ben Azzai's baraita and then moves to Rabbi Ne\u1e25emya as a continuation \u2014 and the essay's prose under heading 0 already discusses ben Azzai's position while heading 1 discusses Rabbi Ne\u1e25emya separately, making the current placement the best single home for this unified Talmudic passage.",
+      "chosen_heading": "Ben Azzai",
+      "current_heading": "Ben Azzai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rabbi Nechemiah",
+    "candidates": [
+      "Rabbi Nechemiah",
+      "Keitzad meaning",
+      "Basic sequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's 'keitzad' (How so?) question introducing the hybrid cases, which is precisely what candidate 1's prose discusses \u2014 the gemara's clarification of what 'keitzad' introduces and Rav Yehuda's explanation that it begins the discussion of hybrid combinations.",
+      "chosen_heading": "Keitzad meaning",
+      "current_heading": "Rabbi Nechemiah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Basic sequences",
+    "candidates": [
+      "Keitzad meaning",
+      "Basic sequences",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's clarification of what 'keitzad' introduces \u2014 explaining that 'get after get and ma'amar after ma'amar' were already stated, and 'keitzad' now addresses the hybrid case of one yavam and one yevamah, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Keitzad meaning",
+      "current_heading": "Basic sequences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Basic sequences",
+      "Rav Huna",
+      "Reframing question",
+      "Acceptable answer",
+      "Lashes question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's phrase 'harei zu kemitzvatah' and the Gemara's discussion of whether it supports Rav Huna's ruling, then the refutation 'af zo kemitzvatah' \u2014 exactly what the 'Rav Huna' section's prose describes.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Lashes question",
+    "candidates": [
+      "Reframing question",
+      "Acceptable answer",
+      "Lashes question",
+      "Makat Mardut",
+      "Broader principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the concern that ma'amar causes the levirate bond to dissipate and be replaced by a standard erusin bond, questioning whether the mitzva is still being performed \u2014 which is exactly what the 'Reframing question' prose describes.",
+      "chosen_heading": "Reframing question",
+      "current_heading": "Lashes question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Broader principle",
+    "candidates": [
+      "Makat Mardut",
+      "Broader principle",
+      "Nahardai limits",
+      "Cash/Shtar method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Makat Mardut",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 establish Rav Huna's ruling about yibum without ma'amar and the 'makat mardut midrabbanan' justification, which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Broader principle",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 enumerate Rav's broader practice of administering rabbinic lashes for analogous immodest behaviors (kiddushei bia, shuka, belo shidukhim, bittul get, moda'a, etc.) through the Neharde'a qualification, which is exactly what candidate 1's prose describes in detail.",
+      "current_heading": "Broader principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Cash/Shtar method",
+    "candidates": [
+      "Nahardai limits",
+      "Cash/Shtar method",
+      "Shtar wording"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mechanics of ma'amar via money and shtar, then Abaye's reframing of the shtar question \u2014 content that spans both the 'Cash/Shtar method' section and the 'Shtar wording' section, but its current placement under 'Cash/Shtar method' is correct as the baraita begins with the money/shtar mechanics before Abaye's reframing.",
+      "chosen_heading": "Cash/Shtar method",
+      "current_heading": "Cash/Shtar method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Shtar wording",
+    "candidates": [
+      "Shtar wording",
+      "Get wording test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact wording of the yibum ketubah shtar and the rabbinic institution ensuring collection from the yavam if the first husband has no property, which is precisely what the 'Shtar wording' section's prose discusses.",
+      "chosen_heading": "Shtar wording",
+      "current_heading": "Shtar wording",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Get wording test",
+    "candidates": [
+      "Get wording test",
+      "Reiach HaGet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's question to Rabba about the 'harei at megureshet mimmeni v'i at muteret le-chol adam' formula, which is precisely what the 'Get wording test' prose describes and analyzes.",
+      "chosen_heading": "Get wording test",
+      "current_heading": "Get wording test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Reiach HaGet",
+    "candidates": [
+      "Reiach HaGet",
+      "Get for Arusah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the concept of reiach ha-get \u2014 item 1 presents the objection and resolution about the piece of paper vs. a disqualifying get, and item 2 is the baraita cited to establish that a one-sided get formula disqualifies from kehuna, exactly as described in the 'Reiach HaGet' prose section.",
+      "chosen_heading": "Reiach HaGet",
+      "current_heading": "Reiach HaGet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Get for Arusah",
+    "candidates": [
+      "Get for Arusah",
+      "Get for stranger",
+      "Yevama Get",
+      "Yevama status",
+      "Divided Get",
+      "Half-divorce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Get for Arusah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the established rule about writing a get for one's arusah (and implicitly the contrast with a stranger), which matches heading 0's prose about the arusah case and the mipnei she-beyado principle.",
+      "second_heading": "Yevama status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains both the yevama inquiry (le-yevamto mahu) and its two options (ka-arusato damya vs. lo avad bah ma'amar) ending in teiku, which matches heading 3's prose about the two positions and the teiku resolution \u2014 not heading 2 which focuses only on posing the question before the options are elaborated.",
+      "current_heading": "Get for Arusah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Half-divorce",
+    "candidates": [
+      "Get for stranger",
+      "Yevama Get",
+      "Yevama status",
+      "Divided Get",
+      "Half-divorce",
+      "Independence theory",
+      "Rava precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24ananya's question about writing a get for only the zika or only the ma'amar, which is exactly what candidate 3 ('Divided Get') describes in its prose.",
+      "chosen_heading": "Divided Get",
+      "current_heading": "Half-divorce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rava precedent",
+    "candidates": [
+      "Independence theory",
+      "Rava precedent",
+      "Conclusion",
+      "Setup",
+      "Issur Lav",
+      "Rabbi Akiva",
+      "Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the asymmetry between Rava's obvious ruling (peshita lei) and Rav Chananya's dilemma, then concludes with teiku \u2014 which matches the 'Conclusion' section's prose precisely, not the 'Rava precedent' section which only covers Rava's ruling itself.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Rava precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Chachamim",
+    "candidates": [
+      "Conclusion",
+      "Setup",
+      "Issur Lav",
+      "Rabbi Akiva",
+      "Chachamim",
+      "Abiyi resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's challenge to placing the mishna under Rabbi Akiva \u2014 item 1 introduces the ruling attributed to Rabbi Akiva vs. Chachamim, items 2-3 raise the objection from the 'get v'ma'amar' clause of the mishna and the baraita about Rabbi Akiva's own derivation \u2014 which is precisely what candidate 4 ('Chachamim') describes in its prose as the difficulty the Gemara raises against the Rabbi Akiva attribution.",
+      "chosen_heading": "Chachamim",
+      "current_heading": "Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Abiyi resolution",
+    "candidates": [
+      "Abiyi resolution",
+      "Yibum framing",
+      "Regular framing",
+      "Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abiyi resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's statement that the bill of divorce for levirate marriage is rabbinic (asmachta), which matches candidate 0's prose about get yavni mi-de'rabbanan and the verse being merely an asmachta.",
+      "second_heading": "Baraita",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita formalizing Rabbi's distinction between kiddushin framed as ishus versus yevamus, which matches candidate 3's prose about the baraita formalizing that distinction with the same conclusion about requiring or not requiring a get.",
+      "current_heading": "Abiyi resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Baraita",
+    "candidates": [
+      "Yibum framing",
+      "Regular framing",
+      "Baraita",
+      "Chachamim",
+      "Ger analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita text directly presents Rabbi's distinction between kiddushin framed as ishus vs. yevamus and the Rabbis' rejection of that distinction, which is precisely what the 'Baraita' section's prose describes.",
+      "chosen_heading": "Baraita",
+      "current_heading": "Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Ger analogy",
+    "candidates": [
+      "Chachamim",
+      "Ger analogy",
+      "Counter analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's analogy of hoeing a ger's property, which is precisely what the 'Ger analogy' section's prose describes and analyzes.",
+      "chosen_heading": "Ger analogy",
+      "current_heading": "Ger analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Counter analogy",
+    "candidates": [
+      "Counter analogy",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's counter-analogy distinguishing the hoeing case from kiddushin and proposing the 'different ger' analogy, which precisely matches the 'Counter analogy' section's prose description.",
+      "chosen_heading": "Counter analogy",
+      "current_heading": "Counter analogy",
+      "moved": false
+    }
+  }
+]

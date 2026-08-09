@@ -1,0 +1,273 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shisuah Definition",
+    "candidates": [
+      "Shisuah Definition",
+      "Moshe's Knowledge",
+      "Loanwords in Aggadic Lit."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the definition of hashesua as a distinct creature AND the hunter/archer rhetorical question leading to the Torah-from-Heaven conclusion, spanning content described in both headings 0 and 1, but it currently sits under heading 0 which introduces the shisuah creature \u2014 however, since the full passage includes both elements and the current placement is where it sits, and the prose of heading 0 explicitly discusses the shisuah definition while heading 1's prose discusses the hunter question separately, the passage as a whole unit is best kept at its current location (0) since it introduces the shisuah before the hunter question.",
+      "chosen_heading": "Shisuah Definition",
+      "current_heading": "Shisuah Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Loanwords in Aggadic Lit.",
+    "candidates": [
+      "Moshe's Knowledge",
+      "Loanwords in Aggadic Lit.",
+      "Five Leaders, Six Named",
+      "Arunki Explanation",
+      "Ivim from Teiman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's instruction to write and explain 'kinnigi and ballisteri' in the aggadeta, which is precisely what the prose of candidate 1 ('Loanwords in Aggadic Lit.') describes and discusses.",
+      "chosen_heading": "Loanwords in Aggadic Lit.",
+      "current_heading": "Loanwords in Aggadic Lit.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Ivim from Teiman",
+    "candidates": [
+      "Five Leaders, Six Named",
+      "Arunki Explanation",
+      "Ivim from Teiman",
+      "Ivim Description"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Five Leaders, Six Named",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the core puzzle (five vs. six named), Rabbi Yonatan's arunki resolution, Rav Chisda's instruction to record it, and Rav's dissenting view that the Avvim came from Teiman \u2014 all of which are the subject of headings 0 and 1, and the prose of heading 0 explicitly covers this entire unit including the foreign loanword and the disagreement with Rav.",
+      "second_heading": "Ivim from Teiman",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita confirming that the Avvim came from Teiman, giving three etymologies for their name, and Rav Yosef's detail about their teeth \u2014 content that heading 2's prose explicitly discusses in detail (the baraita, the three explanations, and heading 3's prose covers Rav Yosef's sixteen rows of teeth), making heading 2 the best single home since it introduces the baraita and the current placement is correct.",
+      "current_heading": "Ivim from Teiman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ivim Description",
+    "candidates": [
+      "Ivim Description",
+      "Avimelech Covenant",
+      "Kaftoriim & Conquest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Shimon ben Lakish's teaching about verses that seem fit to be burned but are the essence of Torah, which is precisely what the 'Ivim Description' prose discusses as the setup to this principle.",
+      "chosen_heading": "Ivim Description",
+      "current_heading": "Ivim Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Kaftoriim & Conquest",
+    "candidates": [
+      "Avimelech Covenant",
+      "Kaftoriim & Conquest",
+      "Sichon's Conquest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the oath Abimelech administered to Abraham as the reason Israel couldn't conquer Philistine land, which is precisely what the 'Avimelech Covenant' section's prose describes, while the current 'Kaftoriim & Conquest' section covers the subsequent solution (the Kaftoriim displacing the Avvim).",
+      "chosen_heading": "Avimelech Covenant",
+      "current_heading": "Kaftoriim & Conquest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Sichon's Conquest",
+    "candidates": [
+      "Kaftoriim & Conquest",
+      "Sichon's Conquest",
+      "Kibbush Milchamah",
+      "Siryon & Senir",
+      "Geography Reverence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Sihon's conquest of Moab enabling Israel to take Heshbon, directly matching the prose in 'Sichon's Conquest' which explains the same legal mechanism and cites Rav Pappa's statement about Ammon and Moab being purified by Sihon.",
+      "chosen_heading": "Sichon's Conquest",
+      "current_heading": "Sichon's Conquest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Geography Reverence",
+    "candidates": [
+      "Kibbush Milchamah",
+      "Siryon & Senir",
+      "Geography Reverence",
+      "Yosef's Compassion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the Torah records foreign names for Hermon, which is exactly what the 'Siryon & Senir' prose introduces \u2014 asking why the Torah bothers telling us what foreign nations call this mountain \u2014 whereas the current heading 'Geography Reverence' describes the answer/conclusion rather than being the proper home for the Talmudic source itself.",
+      "chosen_heading": "Siryon & Senir",
+      "current_heading": "Geography Reverence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Yosef's Compassion",
+    "candidates": [
+      "Geography Reverence",
+      "Yosef's Compassion",
+      "Simanim Not Explicit",
+      "Nesher's Traits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Joseph relocating Egyptians so they would not call his brothers exiles is precisely what the 'Yosef's Compassion' section prose discusses in detail.",
+      "chosen_heading": "Yosef's Compassion",
+      "current_heading": "Yosef's Compassion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Nesher's Traits",
+    "candidates": [
+      "Simanim Not Explicit",
+      "Nesher's Traits",
+      "Torah vs. Rabbinic",
+      "Dores Definition",
+      "One Siman Suffices",
+      "Why List All Birds?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Simanim Not Explicit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's opening challenge to the Mishnah's premise ('And is it true they were not stated?'), which belongs under 'Simanim Not Explicit' where the prose discusses the Mishnah's claim and the initial question it raises.",
+      "second_heading": "Nesher's Traits",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the Baraita's full exposition of the nesher/torim signs and Abaye's resolution, which is precisely what 'Nesher's Traits' prose discusses \u2014 though Abaye's resolution is also treated in 'Torah vs. Rabbinic'; the current placement under 'Nesher's Traits' is correct since that section's prose covers both the Baraita and notes that both issues require resolution, with Abaye's answer being the natural continuation before the next section.",
+      "current_heading": "Nesher's Traits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Why List All Birds?",
+    "candidates": [
+      "Torah vs. Rabbinic",
+      "Dores Definition",
+      "One Siman Suffices",
+      "Why List All Birds?",
+      "Two or Three?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya's teaching that a bird with even one kosher siman is kosher because it is unlike the nesher, which is precisely what the 'One Siman Suffices' section's prose describes and analyzes.",
+      "chosen_heading": "One Siman Suffices",
+      "current_heading": "Why List All Birds?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Two or Three?",
+    "candidates": [
+      "Why List All Birds?",
+      "Two or Three?",
+      "Shnei Kesuvim",
+      "Distribution Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form the continuous chain of question-and-response arguments (from doves through nesher) about how many non-kosher simanim disqualify a bird, which is precisely what the 'Two or Three?' prose describes in detail, including the shenei kesuvim objection introduced at item 7.",
+      "chosen_heading": "Two or Three?",
+      "current_heading": "Two or Three?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Distribution Pattern",
+    "candidates": [
+      "Shnei Kesuvim",
+      "Distribution Pattern",
+      "Unique Combinations",
+      "Nesher Proves Rule",
+      "All Kosher Simanim",
+      "Zero Kosher Simanim",
+      "Mixed Simanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the tradition that resolves the shenei kesuvim objection by stating that the signs of peres and ozniyah are mutually exclusive, which is precisely what section 0 ('Shnei Kesuvim') describes as the Gemara's response to that hermeneutical problem.",
+      "chosen_heading": "Shnei Kesuvim",
+      "current_heading": "Distribution Pattern",
+      "moved": true
+    }
+  }
+]

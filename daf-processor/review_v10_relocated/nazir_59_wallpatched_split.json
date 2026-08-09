@@ -15,7 +15,7 @@
       "action": "single",
       "best_index": 3,
       "confidence": "high",
-      "reason": "The mishna passage introduces Rabbi Yehoshua's solution of asking a stranger in the marketplace to vow as a nazirite, which is precisely what the 'Yehoshua: Stranger' section's prose discusses.",
+      "reason": "The mishna passage specifically presents Rabbi Yehoshua's solution of asking a marketplace stranger to vow nezirut alongside the surviving partner, which is precisely what heading 3 ('Yehoshua: Stranger') discusses.",
       "chosen_heading": "Yehoshua: Stranger",
       "current_heading": "Partner Death Problem",
       "moved": true
@@ -36,14 +36,13 @@
       "Hair Cutting & Nezirut",
       "Zoma: Who Agrees?",
       "Zoma: Bird & Animal",
-      "First Period: Besafek",
-      "Second Period: Complete"
+      "First Period: Besafek"
     ],
     "result": {
       "action": "single",
       "best_index": 1,
       "confidence": "high",
-      "reason": "Both items describe exactly the conditional stipulations the surviving nazirite makes when entering the arrangement with the stranger \u2014 the declarations about korban tumah and korban tahara across two thirty-day periods \u2014 which is precisely what the prose of candidate 1 ('Conditional Stipulations') describes in detail.",
+      "reason": "Both items describe exactly the conditional stipulations mechanism \u2014 bringing korban tumah and korban tahara with declarations covering both scenarios \u2014 which is precisely what the 'Conditional Stipulations' prose section describes in detail.",
       "chosen_heading": "Conditional Stipulations",
       "current_heading": "Conditional Stipulations",
       "moved": false
@@ -51,10 +50,9 @@
   },
   {
     "quote_indices": [
-      36,
-      37
+      34
     ],
-    "current_heading": "Second Period: Complete",
+    "current_heading": "First Period: Besafek",
     "candidates": [
       "Why Wait Thirty Days",
       "Original Tamei Scenario",
@@ -63,17 +61,35 @@
       "Zoma: Who Agrees?",
       "Zoma: Bird & Animal",
       "First Period: Besafek",
-      "Second Period: Complete",
-      "Yehoshua: No Split"
+      "Second Period: Complete"
     ],
     "result": {
       "action": "single",
       "best_index": 5,
       "confidence": "high",
-      "reason": "Both items are Ben Zoma's proposed alternative procedure \u2014 the chatas ha'of and olat behemah with conditional declarations \u2014 which corresponds exactly to heading 5 ('Zoma: Bird & Animal') and its prose about treating the survivor as a safek tamei nazir, with the detailed mechanism described across items 1 and 2 spanning the first and second periods that headings 6 and 7 then elaborate on in the essay's own prose.",
+      "reason": "The passage is Ben Zoma's actual proposal (bird sin-offering and animal burnt-offering with conditional declarations), which directly corresponds to the 'Zoma: Bird & Animal' section's prose about Ben Zoma proposing to treat the survivor as a safek tamei nazir, not the 'First Period: Besafek' section where it currently sits.",
       "chosen_heading": "Zoma: Bird & Animal",
-      "current_heading": "Second Period: Complete",
+      "current_heading": "First Period: Besafek",
       "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Second Period: Complete",
+    "candidates": [
+      "Second Period: Complete",
+      "Yehoshua: No Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes counting thirty days, bringing a korban tahara, and the conditional declaration about the first and second olah being either a nedavah or obligation, which directly matches the prose of 'Second Period: Complete' describing exactly this scenario and declaration.",
+      "chosen_heading": "Second Period: Complete",
+      "current_heading": "Second Period: Complete",
+      "moved": false
     }
   },
   {
@@ -90,7 +106,7 @@
       "action": "single",
       "best_index": 0,
       "confidence": "high",
-      "reason": "The passage contains both Rabbi Yehoshua's objection about splitting offerings and the note that the Sages agreed with Ben Zoma, but the current heading 'Yehoshua: No Split' with its prose directly describes the content of Rabbi Yehoshua's statement (nimtza zeh mevi korbonosav lachatza'in), which is the primary content of this passage; the agreement of the Sages is mentioned only briefly at the end and is elaborated under heading 1's prose separately.",
+      "reason": "The passage contains both Rabbi Yehoshua's statement about splitting offerings AND the note that the Sages agreed with Ben Zoma, but the current heading 'Yehoshua: No Split' has prose that directly discusses Rabbi Yehoshua's *nimtza zeh mevi korbonosav lachatza'in* statement, which is the primary content of this passage; the agreement of the Sages is a brief appended clause that serves as a transition, and the current placement matches the passage's main focus.",
       "chosen_heading": "Yehoshua: No Split",
       "current_heading": "Yehoshua: No Split",
       "moved": false
@@ -114,7 +130,7 @@
       "action": "single",
       "best_index": 1,
       "confidence": "high",
-      "reason": "The passage directly quotes and discusses Rav Yehuda citing Shmuel's explanation that Rabbi Yehoshua spoke only to sharpen his students, which is precisely what the 'Yehuda: Sharpening' section's prose addresses.",
+      "reason": "The passage directly contains the Gemara statement about Rav Yehuda citing Shmuel that Rabbi Yehoshua said this only to sharpen his students, which is precisely what the 'Yehuda: Sharpening' section's prose discusses.",
       "chosen_heading": "Yehuda: Sharpening",
       "current_heading": "Yehuda: Sharpening",
       "moved": false
@@ -148,14 +164,18 @@
       "Fourth Shaving"
     ],
     "result": {
-      "action": "split",
-      "split_after": 1,
+      "action": "split3",
+      "split1": 1,
+      "split2": 4,
       "first_heading": "Nachman: Fat Problems",
       "first_confidence": "high",
-      "first_reason": "Item 1 is Rav Nachman's remark about Rabbi Yehoshua's intestines, which belongs under heading 0 ('Nachman: Fat Problems') whose prose explicitly discusses this exact remark.",
+      "first_reason": "Segment 1 contains Rav Na\u1e25man's remark about Rabbi Yehoshua and the intestines spoiling, which matches exactly the 'Nachman: Fat Problems' heading's prose about Rav Nachman's critique regarding fats of the korbanos.",
       "second_heading": "Complex Case Setup",
       "second_confidence": "high",
-      "second_reason": "Items 2\u20138 introduce a completely new Mishnah (marked 'MISHNA:') about a nazir with double uncertainty (tamei and metzora), which is the 'Complex Case Setup' discussed in heading 1.",
+      "second_reason": "Segment 2 is the Mishna introducing the case of a nazirite with double uncertainty (impure and possibly a leper), which matches the 'Complex Case Setup' heading describing the next mishnah's double-uncertainty scenario.",
+      "third_heading": "Year-Long Nezirut",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara's baraita extending the framework to year-long nezirut (two years for kodshim, four years for wine/impurity) and the four shavings with their korbanos, matching the 'Year-Long Nezirut' heading which introduces exactly this baraita about nezirut of a year.",
       "current_heading": "Four Stages Mapped",
       "moved": true
     }

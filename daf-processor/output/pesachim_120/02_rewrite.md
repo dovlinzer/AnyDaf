@@ -118,7 +118,7 @@ If some members remained awake, continuity is preserved and eating may resume. I
 
 ### Pesach Nosar After
 
-The *mishnah* states: *ha-pesach achar chatzot metamei et ha-yadayim* — the *pesach* after midnight renders the hands *tamei*. This is because the *pesach* becomes *nosar* — leftover meat that may not be eaten — once *chatzot* passes, since according to this *mishnah* the entire night is not available for eating the *korban pesach*; only until midnight. *Nosar*, when touched, imparts *tumah* to the hands, as will be discussed below. The final line of the *mishnah* generalizes: *ha-pigul ve-ha-nosar metamim et ha-yadayim* — both *pigul* and *nosar* render the hands *tamei*.
+The *mishnah* states that the *pesach* after midnight renders the hands *tamei*, because once *chatzot* passes the meat becomes *nosar* — leftover sacrifice that may no longer be eaten — since according to this *mishnah* one does not have the entire night to eat the *korban pesach*, only until midnight.
 
 ## Sleeping Rule (II)
 

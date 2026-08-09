@@ -1,0 +1,231 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Two Surveyors",
+    "candidates": [
+      "NYC Tchumim Problem",
+      "Brooklyn Bridge Tshuva",
+      "Chazon Ish Overlap",
+      "Contemporary Practice",
+      "Greater Measurement",
+      "Rashi v. Tosafos",
+      "Two Surveyors",
+      "Diagonal Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question 'hainu hach' and its answer about two surveyors producing conflicting measurements, which is precisely what the 'Two Surveyors' section's prose describes.",
+      "chosen_heading": "Two Surveyors",
+      "current_heading": "Two Surveyors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Diagonal Limit",
+    "candidates": [
+      "Diagonal Limit",
+      "Why Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about the diagonal limit qualification, which is precisely what the 'Diagonal Limit' section prose discusses in detail.",
+      "chosen_heading": "Diagonal Limit",
+      "current_heading": "Diagonal Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Why Rabbinic",
+    "candidates": [
+      "Why Rabbinic",
+      "Ed Echad Principle",
+      "Women Beyada",
+      "Tosafos Women",
+      "Mishna Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna/Baraita contradiction about lenient vs. stringent and Ravina's resolution that techumim are rabbinic \u2014 are precisely what the 'Why Rabbinic' prose describes, making the current placement correct.",
+      "chosen_heading": "Why Rabbinic",
+      "current_heading": "Why Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Mishna Rule",
+    "candidates": [
+      "Ed Echad Principle",
+      "Women Beyada",
+      "Tosafos Women",
+      "Mishna Rule",
+      "600,000 Criterion",
+      "Ownership Model",
+      "Logical Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text about a private city becoming public and vice versa, which is precisely what the 'Mishna Rule' section's prose introduces and explains.",
+      "chosen_heading": "Mishna Rule",
+      "current_heading": "Mishna Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Logical Problem",
+    "candidates": [
+      "600,000 Criterion",
+      "Ownership Model",
+      "Logical Problem",
+      "Rabbi Yehuda Lechi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The prose under 'Logical Problem' explicitly describes both the Rav Yehuda/Iskurta example and Rav Nachman's challenge about Natzu'ei \u2014 precisely the content of items 1 and 2 \u2014 as part of the Gemara's discussion that the Ramban brings to address the logical inversion in the Mishna, confirming the current placement is correct.",
+      "chosen_heading": "Logical Problem",
+      "current_heading": "Logical Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rabbi Yehuda Lechi",
+    "candidates": [
+      "Rabbi Yehuda Lechi",
+      "Sages Reject",
+      "Length v. Width",
+      "Rabbi Akiva Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the baraita about a private city becoming public, the continuation about a city that remains public, and the Gemara's identification of Rabbi Yehuda as the tanna \u2014 are explicitly discussed together in the 'Rabbi Yehuda Lechi' prose, which covers exactly this baraita and its attribution to Rabbi Yehuda.",
+      "chosen_heading": "Rabbi Yehuda Lechi",
+      "current_heading": "Rabbi Yehuda Lechi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rabbi Akiva Rule",
+    "candidates": [
+      "Sages Reject",
+      "Length v. Width",
+      "Rabbi Akiva Rule",
+      "Daka Barrier",
+      "Courtyard Analogy",
+      "Rabbi Zeira Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 7 items discuss the same continuous topic \u2014 the prohibition against making an eruv for half the city, Rav Pappa's length vs. width distinction, the Rabbi Akiva objection and its resolution, the second stricter version of Rav Pappa, and the alleyway-by-alleyway alternative with the daka solution \u2014 which is precisely what the 'Rabbi Akiva Rule' prose section describes in detail.",
+      "chosen_heading": "Rabbi Akiva Rule",
+      "current_heading": "Rabbi Akiva Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Rabbi Zeira Case",
+    "candidates": [
+      "Daka Barrier",
+      "Courtyard Analogy",
+      "Rabbi Zeira Case",
+      "Ashpa Dump"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Rabbi Zeira case study \u2014 his eruv for Rabbi Chiyya's city without leaving a section out, and his explanation to Abaye based on the elders' testimony about Rav Chiyya bar Ashi \u2014 which is precisely what the 'Rabbi Zeira Case' prose describes.",
+      "chosen_heading": "Rabbi Zeira Case",
+      "current_heading": "Rabbi Zeira Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Ashpa Dump",
+    "candidates": [
+      "Ashpa Dump",
+      "Opening Definition",
+      "Rav Nachman Dual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the ashpa (garbage dump) story, Abaye's correction of Rabbi Zeira, and Rabbi Zeira's 'lav ada'atai' response \u2014 all of which are precisely what the 'Ashpa Dump' prose section discusses.",
+      "chosen_heading": "Ashpa Dump",
+      "current_heading": "Ashpa Dump",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rav Nachman Dual",
+    "candidates": [
+      "Opening Definition",
+      "Rav Nachman Dual",
+      "Two Courts Ladder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ami bar Adda's dilemma about a ladder on one side and an entrance on the other, and Rav's ruling that a ladder has the status of an entrance \u2014 exactly the content described in the 'Rav Nachman Dual' section's prose introduction to this very question.",
+      "chosen_heading": "Rav Nachman Dual",
+      "current_heading": "Rav Nachman Dual",
+      "moved": false
+    }
+  }
+]

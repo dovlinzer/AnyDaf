@@ -1,0 +1,433 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Became Deaf",
+    "candidates": [
+      "Opening Remarks",
+      "Cheresh & Pika'chat",
+      "Rabbinic Marriage",
+      "Became Deaf",
+      "Woman Shotah",
+      "Man Cheresh",
+      "R. Yochanan's Q",
+      "Agent vs Object",
+      "Ben Gudgada"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Cheresh & Pika'chat",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishnah text covering the cases of cheresh/pika'chat and the subsequent cases of a hearing man whose wife became deaf or he became deaf/shoteh, which directly matches the prose of headings 1-5 (the mishnah itself spans those scenarios), but the opening mishnah with its remizah principle best fits under 'Cheresh & Pika'chat' which introduces the mishnah, while items 1-2 together cover the full mishnah discussed under headings 1-5; however the structural seam is clear: item 3 is Rabbi Yochanan ben Nuri's challenge, which is a new discursive unit addressed specifically under heading 6 'R. Yochanan's Q'.",
+      "second_heading": "R. Yochanan's Q",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is precisely the challenge of Rabbi Yochanan ben Nuri that heading 6 'R. Yochanan's Q' is written to introduce, asking why a woman who becomes deaf can be divorced but a man who becomes deaf cannot.",
+      "current_heading": "Became Deaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Ben Gudgada",
+    "candidates": [
+      "Woman Shotah",
+      "Man Cheresh",
+      "R. Yochanan's Q",
+      "Agent vs Object",
+      "Ben Gudgada",
+      "Tosafot Evidence",
+      "Setup",
+      "Exemption",
+      "One Each",
+      "Deaf Dies",
+      "Hearing Dies",
+      "Stuck",
+      "Setup",
+      "Sister-in-Law",
+      "Hearing Dies",
+      "Chalitzah",
+      "All Mixed",
+      "Deaf Dies",
+      "Hearing Dies",
+      "Setup",
+      "Deaf Dies",
+      "Hearing Dies",
+      "Permanent Bond",
+      "Hearing Brothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic text of Rabbi Yochanan ben Gudgada's testimony about the deaf-mute woman married off by her father, which is precisely what the 'Ben Gudgada' section's prose discusses.",
+      "chosen_heading": "Ben Gudgada",
+      "current_heading": "Ben Gudgada",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Hearing Brothers",
+    "candidates": [
+      "Tosafot Evidence",
+      "Setup",
+      "Exemption",
+      "One Each",
+      "Deaf Dies",
+      "Hearing Dies",
+      "Stuck",
+      "Setup",
+      "Sister-in-Law",
+      "Hearing Dies",
+      "Chalitzah",
+      "All Mixed",
+      "Deaf Dies",
+      "Hearing Dies",
+      "Setup",
+      "Deaf Dies",
+      "Hearing Dies",
+      "Permanent Bond",
+      "Hearing Brothers",
+      "Rami's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 opens the mishna's systematic enumeration of deaf/hearing brother-sister permutations, which heading 1 ('Setup') explicitly describes as the mishnah working through 'many permutations of two brothers married to two sisters, where deafness is distributed variously among the parties,' and all 9 items together constitute that complete systematic survey through to the nochriyot cases.",
+      "chosen_heading": "Setup",
+      "current_heading": "Hearing Brothers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rami's Question",
+    "candidates": [
+      "Hearing Brothers",
+      "Rami's Question",
+      "Institution Stability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's opening question about why the Rabbis instituted marriage for deaf-mutes but not for imbeciles, which is precisely what the 'Rami's Question' section prose describes.",
+      "chosen_heading": "Rami's Question",
+      "current_heading": "Rami's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Institution Stability",
+    "candidates": [
+      "Institution Stability",
+      "Minors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the Sages enacted marriage for deaf-mutes but not for imbeciles, directly matching the 'Institution Stability' prose which discusses the same gemara text and the snake-in-basket reasoning.",
+      "chosen_heading": "Institution Stability",
+      "current_heading": "Institution Stability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Minors",
+    "candidates": [
+      "Minors",
+      "Ketubah Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between why the Sages did not enact marriage for a minor boy but did for a deaf-mute, which is precisely what the 'Minors' prose section discusses and explains in detail.",
+      "chosen_heading": "Minors",
+      "current_heading": "Minors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Ketubah Contrast",
+    "candidates": [
+      "Ketubah Contrast",
+      "Terumah Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss exactly the topics covered in 'Ketubah Contrast' prose: why Rabbis enacted marriage for a minor (hefker), and the asymmetry between a minor's right of miun and a deaf-mute's lack thereof, matching the current placement perfectly.",
+      "chosen_heading": "Ketubah Contrast",
+      "current_heading": "Ketubah Contrast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Terumah Gezeirah",
+    "candidates": [
+      "Terumah Gezeirah",
+      "Reverse Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's initial question about why a minor may eat teruma while a deaf-mute may not, citing Rabbi Yochanan ben Gudgada's testimony \u2014 which is precisely what the 'Terumah Gezeirah' prose section discusses as its opening move.",
+      "chosen_heading": "Terumah Gezeirah",
+      "current_heading": "Terumah Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Reverse Gezeirah",
+    "candidates": [
+      "Reverse Gezeirah",
+      "No Ketubah",
+      "Recovery",
+      "Voluntary Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly correspond to content explicitly discussed in the 'Reverse Gezeirah' prose: items 1-2 cover the gezeirah concerns about deaf-mute priests feeding teruma, and items 3-4 address the kesubah distinction between a minor girl and a deaf-mute woman \u2014 all of which are spelled out in that section's prose.",
+      "chosen_heading": "Reverse Gezeirah",
+      "current_heading": "Reverse Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Voluntary Ketubah",
+    "candidates": [
+      "No Ketubah",
+      "Recovery",
+      "Voluntary Ketubah",
+      "Rav Malkio",
+      "Rava's Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items cover the core content described in the 'Voluntary Ketubah' prose: the baraita about deaf-mute/imbecile marrying competent women (no ketubah), the competent man marrying a deaf woman (voluntary ketubah binding), and the gemara's question about why a competent woman married to a deaf-mute doesn't get a ketubah, answered by 'women want to be married more than men' \u2014 all explicitly discussed in candidate 2's prose.",
+      "chosen_heading": "Voluntary Ketubah",
+      "current_heading": "Voluntary Ketubah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rava's Praise",
+    "candidates": [
+      "Rav Malkio",
+      "Rava's Praise",
+      "No Asham Talui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the entire episode \u2014 both the action of Rav Malkiyyu marrying the deaf-mute man and Rava's subsequent praise \u2014 and candidate 0's prose covers the full episode including Rav Malkio's action, while candidate 1 ('Rava's Praise') only covers Rava's reasoning, making candidate 0 the better home for the complete passage.",
+      "chosen_heading": "Rav Malkio",
+      "current_heading": "Rava's Praise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "No Asham Talui",
+    "candidates": [
+      "Rava's Praise",
+      "No Asham Talui",
+      "Five Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Shmuel's ruling about no asham talui for the wife of a deaf-mute, which is precisely what the 'No Asham Talui' section's prose describes and analyzes.",
+      "chosen_heading": "No Asham Talui",
+      "current_heading": "No Asham Talui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Five Excluded",
+    "candidates": [
+      "Five Excluded",
+      "Safek Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the list of five who cannot separate teruma, which is precisely what the 'Five Excluded' section's prose describes.",
+      "chosen_heading": "Five Excluded",
+      "current_heading": "Five Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Safek Theory",
+    "candidates": [
+      "Safek Theory",
+      "R. Eliezer",
+      "Asham Talui Tech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about Rabbi Elazar/Eliezer and the deaf-mute's teruma being a safek, then raises the asham talui question \u2014 this corresponds precisely to candidate 1's prose which describes exactly this baraita citation and Rabbi Eliezer's safek position, whereas candidate 0 discusses the gemara's resistance to an inference and candidate 2 addresses the technical resolution that follows.",
+      "chosen_heading": "R. Eliezer",
+      "current_heading": "Safek Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Asham Talui Tech",
+    "candidates": [
+      "R. Eliezer",
+      "Asham Talui Tech",
+      "Explicit Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about why Shmuel denies asham talui for the cheresh's wife \u2014 requiring chaticha mishtei chatichot \u2014 and the essay prose under 'Asham Talui Tech' explicitly discusses exactly this: Shmuel's requirement of two pieces, Rabbi Elazar's koy case, and the conclusion that Shmuel agrees with Rabbi Elazar on one point but disagrees on another, matching all three Talmudic items perfectly.",
+      "chosen_heading": "Asham Talui Tech",
+      "current_heading": "Asham Talui Tech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Explicit Safek",
+    "candidates": [
+      "Explicit Safek",
+      "Rav Ashi's Q",
+      "Weak Intellect",
+      "Clear vs Weak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the alternate version of Shmuel's ruling that one is liable for an asham talui for the wife of a deaf-mute, and the resolution via Rabbi Elazar's position \u2014 exactly what the 'Explicit Safek' prose describes.",
+      "chosen_heading": "Explicit Safek",
+      "current_heading": "Explicit Safek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155
+    ],
+    "current_heading": "Clear vs Weak",
+    "candidates": [
+      "Rav Ashi's Q",
+      "Weak Intellect",
+      "Clear vs Weak",
+      "Category vs Case",
+      "Divorce Question",
+      "Variable Mind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's dilemma about Rabbi Elazar's reasoning \u2014 exactly what heading 0 ('Rav Ashi's Q') describes \u2014 presenting the two possibilities that the subsequent headings then unpack individually.",
+      "chosen_heading": "Rav Ashi's Q",
+      "current_heading": "Clear vs Weak",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Variable Mind",
+    "candidates": [
+      "Category vs Case",
+      "Divorce Question",
+      "Variable Mind",
+      "Teyku",
+      "Gaonim View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'what is the practical difference' and answers 'divorcing his wife with a get,' which is precisely what the 'Divorce Question' prose describes as the crystallizing practical difference between the two interpretations.",
+      "chosen_heading": "Divorce Question",
+      "current_heading": "Variable Mind",
+      "moved": true
+    }
+  }
+]

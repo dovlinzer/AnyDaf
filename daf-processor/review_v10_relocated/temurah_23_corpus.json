@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbis' Position",
+    "candidates": [
+      "Mishnah Overview",
+      "Rabbis' Position",
+      "Rabbi Meir Section",
+      "Structure Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage directly discusses the inference that the rabbanan's position is that the animal grazes if the replacement was only designated but not yet brought, which is precisely what the 'Rabbis' Position' prose section describes.",
+      "chosen_heading": "Rabbis' Position",
+      "current_heading": "Rabbis' Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Structure Resolution",
+    "candidates": [
+      "Rabbi Meir Section",
+      "Structure Resolution",
+      "Consensus on Selection",
+      "Beis Din Consultation",
+      "Rabbi Rejects Salvage",
+      "Rabbis Salvage Effort"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage examines the latter clause of the mishna to infer that bringing from one sum requires casting the other into the Dead Sea, arriving at Rabbi Yehuda HaNasi's position \u2014 which is precisely the structural resolution the essay describes in candidate 1, where the gemara works through the mishna's sections to reconcile the apparent contradictions between Rabbi Meir and the rabbanan.",
+      "chosen_heading": "Structure Resolution",
+      "current_heading": "Structure Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rabbis Salvage Effort",
+    "candidates": [
+      "Consensus on Selection",
+      "Beis Din Consultation",
+      "Rabbi Rejects Salvage",
+      "Rabbis Salvage Effort",
+      "Tosafos Softening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "The passage addresses the tension between the first and latter clauses of the mishna \u2014 specifically how Rav Huna's view (hakol modim when one acts unilaterally) resolves the apparent contradiction, and how Rabbi Abba's view forces the conclusion that the clauses follow different opinions \u2014 which fits best under 'Rabbis Salvage Effort' where the prose discusses how the rabbanan's position illuminates the middle section of the mishna and the cases where someone acts without consulting Beis Din.",
+      "chosen_heading": "Rabbis Salvage Effort",
+      "current_heading": "Rabbis Salvage Effort",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Tosafos Softening",
+    "candidates": [
+      "Tosafos Softening",
+      "Challenge to Rabbi",
+      "Mincha Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage discusses the core dispute between Rabbi Yehuda HaNasi and the Rabbis about whether a takana was enacted for kodshim, which directly underlies the 'Tosafos Softening' section's discussion of Rabbi Meir's position on takanas kodshim \u2014 though it also relates to the broader topic; the current placement under 'Tosafos Softening' is the best available match since that section explicitly discusses the gemara's statement of Rabbi Meir's position without qualification, which this passage provides.",
+      "chosen_heading": "Tosafos Softening",
+      "current_heading": "Tosafos Softening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Mincha Eating",
+    "candidates": [
+      "Challenge to Rabbi",
+      "Mincha Eating",
+      "Using Non-Lost Animal",
+      "Using Lost Animal",
+      "Quasi-Lost Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita cited by Rav Mesharshiyya as a challenge \u2014 the objection that the Sages did enact ordinances regarding kodshim \u2014 which is precisely what heading 0 ('Challenge to Rabbi') describes, whereas heading 1 ('Mincha Eating') describes the gemara's subsequent detailed working-through of that same baraita's implications.",
+      "chosen_heading": "Challenge to Rabbi",
+      "current_heading": "Mincha Eating",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Quasi-Lost Status",
+    "candidates": [
+      "Using Non-Lost Animal",
+      "Using Lost Animal",
+      "Quasi-Lost Status",
+      "No Quasi-Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's response that the baraita reflects the opinion of 'the Rabbis' (not Rabbi Yehuda HaNasi), which directly corresponds to the 'No Quasi-Status' section where the rabbanan's position is elaborated.",
+      "chosen_heading": "No Quasi-Status",
+      "current_heading": "Quasi-Lost Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "No Quasi-Status",
+    "candidates": [
+      "Quasi-Lost Status",
+      "No Quasi-Status",
+      "Mixing Moneys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous Gemara unit discussing Rabbi Abba/Rav's explanation of the dispute (mafrish le'ibud ke'ibud dami vs. lav ke'ibud dami), with challenges from the Yom Kippur goats mishna and the sin-offering mishna, exactly matching the 'No Quasi-Status' prose which explicitly discusses the rabbanan's position, the Yom Kippur goat analogy, mafrish le'ibud, and the psika/non-psika resolution.",
+      "chosen_heading": "No Quasi-Status",
+      "current_heading": "No Quasi-Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Mixing Moneys",
+    "candidates": [
+      "Mixing Moneys",
+      "Apparent Contradiction",
+      "Clear vs. Unclear Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the mishnah's ruling about mixing money piles and its inference, which is precisely what the 'Mixing Moneys' prose discusses \u2014 the yavi me'elu u'me'elu solution and its remainder going to nedava.",
+      "chosen_heading": "Mixing Moneys",
+      "current_heading": "Mixing Moneys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Clear vs. Unclear Cases",
+    "candidates": [
+      "Apparent Contradiction",
+      "Clear vs. Unclear Cases",
+      "No Death for Backup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the refutation of both Rav Huna and Rabbi Abba followed by the gemara's resolution using the 'milta d'psika' principle, which is precisely what the 'Clear vs. Unclear Cases' section's prose describes.",
+      "chosen_heading": "Clear vs. Unclear Cases",
+      "current_heading": "Clear vs. Unclear Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "No Death for Backup",
+    "candidates": [
+      "No Death for Backup",
+      "Agreement Without Loss",
+      "Lost Status Principle",
+      "Rabbi Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is entirely the Gemara's question 'according to whose opinion is this stated?' and its two-part answer (Rabbi/Rabbanan both make it obvious), which matches candidate 1's prose about asking according to whom the ruling must be stated and why it is obvious under each view.",
+      "chosen_heading": "Agreement Without Loss",
+      "current_heading": "No Death for Backup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Agreement Without Loss",
+      "Lost Status Principle",
+      "Rabbi Shimon's View",
+      "Yehoyada Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states that Rabbi Ami's ruling was necessary according to Rabbi Shimon's position, explaining that one might have thought Rabbi Shimon does not hold nedava applies, which is exactly what the prose of 'Rabbi Shimon's View' describes.",
+      "chosen_heading": "Rabbi Shimon's View",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Yehoyada Midrash",
+    "candidates": [
+      "Yehoyada Midrash",
+      "One vs. Two Piles",
+      "Lost Status Foundation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Yehoyada Midrash",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the challenge from the thirteen shofros/Yehoyada midrash and conclude that Rabbi Shimon does hold nedava applies, exactly matching the 'Yehoyada Midrash' prose.",
+      "second_heading": "One vs. Two Piles",
+      "second_confidence": "high",
+      "second_reason": "Item 5 states the conclusion that Rabbi Ami's ruling is needed specifically for the two-piles (terei sidrei) case, which is precisely what the 'One vs. Two Piles' prose describes as Rabbi Ami's chiddush.",
+      "current_heading": "Yehoyada Midrash",
+      "moved": true
+    }
+  }
+]

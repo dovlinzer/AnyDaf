@@ -1,0 +1,392 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Stipulation Categories",
+    "candidates": [
+      "Stipulation Categories",
+      "Da'at & Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about who can stipulate waiver of eating rights and why, directly matching the 'Stipulation Categories' prose which describes the mishna's enumeration of who may and may not waive these rights through stipulation.",
+      "chosen_heading": "Stipulation Categories",
+      "current_heading": "Stipulation Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Da'at & Rights",
+    "candidates": [
+      "Da'at & Rights",
+      "Animal Exemption",
+      "Fourth-Year Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Animal Exemption",
+      "first_confidence": "low",
+      "first_reason": "Items 1-7 are Gemara resolving a mi-shelo/mi-shamayim dispute from a prior mishna; no candidate heading clearly describes this content, so heading 1 is a guess, but the current heading 0 is also plausible.",
+      "second_heading": "Da'at & Rights",
+      "second_confidence": "high",
+      "second_reason": "Item 8 is the new Mishna whose content \u2014 stipulating on behalf of adults vs. minors based on da'at \u2014 is precisely what heading 0's prose describes.",
+      "current_heading": "Da'at & Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Fourth-Year Cases",
+    "candidates": [
+      "Animal Exemption",
+      "Fourth-Year Cases",
+      "Broken Containers",
+      "Shomrei Peirot Intro",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the fourth-year fruit (neta revai) hiring case and the broken fig cakes/opened barrels cases, and candidate 1 ('Fourth-Year Cases') is currently where it sits \u2014 but actually the passage contains both the neta revai content (matching candidate 1) and the broken containers content (matching candidate 2), yet since it is a single unified mishna passage covering both topics sequentially, and candidate 1's prose explicitly describes the neta revai portion while candidate 2's prose describes the broken containers portion, the current placement under candidate 1 is reasonable as the passage begins there; however, the entire mishna text as a single item most naturally belongs under the heading whose prose best captures its full content \u2014 candidate 1 covers the first half and candidate 2 the second half, making candidate 1 the better starting home for this unified passage.",
+      "chosen_heading": "Fourth-Year Cases",
+      "current_heading": "Fourth-Year Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Broken Containers",
+      "Shomrei Peirot Intro",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Timeline Diagram",
+      "Gemara Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text introducing shomrei peirot and their eating rights by hilchot medina but not Torah law, which is precisely what the 'Shomrei Peirot Intro' section prose describes as the starting point before the Gemara's discussion of Rav and Shmuel's positions.",
+      "chosen_heading": "Shomrei Peirot Intro",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Gemara Challenges",
+    "candidates": [
+      "Shmuel's Position",
+      "Timeline Diagram",
+      "Gemara Challenges",
+      "Rav Ashi's Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Timeline Diagram",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav's and Shmuel's opposing positions on whether a watchman eats by Torah law, which matches the 'Timeline Diagram' section that explicitly lays out both Rav's and Shmuel's frameworks side by side.",
+      "second_heading": "Gemara Challenges",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the two tannaitic challenges to Shmuel's position (parah adumah and cucumber fields) with their resolutions, which is precisely what the 'Gemara Challenges' prose describes in detail.",
+      "current_heading": "Gemara Challenges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rav Ashi's Logic",
+    "candidates": [
+      "Rav Ashi's Logic",
+      "Shmuel Prevails",
+      "Four Types Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Ashi's proof from the mishna that Shmuel's position is correct \u2014 item 1 draws the inference from the reisha and item 2 completes it from the seifa \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rav Ashi's Logic",
+      "current_heading": "Rav Ashi's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Four Types Listed",
+    "candidates": [
+      "Shmuel Prevails",
+      "Four Types Listed",
+      "Author & Categories",
+      "Socher Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text listing the four bailees and their respective liabilities, which is precisely what the 'Four Types Listed' section's prose describes in detail.",
+      "chosen_heading": "Four Types Listed",
+      "current_heading": "Four Types Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Socher Liability",
+    "candidates": [
+      "Author & Categories",
+      "Socher Liability",
+      "River Sheep Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question of who authored the mishna, the baraita attributing opposite views to Rabbi Meir, and the resolution that there are four bailees with three legal categories \u2014 are precisely described in candidate 0's prose, which covers all of these points explicitly, whereas candidate 1 ('Socher Liability') only matches items 1-2 and doesn't address item 3's 'four shomrim, three dinim' conclusion.",
+      "chosen_heading": "Author & Categories",
+      "current_heading": "Socher Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "River Sheep Case",
+    "candidates": [
+      "Socher Liability",
+      "River Sheep Case",
+      "Rabba's Ruling",
+      "Abaye's Objection",
+      "Tannaitic Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the shepherd on the bank of the Pappa River whose animal slipped and fell into the water, which is precisely the case introduced in the 'River Sheep Case' section's prose.",
+      "chosen_heading": "River Sheep Case",
+      "current_heading": "River Sheep Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Tannaitic Challenges",
+    "candidates": [
+      "Rabba's Ruling",
+      "Abaye's Objection",
+      "Tannaitic Challenges",
+      "Bar Adda Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 10 items constitute the tannaitic challenges to Rabba's position and their resolutions, including the Abaye-Rabba exchange, the baraita objections, the lion scenario, the shomer chinam vs. shomer sachar distinction, and the Rav Chisda/Rabbah bar Rav Huna dissent \u2014 all of which are explicitly described in the prose of candidate 2 ('Tannaitic Challenges').",
+      "chosen_heading": "Tannaitic Challenges",
+      "current_heading": "Tannaitic Challenges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Bar Adda Case",
+    "candidates": [
+      "Bar Adda Case",
+      "Rav Papa's Response",
+      "Flax Theft Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Bar Adda transporting animals across the bridge of Neresh, one pushing another into the water, and Rav Pappa finding him liable \u2014 exactly the content described in the 'Bar Adda Case' prose.",
+      "chosen_heading": "Bar Adda Case",
+      "current_heading": "Bar Adda Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Flax Theft Case",
+    "candidates": [
+      "Rav Papa's Response",
+      "Flax Theft Case",
+      "Rav Nachman Ruling",
+      "Free vs. Paid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the specific incident of Aivu depositing flax with a bailee at the house of Ronya, Shabbu stealing it, and the matter coming before Rav Na\u1e25man \u2014 which is precisely what the 'Flax Theft Case' prose describes, including the question of whether Rav Na\u1e25man disagrees with Rav Huna bar Avin.",
+      "chosen_heading": "Flax Theft Case",
+      "current_heading": "Flax Theft Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Free vs. Paid",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Free vs. Paid",
+      "Negligence Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the ruling of Rav Huna bar Avin distinguishing shomer chinam (oath option) from shomer sachar (must pursue thief) in an ones theft case, which is precisely what the 'Free vs. Paid' section's prose discusses in detail.",
+      "chosen_heading": "Free vs. Paid",
+      "current_heading": "Free vs. Paid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Negligence Override",
+    "candidates": [
+      "Negligence Override",
+      "Ones Categories",
+      "Wolf Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about government officers being nearby, directly explaining why the shepherd's failure to call for help constitutes negligence rather than ones \u2014 exactly the content described in the 'Negligence Override' prose.",
+      "chosen_heading": "Negligence Override",
+      "current_heading": "Negligence Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Wolf Thresholds",
+    "candidates": [
+      "Ones Categories",
+      "Wolf Thresholds",
+      "Bandit Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the mishna on wolves/dogs/predators, the conditions for ones, natural death cases, and the Gemara reconciling the baraita about one wolf with Rabbi Yehuda \u2014 are precisely the content described in the 'Wolf Thresholds' prose, which explicitly covers wolves, dogs, Rabbi Yehuda's ruling, and Rav Na\u1e25man bar Yitz\u1e25ak's reconciliation.",
+      "chosen_heading": "Wolf Thresholds",
+      "current_heading": "Wolf Thresholds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Bandit Thresholds",
+    "candidates": [
+      "Bandit Thresholds",
+      "Armed Shepherd",
+      "Negligent Disclosure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's ruling on bandits as ones, the Gemara's challenge about one man standing against another, and Rav's answer about armed bandits \u2014 exactly what the 'Bandit Thresholds' prose describes.",
+      "chosen_heading": "Bandit Thresholds",
+      "current_heading": "Bandit Thresholds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Negligent Disclosure",
+    "candidates": [
+      "Armed Shepherd",
+      "Negligent Disclosure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Armed Shepherd",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the armed bandit vs. armed shepherd dilemma and its resolution, which matches exactly the 'Armed Shepherd' prose about hai masar nafshai ve-hai lo masar nafshai, plus the opening of Abaye's question to Rava about the shepherd who taunts the thief.",
+      "second_heading": "Negligent Disclosure",
+      "second_confidence": "high",
+      "second_reason": "Item 2 completes Abaye's scenario (the shepherd's detailed disclosure) and Rava's ruling that this constitutes negligence, which is precisely what the 'Negligent Disclosure' prose describes.",
+      "current_heading": "Negligent Disclosure",
+      "moved": true
+    }
+  }
+]

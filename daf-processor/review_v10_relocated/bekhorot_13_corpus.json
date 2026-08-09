@@ -1,0 +1,441 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shemita Animal Status",
+    "candidates": [
+      "Shemita Animal Status",
+      "Safek vs. Vadai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the initial dilemma question about redeeming a firstborn donkey with a shemita animal, which is exactly what the 'Shemita Animal Status' section introduces as the opening question of the sugya.",
+      "chosen_heading": "Shemita Animal Status",
+      "current_heading": "Shemita Animal Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Safek vs. Vadai",
+    "candidates": [
+      "Safek vs. Vadai",
+      "Bechora Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the exact same topic \u2014 whether shemita animals/money may be used for definite vs. uncertain firstborn donkey redemption, according to Rabbi Yehuda vs. Rabbi Shimon \u2014 which is precisely what the 'Safek vs. Vadai' prose describes, culminating in Rav \u1e24isda's ruling that matches item 4.",
+      "chosen_heading": "Safek vs. Vadai",
+      "current_heading": "Safek vs. Vadai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Bechora Exemption",
+    "candidates": [
+      "Bechora Exemption",
+      "Challah Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav \u1e24isda's ruling that an animal purchased with shemita money is exempt from bechora but obligated in priestly gifts, along with the reasoning (le'achla/not burning), which matches exactly the 'Bechora Exemption' prose.",
+      "chosen_heading": "Bechora Exemption",
+      "current_heading": "Bechora Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Challah Obligation",
+    "candidates": [
+      "Challah Obligation",
+      "Ikar vs. Tafel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about the challah obligation on shemita dough \u2014 the objection, the challenge based on Rav \u1e24isda's logic, the answer from 'l'doroteichem', and the corroborating baraita \u2014 which matches exactly what the 'Challah Obligation' prose describes.",
+      "chosen_heading": "Challah Obligation",
+      "current_heading": "Challah Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Ikar vs. Tafel",
+    "candidates": [
+      "Ikar vs. Tafel",
+      "Kohen Suspicion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ikar/tafel distinction between eating and burning, which is precisely what the prose under 'Ikar vs. Tafel' explains.",
+      "chosen_heading": "Ikar vs. Tafel",
+      "current_heading": "Ikar vs. Tafel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Kohen Suspicion",
+    "candidates": [
+      "Kohen Suspicion",
+      "Kohanim Nechshedim",
+      "Rationalization Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about an Israelite with a firstborn donkey and the kohen's offer to redeem it, which is precisely what the 'Kohen Suspicion' section's prose describes and analyzes.",
+      "chosen_heading": "Kohen Suspicion",
+      "current_heading": "Kohen Suspicion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rationalization Argument",
+    "candidates": [
+      "Kohanim Nechshedim",
+      "Rationalization Argument",
+      "Donkey Ownership",
+      "R. Eliezer Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Gemara unit \u2014 the initial statement by Rav Na\u1e25man, the 'p'shita' objection, and the 'moreh b'heteira' answer \u2014 and candidate 0's prose describes exactly this complete unit in sequence, while candidate 1's prose covers only the rationalization conclusion that emerges from it, making candidate 0 the better home for the entire passage.",
+      "chosen_heading": "Kohanim Nechshedim",
+      "current_heading": "Rationalization Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "R. Eliezer Opinion",
+    "candidates": [
+      "Donkey Ownership",
+      "R. Eliezer Opinion",
+      "Chachamim Opinion",
+      "Sheep Dies First",
+      "Donkey Dies First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text presents both Rabbi Eliezer's and the Rabbis' opinions together, but the current placement under 'R. Eliezer Opinion' is correct since that section's prose explicitly introduces this mishna and discusses its content, making it the natural home for the mishna itself before the subsequent sections analyze each opinion separately.",
+      "chosen_heading": "R. Eliezer Opinion",
+      "current_heading": "R. Eliezer Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Donkey Dies First",
+    "candidates": [
+      "Chachamim Opinion",
+      "Sheep Dies First",
+      "Donkey Dies First",
+      "Textual Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case where the donkey dies before the sheep is transferred, with Rabbi Eliezer ruling the donkey must be buried and the owner keeps the sheep, while the Chachamim rule the dead donkey need not be buried and the sheep goes to the priest \u2014 precisely what the 'Donkey Dies First' prose discusses.",
+      "chosen_heading": "Donkey Dies First",
+      "current_heading": "Donkey Dies First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Textual Proofs",
+    "candidates": [
+      "Textual Proofs",
+      "Human Comparison",
+      "Mishna Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Yosef's derivation from 'ach padoh tifdeh,' Abaye's challenge about benefit, the burial discussion, the baraita about safek, and Rava's resolution \u2014 is precisely what the 'Textual Proofs' prose describes in detail, making it the clear and correct home for all five items.",
+      "chosen_heading": "Textual Proofs",
+      "current_heading": "Textual Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Mishna Teaching",
+    "candidates": [
+      "Human Comparison",
+      "Mishna Teaching",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of candidate 0 ('Human Comparison') explicitly describes this exact baraita sequence \u2014 the mishna stating erchin/pidyon ha'ben/peter chamor timings and the Gemara's challenge from the contradicting baraita about thirty days \u2014 which matches all three items precisely, while candidate 1 ('Mishna Teaching') covers the same material but is where it currently sits and candidate 0's prose is a clearly better structural match as it frames this as the opening exploration before resolution.",
+      "chosen_heading": "Human Comparison",
+      "current_heading": "Mishna Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Mishna Teaching",
+      "Rav Nachman",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly continue Rav Na\u1e25man's resolution \u2014 the challenge about redeeming a son before thirty days and Rava's clarification \u2014 which is precisely what the 'Rav Nachman' prose section describes.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "Rav Sheshet",
+      "Rava Resolution",
+      "Rambam Position",
+      "Pidyon Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Sheshet's resolution, Rami bar \u1e24ama's objection, and Rava's final resolution \u2014 are explicitly discussed together in the 'Rav Sheshet' section's prose, which walks through exactly this sequence of challenge and counter-resolution, and the current placement matches perfectly.",
+      "chosen_heading": "Rav Sheshet",
+      "current_heading": "Rav Sheshet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Pidyon Priority",
+    "candidates": [
+      "Rava Resolution",
+      "Rambam Position",
+      "Pidyon Priority",
+      "Mitzvot Priorities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna's content about not wishing to redeem, breaking the neck, burying, and the precedence of redemption over arifah is precisely what the 'Pidyon Priority' section's prose discusses in detail.",
+      "chosen_heading": "Pidyon Priority",
+      "current_heading": "Pidyon Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Mitzvot Priorities",
+    "candidates": [
+      "Mitzvot Priorities",
+      "Non-Jew Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (yi'ud vs. redemption, yibum vs. chalitza, and owner's redemption priority) are explicitly discussed in the 'Mitzvot Priorities' prose, which covers each of these exact rulings in the same order.",
+      "chosen_heading": "Mitzvot Priorities",
+      "current_heading": "Mitzvot Priorities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Non-Jew Ownership",
+    "candidates": [
+      "Non-Jew Ownership",
+      "Kohanim Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage directly discusses non-Jewish ownership exempting animals from bechora obligations, which is precisely what the prose under 'Non-Jew Ownership' describes.",
+      "chosen_heading": "Non-Jew Ownership",
+      "current_heading": "Non-Jew Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Kohanim Status",
+    "candidates": [
+      "Kohanim Status",
+      "Money vs. Meshicha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohanim Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna statement about Kohanim and Leviyim being obligated in firstborn kosher animals, which matches exactly the 'Kohanim Status' prose discussion.",
+      "second_heading": "Money vs. Meshicha",
+      "second_confidence": "medium",
+      "second_reason": "Items 2-3 are the opening Gemara of the tractate's first chapter asking why the donkey's fetus is taught before the cow's fetus \u2014 a question about the ordering of topics relating to chamor vs. behema tehora \u2014 which fits better under 'Money vs. Meshicha' as the next available candidate, even if imperfectly, since it represents a new Gemara unit entirely unrelated to Kohanim status.",
+      "current_heading": "Kohanim Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Money vs. Meshicha",
+    "candidates": [
+      "Money vs. Meshicha",
+      "Peshat in Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the ruling of Rabbi Yitz\u1e25ak bar Na\u1e25mani/Reish Lakish about money acquisition with a non-Jew and firstborn obligations, which is precisely the opening baraita discussed in the 'Money vs. Meshicha' prose.",
+      "chosen_heading": "Money vs. Meshicha",
+      "current_heading": "Money vs. Meshicha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Peshat in Verse",
+    "candidates": [
+      "Peshat in Verse",
+      "Kal VaChomer",
+      "Non-Jew Buys",
+      "Ameimar Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Peshat in Verse",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20137 address the case of a Jew acquiring from a gentile, working through the meaning of 'b'dineihem' and the kal vachomer arguments, exactly matching candidate 0's prose about the acquisition of non-Jewish property and Abaye's derivation from 'miyad amitecha.'",
+      "second_heading": "Non-Jew Buys",
+      "second_confidence": "high",
+      "second_reason": "Items 8\u201313 address the reverse case \u2014 a gentile purchasing from a Jew \u2014 working through the identical sequence of derivations and kal vachomer arguments, which matches candidate 2's prose about the non-Jew buying from a Jew via the same logical structure.",
+      "current_heading": "Peshat in Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Ameimar Dispute",
+    "candidates": [
+      "Kal VaChomer",
+      "Non-Jew Buys",
+      "Ameimar Dispute",
+      "Ona'at Akum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address Ameimar's position on meshicha effecting acquisition from a non-Jew and how it coheres or conflicts depending on whether one holds like Rabbi Yochanan or Reish Lakish \u2014 precisely the content described in the 'Ameimar Dispute' prose.",
+      "chosen_heading": "Ameimar Dispute",
+      "current_heading": "Ameimar Dispute",
+      "moved": false
+    }
+  }
+]

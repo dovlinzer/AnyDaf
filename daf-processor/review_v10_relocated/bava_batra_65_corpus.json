@@ -1,0 +1,146 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Rabbi Meir Dispute",
+    "candidates": [
+      "Furnished Question",
+      "Doors & Locks",
+      "Mafteach Analysis",
+      "Mortars & Mills",
+      "All Contents Rule",
+      "Rabbi Meir Dispute",
+      "Rabbanan Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of whether the mishna accords with Rabbi Meir \u2014 the challenge from Rabbi Meir's vineyard ruling and the resolution/rebuttal \u2014 which is precisely what the 'Rabbi Meir Dispute' prose describes in detail.",
+      "chosen_heading": "Rabbi Meir Dispute",
+      "current_heading": "Rabbi Meir Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rabbanan Items",
+    "candidates": [
+      "Rabbanan Items",
+      "Pipe Order Q",
+      "Mikveh Pipes",
+      "Carved Then Fixed",
+      "Fixed Then Carved",
+      "Beehive Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about selling a house (the Tanu Rabbanan text) including its details about doors, mortars, millstones, Rabbi Eliezer's principle, and the 'it and everything in it' clause \u2014 exactly the content described in the 'Rabbanan Items' prose.",
+      "chosen_heading": "Rabbanan Items",
+      "current_heading": "Rabbanan Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Beehive Case",
+    "candidates": [
+      "Pipe Order Q",
+      "Mikveh Pipes",
+      "Carved Then Fixed",
+      "Fixed Then Carved",
+      "Beehive Case",
+      "Eliezer Doctrine",
+      "Beehive Tests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present the baraita distinguishing carved-then-fixed from fixed-then-carved, followed by the Gemara's question about authorship and its first attempted answer (Rabbi Eliezer of the house sale) with the objection about ayin yafa/ayin ra'a \u2014 exactly what Candidate 4 ('Beehive Case') describes as its content.",
+      "chosen_heading": "Beehive Case",
+      "current_heading": "Beehive Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Beehive Tests",
+    "candidates": [
+      "Eliezer Doctrine",
+      "Beehive Tests",
+      "Chachamim View",
+      "Shelf Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the beehive mishna (Rabbi Eliezer vs. Chachamim across prosbol, tumah, and Shabbat) and then gives Rabbi Elazar's derivation from the ya'ar/honeycomb verse \u2014 this is precisely the content described in candidate 0 ('Eliezer Doctrine'), which introduces the beehive case and Rabbi Eliezer's k'karka ruling, whereas candidates 1 and 2 describe the essay author's own elaboration of those same rulings (the prose of 1 and 2 already paraphrases and explains what this quoted text contains, meaning the quoted text itself belongs under the heading that precedes that elaboration).",
+      "chosen_heading": "Eliezer Doctrine",
+      "current_heading": "Beehive Tests",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Shelf Dispute",
+    "candidates": [
+      "Chachamim View",
+      "Shelf Dispute",
+      "Precedent Gap",
+      "Rabbinic/Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce and elaborate on the Rabbi Eliezer d'daf (baker's board/shelf) case and then pose the 'mani' question about whose opinion the pipe baraita follows, which is precisely what the 'Shelf Dispute' prose describes.",
+      "chosen_heading": "Shelf Dispute",
+      "current_heading": "Shelf Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Rabbinic/Biblical",
+    "candidates": [
+      "Precedent Gap",
+      "Rabbinic/Biblical",
+      "Drawn Water Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are a continuous dialectical chain \u2014 the first resolves the baraita as Rabbi Eliezer via the rabbinic/biblical tumah distinction, the second raises the she'uvah d'oraita objection, the third raises the metal-shelf objection, and the fourth offers the Rabbanan resolution \u2014 exactly matching the 'Rabbinic/Biblical' section's prose description of this same sequence of moves.",
+      "chosen_heading": "Rabbinic/Biblical",
+      "current_heading": "Rabbinic/Biblical",
+      "moved": false
+    }
+  }
+]

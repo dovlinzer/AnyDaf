@@ -1,0 +1,230 @@
+[
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "The Question",
+    "candidates": [
+      "Rashi: Osek B'Mitzvah",
+      "Tosfos: Kavod Hamet",
+      "Rav Soloveitchik",
+      "Rabbeinu Tam's Sister",
+      "Maharam Rothenburg",
+      "Modern Rulings",
+      "Rabban Gamliel",
+      "Onain and Aveilus",
+      "The Question",
+      "Kohelet Interpretation",
+      "Tzaddikim vs. Reshaim",
+      "Ben Ish Chai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scene of Rabbi Chiyya and Rabbi Yonatan walking in the cemetery with the tzitzis dragging, which is precisely what the prose of heading 8 ('The Question') narrates and introduces.",
+      "chosen_heading": "The Question",
+      "current_heading": "The Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Ben Ish Chai",
+    "candidates": [
+      "Kohelet Interpretation",
+      "Tzaddikim vs. Reshaim",
+      "Ben Ish Chai",
+      "Sons of Rabbi Chiyya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete exegesis of Ecclesiastes 9:5 \u2014 the righteous called 'living' (via Bnayahu ben Yehoyada) and the wicked called 'dead' \u2014 which is precisely what candidate 1 ('Tzaddikim vs. Reshaim') describes in its prose, whereas candidate 2 ('Ben Ish Chai') is only a subset of that discussion.",
+      "chosen_heading": "Tzaddikim vs. Reshaim",
+      "current_heading": "Ben Ish Chai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Sons of Rabbi Chiyya",
+    "candidates": [
+      "Ben Ish Chai",
+      "Sons of Rabbi Chiyya",
+      "Two Spirits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous story of Rabbi \u1e24iyya's sons and the debate about whether the dead know of others' pain, which is precisely what the 'Sons of Rabbi Chiyya' prose section describes.",
+      "chosen_heading": "Sons of Rabbi Chiyya",
+      "current_heading": "Sons of Rabbi Chiyya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Two Spirits",
+    "candidates": [
+      "Two Spirits",
+      "Righteous Man"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the first and second year of the pious man's cemetery visits and the two spirits' conversations, which is precisely what the 'Two Spirits' section prose describes, while the 'Righteous Man' section covers the subsequent events (wife's quarrel, third visit, and the Gemara's conclusion about whether the dead know).",
+      "chosen_heading": "Two Spirits",
+      "current_heading": "Two Spirits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Righteous Man",
+    "candidates": [
+      "Righteous Man",
+      "Zeiri's Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the chasid/cemetery story: item 1 is the wife's questioning and the quarrel about the mat of reeds, and item 2 is the second-year visit where the spirit says 'leave me alone, our words have been heard among the living' \u2014 both are explicitly discussed in the 'Righteous Man' prose section.",
+      "chosen_heading": "Righteous Man",
+      "current_heading": "Righteous Man",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Zeiri's Money",
+    "candidates": [
+      "Zeiri's Money",
+      "Dumah's Role",
+      "Shmuel's Search",
+      "Heavenly Yeshiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items belong together under 'Zeiri's Money': item 1 is a rejection of the previous proof (not directly about Zeiri), item 2 is the Zeiri story itself, and item 3 is the Gemara's rejection of that proof via the angel Duma \u2014 all of which are explicitly discussed in that section's prose, including the 'dilma Duma kadim u-machrezei' response.",
+      "chosen_heading": "Zeiri's Money",
+      "current_heading": "Zeiri's Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Heavenly Yeshiva",
+    "candidates": [
+      "Dumah's Role",
+      "Shmuel's Search",
+      "Heavenly Yeshiva",
+      "Orphan Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe Shmuel's search at the cemetery for his father and the encounter with Levi sitting outside \u2014 exactly the content described in candidate 1's prose ('Shmuel's Search'), which narrates the gravesite visit, the mocking spirits, and the identification of his father, making it a clearly better match than the current placement under 'Heavenly Yeshiva' (candidate 2), which covers the subsequent events after the father descends.",
+      "chosen_heading": "Shmuel's Search",
+      "current_heading": "Heavenly Yeshiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Orphan Protection",
+    "candidates": [
+      "Heavenly Yeshiva",
+      "Orphan Protection",
+      "Original Position",
+      "Moshe's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose discusses: Shmuel asking about the orphans' money, his father's explanation of the middle-placement strategy for protection, and the Gemara's response that Shmuel's importance meant advance announcement ('panu makom').",
+      "chosen_heading": "Orphan Protection",
+      "current_heading": "Orphan Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Moshe's Report",
+    "candidates": [
+      "Original Position",
+      "Moshe's Report",
+      "Stone Analogy",
+      "Awareness Question",
+      "Divine Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core proof about the dead conversing (from Deuteronomy 34:4) and the follow-up objection/resolution about why Moshe needed to tell the patriarchs, which is precisely what candidate 1's prose ('Moshe's Report') discusses in detail.",
+      "chosen_heading": "Moshe's Report",
+      "current_heading": "Moshe's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Divine Protection",
+    "candidates": [
+      "Stone Analogy",
+      "Awareness Question",
+      "Divine Protection",
+      "Judging Favorably"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about speaking ill of the dead/Torah scholars \u2014 the stone analogy, the awareness question, Rav Pappa's challenge with the Divine protection answer, and Rabbi Yehoshua ben Levi's extension \u2014 and candidate 2 ('Divine Protection') explicitly covers all of this content including the beam incident, God defending Torah scholars' honor, and Rabbi Yehoshua ben Levi's statement about Gehennom.",
+      "chosen_heading": "Divine Protection",
+      "current_heading": "Divine Protection",
+      "moved": false
+    }
+  }
+]

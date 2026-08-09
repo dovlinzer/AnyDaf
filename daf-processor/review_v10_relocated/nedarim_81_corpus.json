@@ -1,0 +1,309 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Life & Animals",
+    "candidates": [
+      "Two Towns Setup",
+      "Life & Animals",
+      "Laundry Priority",
+      "Tosafot Reading",
+      "Ethics & Charity",
+      "Tzedakah Priority",
+      "Shmuel's Health"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the contradiction between two rulings of Rabbi Yosi (v'rammi d'Rabbi Yosi ad d'Rabbi Yosi) and presents the full baraita about the town's wellspring hierarchy \u2014 this is precisely what the 'Two Towns Setup' prose describes as its content, including the formula and the ma'ayan shebnei ha'ir case.",
+      "chosen_heading": "Two Towns Setup",
+      "current_heading": "Life & Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Shmuel's Health",
+    "candidates": [
+      "Laundry Priority",
+      "Tosafot Reading",
+      "Ethics & Charity",
+      "Tzedakah Priority",
+      "Shmuel's Health",
+      "Contradiction Resolved",
+      "Hygiene Warning",
+      "Chavruta Warning",
+      "Poor Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present exactly the Gemara's challenge-and-response about Rabbi Yosi's laundry ruling versus bathing, culminating in Shmuel's medical triad (grime on head/clothes/body leading to blindness/madness/sores), which is precisely what the 'Shmuel's Health' prose section describes and analyzes.",
+      "chosen_heading": "Shmuel's Health",
+      "current_heading": "Shmuel's Health",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Poor Children",
+    "candidates": [
+      "Contradiction Resolved",
+      "Hygiene Warning",
+      "Chavruta Warning",
+      "Poor Children",
+      "Torah Transmission",
+      "Three Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains all three warnings sent from Eretz Yisrael, and its current placement under 'Poor Children' is correct since the full quoted text culminates in the third warning about the sons of paupers, which is what that section's prose discusses in detail.",
+      "chosen_heading": "Poor Children",
+      "current_heading": "Poor Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Three Explanations",
+    "candidates": [
+      "Torah Transmission",
+      "Three Explanations",
+      "Torah Universality",
+      "Verse & Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the four amoraic explanations (Rav Yosef, Rav Sheshet, Mar Zutra, Rav Ashi) that the 'Three Explanations' section prose explicitly discusses and analyzes in detail.",
+      "chosen_heading": "Three Explanations",
+      "current_heading": "Three Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Verse & Blessing",
+    "candidates": [
+      "Torah Universality",
+      "Verse & Blessing",
+      "Voice & Blessing",
+      "Torah Business",
+      "Vardimus Confused"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Jeremiah verse, the inability of sages and prophets to explain the destruction, and God's own answer \u2014 exactly the content described in the 'Verse & Blessing' prose, which specifically discusses the verse mi ha'ish ha'chacham, the failed explanations, and God's answer about abandoning Torah.",
+      "chosen_heading": "Verse & Blessing",
+      "current_heading": "Verse & Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Vardimus Confused",
+    "candidates": [
+      "Voice & Blessing",
+      "Torah Business",
+      "Vardimus Confused",
+      "Levite Suburbs",
+      "Chayasam Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the narrative the 'Vardimus Confused' prose discusses: Isi bar Yehuda's absence from Rabbi Yosi's academy, Vardimus's inquiry, and Isi's citation of the ruling about laundry preceding others' lives as the source of his confusion.",
+      "chosen_heading": "Vardimus Confused",
+      "current_heading": "Vardimus Confused",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Chayasam Meaning",
+    "candidates": [
+      "Levite Suburbs",
+      "Chayasam Meaning",
+      "Not Inuy Nefesh",
+      "Beino L'Veina Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the actual Talmudic derivation from the Levite cities verse (Numbers 35:3), questioning what 'chayasam' means, which matches the 'Levite Suburbs' section prose that describes exactly this textual derivation and question about 'chayasam,' whereas the current 'Chayasam Meaning' section prose describes the conclusion and implications of that derivation rather than the initial question-and-answer exchange shown in the passage.",
+      "chosen_heading": "Levite Suburbs",
+      "current_heading": "Chayasam Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Beino L'Veina Question",
+    "candidates": [
+      "Not Inuy Nefesh",
+      "Beino L'Veina Question",
+      "Rav Adda vs. Huna",
+      "Fox Metaphor",
+      "Inuy Nefesh Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous discussion about whether Rabbi Yosi holds these vows qualify as devarim shebeino l'veina, which is precisely what the 'Beino L'Veina Question' prose describes \u2014 including the attempted proof from Rabbi Yosi's phrasing, the deflection, the dispute between Rav Adda and Rav Huna, and the fox metaphor reasoning \u2014 all of which the candidate prose for headings 2 and 3 describes as sub-parts of the same ongoing question already introduced under heading 1.",
+      "chosen_heading": "Beino L'Veina Question",
+      "current_heading": "Beino L'Veina Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Inuy Nefesh Rule",
+    "candidates": [
+      "Rav Adda vs. Huna",
+      "Fox Metaphor",
+      "Inuy Nefesh Rule",
+      "Examples List",
+      "Beino L'Veina Examples",
+      "Obligatory Acts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Inuy Nefesh Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita supporting Rav Adda's view that sets out the inuy nefesh vs. beino l'veina categories systematically, which is precisely what the 'Inuy Nefesh Rule' prose describes.",
+      "second_heading": "Beino L'Veina Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the specific examples of kechol/efkos/sexual relations that the husband can annul as devarim shebeino l'veina, matching exactly what the 'Beino L'Veina Examples' prose discusses.",
+      "current_heading": "Inuy Nefesh Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Obligatory Acts",
+    "candidates": [
+      "Examples List",
+      "Beino L'Veina Examples",
+      "Obligatory Acts",
+      "Lo Yachel Devaro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the three obligatory acts (making the bed, mixing the cup, washing face/hands/feet) and states the husband need not nullify \u2014 exactly what the 'Obligatory Acts' prose describes.",
+      "chosen_heading": "Obligatory Acts",
+      "current_heading": "Obligatory Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Lo Yachel Devaro",
+    "candidates": [
+      "Lo Yachel Devaro",
+      "Son's Oath",
+      "Self-Annulment",
+      "Baraita Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's second part \u2014 'mikan lechacham she'ein matir nidrei atzmo' \u2014 is precisely what candidate 2's prose discusses (a Torah scholar cannot annul his own vow, derived from lo yachel devaro), making candidate 2 the clearly better match for this specific content.",
+      "chosen_heading": "Self-Annulment",
+      "current_heading": "Lo Yachel Devaro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Baraita Attribution",
+    "candidates": [
+      "Son's Oath",
+      "Self-Annulment",
+      "Baraita Attribution",
+      "Forbidden Pleasure",
+      "Rav Kahana",
+      "Wife Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses which tanna placed kechol/afros in the devarim shebeino l'veina category, concluding it must be Rabbi Yosi, which is exactly what the 'Baraita Attribution' prose describes.",
+      "chosen_heading": "Baraita Attribution",
+      "current_heading": "Baraita Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Wife Obligation",
+    "candidates": [
+      "Forbidden Pleasure",
+      "Rav Kahana",
+      "Wife Obligation",
+      "Rambam Problem",
+      "Custom Practice",
+      "Matir vs. Meifer",
+      "Vested Interest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Forbidden Pleasure",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Rav Kahana discussion about the two formulations of the vow and the principle of not feeding someone something forbidden \u2014 exactly what headings 0 and 1 cover, with heading 0 setting up the case and heading 1 presenting Rav Kahana's ruling, but since items 1-2 together form the complete Rav Kahana unit (question + ruling), they best fit under heading 1 'Rav Kahana' whose prose directly describes this exact exchange.",
+      "second_heading": "Custom Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita about permitted matters where others have adopted a prohibition and the derivation that a sage cannot dissolve his own vows, attributed to Rabban Gamliel \u2014 exactly what heading 4 'Custom Practice' describes in its prose.",
+      "current_heading": "Wife Obligation",
+      "moved": true
+    }
+  }
+]

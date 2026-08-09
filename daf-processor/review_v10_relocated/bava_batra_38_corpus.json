@@ -1,0 +1,193 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Nehardai's View",
+    "candidates": [
+      "Intro: Trees & Land",
+      "Nehardai's View",
+      "Rava's Challenge",
+      "Mecha'ah Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Nehardean ruling about selling a palm tree and acquiring from its base to the depths, which is precisely what the 'Nehardai's View' prose section describes.",
+      "chosen_heading": "Nehardai's View",
+      "current_heading": "Nehardai's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Mecha'ah Protection",
+    "candidates": [
+      "Rava's Challenge",
+      "Mecha'ah Protection",
+      "Mashkanta Precedent",
+      "Witness Requirements",
+      "System Critique",
+      "Mishna Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the direct continuation of Rava's kurkema de'rishka challenge and its immediate resolution (ba bemachmat ta'ana), along with Mar Kashisha's follow-up question about what the seller should have done \u2014 all of which belong under 'Rava's Challenge' whose prose explicitly describes exactly this kurkema de'rishka argument and Rava's reasoning, rather than under 'Mecha'ah Protection' where they currently sit.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Mecha'ah Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mashkanta Precedent",
+      "Witness Requirements",
+      "System Critique",
+      "Mishna Overview",
+      "Rav Yehuda's View",
+      "Mecha'ah Condition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mashkanta Precedent",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mashkanta d'Sura argument about suppressing the loan document and the need for mecha'ah, which matches precisely the content described in the 'Mashkanta Precedent' prose.",
+      "second_heading": "Mishna Overview",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah introducing the three lands (Judea, Transjordan, Galilee) and Rabbi Yehuda's Spain formulation, which is exactly what the 'Mishna Overview' prose describes.",
+      "current_heading": "Mishna Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mecha'ah Condition",
+    "candidates": [
+      "Rav Yehuda's View",
+      "Mecha'ah Condition",
+      "Tosafot's Logic",
+      "Abba's Ruling",
+      "Yehuda-Galil Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's central analytical question about the Tanna Kamma's reasoning regarding mecha'ah shelo befanav, which is precisely what the 'Mecha'ah Condition' section's prose describes and analyzes.",
+      "chosen_heading": "Mecha'ah Condition",
+      "current_heading": "Mecha'ah Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Yehuda-Galil Exception",
+    "candidates": [
+      "Tosafot's Logic",
+      "Abba's Ruling",
+      "Yehuda-Galil Exception",
+      "Rav: No Chazaka",
+      "Shmuel's Objection",
+      "Alternative: Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rav's position that mecha'ah shelo befanav is valid and the Mishnah addresses sha'at herum, the question of why Judea and Galilee are specifically cited, and the answer that ordinary Judea-Galilee relations are tantamount to sha'at herum \u2014 which is precisely what the 'Yehuda-Galil Exception' prose discusses in detail.",
+      "chosen_heading": "Yehuda-Galil Exception",
+      "current_heading": "Yehuda-Galil Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Alternative: Works",
+    "candidates": [
+      "Rav: No Chazaka",
+      "Shmuel's Objection",
+      "Alternative: Works",
+      "Tax vs. Murder",
+      "Location Revelation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shmuel's Objection",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Rav's ruling that one cannot establish chazakah on nichsei boreach and Shmuel's objection, matching heading 1 ('Shmuel's Objection') which discusses exactly this exchange including Shmuel's 'vechi limchot befanav' challenge and the gemara's resolution that Rav was explaining the Tanna's view.",
+      "second_heading": "Alternative: Works",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20135 present the alternative version where Rav rules chazakah does work on nichsei boreach, Shmuel's 'peshita' response, and the chiddush about mecha'ah before witnesses who cannot travel plus the chavra chavra principle, matching heading 2 ('Alternative: Works') precisely.",
+      "current_heading": "Alternative: Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Location Revelation",
+    "candidates": [
+      "Tax vs. Murder",
+      "Location Revelation",
+      "Zutra's Rule",
+      "Three Elements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling and the Gemara's resolution distinguishing between boreach machmat mamon and boreach machmat mardin, which is precisely what the 'Tax vs. Murder' section's prose describes as its content.",
+      "chosen_heading": "Tax vs. Murder",
+      "current_heading": "Location Revelation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Three Elements",
+    "candidates": [
+      "Zutra's Rule",
+      "Three Elements",
+      "Rashbam's Logic",
+      "Secret Mecha'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Zevid's ruling distinguishing invalid ('so-and-so is a robber') from valid protest ('so-and-so is a robber holding my land and I will sue'), which is precisely what candidate 0 ('Zutra's Rule') discusses \u2014 the minimum required content of a valid mecha'ah and why mere name-calling without property identification fails.",
+      "chosen_heading": "Zutra's Rule",
+      "current_heading": "Three Elements",
+      "moved": true
+    }
+  }
+]

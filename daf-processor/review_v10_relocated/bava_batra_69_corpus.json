@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Braita: Town Contents",
+    "candidates": [
+      "Braita: Town Contents",
+      "Enclosure Orientation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two baraitot regarding enclosures, which is exactly what the prose under 'Braita: Town Contents' describes, while 'Enclosure Orientation' covers the resolution that follows.",
+      "chosen_heading": "Braita: Town Contents",
+      "current_heading": "Braita: Town Contents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Enclosure Orientation",
+    "candidates": [
+      "Enclosure Orientation",
+      "Forest Designations",
+      "Included Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the orientation distinction (lo kashya) and the forest emendation in one continuous Gemara exchange, but the current placement under 'Enclosure Orientation' captures the primary resolution, and the forest correction is a brief follow-up within the same textual unit; however, candidate 1's prose also describes exactly the forest emendation portion, making this a borderline case \u2014 the current placement is acceptable since the passage begins with the enclosure orientation answer.",
+      "chosen_heading": "Enclosure Orientation",
+      "current_heading": "Enclosure Orientation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Included Items",
+    "candidates": [
+      "Forest Designations",
+      "Included Items",
+      "Young Trees Included",
+      "Excluded Items",
+      "Rashbam's Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna about selling a field and what is included, which directly matches the 'Included Items' section prose that explicitly introduces and discusses this mishna and its list of items sold with the field.",
+      "chosen_heading": "Included Items",
+      "current_heading": "Included Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rashbam's Analysis",
+    "candidates": [
+      "Young Trees Included",
+      "Excluded Items",
+      "Rashbam's Analysis",
+      "Weight Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text listing excluded items (stones not needed, reeds, detached produce, reed clusters, watch station, grafted carob, sycamore trunk) with the 'all its contents' clause, which directly matches the 'Excluded Items' section prose that summarizes exactly these elements.",
+      "chosen_heading": "Excluded Items",
+      "current_heading": "Rashbam's Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Weight Stones",
+    "candidates": [
+      "Rashbam's Analysis",
+      "Weight Stones",
+      "Vineyard Sticks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss exactly what the 'Weight Stones' prose describes: the two explanations (avnei de'achfa vs. stones arranged for a fence) and their mapping onto the Rabbi Meir/Rabbanan dispute regarding designation vs. actual placement.",
+      "chosen_heading": "Weight Stones",
+      "current_heading": "Weight Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Vineyard Sticks",
+    "candidates": [
+      "Vineyard Sticks",
+      "Unnecessary Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses reeds/sticks in the vineyard, their purpose as vine supports, and the Rabbi Meir vs. Rabbanan distinction about smoothing vs. placement \u2014 exactly what the 'Vineyard Sticks' prose describes in detail.",
+      "chosen_heading": "Vineyard Sticks",
+      "current_heading": "Vineyard Sticks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Unnecessary Items",
+    "candidates": [
+      "Unnecessary Items",
+      "Vayikam Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All nine items discuss what is and is not sold with a field \u2014 the Gemara's elaborations on the mishna's included and excluded items (produce, reeds, watch stations, trees, stones, sticks, and the dilemmas about door/window frames) \u2014 which precisely matches the 'Unnecessary Items' section's prose about the parallel structure of items sold vs. not sold, the beit rova criterion, Rabbi Hiyya bar Abba's extension, and Rav Papa's illustration.",
+      "chosen_heading": "Unnecessary Items",
+      "current_heading": "Unnecessary Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Vayikam Pasuk",
+    "candidates": [
+      "Vayikam Pasuk",
+      "Boundary Trees"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Vayikam Pasuk",
+      "current_heading": "Vayikam Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Boundary Trees",
+    "candidates": [
+      "Boundary Trees",
+      "Standard Formula",
+      "Shofra d'Shtara",
+      "Ara v'Diklei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's statement about the standard deed formula (kni lach diklin ve'talin ve'hutzin ve'tzitzin), which is precisely what the 'Standard Formula' section's prose describes.",
+      "chosen_heading": "Standard Formula",
+      "current_heading": "Boundary Trees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Ara v'Diklei",
+    "candidates": [
+      "Standard Formula",
+      "Shofra d'Shtara",
+      "Ara v'Diklei",
+      "Tosafot Reading",
+      "Ara B'Diklei",
+      "Scenario One",
+      "Scenario Two",
+      "Scenario Three"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ara v'Diklei",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses 'ara ve'diklei' \u2014 land AND palm trees \u2014 with the ruling about giving two palm trees, buying them, or redeeming them, which is precisely what heading 2 ('Ara v'Diklei') describes.",
+      "second_heading": "Ara B'Diklei",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers 'ara b'diklei' (land with palm trees \u2192 mekach ta'ut if none present), 'ara bei diklei' (land fit for palm trees \u2192 no claim), and the 'except for such-and-such palm tree' scenario, matching headings 4\u20137 which discuss exactly these cases, with heading 4 ('Ara B'Diklei') being the first of these scenarios addressed.",
+      "current_heading": "Ara v'Diklei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Scenario Three",
+    "candidates": [
+      "Tosafot Reading",
+      "Ara B'Diklei",
+      "Scenario One",
+      "Scenario Two",
+      "Scenario Three",
+      "Trees Exclusion",
+      "Category Application",
+      "Palm/Vine Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items discuss the rule of applying the word 'ilani' (trees) progressively down the hierarchy to palm trees and grapevines when the seller has no ordinary trees, which is precisely what the 'Category Application' prose describes.",
+      "chosen_heading": "Category Application",
+      "current_heading": "Scenario Three",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Rava's Qualification",
+    "candidates": [
+      "Mishnah Overview",
+      "First Position",
+      "Second Position",
+      "Rambam Middle Path",
+      "Terumah Question",
+      "Rav Sheshet",
+      "Shelo Totzi La'az",
+      "Rava Position",
+      "Rava's Qualification",
+      "Cheskas Tahara",
+      "Proof Threshold",
+      "Takana Logic",
+      "Rav Pappa Quiz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rav Sheshet and Rava on terumah and Rava's qualification about widowhood/divorce, which is exactly what heading 8 ('Rava's Qualification') discusses in its prose.",
+      "chosen_heading": "Rava's Qualification",
+      "current_heading": "Rava's Qualification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Rav Pappa Quiz",
+    "candidates": [
+      "Cheskas Tahara",
+      "Proof Threshold",
+      "Takana Logic",
+      "Rav Pappa Quiz",
+      "Woman's Counter",
+      "Resolution",
+      "Case Intro",
+      "Rav Hamnuna"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Pappa Quiz",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rava's test question about the wife of a priest who was raped and the counter-argument that it is the husband's field that was flooded, matching exactly the prose of 'Rav Pappa Quiz' and 'Woman's Counter' \u2014 but since item 2 closes with the mishna citation and item 1 opens the question, they both fit under 'Rav Pappa Quiz' as the current placement covers both the question and the counter-argument.",
+      "second_heading": "Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the gemara's analysis of the mishna proving that the wife of a kohen raped receives her ketubah, which is precisely the resolution described in the 'Resolution' prose section.",
+      "current_heading": "Rav Pappa Quiz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav Hamnuna",
+    "candidates": [
+      "Woman's Counter",
+      "Resolution",
+      "Case Intro",
+      "Rav Hamnuna",
+      "Husband Knows",
+      "Shame Logic",
+      "Motivation Override",
+      "Absolute Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Hamnuna's reasoning about why a woman who says 'you divorced me' is believed, drawing on the distinction between cases where the husband cannot verify her claim versus gerashtani where he knows the truth \u2014 exactly what the 'Rav Hamnuna' section's prose describes.",
+      "chosen_heading": "Rav Hamnuna",
+      "current_heading": "Rav Hamnuna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Absolute Position",
+    "candidates": [
+      "Husband Knows",
+      "Shame Logic",
+      "Motivation Override",
+      "Absolute Position",
+      "Hashamayim Case",
+      "Fertility Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's argument that even under the mishnah rishona's logic, the woman is not believed in gerashtani because her motivation to escape the marriage (dezimnin detakif lah min gavra) overrides the shame-based chazaka \u2014 which is precisely what the 'Motivation Override' section's prose describes.",
+      "chosen_heading": "Motivation Override",
+      "current_heading": "Absolute Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Fertility Claim",
+    "candidates": [
+      "Hashamayim Case",
+      "Fertility Claim",
+      "Rava Reasserts",
+      "Acharona Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Mesharshiyya's objection to Rava AND Rava's response, which together constitute exactly the content described in candidate 0's prose (the challenge from the hashamayim case and Rava's reply about ein yorek ke-\u1e25etz), not the 'Fertility Claim' section which describes only Rava's response in isolation.",
+      "chosen_heading": "Hashamayim Case",
+      "current_heading": "Fertility Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Acharona Test",
+    "candidates": [
+      "Rava Reasserts",
+      "Acharona Test",
+      "Self-Conviction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly tests whether the 'hashamayim' case should be believed under the mishnah acharona because the husband knows the truth \u2014 exactly what the 'Acharona Test' prose describes.",
+      "chosen_heading": "Acharona Test",
+      "current_heading": "Acharona Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Self-Conviction",
+    "candidates": [
+      "Self-Conviction",
+      "Follow Hamnuna",
+      "Ran on Relations",
+      "Ketubah Categories",
+      "Ran's Caveat",
+      "Daily Ritual",
+      "Husband Surprised",
+      "Wife's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Hamnuna's reasoning that the woman lies because she convinces herself the husband doesn't know whether he 'shoots like an arrow,' which is precisely what the 'Self-Conviction' section's prose elaborates upon \u2014 the psychology of rationalization and what she believes he knows.",
+      "chosen_heading": "Self-Conviction",
+      "current_heading": "Self-Conviction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Wife's Explanation",
+    "candidates": [
+      "Follow Hamnuna",
+      "Ran on Relations",
+      "Ketubah Categories",
+      "Ran's Caveat",
+      "Daily Ritual",
+      "Husband Surprised",
+      "Wife's Explanation",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of the woman's explanation (item 1) and Rav Nachman's ruling on it (item 2), which is precisely what heading 6 'Wife's Explanation' and its prose describe \u2014 the woman's account about the aloe merchants and the subsequent ruling by Rav Nachman that she lacks credibility.",
+      "chosen_heading": "Wife's Explanation",
+      "current_heading": "Wife's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Painful Relations",
+      "No Relations",
+      "Merchants Again",
+      "Another Man",
+      "Caught & Run"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes a woman who was displeased with her husband and complained about pain during relations, which matches the 'Painful Relations' heading exactly \u2014 the subsequent headings (No Relations, Merchants Again, Another Man) each cover only a portion of this single narrative, while heading 1 introduces the full case.",
+      "chosen_heading": "Painful Relations",
+      "current_heading": "Rav Nachman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Caught & Run",
+    "candidates": [
+      "Painful Relations",
+      "No Relations",
+      "Merchants Again",
+      "Another Man",
+      "Caught & Run",
+      "Hiding Logic",
+      "Ran Clarifies",
+      "Reassurance",
+      "Cress & Snake"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the incident of a man hiding with a married woman who flees when the husband arrives \u2014 exactly what 'Caught & Run' introduces, before 'Hiding Logic' takes up Rava's ruling.",
+      "chosen_heading": "Caught & Run",
+      "current_heading": "Caught & Run",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Cress & Snake",
+    "candidates": [
+      "Hiding Logic",
+      "Ran Clarifies",
+      "Reassurance",
+      "Cress & Snake",
+      "Life-Saving Warning",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the adulterer hiding behind the door and the cress tasted by a snake, which is exactly what the 'Cress & Snake' section's prose discusses as setup for the incident.",
+      "chosen_heading": "Cress & Snake",
+      "current_heading": "Cress & Snake",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Life-Saving Warning",
+      "Rava's Logic",
+      "Secret Affair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling with the exact reasoning and verse citation that the 'Rava's Logic' section prose directly describes.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Rava's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Secret Affair",
+    "candidates": [
+      "Secret Affair",
+      "Perek Context",
+      "Dual Method",
+      "Goal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents and explains the 'stolen waters are sweet' counter-argument and Rava's rejection of it, which is precisely what the 'Secret Affair' section's prose discusses.",
+      "chosen_heading": "Secret Affair",
+      "current_heading": "Secret Affair",
+      "moved": false
+    }
+  }
+]

@@ -284,7 +284,7 @@
           "timestamp": "54:50"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -313,7 +313,7 @@
           "timestamp": "57:46"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 13,
       "matched": true
     }
   ],
@@ -679,5 +679,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "40:35",
+  "amud_b_micro_title": "Coin Counterweight",
+  "shiur_start_daf": 22,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,670 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Contemporary Altars",
+    "candidates": [
+      "Contemporary Altars",
+      "Kedusha Rishona"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Amoraic dispute with 'itmar' about offering sacrifices today, which matches heading 0's prose that explicitly describes the Gemara introducing this dispute with the word 'itmar' as an Amoraic dispute about slaughtering or offering up sacrifices outside the Temple today.",
+      "chosen_heading": "Contemporary Altars",
+      "current_heading": "Contemporary Altars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Kedusha Rishona",
+    "candidates": [
+      "Kedusha Rishona",
+      "Resh Lakish's View",
+      "First vs. Second Kedusha",
+      "Bamot & Transition",
+      "Raui Le'Petach",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's and Resh Lakish's views together in one Gemara quote, and the current heading 'Kedusha Rishona' with its prose covers both positions (Rabbi Yochanan's chiyuv reasoning and Resh Lakish's patur reasoning are both introduced there), making it the best single home for this combined quotation.",
+      "chosen_heading": "Kedusha Rishona",
+      "current_heading": "Kedusha Rishona",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Resh Lakish's View",
+      "First vs. Second Kedusha",
+      "Bamot & Transition",
+      "Raui Le'Petach",
+      "Rabbi Eliezer",
+      "Rabbi Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's suggestion to ground the Yochanan/Resh Lakish dispute in the Tannaitic dispute between Rabbi Eliezer and Rabbi Yehoshua, quoting Rabbi Eliezer's position about curtains during construction \u2014 exactly what the 'Rabbi Eliezer' section's prose describes.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rabbi Yehoshua",
+    "candidates": [
+      "Rabbi Yehoshua",
+      "After Destruction",
+      "Ravina's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua's exact statement about sacrificing without a Temple and the persistence of kedusha rishona, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Rabbi Yehoshua",
+      "current_heading": "Rabbi Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Ravina's Question",
+    "candidates": [
+      "After Destruction",
+      "Ravina's Question",
+      "Curtains for Modesty",
+      "Bird's Head Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "After Destruction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concluding inference that Rabbi Eliezer holds kedusha did not persist, which matches heading 0's prose about Rabbi Eliezer's position implicitly rejecting the persistence of kedusha.",
+      "second_heading": "Ravina's Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravina's challenge to Rav Ashi questioning that inference, which matches exactly the prose of heading 1 describing Ravina's question about whether everyone agrees on kedusha persisting and the two sages simply transmitting different traditions.",
+      "current_heading": "Ravina's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Bird's Head Case",
+    "candidates": [
+      "Curtains for Modesty",
+      "Bird's Head Case",
+      "Chibbur Olin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Yochanan/Reish Lakish dispute about whether a bone completing the kezayit measure creates liability, which is precisely what the 'Bird's Head Case' prose introduces and discusses.",
+      "chosen_heading": "Bird's Head Case",
+      "current_heading": "Bird's Head Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Chibbur Olin",
+    "candidates": [
+      "Chibbur Olin",
+      "Not Offered Per Se",
+      "Salt Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's and Reish Lakish's positions together, and the current heading's prose explicitly discusses both principles (chibbur olin k'olin dami and its inverse), making it the natural home for the complete dispute.",
+      "chosen_heading": "Chibbur Olin",
+      "current_heading": "Chibbur Olin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Salt Question",
+    "candidates": [
+      "Not Offered Per Se",
+      "Salt Question",
+      "Organic vs. Supplementary",
+      "Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute Rava's dilemma about salt completing the kezayit and the subsequent exchange with Rava from Parzakya and Rav Ashi, which is precisely what the 'Salt Question' prose describes.",
+      "chosen_heading": "Salt Question",
+      "current_heading": "Salt Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Teiku",
+    "candidates": [
+      "Organic vs. Supplementary",
+      "Teiku",
+      "Fit for the Altar",
+      "Rabbis' Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'teiku \u2014 the question shall stand unresolved' directly matches the 'Teiku' section's prose which explicitly discusses this conclusion, and the current placement is correct.",
+      "chosen_heading": "Teiku",
+      "current_heading": "Teiku",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabbis' Challenge",
+    "candidates": [
+      "Fit for the Altar",
+      "Rabbis' Challenge",
+      "Sha'as Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yosei HaGelili's position and the Rabbis' challenge together as one mishna unit, but its content \u2014 explaining Rabbi Yosei HaGelili's rule that liability requires meat fit for the altar \u2014 best matches heading 0, which introduces and explains Rabbi Yosi HaGlili's position about *raui lepetach ohel moed* and *mikudshai p'nim*.",
+      "chosen_heading": "Fit for the Altar",
+      "current_heading": "Rabbis' Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Sha'as Kosher",
+    "candidates": [
+      "Rabbis' Challenge",
+      "Sha'as Kosher",
+      "Kodesh Mekablo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi's defense of Rabbi Yosi HaGelili based on the concept of 'sha'as kosher' (period of fitness), which is precisely what the 'Sha'as Kosher' section's prose describes.",
+      "chosen_heading": "Sha'as Kosher",
+      "current_heading": "Sha'as Kosher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Kodesh Mekablo",
+    "candidates": [
+      "Kodesh Mekablo",
+      "Night Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar bar Shimon's argument about 'kodesh mekablo' \u2014 the distinction between slaughtering inside vs. outside based on whether the sanctity of the altar accepts the offering \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Kodesh Mekablo",
+      "current_heading": "Kodesh Mekablo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Night Slaughter",
+    "candidates": [
+      "Night Slaughter",
+      "Non-Sacred Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Ze'eiri's answer that shechitas laila (night slaughter) is the practical difference, which matches exactly the 'Night Slaughter' section's prose.",
+      "chosen_heading": "Night Slaughter",
+      "current_heading": "Night Slaughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Non-Sacred Vessel",
+    "candidates": [
+      "Non-Sacred Vessel",
+      "Double Tumah",
+      "No Chiyuv",
+      "Parallel Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabba's distinction involving blood collection in a non-sacred vessel (kli chol), which is precisely what the 'Non-Sacred Vessel' section's prose describes.",
+      "chosen_heading": "Non-Sacred Vessel",
+      "current_heading": "Non-Sacred Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Parallel Cases",
+    "candidates": [
+      "Double Tumah",
+      "No Chiyuv",
+      "Parallel Cases",
+      "Migu Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Mishnah's dispute between Rabbi Yosei HaGelili and the Rabbis, and the Gemara's note that the Rabbis argue well \u2014 which is exactly what candidate 2 ('Parallel Cases') describes in its prose, including the specific point about the meat becoming tamei through contact and the concluding 'shappir kamreiley rabbanan' judgment.",
+      "chosen_heading": "Parallel Cases",
+      "current_heading": "Parallel Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Migu Principle",
+    "candidates": [
+      "Migu Principle",
+      "No Migu",
+      "Which is Weightier"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute Rava's full elaboration of the migu principle \u2014 the distinction between body-first vs. meat-first sequences, the Rabbanan/Rabbi Yosei HaGelili dispute over migu, and the closing question about the more stringent prohibition \u2014 all of which are explicitly discussed in the 'Migu Principle' prose.",
+      "chosen_heading": "Migu Principle",
+      "current_heading": "Migu Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Which is Weightier",
+    "candidates": [
+      "No Migu",
+      "Which is Weightier",
+      "Shchita Stringent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's challenge about which tumah is weightier and the argument that tumas habasar may be more stringent because it cannot be purified in a mikveh \u2014 precisely the content described in the 'Which is Weightier' prose.",
+      "chosen_heading": "Which is Weightier",
+      "current_heading": "Which is Weightier",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Shchita Stringent",
+    "candidates": [
+      "Shchita Stringent",
+      "Offering Stringent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces the comparative framework between shchita and ha'alas chutz, which is precisely what heading 0 ('Shchita Stringent') discusses as its opening context before elaborating on the specific stringencies.",
+      "chosen_heading": "Shchita Stringent",
+      "current_heading": "Shchita Stringent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Offering Stringent",
+    "candidates": [
+      "Offering Stringent",
+      "Multiple Pieces",
+      "Rabbi Shimon",
+      "Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's comparison of stringencies between slaughtering and offering up outside, including the case of two people jointly slaughtering (exempt) versus jointly offering up (liable), which is exactly what the 'Offering Stringent' section's prose discusses.",
+      "chosen_heading": "Offering Stringent",
+      "current_heading": "Offering Stringent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Rabbi Yosi",
+    "candidates": [
+      "Multiple Pieces",
+      "Rabbi Shimon",
+      "Rabbi Yosi",
+      "Source: Ish Ish",
+      "Partnership & Divine"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Yosi",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text presenting the Rabbi Shimon/Rabbi Yosi disputes about repeated offerings and the altar requirement, which belongs under 'Rabbi Yosi' as the concluding Mishna section.",
+      "second_heading": "Source: Ish Ish",
+      "second_confidence": "high",
+      "second_reason": "Items 3-9 are a new Gemara unit (explicitly marked 'GEMARA:') analyzing the textual derivations from 'ish ish' and 'ha'ish hahu' to distinguish slaughter from offering up, which exactly matches the 'Source: Ish Ish' prose discussion.",
+      "current_heading": "Rabbi Yosi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Partnership & Divine",
+    "candidates": [
+      "Source: Ish Ish",
+      "Partnership & Divine",
+      "Kal VaChomer",
+      "Ish Ish Split",
+      "Hahu Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing the greater stringency of ha'alas chutz versus shchutei chutz, which is the starting point that the Gemara then grounds in the text of the Torah \u2014 precisely what the 'Source: Ish Ish' prose describes as the essay's next move.",
+      "chosen_heading": "Source: Ish Ish",
+      "current_heading": "Partnership & Divine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Hahu Exclusion",
+    "candidates": [
+      "Kal VaChomer",
+      "Ish Ish Split",
+      "Hahu Exclusion",
+      "Resh Lakish",
+      "Whole Animal",
+      "Whole Limb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items deal with the dispute between Rabbi Shimon and Rabbi Yosei over deriving liability for two people acting together from 'ish ish,' the role of 'hahu' in excluding ones/compulsion/error, and Rabbi Yosei's derivation of liability for slaughtering for a mundane person from 'dam yeichasheiv la'ish hahu' \u2014 all of which are explicitly described in the 'Hahu Exclusion' prose section.",
+      "chosen_heading": "Hahu Exclusion",
+      "current_heading": "Hahu Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148
+    ],
+    "current_heading": "Whole Limb",
+    "candidates": [
+      "Resh Lakish",
+      "Whole Animal",
+      "Whole Limb",
+      "One Limb Split",
+      "Inside vs. Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Mishna's case and then the two Amoraic opinions (Reish Lakish and Rabbi Yochanan) about where the dispute between Rabbi Shimon and Rabbi Yosi lies \u2014 this is the content that heading 0 ('Resh Lakish') introduces, as its prose explicitly describes Reish Lakish's reading of the debate as concerning multiple whole limbs offered in succession.",
+      "chosen_heading": "Resh Lakish",
+      "current_heading": "Whole Limb",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Inside vs. Outside",
+    "candidates": [
+      "One Limb Split",
+      "Inside vs. Outside",
+      "Ulla's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Ulla's statement about muktarei p'nim vs. muktarei bachutz and the dispute between Rabbi Yosi and Rabbi Shimon, which is precisely what the 'Ulla's Reading' section is dedicated to explaining.",
+      "chosen_heading": "Ulla's Reading",
+      "current_heading": "Inside vs. Outside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158
+    ],
+    "current_heading": "Ulla's Reading",
+    "candidates": [
+      "Inside vs. Outside",
+      "Ulla's Reading",
+      "Father of Shmuel",
+      "Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the alternative formulation (ika d'amri) of Ulla's statement and the Father of Shmuel's challenge to Ulla's first position \u2014 exactly what the 'Ulla's Reading' prose describes in its final sentences.",
+      "chosen_heading": "Ulla's Reading",
+      "current_heading": "Ulla's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165
+    ],
+    "current_heading": "Rabbi Yosi",
+    "candidates": [
+      "Father of Shmuel",
+      "Rabbi Yosi",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yosi",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's derivation of Rabbi Yosi's position from Noah's altar, which is precisely what candidate 1 ('Rabbi Yosi') discusses in its prose.",
+      "second_heading": "Rabbi Shimon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yochanan's derivation of Rabbi Shimon's position from Manoach's rock, which is precisely what candidate 2 ('Rabbi Shimon') discusses in its prose.",
+      "current_heading": "Rabbi Yosi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Shimon",
+      "When Bamot Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses how each tanna (Rabbi Shimon and Rabbi Yosi) responds to the prooftexts from Noah and Manoach, which is precisely what the prose under 'Rabbi Shimon' describes, including the specific terms 'govha b'alma' and 'hora'as sha'ah haysah'.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      174
+    ],
+    "current_heading": "When Bamot Permitted",
+    "candidates": [
+      "When Bamot Permitted",
+      "Inference Logic",
+      "Two-Step Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon's drasha linking the mizbeach requirement to petach ohel mo'ed, which is exactly what the 'When Bamot Permitted' prose describes \u2014 that only where there is an ohel mo'ed is a mizbeach mandated, and no mizbeach is required for a bamah.",
+      "chosen_heading": "When Bamot Permitted",
+      "current_heading": "When Bamot Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179
+    ],
+    "current_heading": "Two-Step Logic",
+    "candidates": [
+      "Inference Logic",
+      "Two-Step Logic",
+      "What Defines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the grammatical awkwardness in the baraita's formulation and explains the two-step logic connecting permitted bamot-era practice to chiyuv during forbidden bamot-era, which is precisely what the 'Two-Step Logic' prose describes.",
+      "chosen_heading": "Two-Step Logic",
+      "current_heading": "Two-Step Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      183
+    ],
+    "current_heading": "What Defines",
+    "candidates": [
+      "What Defines",
+      "Large vs. Private",
+      "Private Bamot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei bar Chanina's dilemma about whether the formal components of the Temple altar are indispensable for a private bamah, which is precisely what the 'What Defines' section prose describes.",
+      "chosen_heading": "What Defines",
+      "current_heading": "What Defines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      188
+    ],
+    "current_heading": "Private Bamot",
+    "candidates": [
+      "Large vs. Private",
+      "Private Bamot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita being cited, which candidate 0's prose directly introduces and quotes, whereas candidate 1's prose discusses the implications drawn from the baraita rather than the baraita itself.",
+      "chosen_heading": "Large vs. Private",
+      "current_heading": "Private Bamot",
+      "moved": true
+    }
+  }
+]

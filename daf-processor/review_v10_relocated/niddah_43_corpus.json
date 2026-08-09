@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Sheretz vs Neveilah",
+    "candidates": [
+      "Hidden Places Intro",
+      "Sheretz vs Neveilah",
+      "Oven Airspace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's ruling and elaboration on sheretz vs. neveilah in bodily folds, which is precisely what the 'Sheretz vs Neveilah' prose describes.",
+      "chosen_heading": "Sheretz vs Neveilah",
+      "current_heading": "Sheretz vs Neveilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Oven Airspace",
+    "candidates": [
+      "Oven Airspace",
+      "Zav Moving Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the case of a sheretz in a bodily fold brought into the airspace of a tanur, which is precisely what the 'Oven Airspace' prose describes, including the Torah's 'tocho' language and the rejection of the 'interior within an interior' objection.",
+      "chosen_heading": "Oven Airspace",
+      "current_heading": "Oven Airspace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Zav Moving Objects",
+    "candidates": [
+      "Zav Moving Objects",
+      "Moving Concepts",
+      "Zav/Baal Keri Exit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Reish Lakish's ruling about a reed in bodily folds and the scriptural derivation explaining why a zav's heiset is expressed through the language of negiah \u2014 exactly the content described in the 'Zav Moving Objects' prose.",
+      "chosen_heading": "Zav Moving Objects",
+      "current_heading": "Zav Moving Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Zav/Baal Keri Exit",
+    "candidates": [
+      "Moving Concepts",
+      "Zav/Baal Keri Exit",
+      "Man Eating Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the Mishnah's rule that a zav and baal keri become impure only upon exit from the body, deriving it from the same verses discussed in the 'Zav/Baal Keri Exit' prose section.",
+      "chosen_heading": "Zav/Baal Keri Exit",
+      "current_heading": "Zav/Baal Keri Exit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Man Eating Terumah",
+    "candidates": [
+      "Man Eating Terumah",
+      "Abaye/Rava Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah's case of a priest eating teruma and the Gemara's immediate challenge from Rabbi Eliezer's baraita about holding one's penis, which is precisely what the 'Man Eating Terumah' section's prose describes.",
+      "chosen_heading": "Man Eating Terumah",
+      "current_heading": "Man Eating Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Abaye/Rava Debate",
+    "candidates": [
+      "Abaye/Rava Debate",
+      "Sensation Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Abaye/Rava debate \u2014 the thick/thin cloth distinction, the baraita challenge about the finger-in-eye analogy, and Rava's response about renewed heating being uncommon \u2014 exactly as described in the 'Abaye/Rava Debate' prose.",
+      "chosen_heading": "Abaye/Rava Debate",
+      "current_heading": "Abaye/Rava Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Sensation Requirement",
+    "candidates": [
+      "Sensation Requirement",
+      "Night Emission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Shmuel's principle about semen requiring full-body sensation to convey impurity, which is precisely what the 'Sensation Requirement' prose section discusses.",
+      "chosen_heading": "Sensation Requirement",
+      "current_heading": "Sensation Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Night Emission",
+    "candidates": [
+      "Night Emission",
+      "Arrow Ejection",
+      "Process Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the objection from the mishna about nocturnal emission with warm flesh and Rav Huna's resolution about dreaming of intercourse, which is precisely what the 'Night Emission' section's prose discusses in detail.",
+      "chosen_heading": "Night Emission",
+      "current_heading": "Night Emission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Process Stages",
+    "candidates": [
+      "Arrow Ejection",
+      "Process Stages",
+      "Non-Jew Case",
+      "Zavah Urine",
+      "Non-Jewish Zavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with the two versions of Shmuel's ruling, the practical difference between them (akirah vs. exit with/without hargasha), Rava's related dilemma, the proof from the baal keri mishna and its refutation, and the third version about fertilization \u2014 all of which are explicitly discussed in the 'Process Stages' prose.",
+      "chosen_heading": "Process Stages",
+      "current_heading": "Process Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Non-Jewish Zavah",
+    "candidates": [
+      "Non-Jew Case",
+      "Zavah Urine",
+      "Non-Jewish Zavah",
+      "Orifice Filling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Non-Jew Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern a gentile who had seminal uprooting before converting, matching the 'Non-Jew Case' prose exactly.",
+      "second_heading": "Zavah Urine",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 concern a zavah's urine being uprooted before immersion (Jewish and gentile zavah), matching the 'Zavah Urine' and 'Non-Jewish Zavah' prose \u2014 but since items 3-4 belong to 'Zavah Urine' and items 5-7 to 'Non-Jewish Zavah', the split at item 2 places items 3-7 starting under 'Zavah Urine' which is the next heading after 'Non-Jew Case'.",
+      "current_heading": "Non-Jewish Zavah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Orifice Filling",
+    "candidates": [
+      "Non-Jewish Zavah",
+      "Orifice Filling",
+      "Derivation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's ruling that a zav requires a discharge sufficient to fill the orifice of the penis, citing the verse about 'hechtim,' which is precisely what the 'Orifice Filling' section's prose describes.",
+      "chosen_heading": "Orifice Filling",
+      "current_heading": "Orifice Filling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Derivation Debate",
+    "candidates": [
+      "Derivation Debate",
+      "Semen vs Touch Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous debate about the zav's flow requirements\u2014the Rabbi Yishmael/Rabbis dispute over hechtim, the liquid vs. quantity requirement, the counting of re'iyot, and Rabbi Simai's derivation\u2014exactly matching the 'Derivation Debate' prose.",
+      "chosen_heading": "Derivation Debate",
+      "current_heading": "Derivation Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Semen vs Touch Size",
+    "candidates": [
+      "Semen vs Touch Size",
+      "Mishnah Perspective",
+      "Semen vs Rodent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically contains the Gemara's challenge from the Mishnah ('didn't we learn that they impart impurity in any amount?') and the answer that the Mishnah refers to the ro'eh (emitter) not the nogea (toucher), which is precisely what Candidate 1 'Mishnah Perspective' describes in its prose.",
+      "chosen_heading": "Mishnah Perspective",
+      "current_heading": "Semen vs Touch Size",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Semen vs Rodent",
+    "candidates": [
+      "Mishnah Perspective",
+      "Semen vs Rodent",
+      "Learning Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items constitute the baraita comparing semen and sheretz impurity, including the minimum-measure dispute and the differentiation question, which is precisely what the 'Semen vs Rodent' prose describes in detail.",
+      "chosen_heading": "Semen vs Rodent",
+      "current_heading": "Semen vs Rodent",
+      "moved": false
+    }
+  }
+]

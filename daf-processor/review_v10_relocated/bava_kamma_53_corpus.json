@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Rav's Hevel Theory",
+      "Shmuel's Position",
+      "Resolving Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav's statement that 'forward' means literally forward and 'backward' means literally backward, which is the core of Rav's literal/hevel theory discussed in candidate 1's prose.",
+      "chosen_heading": "Rav's Hevel Theory",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Resolving Mishna",
+    "candidates": [
+      "Rav's Hevel Theory",
+      "Shmuel's Position",
+      "Resolving Mishna",
+      "Baraisa Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav's Hevel Theory",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav's position (both cases refer to inside the pit, but backward is exempt) and Rav's foundational hevel/chavat reasoning, which precisely matches the prose of 'Rav's Hevel Theory'.",
+      "second_heading": "Shmuel's Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Shmuel's contrary ruling (liable whether forward or backward into the pit) and his hevel+chavat reasoning plus his resolution of the mishna's exemption case (fell outside the pit), which precisely matches the prose of 'Shmuel's Position'.",
+      "current_heading": "Resolving Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Baraisa Challenge",
+    "candidates": [
+      "Resolving Mishna",
+      "Baraisa Challenge",
+      "Bor BiReshuto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita challenge to Rav and the declaration of 'tiyuvta d'Rav,' which is precisely what the 'Baraisa Challenge' section's prose describes.",
+      "chosen_heading": "Baraisa Challenge",
+      "current_heading": "Baraisa Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Bor BiReshuto",
+    "candidates": [
+      "Bor BiReshuto",
+      "Rava's Flipover Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24isda's resolution involving a pit on one's own property (bor bireshuto) and the mima nafshach argument about hevel and chavata, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Bor BiReshuto",
+      "current_heading": "Bor BiReshuto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rava's Flipover Case",
+    "candidates": [
+      "Rava's Flipover Case",
+      "Water Damage Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabba's explanation involving the animal tumbling from face-first to back-first, which matches exactly the 'Rava's Flipover Case' prose about the animal falling face-first (nafal al apei) then flipping (ve'ishapech) and landing back-first (venafal al gabei).",
+      "chosen_heading": "Rava's Flipover Case",
+      "current_heading": "Rava's Flipover Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Water Damage Theory",
+    "candidates": [
+      "Water Damage Theory",
+      "Derech Nefilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement about damage caused by the ox to the pit (contaminating the water), which is precisely what the 'Water Damage Theory' prose describes.",
+      "chosen_heading": "Water Damage Theory",
+      "current_heading": "Water Damage Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Derech Nefilah",
+    "candidates": [
+      "Derech Nefilah",
+      "Digger's Causation",
+      "Rabbi Noson Intro",
+      "Ox Pushes Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita of Rav \u1e24ananya supporting Rav's position through the 'derech nefilah' drasha, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Derech Nefilah",
+      "current_heading": "Derech Nefilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Ox Pushes Ox",
+    "candidates": [
+      "Digger's Causation",
+      "Rabbi Noson Intro",
+      "Ox Pushes Ox",
+      "Chachamim vs. Noson",
+      "3/4 vs 1/2 Split"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Noson Intro",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Shimi bar Ashi's resolution citing Rabbi Natan's two principles (the pit causes damage, and liability shifts when the digger cannot pay), which is precisely what candidate 1 ('Rabbi Noson Intro') discusses.",
+      "second_heading": "Ox Pushes Ox",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about the ox pushing another ox into a pit, which is exactly the tannaic source candidate 2 ('Ox Pushes Ox') identifies as the basis for Rabbi Natan's position.",
+      "current_heading": "Ox Pushes Ox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "3/4 vs 1/2 Split",
+    "candidates": [
+      "Chachamim vs. Noson",
+      "3/4 vs 1/2 Split",
+      "Tam vs Mu'ad",
+      "Conceptual Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's resolution of the contradiction between the two baraisos via the tam/mu'ad distinction, which is precisely what the 'Tam vs Mu'ad' prose section describes \u2014 item 1 presents the contradiction and its resolution (lo kashya, ha b'tam, ha b'mu'ad), and item 2 begins unpacking the conceptual machinery behind the tam case, exactly as that section's prose promises.",
+      "chosen_heading": "Tam vs Mu'ad",
+      "current_heading": "3/4 vs 1/2 Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Conceptual Models",
+    "candidates": [
+      "Tam vs Mu'ad",
+      "Conceptual Models",
+      "Ox's Complaint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the 50/50 causation model and its arithmetic consequences (pit owner pays half, ox owner pays quarter, victim loses a quarter), which is exactly what the 'Conceptual Models' prose describes as the alternative model that yields a 50/25 split with a 25% loss to the victim.",
+      "chosen_heading": "Conceptual Models",
+      "current_heading": "Conceptual Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Ox's Complaint",
+    "candidates": [
+      "Ox's Complaint",
+      "Deductible Liability",
+      "Rock Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ox's Complaint",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's explanation of Rabbi Natan using the 'shutafutai mai ahanei li' argument (ox owner's complaint about the partnership), which is precisely what the 'Ox's Complaint' prose discusses.",
+      "second_heading": "Deductible Liability",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the alternative 'ibayit eima' formulation \u2014 'mai d'leisa lishalumi mei'hai mishtalamna mimach' \u2014 which is exactly the 'Deductible Liability' prose's subject matter, explaining the pit's full 100% liability with the ox owner's share deducted.",
+      "current_heading": "Ox's Complaint",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rock Case",
+    "candidates": [
+      "Deductible Liability",
+      "Rock Case",
+      "Stone's Dependency",
+      "Pit Owner Defense",
+      "Both Necessary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement about the stone-at-the-pit scenario and the Gemara's initial 'peshita' objection, which matches exactly the prose in 'Rock Case' describing Rava's introduction of this scenario and its classification under the Rabbi Natan/rabbanim debate.",
+      "chosen_heading": "Rock Case",
+      "current_heading": "Rock Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Both Necessary",
+    "candidates": [
+      "Stone's Dependency",
+      "Pit Owner Defense",
+      "Both Necessary",
+      "Sanctified Ox Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the gemara's rejection of the stone-owner's defense ('ka mashma lan') and the symmetrical counter-argument ('ilav even, lo havai nafal l'bira'), which is precisely what candidate 2 ('Both Necessary') describes in its prose.",
+      "chosen_heading": "Both Necessary",
+      "current_heading": "Both Necessary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Sanctified Ox Case",
+    "candidates": [
+      "Sanctified Ox Case",
+      "Tam/Mu'ad Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the exact case of the firstborn disqualified consecrated ox goring with a normal ox and the Abaye/Ravina dispute, which is precisely what heading 0 ('Sanctified Ox Case') describes in its prose.",
+      "chosen_heading": "Sanctified Ox Case",
+      "current_heading": "Sanctified Ox Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Tam/Mu'ad Explanation",
+    "candidates": [
+      "Tam/Mu'ad Explanation",
+      "Rabbanim Explanation",
+      "Rava's Example",
+      "Four Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items resolve the Abaye/Ravina dispute by pairing tam/mu'ad status with the rabbanim/Rabbi Natan models, which is precisely what the 'Tam/Mu'ad Explanation' prose describes.",
+      "chosen_heading": "Tam/Mu'ad Explanation",
+      "current_heading": "Tam/Mu'ad Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Four Categories",
+    "candidates": [
+      "Rabbanim Explanation",
+      "Rava's Example",
+      "Four Categories",
+      "Exemption Question",
+      "V'Hameit Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Rava's table mapping liability across payment categories (nezek, four payments, kofer, kelim), which is precisely what candidate 2 'Four Categories' describes in its prose.",
+      "chosen_heading": "Four Categories",
+      "current_heading": "Four Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "V'Hameit Meaning",
+    "candidates": [
+      "Exemption Question",
+      "V'Hameit Meaning",
+      "Categorical Exemptions",
+      "Why Not Ox"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Exemption Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 directly correspond to heading 0's prose: Rava's exemption reasoning, the challenge that it was his own open question, and the 'batar d'ba'i hadar pashtei' resolution.",
+      "second_heading": "Categorical Exemptions",
+      "second_confidence": "high",
+      "second_reason": "Item 4 asks where 'b'alim metaplin b'neveilah' comes from and raises the reversal question, which matches heading 2's prose about the verse appearing twice with each instance teaching a different rule.",
+      "current_heading": "V'Hameit Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Why Not Ox",
+    "candidates": [
+      "Categorical Exemptions",
+      "Why Not Ox",
+      "Framework Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the 'Why Not Ox' section's prose, which explicitly discusses the mistabra/adderaba/kulei nezek exchange about assigning the exemption to bor vs. shor.",
+      "chosen_heading": "Why Not Ox",
+      "current_heading": "Why Not Ox",
+      "moved": false
+    }
+  }
+]

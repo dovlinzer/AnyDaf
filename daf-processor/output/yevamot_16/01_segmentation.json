@@ -24,7 +24,7 @@
           "timestamp": "01:14"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -58,7 +58,7 @@
           "timestamp": "09:35"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -121,7 +121,7 @@
           "timestamp": "36:07"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -150,7 +150,7 @@
           "timestamp": "44:49"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 26,
       "matched": false
     },
     {
@@ -179,7 +179,7 @@
           "timestamp": "52:39"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 26,
       "matched": false
     },
     {
@@ -218,8 +218,8 @@
           "timestamp": "60:52"
         }
       ],
-      "sefaria_index": 27,
-      "matched": false
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -494,5 +494,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "09:35",
+  "amud_b_micro_title": "Benot Yerushalayim",
+  "shiur_start_daf": 16,
+  "shiur_start_amud": "a"
 }

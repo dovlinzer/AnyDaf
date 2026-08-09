@@ -1,0 +1,535 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Retraction Valueless",
+    "candidates": [
+      "New Perek Intro",
+      "Kordyakos Case",
+      "Retraction Valueless",
+      "Kordyakos Definition"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Kordyakos Definition",
+    "candidates": [
+      "Kordyakos Definition",
+      "Amulets & Names",
+      "Kordyakos Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the definition of kordyakos (Shmuel's answer about new wine from the press) and the reason the mishna uses the term (to teach us the name of the demon), which matches precisely the content described in the 'Kordyakos Definition' prose.",
+      "chosen_heading": "Kordyakos Definition",
+      "current_heading": "Kordyakos Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Kordyakos Remedy",
+    "candidates": [
+      "Amulets & Names",
+      "Kordyakos Remedy",
+      "Sunstroke Treatment",
+      "Chronic Fever Cure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the amulet question (l'mai nafka mina / l'kameia) and the remedy in one continuous Gemara exchange, and candidate 0's prose explicitly discusses both the nafka mina and the kameia context, making it the better match than candidate 1 which focuses only on the medical remedy portion.",
+      "chosen_heading": "Amulets & Names",
+      "current_heading": "Kordyakos Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Chronic Fever Cure",
+    "candidates": [
+      "Sunstroke Treatment",
+      "Chronic Fever Cure",
+      "Chills Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the treatment for chronic/long-standing fever (shimsha atikta): item 1 introduces the black hen remedy and item 2 continues with the water immersion procedure, exactly matching the 'Chronic Fever Cure' prose which describes both the hen placement and the water immersion steps.",
+      "chosen_heading": "Chronic Fever Cure",
+      "current_heading": "Chronic Fever Cure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Chills Remedy",
+    "candidates": [
+      "Chills Remedy",
+      "Rav Amram Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the fever and chills remedies together, and the current 'Chills Remedy' section prose directly discusses the chills treatment (fatty meat on coals and undiluted wine) which is the counterpart described here, making this the correct placement.",
+      "chosen_heading": "Chills Remedy",
+      "current_heading": "Chills Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rav Amram Story",
+    "candidates": [
+      "Rav Amram Story",
+      "Yalta & Bath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Amram being made to lie in snow and his use of reverse psychology to obtain fatty meat and undiluted wine, which is precisely what the 'Rav Amram Story' prose discusses.",
+      "chosen_heading": "Rav Amram Story",
+      "current_heading": "Rav Amram Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Yalta & Bath",
+    "candidates": [
+      "Yalta & Bath",
+      "Decline the Meal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Yalta's bathhouse treatment and Rav Yosef/Rav Sheshet's labor-based warming remedies \u2014 are explicitly discussed together in the 'Yalta & Bath' prose, which covers exactly these two episodes as treatments for chills.",
+      "chosen_heading": "Yalta & Bath",
+      "current_heading": "Yalta & Bath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Decline the Meal",
+    "candidates": [
+      "Decline the Meal",
+      "Three-Leg Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the exchange described in 'Decline the Meal' prose \u2014 Rav Sheshet's refusal to eat, his suspicion of the servants regarding eiver min hachai, the Exilarch's challenge, and Rav Sheshet's declaration that he will demonstrate it \u2014 all before the actual leg-stealing test described in 'Three-Leg Test'.",
+      "chosen_heading": "Decline the Meal",
+      "current_heading": "Decline the Meal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Three-Leg Test",
+    "candidates": [
+      "Three-Leg Test",
+      "Mashgiach Role",
+      "Dangerous Bone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the three-leg/five-leg episode that the 'Three-Leg Test' prose section is explicitly discussing.",
+      "chosen_heading": "Three-Leg Test",
+      "current_heading": "Three-Leg Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Dangerous Bone",
+    "candidates": [
+      "Mashgiach Role",
+      "Dangerous Bone",
+      "Disease Detection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe the dangerous bone incident, the wrapping in the scarf, and the fabricated silver cup accusation \u2014 exactly what the 'Dangerous Bone' prose section discusses in detail.",
+      "chosen_heading": "Dangerous Bone",
+      "current_heading": "Dangerous Bone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Disease Detection",
+    "candidates": [
+      "Disease Detection",
+      "Pit Trap Escape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Sheshet detecting diseased meat by taste and instructing servants to check the animal per Rav \u1e24isda's teaching, which matches exactly the 'Disease Detection' section's prose.",
+      "chosen_heading": "Disease Detection",
+      "current_heading": "Disease Detection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Pit Trap Escape",
+    "candidates": [
+      "Pit Trap Escape",
+      "Singers vs Demons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the pit trap incident involving Rav Sheshet and Rav \u1e24isda at the Exilarch's house, which is exactly what the 'Pit Trap Escape' prose discusses in detail.",
+      "chosen_heading": "Pit Trap Escape",
+      "current_heading": "Pit Trap Escape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Singers vs Demons",
+    "candidates": [
+      "Singers vs Demons",
+      "Types of Demons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the parsing of the Ecclesiastes verse about sharim/sharot, ta'anugot, and shida/shidot with the Babylonian vs. Palestinian interpretations, which is exactly what the 'Singers vs Demons' prose section describes.",
+      "chosen_heading": "Singers vs Demons",
+      "current_heading": "Singers vs Demons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Types of Demons",
+    "candidates": [
+      "Types of Demons",
+      "Building Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's statement about three hundred types of demons in Shi\u1e25in and his uncertainty about the nature of a demon itself, which is exactly what the 'Types of Demons' prose section discusses.",
+      "chosen_heading": "Types of Demons",
+      "current_heading": "Types of Demons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Building Challenge",
+    "candidates": [
+      "Building Challenge",
+      "Finding Shamir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why Solomon needed demons and introduces the shamir solution via the Temple building verse, which matches the 'Building Challenge' prose describing exactly this content \u2014 the prohibition on iron tools and the shamir as the solution used by Moses for the ephod stones.",
+      "chosen_heading": "Building Challenge",
+      "current_heading": "Building Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Finding Shamir",
+    "candidates": [
+      "Finding Shamir",
+      "Ashmadai's Routine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Solomon interrogating male and female demons who reveal that Ashmedai knows the shamir's location, which directly matches the 'Finding Shamir' section prose describing exactly this sequence of events.",
+      "chosen_heading": "Finding Shamir",
+      "current_heading": "Finding Shamir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Ashmadai's Routine",
+    "candidates": [
+      "Ashmadai's Routine",
+      "Well Scheme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ashmedai's daily routine of sealing his pit, ascending to heaven, studying in both heavenly and earthly academies, and returning to check his seal \u2014 exactly what the 'Ashmadai's Routine' prose discusses.",
+      "chosen_heading": "Ashmadai's Routine",
+      "current_heading": "Ashmadai's Routine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Well Scheme",
+    "candidates": [
+      "Well Scheme",
+      "Wine Temptation",
+      "Chain Capture"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Well Scheme",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Benayahu digging pits and redirecting water/wine, which matches exactly the 'Well Scheme' prose about draining the cistern and filling it with wine.",
+      "second_heading": "Wine Temptation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Ashmedai finding wine, citing verses, resisting, and then drinking \u2014 which matches exactly the 'Wine Temptation' prose about his moral struggle and eventual capitulation.",
+      "current_heading": "Well Scheme",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Chain Capture",
+    "candidates": [
+      "Wine Temptation",
+      "Chain Capture",
+      "Journey & Kindness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Benayahu throwing the chain around Ashmadai and invoking God's name to restrain him, which directly matches the 'Chain Capture' section's prose about exactly these events.",
+      "chosen_heading": "Chain Capture",
+      "current_heading": "Chain Capture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Journey & Kindness",
+    "candidates": [
+      "Journey & Kindness",
+      "Acts of Kindness",
+      "Mortality Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Ashmedai's journey to Jerusalem \u2014 knocking down the palm tree, the house, and then bending away from the widow's hut and breaking his bone \u2014 which is precisely what candidate 0 ('Journey & Kindness') discusses in its prose.",
+      "chosen_heading": "Journey & Kindness",
+      "current_heading": "Journey & Kindness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Mortality Signs",
+    "candidates": [
+      "Acts of Kindness",
+      "Mortality Signs",
+      "Testing Power"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Mortality Signs",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20137 describe Ashmedai's journey to Solomon (his observations along the way, arrival, the shamir episode) which precede the explanatory Q&A, while candidate 1's prose ('Mortality Signs') explicitly discusses the Q&A explanations Ashmedai gives to Benayahu about each behavior observed on the journey.",
+      "second_heading": "Acts of Kindness",
+      "second_confidence": "high",
+      "second_reason": "Items 8\u201312 are Benayahu's questions to Ashmedai explaining each curious behavior (blind man, drunk, wedding, shoemaker, sorcerer), and candidate 0 ('Acts of Kindness') opens with exactly this Q&A about the blind man and the drunk, matching the content of these items perfectly.",
+      "current_heading": "Mortality Signs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Testing Power",
+    "candidates": [
+      "Testing Power",
+      "Casting Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ashmedai posing the challenge about the verse and asking 'what makes you greater than us,' which matches exactly the 'Testing Power' prose describing this same conversation and question.",
+      "chosen_heading": "Testing Power",
+      "current_heading": "Testing Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Casting Away",
+    "candidates": [
+      "Casting Away",
+      "Kohelet Realized",
+      "Beggar King"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ashmedai taking the chain and ring, swallowing it, spreading his wings, and casting Solomon 400 parasangs \u2014 the physical act of casting away \u2014 which matches heading 0's prose exactly, while the Kohelet verse at the end is quoted within this passage but heading 1's prose discusses the aftermath and interpretation of that verse separately.",
+      "chosen_heading": "Casting Away",
+      "current_heading": "Casting Away",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Beggar King",
+    "candidates": [
+      "Kohelet Realized",
+      "Beggar King",
+      "Sanhedrin Inquiry",
+      "Detection Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the 'this was my portion' verse (briefly) and Solomon wandering door to door declaring his former kingship, which matches the 'Beggar King' prose exactly \u2014 the 'Kohelet Realized' section already summarizes the staff/cloak interpretation in its own prose, and the Sanhedrin reaction belongs under a separate heading.",
+      "chosen_heading": "Beggar King",
+      "current_heading": "Beggar King",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Detection Methods",
+    "candidates": [
+      "Sanhedrin Inquiry",
+      "Detection Methods",
+      "Restoration & Fear",
+      "Guards & Defense"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Detection Methods",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the detection investigation \u2014 querying Benayahu and the queens, checking feet, wearing socks \u2014 which matches exactly the 'Detection Methods' prose about examining the impostor's feet and the queens' reports.",
+      "second_heading": "Restoration & Fear",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the niddah/Bathsheba revelations leading to Solomon being brought back with the ring and chain, after which Ashmadai fled \u2014 matching precisely the 'Restoration & Fear' prose about Shlomo being given the ring and chain and Ashmadai fleeing upon seeing him.",
+      "current_heading": "Detection Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Guards & Defense",
+    "candidates": [
+      "Restoration & Fear",
+      "Guards & Defense",
+      "King or Beggar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Solomon's lingering fear of Ashmedai even after his flight, citing the verse about the sixty warriors guarding his bed \u2014 exactly what the 'Guards & Defense' prose section discusses.",
+      "chosen_heading": "Guards & Defense",
+      "current_heading": "Guards & Defense",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Biblical vs. Rabbinic Law",
+    "candidates": [
+      "Shechita She'eina Re'uya",
+      "Biblical vs. Rabbinic Law",
+      "Rabbi Shimon's View",
+      "Gezeira vs. Biblical Law",
+      "Treifa Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's argument that if chullin ba'azarah is rabbinic, extending it to chaya would be gezeira ligezeira \u2014 exactly what candidate 3 ('Gezeira vs. Biblical Law') describes in its prose.",
+      "chosen_heading": "Gezeira vs. Biblical Law",
+      "current_heading": "Biblical vs. Rabbinic Law",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Treifa Solution",
+    "candidates": [
+      "Rabbi Shimon's View",
+      "Gezeira vs. Biblical Law",
+      "Treifa Solution",
+      "Two Versions",
+      "Shechita for Birds"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Treifa Solution",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the Rabbi \u1e24iyya moth/flax story and the baraita challenge about covering blood when slaughtering for the blood, which is precisely what candidate 2 ('Treifa Solution') describes in its prose.",
+      "second_heading": "Two Versions",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the two conflicting transmissions (Rav Dimi's 'render it a treifa' vs. Ravin's 'tear loose'), which is exactly what candidate 3 ('Two Versions') describes in its prose.",
+      "current_heading": "Treifa Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Shechita for Birds",
+    "candidates": [
+      "Two Versions",
+      "Shechita for Birds",
+      "Kaasher Tziviticha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why Rabbi did not say 'go tear loose the windpipe' (nechor) instead of 'make it a treifa,' which is precisely the question discussed in the 'Shechita for Birds' prose section.",
+      "chosen_heading": "Shechita for Birds",
+      "current_heading": "Shechita for Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Kaasher Tziviticha",
+    "candidates": [
+      "Kaasher Tziviticha",
+      "Blood Covering Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita in which Rabbi Yehuda HaNasi cites 'kaasher tziviticha' to establish the biblical laws of shechita, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Kaasher Tziviticha",
+      "current_heading": "Kaasher Tziviticha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Blood Covering Rule",
+    "candidates": [
+      "Blood Covering Rule",
+      "Infestation Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the lo mibaya kaamar resolution of the two versions (Rav Dimi and Ravin) regarding covering the blood when slaughter is not fit, which is precisely what the 'Blood Covering Rule' prose describes.",
+      "chosen_heading": "Blood Covering Rule",
+      "current_heading": "Blood Covering Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Infestation Paradox",
+    "candidates": [
+      "Infestation Paradox",
+      "Chananya's Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the infestation paradox \u2014 how Rabbi \u1e24iyya's flax could be stricken if his merit protected flax from infestation \u2014 which is precisely what the 'Infestation Paradox' section's prose describes.",
+      "chosen_heading": "Infestation Paradox",
+      "current_heading": "Infestation Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Chananya's Merit",
+    "candidates": [
+      "Chananya's Merit",
+      "Righteous Self-Sacrifice",
+      "Observation & Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rav Yehuda/Rav statement about Chanina ben Dosa's merit sustaining the world while he subsists on a kav of carobs, which is precisely what heading 0 ('Chananya's Merit') discusses in its prose.",
+      "chosen_heading": "Chananya's Merit",
+      "current_heading": "Chananya's Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Observation & Validity",
+    "candidates": [
+      "Righteous Self-Sacrifice",
+      "Observation & Validity",
+      "Blood Covering Concern",
+      "Oto Ve'et Beno"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about a deaf-mute, imbecile, or minor slaughtering with or without observers and the obligation/exemption to cover blood, which is precisely what the 'Observation & Validity' section's prose introduces and discusses.",
+      "chosen_heading": "Observation & Validity",
+      "current_heading": "Observation & Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Oto Ve'et Beno",
+    "candidates": [
+      "Blood Covering Concern",
+      "Oto Ve'et Beno",
+      "Active vs. Passive",
+      "Prohibition Overrides",
+      "Apparent Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the oto ve'et beno case with Rabbi Meir permitting and the Rabbis prohibiting slaughter of the offspring after an unobserved shechita by a cheresh shoteh vekatan, which is precisely what the prose under heading 1 discusses.",
+      "chosen_heading": "Oto Ve'et Beno",
+      "current_heading": "Oto Ve'et Beno",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Apparent Contradiction",
+    "candidates": [
+      "Active vs. Passive",
+      "Prohibition Overrides",
+      "Apparent Contradiction",
+      "Rabbis Ignore Messages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items constitute the gemara's exploration of the apparent contradiction between the rabbis' two rulings \u2014 exactly the question-and-answer chain described in the 'Apparent Contradiction' prose, which explicitly traces the messaging argument, the deflections about cleaning the yard, and the 'comes to consult' scenario that appears in items 4\u20136.",
+      "chosen_heading": "Apparent Contradiction",
+      "current_heading": "Apparent Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Rabbis Ignore Messages",
+    "candidates": [
+      "Rabbis Ignore Messages",
+      "Rabbi Meir's Rov"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbis Ignore Messages",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concluding resolution that the Rabbis disagree on the entire matter, which matches the 'Rabbis Ignore Messages' prose describing exactly this conclusion (*ela rabbanan a'kulhu pligi* and *d'shavkuhu l'Rabbi Meir ad d'masik lei l'miltei*).",
+      "second_heading": "Rabbi Meir's Rov",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new question about Rabbi Meir's reasoning for not ruling stringently under uncertainty, which matches the 'Rabbi Meir's Rov' prose that explains Rabbi Meir's position and its basis in *rov*.",
+      "current_heading": "Rabbis Ignore Messages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rabbi Meir's Rov",
+    "candidates": [
+      "Rabbi Meir's Rov",
+      "Meir's Minority Concern",
+      "Rov Cannot Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Meir's position that shechita of a cheresh/shoteh/katan is definitively invalid (neveilah) based on rov (majority of their actions being bungled), which is precisely what the 'Rabbi Meir's Rov' section discusses.",
+      "chosen_heading": "Rabbi Meir's Rov",
+      "current_heading": "Rabbi Meir's Rov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rov Cannot Change",
+    "candidates": [
+      "Meir's Minority Concern",
+      "Rov Cannot Change",
+      "Infant & Dough",
+      "Ruling vs. Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source for the challenge about why Rabbi Meir needs a *majority* of botched slaughters when his characteristic concern for minorities should suffice \u2014 this is exactly what heading 0 ('Meir's Minority Concern') describes in its prose.",
+      "chosen_heading": "Meir's Minority Concern",
+      "current_heading": "Rov Cannot Change",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Ruling vs. Action",
+    "candidates": [
+      "Infant & Dough",
+      "Ruling vs. Action",
+      "Tosafot on Tahara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion about the infant-and-dough mishna (items 1-2) and the immediate response distinguishing tumah from issur (item 3), which is precisely what heading 0 'Infant & Dough' describes in its prose, whereas heading 1 'Ruling vs. Action' discusses this same material but as a follow-on summary that presupposes the reader already encountered the infant-dough passage under its own heading.",
+      "chosen_heading": "Infant & Dough",
+      "current_heading": "Ruling vs. Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tosafot on Tahara",
+    "candidates": [
+      "Ruling vs. Action",
+      "Tosafot on Tahara",
+      "Conflicting Rulings",
+      "Which is Achreita?",
+      "Missed Opportunity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage reports that Rabbi issued rulings in both directions (once like Rabbi Meir, once like the Rabbis) and asks which was the later ruling, which directly matches the 'Conflicting Rulings' section's prose about Rabbi issuing rulings in both directions.",
+      "chosen_heading": "Conflicting Rulings",
+      "current_heading": "Tosafot on Tahara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Missed Opportunity",
+    "candidates": [
+      "Conflicting Rulings",
+      "Which is Achreita?",
+      "Missed Opportunity",
+      "Elazar's Message"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together describe the marketplace incident with Rabbi Ami's rebuke, Rabbi Zeira entering while Rabbi Abba stayed outside, and Rabbi Zeira's regret at missing the chance to ask Rabbi Abba \u2014 exactly what the 'Missed Opportunity' prose describes in detail.",
+      "chosen_heading": "Missed Opportunity",
+      "current_heading": "Missed Opportunity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Elazar's Message",
+    "candidates": [
+      "Elazar's Message",
+      "Single Covering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's message to the exile and the conclusion that Rabbi Yehuda HaNasi's ruling like Rabbi Meir was the later definitive one, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Elazar's Message",
+      "current_heading": "Elazar's Message",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Single Covering",
+    "candidates": [
+      "Single Covering",
+      "Mixed Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three cases in the mishna (hundred chayot, hundred birds, chaya and bird together, plus Rabbi Yehuda's opinion), and heading 0's prose introduces this entire mishna as a unit discussing the principle of a single covering sufficing for multiple animals slaughtered in one place.",
+      "chosen_heading": "Single Covering",
+      "current_heading": "Single Covering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Mixed Animals",
+    "candidates": [
+      "Mixed Animals",
+      "Rabbi Yehuda's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly establishes the rules about one covering sufficing for multiple animals or mixed animals in one place, which is exactly what the 'Mixed Animals' section's prose discusses.",
+      "chosen_heading": "Mixed Animals",
+      "current_heading": "Mixed Animals",
+      "moved": false
+    }
+  }
+]

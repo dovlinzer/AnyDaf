@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Kim Lei Principle",
+    "candidates": [
+      "Yochanan vs Reish Lakish",
+      "Animal-Caused Fire: Half",
+      "Reish Lakish: Fire Damage",
+      "Scenario Setup",
+      "Slave Death: No Liability",
+      "Goat Bound, Slave Free",
+      "Kim Lei Principle",
+      "Direct Torching & Kim Lei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items directly address the kim lei principle in the context of the madlik hagadish case \u2014 item 1 presents the mishna case and item 2 raises the precise question of why kim lei applies if fire is mishum mamono, which is exactly what the 'Kim Lei Principle' prose section describes as its concluding question leading into the next section.",
+      "chosen_heading": "Kim Lei Principle",
+      "current_heading": "Kim Lei Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Direct Torching & Kim Lei",
+    "candidates": [
+      "Direct Torching & Kim Lei",
+      "Different Owners & Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Reish Lakish's answer that we are dealing with a case where one directly torched the slave's body (hitzis b'gufo shel eved) and therefore kim lei applies, which is precisely what section 0 'Direct Torching & Kim Lei' discusses.",
+      "chosen_heading": "Direct Torching & Kim Lei",
+      "current_heading": "Direct Torching & Kim Lei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Different Owners & Kinyan",
+    "candidates": [
+      "Different Owners & Kinyan",
+      "Pasuk: Spreads & Pays"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Different Owners & Kinyan",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the 'different owners' resolution and the transition to the deaf-mute mishna) belong under 'Different Owners & Kinyan', whose prose explicitly discusses the goat-of-one/slave-of-another case and the kim lei question.",
+      "second_heading": "Pasuk: Spreads & Pays",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 form a self-contained unit about the deaf-mute/fire case and the Reish Lakish/Rabbi Yochanan dispute over isho mishum chitzav vs. mamono, which matches the 'Pasuk: Spreads & Pays' section's focus on the theoretical basis of fire liability.",
+      "current_heading": "Different Owners & Kinyan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Pasuk: Spreads & Pays",
+    "candidates": [
+      "Pasuk: Spreads & Pays",
+      "Braisa: Property to Doer",
+      "Buried Item Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's support from the verse (pasuk) about fire breaking out and the obligation to pay, concluding 'isho mishum chitzav' \u2014 which matches exactly the 'Pasuk: Spreads & Pays' section's prose description.",
+      "chosen_heading": "Pasuk: Spreads & Pays",
+      "current_heading": "Pasuk: Spreads & Pays",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Buried Item Exemption",
+    "candidates": [
+      "Braisa: Property to Doer",
+      "Buried Item Exemption",
+      "Fire's Trajectory & Wall"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Braisa: Property to Doer",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 are the baraita deriving 'eish mishum chitzav,' which candidate 0's prose explicitly describes as 'patach hakatuv b'nizkei mamono v'siyem b'nizkei gufo' and the eish mishum chitzav derivation.",
+      "second_heading": "Buried Item Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's challenge about tamun ba'eish, which candidate 1's prose directly discusses as the logical difficulty against the eish mishum chitzav position.",
+      "current_heading": "Buried Item Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Fire's Trajectory & Wall",
+    "candidates": [
+      "Fire's Trajectory & Wall",
+      "Wall Falls: Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Abaye's resolution (kalu lei chitzav due to wall collapsing shelo machmas deleika) and the immediate challenge to it \u2014 exactly the content described in heading 0's prose about the fire's trajectory and the wall scenario.",
+      "chosen_heading": "Fire's Trajectory & Wall",
+      "current_heading": "Fire's Trajectory & Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Wall Falls: Liability",
+    "candidates": [
+      "Wall Falls: Liability",
+      "Dual Nature of Fire",
+      "Personal Injury Fire Dmg"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the scenario where a wall falls and the person could have re-fenced but did not, explaining how chitzav and mamono coexist in that specific context \u2014 exactly what the 'Wall Falls: Liability' section's prose discusses.",
+      "chosen_heading": "Wall Falls: Liability",
+      "current_heading": "Wall Falls: Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Personal Injury Fire Dmg",
+    "candidates": [
+      "Dual Nature of Fire",
+      "Personal Injury Fire Dmg",
+      "Negligence = Liability",
+      "Foundation: Duty to Guard",
+      "Scenario & Damages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question and answer about what remains between Rabbi Yochanan and Reish Lakish now that both frameworks coexist \u2014 which is precisely what candidate 0 ('Dual Nature of Fire') discusses in its prose, explicitly mentioning this Q&A and the four-types-of-indemnity answer as part of its analysis.",
+      "chosen_heading": "Dual Nature of Fire",
+      "current_heading": "Personal Injury Fire Dmg",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Scenario & Damages",
+    "candidates": [
+      "Negligence = Liability",
+      "Foundation: Duty to Guard",
+      "Scenario & Damages",
+      "Coal Owner's Defense",
+      "Dog Digging Under Fence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses who is obligated to pay for the cake/grain and raises the question of whether the coal-owner bears liability \u2014 exactly what the 'Scenario & Damages' prose describes as the Gemara working out who pays what and whether the coal-owner bears responsibility.",
+      "chosen_heading": "Scenario & Damages",
+      "current_heading": "Scenario & Damages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Dog Digging Under Fence",
+    "candidates": [
+      "Coal Owner's Defense",
+      "Dog Digging Under Fence",
+      "Care Standards: Injure",
+      "Third Party Field Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dog burrowing under the fence and Rav Mari's derivation about ordinary doors being vulnerable to dog digging, which matches exactly the prose of candidate 1.",
+      "chosen_heading": "Dog Digging Under Fence",
+      "current_heading": "Dog Digging Under Fence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Third Party Field Eating",
+    "candidates": [
+      "Care Standards: Injure",
+      "Third Party Field Eating",
+      "Mouth = Victim's Domain",
+      "Contradiction Resolved",
+      "Tosafot: Location Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about where the dog ate the biscuit and the resolution that it ate it on the coal-owner's stack, which is precisely what heading 1 ('Third Party Field Eating') and its prose describes \u2014 the question of reshut and where the eating occurred.",
+      "chosen_heading": "Third Party Field Eating",
+      "current_heading": "Third Party Field Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Tosafot: Location Eating",
+    "candidates": [
+      "Mouth = Victim's Domain",
+      "Contradiction Resolved",
+      "Tosafot: Location Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items constitute the Gemara's derivation and discussion of the principle that the mouth of a cow is like the courtyard of the injured party (chatzer hanizak), which is precisely what candidate 0 ('Mouth = Victim's Domain') describes in its prose, not the Tosafot analysis of candidate 2 where it currently sits.",
+      "chosen_heading": "Mouth = Victim's Domain",
+      "current_heading": "Tosafot: Location Eating",
+      "moved": true
+    }
+  }
+]

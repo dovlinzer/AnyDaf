@@ -1,12 +1,9 @@
-# Nedarim 10 — Daf Yomi Shiur
-
+[DAF:10a]
 ## Vows & Nazir Review
 
-### Nidrei Reshaim
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר לַחֲבֵירוֹ קֻוֽנָּם קוּנָּח קוּנָּס הֲרֵי אֵלּוּ כִּינּוּיִין לַקׇּרְבָּן
->
-> **Translation:** MISHNA: In the case of **one who says to another** that a certain object is ***konam*, *konaḥ*,** or ***konas*, these** expressions **are substitutes** for the term **offering [*korban*].**
+
+### Nidrei Reshaim
 
 Today's daf is daf 10, and we find ourselves continuing from where we left off in the *gemara*. The *mishnah* that opened our discussion frames the fundamental tension of *masechet Nedarim* in stark terms: *nidrei reshaim* — the vows of the wicked — as opposed to *nidrei kesherim* and *nidvot kesherim*. The governing principle, put simply, is that *resha'im* make *nedarim* while *kesherim* make *nidavot*. It is worth pausing on the word *resha'im* here. The *Ran* explains the phrase as *resha'im badavar zeh* — wicked in this particular matter — and one should not read into it the full harshness that the term normally carries. And yet, however we soften it, it remains a striking characterization. Here we are in a tractate entirely devoted to *nedarim*, and the very opening move is to attach a disparaging label to those who take them. The implicit tension borders on the ironic: who, after all, would aspire to vow *as the resha'im do*? The *gemara*'s concern operates on at least two levels. First, there is the practical worry that a person who makes a *neder* may come to violate it. But second, and perhaps more fundamentally, there is something inherently questionable about the religious phenomenon itself — the idea that one must manufacture one's own religious realities, as though what God has commanded is insufficient, imposing upon oneself a self-styled spiritual regime rather than fulfilling what has actually been asked of us. Both concerns remain very much alive as the *gemara* develops.
 
@@ -20,49 +17,43 @@ This question brought the *gemara* to the celebrated position of Shimon HaTzadik
 
 ### Rabbi Meir/Yehuda
 
-> **Hebrew/Aramaic:** אִיתְּמַר בְּנֶדֶר, בִּנְדָבָה לָא קָאָמַר
->
-> **Translation:** **When** the principle **that one should abstain from making vows was discussed, it referred to a vow; it was not said** with regard to a **gift** offering.
-
 The positions of Rabbi Meir and Rabbi Yehuda were then brought into the picture. Rabbi Meir holds: *tov shelo yiddor mizeh u'mizeh she'eino noder kol ikkar* — better not to vow at all than to vow and not fulfill. Rabbi Yehuda initially appears to disagree, holding that *noder u'mekayem* is better than not vowing at all. But the *gemara* ultimately collapses the apparent dispute: Rabbi Yehuda is referring only to a *nidavah*, not a *neder*. Even Rabbi Yehuda agrees that a *neder* is problematic. The *gemara* further cites Rabbi Yehuda himself as offering a model of a legitimate *nazir*: one who becomes a *nazir* specifically in order to be able to bring a *korban chatas*. The analogy offered is to a person who, upon learning that it is a *mitzvah* to give a *get* to one's wife, deliberately goes out and divorces her in order to fulfill the obligation — using an ostensibly ordinary act as the vehicle for a genuine religious gesture. Similarly, someone who becomes a *nazir* in order to bring a *korban chatas* is treating the *nezirut* as a kind of *nidavah* vehicle for *korban*-giving.
 
 ### Nedarim vs Nidavot
 
 The overall framework that emerges is thus: *nedarim* are something the *gemara* looks upon with suspicion and criticism, while *nidavot* are praiseworthy. The question of how to apply this framework to *nezirut* — which sits in an ambiguous middle position — generates multiple positions that will now be examined more closely.
 
+It is worth pausing to note just how striking it is that a tractate devoted entirely to *nedarim* should contain such a disparaging attitude toward the very phenomenon it discusses. When a student raised the question of how to translate the word *reshaim* — used to describe those who make *nedarim* — the point that emerged is that while *reshaim* here clearly does not carry its full, harshest connotation of "wicked," it nonetheless reflects something genuinely pointed. A lighter rendering such as "inappropriate" or "in the wrong" may better capture the register, and the *Ran* does read it as *reshaim badavar zeh* — wicked in this particular matter — but even so, the fact that this word appears at all in this context is remarkable. The underlying concern seems to operate on two levels: there is a practical worry that even one who intends to fulfill a *neder* may ultimately come to violate it, but there is also something more fundamental — a theological unease about the act of self-imposing religious obligations in the first place, as if what God has commanded is somehow insufficient and must be supplemented by one's own privately constructed religious commitments. These two distinct concerns — the practical risk of non-fulfillment and the more principled objection to self-generated obligation — are both at stake in the *gemara*'s treatment of *nedarim*, and both inform how the subsequent positions on *nezirut* are to be understood.
+
 ---
 
 ## Rabbi Shimon Critique
 
-### Lo Nadvu BeNazir
 
-> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן אוֹמֵר: לֹא נָדְרוּ בְּנָזִיר, אֶלָּא: הָרוֹצֶה לְהָבִיא עוֹלָה — מִתְנַדֵּב וּמֵבִיא, שְׁלָמִים — מִתְנַדֵּב וּמֵבִיא, תּוֹדָה וְאַרְבָּעָה מִינֵי לַחְמָהּ — מִתְנַדֵּב וּמֵבִיא. אֲבָל בִּנְזִירוּת לֹא הִתְנַדְּבוּ, כְּדֵי שֶׁלֹּא יִקָּרְאוּ חוֹטְאִים.
->
-> **Translation:** **Rabbi Shimon says: They did not take a vow of naziriteship. Rather, one who** would **want to bring a burnt-offering** would **volunteer and bring** it; one who would want to bring **a peace-offering** would **volunteer and bring** it; and one who would want to bring **a thanks-offering and its four types of bread** would **volunteer and bring** them. **However, they did not volunteer naziriteship in order that they not be called sinners.**
+
+### Lo Nadvu BeNazir
 
 Picking up approximately fifteen lines into the relevant section, the *gemara* presents the position of Rabbi Shimon: *lo nadvu b'nazir* — people who genuinely wanted to give *korbanos* and to do so entirely *l'shem shamayim* would nonetheless not have accepted upon themselves to become a *nazir*. Instead, if one wished to bring an *olah*, one simply brought an *olah*; if one wished to bring *shelamim*, one brought *shelamim*; if a *todah* with its four types of bread, one brought that. *Aval b'nezirut lo hitnadvu* — even the most sincere and well-motivated individuals did not embrace *nezirut* as their vehicle.
 
+> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן אוֹמֵר: לֹא נָדְרוּ בְּנָזִיר, אֶלָּא: הָרוֹצֶה לְהָבִיא עוֹלָה — מִתְנַדֵּב וּמֵבִיא, שְׁלָמִים — מִתְנַדֵּב וּמֵבִיא, תּוֹדָה וְאַרְבָּעָה מִינֵי לַחְמָהּ — מִתְנַדֵּב וּמֵבִיא. אֲבָל בִּנְזִירוּת לֹא הִתְנַדְּבוּ, כְּדֵי שֶׁלֹּא יִקָּרְאוּ חוֹטְאִין. שֶׁנֶּאֱמַר ״וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ״.
+> **Translation:** **Rabbi Shimon says: They did not take a vow of naziriteship. Rather, one who** would **want to bring a burnt-offering** would **volunteer and bring** it; one who would want to bring **a peace-offering** would **volunteer and bring** it; and one who would want to bring **a thanks-offering and its four types of bread** would **volunteer and bring** them. **However, they did not volunteer naziriteship in order that they not be called sinners.** According to Rabbi Shimon, naziriteship involves some element of sin, **as it is stated: “And he shall make atonement for him, for that he sinned against the soul”** (Numbers 6:11).
+
 ### Vichiper Alav
 
-> **Hebrew/Aramaic:** שֶׁנֶּאֱמַר וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ
->
-> **Translation:** According to Rabbi Shimon, naziriteship involves some element of sin, **as it is stated: "And he shall make atonement for him, for that he sinned against the soul"** (Numbers 6:11).
 
 The reason Rabbi Shimon gives is drawn from the *pasuk*: *vichiper alav asher chata al hanefesh* — the Torah says the *nazir* requires atonement for having sinned against the soul. And this is not being read here, in Rabbi Shimon's view, as referring specifically to the *nazir tamei*. Rather, Rabbi Shimon understands it as indicating that the very acceptance of *nezirut* constitutes a form of injury to oneself — specifically, *shetzier atzmo min hayayin*, that the person denied himself wine. A further *kal vachomer* is drawn: if one who denied himself merely wine is called a sinner, how much more so one who denies himself from everything. And from here the *gemara* extrapolates: *kol hayoshev b'taanis nikra chotei* — anyone who accepts upon himself a *taanis* is called a sinner. The counterpoint is also noted: an opposing opinion holds that *kol hayoshev b'taanis nikra kadosh* — such a person is called holy.
 
 ### Abaye's Synthesis
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: שִׁמְעוֹן הַצַּדִּיק וְרַבִּי שִׁמְעוֹן וְרַבִּי אֶלְעָזָר הַקַּפָּר כּוּלָּן שִׁיטָה אַחַת הֵן, דְּנָזִיר חוֹטֵא הָוֵי
->
-> **Translation:** **Abaye said: Shimon HaTzaddik, Rabbi Shimon, and Rabbi Elazar HaKappar are all of the same opinion, that a nazirite is a sinner.**
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: שִׁמְעוֹן הַצַּדִּיק וְרַבִּי שִׁמְעוֹן וְרַבִּי אֶלְעָזָר הַקַּפָּר כּוּלָּן שִׁיטָה אַחַת הֵן, דְּנָזִיר חוֹטֵא הָוֵי: שִׁמְעוֹן הַצַּדִּיק וְרַבִּי שִׁמְעוֹן הָא דַּאֲמַרַן.
+> **Translation:** § **Abaye said: Shimon HaTzaddik, Rabbi Shimon, and Rabbi Elazar HaKappar are all of the same opinion, that a nazirite is a sinner.** The statements of **Shimon HaTzaddik and Rabbi Shimon** in this regard are **that which we** already **said.**
 
 Abaye at this point performs one of his characteristic syntheses, collecting disparate Tannaitic opinions under a single organizing rubric. He declares: *Shimon HaTzadik v'Rabbi Shimon v'Rabbi Elazar Hakapar kulan shita achas hen* — all three hold essentially the same *shita*, or school of thought. It should be noted, as Abaye himself implies and the *rishonim* confirm, that this does not mean they said literally the same thing. The language here is *kulan shita achas hen* — they are of one orientation — not *kulan amru davar echad*. There is a recognized difference in formulation, perhaps even in the specific language associated with *nedarim*, but the underlying thrust is the same.
 
 ### Nazir Chotei
 
-> **Hebrew/Aramaic:** וְרַבִּי אֶלְעָזָר הַקַּפָּר בְּרַבִּי, דְּתַנְיָא, רַבִּי אֶלְעָזָר הַקַּפָּר בְּרַבִּי אוֹמֵר: וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ. וְכִי בְּאֵיזוֹ נֶפֶשׁ חָטָא זֶה? אֶלָּא: שֶׁצִּיעֵר עַצְמוֹ מִן הַיַּיִן. וַהֲלֹא דְּבָרִים קַל וָחוֹמֶר: וּמָה זֶה שֶׁלֹּא צִיעֵר עַצְמוֹ אֶלָּא מִן הַיַּיִן נִקְרָא חוֹטֵא, הַמְצַעֵר עַצְמוֹ מִכׇּל דָּבָר עַל אַחַת כַּמָּה וְכַמָּה. מִכָּאן כׇּל הַיּוֹשֵׁב בְּתַעֲנִית נִקְרָא חוֹטֵא.
->
-> **Translation:** **And Rabbi Elazar HaKappar the Distinguished** agrees, **as it is taught** in a *baraita* that **Rabbi Elazar HaKappar the Distinguished says:** It is written with regard to the priest who sacrificed the offering of a nazirite: **"And he shall make atonement for him, for that he sinned against the soul." Against which soul did** the nazirite **sin? Rather,** his sin is **that he caused himself suffering** by refraining **from wine. Are** these **matters not** inferred ***a fortiori*: Just as this** nazirite, **who causes himself suffering only** by refraining **from wine, is called a sinner, one who causes himself suffering** by refraining **from everything** is **all the more so** to be considered a sinner. **From here** it can be derived that **whoever fasts** unnecessarily **is called a sinner.**
+> **Hebrew/Aramaic:** וְרַבִּי אֶלְעָזָר הַקַּפָּר בְּרַבִּי, דְּתַנְיָא, רַבִּי אֶלְעָזָר הַקַּפָּר בְּרַבִּי אוֹמֵר: ״וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ״. וְכִי בְּאֵיזוֹ נֶפֶשׁ חָטָא זֶה? אֶלָּא: שֶׁצִּיעֵר עַצְמוֹ מִן הַיַּיִן. וַהֲלֹא דְּבָרִים קַל וָחוֹמֶר: וּמָה זֶה שֶׁלֹּא צִיעֵר עַצְמוֹ אֶלָּא מִן הַיַּיִן נִקְרָא חוֹטֵא, הַמְצַעֵר עַצְמוֹ מִכׇּל דָּבָר עַל אַחַת כַּמָּה וְכַמָּה. מִכָּאן כׇּל הַיּוֹשֵׁב בְּתַעֲנִית נִקְרָא חוֹטֵא.
+> **Translation:** **And Rabbi Elazar HaKappar the Distinguished** agrees, **as it is taught** in a *baraita* that **Rabbi Elazar HaKappar the Distinguished says:** It is written with regard to the priest who sacrificed the offering of a nazirite: **“And he shall make atonement for him, for that he sinned against the soul.” Against which soul did** the nazirite **sin? Rather,** his sin is **that he caused himself suffering** by refraining **from wine. Are** these **matters not** inferred ***a fortiori*: Just as this** nazirite, **who causes himself suffering only** by refraining **from wine, is called a sinner, one who causes himself suffering** by refraining **from everything** is **all the more so** to be considered a sinner. **From here** it can be derived that **whoever fasts** unnecessarily **is called a sinner.**
 
 The common principle uniting all three: *denazir chotei havei* — that the *nazir* is to be considered a sinner. Shimon HaTzadik and Rabbi Shimon, the *gemara* notes, we have already addressed. Rabbi Elazar Hakapar beRabbi is cited from a *braita*: *vichiper alav asher chata al hanefesh — vichi be'eizo nefesh chata?* Against what soul did this person sin? His answer: *ella shetzier atzmo min hayayin* — he denied himself wine. The text could simply have said *asher chata*; the addition of *al hanefesh* implies a personal injury, a harm done to oneself. From there the *kal vachomer* proceeds as above, concluding with the sweeping principle about one who accepts a *taanis*.
 
@@ -70,17 +61,18 @@ The common principle uniting all three: *denazir chotei havei* — that the *naz
 
 ## Chotei Interpretation
 
+
+
 ### Nazir Tamei Focus
 
 The *rishonim* are careful to note that the three opinions gathered by Abaye are not identical in their emphases. Shimon HaTzadik's concern was focused specifically on the *nazir tamei*. His worry was essentially about the sincerity and depth of the *nazir*'s conviction: when a *nazir* becomes *tamei*, the vow extends, the count resets, and the person is forced to confront whether he really meant what he undertook. The *nazir tamei* is the test case for Shimon HaTzadik precisely because the impurity occasion reveals whether the commitment was genuine. His concern is thus primarily one of motivation and the quality of conviction behind the vow, not about *nezirut* as such.
 
 ### Pasuk Objection
 
-> **Hebrew/Aramaic:** וְהָדֵין קְרָא בְּנָזִיר טָמֵא כְּתִיב! מִשּׁוּם דְּשָׁנָה בְּחֵטְא הוּא.
->
-> **Translation:** The Gemara raises a question with regard to the opinion of Rabbi Elazar HaKappar. **Isn't this verse written with regard to a ritually impure nazirite?** Consequently, only a nazirite who becomes impure shall be considered a sinner. The Gemara answers: Rabbi Elazar HaKappar holds that the verse uses this terminology with regard to a ritually impure nazirite **because he repeated his sin.** However, becoming a nazirite is itself considered a sin.
-
 The *gemara* raises a difficulty: the *pasuk* of *nikra chotei* is written in the context of a *nazir tamei* — so how can Rabbi Shimon apply it to *nezirut* in general, as though the problem is the very acceptance of *nezirut* regardless of *tumah*?
+
+> **Hebrew/Aramaic:** וְהָדֵין קְרָא בְּנָזִיר טָמֵא כְּתִיב! מִשּׁוּם דְּשָׁנָה בְּחֵטְא הוּא.
+> **Translation:** The Gemara raises a question with regard to the opinion of Rabbi Elazar HaKappar. **Isn’t this verse written with regard to a ritually impure nazirite?** Consequently, only a nazirite who becomes impure shall be considered a sinner. The Gemara answers: Rabbi Elazar HaKappar holds that the verse uses this terminology with regard to a ritually impure nazirite **because he repeated his sin.** However, becoming a nazirite is itself considered a sin.
 
 ### Self-Denial Problem
 
@@ -88,11 +80,15 @@ Rabbi Shimon's emphasis, in contrast to Shimon HaTzadik, has nothing to do with 
 
 ### Repeated Sin
 
+
+
 The *gemara* resolves the textual difficulty by noting: *mishum deshana b'cheit* — because this person has repeated the sin. Either the sin of self-denial is compounded when *tumah* occurs — in that the period is extended and the self-denial lengthened — or because the *nazir* has now piled upon the original sin of denying himself wine the additional sin of becoming *tamei*. One might object that becoming *tamei* is not always within the *nazir*'s control — the Torah itself uses the language of *b'feta pitom*, sudden, unexpected *tumah*. This is acknowledged; nonetheless, the situation of the *nazir tamei* is understood to be a particularly compounded and therefore particularly problematic case.
 
 ---
 
 ## Asceticism Philosophy
+
+
 
 ### Motivation Question
 
@@ -118,6 +114,8 @@ There is one further point worth making before leaving this topic, and it is one
 
 ## Wine & Society
 
+
+
 ### Wine Symbol
 
 This connects to a broader theme. Throughout *Tanach*, wine is indeed associated with *ta'anugei olam hazeh*, with the pleasures and temptations of this world — *yayin yesamach levav enosh*. But one should be careful here. The danger of wine in the tradition is not simply that it tastes good. It is that it pulls a person — *nimshachim acharei hayayin* — it draws one in through the mechanism of inebriation and addiction, leading one to want to return again and again. The power of wine is its particular capacity to compromise judgment and to perpetuate its own consumption. It is about becoming an alcoholic, about the progressive clouding of one's faculties, not merely about the enjoyment of a good beverage. So the label of asceticism does not quite capture what is happening. The *nazir*'s wine prohibition is specifically about clearing the head, keeping one's thinking unencumbered.
@@ -134,10 +132,11 @@ One might note that the prohibitions extend even to raisins and grape products �
 
 ## Kinuyim Introduction
 
+
+
 ### Konam Substitutes
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר (לַחֲבֵירוֹ) קֻוֽנָּם קוּנָּח קוּנָּס הֲרֵי אֵלּוּ כִּינּוּיִין לַקׇּרְבָּן. חֶרֶק חֶרֶךְ חֶרֶף הֲרֵי אֵלּוּ כִּינּוּיִין לַחֵרֶם. נָזִיק נָזִיחַ פָּזִיחַ הֲרֵי אֵלּוּ כִּינּוּיִין לִנְזִירוּת. שְׁבוּתָה שְׁקוּקָה נוֹדֵר בְּמוֹהִי הֲרֵי אֵלּוּ כִּינּוּיִין לַשְּׁבוּעָה.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר (לַחֲבֵירוֹ) ״קֻוֽנָּם״ ״קוּנָּח״ ״קוּנָּס״ — הֲרֵי אֵלּוּ כִּינּוּיִין לַקׇּרְבָּן. ״חֶרֶק״ ״חֶרֶךְ״ ״חֶרֶף״ — הֲרֵי אֵלּוּ כִּינּוּיִין לַחֵרֶם. ״נָזִיק״ ״נָזִיחַ״ ״פָּזִיחַ״ — הֲרֵי אֵלּוּ כִּינּוּיִין לִנְזִירוּת. ״שְׁבוּתָה״ ״שְׁקוּקָה״, נוֹדֵר בְּ״מוֹהִי״ — הֲרֵי אֵלּוּ כִּינּוּיִין לַשְּׁבוּעָה.
 > **Translation:** MISHNA: In the case of **one who says to another** that a certain object is ***konam*, *konaḥ*,** or ***konas*, these** expressions **are substitutes** for the term **offering [*korban*],** and the vow takes effect. ***Ḥerek*, *ḥerekh*** and ***ḥeref*; these are substitutes** for the term indicating a **dedication [*ḥerem*]** to the Temple treasury. ***Nazik*, *naziaḥ*,** and ***paziaḥ*; these are substitutes** for the term **naziriteship [*nazir*]. *Shevuta*, *shekuka*,** or one who **vows with** the term ***mohi*, these are substitutes** for the term **oath [*shevua*].**
 
 We now turn to a new topic, or rather to the topic that the *gemara* has been building toward all along: the subject of *kinuyim*, the substitute terms used in making vows. The *mishnah* presents these systematically. Someone who says *konam*, *konach*, or *konas* — *harei elu kinuyim l'korban* — these are recognized substitutes for the word *korban*. The structure is evident: the *kaf* and *nun* of *korban* are preserved, and the ending varies. *Konam* preserves the *nun*; *konach* substitutes a *chet*; *konas* a *samach*. These are the standard *kinuyim* for *korban*, and they serve as the operative language of a *korban neder*.
@@ -156,10 +155,6 @@ For *shvuah*, the substitutes given are *shvuta* and *shkuka*. These carry the p
 
 ### Bemosi/Bemohi
 
-> **Hebrew/Aramaic:** נוֹדֵר בְּמוֹהִי הֲרֵי אֵלּוּ כִּינּוּיִין לַשְּׁבוּעָה. תַּנְיָא, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: הָאוֹמֵר בְּמוֹהִי לֹא אָמַר כְּלוּם, בְּמוֹמָתָא דַּאֲמַר מוֹהִי הֲרֵי אֵלּוּ כִּינּוּיִין לַשְּׁבוּעָה.
->
-> **Translation:** If one **vows with** the term ***mohi*, these are substitutes** for the term **oath [*shevua*].** **It is taught** in a *baraita* that **Rabban Shimon ben Gamliel says: One who says** that he is taking an oath **by *mohi* has not said anything.** However, if he says: **By an oath [*bemomata*] that *Mohi* said, these are** valid **substitute terms for an oath.**
-
 The last entry in the *mishnah* on this topic is the most interesting: *noder bemohi* — or in all the textual traditions of the *mishnah*, *noder bemosa*. The word *mosa* is simply the Aramaic for *shvuah*; one finds it in *Targum Onkelos*, rendered as *mumsah* or a related form. The word *noder* here is also striking, since we are dealing with what is technically a *shvuah*, not a *neder* — but this reflects a looser popular usage in which the two terms bled into each other, where one would say *noder* even when meaning to take a *shvuah*. A *neder belashon shvuah* and a *shvuah belashon neder* were realities of the vernacular.
 
 Our textual version reads *bemohi*, and the *Yerushalmi* offers a remarkable reading: *mohi* is a *kinuy* for *Moshe* — that is, for *Moshe Rabbeinu* — and the phrase means that one is taking a *shvuah* in the manner of, or invoking, the *shvuah* that *Moshe* took. When did *Moshe* take such an oath? The *Yerushalmi* cites the *pasuk* *vayoel Moshe laveshes es ha'ish*, which is normally translated as "Moshe consented to dwell with the man," but the *Yerushalmi* reads *vayoel* from the root *alah* — a curse or oath — understanding it to mean that *Moshe* swore. *Bemohi*, on this reading, means: in the *shvuah* that *Moshe* swore.
@@ -168,13 +163,14 @@ Our textual version reads *bemohi*, and the *Yerushalmi* offers a remarkable rea
 
 ## Kinuyim Debate
 
+
+
 ### Rabbi Yochanan
 
-> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר כִּינּוּיִין, רַבִּי יוֹחָנָן אָמַר: לְשׁוֹן אוּמּוֹת הֵן. רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אָמַר: לָשׁוֹן שֶׁבָּדוּ לָהֶם חֲכָמִים לִהְיוֹת נוֹדֵר בּוֹ.
->
-> **Translation:** GEMARA: **It was stated** that *amora'im* disagreed about **substitutes** for the language of vows. **Rabbi Yoḥanan said: They are** terms from **a language of** other **nations** that mean offering, dedication, naziriteship, or oath. **Rabbi Shimon ben Lakish said:** These terms employ **language that the Sages devised [*badu*] with which** one can **take a vow.**
-
 The *gemara* now records a dispute about the nature of these *kinuyim*. Rabbi Yochanan says: *lashon umos hein* — they are some form of foreign language. This presumably refers to a Semitic language with phonetic proximity to Hebrew, given how close the *kinuyim* sound to the original terms.
+
+> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר כִּינּוּיִין, רַבִּי יוֹחָנָן אָמַר: לְשׁוֹן אוּמּוֹת הֵן. רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אָמַר: לָשׁוֹן שֶׁבָּדוּ לָהֶם חֲכָמִים לִהְיוֹת נוֹדֵר בּוֹ. וְכֵן הוּא אוֹמֵר: ״בַּחֹדֶשׁ אֲשֶׁר בָּדָא מִלִּבּוֹ״.
+> **Translation:** GEMARA: **It was stated** that *amora’im* disagreed about **substitutes** for the language of vows. **Rabbi Yoḥanan said: They are** terms from **a language of** other **nations** that mean offering, dedication, naziriteship, or oath. **Rabbi Shimon ben Lakish said:** These terms employ **language that the Sages devised [*badu*] with which** one can **take a vow.** In order to explain the word *badu*, he adds: **And so it states** with regard to Jeroboam: **“In the month that he had devised [*bada*] in his own heart”** (I Kings 12:33).
 
 ### Reish Lakish
 
@@ -182,115 +178,104 @@ Reish Lakish says: *lashon shebadu lahem chachamim veyihei noder bahem* — a la
 
 ### Badu Milibo
 
-> **Hebrew/Aramaic:** וְכֵן הוּא אוֹמֵר: בַּחֹדֶשׁ אֲשֶׁר בָּדָא מִלִּבּוֹ.
->
-> **Translation:** In order to explain the word *badu*, he adds: **And so it states** with regard to Jeroboam: **"In the month that he had devised [*bada*] in his own heart"** (I Kings 12:33).
 
 The *gemara* supports Reish Lakish's formulation by citing a *pasuk*: *bachodesh asher bada milibo* — the month that he invented from his heart. This is a somewhat puzzling proof-text to deploy. Why cite a verse about someone who invented a calendar month — apparently a criticism — to support the legitimacy of rabbinic linguistic invention? The *gemara* seems to be noting that *badu* is the operative word: it is used to mean "invented" or "created from nothing." But perhaps there is an interesting irony being invoked as well. The very phenomenon of *nedarim* is a kind of *badu milibo* — a person has invented a religious reality, transformed a permitted object into something forbidden through the sheer force of their declaration. The rabbis, in turn, create a language to go along with this invented phenomenon. And perhaps the reference to *asher badu milibo* carries a subtle signal: like the invented calendar month, this too is a created thing, a constructed reality. The *gemara* may be gently flagging the somewhat problematic character of the entire enterprise even as it regulates it.
 
+[DAF:10b]
 ### Why Kinuyim
 
-> **Hebrew/Aramaic:** וְטַעְמָא מַאי תַּקִּינוּ רַבָּנַן כִּינּוּיִין? דְּלָא לֵימָא קׇרְבָּן. וְלֵימָא קׇרְבָּן? דִּילְמָא אָמַר קׇרְבָּן לַה׳. וְלֵימָא קׇרְבָּן לַה׳? דִּילְמָא אָמַר לַה׳ וְלָא אָמַר קׇרְבָּן, וְקָא מַפֵּיק שֵׁם שָׁמַיִם לְבַטָּלָה.
->
+Why did the rabbis establish *kinuyim* in the first place? This question is clearly most pressing according to Reish Lakish, but even according to Rabbi Yochanan, insofar as the rabbis endorse using these terms rather than the standard ones, the question of their rationale applies. The *gemara*'s answer: *delo leima korban* — so that people should not say the official word *korban*. But why not say *korban*? Because then the natural completion of that formulation would be *korban la'Hashem* — and once one says *korban*, it naturally triggers *la'Hashem* in the speaker's mind. And if one were to say *la'Hashem korban*, reversing the order, one would be invoking *shem shamayim* first, without having yet given it the proper context — which risks *levatala*.
+
+> **Hebrew/Aramaic:** וְטַעְמָא מַאי תַּקִּינוּ רַבָּנַן כִּינּוּיִין? דְּלָא לֵימָא ״קׇרְבָּן״. וְלֵימָא ״קׇרְבָּן״? דִּילְמָא אָמַר ״קׇרְבָּן לַה׳״. וְלֵימָא ״קׇרְבָּן לַה׳״? דִּילְמָא אָמַר ״לַה׳״ וְלָא אָמַר ״קׇרְבָּן״, וְקָא מַפֵּיק שֵׁם שָׁמַיִם לְבַטָּלָה.
 > **Translation:** **And** according to the opinion of Rabbi Shimon ben Lakish, **what is the reason** that **the Sages established substitutes** for the language of vows? The Gemara answers: It is **so that one not** explicitly **say** the term **offering.** The Gemara asks: **And let him say** the term **offering;** what is wrong with that? The Gemara answers: **Perhaps he will say: An offering to the Lord.** The Gemara asks: **And let him say: An offering to the Lord.** The Gemara answers: **Perhaps he will say: To the Lord, and** he will then change his mind and **not say: An offering, and he will** thereby **express the name of Heaven in vain.**
 
-Why did the rabbis establish *kinuyim* in the first place? This question is clearly most pressing according to Reish Lakish, but even according to Rabbi Yochanan, insofar as the rabbis endorse using these terms rather than the standard ones, the question of their rationale applies. The *gemara*'s answer: *delo leima korban* — so that people should not say the official word *korban*. But why not say *korban*? Because then the natural completion of that formulation would be *korban la'Hashem* — and once one says *korban*, it naturally triggers *la'Hashem* in the speaker's mind. And if one were to say *la'Hashem korban*, reversing the order, one would be invoking *shem shamayim* first, without having yet given it the proper context — which risks *levatala*.
+> **Hebrew/Aramaic:** וְתַנְיָא, רַבִּי שִׁמְעוֹן אוֹמֵר:
+> **Translation:** **And** similarly, **it is taught** in a *baraita* that **Rabbi Shimon says:**
+
+> **Hebrew/Aramaic:** מִנַּיִן שֶׁלֹּא יֹאמַר אָדָם ״לַה׳ עוֹלָה״, ״לַה׳ מִנְחָה״, ״לַה׳ תּוֹדָה״, ״לַה׳ שְׁלָמִים״ — תַּלְמוּד לוֹמַר: ״קׇרְבָּן לַה׳״.
+> **Translation:** **From where** is it derived **that a person should not say: To the Lord a burnt-offering,** or: **To the Lord a meal-offering,** or: **To the Lord a thanks-offering,** or: **To the Lord a peace-offering,** but should mention the offering first and then state that it is for the Lord? **The verse states: “An offering to the Lord”** (Leviticus 1:2). The reason for this is that if one first says: To the Lord, perhaps he will change his mind and not complete the sentence in order to avoid consecrating the offering, and he will have uttered the name of God in vain.
 
 ---
 
 ## Shem Shamayim
 
+
+
 ### Korban Order
 
-> **Hebrew/Aramaic:** וְתַנְיָא, רַבִּי שִׁמְעוֹן אוֹמֵר: מִנַּיִן שֶׁלֹּא יֹאמַר אָדָם לַה׳ עוֹלָה, לַה׳ מִנְחָה, לַה׳ תּוֹדָה, לַה׳ שְׁלָמִים — תַּלְמוּד לוֹמַר: קׇרְבָּן לַה׳.
->
-> **Translation:** **And** similarly, **it is taught** in a *baraita* that **Rabbi Shimon says:** It is derived **from where** is it that **a person should not say: To the Lord a burnt-offering,** or: **To the Lord a meal-offering,** or: **To the Lord a thanks-offering,** or: **To the Lord a peace-offering,** but should mention the offering first and then state that it is for the Lord? **The verse states: "An offering to the Lord"** (Leviticus 1:2).
 
 The relevant *braita* presents this concern precisely. Rabbi Shimon asks: from where do we know that one should not say *la'Hashem olah*, *la'Hashem mincha*, *la'Hashem toda*, *la'Hashem shelamim* — leading with *la'Hashem*? The Torah says *korban la'Hashem*: first *korban*, then *la'Hashem*. The divine name receives its proper context only after the subject matter has been established. To lead with *la'Hashem* is to invoke it without that grounding.
 
 ### Levatala
 
-> **Hebrew/Aramaic:** וְקַל וָחוֹמֶר: וּמָה זֶה שֶׁלֹּא נִתְכַּוֵּון אֶלָּא לְהַזְכִּיר שֵׁם שָׁמַיִם עַל הַקׇּרְבָּן — אָמְרָה תּוֹרָה קׇרְבָּן לַה׳, לְבַטָּלָה — עַל אַחַת כַּמָּה וְכַמָּה.
->
-> **Translation:** **And** it is **an *a fortiori*** inference: **Just as** with regard to **this** individual discussed in the *baraita*, **who intended to mention the name of Heaven only upon an offering, the Torah said** that he should say: **An offering to the Lord,** in order to avoid possibly mentioning the name of God in vain, with regard to one who actually mentions the Divine Name **in vain, all the more so** it is clear that he has committed a severe transgression.
 
 A *braita* is cited further: *ha-mazkir shem shamayim levatala* — one who mentions God's name *levatala* — *al achat kama v'chama*, how much more severely is this to be condemned. If even for a genuine *korban* the Torah insists on the ordering *korban la'Hashem* so as not to invoke the name without its proper framing, then someone who says *la'Hashem* in a loose or incomplete way — potentially without ever completing the phrase — has violated the name in vain.
 
 ### Kal Vachomer
 
+> **Hebrew/Aramaic:** וְקַל וָחוֹמֶר: וּמָה זֶה שֶׁלֹּא נִתְכַּוֵּון אֶלָּא לְהַזְכִּיר שֵׁם שָׁמַיִם עַל הַקׇּרְבָּן — אָמְרָה תּוֹרָה ״קׇרְבָּן לַה׳״, לְבַטָּלָה — עַל אַחַת כַּמָּה וְכַמָּה.
+> **Translation:** **And** it is **an *a fortiori*** inference: **Just as** with regard to **this** individual discussed in the *baraita*, **who intended to mention the name of Heaven only upon an offering, the Torah said** that he should say: **An offering to the Lord,** in order to avoid possibly mentioning the name of God in vain, with regard to one who actually mentions the Divine Name **in vain, all the more so** it is clear that he has committed a severe transgression.
+
 The *kal vachomer* follows: if even for a genuine *korban* — where the intent is entirely appropriate, where one is doing something entirely sanctioned — the Torah still insists on care about how the divine name is introduced, then certainly one who mentions it *levatala*, in a context where the invocation adds nothing or is incomplete, has done something far worse.
 
 ### Dedication Irony
 
-There is a further irony worth noting here. The paradigm of *neder* — *vayidor Yaakov neder*, vowing to give *ma'aser*, to bring a *korban* — is genuinely about dedicating something to God, which is why the formula *la'Hashem* is relevant in that context. But when a person makes a standard *neder* today — saying this loaf of bread is forbidden to me — the *la'Hashem* framing is actually not relevant at all. The person is not dedicating anything to God; he is simply imposing a personal prohibition on himself. To invoke *la'Hashem* in that context is therefore doubly inappropriate: it misrepresents the nature of what one is doing, and it risks invoking the divine name without genuine contextual grounding. The *gemara* just two dapim earlier had treated the concern of *mazkir shem shamayim l'vatala* at length, and that anxiety is very much alive here. There is a pervasive hesitancy around the entire phenomenon: the vow-maker may be a *rasha*, may be doing something religiously questionable, may be deploying the wrong language, and may now be pulling God's name into a context where it does not properly belong. The answer is *kinuyim* — a vocabulary that preserves the communicative function of the vow without triggering the cascade toward *shem shamayim*.
+There is a further irony worth noting here. The paradigm of *neder* — *vayidor Yaakov neder*, vowing to give *ma'aser*, to bring a *korban* — is genuinely about dedicating something to God, which is why the formula *la'Hashem* is relevant in that context. But when a person makes a standard *neder* today — saying this loaf of bread is forbidden to me — the *la'Hashem* framing is actually not relevant at all. The person is not dedicating anything to God; he is simply imposing a personal prohibition on himself. To invoke *la'Hashem* in that context is therefore doubly inappropriate: it misrepresents the nature of what one is doing, and it risks invoking the divine name without genuine contextual grounding.
+
+It is worth pausing here, though, because there are actually two distinct problems being layered on top of each other, and it is worth keeping them separate. The first is that *la'Hashem* may simply not work as a *neder* in the ordinary sense at all — if someone says *kikar ze la'Hashem*, this loaf is for God, it is possible that this would function only as a donation to the *Beit Hamikdash*, not as a personal prohibition. In that case the formula fails entirely as a mechanism for *nedarim*. But the second, more subtle point is that even granting that *la'Hashem* could in principle operate as a *yad* — a handle that triggers the logic of *korban* and thereby renders the object forbidden — it still would not be appropriate to be invoking *shem shamayim* in a context where one is not genuinely giving something to God. The vow is about self-imposed restriction, not divine dedication, and dragging God's name into that context is the very thing the concern about *mazkir shem shamayim* is meant to guard against.
+
+The *gemara* just two dapim earlier had treated the concern of *mazkir shem shamayim l'vatala* at length, and that anxiety is very much alive here. There is a pervasive hesitancy around the entire phenomenon: the vow-maker may be a *rasha*, may be doing something religiously questionable, may be deploying the wrong language, and may now be pulling God's name into a context where it does not properly belong. The answer is *kinuyim* — a vocabulary that preserves the communicative function of the vow without triggering the cascade toward *shem shamayim*.
 
 ---
 
 ## Kinuyei Kinuyim
 
+
+
 ### Shammai Hillel
 
-> **Hebrew/Aramaic:** לֵימָא כְּתַנָּאֵי, בֵּית שַׁמַּאי אוֹמְרִים: כִּינּוּיֵי כִינּוּיִין — אֲסוּרִין. וּבֵית הִלֵּל אוֹמְרִים: כִּינּוּיֵי כִינּוּיִין — מוּתָּרִין.
->
-> **Translation:** The Gemara suggests: **Let us say** that this dispute between Rabbi Yoḥanan and Rabbi Shimon ben Lakish is **parallel to** a dispute between ***tanna'im*,** as it was taught in a *baraita* that **Beit Shammai say:** If one expresses a vow with **substitutes for** the **substitute terms** mentioned in the mishna, the vow takes effect and the items are **forbidden. And Beit Hillel say:** If one expresses a vow with **substitutes for** the **substitute terms** mentioned in the mishna, the vow does not take effect and the items are **permitted.**
+> **Hebrew/Aramaic:** לֵימָא כְּתַנָּאֵי, בֵּית שַׁמַּאי אוֹמְרִים: כִּינּוּיֵי כִינּוּיִין — אֲסוּרִין. וּבֵית הִלֵּל אוֹמְרִים: כִּינּוּיֵי כִינּוּיִין — מוּתָּרִין.
+> **Translation:** The Gemara suggests: **Let us say** that this dispute between Rabbi Yoḥanan and Rabbi Shimon ben Lakish is **parallel to** a dispute between ***tanna’im*,** as it was taught in a *baraita* that **Beit Shammai say:** If one expresses a vow with **substitutes for** the **substitute terms** mentioned in the mishna, the vow takes effect and the items are **forbidden. And Beit Hillel say:** If one expresses a vow with **substitutes for** the **substitute terms** mentioned in the mishna, the vow does not take effect and the items are **permitted.**
 
-The *gemara* now asks whether the dispute between Rabbi Yochanan and Reish Lakish corresponds to a Tannaitic dispute. It finds a potential parallel: *Beis Shammai omrim kinuyei kinuyim asurim* — derivatives of *kinuyim* are binding — *u'Veis Hillel omrim kinuyei kinuyim mutarim* — derivatives of *kinuyim* are not binding. A *kinuy* of a *kinuy* means a further derivation from the already-substitute term: rather than *konam*, one might say something like *mekanamna* — a verbal, conjugated form derived from *konam* itself.
+The *gemara* now asks whether the dispute between Rabbi Yochanan and Reish Lakish corresponds to a Tannaitic dispute. It finds a potential parallel: *Beis Shammai omrim kinuyei kinuyim asurim* — derivatives of *kinuyim* are binding — *u'Veis Hillel omrim kinuyei kinuyim mutarim* — derivatives of *kinuyim* are not binding. A *kinuy* of a *kinuy* means a further derivation from the already-substitute term: rather than *konam*, one might say something like *mekanamna* — a verbal, conjugated form derived from *konam* itself. And to be clear, *asurim* here means that it becomes a binding *neder*, not that the act of saying it is prohibited — the question is whether this further derivative carries legal force as a vow.
 
 ### Shammai Position
 
-> **Hebrew/Aramaic:** מַאי לָאו: מַאן דְּאָמַר כִּינּוּיֵי כִינּוּיִין אֲסוּרִין, קָסָבַר כִּינּוּיִין לְשׁוֹן אוּמּוֹת הֵן. וּלְמַאן דְּאָמַר מוּתָּרִים, קָסָבַר לָשׁוֹן שֶׁבָּדוּ לָהֶן חֲכָמִים?
->
+> **Hebrew/Aramaic:** מַאי לָאו: מַאן דְּאָמַר כִּינּוּיֵי כִינּוּיִין אֲסוּרִין, קָסָבַר (כִּינּוּיֵי) כִינּוּיִין לְשׁוֹן אוּמּוֹת הֵן. וּלְמַאן דְּאָמַר מוּתָּרִים, קָסָבַר לָשׁוֹן שֶׁבָּדוּ לָהֶן חֲכָמִים?
 > **Translation:** **What, is it not** correct that **the one who says** that a vow expressed with **substitutes for** the **substitute terms** mentioned in the mishna takes effect and that the item is consequently **forbidden** likewise **holds that substitutes** for the language of vows are terms from the **language of** other **nations,** and therefore substitutes for those terms, which are also from foreign languages, should be equally acceptable? **And** similarly, **according to the one who says** that the vow does not take effect and the item is **permitted,** it must be that **he holds that** these terms are **language that the Sages devised.** Consequently, substitutes for those terms, which the Sages did not declare to be acceptable terms for expressing a vow, do not cause a vow to take effect.
 
 The *gemara*'s analysis: *man de-amar kinuyei kinuyim asurin kasavar kinuyim lashon umos hein* — the view that holds these derivatives binding presupposes that *kinuyim* are a real foreign language. And if they are a real language, then corruptions and dialectal variants of that language are still real speech, still legitimate expressions of the underlying concept.
 
 ### Hillel Position
 
-*U-le-man de-amar mutarim kasavar lashon shebadu lahem chachamim* — the lenient view presupposes that *kinuyim* are an invented language. And if they are invented by the rabbis, then only what the rabbis actually invented carries validity; further derivations and conjugations that the rabbis did not specifically create do not participate in the original rabbinic enactment.
-
-### Alternative Readings
-
-> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא כִּינּוּיִין לְשׁוֹן אוּמּוֹת הֵן, וּבֵית שַׁמַּאי סָבְרִי: בְּהָנֵי נָמֵי מִשְׁתַּעִי אוּמּוֹת, וּבֵית הִלֵּל סָבְרִי: בְּהָנֵי לָא מִשְׁתַּעִי אוּמּוֹת.
->
+> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא כִּינּוּיִין לְשׁוֹן אוּמּוֹת הֵן, וּבֵית שַׁמַּאי סָבְרִי: בְּהָנֵי נָמֵי מִשְׁתַּעִי אוּמּוֹת, וּבֵית הִלֵּל סָבְרִי: בְּהָנֵי לָא מִשְׁתַּעִי אוּמּוֹת.
 > **Translation:** The Gemara responds: **No,** it is possible **that everyone** holds that **substitutes** for the language of vows **are** terms from **the language of** other **nations, and Beit Shammai hold** that **the nations speak** using **these** substitutes for the terms mentioned in the mishna **also, and Beit Hillel hold** that **the nations do not speak** using **these** terms.
 
-The *gemara* then entertains a second reading: *lo de-chulei alma kinuyim lashon umos hein* — perhaps everyone agrees they are a foreign language. On this reading, *Beis Shammai* holds that these further corruptions are still considered legitimate speech in that language — a recognizable dialect variant — while *Beis Hillel* holds that they are not *me-ikar ha-lashon*, not part of the genuine linguistic core; they are corruptions that no one actually speaks, not even as a dialect.
-
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, בֵּית שַׁמַּאי סָבְרִי: גָּזְרִינַן כִּינּוּיֵי כִינּוּיִין מִשּׁוּם כִּינּוּיִין, וּבֵית הִלֵּל סָבְרִי: לָא גָּזְרִינַן כִּינּוּיֵי כִינּוּיִין מִשּׁוּם כִּינּוּיִין.
->
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, בֵּית שַׁמַּאי סָבְרִי: גָּזְרִינַן כִּינּוּיֵי כִינּוּיִין מִשּׁוּם כִּינּוּיִין, וּבֵית הִלֵּל סָבְרִי: לָא גָּזְרִינַן כִּינּוּיֵי כִינּוּיִין מִשּׁוּם כִּינּוּיִין.
 > **Translation:** **And if you wish, say** an alternate response: Substitute terms themselves are terms from a foreign language. **Beit Shammai hold** that **we** issue **a decree** with regard to **substitutes for** the **substitute terms** mentioned in the mishna, despite the fact that these terms themselves are not valid terms even in a foreign language, **due to** a concern that if they are not considered to express a vow, one will come to act leniently with regard to a vow expressed with the **substitute terms** mentioned in the mishna. **And Beit Hillel hold: We do not** issue **a decree** with regard to **substitutes for** the **substitute terms** mentioned in the mishna **due to** a concern that one will come to act leniently with regard to a vow expressed with the **substitute terms** themselves.
+
+*U-le-man de-amar mutarim kasavar lashon shebadu lahem chachamim* — the lenient view presupposes that *kinuyim* are an invented language. And if they are invented by the rabbis, then only what the rabbis actually invented carries validity; further derivations and conjugations that the rabbis did not specifically create do not participate in the original rabbinic enactment.
+
+The *gemara* then entertains a second reading: *lo de-chulei alma kinuyim lashon umos hein* — perhaps everyone agrees they are a foreign language. On this reading, *Beis Shammai* holds that these further corruptions are still considered legitimate speech in that language — a recognizable dialect variant — while *Beis Hillel* holds that they are not *me-ikar ha-lashon*, not part of the genuine linguistic core; they are corruptions that no one actually speaks, not even as a dialect.
 
 A third resolution is also offered: *Beis Shammai gazrinan kinuyei kinuyim mishum kinuyim* — even if these derivatives are not genuinely binding in their own right, Beis Shammai decrees that they are treated as binding as a safeguard for the *kinuyim* themselves. *Beis Hillel* declines to extend the rabbinic decree to this second level.
 
 ### Konam Examples
 
-> **Hebrew/Aramaic:** הֵיכִי דָּמֵי כִּינּוּיֵי כִינּוּיִין דִּנְדָרִים? תָּנֵי רַב יוֹסֵף: מַקְנֵמְנָא מַקְנַחְנָא מַקְנֵסְנָא.
->
-> **Translation:** The Gemara asks: **What are the circumstances of substitutes for substitute terms for vows? Rav Yosef teaches** that they include the following terms: ***Mekanamna*, *mekanaḥna*,** and ***mekanasna*.** These are verb forms of the terms *konam*, *konaḥ*, and *konas* respectively, mentioned in the mishna.
+> **Hebrew/Aramaic:** הֵיכִי דָּמֵי כִּינּוּיֵי כִינּוּיִין דִּנְדָרִים? תָּנֵי רַב יוֹסֵף: ״מַקְנֵמְנָא״ ״מַקְנַחְנָא״ ״מַקְנֵסְנָא״. הֵיכִי דָּמֵי כִּינּוּיֵי כִינּוּיִין דְּחֵרֶם? תָּנֵי מַפְשָׁאָה: ״חֲרָקִים״ ״חֲרָכִים״ ״חֲרָפִים״. כִּינּוּיֵי כִינּוּיִין דִּנְזִירוּת? תָּנֵי רַב יוֹסֵף: ״מַחְזֵקְנָא״ ״מַנְזַחְנָא״ ״מַפִּיחְנָא״.
+> **Translation:** The Gemara asks: **What are the circumstances of substitutes for substitute terms for vows? Rav Yosef teaches** that they include the following terms: ***Mekanamna*, *mekanaḥna*,** and ***mekanasna*.** These are verb forms of the terms *konam*, *konaḥ*, and *konas* respectively, mentioned in the mishna. The Gemara asks: **What are the circumstances of substitutes for substitute terms for dedication [*ḥerem*]?** The Sage **Mafsha’a teaches: *Ḥarakim*, *ḥarakhim*,** and ***ḥarafim*.** The Gemara continues: What are the **substitutes for substitute terms for naziriteship [*nezirut*]? Rav Yosef teaches: *Meḥazakna*, *menazaḥna*,** and ***mafiḥna*.**
 
 The *gemara* asks for concrete examples. Rav Yosef teaches: instead of *konam*, one says *mekanamna*; instead of *konach*, *mekanachna*; instead of *konas*, *mekanasna*. These are verbal, conjugated forms of the *kinuyim*, constructed as first-person verbal expressions — "I am making this a *konam*."
 
 ### Cherem Examples
 
-> **Hebrew/Aramaic:** הֵיכִי דָּמֵי כִּינּוּיֵי כִינּוּיִין דְּחֵרֶם? תָּנֵי מַפְשָׁאָה: חֲרָקִים חֲרָכִים חֲרָפִים.
->
-> **Translation:** The Sage **Mafsha'a teaches: *Ḥarakim*, *ḥarakhim*,** and ***ḥarafim*.** These are the forms corresponding to various pluralizations of *cherem* derivatives.
-
 For *cherem*: the *braita* gives *charkim* and *charchim* as the *kinuyei kinuyim*, which are effectively pluralizations of *cherekh* and *cherech*.
 
 ### Nezirut Examples
 
-> **Hebrew/Aramaic:** כִּינּוּיֵי כִינּוּיִין דִּנְזִירוּת? תָּנֵי רַב יוֹסֵף: מַחְזֵקְנָא מַנְזַחְנָא מַפִּיחְנָא.
->
-> **Translation:** The Gemara continues: What are the **substitutes for substitute terms for naziriteship [*nezirut*]? Rav Yosef teaches: *Meḥazakna*, *menazaḥna*,** and ***mafiḥna*.**
-
 Rav Yosef also teaches the *nezirut* examples: from *naziach*, the derivative is *menazachna*; from *paziach*, it is *maphichna*; and there is *mechazakna* as well.
 
 ### Problematic Forms
-
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: מִיפְּחַזְנָא מַאי? מִיתְּחַזְנָא מַאי? מִיתְּעַזְנָא מַאי?
->
-> **Translation:** **A dilemma was raised before** the Sages: If one uses the term ***mifḥazna*, what** is the *halakha*? If one uses the term ***mitḥazna*, what** is the *halakha*? If one uses the term ***mitazna*, what** is the *halakha*?
 
 The *gemara* then notes that certain further forms were brought as questions: *maphazna*, *methazna*, *metazna* — even more remote derivations. These apparently go beyond even *kinuyei kinuyim* in their distance from the original term, and Beis Shammai would presumably be uncertain how to categorize them.
 
@@ -298,19 +283,20 @@ The *gemara* then notes that certain further forms were brought as questions: *m
 
 ## Ambiguous Cases
 
+
+
 ### Kinama Debate
 
-> **Hebrew/Aramaic:** אָמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: קִינְּמָא מַאי? קֻוֽנָּם קָאָמַר, אוֹ דִלְמָא קִנְּמָן בֶּשֶׂם קָאָמַר?
->
-> **Translation:** **Ravina said to Rav Ashi:** If one uses the term ***kinma*, what** is the *halakha*? Is he **saying** that the item should be like a ***konam*,** in which case the vow takes effect, **or perhaps** he is **saying sweet cinnamon [*kineman besem*]** (see Exodus 30:23) and does not intend to express a vow with the word *konam*?
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: ״מִיפְּחַזְנָא״ מַאי? ״מִיתְּחַזְנָא״ מַאי? ״מִיתְּעַזְנָא״ מַאי? אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: ״קִינְּמָא״ (קינמא) מַאי? ״קֻוֽנָּם״ קָאָמַר, אוֹ דִלְמָא ״קִנְּמָן בֶּשֶׂם״ קָאָמַר?
+> **Translation:** **A dilemma was raised before** the Sages: If one uses the term ***mifḥazna*, what** is the *halakha*? If one uses the term ***mitḥazna*, what** is the *halakha*? If one uses the term ***mitazna*, what** is the *halakha*? **Ravina said to Rav Ashi:** If one uses the term ***kinma*, what** is the *halakha*? Is he **saying** that the item should be like a ***konam*,** in which case the vow takes effect, **or perhaps** he is **saying sweet cinnamon [*kineman besem*]** (see Exodus 30:23) and does not intend to express a vow with the word *konam*?
 
 Ravina said to Rav Ashi: *kinama mai?* — what is the status of someone who says *kinama*? The word sounds like *konam*, but *kinmon bosem* — cinnamon, the spice — is also called *kinamon* or *kinama*. Is the person invoking the vow language, or merely naming a spice? The ambiguity is genuine.
 
 ### Kina Debate
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב חִיָּיא לְרַב אָשֵׁי: קִינָּה מַאי? קִינָּה שֶׁל תַּרְנְגוֹלִין קָאָמַר, אוֹ דִילְמָא לָשׁוֹן דְּקֻוֽנָּם? תִּיבְּעֵי.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב חִיָּיא לְרַב אָשֵׁי: ״קִינָּה״ מַאי? קִינָּה שֶׁל תַּרְנְגוֹלִין קָאָמַר, אוֹ דִילְמָא לָשׁוֹן דְּקֻוֽנָּם? תִּיבְּעֵי.
 > **Translation:** **Rav Aḥa, son of Rav Ḥiyya, said to Rav Ashi:** If one uses the term ***kina*,** what is the *halakha*? Is he **saying** this term in reference to a **chicken coop,** which is also called a *kina*, **or perhaps it is a term for *konam*** and expresses a vow? With regard to these cases, the Gemara says: **The dilemma remains** unresolved.
+
 
 Rav Acha berei d'Rav Chiyya raised a parallel question to Rav Ashi: *kina mai?* — is *kina* a reference to *konam*, or is it *kina shel tarnegolim*, a chicken coop? The word appears in *Eicha* in other senses. The speaker's intent is unclear.
 
@@ -322,27 +308,23 @@ Both questions are left as *teiku* — unresolved. The practical difficulty this
 
 ## Oath Kinuyim
 
+
+
 ### Oath Terms
 
-> **Hebrew/Aramaic:** כִּינּוּיֵי כִינּוּיִין דִּשְׁבוּעָה הֵיכִי דָּמֵי? שְׁבוּאֵל שְׁבוּתִיאֵל שְׁקוּקָאֵל.
->
-> **Translation:** The Gemara asks: **What are the circumstances of substitutes for substitute terms of oaths [*shevua*]?** The Gemara answers that this category includes the terms ***shevuel*, *shevutiel*,** and ***shekukael*.**
+> **Hebrew/Aramaic:** כִּינּוּיֵי כִינּוּיִין דִּשְׁבוּעָה הֵיכִי דָּמֵי? ״שְׁבוּאֵל״ ״שְׁבוּתִיאֵל״ ״שְׁקוּקָאֵל״. שְׁבוּאֵל? שְׁבוּאֵל בֶּן גֵּרְשׁוֹם מַשְׁמַע! אֶלָּא: ״שְׁבוּבָאֵל״ ״שְׁבוּתִיאֵל״ ״שְׁקוּקָאֵל״ מַהוּ? אָמַר שְׁמוּאֵל: אָמַר ״אַשִּׁיבְתָּא״ — לֹא אָמַר כְּלוּם, ״אַשְׁקִיקָא״ — לֹא אָמַר כְּלוּם, ״קָרִינְשָׂא״ — לֹא אָמַר כְּלוּם.
+> **Translation:** The Gemara asks: **What are the circumstances of substitutes for substitute terms of oaths [*shevua*]?** The Gemara answers that this category includes the terms ***shevuel*, *shevutiel*,** and ***shekukael*.** The Gemara asks: Why is the term ***shevuel*** included? This word **indicates Shevuel, son of Gershom,** the proper name of an individual (see I Chronicles 26:24), and therefore it should not be considered a substitute term for an oath. **Rather,** the list of terms includes ***shevuvael*, *shevutiel*,** and ***shekukael*. What is** the *halakha*? **Shmuel said:** If **he said *ashivta* he has not said anything,** despite the fact that there is some similarity between this term and the word oath [*shevua*]. Similarly, if he said ***ashkika* he has not said anything.** If he said ***karinsha* he has not said anything,** although it is somewhat similar to *konam*.
 
 The *gemara* turns to *kinuyei shvuah* — substitute terms for oaths. The forms given are *shvuel*, *shvutiel*, and *shkukiel*. These expand upon *shvuta* and *shkuka* from the *mishnah* by appending the divine name *El* — which is itself an interesting feature, suggesting that for *shvuah*, the invocation of a divine name is part of the linguistic structure even of the *kinuy*-level terms.
 
-### Name Confusion
+> **Hebrew/Aramaic:** ״נָדַר בְּמוֹהִי הֲרֵי אֵלּוּ כִינּוּיִין״. תַּנְיָא, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: הָאוֹמֵר ״בְּמוֹהִי״ — לֹא אָמַר כְּלוּם, ״בְּמוֹמָתָא דַּאֲמַר מוֹהִי״ — הֲרֵי אֵלּוּ כִּינּוּיִין לַשְּׁבוּעָה.
+> **Translation:** § It is taught in the mishna: If one used the terms *shevuta* or *shekuka*, or **took a vow with** the term ***mohi*, these are substitute terms** for an oath. **It is taught** in a *baraita* that **Rabban Shimon ben Gamliel says: One who says** that he is taking an oath **by *mohi* has not said anything.** However, if he says: **By an oath [*bemomata*] that *Mohi* said, these are** valid **substitute terms for an oath.**
 
-> **Hebrew/Aramaic:** שְׁבוּאֵל? שְׁבוּאֵל בֶּן גֵּרְשׁוֹם מַשְׁמַע! אֶלָּא: שְׁבוּבָאֵל שְׁבוּתִיאֵל שְׁקוּקָאֵל מַהוּ?
->
-> **Translation:** Why is the term ***shevuel*** included? This word **indicates Shevuel, son of Gershom,** the proper name of an individual (see I Chronicles 26:24), and therefore it should not be considered a substitute term for an oath. **Rather,** the list of terms includes ***shevuvael*, *shevutiel*,** and ***shekukael*. What is** the *halakha*?
+### Name Confusion
 
 The *gemara* immediately questions *shvuel*: does it not simply sound like a proper name? *Shvuel ben Gershom* was indeed a person. The *gemara* therefore substitutes *shvuta-el* as the more clearly recognizable *kinuy* form for *shvuah*.
 
 ### Verbal Forms
-
-> **Hebrew/Aramaic:** אָמַר שְׁמוּאֵל: אָמַר אַשִּׁיבְתָּא — לֹא אָמַר כְּלוּם, אַשְׁקִיקָא — לֹא אָמַר כְּלוּם, קָרִינְשָׂא — לֹא אָמַר כְּלוּם.
->
-> **Translation:** **Shmuel said:** If **he said *ashivta* he has not said anything,** despite the fact that there is some similarity between this term and the word oath [*shevua*]. Similarly, if he said ***ashkika* he has not said anything.** If he said ***karinsha* he has not said anything,** although it is somewhat similar to *konam*.
 
 Shmuel then rules: *amar ashishta lo amar klum* — if someone tries to make a verbal form out of these — *ashishta*, *ashkika*, *karinsa* — these are nothing, they are not effective declarations. The rabbinic construction of *kinuyim* does not extend to verbal conjugations of *kinuyei shvuah*.
 
@@ -354,9 +336,12 @@ The *Yerushalmi* adds what are probably the most intuitively natural examples of
 
 ## Lieberman Context
 
+
+
 ### Gentile Practice
 
-Saul Lieberman, in his essay "Oaths and Vows" in *Greek and Jewish Palestine*, provides extensive historical context for these phenomena. He demonstrates that among the non-Jewish population of the Greco-Roman world, oath-taking had become a ubiquitous and thoroughly debased practice. People would pile oaths one upon another, swear by absurd objects — by the dog, by the lettuce, by the fishnet, by the life of the fig picker — sometimes because they wished to avoid invoking the names of their gods, and so used these as a form of *kinuy*, and sometimes simply out of a kind of verbal prolificacy in which the oath had lost all weight through sheer repetition.
+
+Saul Lieberman, in his essay "Oaths and Vows" in *Greek and Jewish Palestine*, provides extensive historical context for these phenomena. He demonstrates that among the non-Jewish population of the Greco-Roman world, oath-taking had become a ubiquitous and thoroughly debased practice. People would pile oaths one upon another, swear by absurd objects — by the dog, by the lettuce, by the fishnet, by the life of the fig picker — sometimes because they wished to avoid invoking the names of their gods, and so used these as a form of *kinuy*, and sometimes simply out of a kind of verbal prolificacy in which the oath had lost all weight through sheer repetition. The parallel to contemporary speech is worth pausing on: when a term is used so constantly and automatically that it carries no deliberate force, it ceases to function as the thing it nominally is — a point that cuts to the heart of why the rabbis felt compelled to intervene. The Gentile populace in Greece and Alexandria resorted to oaths in ordinary conversation, in the streets, in the markets, even for the purpose of cheating and out of mere verbosity. Lieberman's broader point is that the *masechet*'s treatment of oaths and vows — the types of terms employed, the social contexts invoked — becomes considerably more intelligible when read against this background. The rabbinic project of regulating *kinuyim* and defining which substitute expressions carry legal force was not an artificial invention produced in a vacuum; it was a response to a genuinely chaotic landscape of oath-taking behavior that the rabbis felt they had to somehow control and bring within the boundaries of seriousness and meaning.
 
 ### Philo Critique
 
@@ -374,10 +359,11 @@ Lieberman's central thesis is that the *kinuyim* in the *mishnah* are not purely
 
 ## Sacred Objects
 
+
+
 ### Lachulin
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר לַחוּלִּין שֶׁאוֹכַל לָךְ, לָא כָּשַׁר וְלָא דְּכֵי, טָהוֹר וּטָמֵא, נוֹתָר וּפִיגּוּל — אָסוּר.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ הָאוֹמֵר ״לַחוּלִּין שֶׁאוֹכַל לָךְ״, ״לָא כָּשַׁר״ וְ״לָא דְּכֵי״, ״טָהוֹר״ וְ״טָמֵא״, ״נוֹתָר״ וּ״פִיגּוּל״ — אָסוּר.
 > **Translation:** MISHNA: **If one says** to another: **That which I eat of yours** shall be considered ***laḥullin*,** it is interpreted as though he said: *La ḥullin*, not non-sacred, and the food is thereby forbidden to him. Similarly, if he said that food shall be considered **not valid** or **not *dekhi*,** i.e., not **ritually pure, or** if he said the food shall be considered an offering that has become **ritually impure, left over [*notar*], or *piggul*,** i.e., an offering that was sacrificed with the intent to consume it after its appointed time, **it is forbidden.**
 
 The *mishnah* now turns to another category of vow language. *Ha-omer l'chulin she'ochel lach* — in Palestinian Aramaic, the prefix *la-* functions as a negation: *l'chulin* therefore means "not *chulin*" — not profane, not ordinary. And if something is declared not-*chulin*, the implication is that it is *kodesh*, sacred, like a *korban*. So the declaration *l'chulin she'ochel lach* — "what I eat of yours shall be un-profane" — functions as a *neder*, treating the object as though it were *hekdesh*.
@@ -396,9 +382,8 @@ The *Ran* articulates the governing principle here explicitly. The case of *lo k
 
 ### Sacred Objects
 
-> **Hebrew/Aramaic:** כְּאִימְּרָא, כְּדִירִים, כָּעֵצִים, כָּאִשִּׁים, כַּמִּזְבֵּחַ, כַּהֵיכָל, כִּירוּשָׁלַיִם. נָדַר בְּאֶחָד מִכׇּל מְשַׁמְּשֵׁי הַמִּזְבֵּחַ, אַף עַל פִּי שֶׁלֹּא הִזְכִּיר קׇרְבָּן — הֲרֵי זֶה נָדַר בְּקׇרְבָּן.
->
-> **Translation:** If one says that food shall be considered **like the lamb** of the daily offering, **like the** animals designated as offerings and kept in special **enclosures, like the wood** of the altar, **like the fires** on the altar, **like the altar, like the Sanctuary,** or **like Jerusalem,** or if **he took a vow with any of the accessories of the altar, although he did not** explicitly **mention** that the food should be like **an offering, it is** considered **a vow** that associates a different item with **an offering.**
+> **Hebrew/Aramaic:** כְּאִימְּרָא, כְּדִירִים, כָּעֵצִים, כָּאִשִּׁים, כַּמִּזְבֵּחַ, כַּהֵיכָל, כִּירוּשָׁלַיִם. נָדַר בְּאֶחָד מִכׇּל מְשַׁמְּשֵׁי הַמִּזְבֵּחַ, אַף עַל פִּי שֶׁלֹּא הִזְכִּיר קׇרְבָּן — הֲרֵי זֶה נָדַר בְּקׇרְבָּן. רַבִּי יְהוּדָה אוֹמֵר: הָאוֹמֵר ״יְרוּשָׁלַיִם״ — לֹא אָמַר כְּלוּם.
+> **Translation:** If one says that food shall be considered **like the lamb** of the daily offering, **like the** animals designated as offerings and kept in special **enclosures, like the wood** of the altar, **like the fires** on the altar, **like the altar, like the Sanctuary,** or **like Jerusalem,** or if **he took a vow with any of the accessories of the altar, although he did not** explicitly **mention** that the food should be like **an offering, it is** considered **a vow** that associates a different item with **an offering. Rabbi Yehuda says: One who says** that an item shall be considered **Jerusalem,** instead of saying that it shall be considered like Jerusalem, **has not said anything.**
 
 The *mishnah* then lists objects that, when invoked using the comparative *kaf* — like a sheep, like the pens for sheep, like wood, like fire-offerings, like the altar, like the *heichal*, like Jerusalem — constitute effective vow language. All of these belong to the world of *korbanos* and Temple service. One might have intended *imra* as someone's lamb, or the *etzim* as ordinary firewood; but these terms carry sufficient association with the Temple service that they are interpreted as *korban* references and treated accordingly.
 
@@ -410,11 +395,9 @@ The *Ran* raises the question: why does this latter group require the *kaf* — 
 
 ## Altar Appurtenances
 
-### Mizbeach Items
 
-> **Hebrew/Aramaic:** נָדַר בְּאֶחָד מִכׇּל מְשַׁמְּשֵׁי הַמִּזְבֵּחַ, אַף עַל פִּי שֶׁלֹּא הִזְכִּיר קׇרְבָּן — הֲרֵי זֶה נָדַר בְּקׇרְבָּן. רַבִּי יְהוּדָה אוֹמֵר: הָאוֹמֵר יְרוּשָׁלַיִם — לֹא אָמַר כְּלוּם.
->
-> **Translation:** If **he took a vow with any of the accessories of the altar, although he did not** explicitly **mention** that the food should be like **an offering, it is** considered **a vow** that associates a different item with **an offering. Rabbi Yehuda says: One who says** that an item shall be considered **Jerusalem,** instead of saying that it shall be considered like Jerusalem, **has not said anything.**
+
+### Mizbeach Items
 
 The final *mishnah* of the daf states: if one takes a *neder* invoking any of the items that serve the altar — *meshamshei ha-mizbeach* — even if the word *korban* is not explicitly mentioned, *harei zeh nadar b'korban*, it is treated as a vow by a *korban*. The logic is that these items — the utensils, the vessels, all that directly serves the *mizbeach* — are so entirely bound up with the *korban* service that invoking them is effectively invoking the *korban* itself. They constitute a form of *kinuy* for *korban*, not because they are words that sound like *korban*, but because they are objects whose entire existence and identity is defined by their role in *korban*-service.
 

@@ -1,0 +1,457 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Kal Vachomer: Yevamah",
+    "candidates": [
+      "Opening",
+      "Mishnah vs. Gemara Order",
+      "Uv'alah Drasha",
+      "Kiddushin vs. Nissuin",
+      "Kal Vachomer: Yevamah",
+      "Three Marriage Cases",
+      "Amah Ivriyah Exception",
+      "Rav Ashi Resolution",
+      "Tosafot Ye'ud",
+      "Shtar Derivation",
+      "Kal Vachomer: Kesef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents the kal vachomer from amah ivriyah (who can be acquired through kesef but not biah) to argue that a normal woman who can be acquired through biah should also be acquirable through kesef \u2014 this is the counter-argument/refutation involving the amah ivriyah, which is precisely what section 6 'Amah Ivriyah Exception' discusses.",
+      "chosen_heading": "Amah Ivriyah Exception",
+      "current_heading": "Kal Vachomer: Yevamah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Kal Vachomer: Kesef",
+    "candidates": [
+      "Three Marriage Cases",
+      "Amah Ivriyah Exception",
+      "Rav Ashi Resolution",
+      "Tosafot Ye'ud",
+      "Shtar Derivation",
+      "Kal Vachomer: Kesef",
+      "Kesef Uniqueness",
+      "Hekesh Havaya",
+      "Sanigor Katigor",
+      "Distinct Shtar Documents",
+      "Fungibility Distinction",
+      "Rabbi Yose HaGalili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the kal vachomer for kiddushei shtar being refuted by yevamah (acquired through biah but not kesef), then the counter-refutation that yevamah cannot be acquired through shtar \u2014 this matches the 'Shtar Derivation' section's prose about the structural template of proposing a kal vachomer for shtar and then rejecting it, not the 'Kal Vachomer: Kesef' section where it currently sits.",
+      "chosen_heading": "Shtar Derivation",
+      "current_heading": "Kal Vachomer: Kesef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Rabbi Yose HaGalili",
+    "candidates": [
+      "Kesef Uniqueness",
+      "Hekesh Havaya",
+      "Sanigor Katigor",
+      "Distinct Shtar Documents",
+      "Fungibility Distinction",
+      "Rabbi Yose HaGalili",
+      "Deriving Shtar",
+      "Hana'ah Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The prose of heading 5 ('Rabbi Yose HaGalili') explicitly discusses all the content in items 1-19, including the kesef/biah/shtar derivations, the hekesh havayah l'yetziah, the sanigor/katigor concern, Rava's alternative derivation, and the Rabbi Yosei HaGalili dispute about sefer keritut \u2014 making it the most comprehensive match for the entire passage.",
+      "chosen_heading": "Rabbi Yose HaGalili",
+      "current_heading": "Rabbi Yose HaGalili",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Hana'ah Distinction",
+    "candidates": [
+      "Deriving Shtar",
+      "Hana'ah Distinction",
+      "Deriving Kesef",
+      "Biah Not Normal Kinyan",
+      "Biah Chazakah Analogy",
+      "Deriving Biah",
+      "Be'al Korchah"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Be'al Korchah",
+    "candidates": [
+      "Deriving Kesef",
+      "Biah Not Normal Kinyan",
+      "Biah Chazakah Analogy",
+      "Deriving Biah",
+      "Be'al Korchah",
+      "Chuppah Kal Vachomer",
+      "Kesef Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the b'al korchah argument \u2014 item 1 raises the objection that kesef cannot be derived because biah and shtar apply b'al korchah while kesef does not, and item 2 addresses the amah ivriyah counter-argument \u2014 exactly matching the prose of heading 4 ('Be'al Korchah').",
+      "chosen_heading": "Be'al Korchah",
+      "current_heading": "Be'al Korchah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Kesef Terumah",
+    "candidates": [
+      "Chuppah Kal Vachomer",
+      "Kesef Terumah",
+      "Woman Eating Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's kal vachomer argument for chuppah effecting kiddushin, which is precisely what heading 0 ('Chuppah Kal Vachomer') introduces and discusses, whereas heading 1 ('Kesef Terumah') is the prose summary of that same argument and heading 2 moves on to the gemara's challenge of the premise.",
+      "chosen_heading": "Chuppah Kal Vachomer",
+      "current_heading": "Kesef Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Woman Eating Terumah",
+    "candidates": [
+      "Kesef Terumah",
+      "Woman Eating Terumah",
+      "Rabbinic Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Ulla's statement that an arusah bat Yisrael may eat terumah mid'oraita as kinyan kaspo, which is exactly what the 'Woman Eating Terumah' section's prose describes as the gemara's challenge to the premise that kesef does not allow eating terumah.",
+      "chosen_heading": "Woman Eating Terumah",
+      "current_heading": "Woman Eating Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rabbinic Gezeirah",
+    "candidates": [
+      "Rabbinic Gezeirah",
+      "Biah Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the rabbinic gezeirah reasoning for why an arusah cannot eat teruma, which is precisely what the 'Rabbinic Gezeirah' section's prose discusses.",
+      "chosen_heading": "Rabbinic Gezeirah",
+      "current_heading": "Rabbinic Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Biah Counter",
+    "candidates": [
+      "Biah Counter",
+      "Kesef Yochiach",
+      "Tzad HaShaveh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the reformulated kal vachomer (money which doesn't complete vs. chuppah which completes), the kesef rejection based on pidyon hekdesh/maaser sheni, and the biah counter \u2014 exactly what the 'Biah Counter' prose describes as the corrected kal vachomer and the biah tochiach response, matching the current placement perfectly.",
+      "chosen_heading": "Biah Counter",
+      "current_heading": "Biah Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Tzad HaShaveh",
+    "candidates": [
+      "Kesef Yochiach",
+      "Tzad HaShaveh",
+      "Hana'ah Objection",
+      "Unique Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the 'kesef yochiach' refutation and the tzad hashaveh conclusion about chuppah effecting acquisition, which matches exactly the prose of heading 0 ('Kesef Yochiach') that describes kesef and biah as instruments of kinyan and the af ani avi chuppah conclusion.",
+      "chosen_heading": "Kesef Yochiach",
+      "current_heading": "Tzad HaShaveh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Unique Factors",
+    "candidates": [
+      "Hana'ah Objection",
+      "Unique Factors",
+      "Rava Objection One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of the hana'ah (benefit) objection and its resolution via v'hazar hadin, which is precisely what candidate 0's prose describes \u2014 the kesef u'biah yochiach counter, the cycling argument, and the lo rai zeh k'rai zeh conclusion \u2014 while candidate 1's prose discusses the b'al korchah objection and Rav Huna's response, which only appears in item 3 and is the tail end of the sequence, not its primary content.",
+      "chosen_heading": "Hana'ah Objection",
+      "current_heading": "Unique Factors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rava Objection One",
+    "candidates": [
+      "Unique Factors",
+      "Rava Objection One",
+      "Rava Objection Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's first refutation \u2014 that the mishna says three modes, not four \u2014 which matches exactly the prose of 'Rava Objection One' describing 'chada d'shalosh tnan v'lo arba.'",
+      "chosen_heading": "Rava Objection One",
+      "current_heading": "Rava Objection One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rava Objection Two",
+    "candidates": [
+      "Rava Objection Two",
+      "Abaye Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's second objection arguing that chuppah only completes marriage by means of prior kiddushin and cannot be used to derive kiddushin through chuppah alone, which is exactly what 'Rava Objection Two' discusses.",
+      "chosen_heading": "Rava Objection Two",
+      "current_heading": "Rava Objection Two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Abaye Defense",
+    "candidates": [
+      "Abaye Defense",
+      "Rav Huna Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's response about the tanna only teaching explicitly written matters, which is exactly what the 'Abaye Defense' prose describes as 'tana milta d'chtiva b'hedya katanei.'",
+      "chosen_heading": "Abaye Defense",
+      "current_heading": "Abaye Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rav Huna Response",
+    "candidates": [
+      "Rav Huna Response",
+      "Tosafot HaRosh",
+      "Man's Action Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's kal vachomer argument incorporating the chuppah-completes-after-kesef point, which is exactly what the 'Rav Huna Response' prose describes.",
+      "chosen_heading": "Rav Huna Response",
+      "current_heading": "Rav Huna Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Man's Action Required",
+    "candidates": [
+      "Tosafot HaRosh",
+      "Man's Action Required",
+      "Woman's Declaration",
+      "Rav Pappa Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita covers both the man-gives/man-says case (she is betrothed) and the woman-gives/woman-says case (she is not betrothed) in a single unit, and candidate 1's prose explicitly describes both halves of this baraita together as a single passage about kiddushei kesef mechanics, matching the full content of the quoted text.",
+      "chosen_heading": "Man's Action Required",
+      "current_heading": "Man's Action Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Rav Pappa Question",
+    "candidates": [
+      "Woman's Declaration",
+      "Rav Pappa Question",
+      "Reisha Davka",
+      "Woman's Amira Effect",
+      "Safek Kiddushin",
+      "Required Formulations",
+      "Man Status Doesn't Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: Rav Pappa's objection (item 1), the initial resolution and counter-question (item 2), and the final resolution of that same contradiction (item 3) \u2014 all belong under 'Rav Pappa Question' where the prose explicitly describes this exact dialectic about the contradicting inferences from the baraita's two halves.",
+      "chosen_heading": "Rav Pappa Question",
+      "current_heading": "Rav Pappa Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Man Status Doesn't Change",
+    "candidates": [
+      "Reisha Davka",
+      "Woman's Amira Effect",
+      "Safek Kiddushin",
+      "Required Formulations",
+      "Man Status Doesn't Change",
+      "Status Change Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both the valid formulations (harei at mekudeshet, etc.) and the invalid ones (hareini isheich, etc.), and candidate 3's prose ('Required Formulations') explicitly introduces Shmuel's teaching covering both parts of this exact passage, making it the correct home for the entire quote.",
+      "chosen_heading": "Required Formulations",
+      "current_heading": "Man Status Doesn't Change",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Status Change Principle",
+    "candidates": [
+      "Man Status Doesn't Change",
+      "Status Change Principle",
+      "Yadayim Question",
+      "Nazir Yadayim Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses divorce formulas that change the woman's status (meshulachat, megureshet, muteret l'chol adam) versus formulas that describe the man's status change (eini ishech, eini ba'alech), which is exactly what the 'Status Change Principle' prose describes.",
+      "chosen_heading": "Status Change Principle",
+      "current_heading": "Status Change Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165
+    ],
+    "current_heading": "Nazir Yadayim Example",
+    "candidates": [
+      "Yadayim Question",
+      "Nazir Yadayim Example",
+      "Status Change Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Pappa's question to Abaye about whether Shmuel holds yadayim she'einan mochiyot are valid \u2014 item 1 raises the question and item 2 provides the counterproof from Nazir \u2014 which is precisely the content described in candidate 0's prose about Rav Pappa asking whether Shmuel accepts incomplete expressions.",
+      "chosen_heading": "Yadayim Question",
+      "current_heading": "Nazir Yadayim Example",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Elazar Pikuin",
+    "candidates": [
+      "Kometz Before Sunset",
+      "Action & Process",
+      "Rabbi Elazar Pikuin",
+      "Inner vs Outer Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses Rabbi Elazar's alternative reading of the baraita as referring to pikuin (dislodged items) and Rav Dimi's corroboration in the name of Rabbi Yannai, which is precisely what the 'Rabbi Elazar Pikuin' section's prose describes.",
+      "chosen_heading": "Rabbi Elazar Pikuin",
+      "current_heading": "Rabbi Elazar Pikuin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Inner vs Outer Altar",
+    "candidates": [
+      "Inner vs Outer Altar",
+      "Kometz Under Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yannai's ruling about incense dislodged from the altar, the baraita from Rabbi Eliezer ben Yaakov distinguishing inner vs outer altar items, and the conclusion to remove 'ketoret' from the list \u2014 all of which precisely matches the prose of heading 0 'Inner vs Outer Altar'.",
+      "chosen_heading": "Inner vs Outer Altar",
+      "current_heading": "Inner vs Outer Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Kometz Under Wood",
+    "candidates": [
+      "Kometz Under Wood",
+      "Olah Under Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about Rabbi Elazar's dilemma regarding the kometz arranged on the altar with firewood placed on top, which matches precisely the prose of candidate 0 ('Kometz Under Wood').",
+      "chosen_heading": "Kometz Under Wood",
+      "current_heading": "Kometz Under Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Olah Under Wood",
+    "candidates": [
+      "Olah Under Wood",
+      "Limbs Beside Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes \u1e24izkiyya's dilemma about arranging limbs on the altar and then placing firewood on top of them, with the tension between 'al ha'etzim' and the alternative verse, ending in teiku \u2014 which matches precisely the prose under heading 0 ('Olah Under Wood').",
+      "chosen_heading": "Olah Under Wood",
+      "current_heading": "Olah Under Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Limbs Beside Wood",
+    "candidates": [
+      "Limbs Beside Wood",
+      "Individual Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous dilemma raised by Rabbi Yitzchak Nappa\u1e25a about limbs arranged beside (rather than on top of) the wood arrangement, which is precisely what the 'Limbs Beside Wood' prose describes, including the linguistic debate about 'al' and the teiku conclusion.",
+      "chosen_heading": "Limbs Beside Wood",
+      "current_heading": "Limbs Beside Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Individual Requirements",
+    "candidates": [
+      "Individual Requirements",
+      "Flour & Oil",
+      "Kometz & Levona",
+      "Textual Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces individual quantitative requirements (kometz, isaron, wine, oil) where the minority prevents the majority, which is precisely what the 'Individual Requirements' prose describes.",
+      "chosen_heading": "Individual Requirements",
+      "current_heading": "Individual Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Textual Sources",
+    "candidates": [
+      "Flour & Oil",
+      "Kometz & Levona",
+      "Textual Sources",
+      "Yom Kippur Goats",
+      "Shavuot Lambs Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The 'Textual Sources' prose explicitly describes the gemara's methodical derivation of textual bases for the kometz, isaron, wine, oil, flour+oil interdependence, and kometz+levona interdependence \u2014 precisely what items 1-7 contain, with item 1 being the mishna re-quoted before the gemara's analysis begins.",
+      "chosen_heading": "Textual Sources",
+      "current_heading": "Textual Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Shavuot Lambs Bread",
+    "candidates": [
+      "Yom Kippur Goats",
+      "Shavuot Lambs Bread",
+      "Nazir Parah Todah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full mishna and gemara catalog starting with the two Yom Kippur goats and the derivation from 'chukkah,' which is precisely what the 'Yom Kippur Goats' prose discusses, while the current placement under 'Shavuot Lambs Bread' only begins mid-catalog.",
+      "chosen_heading": "Yom Kippur Goats",
+      "current_heading": "Shavuot Lambs Bread",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Nazir Parah Todah",
+    "candidates": [
+      "Shavuot Lambs Bread",
+      "Nazir Parah Todah",
+      "Lulav Metzora"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the nazirite loaves, the red heifer, and the todah loaves \u2014 exactly the topics described in the 'Nazir Parah Todah' prose section.",
+      "chosen_heading": "Nazir Parah Todah",
+      "current_heading": "Nazir Parah Todah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Lulav Metzora",
+    "candidates": [
+      "Lulav Metzora",
+      "Seven Sprinklings",
+      "Fruit Bearers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the four species of the lulav (with the lekicha tama drasha) and the four components of metzora purification (with the zot tihyeh torat hametzora drasha), which exactly matches the 'Lulav Metzora' section's prose content.",
+      "chosen_heading": "Lulav Metzora",
+      "current_heading": "Lulav Metzora",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Fruit Bearers",
+    "candidates": [
+      "Seven Sprinklings",
+      "Fruit Bearers",
+      "Divine Bundle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav \u1e24anan bar Rava's ruling about me'akev applying only when one lacks the species, and the baraita's challenge about needing all four in a single bundle \u2014 are explicitly described in the 'Fruit Bearers' prose, making that section the clear and correct home for this passage.",
+      "chosen_heading": "Fruit Bearers",
+      "current_heading": "Fruit Bearers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Divine Bundle",
+    "candidates": [
+      "Divine Bundle",
+      "Bundle Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Israel being bound together in a single bundle for divine acceptance, with the Amos proof-text, which is exactly what the 'Divine Bundle' section's prose elaborates on.",
+      "chosen_heading": "Divine Bundle",
+      "current_heading": "Divine Bundle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Bundle Debate",
+    "candidates": [
+      "Bundle Debate",
+      "Lekicha Tama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous discussion about whether the lulav must be bound \u2014 the tannaitic dispute between Rabbi Yehuda and the Rabbis, the gezeirah shavah of kicha-kicha, and the resolution that the mitzvah to bind derives from zeh keili v'anveihu \u2014 which is precisely what the 'Bundle Debate' prose describes in detail.",
+      "chosen_heading": "Bundle Debate",
+      "current_heading": "Bundle Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Lekicha Tama",
+    "candidates": [
+      "Lekicha Tama",
+      "Parah Adumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the sprinklings (haza'ot) of the bull of the anointed priest, the bull for unwitting communal sin, and the goats of idol worship, and how omitting one placement invalidates the service \u2014 this matches the 'Parah Adumah' section's prose about sprinklings, invalidation conditions, and the technical requirements of haza'ot, not the 'Lekicha Tama' section which discusses the four species and lulav bundling.",
+      "chosen_heading": "Parah Adumah",
+      "current_heading": "Lekicha Tama",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Parah Adumah",
+    "candidates": [
+      "Parah Adumah",
+      "Inner Chata'ot",
+      "Direction Contradiction",
+      "Facing Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "All three items together cover the full arc from the parah adumah baraita (item 1), through the inner chata'ot contrast (item 2), to Rav Chisda's resolution (item 3), which spans headings 0\u20133; the current placement under 'Parah Adumah' is where the passage begins, but the prose of candidates 1\u20133 also describe these exact items, so the current placement is retained given the ambiguity.",
+      "chosen_heading": "Parah Adumah",
+      "current_heading": "Parah Adumah",
+      "moved": false
+    }
+  }
+]

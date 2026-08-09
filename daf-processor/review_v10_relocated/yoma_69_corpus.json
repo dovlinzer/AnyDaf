@@ -1,0 +1,381 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Clothing Evidence",
+    "candidates": [
+      "Mishnah Overview",
+      "Rashi's Source",
+      "Tosafot Yeshanim View",
+      "Yerushalmi Proof",
+      "Clothing Evidence",
+      "Tzorech Avodah",
+      "Fundamental Question",
+      "Sleeping Prohibition",
+      "Other Benefits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's inference from the Mishnah about the Torah reading not being an avodah, the attempt to derive that bigdei kehuna may be worn for non-avodah purposes, and the rejection of that inference because kriya is tzorech avodah \u2014 exactly what the 'Clothing Evidence' prose describes.",
+      "chosen_heading": "Clothing Evidence",
+      "current_heading": "Clothing Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Other Benefits",
+    "candidates": [
+      "Tzorech Avodah",
+      "Fundamental Question",
+      "Sleeping Prohibition",
+      "Other Benefits",
+      "Folding Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's direct analysis of the 'lo hayu yeshenim b'bigdei kodesh' proof \u2014 pressing the inference about eating (item 1), pressing the inference about walking (item 2), and explaining that the chiddush of the teaching is actually the latter clause about folding garments under their heads (item 3) \u2014 which is precisely what the 'Sleeping Prohibition' prose describes as happening 'in the discussion that follows.'",
+      "chosen_heading": "Sleeping Prohibition",
+      "current_heading": "Other Benefits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Folding Garments",
+    "candidates": [
+      "Other Benefits",
+      "Folding Garments",
+      "Shatnez Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's reinterpretation of 'tachas rasheihem' as 'keneged rasheihem' and Rav Mesharshiya's inference about tefillin placement, which is precisely what the 'Folding Garments' section's prose addresses in detail.",
+      "chosen_heading": "Folding Garments",
+      "current_heading": "Folding Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Shatnez Issue",
+    "candidates": [
+      "Shatnez Issue",
+      "Shatnez Baraita",
+      "Ten Blankets Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete shatnez argument: item 1 raises the kilayim concern about sleeping on vestments, item 2 qualifies it by the dispute about the priestly belt, and item 3 introduces the baraita about spreading shatnez beneath oneself \u2014 all of which are explicitly summarized in the 'Shatnez Issue' prose under heading 0.",
+      "chosen_heading": "Shatnez Issue",
+      "current_heading": "Shatnez Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Ten Blankets Rule",
+    "candidates": [
+      "Shatnez Baraita",
+      "Ten Blankets Rule",
+      "Rav Ashi's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the teaching of Rabbi Shimon ben Pazi/Rabbi Yehoshua ben Levi about ten mattresses and shatnez underneath, which is precisely what the 'Ten Blankets Rule' prose section describes and concludes with the same 'keneged rasheihem' inference.",
+      "chosen_heading": "Ten Blankets Rule",
+      "current_heading": "Ten Blankets Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rav Ashi's View",
+    "candidates": [
+      "Rav Ashi's View",
+      "Baraita Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about priestly vestments being stiff and the supporting proof from Rav Huna son of Rabbi Yehoshua about the felt of Neresh, which is precisely what the prose under 'Rav Ashi's View' discusses.",
+      "chosen_heading": "Rav Ashi's View",
+      "current_heading": "Rav Ashi's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Baraita Rules",
+    "candidates": [
+      "Baraita Rules",
+      "Rashi's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita proof-text explicitly discussed in the 'Baraita Rules' section prose, which directly describes this very baraita and its conclusion (shema mina).",
+      "chosen_heading": "Baraita Rules",
+      "current_heading": "Baraita Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Rashi's Explanation",
+    "candidates": [
+      "Rashi's Explanation",
+      "Chazan Role",
+      "Abaye's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Rashi's Explanation' explicitly describes and discusses all six items: the challenge from Megillat Ta'anit about the 25th of Tevet, the full narrative of Shimon HaTzaddik donning priestly vestments to meet Alexander, and the Gemara's two resolutions (re'uyim l'vigdei kehuna and eis la'asos la-Shem), matching the passage perfectly.",
+      "chosen_heading": "Rashi's Explanation",
+      "current_heading": "Rashi's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Abaye's Explanation",
+    "candidates": [
+      "Chazan Role",
+      "Abaye's Explanation",
+      "Azarah Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the mishna's procedure of passing the Torah scroll and Abaye's resolution of the apparent difficulty about honoring a student in the presence of the teacher, which perfectly matches the prose of heading 1 ('Abaye's Explanation') that addresses exactly this question and Abaye's answer.",
+      "chosen_heading": "Abaye's Explanation",
+      "current_heading": "Abaye's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Azarah Restriction",
+    "candidates": [
+      "Azarah Restriction",
+      "Ezrat Nashim",
+      "Location Dispute",
+      "Rabbi Elazar View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the classic question-and-answer unit: item 1 raises the contradiction between the High Priest sitting and the prohibition on sitting in the Azarah, and item 2 gives Rav \u1e24isda's resolution \u2014 exactly the content described in heading 0's prose, which lays out the same problem and anticipates the same answer.",
+      "chosen_heading": "Azarah Restriction",
+      "current_heading": "Azarah Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rabbi Elazar View",
+    "candidates": [
+      "Ezrat Nashim",
+      "Location Dispute",
+      "Rabbi Elazar View",
+      "Ineffable Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly introduces the Gemara's clarification of where Rav \u1e24isda's statement was originally made, then presents the baraita dispute about the location of the Torah reading (Azara vs. Temple Mount), and concludes with Rav \u1e24isda specifying Ezrat Nashim \u2014 this is precisely what the 'Location Dispute' prose describes, situating Rav \u1e24isda's ruling within the broader debate about reading locations.",
+      "chosen_heading": "Location Dispute",
+      "current_heading": "Rabbi Elazar View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Ineffable Name",
+    "candidates": [
+      "Rabbi Elazar View",
+      "Ineffable Name",
+      "Baruch Hashem",
+      "Name Outside Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both Rav Yosef/Rav's interpretation (greatness via the ineffable Name) and Rav Giddel's interpretation (greatness via the blessing formula), and the 'Ineffable Name' section's prose explicitly covers both interpretations together, making it the best match for the full passage.",
+      "chosen_heading": "Ineffable Name",
+      "current_heading": "Ineffable Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Name Outside Mikdash",
+    "candidates": [
+      "Baruch Hashem",
+      "Name Outside Mikdash",
+      "Avoda Zara Cause"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the rule that the Shem HaMeforash may not be pronounced outside the Mikdash (ein omrim Shem HaMeforash bigvulin) and the hora'at sha'ah exception for Ezra's later incident, which is precisely what the 'Name Outside Mikdash' prose describes.",
+      "chosen_heading": "Name Outside Mikdash",
+      "current_heading": "Name Outside Mikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Avoda Zara Cause",
+    "candidates": [
+      "Avoda Zara Cause",
+      "Prayer Granted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the cry against the yetzer of avoda zara and the plea to remove it, which is precisely what the 'Avoda Zara Cause' prose discusses in detail.",
+      "chosen_heading": "Avoda Zara Cause",
+      "current_heading": "Avoda Zara Cause",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Prayer Granted",
+    "candidates": [
+      "Prayer Granted",
+      "Lion of Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the heavenly note bearing 'emet' and Rav \u1e24anina's derivation that God's seal is truth \u2014 are explicitly discussed in the 'Prayer Granted' prose, which describes the pitka merakia and the principle chotamo shel HaKadosh Baruch Hu emet.",
+      "chosen_heading": "Prayer Granted",
+      "current_heading": "Prayer Granted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Lion of Fire",
+    "candidates": [
+      "Lion of Fire",
+      "Sealing Yetzer Hara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the fiery lion cub emerging from the Holy of Holies and the prophet identifying it as the yetzer for idol worship, which directly matches the 'Lion of Fire' section's prose about the gorya d'nura and Zechariah's identification.",
+      "chosen_heading": "Lion of Fire",
+      "current_heading": "Lion of Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Sealing Yetzer Hara",
+    "candidates": [
+      "Sealing Yetzer Hara",
+      "World Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Sealing Yetzer Hara' prose discusses: the shriek, the fear of heavenly mercy, the prophet's advice to use a lead container to absorb sound, and the citation of Zechariah 5:8.",
+      "chosen_heading": "Sealing Yetzer Hara",
+      "current_heading": "Sealing Yetzer Hara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "World Fails",
+    "candidates": [
+      "World Fails",
+      "Blinding Eyes",
+      "Holy Holies Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Sages praying for the evil inclination of sexual sin to be delivered into their hands \u2014 precisely the event that the 'World Fails' prose describes as the precursor to the world beginning to fail.",
+      "chosen_heading": "World Fails",
+      "current_heading": "World Fails",
+      "moved": false
+    }
+  }
+]

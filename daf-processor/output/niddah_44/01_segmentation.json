@@ -20,7 +20,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Infants and Early Development: Niddah, Zavah, and Zav Status",
@@ -48,7 +48,7 @@
           "timestamp": "02:03"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -87,8 +87,8 @@
           "timestamp": "08:01"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara on Infants: Textual Derivations from Scripture for Early Tumah",
@@ -126,8 +126,8 @@
           "timestamp": "12:35"
         }
       ],
-      "sefaria_index": 7,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara on Birth Requirement: Yibum, Terumah, and the Fetal Status Question",
@@ -171,7 +171,7 @@
         }
       ],
       "sefaria_index": 7,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Inheritance and Bequest: The Halakhic Significance of Birth for Property Transmission",
@@ -199,7 +199,7 @@
           "timestamp": "26:57"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -238,7 +238,7 @@
           "timestamp": "34:07"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -257,8 +257,8 @@
           "timestamp": "40:11"
         }
       ],
-      "sefaria_index": 19,
-      "matched": false
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Murder and Mourning: Legal Consequences of Birth for Capital Offense and Aveilus",
@@ -271,8 +271,8 @@
           "timestamp": "40:36"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Fetal Viability and Death: Medical-Halakhic Analysis of When Life Begins (continued)",
@@ -285,7 +285,7 @@
           "timestamp": "40:42"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 20,
       "matched": false
     },
     {
@@ -315,7 +315,7 @@
         }
       ],
       "sefaria_index": 23,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Three Years and a Day: The Halakhic Threshold for Valid Sexual Acts",
@@ -586,5 +586,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "27:16",
+  "amud_b_micro_title": "Mother Dies First",
+  "shiur_start_daf": 44,
+  "shiur_start_amud": "a"
 }

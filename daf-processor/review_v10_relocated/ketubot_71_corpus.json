@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Nedarim Mishnah",
+    "candidates": [
+      "Vow & Interim Support",
+      "Nedarim Mishnah",
+      "Provision Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are a continuous Gemara exchange \u2014 Rabba's objection from the Nedarim mishna and its refutation \u2014 directly discussing the permitted indirect method of hinting to a storekeeper, which is precisely the content the 'Nedarim Mishnah' prose section describes.",
+      "chosen_heading": "Nedarim Mishnah",
+      "current_heading": "Nedarim Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Provision Scenarios",
+    "candidates": [
+      "Provision Scenarios",
+      "Rabbi Yose Stringency",
+      "Gzerah Analysis",
+      "Yehudah Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover the core Mishnah scenarios about helping someone under a vow \u2014 the storekeeper/workers arrangement, the traveling companion/hefker case, and Rabbi Yose's objection with the Beit Horon reference \u2014 which Candidate 0's prose explicitly discusses as a unified block of 'Provision Scenarios.'",
+      "chosen_heading": "Provision Scenarios",
+      "current_heading": "Provision Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Yehudah Distinctions",
+    "candidates": [
+      "Rabbi Yose Stringency",
+      "Gzerah Analysis",
+      "Yehudah Distinctions",
+      "Rav Position",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's distinction between Israelite and kohen, Abaye's resolution that the chiddush is the kohen's wife rule, and Rava's distinction between a full thirty-day month and a deficient month \u2014 exactly what the 'Yehudah Distinctions' prose describes.",
+      "chosen_heading": "Yehudah Distinctions",
+      "current_heading": "Yehudah Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Rav Position",
+      "Shmuel Position",
+      "Articulation Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav's and Shmuel's positions stated together, but the prose under 'Rav Position' (index 0) explicitly introduces this as 'the core dispute between Rav and Shmuel' and describes exactly the content of this Talmudic quote \u2014 the mefaresh/stam distinction and Shmuel's response \u2014 making it the passage that introduces and presents the combined dispute, whereas index 1 only elaborates on Shmuel's position in isolation.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Shmuel Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Articulation Logic",
+    "candidates": [
+      "Shmuel Position",
+      "Articulation Logic",
+      "Sex vs. Sustenance",
+      "Conditional Vows",
+      "Simple Reading Problem",
+      "Rishonim Approaches",
+      "Defense of Simple",
+      "Immediate Divorce Q",
+      "Rav Answer",
+      "Shmuel Problem",
+      "Wife Made Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the classic Gemara objection ('haven't they already disputed this?') and its tzricha resolution explaining why the dispute must be stated in both the tashmish and mezonot contexts \u2014 exactly what the 'Articulation Logic' prose describes.",
+      "chosen_heading": "Articulation Logic",
+      "current_heading": "Articulation Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Wife Made Vow",
+    "candidates": [
+      "Sex vs. Sustenance",
+      "Conditional Vows",
+      "Simple Reading Problem",
+      "Rishonim Approaches",
+      "Defense of Simple",
+      "Immediate Divorce Q",
+      "Rav Answer",
+      "Shmuel Problem",
+      "Wife Made Vow",
+      "Nazirite Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question against Shmuel (item 1) and its resolution by rereading the Mishnah as a case where she vowed and he affirmed it (item 2), which is precisely the content described in candidate 7 ('Shmuel Problem') \u2014 the problem Shmuel faces and the need to explain the difference \u2014 rather than candidate 8, which already describes the solution in its own prose and would be redundant with item 2.",
+      "chosen_heading": "Shmuel Problem",
+      "current_heading": "Wife Made Vow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Nazirite Baraita",
+    "candidates": [
+      "Wife Made Vow",
+      "Nazirite Baraita",
+      "Name Reconciliation",
+      "Innuy Nefesh Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items constitute the Gemara's successive attempts to rearrange the names in the baraita to reconcile contradictions \u2014 the 'reverse the attributions,' 'mix the pairs,' and final 'stam de-lo ke-Rabbi Meir' resolutions \u2014 which is exactly what the 'Name Reconciliation' prose describes.",
+      "chosen_heading": "Name Reconciliation",
+      "current_heading": "Nazirite Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Innuy Nefesh Threshold",
+    "candidates": [
+      "Name Reconciliation",
+      "Innuy Nefesh Threshold",
+      "Annulment Challenge",
+      "Beino L'Veinah Annul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's challenge from the Nedarim Mishnah about Rabbi Yossi's innuy nefesh threshold \u2014 item 1 raises the contradiction and item 2 gives the resolution ('bidvarim she-beino l'veinah') \u2014 which is precisely what the 'Innuy Nefesh Threshold' prose describes as the Gemara's challenge regarding which vow category applies to Rabbi Yossi's position.",
+      "chosen_heading": "Innuy Nefesh Threshold",
+      "current_heading": "Innuy Nefesh Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Beino L'Veinah Annul",
+    "candidates": [
+      "Annulment Challenge",
+      "Beino L'Veinah Annul",
+      "Rav Kahana Sex",
+      "Vow Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Huna/Rav Adda bar Ahava dispute about whether the husband can annul beino l'veinah vows, including the fox-in-the-burrow analogy, which is precisely what the prose of candidate 1 ('Beino L'Veinah Annul') describes and analyzes.",
+      "chosen_heading": "Beino L'Veinah Annul",
+      "current_heading": "Beino L'Veinah Annul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Vow Structure",
+    "candidates": [
+      "Rav Kahana Sex",
+      "Vow Structure",
+      "Calm Affirmation",
+      "Emotional Dynamics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the pivot to the contingency-vow reading, Rav Kahana's ruling cited in support, and the 'karu lah menuveles' answer \u2014 are precisely what candidate 1 ('Vow Structure') describes as the Gemara's new and final reading of the Mishnah, including the adornment-as-condition structure and the social-embarrassment resolution.",
+      "chosen_heading": "Vow Structure",
+      "current_heading": "Vow Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Emotional Dynamics",
+    "candidates": [
+      "Calm Affirmation",
+      "Emotional Dynamics",
+      "Rav Shmuel Reconcile",
+      "Mishnah Rule",
+      "Limit Debate",
+      "Time Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly answers why there is no waiting period (the question posed in candidate 0's prose), and candidate 1's prose already paraphrases/explains this same Gemara text, meaning the Talmudic source belongs under the heading that poses the question it answers \u2014 candidate 0, 'Calm Affirmation.'",
+      "chosen_heading": "Calm Affirmation",
+      "current_heading": "Emotional Dynamics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Time Standards",
+    "candidates": [
+      "Rav Shmuel Reconcile",
+      "Mishnah Rule",
+      "Limit Debate",
+      "Time Standards",
+      "30-Day Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the three amoraic opinions on what constitutes a 'stated limit' \u2014 twelve months, ten years, and until the next festival \u2014 which is precisely what the 'Time Standards' section prose describes.",
+      "chosen_heading": "Time Standards",
+      "current_heading": "Time Standards",
+      "moved": false
+    }
+  }
+]

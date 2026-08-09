@@ -10,8 +10,6 @@ We pick up at the top of 153, three lines from the top, at the words *hu d'kanu 
 
 The Rashbam explains that the preceding discussion concerned a case of a *stam* *kinyan* — a straightforward act of acquisition — and argues that this does not fit well with the evidence presented earlier, which seemed to indicate that whenever a *kinyan* is performed, everyone agrees the gift takes effect, and that if he recovers (*amad*) the gift is revoked (*chozer*). Tosafot therefore explains that the case involves a *kinyan* that was specifically written into the *shtar* itself, which is what the *gemara* appears to indicate. This accounts for the range of opinions — from the view that the gift is fully effective and the donor cannot retract, to the view that it does not take effect at all.
 
-The preceding sugya then concluded with a final case: a *shchiv mera* who wrote away all of his property and a *kinyan* was performed from his hand — *shchiv mera she-katav kol nechasav ve-kanu mi-yado* — and the question was what makes this case distinctive, given that it ended with the ruling *ein achar kinyan klum*, meaning that everyone agreed the donor could not retract. The Rashbam explains that this was a case in which the *shtar* was both written and handed over, and a *kinyan* of the *chalipin* type was also performed — and when all three of these elements were combined, everyone agrees the gift takes effect and the donor cannot be *chozer*. Tosafot, by contrast, explains that this was a case in which the *kinyan* was performed directly on the property itself. In either reading, the scenario involves a *shtar* paired with a sufficiently strong *kinyan* such that its effectiveness is universally agreed upon and retraction is foreclosed.
-
 ### Rav Huna Case
 
 The *gemara* now concludes this discussion with a practical illustration. The case is one where *kanu minei* — they performed this *kinyan* together with the *shtar* in the especially strong manner described — and presumably the donor subsequently recovered and sought to retract the gift. He came before Rav Huna, who said: *mai avad lach* — what can I do for you? You did not execute a standard *matnas shchiv mera*; you did it in this exceptionally strong form, and you have locked yourself in. You are not able to be *chozer*. This is essentially a practical application of what was established in the preceding analysis.
@@ -32,7 +30,7 @@ Rav says: *harei hi ke-matnas shchiv mera* — it has the character of a *matnas
 
 Shmuel disagrees: *harei hi ke-matnas bari* — it is equivalent to the gift of a healthy person. The word *be-hayim* signals that he is giving it *me-hayim* — from the time he is still living, meaning it takes effect immediately and unconditionally. As for the phrase *u-ve-mavet*, Shmuel reads this as equivalent to saying *me-ata ve-ad olam* — from now and henceforth. He simply means: you should have it now, and it should remain yours even after I die. The phrase is therefore an expression of perpetuity, not an indication of *shchiv mera* intent.
 
-The dispute, then, turns entirely on how to read the document's key phrase. For Rav, the operative word is *be-mavet* — writing "in death" signals that the giver intends the transfer to take effect after he dies, which is precisely the logic of a *matnas shchiv mera*, with all its attendant legal implications. The *be-hayim* language, on that reading, is merely a *siman be-alma de-hayyei* — a kind of protective formula meant to ward off *ayin hara*, a superstitious reluctance to sound as though one is already dying, rather than a substantive legal signal. For Shmuel, the reverse is true: the *be-hayim* language is the operative term, and *u-ve-mavet* is simply a rhetorical extension meaning the gift should endure permanently.
+The disagreement between Rav and Shmuel thus turns on which phrase in the document is doing the real interpretive work. For Rav, *be-mavet* is the decisive signal — it tells us the donor's true intent is to transfer at death, and *be-hayim* is mere convention. For Shmuel, *be-hayim* is the operative term — it tells us the gift takes effect during the donor's lifetime, and *be-mavet* is merely an assurance of permanence. What is striking here is that the very same document, with the very same two phrases, yields diametrically opposed legal consequences depending on which word you treat as primary. The *nehardaei* — the scholars of Nehardaei, which was in fact Shmuel's own locale — weigh in on this dispute and rule *hilchata kevateih de-Rav*, that the law follows Rav. It is notable that Shmuel's own academy is prepared to rule against its founder's position and read such a document as a *matnas shchiv mera*.
 
 ### Rava Limitation
 
@@ -162,18 +160,4 @@ This in turn illuminates the underlying debate between Rabbi Meir and the *chach
 
 Once Rav Chisda's framing is accepted, the *chachamim*'s position becomes fully coherent. They are not saying that a *shtar* plus a healthy donor is somehow insufficient to overcome the *muchzak* presumption — they are saying that the recipients must perform a *kiyum ha-shtar* to establish the document on independent grounds, after which it will indeed prevail.
 
----
 
-## Found Document
-
-### Mishna Case
-
-The *gemara* turns to the next *mishna*: *mi she-meit ve-nimtza'as dyatiki keshura lo al yereicho* — someone dies and a document, a *dyatiki* — a will or gift document — is found tied to his thigh. *Harei zu eina klum* — it is entirely worthless. The *mishna* goes on to explain that if the donor had previously handed over the document to a third party (*zicha ba le-acher*) to take possession on behalf of the recipient, then the gift is valid whether the document was inside the house or outside. The *gemara* notes that the word *dyatiki* is an acronym for *da tehei le-mikam u-li-hyot* — "this shall stand and be" — which was the formula a dying person would use in declaring his final disposition of property.
-
-### Gemara Question
-
-The *gemara* asks: why should the document found on his thigh be invalid? *Ve-lima dilma be-ma'amad shloshtan amra* — perhaps he transferred the gift in the presence of three people. A verbal gift made in the presence of three witnesses is a valid and recognized mode of transfer even without a physical document. The mere fact that the document was discovered on his body does not rule out the possibility that he had already accomplished the transfer through this other method.
-
-### Found Implication
-
-The *gemara* answers: the *mishna* says *found*. The word *nimtza'as* — found — carries a specific implication. When a document is *found*, it means that no one knew about it until it was discovered. And if no one knew about it, then there was no prior occasion on which it was handed over in the presence of three people. Had a *ma'amad shloshtan* occurred, people would have been present and would have known. The very fact of discovery — the surprise, the absence of prior knowledge — excludes the possibility of any prior effective transfer. The document is therefore worthless precisely because it was found.

@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Hillel Time Emphasis",
+    "candidates": [
+      "High Place Prohibition",
+      "Torah vs. Prayer Position",
+      "Humility & Aspiration",
+      "Eating Before Prayer",
+      "Priorities & Acceptance",
+      "Three Hour Limit",
+      "Gra vs. Magen Avraham",
+      "Night/Day Asymmetry",
+      "Late Shema Reading",
+      "Dual Status Brachot",
+      "Shema vs. Torah Study",
+      "Shammai Literal Read",
+      "Hillel Time Emphasis",
+      "Gemara Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question about why Beit Shammai doesn't adopt Beit Hillel's reasoning, which is precisely what the 'Gemara Analysis' section's prose discusses.",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Hillel Time Emphasis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "Hillel Time Emphasis",
+      "Gemara Analysis",
+      "Uvlechetecha Vaderech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Beit Shammai's counter-argument about why 'beshochbecha uvekumecha' implies actual lying down and rising rather than just time, which is precisely what the 'Gemara Analysis' prose describes as Beit Shammai's response to Beit Hillel's position.",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Gemara Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Uvlechetecha Vaderech",
+    "candidates": [
+      "Uvlechetecha Vaderech",
+      "Groom Preoccupation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about what Beit Shammai derives from 'u'v'lechtecha vaderech' \u2014 the exemption of osek b'mitzvah and the groom \u2014 and the prose of heading 0 explicitly covers all of this content including Rav Pappa's reasoning and the b'shivtecha/b'lechtecha formulation argument.",
+      "chosen_heading": "Uvlechetecha Vaderech",
+      "current_heading": "Uvlechetecha Vaderech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Groom Preoccupation",
+    "candidates": [
+      "Groom Preoccupation",
+      "Avel's Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the widow vs. virgin distinction and the tarid (preoccupation) principle, which is precisely what the 'Groom Preoccupation' prose describes.",
+      "chosen_heading": "Groom Preoccupation",
+      "current_heading": "Groom Preoccupation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Avel's Obligation",
+    "candidates": [
+      "Avel's Obligation",
+      "Mental Engagement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's argument about the mourner's obligation in all mitzvot except tefillin (Rabbi Abba bar Zavda/Rav), which is exactly what the 'Avel's Obligation' prose section discusses \u2014 using this ruling to show that mere preoccupation does not exempt one from Shema.",
+      "chosen_heading": "Avel's Obligation",
+      "current_heading": "Avel's Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Mental Engagement",
+    "candidates": [
+      "Mental Engagement",
+      "Two Scholars Tale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly correspond to the content described in the 'Mental Engagement' prose: item 1 is the tirda d'mitzvah vs. tirda d'reshut distinction, and items 2-4 are the Beit Shammai/Beit Hillel exchange about shluchei mitzvah and u'v'lechtecha vaderech \u2014 all explicitly discussed in that section's prose.",
+      "chosen_heading": "Mental Engagement",
+      "current_heading": "Mental Engagement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Two Scholars Tale",
+    "candidates": [
+      "Two Scholars Tale",
+      "Sukkah Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about the incident of Rabbi Yishmael and Rabbi Elazar ben Azaryah and the Gemara's follow-up question about 'v'lo od,' which is exactly what the 'Two Scholars Tale' prose describes in detail.",
+      "chosen_heading": "Two Scholars Tale",
+      "current_heading": "Two Scholars Tale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Sukkah Precedent",
+    "candidates": [
+      "Sukkah Precedent",
+      "Tarfon Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the exact Sukkah-based dispute (Rav Ye\u1e25ezkel, Rav Yosef, the Mishnah about head/body in sukkah, and Rabbi Yo\u1e25anan ben Ha\u1e24oranit incident) that Candidate 0's prose explicitly describes and analyzes.",
+      "chosen_heading": "Sukkah Precedent",
+      "current_heading": "Sukkah Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Tarfon Danger",
+    "candidates": [
+      "Tarfon Danger",
+      "Morning/Night Structure",
+      "Tosafot Flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Na\u1e25man bar Yitz\u1e25ak's ruling about Beit Shammai and Rabbi Tarfon's story about endangering himself by reclining for Shema, which is precisely what the 'Tarfon Danger' section's prose addresses.",
+      "chosen_heading": "Tarfon Danger",
+      "current_heading": "Tarfon Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Tosafot Flexibility",
+    "candidates": [
+      "Morning/Night Structure",
+      "Tosafot Flexibility",
+      "Fixed Structure Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself establishing the morning/evening bracha structure, which is precisely what heading 0 ('Morning/Night Structure') describes in its prose, not the Tosafot debate over its interpretation.",
+      "chosen_heading": "Morning/Night Structure",
+      "current_heading": "Tosafot Flexibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Fixed Structure Rules",
+    "candidates": [
+      "Tosafot Flexibility",
+      "Fixed Structure Rules",
+      "Darkness Language"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fixed Structure Rules",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concluding Mishnaic rule about fixed structure (makom she'amru leha'arich), which is precisely what the 'Fixed Structure Rules' prose section describes and explains.",
+      "second_heading": "Darkness Language",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the Gemara with 'mai mevarech' \u2014 what blessing is recited \u2014 which is exactly the question the 'Darkness Language' prose section begins with, discussing Rabbi Yaakov's answer about yotzer or uvorei choshech.",
+      "current_heading": "Fixed Structure Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Darkness Language",
+    "candidates": [
+      "Darkness Language",
+      "Day/Night Symmetry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Darkness Language' prose: the blessing formula yotzer or uvorei choshech, the question of why not say nogah, the answer kedichtiv ka'amrinan, and the immediate objection about oseh shalom uvorei ra \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Darkness Language",
+      "current_heading": "Darkness Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Day/Night Symmetry",
+    "candidates": [
+      "Day/Night Symmetry",
+      "Rolling Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about mentioning the attribute of day at night and night during the day, which is precisely what candidate 0's prose discusses as the answer the Gemara offers for why 'borei choshech' is retained in the liturgy.",
+      "chosen_heading": "Day/Night Symmetry",
+      "current_heading": "Day/Night Symmetry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Rolling Light",
+    "candidates": [
+      "Rolling Light",
+      "Rabba vs. Olam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of where the attribute of day is mentioned at night and Abaye's answer about 'rolling light,' which is precisely what the 'Rolling Light' section's prose discusses.",
+      "chosen_heading": "Rolling Light",
+      "current_heading": "Rolling Light",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Rabba vs. Olam",
+    "candidates": [
+      "Rabba vs. Olam",
+      "Integration with Shema",
+      "Theological Significance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute between ahava rabba and ahavat olam as the formula for the second bracha before Shema, which is precisely what the 'Rabba vs. Olam' section's prose describes.",
+      "chosen_heading": "Rabba vs. Olam",
+      "current_heading": "Rabba vs. Olam",
+      "moved": false
+    }
+  }
+]

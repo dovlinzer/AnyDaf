@@ -1,0 +1,543 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Different City Rule",
+    "candidates": [
+      "Mishnah Intro",
+      "Same City Rule",
+      "Different City Rule",
+      "Internal Contradiction",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items \u2014 the mishna about father in a different city, the cases about house of mourning/feasting and the conditional vows, and the gemara's internal contradiction \u2014 are precisely the content described in the 'Different City Rule' prose section, which walks through each of these mishna clauses and notes that the gemara will press on the two-regalim tension.",
+      "chosen_heading": "Different City Rule",
+      "current_heading": "Different City Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Internal Contradiction",
+      "Abaye's Resolution",
+      "Midrash Interlude"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's and Rabba bar Ulla's resolutions to the internal contradiction between the two clauses, but the current section's prose (index 1) has the attributions backwards \u2014 it attributes the birdufa/she'eina redufa distinction to Abaye and the kohen distinction to Rava bar Ulla, whereas the Talmudic text shows Abaye giving the kohen/Rabbi Yehuda resolution and Rabba bar Ulla giving the birdufa distinction; more importantly, this passage directly resolves the internal contradiction described in index 0, making it the natural continuation of that section.",
+      "chosen_heading": "Internal Contradiction",
+      "current_heading": "Abaye's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Midrash Interlude",
+    "candidates": [
+      "Abaye's Resolution",
+      "Midrash Interlude",
+      "Hosea Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact midrashic interlude on Song of Songs 8:10 with Rabbi Yo\u1e25anan's interpretation that the 'Midrash Interlude' section prose directly describes and analyzes.",
+      "chosen_heading": "Midrash Interlude",
+      "current_heading": "Midrash Interlude",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Hosea Prophecy",
+    "candidates": [
+      "Hosea Prophecy",
+      "Ba'al Mastery",
+      "Feminist Reading",
+      "Rashi on Union",
+      "Mishnah Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yo\u1e25anan's statement about 'a bride in her father-in-law's house vs. her father's house,' which is precisely what the 'Rashi on Union' prose section discusses and elaborates upon with Rashi's clarification of that same statement.",
+      "chosen_heading": "Rashi on Union",
+      "current_heading": "Hosea Prophecy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Mishnah Statement",
+    "candidates": [
+      "Ba'al Mastery",
+      "Feminist Reading",
+      "Rashi on Union",
+      "Mishnah Statement",
+      "Locking Door Issue",
+      "Reciprocal Obligation",
+      "Rabbi Meir Teaching"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the mishnah and raises the gemara's question about the house of feasting, which matches the 'Mishnah Statement' prose describing the mishnah's content and the locking-door reasoning.",
+      "second_heading": "Locking Door Issue",
+      "second_confidence": "high",
+      "second_reason": "Item 2 provides the gemara's answer to the 'what locking is there for house of mourning' question, which matches the 'Locking Door Issue' prose that poses exactly that question and then the 'Reciprocal Obligation' prose that gives the braita's answer \u2014 but since item 2 contains both the question's resolution and the braita's response, 'Locking Door Issue' (index 4) is where this resolution text begins and belongs.",
+      "current_heading": "Mishnah Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rabbi Meir Teaching",
+    "candidates": [
+      "Locking Door Issue",
+      "Reciprocal Obligation",
+      "Rabbi Meir Teaching",
+      "Funeral Consequences",
+      "Exception Clause",
+      "Promiscuity Reason",
+      "Rav Ashi Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's baraita interpreting Kohelet 7:2 about taking matters of death to heart, which directly matches the 'Rabbi Meir Teaching' section's prose describing exactly this baraita and verse.",
+      "chosen_heading": "Rabbi Meir Teaching",
+      "current_heading": "Rabbi Meir Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rav Ashi Standard",
+    "candidates": [
+      "Funeral Consequences",
+      "Exception Clause",
+      "Promiscuity Reason",
+      "Rav Ashi Standard",
+      "Secrets Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Shmuel's identification of promiscuous individuals as the 'something else' reason AND Rav Ashi's threshold requirement, but the prose under candidate 2 ('Promiscuity Reason') explicitly discusses both elements together (the Shmuel statement and the implicit question of how much weight the claim carries), while candidate 3 covers only Rav Ashi's portion \u2014 meaning the full passage fits better under candidate 2 which introduces the topic that Rav Ashi then qualifies.",
+      "chosen_heading": "Promiscuity Reason",
+      "current_heading": "Rav Ashi Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Secrets Vow",
+    "candidates": [
+      "Rav Ashi Standard",
+      "Secrets Vow",
+      "Shame Principle",
+      "Meaningless Labor",
+      "Shmuel Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the mishna text about the 'secrets vow' and Shmuel's explanation about degrading matters, and the current placement under 'Secrets Vow' is correct since that section's prose directly introduces this mishna case, while the 'Shame Principle' heading (index 2) covers the same Shmuel quote but appears to be the essay's prose explanation of it rather than the home for the Talmudic source itself.",
+      "chosen_heading": "Secrets Vow",
+      "current_heading": "Secrets Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Shmuel Interpretation",
+    "candidates": [
+      "Shame Principle",
+      "Meaningless Labor",
+      "Shmuel Interpretation",
+      "Foolish Appearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Shmuel Interpretation' prose: Rav Yehuda citing Shmuel's explanation of 'shetimaleh v'nofetzet' and the baraita's alternative version about filling ten jugs of water \u2014 both of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Shmuel Interpretation",
+      "current_heading": "Shmuel Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Foolish Appearance",
+    "candidates": [
+      "Foolish Appearance",
+      "Domestic Control",
+      "Vessel Vow",
+      "Bad Reputation",
+      "Wife's Vow",
+      "Clothing Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why the wife can't just perform the useless work, and Rabbi Yo\u1e25anan's answer that she would appear insane (*nira'it k'shotah*), which is precisely what the 'Foolish Appearance' section's prose discusses.",
+      "chosen_heading": "Foolish Appearance",
+      "current_heading": "Foolish Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Clothing Vow",
+    "candidates": [
+      "Domestic Control",
+      "Vessel Vow",
+      "Bad Reputation",
+      "Wife's Vow",
+      "Clothing Vow",
+      "Shared Standing",
+      "Mishnah Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern Rav Kahana's ruling and the supporting baraita about a husband vowing to prevent his wife from borrowing/lending household vessels (nafa, kivra, reikayim, tanur), which is precisely what the 'Vessel Vow' section's prose introduces and discusses.",
+      "chosen_heading": "Vessel Vow",
+      "current_heading": "Clothing Vow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Mishnah Intro",
+    "candidates": [
+      "Shared Standing",
+      "Mishnah Intro",
+      "Food Without Tithes",
+      "Knowledge Problem",
+      "Indirect Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text introducing the category of women who leave without a ketubbah (dat Moshe and dat Yehudit), which directly matches the 'Mishnah Intro' prose that explicitly previews and introduces these exact categories and their significance.",
+      "chosen_heading": "Mishnah Intro",
+      "current_heading": "Mishnah Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Indirect Evidence",
+    "candidates": [
+      "Food Without Tithes",
+      "Knowledge Problem",
+      "Indirect Evidence",
+      "Niddah Relations",
+      "Reliance Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's initial question (heichi dami / if he knows / if he doesn't know) which matches the 'Knowledge Problem' prose exactly, and then the answer about the Kohen lying \u2014 but the current placement under 'Indirect Evidence' (index 2) is also plausible; however, since the passage contains BOTH the question and the answer as a single unit, and the Knowledge Problem prose explicitly describes both the question and sets up the answer, while Indirect Evidence prose covers only the answer portion, the passage as a whole fits better under Knowledge Problem which frames the entire gemara exchange.",
+      "chosen_heading": "Knowledge Problem",
+      "current_heading": "Indirect Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Reliance Counting",
+    "candidates": [
+      "Niddah Relations",
+      "Reliance Counting",
+      "Challah Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of the niddah transgression \u2014 item 1 raises the question of how the husband could be culpable, and item 2 gives the answers (the lie about the chacham, and the neighbors case) \u2014 all of which the prose under 'Niddah Relations' (index 0) explicitly introduces, while 'Reliance Counting' (index 1) merely incorporates this content into a broader summary that already assumes the reader knows it.",
+      "chosen_heading": "Niddah Relations",
+      "current_heading": "Reliance Counting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Challah Separation",
+    "candidates": [
+      "Reliance Counting",
+      "Challah Separation",
+      "Unfulfilled Vows",
+      "Children's Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the failure to separate challah and the specific case of a kneader (gaval) separating challah, which directly matches the 'Challah Separation' section's prose about ploni gaval tiken li et ha'isa.",
+      "chosen_heading": "Challah Separation",
+      "current_heading": "Challah Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Children's Death",
+    "candidates": [
+      "Unfulfilled Vows",
+      "Children's Death",
+      "Meir Provocation",
+      "Snake Basket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why unfulfilled vows cause children to die, which is exactly what the 'Children's Death' section's prose describes \u2014 the gemara's teaching of ba'avon nedarim banim metim with proofs from Ecclesiastes and Jeremiah.",
+      "chosen_heading": "Children's Death",
+      "current_heading": "Children's Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Snake Basket",
+    "candidates": [
+      "Meir Provocation",
+      "Snake Basket",
+      "Mishnah Intro",
+      "Uncovered Head",
+      "Sotah Source",
+      "Norm vs. Prohibition",
+      "Law vs. Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the 'snake in a basket' theme \u2014 Rabbi Meir on vows, Rabbi Yehuda on \u1e25alla, and the Gemara's comparison of the two cases \u2014 which is precisely what the 'Snake Basket' prose discusses.",
+      "chosen_heading": "Snake Basket",
+      "current_heading": "Snake Basket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Law vs. Practice",
+    "candidates": [
+      "Mishnah Intro",
+      "Uncovered Head",
+      "Sotah Source",
+      "Norm vs. Prohibition",
+      "Law vs. Practice",
+      "Context Question",
+      "Abaye Answer",
+      "Physical Layout",
+      "Public Space Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's resolution distinguishing biblical sufficiency (kalta is enough) from dat Yehudit's stricter norm (even kalta is prohibited), which is precisely what the 'Law vs. Practice' prose describes.",
+      "chosen_heading": "Law vs. Practice",
+      "current_heading": "Law vs. Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Public Space Focus",
+    "candidates": [
+      "Context Question",
+      "Abaye Answer",
+      "Physical Layout",
+      "Public Space Focus",
+      "Knitting Arms",
+      "Red Thread",
+      "Flirtation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Zeira's clarifying question and Abaye/Rav Kahana's answer together, and candidate 0 ('Context Question') introduces Rabbi Zeira's question which opens this exact Talmudic discussion, while candidate 1 ('Abaye Answer') covers only the resolution \u2014 but since the passage is one unified unit, it best fits under the heading that introduces the question that drives the whole passage, which is candidate 0; however, since candidate 1's prose specifically describes Abaye's answer that concludes the passage, the single best home for the entire passage as one unit is candidate 0, which opens the discussion that the passage addresses from beginning to end.",
+      "chosen_heading": "Context Question",
+      "current_heading": "Public Space Focus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Flirtation",
+    "candidates": [
+      "Knitting Arms",
+      "Red Thread",
+      "Flirtation",
+      "Joking Young Men",
+      "Arab Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics \u2014 spinning in the marketplace (arms), red thread, and speaking with every man/flirting \u2014 beginning with the spinning/arms explanation, so it belongs under 'Knitting Arms' which is the first of the three consecutive sections this single Talmudic passage spans.",
+      "chosen_heading": "Knitting Arms",
+      "current_heading": "Flirtation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Arab Woman",
+    "candidates": [
+      "Joking Young Men",
+      "Arab Woman",
+      "Cursing Parents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Arab woman anecdote discussed in candidate 1's prose, including the spindle, Rav Ukva's comment, and the debate between Ravina and the Rabbis about which mishna case applied.",
+      "chosen_heading": "Arab Woman",
+      "current_heading": "Arab Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Cursing Parents",
+    "candidates": [
+      "Cursing Parents",
+      "Loud Voice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses a woman cursing her husband's parents, which matches exactly the 'Cursing Parents' section prose.",
+      "chosen_heading": "Cursing Parents",
+      "current_heading": "Cursing Parents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Loud Voice",
+    "candidates": [
+      "Loud Voice",
+      "Loud Sexual",
+      "Rashi Pleasure",
+      "Defect Question",
+      "Controllable Behavior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Yehuda/Shmuel's interpretation that 'kolanit' refers to her voice being heard regarding matters of intercourse, and the baraita's definition of screaming during intercourse heard in another courtyard \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Loud Sexual",
+      "current_heading": "Loud Voice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Controllable Behavior",
+    "candidates": [
+      "Loud Sexual",
+      "Rashi Pleasure",
+      "Defect Question",
+      "Controllable Behavior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises the objection that if the issue is involuntary sounds during intimacy, it should be listed among physical blemishes (mumim) in the mishna \u2014 which is precisely what the 'Defect Question' prose describes, and the Gemara's resolution ('ela mechvarta kedishanin me'ikara') is summarized in that section's prose as well.",
+      "chosen_heading": "Defect Question",
+      "current_heading": "Controllable Behavior",
+      "moved": true
+    }
+  }
+]

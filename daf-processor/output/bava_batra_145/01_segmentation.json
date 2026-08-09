@@ -19,8 +19,8 @@
           "timestamp": "02:02"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Reconciliation: Braita vs. Mishna on Directional Flow of Gifts (Family-to-Individual vs. Individual-to-Individual)",
@@ -53,7 +53,7 @@
           "timestamp": "12:21"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -72,8 +72,8 @@
           "timestamp": "18:13"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Digression: Kiddushin and Ketubah—When Betrothal Gifts Must Be Returned Upon the Woman's Death",
@@ -141,7 +141,7 @@
           "timestamp": "45:39"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -516,5 +516,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "49:25",
+  "amud_b_micro_title": "Five Characteristics",
+  "shiur_start_daf": 144,
+  "shiur_start_amud": "b"
 }

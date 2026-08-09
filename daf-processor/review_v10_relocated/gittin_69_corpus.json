@@ -1,0 +1,348 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Blood in Head",
+    "candidates": [
+      "Blood in Head",
+      "Migraine Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe remedies for blood in the head (l'dama d'reisha), matching exactly the prose under 'Blood in Head' which describes the same herbal boiling treatment and the white rose fallback remedy.",
+      "chosen_heading": "Blood in Head",
+      "current_heading": "Blood in Head",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Migraine Treatment",
+    "candidates": [
+      "Migraine Treatment",
+      "Cataracts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the wild rooster migraine remedy that exactly matches the prose under 'Migraine Treatment,' which discusses slaughtering a wild rooster with a silver coin on the painful side of the head and hanging the carcass on the doorpost.",
+      "chosen_heading": "Migraine Treatment",
+      "current_heading": "Migraine Treatment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Cataracts",
+    "candidates": [
+      "Cataracts",
+      "Night Blindness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the scorpion-based remedy for beroketi/frukita with the warning about eye bursting, which matches exactly the prose under 'Cataracts' (heading 0).",
+      "chosen_heading": "Cataracts",
+      "current_heading": "Cataracts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Night Blindness",
+    "candidates": [
+      "Night Blindness",
+      "Day Blindness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the remedy for night blindness (shavrire de-leilya), which exactly matches the prose under the 'Night Blindness' heading.",
+      "chosen_heading": "Night Blindness",
+      "current_heading": "Night Blindness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Day Blindness",
+    "candidates": [
+      "Day Blindness",
+      "Nosebleed Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the remedy for day blindness (shavrire de-yami) using animal spleens roasted on a bloodletter's shard, which matches exactly the prose under 'Day Blindness' (candidate 0).",
+      "chosen_heading": "Day Blindness",
+      "current_heading": "Day Blindness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Nosebleed Treatment",
+    "candidates": [
+      "Nosebleed Treatment",
+      "Mouth Blood Diagnosis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe the graduated sequence of nosebleed remedies \u2014 writing backwards, inscriptions, burning materials for nasal wicks, clay-soaked wool wicks, and sitting under a drainpipe \u2014 which exactly matches the 'Nosebleed Treatment' prose.",
+      "chosen_heading": "Nosebleed Treatment",
+      "current_heading": "Nosebleed Treatment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Mouth Blood Diagnosis",
+    "candidates": [
+      "Mouth Blood Diagnosis",
+      "Treifa Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the wheat straw diagnostic test for blood from the mouth, matching perfectly the prose under 'Mouth Blood Diagnosis' which explains the same test, its mechanism, and its conclusions about lung vs. liver origin.",
+      "chosen_heading": "Mouth Blood Diagnosis",
+      "current_heading": "Mouth Blood Diagnosis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Treifa Dispute",
+    "candidates": [
+      "Treifa Dispute",
+      "Lung Bleeding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the exchange between Rav Ami and Rav Ashi about the treifa laws of liver vs. lung, which is precisely what the 'Treifa Dispute' prose section describes.",
+      "chosen_heading": "Treifa Dispute",
+      "current_heading": "Treifa Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Lung Bleeding",
+    "candidates": [
+      "Lung Bleeding",
+      "Toothache"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the remedy for lung bleeding, which is exactly what the 'Lung Bleeding' section prose discusses in detail.",
+      "chosen_heading": "Lung Bleeding",
+      "current_heading": "Lung Bleeding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Toothache",
+    "candidates": [
+      "Toothache",
+      "Gum Disease"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a remedy for tooth pain (lekhakha/kucha), matching exactly the 'Toothache' section's prose about garlic ground with oil and salt applied to the thumbnail with a dough barrier.",
+      "chosen_heading": "Toothache",
+      "current_heading": "Toothache",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Gum Disease",
+    "candidates": [
+      "Gum Disease",
+      "Gum Blister"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses remedies for gum disease (chinchei), matching exactly the prose under 'Gum Disease' which describes the same treatments for le-ukmei and le-vshulei.",
+      "chosen_heading": "Gum Disease",
+      "current_heading": "Gum Disease",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Gum Blister",
+    "candidates": [
+      "Gum Blister",
+      "Birsam (Ammonia/Galbanum)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes opening and healing gum blisters using white cress blown through a wheat straw and dirt from under an outhouse kneaded with honey, which perfectly matches the 'Gum Blister' prose description of the same remedies.",
+      "chosen_heading": "Gum Blister",
+      "current_heading": "Gum Blister",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Birsam (Ammonia/Galbanum)",
+    "candidates": [
+      "Birsam (Ammonia/Galbanum)",
+      "Birsam (Milk Alternative)",
+      "Birsam (Excrement)",
+      "Gira Pain",
+      "Uncovered Water",
+      "Heart Palpitations",
+      "Heart Remedy Dispute",
+      "Heart Pain",
+      "Heart Pain",
+      "Stomach Ache",
+      "Roundworm",
+      "Bowel Remedies",
+      "Leeches Remedy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Birsam (Ammonia/Galbanum)",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the primary remedy for birsam (ammonia/galbanum preparation with honey and wine), which matches candidate 0's prose exactly.",
+      "second_heading": "Birsam (Milk Alternative)",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the milk-from-white-goat alternative with cabbage stalks and marjoram, plus the white dog feces remedy \u2014 both of which are covered under candidate 1 (milk alternative) and candidate 2 (excrement), but since item 2 contains both alternatives in one continuous passage, candidate 1 is the better starting point as it begins with the milk/marjoram portion that opens item 2.",
+      "current_heading": "Birsam (Ammonia/Galbanum)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Leeches Remedy",
+    "candidates": [
+      "Birsam (Milk Alternative)",
+      "Birsam (Excrement)",
+      "Gira Pain",
+      "Uncovered Water",
+      "Heart Palpitations",
+      "Heart Remedy Dispute",
+      "Heart Pain",
+      "Heart Pain",
+      "Stomach Ache",
+      "Roundworm",
+      "Bowel Remedies",
+      "Leeches Remedy",
+      "Goat Spleen (Oven)",
+      "Goat Spleen (Bricks)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage begins with the gira pain remedy that candidate 2's prose explicitly describes, and the entire sequence is a continuous list of medical remedies that starts there, making candidate 2 a better fit than the current placement at candidate 11 which only matches the final item.",
+      "chosen_heading": "Gira Pain",
+      "current_heading": "Leeches Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Goat Spleen (Bricks)",
+    "candidates": [
+      "Goat Spleen (Oven)",
+      "Goat Spleen (Bricks)",
+      "Dead Hand Remedy",
+      "Blacksmith Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both placing the spleen between bricks of a new house AND the dead hand remedy, but since item 1 covers both steps in sequence and the current placement under 'Goat Spleen (Bricks)' captures the first of these two remedies described, while 'Dead Hand Remedy' (index 2) covers only the second part \u2014 however, the passage actually combines both steps, and the current placement under index 1 is where this combined passage sits, making it the best single home given the sequential nature of the remedies described.",
+      "chosen_heading": "Goat Spleen (Bricks)",
+      "current_heading": "Goat Spleen (Bricks)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Blacksmith Water",
+    "candidates": [
+      "Dead Hand Remedy",
+      "Blacksmith Water",
+      "Wine Barrel/Health"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes roasting fish at a blacksmith's house, eating and drinking blacksmith water, and the goat anecdote \u2014 exactly what the 'Blacksmith Water' section prose describes.",
+      "chosen_heading": "Blacksmith Water",
+      "current_heading": "Blacksmith Water",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Shtar Concession",
+    "candidates": [
+      "Shtar Concession",
+      "Kiyum Debate",
+      "Minors Case",
+      "Reish Lakish Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items continue the Reish Lakish vs. Rabbi Yochanan exchange \u2014 Reish Lakish asks whether the baraita follows only Rabbi Meir, and Rabbi Yochanan responds that everyone agrees on modeh bishtar shekatavo ein tzarich lekaymo, which is precisely the tension the 'Reish Lakish Challenge' prose describes.",
+      "chosen_heading": "Reish Lakish Challenge",
+      "current_heading": "Shtar Concession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Reish Lakish Challenge",
+    "candidates": [
+      "Kiyum Debate",
+      "Minors Case",
+      "Reish Lakish Challenge",
+      "Rabbi Yochanan Denial",
+      "Rav Zeira Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Yochanan's flat denial that he ever said the family members were correct, attributing the statement to Elazar \u2014 which is precisely what the 'Rabbi Yochanan Denial' section's prose describes.",
+      "chosen_heading": "Rabbi Yochanan Denial",
+      "current_heading": "Reish Lakish Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Zeira Objects",
+    "candidates": [
+      "Rabbi Yochanan Denial",
+      "Rav Zeira Objects",
+      "Position Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's objection citing Rabbi Yannai's tradition and Rabbi Yochanan's exchange with Rabbi Yannai about kiyum hashtar, which exactly matches the 'Rav Zeira Objects' prose description.",
+      "chosen_heading": "Rav Zeira Objects",
+      "current_heading": "Rav Zeira Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Position Reversal",
+    "candidates": [
+      "Position Reversal",
+      "Story Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the reversal of attributed positions between Rabbi Meir and the Rabbis \u2014 item 1 establishes the reversal via Rabbeinu Yosef/Rav Yehuda/Shmuel, and item 2 shows the Gemara applying 'ipoch' to parallel sources \u2014 exactly what the 'Position Reversal' prose describes.",
+      "chosen_heading": "Position Reversal",
+      "current_heading": "Position Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Story Resolution",
+    "candidates": [
+      "Story Resolution",
+      "Age Question",
+      "18 or 20",
+      "Benei Brak Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Gemara exchange about reversing the opinions of Rabbi Yochanan and Rabbi Shimon ben Lakish regarding proof by witnesses vs. ratification of the deed, culminating in the chazaka about witnesses not signing for a minor \u2014 exactly the content described in the 'Story Resolution' prose.",
+      "chosen_heading": "Story Resolution",
+      "current_heading": "Story Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Benei Brak Story",
+    "candidates": [
+      "Age Question",
+      "18 or 20",
+      "Benei Brak Story",
+      "Saris Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Amoraic dispute between 18 and 20 years (item 1), followed by Rabbi Zeira's objection from the Benei Brak story (item 2) and its resolution regarding the twenty-year-old without pubic hair (item 3) \u2014 all of which directly address the '18 or 20' question, matching that heading's prose precisely, whereas the 'Benei Brak Story' heading's prose covers material that goes beyond what these items contain (the saris qualification) and the items are currently misplaced there.",
+      "chosen_heading": "18 or 20",
+      "current_heading": "Benei Brak Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Saris Exception",
+    "candidates": [
+      "Benei Brak Story",
+      "Saris Exception",
+      "Middle Age Rule",
+      "Medical Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Shmuel bar Rav Yitzchak's qualification that the saris rule applies only when signs of saris are present, and Rava's linguistic analysis of 'hu hasaris' \u2014 precisely what the 'Saris Exception' prose describes.",
+      "chosen_heading": "Saris Exception",
+      "current_heading": "Saris Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Medical Advice",
+    "candidates": [
+      "Middle Age Rule",
+      "Medical Advice",
+      "Within vs After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'until majority of his years' rule (Rabbi \u1e24iyya's baraita) and the practical weight-gain/loss advice \u2014 both appear in the same Talmudic passage \u2014 but the 'Middle Age Rule' prose explicitly discusses Rav Chiya's ad rov shenotav ruling and encompasses the full context, while 'Medical Advice' is a separate section that already has its own prose covering the weight advice; the single passage belongs under heading 0 which covers the complete ruling including its practical extension.",
+      "chosen_heading": "Middle Age Rule",
+      "current_heading": "Medical Advice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Within vs After",
+    "candidates": [
+      "Medical Advice",
+      "Within vs After",
+      "Irresponsibility Test",
+      "Acumen Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the toch zman dilemma \u2014 item 1 presents the dispute between Rava and Rava bar Rav Sheila, and item 2 provides the inference story about Rava's ruling \u2014 which is precisely what the 'Within vs After' section prose describes in detail.",
+      "chosen_heading": "Within vs After",
+      "current_heading": "Within vs After",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Acumen Exception",
+    "candidates": [
+      "Irresponsibility Test",
+      "Acumen Exception",
+      "Giddal Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the query about the fourteen-year-old girl with business acumen and the follow-up questions deflected with 'ma'aseh she'hayah' \u2014 are precisely what the 'Acumen Exception' prose describes, making the current placement correct.",
+      "chosen_heading": "Acumen Exception",
+      "current_heading": "Acumen Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Giddal Story",
+    "candidates": [
+      "Giddal Story",
+      "Three Categories",
+      "Testimony Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two halves of the Giddal bar Minyashi story \u2014 the first ruling (sale invalid after pit-throwing) and the reversal (sale valid after the Megillat Esther argument) \u2014 which the 'Giddal Story' prose describes in full detail, matching the passage exactly.",
+      "chosen_heading": "Giddal Story",
+      "current_heading": "Giddal Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Testimony Rights",
+    "candidates": [
+      "Three Categories",
+      "Testimony Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses testimony capacity for minors and the movable vs. land distinction, which is precisely what the 'Testimony Rights' prose analyzes.",
+      "chosen_heading": "Testimony Rights",
+      "current_heading": "Testimony Rights",
+      "moved": false
+    }
+  }
+]

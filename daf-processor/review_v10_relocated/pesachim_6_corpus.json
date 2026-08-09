@@ -1,0 +1,480 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Hiding & deposits issue",
+    "candidates": [
+      "Extension outside house",
+      "Hiding & deposits issue",
+      "Responsibility principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tension between the prohibition of hiding chametz or accepting gentile deposits (lo yimatzei) and the earlier ruling permitting one to see others' chametz, which is precisely what the 'Hiding & deposits issue' prose describes.",
+      "chosen_heading": "Hiding & deposits issue",
+      "current_heading": "Hiding & deposits issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Responsibility principle",
+    "candidates": [
+      "Responsibility principle",
+      "Mechuza soldiers case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the distinction between accepting responsibility and not accepting responsibility for the deposit, which is precisely what the 'Responsibility principle' section's prose discusses.",
+      "chosen_heading": "Responsibility principle",
+      "current_heading": "Responsibility principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Mechuza soldiers case",
+    "candidates": [
+      "Mechuza soldiers case",
+      "Svara vs. pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rava/Mechuza soldiers case with the exact reasoning about liability making chametz 'as theirs,' which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Mechuza soldiers case",
+      "current_heading": "Mechuza soldiers case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Svara vs. pasuk",
+    "candidates": [
+      "Svara vs. pasuk",
+      "Returned chametz case",
+      "Bechor ownership issue",
+      "Arnona tax case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the continuous Gemara discussion about davar hagorem lemamon vs. lo yimatzei \u2014 the two formulations (ika de-amri included) and the final answer about the chametz being returned intact \u2014 which is exactly what the 'Svara vs. pasuk' prose describes in detail.",
+      "chosen_heading": "Svara vs. pasuk",
+      "current_heading": "Svara vs. pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Arnona tax case",
+    "candidates": [
+      "Returned chametz case",
+      "Bechor ownership issue",
+      "Arnona tax case",
+      "Rava's exemption",
+      "Behemah vs. isah",
+      "Public knowledge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Arnona tax case",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the dilemma posed to Rava and his ruling (peturah where one cannot pay in money), which is precisely what candidate 2's prose describes as the arnona question and its parameters.",
+      "second_heading": "Behemah vs. isah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the 'ika de-amri' alternative formulation contrasting behemah (exempt) with isat ha-arnona (obligated in challah), which is exactly what candidate 4's prose describes as the behemah vs. isah distinction.",
+      "current_heading": "Arnona tax case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Public knowledge",
+    "candidates": [
+      "Rava's exemption",
+      "Behemah vs. isah",
+      "Public knowledge",
+      "Non-Jew's chametz entry",
+      "Designated space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains the distinction between animal (generates publicity) and dough (does not generate publicity), which is exactly what candidate 2 'Public knowledge' discusses with its prose about *behemah it lei kala, isah leit lei kala*.",
+      "chosen_heading": "Public knowledge",
+      "current_heading": "Public knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Designated space",
+    "candidates": [
+      "Non-Jew's chametz entry",
+      "Designated space",
+      "Tosafot view",
+      "Lo yimatze scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the complete baraita covering all three cases (entry with dough in hand, deposit, and designated space), and candidate 0's prose introduces this exact baraita as a whole unit, making it the natural home for the full text rather than splitting it under the 'Designated space' heading which only discusses part of it.",
+      "chosen_heading": "Non-Jew's chametz entry",
+      "current_heading": "Designated space",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Lo yimatze scope",
+    "candidates": [
+      "Tosafot view",
+      "Lo yimatze scope",
+      "Rav Ashi's view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement that the verse lo yimatze refers back to the first clause (areisha ka'i) about formal deposit, which is precisely what the 'Lo yimatze scope' section's prose discusses.",
+      "chosen_heading": "Lo yimatze scope",
+      "current_heading": "Lo yimatze scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Ashi's view",
+    "candidates": [
+      "Rav Ashi's view",
+      "Sekhirus kanya",
+      "Idolatry concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement explaining that the verse refers to the designated-space case because that space is considered the non-Jew's domain, which matches exactly the prose under 'Rav Ashi's view' (candidate 0).",
+      "chosen_heading": "Rav Ashi's view",
+      "current_heading": "Rav Ashi's view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Idolatry concern",
+    "candidates": [
+      "Sekhirus kanya",
+      "Idolatry concern",
+      "Torah exclusion",
+      "Matsui beyadecha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sekhirus kanya",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the challenge to 'shkhirut kanya' from the mishna about idolatry \u2014 it belongs under the 'Sekhirus kanya' heading which explicitly raises this very question about whether rental constitutes acquisition.",
+      "second_heading": "Torah exclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's resolution via the 'lo yimatzei' language of the Torah, which matches the 'Torah exclusion' heading's prose about 'shani hacha de-afkei rahmana bilshon lo yimatzei'.",
+      "current_heading": "Idolatry concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Matsui beyadecha",
+    "candidates": [
+      "Torah exclusion",
+      "Matsui beyadecha",
+      "Muktzeh covering",
+      "Hekdesh exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the kofeh alav keli ruling and the hekdesh exception together, and heading 2 ('Muktzeh covering') is where the essay prose begins discussing this Gemara passage, with heading 3 continuing it \u2014 but since this is a single quoted item covering both rulings, it belongs under the heading that introduces the topic, which is heading 2.",
+      "chosen_heading": "Muktzeh covering",
+      "current_heading": "Matsui beyadecha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Hekdesh exception",
+    "candidates": [
+      "Muktzeh covering",
+      "Hekdesh exception",
+      "Non-Jewish separation",
+      "30-day rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses erecting a mechitzah of ten tefachim around a gentile's chametz mishum heker, and the hekdesh exception, which matches exactly the prose of 'Non-Jewish separation' rather than the 'Hekdesh exception' heading which focuses only on the hekdesh ruling without the mechitzah/gentile chametz context.",
+      "chosen_heading": "Non-Jewish separation",
+      "current_heading": "Hekdesh exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "30-day rule",
+    "candidates": [
+      "Non-Jewish separation",
+      "30-day rule",
+      "Abaye's intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Rav's 30-day rule and Abaye's qualification in a single Talmudic excerpt, and the '30-day rule' section's prose covers both elements (the main ruling and the within-thirty-days obligation), making it the better unified home than splitting across two headings.",
+      "chosen_heading": "30-day rule",
+      "current_heading": "30-day rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Abaye's intent",
+    "candidates": [
+      "Abaye's intent",
+      "Rava's principle",
+      "Storehouse case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's exact formulation \u2014 afilu meRosh HaShana nami and the qualification ella she-ein da'ato lachzor \u2014 which is precisely what the 'Rava's principle' prose describes.",
+      "chosen_heading": "Rava's principle",
+      "current_heading": "Abaye's intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Storehouse case",
+    "candidates": [
+      "Rava's principle",
+      "Storehouse case",
+      "Issur hana'ah",
+      "Issur hana'ah paradox",
+      "Lav hanitak la'aseh",
+      "Pesach Sheini source",
+      "Pesach context",
+      "Two-week option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's storehouse ruling \u2014 the thirty-day threshold and the da'ato lefanoto qualification \u2014 which is precisely what the 'Storehouse case' prose describes and where the passage currently sits.",
+      "chosen_heading": "Storehouse case",
+      "current_heading": "Storehouse case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Two-week option",
+    "candidates": [
+      "Issur hana'ah",
+      "Issur hana'ah paradox",
+      "Lav hanitak la'aseh",
+      "Pesach Sheini source",
+      "Pesach context",
+      "Two-week option",
+      "Chronological order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All seven items together cover exactly the content described in candidate 5's prose: the debate between the first tanna (thirty days) and Rabban Shimon ben Gamliel (two weeks), the sources for each, and the gezeirah shavah of 'midbar-midbar' to establish that Moses spoke on Rosh Chodesh \u2014 precisely what candidate 5's prose narrates in full.",
+      "chosen_heading": "Two-week option",
+      "current_heading": "Two-week option",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Chronological order",
+    "candidates": [
+      "Chronological order",
+      "Single topic order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the principle 'ein mukdam u-meuchar ba-Torah' which is precisely what the prose under 'Chronological order' discusses, introducing this Talmudic statement as the lesson derived from the ordering anomaly in Sefer Ba-Midbar.",
+      "chosen_heading": "Chronological order",
+      "current_heading": "Chronological order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Single topic order",
+    "candidates": [
+      "Single topic order",
+      "Hermeneutics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Pappa's qualification about two separate matters vs. one matter, and the chronological integrity within a single inyan \u2014 is precisely what the 'Single topic order' prose describes, making the current placement correct.",
+      "chosen_heading": "Single topic order",
+      "current_heading": "Single topic order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Hermeneutics",
+    "candidates": [
+      "Hermeneutics",
+      "Bitul necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the hermeneutical problem of klal u-frat vs. prat u-chlal and the question of whether the principle applies across two different inyanim, which is precisely what the 'Hermeneutics' prose section elaborates in detail.",
+      "chosen_heading": "Hermeneutics",
+      "current_heading": "Hermeneutics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Bitul necessity",
+    "candidates": [
+      "Bitul necessity",
+      "Gluska yafa concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about why bitul is required after bedika \u2014 the ruling, the rejected crumbs rationale, and the baraita proof that guarding a property for one purpose does not render insignificant items significant \u2014 exactly matching the 'Bitul necessity' prose.",
+      "chosen_heading": "Bitul necessity",
+      "current_heading": "Bitul necessity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Gluska yafa concern",
+    "candidates": [
+      "Gluska yafa concern",
+      "Rav Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's gezeirah about finding a gluska yafa and the question of nullifying it upon discovery, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Gluska yafa concern",
+      "current_heading": "Gluska yafa concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Rav Elazar",
+    "candidates": [
+      "Rav Elazar",
+      "Rashi's ke'afra",
+      "Tosafot hefker",
+      "Ran's objection",
+      "Ran's alternative",
+      "Both positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Rabbi Elazar's statement about two things not in a person's possession yet treated by Torah as if they were \u2014 the pit in the public domain and chametz from the sixth hour \u2014 which is precisely what the prose under 'Rav Elazar' discusses.",
+      "chosen_heading": "Rav Elazar",
+      "current_heading": "Rav Elazar",
+      "moved": false
+    }
+  }
+]

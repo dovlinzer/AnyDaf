@@ -1,0 +1,471 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Blessing Order",
+    "candidates": [
+      "Blessing Order",
+      "Beit Shammai View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces the general dispute between Beit Shammai and Beit Hillel about the order of blessings at a meal, which matches the 'Blessing Order' section's prose about the gemara opening with debates concerning proper conduct of a meal and which berakhah comes first at kiddush.",
+      "chosen_heading": "Blessing Order",
+      "current_heading": "Blessing Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Beit Shammai View",
+    "candidates": [
+      "Beit Shammai View",
+      "Beit Hillel View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "These three items are all about ritual hand-washing order, napkin placement, and sweeping \u2014 practical meal-related disputes having nothing to do with the kiddush blessing order discussed in either candidate's prose \u2014 but they are closer to neither heading's content; however, since they must belong under one of the two candidates and Beit Hillel's prose at least references the continuation of related table-practice disputes (and the current placement under 'Beit Shammai View' seems wrong since these passages aren't about kiddush blessing order at all), the passage likely belongs under index 1 as the essay moves past the kiddush dispute into adjacent Beit Hillel/Shammai meal-practice disputes.",
+      "chosen_heading": "Beit Hillel View",
+      "current_heading": "Beit Shammai View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Beit Hillel View",
+    "candidates": [
+      "Beit Hillel View",
+      "Halakhah & Bas Kol"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Beit Hillel View",
+      "first_confidence": "low",
+      "first_reason": "Items 1-6 are Mishna passages on havdala and related topics that don't clearly match either candidate's prose but remain at current placement by default.",
+      "second_heading": "Halakhah & Bas Kol",
+      "second_confidence": "high",
+      "second_reason": "Items 7-9 are the Gemara/Tosefta discussing the kiddush debate, concluding with 'halakhah ke-Beit Hillel' and the tartei ninhu explanation, which directly matches candidate 1's prose about the baraita's conclusion and why Beit Hillel needed two reasons.",
+      "current_heading": "Beit Hillel View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Halakhah & Bas Kol",
+    "candidates": [
+      "Halakhah & Bas Kol",
+      "Why Beit Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why the baraita states the halakha follows Beit Hillel given the bas kol already declared this, which is precisely the introductory question addressed in the 'Halakhah & Bas Kol' section's prose before the fuller explanation continues.",
+      "chosen_heading": "Halakhah & Bas Kol",
+      "current_heading": "Halakhah & Bas Kol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Why Beit Hillel",
+    "candidates": [
+      "Why Beit Hillel",
+      "Lo BaShamayim Hi",
+      "Tosafot Resolution",
+      "Havdalah Sequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's two answers (before/after the Divine Voice, and Rabbi Yehoshua's principle) to the question of why the baraita must explicitly state we follow Beit Hillel, which is precisely what the 'Why Beit Hillel' section's prose discusses in detail.",
+      "chosen_heading": "Why Beit Hillel",
+      "current_heading": "Why Beit Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Havdalah Sequence",
+    "candidates": [
+      "Lo BaShamayim Hi",
+      "Tosafot Resolution",
+      "Havdalah Sequence",
+      "Attribution to Beit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about entering one's house at Motzaei Shabbat and reciting blessings in sequence, which is precisely the content described in the 'Havdalah Sequence' prose section.",
+      "chosen_heading": "Havdalah Sequence",
+      "current_heading": "Havdalah Sequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Attribution to Beit",
+    "candidates": [
+      "Attribution to Beit",
+      "Proving Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's initial question about the baraita's attribution \u2014 asking whether it is Beit Shammai or Beit Hillel \u2014 which directly matches the 'Attribution to Beit' section's prose describing exactly this preliminary question before the substance is addressed.",
+      "chosen_heading": "Attribution to Beit",
+      "current_heading": "Attribution to Beit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Proving Shammai",
+    "candidates": [
+      "Proving Shammai",
+      "Wine Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are a continuous chain of challenge-and-response proving the baraita is Beit Shammai according to Rabbi Yehuda, which is precisely what the 'Proving Shammai' prose describes.",
+      "chosen_heading": "Proving Shammai",
+      "current_heading": "Proving Shammai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Wine Contradiction",
+    "candidates": [
+      "Wine Contradiction",
+      "Euley vs. Afukey",
+      "Shabbat Symbolism",
+      "One Cup Case",
+      "Tosafot on Timing",
+      "Kos Requirement",
+      "Pagum & Water",
+      "Mishna Scenario",
+      "Mishna Meaning",
+      "Taste & Pagum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's answer distinguishing 'euley yoma' from 'afukey yoma,' which is precisely what the 'Euley vs. Afukey' section's prose describes as Beit Shammai's fundamental distinction driving the asymmetry.",
+      "chosen_heading": "Euley vs. Afukey",
+      "current_heading": "Wine Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Taste & Pagum",
+    "candidates": [
+      "Euley vs. Afukey",
+      "Shabbat Symbolism",
+      "One Cup Case",
+      "Tosafot on Timing",
+      "Kos Requirement",
+      "Pagum & Water",
+      "Mishna Scenario",
+      "Mishna Meaning",
+      "Taste & Pagum",
+      "Amount Question",
+      "Cup Size",
+      "Finger Dip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items directly continue the gemara's discussion of Beit Shammai's position on the one-cup case \u2014 item 1 raises whether Beit Shammai requires birkat ha-mazon al ha-kos and resolves that he sets the cup aside, and item 2 addresses the ta'am/pagum problem that arises from that resolution \u2014 exactly what heading 8 ('Taste & Pagum') describes in its prose.",
+      "chosen_heading": "Taste & Pagum",
+      "current_heading": "Taste & Pagum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Finger Dip",
+    "candidates": [
+      "Amount Question",
+      "Cup Size",
+      "Finger Dip",
+      "Baraita Position",
+      "Resolution",
+      "Fixing Pagum",
+      "Order Difference",
+      "Hefsek Theory",
+      "Psychological End",
+      "Intent Differs",
+      "Infinite Loop",
+      "Shammai Order"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Shammai Order",
+    "candidates": [
+      "Baraita Position",
+      "Resolution",
+      "Fixing Pagum",
+      "Order Difference",
+      "Hefsek Theory",
+      "Psychological End",
+      "Intent Differs",
+      "Infinite Loop",
+      "Shammai Order",
+      "Sheni Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about Beit Shammai and Beit Hillel disagreeing on whether hand-washing or mixing the wine cup takes precedence, which is precisely what the 'Shammai Order' section's prose introduces and discusses.",
+      "chosen_heading": "Shammai Order",
+      "current_heading": "Shammai Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Sheni Problem",
+    "candidates": [
+      "Sheni Problem",
+      "Hillel Order",
+      "Hillel Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Beit Shammai's position and the precise mechanism of why liquid is the necessary intermediary (yadayim sheiniyot, ein sheni oseh shlishi be-chullin ela al yedei mashkin), which is exactly what the 'Sheni Problem' prose explains in detail.",
+      "chosen_heading": "Sheni Problem",
+      "current_heading": "Sheni Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Hillel Logic",
+    "candidates": [
+      "Hillel Order",
+      "Hillel Logic",
+      "Liquid Conduit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Beit Hillel's ruling and its reasoning (pour first, then wash, lest liquid on hands become tamei through the cup), which is exactly what the 'Hillel Order' prose describes \u2014 the 'Hillel Logic' section instead discusses the underlying premises and mechanisms, not the primary statement of the ruling itself.",
+      "chosen_heading": "Hillel Order",
+      "current_heading": "Hillel Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Liquid Conduit",
+    "candidates": [
+      "Hillel Logic",
+      "Liquid Conduit",
+      "Outside Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states 'ein kli metamei adam \u2014 a vessel cannot render a person tamei directly,' which is precisely the principle the Liquid Conduit section's prose discusses as the answer to why liquid must serve as an intermediary.",
+      "chosen_heading": "Liquid Conduit",
+      "current_heading": "Liquid Conduit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Outside Tamei",
+    "candidates": [
+      "Outside Tamei",
+      "Core Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's question-and-answer about why the liquids inside the cup aren't rendered impure, and the Mishnaic ruling about a vessel whose outside is made tamei by liquid \u2014 exactly what the 'Outside Tamei' prose section discusses and quotes in detail.",
+      "chosen_heading": "Outside Tamei",
+      "current_heading": "Outside Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Core Dispute",
+    "candidates": [
+      "Core Dispute",
+      "Immediately Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's explanation of the core dispute between Beit Shammai and Beit Hillel regarding vessels whose exteriors are tamei by liquids, which is precisely what the 'Core Dispute' prose section describes.",
+      "chosen_heading": "Core Dispute",
+      "current_heading": "Core Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Immediately Before",
+    "candidates": [
+      "Immediately Before",
+      "Shammai: Table"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Beit Hillel's 'davar acher' reasoning about 'teichef li-netilat yadayim seudah' and the gemara's question about why this alternative argument is needed, which is precisely what the prose under 'Immediately Before' discusses.",
+      "chosen_heading": "Immediately Before",
+      "current_heading": "Immediately Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157
+    ],
+    "current_heading": "Shammai: Table",
+    "candidates": [
+      "Shammai: Table",
+      "Couch Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Mishna and Tosefta/baraita stating Beit Shammai's position about placing the towel on the table, which is exactly what heading 0 ('Shammai: Table') discusses, including the specific baraita text quoted in its prose.",
+      "chosen_heading": "Shammai: Table",
+      "current_heading": "Shammai: Table",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161,
+      162,
+      163
+    ],
+    "current_heading": "Couch Risk",
+    "candidates": [
+      "Couch Risk",
+      "Hillel: Couch",
+      "Table Risk",
+      "Liquid Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Couch Risk",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 (ein kli metamei kli / ein kli metamei adam) are explicitly discussed in the 'Couch Risk' prose as the two questions about why tumah must be routed through liquid rather than directly vessel-to-vessel or vessel-to-person.",
+      "second_heading": "Hillel: Couch",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Beit Hillel's ruling to place the towel on the cushion with the decree about table-liquids contaminating food, which is precisely what the 'Hillel: Couch' prose describes.",
+      "current_heading": "Couch Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Liquid Needed",
+    "candidates": [
+      "Hillel: Couch",
+      "Table Risk",
+      "Liquid Needed",
+      "Preferring Hands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains precisely why the table cannot render food impure directly \u2014 because a sheni can only create a shlishi in non-sacred items through liquids \u2014 which is exactly what the 'Liquid Needed' section's prose discusses.",
+      "chosen_heading": "Liquid Needed",
+      "current_heading": "Liquid Needed",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Father's Harvest vs. Son",
+    "candidates": [
+      "Father's Harvest vs. Son",
+      "Ulla: Son vs. Third Party"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah about the father detaching produce and the Gemara's implication about detached vs. attached produce \u2014 are precisely what the 'Father's Harvest vs. Son' prose describes and analyzes.",
+      "chosen_heading": "Father's Harvest vs. Son",
+      "current_heading": "Father's Harvest vs. Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Ulla: Son vs. Third Party",
+    "candidates": [
+      "Ulla: Son vs. Third Party",
+      "Da'ato Kerova: Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about appraising connected produce for the purchaser, which is the contradiction that heading 0's prose explicitly introduces and discusses as the starting point of the Ulla resolution.",
+      "chosen_heading": "Ulla: Son vs. Third Party",
+      "current_heading": "Ulla: Son vs. Third Party",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Da'ato Kerova: Intent",
+    "candidates": [
+      "Da'ato Kerova: Intent",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Ulla's resolution distinguishing the mishna (son) from the baraita (another person) based on da'ato kerova \u2014 paternal closeness \u2014 which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Da'ato Kerova: Intent",
+      "current_heading": "Da'ato Kerova: Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Mishnah Rule",
+      "Rava: Eldest Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the mishnah itself (adult/minor sons dividing equally, wedding expenses, and the parallel case for daughters), which is precisely what the 'Mishnah Rule' prose describes in detail.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Rava: Eldest Exception",
+    "candidates": [
+      "Rava: Eldest Exception",
+      "Wedding Costs Context"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wedding Costs Context",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a standalone mishnaic statement about daughters being sustained from sons' inheritance but not from daughters' inheritance \u2014 a self-contained halakhic principle that does not connect to Rava's ruling about the eldest brother's clothing.",
+      "second_heading": "Rava: Eldest Exception",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 form a continuous gemara unit \u2014 Rava's ruling about the eldest brother's clothing, the objection from the mishnah about adults not taking from minors, and the follow-up question about the obvious case of the unemployed brother \u2014 which matches exactly the 'Rava: Eldest Exception' prose.",
+      "current_heading": "Rava: Eldest Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Wedding Costs Context",
+    "candidates": [
+      "Wedding Costs Context",
+      "Parallel Halacha",
+      "Daughters Supported",
+      "Avuha bar Geniva Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question and Rav Yehuda's answer clarifying the mishnah's wedding expense rules for sons \u2014 exactly the content described in the 'Wedding Costs Context' prose.",
+      "chosen_heading": "Wedding Costs Context",
+      "current_heading": "Wedding Costs Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Avuha bar Geniva Question",
+    "candidates": [
+      "Parallel Halacha",
+      "Daughters Supported",
+      "Avuha bar Geniva Question",
+      "Raba: Daughters & Heir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the question sent by Avuh bar Geneiva to Rava \u2014 item 1 poses the case and item 2 spells out the halakhic stakes \u2014 which is precisely what heading 2 ('Avuha bar Geniva Question') describes in its prose.",
+      "chosen_heading": "Avuha bar Geniva Question",
+      "current_heading": "Avuha bar Geniva Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Raba: Daughters & Heir",
+    "candidates": [
+      "Raba: Daughters & Heir",
+      "Gemara Disputes Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Raba: Daughters & Heir",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 (Rava's proof from the mishnah and the gemara's rebuttal 'lo') correspond exactly to candidate 0's prose about Rava invoking the daughters' wedding-expense rule and the ambiguity of whether husbands received estate property.",
+      "second_heading": "Gemara Disputes Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rabbi \u1e24iyya's baraita explicitly stating the minors collect from the husbands) corresponds exactly to candidate 1's prose, which opens with Rabbi Hiyya's baraita 'nisat gedola le-ba'al yasia ketana mi-ba'al' and the subsequent deflection about parnasa being publicly known.",
+      "current_heading": "Raba: Daughters & Heir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Gemara Disputes Reading",
+    "candidates": [
+      "Gemara Disputes Reading",
+      "Ravin: Widow Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about 'dilma shani parnasa de-it lah kala' (wedding expenses generating publicity) is explicitly discussed in candidate 0's prose, which directly quotes and explains this exact Gemara deflection about constructive notice from well-known wedding costs.",
+      "chosen_heading": "Gemara Disputes Reading",
+      "current_heading": "Gemara Disputes Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Ravin: Widow Support",
+    "candidates": [
+      "Ravin: Widow Support",
+      "Yovel & Terminology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Ravin letter case and Rav Pappa's yoresh/lokeach inference from it, which is precisely what the 'Ravin: Widow Support' prose section describes in detail.",
+      "chosen_heading": "Ravin: Widow Support",
+      "current_heading": "Ravin: Widow Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Yovel & Terminology",
+    "candidates": [
+      "Yovel & Terminology",
+      "Usha Enactment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Abaye's proof from the Bekhorot mishna that the husband is a yoresh rather than a lokeach, which is precisely what the 'Yovel & Terminology' prose describes \u2014 the firstborn's portion not reverting at yovel and the yoresh et ishto clause.",
+      "chosen_heading": "Yovel & Terminology",
+      "current_heading": "Yovel & Terminology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Usha Enactment",
+    "candidates": [
+      "Usha Enactment",
+      "Rav Ashi: Yoresh/Lokeach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's challenge using the Usha enactment to argue the husband is a lokeach, which is precisely what the 'Usha Enactment' section's prose describes and analyzes.",
+      "chosen_heading": "Usha Enactment",
+      "current_heading": "Usha Enactment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Rav Ashi: Yoresh/Lokeach",
+    "candidates": [
+      "Rav Ashi: Yoresh/Lokeach",
+      "Large Estate Rule",
+      "Small Estate Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Rav Ashi resolution \u2014 the yoresh/lokeach principle and its challenge-and-answer \u2014 which is exactly what the 'Rav Ashi: Yoresh/Lokeach' prose section describes in detail, including the hatam inhu afseidu anafshaihu response to the buyers' loss objection.",
+      "chosen_heading": "Rav Ashi: Yoresh/Lokeach",
+      "current_heading": "Rav Ashi: Yoresh/Lokeach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Small Estate Rule",
+    "candidates": [
+      "Large Estate Rule",
+      "Small Estate Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Hadran formula marks the conclusion of tractate Yesh Nochalin, which signals the end of that perek and the transition to the next chapter \u2014 this belongs under the 'Large Estate Rule' heading, whose prose explicitly describes the gemara opening the next perek after the conclusion of Yesh Nochalin.",
+      "chosen_heading": "Large Estate Rule",
+      "current_heading": "Small Estate Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Small Estate Rule",
+    "candidates": [
+      "Small Estate Rule",
+      "Rav Yehuda Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself presenting the small estate rule, Admon's objection, and Rabban Gamliel's endorsement \u2014 exactly what the 'Small Estate Rule' prose section is explaining and analyzing.",
+      "chosen_heading": "Small Estate Rule",
+      "current_heading": "Small Estate Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Rav Yehuda Definition",
+    "candidates": [
+      "Rav Yehuda Definition",
+      "Raba: Before Threshold",
+      "After Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items define what constitutes a 'large' estate (12 months per Rav/Rabban Gamliel bar Rabbi vs. until bagrut per the Rabbis and Rabbi Yochanan), which is exactly what the 'Rav Yehuda Definition' prose discusses, including explicit quotation of both traditions.",
+      "chosen_heading": "Rav Yehuda Definition",
+      "current_heading": "Rav Yehuda Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "After Threshold",
+    "candidates": [
+      "Raba: Before Threshold",
+      "After Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rava ruling (*motzi'in lahen mezonot le-vanot... ve-ha-sha'ar le-vanim*) and the preceding challenge (*shakli lehu banot le-chulhu*) that candidate 0's prose explicitly discusses and quotes, making it a clearly better match than candidate 1.",
+      "chosen_heading": "Raba: Before Threshold",
+      "current_heading": "After Threshold",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Chayim as Klal",
+    "candidates": [
+      "Opening Context",
+      "Two Passages",
+      "Why List Animals?",
+      "Klal U-Prat Question",
+      "Rav's Interpretation",
+      "Chayim as Klal",
+      "Two Kelalim Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All nine items cover exactly the content described in heading 5's prose: Rava's identification of 'chayim' as the closing klal, the objection that the final klal is narrower than the opening klal, the response that this tanna follows Rabbi Yishmael's school, and the baraita's incremental logic showing why each additional animal (shor, seh, chamor, chayim) was needed, culminating in the question about 'himatzei timatzei' \u2014 all of which is precisely what heading 5 describes.",
+      "chosen_heading": "Chayim as Klal",
+      "current_heading": "Chayim as Klal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Two Kelalim Structure",
+    "candidates": [
+      "Two Kelalim Structure",
+      "Placing Shor",
+      "Level of Abstraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the mechanics of the klal-prat-klal derivation from 'himatzei timatzei' and the objection/resolution regarding two adjacent klalim \u2014 exactly what the 'Two Kelalim Structure' prose describes.",
+      "chosen_heading": "Two Kelalim Structure",
+      "current_heading": "Two Kelalim Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Level of Abstraction",
+    "candidates": [
+      "Placing Shor",
+      "Level of Abstraction",
+      "Ribui vs Klal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the step-by-step insertion of 'shor' and 'chamor' between the two klalim \u2014 exactly what heading 0 ('Placing Shor') describes \u2014 whereas heading 1's prose already summarizes this material as background before moving on to chamor and seh, making heading 0 the primary home for the actual Gemara text performing these derivations.",
+      "chosen_heading": "Placing Shor",
+      "current_heading": "Level of Abstraction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Ribui vs Klal",
+    "candidates": [
+      "Level of Abstraction",
+      "Ribui vs Klal",
+      "Three Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce and explain the ribui u-mi'ut v'ribui framework associated with tanna de-vei Rabbi Yishmael, which is precisely what the 'Ribui vs Klal' section's prose describes.",
+      "chosen_heading": "Ribui vs Klal",
+      "current_heading": "Ribui vs Klal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Three Exclusions",
+    "candidates": [
+      "Three Exclusions",
+      "Restore to Original",
+      "Option 1: Two Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the three exclusions (land, slaves, documents) plus the Rav teaching about restoring the principal, which is precisely what the 'Three Exclusions' prose describes in detail.",
+      "chosen_heading": "Three Exclusions",
+      "current_heading": "Three Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Option 1: Two Cases",
+    "candidates": [
+      "Restore to Original",
+      "Option 1: Two Cases",
+      "Option 2: Both To'ein",
+      "Modeh Bi-Knas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks what the 'one who says one verse is about a thief and one about a to'ein ta'anat ganav' derives from 'im himatzei timatzei,' which precisely matches the 'Option 1: Two Cases' section's description of the view that divides the two clauses between the ganav himself and the to'ein ta'anat ganav.",
+      "chosen_heading": "Option 1: Two Cases",
+      "current_heading": "Option 1: Two Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Modeh Bi-Knas",
+    "candidates": [
+      "Option 2: Both To'ein",
+      "Modeh Bi-Knas",
+      "Asher Yarshi'un"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically provides the Gemara's answer that the verse himatzei timatzei is needed for Rava bar Ahilai's derivation of modeh bi-knas, which candidate 0 describes as the exploration of what each view entails for deriving this rule \u2014 particularly in the context of Option 2 where himatzei timatzei is used for the ganav's scope of kefel, requiring another source (this one) for modeh bi-knas.",
+      "chosen_heading": "Option 2: Both To'ein",
+      "current_heading": "Modeh Bi-Knas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Asher Yarshi'un",
+    "candidates": [
+      "Modeh Bi-Knas",
+      "Asher Yarshi'un",
+      "Parsha Nishnita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items directly engage the dispute about how to derive the exemption for one who incriminates himself and what 'asher yarshi'un' versus 'himatzei timatzei' each teaches \u2014 exactly the content described in the 'Asher Yarshi'un' prose, including the divergent views on modeh bi-knas and whether witnesses arriving afterward create liability.",
+      "chosen_heading": "Asher Yarshi'un",
+      "current_heading": "Asher Yarshi'un",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Parsha Nishnita",
+    "candidates": [
+      "Parsha Nishnita",
+      "Kefel Without Shvu'a"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the school of Rabbi Yishmael's principle about repeated passages being repeated only for a new detail, which is exactly what candidate 0's prose describes under 'Parsha Nishnita'.",
+      "chosen_heading": "Parsha Nishnita",
+      "current_heading": "Parsha Nishnita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Kefel Without Shvu'a",
+    "candidates": [
+      "Kefel Without Shvu'a",
+      "Literal vs Broad",
+      "Yard & Enclosure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question and answer about whether a ganav pays kefel only with a shvu'a or even without one, which matches precisely the prose of candidate 0 ('Kefel Without Shvu'a') describing Abaye's kal v'chomer and Rabbi Yaakov's ruling that kefel applies she'lo b'shvu'a.",
+      "chosen_heading": "Kefel Without Shvu'a",
+      "current_heading": "Kefel Without Shvu'a",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Yard & Enclosure",
+    "candidates": [
+      "Literal vs Broad",
+      "Yard & Enclosure",
+      "Dual Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the complete argument about the dual purpose of *himatzei timatzei* \u2014 the challenge that the verse is already needed for the yard/enclosure expansion, and the resolution that the varied wording (*himatzei* vs *timatzei*) allows two halakhot to be derived simultaneously \u2014 which is precisely what candidate 2 ('Dual Purpose') describes in its prose.",
+      "chosen_heading": "Dual Purpose",
+      "current_heading": "Yard & Enclosure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Dual Purpose",
+    "candidates": [
+      "Yard & Enclosure",
+      "Dual Purpose",
+      "Rav's Principle",
+      "Fines by Trial",
+      "Rav Sheshet's Challenge",
+      "No Benefit to Ganav",
+      "Symmetry of Loss",
+      "Wine Barrel Case",
+      "Active Destruction",
+      "Active Destruction",
+      "Liability Breakdown",
+      "Ganav vs Shomer",
+      "Final Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's interrogation of Rav's principle \u2014 first challenging whether keren ke'ein sheganav conflicts with Rabba's barrel case, then resolving that Rav's rule applies to a case where value decreased, not increased \u2014 which is precisely the content discussed under 'Rav's Principle' (candidate 2), not the 'Dual Purpose' heading where it currently sits.",
+      "chosen_heading": "Rav's Principle",
+      "current_heading": "Dual Purpose",
+      "moved": true
+    }
+  }
+]

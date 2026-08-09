@@ -1,12 +1,9 @@
-# Bava Batra 37 — Daf Yomi Shiur
+[DAF:37a]
+## Chazakah: Years vs Crops
 
-## Chazakah: Years vs. Harvests
 
-### Opening & Previous Summary
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: מִדְּרַבִּי יִשְׁמָעֵאל נִשְׁמַע לְרַבָּנַן, הָיוּ לוֹ שְׁלֹשִׁים אִילָנוֹת – מִמַּטַּע עֲשָׂרָה לְבֵית סְאָה; אָכַל עֲשָׂרָה בְּשָׁנָה זוֹ, וַעֲשָׂרָה בְּשָׁנָה זוֹ, וַעֲשָׂרָה בְּשָׁנָה זוֹ – הֲרֵי זוֹ חֲזָקָה.
->
-> **Translation:** **Abaye said: From** the opinion **of Rabbi Yishmael we infer** the proper understanding of a detail of the opinion of **the Rabbis** who disagree with him, and hold that three years of harvesting one crop is required to establish the presumption of ownership even with regard to an orchard: If **one had thirty trees** of one type in a field, and they were **planted** with a density of **ten trees per** each **area required for sowing one *se'a* of seed [*beit se'a*],** and one **consumed** the produce of **ten** trees **in this** first **year, and** of another **ten** trees **in this** second **year, and** of another **ten** trees **in this** third **year, this is** sufficient to establish the **presumption** of ownership.
+### Opening & Previous Debate
 
 We pick up at the bottom of 36b, having just concluded a discussion about whether *nir* — upturning and tilling the soil — constitutes a valid *chazakah*. More significantly, the *Gemara* there established that the positions of Rabbi Yishmael and Rabbi Akiva in the *Mishnah* — permitting partial years at the beginning and end of the three-year period — represent only those two views. Rav and Shmuel clarified that the *Chachamim* require three full calendar years, while Shmuel adds that three full harvests may suffice, which could in principle be achieved in less than three years, provided the harvests themselves are complete.
 
@@ -28,11 +25,15 @@ On this reading, the lost-document rationale does not reduce to a fixed quantity
 
 ## Thirty Trees Example
 
+
+
 ### Thirty Trees Case
 
-> **Hebrew/Aramaic:** לָאו מִי אָמַר רַבִּי יִשְׁמָעֵאל: חַד פֵּירָא הָוֵי חֲזָקָה לְכוּלְּהוּ פֵּירֵי? הָכָא נָמֵי – הָנֵי הָווּ חֲזָקָה לְהָנֵי, וְהָנֵי הָווּ חֲזָקָה לְהָנֵי.
->
-> **Translation:** The Gemara explains the inference from the statement of Rabbi Yishmael and how it clarifies the opinion of the Rabbis: **Didn't Rabbi Yishmael say** that harvesting **one** type of **fruit is** sufficient to establish the **presumption** of ownership **for all** of the types of **fruit,** i.e., for the entire field? **Here too, these** trees **are** sufficient to establish the **presumption** of ownership **for those** trees, **and those** trees **are** sufficient to establish the **presumption** of ownership **for these** trees.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יִשְׁמָעֵאל: בַּמֶּה דְּבָרִים אֲמוּרִים – בִּשְׂדֵה הַלָּבָן. אָמַר אַבָּיֵי: מִדְּרַבִּי יִשְׁמָעֵאל נִשְׁמַע לְרַבָּנַן, הָיוּ לוֹ שְׁלֹשִׁים אִילָנוֹת – מִמַּטַּע עֲשָׂרָה לְבֵית סְאָה; אָכַל עֲשָׂרָה בְּשָׁנָה זוֹ, וַעֲשָׂרָה בְּשָׁנָה זוֹ, וַעֲשָׂרָה בְּשָׁנָה זוֹ – הֲרֵי זוֹ חֲזָקָה.
+> **Translation:** § The mishna teaches that **Rabbi Yishmael said: In what** case **is this statement,** that eighteen months are required to establish the presumption of ownership of a non-irrigated field, **said? With regard to a white field,** i.e., a grain field. But with regard to an orchard, harvesting three different crops suffices. **Abaye said: From** the opinion **of Rabbi Yishmael we infer** the proper understanding of a detail of the opinion of **the Rabbis** who disagree with him, and hold that three years of harvesting one crop is required to establish the presumption of ownership even with regard to an orchard: If **one had thirty trees** of one type in a field, and they were **planted** with a density of **ten trees per** each **area required for sowing one *se’a* of seed [*beit se’a*],** and one **consumed** the produce of **ten** trees **in this** first **year, and** of another **ten** trees **in this** second **year, and** of another **ten** trees **in this** third **year, this is** sufficient to establish the **presumption** of ownership.
+
+> **Hebrew/Aramaic:** לָאו מִי אָמַר רַבִּי יִשְׁמָעֵאל: חַד פֵּירָא הָוֵי חֲזָקָה לְכוּלְּהוּ פֵּירֵי? הָכָא נָמֵי – הָנֵי הָווּ חֲזָקָה לְהָנֵי, וְהָנֵי הָווּ חֲזָקָה לְהָנֵי.
+> **Translation:** The Gemara explains the inference from the statement of Rabbi Yishmael and how it clarifies the opinion of the Rabbis: **Didn’t Rabbi Yishmael say** that harvesting **one** type of **fruit is** sufficient to establish the **presumption** of ownership **for all** of the types of **fruit,** i.e., for the entire field? **Here too, these** trees **are** sufficient to establish the **presumption** of ownership **for those** trees, **and those** trees **are** sufficient to establish the **presumption** of ownership **for these** trees.
 
 With this background in place, the *Gemara* on 37a introduces a teaching of Abaye. The *Gemara* had just reviewed Rabbi Yishmael's position that in the case of an orchard, three different harvests within a single year — figs, grapes, and olives, for instance — can each count as one of the three required acts, so that *chazakah* is achieved within a single calendar year. *Amar Abaye*, says Abaye: *miderabbi Yishmael nishma lerabanan* — from Rabbi Yishmael's teaching we can derive something relevant even according to the *Rabbanan*, who reject his leniency and insist on three full years.
 
@@ -42,13 +43,13 @@ The *Gemara* rules: *harei zo chazakah* — this constitutes a valid *chazakah*.
 
 ### When Fruits Unavailable
 
-> **Hebrew/Aramaic:** וְהָנֵי מִילֵּי הֵיכָא דְּלָא אַפִּיקוּ, אֲבָל אַפִּיקוּ וְלָא אֲכַל – לָא הָוְיָא חֲזָקָה. וְהוּא דְּבַאזִּי בַּאזּוֹזֵי.
->
-> **Translation:** The Gemara notes two restrictions to the aforementioned ruling: **And this statement** applies specifically **where** the other twenty trees **did not produce** fruit, **but** if the other trees **produced** fruit **and** he did **not consume** their fruit, then his conduct **is not** sufficient to establish the **presumption** of ownership with regard to the other trees. **And this** principle, that consuming the produce of some of the trees each year establishes the **presumption** of ownership for the entire field, applies only if it is the case **that** the trees **are scattered [*devazei bazuzei*]** throughout the field. Otherwise, he establishes the **presumption** of ownership only over the section where the trees are located.
-
 The *Gemara* immediately qualifies this ruling. *V'hanei mili heicha d'lo afiki* — this applies only where the other trees have not yet produced their fruit. The logic is that when the ten trees being harvested are the only ones currently bearing fruit, the possessor's selective harvesting is not a conscious decision to ignore the rest; it simply reflects what is available. *Aval afiki v'lo achlinhu lo havei chazakah* — but if the other trees have already produced their fruit and the possessor is not harvesting them, he is effectively abandoning them, and that abandonment undermines the *chazakah*. The thirty-tree principle functions only when each year's harvest corresponds to what is naturally available that season, mirroring the logic of Rabbi Yishmael's case where each harvest type is in season at its own time.
 
+> **Hebrew/Aramaic:** וְהָנֵי מִילֵּי הֵיכָא דְּלָא אַפִּיקוּ, אֲבָל אַפִּיקוּ וְלָא אֲכַל – לָא הָוְיָא חֲזָקָה. וְהוּא דְּבַאזִּי בַּאזּוֹזֵי.
+> **Translation:** The Gemara notes two restrictions to the aforementioned ruling: **And this statement** applies specifically **where** the other twenty trees **did not produce** fruit, **but** if the other trees **produced** fruit **and** he did **not consume** their fruit, then his conduct **is not** sufficient to establish the **presumption** of ownership with regard to the other trees. **And this** principle, that consuming the produce of some of the trees each year establishes the **presumption** of ownership for the entire field, applies only if it is the case **that** the trees **are scattered [*devazei bazuzei*]** throughout the field. Otherwise, he establishes the **presumption** of ownership only over the section where the trees are located.
+
 ### Trees Interspersed
+
 
 The *Gemara* adds a second condition: *vehu debazei bizuyei* — the trees must be genuinely interspersed and scattered across the entire field. The term *bizuyei*, which the Rashbam explains as *lashon beziah*, connoting splitting or dispersal, requires that the ten trees harvested each year be distributed throughout the whole plot rather than clustered in their own section.
 
@@ -62,10 +63,11 @@ This condition also connects directly to the broader question of when a *chazaka
 
 ## Trees & Land Split
 
+
+
 ### Rav Zevid Position
 
-> **Hebrew/Aramaic:** זֶה הֶחְזִיק בָּאִילָנוֹת, וְזֶה הֶחְזִיק בַּקַּרְקַע – אָמַר רַב זְבִיד: זֶה קָנָה אִילָנוֹת, וְזֶה קָנָה קַרְקַע. מַתְקֵיף לַהּ רַב פָּפָּא: אִם כֵּן, אֵין לוֹ לְבַעַל אִילָנוֹת בַּקַּרְקַע כְּלוּם; לֵימָא לֵיהּ בַּעַל קַרְקַע לְבַעַל אִילָנוֹת: עֲקוֹר אִילָנָךְ, שְׁקוֹל וְזִיל! אֶלָּא אָמַר רַב פָּפָּא: זֶה קָנָה אִילָנוֹת וַחֲצִי קַרְקַע, וָזֶה קָנָה חֲצִי קַרְקַע.
->
+> **Hebrew/Aramaic:** זֶה הֶחְזִיק בָּאִילָנוֹת, וְזֶה הֶחְזִיק בַּקַּרְקַע – אָמַר רַב זְבִיד: זֶה קָנָה אִילָנוֹת, וְזֶה קָנָה קַרְקַע. מַתְקֵיף לַהּ רַב פָּפָּא: אִם כֵּן, אֵין לוֹ לְבַעַל אִילָנוֹת בַּקַּרְקַע כְּלוּם; לֵימָא לֵיהּ בַּעַל קַרְקַע לְבַעַל אִילָנוֹת: עֲקוֹר אִילָנָךְ, שְׁקוֹל וְזִיל! אֶלָּא אָמַר רַב פָּפָּא: זֶה קָנָה אִילָנוֹת וַחֲצִי קַרְקַע, וָזֶה קָנָה חֲצִי קַרְקַע.
 > **Translation:** § In a case where there was a field with trees in it, and **this** person **took possession of the trees and that** person **took possession of the land, Rav Zevid says: This** one **acquired** the **trees and that** one **acquired** the **land. Rav Pappa objects to this: If** this is **so,** then the **owner** of the **trees has no** share **in the land at all. Let** the **owner** of the **land say to** the **owner** of the **trees: Uproot your trees, take** them, **and go. Rather, Rav Pappa said: This** one **acquired** the **trees and half** of the **land, and that** one **acquired half** of the **land.**
 
 The *Gemara* now presents the following scenario. A plot of land with trees — originally owned by a single person — has been in the possession of two different individuals simultaneously for three years: one person, call him David, has been harvesting the fruit of the trees, while another, call her Jenna, has been working the land itself, perhaps cultivating a vegetable garden or otherwise making use of the soil. Each has maintained this conduct for the full three-year period. What does each one's *chazakah* establish?
@@ -78,15 +80,11 @@ Rav Zevid's position, read through Tosafot's lens, is that the two *chazakot* ar
 
 ### Rav Pappa Challenge
 
-*Ela amar Rav Pappa: zeh kanah ilanot v'chatzi karka, v'zeh kanah chatzi karka* — rather, says Rav Pappa, David has acquired the trees together with half the plot of land, while Jenna has acquired only the other half. Once we recognize that David's *chazakah* on the trees represents some claim to the land, and Jenna's *chazakah* encompasses the entire plot, the two competing claims on the land are treated as equal, yielding a half-and-half division.
+*Ela amar Rav Pappa: zeh kanah ilanot v'chatzi karka, v'zeh kanah chatzi karka* — rather, says Rav Pappa, David has acquired the trees together with half the plot of land, while Jenna has acquired only the other half. The logic behind this formulation is that once we accept, against Rav Zevid, that David's *chazakah* on the trees must carry with it some ownership of the land, David and Jenna are effectively two claimants with competing *chazakot* over the same plot of land — David's *chazakah* on the trees serving as his act of possession over the land, and Jenna's *chazakah* on the land serving as hers. When two parties each hold a *chazakah* over the same property and neither has a stronger claim than the other, the result is a half-and-half split. Once we recognize that David's *chazakah* on the trees represents some claim to the land, and Jenna's *chazakah* encompasses the entire plot, the two competing claims on the land are treated as equal, yielding a half-and-half division.
 
 The Rashbam, noting that this seems to swing sharply in the opposite direction, suggests that the figure of half is *lav davka* — not to be taken with strict literalism. David does not necessarily own exactly half of the full acreage; he owns the immediate area beneath and around the trees that is necessary for their survival. The word "half" may be an approximation or a way of saying that his claim on the land is substantial and cannot be reduced to zero, rather than a precise arithmetical division.
 
 ### One vs. Two Buyers
-
-> **Hebrew/Aramaic:** לְרַבִּי עֲקִיבָא אִית לֵיהּ – וַאֲפִילּוּ לְרַב זְבִיד דְּאָמַר: אֵין לוֹ – הָנֵי מִילֵּי גַּבֵּי שְׁנֵי לָקוֹחוֹת, דְּאָמַר לֵיהּ: כִּי הֵיכִי דִּלְדִידִי לֵית לִי בְּאִילָנוֹת, לְדִידָךְ נָמֵי לֵית לָךְ בְּקַרְקַע; אֲבָל הָכָא – מוֹכֵר בְּעַיִן יָפָה מוֹכֵר.
->
-> **Translation:** The Gemara stated previously that **according to** the opinion of **Rabbi Akiva,** the buyer **has** ownership of the land surrounding the trees. The Gemara clarifies this opinion: **And even according to Rav Zevid, who said** (37a) that in a case where one took possession of the land and another took possession of the trees, the one who took possession of the trees **has no** share in the land, **that matter** applies only **concerning** the case of **two buyers. As** in that case, the one who acquired the land can **say to** the other: **Just as** it is so **that I have no** share **in** the **trees, you also have no** share **in the land; but here,** where one sold the trees and left the land for himself, **one who sells, sells generously.** Therefore, it is reasonable to assume that the sale included the land surrounding the trees.
 
 Having established the competing positions of Rav Zevid and Rav Pappa in the two-buyer scenario, the *Gemara* now introduces the classic single-seller framework to illuminate why two buyers operates differently. The relevant principles are *mocher b'ayin yafah hu mocher* — a seller sells with a generous eye, the position of Rabbi Akiva — and *mocher b'ayin ra'ah hu mocher* — a seller sells with a narrow, self-interested eye, the position of the *Chachamim*.
 
@@ -98,19 +96,23 @@ What makes the two-buyer case categorically different is that when I have fully 
 
 ## Seller Keeps Trees
 
-### Trees Retained Case
 
-> **Hebrew/Aramaic:** פְּשִׁיטָא – מָכַר קַרְקַע, וְשִׁיֵּיר אִילָנוֹת לְפָנָיו – יֵשׁ לוֹ קַרְקַע. וַאֲפִילּוּ לְרַבִּי עֲקִיבָא, דְּאָמַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר, הָנֵי מִילֵּי גַּבֵּי בּוֹר וָדוּת –
->
-> **Translation:** The Gemara notes: It is **obvious** that if one **sold** a section of **land and left** the ownership of the **trees** in that land **for himself, he has** ownership of the **land** surrounding the trees. **And** this is the *halakha* **even according to** the opinion of **Rabbi Akiva, who says: One who sells, sells generously,** and he is presumed to have included in the sale even items that were not explicitly specified, because **that statement** applies only **concerning** a case such as when one sold land and retained ownership of **a pit or a cistern.** In that case, Rabbi Akiva ruled that he does not retain any land, not even a path to access the pit or cistern, as he sold generously, including all of the land in the sale.
+
+### Trees Retained Case
 
 The *Gemara* now turns to the scenario of a single seller and a single buyer, beginning with the case of *machar karka v'shayar ilanot* — the seller sells the land but retains the trees for himself. The *Gemara* states that this is *pishita* — obvious: *yesh lo karka*, the seller retains possession of some land that goes along with those trees. The Rashbam clarifies that this does not mean he retains the entire plot; he retains the land immediately around and beneath the trees that is necessary for their continued existence. Even if he retained only one or two trees while selling the land, since he is the original owner who has explicitly held back the trees, we presume that a reasonable amount of adjacent land is included in that retention.
 
+[DAF:37b]
 ### Trees vs. Wells
 
-> **Hebrew/Aramaic:** דְּלָא מַכְחֲשׁוּ בְּאַרְעָא, אֲבָל אִילָנוֹת, דְּקָמַכְחֲשִׁי בְּאַרְעָא – שַׁיּוֹרֵי שַׁיַּיר. דְּאִי לָא שַׁיַּיר, לֵימָא לֵיהּ: עֲקוֹר אִילָנָא וְזִיל.
->
-> **Translation:** The Gemara explains the difference between the cases: That ruling applies there, **as** the pit or cistern **causes no harm to the land** surrounding them, and since the seller does not foresee a conflict arising from his pit and cistern being located adjacent to the buyer's property, he therefore transfers the entire land. **But** in the case of his retaining the **trees, since they are causing harm to the land,** the seller does **leave** the land that is surrounding the trees for himself, **as if** he did **not leave** it, **let** the buyer **say to him: Uproot your trees and go.**
+> **Hebrew/Aramaic:** פְּשִׁיטָא – מָכַר קַרְקַע, וְשִׁיֵּיר אִילָנוֹת לְפָנָיו – יֵשׁ לוֹ קַרְקַע. וַאֲפִילּוּ לְרַבִּי עֲקִיבָא, דְּאָמַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר, הָנֵי מִילֵּי גַּבֵּי בּוֹר וָדוּת –
+> **Translation:** The Gemara notes: It is **obvious** that if one **sold** a section of **land and left** the ownership of the **trees** in that land **for himself, he has** ownership of the **land** surrounding the trees. **And** this is the *halakha* **even according to** the opinion of **Rabbi Akiva, who says: One who sells, sells generously,** and he is presumed to have included in the sale even items that were not explicitly specified, because **that statement** applies only **concerning** a case such as when one sold land and retained ownership of **a pit or a cistern.** In that case, Rabbi Akiva ruled that he does not retain any land, not even a path to access the pit or cistern, as he sold generously, including all of the land in the sale.
+
+> **Hebrew/Aramaic:** דְּלָא מַכְחֲשׁוּ בְּאַרְעָא, אֲבָל אִילָנוֹת,
+> **Translation:** The Gemara explains the difference between the cases: That ruling applies there, **as** the pit or cistern **causes no harm to the land** surrounding them, and since the seller does not foresee a conflict arising from his pit and cistern being located adjacent to the buyer’s property, he therefore transfers the entire land. **But** in the case of his retaining the **trees,**
+
+> **Hebrew/Aramaic:** דְּקָמַכְחֲשִׁי בְּאַרְעָא – שַׁיּוֹרֵי שַׁיַּיר. דְּאִי לָא שַׁיַּיר, לֵימָא לֵיהּ: עֲקוֹר אִילָנָא וְזִיל.
+> **Translation:** **since they are causing harm to the land,** the seller does **leave** the land that is surrounding the trees for himself, **as if** he did **not leave** it, **let** the buyer **say to him: Uproot your trees and go.**
 
 What makes this case obvious, and why does it differ from the classic case of the well? The *Gemara* explains: *ואפילו l'Rabbi Akiva d'amar mocher b'ayin yafah hu mocher* — even according to Rabbi Akiva, who ordinarily presumes that a seller acts generously and does not hold back more than he explicitly specified. The paradigmatic case for Rabbi Akiva's principle involves a well. If I sell my entire plot to Jenna but retain ownership of the well, and then I wish to walk to my well, Jenna can say: I did not sell you a path, go work that out for yourself. According to Rabbi Akiva, by selling with a generous eye I am assumed to have given Jenna everything right up to the edge of the well, retaining no access easement for myself.
 
@@ -122,11 +124,12 @@ Why does this same reasoning not strip away the land around the retained trees? 
 
 ## Seller Sells Trees
 
+
+
 ### Buyer Gets Land?
 
-> **Hebrew/Aramaic:** מָכַר אִילָנוֹת וְשִׁיֵּיר קַרְקַע לְפָנָיו – פְּלוּגְתָּא דְּרַבִּי עֲקִיבָא וְרַבָּנַן; לְרַבִּי עֲקִיבָא דְּאָמַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר – אִית לֵיהּ; לְרַבָּנַן – לֵית לֵיהּ.
->
-> **Translation:** The Gemara discusses the reverse case: If one **sold** the **trees and left** the ownership of the **land for himself,** the *halakha* depends on **the** outcome of the **dispute of Rabbi Akiva and the Rabbis. According to Rabbi Akiva, who says: One who sells, sells generously,** the buyer **has** ownership of the land surrounding the trees, as the presumption is that the seller included it in the sale. **According to the Rabbis,** who say: One who sells, sells sparingly, the buyer does **not have** ownership of the land surrounding the trees, as the presumption is that the seller did not include it in the sale.
+> **Hebrew/Aramaic:** מָכַר אִילָנוֹת וְשִׁיֵּיר קַרְקַע לְפָנָיו – פְּלוּגְתָּא דְּרַבִּי עֲקִיבָא וְרַבָּנַן; לְרַבִּי עֲקִיבָא דְּאָמַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר – אִית לֵיהּ; לְרַבָּנַן – לֵית לֵיהּ.
+> **Translation:** The Gemara discusses the reverse case: If one **sold** the **trees and left** the ownership of the **land for himself,** the *halakha* depends on **the** outcome of the **dispute of Rabbi Akiva and the Rabbis. According to Rabbi Akiva, who says: One who sells, sells generously,** the buyer **has** ownership of the land surrounding the trees, as the presumption is that the seller included it in the sale. **According to the Rabbis,** who say: One who sells, sells sparingly, the buyer **does not have** ownership of the land surrounding the trees, as the presumption is that the seller did not include it in the sale.
 
 The *Gemara* now addresses the reverse case: *machar ilanot v'shayar karka lefanav* — I sell David the trees and retain the land for myself. Here the outcome is explicitly a *plugta d'Rabbi Akiva v'Rabbanan* — a direct dispute between Rabbi Akiva and the *Chachamim*.
 
@@ -136,12 +139,10 @@ According to the *Rabbanan*, who rule *mocher b'ayin ra'ah hu mocher*, the sale 
 
 ### Two Buyers Analysis
 
-> **Hebrew/Aramaic:** לְרַבִּי עֲקִיבָא אִית לֵיהּ – וַאֲפִילּוּ לְרַב זְבִיד דְּאָמַר: אֵין לוֹ – הָנֵי מִילֵּי גַּבֵּי שְׁנֵי לָקוֹחוֹת, דְּאָמַר לֵיהּ: כִּי הֵיכִי דִּלְדִידִי לֵית לִי בְּאִילָנוֹת, לְדִידָךְ נָמֵי לֵית לָךְ בְּקַרְקַע; אֲבָל הָכָא – מוֹכֵר בְּעַיִן יָפָה מוֹכֵר.
->
+> **Hebrew/Aramaic:** לְרַבִּי עֲקִיבָא אִית לֵיהּ – וַאֲפִילּוּ לְרַב זְבִיד דְּאָמַר: אֵין לוֹ – הָנֵי מִילֵּי גַּבֵּי שְׁנֵי לָקוֹחוֹת, דְּאָמַר לֵיהּ: כִּי הֵיכִי דִּלְדִידִי לֵית לִי בְּאִילָנוֹת, לְדִידָךְ נָמֵי לֵית לָךְ בְּקַרְקַע; אֲבָל הָכָא – מוֹכֵר בְּעַיִן יָפָה מוֹכֵר.
 > **Translation:** The Gemara stated previously that **according to** the opinion of **Rabbi Akiva,** the buyer **has** ownership of the land surrounding the trees. The Gemara clarifies this opinion: **And even according to Rav Zevid, who said** (37a) that in a case where one took possession of the land and another took possession of the trees, the one who took possession of the trees **has no** share in the land, **that matter** applies only **concerning** the case of **two buyers. As** in that case, the one who acquired the land can **say to** the other: **Just as** it is so **that I have no** share **in** the **trees, you also have no** share **in the land; but here,** where one sold the trees and left the land for himself, **one who sells, sells generously.** Therefore, it is reasonable to assume that the sale included the land surrounding the trees.
 
-> **Hebrew/Aramaic:** לְרַבָּנַן לֵית לֵיהּ – וַאֲפִילּוּ לְרַב פָּפָּא דְּאָמַר: יֵשׁ לוֹ – הָנֵי מִילֵּי גַּבֵּי שְׁנֵי לָקוֹחוֹת, דְּאָמַר לֵיהּ: כִּי הֵיכִי דִּלְדִידָךְ זַבֵּין בְּעַיִן יָפָה, לְדִידִי נָמֵי זַבֵּין בְּעַיִן יָפָה; אֲבָל הָכָא – מוֹכֵר בְּעַיִן רָעָה מוֹכֵר.
->
+> **Hebrew/Aramaic:** לְרַבָּנַן לֵית לֵיהּ – וַאֲפִילּוּ לְרַב פָּפָּא דְּאָמַר: יֵשׁ לוֹ – הָנֵי מִילֵּי גַּבֵּי שְׁנֵי לָקוֹחוֹת, דְּאָמַר לֵיהּ: כִּי הֵיכִי דִּלְדִידָךְ זַבֵּין בְּעַיִן יָפָה, לְדִידִי נָמֵי זַבֵּין בְּעַיִן יָפָה; אֲבָל הָכָא – מוֹכֵר בְּעַיִן רָעָה מוֹכֵר.
 > **Translation:** The Gemara stated earlier that **according to** the opinion of **the Rabbis,** the buyer does **not have** ownership of the land surrounding the trees. The Gemara clarifies this opinion: **And even according to Rav Pappa, who says** above that in a case where one took possession of the land and another took possession of the trees that the one who took possession of the trees **has** ownership of half of the land as well, **that matter** applies only **concerning** the case of **two buyers. As** in that case, the one who acquired the trees can **say to** the other: **Just as** it is so **that** the seller **sold to you generously,** as you have both the land and the right to consume its produce, he **also sold to me generously,** including the land surrounding the trees; **but here,** where one sold the trees and left the land for himself, **one who sells, sells sparingly,** retaining for himself whatever he did not explicitly include in the sale.
 
 The *Gemara* then asks: how does Rav Zevid — who ruled that in the two-buyer case David has only trees and no land — coexist with Rabbi Akiva's principle that a seller of trees is presumed to give some land along with them? And conversely, how does Rav Pappa — who ruled that David gets trees plus half the land in the two-buyer case — coexist with the *Rabbanan*'s principle that a seller gives no land with trees?
@@ -160,11 +161,12 @@ The critical insight is that the *ein yafah* and *ein ra'ah* framework presuppos
 
 ## Packed Trees Nursery
 
+
+
 ### Packed Trees Rule
 
-> **Hebrew/Aramaic:** אָמְרִי נְהַרְדָּעֵי: אֲכָלָן רְצוּפִין – אֵין לוֹ חֲזָקָה. מַתְקֵיף לַהּ רָבָא: אֶלָּא מֵעַתָּה, הַאי מֵישָׁרָא דְאַסְפַּסְתָּא – בְּמַאי קָנֵי לַהּ? אֶלָּא אָמַר רָבָא: מְכָרָן רְצוּפִין – אֵין לוֹ קַרְקַע.
->
-> **Translation:** § The Sages **of Neharde'a say:** If one **consumed** the produce of **an overcrowded** orchard, **he** does **not** thereby **have presumptive ownership** of the orchard. **Rava objects to this: If that is so, how** does one ever **acquire this alfalfa field,** which is planted without spacing? **Rather, Rava said:** If one **sold an overcrowded** orchard, the buyer does **not have** ownership of the **land** surrounding the trees. Generally, if one purchases three or more trees, he acquires the surrounding land, as the trees are considered an orchard. If the trees are overcrowded, they will soon have to be uprooted, and that is why the buyer does not acquire the land surrounding the trees.
+> **Hebrew/Aramaic:** אָמְרִי נְהַרְדָּעֵי: אֲכָלָן רְצוּפִין – אֵין לוֹ חֲזָקָה. מַתְקֵיף לַהּ רָבָא: אֶלָּא מֵעַתָּה, הַאי מֵישָׁרָא דְאַסְפַּסְתָּא – בְּמַאי קָנֵי לַהּ? אֶלָּא אָמַר רָבָא: מְכָרָן רְצוּפִין – אֵין לוֹ קַרְקַע.
+> **Translation:** § The Sages **of Neharde’a say:** If one **consumed** the produce of **an overcrowded** orchard, **he** does **not** thereby **have presumptive ownership** of the orchard. **Rava objects to this: If that is so, how** does one ever **acquire this alfalfa field,** which is planted without spacing? **Rather, Rava said:** If one **sold an overcrowded** orchard, the buyer does **not have** ownership of the **land** surrounding the trees. Generally, if one purchases three or more trees, he acquires the surrounding land, as the trees are considered an orchard. If the trees are overcrowded, they will soon have to be uprooted, and that is why the buyer does not acquire the land surrounding the trees.
 
 The *Gemara* now shifts to a different problem. *Amri Naharda'ei: achlan retzupin ein lo chazakah* — the sages of Nahardea ruled that if one harvested trees that were packed in — *retzufin*, densely planted beyond the normal ratio — there is no *chazakah* on the land.
 
@@ -176,9 +178,8 @@ Rava challenges this ruling: *ela me'ata, hai mishra d'aspasta — be-mai kani l
 
 ### Dense Vineyard Debate
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: כְּתַנָּאֵי – כֶּרֶם שֶׁהוּא נָטוּעַ עַל פָּחוֹת מֵאַרְבַּע אַמּוֹת, רַבִּי שִׁמְעוֹן אוֹמֵר: אֵינוֹ כֶּרֶם. וַחֲכָמִים אוֹמְרִים: הֲרֵי זוֹ כֶּרֶם, וְרוֹאִין אֶת הָאֶמְצָעִיִּים כְּאִילּוּ אֵינָן.
->
-> **Translation:** **Rabbi Zeira said:** This is **like** a dispute between ***tanna'im*** (*Kilayim* 5:2): With regard to **a vineyard that is planted on** an area where there is **less than four cubits** of open space between the vines, **Rabbi Shimon says:** It is **not** considered to be **a vineyard** with regard to the prohibition of diverse kinds and other *halakhot*, as it is overcrowded. **And the Rabbis say: This is** considered to be **a vineyard, and** the reason for this is that **the middle** vines are **viewed as if** they **are not** there, and the outer vines meet the requirements for a vineyard. It follows that according to the opinion of the Rabbis, if one sold an overcrowded orchard, the middle trees would be viewed as if they were not there. Therefore, it would be considered an orchard and the buyer would acquire the land surrounding the trees.
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: כְּתַנָּאֵי – כֶּרֶם שֶׁהוּא נָטוּעַ עַל פָּחוֹת מֵאַרְבַּע אַמּוֹת, רַבִּי שִׁמְעוֹן אוֹמֵר: אֵינוֹ כֶּרֶם. וַחֲכָמִים אוֹמְרִים: הֲרֵי זוֹ כֶּרֶם, וְרוֹאִין אֶת הָאֶמְצָעִיִּים כְּאִילּוּ אֵינָן.
+> **Translation:** **Rabbi Zeira said:** This is **like** a dispute between ***tanna’im*** (*Kilayim* 5:2): With regard to **a vineyard that is planted on** an area where there is **less than four cubits** of open space between the vines, **Rabbi Shimon says:** It is **not** considered to be **a vineyard** with regard to the prohibition of diverse kinds and other *halakhot*, as it is overcrowded. **And the Rabbis say: This is** considered to be **a vineyard, and** the reason for this is that **the middle** vines are **viewed as if** they **are not** there, and the outer vines meet the requirements for a vineyard. It follows that according to the opinion of the Rabbis, if one sold an overcrowded orchard, the middle trees would be viewed as if they were not there. Therefore, it would be considered an orchard and the buyer would acquire the land surrounding the trees.
 
 *Amar Rav Zeira ke-tannai* — Rav Zeira observes that this dispute is foreshadowed in a *tannaitic* disagreement. The case is *kerem shenitua pachos me'arba amos* — a vineyard in which the rows of vines are spaced less than four *amos* apart, which is the standard minimum spacing for a proper vineyard. *Rabbi Shimon omer: eino kerem* — Rabbi Shimon rules that such a densely planted arrangement does not qualify as a vineyard at all.
 
@@ -192,11 +193,12 @@ Rav Zeira's point is that the debate between Nahardea's ruling and an alternativ
 
 ## Palm Tree Sale
 
+
+
 ### Palm Tree Depths
 
-> **Hebrew/Aramaic:** אָמְרִי נְהַרְדָּעֵי: הַאי מַאן דְּזָבֵין דִּקְלָא לְחַבְרֵיהּ – קָנֵי לֵיהּ מִשִּׁפּוּלֵיהּ עַד תְּהוֹמָא.
->
-> **Translation:** The Sages **of Neharde'a say: This one who sells a date tree to another,** the buyer **acquires** the land **from its bottom until the depths.**
+> **Hebrew/Aramaic:** אָמְרִי נְהַרְדָּעֵי: הַאי מַאן דְּזָבֵין דִּקְלָא לְחַבְרֵיהּ – קָנֵי לֵיהּ מִשִּׁפּוּלֵיהּ עַד תְּהוֹמָא.
+> **Translation:** The Sages **of Neharde’a say: This one who sells a date tree to another,** the buyer **acquires** the land **from its bottom until the depths.**
 
 *Amri Naharda'ei: hai man d'zavin dikla l'chaverei* — the sages of Nahardea further ruled that one who sells a palm tree to another person conveys to the buyer rights extending *mishipulei ad tehoma* — from the surface of the ground down to the very depths of the earth. The buyer acquires not merely the tree that stands above ground but all rights running vertically downward, all the way to the bottom.
 

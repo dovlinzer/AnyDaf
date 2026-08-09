@@ -1,0 +1,246 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Terumah/Challah Status",
+    "candidates": [
+      "Davar Ha-Nadur Intro",
+      "Terumah/Challah Status",
+      "Rambam's Approach",
+      "Ran's Question",
+      "Speech Act Power",
+      "Harei At Alai",
+      "Abaye Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the biblical derivation of the davar ha-nadur principle \u2014 asking from where we learn that a vow must be modeled on something forbidden by a vow rather than Torah law \u2014 which is precisely what the 'Davar Ha-Nadur Intro' prose describes as the daf's opening topic.",
+      "chosen_heading": "Davar Ha-Nadur Intro",
+      "current_heading": "Terumah/Challah Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Abaye Resolution",
+    "candidates": [
+      "Rambam's Approach",
+      "Ran's Question",
+      "Speech Act Power",
+      "Harei At Alai",
+      "Abaye Resolution",
+      "Talmid Chacham",
+      "Torah Vow Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's case of 'harei at alai ke-ima' and the contradicting baraita about 'kevasar ima' \u2014 this is precisely the setup described in the 'Harei At Alai' section's prose, which discusses this exact mishna and the technical invalidity of the formulation, before the Abaye/Rava resolutions follow in subsequent sections.",
+      "chosen_heading": "Harei At Alai",
+      "current_heading": "Abaye Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Torah Vow Baraita",
+    "candidates": [
+      "Talmid Chacham",
+      "Torah Vow Baraita",
+      "Textual Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Abaye/Rava's dispute and the supporting baraita (Rabbi Yo\u1e25anan + Rav Na\u1e25man) about the talmid chacham exemption, which is precisely what the 'Talmid Chacham' prose section describes and analyzes.",
+      "chosen_heading": "Talmid Chacham",
+      "current_heading": "Torah Vow Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Textual Analysis",
+    "candidates": [
+      "Torah Vow Baraita",
+      "Textual Analysis",
+      "Shvuah Explanation",
+      "Raavad Explanation",
+      "Yerushalmi Explanation",
+      "Why Bemah Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita distinguishing 'bah' from 'bemah shekasuv bah' and Rav Nachman's resolution via the Torah-on-ground vs. held-in-hand distinction, which is precisely what candidate 1 ('Textual Analysis') describes in its prose about the tanya on 14b and Rav Nachman's da'atei analysis.",
+      "chosen_heading": "Textual Analysis",
+      "current_heading": "Textual Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Why Bemah Works",
+    "candidates": [
+      "Shvuah Explanation",
+      "Raavad Explanation",
+      "Yerushalmi Explanation",
+      "Why Bemah Works",
+      "Mishnah Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's second and third 've-i ba'is eima' formulations explaining the baraita's structure \u2014 exactly what the 'Why Bemah Works' prose describes as the second and third formulations offered by the Gemara regarding whether the Torah is on the ground or held in hand.",
+      "chosen_heading": "Why Bemah Works",
+      "current_heading": "Why Bemah Works",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Mishnah Text",
+    "candidates": [
+      "Mishnah Text",
+      "Rav vs. Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself, discussing konam vows on actions (sleeping, speaking, walking) and the prohibition of 'lo yachel dvaro', which is exactly what the 'Mishnah Text' prose describes.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Mishnah Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rav vs. Nachman",
+    "candidates": [
+      "Rav vs. Nachman",
+      "Grammatical Problem",
+      "Eyes Resolution",
+      "Shvuah Sleep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Rav vs. Rav Na\u1e25man dispute about sleeping today when tomorrow is the condition, including Rav Yehuda's concession and the explanatory principle about being careful with a prohibition vs. a condition \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Rav vs. Nachman",
+      "current_heading": "Rav vs. Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Shvuah Sleep",
+    "candidates": [
+      "Grammatical Problem",
+      "Eyes Resolution",
+      "Shvuah Sleep",
+      "Itmar Debate",
+      "Concept Difference",
+      "Tosafot View",
+      "Physical Necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the grammatical/structural problem that sleep lacks physical substance (*davar she-ein bo mamash*) and therefore cannot be the subject of a *neder*, which is precisely what heading 0 ('Grammatical Problem') describes, before the resolution (heading 1 'Eyes Resolution') is introduced.",
+      "chosen_heading": "Grammatical Problem",
+      "current_heading": "Shvuah Sleep",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Physical Necessity",
+    "candidates": [
+      "Itmar Debate",
+      "Concept Difference",
+      "Tosafot View",
+      "Physical Necessity",
+      "Reframed Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about letting someone transgress 'bal yachel' and the Rabbi Yochanan proof from the oath about not sleeping three days \u2014 this is precisely the Talmudic source that Tosafot's section discusses, deriving that a neder which cannot be fulfilled does not take effect, using the shvuah comparison.",
+      "chosen_heading": "Tosafot View",
+      "current_heading": "Physical Necessity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Reframed Case",
+    "candidates": [
+      "Physical Necessity",
+      "Reframed Case",
+      "Semantic Puzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's reanalysis reframing the mishnah case as 'konam einai besheina lemachar im ishan hayom,' which is precisely what the 'Reframed Case' prose describes as the Gemara's argument about the tnai scenario.",
+      "chosen_heading": "Reframed Case",
+      "current_heading": "Reframed Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Semantic Puzzle",
+    "candidates": [
+      "Semantic Puzzle",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's final resolution \u2014 that the mishna refers to someone who already slept today, making the case retrospective rather than prospective, and constituting a refutation of Rav Yehuda \u2014 which precisely matches the 'Final Resolution' prose description.",
+      "chosen_heading": "Final Resolution",
+      "current_heading": "Semantic Puzzle",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Suma Embarrassing Others",
+    "candidates": [
+      "Mishnah Overview",
+      "Suma Embarrassing Others",
+      "Gezeirah Shavah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about Rabbi Yehuda's exemption of a blind person from boshet and related liabilities, which is precisely what the 'Suma Embarrassing Others' prose describes and analyzes.",
+      "chosen_heading": "Suma Embarrassing Others",
+      "current_heading": "Suma Embarrassing Others",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Gezeirah Shavah Source",
+    "candidates": [
+      "Gezeirah Shavah Source",
+      "Broader Exemptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezeirah shavah derivation linking 'einecha' in the boshet context to 'einecha' in eidim zomemin, which is precisely what the prose under 'Gezeirah Shavah Source' describes.",
+      "chosen_heading": "Gezeirah Shavah Source",
+      "current_heading": "Gezeirah Shavah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Broader Exemptions",
+    "candidates": [
+      "Broader Exemptions",
+      "Rabbi Meir Disagrees",
+      "Total Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items trace exactly the chain of reasoning described in the 'Broader Exemptions' prose: the baraita on belo re'ot, Rabbi Yehuda vs. Rabbi Meir on galut, the mi'ut achar mi'ut argument, bivli da'at excluding the intentional killer, the gezeirah shavah rotze'ach-rotze'ach for capital punishment, and rasha-rasha for lashes \u2014 matching the current placement precisely.",
+      "chosen_heading": "Broader Exemptions",
+      "current_heading": "Broader Exemptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Total Exemption",
+    "candidates": [
+      "Rabbi Meir Disagrees",
+      "Total Exemption",
+      "Rav Yosef's Stance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yehuda's exemption of the blind person from civil laws and all mitzvot with their scriptural derivations, which is precisely what the 'Total Exemption' prose describes in detail.",
+      "chosen_heading": "Total Exemption",
+      "current_heading": "Total Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Rav Yosef's Stance",
+    "candidates": [
+      "Rav Yosef's Stance",
+      "Metzuve vs. Eino Metzuve",
+      "Adam vs. Shor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Yosef's personal statement about his changed position regarding whether the halakha follows Rabbi Yehuda, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rav Yosef's Stance",
+      "current_heading": "Rav Yosef's Stance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Adam vs. Shor",
+    "candidates": [
+      "Metzuve vs. Eino Metzuve",
+      "Adam vs. Shor",
+      "Kiyum Lei Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage directly describes the stringency of a human over an ox (zeh chomer b'adam mibshor) with the five damage categories and dmei velados, which is exactly what the 'Adam vs. Shor' prose section discusses.",
+      "chosen_heading": "Adam vs. Shor",
+      "current_heading": "Adam vs. Shor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Kiyum Lei Doctrine",
+    "candidates": [
+      "Kiyum Lei Doctrine",
+      "Eved Ivri Injury"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the cases of striking parents without causing a bruise and injuring another on Yom Kippur, which is precisely what the 'Kiyum Lei Doctrine' prose discusses regarding kim lei b'drabba minei and when monetary liability is not displaced.",
+      "chosen_heading": "Kiyum Lei Doctrine",
+      "current_heading": "Kiyum Lei Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Eved Ivri Injury",
+    "candidates": [
+      "Eved Ivri Injury",
+      "Eved Kena'ani Injury",
+      "Cheresh Shoteh Katan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both eved ivri and eved kena'ani injury rules in a single mishnah, but the current placement under 'Eved Ivri Injury' is appropriate since that section's prose explicitly addresses both cases (own eved ivri and someone else's eved ivri/eved kena'ani), and the passage begins with the eved ivri rule which is the primary focus of that section.",
+      "chosen_heading": "Eved Ivri Injury",
+      "current_heading": "Eved Ivri Injury",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Cheresh Shoteh Katan",
+    "candidates": [
+      "Eved Kena'ani Injury",
+      "Cheresh Shoteh Katan",
+      "Woman & Slave Exempt",
+      "Future Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the mishna about cheresh, shoteh, and katan being exempt from liability while others are liable for injuring them, which is precisely what candidate 1's prose addresses.",
+      "chosen_heading": "Cheresh Shoteh Katan",
+      "current_heading": "Cheresh Shoteh Katan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Future Liability",
+    "candidates": [
+      "Woman & Slave Exempt",
+      "Future Liability",
+      "Father's Rights Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Future Liability') explicitly discusses all three items in order: the slave/woman exemption with future liability upon divorce/emancipation, the one who strikes parents or injures on Shabbat being exempt due to capital liability, and the one who injures his own Canaanite slave being exempt \u2014 matching the prose description precisely.",
+      "chosen_heading": "Future Liability",
+      "current_heading": "Future Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Father's Rights Query",
+    "candidates": [
+      "Father's Rights Query",
+      "Rav's Answer",
+      "Eved Ivri Challenge",
+      "Abaye Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Elazar's dilemma to Rav about injury payments for a minor daughter \u2014 the question and its two sides \u2014 which is precisely what the 'Father's Rights Query' prose describes in detail.",
+      "chosen_heading": "Father's Rights Query",
+      "current_heading": "Father's Rights Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Abaye Resolves",
+    "candidates": [
+      "Rav's Answer",
+      "Eved Ivri Challenge",
+      "Abaye Resolves",
+      "Second Challenge",
+      "Sheves Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the 'eved ivri' challenge and Abaye's resolution, but the final and most substantive content is Abaye's resolution (modeh rav besheves), which is precisely what the 'Abaye Resolves' section's prose discusses \u2014 and the current placement under index 2 is correct.",
+      "chosen_heading": "Abaye Resolves",
+      "current_heading": "Abaye Resolves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Sheves Only",
+    "candidates": [
+      "Second Challenge",
+      "Sheves Only",
+      "Unsupported Daughter",
+      "Sons Payment"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Sons Payment",
+    "candidates": [
+      "Unsupported Daughter",
+      "Sons Payment",
+      "Contradiction",
+      "Support = Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara raising a contradiction between the baraita's ruling about adult sons and another baraita showing exemption for one's own children \u2014 this is precisely the 'Contradiction' section's content, not the 'Sons Payment' section which describes the baraita's rulings without the challenge.",
+      "chosen_heading": "Contradiction",
+      "current_heading": "Sons Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Support = Rights",
+    "candidates": [
+      "Contradiction",
+      "Support = Rights",
+      "Father's Labor Rights",
+      "Unsupported Daughter",
+      "Windfall Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the gemara's resolution distinguishing between children dependent on the father's table versus not, which is exactly what the 'Support = Rights' section's prose describes and quotes directly.",
+      "chosen_heading": "Support = Rights",
+      "current_heading": "Support = Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Windfall Exception",
+    "candidates": [
+      "Father's Labor Rights",
+      "Unsupported Daughter",
+      "Windfall Exception",
+      "Segula Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain of challenges and resolutions about why a father who supports his children yields sheves to them when others injure them (windfall + suffering), why metziah is different (pure windfall, no suffering), and why the unsupported daughter's case involves a gavra kapdana \u2014 exactly the content described in the 'Windfall Exception' prose.",
+      "chosen_heading": "Windfall Exception",
+      "current_heading": "Windfall Exception",
+      "moved": false
+    }
+  }
+]

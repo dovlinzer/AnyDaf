@@ -1,0 +1,480 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rabbi Yehuda's Position",
+    "candidates": [
+      "Rabbi Yehuda's Position",
+      "Rambam's Approach",
+      "Issur Chal Problem",
+      "Timing of Prohibitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items are a continuous chain addressing the issur chal al issur problem \u2014 whether Rabbi Yehuda holds nerves impart flavor, the baraita proving he does, the fetus-timing solution, the challenge from the mishna, and the kosher/non-kosher distinction \u2014 which is precisely what the 'Issur Chal Problem' prose describes.",
+      "chosen_heading": "Issur Chal Problem",
+      "current_heading": "Rabbi Yehuda's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Timing of Prohibitions",
+    "candidates": [
+      "Rambam's Approach",
+      "Issur Chal Problem",
+      "Timing of Prohibitions",
+      "Bnei Noach Scope",
+      "Lashes Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items address the issur chal al issur problem\u2014whether the gid hanasheh prohibition can take effect on top of a pre-existing prohibition against non-kosher meat\u2014which is precisely what candidate 1 ('Issur Chal Problem') describes in its prose.",
+      "chosen_heading": "Issur Chal Problem",
+      "current_heading": "Timing of Prohibitions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Lashes Debate",
+    "candidates": [
+      "Bnei Noach Scope",
+      "Lashes Debate",
+      "Dilemma Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Rabbi Yehuda/Rabbi Shimon dispute about two lashes vs. exemption for eating the sciatic nerve of a non-kosher animal, which is precisely what the 'Lashes Debate' prose describes.",
+      "chosen_heading": "Lashes Debate",
+      "current_heading": "Lashes Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Dilemma Setup",
+    "candidates": [
+      "Dilemma Setup",
+      "No Taste Theory",
+      "Rava's Solution",
+      "Exclusion Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the *mah nafshach* dilemma against Rabbi Shimon\u2014covering both horns of the *issur chal al issur* question and the 'no taste' possibility\u2014which is precisely what the 'Dilemma Setup' prose describes.",
+      "chosen_heading": "Dilemma Setup",
+      "current_heading": "Dilemma Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Exclusion Logic",
+    "candidates": [
+      "No Taste Theory",
+      "Rava's Solution",
+      "Exclusion Logic",
+      "No Transgression",
+      "Gid as Meat?",
+      "Yotze Min HaTameh",
+      "Hoof Example",
+      "Taste & Properties",
+      "Gelatin/Rennet",
+      "Setup: Healthy\u2192Dead",
+      "Meir: Two Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement resolving the difficulty\u2014exactly what 'Rava's Solution' describes\u2014while 'Exclusion Logic' covers the interpretive elaboration of the verse's limiting scope, which is the essay author's own explanation of what Rava said rather than the Talmudic text itself.",
+      "chosen_heading": "Rava's Solution",
+      "current_heading": "Exclusion Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Meir: Two Lashes",
+    "candidates": [
+      "No Transgression",
+      "Gid as Meat?",
+      "Yotze Min HaTameh",
+      "Hoof Example",
+      "Taste & Properties",
+      "Gelatin/Rennet",
+      "Setup: Healthy\u2192Dead",
+      "Meir: Two Lashes",
+      "Sages: One Lash",
+      "Olah/Niskal Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage introduces the case of the sciatic nerve of an unslaughtered carcass (neveilah) and the dispute between Rabbi Meir and the Rabbis, which is precisely what the 'Setup: Healthy\u2192Dead' prose section introduces as the scenario, before the separate headings break down each position.",
+      "chosen_heading": "Setup: Healthy\u2192Dead",
+      "current_heading": "Meir: Two Lashes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Olah/Niskal Case",
+    "candidates": [
+      "Sages: One Lash",
+      "Olah/Niskal Case",
+      "Asur BeHana'ah",
+      "Two Exceptions",
+      "Kolel Defined",
+      "Neveila Example",
+      "Mosif Defined",
+      "Chamur Factor",
+      "Rashi vs. Rishonim",
+      "Meir's Kolel Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbis' concession to Rabbi Meir regarding the sciatic nerve of a burnt offering or stoned ox, which is exactly what the 'Olah/Niskal Case' heading describes.",
+      "chosen_heading": "Olah/Niskal Case",
+      "current_heading": "Olah/Niskal Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Meir's Kolel Logic",
+    "candidates": [
+      "Asur BeHana'ah",
+      "Two Exceptions",
+      "Kolel Defined",
+      "Neveila Example",
+      "Mosif Defined",
+      "Chamur Factor",
+      "Rashi vs. Rishonim",
+      "Meir's Kolel Logic",
+      "Sages' Position",
+      "Mystery Tanna",
+      "Tamei/Kodesh Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's search for the mystery tanna \u2014 item 1 poses the question of who holds kolel alone insufficient but kolel+chamur sufficient, and item 2 gives Rava's answer identifying Rabbi Yosi HaGelili \u2014 exactly what heading 9 ('Mystery Tanna') describes as its content.",
+      "chosen_heading": "Mystery Tanna",
+      "current_heading": "Meir's Kolel Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Tamei/Kodesh Mishna",
+    "candidates": [
+      "Sages' Position",
+      "Mystery Tanna",
+      "Tamei/Kodesh Mishna",
+      "Contradiction Raised"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishnaic text of Rabbi Yosi HaGelili's ruling on tamei/kodesh, which is exactly what the 'Tamei/Kodesh Mishna' section prose introduces and describes.",
+      "chosen_heading": "Tamei/Kodesh Mishna",
+      "current_heading": "Tamei/Kodesh Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Contradiction Raised",
+    "candidates": [
+      "Contradiction Raised",
+      "Order Matters",
+      "Person First: Agree",
+      "Meat First: Debate",
+      "Sages: Kolel Works",
+      "Yosi: Kolel Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbis' direct challenge to Rabbi Yosi HaGelili pointing out that a tamei person eating tahor kodesh inevitably renders it tamei first, which is precisely what the 'Contradiction Raised' prose describes.",
+      "chosen_heading": "Contradiction Raised",
+      "current_heading": "Contradiction Raised",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Yosi: Kolel Fails",
+    "candidates": [
+      "Order Matters",
+      "Person First: Agree",
+      "Meat First: Debate",
+      "Sages: Kolel Works",
+      "Yosi: Kolel Fails",
+      "Setup: Double Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All six items\u2014Rava's order-of-events distinction, the Rabbis' issur kolel argument, Rabbi Yosi HaGelili's rejection of kolel, the objection about issur chamur, and Rav Ashi's response\u2014form one continuous dialectical unit that the prose of heading 4 ('Yosi: Kolel Fails') explicitly summarizes in full, including the Rav Ashi point about meat's tumah being irremediable.",
+      "chosen_heading": "Yosi: Kolel Fails",
+      "current_heading": "Yosi: Kolel Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Setup: Double Day",
+    "candidates": [
+      "Setup: Double Day",
+      "Yosi: Two Korbanos",
+      "Akiva: One Korban",
+      "Yom Kippur Scope",
+      "Name Reversal Issue",
+      "Ravin's Correction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yosi: Two Korbanos",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita with the two opinions (Rabbi Yosei HaGelili requiring two korbanot, Rabbi Akiva requiring one), which matches the prose of candidates 1 and 2 that describe these positions \u2014 and since both opinions appear together in a single baraita, they fit best under candidate 1 ('Yosi: Two Korbanos') which introduces the dispute, with candidate 2 covering the opposing view; however the single baraita containing both opinions is best placed under the 'Name Reversal Issue' setup (candidate 4) since the whole point of citing the baraita is to show the attribution problem.",
+      "second_heading": "Ravin's Correction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravin's correction reversing the names, which matches candidate 5 ('Ravin's Correction') exactly.",
+      "current_heading": "Setup: Double Day",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Ravin's Correction",
+    "candidates": [
+      "Yosi: Two Korbanos",
+      "Akiva: One Korban",
+      "Yom Kippur Scope",
+      "Name Reversal Issue",
+      "Ravin's Correction",
+      "Forgot Shabbat",
+      "One Korban Shabbat",
+      "Forgot Yom Kippur",
+      "No Korban",
+      "Abaye: Shabbat Prior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the reversal of names (Rav Yitzchak bar Ya'akov bar Giyorei citing Rabbi Yochanan's statement about reversing the attributions) and the resulting rulings under Rabbi Yosi HaGelili's opinion after the reversal, which directly corresponds to the 'Ravin's Correction' section about the name reversal and its consequences.",
+      "chosen_heading": "Ravin's Correction",
+      "current_heading": "Ravin's Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Abaye: Shabbat Prior",
+    "candidates": [
+      "Forgot Shabbat",
+      "One Korban Shabbat",
+      "Forgot Yom Kippur",
+      "No Korban",
+      "Abaye: Shabbat Prior",
+      "Rava Objects",
+      "Rava: Shmad Case",
+      "E.Y. Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement explaining that Shabbat is fixed and permanent while Yom Kippur is established by the court, which is precisely the content described in the 'Abaye: Shabbat Prior' section's prose.",
+      "chosen_heading": "Abaye: Shabbat Prior",
+      "current_heading": "Abaye: Shabbat Prior",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "E.Y. Agreement",
+    "candidates": [
+      "Rava Objects",
+      "Rava: Shmad Case",
+      "E.Y. Agreement",
+      "Yehuda's Claim",
+      "Sages Object",
+      "Sinai Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's objection to Abaye AND his shmad explanation AND the Ravin confirmation, but the shmad explanation and Ravin confirmation are all part of Rava's single speech/conclusion, and candidate 1 ('Rava: Shmad Case') is the section whose prose encompasses all of this content including the Eretz Yisrael transmission, while candidate 0 covers only the objection and candidate 2 covers only the confirmation\u2014the full passage as a unit best fits under the heading that explains Rava's complete reinterpretation.",
+      "chosen_heading": "Rava: Shmad Case",
+      "current_heading": "E.Y. Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Sinai Proof",
+    "candidates": [
+      "Yehuda's Claim",
+      "Sages Object",
+      "Sinai Proof",
+      "Narrative Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's mishna statement claiming the gid hanasheh was forbidden to the bnei Yaakov before the Torah was given, which is precisely what the 'Yehuda's Claim' section prose describes.",
+      "chosen_heading": "Yehuda's Claim",
+      "current_heading": "Sinai Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Narrative Placement",
+    "candidates": [
+      "Sinai Proof",
+      "Narrative Placement",
+      "Rava's Proof",
+      "Name Change Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's core argument is that 'bnei Yisrael' indicates the prohibition was given at Sinai\u2014exactly what the 'Sinai Proof' section's prose discusses\u2014while the current placement under 'Narrative Placement' covers the subsequent explanation of why the verse was written in its narrative location, which is only a secondary point in the baraita.",
+      "chosen_heading": "Sinai Proof",
+      "current_heading": "Narrative Placement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      168
+    ],
+    "current_heading": "Name Change Timing",
+    "candidates": [
+      "Rava's Proof",
+      "Name Change Timing",
+      "Rav Aha Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's objection from the verse about carrying Jacob to Egypt, which is exactly what candidate 0 ('Rava's Proof') describes, while the current placement under 'Name Change Timing' describes the Gemara's *answer* to Rava's objection\u2014the passage only includes the answer briefly as 'after the incident' without elaborating, making candidate 0 the proper home for this challenge.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Name Change Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Rav Aha Query",
+    "candidates": [
+      "Name Change Timing",
+      "Rav Aha Query",
+      "Rav Ashi Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav A\u1e25a's question to Rav Ashi about whether the prohibition should apply from the moment of the name change, which matches exactly the prose under 'Rav Aha Query.'",
+      "chosen_heading": "Rav Aha Query",
+      "current_heading": "Rav Aha Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      174
+    ],
+    "current_heading": "Rav Ashi Reply",
+    "candidates": [
+      "Rav Ashi Reply",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's direct response rejecting the idea that Torah was given piecemeal, which exactly matches the 'Rav Ashi Reply' prose describing his rejection of a halachic mechanism outside of Har Sinai.",
+      "chosen_heading": "Rav Ashi Reply",
+      "current_heading": "Rav Ashi Reply",
+      "moved": false
+    }
+  }
+]

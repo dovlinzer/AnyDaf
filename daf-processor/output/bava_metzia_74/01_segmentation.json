@@ -53,8 +53,8 @@
           "timestamp": "06:51"
         }
       ],
-      "sefaria_index": 19,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Mari bar Rachel and the Mashkon (Collateral) House Case",
@@ -87,7 +87,7 @@
           "timestamp": "12:06"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -121,7 +121,7 @@
           "timestamp": "19:47"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -145,7 +145,7 @@
           "timestamp": "22:59"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -179,7 +179,7 @@
           "timestamp": "27:41"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -203,7 +203,7 @@
           "timestamp": "31:52"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -247,8 +247,8 @@
           "timestamp": "38:28"
         }
       ],
-      "sefaria_index": 19,
-      "matched": false
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Situmta and Communal Money: Unity of Purchase and Kinyonim",
@@ -422,7 +422,7 @@
           "timestamp": "56:04"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 15,
       "matched": true
     }
   ],
@@ -680,5 +680,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 12,
+  "amud_b_timestamp": "55:33",
+  "amud_b_micro_title": "Year-Round Dung",
+  "shiur_start_daf": 73,
+  "shiur_start_amud": "b"
 }

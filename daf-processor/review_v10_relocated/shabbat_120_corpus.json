@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Baraita Resolution",
+    "candidates": [
+      "Rabbi Yossi Position",
+      "Gerama Definition",
+      "Baraita Resolution",
+      "God's Name Gerama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's resolution of the baraita contradiction by reading it as entirely Rabbi Yossi's view using the 'incomplete baraita' (chisorei mechasra) formula, which is precisely what the 'Baraita Resolution' prose describes.",
+      "chosen_heading": "Baraita Resolution",
+      "current_heading": "Baraita Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "God's Name Gerama",
+    "candidates": [
+      "God's Name Gerama",
+      "Biblical vs Rabbanic",
+      "Anxiety & Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about God's name written on skin and the contradiction between Rabbi Yosei's positions, which is precisely what the 'God's Name Gerama' section's prose describes as its central content.",
+      "chosen_heading": "God's Name Gerama",
+      "current_heading": "God's Name Gerama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Anxiety & Fire",
+    "candidates": [
+      "Biblical vs Rabbanic",
+      "Anxiety & Fire",
+      "Tevilah Ba-Zmanah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Biblical vs Rabbanic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 continue the gerama/Biblical-vs-Rabbinic dialectic about erasing God's name vs. Shabbat and the Rabbis' internal contradiction, which matches the 'Biblical vs Rabbanic' prose about the de'rabbanan distinction and Rabbi Yossi's difference on Shabbat.",
+      "second_heading": "Anxiety & Fire",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 shift to the entirely different question of whether the reed covering works as a tevilah solution and Rava bar Rav Shila's explanation about standing naked before God's name, which matches the 'Anxiety & Fire' section's prose that explicitly covers the gemi/chatzitzah problem and Rava bar Rav Shila's ruling.",
+      "current_heading": "Anxiety & Fire",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Tevilah Ba-Zmanah",
+    "candidates": [
+      "Tevilah Ba-Zmanah",
+      "Non-Jew Fire Help"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the debate between the Rabbis and Rabbi Yosei about tevila bizmana \u2014 whether immersion at its designated time is a mitzva \u2014 including the baraita about Yom Kippur categories and the resolution identifying the dissenting Rabbi Yosei as Rabbi Yosei b'Rabbi Yehuda, which is precisely what the 'Tevilah Ba-Zmanah' prose describes.",
+      "chosen_heading": "Tevilah Ba-Zmanah",
+      "current_heading": "Tevilah Ba-Zmanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Non-Jew Fire Help",
+    "candidates": [
+      "Non-Jew Fire Help",
+      "Yosef ben Simai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about a gentile/minor coming to extinguish and the Gemara discussing Rabbi Ami's ruling about the indirect announcement \u2014 are explicitly discussed together in the 'Non-Jew Fire Help' prose, which covers exactly these texts in sequence.",
+      "chosen_heading": "Non-Jew Fire Help",
+      "current_heading": "Non-Jew Fire Help",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Yosef ben Simai",
+    "candidates": [
+      "Yosef ben Simai",
+      "Minor Agency",
+      "Acting for Parent",
+      "Non-Jew vs Minor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about Yosef ben Simai's fire in Shichin, which is exactly what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Yosef ben Simai",
+      "current_heading": "Yosef ben Simai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Non-Jew vs Minor",
+    "candidates": [
+      "Minor Agency",
+      "Acting for Parent",
+      "Non-Jew vs Minor",
+      "Covering Candles",
+      "Minor Excrement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the mishna's ruling about a minor coming to extinguish fire, the Gemara's attempt to derive a general principle about preventing minors from violations, and Rabbi Yochanan's answer about al daat aviv \u2014 all of which is the content described in candidate 0 ('Minor Agency'), not the subsequent discussion about the non-Jew comparison which belongs under candidate 2.",
+      "chosen_heading": "Minor Agency",
+      "current_heading": "Non-Jew vs Minor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Minor Excrement",
+    "candidates": [
+      "Covering Candles",
+      "Minor Excrement",
+      "Bird Droppings"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Covering Candles",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna that introduces covering a candle, child's feces, and a scorpion \u2014 exactly the content described in the 'Covering Candles' prose \u2014 and belongs there as the opening text of that section.",
+      "second_heading": "Minor Excrement",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 are the Gemara narrative about Rav Yehuda, Rav Yirmiya bar Abba, and Rav Chanan bar Rava visiting Avin, the challenge about child excrement not being muktzah, and the resolution to teach it as chicken droppings \u2014 precisely the content described in the 'Minor Excrement' prose.",
+      "current_heading": "Minor Excrement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Bird Droppings",
+    "candidates": [
+      "Bird Droppings",
+      "Scorpion Trapping",
+      "Dangerous Animals Kill",
+      "Five Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the graf shel re'i challenge, the vessel vs. direct removal question, Rav Ashi's mouse case, and the garbage dump in the courtyard resolution \u2014 all of which match precisely the prose under 'Bird Droppings.'",
+      "chosen_heading": "Bird Droppings",
+      "current_heading": "Bird Droppings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Five Animals",
+    "candidates": [
+      "Scorpion Trapping",
+      "Dangerous Animals Kill",
+      "Five Animals",
+      "Piety vs Pragmatism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with Rabbi Yehoshua ben Levi's ruling that all harmful creatures may be killed on Shabbat and then presents Rav Yosef's objection via the baraita of five animals \u2014 this sequence is precisely what the 'Dangerous Animals Kill' prose describes, whereas the 'Five Animals' heading prose covers the analysis that follows (whose opinion is the baraita, Rabbi Yehuda vs Rabbi Shimon, Rabbi Yirmiya's dismissal).",
+      "chosen_heading": "Dangerous Animals Kill",
+      "current_heading": "Five Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Piety vs Pragmatism",
+    "candidates": [
+      "Five Animals",
+      "Piety vs Pragmatism",
+      "Divine Providence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Piety vs Pragmatism' prose: item 1 is Rav Yosef's defense of the baraita and resolution (be'rutzo batreihu), and item 2 is the tanna's teaching before Rava bar Rav Huna about pious people and snakes/scorpions \u2014 both explicitly described in that section's prose.",
+      "chosen_heading": "Piety vs Pragmatism",
+      "current_heading": "Piety vs Pragmatism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Divine Providence",
+    "candidates": [
+      "Divine Providence",
+      "Incidental vs Proactive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about providential snakes/scorpions and Ulla/Rabbah bar bar Chana's qualification, which is precisely what the 'Divine Providence' section's prose describes and discusses.",
+      "chosen_heading": "Divine Providence",
+      "current_heading": "Divine Providence",
+      "moved": false
+    }
+  }
+]

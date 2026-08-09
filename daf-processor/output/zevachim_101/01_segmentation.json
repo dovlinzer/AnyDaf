@@ -68,7 +68,7 @@
           "timestamp": "09:07"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -92,7 +92,7 @@
           "timestamp": "12:26"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -136,7 +136,7 @@
           "timestamp": "21:44"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -170,7 +170,7 @@
           "timestamp": "27:06"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -199,7 +199,7 @@
           "timestamp": "31:03"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -826,5 +826,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "20:35",
+  "amud_b_micro_title": "Day vs. Night Alternative",
+  "shiur_start_daf": 100,
+  "shiur_start_amud": "b"
 }

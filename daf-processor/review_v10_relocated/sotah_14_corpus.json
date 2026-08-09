@@ -1,0 +1,348 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Hidden Grave",
+    "candidates": [
+      "Perek Transition",
+      "Lo Meis Moshe",
+      "Hidden Grave",
+      "Rabbi Chama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly concern the hidden grave of Moses \u2014 Rabbi Berekhya's 'sign within a sign' observation and the Roman garrison's failed search \u2014 which is precisely what the 'Hidden Grave' section's prose describes.",
+      "chosen_heading": "Hidden Grave",
+      "current_heading": "Hidden Grave",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rabbi Chama",
+    "candidates": [
+      "Rabbi Chama",
+      "Walking After God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Moses not knowing his burial place and the reason for burial near Beth Peor, which matches exactly the prose under 'Rabbi Chama' that describes the gezeirah shavah on 'ish' and the atonement for the sin of Peor.",
+      "chosen_heading": "Rabbi Chama",
+      "current_heading": "Rabbi Chama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Walking After God",
+    "candidates": [
+      "Walking After God",
+      "Six Acts Enumerated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question Rabbi \u1e24ama poses about walking after God and the challenge from 'devouring fire,' which is what heading 0's prose describes \u2014 the resolution and enumeration come later under heading 1.",
+      "chosen_heading": "Walking After God",
+      "current_heading": "Walking After God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Six Acts Enumerated",
+    "candidates": [
+      "Six Acts Enumerated",
+      "Character vs. Actions",
+      "Torah Bookended",
+      "Mitzvot in Land"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Six Acts Enumerated",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 belong under 'Six Acts Enumerated' \u2014 item 1 is the core enumeration of God's acts to imitate, and item 2 is a brief digression on the meaning of 'garments of skin' from that same verse, both directly discussed in that section's prose.",
+      "second_heading": "Torah Bookended",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Simlai's drasha that the Torah begins and ends with gemilus chasadim, which is precisely what the 'Torah Bookended' section's prose describes.",
+      "current_heading": "Six Acts Enumerated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Mitzvot in Land",
+    "candidates": [
+      "Character vs. Actions",
+      "Torah Bookended",
+      "Mitzvot in Land",
+      "God's Response",
+      "Isaiah 53 Exegesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Simlai's teaching about why Moses desired to enter the Land of Israel in order to fulfill mitzvot that can only be performed there, which is precisely what the 'Mitzvot in Land' section prose describes.",
+      "chosen_heading": "Mitzvot in Land",
+      "current_heading": "Mitzvot in Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Isaiah 53 Exegesis",
+    "candidates": [
+      "God's Response",
+      "Isaiah 53 Exegesis",
+      "Reward & Mitzvot",
+      "Egyptian Basket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous exegesis of Isaiah 53:12 applied to Moshe, which is precisely what candidate 1 ('Isaiah 53 Exegesis') describes in detail \u2014 the verse-by-verse parsing of lachen achalek lo varabbim through velafoshim yapgia, matching the prose of that section exactly.",
+      "chosen_heading": "Isaiah 53 Exegesis",
+      "current_heading": "Isaiah 53 Exegesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Egyptian Basket",
+    "candidates": [
+      "Reward & Mitzvot",
+      "Egyptian Basket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'Hadran alach hamekane le'ishto' is the closing Hadran formula for the chapter 'Hamekane le'ishto' (the first chapter of Sotah), which belongs at the end of the section discussing the Sotah procedure and the Egyptian basket mishnah, not under the Reward & Mitzvot section.",
+      "chosen_heading": "Egyptian Basket",
+      "current_heading": "Egyptian Basket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Egyptian Basket",
+    "candidates": [
+      "Egyptian Basket",
+      "Tosafot Reordering",
+      "Wearying Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna about the Egyptian basket, the contrast with other menachot regarding the service vessel, and the differences regarding oil, frankincense, barley vs. wheat, and Rabban Gamliel's statement \u2014 are explicitly discussed together in the 'Egyptian Basket' prose section, which walks through exactly this sequence of mishna content.",
+      "chosen_heading": "Egyptian Basket",
+      "current_heading": "Egyptian Basket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Wearying Purpose",
+    "candidates": [
+      "Tosafot Reordering",
+      "Wearying Purpose",
+      "Water & Minchah Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita from Abba \u1e24anin/Rabbi Eliezer about wearying the sota so she repents, and the kal va'chomer about God's concern for those who do His will \u2014 exactly what the 'Wearying Purpose' prose describes.",
+      "chosen_heading": "Wearying Purpose",
+      "current_heading": "Wearying Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Water & Minchah Order",
+    "candidates": [
+      "Water & Minchah Order",
+      "Standard Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Gemara exchange about whether the motivation is concern for the sota or concern about erasing God's name, resolved by the position that she drinks first and then the minchah is offered \u2014 precisely what the 'Water & Minchah Order' prose describes.",
+      "chosen_heading": "Water & Minchah Order",
+      "current_heading": "Water & Minchah Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Standard Procedure",
+    "candidates": [
+      "Standard Procedure",
+      "Kli Sharet Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the standard meal-offering procedure from the Tosefta/baraita that the Gemara raises as a contradiction to the mishna's claim \u2014 exactly the challenge discussed in the 'Standard Procedure' prose.",
+      "chosen_heading": "Standard Procedure",
+      "current_heading": "Standard Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Kli Sharet Debate",
+    "candidates": [
+      "Kli Sharet Debate",
+      "Respect Principle",
+      "Sanctification Acts"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Kli Sharet Debate",
+      "current_heading": "Kli Sharet Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Sanctification Acts",
+    "candidates": [
+      "Respect Principle",
+      "Sanctification Acts",
+      "Two Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether placing an item in a kli sharet requires intention to sanctify it, which is precisely what the 'Sanctification Acts' prose addresses \u2014 the question of whether the kli sharet automatically sanctifies or requires intentional placement.",
+      "chosen_heading": "Sanctification Acts",
+      "current_heading": "Sanctification Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Two Verses",
+    "candidates": [
+      "Two Verses",
+      "Hermeneutic Rule",
+      "Vedayo & Parallels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Two Verses",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 cover the procedural steps of the meal-offering (applying oil/frankincense, carrying to the priest, carrying to the altar, and presenting at the southwest corner) which matches heading 0's prose about the standard minchah procedure and hagashah at the southwest corner.",
+      "second_heading": "Hermeneutic Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20137 develop the two-verse derivation and then Rabbi Elazar's broader hermeneutic principle for resolving conflicting verses, which matches heading 1's prose about the general rule of choosing the inclusive verse over the exclusive one.",
+      "current_heading": "Two Verses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Vedayo & Parallels",
+    "candidates": [
+      "Hermeneutic Rule",
+      "Vedayo & Parallels",
+      "Altar Position",
+      "Frankincense Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the meaning of 'vedayo' and why the minchah need not physically touch the altar itself \u2014 the vessel contact suffices \u2014 which matches exactly the 'Vedayo & Parallels' prose about vedayo teaching that touching the vessel is sufficient and the minchah within the vessel need not contact the altar.",
+      "chosen_heading": "Vedayo & Parallels",
+      "current_heading": "Vedayo & Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Frankincense Removal",
+    "candidates": [
+      "Altar Position",
+      "Frankincense Removal",
+      "Double Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the frankincense removal procedure and the kometz taken from where oil accumulated, which is exactly what the 'Frankincense Removal' prose section describes.",
+      "chosen_heading": "Frankincense Removal",
+      "current_heading": "Frankincense Removal",
+      "moved": false
+    }
+  }
+]

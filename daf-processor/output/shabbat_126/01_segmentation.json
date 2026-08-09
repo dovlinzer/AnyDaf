@@ -34,7 +34,7 @@
           "timestamp": "04:50"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -78,7 +78,7 @@
           "timestamp": "15:04"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 23,
       "matched": false
     },
     {
@@ -107,7 +107,7 @@
           "timestamp": "19:30"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 23,
       "matched": false
     },
     {
@@ -422,5 +422,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "26:48",
+  "amud_b_micro_title": "List Reconciliation",
+  "shiur_start_daf": 126,
+  "shiur_start_amud": "a"
 }

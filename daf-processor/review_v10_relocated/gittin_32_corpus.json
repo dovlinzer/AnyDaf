@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Four Annulment Scenarios",
+    "candidates": [
+      "Perek Overview",
+      "Core Topics Preview",
+      "Get Nullification Concept",
+      "Four Annulment Scenarios",
+      "Cutoff Point Rule",
+      "Rabban Gamliel Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Mishnah passage describes exactly the four annulment scenarios (husband catches agent, sends second agent, races ahead to wife, sends agent to wife) plus the cutoff rule, which is precisely what the 'Four Annulment Scenarios' prose section discusses in detail.",
+      "chosen_heading": "Four Annulment Scenarios",
+      "current_heading": "Four Annulment Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabban Gamliel Takana",
+    "candidates": [
+      "Cutoff Point Rule",
+      "Rabban Gamliel Takana",
+      "Higia Intentionality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the original practice of secret annulment and Rabban Gamliel's takana forbidding it for tikkun olam, which is exactly what candidate 1 ('Rabban Gamliel Takana') discusses in its prose.",
+      "chosen_heading": "Rabban Gamliel Takana",
+      "current_heading": "Rabban Gamliel Takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Higia Intentionality",
+    "candidates": [
+      "Higia Intentionality",
+      "Second Shaliach Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's point about 'higia' (singular, incidental encounter) versus intentional pursuit, and the validity of bitul even when the husband happens upon the shaliach coincidentally, which is precisely what the 'Higia Intentionality' prose section describes.",
+      "chosen_heading": "Higia Intentionality",
+      "current_heading": "Higia Intentionality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Second Shaliach Override",
+    "candidates": [
+      "Second Shaliach Override",
+      "Reaching Wife Directly",
+      "Second Shaliach to Wife",
+      "Running After Shaliach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the mishna needed to state the second-shaliach scenario, explaining that one might have thought the second agent lacks the standing to override the first \u2014 precisely the concern articulated in the 'Second Shaliach Override' prose.",
+      "chosen_heading": "Second Shaliach Override",
+      "current_heading": "Second Shaliach Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Running After Shaliach",
+    "candidates": [
+      "Reaching Wife Directly",
+      "Second Shaliach to Wife",
+      "Running After Shaliach",
+      "Tosafot Devarim Shebelev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why the mishna needs to teach the case where the husband reaches his wife directly, addressing the concern that we might suspect he intends only to vex her (vadai letzura) \u2014 precisely the content described in the 'Reaching Wife Directly' prose section.",
+      "chosen_heading": "Reaching Wife Directly",
+      "current_heading": "Running After Shaliach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Tosafot Devarim Shebelev",
+    "candidates": [
+      "Running After Shaliach",
+      "Tosafot Devarim Shebelev",
+      "Valid Invalid Formulas",
+      "Batel Status vs Effect",
+      "Matana Gift Comparison"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tosafot Devarim Shebelev",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 continue the Gemara's analysis of the Mishnah's cases about sending an agent and the get reaching her possession \u2014 topics squarely addressed in the 'Tosafot Devarim Shebelev' section's discussion of communicated vs. uncommunicated bitul and the retroactive clarification scenario.",
+      "second_heading": "Valid Invalid Formulas",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Baraita about valid and invalid formulas for bitul (batel hu / ee efshi bo vs. pasul hu / eino get), which is precisely what the 'Valid Invalid Formulas' prose section describes.",
+      "current_heading": "Tosafot Devarim Shebelev",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Matana Gift Comparison",
+    "candidates": [
+      "Valid Invalid Formulas",
+      "Batel Status vs Effect",
+      "Matana Gift Comparison",
+      "Abaye Context Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the Gemara's question about whether 'batel' means prescriptive (let it become void) or descriptive (already void from the beginning), which is precisely what the 'Batel Status vs Effect' section's prose discusses, whereas the current placement under 'Matana Gift Comparison' is where the gift ruling is introduced as evidence within that broader linguistic question.",
+      "chosen_heading": "Batel Status vs Effect",
+      "current_heading": "Matana Gift Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Abaye Context Analysis",
+    "candidates": [
+      "Matana Gift Comparison",
+      "Abaye Context Analysis",
+      "Batel Without Hu",
+      "Rav Sheshet Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Abaye's analysis of *batel*'s dual meanings, his tradition about gift agents paralleling get agents, and Ravina's unresolved dilemma about *batel* without *hu* \u2014 are all discussed together in the 'Abaye Context Analysis' prose, which explicitly covers each of these points in sequence.",
+      "chosen_heading": "Abaye Context Analysis",
+      "current_heading": "Abaye Context Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rav Sheshet Baraita",
+    "candidates": [
+      "Batel Without Hu",
+      "Rav Sheshet Baraita",
+      "Harei Hu Cheres",
+      "Hekdesh Hefker Compare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Sheshet baraita contrasting effective forward-looking formulas ('shall not') with ineffective descriptive formulas ('does not'), which is precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Rav Sheshet Baraita",
+      "current_heading": "Rav Sheshet Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Hekdesh Hefker Compare",
+    "candidates": [
+      "Harei Hu Cheres",
+      "Hekdesh Hefker Compare",
+      "Chozer Question",
+      "Nachman Sheshet Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about 'harei hu cheres' and then introduces the comparison to hekdesh/hefker as part of answering that dilemma \u2014 the entire unit belongs under the 'Harei Hu Cheres' heading where the question is posed, not under a separate heading for the comparison.",
+      "chosen_heading": "Harei Hu Cheres",
+      "current_heading": "Hekdesh Hefker Compare",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Nachman Sheshet Dispute",
+    "candidates": [
+      "Chozer Question",
+      "Nachman Sheshet Dispute",
+      "Kiddushin Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav Nachman/Rav Sheshet dispute and the halakhic ruling in favor of Rav Nachman, which is precisely what the 'Nachman Sheshet Dispute' prose section describes.",
+      "chosen_heading": "Nachman Sheshet Dispute",
+      "current_heading": "Nachman Sheshet Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Kiddushin Parallel",
+    "candidates": [
+      "Kiddushin Parallel",
+      "Dibbur Umaseh Analysis",
+      "Tosafot Annul Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rabbi Yo\u1e25anan's ruling that a woman can retract kiddushin within thirty days, which is precisely what the 'Kiddushin Parallel' section's prose discusses \u2014 the comparison to kiddushin and the established halakha following Rabbi Yo\u1e25anan that she can retract (chozeret).",
+      "chosen_heading": "Kiddushin Parallel",
+      "current_heading": "Kiddushin Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Tosafot Annul Get",
+    "candidates": [
+      "Dibbur Umaseh Analysis",
+      "Tosafot Annul Get",
+      "Barishonah Original"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection comparing speech-cancels-speech (kiddushin) vs. speech cannot cancel a tangible get, which is precisely what the 'Dibbur Umaseh Analysis' prose describes in detail, while the current heading 'Tosafot Annul Get' discusses Tosafot's later commentary on this point.",
+      "chosen_heading": "Dibbur Umaseh Analysis",
+      "current_heading": "Tosafot Annul Get",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Barishonah Original",
+    "candidates": [
+      "Tosafot Annul Get",
+      "Barishonah Original",
+      "Two Three Judges",
+      "Agency vs Document"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the barishonah clause and the dispute between Rav Nachman and Rav Sheshet over two versus three, which is exactly what the 'Barishonah Original' prose describes as its topic.",
+      "chosen_heading": "Barishonah Original",
+      "current_heading": "Barishonah Original",
+      "moved": false
+    }
+  }
+]

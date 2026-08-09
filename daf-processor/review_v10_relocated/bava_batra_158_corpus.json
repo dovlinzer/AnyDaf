@@ -1,0 +1,167 @@
+[
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Milog Reasoning",
+    "candidates": [
+      "Daf Overview",
+      "Father & Son Case",
+      "Beit Shammai/Hillel",
+      "Case Setup",
+      "Competing Claims",
+      "Three Property Types",
+      "Ketubah Analysis",
+      "Nichsei Milog",
+      "Milog Reasoning",
+      "General Property"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Case Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the husband-wife collapse case with competing inheritance claims, matching 'Case Setup' prose which explicitly introduces 'nafal habayit alav ve-al ishto' and the Yaakov/Rachel scenario.",
+      "second_heading": "Beit Shammai/Hillel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Beit Shammai/Beit Hillel dispute on how to divide the property, matching 'Beit Shammai/Hillel' prose which discusses yachloku and nechasim bechezkatan in the husband-wife collapse case.",
+      "current_heading": "Milog Reasoning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "General Property",
+    "candidates": [
+      "Milog Reasoning",
+      "General Property",
+      "Rashbam Interpretation",
+      "Tosafot Interpretation",
+      "Case Setup",
+      "Competing Claims",
+      "Unanimous Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's three-way dispute (Rabbi Yo\u1e25anan, Rabbi Elazar, Bar Kappara) over whose possession the guaranteed property remains in, which is precisely what the 'General Property' section's prose describes \u2014 including the exact question 'bechezkos mi?' and the three positions including Bar Kappara's 'yachloku' ruling and baraita.",
+      "chosen_heading": "General Property",
+      "current_heading": "General Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Unanimous Split",
+    "candidates": [
+      "Rashbam Interpretation",
+      "Tosafot Interpretation",
+      "Case Setup",
+      "Competing Claims",
+      "Unanimous Split",
+      "Rabbi Akiva Dispute",
+      "Ben Azzai Retort"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Case Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah presenting the house-collapsed-on-son-and-mother case, which the 'Case Setup' prose explicitly introduces as the next mishnah variant with the exact same scenario.",
+      "second_heading": "Rabbi Akiva Dispute",
+      "second_confidence": "medium",
+      "second_reason": "Items 2-3 are the Gemara discussion of Rabbi Akiva's position \u2014 specifically 'bechezkos mi' and the answer about the mother's tribe \u2014 which fits under 'Rabbi Akiva Dispute' rather than the current 'Unanimous Split' heading.",
+      "current_heading": "Unanimous Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Ben Azzai Retort",
+    "candidates": [
+      "Rabbi Akiva Dispute",
+      "Ben Azzai Retort",
+      "Rabbi Ila/Zeira",
+      "Zeira Converts",
+      "Abaye Reasoning",
+      "Patriarchy Logic",
+      "Text Corruption",
+      "Presale Case",
+      "Transaction Sequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Ben Azzai's retort to Rabbi Akiva and the Gemara's digression about Ben Azzai being a talmid chaver of Rabbi Akiva, which is precisely what the 'Ben Azzai Retort' section's prose describes.",
+      "chosen_heading": "Ben Azzai Retort",
+      "current_heading": "Ben Azzai Retort",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Transaction Sequence",
+    "candidates": [
+      "Rabbi Ila/Zeira",
+      "Zeira Converts",
+      "Abaye Reasoning",
+      "Patriarchy Logic",
+      "Text Corruption",
+      "Presale Case",
+      "Transaction Sequence",
+      "Initial Difficulty",
+      "Direct Inheritance",
+      "Solution Fails",
+      "True Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together constitute the 'shalchu mi-tam' passage \u2014 the corrupt text, its correction, the difficulty, and the firstborn case \u2014 which the essay's 'Text Corruption' heading (index 4) explicitly introduces as the Gemara recognizing the incoherence of the borrowed-against-father's-property formulation, exactly matching items 1\u20134's content.",
+      "chosen_heading": "Text Corruption",
+      "current_heading": "Transaction Sequence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "True Difficulty",
+    "candidates": [
+      "Initial Difficulty",
+      "Direct Inheritance",
+      "Solution Fails",
+      "True Difficulty",
+      "Gemara Response",
+      "Tosafot Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage 'umai kushya? dilma matzei amar: mikoach avuha de'abba ka'asina \u2013 uvimkom av ka'imna' is precisely the Gemara's response that Chanoch can claim simultaneously from grandfather and in father's stead, which is explicitly discussed and analyzed in the 'Gemara Response' section (index 4).",
+      "chosen_heading": "Gemara Response",
+      "current_heading": "True Difficulty",
+      "moved": true
+    }
+  }
+]

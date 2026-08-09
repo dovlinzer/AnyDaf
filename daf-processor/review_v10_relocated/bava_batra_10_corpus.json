@@ -1,0 +1,475 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Small Gifts Accumulate",
+    "candidates": [
+      "Tzedakah Replaces Korban",
+      "Gov't Intervention",
+      "Small Gifts Accumulate",
+      "Rav Sheshet's Name",
+      "Metzora Tumah Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the teaching about tzedakah as armor (shiryon) and garment (beged) with each pruta combining into a great sum, which is precisely what the 'Small Gifts Accumulate' section's prose discusses.",
+      "chosen_heading": "Small Gifts Accumulate",
+      "current_heading": "Small Gifts Accumulate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Metzora Tumah Questions",
+    "candidates": [
+      "Rav Sheshet's Name",
+      "Metzora Tumah Questions",
+      "Punishment & Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items contain the exact exchange between Rav A\u1e25advoi bar Ami and Rav Sheshet about the metzora's tumah status during days of counting, which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Metzora Tumah Questions",
+      "current_heading": "Metzora Tumah Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Punishment & Healing",
+    "candidates": [
+      "Punishment & Healing",
+      "Explicit Pasuk Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav A\u1e25advoi's mockery of Rav Sheshet, Rav Sheshet's offense, the resulting punishment (muteness/forgetting), the mother's weeping, and the eventual healing \u2014 all of which precisely matches the 'Punishment & Healing' section's prose.",
+      "chosen_heading": "Punishment & Healing",
+      "current_heading": "Punishment & Healing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Explicit Pasuk Solutions",
+    "candidates": [
+      "Explicit Pasuk Solutions",
+      "Greater Than Moshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon bar Yo\u1e25ai's gezeirah shavah about washing garments during sipuro vs. chaluto, which is exactly what candidate 0's prose describes as the resolution of the metzora tumah question.",
+      "chosen_heading": "Explicit Pasuk Solutions",
+      "current_heading": "Explicit Pasuk Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Greater Than Moshe",
+    "candidates": [
+      "Greater Than Moshe",
+      "Six vs. Eleven Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Elazar's statement about charity in secret being greater than Moses, and Rabbi Yitzchak's dissenting views, which is exactly what the 'Greater Than Moshe' section's prose covers in detail.",
+      "chosen_heading": "Greater Than Moshe",
+      "current_heading": "Greater Than Moshe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Six vs. Eleven Blessings",
+    "candidates": [
+      "Six vs. Eleven Blessings",
+      "God Provides Means"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yitzchak's teaching about six blessings for giving a peruta and eleven blessings for consoling with words, which is precisely what the 'Six vs. Eleven Blessings' prose section discusses in detail.",
+      "chosen_heading": "Six vs. Eleven Blessings",
+      "current_heading": "Six vs. Eleven Blessings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "God Provides Means",
+    "candidates": [
+      "God Provides Means",
+      "Worthy Recipients",
+      "Unworthy Recipients"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yitz\u1e25ak's teaching that God provides financial means to those who pursue charity, which exactly matches the 'God Provides Means' section prose, and the current placement is correct.",
+      "chosen_heading": "God Provides Means",
+      "current_heading": "God Provides Means",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Unworthy Recipients",
+    "candidates": [
+      "Worthy Recipients",
+      "Unworthy Recipients",
+      "Promise of Good Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Na\u1e25man bar Yitz\u1e25ak's statement about worthy recipients AND the contrast with Rabba's teaching, and the prose under 'Worthy Recipients' (index 0) explicitly covers both the Rav Na\u1e25man teaching and the l'apukei contrast with Yirmiyahu/Rabba, while 'Unworthy Recipients' (index 1) merely paraphrases the same content redundantly \u2014 the passage belongs under the heading whose prose first introduces it.",
+      "chosen_heading": "Worthy Recipients",
+      "current_heading": "Unworthy Recipients",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Promise of Good Children",
+    "candidates": [
+      "Unworthy Recipients",
+      "Promise of Good Children",
+      "Pagan Theology Challenge",
+      "Redemption Through Giving",
+      "Turnusrufus Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yehoshua ben Levi's teaching about tzedakah meriting wise, wealthy, and aggadah-skilled children, with the prooftexts from Proverbs 21:21 \u2014 exactly what the 'Promise of Good Children' prose describes in detail.",
+      "chosen_heading": "Promise of Good Children",
+      "current_heading": "Promise of Good Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Turnusrufus Parable",
+    "candidates": [
+      "Pagan Theology Challenge",
+      "Redemption Through Giving",
+      "Turnusrufus Parable",
+      "God's Displeasure: Wrath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Meir's teaching about the opponent's challenge and the Turnus Rufus/Rabbi Akiva exchange including the king-and-slave parable \u2014 are introduced together in the baraita as a single continuous unit, and candidate 0 ('Pagan Theology Challenge') is the section whose prose explicitly sets up both the general challenge Rabbi Meir anticipates and the Turnus Rufus dialogue, making it the natural home for both items before Rabbi Akiva's counter-parable (which belongs under candidate 3).",
+      "chosen_heading": "Pagan Theology Challenge",
+      "current_heading": "Turnusrufus Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "God's Displeasure: Wrath",
+    "candidates": [
+      "Turnusrufus Parable",
+      "God's Displeasure: Wrath",
+      "Sons vs. Servants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's counter-parable responding to Turnusrufus, which is explicitly described in the 'Turnusrufus Parable' section's prose as Rabbi Akiva meeting Turnusrufus's argument on its own terms with a counter-parable about a king and his son rather than servant.",
+      "chosen_heading": "Turnusrufus Parable",
+      "current_heading": "God's Displeasure: Wrath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Sons vs. Servants",
+    "candidates": [
+      "God's Displeasure: Wrath",
+      "Sons vs. Servants",
+      "Sustenance & Loss",
+      "Nephews' Tzedakah Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sons vs. Servants",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Turnus Rufus/Rabbi Akiva exchange about sons vs. servants and the verse about sharing bread with the hungry, which matches exactly the 'Sons vs. Servants' prose.",
+      "second_heading": "Sustenance & Loss",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yehuda bar Shalom's teaching about livelihood and losses being allocated from Rosh HaShana, which matches exactly the 'Sustenance & Loss' prose about decreed income and losses.",
+      "current_heading": "Sons vs. Servants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Nephews' Tzedakah Story",
+    "candidates": [
+      "Sustenance & Loss",
+      "Nephews' Tzedakah Story",
+      "Giving for Its Sake",
+      "Rav Papa's Fall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of Rabban Yochanan ben Zakkai's nephews \u2014 the dream, the tzedakah collection, the government seizure, and the final explanation about lishmah \u2014 which is precisely what the 'Nephews' Tzedakah Story' prose describes in full detail.",
+      "chosen_heading": "Nephews' Tzedakah Story",
+      "current_heading": "Nephews' Tzedakah Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav Papa's Fall",
+    "candidates": [
+      "Giving for Its Sake",
+      "Rav Papa's Fall",
+      "Eyes Hidden = Idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa slipping on a ladder and Chiyya bar Rav of Difti suggesting he failed to sustain a poor person, which matches exactly the prose under 'Rav Papa's Fall' where the current placement is correct.",
+      "chosen_heading": "Rav Papa's Fall",
+      "current_heading": "Rav Papa's Fall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Eyes Hidden = Idolatry",
+    "candidates": [
+      "Eyes Hidden = Idolatry",
+      "Advocates Before God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita of Rabbi Yehoshua ben Korcha about turning eyes from charity being like idol worship, which is precisely what the prose under 'Eyes Hidden = Idolatry' discusses in detail.",
+      "chosen_heading": "Eyes Hidden = Idolatry",
+      "current_heading": "Eyes Hidden = Idolatry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Advocates Before God",
+    "candidates": [
+      "Advocates Before God",
+      "Brings Redemption Closer",
+      "Ten Hardest Things"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Advocates Before God' section, which explicitly discusses this same baraita about tzedakah and chesed creating peace and heavenly advocates, citing the same Jeremiah verse and the same equation of chesed with gemilut chasadim and rachamim with tzedakah.",
+      "chosen_heading": "Advocates Before God",
+      "current_heading": "Advocates Before God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Ten Hardest Things",
+    "candidates": [
+      "Brings Redemption Closer",
+      "Ten Hardest Things",
+      "Immediate Divine Reward"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Immediate Divine Reward",
+    "candidates": [
+      "Immediate Divine Reward",
+      "Tzedakah Before Prayer",
+      "Two Types of Salvation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Immediate Divine Reward",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Dostai's teaching about giving a peruta to a poor person and immediately meriting the Divine Presence) is exactly what candidate 0 'Immediate Divine Reward' discusses in its prose.",
+      "second_heading": "Tzedakah Before Prayer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Elazar giving a peruta before praying, then citing 'I will behold Your face through charity') is precisely what candidate 1 'Tzedakah Before Prayer' describes in its prose.",
+      "current_heading": "Immediate Divine Reward",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Two Types of Salvation",
+    "candidates": [
+      "Tzedakah Before Prayer",
+      "Two Types of Salvation",
+      "Anonymous Giving",
+      "Mar Ukva & Rabbi Abba"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzedakah Before Prayer",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 about lending to God (Proverbs 19:17) is not discussed in any of the candidate prose sections, but it precedes the two-tzedakah contradiction and fits best as a transitional teaching before the 'Two Types of Salvation' section \u2014 however, the 'Tzedakah Before Prayer' prose is the closest topical neighbor that doesn't yet cover it, suggesting it may belong there as a lead-in.",
+      "second_heading": "Two Types of Salvation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the contradiction Rabbi Yo\u1e25anan raises between the two verses about tzedakah delivering from death, which the 'Two Types of Salvation' prose explicitly describes in detail.",
+      "current_heading": "Two Types of Salvation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Mar Ukva & Rabbi Abba",
+    "candidates": [
+      "Anonymous Giving",
+      "Mar Ukva & Rabbi Abba",
+      "Male Children Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 explaining that giving to a charity purse achieves full anonymity by excluding both Mar Ukva's and Rabbi Abba's methods \u2014 matches exactly what heading 1's prose describes.",
+      "chosen_heading": "Mar Ukva & Rabbi Abba",
+      "current_heading": "Mar Ukva & Rabbi Abba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Male Children Merit",
+    "candidates": [
+      "Male Children Merit",
+      "Trustworthy Middlemen",
+      "Moshe's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the question about male offspring AND Rabbi Eliezer ben Yaakov's teaching about trustworthy tzedakah administration, but the essay's 'Trustworthy Middlemen' section explicitly discusses all three opinions from this baraita together (including the male children question as context) and focuses on the Rabbi Chananya ben Teradyon trustworthiness requirement and its resolution, making it the clearly better match for this complete passage.",
+      "chosen_heading": "Trustworthy Middlemen",
+      "current_heading": "Male Children Merit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Moshe's Question",
+    "candidates": [
+      "Trustworthy Middlemen",
+      "Moshe's Question",
+      "Upside-Down Worlds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of heading 1 ('Moshe's Question'), which explicitly paraphrases Rabbi Abbahu's teaching about Moses asking how Israel's horn will be exalted, Solomon's answer about David's verse on charity, and Rabbi Abba's derivation from Isaiah \u2014 all of which appear verbatim in the two items.",
+      "chosen_heading": "Moshe's Question",
+      "current_heading": "Moshe's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Upside-Down Worlds",
+    "candidates": [
+      "Upside-Down Worlds",
+      "Rabbis' Eternal Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose discusses \u2014 Solomon's answer about who merits the World-to-Come, and Yosef's vision of the inverted world with his father's response \u2014 while heading 1's prose begins where this passage ends (the follow-up question about the Rabbis' standing).",
+      "chosen_heading": "Upside-Down Worlds",
+      "current_heading": "Upside-Down Worlds",
+      "moved": false
+    }
+  }
+]

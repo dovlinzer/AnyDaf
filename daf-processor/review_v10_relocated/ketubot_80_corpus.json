@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Shevach Beit Aviha",
+    "candidates": [
+      "Opening Context",
+      "Tif & Principal",
+      "Chanania Position",
+      "Shevach Beit Aviha",
+      "Regular Fruit Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the ruling of Rav Huna bar \u1e24iyya/Shmuel (halacha ke-Chanania) and Rava/Rav Na\u1e25man's qualification about divorce and shevach beit aviha, which is precisely what the 'Shevach Beit Aviha' section prose discusses.",
+      "chosen_heading": "Shevach Beit Aviha",
+      "current_heading": "Shevach Beit Aviha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Regular Fruit Sources",
+    "candidates": [
+      "Regular Fruit Sources",
+      "Non-Renewable Fruits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the goat/sheep/hen/palm tree cases AND the cloak case together, and the current heading's prose ('Regular Fruit Sources') explicitly discusses both the Rav Nachman teaching about regular yield animals and the cloak extension, making it the correct placement; the cloak case is part of the same Gemara unit even though heading 1 also references it.",
+      "chosen_heading": "Regular Fruit Sources",
+      "current_heading": "Regular Fruit Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Non-Renewable Fruits",
+    "candidates": [
+      "Non-Renewable Fruits",
+      "Fruit vs. Principal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about salt, sand, sulfur, and alum being classified as peirot (with the Rabbi Meir/Chachamim dispute), which the prose in heading 0 explicitly discusses as the reinforcing baraita for the non-renewable fruits principle, matching the content and context precisely.",
+      "chosen_heading": "Non-Renewable Fruits",
+      "current_heading": "Non-Renewable Fruits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Fruit vs. Principal",
+    "candidates": [
+      "Fruit vs. Principal",
+      "Old Slaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon's position and Rava's answer about mechubarim be-sha'at yetzi'ah, which is precisely what the 'Fruit vs. Principal' section's prose elaborates upon.",
+      "chosen_heading": "Fruit vs. Principal",
+      "current_heading": "Fruit vs. Principal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Old Slaves",
+    "candidates": [
+      "Old Slaves",
+      "Rabbi Yehuda Position",
+      "Own vs. Borrowed Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single mishnah covering both elderly slaves (discussed in heading 0) and old olive trees/grapevines (discussed in heading 1), but since it is one unified mishnah text and the current placement under 'Old Slaves' is the natural starting point for this mishnah, and heading 0's prose explicitly describes this exact mishnah including both the main ruling and Rabban Shimon ben Gamliel's dissent, the current placement is correct.",
+      "chosen_heading": "Old Slaves",
+      "current_heading": "Old Slaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Own vs. Borrowed Field",
+    "candidates": [
+      "Rabbi Yehuda Position",
+      "Own vs. Borrowed Field",
+      "Investment Risk",
+      "Hotzi V'Lo Achal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Kahana/Rav distinction between trees in her own field versus a field not hers, and Rav Yosef's objection with the subsequent inversion \u2014 exactly what the 'Own vs. Borrowed Field' prose describes in detail.",
+      "chosen_heading": "Own vs. Borrowed Field",
+      "current_heading": "Own vs. Borrowed Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Hotzi V'Lo Achal",
+    "candidates": [
+      "Investment Risk",
+      "Hotzi V'Lo Achal",
+      "Minimum Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers all three cases (spent much/ate little, spent little/ate much, and spent but ate nothing), so it belongs under the 'Investment Risk' heading which introduces the full mishnah, rather than under 'Hotzi V'Lo Achal' which discusses only the third case in detail.",
+      "chosen_heading": "Investment Risk",
+      "current_heading": "Hotzi V'Lo Achal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Minimum Benefit",
+    "candidates": [
+      "Hotzi V'Lo Achal",
+      "Minimum Benefit",
+      "Minor Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the minimum benefit threshold that disqualifies a husband's hotzi ve-lo achal recovery claim \u2014 the dignified-eating standard, the unresolved date-dough question, the issar/dinar dispute, and Rav Yehuda's ruling on bundles of twigs \u2014 which is precisely what the 'Minimum Benefit' section's prose describes.",
+      "chosen_heading": "Minimum Benefit",
+      "current_heading": "Minimum Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Minor Wife",
+    "candidates": [
+      "Minor Wife",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Yaakov/Rav \u1e24isda ruling about expenditures on a minor wife's property, which is precisely what the 'Minor Wife' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Minor Wife",
+      "current_heading": "Minor Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Rav Ami Ruling",
+      "Rabbis' Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case facts (woman's 400 zuz in Bei \u1e24ozai, husband's 600 zuz expenditure, the one zuz taken on return) which matches the 'Case Setup' prose, not the ruling or objection sections.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rabbis' Objection",
+    "candidates": [
+      "Rav Ami Ruling",
+      "Rabbis' Objection",
+      "Value Limitation",
+      "Oath Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rabbis' objection to Rav Ami distinguishing between peirot and keren, and the conclusion that this is a case of 'hotzi ve-lo achal' where he may swear and recover \u2014 exactly what the 'Rabbis' Objection' prose describes.",
+      "chosen_heading": "Rabbis' Objection",
+      "current_heading": "Rabbis' Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Oath Debate",
+    "candidates": [
+      "Value Limitation",
+      "Oath Debate",
+      "Resolution",
+      "Sharecroppers Deal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Asi's limitation and Abaye's ruling about when an oath is required versus when the expense can be taken without an oath, which is precisely what the 'Oath Debate' section's prose discusses.",
+      "chosen_heading": "Oath Debate",
+      "current_heading": "Oath Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Sharecroppers Deal",
+    "candidates": [
+      "Resolution",
+      "Sharecroppers Deal",
+      "Land-Based Deal",
+      "Selling Peirot",
+      "Validity Dispute",
+      "Maidservant Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's resolution about expense vs. enhancement with oath requirement, which matches the 'Resolution' section's prose exactly.",
+      "second_heading": "Sharecroppers Deal",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 cover the sharecroppers dilemma, the objection and answer, the resolution by Rav Huna, and the husband selling peirot \u2014 all matching the 'Sharecroppers Deal' and subsequent headings that are already the current placement.",
+      "current_heading": "Sharecroppers Deal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Maidservant Case",
+    "candidates": [
+      "Land-Based Deal",
+      "Selling Peirot",
+      "Validity Dispute",
+      "Maidservant Case",
+      "Revach Beisa Limit",
+      "Exploitation Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items describe the maidservant incident and Rava's non-intervention, which is precisely what heading 3 ('Maidservant Case') discusses \u2014 the case from which Yehuda Mar Bar Marimar inferred Rava's position, matching the current placement exactly.",
+      "chosen_heading": "Maidservant Case",
+      "current_heading": "Maidservant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Exploitation Fear",
+    "candidates": [
+      "Revach Beisa Limit",
+      "Exploitation Fear",
+      "Household Income",
+      "Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the final halacha and both Abaye's and Rava's rationales together, and candidate 1 ('Exploitation Fear') is the section whose prose explicitly discusses this exact Gemara statement \u2014 the final ruling plus both reasons \u2014 making it the clearest match.",
+      "chosen_heading": "Exploitation Fear",
+      "current_heading": "Exploitation Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Exceptions",
+    "candidates": [
+      "Household Income",
+      "Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical differences (beinaihu) between Abaye and Rava's positions \u2014 land close to the city, a husband who is a sharecropper, and money invested in an iska \u2014 which precisely matches the 'Exceptions' section prose that explicates these same limiting cases.",
+      "chosen_heading": "Exceptions",
+      "current_heading": "Exceptions",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Creditor vs. Slaves",
+    "candidates": [
+      "Intro: Amoraim",
+      "Overview",
+      "Creditor vs. Slaves",
+      "Rashbam & Yochanan",
+      "Shelishi & Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the first ruling (collecting from slaves) which is precisely what the 'Creditor vs. Slaves' section's prose discusses, including the same halacha/ein govin dispute between Rabbi Abba and Rav Nachman.",
+      "chosen_heading": "Creditor vs. Slaves",
+      "current_heading": "Creditor vs. Slaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Shelishi & Sheni",
+    "candidates": [
+      "Rashbam & Yochanan",
+      "Shelishi & Sheni",
+      "Rava's Expansion",
+      "Rav Ashi Rejected",
+      "Rashbam vs. Rosh",
+      "Blind Witness Disqualified"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shelishi & Sheni",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Abba's ruling (shelishi be-sheni kasher) and Rava's expansion (af be-rishon), which together are precisely what headings 1 and 2 discuss, but since item 1 covers both the shelishi/sheni ruling AND Rava's af be-rishon extension, it best fits under heading 1 ('Shelishi & Sheni') which introduces the topic and notes Rava's further ruling, with heading 2 ('Rava's Expansion') as its dedicated prose \u2014 however the current placement under heading 1 is the correct home for item 1 since that heading's prose explicitly covers both Abba's ruling and sets up Rava.",
+      "second_heading": "Rav Ashi Rejected",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns Mar bar Rav Ashi's ruling about testifying against one's grandfather and the immediate rejection 've-leit hilcheta ke-Mar bar Rav Ashi', which is exactly what heading 3 ('Rav Ashi Rejected') discusses.",
+      "current_heading": "Shelishi & Sheni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Blind Witness Disqualified",
+    "candidates": [
+      "Rava's Expansion",
+      "Rav Ashi Rejected",
+      "Rashbam vs. Rosh",
+      "Blind Witness Disqualified",
+      "Shmuel Permits",
+      "Rav Sheshet: Garment/Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling about a witness who knew testimony about land before going blind and then went blind being disqualified, which is precisely what the 'Blind Witness Disqualified' section's prose describes.",
+      "chosen_heading": "Blind Witness Disqualified",
+      "current_heading": "Blind Witness Disqualified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rav Sheshet: Garment/Gold",
+    "candidates": [
+      "Shmuel Permits",
+      "Rav Sheshet: Garment/Gold",
+      "Rav Papa: Weight",
+      "Braita Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all four opinions in sequence (Shmuel, Rav Sheshet, Rav Pappa) and belongs under the first heading where Shmuel's opinion is introduced, as the full chain of opinions is presented together in one Talmudic passage.",
+      "chosen_heading": "Shmuel Permits",
+      "current_heading": "Rav Sheshet: Garment/Gold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Braita Refutation",
+    "candidates": [
+      "Rav Papa: Weight",
+      "Braita Refutation",
+      "Abaye's Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita challenge and its conclusive refutation (tiyuvta de-chulhu tiyuvta), which is precisely what the 'Braita Refutation' section's prose describes in detail.",
+      "chosen_heading": "Braita Refutation",
+      "current_heading": "Braita Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Abaye's Interpretation",
+    "candidates": [
+      "Abaye's Interpretation",
+      "Yochanan b. Broka",
+      "Rava Objects",
+      "Rava's Fix: Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous unit of Rabbi Abba's ruling, Abaye's interpretation of it, and Rava's linguistic objection to Abaye \u2014 exactly the content described in heading 0's prose about the fourth ruling and the mai ka'amar question with Abaye's answer.",
+      "chosen_heading": "Abaye's Interpretation",
+      "current_heading": "Abaye's Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rava's Fix: Bechor",
+    "candidates": [
+      "Yochanan b. Broka",
+      "Rava Objects",
+      "Rava's Fix: Bechor",
+      "Wife Inherits Equally",
+      "Rava's Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's reinterpretation of the ruling as being about a father identifying which child is his firstborn (bechori hu), with Rabbi Abba following Rabbi Yehuda and Rabbi Yochanan following the rabbanan, which is precisely what the 'Rava's Fix: Bechor' section describes.",
+      "chosen_heading": "Rava's Fix: Bechor",
+      "current_heading": "Rava's Fix: Bechor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rava's Limits",
+    "candidates": [
+      "Wife Inherits Equally",
+      "Rava's Limits",
+      "Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's qualification about current property and future sons, which is precisely what candidate 1 ('Rava's Limits') discusses in detail.",
+      "chosen_heading": "Rava's Limits",
+      "current_heading": "Rava's Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Setup",
+    "candidates": [
+      "Setup",
+      "Rashbam Explains",
+      "BM Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the raw Talmudic text of Rabbi Abba's ruling about the promissory note case, which is exactly what the 'Setup' prose introduces and explains in plain terms.",
+      "chosen_heading": "Setup",
+      "current_heading": "Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "BM Context",
+    "candidates": [
+      "Rashbam Explains",
+      "BM Context",
+      "Rav Ashi Objects",
+      "Mar bar Rav Ashi",
+      "Debate: Fear",
+      "Zutra: Follow Abba"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "BM Context",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Rabbi Akiva's position and the fear of witnesses, which matches the 'BM Context' prose that explicitly describes Rabbi Abba's ruling that even Rabbi Akiva would require an oath when witnesses are present due to fear (irtutei irtat).",
+      "second_heading": "Rav Ashi Objects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Mar bar Rav Ashi's objection that even Rabbi Shimon ben Elazar would agree the debtor is meshiv aveidah when witnesses support him, which matches exactly the 'Rav Ashi Objects' prose describing this counter-argument.",
+      "current_heading": "BM Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Zutra: Follow Abba",
+    "candidates": [
+      "Rav Ashi Objects",
+      "Mar bar Rav Ashi",
+      "Debate: Fear",
+      "Zutra: Follow Abba",
+      "Nachman Dispute",
+      "Ashi: Clarify",
+      "Rava Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Mar Zutra's ruling that the halacha follows Rabbi Abba's rulings, followed by Ravina's question about Rav Nachman and Rav Ashi's clarification \u2014 all of which span headings 3, 4, and 5, but the current placement under 'Zutra: Follow Abba' is where the passage begins, and since all items must go under one heading, heading 3 is the best single match as it directly describes Mar Zutra's expounding of the halacha following Rabbi Abba, which is the opening and primary content of this passage.",
+      "chosen_heading": "Zutra: Follow Abba",
+      "current_heading": "Zutra: Follow Abba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Rava Clarifies",
+    "candidates": [
+      "Nachman Dispute",
+      "Ashi: Clarify",
+      "Rava Clarifies",
+      "Reject Ash: BnB",
+      "Blind: Resolved",
+      "Not Like Yochanan",
+      "Against Ashi: Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question 've-ella hilcheta le-apukei mai' and its enumeration of why Rava, Mar bar Rav Ashi, Shmuel/Rav Sheshet/Rav Pappa cannot be what Mar Zutra's ruling excludes \u2014 exactly the content described in candidate 2's prose.",
+      "chosen_heading": "Rava Clarifies",
+      "current_heading": "Rava Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Against Ashi: Oath",
+    "candidates": [
+      "Reject Ash: BnB",
+      "Blind: Resolved",
+      "Not Like Yochanan",
+      "Against Ashi: Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states Mar Zutra's ruling excludes both Rabbi Yo\u1e25anan's statement AND Mar bar Rav Ashi's objection, and candidate 2 ('Not Like Yochanan') is the section that introduces and frames this dual exclusion \u2014 discussing what Mar Zutra's declaration 'does come to rule on,' making it the natural home for the Gemara's summary statement covering both exclusions together.",
+      "chosen_heading": "Not Like Yochanan",
+      "current_heading": "Against Ashi: Oath",
+      "moved": true
+    }
+  }
+]

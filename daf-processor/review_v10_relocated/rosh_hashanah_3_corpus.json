@@ -1,0 +1,296 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Shevat Alternative",
+    "candidates": [
+      "Intro & Shlomo Review",
+      "Torah's Nissan Mandate",
+      "Aharon & Moshe Evidence",
+      "Shevat Alternative",
+      "Canaanite King = Sichon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage raises the Gemara's counter-question of whether Shevat (month eleven) came before Av (month five), which is precisely the 'seemingly absurd counter-suggestion' described in the 'Shevat Alternative' section's prose.",
+      "chosen_heading": "Shevat Alternative",
+      "current_heading": "Shevat Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Canaanite King = Sichon",
+    "candidates": [
+      "Canaanite King = Sichon",
+      "Rashi: Clouds Departed",
+      "Ki's Four Functions",
+      "Sichon ID Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: item 1 rejects a counter-argument by citing the 'after he slain Sihon' verse, item 2 identifies what the Canaanite king heard (Aaron's death and departure of clouds of glory), and item 3 gives Rabbi Abbahu's derashah on 'vayir'u' \u2014 all of which is precisely what candidate 1 ('Rashi: Clouds Departed') discusses, namely the report the king heard, Aaron's death, the withdrawal of the ananei hakavod, and the verse 'vayir'u kol ha'eda ki gava Aharon.'",
+      "chosen_heading": "Rashi: Clouds Departed",
+      "current_heading": "Canaanite King = Sichon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Sichon ID Baraita",
+    "candidates": [
+      "Rashi: Clouds Departed",
+      "Ki's Four Functions",
+      "Sichon ID Baraita",
+      "Mishkan/Cloud Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sichon ID Baraita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Sihon/Arad/Canaan identification baraita that resolves the mi dami objection, which is precisely what the 'Sichon ID Baraita' prose describes.",
+      "second_heading": "Mishkan/Cloud Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of whether Iyyar could be Rosh Hashanah, which is exactly the topic of the 'Mishkan/Cloud Proof' section that begins by dismissing Iyyar as Rosh Hashanah.",
+      "current_heading": "Sichon ID Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Mishkan/Cloud Proof",
+    "candidates": [
+      "Mishkan/Cloud Proof",
+      "Matan Torah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishkan/cloud proof eliminating Iyyar as Rosh HaShana, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Mishkan/Cloud Proof",
+      "current_heading": "Mishkan/Cloud Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Matan Torah Proof",
+    "candidates": [
+      "Matan Torah Proof",
+      "Shlomo Temple Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically eliminates Sivan as Rosh Hashanah using the Matan Torah verse, which is exactly what the 'Matan Torah Proof' section's prose describes.",
+      "chosen_heading": "Matan Torah Proof",
+      "current_heading": "Matan Torah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Shlomo Temple Proof",
+    "candidates": [
+      "Shlomo Temple Proof",
+      "Ravina Day Challenge",
+      "Complete Baraita",
+      "Rav Chisda Ruling",
+      "Kislev to Nissan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Shlomo Temple Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the challenge of Tammuz/Av/Adar, Rabbi Elazar's proof from the Shlomo verse, and Ravina's objections with their resolutions \u2014 exactly matching the 'Shlomo Temple Proof' and 'Ravina Day Challenge' content, but since item 1 (Tammuz/Av/Adar) is the opening of the Shlomo proof sequence and the prose of heading 0 explicitly addresses this transition, items 1-4 belong under heading 0.",
+      "second_heading": "Complete Baraita",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 constitute the baraita that formalizes all the proofs for counting kings' years from Nisan, matching exactly the 'Complete Baraita' prose which describes this baraita marshaling each proof in turn including the Shlomo verse at the end.",
+      "current_heading": "Shlomo Temple Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Kislev to Nissan",
+    "candidates": [
+      "Ravina Day Challenge",
+      "Complete Baraita",
+      "Rav Chisda Ruling",
+      "Kislev to Nissan",
+      "Event Sequence Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items constitute Rav \u1e24isda's ruling that non-Jewish kings are counted from Tishrei with its proof from Nechemia \u2014 this is the content of the 'Rav Chisda Ruling' section, not the 'Kislev to Nissan' section which discusses subsequent elaborations about month names and cultural context.",
+      "chosen_heading": "Rav Chisda Ruling",
+      "current_heading": "Kislev to Nissan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Event Sequence Logic",
+    "candidates": [
+      "Kislev to Nissan",
+      "Event Sequence Logic",
+      "Nehemiah Narrative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of objection-and-resolution about the Kislev/Nissan proof: items 1-2 address the 'which Artaxerxes count' question (resolved by Rav Papa's gezeirah shavah), and item 3 raises the sequence question \u2014 all of which are explicitly described in the 'Event Sequence Logic' prose.",
+      "chosen_heading": "Event Sequence Logic",
+      "current_heading": "Event Sequence Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Nehemiah Narrative",
+    "candidates": [
+      "Nehemiah Narrative",
+      "Tishrei Confirmed",
+      "Chaggai Adar-Av"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous baraita about Hanani/Nehemiah in Kislev and Nisan, which is precisely what the 'Nehemiah Narrative' prose describes in detail.",
+      "chosen_heading": "Nehemiah Narrative",
+      "current_heading": "Nehemiah Narrative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Chaggai Adar-Av",
+    "candidates": [
+      "Tishrei Confirmed",
+      "Chaggai Adar-Av",
+      "Rav Yosef Challenge",
+      "Kasher King Theory",
+      "King Name Identity",
+      "Calendar Change Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection from Chaggai that month seven is still called year two of Darius, which directly matches the 'Rav Yosef Challenge' prose describing exactly this difficulty.",
+      "chosen_heading": "Rav Yosef Challenge",
+      "current_heading": "Chaggai Adar-Av",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Calendar Change Problem",
+    "candidates": [
+      "Rav Yosef Challenge",
+      "Kasher King Theory",
+      "King Name Identity",
+      "Calendar Change Problem",
+      "Soured King Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: Rabbi Abbahu's 'kasher king' resolution (item 1), Rav Yosef's contradiction objection (item 2), and the baraita identifying Cyrus/Darius/Artaxerxes as one person (item 3) \u2014 all of which are explicitly described in the 'Kasher King Theory' prose, which covers both the resolution and its immediate difficulties including the name-identity problem.",
+      "chosen_heading": "Kasher King Theory",
+      "current_heading": "Calendar Change Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Soured King Theory",
+    "candidates": [
+      "Calendar Change Problem",
+      "Soured King Theory",
+      "Kahana Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yitz\u1e25ak's 'kodem she-hichmitz / achar she-hichmitz' answer, which is precisely what the 'Soured King Theory' prose describes and analyzes.",
+      "chosen_heading": "Soured King Theory",
+      "current_heading": "Soured King Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Kahana Objection",
+    "candidates": [
+      "Kahana Objection",
+      "Self-Interest Motive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange of Rav Kahana's objection and Rabbi Yitz\u1e25ak's resolution, which is exactly what the 'Kahana Objection' prose describes, including the verse from Ezra 6:9 and the rebuttal from Ezra 6:10.",
+      "chosen_heading": "Kahana Objection",
+      "current_heading": "Kahana Objection",
+      "moved": false
+    }
+  }
+]

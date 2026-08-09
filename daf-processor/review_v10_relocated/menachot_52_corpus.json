@@ -1,0 +1,321 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Funding Debate",
+    "candidates": [
+      "Funding Debate",
+      "Conflicting Braitot",
+      "Rav Ashi's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with Rabbi Yehuda and Rabbi Shimon's positions on funding for the par he'elam davar and seirei avodah zarah, which is exactly what the 'Funding Debate' section prose describes and introduces.",
+      "chosen_heading": "Funding Debate",
+      "current_heading": "Funding Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rav Ashi's Resolution",
+    "candidates": [
+      "Conflicting Braitot",
+      "Rav Ashi's Resolution",
+      "Textual Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Conflicting Braitot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge about conflicting baraitot and the question of which is authoritative, which matches candidate 0's prose exactly ('ha'tanya ipcha... hai mineihu achrita').",
+      "second_heading": "Rav Ashi's Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Sages' suggestion before Rav Ashi and Rav Ashi's resolution distinguishing negligence concerns based on atonement, which matches candidate 1's prose exactly.",
+      "current_heading": "Rav Ashi's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Textual Proof",
+    "candidates": [
+      "Textual Proof",
+      "Two Halves or Whole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's 'what conclusion was reached' question and Rabba Zuti's baraita proof from Numbers 28:2 \u2014 are precisely what the 'Textual Proof' section's prose describes, establishing Rabbi Shimon's position that par he'elam davar and seirei avodah zarah come from trumas halishkah.",
+      "chosen_heading": "Textual Proof",
+      "current_heading": "Textual Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Two Halves or Whole",
+    "candidates": [
+      "Two Halves or Whole",
+      "Rava's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's dilemma about whether 'complete' means two full offerings or one morning offering with the afternoon canceled, which is precisely what the 'Two Halves or Whole' prose section describes.",
+      "chosen_heading": "Two Halves or Whole",
+      "current_heading": "Two Halves or Whole",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rava's Proof",
+    "candidates": [
+      "Rava's Proof",
+      "Standard vs. Aberration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from the mishna about the eighth kohen bringing the chavitin, which is precisely what the 'Rava's Proof' section's prose describes.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Rava's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Standard vs. Aberration",
+    "candidates": [
+      "Standard vs. Aberration",
+      "Tamid Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items trace the exact sequence described in the 'Standard vs. Aberration' prose: Rabbi Yirmiyah's 'foolish Babylonians' remark (item 1), his challenge about the seventh/ninth priests (item 2), the night/next-day verse rebuttal (item 3), the 'tanna does not teach what-if cases' resolution (item 4), and Rava's response about weak vs. strong teachings (item 5).",
+      "chosen_heading": "Standard vs. Aberration",
+      "current_heading": "Standard vs. Aberration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Tamid Proof",
+    "candidates": [
+      "Tamid Proof",
+      "Baraita Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's proof from the verse 'solet mincha tamid' equating the chavitin with the minchat tmidim, which is precisely what the 'Tamid Proof' section's prose describes.",
+      "chosen_heading": "Tamid Proof",
+      "current_heading": "Tamid Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Baraita Resolution",
+    "candidates": [
+      "Baraita Resolution",
+      "Two Full Handfuls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'mai havya alah' and Rav Na\u1e25man bar Yitz\u1e25ak's baraita answer about a complete tenth in morning and afternoon, which is exactly what the 'Baraita Resolution' prose describes.",
+      "chosen_heading": "Baraita Resolution",
+      "current_heading": "Baraita Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Two Full Handfuls",
+    "candidates": [
+      "Two Full Handfuls",
+      "One Handful Divided",
+      "Never a Half-Handful",
+      "Doubling Levonah?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the dispute between Abba Yosei ben Dostai and the Rabbis about the amount of levonah for the chavitin offering, which is precisely what heading 0 ('Two Full Handfuls') introduces \u2014 the passage currently sits there and the prose of heading 0 directly describes this exact content, with headings 1 and 2 covering the subsequent elaboration that the essay author wrote as prose rather than needing the Talmudic text placed there again.",
+      "chosen_heading": "Two Full Handfuls",
+      "current_heading": "Two Full Handfuls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Doubling Levonah?",
+    "candidates": [
+      "One Handful Divided",
+      "Never a Half-Handful",
+      "Doubling Levonah?",
+      "Doubling Oil?",
+      "Five Handfuls Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Doubling Levonah?",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present Rabbi Yo\u1e25anan's dilemma about whether the levonah doubles for the Rabbis when no High Priest has been appointed, which is precisely what candidate 2 ('Doubling Levonah?') discusses.",
+      "second_heading": "Doubling Oil?",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the separate question about oil doubling in both Abba Yosei ben Dostai's and the Rabbis' views, which matches exactly the content of candidate 3 ('Doubling Oil?').",
+      "current_heading": "Doubling Levonah?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Five Handfuls Proof",
+    "candidates": [
+      "Doubling Oil?",
+      "Five Handfuls Proof",
+      "Aberration Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from the 'five handfuls' Mishnah, which is precisely what candidate 1 ('Five Handfuls Proof') describes in its prose.",
+      "chosen_heading": "Five Handfuls Proof",
+      "current_heading": "Five Handfuls Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Aberration Counter",
+    "candidates": [
+      "Aberration Counter",
+      "Baraita Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa teaching the halakha and Rav Yosef bar Shemaya's objection about the case of offering the handful outside the Temple, which is precisely the 'Aberration Counter' section's content about the ma'aleh kometz bachutz objection.",
+      "chosen_heading": "Aberration Counter",
+      "current_heading": "Aberration Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Baraita Teaching",
+    "candidates": [
+      "Baraita Teaching",
+      "Abba Yossi Ben Dostai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (the actual Talmudic text citing the ruling about a High Priest who died without a successor), which directly corresponds to heading 0's prose that describes and explains this very baraita's content about flour, levonah, and oil quantities.",
+      "chosen_heading": "Baraita Teaching",
+      "current_heading": "Baraita Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Abba Yossi Ben Dostai",
+    "candidates": [
+      "Abba Yossi Ben Dostai",
+      "Parallel Inference",
+      "Final Ruling",
+      "Objection/Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the question-and-answer unit about whose opinion the baraita follows, culminating in the identification of Abba Yosei ben Dostai \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Abba Yossi Ben Dostai",
+      "current_heading": "Abba Yossi Ben Dostai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Objection/Resolution",
+    "candidates": [
+      "Parallel Inference",
+      "Final Ruling",
+      "Objection/Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Parallel Inference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the parallel inference about the rabbis' position (that levonah and oil are not doubled), which matches heading 0 'Parallel Inference' perfectly.",
+      "second_heading": "Objection/Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 contain Rabbi Yochanan's ruling followed by the objection from stam Mishna and its resolution via Amoraim dispute, which matches heading 2 'Objection/Resolution' and its current placement exactly.",
+      "current_heading": "Objection/Resolution",
+      "moved": true
+    }
+  }
+]

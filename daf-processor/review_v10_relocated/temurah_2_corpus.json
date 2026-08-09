@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Prohibition & Effect",
+    "candidates": [
+      "Masechet Overview",
+      "Prohibition & Effect",
+      "Hakol Memirin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah opening 'hakol memirin' and the Gemara's immediate linguistic challenge about whether it implies l'chatchila permission \u2014 are precisely what the 'Hakol Memirin' section's prose describes, including the specific phrase-by-phrase analysis of the apparent contradiction.",
+      "chosen_heading": "Hakol Memirin",
+      "current_heading": "Prohibition & Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Hakol Memirin",
+    "candidates": [
+      "Prohibition & Effect",
+      "Hakol Memirin",
+      "Act Effectiveness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's response to the linguistic difficulty of 'hakol memirin' by invoking the verse 'lo yachalifenu velo yamir oto,' which is precisely what the 'Hakol Memirin' prose section describes.",
+      "chosen_heading": "Hakol Memirin",
+      "current_heading": "Hakol Memirin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Act Effectiveness",
+    "candidates": [
+      "Act Effectiveness",
+      "Core Question",
+      "Heir Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda's resolution that 'memirin' means efficacy not permission, with the prohibition and lashes completing the picture \u2014 exactly what the 'Act Effectiveness' prose section discusses.",
+      "chosen_heading": "Act Effectiveness",
+      "current_heading": "Act Effectiveness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Heir Question",
+    "candidates": [
+      "Core Question",
+      "Heir Question",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's parsing of 'hakol' to include an heir (yoresh), which is precisely what the 'Heir Question' prose discusses.",
+      "chosen_heading": "Heir Question",
+      "current_heading": "Heir Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Rabbi Meir",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita that presents both Rabbi Meir's and Rabbi Yehuda's positions together, and the current heading 'Rabbi Meir' introduces this very baraita with its linked propositions about semichah and temurah, making it the correct placement.",
+      "chosen_heading": "Rabbi Meir",
+      "current_heading": "Rabbi Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Three Korbano"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yehuda's reasoning via the derivation from 'end of consecration' to 'beginning of consecration,' which is exactly what the prose under 'Rabbi Yehuda' discusses.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Three Korbano",
+    "candidates": [
+      "Three Korbano",
+      "Partnership Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the three derivations from 'korbano' (his offering) excluding gentiles, others, and fathers/heirs from semichah, which is precisely what the 'Three Korbano' section's prose discusses.",
+      "chosen_heading": "Three Korbano",
+      "current_heading": "Three Korbano",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Partnership Ownership",
+    "candidates": [
+      "Partnership Ownership",
+      "Women Inclusion",
+      "Hamir Yamir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Meir's and Rabbi Yehuda's positions on joint owners (ba'alei chovrin) performing semichah, which is precisely what the 'Partnership Ownership' section's prose addresses.",
+      "chosen_heading": "Partnership Ownership",
+      "current_heading": "Partnership Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Hamir Yamir",
+    "candidates": [
+      "Women Inclusion",
+      "Hamir Yamir",
+      "Exclusion Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Meir's reasoning for including the inheritor via 'hamer yamir', which is precisely what the 'Hamir Yamir' section's prose describes \u2014 Rabbi Meir deriving the heir's inclusion from the doubled expression, which is the exact content of these two items.",
+      "chosen_heading": "Hamir Yamir",
+      "current_heading": "Hamir Yamir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Exclusion Logic",
+    "candidates": [
+      "Exclusion Logic",
+      "Communal vs Partnership",
+      "Speech Act",
+      "Rashi's Girsa",
+      "Minor Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the inclusion of women in temurah \u2014 Rabbi Yehuda's derivation, Rabbi Meir's alternative derivation, the challenge from the general principle equating women and men, and the resolution about non-uniform punishments \u2014 which directly matches the 'Exclusion Logic' prose about why a special verse was needed to include women despite the general principle.",
+      "chosen_heading": "Exclusion Logic",
+      "current_heading": "Exclusion Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Minor Case",
+    "candidates": [
+      "Communal vs Partnership",
+      "Speech Act",
+      "Rashi's Girsa",
+      "Minor Case",
+      "Minor Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rami bar \u1e24ama's dilemma about whether a minor can perform temurah and immediately narrows the question to a minor who has reached onot nedarim, which is precisely what the 'Minor Case' prose describes.",
+      "chosen_heading": "Minor Case",
+      "current_heading": "Minor Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Minor Punishment",
+    "candidates": [
+      "Minor Punishment",
+      "Minor Metaphysics",
+      "Non-Jew Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma described in candidate 0's prose \u2014 a mufla ha'samuch le'ish who can consecrate (mide'akdushei makdish, amurei nami mameir) versus the counterargument that since he is not subject to punishment (lav bar onshin), temurah will not take effect \u2014 matching the current placement precisely.",
+      "chosen_heading": "Minor Punishment",
+      "current_heading": "Minor Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Non-Jew Setup",
+    "candidates": [
+      "Minor Metaphysics",
+      "Non-Jew Setup",
+      "Frameworks",
+      "Weaker Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the question of whether a non-Jew can effect temurah, citing the ish ish baraita about gentile consecration and the counterargument about not being subject to punishment \u2014 exactly what the 'Non-Jew Setup' prose describes.",
+      "chosen_heading": "Non-Jew Setup",
+      "current_heading": "Non-Jew Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Weaker Kedusha",
+    "candidates": [
+      "Frameworks",
+      "Weaker Kedusha",
+      "Kedusha Implications",
+      "Nesachim",
+      "Shimon & Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita Rava cites about kodshei goyim, covering all the leniencies (no me'ilah, no piggul/notar/tumah, no temurah, no independent nesachim) attributed to Rabbi Shimon \u2014 this is the foundational source that the 'Weaker Kedusha' section's prose explicitly introduces.",
+      "chosen_heading": "Weaker Kedusha",
+      "current_heading": "Weaker Kedusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Shimon & Yosi",
+    "candidates": [
+      "Kedusha Implications",
+      "Nesachim",
+      "Shimon & Yosi",
+      "Non-Jew for Jew"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei's stringent ruling, the qualification about kadshei mizbe'ach vs. kadshei bedek ha'bayit, and the baraita's statement about temurah \u2014 all of which are precisely what the 'Shimon & Yosi' section's prose describes.",
+      "chosen_heading": "Shimon & Yosi",
+      "current_heading": "Shimon & Yosi",
+      "moved": false
+    }
+  }
+]

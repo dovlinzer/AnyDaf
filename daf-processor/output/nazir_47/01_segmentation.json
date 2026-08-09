@@ -67,8 +67,8 @@
           "timestamp": "05:01"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Story of Miriam from Tarmod: Practical Example of Tumah After First Korban",
@@ -87,7 +87,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Clarification of Rabbi Eliezer's Position: Soter Korbanot, Not All Days (continued)",
@@ -100,7 +100,7 @@
           "timestamp": "09:14"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -263,8 +263,8 @@
           "timestamp": "43:00"
         }
       ],
-      "sefaria_index": 16,
-      "matched": false
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Gezeira Shava: Connecting 'Le'imo' in Nazir to 'Le'imo' in Kohen Gadol",
@@ -287,7 +287,7 @@
           "timestamp": "51:01"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 18,
       "matched": false
     }
   ],
@@ -404,5 +404,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "21:27",
+  "amud_b_micro_title": "Anointed vs. Garmented",
+  "shiur_start_daf": 47,
+  "shiur_start_amud": "a"
 }

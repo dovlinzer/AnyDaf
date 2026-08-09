@@ -1,0 +1,236 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "North from Shavuot",
+    "candidates": [
+      "North from Shavuot",
+      "Rava's Challenge",
+      "Rav Mari Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "North from Shavuot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the initial derivation from the juxtaposition of chatas and shalmei tzibur in the Shavuot passage, which is exactly what heading 0 ('North from Shavuot') describes.",
+      "second_heading": "Rava's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's objection that a matter derived via hekesh cannot itself teach via hekesh, which is precisely what heading 1 ('Rava's Challenge') describes.",
+      "current_heading": "North from Shavuot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Mari Source",
+    "candidates": [
+      "Rava's Challenge",
+      "Rav Mari Source",
+      "Male Kohanim Rule",
+      "Abaye Question",
+      "Owners Portion",
+      "Ayil Nazir Status",
+      "Intro: Todah",
+      "Ayil Nazir Rules",
+      "Terumah Portion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Mari's teaching deriving that communal peace offerings require the north via a direct hekesh to the olah, which is precisely what the 'Rav Mari Source' section's prose describes.",
+      "chosen_heading": "Rav Mari Source",
+      "current_heading": "Rav Mari Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Terumah Portion",
+    "candidates": [
+      "Male Kohanim Rule",
+      "Abaye Question",
+      "Owners Portion",
+      "Ayil Nazir Status",
+      "Intro: Todah",
+      "Ayil Nazir Rules",
+      "Terumah Portion",
+      "Shlamim Features"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 5,
+      "split2": 6,
+      "first_heading": "Male Kohanim Rule",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 opens with the Gemara asking what the first hekesh to the chatas teaches and answers it restricts zivchei shalmei tzibur to male kohanim (zichrei kehunah), which matches exactly the 'Male Kohanim Rule' heading's prose about the purpose of the original hekesh to the chatas.",
+      "second_heading": "Intro: Todah",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna introducing the todah and ayil nazir as kodshim kalim with their rules (slaughter anywhere in azarah, two matanot she'hen arba, eaten throughout the city by any person, until midnight, with the hamuram eaten by kohanim and their households), which matches the 'Intro: Todah' heading.",
+      "third_heading": "Terumah Portion",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara on the baraita of Rabbi Nechemya deriving from 'bemakom tahor' that the hamuram is eaten in Jerusalem (Machaneh Yisrael), with Abaye's and Rava's competing derivations, which matches the 'Terumah Portion' heading's detailed description of this exact Gemara passage.",
+      "current_heading": "Terumah Portion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Shlamim Features",
+    "candidates": [
+      "Shlamim Features",
+      "Shlamim Terumah",
+      "Tanna Kamma",
+      "Rabbi Eliezer",
+      "Debate Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah about shelamim's basic rules (slaughter anywhere in the azarah, blood requirements, eating parameters, and terumah portions), which directly corresponds to the 'Shlamim Features' section prose that introduces and summarizes exactly these rules.",
+      "chosen_heading": "Shlamim Features",
+      "current_heading": "Shlamim Features",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Debate Resolution",
+    "candidates": [
+      "Shlamim Terumah",
+      "Tanna Kamma",
+      "Rabbi Eliezer",
+      "Debate Resolution",
+      "Door Status Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together form the baraita and its analysis about the three verses for shelamim slaughter directions \u2014 the exact content described in heading 0's prose as 'three such psukim employ this language, and together they will serve to validate shechita in all directions, as the next section explores,' making heading 0 the natural home before the material splits into Tanna Kamma and Rabbi Eliezer sections.",
+      "chosen_heading": "Shlamim Terumah",
+      "current_heading": "Debate Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Door Status Halacha",
+    "candidates": [
+      "Debate Resolution",
+      "Door Status Halacha",
+      "Door vs Curtain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the ruling that shelamim slaughtered before the doors of the Sanctuary were opened are disqualified, citing the verse 'petach Ohel Moed' as requiring an open entrance \u2014 exactly the content described in the 'Door Status Halacha' prose, which explicitly mentions three independent transmissions of this same principle (Rav Yehuda/Shmuel, Mar Ukva bar Chama/Rabbi Yossi bar Chanina, and Rav Yaakov bar Acha/Rav Ashi) and the Mishkan application.",
+      "chosen_heading": "Door Status Halacha",
+      "current_heading": "Door Status Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Door vs Curtain",
+    "candidates": [
+      "Door vs Curtain",
+      "Obstructions",
+      "Beit Chalipot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the mugaf/kenaul and vilon/curtain distinction that heading 0 'Door vs Curtain' is about, matching its prose precisely.",
+      "chosen_heading": "Door vs Curtain",
+      "current_heading": "Door vs Curtain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Beit Chalipot",
+    "candidates": [
+      "Obstructions",
+      "Beit Chalipot",
+      "Corner Doors",
+      "Back Window",
+      "Guards & Dimensions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Beit Chalipot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 all concern the two wickets (pishpeshin) in the Beit HaChalifot \u2014 their height, the objection from the standard gate dimensions, and their corner placement \u2014 which is precisely what headings 'Beit Chalipot' and 'Corner Doors' discuss, and the current placement under 'Beit Chalipot' covers items 1-4 well.",
+      "second_heading": "Back Window",
+      "second_confidence": "high",
+      "second_reason": "Item 5 opens an entirely new sub-question about the area behind the Beit HaKappores and introduces the lul katan, which is the subject of the 'Back Window' heading.",
+      "current_heading": "Beit Chalipot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Guards & Dimensions",
+    "candidates": [
+      "Corner Doors",
+      "Back Window",
+      "Guards & Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda citing Shmuel on tumah liability and the 187\u00d7135 cubit dimensions \u2014 are explicitly discussed together in the 'Guards & Dimensions' prose, which describes exactly this ruling closing the daf.",
+      "chosen_heading": "Guards & Dimensions",
+      "current_heading": "Guards & Dimensions",
+      "moved": false
+    }
+  }
+]

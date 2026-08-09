@@ -1,0 +1,535 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ger & Brother's Wife",
+    "candidates": [
+      "Ger & Brother's Wife",
+      "Maternal vs Paternal Sibs",
+      "Rashi vs. Tosafot Debate",
+      "Father's Sibling Spouses",
+      "Brother & Uncle Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinctions between maternal and paternal half-sisters (achot ha-em, achot ha-av), Rabbi Meir's rule about maternal kinship requiring divorce versus paternal kinship allowing maintenance, and the Sages' disagreement \u2014 exactly what the 'Maternal vs Paternal Sibs' prose describes.",
+      "chosen_heading": "Maternal vs Paternal Sibs",
+      "current_heading": "Ger & Brother's Wife",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Brother & Uncle Wife",
+    "candidates": [
+      "Maternal vs Paternal Sibs",
+      "Rashi vs. Tosafot Debate",
+      "Father's Sibling Spouses",
+      "Brother & Uncle Wife",
+      "Mother-Daughter Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the permissibility of marrying a maternal brother's wife and a father's brother's wife, and the inclusion of the father's wife \u2014 exactly what the 'Brother & Uncle Wife' section's prose describes.",
+      "chosen_heading": "Brother & Uncle Wife",
+      "current_heading": "Brother & Uncle Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Mother-Daughter Divorce",
+    "candidates": [
+      "Mother-Daughter Divorce",
+      "Baraita on Brother's Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the case of marrying a woman and her daughter, the requirement to divorce one, and the question about the mother-in-law after the wife's death \u2014 exactly what Candidate 0's prose describes.",
+      "chosen_heading": "Mother-Daughter Divorce",
+      "current_heading": "Mother-Daughter Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Baraita on Brother's Wife",
+    "candidates": [
+      "Baraita on Brother's Wife",
+      "Non-Jewish Marriage Conv.",
+      "No Gezerah Concern",
+      "Lechatchila Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in heading 0's prose \u2014 the Gemara zeroing in on the baraita's 'permitted to marry his brother's wife' clause and asking whether it refers to the brother marrying her as a convert \u2014 while headings 1 and 2 cover the subsequent deflection and gezerah discussion that are also part of this same passage, making heading 0 (the current placement) the correct starting point for this unified textual unit.",
+      "chosen_heading": "Baraita on Brother's Wife",
+      "current_heading": "Baraita on Brother's Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Lechatchila Restrictions",
+    "candidates": [
+      "Non-Jewish Marriage Conv.",
+      "No Gezerah Concern",
+      "Lechatchila Restrictions",
+      "Wife's Death & MIL"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the lechatchila ruling \u2014 the Gemara's objection that it is obvious one shouldn't marry ab initio if he must divorce after the fact, and the resolution that the clause refers back to cases where rabbis permit maintaining the marriage bedi'avad \u2014 which is precisely what the 'Lechatchila Restrictions' section's prose describes.",
+      "chosen_heading": "Lechatchila Restrictions",
+      "current_heading": "Lechatchila Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Wife's Death & MIL",
+    "candidates": [
+      "Wife's Death & MIL",
+      "Five Women Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between Rabbi Yishmael and Rabbi Akiva regarding the mother-in-law's status after the wife's death and its application to a convert, which is precisely what the 'Wife's Death & MIL' prose section describes.",
+      "chosen_heading": "Wife's Death & MIL",
+      "current_heading": "Wife's Death & MIL",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Five Women Setup",
+    "candidates": [
+      "Five Women Setup",
+      "Rotation & Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself describing the five women whose offspring were mixed and the basic ruling, which directly matches the 'Five Women Setup' section's prose about the scenario setup rather than the 'Rotation & Yibum' section which discusses the Gemara's elaboration on the rotation arrangement.",
+      "chosen_heading": "Five Women Setup",
+      "current_heading": "Five Women Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rotation & Yibum",
+    "candidates": [
+      "Rotation & Yibum",
+      "Chalitzah Before Yibum",
+      "Partial Brothers & Halitz",
+      "Paternal-Maternal Mix"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rotation & Yibum",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and the start of the Gemara discussion (item 2's opening inference) belong under 'Rotation & Yibum' but item 2 specifically introduces the procedural requirement that chalitzah must precede yibum, which is the exact topic of 'Chalitzah Before Yibum', and item 3 elaborates the reason for the rotation discussed under 'Rotation & Yibum' \u2014 however, items 2 and 3 together form a continuous Gemara unit where item 2 raises the chalitzah-first rule and item 3 explains the rotation rationale, so the true seam is after item 1 (the Mishnah closing line) with items 2-3 belonging under 'Chalitzah Before Yibum'.",
+      "second_heading": "Chalitzah Before Yibum",
+      "second_confidence": "medium",
+      "second_reason": "Items 2 and 3 are Gemara on the same Mishnah but item 2's explicit point \u2014 chalitzah must precede yibum to avoid yevamah la-shuk \u2014 matches the 'Chalitzah Before Yibum' prose precisely, and item 3's rotation rationale (dilma mistarmia le-didei) is also referenced in that section's prose.",
+      "current_heading": "Rotation & Yibum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Paternal-Maternal Mix",
+    "candidates": [
+      "Chalitzah Before Yibum",
+      "Partial Brothers & Halitz",
+      "Paternal-Maternal Mix",
+      "Kohanim Restrictions",
+      "All Chalitzah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita's confusing statement and Rav Safra's initial clarification, which matches the 'Partial Brothers & Halitz' prose that introduces the mishna's strange ruling and asks 'mai ka-amar' \u2014 the current placement under 'Paternal-Maternal Mix' covers the Rashi-level explanation that follows, but the passage itself (including the Gemara's question and Rav Safra's answer) belongs under the heading that raises the problem and introduces Rav Safra's resolution.",
+      "chosen_heading": "Partial Brothers & Halitz",
+      "current_heading": "Paternal-Maternal Mix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "All Chalitzah Cases",
+    "candidates": [
+      "Kohanim Restrictions",
+      "All Chalitzah Cases",
+      "Mother & Other Woman",
+      "Brother-Sister Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the kohen/non-kohen split (kohanim do chalitzah, non-kohanim do yibum) AND the all-chalitzah case (kohanim + maternal brothers), which maps precisely to heading 0's prose about the kohanim restriction scenario, while heading 1 ('All Chalitzah Cases') only covers the second clause \u2014 the full passage as a unit belongs under heading 0 which introduces both sub-cases of the kohanim restriction baraita.",
+      "chosen_heading": "Kohanim Restrictions",
+      "current_heading": "All Chalitzah Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Brother-Sister Mix",
+    "candidates": [
+      "Mother & Other Woman",
+      "Brother-Sister Mix",
+      "Paternal Brothers Mixed",
+      "Niece & Daughter",
+      "Slave Conversion Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three sub-cases (mother, sister, daughter under uncertainty) which are all introduced and explained in candidate 0's prose, whereas the current placement under 'Brother-Sister Mix' only covers the sister sub-case.",
+      "chosen_heading": "Mother & Other Woman",
+      "current_heading": "Brother-Sister Mix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Slave Conversion Setup",
+    "candidates": [
+      "Paternal Brothers Mixed",
+      "Niece & Daughter",
+      "Slave Conversion Setup",
+      "Mamzer from Eved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Meir's baraita about producing five nations, which is precisely what candidate 2 ('Slave Conversion Setup') describes in its prose \u2014 the purchase of slaves, their two children, one converting, and the immersion for slavery producing a third child as slave.",
+      "chosen_heading": "Slave Conversion Setup",
+      "current_heading": "Slave Conversion Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Mamzer from Eved",
+    "candidates": [
+      "Mamzer from Eved",
+      "Israeli-born Status",
+      "Mother's Ketubah Lien"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that a gentile or slave who cohabits with a Jewish woman produces a mamzer, which directly matches the current section's prose discussing the chiddush that an eved cohabiting with a free woman produces a mamzer.",
+      "chosen_heading": "Mamzer from Eved",
+      "current_heading": "Mamzer from Eved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Mother's Ketubah Lien",
+    "candidates": [
+      "Israeli-born Status",
+      "Mother's Ketubah Lien",
+      "Slave Lien Chiddush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact scenario of a man selling his father to collect his mother's ketubah, which is precisely what the 'Mother's Ketubah Lien' section's prose explains in detail.",
+      "chosen_heading": "Mother's Ketubah Lien",
+      "current_heading": "Mother's Ketubah Lien",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Slave Lien Chiddush",
+    "candidates": [
+      "Slave Lien Chiddush",
+      "Uncle-Nephew Setup",
+      "Other Brothers Chalitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the chiddush of the baraita regarding Rabbi Meir's view on eved as metalteli or mikarka'i and its relationship to ketubah liens, which is exactly what the 'Slave Lien Chiddush' prose describes.",
+      "chosen_heading": "Slave Lien Chiddush",
+      "current_heading": "Slave Lien Chiddush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Other Brothers Chalitzah",
+    "candidates": [
+      "Uncle-Nephew Setup",
+      "Other Brothers Chalitzah",
+      "Chalitzah or Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage describes the initial setup of a woman whose offspring was mixed with her daughter-in-law's offspring, and the resulting uncertainty \u2014 this matches the 'Uncle-Nephew Setup' prose which introduces exactly this scenario, while the current placement under 'Other Brothers Chalitzah' describes a consequence for other sons not mentioned in this passage.",
+      "chosen_heading": "Uncle-Nephew Setup",
+      "current_heading": "Other Brothers Chalitzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Chalitzah or Yibum",
+    "candidates": [
+      "Other Brothers Chalitzah",
+      "Chalitzah or Yibum",
+      "Role Reversal",
+      "Terumah Sharing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chalitzah or Yibum",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the sons of the elder woman performing either chalitzah or yibum because of the safek eshet achiv/eshet ben achiv uncertainty, which matches exactly the 'Chalitzah or Yibum' prose.",
+      "second_heading": "Role Reversal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the 'meitu ha-kesherim' scenario where the certain sons die and the mixed sons' obligations flip, which matches exactly the 'Role Reversal' prose discussing ha-ta'arovot li-vnei ha-zekenah choltzin ve-lo meyabbemin and li-vnei ha-kalah echad choletz ve-echad meyabem.",
+      "current_heading": "Chalitzah or Yibum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Terumah Sharing",
+    "candidates": [
+      "Role Reversal",
+      "Terumah Sharing",
+      "Restrictions While Mixed",
+      "After Mutual Freedom",
+      "Terumah Selling Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terumah Sharing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the mixed children eating teruma and receiving one share at the granary, which matches exactly the 'Terumah Sharing' prose about chelkei ke-echad ba-goren.",
+      "second_heading": "Restrictions While Mixed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the restrictions on corpse-tumah and marriage while the children are mixed, then their mutual freeing and subsequent ability to marry women fit for the priesthood, matching the 'Restrictions While Mixed' prose about ve-einam mitam'im le-meitim and ve-einam nosim nashim.",
+      "current_heading": "Terumah Sharing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Terumah Selling Solution",
+    "candidates": [
+      "Restrictions While Mixed",
+      "After Mutual Freedom",
+      "Terumah Selling Solution",
+      "Bechor Waiting for Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items cover the post-freedom rules about corpse-tumah lashes, terumah eating/payment/granary/selling, and kodshei hamikdash shares \u2014 exactly what candidate 1 ('After Mutual Freedom') describes in its prose, including the specific phrases ve-einam mitam'im, ve-im nitme'u einam sofgin, ve-einam ochlim bi-terumah, ve-im achlu einam meshalmin, ve-einam cholkin al ha-goren, u-mochrin et ha-terumah, and ve-einam cholkin be-kodshei ha-mikdash.",
+      "chosen_heading": "After Mutual Freedom",
+      "current_heading": "Terumah Selling Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Bechor Waiting for Mum",
+    "candidates": [
+      "Terumah Selling Solution",
+      "Bechor Waiting for Mum",
+      "Double Stringencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states 've-notnim alav chomrei kohanim ve-chomrei Yisraelim' (the double stringencies formula), which is precisely what candidate 2 'Double Stringencies' discusses, and also mentions the bechor grazing until blemished \u2014 but the closing phrase about double stringencies is the defining content that matches candidate 2's prose exactly.",
+      "chosen_heading": "Double Stringencies",
+      "current_heading": "Bechor Waiting for Mum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Double Stringencies",
+    "candidates": [
+      "Bechor Waiting for Mum",
+      "Double Stringencies",
+      "Rabbi Yehudah's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the 'Double Stringencies' prose: item 1 corresponds to the Rav Pappa/vadayim correction, and item 2 corresponds to the chalitza-before-yibum ruling regarding b'nei hakala \u2014 both of which are described in that section's prose.",
+      "chosen_heading": "Double Stringencies",
+      "current_heading": "Double Stringencies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Rabbi Yehudah's Rule",
+    "candidates": [
+      "Rabbi Yehudah's Rule",
+      "Rabbi Yossi's Allowance",
+      "Perception-Based Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and explain the mishna's ruling ('chelek ke-echad') in light of Rabbi Yehudah's position that teruma is distributed to a slave only when his master is present, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Rabbi Yehudah's Rule",
+      "current_heading": "Rabbi Yehudah's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Perception-Based Halacha",
+    "candidates": [
+      "Rabbi Yossi's Allowance",
+      "Perception-Based Halacha",
+      "Elazar's Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the geographic/communal difference between Rabbi Yehuda's and Rabbi Yossi's locales regarding whether teruma collection implies priestly lineage, which is precisely what the 'Perception-Based Halacha' section's prose discusses in detail.",
+      "chosen_heading": "Perception-Based Halacha",
+      "current_heading": "Perception-Based Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Elazar's Testimony",
+    "candidates": [
+      "Elazar's Testimony",
+      "Prevented Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself stating Rabbi Elazar bar Tzadok's testimony, which directly matches heading 0's prose describing that exact baraita, before the Gemara's objection and emendation discussed in heading 1.",
+      "chosen_heading": "Elazar's Testimony",
+      "current_heading": "Elazar's Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Prevented Error",
+    "candidates": [
+      "Prevented Error",
+      "Locale Customs Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's objection ('can it enter your mind they promoted him?') and the a fortiori argument about the animals of the righteous, which is precisely what the 'Prevented Error' section's prose is discussing and quoting.",
+      "chosen_heading": "Prevented Error",
+      "current_heading": "Prevented Error",
+      "moved": false
+    }
+  }
+]

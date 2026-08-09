@@ -1,0 +1,376 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Mishna: Pesach & Chatat",
+    "candidates": [
+      "Mishna: Pesach & Chatat",
+      "Four Avodot Explained"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna: Pesach & Chatat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna stating the disqualification rule, which matches heading 0's prose about the mishna's comprehensive statement of pesulim for pesach and chatat.",
+      "second_heading": "Four Avodot Explained",
+      "second_confidence": "high",
+      "second_reason": "Item 2 illustrates the mixed-intent cases (lishmah/shelo lishmah with pesach/shelamim examples), which matches heading 1's prose that explicitly describes these same illustrations of mixed intent.",
+      "current_heading": "Mishna: Pesach & Chatat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Four Avodot Explained",
+    "candidates": [
+      "Four Avodot Explained",
+      "R. Shimon on Holachah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly enumerates the four avodot (slaughtering, collecting, conveying, sprinkling) that disqualify a sacrifice, which is precisely what the 'Four Avodot Explained' section's prose discusses.",
+      "chosen_heading": "Four Avodot Explained",
+      "current_heading": "Four Avodot Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "R. Shimon on Holachah",
+    "candidates": [
+      "R. Shimon on Holachah",
+      "R. Eliezer's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Shimon's ruling that holachah does not invalidate an offering due to improper intent, citing the possibility of slaughtering alongside the altar \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "R. Shimon on Holachah",
+      "current_heading": "R. Shimon on Holachah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "R. Eliezer's Distinction",
+    "candidates": [
+      "R. Eliezer's Distinction",
+      "Kabbalah Disqualification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's statement about machshavah being poselet only during a required holachah, which is precisely what the prose under 'R. Eliezer's Distinction' discusses.",
+      "chosen_heading": "R. Eliezer's Distinction",
+      "current_heading": "R. Eliezer's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Kabbalah Disqualification",
+    "candidates": [
+      "Kabbalah Disqualification",
+      "Deriving from Vayikra 7",
+      "Hikrivu = Kabalah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question about whether kabbalah can disqualify an offering, which matches exactly the prose in heading 0 ('Kabbalah Disqualification') that describes the Gemara raising a pointed question about whether kabbalah has the capacity to disqualify an offering through improper intent.",
+      "chosen_heading": "Kabbalah Disqualification",
+      "current_heading": "Kabbalah Disqualification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Hikrivu = Kabalah",
+    "candidates": [
+      "Deriving from Vayikra 7",
+      "Hikrivu = Kabalah",
+      "Rashi: Kabalah & Holachah",
+      "R. Tarfon Affirms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita establishing that ve'hikrivu = kabbalah and that it requires a fit kohen with service vestments, which is precisely what heading 1 ('Hikrivu = Kabalah') describes in its prose.",
+      "chosen_heading": "Hikrivu = Kabalah",
+      "current_heading": "Hikrivu = Kabalah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "R. Tarfon Affirms",
+    "candidates": [
+      "Rashi: Kabalah & Holachah",
+      "R. Tarfon Affirms",
+      "R. Akiva's Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Tarfon's statement that he remembers a distinction between kabbalah and zrikah but cannot articulate it, which is precisely what the prose of 'R. Tarfon Affirms' describes.",
+      "chosen_heading": "R. Tarfon Affirms",
+      "current_heading": "R. Tarfon Affirms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "R. Akiva's Distinctions",
+    "candidates": [
+      "R. Akiva's Distinctions",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Akiva's three distinctions between kabbalah and zrikah, and Rabbi Tarfon's tribute \u2014 are explicitly discussed in the prose of heading 0, which covers exactly this content including the linguistic play on p-r-sh and the resulting legal tension with the mishna.",
+      "chosen_heading": "R. Akiva's Distinctions",
+      "current_heading": "R. Akiva's Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Pigul Definition",
+      "Vayikra 7:18 & Pigul",
+      "Which Avodot = Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's resolution \u2014 the lo kashya distinction between pigul and shelo lishmah \u2014 plus the Gemara's linguistic confirmation from the mishna's use of 'pasul' rather than 'mitpagel', which is precisely what the 'Rava's Resolution' prose describes.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Which Avodot = Pigul",
+    "candidates": [
+      "Pigul Definition",
+      "Vayikra 7:18 & Pigul",
+      "Which Avodot = Pigul",
+      "Pigul Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita establishing which avodot are subject to piggul intent (shechitah, kabbalah, zrikah) and which are excluded (shefichat shirayim, haktarat imurim based on me'akevet kaparah), which is precisely what the 'Which Avodot = Pigul' prose section describes.",
+      "chosen_heading": "Which Avodot = Pigul",
+      "current_heading": "Which Avodot = Pigul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Pigul Examples",
+    "candidates": [
+      "Pigul Examples",
+      "Pigul & Eating Acts",
+      "R. Yehuda's Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer resolving the tension between Rava's ruling and the baraita about piggul intent during shechitah/kabbalah/zer\u0438\u043aah/shefichat shirayim, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Pigul Examples",
+      "current_heading": "Pigul Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "R. Yehuda's Testimony",
+    "candidates": [
+      "Pigul & Eating Acts",
+      "R. Yehuda's Testimony",
+      "Pigul from Shelamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda son of Rabbi \u1e24iyya's exact testimony about tevilat etzba rendering the inner chatat pigul, which is precisely what the prose under heading 1 ('R. Yehuda's Testimony') describes and introduces.",
+      "chosen_heading": "R. Yehuda's Testimony",
+      "current_heading": "R. Yehuda's Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Pigul from Shelamim",
+    "candidates": [
+      "Pigul from Shelamim",
+      "R. Yosi's Approach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Pigul from Shelamim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Ilfa/Rav Padda's exchange and the ribbui de'kra'ei resolution, which is exactly what the 'Pigul from Shelamim' prose describes \u2014 Rav Padda's objection, the shelo lishmah counter-argument, and the amplification-of-verse answer.",
+      "second_heading": "R. Yosi's Approach",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present Rabbi Yehoshua ben Levi's report, Reish Lakish's challenge, and Rabbi Yosi bar Rabbi Chanina's resolution via the chutz limkomo/shelo lishmo parallel, which is precisely what the 'R. Yosi's Approach' prose describes.",
+      "current_heading": "Pigul from Shelamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "R. Yosi's Approach",
+    "candidates": [
+      "R. Yosi's Approach",
+      "R. Yirmiyah's Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yirmiyah's challenge to Rabbi Yosi's analogy, arguing that chutz limkomo applies to all offerings while shelo lishmo applies only to pesach and chatat \u2014 this is precisely the content described in candidate 1's prose under 'R. Yirmiyah's Framework.'",
+      "chosen_heading": "R. Yirmiyah's Framework",
+      "current_heading": "R. Yosi's Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "R. Yirmiyah's Framework",
+    "candidates": [
+      "R. Yirmiyah's Framework",
+      "Inner Chatat Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items apply Rabbi Yirmiyah's davar ha'posel/davar ha'me'akev framework specifically to the inner chatat, concluding that tevilat etzba renders it pigul \u2014 which is precisely what the 'Inner Chatat Ruling' prose section describes as the question driving the remainder of the analysis.",
+      "chosen_heading": "Inner Chatat Ruling",
+      "current_heading": "R. Yirmiyah's Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Inner Chatat Ruling",
+    "candidates": [
+      "Inner Chatat Ruling",
+      "Rav Mari's Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Mari's citation of the Menachot mishna listing the four avodot of the minchah, which directly matches the prose of 'Rav Mari's Analogy' describing exactly this mishna and its four acts.",
+      "chosen_heading": "Rav Mari's Analogy",
+      "current_heading": "Inner Chatat Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rav Mari's Analogy",
+    "candidates": [
+      "Rav Mari's Analogy",
+      "Noten Bikli Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly works through the parallels between kometz/shechitah, molich/holachah, and maktir/zrikah, then poses the question about noten bikli \u2014 this is precisely the content described in Rav Mari's Analogy prose, which sets up these exact comparisons before the challenge about noten bikli is addressed in the next section.",
+      "chosen_heading": "Rav Mari's Analogy",
+      "current_heading": "Rav Mari's Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Noten Bikli Parallel",
+    "candidates": [
+      "Noten Bikli Parallel",
+      "Finger Dip, No Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge that noten bikli and kabbalah are not comparable because kabbalah happens memeilah (by itself) while noten bikli involves active placement, which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Noten Bikli Parallel",
+      "current_heading": "Noten Bikli Parallel",
+      "moved": false
+    }
+  }
+]

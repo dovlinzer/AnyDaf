@@ -1,0 +1,447 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Intro: Holacha Shelo Bar",
+    "candidates": [
+      "Intro: Holacha Shelo Bar",
+      "Yochanan: Not Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain of question-challenge-rebuttal concerning whether holacha she-lo baragel constitutes valid holacha, which is precisely the topic introduced in candidate 0's prose.",
+      "chosen_heading": "Intro: Holacha Shelo Bar",
+      "current_heading": "Intro: Holacha Shelo Bar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Yochanan: Not Valid",
+    "candidates": [
+      "Yochanan: Not Valid",
+      "Efshar Letikuna Question",
+      "Mishna: Reversibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the itmar of Ulla citing Rabbi Yochanan that holacha she-lo baragel lo shema holacha, which is precisely what the prose under 'Yochanan: Not Valid' describes.",
+      "chosen_heading": "Yochanan: Not Valid",
+      "current_heading": "Yochanan: Not Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Mishna: Reversibility",
+    "candidates": [
+      "Efshar Letikuna Question",
+      "Mishna: Reversibility",
+      "Gemara: Direction Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the gemara's question of 'efshar letikuna o lo efshar letikuna' and the initial attempt to answer it from the mishnah of kibel hachasher v'natan l'pasul \u2014 precisely what candidate 0's prose describes as the primary focus of the efshar letikuna question section.",
+      "chosen_heading": "Efshar Letikuna Question",
+      "current_heading": "Mishna: Reversibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Gemara: Direction Matters",
+    "candidates": [
+      "Mishna: Reversibility",
+      "Gemara: Direction Matters",
+      "Spilled Blood Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gemara: Direction Matters",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the zar gavai/barai distinction) is explicitly discussed in the 'Gemara: Direction Matters' prose as the gemara's reframing of the mishnah case.",
+      "second_heading": "Mishna: Reversibility",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Ulla/Rabbi Yo\u1e25anan's ruling that holacha she-lo baragel is pesula, implying lo efshar letikuna) is explicitly described in the 'Mishna: Reversibility' prose as the surface that follows once the gemara reads the mishnah in its simple sense.",
+      "current_heading": "Gemara: Direction Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Spilled Blood Case",
+    "candidates": [
+      "Spilled Blood Case",
+      "Blood Spillage Mizbeach",
+      "Gemara Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man's objection to Ulla about blood spilled from a vessel onto the floor and collected, which is exactly what the 'Spilled Blood Case' prose describes as its content.",
+      "chosen_heading": "Spilled Blood Case",
+      "current_heading": "Spilled Blood Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Gemara Solutions",
+    "candidates": [
+      "Blood Spillage Mizbeach",
+      "Gemara Solutions",
+      "Nishpach Without Kabbalah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Gemara Solutions' prose, which explicitly describes the kesheyatza lachutz limitation and the three technical scenarios (midron, guma, smicha) that appear in items 1 and 2.",
+      "chosen_heading": "Gemara Solutions",
+      "current_heading": "Gemara Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Nishpach Without Kabbalah",
+    "candidates": [
+      "Nishpach Without Kabbalah",
+      "Movement Invalid",
+      "Radical Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the gemara's objection about the tanna constructing narrow cases and the proof from nishpach al haritzpa, which the prose of 'Nishpach Without Kabbalah' directly describes and analyzes.",
+      "chosen_heading": "Nishpach Without Kabbalah",
+      "current_heading": "Nishpach Without Kabbalah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Radical Proposal",
+    "candidates": [
+      "Movement Invalid",
+      "Radical Proposal",
+      "Large vs. Small Holacha",
+      "Chatas Ha'of Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly introduces the distinction between 'holacha rabta' (greater conveying, everyone agrees it is unfit) and 'holacha zutarta' (lesser conveying, the subject of dispute), which is precisely what candidate 2 'Large vs. Small Holacha' describes in its prose.",
+      "chosen_heading": "Large vs. Small Holacha",
+      "current_heading": "Radical Proposal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Chatas Ha'of Application",
+    "candidates": [
+      "Large vs. Small Holacha",
+      "Chatas Ha'of Application",
+      "Hand-Cutting Hypothetical",
+      "Avodah Until Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the laughing-at-the-proposal objection from Eretz Yisrael about chatas ha'of and where machshava could invalidate according to Rabbi Shimon, which is precisely what the 'Chatas Ha'of Application' prose describes.",
+      "chosen_heading": "Chatas Ha'of Application",
+      "current_heading": "Chatas Ha'of Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Avodah Until Impact",
+    "candidates": [
+      "Hand-Cutting Hypothetical",
+      "Avodah Until Impact",
+      "Rejection from E.Y."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Avodah Until Impact",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's opening challenge \u2014 'what is the difficulty, perhaps the disqualification occurs from when the blood leaves until it reaches the altar' \u2014 which is the setup question that belongs under 'Avodah Until Impact', the section that discusses the blood mid-flight as the critical window.",
+      "second_heading": "Hand-Cutting Hypothetical",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbi Yirmeyah/Rabbi Zeira hand-cutting hypothetical with its ruling and reasoning (ve-hizah ve-natan), which is precisely what the 'Hand-Cutting Hypothetical' prose section describes in detail.",
+      "current_heading": "Avodah Until Impact",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Rejection from E.Y.",
+    "candidates": [
+      "Rejection from E.Y.",
+      "Correction: Debate Scope",
+      "Zar Conveys",
+      "Debate: Fixable?",
+      "Reverse Scenario",
+      "Last Act Matters",
+      "Rava: Ongoing Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the report of Rav Pappa and Rav Huna returning from the academy and laughing at the claim that there is no dispute regarding holacha rabta \u2014 which is precisely what candidate 0 ('Rejection from E.Y.') describes, while candidate 1 describes only the corrective conclusion (ela be-holacha zutarta) that follows afterward.",
+      "chosen_heading": "Rejection from E.Y.",
+      "current_heading": "Rejection from E.Y.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Rava: Ongoing Obligation",
+    "candidates": [
+      "Correction: Debate Scope",
+      "Zar Conveys",
+      "Debate: Fixable?",
+      "Reverse Scenario",
+      "Last Act Matters",
+      "Rava: Ongoing Obligation",
+      "Eliezer: Necessity Requi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-4 cover the sons of Rabbi \u1e24iyya/Rabbi Yannai debate about whether a zar's holacha is correctable and the subsequent Rav Shimi/Rava analysis, all of which is introduced and described in candidate 2 ('Debate: Fixable?'), which explicitly mentions the zar conveying blood, the chad amar kasher/pasul dispute, and the efshar letikuna framework \u2014 the current placement under 'Rava: Ongoing Obligation' captures only the tail end of this passage.",
+      "chosen_heading": "Debate: Fixable?",
+      "current_heading": "Rava: Ongoing Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Eliezer: Necessity Requi",
+    "candidates": [
+      "Rava: Ongoing Obligation",
+      "Eliezer: Necessity Requi",
+      "Rava: Doubling Back",
+      "Common Ground",
+      "The Real Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly what heading 1 ('Eliezer: Necessity Requi') describes: Rabbi Yirmeyah citing to Rav Ashi that the principle of tzarich le-amtuye is subject to the machloket between Rabbi Eliezer and the Rabbis, followed by the relevant mishnah text about machshavah invalidating only where holacha is necessary.",
+      "chosen_heading": "Eliezer: Necessity Requi",
+      "current_heading": "Eliezer: Necessity Requi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "The Real Debate",
+    "candidates": [
+      "Rava: Doubling Back",
+      "Common Ground",
+      "The Real Debate",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly what the 'Common Ground' prose describes: item 1 establishes the uncontested cases (blood collected outside and brought in = necessary; collected inside and taken out = unnecessary), and item 2 states that the dispute is only about the doubled-back case \u2014 precisely what that section's prose says Rava establishes as common ground before identifying where the real dispute lies.",
+      "chosen_heading": "Common Ground",
+      "current_heading": "The Real Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "The Real Debate",
+      "Abaye's Challenge",
+      "Resolution",
+      "New Perek Overview",
+      "Invalidating Categories"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's challenge from the baraita, which the prose under 'Abaye's Challenge' explicitly discusses in detail.",
+      "second_heading": "Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's 'ei tanya tanya' response, which the 'Resolution' prose explicitly discusses as its opening point.",
+      "current_heading": "Abaye's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Invalidating Categories",
+    "candidates": [
+      "Resolution",
+      "New Perek Overview",
+      "Invalidating Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'Hadaran alach Kol HaZvachim' is the traditional closing formula recited at the end of a tractate/perek, and the prose under 'Resolution' explicitly states 'with this, the gemara closes the first perek \u2014 Kol HaZvachim,' making it the clear home for this concluding marker.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Invalidating Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Invalidating Categories",
+    "candidates": [
+      "Invalidating Categories",
+      "Deriving from Pessukim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishna enumerating the invalidating categories (including left-hand collection and Rabbi Shimon's dissent), which is exactly what the prose under 'Invalidating Categories' describes and summarizes.",
+      "chosen_heading": "Invalidating Categories",
+      "current_heading": "Invalidating Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Deriving from Pessukim",
+    "candidates": [
+      "Deriving from Pessukim",
+      "Kal V'Chomer Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Deriving from Pessukim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 derive the zar's chilul from the verse 've-yinazru' via Levi's interpretation of 'Bnei Yisrael', exactly matching the prose of 'Deriving from Pessukim' which discusses this scriptural derivation.",
+      "second_heading": "Kal V'Chomer Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 4-17 present the kal va-chomer derivations from ba'al mum, tamei, and related cases, exactly matching the 'Kal V'Chomer Logic' prose which discusses these a fortiori inferences.",
+      "current_heading": "Deriving from Pessukim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Kal V'Chomer Logic",
+    "candidates": [
+      "Kal V'Chomer Logic",
+      "Common Denominator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Items 5-8 clearly match the 'Kal V'Chomer Logic' heading's discussion of ba'al mum and zar, and items 1-4 on onen derivation, while not perfectly described by candidate 0's prose, have no better home among the listed candidates.",
+      "chosen_heading": "Kal V'Chomer Logic",
+      "current_heading": "Kal V'Chomer Logic",
+      "moved": false
+    }
+  }
+]

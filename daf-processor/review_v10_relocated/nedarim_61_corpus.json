@@ -1,0 +1,355 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Intro: Harvest Terms",
+    "candidates": [
+      "Intro: Harvest Terms",
+      "Fixed vs. Unfixed",
+      "Ein Zmano Kavua",
+      "Kayitz & Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the mishna text itself \u2014 the harvest-term vows, the fixed/unfixed klal, and the kayitz illustration \u2014 which is precisely what the 'Intro: Harvest Terms' prose summarizes in full, including the kalkalot and maktzuot details.",
+      "chosen_heading": "Intro: Harvest Terms",
+      "current_heading": "Intro: Harvest Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Kayitz & Fruit",
+    "candidates": [
+      "Fixed vs. Unfixed",
+      "Ein Zmano Kavua",
+      "Kayitz & Fruit",
+      "End of Kayitz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss what constitutes 'kayitz' produce \u2014 specifically the basket of figs vs. grapes distinction and the hand-picking rationale \u2014 which is precisely what the 'Kayitz & Fruit' section's prose describes.",
+      "chosen_heading": "Kayitz & Fruit",
+      "current_heading": "Kayitz & Fruit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "End of Kayitz",
+    "candidates": [
+      "End of Kayitz",
+      "Huflu Rov Rule",
+      "Rabbi's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly establish the 'rov hamaktzaot' threshold rule and its legal consequences (theft/tithes exemption), which is precisely what the 'End of Kayitz' section's prose discusses before moving on to the stories.",
+      "chosen_heading": "End of Kayitz",
+      "current_heading": "End of Kayitz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rabbi's Story",
+    "candidates": [
+      "Huflu Rov Rule",
+      "Rabbi's Story",
+      "Rav Chama Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of Rabbi and Rabbi Yosei bar Rabbi Yehuda eating (or not eating) figs when most knives had been set aside, which is precisely what the 'Rabbi's Story' prose section describes and analyzes.",
+      "chosen_heading": "Rabbi's Story",
+      "current_heading": "Rabbi's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rav Chama Story",
+    "candidates": [
+      "Rav Chama Story",
+      "Rabbi Tarfon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Rabbi \u1e24ama bar Rabbi \u1e24anina eating figs and instructing his attendant, which matches the prose of candidate 0 precisely.",
+      "chosen_heading": "Rav Chama Story",
+      "current_heading": "Rav Chama Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rabbi Tarfon Story",
+    "candidates": [
+      "Rabbi Tarfon Story",
+      "Kitra Shel Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rabbi Tarfon being put in a sack and his subsequent lifelong remorse, which is exactly what the 'Rabbi Tarfon Story' prose section discusses in detail.",
+      "chosen_heading": "Rabbi Tarfon Story",
+      "current_heading": "Rabbi Tarfon Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Kitra Shel Torah",
+    "candidates": [
+      "Kitra Shel Torah",
+      "Learning Motivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed together in candidate 0's prose, which covers the Rabbah bar bar \u1e24ana/Rabbi Yochanan teaching about misusing the crown of Torah (item 1) and the subsequent Gemara about Rabbi Tarfon's situation with the vineyard owner and his wealth (item 2).",
+      "chosen_heading": "Kitra Shel Torah",
+      "current_heading": "Kitra Shel Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Learning Motivation",
+    "candidates": [
+      "Learning Motivation",
+      "Elazar's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous baraita about learning Torah out of love rather than for honor, and the 'Learning Motivation' prose directly discusses this baraita's content including the specific verses and conclusions cited.",
+      "chosen_heading": "Learning Motivation",
+      "current_heading": "Learning Motivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Elazar's Teaching",
+    "candidates": [
+      "Elazar's Teaching",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the teaching of Rabbi Eliezer bar Rabbi Tzadok about doing things for their own sake and the Belshazzar a fortiori argument, which is precisely what the prose under 'Elazar's Teaching' describes.",
+      "chosen_heading": "Elazar's Teaching",
+      "current_heading": "Elazar's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Known vs. Unknown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling with its proof-text and the Rabbi Tarfon difficulty with its resolution, which is exactly what heading 0's prose discusses as Rava's position and its immediate context, while heading 1's prose discusses the tension and resolution as a secondary analysis that presupposes the passage has already been introduced.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Known vs. Unknown",
+    "candidates": [
+      "Known vs. Unknown",
+      "Ran's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's resolution of the contradiction between self-praise and the verse 'let another praise you,' resolved by the known/unknown distinction \u2014 which is precisely what the 'Known vs. Unknown' section's prose discusses.",
+      "chosen_heading": "Known vs. Unknown",
+      "current_heading": "Known vs. Unknown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Ran's View",
+    "candidates": [
+      "Ran's View",
+      "Poll Tax Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Ran's View prose explicitly discusses the derivation from 'u-vnei David kohanim hayu,' the kohen priority principle, and the school of Rabbi Yishmael's elaboration of v'kidashto \u2014 precisely the content of these two items about Rava's statement and the priority of Torah scholars derived from priestly priority.",
+      "chosen_heading": "Ran's View",
+      "current_heading": "Ran's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Poll Tax Exempt",
+    "candidates": [
+      "Poll Tax Exempt",
+      "Servant of Flame",
+      "Ran's Justification",
+      "Rav Ashi Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Poll Tax Exempt",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the content described in heading 0's prose \u2014 Rava's ruling permitting a Torah scholar to declare exemption from the poll tax based on the Ezra verse, with Rav Yehuda's identification of minda, belo, and halakh.",
+      "second_heading": "Servant of Flame",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the content described in heading 1's prose \u2014 Rava's further ruling permitting a Torah scholar to declare 'I am a servant of fire' to avoid the poll tax, explained as chasing away the lion.",
+      "current_heading": "Poll Tax Exempt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rav Ashi Case",
+    "candidates": [
+      "Servant of Flame",
+      "Ran's Justification",
+      "Rav Ashi Case",
+      "Rav Ashi Defense",
+      "Ashkenazi Context",
+      "Tosafot Ruling",
+      "Mountain vs. Valley"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi selling wood to bei nura and Ravina's lifnei iver challenge, which is exactly what candidate 2 ('Rav Ashi Case') discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Rav Ashi Case",
+      "current_heading": "Rav Ashi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Mountain vs. Valley",
+    "candidates": [
+      "Rav Ashi Defense",
+      "Ashkenazi Context",
+      "Tosafot Ruling",
+      "Mountain vs. Valley",
+      "Second Rain",
+      "Rain Season"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna discusses vows lasting 'until the harvest' (wheat vs barley) and how the location at the time of the vow determines the reference point \u2014 exactly what the 'Mountain vs. Valley' section's prose describes with hakol lefi mekom nidro and the mountain/valley distinction.",
+      "chosen_heading": "Mountain vs. Valley",
+      "current_heading": "Mountain vs. Valley",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rain Season",
+    "candidates": [
+      "Second Rain",
+      "Rain Season",
+      "When Rain Ends",
+      "Galil to Valley"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the content of the mishna starting from 'until the rains' through 'until the second rain falls' (Rabban Shimon ben Gamliel's qualification) and 'until the rains end' (Rabbi Meir and Rabbi Yehuda), and heading 0 'Second Rain' is where this mishna begins \u2014 the subsequent headings (1 and 2) discuss the individual opinions in the mishna separately, but the full mishna text belongs under the first heading where it is introduced.",
+      "chosen_heading": "Second Rain",
+      "current_heading": "Rain Season",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Galil to Valley",
+    "candidates": [
+      "When Rain Ends",
+      "Galil to Valley",
+      "Singular/Plural"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita is directly about vowing 'until the kayitz in the Galil' and descending to the valleys, which is precisely what the 'Galil to Valley' section's prose discusses.",
+      "chosen_heading": "Galil to Valley",
+      "current_heading": "Galil to Valley",
+      "moved": false
+    }
+  }
+]

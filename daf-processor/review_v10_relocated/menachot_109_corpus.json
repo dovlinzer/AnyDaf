@@ -1,0 +1,438 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Alai Lehavio Read",
+    "candidates": [
+      "Sanctification Types",
+      "Alai Lehavio Read",
+      "Animal vs. Value",
+      "Two vs. Three Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete sugya about Rav Menashya bar Zevid's ruling and its reformulation \u2014 item 1 is the initial ruling, item 2 is the challenge, and item 3 is the corrected version \u2014 and the 'Sanctification Types' prose explicitly covers this entire progression including the challenge and reformulation, whereas 'Alai Lehavio Read' only covers items 2-3 and misses item 1's initial formulation.",
+      "chosen_heading": "Sanctification Types",
+      "current_heading": "Alai Lehavio Read",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Two vs. Three Animals",
+    "candidates": [
+      "Animal vs. Value",
+      "Two vs. Three Animals",
+      "Shmuel's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mishna about the two-animal vs. three-animal consecration cases and the Gemara's initial observation about the contradiction between generous and stingy eye \u2014 are precisely the content described in the 'Two vs. Three Animals' prose section.",
+      "chosen_heading": "Two vs. Three Animals",
+      "current_heading": "Two vs. Three Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Shmuel's Explanation",
+    "candidates": [
+      "Shmuel's Explanation",
+      "Blemish Technique"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel's Explanation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's ruling about the middle animal being a live possibility, which matches heading 0's prose about Shmuel's resolution of the ambiguity between middle and best animals.",
+      "second_heading": "Blemish Technique",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi \u1e24iyya bar Rav's practical blemish technique for resolving the ambiguity, which matches heading 1's prose about '\u05d4\u05d9\u05db\u05d9 \u05e2\u05d1\u05d9\u05d3' and waiting for the middle animal to become blemished.",
+      "current_heading": "Shmuel's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Blemish Technique",
+    "candidates": [
+      "Blemish Technique",
+      "Mixed-Up Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Na\u1e25man's distinction between 'one of my bulls' vs. 'a bull from my bulls,' and the Gemara's challenge from Ulla's house-sale ruling \u2014 are explicitly discussed in the prose of heading 0 ('Blemish Technique'), which walks through exactly this exchange about tora betorai and the aliyya challenge.",
+      "chosen_heading": "Blemish Technique",
+      "current_heading": "Blemish Technique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Mixed-Up Animals",
+    "candidates": [
+      "Mixed-Up Animals",
+      "House Among Houses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the objection from the baraita about a mixed-up consecrated ox and the Gemara's resolution, which matches exactly the 'Mixed-Up Animals' prose discussing that same baraita and its distinction between the two cases.",
+      "chosen_heading": "Mixed-Up Animals",
+      "current_heading": "Mixed-Up Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "House Among Houses",
+    "candidates": [
+      "House Among Houses",
+      "Seller's Prerogative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita raising an objection about 'a house from my houses' and 'a slave from my slaves,' which is precisely what heading 0's prose describes as the Gemara citing this baraita.",
+      "chosen_heading": "House Among Houses",
+      "current_heading": "House Among Houses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Seller's Prerogative",
+    "candidates": [
+      "Seller's Prerogative",
+      "Olah in Beit Chonyo",
+      "Vow Fulfillment",
+      "Rav Hamnuna's Read",
+      "Nazirite Difference",
+      "Rava's Conditional Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the principle of \u05d9\u05d3 \u05d1\u05e2\u05dc \u05d4\u05e9\u05d8\u05e8 \u05e2\u05dc \u05d4\u05ea\u05d7\u05ea\u05d5\u05e0\u05d4 (the document holder is at a disadvantage) in the context of a buyer/seller dispute, which is precisely what the 'Seller's Prerogative' prose elaborates upon, including the same specific points about the fallen house/dead slave, the purchaser distinction, and the attic (\u05e2\u05dc\u05d9\u05d9\u05d4) case resolved via this principle.",
+      "chosen_heading": "Seller's Prerogative",
+      "current_heading": "Seller's Prerogative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Rava's Conditional Read",
+    "candidates": [
+      "Olah in Beit Chonyo",
+      "Vow Fulfillment",
+      "Rav Hamnuna's Read",
+      "Nazirite Difference",
+      "Rava's Conditional Read",
+      "Rav Yochanan's Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Olah in Beit Chonyo",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text covering the olah and nazirite cases in Beit Chonyo, which belongs under heading 0 ('Olah in Beit Chonyo') and heading 1 ('Vow Fulfillment') \u2014 but since heading 0's prose explicitly introduces this mishna and heading 1's prose discusses its content in detail, and the mishna is a single unit, it fits best under heading 1 which discusses both the olah and nazirite cases of the mishna in full.",
+      "second_heading": "Rav Hamnuna's Read",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 are the Gemara discussion beginning with the challenge to 'yotzei' and covering Rav Hamnuna's interpretation, Rava's challenge, and their respective responses, which belongs under heading 2 ('Rav Hamnuna's Read') as that prose directly describes this Gemara exchange.",
+      "current_heading": "Rava's Conditional Read",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rav Yochanan's Ruling",
+    "candidates": [
+      "Rava's Conditional Read",
+      "Rav Yochanan's Ruling",
+      "Disqualification Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's proof that Rabbi Yo\u1e25anan holds like Rav Hamnuna \u2014 the ruling about the olah vowed for Beit Chonyo and the supporting baraita about the wilderness \u2014 which is precisely what candidate 1 ('Rav Yochanan's Ruling') discusses, including both the yotzei/karet formulation and the baraita confirmation.",
+      "chosen_heading": "Rav Yochanan's Ruling",
+      "current_heading": "Rav Yochanan's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Disqualification Rule",
+    "candidates": [
+      "Disqualification Rule",
+      "Shechita Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage directly discusses the disqualification of priests who served in Beit Chonyo from serving in Jerusalem, matching precisely the prose in candidate 0 which describes this exact mishna and its halakhic ruling about them being like blemished priests.",
+      "chosen_heading": "Disqualification Rule",
+      "current_heading": "Disqualification Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Shechita Exception",
+    "candidates": [
+      "Shechita Exception",
+      "Zrika Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Yehuda's ruling that a kohen who slaughtered for avodah zarah may still have his korban accepted, and Rav Yitzchak bar Avdimi's derivation that shechita is not 'sheirus' \u2014 exactly the content described in the 'Shechita Exception' prose.",
+      "chosen_heading": "Shechita Exception",
+      "current_heading": "Shechita Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Zrika Debate",
+    "candidates": [
+      "Zrika Debate",
+      "Rav Nechman Lenient",
+      "Rav Sheshet Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items form one continuous dispute between Rav Na\u1e25man and Rav Sheshet about shogeg bizrika, including their prooftexts and the closing \u05d5\u05d0\u05d6\u05d3\u05d5 \u05dc\u05d8\u05e2\u05de\u05d9\u05d9\u05d4\u05d5 statement, which the 'Zrika Debate' prose explicitly covers in full.",
+      "chosen_heading": "Zrika Debate",
+      "current_heading": "Zrika Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Rav Sheshet Strict",
+    "candidates": [
+      "Rav Nechman Lenient",
+      "Rav Sheshet Strict",
+      "Other Avodah Zarah Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together form the Rav Nachman/Rav Sheshet dispute and the baraita proof with Rav Sheshet's reinterpretation of it, which is precisely what the 'Rav Sheshet Strict' prose section describes \u2014 including the *\u05d0\u05dd \u05e9\u05d1 \u05de\u05e2\u05d9\u05e7\u05e8\u05d5* reading and the *\u05e0\u05e2\u05e9\u05d4 \u05de\u05e9\u05e8\u05ea* reasoning.",
+      "chosen_heading": "Rav Sheshet Strict",
+      "current_heading": "Rav Sheshet Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Other Avodah Zarah Acts",
+    "candidates": [
+      "Other Avodah Zarah Acts",
+      "Shimon's Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Rav Na\u1e25man/Rav Sheshet disputes about bowing to and acknowledging idolatry, plus the 'tzricha' explanation of why all cases must be stated \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Other Avodah Zarah Acts",
+      "current_heading": "Other Avodah Zarah Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Shimon's Prophecy",
+    "candidates": [
+      "Shimon's Prophecy",
+      "The Garb Trick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover exactly the content described in heading 0's prose: the Gemara's inference that Beit Chonyo is not avodah zarah, followed by the baraita about Shimon HaTzaddik's prophetic vision of the white/black-clad elder on Yom Kippur, his subsequent illness, death, and the cessation of the Priestly Benediction with the divine name.",
+      "chosen_heading": "Shimon's Prophecy",
+      "current_heading": "Shimon's Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "The Garb Trick",
+    "candidates": [
+      "The Garb Trick",
+      "Two Versions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the garb trick \u2014 Shimei dressing Chonyo in female garments and staging a false inauguration \u2014 which is precisely what the prose under 'The Garb Trick' (index 0) discusses in detail.",
+      "chosen_heading": "The Garb Trick",
+      "current_heading": "The Garb Trick",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Two Versions",
+    "candidates": [
+      "Two Versions",
+      "Alexandria Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two competing versions of the Chonyo/Shimei story \u2014 Rabbi Meir's account (item 1) and Rabbi Yehuda's account (item 2) \u2014 which is precisely what the 'Two Versions' section prose describes in detail, covering both versions together.",
+      "chosen_heading": "Two Versions",
+      "current_heading": "Two Versions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Alexandria Altar",
+    "candidates": [
+      "Alexandria Altar",
+      "Power Danger Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly quoted and discussed in the 'Alexandria Altar' prose, which covers Onias fleeing to Egypt, building the altar le-shem shamayim, the Isaiah verse, and the Sages' comment about jealousy in those who flee from power.",
+      "chosen_heading": "Alexandria Altar",
+      "current_heading": "Alexandria Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Power Danger Lesson",
+    "candidates": [
+      "Power Danger Lesson",
+      "Shaul Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains BOTH parts of Rabbi Yehoshua ben Perachya's statement (initially refusing and now refusing to leave), and candidate 1's prose explicitly quotes and discusses the second half ('etah kol ha'omer li lei\u0440\u0435\u0434') along with the Shaul parallel, making it the clear home for the complete baraita, whereas candidate 0 only addresses the first half.",
+      "chosen_heading": "Shaul Parallel",
+      "current_heading": "Power Danger Lesson",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Shaul Parallel",
+    "candidates": [
+      "Power Danger Lesson",
+      "Shaul Parallel",
+      "Five Cities Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Saul fleeing from kingship and then trying to kill David, which is precisely what the 'Shaul Parallel' section's prose addresses as its central illustration.",
+      "chosen_heading": "Shaul Parallel",
+      "current_heading": "Shaul Parallel",
+      "moved": false
+    }
+  }
+]

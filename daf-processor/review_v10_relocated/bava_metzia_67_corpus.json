@@ -1,0 +1,424 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Asmachta Conditional",
+    "candidates": [
+      "Asmachta Conditional",
+      "Bar Drinker Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's general statement that an asmakhta sometimes effects acquisition and sometimes does not, which is precisely what the 'Asmachta Conditional' section's prose discusses as the opening statement of the sugya, before the detailed behavioral test cases discussed under 'Bar Drinker Case'.",
+      "chosen_heading": "Asmachta Conditional",
+      "current_heading": "Asmachta Conditional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Bar Drinker Case",
+    "candidates": [
+      "Bar Drinker Case",
+      "Precision Doctrine",
+      "Asmachta\u2192Apothiki"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bar Drinker Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Acha mi-Difti's two challenges to the tavern test (drinking to dull fear / someone else promised money) and Ravina's alternative criterion about being particular about money \u2014 exactly what the 'Bar Drinker Case' prose describes as Rav Acha's objections to Rav Papa's test.",
+      "second_heading": "Precision Doctrine",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Acha mi-Difti's challenge to Ravina's 'particular about money' criterion and Rav Papa's reformulation about being particular about the land itself \u2014 precisely the content described in the 'Precision Doctrine' prose.",
+      "current_heading": "Bar Drinker Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Asmachta\u2192Apothiki",
+    "candidates": [
+      "Precision Doctrine",
+      "Asmachta\u2192Apothiki",
+      "Mar Zutra Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Papa's asmachta/apothiki principle and Rav Huna's challenge about whether the borrower ever said 'acquire it for collection' \u2014 are explicitly discussed in candidate 1's prose, which covers exactly this content including the Rav Huna objection, making it the clear best match over candidate 2 which addresses Mar Zutra's separate follow-on challenge.",
+      "chosen_heading": "Asmachta\u2192Apothiki",
+      "current_heading": "Asmachta\u2192Apothiki",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Mar Zutra Challenge",
+    "candidates": [
+      "Mar Zutra Challenge",
+      "Flood & Fields"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's clarification of Rav Pappa's apothiki case (lo yehei lach pir'on ela mizo), which is precisely what the 'Mar Zutra Challenge' prose describes and analyzes.",
+      "chosen_heading": "Mar Zutra Challenge",
+      "current_heading": "Mar Zutra Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Flood & Fields",
+    "candidates": [
+      "Flood & Fields",
+      "Quality Ranking",
+      "Wine=Currency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the case of the sold field with guarantee, Rav Pappa's initial ruling, and Rav Acha mi-Difti's challenge \u2014 form one continuous discussion about the flood destroying the idei idit field, which is precisely what the 'Flood & Fields' prose describes.",
+      "chosen_heading": "Flood & Fields",
+      "current_heading": "Flood & Fields",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Wine=Currency",
+    "candidates": [
+      "Quality Ranking",
+      "Wine=Currency",
+      "Futures Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Rav bar Shabba/Rav Kahana wine case and Rav Papa's argument that wine is like currency and exempt from asmakhta concerns, which is precisely what the 'Wine=Currency' section's prose discusses.",
+      "chosen_heading": "Wine=Currency",
+      "current_heading": "Wine=Currency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Futures Doctrine",
+    "candidates": [
+      "Futures Doctrine",
+      "Land & Produce",
+      "Mistaken Forgiveness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabba's rule that conditional ('if') transactions do not effect acquisition, which is precisely what the 'Futures Doctrine' prose describes as Rav Huna's citation of 'kol de-ee lo kani' to close Rav Papa's argument.",
+      "chosen_heading": "Futures Doctrine",
+      "current_heading": "Futures Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Mistaken Forgiveness",
+    "candidates": [
+      "Land & Produce",
+      "Mistaken Forgiveness",
+      "Date Futures Test",
+      "Consumed Fruits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Na\u1e25man's ruling that land and produce must be returned AND the Gemara's initial question about mistaken forgiveness, meaning it spans the boundary \u2014 but the primary content (the ruling itself plus the opening question) is the starting point of the 'Land & Produce' section's discussion, and the current placement under 'Mistaken Forgiveness' only captures the tail-end inference, making heading 0 the clearly better match for the full passage.",
+      "chosen_heading": "Land & Produce",
+      "current_heading": "Mistaken Forgiveness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Consumed Fruits",
+    "candidates": [
+      "Date Futures Test",
+      "Consumed Fruits",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the date-palm futures dispute (Rav Huna vs. Rav Nachman on retraction) and Rav Nachman's concession about consumed fruits, which is precisely the content described in candidate 0's prose about the challenge to Rav Nachman from the date-futures case and what happens to produce already taken.",
+      "chosen_heading": "Date Futures Test",
+      "current_heading": "Consumed Fruits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Consumed Fruits",
+      "Rava's Challenge",
+      "Ilonit Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rava's account of sitting before Rav Nachman and wanting to raise the ona'ah objection, which is precisely what the 'Rava's Challenge' section describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Ilonit Exception",
+    "candidates": [
+      "Ilonit Exception",
+      "Ona'ah Rebuttal",
+      "Repurchase Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's dismissal of both the ona'ah challenge and the ilonit support \u2014 exactly what candidate 1 ('Ona'ah Rebuttal') discusses: lo ona'ah tyuvta velo ilonit mesay'a, with the clarification that the buyer's ignorance means no mechilah, and the ilonit's consent to reduced rights is for social standing \u2014 matching the prose of candidate 1 precisely.",
+      "chosen_heading": "Ona'ah Rebuttal",
+      "current_heading": "Ilonit Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Repurchase Agreement",
+    "candidates": [
+      "Ona'ah Rebuttal",
+      "Repurchase Agreement",
+      "Buyer's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the case of the woman's agent purchasing land from her relative and the 'at ve-navla achai' assurance, which is precisely what the 'Repurchase Agreement' prose discusses \u2014 the narrative setup and the agent's informal guarantee of repurchase rights.",
+      "chosen_heading": "Repurchase Agreement",
+      "current_heading": "Repurchase Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Buyer's Intent",
+    "candidates": [
+      "Buyer's Intent",
+      "Abaye's Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Abaye's question about whether the produce constitutes ribis ketzutzah (actionable in court) or avak ribis (not actionable), which is precisely the content described in the 'Abaye's Questions' prose.",
+      "chosen_heading": "Abaye's Questions",
+      "current_heading": "Buyer's Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Abaye's Questions",
+    "candidates": [
+      "Buyer's Intent",
+      "Abaye's Questions",
+      "Ravina's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbah bar Rav Huna and Rava ruling it is avak ribis not actionable in court, and Abaye's question about mashkon with the delo katz reasoning \u2014 are precisely the content described in the 'Abaye's Questions' prose, which explicitly mentions Rabbah bar Rav Huna's mistabra ruling, Rava's agreement, and the mashkon/delo katz parallel.",
+      "chosen_heading": "Abaye's Questions",
+      "current_heading": "Abaye's Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Ravina's Ruling",
+    "candidates": [
+      "Ravina's Ruling",
+      "Mashkanta Sura"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Ravina's practical ruling to calculate and extract produce, which is precisely what the 'Ravina's Ruling' section's prose discusses.",
+      "chosen_heading": "Ravina's Ruling",
+      "current_heading": "Ravina's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Mashkanta Sura",
+    "candidates": [
+      "Mashkanta Sura",
+      "Eviction Payment",
+      "Overeating Risk",
+      "Rav Ashi Dilemma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Mar son of Rav Yosef citing Rava on the 'de-misalkei' custom \u2014 exactly what heading 0's prose describes as the characteristic self-liquidating mashkanta form.",
+      "chosen_heading": "Mashkanta Sura",
+      "current_heading": "Mashkanta Sura",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Rav Ashi Dilemma",
+    "candidates": [
+      "Eviction Payment",
+      "Overeating Risk",
+      "Rav Ashi Dilemma",
+      "Sura Model"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Rav Ashi Dilemma",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the rules about excess consumption, orphan cases, and Rav Ashi's ruling that avak ribis cannot be extracted \u2014 all discussed explicitly in the 'Rav Ashi Dilemma' prose.",
+      "second_heading": "Sura Model",
+      "second_confidence": "high",
+      "second_reason": "Item 6 introduces the new topic of Rava bar Rav Yosef's ruling about nechyata and kituta for the Torah scholar, which matches the 'Sura Model' section's discussion of nechyata and kituta as the lead-in to the Sura mortgage formula.",
+      "current_heading": "Rav Ashi Dilemma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Sura Model",
+    "candidates": [
+      "Sura Model",
+      "Two Mashkanta Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the kituta/nechyata dispute between Rav A\u1e25a and Ravina and resolve it via the Sura mortgage formula (be-mishlam shanya ilein tipuk ara da belo kesef), which is precisely what the 'Sura Model' prose describes as the culmination of the nechyata/kituta discussion leading to the meshkanta de-Sura formulation.",
+      "chosen_heading": "Sura Model",
+      "current_heading": "Sura Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Two Mashkanta Models",
+    "candidates": [
+      "Two Mashkanta Models",
+      "Basket Harvests",
+      "Nutkin Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present exactly the Rav Pappa and Rav Huna ruling on the two mashkanta models (evictable vs. non-evictable) with their cascading consequences for creditor collection, firstborn inheritance, and Sabbatical year cancellation \u2014 precisely what the 'Two Mashkanta Models' prose describes in detail.",
+      "chosen_heading": "Two Mashkanta Models",
+      "current_heading": "Two Mashkanta Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Nutkin Doctrine",
+    "candidates": [
+      "Basket Harvests",
+      "Nutkin Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the eviction-even-from-dates rule and the basket-acquisition principle plus the keli/reshut dispute, which together constitute the full 'Nutkin Doctrine' section as described in candidate 1's prose, whereas candidate 0 only addresses the eviction aspect and misses the basket-acquisition and keli dispute content.",
+      "chosen_heading": "Nutkin Doctrine",
+      "current_heading": "Nutkin Doctrine",
+      "moved": false
+    }
+  }
+]

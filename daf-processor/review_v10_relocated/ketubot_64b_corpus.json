@@ -1,0 +1,434 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Tarpikin Definition",
+    "candidates": [
+      "Marital Disputes Intro",
+      "Penalty Structure",
+      "Currency Conversions",
+      "Penalty Duration Math",
+      "Tarpikin Definition",
+      "Mored/Moredet Gap",
+      "Shabbat Fine Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly defines 'tarpikin' as an asteira (half-zuz) and corroborates with a baraita showing three tarpikin equal nine ma'in, exactly matching the 'Tarpikin Definition' section's prose.",
+      "chosen_heading": "Tarpikin Definition",
+      "current_heading": "Tarpikin Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Shabbat Fine Logic",
+    "candidates": [
+      "Mored/Moredet Gap",
+      "Shabbat Fine Logic",
+      "Prostitute Market Proof",
+      "Rashi's Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete question-and-answer exchange about why Shabbat is counted against the wife but not the husband, which is precisely what the 'Shabbat Fine Logic' prose describes.",
+      "chosen_heading": "Shabbat Fine Logic",
+      "current_heading": "Shabbat Fine Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rashi's Explanations",
+    "candidates": [
+      "Prostitute Market Proof",
+      "Rashi's Explanations",
+      "Penalty Asymmetry Summary",
+      "Intermediary Provision",
+      "Grain Allowance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the actual gemara text (Rabbi \u1e24iyya bar Yosef to Shmuel, the prostitute market proof, and the davar acher) that candidate 0's prose explicitly describes and analyzes, making it the clear home for this passage rather than candidate 1 which discusses Rashi's explanations of these same statements.",
+      "chosen_heading": "Prostitute Market Proof",
+      "current_heading": "Rashi's Explanations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Grain Allowance",
+    "candidates": [
+      "Penalty Asymmetry Summary",
+      "Intermediary Provision",
+      "Grain Allowance",
+      "Consumables List",
+      "Durable Goods",
+      "Seasonal Clothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishnah text covers the entire intermediary provision scenario including grain, legumes, oil, and figs \u2014 it belongs under 'Intermediary Provision' which introduces the full mishnah, rather than being split across the sub-topic headings that follow.",
+      "chosen_heading": "Intermediary Provision",
+      "current_heading": "Grain Allowance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Seasonal Clothing",
+    "candidates": [
+      "Consumables List",
+      "Durable Goods",
+      "Seasonal Clothing",
+      "Pin Money & Meals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both durable goods (bed, mat, cap, belt, shoes) and the fifty-zuz seasonal clothing allocation, but the bulk of the text \u2014 and the mishna's detailed explanation about new vs. worn garments in summer/winter \u2014 aligns most precisely with the 'Seasonal Clothing' section's prose, which discusses exactly these fifty-zuz, new/worn, summer/winter details.",
+      "chosen_heading": "Seasonal Clothing",
+      "current_heading": "Seasonal Clothing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Pin Money & Meals",
+    "candidates": [
+      "Pin Money & Meals",
+      "Work Income Clause",
+      "Work Definition",
+      "Weaving Quotas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the silver ma'a coin for personal needs, eating together on Shabbat evening, and the conditional retention of earnings \u2014 all three elements are explicitly discussed in the 'Pin Money & Meals' prose, making it the clear best match.",
+      "chosen_heading": "Pin Money & Meals",
+      "current_heading": "Pin Money & Meals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Weaving Quotas",
+    "candidates": [
+      "Work Income Clause",
+      "Work Definition",
+      "Weaving Quotas",
+      "Nursing Mother",
+      "Status Qualification",
+      "Eruv Techumin",
+      "Bread Measure Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage details the specific weaving quotas (warp/woof, Judean/Galilean weights), nursing reduction, and status qualification \u2014 all of which are described together in the 'Weaving Quotas' section prose, which explicitly covers the quota amounts, the nursing adjustment, and the status-based scaling.",
+      "chosen_heading": "Weaving Quotas",
+      "current_heading": "Weaving Quotas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Bread Measure Dispute",
+    "candidates": [
+      "Nursing Mother",
+      "Status Qualification",
+      "Eruv Techumin",
+      "Bread Measure Dispute",
+      "RYbB Measure",
+      "R. Shimon Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the gemara questioning whose opinion the mishna reflects and introducing the eruv techumin measure of two meals, which matches the 'Eruv Techumin' section's prose exactly \u2014 the 'Bread Measure Dispute' section describes the subsequent dispute about how much bread constitutes two meals, not this introductory gemara passage.",
+      "chosen_heading": "Eruv Techumin",
+      "current_heading": "Bread Measure Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "R. Shimon Measure",
+    "candidates": [
+      "RYbB Measure",
+      "R. Shimon Measure",
+      "Meals Calculation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "RYbB Measure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rabbi Yochanan ben Beroka's and Rabbi Shimon's measures \u2014 the full dispute about loaf sizes \u2014 which fits best under 'RYbB Measure' (heading 0) as that heading's prose introduces and contextualizes the two-meal loaf dispute starting with RYbB, and the current heading 'R. Shimon Measure' already subsumes both opinions in its prose.",
+      "second_heading": "R. Shimon Measure",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the derivative measures (half-loaf for leprous house, quarter for rendering body unfit, eighth for susceptibility to food impurity), which corresponds exactly to the 'R. Shimon Measure' prose's mention of how half of the two-meal loaf (a pras) defines other legal measures like time in a metzora-afflicted house and susceptibility to tum'ah.",
+      "current_heading": "R. Shimon Measure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Meals Calculation",
+    "candidates": [
+      "Meals Calculation",
+      "Baker's Profit",
+      "Shabbat & Guests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's dilemma text \u2014 'if Rabbi Yochanan ben Broka, the result is eight; if Rabbi Shimon, the result is eighteen' \u2014 which is precisely what the 'Meals Calculation' section's prose describes and analyzes.",
+      "chosen_heading": "Meals Calculation",
+      "current_heading": "Meals Calculation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Shabbat & Guests",
+    "candidates": [
+      "Baker's Profit",
+      "Shabbat & Guests",
+      "No Wine Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items deal with reconciling the two-kav allocation with meal counts via Rav \u1e24isda's markup principle, Shabbat meals, and guests (orchei u-farchi), which is precisely what candidate 1 ('Shabbat & Guests') describes in its prose.",
+      "chosen_heading": "Shabbat & Guests",
+      "current_heading": "Shabbat & Guests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "No Wine Rule",
+    "candidates": [
+      "No Wine Rule",
+      "Chana Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's ruling about allotting barley (not wine), specifically Rabbi Yosei's explanation about Rabbi Yishmael's double barley allocation near Edom \u2014 this is a continuation of the mishna's provisions discussion (poskin) that fits under the 'No Wine Rule' section which discusses beis din's allocation of provisions, rather than the Chana drasha which is about a biblical verse.",
+      "chosen_heading": "No Wine Rule",
+      "current_heading": "No Wine Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Chana Drasha",
+    "candidates": [
+      "Chana Drasha",
+      "Accustomed Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Accustomed Exception",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss the general rule that wines are not allotted to a wife (Rabbi Elazar's opinion and the Hosea verse), which fits under 'Accustomed Exception' as background to that section, but more precisely belong to a section about the general wine prohibition \u2014 however 'Accustomed Exception' is the closer match among the candidates since 'Chana Drasha' is specifically about the Hannah verse exposition.",
+      "second_heading": "Chana Drasha",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are precisely the Chana/Hannah drasha and its gemara challenge-and-response that the 'Chana Drasha' prose explicitly describes.",
+      "current_heading": "Chana Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Accustomed Exception",
+    "candidates": [
+      "Accustomed Exception",
+      "Abaye's Refinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita challenge and Rav \u1e24innana bar Kahana/Shmuel's resolution about accustomed vs. unaccustomed women, which is exactly what the 'Accustomed Exception' prose describes.",
+      "chosen_heading": "Accustomed Exception",
+      "current_heading": "Accustomed Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Abaye's Refinement",
+    "candidates": [
+      "Abaye's Refinement",
+      "Cooking Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's clarification of Shmuel's statement about wine allocation based on whether the wife is accustomed to wine and whether her husband is present, which is exactly what the 'Abaye's Refinement' section's prose describes.",
+      "chosen_heading": "Abaye's Refinement",
+      "current_heading": "Abaye's Refinement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Cooking Wine",
+    "candidates": [
+      "Cooking Wine",
+      "Wine & Behavior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses wine for cooking (tziki kdera) and the Nakdimon ben Guryon story, which is exactly what the 'Cooking Wine' section's prose describes in detail.",
+      "chosen_heading": "Cooking Wine",
+      "current_heading": "Cooking Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Wine & Behavior",
+    "candidates": [
+      "Wine & Behavior",
+      "Husband Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about cups of wine and Rava's qualification, and the current heading 'Wine & Behavior' covers the baraita content while 'Husband Present' covers only Rava's addendum \u2014 but since both items are a single unified Talmudic unit and the baraita is the primary content, and the current placement's prose explicitly addresses both the baraita and notes the halakha flowing from it, the current placement is the better fit; however, the passage actually spans both headings, and since Rava's statement is integral to the baraita unit, the current placement under 'Wine & Behavior' is correct given that heading 0's prose explicitly discusses this tannaitic teaching.",
+      "chosen_heading": "Wine & Behavior",
+      "current_heading": "Wine & Behavior",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Husband Present",
+    "candidates": [
+      "Husband Present",
+      "Choma's Case",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge about Hannah being with her husband and the 'achsanai shani' answer, which is precisely what the 'Husband Present' section's prose describes.",
+      "chosen_heading": "Husband Present",
+      "current_heading": "Husband Present",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Choma's Case",
+      "Rava's Response",
+      "Choma's Arm",
+      "Rava Aroused",
+      "Wife's Reaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode from start to finish \u2014 Choma arriving before Rava, the sustenance allocation, the wine dispute, and her arm becoming uncovered \u2014 matching heading 0's prose which introduces Choma coming before Rava and Rava assigning mezonos, making it the natural home for the complete narrative unit.",
+      "chosen_heading": "Choma's Case",
+      "current_heading": "Rava's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Wife's Reaction",
+    "candidates": [
+      "Choma's Arm",
+      "Rava Aroused",
+      "Wife's Reaction",
+      "Rav Yosef Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Wife's Reaction' section prose discusses: Rava's wife questioning him about court, learning Choma was there, then chasing her out of Mechuza with the strap/lock while accusing her of killing three husbands.",
+      "chosen_heading": "Wife's Reaction",
+      "current_heading": "Wife's Reaction",
+      "moved": false
+    }
+  }
+]

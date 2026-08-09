@@ -1,0 +1,470 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Barrel & beam",
+    "candidates": [
+      "Barrel & beam",
+      "Adam muad principle",
+      "Following collision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna describing the barrel-and-beam collision scenario where both parties are exempt because each had permission to walk, which is precisely what the 'Barrel & beam' section prose describes.",
+      "chosen_heading": "Barrel & beam",
+      "current_heading": "Barrel & beam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Following collision",
+    "candidates": [
+      "Adam muad principle",
+      "Following collision",
+      "Standing vs signaling",
+      "Barrel leads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the beam-carrier walking first and the barrel-carrier following behind, with the barrel broken by the beam resulting in exemption for the beam-carrier \u2014 exactly the scenario discussed in the 'Following collision' prose.",
+      "chosen_heading": "Following collision",
+      "current_heading": "Following collision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Barrel leads",
+    "candidates": [
+      "Standing vs signaling",
+      "Barrel leads",
+      "Intercourse injury"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Standing vs signaling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the beam-carrier stopping and the signal scenario (beam leads, barrel follows), which matches the 'Standing vs signaling' prose about the beam-carrier stopping causing liability and signaling producing exemption.",
+      "second_heading": "Barrel leads",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the reversed order (barrel leads, beam follows) with its stopping and signaling rules plus the torch/flax extension, which exactly matches the 'Barrel leads' prose describing that precise scenario.",
+      "current_heading": "Barrel leads",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Intercourse injury",
+    "candidates": [
+      "Intercourse injury",
+      "Rava's argument",
+      "Active vs passive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous dispute about the intercourse-injury case \u2014 Rabba bar Natan's question, Rav Huna's answer from the mishna, Rava's kal vachomer objection, the counter from the mishna, and the gemara's resolution \u2014 exactly matching the prose under heading 0 ('Intercourse injury'), which describes this entire sequence.",
+      "chosen_heading": "Intercourse injury",
+      "current_heading": "Intercourse injury",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Active vs passive",
+    "candidates": [
+      "Rava's argument",
+      "Active vs passive",
+      "Both parameters",
+      "Reish Lakish",
+      "Support attempt",
+      "Horizontal beam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge (from 'venichresu hanefashos ha'osos') and response ('hana'ah letravayhu') to the active/passive distinction, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Active vs passive",
+      "current_heading": "Active vs passive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Horizontal beam",
+    "candidates": [
+      "Both parameters",
+      "Reish Lakish",
+      "Support attempt",
+      "Horizontal beam",
+      "Running mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous sugya about Reish Lakish's ruling on two cows (one prone, one walking), including the initial statement, attempted supports from the mishnah, the counter-difficulty, and the resolutions \u2014 exactly what candidate 1 ('Reish Lakish') describes, while the current placement under 'Horizontal beam' only describes the resolution sub-point, not the full passage.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Horizontal beam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Running mishnah",
+    "candidates": [
+      "Horizontal beam",
+      "Running mishnah",
+      "Isi ben Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself (two people walking/running in reshus harabim who injure each other, both exempt), which is precisely what the 'Running mishnah' section introduces and discusses.",
+      "chosen_heading": "Running mishnah",
+      "current_heading": "Running mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Isi ben Yehuda",
+    "candidates": [
+      "Isi ben Yehuda",
+      "Rav Yochanan rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Isi ben Yehuda's ruling about running being liable due to unusual behavior and his exception for erev Shabbat twilight, which exactly matches the prose under heading 0.",
+      "chosen_heading": "Isi ben Yehuda",
+      "current_heading": "Isi ben Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Rav Yochanan rules",
+    "candidates": [
+      "Rav Yochanan rules",
+      "Erev Shabbos rationale",
+      "Kabalat Shabbos"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav Yochanan rules",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Yochanan's ruling in accordance with Isi ben Yehuda, the challenge from the stam mishnah, and the resolution distinguishing erev Shabbos from weekdays \u2014 all of which match exactly the 'Rav Yochanan rules' prose.",
+      "second_heading": "Erev Shabbos rationale",
+      "second_confidence": "high",
+      "second_reason": "Item 4 asks what specific permission [reshus] exists to run on erev Shabbos bein hashmashos, which is precisely the question the 'Erev Shabbos rationale' section says the gemara asks before answering with Rabbi Chanina's practice.",
+      "current_heading": "Rav Yochanan rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Kabalat Shabbos",
+    "candidates": [
+      "Erev Shabbos rationale",
+      "Kabalat Shabbos",
+      "Chopping mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of 'Erev Shabbos rationale' explicitly sets up the question of why urgency of Shabbos preparation permits running, and says 'the answer comes from the practice of Rabbi Chanina' \u2014 which is exactly what both items contain, making it the direct answer to that section's question, not the Kabbalas Shabbos section.",
+      "chosen_heading": "Erev Shabbos rationale",
+      "current_heading": "Kabalat Shabbos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Chopping mishnah",
+    "candidates": [
+      "Kabalat Shabbos",
+      "Chopping mishnah",
+      "Three cases needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the wood-chopping mishnah itself, and candidate 1 ('Chopping mishnah') is explicitly the section whose prose introduces and describes this exact mishnah with its three cases.",
+      "chosen_heading": "Chopping mishnah",
+      "current_heading": "Chopping mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Three cases needed",
+    "candidates": [
+      "Three cases needed",
+      "Baraita teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the gemara's 'tzericha' argument explaining why all three cases in the mishnah are necessary, which is precisely what the prose under 'Three cases needed' describes.",
+      "chosen_heading": "Three cases needed",
+      "current_heading": "Three cases needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Baraita teaching",
+    "candidates": [
+      "Baraita teaching",
+      "Four payments",
+      "Not like yaar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the carpenter's workshop with the exempt/liable ruling, which is precisely what the prose under heading 0 describes and analyzes.",
+      "chosen_heading": "Baraita teaching",
+      "current_heading": "Baraita teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Not like yaar",
+    "candidates": [
+      "Four payments",
+      "Not like yaar",
+      "Rava's view"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four payments",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states Rabbi Yosei bar \u1e24anina's ruling of four payments and exemption from exile, which is precisely what heading 0 ('Four payments') discusses.",
+      "second_heading": "Not like yaar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains the 'not like the forest' rationale for the galus exemption, which is exactly what heading 1 ('Not like yaar') discusses.",
+      "current_heading": "Not like yaar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rava's view",
+    "candidates": [
+      "Rava's view",
+      "Too much negligence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's kal vachomer argument about the forest case generating galus liability due to awareness, which is precisely what the prose under 'Rava's view' describes.",
+      "chosen_heading": "Rava's view",
+      "current_heading": "Rava's view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Too much negligence",
+    "candidates": [
+      "Too much negligence",
+      "Extra lash objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's reinterpretation that exemption from galus is because the negligence is too great (shogeg karov l'meizid), which is precisely what the 'Too much negligence' section's prose describes.",
+      "chosen_heading": "Too much negligence",
+      "current_heading": "Too much negligence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Extra lash objection",
+    "candidates": [
+      "Extra lash objection",
+      "Judge miscounted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's objection about the extra lash case and Rav Shimi's resolution, but the core content of the passage \u2014 the objection itself \u2014 matches heading 0 ('Extra lash objection'), which specifically discusses this challenge about shogeg karov l'meizid; heading 1 covers the elaboration/resolution in more detail, but the passage as a whole is the objection unit that belongs under heading 0 where it currently sits.",
+      "chosen_heading": "Extra lash objection",
+      "current_heading": "Extra lash objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Judge miscounted",
+    "candidates": [
+      "Judge miscounted",
+      "Stone-thrower"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous exchange about the judge's miscounting: item 1 is Rava's objection (slapping Rav Shimi and citing the baraita that the official doesn't count), and item 2 is Rav Shimi's revised answer that the judge himself erred \u2014 exactly what the 'Judge miscounted' prose describes.",
+      "chosen_heading": "Judge miscounted",
+      "current_heading": "Judge miscounted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Stone-thrower",
+    "candidates": [
+      "Stone-thrower",
+      "Wall demolition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the stone-thrower objection and its reasoning about people being commonly found in the public domain, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Stone-thrower",
+      "current_heading": "Stone-thrower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Wall demolition",
+    "candidates": [
+      "Wall demolition",
+      "Dump analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about demolishing a wall (at night, into a garbage dump), which is precisely what the 'Wall demolition' prose describes.",
+      "chosen_heading": "Wall demolition",
+      "current_heading": "Wall demolition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Dump analysis",
+    "candidates": [
+      "Dump analysis",
+      "Alternative reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's question about the garbage dump circumstances and Rav Pappa's resolution distinguishing night/day usage \u2014 are precisely the content described in the 'Dump analysis' prose, which explicitly discusses Rav Pappa's refinement about the dump used at night but not during the day, the mezid/ones/shogeg calibration, and the middle-ground risk profile.",
+      "chosen_heading": "Dump analysis",
+      "current_heading": "Dump analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Alternative reading",
+    "candidates": [
+      "Alternative reading",
+      "Galus focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Pappa's alternative reading of the baraita (applying Rabbi Yosei bar \u1e24anina's ruling to the first clause) and the Gemara's comparative comment about the two readings \u2014 exactly what the 'Alternative reading' prose describes, including the four payments and the galus exemption without permission.",
+      "chosen_heading": "Alternative reading",
+      "current_heading": "Alternative reading",
+      "moved": false
+    }
+  }
+]

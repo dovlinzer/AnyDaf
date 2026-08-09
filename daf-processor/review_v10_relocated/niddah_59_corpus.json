@@ -1,0 +1,549 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbi Meir & Sycamore",
+    "candidates": [
+      "Tliya Principle",
+      "Rabbi Meir & Sycamore",
+      "Butcher Market"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the baraita about Rabbi Meir attributing a stain to kilor and Rabbi attributing a stain to sycamore sap, which is precisely what the 'Rabbi Meir & Sycamore' section's prose discusses.",
+      "chosen_heading": "Rabbi Meir & Sycamore",
+      "current_heading": "Rabbi Meir & Sycamore",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Butcher Market",
+    "candidates": [
+      "Butcher Market",
+      "Formal Rules",
+      "Shimon vs. Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the rule that a woman must know for certain she was in proximity to a blood source (sitting alongside stain-removers, passing through a butcher's market) in order to attribute a stain there, which is precisely what the 'Butcher Market' prose discusses.",
+      "chosen_heading": "Butcher Market",
+      "current_heading": "Butcher Market",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Shimon vs. Sages",
+    "candidates": [
+      "Formal Rules",
+      "Shimon vs. Sages",
+      "Rabbi Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items present the Gemara's identification of the mishna as Rabban Shimon ben Gamliel's view, the baraita dispute between him and the Sages, and his self-critique of both positions \u2014 exactly the content described in the 'Shimon vs. Sages' prose.",
+      "chosen_heading": "Shimon vs. Sages",
+      "current_heading": "Shimon vs. Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabbi Chanina",
+    "candidates": [
+      "Rabbi Chanina",
+      "Bedbug & Tormas",
+      "Bedbug Features"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Chanina ben Antigonus's ruling on the gris threshold, Rabban Shimon ben Gamliel's concession, and Rav Nachman bar Yitzchak's answer about the bedbug/tormas size \u2014 all of which are explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Rabbi Chanina",
+      "current_heading": "Rabbi Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Bedbug Features",
+    "candidates": [
+      "Bedbug & Tormas",
+      "Bedbug Features",
+      "Pigs & Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita explaining the three features of the bedbug and their legal relevance (ketamim and teruma), which is precisely what the 'Bedbug Features' prose describes.",
+      "chosen_heading": "Bedbug Features",
+      "current_heading": "Bedbug Features",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Pigs & Attribution",
+    "candidates": [
+      "Pigs & Attribution",
+      "Rav Huna View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses pigs in a town and the Dukeret ruling, which matches exactly the 'Pigs & Attribution' section's prose about Rav Ashi and Rav Nachman bar Yitzchak's rulings on environmental tliya via pigs.",
+      "chosen_heading": "Pigs & Attribution",
+      "current_heading": "Pigs & Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Huna View",
+    "candidates": [
+      "Rav Huna View",
+      "Rav Chisda View",
+      "Rav Huna Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's and Rav \u1e24isda's views together in one Gemara unit, and the current placement under 'Rav Huna View' is where this combined text belongs, as it introduces both opinions as a pair beginning with Rav Huna's ruling.",
+      "chosen_heading": "Rav Huna View",
+      "current_heading": "Rav Huna View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Rav Huna Reply",
+    "candidates": [
+      "Rav Chisda View",
+      "Rav Huna Reply",
+      "Rav Chisda Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's suggestion that Rav Huna and Rav \u1e24isda dispute the inclusive/exclusive meaning of 'ad,' followed by Rav Huna's reply that he interprets toward stringency in each case \u2014 exactly what the 'Rav Huna Reply' prose describes.",
+      "chosen_heading": "Rav Huna Reply",
+      "current_heading": "Rav Huna Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rav Chisda Reply",
+    "candidates": [
+      "Rav Chisda Reply",
+      "Above/Below Belt",
+      "Upper Spot Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Chisda's direct response citing Rabbi Abbahu's ruling about all Sages' measures being stringent except the gris of ketamim, which is precisely what the 'Rav Chisda Reply' prose section discusses.",
+      "chosen_heading": "Rav Chisda Reply",
+      "current_heading": "Rav Chisda Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Upper Spot Size",
+    "candidates": [
+      "Above/Below Belt",
+      "Upper Spot Size",
+      "Stain & Louse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Above/Below Belt",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the standalone version of the Rav Huna\u2013Rav \u1e24isda dispute and closes with 'the Gemara raises an objection,' which is the lead-in to the Baraita about upper/lower drops described in candidate 0's prose.",
+      "second_heading": "Upper Spot Size",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the Baraita and its deflection (kegris milmalla) described in candidate 1's 'Upper Spot Size' prose, making that the correct home for item 2.",
+      "current_heading": "Upper Spot Size",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Stain & Louse",
+    "candidates": [
+      "Stain & Louse",
+      "R. Chanina vs R. Yannai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial case and the dispute between Rabbi \u1e24anina and Rabbi Yannai, but only gives Rabbi \u1e24anina's reasoning \u2014 it is the setup of the problem that heading 0's prose explicitly describes (nimtza kegris va'od with a squashed louse), and the current placement correctly captures this introductory gemara text before the fuller elaboration of both opinions described in heading 1.",
+      "chosen_heading": "Stain & Louse",
+      "current_heading": "Stain & Louse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "R. Chanina vs R. Yannai",
+    "candidates": [
+      "R. Chanina vs R. Yannai",
+      "Excess Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yannai's ruling that she is pure when a louse is squashed in the stain, which is precisely the content described in the 'R. Chanina vs R. Yannai' section prose.",
+      "chosen_heading": "R. Chanina vs R. Yannai",
+      "current_heading": "R. Chanina vs R. Yannai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Excess Attribution",
+    "candidates": [
+      "Excess Attribution",
+      "Middle Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Yirmiya's dilemma about a woman occupied with a kegris-sized item who found a kegris-plus stain, which is precisely what the 'Excess Attribution' prose describes in detail, including the exact arguments according to Rabbi Chanina and Rabbi Yannai.",
+      "chosen_heading": "Excess Attribution",
+      "current_heading": "Excess Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Middle Removal",
+    "candidates": [
+      "Middle Removal",
+      "Chicken Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain (baraita challenge \u2192 clarification \u2192 chiddush explanation) about the 'middle removal' scenario, which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Middle Removal",
+      "current_heading": "Middle Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Chicken Blood",
+    "candidates": [
+      "Chicken Blood",
+      "Rava Position",
+      "Stringency Created",
+      "Leniencies Within"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chicken Blood",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's first version (nimtza, not nit'aska) with the objection resolved by 'nit'aska shani', which matches the 'Chicken Blood' prose exactly.",
+      "second_heading": "Rava Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the 'some say' second version of Rava where she was occupied with a chicken (tarnigoles) containing multiple blood types, which matches the 'Rava Position' prose exactly.",
+      "current_heading": "Chicken Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Leniencies Within",
+    "candidates": [
+      "Rava Position",
+      "Stringency Created",
+      "Leniencies Within",
+      "Circular Elongated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction between Rabbi Akiva's statement that ketamim were instituted l'hakel and the baraita saying l'hachmir, resolved by Ravina \u2014 which is precisely what candidate 1 ('Stringency Created') describes in its prose.",
+      "chosen_heading": "Stringency Created",
+      "current_heading": "Leniencies Within",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Circular Elongated",
+    "candidates": [
+      "Leniencies Within",
+      "Circular Elongated",
+      "Combining Dots",
+      "Red Matter Size",
+      "Meir Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about whether the Rabbis dispute Rabbi Eliezer be-Rabbi Tzadok's ruling on the bedikah cloth, which is precisely what the 'Circular Elongated' section's prose describes.",
+      "chosen_heading": "Circular Elongated",
+      "current_heading": "Circular Elongated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Meir Standing",
+    "candidates": [
+      "Combining Dots",
+      "Red Matter Size",
+      "Meir Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage 'Hadranan alach ha-ro'ah ketem' is the closing formula (hadranan) for a tractate chapter ending, which corresponds to the conclusion of the chapter discussed under 'Meir Standing' \u2014 the ninth perek opened by the mishna of ha-isha she-osah tzracheha.",
+      "chosen_heading": "Meir Standing",
+      "current_heading": "Meir Standing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Meir Standing",
+    "candidates": [
+      "Meir Standing",
+      "Meir Sitting",
+      "Yossi Always Lenient",
+      "Shared Bucket"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Shared Bucket",
+    "candidates": [
+      "Meir Sitting",
+      "Yossi Always Lenient",
+      "Shared Bucket",
+      "R. Shimon Source",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yossi's ruling \u2014 item 1 (Rabbi Abba) explains the precise case where Rabbi Yossi's leniency applies (blood found inside the basin, not on the edge), and item 2 explicitly rules the halakha follows Rabbi Yossi \u2014 making the 'Yossi Always Lenient' section the clear home for this passage.",
+      "chosen_heading": "Yossi Always Lenient",
+      "current_heading": "Shared Bucket",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "R. Shimon Source",
+      "Reish Lakish",
+      "Leniency Emphasis",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items cover the Reish Lakish discussion about whether Rabbi Meir is strict under a single versus compound doubt, and the mishna's framing to highlight Rabbi Yossi's leniency \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "R. Yochanan",
+    "candidates": [
+      "Leniency Emphasis",
+      "R. Yochanan",
+      "Yossi L'Chatchila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's disagreement with Reish Lakish regarding Rabbi Meir's position on single vs. double uncertainty, and the stylistic explanation for why the mishna omits Rabbi Meir's name \u2014 exactly what the 'R. Yochanan' section's prose describes.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "R. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Yossi L'Chatchila",
+    "candidates": [
+      "Yossi L'Chatchila",
+      "Baraita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses whether Rabbi Yossi's leniency applies only after the fact (be-di'avad) or also ab initio (le-chatchila), which is precisely what the 'Yossi L'Chatchila' section's prose discusses.",
+      "chosen_heading": "Yossi L'Chatchila",
+      "current_heading": "Yossi L'Chatchila",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Baraita Support",
+    "candidates": [
+      "Baraita Support",
+      "Shimon Sitting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly a baraita cited in support of Rabbi Yo\u1e25anan's position, matching exactly the prose of 'Baraita Support' which describes this same baraita confirming Rabbi Meir and Rabbi Yossi's leniency in the shared-bucket case.",
+      "chosen_heading": "Baraita Support",
+      "current_heading": "Baraita Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Shimon Sitting",
+    "candidates": [
+      "Shimon Sitting",
+      "Shimon Scenarios",
+      "Chezkas Damim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shimon Sitting",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 form a complete unit: the dilemma about Rabbi Shimon's ruling when the woman is sitting, resolved by the baraita \u2014 exactly what heading 0 ('Shimon Sitting') describes.",
+      "second_heading": "Chezkas Damim",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the new dilemma about a man and woman sitting together (compound uncertainty), which is precisely what heading 2 ('Chezkas Damim') introduces as 'a final question' about Rabbi Shimon being strict despite double doubt.",
+      "current_heading": "Shimon Sitting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Chezkas Damim",
+    "candidates": [
+      "Shimon Scenarios",
+      "Chezkas Damim",
+      "We Follow Yossi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's language about 'chezkas damim min ha-isha' and Rabbi Shimon making no distinction between standing and sitting, which is precisely what the 'Chezkas Damim' section's prose discusses.",
+      "chosen_heading": "Chezkas Damim",
+      "current_heading": "Chezkas Damim",
+      "moved": false
+    }
+  }
+]

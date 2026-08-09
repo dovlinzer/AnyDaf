@@ -83,7 +83,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Derasha of Deuteronomy 23:25 on Worker Eating in Vineyard (continued)",
@@ -125,7 +125,7 @@
           "timestamp": "19:18"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -178,7 +178,7 @@
           "timestamp": "29:30"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -438,5 +438,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "28:23",
+  "amud_b_micro_title": "Torah Level",
+  "shiur_start_daf": 88,
+  "shiur_start_amud": "a"
 }

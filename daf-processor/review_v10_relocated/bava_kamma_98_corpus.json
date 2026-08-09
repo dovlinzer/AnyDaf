@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Bar Kochba Coins",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Rav Nachman's Limit",
+      "Rava's Challenge",
+      "Bar Kochba Coins",
+      "Current vs. Past Kings",
+      "Makpido Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection to Rav Nachman citing the baraita about maaser sheni coins not in circulation, which is precisely what the 'Rava's Challenge' prose section describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Bar Kochba Coins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Makpido Principle",
+    "candidates": [
+      "Current vs. Past Kings",
+      "Makpido Principle",
+      "Maaser Sheni Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the makpido principle \u2014 item 1 is Rav Nachman's answer distinguishing kingdoms not makpid on one another, and item 2 is the follow-up question and answer about how coins can be transported when kingdoms are makpid \u2014 exactly matching the prose of candidate 1.",
+      "chosen_heading": "Makpido Principle",
+      "current_heading": "Makpido Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Maaser Sheni Cases",
+    "candidates": [
+      "Maaser Sheni Cases",
+      "Jerusalem Money Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about desacralizing maaser sheni onto Eretz Yisrael money while in Babylonia and the argument that even though the coins will ultimately ascend there, which is precisely what the prose under 'Maaser Sheni Cases' discusses, including the afgav desofei lemisik lehatam point.",
+      "chosen_heading": "Maaser Sheni Cases",
+      "current_heading": "Maaser Sheni Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Jerusalem Money Exchange",
+    "candidates": [
+      "Jerusalem Money Exchange",
+      "Coin Imagery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Jerusalem Money Exchange' prose: item 1 discusses purchasing animals in Babylonia to bring to Jerusalem, and item 2 presents Rabbi Zeira's resolution about when Israel's hand was strong versus when the nations dominated \u2014 both explicitly covered in that section's prose.",
+      "chosen_heading": "Jerusalem Money Exchange",
+      "current_heading": "Jerusalem Money Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Coin Imagery",
+    "candidates": [
+      "Coin Imagery",
+      "Bavel-EY Exchange",
+      "Animal Transfer",
+      "Coin Image Problem",
+      "Enlarged Coins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the coins of Jerusalem (David and Solomon) and Abraham (old man/woman, young man/woman), which is precisely what the 'Coin Imagery' section's prose discusses in detail.",
+      "chosen_heading": "Coin Imagery",
+      "current_heading": "Coin Imagery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Enlarged Coins",
+    "candidates": [
+      "Bavel-EY Exchange",
+      "Animal Transfer",
+      "Coin Image Problem",
+      "Enlarged Coins",
+      "Buying Power vs. Metal",
+      "Precious Metal Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's question to Rav \u1e24isda about enlarged coins and Rav \u1e24isda's ruling that repayment is made with current circulating coin, which is exactly what the 'Enlarged Coins' section prose describes.",
+      "chosen_heading": "Enlarged Coins",
+      "current_heading": "Enlarged Coins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Precious Metal Test",
+    "candidates": [
+      "Buying Power vs. Metal",
+      "Precious Metal Test",
+      "Historical Revaluation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's resolution (chazinan \u2014 we examine whether the price drop is due to the coin's metal content or market forces), which is precisely what the 'Precious Metal Test' prose describes in detail.",
+      "chosen_heading": "Precious Metal Test",
+      "current_heading": "Precious Metal Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Historical Revaluation",
+    "candidates": [
+      "Historical Revaluation",
+      "Sea Coin Case",
+      "Visibility Condition",
+      "Gezeilah vs. Mazik"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav Pappa and Rav Huna case of adjusting for metallic content in old vs. new coins, which is precisely what the 'Historical Revaluation' prose describes.",
+      "chosen_heading": "Historical Revaluation",
+      "current_heading": "Historical Revaluation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Gezeilah vs. Mazik",
+    "candidates": [
+      "Sea Coin Case",
+      "Visibility Condition",
+      "Gezeilah vs. Mazik",
+      "Tosafot Position",
+      "Inaccessible Money",
+      "Hand Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements (the basic ruling, the visibility condition, and the gezeilah distinction) as a single continuous Talmudic unit, and the 'Sea Coin Case' heading introduces the entire ruling including its qualifications, making it the natural home for the complete passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Sea Coin Case",
+      "current_heading": "Gezeilah vs. Mazik",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Hand Requirement",
+    "candidates": [
+      "Tosafot Position",
+      "Inaccessible Money",
+      "Hand Requirement",
+      "Flattening Exempt",
+      "Material Removal Test",
+      "Filing vs. Hammering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's objection from the baraita about inaccessible money (kastera, Har HaMelekh, Great Sea) and Rabba's response \u2014 the objection content belongs under 'Inaccessible Money' (candidate 1), while Rabba's response/resolution belongs under 'Hand Requirement' (candidate 2), but since the entire quoted passage covers both the challenge and Rabba's answer as one unit, and candidate 1's prose explicitly describes both the baraita challenge and notes the Gemara's treatment of such money, while candidate 2's prose describes only Rabba's response, the full passage (challenge + response) is better anchored under candidate 1 which introduces the whole exchange.",
+      "chosen_heading": "Inaccessible Money",
+      "current_heading": "Hand Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Filing vs. Hammering",
+    "candidates": [
+      "Flattening Exempt",
+      "Material Removal Test",
+      "Filing vs. Hammering",
+      "Slave Deafness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete Rabba ruling about effacing a coin (exempt because nothing was done) plus the hammer/file distinction \u2014 all of which is introduced and explained under 'Flattening Exempt,' while the current placement under 'Filing vs. Hammering' only covers the second half of the passage.",
+      "chosen_heading": "Flattening Exempt",
+      "current_heading": "Filing vs. Hammering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Slave Deafness",
+    "candidates": [
+      "Filing vs. Hammering",
+      "Slave Deafness",
+      "Interior Wound Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection from the baraita about striking a slave on/near his eye or ear, which is exactly what the 'Slave Deafness' section's prose discusses and contextualizes.",
+      "chosen_heading": "Slave Deafness",
+      "current_heading": "Slave Deafness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Interior Wound Theory",
+    "candidates": [
+      "Interior Wound Theory",
+      "Pierced Ear Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabba's ruling that deafening one's father is punishable by death because deafness necessarily involves an interior drop of blood in the ear \u2014 precisely the 'interior wound theory' content described in candidate 0's prose.",
+      "chosen_heading": "Interior Wound Theory",
+      "current_heading": "Interior Wound Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Pierced Ear Exempt",
+    "candidates": [
+      "Pierced Ear Exempt",
+      "Red Heifer Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba's ruling about slitting a cow's ear and the reasoning that the cow's value is unchanged and not all oxen are destined for the altar, which matches exactly what the 'Pierced Ear Exempt' section's prose is discussing.",
+      "chosen_heading": "Pierced Ear Exempt",
+      "current_heading": "Pierced Ear Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Red Heifer Work",
+    "candidates": [
+      "Red Heifer Work",
+      "Document Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the objection from the parah adumah/mei chatat baraita and its resolution \u2014 exactly the content described in the 'Red Heifer Work' prose section.",
+      "chosen_heading": "Red Heifer Work",
+      "current_heading": "Red Heifer Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Document Burning",
+    "candidates": [
+      "Document Burning",
+      "Witness Rewrite",
+      "No Intrinsic Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's ruling that burning a promissory note is exempt because only paper was burned, which is exactly what the 'Document Burning' section's prose discusses, including the nayara kaliti minach reasoning.",
+      "chosen_heading": "Document Burning",
+      "current_heading": "Document Burning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "No Intrinsic Value",
+    "candidates": [
+      "Witness Rewrite",
+      "No Intrinsic Value",
+      "Machloket Source",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full exchange \u2014 witnesses can rewrite the document, no witnesses means unknown quantum, and Rava's 'trusts him' resolution \u2014 which precisely matches the 'Witness Rewrite' section's prose describing Rami bar Chama's challenge and Rava's tehei bema'amino response, rather than the 'No Intrinsic Value' section which discusses the reasoning behind exemption after this exchange.",
+      "chosen_heading": "Witness Rewrite",
+      "current_heading": "No Intrinsic Value",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Machloket Source",
+      "Rabbi Shimon",
+      "Rabbis Position",
+      "Original Value Limit",
+      "Indirect Loss Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Dimi bar \u1e24anina's statement that Rabba's ruling is the subject of a dispute between Rabbi Shimon and the Rabbis, which is precisely the 'unifying observation' described in the 'Machloket Source' prose, not the elaboration of Rabbi Shimon's position alone.",
+      "chosen_heading": "Machloket Source",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Indirect Loss Debate",
+    "candidates": [
+      "Rabbis Position",
+      "Original Value Limit",
+      "Indirect Loss Debate",
+      "Garmi Category",
+      "Rav Ashi Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Huna son of Rav Yehoshua's objection and its elaboration \u2014 arguing that Rabbi Shimon's principle applies only to items with original intrinsic monetary value (the chametz case), not to items like loan documents \u2014 which is precisely what candidate 1 ('Original Value Limit') describes.",
+      "chosen_heading": "Original Value Limit",
+      "current_heading": "Indirect Loss Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Rav Ashi Case",
+    "candidates": [
+      "Garmi Category",
+      "Rav Ashi Case",
+      "Rashi's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Ameimar's ruling about garmi liability for burning a promissory note and the incident with Rafram and Rav Ashi, which is precisely what the 'Rav Ashi Case' prose section discusses in detail.",
+      "chosen_heading": "Rav Ashi Case",
+      "current_heading": "Rav Ashi Case",
+      "moved": false
+    }
+  }
+]

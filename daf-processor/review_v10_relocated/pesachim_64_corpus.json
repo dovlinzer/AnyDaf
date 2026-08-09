@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Who Transgresses",
+    "candidates": [
+      "Lo Tishchat Al Chametz",
+      "Who Transgresses",
+      "Melika vs. Haktarah",
+      "Erev Pesach vs. Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the baraita that heading 1 ('Who Transgresses') explicitly describes in its prose \u2014 covering whose chametz matters, which acts (shechita, zerika, melika, mazeh) trigger liability, and why the kometz and haktarah do not \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Who Transgresses",
+      "current_heading": "Who Transgresses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Erev Pesach vs. Pesach",
+    "candidates": [
+      "Melika vs. Haktarah",
+      "Erev Pesach vs. Pesach",
+      "Zevach vs. Zivchay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit resolving the melika/haktarah contradictions between the two baraitot, which is precisely what the 'Melika vs. Haktarah' section's prose describes \u2014 the contradiction (item 1), the internal baraita problem (item 2), and the resolutions (items 3\u20134) \u2014 whereas the current heading 'Erev Pesach vs. Pesach' describes the resolution content but belongs after the contradiction has already been raised.",
+      "chosen_heading": "Melika vs. Haktarah",
+      "current_heading": "Erev Pesach vs. Pesach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Zevach vs. Zivchay",
+    "candidates": [
+      "Erev Pesach vs. Pesach",
+      "Zevach vs. Zivchay",
+      "Pesach Shelo Lishmo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Yehuda's tamid-based reading of 'zivchi' and Rabbi Shimon's doubled-verse derivation of 'zevach/zivchay' and the partition between erev Pesach and the chag \u2014 exactly the content described in the 'Zevach vs. Zivchay' prose, which is also the current placement.",
+      "chosen_heading": "Zevach vs. Zivchay",
+      "current_heading": "Zevach vs. Zivchay",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Pesach Shelo Lishmo",
+    "candidates": [
+      "Pesach Shelo Lishmo",
+      "Three Groups",
+      "Locking the Azarah",
+      "Gold & Silver Bowls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ruling about a Korban Pesach slaughtered on Chol HaMoed lishmo vs. shelo lishmo, the question of whether akira is required, and Rabbi Chiyya bar Gamda's resolution \u2014 exactly the content described in the 'Pesach Shelo Lishmo' prose.",
+      "chosen_heading": "Pesach Shelo Lishmo",
+      "current_heading": "Pesach Shelo Lishmo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Gold & Silver Bowls",
+    "candidates": [
+      "Three Groups",
+      "Locking the Azarah",
+      "Gold & Silver Bowls",
+      "Shechita & Blood Pass",
+      "Zrika Location"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Groups",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna describing the three groups and the first group entering with trumpet blasts, which matches heading 0 ('Three Groups') and its prose about shlosh kitot and the scriptural basis, not the gold/silver bowls section.",
+      "second_heading": "Gold & Silver Bowls",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the kohanim standing in rows with silver and gold bowls that have no base, which matches exactly the prose of heading 2 ('Gold & Silver Bowls') where it currently sits.",
+      "current_heading": "Gold & Silver Bowls",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Zrika Location",
+    "candidates": [
+      "Shechita & Blood Pass",
+      "Zrika Location",
+      "Hallel Recitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the shechita by a Yisrael, the blood-passing chain (nosno l'chavero), and the single zrika by the closest Kohen \u2014 all of which are described together in candidate 0's prose about the 'Shechita & Blood Pass' section, which explicitly discusses all these elements including the final zrika detail.",
+      "chosen_heading": "Shechita & Blood Pass",
+      "current_heading": "Zrika Location",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Hallel Recitation",
+    "candidates": [
+      "Zrika Location",
+      "Hallel Recitation",
+      "Flaying on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the three groups entering and exiting for the Korban Pesach rite, the recitation of Hallel during shechita, repeating Hallel if completed, and Rabbi Yehuda's observation about the third group never reaching 'Ahavti ki yishma Hashem' \u2014 all of which directly match the 'Hallel Recitation' section's prose.",
+      "chosen_heading": "Hallel Recitation",
+      "current_heading": "Hallel Recitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Flaying on Shabbat",
+    "candidates": [
+      "Flaying on Shabbat",
+      "Hooks & Poles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses rinsing the Temple courtyard on Shabbat contrary to the Sages' wishes and Rabbi Yehuda's cup of mixed blood with a single sprinkling, which exactly matches the prose under 'Flaying on Shabbat' (candidate 0).",
+      "chosen_heading": "Flaying on Shabbat",
+      "current_heading": "Flaying on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Hooks & Poles",
+    "candidates": [
+      "Hooks & Poles",
+      "Rabbi Eliezer's Ruling",
+      "Innards & First Group",
+      "Groups' Locations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hooks & Poles",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the hooks, poles, and the opening of Rabbi Eliezer's ruling about Shabbat \u2014 all material discussed under 'Hooks & Poles' and the beginning of 'Rabbi Eliezer's Ruling'.",
+      "second_heading": "Innards & First Group",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes tearing open the carcass, removing the emurim, placing them in a mageis, and burning them on the altar \u2014 exactly the content described in 'Innards & First Group'.",
+      "current_heading": "Hooks & Poles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Groups' Locations",
+    "candidates": [
+      "Rabbi Eliezer's Ruling",
+      "Innards & First Group",
+      "Groups' Locations",
+      "30 per Group Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly where each group waited after completing their korbanot on Shabbat and what happened at nightfall, which is precisely what the 'Groups' Locations' section prose discusses.",
+      "chosen_heading": "Groups' Locations",
+      "current_heading": "Groups' Locations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "30 per Group Rule",
+    "candidates": [
+      "30 per Group Rule",
+      "Miracle vs. Manual Lock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Yitzchak's rule about three groups of thirty people for slaughtering the Paschal lamb, which is precisely what the '30 per Group Rule' prose describes.",
+      "chosen_heading": "30 per Group Rule",
+      "current_heading": "30 per Group Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Miracle vs. Manual Lock",
+    "candidates": [
+      "Miracle vs. Manual Lock",
+      "Akavya Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Abaye-Rava dispute about whether the azarah doors closed miraculously or manually, which is precisely what the 'Miracle vs. Manual Lock' prose describes.",
+      "chosen_heading": "Miracle vs. Manual Lock",
+      "current_heading": "Miracle vs. Manual Lock",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Akavya Story",
+    "candidates": [
+      "Akavya Story",
+      "Crushing Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Akavya ben Mahalalel's niduy, Rabbi Yehuda's defense, and Abaye and Rava's explanations of 'azarah nin'elet' \u2014 precisely what the 'Akavya Story' prose section describes.",
+      "chosen_heading": "Akavya Story",
+      "current_heading": "Akavya Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Crushing Incident",
+    "candidates": [
+      "Crushing Incident",
+      "Kidney Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the crushing incident in Hillel's time and the 'Pesach Me'uchin' name, which is exactly what the 'Crushing Incident' section's prose discusses.",
+      "chosen_heading": "Crushing Incident",
+      "current_heading": "Crushing Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Kidney Count",
+    "candidates": [
+      "Kidney Count",
+      "Capacity Analysis",
+      "Kidney Marking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Kidney Count' section's prose discusses \u2014 King Agrippa's census via kidney collection from Paschal lambs, yielding 600,000 pairs, double those who left Egypt, and the name 'Pesach Me'uvin'.",
+      "chosen_heading": "Kidney Count",
+      "current_heading": "Kidney Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Kidney Marking",
+    "candidates": [
+      "Capacity Analysis",
+      "Kidney Marking",
+      "Bowls Without Bases",
+      "Aesthetic Arrangement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's challenge about temporarily removing a kidney for counting purposes and its resolution (tefisa b'alma), which matches precisely the 'Kidney Marking' section's prose about de-hadar maktru lehu, ve-hiktiram, she-kulan k'achat, and the final answer of ella tefisa b'alma.",
+      "chosen_heading": "Kidney Marking",
+      "current_heading": "Kidney Marking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Aesthetic Arrangement",
+    "candidates": [
+      "Bowls Without Bases",
+      "Aesthetic Arrangement",
+      "Transport Without Feet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Aesthetic Arrangement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the aesthetic reason for separating gold and silver bowls into uniform rows, which matches the 'Aesthetic Arrangement' prose exactly.",
+      "second_heading": "Bowls Without Bases",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the baraita about bowls without bases and the frankincense bowl exception, which matches the 'Bowls Without Bases' prose exactly.",
+      "current_heading": "Aesthetic Arrangement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Transport Without Feet",
+    "candidates": [
+      "Transport Without Feet",
+      "Honor in Procedure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Transport Without Feet",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the validity of slaughter by a non-priest and that receiving onward is a priestly commandment, which fits under 'Transport Without Feet' only incidentally \u2014 but more critically, it is the introductory Gemara on the Mishnah before the holacha question, and the current heading's prose begins with the bucket-brigade holacha question, making item 1 a structural precursor; however since both candidates are about the same Mishnah passage, item 1's content about shechita by a zar and reception by the kohen is the setup Gemara that precedes the holacha discussion under heading 0.",
+      "second_heading": "Honor in Procedure",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explicitly discusses the bucket-brigade procedure, raises the holacha she-lo be-regel question, resolves it with 'dilma dahani purta', and then gives the 'b'rov am hadrat melech' answer \u2014 matching heading 1 'Honor in Procedure' whose prose describes exactly this sequence of question and answer about the purpose of the bucket-brigade procedure.",
+      "current_heading": "Transport Without Feet",
+      "moved": true
+    }
+  }
+]

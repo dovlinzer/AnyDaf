@@ -1,0 +1,185 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Baraita: Forbidden Pairs",
+    "candidates": [
+      "Opening & Overview",
+      "Scope Minimization",
+      "Rava's Position",
+      "Ma'alah Asu Beyuchsin",
+      "Mishnah: Asurin Bazeh",
+      "Rabbi Eliezer's View",
+      "Baraita: Forbidden Pairs",
+      "Tanna Kamma",
+      "Rabbi Yosi",
+      "Rabban Shimon ben Gamliel",
+      "Mitzri Sheini Case",
+      "Kohen Gadol Ba'Almanah",
+      "Three Position Analysis",
+      "Almanas Issa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All eight items together constitute the baraita and its Gemara analysis of who disqualifies a woman from marrying a kohen, covering the Tanna Kamma, Rabbi Yosei, and Rabban Shimon ben Gamliel positions along with the Mitzri Sheini and Ammonite/Moabite distinctions \u2014 exactly what the 'Baraita: Forbidden Pairs' section prose describes in full detail.",
+      "chosen_heading": "Baraita: Forbidden Pairs",
+      "current_heading": "Baraita: Forbidden Pairs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Almanas Issa",
+    "candidates": [
+      "Tanna Kamma",
+      "Rabbi Yosi",
+      "Rabban Shimon ben Gamliel",
+      "Mitzri Sheini Case",
+      "Kohen Gadol Ba'Almanah",
+      "Three Position Analysis",
+      "Almanas Issa",
+      "Sefek Sefeka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rav \u1e24isda passage about Almanas Issa \u2014 item 1 states the consensus ruling and item 2 cites the dissenting tanna'im who permit her, which is precisely what candidate 6 ('Almanas Issa') describes in its prose.",
+      "chosen_heading": "Almanas Issa",
+      "current_heading": "Almanas Issa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Sefek Sefeka",
+    "candidates": [
+      "Sefek Sefeka",
+      "Kutim Lo Yisa Kutit",
+      "Ger Achar Asara Dorot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All nine items form a continuous Gemara discussion about the halakha of safek mamzer marrying vaday mamzer (Rabbi Eliezer's ruling, Rav and Shmuel's positions, the arusah she'ibbera case, and the shetuki/beduki resolution), which is precisely what the 'Sefek Sefeka' prose describes in detail.",
+      "chosen_heading": "Sefek Sefeka",
+      "current_heading": "Sefek Sefeka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Ger Achar Asara Dorot",
+    "candidates": [
+      "Kutim Lo Yisa Kutit",
+      "Ger Achar Asara Dorot",
+      "Abaye's Challenge",
+      "Gerei Arayot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita about a convert's permission to marry a mamzeret within ten generations and the 'until idol worship is forgotten' opinion \u2014 the exact content that candidate 1's prose ('Ger Achar Asara Dorot') discusses in detail as the basis for Rav Yosef's explanation.",
+      "chosen_heading": "Ger Achar Asara Dorot",
+      "current_heading": "Ger Achar Asara Dorot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Gerei Arayot",
+    "candidates": [
+      "Abaye's Challenge",
+      "Gerei Arayot",
+      "Rabbi Akiva's View",
+      "Matrilineal Descent",
+      "Position Alignment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's challenge about the asymmetry of the convert/mamzeret case versus the Kutim case, which is precisely what candidate 0 ('Abaye's Challenge') discusses in its prose.",
+      "second_heading": "Gerei Arayot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains that Rabbi Elazar holds like Rabbi Yishmael (Kutim are lion converts) and Rabbi Yishmael holds like Rabbi Akiva (child of gentile and Jewish woman is a mamzer), which is exactly what candidate 1 ('Gerei Arayot') describes in its prose.",
+      "current_heading": "Gerei Arayot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Position Alignment",
+    "candidates": [
+      "Rabbi Akiva's View",
+      "Matrilineal Descent",
+      "Position Alignment",
+      "Ervah Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items form a continuous unit \u2014 the Gemara's challenge to Rabbi Yishmael holding like Rabbi Akiva, with the verse and its derivation about widowhood/divorce excluding gentiles and slaves \u2014 which is precisely what candidate 2 ('Position Alignment') describes in its prose.",
+      "chosen_heading": "Position Alignment",
+      "current_heading": "Position Alignment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Ervah Requirement",
+    "candidates": [
+      "Ervah Requirement",
+      "Unresolved Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-objection-answer about whether Rabbi Elazar holds like Rabbi Akiva on mamzerut, which is precisely what the 'Ervah Requirement' prose describes \u2014 the reframing to Rabbi Eliezer holding both positions, followed by the immediate challenge from his own ruling requiring issur ervah punishable by karet.",
+      "chosen_heading": "Ervah Requirement",
+      "current_heading": "Ervah Requirement",
+      "moved": false
+    }
+  }
+]

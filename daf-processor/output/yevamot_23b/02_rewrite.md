@@ -14,9 +14,7 @@ The opening scenario of the *mishnah* concerns a man who married one of two sist
 
 ### Binding Nature Question
 
-The *gemara* draws the inference that *kiddushin she'einam re'uyim le'biah havei kiddushin* — betrothal that is inherently incapable of leading to intimacy is still a valid act of *kiddushin*. This question touches on the centrality of marital relations within the institution of marriage itself. One may recall that earlier in the tractate, the *gemara* discussed at length cases involving women for whom pregnancy posed a danger, or cases of underage girls and pregnant women, and the discussion there concerned the use of contraception — but never the option of complete abstention from relations. That itself reflects how fundamental intimacy is to the definition of marriage.
-
-One might ask: if *kiddushin* that cannot lead to relations is still binding, why is *kiddushin* with an *ervah* not binding? After all, relations with an *ervah* are also forbidden. The answer — and this is indeed the question that Tosafot addresses — is that in the case of standard *issurei lavin*, the prohibition exists independently of the *kiddushin* itself. By contrast, in the two-sisters case, it is the very act of *kiddushin* that generates the impossibility: by creating an act of betrothal to one of the two sisters, one immediately renders the other a potential *achot ishto*, making relations with either woman impossible. As Tosafot states: *kiddushin she'einam re'uyim le'biah peirush she'al yedei kiddushin kamafsida biviah* — the *kiddushin* itself is what precludes the possibility of relations. By contrast, with *chayavei lavin* or *chayavei aseh*, the *kiddushin* does not generate the prohibition; the prohibition exists prior to and independent of the act of betrothal.
+The *gemara* draws the inference — *shma mina kiddushin she'einam re'uyim le'biah havei kiddushin* — that betrothal inherently incapable of leading to intimacy is nonetheless a valid act of *kiddushin*. The scenario that prompts this inference is one in which a man betrothed one of two sisters without knowing which one, so that from the very outset the act of *kiddushin* was indeterminate. Exactly what that scenario looks like in practice, however, remains to be worked out.
 
 ## Unknown Marriage Cas (II)
 
@@ -226,7 +224,7 @@ Now that the verse is established as speaking about the eldest brother, the *gem
 
 ### Ki Yeshvu Achim
 
-This is disproved from the concept of *eshet achiv shelo haya be-olamo* — the wife of a brother who was born after the deceased brother had already died. The Torah established a special exclusion for this case, teaching that there is no *mitzvat yibum* in such a situation. But consider: a brother born after his brother's death cannot be a *bechor* by any reckoning, since his older brother died before he was born. The fact that the Torah needed to explicitly exclude this brother from the *mitzvah* of *yibum* demonstrates that in principle such a brother — a non-firstborn — is subject to *yibum*. Otherwise, no exclusion would have been necessary.
+The verse begins *ki yeshvu achim yachdav* — "when brothers sit together" — linking the brothers to one another.
 
 ## Bechor Exclusivity T (II)
 

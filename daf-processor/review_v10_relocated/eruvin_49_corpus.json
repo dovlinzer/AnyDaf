@@ -1,0 +1,491 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Shmuel: All Forbidden",
+    "candidates": [
+      "Mishnah: A-B, B-C",
+      "Rav: One Direction",
+      "Rashi: B's Contradiction",
+      "Tosafot: Gezeirah",
+      "Shmuel: All Forbidden",
+      "Baraita: Shared Zone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the Rav Yehuda/Shmuel exchange: Rav's ruling that one direction is permitted (item 1), followed by Rav Yehuda reporting it to Shmuel (item 2), and Shmuel's response that even this is Rabbi Shimon's view and the chachamim forbid all three (item 3) \u2014 exactly what candidate 4 ('Shmuel: All Forbidden') describes in its prose.",
+      "chosen_heading": "Shmuel: All Forbidden",
+      "current_heading": "Shmuel: All Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Baraita: Shared Zone",
+    "candidates": [
+      "Baraita: Shared Zone",
+      "Two Streets Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita that confirms Rav Yehuda's opinion in accordance with Shmuel, featuring Rabbi Shimon's analogy of three courtyards \u2014 exactly what the prose under 'Baraita: Shared Zone' describes.",
+      "chosen_heading": "Baraita: Shared Zone",
+      "current_heading": "Baraita: Shared Zone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Two Streets Setup",
+    "candidates": [
+      "Two Streets Setup",
+      "Eruv Both/Neither",
+      "Primary Street Use",
+      "Redefine via Eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the 'Eruv Both/Neither' section's prose, which explicitly discusses both the 'eirva im shneihem asura im shneihem' ruling (item 2) and the 'lo eirva im shneihem oseret al shneihem' ruling (item 3), with item 1 being the Rabbis' position that underlies Shmuel's reasoning in this context.",
+      "chosen_heading": "Eruv Both/Neither",
+      "current_heading": "Two Streets Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Redefine via Eruv",
+    "candidates": [
+      "Eruv Both/Neither",
+      "Primary Street Use",
+      "Redefine via Eruv",
+      "Exclusion Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Primary Street Use",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the basic rule about habitual vs. non-habitual street use (regila/eina regila), which is precisely what candidate 1 'Primary Street Use' discusses.",
+      "second_heading": "Redefine via Eruv",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba bar Rav Huna's ruling that making an eruv with the non-habitual street redefines affiliation, which is exactly what candidate 2 'Redefine via Eruv' describes.",
+      "current_heading": "Redefine via Eruv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Exclusion Scenario",
+    "candidates": [
+      "Exclusion Scenario",
+      "Midat Sodom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in the 'Exclusion Scenario' prose: Rabba bar Rav Huna citing Shmuel about diverting the courtyard to the unaccustomed alleyway, which matches the current placement's detailed discussion of this ruling.",
+      "chosen_heading": "Exclusion Scenario",
+      "current_heading": "Exclusion Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Midat Sodom",
+    "candidates": [
+      "Midat Sodom",
+      "Makpid: No Eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the principle of *midat Sodom* and compelling someone not to act in Sodom's manner, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Midat Sodom",
+      "current_heading": "Midat Sodom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Makpid: No Eruv",
+    "candidates": [
+      "Makpid: No Eruv",
+      "Rashi: Mixed/Pleasant",
+      "Rabbi Chanina: Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and translates the Rav Yehuda/Shmuel statement about a person who is particular about his eruv being invalid, which is precisely what heading 0 ('Makpid: No Eruv') discusses in its prose.",
+      "chosen_heading": "Makpid: No Eruv",
+      "current_heading": "Makpid: No Eruv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rabbi Chanina: Valid",
+    "candidates": [
+      "Rashi: Mixed/Pleasant",
+      "Rabbi Chanina: Valid",
+      "Cholok: Two Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Chanina's ruling that the eruv is valid but the person is called one of the men of Vardina, which is precisely what the prose under 'Rabbi Chanina: Valid' describes and analyzes.",
+      "chosen_heading": "Rabbi Chanina: Valid",
+      "current_heading": "Rabbi Chanina: Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Cholok: Two Vessels",
+    "candidates": [
+      "Cholok: Two Vessels",
+      "Two Cases Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Shmuel's ruling on dividing an eiruv, the challenge from the Beit Shammai/Beit Hillel baraita, and the resolution distinguishing overflow from deliberate division \u2014 are precisely the content described in the 'Cholok: Two Vessels' prose.",
+      "chosen_heading": "Cholok: Two Vessels",
+      "current_heading": "Cholok: Two Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Two Cases Needed",
+    "candidates": [
+      "Two Cases Needed",
+      "Owner Contribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the classic tzrichi dialectic explaining why both the makpid case and the physical-separation case were necessary, which is precisely what the 'Two Cases Needed' prose describes.",
+      "chosen_heading": "Two Cases Needed",
+      "current_heading": "Two Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Owner Contribution",
+    "candidates": [
+      "Owner Contribution",
+      "All at Eruv Place"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rabbi Abba's challenge to Rav Yehuda about whether Shmuel said dividing one's eiruv invalidates it, and the initial reasoning about bread in a basket being treated as present \u2014 is directly described in heading 0's prose, which explicitly covers this exchange and the 'keivan de-manach be-sal' reasoning.",
+      "chosen_heading": "Owner Contribution",
+      "current_heading": "Owner Contribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "All at Eruv Place",
+    "candidates": [
+      "All at Eruv Place",
+      "Kinyan Model",
+      "No Money: Gezeirah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All at Eruv Place",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yehuda's explanation of Shmuel's ruling via the 'all living here' principle, which is precisely what Candidate 0's prose discusses as de-kulhu hacha dayrei.",
+      "second_heading": "Kinyan Model",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's formal 'eruv mishum kinyan' statement, which is the exact opening Candidate 1's prose quotes and analyzes as a new theoretical account of the eruv.",
+      "current_heading": "All at Eruv Place",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "No Money: Gezeirah",
+    "candidates": [
+      "Kinyan Model",
+      "No Money: Gezeirah",
+      "Dirah Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question about why money cannot be used, the challenge about money working b'diavad, and the gezeirah answer \u2014 directly match the 'No Money: Gezeirah' prose, which explicitly describes exactly this sequence of question, answer, further question, and gezeirah response.",
+      "chosen_heading": "No Money: Gezeirah",
+      "current_heading": "No Money: Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Dirah Model",
+    "candidates": [
+      "Dirah Model",
+      "Three Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbah's 'eruv mishum dirah' statement, which is exactly what the 'Dirah Model' section's prose is directly explaining and analyzing.",
+      "chosen_heading": "Dirah Model",
+      "current_heading": "Dirah Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Three Differences",
+    "candidates": [
+      "Three Differences",
+      "Halacha: Rabbah",
+      "One Shaliach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the practical differences (kli, less than a peruta, minor) between the kinyan and dirah models, which is precisely what the 'Three Differences' section's prose discusses in detail.",
+      "chosen_heading": "Three Differences",
+      "current_heading": "Three Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "One Shaliach",
+    "candidates": [
+      "Halacha: Rabbah",
+      "One Shaliach",
+      "Shlichut Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge to both Rabbah and Shmuel's models using the baraita about five people sending one representative, which is precisely what the 'One Shaliach' section's prose describes.",
+      "chosen_heading": "One Shaliach",
+      "current_heading": "One Shaliach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Shlichut Works",
+    "candidates": [
+      "Shlichut Works",
+      "Rabbi Shimon Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the person acts as an agent on behalf of all, which is precisely what the 'Shlichut Works' section discusses.",
+      "chosen_heading": "Shlichut Works",
+      "current_heading": "Shlichut Works",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rabbi Shimon Rules",
+    "candidates": [
+      "Rabbi Shimon Rules",
+      "Traveling Home",
+      "Midpoint Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the halakha follows Rabbi Shimon, which matches exactly what heading 0's prose describes.",
+      "chosen_heading": "Rabbi Shimon Rules",
+      "current_heading": "Rabbi Shimon Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Midpoint Tree",
+    "candidates": [
+      "Traveling Home",
+      "Midpoint Tree",
+      "2000 Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The Mishna text introduces the scenario of someone traveling and overtaken by darkness, which matches heading 0's prose about the primary subject setup, though heading 1 also discusses the same Mishna's content about the tree declaration being ineffective.",
+      "chosen_heading": "Traveling Home",
+      "current_heading": "Midpoint Tree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "2000 Amot",
+    "candidates": [
+      "2000 Amot",
+      "Where Standing",
+      "Circle/Square"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "2000 Amot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the four-thousand amot scenario from designating the tree trunk as residence, which matches exactly the '2000 Amot' prose about walking from current position to trunk and then to house.",
+      "second_heading": "Where Standing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces a distinct new case \u2014 someone unfamiliar with landmarks or halakha who declares 'my residence is at my location' \u2014 which matches perfectly the 'Where Standing' prose about declaring shevitati bi-mekomi and receiving two thousand amot in every direction.",
+      "current_heading": "2000 Amot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Circle/Square",
+    "candidates": [
+      "Where Standing",
+      "Circle/Square",
+      "Poor Person Eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the circular vs. square measurement dispute between Rabbi \u1e24anina ben Antigenos and the Rabbis, which is precisely what the 'Circle/Square' section prose describes.",
+      "chosen_heading": "Circle/Square",
+      "current_heading": "Circle/Square",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Poor Person Eruv",
+    "candidates": [
+      "Poor Person Eruv",
+      "Rav: Worthless"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the poor person's eruv with feet and the dispute between Rabbi Meir and Rabbi Yehuda, which is exactly what the 'Poor Person Eruv' section's prose describes.",
+      "chosen_heading": "Poor Person Eruv",
+      "current_heading": "Poor Person Eruv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Rav: Worthless",
+    "candidates": [
+      "Rav: Worthless",
+      "Shmuel: Reach Tree",
+      "Chamor Gamal",
+      "Safek Space Loss",
+      "Rabbah on Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All 9 items form one continuous sugyah beginning with the Gemara's question about 'lo amar klum' and Rav's position, which is exactly what heading 0's prose describes, even though the passage continues through Shmuel, chamor gamal, and Rabbah's explanations that are covered by later headings.",
+      "chosen_heading": "Rav: Worthless",
+      "current_heading": "Rav: Worthless",
+      "moved": false
+    }
+  }
+]

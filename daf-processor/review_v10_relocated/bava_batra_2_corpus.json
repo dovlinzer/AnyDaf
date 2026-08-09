@@ -1,0 +1,205 @@
+[
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Solo Building & Chazit",
+    "candidates": [
+      "Seder Nezikin Overview",
+      "Three Masechtot Structure",
+      "Thematic Organization",
+      "Pedagogical Challenges",
+      "Rashi Ends, Rashbam",
+      "Word & Daf Analysis",
+      "Partners & Shared Yard",
+      "Wall in Middle",
+      "Keminhag Hamedina",
+      "Building Materials",
+      "Presumption of Equality",
+      "Gardens vs. Fields",
+      "Solo Building & Chazit",
+      "Both Agree, Double Chazit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Presumption of Equality",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the materials/thicknesses and the resulting presumption of equal ownership (if the wall falls, space and stones belong to both), plus the garden/field extension \u2014 all fitting under 'Presumption of Equality' and 'Gardens vs. Fields', but item 1 with its detailed material specifications and 'lefikach im nafal' conclusion maps squarely to heading 10 ('Presumption of Equality'), which explicitly discusses the equal-contribution presumption and the 'if the wall falls' consequence.",
+      "second_heading": "Solo Building & Chazit",
+      "second_confidence": "high",
+      "second_reason": "Item 3 describes the solo builder who withdraws into his own land, makes a chazit on the outer side, and retains sole ownership if the wall falls \u2014 this is precisely the content described under heading 12 ('Solo Building & Chazit').",
+      "current_heading": "Solo Building & Chazit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Both Agree, Double Chazit",
+    "candidates": [
+      "Both Agree, Double Chazit",
+      "Tosafot Question",
+      "Rabbeinu Tam Balance",
+      "Minhag Hedyot",
+      "Minhag & Standards",
+      "Mechitza: Noun or Verb",
+      "Braita: Vineyard Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the case where both parties agree to build a wall in the middle with a chazit on both sides and the consequences if it falls, which is exactly what the 'Both Agree, Double Chazit' section's prose discusses.",
+      "chosen_heading": "Both Agree, Double Chazit",
+      "current_heading": "Both Agree, Double Chazit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Braita: Vineyard Wall",
+    "candidates": [
+      "Tosafot Question",
+      "Rabbeinu Tam Balance",
+      "Minhag Hedyot",
+      "Minhag & Standards",
+      "Mechitza: Noun or Verb",
+      "Braita: Vineyard Wall",
+      "Agreement Required",
+      "Hezek Re'iyah Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about the vineyard partition (mechitzat hakerem) \u2014 item 1 is the opening and item 2 is the conclusion about neglecting to repair \u2014 which is precisely what candidate 5 ('Braita: Vineyard Wall') discusses in its prose.",
+      "chosen_heading": "Braita: Vineyard Wall",
+      "current_heading": "Braita: Vineyard Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Hezek Re'iyah Defined",
+    "candidates": [
+      "Agreement Required",
+      "Hezek Re'iyah Defined",
+      "Alt: Division Reading",
+      "Mechitza = Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the inference that hezek re'iyah is not legally recognized damage, which is exactly what candidate 0 ('Agreement Required') describes \u2014 the ta'ama deratza / ha lo ratza inference leading to 'alma hezek re'iyah lav shemei hezek.'",
+      "chosen_heading": "Agreement Required",
+      "current_heading": "Hezek Re'iyah Defined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Mechitza = Wall",
+    "candidates": [
+      "Alt: Division Reading",
+      "Mechitza = Wall",
+      "Building Be'emtza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's back-and-forth over whether mechitza means 'division' (pelugta) or 'wall' (guda), which is precisely the content described in candidate 0's prose about the alternative 'division' reading and its implications, whereas candidate 1's prose describes the rejection and resolution of that debate \u2014 but the passage itself contains the proposal AND the rejection, making candidate 0 the better match since it introduces and frames this entire exchange.",
+      "chosen_heading": "Alt: Division Reading",
+      "current_heading": "Mechitza = Wall",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Building Be'emtza",
+    "candidates": [
+      "Mechitza = Wall",
+      "Building Be'emtza",
+      "Ginah Compulsion",
+      "Ayin Hara Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the pshita question and the lo tzricha answer about building the wall in the middle (be'emtza), which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Building Be'emtza",
+      "current_heading": "Building Be'emtza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Ayin Hara Damage",
+    "candidates": [
+      "Ginah Compulsion",
+      "Ayin Hara Damage",
+      "Ginah Exception",
+      "Fallen Chatzer Wall",
+      "Nafal Shani"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ginah Compulsion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the mnemonic and the garden challenge to 'hezek re'iyah lav shemei hezek', which matches candidate 0's prose about the gemara challenging the conclusion via the gina mishnah.",
+      "second_heading": "Ayin Hara Damage",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives the ayin hara rebuttal (gina shani, per Rabbi Abba/Rav Huna/Rav), which exactly matches candidate 1's prose about gina being different due to ayin hara causing tangible damage to produce.",
+      "current_heading": "Ayin Hara Damage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Nafal Shani",
+    "candidates": [
+      "Ginah Exception",
+      "Fallen Chatzer Wall",
+      "Nafal Shani",
+      "Habituation & Real Damage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ginah Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the 'vekhen' objection and the ayin hara/ginah exception, which matches the 'Ginah Exception' prose about confining the garden case as a special exception.",
+      "second_heading": "Fallen Chatzer Wall",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the fallen chatzer wall proof and the nafal shani deflection with the chiddush about four amos, matching both 'Fallen Chatzer Wall' and 'Nafal Shani' \u2014 but since item 2 introduces the mishnah and item 3 resolves it, they belong together under 'Fallen Chatzer Wall' as the section that introduces this proof attempt.",
+      "current_heading": "Nafal Shani",
+      "moved": true
+    }
+  }
+]

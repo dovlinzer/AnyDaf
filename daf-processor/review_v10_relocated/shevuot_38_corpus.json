@@ -1,0 +1,457 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Stolen Field Flooded",
+    "candidates": [
+      "R. Yochanan vs. Eleazar",
+      "R. Eliezer vs. Sages",
+      "Stolen Field Flooded",
+      "Ribui u-Mi'ut Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's proposal that Rabbi Yochanan and Rabbi Eleazar's dispute maps onto the Tannaitic dispute between Rabbi Eliezer and the Rabbis \u2014 which is precisely what heading 1 ('R. Eliezer vs. Sages') describes as its topic, with the stolen field case being the content of that proposal rather than a standalone topic deserving its own heading.",
+      "chosen_heading": "R. Eliezer vs. Sages",
+      "current_heading": "Stolen Field Flooded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Ribui u-Mi'ut Analysis",
+    "candidates": [
+      "Stolen Field Flooded",
+      "Ribui u-Mi'ut Analysis",
+      "Shtar Exclusion",
+      "Amoraic Application",
+      "Mishnah Arguments"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Ribui u-Mi'ut Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 explain the ribui u-mi'ut vs. klal u-prat methodological dispute and its application to karka/shtarot exclusions, which is exactly what candidate 1 ('Ribui u-Mi'ut Analysis') describes.",
+      "second_heading": "Amoraic Application",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20137 present Rabbi Yirmeya's mapping of the Amoraic dispute (Rabbi Eleazar vs. Rabbi Yochanan) onto the Tannaitic dispute, and Rabbi Abbahu's pushback that the parallel is not forced \u2014 precisely what candidate 3 ('Amoraic Application') describes.",
+      "current_heading": "Ribui u-Mi'ut Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Mishnah Arguments",
+    "candidates": [
+      "Shtar Exclusion",
+      "Amoraic Application",
+      "Mishnah Arguments",
+      "Klal vs. Prat",
+      "R. Meir Framework",
+      "R. Yehuda Vav Rule",
+      "Shmuel Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are precisely the Rav Pappa/Rav Pappi arguments from the Mishnah's silence (ganavta et avdi omission) and the concluding klal, which the prose under 'Mishnah Arguments' explicitly describes.",
+      "chosen_heading": "Mishnah Arguments",
+      "current_heading": "Mishnah Arguments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Shmuel Inference",
+    "candidates": [
+      "Klal vs. Prat",
+      "R. Meir Framework",
+      "R. Yehuda Vav Rule",
+      "Shmuel Inference",
+      "R. Yochanan Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The phrase 'no inference is to be learned from the mishna' is the Gemara's conclusion rejecting Shmuel's diyuk from the baraita, which corresponds to Rabbi Yochanan's counter-argument described in candidate 4's prose about the diyuk not being compelling.",
+      "chosen_heading": "R. Yochanan Counter",
+      "current_heading": "Shmuel Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "R. Yochanan Counter",
+    "candidates": [
+      "Shmuel Inference",
+      "R. Yochanan Counter",
+      "Textual Variants"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shmuel Inference",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 present the baraita with the dispute between Rabbi Meir, Rabbi Yehuda, Rabbi Eliezer, and Rabbi Shimon \u2014 the raw text that precedes Shmuel's inference \u2014 and candidate 0 ('Shmuel Inference') is the section that opens by discussing this baraita and Shmuel's reading of it.",
+      "second_heading": "R. Yochanan Counter",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 cover exactly the Shmuel vs. Rabbi Yochanan dispute and their respective inferences from baraita and mishna, which is precisely what candidate 1 ('R. Yochanan Counter') discusses in its prose.",
+      "current_heading": "R. Yochanan Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Textual Variants",
+    "candidates": [
+      "Textual Variants",
+      "Attribution Issue",
+      "Afilu Meaning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Textual Variants",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the Rabbi Yo\u1e25anan/Shmuel dispute and the repeated Gemara attempts to refute Shmuel by citing the Mishnah's vav formulations, each time requiring the Gemara to say 'tani' \u2014 exactly the content described in the 'Textual Variants' prose.",
+      "second_heading": "Attribution Issue",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is the Gemara's exasperated conclusion that the Mishnah cannot be Rabbi Meir's and must follow Rebbi's position (ella mani Rebbi hi, k'zayis k'zayis / k'zayis u-kzayis), which is precisely the content described in the 'Attribution Issue' prose.",
+      "current_heading": "Textual Variants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Afilu Meaning",
+    "candidates": [
+      "Attribution Issue",
+      "Afilu Meaning",
+      "Combining Categories",
+      "Generic Oath Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the word 'afilu' in Rabbi Meir's statement and Rav Acha son of Rav Ika's explanation that singular grain terms include entire categories \u2014 exactly what the 'Afilu Meaning' prose describes.",
+      "chosen_heading": "Afilu Meaning",
+      "current_heading": "Afilu Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Generic Oath Debate",
+    "candidates": [
+      "Combining Categories",
+      "Generic Oath Debate",
+      "R. Chiya Counts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rabbi Yo\u1e25anan's ruling about combining fractions to a *perutah* and the dispute about whether it applies to the *prat* or *klal* case, which is precisely what heading 0 ('Combining Categories') describes.",
+      "chosen_heading": "Combining Categories",
+      "current_heading": "Generic Oath Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "R. Chiya Counts",
+    "candidates": [
+      "Generic Oath Debate",
+      "R. Chiya Counts",
+      "Carry-Over Specification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the two Rabbi \u1e24iyya baraitot (fifteen vs. twenty sin-offerings) and their resolutions, which is precisely what the 'R. Chiya Counts' prose describes in detail.",
+      "chosen_heading": "R. Chiya Counts",
+      "current_heading": "R. Chiya Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Carry-Over Specification",
+    "candidates": [
+      "Carry-Over Specification",
+      "Ones Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous unit \u2014 Rava's dilemma about whether the initial four-category specification carries over to the subsequent 've-lo lecha' denials for each of five claimants, followed by the Gemara's resolution from Rabbi \u1e24iyya's baraita of twenty sin-offerings \u2014 which is precisely what the 'Carry-Over Specification' prose describes in detail.",
+      "chosen_heading": "Carry-Over Specification",
+      "current_heading": "Carry-Over Specification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Ones Dispute",
+    "candidates": [
+      "Ones Dispute",
+      "Ikar Concept",
+      "Rava Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly contains Rabbi \u1e24iyya bar Abba citing Rabbi Yo\u1e25anan explaining Rabbi Shimon's reasoning with the exact phrase 'ikar knas hu toveia,' which is precisely what the 'Ikar Concept' section's prose describes.",
+      "chosen_heading": "Ikar Concept",
+      "current_heading": "Ones Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rava Analogy",
+    "candidates": [
+      "Ikar Concept",
+      "Rava Analogy",
+      "Abaye Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's analogy about wheat/barley/spelt and a truthful partial oath, which is precisely what the 'Rava Analogy' section's prose describes.",
+      "chosen_heading": "Rava Analogy",
+      "current_heading": "Rava Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Abaye Objection",
+    "candidates": [
+      "Abaye Objection",
+      "Ikar Limits",
+      "Knas vs. Mammon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection and corrected analogy, which matches precisely what the 'Abaye Objection' prose describes \u2014 including the mi dami reasoning, the blanket denial point, and the chitin/se'orin/kusmin corrected analogy with the chayav conclusion.",
+      "chosen_heading": "Abaye Objection",
+      "current_heading": "Abaye Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Knas vs. Mammon",
+    "candidates": [
+      "Ikar Limits",
+      "Knas vs. Mammon",
+      "Modeh be-Miktzat",
+      "Minimum Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ravin's transmission of Rabbi Yochanan's teaching distinguishing Rabbi Shimon's view (knas only) from the Rabbis' view (knas plus boshet u-pegam), and Rav Pappa's explanation of their disagreement \u2014 exactly the content described in the 'Knas vs. Mammon' prose.",
+      "chosen_heading": "Knas vs. Mammon",
+      "current_heading": "Knas vs. Mammon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Minimum Amounts",
+    "candidates": [
+      "Modeh be-Miktzat",
+      "Minimum Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The hadaran formula marks the end of a chapter/tractate section, and while it doesn't match any candidate's prose discussion particularly well, its placement at the end of the 'Minimum Amounts' section (the last substantive discussion before chapter close) is as plausible as any other candidate.",
+      "chosen_heading": "Minimum Amounts",
+      "current_heading": "Minimum Amounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Minimum Amounts",
+    "candidates": [
+      "Minimum Amounts",
+      "Mimain ha-Tana",
+      "Denial & Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the Mishnah's opening cases establishing threshold amounts and the modeh be-miktzat rules, which are precisely what the 'Minimum Amounts' prose describes in detail, including the shtei kesef/perutah cases, the maneh/fifty dinar cases, and the father's deposit exemption.",
+      "chosen_heading": "Minimum Amounts",
+      "current_heading": "Minimum Amounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Denial & Payment",
+    "candidates": [
+      "Mimain ha-Tana",
+      "Denial & Payment",
+      "Object Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the cases described in candidate 1's prose: the maneh li be-yadcha/hen/netativ lach scenario (item 1) and the al titnehu li ela be-eidim condition (item 2), which the prose explicitly addresses in sequence.",
+      "chosen_heading": "Denial & Payment",
+      "current_heading": "Denial & Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Object Distinctions",
+    "candidates": [
+      "Object Distinctions",
+      "Cash Unity",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the litra gold/silver distinction (exempt) and the dinar gold/coin admission (liable), covering both Object Distinctions and Cash Unity, but the Cash Unity section's prose explicitly covers both cases together as a unified Mishnaic discussion, making it the better home \u2014 and notably the current placement only covers the first half while Cash Unity covers the complete passage including the coin-category ruling.",
+      "chosen_heading": "Cash Unity",
+      "current_heading": "Object Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Cash Unity",
+      "Rabban Gamliel",
+      "Barrels & Oil",
+      "Land Exemption",
+      "Zokek Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cash Unity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses whether legumes (kitanit) fall within the category of the claim (grain vs. produce), which matches the 'Cash Unity' section's theme of same-category admissions, but more precisely it discusses the kor/produce case \u2014 however, examining all candidates, there is no dedicated 'produce/legumes' heading, and the closest match for item 1's content about category inclusion (tvu'ah vs. peirot) is actually heading 1 'Rabban Gamliel' which discusses tav'no chittin, but item 1 is a distinct prior case about kor tvu'ah/peirot that precedes the Rabban Gamliel dispute.",
+      "second_heading": "Rabban Gamliel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabban Gamliel ruling (ta'ano chittin ve-hodu lo bi-se'orin) which is precisely what heading 1 'Rabban Gamliel' describes in its prose.",
+      "current_heading": "Rabban Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Zokek Principle",
+    "candidates": [
+      "Barrels & Oil",
+      "Land Exemption",
+      "Zokek Principle",
+      "Eligibility Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Barrels & Oil",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Barrels & Oil dispute (Admon vs. Rabbis on jugs of oil and pitchers), which matches candidate 0's prose exactly.",
+      "second_heading": "Land Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the land-exemption and zokek Mishnah, which spans both candidates 1 and 2; since items 1-2 of the Mishnah naturally flow together as one unit (the land exemption case and the zokek qualification are one continuous Mishnah), and candidate 1's prose covers the exemption portion while candidate 2 covers the zokek qualification, the current placement under 'Zokek Principle' is where item 2 ultimately culminates, but candidate 1 'Land Exemption' is actually the better single home for item 2 as its opening content (patur for keilim/karka) precedes the zokek rule \u2014 however the full item 2 contains both the patur rules AND the zokek principle, making candidate 1 the better match for its opening and candidate 2 for its closing; given the item is indivisible, candidate 2 (current) is acceptable since the zokek principle is the climax of item 2.",
+      "current_heading": "Zokek Principle",
+      "moved": true
+    }
+  }
+]

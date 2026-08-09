@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Kol Haposel Teaching",
+    "candidates": [
+      "Slave Declaration",
+      "Kol Haposel Teaching",
+      "Rav Matna Confirms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara text that the 'Kol Haposel Teaching' prose describes \u2014 Rav Na\u1e25man challenging Rav Yehuda with the principle that a scholar's ruling is suspect if cited only after the relevant incident, and Rav Yehuda's response that Rav Mattana corroborates him, which is exactly what that section's prose explains.",
+      "chosen_heading": "Kol Haposel Teaching",
+      "current_heading": "Kol Haposel Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rav Matna Confirms",
+    "candidates": [
+      "Rav Matna Confirms",
+      "Woman on Roof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Mattana's arrival in Nehardea and his confirmation of Shmuel's teaching about the Hasmoneans, which is precisely what the 'Rav Matna Confirms' section prose describes, including the ferry scene and the ruling itself.",
+      "chosen_heading": "Rav Matna Confirms",
+      "current_heading": "Rav Matna Confirms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Woman on Roof",
+    "candidates": [
+      "Woman on Roof",
+      "Ketuvot Torn Up"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the girl falling from the roof and dying, and the subsequent announcement that the claimant was a slave \u2014 both events are narrated together in the 'Woman on Roof' section's prose, which explicitly quotes 'nafla m'igra umesa' and 'achrizu alei d'avda hu' as part of the same narrative unit.",
+      "chosen_heading": "Woman on Roof",
+      "current_heading": "Woman on Roof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Ketuvot Torn Up",
+    "candidates": [
+      "Ketuvot Torn Up",
+      "Announced Invalidities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the events narrated in candidate 0's prose: the tearing up of ketubot, the pursuit to stone Rav Yehuda, his threat to reveal Shmuel's statement about the dove and raven families, and the stones falling into the Malka River \u2014 all of which are the subject of candidate 0's detailed discussion.",
+      "chosen_heading": "Ketuvot Torn Up",
+      "current_heading": "Ketuvot Torn Up",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Announced Invalidities",
+    "candidates": [
+      "Announced Invalidities",
+      "Rava's Declarations",
+      "Slave Intermarriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Yehuda's announcements (matching heading 0's prose) and Rava's/Rav Yosef's announcements (matching heading 1's prose), but since heading 0's prose explicitly discusses the transition into 'proactive public announcements' and introduces the full sequence including Rav Yehuda, Rava, and Rav Yosef together, the current placement under 'Announced Invalidities' is the best single home for this unified passage.",
+      "chosen_heading": "Announced Invalidities",
+      "current_heading": "Announced Invalidities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Slave Intermarriage",
+    "candidates": [
+      "Rava's Declarations",
+      "Slave Intermarriage",
+      "Abaye's Pushback",
+      "Divine Presence & Yichus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Pash\u1e25ur ben Immer's slaves being assimilated into the priesthood and the brazenness marker, which is precisely what the 'Slave Intermarriage' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Slave Intermarriage",
+      "current_heading": "Slave Intermarriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Divine Presence & Yichus",
+    "candidates": [
+      "Abaye's Pushback",
+      "Divine Presence & Yichus",
+      "Shechina Dwelling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about marrying a woman not suited for him and God's testimony to the tribes, which is precisely what the 'Divine Presence & Yichus' section discusses, including the same verse and interpretation.",
+      "chosen_heading": "Divine Presence & Yichus",
+      "current_heading": "Divine Presence & Yichus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Shechina Dwelling",
+    "candidates": [
+      "Shechina Dwelling",
+      "Native vs Convert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Shechina resting only on families of distinguished lineage, which is precisely what the 'Shechina Dwelling' section's prose describes and analyzes.",
+      "chosen_heading": "Shechina Dwelling",
+      "current_heading": "Shechina Dwelling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Native vs Convert",
+    "candidates": [
+      "Native vs Convert",
+      "Converts as Scabs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabba bar Rav Huna's distinction between native-born Jews and converts, which is precisely what the 'Native vs Convert' section's prose addresses.",
+      "chosen_heading": "Native vs Convert",
+      "current_heading": "Native vs Convert",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Converts as Scabs",
+    "candidates": [
+      "Converts as Scabs",
+      "Money Purifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24elbo's statement about converts being like a scab (sappa\u1e25at), which is exactly what the 'Converts as Scabs' section prose discusses in detail.",
+      "chosen_heading": "Converts as Scabs",
+      "current_heading": "Converts as Scabs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Money Purifies",
+    "candidates": [
+      "Money Purifies",
+      "Mixed Family Rule",
+      "Shmuel's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi \u1e24ama bar \u1e24anina on Levi's purification, Rabbi Yehoshua ben Levi on money purifying mamzerim, and Rabbi Yitz\u1e25ak on the assimilated family \u2014 are explicitly discussed together in the 'Money Purifies' section's prose, which covers exactly this sequence of teachings from the same Malachi verse.",
+      "chosen_heading": "Money Purifies",
+      "current_heading": "Money Purifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Shmuel's Teaching",
+    "candidates": [
+      "Mixed Family Rule",
+      "Shmuel's Teaching",
+      "Diversion Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Shmuel's teaching about the relative lineage purity of all lands vs. Eretz Yisrael vs. Babylonia, and the episode of Rabbi and Rabbi \u1e24anina bar \u1e24ama confirming this tradition \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Shmuel's Teaching",
+      "current_heading": "Shmuel's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Diversion Strategy",
+    "candidates": [
+      "Diversion Strategy",
+      "Yochanan: Invalid Fams"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the same Rabbi Pinchas episode \u2014 the diversion strategy with the stretcher, the two provocative statements, the pursuit, and the withdrawal \u2014 which is precisely what the 'Diversion Strategy' prose section discusses in detail.",
+      "chosen_heading": "Diversion Strategy",
+      "current_heading": "Diversion Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Yochanan: Invalid Fams",
+    "candidates": [
+      "Yochanan: Invalid Fams",
+      "Forced Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's oath about knowing invalid families, his decision to remain silent, and his agreement with Rabbi Yitzchak's principle of mishpacha shenitmeah nitmeah \u2014 all of which are explicitly covered in candidate 0's prose.",
+      "chosen_heading": "Yochanan: Invalid Fams",
+      "current_heading": "Yochanan: Invalid Fams",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Forced Status",
+    "candidates": [
+      "Forced Status",
+      "Secret Traditions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Forced Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Abaye's teaching about Beit HaTzerifa and Ben Tziyyon using force) is explicitly discussed in the 'Forced Status' prose, which covers exactly this material about forced invalid/valid status and Elijah's future rectification of known cases.",
+      "second_heading": "Secret Traditions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the baraita about the secret family, transmission once/twice every seven years, and the nazirite ruling) matches perfectly with the 'Secret Traditions' prose, which discusses exactly this baraita and Rav Nachman bar Yitzchak's ruling about once every seven years and the nazirite case.",
+      "current_heading": "Forced Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Secret Traditions",
+    "candidates": [
+      "Secret Traditions",
+      "Ze'iri's Avoidance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the transmission and concealment of the Divine Names (four-letter, twelve-letter, and forty-two-letter), which is precisely what the 'Secret Traditions' section prose describes in detail.",
+      "chosen_heading": "Secret Traditions",
+      "current_heading": "Secret Traditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Ze'iri's Avoidance",
+    "candidates": [
+      "Ze'iri's Avoidance",
+      "Silence as Yichus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items cover exactly the content described in heading 0's prose: Shmuel's ruling on Babylonian presumptive lineage, the internal contradiction resolved by Rav Huna bar Tachalifa, Rav Yosef on Babylonian speech, Ze'iri avoiding Rabbi Yochanan, the debate about Babylonian vs. Eretz Yisrael lineage purity, Rabbi Elazar's teaching about Ezra, Ulla's visit to Rav Yehuda, and the wife-swapping interpretation of Amos \u2014 all of which are explicitly discussed in heading 0's prose.",
+      "chosen_heading": "Ze'iri's Avoidance",
+      "current_heading": "Ze'iri's Avoidance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Silence as Yichus",
+    "candidates": [
+      "Silence as Yichus",
+      "Bavel Bri'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 following silence as a lineage indicator, Rav's statement that Babylonian silence is its yichus, and the principle that feuding signals a trace of unfitness \u2014 are explicitly discussed in the 'Silence as Yichus' prose, which quotes or paraphrases each of these passages directly.",
+      "chosen_heading": "Silence as Yichus",
+      "current_heading": "Silence as Yichus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Bavel Bri'ah",
+    "candidates": [
+      "Bavel Bri'ah",
+      "East/West Limits",
+      "Northern Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Babylonia being healthy, Mishon dead, Media sick, and Eilam moribund \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Bavel Bri'ah",
+      "current_heading": "Bavel Bri'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Northern Limits",
+    "candidates": [
+      "East/West Limits",
+      "Northern Limits",
+      "Euphrates Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both east/west limits (Azak and Yo'ani rivers) AND northern limits (Bagda/Avna and Mushekanei), but the prose under 'East/West Limits' (candidate 0) explicitly introduces this exact Gemara text starting with 'Ad heichan hi Bavel?' and discusses both the eastern boundary rivers and frames the broader boundary question, making it the better match than the 'Northern Limits' section which only partially covers the passage.",
+      "chosen_heading": "East/West Limits",
+      "current_heading": "Northern Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Euphrates Limits",
+    "candidates": [
+      "Northern Limits",
+      "Euphrates Limits",
+      "Chavil Yama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the northern Euphrates border of Babylonia \u2014 Rav/Shmuel/Rabbi Yochanan's positions, Abaye's curse, the bridge relocation, Biram, and the gittin/yuchasin debate \u2014 exactly matching the 'Euphrates Limits' prose where the passage currently sits.",
+      "chosen_heading": "Euphrates Limits",
+      "current_heading": "Euphrates Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Chavil Yama",
+    "candidates": [
+      "Chavil Yama",
+      "Shot Mishat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Chavil Yama as the glory of Bavel, Shunya/Guvya/Tzitzora, the Samaritan intermingling concern, and identifies Chavil Yama as Prat DeBorsi \u2014 all of which are explicitly covered in candidate 0's prose, making the current placement correct.",
+      "chosen_heading": "Chavil Yama",
+      "current_heading": "Chavil Yama",
+      "moved": false
+    }
+  }
+]

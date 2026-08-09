@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rav Chisda: In vs Out",
+    "candidates": [
+      "Intro: Under Korah",
+      "Rav Chisda: In vs Out",
+      "Rami bar Chama: Ext. Pegs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Chisda's statement that all agree bein lechayayim is forbidden, which is precisely what candidate 1's prose describes and analyzes.",
+      "chosen_heading": "Rav Chisda: In vs Out",
+      "current_heading": "Rav Chisda: In vs Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Rami bar Chama: Ext. Pegs",
+    "candidates": [
+      "Rami bar Chama: Ext. Pegs",
+      "Rava: Direct Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rami bar Chama's dilemma about pegs on the outside of the alleyway walls and Rav Chisda's response contrasting the permissive and restrictive views \u2014 are exactly what the prose under 'Rami bar Chama: Ext. Pegs' describes.",
+      "chosen_heading": "Rami bar Chama: Ext. Pegs",
+      "current_heading": "Rami bar Chama: Ext. Pegs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rava: Direct Placement",
+    "candidates": [
+      "Rava: Direct Placement",
+      "Tzurat HaPetach",
+      "Extended/Suspended Beam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's argument that the beam must be 'on top of' the alleyway walls, which matches heading 0's prose about Rava's requirement for direct placement (korah gabay mavoy).",
+      "chosen_heading": "Rava: Direct Placement",
+      "current_heading": "Rava: Direct Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Extended/Suspended Beam",
+    "candidates": [
+      "Tzurat HaPetach",
+      "Extended/Suspended Beam",
+      "Lavud Connection",
+      "Rav Ashi: Diagonal Dist"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita challenge from Rav Adda bar Mattana about a drawn-away or suspended beam (meshucha/tluyah) and the threshold dispute between the Tanna Kamma and Rabban Shimon ben Gamliel, which is precisely what candidate 1 ('Extended/Suspended Beam') describes in its prose.",
+      "chosen_heading": "Extended/Suspended Beam",
+      "current_heading": "Extended/Suspended Beam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Rav Ashi: Diagonal Dist",
+    "candidates": [
+      "Lavud Connection",
+      "Rav Ashi: Diagonal Dist",
+      "Lechi Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-3 discuss the lavud principle applied in one vs. two directions (exactly what candidate 0's prose describes), and item 4 (Rav Ashi) is a continuation of the same lavud discussion \u2014 candidate 0's prose covers the full chain including Rav Ashi's diagonal case, while candidate 1's prose matches item 4 but not items 1-3, making candidate 0 the best unified home for all four items.",
+      "chosen_heading": "Lavud Connection",
+      "current_heading": "Rav Ashi: Diagonal Dist",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Lechi Forbidden",
+    "candidates": [
+      "Rav Ashi: Diagonal Dist",
+      "Lechi Forbidden",
+      "Rav Yochanan Rejects",
+      "Abaye: Qualified Permit",
+      "Rava: Permit (Qualified)",
+      "Makom Ptur Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage records Rabbi Yochanan's rejection of Rabbi Zakkai's baraita with the words 'puk tani levra,' which is precisely what candidate 2 ('Rav Yochanan Rejects') describes in its prose.",
+      "chosen_heading": "Rav Yochanan Rejects",
+      "current_heading": "Lechi Forbidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Makom Ptur Argument",
+    "candidates": [
+      "Rav Yochanan Rejects",
+      "Abaye: Qualified Permit",
+      "Rava: Permit (Qualified)",
+      "Makom Ptur Argument",
+      "Abaye Refutes Ptur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye: Qualified Permit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Abaye's qualified permit (beneath the beam only) and Rava's counter-position (between side posts also permitted), matching candidates 1 and 2 \u2014 but since item 1 presents both positions together, candidate 1 ('Abaye: Qualified Permit') best covers the Abaye half while candidate 2 covers Rava's statement; however, item 1 as a unit fits best under candidate 1 since Abaye's position is introduced first and Rava's is the brief counter.",
+      "second_heading": "Makom Ptur Argument",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's proof from Rav Dimi's tradition about makom ptur, which is precisely what candidate 3 ('Makom Ptur Argument') describes in its prose.",
+      "current_heading": "Makom Ptur Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Abaye Refutes Ptur",
+    "candidates": [
+      "Abaye Refutes Ptur",
+      "Doorway Needs Lechi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's rebuttal that Rav Dimi's case involves a space elevated three handbreadths, making it a makom ptur \u2014 exactly what the 'Abaye Refutes Ptur' section discusses.",
+      "chosen_heading": "Abaye Refutes Ptur",
+      "current_heading": "Abaye Refutes Ptur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Doorway Needs Lechi",
+    "candidates": [
+      "Doorway Needs Lechi",
+      "Karmelis vs. Public"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Doorway Needs Lechi",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present Abaye's proof from Rav \u1e24ama bar Guria and the rebuttal of the four-by-four distinction, which matches exactly the 'Doorway Needs Lechi' prose describing those same arguments.",
+      "second_heading": "Karmelis vs. Public",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rava's response distinguishing a mavoy opening to a karmelit, which matches the 'Karmelis vs. Public' prose describing Rava's 'hasam d'patuach le-karmelis' distinction.",
+      "current_heading": "Doorway Needs Lechi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Karmelis vs. Public",
+    "candidates": [
+      "Karmelis vs. Public",
+      "Matza Min Et Mino"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's startled question about why a karmelis would be more stringent than a reshut harabbim, including the 'yatva b'ara' idiom, which is precisely what the prose under 'Karmelis vs. Public' describes.",
+      "chosen_heading": "Karmelis vs. Public",
+      "current_heading": "Karmelis vs. Public",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Matza Min Et Mino",
+    "candidates": [
+      "Matza Min Et Mino",
+      "Lechi Conclusion",
+      "Multiple Lechis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle 'matza min et mino ve-ne'or' and explains how the ambiguous strip joins the karmelis, which is precisely what the prose of heading 0 discusses.",
+      "chosen_heading": "Matza Min Et Mino",
+      "current_heading": "Matza Min Et Mino",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Multiple Lechis",
+    "candidates": [
+      "Lechi Conclusion",
+      "Multiple Lechis",
+      "RSBG: Lavud 4",
+      "Lavud: 3 vs 4",
+      "Proof Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the 'Multiple Lechis' section, which explicitly describes Rav Huna b'rei deRav Yehoshua citing Rabbah bar bar Chana/Rabbi Yochanan about a mavoy lined with consecutive lechis with gaps less than four tefachim \u2014 matching the prose of candidate 1 exactly.",
+      "chosen_heading": "Multiple Lechis",
+      "current_heading": "Multiple Lechis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Proof Method",
+    "candidates": [
+      "RSBG: Lavud 4",
+      "Lavud: 3 vs 4",
+      "Proof Method",
+      "Rav Ashi: Independent",
+      "New Mavoi Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Proof Method",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the proof-method argument (RSBG vs Rabbanan on lavud determining where one may carry, Rava's karmelit response, and the matza min et mino rejoinder) which exactly matches the 'Proof Method' prose.",
+      "second_heading": "Rav Ashi: Independent",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rav Ashi's alternative reading \u2014 ritzpo belachayayim across four amos creating an independent mavoy \u2014 which exactly matches the 'Rav Ashi: Independent' and 'New Mavoi Issue' prose, with item 4 being Rav Ashi's statement and item 5 its elaboration per 'New Mavoi Issue'.",
+      "current_heading": "Proof Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "New Mavoi Issue",
+    "candidates": [
+      "Rav Ashi: Independent",
+      "New Mavoi Issue",
+      "Valid: Inside Visible",
+      "Disputed: Outside Visible",
+      "Rabbi Chiya: Both Valid",
+      "Inference Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are part of the continuous discussion about *nira mibachutz ve-shaveh mibifnim* that the 'New Mavoi Issue' prose explicitly introduces as the Gemara's next question following Rav Ashi's resolution \u2014 the passage covers the challenge to Rabban Shimon ben Gamliel, Rabbi Yochanan's ruling rejecting outside-visible as sufficient, and the amoraic dispute with Rabbi Chiya's baraita, all of which the 'New Mavoi Issue' prose describes as the immediate follow-on discussion.",
+      "chosen_heading": "New Mavoi Issue",
+      "current_heading": "New Mavoi Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Inference Method",
+    "candidates": [
+      "Valid: Inside Visible",
+      "Disputed: Outside Visible",
+      "Rabbi Chiya: Both Valid",
+      "Inference Method",
+      "Rabba bar RH: Sufficient",
+      "Chatzer Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are precisely the Gemara's argument about whether Rabbi Chiya's teaching the braita constitutes personal endorsement \u2014 the challenge from Rabbi Yochanan's non-acceptance and the rebuttal that unlike Yochanan, Chiya actually taught it \u2014 which is exactly what the 'Inference Method' prose describes.",
+      "chosen_heading": "Inference Method",
+      "current_heading": "Inference Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Chatzer Application",
+    "candidates": [
+      "Rabba bar RH: Sufficient",
+      "Chatzer Application",
+      "Rav Zeira: Configuration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba bar Rav Huna's ruling about a lechi visible from outside but flush inside AND Rabba's objection from the chatzer ktana/gedola mishna, which together are precisely what candidate 1's prose describes as Rava proposing support from that mishna scenario.",
+      "chosen_heading": "Chatzer Application",
+      "current_heading": "Chatzer Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Rav Zeira: Configuration",
+    "candidates": [
+      "Rav Zeira: Configuration",
+      "Rabbi: Two Planks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 Rabbi Zeira's configuration explanation, the lavud challenge, Rav Adda bar Avimi's measurement teaching, Ravina's two/four handbreadth resolution, and the final lavud-from-one-direction question \u2014 all of which are explicitly described in the prose of candidate 0 ('Rav Zeira: Configuration').",
+      "chosen_heading": "Rav Zeira: Configuration",
+      "current_heading": "Rav Zeira: Configuration",
+      "moved": false
+    }
+  }
+]

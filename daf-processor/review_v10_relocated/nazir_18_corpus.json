@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Baraita - Tahor/Tamei",
+    "candidates": [
+      "Nazir Tamei Intro",
+      "Pesukim - Days 7 & 8",
+      "Baraita - Tahor/Tamei",
+      "Kal Vachomer Refuted",
+      "Tamei - No Shaving",
+      "Tamei vs Tahor Alike"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita discussing v'timei rosh nizro, the exemption of the nazir bakever, the kal vachomer argument, and the talmud lomar refutation \u2014 all of which are precisely what candidate 2 ('Baraita - Tahor/Tamei') describes in its prose.",
+      "chosen_heading": "Baraita - Tahor/Tamei",
+      "current_heading": "Baraita - Tahor/Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Tamei vs Tahor Alike",
+    "candidates": [
+      "Kal Vachomer Refuted",
+      "Tamei - No Shaving",
+      "Tamei vs Tahor Alike",
+      "Two Tanaim Intro",
+      "R. Yose - Day 7"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita distinguishing between tamei she'nazar and nazir tahor she'nitma regarding whether day seven counts toward the tally, which is precisely what the 'Tamei vs Tahor Alike' section's prose describes as the transition the gemara makes to this related question.",
+      "chosen_heading": "Tamei vs Tahor Alike",
+      "current_heading": "Tamei vs Tahor Alike",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "R. Yose - Day 7",
+    "candidates": [
+      "Two Tanaim Intro",
+      "R. Yose - Day 7",
+      "Pesuk - Day 7 Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's statement attributing the position to Rabbi Yehuda HaNasi and contrasting it with Rabbi Yose ben Rabbi Yehuda, which is exactly what the 'Two Tanaim Intro' prose describes \u2014 introducing this dispute and attributing it to Rebbi specifically.",
+      "chosen_heading": "Two Tanaim Intro",
+      "current_heading": "R. Yose - Day 7",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Pesuk - Day 7 Read",
+    "candidates": [
+      "R. Yose - Day 7",
+      "Pesuk - Day 7 Read",
+      "Multiple Tumos",
+      "Day 7 Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that presents Rabbi Yehuda HaNasi's and Rabbi Yose ben Rabbi Yehuda's dispute over 'bayom hahu' \u2014 whether it refers to day eight (day of korbanot) or day seven (day of shaving) \u2014 which is precisely what candidate 1's prose describes as the content of that section.",
+      "chosen_heading": "Pesuk - Day 7 Read",
+      "current_heading": "Pesuk - Day 7 Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Day 7 Scenario",
+    "candidates": [
+      "Multiple Tumos",
+      "Day 7 Scenario",
+      "Why RY Yose Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav \u1e24isda's attribution of the 'multiple impurities, one korban' mishna to Rabbi Yose ben Rabbi Yehuda and the day-seven scenario that makes it work, which is precisely what the 'Multiple Tumos' prose describes \u2014 the current placement under 'Day 7 Scenario' splits this opening attribution away from its natural home.",
+      "chosen_heading": "Multiple Tumos",
+      "current_heading": "Day 7 Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Why RY Yose Works",
+    "candidates": [
+      "Day 7 Scenario",
+      "Why RY Yose Works",
+      "Night/Day Sync"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items address the question of why Rav \u1e24isda attributed the mishnah to Rabbi Yosei son of Rabbi Yehuda rather than Rabbi Yehuda HaNasi, which is precisely the content of the 'Why RY Yose Works' section's prose.",
+      "chosen_heading": "Why RY Yose Works",
+      "current_heading": "Why RY Yose Works",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Night/Day Sync",
+    "candidates": [
+      "Night/Day Sync",
+      "R. Day 8 Refined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks whether night is 'mechusar zman' (premature time), which is precisely what the 'Night/Day Sync' section's prose discusses \u2014 the synchronization of korban obligation and nezirut restart based on whether nighttime is considered mechusar zman.",
+      "chosen_heading": "Night/Day Sync",
+      "current_heading": "Night/Day Sync",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "R. Day 8 Refined",
+    "candidates": [
+      "R. Day 8 Refined",
+      "Multiple Tumos Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage from Rav Adda bar Ahava directly addresses the interdependence of the korban obligation and the restart of nezirut detahara (whether night is premature), which is precisely what the 'R. Day 8 Refined' prose discusses \u2014 the inseparability of the korban chiyuv and the nezirut restart under Rebbi's position.",
+      "chosen_heading": "R. Day 8 Refined",
+      "current_heading": "R. Day 8 Refined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Multiple Tumos Debate",
+    "candidates": [
+      "Multiple Tumos Debate",
+      "Chachamim - Chatat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about nitma beshvii/bishmini and Rabbi Eliezer's position on immediate counting, which is precisely what the 'Multiple Tumos Debate' prose describes as the gufa introduction and full formulation of the debate.",
+      "chosen_heading": "Multiple Tumos Debate",
+      "current_heading": "Multiple Tumos Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Chachamim - Chatat",
+    "candidates": [
+      "Chachamim - Chatat",
+      "R. Yishmael - Both"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chachamim - Chatat",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnaic/baraita text presenting the Chachamim's position (chatas as pivot) and Rabbi Yishmael's dispute (asham also required), matching heading 0's prose which covers exactly those two opinions and their practical formulations.",
+      "second_heading": "R. Yishmael - Both",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's analytical discussion of the scriptural basis (bayom hahu) for Rabbi Yishmael's position versus the Rabbis, which matches heading 1's prose that explicitly discusses how Rabbi Yishmael handles the phrase bayom hahu and the gemara's subsequent analysis.",
+      "current_heading": "Chachamim - Chatat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "R. Yishmael - Both",
+    "candidates": [
+      "R. Yishmael - Both",
+      "Chachamim Pesuk Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yishmael's interpretation of 'bayom hahu' and the Rabbis' response that the olah needs no limiting verse because it is merely a gift \u2014 exactly the content described in the 'R. Yishmael - Both' prose section.",
+      "chosen_heading": "R. Yishmael - Both",
+      "current_heading": "R. Yishmael - Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Chachamim Pesuk Read",
+    "candidates": [
+      "Chachamim Pesuk Read",
+      "R. Yishmael Pesuk",
+      "Gufa Definition",
+      "Gufa vs Amar Mar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the baraita explaining the Rabbis' position that the asham is not me'akev (even without bringing it, nezirut restarts), followed by Rabbi Yishmael's dissenting read of the same verse \u2014 exactly what candidate 0's prose describes as the chachamim's derivation from v'hizir v'hevi and the contrast with Rabbi Yishmael's conditional reading.",
+      "chosen_heading": "Chachamim Pesuk Read",
+      "current_heading": "Chachamim Pesuk Read",
+      "moved": false
+    }
+  }
+]

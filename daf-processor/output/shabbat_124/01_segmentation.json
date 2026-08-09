@@ -121,7 +121,7 @@
           "timestamp": "25:50"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -150,7 +150,7 @@
           "timestamp": "32:33"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -877,5 +877,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "36:25",
+  "amud_b_micro_title": "Beit Shammai Restrictions",
+  "shiur_start_daf": 124,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,301 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mum Before Kedushah",
+    "candidates": [
+      "Baraisa Review",
+      "Mum Before Kedushah",
+      "Kedushah Then Mum",
+      "Baraita Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both klal shel davar clauses together \u2014 the first adding the case of slaughtering outside (exempt) and the second adding the prohibition on milk \u2014 which matches heading 0's prose describing how the gemara examines what additional legal content both summary clauses convey, rather than heading 1 which only discusses the first klal or heading 2 which only discusses the second.",
+      "chosen_heading": "Baraisa Review",
+      "current_heading": "Mum Before Kedushah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Baraita Restrictions",
+    "candidates": [
+      "Kedushah Then Mum",
+      "Baraita Restrictions",
+      "Rav Chanina Solution",
+      "Challenge Rav Huna",
+      "Rav Huna Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly analyzes the baraita's two restrictions (ein nifdin temimim and ein matpisin l'chol zevach she-yirtzeh) and draws inferences from their precise wording, which is exactly what the 'Baraita Restrictions' section's prose describes.",
+      "chosen_heading": "Baraita Restrictions",
+      "current_heading": "Baraita Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rav Huna Reply",
+    "candidates": [
+      "Rav Chanina Solution",
+      "Challenge Rav Huna",
+      "Rav Huna Reply",
+      "Comparative Language",
+      "Text Variant",
+      "Cataract Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the challenge-and-response sequence directed at Rav Huna: item 1 poses the refutation ('shall we say this is a conclusive refutation of Rav Huna?') and item 2 is Rav Huna's reply, and candidate 1 ('Challenge Rav Huna') is where the prose describes exactly this challenge to Rav Huna from the baraita's implication that blemished offspring can be redeemed \u2014 the current placement under 'Rav Huna Reply' splits what should be one unit and misses that item 1 is still part of the challenge.",
+      "chosen_heading": "Challenge Rav Huna",
+      "current_heading": "Rav Huna Reply",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Cataract Case",
+    "candidates": [
+      "Comparative Language",
+      "Text Variant",
+      "Cataract Case",
+      "Temura After Pidyon",
+      "Must Die"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Huna's reading of 'chayav' and his application of it to the cataract case (dukin she-ba'ayin) in accordance with Rabbi Akiva's ruling, which is precisely what the 'Cataract Case' section's prose describes.",
+      "chosen_heading": "Cataract Case",
+      "current_heading": "Cataract Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Must Die",
+    "candidates": [
+      "Temura After Pidyon",
+      "Must Die",
+      "Rav Amram Challenge",
+      "Abaye Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Must Die",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Na\u1e25man's ruling that the temurah after pidyon must die and the structural reasoning (cannot be sacrificed due to kedushah dechuya, cannot be redeemed), which is precisely what candidate 1 ('Must Die') discusses.",
+      "second_heading": "Rav Amram Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Amram's challenge \u2014 why not let it be eaten with a blemish by the owners, analogized to temurat bechor u-maaser \u2014 which is exactly what candidate 2 ('Rav Amram Challenge') describes.",
+      "current_heading": "Must Die",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Abaye Response",
+    "candidates": [
+      "Rav Amram Challenge",
+      "Abaye Response",
+      "Mixed Kedushah",
+      "TAMNU'E Mnemonic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Abaye's direct response to Rav Amram, distinguishing temurat bechor/maaser (eaten with a blemish) from temurat kodshim (requires redemption but cannot be redeemed), which is precisely what the 'Abaye Response' prose describes.",
+      "chosen_heading": "Abaye Response",
+      "current_heading": "Abaye Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "TAMNU'E Mnemonic",
+    "candidates": [
+      "Mixed Kedushah",
+      "TAMNU'E Mnemonic",
+      "Halacha MiSinai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are baraitot deriving the law of temuras pesulei hamukdashim and the five chata'os meisos from verses, which is precisely the content the 'TAMNU'E Mnemonic' prose discusses \u2014 the baraisa seeking the source for temuras pesulei hamukdashim and the immediate challenge from chamisha chata'os meisos.",
+      "chosen_heading": "TAMNU'E Mnemonic",
+      "current_heading": "TAMNU'E Mnemonic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Halacha MiSinai",
+    "candidates": [
+      "Halacha MiSinai",
+      "Asham Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle 'temuras asham nami hilchata hi' and 'kol she-b'chatas meisa b'asham ro'eh,' which is precisely what the 'Halacha MiSinai' section's prose discusses \u2014 that the law of temurah of an asham is also a halacha l'Moshe miSinai, making the verse unnecessary for that case.",
+      "chosen_heading": "Halacha MiSinai",
+      "current_heading": "Halacha MiSinai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Asham Difference",
+    "candidates": [
+      "Asham Difference",
+      "Caught In Between",
+      "Tza'ar Question",
+      "Ideal vs Reality",
+      "Modern Tension",
+      "Tzon Barzel Definition",
+      "First Gen Exempt",
+      "Lien Theory",
+      "Substitute Animals",
+      "Perpetual Lien"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the content described in the 'Asham Difference' prose: item 1 addresses why both the verse and the halacha l'Moshe miSinai are independently necessary (the verse adds a formal lav, the tradition specifies death), and item 2 presents the 'if you wish say' answer about juxtaposing the two halves of the verse \u2014 both of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Asham Difference",
+      "current_heading": "Asham Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Perpetual Lien",
+    "candidates": [
+      "Caught In Between",
+      "Tza'ar Question",
+      "Ideal vs Reality",
+      "Modern Tension",
+      "Tzon Barzel Definition",
+      "First Gen Exempt",
+      "Lien Theory",
+      "Substitute Animals",
+      "Perpetual Lien",
+      "Usury Problem",
+      "Object vs Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together constitute the opening Mishnah introducing the tzon barzel arrangement with a gentile \u2014 the definition of the arrangement, the exemption rules for offspring generations, and the cross-species firstborn case \u2014 which matches candidate 4's prose introducing 'ha-mekabel tzon barzel min ha-oved kochavim' and explaining the tzon barzel concept, not candidate 8 which discusses only Rabban Shimon ben Gamliel's expansive ruling about ten generations.",
+      "chosen_heading": "Tzon Barzel Definition",
+      "current_heading": "Perpetual Lien",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Object vs Money",
+    "candidates": [
+      "Usury Problem",
+      "Object vs Money",
+      "Abaye Distinction",
+      "Rava Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's challenge-and-resolution sequence about the tzon barzel/ribbis contradiction: item 1 raises the initial question, item 2 introduces the ribbis contradiction from Bava Metzia, and item 3 is Abaye's resolution \u2014 this entire unit belongs under 'Usury Problem' which introduces the ribbis challenge from Bava Metzia, not under 'Object vs Money' (which discusses the theoretical analysis) or 'Abaye Distinction' (which discusses Abaye's proposal and its problem).",
+      "chosen_heading": "Usury Problem",
+      "current_heading": "Object vs Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Rava Correction",
+    "candidates": [
+      "Abaye Distinction",
+      "Rava Correction",
+      "Right vs Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rava's two objections to Abaye's distinction \u2014 exactly what the 'Rava Correction' prose describes: the definitional objection (if the owner bears risk, you can't call it tzon barzel) and the structural objection (the mishnah should have distinguished internally rather than contrasting with a non-Jew).",
+      "chosen_heading": "Rava Correction",
+      "current_heading": "Rava Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Right vs Ownership",
+    "candidates": [
+      "Right vs Ownership",
+      "Debt Mechanism",
+      "Tosafot Addition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's explanation that the non-Jew's right to seize the animals (yado be-emtza) creates the bechor exemption, which is precisely what the 'Right vs Ownership' section's prose discusses and quotes.",
+      "chosen_heading": "Right vs Ownership",
+      "current_heading": "Right vs Ownership",
+      "moved": false
+    }
+  }
+]

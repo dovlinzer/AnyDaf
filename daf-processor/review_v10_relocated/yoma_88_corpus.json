@@ -1,0 +1,235 @@
+[
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rav and Rabbi Hanina",
+    "candidates": [
+      "Mishna: Echta Ve'ashuv",
+      "Why Repeated Twice",
+      "Rationalizing Sin",
+      "Relying on Yom Kippur",
+      "Rabbi's Position",
+      "Aveiros Bein Adam LaMakom",
+      "Verse Challenge",
+      "Verse Resolution",
+      "Appeasing Friend",
+      "Shalosh Shurot",
+      "Three Times Maximum",
+      "Death Before Forgiveness",
+      "Rabbi Yirmiya's Patience",
+      "Accepting Shame",
+      "Rav Zeira's Approach",
+      "Rav and the Butcher",
+      "Rav and Rabbi Hanina",
+      "Dream Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 16,
+      "confidence": "high",
+      "reason": "Both items directly concern the story of Rav and Rabbi Hanina \u2014 item 1 narrates the incident and Rav's thirteen years of seeking forgiveness, and item 2 raises the Talmudic questions about how Rav could exceed three attempts and how Rabbi Hanina could refuse forgiveness, which is precisely what the prose of heading 16 ('Rav and Rabbi Hanina') describes and analyzes.",
+      "chosen_heading": "Rav and Rabbi Hanina",
+      "current_heading": "Rav and Rabbi Hanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Dream Interpretation",
+    "candidates": [
+      "Dream Interpretation",
+      "Timing of Viduy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Hanina's dream interpretation regarding Rav's destiny, which matches exactly the prose in candidate 0 ('Dream Interpretation') that discusses this very episode.",
+      "chosen_heading": "Dream Interpretation",
+      "current_heading": "Dream Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Timing of Viduy",
+    "candidates": [
+      "Timing of Viduy",
+      "Where Viduy is Recited",
+      "Opening Formulations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about timing of viduy \u2014 when to recite it on erev Yom Kippur, before/after the meal, and at each prayer service \u2014 which is precisely what the 'Timing of Viduy' prose discusses in detail.",
+      "chosen_heading": "Timing of Viduy",
+      "current_heading": "Timing of Viduy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Opening Formulations",
+    "candidates": [
+      "Where Viduy is Recited",
+      "Opening Formulations",
+      "Essential Viduy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the various opening formulations of viduy (Rav, Shmuel, Levi, Rabbi Yochanan, Rabbi Yehuda, Rav Hamnuna), which is precisely what the 'Opening Formulations' prose section discusses in detail, including all the same figures and texts.",
+      "chosen_heading": "Opening Formulations",
+      "current_heading": "Opening Formulations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Essential Viduy",
+    "candidates": [
+      "Essential Viduy",
+      "Three Times Year"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Mar Zutra's statement and bar Hamdudei's account of Shmuel rising for 'aval anachnu chatanu,' which is precisely what the 'Essential Viduy' prose elaborates upon.",
+      "chosen_heading": "Essential Viduy",
+      "current_heading": "Essential Viduy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Three Times Year",
+    "candidates": [
+      "Three Times Year",
+      "Defining Ne'ilah",
+      "Closing Viduy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly teaches the mishna about three times priests perform birkat kohanim four times daily, which is exactly what the 'Three Times Year' section's prose describes.",
+      "chosen_heading": "Three Times Year",
+      "current_heading": "Three Times Year",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Closing Viduy",
+    "candidates": [
+      "Defining Ne'ilah",
+      "Closing Viduy",
+      "Ne'ilah and Maariv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the definition of ne'ila \u2014 whether it is a full Shmoneh Esrei (Rav) or merely a supplication (Shmuel), the baraita that refutes Shmuel, the tanna'im dispute, and the practical application by Ulla bar Rav \u2014 which is precisely what heading 0 'Defining Ne'ilah' addresses, whereas the current heading 1 'Closing Viduy' focuses on the specific chatima/viduy structure rather than the foundational question of what ne'ila is.",
+      "chosen_heading": "Defining Ne'ilah",
+      "current_heading": "Closing Viduy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Ne'ilah and Maariv",
+    "candidates": [
+      "Closing Viduy",
+      "Ne'ilah and Maariv",
+      "Ne'ilah Timing",
+      "Ba'al Keri Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav's ruling that ne'ila exempts one from maariv and the Gemara's challenge/resolution regarding whether maariv is optional or obligatory, which is precisely the content described in the 'Ne'ilah and Maariv' prose section.",
+      "chosen_heading": "Ne'ilah and Maariv",
+      "current_heading": "Ne'ilah and Maariv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Ba'al Keri Issues",
+    "candidates": [
+      "Ne'ilah Timing",
+      "Ba'al Keri Issues",
+      "Maariv After Ne'ilah",
+      "Keri on Yom Kippur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ne'ilah Timing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 concern the baraita about Yom Kippur prayer services and the ba'al keri immersion timing dispute (Rabbis vs. Rabbi Yosei) which directly addresses whether ne'ila is day or night \u2014 precisely what the 'Ne'ilah Timing' prose describes.",
+      "second_heading": "Ba'al Keri Issues",
+      "second_confidence": "high",
+      "second_reason": "Items 4-9 concern the contradiction between two baraitot about Rabbi Yosei's position on ba'al keri immersion timing, the resolution involving tevilah bizmanah mitzvah, and the identification of Rabbi Yosei bar Yehuda \u2014 all of which are detailed in the 'Ba'al Keri Issues' prose.",
+      "current_heading": "Ba'al Keri Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Keri on Yom Kippur",
+    "candidates": [
+      "Maariv After Ne'ilah",
+      "Keri on Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items (the baraita about immersing after keri on Yom Kippur, the tanna before Rav Na\u1e25man about sins being forgiven, the school of Rabbi Yishmael's teaching, and the closing hadran) are precisely the content described in the 'Keri on Yom Kippur' prose, which explicitly discusses all these passages in detail.",
+      "chosen_heading": "Keri on Yom Kippur",
+      "current_heading": "Keri on Yom Kippur",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Definition of Mumche",
+    "candidates": [
+      "Definition of Mumche",
+      "Learning & Licensing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Definition of Mumche' explicitly describes this exact baraita (dinei mamonos b'shlosha, mumche l'rabbim dan afilu yechidi) and cites both Rav Nachman and Rabbi Chiya saying 'someone like me judges monetary cases alone,' which is precisely what these two items contain.",
+      "chosen_heading": "Definition of Mumche",
+      "current_heading": "Definition of Mumche",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Learning & Licensing",
+    "candidates": [
+      "Learning & Licensing",
+      "Ramban's Distinction",
+      "Mar Zutra Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the precise dilemma about whether receiving permission (rishusa) is required for a lone judge's ruling to be valid \u2014 exactly what the 'Learning & Licensing' section's prose is analyzing and explaining.",
+      "chosen_heading": "Learning & Licensing",
+      "current_heading": "Learning & Licensing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Mar Zutra Case",
+    "candidates": [
+      "Ramban's Distinction",
+      "Mar Zutra Case",
+      "Licensing & Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Mar Zutra case and the Gemara's conclusion that even without licensing a judgment is valid, which precisely matches the prose under 'Mar Zutra Case'.",
+      "chosen_heading": "Mar Zutra Case",
+      "current_heading": "Mar Zutra Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Licensing & Liability",
+    "candidates": [
+      "Licensing & Liability",
+      "Geographic Scope",
+      "Staff & Lawgiver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about obtaining permission from the Exilarch to judge and be exempt from liability for errors, which is precisely what the 'Licensing & Liability' section's prose discusses.",
+      "chosen_heading": "Licensing & Liability",
+      "current_heading": "Licensing & Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Staff & Lawgiver",
+    "candidates": [
+      "Geographic Scope",
+      "Staff & Lawgiver",
+      "Rabbah bar Chana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the geographic scope of authorization (me-hacha le-hacha, me-hasam le-hasam, me-hacha le-hasam) and the baraita explaining why Bavel's authority is greater (shevet vs. mechokek), which is precisely what the 'Geographic Scope' section's prose describes as the content of that discussion.",
+      "chosen_heading": "Geographic Scope",
+      "current_heading": "Staff & Lawgiver",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rabbah bar Chana",
+    "candidates": [
+      "Staff & Lawgiver",
+      "Rabbah bar Chana",
+      "Rav Huna Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbah bar Chana incident and the conclusion that authorization from Eretz Yisrael does not function in Bavel, which is precisely what the 'Rabbah bar Chana' section's prose describes.",
+      "chosen_heading": "Rabbah bar Chana",
+      "current_heading": "Rabbah bar Chana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav Huna Defense",
+    "candidates": [
+      "Rav Huna Defense",
+      "EY Authority Invalid",
+      "Border Towns Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the challenge from Rabbah bar Rav Huna's behavior and the rejection ('he was merely standing up to them with words'), which together constitute the challenge-and-rebuttal unit that candidate 0's prose describes as its content.",
+      "chosen_heading": "Rav Huna Defense",
+      "current_heading": "Rav Huna Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Border Towns Exception",
+    "candidates": [
+      "EY Authority Invalid",
+      "Border Towns Exception",
+      "Authority to Rabbah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Rabbah bar \u1e24ana obtained permission if it is ineffective in Babylonia, answering that it works for border towns \u2014 precisely what the 'Border Towns Exception' prose discusses.",
+      "chosen_heading": "Border Towns Exception",
+      "current_heading": "Border Towns Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Authority to Rabbah",
+    "candidates": [
+      "Authority to Rabbah",
+      "Rav Denied Authority",
+      "Family Relations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Authority to Rabbah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the story of Rabbah bar Chana receiving full authorization, which is exactly what candidate 0 ('Authority to Rabbah') describes in its prose.",
+      "second_heading": "Rav Denied Authority",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the story of Rav being denied authority over firstborn animals, which is exactly what candidate 1 ('Rav Denied Authority') describes in its prose.",
+      "current_heading": "Authority to Rabbah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Family Relations",
+    "candidates": [
+      "Rav Denied Authority",
+      "Family Relations",
+      "Rav's Expertise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items address the same question of why Rabbi \u1e24iyya called Rav 'my sister's son' versus Rabbah bar \u1e24ana 'my brother's son,' offering two answers (the dual relationship and the honor to wisdom), which is precisely what candidate 1 'Family Relations' describes in its prose.",
+      "chosen_heading": "Family Relations",
+      "current_heading": "Family Relations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Rav's Expertise",
+    "candidates": [
+      "Rav's Expertise",
+      "Licensing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss why Rav was denied authorization to declare firstborn animals permitted based on blemishes, which is precisely what the 'Rav's Expertise' prose section addresses in detail.",
+      "chosen_heading": "Rav's Expertise",
+      "current_heading": "Rav's Expertise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Licensing Question",
+    "candidates": [
+      "Licensing Question",
+      "Dough Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why licensing is required for hora'ah when any knowledgeable person should be able to rule on ritual matters, which matches exactly the 'Licensing Question' section's prose about the counterintuitive nature of requiring permission for hora'ah.",
+      "chosen_heading": "Licensing Question",
+      "current_heading": "Licensing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Dough Story",
+    "candidates": [
+      "Dough Story",
+      "Misinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident itself \u2014 Rebbe visiting the community and them explaining the scholar's ruling \u2014 which matches the 'Dough Story' prose exactly, before the explanation of the misinterpretation covered in heading 1.",
+      "chosen_heading": "Dough Story",
+      "current_heading": "Dough Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Misinterpretation",
+    "candidates": [
+      "Misinterpretation",
+      "Licensing Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the misinterpretation about Keramiyyon and Piga waters and why the community's reasoning was wrong, which is precisely what the prose under 'Misinterpretation' explains.",
+      "chosen_heading": "Misinterpretation",
+      "current_heading": "Misinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Licensing Decree",
+    "candidates": [
+      "Licensing Decree",
+      "Community Trust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the decree that a student may not teach without permission from his teacher, which is precisely what the 'Licensing Decree' section's prose discusses as the origin of professional rabbinic licensing.",
+      "chosen_heading": "Licensing Decree",
+      "current_heading": "Licensing Decree",
+      "moved": false
+    }
+  }
+]

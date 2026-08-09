@@ -136,8 +136,8 @@
           "timestamp": "15:04"
         }
       ],
-      "sefaria_index": 5,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Two Loaves of Shavuot: Kneading and Baking Requirements",
@@ -160,7 +160,7 @@
           "timestamp": "16:38"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -267,8 +267,8 @@
           "timestamp": "32:13"
         }
       ],
-      "sefaria_index": 15,
-      "matched": false
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -590,5 +590,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "27:14",
+  "amud_b_micro_title": "Box Stability",
+  "shiur_start_daf": 94,
+  "shiur_start_amud": "a"
 }

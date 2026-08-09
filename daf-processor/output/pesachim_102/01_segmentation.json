@@ -49,7 +49,7 @@
           "timestamp": "19:18"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -63,8 +63,8 @@
           "timestamp": "23:28"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Interrupting a Meal for Shabbat: Rabbi Yehuda versus Rabbi Yossi",
@@ -78,7 +78,7 @@
         }
       ],
       "sefaria_index": 7,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Case of Chaveirim Eating and Interrupting for Mitzvot or Shabbat (continued)",
@@ -126,7 +126,7 @@
         }
       ],
       "sefaria_index": 7,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Two Cups or One Cup: The Principle of אין עושין מצוות חבילות חבילות (Not Bundling Mitzvot)",
@@ -643,5 +643,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "31:45",
+  "amud_b_micro_title": "Why Two Cups",
+  "shiur_start_daf": 101,
+  "shiur_start_amud": "b"
 }

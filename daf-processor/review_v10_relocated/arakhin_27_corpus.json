@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Scenario Setup",
+      "Father Dies After Sancti",
+      "Rabbi Meir's Opinion",
+      "Rabbi Yehuda & Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah text presenting both cases (father dies after purchase then son consecrates, and son consecrates then father dies) including Rabbi Meir's ruling, which corresponds to the 'Scenario Setup' section that introduces the mishnah's scenario and ruling.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rabbi Yehuda & Shimon",
+    "candidates": [
+      "Father Dies After Sancti",
+      "Rabbi Meir's Opinion",
+      "Rabbi Yehuda & Shimon",
+      "Kinyan Peiros Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda & Shimon",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text covering Rabbi Yehuda/Shimon's ruling and the purchased field/priests rules, which belong under the 'Rabbi Yehuda & Shimon' heading that discusses exactly these mishnaic positions.",
+      "second_heading": "Kinyan Peiros Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's baraita expanding the dispute with Rabbi Meir's opinion added, which belongs under 'Rabbi Meir's Opinion' since item 4 is specifically Rabbi Meir's derivation and item 3 sets it up as the baraita introduction to that same dispute.",
+      "current_heading": "Rabbi Yehuda & Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Kinyan Peiros Debate",
+    "candidates": [
+      "Kinyan Peiros Debate",
+      "Hermeneutic Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kinyan Peiros Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the gemara's initial proposal that the dispute between Rabbi Meir and Rabbi Yehuda/Shimon reflects the kinyan peiros debate, which is precisely what the 'Kinyan Peiros Debate' prose discusses.",
+      "second_heading": "Hermeneutic Analysis",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Nachman bar Yitzchak's rejection of that framework and his purely hermeneutic explanation based on the extra 'mem' in mi-sdei achuzato, which is exactly what the 'Hermeneutic Analysis' prose describes.",
+      "current_heading": "Kinyan Peiros Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Hermeneutic Analysis",
+    "candidates": [
+      "Hermeneutic Analysis",
+      "No Jubilee Effects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly continues the gemara's discussion of 'ha-kohanim ve-ha-Levi'im makdishim le-olam ve-go'alim le-olam' that candidate 0's prose explicitly introduces and begins analyzing, asking why the mishna mentions kohanim and Levites specifically for consecration when Israelites can also consecrate, which matches the content of all four items.",
+      "chosen_heading": "Hermeneutic Analysis",
+      "current_heading": "Hermeneutic Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "No Jubilee Effects",
+    "candidates": [
+      "No Jubilee Effects",
+      "Owner's First Bid Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna establishing the owner's first-bid right with the chomesh rationale, the incident illustrating its application, and the Gemara resolving 'says' vs. 'forces' \u2014 directly address the procedural rule of *petach atah rishon* and the chomesh advantage, which is precisely what candidate 1 ('Owner's First Bid Right') discusses in its prose.",
+      "chosen_heading": "Owner's First Bid Right",
+      "current_heading": "No Jubilee Effects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Owner's First Bid Right",
+    "candidates": [
+      "Owner's First Bid Right",
+      "Poor Quality Field Case",
+      "Chomesh Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's question and answer about why the owner opens the bidding \u2014 specifically the three reasons (dear to him, mitzvat geulah, chomesh) \u2014 which is precisely what heading 0 ('Owner's First Bid Right') addresses in its prose.",
+      "chosen_heading": "Owner's First Bid Right",
+      "current_heading": "Owner's First Bid Right",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Chomesh Requirement",
+    "candidates": [
+      "Poor Quality Field Case",
+      "Chomesh Requirement",
+      "Bids Set Price"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's analysis of the issar/egg dispute \u2014 whether the disagreement between Rabbi Yosei and the Rabbis concerns shaveh kesef or the chomesh falling below a perutah \u2014 which matches precisely the 'Chomesh Requirement' prose's description of that exact Talmudic exchange.",
+      "chosen_heading": "Chomesh Requirement",
+      "current_heading": "Chomesh Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Bids Set Price",
+    "candidates": [
+      "Bids Set Price",
+      "Backing Out Penalties",
+      "Initial Bidder Backs Out",
+      "Owner's Fifth Advantage",
+      "Non-Owner Bids Higher",
+      "Equivalence Point"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bids Set Price",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the auction setup and the penalty when the fifty-sela bidder backs out, matching exactly the 'Bids Set Price' prose about the auction structure and the ten-sela gap penalty for the highest bidder.",
+      "second_heading": "Backing Out Penalties",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the uniform ten-sela penalty applied at every lower bid level and the special case of the initial ten-sela bidder, which matches precisely the 'Backing Out Penalties' prose describing the uniform penalty structure at each level \u2014 though notably the final-bidder case (selling at market value) is described in 'Initial Bidder Backs Out', item 2 still belongs under 'Backing Out Penalties' as it contains that content as its concluding clause.",
+      "current_heading": "Bids Set Price",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Equivalence Point",
+    "candidates": [
+      "Backing Out Penalties",
+      "Initial Bidder Backs Out",
+      "Owner's Fifth Advantage",
+      "Non-Owner Bids Higher",
+      "Equivalence Point",
+      "Owner's Final Bid Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items trace the successive increments (twenty-one through twenty-five) of a non-owner bidding higher than the owner's twenty, showing the owner's total payment each time \u2014 exactly what candidate 3 ('Non-Owner Bids Higher') describes, including the formula ha-be'alim notnim esrim ve-shesh and the note that chomesh is calculated only on the owner's own bid.",
+      "chosen_heading": "Non-Owner Bids Higher",
+      "current_heading": "Equivalence Point",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Owner's Final Bid Option",
+    "candidates": [
+      "Equivalence Point",
+      "Owner's Final Bid Option",
+      "Sequence vs Simultaneous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario where the non-owner bids twenty-six, the owner has the option to pay thirty-one and a dinar to take precedence, or else the field goes to the bidder \u2014 which is precisely what the 'Owner's Final Bid Option' prose discusses.",
+      "chosen_heading": "Owner's Final Bid Option",
+      "current_heading": "Owner's Final Bid Option",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Sequence vs Simultaneous",
+    "candidates": [
+      "Sequence vs Simultaneous",
+      "Ma'aser Sheni Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items deal with Rav \u1e24isda's distinction between sequential and simultaneous withdrawal of bids (lo kashya, kan be-vat achat kan be-zeh achar zeh) and the division of liability (mishalshin beineihem), which is precisely what heading 0 'Sequence vs Simultaneous' describes.",
+      "chosen_heading": "Sequence vs Simultaneous",
+      "current_heading": "Sequence vs Simultaneous",
+      "moved": false
+    }
+  }
+]

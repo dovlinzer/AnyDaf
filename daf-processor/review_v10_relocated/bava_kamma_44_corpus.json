@@ -1,0 +1,511 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rav Dimi: Kofer",
+    "candidates": [
+      "Prior Discussion",
+      "Rav Dimi: Kofer",
+      "Abaye's Challenge",
+      "Reish Lakish Disagrees",
+      "Ravin's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Rav Dimi reports Rabbi Yo\u1e25anan's teaching about kofer (item 1), Abaye challenges it with the parallel eved case (item 2), and Rav Dimi deflects with 'gavra agavra' (item 3) \u2014 this entire exchange is about Rabbi Yo\u1e25anan's kofer teaching and belongs under the 'Rav Dimi: Kofer' heading where it currently sits, with the subsequent material about Reish Lakish and the resolution properly belonging to the next sections.",
+      "chosen_heading": "Rav Dimi: Kofer",
+      "current_heading": "Rav Dimi: Kofer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Ravin's Report",
+    "candidates": [
+      "Abaye's Challenge",
+      "Reish Lakish Disagrees",
+      "Ravin's Report",
+      "Hermeneutics Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Ravin's report of Rabbi Yochanan's teaching about the extra word 'im' by 'eved' teaching that the thirty-shekel payment applies even unintentionally, which is precisely what the 'Ravin's Report' section prose describes.",
+      "chosen_heading": "Ravin's Report",
+      "current_heading": "Ravin's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Hermeneutics Gap",
+    "candidates": [
+      "Hermeneutics Gap",
+      "Textual Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hermeneutics Gap",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's challenge \u2014 suggesting Reish Lakish might not interpret 'im kofer' either \u2014 which is precisely what candidate 0's prose describes as the question raised.",
+      "second_heading": "Textual Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's rejection of that inference, explaining that the two cases are textually distinct, which is exactly what candidate 1's prose describes as the textual analysis distinguishing the position of 'im' in each verse.",
+      "current_heading": "Hermeneutics Gap",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Textual Analysis",
+    "candidates": [
+      "Textual Analysis",
+      "Three Positions",
+      "Opening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the textual distinction between 'eved' and 'kofer' \u2014 where 'im' appears relative to the payment clause \u2014 which is precisely what the Textual Analysis section's prose describes.",
+      "chosen_heading": "Textual Analysis",
+      "current_heading": "Textual Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Opening",
+    "candidates": [
+      "Three Positions",
+      "Opening",
+      "Tanu Rabbanan",
+      "Din Hu Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita that opens with 'o ven yigach o vat yigach' establishing liability for minors as for adults, which is precisely what the 'Tanu Rabbanan' section's prose describes.",
+      "chosen_heading": "Tanu Rabbanan",
+      "current_heading": "Opening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Din Hu Argument",
+    "candidates": [
+      "Tanu Rabbanan",
+      "Din Hu Argument",
+      "Four Payments Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the logical inference (analogy from adam b'adam) and the kal vachomer argument that the baraita uses to question whether a verse was necessary \u2014 precisely what candidate 1's prose describes as the 'argument from logic' and the kal vachomer component.",
+      "chosen_heading": "Din Hu Argument",
+      "current_heading": "Din Hu Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Four Payments Issue",
+    "candidates": [
+      "Four Payments Issue",
+      "Extra Pasuk",
+      "Muad vs Tam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the rejection of the logical derivation due to the four additional payments (nezek, tza'ar, ripuy, shevet) that distinguish human-on-human harm from ox-caused harm, which is exactly what the 'Four Payments Issue' prose describes.",
+      "chosen_heading": "Four Payments Issue",
+      "current_heading": "Four Payments Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Muad vs Tam",
+    "candidates": [
+      "Extra Pasuk",
+      "Muad vs Tam",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the question of deriving the law for a tam ox from a muad context, which is precisely what the 'Muad vs Tam' section's prose addresses.",
+      "chosen_heading": "Muad vs Tam",
+      "current_heading": "Muad vs Tam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Gemara's Objection",
+      "Repeated Word"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kal Vachomer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the logical inference and kal vachomer arguments for not distinguishing between tam and muad for ben/bat, matching heading 0's prose about the kal vachomer from ish/ishah to ben/bat.",
+      "second_heading": "Gemara's Objection",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the two objections rejecting the kal vachomer \u2014 one about deriving leniency from stringency, and one about minors being exempt from mitzvot \u2014 matching heading 1's prose about the gemara's two-pronged rejection of the kal vachomer.",
+      "current_heading": "Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Repeated Word",
+    "candidates": [
+      "Gemara's Objection",
+      "Repeated Word",
+      "Exemption Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the verse-based derivation from the repeated word 'yigach' that distinguishes goring types, which is precisely what the 'Repeated Word' section's prose describes.",
+      "chosen_heading": "Repeated Word",
+      "current_heading": "Repeated Word",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Exemption Cases",
+    "candidates": [
+      "Exemption Cases",
+      "Owner-Ox Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage presents the exact three exemption cases that candidate 0's prose directly describes and analyzes, making it the clear home for this text.",
+      "chosen_heading": "Exemption Cases",
+      "current_heading": "Exemption Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Owner-Ox Parallel",
+    "candidates": [
+      "Owner-Ox Parallel",
+      "Shmuel's Position",
+      "Muad Investigation",
+      "Ox's Motive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel and Rav's dispute about whether kofer is owed when skilah is exempt, which is precisely what the 'Shmuel's Position' prose section discusses.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Owner-Ox Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Ox's Motive",
+    "candidates": [
+      "Shmuel's Position",
+      "Muad Investigation",
+      "Ox's Motive",
+      "Tzerorot Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about why the forewarned wall-rubbing ox is not subject to skilah \u2014 exactly the tension the 'Muad Investigation' prose says will be 'taken up in the next section,' making that section (index 1) the true home, not the current 'Ox's Motive' heading (index 2).",
+      "chosen_heading": "Muad Investigation",
+      "current_heading": "Ox's Motive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Tzerorot Issue",
+    "candidates": [
+      "Ox's Motive",
+      "Tzerorot Issue",
+      "Direct Contact",
+      "Baraita Framework",
+      "Case 1: Both",
+      "Case 2: Kofer Only",
+      "Case 3: Skilah Only",
+      "Case 4: Both Exempt",
+      "Independent Factors",
+      "Wrong Party Issue",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Mari son of Rav Kahana's answer that the wall 'gradually gave way' (dekaza minei minei), which is precisely the resolution discussed in candidate 2's prose about the ox's body remaining in direct contact with the stone as it rolls down, classifying it as gufo rather than tzerorot.",
+      "chosen_heading": "Direct Contact",
+      "current_heading": "Tzerorot Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Direct Contact",
+      "Baraita Framework",
+      "Case 1: Both",
+      "Case 2: Kofer Only",
+      "Case 3: Skilah Only",
+      "Case 4: Both Exempt",
+      "Independent Factors",
+      "Wrong Party Issue",
+      "Rabbi Yehuda",
+      "Rabbi Shimon",
+      "Payment vs. Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the baraita that provides the comprehensive four-way framework of mita/kofer combinations, which is precisely what heading 1 ('Baraita Framework') describes \u2014 the gemara citing a baraita with four possible combinations governed by independent variables, supporting Shmuel against Rav.",
+      "chosen_heading": "Baraita Framework",
+      "current_heading": "Rabbi Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Payment vs. Death",
+    "candidates": [
+      "Rabbi Shimon",
+      "Payment vs. Death",
+      "Mishna's View",
+      "Mishna's Case",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly explain why Rabbi Yehuda derives from kofer (payment) rather than mita, and why Rabbi Shimon derives from skilah (ox's liability) rather than kofer (owner's liability) \u2014 precisely the content described in candidate 1's prose about tashlumin vs. chiyuvei d'shor and the distinction between kofer as owner's atonement vs. ordinary damages.",
+      "chosen_heading": "Payment vs. Death",
+      "current_heading": "Payment vs. Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Mishna's View",
+      "Mishna's Case",
+      "Rabbi Shimon",
+      "Specific Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Shimon's ruling that an ox is exempt even when it intended to kill one person but killed another, and then explain his reasoning from the verse \u2014 which is precisely what candidate 2 ('Rabbi Shimon') describes.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Specific Intent",
+    "candidates": [
+      "Specific Intent",
+      "Rabbanan's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives Rabbi Shimon's specific intent requirement from the verse 've'arav lo vekam alav,' matching the current section's prose about Rabbi Shimon reading 'lo' as requiring that the killer intended the specific victim who was killed.",
+      "chosen_heading": "Specific Intent",
+      "current_heading": "Specific Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rabbanan's View",
+    "candidates": [
+      "Rabbanan's View",
+      "Kavua Principle",
+      "Safeik Nefashot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbanan's interpretation of 'and he lay in wait for him' as excluding one who throws a stone into a crowd, which matches exactly what the 'Rabbanan's View' prose describes.",
+      "chosen_heading": "Rabbanan's View",
+      "current_heading": "Rabbanan's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Safeik Nefashot",
+    "candidates": [
+      "Kavua Principle",
+      "Safeik Nefashot",
+      "Mishna Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question-and-answer about what case the verse addresses (majority gentile, half-and-half, then the actual answer: nine Jews and one gentile/kavua), which is precisely what candidate 0 ('Kavua Principle') describes in its prose, whereas candidate 1's prose already describes the resolved answer and its implications, meaning the passage logically precedes and sets up that discussion.",
+      "chosen_heading": "Kavua Principle",
+      "current_heading": "Safeik Nefashot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Mishna Teaching",
+    "candidates": [
+      "Safeik Nefashot",
+      "Mishna Teaching",
+      "Rabbi Yehuda",
+      "Rav Huna's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna and the supporting Baraita \u2014 directly address the ownership-status cases listed in the Mishna (woman, orphans, steward, desert ox, consecrated ox, convert's ox) and whether they are liable to death, which is precisely what the 'Mishna Teaching' prose describes.",
+      "chosen_heading": "Mishna Teaching",
+      "current_heading": "Mishna Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Rav Huna's Ruling",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rav Huna's Ruling",
+      "Process vs. Event",
+      "Textual Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's statement extending Rabbi Yehuda's position to cases where the ox gored and the owner subsequently consecrated or renounced ownership, which is precisely what Candidate 1 ('Rav Huna's Ruling') describes.",
+      "chosen_heading": "Rav Huna's Ruling",
+      "current_heading": "Rav Huna's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Textual Source",
+    "candidates": [
+      "Process vs. Event",
+      "Textual Source",
+      "Gemar Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items concern the baraita confirming Rav Huna's position about Rabbi Yehuda's ruling that goring followed by consecration or renunciation of ownership exempts the ox, which is precisely what section 2 ('Gemar Din') discusses, including the same baraita text and the verse-based derivation about mita and amida badin coinciding with ownership.",
+      "chosen_heading": "Gemar Din",
+      "current_heading": "Textual Source",
+      "moved": true
+    }
+  }
+]

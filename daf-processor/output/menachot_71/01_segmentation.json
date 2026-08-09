@@ -198,7 +198,7 @@
         }
       ],
       "sefaria_index": 6,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Harvesting for Mitzvah Purposes: Trees, Mourning, and Study Halls",
@@ -313,7 +313,7 @@
           "timestamp": "44:05"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -845,5 +845,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "40:22",
+  "amud_b_micro_title": "Rabbi Yehuda Critique",
+  "shiur_start_daf": 70,
+  "shiur_start_amud": "b"
 }

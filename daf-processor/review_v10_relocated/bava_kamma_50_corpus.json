@@ -1,0 +1,264 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Torah's Dual Language",
+    "candidates": [
+      "Pit Domain Classification",
+      "Yishmael: Public Domain",
+      "Akiva: Owned Pits",
+      "Rabba's Reconciliation",
+      "Torah's Dual Language",
+      "Akiva's Textual Argument",
+      "Rav Yosef: Ownership"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pit Domain Classification",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the domain classification cases for bor liability, which belongs under 'Pit Domain Classification' as that section's prose describes the mishna's establishment of where the pit's opening lies determining liability.",
+      "second_heading": "Yishmael: Public Domain",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 contain the Gemara baraita with Rabbi Yishmael's and Rabbi Akiva's positions plus Rabba's reconciliation through the dual Torah language, matching the prose of 'Yishmael: Public Domain' which opens with exactly this baraita and Rabbi Yishmael's position, followed by the subsequent sections on Akiva and Rabba.",
+      "current_heading": "Torah's Dual Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Rav Yosef: Ownership",
+    "candidates": [
+      "Akiva's Textual Argument",
+      "Rav Yosef: Ownership",
+      "Braita Cases",
+      "Edge Case: Foundation",
+      "Rabba's Reading",
+      "Rav Yosef Reading",
+      "Rav Assi's Synthesis",
+      "Ushin Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 15 items form a continuous Talmudic discussion of Rav Yosef's framework (ownership as the basis of bor liability), the dispute between Rabbi Yishmael and Rabbi Akiva on public vs. private domain pits, and the baraita challenges and resolutions \u2014 exactly what candidate 1 ('Rav Yosef: Ownership') describes in its prose.",
+      "chosen_heading": "Rav Yosef: Ownership",
+      "current_heading": "Rav Yosef: Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Ushin Exemption",
+    "candidates": [
+      "Braita Cases",
+      "Edge Case: Foundation",
+      "Rabba's Reading",
+      "Rav Yosef Reading",
+      "Rav Assi's Synthesis",
+      "Ushin Exemption",
+      "Donation Exemption",
+      "Nechunya Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "This passage is Rav Yosef's answer that the foundation-digging case is unanimous ('divrei hakol'), which directly corresponds to the 'Rav Yosef Reading' section's prose about Rav Yosef's resolution of the braita using the foundation case as a narrow dispensation agreed upon by all.",
+      "chosen_heading": "Rav Yosef Reading",
+      "current_heading": "Ushin Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Nechunya Practice",
+    "candidates": [
+      "Donation Exemption",
+      "Nechunya Practice",
+      "Daughter's Rescue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the donation exemption rule (chafar u'patach u'masar l'rabim) and the Nechunya example as an illustration of that rule, and candidate 0's prose explicitly discusses this braita including the exemption/liability distinction and the Nechunya practice as part of the same unit, making it the better fit than candidate 1 which treats Nechunya as a separate section.",
+      "chosen_heading": "Donation Exemption",
+      "current_heading": "Nechunya Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Daughter's Rescue",
+    "candidates": [
+      "Nechunya Practice",
+      "Daughter's Rescue",
+      "Theological Irony",
+      "Divine Justice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of Nechunya's daughter falling into the pit and being rescued, which is precisely what the 'Daughter's Rescue' section prose describes in detail, including the ram, the elderly guide (Abraham), and Rabbi Chanina's prediction.",
+      "chosen_heading": "Daughter's Rescue",
+      "current_heading": "Daughter's Rescue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Divine Justice",
+    "candidates": [
+      "Theological Irony",
+      "Divine Justice",
+      "Stone Throwing Rule",
+      "Man & Chasid Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss divine justice and exactitude with the righteous \u2014 Rabbi A\u1e25a's teaching about Ne\u1e25unya's son dying of thirst, Rabbi \u1e24anina's warning against viewing God as forgiving, and the exposition of 'erekh appayim' \u2014 all of which are explicitly quoted and discussed in the 'Divine Justice' section's prose.",
+      "chosen_heading": "Divine Justice",
+      "current_heading": "Divine Justice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Man & Chasid Story",
+    "candidates": [
+      "Stone Throwing Rule",
+      "Man & Chasid Story",
+      "Karmic Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the ruling and the beginning of the narrative (up to the man mocking the chasid), which matches the 'Stone Throwing Rule' section's prose that introduces the ruling and says 'the Gemara illustrates this with a narrative' \u2014 the current placement under 'Man & Chasid Story' splits content that belongs together under the introductory heading.",
+      "chosen_heading": "Stone Throwing Rule",
+      "current_heading": "Man & Chasid Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Karmic Reversal",
+    "candidates": [
+      "Man & Chasid Story",
+      "Karmic Reversal",
+      "Ten-Tefach Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the man stumbling on the stones after being forced to sell his field, which is precisely the 'karmic reversal' content described in candidate 1's prose.",
+      "chosen_heading": "Karmic Reversal",
+      "current_heading": "Karmic Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Ten-Tefach Rule",
+    "candidates": [
+      "Ten-Tefach Rule",
+      "Rav: Hevel Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage establishes the ten-tefachim rule and the liability distinctions between death and injury in shallow pits, which is precisely what the prose under 'Ten-Tefach Rule' describes.",
+      "chosen_heading": "Ten-Tefach Rule",
+      "current_heading": "Ten-Tefach Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rav: Hevel Theory",
+    "candidates": [
+      "Rav: Hevel Theory",
+      "Shmuel: Both Elements",
+      "Mound Hypothetical",
+      "Wool Cushion Proof",
+      "Pit Types & Hevel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav's statement introducing the hevel/chavatah distinction and the karka olam rationale, which is precisely what the 'Rav: Hevel Theory' section's prose is explaining.",
+      "chosen_heading": "Rav: Hevel Theory",
+      "current_heading": "Rav: Hevel Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Pit Types & Hevel",
+    "candidates": [
+      "Shmuel: Both Elements",
+      "Mound Hypothetical",
+      "Wool Cushion Proof",
+      "Pit Types & Hevel"
+    ],
+    "result": null
+  }
+]

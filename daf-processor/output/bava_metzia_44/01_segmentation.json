@@ -82,8 +82,8 @@
           "timestamp": "08:07"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Mishnah's Exemplary Case: Fruit Sale and the Consequence of Paying Before Taking Possession (continued)",
@@ -96,8 +96,8 @@
           "timestamp": "08:51"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Amoraic Discussion: Rebbi's Changing Position on the Gold versus Silver Standard",
@@ -456,5 +456,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "08:51",
+  "amud_b_micro_title": "Youth vs Old Age",
+  "shiur_start_daf": 43,
+  "shiur_start_amud": "b"
 }

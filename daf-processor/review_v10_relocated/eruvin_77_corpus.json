@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Wall Dimensions",
+    "candidates": [
+      "Daf Overview",
+      "Wall Dimensions",
+      "Courtyard Separation",
+      "Fruit on Wall",
+      "Wall Carrying Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage describes exactly the wall dimensions (ten handbreadths high, four handbreadths wide) that Candidate 1's prose directly discusses, making it the clearest match.",
+      "chosen_heading": "Wall Dimensions",
+      "current_heading": "Wall Dimensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Wall Carrying Rules",
+    "candidates": [
+      "Courtyard Separation",
+      "Fruit on Wall",
+      "Wall Carrying Rules",
+      "Ten Amah Breach",
+      "Destroyed Wall",
+      "Ten Amah Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the ruling that residents may ascend from either side and eat fruit on top of the wall, which is precisely what the 'Fruit on Wall' section's prose discusses \u2014 the current placement under 'Wall Carrying Rules' covers only the prohibition of lowering produce down, not the main ruling about ascending and eating.",
+      "chosen_heading": "Fruit on Wall",
+      "current_heading": "Wall Carrying Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Ten Amah Limit",
+    "candidates": [
+      "Ten Amah Breach",
+      "Destroyed Wall",
+      "Ten Amah Limit",
+      "Non-Independent Domain",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the up-to-ten-amot case (two eruvin or one, because it is like a doorway) and the more-than-ten-amot case, and candidate 0's prose explicitly introduces and explains both rulings as a unified mishna passage, making it the natural home for the entire text.",
+      "chosen_heading": "Ten Amah Breach",
+      "current_heading": "Ten Amah Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Non-Independent Domain",
+      "Rav's Position",
+      "Rabbi Yochanan's View",
+      "Olim vs. Maalin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's ruling that the air of two domains controls the thin wall and nothing may be moved on it, which matches exactly the prose under 'Rav's Position'.",
+      "second_heading": "Rabbi Yochanan's View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan's contrasting ruling that both courtyards may raise and eat on the wall, which matches exactly the prose under 'Rabbi Yochanan's View'.",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Olim vs. Maalin",
+    "candidates": [
+      "Rabbi Yochanan's View",
+      "Olim vs. Maalin",
+      "Four-by-Four Analysis",
+      "Makom Patur Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact challenge-and-resolution sequence about the terminological distinction between 'olim' and 'maalin' as it applies to the four-by-four wall case, which is precisely what the 'Olim vs. Maalin' prose section describes.",
+      "chosen_heading": "Olim vs. Maalin",
+      "current_heading": "Olim vs. Maalin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Makom Patur Definition",
+    "candidates": [
+      "Four-by-Four Analysis",
+      "Makom Patur Definition",
+      "No Exchange Rule",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly transmits Rav Dimi's report of Rabbi Yochanan's ruling about a makom patur (place lacking four-by-four) being permitted for use by both reshut harabbim and reshut hayachid members, which is precisely what the 'Makom Patur Definition' section's prose describes and contextualizes.",
+      "chosen_heading": "Makom Patur Definition",
+      "current_heading": "Makom Patur Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "No Exchange Rule",
+      "Biblical vs. Rabbinic",
+      "Eruvin Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rav accepts Rav Dimi's opinion and answers with 'ei birshuyot deoraisa hachi nami,' which is precisely what the 'Biblical vs. Rabbinic' section's prose describes and analyzes.",
+      "chosen_heading": "Biblical vs. Rabbinic",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Eruvin Stringency",
+    "candidates": [
+      "Eruvin Stringency",
+      "Wall Height Asymmetry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the principle that the Sages reinforced their enactments more than Torah law, which is precisely what the prose under 'Eruvin Stringency' analyzes in detail.",
+      "chosen_heading": "Eruvin Stringency",
+      "current_heading": "Eruvin Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Wall Height Asymmetry",
+    "candidates": [
+      "Wall Height Asymmetry",
+      "Easier Access Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the ruling itself \u2014 the case of a wall that is ten handbreadths high on one side and level with the ground on the other, and the assignment to the courtyard where it is level \u2014 which is exactly what heading 0 ('Wall Height Asymmetry') describes, while heading 1 discusses the reasoning and principle (*tashmisho benachas*) that follows from it.",
+      "chosen_heading": "Wall Height Asymmetry",
+      "current_heading": "Wall Height Asymmetry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Easier Access Rule",
+    "candidates": [
+      "Easier Access Rule",
+      "Ditch Analogy",
+      "Why Both Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Easier Access Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states the general principle of tashmisho benachas/bekoshi that underlies the wall case, which is precisely what the 'Easier Access Rule' prose discusses.",
+      "second_heading": "Ditch Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Sheizvi's parallel ruling about a ditch (charitz) between two courtyards, which is exactly the case the 'Ditch Analogy' prose describes.",
+      "current_heading": "Easier Access Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Why Both Cases",
+    "candidates": [
+      "Ditch Analogy",
+      "Why Both Cases",
+      "Platform Building",
+      "Platform Width",
+      "Limited Access",
+      "Platform vs. Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the classic 'vetzricha' argument explaining why both the wall case and the ditch case must be stated explicitly, which is precisely what the 'Why Both Cases' prose describes.",
+      "chosen_heading": "Why Both Cases",
+      "current_heading": "Why Both Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Platform vs. Removal",
+    "candidates": [
+      "Platform Building",
+      "Platform Width",
+      "Limited Access",
+      "Platform vs. Removal",
+      "Basket Not Valid",
+      "Removability Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Platform vs. Removal",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the ruling about four-tefach threshold and Ravina's resolution about removing a segment from the top of the wall) are precisely what candidate 3 'Platform vs. Removal' describes in its prose.",
+      "second_heading": "Basket Not Valid",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rav Ye\u1e25iel's ruling that overturning a basin diminishes the wall) is the opening statement that candidate 4 'Basket Not Valid' introduces as its topic.",
+      "current_heading": "Platform vs. Removal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Removability Principle",
+    "candidates": [
+      "Basket Not Valid",
+      "Removability Principle",
+      "Incidental Movement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle that an item movable on Shabbat does not diminish a wall, and the resolution involving attaching to the ground \u2014 exactly what the 'Removability Principle' prose describes.",
+      "chosen_heading": "Removability Principle",
+      "current_heading": "Removability Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Incidental Movement",
+    "candidates": [
+      "Incidental Movement",
+      "Serious Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of challenge-and-response about incidental movement of muktzah/dirt when removing a buried object, which is precisely what the 'Incidental Movement' prose describes \u2014 the baraita about the fig/cake, the rim explanation, and the mishna about turnip/radish are all cited to resolve whether incidental disturbance of surrounding material is prohibited, matching that section's content exactly.",
+      "chosen_heading": "Incidental Movement",
+      "current_heading": "Incidental Movement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Serious Burial",
+    "candidates": [
+      "Serious Burial",
+      "Egyptian Ladder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case requiring a hoe and spade to remove the basin, which is precisely what the 'Serious Burial' section's prose describes as the final answer involving d'ba'ei mara v'chatzina.",
+      "chosen_heading": "Serious Burial",
+      "current_heading": "Serious Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Egyptian Ladder",
+    "candidates": [
+      "Egyptian Ladder",
+      "Tyrian Ladder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the Egyptian ladder as one lacking four rungs, which directly matches the prose under heading 0 that discusses the Egyptian ladder and cites this exact definition from the school of Rabbi Yannai.",
+      "chosen_heading": "Egyptian Ladder",
+      "current_heading": "Egyptian Ladder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Tyrian Ladder",
+    "candidates": [
+      "Tyrian Ladder",
+      "Practical Permanence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the question about why an Egyptian ladder does not diminish and Rav's answer about it being movable on Shabbat, which is precisely the content the 'Tyrian Ladder' prose discusses as the distinguishing principle.",
+      "chosen_heading": "Tyrian Ladder",
+      "current_heading": "Tyrian Ladder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Practical Permanence",
+    "candidates": [
+      "Practical Permanence",
+      "Lavud Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why a Tyrian (heavy) ladder is treated differently \u2014 its heaviness establishes it in place \u2014 which is precisely the 'practical permanence' concept discussed in the prose of candidate 0.",
+      "chosen_heading": "Practical Permanence",
+      "current_heading": "Practical Permanence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Lavud Principle",
+    "candidates": [
+      "Lavud Principle",
+      "Wide Wall Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in the 'Lavud Principle' prose: two ladders on opposite sides of a wall creating a combined opening when the gap between them is less than three handbreadths, which is the classic lavud application.",
+      "chosen_heading": "Lavud Principle",
+      "current_heading": "Lavud Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Wide Wall Exception",
+    "candidates": [
+      "Wide Wall Exception",
+      "Dual Ladder Setup",
+      "Stacked Platforms",
+      "Top Platform Rule",
+      "Step Ladder Rungs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the wide-wall exception (four tefachim wide wall makes distance irrelevant), which is precisely what the 'Wide Wall Exception' prose section discusses.",
+      "chosen_heading": "Wide Wall Exception",
+      "current_heading": "Wide Wall Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Step Ladder Rungs",
+    "candidates": [
+      "Dual Ladder Setup",
+      "Stacked Platforms",
+      "Top Platform Rule",
+      "Step Ladder Rungs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Stacked Platforms",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are both about stacked/disconnected structures (platforms and ladder rungs) lowering a wall's height, and candidates 1 and 2 ('Stacked Platforms' and 'Top Platform Rule') together cover exactly this content \u2014 but since item 1 introduces both the bottom-platform case AND the top-platform case together, they form one continuous passage best placed under 'Stacked Platforms' (index 1) as the entry point, with the top-platform chiddush naturally following.",
+      "second_heading": "Step Ladder Rungs",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening attribution line 'And Rav Nachman said that Rabbah bar Avuha said' which introduces the ladder-rungs ruling discussed in 'Step Ladder Rungs' (index 3), the current placement.",
+      "current_heading": "Step Ladder Rungs",
+      "moved": true
+    }
+  }
+]

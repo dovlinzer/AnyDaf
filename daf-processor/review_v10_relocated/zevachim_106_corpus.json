@@ -1,0 +1,300 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Three Camps",
+    "candidates": [
+      "Three Camps",
+      "Redundant Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'mina hani mili' question and the braita comparing 'three camps' versus 'one camp,' which is precisely what the 'Three Camps' section prose describes.",
+      "chosen_heading": "Three Camps",
+      "current_heading": "Three Camps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Redundant Language",
+    "candidates": [
+      "Redundant Language",
+      "Rabbi Eliezer",
+      "Location Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Redundant Language",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 derive the three-camps requirement through redundant 'outside the camp' language in three separate passages, matching exactly the 'Redundant Language' prose.",
+      "second_heading": "Rabbi Eliezer",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rabbi Shimon's use of 'outside the camp' via Rabbi Eliezer's gezeirah shavah linking the Yom Kippur bulls to the parah adumah and establishing east of Jerusalem as the location, matching the 'Rabbi Eliezer' prose.",
+      "current_heading": "Redundant Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Location Debate",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Location Debate",
+      "Ashes Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about burning north of Jerusalem and Rabbi Yosei HaGelili's view about beit hadeshen, which is precisely what the 'Location Debate' prose describes as the chachamim's position and introduces as leading into the ashes discussion.",
+      "chosen_heading": "Location Debate",
+      "current_heading": "Location Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Ashes Requirement",
+    "candidates": [
+      "Ashes Requirement",
+      "Tumah at Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dispute between Rabbi Eliezer ben Yaakov and the first opinion regarding 'al shefech hadeshen,' including Abaye's suggestion that they may not actually disagree \u2014 exactly what the 'Ashes Requirement' prose describes.",
+      "chosen_heading": "Ashes Requirement",
+      "current_heading": "Ashes Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Tumah at Burning",
+    "candidates": [
+      "Tumah at Burning",
+      "Charcoal vs. Ash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses who renders garments impure during burning and identifies the 'one who burns' as one who assists at the time of burning, which matches exactly the 'Tumah at Burning' section's prose about when tumah is generated for those involved in the burning.",
+      "chosen_heading": "Tumah at Burning",
+      "current_heading": "Tumah at Burning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Charcoal vs. Ash",
+    "candidates": [
+      "Charcoal vs. Ash",
+      "Two Prohibitions",
+      "Torah Sources",
+      "Two Aveirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between the tanna kamma and Rabbi Shimon about when tumah begadim ceases (at ash vs. charred mass), and Rava's mai beineihu answer about charucha \u2014 exactly the content described in the 'Charcoal vs. Ash' prose.",
+      "chosen_heading": "Charcoal vs. Ash",
+      "current_heading": "Charcoal vs. Ash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Two Aveirot",
+    "candidates": [
+      "Two Prohibitions",
+      "Torah Sources",
+      "Two Aveirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Hadaran (closing formula for a tractate chapter), which belongs at the end of the section concluding the previous perek discussion, and the current placement under 'Two Aveirot' \u2014 which discusses the mishnah of hashocheit v'hama'aleh bachutz \u2014 is the closest contextual fit as the Hadaran marks the end of Tevul Yom, the chapter just concluded before this new perek begins.",
+      "chosen_heading": "Two Aveirot",
+      "current_heading": "Two Aveirot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Two Aveirot",
+    "candidates": [
+      "Two Aveirot",
+      "Rabbi Yosi HaGlili",
+      "Chachamim Refute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text directly states that one who slaughters and offers up outside is liable for each act separately, which is precisely what the 'Two Aveirot' prose discusses \u2014 the independent liability for shechita and ha'ala as two separate prohibitions.",
+      "chosen_heading": "Two Aveirot",
+      "current_heading": "Two Aveirot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Chachamim Refute",
+    "candidates": [
+      "Rabbi Yosi HaGlili",
+      "Chachamim Refute",
+      "Eating Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei HaGelili's ruling (slaughtered inside/offered outside = liable; slaughtered outside/offered outside = exempt) AND the Rabbis' rebuttal, and the prose under heading 0 ('Rabbi Yosi HaGlili') already summarizes both positions together, while heading 1 ('Chachamim Refute') only covers the rebuttal \u2014 the full Talmudic passage fits best under the heading that introduces Rabbi Yosei HaGelili's position and its logical consequences.",
+      "chosen_heading": "Rabbi Yosi HaGlili",
+      "current_heading": "Chachamim Refute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Eating Korban",
+    "candidates": [
+      "Chachamim Refute",
+      "Eating Korban",
+      "Kares Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishnaic dispute about a tamei person eating tamei or tahor kodashim, which is precisely what the 'Eating Korban' prose describes in detail, including Rabbi Yosi HaGlili's position and the chachamim's rebuttal about keivan shenaga bo tim'o, and the closing rule about tahor she'achal tamei patur.",
+      "chosen_heading": "Eating Korban",
+      "current_heading": "Eating Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Kares Source",
+    "candidates": [
+      "Kares Source",
+      "Shechita Warning",
+      "Two Uses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kares Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the punishment and prohibition for ha'alat chutz, exactly matching the 'Kares Source' prose which discusses the onesh and azhara for ha'alah from Devarim and Rabbi Elazar's principle.",
+      "second_heading": "Shechita Warning",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the question of where the azhara for shechutei chutz comes from and proposes v'lo yizbechu, which is precisely what the 'Shechita Warning' prose describes.",
+      "current_heading": "Kares Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Two Uses",
+    "candidates": [
+      "Shechita Warning",
+      "Two Uses",
+      "Era 1: Mikdash",
+      "Era 2: Bamot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Elazar's derivation about avodah zarah shelo chedarkah and Rabba's double-reading resolution \u2014 are precisely what the 'Two Uses' prose describes: the challenge that v'lo yizbechu is needed for avodah zarah and Rabba's krei beih solution.",
+      "chosen_heading": "Two Uses",
+      "current_heading": "Two Uses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Era 2: Bamot",
+    "candidates": [
+      "Era 1: Mikdash",
+      "Era 2: Bamot",
+      "Velo Yizbechu Od",
+      "Punishment Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the baraita that distinguishes Era 1 (sanctified and slaughtered during issur bamot) from Era 2 (sanctified during heter bamot, slaughtered during issur bamot), and candidate 0's prose ('Era 1: Mikdash') explicitly describes this baraita beginning with 'ad kan hu m'daber b'kodashim she'hikdisham b'sha'at issur bamot' \u2014 matching items 1\u20132 \u2014 while candidate 1's prose ('Era 2: Bamot') describes only the second scenario, making candidate 0 the better single home for the full baraita passage.",
+      "chosen_heading": "Era 1: Mikdash",
+      "current_heading": "Era 2: Bamot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Punishment Limited",
+    "candidates": [
+      "Velo Yizbechu Od",
+      "Punishment Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together establish the positive mitzva, the prohibition from v'lo yizbechu od, and the limitation that kares does not apply \u2014 exactly the content described in the 'Punishment Limited' prose.",
+      "chosen_heading": "Punishment Limited",
+      "current_heading": "Punishment Limited",
+      "moved": false
+    }
+  }
+]

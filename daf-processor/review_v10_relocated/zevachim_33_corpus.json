@@ -1,0 +1,223 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Metzora Restrictions",
+    "candidates": [
+      "Metzora & Tevul Yom",
+      "Hutra vs. Dechuyah",
+      "Smicha/Shechita Verse",
+      "Gate Geography",
+      "Metzora Restrictions",
+      "Juxtaposition Problem",
+      "Merchak Tzafon Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hutra vs. Dechuyah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 \u2014 the inference that both Abaye and Rava hold tumah is dechuyah \u2014 is the concluding summary statement explicitly quoted in the prose of heading 1 ('Hutra vs. Dechuyah'), which even reproduces the exact Aramaic phrase michlal d'travayhu svira lehu tumah dechuyah hi b'tzibur.",
+      "second_heading": "Smicha/Shechita Verse",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce the baraita about kol ha-smichot and the Nicanor Gate exception as a potential proof regarding bia'ah b'miktzat, which is precisely the content described in heading 2 ('Smicha/Shechita Verse') and its discussion of teichef lismicha shechita and chutz mizo.",
+      "current_heading": "Metzora Restrictions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Merchak Tzafon Answer",
+    "candidates": [
+      "Juxtaposition Problem",
+      "Merchak Tzafon Answer",
+      "Kol Kocho Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yosef's merchak tzafon answer and the pishpash question with Abaye and Rava's reply \u2014 are explicitly described and discussed together in the 'Merchak Tzafon Answer' prose, which is their current placement.",
+      "chosen_heading": "Merchak Tzafon Answer",
+      "current_heading": "Merchak Tzafon Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Kol Kocho Answer",
+    "candidates": [
+      "Kol Kocho Answer",
+      "Rabbinic Override"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kol Kocho Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the 'ikka d'amri' version of Rav Yosef's statement about kol kocho requiring head-and-majority insertion, which is exactly what the 'Kol Kocho Answer' prose describes.",
+      "second_heading": "Rabbinic Override",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the Gemara's challenge about whether smicha d'oraita and teichef lismicha shechita d'oraita together should simply license the metzora to enter \u2014 this is the precise argument described in the 'Rabbinic Override' prose under Rav Adda bar Matnah's challenge.",
+      "current_heading": "Kol Kocho Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rabbinic Override",
+    "candidates": [
+      "Rabbinic Override",
+      "Tahorim Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Adda bar Mattana's two explanations \u2014 the gezeirah shema yarbeh bifsi'ot and the d'oraita/non-d'oraita distinction regarding smicha and shechita \u2014 which are precisely the content discussed in the 'Rabbinic Override' prose.",
+      "chosen_heading": "Rabbinic Override",
+      "current_heading": "Rabbinic Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Tahorim Derasha",
+    "candidates": [
+      "Tahorim Derasha",
+      "Implications",
+      "Non-Obligatory Smicha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection from the baraita deriving that shechita requires tahara from the juxtaposition with smicha, which is precisely what the 'Tahorim Derasha' section's prose describes as the gemara examining the scriptural basis for smicha requirements through the vesamach veshachat derivation.",
+      "chosen_heading": "Tahorim Derasha",
+      "current_heading": "Tahorim Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Non-Obligatory Smicha",
+    "candidates": [
+      "Implications",
+      "Non-Obligatory Smicha",
+      "Lashes for Touching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that smicha of the asham metzora is not d'oraita while teichef lismicha shechita is d'oraita \u2014 this is precisely the reversal/resolution discussed in the 'Non-Obligatory Smicha' section's prose.",
+      "chosen_heading": "Non-Obligatory Smicha",
+      "current_heading": "Non-Obligatory Smicha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Lashes for Touching",
+    "candidates": [
+      "Lashes for Touching",
+      "Malkot vs. Karet",
+      "Bia'ah Not Topic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Ravina's statement that the ruling was stated 'with regard to lashes' (not karet) is precisely what the 'Malkot vs. Karet' section's prose discusses \u2014 the implication that bia'ah b'miktzat carries only malkot and not karet, enabling the override by the korban pesach obligation.",
+      "chosen_heading": "Malkot vs. Karet",
+      "current_heading": "Lashes for Touching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Bia'ah Not Topic",
+    "candidates": [
+      "Malkot vs. Karet",
+      "Bia'ah Not Topic",
+      "Reish Lakish Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly conveys Ravin's transmission of Rabbi Abbahu's reframing that the original statement was about a tamei person touching kodesh, not about bia'ah b'miktzat \u2014 exactly what the 'Bia'ah Not Topic' prose describes.",
+      "chosen_heading": "Bia'ah Not Topic",
+      "current_heading": "Bia'ah Not Topic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Reish Lakish Ruling",
+    "candidates": [
+      "Reish Lakish Ruling",
+      "Yochanan Disputes",
+      "Touching & Eating",
+      "Terumah Argument",
+      "Both Inferred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the core amoraic dispute between Reish Lakish and Rabbi Yochanan, including Reish Lakish's verse citation and Rabbi Yochanan's counter that the verse refers to terumah \u2014 exactly what the 'Reish Lakish Ruling' section's prose describes.",
+      "chosen_heading": "Reish Lakish Ruling",
+      "current_heading": "Reish Lakish Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Both Inferred",
+    "candidates": [
+      "Yochanan Disputes",
+      "Touching & Eating",
+      "Terumah Argument",
+      "Both Inferred",
+      "Karet Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion of how Reish Lakish derives both the prohibition against touching and eating kodesh while tamei from the single verse bechol kodesh lo tiga, culminating in the supporting baraita \u2014 exactly what the 'Both Inferred' prose describes.",
+      "chosen_heading": "Both Inferred",
+      "current_heading": "Both Inferred",
+      "moved": false
+    }
+  }
+]

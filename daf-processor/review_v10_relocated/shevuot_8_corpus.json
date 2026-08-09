@@ -1,0 +1,227 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Intro: Tumat vs Sin",
+    "candidates": [
+      "Intro: Tumat vs Sin",
+      "Three Great Sins",
+      "Oleh Veyored",
+      "Lenient vs Stringent",
+      "Yoledet Case",
+      "Tumah and Sin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Great Sins",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yehuda's derivation that the goat atones only for tumat mikdash vekodashav and the initial challenge about idol worship, which matches the 'Three Great Sins' prose discussing exactly this baraita analysis and the mitumot/not-all-tumot exclusion.",
+      "second_heading": "Lenient vs Stringent",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 cover the mnemonic, the lenient-vs-stringent distinction (Rav Kahana), the yoledet case, and the leper case \u2014 all of which correspond precisely to the 'Lenient vs Stringent,' 'Yoledet Case,' and 'Tumah and Sin' sections, with the clearest structural seam being the shift from the initial derivation to the systematic testing of alternative candidates introduced by the mnemonic.",
+      "current_heading": "Intro: Tumat vs Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Tumah and Sin",
+    "candidates": [
+      "Three Great Sins",
+      "Oleh Veyored",
+      "Lenient vs Stringent",
+      "Yoledet Case",
+      "Tumah and Sin",
+      "Chatat Cleansing",
+      "Tinok Shenishba",
+      "Metzora Case",
+      "Nazir Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly addresses the metzora case, explaining that the affliction of tzaraat itself atones for the sin and the korban serves only to restore participation in the congregation \u2014 precisely what the prose in 'Metzora Case' (index 7) describes.",
+      "chosen_heading": "Metzora Case",
+      "current_heading": "Tumah and Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Nazir Tamei",
+    "candidates": [
+      "Chatat Cleansing",
+      "Tinok Shenishba",
+      "Metzora Case",
+      "Nazir Tamei",
+      "Rabbi Shimon Context",
+      "Yehuda: Act of Sprinkling",
+      "Shimon: Vekhen Ya'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the nazir tamei case \u2014 item 1 raises the objection about the nazirite's bird offerings and Rav Hoshaya's response (lechol chatotam velo lechol tumotam), and item 2 addresses Rabbi Elazar HaKappar's counter-position and its resolution via Rabbi Shimon \u2014 exactly the content described in the 'Nazir Tamei' prose.",
+      "chosen_heading": "Nazir Tamei",
+      "current_heading": "Nazir Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Shimon: Vekhen Ya'aseh",
+    "candidates": [
+      "Rabbi Shimon Context",
+      "Yehuda: Act of Sprinkling",
+      "Shimon: Vekhen Ya'aseh",
+      "Both Agree: Tumat Mikdash",
+      "Four Knowledge Scenarios",
+      "Pisheihem Excludes",
+      "Before Yom Kippur Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss why Rabbi Yehuda disagrees with Rabbi Shimon's contextual reading \u2014 specifically that 'vechipper al hakodesh' teaches the procedural parallel sprinkling (not the nature of the sin), which matches heading 1's prose about Rabbi Yehuda using the phrase to describe the act of sprinkling upon the sanctuary structure rather than identifying the category of defilement.",
+      "chosen_heading": "Yehuda: Act of Sprinkling",
+      "current_heading": "Shimon: Vekhen Ya'aseh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Before Yom Kippur Case",
+    "candidates": [
+      "Both Agree: Tumat Mikdash",
+      "Four Knowledge Scenarios",
+      "Pisheihem Excludes",
+      "Before Yom Kippur Case",
+      "Pisheihem + Lechol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's question-and-answer sequence about why pisheihem is needed to exclude the case of full yedia at both ends, specifically addressing the non-obvious scenario of someone who became aware just before sunset on Erev Yom Kippur \u2014 which is precisely what heading 3 ('Before Yom Kippur Case') describes in its prose.",
+      "chosen_heading": "Before Yom Kippur Case",
+      "current_heading": "Before Yom Kippur Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Pisheihem + Lechol",
+    "candidates": [
+      "Pisheihem + Lechol",
+      "Pnimi: Toleh Not Mekapper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the baraita's question of why a verse is needed to establish that the inner goat suspends punishment for one who had awareness at the beginning but not at the end \u2014 precisely the 'pisheihem + lechol' analysis of which scenario the pnimi covers and why lechol chatotam is needed to counter the argument that only permanently non-korban cases qualify.",
+      "chosen_heading": "Pisheihem + Lechol",
+      "current_heading": "Pisheihem + Lechol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Pnimi: Toleh Not Mekapper",
+    "candidates": [
+      "Pnimi: Toleh Not Mekapper",
+      "Rabbi Zeira: Protecting",
+      "Rava: Suffer Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether the pnimi provides complete atonement (kapara gemura) or merely suspends punishment, and the textual argument from 'lechol chatotam' vs 'meichatotam' \u2014 exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Pnimi: Toleh Not Mekapper",
+      "current_heading": "Pnimi: Toleh Not Mekapper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rava: Suffer Protection",
+    "candidates": [
+      "Rabbi Zeira: Protecting",
+      "Rava: Suffer Protection",
+      "Viddui Hanistarot",
+      "Mishna Link: Musaf",
+      "Linked Korbanos",
+      "Achat: One Atonement",
+      "Between Inner & Musaf",
+      "Achat Bashanah Twice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Zeira's explanation (dies without sin) and Rava's challenge and counter-explanation (protection from suffering), which together form the complete unit that heading 0 ('Rabbi Zeira: Protecting') introduces \u2014 the question of what the goat accomplishes and both sages' answers, with heading 1 covering only Rava's portion in its prose but heading 0 sets up the entire discussion including the initial question.",
+      "chosen_heading": "Rabbi Zeira: Protecting",
+      "current_heading": "Rava: Suffer Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Achat Bashanah Twice",
+    "candidates": [
+      "Viddui Hanistarot",
+      "Mishna Link: Musaf",
+      "Linked Korbanos",
+      "Achat: One Atonement",
+      "Between Inner & Musaf",
+      "Achat Bashanah Twice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "All three items form a continuous question-answer chain about whether the linked goats can cover each other's atonement scenarios, and the central resolution via 'achat' (one atonement) is precisely what candidate 3's prose discusses.",
+      "chosen_heading": "Achat: One Atonement",
+      "current_heading": "Achat Bashanah Twice",
+      "moved": true
+    }
+  }
+]

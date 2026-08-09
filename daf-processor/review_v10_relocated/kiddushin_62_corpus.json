@@ -1,0 +1,415 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Bereishit Example",
+    "candidates": [
+      "Opening & Context",
+      "Bereishit Example",
+      "Sotah Case",
+      "Abraham's Oath"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Opening & Context",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 wraps up the prior discussion about Rabbi Meir and Rabbi \u1e24anina ben Gamliel's positions on the Bnei Gad/Bnei Reuven condition and the parable, which belongs to the Opening & Context section.",
+      "second_heading": "Bereishit Example",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the bishlama opening of the Bereishit/Cain example analysis, which is precisely what the 'Bereishit Example' prose describes.",
+      "current_heading": "Bereishit Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Abraham's Oath",
+    "candidates": [
+      "Sotah Case",
+      "Abraham's Oath",
+      "Blessings/Curses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's questions about why Abraham's oath narrative (Genesis 24) needed to explicitly state the conditions of release \u2014 the woman's unwillingness and the family's refusal \u2014 which matches exactly the prose of candidate 1 ('Abraham's Oath') describing these very verses and the Gemara's analysis of v'im lo taveh ha'isha and v'im lo yitnu lach.",
+      "chosen_heading": "Abraham's Oath",
+      "current_heading": "Abraham's Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Blessings/Curses",
+    "candidates": [
+      "Blessings/Curses",
+      "Sotah Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly correspond to the 'Blessings/Curses' section prose, which explicitly discusses the Vayikra tochachah verses, the Yeshayahu verses about 'if you are willing'/'if you refuse,' and Rava's interpretation of 'cherev tukhallu' as coarse salt, hard barley bread, and onions.",
+      "chosen_heading": "Blessings/Curses",
+      "current_heading": "Blessings/Curses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Sotah Drasha",
+    "candidates": [
+      "Sotah Drasha",
+      "Parah Adumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the sotah verse (Numbers 5:19) and the dispute between Rabbi Meir and Rabbi \u1e24anina ben Gamliel about whether the verse should state the negative outcome, which is precisely what the 'Sotah Drasha' prose describes.",
+      "chosen_heading": "Sotah Drasha",
+      "current_heading": "Sotah Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Parah Adumah",
+    "candidates": [
+      "Parah Adumah",
+      "Heifer Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the question of why the verse states both the positive and negative formulations regarding day three and day seven purification, and the answer that without the negative clause one might think performing on only one day suffices \u2014 precisely what the 'Parah Adumah' prose describes.",
+      "chosen_heading": "Parah Adumah",
+      "current_heading": "Parah Adumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Heifer Details",
+    "candidates": [
+      "Heifer Details",
+      "Tosafot Analysis",
+      "Unspoken Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items expound redundant phrases in the parah adumah laws (Numbers 19:19), and candidate 0's prose describes exactly these two derivations \u2014 the third/seventh day repetition and the v'chiteo bayom hashvi'i verse \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Heifer Details",
+      "current_heading": "Heifer Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Unspoken Conditions",
+    "candidates": [
+      "Tosafot Analysis",
+      "Unspoken Conditions",
+      "Devarim Shebaleiv",
+      "Complexities",
+      "Agunah Issues",
+      "Mishna Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah presenting exactly the cases described in the 'Unspoken Conditions' prose \u2014 a man who betroths a woman under an unspoken assumption about her status (kohenet/leviya, poor/wealthy) and is told the kiddushin stands because she did not deceive him.",
+      "chosen_heading": "Unspoken Conditions",
+      "current_heading": "Unspoken Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Mishna Examples",
+    "candidates": [
+      "Devarim Shebaleiv",
+      "Complexities",
+      "Agunah Issues",
+      "Mishna Examples",
+      "Unborn Child",
+      "Terumah Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Examples",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents exactly the cases listed and described in the 'Mishna Examples' prose \u2014 conversion, manumission, death of spouse, chalitzah \u2014 with the ruling einah mekudeshes.",
+      "second_heading": "Unborn Child",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the distinct mishnaic case about betrothing an unborn daughter, which the 'Unborn Child' prose explicitly describes and analyzes as its own self-contained unit.",
+      "current_heading": "Mishna Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Terumah Analogy",
+    "candidates": [
+      "Unborn Child",
+      "Terumah Analogy",
+      "Terumah Question",
+      "Kol Shebeyado"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishnah in Terumot about not separating teruma from detached produce for attached produce, which is precisely the terumah analogy the prose in candidate 1 describes as introducing the framework for the sugya.",
+      "chosen_heading": "Terumah Analogy",
+      "current_heading": "Terumah Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Kol Shebeyado",
+    "candidates": [
+      "Terumah Question",
+      "Kol Shebeyado",
+      "Geir & Shichrur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Asi's dilemma posed to Rabbi Yochanan about the terumah designation, which is precisely what the 'Terumah Question' prose describes, while the 'Kol Shebeyado' section is meant to cover Rabbi Yochanan's answer and its implications \u2014 but the quoted text includes both the question and the answer, and the question portion is the primary content being introduced under heading 0.",
+      "chosen_heading": "Terumah Question",
+      "current_heading": "Kol Shebeyado",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Geir & Shichrur",
+    "candidates": [
+      "Kol Shebeyado",
+      "Geir & Shichrur",
+      "Geir Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna being cited as an objection (eitiveih) to Rabbi Yochanan's kol she-beyado principle, specifically raising the cases of conversion and emancipation \u2014 which is exactly what the 'Geir & Shichrur' prose describes as the gemara connecting kol she-beyado to the mishna's cases and questioning whether conversion might be beyado.",
+      "chosen_heading": "Geir & Shichrur",
+      "current_heading": "Geir & Shichrur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Geir Requirement",
+    "candidates": [
+      "Geir Requirement",
+      "Freed Slave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the gemara's response that conversion requires three judges and is therefore not within one's unilateral power, which is precisely what the 'Geir Requirement' prose describes.",
+      "chosen_heading": "Geir Requirement",
+      "current_heading": "Geir Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Freed Slave",
+    "candidates": [
+      "Freed Slave",
+      "One vs. Two-Sided",
+      "Behemah Problem",
+      "Two Rings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Abba bar Memel's challenge AND the gemara's rejection using the 'meikara behemah / da'at acheret' reasoning, which is precisely what section 2 ('Behemah Problem') discusses in its prose \u2014 while section 0 only covers the challenge itself and section 1 covers a different rejection rationale.",
+      "chosen_heading": "Behemah Problem",
+      "current_heading": "Freed Slave",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Two Rings",
+    "candidates": [
+      "One vs. Two-Sided",
+      "Behemah Problem",
+      "Two Rings",
+      "Why It Works",
+      "Why It Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the case of giving a peruta to one's wife (already married) saying 'be betrothed after I divorce you' \u2014 which is exactly the case analyzed in the 'Why It Fails' prose, explaining why kiddushin to a currently-married woman is void even though divorce is beyado, because kiddushin also requires her agreement and is not purely beyado.",
+      "chosen_heading": "Why It Fails",
+      "current_heading": "Two Rings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Why It Fails",
+    "candidates": [
+      "Why It Works",
+      "Why It Fails",
+      "Grain Ripening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the attempted resolution of Rav Oshaya's dilemma (that it can be resolved because betrothal is effective now) and then raises the counterpoint 'perhaps just as it is effective now it is also effective afterward' \u2014 this is the positive/constructive analysis of why the case might work, matching the 'Why It Works' prose which discusses how the woman being currently single provides a valid platform for kiddushin and the components are present now.",
+      "chosen_heading": "Why It Works",
+      "current_heading": "Why It Fails",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Grain Ripening",
+    "candidates": [
+      "Grain Ripening",
+      "Standing Grain",
+      "Young Shoots"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Standing Grain",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita establishing the baseline rule (detached/attached, and the lichsheyitlashu clause) which the 'Standing Grain' section's prose describes as the earlier ruling that Rabbi Elazar ben Yaakov then extends \u2014 but actually the 'Grain Ripening' prose explicitly describes item 2 (Rabbi Eliezer ben Yaakov's afilu extension with lichsheyaviu shelish) as its content, making item 1 the foundational baraita that precedes it and belongs under 'Standing Grain' as the rule being extended.",
+      "second_heading": "Grain Ripening",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely Rabbi Eliezer ben Yaakov's 'afilu' extension with the lichsheyaviu shelish/shelish condition, which the 'Grain Ripening' prose explicitly describes as its subject matter.",
+      "current_heading": "Grain Ripening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Young Shoots",
+    "candidates": [
+      "Standing Grain",
+      "Young Shoots",
+      "Unborn Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabba's limitation to shachas and Rav Yosef's extension to agam along with the verse clarifying agam's meaning, which is precisely what the 'Young Shoots' prose discusses.",
+      "chosen_heading": "Young Shoots",
+      "current_heading": "Young Shoots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Unborn Daughter",
+    "candidates": [
+      "Unborn Daughter",
+      "Visible Pregnancy",
+      "Natural Expectation",
+      "Certainty Debate",
+      "Field Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses whether Rabbi Chanina's ruling requires the pregnancy to be visibly noticeable (hukar ubra) or not, which is exactly what candidate 1 'Visible Pregnancy' addresses, not candidate 0 which discusses only the basic case and Rabbi Chanina's qualification.",
+      "chosen_heading": "Visible Pregnancy",
+      "current_heading": "Unborn Daughter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154,
+      155
+    ],
+    "current_heading": "Field Types",
+    "candidates": [
+      "Visible Pregnancy",
+      "Natural Expectation",
+      "Certainty Debate",
+      "Field Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items deal with the irrigated vs. non-irrigated field distinction (items 1-2) and the broader synthesis of who holds 'a person can transfer an entity not yet in the world' (item 3), which flows directly from that dispute \u2014 exactly what the 'Field Types' prose describes as its closing discussion.",
+      "chosen_heading": "Field Types",
+      "current_heading": "Field Types",
+      "moved": false
+    }
+  }
+]

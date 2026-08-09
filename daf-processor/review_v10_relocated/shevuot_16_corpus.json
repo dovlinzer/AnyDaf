@@ -1,0 +1,285 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "First Sanctity Eternal",
+    "candidates": [
+      "Rashi: Outside Walk",
+      "Tosfos: Inside Walk",
+      "Single-File Procession",
+      "Wall Thickness Sanctity",
+      "Todah for Jerusalem",
+      "Mincha for Azarah",
+      "Har HaBayis Limits",
+      "Boundaries & Symbols",
+      "Rav Huna: All Required",
+      "Rav Nachman: One Suffices",
+      "First Sanctity Eternal",
+      "Nechemya's Components",
+      "Ezra: Memorial or Real?",
+      "Boundary Extension Rules",
+      "First Sanctity Temporary",
+      "Mishnah Language",
+      "RN Responds",
+      "Lower Swamp: Complete",
+      "Upper Swamp: Incomplete",
+      "Different Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "All three items together present the Rav Huna/Rav Nachman dispute and explain each position in terms of whether the first sanctity was eternal or temporary \u2014 exactly the content described in the 'First Sanctity Eternal' section's prose, which covers both readings of the Mishnah and the underlying theological reasoning about kedusha rishona.",
+      "chosen_heading": "First Sanctity Eternal",
+      "current_heading": "First Sanctity Eternal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Different Laws",
+    "candidates": [
+      "Nechemya's Components",
+      "Ezra: Memorial or Real?",
+      "Boundary Extension Rules",
+      "First Sanctity Temporary",
+      "Mishnah Language",
+      "RN Responds",
+      "Lower Swamp: Complete",
+      "Upper Swamp: Incomplete",
+      "Different Laws",
+      "Why Symbolize?",
+      "RE: Curtains for Sanctity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Language",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rava's objection to Rav Nachman and his emendation response plus the introduction of Abba Shaul's baraita, matching heading 4 ('Mishnah Language') and 5 ('RN Responds') \u2014 but since item 1 is Rava's challenge and item 2 begins the Abba Shaul baraita cited as proof, and heading 5's prose explicitly covers both Rav Nachman's reply AND the introduction of Abba Shaul's baraita, items 1-2 best fit under heading 5.",
+      "second_heading": "Different Laws",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 detail the practical laws of the lower and upper swamps and the reason for including the upper zone within the walls, which matches heading 8 ('Different Laws') whose prose explicitly discusses these exact practical consequences and the turpa explanation.",
+      "current_heading": "Different Laws",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "RE: Curtains for Sanctity",
+    "candidates": [
+      "Why Symbolize?",
+      "RE: Curtains for Sanctity",
+      "Construction Order",
+      "RY: No Structure Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer's teaching about curtains erected during construction of the Second Temple for both the Heichal and the Azaros, which directly matches the 'RE: Curtains for Sanctity' section's prose about Rabbi Eliezer's Baraisa and the kla'im erected to maintain sanctity boundaries during construction.",
+      "chosen_heading": "RE: Curtains for Sanctity",
+      "current_heading": "RE: Curtains for Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "RY: No Structure Needed",
+    "candidates": [
+      "Construction Order",
+      "RY: No Structure Needed",
+      "Presence Endures",
+      "Land vs. Mikdash",
+      "Reconciliation Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua's teaching about sacrificing without a Temple and eating kodashim without curtains or walls, which is precisely what the 'RY: No Structure Needed' section's prose discusses.",
+      "chosen_heading": "RY: No Structure Needed",
+      "current_heading": "RY: No Structure Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Reconciliation Attempt",
+    "candidates": [
+      "Presence Endures",
+      "Land vs. Mikdash",
+      "Reconciliation Attempt",
+      "RYBRJY: Resanctified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's challenge to Rav Ashi about whether Rabbi Eliezer and Rabbi Yehoshua are truly disputing, the 'dilma d'kholei alma' argument, and the 'l'tzni'uta b'alma' answer about the curtains \u2014 all of which are precisely what the 'Reconciliation Attempt' section's prose describes.",
+      "chosen_heading": "Reconciliation Attempt",
+      "current_heading": "Reconciliation Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "RYBRJY: Resanctified",
+    "candidates": [
+      "RYBRJY: Resanctified",
+      "RYBRJY: First Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Yishmael ben Rabbi Yosei's statement that the first sanctity was nullified when the land was lost and that the returning exiles resanctified the cities they found, which is exactly what the 'RYBRJY: Resanctified' section's prose describes.",
+      "chosen_heading": "RYBRJY: Resanctified",
+      "current_heading": "RYBRJY: Resanctified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "RYBRJY: First Sanctity",
+    "candidates": [
+      "RYBRJY: First Sanctity",
+      "REBRJ: Past Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under heading 0 ('RYBRJY: First Sanctity') directly describes all three items: Rabbi Yishmael bar Rabbi Yose's question about the sixty cities of Og, the Gemara's correction of 'kideshum' to 'maneum', the broader principle about mesorah from Yehoshua's time, and the self-contradiction of Rabbi Yishmael bar Rabbi Yose \u2014 exactly matching items 1, 2, and 3.",
+      "chosen_heading": "RYBRJY: First Sanctity",
+      "current_heading": "RYBRJY: First Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "REBRJ: Past Walls",
+    "candidates": [
+      "REBRJ: Past Walls",
+      "Staying = Entry",
+      "Dual Verses Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the resolution involving Rabbi Elazar bar Yosei's teaching about 'asher lo choma' and past walls, which is precisely what the prose of 'REBRJ: Past Walls' describes.",
+      "chosen_heading": "REBRJ: Past Walls",
+      "current_heading": "REBRJ: Past Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Dual Verses Teaching",
+    "candidates": [
+      "Staying = Entry",
+      "Dual Verses Teaching",
+      "Must Say Both Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's derivation from the two verses (Mishkan/Mikdash) to establish the source for liability when one becomes impure inside the Temple courtyard, which is precisely what the 'Dual Verses Teaching' prose describes.",
+      "chosen_heading": "Dual Verses Teaching",
+      "current_heading": "Dual Verses Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Must Say Both Terms",
+    "candidates": [
+      "Must Say Both Terms",
+      "When Both Terms Needed",
+      "Inward Bow Exempt",
+      "Outward Bow Time Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about why both 'Mishkan' and 'Mikdash' must be stated \u2014 the baraita of Rabbi Elazar, the Gemara's resolution about the change in terminology, and the proof that each term was used for both structures \u2014 which exactly matches the 'Must Say Both Terms' prose discussion.",
+      "chosen_heading": "Must Say Both Terms",
+      "current_heading": "Must Say Both Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Outward Bow Time Required",
+    "candidates": [
+      "When Both Terms Needed",
+      "Inward Bow Exempt",
+      "Outward Bow Time Required",
+      "Standard Time Unit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rava's ruling on inward vs. outward bowing, the alternative formulation of that same ruling, and the clarification of what constitutes bowing with/without tarrying (kriah vs. pishut yadayim v'raglayim) \u2014 are precisely what the 'Outward Bow Time Required' prose describes, including the explicit quote of 'heichi dami hishtachvaya d'is bah shehiya' and the kneeling/prostration distinction.",
+      "chosen_heading": "Outward Bow Time Required",
+      "current_heading": "Outward Bow Time Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Standard Time Unit",
+    "candidates": [
+      "Standard Time Unit",
+      "Three Bow Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the measure of tarrying time (shiur shehiya) and the dispute about reciting this verse, which is exactly what the 'Standard Time Unit' section's prose discusses.",
+      "chosen_heading": "Standard Time Unit",
+      "current_heading": "Standard Time Unit",
+      "moved": false
+    }
+  }
+]

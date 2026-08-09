@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Ki Lo Basem",
+    "candidates": [
+      "Shaul Affiliation",
+      "Nob & Givon Status",
+      "Gilgal Transition",
+      "Ki Lo Basem",
+      "Menucha/Nachala",
+      "Et Repetition Gap",
+      "Reish Lakish Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita interpreting 'menucha' as Shiloh and 'nachala' as Jerusalem and deriving the heter bamot from 'lama chilkan / kedai litten heter bein zeh lazeh' \u2014 which is precisely what candidate 4 ('Menucha/Nachala') describes in its prose.",
+      "chosen_heading": "Menucha/Nachala",
+      "current_heading": "Ki Lo Basem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Reish Lakish Q",
+    "candidates": [
+      "Menucha/Nachala",
+      "Et Repetition Gap",
+      "Reish Lakish Q",
+      "Aron Link",
+      "Pesach Question",
+      "R. Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items concern the Pesach/kodashim challenge to the sham-sham/aron derivation \u2014 item 1 gives Rabbi Yochanan's aron-based answer and item 2 is Reish Lakish's immediate reductio ad absurdum pressing that if the aron excludes ma'aser sheni it should equally exclude Pesach and kodashim, which is precisely what candidate 4 ('Pesach Question') describes in its prose.",
+      "chosen_heading": "Pesach Question",
+      "current_heading": "Reish Lakish Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "R. Shimon View",
+    "candidates": [
+      "Aron Link",
+      "Pesach Question",
+      "R. Shimon View",
+      "Birah Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rabbi Shimon's view that only Paschal and fixed-time communal obligations were brought at Nob and Givon, and that animal tithe (having no fixed time) was excluded, with grain tithe linked to it by hekesh \u2014 exactly the content described in the 'R. Shimon View' prose.",
+      "chosen_heading": "R. Shimon View",
+      "current_heading": "R. Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Birah Concept",
+    "candidates": [
+      "Birah Concept",
+      "R. Yehuda Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the inference about Rabbi Yehuda's position on second tithe and animal tithe at Nov and Gibeon, the challenge about requiring a birah, and Rav Yosef's teaching about three temples qualifying as birah \u2014 all of which directly matches the 'Birah Concept' section's prose discussion.",
+      "chosen_heading": "Birah Concept",
+      "current_heading": "Birah Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "R. Yehuda Order",
+    "candidates": [
+      "R. Yehuda Order",
+      "R. Shimon Reverse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yehuda's view that 'menucha' is Shilo and 'nachala' is Jerusalem, supported by verses from Jeremiah calling Jerusalem 'nachalati,' which is precisely what candidate 0's prose describes as the content of Rabbi Yehuda's position.",
+      "chosen_heading": "R. Yehuda Order",
+      "current_heading": "R. Yehuda Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "R. Shimon Reverse",
+    "candidates": [
+      "R. Shimon Reverse",
+      "R. Yishmael Both=Shilo",
+      "Shilo Alone Issue",
+      "Yerushalayim Alone",
+      "R. Shimon bar Yochai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Shimon's reversal (menucha=Yerushalayim, nachala=Shilo) and the Gemara's challenge and resolution about the word order, which is precisely what the 'R. Shimon Reverse' prose describes in detail.",
+      "chosen_heading": "R. Shimon Reverse",
+      "current_heading": "R. Shimon Reverse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "R. Shimon bar Yochai",
+    "candidates": [
+      "R. Yishmael Both=Shilo",
+      "Shilo Alone Issue",
+      "Yerushalayim Alone",
+      "R. Shimon bar Yochai",
+      "Rav Kahana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The prose under 'R. Shimon bar Yochai' explicitly discusses all the content in these 7 items: zo v'zo Yerushalayim, the Manoach episode as evidence for permitted bamot during Shilo, hora'at sha'ah, tana d'vei Rabbi Yishmael following Rabbi Shimon bar Yochai, the mnemonic mashkei gavra l'gavri, and the kashya about the doubled 'el' \u2014 all of which appear verbatim in the passage.",
+      "chosen_heading": "R. Shimon bar Yochai",
+      "current_heading": "R. Shimon bar Yochai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Rav Kahana",
+    "candidates": [
+      "Rav Kahana",
+      "Rava 4 Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Kahana's ruling and its scriptural basis (va'aleihem tomar / al hasmuchim), which is precisely what the prose under 'Rav Kahana' describes.",
+      "chosen_heading": "Rav Kahana",
+      "current_heading": "Rav Kahana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rava 4 Categories",
+    "candidates": [
+      "Rava 4 Categories",
+      "Ha'alah No Karet",
+      "Issur to Heter",
+      "Semicha/Tzafona"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together \u2014 Rabba's objection to Rav Kahana's reading of the verse plus Rabbi Shimon's four-category baraita and its conclusive refutation of Rav Kahana \u2014 are precisely what candidate 0 ('Rava 4 Categories') describes in its prose, making it the correct and current placement.",
+      "chosen_heading": "Rava 4 Categories",
+      "current_heading": "Rava 4 Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Semicha/Tzafona",
+    "candidates": [
+      "Ha'alah No Karet",
+      "Issur to Heter",
+      "Semicha/Tzafona",
+      "Blood Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses semicha (laying of hands) derived from 'lifnei Hashem v'samach', which is explicitly discussed in the 'Semicha/Tzafona' section's prose.",
+      "chosen_heading": "Semicha/Tzafona",
+      "current_heading": "Semicha/Tzafona",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Blood Application",
+    "candidates": [
+      "Blood Application",
+      "Kohen Ritual",
+      "Odor & Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items derive scriptural sources for rituals (slaughtering in the north, blood application around the altar, waving, and bringing meal offerings) that the 'Blood Application' prose explicitly discusses \u2014 matanos saviv, hagashah, and their dual anchors of lifnei Hashem and ha-mizbeach \u2014 making this the clearly correct placement.",
+      "chosen_heading": "Blood Application",
+      "current_heading": "Blood Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Odor & Washing",
+    "candidates": [
+      "Kohen Ritual",
+      "Odor & Washing",
+      "Rami: How Sanctified",
+      "Chaza v'Shoke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Candidate 1's prose explicitly discusses all five items \u2014 the Rabbi Yehuda/Rav Sheshet minchah-and-bird-offerings dispute (items 1-2) and the reiach nichoach, mechitza badamim, and richutz yadayim requirements (items 4-5), as well as kohen and vestments (item 3) \u2014 making the current placement the best match despite the ordering difference.",
+      "chosen_heading": "Odor & Washing",
+      "current_heading": "Odor & Washing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Chaza v'Shoke",
+    "candidates": [
+      "Rami: How Sanctified",
+      "Chaza v'Shoke",
+      "R. Elazar Absorption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rami: How Sanctified",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rami bar \u1e24ama's first version (kodshei bamah ketanah brought to bamah gedolah have mechitza) and Rabba's objection with the Gemara's reinterpretation of the baraita \u2014 this matches candidate 0's prose about Rami's initial position and the distinction based on where vs. how sanctified.",
+      "second_heading": "Chaza v'Shoke",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the 'some say' alternative version of Rami bar \u1e24ama (kodshei bamah ketanah have no mechitza even at bamah gedolah) and the supporting baraita about chaze v'shoke \u2014 this matches candidate 1's prose exactly, which describes this second version and the baraita evidence with the Gemara's deflection.",
+      "current_heading": "Chaza v'Shoke",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "R. Elazar Absorption",
+    "candidates": [
+      "R. Elazar Absorption",
+      "Zeira Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's response about the great vs. small altar distinction and introduces Rabbi Elazar's position on absorption by partitions, which is precisely what the 'R. Elazar Absorption' section's prose discusses.",
+      "chosen_heading": "R. Elazar Absorption",
+      "current_heading": "R. Elazar Absorption",
+      "moved": false
+    }
+  }
+]

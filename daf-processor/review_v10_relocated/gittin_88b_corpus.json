@@ -1,0 +1,509 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Get Me'useh",
+    "candidates": [
+      "Mishna Get Me'useh",
+      "Rav Nachman Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about compelled bills of divorce (get me'useh), which is precisely what the 'Mishna Get Me'useh' section's prose discusses in detail.",
+      "chosen_heading": "Mishna Get Me'useh",
+      "current_heading": "Mishna Get Me'useh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Rav Nachman Ruling",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Rambam Yetzer Hara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the continuous Gemara discussion of Rav Na\u1e25man/Shmuel's ruling on compelled bills of divorce \u2014 the ruling itself, the gentile-compulsion clause, the dialectical objection, Rav Mesharshiyya's resolution, and the follow-up question \u2014 exactly the content described in the 'Rav Nachman Ruling' prose.",
+      "chosen_heading": "Rav Nachman Ruling",
+      "current_heading": "Rav Nachman Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Rambam Yetzer Hara",
+    "candidates": [
+      "Rambam Yetzer Hara",
+      "Four-Case Matrix",
+      "Rav Mesharshaya Rejected",
+      "Abaye Challenge",
+      "Rabbi Tarfon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Rav Mesharshaya Rejected' prose: item 1 is the gemara's conclusion that Rav Mesharshaya's position is a mistake, and item 2 is the gemara's explanation of k'din b'k'din d'Yisrael mechalaf / shelo k'din lo mechalaf, both of which are explicitly described in that section's prose.",
+      "chosen_heading": "Rav Mesharshaya Rejected",
+      "current_heading": "Rambam Yetzer Hara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rabbi Tarfon",
+    "candidates": [
+      "Four-Case Matrix",
+      "Rav Mesharshaya Rejected",
+      "Abaye Challenge",
+      "Rabbi Tarfon",
+      "Common Case Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's challenge to Rav Yosef ('we are mere commoners') and the Rabbi Tarfon baraita cited in support of that challenge \u2014 it is a single unit that belongs under the 'Abaye Challenge' heading, which describes exactly this scene, while the current placement under 'Rabbi Tarfon' splits the narrative artificially.",
+      "chosen_heading": "Abaye Challenge",
+      "current_heading": "Rabbi Tarfon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Common Case Exception",
+    "candidates": [
+      "Rabbi Tarfon",
+      "Common Case Exception",
+      "Theft Pushback"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's response establishing the agency principle (shelichutaihu ka avdinan) with the analogy to admissions and loans, which is precisely what the 'Common Case Exception' prose describes.",
+      "chosen_heading": "Common Case Exception",
+      "current_heading": "Common Case Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Theft Pushback",
+    "candidates": [
+      "Theft Pushback",
+      "Tosafot Semicha",
+      "Mishna Kol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the gemara text about robbery and personal injury cases and the agency principle for common vs. uncommon matters, which is precisely what the 'Theft Pushback' prose section discusses.",
+      "chosen_heading": "Theft Pushback",
+      "current_heading": "Theft Pushback",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Mishna Kol",
+    "candidates": [
+      "Tosafot Semicha",
+      "Mishna Kol",
+      "Rav Assi Single"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishna itself (the rumor of betrothal/divorce and the definition of amatla), which is precisely what candidate 1 ('Mishna Kol') describes in its prose \u2014 introducing the mishna's content about yatza shemah, mekudeshes/megureshes, and the two examples of amatla.",
+      "chosen_heading": "Mishna Kol",
+      "current_heading": "Mishna Kol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Rav Assi Single",
+    "candidates": [
+      "Rav Assi Single",
+      "Frivolous Gossip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's challenge from Rav Ashi's rule about post-marriage rumors and the resolution via 'kol v'shovro imo' \u2014 exactly the content described in the 'Rav Assi Single' prose.",
+      "chosen_heading": "Rav Assi Single",
+      "current_heading": "Rav Assi Single",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Frivolous Gossip",
+    "candidates": [
+      "Frivolous Gossip",
+      "Tannaim Adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's ruling about rumors of promiscuity carrying no halakhic weight, which is precisely what the 'Frivolous Gossip' section's prose describes and analyzes.",
+      "chosen_heading": "Frivolous Gossip",
+      "current_heading": "Frivolous Gossip",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Tannaim Adultery",
+    "candidates": [
+      "Tannaim Adultery",
+      "Ben Nuri Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Tannaitic dispute between Rabbi Meir and Rabbi Akiva about behavioral inferences (eating/walking/nursing in marketplace), which is precisely what the 'Tannaim Adultery' section's prose describes.",
+      "chosen_heading": "Tannaim Adultery",
+      "current_heading": "Tannaim Adultery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Ben Nuri Witnesses",
+    "candidates": [
+      "Ben Nuri Witnesses",
+      "No Concern List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan ben Nuri's objection using the gezera shava on 'davar,' which is precisely what the 'Ben Nuri Witnesses' prose discusses in detail.",
+      "chosen_heading": "Ben Nuri Witnesses",
+      "current_heading": "Ben Nuri Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "No Concern List",
+    "candidates": [
+      "No Concern List",
+      "Circumstantial Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are from the same baraita listing cases where rumors are not halakhically actionable \u2014 exactly what the 'No Concern List' prose describes, including the property-status rumors mentioned at the end of that prose section.",
+      "chosen_heading": "No Concern List",
+      "current_heading": "No Concern List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Circumstantial Evidence",
+    "candidates": [
+      "Circumstantial Evidence",
+      "Nitkadshah Not Mitkad"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Circumstantial Evidence",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Ulla's teaching about circumstantial evidence (candles, beds, people entering/leaving) plus the gemara's correction from mitkadeshet to nitkadshah, which matches the 'Circumstantial Evidence' prose about Ulla narrowing the operative case.",
+      "second_heading": "Nitkadshah Not Mitkad",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover Levi's parallel baraita with Rav Pappa's mitkadeshet/nitkadshah correction and Rabbi Yochanan's kol vs. amatla distinction, which directly matches the 'Nitkadshah Not Mitkad' prose describing Rav Papa, Bar Rav Papa/Rabbi Yochanan, and the kol/amatla resolution.",
+      "current_heading": "Circumstantial Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Nitkadshah Not Mitkad",
+    "candidates": [
+      "Nitkadshah Not Mitkad",
+      "Witness Tracing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the amatla/kol distinction and Rabba bar Rav Huna's position about ten days, which is precisely what the prose under 'Nitkadshah Not Mitkad' describes.",
+      "chosen_heading": "Nitkadshah Not Mitkad",
+      "current_heading": "Nitkadshah Not Mitkad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Witness Tracing",
+    "candidates": [
+      "Witness Tracing",
+      "Abaye Question",
+      "Witnesses Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the tradition of Rav Abba/Rav Huna/Rav about tracing a kol through a chain of people, culminating in the final version (via Rav Shmuel bar Yehuda) that the witnesses went overseas \u2014 precisely the content described in the 'Witness Tracing' prose.",
+      "chosen_heading": "Witness Tracing",
+      "current_heading": "Witness Tracing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Witnesses Debate",
+    "candidates": [
+      "Abaye Question",
+      "Witnesses Debate",
+      "Regional Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's question to Rav Yosef about suppressing a rumor and the initial exchange, which is precisely what the 'Abaye Question' prose describes \u2014 the dispute between Rav \u1e24isda and Rav Sheshet cited here is the content of that section's prose, not a separate topic.",
+      "chosen_heading": "Abaye Question",
+      "current_heading": "Witnesses Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Regional Practice",
+    "candidates": [
+      "Witnesses Debate",
+      "Regional Practice",
+      "Conditional Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the regional difference between Sura and Nehardea regarding suppressing rumors, which is exactly what the 'Regional Practice' prose describes.",
+      "chosen_heading": "Regional Practice",
+      "current_heading": "Regional Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Conditional Marriage",
+    "candidates": [
+      "Conditional Marriage",
+      "Dates Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the conditional betrothal case (al tenai, Bei Chuzai) that Candidate 0's prose explicitly discusses, including Rav Chama's ruling about the retroactive amatla.",
+      "chosen_heading": "Conditional Marriage",
+      "current_heading": "Conditional Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Dates Case",
+    "candidates": [
+      "Dates Case",
+      "Unnamed Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact case of a woman betrothed with a mat of dates at a specific wellspring, which matches precisely the prose under 'Dates Case' discussing the atzifa deto\u1e25ela/Bei Shifei incident and Abaye's ruling.",
+      "chosen_heading": "Dates Case",
+      "current_heading": "Dates Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Unnamed Son",
+    "candidates": [
+      "Unnamed Son",
+      "Mature Minor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the same case of a rumor about betrothal to an unnamed son, and candidate 0's prose directly describes Rava's ruling about suppressing the rumor when the son is unspecified \u2014 an exact match to the passage's content.",
+      "chosen_heading": "Unnamed Son",
+      "current_heading": "Unnamed Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Mature Minor",
+    "candidates": [
+      "Mature Minor",
+      "Ten Days Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of a minor who appeared physically mature and the precedent invoking 'phalgut Reuven,' which is precisely what the 'Mature Minor' section's prose discusses in detail.",
+      "chosen_heading": "Mature Minor",
+      "current_heading": "Mature Minor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Ten Days Later",
+    "candidates": [
+      "Ten Days Later",
+      "Possible Amatla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabba bar Rav Huna's 'ten days' ruling and Rav Zevid's 'possible amatla' view together, but the current placement under 'Ten Days Later' is where this combined passage sits, and the prose of heading 0 explicitly discusses Rabba bar Rav Huna's lenient position about ten days \u2014 the natural home for this passage which opens with that ruling before introducing Rav Zevid's view.",
+      "chosen_heading": "Ten Days Later",
+      "current_heading": "Ten Days Later",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Possible Amatla",
+    "candidates": [
+      "Possible Amatla",
+      "Conditional Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Pappa's objection to Rav Zevid and Rav Zevid's response about 'bimkom amatla,' which is precisely the content discussed in the 'Possible Amatla' section's prose.",
+      "chosen_heading": "Possible Amatla",
+      "current_heading": "Possible Amatla",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Conditional Kiddushin",
+    "candidates": [
+      "Conditional Kiddushin",
+      "Husband Contest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's challenge to Rav Pappa citing the mishna about conditional betrothal (al tenai kiddesh), which is precisely the content the 'Conditional Kiddushin' prose describes as the case from Yevamos supporting Rav Zvid's position.",
+      "chosen_heading": "Conditional Kiddushin",
+      "current_heading": "Conditional Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Husband Contest",
+    "candidates": [
+      "Husband Contest",
+      "Nisuin Issur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous dialectical exchange about the husband's contestation and its consequences, which is precisely what the 'Husband Contest' prose describes \u2014 the husband's objection driving the gemara's reasoning, followed by the question of why she can't return even after cohabitation, leading to the penalty principle.",
+      "chosen_heading": "Husband Contest",
+      "current_heading": "Husband Contest",
+      "moved": false
+    }
+  }
+]

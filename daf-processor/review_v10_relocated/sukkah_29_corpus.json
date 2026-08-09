@@ -1,0 +1,402 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Fixed Sukkah Principle",
+    "candidates": [
+      "Fixed Sukkah Principle",
+      "Vessels & Furnishings",
+      "Activities in Sukkah",
+      "Migras vs Iyunei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage establishes the foundational principle of sukkato keva uveito arai, derives it from the verse teshvu ke'ein taduru, and includes the concrete examples of vessels, bedding, and activities \u2014 all of which together form the complete braita that heading 0's prose describes as establishing the foundational principle anchored in scripture.",
+      "chosen_heading": "Fixed Sukkah Principle",
+      "current_heading": "Fixed Sukkah Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Migras vs Iyunei",
+    "candidates": [
+      "Vessels & Furnishings",
+      "Activities in Sukkah",
+      "Migras vs Iyunei",
+      "Rava & Rami Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's distinction between migras and iyunei study in the sukkah, which is precisely what the 'Migras vs Iyunei' section's prose discusses.",
+      "chosen_heading": "Migras vs Iyunei",
+      "current_heading": "Migras vs Iyunei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rava & Rami Example",
+    "candidates": [
+      "Rava & Rami Example",
+      "Sukkah as Home",
+      "Glasses vs Dishes",
+      "Pitchers & Buckets",
+      "Candles Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava and Rami bar Chama's practice before Rav Chisda, which is exactly what the 'Rava & Rami Example' section's prose discusses.",
+      "chosen_heading": "Rava & Rami Example",
+      "current_heading": "Rava & Rami Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Candles Placement",
+    "candidates": [
+      "Sukkah as Home",
+      "Glasses vs Dishes",
+      "Pitchers & Buckets",
+      "Candles Placement",
+      "Welcoming Environment",
+      "Spoiled Porridge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Candles Placement' prose covers: drinking vessels staying in the sukkah, eating vessels being removed, earthenware jugs removed, and the lamp (sharaga) debate resolved by large vs. small sukkah \u2014 the current placement is correct.",
+      "chosen_heading": "Candles Placement",
+      "current_heading": "Candles Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Spoiled Porridge",
+    "candidates": [
+      "Welcoming Environment",
+      "Spoiled Porridge",
+      "Rav Yosef Fastidious"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the tosefta teaching about when the congealed dish of pounded grain spoils as the threshold for leaving the sukkah due to rain, which is precisely what the 'Spoiled Porridge' section's prose discusses.",
+      "chosen_heading": "Spoiled Porridge",
+      "current_heading": "Spoiled Porridge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Yosef Fastidious",
+    "candidates": [
+      "Rav Yosef Fastidious",
+      "Continuity Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye and Rav Yosef's exchange about debris from the schach and Rav Yosef's claim of being aninei da'at, which is precisely what the 'Rav Yosef Fastidious' section's prose discusses in detail.",
+      "chosen_heading": "Rav Yosef Fastidious",
+      "current_heading": "Rav Yosef Fastidious",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Continuity Rule",
+    "candidates": [
+      "Continuity Rule",
+      "Master Parable",
+      "Two Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the continuity rule for returning to the sukkah after rain \u2014 eating until the meal is done and sleeping until waking/dawn \u2014 which is precisely what the 'Continuity Rule' prose elaborates in detail.",
+      "chosen_heading": "Continuity Rule",
+      "current_heading": "Continuity Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Two Interpretations",
+    "candidates": [
+      "Master Parable",
+      "Two Interpretations",
+      "God's Presence",
+      "Solar Eclipse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the parable introduction and the baraita resolution (master pours water on servant's face), which together constitute the full parable unit described in the 'Master Parable' section's prose, rather than the interpretive analysis that belongs under 'Two Interpretations'.",
+      "chosen_heading": "Master Parable",
+      "current_heading": "Two Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Solar Eclipse",
+    "candidates": [
+      "God's Presence",
+      "Solar Eclipse",
+      "Lunar Eclipse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about solar eclipse being a bad omen for the entire world, with the parable of the king removing the lantern \u2014 which is precisely what the 'Solar Eclipse' section's prose describes and analyzes.",
+      "chosen_heading": "Solar Eclipse",
+      "current_heading": "Solar Eclipse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Lunar Eclipse",
+    "candidates": [
+      "Lunar Eclipse",
+      "Eclipse Position",
+      "Color & Timing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lunar Eclipse",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Meir's baraita about the strap parable) is explicitly discussed in the 'Lunar Eclipse' prose section, which quotes the same teaching and parable.",
+      "second_heading": "Eclipse Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins with the sun/moon contrast and then moves into eclipse position (east/west/middle of sky), which is precisely what the 'Eclipse Position' prose section covers.",
+      "current_heading": "Lunar Eclipse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Color & Timing",
+    "candidates": [
+      "Eclipse Position",
+      "Color & Timing",
+      "Lesser Deities",
+      "God's Will Protection",
+      "Separation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the color of the eclipsed sun (blood-red vs. sackcloth black) and timing (entry vs. departure), which directly matches the 'Color & Timing' section's prose about these exact topics.",
+      "chosen_heading": "Color & Timing",
+      "current_heading": "Color & Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Separation Principle",
+    "candidates": [
+      "Lesser Deities",
+      "God's Will Protection",
+      "Separation Principle",
+      "Four Solar Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'no nation is afflicted without its god being afflicted' principle AND the Jeremiah verse about not fearing signs, and candidate 0's prose explicitly covers both elements together as a unified statement, while candidates 1 and 2 split them artificially \u2014 the Gemara presents them as one continuous teaching that belongs under 'Lesser Deities' where the prose already addresses both the deity-affliction principle and its corollary about Israel's protection.",
+      "chosen_heading": "Lesser Deities",
+      "current_heading": "Separation Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Four Solar Reasons",
+    "candidates": [
+      "Separation Principle",
+      "Four Solar Reasons",
+      "Four Lunar Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists exactly the four reasons the sun is eclipsed (av beit din, betrothed maiden, homosexuality, two brothers), matching precisely the prose of 'Four Solar Reasons' which describes and analyzes these same four items.",
+      "chosen_heading": "Four Solar Reasons",
+      "current_heading": "Four Solar Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Four Lunar Reasons",
+    "candidates": [
+      "Four Lunar Reasons",
+      "Four Seizure Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the four reasons heavenly lights are eclipsed (forged documents, false testimony, small livestock in Eretz Yisrael, cutting good trees), which is exactly what the 'Four Lunar Reasons' section prose discusses in detail.",
+      "chosen_heading": "Four Lunar Reasons",
+      "current_heading": "Four Lunar Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Four Seizure Reasons",
+    "candidates": [
+      "Four Seizure Reasons",
+      "Arrogance Root"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items list the four reasons property is seized by the monarchy, which is precisely what the 'Four Seizure Reasons' prose section discusses in detail.",
+      "chosen_heading": "Four Seizure Reasons",
+      "current_heading": "Four Seizure Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Arrogance Root",
+    "candidates": [
+      "Arrogance Root",
+      "Stolen & Dried",
+      "Avodah Zarah Trees",
+      "Cut/Spread Leaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's teaching about four causes of property loss, culminating in arrogance (gasut haruach) being equal to all others combined and the humble inheriting the earth \u2014 exactly what the 'Arrogance Root' prose section discusses in detail.",
+      "chosen_heading": "Arrogance Root",
+      "current_heading": "Arrogance Root",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Cut/Spread Leaves",
+    "candidates": [
+      "Stolen & Dried",
+      "Avodah Zarah Trees",
+      "Cut/Spread Leaves",
+      "Height Requirement",
+      "Rashi on Hadar",
+      "Tosafos on Hadar",
+      "Chol HaMoed Question"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Stolen & Dried",
+      "current_heading": "Cut/Spread Leaves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Chol HaMoed Question",
+    "candidates": [
+      "Height Requirement",
+      "Rashi on Hadar",
+      "Tosafos on Hadar",
+      "Chol HaMoed Question",
+      "Hadar All Days",
+      "Stolen Lulav Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's observation that the mishna teaches the ruling without distinction between first and second day of the festival, which is precisely what the 'Chol HaMoed Question' prose describes as 'lo shna beyom tov rishon velo shna beyom tov sheni.'",
+      "chosen_heading": "Chol HaMoed Question",
+      "current_heading": "Chol HaMoed Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Stolen Lulav Problem",
+    "candidates": [
+      "Hadar All Days",
+      "Stolen Lulav Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage addresses both the dry lulav (briefly) and the stolen lulav question on the second day, matching exactly the 'Stolen Lulav Problem' section's prose which discusses bishlama yavesh, then focuses on the lachem/mishelachem distinction and why a stolen lulav would be invalid on Chol HaMoed.",
+      "chosen_heading": "Stolen Lulav Problem",
+      "current_heading": "Stolen Lulav Problem",
+      "moved": false
+    }
+  }
+]

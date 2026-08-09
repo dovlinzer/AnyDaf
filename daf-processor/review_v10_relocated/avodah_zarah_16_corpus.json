@@ -1,0 +1,359 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Responsibility Scope",
+    "candidates": [
+      "Tosafot's Question",
+      "Shabbat Concern",
+      "Takkanah Limits",
+      "Business Restriction",
+      "Davar Ha'avad",
+      "Lifnei De-Lifnei",
+      "Non-Jews Exempt",
+      "Differential Duty",
+      "Cheeseburger Case",
+      "Responsibility Scope",
+      "Ashisheiot",
+      "Spades Question",
+      "Persian Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage discusses selling shields (terisin) to gentiles and whether the concern is that they protect them in battle \u2014 which is precisely the topic of the 'Spades Question' section about selling items that could be used militarily, with the parallel logic that one does not prohibit all useful items merely because they could theoretically enable harm.",
+      "chosen_heading": "Spades Question",
+      "current_heading": "Responsibility Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Persian Exception",
+    "candidates": [
+      "Ashisheiot",
+      "Spades Question",
+      "Persian Exception",
+      "Agnlim Vesichim",
+      "Shvura",
+      "Reproduction Risk",
+      "Marit Ayin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Spades Question",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses the shield dispute and halakhic ruling about shields (terisin), which fits under 'Spades Question' as a parallel discussion about defensive implements and their permissibility, though it could also relate to the broader shields discussion preceding the current placement.",
+      "second_heading": "Persian Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the content described in the 'Persian Exception' prose \u2014 Rav Adda's ruling on iron ingots, the spades challenge, Rav Zvid's Indian iron refinement, and Rav Ashi's Persian protection exception \u2014 matching that section's prose almost word for word.",
+      "current_heading": "Persian Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Marit Ayin",
+    "candidates": [
+      "Agnlim Vesichim",
+      "Shvura",
+      "Reproduction Risk",
+      "Marit Ayin",
+      "Ben Beteira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the Rabbis' counterargument about reproduction risk and Rabbi Yehuda's response, including the Gemara's conclusion that a damaged animal cannot accept a male \u2014 all of which directly matches the 'Reproduction Risk' prose section.",
+      "chosen_heading": "Reproduction Risk",
+      "current_heading": "Marit Ayin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Ben Beteira",
+    "candidates": [
+      "Marit Ayin",
+      "Ben Beteira",
+      "Rabbi's Reasons",
+      "Horse Weapon",
+      "Millstone Work",
+      "Lo Plug",
+      "Ruling",
+      "Patam Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ben Beteira",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Ben Beteira's permit and Rabbi's two reasons, which matches the 'Ben Beteira' section prose discussing exactly this Braita and its reasoning, as well as the 'Rabbi's Reasons' section \u2014 but since item 1 covers both Ben Beteira's ruling AND Rabbi's two reasons together, and the current placement under 'Ben Beteira' is where the Braita introducing both positions naturally sits, while item 2 specifically addresses the Gemara's question about 'toras behemah gassa' and the millstone resolution, item 2 belongs under 'Horse Weapon' or 'Millstone Work'.",
+      "second_heading": "Horse Weapon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's discussion of why a horse has the status of large livestock (the millstone question and resolution), which matches the 'Horse Weapon' prose that explicitly discusses the difficulty with the second reason and the millstone scenario.",
+      "current_heading": "Ben Beteira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Patam Dispute",
+    "candidates": [
+      "Rabbi's Reasons",
+      "Horse Weapon",
+      "Millstone Work",
+      "Lo Plug",
+      "Ruling",
+      "Patam Dispute",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma about a fattened ox (shor shel patam) and frames it as a double-sided inquiry regarding Rabbi Yehuda and the Rabbis, which is precisely what the 'Patam Dispute' prose introduces and discusses.",
+      "chosen_heading": "Patam Dispute",
+      "current_heading": "Patam Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Baraita Proof",
+      "Rabbi's Tribute",
+      "Negotiation 1",
+      "Negotiation 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two halves of the same Talmudic dilemma about whether Rabbi Yehuda and the Rabbis would permit or prohibit the sale of a fattened ox, which is precisely what the 'Baraita Proof' prose describes \u2014 framing the question around Rabbi Yehuda's broken-limb ruling versus the Rabbis' position regarding an animal destined for slaughter.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Baraita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Negotiation 2",
+    "candidates": [
+      "Rabbi's Tribute",
+      "Negotiation 1",
+      "Negotiation 2",
+      "Inference",
+      "Elimination Goal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the entire narrative \u2014 the fattened ox tribute, all three payments, and the final elimination \u2014 as a single Talmudic unit, and candidate 0 ('Rabbi's Tribute') is the section that introduces this datum, making it the correct home for the whole quoted passage.",
+      "chosen_heading": "Rabbi's Tribute",
+      "current_heading": "Negotiation 2",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Elimination Goal",
+    "candidates": [
+      "Inference",
+      "Elimination Goal",
+      "Dangerous Animals",
+      "Responsibility",
+      "Stadiums",
+      "Hatzalat",
+      "Execution Structures",
+      "Bathhouses",
+      "Tashmish",
+      "Pirchus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Elimination Goal",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Gemara's rejection of the inference about Rabbi's conduct (explaining it as a gradual elimination strategy) and the follow-up about the fattened ox becoming fit for labor \u2014 both directly addressed in the 'Elimination Goal' prose.",
+      "second_heading": "Dangerous Animals",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new Mishnah (marked 'MISHNA:') introducing an entirely different topic \u2014 selling dangerous animals and building prohibited structures for non-Jews \u2014 which corresponds precisely to the 'Dangerous Animals' section's prose.",
+      "current_heading": "Elimination Goal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Pirchus",
+    "candidates": [
+      "Dangerous Animals",
+      "Responsibility",
+      "Stadiums",
+      "Hatzalat",
+      "Execution Structures",
+      "Bathhouses",
+      "Tashmish",
+      "Pirchus",
+      "Not Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly states Rav's ruling that a chaya gassa is like small livestock for pirchus but not for sale, which is precisely what the 'Pirchus' section's prose describes.",
+      "chosen_heading": "Pirchus",
+      "current_heading": "Pirchus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Not Forbidden",
+    "candidates": [
+      "Not Forbidden",
+      "Baraita",
+      "Broken Leg",
+      "Rav Ashi",
+      "Nachman",
+      "What Work",
+      "Millstone Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous discussion about whether large wild animals (chaya gassa) may be sold to gentiles, including Rav \u1e24anan bar Rava's position, the mishna challenge, Rabba bar Ulla's and Rav Ashi's resolutions, Ravina's parallel version, Rav Na\u1e25man's objection, and the conclusive refutations \u2014 all of which are explicitly described in heading 0's prose.",
+      "chosen_heading": "Not Forbidden",
+      "current_heading": "Not Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Millstone Use",
+    "candidates": [
+      "Baraita",
+      "Broken Leg",
+      "Rav Ashi",
+      "Nachman",
+      "What Work",
+      "Millstone Use",
+      "Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage asks 'what labor can a large beast perform?' which directly matches the 'What Work' section's prose about asking 'mai melacha avdi \u2014 what kind of work would a large wild animal actually do?', while the answer about millstones belongs under 'Millstone Use' \u2014 but since all items must go under ONE heading and this single item contains both the question and answer, it best fits under 'What Work' which frames the question that this passage poses and answers together.",
+      "chosen_heading": "What Work",
+      "current_heading": "Millstone Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Source",
+    "candidates": [
+      "Millstone Use",
+      "Source",
+      "Rav or Shmuel",
+      "Authorities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Zeira's account of Rav Yehuda's transmission of the pirchus ruling with uncertainty about its source, which is precisely what the 'Source' section's prose describes.",
+      "chosen_heading": "Source",
+      "current_heading": "Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Authorities",
+    "candidates": [
+      "Rav or Shmuel",
+      "Authorities",
+      "Both Authorities",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Authorities",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rav Zeira's travels to Korkoneya and Sura, discovering the ruling attributed to both Shmuel and Rav, which matches exactly the 'Authorities' prose describing those same discoveries.",
+      "second_heading": "Both Authorities",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Rav Zeira's encounter with Rav Assi in Eretz Yisrael and the 'minai u-minach' resolution combining both attributions, which matches exactly the 'Both Authorities' prose discussing that same exchange and resolution.",
+      "current_heading": "Authorities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Both Authorities",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records the full transmission chain ending with Rav's ruling about chaya gassa, which is precisely what the 'Conclusion' prose describes as the final formulation confirming the established ruling.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Conclusion",
+      "moved": false
+    }
+  }
+]

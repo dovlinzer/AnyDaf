@@ -1,0 +1,230 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Opening",
+      "Mishna Structure",
+      "Rabbi Akiva",
+      "Rashi's Explanation",
+      "Linguistic Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rabbi Akiva dispute quoted and discussed in candidate 2's prose \u2014 the oath not to eat any amount, the Sages' challenge about the minimum threshold, and Rabbi Akiva's response about speech acts bringing a korban.",
+      "chosen_heading": "Rabbi Akiva",
+      "current_heading": "Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Linguistic Ambiguity",
+    "candidates": [
+      "Rashi's Explanation",
+      "Linguistic Ambiguity",
+      "Abaye: Context Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial inference that 'she-ochel' means 'I will eat' and immediately raises the contradiction from the mishna in Nedarim, which is precisely what the prose under 'Linguistic Ambiguity' describes \u2014 the challenge that the same words bear different meanings in different sources.",
+      "chosen_heading": "Linguistic Ambiguity",
+      "current_heading": "Linguistic Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Abaye: Context Matters",
+    "candidates": [
+      "Abaye: Context Matters",
+      "Pressure Scenarios",
+      "Rav Ashi",
+      "Mivta Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's resolution distinguishing between contexts of pressure and no pressure, which is precisely what heading 0 ('Abaye: Context Matters') describes in its prose.",
+      "chosen_heading": "Abaye: Context Matters",
+      "current_heading": "Abaye: Context Matters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Mivta Definition",
+    "candidates": [
+      "Pressure Scenarios",
+      "Rav Ashi",
+      "Mivta Definition",
+      "Issur as Technical Term"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pressure Scenarios",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's resolution distinguishing the Mishna (no pressure) from the Baraita (pressure context), which is precisely what the 'Pressure Scenarios' prose describes \u2014 Abaye's distinction between misarvin and ein misarvin.",
+      "second_heading": "Rav Ashi",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Ashi's alternative textual emendation (tani she-ee ochal) and the slip-of-tongue concern, which matches exactly the 'Rav Ashi' section's prose description of his reading and the Gemara's pushback about novelty.",
+      "current_heading": "Mivta Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Issur as Technical Term",
+    "candidates": [
+      "Mivta Definition",
+      "Issur as Technical Term",
+      "Mifas Concept",
+      "Baraita Framework",
+      "Abaye Position",
+      "Tosafot Explanation",
+      "Apple Illustration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Baraita establishing mivta and issar as shevuah terms and then flags the apparent contradiction ('you just said issar is a shevuah, yet you treat it as an open question'), which is precisely what the prose of candidate 1 ('Issur as Technical Term') describes and discusses.",
+      "chosen_heading": "Issur as Technical Term",
+      "current_heading": "Issur as Technical Term",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Apple Illustration",
+    "candidates": [
+      "Mifas Concept",
+      "Baraita Framework",
+      "Abaye Position",
+      "Tosafot Explanation",
+      "Apple Illustration",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct statement interpreting the Baraita \u2014 defining 'mivta' as an oath and 'issar' as hatfasa onto an oath, then raising the question of whether it is kemotzi shevuah mipiv dami \u2014 which is precisely what the 'Abaye Position' prose section describes.",
+      "chosen_heading": "Abaye Position",
+      "current_heading": "Apple Illustration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Apple Illustration",
+      "Rava Position",
+      "Baraita on Issur",
+      "Wine and Meat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous Gemara discussion about the derivation of 'mivta' and 'issar' as oaths, culminating in the Abaye-Rava dispute about matfis b'shevuah kemotzi shevuah mipiv dami, which is precisely what the 'Rava Position' prose describes.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Rava Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Wine and Meat Case",
+    "candidates": [
+      "Baraita on Issur",
+      "Wine and Meat Case",
+      "Rava's Reinterpretation",
+      "Neder vs. Shevu'a"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the complete unit of the baraita being raised as an objection (items 1-3) and Rava's reinterpretation of it (item 4), which is precisely what heading 0 ('Baraita on Issur') describes \u2014 the baraita addressing eizehu issar ha'amur b'Torah and its implications \u2014 while headings 1 and 2 describe the content of the baraita and Rava's response separately, suggesting the current placement splits what should be one unit across two sections.",
+      "chosen_heading": "Baraita on Issur",
+      "current_heading": "Wine and Meat Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Neder vs. Shevu'a",
+    "candidates": [
+      "Rava's Reinterpretation",
+      "Neder vs. Shevu'a",
+      "Davar Hanadur",
+      "Tzom Gedaliah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly explains the verse 'ad she-yidor b'davar hanadur' \u2014 why a neder must connect to something already forbidden through a neder \u2014 which is precisely the topic of the 'Davar Hanadur' section.",
+      "chosen_heading": "Davar Hanadur",
+      "current_heading": "Neder vs. Shevu'a",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Tzom Gedaliah",
+    "candidates": [
+      "Davar Hanadur",
+      "Tzom Gedaliah",
+      "Yochanan's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's analysis of Tzom Gedaliah as a reference-day for a vow, including the salka datach amina and kamashma lan reasoning about whether a neder can take effect on top of an existing fast-day prohibition \u2014 exactly what the 'Tzom Gedaliah' section's prose addresses.",
+      "chosen_heading": "Tzom Gedaliah",
+      "current_heading": "Tzom Gedaliah",
+      "moved": false
+    }
+  }
+]

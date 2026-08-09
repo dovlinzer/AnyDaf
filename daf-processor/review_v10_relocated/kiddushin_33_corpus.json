@@ -1,0 +1,319 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabban Gamliel Story",
+    "candidates": [
+      "Rav Mochel - Intro",
+      "Even After Mechila",
+      "Nasi Cannot Mechel",
+      "Rabban Gamliel Story",
+      "Eliezer vs. Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Rabban Gamliel Story' prose \u2014 the baraita about Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Tzadok reclining at Rabban Gamliel's son's wedding feast, with Rabban Gamliel serving drinks \u2014 which is the objection raised against Rav Ashi's statement about the nasi, and the prose of heading 3 explicitly discusses this baraita and its significance as an objection.",
+      "chosen_heading": "Rabban Gamliel Story",
+      "current_heading": "Rabban Gamliel Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Eliezer vs. Yehoshua",
+    "candidates": [
+      "Eliezer vs. Yehoshua",
+      "Tzadok's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua's argument invoking Abraham as the precedent for serving guests, which is explicitly described and analyzed in the 'Eliezer vs. Yehoshua' prose section.",
+      "chosen_heading": "Eliezer vs. Yehoshua",
+      "current_heading": "Eliezer vs. Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Tzadok's Critique",
+    "candidates": [
+      "Tzadok's Critique",
+      "King Cannot Mechel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Tzadok's speech contrasting honor of God versus honor of people, directly matching the 'Tzadok's Critique' section prose which explicitly discusses this reframing and quotes the same argument.",
+      "chosen_heading": "Tzadok's Critique",
+      "current_heading": "Tzadok's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "King Cannot Mechel",
+    "candidates": [
+      "King Cannot Mechel",
+      "The Pasuk",
+      "Tanna Kamma View",
+      "R. Yosei HaGlili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses how a king cannot forgo his honor (mechila) and the verse 'som tasim alecha melech' signifying that the king's fear must remain upon the people \u2014 directly matching the 'King Cannot Mechel' section's prose.",
+      "chosen_heading": "King Cannot Mechel",
+      "current_heading": "King Cannot Mechel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "R. Yosei HaGlili",
+    "candidates": [
+      "The Pasuk",
+      "Tanna Kamma View",
+      "R. Yosei HaGlili",
+      "Issi ben Yehuda",
+      "One or Two Categories",
+      "Tanna Kamma vs. R. Yosei",
+      "Does Hiddur Cost Money",
+      "Gezeira Shava",
+      "Craftsworkers Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "R. Yosei HaGlili",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20139 cover the baraita analyzing the verse (tanna kamma, R. Yosei HaGlili, distance/bathhouse/closing eyes, R. Shimon ben Elazar, Issi ben Yehuda) and the Gemara's dialectic comparing tanna kamma vs. R. Yosei HaGlili, all of which the prose under heading 2 ('R. Yosei HaGlili') explicitly discusses in detail.",
+      "second_heading": "Does Hiddur Cost Money",
+      "second_confidence": "high",
+      "second_reason": "Item 10 reopens the question of whether hiddur costs money and challenges the premise that kima involves no monetary loss (the pearl-piercing case), which is precisely what heading 6 ('Does Hiddur Cost Money') describes.",
+      "current_heading": "R. Yosei HaGlili",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Craftsworkers Exception",
+    "candidates": [
+      "Issi ben Yehuda",
+      "One or Two Categories",
+      "Tanna Kamma vs. R. Yosei",
+      "Does Hiddur Cost Money",
+      "Gezeira Shava",
+      "Craftsworkers Exception",
+      "Bikkurim Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the hekesh running in both directions (kima to hiddur and hiddur to kima) and derives the craftsmen ruling, which is precisely what the 'Gezeira Shava' section's prose describes \u2014 the resolution via bidirectional analogy leading to the practical ruling about craftsmen.",
+      "chosen_heading": "Gezeira Shava",
+      "current_heading": "Craftsworkers Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Bikkurim Story",
+    "candidates": [
+      "Craftsworkers Exception",
+      "Bikkurim Story",
+      "Four Amot Rule",
+      "Abaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All nine items cover exactly the topics described in the 'Bikkurim Story' prose: the craftsmen/bikkurim mishna, Rabbi Yochanan's answer, Rabbi Yosei bar Avin's lesson about mitzvah in its time, and then the bathhouse incidents with Rabbi Chiyya, bar Kappara, and the inner/outer room resolution \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Bikkurim Story",
+      "current_heading": "Bikkurim Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Four Amot Rule",
+      "Abaye's Position",
+      "Donkey Ear Story",
+      "Attention Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the four-cubits rule (Item 1a) and Abaye's qualification (Item 1b), but since the four-amot baraita is the opening of this text and candidate 0's prose explicitly quotes and discusses 'tanna eizehu kima she-yesh bah hiddur \u2014 havei omer ze arba amot' while candidate 1's prose discusses only Abaye's qualification, the full passage (which includes both) fits better under candidate 0 which introduces the baraita that Abaye is then qualifying \u2014 however, given that candidate 1's prose also covers Abaye's statement in detail, the current placement under 'Abaye's Position' is also defensible, making this a close call favoring candidate 0 as the natural home for the combined passage.",
+      "chosen_heading": "Four Amot Rule",
+      "current_heading": "Abaye's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Attention Requirement",
+    "candidates": [
+      "Donkey Ear Story",
+      "Attention Requirement",
+      "Don't Burden Others",
+      "Abaye Takes Detours"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the donkey-ear story (Abaye rising at the sight of Rav Yosef's donkey's ear) and the river incident (Abaye and Rav Mesharshiyya), and the 'Donkey Ear Story' prose explicitly introduces and discusses both anecdotes together, making it the correct home for this unified Talmudic passage.",
+      "chosen_heading": "Donkey Ear Story",
+      "current_heading": "Attention Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Abaye Takes Detours",
+    "candidates": [
+      "Don't Burden Others",
+      "Abaye Takes Detours",
+      "Mata Mechasya Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Shimon ben Elazar's teaching about not burdening others AND Abaye's tradition about circumnavigating, but the essay splits these into two separate headings \u2014 however, the passage is a single continuous Talmudic excerpt and its primary content (Rabbi Shimon ben Elazar's statement) clearly belongs under heading 0 'Don't Burden Others', which directly discusses that teaching, while heading 1 only discusses Abaye's practice separately.",
+      "chosen_heading": "Don't Burden Others",
+      "current_heading": "Abaye Takes Detours",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Mata Mechasya Story",
+    "candidates": [
+      "Abaye Takes Detours",
+      "Mata Mechasya Story",
+      "Halakha ke-Issi",
+      "R. Yochanan and Elders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident discussed in the 'Mata Mechasya Story' prose \u2014 Ravina sitting before Rav Yirmeya of Difti, the uncovered-head incident, and the explanation about Mata Mechasya \u2014 matching perfectly with the current placement.",
+      "chosen_heading": "Mata Mechasya Story",
+      "current_heading": "Mata Mechasya Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "R. Yochanan and Elders",
+    "candidates": [
+      "Halakha ke-Issi",
+      "R. Yochanan and Elders",
+      "Rava's Approach",
+      "Personal vs. Servant Help"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Isi ben Yehuda's ruling and Rabbi Yochanan's statement of halakha plus his practice with gentile elders and Rava's response \u2014 all of this content is introduced under heading 0 ('Halakha ke-Issi'), which explicitly covers Isi's position, Rabbi Yochanan's ruling, and the extension to elderly people generally, making it the better single home for the entire passage rather than splitting it across headings 1 and 2.",
+      "chosen_heading": "Halakha ke-Issi",
+      "current_heading": "R. Yochanan and Elders",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Personal vs. Servant Help",
+    "candidates": [
+      "Rava's Approach",
+      "Personal vs. Servant Help",
+      "Rav Nachman's Logic",
+      "Twice Daily Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three sages (Abaye, Rava, Rav Nachman) and their methods of assisting elders, which directly matches the 'Personal vs. Servant Help' section's prose discussing the same three figures and their approaches.",
+      "chosen_heading": "Personal vs. Servant Help",
+      "current_heading": "Personal vs. Servant Help",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Twice Daily Limit",
+    "candidates": [
+      "Rav Nachman's Logic",
+      "Twice Daily Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rav Yannai ruling about the twice-daily limit and the immediately following objection from Rabbi Shimon ben Elazar, which is precisely what the 'Twice Daily Limit' prose section discusses in detail.",
+      "chosen_heading": "Twice Daily Limit",
+      "current_heading": "Twice Daily Limit",
+      "moved": false
+    }
+  }
+]

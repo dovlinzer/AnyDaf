@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Sides & Ocean",
+    "candidates": [
+      "Keruvim Imagery",
+      "Machzor Illustrations",
+      "Lo Ta'aseh Pesel",
+      "Shitiyah Stone",
+      "Sides & Ocean",
+      "Zion Creation",
+      "Generations Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the baraita about the three-way dispute on where the world was created (Eliezer: from center, Yehoshua: from sides, Yitzchak: from the sea), which the essay's 'Shitiyah Stone' prose explicitly introduces as the gemara identifying the Even ha-Shitiyah as the foundation stone and noting the world was created from Zion \u2014 this baraita is the direct continuation of that discussion, not the 'Sides & Ocean' section where it currently sits.",
+      "chosen_heading": "Shitiyah Stone",
+      "current_heading": "Sides & Ocean",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Generations Dispute",
+    "candidates": [
+      "Zion Creation",
+      "Generations Dispute",
+      "Sprinkle Procedure",
+      "Kematzlif Motion",
+      "Not Hitting Kapporet",
+      "Rashi vs Chananel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly match the 'Generations Dispute' prose, which describes Rabbi Eliezer ha-Gadol's baraita about heaven-things from heavens and earth-things from earth, followed by the Sages' counter-opinion that both were created from Zion \u2014 exactly what items 2 and 3 contain, with item 1 providing the Rabbis' Zion opinion that sets up the dispute.",
+      "chosen_heading": "Generations Dispute",
+      "current_heading": "Generations Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Rashi vs Chananel",
+    "candidates": [
+      "Sprinkle Procedure",
+      "Kematzlif Motion",
+      "Not Hitting Kapporet",
+      "Rashi vs Chananel",
+      "Repetition Question",
+      "Before Not On"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kematzlif Motion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question 'what is kematzlif?' and Rav Yehuda's demonstration, which is precisely what the 'Kematzlif Motion' prose discusses.",
+      "second_heading": "Not Hitting Kapporet",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Tosefta teaching that the kohen gadol sprinkles against the thickness of the kapporet and not on it, with hand-orientation details, which is exactly what the 'Not Hitting Kapporet' prose describes.",
+      "current_heading": "Rashi vs Chananel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Before Not On",
+    "candidates": [
+      "Repetition Question",
+      "Before Not On",
+      "Which Redundancy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the derivation from the verse (Item 1: why 'downward' is redundant by the goat) and the hermeneutic conclusion (Item 2: the repetition juxtaposes 'al' with 'lifnei'), which is precisely the content described in candidate 0 ('Repetition Question') \u2014 the gemara's analysis of why the Torah restates the verse by the se'ir when the equation was already established by ka'asher asah le-dam ha-par.",
+      "chosen_heading": "Repetition Question",
+      "current_heading": "Before Not On",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Which Redundancy",
+    "candidates": [
+      "Before Not On",
+      "Which Redundancy",
+      "Below Seven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'which redundancy teaches what' debate \u2014 item 1 raises the contrary argument that 'al' by the par is the extra element (teaching literal 'upon'), and item 2 resolves it with 'hai mai,' explaining that the lifnei by the se'ir must be the extra element because the al by the par has independent work to do for the binyan av of Rabbi Eliezer ben Yaakov \u2014 exactly the content described in candidate 1's prose.",
+      "chosen_heading": "Which Redundancy",
+      "current_heading": "Which Redundancy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Below Seven",
+    "candidates": [
+      "Below Seven",
+      "Category Principle",
+      "Equivalency Role",
+      "Meir vs Yehudah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Below Seven",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 derive how many sprinklings are performed downward for the goat (seven), matching the 'Below Seven' prose exactly.",
+      "second_heading": "Category Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 derive how many sprinklings are performed upward for the bull (one), matching the 'Category Principle' prose which discusses the parallel derivation for above by the par.",
+      "current_heading": "Below Seven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Meir vs Yehudah",
+    "candidates": [
+      "Category Principle",
+      "Equivalency Role",
+      "Meir vs Yehudah",
+      "No Disagreement",
+      "Continuing Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita dispute between Rabbi Meir and Rabbi Yehuda about how the High Priest counted the sprinklings, which is exactly what the 'Meir vs Yehudah' section prose describes.",
+      "chosen_heading": "Meir vs Yehudah",
+      "current_heading": "Meir vs Yehudah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Continuing Count",
+    "candidates": [
+      "No Disagreement",
+      "Continuing Count",
+      "Verb Repetition",
+      "Counting Difference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Disagreement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's resolution that the two opinions do not disagree but follow regional conventions, which matches exactly the 'No Disagreement' prose.",
+      "second_heading": "Continuing Count",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rabbi Elazar's and Rabbi Yochanan's reasons why the first sprinkling must be counted with each subsequent one, which matches exactly the 'Continuing Count' and 'Verb Repetition' prose \u2014 and since both belong under 'Continuing Count' as the starting section for that discussion, that is the correct placement.",
+      "current_heading": "Continuing Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Counting Difference",
+    "candidates": [
+      "Verb Repetition",
+      "Counting Difference",
+      "Yehudah Confusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the practical difference between Rabbi Elazar and Rabbi Yochanan regarding counting, which is exactly what the 'Counting Difference' section's prose discusses.",
+      "chosen_heading": "Counting Difference",
+      "current_heading": "Counting Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Yehudah Confusion",
+    "candidates": [
+      "Yehudah Confusion",
+      "Challenge Writing",
+      "Thirteen Shofarot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the High Priest placing blood on the golden pedestal and Rabbi Yehuda's statement about no collection horns for obligatory nests due to mixtures, which matches heading 0's prose about the pedestal placement and Rabbi Yehudah's concern about confusion, before the gemara moves on to the challenge about writing in heading 1.",
+      "chosen_heading": "Yehudah Confusion",
+      "current_heading": "Yehudah Confusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Thirteen Shofarot",
+    "candidates": [
+      "Challenge Writing",
+      "Thirteen Shofarot",
+      "Dead Owner Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugyah: the challenge about mixture of obligatory/voluntary nests, Abaye's suggestion of writing labels, the answer that Rabbi Yehudah does not rely on writing, and then the objection from the thirteen shofarot (which are distinguished by writing) \u2014 this entire chain matches the 'Challenge Writing' prose, which explicitly describes exactly this sequence: two pedestals, Rabbi Yehudah's rejection of writing, and then the difficulty raised by the thirteen shofarot with their inscriptions.",
+      "chosen_heading": "Challenge Writing",
+      "current_heading": "Thirteen Shofarot",
+      "moved": true
+    }
+  }
+]

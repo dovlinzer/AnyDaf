@@ -1,0 +1,466 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Doubled Ear",
+    "candidates": [
+      "Opening",
+      "Doubled Ear",
+      "Goat Tail",
+      "Yerushalmi Question",
+      "Swollen Mouth/Legs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna covering both the doubled ear case and Rabbi Chananya ben Gamliel's tail ruling, and the 'Doubled Ear' section's prose explicitly discusses this mishna's content including the ear ruling and notes the tail case, making it the correct home for the full mishna text.",
+      "chosen_heading": "Doubled Ear",
+      "current_heading": "Doubled Ear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Swollen Mouth/Legs",
+    "candidates": [
+      "Goat Tail",
+      "Yerushalmi Question",
+      "Swollen Mouth/Legs",
+      "Ear Analysis",
+      "Vertebrae Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the swollen mouth/legs baraita (piv balum veraglav mevulamot) and the doubled ears ruling, which is precisely what the 'Swollen Mouth/Legs' section prose discusses, and the current placement is correct.",
+      "chosen_heading": "Swollen Mouth/Legs",
+      "current_heading": "Swollen Mouth/Legs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Vertebrae Count",
+    "candidates": [
+      "Ear Analysis",
+      "Vertebrae Count",
+      "Goat vs. Sheep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about Rabban Gamliel's ruling on the pig-like tail of a kid is explicitly referenced in the 'Goat vs. Sheep' prose, which mentions 'the folded ear, the pig-like tail' as part of explaining how Rav Huna was misled by the mishna's opening cases concerning a goat.",
+      "chosen_heading": "Goat vs. Sheep",
+      "current_heading": "Vertebrae Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Goat vs. Sheep",
+    "candidates": [
+      "Vertebrae Count",
+      "Goat vs. Sheep",
+      "Yavelet & Growth",
+      "Disproportionate Limbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous discussion: Rav Huna's ruling on vertebrae counts for goat vs. sheep, the baraita's refutation, and the explanation of how the mishnah misled him \u2014 all of which are described in detail in candidate 1's prose.",
+      "chosen_heading": "Goat vs. Sheep",
+      "current_heading": "Goat vs. Sheep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Disproportionate Limbs",
+    "candidates": [
+      "Yavelet & Growth",
+      "Disproportionate Limbs",
+      "Yavelet Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers all of Rabbi \u1e24anina ben Antigonus's cases including yavelet, damaged bones, and dislocated jaw (heading 0's content), as well as the disproportionate limbs and Rabbi Yehuda's testicle ruling (heading 1's content), so the entire mishna unit belongs under heading 0 which introduces all of Rabbi Chanina ben Antignos's cases, with heading 1 covering only the gemara's analysis of the latter portion.",
+      "chosen_heading": "Yavelet & Growth",
+      "current_heading": "Disproportionate Limbs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Yavelet Debate",
+    "candidates": [
+      "Disproportionate Limbs",
+      "Yavelet Debate",
+      "Bone Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening Gemara question about whether yavelet is a blemish and the contradiction from the later mishna, which is exactly what the 'Yavelet Debate' prose describes as the gemara's opening analysis.",
+      "chosen_heading": "Yavelet Debate",
+      "current_heading": "Yavelet Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Bone Analysis",
+    "candidates": [
+      "Bone Analysis",
+      "Skin Flaps",
+      "Black vs. White"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Bone Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 resolve the contradiction between the mishnah and the Torah verse by distinguishing between a wart with bone vs. without bone, which is precisely what the 'Bone Analysis' prose describes.",
+      "second_heading": "Black vs. White",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises the tiltul objection and then proposes the black-vs-white distinction in the eye, which is exactly what the 'Black vs. White' prose discusses.",
+      "current_heading": "Bone Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Black vs. White",
+    "candidates": [
+      "Skin Flaps",
+      "Black vs. White",
+      "Hair Growth",
+      "Eye Size Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Reish Lakish's resolution based on whether the wart has hair (de-it bei se'ar / de-leit bei se'ar), which is precisely what the 'Hair Growth' section's prose describes, including the distinction between both cases being in the white of the eye and the hair variable.",
+      "chosen_heading": "Hair Growth",
+      "current_heading": "Black vs. White",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Eye Size Standards",
+    "candidates": [
+      "Hair Growth",
+      "Eye Size Standards",
+      "Veterinary Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita defining 'large' as calf-sized and 'small' as goose-sized, which is precisely what the 'Eye Size Standards' section's prose discusses and analyzes.",
+      "chosen_heading": "Eye Size Standards",
+      "current_heading": "Eye Size Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Veterinary Examples",
+    "candidates": [
+      "Veterinary Examples",
+      "Calf Tail Length"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage discusses ear size disproportion and testicle size ratios as blemishes, which relates more to the veterinary/blemish discussion in section 0 than to the calf tail length topic of section 1, and section 0's prose explicitly mentions the eye/ear size discussion and baraita comparisons.",
+      "chosen_heading": "Veterinary Examples",
+      "current_heading": "Veterinary Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Calf Tail Length",
+    "candidates": [
+      "Calf Tail Length",
+      "Knee Joint",
+      "Camel Anatomy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single mishna that covers both the calf tail length ruling and Rabbi Chanina's definition of the arkov, and the current placement under 'Calf Tail Length' correctly houses the full mishna text, while the split into heading 1 reflects only a portion of its content.",
+      "chosen_heading": "Calf Tail Length",
+      "current_heading": "Calf Tail Length",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Camel Anatomy",
+    "candidates": [
+      "Knee Joint",
+      "Camel Anatomy",
+      "Wrap-up Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifies the upper joint (not lower) and notes the corresponding joint is visible in camels, which matches exactly the 'Camel Anatomy' section's prose about kaf ha-elyon ve-lo kaf ha-tachton and the camel's conspicuous joint structure.",
+      "chosen_heading": "Camel Anatomy",
+      "current_heading": "Camel Anatomy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Wrap-up Mishnah",
+    "candidates": [
+      "Wrap-up Mishnah",
+      "Wrap-up Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wrap-up Mishnah",
+      "first_confidence": "high",
+      "first_reason": "Candidate 0's prose explicitly describes the summary mishnah stating 'al elu mumim shochtin et ha-bechor' and 'u-fsulei ha-mukdashin nifdin aleihem', which is exactly what Item 1 contains.",
+      "second_heading": "Wrap-up Analysis",
+      "second_confidence": "high",
+      "second_reason": "Candidate 1's prose explicitly describes the gemara's challenge 'ha tu lamma li', the response about 'seifa istreich', and the follow-up 'ha nami peshita' \u2014 precisely matching Item 2's content.",
+      "current_heading": "Wrap-up Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Wrap-up Analysis",
+    "candidates": [
+      "Wrap-up Analysis",
+      "Transitory Blemish",
+      "Molar Damage",
+      "Age/Sickness/Sin",
+      "Tumtum & Gender"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wrap-up Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's concluding explanation of why the wrap-up mishnah was needed, directly matching the 'Wrap-up Analysis' prose which explicitly describes this 'ella eidi de-tana shalosh hosif' reasoning.",
+      "second_heading": "Transitory Blemish",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah of an entirely new section listing blemishes that do NOT permit slaughter, which is precisely what the 'Transitory Blemish' prose introduces with 've-elu she-ein shochtin aleihem'.",
+      "current_heading": "Wrap-up Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Tumtum & Gender",
+    "candidates": [
+      "Transitory Blemish",
+      "Molar Damage",
+      "Age/Sickness/Sin",
+      "Tumtum & Gender",
+      "Transgender Discussion",
+      "Flock Offering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tumtum & Gender",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text about tumtum and androgynos, which directly matches the 'Tumtum & Gender' heading's prose discussion of those exact cases and the dispute between Rabbi Shimon/Yishmael and the Sages.",
+      "second_heading": "Transitory Blemish",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 are the Gemara discussion about garav and \u1e25azazit as transitory/permanent blemishes, which directly matches the 'Transitory Blemish' heading's prose about blemishes that may heal versus permanent mumim.",
+      "current_heading": "Tumtum & Gender",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Flock Offering",
+    "candidates": [
+      "Transgender Discussion",
+      "Flock Offering",
+      "Three Limitations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly derives the exclusions of old, sick, and foul-smelling animals from the repeated 'min' in the flock-offering verse, which is precisely what the 'Flock Offering' section's prose describes.",
+      "chosen_heading": "Flock Offering",
+      "current_heading": "Flock Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Three Limitations",
+    "candidates": [
+      "Three Limitations",
+      "Bestiality Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss why all three exclusions (old, sick, foul-smelling) are independently necessary, which is precisely what the 'Three Limitations' prose section describes.",
+      "chosen_heading": "Three Limitations",
+      "current_heading": "Three Limitations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Bestiality Source",
+    "candidates": [
+      "Bestiality Source",
+      "One Witness Rule",
+      "Garav Contradiction",
+      "Three Garav Types",
+      "Healing Capacity",
+      "Inclusion Question",
+      "Concession Answer",
+      "Prophetic Critique",
+      "Yishmael Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: the Gemara asks the source for disqualifying animals involved in transgressions, the baraita answers by deriving exclusions from 'min ha-behemah/min ha-bakar/min ha-tzon,' and the challenge/resolution about one witness directly follows \u2014 all precisely matching the 'Bestiality Source' prose which summarizes these same derivations from that verse.",
+      "chosen_heading": "Bestiality Source",
+      "current_heading": "Bestiality Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Yishmael Position",
+    "candidates": [
+      "One Witness Rule",
+      "Garav Contradiction",
+      "Three Garav Types",
+      "Healing Capacity",
+      "Inclusion Question",
+      "Concession Answer",
+      "Prophetic Critique",
+      "Yishmael Position",
+      "Rabbanan Position",
+      "Gendered Body",
+      "Doubt vs. Category",
+      "Zachar Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All ten items form a continuous Gemara discussion about the tumtum/androgynos case, analyzing why a hermaphrodite cannot be slaughtered in the country (items 1-5), Rabbi Yishmael's dissent and its basis (items 6-7), and Rava's dilemma about Rabbi Yishmael's reasoning (items 8-10) \u2014 exactly the content described in heading 7 ('Yishmael Position') and its neighboring headings 9 and 10, with the bulk of the passage fitting the 'Yishmael Position' prose which discusses the charutz/shavur analysis and Rabbi Yishmael's rejection of it.",
+      "chosen_heading": "Yishmael Position",
+      "current_heading": "Yishmael Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Zachar Exclusion",
+    "candidates": [
+      "Rabbanan Position",
+      "Gendered Body",
+      "Doubt vs. Category",
+      "Zachar Exclusion",
+      "Tosafot Principle",
+      "Third Gender"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion analyzing which tanna's opinion the baraita about 'zachar' exclusions represents, exactly matching the 'Zachar Exclusion' section's prose description of that same analytical chain.",
+      "chosen_heading": "Zachar Exclusion",
+      "current_heading": "Zachar Exclusion",
+      "moved": false
+    }
+  }
+]

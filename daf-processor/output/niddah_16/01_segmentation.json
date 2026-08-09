@@ -175,8 +175,8 @@
           "timestamp": "27:00"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Woman Bleeding from Wound vs. Niddah Blood: Status of Uterine Source and Vestos",
@@ -806,5 +806,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "44:27",
+  "amud_b_micro_title": "Masking Problem",
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "b"
 }

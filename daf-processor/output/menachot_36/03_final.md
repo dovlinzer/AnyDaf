@@ -1,12 +1,12 @@
-# Menachot 36 — Daf Yomi Shiur
-
+[DAF:35b]
 ## Broken Strap Repair
+
+
 
 ### Knotting Broken Straps
 
 > **Hebrew/Aramaic:** אַבָּיֵי הֲוָה יָתֵיב קַמֵּיהּ דְּרַב יוֹסֵף, אִיפְּסִיק לֵיהּ רְצוּעָה דִּתְפִילֵּי, אֲמַר לֵיהּ: מַהוּ לְמִיקְטְרֵיהּ? אֲמַר לֵיהּ: ״וּקְשַׁרְתָּם״ כְּתִיב, שֶׁתְּהֵא קְשִׁירָה תַּמָּה.
->
-> **Translation:** § The Gemara relates: **Abaye was sitting before Rav Yosef** when the **strap of his phylacteries tore.** Abaye **said to** Rav Yosef: **What is** the *halakha* as **to** whether one may **tie** the strap? Rav Yosef **said to him: It is written** with regard to phylacteries: **"And you shall bind them [*ukshartam*]** for a sign upon your arm" (Deuteronomy 6:8), which teaches **that** the **binding must be complete [*keshira tamma*],** whole and beautiful, and that would not be the case with a makeshift knot.
+> **Translation:** § The Gemara relates: **Abaye was sitting before Rav Yosef** when the **strap of his phylacteries tore.** Abaye **said to** Rav Yosef: **What is** the *halakha* as **to** whether one may **tie** the strap? Rav Yosef **said to him: It is written** with regard to phylacteries: **“And you shall bind them [*ukshartam*]** for a sign upon your arm” (Deuteronomy 6:8), which teaches **that** the **binding must be complete [*keshira tamma*],** whole and beautiful, and that would not be the case with a makeshift knot.
 
 The daf opens with a scene: *Abaye hava yativ kamei d'Rav Yosef* — Abaye was sitting before Rav Yosef when his *retzuah* of *tefillin* broke. He posed the question: *mahu lemiktarei* — may he repair the strap by knotting the broken halves together?
 
@@ -16,8 +16,7 @@ Rav Yosef's response was crisp and textually grounded: *u'kshartem ksiv* — the
 
 ### Sewing Alternative
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב יוֹסֵף לְרַב אָשֵׁי: מַהוּ לְמִיתְּפְּרֵיהּ וְעַיֹּילֵיהּ לִתְפִירָה לְגָאו? אֲמַר: פּוֹק חֲזִי מָה עַמָּא דָּבַר.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב יוֹסֵף לְרַב אָשֵׁי: מַהוּ לְמִיתְפְּרֵיהּ וְעַיֹּילֵיהּ לִתְפִירָה לְגָאו? אֲמַר: פּוֹק חֲזִי מָה עַמָּא דָּבַר.
 > **Translation:** **Rav Aḥa, son of Rav Yosef, said to Rav Ashi: What is** the *halakha* as **to** whether one may **sew** a strap that tore **and insert** the **stitching inside,** so that it is not visible from the outside? Rav Ashi **said** to him: **Go out and see what the people are doing.** If the common custom is to do this, it is permitted.
 
 A related question was then posed by Rav Acha, son of Rav Yosef, to Rav Ashi: *mahu lemitfrei d'ayiley l'tifey legav* — rather than knotting the break, what if one sews the strap and places the stitching on the inside, so that from the outside the repair is invisible? This would appear far more like a genuine restoration of the strap's integrity.
@@ -30,12 +29,13 @@ One might observe that in practice this question rarely arises, given that Ashke
 
 ---
 
-## Mitzvah vs. Kedusha Status
+## Tashmishei Mitzvah vs
+
+
 
 ### Tzitzit vs. Tefillin
 
 > **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: גַּרְדּוּמֵּי רְצוּעוֹת כְּשֵׁירוֹת, וְלָאו מִילְּתָא הִיא, מִדְּאָמְרִי בְּנֵי רַבִּי חִיָּיא: גַּרְדּוּמֵּי תְכֵלֶת וְגַרְדּוּמֵּי אֵזוֹב כְּשֵׁירִין. הָתָם הוּא דְּתַשְׁמִישֵׁי מִצְוָה נִינְהוּ, אֲבָל הָכָא דְּתַשְׁמִישֵׁי קְדוּשָּׁה נִינְהוּ – לָא.
->
 > **Translation:** **Rav Pappa says: The remnants of straps,** i.e., what remains when part of the strap has been cut off, **are fit.** The Gemara comments: **And it is not so,** as can be derived **from** the fact **that the sons of Rabbi Ḥiyya say: The remnants of** the **sky**-**blue wool** of ritual fringes, when only a small thread remains, **and** likewise **the remnants of** the **hyssop,** used for the sprinkling of the purification water of the red heifer, **are fit.** They did not include the remnants of straps of phylacteries in this *halakha*. The reason for this difference is that **it is there** that the remnants are fit, **as they are** mere **articles** used in the performance **of a mitzva; but here,** phylacteries **are articles of sanctity,** which are of greater sanctity, and therefore their remnants are **not** fit.
 
 The discussion of the *retzuah* leads naturally into a broader taxonomic question about the objects of *mitzvot*. The Gemara introduces the principle via the concept of *gardumim*. Rav Pappa had stated that *gardumei retzuot kesherot* — remnant straps are valid. The reasoning by analogy was to *tzitzit*: the sons of Rebbi Chiyya taught that *gardumei techelet v'gardumei ezov kesherim* — remnant strings of the blue *tzitzit* thread, and remnant *ezov* (hyssop) used in the purification rites of *parah adumah* or the *metzorah*, remain valid so long as they began at the requisite length. If a string tore and only a small piece remains, one is still *yotzei*.
@@ -66,19 +66,23 @@ Tosafot raises a further question that pushes the analysis deeper. *Tefillin* oc
 
 But what of the *bayit* of the *shel rosh*, with its embossed *shin*? Tosafot suggests that because the *shin* is part of *shem Hashem* — specifically forming part of the divine name *Shin-Dalet-Yud* — the *shel rosh* may not merely be *tashmishei kedusha*. It may carry something closer to *kedusha atzma*, akin to *kitvei hakodesh* themselves, given that an element of *shem Hashem* is literally inscribed on its exterior. We will return to this point at greater length in the discussion of the *kesher*.
 
+What is worth pausing over here, and what the lecturer flags as genuinely puzzling, is the Gemara's broader move in this sugya. Normally, we understand the distinction between *tashmishei mitzvah* and *tashmishei kedusha* to bear on questions of how much respect the object commands — matters of *sheimos* and whether something requires *genizah*. What is surprising is that the Gemara now deploys that same distinction to determine the standard of completeness required for *yotzei* — a question that would seem, at first glance, to belong entirely to the dimension of *tashmishei mitzvah*. After all, when we ask whether a broken *retzuah* still permits one to fulfill the *mitzvah*, we are asking about the object as an instrument of the *mitzvah*, not about the honor owed to it as something sacred. That the Gemara draws on the *tashmishei kedusha* status to impose a stricter standard here is not immediately self-evident, and the precise logic behind it is left implicit — the proposed resolution, explored at greater length in the preceding section, is that the weightier sense in which a piece broken from a *tashmishei kedusha* object remains bound to and severed from a sacred whole may be what drives the Gemara's conclusion.
+
 ---
 
 ## Strap Length Requirements
 
-### Gardumim Rejected
 
-> **Hebrew/Aramaic:** מִכְּלָל דְּאִית לְהוּ שִׁיעוּרָא, וְכַמָּה שִׁיעוּרַיְיהוּ? אָמַר רָמֵי בַּר חָמָא אָמַר רֵישׁ לָקִישׁ: עַד אֶצְבַּע צְרֵדָה. רַב כָּהֲנָא מַחְוֵי כָּפוּף, רַב אָשֵׁי מַחְוֵי פָּשׁוּט.
->
-> **Translation:** The Gemara states: From this line of inquiry one can conclude **by inference that** the straps of phylacteries **have** a minimum requisite **measure. And how much is their measure? Rami bar Ḥama says** that **Reish Lakish says:** It is **until the index finger.** In explanation of this size, **Rav Kahana** would **demonstrate a bowed** measure, i.e., from the tip of the middle finger until the tip of the index finger, with the fingers spread. **Rav Ashi** would **demonstrate a straight** measure, from the tip of the thumb until the tip of the index finger, with the fingers spread.
+
+### Gardumim Rejected
 
 From the Gemara's rejection of *gardumim* for *tefillin* straps, the Gemara draws an inference: *v'lav milta hi* — the position of Rav Pappa is incorrect. And more: *mi'da'amru bnei Rebbi Chiyya*, since the Gemara demonstrated a valid parallel of *gardumim* by *tzitzit* but rejected that parallel for *tefillin*, it follows that *de-is lehu shiura* — there must be a minimum length requirement for *tefillin* straps. The question then becomes: what is that *shiur*?
 
+> **Hebrew/Aramaic:** מִכְּלָל דְּאִית לְהוּ שִׁיעוּרָא, וְכַמָּה שִׁיעוּרַיְיהוּ? אָמַר רָמֵי בַּר חָמָא אָמַר רֵישׁ לָקִישׁ: עַד אֶצְבַּע צְרֵדָה. רַב כָּהֲנָא מַחְוֵי כָּפוּף, רַב אָשֵׁי מַחְוֵי פָּשׁוּט.
+> **Translation:** The Gemara states: From this line of inquiry one can conclude **by inference that** the straps of phylacteries **have** a minimum requisite **measure. And how much is their measure? Rami bar Ḥama says** that **Reish Lakish says:** It is **until the index finger.** In explanation of this size, **Rav Kahana** would **demonstrate a bowed** measure, i.e., from the tip of the middle finger until the tip of the index finger, with the fingers spread. **Rav Ashi** would **demonstrate a straight** measure, from the tip of the thumb until the tip of the index finger, with the fingers spread.
+
 ### One Finger Measure
+
 
 Rami bar Chama in the name of Resh Lakish gives the answer: *ad etzba tzerada* — until the *etzba tzerada*. Rashi identifies this as the forefinger; Tosafot disagrees, arguing that the term refers to the snapping or middle finger.
 
@@ -108,19 +112,23 @@ These measures have practical implications in two categories of situations: when
 
 ---
 
-## Rashi-Rabbeinu Tam History
+## Rashi vs. Rabbeinu Tam
+
+
 
 ### Rambam's Evolution
 
 The fact that Tosafot relies so heavily on the *Shimusha Rabba* — a written handbook — for so many of the laws of *tefillin* naturally prompts reflection on how much the transmission of these laws depended on such texts. This is dramatically illustrated by a famous *teshuvah* of the Rambam. The questioners noted that his rulings in the *Mishneh Torah* followed what we would call the Rashi *tefillin* position, while their own community had a tradition of *havayos ba'emtza* — the order associated with Rabbeinu Tam. The Rambam's response contains a remarkable personal confession.
 
-He writes: *kach haya dati mikodem kachem* — I myself used to hold like you, like the *havayos ba'emtza* position. He continues: *ve-tefillin hayu li be-Eretz Ma'arav* — when I lived in the West, in Spain, those were my *tefillin*. And why? *Ve-kasav kaze asher chibbar ha-tefillin u'shemo Rav Moshe mi-Cordova* — because of a handbook about the laws of *tefillin* composed by a certain Rav Moshe of Cordova. (In some manuscript versions of the *teshuvah*, this figure is called *Rav Moshe bar Maimon mi-Cordova*, which is clearly erroneous; he was a different scholar.)
+He writes: *kach haya dati mikodem kachem* — I myself used to hold like you, like the *havayos ba'emtza* position. He continues: *ve-tefillin hayu li be-Eretz Ma'arav* — when I lived in the West, in Spain, those were my *tefillin*. And why? *Ve-kasav kaze asher chibbar ha-tefillin u-shemo Rav Moshe mi-Cordova* — because of a handbook about the laws of *tefillin* composed by a certain Rav Moshe of Cordova. (In some manuscript versions of the *teshuvah*, this figure is called *Rav Moshe bar Maimon mi-Cordova*, which is clearly erroneous; he was a different scholar.)
 
 The Rambam states with striking candor: *ve-oto ha-chibbur hu she-hitani ve-hita kol anshei ha-Ma'arav milfanai* — that handbook is what led me astray and what led astray all the people of the West who had come before me. This is a vivid illustration of the power of a written code, and of how a single authoritative-seeming handbook could redirect the practice of an entire community across generations.
 
 ### Cordova's Handbook
 
 The influence of Rav Moshe of Cordova's handbook extended not only to the Rambam's personal practice during his years in Spain but, as the Rambam implies, to the entirety of Western Jewry — Spain and possibly Provence — who followed it uniformly. The Ri, in one *teshuvah*, also reflects the *havayos ba'emtza* position. This was not, in other words, a marginal opinion: it was the standard practice across a vast geographic and cultural region, attributable to a single textual source.
+
+The Rambam's account also makes clear that resistance to the *havayos ba'emtza* position was not confined to later authorities. He notes that many of the *Geonim* — *kilkelu davar ze* — corrupted this matter, and that *anshei Mizrach*, the people of the East, along with *anshei Eretz Tzvi*, the people of the Land of Israel — *hakadmonim cholkim alav*, the earlier ones, disputed it. The opposition, in other words, ran deep and wide, cutting across both geography and time; the dominance of the *havayos ba'emtza* position in the West was a product of the handbook's authority, not of any underlying scholarly consensus. What ultimately moved the Rambam himself to reconsider is a question the next section will address.
 
 ### Rabbeinu Hai Evidence
 
@@ -140,29 +148,28 @@ Scholars have speculated that it was this *teshuvah*, perhaps more than any othe
 
 ## Physical Placement
 
+
+
 ### Strap Placement Methods
 
 > **Hebrew/Aramaic:** רַבָּה קָטַר לְהוּ וּפָשֵׁיט וְשָׁדֵי לְהוּ, רַב אַחָא בַּר יַעֲקֹב קָטַר לְהוּ וּמְתַלֵּית לְהוּ, מָר בְּרֵיהּ דְּרַבְנָא עָבֵיד כְּדִידַן.
->
-> **Translation:** The Gemara relates: **Rabba** would **tie** the straps **and release** them **and let them fall** behind him. **Rav Aḥa bar Ya'akov** would **tie them and plait them** together like a braid. **Mar, son of Rabbana,** would **act like we** do, i.e., he would let the straps fall and hang over the front of his body.
+> **Translation:** The Gemara relates: **Rabba** would **tie** the straps **and release** them **and let them fall** behind him. **Rav Aḥa bar Ya’akov** would **tie them and plait them** together like a braid. **Mar, son of Rabbana,** would **act like we** do, i.e., he would let the straps fall and hang over the front of his body.
 
 Turning now to the physical placement of the *tefillin* straps, the Gemara records different practices among the Amoraim. Rava would tie his *tefillin* and fling the straps behind his back — *pashit v'shadi lehu*, as Rashi explains it. Rav Acha bar Yaakov, by contrast, after tying would place the straps in front. Mar brei d'Ravina, the Gemara reports, did as *we* do — which Rashi understands as placing the straps in front.
 
 The striking feature of this passage is its casual tone. One might have expected the placement of the straps to be a firm and settled *halacha*; instead, the Gemara presents it as simply what different scholars happened to do, with no clear resolution. In some respects it might seem more natural for the straps to flow behind — one thinks of a headrest from which straps naturally fall backward.
 
-### Black Faces Out
+The Gemara then transmits, in the name of Rav, that the *kesher shel tefillin* — the knot of the *tefillin* — is *halacha l'Moshe mi'Sinai*. Rashi understands this to mean that the *shel rosh* knot is shaped like a *dalet* and the *shel yad* knot like a *yud*, together with the *shin* on the *batim* forming the divine name *Shin-Dalet-Yud*. Tosafot pushes back on this, questioning whether the straps genuinely form letters that carry the status of *Shem Hashem*. But the deeper issue is what precisely the *halacha l'Moshe mi'Sinai* designation actually covers. It does not straightforwardly tell us that a *kesher* is required, nor does it resolve the precise shape it must take. There is, for instance, a well-known *machloket* regarding the *dalet* at the back of the head: the standard form involves a single perpendicular shape, while a second tradition — more a *Chassidic minhag* than a rigorously sourced *halacha* — uses a double *dalet*, two *daltin* arranged as a square. The broader question this raises is at what point a deviation becomes *pasul*: is the *halacha l'Moshe mi'Sinai* governing the existence of a knot, its shape, some other feature, or some combination? The Gemara does not resolve this with precision.
 
-> **Hebrew/Aramaic:** וְנוֹיֵיהֶן לְבַר
->
-> **Translation:** And their decorative side must face outward.
+### Black Faces Out
 
 Rav Yehuda transmits a ruling: *v'noyeihen l'var* — the attractive side, meaning the black side, must face outward.
 
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה בְּרֵיהּ דְּרַב שְׁמוּאֵל בַּר שִׁילַת מִשְּׁמֵיהּ דְּרַב: קֶשֶׁר שֶׁל תְּפִילִּין הֲלָכָה לְמֹשֶׁה מִסִּינַי. אָמַר רַב נַחְמָן: וְנוֹיֵיהֶן לְבַר. רַב אָשֵׁי הֲוָה יָתֵיב קַמֵּיהּ דְּמָר זוּטְרָא, אִיתְהַפְכָא לֵיהּ רְצוּעָה דִתְפִילִּין. אֲמַר לֵיהּ: לָא סָבַר לַהּ מָר וְנוֹיֵיהֶן לְבַר? אֲמַר לֵיהּ: לָאו אַדַּעְתַּאי.
+> **Translation:** **Rav Yehuda, son of Rav Shmuel bar Sheilat, says in the name of Rav:** The form of the **knot of phylacteries,** i.e., that there must be the form of a letter *dalet* in the knot of the phylacteries of the head and the letter *yod* in the knot of the phylacteries of the arm, is **a *halakha*** transmitted **to Moses from Sinai. Rav Naḥman says: And their decorative** side, the black side of the knot where the shape of the letter is visible, must face **outward.** The Gemara relates: **Rav Ashi was sitting before Mar Zutra** when the **strap of** his **phylacteries became reversed.** Mar Zutra **said to him: Doesn’t the Master hold** in accordance with the ruling that **their decorative** side must face **outward?** Rav Ashi **said to him:** It did **not** enter **my mind,** i.e., I did not notice.
+
 ### Flipped Strap Case
 
-> **Hebrew/Aramaic:** רַב אָשֵׁי הֲוָה יָתֵיב קַמֵּיהּ דְּמָר זוּטְרָא, אִיתְהַפְכָא לֵיהּ רְצוּעָה דִתְפִילִּין. אֲמַר לֵיהּ: לָא סָבַר לַהּ מָר וְנוֹיֵיהֶן לְבַר? אֲמַר לֵיהּ: לָאו אַדַּעְתַּאי.
->
-> **Translation:** The Gemara relates: **Rav Ashi was sitting before Mar Zutra** when the **strap of** his **phylacteries became reversed.** Mar Zutra **said to him: Doesn't the Master hold** in accordance with the ruling that **their decorative** side must face **outward?** Rav Ashi **said to him:** It did **not** enter **my mind,** i.e., I did not notice.
 
 This ruling is immediately illustrated by an incident. Rav Ashi was sitting before Mar Zutra when his *retzuah* flipped — the inner side turned outward. Mar Zutra pointed out to him: *lo savar leh mar v'noyeihen l'var* — does the master not hold that the attractive side must face out? Rav Ashi replied: *lav ada'atai* — I had not noticed. The correction was promptly made.
 
@@ -170,11 +177,9 @@ This ruling is immediately illustrated by an incident. Rav Ashi was sitting befo
 
 ## Kesher as Halacha L'Moshe
 
-### Kesher Status
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה בְּרֵיהּ דְּרַב שְׁמוּאֵל בַּר שִׁילַת מִשְּׁמֵיהּ דְּרַב: קֶשֶׁר שֶׁל תְּפִילִּין הֲלָכָה לְמֹשֶׁה מִסִּינַי.
->
-> **Translation:** **Rav Yehuda, son of Rav Shmuel bar Sheilat, says in the name of Rav:** The form of the **knot of phylacteries,** i.e., that there must be the form of a letter *dalet* in the knot of the phylacteries of the head and the letter *yod* in the knot of the phylacteries of the arm, is **a *halakha*** transmitted **to Moses from Sinai.**
+
+### Kesher Status
 
 The Gemara now states: *kesher shel tefillin halacha l'Moshe mi'Sinai* — the knot of the *tefillin* is a transmitted law going back to Moses at Sinai. This was transmitted by Rav Yehuda in the name of Rav.
 
@@ -198,6 +203,9 @@ The *shin* on the *shel rosh*, however, may be a different matter. When the Gema
 
 Nevertheless, even within Tosafot's framework there is an important concession. The *shin* is exposed on the exterior of the *shel rosh* — it is literally inscribed on the leather box itself. And it is at least *representative* of *shem Hashem*, even if one does not wish to ascribe to it full *kedusha atzma*.
 
+> **Hebrew/Aramaic:** ״וְרָאוּ כׇּל עַמֵּי הָאָרֶץ כִּי שֵׁם ה׳ נִקְרָא עָלֶיךָ וְיָרְאוּ מִמֶּךָּ״, תַּנְיָא, רַבִּי אֱלִיעֶזֶר הַגָּדוֹל אוֹמֵר: אֵלּוּ תְּפִילִּין שֶׁבָּרֹאשׁ. ״וַהֲסִרֹתִי אֶת כַּפִּי וְרָאִיתָ אֶת אֲחֹרָי״, אָמַר רַב חָנָא בַּר בִּיזְנָא אָמַר רַבִּי שִׁמְעוֹן חֲסִידָא: מְלַמֵּד שֶׁהֶרְאָה לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה קֶשֶׁר שֶׁל תְּפִילִּין.
+> **Translation:** With regard to the verse: **“And all the nations of the land shall see that the name of the Lord is called upon you, and they shall be afraid of you”** (Deuteronomy 28:10), it **is taught** in a *baraita* that **Rabbi Eliezer the Great says: This** is a reference to **the phylacteries of the head,** upon which the name of God is written, as they demonstrate to all that the name of God is called upon the Jewish people. With regard to the statement of God to Moses: **“And I will remove My hand, and you will see My back”** (Exodus 33:23), **Rav Ḥana bar Bizna says** that **Rabbi Shimon Ḥasida says:** This **teaches that the Holy One, Blessed be He, showed Moses the knot of** the **phylacteries** of the head.
+
 ### Bathroom Entry Question
 
 Tosafot records a fascinating position attributed to Rabbi Yaakov d'Orleans, who raised the question of whether one must remove the *shel yad* before entering a *beit hakisei* — a bathroom. The consideration: the *klafim* inside the *bayit* are covered by leather, and it is the *klafim* that are actually prohibited from being brought into the bathroom. Since the *klafim* are covered, perhaps the *shel yad*, with its leather covering, is permissible.
@@ -210,13 +218,12 @@ This line in Tosafot is striking. It creates a layered taxonomy: the *shel yad* 
 
 ---
 
-## Biblical Source (II)
+## Biblical Source
+
+
 
 ### God's Back Kesher
 
-> **Hebrew/Aramaic:** ״וְרָאוּ כׇּל עַמֵּי הָאָרֶץ כִּי שֵׁם ה׳ נִקְרָא עָלֶיךָ וְיָרְאוּ מִמֶּךָּ״, תַּנְיָא, רַבִּי אֱלִיעֶזֶר הַגָּדוֹל אוֹמֵר: אֵלּוּ תְּפִילִּין שֶׁבָּרֹאשׁ. ״וַהֲסִרֹתִי אֶת כַּפִּי וְרָאִיתָ אֶת אֲחֹרָי״, אָמַר רַב חָנָא בַּר בִּיזְנָא אָמַר רַבִּי שִׁמְעוֹן חֲסִידָא: מְלַמֵּד שֶׁהֶרְאָה לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמֹשֶׁה קֶשֶׁר שֶׁל תְּפִילִּין.
->
-> **Translation:** With regard to the verse: **"And all the nations of the land shall see that the name of the Lord is called upon you, and they shall be afraid of you"** (Deuteronomy 28:10), it **is taught** in a *baraita* that **Rabbi Eliezer the Great says: This** is a reference to **the phylacteries of the head,** upon which the name of God is written, as they demonstrate to all that the name of God is called upon the Jewish people. With regard to the statement of God to Moses: **"And I will remove My hand, and you will see My back"** (Exodus 33:23), **Rav Ḥana bar Bizna says** that **Rabbi Shimon Ḥasida says:** This **teaches that the Holy One, Blessed be He, showed Moses the knot of** the **phylacteries** of the head.
 
 A *Tanna* teaches: Rabbi Eliezer HaGadol interprets the verse *v'hasiroti et kapi v'raita et achorai* — "I will remove My hand and you shall see My back" — as referring to the *kesher shel tefillin*. Rav Kahana bar Bizna in the name of Rabbi Shimon Chasida elaborates: *melamed she-her'ah lo HaKadosh Baruch Hu l'Moshe kesher shel tefillin* — this teaches that the Holy One Blessed Be He showed Moses the knot of the *tefillin*. The Gemara in Berachot famously teaches that God wears *tefillin*; what Moses saw at the back of God's head, so to speak, was the *kesher shel tefillin*.
 
@@ -224,21 +231,44 @@ Why, of all the things Moses might have perceived in that singular moment of par
 
 ---
 
+## Biblical Source (II)
+
+
+
+### Israel Above
+
+The Gemara continues: Rav Yehuda states that *kesher shel tefillin tzarich she'yehei l'ma'alah* — the knot must be positioned above — *kedei she'Yisrael yihiyu l'ma'alah v'lo l'mata* — so that Israel should be above and not below. The knot is placed at the nape of the neck, above the hairline, not low on the neck or near the shoulder.
+
+Whether this is a formal *halacha* or an evocative *drash* is not entirely clear. It may be that both are intended: there is a real positional requirement for the *kesher*, and the symbolic resonance gives expression to its meaning.
+
+### God's Tefillin
+
+The symbolic resonance becomes clearer when one recalls the Gemara in Berachot: God's *tefillin* contain the words *mi k'amcha Yisrael goy echad ba'aretz* — "Who is like Your people Israel, one nation in the earth?" Just as Israel's *tefillin* express the elevation of God — affirming His singularity and sovereignty — so God's *tefillin*, in a sense, express God's elevation of Israel. The requirement that *Yisrael yihiyu l'ma'alah v'lo l'mata* is thus not merely a positional rule but a reflection of the reciprocal relationship expressed through the *kesher*.
+
+When Moses saw the back of God — the *kesher shel tefillin* — he was seeing, in the Rambam's terms, not the essence of God (which cannot be apprehended) but God's ways: specifically, God's relationship to and elevation of *Bnei Yisrael*. The *kesher shel tefillin* becomes, on this reading, the emblem of that relationship visible in the world — how God acts in history in connection with Israel.
+
+---
+
 ## Kesher Position
+
+
 
 ### Kesher Above
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה: קֶשֶׁר שֶׁל תְּפִילִּין צָרִיךְ שֶׁיְּהֵא לְמַעְלָה, כְּדֵי שֶׁיְּהוּ יִשְׂרָאֵל לְמַעְלָה וְלֹא לְמַטָּה, וְצָרִיךְ שֶׁיְּהֵא כְּלַפֵּי פָּנִים, כְּדֵי שֶׁיְּהוּ יִשְׂרָאֵל לְפָנִים וְלֹא לְאָחוֹר.
->
-> **Translation:** **Rav Yehuda says: The knot of phylacteries must be above,** i.e., it must rest on the head rather than on the neck, **in order that the Jewish people should be above and not below. And** likewise **it must be placed toward the front [*panim*],** i.e., not on the sides of the head, **in order that the Jewish people should be in front [*lefanim*] and not behind.**
-
 Rav Yehuda's requirement that the *kesher* be *l'ma'alah* — above — means it is placed at the nape of the neck at the base of the skull, in that slight indentation where the bone ends. It is not to be positioned low on the neck. Whether *pasul* if placed incorrectly is not stated explicitly, leaving open the question of whether this is a formal *din* or an aspirational *drash*.
+
+The stated reason is *kedei she'Yisrael yihiyu l'ma'alah v'lo l'mata* — so that Israel should be above and not below. What is striking is that this rationale, taken on its own, sounds like pure *drash*: a pleasant symbolic gloss rather than a halakhic basis. Yet the *kesher shel tefillin* connects this directly to the *midrash* about the *kesher* itself. The *Yisrael l'ma'alah v'lo l'mata* is not, on this reading, a general statement about Israel's spiritual orientation. Rather, if the *kesher* embodies God's *tefillin* — and what is written in God's *tefillin* is *mi k'amcha Yisrael goy echad ba'aretz*, an expression of God's relationship to and elevation of *Bnei Yisrael* — then the requirement that the *kesher* sit *l'ma'alah* is itself a direct extension of that symbolism: the emblem of Israel's elevation, worn at the highest visible point of the back of the head, as a reflection of the reciprocal relationship expressed through the *kesher*.
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה: קֶשֶׁר שֶׁל תְּפִילִּין צָרִיךְ שֶׁיְּהֵא לְמַעְלָה, כְּדֵי שֶׁיְּהוּ יִשְׂרָאֵל לְמַעְלָה וְלֹא לְמַטָּה, וְצָרִיךְ שֶׁיְּהֵא כְּלַפֵּי פָּנִים, כְּדֵי שֶׁיְּהוּ יִשְׂרָאֵל לְפָנִים וְלֹא לְאָחוֹר.
+> **Translation:** **Rav Yehuda says: The knot of phylacteries must be above,** i.e., it must rest on the head rather than on the neck, **in order that the Jewish people should be above and not below. And** likewise **it must be placed toward the front [*panim*],** i.e., not on the sides of the head, **in order that the Jewish people should be in front [*lefanim*] and not behind.**
 
 ---
 
 ## Shin Variants
 
-### Shin Variants
+
+
+### Shin Variants (II)
 
 The *Shimusha Rabba*, cited by Tosafot on the preceding *daf*, addresses the *shin* on the *shel rosh*. It specifies that one side of the *shel rosh* bears a three-armed *shin* and the other bears a four-armed *shin* — and this is indeed the practice today, though, notably, the source is the *Shimusha Rabba* rather than the *Gemara* itself.
 
@@ -254,15 +284,14 @@ Tosafot connects the four-armed *shin* to the four *parshiyot* of *tefillin*. Th
 
 ## Proper Orientation
 
-### Klapei Panim
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: וְנוֹיֵיהֶן לְבַר. רַב אָשֵׁי הֲוָה יָתֵיב קַמֵּיהּ דְּמָר זוּטְרָא, אִיתְהַפְכָא לֵיהּ רְצוּעָה דִתְפִילִּין. אֲמַר לֵיהּ: לָא סָבַר לַהּ מָר וְנוֹיֵיהֶן לְבַר? אֲמַר לֵיהּ: לָאו אַדַּעְתַּאי.
->
-> **Translation:** **Rav Naḥman says: And their decorative** side, the black side of the knot where the shape of the letter is visible, must face **outward.** The Gemara relates: **Rav Ashi was sitting before Mar Zutra** when the **strap of** his **phylacteries became reversed.** Mar Zutra **said to him: Doesn't the Master hold** in accordance with the ruling that **their decorative** side must face **outward?** Rav Ashi **said to him:** It did **not** enter **my mind,** i.e., I did not notice.
+
+### Klapei Panim
 
 The Gemara states: *v'tzarich she'yehei klapei panim* — the *kesher* must face toward the front. What exactly "facing front" means in this context is somewhat ambiguous. Rashi explains it to mean that the black must be on the outside and the white on the inside — that the *retzuah* must be properly oriented. The *kesher* itself must be oriented correctly and face forward.
 
 ### Israel in Front
+
 
 The reason given is parallel to the earlier principle: *kedei she'yehei Yisrael lifnim v'lo l'achor* — so that Israel should be in front, not behind. The directional symbolism — above rather than below, in front rather than behind — consistently expresses the covenantal dignity of the Jewish people.
 
@@ -270,15 +299,17 @@ The reason given is parallel to the earlier principle: *kedei she'yehei Yisrael 
 
 ## Blessing Timing
 
-### Timing Window
 
-> **Hebrew/Aramaic:** אָמַר רַב שְׁמוּאֵל בַּר בֵּידָרֵי אָמַר רַב, וְאָמְרִי לַהּ אָמַר רַבִּי אַחָא אֲרִיכָא אָמַר רַב הוּנָא, וְאָמְרִי לַהּ אָמַר רַב מְנַשְּׁיָא אָמַר שְׁמוּאֵל: תְּפִילִּין מֵאֵימָתַי מְבָרֵךְ עֲלֵיהֶן? מִשְּׁעַת הַנָּחָתָן. אִינִי? וְהָא אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הַמִּצְוֹת כּוּלָּן מְבָרֵךְ עֲלֵיהֶן עוֹבֵר לַעֲשִׂיָּיתָן! אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: מִשְּׁעַת הַנָּחָה וְעַד שְׁעַת קְשִׁירָה.
->
-> **Translation:** § **Rav Shmuel bar Bideri says** that **Rav says, and some say** that **Rabbi Aḥa Arikha,** i.e., Rabbi Aḥa the Tall, **says** that **Rav Huna says, and some say** that **Rav Menashya says** that **Shmuel says:** With regard to **phylacteries, from when does one recite a blessing over them? From the time when one dons them** on the arm and onward. The Gemara raises a difficulty: **Is that so? But doesn't Rav Yehuda say** that **Shmuel says:** With regard to **all the mitzvot, one recites a blessing over them prior to their performance?** How, then, can one recite a blessing over phylacteries after donning them? **Abaye and Rava both say:** One recites the blessing **from the time of donning** the phylacteries **until the time of binding** them, as the binding constitutes the performance of the mitzva.
+
+### Timing Window
 
 When does one make the *beracha* on *tefillin*? The answer, transmitted through a chain of Amoraim, is *mishat hanachatan* — from the time of placing them on. The Gemara immediately questions this: but the general rule is that one makes a *beracha* before performing a *mitzvah* — *over la'asiyatan* — not after one has already placed the *tefillin* on!
 
+> **Hebrew/Aramaic:** אָמַר רַב שְׁמוּאֵל בַּר בֵּידָרֵי אָמַר רַב, וְאָמְרִי לַהּ אָמַר רַבִּי אַחָא אֲרִיכָא אָמַר רַב הוּנָא, וְאָמְרִי לַהּ אָמַר רַב מְנַשְּׁיָא אָמַר שְׁמוּאֵל: תְּפִילִּין מֵאֵימָתַי מְבָרֵךְ עֲלֵיהֶן? מִשְּׁעַת הַנָּחָתָן. אִינִי? וְהָא אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הַמִּצְוֹת כּוּלָּן מְבָרֵךְ עֲלֵיהֶן עוֹבֵר לַעֲשִׂיָּיתָן! אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: מִשְּׁעַת הַנָּחָה וְעַד שְׁעַת קְשִׁירָה.
+> **Translation:** § **Rav Shmuel bar Bideri says** that **Rav says, and some say** that **Rabbi Aḥa Arikha,** i.e., Rabbi Aḥa the Tall, **says** that **Rav Huna says, and some say** that **Rav Menashya says** that **Shmuel says:** With regard to **phylacteries, from when does one recite a blessing over them? From the time when one dons them** on the arm and onward. The Gemara raises a difficulty: **Is that so? But doesn’t Rav Yehuda say** that **Shmuel says:** With regard to **all the mitzvot, one recites a blessing over them prior to their performance?** How, then, can one recite a blessing over phylacteries after donning them? **Abaye and Rava both say:** One recites the blessing **from the time of donning** the phylacteries **until the time of binding** them, as the binding constitutes the performance of the mitzva.
+
 ### Abaye and Rava
+
 
 Abaye and Rava resolve this together: *mishat hanacha v'ad she'at keshira* — from the moment of placement until the tightening of the *kesher*. In other words, one places the *tefillin* on the hand or head, makes the *beracha*, and then performs the *keshira* — the tightening. The *beracha* thus occurs after the initial placing but before the finalizing act, satisfying the requirement of *over la'asiyatan*.
 
@@ -290,19 +321,17 @@ Tosafot himself, however, notes the obvious rejoinder: the *pasuk* for *mezuzah*
 
 ## Two Blessings
 
-### Sach Rule
 
-> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: סָח בֵּין תְּפִילָּה לִתְפִילָּה חוֹזֵר וּמְבָרֵךְ.
->
-> **Translation:** § **Rav Ḥisda says:** If one **spoke between** donning the **phylacteries** of the arm **and** the **phylacteries** of the head, he must **recite the blessing again** when donning the phylacteries of the head.
+
+[DAF:36a]
+### Sach Rule
 
 Rav Chisda rules: *sach bein tefillah l'tefillah chozer u'mevarech* — one who talks between the *shel yad* and the *shel rosh* must return and make another *beracha*. The Gemara asks: this implies that talking requires an additional *beracha*, but not talking does not — yet we know from an authoritative letter of Rabbi Yochanan that there are two distinct *nusachot* for the *tefillin* blessings, one for each of the two *tefillin*. If there are always two blessings, why should talking matter?
 
-### Yochanan Letter
+> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: סָח בֵּין תְּפִילָּה לִתְפִילָּה חוֹזֵר וּמְבָרֵךְ.
+> **Translation:** § **Rav Ḥisda says:** If one **spoke between** donning the **phylacteries** of the arm **and** the **phylacteries** of the head, he must **recite the blessing again** when donning the phylacteries of the head.
 
-> **Hebrew/Aramaic:** וְהָא שְׁלַח רַב חִיָּיא בְּרֵיהּ דְּרַב הוּנָא מִשְּׁמֵיהּ דְּרַבִּי יוֹחָנָן: עַל תְּפִילָּה שֶׁל יָד אוֹמֵר ״בָּרוּךְ אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַנִּיחַ תְּפִילִּין״, עַל תְּפִילִּין שֶׁל רֹאשׁ אוֹמֵר ״בָּרוּךְ אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל מִצְוַת תְּפִילִּין״.
->
-> **Translation:** The Gemara challenges this: **But Rav Ḥiyya, son of Rav Huna, sent** a ruling **in the name of Rabbi Yoḥanan: On the phylacteries of the arm** one **says** the blessing: **Blessed** are You, Lord our God, King of the Universe, **Who has sanctified us through His mitzvot and commanded us to don phylacteries. On the phylacteries of the head** one **says** the blessing: **Blessed** are You, Lord our God, King of the Universe, **Who has sanctified us through His mitzvot and commanded us concerning the mitzva of phylacteries.** This indicates that one always recites a blessing when donning the phylacteries of the head.
+### Yochanan Letter
 
 Rabbi Chiyya son of Rav Huna transmitted in the name of Rabbi Yochanan: on the *shel yad* one says *asher kideshanu b'mitzvotav v'tzivanu lehaniach tefillin*, and on the *shel rosh* one says *asher kideshanu b'mitzvotav v'tzivanu al mitzvat tefillin*. The two formulations are different, and they appear to be two independent blessings.
 
@@ -314,13 +343,11 @@ This difference maps neatly onto the *pessukim* themselves. The verse for the *s
 
 ### One or Two Blessings
 
-> **Hebrew/Aramaic:** אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: לֹא סָח – מְבָרֵךְ אַחַת, סָח – מְבָרֵךְ שְׁתַּיִם.
->
-> **Translation:** **Abaye and Rava both say,** to resolve this apparent contradiction: Rabbi Yoḥanan meant that if one **did not speak,** he **recites one** blessing; if he **spoke,** he **recites two** blessings, when donning the phylacteries of the head as well as when donning the phylacteries of the arm.
+Abaye and Rava jointly resolve the tension: *lo sach mevarech achat, sach mevarech shtayim* — if one did not talk between the two, one makes one *beracha* total; if one talked, one makes two. The correct reading of Rav Chisda's statement, then, is not that one always makes two blessings, with talking merely requiring an *additional* one. Rather, the default is one *beracha* — the *lehaniach* on the *shel yad* covers the *shel rosh* as well — and talking between the two necessitates a second, separate *beracha* on the *shel rosh*. This default of a single *beracha* reflects a conceptual point: although it is true that *ein me'akvin zeh et zeh* — the two *tefillin* do not invalidate one another, and one can in principle fulfill the *mitzvah* of *shel yad* without *shel rosh* — when the two are worn together they form a single, larger, complete process, and so one *beracha* covers the whole.
 
-Abaye and Rava jointly resolve the tension: *lo sach mevarech achat, sach mevarech shtayim* — if one did not talk between the two, one makes one *beracha* total; if one talked, one makes two. The correct reading of Rav Chisda's statement, then, is not that one always makes two blessings, with talking merely requiring an *additional* one. Rather, the default is one *beracha* — the *lehaniach* on the *shel yad* covers the *shel rosh* as well — and talking between the two necessitates a second, separate *beracha* on the *shel rosh*.
+When is the *nusach* of *al mitzvat tefillin* used? When there has been a *hefsek* between the two, and the *shel rosh* requires its own *beracha* as an independent act. *Tosafot* raises the further question of what precisely constitutes a *hefsek* in cases of this kind — comparing *tefillin* to *bedikat chametz*, which is one continuous process, and to *shechita* performed on many chickens in sequence, where the acts are clearly distinct yet covered by a single *beracha* — with *tefillin* occupying an intermediate position that makes the question genuinely difficult, though that analysis lies beyond our present scope. What is worth noting here is that the question of what constitutes a *hefsek* also bears on the *nusach* employed, since the *beracha* one is trying to extend to multiple acts shapes what kind of interruption is disqualifying.
 
-When is the *nusach* of *al mitzvat tefillin* used? When there has been a *hefsek* between the two, and the *shel rosh* requires its own *beracha* as an independent act. This also becomes practically relevant beyond the case of talking: if a person cannot wear the *shel yad* — due to a cast, an injury, or some other *chatzitza* — and puts on only the *shel rosh*, that *shel rosh* would receive both *berachot*, since it now stands alone as a separate *mitzvah*.
+This also becomes practically relevant beyond the case of talking: if a person cannot wear the *shel yad* — due to a cast, an injury, or some other *chatzitza* — and puts on only the *shel rosh*, that *shel rosh* would receive both *berachot*, since it now stands alone as a separate *mitzvah*.
 
 ### Ashkenazi Position
 
@@ -328,13 +355,23 @@ The Ashkenazi practice is to always recite a separate *beracha* on the *shel ros
 
 ### Sefardi Position
 
+
 The Sefardi position holds that one *beracha* — *lehaniach tefillin* — suffices for both, unless there was a *hefsek* between the two. The *lehaniach* blessing covers both, reflecting the unified process: when performed without interruption, placing the *shel yad* and then the *shel rosh* constitutes a single, larger *mitzvah* act, and one *beracha* governs the whole.
 
 When a Sefardi who talked between the two must make a separate *beracha* on the *shel rosh*, it is *al mitzvat tefillin* — not a second *lehaniach*. The active, placement-oriented formulation remains associated with the *shel yad* alone, and the *shel rosh* is addressed in its static dimension. A Sefardi who has only the *shel rosh* would recite *al mitzvat tefillin* on it.
 
+> **Hebrew/Aramaic:** סָח – אִין, לֹא סָח – לָא? וְהָא שְׁלַח רַב חִיָּיא בְּרֵיהּ דְּרַב הוּנָא מִשְּׁמֵיהּ דְּרַבִּי יוֹחָנָן: עַל תְּפִילָּה שֶׁל יָד אוֹמֵר ״בָּרוּךְ אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַנִּיחַ תְּפִילִּין״, עַל תְּפִילִּין שֶׁל רֹאשׁ אוֹמֵר ״בָּרוּךְ אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל מִצְוַת תְּפִילִּין״.
+> **Translation:** The Gemara notes: One can infer that if he **spoke, yes,** he must recite a blessing when donning the phylacteries of the head, but if he **did not speak,** he does **not** recite a blessing. The Gemara challenges this: **But Rav Ḥiyya, son of Rav Huna, sent** a ruling **in the name of Rabbi Yoḥanan: On the phylacteries of the arm** one **says** the blessing: **Blessed** are You, Lord our God, King of the Universe, **Who has sanctified us through His mitzvot and commanded us to don phylacteries. On the phylacteries of the head** one **says** the blessing: **Blessed** are You, Lord our God, King of the Universe, **Who has sanctified us through His mitzvot and commanded us concerning the mitzva of phylacteries.** This indicates that one always recites a blessing when donning the phylacteries of the head.
+
+> **Hebrew/Aramaic:** אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: לֹא סָח – מְבָרֵךְ אַחַת, סָח – מְבָרֵךְ שְׁתַּיִם.
+> **Translation:** **Abaye and Rava both say,** to resolve this apparent contradiction: Rabbi Yoḥanan meant that if one **did not speak,** he **recites one** blessing; if he **spoke,** he **recites two** blessings, when donning the phylacteries of the head as well as when donning the phylacteries of the arm.
+
 ### Action Dimension
 
+
 This leads to a broader question: does the *shel rosh* carry any dimension of active placement — *keshira*, *hanacha* — at all? For Ashkenazim, evidently yes: even on the *shel rosh* alone, one would say *lehaniach*, meaning the concept of placing applies to it as well. For Sefardim, the active dimension of the blessing is identified primarily with the *shel yad*, and the *shel rosh* is addressed in terms of its status.
+
+A further observation sharpens this point. The Ashkenazi position, on reflection, commits one to reciting two separate *birchot hamitzva* — two *asher kidshanu* blessings — over what is, in some sense, a single *ma'aseh mitzva*. That is a genuinely unusual structure. One might resolve it by saying that the *mitzva* here has two distinct dimensions: the act of placing — *u'kshartem* — and the ongoing state of wearing — *vehayu*. But even granting that a mitzva can be complex and carry two dimensions, it is difficult to identify another case where two *birchot hamitzva* are recited over a single *ma'aseh mitzva*. The Sefardi discomfort with the Ashkenazi position may reflect precisely this: accepting in principle that the *shel rosh* requires its own independent *birchat hamitzva* in the active, *asher kidshanu* sense is an idea they are not prepared to embrace, which is why even in the case of *hefsek* they move to *al mitzvat tefillin* rather than a second *lehaniach*.
 
 This in turn connects back to the debate about Rabbeinu Eliyahu's position on actually making the *kesher* each day. The question of how much active *keshira* is intrinsic to the *mitzvah* of the *shel rosh* — as opposed to the *shel yad*, where the *pasuk* reads *u'kshartem* — runs through multiple dimensions of this sugya: the *nusach ha'beracha*, the distinction between *lehaniach* and *al mitzvat*, and the Ashkenazi versus Sefardi approaches to the number of *berachot*.
 
@@ -342,15 +379,17 @@ This in turn connects back to the debate about Rabbeinu Eliyahu's position on ac
 
 ## Talking Prohibition
 
-### Speaking Aveirah
 
-> **Hebrew/Aramaic:** תָּנָא: סָח בֵּין תְּפִילָּה לִתְפִילָּה – עֲבֵירָה הִיא בְּיָדוֹ, וְחוֹזֵר עָלֶיהָ מֵעֶרְכֵי הַמִּלְחָמָה.
->
-> **Translation:** Concerning this, it is **taught** in a *baraita*: If one **spoke between** donning the **phylacteries** of the arm **and** the **phylacteries** of the head, **he has a sin, and due to** that sin **he returns from the ranks of** soldiers waging **war.** This is referring to the preparation for war, when the officers announce: "What man is there who is fearful and fainthearted? Let him go and return to his house" (Deuteronomy 20:8). The Sages explained that this is referring to one who is fearful due to his transgressions.
+
+### Speaking Aveirah
 
 A *baraita* is cited: *sach bein tefillah l'tefillah aveirah hi b'yado* — one who talks between the *shel yad* and the *shel rosh* commits a transgression.
 
+> **Hebrew/Aramaic:** תָּנָא: סָח בֵּין תְּפִילָּה לִתְפִילָּה – עֲבֵירָה הִיא בְּיָדוֹ, וְחוֹזֵר עָלֶיהָ מֵעֶרְכֵי הַמִּלְחָמָה.
+> **Translation:** Concerning this, it is **taught** in a *baraita*: If one **spoke between** donning the **phylacteries** of the arm **and** the **phylacteries** of the head, **he has a sin, and due to** that sin **he returns from the ranks of** soldiers waging **war.** This is referring to the preparation for war, when the officers announce: “What man is there who is fearful and fainthearted? Let him go and return to his house” (Deuteronomy 20:8). The Sages explained that this is referring to one who is fearful due to his transgressions.
+
 ### War Exception
+
 
 The Gemara adds a striking corollary: *v'chozer aleha m'orchei milchama* — this person may return from the battle lines on account of this transgression. The verse *mi ha'ish ha'yarei v'rach ha'leivav* — "who is the man who is fearful and faint-hearted" — is interpreted by the Gemara as *rach ha'leivav min ha'aveirah she'b'yado*, referring to the faint-heartedness induced by the *aveirah* in one's hand. Even the relatively minor transgression of talking between the two *tefillin* qualifies as a reason to return from war.
 
@@ -364,21 +403,21 @@ But there is a deeper dimension to consider. If, as argued above, the *shel yad*
 
 ---
 
-## Order of Putting On (III)
+## Order of Putting On
+
+
 
 ### Putting On Order
-
-> **Hebrew/Aramaic:** תָּנָא: כְּשֶׁהוּא מַנִּיחַ – מַנִּיחַ שֶׁל יָד, וְאַחַר כָּךְ מַנִּיחַ שֶׁל רֹאשׁ, וּכְשֶׁהוּא חוֹלֵץ – חוֹלֵץ שֶׁל רֹאשׁ, וְאַחַר כָּךְ חוֹלֵץ שֶׁל יָד. בִּשְׁלָמָא כְּשֶׁהוּא מַנִּיחַ – מַנִּיחַ שֶׁל יָד וְאַחַר כָּךְ מַנִּיחַ שֶׁל רֹאשׁ, דִּכְתִיב: ״וּקְשַׁרְתָּם לְאוֹת עַל יָדֶךָ״, וַהֲדַר ״וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֶיךָ״.
->
-> **Translation:** It is further **taught** in a *baraita*: **When one dons** phylacteries, he first **dons** the phylacteries **of the arm and afterward dons** the phylacteries **of the head. And when he removes** his phylacteries, he first **removes** the phylacteries **of the head and afterward removes** the phylacteries **of the arm.** The Gemara asks: **Granted,** the ruling that **when one dons** phylacteries he first **dons** the phylacteries **of the arm and afterward dons** the phylacteries **of the head** is understood, **as it is** first **written: "And you shall bind them for a sign upon your arm," and then** it is written: **"And they shall be for frontlets between your eyes"** (Deuteronomy 6:8).
 
 A *baraita* teaches: *k'she'hu meniach, meniach shel yad v'achar kach meniach shel rosh* — when one puts on *tefillin*, one puts on the *shel yad* first, then the *shel rosh*. The source is straightforward: *dichviv ukshartem l'os al yadecha v'hadar v'hayu l'totafot bein einecha* — the *pasuk* first mentions binding on the hand and then mentions the *totafot* between the eyes. The Torah itself prescribes the order.
 
 ### Taking Off Order
 
+> **Hebrew/Aramaic:** תָּנָא: כְּשֶׁהוּא מַנִּיחַ – מַנִּיחַ שֶׁל יָד, וְאַחַר כָּךְ מַנִּיחַ שֶׁל רֹאשׁ, וּכְשֶׁהוּא חוֹלֵץ – חוֹלֵץ שֶׁל רֹאשׁ, וְאַחַר כָּךְ חוֹלֵץ שֶׁל יָד. בִּשְׁלָמָא כְּשֶׁהוּא מַנִּיחַ – מַנִּיחַ שֶׁל יָד וְאַחַר כָּךְ מַנִּיחַ שֶׁל רֹאשׁ, דִּכְתִיב: ״וּקְשַׁרְתָּם לְאוֹת עַל יָדֶךָ״, וַהֲדַר ״וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֶיךָ״.
+> **Translation:** It is further **taught** in a *baraita*: **When one dons** phylacteries, he first **dons** the phylacteries **of the arm and afterward dons** the phylacteries **of the head. And when he removes** his phylacteries, he first **removes** the phylacteries **of the head and afterward removes** the phylacteries **of the arm.** The Gemara asks: **Granted,** the ruling that **when one dons** phylacteries he first **dons** the phylacteries **of the arm and afterward dons** the phylacteries **of the head** is understood, **as it is** first **written: “And you shall bind them for a sign upon your arm,” and then** it is written: **“And they shall be for frontlets between your eyes”** (Deuteronomy 6:8).
+
 > **Hebrew/Aramaic:** אֶלָּא כְּשֶׁהוּא חוֹלֵץ, חוֹלֵץ שֶׁל רֹאשׁ וְאַחַר כָּךְ חוֹלֵץ שֶׁל יָד, מְנָלַן? אָמַר רַבָּה: רַב הוּנָא אַסְבְּרַאּ לִי, אָמַר קְרָא: ״וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֶיךָ״, כׇּל זְמַן שֶׁבֵּין עֵינֶיךָ יְהוּ שְׁתַּיִם.
->
-> **Translation:** **But from where do we** derive the *halakha* that **when he removes** his phylacteries, he first **removes** the phylacteries **of the head and afterward he removes** the phylacteries **of the arm? Rabba said** in explanation: **Rav Huna explained to me** the source of this *halakha*. **The verse states:** "And you shall bind them for a sign upon your arm **and they shall be for frontlets between your eyes,"** and it is derived from here: **As long as** the phylacteries of the head are **between your eyes,** the number of phylacteries you are wearing **shall be two.**
+> **Translation:** **But from where do we** derive the *halakha* that **when he removes** his phylacteries, he first **removes** the phylacteries **of the head and afterward he removes** the phylacteries **of the arm? Rabba said** in explanation: **Rav Huna explained to me** the source of this *halakha*. **The verse states:** “And you shall bind them for a sign upon your arm **and they shall be for frontlets between your eyes,”** and it is derived from here: **As long as** the phylacteries of the head are **between your eyes,** the number of phylacteries you are wearing **shall be two.**
 
 When removing, however, the order reverses: *choleitz shel rosh v'achar kach choleitz shel yad* — one removes the *shel rosh* first, then the *shel yad*. The question the Gemara asks is: the putting-on order is mandated explicitly by the *pessukim*, but where does the taking-off order come from?
 
@@ -388,12 +427,51 @@ This dependency is not a strict halachic prohibition in the sense that one canno
 
 ---
 
-## Time Restrictions (II)
+## Time Restrictions
+
+
 
 ### Placement Timing
 
+
+
+The Gemara asks: *mei'ematai nevarech aleihen?* — from when does one make the *beracha* on *tefillin*? The answer is *mishat hanachatan* — from the time of placing them on.
+
+But the Gemara refines what this means through a case: *haya mashkim latzet laderech* — one woke up early and needed to set out on the road. Not wanting to carry his *tefillin* in his bag out of concern they might be lost, he put them on before daybreak. Then, *uch'sheyagia zman memashmesh bahen umevarech aleihen* — when the proper time arrives, he touches them and makes the *beracha* at that point, because the touching and feeling constitutes a kind of renewed placing on.
+
+What is striking here is how this case illuminates the two definitions the Gemara has been working with all along — *kshira* versus *hanacha*. The act of *kshira*, the actual tying on, happened before the right time, before daybreak. Yet the *beracha* may still be recited later, because the Gemara is pointing to something beyond the initial act: the state of wearing *tefillin*. Another way to frame it is that one may make the *beracha* *kol zman shemenichan* — as long as one is still wearing them — because what matters is not only the moment of putting them on but the ongoing condition of having them on. This is why, in practice, if one is already wearing *tzitzit* or *tefillin* from an earlier point, one touches them and recites the *beracha* — the emphasis falls on the state of wearing, not merely the act of placement.
+
+The Gemara then asks: *v'ad matai menichan?* — until when may one wear *tefillin*? The answer is *ad shetishka hachama* — until sunset. There are two distinct reasons for this. One is the principle of *laila lav zman tfillin* — nighttime is not the time for *tefillin*, derived from the *pessukim* in a manner the Gemara elaborates, placing *tefillin* among those *mitzvot* that apply specifically during the day. The other reason is a concern of a more practical, bodily nature: that one might fall asleep and pass gas, which would not be consistent with maintaining the *kedushah* of the *tefillin*.
+
+---
+
+## Order of Putting On (II)
+
+
+
+### Veyayu Plural
+
+Rav Kahana, in explaining the dependency of the *shel rosh* on the *shel yad*, grounds it in the same verse: *v'hayu l'totafot bein einecha* — the plural *v'hayu* signifies that both must be present simultaneously whenever the *shel rosh* is being worn. This provides the basis for the rule that one removes the *shel rosh* before the *shel yad*.
+
+---
+
+## Order of Putting On (III)
+
+
+
+### Building Dependency
+
+The underlying principle is a distinction between *state* and *action*. The *shel rosh* is dependent on the *shel yad* in terms of the state of wearing: the proper state is one in which both are present, with the *shel rosh*'s presence presupposing the *shel yad*'s. This is a dependency of *havayah* — of being — rather than of the initial act of placement. As such, while one can put on either independently, the ongoing state of wearing the *shel rosh* is halachically conditioned on also wearing the *shel yad*.
+
+---
+
+## Time Restrictions (II)
+
+
+
+### Early Placement
+
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: תְּפִילִּין מֵאֵימָתַי מְבָרֵךְ עֲלֵיהֶן? מִשְּׁעַת הַנָּחָתָן. כֵּיצַד? הָיָה מַשְׁכִּים לָצֵאת לַדֶּרֶךְ וּמִתְיָירֵא שֶׁמָּא יֹאבֵדוּ – מַנִּיחָן, וּכְשֶׁיַּגִּיעַ זְמַנָּן מְמַשְׁמֵשׁ בָּהֶן וּמְבָרֵךְ עֲלֵיהֶן.
->
 > **Translation:** **The Sages taught** in a *baraita*: With regard to **phylacteries, from when does one recite a blessing over them? From** when **the time** arrives to **don them. How so? If one is rising early to leave** his home **to** travel on **the road and is afraid lest** his phylacteries **become lost** during the journey, he **dons them** even at night, despite the fact that this is not the proper time for the mitzva of phylacteries. **And when** the **time** for **their** mitzva **arrives,** in the morning, **he touches them and recites a blessing over them.**
 
 The question of timing the *beracha* connects to a further scenario. What if someone wakes up early, before daybreak, and wants to wear their *tefillin* so as not to risk losing them on a journey? The Gemara addresses this: *haya mashkim latzet laderech umityarei shema yovedu* — if one rises early to travel and fears the *tefillin* might be lost if left behind, *menichan* — one may put them on even before daybreak.
@@ -407,16 +485,11 @@ This halakha illuminates the interplay between *keshira* and *hanacha* discussed
 ### Sunset Removal
 
 > **Hebrew/Aramaic:** וְעַד מָתַי מַנִּיחָן? עַד שֶׁתִּשְׁקַע הַחַמָּה. רַבִּי יַעֲקֹב אוֹמֵר: עַד שֶׁתִּכְלֶה רֶגֶל מִן הַשּׁוּק, וַחֲכָמִים אוֹמְרִים: עַד זְמַן שֵׁינָה. וּמוֹדִים חֲכָמִים לְרַבִּי יַעֲקֹב שֶׁאִם חֲלָצָן לָצֵאת לְבֵית הַכִּסֵּא אוֹ לִיכָּנֵס לְבֵית הַמֶּרְחָץ וְשָׁקְעָה חַמָּה – שׁוּב אֵינוֹ חוֹזֵר וּמַנִּיחָן.
->
-> **Translation:** **And until when does one wear them? Until the sun sets. Rabbi Ya'akov says: Until traffic in the marketplace ceases. And the Rabbis say: Until the time of sleep. And the Rabbis concede to Rabbi Ya'akov that if one removed them to go out to the bathroom or to enter the bathhouse and the sun set, one does not don them again.**
+> **Translation:** **And until when does one wear them? Until the sun sets. Rabbi Ya’akov says: Until traffic in the marketplace ceases. And the Rabbis say: Until the time of sleep. And the Rabbis concede to Rabbi Ya’akov that if one removed them to go out to the bathroom or to enter the bathhouse and the sun set, one does not don them again.**
 
 How long may one wear *tefillin*? *Ad shetishka ha'chama* — until sunset.
 
 ### Night Prohibition
-
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: הֲלָכָה כְּרַבִּי יַעֲקֹב. רַב חִסְדָּא וְרַבָּה בַּר רַב הוּנָא מְצַלּוּ בְּהוּ בְּאוּרְתָּא. אִיכָּא דְּאָמְרִי: אֵין הֲלָכָה כְּרַבִּי יַעֲקֹב.
->
-> **Translation:** **Rav Naḥman says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Ya'akov.** The Gemara likewise relates that **Rav Ḥisda and Rabba bar Rav Huna would pray in the evening,** i.e., the evening service, **with** phylacteries. **Some say** that Rav Naḥman ruled that the ***halakha*** is **not in accordance with** the opinion of **Rabbi Ya'akov** but in accordance with the opinion of the first *tanna* that the mitzva of phylacteries ends at sunset.
 
 Two distinct rationales are offered for not wearing *tefillin* at night. The first is *laila lav zman tefillin* — night is simply not the halachic time for *tefillin*, derived from the *pessukim* in a manner paralleling other *mitzvot* that are time-bound to the day. This is a formal *din* defining the temporal scope of the *mitzvah*. The second concern is entirely different in character: a fear that one will fall asleep while wearing *tefillin* and pass gas, which would be a violation of the *kedusha* of the *tefillin*. This is a rabbinic concern rooted in bodily propriety, not in a definitional exclusion of nighttime.
 
@@ -426,7 +499,14 @@ The two rationales lead to different practical consequences, as the subsequent o
 
 Rav Nachman rules: *halacha k'Rabbi Yaakov* — the *halacha* follows Rabbi Yaakov, who said one may continue wearing *tefillin ad shetichleh regel min hashuk* — until the foot clears the market, meaning until people have finished their business and the streets have emptied, sometime after sunset. This standard is not based on the formal *din* of *laila lav zman tefillin* but on the practical concern of sleep: as long as people are still active in the market, the risk of falling asleep is not yet acute.
 
+[DAF:36b]
 ### Evening Prayer Dispute
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: הֲלָכָה כְּרַבִּי יַעֲקֹב. רַב חִסְדָּא וְרַבָּה בַּר רַב הוּנָא מְצַלּוּ בְּהוּ בְּאוּרְתָּא. אִיכָּא דְּאָמְרִי: אֵין הֲלָכָה כְּרַבִּי יַעֲקֹב.
+> **Translation:** **Rav Naḥman says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Ya’akov.** The Gemara likewise relates that **Rav Ḥisda and Rabba bar Rav Huna would pray in the evening,** i.e., the evening service, **with** phylacteries. **Some say** that Rav Naḥman ruled that the ***halakha*** is **not in accordance with** the opinion of **Rabbi Ya’akov** but in accordance with the opinion of the first *tanna* that the mitzva of phylacteries ends at sunset.
+
+> **Hebrew/Aramaic:** וְהָא רַב חִסְדָּא וְרַבָּה בַּר רַב הוּנָא מְצַלּוּ בְּהוּ בְּאוּרְתָּא? הָהוּא פְּלִיגָא.
+> **Translation:** The Gemara raises a difficulty: **But Rav Ḥisda and Rabba bar Rav Huna would pray in the evening with** phylacteries. The Gemara explains: **That** opinion represented in this incident **disagrees** with the ruling of Rav Naḥman.
 
 The Gemara reports that Rav Chisda and Rabbah bar Rav Huna *matzlu behu b'orta* — they prayed the evening prayer while wearing *tefillin* at night. This is recorded as support for wearing *tefillin* after nightfall, at least for *Ma'ariv*.
 

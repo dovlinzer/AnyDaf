@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Parameters & Scope",
+    "candidates": [
+      "Opening & Transition",
+      "Shevua vs. Neder",
+      "Rambam & Ra'avad",
+      "Ra'avad's Two Components",
+      "Parameters & Scope",
+      "Beit Din Requirement",
+      "No Subpoena Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text that the 'Parameters & Scope' section's prose directly introduces and explains \u2014 listing who the oath of testimony applies to (men not women, non-relatives, fit witnesses only).",
+      "chosen_heading": "Parameters & Scope",
+      "current_heading": "Parameters & Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "No Subpoena Function",
+    "candidates": [
+      "Beit Din Requirement",
+      "No Subpoena Function",
+      "Liability Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnaic text about bifnei beis din ve-shelo bifnei beis din with Rabbi Meir's and Chachamim's positions, which is exactly what the 'Beit Din Requirement' prose section says it is discussing, introducing Rabbi Meir's position about the oath applying inside and outside of court.",
+      "chosen_heading": "Beit Din Requirement",
+      "current_heading": "No Subpoena Function",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Liability Framework",
+    "candidates": [
+      "No Subpoena Function",
+      "Liability Framework",
+      "Perjury vs. Denial",
+      "Pasuk Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses liability for intentional vs. unwitting false oaths and the sliding-scale offering, which directly matches the 'Liability Framework' prose discussing zadon hashvua, shiggat hashvua, and korban oleh veyored.",
+      "chosen_heading": "Liability Framework",
+      "current_heading": "Liability Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Pasuk Interpretation",
+    "candidates": [
+      "Perjury vs. Denial",
+      "Pasuk Interpretation",
+      "Three Braitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the initial Gemara question 'mena hanei milei' and the first baraita deriving the exclusion of women from testimony via 've-amdu shnei ha-anashim,' which directly matches the 'Pasuk Interpretation' prose describing exactly this derivation.",
+      "chosen_heading": "Pasuk Interpretation",
+      "current_heading": "Pasuk Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Three Braitot",
+    "candidates": [
+      "Three Braitot",
+      "Tosafot's Question",
+      "Tosafot's Resolution",
+      "Standing Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items are the three baraitot and their Gemara clarifications about whether 've-amdu shnei ha-anashim' refers to witnesses or litigants, which is precisely what the 'Three Braitot' prose describes in detail.",
+      "chosen_heading": "Three Braitot",
+      "current_heading": "Three Braitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Standing Requirement",
+    "candidates": [
+      "Tosafot's Question",
+      "Tosafot's Resolution",
+      "Standing Requirement",
+      "Fair Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the standing requirement for litigants and Rabbi Yehuda's qualification about seating both litigants, which is precisely what the 'Standing Requirement' section's prose describes.",
+      "chosen_heading": "Standing Requirement",
+      "current_heading": "Standing Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Fair Treatment",
+    "candidates": [
+      "Fair Treatment",
+      "L'Chaf Zechut",
+      "Emitecha & Preference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fair Treatment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the equal treatment (one sitting/one standing) and the l'chaf zechut interpretations, matching heading 0's prose about fair treatment and the b'tzedek verse, but the l'chaf zechut portion also fits heading 1 \u2014 however, since the essay's heading 0 prose explicitly mentions both the sitting/standing prohibition AND references the b'tzedek verse, and heading 1's prose discusses l'chaf zechut as a 'second interpretation of the same verse,' Item 1 (which contains both interpretations together in one baraita) belongs under heading 0 where the first interpretation is discussed, with the l'chaf zechut as an appended 'davar acher.'",
+      "second_heading": "Emitecha & Preference",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's teaching on amitecha meaning 'one who is with you in Torah and mitzvot,' which corresponds precisely to heading 2's prose about Rav Yosef's reading of amitecha as im she'itcha b'Torah u'v'mitzvot.",
+      "current_heading": "Fair Treatment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Emitecha & Preference",
+    "candidates": [
+      "L'Chaf Zechut",
+      "Emitecha & Preference",
+      "Standing Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara story about Rav Ulla before Rav Na\u1e25man and the 'leshuda de-dayni' addendum, which the prose of candidate 1 explicitly discusses as an illustration of the 'amitecha' preference rule for a talmid chacham.",
+      "chosen_heading": "Emitecha & Preference",
+      "current_heading": "Emitecha & Preference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Standing Rules",
+    "candidates": [
+      "Standing Rules",
+      "Rav Huna's Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Ulla's and Rav Huna's clarifications of when standing is required in court (litigants vs. witnesses, deliberation vs. verdict), which is precisely what the 'Standing Rules' prose section describes.",
+      "chosen_heading": "Standing Rules",
+      "current_heading": "Standing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rav Huna's Widow",
+    "candidates": [
+      "Rav Huna's Widow",
+      "The Goose Ruse",
+      "Half-Sitting Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman's dilemma about rising for the wife of Rav Huna, which matches the 'Rav Huna's Widow' section prose exactly \u2014 the goose solution is only mentioned at the very end of the passage and the primary content is the dilemma itself.",
+      "chosen_heading": "Rav Huna's Widow",
+      "current_heading": "Rav Huna's Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Half-Sitting Solution",
+    "candidates": [
+      "The Goose Ruse",
+      "Half-Sitting Solution",
+      "Voluntary Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tension between Rav Huna's ruling that judges sit and litigants stand at gmar din versus Rav Nachman's need to rise, and resolves it with the half-sitting posture (deyotiv keman de-shrei masanei), which is precisely what the 'Half-Sitting Solution' prose describes.",
+      "chosen_heading": "Half-Sitting Solution",
+      "current_heading": "Half-Sitting Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Voluntary Standing",
+    "candidates": [
+      "Voluntary Standing",
+      "Forced Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabba bar Rav Huna's ruling about seating a talmid chacham and an am ha'aretz as litigants, with the am ha'aretz permitted to voluntarily stand \u2014 exactly what the 'Voluntary Standing' prose discusses.",
+      "chosen_heading": "Voluntary Standing",
+      "current_heading": "Voluntary Standing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Forced Standing",
+    "candidates": [
+      "Forced Standing",
+      "Appearance of Bias",
+      "Fixed Learning Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Rav bar Sherevya/Rav Pappa incident of forced standing by a court agent, which is precisely what heading 0 'Forced Standing' discusses in its prose.",
+      "chosen_heading": "Forced Standing",
+      "current_heading": "Forced Standing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Fixed Learning Time",
+    "candidates": [
+      "Appearance of Bias",
+      "Fixed Learning Time",
+      "Honor & Testimony",
+      "Found Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the prohibition on a Torah scholar sitting early before a judge (appearance of bias) AND the exception for a fixed learning time, and the current heading 'Fixed Learning Time' with its prose explicitly addresses both the general rule and the exception, making it the best fit \u2014 though note the passage also covers the 'Appearance of Bias' concern, the current placement is correct as the prose there discusses the full Gemara including the exception.",
+      "chosen_heading": "Fixed Learning Time",
+      "current_heading": "Fixed Learning Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Found Objects",
+    "candidates": [
+      "Honor & Testimony",
+      "Found Objects",
+      "Money vs. Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the Rabba bar Rav Huna statement about a Torah scholar's honor in testimony AND Rav Sheisha's supporting proof from found objects \u2014 both parts together form a single unit about the testimony/honor principle, and the 'Honor & Testimony' section's prose explicitly discusses this exact teaching, while the 'Found Objects' section only discusses the proof-text as a secondary support.",
+      "chosen_heading": "Honor & Testimony",
+      "current_heading": "Found Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Money vs. Sin",
+    "candidates": [
+      "Found Objects",
+      "Money vs. Sin",
+      "Rashi's Reading",
+      "Ex Post vs. Ex Ante"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the mamona/issura distinction and the chilul Hashem principle, which is precisely what the 'Money vs. Sin' prose section describes.",
+      "chosen_heading": "Money vs. Sin",
+      "current_heading": "Money vs. Sin",
+      "moved": false
+    }
+  }
+]

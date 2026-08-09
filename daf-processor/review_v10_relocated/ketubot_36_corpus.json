@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Beis Din Representation",
+    "candidates": [
+      "Kim Lei Summary",
+      "Ilanit & Age Status",
+      "Besula Status",
+      "Ilanit Case",
+      "Ilanit Contradiction",
+      "Meir vs Rabbanan",
+      "Have Knas & Betulim",
+      "No Ta'anat Betulim",
+      "Gamliel vs Yehoshua",
+      "Beis Din Representation",
+      "Bogeret Layla Rishona",
+      "Blood vs Petach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sheshet's resolution attributing the contradiction to Rabban Gamliel vs. Rabbi Yehoshua, followed by the gemara's question about whether Rabban Gamliel's leniency applies when she cannot speak for herself, and the answer invoking 'open your mouth for the mute' \u2014 precisely the content described in the 'Beis Din Representation' prose.",
+      "chosen_heading": "Beis Din Representation",
+      "current_heading": "Beis Din Representation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Blood vs Petach",
+    "candidates": [
+      "Bogeret Layla Rishona",
+      "Blood vs Petach",
+      "Suma Accident Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the baraita ruling that a bogeret has no ta'anat betulim and Rav's statement that she is given the first night (implying she has an intact hymen), which is precisely the setup described in candidate 0's prose about the bogeret and layla rishona, not yet the resolution about blood vs. petach found in candidate 1.",
+      "chosen_heading": "Bogeret Layla Rishona",
+      "current_heading": "Blood vs Petach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Suma Accident Theory",
+    "candidates": [
+      "Blood vs Petach",
+      "Suma Accident Theory",
+      "All Women Have Accidents",
+      "Blind Woman Unawareness",
+      "Shem Ra Divorce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Blood vs Petach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the blood vs. petach patuach distinction for a bogeret, which is precisely what heading 0 ('Blood vs Petach') is about.",
+      "second_heading": "Suma Accident Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers both Sumchos's reasoning about the blind woman falling and the gemara's challenge/response about sighted women showing their mothers, which spans headings 1-3 but currently sits under heading 1 ('Suma Accident Theory') where the passage begins \u2014 and since all of item 2 is one continuous discussion, it belongs under heading 1 where it currently sits.",
+      "current_heading": "Suma Accident Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shem Ra Divorce",
+    "candidates": [
+      "All Women Have Accidents",
+      "Blind Woman Unawareness",
+      "Shem Ra Divorce",
+      "Rumor vs Proof",
+      "Rumor Insufficient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about 'yotzet mishum shem ra' and Rav Sheshet's reinterpretation, which is precisely what the 'Shem Ra Divorce' section's prose describes as its content.",
+      "chosen_heading": "Shem Ra Divorce",
+      "current_heading": "Shem Ra Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rumor Insufficient",
+    "candidates": [
+      "Rumor vs Proof",
+      "Rumor Insufficient",
+      "Witnesses & Behavior",
+      "Document vs Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's inference about tainted documents and Rava's ruling that a rumor about a woman's promiscuity carries no legal weight, which directly matches the 'Rumor Insufficient' section's prose describing exactly these elements.",
+      "chosen_heading": "Rumor Insufficient",
+      "current_heading": "Rumor Insufficient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Document vs Woman",
+    "candidates": [
+      "Witnesses & Behavior",
+      "Document vs Woman",
+      "Convert/Captive/Slave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the analogy between the woman's case and the document case, questioning whether the cases are truly comparable and resolving the distinction \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Document vs Woman",
+      "current_heading": "Document vs Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Convert/Captive/Slave",
+    "candidates": [
+      "Convert/Captive/Slave",
+      "Yehuda: Captive Virgin",
+      "Capital Crimes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full mishna text introducing all categories of women without a fine (converts, captives, slaves) plus Rabbi Yehuda's dissent, and the current heading's prose explicitly discusses both the main rule and the age threshold, making it the correct home for this complete mishna unit.",
+      "chosen_heading": "Convert/Captive/Slave",
+      "current_heading": "Convert/Captive/Slave",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Capital Crimes",
+    "candidates": [
+      "Yehuda: Captive Virgin",
+      "Capital Crimes",
+      "Ason Pasuk",
+      "Dosa's Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the capital-offense cases (daughter, granddaughter, stepdaughter, etc.) with no knas, which is precisely what the 'Capital Crimes' prose describes as its content.",
+      "chosen_heading": "Capital Crimes",
+      "current_heading": "Capital Crimes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Dosa's Assumption",
+    "candidates": [
+      "Ason Pasuk",
+      "Dosa's Assumption",
+      "Rava's Doubt",
+      "Chotei Nishkar",
+      "Universal vs Contextual",
+      "Kesuvah Protection",
+      "Redeem vs Testify"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dosa's Assumption",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yochanan's comparison of Rabbi Yehuda and Rabbi Dosa, and Rabba's challenge to whether they truly cohere, matching 'Dosa's Assumption' and 'Rava's Doubt' \u2014 but since both belong together under the debate about whether their positions align, 'Dosa's Assumption' (index 1) covers item 1 and 'Rava's Doubt' (index 2) covers item 2, yet items 1-2 form one continuous unit best placed under index 1's current heading which already discusses both Rabbi Yochanan's parallel and Rabba's qualification.",
+      "second_heading": "Chotei Nishkar",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's challenge specifically about the 'shelo yihyeh chote nishkar' rationale, which is precisely what the 'Chotei Nishkar' section (index 3) describes.",
+      "current_heading": "Dosa's Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Redeem vs Testify",
+    "candidates": [
+      "Rava's Doubt",
+      "Chotei Nishkar",
+      "Universal vs Contextual",
+      "Kesuvah Protection",
+      "Redeem vs Testify",
+      "Both Required",
+      "Money as Proof",
+      "Yehuda: Always Marry",
+      "Yehuda vs Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items deal with the baraita about redeeming vs. testifying about a captive woman and the initial puzzle that more knowledge leads to less permission, which is precisely what heading 4 'Redeem vs Testify' describes.",
+      "chosen_heading": "Redeem vs Testify",
+      "current_heading": "Redeem vs Testify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Yehuda vs Rabbanan",
+    "candidates": [
+      "Both Required",
+      "Money as Proof",
+      "Yehuda: Always Marry",
+      "Yehuda vs Rabbanan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda vs Rabbanan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains exactly the Rav Pappa/Rav Huna dispute about Rabbi Yehuda's position that candidate 3 ('Yehuda vs Rabbanan') explicitly discusses in its prose.",
+      "second_heading": "Money as Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Rabbanan's explanation using 'lo shadei inish zuzei bi-khdi,' which is precisely the financial-commitment logic that candidate 1 ('Money as Proof') discusses in detail.",
+      "current_heading": "Yehuda vs Rabbanan",
+      "moved": true
+    }
+  }
+]

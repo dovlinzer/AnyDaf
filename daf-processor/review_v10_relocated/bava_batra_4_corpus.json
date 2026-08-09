@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Herod's Origins",
+    "candidates": [
+      "Wall Height Intro",
+      "Teardown Rules",
+      "Herod's Rebuilding Q",
+      "Possible Answers",
+      "Herod's Origins",
+      "Chashmonai Woman",
+      "Body Preservation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Herod's origins as a slave in the Hasmonean household and his rise to power, which is precisely what the 'Herod's Origins' section prose discusses.",
+      "chosen_heading": "Herod's Origins",
+      "current_heading": "Herod's Origins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Body Preservation",
+    "candidates": [
+      "Chashmonai Woman",
+      "Body Preservation",
+      "Slave Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Herod preserving the body in honey and the dispute about necrophilia, which is precisely what the 'Body Preservation' section's prose discusses.",
+      "chosen_heading": "Body Preservation",
+      "current_heading": "Body Preservation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Slave Exclusion",
+    "candidates": [
+      "Slave Exclusion",
+      "Slaughter of Rabbis",
+      "Herod-Bava Encounter",
+      "Bava's Responses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Herod identifying the rabbis as those who expound the verse and then killing them while sparing Bava ben Buta, which matches the 'Slaughter of Rabbis' section's prose exactly.",
+      "chosen_heading": "Slaughter of Rabbis",
+      "current_heading": "Slave Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Bava's Responses",
+    "candidates": [
+      "Slaughter of Rabbis",
+      "Herod-Bava Encounter",
+      "Bava's Responses",
+      "Herod's Regret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items depict the unfolding exchange in which Bava ben Buta declines to curse Herod on successive halachic grounds and then expresses fear, culminating in the bird-of-heaven proverb \u2014 exactly the multi-stage dialogue described in the 'Bava's Responses' prose.",
+      "chosen_heading": "Bava's Responses",
+      "current_heading": "Bava's Responses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Herod's Regret",
+    "candidates": [
+      "Herod's Regret",
+      "Light & Eyes",
+      "Roman Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Herod's regret/remedy question AND both versions of Bava ben Buta's response (light and eyes), spanning content discussed under headings 0 and 1, but since it must go under one heading and it's currently under heading 0 which covers the opening of the passage, and heading 1's prose separately discusses only the second version, the full passage fits better under heading 0 which introduces the entire exchange including both metaphors.",
+      "chosen_heading": "Herod's Regret",
+      "current_heading": "Herod's Regret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Roman Authority",
+    "candidates": [
+      "Light & Eyes",
+      "Roman Authority",
+      "Rome's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rome's contemptuous response including 'if you have not demolished it do not demolish it' and 'Herod the slave who has made himself a freeman,' which matches the 'Rome's Response' section prose precisely, not the 'Roman Authority' section which only covers Herod's fear and Bava ben Buta's advice to act preemptively.",
+      "chosen_heading": "Rome's Response",
+      "current_heading": "Roman Authority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rome's Response",
+    "candidates": [
+      "Roman Authority",
+      "Rome's Response",
+      "Construction Beauty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the meaning of 'reikha/racha' as denoting royalty, which directly corresponds to the prose in 'Rome's Response' that discusses the term 'racha' and its derivation from II Samuel and Genesis 41:43.",
+      "chosen_heading": "Rome's Response",
+      "current_heading": "Rome's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Construction Beauty",
+    "candidates": [
+      "Construction Beauty",
+      "Wave Pattern",
+      "Bava's Complicity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the construction materials and wave-like pattern of Herod's building, including the rabbis' advice to leave it without gold plating, all of which is directly discussed in the 'Construction Beauty' prose section.",
+      "chosen_heading": "Construction Beauty",
+      "current_heading": "Construction Beauty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Bava's Complicity",
+    "candidates": [
+      "Wave Pattern",
+      "Bava's Complicity",
+      "Justifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks how Bava ben Buta could give advice to Herod given that Daniel was punished for giving advice to Nebuchadnezzar, which is precisely what the 'Bava's Complicity' section's prose describes.",
+      "chosen_heading": "Bava's Complicity",
+      "current_heading": "Bava's Complicity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Justifications",
+    "candidates": [
+      "Justifications",
+      "Custom Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Justifications",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the two justifications (slave obligated in mitzvot; Temple needs royal involvement) that the 'Justifications' prose section explicitly describes and analyzes.",
+      "second_heading": "Custom Rule",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 opens an entirely new sub-inquiry about Daniel's punishment, which is a distinct topic not addressed in the 'Justifications' prose but may belong under a heading not visible here; however it clearly does not belong under 'Justifications' or 'Custom Rule', so the split is warranted even if the second heading placement is uncertain.",
+      "current_heading": "Justifications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Custom Rule",
+    "candidates": [
+      "Custom Rule",
+      "Ownership Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the word 'hakol' and its inclusion of palm and laurel branches, which is exactly what the 'Custom Rule' prose describes.",
+      "chosen_heading": "Custom Rule",
+      "current_heading": "Custom Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Ownership Presumption",
+    "candidates": [
+      "Ownership Presumption",
+      "Garden vs Valley"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's analysis of why it is not obvious that collapsed wall stones belong to both parties, which matches precisely the prose under 'Ownership Presumption' describing the lo tzricha ruling and the scenario where stones fall into one party's domain.",
+      "chosen_heading": "Ownership Presumption",
+      "current_heading": "Ownership Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Garden vs Valley",
+    "candidates": [
+      "Garden vs Valley",
+      "Mishnah Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present exactly the internal contradiction (hagufa kashya) between the garden clause and the valley clause that candidate 0's prose explicitly describes, before Abaye and Rava's resolutions which appear in candidate 1.",
+      "chosen_heading": "Garden vs Valley",
+      "current_heading": "Garden vs Valley",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Mishnah Reading",
+    "candidates": [
+      "Mishnah Reading",
+      "Unilateral Construction",
+      "Chazit Methods",
+      "Branch Walls",
+      "Joint Markers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact Abaye/Rava dispute about reading the mishna's language regarding garden vs. field obligations, which is precisely what the 'Mishnah Reading' section's prose describes in detail.",
+      "chosen_heading": "Mishnah Reading",
+      "current_heading": "Mishnah Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Joint Markers",
+    "candidates": [
+      "Unilateral Construction",
+      "Chazit Methods",
+      "Branch Walls",
+      "Joint Markers",
+      "Anti-Fraud Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Chazit Methods",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the various methods of making a chazit (bending corners, plastering) and the debates about inside vs. outside marking \u2014 exactly what heading 1 'Chazit Methods' describes in its prose.",
+      "second_heading": "Branch Walls",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 address the specific case of branch/palm walls (hutza) and Abaye's conclusion that only a document suffices \u2014 exactly what heading 2 'Branch Walls' describes in its prose.",
+      "current_heading": "Joint Markers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Anti-Fraud Debate",
+    "candidates": [
+      "Joint Markers",
+      "Anti-Fraud Debate",
+      "Extra Clauses",
+      "Ravina's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the continuous exchange between Rava from Parzika and Rav Ashi about why the mishna teaches a remedy against a swindler, which is precisely the content described in the 'Anti-Fraud Debate' prose.",
+      "chosen_heading": "Anti-Fraud Debate",
+      "current_heading": "Anti-Fraud Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Ravina's Explanation",
+    "candidates": [
+      "Extra Clauses",
+      "Ravina's Explanation",
+      "Three & Fourth Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava from Parzika's question and Ravina's resolution about palm branches (huzei) and the sufficiency of a chazit contra Abaye, which is precisely what the 'Ravina's Explanation' prose section describes.",
+      "chosen_heading": "Ravina's Explanation",
+      "current_heading": "Ravina's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Three & Fourth Walls",
+    "candidates": [
+      "Three & Fourth Walls",
+      "Rabbi Yosi's Rule",
+      "Gemara Expansion",
+      "Cost vs Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together cover the full arc of the mishna (three walls / fourth wall) and its gemara discussion \u2014 the mishna ruling, Shmuel's halakha ruling, the Rav Huna/Chiyya bar Rav cost dispute, and the gemara's proof attempt \u2014 which maps precisely onto what heading 0 ('Three & Fourth Walls') describes as its scope, while headings 1\u20133 carve out sub-topics that are prose summaries of these very same items rather than separate sections they should be moved to.",
+      "chosen_heading": "Three & Fourth Walls",
+      "current_heading": "Three & Fourth Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Cost vs Benefit",
+    "candidates": [
+      "Rabbi Yosi's Rule",
+      "Gemara Expansion",
+      "Cost vs Benefit",
+      "Payment Determination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rav Huna and Chiya bar Rav about how payment is calculated (actual cost vs. cheapest reeds), and explains the difference between Tanna Kamma and Rabbi Yosei under Rav Huna's view \u2014 precisely the content described in the 'Cost vs Benefit' section prose.",
+      "chosen_heading": "Cost vs Benefit",
+      "current_heading": "Cost vs Benefit",
+      "moved": false
+    }
+  }
+]

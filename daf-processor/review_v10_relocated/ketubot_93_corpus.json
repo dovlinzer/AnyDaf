@@ -1,0 +1,273 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Estate = 200",
+    "candidates": [
+      "Mishna Setup",
+      "Estate = 100",
+      "Estate = 200",
+      "Estate = 300",
+      "Two Models Explained",
+      "Aumann Introduction",
+      "Shnayim Ochzim Model",
+      "Pairwise Analysis",
+      "Backwards Calculation",
+      "Pairwise Verification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's rulings for estates of 200 and 300 dinars, which is precisely what the 'Estate = 200' section discusses (noting also the 300 case figures), and the current placement under that heading is correct.",
+      "chosen_heading": "Estate = 200",
+      "current_heading": "Estate = 200",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Pairwise Verification",
+    "candidates": [
+      "Estate = 300",
+      "Two Models Explained",
+      "Aumann Introduction",
+      "Shnayim Ochzim Model",
+      "Pairwise Analysis",
+      "Backwards Calculation",
+      "Pairwise Verification",
+      "Uniqueness Proof",
+      "Gemara Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes three partners dividing profits/losses proportionally to their investments, which the essay prose under 'Two Models Explained' explicitly references as the final line of the mishna (v'chein gimel she'hitilu lakis) reinforcing the proportional model for the third case.",
+      "chosen_heading": "Two Models Explained",
+      "current_heading": "Pairwise Verification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Gemara Problem",
+    "candidates": [
+      "Uniqueness Proof",
+      "Gemara Problem",
+      "Shmuel's First Case",
+      "Waiver Logic",
+      "Shmuel's Second Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Gemara Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous gemara discussion covering the initial question about why the 100-kesuvah wife gets 50, Shmuel's okimta about the waiver, the challenge to that okimta, and its resolution \u2014 all belonging under 'Gemara Problem' through 'Waiver Logic', but since items 1-2 are the gemara question and Shmuel's first answer they best sit under 'Gemara Problem'/'Shmuel's First Case'; however the entire unit 1-4 maps most cleanly to candidate 1 ('Gemara Problem') which introduces exactly this question and Shmuel's answer.",
+      "second_heading": "Waiver Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 5 opens the mishna clause about the 300-dinar case, which is the structural start of a new scenario that Shmuel's second okimta (candidate 4 'Shmuel's Second Case') addresses, but item 5 itself is the mishna introduction belonging under candidate 3 'Waiver Logic' which discusses the challenge and resolution before moving to the 300 case.",
+      "current_heading": "Gemara Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Shmuel's Second Case",
+    "candidates": [
+      "Shmuel's First Case",
+      "Waiver Logic",
+      "Shmuel's Second Case",
+      "Staged Seizure Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe Shmuel's second okimta \u2014 the case where Mrs. 300 writes a waiver to both Mrs. 200 and Mrs. 100 over the first hundred \u2014 which is exactly what heading 2 ('Shmuel's Second Case') is about.",
+      "chosen_heading": "Shmuel's Second Case",
+      "current_heading": "Shmuel's Second Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Staged Seizure Model",
+    "candidates": [
+      "Staged Seizure Model",
+      "Two Stages Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Ya'akov's principle that both clauses involve two seizures, which is exactly what the 'Staged Seizure Model' prose introduces and explains as the framework before the detailed arithmetic analysis in 'Two Stages Analysis'.",
+      "chosen_heading": "Staged Seizure Model",
+      "current_heading": "Staged Seizure Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Two Stages Analysis",
+    "candidates": [
+      "Two Stages Analysis",
+      "Rabbi Rejects Natan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the two-seizure (shnei tefisot) explanation for the first and latter clauses of the mishna, which is precisely what the 'Two Stages Analysis' prose discusses in detail.",
+      "chosen_heading": "Two Stages Analysis",
+      "current_heading": "Two Stages Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rabbi Rejects Natan",
+    "candidates": [
+      "Rabbi Rejects Natan",
+      "Mishna Authority Q",
+      "Tosafot on Proportional",
+      "Shmuel Investment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly states Rabbi Natan's authorship and Rabbi's rejection in favor of equal division, which is exactly what the 'Rabbi Rejects Natan' prose discusses in detail.",
+      "chosen_heading": "Rabbi Rejects Natan",
+      "current_heading": "Rabbi Rejects Natan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Shmuel Investment",
+    "candidates": [
+      "Mishna Authority Q",
+      "Tosafot on Proportional",
+      "Shmuel Investment",
+      "Rava's Indivisible Asset"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present Shmuel's ruling about two partners investing 100 and 200 dinars with earnings divided equally \u2014 exactly what the 'Shmuel Investment' section's prose describes and quotes.",
+      "chosen_heading": "Shmuel Investment",
+      "current_heading": "Shmuel Investment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rava's Indivisible Asset",
+    "candidates": [
+      "Rava's Indivisible Asset",
+      "Hamnuna's Position",
+      "Plowing vs. Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's qualification of Shmuel's ruling (plowing vs. slaughter distinction) and Rav Hamnuna's disagreement, which maps directly to heading 0's prose about Rava qualifying Shmuel and the plowing/slaughter distinction, with Rav Hamnuna's position introduced at the end \u2014 matching the current placement under 'Rava's Indivisible Asset.'",
+      "chosen_heading": "Rava's Indivisible Asset",
+      "current_heading": "Rava's Indivisible Asset",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Plowing vs. Slaughter",
+    "candidates": [
+      "Hamnuna's Position",
+      "Plowing vs. Slaughter",
+      "Tosafta Discrete Goods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of objection-and-resolution concerning the Tosefta's equal-division ruling and whether it addresses the plowing-vs-slaughter case, which is precisely what the 'Plowing vs. Slaughter' prose describes.",
+      "chosen_heading": "Plowing vs. Slaughter",
+      "current_heading": "Plowing vs. Slaughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Tosafta Discrete Goods",
+    "candidates": [
+      "Tosafta Discrete Goods",
+      "Investment Profit Rule",
+      "Intrinsic Value Change",
+      "Principal Value Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the Tosefta's ruling about oxen purchased separately with each partner's own funds that became mixed, which is precisely what the 'Tosafta Discrete Goods' section's prose describes and analyzes.",
+      "chosen_heading": "Tosafta Discrete Goods",
+      "current_heading": "Tosafta Discrete Goods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Principal Value Impact",
+    "candidates": [
+      "Investment Profit Rule",
+      "Intrinsic Value Change",
+      "Principal Value Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-2 present the mishna citation and the initial challenge (what is meant by 'profit' and 'loss'), which matches heading 0's prose about bringing the mishna to bear and raising the possibility it refers to something unusual \u2014 while the resolution in item 3 belongs under heading 1 ('Intrinsic Value Change'), but since all three items form one continuous question-and-answer unit, they should all sit under the heading that introduces the proof, which is heading 0, not the current placement at heading 2.",
+      "chosen_heading": "Investment Profit Rule",
+      "current_heading": "Principal Value Impact",
+      "moved": true
+    }
+  }
+]

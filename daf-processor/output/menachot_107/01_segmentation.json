@@ -64,7 +64,7 @@
           "timestamp": "08:58"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -214,7 +214,7 @@
           "timestamp": "20:00"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -593,5 +593,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "10:38",
+  "amud_b_micro_title": "All Mammals Uncertainty",
+  "shiur_start_daf": 106,
+  "shiur_start_amud": "b"
 }

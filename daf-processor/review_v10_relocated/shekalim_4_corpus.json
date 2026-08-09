@@ -1,0 +1,77 @@
+[
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Kohanim Exempt",
+    "candidates": [
+      "Kohanim Correction",
+      "Non-Seizure Rule",
+      "Voluntary Gifts",
+      "Tosefta Mashal",
+      "Shekel Rejection",
+      "Voluntary vs Obligatory",
+      "Nidur Nidav Rule",
+      "Ezra Precedent",
+      "Kolbon Obligation",
+      "Kohanim Exempt",
+      "Joint Payment",
+      "Fee Type",
+      "Rabbi Meir Dissent",
+      "Charity Waiver",
+      "Undivided Estate",
+      "Corporate Entity",
+      "Partnership Corp",
+      "Amount Dispute",
+      "Rabbi Ba Opinion",
+      "Rebbi & Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "medium",
+      "reason": "The passage discusses the distinction between requesting/not requesting payment from minors based on whether they have grown two pubic hairs, which relates directly to the exemptions for minors in the context of the shekel obligation and kolbon, fitting under the 'Kohanim Exempt' section that discusses exemptions for women, slaves, and minors from the kolbon and shekel obligations.",
+      "chosen_heading": "Kohanim Exempt",
+      "current_heading": "Kohanim Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rebbi & Gamliel",
+    "candidates": [
+      "Joint Payment",
+      "Fee Type",
+      "Rabbi Meir Dissent",
+      "Charity Waiver",
+      "Undivided Estate",
+      "Corporate Entity",
+      "Partnership Corp",
+      "Amount Dispute",
+      "Rabbi Ba Opinion",
+      "Rebbi & Gamliel",
+      "Rabbi Elazar View",
+      "Adam Derasha",
+      "Gemara Parse",
+      "Gemara Challenge",
+      "Reisha Seifa",
+      "Yochanan Position",
+      "Reish Lakish",
+      "Braita Bedek",
+      "Generic Funds",
+      "Reish Lakish Standard",
+      "Divine Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic text that Rabbi Ba introduces regarding Samaritan status (kuti k'nochri), which directly corresponds to heading 8 'Rabbi Ba Opinion' whose prose describes exactly this: Rabbi Ba's statement that the mishna's ruling on Samaritans follows the opinion that a kuti has the status of a non-Jew.",
+      "chosen_heading": "Rabbi Ba Opinion",
+      "current_heading": "Rebbi & Gamliel",
+      "moved": true
+    }
+  }
+]

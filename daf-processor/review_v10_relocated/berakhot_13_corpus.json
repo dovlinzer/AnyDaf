@@ -1,0 +1,469 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Torah Learning & Kavanah",
+    "candidates": [
+      "Chapter Overview",
+      "Torah Learning & Kavanah",
+      "Bein Prakim vs. Emtza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text directly describes the case of one reading Torah when Shema time arrives and the question of kavanah (intent), which is precisely what the 'Torah Learning & Kavanah' section's prose discusses.",
+      "chosen_heading": "Torah Learning & Kavanah",
+      "current_heading": "Torah Learning & Kavanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Bein Prakim vs. Emtza",
+    "candidates": [
+      "Bein Prakim vs. Emtza",
+      "R. Meir vs. R. Yehuda",
+      "Section Divisions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bein Prakim vs. Emtza",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Meir's position on bein prakim vs. emtza distinctions, which is exactly what heading 0 ('Bein Prakim vs. Emtza') discusses in its prose.",
+      "second_heading": "R. Meir vs. R. Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yehuda's contrasting and more lenient framework, which is precisely what heading 1 ('R. Meir vs. R. Yehuda') describes in its prose about Rabbi Yehuda's position on responses and the shared kal vachomer principle.",
+      "current_heading": "Bein Prakim vs. Emtza",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Section Divisions",
+    "candidates": [
+      "R. Meir vs. R. Yehuda",
+      "Section Divisions",
+      "Vayomer-Emet Veyatziv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage enumerates exactly the breaks between paragraphs (bein haprakim), which is precisely what the 'Section Divisions' prose describes \u2014 the list of permissible breaks between the blessings and the three parshiyot of Shema.",
+      "chosen_heading": "Section Divisions",
+      "current_heading": "Section Divisions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Vayomer-Emet Veyatziv",
+    "candidates": [
+      "Vayomer-Emet Veyatziv",
+      "R. Yehoshua b. Korcha",
+      "Ol Malchus First",
+      "Day vs. Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's ruling that one may not interrupt between VaYomer and emet veyatziv, which is precisely what the prose under heading 0 ('Vayomer-Emet Veyatziv') discusses and analyzes.",
+      "chosen_heading": "Vayomer-Emet Veyatziv",
+      "current_heading": "Vayomer-Emet Veyatziv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Day vs. Night",
+    "candidates": [
+      "R. Yehoshua b. Korcha",
+      "Ol Malchus First",
+      "Day vs. Night",
+      "Mitzvot & Kavanah",
+      "Act vs. Fulfillment",
+      "Proofreading Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yehoshua b. Korcha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the full baraita of Rabbi Yehoshua ben Korcha explaining the ordering of all three parshiyot (ol malchus before ol mitzvot, and Vehaya im Shamoa before Vayomer), which matches heading 0 'R. Yehoshua b. Korcha' whose prose explicitly quotes and discusses this entire teaching.",
+      "second_heading": "Mitzvot & Kavanah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's inference 'shema mina mitzvot tzerichot kavanah,' which exactly matches heading 3 'Mitzvot & Kavanah' whose prose directly addresses this inference and its immediate challenge.",
+      "current_heading": "Day vs. Night",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Proofreading Example",
+    "candidates": [
+      "Mitzvot & Kavanah",
+      "Act vs. Fulfillment",
+      "Proofreading Example",
+      "R. (Judah HaNasi) Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's question 'isn't he already reading?' and its answer 'one who is proofreading' \u2014 are precisely the content that candidate 1 ('Act vs. Fulfillment') describes: the challenge to the reframing of kavanah as intent to read and the proofreading resolution, which together establish that the Mishnah requires only act-intention, not intent to fulfill the mitzvah.",
+      "chosen_heading": "Act vs. Fulfillment",
+      "current_heading": "Proofreading Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "R. (Judah HaNasi) Rule",
+    "candidates": [
+      "Proofreading Example",
+      "R. (Judah HaNasi) Rule",
+      "Chachamim Rule",
+      "Understanding vs. Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita recording the dispute between Rabbi Yehuda HaNasi (Shema must be recited as written, in Hebrew) and the Rabbis (any language), which matches the current placement under 'R. (Judah HaNasi) Rule' that specifically introduces this baraita and Rebbi's position.",
+      "chosen_heading": "R. (Judah HaNasi) Rule",
+      "current_heading": "R. (Judah HaNasi) Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Understanding vs. Act",
+    "candidates": [
+      "Chachamim Rule",
+      "Understanding vs. Act",
+      "Hearing Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Yehuda HaNasi's reasoning from 'vehayu' that Shema must remain in Hebrew, which is precisely what the 'Understanding vs. Act' section's prose discusses as the conceptual foundation for the subsequent debate.",
+      "chosen_heading": "Understanding vs. Act",
+      "current_heading": "Understanding vs. Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Hearing Requirement",
+    "candidates": [
+      "Hearing Requirement",
+      "Two Pesukim Rule",
+      "R. Eliezer",
+      "R. Akiva",
+      "R. Yochanan Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Hearing Requirement",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 directly match the 'Hearing Requirement' prose discussing Rebbi vs. Rabbis on language, audibility, shemo/vehayu prooftexts, and recitation order.",
+      "second_heading": "Two Pesukim Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 10 is the baraita about kavanah requirements derived from vehayu and ha'eileh, which is precisely what the 'Two Pesukim Rule' prose describes as its opening baraita.",
+      "current_heading": "Hearing Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "R. Yochanan Rules",
+    "candidates": [
+      "Two Pesukim Rule",
+      "R. Eliezer",
+      "R. Akiva",
+      "R. Yochanan Rules",
+      "Mitzvat Types",
+      "R. Zutra Position",
+      "R. Yoshiya Reverse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items cover exactly what the 'R. Yochanan Rules' prose describes: Rabbi Akiva's derivation that the entire parsha requires kavanah, Rabbah bar bar Chana's ruling in Rabbi Yochanan's name following Rabbi Akiva, and the alternative transmission attaching that ruling to the tosefta with Rabbi Acha/Rabbi Yehuda \u2014 the current placement is correct.",
+      "chosen_heading": "R. Yochanan Rules",
+      "current_heading": "R. Yochanan Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "R. Yoshiya Reverse",
+    "candidates": [
+      "Mitzvat Types",
+      "R. Zutra Position",
+      "R. Yoshiya Reverse",
+      "First Parsha Both",
+      "Second Parsha Nature",
+      "Teaching vs. Reciting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage covers the baraita introducing the mitzvat kavanah/mitzvat keriah distinction and the Gemara's analysis of both Rav Zutra's and Rabbi Yoshiya's positions, which is precisely what heading 0 ('Mitzvat Types') describes as 'a further baraita refines the analysis by introducing a conceptual distinction... about the qualitative nature of the obligation.'",
+      "chosen_heading": "Mitzvat Types",
+      "current_heading": "R. Yoshiya Reverse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Teaching vs. Reciting",
+    "candidates": [
+      "First Parsha Both",
+      "Second Parsha Nature",
+      "Teaching vs. Reciting",
+      "Comprehension vs. Act",
+      "R. Meir Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that the verse refers to Torah study/teaching ('Agmiru benaychu Torah ki heichi deleigresu behu'), which directly matches the 'Teaching vs. Reciting' section's prose about the reinterpretation of the second parsha's language as referring to teaching Torah rather than reciting Shema.",
+      "chosen_heading": "Teaching vs. Reciting",
+      "current_heading": "Teaching vs. Reciting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "R. Meir Opinion",
+    "candidates": [
+      "Comprehension vs. Act",
+      "R. Meir Opinion",
+      "Rava's Ruling",
+      "Long Echad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Meir's opinion (kavanah required only for the first pasuk) and Rava's ruling that the halakha follows Rabbi Meir \u2014 the current heading 'R. Meir Opinion' discusses exactly this content, and its prose explicitly addresses both elements of the passage.",
+      "chosen_heading": "R. Meir Opinion",
+      "current_heading": "R. Meir Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Long Echad",
+    "candidates": [
+      "Rava's Ruling",
+      "Long Echad",
+      "Dalet Symbolism",
+      "Standing Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the practice of extending 'echad' \u2014 the baraita about extending the dalet and not rushing the chet, and the narrative about Rabbi Yirmiyah extending echad before Rabbi Chiyya bar Abba \u2014 which is precisely what the 'Long Echad' section's prose describes.",
+      "chosen_heading": "Long Echad",
+      "current_heading": "Long Echad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Standing Rules",
+    "candidates": [
+      "Dalet Symbolism",
+      "Standing Rules",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Natan bar Mar Ukva citing Rav Yehuda's rule about standing until 'al levavecha' and Rabbi Yochanan's extension to the entire parsha \u2014 exactly the content described in the 'Standing Rules' prose, which discusses this same Rav Yehuda tradition and the clarification about 'ad al levavecha'.",
+      "chosen_heading": "Standing Rules",
+      "current_heading": "Standing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "R. Yochanan",
+    "candidates": [
+      "R. Yochanan",
+      "Posture Details",
+      "First Pesuk Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's consistent ruling that halakha follows Rabbi A\u1e25a/Rabbi Yehuda requiring kavanah for the entire first parsha, which is precisely what the prose under 'R. Yochanan' describes as his consistent position tracking kavanah and standing requirements.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "R. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "First Pesuk Only",
+    "candidates": [
+      "Posture Details",
+      "First Pesuk Only",
+      "Rav's Question",
+      "Eyes Covered",
+      "Making Up Later",
+      "Yetziat Mitzrayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the baraita establishing that Rebbi's Shema consisted of the single first verse and Rav's observation that he never saw Rebbi accept the kingship of Heaven, which together form the content described under 'First Pesuk Only' \u2014 the current placement is correct.",
+      "chosen_heading": "First Pesuk Only",
+      "current_heading": "First Pesuk Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Yetziat Mitzrayim",
+    "candidates": [
+      "Rav's Question",
+      "Eyes Covered",
+      "Making Up Later",
+      "Yetziat Mitzrayim",
+      "Yotzei Asleep",
+      "Nudging for First",
+      "Rava's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Bar Kappara/Rabbi Shimon dispute about whether Rebbi goes back to complete Shema and why he mentions yetziat Mitzrayim in his shiur \u2014 exactly what candidate 3 ('Yetziat Mitzrayim') describes in its prose.",
+      "chosen_heading": "Yetziat Mitzrayim",
+      "current_heading": "Yetziat Mitzrayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Rava's Practice",
+    "candidates": [
+      "Yotzei Asleep",
+      "Nudging for First",
+      "Rava's Practice",
+      "Lying Down",
+      "Position Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Ila's ruling about falling asleep after the first pasuk, Rav Nachman's instruction to Daru, and Rav Yosef's question about Rabba's practice \u2014 and heading 0 ('Yotzei Asleep') is the only section whose prose discusses all three together as a unified teaching about the first pasuk sufficing when one falls asleep.",
+      "chosen_heading": "Yotzei Asleep",
+      "current_heading": "Rava's Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153,
+      154,
+      155
+    ],
+    "current_heading": "Position Rules",
+    "candidates": [
+      "Lying Down",
+      "Position Rules",
+      "R. Yochanan Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lying Down",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Yosef's ruling on pirkadan, the challenge from Rabbi Yehoshua ben Levi's curse, and the resolution distinguishing sleeping from reciting Shema \u2014 exactly what heading 0 ('Lying Down') and heading 1 ('Position Rules') discuss, but heading 0's prose introduces the pirkadan ruling and heading 1's prose covers the challenge/resolution, making items 1-2 best placed under heading 0 which opens the topic, with the challenge/answer naturally following; however since heading 1's prose explicitly describes the Rabbi Yehoshua ben Levi challenge and the sleeping/reciting distinction, items 1-2 belong under heading 1.",
+      "second_heading": "R. Yochanan Exception",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 concern Rabbi Yochanan's exception due to corpulence, which is precisely what heading 2 ('R. Yochanan Exception') discusses.",
+      "current_heading": "Position Rules",
+      "moved": true
+    }
+  }
+]

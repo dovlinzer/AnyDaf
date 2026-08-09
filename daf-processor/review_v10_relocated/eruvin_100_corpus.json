@@ -1,0 +1,437 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Branches & Three Tefachim",
+    "candidates": [
+      "Branches & Three Tefachim",
+      "Roots & Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the mishnah about a tree's branches hanging over the ground and the three-tefachim rule for carrying underneath, which directly matches the 'Branches & Three Tefachim' section prose.",
+      "chosen_heading": "Branches & Three Tefachim",
+      "current_heading": "Branches & Three Tefachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Roots & Ground",
+    "candidates": [
+      "Roots & Ground",
+      "Rav Huna's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the rule that roots three handbreadths above the ground are considered part of the tree, which is precisely what the 'Roots & Ground' section's prose discusses.",
+      "chosen_heading": "Roots & Ground",
+      "current_heading": "Roots & Ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Huna's Ruling",
+    "candidates": [
+      "Rav Huna's Ruling",
+      "Tashmishah L'Avir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna's ruling itself ('One may not move objects in the area under the tree if it is more than two beit se'a') and the opening question asking for the reason, which matches exactly what heading 0's prose describes as 'the ruling of Rav Huna the son of Rav Yehoshua.'",
+      "chosen_heading": "Rav Huna's Ruling",
+      "current_heading": "Rav Huna's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tashmishah L'Avir",
+    "candidates": [
+      "Tashmishah L'Avir",
+      "High Roots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses 'dirah she'tashmishah l'avir' and the beit sa'atayim restriction, which is precisely what the prose under heading 0 elaborates on.",
+      "chosen_heading": "Tashmishah L'Avir",
+      "current_heading": "Tashmishah L'Avir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "High Roots",
+    "candidates": [
+      "High Roots",
+      "Rava vs. Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Rabba/Rav Sheshet dispute about roots that descend from above three tefachim back to within three tefachim, which is exactly the intricate question posed in the 'High Roots' prose, not the follow-on analysis in 'Rava vs. Sheshet' which discusses the mashunita/lateral case.",
+      "chosen_heading": "High Roots",
+      "current_heading": "High Roots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rava vs. Sheshet",
+    "candidates": [
+      "Rava vs. Sheshet",
+      "Furrows & Corners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the mashunita (crag) case with its three-way distinction (upward/downward/lateral) and identifies the lateral case as the pelugta de-Rabba ve-Rav Sheshet, which is exactly what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Rava vs. Sheshet",
+      "current_heading": "Rava vs. Sheshet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Furrows & Corners",
+    "candidates": [
+      "Furrows & Corners",
+      "Abaye's Palm Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly mentions both 'anigra' (a ditch/furrow) and 'b'keren zavit' (a corner), which are precisely the two analogous cases discussed in the 'Furrows & Corners' section prose.",
+      "chosen_heading": "Furrows & Corners",
+      "current_heading": "Furrows & Corners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Abaye's Palm Tree",
+    "candidates": [
+      "Abaye's Palm Tree",
+      "Mishnah's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's palm tree growing through his roof opening and Rav Yosef's ruling, which directly matches the 'Abaye's Palm Tree' section's prose discussion of exactly this story.",
+      "chosen_heading": "Abaye's Palm Tree",
+      "current_heading": "Abaye's Palm Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Mishnah's Case",
+    "candidates": [
+      "Mishnah's Case",
+      "Active vs. Passive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items deal with the tree-root prohibition and the climbing/descending dispute (Rabba vs. Rav Sheshet, the mishna analysis, the baraita about roots, and the contradictory baraitot about descending), which precisely matches the 'Mishnah's Case' prose discussion of those exact topics.",
+      "chosen_heading": "Mishnah's Case",
+      "current_heading": "Mishnah's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Active vs. Passive",
+    "candidates": [
+      "Active vs. Passive",
+      "Moist vs. Dry",
+      "Regrowing Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All nine items form one continuous discussion about the intermingled sacrificial bloods (matan arba b'matan achat), the Rabbi Eliezer/Rabbi Yehoshua dispute about bal tosif vs. bal tigra, and the gemara's application of that dispute to the tree-climbing question \u2014 exactly what the 'Active vs. Passive' prose describes.",
+      "chosen_heading": "Active vs. Passive",
+      "current_heading": "Active vs. Passive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Regrowing Trees",
+    "candidates": [
+      "Moist vs. Dry",
+      "Regrowing Trees",
+      "Rav's Fence",
+      "Grass Prohibition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Moist vs. Dry",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 cover the contradiction between the two baraitot and its resolution (moist vs. dry, seasonal distinction, fruit/branches concerns), all of which are discussed in candidate 0's prose about the tension between the two positions, plus candidates 1 and 2 which elaborate further \u2014 but the full chain from contradiction through stripped-tree resolution belongs under candidate 0 which introduces the tension, with the detailed resolution prose actually matching candidate 1; however since all five items form one continuous chain, the best single heading for items 1\u20134 is candidate 1 ('Regrowing Trees') which covers the entire resolution chain including the seasonal distinction and kintzi/geduda questions.",
+      "second_heading": "Rav's Fence",
+      "second_confidence": "high",
+      "second_reason": "Item 5 about Rav arriving at Apsetaya and building a 'fence' matches candidate 2 ('Rav's Fence') precisely.",
+      "current_heading": "Regrowing Trees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Grass Prohibition",
+    "candidates": [
+      "Rav's Fence",
+      "Grass Prohibition",
+      "Seasons & Grass"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Grass Prohibition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Asi's ruling about walking on grass) matches the 'Grass Prohibition' prose which specifically discusses Rav Assi's teaching about forbidden walking on grass on Shabbos.",
+      "second_heading": "Seasons & Grass",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the two contradicting beraitot resolved by the lachin/yaveshim distinction) matches the 'Seasons & Grass' prose which explicitly discusses the resolution of two contradicting beraitot using the moist/dry and seasonal distinctions.",
+      "current_heading": "Grass Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Seasons & Grass",
+    "candidates": [
+      "Seasons & Grass",
+      "Shoes & Details"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Seasons & Grass",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the seasonal distinction (summer vs. rainy season) which is exactly what heading 0 'Seasons & Grass' discusses, including Rashi's explanation about seeds in summer.",
+      "second_heading": "Shoes & Details",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 cover the shoe-based distinctions (wearing shoes vs. barefoot, and spiked vs. flat-soled shoes) which precisely match the prose of heading 1 'Shoes & Details'.",
+      "current_heading": "Seasons & Grass",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Shoes & Details",
+    "candidates": [
+      "Shoes & Details",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the distinction based on whether grass is long and entangled (sircha) in cleated shoes, which is precisely the final granular resolution described in the 'Shoes & Details' prose.",
+      "chosen_heading": "Shoes & Details",
+      "current_heading": "Shoes & Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Shimon",
+      "Forcing Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the halakhic conclusion about ruling like Rabbi Shimon permitting unintentional acts, which matches exactly the prose under heading 0 that discusses this same ruling about davar she'eino mitkavein and walking on grass.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Forcing Wife",
+    "candidates": [
+      "Forcing Wife",
+      "Woman Demands Sex",
+      "Second Intercourse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the prohibition of forcing one's wife in conjugal relations, sourced from Proverbs 19:2, which is precisely what the 'Forcing Wife' prose discusses in detail, including the same sages (Rami bar \u1e24ama, Rav Asi, Rabbi Yehoshua ben Levi, Rav Ika bar \u1e24innana) and the same baraita confirmation.",
+      "chosen_heading": "Forcing Wife",
+      "current_heading": "Forcing Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Second Intercourse",
+    "candidates": [
+      "Woman Demands Sex",
+      "Second Intercourse",
+      "Seven Curses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rava ruling and the lo kashya/ledaat/shelo ledaat resolution that candidate 0's prose explicitly discusses in detail, whereas candidate 1's prose only references this material in passing as background to a broader argument.",
+      "chosen_heading": "Woman Demands Sex",
+      "current_heading": "Second Intercourse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Seven Curses",
+    "candidates": [
+      "Second Intercourse",
+      "Seven Curses",
+      "Three More Curses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion about a woman demanding conjugal rights from her husband \u2014 the teaching that such women merit exceptional children (Leah/Issachar), the apparent tension with Eve's curse that women must desire in their heart rather than voice it, and the resolution that 'demanding' means making herself pleasing rather than explicit verbal demand \u2014 exactly what the 'Seven Curses' section prose describes.",
+      "chosen_heading": "Seven Curses",
+      "current_heading": "Seven Curses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Three More Curses",
+    "candidates": [
+      "Three More Curses",
+      "Woman's Modesty",
+      "Blessings Not Curses",
+      "Animal Lessons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Dimi's three additional curses \u2014 the wrapping like a mourner, ostracism from all people, and imprisonment \u2014 which is precisely what the 'Three More Curses' section prose describes and analyzes.",
+      "chosen_heading": "Three More Curses",
+      "current_heading": "Three More Curses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Animal Lessons",
+    "candidates": [
+      "Woman's Modesty",
+      "Blessings Not Curses",
+      "Animal Lessons",
+      "Rooster Courtship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 1's prose describes: the baraita identifying the three alternative curses, the response that 'hani shvach haviyan' (these are actually praiseworthy), and Rabbi Chiyya's teaching from Job 35:11 about learning from animals \u2014 all of which candidate 1 explicitly discusses, whereas candidate 2 ('Animal Lessons') picks up after this dispute is resolved and focuses on the reinterpretation of animal behaviors as models.",
+      "chosen_heading": "Blessings Not Curses",
+      "current_heading": "Animal Lessons",
+      "moved": true
+    }
+  }
+]

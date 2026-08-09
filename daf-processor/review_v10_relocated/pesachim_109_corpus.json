@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Wine Taste & Look",
+    "candidates": [
+      "Romans & Reclining",
+      "Wine Taste & Look",
+      "Red Wine & Kiddush",
+      "All Obligated",
+      "Rabbi Yehuda's Q",
+      "Wheat & Nuts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's requirement that wine must have both taste and appearance, and Rava's derivation from Proverbs 23:31, which is exactly what the 'Wine Taste & Look' section's prose describes.",
+      "chosen_heading": "Wine Taste & Look",
+      "current_heading": "Wine Taste & Look",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Wheat & Nuts",
+    "candidates": [
+      "Red Wine & Kiddush",
+      "All Obligated",
+      "Rabbi Yehuda's Q",
+      "Wheat & Nuts",
+      "Rabbi Akiva",
+      "Grabbing Matzot",
+      "Rabbi Akiva & Home"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All Obligated",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about all being obligated in the four cups including children, which corresponds exactly to the 'All Obligated' section's prose discussing hakol chayavin b'arba kosot and tinokot.",
+      "second_heading": "Wheat & Nuts",
+      "second_confidence": "high",
+      "second_reason": "Item 2 continues with the distribution of roasted grains and nuts to keep children awake, the Rabbi Akiva tradition, and Rabbi Eliezer on grabbing matzot \u2014 all of which are covered together in the 'Wheat & Nuts' section's prose about mechalkin lahem kliyos ve-egozim and keeping children awake to ask questions.",
+      "current_heading": "Wheat & Nuts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rabbi Akiva & Home",
+    "candidates": [
+      "Rabbi Akiva",
+      "Grabbing Matzot",
+      "Rabbi Akiva & Home",
+      "Joy for Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva never dismissing students from the study hall except on erev Pesach (for children's sleep) and erev Yom Kippur (to feed children), which is exactly what candidate 2's prose discusses in detail.",
+      "chosen_heading": "Rabbi Akiva & Home",
+      "current_heading": "Rabbi Akiva & Home",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Joy for Family",
+    "candidates": [
+      "Joy for Family",
+      "Gender & Simcha",
+      "Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraisa about obligating joy for children and household on the festival with wine, which is exactly what the 'Joy for Family' prose describes and discusses.",
+      "chosen_heading": "Joy for Family",
+      "current_heading": "Joy for Family",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Garments",
+    "candidates": [
+      "Gender & Simcha",
+      "Garments",
+      "Meat & Temple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda's statement about men and women rejoicing with what is fitting for them, which is precisely what the 'Gender & Simcha' prose introduces and discusses, while the 'Garments' section's prose already covers Rav Yosef's teaching about colored and linen garments as its own content.",
+      "chosen_heading": "Gender & Simcha",
+      "current_heading": "Garments",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Meat & Temple",
+    "candidates": [
+      "Garments",
+      "Meat & Temple",
+      "Rambam Simcha",
+      "Fish Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about Rabbi Yehuda ben Beteira distinguishing between Temple-era rejoicing through meat and post-Temple rejoicing through wine is precisely what the 'Meat & Temple' section's prose discusses in detail.",
+      "chosen_heading": "Meat & Temple",
+      "current_heading": "Meat & Temple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Fish Measure",
+    "candidates": [
+      "Rambam Simcha",
+      "Fish Measure",
+      "Old Measure",
+      "Revi'it Calc",
+      "Mikvah Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses using the brine vessel in Tzippori (Rabbi Yitzchak) and the old eighth measure in Tiberias (Rabbi Yochanan) to determine the revi'is for Pesach, which matches the Fish Measure section's prose about the kista de-morisa and its use for measuring the revi'it shel Pesach \u2014 the Old Measure section covers only Rabbi Yochanan's statement, but since both items belong together and the current placement under 'Fish Measure' covers both, it is the best single heading.",
+      "chosen_heading": "Fish Measure",
+      "current_heading": "Fish Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Mikvah Math",
+    "candidates": [
+      "Old Measure",
+      "Revi'it Calc",
+      "Mikvah Math",
+      "Math Details",
+      "Temple Table"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav \u1e24isda's geometric definition of the revi'is and its derivation from the mikvah baraita \u2014 exactly what candidate 1 ('Revi'it Calc') describes as its topic, while candidate 2 ('Mikvah Math') covers the subsequent elaboration and resolution of the mikvah dimensions.",
+      "chosen_heading": "Revi'it Calc",
+      "current_heading": "Mikvah Math",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Temple Table",
+    "candidates": [
+      "Math Details",
+      "Temple Table",
+      "Fitting Table",
+      "Sea of Shlomo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Temple table was made of detachable parts (prakim), which is precisely what the 'Temple Table' section's prose describes \u2014 Rav Ashi reporting in the name of Ravin bar Chinena that the table was constructed of separable components.",
+      "chosen_heading": "Temple Table",
+      "current_heading": "Temple Table",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Sea of Shlomo",
+    "candidates": [
+      "Fitting Table",
+      "Sea of Shlomo",
+      "Pairs Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's response about immersing in Solomon's sea and Rabbi \u1e24iyya's teaching about its capacity, which is exactly what the 'Sea of Shlomo' section's prose describes.",
+      "chosen_heading": "Sea of Shlomo",
+      "current_heading": "Sea of Shlomo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Pairs Danger",
+    "candidates": [
+      "Pairs Danger",
+      "Night Watch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of how the Rabbis could institute four cups when pairs cause danger, which is precisely what the 'Pairs Danger' section's prose discusses.",
+      "chosen_heading": "Pairs Danger",
+      "current_heading": "Pairs Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Night Watch",
+    "candidates": [
+      "Night Watch",
+      "Kiddush Exempt",
+      "Freedom & Each"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's statement about 'leil shimurim' protecting against harmful spirits, which is precisely what the 'Night Watch' section's prose discusses.",
+      "chosen_heading": "Night Watch",
+      "current_heading": "Night Watch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Freedom & Each",
+    "candidates": [
+      "Kiddush Exempt",
+      "Freedom & Each"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kiddush Exempt",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rava's resolution (kos shel berachah) and the beginning of Ravina's statement, but the kos shel berachah content of Rava's ruling is best matched by heading 0's prose which explicitly discusses that resolution.",
+      "second_heading": "Freedom & Each",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('is a distinct mitzva in its own right') completes Ravina's statement about each cup being an independent mitzvah, which is precisely what heading 1's prose discusses.",
+      "current_heading": "Freedom & Each",
+      "moved": true
+    }
+  }
+]

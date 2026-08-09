@@ -1,0 +1,408 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Knives for Meat/Fat",
+    "candidates": [
+      "Knives for Meat/Fat",
+      "Cross-Contamination Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states that the butcher needs three knives and lists their purposes, which directly matches the 'Knives for Meat/Fat' prose that explains all three knives and the nature of chelev; the current placement is correct.",
+      "chosen_heading": "Knives for Meat/Fat",
+      "current_heading": "Knives for Meat/Fat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Cross-Contamination Risk",
+    "candidates": [
+      "Cross-Contamination Risk",
+      "Knife Marking",
+      "Separate Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the decree against using one knife (briefly) and the main concern about confusion between two knives and the resolution that having two knives provides a conspicuous marker \u2014 which matches the 'Knife Marking' prose exactly, while the current heading's prose only covers the cross-contamination decree rationale.",
+      "chosen_heading": "Knife Marking",
+      "current_heading": "Cross-Contamination Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Separate Vessels",
+    "candidates": [
+      "Knife Marking",
+      "Separate Vessels",
+      "Order Concern",
+      "Vessel Distinction",
+      "Kipli Flanks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the requirement for two separate water vessels for rinsing meat and fats, which directly matches the 'Separate Vessels' section's prose about \u05e9\u05e0\u05d9 \u05e7\u05d9\u05ea\u05d5\u05e0\u05d9\u05df \u05e9\u05dc \u05de\u05d9\u05dd and the two-vessel requirement.",
+      "chosen_heading": "Separate Vessels",
+      "current_heading": "Separate Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Kipli Flanks",
+    "candidates": [
+      "Order Concern",
+      "Vessel Distinction",
+      "Kipli Flanks",
+      "Gravity Concern",
+      "Membrane Barrier"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the ruling about placing kiflei (flanks) atop meat causing fat to flow and be absorbed, which is exactly what the 'Kipli Flanks' section's prose is discussing.",
+      "chosen_heading": "Kipli Flanks",
+      "current_heading": "Kipli Flanks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Membrane Barrier",
+    "candidates": [
+      "Gravity Concern",
+      "Membrane Barrier",
+      "Core Skills"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the membrane barrier (\u05e7\u05e8\u05d5\u05de\u05d0) and its rupture due to handling \u2014 exactly what the 'Membrane Barrier' prose describes, including the challenge about the upper membrane and the answer about the butcher's hand causing it to disintegrate.",
+      "chosen_heading": "Membrane Barrier",
+      "current_heading": "Membrane Barrier",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Core Skills",
+    "candidates": [
+      "Core Skills",
+      "Writing/Ktav",
+      "Tfillin/Tzitzit",
+      "Rabbi's Role",
+      "Essential vs. Common",
+      "Knowledge Required",
+      "Five Halachos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces all six skills (three from Rav Yehuda and three added by Rav \u1e24ananya bar Shelamya) together with the note that the latter are 'commonplace,' which is exactly what the 'Core Skills' section's prose discusses as the foundational list of practical rabbinic competencies.",
+      "chosen_heading": "Core Skills",
+      "current_heading": "Core Skills",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Five Halachos",
+    "candidates": [
+      "Writing/Ktav",
+      "Tfillin/Tzitzit",
+      "Rabbi's Role",
+      "Essential vs. Common",
+      "Knowledge Required",
+      "Five Halachos",
+      "Knowledge Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda/Shmuel's statement that a shochet who doesn't know the laws of shechita is forbidden, which matches exactly the prose of candidate 4 ('Knowledge Required'), while candidate 5 ('Five Halachos') is better suited to the subsequent elaboration on the five categories themselves.",
+      "chosen_heading": "Knowledge Required",
+      "current_heading": "Five Halachos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Knowledge Gap",
+    "candidates": [
+      "Five Halachos",
+      "Knowledge Gap",
+      "Competence Presumption",
+      "Check Organs",
+      "Inspection Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about the novelty of Rav's ruling and the specific case of a shochet who performed well two or three times but lacks theoretical knowledge, which is precisely what the 'Knowledge Gap' prose describes.",
+      "chosen_heading": "Knowledge Gap",
+      "current_heading": "Knowledge Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Inspection Time",
+    "candidates": [
+      "Competence Presumption",
+      "Check Organs",
+      "Inspection Time",
+      "Knife Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Shmuel's statement about checking the simanim after slaughter AND Rav Yosef's corroborating mishna citation, and the 'Check Organs' prose explicitly covers both elements together as a single unit, while the current 'Inspection Time' heading only covers the second half.",
+      "chosen_heading": "Check Organs",
+      "current_heading": "Inspection Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Knife Check",
+    "candidates": [
+      "Inspection Time",
+      "Knife Check",
+      "Resolution",
+      "Treifa Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's challenge about \u05db\u05d3\u05d9 \u05d1\u05d9\u05e7\u05d5\u05e8 \u05d7\u05db\u05dd and the refinement to \u05db\u05d3\u05d9 \u05d1\u05d9\u05e7\u05d5\u05e8 \u05d8\u05d1\u05d7 \u05d7\u05db\u05dd, which is precisely what the 'Knife Check' section's prose describes.",
+      "chosen_heading": "Knife Check",
+      "current_heading": "Knife Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Treifa Status",
+    "candidates": [
+      "Resolution",
+      "Treifa Status",
+      "Nevela Status",
+      "Chazaka Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the treifa ruling and the nevela baraita, and the current heading 'Treifa Status' with its prose explicitly discusses both the treifa ruling and anticipates the nevela ruling as a follow-up, making it the best match for this combined passage.",
+      "chosen_heading": "Treifa Status",
+      "current_heading": "Treifa Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Chazaka Debate",
+    "candidates": [
+      "Nevela Status",
+      "Chazaka Debate",
+      "Initial Status",
+      "Kosher Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rav Huna's principle and the two-sided chazaka debate (issur vs. tumah) that the 'Chazaka Debate' prose explicitly describes as the framework for the treifa/nevela dispute.",
+      "chosen_heading": "Chazaka Debate",
+      "current_heading": "Chazaka Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Kosher Status",
+    "candidates": [
+      "Initial Status",
+      "Kosher Status",
+      "Fox Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both halves of Rav Huna's statement \u2014 the animal's forbidden status during its lifetime AND the shift to permitted status after shechita \u2014 but the essay's 'Initial Status' section prose is explicitly dedicated to analyzing Rav Huna's statement in its own right (\u05d2\u05d5\u05e4\u05d0) and discusses both the chezkat issur and the transition, making it the better match; the 'Kosher Status' section prose focuses on practical applications like lung inspection rather than the core formulation of the chazaka itself.",
+      "chosen_heading": "Initial Status",
+      "current_heading": "Kosher Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Fox Case",
+    "candidates": [
+      "Kosher Status",
+      "Fox Case",
+      "Snake Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the wolf/innards dilemma posed by Rabbi Abba to Rav Huna and its resolution via chazaka of heter, which is exactly what the 'Fox Case' prose describes.",
+      "chosen_heading": "Fox Case",
+      "current_heading": "Fox Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Snake Concern",
+    "candidates": [
+      "Snake Concern",
+      "Issur vs. Sakana",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the objection about a bird pecking a fig/mouse gnawing a melon and the concern about snake perforation, which is precisely what the 'Snake Concern' prose describes as the Gemara's challenge involving \u05d7\u05d5\u05e9\u05e9\u05d9\u05df \u05e9\u05de\u05d0 \u05d1\u05de\u05e7\u05d5\u05dd \u05e0\u05e7\u05d1 \u05e0\u05e7\u05d1.",
+      "chosen_heading": "Snake Concern",
+      "current_heading": "Snake Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Issur vs. Sakana",
+      "Rava's Challenge",
+      "Abaye's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's challenge questioning why danger is treated differently from prohibition when both involve doubt and stringency, which is exactly what the 'Rava's Challenge' section prose describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Abaye's Answer",
+    "candidates": [
+      "Abaye's Answer",
+      "Tumah Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge distinguishing issur from sakana with the tumah/exposed water example, which is precisely what the prose under 'Abaye's Answer' describes.",
+      "chosen_heading": "Abaye's Answer",
+      "current_heading": "Abaye's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tumah Criteria",
+    "candidates": [
+      "Tumah Criteria",
+      "Vessel Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's teaching that tumah in the public domain is derived from the sotah analogy \u2014 exactly what the 'Tumah Criteria' prose describes as the challenge to Abaye's proof.",
+      "chosen_heading": "Tumah Criteria",
+      "current_heading": "Tumah Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Vessel Rules",
+    "candidates": [
+      "Vessel Rules",
+      "Stricter Scrutiny"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "While items 3-7 discuss the vessel details covered by heading 0's prose, the entire passage (items 1-8) forms a unified argument culminating in the conclusion that danger is more severe than prohibition, which is precisely what heading 1 ('Stricter Scrutiny') is about \u2014 and heading 1's prose explicitly quotes the closing line of item 8 as its central theme.",
+      "chosen_heading": "Stricter Scrutiny",
+      "current_heading": "Vessel Rules",
+      "moved": true
+    }
+  }
+]

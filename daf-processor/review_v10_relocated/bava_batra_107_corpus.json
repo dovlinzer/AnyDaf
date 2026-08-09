@@ -1,0 +1,182 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Breira Principle",
+    "candidates": [
+      "Case Setup",
+      "Rav: Division Nullified",
+      "Shmuel: Brother Loses",
+      "Rav Assi: Quarter Share",
+      "Heirs vs. Purchasers",
+      "Breira Principle",
+      "Halacha: Rav's View",
+      "Rashi vs. Rashbam",
+      "Two vs. One Majority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the complete sugya about brothers who divided an inheritance and a creditor seized one brother's portion \u2014 the case setup, the three amora'im's positions (Rav, Shmuel, Rav Asi), their rationales, and the final halakhic ruling \u2014 which corresponds to the 'Case Setup' heading that introduces this entire dispute, and the subsequent headings (1\u20136) each cover only one piece of this unified passage, meaning the whole passage belongs under the opening heading that frames the full case.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Breira Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Two vs. One Majority",
+    "candidates": [
+      "Halacha: Rav's View",
+      "Rashi vs. Rashbam",
+      "Two vs. One Majority",
+      "Three Valuations",
+      "Tanna Kamma: 100",
+      "R. Elazar: 90",
+      "Acherim: 93\u2153"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita about three assessors where one says 100 and two say 200 (or vice versa), with the ruling that the minority opinion is nullified, is precisely the straightforward two-against-one majority case that the prose of section 2 ('Two vs. One Majority') describes and analyzes.",
+      "chosen_heading": "Two vs. One Majority",
+      "current_heading": "Two vs. One Majority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Acherim: 93\u2153",
+    "candidates": [
+      "Three Valuations",
+      "Tanna Kamma: 100",
+      "R. Elazar: 90",
+      "Acherim: 93\u2153",
+      "Challenge to Acherim",
+      "Lower Two Preferred",
+      "Rav Huna: Acherim",
+      "Rav Ashi Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All six items together constitute the complete sugya on the three-way valuation dispute \u2014 presenting the Mishnah, explaining each opinion, and resolving challenges \u2014 which belongs under the 'Three Valuations' heading that introduces the entire discussion.",
+      "chosen_heading": "Three Valuations",
+      "current_heading": "Acherim: 93\u2153",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rav Ashi Objects",
+    "candidates": [
+      "Challenge to Acherim",
+      "Lower Two Preferred",
+      "Rav Huna: Acherim",
+      "Rav Ashi Objects",
+      "Dayyanei Golah",
+      "Mishnah: Half Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's ruling for Acherim and Rav Ashi's objection, plus the identical exchange regarding dayyanei golah \u2014 all of which is discussed under the 'Rav Ashi Objects' heading's prose, which explicitly covers both the Acherim dispute and (via the meta-halakhic discussion) anticipates the dayyanei golah parallel, and the 'Dayyanei Golah' section's prose also covers this same material, but since the passage begins with the Rav Ashi objection to Acherim which is the primary content of heading 3, and heading 4 prose separately covers dayyanei golah, the passage actually spans both headings 3 and 4 \u2014 however the current placement under heading 3 is reasonable since it contains all content discussed there.",
+      "chosen_heading": "Rav Ashi Objects",
+      "current_heading": "Rav Ashi Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Mishnah: Half Field",
+    "candidates": [
+      "Dayyanei Golah",
+      "Mishnah: Half Field",
+      "Measurements",
+      "Purchaser Gets Less",
+      "Chiyya's Challenge",
+      "Value vs. Area"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about selling half a field with assessment between parties, which directly matches the 'Mishnah: Half Field' section's prose describing exactly this content.",
+      "chosen_heading": "Mishnah: Half Field",
+      "current_heading": "Mishnah: Half Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Value vs. Area",
+    "candidates": [
+      "Measurements",
+      "Purchaser Gets Less",
+      "Chiyya's Challenge",
+      "Value vs. Area",
+      "Ditch Configuration",
+      "Animal Protection",
+      "Cannot Omit Ditches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the continuous exchange where Rabbi \u1e24iyya challenges Rabbi Yo\u1e25anan and Rabbi Yo\u1e25anan resolves it via the seifa \u2014 exactly what candidate 2 ('Chiyya's Challenge') describes, including the sarcastic rebuke and the targamna mi-seifa resolution, whereas candidate 3 ('Value vs. Area') covers only the logical deduction from the seifa that the assessment is by monetary value, not the challenge-and-response narrative.",
+      "chosen_heading": "Chiyya's Challenge",
+      "current_heading": "Value vs. Area",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Cannot Omit Ditches",
+    "candidates": [
+      "Ditch Configuration",
+      "Animal Protection",
+      "Cannot Omit Ditches"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ditch Configuration",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the full ditch configuration discussion (arrangement, purpose, and why neither ditch can be omitted), which spans all three candidate headings but begins with the physical layout described under 'Ditch Configuration' \u2014 however since items 1-2 together cover the configuration AND the animal protection AND the cannot-omit reasoning, the best single home for items 1-2 is 'Ditch Configuration' (index 0) as the starting point of the entire discussion, while item 3 is merely the chapter-closing formula (\u05d4\u05d3\u05e8\u05df) which belongs as a structural endpoint and is a genuine seam.",
+      "second_heading": "Cannot Omit Ditches",
+      "second_confidence": "low",
+      "second_reason": "Item 3 (\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da) is the closing liturgical formula marking the end of the tractate chapter, a structural break from the Talmudic discussion, and its current placement under 'Cannot Omit Ditches' is arbitrary \u2014 but since it has no true prose home among the candidates, it stays closest to the final candidate.",
+      "current_heading": "Cannot Omit Ditches",
+      "moved": true
+    }
+  }
+]

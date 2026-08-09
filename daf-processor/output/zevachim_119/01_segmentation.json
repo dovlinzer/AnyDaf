@@ -48,7 +48,7 @@
           "timestamp": "05:11"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -115,7 +115,7 @@
           "timestamp": "24:33"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -129,7 +129,7 @@
           "timestamp": "25:02"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 8,
       "matched": false
     },
     {
@@ -143,7 +143,7 @@
           "timestamp": "26:09"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 8,
       "matched": false
     },
     {
@@ -215,7 +215,7 @@
           "timestamp": "29:13"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -248,7 +248,7 @@
           "timestamp": "30:10"
         }
       ],
-      "sefaria_index": 35,
+      "sefaria_index": 34,
       "matched": true
     },
     {
@@ -554,5 +554,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "26:09",
+  "amud_b_micro_title": "R. Shimon bar Yochai",
+  "shiur_start_daf": 119,
+  "shiur_start_amud": "a"
 }

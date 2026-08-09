@@ -1,6 +1,7 @@
-# Nedarim 64 — Daf Yomi Shiur
-
+[DAF:64a]
 ## Scope to Annulment
+
+
 
 ### Return & New Perek
 
@@ -14,11 +15,13 @@ This is not, in fact, the first time *hatarat nedarim* has appeared in the *mase
 
 ## Kavod Aviv V'Imo
 
+
+
 ### R. Eliezer's Rule
 
-> **Hebrew/Aramaic:** מַתְנִי׳ רַבִּי אֱלִיעֶזֶר אוֹמֵר: פּוֹתְחִין לְאָדָם בִּכְבוֹד אָבִיו וְאִמּוֹ, וַחֲכָמִים אוֹסְרִין.
->
+> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר אוֹמֵר: פּוֹתְחִין לְאָדָם בִּכְבוֹד אָבִיו וְאִמּוֹ, וַחֲכָמִים אוֹסְרִין.
 > **Translation:** MISHNA: **Rabbi Eliezer says:** When halakhic authorities are approached with regard to the dissolution of a vow, they **may broach** dissolution **with a person** who took a vow **by** raising the issue of how taking the vow ultimately degraded **the honor of his father and mother,** asking him the following: Had you known that your parents would experience public shame due to your lax attitude toward your vow, would you still have taken the vow? **But the Rabbis** disagree with Rabbi Eliezer and **prohibit** broaching dissolution of a vow with this particular question.
+
 
 The *perek* opens at the top of daf 64 with the following position of Rabbi Eliezer: *potchin l'adam b'khvod aviv v'imo* — one may open for a person, when seeking to annul his *neder*, with the matter of the honor of his father and mother. In practice, this means that the *beit din* asks the petitioner: had you known how this vow would have impacted your parents, would you have taken it? If the answer is no, that serves as a *petach* — a grounds for annulment. The *chachamim*, however, forbid this approach, on the grounds that it would effectively license everyone to escape any vow.
 
@@ -30,7 +33,7 @@ What exactly does the *beit din* say to the person? The *Ran* explains the formu
 
 *Rashi* offers a somewhat different framing. The formula, according to *Rashi*, is: *ilu hayita yode'a she-omrim al avicha, oy lo l'av she-gidal ben rasha kazeh she-parutz b'nedarim* — had you known that people would say to your father, "Woe to the father who raised such a wicked son, so dissolute in his vows" — would you have taken the vow? This is not quite the same as saying that people will think poorly of the parents' character. Rather, it is that the news will reach the parents and cause them anguish. It is less about the parents' reputation than about the grief that will come back to them when they hear what is being said.
 
-### Vows Proliferate in Prac…
+### Vows in Practice
 
 One cannot help but note a certain tension in this entire framework. From everything we have read in *Nedarim*, it is clear that vows were extremely prevalent. People were invoking *neder* formulae constantly — in disputes, in negotiations, in everyday social interaction. Given that reality, one wonders whether the social stigma that the *Chachamim* are describing — that a person who takes a vow will be regarded poorly, and that this will reflect badly on his parents — was an accurate description of how society actually functioned, or rather an expression of how the rabbis wished society would respond.
 
@@ -42,15 +45,18 @@ One important point is also worth raising: the framing of *kavod aviv v'imo* as 
 
 *Tosafot* offers yet another variation, closer in structure to *Rashi* but with a slightly different emphasis. *Reitem binchem kal b'nedarim v'yitbaishu* — people will say to your parents, "Have you seen what your son is doing? Have you seen how lightly he treats vows?" And they will be embarrassed. The focus here is on the anguish that comes back to the parents when they hear their child spoken of this way. It is not that people think poorly of the parents' character, nor quite that people are saying something harsh about them in the abstract; it is that it gets back to the parents directly, and causes them shame.
 
+It is also worth clarifying the procedural context in which this *petach* operates. This is not a warning issued to a person on the verge of taking a vow. The vow has already been made. The person has come before the *beit din*, and the court is now trying to find a pathway to release him. The classical mechanism of *hatarat nedarim* works through a *petach*: the person must be able to say that had he considered factor X at the moment he took the vow, he never would have taken it. Rabbi Eliezer's ruling is that this is a legitimate standard question a court can put to any petitioner — had you considered how word of this would reach your parents and cause them shame, would you still have made this vow? That framing matters, because it also points to something genuinely compelling about this particular *petach*: a vow is by its nature a self-centered act, focused entirely on one's own interests and the immediate parties involved. It is quite plausible that a person who had thought through every dimension of his own situation would still not have paused to consider the effect on his parents. Invoking that third-party dimension, as the previous section noted, is arguably what gives this *petach* its real force — a question Rabbi Tzadok will nonetheless press hard in the discussion that follows.
+
 ---
 
 ## Chachamim Reject Parents
 
+
+
 ### R. Tzadok: Reductio
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי צָדוֹק: עַד שֶׁפּוֹתְחִין לוֹ בִּכְבוֹד אָבִיו וְאִמּוֹ, יִפְתְּחוּ לוֹ בִּכְבוֹד הַמָּקוֹם, אִם כֵּן — אֵין נְדָרִים! מוֹדִים חֲכָמִים לְרַבִּי אֱלִיעֶזֶר בְּדָבָר שֶׁבֵּינוֹ לְבֵין אָבִיו וְאִמּוֹ, שֶׁפּוֹתְחִין לוֹ בִּכְבוֹד אָבִיו וְאִמּוֹ.
->
-> **Translation:** **Rabbi Tzadok said: Instead of broaching** dissolution **with him by** raising the issue of **the honor of his father and mother, let them broach** dissolution **with him by** raising the issue of **the honor of the Omnipresent.** They should point out that a vow taken in the name of God lessens the honor of God, so they could ask him: If you had known that your vow would diminish the honor of God, would you have taken your vow? And **if so,** if this is a valid method of broaching dissolution, **there are no vows.** Nevertheless, **the Rabbis concede to Rabbi Eliezer with regard to** a vow concerning **a matter that is between him and his father and mother, that** they **may broach** dissolution **with him by** raising the issue of **the honor of his father and mother,** as in this case the extenuation is connected to this particular vow.
+> **Hebrew/Aramaic:** אָמַר רַבִּי צָדוֹק: עַד שֶׁפּוֹתְחִין לוֹ בִּכְבוֹד אָבִיו וְאִמּוֹ, יִפְתְּחוּ לוֹ בִּכְבוֹד הַמָּקוֹם, אִם כֵּן — אֵין נְדָרִים! מוֹדִים חֲכָמִים לְרַבִּי אֱלִיעֶזֶר בְּדָבָר שֶׁבֵּינוֹ לְבֵין אָבִיו וְאִמּוֹ, שֶׁפּוֹתְחִין לוֹ בִּכְבוֹד אָבִיו וְאִמּוֹ.
+> **Translation:** To support the opinion of the Rabbis, **Rabbi Tzadok said: Instead of broaching** dissolution **with him by** raising the issue of **the honor of his father and mother, let them broach** dissolution **with him by** raising the issue of **the honor of the Omnipresent.** They should point out that a vow taken in the name of God lessens the honor of God, so they could ask him: If you had known that your vow would diminish the honor of God, would you have taken your vow? And **if so,** if this is a valid method of broaching dissolution, **there are no vows.** Nevertheless, **the Rabbis concede to Rabbi Eliezer with regard to** a vow concerning **a matter that is between him and his father and mother, that** they **may broach** dissolution **with him by** raising the issue of **the honor of his father and mother,** as in this case the extenuation is connected to this particular vow.
 
 Rabbi Tzadok enters the discussion and makes what is in effect a *reductio ad absurdum* against Rabbi Eliezer's position. His argument: *ad she-potchin lo b'khvod aviv v'imo, yiftchu lo b'khvod hamakom* — if you are already prepared to open with the honor of the parents, you might as well open with the honor of God. And if that is permitted — if we can always invoke the fact that taking a vow is religiously inappropriate, an affront to God — then *ein nedarim*, there will be no vows, because that argument applies universally to every single *neder* ever taken. It is therefore obviously impossible to permit this as a standard *petach*, and if we reject the *kavod hamakom* argument, consistency would seem to require rejecting *kavod aviv v'imo* as well.
 
@@ -74,21 +80,19 @@ The second is a concern about trivialization: if there is a universal escape rou
 
 ---
 
-## Abaye vs. Rava (II)
+## Abaye vs. Rava
 
-### Concession on Direct Imp…
 
-The *Gemara* notes at this point that there is, in fact, one case where the *chachamim* concede the validity of Rabbi Eliezer's position: *modim chachamim l'Rabbi Eliezer b'davar she-beino l'vein aviv v'imo she-potchin lo b'khvod aviv v'imo* — where the vow directly impacts the parents, the *chachamim* agree that the *beit din* may open with the matter of the parents' honor. If a person took a vow that he would receive no benefit from his parents, or that his parents would receive no benefit from him, the *beit din* may indeed ask: had you really thought through how this would affect your relationship with your parents? This concession by the *chachamim* will need to be explained in light of their broader objection, and the *Gemara* will return to this point in the next section.
 
----
+### Chachamim Concede Parents
+
+The *Gemara* notes that the *chachamim* concede to Rabbi Eliezer in a case where the vow directly impacts the parents — *modim chachamim l'Rabbi Eliezer b'davar she-beino l'vein aviv v'imo she-potchin lo b'khvod aviv v'imo* — and that if the vow concerned benefit to or from the parents, the *beit din* may raise the question of how it would affect that relationship. The *Gemara* then moves on to another teaching of Rabbi Eliezer: *ve'od amar Rabbi Eliezer* — "and Rabbi Eliezer further said."
 
 ## Nolad Innovation
 
-### R. Eliezer Nolad
 
-> **Hebrew/Aramaic:** וְעוֹד אָמַר רַבִּי אֱלִיעֶזֶר: פּוֹתְחִין בַּנּוֹלָד, וַחֲכָמִים אוֹסְרִין. כֵּיצַד? אָמַר: "קֻוֽנָּם שֶׁאֲנִי נֶהֱנֶה לְאִישׁ פְּלוֹנִי" וְנַעֲשָׂה סוֹפֵר, אוֹ שֶׁהָיָה מַשִּׂיא אֶת בְּנוֹ, וְאָמַר: "אִילּוּ הָיִיתִי יוֹדֵעַ שֶׁהוּא נַעֲשֶׂה סוֹפֵר אוֹ שֶׁהָיָה מַשִּׂיא אֶת בְּנוֹ בְּקָרוֹב — לֹא הָיִיתִי נוֹדֵר".
->
-> **Translation:** **And Rabbi Eliezer further said:** They **may broach** dissolution **by** asking about **a new situation, but the Rabbis prohibit** it. **How** might they broach dissolution by asking about a new situation? If one **said: It is** forbidden to me **like an offering [*konam*] that I will** therefore not **derive benefit from so-and-so, and** that person later **became a scribe [*sofer*],** and the one who took the vow now requires his services, **or if** the one forbidden by the vow **was marrying off his son** and prepared a feast for all the residents of his town, **and** the one that had taken the vow **said: Had I known that he would become a scribe, or that he would be marrying off his son in the near** future, **I would not have vowed.**
+
+### R. Eliezer Nolad
 
 The *mishnah* continues: *ve'od amar Rabbi Eliezer, potchin b'nolad* — Rabbi Eliezer further rules that one may open with a *nolad*, a newly occurred event. This is an even more far-reaching *chiddush*. The claim is that even an event which took place *after* the vow was made, and which the person had no reason to anticipate at the time of the vow, may serve as the basis for undoing it. Had you known that this would come to pass, the *beit din* may ask, would you still have made the vow?
 
@@ -100,8 +104,10 @@ The conceptual difficulty with *nolad* is apparent. The standard logic of a *pet
 
 ### Nolad Examples
 
-> **Hebrew/Aramaic:** "קֻוֽנָּם לְבַיִת זֶה שֶׁאֲנִי נִכְנָס" וְנַעֲשָׂה בֵּית הַכְּנֶסֶת, אָמַר: "אִילּוּ הָיִיתִי יוֹדֵעַ שֶׁהוּא נַעֲשָׂה בֵּית הַכְּנֶסֶת — לֹא הָיִיתִי נוֹדֵר". רַבִּי אֱלִיעֶזֶר מַתִּיר, וַחֲכָמִים אוֹסְרִין.
->
+> **Hebrew/Aramaic:** וְעוֹד אָמַר רַבִּי אֱלִיעֶזֶר: פּוֹתְחִין בַּנּוֹלָד, וַחֲכָמִים אוֹסְרִין. כֵּיצַד? אָמַר: ״קֻוֽנָּם שֶׁאֲנִי נֶהֱנֶה לְאִישׁ פְּלוֹנִי״ וְנַעֲשָׂה סוֹפֵר, אוֹ שֶׁהָיָה מַשִּׂיא אֶת בְּנוֹ, וְאָמַר: ״אִילּוּ הָיִיתִי יוֹדֵעַ שֶׁהוּא נַעֲשֶׂה סוֹפֵר אוֹ שֶׁהָיָה מַשִּׂיא אֶת בְּנוֹ בְּקָרוֹב — לֹא הָיִיתִי נוֹדֵר״.
+> **Translation:** **And Rabbi Eliezer further said:** They **may broach** dissolution **by** asking about **a new situation, but the Rabbis prohibit** it. **How** might they broach dissolution by asking about a new situation? If one **said: It is** forbidden to me **like an offering [*konam*] that I will** therefore not **derive benefit from so-and-so, and** that person later **became a scribe [*sofer*],** and the one who took the vow now requires his services, **or if** the one forbidden by the vow **was marrying off his son** and prepared a feast for all the residents of his town, **and** the one that had taken the vow **said: Had I known that he would become a scribe, or that he would be marrying off his son in the near** future, **I would not have vowed.**
+
+> **Hebrew/Aramaic:** ״קֻוֽנָּם לְבַיִת זֶה שֶׁאֲנִי נִכְנָס״ וְנַעֲשָׂה בֵּית הַכְּנֶסֶת, אָמַר: ״אִילּוּ הָיִיתִי יוֹדֵעַ שֶׁהוּא נַעֲשָׂה בֵּית הַכְּנֶסֶת — לֹא הָיִיתִי נוֹדֵר״. רַבִּי אֱלִיעֶזֶר מַתִּיר, וַחֲכָמִים אוֹסְרִין.
 > **Translation:** The mishna cites another example of a new situation. If one said: **Entering this house is *konam*** for me, **and** that house **became a synagogue,** and **he said: Had I known that it would become a synagogue, I would not have vowed,** in this and all such cases **Rabbi Eliezer permits** the halakhic authority to use this as a basis for the dissolution of the vow, **and the Rabbis prohibit** it.
 
 The *mishnah* provides several examples of *nolad* in practice. Someone takes a vow that a certain person is *assur* to him — *konam she-ani neheneh l'ish peloni* — and that person subsequently becomes the *sofer* of the city. The *sofer* is not merely the repairman for *tefillin* and *mezuzot*; he is the scribe who writes all legal documents, and therefore the one to whom the entire community must inevitably turn for essential services. The petitioner says: *ilu hayiti yode'a she-na'asah sofer*, had I known he would become the city scribe, I would never have made this vow. Alternatively, the person was about to marry off his son — *mashia et beno* — and everyone in the community is expected to participate in the celebration. Or: someone makes a *konam* that a certain house is *assur* to him — *l'bayit zeh she-ani nichnas* — and the house is subsequently purchased and converted into a *beit haknesset*. Had I known, he says, that this building would become a *shul*, I would not have made the vow. In all these cases, Rabbi Eliezer *matir* — permits — and the *chachamim* forbid.
@@ -118,26 +124,30 @@ For example: if someone makes a vow in winter that he will not enter a bathhouse
 
 The debate between Rabbi Eliezer and the *chachamim* is specifically about events that the person had *no good reason* to expect — genuine surprises. Here the *chachamim* insist: this does not speak to your frame of mind at the time, and it cannot undo a sincere vow. Rabbi Eliezer disagrees and permits even this.
 
+It should be noted that this entire discussion reflects the lecturer's own reading of the *mishna*, not a conclusion forced on us by its text. The *mishna* itself offers no explicit signal as to whether the distinction between the *reisha* and the *seifa* concerns *l'chatchila* policy alone or extends to *b'dieved* validity, nor does it compel us to read *matir* and *osrim* differently in the two halves. The intuition that the *nolad* case involves a more fundamental objection — one that may go to whether the annulment works at all, rather than merely whether the *beit din* should pursue it — is a conceptual judgment about the difference between a case that feels like a policy concern and one that feels like a principled denial that any *ta'ut* occurred. Whether that reading is correct is precisely the question the *Gemara* now takes up.
+
 ---
 
 ## Abaye vs. Rava (II)
 
-### Abaye: Dishonesty
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי "אֵין נְדָרִים"? אָמַר אַבָּיֵי: אִם כֵּן, אֵין נְדָרִים נִיתָּרִין יָפֶה.
->
-> **Translation:** GEMARA: The Gemara clarifies the meaning of the statement made by Rabbi Tzadok. **What** does: If so, **there are no vows,** mean? **Abaye said:** It means: **If so, vows are not dissolved properly.** The one who took the vow might say he regrets doing so only because he is not willing to publicly state that he would have taken his vow despite knowing that it diminishes the honor of God. He may not actually regret having taken the vow, and this will lead to the improper dissolution of the vow.
+
+### Abaye: Dishonesty
 
 The *Gemara* now turns to the analytical question: what exactly is the reason behind the *chachamim*'s ruling that you may not open with *kavod aviv v'imo* or *kavod hamakom*? The *Gemara* records a dispute between Abaye and Rava. *Amar Abaye: im kein ein nedarim nitarim yafeh* — Abaye says that the problem is that *nedarim* will not be properly released. What does this mean?
 
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי ״אֵין נְדָרִים״? אָמַר אַבָּיֵי: אִם כֵּן, אֵין נְדָרִים נִיתָּרִין יָפֶה.
+> **Translation:** GEMARA: The Gemara clarifies the meaning of the statement made by Rabbi Tzadok. **What** does: If so, **there are no vows,** mean? **Abaye said:** It means: **If so, vows are not dissolved properly.** The one who took the vow might say he regrets doing so only because he is not willing to publicly state that he would have taken his vow despite knowing that it diminishes the honor of God. He may not actually regret having taken the vow, and this will lead to the improper dissolution of the vow.
+
 ### Ran Explains Abaye
+
 
 The *Ran* explains Abaye's position clearly. Even in a case where a person in fact would not have been deterred by *kavod hamakom* — even someone who took the vow fully aware that the rabbis frowned upon vowing, and would have done so regardless — such a person, once he is standing before a *chacham* in *beit din*, will not have the *chutzpah* to say so. *Lo ya'iz panav b'khach lifnei chacham v'yeshaker* — he will not have the audacity to say outright, "Yes, I knew it was not religiously ideal, I knew it was an offense to God, and I would have done it anyway." He will lie. *V'yomar ilu hayiti yode'a lo hayiti noder* — he will say he would not have made the vow, whether or not that is true. *Nimtza she-ein nedarim nitarim yafeh* — the result is that *nedarim* are not properly released, because the annulments are built on false pretenses. The person does not genuinely meet the conditions for *hatara*, and yet the *beit din* grants it. That is why we do not raise *kavod hamakom* or *kavod aviv v'imo* as a general *petach* — not because they would never be genuine, but because in practice you cannot trust the answer you will receive.
 
+[DAF:64b]
 ### Rava: Beit Din Undermined
 
-> **Hebrew/Aramaic:** וְרָבָא אָמַר: אִם כֵּן אֵין נְדָרִים נִשְׁאָלִין לְחָכָם.
->
+> **Hebrew/Aramaic:** וְרָבָא אָמַר: אִם כֵּן אֵין נְדָרִים נִשְׁאָלִין לְחָכָם.
 > **Translation:** **And Rava said:** It means: **If so, there are no requests** for the dissolution **of vows to a halakhic authority.** Since this type of extenuation applies to all vows, people will therefore assume that their vows are automatically dissolved, and will not take the required steps to dissolve them.
 
 Rava, by contrast, offers a different explanation: *im kein ein nedarim nishalin l'chacham* — if such a universal *petach* were available, no one would bother coming to a *chacham* at all. Since *kavod hamakom* applies to every *neder* without exception, people would simply conclude that they do not need a *beit din* to release them from their vows. They would reason: I can invoke this on my own — I wasn't thinking about the religious impropriety of vowing, therefore I never really meant it, and I am hereby released. And so the institution of *hatarat nedarim* — which requires going before a *beit din* or a *chacham* — would collapse entirely.
@@ -150,53 +160,45 @@ Of the two positions, Rava's seems closer in language to the *mishnah*'s own for
 
 ### Exception Permitted
 
-> **Hebrew/Aramaic:** תְּנַן: וּמוֹדִים חֲכָמִים לְרַבִּי אֱלִיעֶזֶר בְּדָבָר שֶׁבֵּינוֹ לְבֵין אָבִיו וְאִמּוֹ, שֶׁפּוֹתְחִים לוֹ בִּכְבוֹד אָבִיו וְאִמּוֹ. בִּשְׁלָמָא לְאַבָּיֵי דְּאָמַר: אִם כֵּן אֵין נְדָרִים נִיתָּרִין, הָכָא כֵּיוָן דְּאִיחֲצַף לֵיהּ — הָא אִיחֲצַף לֵיהּ.
->
-> **Translation:** The Gemara analyzes the dispute between Abaye and Rava: **We learned** in the mishna: **And the Rabbis concede to Rabbi Eliezer with regard to** a vow concerning **a matter that is between him and his father and mother, that** they **may broach** dissolution **with him by** raising the issue of **the honor of his father and mother. Granted, according to Abaye, who said: If so, vows are not dissolved** properly, **here, since he was impudent toward him** by stating a vow that subjects his parent to a prohibition, **he was impudent toward him** and has demonstrated that he is not concerned for their honor. In such a case, there is no concern that he would pretend to regret his vow due to his parents' honor. This is why the Rabbis concede to Rabbi Eliezer.
+> **Hebrew/Aramaic:** תְּנַן: וּמוֹדִין חֲכָמִים לְרַבִּי אֱלִיעֶזֶר בְּדָבָר שֶׁבֵּינוֹ לְבֵין אָבִיו וְאִמּוֹ, שֶׁפּוֹתְחִים לוֹ בִּכְבוֹד אָבִיו וְאִמּוֹ. בִּשְׁלָמָא לְאַבָּיֵי דְּאָמַר: אִם כֵּן אֵין נְדָרִים נִיתָּרִין, הָכָא כֵּיוָן דְּאִיחֲצַף לֵיהּ — הָא אִיחֲצַף לֵיהּ.
+> **Translation:** The Gemara analyzes the dispute between Abaye and Rava: **We learned** in the mishna: **And the Rabbis concede to Rabbi Eliezer with regard to** a vow concerning **a matter that is between him and his father and mother, that** they **may broach** dissolution **with him by** raising the issue of **the honor of his father and mother. Granted, according to Abaye, who said: If so, vows are not dissolved** properly, **here, since he was impudent toward him** by stating a vow that subjects his parent to a prohibition, **he was impudent toward him** and has demonstrated that he is not concerned for their honor. In such a case, there is no concern that he would pretend to regret his vow due to his parents’ honor. This is why the Rabbis concede to Rabbi Eliezer.
+
+> **Hebrew/Aramaic:** אֶלָּא לְרָבָא, דְּאָמַר: אִם כֵּן אֵין נְדָרִים נִשְׁאָלִין לְחָכָם, הָכָא אַמַּאי פּוֹתְחִין? אָמְרִי: כֵּיוָן דְּכֹל נִדְרֵי לָא סַגִּיא לְהוֹן דְּלָאו חָכָם — הָכָא נָמֵי פּוֹתְחִין.
+> **Translation:** **But according to Rava, who said: If so, there are no requests** for dissolution made **to a halakhic authority, here,** in the case of one whose vow involves his parents, **why** may they **broach** dissolution in this way? Why is there not a concern that people will assume that this dissolves all vows automatically? The Gemara answers: The Sages **say** in response: **Since it is not sufficient** and applicable **for all vows not** to request dissolution from **a halakhic authority,** because the Rabbis maintain that in general, the honor of one’s parents cannot be used to broach dissolution, **here too,** they **may broach** dissolution by invoking the honor of a parent. There is no concern that this may lead one to think that vows are dissolved automatically, as this extenuation applies only to this particular vow.
 
 The *Gemara* now returns to the *mishnah*'s concession — that the *chachamim* agree with Rabbi Eliezer when the vow directly impacts the parents — and asks how this fits with each of the two positions.
 
 According to Abaye, who holds that the concern is dishonesty, the exception is readily explained. *Hacha, keivan d'achtzif lei, achtzif lei* — here, since the person had the audacity to take a vow that directly and knowingly affected his parents, we can expect an honest answer from him. If someone explicitly makes a *neder* that his parents shall not benefit from him — knowing full well that his parents are involved — and still goes ahead with it, then when the *beit din* subsequently asks him, "Had you truly thought through how this would affect your relationship with your parents, would you have done this?" we are not afraid that raising the parents will produce a dishonest response. This person demonstrated, by his very willingness to make the vow, that he is not someone who automatically backs down when his parents are invoked. If he now says he would not have made the vow, that answer is credible. The concern about dishonesty that applies in the general case does not apply here.
 
-According to Rava, who holds that the concern is that people will feel they can bypass the *beit din*, the exception requires a different explanation. One might worry: once people hear that the *beit din* raises *kavod aviv v'imo* in cases where the vow impacts the parents, won't they start thinking they can use this as a general formula and release themselves on their own?
-
-> **Hebrew/Aramaic:** אֶלָּא לְרָבָא, דְּאָמַר: אִם כֵּן אֵין נְדָרִים נִשְׁאָלִין לְחָכָם, הָכָא אַמַּאי פּוֹתְחִים? אָמְרִי: כֵּיוָן דְּכֹל נִדְרֵי לָא סַגִּיא לְהוֹן דְּלָאו חָכָם — הָכָא נָמֵי פּוֹתְחִים.
->
-> **Translation:** **But according to Rava, who said: If so, there are no requests** for dissolution made **to a halakhic authority, here,** in the case of one whose vow involves his parents, **why** may they **broach** dissolution in this way? Why is there not a concern that people will assume that this dissolves all vows automatically? The Gemara answers: The Sages **say** in response: **Since it is not sufficient** and applicable **for all vows not** to request dissolution from **a halakhic authority,** because the Rabbis maintain that in general, the honor of one's parents cannot be used to broach dissolution, **here too,** they **may broach** dissolution by invoking the honor of a parent. There is no concern that this may lead one to think that vows are dissolved automatically, as this extenuation applies only to this particular vow.
-
-The answer is: *keivan d'khol nidrei lo sagi lehu belo chacham, hacha nami potchin* — since for all other *nedarim* the person knows that you cannot get out of it without appearing before a *chacham*, the existence of this one narrow exception — specifically for cases where the vow directly involved the parents — will not give rise to the impression that there is a blanket license to invoke parents universally and bypass the *beit din*. The exception is too specific and too recognizable as singular to produce that effect.
+According to Rava, who holds that the concern is that people will feel they can bypass the *beit din*, the exception requires a different explanation. One might worry: once people hear that the *beit din* raises *kavod aviv v'imo* in cases where the vow impacts the parents, won't they start thinking they can use this as a general formula and release themselves on their own? The *Gemara* answers: *keivan d'khol nidrei lo sagi lehu belo chacham, hacha nami potchin* — since for all other *nedarim* the person knows that you cannot get out of it without appearing before a *chacham*, the existence of this one narrow exception — specifically for cases where the vow directly involved the parents — will not give rise to the impression that there is a blanket license to invoke parents universally and bypass the *beit din*. The exception is too specific and too recognizable as singular to produce that effect.
 
 ---
 
 ## Moshe's Oath Proof
 
+
+
 ### Rav Chisda Verse
 
-> **Hebrew/Aramaic:** וְעוֹד אָמַר רַבִּי אֱלִיעֶזֶר פּוֹתְחִין בַּנּוֹלָד כּוּ׳. מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? אָמַר רַב חִסְדָּא: דְּאָמַר קְרָא "כִּי מֵתוּ כׇּל הָאֲנָשִׁים״ — וְהָא מִיתָה דְּנוֹלָד הוּא, מִכָּאן שֶׁפּוֹתְחִין בַּנּוֹלָד.
->
-> **Translation:** § The mishna teaches: **And Rabbi Eliezer further said:** They **may broach** dissolution **by** asking about **a new situation,** but the Rabbis prohibit it. The Gemara inquires: **What is the reason of Rabbi Eliezer? Rav Ḥisda said: For the verse states** that God told Moses he could return to Egypt from Midian, despite having vowed to Yitro that he would not do so: **"For all the men are dead** that sought your life" (Exodus 4:19), and he took the vow only because it would be dangerous for him to return to Egypt. The Gemara explains the proof: **But death is a new circumstance,** and Moses' vow was dissolved based on the men dying. Therefore, it can be understood **from here that** they **may broach** dissolution **by** asking about **a new situation.**
+> **Hebrew/Aramaic:** וְעוֹד אָמַר רַבִּי אֱלִיעֶזֶר פּוֹתְחִין בַּנּוֹלָד כּוּ׳. מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? אָמַר רַב חִסְדָּא: דְּאָמַר קְרָא ״כִּי מֵתוּ כׇּל הָאֲנָשִׁים״ — וְהָא מִיתָה דְּנוֹלָד הוּא, מִכָּאן שֶׁפּוֹתְחִין בַּנּוֹלָד.
+> **Translation:** § The mishna teaches: **And Rabbi Eliezer further said:** They **may broach** dissolution **by** asking about **a new situation,** but the Rabbis prohibit it. The Gemara inquires: **What is the reason of Rabbi Eliezer? Rav Ḥisda said: For the verse states** that God told Moses he could return to Egypt from Midian, despite having vowed to Yitro that he would not do so: **“For all the men are dead** that sought your life” (Exodus 4:19), and he took the vow only because it would be dangerous for him to return to Egypt. The Gemara explains the proof: **But death is a new circumstance,** and Moses’ vow was dissolved based on the men dying. Therefore, it can be understood **from here that** they **may broach** dissolution **by** asking about **a new situation.**
 
 The *Gemara* now turns to the prooftext that underlies Rabbi Eliezer's position on *nolad*. *Amar Rav Chisda de'amar kra: ki meisu kol ha'anashim ham'vakshim et nafshecha* — Rav Chisda cites the verse in which God tells Moshe to return to Egypt, assuring him that all the men who had sought his life had died. The background is as follows. The *Gemara* earlier noted that the word *vayo'el* — describing Moshe's acceptance of Yisro's hospitality — carries the connotation of an oath, as in the term *alah*. Moshe had sworn to Yisro that he would remain with him and not return to Egypt. How, then, could he later return? God releases him from that oath by saying: the reason you took the oath is no longer operative. You swore to stay because there were people in Egypt who wanted to kill you; they have now died; therefore, had you known at the time of your oath that they would die, you never would have sworn to remain — and on that basis, the oath is annulled. This, says Rav Chisda, is the Scriptural source for Rabbi Eliezer's ruling that *potchin b'nolad* — we may open with an event that occurred after the vow.
 
 ### Rabanan Challenge
 
-> **Hebrew/Aramaic:** וְרַבָּנַן מַאי טַעְמַיְיהוּ? קָסָבְרִי: הָנְהוּ מִי מָיְיתִי? וְהָא אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: כׇּל מָקוֹם שֶׁנֶּאֱמַר "נִצִּים" וְ"נִצָּבִים", אֵינָן אֶלָּא דָּתָן וַאֲבִירָם. אֶלָּא אָמַר רֵישׁ לָקִישׁ: שֶׁיָּרְדוּ מִנִּכְסֵיהֶן.
->
-> **Translation:** The Gemara asks: **And** as for **the Rabbis, what is their reason** for not accepting this proof? The Gemara answers: **They hold: These** people who were seeking Moses' life, **had they** indeed **died? But Rabbi Yoḥanan said in the name of Rabbi Shimon ben Yoḥai: Wherever it is stated** in the Torah the term **striving** (Exodus 2:13), in reference to the men who slandered Moses, **or standing** (Exodus 5:20), in reference to those who complained against Moses and Aaron, **they are none other than Dathan and Abiram.** Dathan and Abiram were alive during the rebellion of Korah, which occurred years later, so they could not have been dead when God instructed Moses to return to Egypt. **Rather, Reish Lakish said:** They did not literally die, but the verse means **that they lost their property** and their status in the community, which meant their opinions were no longer granted credibility, and consequently, Moses could safely return to Egypt. Such a turn of events is not considered to be a new circumstance.
-
-The *chachamim* challenge this reading. *Kasvari hannu mi meisi?* — Who says those people actually died? The verse says they died, but perhaps that is not the plain meaning. And in fact, *Rav Chisda* is reading the verse as supporting *nolad*, but the *rabanan* who disagree with Rabbi Eliezer would need to explain the verse differently. The challenge is: did these people literally die, or is something else going on?
+The *chachamim* challenge this reading. *Kasvari hanhu mi meisi?* — Who says those people actually died? The verse says they died, but perhaps that is not the plain meaning. And in fact, *Rav Chisda* is reading the verse as supporting *nolad*, but the *rabanan* who disagree with Rabbi Eliezer would need to explain the verse differently. The challenge is: did these people literally die, or is something else going on?
 
 ### R. Yochanan ID
+
+> **Hebrew/Aramaic:** וְרַבָּנַן מַאי טַעְמַיְיהוּ? קָסָבְרִי: הָנְהוּ מִי מָיְיתִי? וְהָא אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: כׇּל מָקוֹם שֶׁנֶּאֱמַר ״נִצִּים״ וְ״נִצָּבִים״, אֵינָן אֶלָּא דָּתָן וַאֲבִירָם. אֶלָּא אָמַר רֵישׁ לָקִישׁ: שֶׁיָּרְדוּ מִנִּכְסֵיהֶן.
+> **Translation:** The Gemara asks: **And** as for **the Rabbis, what is their reason** for not accepting this proof? The Gemara answers: **They hold: These** people who were seeking Moses’ life, **had they** indeed **died? But Rabbi Yoḥanan said in the name of Rabbi Shimon ben Yoḥai: Wherever it is stated** in the Torah the term **striving** (Exodus 2:13), in reference to the men who slandered Moses, **or standing** (Exodus 5:20), in reference to those who complained against Moses and Aaron, **they are none other than Dathan and Abiram.** Dathan and Abiram were alive during the rebellion of Korah, which occurred years later, so they could not have been dead when God instructed Moses to return to Egypt. **Rather, Reish Lakish said:** They did not literally die, but the verse means **that they lost their property** and their status in the community, which meant their opinions were no longer granted credibility, and consequently, Moses could safely return to Egypt. Such a turn of events is not considered to be a new circumstance.
 
 The *Gemara* invokes a teaching of Rabbi Yochanan in the name of Rabbi Shimon bar Yochai: *kol makom she-ne'emar nitzim v'nitzavim, einam ela Datan v'Aviram* — wherever the Torah uses the language *nitzim* (fighting/standing defiantly) or *nitzavim* (standing in confrontation), it refers to none other than Datan and Aviram. The connection runs as follows. When Moshe first fled Egypt, it was after he saw *shnei anashim Ivrim nitzim* — two Hebrews fighting — and one of them challenged him: *mi samcha l'ish sar v'shofet aleinu?* — who appointed you as a prince and judge over us? Later, when Moshe returns to Egypt and confronts Pharaoh, we read that the people were *nitzavim likratam b'tzetam me-Paroh*, standing to meet them as they emerged from Pharaoh's presence, accusing Moshe of making their situation worse. Both the confrontational posture and the language of standing in defiance are parallel. And since at the time of Korach's rebellion it says of Datan and Aviram *yatzu nitzavim*, Rabbi Yochanan identifies all these figures as one and the same: Datan and Aviram.
 
 This identification creates a problem for the straightforward reading of *ki meisu kol ha'anashim*. If the people who were out to get Moshe at the beginning were Datan and Aviram, and Datan and Aviram are still very much alive at the time of the Korach episode — which occurs well after Moshe's return to Egypt — then it cannot be literally true that they died. One might naturally have thought that the *anashim* seeking Moshe's life were Pharaoh and his officials; but even if we accept this identification, the problem remains.
 
-### Reish Lakish: Poor = Dea…
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: כׇּל אָדָם שֶׁאֵין לוֹ בָּנִים — חָשׁוּב כְּמֵת, שֶׁנֶּאֱמַר: "הָבָה לִּי בָנִים וְאִם אַיִן מֵתָה אָנֹכִי". וְתַנְיָא, אַרְבָּעָה חֲשׁוּבִין מֵת: עָנִי, וּמְצוֹרָע, וְסוֹמֵא, וּמִי שֶׁאֵין לוֹ בָּנִים. עָנִי — דִּכְתִיב: "כִּי מֵתוּ כׇּל הָאֲנָשִׁים". מְצוֹרָע — דִּכְתִיב: "אַל נָא תְהִי כַּמֵּת". וְסוֹמֵא — דִּכְתִיב: "בְּמַחֲשַׁכִּים הוֹשִׁיבַנִי כְּמֵתֵי עוֹלָם". וּמִי שֶׁאֵין לוֹ בָּנִים — דִּכְתִיב: "הָבָה לִּי בָנִים וְאִם אַיִן מֵתָה אָנֹכִי".
->
-> **Translation:** The Gemara relates: **Rabbi Yehoshua ben Levi said: Any person who does not have children is considered like a dead** person. The source is **as is stated** in the words Rachel said to Jacob: **"Give me children, or else I am dead"** (Genesis 30:1). **And it was taught** in a *baraita*: **Four are considered as** if they were **dead: A pauper, and a leper, and a blind** person, **and one who has no children. A pauper, as it is written: "For all the men are dead"** (Exodus 4:19). As explained above, they were not actually dead but had descended into poverty, and yet they were considered dead. **A leper, as it is written** that Aaron said to Moses with regard to Miriam's leprosy: **"Let her not, I pray, be as one dead"** (Numbers 12:12). **And a blind** person, **as it is written: "He has made me to dwell in dark places, as those that have been long dead"** (Lamentations 3:6). **And one who has no children, as it is written: "Give me children, or else I am dead"** (Genesis 30:1).
+### Reish Lakish: Poor=Death
 
 Reish Lakish resolves the difficulty: *she-yardu mi-nichseihem* — they did not literally die; they became poor and lost their wealth and influence. And this, Reish Lakish explains, constitutes a kind of death — becoming poor is akin to dying. This resolution serves two purposes simultaneously: it explains why the verse says *meisu* when they did not literally die, and it introduces the broader rabbinic concept that certain conditions in life render a person as though dead. This becomes the point of departure for the *baraita* that follows.
 
@@ -204,9 +206,14 @@ Reish Lakish resolves the difficulty: *she-yardu mi-nichseihem* — they did not
 
 ## Four Like Dead
 
+
+
 ### Four Categories
 
-The *baraita* teaches that four categories of people are considered as though dead: the poor (*ani*), the leper (*metzora*), the blind (*suma*), and the childless (*mi she-ein lo banim*).
+*V'tanya: arba'ah chashuvin k'meis* — a *baraita* teaches that four categories of people are considered as though dead: the poor (*ani*), the leper (*metzora*), the blind (*suma*), and the childless (*mi she-ein lo banim*).
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: כׇּל אָדָם שֶׁאֵין לוֹ בָּנִים — חָשׁוּב כְּמֵת, שֶׁנֶּאֱמַר: ״הָבָה לִּי בָנִים וְאִם אַיִן מֵתָה אָנֹכִי״. וְתַנְיָא, אַרְבָּעָה חֲשׁוּבִין מֵת: עָנִי, וּמְצוֹרָע, וְסוֹמֵא, וּמִי שֶׁאֵין לוֹ בָּנִים. עָנִי — דִּכְתִיב: ״כִּי מֵתוּ כׇּל הָאֲנָשִׁים״. מְצוֹרָע — דִּכְתִיב: ״אַל נָא תְהִי כַּמֵּת״. וְסוֹמֵא — דִּכְתִיב: ״בְּמַחֲשַׁכִּים הוֹשִׁיבַנִי כְּמֵתֵי עוֹלָם״. וּמִי שֶׁאֵין לוֹ בָּנִים — דִּכְתִיב: ״הָבָה לִּי בָנִים וְאִם אַיִן מֵתָה אָנֹכִי״.
+> **Translation:** The Gemara relates: **Rabbi Yehoshua ben Levi said: Any person who does not have children is considered like a dead** person. The source is **as is stated** in the words Rachel said to Jacob: **“Give me children, or else I am dead”** (Genesis 30:1). **And it was taught** in a *baraita*: **Four are considered as** if they were **dead: A pauper, and a leper, and a blind** person, **and one who has no children. A pauper, as it is written: “For all the men are dead”** (Exodus 4:19). As explained above, they were not actually dead but had descended into poverty, and yet they were considered dead. **A leper, as it is written** that Aaron said to Moses with regard to Miriam’s leprosy: **“Let her not, I pray, be as one dead”** (Numbers 12:12). **And a blind** person, **as it is written: “He has made me to dwell in dark places, as those that have been long dead”** (Lamentations 3:6). **And one who has no children, as it is written: “Give me children, or else I am dead”** (Genesis 30:1).
 
 ### Ani (Poor)
 
@@ -218,9 +225,10 @@ The *metzora* is derived from the verse *al na tehi k'meis* — "let her not be 
 
 ### Suma (Blind)
 
+
 The blind person (*suma*) is derived from the verse: *b'machshakim hoshivani k'meisei olam* — "He has made me dwell in darkness, like the eternally dead." The association between death and darkness — the dead descending into the dark netherworld — is ancient and pervasive. To live in perpetual darkness is, in a profound sense, to share the condition of the dead.
 
-### Blind vs. Other Disabili…
+### Blindness vs. Other
 
 This raises a striking question. Why does the *Gemara* identify specifically the *suma* as falling into this category, rather than, say, the *cheireish* — the one who cannot hear or speak — whose *halachic* status is in many ways even more restrictive, as such a person has historically not been considered a *bar da'at* in the full sense? Other disabilities might seem, from a practical standpoint, to have rendered life even more constrained. The likely answer is that the *Gemara*'s identification here is driven primarily by the *pasuk* and its imagery: the verse explicitly links darkness and death, and blindness is the condition that most directly instantiates that imagery. It is the poetic and textual resonance of darkness-as-death that places the *suma* in this list, even if other conditions might seem to compete on practical grounds.
 

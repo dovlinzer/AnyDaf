@@ -192,7 +192,7 @@
           "timestamp": "31:02"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -211,8 +211,8 @@
           "timestamp": "31:12"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Amira Lagavoa Kemisérat Lehedyot: Words as Powerful Transfer",
@@ -240,7 +240,7 @@
           "timestamp": "35:51"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -259,8 +259,8 @@
           "timestamp": "39:05"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -627,5 +627,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "29:59",
+  "amud_b_micro_title": "Both Directions",
+  "shiur_start_daf": 28,
+  "shiur_start_amud": "b"
 }

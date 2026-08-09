@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Limited Resources",
+    "candidates": [
+      "Ein Me'akvin Concept",
+      "Musafim Independence",
+      "Two Tamidim Debate",
+      "Rabbi Shimon Position",
+      "Altar Inauguration Ways",
+      "Outer Altar & Tamid",
+      "Limited Resources",
+      "Mishna Proof Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's logical challenge about the Mishna's case \u2014 arguing that if the animals are available then sequence is mandated (tadir v'mekudash), so the Mishna must be discussing a case of leis lei \u2014 which is precisely the analysis described in the 'Mishna Proof Attempt' section's prose.",
+      "chosen_heading": "Mishna Proof Attempt",
+      "current_heading": "Limited Resources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mishna Proof Attempt",
+    "candidates": [
+      "Limited Resources",
+      "Mishna Proof Attempt",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's reasoning that the Mishna must be discussing a case of limited resources (leis lei) where one must choose, and that since both options are permitted they are equal \u2014 this is precisely what the 'Mishna Proof Attempt' section describes as its conclusion.",
+      "chosen_heading": "Mishna Proof Attempt",
+      "current_heading": "Mishna Proof Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Abaye's Objection",
+      "Six Sheep Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection about the Mishna discussing a case where animals are available and the baraita being merely a le'chatchila requirement, which matches precisely the prose under 'Abaye's Objection'.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Abaye's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Six Sheep Rule",
+    "candidates": [
+      "Six Sheep Rule",
+      "Reserve Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the citation of the mishna about six inspected lambs and the Gemara's initial clarifying question about circumstances \u2014 are introduced and discussed together in the 'Six Sheep Rule' prose, which covers exactly this mishna and the Gemara's opening analysis of it, before the fuller rejection/reinterpretation discussed under 'Reserve Interpretation'.",
+      "chosen_heading": "Six Sheep Rule",
+      "current_heading": "Six Sheep Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Reserve Interpretation",
+    "candidates": [
+      "Reserve Interpretation",
+      "Ben Bag Bag Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's conclusion that the Mishna discusses a shortage case and therefore daily offerings take priority \u2014 exactly the reasoning discussed in the 'Reserve Interpretation' prose before the Gemara rejects this reading.",
+      "chosen_heading": "Reserve Interpretation",
+      "current_heading": "Reserve Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Ben Bag Bag Requirement",
+    "candidates": [
+      "Ben Bag Bag Requirement",
+      "Ravina Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Gemara's reinterpretation of the Mishna as referring to six inspected tamid lambs, Ben Bag Bag's baraita deriving the four-day inspection requirement, and the gezerah shavah conclusion \u2014 are precisely the content described in the 'Ben Bag Bag Requirement' prose section.",
+      "chosen_heading": "Ben Bag Bag Requirement",
+      "current_heading": "Ben Bag Bag Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Ravina Challenge",
+    "candidates": [
+      "Ravina Challenge",
+      "Mnemonic Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All four items form one continuous exchange \u2014 Ravina's challenge about seven vs. six, Rav Ashi's counter about eight, the deflection about 'after sacrificing,' and the final mnemonic resolution \u2014 and while item 4's mnemonic answer matches heading 1's prose closely, heading 0's prose already explicitly describes this entire chain including the mnemonic resolution, so the current placement captures the full unit and no clear structural seam justifies a split.",
+      "chosen_heading": "Ravina Challenge",
+      "current_heading": "Ravina Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Mnemonic Resolution",
+    "candidates": [
+      "Mnemonic Resolution",
+      "Rotation System",
+      "Afternoon Tamid Question",
+      "Shimon Mezid Distinction",
+      "Distinction Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the precise language of the Mishna ('kedei le-Shabbat' rather than 'le-Shabbat') as proof that the reference to Shabbat is a mnemonic rather than a literal prescription, which directly corresponds to the 'Mnemonic Resolution' section's prose about this exact linguistic inference.",
+      "chosen_heading": "Mnemonic Resolution",
+      "current_heading": "Mnemonic Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Distinction Basis",
+    "candidates": [
+      "Rotation System",
+      "Afternoon Tamid Question",
+      "Shimon Mezid Distinction",
+      "Distinction Basis",
+      "Ketores Different"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's direct examination of the Mishna's ruling about the afternoon tamid \u2014 item 1 raises the inauguration question and item 2 resolves it with 'chaserot michaserah,' which is precisely what candidate 1 ('Afternoon Tamid Question') describes as its topic.",
+      "chosen_heading": "Afternoon Tamid Question",
+      "current_heading": "Distinction Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Ketores Different",
+    "candidates": [
+      "Distinction Basis",
+      "Ketores Different",
+      "Rava Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the baraita about 'sheni bein ha'arbayim velo rishon bein ha'arbayim' (items 2-3) and Rabbi Shimon's qualification about onus/shogeg vs. mezid (items 1 and 4), which together form the exact sequence described in the 'Distinction Basis' prose \u2014 the inauguration distinction followed by Rabbi Shimon's onus/mezid qualification \u2014 rather than the 'Ketores Different' section where it currently sits.",
+      "chosen_heading": "Distinction Basis",
+      "current_heading": "Ketores Different",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rava Interpretation",
+    "candidates": [
+      "Rava Interpretation",
+      "Ketores Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's clarification that negligent priests should not sacrifice but other priests may, which is exactly what the 'Rava Interpretation' prose describes.",
+      "chosen_heading": "Rava Interpretation",
+      "current_heading": "Rava Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Ketores Exemption",
+    "candidates": [
+      "Ketores Exemption",
+      "Tamid Needs Protection",
+      "Full Ketores Amount",
+      "Ketores-Menorah Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the reason why the *ktoret* is exempt from the forfeiture rule \u2014 its rarity, wealth-bringing nature, and consequent dearness to the priests \u2014 which is precisely what the 'Ketores Exemption' prose explains.",
+      "chosen_heading": "Ketores Exemption",
+      "current_heading": "Ketores Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Ketores-Menorah Link",
+    "candidates": [
+      "Tamid Needs Protection",
+      "Full Ketores Amount",
+      "Ketores-Menorah Link",
+      "Parallel to Tamid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the tannaitic dispute about which ketores inaugurates the mizbach hazahav, Abaye's support for the afternoon view, and his proof from the menorah lighting cycle \u2014 are precisely the content described in the 'Ketores-Menorah Link' prose, which explicitly covers the braita challenge, the tannaitic dispute resolution, Abaye's position, and the baboker baboker verse with the menorah argument.",
+      "chosen_heading": "Ketores-Menorah Link",
+      "current_heading": "Ketores-Menorah Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Parallel to Tamid",
+    "candidates": [
+      "Parallel to Tamid",
+      "Mizbeach Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation that the golden altar's inauguration follows the morning-first model of the mizbeach ha'olah/tamid shel shachar, which is exactly what the 'Parallel to Tamid' prose section describes.",
+      "chosen_heading": "Parallel to Tamid",
+      "current_heading": "Parallel to Tamid",
+      "moved": false
+    }
+  }
+]

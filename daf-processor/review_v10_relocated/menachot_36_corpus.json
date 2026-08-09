@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Knotting Broken Straps",
+    "candidates": [
+      "Knotting Broken Straps",
+      "Perfect Binding Required",
+      "Sewing Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the scene of Abaye's broken strap and Rav Yosef's response about perfect binding, but the current placement under 'Knotting Broken Straps' is the correct home since that heading's prose explicitly describes this exact narrative (Abaye sitting before Rav Yosef, the broken retzuah, and the question of knotting), while 'Perfect Binding Required' is a separate prose section elaborating on Rav Yosef's answer \u2014 yet the single Talmudic passage contains both elements and should remain under the heading that introduces the full scene.",
+      "chosen_heading": "Knotting Broken Straps",
+      "current_heading": "Knotting Broken Straps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Sewing Alternative",
+    "candidates": [
+      "Perfect Binding Required",
+      "Sewing Alternative",
+      "Puk Chazi Dispute",
+      "Tzitzit vs. Tefillin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose discusses: Rav Acha son of Rav Yosef asking Rav Ashi about sewing the strap with stitching on the inside, which is the 'Sewing Alternative' section where it currently sits.",
+      "chosen_heading": "Sewing Alternative",
+      "current_heading": "Sewing Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Tzitzit vs. Tefillin",
+    "candidates": [
+      "Puk Chazi Dispute",
+      "Tzitzit vs. Tefillin",
+      "Definitions and Examples",
+      "Intrinsic Holiness",
+      "Tefillin Status Question",
+      "Shel Rosh and Shin",
+      "Gardumim Rejected",
+      "One Finger Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's statement about remnant straps and the Gemara's rejection via the tashmishei mitzvah/kedusha distinction, which is precisely what the 'Tzitzit vs. Tefillin' section's prose describes in detail.",
+      "chosen_heading": "Tzitzit vs. Tefillin",
+      "current_heading": "Tzitzit vs. Tefillin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "One Finger Measure",
+    "candidates": [
+      "Definitions and Examples",
+      "Intrinsic Holiness",
+      "Tefillin Status Question",
+      "Shel Rosh and Shin",
+      "Gardumim Rejected",
+      "One Finger Measure",
+      "Kafuf vs. Pashut",
+      "Two Interpretations",
+      "Practical Application",
+      "Shel Rosh Length",
+      "Strap Width",
+      "Practical Relevance",
+      "Rambam's Evolution",
+      "Cordova's Handbook",
+      "Rabbeinu Hai Evidence",
+      "Manuscript Variants",
+      "Geographic Traditions",
+      "Strap Placement Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage begins with the inference that tefillin straps have a minimum measure ('mi'klal de-it lehu shiura') and then gives Rami bar Chama/Reish Lakish's answer, which directly follows from the 'Gardumim Rejected' section's prose about the Gemara inferring a shiur exists and asking what it is \u2014 the current placement under 'One Finger Measure' skips over this inferential step that belongs with heading 4.",
+      "chosen_heading": "Gardumim Rejected",
+      "current_heading": "One Finger Measure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Strap Placement Methods",
+    "candidates": [
+      "Kafuf vs. Pashut",
+      "Two Interpretations",
+      "Practical Application",
+      "Shel Rosh Length",
+      "Strap Width",
+      "Practical Relevance",
+      "Rambam's Evolution",
+      "Cordova's Handbook",
+      "Rabbeinu Hai Evidence",
+      "Manuscript Variants",
+      "Geographic Traditions",
+      "Strap Placement Methods",
+      "Black Faces Out",
+      "Flipped Strap Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage describes how Rabba, Rav A\u1e25a bar Yaakov, and Mar brei d'Ravina each handled the placement of tefillin straps, which is precisely what the 'Strap Placement Methods' prose section discusses.",
+      "chosen_heading": "Strap Placement Methods",
+      "current_heading": "Strap Placement Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Flipped Strap Case",
+    "candidates": [
+      "Black Faces Out",
+      "Flipped Strap Case",
+      "Kesher Status",
+      "Rashi's Shem Hashem",
+      "Tosafot Challenge",
+      "Kedusha vs. Atzma",
+      "Shin Status",
+      "Bathroom Entry Question",
+      "God's Back Kesher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the kesher halacha l'Moshe mi'Sinai statement AND Rav Nachman's v'noyeihen l'var ruling AND the Rav Ashi incident, but candidate 0 ('Black Faces Out') is where this full passage belongs since it introduces the v'noyeihen l'var ruling \u2014 and candidate 1 ('Flipped Strap Case') covers only the incident while candidate 2 ('Kesher Status') covers only the kesher ruling, meaning the essay has split what is a single continuous Gemara passage across multiple headings; however, since the passage as a whole unit must go under ONE heading, candidate 0 best matches the primary ruling being transmitted (v'noyeihen l'var) with the incident as its illustration, while candidate 2's prose describes only the kesher statement without the incident.",
+      "chosen_heading": "Black Faces Out",
+      "current_heading": "Flipped Strap Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "God's Back Kesher",
+    "candidates": [
+      "Kesher Status",
+      "Rashi's Shem Hashem",
+      "Tosafot Challenge",
+      "Kedusha vs. Atzma",
+      "Shin Status",
+      "Bathroom Entry Question",
+      "God's Back Kesher",
+      "Israel Above",
+      "God's Tefillin",
+      "Kesher Above",
+      "Shin Variants (II)",
+      "Geometric Relationship",
+      "Symbolic Meanings",
+      "Klapei Panim",
+      "Israel in Front"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains the baraita about 'v'ra'u kol amei ha'aretz' being the tefillin shel rosh (with the Shin/Shem Hashem connection) AND the teaching about God showing Moses the kesher shel tefillin \u2014 exactly the two textual sources that candidate 4 ('Shin Status') explicitly discusses in its prose.",
+      "chosen_heading": "Shin Status",
+      "current_heading": "God's Back Kesher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Israel in Front",
+    "candidates": [
+      "Israel Above",
+      "God's Tefillin",
+      "Kesher Above",
+      "Shin Variants (II)",
+      "Geometric Relationship",
+      "Symbolic Meanings",
+      "Klapei Panim",
+      "Israel in Front",
+      "Timing Window",
+      "Abaye and Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the 'kesher above' and 'klapei panim' requirements together as a single Rav Yehuda statement, and candidate 2 ('Kesher Above') explicitly discusses both positional requirements and their symbolic rationale (Yisrael l'ma'alah and the kesher symbolism), making it the best unified home for the complete quote.",
+      "chosen_heading": "Kesher Above",
+      "current_heading": "Israel in Front",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Abaye and Rava",
+    "candidates": [
+      "Timing Window",
+      "Abaye and Rava",
+      "Sach Rule",
+      "Yochanan Letter",
+      "Nusach Difference",
+      "One or Two Blessings",
+      "Ashkenazi Position",
+      "Sefardi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the question of when to make the blessing on tefillin (mishat hanachatan) and the resolution by Abaye and Rava (from placement until binding), which together constitute exactly what heading 0 'Timing Window' describes in its prose \u2014 the question, the challenge from 'over la'asiyatan,' and the resolution all belong under that single heading.",
+      "chosen_heading": "Timing Window",
+      "current_heading": "Abaye and Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Sefardi Position",
+    "candidates": [
+      "Sach Rule",
+      "Yochanan Letter",
+      "Nusach Difference",
+      "One or Two Blessings",
+      "Ashkenazi Position",
+      "Sefardi Position",
+      "Action Dimension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's statement about talking between the two tefillin requiring a new blessing, which is precisely what heading 0 ('Sach Rule') introduces and discusses as its opening premise.",
+      "chosen_heading": "Sach Rule",
+      "current_heading": "Sefardi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Action Dimension",
+    "candidates": [
+      "Sefardi Position",
+      "Action Dimension",
+      "Speaking Aveirah",
+      "War Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss whether one recites one or two blessings when donning tefillin depending on whether one spoke between them \u2014 the precise topic of the Sefardi Position prose, which explains that one beracha suffices unless there was a hefsek, and that when a Sefardi talked between the two he recites al mitzvat tefillin on the shel rosh.",
+      "chosen_heading": "Sefardi Position",
+      "current_heading": "Action Dimension",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "War Exception",
+    "candidates": [
+      "Speaking Aveirah",
+      "War Exception",
+      "Problem Analysis",
+      "Putting On Order",
+      "Taking Off Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita text itself introduces the transgression of speaking between the two tefillin \u2014 matching heading 0's prose about 'sach bein tefillah l'tefillah aveirah hi b'yado' \u2014 while heading 1 ('War Exception') covers the corollary about returning from battle, which is the essay author's own discussion of the implication rather than the baraita text itself.",
+      "chosen_heading": "Speaking Aveirah",
+      "current_heading": "War Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168
+    ],
+    "current_heading": "Taking Off Order",
+    "candidates": [
+      "Problem Analysis",
+      "Putting On Order",
+      "Taking Off Order",
+      "Placement Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita and Gemara discussion about the order of donning and removing tefillin, with item 1 covering the putting-on order and item 2 covering the taking-off order \u2014 exactly matching the 'Taking Off Order' section's prose which discusses both the reversal of order and Rav Huna's derivation from 'kol zman she'bein einecha yehu shtayim.'",
+      "chosen_heading": "Taking Off Order",
+      "current_heading": "Taking Off Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      174,
+      175
+    ],
+    "current_heading": "Placement Timing",
+    "candidates": [
+      "Placement Timing",
+      "Veyayu Plural",
+      "Building Dependency",
+      "Early Placement",
+      "Touching When Light",
+      "Sunset Removal",
+      "Night Prohibition",
+      "Market Clearing",
+      "Evening Prayer Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Early Placement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about donning tefillin early before daybreak out of fear of loss, which is precisely what heading 'Early Placement' (index 3) describes.",
+      "second_heading": "Sunset Removal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses until when one wears tefillin (until sunset, Rabbi Yaakov's opinion, and the Rabbis' concession), which matches heading 'Sunset Removal' (index 5) exactly.",
+      "current_heading": "Placement Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      200,
+      201
+    ],
+    "current_heading": "Evening Prayer Dispute",
+    "candidates": [
+      "Veyayu Plural",
+      "Building Dependency",
+      "Early Placement",
+      "Touching When Light",
+      "Sunset Removal",
+      "Night Prohibition",
+      "Market Clearing",
+      "Evening Prayer Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Na\u1e25man's ruling about Rabbi Ya'akov's opinion and the practice of Rav \u1e24isda and Rabba bar Rav Huna praying Ma'ariv with tefillin, which is precisely what the 'Evening Prayer Dispute' prose describes.",
+      "chosen_heading": "Evening Prayer Dispute",
+      "current_heading": "Evening Prayer Dispute",
+      "moved": false
+    }
+  }
+]

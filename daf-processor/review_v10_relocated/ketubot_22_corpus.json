@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Three Judges, Challenge",
+    "candidates": [
+      "Peh She'Asar Intro",
+      "Three Judges, Challenge",
+      "Challenge Types",
+      "Giluy Milta Doctrine",
+      "Thief vs. Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the teaching of Rabbi Abba/Rav Huna/Rav about three judges convening to ratify a document and the distinction between before and after signing when a challenge arises, which is precisely what the 'Three Judges, Challenge' section prose describes.",
+      "chosen_heading": "Three Judges, Challenge",
+      "current_heading": "Three Judges, Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Thief vs. Repentance",
+    "candidates": [
+      "Challenge Types",
+      "Giluy Milta Doctrine",
+      "Thief vs. Repentance",
+      "Before vs. After Signing",
+      "Declaration of Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's question about what type of challenge is being discussed (gazlanusa vs. pgam mishpacha), which is precisely the content described in the 'Challenge Types' prose \u2014 the current placement under 'Thief vs. Repentance' captures only the resolution, not the initial question-and-elaboration that these items present.",
+      "chosen_heading": "Challenge Types",
+      "current_heading": "Thief vs. Repentance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Declaration of Three",
+    "candidates": [
+      "Before vs. After Signing",
+      "Declaration of Three",
+      "Official Authority",
+      "Chatzuf Beit Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Zeira's ruling about three judges who convened to ratify a document and one died, requiring the surviving two to write 'we were a session of three and one is no longer present' \u2014 exactly what the 'Declaration of Three' prose discusses.",
+      "chosen_heading": "Declaration of Three",
+      "current_heading": "Declaration of Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Chatzuf Beit Din",
+    "candidates": [
+      "Official Authority",
+      "Chatzuf Beit Din",
+      "Technical Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Na\u1e25man bar Yitz\u1e25ak's formulation about writing 'before us, the court' and the challenge about an impudent two-judge court per Shmuel, which is precisely what the 'Chatzuf Beit Din' section's prose describes.",
+      "chosen_heading": "Chatzuf Beit Din",
+      "current_heading": "Chatzuf Beit Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Technical Language",
+    "candidates": [
+      "Technical Language",
+      "Personal Statements",
+      "Woman's Marital Status",
+      "Captive Woman Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the technical language in the document ratification formula (beis dina de-Rabbana Ashi, ve-amar lana Rabbana Ashi) that the 'Technical Language' section's prose explicitly analyzes.",
+      "chosen_heading": "Technical Language",
+      "current_heading": "Technical Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Captive Woman Case",
+    "candidates": [
+      "Personal Statements",
+      "Woman's Marital Status",
+      "Captive Woman Case",
+      "Source of Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah covering both cases (married/divorced woman and captive woman), and the 'Personal Statements' heading's prose explicitly introduces this mishnah as presenting 'two cases in which a woman's own statements determine whether she is permitted or forbidden,' making it the natural home for the complete mishnah text rather than splitting it under the individual case headings.",
+      "chosen_heading": "Personal Statements",
+      "current_heading": "Captive Woman Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Source of Principle",
+    "candidates": [
+      "Captive Woman Case",
+      "Source of Principle",
+      "Sevara Over Scripture",
+      "Biblical Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Asi's derivation of the 'peh she-asar' principle from the verse about the father giving his daughter in marriage, which is precisely what the 'Source of Principle' section's prose discusses.",
+      "chosen_heading": "Source of Principle",
+      "current_heading": "Source of Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Biblical Derivation",
+    "candidates": [
+      "Sevara Over Scripture",
+      "Biblical Derivation",
+      "Marriage Retraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in candidate 1's prose: the gemara's question about why 'hazeh' is needed and Rabbi Yona's baraita teaching that 'hazeh' excludes the yavam from motzi shem ra laws.",
+      "chosen_heading": "Biblical Derivation",
+      "current_heading": "Biblical Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Marriage Retraction",
+    "candidates": [
+      "Marriage Retraction",
+      "Forbidden Status",
+      "Amtla Explanation",
+      "Woman's Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita about a woman retracting her married status claim and the amatla requirement, which directly matches the 'Marriage Retraction' section's prose describing exactly this baraita and its ruling.",
+      "chosen_heading": "Marriage Retraction",
+      "current_heading": "Marriage Retraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Woman's Strategy",
+    "candidates": [
+      "Forbidden Status",
+      "Amtla Explanation",
+      "Woman's Strategy",
+      "Niddah Retraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the concrete historical illustration (the beautiful woman) that confirms the amatla rule, and the essay's 'Amtla Explanation' prose explicitly states the baraisa rule is 'immediately followed by a concrete historical illustration' \u2014 making this passage belong under that heading rather than under 'Woman's Strategy' which already describes this very story in its own prose, suggesting the passage was misplaced there.",
+      "chosen_heading": "Amtla Explanation",
+      "current_heading": "Woman's Strategy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Niddah Retraction",
+    "candidates": [
+      "Woman's Strategy",
+      "Niddah Retraction",
+      "Death Testimony Rule",
+      "Divorce Testimony Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete Shmuel-Rav exchange about a woman retracting her niddah declaration, which is precisely what the 'Niddah Retraction' prose section describes in detail.",
+      "chosen_heading": "Niddah Retraction",
+      "current_heading": "Niddah Retraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Divorce Testimony Rule",
+    "candidates": [
+      "Death Testimony Rule",
+      "Divorce Testimony Rule",
+      "Marrying Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the death testimony case and the divorce testimony case as a single unified teaching, and the Death Testimony Rule prose (candidate 0) accurately describes this baraita including both the tanna kamma's ruling (lo tetzei) and Rabbi Mena\u1e25em bar Yosei's position with his timing clarification, whereas candidate 1's prose misattributes the divorce case to Rabbi Mena\u1e25em bar Yosei alone and inverts the tanna kamma's ruling.",
+      "chosen_heading": "Death Testimony Rule",
+      "current_heading": "Divorce Testimony Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Marrying Witness",
+    "candidates": [
+      "Divorce Testimony Rule",
+      "Marrying Witness",
+      "Beit Din Authority",
+      "One vs. One Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the asham talui problem and Rav Sheshet's resolution about marrying one's own witness, which is precisely what the 'Marrying Witness' section's prose describes.",
+      "chosen_heading": "Marrying Witness",
+      "current_heading": "Marrying Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "One vs. One Rule",
+    "candidates": [
+      "Beit Din Authority",
+      "One vs. One Rule",
+      "Two vs. Two Analysis",
+      "Death vs. Divorce",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items present Rabbi Yo\u1e25anan's ruling and Abaye's reinterpretation of it as a one-versus-one case (with Ulla's rule, Rav Asi's principle, and the distinction between death and divorce testimony), which matches precisely the 'One vs. One Rule' prose describing targema be-eid echad and its consequences.",
+      "chosen_heading": "One vs. One Rule",
+      "current_heading": "One vs. One Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Two vs. Two Analysis",
+      "Death vs. Divorce",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Death vs. Divorce",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's explanation of the death/divorce distinction (*misah einah yecholah le-hachchishot* vs. *gerushin yecholah le-hachchishot*), which is precisely what the 'Death vs. Divorce' prose section discusses.",
+      "second_heading": "Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of whether the woman would be so brazen (*chatzuf*) and resolves it via Rav Hamnuna's ruling and the *me-aza u-me-aza* answer, which is exactly what the 'Conclusion' prose section describes.",
+      "current_heading": "Conclusion",
+      "moved": true
+    }
+  }
+]

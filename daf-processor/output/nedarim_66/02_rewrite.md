@@ -90,11 +90,9 @@ It is important to appreciate the conceptual structure underlying all of this. I
 
 ### Linked vs. Independent
 
-The *mishna* then addresses the case where nedarim are fully independent. If someone says *konam la-zeh, konam la-zeh, konam la-zeh* — using the technical word *konam* (or *korban*, or *neder*) anew for each individual — he has created separate, self-contained nedarim. In this case, *tzrichim petach l'chol echad v'echad* — a distinct *petach* is required for each one individually, and releasing one has no effect on the others.
+The *mishna* addresses the case where nedarim are fully independent. If someone uses the operative word — *konam*, *korban*, or *neder* — anew for each individual, he has created separate, self-contained nedarim: one for David, one for Dov, one for Yosi, each standing on its own. In that case, *tzrichim petach l'chol echad v'echad* — a distinct *petach* is required for each one individually.
 
-The *gemara* notes that the *mishna*'s formulation, which uses the word *konam* to mark the case of independence, implies that *anything less* than repeating the operative word renders the nedarim linked. This raises the question: does the *vav ha-hibbur* create the link, or is even *la-zeh, la-zeh, la-zeh* without a *vav* sufficient to create the chain? The *gemara* attributes the view in the *mishna* to Rabbi Shimon, based on a parallel principle in the laws of *shevu'ah*.
-
----
+The *mishna* then turns to a new case: someone declares *konam yayin she'ani to'em shehayayin ra leme'ai* — "wine is *konam* to me because wine is bad for my digestion." The Sages respond: *vehalo hameyushan yafeh leme'ai* — "but is not aged wine actually good for digestion?" With that, the *mishna* indicates he is permitted —
 
 ## Wine & Onion Cases
 

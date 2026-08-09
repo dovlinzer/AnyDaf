@@ -48,7 +48,7 @@
           "timestamp": "03:14"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -130,7 +130,7 @@
           "timestamp": "16:59"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -830,5 +830,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 28
+  "amud_b_sefaria_index": 28,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "24:19",
+  "amud_b_micro_title": "Partial Dam Chayav",
+  "shiur_start_daf": 109,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,562 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Court Scribes",
+    "candidates": [
+      "Semicircular Seating",
+      "Court Scribes",
+      "Three Rows of Scholars",
+      "Adding Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage is the full mishnah that covers both the semicircular seating arrangement AND the scribes, but since it begins with the semicircular arrangement description and candidate 0's prose explicitly introduces this mishnah as 'the mishnah that opens our discussion' covering the physical arrangement, while candidate 1's prose treats the scribes portion as a continuation ('the mishnah continues'), the full mishnah text is best placed under the opening heading 'Semicircular Seating' rather than split mid-passage under 'Court Scribes'.",
+      "chosen_heading": "Semicircular Seating",
+      "current_heading": "Court Scribes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Adding Judges",
+    "candidates": [
+      "Three Rows of Scholars",
+      "Adding Judges",
+      "Shorerech as Navel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the mechanics of ordaining additional judges from the rows and the rotation process, which is precisely what the 'Adding Judges' section prose discusses.",
+      "chosen_heading": "Adding Judges",
+      "current_heading": "Adding Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Shorerech as Navel",
+    "candidates": [
+      "Shorerech as Navel",
+      "Aggan & Hasahar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question 'from where are these matters derived?' and Rabbi A\u1e25a bar \u1e24anina's initial citation of the verse, which is exactly what the prose under 'Shorerech as Navel' discusses \u2014 the scriptural derivation question and the citation of the Shir Hashirim verse.",
+      "chosen_heading": "Shorerech as Navel",
+      "current_heading": "Shorerech as Navel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Aggan & Hasahar",
+    "candidates": [
+      "Aggan & Hasahar",
+      "Mazeg Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses 'shorekh' (navel/Sanhedrin), 'aggan' (protection), and 'hasahar' (crescent moon shape), all of which are directly addressed in the 'Aggan & Hasahar' section's prose.",
+      "chosen_heading": "Aggan & Hasahar",
+      "current_heading": "Aggan & Hasahar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Mazeg Requirement",
+    "candidates": [
+      "Mazeg Requirement",
+      "Wheat Mound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mazeg (mixed wine) requirement and the rule about a judge leaving only when 23 members remain, which is exactly what the 'Mazeg Requirement' section's prose describes.",
+      "chosen_heading": "Mazeg Requirement",
+      "current_heading": "Mazeg Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Wheat Mound",
+    "candidates": [
+      "Wheat Mound",
+      "Rose Hedge",
+      "Niddah & Yichud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the wheat mound interpretation AND the rose hedge interpretation together in one Talmudic unit, and heading 0's prose explicitly discusses the wheat mound verse while also leading into the rose hedge \u2014 the current placement captures the complete textual unit.",
+      "chosen_heading": "Wheat Mound",
+      "current_heading": "Wheat Mound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Niddah & Yichud",
+    "candidates": [
+      "Rose Hedge",
+      "Niddah & Yichud",
+      "Pomegranate Verse",
+      "Fragrant Clothes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Kahana/heretic exchange about niddah and yichud, which is precisely what the 'Niddah & Yichud' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Niddah & Yichud",
+      "current_heading": "Niddah & Yichud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Fragrant Clothes",
+    "candidates": [
+      "Pomegranate Verse",
+      "Fragrant Clothes",
+      "Rabbi Zeira & Thugs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the Reish Lakish pomegranate teaching AND the Rabbi Zeira garments teaching, and candidate 0 ('Pomegranate Verse') covers Reish Lakish's statement while the current placement under 'Fragrant Clothes' only covers Rabbi Zeira's statement \u2014 since both teachings appear together in the single quoted item, it belongs under the heading that matches the first/primary teaching, which is the pomegranate verse under candidate 0.",
+      "chosen_heading": "Pomegranate Verse",
+      "current_heading": "Fragrant Clothes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rabbi Zeira & Thugs",
+    "candidates": [
+      "Fragrant Clothes",
+      "Rabbi Zeira & Thugs",
+      "Advancement Process",
+      "Tail vs Head"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the story of Rabbi Zeira and the neighborhood thugs (biryonei), which is precisely what the prose under heading 1 'Rabbi Zeira & Thugs' discusses in detail.",
+      "chosen_heading": "Rabbi Zeira & Thugs",
+      "current_heading": "Rabbi Zeira & Thugs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Tail vs Head",
+    "candidates": [
+      "Advancement Process",
+      "Tail vs Head",
+      "Bringing Witnesses",
+      "Direct Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both Abaye's derivation about all scholars moving (briefly) and primarily the objection about being moved from head to tail and its resolution via the 'tail among lions' principle, which matches precisely the 'Tail vs Head' section's prose.",
+      "chosen_heading": "Tail vs Head",
+      "current_heading": "Tail vs Head",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Direct Evidence",
+    "candidates": [
+      "Bringing Witnesses",
+      "Direct Evidence",
+      "Civil vs Capital"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah passage describes the procedure of bringing witnesses in and warning them, which matches heading 0 'Bringing Witnesses' whose prose explicitly discusses this procedural introduction, while heading 1 'Direct Evidence' covers the specific content of the warnings (a later analytical discussion of what the mishnah says).",
+      "chosen_heading": "Bringing Witnesses",
+      "current_heading": "Direct Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Civil vs Capital",
+    "candidates": [
+      "Direct Evidence",
+      "Civil vs Capital",
+      "Cain & Abel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between capital and monetary law, matching exactly the 'Civil vs Capital' section's prose about havu yodim shelo k'dinei mamonot dinei nefashot.",
+      "chosen_heading": "Civil vs Capital",
+      "current_heading": "Civil vs Capital",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Cain & Abel",
+    "candidates": [
+      "Cain & Abel",
+      "Single Human Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Cain killing his brother and the plural 'demei' with its two interpretations, which is exactly what the 'Cain & Abel' section's prose describes.",
+      "chosen_heading": "Cain & Abel",
+      "current_heading": "Cain & Abel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Single Human Value",
+    "candidates": [
+      "Single Human Value",
+      "Soul = World",
+      "Creation Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishnah's lesson about Adam being created alone and the consequence that destroying/sustaining one soul equals destroying/sustaining an entire world, which is precisely what the 'Single Human Value' section's prose discusses.",
+      "chosen_heading": "Single Human Value",
+      "current_heading": "Single Human Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Creation Reasons",
+    "candidates": [
+      "Soul = World",
+      "Creation Reasons",
+      "Personal Responsibility",
+      "Fear of Involvement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the mishnah's enumeration of reasons for creating Adam alone \u2014 peace among people, refuting heretics, and God's greatness via the coin-seal analogy \u2014 all of which are explicitly discussed in the 'Creation Reasons' prose.",
+      "chosen_heading": "Creation Reasons",
+      "current_heading": "Creation Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Fear of Involvement",
+    "candidates": [
+      "Personal Responsibility",
+      "Fear of Involvement",
+      "Rejoicing in Justice",
+      "Assumption Defined",
+      "Sword & Blood",
+      "Shimon ben Shatach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the court's warning to witnesses about the fear of involvement \u2014 'what do we want with this trouble?' and 'why be responsible for this person's blood?' \u2014 which is precisely what candidate 1 ('Fear of Involvement') discusses in its prose.",
+      "chosen_heading": "Fear of Involvement",
+      "current_heading": "Fear of Involvement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Shimon ben Shatach",
+    "candidates": [
+      "Rejoicing in Justice",
+      "Assumption Defined",
+      "Sword & Blood",
+      "Shimon ben Shatach",
+      "Divine Punishment",
+      "Four Death Penalties",
+      "Sanhedrin Cessation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sword & Blood",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the baraita defining circumstantial testimony (sword, blood, convulsing body = inadmissible), which matches 'Sword & Blood' prose exactly.",
+      "second_heading": "Shimon ben Shatach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Shimon ben Shatach's first-person account, which matches 'Shimon ben Shatach' prose exactly \u2014 including the confrontation, the two-witnesses principle, and the divine punishment conclusion.",
+      "current_heading": "Shimon ben Shatach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Sanhedrin Cessation",
+    "candidates": [
+      "Divine Punishment",
+      "Four Death Penalties",
+      "Sanhedrin Cessation",
+      "Special Cases",
+      "Natural Death Means"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's statement and the school of Chizkiyah's teaching that the four death penalties were not annulled after the Temple's destruction, which is precisely what candidate 1 ('Four Death Penalties') introduces in its prose.",
+      "chosen_heading": "Four Death Penalties",
+      "current_heading": "Sanhedrin Cessation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Natural Death Means",
+    "candidates": [
+      "Special Cases",
+      "Natural Death Means",
+      "Multiple Penalties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly enumerates how each of the four death penalties is administered through natural agency, which is exactly what the 'Natural Death Means' section's prose describes.",
+      "chosen_heading": "Natural Death Means",
+      "current_heading": "Natural Death Means",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Multiple Penalties",
+    "candidates": [
+      "Multiple Penalties",
+      "Capital Restriction",
+      "Camel Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the murderer was killed by snakebite (sereifah) rather than harigah, explaining the two death penalties principle \u2014 exactly what the 'Multiple Penalties' section's prose describes.",
+      "chosen_heading": "Multiple Penalties",
+      "current_heading": "Multiple Penalties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Camel Example",
+    "candidates": [
+      "Capital Restriction",
+      "Camel Example",
+      "Evidence Consistency",
+      "Secondhand Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 inferring that umdana is valid in monetary law from the mishnah's restriction to capital cases, and identifying this with Rabbi A\u1e25a's view \u2014 is precisely what heading 0 ('Capital Restriction') describes, while heading 1 ('Camel Example') focuses only on the camel illustration itself, splitting what is a single integrated Talmudic unit.",
+      "chosen_heading": "Capital Restriction",
+      "current_heading": "Camel Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Secondhand Testimony",
+    "candidates": [
+      "Evidence Consistency",
+      "Secondhand Testimony",
+      "Kayin's Strikes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the challenge-and-resolution regarding ed mipi ed (secondhand testimony) being invalid in monetary law \u2014 this is the challenge raised against the inference, which belongs under 'Evidence Consistency' where the prose explicitly describes this very challenge about ed mipi ed implying validity in civil cases being untenable.",
+      "chosen_heading": "Evidence Consistency",
+      "current_heading": "Secondhand Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Kayin's Strikes",
+    "candidates": [
+      "Secondhand Testimony",
+      "Kayin's Strikes",
+      "Blood & Descendants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Cain inflicting multiple wounds on Abel because he did not know where the soul departs, which matches precisely the prose in candidate 1 about Kayin's strikes and the plural 'bloods' reflecting multiple wounds.",
+      "chosen_heading": "Kayin's Strikes",
+      "current_heading": "Kayin's Strikes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Blood & Descendants",
+    "candidates": [
+      "Blood & Descendants",
+      "Earth's Mouth",
+      "Half Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's teaching about the earth's mouth and Chizkiyah's challenge with the response, and the current heading's prose already summarizes the full teaching including the proof-text, while heading 1 only covers the challenge/response portion \u2014 the entire passage fits as a unit under heading 0 which introduces the complete discussion.",
+      "chosen_heading": "Blood & Descendants",
+      "current_heading": "Blood & Descendants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Half Atonement",
+    "candidates": [
+      "Earth's Mouth",
+      "Half Atonement",
+      "Three Attone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses exile atoning for half a sin using Cain's punishment as proof, which matches exactly the 'Half Atonement' section's prose about galut mechaper avon mechtza and the Kayin example.",
+      "chosen_heading": "Half Atonement",
+      "current_heading": "Half Atonement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Three Attone",
+    "candidates": [
+      "Three Attone",
+      "Complete Atonement",
+      "Shealtiel Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Yehuda's teaching that exile atones for three things (sword, famine, pestilence), which is precisely what the 'Three Attone' section's prose describes.",
+      "chosen_heading": "Three Attone",
+      "current_heading": "Three Attone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Shealtiel Birth",
+    "candidates": [
+      "Complete Atonement",
+      "Shealtiel Birth",
+      "Zerubbabel",
+      "Name Identities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya about exile atoning for Jeconiah's sin, covering the proof-text, the names Assir/Shealtiel, and Zerubbabel \u2014 all of which the 'Complete Atonement' prose directly introduces as Rabbi Yochanan's teaching about galut mechaperet al ha-kol.",
+      "chosen_heading": "Complete Atonement",
+      "current_heading": "Shealtiel Birth",
+      "moved": true
+    }
+  }
+]

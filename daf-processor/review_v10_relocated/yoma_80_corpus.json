@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Yom Kippur Precedent",
+    "candidates": [
+      "Tanya: Shiurim Kezayis",
+      "Yom Kippur Precedent",
+      "Tumat Ochalin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the Yom Kippur proof \u2014 item 1 introduces the baraita's invocation of Yom Kippur as precedent and its shiur of kotevet, and item 2 is the Gemara's question and answer about why Yom Kippur is needed as proof rather than relying solely on tumat ochalin \u2014 all of which matches exactly the 'Yom Kippur Precedent' prose.",
+      "chosen_heading": "Yom Kippur Precedent",
+      "current_heading": "Yom Kippur Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Tumat Ochalin",
+    "candidates": [
+      "Tumat Ochalin",
+      "Egg Size Debates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly covers the derivation of egg-bulk as the measure for tumat ochalin from the verse, including the rejections of kid and ben pekua, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Tumat Ochalin",
+      "current_heading": "Tumat Ochalin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Egg Size Debates",
+    "candidates": [
+      "Egg Size Debates",
+      "Abbahu: Beit Hablia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bar yokhani egg objection, the tafasta meruba lo tafasta principle, and the counter-question about a very small bird's egg \u2014 all of which are precisely what the 'Egg Size Debates' prose describes.",
+      "chosen_heading": "Egg Size Debates",
+      "current_heading": "Egg Size Debates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Abbahu: Beit Hablia",
+    "candidates": [
+      "Abbahu: Beit Hablia",
+      "Cheilev Recording",
+      "Future Courts Shift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Abbahu's derivation linking 'food eaten in one gulp' to the esophagus capacity of a hen's egg, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Abbahu: Beit Hablia",
+      "current_heading": "Abbahu: Beit Hablia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Future Courts Shift",
+    "candidates": [
+      "Cheilev Recording",
+      "Future Courts Shift",
+      "Grandfathering Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Elazar's ruling about recording the measure of cheilev eaten, which matches heading 0's prose that introduces this statement and explains why cheilev specifically is the focus \u2014 whereas heading 1 covers the reasoning clause ('lest another court come') and heading 2 covers the subsequent Talmudic challenge.",
+      "chosen_heading": "Cheilev Recording",
+      "current_heading": "Future Courts Shift",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Grandfathering Issue",
+    "candidates": [
+      "Future Courts Shift",
+      "Grandfathering Issue",
+      "Larger Shiur Relief"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge to the 'smaller shiur' reading via the baraita about shav miyediato/lo shav miyediato, which is precisely what candidate 1 ('Grandfathering Issue') describes in its prose.",
+      "chosen_heading": "Grandfathering Issue",
+      "current_heading": "Grandfathering Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Larger Shiur Relief",
+    "candidates": [
+      "Larger Shiur Relief",
+      "Yochanan Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the Gemara's discussion about whether 'yarbe bishiurin' means a larger or smaller shiur and the korban implications, which is precisely the topic of the 'Larger Shiur Relief' prose section.",
+      "chosen_heading": "Larger Shiur Relief",
+      "current_heading": "Larger Shiur Relief",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Yochanan Statement",
+    "candidates": [
+      "Yochanan Statement",
+      "Othniel Tradition",
+      "Not New Creation",
+      "One Cheek Full",
+      "Baraita Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yochanan's statement about shiurin shel onshin and the supporting baraita including the Othniel/Yavetz dissent and the 'forgot and reestablished' resolution \u2014 are all explicitly covered and discussed together in the prose of heading 0 ('Yochanan Statement'), which is where they currently sit.",
+      "chosen_heading": "Yochanan Statement",
+      "current_heading": "Yochanan Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Baraita Positions",
+    "candidates": [
+      "Othniel Tradition",
+      "Not New Creation",
+      "One Cheek Full",
+      "Baraita Positions",
+      "Hoshaia Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion of the shiur for drinking on Yom Kippur \u2014 Shmuel's clarification of melo lugmav, the baraita's competing positions, and the resolution distinguishing melo lugmav from k'melo lugmav \u2014 which matches the 'One Cheek Full' section's prose exactly, while the 'Baraita Positions' section's prose actually already describes the baraita content (items 2-3) but the entire passage including item 1 belongs under the heading that introduces the core sugya of melo lugmav.",
+      "chosen_heading": "One Cheek Full",
+      "current_heading": "Baraita Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Hoshaia Challenge",
+    "candidates": [
+      "Baraita Positions",
+      "Hoshaia Challenge",
+      "Zeira Presses",
+      "Abaye: Threshold",
+      "Og Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Hoshaia Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Hoshaya's objection about Beit Shammai/Beit Hillel reversal and its resolution via Og Melech HaBashan, which matches the 'Hoshaia Challenge' prose exactly.",
+      "second_heading": "Zeira Presses",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Zeira's objection about why eating has a universal standard while drinking is personal, which matches the 'Zeira Presses' prose exactly.",
+      "current_heading": "Hoshaia Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Og Example",
+    "candidates": [
+      "Zeira Presses",
+      "Abaye: Threshold",
+      "Og Example",
+      "Food Type Matters",
+      "Final Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Zeira's objection about Og and Abaye's threshold response distinguishing 'tuva' for most people vs 'purta' for Og, which is precisely what the 'Og Example' section's prose describes.",
+      "chosen_heading": "Og Example",
+      "current_heading": "Og Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Final Threshold",
+    "candidates": [
+      "Food Type Matters",
+      "Final Threshold",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's objection about fatty meat vs. grape leaves and Abaye's response, which is precisely what heading 0 ('Food Type Matters') describes in its prose, while the current placement under 'Final Threshold' describes the analysis of Abaye's answer rather than serving as the home for the quoted text itself.",
+      "chosen_heading": "Food Type Matters",
+      "current_heading": "Final Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Final Threshold",
+      "Rava Challenge",
+      "Rabbinic Knowledge",
+      "Tamei Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's structural objection about the same time window applying to both kezayis and kotevet, followed by Abaye's response \u2014 exactly matching the 'Rava Challenge' section's prose about that same structural puzzle regarding the combination window for different shiurim.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Tamei Food",
+    "candidates": [
+      "Rabbinic Knowledge",
+      "Tamei Food",
+      "Rav Pappa Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's challenge about tumat geviyah and Rav Pappa's brief response, which is exactly what heading 1 ('Tamei Food') introduces \u2014 the current placement is correct, and heading 2 covers the Gemara's subsequent elaboration on Rav Pappa's answer.",
+      "chosen_heading": "Tamei Food",
+      "current_heading": "Tamei Food",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rav Pappa Answer",
+    "candidates": [
+      "Rav Pappa Answer",
+      "D'Oraita vs Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's challenge to Rav Pappa and his resolution (asmakhta b'alma), which is precisely what the 'Rav Pappa Answer' prose describes in detail.",
+      "chosen_heading": "Rav Pappa Answer",
+      "current_heading": "Rav Pappa Answer",
+      "moved": false
+    }
+  }
+]

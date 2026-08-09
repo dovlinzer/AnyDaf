@@ -1,12 +1,9 @@
-# Moed Katan 4 — Daf Yomi Shiur
-
+[DAF:3b]
 ## Tosefet Shevi'it Status
 
-### Override Framework
 
-> **Hebrew/Aramaic:** שֶׁנִּכְנָס לִשְׁבִיעִית, וְקָצִיר שֶׁל שְׁבִיעִית שֶׁיָּצָא לְמוֹצָאֵי שְׁבִיעִית.
->
-> **Translation:** **that entered into the Sabbatical Year,** i.e., plowing in the sixth year that will benefit crops growing in the seventh year, **and reaping** the crops **of the Sabbatical Year that continued into the conclusion of the Sabbatical Year,** i.e., reaping seventh-year produce that continued to grow into the eighth year.
+
+### Override Framework
 
 The daf opens in the midst of a discussion about what kinds of agricultural labor are permitted during *chol hamoed* and *shemita*. The *mishnah* allows for the watering of fields even during these restricted periods, and the *gemara* seeks to understand on what basis these overrides operate.
 
@@ -14,41 +11,21 @@ By *chol hamoed*, the *gemara* has been framing the prohibition not as a matter 
 
 ### Tosefet Transmission
 
-> **Hebrew/Aramaic:** רַבִּי יִשְׁמָעֵאל אוֹמֵר: מָה חָרִישׁ רְשׁוּת, אַף קָצִיר — רְשׁוּת, יָצָא קְצִיר הָעוֹמֶר שֶׁהִיא מִצְוָה!
->
-> **Translation:** **Rabbi Yishmael says** that this verse is to be understood as referring to Shabbat and not to the Sabbatical Year, in accordance with the straightforward meaning of the verse. It teaches as follows: **Just as** only **optional plowing** is prohibited on Shabbat, as there is no instance where plowing fulfills a biblical mitzva, **so too,** only **optional reaping** is prohibited, **to the exclusion of the reaping of the *omer*** offering, **which is a mitzva,** and consequently permitted on Shabbat. Nonetheless, the first opinion cited in the *baraita*, that of Rabbi Akiva, holds that the prohibition against plowing on the eve of the Sabbatical Year is derived from an explicit verse.
-
 Connected to this discussion, a teaching arrived from *Eretz Yisrael* stating that one does not receive lashes for *tosefet shevi'it* — the extended period of prohibition before and after the sabbatical year itself. This raises the question of the nature and legal weight of *tosefet shevi'it* as a whole.
 
 ### Tosefet Explanations
-
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב נַחְמָן בַּר יִצְחָק: כִּי גְּמִירִי הִלְכְתָא — לְמִישְׁרֵי יַלְדָּה. קְרָאֵי — לְמֵיסַר זְקֵינָה.
->
-> **Translation:** **Rather, Rav Naḥman bar Yitzḥak said: When we learned** this as **a *halakha*** transmitted to Moses from Sinai, **it was to permit** plowing in the case of **young** saplings until Rosh HaShana. In contrast, **the verses** that were cited come **to prohibit** plowing in the case of **mature** and well-rooted trees thirty days before Rosh HaShana of the Sabbatical Year.
 
 Two explanations are offered for what *tosefet shevi'it* actually entails. The first is that the issue is *charisha* — plowing — which would be considered a *tolada* rather than an *av*, not explicitly mentioned in a *pasuk*, and therefore not subject to lashes in the same way. The second explanation is that we are speaking of the period *before* the sabbatical year itself, before *Rosh Hashanah* — the period that is "added on" to *shemita*. The earlier *mishnayot* in *Shevi'it* describe an extended period — going back as far as *Pesach* or *Shavuot* — during which agricultural work that prepares the ground for the coming year is forbidden, even though work that benefits current-year fruit may be permitted. This entire added period constitutes *tosefet shevi'it*.
 
 ### Rabban Gamliel Override
 
-> **Hebrew/Aramaic:** וְכֵיוָן דְּהִלְכְתָא לְמִשְׁרֵי יַלְדָּה, לָאו מִמֵּילָא זְקֵינָה אֲסִירָה?!
->
-> **Translation:** The Gemara asks: **But since the *halakha*** transmitted to Moses from Sinai comes **to permit** plowing in the case of **young** saplings until Rosh HaShana, **does it not automatically** follow that in the case of **mature** trees, plowing **is prohibited** before Rosh HaShana? Therefore, not only the allowance, but the prohibition as well was learned by tradition as a *halakha* transmitted to Moses from Sinai, and not from the verses.
-
 The *mishnah* catalogues the various periods of *tosefet* and records that Rabban Gamliel overrode them. This strongly implies that *tosefet shevi'it* is *derabbanan* in character. The *gemara* raises an internal difficulty: how could Rabban Gamliel override a *takkanah*, given the principle that a later *beit din* cannot annul the rulings of an earlier one? The answer offered — admittedly a convenient one — is that the *takkanah* was stipulated from the outset with the provision that it could be overridden when necessary, presumably because the economic burden it created was foreseen as potentially onerous. This situates the overridden portion squarely as *derabbanan*.
 
 ### HLM MiSinai Evidence
 
-> **Hebrew/Aramaic:** אֶלָּא: הִלְכְתָא לְרַבִּי יִשְׁמָעֵאל, קְרָאֵי לְרַבִּי עֲקִיבָא.
->
-> **Translation:** **Rather,** the ***halakha*** transmitted to Moses from Sinai is the basis of the prohibition against plowing on the eve of the Sabbatical Year **according to** the opinion of **Rabbi Yishmael,** who interprets the verse as referring to Shabbat, and not to the Sabbatical Year, whereas **the verses** are the basis of the prohibition **according to the** opinion of **Rabbi Akiva.**
-
 The *gemara*, however, is not satisfied with this characterization, because there is evidence that *tosefet shevi'it* has the status of *halakha l'Moshe miSinai* — not a biblical derivation from a *pasuk*, but a tradition tracing back to Sinai itself. The evidence comes from a specific *halakha l'Moshe miSinai* that permits working the land right up to *Rosh Hashanah* in the special case of *asara netiyot* — ten saplings planted within a particular area. The very fact that a *halakha l'Moshe miSinai* is required to create an exception for these ten saplings implies that without it, working up to the last moment is forbidden — which in turn implies a preexisting prohibition during the period before *Rosh Hashanah*. The concept of *tosefet* is thus embedded in the tradition, not merely a rabbinic enactment.
 
 ### Two-Layer Structure
-
-> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: רַבָּן גַּמְלִיאֵל וּבֵית דִּינוֹ מִדְּאוֹרָיְיתָא בַּטֻּל לְהוּ.
->
-> **Translation:** The Gemara previously cited Rabbi Yitzḥak, who explained how Rabban Gamliel's court nullified the extension to the prohibition against plowing before the Sabbatical Year that had been enacted by Beit Shammai and Beit Hillel. The Gemara now cites another opinion, which holds that Rabban Gamliel's court abolished the prohibition against plowing before the Sabbatical Year entirely. **And Rabbi Yoḥanan said** that **Rabban Gamliel and his court nullified** the restrictions on working the land on the eve of the Sabbatical Year **based on** a source written **in the Torah.**
 
 The *gemara* resolves this tension by positing a hybrid, two-tiered structure. The *halakha l'Moshe miSinai* governs the thirty days before *Rosh Hashanah*: that period is inviolate, subject only to the single exception the *halakha l'Moshe miSinai* itself provides — the *asara netiyot* case. The earlier period, extending all the way back to *Pesach* or *Shavuot*, is purely *derabbanan*. It was this *derabbanan* layer that Rabban Gamliel and his *beit din* overrode. Thus *tosefet shevi'it* consists of two sections: one grounded in *halakha l'Moshe miSinai* and one in rabbinic enactment.
 
@@ -56,17 +33,26 @@ The *gemara* resolves this tension by positing a hybrid, two-tiered structure. T
 
 ## Biblical Status Debate
 
-### HLM Status Question
 
-> **Hebrew/Aramaic:** מַאי טַעְמָא? גָּמַר ״שַׁבָּת״ ״שַׁבָּת״ מִשַּׁבַּת בְּרֵאשִׁית. מָה לְהַלָּן — הִיא אֲסוּרָה לְפָנֶיהָ וּלְאַחֲרֶיהָ מוּתָּרִין, אַף כָּאן — הִיא אֲסוּרָה לְפָנֶיהָ וּלְאַחֲרֶיהָ מוּתָּרִין.
->
-> **Translation:** **What is the reason? He derives** it by means of a verbal analogy between the word **Shabbat** stated with regard to the Sabbatical Year in the verse: "But in the seventh year shall be a sabbath of solemn rest for the land" (Leviticus 25:4), **and** the word **Shabbat** stated with regard to the weekly Shabbat, which commemorates **the Shabbat of Creation. Just as there,** on Shabbat **itself it is prohibited** to perform labor, but **before and after** Shabbat **it is permitted, so too here,** in the case of the Sabbatical Year, during the Sabbatical Year **itself it is prohibited** to perform labor, but **before and after** the Sabbatical Year **it is permitted.**
+
+[DAF:4a]
+### HLM Status Question
 
 The *gemara* is not finished. Having constructed this hybrid two-tiered framework, it now presses further: are these laws really only *halakha l'Moshe miSinai*, or is there actually a biblical *pasuk* that underlies them? The question — *ve-hanei hilchata ninhu?* — is pointed: are these *halakha l'Moshe miSinai*, or perhaps *krai ninhu*, derived from a verse?
 
-It is worth noting a point of broader significance here. The *Rambam* famously maintained that the debates recorded throughout the *gemara* do not reflect a corruption of the oral tradition; rather, the tradition was never meant to transmit legal conclusions for those matters, only the text — leaving interpretation to the *chachamim*. The *Rambam* held that the one exception was *halakha l'Moshe miSinai*, which was always purely transmitted and never subject to dispute. The present *gemara* will, in fact, show that even *halakha l'Moshe miSinai* is debated — which the *gemara* itself makes explicit.
+It is worth noting a point of broader significance here. The *Rambam* famously maintained that the debates recorded throughout the *gemara* do not reflect a corruption of the oral tradition; rather, the tradition was never meant to transmit legal conclusions for those matters, only the text — leaving interpretation to the *chachamim*. The *Rambam* held that the one exception was *halakha l'Moshe miSinai*, which was always purely transmitted and never subject to dispute. The present *gemara* will, in fact, show that even *halakha l'Moshe miSinai* is debated — which the *gemara* itself makes explicit. It is also worth pausing on a structural feature of the two-tiered framework the *gemara* has just constructed. The notion that a *beit din* might issue a *takkanah* while deliberately building in the possibility of its own future override is, to say the least, unusual — and the *gemara*'s treatment of that possibility here is, as far as one can tell, unique in *Shas*. The general principle that a later *beit din* cannot abrogate the rulings of an earlier one stands as a firm default, and yet we have seen that override does sometimes occur. The *gemara* navigates this tension in other contexts as well — the cases in *Avodah Zarah* concerning the *takkanot* that *Rabbi Yehudah HaNasi* and his *beit din* overrode, and the discussion at the opening of *Beitzah*, are the clearest parallels — but the explicit stipulation of built-in override as a structural feature of the *takkanah* itself remains a striking and distinctive move.
+
+> **Hebrew/Aramaic:** וְהָנֵי הִלְכְתָא נִינְהוּ? קְרָאֵי נִינְהוּ, דִּתְנַן: ״בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת״, רַבִּי עֲקִיבָא אוֹמֵר: אֵין צָרִיךְ לוֹמַר חָרִישׁ וְקָצִיר שֶׁל שְׁבִיעִית, שֶׁהֲרֵי כְּבָר נֶאֱמַר: ״שָׂדְךָ לֹא תִזְרָע וְכַרְמְךָ לֹא תִזְמֹר״, אֶלָּא חָרִישׁ שֶׁל עֶרֶב שְׁבִיעִית
+> **Translation:** The Gemara raises another question: **Are these** prohibitions of plowing before the Sabbatical Year really ***halakhot*** transmitted to Moses from Sinai? **They are** actually prohibitions based on explicit **verses. As we learned** in a *baraita* with regard to the verse **“In plowing and in reaping you shall rest”** (Exodus 34:21) that **Rabbi Akiva says: It is unnecessary** for the verse **to speak** about **plowing and reaping during the Sabbatical Year, as it was already stated:** “But in the seventh year shall be a sabbath of solemn rest for the land, a sabbath for the Lord; **your field you shall not sow, and your vineyard you shall not prune”** (Leviticus 25:4). This teaches that during the seventh year all agricultural labor is prohibited. **Rather,** the verse comes to prohibit **plowing on the eve of the Sabbatical Year**
+
+> **Hebrew/Aramaic:** שֶׁנִּכְנָס לִשְׁבִיעִית, וְקָצִיר שֶׁל שְׁבִיעִית שֶׁיָּצָא לְמוֹצָאֵי שְׁבִיעִית.
+> **Translation:** **that entered into the Sabbatical Year,** i.e., plowing in the sixth year that will benefit crops growing in the seventh year, **and reaping** the crops **of the Sabbatical Year that continued into the conclusion of the Sabbatical Year,** i.e., reaping seventh-year produce that continued to grow into the eighth year.
+
+> **Hebrew/Aramaic:** רַבִּי יִשְׁמָעֵאל אוֹמֵר: מָה חָרִישׁ רְשׁוּת, אַף קָצִיר — רְשׁוּת, יָצָא קְצִיר הָעוֹמֶר שֶׁהִיא מִצְוָה!
+> **Translation:** **Rabbi Yishmael says** that this verse is to be understood as referring to Shabbat and not to the Sabbatical Year, in accordance with the straightforward meaning of the verse. It teaches as follows: **Just as** only **optional plowing** is prohibited on Shabbat, as there is no instance where plowing fulfills a biblical mitzva, **so too,** only **optional reaping** is prohibited, **to the exclusion of the reaping of the *omer*** offering, **which is a mitzva,** and consequently permitted on Shabbat. Nonetheless, the first opinion cited in the *baraita*, that of Rabbi Akiva, holds that the prohibition against plowing on the eve of the Sabbatical Year is derived from an explicit verse.
 
 ### R. Akiva on Pasuk
+
 
 The *gemara* cites a teaching: *be-charish u-va-katzir tishbot* — "you shall rest from plowing and from harvesting." In its plain sense, this *pasuk* appears to speak of *Shabbat*. Rabbi Akiva, however, argues that it cannot be referring to *Shabbat* at all. The *pasuk* would be peculiarly specific if it were simply prohibiting *melacha* on *Shabbat* — why single out plowing and harvesting in particular? Since the *Torah* already states explicitly that one may not plant or prune in the sabbatical year, Rabbi Akiva argues the *pasuk* must be pointing to something we do not already know. It cannot, therefore, be speaking of *shemita* as it applies to *shemita* itself, since the basic prohibitions are already established. What then does it forbid? *Charish shel erev shevi'it she-nichnas le-shevi'it* — plowing done before *Rosh Hashanah* that serves the sabbatical year, and harvesting of sabbatical-year produce that extends past *motzaei shevi'it*. The *Torah*, according to Rabbi Akiva, is thus providing a biblical basis for *tosefet shevi'it* — an obligation to extend the prohibitions both before and after the sabbatical year.
 
@@ -76,6 +62,12 @@ Rabbi Yishmael disagrees entirely. In his view, the *pasuk* does indeed refer to
 
 ### Synthesis: Pasuk + HLM
 
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב נַחְמָן בַּר יִצְחָק: כִּי גְּמִירִי הִלְכְתָא — לְמִישְׁרֵי יַלְדָּה. קְרָאֵי — לְמֵיסַר זְקֵינָה.
+> **Translation:** **Rather, Rav Naḥman bar Yitzḥak said: When we learned** this as **a *halakha*** transmitted to Moses from Sinai, **it was to permit** plowing in the case of **young** saplings until Rosh HaShana. In contrast, **the verses** that were cited come **to prohibit** plowing in the case of **mature** and well-rooted trees thirty days before Rosh HaShana of the Sabbatical Year.
+
+> **Hebrew/Aramaic:** וְכֵיוָן דְּהִלְכְתָא לְמִשְׁרֵי יַלְדָּה, לָאו מִמֵּילָא זְקֵינָה אֲסִירָה?!
+> **Translation:** The Gemara asks: **But since the *halakha*** transmitted to Moses from Sinai comes **to permit** plowing in the case of **young** saplings until Rosh HaShana, **does it not automatically** follow that in the case of **mature** trees, plowing **is prohibited** before Rosh HaShana? Therefore, not only the allowance, but the prohibition as well was learned by tradition as a *halakha* transmitted to Moses from Sinai, and not from the verses.
+
 Rav Nachman bar Yitzchak proposes a synthetic approach. The *pesukim* establish the very concept of *tosefet shevi'it* — the obligation to extend the prohibition to a period before *Rosh Hashanah*. The *halakha l'Moshe miSinai*, for its part, provides the exception: the case of the *asara netiyot*, where one may work right up to *Rosh Hashanah*. On this reading, the *pasuk* and the *halakha l'Moshe miSinai* are complementary rather than redundant — the rule comes from the verse, and the exception comes from the tradition.
 
 ### Superfluous Pasuk
@@ -84,9 +76,8 @@ The *gemara* objects: if the *halakha l'Moshe miSinai* already permits working i
 
 ### Akiva vs Yishmael
 
-> **Hebrew/Aramaic:** מַאן דְּאָמַר הִלְכְתָא — אָתְיָא גְּזֵרָה שָׁוָה עָקְרָה הִלְכְתָא? וּמַאן דְּאָמַר קְרָא — אָתְיָא גְּזֵרָה שָׁוָה עָקְרָה קְרָא?
->
-> **Translation:** **Rav Ashi strongly objects to this:** If Rabban Gamliel and his court nullified the restrictions based on a verbal analogy, then according to **the one who said** that the prohibition against plowing thirty days before Rosh HaShana of the Sabbatical Year is a ***halakha*** that was transmitted to Moses from Sinai, **can a verbal analogy come** and **uproot a *halakha*** that was transmitted to Moses from Sinai? **And** similarly, according to **the one who said** that the prohibition against plowing is derived from **a verse, can a verbal analogy come** and **uproot a verse?**
+> **Hebrew/Aramaic:** אֶלָּא: הִלְכְתָא לְרַבִּי יִשְׁמָעֵאל, קְרָאֵי לְרַבִּי עֲקִיבָא.
+> **Translation:** **Rather,** the ***halakha*** transmitted to Moses from Sinai is the basis of the prohibition against plowing on the eve of the Sabbatical Year **according to** the opinion of **Rabbi Yishmael,** who interprets the verse as referring to Shabbat, and not to the Sabbatical Year, whereas **the verses** are the basis of the prohibition **according to the** opinion of **Rabbi Akiva.**
 
 The resolution, in the *gemara*'s final formulation, is that the question of *halakha l'Moshe miSinai* versus *pasuk* is itself the subject of a *machloket*. According to Rabbi Yishmael — who reads the verse as pertaining to *Shabbat* and the *Omer* — *tosefet shevi'it* has no biblical *pasuk* at all and is derived from the *halakha l'Moshe miSinai* of the *asara netiyot*. According to Rabbi Akiva — who has his own *pasuk* for *tosefet shevi'it* — there is no need for the *halakha l'Moshe miSinai* to infer the general rule, and he therefore does not hold of the *asara netiyot* exception.
 
@@ -96,15 +87,19 @@ This is a remarkable conclusion: the *gemara* is explicitly saying that the *hal
 
 ## Rabban Gamliel Nullifies
 
+
+
 ### Nullification Claim
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב אָשֵׁי: רַבָּן גַּמְלִיאֵל וּבֵית דִּינוֹ סָבְרִי לַהּ כְּרַבִּי יִשְׁמָעֵאל, דְּאָמַר הִלְכְתָא גְּמִירִי לַהּ. וְכִי גְּמִירִי הִלְכְתָא, בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים — דּוּמְיָא דְּנִיסּוּךְ הַמַּיִם. אֲבָל בִּזְמַן שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּים — לָא.
->
-> **Translation:** **Rather, Rav Ashi said: Rabban Gamliel and his court held in accordance with** the opinion of **Rabbi Yishmael, who said** that **they learned this** prohibition as **a *halakha*** transmitted to Moses from Sinai. **But they learned this *halakha*** only with regard to the time period **when the Temple is standing.** This is evidenced by the fact that it is **similar to** the other *halakha* stated along with it, that of the **water libation,** which was part of the service in the Temple. **But when the Temple is not standing** this *halakha* **does not** apply, and therefore Rabban Gamliel and his court nullified the prohibition after the destruction of the Temple.
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: רַבָּן גַּמְלִיאֵל וּבֵית דִּינוֹ מִדְּאוֹרָיְיתָא בַּטֻּל לְהוּ.
+> **Translation:** The Gemara previously cited Rabbi Yitzḥak, who explained how Rabban Gamliel’s court nullified the extension to the prohibition against plowing before the Sabbatical Year that had been enacted by Beit Shammai and Beit Hillel. The Gemara now cites another opinion, which holds that Rabban Gamliel’s court abolished the prohibition against plowing before the Sabbatical Year entirely. **And Rabbi Yoḥanan said** that **Rabban Gamliel and his court nullified** the restrictions on working the land on the eve of the Sabbatical Year **based on** a source written **in the Torah.**
 
 Rabbi Yochanan now frames Rabban Gamliel's nullification in a strikingly strong way. Rather than maintaining the earlier structure — in which only the *derabbanan* extended period was overridden — Rabbi Yochanan states that Rabban Gamliel and his *beit din* nullified *tosefet shevi'it* from the *Torah* (*mide'oraisa bitloha*). This is a far more sweeping claim than the earlier analysis suggested. On what grounds could a *beit din* nullify what is either a *de'oraisa* or a *halakha l'Moshe miSinai*?
 
 ### Shabbat Comparison
+
+> **Hebrew/Aramaic:** מַאי טַעְמָא? גָּמַר ״שַׁבָּת״ ״שַׁבָּת״ מִשַּׁבַּת בְּרֵאשִׁית. מָה לְהַלָּן — הִיא אֲסוּרָה לְפָנֶיהָ וּלְאַחֲרֶיהָ מוּתָּרִין, אַף כָּאן — הִיא אֲסוּרָה לְפָנֶיהָ וּלְאַחֲרֶיהָ מוּתָּרִין.
+> **Translation:** **What is the reason? He derives** it by means of a verbal analogy between the word **Shabbat** stated with regard to the Sabbatical Year in the verse: “But in the seventh year shall be a sabbath of solemn rest for the land” (Leviticus 25:4), **and** the word **Shabbat** stated with regard to the weekly Shabbat, which commemorates **the Shabbat of Creation. Just as there,** on Shabbat **itself it is prohibited** to perform labor, but **before and after** Shabbat **it is permitted, so too here,** in the case of the Sabbatical Year, during the Sabbatical Year **itself it is prohibited** to perform labor, but **before and after** the Sabbatical Year **it is permitted.**
 
 The justification offered is a *gezeira shava* on the word *Shabbat*: just as ordinary *Shabbat* forbids only the day itself — with the period before and after being fully permissible — so too *shemita*, which the *Torah* calls *Shabbat*, must follow the same model. *Mah lehallan hi asura lefaneha ule'achareha muttarim* — just as by *Shabbat* only the day is forbidden and what precedes or follows it is permitted, so too by *shemita* only the year itself should be forbidden, and *tosefet* has no place.
 
@@ -116,9 +111,15 @@ This distinction opens a deeper conceptual question about the nature of *tosefet
 
 ### Rav Ashi Objection
 
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב אָשֵׁי: מַאן דְּאָמַר הִלְכְתָא — אָתְיָא גְּזֵרָה שָׁוָה עָקְרָה הִלְכְתָא? וּמַאן דְּאָמַר קְרָא — אָתְיָא גְּזֵרָה שָׁוָה עָקְרָה קְרָא?
+> **Translation:** **Rav Ashi strongly objects to this:** If Rabban Gamliel and his court nullified the restrictions based on a verbal analogy, then according to **the one who said** that the prohibition against plowing thirty days before Rosh HaShana of the Sabbatical Year is a ***halakha*** that was transmitted to Moses from Sinai, **can a verbal analogy come** and **uproot a *halakha*** that was transmitted to Moses from Sinai? **And** similarly, according to **the one who said** that the prohibition against plowing is derived from **a verse, can a verbal analogy come** and **uproot a verse?**
+
 Rav Ashi challenges the entire argument. If the source of *tosefet shevi'it* is a *halakha l'Moshe miSinai*, can a *gezeira shava* come and uproot a *halakha l'Moshe miSinai*? And if its source is a *pasuk*, can a *gezeira shava* come and uproot a *pasuk*? Rav Ashi's question is pointed, though his precise difficulty is worth unpacking. If the dispute about *tosefet* concerns competing *pasuk* interpretations, one might expect that the *gezeira shava* would simply direct how to read the verse — but Rav Ashi seems to resist even that move.
 
 ### HLM Time-Bound
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב אָשֵׁי: רַבָּן גַּמְלִיאֵל וּבֵית דִּינוֹ סָבְרִי לַהּ כְּרַבִּי יִשְׁמָעֵאל, דְּאָמַר הִלְכְתָא גְּמִירִי לַהּ. וְכִי גְּמִירִי הִלְכְתָא, בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים — דּוּמְיָא דְּנִיסּוּךְ הַמַּיִם. אֲבָל בִּזְמַן שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּים — לָא.
+> **Translation:** **Rather, Rav Ashi said: Rabban Gamliel and his court held in accordance with** the opinion of **Rabbi Yishmael, who said** that **they learned this** prohibition as **a *halakha*** transmitted to Moses from Sinai. **But they learned this *halakha*** only with regard to the time period **when the Temple is standing.** This is evidenced by the fact that it is **similar to** the other *halakha* stated along with it, that of the **water libation,** which was part of the service in the Temple. **But when the Temple is not standing** this *halakha* **does not** apply, and therefore Rabban Gamliel and his court nullified the prohibition after the destruction of the Temple.
 
 Rav Ashi's resolution reframes the entire discussion. Rabban Gamliel and his *beit din*, he says, held like Rabbi Yishmael — meaning they held that *tosefet shevi'it* is grounded not in a *pasuk* but in the *halakha l'Moshe miSinai*. And their position was further that this *halakha l'Moshe miSinai* applies only *bizman she-beit hamikdash kayam* — when the *Beit HaMikdash* stands. The evidence for this temporal limitation is that the *halakha l'Moshe miSinai* concerning the *asara netiyot* is always transmitted together with two other traditions — *nisuch hamayim* and *arava* — both of which are *Mikdash*-related practices. The grouping implies that all three share the same condition: they apply only when the *Beit HaMikdash* stands.
 
@@ -126,27 +127,33 @@ This is a striking conclusion, and one that deserves scrutiny. *Shemita* is fund
 
 ### Kedusha vs Caution
 
-The deeper conceptual question remains: what is *tosefet* — whether *tosefet shevi'it* or *tosefet Shabbat* — really about? Is it an actual extension of *kedusha* into the preceding period, meaning that the sanctity of the day or year genuinely begins early? Or is it merely a practical precautionary measure — a buffer to prevent one from inadvertently overstepping the boundary at the last second? The punitive dimension consistently points in one direction: nobody suggests one receives *sekila* or *malkot* for violating *tosefet*, even after having formally accepted the *kedusha*. But this does not resolve whether the preceding period has genuine *kedusha*. The *rishonim* debate whether *kiyumim* — fulfillments of *mitzvot* associated with the day — can be performed during *tosefet*, and their disagreement reflects this unresolved question about the nature of the extension itself.
+The deeper conceptual question remains: what is *tosefet* — whether *tosefet shevi'it* or *tosefet Shabbat* — really about? Is it an actual extension of *kedusha* into the preceding period, meaning that the sanctity of the day or year genuinely begins early? Or is it merely a practical precautionary measure — a buffer to prevent one from inadvertently overstepping the boundary at the last second? The punitive dimension consistently points in one direction: nobody suggests one receives *sekila* or *malkot* for violating *tosefet*, even after having formally accepted the *kedusha*. This is true even in the case of *tosefet Shabbat*: if one davened *maariv* and accepted *Shabbat* at *plag hamincha*, one is genuinely prohibited from performing *melakha* — yet if one did violate that prohibition, there would be no *sekila*. The absence of the capital penalty does not necessarily mean there is no *kedushat Shabbat* present at all; it may be that the *kedusha* is real but does not carry the full legal weight of *Shabbat* itself — one might describe it conceptually as *kedushat Shabbat* without its being *Yom Shabbat* proper. But this does not resolve whether the preceding period has genuine *kedusha*. The *rishonim* debate whether *kiyumim* — fulfillments of *mitzvot* associated with the day — can be performed during *tosefet*, and their disagreement reflects this unresolved question about the nature of the extension itself.
 
 ---
 
 ## Watering Restrictions
 
-### Spring vs Collected
 
-> **Hebrew/Aramaic:** אֲבָל לֹא מִמֵּי הַגְּשָׁמִים וּמִמֵּי הַקִּילוֹן. בִּשְׁלָמָא מֵי קִילוֹן — אִיכָּא טִירְחָא יַתִּירָא, אֶלָּא מֵי גְּשָׁמִים מַאי טִירְחָא אִיכָּא?
->
-> **Translation:** § It was taught in the mishna: **However,** one **may not** irrigate a field on the intermediate days of a Festival **with rainwater** collected in a cistern **or with water drawn with a shadoof.** The Gemara asks: **Granted,** irrigating a field with **water drawn with a shadoof involves excessive effort,** and so it is prohibited on the intermediate days of a Festival. **But what excessive effort is involved** in irrigating a field **with rainwater?** Rainwater collects on its own and one merely has to channel it to where it is needed.
+
+### Spring vs Collected
 
 The *mishnah* establishes a basic rule for watering fields on *chol hamoed*: one may water from a spring (*mei ma'ayan*) but not from rainwater (*mei geshamim*) or from a *kilon* — a bucket-and-pulley system used to raise water from a well or ditch.
 
 ### Gezeira Rationale
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אִילְעָא אָמַר יוֹחָנָן: גְּזֵירָה מֵי גְשָׁמִים אַטּוּ מֵי קִילוֹן. רַב אָשֵׁי אָמַר: מֵי גְשָׁמִים גּוּפַיְיהוּ לִידֵי מֵי קִילוֹן אָתוּ.
->
-> **Translation:** **Rabbi Ile'a said that** Rabbi **Yoḥanan said:** A rabbinic **decree** was enacted with regard to **rainwater due to** its similarity **to water drawn with a shadoof. Rav Ashi said: Rainwater itself will come to be** like **water drawn with a shadoof.** Once the level of the collected rainwater drops, it will become necessary to draw it with a bucket, a procedure involving excessive effort.
-
 The prohibition against the *kilon* system is self-evident: it involves substantial *tircha yeseira*, excessive exertion, which is precisely what *chol hamoed* restrictions aim to prevent. But the prohibition against using collected rainwater is puzzling — what exertion is involved in drawing from a barrel of rainwater sitting right there? Rabbi Ila in the name of Rabbi Yochanan answers: it is a *gezeira* — a protective enactment. If we permit rainwater, people will reason that collected water is collected water, and will proceed to draw water from the bottom of their wells using the bucket system. The common denominator is that both involve collected, non-flowing water. Permitting one will inevitably lead to permitting the other.
+
+> **Hebrew/Aramaic:** אֲבָל לֹא מִמֵּי הַגְּשָׁמִים וּמִמֵּי הַקִּילוֹן. בִּשְׁלָמָא מֵי קִילוֹן — אִיכָּא טִירְחָא יַתִּירָא, אֶלָּא מֵי גְּשָׁמִים מַאי טִירְחָא אִיכָּא?
+> **Translation:** § It was taught in the mishna: **However,** one **may not** irrigate a field on the intermediate days of a Festival **with rainwater** collected in a cistern **or with water drawn with a shadoof.** The Gemara asks: **Granted,** irrigating a field with **water drawn with a shadoof involves excessive effort,** and so it is prohibited on the intermediate days of a Festival. **But what excessive effort is involved** in irrigating a field **with rainwater?** Rainwater collects on its own and one merely has to channel it to where it is needed.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אִילְעָא אָמַר יוֹחָנָן: גְּזֵירָה מֵי גְשָׁמִים אַטּוּ מֵי קִילוֹן. רַב אָשֵׁי אָמַר: מֵי גְשָׁמִים גּוּפַיְיהוּ לִידֵי מֵי קִילוֹן אָתוּ.
+> **Translation:** **Rabbi Ile’a said that** Rabbi **Yoḥanan said:** A rabbinic **decree** was enacted with regard to **rainwater due to** its similarity **to water drawn with a shadoof. Rav Ashi said: Rainwater itself will come to be** like **water drawn with a shadoof.** Once the level of the collected rainwater drops, it will become necessary to draw it with a bucket, a procedure involving excessive effort.
+
+> **Hebrew/Aramaic:** וְקָמִיפַּלְגִי בִּדְרַבִּי זֵירָא. דְּאָמַר רַבִּי זֵירָא אָמַר רַבָּה בַּר יִרְמְיָה אָמַר שְׁמוּאֵל: נְהָרוֹת הַמּוֹשְׁכִין מַיִם מִן הָאֲגַמִּים מוּתָּר לְהַשְׁקוֹת מֵהֶן בְּחוּלּוֹ שֶׁל מוֹעֵד.
+> **Translation:** The Gemara comments: Rabbi Ile’a and Rav Ashi **disagree with regard to** the ruling issued by **Rabbi Zeira, as Rabbi Zeira said** that **Rabba bar Yirmeya said** that **Shmuel said:** With regard to **streams that draw water from pools** of collected water, **one is permitted to irrigate** his field **from them on the intermediate days of a Festival,** because the flow of water is steady.
+
+> **Hebrew/Aramaic:** מָר אִית לֵיהּ דְּרַבִּי זֵירָא, וּמָר לֵית לֵיהּ דְּרַבִּי זֵירָא.
+> **Translation:** One **Sage,** Rav Ashi, **is of** the opinion that the ruling is in accordance with the opinion **of Rabbi Zeira,** as he prohibits only irrigating with rainwater, because the supply might come to an end, but he does not prohibit watering from a source whose flow is steady. **And** one **Sage,** Rabbi Yoḥanan, **is not of** the opinion that the ruling is in accordance with the opinion of **Rabbi Zeira,** as he prohibits irrigating with rainwater due to its similarity to water drawn with a shadoof. This applies regardless of whether the level of the rainwater will drop, and therefore Rabbi Yoḥanan would prohibit using collected water even if a stream flows through it and it will not dry up.
 
 ### Rainwater Self-Problem
 
@@ -154,25 +161,31 @@ Rav Ashi offers an alternative explanation. The problem is not that *mei geshami
 
 ### Concern Type Debate
 
-> **Hebrew/Aramaic:** וְקָמִיפַּלְגִי בִּדְרַבִּי זֵירָא. דְּאָמַר רַבִּי זֵירָא אָמַר רַבָּה בַּר יִרְמְיָה אָמַר שְׁמוּאֵל: נְהָרוֹת הַמּוֹשְׁכִין מַיִם מִן הָאֲגַמִּים מוּתָּר לְהַשְׁקוֹת מֵהֶן בְּחוּלּוֹ שֶׁל מוֹעֵד.
->
-> **Translation:** The Gemara comments: Rabbi Ile'a and Rav Ashi **disagree with regard to** the ruling issued by **Rabbi Zeira, as Rabbi Zeira said** that **Rabba bar Yirmeya said** that **Shmuel said:** With regard to **streams that draw water from pools** of collected water, **one is permitted to irrigate** his field **from them on the intermediate days of a Festival,** because the flow of water is steady.
-
 This distinction between the two explanations — whether the concern is about *mei geshamim* leading to other cases of *mei kilon*, or about *mei geshamim* itself becoming *mei kilon* — will determine how various borderline cases are resolved, as the subsequent discussion makes clear.
 
 ### Rivers from Swamps
+
+
+> **Hebrew/Aramaic:** גּוּפָא, אָמַר רַבִּי זֵירָא אָמַר רַבָּה בַּר יִרְמְיָה אָמַר שְׁמוּאֵל: נְהָרוֹת הַמּוֹשְׁכִין מַיִם מִן הָאֲגַמִּים — מוּתָּר לְהַשְׁקוֹת מֵהֶן בְּחוּלּוֹ שֶׁל מוֹעֵד.
+> **Translation:** After mentioning the statement of Rabbi Zeira in the course of the previous discussion, the Gemara examines **the** matter **itself. Rabbi Zeira said** that **Rabba bar Yirmeya said** that **Shmuel said:** With regard to **streams that draw water from pools** of water, **one is permitted to irrigate** his field **from them on the intermediate days of a Festival.**
+
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַבִּי יִרְמְיָה לְרַבִּי זֵירָא: אֲבָל לֹא מִמֵּי גְשָׁמִים וְלֹא מִמֵּי קִילוֹן! אֲמַר לֵיהּ: יִרְמְיָה בְּרִי, הָנֵי אַגַּמִּים דְּבָבֶל — כְּמַיָּא דְּלָא פָּסְקִי דָּמוּ.
+> **Translation:** **Rabbi Yirmeya raised an objection to Rabbi Zeira** from what is taught in the mishna: **However, one may not** irrigate a field on the intermediate days of a Festival **with rainwater** collected in cisterns **or with water drawn with a shadoof.** This indicates that whenever there is a concern that the water might run out, it is prohibited to irrigate from this water source. Consequently, Rabbi Yirmeya wanted to know why this concern did not exist in the case of the pools of water as well. Rabbi Zeira **said to him: Yirmeya, my son, these pools in Babylonia are like water that does not stop** flowing. Therefore, there is no concern that the water level in these pools might go down to such an extent that it will become necessary to draw the water with buckets.
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַפְּסִיקוֹת וְהַבְּרֵיכוֹת שֶׁנִּתְמַלְּאוּ מַיִם מֵעֶרֶב יוֹם טוֹב — אָסוּר לְהַשְׁקוֹת מֵהֶן בְּחוּלּוֹ שֶׁל מוֹעֵד. וְאִם הָיְתָה אַמַּת הַמַּיִם עוֹבֶרֶת בֵּינֵיהֶן — מוּתָּר.
+> **Translation:** **The Sages taught** in a *baraita*: With regard to **temporary pools and** regular **pools that were filled with water on the eve of a Festival, it is prohibited for one to irrigate** his field **from them on the intermediate days of the Festival,** lest they run out of water and he will come to exert himself and bring water from elsewhere. **But if a water channel passes between them** so that water flows from the one to the other, **it is permitted.**
 
 Rabbi Zeira teaches in the name of Rabbah bar Yirmiyah in the name of Shmuel: rivers or streams that draw water from swamps (*agamim*) are permitted for watering on *chol hamoed*. The scenario involves a large body of collected standing water — the *agam* — from which a river or channel flows, passing by one's field. One draws water from this flowing channel to irrigate.
 
 The question is whether this case is analogous to *mei geshamim*. On one level it is: the water ultimately derives from a collected, non-flowing source. But there is an important difference — the effort involved is minimal. There is no need to raise water vertically; one is simply conveying it horizontally. And crucially, the *agam* is so vast that there is no realistic concern it will run dry.
 
+This is precisely where the earlier debate between the two explanations becomes decisive. If the concern behind the *mei geshamim* prohibition is that permitting collected water will lead one to eventually use *mei kilon* in a different case — a slippery-slope concern about the category as a whole — then it makes no difference how large the *agam* is or how little effort is required; one is still drawing from collected water, and the permission granted here might lead to a graver violation elsewhere. But if the concern is that the specific case at hand will itself devolve into a need for a *kilon*, then the rivers-from-swamps case is simply not problematic: the *agam* is so enormous that it will never realistically be depleted to the point of requiring a water-drawing apparatus, and so no prohibition applies.
+
 ### R. Yirmiyah Challenge
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַבִּי יִרְמְיָה לְרַבִּי זֵירָא: אֲבָל לֹא מִמֵּי גְשָׁמִים וְלֹא מִמֵּי קִילוֹן! אֲמַר לֵיהּ: יִרְמְיָה בְּרִי, הָנֵי אַגַּמִּים דְּבָבֶל — כְּמַיָּא דְּלָא פָּסְקִי דָּמוּ.
->
-> **Translation:** **Rabbi Yirmeya raised an objection to Rabbi Zeira** from what is taught in the mishna: **However, one may not** irrigate a field on the intermediate days of a Festival **with rainwater** collected in cisterns **or with water drawn with a shadoof.** This indicates that whenever there is a concern that the water might run out, it is prohibited to irrigate from this water source. Consequently, Rabbi Yirmeya wanted to know why this concern did not exist in the case of the pools of water as well. Rabbi Zeira **said to him: Yirmeya, my son, these pools in Babylonia are like water that does not stop** flowing. Therefore, there is no concern that the water level in these pools might go down to such an extent that it will become necessary to draw the water with buckets.
-
 Rabbi Yirmiyah challenged Rabbi Zeira directly: is not swamp water also collected water — effectively *mei geshamim* — and why should it be treated differently?
+
+### Bavel Swamps Never Dry
 
 Rabbi Zeira responded with characteristic affection: *Yirmiyah beri* — Yirmiyah, my son — the swamps of *Bavel* are so vast and deep that they never run dry. Their water is, for all practical purposes, inexhaustible. This is precisely where the two explanations diverge. If the concern about *mei geshamim* is that this case itself will eventually require the *kilon*-like effort of drawing from a depleted source, then swamp water in *Bavel* never presents that concern — the water will never reach a level where raising it becomes laborious. If, however, the concern is purely that permitting collected water will lead people to permit *mei kilon* in other scenarios, then the infinite supply of the *Bavel* swamps is irrelevant — it remains collected water, and allowing it sets a precedent. The *gemara* concludes that the two *amora'im* who debate the reason for prohibiting *mei geshamim* disagree precisely over whether Rabbi Zeira's ruling is correct: the one who holds the concern is about this case itself becoming *mei kilon* accepts his ruling; the one who holds the concern is about leading to other *mei kilon* scenarios does not.
 
@@ -180,39 +193,39 @@ Rabbi Zeira responded with characteristic affection: *Yirmiyah beri* — Yirmiya
 
 ## Pools and Channels
 
-### Pools Rule
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַפְּסִיקוֹת וְהַבְּרֵיכוֹת שֶׁנִּתְמַלְּאוּ מַיִם מֵעֶרֶב יוֹם טוֹב — אָסוּר לְהַשְׁקוֹת מֵהֶן בְּחוּלּוֹ שֶׁל מוֹעֵד. וְאִם הָיְתָה אַמַּת הַמַּיִם עוֹבֶרֶת בֵּינֵיהֶן — מוּתָּר.
->
-> **Translation:** **The Sages taught** in a *baraita*: With regard to **temporary pools and** regular **pools that were filled with water on the eve of a Festival, it is prohibited for one to irrigate** his field **from them on the intermediate days of the Festival,** lest they run out of water and he will come to exert himself and bring water from elsewhere. **But if a water channel passes between them** so that water flows from the one to the other, **it is permitted.**
+
+### Pools Rule
 
 A *baraita* addresses a related case. If pools (*pesukot* and *breichot*) were filled with rainwater before *yom tov*, it is forbidden to water from them on *chol hamoed* — this is simply a case of *mei geshamim*. However, if a water channel (*amat hamayim*) passes through them, it becomes permissible. The channel changes the character of the water supply.
 
 ### Majority Field Condition
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: וְהוּא שֶׁרוּבָּהּ שֶׁל אוֹתָהּ שָׂדֶה שׁוֹתָה מֵאוֹתָהּ אַמַּת הַמַּיִם. רַב אָשֵׁי אָמַר: אַף עַל פִּי שֶׁאֵין רוּבָּהּ שֶׁל אוֹתָהּ שָׂדֶה שׁוֹתָה, כֵּיוָן דְּקָא מָשְׁכָא וְאָתְיָא, מֵימָר אָמַר: אִי לָא שָׁתְיָא לְחַד יוֹמָא — תִּשְׁתֵּי לִתְרֵי וּתְלָתָא יוֹמֵי.
->
+Rav Pappa qualifies this leniency: the water channel renders the pools permissible only if the majority of the field can be watered from the channel water itself. The logic is that if the channel provides enough water to irrigate most of the field, then even if the collected water in the pools is depleted, there is no concern that one will resort to drawing water from their depths. The channel remains a sufficient supply, and one need not worry that the depletion of the pools will necessitate the laborious raising of water.
+
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: וְהוּא שֶׁרוּבָּהּ שֶׁל אוֹתָהּ שָׂדֶה שׁוֹתָה מֵאוֹתָהּ אַמַּת הַמַּיִם. רַב אָשֵׁי אָמַר: אַף עַל פִּי שֶׁאֵין רוּבָּהּ שֶׁל אוֹתָהּ שָׂדֶה שׁוֹתָה, כֵּיוָן דְּקָא מָשְׁכָא וְאָתְיָא, מֵימָר אָמַר: אִי לָא שָׁתְיָא לְחַד יוֹמָא — תִּשְׁתֵּי לִתְרֵי וּתְלָתָא יוֹמֵי.
 > **Translation:** **Rav Pappa said: And this** allowance applies only **when the majority of that field can be irrigated from that water channel,** such that most of the field can be irrigated at the same time. In this case, there is no concern that when the water runs out, he will come to exert himself and irrigate the rest of the field from another source of water. **Rav Ashi said:** It applies **even though the majority of that field cannot be irrigated** from that water channel at the same time. **Since** the channel **continuously draws** water, constantly replenishing its supply, even if it does so at a slow rate, one will **say** to himself that even **if** the entire field **cannot be irrigated** from that water channel **on a single day, it can be irrigated** from it **over** the course of **two or three days.** Accordingly, he will not find it necessary to exert himself to quickly irrigate that portion of the field that did not already receive its water.
 
-Rav Pappa qualifies this leniency: the water channel renders the pools permissible only if the majority of the field can be watered from the channel water itself. The logic is that if the channel provides enough water to irrigate most of the field, then even if the collected water in the pools is depleted, there is no concern that one will resort to drawing water from their depths. The channel remains a sufficient supply, and one need not worry that the depletion of the pools will necessitate the laborious raising of water.
+### Continuous Flow Leniency
+
 
 Rav Ashi goes further. Even if the channel water does not cover the majority of the field, it is permissible provided the water flows continuously through the channel. The reasoning: since the channel is constantly replenishing, a person will simply wait for the next day's flow rather than resort to drawing from the depleted pool. *Ilo shatya le-chad yoma tishatya le-trei ve-tlasa yomei* — if it cannot be watered today, it will be watered in two or three days. The continuous flow of the channel provides sufficient psychological and practical assurance that one will not be driven to the effort of *mei kilon*.
 
 ### Dripping Well
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: בְּרֵיכָה שֶׁנּוֹטֶפֶת מַיִם מִשְּׂדֵה בֵּית הַשְּׁלָחִין זוֹ — מוּתָּר לְהַשְׁקוֹת מִמֶּנָּה שְׂדֵה בֵּית הַשְּׁלָחִין אַחֶרֶת.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: בְּרֵיכָה שֶׁנּוֹטֶפֶת מַיִם מִשְּׂדֵה בֵּית הַשְּׁלָחִין זוֹ — מוּתָּר לְהַשְׁקוֹת מִמֶּנָּה שְׂדֵה בֵּית הַשְּׁלָחִין אַחֶרֶת.
 > **Translation:** **The Sages taught** in a *baraita*: With regard to **a pool** that receives **drips** of **water from this field that requires irrigation,** which itself receives water from a spring, **one is permitted to irrigate from** this pool **another field** situated below it **that requires irrigation.**
 
 Another *baraita*: if a well (*breichah*) drips water from one field of *beit hashalachin* into another, one may water the second field from it. The case is a stepped terrain: a spring waters the upper field; runoff from the upper field collects in a pool between the fields; the lower field draws from this pool. This is permitted because the pool is continuously replenished — it is dripping water tracing back ultimately to a living spring.
 
 ### Dripping Ongoing
 
-> **Hebrew/Aramaic:** וְהָא עֲבִידָא דְּפָסְקָא! אָמַר רַבִּי יִרְמְיָה: וַעֲדַיִין הִיא מְטַפְטֶפֶת. אָמַר אַבָּיֵי: וְהוּא שֶׁלֹּא פָּסַק מַעְיָין רִאשׁוֹן.
->
-> **Translation:** The Gemara asks: **But isn't** the pool **likely to stop flowing,** which will force him to exert himself and draw water from somewhere else? **Rabbi Yirmeya said:** The case is where the upper field **is still trickling** water into the pool and does not stop. **Abaye said: And this** allowance applies only **when** the water from **the first spring** that irrigates the upper field **has not stopped** flowing. Only in that case can one rely on the water trickling from the upper field and consequently irrigating the lower field from the pool.
-
 Rabbi Yirmiyah qualifies: this is permitted only so long as the dripping is actually ongoing at the time of watering. If the dripping has stopped, the pool becomes purely collected water with no active replenishment, and one may not draw from it.
+
+### Upper Spring Flowing
+
+> **Hebrew/Aramaic:** וְהָא עֲבִידָא דְּפָסְקָא! אָמַר רַבִּי יִרְמְיָה: וַעֲדַיִין הִיא מְטַפְטֶפֶת. אָמַר אַבָּיֵי: וְהוּא שֶׁלֹּא פָּסַק מַעְיָין רִאשׁוֹן.
+> **Translation:** The Gemara asks: **But isn’t** the pool **likely to stop flowing,** which will force him to exert himself and draw water from somewhere else? **Rabbi Yirmeya said:** The case is where the upper field **is still trickling** water into the pool and does not stop. **Abaye said: And this** allowance applies only **when** the water from **the first spring** that irrigates the upper field **has not stopped** flowing. Only in that case can one rely on the water trickling from the upper field and consequently irrigating the lower field from the pool.
 
 Abaye adds a further condition: not only must the dripping from the upper field into the pool be ongoing, but the spring itself that waters the upper field must also continue to flow. The permission rests on the entire chain remaining active — spring to upper field to dripping pool to lower field. If the spring has ceased, the chain is broken and the pool loses its character as an extension of living water. The conceptual framework, as Abaye frames it, is that the entire system is treated as an extension of the original spring — which is why it is permissible. If that original source has dried up, the permission collapses.
 
@@ -220,51 +233,53 @@ Abaye adds a further condition: not only must the dripping from the upper field 
 
 ## Field Labor Prohibitions
 
+
+
 ### Vegetable Hauling
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַדְלִין לִירָקוֹת כְּדֵי לְאוֹכְלָן, וְאִם בִּשְׁבִיל לְיַיפּוֹתָן — אָסוּר.
->
+> **Hebrew/Aramaic:** תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר: שְׁתֵּי עֲרוּגוֹת זוֹ לְמַעְלָה מִזּוֹ — לֹא יִדְלֶה מִן הַתַּחְתּוֹנָה וְיַשְׁקֶה אֶת הָעֶלְיוֹנָה. יוֹתֵר עַל כֵּן אָמַר רַבִּי אֶלְעָזָר בַּר שִׁמְעוֹן: אֲפִילּוּ עֲרוּגָה אַחַת חֶצְיָהּ נָמוּךְ וְחֶצְיָהּ גָּבוֹהַּ — לֹא יִדְלֶה מִמָּקוֹם נָמוּךְ וְיַשְׁקֶה לְמָקוֹם גָּבוֹהַּ.
+> **Translation:** **It is taught** in a *baraita* that **Rabbi Shimon ben Menasya says:** With regard to **two garden beds** located **one above the other, one may not draw** water **from** the channel supplying **the lower** garden bed in order **to irrigate the upper** garden bed, due to the excessive exertion involved. **Furthermore, Rabbi Elazar bar Shimon said: Even** in the case of **a single garden bed, half of which is lower and half of which is higher, one may not draw** water **from the** channel supplying **the lower area to irrigate the upper area,** even though they are two parts of the same garden bed.
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַדְלִין לִירָקוֹת כְּדֵי לְאוֹכְלָן, וְאִם בִּשְׁבִיל לְיַיפּוֹתָן — אָסוּר.
 > **Translation:** **The Sages taught** in a *baraita*: **One may draw** water and irrigate **vegetables in order to eat them** on the intermediate days of a Festival. **But if** he does this **in order** to improve their growth and **to enhance their** appearance **it is prohibited,** as he is considered to be unnecessarily exerting himself on the Festival.
 
 A *baraita* teaches: one may not draw water (*madlin*) for vegetables in order to make them more beautiful, but may do so in order to eat them — preserving them from spoilage being a case of *mekom hefsed*. This appears to create a tension with what has been established: we have seen that substantial *tircha* is forbidden even in cases of *mekom hefsed*. How, then, can drawing water for vegetables be permitted even in the case of preservation?
 
 ### Dragging Water Story
 
-> **Hebrew/Aramaic:** רָבִינָא וְרַבָּה תּוֹסְפָאָה הֲווֹ קָא אָזְלִי בְּאוֹרְחָא. חֲזוֹ לְהָהוּא גַּבְרָא דַּהֲוָה דָּלֵי דַּוְולָא בְּחוּלָּא דְּמוֹעֲדָא, אֲמַר לֵיהּ רַבָּה תּוֹסְפָאָה לְרָבִינָא: לֵיתֵי מָר לְשַׁמְּתֵיהּ. אֲמַר לֵיהּ: וְהָתַנְיָא: מַדְלִין לִירָקוֹת כְּדֵי לְאוֹכְלָן. אֲמַר לֵיהּ: מִי סָבְרַתְּ מַאי ״מַדְלִין״ — מַדְלִין מַיָּא?
->
-> **Translation:** The Gemara relates that **Ravina and Rabba Tosefa'a were** once **walking along the road** when **they saw a certain man that was drawing** water **with a bucket on the intermediate days of a Festival. Rabba Tosefa'a said to Ravina: Let the Master come and excommunicate him** for transgressing the words of the Sages. Ravina **said to him: But isn't it taught** in a *baraita*: **One may draw for vegetables in order to eat them,** and so he has not committed a transgression. Rabba Tosefa'a **said to him: Do you maintain** that **what is** meant by **one may draw** [***madlin***] **is** that **one may draw water** in order to irrigate the vegetables? This is not so. Rather, **what is** meant by
+> **Hebrew/Aramaic:** רָבִינָא וְרַבָּה תּוֹסְפָאָה הֲווֹ קָא אָזְלִי בְּאוֹרְחָא. חֲזוֹ לְהָהוּא גַּבְרָא דַּהֲוָה דָּלֵי דַּוְולָא בְּחוּלָּא דְּמוֹעֲדָא, אֲמַר לֵיהּ רַבָּה תּוֹסְפָאָה לְרָבִינָא: לֵיתֵי מָר לְשַׁמְּתֵיהּ. אֲמַר לֵיהּ: וְהָתַנְיָא: מַדְלִין לִירָקוֹת כְּדֵי לְאוֹכְלָן. אֲמַר לֵיהּ: מִי סָבְרַתְּ מַאי ״מַדְלִין״ — מַדְלִין מַיָּא? מַאי
+> **Translation:** The Gemara relates that **Ravina and Rabba Tosefa’a were** once **walking along the road** when **they saw a certain man that was drawing** water **with a bucket on the intermediate days of a Festival. Rabba Tosefa’a said to Ravina: Let the Master come and excommunicate him** for transgressing the words of the Sages. Ravina **said to him: But isn’t it taught** in a *baraita*: **One may draw for vegetables in order to eat them,** and so he has not committed a transgression. Rabba Tosefa’a **said to him: Do you maintain** that **what is** meant by **one may draw** [***madlin***] **is** that **one may draw water** in order to irrigate the vegetables? This is not so. Rather, **what is** meant by
+
 
 An incident is recounted. Ravina and Rabba Tosfah were walking along the road when they saw a man drawing water on *chol hamoed* — precisely the scenario the *mishnah* prohibits. Rabba Tosfah said to Ravina: why does the master not go and put him in *cherem*, or at least rebuke him? Ravina demurred, citing the *baraita* — *madlin liyerakot kedei lochlan*, one may draw water for vegetables in order to eat them — and the man appeared to be engaged in that permitted activity.
 
+[DAF:4b]
 ### Madlin = Thinning
 
-> **Hebrew/Aramaic:** ״מַדְלִין״ — שַׁלּוֹפֵי. כְּדִתְנַן: הַמֵּידֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵידֵל בְּשֶׁלּוֹ — כָּךְ הוּא מֵידֵל בְּשֶׁל עֲנִיִּים, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי מֵאִיר אוֹמֵר: בְּשֶׁלּוֹ רַשַּׁאי, וְאֵינוֹ רַשַּׁאי בְּשֶׁל עֲנִיִּים.
->
-> **Translation:** **one may draw** is that **one may pull out** some of the vegetables that are growing densely together. The *baraita* comes to teach that one is permitted to thin out a garden bed on the intermediate days of a Festival in order to eat on the Festival those that he removes, but he is prohibited to do so in order to enhance the appearance of those that remain. **As we learned** in a mishna (*Pe'a* 7:5): **One who thins out [*meidel*] the vines** in his vineyard, **just as he may thin out his own** vines, **so too, he may thin out** the vines set aside for **the poor.** Since he is doing it for the sake of the vines, he may also thin out what he leaves for the poor; this is **the statemen**t **of Rabbi Yehuda. Rabbi Meir** disagrees and **says: His own** vines **he is permitted** to thin out, **but he is not permitted** to thin out the vines set aside **for the poor.** This mishna indicates that the term *meidel* can be used to mean thinning out and does not refer only to drawing water.
+> **Hebrew/Aramaic:** ״מַדְלִין״ — שַׁלּוֹפֵי. כְּדִתְנַן: הַמֵּידֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵידֵל בְּשֶׁלּוֹ — כָּךְ הוּא מֵידֵל בְּשֶׁל עֲנִיִּים, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי מֵאִיר אוֹמֵר: בְּשֶׁלּוֹ רַשַּׁאי, וְאֵינוֹ רַשַּׁאי בְּשֶׁל עֲנִיִּים.
+> **Translation:** **one may draw** is that **one may pull out** some of the vegetables that are growing densely together. The *baraita* comes to teach that one is permitted to thin out a garden bed on the intermediate days of a Festival in order to eat on the Festival those that he removes, but he is prohibited to do so in order to enhance the appearance of those that remain. **As we learned** in a mishna (*Pe’a* 7:5): **One who thins out [*meidel*] the vines** in his vineyard, **just as he may thin out his own** vines, **so too, he may thin out** the vines set aside for **the poor.** Since he is doing it for the sake of the vines, he may also thin out what he leaves for the poor; this is **the statemen**t **of Rabbi Yehuda. Rabbi Meir** disagrees and **says: His own** vines **he is permitted** to thin out, **but he is not permitted** to thin out the vines set aside **for the poor.** This mishna indicates that the term *meidel* can be used to mean thinning out and does not refer only to drawing water.
 
-Rabba Tosfah then reinterprets the *baraita* entirely. When it says *madlin liyerakot* — he argued — it does not mean drawing water at all. *Madlin* here means *shalufi*: thinning out the vegetables — removing some plants so that the others grow more vigorously. This is demonstrated from a *mishnah* that uses the same root: *ha-madu ba-gefanim* — one who thins out the vines so the remaining ones grow better. Just as that *mishnah* discusses removing some growth to benefit the rest, so too our *baraita* permits thinning vegetables on *chol hamoed* when done for the sake of preservation and consumption — but drawing water is forbidden even in a case of *mekom hefsed*, because the *tircha* is too substantial.
+Rabba Tosfah then reinterprets the *baraita* entirely. When it says *madlin liyerakot* — he argued — it does not mean drawing water at all. *Madlin* here means *shalufi*: thinning out the vegetables — removing some plants so that the others grow more vigorously. This is demonstrated from a *mishnah* that uses the same root: *ha-madu ba-gefanim* — one who thins out the vines so the remaining ones grow better. That *mishnah* itself contains a debate: Rabbi Yehudah holds, *keshem shehu madu beshelo kach hu madu beshel aniyim* — just as you may thin out your own vines to encourage their growth, you may do the same for the section belonging to the poor, such as *peah*, *peret*, or *olelot*, since the intent is to benefit the crop's growth and you cannot simply leave the poor man's portion untouched at the expense of the harvest. Rabbi Meir, however, holds *beshelo hu rashai veino rashai beshel aniyim* — you have that discretion in your own portion but not in the poor's portion. The substance of that debate need not detain us here; what matters is that both opinions use the root *madu* to mean thinning out, not drawing water, and this is therefore the natural meaning of the term — not a forced reading. Just as that *mishnah* discusses removing some growth to benefit the rest, so too our *baraita* permits thinning vegetables on *chol hamoed* when done for the sake of preservation and consumption — but drawing water is forbidden even in a case of *mekom hefsed*, because the *tircha* is too substantial.
 
 ### Conflicting Baraita
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ, וְהָתַנְיָא: מַדְלִין מַיִם לִירָקוֹת כְּדֵי לְאוֹכְלָן! אֲמַר לֵיהּ: אִי תַּנְיָא — תַּנְיָא.
->
-> **Translation:** Ravina **said to** Rabba Tosefa'a: **But wasn't it** explicitly **taught** in a *baraita*: **One may draw water** to irrigate **vegetables in order to eat them?** Rabba Tosefa'a **said to him: If it is taught** explicitly in a *baraita*, the *halakha* is as **it is taught,** and I retract my statement.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ, וְהָתַנְיָא: מַדְלִין מַיִם לִירָקוֹת כְּדֵי לְאוֹכְלָן! אֲמַר לֵיהּ: אִי תַּנְיָא — תַּנְיָא.
+> **Translation:** Ravina **said to** Rabba Tosefa’a: **But wasn’t it** explicitly **taught** in a *baraita*: **One may draw water** to irrigate **vegetables in order to eat them?** Rabba Tosefa’a **said to him: If it is taught** explicitly in a *baraita*, the *halakha* is as **it is taught,** and I retract my statement.
 
 Rabba Tosfah's response to Ravina prompts a further challenge: there is another *baraita* that explicitly says *madlin mayim liyerakot kedei lochlan* — drawing *water* for vegetables. The word *mayim* cannot be reinterpreted away. Ravina's response is simple: *i tanya, tanya* — if a *baraita* says it, then it says it. He concedes the point. Thus, there may be a case where drawing water for vegetables in order to preserve them for eating is permitted, perhaps because the quantity of water involved is smaller and the *tircha* correspondingly less — though the full parameters remain somewhat unclear.
 
 ### Furrow-Making Ban
 
-> **Hebrew/Aramaic:** וְאֵין עוֹשִׂין עוּגִיּוֹת לַגְּפָנִים. מַאי עוּגִיּוֹת? אָמַר רַב יְהוּדָה: בַּנְכֵּי. תַּנְיָא נָמֵי הָכִי: אֵלּוּ הֵן עוּגִיּוֹת — בְּדִידִין שֶׁבְּעִיקָּרֵי זֵיתִים וְשֶׁבְּעִיקָּרֵי גְפָנִים.
->
+> **Hebrew/Aramaic:** וְאֵין עוֹשִׂין עוּגִיּוֹת לַגְּפָנִים. מַאי עוּגִיּוֹת? אָמַר רַב יְהוּדָה: בַּנְכֵּי. תַּנְיָא נָמֵי הָכִי: אֵלּוּ הֵן עוּגִיּוֹת — בְּדִידִין שֶׁבְּעִיקָּרֵי זֵיתִים וְשֶׁבְּעִיקָּרֵי גְפָנִים.
 > **Translation:** § It was taught in the mishna: **And one may not construct circular ditches [*ugiyyot*]** around the bases of **grapevines** on the intermediate days of a Festival. The Gemara asks: **What are *ugiyyot*? Rav Yehuda said:** They are what are called in Aramaic ***binkei*,** circular ditches around vines. The Gemara notes that **this is also taught** in a *baraita*: **These are *ugiyyot*: *Bedidin*,** circular ditches **around the bases of olive trees and around the bases of grapevines.**
+
 
 The *mishnah* prohibits making circular furrows (*ugiyot*) around vines and olive trees. Rav Yehuda identifies these as *banki* — the circular depressions dug around the roots of trees to collect irrigation water. A *baraita* confirms: these are the *dedidin* at the roots of olive trees and vines that collect water. Such furrows constitute new agricultural construction that falls within prohibited *tircha*.
 
 ### Old vs New Furrows
 
-> **Hebrew/Aramaic:** אִינִי? וְהָא רַב יְהוּדָה שְׁרָא לִבְנֵי בַּר צֵיתַאי לְמֶעְבַּד בַּנְכֵּי לְכַרְמֵיהוֹן! לָא קַשְׁיָא הָא בְּחַדְתֵי, הָא בְּעַתִּיקֵי.
->
-> **Translation:** The Gemara asks: **Is that so?** Is it prohibited to dig circular ditches on the intermediate days of the Festival? **Didn't Rav Yehuda permit the family of bar Tzitai to construct circular ditches for their vineyards** on the intermediate days of a Festival? The Gemara answers: This is **not difficult. This** source, i.e., the mishna that renders the practice prohibited, is referring to digging **new** ditches. **That** other source, i.e., Rav Yehuda's ruling that permits the digging of such ditches, is referring to **old** ones, which merely need to be cleared.
+> **Hebrew/Aramaic:** אִינִי? וְהָא רַב יְהוּדָה שְׁרָא לִבְנֵי בַּר צֵיתַאי לְמֶעְבַּד בַּנְכֵּי לְכַרְמֵיהוֹן! לָא קַשְׁיָא הָא בְּחַדְתֵי, הָא בְּעַתִּיקֵי.
+> **Translation:** The Gemara asks: **Is that so?** Is it prohibited to dig circular ditches on the intermediate days of the Festival? **Didn’t Rav Yehuda permit the family of bar Tzitai to construct circular ditches for their vineyards** on the intermediate days of a Festival? The Gemara answers: This is **not difficult. This** source, i.e., the mishna that renders the practice prohibited, is referring to digging **new** ditches. **That** other source, i.e., Rav Yehuda’s ruling that permits the digging of such ditches, is referring to **old** ones, which merely need to be cleared.
 
 An apparent contradiction arises: Rav Yehuda himself is reported to have permitted the people of *Bar Tzaita* to make such furrows for their vineyards on *chol hamoed*. The *gemara* resolves this: the *baraita* was speaking of new furrows (*chadte*), while Rav Yehuda's permission concerned old furrows (*atike*) — repairing or restoring furrows that had collapsed. Fixing what was previously in place is categorically less burdensome than constructing new ones from scratch, and the *gemara* here treats the distinction between repair and new construction as decisive.
 
@@ -272,13 +287,14 @@ An apparent contradiction arises: Rav Yehuda himself is reported to have permitt
 
 ## Canal Making Rules
 
+
+
 ### R. Elazar Prohibition
 
-> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר: אֵין עוֹשִׂין אֶת הָאַמָּה. בִּשְׁלָמָא מוֹעֵד — מִשּׁוּם דְּקָא טָרַח, אֶלָּא שְׁבִיעִית מַאי טַעְמָא?
->
-> **Translation:** § It was taught in the next clause of the mishna that **Rabbi Elazar ben Azarya says: One may not construct a new** water **channel** during the intermediate days of a Festival or during the Sabbatical Year. The Gemara asks: **Granted,** it is prohibited for him to do so on the intermediate days of **a Festival, because** in so doing **he** excessively **exerts himself** on the Festival. **But what is the reason** that this is prohibited during **the Sabbatical Year,** when only labors that enhance the growth of plants are prohibited?
-
 Rabbi Elazar ben Azarya states: one may not make a water channel (*amah*) either on *shemita* or on *chol hamoed*. Both periods are included in his prohibition.
+
+> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר: אֵין עוֹשִׂין אֶת הָאַמָּה. בִּשְׁלָמָא מוֹעֵד — מִשּׁוּם דְּקָא טָרַח, אֶלָּא שְׁבִיעִית מַאי טַעְמָא?
+> **Translation:** § It was taught in the next clause of the mishna that **Rabbi Elazar ben Azarya says: One may not construct a new** water **channel** during the intermediate days of a Festival or during the Sabbatical Year. The Gemara asks: **Granted,** it is prohibited for him to do so on the intermediate days of **a Festival, because** in so doing **he** excessively **exerts himself** on the Festival. **But what is the reason** that this is prohibited during **the Sabbatical Year,** when only labors that enhance the growth of plants are prohibited?
 
 ### Rabbis' Leniency
 
@@ -286,21 +302,26 @@ The *chachamim* disagree on both counts. By *shemita*, they permit making a chan
 
 ### Oder vs Fitness
 
-> **Hebrew/Aramaic:** פְּלִיגוּ בַּהּ רַבִּי זֵירָא וְרַבִּי אַבָּא בַּר מֶמֶל. חַד אָמַר: מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר. וְחַד אָמַר: מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה.
->
-> **Translation:** The Gemara answers: **Rabbi Zeira and Rabbi Abba bar Memel disagreed with regard to this** issue. **One** of them **said:** It is prohibited **because it appears** to others **as if he were hoeing** his field. As onlookers do not know that he is merely digging a water channel, they suspect him of working his land during the Sabbatical Year. **And** the other **one said:** It is prohibited **because he** thereby **prepares** the channel's **banks for planting,** for when he digs out the channel, he piles the fresh soil that is fit for planting on its two banks.
 
 The *gemara* accepts without difficulty that the prohibition on *chol hamoed* is due to *tircha* — digging a channel is backbreaking labor and there is no question it falls within the prohibited category. The more interesting question is why Rabbi Elazar ben Azarya prohibits making a channel on *shemita*. After all, one is not actually working the field in the conventional sense — the channel may serve any number of purposes, including conveying water for drinking or household use, not agricultural irrigation. Two possible rationales are proposed.
 
 ### Two Rationales
 
+> **Hebrew/Aramaic:** פְּלִיגוּ בַּהּ רַבִּי זֵירָא וְרַבִּי אַבָּא בַּר מֶמֶל. חַד אָמַר: מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר. וְחַד אָמַר: מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה.
+> **Translation:** The Gemara answers: **Rabbi Zeira and Rabbi Abba bar Memel disagreed with regard to this** issue. **One** of them **said:** It is prohibited **because it appears** to others **as if he were hoeing** his field. As onlookers do not know that he is merely digging a water channel, they suspect him of working his land during the Sabbatical Year. **And** the other **one said:** It is prohibited **because he** thereby **prepares** the channel’s **banks for planting,** for when he digs out the channel, he piles the fresh soil that is fit for planting on its two banks.
+
 Rabbi Zeira and Rabbi Abba bar Mammel debate the point. One says the prohibition is because it *looks* like *oder* — working the ground to help things grow. When a person is seen digging in a field on *shemita*, observers will assume he is loosening the earth to aid plant growth, even if that is not his intention. The second says the prohibition is because the activity *renders the banks fit for planting* (*machshir agapeha lezri'ah*): as you dig a channel and heap dirt along its banks, that newly-turned earth — especially once water begins flowing and moistening it — becomes remarkably fertile ground, prepared as if for planting.
 
 ### Water Flow Factor
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּקָא אָתוּ מַיָּא בָּתְרֵיהּ. מַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה — אִיכָּא, וּמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר — לֵיכָּא.
->
-> **Translation:** The Gemara asks: **What is** the practical halakhic difference **between them?** The Gemara answers: **There is** a practical halakhic difference **between them** in a case where **water comes** into the channel immediately **after he** digs it out. According to **the one who said** that digging a water channel is prohibited **because he** thereby **prepares its banks for planting, there is** still a prohibition, as here too, he piles the fresh soil on the channel's banks. **But** according to **the one who said** it is prohibited **because it appears as if he were hoeing, there is no** prohibition here, as the immediate entry of water makes it obvious that he is digging a water channel.
+> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּקָא אָתוּ מַיָּא בָּתְרֵיהּ. מַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה — אִיכָּא, וּמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר — לֵיכָּא.
+> **Translation:** The Gemara asks: **What is** the practical halakhic difference **between them?** The Gemara answers: **There is** a practical halakhic difference **between them** in a case where **water comes** into the channel immediately **after he** digs it out. According to **the one who said** that digging a water channel is prohibited **because he** thereby **prepares its banks for planting, there is** still a prohibition, as here too, he piles the fresh soil on the channel’s banks. **But** according to **the one who said** it is prohibited **because it appears as if he were hoeing, there is no** prohibition here, as the immediate entry of water makes it obvious that he is digging a water channel.
+
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר, לֵיחוּשׁ מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה? אֶלָּא, אִיכָּא בֵּינַיְיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ וְשָׁדֵי לְבָרַאי. לְמַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה — לֵיכָּא. לְמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר — אִיכָּא.
+> **Translation:** The Gemara asks: **But according to the one who said** that digging a water channel is prohibited **because it appears as if he were hoeing, let him be concerned that** the digger thereby **prepares** the channel’s **banks for planting** and render digging prohibited in this case as well. **Rather,** the matter must be explained differently, such that **there is** a practical difference **between them** in a case **where he takes** the earth that he excavates **from** the channel **and throws** it a considerable distance **outside. According to the one who said** that it is prohibited **because he** thereby **prepares** the channel’s **banks for planting, there is no** prohibition here, as he does not prepare them for planting. But **according to the one who said** it is prohibited **because it appears as if he were hoeing, there is** a prohibition here, as here too, it appears as if he were hoeing.
+
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה, לֵיחוּשׁ מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר! עוֹדֵר נָמֵי, כִּי קָא שָׁקֵיל, בְּדוּכְתֵּיהּ מַנַּח לֵיהּ.
+> **Translation:** The Gemara asks: **But according to the one who said** that digging a water channel is prohibited **because he** thereby **prepares its banks for planting, let him be concerned that** the digger **appears as if he were hoeing.** The Gemara answers that this is not a concern, because it is **also** true of **one who hoes** that **when he takes** up a clump of earth, he **puts it down** again **in its place.** Consequently, since one throws the dug-up earth far away, it is immediately apparent that he is not engaged in hoeing but is rather digging a water channel.
 
 The *gemara* explores how these two rationales diverge in practice. If, immediately upon completing the channel, water begins flowing through it: according to the rationale of *machshir agapeha lezri'ah* — making the banks fit for planting — this is all the more concerning, since the water immediately moistens and enriches the banks. But according to the rationale of *nireh ke'oder* — looking like you are working the ground — this is less of a concern, since the area you just dug is immediately flooded; it does not *look* like you are cultivating it for growth. Conversely, if the dirt is thrown far away from the channel: according to *machshir agapeha lezri'ah*, this eliminates the concern, since there are no loose mounds of fertile earth deposited along the banks. According to *nireh ke'oder*, it remains a problem — the act of digging in the field still looks like *avodas karka* even if the dirt is removed.
 
@@ -308,9 +329,8 @@ The *gemara* presses further: if each rationale creates its own set of concerns,
 
 ### Oder Contradiction
 
-> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר, לֵיחוּשׁ מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה? אֶלָּא, אִיכָּא בֵּינַיְיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ וְשָׁדֵי לְבָרַאי. לְמַאן דְּאָמַר מִפְּנֵי שֶׁמַּכְשִׁיר אֲגַפֶּיהָ לִזְרִיעָה — לֵיכָּא. לְמַאן דְּאָמַר מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר — אִיכָּא.
->
-> **Translation:** The Gemara asks: **But according to the one who said** that digging a water channel is prohibited **because it appears as if he were hoeing, let him be concerned that** the digger thereby **prepares** the channel's **banks for planting** and render digging prohibited in this case as well. **Rather,** the matter must be explained differently, such that **there is** a practical difference **between them** in a case **where he takes** the earth that he excavates **from** the channel **and throws** it a considerable distance **outside. According to the one who said** that it is prohibited **because he** thereby **prepares** the channel's **banks for planting, there is no** prohibition here, as he does not prepare them for planting. But **according to the one who said** it is prohibited **because it appears as if he were hoeing, there is** a prohibition here, as here too, it appears as if he were hoeing.
+> **Hebrew/Aramaic:** אַמֵּימָר מַתְנֵי לַהּ מִפְּנֵי שֶׁנִּרְאֶה כְּעוֹדֵר, וְקַשְׁיָא לֵיהּ דְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אַדְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה: וּמִי אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה כׇּל שֶׁנִּרְאֶה כְּעוֹדֵר אָסוּר?
+> **Translation:** **Ameimar would teach** this mishna as stating explicitly that Rabbi Elazar ben Azarya says that one may not dig a new water channel during the Sabbatical Year **because it appears as if he were hoeing** his field, **and he** therefore found **a difficulty between** this statement of **Rabbi Elazar ben Azarya and** another statement of **Rabbi Elazar ben Azarya.** The difficulty is as follows: **Did Rabbi Elazar ben Azarya** actually **say** that **any** action **that** causes him to **appear as if he were hoeing is prohibited?**
 
 *Ameimar* teaches that in his version of the *mishnah*, Rabbi Elazar ben Azarya's prohibition is explicitly grounded in *nireh ke'oder* — it looks like working the ground. *Ameimar* himself then faces a contradiction within Rabbi Elazar ben Azarya's own rulings: if Rabbi Elazar ben Azarya forbids anything that resembles *oder*, how does he permit — as we will see — digging a pit in the field during *shemita* to store excrement?
 
@@ -318,34 +338,38 @@ The *gemara* presses further: if each rationale creates its own set of concerns,
 
 ## Excrement Handling
 
+
+
 ### Excrement Collection
 
-> **Hebrew/Aramaic:** עוֹשֶׂה אָדָם אֶת זִבְלוֹ אוֹצָר. רַבִּי מֵאִיר אוֹסֵר, עַד שֶׁיַּעֲמִיק שְׁלֹשָׁה טְפָחִים, אוֹ עַד שֶׁיַּגְבִּיהַּ שְׁלֹשָׁה טְפָחִים. הָיָה לוֹ דָּבָר מוּעָט — מוֹסִיף עָלָיו וְהוֹלֵךְ.
->
-> **Translation:** **A person** may pile **his manure** in his field during the Sabbatical Year so that it **becomes a storage** heap, and there is no cause for concern that it may appear as if he were fertilizing his field. **Rabbi Meir prohibits** this **unless he deepens** the storage area for the manure **three handbreadths** below the ground **or raises** it **three handbreadths** above the surface of the ground, so that it does not appear as if he were fertilizing his field. If **he** already **had a small amount** of manure in that heap from before the Sabbatical Year, **he may continue to add to it,** and there is no need for concern.
-
 The *mishnah* takes up the question of collecting animal excrement (*zeivel*) during *shemita*. One's animals continue to produce excrement throughout the sabbatical year, and the owner wishes to collect and preserve it as fertilizer for future use. But gathering excrement in one's field and piling it there looks very much like fertilizing — a prohibited agricultural act. How may one proceed?
+
+### Permissive View
 
 The first view, apparently held by the *tanna kamma*, is simply that one may collect the excrement without restriction. No special precautions are required; the act of collecting is not itself forbidden.
 
 ### R. Meir Methods
 
+> **Hebrew/Aramaic:** וּרְמִינְהִי: עוֹשֶׂה אָדָם אֶת זִבְלוֹ אוֹצָר. רַבִּי מֵאִיר אוֹסֵר, עַד שֶׁיַּעֲמִיק שְׁלֹשָׁה טְפָחִים, אוֹ עַד שֶׁיַּגְבִּיהַּ שְׁלֹשָׁה טְפָחִים. הָיָה לוֹ דָּבָר מוּעָט — מוֹסִיף עָלָיו וְהוֹלֵךְ.
+> **Translation:** One may **raise a contradiction** to this assertion from a mishna (*Shevi’it* 3:3) that states: **A person** may pile **his manure** in his field during the Sabbatical Year so that it **becomes a storage** heap, and there is no cause for concern that it may appear as if he were fertilizing his field. **Rabbi Meir prohibits** this **unless he deepens** the storage area for the manure **three handbreadths** below the ground **or raises** it **three handbreadths** above the surface of the ground, so that it does not appear as if he were fertilizing his field. If **he** already **had a small amount** of manure in that heap from before the Sabbatical Year, **he may continue to add to it,** and there is no need for concern.
+
+
 Rabbi Meir is stricter. He requires one of the following measures to make clear that the activity is collection, not fertilization. Either one must dig a pit three *tefachim* deep and deposit the excrement therein, so that it is visibly being stored underground rather than spread on the field. Or the pile must reach a height of three *tefachim* above ground level, making it obvious that this is a heap of stored material rather than material being worked into the soil. A third option: if one already had a small pile of excrement before *shemita* began, one may continue adding to it, since observers will understand from the existing pile that storage, not fertilization, is the purpose.
 
 ### R. Elazar Methods
 
-> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹסֵר עַד שֶׁיַּעְמִיק שְׁלֹשָׁה אוֹ עַד שֶׁיַּגְבִּיהַּ שְׁלֹשָׁה, אוֹ עַד שֶׁיִּתֵּן עַל הַסֶּלַע!
->
+> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹסֵר עַד שֶׁיַּעְמִיק שְׁלֹשָׁה אוֹ עַד שֶׁיַּגְבִּיהַּ שְׁלֹשָׁה, אוֹ עַד שֶׁיִּתֵּן עַל הַסֶּלַע!
 > **Translation:** **Rabbi Elazar ben Azarya prohibits** piling his manure in his field **unless he deepens** the storage area for the manure **three** handbreadths below the surface of the ground, **or he raises** it **three** handbreadths **above** the surface, **or he places** it **on a rock.** In any event, it seems that according to Rabbi Elazar ben Azarya, it is permitted for him to dig a hole in the ground in order to deposit his manure there, even though he might appear to be hoeing the ground.
 
 Rabbi Elazar ben Azarya's position largely parallels Rabbi Meir's — requiring either a pit three *tefachim* deep, a pile three *tefachim* high, or an existing pile — but he adds the option of placing the excrement on a rock, which obviously cannot be construed as fertilizing soil.
 
 ### Context Clarity
 
-> **Hebrew/Aramaic:** רַבִּי זֵירָא וְרַבִּי אַבָּא בַּר מֶמֶל, חַד אָמַר: כְּגוֹן שֶׁהֶעֱמִיק, וְחַד אָמַר: זִיבְלוֹ מוֹכִיחַ עָלָיו.
->
+> **Hebrew/Aramaic:** רַבִּי זֵירָא וְרַבִּי אַבָּא בַּר מֶמֶל, חַד אָמַר: כְּגוֹן שֶׁהֶעֱמִיק, וְחַד אָמַר: זִיבְלוֹ מוֹכִיחַ עָלָיו.
 > **Translation:** **Rabbi Zeira and Rabbi Abba bar Memel** both offered resolutions to this difficulty: **One** of them **said:** The case in this second mishna is one **where he** had already **deepened** the three-handbreadth pit during the sixth year. **And** the other **one said: His** pile of **manure is proof** that he intends merely to bury the manure and not to hoe the field.
 
 This creates a direct tension with *Ameimar*'s formulation that Rabbi Elazar ben Azarya forbids anything that appears like *oder*. If he prohibits digging a channel because it *looks* like working the ground, how does he permit digging a pit in the field on *shemita*? Two resolutions are offered. The first: Rabbi Elazar ben Azarya never permits digging a new pit on *shemita* — the *mishnah*'s scenario is that the pit already existed before *shemita*, and one is simply depositing excrement into a pre-existing excavation.
+
+### Excrement as Proof
 
 The second and simpler resolution: when one is visibly moving excrement — when the excrement itself is present and observable — the context makes the purpose of the digging self-evident. Nobody watching a person carry excrement into a pit will think he is working the ground for agricultural purposes; the excrement itself explains everything. By contrast, digging a channel with no such visual context leaves observers with no reason to conclude anything other than that one is cultivating the land. The excrement functions as proof — *zivla mokhiah aleh* — that the digging is for storage and not for *oder*. One might then ask whether the same contextual logic could be applied to the channel case — surely there is some context there as well — but the *gemara* implies that the visual immediacy of excrement is qualitatively different from the more ambiguous setting of channel-digging.

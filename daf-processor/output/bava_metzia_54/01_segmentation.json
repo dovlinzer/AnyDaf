@@ -86,7 +86,7 @@
           "timestamp": "20:31"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -100,7 +100,7 @@
           "timestamp": "18:44"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 9,
       "matched": false
     },
     {
@@ -1021,5 +1021,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "29:57",
+  "amud_b_micro_title": "Terumah Proof",
+  "shiur_start_daf": 54,
+  "shiur_start_amud": "a"
 }

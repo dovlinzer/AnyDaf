@@ -1,0 +1,275 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Mishna: Mechubar",
+    "candidates": [
+      "Previous Materials",
+      "Mishna: Mechubar",
+      "R. Meir vs. R. Yehuda",
+      "R. Y. ben Beteira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna stating that one may not write a get on something attached to the ground, with the bedi'avad exception, which matches perfectly with the 'Mishna: Mechubar' section's prose about ein kotvin bimchubar lekarka and the kasher ruling \u2014 the Rabbi Yehuda opinion at the end of the mishna quote belongs to the next section but the whole mishna text is canonically placed under heading 1.",
+      "chosen_heading": "Mishna: Mechubar",
+      "current_heading": "Mishna: Mechubar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "R. Y. ben Beteira",
+    "candidates": [
+      "R. Meir vs. R. Yehuda",
+      "R. Y. ben Beteira",
+      "Tofes vs. Toref"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda ben Beteira's ruling about erased paper and diftera being forgeable, which is precisely what candidate 1's prose discusses in detail.",
+      "chosen_heading": "R. Y. ben Beteira",
+      "current_heading": "R. Y. ben Beteira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Tofes vs. Toref",
+    "candidates": [
+      "Tofes vs. Toref",
+      "R. Yehuda vs. R. Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's statement that the mishna is valid only when one left a place for the toref (attributed to Shmuel, Rabbi Oshaya, and Rabbi Yochanan) and identify this with Rabbi Elazar's position of eidei mesira kartei \u2014 exactly the content described in the 'Tofes vs. Toref' prose.",
+      "chosen_heading": "Tofes vs. Toref",
+      "current_heading": "Tofes vs. Toref",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "R. Yehuda vs. R. Lakish",
+    "candidates": [
+      "R. Yehuda vs. R. Lakish",
+      "Why Mechubar Invalid",
+      "Pottery vs. Leaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the two competing interpretations of the mishna \u2014 Rabbi Yochanan's reading (tofes/toref distinction) and Reish Lakish's reading (eidei chatima kartei) \u2014 which is precisely what the 'R. Yehuda vs. R. Lakish' section prose describes in detail.",
+      "chosen_heading": "R. Yehuda vs. R. Lakish",
+      "current_heading": "R. Yehuda vs. R. Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Pottery vs. Leaf",
+    "candidates": [
+      "Why Mechubar Invalid",
+      "Pottery vs. Leaf",
+      "Abaye vs. Rava",
+      "Tosafot Questions",
+      "Kinyan Agav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the pottery-vs-leaf case with the Abaye/Rava dispute, which is precisely what the 'Pottery vs. Leaf' section's prose describes \u2014 the kasher ruling for pottery and the dispute over the leaf \u2014 making it the best match over the 'Abaye vs. Rava' section which covers only the reasoning behind the dispute.",
+      "chosen_heading": "Pottery vs. Leaf",
+      "current_heading": "Pottery vs. Leaf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Kinyan Agav",
+    "candidates": [
+      "Abaye vs. Rava",
+      "Tosafot Questions",
+      "Kinyan Agav",
+      "Chazaka on Seeds",
+      "Chazaka on Pot Fails",
+      "Nikvu vs. Nofu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the kinyan rules for acquiring a perforated pot and its plants \u2014 covering meshichah vs. chazakah, and the kinyan agav principle \u2014 which is precisely what the 'Kinyan Agav' section's prose describes.",
+      "chosen_heading": "Kinyan Agav",
+      "current_heading": "Kinyan Agav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Nikvu vs. Nofu",
+    "candidates": [
+      "Chazaka on Seeds",
+      "Chazaka on Pot Fails",
+      "Nikvu vs. Nofu",
+      "Baraita: Half/Half",
+      "Foliage Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the Abaye/Rava dispute about nikvo vs. nofu and the clarification that they only disagree in the case of lo ashrush, which is precisely what the 'Nikvu vs. Nofu' section's prose describes.",
+      "chosen_heading": "Nikvu vs. Nofu",
+      "current_heading": "Nikvu vs. Nofu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Foliage Defense",
+    "candidates": [
+      "Baraita: Half/Half",
+      "Foliage Defense",
+      "Rock Divides Roots",
+      "Mixed Nutrients"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge from the two-gardens mishna and its resolution distinguishing ownership from ma'asrot status, which is precisely what the 'Foliage Defense' section's prose describes.",
+      "chosen_heading": "Foliage Defense",
+      "current_heading": "Foliage Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Mixed Nutrients",
+    "candidates": [
+      "Rock Divides Roots",
+      "Mixed Nutrients",
+      "Three Leathers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rock Divides Roots",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Yehuda's point about filling the lower garden with earth) is a closing remark on the previous topic about who controls the vegetables, and belongs under 'Rock Divides Roots' only tangentially \u2014 but more precisely it wraps up the prior dispute, while items 2\u20136 form a self-contained unit about the tree spanning Eretz Yisrael and chutz la'aretz, which is the content discussed under 'Mixed Nutrients'.",
+      "second_heading": "Mixed Nutrients",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 constitute the complete baraita-challenge and its resolution regarding a tree with roots divided between Eretz Yisrael and chutz la'aretz, culminating in the avira-mivalbel dispute, which is exactly what the 'Mixed Nutrients' prose describes.",
+      "current_heading": "Mixed Nutrients",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Three Leathers",
+    "candidates": [
+      "Three Leathers",
+      "R. Y. ben B. Rejects",
+      "Chachamim Allow",
+      "R. Elazar: Time Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items classify the three stages of leather (matza, \u1e25ifa, diftera) with their Shabbat carrying measures, which is precisely what the 'Three Leathers' section prose describes.",
+      "chosen_heading": "Three Leathers",
+      "current_heading": "Three Leathers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "R. Elazar: Time Limit",
+    "candidates": [
+      "R. Y. ben B. Rejects",
+      "Chachamim Allow",
+      "R. Elazar: Time Limit",
+      "Kinyan vs. Rayah",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together cover exactly what candidate 1 ('Chachamim Allow') discusses: identifying the Rabbis as holding eidei mesira kartei (items 1-2) and then Rabbi Elazar's immediate-testimony qualification with Rabbi Yochanan's dissent (items 3-4), which the prose of candidate 1 introduces and candidate 2 elaborates \u2014 but the passage's primary content (who are the Chachamim and why they permit it) matches candidate 1's prose most directly, and the current placement under 'R. Elazar: Time Limit' already covers the same material in its own prose, suggesting the passage was shifted one heading too late.",
+      "chosen_heading": "Chachamim Allow",
+      "current_heading": "R. Elazar: Time Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "R. Yochanan",
+    "candidates": [
+      "Kinyan vs. Rayah",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Elazar's limitation of the permit to gitten and Rabbi Yochanan's extension to other documents with the verse interpreted as mere good advice \u2014 are explicitly discussed and analyzed in the 'R. Yochanan' prose section, which is the current placement.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "R. Yochanan",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Na'al, Gadar, Paratz",
+    "candidates": [
+      "Na'al, Gadar, Paratz",
+      "Lock Gate Debate",
+      "Natan/Natal Tzror"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under heading 0 ('Na'al, Gadar, Paratz') explicitly discusses Shmuel's formulation about completing a fence to ten handbreadths and widening a breach, then works through the exact same question-and-answer analysis about the fence (easy vs. difficult to climb) and the breach (easy vs. difficult to pass through) that appears in all three items.",
+      "chosen_heading": "Na'al, Gadar, Paratz",
+      "current_heading": "Na'al, Gadar, Paratz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Natan/Natal Tzror",
+    "candidates": [
+      "Lock Gate Debate",
+      "Natan/Natal Tzror",
+      "Mavriach Ari",
+      "Two Fields, Metzar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's question 'mai natan u'mai natal' and its resolution (the mavriach ari rejection followed by the correct irrigation cases), which is precisely what the 'Natan/Natal Tzror' prose describes \u2014 the gemara asking what 'placed' and 'removed' mean and rejecting the flood-prevention reading as mavriach ari.",
+      "chosen_heading": "Natan/Natal Tzror",
+      "current_heading": "Natan/Natal Tzror",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Two Fields, Metzar",
+    "candidates": [
+      "Mavriach Ari",
+      "Two Fields, Metzar",
+      "Chazakah on Metzar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the ruling of Rav Asi in the name of Rabbi Yochanan about two fields with one boundary marker between them, which is precisely the topic described in the 'Two Fields, Metzar' prose section.",
+      "chosen_heading": "Two Fields, Metzar",
+      "current_heading": "Two Fields, Metzar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Chazakah on Metzar",
+    "candidates": [
+      "Chazakah on Metzar",
+      "Inner/Outer Houses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Zeira's and Rabbi Elazar's dilemmas about chazakah on a metzar (boundary) to acquire adjacent fields, which is precisely what the 'Chazakah on Metzar' prose section discusses in detail.",
+      "chosen_heading": "Chazakah on Metzar",
+      "current_heading": "Chazakah on Metzar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Inner/Outer Houses",
+    "candidates": [
+      "Inner/Outer Houses",
+      "Building Palterin",
+      "Adding Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Na\u1e25man/Rabba bar Avuh ruling about two houses one within the other, which is precisely what the 'Inner/Outer Houses' prose section describes in detail.",
+      "chosen_heading": "Inner/Outer Houses",
+      "current_heading": "Inner/Outer Houses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Adding Doors",
+    "candidates": [
+      "Building Palterin",
+      "Adding Doors",
+      "Tosafot Analysis",
+      "Siyud on Palterin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Talmudic text introducing the case of building large palaces on a ger's property, which is precisely what heading 0 'Building Palterin' introduces and discusses, not the explanation of why the door-installer acquires (which is the essay author's own prose analysis under heading 1).",
+      "chosen_heading": "Building Palterin",
+      "current_heading": "Adding Doors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Siyud on Palterin",
+    "candidates": [
+      "Tosafot Analysis",
+      "Siyud on Palterin",
+      "Amah & Keneged Hapetach",
+      "Matzia Matza'ot",
+      "Slave Chazakah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of finding a mansion (palterin) on hefker land and plastering it to acquire it, which is precisely what the 'Siyud on Palterin' section's prose discusses.",
+      "chosen_heading": "Siyud on Palterin",
+      "current_heading": "Siyud on Palterin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Slave Chazakah",
+    "candidates": [
+      "Amah & Keneged Hapetach",
+      "Matzia Matza'ot",
+      "Slave Chazakah",
+      "Benefit Framework",
+      "Shada Lifta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about slave chazakah and Rabbi Shimon's clarification regarding hagbahah, which is precisely what the 'Slave Chazakah' section's prose describes in detail.",
+      "chosen_heading": "Slave Chazakah",
+      "current_heading": "Slave Chazakah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Shada Lifta",
+    "candidates": [
+      "Benefit Framework",
+      "Shada Lifta",
+      "Pruning Dikla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the ruling of Rav Yirmeya Bira'a in the name of Rav Yehuda about throwing turnip seeds into crevices of hefker land not constituting chazakah, which is precisely what the 'Shada Lifta' section's prose describes and analyzes.",
+      "chosen_heading": "Shada Lifta",
+      "current_heading": "Shada Lifta",
+      "moved": false
+    }
+  }
+]

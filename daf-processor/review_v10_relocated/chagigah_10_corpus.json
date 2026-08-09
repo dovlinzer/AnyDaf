@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Flying in Air",
+    "candidates": [
+      "Flying in Air",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about 'heter nedarim porchin ba'avir' which is precisely what the 'Flying in Air' section's prose discusses in detail.",
+      "chosen_heading": "Flying in Air",
+      "current_heading": "Flying in Air",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Three Categories",
+      "Hein Vehen Gufei Torah",
+      "R. Eliezer: Yafla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose discusses: the three categories of Shabbat/chagigot/me'ilot as mountains suspended by a hair, contrasted with the well-grounded areas of monetary law, Temple service, purity laws, and forbidden relationships \u2014 all of which is the content of heading 0 ('Three Categories').",
+      "chosen_heading": "Three Categories",
+      "current_heading": "Three Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "R. Eliezer: Yafla",
+    "candidates": [
+      "Hein Vehen Gufei Torah",
+      "R. Eliezer: Yafla",
+      "R. Yehoshua: Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's baraita deriving heter nedarim from the double appearance of 'ki yafli,' which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "R. Eliezer: Yafla",
+      "current_heading": "R. Eliezer: Yafla",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "R. Yehoshua: Oath",
+    "candidates": [
+      "R. Yehoshua: Oath",
+      "R. Yitzchak: Generous",
+      "Chananya: Two Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua's derivation of heter nedarim from Psalms 95:11, which is precisely what the prose under heading 0 ('R. Yehoshua: Oath') discusses in detail.",
+      "chosen_heading": "R. Yehoshua: Oath",
+      "current_heading": "R. Yehoshua: Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Chananya: Two Parts",
+    "candidates": [
+      "R. Yitzchak: Generous",
+      "Chananya: Two Parts",
+      "Shmuel: Others Can"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Rabbi Yitzchak's statement (citing 'kol nediv libo') AND Chananya's statement, and candidate 0 ('R. Yitzchak: Generous') explicitly discusses both verses together in its prose, while candidate 1 focuses on Chananya's verse and the subsequent Gemara discussion about it \u2014 the passage as a whole (both sages' statements without the extended Gemara discussion) best fits under the heading that introduces Rabbi Yitzchak's derivation, since candidate 0's prose already anticipates both.",
+      "chosen_heading": "R. Yitzchak: Generous",
+      "current_heading": "Chananya: Two Parts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Shmuel: Others Can",
+    "candidates": [
+      "Chananya: Two Parts",
+      "Shmuel: Others Can",
+      "Pilpelta Hacharipta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Shmuel's derivation from 'lo yachel devaro' and Rava's endorsement that Shmuel's source has no refutation, which is precisely what the 'Shmuel: Others Can' section's prose describes.",
+      "chosen_heading": "Shmuel: Others Can",
+      "current_heading": "Shmuel: Others Can",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Pilpelta Hacharipta",
+    "candidates": [
+      "Pilpelta Hacharipta",
+      "Rabbinic Power",
+      "Torah SheBa'al Peh",
+      "Multiple Verses",
+      "Chofer Guma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's systematic refutation of each Tannaic derivation for heter nedarim (items 1-3) followed by the conclusion that Shmuel's derivation alone has no refutation and the peppercorn proverb (item 4), which is precisely what the 'Pilpelta Hacharipta' prose discusses in detail, including the specific challenges to Rabbi Eliezer, Rabbi Yehoshua, Chananya, and Shmuel's superiority.",
+      "chosen_heading": "Pilpelta Hacharipta",
+      "current_heading": "Pilpelta Hacharipta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Chofer Guma",
+    "candidates": [
+      "Rabbinic Power",
+      "Torah SheBa'al Peh",
+      "Multiple Verses",
+      "Chofer Guma",
+      "Melechet Machsheves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items discuss the case of Rabbi Abba's ruling about digging a hole for its dirt, the question of whether it follows Rabbi Shimon or Rabbi Yehuda, and the resolution via mekalkel \u2014 exactly what the 'Chofer Guma' prose describes.",
+      "chosen_heading": "Chofer Guma",
+      "current_heading": "Chofer Guma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Melechet Machsheves",
+    "candidates": [
+      "Melechet Machsheves",
+      "Unsatisfactory Answer",
+      "Vechagstem Oso"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of what 'mountains suspended by a hair' means and answer it with the concept of melechet machsheves, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Melechet Machsheves",
+      "current_heading": "Melechet Machsheves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Vechagstem Oso",
+    "candidates": [
+      "Unsatisfactory Answer",
+      "Vechagstem Oso",
+      "Chelev Chagi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Pappa/Abaye exchange about whether 'vechagosem' refers to an animal offering or merely celebration, which is precisely what the 'Vechagstem Oso' section's prose describes.",
+      "chosen_heading": "Vechagstem Oso",
+      "current_heading": "Vechagstem Oso",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Chelev Chagi",
+    "candidates": [
+      "Chelev Chagi",
+      "Gezeirah Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items trace the Gemara's chain of objections and responses around 'chelev chagi' \u2014 whether chag means festivity or sacrifice, whether the verse addresses Festival-time fats generally, and whether it adds a lav \u2014 which is precisely what the 'Chelev Chagi' prose describes.",
+      "chosen_heading": "Chelev Chagi",
+      "current_heading": "Chelev Chagi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Gezeirah Shava",
+    "candidates": [
+      "Gezeirah Shava",
+      "Verses Not Clear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the gezeirah shavah derivation using the shared term 'midbar' between Exodus and Amos, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Gezeirah Shava",
+      "current_heading": "Gezeirah Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Verses Not Clear",
+    "candidates": [
+      "Verses Not Clear",
+      "Verses Explicit",
+      "Shaliach Melacha",
+      "Michael's Transgression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why chagigah is 'like mountains suspended by a hair' \u2014 because one does not derive Torah law from Nevi'im/Ketuvim (divrei kabbalah), which is precisely what the prose in 'Verses Not Clear' discusses.",
+      "chosen_heading": "Verses Not Clear",
+      "current_heading": "Verses Not Clear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Michael's Transgression",
+    "candidates": [
+      "Verses Explicit",
+      "Shaliach Melacha",
+      "Michael's Transgression",
+      "Beam Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous dispute about why me'ilah laws are 'mountains suspended by a hair' \u2014 Rami bar \u1e24ama's answer about the shaliach case, the Gemara's challenge (zeh choteh vezeh mitchayev), and Rava's response about the verbal analogy from terumah \u2014 which exactly matches the prose of candidate 0 ('Verses Explicit'), not the current placement under candidate 2.",
+      "chosen_heading": "Verses Explicit",
+      "current_heading": "Michael's Transgression",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Beam Transfer",
+    "candidates": [
+      "Michael's Transgression",
+      "Beam Transfer",
+      "Gizbar Special Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items (Rava's baraita about the agent who misuses when owner remembers, Rav Ashi's challenge about spending consecrated money, and Rav Ashi's redirect to the beam/stone mishna) are precisely the content described in the 'Beam Transfer' prose section, which explicitly covers all three of these sub-arguments in sequence.",
+      "chosen_heading": "Beam Transfer",
+      "current_heading": "Beam Transfer",
+      "moved": false
+    }
+  }
+]

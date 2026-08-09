@@ -34,7 +34,7 @@
           "timestamp": "11:12"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -364,5 +364,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "20:04",
+  "amud_b_micro_title": "Mishnah & Baraita",
+  "shiur_start_daf": 30,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Other Categories",
+    "candidates": [
+      "Neder vs. Shvuah",
+      "Torah Examples",
+      "Chazal's Paradigm",
+      "Korban Model",
+      "Konam",
+      "Speech Acts",
+      "Lashon Yerushalmi",
+      "Geonic Approach",
+      "Pumbedita Theory",
+      "Textual Sources",
+      "Kinuyim Rule",
+      "Other Categories",
+      "Konam Variations",
+      "Purpose of Kinuyim",
+      "Modrani Mimcha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage directly states that substitutes for cherem, oaths, and nazirite vows carry the force of their standard counterparts, which is precisely what the 'Other Categories' section prose describes \u2014 the parallel extensions of the kinuyim principle to cherem, shvuah, and nezirut.",
+      "chosen_heading": "Other Categories",
+      "current_heading": "Other Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Modrani Mimcha",
+    "candidates": [
+      "Konam Variations",
+      "Purpose of Kinuyim",
+      "Modrani Mimcha",
+      "Variations",
+      "Menudeh Ani Lach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna about 'modrani mimcha', 'mufrashani mimcha', and 'meruchakani mimcha' with the she'ani ochel/to'em lach formulations, which is precisely what the 'Modrani Mimcha' section's prose describes.",
+      "chosen_heading": "Modrani Mimcha",
+      "current_heading": "Modrani Mimcha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Menudeh Ani Lach",
+    "candidates": [
+      "Variations",
+      "Menudeh Ani Lach",
+      "Yad Concept",
+      "Two Yad Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and translates the mishna's case of 'menudeh ani lach' and Rabbi Akiva's uncertain but stringent ruling, which is precisely what the 'Menudeh Ani Lach' section's prose discusses.",
+      "chosen_heading": "Menudeh Ani Lach",
+      "current_heading": "Menudeh Ani Lach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Two Yad Models",
+    "candidates": [
+      "Yad Concept",
+      "Two Yad Models",
+      "Listing Order",
+      "Heftzah vs. Nafsha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks why Nazir lists only its own category while Nedarim lists all four, which is precisely the question described in the 'Listing Order' section's prose.",
+      "chosen_heading": "Listing Order",
+      "current_heading": "Two Yad Models",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Heftzah vs. Nafsha",
+    "candidates": [
+      "Listing Order",
+      "Heftzah vs. Nafsha",
+      "Kinuyim First",
+      "Rashi's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items address why the mishna lists all four categories (neder/shvuah written together \u2192 teach two \u2192 teach all), which is precisely the content described in the 'Listing Order' prose about the Gemara's answer regarding neder and shvuah appearing in the same pasuk and the resulting full list.",
+      "chosen_heading": "Listing Order",
+      "current_heading": "Heftzah vs. Nafsha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Rashi's Solution",
+    "candidates": [
+      "Kinuyim First",
+      "Rashi's Solution",
+      "ABBA vs. ABAB",
+      "Avot Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-answer-question chain about why the mishna mentions kinuyim first but then gives examples of yadot first \u2014 exactly the structural puzzle described in candidate 0's prose about 'Kinuyim First,' while candidate 1 ('Rashi's Solution') covers the answer to this question which comes later.",
+      "chosen_heading": "Kinuyim First",
+      "current_heading": "Rashi's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Avot Examples",
+    "candidates": [
+      "ABBA vs. ABAB",
+      "Avot Examples",
+      "Nochlim Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the three classic ABBA examples from Masechet Shabbat (Madlikin, Tomnin, Isha yotzah), which is precisely what the 'Avot Examples' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Avot Examples",
+      "current_heading": "Avot Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Nochlim Example",
+    "candidates": [
+      "Nochlim Example",
+      "Wife Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the Bava Batra mishna about inheriting and bequeathing (nochlin u'manchilim), which is precisely the content described in the 'Nochlim Example' prose section.",
+      "chosen_heading": "Nochlim Example",
+      "current_heading": "Nochlim Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Wife Examples",
+    "candidates": [
+      "Wife Examples",
+      "Mincha Example",
+      "Korban Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is from Yevamot and discusses wives permitted to husbands but forbidden to yevamin and vice versa, which matches exactly the 'Wife Examples' prose describing the same mishna and its ABAB structure.",
+      "chosen_heading": "Wife Examples",
+      "current_heading": "Wife Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Korban Example",
+    "candidates": [
+      "Mincha Example",
+      "Korban Example",
+      "Bechor Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the oil/frankincense mishna (Menachot 59a) and the hagashah/tenufah mishna (Menachot 60a), but the oil/frankincense content is the primary focus of heading 0 ('Mincha Example'), and the passage begins there \u2014 the current placement under 'Korban Example' (index 1) only covers the second half, while heading 0's prose explicitly describes both the shemen/levonah distinction and the ABAB structure that matches the full quoted text.",
+      "chosen_heading": "Mincha Example",
+      "current_heading": "Korban Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Bechor Example",
+    "candidates": [
+      "Korban Example",
+      "Bechor Example",
+      "Length-Based Rule",
+      "No Fixed Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna from Bekhorot about firstborn status for inheritance versus pidyon haben, which is precisely what the 'Bechor Example' section's prose describes.",
+      "chosen_heading": "Bechor Example",
+      "current_heading": "Bechor Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "No Fixed Rule",
+    "candidates": [
+      "Length-Based Rule",
+      "No Fixed Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of the Gemara's argument: the length-based rule (item 1), the counterexample that refutes it (item 2), and the conclusion that there is no fixed rule plus the alternate explanation (item 3) \u2014 exactly what the 'No Fixed Rule' prose describes.",
+      "chosen_heading": "No Fixed Rule",
+      "current_heading": "No Fixed Rule",
+      "moved": false
+    }
+  }
+]

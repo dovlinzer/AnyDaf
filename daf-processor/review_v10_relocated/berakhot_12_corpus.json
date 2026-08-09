@@ -1,0 +1,593 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Emet VeYatziv & Ve'emuna",
+    "candidates": [
+      "Emet VeYatziv & Ve'emuna",
+      "Rashi: Morning/Evening",
+      "Bow Baruch Rise Shem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the teaching about Emet VeYatziv and Emet Ve'emuna, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Emet VeYatziv & Ve'emuna",
+      "current_heading": "Emet VeYatziv & Ve'emuna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Bow Baruch Rise Shem",
+    "candidates": [
+      "Rashi: Morning/Evening",
+      "Bow Baruch Rise Shem",
+      "Shmuel's Reasoning",
+      "Contradiction Resolution",
+      "Rav Sheshet's Practice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bow Baruch Rise Shem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the ruling about bowing at 'Baruch' and rising at God's Name, plus Shmuel's Scriptural reasoning \u2014 exactly what headings 1 and 2 discuss.",
+      "second_heading": "Contradiction Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 address the apparent contradiction from 'mipnei shemi' and its resolution, plus Shmuel's retelling to Chiyya bar Rav \u2014 the content of the 'Contradiction Resolution' prose.",
+      "current_heading": "Bow Baruch Rise Shem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Sheshet's Practice",
+    "candidates": [
+      "Shmuel's Reasoning",
+      "Contradiction Resolution",
+      "Rav Sheshet's Practice",
+      "Year-Round Formula",
+      "Ten Days Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Sheshet's bowing practice (like a cane) and rising practice (like a snake), which is precisely what candidate 2 'Rav Sheshet's Practice' discusses in its prose.",
+      "chosen_heading": "Rav Sheshet's Practice",
+      "current_heading": "Rav Sheshet's Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ten Days Changes",
+    "candidates": [
+      "Year-Round Formula",
+      "Ten Days Changes",
+      "Rabbi Eliezer Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the complete ruling \u2014 both the year-round formula and the ten-day exception \u2014 as a single statement by Rabbah bar \u1e24innana in the name of Rav, and candidate 0's prose explicitly frames it as introducing both the standard year-round formulations and sets up the exception, making it the natural home for this unified Talmudic quote rather than splitting it under the exception-only heading.",
+      "chosen_heading": "Year-Round Formula",
+      "current_heading": "Ten Days Changes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rabbi Eliezer Opinion",
+    "candidates": [
+      "Ten Days Changes",
+      "Rabbi Eliezer Opinion",
+      "Rav Yosef Rabbah Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar/Eliezer's opinion that saying ha'el haKadosh during the Aseret Yemei Teshuvah fulfills one's obligation, citing the same Isaiah verse discussed in the 'Rabbi Eliezer Opinion' prose, which is an exact match.",
+      "chosen_heading": "Rabbi Eliezer Opinion",
+      "current_heading": "Rabbi Eliezer Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Rav Yosef Rabbah Ruling",
+    "candidates": [
+      "Rav Yosef Rabbah Ruling",
+      "Tosafot Later Additions",
+      "Sinner for Not Praying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about the practical ruling regarding haMelech haKadosh and haMelech haMishpat during Aseret Yemei Teshuvah, which is precisely what the 'Rav Yosef Rabbah Ruling' prose describes.",
+      "chosen_heading": "Rav Yosef Rabbah Ruling",
+      "current_heading": "Rav Yosef Rabbah Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Sinner for Not Praying",
+    "candidates": [
+      "Tosafot Later Additions",
+      "Sinner for Not Praying",
+      "Torah Scholar Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the teaching about being called a sinner for failing to pray for another, which is precisely what the 'Sinner for Not Praying' section's prose discusses.",
+      "chosen_heading": "Sinner for Not Praying",
+      "current_heading": "Sinner for Not Praying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Torah Scholar Prayer",
+    "candidates": [
+      "Torah Scholar Prayer",
+      "Sin with Shame Forgiven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rava's ruling that one must make oneself ill over a Torah scholar in need of mercy, with the Gemara's sourcing from Saul and David \u2014 exactly what the 'Torah Scholar Prayer' prose describes.",
+      "chosen_heading": "Torah Scholar Prayer",
+      "current_heading": "Torah Scholar Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Sin with Shame Forgiven",
+    "candidates": [
+      "Sin with Shame Forgiven",
+      "Shaul Nov Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sin with Shame Forgiven",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the core teaching that one who sins and feels shame is forgiven, which matches heading 0's prose about that very ruling and its scriptural basis.",
+      "second_heading": "Shaul Nov Example",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins the Gemara's resolution via the Saul/Urim VeTummim case, which matches heading 1's prose exactly about Saul's omission of the Urim VeTummim as evidence of shame.",
+      "current_heading": "Sin with Shame Forgiven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Shaul Nov Example",
+    "candidates": [
+      "Shaul Nov Example",
+      "Bas Kol Shaul Chosen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why Shaul omitted the Urim VeTummim from his list \u2014 because he killed the people of Nov \u2014 which is precisely what the 'Shaul Nov Example' prose discusses.",
+      "chosen_heading": "Shaul Nov Example",
+      "current_heading": "Shaul Nov Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Bas Kol Shaul Chosen",
+    "candidates": [
+      "Bas Kol Shaul Chosen",
+      "Balak Inclusion Attempt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bas Kol Shaul Chosen",
+      "first_confidence": "high",
+      "first_reason": "Both items discuss proofs that Saul was pardoned by Heaven, matching the 'Bas Kol Shaul Chosen' prose exactly.",
+      "second_heading": "Balak Inclusion Attempt",
+      "second_confidence": "high",
+      "second_reason": "The closing sentence of item 2 ('The Gemara returns to the primary focus of the chapter, the recitation of Shema') signals a structural transition to the 'Balak Inclusion Attempt' section about Shema liturgy.",
+      "current_heading": "Bas Kol Shaul Chosen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Balak Inclusion Attempt",
+    "candidates": [
+      "Balak Inclusion Attempt",
+      "Torach Tzibur Rejection",
+      "Yetzias Mitzrayim Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in heading 0's prose \u2014 the proposal to include Parashat Balak in Shema \u2014 and the rejection reason (torach tzibur) is part of the same single Talmudic statement, so it belongs under the heading that introduces this teaching, not separated under heading 1.",
+      "chosen_heading": "Balak Inclusion Attempt",
+      "current_heading": "Balak Inclusion Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Yetzias Mitzrayim Sources",
+    "candidates": [
+      "Torach Tzibur Rejection",
+      "Yetzias Mitzrayim Sources",
+      "Moshe's Divisions Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous unit \u2014 the Gemara's question about the reason for proposing Parashat Balak, the rejection of the Yetzias Mitzrayim rationale, and Rabbi Yosei bar Avin's alternative answer \u2014 which corresponds precisely to what the 'Yetzias Mitzrayim Sources' prose describes.",
+      "chosen_heading": "Yetzias Mitzrayim Sources",
+      "current_heading": "Yetzias Mitzrayim Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Moshe's Divisions Rule",
+    "candidates": [
+      "Moshe's Divisions Rule",
+      "Tzitzit Five Things"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Moshe's Divisions Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the question-and-answer about why we can't excerpt just the single verse, resolved by the tradition about Moshe's divisions \u2014 exactly what heading 0's prose discusses.",
+      "second_heading": "Tzitzit Five Things",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens the new question about why Parashat Tzitzit was established, which is precisely the topic heading 1's prose introduces.",
+      "current_heading": "Moshe's Divisions Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Tzitzit Five Things",
+    "candidates": [
+      "Tzitzit Five Things",
+      "Three Explicit Elements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the five elements of Parashat Tzitzit as enumerated by Rabbi Yehuda bar \u1e24aviva, which is exactly what the 'Tzitzit Five Things' section's prose is introducing and discussing.",
+      "chosen_heading": "Tzitzit Five Things",
+      "current_heading": "Tzitzit Five Things",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Three Explicit Elements",
+    "candidates": [
+      "Three Explicit Elements",
+      "Three Hidden Elements",
+      "Achrei levavchem: Heresy",
+      "Lustful Thoughts Warning",
+      "Spiritual Adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly contrasts the three explicit elements (already covered in heading 0) with the three hidden/derived elements (minut, hirhur aveira, hirhur avoda zara), asking 'where do we derive' them \u2014 which is precisely what heading 1 'Three Hidden Elements' introduces.",
+      "chosen_heading": "Three Hidden Elements",
+      "current_heading": "Three Explicit Elements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Spiritual Adultery",
+    "candidates": [
+      "Three Hidden Elements",
+      "Achrei levavchem: Heresy",
+      "Lustful Thoughts Warning",
+      "Spiritual Adultery",
+      "Mishna Exodus Night",
+      "Rabbi Elazar Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all three elements (heresy, sexual transgression, idolatry) derived from the verse's three clauses, making it a single unified passage that belongs under the introductory 'Three Hidden Elements' heading rather than being split under any one of the three individual sub-headings.",
+      "chosen_heading": "Three Hidden Elements",
+      "current_heading": "Spiritual Adultery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rabbi Elazar Difficulty",
+    "candidates": [
+      "Mishna Exodus Night",
+      "Rabbi Elazar Difficulty",
+      "Ben Zoma Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text introduces the entire topic \u2014 mentioning the Exodus at night and Rabbi Elazar's statement \u2014 and belongs under 'Mishna Exodus Night,' which describes this exact Mishnah, rather than under a heading focused only on Rabbi Elazar's difficulty.",
+      "chosen_heading": "Mishna Exodus Night",
+      "current_heading": "Rabbi Elazar Difficulty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Ben Zoma Derivation",
+    "candidates": [
+      "Rabbi Elazar Difficulty",
+      "Ben Zoma Derivation",
+      "Mashiach Era Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ben Zoma's exact derivation from the verse about remembering the Exodus 'all the days of your life,' directly matching the prose of the 'Ben Zoma Derivation' section where the current placement is correct.",
+      "chosen_heading": "Ben Zoma Derivation",
+      "current_heading": "Ben Zoma Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Mashiach Era Dispute",
+    "candidates": [
+      "Mashiach Era Dispute",
+      "Yetzias Mitzrayim School"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Rabbis' interpretation of 'kol' as including the messianic era and Ben Zoma's challenge from Jeremiah \u2014 exactly the content described in candidate 0's prose about the Mashiach Era Dispute.",
+      "chosen_heading": "Mashiach Era Dispute",
+      "current_heading": "Mashiach Era Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Yetzias Mitzrayim School",
+    "candidates": [
+      "Yetzias Mitzrayim School",
+      "Parable Later Afflictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly correspond to the content described in candidate 0's prose: the Sages' response about Yetzias Mitzrayim being secondary, the Yaakov/Yisrael parallel, the Isaiah verse about rishonot/kadmoniyot, and Rav Yosef's identification of the war of Gog and Magog.",
+      "chosen_heading": "Yetzias Mitzrayim School",
+      "current_heading": "Yetzias Mitzrayim School",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Parable Later Afflictions",
+    "candidates": [
+      "Parable Later Afflictions",
+      "Avram to Avraham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the parable about the wolf, lion, and snake with the conclusion about Israel's later afflictions causing earlier ones to be forgotten, which is exactly what the prose under 'Parable Later Afflictions' describes and analyzes.",
+      "chosen_heading": "Parable Later Afflictions",
+      "current_heading": "Parable Later Afflictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Avram to Avraham",
+    "candidates": [
+      "Avram to Avraham",
+      "Sarai to Sarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the change from Avram to Avraham, explaining that av le'Aram became av hamon, which matches exactly the prose under heading 0.",
+      "chosen_heading": "Avram to Avraham",
+      "current_heading": "Avram to Avraham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Sarai to Sarah",
+    "candidates": [
+      "Sarai to Sarah",
+      "Bar Kappara: Avram Viol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the meaning of Sarai's name change to Sarah \u2014 princess of her nation becoming princess of the entire world \u2014 which is precisely what the 'Sarai to Sarah' section's prose describes.",
+      "chosen_heading": "Sarai to Sarah",
+      "current_heading": "Sarai to Sarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Bar Kappara: Avram Viol",
+    "candidates": [
+      "Bar Kappara: Avram Viol",
+      "Rabbi Eliezer Negative",
+      "Sarah Different Question",
+      "Specific Command Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bar Kappara: Avram Viol",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both bar Kappara's positive-mitzva ruling and Rabbi Eliezer's negative-mitzva ruling about calling Abraham 'Abram', which together form the complete teaching that heading 0's prose introduces (and heading 1's prose elaborates), but since heading 0 covers the whole bar Kappara baraita including Rabbi Eliezer's addition as part of the same unit, item 1 fits best under heading 0 where it currently sits.",
+      "second_heading": "Sarah Different Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of whether the same rules apply to calling Sarah 'Sarai', which is precisely what heading 2's prose describes as the follow-up question.",
+      "current_heading": "Bar Kappara: Avram Viol",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Specific Command Answer",
+    "candidates": [
+      "Rabbi Eliezer Negative",
+      "Sarah Different Question",
+      "Specific Command Answer",
+      "Jacob Name Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly answers the question about Sarah's name change by explaining that the command was addressed to Abraham alone (not a universal prohibition), which is precisely what the 'Specific Command Answer' prose describes.",
+      "chosen_heading": "Specific Command Answer",
+      "current_heading": "Specific Command Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Jacob Name Change",
+    "candidates": [
+      "Jacob Name Change",
+      "Yaakov: Biblical Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the rhetorical question about calling Jacob 'Jacob' \u2014 exactly the opening challenge the Gemara raises when turning to the Yaakov case, which is what heading 0's prose describes as its topic.",
+      "chosen_heading": "Jacob Name Change",
+      "current_heading": "Jacob Name Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Yaakov: Biblical Evidence",
+    "candidates": [
+      "Yaakov: Biblical Evidence",
+      "Avraham Yaakov Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes God reverting to calling Jacob 'Yaakov,' which matches exactly the prose in candidate 0 about the Gemara's answer regarding the verse that God Himself reverted to using the name Yaakov.",
+      "chosen_heading": "Yaakov: Biblical Evidence",
+      "current_heading": "Yaakov: Biblical Evidence",
+      "moved": false
+    }
+  }
+]

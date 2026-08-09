@@ -284,7 +284,7 @@
           "timestamp": "39:53"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -303,7 +303,7 @@
           "timestamp": "41:40"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 22,
       "matched": false
     }
   ],
@@ -560,5 +560,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "31:23",
+  "amud_b_micro_title": "Nations Mourn",
+  "shiur_start_daf": 90,
+  "shiur_start_amud": "b"
 }

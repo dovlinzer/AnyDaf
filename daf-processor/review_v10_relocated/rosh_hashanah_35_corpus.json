@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Daf Introduction",
+    "candidates": [
+      "Daf Introduction",
+      "Malchuyos Framework",
+      "Shofar Primary",
+      "Private Davening Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the gemara's inference from the mishna that when a shofar was available from the outset, one must hear the tekios in the order of the blessings \u2014 is precisely what the 'Shofar Primary' prose describes, including the exact Aramaic phrases tama/delo havei lei/ha havei lei/aseder brachot.",
+      "chosen_heading": "Shofar Primary",
+      "current_heading": "Daf Introduction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Private Davening Case",
+    "candidates": [
+      "Malchuyos Framework",
+      "Shofar Primary",
+      "Private Davening Case",
+      "Minyan Requirement",
+      "Hearing in Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa bar Shmuel rising to pray privately and arranging a signal for his attendant to blow shofar, which is exactly what the 'Private Davening Case' prose describes.",
+      "chosen_heading": "Private Davening Case",
+      "current_heading": "Private Davening Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Hearing in Order",
+    "candidates": [
+      "Minyan Requirement",
+      "Hearing in Order",
+      "Individual via Others",
+      "D'oraisa vs. D'rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita that the prose of candidate 0 explicitly quotes and discusses, covering both the \u1e25ever ir requirement and the order of blessings, while candidate 1's prose discusses subsequent content (individual vs. another blowing/blessing, and the village comparison).",
+      "chosen_heading": "Minyan Requirement",
+      "current_heading": "Hearing in Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "D'oraisa vs. D'rabbanan",
+    "candidates": [
+      "Individual via Others",
+      "D'oraisa vs. D'rabbanan",
+      "Rashi's Integration",
+      "Communal Prayer",
+      "Gamliel Position",
+      "Preparation Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly describes both the braita about choosing between tokein and mevarech towns AND the gemara's pshita challenge with its vadai/safek resolution \u2014 exactly matching both items \u2014 while candidate 1 (current placement) uses these items only as a springboard for the d'oraisa/d'rabbanan distinction discussion.",
+      "chosen_heading": "Individual via Others",
+      "current_heading": "D'oraisa vs. D'rabbanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Preparation Purpose",
+    "candidates": [
+      "Rashi's Integration",
+      "Communal Prayer",
+      "Gamliel Position",
+      "Preparation Purpose",
+      "Eino Baki Only",
+      "Gamliel's Response",
+      "Concession Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the back-and-forth exchange between the Rabbis and Rabban Gamliel that the 'Gamliel Position' prose explicitly introduces \u2014 the braita recording 'lidvarecha lamah tzibbur mispallelin' and Rabban Gamliel's answer about preparing the shliach tzibur, plus the counter-question about why the shliach tzibur descends before the ark \u2014 all of which is set up by candidate 2's prose as the central dispute of this section.",
+      "chosen_heading": "Gamliel Position",
+      "current_heading": "Preparation Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Concession Claim",
+    "candidates": [
+      "Eino Baki Only",
+      "Gamliel's Response",
+      "Concession Claim",
+      "Nachman's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly records the dispute between Rabbi Yochanan (chachamim concede) and Rav/Resh Lakish (adayin hi machloket), which is precisely what the 'Concession Claim' section's prose describes.",
+      "chosen_heading": "Concession Claim",
+      "current_heading": "Concession Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Nachman's Reading",
+    "candidates": [
+      "Nachman's Reading",
+      "Limited Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks whether Rabbi Yo\u1e25anan really said the Sages conceded, citing the ruling in favor of Rabban Gamliel as proof of ongoing dispute, which matches exactly what heading 0 ('Nachman's Reading') describes.",
+      "chosen_heading": "Nachman's Reading",
+      "current_heading": "Nachman's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Limited Scope",
+    "candidates": [
+      "Limited Scope",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Abba's explanation that the Sages concede to Rabban Gamliel only for Rosh Hashanah/Yom Kippur brachot (item 1) and the challenge from Rabbi \u1e24ana Tzippora'ah's tradition about Rabbi Yochanan's ruling (item 2), which is precisely the tension that candidate 1's prose resolves through Rav Nachman bar Yitzchak's reading \u2014 not the 'Limited Scope' prose of candidate 0, which describes Rabbi Chanah Tzippora'ah as the one providing the resolution rather than posing the difficulty.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Limited Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Limited Scope",
+      "Rabbi Meir Position",
+      "Ruling & Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Nachman bar Yitzchak's identification of Rabbi Meir as the one who concedes to Rabban Gamliel, which is precisely what the 'Rabbi Meir Position' prose describes as the resolution to the apparent contradiction in Rabbi Yochanan's statements.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ruling & Debate",
+    "candidates": [
+      "Ruling & Debate",
+      "Distinction Question",
+      "Many Verses",
+      "Verse Shortcut",
+      "Many Blessings",
+      "Verses Required?",
+      "Two Tracks",
+      "Three-Verse Link",
+      "Rashi's Reading",
+      "Musaf Verses",
+      "Rosh Chodesh Musaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about Rabbi Meir and the Rabbis disputing whether the prayer leader fulfills the obligation for the many on Rosh Hashana and Yom Kippur directly supports the 'Ruling & Debate' section's discussion of the active dispute between Rabbi Meir (supporting Rabban Gamliel) and the chachamim regarding individual obligation.",
+      "chosen_heading": "Ruling & Debate",
+      "current_heading": "Ruling & Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rosh Chodesh Musaf",
+    "candidates": [
+      "Distinction Question",
+      "Many Verses",
+      "Verse Shortcut",
+      "Many Blessings",
+      "Verses Required?",
+      "Two Tracks",
+      "Three-Verse Link",
+      "Rashi's Reading",
+      "Musaf Verses",
+      "Rosh Chodesh Musaf",
+      "Mental Ordering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'what is different about these blessings' (mai shna hani) and works through two answers \u2014 many verses vs. many blessings \u2014 which is precisely the 'Distinction Question' the prose of candidate 0 describes, not the 'Rosh Chodesh Musaf' section where it currently sits.",
+      "chosen_heading": "Distinction Question",
+      "current_heading": "Rosh Chodesh Musaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Mental Ordering",
+    "candidates": [
+      "Rosh Chodesh Musaf",
+      "Mental Ordering",
+      "Special Occasions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24ananel/Rav's ruling about saying 'And in Your Torah it is written, saying' being sufficient (without reciting the actual verses), and Rabbi Yehoshua ben Levi's extension of this to both individual and congregation \u2014 exactly what the 'Mental Ordering' prose describes when discussing the fallback option of relying on 'shuvah v'hashivah' for individual vs. congregation.",
+      "chosen_heading": "Mental Ordering",
+      "current_heading": "Mental Ordering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Special Occasions",
+    "candidates": [
+      "Special Occasions",
+      "Yehuda Exception",
+      "Monthly Davening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar's statement about arranging prayer and Rabbi Abba's qualification limiting it to Rosh Hashanah, Yom Kippur, and infrequent prayers, which is precisely what the 'Special Occasions' prose discusses.",
+      "chosen_heading": "Special Occasions",
+      "current_heading": "Special Occasions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Monthly Davening",
+    "candidates": [
+      "Yehuda Exception",
+      "Monthly Davening",
+      "Field Workers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains Rav Yehuda's exception (praying only once every thirty days, making each prayer like an infrequent/Yom Tov prayer), which is precisely what the 'Monthly Davening' prose describes, and the current placement is correct.",
+      "chosen_heading": "Monthly Davening",
+      "current_heading": "Monthly Davening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Field Workers",
+    "candidates": [
+      "Field Workers",
+      "City Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabban Gamliel's ruling about exempting field workers, which is exactly what the 'Field Workers' section's prose discusses, and the challenge about city dwellers (the 'needless to say' objection) is addressed in the next section's prose separately.",
+      "chosen_heading": "Field Workers",
+      "current_heading": "Field Workers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "City Objection",
+    "candidates": [
+      "City Objection",
+      "Necessity Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'City Objection': item 1 is the gemara's 'on the contrary' challenge about those in the fields being anusim vs. those in the city not being anusim, and item 2 is the baraita about those behind the kohanim not being included in the blessing \u2014 exactly the analogy the prose in heading 0 describes as illustrating why city-dwellers who choose not to come exclude themselves from communal prayer.",
+      "chosen_heading": "City Objection",
+      "current_heading": "City Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Necessity Criterion",
+    "candidates": [
+      "Necessity Criterion",
+      "Full Attendance",
+      "Communal Nature"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Necessity Criterion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Ravin/Rabbi Shimon Chasida ruling limiting Rabban Gamliel's exemption to field workers, which is precisely what the 'Necessity Criterion' prose discusses.",
+      "second_heading": "Communal Nature",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the closing Hadran formula ending the tractate, and the 'Communal Nature' prose explicitly quotes 'Hadran alach Yom Tov u'slika lah masechet Rosh Hashanah' as its concluding line, making it the structural home for this closing item.",
+      "current_heading": "Necessity Criterion",
+      "moved": true
+    }
+  }
+]

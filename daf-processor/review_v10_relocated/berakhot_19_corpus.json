@@ -1,0 +1,408 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "R. Yehoshua ben Levi",
+    "candidates": [
+      "R. Yehoshua ben Levi",
+      "Three Explicit Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehoshua ben Levi's statement about twenty-four places for niddui and Rabbi Elazar's question, which is precisely what the prose under heading 0 describes before mentioning Rabbi Elazar's search and findings.",
+      "chosen_heading": "R. Yehoshua ben Levi",
+      "current_heading": "R. Yehoshua ben Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Three Explicit Cases",
+    "candidates": [
+      "Three Explicit Cases",
+      "Akavya ben Mahalalel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly lists the three cases Rabbi Elazar found, which is precisely what the 'Three Explicit Cases' section's prose describes and analyzes.",
+      "chosen_heading": "Three Explicit Cases",
+      "current_heading": "Three Explicit Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Akavya ben Mahalalel",
+    "candidates": [
+      "Akavya ben Mahalalel",
+      "Elazar ben Chanoch",
+      "Choni HaMa'agel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Akavya ben Mahalalel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah passage about Akavya ben Mahalalel disparaging Shemaya and Avtalyon, which is the exact proof text discussed under heading 0 ('Akavya ben Mahalalel').",
+      "second_heading": "Elazar ben Chanoch",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the passage about Elazar ben Chanoch who demeaned hand-washing, which is precisely the case described under heading 1 ('Elazar ben Chanoch').",
+      "current_heading": "Akavya ben Mahalalel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Choni HaMa'agel",
+    "candidates": [
+      "Elazar ben Chanoch",
+      "Choni HaMa'agel",
+      "Tudos of Rome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly illustrates 'hamigis da'ato klapei ma'alah' through the Choni HaMe'aggel story with Shimon ben Shetach's message, which is precisely what the prose under heading 1 ('Choni HaMa'agel') discusses.",
+      "chosen_heading": "Choni HaMa'agel",
+      "current_heading": "Choni HaMa'agel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Tudos of Rome",
+    "candidates": [
+      "Tudos of Rome",
+      "Analogies to 24 Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Theodosius of Rome and Shimon ben Shata\u1e25's threat of excommunication over the roasted goats practice, which is exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Tudos of Rome",
+      "current_heading": "Tudos of Rome",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Analogies to 24 Cases",
+    "candidates": [
+      "Analogies to 24 Cases",
+      "Coffin Near Shema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara discussion about the oven of Achnai, its ostracism, and the resolution of how Rabbi Yehoshua ben Levi derives twenty-four cases by analogy \u2014 exactly what the 'Analogies to 24 Cases' prose describes.",
+      "chosen_heading": "Analogies to 24 Cases",
+      "current_heading": "Analogies to 24 Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Coffin Near Shema",
+    "candidates": [
+      "Coffin Near Shema",
+      "Before/Behind Coffin",
+      "Eulogizers Saying Shema",
+      "Onen & Tziduk HaDin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about not taking out the deceased near Shema time, the case of Rav Yosef, and the adam chashuv exception \u2014 exactly what the 'Coffin Near Shema' prose section discusses.",
+      "chosen_heading": "Coffin Near Shema",
+      "current_heading": "Coffin Near Shema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Onen & Tziduk HaDin",
+    "candidates": [
+      "Before/Behind Coffin",
+      "Eulogizers Saying Shema",
+      "Onen & Tziduk HaDin",
+      "Abaye's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the eulogizers' obligations regarding Shema (the baraita about slipping away one by one, sitting and reciting while the onen sits silently) and the tziduk hadin prayer, all of which is the content described in candidate 1 ('Eulogizers Saying Shema'), which discusses the full baraita including the onen's silence \u2014 the current placement under 'Onen & Tziduk HaDin' splits content that belongs together under the eulogizers heading.",
+      "chosen_heading": "Eulogizers Saying Shema",
+      "current_heading": "Onen & Tziduk HaDin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Abaye's Critique",
+    "candidates": [
+      "Onen & Tziduk HaDin",
+      "Abaye's Critique",
+      "Tziduk HaDin Meaning",
+      "Return from Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's warning about opening one's mouth to the Satan and Rav Yosef's proof-text from Isaiah about 'almost like Sodom' \u2014 are precisely what the 'Abaye's Critique' prose describes, making the current placement correct.",
+      "chosen_heading": "Abaye's Critique",
+      "current_heading": "Abaye's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Return from Burial",
+    "candidates": [
+      "Tziduk HaDin Meaning",
+      "Return from Burial",
+      "Shura Lines",
+      "R. Yehudah on Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the post-burial return and the question of whether mourners can begin and complete Shema before reaching the shura line, which is precisely what the 'Return from Burial' prose describes, including the Gemara's initial reading and harmonization about perek echad o pasuk echad.",
+      "chosen_heading": "Return from Burial",
+      "current_heading": "Return from Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "R. Yehudah on Intent",
+    "candidates": [
+      "Shura Lines",
+      "R. Yehudah on Intent",
+      "Shatnez Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraisa about inner/outer row visibility AND Rabbi Yehudah's opinion in one continuous text, and heading 0 ('Shura Lines') covers the full baraisa including Rabbi Yehudah's view, while heading 1 artificially isolates only Rabbi Yehudah's position \u2014 the passage as a whole belongs under the 'Shura Lines' heading which introduces the baraisa that encompasses both rulings.",
+      "chosen_heading": "Shura Lines",
+      "current_heading": "R. Yehudah on Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Shatnez Removal",
+    "candidates": [
+      "R. Yehudah on Intent",
+      "Shatnez Removal",
+      "Two Paths Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about discovering kilayim/shatnez in one's garment and the principle of chillul Hashem overriding kavod perfectly matches the 'Shatnez Removal' section's prose, which explicitly discusses this exact teaching from Rav Yehudah citing Rav.",
+      "chosen_heading": "Shatnez Removal",
+      "current_heading": "Shatnez Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Two Paths Case",
+    "candidates": [
+      "Two Paths Case",
+      "Beis HaPras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection about two paths (pure and impure) and asks why we don't invoke 'ein chochmah,' which is exactly what the 'Two Paths Case' prose describes.",
+      "chosen_heading": "Two Paths Case",
+      "current_heading": "Two Paths Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Beis HaPras",
+    "candidates": [
+      "Beis HaPras",
+      "R. Elazar bar Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss beit haperas \u2014 Rabbi Abba's explanation and the supporting rulings from Rav Yehuda/Shmuel and Rav Yehuda bar Ashi \u2014 which is precisely what the 'Beis HaPras' section prose covers in detail.",
+      "chosen_heading": "Beis HaPras",
+      "current_heading": "Beis HaPras",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "R. Elazar bar Tzadok",
+    "candidates": [
+      "R. Elazar bar Tzadok",
+      "Coffin Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar bar Tzadok's testimony about leaping over coffins to greet kings and raises the question of how this is permitted, which is precisely what the 'R. Elazar bar Tzadok' section's prose introduces before the answer is given in the 'Coffin Exception' section.",
+      "chosen_heading": "R. Elazar bar Tzadok",
+      "current_heading": "R. Elazar bar Tzadok",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Coffin Exception",
+    "candidates": [
+      "Coffin Exception",
+      "Kvod Overrides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rava's ruling about the handbreadth of space in coffins and the rabbinic decree waived for kings' honor, which is precisely what the 'Coffin Exception' prose elaborates in detail.",
+      "chosen_heading": "Coffin Exception",
+      "current_heading": "Coffin Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Kvod Overrides",
+    "candidates": [
+      "Kvod Overrides",
+      "Lo Tasur Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the broad principle 'great is human dignity as it overrides a prohibition in the Torah,' which is precisely what the prose under 'Kvod Overrides' discusses before raising the apparent contradiction with 'ein chochmah.'",
+      "chosen_heading": "Kvod Overrides",
+      "current_heading": "Kvod Overrides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Lo Tasur Framework",
+    "candidates": [
+      "Lo Tasur Framework",
+      "Rav Kahana's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav bar Shaba's interpretation before Rav Kahana and the students' laughter at the lo tassur explanation, which is exactly what heading 0's prose describes, while heading 1 covers the subsequent response and resolution by Rav Kahana himself.",
+      "chosen_heading": "Lo Tasur Framework",
+      "current_heading": "Lo Tasur Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rav Kahana's Response",
+    "candidates": [
+      "Rav Kahana's Response",
+      "Hashavat Aveidah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's direct reply about not laughing at a great man and the basis of rabbinic law on lo tassur, which is exactly what the 'Rav Kahana's Response' section's prose discusses in detail.",
+      "chosen_heading": "Rav Kahana's Response",
+      "current_heading": "Rav Kahana's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Hashavat Aveidah",
+    "candidates": [
+      "Hashavat Aveidah",
+      "Money vs. Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous baraita-based challenge and resolution about hashavat aveidah and kevod ha-briyos, which is precisely what heading 0's prose describes in detail, including the kohen/cemetery case, the zaken/dignity case, the 'shani hasam' answer, and the 'issura mi-mamona' rejection.",
+      "chosen_heading": "Hashavat Aveidah",
+      "current_heading": "Hashavat Aveidah",
+      "moved": false
+    }
+  }
+]

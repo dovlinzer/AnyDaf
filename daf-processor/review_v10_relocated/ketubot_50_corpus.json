@@ -1,0 +1,451 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Takanat Usha",
+    "candidates": [
+      "Mishnah Setup",
+      "Infants Exception",
+      "Takanat Usha",
+      "Ruling Status",
+      "Public Shaming",
+      "Marketplace Proclamation",
+      "Raven Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the Usha enactment and the dilemma about whether it is the halakha, which is precisely what the 'Takanat Usha' section's prose describes.",
+      "chosen_heading": "Takanat Usha",
+      "current_heading": "Takanat Usha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Raven Example",
+    "candidates": [
+      "Ruling Status",
+      "Public Shaming",
+      "Marketplace Proclamation",
+      "Raven Example",
+      "Tzedakah Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24isda's method of turning over a mortar in public and making a proclamation about the raven, which is the exact content described in the 'Marketplace Proclamation' section's prose, including the raven comparison \u2014 the raven challenge and resolution are part of that same narrative unit, not a separate section.",
+      "chosen_heading": "Marketplace Proclamation",
+      "current_heading": "Raven Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Tzedakah Mechanism",
+    "candidates": [
+      "Raven Example",
+      "Tzedakah Mechanism",
+      "Tosafot Analysis",
+      "Written Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's approach to compelling child support through shame and tzedakah coercion, including the wealthy/non-wealthy distinction and the Rav Natan bar Ami precedent \u2014 exactly what the 'Tzedakah Mechanism' prose describes.",
+      "chosen_heading": "Tzedakah Mechanism",
+      "current_heading": "Tzedakah Mechanism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Written Property",
+    "candidates": [
+      "Tosafot Analysis",
+      "Written Property",
+      "Widow Extension",
+      "Widow Lien"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the takanat Usha about one who writes all his property to his sons and the ruling that he and his wife are sustained from it, which is precisely what the 'Written Property' section's prose describes.",
+      "chosen_heading": "Written Property",
+      "current_heading": "Written Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Widow Lien",
+    "candidates": [
+      "Widow Extension",
+      "Widow Lien",
+      "Living vs. Dead"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Widow Extension",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Zeira's objection (the kal va-homer challenge) which belongs under 'Widow Extension' whose prose explicitly describes that exact challenge and its punchline.",
+      "second_heading": "Widow Lien",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 provide the background from Ravin's letter and the case of the daughter dying, which is exactly what 'Widow Lien' prose describes in detail.",
+      "current_heading": "Widow Lien",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Living vs. Dead",
+    "candidates": [
+      "Living vs. Dead",
+      "Grateful Man"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'lest you say' response distinguishing the widow case (no one to toil) from the living husband case (he can toil for himself and her), which is precisely what the 'Living vs. Dead' section's prose describes.",
+      "chosen_heading": "Living vs. Dead",
+      "current_heading": "Living vs. Dead",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Grateful Man",
+    "candidates": [
+      "Grateful Man",
+      "Ruling Question",
+      "20% Cap",
+      "Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of the grateful man and the Gemara's reasoning about whether Rabbi Yonatan's compulsion reflects lav dina, which is precisely what the 'Grateful Man' prose describes.",
+      "chosen_heading": "Grateful Man",
+      "current_heading": "Grateful Man",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rationale",
+    "candidates": [
+      "Ruling Question",
+      "20% Cap",
+      "Rationale",
+      "Excessive Giver",
+      "Verse Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Usha ordinance about not giving more than one-fifth, which is precisely what candidate 1 ('20% Cap') discusses as the third takanat Usha, while the current placement under 'Rationale' (candidate 2) covers the baraita's reasoning and candidate 3 covers the story \u2014 but the full passage includes all these elements and its opening statement matches candidate 1's prose most closely as the primary introduction of this takanah.",
+      "chosen_heading": "20% Cap",
+      "current_heading": "Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Verse Proof",
+    "candidates": [
+      "Excessive Giver",
+      "Verse Proof",
+      "Two Tithes",
+      "Chain Weakness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man/Rav A\u1e25a bar Ya'akov's derivation of the twenty-percent maximum from the doubled verb in Genesis 28:22, which is precisely what the 'Verse Proof' section's prose describes.",
+      "chosen_heading": "Verse Proof",
+      "current_heading": "Verse Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Chain Weakness",
+    "candidates": [
+      "Two Tithes",
+      "Chain Weakness",
+      "Tosafot Scope",
+      "Age 12"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Tithes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's resolution of the mathematical objection about the two tithes, which is precisely what candidate 0 'Two Tithes' discusses.",
+      "second_heading": "Chain Weakness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Shimi bar Ashi's observation about the decreasing transmission chains of the Usha takanos with the mnemonic, which is exactly what candidate 1 'Chain Weakness' discusses.",
+      "current_heading": "Chain Weakness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Age 12",
+    "candidates": [
+      "Tosafot Scope",
+      "Age 12",
+      "After 12",
+      "Age 6 School",
+      "Demanding vs. Force"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Usha enactment about treating a son gently until age twelve and the challenge from Rav's instruction to stuff students like an ox, which corresponds exactly to the 'Age 12' section's prose introducing the takana and the 'Age 6 School' section's prose \u2014 but since the full quoted text is a single continuous Gemara unit beginning with the Age 12 takana, and the current placement under 'Age 12' is where this passage starts, it belongs there as one unit under that heading.",
+      "chosen_heading": "Age 12",
+      "current_heading": "Age 12",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Demanding vs. Force",
+    "candidates": [
+      "After 12",
+      "Age 6 School",
+      "Demanding vs. Force",
+      "Age Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the resolution that one stuffs the student like an ox but does not descend into his life until after twelve years, and the Bible/Mishna distinction \u2014 exactly what the 'Demanding vs. Force' prose section describes.",
+      "chosen_heading": "Demanding vs. Force",
+      "current_heading": "Demanding vs. Force",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Age Timeline",
+    "candidates": [
+      "Age Timeline",
+      "Nursemaid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's teaching about age milestones (six for Bible, ten for Mishna, thirteen for fasting, twelve for girls), which is explicitly quoted and analyzed in the 'Age Timeline' prose section.",
+      "chosen_heading": "Age Timeline",
+      "current_heading": "Age Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Nursemaid",
+    "candidates": [
+      "Nursemaid",
+      "Weakness Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the scorpion/hornet sting remedies attributed to Abaye's foster mother, which matches exactly what heading 0's prose describes.",
+      "chosen_heading": "Nursemaid",
+      "current_heading": "Nursemaid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Weakness Paradox",
+    "candidates": [
+      "Weakness Paradox",
+      "Recovery Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ketina's statement about bringing children to school before age six, the physical weakening versus intellectual advancement paradox, and the reconciliation based on healthy vs. weak children \u2014 exactly what the 'Weakness Paradox' prose describes.",
+      "chosen_heading": "Weakness Paradox",
+      "current_heading": "Weakness Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Recovery Rights",
+    "candidates": [
+      "Recovery Rights",
+      "Ownership Fiction",
+      "Usha Leadership",
+      "Child Support Charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the statement of the takanat Usha about a woman selling nichsei melog and the incidental exchange about its attribution, which candidate 0's prose covers comprehensively, while candidate 2 only discusses the attribution exchange in isolation from the actual halakha.",
+      "chosen_heading": "Recovery Rights",
+      "current_heading": "Recovery Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Child Support Charity",
+    "candidates": [
+      "Ownership Fiction",
+      "Usha Leadership",
+      "Child Support Charity",
+      "Orphan Care",
+      "Torah Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both the question about performing tzedaka at all times and both interpretations (Rabbi Eliezer's about feeding children and Rabbi Shmuel bar Nahmani's about raising orphans), and the current placement's prose explicitly covers both interpretations together as part of the same derasha unit.",
+      "chosen_heading": "Child Support Charity",
+      "current_heading": "Child Support Charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Torah Wealth",
+    "candidates": [
+      "Orphan Care",
+      "Torah Wealth",
+      "Written Torah",
+      "Future Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both opinions of Rav Huna and Rav \u1e24isda together, and while the current heading 'Torah Wealth' covers the first opinion, the passage as a whole (including the scroll-writing opinion) is already placed there and that section's prose explicitly introduces both opinions as a pair under the 'hon va-osher' verse.",
+      "chosen_heading": "Torah Wealth",
+      "current_heading": "Torah Wealth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Future Generations",
+    "candidates": [
+      "Written Torah",
+      "Future Generations",
+      "No Disputes",
+      "Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua ben Levi's and Rabbi Shmuel bar Na\u1e25mani's interpretations of the verse, and the current placement under 'Future Generations' already incorporates both opinions in its prose, with the 'No Disputes' section separately discussing only Rabbi Shmuel bar Na\u1e25mani's variant \u2014 so the full passage belongs under heading 1 where both are treated together.",
+      "chosen_heading": "Future Generations",
+      "current_heading": "Future Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Objection",
+    "candidates": [
+      "No Disputes",
+      "Objection",
+      "Sons Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items (Rabbi Elazar's exposition and Rav Hamnuna's statement provoking universal clamor) are precisely what candidate 1's prose describes as the content at the top of 50b leading into the objection about whether sons inherit only from land.",
+      "chosen_heading": "Objection",
+      "current_heading": "Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Sons Ketubah",
+    "candidates": [
+      "Sons Ketubah",
+      "Real Estate Lien",
+      "Practical Reality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Hamnuna's confirmation ('you are a great scholar and you understood exactly what I was saying'), which is precisely what the 'Real Estate Lien' prose describes, while the current placement under 'Sons Ketubah' covers Rav Yosef's question \u2014 the exchange is split across two headings but this item (the confirmation) clearly belongs under heading 1.",
+      "chosen_heading": "Real Estate Lien",
+      "current_heading": "Sons Ketubah",
+      "moved": true
+    }
+  }
+]

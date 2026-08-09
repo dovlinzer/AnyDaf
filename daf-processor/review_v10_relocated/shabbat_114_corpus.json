@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Sancheriv Derasha",
+    "candidates": [
+      "Clothes & Kavod",
+      "Sancheriv Derasha",
+      "Priestly Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the three Tannaitic interpretations of 'v'tachat kevodo' regarding Sancheriv's army, which is precisely what the 'Sancheriv Derasha' prose describes in detail, including Rabbi Yochanan's reading tied to his clothing-as-kavod view, Rabbi Elazar's literal reading, and Rabbi Shmuel bar Na\u1e25mani's analogy to the sons of Aaron.",
+      "chosen_heading": "Sancheriv Derasha",
+      "current_heading": "Sancheriv Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Priestly Garments",
+    "candidates": [
+      "Priestly Garments",
+      "Derech Eretz",
+      "Patched Shoes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the single teaching of Rabbi A\u1e25a bar Abba in the name of Rabbi Yo\u1e25anan \u2014 the biblical derivation of changing clothes from the priestly verse plus the school of Rabbi Yishmael's elaboration \u2014 which is precisely what heading 0 ('Priestly Garments') describes in its prose.",
+      "chosen_heading": "Priestly Garments",
+      "current_heading": "Priestly Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Patched Shoes",
+    "candidates": [
+      "Derech Eretz",
+      "Patched Shoes",
+      "Extreme Poverty",
+      "Stains & Grease"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan's ruling about patched shoes and the clarification about Rabbi A\u1e25a bar \u1e24anina, which is precisely what the 'Patched Shoes' section prose introduces and discusses.",
+      "chosen_heading": "Patched Shoes",
+      "current_heading": "Patched Shoes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Stains & Grease",
+    "candidates": [
+      "Extreme Poverty",
+      "Stains & Grease",
+      "Revad vs Revav",
+      "Isaiah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the grease stain teaching (Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan) and Ravina's qualification about revad vs revav, and the current placement under 'Stains & Grease' already contains prose discussing both elements, making it the best single home for this unified Talmudic excerpt.",
+      "chosen_heading": "Stains & Grease",
+      "current_heading": "Stains & Grease",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Isaiah Example",
+    "candidates": [
+      "Revad vs Revav",
+      "Isaiah Example",
+      "Saddle Stains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi \u1e24iyya bar Abba's citation of Isaiah 20:3 and the interpretation of 'naked' as tattered clothing and 'barefoot' as patched shoes, which is exactly what the 'Isaiah Example' prose section describes.",
+      "chosen_heading": "Isaiah Example",
+      "current_heading": "Isaiah Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Saddle Stains",
+    "candidates": [
+      "Saddle Stains",
+      "Saddle Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about fat stains on saddles and garments with Rabban Shimon ben Gamliel's and Rabbi Yehuda/Yishmael's opinions, which is precisely what the 'Saddle Stains' prose describes and analyzes.",
+      "chosen_heading": "Saddle Stains",
+      "current_heading": "Saddle Stains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Saddle Question",
+    "candidates": [
+      "Saddle Question",
+      "Who is Talmid",
+      "Builders Derasha",
+      "Lost Objects",
+      "Appearance & Integrity",
+      "Community Support",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the exchange between Rabbi Shimon ben Lakish and Rabbi \u1e24anina about whether a saddle constitutes a chatzitza on one or both sides, which is exactly what the 'Saddle Question' prose describes.",
+      "chosen_heading": "Saddle Question",
+      "current_heading": "Saddle Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Who is Talmid",
+      "Builders Derasha",
+      "Lost Objects",
+      "Appearance & Integrity",
+      "Community Support",
+      "Three Categories",
+      "Olat Shabbat",
+      "Hierarchy Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Community Support",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are Rabbi Yochanan's series of definitions of 'who is a talmid chacham' for purposes of communal appointment and support, which belongs under 'Community Support' and the 'Three Categories' material \u2014 but specifically, items 1-2 cover the community support obligation and the parnas/rosh mesivta distinctions that heading 4's prose discusses, while item 3 is the Reish Lakish interpretation of banna'in as bath-attendants' garments and the Rabbi Yannai burial story, which is the concluding material described in heading 5's prose.",
+      "second_heading": "Three Categories",
+      "second_confidence": "high",
+      "second_reason": "Item 3 \u2014 Rabbi Shimon ben Lakish's interpretation of banna'in as ulairin garments and the resolution about red vs. white overgarments vs. undergarments \u2014 is precisely the content described at the end of the 'Three Categories' prose section.",
+      "current_heading": "Three Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Hierarchy Dispute",
+    "candidates": [
+      "Olat Shabbat",
+      "Hierarchy Dispute",
+      "Yom Tov Prep",
+      "Yom Kippur Friday"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita citing Rabbi Yishmael and Rabbi Akiva on 'olat Shabbat b'shabbato' teaching about the fats of Shabbat being offered on Yom Kippur, which is precisely what heading 0's prose describes, not the 'Hierarchy Dispute' prose of heading 1 which discusses the reasoning behind choosing one direction over the other.",
+      "chosen_heading": "Olat Shabbat",
+      "current_heading": "Hierarchy Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Yom Kippur Friday",
+    "candidates": [
+      "Yom Tov Prep",
+      "Yom Kippur Friday",
+      "Shofar Blasts",
+      "Tekiah Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yom Tov Prep",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the analysis of Rabbi Yishmael vs. Rabbi Akiva on vows/free-will offerings and Rabbi Zeira's account about the Yom Kippur/Shabbat tekiah and havdala baraita, which matches the 'Yom Tov Prep' and 'Yom Kippur Friday' prose \u2014 but item 1 (the 'when you analyze' passage concluding with Rabbi Zeira's introduction) and item 2 (Rabbi Zeira's full account) together belong under 'Yom Kippur Friday' since that heading's prose explicitly discusses Rabbi Zeira's Babylonian assumption, his move to Eretz Yisrael, the encounter with Yehuda son of Rabbi Shimon ben Pazi, and the kohanim zrizin response.",
+      "second_heading": "Shofar Blasts",
+      "second_confidence": "high",
+      "second_reason": "Item 3, the challenge of Mar Kashisha son of Rav Chisda about whether kohanim are truly vigilant and the resolution citing Abaye that the blasts were for the general people of Jerusalem, matches the 'Shofar Blasts' heading exactly.",
+      "current_heading": "Yom Kippur Friday",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Tekiah Question",
+    "candidates": [
+      "Shofar Blasts",
+      "Tekiah Question",
+      "Tekiah & Permitting",
+      "Yom Tov Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the two answers (Rav Yosef's 'shevut is not overridden to permit' and Rav Sheisha's 'immediate vs. remote shevut') that are precisely what candidate 2's prose ('Tekiah & Permitting') describes, making it the clearly correct home for this passage.",
+      "chosen_heading": "Tekiah & Permitting",
+      "current_heading": "Tekiah Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Yom Tov Shabbat",
+    "candidates": [
+      "Tekiah & Permitting",
+      "Yom Tov Shabbat",
+      "Shabbaton Shevut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishnah case of Yom Tov on Shabbat eve vs. after Shabbat, the question of why no tekiah is sounded when shechitah becomes permitted, and concludes with 'ela machvarta k'dRav Yosef' \u2014 all of which precisely matches the prose of candidate 1 'Yom Tov Shabbat'.",
+      "chosen_heading": "Yom Tov Shabbat",
+      "current_heading": "Yom Tov Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Shabbaton Shevut",
+    "candidates": [
+      "Shabbaton Shevut",
+      "YK on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Zeira/Rav Huna's ruling and the baraita deriving the prohibition of knivat yerek from 'Shabbaton shevut,' which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Shabbaton Shevut",
+      "current_heading": "Shabbaton Shevut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "YK on Shabbat",
+    "candidates": [
+      "YK on Shabbat",
+      "Mincha Prep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's ruling that trimming vegetables is permitted when Yom Kippur falls on Shabbat and the subsequent challenge and resolution regarding the interpretation of 'shabbaton shevus,' which precisely matches the prose under heading 0 ('YK on Shabbat').",
+      "chosen_heading": "YK on Shabbat",
+      "current_heading": "YK on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Mincha Prep",
+    "candidates": [
+      "Mincha Prep",
+      "Rabbah's Letter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Rabbah's Letter') explicitly discusses all three elements in this passage: the baraita supporting Rabbi Yochanan, the nut-cracking/pomegranate allowance from mincha onward, the household practices of Rav Yehuda and Rabbah, Rabbah's letter from the West, and the concluding 'hadran' \u2014 all of which are described in that section's prose, making it a clearly better match than the current placement.",
+      "chosen_heading": "Rabbah's Letter",
+      "current_heading": "Mincha Prep",
+      "moved": true
+    }
+  }
+]

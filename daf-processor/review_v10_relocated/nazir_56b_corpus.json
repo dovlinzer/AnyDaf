@@ -1,0 +1,321 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rabbi Eliezer's Ruling",
+    "candidates": [
+      "Rabbi Eliezer's Ruling",
+      "Rabbi Meir's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna stating Rabbi Eliezer's principle linking nazirite shaving categories to Temple-entry liability, which is precisely what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Rabbi Eliezer's Ruling",
+      "current_heading": "Rabbi Eliezer's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Meir's Challenge",
+    "candidates": [
+      "Rabbi Meir's Challenge",
+      "Beraitah Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's challenge comparing tumah from a corpse to a sheretz, which directly matches the prose in candidate 0 describing Rabbi Meir's argument about sheretz and bias mikdash liability.",
+      "chosen_heading": "Rabbi Meir's Challenge",
+      "current_heading": "Rabbi Meir's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Beraitah Discussion",
+    "candidates": [
+      "Beraitah Discussion",
+      "Rabbi Eliezer's Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer's visit to Ardaskeya and Rabbi Yehoshua ben Petter Rosh presenting the halakha before Rabbi Meir, which is precisely what the 'Beraitah Discussion' prose describes, not the follow-up about Rabbi Yehoshua ben Mamo's transmission covered in candidate 1.",
+      "chosen_heading": "Beraitah Discussion",
+      "current_heading": "Beraitah Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rabbi Eliezer's Source",
+    "candidates": [
+      "Rabbi Eliezer's Source",
+      "Kadmaya and Batraye",
+      "Nachman Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Eliezer's Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita demonstrating that Rabbi Eliezer learned the halakha through Rabbi Yehoshua bar Memel, which directly answers the question posed in heading 0's prose about why the mishnah skips the intermediate link.",
+      "second_heading": "Kadmaya and Batraye",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states the principle derived from this episode \u2014 that in a chain of three, only the first and last are cited \u2014 which is exactly what heading 1's prose ('Kadmaya and Batraye') is about.",
+      "current_heading": "Rabbi Eliezer's Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Nachman Example",
+    "candidates": [
+      "Kadmaya and Batraye",
+      "Nachman Example",
+      "Omitted Authorities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic text of Rav Na\u1e25man bar Yitz\u1e25ak citing Na\u1e25um haLavlur's chain of tradition about peah for dill and mustard, which is precisely what the 'Nachman Example' prose section describes.",
+      "chosen_heading": "Nachman Example",
+      "current_heading": "Nachman Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Omitted Authorities",
+    "candidates": [
+      "Omitted Authorities",
+      "Kal Vachomer Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses how Joshua and Caleb are omitted from the chain of tradition, confirming that intermediate links need not be enumerated \u2014 exactly what the 'Omitted Authorities' section's prose is about.",
+      "chosen_heading": "Omitted Authorities",
+      "current_heading": "Omitted Authorities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Kal Vachomer Argument",
+    "candidates": [
+      "Kal Vachomer Argument",
+      "Rabbi Eliezer Rejects",
+      "Rabbi Yehoshua Validates",
+      "Which Exception?",
+      "Bone as Exception",
+      "Kal Vachomer Principle",
+      "Safek Setup",
+      "Solution with Stipulation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kal Vachomer Argument",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the Mishna presenting Rabbi Akiva's kal vachomer before Rabbi Eliezer and Rabbi Yehoshua, which matches heading 0 ('Kal Vachomer Argument') and its continuation into headings 1-2, but the current placement under heading 0 is the start of this unit.",
+      "second_heading": "Which Exception?",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's dilemma about which ruling is the halakha leMoshe miSinai (bone or quarter-log of blood) and its resolution via baraita, which exactly matches heading 3 ('Which Exception?') and heading 4 ('Bone as Exception').",
+      "current_heading": "Kal Vachomer Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Solution with Stipulation",
+    "candidates": [
+      "Rabbi Eliezer Rejects",
+      "Rabbi Yehoshua Validates",
+      "Which Exception?",
+      "Bone as Exception",
+      "Kal Vachomer Principle",
+      "Safek Setup",
+      "Solution with Stipulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "low",
+      "reason": "The passage 'Hadranan alach Kohen Gadol' is a concluding formula marking the end of a tractate chapter, and while it doesn't clearly match any candidate's prose content, the current placement at the end of the final mishnah discussion (Solution with Stipulation) is as plausible as any other location.",
+      "chosen_heading": "Solution with Stipulation",
+      "current_heading": "Solution with Stipulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Solution with Stipulation",
+    "candidates": [
+      "Solution with Stipulation",
+      "Two Periods",
+      "Sotah Principle",
+      "Three Make Public"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Solution with Stipulation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna presenting the case of two nazirites and the stipulation procedure, which matches heading 0 ('Solution with Stipulation') whose prose discusses exactly this initial korban-with-stipulation mechanism.",
+      "second_heading": "Two Periods",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the second thirty-day count and the second set of korbanot with a new stipulation, which matches heading 1 ('Two Periods') whose prose explicitly discusses the additional thirty days and the second round of korban tahara with stipulation.",
+      "current_heading": "Solution with Stipulation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Three Make Public",
+    "candidates": [
+      "Two Periods",
+      "Sotah Principle",
+      "Three Make Public",
+      "Distance Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question about why the two nazirites are treated as safek tamei and the derivation from Sotah \u2014 exactly the content described in the 'Sotah Principle' prose, which covers the safek tumah principle, its derivation from Sotah, and the two-person requirement; the 'Three Make Public' section's prose covers the resolution/problem that follows, but these items are the initial question and derivation, not yet the three-person conclusion.",
+      "chosen_heading": "Sotah Principle",
+      "current_heading": "Three Make Public",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Distance Witness",
+    "candidates": [
+      "Three Make Public",
+      "Distance Witness",
+      "Hakafa Concern",
+      "Shmuel's Answer",
+      "Full Head Alternative",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabba bar Rav Huna's resolution (distant witness scenario) and Rav Ashi's corroborating linguistic proof, which is precisely what the 'Distance Witness' prose describes.",
+      "chosen_heading": "Distance Witness",
+      "current_heading": "Distance Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Hakafa Concern",
+      "Shmuel's Answer",
+      "Full Head Alternative",
+      "Shmuel's Position",
+      "Mishnah Setup",
+      "Same Question Applied"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's direct answer ('be-ishah ve-katan') to the hakafa concern, which matches the prose of 'Shmuel's Answer' (candidate 1) that explains exactly this resolution \u2014 a woman or minor is exempt from the hakafa prohibition.",
+      "chosen_heading": "Shmuel's Answer",
+      "current_heading": "Shmuel's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Same Question Applied",
+    "candidates": [
+      "Mishnah Setup",
+      "Same Question Applied",
+      "Adult Shaver Liable",
+      "Wife Shaving Issue",
+      "Woman Exempt",
+      "Role Rules",
+      "Rav Adda's Curse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Adult Shaver Liable",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's inference that Shmuel holds rounding the entire head is called hakafa \u2014 which is the concluding logical inference discussed under 'Adult Shaver Liable' where the essay explains why Shmuel needed to qualify by woman/minor rather than relying on the 'full head is not hakafa' argument.",
+      "second_heading": "Mishnah Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Mar Zutra's teaching that applies Shmuel's ruling to the latter clause about the safek nazir/metzora \u2014 precisely the scenario described in the 'Mishnah Setup' prose.",
+      "current_heading": "Same Question Applied",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Adda's Curse",
+    "candidates": [
+      "Adult Shaver Liable",
+      "Wife Shaving Issue",
+      "Woman Exempt",
+      "Role Rules",
+      "Rav Adda's Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers Rav Huna's ruling, Rav Adda's challenge about Chova, and the curse and its effect \u2014 all of which are discussed together in the 'Rav Adda's Curse' section's prose, which is the most comprehensive match for the full content of this single Gemara excerpt.",
+      "chosen_heading": "Rav Adda's Curse",
+      "current_heading": "Rav Adda's Curse",
+      "moved": false
+    }
+  }
+]

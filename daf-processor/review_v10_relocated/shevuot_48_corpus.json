@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rav Chisda: Both Invalid",
+    "candidates": [
+      "Two Groups Contradict",
+      "Rav Huna: Kosher Status",
+      "Rav Chisda: Both Invalid",
+      "Two Lenders/Borrowers",
+      "Same Parties, Two Docs",
+      "Two Lenders, One Borrower"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the entire dispute (itmar) between Rav Huna and Rav Chisda about two contradicting sets of witnesses, which matches the 'Two Groups Contradict' heading that describes the opening of this Amoraic dispute \u2014 both Rav Huna's and Rav Chisda's positions are stated together in this single quoted text, so it belongs under the introductory heading rather than split across the individual opinion headings.",
+      "chosen_heading": "Two Groups Contradict",
+      "current_heading": "Rav Chisda: Both Invalid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Two Lenders, One Borrower",
+    "candidates": [
+      "Two Lenders/Borrowers",
+      "Same Parties, Two Docs",
+      "Two Lenders, One Borrower",
+      "Moon Testimony Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with the permutations of two lenders/one borrower (haynu masnisin) and two borrowers/one lender (teiku), which is precisely what candidate 2 'Two Lenders, One Borrower' describes in its prose.",
+      "chosen_heading": "Two Lenders, One Borrower",
+      "current_heading": "Two Lenders, One Borrower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Moon Testimony Case",
+    "candidates": [
+      "Moon Testimony Case",
+      "Storekeeper/Worker",
+      "R. Yehuda: No Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous objection-and-resolution sequence about new moon testimony (Rav Huna bar Yehuda's challenge and Rava's answer) that the 'Moon Testimony Case' prose explicitly describes.",
+      "chosen_heading": "Moon Testimony Case",
+      "current_heading": "Moon Testimony Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "R. Yehuda: No Oath",
+    "candidates": [
+      "Storekeeper/Worker",
+      "R. Yehuda: No Oath",
+      "Money Changer Case",
+      "Fruit Deterioration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda's baraita qualifying when the oath applies \u2014 exactly what the 'R. Yehuda: No Oath' section's prose describes.",
+      "chosen_heading": "R. Yehuda: No Oath",
+      "current_heading": "R. Yehuda: No Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Fruit Deterioration",
+    "candidates": [
+      "Money Changer Case",
+      "Fruit Deterioration",
+      "Heirs Collecting Basics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's tzricha argument explaining why both the produce case and the money-changer case must be stated explicitly \u2014 exactly the content described in the 'Fruit Deterioration' prose about pirei avidi d'mirkavi and ma'ot lo mirkevi and each case's bidirectional novel ruling.",
+      "chosen_heading": "Fruit Deterioration",
+      "current_heading": "Fruit Deterioration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Heirs Collecting Basics",
+    "candidates": [
+      "Heirs Collecting Basics",
+      "Rav & Shmuel's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about from whom orphans collect and the resolution that it refers to yetomim min ha-yetomim, which is precisely what the 'Heirs Collecting Basics' prose describes.",
+      "chosen_heading": "Heirs Collecting Basics",
+      "current_heading": "Heirs Collecting Basics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav & Shmuel's Rule",
+    "candidates": [
+      "Rav & Shmuel's Rule",
+      "'Cannot Bequeath Oath'",
+      "Rav Elazar Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for Rav and Shmuel's rule distinguishing between 'met malveh be-chayei loveh' and 'met loveh be-chayei malveh,' which is precisely what the prose of candidate 0 explains and contextualizes.",
+      "chosen_heading": "Rav & Shmuel's Rule",
+      "current_heading": "Rav & Shmuel's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rav Elazar Disagrees",
+    "candidates": [
+      "'Cannot Bequeath Oath'",
+      "Rav Elazar Disagrees",
+      "Rav Ami's Distinction",
+      "Rav Nachman Unsure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Elazar Disagrees",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the exchange with Rabbi Elazar and the subsequent sending to Rabbi Ami, which is precisely what heading 1 ('Rav Elazar Disagrees') discusses \u2014 Rav Elazar's ruling, the repeated sending of the question, and Rav Ami's pointed response before offering his own distinction.",
+      "second_heading": "Rav Ami's Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Ami's actual distinction between 'amad be-din' and 'lo amad be-din', which is exactly what heading 2 ('Rav Ami's Distinction') is about.",
+      "current_heading": "Rav Elazar Disagrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Rav Nachman Unsure",
+    "candidates": [
+      "Rav Ami's Distinction",
+      "Rav Nachman Unsure",
+      "Widow/Ketubah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to Rav Nachman's challenge to Rav Ami's distinction and his subsequent uncertainty about ruling like Rav and Shmuel, which is precisely what the 'Rav Nachman Unsure' section's prose describes in detail.",
+      "chosen_heading": "Rav Nachman Unsure",
+      "current_heading": "Rav Nachman Unsure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Widow/Ketubah Case",
+    "candidates": [
+      "Widow/Ketubah Case",
+      "Second Wife Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Oshaya's objection about a widow's heirs collecting her ketubah and the Gemara's answer that she had already taken the oath before dying, which matches exactly the prose under 'Widow/Ketubah Case'.",
+      "chosen_heading": "Widow/Ketubah Case",
+      "current_heading": "Widow/Ketubah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Second Wife Scenario",
+    "candidates": [
+      "Second Wife Scenario",
+      "Waived Oath Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the second-wife-and-her-heirs scenario and the answer that she took an oath before dying, which matches exactly the prose in candidate 0.",
+      "chosen_heading": "Second Wife Scenario",
+      "current_heading": "Second Wife Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Waived Oath Exception",
+    "candidates": [
+      "Waived Oath Exception",
+      "Son vs. Father Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the waived-oath mishna challenge and Rav Shemaya's le-tzadin katani resolution, which is precisely what the 'Waived Oath Exception' prose describes in detail.",
+      "chosen_heading": "Waived Oath Exception",
+      "current_heading": "Waived Oath Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Son vs. Father Power",
+    "candidates": [
+      "Son vs. Father Power",
+      "Rav Nachman's Visit",
+      "'Don't Add' Agreement",
+      "Pogem Shtar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous challenge-and-resolution unit about the baraita of 'yafeh koach ha-ben mi-koach ha-av' and Rav Yosef's deflection via Beit Shammai, which is precisely what the 'Son vs. Father Power' prose describes.",
+      "chosen_heading": "Son vs. Father Power",
+      "current_heading": "Son vs. Father Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Pogem Shtar Case",
+    "candidates": [
+      "Rav Nachman's Visit",
+      "'Don't Add' Agreement",
+      "Pogem Shtar Case",
+      "Cosigner Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Nachman's refusal to overturn Rav and Shmuel's ruling AND his 'do not add to it' compromise with the Rav Pappa illustration as an example of the compromise principle, which is precisely what the 'Don't Add' Agreement section's prose describes.",
+      "chosen_heading": "'Don't Add' Agreement",
+      "current_heading": "Pogem Shtar Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Cosigner Scenario",
+    "candidates": [
+      "Pogem Shtar Case",
+      "Cosigner Scenario",
+      "Brother vs. Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the cosigner (arev) scenario where Rav Pappa considers exempting it from Rav and Shmuel's ruling and Rav Huna son of Rav Yehoshua objects that the guarantor will pursue the orphans, which is precisely what Candidate 1's prose describes.",
+      "chosen_heading": "Cosigner Scenario",
+      "current_heading": "Cosigner Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Brother vs. Son",
+    "candidates": [
+      "Brother vs. Son",
+      "Partial Admission Case",
+      "No Fixed Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of a creditor who died leaving a brother as heir, Rami bar Chama's proposed distinction, and Rava's rejection of it \u2014 exactly what heading 0 'Brother vs. Son' describes in its prose.",
+      "chosen_heading": "Brother vs. Son",
+      "current_heading": "Brother vs. Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "No Fixed Ruling",
+    "candidates": [
+      "Partial Admission Case",
+      "No Fixed Ruling",
+      "Orphans' Document Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24ama's direct statement that no halakha was fixed between Rav/Shmuel and Rabbi Elazar, and either ruling is valid \u2014 exactly what the 'No Fixed Ruling' section's prose describes.",
+      "chosen_heading": "No Fixed Ruling",
+      "current_heading": "No Fixed Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Orphans' Document Status",
+    "candidates": [
+      "Orphans' Document Status",
+      "Judge's Discretion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's ruling about not tearing up and not collecting on an orphans' document, which is precisely what Candidate 0's prose describes in detail.",
+      "chosen_heading": "Orphans' Document Status",
+      "current_heading": "Orphans' Document Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Judge's Discretion",
+    "candidates": [
+      "Judge's Discretion",
+      "Default Position Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the judge who ruled like Rabbi Elazar facing pressure from a Torah scholar threatening to bring a letter, and Rav Chama confirming the ruling stands \u2014 exactly what Candidate 0's prose describes.",
+      "chosen_heading": "Judge's Discretion",
+      "current_heading": "Judge's Discretion",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Yovlos Nullified",
+    "candidates": [
+      "Cities Listed in Mishna",
+      "Rabbi Ishmael's Braitas",
+      "Kedusha Frameworks",
+      "Sanctity of Place",
+      "Megilla Parallels",
+      "Megilla & Purim",
+      "Pesach Inheritance",
+      "Repossession Model",
+      "Yovlos Nullified",
+      "Kol Yoshveha Aleha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Repossession Model",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's resolution of the verse 'asher yarshu avosecha v'yirashta' \u2014 exactly the repossession/inheritance model discussed in candidate 7's prose.",
+      "second_heading": "Yovlos Nullified",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of whether shmita and yovel were actually counted in Ezra's time, precisely the content described in candidate 8's prose about 'u'mi manu shmitin v'yovlos' and the nullification of yovlos.",
+      "current_heading": "Yovlos Nullified",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Kol Yoshveha Aleha",
+    "candidates": [
+      "Kol Yoshveha Aleha",
+      "Ezra's 40,000",
+      "Yovel for Shemita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita establishing that yovel requires all inhabitants on the land (kol yoshveha aleha) and in their proper arrangement (k'tikunan), which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Kol Yoshveha Aleha",
+      "current_heading": "Kol Yoshveha Aleha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Yovel for Shemita",
+    "candidates": [
+      "Ezra's 40,000",
+      "Yovel for Shemita",
+      "Rabbis' 50-Year",
+      "Rabbi Yehuda 49-Year"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Na\u1e25man bar Yitz\u1e25ak's teaching that Jubilee years were counted to sanctify Sabbatical years, which is precisely what the 'Yovel for Shemita' section's prose discusses and attributes to this statement.",
+      "chosen_heading": "Yovel for Shemita",
+      "current_heading": "Yovel for Shemita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rabbi Yehuda 49-Year",
+    "candidates": [
+      "Rabbis' 50-Year",
+      "Rabbi Yehuda 49-Year",
+      "Shemita Independence",
+      "Shemita Today",
+      "Jeremiah & Slaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about Rabbi Yehuda's view \u2014 that under his system the fiftieth year counts for both cycles making yovel designation unnecessary \u2014 which is precisely what the 'Rabbi Yehuda 49-Year' section's prose describes.",
+      "chosen_heading": "Rabbi Yehuda 49-Year",
+      "current_heading": "Rabbi Yehuda 49-Year",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Jeremiah & Slaves",
+    "candidates": [
+      "Shemita Independence",
+      "Shemita Today",
+      "Jeremiah & Slaves",
+      "Six vs. Seven Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Jeremiah verse about freeing Hebrew slaves after seven years, which is precisely what the 'Jeremiah & Slaves' section's prose describes as the gemara's question about Yirmiyahu's exhortation.",
+      "chosen_heading": "Jeremiah & Slaves",
+      "current_heading": "Jeremiah & Slaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Six vs. Seven Years",
+    "candidates": [
+      "Six vs. Seven Years",
+      "Sarcastic Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the six vs. seven years textual difficulty and Rav Na\u1e25man bar Yitz\u1e25ak's resolution, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Six vs. Seven Years",
+      "current_heading": "Six vs. Seven Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Sarcastic Rebuke",
+    "candidates": [
+      "Sarcastic Rebuke",
+      "They Listened",
+      "12 Tribes Restored"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's answer that the verse is written as reproof (tochecha), which is exactly what heading 0 'Sarcastic Rebuke' discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Sarcastic Rebuke",
+      "current_heading": "Sarcastic Rebuke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "12 Tribes Restored",
+    "candidates": [
+      "They Listened",
+      "12 Tribes Restored",
+      "Hybrid Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Yo\u1e25anan's teaching that Jeremiah brought back the exiled tribes and Josiah ruled over them, with proofs from Ezekiel, II Kings, and Hosea \u2014 exactly the content described in the '12 Tribes Restored' prose section.",
+      "chosen_heading": "12 Tribes Restored",
+      "current_heading": "12 Tribes Restored",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Hybrid Status",
+    "candidates": [
+      "Hybrid Status",
+      "Sedeh Achuza",
+      "Hekdesh Redemption",
+      "Sanctified Houses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna directly introduces the hybrid status of batei hachatzeirim with their combination of favorable features from both walled city houses and fields, which is precisely what the 'Hybrid Status' section's prose discusses.",
+      "chosen_heading": "Hybrid Status",
+      "current_heading": "Hybrid Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Sanctified Houses",
+    "candidates": [
+      "Sedeh Achuza",
+      "Hekdesh Redemption",
+      "Sanctified Houses",
+      "Levite Redemption",
+      "Hekdesh Principle",
+      "Hekdesh Stays",
+      "Second Year Gap"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sedeh Achuza",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the baraita establishing the hekesh to sedeh achuzah, immediate redemption right, and yovel reversion for batei chatzerim \u2014 exactly what heading 0's prose describes.",
+      "second_heading": "Sanctified Houses",
+      "second_confidence": "high",
+      "second_reason": "Items 3-12 begin with 'mai ka'amar' questioning the last clause of the baraita and proceed through Rav Huna's hekdesh case, Rav Zeira/Abaye exchange, Levite derivation, Rabbi Oshaya's dispute, and Rav Pappa's second-year application \u2014 all of which the current heading 2 and subsequent headings cover.",
+      "current_heading": "Sanctified Houses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Second Year Gap",
+    "candidates": [
+      "Levite Redemption",
+      "Hekdesh Principle",
+      "Hekdesh Stays",
+      "Second Year Gap",
+      "Two/Two Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita passage directly supports Rav Huna's position and refutes Rabbi Oshaya's view on whether a consecrated house in an unwalled city returns to the owner at Jubilee, which is precisely what the 'Second Year Gap' prose describes when it says 'a braita is cited in support of Rav Huna's position, and the gemara notes it constitutes a contradiction to Rabbi Yehoshua's view.'",
+      "chosen_heading": "Second Year Gap",
+      "current_heading": "Second Year Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Two/Two Minimum",
+    "candidates": [
+      "Two/Two Minimum",
+      "Size Over Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna defining batei hachatzeirim as two courtyards of two houses, the baraita deriving the two/two minimum from the verse's redundancy, and the Gemara's objection about one house/one courtyard \u2014 are precisely the content described in candidate 0's prose about the derivation of the two/two threshold.",
+      "chosen_heading": "Two/Two Minimum",
+      "current_heading": "Two/Two Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Size Over Walls",
+    "candidates": [
+      "Size Over Walls",
+      "Historical Status",
+      "Israelite Inherits",
+      "Levite Inherits",
+      "Rabbi's Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna describes both cases (Israelite inheriting from Levite grandfather and Levite inheriting from Israelite grandfather) together, and candidate 2 'Israelite Inherits' is where this combined mishna passage belongs, as its prose explicitly introduces this mishna's content about the interaction of Levitical status with Levitical land.",
+      "chosen_heading": "Israelite Inherits",
+      "current_heading": "Size Over Walls",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Rabbi's Requirement",
+    "candidates": [
+      "Historical Status",
+      "Israelite Inherits",
+      "Levite Inherits",
+      "Rabbi's Requirement",
+      "Mamzer Exclusion",
+      "Chachamim's View",
+      "City Layout"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Rabbi's Requirement",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 cover Rabbi's two-criteria requirement (Levi + Levitical city), the Gemara's derivation of the Levi requirement from the verse, the baraita about redeeming from another Levi, and the exclusion of the mamzer/natin \u2014 all matching heading 3 ('Rabbi's Requirement') and heading 4 ('Mamzer Exclusion'), but since items 1\u20136 form one continuous halakhic discussion under Rabbi's position, they belong under heading 3 as the prose there explicitly covers all these sub-points including the mamzer exclusion.",
+      "second_heading": "Chachamim's View",
+      "second_confidence": "high",
+      "second_reason": "Item 7 presents the Rabbis' disagreement that the special redemption right follows the land alone (not the person), which is precisely what heading 5 ('Chachamim's View') discusses.",
+      "current_heading": "Rabbi's Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "City Layout",
+    "candidates": [
+      "Mamzer Exclusion",
+      "Chachamim's View",
+      "City Layout",
+      "Rabbi Elazar",
+      "No Destruction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "City Layout",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna establishing the city layout restrictions for Levitical cities, which matches the 'City Layout' prose describing the migrash/field/city conversion prohibitions.",
+      "second_heading": "Rabbi Elazar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Elazar's clarification that the restrictions apply only to Levitical cities while non-Levitical cities have different rules, which matches the 'Rabbi Elazar' prose exactly.",
+      "current_heading": "City Layout",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "No Destruction",
+    "candidates": [
+      "Rabbi Elazar",
+      "No Destruction",
+      "Geulat Olam",
+      "Lo Yimacher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Gemara passage asks 'from where are these matters derived?' regarding the prohibition on changing Levitical cities, which directly corresponds to the 'Lo Yimacher' section discussing the verse's prohibition and its meaning as 'lo yeshaneh' \u2014 structural alteration is forbidden \u2014 not the 'No Destruction' section about non-Levitical cities.",
+      "chosen_heading": "Lo Yimacher",
+      "current_heading": "No Destruction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Lo Yimacher",
+    "candidates": [
+      "Geulat Olam",
+      "Lo Yimacher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the meaning of 'lo yimacher' and resolves it as 'lo yeshaneh,' which is precisely what the prose of candidate 1 discusses.",
+      "chosen_heading": "Lo Yimacher",
+      "current_heading": "Lo Yimacher",
+      "moved": false
+    }
+  }
+]

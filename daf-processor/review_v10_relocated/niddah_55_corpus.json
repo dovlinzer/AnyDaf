@@ -1,0 +1,444 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Basar Hamet Tumah",
+    "candidates": [
+      "Daf Overview",
+      "Mishna Categories",
+      "Basar Hamet Tumah",
+      "Crumbling Flesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present exactly the two Amoraic derivations (Reish Lakish from 'l'chol tumato' and Rabbi Yochanan from the bone analogy) that the 'Basar Hamet Tumah' prose explicitly describes as the content of that section.",
+      "chosen_heading": "Basar Hamet Tumah",
+      "current_heading": "Basar Hamet Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Crumbling Flesh",
+    "candidates": [
+      "Crumbling Flesh",
+      "Body Parts Causing Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the crumbling-flesh dispute between Reish Lakish and Rabbi Yo\u1e25anan and the baraita objection with its resolution about dust \u2014 are precisely what the 'Crumbling Flesh' prose describes.",
+      "chosen_heading": "Crumbling Flesh",
+      "current_heading": "Crumbling Flesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Body Parts Causing Tumah",
+    "candidates": [
+      "Body Parts Causing Tumah",
+      "Gizo Machlif Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishna from Oholot about teeth, hair, and nails transmitting impurity only when attached, which is precisely what the 'Body Parts Causing Tumah' section's prose describes and discusses.",
+      "chosen_heading": "Body Parts Causing Tumah",
+      "current_heading": "Body Parts Causing Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Gizo Machlif Principle",
+    "candidates": [
+      "Gizo Machlif Principle",
+      "Skin's Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Adda bar Ahava's ruling and its refinement regarding the bone-comparison principle (nivra imo / ein gizo machlif), which is precisely what the 'Gizo Machlif Principle' prose describes.",
+      "chosen_heading": "Gizo Machlif Principle",
+      "current_heading": "Gizo Machlif Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Skin's Status",
+    "candidates": [
+      "Skin's Status",
+      "Ulla on Skin",
+      "Skin Gezerah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the hagluda mishna and the or ha'adam mishna, which is precisely what the 'Skin's Status' prose section describes in detail.",
+      "chosen_heading": "Skin's Status",
+      "current_heading": "Skin's Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Skin Gezerah",
+    "candidates": [
+      "Ulla on Skin",
+      "Skin Gezerah",
+      "Skin as Leather",
+      "Skin Regeneration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ulla's statement that human skin is biblically pure and the gezeira explanation, which is precisely what heading 0 ('Ulla on Skin') describes \u2014 the initial citation of Ulla's devar Torah ruling \u2014 rather than heading 1 which discusses the follow-up analysis of the gezeira's rationale and Tosafot's responses.",
+      "chosen_heading": "Ulla on Skin",
+      "current_heading": "Skin Gezerah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Skin Regeneration",
+    "candidates": [
+      "Skin as Leather",
+      "Skin Regeneration",
+      "Flesh Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Skin Regeneration' \u2014 item 1 is the alternative version (ika de'amri) that assumes skin does not regenerate and raises the difficulty with Ulla's statement, and item 2 is the resolution that Ulla's statement refers to processed leather, exactly as described in that section's prose.",
+      "chosen_heading": "Skin Regeneration",
+      "current_heading": "Skin Regeneration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Flesh Healing",
+    "candidates": [
+      "Flesh Healing",
+      "Zovo Tamei Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about flesh regenerating and Mar bar Rav Ashi's answer about scarring, which is precisely what the 'Flesh Healing' section's prose describes.",
+      "chosen_heading": "Flesh Healing",
+      "current_heading": "Flesh Healing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Zovo Tamei Verse",
+    "candidates": [
+      "Zovo Tamei Verse",
+      "Kal Vachomer & Scapegoat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita citing 'zovo tamei' to establish that ziva itself is impure, which matches exactly what candidate 0's prose describes \u2014 the derivation from the verse Leviticus 15:2 that the discharge itself is a source of tumah.",
+      "chosen_heading": "Zovo Tamei Verse",
+      "current_heading": "Zovo Tamei Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Kal Vachomer & Scapegoat",
+    "candidates": [
+      "Kal Vachomer & Scapegoat",
+      "Zov Tumah Severity",
+      "Zov vs. Semen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the kal vachomer inference about ziva's tumah and the scapegoat counterexample, which is precisely what the 'Kal Vachomer & Scapegoat' section's prose describes.",
+      "chosen_heading": "Kal Vachomer & Scapegoat",
+      "current_heading": "Kal Vachomer & Scapegoat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Zov vs. Semen",
+    "candidates": [
+      "Zov Tumah Severity",
+      "Zov vs. Semen",
+      "Hazav Et Zovo",
+      "Both Verses Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Zov vs. Semen",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss whether zov is tamei by touch vs. carrying and the neveilah analogy, matching the 'Zov vs. Semen' prose which explicitly walks through these exact distinctions and objections.",
+      "second_heading": "Hazav Et Zovo",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the Baraita equating zov to the zav himself via 'Hazav et zovo' and then ask why 'zovo tamei hu' is still needed, which matches both 'Hazav Et Zovo' and 'Both Verses Needed' \u2014 item 3 belongs under 'Hazav Et Zovo' and item 4 opens the 'Both Verses Needed' question, but since we can only split once, items 3-4 together best fit 'Hazav Et Zovo' as the baraita citation and its immediate follow-up question.",
+      "current_heading": "Zov vs. Semen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Both Verses Needed",
+    "candidates": [
+      "Hazav Et Zovo",
+      "Both Verses Needed",
+      "Rok Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form Rav Yehuda of Diskarta's argument that zovo tamei hu is indispensable because without it, Hazav et zovo would be read only as determining the number/qualification of flows (zov=one, zovo=two, male vs. female standard for the third), which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Both Verses Needed",
+      "current_heading": "Both Verses Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Rok Proof",
+    "candidates": [
+      "Rok Proof",
+      "Spitting & Yibuma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the baraita deriving the impurity of rok (saliva) and related fluids from Leviticus 15:8, which is precisely what the 'Rok Proof' section's prose describes as establishing the scriptural source for rok's tumah.",
+      "chosen_heading": "Rok Proof",
+      "current_heading": "Rok Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Spitting & Yibuma",
+    "candidates": [
+      "Spitting & Yibuma",
+      "Phlegm Types",
+      "Rok Severity",
+      "Drashot Ladder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the gezeirah shavah from yibuma \u2014 why one might think contact-free spitting conveys tumah and why the verse teaches otherwise \u2014 which is precisely what the 'Spitting & Yibuma' section's prose discusses.",
+      "chosen_heading": "Spitting & Yibuma",
+      "current_heading": "Spitting & Yibuma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Drashot Ladder",
+    "candidates": [
+      "Phlegm Types",
+      "Rok Severity",
+      "Drashot Ladder",
+      "Mucus Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items are a continuous chain of objections and responses in the Gemara's derivation from 'batahor' \u2014 establishing that rok transmits tumah by masa and that contact makes garments tamei \u2014 exactly what the 'Drashot Ladder' prose describes.",
+      "chosen_heading": "Drashot Ladder",
+      "current_heading": "Drashot Ladder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Mucus Debate",
+    "candidates": [
+      "Mucus Debate",
+      "R. Yochanan vs. Rav",
+      "Tears Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav's and Rabbi Yochanan's views on nasal fluids in a single Talmudic excerpt, and the current heading 'Mucus Debate' with its prose introduces the entire debate, while heading 1 ('R. Yochanan vs. Rav') only covers Rabbi Yochanan's position \u2014 the full passage belongs under the overarching 'Mucus Debate' heading where it currently sits.",
+      "chosen_heading": "Mucus Debate",
+      "current_heading": "Mucus Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Tears Theory",
+    "candidates": [
+      "R. Yochanan vs. Rav",
+      "Tears Theory",
+      "Three by Three",
+      "Non-Mayanot",
+      "Liquids Not Mayanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge-and-resolution about why Rav does not count tears among impure fluids, which is precisely what the 'Tears Theory' prose describes in detail.",
+      "chosen_heading": "Tears Theory",
+      "current_heading": "Tears Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Liquids Not Mayanot",
+    "candidates": [
+      "Three by Three",
+      "Non-Mayanot",
+      "Liquids Not Mayanot",
+      "True Mayanot",
+      "Spit Subcategories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the complete baraita listing all nine fluids of the zav in their three-tiered classification, which matches the 'Three by Three' heading's prose describing a comprehensive classification of nine fluids organized into three groups based on tumah status.",
+      "chosen_heading": "Three by Three",
+      "current_heading": "Liquids Not Mayanot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Spit Subcategories",
+    "candidates": [
+      "True Mayanot",
+      "Spit Subcategories",
+      "Drinking Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's argument about why nasal fluids (mei ha-af) are not listed separately \u2014 culminating in the answer that 'he taught his saliva and all derived from its amplification,' which is precisely what the 'Spit Subcategories' prose explains with the phrase 'tana roko v'chol d'asi meiribuiya.'",
+      "chosen_heading": "Spit Subcategories",
+      "current_heading": "Spit Subcategories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Drinking Verses",
+    "candidates": [
+      "Drinking Verses",
+      "Urine Source",
+      "Urine Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives scriptural sources for tears, wound blood, and milk as liquids via drinking verses, which matches exactly what candidate 0 ('Drinking Verses') describes in its prose.",
+      "chosen_heading": "Drinking Verses",
+      "current_heading": "Drinking Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Urine Kal Vachomer",
+    "candidates": [
+      "Urine Source",
+      "Urine Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the complete baraita about deriving urine's impurity \u2014 first the verse-based inclusion and the kal vachomer attempt, then the rebuttal via blood from the penis and the conclusion that the verse is necessary \u2014 which matches exactly the 'Urine Kal Vachomer' prose describing this precise derivational structure and its deflection.",
+      "chosen_heading": "Urine Kal Vachomer",
+      "current_heading": "Urine Kal Vachomer",
+      "moved": false
+    }
+  }
+]

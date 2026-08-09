@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Nursing vs Viability",
+    "candidates": [
+      "Child Viability & 30 Days",
+      "Kohen & Chalitza",
+      "Nursing vs Viability",
+      "3-Month Wait & Forced Get",
+      "Rafram's Running Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialogue about whether the Rabbis made an accommodation for a kohen married to a pregnant/nursing woman, which is precisely what candidate 1 ('Kohen & Chalitza') describes \u2014 the question, the sharp distinction drawn, and the reasoning that no opinion supports waiving the get requirement.",
+      "chosen_heading": "Kohen & Chalitza",
+      "current_heading": "Nursing vs Viability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rafram's Running Away",
+    "candidates": [
+      "3-Month Wait & Forced Get",
+      "Rafram's Running Away",
+      "Tosafot: Kiddushin Alone",
+      "Case: 7 vs 9 Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces the case of betrothing within three months and fleeing, which is the setup described in candidate 0's prose ('3-Month Wait & Forced Get'), while candidate 1 ('Rafram's Running Away') covers the dispute and ruling that follows \u2014 however, since the passage includes both the setup and the resolution, candidate 0 is the better match as it frames the initial case, and the current placement in candidate 1 also fits well; given that candidate 0's prose explicitly describes 'kiddesh b'toch shlosha u'varach' as its introduction, the passage likely belongs there as the text it is introducing.",
+      "chosen_heading": "3-Month Wait & Forced Get",
+      "current_heading": "Rafram's Running Away",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Case: 7 vs 9 Months",
+    "candidates": [
+      "Tosafot: Kiddushin Alone",
+      "Case: 7 vs 9 Months",
+      "Rava's Challenge",
+      "Not Visibly Pregnant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's challenge to Rav Nachman about applying the majority principle (rov nashim), which is precisely what candidate 2 'Rava's Challenge' describes in its prose.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Case: 7 vs 9 Months",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Not Visibly Pregnant",
+    "candidates": [
+      "Rava's Challenge",
+      "Not Visibly Pregnant",
+      "Visible Pregnancy",
+      "First: Kohen Gadol"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Not Visibly Pregnant",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Nachman's initial 'our women give birth at seven months' response and his refined answer about visible pregnancy at three months, which is exactly what candidate 1 ('Not Visibly Pregnant') describes in its prose.",
+      "second_heading": "Visible Pregnancy",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's objection that 'every' should be 'most' (the emendation from kol to rov), which is precisely what candidate 2 ('Visible Pregnancy') describes in its prose.",
+      "current_heading": "Not Visibly Pregnant",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "First: Kohen Gadol",
+    "candidates": [
+      "Visible Pregnancy",
+      "First: Kohen Gadol",
+      "Second: Safek Mamzer",
+      "Tanna Kamma Position",
+      "R. Eliezer: Safek Mamzer",
+      "Abaye vs Rava Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita discusses both the first child being fit to be Kohen Gadol and the second being a safek mamzer, plus Rabbi Eliezer ben Yaakov's dissent \u2014 this full passage is introduced and contextualized under 'First: Kohen Gadol' (heading 1), which is where it currently sits and which serves as the entry point for the entire baraita.",
+      "chosen_heading": "First: Kohen Gadol",
+      "current_heading": "First: Kohen Gadol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Abaye vs Rava Read",
+    "candidates": [
+      "Second: Safek Mamzer",
+      "Tanna Kamma Position",
+      "R. Eliezer: Safek Mamzer",
+      "Abaye vs Rava Read",
+      "Halacha Ruling",
+      "Hillel's Ten",
+      "Marriage Groups",
+      "World Filled Mamzerim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous Gemara discussion covering exactly what heading 3 ('Abaye vs Rava Read') describes: the dispute between Abaye and Rava over how to read Rabbi Eliezer ben Yaakov's position, grounded in the debate between Rav (ruling like Rabbi Elazar) and Shmuel (ruling like Hillel), including the mishna about safek categories and the baraita of Hillel's ten lineages.",
+      "chosen_heading": "Abaye vs Rava Read",
+      "current_heading": "Abaye vs Rava Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "World Filled Mamzerim",
+    "candidates": [
+      "Halacha Ruling",
+      "Hillel's Ten",
+      "Marriage Groups",
+      "World Filled Mamzerim",
+      "Different Countries",
+      "Rav's Temp Wives"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "World Filled Mamzerim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Abaye's proof from Rabbi Eliezer ben Yaakov's baraita about the world filled with mamzerim and Rava's counter-reading of 'zimah' as 'zo ma hi', which is precisely what heading 3 ('World Filled Mamzerim') discusses in detail.",
+      "second_heading": "Different Countries",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the continuation of the baraita introducing Rabbi Eliezer ben Yaakov's separate teaching about not marrying women in different countries, which matches heading 4 ('Different Countries') exactly.",
+      "current_heading": "World Filled Mamzerim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rav's Temp Wives",
+    "candidates": [
+      "Different Countries",
+      "Rav's Temp Wives",
+      "Don't Plan Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about Rav and Rav Na\u1e25man's temporary marriages \u2014 the challenge from their practice, the rebuttal that famous scholars are known, the further challenge from Rava's ruling about seven clean days, and the two resolutions \u2014 exactly matching the prose under 'Rav's Temp Wives'.",
+      "chosen_heading": "Rav's Temp Wives",
+      "current_heading": "Rav's Temp Wives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Don't Plan Divorce",
+    "candidates": [
+      "Don't Plan Divorce",
+      "Safek vs Yavam",
+      "Safek vs Sons",
+      "Mishnah Parallel",
+      "Both Parties Doubtful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly teaches Rabbi Eliezer ben Yaakov's ruling against marrying while planning to divorce, which is precisely what the 'Don't Plan Divorce' section's prose discusses.",
+      "chosen_heading": "Don't Plan Divorce",
+      "current_heading": "Don't Plan Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Both Parties Doubtful",
+    "candidates": [
+      "Safek vs Yavam",
+      "Safek vs Sons",
+      "Mishnah Parallel",
+      "Both Parties Doubtful",
+      "Rashi's Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 20,
+      "first_heading": "Both Parties Doubtful",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-20 all concern disputes over the deceased brother's estate (nichsei mitana), fitting within the 'Both Parties Doubtful' section's discussion of Rav Mesharsheya's analysis, the Rabbi Abba/Yirmeya dispute, and the Admon parallel.",
+      "second_heading": "Rashi's Solution",
+      "second_confidence": "medium",
+      "second_reason": "Items 21-26 shift to entirely new cases involving the grandfather's (saba's) estate with different claimant configurations, matching candidate 4's discussion of the partition solution that concludes with cholkin outcomes.",
+      "current_heading": "Both Parties Doubtful",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,504 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Torah Learning",
+    "candidates": [
+      "Torah Learning",
+      "Angel's Strike",
+      "The Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the angel striking the infant and causing it to forget the Torah, which is precisely what the 'Torah Learning' section prose discusses in detail.",
+      "chosen_heading": "Torah Learning",
+      "current_heading": "Torah Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "The Oath",
+    "candidates": [
+      "Angel's Strike",
+      "The Oath",
+      "Pure Soul",
+      "Kohen & Trumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the oath administered to the fetus before birth \u2014 its scriptural basis and its content \u2014 which is precisely what the prose under 'The Oath' (index 1) discusses in detail.",
+      "chosen_heading": "The Oath",
+      "current_heading": "The Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Kohen & Trumah",
+    "candidates": [
+      "Pure Soul",
+      "Kohen & Trumah",
+      "Sin & Purity",
+      "Being vs. Becoming",
+      "Oath Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the parable of the kohen entrusting teruma to an am ha'aretz, which is precisely what the 'Kohen & Trumah' section's prose explicitly discusses and analyzes.",
+      "chosen_heading": "Kohen & Trumah",
+      "current_heading": "Kohen & Trumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Oath Source",
+    "candidates": [
+      "Sin & Purity",
+      "Being vs. Becoming",
+      "Oath Source",
+      "Walnut in Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's derivation of the biblical source (mai kra) for the womb-oath via the word 'gozi,' which is exactly what the 'Oath Source' prose describes.",
+      "chosen_heading": "Oath Source",
+      "current_heading": "Oath Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Walnut in Water",
+    "candidates": [
+      "Walnut in Water",
+      "Three Chambers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar's teaching about the fetus being like a nut in a basin of water, which directly matches the 'Walnut in Water' section's prose discussing exactly this image.",
+      "chosen_heading": "Walnut in Water",
+      "current_heading": "Walnut in Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Three Chambers",
+    "candidates": [
+      "Three Chambers",
+      "Birth Pangs",
+      "Girl Birth Pangs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about the three chambers, the note about female birth pangs being greater, and Rabbi Elazar's verse from Psalms \u2014 are exactly the content described in the 'Three Chambers' prose, which explicitly covers the lower/middle/upper compartments, the turning at birth, and the rukamti/darti verse derivation.",
+      "chosen_heading": "Three Chambers",
+      "current_heading": "Three Chambers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Girl Birth Pangs",
+    "candidates": [
+      "Birth Pangs",
+      "Girl Birth Pangs",
+      "Trimesters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why female birth pangs are greater (the fetus must flip), which matches the 'Girl Birth Pangs' prose that discusses zeh ba k'derech tashmisho and the turning mechanism \u2014 the current placement is correct.",
+      "chosen_heading": "Girl Birth Pangs",
+      "current_heading": "Girl Birth Pangs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Trimesters",
+    "candidates": [
+      "Trimesters",
+      "Day 90"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the trimester-by-trimester breakdown of marital relations during pregnancy, which is precisely what the 'Trimesters' section prose discusses.",
+      "chosen_heading": "Trimesters",
+      "current_heading": "Trimesters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Day 90",
+    "candidates": [
+      "Day 90",
+      "Father's White",
+      "Mother's Red"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 90th day of pregnancy risk and Abaye's resolution, which is precisely what the 'Day 90' section's prose describes.",
+      "chosen_heading": "Day 90",
+      "current_heading": "Day 90",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Mother's Red",
+    "candidates": [
+      "Father's White",
+      "Mother's Red",
+      "God's Gifts",
+      "Death & Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three partners together (father's white, mother's red, and God's gifts), but the prose under heading 0 ('Father's White') explicitly introduces and describes this entire Baraita as a unit, whereas headings 1 and 2 only discuss portions of it \u2014 the full quoted text clearly belongs under the heading that introduces the whole passage.",
+      "chosen_heading": "Father's White",
+      "current_heading": "Mother's Red",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Death & Return",
+    "candidates": [
+      "God's Gifts",
+      "Death & Return",
+      "Pouch Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes God retrieving His portion at death and the Rav Pappa folk saying about salt and meat, which is precisely what the 'Death & Return' section's prose discusses.",
+      "chosen_heading": "Death & Return",
+      "current_heading": "Death & Return",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Pouch Analogy",
+    "candidates": [
+      "Pouch Analogy",
+      "Scale Rises"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the pouch/flask analogy comparing God's preservation of the fetus to a human placing an item in a tied flask, which exactly matches the prose of candidate 0 ('Pouch Analogy').",
+      "chosen_heading": "Pouch Analogy",
+      "current_heading": "Pouch Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Scale Rises",
+    "candidates": [
+      "Scale Rises",
+      "Seeds Merge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about the scale/balance metaphor where heavier objects descend with humans but ascend with God's formation of the fetus, which is precisely what the 'Scale Rises' section prose discusses.",
+      "chosen_heading": "Scale Rises",
+      "current_heading": "Scale Rises",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Seeds Merge",
+    "candidates": [
+      "Seeds Merge",
+      "Dyer's Colors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes how different seeds in a garden bed each grow true to their own kind (unlike God's formation of the fetus where all merge as one), which matches exactly the 'Seeds Merge' section prose discussing Rabbi Yose HaGlili's drasha about seeds in a garden bed and divine unification.",
+      "chosen_heading": "Seeds Merge",
+      "current_heading": "Seeds Merge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Dyer's Colors",
+    "candidates": [
+      "Dyer's Colors",
+      "Yosef Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the davar acher about the dyer's cauldron and how God forms distinct components in the womb, which is precisely what the 'Dyer's Colors' section prose describes in detail.",
+      "chosen_heading": "Dyer's Colors",
+      "current_heading": "Dyer's Colors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Yosef Drasha",
+    "candidates": [
+      "Yosef Drasha",
+      "Miracles Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rav Yosef drasha \u2014 the question about the verse and its parabolic answer \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Yosef Drasha",
+      "current_heading": "Yosef Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Miracles Alone",
+    "candidates": [
+      "Miracles Alone",
+      "Winnowing Seed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's teaching about God performing wonders alone and the miracle recipient not recognizing his miracle, which is precisely what the 'Miracles Alone' section's prose describes and analyzes.",
+      "chosen_heading": "Miracles Alone",
+      "current_heading": "Miracles Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Winnowing Seed",
+    "candidates": [
+      "Winnowing Seed",
+      "God Counts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the winnowing/selection of seed for conception \u2014 Rabbi \u1e24anina bar Pappa's teaching and Rabbi Abbahu's resolution of the contradiction between verses \u2014 which is precisely what the 'Winnowing Seed' prose section describes in detail.",
+      "chosen_heading": "Winnowing Seed",
+      "current_heading": "Winnowing Seed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "God Counts",
+    "candidates": [
+      "God Counts",
+      "Bilam Blind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abbahu's teaching about God counting the sexual encounters of Israel to anticipate righteous conception, which is precisely what the 'God Counts' section's prose discusses in detail.",
+      "chosen_heading": "God Counts",
+      "current_heading": "God Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Bilam Blind",
+    "candidates": [
+      "Bilam Blind",
+      "Yissachar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Bilam's eye being blinded as punishment for his outrage at God's involvement in conception, which matches precisely the prose under 'Bilam Blind' that discusses this exact event and its connection to the verse 'shtum ha'ayin'.",
+      "chosen_heading": "Bilam Blind",
+      "current_heading": "Bilam Blind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Yissachar",
+    "candidates": [
+      "Yissachar",
+      "Ancient Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's teaching about God's involvement in the conception of Issachar via the donkey, which is exactly what the 'Yissachar' section prose describes and analyzes.",
+      "chosen_heading": "Yissachar",
+      "current_heading": "Yissachar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Ancient Rule",
+    "candidates": [
+      "Ancient Rule",
+      "Tarfon Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yitzchak/Rabbi Ami's statement about the woman emitting seed first producing a male, which is exactly what the 'Ancient Rule' prose discusses, not the Tarfon proof-text elaboration.",
+      "chosen_heading": "Ancient Rule",
+      "current_heading": "Ancient Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Tarfon Proof",
+    "candidates": [
+      "Tarfon Proof",
+      "Female Orgasm",
+      "Archers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about Rabbi Tzadok explaining the verse from Genesis 46:15 about Leah's sons and Dinah \u2014 exactly what the 'Tarfon Proof' prose describes (noting the rabbi's name differs between the essay prose and the actual text, but the content is identical).",
+      "chosen_heading": "Tarfon Proof",
+      "current_heading": "Tarfon Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Archers",
+    "candidates": [
+      "Female Orgasm",
+      "Archers",
+      "Rav Katina",
+      "Near Period",
+      "Cleansing Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Ulam/archers passage about delaying seed so wives emit first to produce male children, plus Rav Katina and Rava's statements \u2014 exactly what the 'Archers' prose section describes in detail.",
+      "chosen_heading": "Archers",
+      "current_heading": "Archers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Cleansing Sin",
+    "candidates": [
+      "Rav Katina",
+      "Near Period",
+      "Cleansing Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rabbi Ami (conception near period) and Rabbi Yochanan (conception near immersion), which is exactly what the 'Near Period' prose introduces, while the 'Cleansing Sin' prose already discusses the interpretation of these very same statements in detail \u2014 the passage belongs under 'Near Period' as the initial statement of the dispute, not under 'Cleansing Sin' which elaborates on it.",
+      "chosen_heading": "Near Period",
+      "current_heading": "Cleansing Sin",
+      "moved": true
+    }
+  }
+]

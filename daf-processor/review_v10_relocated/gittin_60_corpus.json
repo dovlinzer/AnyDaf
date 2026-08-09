@@ -1,0 +1,371 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Shabbat vs Weekday",
+    "candidates": [
+      "Kohen-Levi-Yisrael",
+      "Shabbat vs Weekday",
+      "Rav Huna Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Mattana's qualification about Shabbat/Yom Tov versus weekdays, which is precisely what the 'Shabbat vs Weekday' prose section describes.",
+      "chosen_heading": "Shabbat vs Weekday",
+      "current_heading": "Shabbat vs Weekday",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav Huna Exception",
+    "candidates": [
+      "Rav Huna Exception",
+      "Bundle Unravels",
+      "Rashi vs Rav Yitzchak",
+      "Tosafot Position",
+      "Levi Without Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's exception to the rule about priests reading first, which is exactly what the 'Rav Huna Exception' section's prose describes.",
+      "chosen_heading": "Rav Huna Exception",
+      "current_heading": "Rav Huna Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Levi Without Kohen",
+    "candidates": [
+      "Bundle Unravels",
+      "Rashi vs Rav Yitzchak",
+      "Tosafot Position",
+      "Levi Without Kohen",
+      "Double Status Rule",
+      "Same Person Twice",
+      "Stories",
+      "Pegam Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the two Abaye traditions discussed in candidate 3's prose \u2014 'nisperdah hachavilah' (no kohen, bundle unravels) and 'ein sham levi, kari kohen' (no levi, the kohen reads again) \u2014 which the candidate 3 prose explicitly summarizes and transitions from.",
+      "chosen_heading": "Levi Without Kohen",
+      "current_heading": "Levi Without Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Pegam Analysis",
+    "candidates": [
+      "Double Status Rule",
+      "Same Person Twice",
+      "Stories",
+      "Pegam Analysis",
+      "Rabbi Helbo Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic chain analyzing why two kohanim generate pegam only on the first while two leviim generate pegam on both, culminating in the question about who the observers are (yotzim) \u2014 exactly what the 'Pegam Analysis' prose describes.",
+      "chosen_heading": "Pegam Analysis",
+      "current_heading": "Pegam Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Rabbi Helbo Query",
+    "candidates": [
+      "Rabbi Helbo Query",
+      "Talmidei Chachamim",
+      "Full Hierarchy List",
+      "Status vs Merit",
+      "Chumashim Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange of the Galileans' question to Rabbi Helbo and his referral to Rabbi Yitzchak Nappa\u1e25a \u2014 which is precisely what heading 0 ('Rabbi Helbo Query') describes, including the full answer about the hierarchy \u2014 and the current placement matches this content exactly.",
+      "chosen_heading": "Rabbi Helbo Query",
+      "current_heading": "Rabbi Helbo Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Chumashim Question",
+    "candidates": [
+      "Talmidei Chachamim",
+      "Full Hierarchy List",
+      "Status vs Merit",
+      "Chumashim Question",
+      "Kavod HaTzibbur",
+      "Rambam Position",
+      "Beit Yosef",
+      "Haftara Prohibition",
+      "Out of Context Problem",
+      "Muktzeh Status",
+      "Aggadata Exception",
+      "Lo Efshar Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about reading from \u1e25umashim in public \u2014 the question sent by the bnei Galila, the attempted proof and its rejection, and Rabba and Rav Yosef's ruling on kavod ha-tzibbur \u2014 which is precisely what the 'Chumashim Question' section's prose describes in detail.",
+      "chosen_heading": "Chumashim Question",
+      "current_heading": "Chumashim Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Lo Efshar Principle",
+    "candidates": [
+      "Kavod HaTzibbur",
+      "Rambam Position",
+      "Beit Yosef",
+      "Haftara Prohibition",
+      "Out of Context Problem",
+      "Muktzeh Status",
+      "Aggadata Exception",
+      "Lo Efshar Principle",
+      "Megillah Question",
+      "Megillah vs Chatumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Muktzeh Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Mar bar Rav Ashi's muktzeh ruling and its rejection via the aggadata proof, matching headings 5 and 6, but since items 1-2 form one continuous argument (muktzeh claim \u2192 rejection via aggadata precedent \u2192 lo efshar principle), they belong together under heading 5 ('Muktzeh Status') where the Mar bar Rav Ashi ruling is discussed, with item 2's aggadata content flowing naturally as the refutation.",
+      "second_heading": "Megillah Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's dilemma about writing a megillah for a child to study, which matches exactly the prose of heading 8 ('Megillah Question') describing this precise question.",
+      "current_heading": "Lo Efshar Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Megillah vs Chatumah",
+    "candidates": [
+      "Megillah Question",
+      "Megillah vs Chatumah",
+      "Tannaitic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the two-sided dilemma specifically for the 'megillah megillah nitnah' opinion \u2014 exactly what the 'Megillah vs Chatumah' section's prose describes: how the question plays out differently depending on whether Torah was given scroll by scroll, and whether 'keivan de-idbik, idbik' resolves it even on that view.",
+      "chosen_heading": "Megillah vs Chatumah",
+      "current_heading": "Megillah vs Chatumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Tannaitic Debate",
+    "candidates": [
+      "Tannaitic Debate",
+      "Heleni Tablet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the dilemma and Rabba's ruling about writing separate Torah scrolls (ein kotvin), which matches the 'Tannaitic Debate' section's prose about Rabba's response and the prohibition against fragmenting the Torah.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Tannaitic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Heleni Tablet",
+    "candidates": [
+      "Heleni Tablet",
+      "Modern Schools",
+      "R. Yochanan vs Reish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Heleni Tablet",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are the continuous Gemara discussion about Queen Helene's golden tablet and the successive objections/resolutions regarding how it was written, which is precisely what the 'Heleni Tablet' prose describes.",
+      "second_heading": "R. Yochanan vs Reish",
+      "second_confidence": "medium",
+      "second_reason": "Item 4 introduces the Tannaitic dispute (ketan'ai) about writing a scroll for a child, including Rabbi Yehuda's position about Genesis through Dor ha-Mabul and Torat Kohanim through Vayehi Bayom ha-Shemini \u2014 content that the 'R. Yochanan vs Reish' section does not discuss, but the 'Heleni Tablet' prose explicitly mentions Rabbi Yehuda's position about these specific lengths as its opening point, suggesting item 4 may actually belong there too; however, structurally item 4 is a new baraita introducing a fresh Tannaitic dispute that stands independently of the Helene tablet discussion.",
+      "current_heading": "Heleni Tablet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "R. Yochanan vs Reish",
+    "candidates": [
+      "Modern Schools",
+      "R. Yochanan vs Reish",
+      "Prooftexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Rabbi Yochanan vs. Reish Lakish dispute about how the Torah was given (scroll by scroll vs. as a complete unit), which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "R. Yochanan vs Reish",
+      "current_heading": "R. Yochanan vs Reish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Prooftexts",
+    "candidates": [
+      "Prooftexts",
+      "Eight Parshiyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are counter-prooftexts being resolved in both directions (Rabbi Yochanan handling 'lakoch' and Reish Lakish handling 'megillat sefer'), which is precisely what the 'Prooftexts' prose describes.",
+      "chosen_heading": "Prooftexts",
+      "current_heading": "Prooftexts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Eight Parshiyot",
+    "candidates": [
+      "Eight Parshiyot",
+      "R. Elazar View",
+      "R. Yochanan View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together enumerate the eight parshiyot of Rabbi Levi's tradition, which is precisely what the 'Eight Parshiyot' section's prose discusses in detail.",
+      "chosen_heading": "Eight Parshiyot",
+      "current_heading": "Eight Parshiyot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "R. Yochanan View",
+    "candidates": [
+      "R. Elazar View",
+      "R. Yochanan View",
+      "Rashi Interpretation",
+      "Derivation Debate",
+      "Separate Genres"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yo\u1e25anan's view (majority oral, minority written) and his reinterpretation of Rabbi Elazar's prooftext as a rhetorical question \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "R. Yochanan View",
+      "current_heading": "R. Yochanan View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Separate Genres",
+    "candidates": [
+      "Rashi Interpretation",
+      "Derivation Debate",
+      "Separate Genres",
+      "Drasha vs Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses Rabbi Elazar's position on the verse 'ki al pi ha-devarim ha-eileh' and explains it in terms of the difficulty of oral learning rather than quantity \u2014 which directly maps to the 'Derivation Debate' section's discussion of Rabbi Elazar vs Rabbi Yochanan on the epistemological basis of Torah she'baal peh.",
+      "chosen_heading": "Derivation Debate",
+      "current_heading": "Separate Genres",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Drasha vs Halacha",
+    "candidates": [
+      "Separate Genres",
+      "Drasha vs Halacha",
+      "Covenant & Oral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabbi Yehuda bar Na\u1e25mani derasha (written vs. oral distinction) AND the school of Rabbi Yishmael's teaching about 'these you may write but not halakhot' \u2014 the prose under heading 0 ('Separate Genres') explicitly discusses and anticipates both parts of this passage, including the school of Rabbi Yishmael's distinction as its concluding point, making it the correct home for the entire quoted text.",
+      "chosen_heading": "Separate Genres",
+      "current_heading": "Drasha vs Halacha",
+      "moved": true
+    }
+  }
+]

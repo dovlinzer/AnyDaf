@@ -1,0 +1,450 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Mizbeach/Bimos Intro",
+      "Stone Composition",
+      "Biblical Source",
+      "Own vs. Friend",
+      "Ne'evad Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the baraita confirmation and biblical source derivation for the mizbeach/bimos distinction, precisely matching the 'Biblical Source' section's prose about Chizkiyah's verse from Isaiah 27:9 and the multi-stone principle \u2014 though item 1 also overlaps with 'Stone Composition', the two items flow continuously into the biblical derivation and belong together under 'Biblical Source'.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Biblical Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Ne'evad Definition",
+    "candidates": [
+      "Own vs. Friend",
+      "Ne'evad Definition",
+      "Ones/Forced",
+      "Rami Bar Chama",
+      "Rabbi Zeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the baraita distinguishing between one's own animal (forbidden) and another's animal (permitted), then raises the contradiction from the second baraita about ones \u2014 this matches heading 0 ('Own vs. Friend') which describes precisely this baraita and its initial contradiction, while heading 1 ('Ne'evad Definition') describes the analysis of the contradiction, which comes after this passage.",
+      "chosen_heading": "Own vs. Friend",
+      "current_heading": "Ne'evad Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabbi Zeira",
+    "candidates": [
+      "Ones/Forced",
+      "Rami Bar Chama",
+      "Rabbi Zeira",
+      "Rava/Kiddush Hashem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rami bar \u1e24ama's reinterpretation of 'ones' as coercion by gentiles AND Rabbi Zeira's immediate objection \u2014 both of which belong under the 'Ones/Forced' heading whose prose explicitly discusses Rami bar \u1e24ama's reading and introduces the conceptual tension that Rabbi Zeira then challenges, making that section the natural home for the complete exchange.",
+      "chosen_heading": "Ones/Forced",
+      "current_heading": "Rabbi Zeira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Rava/Kiddush Hashem",
+    "candidates": [
+      "Rabbi Zeira",
+      "Rava/Kiddush Hashem",
+      "Tosafot Defense",
+      "Persecution Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely Rava's resolution using the interplay between 'v'chai bahem' and 'v'lo techalelu et shem kodshi,' resolved via the public/private distinction \u2014 exactly what the 'Rava/Kiddush Hashem' prose describes.",
+      "chosen_heading": "Rava/Kiddush Hashem",
+      "current_heading": "Rava/Kiddush Hashem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Persecution Baraita",
+    "candidates": [
+      "Tosafot Defense",
+      "Persecution Baraita",
+      "Willing Apostates",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself about platforms used during persecution, which is precisely what the 'Persecution Baraita' section's prose describes \u2014 the rabbis bringing this baraita to support Rava's position.",
+      "chosen_heading": "Persecution Baraita",
+      "current_heading": "Persecution Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Willing Apostates",
+      "Rav Ashi",
+      "Chizkiyah Answer",
+      "Ownership Principle",
+      "Rav Adda Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's 'eima' (perhaps) formulation about willing apostates AND Rav Ashi's 'vadai' (certain) sharpening of that point \u2014 both parts belong under the 'Willing Apostates' heading whose prose explicitly discusses Rava's eima argument, while the current 'Rav Ashi' heading's prose describes Rav Ashi's contribution as a further elaboration of the same theme that naturally follows Rava's statement in the same textual unit.",
+      "chosen_heading": "Willing Apostates",
+      "current_heading": "Rav Ashi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rav Adda Challenge",
+    "candidates": [
+      "Chizkiyah Answer",
+      "Ownership Principle",
+      "Rav Adda Challenge",
+      "Action on Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Chizkiyah's statement about pouring wine on the animal's horns and Rav Adda's immediate objection \u2014 both are introduced and explained under the 'Chizkiyah Answer' heading, while the current placement under 'Rav Adda Challenge' only covers Rav Adda's response without the preceding Chizkiyah statement that opens this passage.",
+      "chosen_heading": "Chizkiyah Answer",
+      "current_heading": "Rav Adda Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Action on Animal",
+    "candidates": [
+      "Rav Adda Challenge",
+      "Action on Animal",
+      "Ulla Teaching",
+      "Action Exception",
+      "Rav Nachman",
+      "Rav Huna Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Adda bar Ahava's revised formulation \u2014 that wine poured between the animal's horns constitutes a ma'aseh directed at the animal as the object of worship, creating ne'evad status \u2014 which is precisely what the 'Action on Animal' prose discusses.",
+      "chosen_heading": "Action on Animal",
+      "current_heading": "Action on Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav Huna Case",
+    "candidates": [
+      "Ulla Teaching",
+      "Action Exception",
+      "Rav Nachman",
+      "Rav Huna Case",
+      "Kohanim Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Nachman's response to Ulla ('puk ve'imru lei le'Ulla, kevar tirgemah Rav Huna...'), which is precisely what the 'Rav Nachman' section's prose describes, rather than the 'Rav Huna Case' section which discusses what Rav Huna specifically said.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Huna Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Kohanim Source",
+    "candidates": [
+      "Rav Huna Case",
+      "Kohanim Source",
+      "Rejected Source",
+      "Altar Stones",
+      "Ownerlessness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'from where do we derive that he rendered it prohibited?' and raises the kohanim case as a potential source, then questions whether priests are different due to their awareness \u2014 this is precisely the content described in the 'Kohanim Source' prose.",
+      "chosen_heading": "Kohanim Source",
+      "current_heading": "Kohanim Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Ownerlessness",
+    "candidates": [
+      "Rejected Source",
+      "Altar Stones",
+      "Ownerlessness",
+      "Achaz Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises and then rejects the altar stones as a source, which matches the 'Altar Stones' prose that describes this exact attempted proof and its rejection via Rav Pappa's explanation.",
+      "chosen_heading": "Altar Stones",
+      "current_heading": "Ownerlessness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Achaz Vessels",
+    "candidates": [
+      "Ownerlessness",
+      "Achaz Vessels",
+      "Natural Ground",
+      "Digging Exception",
+      "Payment Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of the Achaz vessels \u2014 the question of how Achaz could forbid Temple property not his own and the resolution that his physical act of idolatrous use rendered them forbidden \u2014 which is precisely what the 'Achaz Vessels' prose describes.",
+      "chosen_heading": "Achaz Vessels",
+      "current_heading": "Achaz Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Payment Exchange",
+    "candidates": [
+      "Natural Ground",
+      "Digging Exception",
+      "Payment Exchange",
+      "Money Paid",
+      "Direct Payment Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Dimi/ground teaching and the Rav Shmuel bar Yehuda/animals teaching as a pair, and heading 0 ('Natural Ground') is where the passage begins \u2014 its prose already introduces Rav Dimi's teaching, and the Digging Exception (1) and Payment Exchange (2) headings are meant to cover the two halves separately, but since the Gemara text presents both teachings together as one unit, the natural starting heading where the passage belongs as a whole is heading 0, which introduces the first of the two teachings.",
+      "chosen_heading": "Natural Ground",
+      "current_heading": "Payment Exchange",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Direct Payment Only",
+    "candidates": [
+      "Money Paid",
+      "Direct Payment Only",
+      "Infinite Extension",
+      "Biblical Source",
+      "Kamo'hu Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the machloket between Rabbi Yishmael bar Rabbi Yosei and the Rabbis about chalifin vs. chalifei chalifin, which directly follows the 'Money Paid' prose that sets up the question of what happens through successive exchanges \u2014 the 'Money Paid' section is where this dispute is introduced, while 'Direct Payment Only' and 'Infinite Extension' are the essay author's own explanations of each opinion after citing this source.",
+      "chosen_heading": "Money Paid",
+      "current_heading": "Direct Payment Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Kamo'hu Limit",
+    "candidates": [
+      "Infinite Extension",
+      "Biblical Source",
+      "Kamo'hu Limit",
+      "Sanctity Transfer",
+      "Two Verses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question-and-answer about the biblical source for the opinion that chalifei chalifin are prohibited (item 1) and the counter-derivation using 'hu' to limit the prohibition (item 2 re: orlah/kilayei hakerem), which matches the 'Biblical Source' prose discussing v'hayita cherem kamo hu and the expansive reading \u2014 not the 'Kamo'hu Limit' prose which discusses the restrictive reading and already incorporates the orlah/kilayei hakerem conclusion as settled matter.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Kamo'hu Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Two Verses Rule",
+    "candidates": [
+      "Sanctity Transfer",
+      "Two Verses Rule",
+      "Kedesh vs. Shemitah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that orla and kilayei hakerem require no exclusion because avodah zarah and shemitah are two verses that come as one (shenei kesuvim haba'im k'echad ein melamdin), which is precisely what the 'Two Verses Rule' prose section explains and discusses.",
+      "chosen_heading": "Two Verses Rule",
+      "current_heading": "Two Verses Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Kedesh vs. Shemitah",
+    "candidates": [
+      "Kedesh vs. Shemitah",
+      "Continuous Exchange",
+      "Mishnah Question",
+      "Natural Objects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kedesh vs. Shemitah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the derivation that shemitah produce transfers kedushah to money while retaining its own forbidden status ('tihyeh'/'b'havayasa teha'), which matches heading 0's prose about the kodesh/shemitah distinction and the 'tihyeh' verse.",
+      "second_heading": "Continuous Exchange",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 describe the chain of exchanges (meat\u2192fish\u2192fish\u2192wine\u2192oil, acharon acharon nitpas) and the dispute about 'shenei kesuvim' and 'kamo hu', which matches heading 1's prose about the mechanics of kedushas shevi'is traveling through successive transactions.",
+      "current_heading": "Kedesh vs. Shemitah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Natural Objects",
+    "candidates": [
+      "Continuous Exchange",
+      "Mishnah Question",
+      "Natural Objects",
+      "Natural Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah presenting the philosophical challenge about why God doesn't eliminate idolatry, the exchange about destroying only useless idols, and the Gemara's parallel baraita \u2014 belong together under 'Mishnah Question,' whose prose introduces exactly this philosophical exchange about why God permits idolatry to persist, which is the shared subject of all three items.",
+      "chosen_heading": "Mishnah Question",
+      "current_heading": "Natural Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Natural Law",
+    "candidates": [
+      "Natural Objects",
+      "Natural Law",
+      "Judgment",
+      "Theft Example",
+      "Adultery Example",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Theft Example",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the theft-of-wheat illustration, which matches exactly the prose in 'Theft Example' (index 3) describing a stolen measure of wheat planted in the ground yet growing.",
+      "second_heading": "Adultery Example",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the adultery-and-conception illustration, which matches exactly the prose in 'Adultery Example' (index 4) describing how pregnancy can result from adultery despite moral expectations.",
+      "current_heading": "Natural Law",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Judgment",
+      "Theft Example",
+      "Adultery Example",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Reish Lakish teaching about God being compelled to sign against His will when adultery results in conception, which is precisely what the 'Reish Lakish' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  }
+]

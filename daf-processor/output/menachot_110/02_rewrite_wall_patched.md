@@ -1,0 +1,133 @@
+# Menachot 110 — Daf Yomi Shiur
+
+## Beit Chonyo
+
+### House of Onias
+
+Daf 110 brings us to the conclusion of the *perek* and the conclusion of Menachot as a whole. We are in the midst of a discussion of *Beit Chonyo* — the house, the temple, of Onias — which was built in Egypt. According to the Gemara it was in Alexandria, though historically it was located in a different part of the Nile Delta known as the land of Onias. It was founded by a son or descendant of Shimon HaTzadik, and the central question is whether it constituted a house of *avodah zarah* or a house of legitimate worship of God. Rabbi Meir held it was *avodah zarah*. Rabbi Yehuda held it was genuine worship of God, though still forbidden as *shechutei chutz* — bringing *korbanot* outside the *Beit HaMikdash* — yet far better than *avodah zarah*. Rabbi Yehuda adduced a verse from Yeshayahu in support: *ba'yom hahu yiheyeh mizbe'ach l'Hashem b'toch eretz Mitzrayim u'matzeva etzel gevulah l'Hashem* — on that day there will be an altar to God in the midst of the land of Egypt and a pillar at its border for God. This appears to prophesy an altar to God in Egypt, lending support to the view that *Beit Chonyo* was legitimate worship.
+
+### Isaiah 19 Reading
+
+The Gemara then asks: what does Rabbi Meir do with that verse? He reads that verse together with the verse immediately preceding it — Yeshayahu 19:18 — not as referring to *Beit Chonyo* at all, but as referring to events in the time of Chizkiyahu. When the Assyrian forces of Sancheriv were defeated, the foreign princes in his camp were made to swear that they would not worship *avodah zarah*, and when they subsequently went to Egypt, they actually worshipped God.
+
+### Alexandria Altar
+
+We pick up at the top of daf 110 with the conclusion of that point:
+
+> *Halchu l'Alexandria shel Mitzrayim u'vanu mizbe'ach v'he'elu alav l'shem shamayim* — they went to Alexandria of Egypt and built an altar and offered upon it *l'shem shamayim*. As it is written: *ba'yom hahu yiheyeh mizbe'ach l'Hashem b'toch eretz Mitzrayim*.
+
+So according to Rabbi Meir, the verse refers not to *Beit Chonyo* but to an entirely different historical episode. The Gemara then turns to the phrase earlier in that verse — *Ir HaHeres ye'amer l'achat mehen* — the city of destruction will be said about one of them. The full verse (Yeshayahu 19:18) reads: *ba'yom hahu yiheyu chamesh arim b'eretz Mitzrayim medabrot sfat Kna'an* — on that day five cities in Egypt will speak the language of Canaan, meaning Hebrew — *v'nishba'ot l'Hashem Tzeva'ot Ir HaHeres ye'amer l'achat mehen* — and swear by the Lord of Hosts; the city of *heres* will be said of one of them.
+
+What does *Ir HaHeres* — the city of destruction — mean here? *K'targum Rav Yosef* — as Rav Yosef translates it: *Kartei d'Beit Shemesh d'atid l'michrav it'amar dehi chada mi'hon* — the city of *Beit Shemesh* that will in the end be destroyed, it will be said that it was one of them. The reference appears to be not to the *Beit Shemesh* in the Land of Israel but to some other city bearing that name — the House of the Sun — since the context is the land of Egypt. The word *heres* appears to mean "sun," yielding the reading "City of the Sun," which will ultimately be destroyed and called the City of Destruction.
+
+The Gemara then asks: *u'mimai d'Ir HaHeres lishana d'shimsha hu?* — how do we know that *heres* means sun? *De'chtiv h'omer l'cheres v'lo yizrach* — as it is written in Iyov, God commands the *cheres* and it does not shine forth. In context, *cheres* clearly refers to the sun. It may be noted that in the Septuagint, the Greek translation renders *Ir HaHeres* as something like "the City of Splendor."
+
+---
+
+## Exiles & Nations
+
+### Sons & Daughters
+
+Since the discussion has been touching on Jews in Egypt and their worship of God in exile, the Gemara now proceeds to quote verses relating to the Jewish people in dispersion. The verse is: *Habii vanai merachok u'venotai miketze ha'aretz* — bring My sons from afar and My daughters from the ends of the earth (Yeshayahu 43:6). Why the distinction between sons and daughters? *Amar Rav Huna elu galuyot she'be'Vavel* — these are the exiles in Babylonia — *she'daatam meyushevet aleihem* — whose minds are settled upon them. *U'venotai miketze ha'aretz elu galuyot she'she'ar aratzot she'ein daatam meyushevet aleihem* — "My daughters from the ends of the earth" refers to the exiles in all other lands, whose minds are not settled, who do not have tranquility or peace of mind. Rashi explains the underlying assumption: those in Babylonia, where the primary Torah communities were concentrated, are like sons whose minds are settled; those in the other lands of exile are like daughters whose minds are less settled.
+
+### Tyre-Carthage
+
+The Gemara continues with a further teaching. *Amar Rabbi Abba bar Rav Yitzchak amar Rav Chisda, ve'amri lah amar Rav Yehuda amar Rav* — with variant traditions as to who transmitted this in whose name. The teaching is: *mitzor vead Kartigigi makirin Yisrael ve'et avihem she'bashamayim* — from Tyre to Carthage, they recognize the Jewish people and they recognize their Father in Heaven. The implication is that because the non-Jewish nations from Tyre to Carthage have encountered the Jewish people, they have come to understand the idea of a single God. Rashi explains *va'avihem she'bashamayim* as meaning that they affirm belief in God and are not given over to *avodah zarah* — at minimum they are *makirim*, they recognize what the Jewish people represent and the faith they embody.
+
+*U'Mitzor klapei ma'arav u'miKartigigi klapei mizrach ein makirim et Yisrael ve'lo et avihem she'bashamayim* — but from Tyre toward the west, and from Carthage toward the east, they do not recognize the Jewish people and do not recognize their Father in Heaven. The implied reason is that the Jewish people were not exiled into those regions, and therefore those nations have no knowledge of the Jewish people or of the idea of a single God. One must acknowledge, however, that the geographic directions as stated are difficult to follow: Carthage lies considerably to the west of the Land of Israel along the Mediterranean, so one would expect the formulation to be reversed — from Carthage to the east and from Tyre to the west lies the territory between them where they *do* recognize Israel. An examination of all available manuscripts yields no variant reading that resolves this, and the directions remain puzzling.
+
+### Geographic Challenge
+
+*Eitiveih Rav Shimi bar Chiya le'Rav* — Rav Shimi bar Chiya challenges Rav's position with the following verse: *mimizrach shemesh vead mevo'o gadol shemi ba'goyim, u'vechol makom muktar mugash lishmi u'mincha tehorah* — from the rising of the sun to its setting, My name is great among the nations, and in every place incense is being offered and brought to My name, and a pure *mincha* (Malachi 1:11). This seems to say that everywhere in the world the nations recognize God — not merely between Tyre and Carthage.
+
+*Amar lei* — Rav replied to him: is that a question worthy of you? What the verse means is *d'karai lei Elaha d'Alahaya* — they call God the God of Gods. They acknowledge the existence of a supreme divine power even while worshipping other gods beneath it. But this prompts a further difficulty: the earlier statement was not about whether the nations actually worship God rather than *avodah zarah*, but about whether they are *makirim* — whether they recognize Israel's Father in Heaven. If they call God "the God of Gods," why does that not count as *makirin avihem she'bashamayim*?
+
+The Maharsha explains that part of truly recognizing God through the lens of the Jewish people is not merely acknowledging an all-powerful supreme being but recognizing God's *hashgacha pratis* — His direct involvement in history and in the lives of individuals. This is perhaps evoked by the very phrase *avihem she'bashamayim* — Father, one who cares. The nations beyond the boundary may acknowledge a supreme God in the abstract while worshipping lesser gods underneath, but they do not know the God of the Jewish experience — the personal, caring Father. That is the distinction Rav is drawing.
+
+---
+
+## Torah = Korban
+
+### Learning = Incense
+
+The Gemara now returns to the end of the verse from Malachi: *u'vechol makom muktar mugash lishmi* — and in every place incense is offered to My name. *U'vechol makom salka daitach?* — in every place? Can it really mean that incense is offered to God everywhere in the world? Surely they are not worshipping God everywhere, and even if we are speaking of Jews, *korbanot* cannot be brought outside the *Beit HaMikdash*. *Amar Rabbi Shimon bar Nachmani amar Rabbi Yochanan* — these are *talmidei chachamim ha'oskim baTorah b'chol makom* — Torah scholars who engage in Torah in every place. *Ma'aleh ani aleihem k'ilu maktirim u'magishim lishmi* — I account it to them as though they are burning incense and offering up to Me.
+
+This is a striking statement, and one that is entirely apt at the conclusion of Menachot. We have just completed the two great *masechtot* on *korbanot* — Zevachim and Menachot — and we no longer have *korbanot*. The answer given here is that the learning of Torah in any place counts as the offering of *korbanot*. And indeed, the Torah's mode of service is in certain respects more expansive: it can take place anywhere, not only in the *Beit HaMikdash*.
+
+The Gemara then asks what *u'mincha tehorah* — and a pure *mincha* — means in this context. *Zeh ha'lomed Torah b'taharah* — this is one who learns Torah in purity. How does one achieve this purity? *Nosei isha v'achar kach lomed Torah* — one first marries and then learns Torah, so that one is not distracted by wayward thoughts and is able to learn with full concentration and purity of mind.
+
+### Night Learning
+
+The Gemara continues on the theme of Torah as equivalent to temple service. The verse reads: *Hinei barchu et Hashem kol avdei Hashem ha'omdim b'veit Hashem baleilot* — behold, bless God, all servants of God who stand in the house of God at night (Tehillim 134:1). But *baleilot* — at night? *Korbanot* are not performed at night. *Amar Rabbi Yochanan* — these are the Torah sages *ha'oskim baTorah ba'laila* — who engage in Torah at night. *Ma'aleh aleihem ha'katuv k'ilu oskim ba'avodah* — the verse accounts it to them as though they are engaging in the temple service. Here again the transcendence of limitation is emphasized: Torah learning at night — something impossible for *korbanot* — is reckoned as equivalent to the temple service, and it can take place in any location.
+
+### Supernal Altar
+
+The Gemara then brings the verse from Divrei HaYamim in which Shlomo declares: *Hineni boneh bayit l'shem Hashem Elokai l'hakdish lo l'haktir l'fanav ketoret samim u'ma'arechet tamid v'olot la'boker v'la'erev l'shabbatot v'lchodashim u'lmo'adei Hashem Elokeinu l'olam zot al Yisrael* — I am building a house for the name of the Lord my God, to sanctify it, to burn incense before Him, and the continual arrangement, and burnt offerings morning and evening, on Sabbaths and new moons and appointed times of the Lord our God — this is forever upon Israel. But is it truly forever? There is no *Beit HaMikdash* now. *Amar Rav Gidel amar Rav: zeh mizbe'ach banui u'Michael sar ha'gadol omeid u'makriv alav korban* — this refers to an altar that is built in heaven, where the great angel Michael stands and offers *korbanot* upon it. Even without the physical *Beit HaMikdash*, the supernal *Beit HaMikdash* endures in heaven, and the service continues there, perpetually maintained. This is a powerful image about the metaphysical necessity of *korbanot* — somehow the spiritual health of the world depends upon this service, and even when the earthly Temple is destroyed, it continues above.
+
+### Laws Rebuild Temple
+
+*Rabbi Yochanan amar: elu talmidei chachamim oskim b'hilchot avodah* — these are Torah scholars who engage in the laws of the temple service. *Ma'aleh alav ha'katuv k'ilu nivneh mikdash be'yameihem* — the verse accounts it to them as though the *Beit HaMikdash* were built in their days. This is the meaning of *l'olam*: through the study of the laws of the *avodah*, the Torah scholar in effect rebuilds the Temple. This teaching reinforces and extends the earlier pattern: Torah study transcends all limitations — of place, of time, of the absence of the *Beit HaMikdash* itself.
+
+---
+
+## Lev 7:37 Derash
+
+### No Need Sacrifices
+
+*Amar Reish Lakish: mai d'chtiv — Zot HaTorah l'olah la'minchah v'lachatat v'la'asham* — this is the Torah of the *olah*, of the *mincha*, of the *chatat*, and of the *asham* (Vayikra 7:37). The verse concludes the section in *Tzav* that lays out the basic parameters of the *korbanot*. Reish Lakish reads it to teach: *kol ha'osek baTorah k'ilu hikriv olah mincha chatat va'asham* — whoever engages in Torah it is as though he offered an *olah*, a *mincha*, a *chatat*, and an *asham*.
+
+*Ve'amar Rava* — but Rava offers a different reading. The verse, he observes, does not say *torat olah* or *torat mincha* — the Torah of the *olah*, the Torah of the *mincha* — as one might expect. It says *l'olah la'mincha* — for the *olah*, for the *mincha*. *Ela amar Rava: kol ha'osek baTorah eino tzarich lo olah v'lo mincha v'lo chatat v'lo asham* — whoever engages in Torah does not need an *olah*, does not need a *mincha*, does not need a *chatat*, does not need an *asham*.
+
+How does this differ from what Reish Lakish said? Both seem to be saying that Torah study is equivalent to offering sacrifices. The grammatical point Rava is making is significant: the prefix *la-* in Mishnaic Hebrew and in related Semitic usage can function as a negative — *la* meaning "not." So Rava reads the verse as: this is the Torah — *la-olah*, you do not need an *olah* — *la-mincha*, you do not need a *mincha*. The statement is substantively different, not merely stylistically so. The earlier teachings — including the image of Michael offering *korbanot* in heaven — frame *korbanot* as the ideal, the model, with Torah study being credited *as if* one performed them. Rava is saying something else entirely: Torah and *korbanot* are different and independent modes of serving God. If you learn Torah, *korbanot* become simply unnecessary; Torah is not a substitute for them, it is a parallel — perhaps superior — track. This is a genuinely different theological claim.
+
+### All Four Sacrifices
+
+*Amar Rabbi Yitzchak: mai d'chtiv — Zot torat ha'chatat v'zot torat ha'asham* — this is the Torah of the *chatat* and this is the Torah of the *asham* (Vayikra 7:37, read in *semichut* with the specific offerings). This teaches: *kol ha'osek b'torat chatat k'ilu hikriv chatat, v'kol ha'osek b'torat asham k'ilu hikriv asham* — whoever engages in the laws of the *chatat* it is as though he offered a *chatat*, and whoever engages in the laws of the *asham* it is as though he offered an *asham*.
+
+The Maharsha notes a subtle distinction between Rabbi Yitzchak's teaching and those preceding it. Reish Lakish was saying that learning Torah generally — learning any topic — is reckoned as having offered *korbanot*; the Torah as a whole is a mode of serving God analogous to the *avodah*. Rabbi Yitzchak is saying something more precise: the Torah study of a specific *korban* counts as that specific *korban* — not that general Torah learning is equivalent to sacrifices generically, but that learning the laws of a *chatat* counts specifically as a *chatat*, and learning the laws of an *asham* counts specifically as an *asham*. This is a deeply embedded idea in traditional practice. It underlies the custom of reciting passages describing the *korbanot* before *Pesukei d'Zimra*, with a *yehi ratzon* prayer that the recitation of these verses and the learning of these laws should count as though one actually offered those sacrifices.
+
+### Tosafot & Prayer
+
+At this point it is worth examining the Tosafot on *Michael sar gadol*, which opens a striking window onto the liturgy. Tosafot notes that there are different *midrashim* regarding what Michael is actually offering on the supernal altar. One view holds that it is *nishmotehem shel tzaddikim* — the souls of the righteous — that are being offered, as though the *tzaddikim*, upon their death, have their souls brought as an offering before God. This is a vivid and to some degree arresting image, one that becomes all the more poignant when considered in the context of Jewish martyrdom throughout history. A second view, evidently more comfortable with the metaphorical register, says *kvasim shel esh* — lambs of fire — keeping the image entirely in the heavenly domain: a heavenly *mizbe'ach*, a heavenly angel, a heavenly sacrifice, preserving the formal structure of the *avodah* without personalizing it in the same way.
+
+Tosafot then connects this directly to the *Shmoneh Esrei*: *v'hainu d'amrinan b'Shmoneh Esrei b'avodah, v'ishei Yisrael u'tefilatam meherah b'ahavah tekabel b'ratzon* — this is why we say in the *Retzei* blessing, "and the fire offerings of Israel, accept their prayer with love and favor." What are the *ishei Yisrael*, the fire offerings of Israel, that we invoke each day in *davening*? According to this reading, it is the ongoing heavenly *avodah* that Michael continues to perform. We are asking that those offerings — the celestial service that continues even in the absence of the earthly Temple — be accepted with love.
+
+Tosafot then records a dissenting view: *v'yesh omrim d'kai ad'le'il* — some say that *v'ishei Yisrael* does not modify *u'tefilatam tekabel b'ratzon* but rather attaches to the preceding sentence — *hashev et ha'avodah lidvir beitecha v'ishei Yisrael* — restore the service to Your holy sanctuary and the fire offerings of Israel. In this reading, we are not asserting that fire offerings are currently taking place and asking God to accept them; rather, we are asking God to restore them. Some even read *ishei* here as *anshei* — restore the Jewish people to Your sanctuary. The precise meaning of this phrase that we recite every single day remains genuinely open.
+
+This moment is an opportunity to reflect on something quite striking in the broader picture. The entire discussion in Berachot establishes that *tefillah* is *keneged* the *korbanot* — the three daily prayers correspond to the daily *tamid* offerings and to *Musaf*. Yet remarkably, nowhere in the *Shmoneh Esrei* is the word *korban* ever explicitly mentioned. Even in the *Retzei* blessing — where the word *ratzeh*, with its unmistakable connotations of sacrificial acceptance, points entirely toward *korbanot* — no sacrifice is named. The emphasis falls on *tefilatam tekabel be'ratzon*, accept our prayer, and *ishei Yisrael* remains, as we have seen, semantically indeterminate. This silence appears deliberate. If *tefillah* were framed explicitly as a substitute for *korbanot*, it would perpetually signal its own inadequacy — we are only doing this because we cannot do that. Better to say, in the spirit of Rava, that Torah and prayer are independent paths of *avodat Hashem*. A related statement appears in the name of Rabbi Yochanan ben Zakkai — that *tefillah* is not merely *keneged* *korbanot* but is their equivalent, perhaps even superior. And this idea is foreshadowed in the very verse with which we open *Shmoneh Esrei*: immediately following *Hashem sefatai tiftach u'fi yagid tehilatecha* in Tehillim, the next verse reads *ki lo tachpotz zevach ve'ettenah olah lo tirtzeh — zivchei Elokim ruach nedava, lev nishbar ve'nidkeh Elokim lo tivzeh* — what God desires is the generous spirit; a broken and contrite heart God will not despise.
+
+---
+
+## Sacrifice Theology
+
+### Heart to Heaven
+
+The final *mishnah* of Menachot draws together the threads of the entire *perek* in a theologically resonant way. The *mishnah* observes that the Torah uses the same phrase — *ishei rei'ach nicho'ach* — a fire offering of pleasing scent — for the *olat behemah*, the animal burnt offering; for the *olat of*, the bird burnt offering; and for the *mincha*, the grain offering. This is deliberate: *lomar lecha echad ha'marbeh ve'echad ha'mam'it u'vilvad she'yechaven libo lashamayim* — to tell you that whether one brings much or little, what matters is that one directs one's heart to Heaven. The quantity is irrelevant; the intention is everything.
+
+### Sleep Reward
+
+In the Gemara, Rabbi Zeira asks: *mah kra* — what verse supports this principle beyond the parallel phrasing that the *mishnah* itself relies upon? He cites a verse from Kohelet: *metuka shenat ha'oved im me'at ve'im harbeh* — sweet is the sleep of the worker whether much or little. Applied to our context: the one who brings a *korban* and goes home to sleep — his sleep is just as sweet and his reward just as full whether he brought much or little.
+
+### God Sees Intent
+
+*Rav Adda bar Ahava amar me'hacha* — Rav Adda bar Ahava supports the principle from a different verse, from Mishlei: *birbot ha'tova rabu ochleha, u'mah kishron la'ba'aleha ki im re'ot einav* — with the increase of goodness those who eat it increase, but what benefit is it to the master except the sight of his eyes? More sacrifices means more *kohanim* eating from them, which is fine. But as far as God, the *ba'al* in the ultimate sense, is concerned, it is *ki im re'ot einav* — only what His eyes see, meaning the intent behind the offering, that matters.
+
+### Divine Names
+
+*Tanya amar Rabbi Shimon ben Azzai: bo re'eh mah katuv be'parshat korbanot she'lo ne'emar bahen lo El v'lo Elokim ella Hashem* — come and see what is written in the portion of the *korbanot*: throughout the relevant passage of Vayikra, the names *El* and *Elokim* do not appear; only the divine name *Yud Kay Vav Kay* is used. The purpose is *she'lo liten pitchon peh laba'alim lachlok* — so that no adversary should have an opening to argue that the *korbanot* were being brought to pagan deities, since both *El* and *Elokim* could in principle refer to other powers. By using only the ineffable divine Name, the Torah forecloses any such misreading.
+
+### Psalm 50 Meaning
+
+The *baraita* continues: *ne'emar b'shor ha'gas ishei rei'ach nicho'ach, u'v'of ha'dak ishei rei'ach nicho'ach, u'va'mincha ishei rei'ach nicho'ach* — the formula *ishei rei'ach nicho'ach* is used for the large ox, for the small bird, and for the *mincha* — reiterating the principle of *echad ha'marbeh ve'echad ha'mam'it u'vilvad she'yechaven libo lashamayim*.
+
+But now the *baraita* confronts a deeper theological question. *Ve'shema tomar la'achilah hu tzarich* — perhaps one might think that God actually needs the sacrifices to consume, that this is *lechem Elokav*, the bread of God, that He smells the *ishei rei'ach nicho'ach* and requires it. *Talmud lomar: im erva lo omar lach, ki li tevel u'melo'ah* — therefore the verse states: were I ever hungry I would not tell you, for the world and all its fullness is Mine (Tehillim 50:12). God self-evidently does not need to be fed, and even if He did, you could not provide it. *Ki li kol chaito ya'ar behemot b'harerei alef, yadati kol of harim ve'ziz sadai imadi* — for Mine is every animal of the forest, the cattle on a thousand mountains; I know every bird of the mountains, and the creatures of the field are with Me. *Ha'ochal basar abirim ve'dam atudim eshteh* — do I eat the flesh of mighty beasts and drink the blood of goats? The rejection of the pagan model — in which the gods are hungry and the sacrifices feed them — could not be more explicit.
+
+*Lo amarti aleichem zivchu kedei she'tomar e'eseh retzono ve'ya'aseh retzoni* — I did not say to you to bring sacrifices so that you can reason: I have done God's will, now God will fulfill mine. This is not the exchange economy of paganism. *Lo lirtzoni atem zovchim ella lirtzonchem atem zovchim* — you are not sacrificing for My sake but for your own sake. By performing *mitzvot*, you are the beneficiary. God has given you these commandments for your benefit, not His. The verse states *lirtzonchem tizbachu* — for your sake you shall sacrifice.
+
+This teaching invites comparison with the Rambam's famous position, according to which sacrifices represent a divine concession to the human psychological need to worship in a manner familiar from the surrounding pagan culture. The Rambam holds that the Torah redirected this pre-existing form of worship toward the service of God as a means of weaning Israel away from idolatry. One may frame the point more broadly: the verse is saying that *I* do not need your *korbanot* — this is for your sake, not Mine. It is a *mitzvah* given for your benefit. This is at minimum what the verse teaches, and it is not a long step from there to the Rambam's reading.
+
+### Intent Requirement
+
+The final *halacha* of the tractate returns from these theological reflections to a point of law. *Davar acher: lirtzonchem tizbachu, lirtzonchem zivchu* — reading the verse as: for your will, your desire, you shall sacrifice. *Lida'atchem zivchu* — with your intentionality you shall sacrifice. This is the context of a question that Shmuel posed to Rav Huna: *minayin le'mitasek be'kodashim she'hu pasul* — from where do we derive that if one engages in the *shechita* of a sacrifice without awareness that one is doing so — in a *mitasek* fashion, almost in passing — the act is invalid? *She'ne'emar ve'shachat et ben ha'bakar* — as it is written, you shall slaughter the calf — *she'tehei shechita le'shem ben bakar* — meaning the *shechita* must be performed with the awareness that this is a calf and that this is a sacrifice. Rav Huna replied: that the *shechita* should ideally be performed with such intentionality we obviously know — but *le'akev minayin*, from where do we know that without it the act is actually invalid and not merely deficient? *Talmud lomar lirtzonchem tizbachu* — only a slaughter accompanied by your intentional will counts; without it, the act does not constitute a valid *shechita* for a sacrifice.
+
+It is fitting, in a way, that Menachot closes with a discussion of *shechita* rather than with a *mincha*, even as the tractate's final theological reflections concern the purpose of sacrifice and the relationship of Torah to *korbanot*. *Hadran alach Isaron, ve'slika lach masechet Menachot.* Yashar koach to all who have now completed learning Menachot.

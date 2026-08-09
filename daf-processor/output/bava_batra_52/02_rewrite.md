@@ -136,9 +136,7 @@ The *baraita* states explicitly: *echad min ha-achim she-hayah nosei ve-noten be
 
 ### Widow Role
 
-A parallel case follows. A widow administers an undivided estate on behalf of orphans, with documents written in her personal name. She claims personal ownership, citing an inheritance from her own father or grandfather. Unlike the brother, who must specify a maternal source distinct from the shared paternal estate, the widow can name any personal inheritance — whether from her father, mother, maternal grandfather, or paternal grandfather — since none of those would belong to her late husband's estate. Nevertheless, *aleha lehavi re'aya*: the burden rests on her just as it does on the managing brother.
-
----
+The *braita* continues with a parallel case: a widow who has been *nosat ve-notenet be-toch ha-bayit* — running the affairs of an undivided estate, a context the Gemara later clarifies as one in which the husband has died. Though a wife does not inherit a portion of her husband's estate (she is supported by it, not an heir to it), she may nonetheless be the one adult who knew her husband's affairs, and so the heirs defer to her management. Documents are found written in her personal name, and she claims they represent her own inherited funds. The *braita* rules *aleha lehavi re'aya*: she bears the burden of proof, just as the managing older brother does — and thus the *braita* supports Rav's position exactly.
 
 ## Proof Methods (II)
 

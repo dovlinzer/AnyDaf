@@ -1,0 +1,289 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Non-Jews & Erchin",
+    "candidates": [
+      "Prior Discussion Review",
+      "Erchin vs Nezirut",
+      "Non-Jews & Erchin",
+      "Why Ish in Erchin",
+      "Erchin Linked to Nedarim",
+      "Mufla Samuch L'Ish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks why the word 'ish' in the erchin pasuk is needed given that erchin is already juxtaposed to nedarim and non-Jews are already included in nedarim via the 'ish ish' derivation \u2014 exactly the question described in candidate 1's prose.",
+      "chosen_heading": "Erchin vs Nezirut",
+      "current_heading": "Non-Jews & Erchin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Mufla Samuch L'Ish",
+    "candidates": [
+      "Why Ish in Erchin",
+      "Erchin Linked to Nedarim",
+      "Mufla Samuch L'Ish",
+      "Tosafot's Question",
+      "Bal Yachel & Formalism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's conclusion that 'ish' in the erchin pasuk is needed to include mufla samuch le-ish, which is precisely what heading 0 ('Why Ish in Erchin') describes in its prose.",
+      "chosen_heading": "Why Ish in Erchin",
+      "current_heading": "Mufla Samuch L'Ish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Bal Yachel & Formalism",
+    "candidates": [
+      "Tosafot's Question",
+      "Bal Yachel & Formalism",
+      "Sheva Mitzvos Flexibility",
+      "Ki Yafli Inclusion",
+      "Non-Jews Case-by-Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about why 'ish ki yafli' is needed if mufla samuch le-ish is only derabbanan for Jews, and the answer that it comes to include non-Jews \u2014 which is precisely the content Tosafot's Question section discusses, including the counterintuitive result that mufla samuch le-ish is derabbanan for Jews but de'oraita for non-Jews.",
+      "chosen_heading": "Tosafot's Question",
+      "current_heading": "Bal Yachel & Formalism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Non-Jews Case-by-Case",
+    "candidates": [
+      "Sheva Mitzvos Flexibility",
+      "Ki Yafli Inclusion",
+      "Non-Jews Case-by-Case",
+      "Ki Yafli by Nezirut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's two-sided debate about which opinion uses 'ish' to include non-Jews as subject vs. object of erchin and what 'ki yafli' then teaches in each case \u2014 exactly what candidate 1 ('Ki Yafli Inclusion') describes, including the specific detail about 'afilu tinok ben chodesh' and the question 'why do I need ki yafli,' whereas candidate 2 begins with Rav Adda bar Ahava's answer which is item 3 here.",
+      "chosen_heading": "Ki Yafli Inclusion",
+      "current_heading": "Non-Jews Case-by-Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Ki Yafli by Nezirut",
+    "candidates": [
+      "Non-Jews Case-by-Case",
+      "Ki Yafli by Nezirut",
+      "Abaye vs Rava Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question posed in candidate 1's prose \u2014 why does the Torah write 'ki yafli' by nezirut given that nezirut is juxtaposed to nedarim \u2014 which is the precise content of 'Ki Yafli by Nezirut.'",
+      "chosen_heading": "Ki Yafli by Nezirut",
+      "current_heading": "Ki Yafli by Nezirut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Abaye vs Rava Debate",
+    "candidates": [
+      "Abaye vs Rava Debate",
+      "Rabbi Tarfon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Abaye vs Rava debate about ambiguous intimations (yadayim she'einan mochiachot), which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Abaye vs Rava Debate",
+      "current_heading": "Abaye vs Rava Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Rabbi Tarfon Position",
+    "candidates": [
+      "Rabbi Tarfon Position",
+      "Chagigah Mishna",
+      "Rabbi Eliezer Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Tarfon Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Rabbi Tarfon passage discussed in the 'Rabbi Tarfon Position' prose, including the gemara's question about what the rabbanan would say.",
+      "second_heading": "Chagigah Mishna",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the baraita about hattarat nedarim floating in the air, which is exactly what the 'Chagigah Mishna' prose discusses as its central topic.",
+      "current_heading": "Rabbi Tarfon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rabbi Eliezer Position",
+    "candidates": [
+      "Chagigah Mishna",
+      "Rabbi Eliezer Position",
+      "Hafla'ah Creates & Annuls",
+      "Annulment Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Eliezer's position that hattarat nedarim has a biblical basis from the double appearance of 'ki yafli,' which is precisely what the 'Rabbi Eliezer Position' prose section discusses.",
+      "chosen_heading": "Rabbi Eliezer Position",
+      "current_heading": "Rabbi Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Annulment Distinction",
+    "candidates": [
+      "Hafla'ah Creates & Annuls",
+      "Annulment Distinction",
+      "Override Distinction",
+      "Slave Freed",
+      "Comparative Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text directly presents the husband/wife vs. master/slave annulment distinction (meifer nidrei ishto vs. eino meifer nidrei avdo) and the heifer olamit vs. mashlim neziruto contrast, which is precisely what the 'Annulment Distinction' prose section discusses.",
+      "chosen_heading": "Annulment Distinction",
+      "current_heading": "Annulment Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Comparative Power",
+    "candidates": [
+      "Override Distinction",
+      "Slave Freed",
+      "Comparative Power",
+      "Rav Sheshet Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why the master's override power applies to nezirut but not to nedarim/erchin, which is precisely what the 'Comparative Power' prose describes as the gemara's central question.",
+      "chosen_heading": "Comparative Power",
+      "current_heading": "Comparative Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Rav Sheshet Answer",
+    "candidates": [
+      "Rav Sheshet Answer",
+      "Haroa O Haitiv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Sheshet's answer distinguishing nedarim from nezirut via the cluster-of-grapes case, followed by the Gemara's immediate challenge \u2014 exactly the content described in the 'Rav Sheshet Answer' prose.",
+      "chosen_heading": "Rav Sheshet Answer",
+      "current_heading": "Rav Sheshet Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Haroa O Haitiv",
+    "candidates": [
+      "Haroa O Haitiv",
+      "Rabbi Meir vs Yose",
+      "Mafkir Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the continuous Rava/Abaye dispute about grape seeds and the leharei o lehaitiv principle, which is precisely what the 'Haroa O Haitiv' section's prose describes in detail.",
+      "chosen_heading": "Haroa O Haitiv",
+      "current_heading": "Haroa O Haitiv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Mafkir Question",
+    "candidates": [
+      "Rabbi Meir vs Yose",
+      "Mafkir Question",
+      "Master's Interest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Meir vs Yose",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the Rabbi Meir vs Rabbi Yose dispute about the runaway slave, which matches heading 0's prose describing exactly that case.",
+      "second_heading": "Mafkir Question",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara's discussion of Shmuel's ruling on mafkir and its rejection, leading to the master's-interest rationale, which precisely matches heading 1's prose about the Shmuel question and its resolution.",
+      "current_heading": "Mafkir Question",
+      "moved": true
+    }
+  }
+]

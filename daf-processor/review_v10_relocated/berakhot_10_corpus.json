@@ -1,0 +1,789 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: Five Worlds",
+    "candidates": [
+      "Intro: Five Worlds",
+      "Womb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the teaching about David residing in five worlds and saying shirah, which corresponds exactly to the 'Intro: Five Worlds' section's prose, not the 'Womb' section which discusses only the first specific world.",
+      "chosen_heading": "Intro: Five Worlds",
+      "current_heading": "Intro: Five Worlds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Womb",
+    "candidates": [
+      "Womb",
+      "Birth & Stars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the first world (dwelling in the mother's womb) and the shirah of Psalm 103:1 with 'all that is within me,' which matches exactly the prose under the 'Womb' heading.",
+      "chosen_heading": "Womb",
+      "current_heading": "Womb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Birth & Stars",
+    "candidates": [
+      "Birth & Stars",
+      "Nursing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes emerging into the world and praising God upon seeing stars and constellations, which directly matches the 'Birth & Stars' section's prose about the second world and looking at stars and constellations.",
+      "chosen_heading": "Birth & Stars",
+      "current_heading": "Birth & Stars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Nursing",
+    "candidates": [
+      "Nursing",
+      "Breasts Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the act of nursing from the mother's breast and the shirah said in response, which is precisely what the 'Nursing' section prose discusses, before the subsequent 'Breasts Discussion' section moves on to Rabbi Abbahu's question about the meaning of gemulav and the anatomical placement of breasts.",
+      "chosen_heading": "Nursing",
+      "current_heading": "Nursing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Breasts Discussion",
+    "candidates": [
+      "Breasts Discussion",
+      "Wicked Fall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the passage discussed in the 'Breasts Discussion' prose \u2014 Rabbi Abbahu's statement about breasts placed in the location of understanding, followed by Rav Yehuda's and Rav Mattana's explanations of the reason, exactly as described there.",
+      "chosen_heading": "Breasts Discussion",
+      "current_heading": "Breasts Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Wicked Fall",
+    "candidates": [
+      "Wicked Fall",
+      "Death & Afterlife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the exact verse about the downfall of the wicked (Psalms 104:35) which is precisely what the 'Wicked Fall' prose section discusses, including the same pasuk and its context.",
+      "chosen_heading": "Wicked Fall",
+      "current_heading": "Wicked Fall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Death & Afterlife",
+    "candidates": [
+      "Death & Afterlife",
+      "Tzayar Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss David's fifth world/shirah on the day of death and the Gemara's derivation from Psalms 104:29, which is exactly what the 'Death & Afterlife' prose section describes in detail.",
+      "chosen_heading": "Death & Afterlife",
+      "current_heading": "Death & Afterlife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Tzayar Drasha",
+    "candidates": [
+      "Tzayar Drasha",
+      "Craftsman Analogy",
+      "Ein Tzur",
+      "No Wearing Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous unit \u2014 the drasha on 'barchi nafshi' leading to the tzur/tzayyar wordplay \u2014 and candidate 0's prose explicitly summarizes both the main teaching and the Hannah verse, matching the passage's content precisely.",
+      "chosen_heading": "Tzayar Drasha",
+      "current_heading": "Tzayar Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "No Wearing Out",
+    "candidates": [
+      "Craftsman Analogy",
+      "Ein Tzur",
+      "No Wearing Out",
+      "Five Times Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda bar Menasya's interpretation of 'ein biltecha' as 'ein livalotecha' \u2014 God outlasting His creations \u2014 which is precisely what the 'No Wearing Out' section's prose explicates.",
+      "chosen_heading": "No Wearing Out",
+      "current_heading": "No Wearing Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Five Times Question",
+    "candidates": [
+      "Five Times Question",
+      "Soul Fills Body",
+      "Soul Sees",
+      "Soul Sustains",
+      "Soul Pure",
+      "Soul in Chamber",
+      "Soul Praises"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses and answers the question of why David said 'Bless the Lord, O my soul' five times, corresponding to God and the soul \u2014 exactly what the 'Five Times Question' prose describes.",
+      "chosen_heading": "Five Times Question",
+      "current_heading": "Five Times Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Soul Praises",
+    "candidates": [
+      "Soul Fills Body",
+      "Soul Sees",
+      "Soul Sustains",
+      "Soul Pure",
+      "Soul in Chamber",
+      "Soul Praises",
+      "Compromise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage contains all five parallels between the soul and God as a single unit, and should sit under the first heading 'Soul Fills Body' where the full text begins, rather than being placed only under the concluding 'Soul Praises' heading.",
+      "chosen_heading": "Soul Fills Body",
+      "current_heading": "Soul Praises",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Compromise",
+    "candidates": [
+      "Soul Praises",
+      "Compromise",
+      "Honor Dispute",
+      "Afflictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Hamnuna's teaching about God making a compromise (peshara) between Hezekiah and Isaiah, which matches exactly the 'Compromise' section's prose about this same teaching.",
+      "chosen_heading": "Compromise",
+      "current_heading": "Compromise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Afflictions",
+    "candidates": [
+      "Honor Dispute",
+      "Afflictions",
+      "Prophecy",
+      "Procreation",
+      "Wicked Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes God bringing afflictions upon Hezekiah and Isaiah visiting the sick, which matches exactly the 'Afflictions' section prose about bikur cholim, and the dual phrase 'you will die and not live' is already discussed in candidate 2's prose under 'Prophecy' \u2014 but since the passage includes both the afflictions setup AND the prophecy interpretation, and the current placement under 'Afflictions' already covers this content with its prose explicitly mentioning the visit and the verse, the current placement is correct.",
+      "chosen_heading": "Afflictions",
+      "current_heading": "Afflictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Wicked Children",
+    "candidates": [
+      "Prophecy",
+      "Procreation",
+      "Wicked Children",
+      "Don't Worry",
+      "Your Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Chizkiyahu's question and Yeshayahu's answer about procreation AND Chizkiyahu's defense about foreseeing wicked children \u2014 this is the full exchange that the 'Procreation' section's prose explicitly describes, including the detail about Menashe being born after this episode.",
+      "chosen_heading": "Procreation",
+      "current_heading": "Wicked Children",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Your Obligation",
+    "candidates": [
+      "Don't Worry",
+      "Your Obligation",
+      "Marry Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Isaiah's 'be'hadai kavshei de'Rachmana lamah lach' statement, which candidate 0's prose explicitly discusses as the main focus, while candidate 1's prose covers the subsequent clause about obligation and divine will.",
+      "chosen_heading": "Don't Worry",
+      "current_heading": "Your Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Marry Daughter",
+    "candidates": [
+      "Your Obligation",
+      "Marry Daughter",
+      "Decree Made",
+      "Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Hezekiah's proposal to marry Isaiah's daughter and his argument about combined merit producing virtuous children, which matches exactly the 'Marry Daughter' section's prose discussion of this exchange.",
+      "chosen_heading": "Marry Daughter",
+      "current_heading": "Marry Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rebuke",
+    "candidates": [
+      "Decree Made",
+      "Rebuke",
+      "David's Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Chizkiyahu's direct quotation of the tradition from his grandfather's house (David), which is precisely what the 'Rebuke' section's prose describes \u2014 including the exact phrases kach mekublani mi'beit avi aba and afilu cherev hada munachat al tzavaro shel adam al yimna atzmo min ha'rachamim \u2014 making it a clear match for the current placement.",
+      "chosen_heading": "Rebuke",
+      "current_heading": "Rebuke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "David's Tradition",
+    "candidates": [
+      "David's Tradition",
+      "Dreams"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yo\u1e25anan and Rabbi Eliezer's statement regarding the sword at the throat and 'Though He slay me, I will trust in Him' is explicitly referenced and discussed in the 'David's Tradition' prose section.",
+      "chosen_heading": "David's Tradition",
+      "current_heading": "David's Tradition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Dreams",
+    "candidates": [
+      "Dreams",
+      "Turn to Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi \u1e24anan's teaching about dreams and prayer, which is exactly what the 'Dreams' section prose describes.",
+      "chosen_heading": "Dreams",
+      "current_heading": "Dreams",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Turn to Wall",
+    "candidates": [
+      "Turn to Wall",
+      "Walls Heart"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Hezekiah turning his face to the wall and praying, which is the specific verse being interpreted in candidate 1's prose about Rabbi Shimon ben Lakish's reading of 'el ha'kir' as referring to the walls of the heart \u2014 this is the source verse for that midrashic interpretation, not a general discussion of Hezekiah's prayer and its consequences as discussed in candidate 0.",
+      "chosen_heading": "Walls Heart",
+      "current_heading": "Turn to Wall",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Walls Heart",
+    "candidates": [
+      "Turn to Wall",
+      "Walls Heart",
+      "Shunammite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the word 'kir' as referring to the chambers of the heart (kirot libo), which is precisely what the 'Walls Heart' section's prose discusses.",
+      "chosen_heading": "Walls Heart",
+      "current_heading": "Walls Heart",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Shunammite",
+    "candidates": [
+      "Shunammite",
+      "Prayer Cites",
+      "Semichas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is entirely about Rabbi Levi's interpretation regarding the wall (kir) and the Shunammite woman's merit, which matches exactly the current heading's prose discussion.",
+      "chosen_heading": "Shunammite",
+      "current_heading": "Shunammite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Semichas",
+    "candidates": [
+      "Prayer Cites",
+      "Semichas",
+      "Merit",
+      "Intro Six"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Yehuda/Rav's opinion on semichas geulah la'tefillah AND Rabbi Levi's opinion about the Book of Remedies together, and the 'Merit' section's prose explicitly discusses both opinions in sequence, ending with 'Rabbi Levi offers a second answer... she'ganaz sefer refuot,' making it the clear home for this combined Gemara passage.",
+      "chosen_heading": "Merit",
+      "current_heading": "Semichas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Intro Six",
+    "candidates": [
+      "Merit",
+      "Intro Six",
+      "Book Healing",
+      "Copper Snake",
+      "Father Bones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about Chizkiyahu's six actions, which matches exactly the 'Intro Six' heading prose that explicitly quotes and describes this same opening statement.",
+      "chosen_heading": "Intro Six",
+      "current_heading": "Intro Six",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Father Bones",
+    "candidates": [
+      "Book Healing",
+      "Copper Snake",
+      "Father Bones",
+      "Waters Sealed",
+      "Temple Doors",
+      "Extra Month"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three actions Hezekiah was praised for (Book of Remedies, copper snake, father's bones) as a single Talmudic unit, and it should sit under the first of these three headings ('Book Healing') since it introduces all three together rather than being split across separate headings.",
+      "chosen_heading": "Book Healing",
+      "current_heading": "Father Bones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Extra Month",
+    "candidates": [
+      "Waters Sealed",
+      "Temple Doors",
+      "Extra Month",
+      "Don't Pray",
+      "Rambam",
+      "Magic Not",
+      "Self Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with Hezekiah's three disputed innovations and then specifically elaborate on the intercalation of Nisan in Nisan \u2014 exactly what the 'Extra Month' section's prose discusses, including the zeh Nissan ve'ein acher Nissan principle and the ta'ah bi'Shmuel explanation.",
+      "chosen_heading": "Extra Month",
+      "current_heading": "Extra Month",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Self Merit",
+    "candidates": [
+      "Don't Pray",
+      "Rambam",
+      "Magic Not",
+      "Self Merit",
+      "Others Merit",
+      "Moses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage states the exact teaching of Rabbi Yo\u1e25anan in the name of Rabbi Yosei ben Zimra about basing requests on one's own merit vs. others' merit, which is precisely what the 'Self Merit' section's prose introduces and discusses.",
+      "chosen_heading": "Self Merit",
+      "current_heading": "Self Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Moses",
+    "candidates": [
+      "Others Merit",
+      "Moses",
+      "Chizkiyahu",
+      "Bitter Peace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Moses appealing on merit of others (Abraham, Isaac, Israel) yet being credited with his own merit, which exactly matches the 'Moses' section's prose.",
+      "chosen_heading": "Moses",
+      "current_heading": "Moses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Bitter Peace",
+    "candidates": [
+      "Chizkiyahu",
+      "Bitter Peace",
+      "Small Chamber"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Chizkiyahu's appeal on his own merit and the Rabbi Yehoshua ben Levi teaching about the bitterness of his peace, and candidate 0's prose explicitly discusses both the merit appeal and the David attribution, while candidate 1's prose only covers the 'bitter peace' portion \u2014 the full passage belongs under the Chizkiyahu heading which encompasses the complete narrative arc.",
+      "chosen_heading": "Chizkiyahu",
+      "current_heading": "Bitter Peace",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Small Chamber",
+    "candidates": [
+      "Bitter Peace",
+      "Small Chamber",
+      "Roof Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the verse 'Let us make a small chamber on the roof' which is exactly what the 'Small Chamber' section's prose introduces and discusses.",
+      "chosen_heading": "Small Chamber",
+      "current_heading": "Small Chamber",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161,
+      162,
+      163,
+      164,
+      165
+    ],
+    "current_heading": "Roof Dispute",
+    "candidates": [
+      "Roof Dispute",
+      "Four Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the Rav and Shmuel dispute about the nature of the chamber (uncovered upper story vs. enclosed veranda) with its reciprocal challenges and resolutions, which is precisely what the 'Roof Dispute' prose describes.",
+      "chosen_heading": "Roof Dispute",
+      "current_heading": "Roof Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168
+    ],
+    "current_heading": "Four Items",
+    "candidates": [
+      "Four Items",
+      "Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the verse listing the four items (bed, table, stool, candlestick) that the Shunemite woman proposed for Elisha, which directly corresponds to the 'Four Items' section's prose discussing exactly these four provisions.",
+      "chosen_heading": "Four Items",
+      "current_heading": "Four Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Models",
+    "candidates": [
+      "Models",
+      "Recognize",
+      "Women Know"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two models of Elisha and Samuel regarding benefiting from hospitality, which is precisely what the 'Models' section prose is explaining.",
+      "chosen_heading": "Models",
+      "current_heading": "Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Women Know",
+    "candidates": [
+      "Recognize",
+      "Women Know",
+      "Signs Holiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the biblical verse (matching heading 0's prose about 'she said to her husband: behold, I know') and Rabbi Yosei's derivation (matching heading 1's prose), but since heading 0 quotes the verse itself and heading 1 only discusses the rabbinic conclusion, the natural break would place the full quote under heading 0 which introduces the verse, with the derivation following; however, since both elements appear in a single Talmudic passage that is indivisible, heading 0 is the slightly better fit as it introduces the verse that anchors the passage.",
+      "chosen_heading": "Recognize",
+      "current_heading": "Women Know",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      180
+    ],
+    "current_heading": "Signs Holiness",
+    "candidates": [
+      "Signs Holiness",
+      "Servant Not",
+      "Pushed Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses how the Shunamite woman recognized Elisha's holiness via fly/table and linen sheet evidence, which is exactly what the 'Signs Holiness' section prose describes.",
+      "chosen_heading": "Signs Holiness",
+      "current_heading": "Signs Holiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      185
+    ],
+    "current_heading": "Pushed Away",
+    "candidates": [
+      "Servant Not",
+      "Pushed Away",
+      "Host Scholar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'he is holy but his attendant is not holy' statement AND the Geihazi grabbing her beauty detail as a single continuous unit, and the 'Servant Not' section's prose explicitly discusses the holiness contrast with Geihazi, making it the better home for this combined passage \u2014 though the current 'Pushed Away' section only covers the second half, the full passage's primary content (the holiness distinction) belongs under heading 0.",
+      "chosen_heading": "Servant Not",
+      "current_heading": "Pushed Away",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Host Scholar",
+    "candidates": [
+      "Pushed Away",
+      "Host Scholar",
+      "Like Sacrifice",
+      "Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the hosting of a Torah scholar (Item 1a) and the tamid comparison (Item 1b), but the current placement under 'Host Scholar' is appropriate since the prose there explicitly discusses the full quote including both elements, and the passage is a single unified statement.",
+      "chosen_heading": "Host Scholar",
+      "current_heading": "Host Scholar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      194
+    ],
+    "current_heading": "Standing",
+    "candidates": [
+      "Like Sacrifice",
+      "Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about praying in a low place rather than a high place directly matches the 'Standing' section's prose, which explicitly discusses this exact teaching about not standing in a high place to pray.",
+      "chosen_heading": "Standing",
+      "current_heading": "Standing",
+      "moved": false
+    }
+  }
+]

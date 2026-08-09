@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Nezifa: 7 Days Min.",
+    "candidates": [
+      "Nidui: 30 Days",
+      "Nezifa: 7 Days Min.",
+      "Bavel vs. Eretz Yisrael",
+      "Ashkenazi vs. Sephardi",
+      "Difficult Sugya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita introduces both nidui (30 days) and nezifa (7 days) together as a single unit, but since it covers both topics and heading 0 ('Nidui: 30 Days') describes the baraita's opening and explicitly references this same baraita text, while heading 1's prose already incorporates the nezifa portion's content, the passage could fit either; however, the current placement under 'Nezifa: 7 Days Min.' is actually the better match since that section's prose directly quotes and discusses the zecher la-davar allusion from Numbers 12:14 which is the main content of this passage.",
+      "chosen_heading": "Nidui: 30 Days",
+      "current_heading": "Nezifa: 7 Days Min.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Difficult Sugya",
+    "candidates": [
+      "Bavel vs. Eretz Yisrael",
+      "Ashkenazi vs. Sephardi",
+      "Difficult Sugya",
+      "Bar Kappara's Nezifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24isda's statement about nidui vs. nezifa and the story of Rabbi Shimon and Bar Kappara studying a difficult passage, which is exactly what the 'Difficult Sugya' section's prose describes.",
+      "chosen_heading": "Difficult Sugya",
+      "current_heading": "Difficult Sugya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Bar Kappara's Nezifa",
+    "candidates": [
+      "Bar Kappara's Nezifa",
+      "Torah in Marketplace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes bar Kappara being rebuked by Rabbi Yehuda HaNasi and imposing nezifuta upon himself for thirty days, which is precisely what the prose under 'Bar Kappara's Nezifa' discusses.",
+      "chosen_heading": "Bar Kappara's Nezifa",
+      "current_heading": "Bar Kappara's Nezifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Torah in Marketplace",
+    "candidates": [
+      "Torah in Marketplace",
+      "Rabbi Chiya's Nezifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the decree against teaching Torah in the marketplace and its scriptural basis from Shir HaShirim, which is exactly what the 'Torah in Marketplace' prose section discusses.",
+      "chosen_heading": "Torah in Marketplace",
+      "current_heading": "Torah in Marketplace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabbi Chiya's Nezifa",
+    "candidates": [
+      "Rabbi Chiya's Nezifa",
+      "Measuring Nezifa Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi \u1e24iyya teaching in the marketplace, Rabbi's anger and mocking rebuke, and Rabbi \u1e24iyya's self-imposed 30-day nezifuta \u2014 exactly what the prose under 'Rabbi Chiya's Nezifa' discusses.",
+      "chosen_heading": "Rabbi Chiya's Nezifa",
+      "current_heading": "Rabbi Chiya's Nezifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Measuring Nezifa Days",
+    "candidates": [
+      "Measuring Nezifa Days",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover the thirtieth-day summons, the miktzat hayom k'kulo reasoning, and the reconciliation scene \u2014 exactly what the 'Measuring Nezifa Days' prose describes, and the 'Reconciliation' section's prose begins after this passage ends (it picks up with Rabbi asking 'why did you come' and then moves on to the verse discussion).",
+      "chosen_heading": "Measuring Nezifa Days",
+      "current_heading": "Measuring Nezifa Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Reconciliation",
+      "Chochmot in Marketplace",
+      "Translation Debates",
+      "Rabbi Chiya's Legacy",
+      "Tzedakah vs. Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The current placement under 'Reconciliation' is correct \u2014 the prose there explicitly discusses all three items: Rabbi Chiyya citing 'chachmot bachutz taronah,' Rabbi's critique about not having studied it sufficiently, Rava's interpretation that private Torah study proclaims itself outward, and the challenge from 'lo me-rosh be-seter dibarti' answered by reference to the days of the kalla.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Tzedakah vs. Torah",
+    "candidates": [
+      "Chochmot in Marketplace",
+      "Translation Debates",
+      "Rabbi Chiya's Legacy",
+      "Tzedakah vs. Torah",
+      "Pesach Exegesis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chochmot in Marketplace",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns Rabbi Chiyya's interpretation of 'chamukei yerachayich' as referring to tzedakah and gemilut chasadim, which matches the 'Tzedakah vs. Torah' heading's prose about exactly this \u2014 muki leh bi-tzedakah u-gemilut chasadim.",
+      "second_heading": "Tzedakah vs. Torah",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 deal with the duration of nezifa in Eretz Yisrael vs. Babylonia, the Shmuel/Mar Ukva story, and the woman sifting barley \u2014 all of which are explicitly discussed in the 'Tzedakah vs. Torah' section's prose about nezifa, nezifuta for one day, and those exact narrative cases.",
+      "current_heading": "Tzedakah vs. Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Pesach Exegesis",
+    "candidates": [
+      "Pesach Exegesis",
+      "Zutra's Nezifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete story of Zutra bar Toviyya's question to Rav Yehuda about David's 'last words,' including the silence, the second asking, Rav Yehuda's insulted response, and the Gemara's resolution \u2014 all of which are explicitly narrated and analyzed in the 'Pesach Exegesis' prose (candidate 0), while candidate 1's prose begins after this story concludes, with Zutra's nezifuta and subsequent topics.",
+      "chosen_heading": "Pesach Exegesis",
+      "current_heading": "Pesach Exegesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Zutra's Nezifa",
+    "candidates": [
+      "Zutra's Nezifa",
+      "David's Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Zutra's Nezifa' explicitly discusses all four items: God's rebuke to David about Saul, the Kush/Shaul analogy from Psalms 7:1, the Kush/Zipporah analogy, the Kush/Eved-Melech analogy, and the Kush/Israel analogy from Amos \u2014 matching the passage content exactly.",
+      "chosen_heading": "Zutra's Nezifa",
+      "current_heading": "Zutra's Nezifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "David's Humility",
+    "candidates": [
+      "David's Humility",
+      "David as Rosh Yeshiva",
+      "Tzaddik Gozer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (David raising the yoke of repentance, God ruled by the righteous, David's mighty deeds, and David sitting on the ground in the yeshiva) are explicitly discussed together in heading 0's prose, which covers exactly this sequence of Gemara passages about David's humility.",
+      "chosen_heading": "David's Humility",
+      "current_heading": "David's Humility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Tzaddik Gozer",
+    "candidates": [
+      "David as Rosh Yeshiva",
+      "Tzaddik Gozer",
+      "Student's Authority",
+      "Universal vs. Personal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Tzaddik Gozer' explicitly discusses all four items in order: tachkemoni/tehei cha-moni, rosh ha-shalishim, Adino ha-Etzni, the 800/200 arrow story, and the Divine Voice about Uriah \u2014 matching the passage content exactly.",
+      "chosen_heading": "Tzaddik Gozer",
+      "current_heading": "Tzaddik Gozer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Universal vs. Personal",
+    "candidates": [
+      "Student's Authority",
+      "Universal vs. Personal",
+      "Ruling for Oneself"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about menudah le-rav/menudah le-talmid and the Gemara's inference about universal ostracism versus personal honor, which is precisely what candidate 1 ('Universal vs. Personal') covers in its prose.",
+      "chosen_heading": "Universal vs. Personal",
+      "current_heading": "Universal vs. Personal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Ruling for Oneself",
+    "candidates": [
+      "Ruling for Oneself",
+      "Need vs. Accountability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement about a Torah scholar executing judgment for himself in a clear-cut matter, which is precisely what the 'Ruling for Oneself' section's prose discusses in detail.",
+      "chosen_heading": "Ruling for Oneself",
+      "current_heading": "Ruling for Oneself",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Need vs. Accountability",
+    "candidates": [
+      "Need vs. Accountability",
+      "Rabbinic Character"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the dilemma of whether to excommunicate a Torah scholar whose reputation has suffered, which is precisely what the 'Need vs. Accountability' prose discusses.",
+      "chosen_heading": "Need vs. Accountability",
+      "current_heading": "Need vs. Accountability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rabbinic Character",
+    "candidates": [
+      "Rabbinic Character",
+      "Rav Yehuda Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Malachi verse and Rabbi Yochanan's teaching about the teacher needing to resemble an angel of God, which is precisely the content discussed in the 'Rabbinic Character' prose section.",
+      "chosen_heading": "Rabbinic Character",
+      "current_heading": "Rabbinic Character",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Rav Yehuda Acts",
+    "candidates": [
+      "Rav Yehuda Acts",
+      "Maidservant Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the scene where Rav Yehuda ostracizes the scholar, falls ill, and the exchange about laughing/flattery \u2014 exactly the content described in the 'Rav Yehuda Acts' prose.",
+      "chosen_heading": "Rav Yehuda Acts",
+      "current_heading": "Rav Yehuda Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Maidservant Precedent",
+    "candidates": [
+      "Maidservant Precedent",
+      "Death and Burial",
+      "Rabbi Ilai's Teaching"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Maidservant Precedent",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the post-death-of-Rav-Yehuda sequence through the maidservant precedent, Rabbi Zeira's sign, and the decision not to release \u2014 exactly what the 'Maidservant Precedent' prose describes.",
+      "second_heading": "Death and Burial",
+      "second_confidence": "high",
+      "second_reason": "Item 4 describes the wasp sting, death, and burial in the caves \u2014 exactly what the 'Death and Burial' prose discusses.",
+      "current_heading": "Maidservant Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Rabbi Ilai's Teaching",
+    "candidates": [
+      "Death and Burial",
+      "Rabbi Ilai's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ilai's teaching itself, and the current placement under 'Rabbi Ilai's Teaching' is correct, as that section's prose directly discusses and analyzes this exact baraita about going to an unknown place, wearing black, and not publicly desecrating God's name.",
+      "chosen_heading": "Rabbi Ilai's Teaching",
+      "current_heading": "Rabbi Ilai's Teaching",
+      "moved": false
+    }
+  }
+]

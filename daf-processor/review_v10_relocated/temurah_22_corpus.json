@@ -1,0 +1,344 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Manuscript Reading: kipru",
+    "candidates": [
+      "Five Categories",
+      "Absolute vs Conditional",
+      "Manuscript Reading: kipru",
+      "Chatat Meita Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna text introduces all five categories of chatat meita, which is precisely what the 'Five Categories' prose section discusses \u2014 the three clear cases (vlad chatat, temurat chatat, chatat whose owner died) plus the two conditional cases, all introduced together in this single Mishna passage.",
+      "chosen_heading": "Five Categories",
+      "current_heading": "Manuscript Reading: kipru",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Chatat Meita Implications",
+    "candidates": [
+      "Manuscript Reading: kipru",
+      "Chatat Meita Implications",
+      "Cemetery Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the halachic consequences of chatat meita status \u2014 lo nehenin velo mo'alin, the case where owners have not yet atoned (im ad shelo kiperu), temura, and me'ila \u2014 which is precisely what candidate 1 ('Chatat Meita Implications') discusses in its prose.",
+      "chosen_heading": "Chatat Meita Implications",
+      "current_heading": "Chatat Meita Implications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Cemetery Analogy",
+    "candidates": [
+      "Cemetery Analogy",
+      "Contradiction Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's cemetery analogy for a sin offering whose first year has passed, which is precisely what the 'Cemetery Analogy' section's prose describes.",
+      "chosen_heading": "Cemetery Analogy",
+      "current_heading": "Cemetery Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Contradiction Challenge",
+    "candidates": [
+      "Contradiction Challenge",
+      "Reish Lakish Response",
+      "Rava's Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial tiyuvta challenge to Reish Lakish from the Mishna, which is precisely what the 'Contradiction Challenge' section's prose describes.",
+      "chosen_heading": "Contradiction Challenge",
+      "current_heading": "Contradiction Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Rava's Reconciliation",
+    "candidates": [
+      "Reish Lakish Response",
+      "Rava's Reconciliation",
+      "Avar Shnata Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous dialectical chain \u2014 Reish Lakish's reinterpretation (item 1), the gemara's objection about the latter clause (item 2), Rabba's resolution involving a temporary blemish (item 3), and Rava's two refutations of Rabba (item 4) \u2014 which precisely matches the prose of heading 1 ('Rava's Reconciliation'), which describes exactly this sequence: the incoherence challenge, Rabba's temporary-mum answer, and Rava's two-pronged rejection including the she'ibur shnaso question.",
+      "chosen_heading": "Rava's Reconciliation",
+      "current_heading": "Rava's Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Avar Shnata Status",
+    "candidates": [
+      "Avar Shnata Status",
+      "Separate Listings",
+      "Avar Shnata Combination",
+      "Ba'alat Mum Analysis",
+      "Essential vs Accidental"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's reinterpretation of the Mishna combining avar shnata/avda cases, which is precisely what the 'Avar Shnata Status' prose discusses \u2014 Rava's proposal that the Mishna presents two parallel cases requiring double disqualifying factors.",
+      "chosen_heading": "Avar Shnata Status",
+      "current_heading": "Avar Shnata Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Essential vs Accidental",
+    "candidates": [
+      "Separate Listings",
+      "Avar Shnata Combination",
+      "Ba'alat Mum Analysis",
+      "Essential vs Accidental",
+      "Night Loss Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the Mishna must teach the 'if it was lost' clause specifically regarding avar shnata \u2014 arguing that without ba'alat mum being mentioned, one might think only avar shnata (lo chazya l'milsa) triggers meita status, which matches the prose under 'Avar Shnata Combination' describing exactly this reasoning.",
+      "chosen_heading": "Avar Shnata Combination",
+      "current_heading": "Essential vs Accidental",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Night Loss Principle",
+    "candidates": [
+      "Essential vs Accidental",
+      "Night Loss Principle",
+      "Rabbi vs Chachamim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Night Loss Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 directly address the night-loss principle (aveidah de'laila) and the lo dami distinction between nighttime loss and loss of a ba'alat mum/avar shnata, which is precisely what the 'Night Loss Principle' prose describes.",
+      "second_heading": "Rabbi vs Chachamim",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 shift to the Yoma mishna about communal vs individual sin offerings and the rejected/lost distinction (dechuyim vs avudim), which the 'Rabbi vs Chachamim' prose addresses as a challenge to Rava's position resolved by distinguishing dechuyim from avudim.",
+      "current_heading": "Night Loss Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rabbi vs Chachamim",
+    "candidates": [
+      "Rabbi vs Chachamim",
+      "Day vs Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same Gemara passage establishing that Rava's principle about nighttime loss applies specifically according to Rabbi (not the Rabbanan), which is precisely what the 'Rabbi vs Chachamim' prose section describes.",
+      "chosen_heading": "Rabbi vs Chachamim",
+      "current_heading": "Rabbi vs Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Day vs Night",
+    "candidates": [
+      "Day vs Night",
+      "Irrelevance Principle",
+      "Lost Not Stolen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the second interpretation (ibba'it eima) about nighttime vs. daytime initial loss determining the character of aveidah, which is precisely what the 'Day vs Night' prose describes.",
+      "chosen_heading": "Day vs Night",
+      "current_heading": "Day vs Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Lost Not Stolen",
+    "candidates": [
+      "Irrelevance Principle",
+      "Lost Not Stolen",
+      "Yoshia's Standards",
+      "Behind Door Standard",
+      "Visibility vs Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's statement about aveidah velo gnuva/gezulah, which is precisely what the 'Lost Not Stolen' section's prose describes and analyzes.",
+      "chosen_heading": "Lost Not Stolen",
+      "current_heading": "Lost Not Stolen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Visibility vs Knowledge",
+    "candidates": [
+      "Yoshia's Standards",
+      "Behind Door Standard",
+      "Visibility vs Knowledge",
+      "Post-Shechita Loss",
+      "Blood Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The current placement under 'Visibility vs Knowledge' is correct: the prose for that section explicitly summarizes all three items \u2014 Rabbi Yochanan's behind-the-door question, the teiku about whether aveidah is defined by physical invisibility or epistemic state, and Rav Pappa's principle about owner/shepherd knowledge \u2014 which is precisely what items 1\u20133 contain.",
+      "chosen_heading": "Visibility vs Knowledge",
+      "current_heading": "Visibility vs Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Blood Status",
+    "candidates": [
+      "Post-Shechita Loss",
+      "Blood Status",
+      "Multiple Vessels",
+      "Vessel Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute Rav Pappa's dilemma about aveidah b'kos and its resolution \u2014 items 1-3 cover the Rabbanan framing (kol ha'omed lizrok vs. not yet sprinkled), and item 4 covers the alternate reading according to Rabbi \u2014 exactly matching the 'Blood Status' prose which describes the full arc of this question including both interpretations.",
+      "chosen_heading": "Blood Status",
+      "current_heading": "Blood Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Vessel Rejection",
+    "candidates": [
+      "Multiple Vessels",
+      "Vessel Rejection",
+      "Unanimous Case",
+      "Lost Money Case",
+      "Money Mixing",
+      "Animal Money Mix",
+      "Finding Before/After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the kos oseh chaveiro dichui/shirayim dispute and the teiku conclusion about whether the absent cup's blood is rejected or shirayim, which is precisely what 'Vessel Rejection' prose describes.",
+      "chosen_heading": "Vessel Rejection",
+      "current_heading": "Vessel Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Finding Before/After",
+    "candidates": [
+      "Unanimous Case",
+      "Lost Money Case",
+      "Money Mixing",
+      "Animal Money Mix",
+      "Finding Before/After",
+      "Sale Creates Meita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "Candidate 3's prose explicitly covers the hybrid animal/money cases (items 4-6) and the unblemished animal scenario culminating in Rabbi's ruling, making it the best single home for this entire Mishna passage, whereas candidate 4 only discusses the final Rabbi/Chachamim dispute that concludes the Mishna.",
+      "chosen_heading": "Animal Money Mix",
+      "current_heading": "Finding Before/After",
+      "moved": true
+    }
+  }
+]

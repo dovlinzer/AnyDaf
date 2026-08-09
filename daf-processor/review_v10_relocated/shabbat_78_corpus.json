@@ -1,0 +1,193 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Master-Apprentice Except",
+    "candidates": [
+      "Common Uses Principle",
+      "Revi'it Standard",
+      "Blood Exceptions",
+      "Removal vs. Setting Aside",
+      "Master-Apprentice Except",
+      "Dirty Water & Plaster"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the Tosefta's distinction between motzi and matznia and the debate between Tanna Kamma and Rabbi Shimon \u2014 exactly the content described in the 'Removal vs. Setting Aside' prose \u2014 not the master-apprentice elaboration that comes afterward.",
+      "chosen_heading": "Removal vs. Setting Aside",
+      "current_heading": "Master-Apprentice Except",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Dirty Water & Plaster",
+    "candidates": [
+      "Master-Apprentice Except",
+      "Dirty Water & Plaster",
+      "Rope vs. Strap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses waste water (shofchin), its shiur of a revi'it, Rabbi Yirmiyah's answer about kneading clay, and the resolution distinguishing already-kneaded from not-yet-kneaded clay \u2014 exactly what the 'Dirty Water & Plaster' prose describes.",
+      "chosen_heading": "Dirty Water & Plaster",
+      "current_heading": "Dirty Water & Plaster",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rope vs. Strap",
+    "candidates": [
+      "Rope vs. Strap",
+      "Parchment Measures",
+      "Various Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the Mishnah's shiurim for rope, reed grass (gami), and paper/tax receipt \u2014 exactly the materials discussed in the 'Rope vs. Strap' section's prose, which explicitly addresses rope, strap/gami, and the sieve-loop measures.",
+      "chosen_heading": "Rope vs. Strap",
+      "current_heading": "Rope vs. Strap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Various Materials",
+    "candidates": [
+      "Parchment Measures",
+      "Various Materials",
+      "Plaster Uses",
+      "Wicker & Fibers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Parchment Measures",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers paper, hide, dokhsostos, parchment, and ink \u2014 materials that are the subject of heading 0 ('Parchment Measures') and the lead-in to heading 1, matching the prose about klaf/parchment shiurim and ink (shtei otiyot).",
+      "second_heading": "Various Materials",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers blue eye shadow, glue, tar, wax, crushed earthenware, bran, and lime \u2014 exactly the catalog of further items described in heading 1 ('Various Materials') and heading 2 ('Plaster Uses'), with the lime/plaster content (sid, Rabbi Yehuda, Rabbi Nechemya) matching heading 2's prose most precisely, but the full item spans headings 1 and 2; since the current placement is heading 1 and heading 1's prose explicitly discusses all of item 2's content up through bran, and heading 2 handles only the sid portion, item 2 as a whole sits best under heading 1.",
+      "current_heading": "Various Materials",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Wicker & Fibers",
+    "candidates": [
+      "Plaster Uses",
+      "Wicker & Fibers",
+      "Paper Measures",
+      "Two Letters Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses hutzin, siv, revav, and mochin \u2014 exactly the wicker and fiber materials with their shiurim that the 'Wicker & Fibers' prose section explicitly addresses, including the sela/grogeret equivalence and the fat/wafer context.",
+      "chosen_heading": "Wicker & Fibers",
+      "current_heading": "Wicker & Fibers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Two Letters Debate",
+    "candidates": [
+      "Paper Measures",
+      "Two Letters Debate",
+      "Erased Paper & Docs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly covers the Rav Sheshet vs. Rava debate about whether 'two letters' means tax-receipt symbols or ordinary letters plus holding space, which is precisely what the 'Two Letters Debate' section prose discusses.",
+      "chosen_heading": "Two Letters Debate",
+      "current_heading": "Two Letters Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Erased Paper & Docs",
+    "candidates": [
+      "Erased Paper & Docs",
+      "Tax Receipt Rules",
+      "Receipt Holding Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses erased paper and paid-up debt documents, the two-letter measure, the bottle-wrapping measure, and the debate between Rav Sheshet and Rava regarding holding space \u2014 all of which are precisely what the 'Erased Paper & Docs' section prose describes.",
+      "chosen_heading": "Erased Paper & Docs",
+      "current_heading": "Erased Paper & Docs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Receipt Holding Debate",
+    "candidates": [
+      "Tax Receipt Rules",
+      "Receipt Holding Debate",
+      "Debt Writ Verification",
+      "Paid-Up Doc Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the initial Tannaic ruling (liable before showing, exempt after) AND Rabbi Yehuda's dispute with the three explanations of their difference, meaning it spans both headings 0 and 1, but heading 0's prose explicitly introduces all these rules together as a unit while heading 1 treats only the debate portion \u2014 however, since the full baraita including Rabbi Yehuda's view and the Abaye/Rava/Rav Ashi analysis is presented as one continuous unit, and heading 0's prose already anticipates the full discussion, it is a closer match than the current placement which only covers part of the content.",
+      "chosen_heading": "Tax Receipt Rules",
+      "current_heading": "Receipt Holding Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Paid-Up Doc Prohibition",
+    "candidates": [
+      "Debt Writ Verification",
+      "Paid-Up Doc Prohibition",
+      "Admission vs. Notary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita and Rav Yosef's framing of the debate, which is exactly what heading 0 ('Debt Writ Verification') describes \u2014 introducing the promissory note case, the liable/exempt distinction, Rabbi Yehuda's position, and Rav Yosef's identification of the issur li-shehot shtar parua question \u2014 whereas heading 1's prose covers Rav Yosef's point already as background and then moves on to Abaye's reframing.",
+      "chosen_heading": "Debt Writ Verification",
+      "current_heading": "Paid-Up Doc Prohibition",
+      "moved": true
+    }
+  }
+]

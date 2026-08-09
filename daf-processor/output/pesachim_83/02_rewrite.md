@@ -46,13 +46,6 @@ The *Gemara* then explains why Rabbi Yochanan himself declined to make this conn
 
 ---
 
-## Atzmos, Gidin, Notar
-
-### Mishnah Listing
-
-The *mishnah* states: *ha-atzamos ve-ha-gidin ve-ha-notar yisrafu be-shishah asar* — the bones, the sinews, and the leftover meat of the *pesach* are burned on the sixteenth. Leftover meat (*notar*) is not meat that became *pasul* for some external reason, but rather the meat of a validly offered *korban* that was simply not consumed. The bones require burning because they contain marrow; since the *korban pesach* carries a prohibition against breaking its bones, the marrow cannot be extracted and burned separately. The sinews similarly require burning, as we will discuss. All of this is done on the sixteenth because burning cannot take place on the fifteenth, which is *Yom Tov*.
-
----
 
 ## Notar on Shabbat
 

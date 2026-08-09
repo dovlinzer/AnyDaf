@@ -1,0 +1,334 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Field Rental & Improve",
+    "candidates": [
+      "Intro: Field Value",
+      "Field Rental & Improve",
+      "Field vs. Shop/Boat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the exact baraita scenario described in the 'Field Rental & Improve' prose \u2014 renting a field for ten kor, receiving 200 zuz to improve it, and raising the rental to twelve kor \u2014 matching that section's content precisely.",
+      "chosen_heading": "Field Rental & Improve",
+      "current_heading": "Field Rental & Improve",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Field vs. Shop/Boat",
+    "candidates": [
+      "Field vs. Shop/Boat",
+      "Aesthetic Improvements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states that one may not perform mafriz for a store or ship, which is exactly what the 'Field vs. Shop/Boat' section's prose discusses as the immediate continuation of the baraita.",
+      "chosen_heading": "Field vs. Shop/Boat",
+      "current_heading": "Field vs. Shop/Boat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Aesthetic Improvements",
+    "candidates": [
+      "Aesthetic Improvements",
+      "Rav's Position",
+      "Challenge to Rav",
+      "Rav Sheshet's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav Na\u1e25man citing Rabba bar Avuh on inflating rental fees for a store (to paint designs) and a ship (to fashion a sail), which is exactly what the 'Aesthetic Improvements' section's prose discusses.",
+      "chosen_heading": "Aesthetic Improvements",
+      "current_heading": "Aesthetic Improvements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Rav Sheshet's Defense",
+    "candidates": [
+      "Rav's Position",
+      "Challenge to Rav",
+      "Rav Sheshet's Defense",
+      "Rav Papa's Psak",
+      "Sailor Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Sheshet's defense of Rav \u2014 his question about why Rav was silent, the baraita he cites as support, and the clarification of that baraita \u2014 exactly matching the prose under heading 2 'Rav Sheshet's Defense'.",
+      "chosen_heading": "Rav Sheshet's Defense",
+      "current_heading": "Rav Sheshet's Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Sailor Custom",
+    "candidates": [
+      "Rav Papa's Psak",
+      "Sailor Custom",
+      "Minhag & Flexibility",
+      "Shmuel's Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Papa's Psak",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Papa's definitive halakhic ruling ('hilcheta sfina agra u'fagra'), which is precisely what candidate 0 ('Rav Papa's Psak') describes.",
+      "second_heading": "Sailor Custom",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the sailors' custom of paying rent at pulling and damage at breakage, along with the Gemara's question about whether minhag governs \u2014 exactly what candidate 1 ('Sailor Custom') discusses in its prose.",
+      "current_heading": "Sailor Custom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Shmuel's Ruling",
+    "candidates": [
+      "Minhag & Flexibility",
+      "Shmuel's Ruling",
+      "Rav Nachman Objects",
+      "Mar Ukva Cauldron"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Anan citing Shmuel's ruling on orphans' money and Rav Nachman's initial objection, which matches the 'Shmuel's Ruling' section's prose discussing exactly this exchange, and the current placement is correct.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Shmuel's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Mar Ukva Cauldron",
+    "candidates": [
+      "Rav Nachman Objects",
+      "Mar Ukva Cauldron",
+      "Measurable Depreciation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the cauldron belonging to Mar Ukva's children kept at Mar Shmuel's house, with the dual charge of rental and depreciation, which is precisely what the 'Mar Ukva Cauldron' section's prose discusses.",
+      "chosen_heading": "Mar Ukva Cauldron",
+      "current_heading": "Mar Ukva Cauldron",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Measurable Depreciation",
+    "candidates": [
+      "Measurable Depreciation",
+      "Risk Profiles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's statement that the dual charge is permitted even for adults because the copper's measurable corrosion makes the depreciation quantifiable, which is precisely what the 'Measurable Depreciation' prose discusses in detail.",
+      "chosen_heading": "Measurable Depreciation",
+      "current_heading": "Measurable Depreciation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Risk Profiles",
+    "candidates": [
+      "Risk Profiles",
+      "Rabba's Question",
+      "Initial Suggestion",
+      "Principal Concern",
+      "Gold Nugget Investment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the ruling about investing orphans' money in arrangements close to profit and far from loss, and the baraita defining the three investor profiles (rasha, chasid, kol adam) \u2014 are explicitly discussed together in the 'Risk Profiles' prose, which is precisely about these two texts and their relationship.",
+      "chosen_heading": "Risk Profiles",
+      "current_heading": "Risk Profiles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Gold Nugget Investment",
+    "candidates": [
+      "Rabba's Question",
+      "Initial Suggestion",
+      "Principal Concern",
+      "Gold Nugget Investment",
+      "Rav Ashi's Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Initial Suggestion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's initial suggestion to disburse coin by coin and Rabba's objection that this depletes the principal, which matches the 'Initial Suggestion' and 'Principal Concern' headings \u2014 but since both items 1 and 2 of the passage need a home, item 1 (the suggestion plus the karna objection) belongs under 'Initial Suggestion' (which flows into 'Principal Concern'), and the split after item 1 is warranted because item 2 is Rabba's gold-nugget proposal.",
+      "second_heading": "Gold Nugget Investment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Rabba's gold-nugget investment proposal with the karov liskhar verakhok lehefsed structure, which is precisely what the 'Gold Nugget Investment' prose section discusses.",
+      "current_heading": "Gold Nugget Investment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Ashi's Standard",
+    "candidates": [
+      "Rav Ashi's Standard",
+      "Tzon Barzel Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's challenge about finding a man with gold scraps and his alternative standard for selecting a trustworthy investment partner for orphans' funds, which is precisely what Candidate 0's prose describes.",
+      "chosen_heading": "Rav Ashi's Standard",
+      "current_heading": "Rav Ashi's Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Tzon Barzel Definition",
+    "candidates": [
+      "Tzon Barzel Definition",
+      "Non-Jew Exception",
+      "Bechoros Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzon Barzel Definition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna defining tzon barzel and the prohibition with Jews, which is exactly what the 'Tzon Barzel Definition' prose discusses.",
+      "second_heading": "Non-Jew Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers borrowing/lending with non-Jews with interest and the ger toshav rule, which is precisely what the 'Non-Jew Exception' prose elaborates on.",
+      "current_heading": "Tzon Barzel Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Bechoros Contradiction",
+    "candidates": [
+      "Non-Jew Exception",
+      "Bechoros Contradiction",
+      "Abaye's Resolution",
+      "Rava's Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about ownership and the contradiction from Bechoros about firstborn exemption, which is exactly what the 'Bechoros Contradiction' section's prose describes.",
+      "chosen_heading": "Bechoros Contradiction",
+      "current_heading": "Bechoros Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Rava's Alternative",
+    "candidates": [
+      "Abaye's Resolution",
+      "Rava's Alternative",
+      "Rava's Explanation",
+      "Yad Nochri"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1 is Abaye's resolution distinguishing the two cases based on whether the owner accepted onsa uzola, which matches heading 0 'Abaye's Resolution' precisely.",
+      "second_heading": "Rava's Alternative",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are Rava's two objections to Abaye followed by his own alternative explanation, which matches headings 1 and 2 under 'Rava's Alternative' and 'Rava's Explanation' \u2014 but since they form one continuous dispute they belong under the current placement heading 1 which covers both objections and the alternative resolution.",
+      "current_heading": "Rava's Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Yad Nochri",
+    "candidates": [
+      "Rava's Explanation",
+      "Yad Nochri",
+      "Taz on Bechor",
+      "Kiddush Analogy",
+      "Shemita Parallel",
+      "Practical Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the halakhic rule 'yad nochri be'emtza patur min habechora,' which is precisely what the 'Yad Nochri' section's prose explains and elaborates upon.",
+      "chosen_heading": "Yad Nochri",
+      "current_heading": "Yad Nochri",
+      "moved": false
+    }
+  }
+]

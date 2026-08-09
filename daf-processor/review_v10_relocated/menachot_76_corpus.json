@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Ten vs. Twelve Loaves",
+    "candidates": [
+      "300 & 500 Requirement",
+      "Tanna Kamma vs. R. Yosi",
+      "Ten vs. Twelve Loaves",
+      "Alternating Pattern",
+      "Back & Forth Count",
+      "R. Yosi on Dough",
+      "Mixed Approach",
+      "Paradigm Question",
+      "R. Yehuda: Ten"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "300 & 500 Requirement",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the Mishnah's 300 rubbings/500 poundings requirement and the Gemara's baraita on the alternating pattern plus Rabbi Yirmiya's back-and-forth dilemma, which corresponds exactly to heading 0 ('300 & 500 Requirement') and headings 3-5 in sequence \u2014 but item 1 is the opening Mishnah which belongs under heading 0, while item 2 belongs under heading 4 ('Alternating Pattern') / heading 5 ('Back & Forth Count'); however since items 1-2 are all about the 300/500 rubbing-pounding topic and item 3 shifts to the Tanna Kamma vs. Rabbi Yosi dispute about wheat vs. dough, the best single home for items 1-2 is heading 0.",
+      "second_heading": "Tanna Kamma vs. R. Yosi",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses the baraita resolving whether Rabbi Yosi means dough instead of wheat or dough in addition to wheat, which directly matches heading 1 ('Tanna Kamma vs. R. Yosi') whose prose discusses exactly this dispute and its interpretive structure.",
+      "current_heading": "Ten vs. Twelve Loaves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "R. Yehuda: Ten",
+    "candidates": [
+      "Alternating Pattern",
+      "Back & Forth Count",
+      "R. Yosi on Dough",
+      "Mixed Approach",
+      "Paradigm Question",
+      "R. Yehuda: Ten",
+      "Mincha & Toda Comparison",
+      "Lechem Hapanim Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses the source for the shewbread (lechem hapanim) coming in twelve loaves, citing the explicit verse in Leviticus 24:5, which directly matches the prose in candidate 6 that establishes the basis for the chavitei Kohen Gadol and lechem hapanim being twelve.",
+      "chosen_heading": "Mincha & Toda Comparison",
+      "current_heading": "R. Yehuda: Ten",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Lechem Hapanim Model",
+    "candidates": [
+      "Mincha & Toda Comparison",
+      "Lechem Hapanim Model",
+      "Mincha & Lechem Panim",
+      "Kohen Gadol Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the gezeirah shavah (chukah-chukah) deriving the twelve units of the chavitei Kohen Gadol from lechem hapanim, which is precisely what the 'Mincha & Toda Comparison' prose section describes as its opening point.",
+      "chosen_heading": "Mincha & Toda Comparison",
+      "current_heading": "Lechem Hapanim Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Kohen Gadol Model",
+    "candidates": [
+      "Mincha & Lechem Panim",
+      "Kohen Gadol Model",
+      "Kohen Gadol Similarities"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Mincha & Lechem Panim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the debate between deriving from lachmei Toda vs. lechem hapanim and the resolution that lachmei Toda analogies are more numerous, exactly matching heading 0's prose discussion.",
+      "second_heading": "Kohen Gadol Model",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 introduce the new question of deriving from the chavitei Kohen Gadol and explain why lachmei Toda remains the better model, exactly matching heading 1's prose discussion.",
+      "current_heading": "Kohen Gadol Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Kohen Gadol Similarities",
+    "candidates": [
+      "Kohen Gadol Similarities",
+      "Chosen Model Rationale",
+      "R. Meir Counters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's counter-argument listing why one should derive from the chavitei Kohen Gadol rather than the lachmei Toda, which is precisely what the 'Kohen Gadol Similarities' prose describes \u2014 listing the parallels between normal mincha and the Kohen Gadol offering, ending with the observation that this list is longer.",
+      "chosen_heading": "Kohen Gadol Similarities",
+      "current_heading": "Kohen Gadol Similarities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "R. Meir Counters",
+    "candidates": [
+      "Chosen Model Rationale",
+      "R. Meir Counters",
+      "R. Meir's Exceptions",
+      "Shmuel's Leniency",
+      "Teruma Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage 'hedyot mehedyot adif leh' directly matches the prose of candidate 3 ('Shmuel's Leniency'), which explicitly quotes and explains this phrase as Rabbi Yehuda's conclusion that it is preferable to derive a lay offering's rule from another lay offering.",
+      "chosen_heading": "Shmuel's Leniency",
+      "current_heading": "R. Meir Counters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Teruma Problem",
+    "candidates": [
+      "R. Meir's Exceptions",
+      "Shmuel's Leniency",
+      "Teruma Problem",
+      "Separation Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Meir's position and the two possibilities regarding whether a gezeirah shavah can serve as a binyan av, deriving twelve from either the chavitei Kohen Gadol or the lechem hapanim \u2014 exactly what the prose under 'Teruma Problem' (index 2) describes.",
+      "chosen_heading": "Teruma Problem",
+      "current_heading": "Teruma Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Separation Solution",
+    "candidates": [
+      "Separation Solution",
+      "Baraitot on Meakev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the two exceptions (todah and nazirite) to the twelve-loaf rule and their derivations, which is precisely what the 'Separation Solution' prose describes.",
+      "chosen_heading": "Separation Solution",
+      "current_heading": "Separation Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Baraitot on Meakev",
+    "candidates": [
+      "Baraitot on Meakev",
+      "Toda Number Meakev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's ruling that baking four loaves fulfills the obligation bedi'avad, which is exactly what the 'Baraitot on Meakev' prose discusses \u2014 the bedi'avad status when the prescribed number was not achieved, with Rav Tuvi bar Kisna/Shmuel's ruling that four loaves suffice after the fact.",
+      "chosen_heading": "Baraitot on Meakev",
+      "current_heading": "Baraitot on Meakev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Toda Number Meakev",
+    "candidates": [
+      "Toda Number Meakev",
+      "R. Huna on One Loaf",
+      "R. Papa Counters"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Huna on One Loaf",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the terumah challenge and its resolution via separating during kneading (d'afrishinhu b'lisha), which is exactly what heading 1 'R. Huna on One Loaf' discusses.",
+      "second_heading": "Toda Number Meakev",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the baraita objection regarding whether lachmei Todah and Nezirut require their prescribed numbers and its resolution via the tannaitic dispute, which matches heading 0 'Toda Number Meakev' precisely.",
+      "current_heading": "Toda Number Meakev",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "R. Papa Counters",
+    "candidates": [
+      "R. Huna on One Loaf",
+      "R. Papa Counters",
+      "Omer Ratio",
+      "Shtei Halechem Ratio",
+      "Lechem Hapanim Ratio",
+      "Ratio Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Candidate 4 ('Lechem Hapanim Ratio') describes precisely Rav Huna's ruling that one loaf suffices for the oven-baked mincha based on the defective spelling of 'matzat', which is exactly what items 1 and 2 discuss \u2014 and candidate 5 ('Ratio Explanation') covers Rav Pappa's challenge and the broader ratio discussion, suggesting items 1-2 belong under candidate 4 as the source ruling that precedes that challenge.",
+      "chosen_heading": "Lechem Hapanim Ratio",
+      "current_heading": "R. Papa Counters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Ratio Explanation",
+    "candidates": [
+      "Omer Ratio",
+      "Shtei Halechem Ratio",
+      "Lechem Hapanim Ratio",
+      "Ratio Explanation",
+      "Quality Clarification",
+      "Sieve Numbers",
+      "R. Shimon Opinion",
+      "Alternating Sieves",
+      "Sieve Purposes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The Mishna states the three ratios of starting grain to finished flour for the Omer, shtei halechem, and lechem hapanim \u2014 precisely what the 'Quality Clarification' prose introduces and discusses, explaining the quantities of wheat required for these three major communal flour-based offerings and the ten-to-one ratio of the Omer.",
+      "chosen_heading": "Quality Clarification",
+      "current_heading": "Ratio Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Sieve Purposes",
+    "candidates": [
+      "Quality Clarification",
+      "Sieve Numbers",
+      "R. Shimon Opinion",
+      "Alternating Sieves",
+      "Sieve Purposes",
+      "Progressive Method",
+      "Buy Flour",
+      "Buy Wheat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Progressive Method",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Gemara's explanation of why different ratios of starting grain to finished flour apply to the Omer, shtei halechem, and lechem hapanim respectively, which matches candidate 5 ('Progressive Method') exactly \u2014 that prose discusses keivan d'michadsha, d'michitin, and miyashan arguments and the issaron muvchar ratios.",
+      "second_heading": "Buy Flour",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the Baraita distinguishing the indispensable issaron measure from the dispensable se'in measure, which matches candidate 6 ('Buy Flour') exactly \u2014 that prose explicitly quotes and explains this same Baraita about pesulot/kesherot based on whether the issaron or se'in was altered.",
+      "current_heading": "Sieve Purposes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Buy Wheat",
+    "candidates": [
+      "Progressive Method",
+      "Buy Flour",
+      "Buy Wheat",
+      "Lechem Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the number of sieves used for the Omer, shtei halechem, and lechem hapanim \u2014 exactly what the 'Buy Wheat' prose section describes as the content of the final Mishnah of the daf and its Gemara discussion about the sifting process.",
+      "chosen_heading": "Buy Wheat",
+      "current_heading": "Buy Wheat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Lechem Exception",
+    "candidates": [
+      "Lechem Exception",
+      "Expense Principle",
+      "Shimon b Elazar Sieves",
+      "Torah Saves Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Shimon's position on unlimited sifting AND the Braita about 've'lakachta solet ve'afita otah' teaching that fine flour is purchased \u2014 this directly matches the 'Torah Saves Money' section's prose which explicitly discusses the same verse and Braita about purchasing solet from the marketplace.",
+      "chosen_heading": "Torah Saves Money",
+      "current_heading": "Lechem Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Torah Saves Money",
+    "candidates": [
+      "Expense Principle",
+      "Shimon b Elazar Sieves",
+      "Torah Saves Money",
+      "Torah: Mammon Yisrael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation that wheat kernels may be purchased for shewbread (ve'lakachta) and that this latitude does not extend to other meal offerings because of ha\u1e25issa\u1e25on, which is precisely what the 'Torah Saves Money' section's prose describes.",
+      "chosen_heading": "Torah Saves Money",
+      "current_heading": "Torah Saves Money",
+      "moved": false
+    }
+  }
+]

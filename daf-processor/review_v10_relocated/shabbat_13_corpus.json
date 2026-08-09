@@ -1,0 +1,215 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Chazzan Reading Question",
+    "candidates": [
+      "Intro & Gezeirot Theme",
+      "Chazzan Reading",
+      "Chazzan Reading Question",
+      "Children Reading Tosefta",
+      "Eimas Rabban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnah's statement about the chazzan seeing where children read but not reading himself, and the Gemara's question/answer about whether 'seeing' means reading, which is precisely what the 'Chazzan Reading' section's prose describes.",
+      "chosen_heading": "Chazzan Reading",
+      "current_heading": "Chazzan Reading Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Eimas Rabban",
+    "candidates": [
+      "Children Reading Tosefta",
+      "Eimas Rabban",
+      "Group Protection Rule",
+      "Zav Zavah Rule",
+      "Hergel Aveira Meaning",
+      "Purity Practice Braita",
+      "Zav Parush Case",
+      "Rava's Hergel Aveira"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Rava's Hergel Aveira",
+    "candidates": [
+      "Group Protection Rule",
+      "Zav Zavah Rule",
+      "Hergel Aveira Meaning",
+      "Purity Practice Braita",
+      "Zav Parush Case",
+      "Rava's Hergel Aveira",
+      "Pajamas Question",
+      "Cheese & Meat Analogy",
+      "Da'at Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Purity Practice Braita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the braita of Rabbi Shimon ben Elazar about how widespread tahara was in Israel and the zav parush/am ha-aretz case introduction, which matches the 'Purity Practice Braita' prose exactly.",
+      "second_heading": "Zav Parush Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the Gemara's question 've-chi margilo etzlo mai havei' and the Abaye/Rava dispute about the zav parush case, which matches the 'Zav Parush Case' prose discussion precisely.",
+      "current_heading": "Rava's Hergel Aveira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Da'at Distinction",
+    "candidates": [
+      "Pajamas Question",
+      "Cheese & Meat Analogy",
+      "Da'at Distinction",
+      "Strangers Qualifier",
+      "Know Each Other",
+      "Two Protective Factors",
+      "Both Factors Present",
+      "Zav Zavah No Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the continuous Talmudic discussion of the 'pajamas question' \u2014 whether a niddah may sleep with her husband while clothed \u2014 including Rav Yosef's cheese/fowl analogy, its rejection on the grounds of da'at, and the further challenge from Rabban Shimon ben Gamliel's ruling with Shmuel's qualification, all of which are sub-arguments within that single dilemma, perfectly matching the 'Pajamas Question' heading's prose description of exactly this sugya.",
+      "chosen_heading": "Pajamas Question",
+      "current_heading": "Da'at Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Zav Zavah No Sign",
+    "candidates": [
+      "Strangers Qualifier",
+      "Know Each Other",
+      "Two Protective Factors",
+      "Both Factors Present",
+      "Zav Zavah No Sign",
+      "No Shinui in Zav",
+      "Biblical Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the zav/zava case as a challenge ('Come and hear') to the previously established reasoning, with the Gemara's answer that 'there are two consciousnesses but no change' \u2014 exactly what candidate 4's prose describes as bringing back the zav/zava ruling to challenge the conclusion and establishing the framework of both factors.",
+      "chosen_heading": "Zav Zavah No Sign",
+      "current_heading": "Zav Zavah No Sign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Biblical Comparison",
+    "candidates": [
+      "No Shinui in Zav",
+      "Biblical Comparison",
+      "Rashi's Yichud",
+      "Tosafot Yetzer Hara",
+      "Ramban Intrinsic",
+      "Rav Padda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Ezekiel hekesh comparing niddah to eshet re'ehu, which is precisely what the 'Biblical Comparison' section's prose describes and analyzes.",
+      "chosen_heading": "Biblical Comparison",
+      "current_heading": "Biblical Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rav Padda",
+    "candidates": [
+      "Rashi's Yichud",
+      "Tosafot Yetzer Hara",
+      "Ramban Intrinsic",
+      "Rav Padda",
+      "Ulla's Kiss",
+      "Ulla Contradiction",
+      "Tosafot Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Pedat's statement that the Torah only prohibited intimacy involving actual sexual relations, which is precisely what the prose under 'Rav Padda' discusses as the foundational tension with the Ramban's reading.",
+      "chosen_heading": "Rav Padda",
+      "current_heading": "Rav Padda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Tosafot Resolution",
+    "candidates": [
+      "Ulla's Kiss",
+      "Ulla Contradiction",
+      "Tosafot Resolution",
+      "Story Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ulla kissing his sisters AND his contradictory statement about approaching the vineyard \u2014 both elements are discussed together in candidate 1 ('Ulla Contradiction'), while the current placement under 'Tosafot Resolution' is about Tosafot's resolution of that contradiction, which is a separate subsequent discussion.",
+      "chosen_heading": "Ulla Contradiction",
+      "current_heading": "Tosafot Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Story Setup",
+    "candidates": [
+      "Tosafot Resolution",
+      "Story Setup",
+      "Bleeding Days Strictness",
+      "White Days Leniency",
+      "Eliyahu's Verdict",
+      "Wide Bed Apron",
+      "Taboo vs Halacha",
+      "Chumrot to Kulos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the opening of the Tanna D'Bei Eliyahu story \u2014 the student who studied much but died young, and his wife going around with his tefillin \u2014 which matches exactly the 'Story Setup' section's prose description of this same narrative opening.",
+      "chosen_heading": "Story Setup",
+      "current_heading": "Story Setup",
+      "moved": false
+    }
+  }
+]

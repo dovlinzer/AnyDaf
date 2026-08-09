@@ -1,0 +1,457 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Father's Marriage",
+    "candidates": [
+      "Yi'ud Timing",
+      "Father's Marriage",
+      "Kesef Kiddushin Dispute",
+      "Mashal Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about a father selling his daughter and then betrothing her to another man, with Rabbi Yose b'Rabbi Yehuda's ruling that she is betrothed to the second man \u2014 exactly what the 'Father's Marriage' prose describes.",
+      "chosen_heading": "Father's Marriage",
+      "current_heading": "Father's Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Mashal Comparison",
+    "candidates": [
+      "Kesef Kiddushin Dispute",
+      "Mashal Comparison",
+      "No Yi'ud Stipulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the continuous Gemara discussion of the mashal \u2014 its introduction, the challenge from the Rabbis' view, Rav A\u1e25a's resolution attributing it to Rabbi Yosei b'Rabbi Yehuda, and the clarification of the mashal's added value \u2014 exactly matching the 'Mashal Comparison' prose.",
+      "chosen_heading": "Mashal Comparison",
+      "current_heading": "Mashal Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "No Yi'ud Stipulation",
+    "candidates": [
+      "No Yi'ud Stipulation",
+      "Meir vs. Rabbanan",
+      "Void Stipulation",
+      "Marriage Obligations",
+      "Yehuda's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full baraita about selling a daughter with a no-yi'ud stipulation, including both Rabbi Meir's ruling and the Rabbanan's reasoning, which matches heading 0's prose that introduces this exact configuration \u2014 headings 1 and 2 cover the same material but are sub-sections of the same passage, and the current placement at heading 0 is the natural home for the unified baraita text.",
+      "chosen_heading": "No Yi'ud Stipulation",
+      "current_heading": "No Yi'ud Stipulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Yehuda's Position",
+    "candidates": [
+      "Meir vs. Rabbanan",
+      "Void Stipulation",
+      "Marriage Obligations",
+      "Yehuda's Position",
+      "Chizkiyah's Derasha",
+      "Pasuk Allocation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to Rabbi Meir from the baraita about betrothal conditions (she'er, kesut, ve'onah), which is precisely what heading 2 'Marriage Obligations' describes in its prose.",
+      "chosen_heading": "Marriage Obligations",
+      "current_heading": "Yehuda's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Pasuk Allocation",
+    "candidates": [
+      "Chizkiyah's Derasha",
+      "Pasuk Allocation",
+      "Eliezer's Reading",
+      "Kal VaChomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is Chizkiyah's derasha (the core content of heading 0's prose), and Item 2 is the Rabbanan's response asking what they do with 'le'amah' \u2014 both are discussed together in heading 0's prose as part of resolving the tension in Rabbi Meir's position, whereas heading 1 ('Pasuk Allocation') discusses the Rabbanan's alternative use of 'le'amah' for pesulim but Item 1 (Chizkiyah's teaching) clearly belongs under heading 0.",
+      "chosen_heading": "Chizkiyah's Derasha",
+      "current_heading": "Pasuk Allocation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Kal VaChomer",
+    "candidates": [
+      "Eliezer's Reading",
+      "Kal VaChomer",
+      "Institution vs. Fact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the kal va-chomer argument and its rebuttal (father can betroth a na'arah but not sell her, so the verse le'amah is needed), which is precisely what the 'Kal VaChomer' section's prose describes.",
+      "chosen_heading": "Kal VaChomer",
+      "current_heading": "Kal VaChomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Institution vs. Fact",
+    "candidates": [
+      "Institution vs. Fact",
+      "Father/Son Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit about Rabbi Eliezer's derivation that one can sell to relatives (krovim) and Rabbi Meir's contrasting position, which is precisely what the 'Institution vs. Fact' prose discusses in detail.",
+      "chosen_heading": "Institution vs. Fact",
+      "current_heading": "Institution vs. Fact",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Father/Son Rule",
+    "candidates": [
+      "Father/Son Rule",
+      "Yi'ud Possibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two conflicting baraitot and asks whose opinion the first one represents \u2014 exactly what the 'Father/Son Rule' prose describes, before the resolution (yi'ud) explained under the next heading.",
+      "chosen_heading": "Father/Son Rule",
+      "current_heading": "Father/Son Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Yi'ud Possibility",
+    "candidates": [
+      "Yi'ud Possibility",
+      "Rambam Yovel",
+      "Begapo Yavo",
+      "Eliezer ben Yaakov",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis conceding where there is a possibility of yi'ud (tzad yi'ud), which is exactly what the 'Yi'ud Possibility' section's prose describes.",
+      "chosen_heading": "Yi'ud Possibility",
+      "current_heading": "Yi'ud Possibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Rambam Yovel",
+      "Begapo Yavo",
+      "Eliezer ben Yaakov",
+      "Rava's Reading",
+      "Abaye's Question",
+      "Injury Compensation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the entire braita including both interpretations and Rava/Abaye's exchange, so it belongs under 'Begapo Yavo' which introduces this new braita and its exploration, rather than being split across multiple headings.",
+      "chosen_heading": "Begapo Yavo",
+      "current_heading": "Rava's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Injury Compensation",
+    "candidates": [
+      "Abaye's Question",
+      "Injury Compensation",
+      "Shifcha Provision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains exactly why the additional verse is needed \u2014 to preclude the interpretation that the slave both goes free and receives compensation \u2014 which matches perfectly with the 'Injury Compensation' section's prose about bodily injury not serving as a basis for freedom.",
+      "chosen_heading": "Injury Compensation",
+      "current_heading": "Injury Compensation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shifcha Provision",
+    "candidates": [
+      "Shifcha Provision",
+      "Value Increased"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Eliezer ben Yaakov's ruling about the shifcha kena'anis provision conditioned on the eved ivri entering with a wife and children, which is precisely what the 'Shifcha Provision' section's prose describes.",
+      "chosen_heading": "Shifcha Provision",
+      "current_heading": "Shifcha Provision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Value Increased",
+    "candidates": [
+      "Value Increased",
+      "Value Decreased"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a slave sold for one hundred whose value increased to two hundred, with the redemption calculated at the original price \u2014 exactly matching the 'Value Increased' section's prose.",
+      "chosen_heading": "Value Increased",
+      "current_heading": "Value Increased",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Value Decreased",
+    "candidates": [
+      "Value Decreased",
+      "Lower Price",
+      "Abaye's Boast"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Value Decreased",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 directly address the case where he was sold for two hundred and his value decreased, deriving from 'ke-fi shanav' that the lower current value is used, which matches the 'Value Decreased' prose exactly.",
+      "second_heading": "Lower Price",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the extension of the lekula principle to a slave sold to a Jew via gezera shava, which fits the 'Lower Price' prose about applying whichever verse yields the lower price and how both cases are covered.",
+      "current_heading": "Value Decreased",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Abaye's Boast",
+    "candidates": [
+      "Lower Price",
+      "Abaye's Boast",
+      "Torah's Concern",
+      "Ki Tov Lo Imach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Abaye's boastful declaration comparing himself to Ben Azzai and the immediate challenge from a Sage about reading the verses lekula vs. lechumra, which is precisely what the 'Abaye's Boast' section prose describes.",
+      "chosen_heading": "Abaye's Boast",
+      "current_heading": "Abaye's Boast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Ki Tov Lo Imach",
+    "candidates": [
+      "Torah's Concern",
+      "Ki Tov Lo Imach",
+      "Buying Master",
+      "Tosafot Pillow",
+      "Strict Redemption",
+      "Sin Leads to Slavery",
+      "Downward Spiral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about 'ki tov lo imach' \u2014 equal food, drink, and sleeping conditions \u2014 and the conclusion 'ke-koneh adon le-atzmo', which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Ki Tov Lo Imach",
+      "current_heading": "Ki Tov Lo Imach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Downward Spiral",
+    "candidates": [
+      "Buying Master",
+      "Tosafot Pillow",
+      "Strict Redemption",
+      "Sin Leads to Slavery",
+      "Downward Spiral",
+      "Awareness Stages",
+      "Repeated Sin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Strict Redemption",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's counterargument that we should be strict at redemption, invoking Rabbi Yose b'Rabbi Chanina's teaching \u2014 exactly what heading 'Strict Redemption' (index 2) describes.",
+      "second_heading": "Downward Spiral",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 trace the downward spiral of selling movable property, fields, and house through juxtaposed pesukim in Behar \u2014 precisely what the 'Downward Spiral' prose (index 4) describes.",
+      "current_heading": "Downward Spiral",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Repeated Sin",
+    "candidates": [
+      "Awareness Stages",
+      "Repeated Sin",
+      "Economic Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 asking why the language shifts from 'lo hirgish' to 'lo ba l'yado' \u2014 directly matches the 'Awareness Stages' prose, which explicitly addresses this same linguistic shift and its significance; the Rav Huna citation is the answer to that question about differing terminology, making it part of the awareness-stages discussion rather than a standalone topic about repeated sin.",
+      "chosen_heading": "Awareness Stages",
+      "current_heading": "Repeated Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Economic Logic",
+    "candidates": [
+      "Repeated Sin",
+      "Economic Logic",
+      "Stone After Fall",
+      "Acharei Nimkar",
+      "Mandate Conclusion",
+      "Value Increased (II)",
+      "Value Decreased (II)",
+      "Pshat Rejected"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Economic Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the economic logic of selling a daughter versus borrowing with interest and the further stages of descent (borrowing with ribbit, selling oneself), which is precisely what the 'Economic Logic' prose discusses.",
+      "second_heading": "Stone After Fall",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 describe the descent to being sold to a ger toshav, then to idolaters, then the debate about throwing a stone after the fallen versus the redemptive mandate \u2014 matching the 'Stone After Fall' section which begins with the question of whether we seal the fate of one sold into pagan service.",
+      "current_heading": "Economic Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Pshat Rejected",
+    "candidates": [
+      "Stone After Fall",
+      "Acharei Nimkar",
+      "Mandate Conclusion",
+      "Value Increased (II)",
+      "Value Decreased (II)",
+      "Pshat Rejected",
+      "K'Sinai Derasha",
+      "Moral Tensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: Rav Na\u1e25man's derivation (item 1), the gemara's challenge about remaining years (item 2), and the rejection via the word 'ba-shanim' plus Rav Yosef's accolade (item 3) \u2014 exactly what the 'Pshat Rejected' prose describes, including the ba-shanim linguistic argument and the Sinai accolade that also appears in heading 6's prose but is secondary to the main point of the passage.",
+      "chosen_heading": "Pshat Rejected",
+      "current_heading": "Pshat Rejected",
+      "moved": false
+    }
+  }
+]

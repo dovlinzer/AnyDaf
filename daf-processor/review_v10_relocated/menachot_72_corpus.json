@@ -1,0 +1,275 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Rav Dimi Report",
+    "candidates": [
+      "Fodder Cutting",
+      "Rabbi Meir & Pe'ah",
+      "Rav Dimi Report",
+      "Ravin's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rav Dimi passage and its immediate challenge from Ravin, which the prose of candidate 2 ('Rav Dimi Report') explicitly covers in full \u2014 including Rav Yehuda/Shmuel's qualification and the Ravin challenge that follows.",
+      "chosen_heading": "Rav Dimi Report",
+      "current_heading": "Rav Dimi Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Ravin's Report",
+    "candidates": [
+      "Ravin's Report",
+      "Cutting Purposes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the 'savar lah kavateih be-chada u-falig aleih be-chada' resolution discussed in the 'Ravin's Report' section prose, which explicitly quotes and explains this very Gemara line.",
+      "chosen_heading": "Ravin's Report",
+      "current_heading": "Ravin's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Cutting Purposes",
+    "candidates": [
+      "Cutting Purposes",
+      "Talmud Rationale",
+      "No Bundles",
+      "Standing Grain",
+      "Alternatives"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cutting Purposes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the mishna's cases of permitted pre-omer reaping (saplings, mourning house, study hall) and the scriptural rationale 'ketzirchem' \u2014 matching the 'Cutting Purposes' prose which explains exactly these three cases and the mitzvah-purpose rationale.",
+      "second_heading": "No Bundles",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the prohibition on making formal sheaves from the pre-omer cuttings and the principle of not exerting unnecessary effort, which matches the 'No Bundles' prose exactly.",
+      "current_heading": "Cutting Purposes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Alternatives",
+    "candidates": [
+      "Talmud Rationale",
+      "No Bundles",
+      "Standing Grain",
+      "Alternatives",
+      "Megilla Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the baraita deriving from 'takriv' that the omer may be brought from sheaves, dry grain, daytime reaping, and even on Shabbat or in tumah \u2014 is precisely what candidate 3 ('Alternatives') describes in its prose.",
+      "chosen_heading": "Alternatives",
+      "current_heading": "Alternatives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Megilla Mishna",
+    "candidates": [
+      "Megilla Mishna",
+      "Rava's Resolution",
+      "Tumah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge from the Mishna in Megilla and the subsequent inference (diyuk) that night mitzvot cannot be performed by day, which is precisely what heading 0 ('Megilla Mishna') discusses in its prose.",
+      "chosen_heading": "Megilla Mishna",
+      "current_heading": "Megilla Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Tumah Case",
+    "candidates": [
+      "Rava's Resolution",
+      "Tumah Case",
+      "Akiva Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabba's resolution citing the baraita with Rabbi Yehuda HaNasi's and Rabbi Elazar ben Rabbi Shimon's positions \u2014 exactly what heading 0 ('Rava's Resolution') describes, and the current placement under heading 1 ('Tumah Case') covers the content of the baraita in its prose but is the downstream analysis, not the primary home of the Gemara passage itself.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Tumah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Akiva Principle",
+    "candidates": [
+      "Tumah Case",
+      "Akiva Principle",
+      "Elazar's Argument",
+      "Shimon Counterargument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara passage about Rabbi Elazar ben Rabbi Shimon's position being rooted in Rabbi Akiva's principle and Rabbi Yishmael's teaching, including the logical proof and the follow-up question about Rabbi Yehuda HaNasi \u2014 exactly the content described in the 'Akiva Principle' section's prose.",
+      "chosen_heading": "Akiva Principle",
+      "current_heading": "Akiva Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Shimon Counterargument",
+    "candidates": [
+      "Elazar's Argument",
+      "Shimon Counterargument",
+      "Rebbi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Shimon Counterargument': Item 1 establishes Rebbi as a student of Rabbi Shimon (which that section's prose explicitly describes), and Item 2 presents Rabbi Shimon's principle about mitzvot performed at their proper time (which that section's prose also explicitly discusses as Rebbi's basis for his position).",
+      "chosen_heading": "Shimon Counterargument",
+      "current_heading": "Shimon Counterargument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rebbi Position",
+    "candidates": [
+      "Rebbi Position",
+      "Evidence Review"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rebbi Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the question of whether Rabbi Elazar ben Rabbi Shimon knew his father's principle and his rejoinder about slaughter already overriding Shabbat, which is exactly what heading 0 ('Rebbi Position') discusses.",
+      "second_heading": "Evidence Review",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the new posit that Rebbi holds the omer does not override Shabbat and then begin reviewing mishnaic evidence against this \u2014 precisely what heading 1 ('Evidence Review') describes.",
+      "current_heading": "Rebbi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Evidence Review",
+    "candidates": [
+      "Evidence Review",
+      "Rebbi Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are examples of Mishnaic evidence being dismissed as 'd'lo k'Rebbe,' which is precisely what the 'Evidence Review' prose describes \u2014 the Gemara explaining away an array of Mishnayot that contradict the position that Rebbi holds the omer does not override Shabbat.",
+      "chosen_heading": "Evidence Review",
+      "current_heading": "Evidence Review",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Rebbi Teaching",
+    "candidates": [
+      "Rebbi Teaching",
+      "Baking Logic",
+      "Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about whether Rebbi's ruling (omer reaped by day is kasher) implies the reaping overrides Shabbat, followed by the baraita in Rebbi's name deriving from 'vayidaber Moshe et mo'adei Hashem' that the omer, Shtei HaLechem, and their associated korbanot override Shabbat \u2014 exactly the content described in the 'Rebbi Teaching' prose.",
+      "chosen_heading": "Rebbi Teaching",
+      "current_heading": "Rebbi Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Sanctification",
+    "candidates": [
+      "Baking Logic",
+      "Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain analyzing whether the oven consecrates the loaves \u2014 the challenge from the baraita about lambs sanctifying via slaughter, Rabbi Yehuda HaNasi's intermediate position, Rabbi Elazar's view, and Rav Na\u1e25man's resolution \u2014 which is precisely what the 'Sanctification' section's prose describes in detail.",
+      "chosen_heading": "Sanctification",
+      "current_heading": "Sanctification",
+      "moved": false
+    }
+  }
+]

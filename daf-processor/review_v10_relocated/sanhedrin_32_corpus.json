@@ -1,0 +1,487 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Drishah V'Chakirah",
+    "candidates": [
+      "Opening & Transition",
+      "Drishah V'Chakirah",
+      "Key Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah passage states the principle that both monetary and capital cases require inquiry and interrogation with the scriptural basis 'mishpat echad yihiyeh lachem,' which is precisely what the 'Drishah V'Chakirah' section's prose discusses.",
+      "chosen_heading": "Drishah V'Chakirah",
+      "current_heading": "Drishah V'Chakirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Key Differences",
+    "candidates": [
+      "Key Differences",
+      "V'Hitzilu Ha'edah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly enumerates the differences between monetary and capital law cases (court size and how deliberations are opened), which is precisely what the 'Key Differences' section prose discusses.",
+      "chosen_heading": "Key Differences",
+      "current_heading": "Key Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "V'Hitzilu Ha'edah",
+    "candidates": [
+      "V'Hitzilu Ha'edah",
+      "American Law Comparison",
+      "Case Reversal Rules",
+      "Who Can Argue",
+      "Argument Switching",
+      "Timing Requirements"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Case Reversal Rules",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover majority requirements and verdict reversibility, matching the prose of 'V'Hitzilu Ha'edah' (item 1) and 'Case Reversal Rules' (item 2) respectively \u2014 but since item 1 is already under heading 0 and item 2 belongs under heading 2, the split should separate items 1-2 (majority + reversal) from items 3-4 (who can argue + switching), with items 1-2 best matching heading 0's prose about majority requirements and heading 2's reversal discussion.",
+      "second_heading": "Who Can Argue",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss who may argue for or against the accused and the ability to switch argumentative positions, which precisely matches the prose of 'Who Can Argue' (heading 3) and 'Argument Switching' (heading 4).",
+      "current_heading": "V'Hitzilu Ha'edah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Timing Requirements",
+    "candidates": [
+      "American Law Comparison",
+      "Case Reversal Rules",
+      "Who Can Argue",
+      "Argument Switching",
+      "Timing Requirements",
+      "Holiday Restrictions",
+      "Tahor V'Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the timing rules for dinei mamonot vs. dinei nefashot \u2014 day/night requirements and same-day vs. next-day verdict rules \u2014 which is precisely what the 'Timing Requirements' prose discusses, including the erev Shabbat consequence that flows from item 2.",
+      "chosen_heading": "Timing Requirements",
+      "current_heading": "Timing Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Tahor V'Tamei",
+    "candidates": [
+      "Holiday Restrictions",
+      "Tahor V'Tamei",
+      "Judge Eligibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule that monetary/purity cases begin from the greatest judge while capital cases begin from the side (matchilin min hatzad), which is precisely what the prose under 'Tahor V'Tamei' explicates in detail.",
+      "chosen_heading": "Tahor V'Tamei",
+      "current_heading": "Tahor V'Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Judge Eligibility",
+    "candidates": [
+      "Judge Eligibility",
+      "Initial Question",
+      "Postdated Document",
+      "Postdate Inference",
+      "Mishnah Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses who is qualified to judge monetary versus capital cases, which matches exactly the 'Judge Eligibility' section's prose about lineage requirements for judges in dinei mamonot versus dinei nefashot.",
+      "chosen_heading": "Judge Eligibility",
+      "current_heading": "Judge Eligibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Mishnah Contradiction",
+    "candidates": [
+      "Initial Question",
+      "Postdated Document",
+      "Postdate Inference",
+      "Mishnah Contradiction",
+      "Rabbi Chanina Answer",
+      "Lo Tin'ol Daltot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical unit \u2014 the challenge from the baraita (items 1-2), the counter that the mishna poses the same difficulty (item 3), and the Gemara's defense of why the baraita is the stronger proof (item 4) \u2014 which is precisely what candidate 3 'Mishnah Contradiction' describes in its prose.",
+      "chosen_heading": "Mishnah Contradiction",
+      "current_heading": "Mishnah Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Lo Tin'ol Daltot",
+    "candidates": [
+      "Rabbi Chanina Answer",
+      "Lo Tin'ol Daltot",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Chanina Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the mnemonic \u05e1\u05b4\u05d9\u05de\u05b8\u05df: \u05d7\u05e8\u05e4\u05f4\u05e9) and Item 2 (Rabbi \u1e24anina's answer about d'Oraita equality) belong under 'Rabbi Chanina Answer', which is precisely about Rabbi \u1e24anina's resolution citing 'mishpat echad yihiyeh lachem'.",
+      "second_heading": "Lo Tin'ol Daltot",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 present the Gemara's objection about judges erring and the response that liability must remain to avoid locking the door for borrowers, which is exactly the content described in the 'Lo Tin'ol Daltot' prose.",
+      "current_heading": "Lo Tin'ol Daltot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Rava's Distinction",
+      "Reish Lakish Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's exact distinction between dinei knasot and hoda'ot v'halva'ot, which is precisely what the prose under 'Rava's Distinction' describes.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Rava's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Reish Lakish Principle",
+    "candidates": [
+      "Reish Lakish Principle",
+      "Rav Ashi Tzedek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Pappa's distinction between fraudulent and non-fraudulent trials and Reish Lakish's scriptural basis for that same distinction, which is precisely what the 'Reish Lakish Principle' prose describes.",
+      "chosen_heading": "Reish Lakish Principle",
+      "current_heading": "Reish Lakish Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Ashi Tzedek",
+    "candidates": [
+      "Rav Ashi Tzedek",
+      "Ships Case",
+      "Camels Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Ashi's position that the mishna's ruling is addressed by prior answers and that one verse refers to judgment and one to compromise, matching exactly the prose under 'Rav Ashi Tzedek'.",
+      "chosen_heading": "Rav Ashi Tzedek",
+      "current_heading": "Rav Ashi Tzedek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Camels Case",
+    "candidates": [
+      "Ships Case",
+      "Camels Case",
+      "Priority Principles",
+      "Compromise Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita passage contains BOTH the ships case AND the camels case as a single unit, and the prose under 'Ships Case' explicitly introduces this baraita and describes both examples, making it the better home for the entire quoted text rather than splitting it under 'Camels Case'.",
+      "chosen_heading": "Ships Case",
+      "current_heading": "Camels Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Compromise Payment",
+    "candidates": [
+      "Priority Principles",
+      "Compromise Payment",
+      "Excellent Courts",
+      "Sages' Locations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the priority principles (laden vs. unladen, close vs. far) discussed in candidate 0's prose, and while it also mentions the compromise payment, the prose of candidate 1 ('Compromise Payment') is meant to introduce and explain that element, making candidate 0 the better home for the full baraita text that covers both priority rules and the compromise resolution.",
+      "chosen_heading": "Priority Principles",
+      "current_heading": "Compromise Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Sages' Locations",
+    "candidates": [
+      "Excellent Courts",
+      "Sages' Locations",
+      "Mill Sound Signal",
+      "Candle Lighting",
+      "Candles & Sheet",
+      "More Locations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Excellent Courts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about following the best court (tzedek tzedek tirdof), which belongs under 'Excellent Courts' whose prose explicitly discusses this very baraita and its mandate to seek the finest court.",
+      "second_heading": "Mill Sound Signal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about the mill sound in Burni and lamp in Beror Chayil signaling circumcision/feast, which matches 'Mill Sound Signal' whose prose directly discusses kol recheiyim b'Borni and the covert announcement of a brit milah.",
+      "current_heading": "Sages' Locations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "More Locations",
+    "candidates": [
+      "Mill Sound Signal",
+      "Candle Lighting",
+      "Candles & Sheet",
+      "More Locations",
+      "Lishkat HaGazit",
+      "Apparent Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Baraita listing sages and their locations (the full 'Justice, justice, shall you follow' list), which the prose of 'More Locations' directly describes and discusses, including the specific rabbis named in the text.",
+      "chosen_heading": "More Locations",
+      "current_heading": "More Locations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Apparent Contradiction",
+    "candidates": [
+      "Lishkat HaGazit",
+      "Apparent Contradiction",
+      "Rav Yehudah Answer",
+      "Ulla's Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the practical question of 'how do we say' the opening of deliberations and Rav Yehuda's answer, which corresponds exactly to the 'Apparent Contradiction' section's prose about the practical difficulty of 'opening for innocence' in the face of clear testimony \u2014 this is the setup question, and the current placement correctly captures that introductory moment before Rav Yehuda's proposal is elaborated in the next section.",
+      "chosen_heading": "Apparent Contradiction",
+      "current_heading": "Apparent Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Ulla's Concern",
+    "candidates": [
+      "Rav Yehudah Answer",
+      "Ulla's Concern",
+      "Direct vs Indirect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ulla's objection about silencing witnesses and Rav Yehuda's response citing the baraita about Rabbi Shimon ben Eliezer, which directly matches the 'Ulla's Concern' section prose discussing Ulla's challenge and the response involving the practice of moving witnesses.",
+      "chosen_heading": "Ulla's Concern",
+      "current_heading": "Ulla's Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Direct vs Indirect",
+    "candidates": [
+      "Direct vs Indirect",
+      "Raba's Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the distinction between indirect repression (mimila) and direct action (beyadayim), which is precisely what the 'Direct vs Indirect' section's prose discusses.",
+      "chosen_heading": "Direct vs Indirect",
+      "current_heading": "Direct vs Indirect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Raba's Proposal",
+    "candidates": [
+      "Raba's Proposal",
+      "Hazamah Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's objection to Ulla's hazamah proposal \u2014 specifically the question of whether opening with a claim that benefits the accused but burdens the witnesses is permitted \u2014 which directly matches the prose of candidate 1 discussing how this approach creates liability (chovah) for the witnesses.",
+      "chosen_heading": "Hazamah Timing",
+      "current_heading": "Raba's Proposal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Hazamah Timing",
+    "candidates": [
+      "Raba's Proposal",
+      "Hazamah Timing",
+      "Raba Refined",
+      "Anchoring Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna stating that conspiring witnesses are not killed until after gemar din, which is precisely the challenge to Rava's proposal discussed in the 'Hazamah Timing' section's prose.",
+      "chosen_heading": "Hazamah Timing",
+      "current_heading": "Hazamah Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Anchoring Effect",
+    "candidates": [
+      "Raba Refined",
+      "Anchoring Effect",
+      "Reassurance Method",
+      "Public Announcement",
+      "Sotah Support"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Raba Refined",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabba's restatement and his refined proposal to ask the accused about contradicting witnesses, which matches exactly the 'Raba Refined' prose describing yesh lacha edim lehach-chishan and the distinction between contradicting witnesses and hazamah.",
+      "second_heading": "Anchoring Effect",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the statements of Rav Kahana, Abaye and Rava, and Rav Ashi \u2014 all of which are covered across the 'Anchoring Effect,' 'Reassurance Method,' and 'Public Announcement' sections, and the current placement under 'Anchoring Effect' is correct as that heading's prose begins with Rav Kahana's m'divreichem nizdaka ploni which opens Item 2.",
+      "current_heading": "Anchoring Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Sotah Support",
+    "candidates": [
+      "Reassurance Method",
+      "Public Announcement",
+      "Sotah Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita from the sotah context that supports Abaye and Rava's method, and the prose of 'Sotah Support' (index 2) explicitly describes exactly this baraita and its derivation of the principle of opening capital cases with a claim for acquittal.",
+      "chosen_heading": "Sotah Support",
+      "current_heading": "Sotah Support",
+      "moved": false
+    }
+  }
+]

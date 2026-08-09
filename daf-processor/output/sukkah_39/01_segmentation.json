@@ -203,8 +203,8 @@
           "timestamp": "25:13"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Prohibition on Buying Esrog: Money Used for Shemitah Produce and Misuse",
@@ -310,7 +310,7 @@
         }
       ],
       "sefaria_index": 10,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Talmudic Debate: Esrog's Classification as Tree or Vegetable for Shemitah",
@@ -750,5 +750,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 6
+  "amud_b_sefaria_index": 6,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "25:59",
+  "amud_b_micro_title": "Three Meals Limit",
+  "shiur_start_daf": 39,
+  "shiur_start_amud": "a"
 }

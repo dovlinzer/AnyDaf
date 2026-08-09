@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rabbi Akiva Stringency",
+    "candidates": [
+      "Welcome & Overview",
+      "Mishna: Blessings",
+      "Biblical vs. Rabbinic",
+      "Wine & Bread",
+      "Hamotzi Prayer",
+      "Categories: Earth & Veg",
+      "Rabbi Yehuda's View",
+      "Kodesh Hilulim Source",
+      "Rabbi Akiva Stringency",
+      "Kodesh Hilulim Query",
+      "Hilulim as Chillulim",
+      "Shira Over Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents both the 'kodesh hilulim' source for blessings before and after eating AND Rabbi Akiva's ruling together as a unit, and heading 7 ('Kodesh Hilulim Source') covers exactly this gemara passage including both the scriptural derivation and Rabbi Akiva's stringency, while heading 8 is the essay author's commentary on Rabbi Akiva's statement rather than the primary home for the Talmudic text itself.",
+      "chosen_heading": "Kodesh Hilulim Source",
+      "current_heading": "Rabbi Akiva Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Shira Over Wine",
+    "candidates": [
+      "Kodesh Hilulim Query",
+      "Hilulim as Chillulim",
+      "Shira Over Wine",
+      "Wine Gladdens Hearts",
+      "Wine Limitation Debate",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question challenging whether 'kodesh hilulim' is used for brachot, then giving the two alternative derivations (redemption and shira over wine), which corresponds exactly to heading 0's prose about questioning whether hilulim teaches brachot or carries other halakhic messages \u2014 the current placement under 'Shira Over Wine' captures only part of the passage, while heading 0 captures the whole unit including the initial question.",
+      "chosen_heading": "Kodesh Hilulim Query",
+      "current_heading": "Shira Over Wine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Wine Gladdens Hearts",
+      "Wine Limitation Debate",
+      "Gezeirah Shavah",
+      "Beyond Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the debate between 'neta revai' and 'kerem revai' and its implications for whether 'hilulim' is available to teach brachot \u2014 exactly what candidate 1's prose describes, including the explicit mention of Rabbi Chiyya and Rabbi Shimon berebbi's disagreement and the gezeirah shavah as a proposed resolution, which candidate 1 introduces as the next step after establishing the tension.",
+      "chosen_heading": "Wine Limitation Debate",
+      "current_heading": "Gezeirah Shavah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Beyond Wine",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Beyond Wine",
+      "Kal Vachomer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's question about deriving a bracha before eating and its kal vachomer resolution, which is precisely what the 'Beyond Wine' prose describes: the difficulty of finding a source for the bracha before eating from hilulim and the kal vachomer answer ('keshehu save'a mevarech, keshehu ra'ev lo kol sheken').",
+      "chosen_heading": "Beyond Wine",
+      "current_heading": "Beyond Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Kal Vachomer Logic",
+    "candidates": [
+      "Kal Vachomer Logic",
+      "Grain & Seven Species",
+      "Tzad Hashaveh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe exactly the kal vachomer derivation from the vineyard, the olelot refutation, and the grain/challah counter-refutation that Candidate 0's prose explicitly discusses in detail.",
+      "chosen_heading": "Kal Vachomer Logic",
+      "current_heading": "Kal Vachomer Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Tzad Hashaveh",
+    "candidates": [
+      "Grain & Seven Species",
+      "Tzad Hashaveh",
+      "Olives Included"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzad Hashaveh",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the tzad hashaveh conclusion (common denominator between grain and wine proving a general blessing obligation), which matches the 'Tzad Hashaveh' section's prose about that very argument.",
+      "second_heading": "Olives Included",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection that the common denominator has a tzad mizbeach and notes olives could be included via that logic, which matches the 'Olives Included' prose describing exactly this objection and the olive/altar connection.",
+      "current_heading": "Tzad Hashaveh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Olives Included",
+    "candidates": [
+      "Olives Included",
+      "All Foods Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the olive/*kerem zayit* question and Rav Pappa's ruling, which is precisely what the 'Olives Included' section prose describes.",
+      "chosen_heading": "Olives Included",
+      "current_heading": "Olives Included",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "All Foods Challenge",
+    "candidates": [
+      "All Foods Challenge",
+      "Sevara: Forbidden",
+      "Forbidden Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items continue the same chain of derivational attempts and objections about brachot over all foods \u2014 the seven species argument, the bikurim objection, the kal vachomer for beforehand, and the meat/eggs/fish problem \u2014 which is precisely what the 'All Foods Challenge' prose describes in detail, culminating in the 'ela sevara' conclusion that the passage ends with but which belongs to the next section.",
+      "chosen_heading": "All Foods Challenge",
+      "current_heading": "All Foods Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Forbidden Benefit",
+    "candidates": [
+      "Sevara: Forbidden",
+      "Forbidden Benefit",
+      "Me'ilah Equivalence",
+      "Learn from Sage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita stating it is forbidden to derive benefit without a blessing, which the 'Forbidden Benefit' prose explicitly introduces as a formal restatement of the principle \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Forbidden Benefit",
+      "current_heading": "Forbidden Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Learn from Sage",
+    "candidates": [
+      "Me'ilah Equivalence",
+      "Learn from Sage",
+      "God Owns All",
+      "Before & After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's objection to 'go to a sage' after transgression and Rava's resolution that one should go beforehand to learn brachot \u2014 precisely what the 'Learn from Sage' section's prose describes.",
+      "chosen_heading": "Learn from Sage",
+      "current_heading": "Learn from Sage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Before & After",
+    "candidates": [
+      "God Owns All",
+      "Before & After",
+      "Steal from God"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Steal from God",
+    "candidates": [
+      "Steal from God",
+      "Yeravam Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi \u1e24anina bar Pappa's statement about deriving benefit without a blessing being like stealing from God and Knesset Yisrael, which is exactly what the 'Steal from God' section's prose discusses and quotes.",
+      "chosen_heading": "Steal from God",
+      "current_heading": "Steal from God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Yeravam Comparison",
+    "candidates": [
+      "Yeravam Comparison",
+      "Ve'asafta Deganecha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rabbi \u1e24anina bar Pappa's statement about being a companion of Jeroboam ben Nevat who corrupted Israel, which is precisely what the 'Yeravam Comparison' section's prose elaborates upon.",
+      "chosen_heading": "Yeravam Comparison",
+      "current_heading": "Yeravam Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Ve'asafta Deganecha",
+    "candidates": [
+      "Ve'asafta Deganecha",
+      "Rabbi Yishmael Path",
+      "Rabbi Shimon Path"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Yishmael Path",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rabbi \u1e24anina bar Pappa's contradiction about grain belonging to God vs. the people, resolved by whether Israel does God's will) match the 'Rabbi Shimon Path' prose, which discusses the conditional nature of work \u2014 when Israel does God's will others work for them, when not they must gather their own grain.",
+      "second_heading": "Ve'asafta Deganecha",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the baraita on ve-asafta deganecha contra lo yamush sefer ha-Torah, concluding hanhag ba-hen minhag derech eretz) is exactly what the 'Ve'asafta Deganecha' prose describes, and it is also the statement of Rabbi Yishmael which leads into the 'Rabbi Yishmael Path' section.",
+      "current_heading": "Ve'asafta Deganecha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rabbi Shimon Path",
+    "candidates": [
+      "Rabbi Yishmael Path",
+      "Rabbi Shimon Path",
+      "Practical Success",
+      "Abaye Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon ben Yo\u1e25ai's exact statement questioning how Torah can be studied amid constant agricultural labor and explaining that when Israel does God's will others perform their work, which is precisely what the 'Rabbi Shimon Path' prose describes.",
+      "chosen_heading": "Rabbi Shimon Path",
+      "current_heading": "Rabbi Shimon Path",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Abaye Assessment",
+    "candidates": [
+      "Practical Success",
+      "Abaye Assessment",
+      "Rava Compromise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct statement about the practical outcomes of following Rabbi Yishmael vs. Rabbi Shimon bar Yochai, which is precisely what the 'Abaye Assessment' section's prose discusses with its explanation of 'alta be-yadam' and 'lo alta be-yadam'.",
+      "chosen_heading": "Abaye Assessment",
+      "current_heading": "Abaye Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rava Compromise",
+    "candidates": [
+      "Rava Compromise",
+      "Early Gen Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's instruction to his students about Nisan and Tishrei, which is precisely what the 'Rava Compromise' prose section describes and analyzes.",
+      "chosen_heading": "Rava Compromise",
+      "current_heading": "Rava Compromise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Early Gen Priority",
+    "candidates": [
+      "Early Gen Priority",
+      "Late Gen Priority",
+      "Loophole Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the earlier and later generations in one unit, and the current heading 'Early Gen Priority' introduces this exact quote with its full context, making it the correct placement.",
+      "chosen_heading": "Early Gen Priority",
+      "current_heading": "Early Gen Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Loophole Examples",
+    "candidates": [
+      "Late Gen Priority",
+      "Loophole Examples",
+      "Maaser Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Loophole Examples' prose discusses \u2014 earlier generations bringing produce through the main gate to obligate it in maaser, and later generations using rooftops and side passages as technical loopholes to exempt produce, which is precisely the content of that section's prose.",
+      "chosen_heading": "Loophole Examples",
+      "current_heading": "Loophole Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Maaser Obligation",
+    "candidates": [
+      "Maaser Obligation",
+      "Money & Observance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement that even the courtyard obligates produce in maaser, which is precisely what the 'Maaser Obligation' prose discusses \u2014 the expansion of pnei ha-bayit to include the chatzer via the verse ve-achlu bi-she'arecha ve-save'u.",
+      "chosen_heading": "Maaser Obligation",
+      "current_heading": "Maaser Obligation",
+      "moved": false
+    }
+  }
+]

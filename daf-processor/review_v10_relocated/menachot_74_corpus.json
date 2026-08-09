@@ -1,0 +1,293 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Scriptural Analysis",
+    "candidates": [
+      "Kohen's Sin Mincha",
+      "Scriptural Analysis",
+      "Kamincha Interpretation",
+      "Separate Burning",
+      "Kohen's Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a single continuous baraita analyzing the verse 'V'hayisaho Lakohen Kamincha' to derive the rules for a Kohen's Minchas Chotei, which is precisely what the 'Scriptural Analysis' prose describes \u2014 the Gemara's question 'Mena Hanei Mili,' the baraita's two possible readings, and the competing interpretations of Kamincha.",
+      "chosen_heading": "Scriptural Analysis",
+      "current_heading": "Scriptural Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Kohen's Rights",
+    "candidates": [
+      "Kamincha Interpretation",
+      "Separate Burning",
+      "Kohen's Rights",
+      "Devarim Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Kohen's Rights",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss whether the Kohen's right to perform his own Avodah is derived from the Minchas Chotei verse or from the Devarim verse (U'va b'chol avas nafsho), which matches exactly the 'Kohen's Rights' prose discussion.",
+      "second_heading": "Devarim Source",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce a new source (Numbers 15:28, V'chiper hakohen) and the shogeg/meizid distinction, which matches precisely the 'Devarim Source' prose discussion about the Bamidbar pasuk and the limitation to shogeg vs. meizid.",
+      "current_heading": "Kohen's Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Devarim Source",
+    "candidates": [
+      "Devarim Source",
+      "Sin Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the B'meizid case and its resolution via Zadon Shvua (intentional false oath), which is precisely what the 'Devarim Source' prose discusses as the reason the Minchas Chotei is needed as an additional source beyond the Bishgaga pasuk.",
+      "chosen_heading": "Devarim Source",
+      "current_heading": "Devarim Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Sin Limitation",
+    "candidates": [
+      "Sin Limitation",
+      "Bagegel/Bameizid",
+      "Philosophy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the second baraita about Rabbi Shimon and Rabbi Elazar bar Rabbi Shimon, Rabbi Yochanan's question about which Beit Hadeshen, and Rabbi Abba's suggestion that it means destruction \u2014 are precisely the content described in candidate 0's prose.",
+      "chosen_heading": "Sin Limitation",
+      "current_heading": "Sin Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Philosophy",
+    "candidates": [
+      "Bagegel/Bameizid",
+      "Philosophy",
+      "Position Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Beraita of the father of Rabbi Avin about 'Kol Minchas Kohen Kalil Tihyeh Lo Se'achel' and the principle of L'achila Hikishtih V'lo L'davar Acher, which is precisely what the 'Philosophy' section's prose discusses in detail as the textual basis for Rabbi Elazar bar Rabbi Shimon's position.",
+      "chosen_heading": "Philosophy",
+      "current_heading": "Philosophy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Position Statement",
+    "candidates": [
+      "Position Statement",
+      "Beit Hashen Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (Abaye's reading, Rava's objection and counter-reading, the V'eipoich Ana challenge, and the Aderaba counter-argument with its resolution) are explicitly and fully covered in the 'Position Statement' prose, which walks through each of these exact exchanges in sequence.",
+      "chosen_heading": "Position Statement",
+      "current_heading": "Position Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Beit Hashen Debate",
+    "candidates": [
+      "Beit Hashen Debate",
+      "Leibbud Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks what the Rabbis do with the verse 'every meal offering of the priest shall be offered in its entirety; it shall not be eaten,' which is precisely what the 'Leibbud Defense' prose discusses \u2014 the Gemara's question V'rabbanan Hai Kol Minchas Kohen Kalil Tihyeh Lo Se'achel and the answer about combining the two prohibitions.",
+      "chosen_heading": "Leibbud Defense",
+      "current_heading": "Beit Hashen Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Leibbud Defense",
+    "candidates": [
+      "Beit Hashen Debate",
+      "Leibbud Defense",
+      "Kalil Tihyeh",
+      "Gezeirah Shavah",
+      "Positive/Negative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Beraita establishing that 'Elyonah B'kalil Taktir' and 'Tachtonah B'lo Se'achel' are separate, then asks how to extend each to the other case, which is exactly what the 'Leibbud Defense' prose describes \u2014 the Chachamim using the pasuk for the teaching about Ain Li Ela Elyonah and the subsequent question of Minayin Liten.",
+      "chosen_heading": "Leibbud Defense",
+      "current_heading": "Leibbud Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Positive/Negative",
+    "candidates": [
+      "Kalil Tihyeh",
+      "Gezeirah Shavah",
+      "Positive/Negative",
+      "Ravina's Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Gezeirah Shavah') prose explicitly describes Ravina's question about a Kohen who eats from the Imurin, the distinction from Lav de-Zarut, and the specific question about Lav D'chalil Tihyeh \u2014 matching all three items precisely, while candidate 2 ('Positive/Negative') only covers Rav Aharon's response (item 3) without the setup of items 1-2.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Positive/Negative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Ravina's Query",
+    "candidates": [
+      "Positive/Negative",
+      "Ravina's Query",
+      "R. Eliezer Rule",
+      "Abaye/Rava"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Ravina's Query",
+      "current_heading": "Ravina's Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Abaye/Rava",
+    "candidates": [
+      "R. Eliezer Rule",
+      "Abaye/Rava",
+      "All to Altar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Eliezer Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the Mishnah's exclusion of Shmuel's position on donated wine going to the fires rather than the drainpipes, which matches perfectly with candidate 0's prose about 'L'afukei Mi'd'Shmuel' and donated wine.",
+      "second_heading": "Abaye/Rava",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses how the Mishnah supports Shmuel's position on donated oil undergoing Kmitza with the remainder eaten by priests, which matches perfectly with candidate 1's prose about 'Misayei Lei L'Shmuel' and donated oil.",
+      "current_heading": "Abaye/Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "All to Altar",
+    "candidates": [
+      "All to Altar",
+      "All to Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's questions about the two loaves/shewbread category (bird sin offering, log of oil, and the 'bazu' emphasis), which are explicitly addressed in the 'All to Altar' prose section.",
+      "chosen_heading": "All to Altar",
+      "current_heading": "All to Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "All to Kohanim",
+    "candidates": [
+      "All to Kohanim",
+      "Exhaustive List"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "All to Kohanim",
+      "current_heading": "All to Kohanim",
+      "moved": false
+    }
+  }
+]

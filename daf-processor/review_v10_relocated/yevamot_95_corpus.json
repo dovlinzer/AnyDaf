@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Case Setup",
+      "Rabbi Akiva Position",
+      "Woman & Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's question to Rav Kahana about why the mishnah doesn't also teach the mother-in-law case given Rabbi Akiva's position, which matches exactly what the 'Rabbi Akiva Position' prose describes.",
+      "chosen_heading": "Rabbi Akiva Position",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Woman & Mother",
+    "candidates": [
+      "Woman & Mother",
+      "Abaye vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with Rabbi Yishmael and Rabbi Akiva's dispute over the reading of 'et'hen,' which is precisely what candidate 0's prose introduces and explains, before the Abaye/Rava interpretive debate covered in candidate 1.",
+      "chosen_heading": "Woman & Mother",
+      "current_heading": "Woman & Mother",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Abaye vs. Rava",
+      "Hava Amina",
+      "No Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the Abaye vs. Rava dispute about the mother-in-law prohibition and the Gemara's response that exclusion from burning does not equal exclusion from the prohibition \u2014 exactly what the 'Abaye vs. Rava' prose section describes.",
+      "chosen_heading": "Abaye vs. Rava",
+      "current_heading": "Abaye vs. Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "No Prohibition",
+    "candidates": [
+      "Hava Amina",
+      "No Prohibition",
+      "Otah Drasha",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's rejection of the comparison (lo damya) and the baraita proof that the wife's sister's intercourse does not render the wife forbidden \u2014 precisely what heading 1 'No Prohibition' describes in its prose.",
+      "chosen_heading": "No Prohibition",
+      "current_heading": "No Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Otah Drasha",
+      "Kal Vachomer",
+      "Rav Yehuda Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the kal vachomer argument itself, and the prose under 'Kal Vachomer' explicitly discusses and explains this exact a fortiori inference about issur kal and issur chamur.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rav Yehuda Opinion",
+    "candidates": [
+      "Rav Yehuda Opinion",
+      "Rabbi Yosi Challenge",
+      "Mother Debate",
+      "Asymmetry Logic",
+      "Wife vs. Husband"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's statement and Rabbi Yosi's rebuttal together as one unit, and the current heading 'Rav Yehuda Opinion' with its prose explicitly describes Rabbi Yehuda's position about the mother-in-law case being undisputed and the wife's sister being the debate \u2014 matching the full content of this passage, while Rabbi Yosi's challenge is presented as an immediate response within the same textual unit rather than a separate section.",
+      "chosen_heading": "Rav Yehuda Opinion",
+      "current_heading": "Rav Yehuda Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Wife vs. Husband",
+    "candidates": [
+      "Rabbi Yosi Challenge",
+      "Mother Debate",
+      "Asymmetry Logic",
+      "Wife vs. Husband",
+      "Rav Chisda Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Asymmetry Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the baraisa articulating the asymmetry logic and the kal vachomer for shogeg and the otah drasha for mezid, which perfectly matches the 'Asymmetry Logic' and 'Wife vs. Husband' prose \u2014 but the combined prose of candidates 2 and 3 together covers exactly items 1-3, and candidate 2 ('Asymmetry Logic') is where this baraisa begins.",
+      "second_heading": "Mother Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 (Rabbi Ami/Reish Lakish on Rabbi Yehuda's reason from the verse, and Rav Yehuda/Shmuel's ruling with the practical case) match perfectly with the 'Mother Debate' prose, which explicitly describes the ein halacha k'Rabbi Yehuda ruling and the practical case of the man flogged by Rav Yehuda.",
+      "current_heading": "Wife vs. Husband",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rav Chisda Case",
+    "candidates": [
+      "Wife vs. Husband",
+      "Rav Chisda Case",
+      "Yevama Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Rav \u1e24isda's proposal that 'issur kal' refers to remarrying one's divorc\u00e9e after she married another man, and the Gemara's refutation of that parallel \u2014 precisely the content described in the 'Rav Chisda Case' prose.",
+      "chosen_heading": "Rav Chisda Case",
+      "current_heading": "Rav Chisda Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Yevama Case",
+    "candidates": [
+      "Yevama Case",
+      "Sotah Case",
+      "Rava Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Yevama Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the yevama proposals (Reish Lakish's suggestion, the objection about nitma haguf/issur berov, the brothers reformulation, and the get/chalitza refutation), exactly matching the 'Yevama Case' prose.",
+      "second_heading": "Sotah Case",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 introduce Rabbi Yochanan's sotah proposal and the objection that eshet ish is an issur chamur, exactly matching the 'Sotah Case' prose.",
+      "current_heading": "Yevama Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rava Conclusion",
+    "candidates": [
+      "Sotah Case",
+      "Rava Conclusion",
+      "Tanna Kamma",
+      "Lack of Parallel",
+      "Consistency Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in the 'Rava Conclusion' prose: Rava and Ravin/Rabbi Yochanan identifying eshet ish as the issur kal, the explanation of why it's called kal (she-eino ossra kol yamav), the baraisa of Abba Chanan/Abba Elazar, the kal vachomer argument about issur chamur, and the talmud lomar otah verse \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Rava Conclusion",
+      "current_heading": "Rava Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Consistency Principle",
+    "candidates": [
+      "Tanna Kamma",
+      "Lack of Parallel",
+      "Consistency Principle",
+      "Full vs. Engagement",
+      "Rav Yosef Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage works through the Gemara's exploration of Rabbi Yosei's consistency principle \u2014 the kula and chumra readings, and then Rabbi Ami's resolution via the beit din/witnesses distinction \u2014 which is precisely what the 'Consistency Principle' prose describes in detail.",
+      "chosen_heading": "Consistency Principle",
+      "current_heading": "Consistency Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Rav Yosef Reading",
+    "candidates": [
+      "Full vs. Engagement",
+      "Rav Yosef Reading",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yitzchak Nappa\u1e25a's interpretation focusing on the nisuin vs. eirusin (full marriage vs. betrothal) distinction and how that affects the ruling \u2014 exactly what the 'Full vs. Engagement' prose describes, not the 'Rav Yosef Reading' section.",
+      "chosen_heading": "Full vs. Engagement",
+      "current_heading": "Rav Yosef Reading",
+      "moved": true
+    }
+  }
+]

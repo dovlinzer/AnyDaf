@@ -39,8 +39,8 @@
           "timestamp": "05:35"
         }
       ],
-      "sefaria_index": 34,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "One Denies, One Admits: Handling Mixed Responses Within Toch Kedei Dibbur",
@@ -58,7 +58,7 @@
           "timestamp": "08:00"
         }
       ],
-      "sefaria_index": 34,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -88,7 +88,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Monetary Subject Matter Requirement: Linking Shevuat Edut to Shevuat Pikadon",
@@ -460,5 +460,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "38:15",
+  "amud_b_micro_title": "False Report Case",
+  "shiur_start_daf": 33,
+  "shiur_start_amud": "a"
 }

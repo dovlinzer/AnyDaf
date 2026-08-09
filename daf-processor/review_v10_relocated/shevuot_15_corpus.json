@@ -1,0 +1,294 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Babylonian Mikdash Site",
+    "candidates": [
+      "Babylonian Mikdash Site",
+      "Rabbi Akiva's Position",
+      "Rabbi Yishmael's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses Rabbi Yirmiyah's dilemma about the Babylonian who ascended to Eretz Yisrael and didn't know the Temple's location, which is precisely what heading 0's prose introduces and discusses.",
+      "chosen_heading": "Babylonian Mikdash Site",
+      "current_heading": "Babylonian Mikdash Site",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbi Yishmael's Position",
+    "candidates": [
+      "Rabbi Akiva's Position",
+      "Rabbi Yishmael's Position",
+      "Rabbi's Framework",
+      "Yediya Beis Rabo",
+      "Mikdash: Awareness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Akiva's and Rabbi Yishmael's positions together as a single Talmudic unit (the Gemara's challenge showing the dilemma is problematic under both opinions), and this entire unit belongs under 'Rabbi Akiva's Position' which is where the Gemara begins its analysis \u2014 the passage covers both tannaim in one breath as a unified argument, and candidate 0's prose explicitly introduces this exact Talmudic reasoning about both positions together.",
+      "chosen_heading": "Rabbi Akiva's Position",
+      "current_heading": "Rabbi Yishmael's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Mikdash: Awareness",
+    "candidates": [
+      "Rabbi's Framework",
+      "Yediya Beis Rabo",
+      "Mikdash: Awareness",
+      "Teiku - Unresolved",
+      "Three Levels",
+      "Expansion Requirements",
+      "Three Camps",
+      "Source from Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the exact Talmudic text resolving the dilemma aliba de-Rebbe about whether general awareness of the Temple's existence constitutes yediya when one doesn't know its location, which is precisely what candidate 2 ('Mikdash: Awareness') discusses in its prose.",
+      "chosen_heading": "Mikdash: Awareness",
+      "current_heading": "Mikdash: Awareness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Source from Torah",
+    "candidates": [
+      "Teiku - Unresolved",
+      "Three Levels",
+      "Expansion Requirements",
+      "Three Camps",
+      "Source from Torah",
+      "Rashi: Future Sanctifi",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the gemara's derivation from the verse 've-chen ta'asu' teaching that sanctification of sacred space applies l'dorot \u2014 which is precisely what the 'Source from Torah' section's prose describes.",
+      "chosen_heading": "Source from Torah",
+      "current_heading": "Source from Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rashi: Future Sanctifi",
+      "Rava's Challenge",
+      "Otam Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's objection about vessel sanctification and the application of 've-chen ta'asu' to future generations, which is precisely what the 'Rava's Challenge' section prose describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Otam Limitation",
+    "candidates": [
+      "Otam Limitation",
+      "Nehemiah Source",
+      "Nehemiah Full Text",
+      "Two Todahs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about the 'otam' limitation and 'asher yeshartu' verses, precisely matching the prose of candidate 0 which describes this exact dialectic about anointing vs. service for future-generation vessels.",
+      "chosen_heading": "Otam Limitation",
+      "current_heading": "Otam Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Two Todahs",
+    "candidates": [
+      "Nehemiah Source",
+      "Nehemiah Full Text",
+      "Two Todahs",
+      "Mincha Instead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about the meaning of 'two large thanks-offerings' from Nehemiah \u2014 deriving that the bread (not flesh) is used, then interpreting 'large' as referring to the chametz loaves \u2014 which is precisely what the 'Two Todahs' prose describes.",
+      "chosen_heading": "Two Todahs",
+      "current_heading": "Two Todahs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Mincha Instead",
+    "candidates": [
+      "Mincha Instead",
+      "Shirah of Todah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All ten items form a continuous discussion about consecrating the Temple courtyard with shiyarei minchah rather than todah loaves, including the chametz question and the impossibility of using shtei halechem \u2014 exactly the content described in the 'Mincha Instead' prose.",
+      "chosen_heading": "Mincha Instead",
+      "current_heading": "Mincha Instead",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Shirah of Todah",
+    "candidates": [
+      "Shirah of Todah",
+      "Three Psalms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the musical instruments and locations of song performance during the procession, which matches the 'Shirah of Todah' section's prose about harps, lyres, cymbals, corners, and large stones \u2014 the specific content of the baraita about musical accompaniment tied to the physical features of Jerusalem.",
+      "chosen_heading": "Shirah of Todah",
+      "current_heading": "Shirah of Todah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Three Psalms",
+    "candidates": [
+      "Three Psalms",
+      "Evening Recitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the reasons behind the names 'shir shel negaim/pegaim' and the recitation of Psalm 91 and Psalm 3, which the 'Three Psalms' prose explicitly covers in detail, matching the content exactly.",
+      "chosen_heading": "Three Psalms",
+      "current_heading": "Three Psalms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Evening Recitation",
+    "candidates": [
+      "Evening Recitation",
+      "Healing Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Levi reciting verses before sleep, the prohibition on healing with Torah words, and the distinction that protection is different \u2014 all of which are precisely what the 'Evening Recitation' prose section addresses.",
+      "chosen_heading": "Evening Recitation",
+      "current_heading": "Evening Recitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Healing Dispute",
+    "candidates": [
+      "Healing Dispute",
+      "Order Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the severity distinction between whispering over a wound and spitting while whispering, directly matching the prose in 'Healing Dispute' about the spectrum of prohibition and Rabbi Yochanan's clarification of be-rokek shanu.",
+      "chosen_heading": "Healing Dispute",
+      "current_heading": "Healing Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Order Question",
+    "candidates": [
+      "Order Question",
+      "Two Arrangements",
+      "Inner vs. Outer",
+      "Sanctification Theory",
+      "Theory Problem",
+      "Teiku Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous discussion about the order and arrangement of the two thanks-offerings in the consecration procession, beginning with the order question (item 1), moving through the two arrangements dispute (items 2-3), the theoretical problem (item 4), and concluding with Rabbi Yochanan's prophetic-authority resolution (items 5-6) \u2014 exactly matching the 'Order Question' section's prose which describes this entire chain of reasoning.",
+      "chosen_heading": "Order Question",
+      "current_heading": "Order Question",
+      "moved": false
+    }
+  }
+]

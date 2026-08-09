@@ -1,0 +1,235 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Power Comparison",
+    "candidates": [
+      "Father's Death",
+      "Groom's Death",
+      "Power Comparison",
+      "Verse Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishna's explicit power comparison between father and husband \u2014 exactly what the 'Power Comparison' prose section discusses, including both the b'zeh yafeh koach ha'av and the b'davar acher yafeh koach habaal clauses about the bogeres.",
+      "chosen_heading": "Power Comparison",
+      "current_heading": "Power Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Verse Derivation",
+    "candidates": [
+      "Verse Derivation",
+      "Rights Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover exactly what candidate 0's prose describes: the verse derivation for father's authority when arus dies (bi'neureiha), Rabba's derivation from hayo tihyeh, and the juxtaposition of kodem havayah sheniyah to kodem havayah rishonah \u2014 all of which are explicitly laid out in candidate 0's prose.",
+      "chosen_heading": "Verse Derivation",
+      "current_heading": "Verse Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rights Transfer",
+    "candidates": [
+      "Rights Transfer",
+      "Analogy Challenge",
+      "Case Distinction",
+      "Groom's Residual Rights",
+      "Groom > Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the challenge (eima hanei milei \u2014 perhaps only vows not disclosed to the arus) and the opening of the gemara's response (if so, bi'neureiha beis aviha already covers it), which is precisely the content described in candidate 2 'Case Distinction' and sets up candidate 3's resolution.",
+      "chosen_heading": "Case Distinction",
+      "current_heading": "Rights Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Groom > Father",
+    "candidates": [
+      "Analogy Challenge",
+      "Case Distinction",
+      "Groom's Residual Rights",
+      "Groom > Father",
+      "No Father Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna's statement about the husband's enhanced power relative to the father (specifically annulling a bogeret's vows), and the Gemara's opening question about the circumstances \u2014 this directly corresponds to the 'Groom > Father' section which discusses the second half of the mishna's comparison where the arus has greater power than the father.",
+      "chosen_heading": "Groom > Father",
+      "current_heading": "Groom > Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "No Father Present",
+    "candidates": [
+      "No Father Present",
+      "Groom's Lack of Power",
+      "73b Mishna",
+      "R. Eliezer's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explores the case where she was betrothed as a na'arah and then reached majority (bagrus), arguing by analogy to the father's death that the authority does not revert to the husband \u2014 this is precisely the gemara's initial consideration of what scenario the mishna could be addressing, fitting the 'No Father Present' section's discussion of cases where the father is out of the picture.",
+      "chosen_heading": "No Father Present",
+      "current_heading": "No Father Present",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "R. Eliezer's View",
+    "candidates": [
+      "Groom's Lack of Power",
+      "73b Mishna",
+      "R. Eliezer's View",
+      "Financial Obligation",
+      "Chakhamim Disagree",
+      "Teaching Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'didn't we already learn this once?' (hasnina chada zimna) about the bogeres who waited twelve months \u2014 which is precisely the redundancy question that candidate 5's prose discusses as its central topic.",
+      "chosen_heading": "Teaching Location",
+      "current_heading": "R. Eliezer's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Teaching Location",
+    "candidates": [
+      "Financial Obligation",
+      "Chakhamim Disagree",
+      "Teaching Location",
+      "Parallel Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's objection that twelve months is being applied to a bogeres when thirty days should suffice, and its resolution by reading the mishna disjunctively \u2014 exactly what the 'Teaching Location' prose describes.",
+      "chosen_heading": "Teaching Location",
+      "current_heading": "Teaching Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Parallel Structure",
+    "candidates": [
+      "Parallel Structure",
+      "Conceptual Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents one of the two answers (*ee ba'is eima hacha davka*) to why the bogeres is mentioned in our mishna, which is precisely what the 'Parallel Structure' section's prose explicitly describes and analyzes.",
+      "chosen_heading": "Parallel Structure",
+      "current_heading": "Parallel Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Conceptual Summary",
+    "candidates": [
+      "Conceptual Summary",
+      "Multiple Divorces",
+      "Last Groom Powers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage addresses why the mishna formulates the comparison between father and husband using 'in this' twice \u2014 a structural/terminological point about the mishna's language that fits the conceptual summary's discussion of the mishna's terminology and comparisons between father and husband, rather than the multiple-divorces or last-groom scenarios discussed in candidates 1 and 2.",
+      "chosen_heading": "Conceptual Summary",
+      "current_heading": "Conceptual Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Last Groom Powers",
+    "candidates": [
+      "Multiple Divorces",
+      "Last Groom Powers",
+      "Father-Focused Logic",
+      "Continuous Control",
+      "Derivation Question",
+      "Shmuel's Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text describes the scenario of multiple divorces and re-betrothals on the same day (even up to a hundred), which is precisely what candidate 0 'Multiple Divorces' introduces, rather than candidate 1 which discusses the implications of the last groom's powers as a derived halakhic analysis of that mishna.",
+      "chosen_heading": "Multiple Divorces",
+      "current_heading": "Last Groom Powers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Shmuel's Derivation",
+    "candidates": [
+      "Father-Focused Logic",
+      "Continuous Control",
+      "Derivation Question",
+      "Shmuel's Derivation",
+      "Word 'Aleha'",
+      "Father's Clock Start",
+      "Later Groom's Clock",
+      "24-Hour Definition"
+    ],
+    "result": null
+  }
+]

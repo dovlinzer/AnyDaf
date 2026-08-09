@@ -1,0 +1,405 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Demei Dispute",
+    "candidates": [
+      "Five Muadim",
+      "2nd Perek Recap",
+      "Adam Muad L'olam Start",
+      "Nezek vs. Personal Injury",
+      "Rashi: Meizid Threshold",
+      "Negligence Examples",
+      "Vessel Throwing",
+      "Baby & Ox: Kofer",
+      "Demei Dispute",
+      "Erection Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes the baby-and-ox scenario and introduces the dispute between Rabbi Yishmael son of Yochanan ben Beroka and the Rabbis regarding kofer, which is precisely what heading 7 ('Baby & Ox: Kofer') introduces, while heading 8 ('Demei Dispute') covers the explanation of the conceptual difference between demei nizak and demei mazik that follows this passage.",
+      "chosen_heading": "Baby & Ox: Kofer",
+      "current_heading": "Demei Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Erection Case",
+    "candidates": [
+      "Demei Dispute",
+      "Erection Case",
+      "Kishuy & Yibum",
+      "Ruach Metzuyah",
+      "Boshet Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabba's ruling about falling from a roof and being inserted into a woman, covering both the four payments liability and the yevama/yibum non-acquisition \u2014 exactly the content described in the 'Erection Case' prose.",
+      "chosen_heading": "Erection Case",
+      "current_heading": "Erection Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Boshet Intent",
+    "candidates": [
+      "Kishuy & Yibum",
+      "Ruach Metzuyah",
+      "Boshet Intent",
+      "Unexpected Wind",
+      "Expected Wind",
+      "Flipping Midair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states liability for the four types (nezek, tza'ar, ripuy, shevet) but not boshet because boshet requires intent per the mishna \u2014 which is precisely what the 'Boshet Intent' section's prose describes.",
+      "chosen_heading": "Boshet Intent",
+      "current_heading": "Boshet Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Flipping Midair",
+    "candidates": [
+      "Unexpected Wind",
+      "Expected Wind",
+      "Flipping Midair",
+      "Woman Intervening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three cases (unexpected wind, expected wind, and flipping) as a single Rabba statement, and the essay's sectioning artificially splits it \u2014 but since it must go under one heading, heading 0 ('Unexpected Wind') is where the full Rabba passage begins and the entire unit should be anchored, as it introduces all subsequent distinctions.",
+      "chosen_heading": "Unexpected Wind",
+      "current_heading": "Flipping Midair",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Woman Intervening",
+    "candidates": [
+      "Flipping Midair",
+      "Woman Intervening",
+      "Heart vs. Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly derives the principle of kavana le-hazik without kavana le-vayeish from the doubled language of the verse about the woman intervening, which is precisely what the 'Woman Intervening' section's prose describes.",
+      "chosen_heading": "Woman Intervening",
+      "current_heading": "Woman Intervening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Heart vs. Garment",
+    "candidates": [
+      "Heart vs. Garment",
+      "Self-Rescue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba's two cases (coal on heart vs. coal on garment) which is exactly what heading 0 'Heart vs. Garment' discusses, while heading 1 'Self-Rescue' discusses the underlying logic and mishnaic sources that follow from these cases.",
+      "chosen_heading": "Heart vs. Garment",
+      "current_heading": "Heart vs. Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Self-Rescue",
+    "candidates": [
+      "Self-Rescue",
+      "Garment Tear Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about both rulings, and this specific item discusses the coal-on-the-heart case derived from the fire/water mishna, which is precisely what the 'Self-Rescue' prose elaborates on in detail, including the exact Aramaic phrases quoted in the translation.",
+      "chosen_heading": "Self-Rescue",
+      "current_heading": "Self-Rescue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Garment Tear Mishna",
+    "candidates": [
+      "Garment Tear Mishna",
+      "Slave Coal",
+      "Ox Coal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Garment Tear Mishna",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the garment-tear mishna about permission and exemption, which matches the 'Garment Tear Mishna' prose discussing kera k'suti and al menat liftor.",
+      "second_heading": "Slave Coal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba's dilemma about placing a coal on a slave or ox, which matches the 'Slave Coal' prose discussing hiniach gachelet al lev avdo and the ke-gufo vs ke-mamono question.",
+      "current_heading": "Garment Tear Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Ox Coal",
+    "candidates": [
+      "Slave Coal",
+      "Ox Coal",
+      "Public Domain Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's resolution 'avdo ke-gufo, shoro ke-mamono,' which directly matches the 'Ox Coal' section's prose describing Rava's resolution of both questions about slave and ox.",
+      "chosen_heading": "Ox Coal",
+      "current_heading": "Ox Coal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Public Domain Case",
+    "candidates": [
+      "Public Domain Case",
+      "Adam Muad Puzzle",
+      "Term Interchangeability"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Public Domain Case",
+      "first_confidence": "high",
+      "first_reason": "The 'hadr\u00e1n' formula marks the end of the previous perek and transition to the next, matching heading 0's prose about 'conclusion of that discussion' and moving to the next perek.",
+      "second_heading": "Public Domain Case",
+      "second_confidence": "high",
+      "second_reason": "This is the mishna about placing a kad in reshut ha-rabbim, which heading 0's prose explicitly describes in detail as the opening mishna of that section.",
+      "third_heading": "Term Interchangeability",
+      "third_confidence": "high",
+      "third_reason": "The Gemara's observation about the mishna beginning with 'kad' and ending with '\u1e25avit' is precisely the terminological inconsistency that heading 2's prose describes as the Gemara's first move before addressing the substantive puzzle.",
+      "current_heading": "Public Domain Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Term Interchangeability",
+    "candidates": [
+      "Adam Muad Puzzle",
+      "Term Interchangeability",
+      "Burden of Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are examples of mishnayot that interchange kad and chavit, which is precisely what the 'Term Interchangeability' section's prose describes as the Gemara citing two additional mishnayot that oscillate between the two terms.",
+      "chosen_heading": "Term Interchangeability",
+      "current_heading": "Term Interchangeability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Burden of Proof",
+    "candidates": [
+      "Burden of Proof",
+      "Rav's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about kad/\u1e25avit equivalence in commercial transactions and the principle that we do not follow the majority in monetary matters, which is precisely what the 'Burden of Proof' prose describes in detail.",
+      "chosen_heading": "Burden of Proof",
+      "current_heading": "Burden of Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Rav's View",
+    "candidates": [
+      "Rav's View",
+      "Shmuel: Nighttime",
+      "R. Yochanan: Corner",
+      "Intent to Break"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intent to Break",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the Gemara's opening question ('why is he exempt? he should have looked where he was going') which sets up the three Amoraic answers, and candidate 3 ('Intent to Break') is the only prose that discusses the mishna's use of 'niskal' (tripped) and its implications \u2014 but more precisely, item 1 is the introductory challenge that precedes all three views, so it belongs with the first answer given (Rav's view, index 0).",
+      "second_heading": "Rav's View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents all three Amoraic opinions (Rav, Shmuel, Rabbi Yo\u1e25anan) in a single Talmudic passage, and candidate 0 ('Rav's View') is the first of the three explanations discussed, making it the natural home for the combined passage that opens with the question and then gives all three answers together.",
+      "current_heading": "Rav's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Intent to Break",
+    "candidates": [
+      "Shmuel: Nighttime",
+      "R. Yochanan: Corner",
+      "Intent to Break",
+      "Self-Damage",
+      "Rav Ulla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Pappa challenge and Rav Zevid/Rava response about why the mishna specifies 'niskal' rather than intentional breaking, which is precisely what the 'Intent to Break' section's prose describes.",
+      "chosen_heading": "Intent to Break",
+      "current_heading": "Intent to Break",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Rav Ulla",
+    "candidates": [
+      "Self-Damage",
+      "Rav Ulla",
+      "Nahardea Case",
+      "Olive Press Season"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Abba reporting Rav Ulla's tradition from the West that people do not examine the roads, which is precisely what the 'Rav Ulla' section's prose describes and discusses.",
+      "chosen_heading": "Rav Ulla",
+      "current_heading": "Rav Ulla",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Olive Press Season",
+    "candidates": [
+      "Nahardea Case",
+      "Olive Press Season",
+      "Tosafot Position",
+      "Ramban Position",
+      "Nizkak Negligence",
+      "Well Partnership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: the Nehardea and Pumbedita incidents, the question of whether Rava agrees with Shmuel, and Rav Pappa's explanation about the olive-press corner \u2014 exactly the content described in the 'Olive Press Season' prose.",
+      "chosen_heading": "Olive Press Season",
+      "current_heading": "Olive Press Season",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Well Partnership",
+    "candidates": [
+      "Tosafot Position",
+      "Ramban Position",
+      "Nizkak Negligence",
+      "Well Partnership",
+      "Irreversible Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's question to Rav Na\u1e25man about boshet fines (rekhuva, kicking, snokeret) and asks about the hoe handle/top, which is precisely the background scenario described in the 'Well Partnership' prose section.",
+      "chosen_heading": "Well Partnership",
+      "current_heading": "Well Partnership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Irreversible Loss",
+    "candidates": [
+      "Irreversible Loss",
+      "Bmkom Pseida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact exchange between Rav Na\u1e25man and Rav \u1e24isda that candidate 0's prose explicitly describes \u2014 Rav Na\u1e25man's challenge about collecting knas in Bavel and his request for the facts, followed by Rav \u1e24isda's account of the cistern incident \u2014 matching candidate 0 precisely.",
+      "chosen_heading": "Irreversible Loss",
+      "current_heading": "Irreversible Loss",
+      "moved": false
+    }
+  }
+]

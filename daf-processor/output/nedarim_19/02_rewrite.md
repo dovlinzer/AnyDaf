@@ -120,9 +120,7 @@ The *gemara* notes a textual precision in the grain case: the *baraita* specific
 
 ### Teruma Strict Lenient
 
-The *gemara* now returns to the *mishnah* regarding regional linguistic variation. Rabbi Yehuda says: *stam terumah bi-Yehudah assurah, uva-Galil muteret* — an ambiguous declaration of *teruma* in *Yehuda* is forbidden, but in *Galil* it is permitted. The reason: in *Yehuda*, the word *teruma* can mean either *terumat hagoren* (the ordinary agricultural *teruma*) or *terumat halishka* (the Temple chamber contribution), and since *terumat halishka* is a *davar hanadur* while *terumat hagoren* is not, the ambiguity generates a genuine doubt, and *stam nedarim le-hachmir* applies. In *Galil*, however, the people are not familiar with *terumat halishka* — the term *teruma* in that region refers exclusively to *terumat hagoren*, which is not a binding *neder*. Since the word has only the lenient meaning in that locale, the declaration is not binding.
-
-The *gemara* infers from this: if in *Galil* the people *were* familiar with *terumat halishka*, making the word ambiguous in their region as well, the declaration would be forbidden — *ha makirim, assurin*. This confirms that Rabbi Yehuda endorses the principle of *stam nedarim le-hachmir* in any case of genuine ambiguity.
+Rabbi Yehuda rules that an ambiguous declaration of *teruma* in *Yehuda* is forbidden because the term could refer to either *terumat hagoren* or *terumat halishka*, generating a genuine doubt; in the *Galil*, where the people are unfamiliar with *terumat halishka*, the term carries only the lenient meaning, and the declaration is therefore permitted. The *gemara* then infers: if those in the *Galil* were in fact aware of *terumat halishka* — *ha'makirim, asurin* — the declaration would be forbidden there as well, since Rabbi Yehuda agrees with the principle of *stam nedarim le-hachmir* wherever a genuine ambiguity exists. This confirms *alma safek lechumra*: in cases of doubt, we rule strictly. The *gemara* then turns to the next clause — *eima seifa*, let us examine the end: *stam charamim bi-Yehudah* —
 
 ## Stam Charamim Regions
 

@@ -1,0 +1,495 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Eliezer: Bread & Faith",
+    "candidates": [
+      "Eliezer: Bread & Faith",
+      "Rava: Young Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yitzchak's definition of 'men of faith' and Rabbi Eliezer HaGadol's baraita about bread in the basket and little faith, which is precisely what the 'Eliezer: Bread & Faith' section's prose describes.",
+      "chosen_heading": "Eliezer: Bread & Faith",
+      "current_heading": "Eliezer: Bread & Faith",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rava: Young Wicked",
+    "candidates": [
+      "Rava: Young Wicked",
+      "David's Prayer",
+      "Chabakuk Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Elazar's interpretation and then Rava's reinterpretation of the same verse about 'small things,' with Rava's reading about young children of the wicked plundering their fathers' future judgment \u2014 exactly what the 'Rava: Young Wicked' prose section describes in detail.",
+      "chosen_heading": "Rava: Young Wicked",
+      "current_heading": "Rava: Young Wicked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Chabakuk Prayer",
+    "candidates": [
+      "David's Prayer",
+      "Chabakuk Prayer",
+      "No Torah Discourse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the David prayer statement AND the Habakkuk prayer statement as a single Talmudic unit, but the current placement under 'Chabakuk Prayer' only covers the second half; the full passage (including David's prayer) belongs under 'David's Prayer' (index 0), which is the first heading that introduces this Rabbi Ile'a bar Yeverekhya sequence, and both statements appear together as one continuous Gemara passage that should sit under a single heading \u2014 index 0 is the better fit as it introduces the whole unit.",
+      "chosen_heading": "David's Prayer",
+      "current_heading": "Chabakuk Prayer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "No Torah Discourse",
+    "candidates": [
+      "Chabakuk Prayer",
+      "No Torah Discourse",
+      "Two Sages Tallit",
+      "Scholars Without Respect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about two Torah scholars walking without Torah discourse being deserving of burning, which exactly matches the 'No Torah Discourse' section's prose discussing this precise teaching from Rabbi Ilai bar Yevarchia about Elisha and Eliyahu.",
+      "chosen_heading": "No Torah Discourse",
+      "current_heading": "No Torah Discourse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Scholars Without Respect",
+    "candidates": [
+      "Two Sages Tallit",
+      "Scholars Without Respect",
+      "Study in Hardship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about two Torah scholars in the same city not being pleasant to each other in halacha, resulting in one dying and one being exiled, is precisely what the 'Scholars Without Respect' section's prose describes in detail.",
+      "chosen_heading": "Scholars Without Respect",
+      "current_heading": "Scholars Without Respect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Study in Hardship",
+    "candidates": [
+      "Study in Hardship",
+      "Divine Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Torah scholars studying in poverty having their prayers answered, which directly matches the 'Study in Hardship' section's prose discussion of dachak and tefilato nishma'at.",
+      "chosen_heading": "Study in Hardship",
+      "current_heading": "Study in Hardship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Divine Presence",
+    "candidates": [
+      "Divine Presence",
+      "Curtain Not Sealed",
+      "Daily Curse",
+      "Increasing Curse",
+      "Morning/Evening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Abbahu's statement about being sustained by the Divine Presence AND Rabbi A\u1e25a bar \u1e24anina's statement about the partition not being locked \u2014 the current heading 'Divine Presence' prose actually discusses both statements together, while the 'Curtain Not Sealed' heading attributes the pargod statement to Rabbi Yochanan (an error in the prose), making the current placement the better match for this combined passage.",
+      "chosen_heading": "Divine Presence",
+      "current_heading": "Divine Presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Morning/Evening",
+    "candidates": [
+      "Curtain Not Sealed",
+      "Daily Curse",
+      "Increasing Curse",
+      "Morning/Evening",
+      "Kedusha & Kaddish",
+      "Rashi: Universal Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabban Shimon ben Gamliel's statement about daily curses and Rava's intensification of it with the morning/evening verse, which together form the complete content described under 'Increasing Curse' \u2014 that heading's prose explicitly covers both elements in one unified discussion, making it the best match.",
+      "chosen_heading": "Increasing Curse",
+      "current_heading": "Morning/Evening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rashi: Universal Torah",
+    "candidates": [
+      "Kedusha & Kaddish",
+      "Rashi: Universal Torah",
+      "Taharah Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why the world exists and the answer about Kedusha DeSidra and Yehei Shmei Rabba, which is exactly what heading 0 ('Kedusha & Kaddish') introduces, not the Rashi commentary section where it currently sits.",
+      "chosen_heading": "Kedusha & Kaddish",
+      "current_heading": "Rashi: Universal Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Taharah Loss",
+    "candidates": [
+      "Rashi: Universal Torah",
+      "Taharah Loss",
+      "Huna's Date"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna about dew/taste of fruit and Rabbi Shimon ben Elazar's teaching about taharah removing taste/aroma and tithes removing fat of grain, which is precisely what the 'Taharah Loss' section's prose describes.",
+      "chosen_heading": "Taharah Loss",
+      "current_heading": "Taharah Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Huna's Date",
+    "candidates": [
+      "Huna's Date",
+      "Grandson Dishonor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of Rav Huna finding the fragrant date, giving it to Rabbah, Rabbah giving it to his son Abba, and the folk saying about parental love flowing downward \u2014 matching perfectly the prose under 'Huna's Date'.",
+      "chosen_heading": "Huna's Date",
+      "current_heading": "Huna's Date",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Grandson Dishonor",
+    "candidates": [
+      "Grandson Dishonor",
+      "Vespasian Decrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav A\u1e25a bar Ya'akov raising his grandson and the grandson's ingratitude, which is exactly what the 'Grandson Dishonor' section prose discusses.",
+      "chosen_heading": "Grandson Dishonor",
+      "current_heading": "Grandson Dishonor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Vespasian Decrees",
+    "candidates": [
+      "Vespasian Decrees",
+      "Titus Decrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text about the war of Vespasian and the decrees on bridegrooms' crowns and drums is directly discussed in the 'Vespasian Decrees' prose, which explicitly references 'Bepulmus shel Vespasian' and 'atarot hatanim' and 'hairus'.",
+      "chosen_heading": "Vespasian Decrees",
+      "current_heading": "Vespasian Decrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Titus Decrees",
+    "candidates": [
+      "Titus Decrees",
+      "Carriage Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly mentions the war of Titus, crowns of brides, and the decree against teaching Greek \u2014 all of which are precisely what heading 0 'Titus Decrees' discusses in its prose.",
+      "chosen_heading": "Titus Decrees",
+      "current_heading": "Titus Decrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Carriage Decree",
+    "candidates": [
+      "Carriage Decree",
+      "Meir Parables",
+      "Ben Azzai",
+      "Ben Zoma",
+      "Akiva Power",
+      "Chanina Miracles",
+      "Pious End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the decree about a bride going out in a palanquin and the Rabbis' subsequent permission, which is precisely what the 'Carriage Decree' section's prose discusses.",
+      "chosen_heading": "Carriage Decree",
+      "current_heading": "Carriage Decree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Pious End",
+    "candidates": [
+      "Meir Parables",
+      "Ben Azzai",
+      "Ben Zoma",
+      "Akiva Power",
+      "Chanina Miracles",
+      "Pious End",
+      "Yochanan Wisdom",
+      "Gamliel Health"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the sages from Rabbi Meir through Rabbi Yosei the Small in a single continuous mishna text, and heading 0 ('Meir Parables') is where this litany begins, making it the natural home for the entire quoted passage.",
+      "chosen_heading": "Meir Parables",
+      "current_heading": "Pious End",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Gamliel Health",
+    "candidates": [
+      "Yochanan Wisdom",
+      "Gamliel Health",
+      "Yishmael Glory",
+      "Rebbe Humility",
+      "Pinchas Ladder",
+      "Chutzpah & Heresy",
+      "Ikvata Meshicha",
+      "No Rebuke",
+      "Wisdom Lost",
+      "Youth Shame Elders",
+      "Generation Face",
+      "Son Shame",
+      "Father Heaven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all four statements (Yochanan ben Zakkai, Gamliel HaZaken, Yishmael ben Pavi, and Rebbe) as a single unit and should be placed under the first heading 'Yochanan Wisdom' which introduces this entire mishna passage, rather than split across multiple headings or placed under the middle 'Gamliel Health' heading.",
+      "chosen_heading": "Yochanan Wisdom",
+      "current_heading": "Gamliel Health",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Father Heaven",
+    "candidates": [
+      "Yishmael Glory",
+      "Rebbe Humility",
+      "Pinchas Ladder",
+      "Chutzpah & Heresy",
+      "Ikvata Meshicha",
+      "No Rebuke",
+      "Wisdom Lost",
+      "Youth Shame Elders",
+      "Generation Face",
+      "Son Shame",
+      "Father Heaven",
+      "Groom Crowns",
+      "Crown Dispute",
+      "Irus Drum",
+      "Bride Crowns",
+      "Wedding Canopy",
+      "Permitted Alternatives",
+      "Pig & Greek",
+      "Greek Language",
+      "Gamliel Family",
+      "Close to Govt",
+      "Crown Materials",
+      "Crown Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rebbe Humility",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-4 are the Tanu Rabbanan baraita about post-destruction decline (Rabbi Pinchas ben Yair and Rabbi Eliezer the Great), which heading 'Rebbe Humility' explicitly anticipates with its discussion of the Tanu Rabbanan passage and its textual status.",
+      "second_heading": "Chutzpah & Heresy",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are the ikveta d'Meshicha passage about chutzpah, heresy, no rebuke, and moral collapse before Mashiach, which matches 'Chutzpah & Heresy' prose exactly.",
+      "current_heading": "Father Heaven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158,
+      159,
+      160
+    ],
+    "current_heading": "Crown Dispute",
+    "candidates": [
+      "Groom Crowns",
+      "Crown Dispute",
+      "Irus Drum",
+      "Bride Crowns",
+      "Wedding Canopy",
+      "Permitted Alternatives",
+      "Pig & Greek",
+      "Greek Language",
+      "Gamliel Family",
+      "Close to Govt",
+      "Crown Materials",
+      "Crown Dispute",
+      "Drum Making"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Groom Crowns",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the dispute among Rav, Shmuel, and Levi about crown materials, which matches heading 0 ('Groom Crowns') where the prose explicitly introduces Rav's position about salt/sulfur vs. myrtle/rose crowns, and heading 11's prose describes this as already detailed 'above', indicating items 1 belongs under the earlier heading 0 where the dispute is first introduced.",
+      "second_heading": "Bride Crowns",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover the irus drum, brides' crowns (city of gold), and the wedding canopy (zehorit), which correspond to headings 2 ('Irus Drum'), 3 ('Bride Crowns'), and 4 ('Wedding Canopy') respectively \u2014 but since all four items must go under one heading in FORM 2's second group, heading 3 ('Bride Crowns') is the central topic of items 3-4, while item 2 about the drum fits heading 2; however the structural seam is cleanly after item 1.",
+      "current_heading": "Crown Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169
+    ],
+    "current_heading": "Drum Making",
+    "candidates": [
+      "Crown Dispute",
+      "Drum Making",
+      "Yosef Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "None of the candidate prose sections discuss Greek wisdom, the Hasmonean civil war, or the decree against teaching Greek \u2014 the passage is clearly misplaced among all three candidates, but 'Yosef Humility' is the closest chronological neighbor; confidence is low because no candidate prose actually matches this content, so the current placement is retained only by default.",
+      "chosen_heading": "Yosef Humility",
+      "current_heading": "Drum Making",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      173,
+      174,
+      175,
+      176,
+      177,
+      178
+    ],
+    "current_heading": "Yosef Humility",
+    "candidates": [
+      "Yosef Humility",
+      "Nachman Fear",
+      "Hadran"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Yosef Humility",
+      "current_heading": "Yosef Humility",
+      "moved": false
+    }
+  }
+]

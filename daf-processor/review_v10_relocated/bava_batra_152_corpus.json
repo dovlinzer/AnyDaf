@@ -1,0 +1,324 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Shayar Karka Case",
+    "candidates": [
+      "Kol vs. Miktzat",
+      "Kinyan Requirements",
+      "Amad Chozer Rule",
+      "Metzaveh Makhmas Misa",
+      "Shayar Karka Case",
+      "Shimuel's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage records Rava's precise challenge to Rav Nachman from the shayer karka mishna and the immediate dialectic about de-kanu minei, which is exactly what the 'Shayar Karka Case' prose describes.",
+      "chosen_heading": "Shayar Karka Case",
+      "current_heading": "Shayar Karka Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Shimuel's Answer",
+    "candidates": [
+      "Shimuel's Answer",
+      "Rochel Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's ruling about a shchiv meira who gives all his property even with a kinyan still being able to retract upon recovery, which is precisely what the prose of 'Shimuel's Answer' describes and analyzes.",
+      "chosen_heading": "Shimuel's Answer",
+      "current_heading": "Shimuel's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rochel Story",
+    "candidates": [
+      "Rochel Story",
+      "Metzaveh Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection from Rav Mesharshiyya about the Rochel story along with Rava's brief reply, and the current heading's prose specifically discusses this challenge and its apparent implication, making it the best match; the 'Metzaveh Response' heading elaborates on the answer in its own prose rather than presenting the Talmudic text of the objection itself.",
+      "chosen_heading": "Rochel Story",
+      "current_heading": "Rochel Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Metzaveh Response",
+    "candidates": [
+      "Metzaveh Response",
+      "Get Comparison",
+      "No Kinyan Assumption",
+      "Money Case Resolution",
+      "Rav Huna's Ruling",
+      "Distribution Defense",
+      "Kol Nekhasav Rules",
+      "Miktzat Kinyan Rule",
+      "Kinyan Effect",
+      "Itmar Scenario",
+      "Rav: Two Chariots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage begins with Ravina's objection from the get/money mishna and runs through the full chain of responses culminating in the halakhic ruling, making 'Get Comparison' the best single heading for this continuous discussion that starts with that very objection.",
+      "chosen_heading": "Get Comparison",
+      "current_heading": "Metzaveh Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Rav: Two Chariots",
+    "candidates": [
+      "Get Comparison",
+      "No Kinyan Assumption",
+      "Money Case Resolution",
+      "Rav Huna's Ruling",
+      "Distribution Defense",
+      "Kol Nekhasav Rules",
+      "Miktzat Kinyan Rule",
+      "Kinyan Effect",
+      "Itmar Scenario",
+      "Rav: Two Chariots",
+      "Debt Transfer Power",
+      "Shimuel: Unknown",
+      "Shtar Delivery Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items introduce and elaborate the exact 'itmar' case of a matnat shchiv meira with a kinyan written in the shtar \u2014 Rav's 'two steeds' ruling and its explanation \u2014 which is precisely what heading 8 ('Itmar Scenario') describes as the new complex case the gemara now introduces.",
+      "chosen_heading": "Itmar Scenario",
+      "current_heading": "Rav: Two Chariots",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Shtar Delivery Limit",
+    "candidates": [
+      "Debt Transfer Power",
+      "Shimuel: Unknown",
+      "Shtar Delivery Limit",
+      "Rav Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shimuel's statement of uncertainty ('I do not know what I should rule'), which directly matches the 'Shimuel: Unknown' section prose describing Shimuel's lo yadana mai adun bah position, while the current placement under 'Shtar Delivery Limit' is where the essay explains the *reasoning* behind that uncertainty rather than the primary statement itself.",
+      "chosen_heading": "Shimuel: Unknown",
+      "current_heading": "Shtar Delivery Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rav Contradiction",
+    "candidates": [
+      "Shtar Delivery Limit",
+      "Rav Contradiction",
+      "Shimuel Contradiction",
+      "Rav Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Contradiction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the contradicting traditions from Rav and Shmuel that generate the self-contradictions, which is precisely what the 'Rav Contradiction' prose describes as the content of the v'rami formula passage.",
+      "second_heading": "Shimuel Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's concluding statement that both contradictions stand unresolved, which serves as the closing line before the 'Shimuel Contradiction' section's prose discusses Shmuel's apparent self-contradiction in detail.",
+      "current_heading": "Rav Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav Resolution",
+    "candidates": [
+      "Shimuel Contradiction",
+      "Rav Resolution",
+      "Shimuel Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage resolves both Rav's contradiction (ha di-kanu minei / ha de-lo kanu minei) and Shmuel's contradiction (bi-myafes kocho) in a single Gemara statement, and while it touches on Shmuel's resolution too, the passage as a whole is the resolution text that the 'Rav Resolution' section's prose explicitly describes as its content \u2014 the gemara's combined answer that includes both resolutions.",
+      "chosen_heading": "Rav Resolution",
+      "current_heading": "Rav Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Shimuel Resolution",
+    "candidates": [
+      "Shimuel Resolution",
+      "Kanina Mineih",
+      "Mosif Keyword",
+      "Explicit Intent Effect",
+      "Simple Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara passage where Rava questions Rav Na\u1e25man about Shmuel's contradiction, Rav Na\u1e25man signals an answer, Rav Na\u1e25man bar Yitz\u1e25ak asks what was indicated, Rava explains bi-myafes kocho, and Rav \u1e24isda supplies the formula \u2014 exactly the content described in the 'Shimuel Resolution' prose.",
+      "chosen_heading": "Shimuel Resolution",
+      "current_heading": "Shimuel Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Simple Override",
+    "candidates": [
+      "Kanina Mineih",
+      "Mosif Keyword",
+      "Explicit Intent Effect",
+      "Simple Override",
+      "Rav: First Binds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 3's prose describes: the pshita case of writing two wills (diatiki mevateles diatiki via Rav Dimi) and then the katav ve-zikah lo case where Rav and Shmuel dispute whether the first or second recipient acquires, which candidate 3 explicitly says 'the gemara now turns to' and 'addresses directly in the next passage' \u2014 meaning this passage is the content of candidate 3's section.",
+      "chosen_heading": "Simple Override",
+      "current_heading": "Simple Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Rav: First Binds",
+    "candidates": [
+      "Rav: First Binds",
+      "Shimuel: Second Overrides",
+      "Parallel to Shtar Case",
+      "Why Both Cases Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimuel: Second Overrides",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Shmuel's ruling that the second recipient acquires and the gift is like a matnat shchiv meira, which is exactly what candidate 1 ('Shimuel: Second Overrides') discusses.",
+      "second_heading": "Parallel to Shtar Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's observation that Rav and Shmuel already disputed this exact question once before, which is precisely what candidate 2 ('Parallel to Shtar Case') discusses.",
+      "current_heading": "Rav: First Binds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Why Both Cases Needed",
+    "candidates": [
+      "Shimuel: Second Overrides",
+      "Parallel to Shtar Case",
+      "Why Both Cases Needed",
+      "Query Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'tzricha' answer explaining why both cases need to be stated, which directly matches the 'Why Both Cases Needed' section's prose about the tzricha argument.",
+      "chosen_heading": "Why Both Cases Needed",
+      "current_heading": "Why Both Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Query Details",
+    "candidates": [
+      "Query Details",
+      "No Retraction",
+      "Initial Misread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the query sent from Rav's academy to Shmuel about a shchiv meira who wrote all his property with a kinyan, which matches exactly the 'Query Details' prose describing the inquiry and noting no shtar is mentioned.",
+      "chosen_heading": "Query Details",
+      "current_heading": "Query Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Initial Misread",
+    "candidates": [
+      "No Retraction",
+      "Initial Misread",
+      "Chisda Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24isda's correction citing Rav Huna from Kufrei clarifying that the ruling applies both to himself and to others (bein le-atzmo bein le-acherin), which matches the 'Chisda Correction' section's prose exactly.",
+      "chosen_heading": "Chisda Correction",
+      "current_heading": "Initial Misread",
+      "moved": true
+    }
+  }
+]

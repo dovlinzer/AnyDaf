@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Omer Mitzvah",
+    "candidates": [
+      "Omer Mitzvah",
+      "Karmel & Avir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself stating the rule about bringing the omer from proximate fields and the incident with Gaggot Tzerifin, which is exactly what the 'Omer Mitzvah' prose section describes and introduces.",
+      "chosen_heading": "Omer Mitzvah",
+      "current_heading": "Omer Mitzvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Karmel & Avir",
+    "candidates": [
+      "Karmel & Avir",
+      "Hashmonean Exception",
+      "Greek Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the two Gemara explanations (karmel/freshness and ein ma'avirin al hamitzvos) that candidate 0's prose explicitly discusses in detail.",
+      "chosen_heading": "Karmel & Avir",
+      "current_heading": "Karmel & Avir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Greek Wisdom",
+    "candidates": [
+      "Hashmonean Exception",
+      "Greek Wisdom",
+      "Betrayal Message"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the incident of the omer from Gaggot Tzerifin and the beginning of the Hasmonean siege narrative, which is exactly what the 'Hashmonean Exception' prose describes as setting up the background explanation for that historical anomaly.",
+      "chosen_heading": "Hashmonean Exception",
+      "current_heading": "Greek Wisdom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Betrayal Message",
+    "candidates": [
+      "Greek Wisdom",
+      "Betrayal Message",
+      "Pig Sent",
+      "Curse & Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the elderly man familiar with Greek wisdom communicating to the outside forces, which corresponds to the 'Greek Wisdom' section's prose about this elder and chochmat Yevanit as covert communication \u2014 the current placement under 'Betrayal Message' splits what belongs together, but the content of the passage (the elder, Greek wisdom, the pig reaching the wall) actually spans headings 0-2, and since the passage is a single unit, it best fits under heading 0 where the elder and Greek wisdom are introduced, as the 'Betrayal Message' prose separately summarizes the message content and 'Pig Sent' separately covers the pig incident.",
+      "chosen_heading": "Greek Wisdom",
+      "current_heading": "Betrayal Message",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Curse & Wisdom",
+    "candidates": [
+      "Pig Sent",
+      "Curse & Wisdom",
+      "Gagot Tzerifin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the dual curses and the mishnah about the omer from Gaggot Tzerifim and shtei ha'lechem from Ein Sokher, which is precisely what the 'Curse & Wisdom' section's prose discusses and explains.",
+      "chosen_heading": "Curse & Wisdom",
+      "current_heading": "Curse & Wisdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Gagot Tzerifin",
+    "candidates": [
+      "Gagot Tzerifin",
+      "Ein Socher",
+      "Pig Symbolism",
+      "Greek Wisdom Ban",
+      "Three Women"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gagot Tzerifin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the deaf-mute gesturing toward a roof and hut to indicate Gaggot Tzerifin, which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Ein Socher",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the deaf-mute gesturing toward his eye and a bolt-hole to indicate Ein Sokher for the two loaves, which is precisely what candidate 1's prose discusses.",
+      "current_heading": "Gagot Tzerifin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Three Women",
+    "candidates": [
+      "Ein Socher",
+      "Pig Symbolism",
+      "Greek Wisdom Ban",
+      "Three Women",
+      "Mordechai ID"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the three women bringing kinin and Mordechai's reinterpretation of their statements, which is precisely what the 'Three Women' section prose discusses in detail.",
+      "chosen_heading": "Three Women",
+      "current_heading": "Three Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Mordechai ID",
+    "candidates": [
+      "Mordechai ID",
+      "Pre-Yom Tov Mark"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Peta\u1e25ya/Mordekhai's linguistic gifts and the Sanhedrin's language requirement, which is precisely what candidate 0's prose elaborates in detail.",
+      "chosen_heading": "Mordechai ID",
+      "current_heading": "Mordechai ID",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Pre-Yom Tov Mark",
+    "candidates": [
+      "Pre-Yom Tov Mark",
+      "Public Ceremony",
+      "Question Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna describes both the pre-Yom Tov binding of sheaves AND the public gathering, but the passage as a whole is introduced and contextualized under heading 0 ('Pre-Yom Tov Mark'), whose prose explicitly addresses this mishnah's opening question 'keitzad hein osim' and the erev Yom Tov preparations \u2014 the current placement is correct.",
+      "chosen_heading": "Pre-Yom Tov Mark",
+      "current_heading": "Pre-Yom Tov Mark",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Question Procedure",
+    "candidates": [
+      "Public Ceremony",
+      "Question Procedure",
+      "Anti-Baitusim",
+      "Tamid Victory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe the question-and-answer ceremony at the omer harvest \u2014 the nightfall questions, the Shabbat variant, and the threefold repetition with the anti-Boethusian rationale \u2014 which exactly matches the 'Question Procedure' prose that describes this same choreographed sequence in detail.",
+      "chosen_heading": "Question Procedure",
+      "current_heading": "Question Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Tamid Victory",
+    "candidates": [
+      "Anti-Baitusim",
+      "Tamid Victory",
+      "Tzadok Position",
+      "Pharisaic Refutation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tamid Victory",
+      "first_confidence": "high",
+      "first_reason": "Item 1 quotes the baraita from Megillat Ta'anit listing the prohibited fasting/eulogizing days, which matches exactly the 'Tamid Victory' prose describing the Megillat Ta'anit entry about the tamid being established.",
+      "second_heading": "Tzadok Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the Sadducees' position that an individual could donate the tamid and their scriptural proof-text, which matches precisely the 'Tzadok Position' prose describing that exact argument and verse.",
+      "current_heading": "Tamid Victory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Pharisaic Refutation",
+    "candidates": [
+      "Tzadok Position",
+      "Pharisaic Refutation",
+      "Baitusim Shavuot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Pharisaic/rabbinic refutation using the plural 'tishmeru' verse to argue communal funding, which is precisely what the 'Pharisaic Refutation' section's prose describes.",
+      "chosen_heading": "Pharisaic Refutation",
+      "current_heading": "Pharisaic Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Baitusim Shavuot",
+    "candidates": [
+      "Baitusim Shavuot",
+      "Yochanan Response",
+      "Elder's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Boethusian claim that Shavuot falls after Shabbat and the restoration of the correct date, which exactly matches the 'Baitusim Shavuot' section's prose about the eighth of Nissan entry and the Baitusin's Sunday interpretation of the omer count.",
+      "chosen_heading": "Baitusim Shavuot",
+      "current_heading": "Baitusim Shavuot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Elder's Argument",
+    "candidates": [
+      "Yochanan Response",
+      "Elder's Argument",
+      "Yochanan Refute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabban Yochanan's initial challenge ('shotim, minayin lachem') AND the elder's response AND the verse refutation \u2014 it covers the entire exchange, but the prose of candidate 0 ('Yochanan Response') explicitly discusses Rabban Yochanan's opening challenge and the lack of initial response, which matches the beginning of this passage, while candidates 1 and 2 discuss sub-portions; however, since the passage is a single continuous unit, it best fits under candidate 0 where the full confrontation begins, though the current placement under 1 is also reasonable \u2014 yet candidate 0's prose most directly introduces this scene as a whole unit.",
+      "chosen_heading": "Yochanan Response",
+      "current_heading": "Elder's Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Yochanan Refute",
+    "candidates": [
+      "Elder's Argument",
+      "Yochanan Refute",
+      "Debate End",
+      "Two Pesukim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the elder's retort ('is this how you dismiss me?') and Yochanan's sharp reply ('fool \u2014 our Torah cannot be equated with your idle chatter'), which is precisely what Candidate 2 ('Debate End') describes in its prose.",
+      "chosen_heading": "Debate End",
+      "current_heading": "Yochanan Refute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Two Pesukim",
+    "candidates": [
+      "Debate End",
+      "Two Pesukim",
+      "Eliezer Proof",
+      "Pesach Depends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the contradiction between the two pesukim (fifty days vs. seven complete weeks) and its resolution, which is precisely what the 'Two Pesukim' section's prose describes in detail.",
+      "chosen_heading": "Two Pesukim",
+      "current_heading": "Two Pesukim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Pesach Depends",
+    "candidates": [
+      "Eliezer Proof",
+      "Pesach Depends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Eliezer's proof \u2014 the mnemonic introducing it and the proof itself \u2014 and candidate 0 ('Eliezer Proof') explicitly describes Rabbi Eliezer's eino tzarich argument using tispor lach, which is precisely what item 2 contains, while candidate 1's prose elaborates on the implications of that proof rather than introducing it.",
+      "chosen_heading": "Eliezer Proof",
+      "current_heading": "Pesach Depends",
+      "moved": true
+    }
+  }
+]

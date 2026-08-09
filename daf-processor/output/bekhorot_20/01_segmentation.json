@@ -34,8 +34,8 @@
           "timestamp": "05:32"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Analysis of Rabbi Yishmael vs. Rabbi Yehoshua: Miscarriage Exemption and the Concern for Minority (Chashash le-Miyuta)",
@@ -68,7 +68,7 @@
           "timestamp": "16:22"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "20:49"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -126,7 +126,7 @@
           "timestamp": "35:58"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -685,5 +685,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "20:49",
+  "amud_b_micro_title": "Gamara Distinction",
+  "shiur_start_daf": 19,
+  "shiur_start_amud": "b"
 }

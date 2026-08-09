@@ -1,0 +1,457 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Righteous Gentile",
+    "candidates": [
+      "Righteous Gentile",
+      "Job's Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about Job as a righteous gentile who blasphemed and lost his World-to-Come share, which is precisely what the prose under heading 0 ('Righteous Gentile') discusses in detail.",
+      "chosen_heading": "Righteous Gentile",
+      "current_heading": "Righteous Gentile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Job's Timeline",
+    "candidates": [
+      "Job's Timeline",
+      "Post-Mosaic Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Tanna'ic opinions on when Job lived (Rabbi Elazar placing him in the days of the Judges, Rabbi Yehoshua ben Kor\u1e25a in the days of Ahasuerus), which is precisely what the 'Job's Timeline' prose describes in detail.",
+      "chosen_heading": "Job's Timeline",
+      "current_heading": "Job's Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Post-Mosaic Prophecy",
+    "candidates": [
+      "Post-Mosaic Prophecy",
+      "Licentiousness Era"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address whether Iyov was Jewish or a gentile and the post-Mosaic restriction of prophecy to Israel, which is precisely what the 'Post-Mosaic Prophecy' prose section discusses.",
+      "chosen_heading": "Post-Mosaic Prophecy",
+      "current_heading": "Post-Mosaic Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Licentiousness Era",
+    "candidates": [
+      "Licentiousness Era",
+      "Judges & Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's teaching about Job's generation being awash in licentiousness, the proof from 'chazitem,' the challenge from prophetic vision, and the dismissal via 'lamah zeh hevel tehavalu' \u2014 all of which are precisely what the 'Licentiousness Era' prose section describes.",
+      "chosen_heading": "Licentiousness Era",
+      "current_heading": "Licentiousness Era",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Judges & Judges",
+    "candidates": [
+      "Judges & Judges",
+      "Job vs Abraham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the queen of Sheba in the context of Job (citing Job 1:15), which directly connects to the 'Job vs Abraham' section's extended midrashic reading of the Iyov narrative, not to the 'Judges & Judges' section about moral authority of judges.",
+      "chosen_heading": "Job vs Abraham",
+      "current_heading": "Judges & Judges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Job vs Abraham",
+    "candidates": [
+      "Job vs Abraham",
+      "Fear for Naught"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Satan's praise of Abraham, God's counter-praise of Job, and the explanation of 'turns away from evil' \u2014 are precisely the content described in the 'Job vs Abraham' prose section.",
+      "chosen_heading": "Job vs Abraham",
+      "current_heading": "Job vs Abraham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Fear for Naught",
+    "candidates": [
+      "Fear for Naught",
+      "First Afflictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items expound the same verse (Job 1:9-10) discussing the Satan's challenge \u2014 'blessed the work of his hands' and 'livestock increased in the land' \u2014 which is exactly what candidate 0's prose discusses with Rabbi Shmuel bar Rav Yitzchak and Rabbi Yose bar Chanina.",
+      "chosen_heading": "Fear for Naught",
+      "current_heading": "Fear for Naught",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "First Afflictions",
+    "candidates": [
+      "First Afflictions",
+      "Body Affliction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0 ('First Afflictions') describes: Rabbi Yochanan's teaching about the World-to-Come taste from the plowing/grazing verse, followed by the rapid succession of messengers, and Iyov's declaration of acceptance ending with 'he did not sin' \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "First Afflictions",
+      "current_heading": "First Afflictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Body Affliction",
+    "candidates": [
+      "Body Affliction",
+      "Satan Identified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the second heavenly assembly scene where Satan reports roaming the earth and praises Abraham's faithfulness during Sarah's burial, which is explicitly discussed in the 'Body Affliction' section's prose as the reconvening of the heavenly court with the same exchange and the burial of Sarah episode.",
+      "chosen_heading": "Body Affliction",
+      "current_heading": "Body Affliction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Satan Identified",
+    "candidates": [
+      "Satan Identified",
+      "Leshem Shamayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the Job 2:3 verse about incitement, Rabbi Yo\u1e25anan's caveat, the baraita on Satan's methods, Rabbi Yitz\u1e25ak's barrel parable, and Reish Lakish's identification of Satan/evil inclination/Angel of Death \u2014 are explicitly discussed in the 'Satan Identified' prose, which covers exactly these texts in sequence.",
+      "chosen_heading": "Satan Identified",
+      "current_heading": "Satan Identified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Leshem Shamayim",
+    "candidates": [
+      "Leshem Shamayim",
+      "Against Satan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Levi's teaching about Satan and Peninnah acting l'shem shamayim, which is exactly what candidate 0's prose elaborates on in detail.",
+      "chosen_heading": "Leshem Shamayim",
+      "current_heading": "Leshem Shamayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Against Satan",
+    "candidates": [
+      "Against Satan",
+      "Causation & Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dispute over Job's words 'the earth is given into the hand of the wicked' \u2014 whether he was blaspheming or referring to Satan \u2014 which is precisely the content described in the 'Against Satan' section's prose.",
+      "chosen_heading": "Against Satan",
+      "current_heading": "Against Satan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Causation & Choice",
+    "candidates": [
+      "Causation & Choice",
+      "Widow's Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Job's argument that God's creation determines human behavior (ox/donkey, righteous/wicked) and his friends' rebuttal about the Torah as antidote to the evil inclination \u2014 exactly what the 'Causation & Choice' prose describes in detail.",
+      "chosen_heading": "Causation & Choice",
+      "current_heading": "Causation & Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Widow's Blessing",
+    "candidates": [
+      "Widow's Blessing",
+      "Equal to God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's interpretation of the verse about the blessing of the perishing and the widow's heart singing for joy, which is precisely what the 'Widow's Blessing' prose section describes.",
+      "chosen_heading": "Widow's Blessing",
+      "current_heading": "Widow's Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Equal to God",
+    "candidates": [
+      "Equal to God",
+      "Resurrection Denial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the same verses about weighing vexation against God, demanding an arbiter, and comparing Job unfavorably to Abraham \u2014 all of which are explicitly analyzed in the 'Equal to God' prose section.",
+      "chosen_heading": "Equal to God",
+      "current_heading": "Equal to God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Resurrection Denial",
+    "candidates": [
+      "Resurrection Denial",
+      "Whirlwind Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the resurrection denial quote (matching heading 0's prose exactly) and the tempest/whirlwind verse that sets up heading 1, but since item 1 is a single inseparable unit, it belongs under its current placement where the resurrection denial content is the primary focus and the whirlwind reference is merely introduced here before being elaborated in the next section.",
+      "chosen_heading": "Resurrection Denial",
+      "current_heading": "Resurrection Denial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Whirlwind Response",
+    "candidates": [
+      "Whirlwind Response",
+      "Hair Follicles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Iyov blaspheming with a tempest and God responding from a tempest, which matches exactly the 'Whirlwind Response' section's prose about bi-se'arah charaf u-vi-se'arah heshivuhu and the Iyov/oyev wordplay.",
+      "chosen_heading": "Whirlwind Response",
+      "current_heading": "Whirlwind Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Hair Follicles",
+    "candidates": [
+      "Hair Follicles",
+      "Raindrops & Thunder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about hair follicles and the argument that God distinguishes between Iyov and oyev, which is exactly what the 'Hair Follicles' section prose describes in detail.",
+      "chosen_heading": "Hair Follicles",
+      "current_heading": "Hair Follicles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Raindrops & Thunder",
+    "candidates": [
+      "Raindrops & Thunder",
+      "Ibex & Eagle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss raindrops and thunder as examples of God's precise differentiation, exactly matching the 'Raindrops & Thunder' prose which explicitly covers both tipah/dfus and kolot/shvil content.",
+      "chosen_heading": "Raindrops & Thunder",
+      "current_heading": "Raindrops & Thunder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Ibex & Eagle",
+    "candidates": [
+      "Ibex & Eagle",
+      "Hind's Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the ibex/eagle scenario \u2014 the cruel goat ascending the mountain and God sending an eagle to catch the newborn \u2014 which matches exactly the prose under 'Ibex & Eagle' (candidate 0), not the hind/snake scenario described under candidate 1.",
+      "chosen_heading": "Ibex & Eagle",
+      "current_heading": "Ibex & Eagle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Hind's Birth",
+    "candidates": [
+      "Hind's Birth",
+      "Omniscience",
+      "Spoke Thoughtlessly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the hind's narrow womb, the snake's bite, the timing of birth, and the 'Iyov/oyev' conclusion, which is precisely what the 'Hind's Birth' section prose discusses.",
+      "chosen_heading": "Hind's Birth",
+      "current_heading": "Hind's Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Spoke Thoughtlessly",
+    "candidates": [
+      "Omniscience",
+      "Spoke Thoughtlessly",
+      "Crowns & Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's teaching derived from the contradiction between Job speaking without knowledge and God's praise of Job, which is precisely what the 'Spoke Thoughtlessly' section's prose addresses.",
+      "chosen_heading": "Spoke Thoughtlessly",
+      "current_heading": "Spoke Thoughtlessly",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Crowns & Trees",
+    "candidates": [
+      "Crowns & Trees",
+      "Friends & Chavra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover the full passage about Job's friends arriving together, how they knew (crowns/trees), and Rava's adage \u2014 all of which are explicitly discussed in the 'Crowns & Trees' prose, which already incorporates every element of items 1 and 2 including the klila, the withered trees, and the Rava saying.",
+      "chosen_heading": "Crowns & Trees",
+      "current_heading": "Crowns & Trees",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rav Ami Query",
+    "candidates": [
+      "Chazon Ish Squares",
+      "600K Criterion",
+      "Leaving Off Sections",
+      "Unified or Multiple",
+      "Rav Ami Query",
+      "Dual Function",
+      "Two Courtyards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is precisely the query posed by Rav Ami bar Adda to Rabba about a ladder on one side and an entrance on the other, and Rav's ruling that a ladder has the status of an entrance \u2014 exactly what the 'Rav Ami Query' prose describes.",
+      "chosen_heading": "Rav Ami Query",
+      "current_heading": "Rav Ami Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Two Courtyards",
+    "candidates": [
+      "Dual Function",
+      "Two Courtyards",
+      "Low Balcony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Nachman's correction introducing the dual-function ruling, the challenge from the balcony/courtyard case, and the baraita about the daka \u2014 are explicitly discussed together under the 'Two Courtyards' prose, which covers exactly this sequence of the dual-function ruling followed by the pointed question from Shmuel's ruling about anshei chatzer ve-anshei mirpesset.",
+      "chosen_heading": "Two Courtyards",
+      "current_heading": "Two Courtyards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Low Balcony",
+    "candidates": [
+      "Low Balcony",
+      "Rav Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the low-balcony case (below ten tefachim) and the fenced-off balcony with a gap up to ten amot, which is precisely what the 'Low Balcony' prose section describes.",
+      "chosen_heading": "Low Balcony",
+      "current_heading": "Low Balcony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Yehuda Position",
+    "candidates": [
+      "Rav Yehuda Position",
+      "Challenge/Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda's ruling in the name of Shmuel about a wall lined with ladders retaining mechitza status, which is precisely what the 'Rav Yehuda Position' prose section is explaining and analyzing.",
+      "chosen_heading": "Rav Yehuda Position",
+      "current_heading": "Rav Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Challenge/Resolution",
+    "candidates": [
+      "Challenge/Resolution",
+      "Abaye's Task",
+      "River Houses",
+      "Includability Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the challenge (Rav Beruna's contradiction from the balcony/courtyard baraita) and its resolution (the balcony is less than ten handbreadths high / megufefet ad eser amot), which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Challenge/Resolution",
+      "current_heading": "Challenge/Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Includability Concern",
+    "candidates": [
+      "Abaye's Task",
+      "River Houses",
+      "Includability Concern",
+      "Window Solution",
+      "Mechuza Model"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "River Houses",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Abaye arriving and seeing the river-facing houses and designating them as the shiyur, which matches the 'River Houses' prose exactly.",
+      "second_heading": "Includability Concern",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's retraction based on the mishna's implication that the excluded section must be one that could have been included, which is precisely what the 'Includability Concern' prose discusses.",
+      "current_heading": "Includability Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Mechuza Model",
+    "candidates": [
+      "Window Solution",
+      "Mechuza Model",
+      "Grain Storage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mechuza precedent and its immediate rejection ('hadar amar lo dami'), which the 'Mechuza Model' prose explicitly discusses \u2014 including Abaye's retraction comparing rooftop access to the impossibility of the river houses.",
+      "chosen_heading": "Mechuza Model",
+      "current_heading": "Mechuza Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Grain Storage",
+    "candidates": [
+      "Grain Storage",
+      "Chadashah Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the grain storage (Mar bar Pofidata/Papidutsa) precedent discussion and Abaye's conclusion \u2014 the retraction about windows and Abaye's relief at Rav Yosef's warning \u2014 which is precisely what the 'Grain Storage' prose describes.",
+      "chosen_heading": "Grain Storage",
+      "current_heading": "Grain Storage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Chadashah Model",
+    "candidates": [
+      "Chadashah Model",
+      "Chadashah Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita establishing Chadashah as the model city with fifty residents used to measure the shiyur, which is precisely what the 'Chadashah Model' section's prose describes, before the 'Chadashah Problem' section raises the follow-up question about what Chadashah itself would do.",
+      "chosen_heading": "Chadashah Model",
+      "current_heading": "Chadashah Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Chadashah Problem",
+    "candidates": [
+      "Chadashah Problem",
+      "Reciprocal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma about \u1e24adasha and the elegant reciprocal answer ('just as it was the excluded section of the larger city, the larger city was also the excluded section of the smaller city'), which matches the 'Chadashah Problem' prose exactly, including the specific Aramaic formula quoted there.",
+      "chosen_heading": "Chadashah Problem",
+      "current_heading": "Chadashah Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Reciprocal",
+    "candidates": [
+      "Reciprocal",
+      "R. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ke-ein Chadashah question and the Rav Huna/Rav Yehuda dispute about shiyur for small cities, which is exactly what the 'Reciprocal' section's prose describes.",
+      "chosen_heading": "Reciprocal",
+      "current_heading": "Reciprocal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "R. Shimon",
+    "candidates": [
+      "R. Shimon",
+      "R. Yitzchak",
+      "Gemara or Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Shimon's ruling and Rav Yitzchak's statement with the Gemara's correction, but the current placement under 'R. Shimon' already contains the Rav Hama bar Gurya/Rav ruling, and candidate 1 ('R. Yitzchak') separately discusses the same Rav Yitzchak content \u2014 however, since the passage is a single unified Talmudic excerpt covering both opinions together, and candidate 0's prose explicitly mentions 'Rav Chama bar Gurya rules in the name of Rav that the halacha follows Rabbi Shimon' which is where the passage begins, the current placement is the best single heading for this unified passage.",
+      "chosen_heading": "R. Shimon",
+      "current_heading": "R. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Gemara or Reasoning",
+    "candidates": [
+      "R. Yitzchak",
+      "Gemara or Reasoning",
+      "Two Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic text of Abaye's exchange with Rav Yosef about whether Rav Yitzchak's ruling is tradition or reasoning, which is precisely what the 'Gemara or Reasoning' section's prose discusses.",
+      "chosen_heading": "Gemara or Reasoning",
+      "current_heading": "Gemara or Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Two Scenarios",
+    "candidates": [
+      "Two Scenarios",
+      "Relative to Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items belong together: items 1-5 are the Mishna presenting the two scenarios discussed in heading 0's prose, and items 6-7 are the Gemara's opening question about the geometry of those scenarios, which heading 0 explicitly anticipates ('The question of how this geometry is even possible... is one the Gemara will resolve shortly'), while heading 1's prose describes the Gemara's resolution (the son's position interpretation) which does not yet appear in these items.",
+      "chosen_heading": "Two Scenarios",
+      "current_heading": "Two Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Relative to Son",
+    "candidates": [
+      "Relative to Son",
+      "Diagonal Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yitz\u1e25ak's reinterpretation that 'east' and 'west' refer to the son's position, which is precisely what the 'Relative to Son' prose describes.",
+      "chosen_heading": "Relative to Son",
+      "current_heading": "Relative to Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Diagonal Solution",
+    "candidates": [
+      "Diagonal Solution",
+      "Within Extension",
+      "Outside Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava bar Rav Sheila's diagonal house solution, which is precisely what the 'Diagonal Solution' prose section discusses.",
+      "chosen_heading": "Diagonal Solution",
+      "current_heading": "Diagonal Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Outside Limits",
+    "candidates": [
+      "Within Extension",
+      "Outside Limits",
+      "Baraita Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Gemara passage directly addresses the mishna's ruling about placing an eiruv within the city's outskirts (ibbur ha-ir) being ineffective, and corrects 'outside the limit' to 'outside the outskirts' \u2014 this is precisely the content discussed under the 'Within Extension' heading, not the 'Outside Limits' heading which deals with the one-amah gain/loss scenario.",
+      "chosen_heading": "Within Extension",
+      "current_heading": "Outside Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Baraita Position",
+    "candidates": [
+      "Outside Limits",
+      "Baraita Position",
+      "Midway vs. Complete"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the mishna's 'what he gains he loses' formulation and the baraita's contrasting ruling that placing the eruv outside the city causes loss of the entire city \u2014 precisely the content described in the 'Baraita Position' prose, which discusses this exact tension between the mishna and the baraita.",
+      "chosen_heading": "Baraita Position",
+      "current_heading": "Baraita Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Midway vs. Complete",
+    "candidates": [
+      "Midway vs. Complete",
+      "Rav Idi's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'lo kashya' resolution distinguishing the two cases, which is precisely what the 'Midway vs. Complete' prose describes and analyzes.",
+      "chosen_heading": "Midway vs. Complete",
+      "current_heading": "Midway vs. Complete",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rav Idi's View",
+    "candidates": [
+      "Rav Idi's View",
+      "Prophecy Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Idi's ruling about the techum measurement ending in the middle versus the end of the city, which is precisely what candidate 0's prose describes and attributes to Rav Idi citing Rav Yehoshua ben Levi.",
+      "chosen_heading": "Rav Idi's View",
+      "current_heading": "Rav Idi's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Prophecy Debate",
+    "candidates": [
+      "Prophecy Debate",
+      "Rava Response",
+      "Large/Small Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Idi's direct statement questioning the logic of the ruling and calling it 'words of prophecy,' which is precisely what the 'Prophecy Debate' section's prose discusses and analyzes.",
+      "chosen_heading": "Prophecy Debate",
+      "current_heading": "Prophecy Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Large/Small Cities",
+    "candidates": [
+      "Rava Response",
+      "Large/Small Cities",
+      "Alternative Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about large/small cities and explains why residents of the large city can traverse the small city (their measure ends at the far end) while residents of the small city cannot traverse the large city (their measure ends in the middle) \u2014 exactly what candidate 1's prose describes as Rava's proof from this mishna.",
+      "chosen_heading": "Large/Small Cities",
+      "current_heading": "Large/Small Cities",
+      "moved": false
+    }
+  }
+]

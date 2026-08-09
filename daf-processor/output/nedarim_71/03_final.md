@@ -1,16 +1,16 @@
-# Nedarim 71 — Daf Yomi Shiur
+[DAF:71a]
+## Erusin & Divorce Law
 
-## Erusin & Divorce Framework
+
 
 ### Opening
 
-Today's daf is 71a. We pick up in the middle of the page at *tanya kevatei deShmuel*, but since there is time available, it is worth starting from the very beginning of the daf to set the frame.
+We pick up in the middle of the page at *tanya kevatei deShmuel*, but since there is time available, it is worth starting from the very beginning of the daf to set the frame.
 
-### Mishnah: Multiple Divorces and Remarriages
+### Mishnah: Vows
 
-> **Hebrew/Aramaic:** מַתְנִי׳ נָדְרָה וְהִיא אֲרוּסָה. נִתְגָּרְשָׁה בּוֹ בַּיּוֹם, נִתְאָרְסָה בּוֹ בַּיּוֹם, אֲפִילּוּ לְמֵאָה — אָבִיהָ וּבַעְלָהּ הָאַחֲרוֹן מְפִירִין נְדָרֶיהָ. זֶה הַכְּלָל: כֹּל שֶׁלֹּא יָצְאָה לִרְשׁוּת עַצְמָהּ שָׁעָה אַחַת — אָבִיהָ וּבַעְלָהּ הָאַחֲרוֹן מְפִירִין נְדָרֶיהָ.
->
-> **Translation:** MISHNA: If **she took a vow as a betrothed woman** and then **was divorced on the same day,** and **she was** again **betrothed on the same day** to another man, or **even to one hundred** men, one after the other, on a single day, **her father and her last husband nullify her vows. This is the principle:** With regard to **any** young woman **who has not left** her father's jurisdiction and entered **into her own jurisdiction for** at least **one moment,** through full marriage or reaching majority, **her father and her final husband nullify her vows.**
+> **Hebrew/Aramaic:** מַתְנִי׳ נָדְרָה וְהִיא אֲרוּסָה. נִתְגָּרְשָׁה בּוֹ בַּיּוֹם, נִתְאָרְסָה בּוֹ בַּיּוֹם, אֲפִילּוּ לְמֵאָה — אָבִיהָ וּבַעְלָהּ הָאַחֲרוֹן מְפִירִין נְדָרֶיהָ. זֶה הַכְּלָל: כֹּל שֶׁלֹּא יָצְאָה לִרְשׁוּת עַצְמָהּ שָׁעָה אַחַת — אָבִיהָ וּבַעְלָהּ הָאַחֲרוֹן מְפִירִין נְדָרֶיהָ.
+> **Translation:** MISHNA: If **she took a vow as a betrothed woman** and then **was divorced on the same day,** and **she was** again **betrothed on the same day** to another man, or **even to one hundred** men, one after the other, on a single day, **her father and her last husband nullify her vows. This is the principle:** With regard to **any** young woman **who has not left** her father’s jurisdiction and entered **into her own jurisdiction for** at least **one moment,** through full marriage or reaching majority, **her father and her final husband nullify her vows.**
 
 The daf opens with a *mishnah* presenting a striking scenario involving a *na'arah me'urasah* — a betrothed maiden — whose vow was made during *erusin*. The *mishnah* states: *nadra vehi arusa* — she made a *neder* while betrothed — *nisgaresh bo bayom* — and she was divorced that same day. We will return later to precisely why the same-day requirement matters; for now, the point is that at least the person who heard the vow has a twenty-four-hour window within which to act. *venisarsa bo bayom* — she then became betrothed again to a second man — *afilu leme'ah* — even if this sequence repeated a hundred times over on the same day — *aviha uba'al ha'acharon meferin nedareha* — the father and the last groom may nonetheless annul her vows.
 
@@ -22,29 +22,26 @@ The governing principle is stated explicitly: *kol shelo yatza lireshut atzmah s
 
 ---
 
-## Last Groom & Prior Hearing
+## Last Groom Annuls Vows
 
-### Niru L'Arus Rishon Question
 
-> **Hebrew/Aramaic:** גְּמָ׳ מְנָלַן דְּאָרוּס אַחֲרוֹן מֵיפֵר נְדָרִים שֶׁנִּרְאוּ לְאָרוּס רִאשׁוֹן?
->
-> **Translation:** GEMARA: **From where do we** derive **that** her **final betrothed can nullify** her **vows that were disclosed to the first betrothed?**
+
+### Niru L'Arus Rishon Q
 
 The *Gemara* now probes a question that the *mishnah* leaves unanswered. The *mishnah* tells us that the last groom can annul together with the father — but it does not tell us whether the first groom had already *heard* the *neder*. This distinction matters. One might reason that if the first groom had already heard the vow, he was already an active participant in the process; his right had been engaged. Perhaps in that case the later groom cannot simply step in and take over what had already come under the first groom's purview. The later groom might be able to substitute only when working from a blank slate — that is, when the first groom had no involvement at all.
 
 The *Gemara* formulates the question precisely: *minalan de'arus acharon mafer nedarim sheniru le'arus rishon* — from where do we know that the last groom can annul vows that had already been *nir'u le'arus rishon*, heard by the first groom? It is worth noting, as the term suggests, that *niru* here carries the meaning of *nishme'u* — they were heard, they came to the first groom's attention and fell within his capacity to act upon.
 
+> **Hebrew/Aramaic:** גְּמָ׳ מְנָלַן דְּאָרוּס אַחֲרוֹן מֵיפֵר נְדָרִים שֶׁנִּרְאוּ לְאָרוּס רִאשׁוֹן? אָמַר שְׁמוּאֵל, אָמַר קְרָא: ״וְאִם הָיוֹ תִהְיֶה לְאִישׁ וּנְדָרֶיהָ עָלֶיהָ״. נְדָרִים שֶׁהָיוּ עָלֶיהָ כְּבָר. דִּלְמָא הָנֵי מִילֵּי שֶׁלֹּא נִרְאוּ לְאָרוּס רִאשׁוֹן, אֲבָל נְדָרִים שֶׁנִּרְאוּ לְאָרוּס רִאשׁוֹן — לָא מָצֵי מֵיפַר אָרוּס אַחֲרוֹן!
+> **Translation:** GEMARA: **From where do we** derive **that** her **final betrothed can nullify** her **vows that were disclosed to the first betrothed? Shmuel said** that **the verse states: “And if she be to a husband and her vows are upon** her…and he nullifies her vow” (Numbers 30:7–9), indicating that he can nullify **vows that were upon her already.** The Gemara asks: **Perhaps this statement applies** only to vows **that were not discerned by the first betrothed, but vows that were discerned by the first betrothed,** the **final betrothed cannot nullify.**
+
+> **Hebrew/Aramaic:** ״עָלֶיהָ״ קְרָא יַתִּירָא הוּא.
+> **Translation:** The Gemara answers: The phrase **“upon her” is a superfluous** part of the **verse.** One can derive from it that all her vows, including those of which an earlier betrothed had been aware, can be nullified by the final betrothed.
+
 ### Shmuel's Verse Proof
 
-> **Hebrew/Aramaic:** אָמַר שְׁמוּאֵל, אָמַר קְרָא: ״וְאִם הָיוֹ תִהְיֶה לְאִישׁ וּנְדָרֶיהָ עָלֶיהָ״. נְדָרִים שֶׁהָיוּ עָלֶיהָ כְּבָר. דִּלְמָא הָנֵי מִילֵּי שֶׁלֹּא נִרְאוּ לְאָרוּס רִאשׁוֹן, אֲבָל נְדָרִים שֶׁנִּרְאוּ לְאָרוּס רִאשׁוֹן — לָא מָצֵי מֵיפַר אָרוּס אַחֲרוֹן!
->
-> **Translation:** **Shmuel said** that **the verse states: "And if she be to a husband and her vows are upon** her…and he nullifies her vow" (Numbers 30:7–9), indicating that he can nullify **vows that were upon her already.** The Gemara asks: **Perhaps this statement applies** only to vows **that were not discerned by the first betrothed, but vows that were discerned by the first betrothed,** the **final betrothed cannot nullify.**
 
 *Amar Shmuel de'amar kra* — Shmuel's answer is grounded in a verse. The Torah states *ve'im hayo tihyeh le'ish* — the double language *hayo tihyeh* implies a woman who has been married once (*hayo*) and then is married again (*tihyeh*) — *unedareha aleha* — and her vows remain upon her. The implication is that she carries her vows into the second marriage from the first: *nedarim she'hayu aleha kevar*, vows already upon her from the time of the first *hayo*, accompany her into the second *tihyeh*. Despite this carry-over, the final groom still participates in the annulment.
-
-> **Hebrew/Aramaic:** ״עָלֶיהָ״ קְרָא יַתִּירָא הוּא.
->
-> **Translation:** The phrase **"upon her" is a superfluous** part of the **verse.**
 
 The *Gemara* immediately presses: *dilma hani mili shelo niru le'arus rishon* — perhaps the verse only applies when the first groom had not yet heard the vow, had not yet entered the process. If so, *aval nedarim sheniru le'arus rishon lo matzi mafer arus acharon* — but for vows that the first groom had already heard, perhaps the last groom cannot annul them. The word *aleha* in the verse is cited as a possible extra term pointing to this additional ruling, though its precise exegetical force is not entirely transparent from the text.
 
@@ -56,33 +53,34 @@ The *Gemara's* resolution is that the *halacha* of the *mishnah* extends even to
 
 ## Braita on Groom Death
 
-### Braita Opening
 
-> **Hebrew/Aramaic:** תַּנְיָא כְּווֹתֵיהּ דִּשְׁמוּאֵל: נַעֲרָה הַמְאוֹרָסָה — אָבִיהָ וּבַעְלָהּ מְפִירִין נְדָרֶיהָ, כֵּיצַד? שָׁמַע אָבִיהָ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הַבַּעַל לִשְׁמוֹעַ עַד שֶׁמֵּת, וְנִתְאָרְסָה בּוֹ בַּיּוֹם, וַאֲפִילּוּ מֵאָה פְּעָמִים — אָבִיהָ וּבַעְלָהּ הָאַחֲרוֹן מְפִירִין נְדָרֶיהָ.
->
-> **Translation:** **It is taught** in a *baraita* **in accordance with** the opinion **of Shmuel:** With regard to **a betrothed young woman, her father and her husband** together **nullify her vows. How so?** If **her father heard and nullified** the vow **for her, and the husband did not manage to hear** it **before he died, and she was betrothed on the same day** to another man, **or even one hundred times** on the same day, **her father and her final husband nullify her vows.**
+
+### Braita Opening
 
 With Shmuel's position established — that even vows heard by the first groom can be annulled by the last — the *Gemara* proceeds to cite a *braita* that it claims supports this view: *tani kavasei deShmuel*, we have a tradition that accords with Shmuel. The *braita* is complex, and as the Ran acknowledges in a lengthy analysis, the *Gemara* itself provides little explicit commentary. The basic scenario: *na'arah hame'urasah aviha veba'alah meferin nedareha* — a betrothed maiden, whose father and groom together annul her vows.
 
+> **Hebrew/Aramaic:** תַּנְיָא כְּווֹתֵיהּ דִּשְׁמוּאֵל: נַעֲרָה הַמְאוֹרָסָה — אָבִיהָ וּבַעְלָהּ מְפִירִין נְדָרֶיהָ, כֵּיצַד? שָׁמַע אָבִיהָ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הַבַּעַל לִשְׁמוֹעַ עַד שֶׁמֵּת, וְנִתְאָרְסָה בּוֹ בַּיּוֹם, וַאֲפִילּוּ מֵאָה פְּעָמִים — אָבִיהָ וּבַעְלָהּ הָאַחֲרוֹן מְפִירִין נְדָרֶיהָ. שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת הַבַּעַל — חוֹזֵר הָאָב וּמֵפֵר חֶלְקוֹ שֶׁל בַּעַל.
+> **Translation:** **It is taught** in a *baraita* **in accordance with** the opinion **of Shmuel:** With regard to **a betrothed young woman, her father and her husband** together **nullify her vows. How so?** If **her father heard and nullified** the vow **for her, and the husband did not manage to hear** it **before he died, and she was betrothed on the same day** to another man, **or even one hundred times** on the same day, **her father and her final husband nullify her vows.** If **her husband heard and nullified** the vow **for her, and the father did not manage to hear** it **before the husband died, the father may go back and nullify** the **husband’s portion.**
+
 ### Father Annuls, Groom Dies
+
 
 The first scenario in the *braita*: *shama aviha veheifer lah* — the father heard the vow and annulled it — *velo hispik haba'al lishmo'a ad shemeis* — and the groom did not manage to hear before he died. *Venisarsa bo bayom* — she became betrothed to another man that day — *ve'afilu me'ah pe'amim* — even a hundred times over — *aviha veba'ala ha'acharon meferin nedareha* — the father and the last groom annul her vows. As stated, at this point we have not yet advanced beyond the *mishnah's* basic case, and the scenario explicitly describes the first groom as having died *before* hearing the vow — that is, it is a case of *lo nir'u le'arus rishon*. This is not yet a proof for Shmuel's more far-reaching claim.
 
-### Groom Annuls, Father Finally Hears
-
-> **Hebrew/Aramaic:** שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת הַבַּעַל — חוֹזֵר הָאָב וּמֵפֵר חֶלְקוֹ שֶׁל בַּעַל.
->
-> **Translation:** If **her husband heard and nullified** the vow **for her, and the father did not manage to hear** it **before the husband died, the father may go back and nullify** the **husband's portion.**
+### Groom Annuls, Father Dies
 
 The second scenario is more interesting: *shama ba'alah veheifer lah* — the groom heard and annulled his portion — *velo hispik ha'av lishmo'a ad shemeis haba'al* — and the father had not yet heard when the groom died. The father is the anchor of the entire process; we would therefore expect that since the father remains, he can complete the annulment. And indeed: *chozer ha'av u'meifer chelko shel ba'al* — the father goes back and annuls the groom's portion.
 
 This formulation is striking. One might have supposed the father need only annul his own portion, since the groom had already done his. But the *braita* says the father must annul *chelko shel ba'al* — the groom's portion — as well as his own. The explanation appears to be that when the groom died, the effect of his *hafara* was lost — the annulment does not survive him. Yet the fact that he had staked a role in the process means someone must still play that role. The father therefore steps in and performs a double *hafara*: one in his own capacity as father, and one in the capacity of the deceased groom. This is consistent with the principle encountered earlier in the tractate — the father is the anchor, and the groom's rights, when they lapse, revert in some fashion to the father.
 
+[DAF:71b]
 ### Beit Shammai vs Hillel
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי נָתָן: הֵן הֵן דִּבְרֵי בֵּית שַׁמַּאי. אֲבָל בֵּית הִלֵּל אוֹמְרִים: אֵין יָכוֹל לְהָפֵר.
->
-> **Translation:** **Rabbi Natan said: This is the statement of Beit Shammai,** that each of them nullifies half of the betrothed young woman's vow. **However, Beit Hillel say** that the father **cannot nullify** the vow on his own.
+> **Hebrew/Aramaic:** אָמַר רַבִּי נָתָן: הֵן הֵן דִּבְרֵי בֵּית שַׁמַּאי. אֲבָל בֵּית הִלֵּל אוֹמְרִים: אֵין יָכוֹל לְהָפֵר. בְּמַאי פְּלִיגִי?
+> **Translation:** **Rabbi Natan said: This is the statement of Beit Shammai,** that each of them nullifies half of the betrothed young woman’s vow. **However, Beit Hillel say** that the father **cannot nullify** the vow on his own. The Gemara asks: **About what** do Beit Shammai and Beit Hillel **disagree?**
+
+> **Hebrew/Aramaic:** בֵּית שַׁמַּאי סָבְרִי: נְדָרִים נָמֵי שֶׁרָאוּי לָאָרוּס, נִתְרוֹקְנָה רְשׁוּת לָאָב, וּמִיגָּז גָּיֵיז. בֵּית הִלֵּל סָבְרִי: אָבִיהָ וּבַעְלָהּ אַחֲרוֹן מְפִירִין נְדָרֶיהָ, וְלָא מִיגָּז גָּיֵיז.
+> **Translation:** The Gemara answers: **Beit Shammai hold: Even** with regard to **vows that were disclosed to the betrothed,** in the event of his death, his **authority reverts to the father.** In addition, when the father or husband of a young woman nullifies her vow, **he severs** his portion of it, enabling the father to nullify her vow on his own after the death of the betrothed. **Beit Hillel hold** that **her father and her final husband** together **nullify her vows, and he** who nullifies her vow **does not sever** it, but rather weakens its force. Even if the first betrothed was aware of the vow before his death, the father can nullify it in conjunction with another betrothed. This ruling is in accordance with the ruling of Shmuel that her final betrothed can nullify even those vows that she took while betrothed to the first man.
 
 *Amar Rav Natan*: *hein hein divrei Beit Shammai* — this represents the position of Beit Shammai, not an uncontested ruling. *Aval Beit Hillel omrim ein yachol lehafer* — Beit Hillel says the father cannot annul at all in this situation.
 
@@ -94,19 +92,13 @@ The answer, worked out by the Ran at considerable length, is that the *Gemara* r
 
 ## Debate Interpretation
 
-### Beit Shammai Position
 
-> **Hebrew/Aramaic:** בֵּית שַׁמַּאי סָבְרִי: נְדָרִים נָמֵי שֶׁרָאוּי לָאָרוּס, נִתְרוֹקְנָה רְשׁוּת לָאָב, וּמִיגָּז גָּיֵיז.
->
-> **Translation:** **Beit Shammai hold: Even** with regard to **vows that were disclosed to the betrothed,** in the event of his death, his **authority reverts to the father.** In addition, when the father or husband of a young woman nullifies her vow, **he severs** his portion of it, enabling the father to nullify her vow on his own after the death of the betrothed.
+
+### Beit Shammai Position
 
 According to Beit Shammai: *nedarim she'niru le'arus nisrokna reshuto la'av umageiz gayiz* — vows that had come under the first groom's authority revert to the father when the groom dies, and the transfer (*migaz gayiz*) is effective. Even though the first groom staked his role in the process by performing *hafara*, Beit Shammai holds that his portion can nonetheless be transferred — first back to the father and, by extension, to a subsequent groom. The annulment process can therefore be completed.
 
 ### Beit Hillel Position
-
-> **Hebrew/Aramaic:** בֵּית הִלֵּל סָבְרִי: אָבִיהָ וּבַעְלָהּ אַחֲרוֹן מְפִירִין נְדָרֶיהָ, וְלָא מִיגָּז גָּיֵיז.
->
-> **Translation:** **Beit Hillel hold** that **her father and her final husband** together **nullify her vows, and he** who nullifies her vow **does not sever** it, but rather weakens its force. Even if the first betrothed was aware of the vow before his death, the father can nullify it in conjunction with another betrothed. This ruling is in accordance with the ruling of Shmuel that her final betrothed can nullify even those vows that she took while betrothed to the first man.
 
 Beit Hillel disagrees: *aviha uba'al ha'achron meifirin nedareha, v'lo migaz gayiz* — the father and the last groom could in principle annul, but *lo migaz gayiz* — the transfer does not work. Once the first groom has exercised his right and performed *hafara*, he has positioned himself as a genuine stakeholder in the *neder*. His act created a role that is now his and his alone. When he dies, the effect of his *hafara* is lost — but the role he staked is not forgotten. According to Beit Hillel, once a groom has asserted and exercised that role, nobody else can step into it. The father cannot reclaim it, and neither can a later groom substitute for him. The *neder* therefore cannot be annulled, and the woman is left bound by it.
 
@@ -118,15 +110,18 @@ The *Gemara* draws the crucial distinction: this entire debate — Beit Shammai 
 
 The *braita* therefore does serve as a proof for Shmuel's broader claim, though not a direct one. The presumption underlying the debate of Beit Shammai and Beit Hillel is that if the first groom merely heard the vow without performing *hafara* — the case of *niru* without action — then a later groom unquestionably can step in. This assumption is shared by both schools, and it is precisely Shmuel's point about the *mishnah*.
 
+It is worth clarifying what this means for a case in which *hafara* is completed jointly and the groom subsequently dies. If the father has already performed his half and the groom has already performed his half — such that the *neder* is fully *mufar* — then the groom's death changes nothing. The *neder* has already ceased to exist, and there is no question of it reverting. The complications the *Gemara* addresses arise only in the middle of the process, where the groom has engaged his role but the *neder* remains in some form. Once annulment is complete, it is complete.
+
 ---
 
 ## Gerushin & Hakama
 
-### Gerushin Status Question
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: גֵּירוּשִׁין כִּשְׁתִיקָה דָּמְיָא, אוֹ כַּהֲקָמָה דָּמְיָא?
->
-> **Translation:** § **A dilemma was raised before** the Sages: Is a husband's **divorce** of his wife after she took a vow considered **like silence, or** is it considered **like ratification** of the vow?
+
+### Gerushin Status Q
+
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: גֵּירוּשִׁין כִּשְׁתִיקָה דָּמְיָא, אוֹ כַּהֲקָמָה דָּמְיָא?
+> **Translation:** § **A dilemma was raised before** the Sages: Is a husband’s **divorce** of his wife after she took a vow considered **like silence, or** is it considered **like ratification** of the vow?
 
 The *Gemara* now raises a new and important question: *gerushin k'shtika damya o k'hakama damya?* — does the act of divorce function halachically as *shtika* (silence, i.e., doing nothing), or does it function as *hakama* (affirmation of the vow)?
 
@@ -134,11 +129,7 @@ The question has several layers. On one reading, divorce could be seen as *hakam
 
 Alternatively, perhaps divorce is simply neutral — like *shtika* — a circumstantial exit from the marriage that says nothing about the *neder* one way or the other.
 
-### Father's Right After Divorce
-
-> **Hebrew/Aramaic:** לְמַאי נָפְקָא מִינַּהּ? כְּגוֹן שֶׁנָּדְרָה וְשָׁמַע בַּעְלָהּ וְגֵרְשָׁהּ, וְאַהְדְּרַהּ בְּיוֹמֵיהּ. אִי אָמַר מָר כִּשְׁתִיקָה דָּמֵי, מָצֵי מֵיפַר לַהּ. וְאִי אָמַר מָר כַּהֲקָמָה דָּמֵי, לָא מָצֵי מֵיפַר לַהּ.
->
-> **Translation:** The Gemara asks: **What is** the **difference** between the two possibilities? In any case, he did not nullify her vow before the divorce, and once he has divorced her he can no longer do so. The Gemara answers: There is a difference **in** a case **where she took a vow, and her husband heard** the vow, **and divorced her, and he remarried her on the same day. If the Master says** that divorce is **like silence,** the husband **can** now **nullify** the vow **for her,** since it is the same day. **But if the Master says** that divorce is **like ratification, he cannot nullify** the vow **for her,** as he has ratified it by divorcing her.
+### Father's Rights After Get
 
 The most direct *nafka mina* — practical consequence — is whether the father retains the ability to be *meifer* after the *arus* has divorced the woman. If *gerushin* functions as *shtika*, then the *arus* has simply exited the picture without having done anything to the *neder*, and the father can proceed and annul his own portion (and, arguably, the groom's as well). But if *gerushin* functions as *hakama*, then the *arus* has effectively affirmed the *neder* by divorcing her, and the father's ability to annul is compromised just as it would be had the *arus* explicitly confirmed the vow verbally.
 
@@ -148,37 +139,50 @@ One example of *hakama* by conduct already encountered in the tractate: a woman 
 
 ### Divorce & Remarriage Case
 
+> **Hebrew/Aramaic:** לְמַאי נָפְקָא מִינַּהּ? כְּגוֹן שֶׁנָּדְרָה וְשָׁמַע בַּעְלָהּ וְגֵרְשָׁהּ, וְאַהְדְּרַהּ בְּיוֹמֵיהּ. אִי אָמַר מָר כִּשְׁתִיקָה דָּמֵי, מָצֵי מֵיפַר לַהּ. וְאִי אָמַר מָר כַּהֲקָמָה דָּמֵי, לָא מָצֵי מֵיפַר לַהּ.
+> **Translation:** The Gemara asks: **What is** the **difference** between the two possibilities? In any case, he did not nullify her vow before the divorce, and once he has divorced her he can no longer do so. The Gemara answers: There is a difference **in** a case **where she took a vow, and her husband heard** the vow, **and divorced her, and he remarried her on the same day. If the Master says** that divorce is **like silence,** the husband **can** now **nullify** the vow **for her,** since it is the same day. **But if the Master says** that divorce is **like ratification, he cannot nullify** the vow **for her,** as he has ratified it by divorcing her.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: אֵימָתַי אָמְרוּ ״מֵת הַבַּעַל, נִתְרוֹקְנָה רְשׁוּת לָאָב״ — בִּזְמַן שֶׁלֹּא שָׁמַע הַבַּעַל, אוֹ שָׁמַע וְהֵפֵר, אוֹ שָׁמַע וְשָׁתַק וּמֵת בּוֹ בַּיּוֹם. וְאִי אָמְרַתְּ גֵּירוּשִׁין כִּשְׁתִיקָה דָּמוּ, לִיתְנֵי נָמֵי ״אוֹ שָׁמַע וְגֵירַשׁ״! מִדְּלָא תָּנֵי הָכִי — שְׁמַע מִינַּהּ גֵּירוּשִׁין כַּהֲקָמָה דָּמוּ.
+> **Translation:** **Come** and **hear** a resolution of the dilemma from the following *baraita*: **When did they say** that if **the husband died** the **authority** to nullify a young woman’s vows **reverts to the father? When the husband did not hear** the vow; **or he heard** the vow **and nullified** it; **or heard** it, **and was silent, and died on that day. And if you say** that **divorce is like silence, let** the *tanna* of the *baraita* **also teach** with regard to the husband: **Or he heard** the vow **and divorced** her. **From** the fact **that he did not teach this** case, **learn from** the *baraita* that **divorce is like ratification.**
+
+> **Hebrew/Aramaic:** אֵימָא סֵיפָא: אֲבָל אִם שָׁמַע וְקַיָּים, אוֹ שָׁמַע וְשָׁתַק וּמֵת בְּיוֹם שֶׁל אַחֲרָיו — אֵין יָכוֹל לְהָפֵר. וְאִי אָמְרַתְּ גֵּירוּשִׁין כַּהֲקָמָה דָּמוּ, לִיתְנֵי ״וְאִם שָׁמַע וְגֵירֵשׁ״! אֶלָּא מִדְּלָא קָתָנֵי הָכִי, שְׁמַע מִינַּהּ: גֵּירוּשִׁין כִּשְׁתִיקָה דָּמוּ.
+> **Translation:** The Gemara rejects the proof from the *baraita*: **State the latter clause** of the *baraita*: **But if he heard** it **and ratified** it; **or he heard** it, **and was silent, and died on the following day,** then the father **cannot nullify** the vow. **But** according to this clause, **if you say** that **divorce is like ratification, let** the *tanna* of the *baraita* also **teach: And if he heard** the vow **and divorced** her. **Rather, from** the fact **that** the *baraita* **does not teach this, learn from** the *baraita* that **divorce is like silence.**
+
+> **Hebrew/Aramaic:** אֶלָּא מֵהָא לֵיכָּא לְמִשְׁמַע מִינֵּיהּ. אִי רֵישָׁא דַּוְקָא — נָסֵיב סֵיפָא מִשּׁוּם רֵישָׁא. אִי סֵיפָא דַּוְקָא — נָסֵיב רֵישָׁא מִשּׁוּם סֵיפָא.
+> **Translation:** **Rather, one cannot learn** anything **from this** *baraita* about the effect of divorce on her vows. The Gemara explains that the discrepancy between the two clauses is stylistic and can be explained either way: **If** the cases in **the first clause** are chosen **precisely,** allowing for the inference that divorce is like ratification, then one must say that the *tanna* **formulates the last clause** of the *baraita* as he does **because of the first clause,** i.e., in the same style, although it does not add anything. **If** the cases in **the last clause** are chosen **precisely,** allowing for the inference that divorce is like silence, then one must say that the *tanna* **formulates the first clause** of the *baraita* as he does **because of the last clause,** i.e., in the same style, although it does not add anything.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: נָדְרָה וְהִיא אֲרוּסָה, וְנִתְגָּרְשָׁה וְנִתְאָרְסָה בּוֹ בַּיּוֹם, אֲפִילּוּ לְמֵאָה — אָבִיהָ וּבַעְלָהּ הָאַחֲרוֹן מְפִירִין נְדָרֶיהָ. שְׁמַע מִינַּהּ גֵּירוּשִׁין כִּשְׁתִיקָה דָּמוּ, דְּאִי כַּהֲקָמָה דָּמוּ — מִי מָצֵי מֵיפַר אָרוּס אַחֲרוֹן נִידְרֵי דְּאוֹקֵים אָרוּס רִאשׁוֹן?
+> **Translation:** **Come** and **hear** a mishna (71a): If **she took a vow** while **she was betrothed, and was divorced, and was betrothed** again **on the same day, even to one hundred** men, **her father and her final husband nullify her vows. Learn from** this mishna that **divorce is like silence, because if** it were **like ratification, could the final betrothed nullify vows that** the **first betrothed had** already **ratified?**
+
 The specific scenario the *Gemara* constructs for this question: *k'gon she-nadra v'shama ba'alah v'gershah v'hachzirah b'yomei* — she made a *neder*, her husband heard it, divorced her, and took her back that same day. *I amar mar k'shtika damya* — if *gerushin* is like *shtika* — *matzi meifer leh* — he can still annul. *V'i amar mar k'hakama damya* — but if *gerushin* is like *hakama* — *lo matzi meifer* — he cannot.
 
 The Ran notes an important qualification about this scenario: it cannot be a case of *nesuah* — a fully married woman — because if a married woman is divorced and then remarried, the vow would now have the status of *kodmin* with respect to the second marriage, and a husband cannot be *meifer bekodmin*. The case therefore must involve an *arusa*. With an *arus*, there is no *kodmin* problem, since the *arus* is always *meifer bekodmin* by virtue of the father's role. So the question is posed in the context of *erusin*: the *arus* heard the vow, divorced her, and then became betrothed to her again on the same day — can he now annul?
+
+It is worth pausing to note that the *Gemara* could have asked a simpler question: the *arus* divorced her — full stop. Without any remarriage, can the father now be *meifer*? Was that act of divorce itself a *hakama*? The remarriage is not strictly necessary to isolate the problem. Yet the *Gemara* frames it as it does, and whatever the reason, the core question remains the same: does the act of divorce — which is not an utterance of *hafara*, and which makes no direct verbal contact with the *neder* at all — nonetheless demonstrate the *arus*'s *da'at* so clearly that it constitutes an affirmation? One might argue precisely that: by walking out, the *arus* is in effect saying that the *neder* stands, that it is no concern of his, that he is releasing the woman to its terms. The divorce formally changes his legal role, which makes it stronger than a case where mere conduct simply reveals an assumption — as, for instance, if a husband who heard his wife vow *konam peirot ha'olam alay* then proceeded to cook vegetables for dinner, thereby revealing that he understood the *neder* to be in effect. That kind of conduct demonstrates *da'at* but does not formally alter anything. *Gerushin* does both — and yet it also does neither in the precise sense required, because it never directly engages the mechanism of the *neder* itself. What constitutes *hakama*, and how formal must it be, is exactly the question this case is designed to press — a question the *Gemara* will now attempt to resolve from a *braita*.
 
 ---
 
 ## First Proof Attempt
 
+
+
 ### Logical Challenge
 
 The *Gemara* now attempts to prove from the *mishnah* itself that *gerushin* does not constitute *hakama*. Recall that the *mishnah* presents a case of *nisgaresh bo bayom venisarsa bo bayom* — she was divorced and remarried, cycling through multiple *arusim*, yet the father and the last *arus* can annul. *Shema mina gerushin k'shtika dami* — learn from this that *gerushin* is like *shtika* — *de'ei k'hakama dami, mi matzi arus acharon* — because if *gerushin* were *hakama*, how could the last *arus* possibly annul *nidrei de'ika arus rishon* — a *neder* that the first *arus* had already affirmed through his act of divorce? If each divorce constitutes *hakama*, then by the time she reaches the last *arus*, the *neder* has been affirmed repeatedly, and no one can annul it. Yet the *mishnah* says the last *arus* and father may annul — seemingly demonstrating that *gerushin* carries no weight as *hakama*.
 
-This is a compelling argument.
+This is a compelling argument. Before pursuing it, however, the *Gemara* notes that there is also a simpler *nafka mina* worth keeping in mind: if the *arus* divorces her, can the father now be *meifer* on his own? Is the divorce an act of *hakama* that forecloses the father, or is it like *shtika*, leaving the father's authority intact? The *mishnah*, with its repeated divorces and re-betrothals, would seem to answer that question directly — which is precisely what makes it such an attractive source. But as the *Gemara* is about to show, the proof is less airtight than it first appears.
 
 ### Mishnah Qualification
 
-> **Hebrew/Aramaic:** הָכָא בְּמַאי עָסְקִינַן, בְּשֶׁלֹּא שָׁמַע אָרוּס רִאשׁוֹן.
->
-> **Translation:** **With what are we dealing here?** We are dealing with a case **in which the first betrothed man did not hear** the vow, and for that reason his divorcing her does not constitute ratification.
+> **Hebrew/Aramaic:** הָכָא בְּמַאי עָסְקִינַן, בְּשֶׁלֹּא שָׁמַע אָרוּס רִאשׁוֹן. אִי הָכִי, מַאי אִירְיָא בּוֹ בַּיּוֹם? אֲפִילּוּ לְאַחַר מֵאָה יָמִים נָמֵי!
+> **Translation:** The Gemara rejects this proof: **With what are we dealing here?** We are dealing with a case **in which the first betrothed man did not hear** the vow, and for that reason his divorcing her does not constitute ratification. The Gemara then asks: **If so, why** mention **specifically** that the divorce occurred **on that day? The same would hold true even after one hundred days as well.** Since the first husband never heard the vow, the final husband can nullify it on whichever day he hears it.
+
+> **Hebrew/Aramaic:** כְּשֶׁלֹּא שָׁמַע אָרוּס וְשָׁמַע הָאָב, דְּבוֹ בַּיּוֹם הוּא דְּמָצֵי מֵיפַר, אֲבָל מִכָּאן וְאֵילָךְ לֹא מָצֵי מֵיפַר.
+> **Translation:** The Gemara answers: It is referring to a situation **in which** the **betrothed** man **did not hear** the vow **but the father heard** it. **As** in that case, **it is** only **on the same day that he can nullify** the vow, **but he cannot nullify** it **from this** point **forward.** Once her father has already heard the vow, her betrothed cannot nullify it on a different day. Therefore, one cannot infer from the mishna that divorce is like silence.
 
 The *Gemara* deflects it: *hacha bemai askinan — b'shelo shama arus rishon* — the *mishnah* is dealing with a case where the first *arus* never heard the vow at all. If none of the prior *arusim* ever heard the *neder*, then their divorces are meaningless with respect to *hakama*; you cannot affirm what you do not know. Accordingly, the *mishnah* proves nothing about whether *gerushin* functions as *hakama* when the *arus* actually heard the vow — which is the operative question.
 
-> **Hebrew/Aramaic:** אִי הָכִי, מַאי אִירְיָא בּוֹ בַּיּוֹם? אֲפִילּוּ לְאַחַר מֵאָה יָמִים נָמֵי!
->
-> **Translation:** The Gemara then asks: **If so, why** mention **specifically** that the divorce occurred **on that day? The same would hold true even after one hundred days as well.**
-
 But this response creates a further difficulty: *mai irya bo bayom* — why does the *mishnah* specify that the divorces and re-betrothals all occurred *on the same day*? If the prior *arusim* never heard the vow, there is no ticking clock as far as they are concerned. *Afilu achar me'ah yamim nami* — even if she remarried after a hundred days, the *arus* who never heard would pose no *hakama* problem.
-
-> **Hebrew/Aramaic:** כְּשֶׁלֹּא שָׁמַע אָרוּס וְשָׁמַע הָאָב, דְּבוֹ בַּיּוֹם הוּא דְּמָצֵי מֵיפַר, אֲבָל מִכָּאן וְאֵילָךְ לֹא מָצֵי מֵיפַר.
->
-> **Translation:** The Gemara answers: It is referring to a situation **in which** the **betrothed** man **did not hear** the vow **but the father heard** it. **As** in that case, **it is** only **on the same day that he can nullify** the vow, **but he cannot nullify** it **from this** point **forward.**
 
 The answer is that the clock that is running belongs to the *father*, not to the prior *arusim*. It is the father who heard the *neder*, and the father who has a twenty-four-hour window. The *mishnah's* same-day requirement reflects the fact that the entire process — father and last *arus* annulling together — must be completed within the father's window. The scenario is constructed so that the father can act jointly with the last *arus* within the day on which the father heard. This also means, by implication, that presumably the father could in principle have annulled his own portion at any point within his window. But since the *arus* must also participate, and the *arus* can only act together with the father, it is structured as a joint same-day annulment timed to the father's hearing.
 
@@ -186,11 +190,12 @@ The answer is that the clock that is running belongs to the *father*, not to the
 
 ## Gerushin Braita Test
 
-### Vow Divorce Remarry Braita
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: נָדְרָה בּוֹ בַּיּוֹם, גֵּירְשָׁהּ וְהֶחְזִירָהּ בּוֹ בַּיּוֹם — אֵין יָכוֹל לְהָפֵר.
->
-> **Translation:** **Come** and **hear** a resolution of the dilemma from a mishna (89a): If **she took a vow on that day,** and **he divorced her and remarried her on the same day, he cannot nullify** her vow.
+
+### Vow Divorce Remarry Same
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: נָדְרָה בּוֹ בַּיּוֹם, גֵּירְשָׁהּ וְהֶחְזִירָהּ בּוֹ בַּיּוֹם — אֵין יָכוֹל לְהָפֵר. שְׁמַע מִינַּהּ: גֵּירוּשִׁין כַּהֲקָמָה דָּמוּ.
+> **Translation:** **Come** and **hear** a resolution of the dilemma from a mishna (89a): If **she took a vow on that day,** and **he divorced her and remarried her on the same day, he cannot nullify** her vow. **Learn from** the mishna that **divorce is like ratification.**
 
 The *Gemara* tries once more: *ta shema* — *nadara bo bayom, girsha vehachzira bo bayom, ein yachol lehafer* — she made a vow that day, he divorced her and took her back that day, and he cannot annul.
 
@@ -200,9 +205,8 @@ At first glance this is exactly the proof sought: the *arus* heard the vow, divo
 
 ### Nesuah Objection
 
-> **Hebrew/Aramaic:** אָמְרִי: הָכָא בִּנְשׂוּאָה עָסְקִינַן, וְהַיְינוּ טַעְמָא דְּאֵין יָכוֹל לְהָפֵר, מִשּׁוּם דְּאֵין הַבַּעַל מֵיפֵר בְּקוֹדְמִין.
->
-> **Translation:** The Gemara rejects this proof: **Say** that **here,** i.e., in the mishna cited, **we are dealing with a married woman, and that is the reason that he cannot nullify** the vow. It is not because it has been ratified by divorce but **because the husband cannot nullify** his wife's vows **that precede** their marriage.
+> **Hebrew/Aramaic:** אָמְרִי: הָכָא בִּנְשׂוּאָה עָסְקִינַן, וְהַיְינוּ טַעְמָא דְּאֵין יָכוֹל לְהָפֵר, מִשּׁוּם דְּאֵין הַבַּעַל מֵיפֵר בְּקוֹדְמִין.
+> **Translation:** The Gemara rejects this proof: **Say** that **here,** i.e., in the mishna cited, **we are dealing with a married woman, and that is the reason that he cannot nullify** the vow. It is not because it has been ratified by divorce but **because the husband cannot nullify** his wife’s vows **that precede** their marriage. The dilemma remains unresolved.
 
 But the *Gemara* immediately counters: *ami hacha benisua askinan* — this *braita* is discussing a *nesuah*, a fully married woman, not a betrothed maiden. *Vehai ta'ama de'ein yachol lehafer mishum de'ein haba'al meifer bekodmin* — and the reason he cannot annul is not because *gerushin* is *hakama*, but simply because a husband who has married a woman cannot be *meifer bekodmin* — he cannot annul vows that predate their marriage. After the divorce and remarriage, the vow now stands as *kodmin* relative to the new marriage, and that is what bars him from annulling.
 
@@ -214,7 +218,9 @@ The Ran presses this further. One might try to salvage the proof by noting that 
 
 ## Hakama Nature & Form
 
-### Gerushin Status Unresolved
+
+
+### Gerushin: Hakama vs Shtik
 
 The upshot is that the question — *gerushin k'shtika damya o k'hakama damya* — remains unresolved. No available source definitively settles whether the act of divorce, when a groom has heard the *neder* and then divorces the woman, constitutes an affirmation of the vow or merely a neutral exit.
 

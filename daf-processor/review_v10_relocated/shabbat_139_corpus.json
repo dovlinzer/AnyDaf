@@ -1,0 +1,510 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Afflictions from Judges",
+    "candidates": [
+      "Rabbi Yose ben Elisha",
+      "Afflictions from Judges",
+      "Three Sins & Punishments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita attributed to Rabbi Yose ben Elisha (his identity and statement), which is precisely what heading 0's prose discusses \u2014 the opening citation of the baraita, who Rabbi Yose ben Elisha was, and his core claim \u2014 while heading 1's prose focuses on analyzing the principle and the Micah verses in detail, content that follows this passage.",
+      "chosen_heading": "Rabbi Yose ben Elisha",
+      "current_heading": "Afflictions from Judges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Three Sins & Punishments",
+    "candidates": [
+      "Afflictions from Judges",
+      "Three Sins & Punishments",
+      "Jerusalem's Restoration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the three calamities corresponding to three transgressions and the trust placed in God despite wickedness, which is precisely what the 'Three Sins & Punishments' section's prose covers in detail.",
+      "chosen_heading": "Three Sins & Punishments",
+      "current_heading": "Three Sins & Punishments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Jerusalem's Restoration",
+    "candidates": [
+      "Jerusalem's Restoration",
+      "Ulla & Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses God resting His Divine Presence on Israel after evil judges are eliminated, citing Isaiah 1:25-26 about restoring judges and Jerusalem as the city of righteousness \u2014 exactly what the 'Jerusalem's Restoration' prose describes.",
+      "chosen_heading": "Jerusalem's Restoration",
+      "current_heading": "Jerusalem's Restoration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Ulla & Redemption",
+    "candidates": [
+      "Ulla & Redemption",
+      "Merit vs. Mercy",
+      "Vilna Gaon's Blessing",
+      "Rav Pappa's Pyramid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ulla's statement about Jerusalem being redeemed through tzedakah, which is precisely what the 'Ulla & Redemption' section's prose discusses in detail.",
+      "chosen_heading": "Ulla & Redemption",
+      "current_heading": "Ulla & Redemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Rav Pappa's Pyramid",
+    "candidates": [
+      "Merit vs. Mercy",
+      "Vilna Gaon's Blessing",
+      "Rav Pappa's Pyramid",
+      "Broken Staff Metaphor",
+      "Talmidei Chachamim Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are Rav Pappa's teaching about the correspondence between arrogant/corrupt Jews and foreign oppressors (amgushi and gezirpatei), with the supporting verses \u2014 exactly what the 'Rav Pappa's Pyramid' prose describes in detail.",
+      "chosen_heading": "Rav Pappa's Pyramid",
+      "current_heading": "Rav Pappa's Pyramid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Talmidei Chachamim Role",
+    "candidates": [
+      "Broken Staff Metaphor",
+      "Talmidei Chachamim Role",
+      "Fingers & Tongues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full teaching from Rabbi Mallai/Rabbi Elazar bar Rabbi Shimon including both halves of the verse and Mar Zutra's variant, which is exactly what heading 0 ('Broken Staff Metaphor') introduces in its prose, whereas heading 1 ('Talmidei Chachamim Role') appears to be the essay's own analytical expansion/commentary on this same Talmudic passage rather than the home for the source text itself.",
+      "chosen_heading": "Broken Staff Metaphor",
+      "current_heading": "Talmidei Chachamim Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Fingers & Tongues",
+    "candidates": [
+      "Talmidei Chachamim Role",
+      "Fingers & Tongues",
+      "Joseph as Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Isaiah 59:3 passage mapping each phrase to a different corrupt participant in the legal system, which is precisely what the 'Fingers & Tongues' prose describes.",
+      "chosen_heading": "Fingers & Tongues",
+      "current_heading": "Fingers & Tongues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Joseph as Nazir",
+    "candidates": [
+      "Joseph as Nazir",
+      "Brothers' Wine Abstention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Joseph's abstention from wine and his nazir-like status, which is exactly what the 'Joseph as Nazir' section's prose discusses.",
+      "chosen_heading": "Joseph as Nazir",
+      "current_heading": "Joseph as Nazir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Brothers' Wine Abstention",
+    "candidates": [
+      "Brothers' Wine Abstention",
+      "Aaron & Heart Purity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei bar Rabbi \u1e24anina's statement about Joseph's brothers abstaining from wine, which is precisely what heading 0 ('Brothers' Wine Abstention') addresses in its prose.",
+      "chosen_heading": "Brothers' Wine Abstention",
+      "current_heading": "Brothers' Wine Abstention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Aaron & Heart Purity",
+    "candidates": [
+      "Aaron & Heart Purity",
+      "Three Questions to Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Mallai's teaching on Aaron's reward of the breastplate of judgment for rejoicing in his heart is directly discussed in the 'Aaron & Heart Purity' section's prose.",
+      "chosen_heading": "Aaron & Heart Purity",
+      "current_heading": "Aaron & Heart Purity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Three Questions to Levi",
+    "candidates": [
+      "Three Questions to Levi",
+      "Canopy Prohibition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Questions to Levi",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the three questions sent to Levi, which is precisely what heading 0 ('Three Questions to Levi') describes \u2014 the sending of the three sheilot.",
+      "second_heading": "Canopy Prohibition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins with Levi's death and Shmuel's instruction to Rav Menashia, then gives the canopy ruling ('chazarna al kol tzidei kilah'), which is the exact content described in heading 1 ('Canopy Prohibition') prose.",
+      "current_heading": "Three Questions to Levi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Canopy Prohibition",
+    "candidates": [
+      "Canopy Prohibition",
+      "Kilayim Caution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the canopy (kilah) question and the response about not sending Rami bar Yechezkel's ruling because they are not bnei Torah, which is precisely what the 'Canopy Prohibition' section's prose describes.",
+      "chosen_heading": "Canopy Prohibition",
+      "current_heading": "Canopy Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Kilayim Caution",
+    "candidates": [
+      "Kilayim Caution",
+      "Rav Amram's Severity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses kushuta in a vineyard, Rabbi Tarfon's opinion, the kol hameikel principle, and the lefi she'einam bnei Torah explanation \u2014 all of which match precisely the prose under 'Kilayim Caution' (index 0).",
+      "chosen_heading": "Kilayim Caution",
+      "current_heading": "Kilayim Caution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav Amram's Severity",
+    "candidates": [
+      "Rav Amram's Severity",
+      "Non-Jewish Child",
+      "Habituation Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the contrast between Rav's permissive announcement and Rav Amram \u1e24asida administering lashes, which is precisely what the prose under 'Rav Amram's Severity' discusses.",
+      "chosen_heading": "Rav Amram's Severity",
+      "current_heading": "Rav Amram's Severity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Habituation Concern",
+    "candidates": [
+      "Non-Jewish Child",
+      "Habituation Concern",
+      "Burial on Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's challenges and answers about why not use a Jewish child (habituation concern: ati lemisrach) and why not use an adult non-Jew (confusion concern: ati l'achlufi b'Yisrael), which is precisely what the 'Habituation Concern' prose discusses.",
+      "chosen_heading": "Habituation Concern",
+      "current_heading": "Habituation Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Burial on Yom Tov",
+    "candidates": [
+      "Burial on Yom Tov",
+      "Withholding Truth",
+      "Sheet as Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are about burial on Yom Tov \u2014 Rav Menashya's ruling, the challenge from the Maon incident, Rabbi Yochanan's response, and Rava's full halakha \u2014 which is precisely what the 'Burial on Yom Tov' section prose describes in detail.",
+      "chosen_heading": "Burial on Yom Tov",
+      "current_heading": "Burial on Yom Tov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Sheet as Garment",
+    "candidates": [
+      "Withholding Truth",
+      "Sheet as Garment",
+      "Tzitzit vs. Straps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct quotation of the canopy-and-straps ruling, which the 'Sheet as Garment' section's prose explicitly paraphrases and discusses.",
+      "chosen_heading": "Sheet as Garment",
+      "current_heading": "Sheet as Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Tzitzit vs. Straps",
+    "candidates": [
+      "Tzitzit vs. Straps",
+      "Sieve Scheme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the comparison between canopy straps and tzitzit, asking why straps are nullified while tzitzit are not \u2014 exactly the content described in the 'Tzitzit vs. Straps' section prose.",
+      "chosen_heading": "Tzitzit vs. Straps",
+      "current_heading": "Tzitzit vs. Straps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Sieve Scheme",
+    "candidates": [
+      "Sieve Scheme",
+      "Garlic Deception",
+      "Ferry Deception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the strainer/sieve scheme (maarim on the mishmeres), the baraita about beer brewing as a comparison case, and the Gemara's resolution distinguishing evident from non-evident schemes \u2014 exactly the content described in the 'Sieve Scheme' prose.",
+      "chosen_heading": "Sieve Scheme",
+      "current_heading": "Sieve Scheme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Ferry Deception",
+    "candidates": [
+      "Garlic Deception",
+      "Ferry Deception",
+      "Rav Ashi Allows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes BOTH the garlic and ferry incidents together in a single quote, but the prose under 'Garlic Deception' (index 0) explicitly introduces both acts as a unified report by the rabbis to Rav Ashi, making it the better home \u2014 whereas the current placement under 'Ferry Deception' splits what is a single Talmudic passage artificially across two sections.",
+      "chosen_heading": "Garlic Deception",
+      "current_heading": "Ferry Deception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rav Ashi Allows",
+    "candidates": [
+      "Ferry Deception",
+      "Rav Ashi Allows",
+      "Water Through Lees",
+      "Non-Standard Filtering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's exact statement about artifice (haarama) being rabbinic and a Torah scholar not performing the action ab initio, which is precisely what the 'Rav Ashi Allows' section discusses in detail.",
+      "chosen_heading": "Rav Ashi Allows",
+      "current_heading": "Rav Ashi Allows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Non-Standard Filtering",
+    "candidates": [
+      "Water Through Lees",
+      "Non-Standard Filtering",
+      "Egg & Mustard",
+      "Anomilin on Festivals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah covers both pouring water over sediment AND filtering wine through cloths, and the prose under 'Water Through Lees' explicitly discusses this Mishnah's full content (notnin mayim al gabei shemarim) as the basis for the tea-bag analogy, making it the better home for the complete passage rather than 'Non-Standard Filtering' which only addresses the second half.",
+      "chosen_heading": "Water Through Lees",
+      "current_heading": "Non-Standard Filtering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Anomilin on Festivals",
+    "candidates": [
+      "Egg & Mustard",
+      "Anomilin on Festivals",
+      "Clear Liquids Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the egg-in-mustard-strainer and the anomilin preparation as a single Mishnaic unit, and candidate 0 ('Egg & Mustard') explicitly discusses the egg-strainer topic that opens this passage, while candidate 1 only covers the anomilin portion \u2014 the full passage belongs under the heading that introduces the egg topic first.",
+      "chosen_heading": "Egg & Mustard",
+      "current_heading": "Anomilin on Festivals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Clear Liquids Rule",
+    "candidates": [
+      "Anomilin on Festivals",
+      "Clear Liquids Rule",
+      "Pressing Season"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Zeiri's ruling about clear wine and water in a strainer on Shabbat, which is precisely what the 'Clear Liquids Rule' section's prose describes and analyzes.",
+      "chosen_heading": "Clear Liquids Rule",
+      "current_heading": "Clear Liquids Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Pressing Season",
+    "candidates": [
+      "Pressing Season",
+      "Drinkability Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge from Rabban Shimon ben Gamliel's baraita and Zeiri's resolution about the pressing season, which is precisely what heading 0 ('Pressing Season') describes in its prose.",
+      "chosen_heading": "Pressing Season",
+      "current_heading": "Pressing Season",
+      "moved": false
+    }
+  }
+]

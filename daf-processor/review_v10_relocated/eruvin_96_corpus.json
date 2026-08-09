@@ -1,0 +1,252 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Shabbat as Zman Tefillin",
+    "candidates": [
+      "Finding Tefillin Mishna",
+      "Shabbat as Zman Tefillin",
+      "Kavanah in Mitzvot",
+      "Rashi on Kavanah",
+      "Bal Tosif Without Intent",
+      "Tanna Kamma vs Gamliel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shabbat as Zman Tefillin",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Shabbat-as-zman-tefillin framing of the dispute (tanna kamma vs. Rabban Gamliel), which matches the 'Shabbat as Zman Tefillin' prose exactly.",
+      "second_heading": "Kavanah in Mitzvot",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the alternative 'veiba'it eima' framing centered on mitzvot requiring kavanah, which matches the 'Kavanah in Mitzvot' prose exactly.",
+      "current_heading": "Shabbat as Zman Tefillin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Tanna Kamma vs Gamliel",
+    "candidates": [
+      "Kavanah in Mitzvot",
+      "Rashi on Kavanah",
+      "Bal Tosif Without Intent",
+      "Tanna Kamma vs Gamliel",
+      "Two Pairs No Bal Tosif",
+      "Transgressing Out of Sea\u2026",
+      "Intent Outside Time",
+      "Sukkah Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items present the Gemara's alternative framings of the Tanna Kamma vs. Rabban Gamliel dispute over whether kavanah is needed for bal tosif, which is precisely what the 'Tanna Kamma vs Gamliel' section's prose discusses \u2014 the debate about what is needed to transgress bal tosif, with Tanna Kamma holding no kavanah is needed and Rabban Gamliel holding it is.",
+      "chosen_heading": "Tanna Kamma vs Gamliel",
+      "current_heading": "Tanna Kamma vs Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Sukkah Evidence",
+    "candidates": [
+      "Two Pairs No Bal Tosif",
+      "Transgressing Out of Sea\u2026",
+      "Intent Outside Time",
+      "Sukkah Evidence",
+      "Original Approach Wins",
+      "Rabbi Akiva Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge to the position that bal tosif shelo bizmano requires no kavanah \u2014 item 1 raises the single-pair problem and item 2 raises the sukkah-on-Shemini-Atzeret problem \u2014 which is precisely what the 'Sukkah Evidence' section's prose describes.",
+      "chosen_heading": "Sukkah Evidence",
+      "current_heading": "Sukkah Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Original Approach Wins",
+      "Rabbi Akiva Position",
+      "Shabbat Not Zman Tefillin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items concern identifying Rabbi Akiva's position on Shabbat as zman tefillin via the baraita on 'v'shamarta es hachukah,' and the side discussion about Pesach/milah and hashamer \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Rabbi Akiva Position",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Shabbat Not Zman Tefillin",
+    "candidates": [
+      "Shabbat Not Zman Tefillin",
+      "Rabbi Natan Night Tefill\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether Rabbi Akiva holds Shabbat is a zman tefillin and cites the baraita proving he does not, which is precisely what the prose under 'Shabbat Not Zman Tefillin' discusses.",
+      "chosen_heading": "Shabbat Not Zman Tefillin",
+      "current_heading": "Shabbat Not Zman Tefillin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Rabbi Natan Night Tefill\u2026",
+    "candidates": [
+      "Rabbi Natan Night Tefill\u2026",
+      "Michal and Yona Stories",
+      "Women Obligated Problem",
+      "Women Exempt Resolution",
+      "Exempt Woman Perform"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Natan Night Tefill\u2026",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Natan's position on night-time tefillin and the Gemara's rebuttal (Rabbi Akiva distinction), which matches exactly the prose under heading 0 about the Rabbi Natan night-tefillin candidate and the os/miyamim yamimah distinction.",
+      "second_heading": "Michal and Yona Stories",
+      "second_confidence": "high",
+      "second_reason": "Items 3-11 cover the Michal/Yonah's wife baraita, the attempted inference about women's obligation, and the Rabbi Yosei reshut rebuttal, which matches the prose under heading 1 about the Michal and Yonah stories.",
+      "current_heading": "Rabbi Natan Night Tefill\u2026",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Exempt Woman Perform",
+    "candidates": [
+      "Michal and Yona Stories",
+      "Women Obligated Problem",
+      "Women Exempt Resolution",
+      "Exempt Woman Perform",
+      "Exempt Woman Perform",
+      "Rashi Niros Mosifos",
+      "Tosafot Context Problems",
+      "Tefillin Guf Naki",
+      "Bracha Exempt Women",
+      "Marketplace Techeiles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage about 'stam Sifra' being attributed to Rabbi Yehuda directly supports the conclusion that Rabbi Yehuda holds exempt women are prohibited from performing mitzvot, which is precisely what the 'Exempt Woman Perform' section (index 3) discusses in its prose about the Sifra on smicha and the attribution to Rabbi Yehuda's school.",
+      "chosen_heading": "Exempt Woman Perform",
+      "current_heading": "Exempt Woman Perform",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Marketplace Techeiles",
+    "candidates": [
+      "Exempt Woman Perform",
+      "Rashi Niros Mosifos",
+      "Tosafot Context Problems",
+      "Tefillin Guf Naki",
+      "Bracha Exempt Women",
+      "Marketplace Techeiles",
+      "Thread Preparations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Elazar's ruling on finding techeiles in the marketplace directly matches the prose under heading 5 ('Marketplace Techeiles'), which explicitly describes this exact ruling and its governing question about lishmah preparation.",
+      "chosen_heading": "Marketplace Techeiles",
+      "current_heading": "Marketplace Techeiles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Thread Preparations",
+    "candidates": [
+      "Thread Preparations",
+      "Effort Standard",
+      "New Tefillin Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same graduated challenge-and-response chain about strips vs. threads vs. twisted cords vs. cut cords, which is exactly what the 'Thread Preparations' prose describes step by step.",
+      "chosen_heading": "Thread Preparations",
+      "current_heading": "Thread Preparations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "New Tefillin Problem",
+    "candidates": [
+      "Effort Standard",
+      "New Tefillin Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous dialectic described in the 'New Tefillin Problem' prose: Rava challenges the 'ein adam tore'ach' principle with the tefillin mishna, Rabbi Zeira's son cites the baraita to establish the principle, and Rava dismisses that citation \u2014 exactly the sequence the prose describes.",
+      "chosen_heading": "New Tefillin Problem",
+      "current_heading": "New Tefillin Problem",
+      "moved": false
+    }
+  }
+]

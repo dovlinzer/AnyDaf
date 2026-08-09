@@ -1,0 +1,168 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Presumption Debate",
+    "candidates": [
+      "Rashi & Commentary",
+      "Content Overview",
+      "Later Chapters",
+      "Makane Definition",
+      "Presumption Debate",
+      "Three Requirements",
+      "First Statement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Three Requirements",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishna detailing kinuy, how the warning works, and stirah consequences \u2014 exactly what candidate 5 ('Three Requirements') describes including 'al tidberi im ish peloni' and the point that speech alone leaves her permitted.",
+      "second_heading": "First Statement",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-6 are the Gemara's opening discussion about why Sota follows Nazir and the tractate sequence, which precedes the 'first substantive claim' analysis that candidate 6 ('First Statement') describes as the gemara's opening move.",
+      "current_heading": "Presumption Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "First Statement",
+    "candidates": [
+      "Three Requirements",
+      "First Statement",
+      "Resh Lakish Drasha",
+      "Matching by Deeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the di'eved/ab initio reading of 'hamekane' and the statement 'kasavar tana didan asur lekanot,' which is precisely what the 'First Statement' prose section discusses.",
+      "chosen_heading": "First Statement",
+      "current_heading": "First Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Matching by Deeds",
+    "candidates": [
+      "Resh Lakish Drasha",
+      "Matching by Deeds",
+      "Difficulty of Match",
+      "Bat Kol Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's drasha and Rabbi Yochanan's statement about difficulty of matching, and candidate 0 ('Resh Lakish Drasha') is the introductory section whose prose explicitly describes this combined opening tradition, while candidates 1 and 2 are separate analytical sections that discuss each teaching individually \u2014 the passage as a whole unit belongs under the heading that introduces it.",
+      "chosen_heading": "Resh Lakish Drasha",
+      "current_heading": "Matching by Deeds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Bat Kol Midrash",
+    "candidates": [
+      "Difficulty of Match",
+      "Bat Kol Midrash",
+      "First vs Second",
+      "R. Eliezer View",
+      "R. Yehoshua View",
+      "Direct Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the 'aini?' challenge citing Rav Yehuda/Rav's bat kol statement and its resolution (zivug rishon vs. sheni), which is precisely what the 'Bat Kol Midrash' section's prose describes and discusses in detail.",
+      "chosen_heading": "Bat Kol Midrash",
+      "current_heading": "Bat Kol Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Direct Testimony",
+    "candidates": [
+      "First vs Second",
+      "R. Eliezer View",
+      "R. Yehoshua View",
+      "Direct Testimony",
+      "Linguistic Derivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Direct Testimony",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly match the 'Direct Testimony' prose, which discusses the gemara's clarification that ed echad meheman for tumah is common ground between Rabbi Eliezer and Rabbi Yehoshua, and references the mishna about a single witness saying 'I saw she was defiled' \u2014 exactly what items 1 and 2 contain.",
+      "second_heading": "Linguistic Derivation",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the baraita deriving from 've'ed ein bah' the Torah-level source for one witness being believed, which matches precisely the 'Linguistic Derivation' prose discussing 'mid'oraita minalan de'meheman ed echad' and the hermeneutical principle that 'ed' implies two witnesses.",
+      "current_heading": "Direct Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Linguistic Derivation",
+    "candidates": [
+      "Linguistic Derivation",
+      "Single Witness Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita establishing the hermeneutical principle that 'ed' without qualification means two witnesses, which is precisely what the 'Linguistic Derivation' prose describes in detail.",
+      "chosen_heading": "Linguistic Derivation",
+      "current_heading": "Linguistic Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Single Witness Rule",
+    "candidates": [
+      "Single Witness Rule",
+      "Raglayim L'Davar",
+      "Hypothetical Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the derivation that 'ed ein bah' means not two witnesses but one, and the credibility of a single witness in sotah \u2014 precisely the topic of the 'Single Witness Rule' prose, which explicitly walks through this same reasoning about ve'ed ein bah, ve'hi lo nitpasah, and the forbidden status derived from one witness.",
+      "chosen_heading": "Single Witness Rule",
+      "current_heading": "Single Witness Rule",
+      "moved": false
+    }
+  }
+]

@@ -223,7 +223,7 @@
           "timestamp": "30:02"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -334,7 +334,7 @@
           "timestamp": "48:16"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -368,7 +368,7 @@
           "timestamp": "52:02"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -626,5 +626,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "36:00",
+  "amud_b_micro_title": "Scriptural Examples",
+  "shiur_start_daf": 9,
+  "shiur_start_amud": "a"
 }

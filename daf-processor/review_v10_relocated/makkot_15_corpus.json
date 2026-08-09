@@ -1,0 +1,238 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Asei Precedes Lav",
+    "candidates": [
+      "Definition & Examples",
+      "Mother Bird Case",
+      "Asei Precedes Lav",
+      "Tamei Precedent",
+      "Gemara Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Yochanan's principle that a prohibition preceded by a positive mitzva incurs lashes, which is precisely what the 'Asei Precedes Lav' section's prose is explaining and contextualizing.",
+      "chosen_heading": "Asei Precedes Lav",
+      "current_heading": "Asei Precedes Lav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Gemara Support",
+    "candidates": [
+      "Tamei Precedent",
+      "Gemara Support",
+      "Retraction Reason",
+      "Rape Exception",
+      "Remarriage Exemption",
+      "Ulla Superfluous Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbah bar bar Chana initially denying he said the ruling, then being called out by Rabba with an oath, followed by the citation of the pasuk and mishnah as support \u2014 which is precisely what heading 0 ('Tamei Precedent') describes: the retraction, Rava's forceful response, and the position being grounded in both a pasuk and a mishnah.",
+      "chosen_heading": "Tamei Precedent",
+      "current_heading": "Gemara Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Ulla Superfluous Logic",
+    "candidates": [
+      "Retraction Reason",
+      "Rape Exception",
+      "Remarriage Exemption",
+      "Ulla Superfluous Logic",
+      "Challenge to Kal Vachomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rape Exception",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita about the rapist who divorced and the question of why a non-priest is not flogged, which is the content described under 'Rape Exception' and 'Remarriage Exemption' headings \u2014 specifically the beraisa ruling and the apparent contradiction to Rabbi Yochanan's principle.",
+      "second_heading": "Ulla Superfluous Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 present Ulla's im eino inyan argument and the Gemara's challenge to the kal vachomer, which matches exactly the prose under 'Ulla Superfluous Logic' and 'Challenge to Kal Vachomer'.",
+      "current_heading": "Ulla Superfluous Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Challenge to Kal Vachomer",
+    "candidates": [
+      "Challenge to Kal Vachomer",
+      "Redundancy Resolved",
+      "Already Married"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the refutation of deriving motzi shem ra from oneis by noting that the oneis 'performed an action' (asah ma'aseh), which is precisely the objection described in the 'Redundancy Resolved' section's prose about how neither case can be derived from the other because each has a unique characteristic.",
+      "chosen_heading": "Redundancy Resolved",
+      "current_heading": "Challenge to Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Already Married",
+    "candidates": [
+      "Redundancy Resolved",
+      "Already Married",
+      "Kol Yamav Teaching",
+      "Two Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the core argument that 'lo tihyeh le'ishah' is redundant in the motzi shem ra case (since she is already his wife), redirecting it via 'im eino inyan' to teach that remarriage after divorce is a corrective \u2014 exactly what candidate 1 'Already Married' discusses in detail, including the subsequent challenge about deriving the oneis from the motzi shem ra and the refutation based on 'lo asah ma'aseh'.",
+      "chosen_heading": "Already Married",
+      "current_heading": "Already Married",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Two Readings",
+    "candidates": [
+      "Kol Yamav Teaching",
+      "Two Readings",
+      "Ox Paradigm",
+      "Obligation Not Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's teaching that 'kol yamav' means 'all his days he must arise and remarry her,' which is precisely what the 'Kol Yamav Teaching' prose section describes \u2014 Rava's resolution focusing on the superfluous phrase kol yamav to derive the obligation of remarriage.",
+      "chosen_heading": "Kol Yamav Teaching",
+      "current_heading": "Two Readings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Obligation Not Fix",
+    "candidates": [
+      "Ox Paradigm",
+      "Obligation Not Fix",
+      "Nitak Disrupts Lav",
+      "Tana Teaching",
+      "Excluded Middle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange between Rav Pappa and Rava about whether the presence of an asei weakens the lav relative to the paradigm of muzzling the ox, which is precisely what the 'Ox Paradigm' prose describes \u2014 the challenge that a lav with any asei differs from the paradigmatic muzzling case that has no asei at all, and Rava's response that a non-remedial asei does not weaken the lav.",
+      "chosen_heading": "Ox Paradigm",
+      "current_heading": "Obligation Not Fix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Excluded Middle",
+    "candidates": [
+      "Nitak Disrupts Lav",
+      "Tana Teaching",
+      "Excluded Middle",
+      "RY vs. RL Debate",
+      "Warning Timing",
+      "Active Completion",
+      "RY Safek Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are the continuous Gemara passage about the tana teaching before Rabbi Yochanan and the dispute between Rabbi Yochanan and Resh Lakish over 'bitlo/lo bitlo' versus 'kiymo/lo kiymo' \u2014 exactly what the 'Tana Teaching' section's prose describes, not the 'Excluded Middle' section where it currently sits.",
+      "chosen_heading": "Tana Teaching",
+      "current_heading": "Excluded Middle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "RY Safek Valid",
+    "candidates": [
+      "RY vs. RL Debate",
+      "Warning Timing",
+      "Active Completion",
+      "RY Safek Valid",
+      "Bread Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's statement of the hasra'at safek dispute \u2014 Rabbi Yochanan holding it is valid and Resh Lakish holding it is not \u2014 which is precisely what the 'RY Safek Valid' prose section describes and analyzes.",
+      "chosen_heading": "RY Safek Valid",
+      "current_heading": "RY Safek Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Bread Oath",
+    "candidates": [
+      "Bread Oath",
+      "Passive Exempt",
+      "RL Safek Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the complete bread-oath passage \u2014 both sages' positions and the baraita proof \u2014 which the 'Bread Oath' section's prose explicitly introduces as the case where both agree on no lashes but disagree on reasoning.",
+      "chosen_heading": "Bread Oath",
+      "current_heading": "Bread Oath",
+      "moved": false
+    }
+  }
+]

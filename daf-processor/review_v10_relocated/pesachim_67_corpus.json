@@ -1,0 +1,181 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Pesach/Tumah Override",
+    "candidates": [
+      "Hillel/Bnei Beteira",
+      "Bavel vs. E.Y.",
+      "Public Intuition",
+      "Rambam Model",
+      "Pesach/Tumah Override",
+      "Ish Ish Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question of how we know the tamid and Pesach override tumah, and the analogical derivation between them \u2014 exactly what the 'Pesach/Tumah Override' section's prose describes.",
+      "chosen_heading": "Pesach/Tumah Override",
+      "current_heading": "Pesach/Tumah Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Ish Ish Drasha",
+    "candidates": [
+      "Ish Ish Drasha",
+      "Reish Lakish Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's derivation from 'ish ish ki yihyeh tameh l'nefesh' that an individual is deferred to Pesach Sheni while the community is not \u2014 exactly what the 'Ish Ish Drasha' section's prose describes.",
+      "chosen_heading": "Ish Ish Drasha",
+      "current_heading": "Ish Ish Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Reish Lakish Challenge",
+    "candidates": [
+      "Reish Lakish Challenge",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Reish Lakish's challenge to Rabbi Yochanan's proof and his alternative derivation from the 'send out from the camp' verse, which is precisely what the 'Reish Lakish Challenge' prose describes.",
+      "chosen_heading": "Reish Lakish Challenge",
+      "current_heading": "Reish Lakish Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Abaye's Objection",
+      "Pesach B'Tumah Limits",
+      "Camp Hierarchy",
+      "Yerushalayim Zones",
+      "Metzora Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of Abaye's objection to Reish Lakish, the mishna refutation, and the resolution via the 'ish ish'/'lanefesh' derivation \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Abaye's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Metzora Lashes",
+    "candidates": [
+      "Pesach B'Tumah Limits",
+      "Camp Hierarchy",
+      "Yerushalayim Zones",
+      "Metzora Lashes",
+      "R. Yehuda Derivation",
+      "R. Shimon Kal V'Chomer",
+      "Severity Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All seven items form a continuous discussion of Rav \u1e24isda's ruling that a metzora is exempt from lashes (items 1-2), the baraita objection (items 3-4), and the tannaitic resolution via Rabbi Yehuda and Rabbi Shimon's derivations (items 5-7), which is precisely what the 'Metzora Lashes' section prose describes.",
+      "chosen_heading": "Metzora Lashes",
+      "current_heading": "Metzora Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Severity Comparison",
+    "candidates": [
+      "R. Yehuda Derivation",
+      "R. Shimon Kal V'Chomer",
+      "Severity Comparison",
+      "Zav/Ba'al Keri/Metzora"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the severity comparison between zav, tamei meit, and tamei sheretz \u2014 including the chumra of tumah yotza migufo, the challenge from haza'ah, the inclusion of tamei sheretz, and the ones/Rav Huna resolution \u2014 which is precisely what the 'Severity Comparison' prose describes.",
+      "chosen_heading": "Severity Comparison",
+      "current_heading": "Severity Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Zav/Ba'al Keri/Metzora",
+    "candidates": [
+      "Zav/Ba'al Keri/Metzora",
+      "R. Eliezer Query",
+      "Conditional Exemption",
+      "Ba'al Keri Status",
+      "Tunnels Not Sanctified",
+      "Priests' Ba'al Keri"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Zav/Ba'al Keri/Metzora",
+      "first_confidence": "high",
+      "first_reason": "Items 1-7 cover the zav/metzora/ba'al keri hierarchy, the kal va-chomer derivations, Rabbi Natan's position, and Rabbi Eliezer's conditional exemption \u2014 all matching the 'Zav/Ba'al Keri/Metzora' and 'R. Eliezer Query'/'Conditional Exemption' prose, but items 1-5 clearly belong under heading 0 which explicitly discusses all these comparisons, and items 6-7 belong under headings 1-2.",
+      "second_heading": "Ba'al Keri Status",
+      "second_confidence": "high",
+      "second_reason": "Items 8-11 discuss Rabbi Yochanan's ruling that ba'al keri is sent outside two camps and the braita comparing ba'al keri to maga sheretz \u2014 exactly matching the 'Ba'al Keri Status' prose under heading 3.",
+      "current_heading": "Zav/Ba'al Keri/Metzora",
+      "moved": true
+    }
+  }
+]

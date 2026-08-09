@@ -1,0 +1,186 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mumar Sacrifice Exclusion",
+    "candidates": [
+      "Mumar Categories",
+      "Mumar Sacrifice Exclusion",
+      "Willful Violator Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the derivation of the mumar sacrifice exclusion \u2014 item 1 asks which verse is the source and item 2 provides the answer via \u05de\u05e2\u05dd \u05d4\u05d0\u05e8\u05e5 \u2014 which is precisely what the 'Mumar Sacrifice Exclusion' prose describes.",
+      "chosen_heading": "Mumar Sacrifice Exclusion",
+      "current_heading": "Mumar Sacrifice Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Willful Violator Doctrine",
+    "candidates": [
+      "Willful Violator Doctrine",
+      "Rav Hamnuna's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon ben Yosei's teaching about one who repents upon awareness (\u05d4\u05b7\u05e9\u05b8\u05bc\u05c1\u05d1 \u05de\u05b4\u05d9\u05d3\u05b4\u05bc\u05d9\u05e2\u05b8\u05ea\u05d5\u05b9) versus one who does not, which is precisely what the 'Willful Violator Doctrine' prose describes and analyzes.",
+      "chosen_heading": "Willful Violator Doctrine",
+      "current_heading": "Willful Violator Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rav Hamnuna's Case",
+    "candidates": [
+      "Rav Hamnuna's Case",
+      "Two Exclusion Grounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Hamnuna's answer about the mumar le'echol cheilev who brought an offering for blood, which is precisely what candidate 0's prose ('Rav Hamnuna's Case') analyzes in detail.",
+      "chosen_heading": "Rav Hamnuna's Case",
+      "current_heading": "Rav Hamnuna's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Two Exclusion Grounds",
+    "candidates": [
+      "Two Exclusion Grounds",
+      "Behemah & Insult",
+      "Humble Behemah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why both sin-offering and burnt-offering exclusions are necessary, which is exactly what the 'Two Exclusion Grounds' section's prose describes in detail.",
+      "chosen_heading": "Two Exclusion Grounds",
+      "current_heading": "Two Exclusion Grounds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Humble Behemah",
+    "candidates": [
+      "Behemah & Insult",
+      "Humble Behemah",
+      "Context of Reference",
+      "Planting Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire lexical inquiry \u2014 the initial question whether 'behemah' always indicates deficiency, the counter-example from Psalms with Rav Yehuda/Rav's explanation, and the Gemara's resolution distinguishing paired vs. solo usage \u2014 all of which belongs under the heading that frames the overarching question about the word behemah's meaning, not split across separate headings.",
+      "chosen_heading": "Behemah & Insult",
+      "current_heading": "Humble Behemah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Planting Verse",
+    "candidates": [
+      "Context of Reference",
+      "Planting Verse",
+      "Rabban Gamliel's Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge from Jeremiah 31:26 and its resolution via syntactic separation, which is precisely what the 'Planting Verse' section's prose discusses.",
+      "chosen_heading": "Planting Verse",
+      "current_heading": "Planting Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Rabban Gamliel's Ban",
+    "candidates": [
+      "Rabban Gamliel's Ban",
+      "Observation Question",
+      "Sharp Response",
+      "Later Acceptance",
+      "Zeira's Confusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic and the ruling of Rabban Gamliel's court prohibiting Samaritan slaughter \u2014 are the opening material of the 'Rabban Gamliel's Ban' section, whose prose explicitly describes this exact chain of transmission and ruling, making the current placement correct.",
+      "chosen_heading": "Rabban Gamliel's Ban",
+      "current_heading": "Rabban Gamliel's Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Zeira's Confusion",
+    "candidates": [
+      "Observation Question",
+      "Sharp Response",
+      "Later Acceptance",
+      "Zeira's Confusion",
+      "Tzadikim Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Zeira's wondering/astonishment about whether Rabbi Yochanan and Rav Assi heard the ruling or not, which is exactly what 'Zeira's Confusion' describes in its prose.",
+      "chosen_heading": "Zeira's Confusion",
+      "current_heading": "Zeira's Confusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Tzadikim Principle",
+    "candidates": [
+      "Tzadikim Principle",
+      "Final Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Zeira's self-resolution using the tzadikim principle (God does not cause mishaps through the righteous, a fortiori through righteous people themselves), which is precisely what the 'Tzadikim Principle' section's prose discusses in detail.",
+      "chosen_heading": "Tzadikim Principle",
+      "current_heading": "Tzadikim Principle",
+      "moved": false
+    }
+  }
+]

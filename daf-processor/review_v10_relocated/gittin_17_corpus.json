@@ -1,0 +1,189 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rabba bar bar Chana",
+    "candidates": [
+      "Rabba bar bar Chana",
+      "Edei Mesirah Logic",
+      "Chaveirim Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage \u2014 Rav Yehuda's statement that two who bring a get from overseas brings us to the dispute between Rabbi Yehuda and the Rabbis \u2014 is a direct continuation of the legal discussion about two witnesses bringing a get from abroad, which is precisely what the 'Rabba bar bar Chana' section's prose is discussing.",
+      "chosen_heading": "Rabba bar bar Chana",
+      "current_heading": "Rabba bar bar Chana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Chaveirim Incident",
+    "candidates": [
+      "Edei Mesirah Logic",
+      "Chaveirim Incident",
+      "Get Yotzei Mitachat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Edei Mesirah Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the story of Rabba bar bar Chana's illness visit and the halachic question about two witnesses bringing a get, which matches the 'Edei Mesirah Logic' section's prose about the logical argument that two witnesses need not recite the declaration.",
+      "second_heading": "Chaveirim Incident",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover the chaveirim incident, Rabba's exclamation about Roman vs. Persian rule, the challenge from Rabbi Chiyya's baraita, and the resolution \u2014 all of which match exactly the 'Chaveirim Incident' prose.",
+      "current_heading": "Chaveirim Incident",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Get Yotzei Mitachat",
+    "candidates": [
+      "Get Yotzei Mitachat",
+      "Rav Assi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Ami/Rabbi Yochanan qualification about the get coming from the witness to writing versus signatory witnesses, which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "Get Yotzei Mitachat",
+      "current_heading": "Get Yotzei Mitachat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Rav Assi's Challenge",
+    "candidates": [
+      "Rav Assi's Challenge",
+      "Final Resolution",
+      "Intro: Predating",
+      "Mishnah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous dispute between Rabbi Asi and Rabbi Ami about whether two witnesses bringing a get from abroad must recite the full formula, including the contradiction between Rabbi Ami's two rulings and his final resolution ('yated hi shelo tamut'), which is precisely what heading 0's prose describes \u2014 though the final resolution note in heading 1 also covers item 4, the entire sequence belongs together under the current heading 0 which frames the full exchange including both challenges and the resolution.",
+      "chosen_heading": "Rav Assi's Challenge",
+      "current_heading": "Rav Assi's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Mishnah Dispute",
+    "candidates": [
+      "Final Resolution",
+      "Intro: Predating",
+      "Mishnah Dispute",
+      "Yochanan: Bas Achoto",
+      "Lakish: Peirot",
+      "Lakish Rejects Bas Achoto"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mishnah Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text presenting the machloket between Tanna Kamma and Rabbi Shimon about a get written by day and signed at night, which matches the 'Mishnah Dispute' prose exactly.",
+      "second_heading": "Yochanan: Bas Achoto",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's discussion of why the Rabbanan required a date in gittin, presenting the dispute between Rabbi Yochanan (bas achoto) and Reish Lakish (peirot), which matches the 'Yochanan: Bas Achoto' section's prose about introducing this famous machloket.",
+      "current_heading": "Mishnah Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Lakish Rejects Bas Achoto",
+    "candidates": [
+      "Yochanan: Bas Achoto",
+      "Lakish: Peirot",
+      "Lakish Rejects Bas Achoto",
+      "Yochanan: Until Netina",
+      "Shimon via Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form exactly the Gemara's question-and-answer about why Reish Lakish rejects Rabbi Yochanan's bas achoto rationale (znus lo shechicha), which is precisely what candidate 2's prose describes.",
+      "chosen_heading": "Lakish Rejects Bas Achoto",
+      "current_heading": "Lakish Rejects Bas Achoto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Shimon via Lakish",
+    "candidates": [
+      "Yochanan: Until Netina",
+      "Shimon via Lakish",
+      "Shimon via Yochanan",
+      "Peirot Timing",
+      "Peirot Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain discussing the machloket between Rabbi Shimon and the Rabbanan through the lens of both Reish Lakish and Rabbi Yochanan, culminating in the 'peirot d'mishaat ketivah v'ad sha'at chatimah' resolution \u2014 precisely the content described in candidate 1's prose about explaining the dispute via Reish Lakish's peirot framework.",
+      "chosen_heading": "Shimon via Lakish",
+      "current_heading": "Shimon via Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Peirot Sources",
+    "candidates": [
+      "Shimon via Yochanan",
+      "Peirot Timing",
+      "Peirot Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the inverted positions of Rabbi Yo\u1e25anan and Reish Lakish on when peirot rights transfer, which directly corresponds to the 'Peirot Sources' section's prose describing the alternate version (ve'ika d'amri) where positions are inverted and the Gemara notes the need to reverse attributions.",
+      "chosen_heading": "Peirot Sources",
+      "current_heading": "Peirot Sources",
+      "moved": false
+    }
+  }
+]

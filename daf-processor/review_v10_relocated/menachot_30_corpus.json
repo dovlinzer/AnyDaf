@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "8 Verses Dispute",
+    "candidates": [
+      "8 Verses Dispute",
+      "Rabbi Yehudah View",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the '8 Verses Dispute' section: item 1 introduces Rav's ruling and the 'ke-man/de-lo ke-Rabbi Shimon' question, and item 2 is the baraita that introduces the underlying dispute \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "8 Verses Dispute",
+      "current_heading": "8 Verses Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Rabbi Yehudah View",
+      "Rabbi Shimon View",
+      "Writing with Tears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon's exact argument about the Torah scroll being complete, citing the verse from Deuteronomy 31:26, which matches precisely what the Rabbi Shimon View prose describes.",
+      "chosen_heading": "Rabbi Shimon View",
+      "current_heading": "Rabbi Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Writing with Tears",
+    "candidates": [
+      "Writing with Tears",
+      "Rashi & Maharsha",
+      "Yachid Kore Otan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mechanism the 'Writing with Tears' section's prose discusses: God dictating, Moses writing with tears (be-dema) rather than repeating aloud, and the proof from Jeremiah/Baruch \u2014 all of which is the central content of that section.",
+      "chosen_heading": "Writing with Tears",
+      "current_heading": "Writing with Tears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Yachid Kore Otan",
+    "candidates": [
+      "Rashi & Maharsha",
+      "Yachid Kore Otan",
+      "Rambam Ruling",
+      "Raavad Critique",
+      "Purchasing Merit",
+      "Writing Merit",
+      "Correcting Letter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's inference about whether Rav's ruling of yachid korei otan aligns with Rabbi Shimon's position, and the answer 'ho-il ve-ishtani ishtani' \u2014 which is exactly what the prose of candidate 1 discusses.",
+      "chosen_heading": "Yachid Kore Otan",
+      "current_heading": "Yachid Kore Otan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Correcting Letter",
+    "candidates": [
+      "Rambam Ruling",
+      "Raavad Critique",
+      "Purchasing Merit",
+      "Writing Merit",
+      "Correcting Letter",
+      "Column Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the 'snatching a mitzvah from the marketplace' teaching AND the writing/Sinai teaching AND the correcting a single letter teaching \u2014 it is a single continuous Talmudic unit that spans what the essay splits into sections 2, 3, and 4, but since it must be placed under ONE heading and the passage begins with the purchasing/snatching imagery that section 2's prose explicitly introduces ('Rami bar Abba amar Rav Giddel amar Rav' / 'ke-chotef mitzvah min ha-shuk'), section 2 ('Purchasing Merit') is the best match as the opening of this combined teaching.",
+      "chosen_heading": "Purchasing Merit",
+      "current_heading": "Correcting Letter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Column Rules",
+    "candidates": [
+      "Correcting Letter",
+      "Column Rules",
+      "Column Width",
+      "Dividing Klaf"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Column Rules",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about column count (three to eight columns per klaf), which is exactly what the 'Column Rules' prose discusses.",
+      "second_heading": "Column Width",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains the ideal column width using the word 'lemishpechoteichem' three times, which is precisely what the 'Column Width' prose describes.",
+      "current_heading": "Column Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Dividing Klaf",
+    "candidates": [
+      "Column Width",
+      "Dividing Klaf",
+      "End Exception",
+      "Margin Sizes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes dividing a nine-column sheet into four and five columns rather than three and six, which is precisely what the 'Dividing Klaf' section's prose discusses.",
+      "chosen_heading": "Dividing Klaf",
+      "current_heading": "Dividing Klaf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Margin Sizes",
+    "candidates": [
+      "End Exception",
+      "Margin Sizes",
+      "Letter Spacing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "End Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the end-of-scroll exception (pasuk echad be-daf echad), which is precisely what the 'End Exception' prose describes.",
+      "second_heading": "Margin Sizes",
+      "second_confidence": "high",
+      "second_reason": "Item 2 specifies margin dimensions (tefach, shalosh etzba'ot, etc.), which exactly matches the 'Margin Sizes' prose discussion.",
+      "current_heading": "Margin Sizes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Letter Spacing",
+    "candidates": [
+      "Letter Spacing",
+      "Letter Size Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses spacing between lines, words, and letters, which is precisely what the 'Letter Spacing' section's prose elaborates on in detail.",
+      "chosen_heading": "Letter Spacing",
+      "current_heading": "Letter Spacing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Letter Size Rule",
+    "candidates": [
+      "Letter Size Rule",
+      "5-Letter Word"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses not reducing letter size to accommodate margins (top, bottom) or spacing (between lines, between parshot), which is precisely what the 'Letter Size Rule' prose describes.",
+      "chosen_heading": "Letter Size Rule",
+      "current_heading": "Letter Size Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "5-Letter Word",
+    "candidates": [
+      "5-Letter Word",
+      "2-Letter Word",
+      "Erasing Name",
+      "Rabbi Yehudah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "5-Letter Word",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the five-letter word rule (majority must sit inside the column), which is precisely what the '5-Letter Word' prose describes.",
+      "second_heading": "2-Letter Word",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the two-letter word case (lo yizrakena levein ha-dapin / chozer ve-kotev bi-tchilat ha-shita), which is exactly what the '2-Letter Word' prose explains.",
+      "current_heading": "5-Letter Word",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rabbi Yehudah",
+    "candidates": [
+      "2-Letter Word",
+      "Erasing Name",
+      "Rabbi Yehudah",
+      "Rabbi Yitzchak",
+      "R. Shimon Shezuri",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rabbi Yehuda, Rabbi Yosei, Rabbi Yitzchak) together as a single Talmudic unit introducing the topic of errors involving the divine name, which matches heading 1 ('Erasing Name') as the introductory section that sets up the scenario, rather than being placed only under Rabbi Yehuda's sub-heading.",
+      "chosen_heading": "Erasing Name",
+      "current_heading": "Rabbi Yehudah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Rabbi Yitzchak",
+      "R. Shimon Shezuri",
+      "Rabbi Meir",
+      "Amoraic Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Shimon Shezuri's ruling about suspending the complete name and Rabbi Shimon ben Elazar's ruling in the name of Rabbi Meir, and the prose under 'R. Shimon Shezuri' explicitly discusses both positions together, while the current placement under 'Rabbi Meir' is a separate section that duplicates coverage of what is a unified baraita best housed under the Shezuri heading.",
+      "chosen_heading": "R. Shimon Shezuri",
+      "current_heading": "Rabbi Meir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Amoraic Rulings",
+    "candidates": [
+      "Rabbi Meir",
+      "Amoraic Rulings",
+      "Shimon Shezuri Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the amoraic dispute between Rav \u1e24ananel/Rav and Rabba bar bar \u1e24ana/Rabbi Yitz\u1e25ak bar Shmuel, followed by the gemara's question about why they stated rulings rather than citing tanna'im by name \u2014 precisely what candidate 1's prose describes.",
+      "chosen_heading": "Amoraic Rulings",
+      "current_heading": "Amoraic Rulings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Shimon Shezuri Ruling",
+    "candidates": [
+      "Shimon Shezuri Ruling",
+      "Anchoring Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimon Shezuri Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the ruling that the halakha follows Rabbi Shimon Shezuri, which is exactly what the 'Shimon Shezuri Ruling' prose describes.",
+      "second_heading": "Anchoring Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 begin the Gemara's challenge asking *ahai* \u2014 on which case was Ulla's statement anchored \u2014 which is precisely what the 'Anchoring Challenge' prose describes.",
+      "current_heading": "Shimon Shezuri Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Anchoring Challenge",
+    "candidates": [
+      "Anchoring Challenge",
+      "Get Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the Hullin 74b case of Rabbi Shimon Shezuri (slaughter of mother permitting the calf), and the gemara's rejection of it as Ulla's anchor case because Ze'eiri/Rabbi Chanina already ruled on it \u2014 exactly the methodology described in the 'Get Case' prose, which explains that any case where another amora already ruled like Rabbi Shimon Shezuri cannot be Ulla's anchor.",
+      "chosen_heading": "Get Case",
+      "current_heading": "Anchoring Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Get Case",
+    "candidates": [
+      "Get Case",
+      "Terumah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about the kolar, sea voyage, caravan, and mesukan cases, which is precisely what the 'Get Case' prose discusses in detail.",
+      "chosen_heading": "Get Case",
+      "current_heading": "Get Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Terumah Case",
+    "candidates": [
+      "Terumah Case",
+      "Legume Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the teruma of the tithe of demai case and Rabbi Yochanan's ruling about it, which is exactly what the 'Terumah Case' prose describes.",
+      "chosen_heading": "Terumah Case",
+      "current_heading": "Terumah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Legume Case",
+    "candidates": [
+      "Legume Case",
+      "Multiple Discussions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Egyptian legume (pul ha-mitzri) case itself \u2014 the ruling that one may not tithe from new for old and the practical solution of piling together on the threshing floor \u2014 which is exactly what the 'Legume Case' prose describes.",
+      "chosen_heading": "Legume Case",
+      "current_heading": "Legume Case",
+      "moved": false
+    }
+  }
+]

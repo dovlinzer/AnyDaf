@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Born + Pregnant",
+    "candidates": [
+      "Baraita Overview",
+      "Born Children",
+      "Fetus Alone",
+      "Born + Pregnant",
+      "R. Shimon Yochai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers all three cases of the baraita (born children, fetus alone, and born+pregnant with the split ruling and Rabbi Yosei's principle), but its current placement under 'Born + Pregnant' is the best match since the detailed content of the third case and Rabbi Yosei's statement is the primary focus and culmination of the baraita, matching that section's prose precisely.",
+      "chosen_heading": "Born + Pregnant",
+      "current_heading": "Born + Pregnant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "R. Shimon Yochai",
+    "candidates": [
+      "R. Shimon Yochai",
+      "Minority Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the direct Talmudic text quoted by Rabbi Shimon bar Yochai (and Rabbi Yishmael son of Rabbi Yosei), which is exactly what heading 0's prose summarizes and discusses.",
+      "chosen_heading": "R. Shimon Yochai",
+      "current_heading": "R. Shimon Yochai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Minority Principle",
+    "candidates": [
+      "Minority Principle",
+      "Two Reasons",
+      "Apotropos Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Reasons",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the two-fold reason for the daughters case (chada v'od) and the question about the male-children clause \u2014 content that matches the 'Two Reasons' prose and the setup question about the ubar in the males case.",
+      "second_heading": "Apotropos Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the two resolutions to the ubar-in-males case \u2014 ein choshashin l'miuta and the apotropos arrangement per Rav Nachman/Shmuel \u2014 which is precisely what the 'Apotropos Solution' prose discusses.",
+      "current_heading": "Minority Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Apotropos Solution",
+    "candidates": [
+      "Two Reasons",
+      "Apotropos Solution",
+      "Apotropos Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the Rav Nachman/Shmuel ruling about appointing an apotropos for orphan heirs and the dispute about whether grown orphans can object, which is precisely what the 'Apotropos Solution' section's prose describes and analyzes.",
+      "chosen_heading": "Apotropos Solution",
+      "current_heading": "Apotropos Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Apotropos Rejected",
+    "candidates": [
+      "Apotropos Rejected",
+      "Puzzle Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's rejection of the suggestion that Rav Na\u1e25man's ruling reflects a tannaitic dispute, concluding instead that everyone accepts Rav Na\u1e25man and the dispute is about concern for the minority \u2014 exactly what the 'Apotropos Rejected' prose describes.",
+      "chosen_heading": "Apotropos Rejected",
+      "current_heading": "Apotropos Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Puzzle Stated",
+    "candidates": [
+      "Puzzle Stated",
+      "Limited Estate",
+      "Daughters' Priority",
+      "Fetus & Daughters",
+      "Estate Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the puzzle being stated: item 1 raises the contradiction, item 2 introduces Abaye's resolution premise, and item 3 completes the resolution \u2014 but the prose under heading 0 ('Puzzle Stated') explicitly covers all of this content including the Gemara's challenge and the internal contradiction, making it the best match; the subsequent headings discuss the challenge to Abaye and further complications that go beyond what these three items cover.",
+      "chosen_heading": "Puzzle Stated",
+      "current_heading": "Puzzle Stated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Estate Challenge",
+    "candidates": [
+      "Limited Estate",
+      "Daughters' Priority",
+      "Fetus & Daughters",
+      "Estate Challenge",
+      "Mother & Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in 'Estate Challenge' prose: item 1 addresses the contradiction between Abaye's nechasim mu'atim reading and the baraita's latter clause about the fetus being male (resolved by saying the two halves address different scenarios), and item 2 raises Rabbi Assi/Rabbi Yochanan's ruling that sons' sale of insufficient property is binding \u2014 exactly the challenge described in the 'Estate Challenge' prose about title remaining with the sons.",
+      "chosen_heading": "Estate Challenge",
+      "current_heading": "Estate Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Mother & Father",
+    "candidates": [
+      "Mother & Father",
+      "Gray Zone Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's reinterpretation of 'bat' as 'em' (mother) and the conclusion that the entire baraita is by Rabbi Yishmael son of Rabbi Yosei, which is precisely what the 'Mother & Father' section's prose describes.",
+      "chosen_heading": "Mother & Father",
+      "current_heading": "Mother & Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Gray Zone Intro",
+    "candidates": [
+      "Gray Zone Intro",
+      "Fetus Gray Zone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Mishnah text itself (the list of gray-zone cases, the safek variants, and the collapsed-house digression) that the 'Gray Zone Intro' prose explicitly introduces and summarizes before the Gemara's sourcing discussion begins in 'Fetus Gray Zone'.",
+      "chosen_heading": "Gray Zone Intro",
+      "current_heading": "Gray Zone Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Fetus Gray Zone",
+    "candidates": [
+      "Fetus Gray Zone",
+      "Yavam Gray Zone",
+      "Erusin Gray Zone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the fetus (ubar) cases \u2014 disqualifying a bat kohen married to a Yisrael via 'ki-neureiha' and not enabling a bat Yisrael married to a kohen via 'yalud ma'akhil' \u2014 which is precisely what the 'Fetus Gray Zone' prose describes.",
+      "chosen_heading": "Fetus Gray Zone",
+      "current_heading": "Fetus Gray Zone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Erusin Gray Zone",
+    "candidates": [
+      "Yavam Gray Zone",
+      "Erusin Gray Zone",
+      "Deaf-Mute Marriage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yavam Gray Zone",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the yavam case \u2014 disqualification of bat kohen and inability to enable bat Yisrael due to 'kinyan of his brother' \u2014 which matches precisely the 'Yavam Gray Zone' prose.",
+      "second_heading": "Erusin Gray Zone",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 discuss the erusin (betrothal) case, including the disqualification of bat kohen via betrothal acquisition and Ulla's rationale for bat Yisrael, matching exactly the 'Erusin Gray Zone' prose.",
+      "current_heading": "Erusin Gray Zone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Deaf-Mute Marriage",
+    "candidates": [
+      "Deaf-Mute Marriage",
+      "Nine-Year-Old"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the deaf-mute (cheresh) case \u2014 disqualification through rabbinic marriage and inability to enable through biblical kinyan \u2014 which is precisely what the 'Deaf-Mute Marriage' prose elaborates.",
+      "chosen_heading": "Deaf-Mute Marriage",
+      "current_heading": "Deaf-Mute Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Nine-Year-Old",
+    "candidates": [
+      "Nine-Year-Old",
+      "Invalidation Intro",
+      "Forbidden Partners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Gemara discussion about the nine-year-old case \u2014 from the initial question, through Abaye's interpretation, Rava's objection, Rava's reframing with the baraita about psulei kahal, and the resolution of the inference from the latter clause \u2014 which matches exactly the prose under heading 0 ('Nine-Year-Old').",
+      "chosen_heading": "Nine-Year-Old",
+      "current_heading": "Nine-Year-Old",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Forbidden Partners",
+    "candidates": [
+      "Invalidation Intro",
+      "Forbidden Partners",
+      "R. Yossi View",
+      "R. Shimon Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing the nine-year-old boy, Ammonite/Moabite convert, Egyptian, Edomite, Samaritan, Gibeonite, \u1e25alal, and mamzer who invalidate a woman \u2014 exactly what the 'Forbidden Partners' prose describes and analyzes in detail.",
+      "chosen_heading": "Forbidden Partners",
+      "current_heading": "Forbidden Partners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "R. Shimon Rule",
+    "candidates": [
+      "R. Yossi View",
+      "R. Shimon Rule",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei's statement and Rabban Shimon ben Gamliel's statement together as a unit, but the current placement under 'R. Shimon Rule' misses that the passage begins with Rabbi Yosei's view, and candidate 0 ('R. Yossi View') explicitly discusses both Rabbi Yose's rule and notes that the Gemara will address the relationship between his view and Rabban Shimon's \u2014 making it the better home for this combined mishna/baraita passage that introduces both opinions together.",
+      "chosen_heading": "R. Yossi View",
+      "current_heading": "R. Shimon Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "R. Shimon Rule",
+      "Verse Source",
+      "Extra Vav",
+      "Terumah Loss",
+      "Marriage Ban Q",
+      "Kal VeChomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 10,
+      "first_heading": "Verse Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1-10 trace the full derivation from the verse 'u-vat kohen ki tihyeh l'ish zar' through all the objections and resolutions, including the extra vav extension to Levite and Israelite women, exactly matching the 'Verse Source' prose which covers all of this material including the vav derivation.",
+      "second_heading": "Kal VeChomer",
+      "second_confidence": "high",
+      "second_reason": "Items 11-13 address whether the invalidation applies to terumah or marriage for Levite/Israelite women, culminating in the kal va-chomer argument about a woman eating terumah 'due to her son' being rejected, which matches the 'Kal VeChomer' prose about bishvil benah and the failure of the a fortiori argument.",
+      "current_heading": "Verse Source",
+      "moved": true
+    }
+  }
+]

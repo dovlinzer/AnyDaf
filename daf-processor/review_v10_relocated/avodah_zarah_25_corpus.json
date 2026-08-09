@@ -1,0 +1,452 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Sefer HaYashar Intro",
+    "candidates": [
+      "Sefer HaYashar Intro",
+      "Sefer HaYashar Identity",
+      "Ephraim Blessing Hint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi \u1e24iyya bar Abba's answer identifying the Book of Yashar as the book of Abraham, Isaac, and Jacob, which matches the prose of 'Sefer HaYashar Identity' exactly, not the introductory heading that only sets up the question.",
+      "chosen_heading": "Sefer HaYashar Identity",
+      "current_heading": "Sefer HaYashar Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Ephraim Blessing Hint",
+    "candidates": [
+      "Sefer HaYashar Identity",
+      "Ephraim Blessing Hint",
+      "Two Standing Moments",
+      "24-Hour Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses where the sun standing still for Joshua is hinted in Genesis, finding it in the Ephraim blessing ('v'zaro yihye mlo hagoyim'), which exactly matches the 'Ephraim Blessing Hint' section's prose.",
+      "chosen_heading": "Ephraim Blessing Hint",
+      "current_heading": "Ephraim Blessing Hint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "24-Hour Standing",
+    "candidates": [
+      "Two Standing Moments",
+      "24-Hour Standing",
+      "36-Hour Standing",
+      "48-Hour Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the full dispute about how long the sun stood still (24, 36, 48 hours and the alternative version), which is precisely what heading 0 ('Two Standing Moments') sets up with its closing question 'how long, in total, did it stand still?' \u2014 the subsequent headings each cover only one opinion, whereas the passage contains all opinions together as a unit.",
+      "chosen_heading": "Two Standing Moments",
+      "current_heading": "24-Hour Standing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "48-Hour Standing",
+    "candidates": [
+      "36-Hour Standing",
+      "48-Hour Standing",
+      "Tosefta Reinterpretation",
+      "Three Recipients",
+      "Gezera Shava Links"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shmuel bar Na\u1e25mani's view as forty-eight hours total with two equal standings of twenty-four hours each via a juxtaposition (makish) of suspension to motion \u2014 this matches the Tosefta reinterpretation section's description of his position as 'makish amida l'vi'ah, the standing at midday is equated with the standing at setting, both being twenty-four hours,' not the current section's description which attributes a different derivation (twelve plus twenty-four) to him.",
+      "chosen_heading": "Tosefta Reinterpretation",
+      "current_heading": "48-Hour Standing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Gezera Shava Links",
+    "candidates": [
+      "Tosefta Reinterpretation",
+      "Three Recipients",
+      "Gezera Shava Links",
+      "Shmuel bar Nachmani"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the gezera shava derivations (via 'acheil' and via 'teis') proving the sun stood still for Moshe \u2014 exactly what candidate 2 'Gezera Shava Links' describes in its prose.",
+      "chosen_heading": "Gezera Shava Links",
+      "current_heading": "Gezera Shava Links",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Shmuel bar Nachmani",
+    "candidates": [
+      "Shmuel bar Nachmani",
+      "Uniqueness Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shmuel bar Na\u1e25mani's argument that the verse itself proves the sun stood still for Moses, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Shmuel bar Nachmani",
+      "current_heading": "Shmuel bar Nachmani",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Uniqueness Challenge",
+    "candidates": [
+      "Uniqueness Challenge",
+      "Archery Teaching Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the uniqueness challenge from Joshua 10:14 and the two answers about hours and hailstones, which is precisely what the 'Uniqueness Challenge' prose section discusses.",
+      "chosen_heading": "Uniqueness Challenge",
+      "current_heading": "Uniqueness Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Archery Teaching Intro",
+    "candidates": [
+      "Archery Teaching Intro",
+      "Yochanan: Bereishit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents only the question 'What is the book of Yashar?' and Rabbi Yochanan's answer, which is the introductory setup described in the 'Archery Teaching Intro' prose, before the elaboration about where archery is hinted in Bereishit that belongs under 'Yochanan: Bereishit'.",
+      "chosen_heading": "Archery Teaching Intro",
+      "current_heading": "Archery Teaching Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Yochanan: Bereishit",
+    "candidates": [
+      "Yochanan: Bereishit",
+      "Eliezer: Devarim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the hint to archery found in Genesis 49:8 (Yaakov's blessing to Yehudah), which matches exactly the prose under 'Yochanan: Bereishit' describing how yadcha b'oref oyvecha alludes to the archer's draw.",
+      "chosen_heading": "Yochanan: Bereishit",
+      "current_heading": "Yochanan: Bereishit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Eliezer: Devarim",
+    "candidates": [
+      "Eliezer: Devarim",
+      "Shimon: Shoftim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's view that Sefer HaYashar is Deuteronomy (Mishneh Torah), explaining the 'yashar' connection via Deuteronomy 6:18 and the archery hint from Deuteronomy 33:7 ('his hands shall contend'), which matches exactly the content described in the 'Eliezer: Devarim' prose section.",
+      "chosen_heading": "Eliezer: Devarim",
+      "current_heading": "Eliezer: Devarim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Shimon: Shoftim",
+    "candidates": [
+      "Shimon: Shoftim",
+      "Portions Before Shaul",
+      "Yochanan: Shok-Alyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Shmuel bar Na\u1e25mani's identification of Sefer HaYashar with Judges and the derivation that the warfare verse refers to Judah, which is exactly what the 'Shimon: Shoftim' prose describes in detail.",
+      "chosen_heading": "Shimon: Shoftim",
+      "current_heading": "Shimon: Shoftim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Yochanan: Shok-Alyah",
+    "candidates": [
+      "Portions Before Shaul",
+      "Yochanan: Shok-Alyah",
+      "Eliezer: Shok-Chest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Yo\u1e25anan's interpretation that 'vehe'aleha' refers to the thigh and tail, with the explanation that the thigh supports the tail \u2014 matching precisely the prose of candidate 1 ('Yochanan: Shok-Alyah').",
+      "chosen_heading": "Yochanan: Shok-Alyah",
+      "current_heading": "Yochanan: Shok-Alyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Eliezer: Shok-Chest",
+    "candidates": [
+      "Eliezer: Shok-Chest",
+      "Shimon: Shok-Shufi",
+      "Woman Seclusion",
+      "Licentiousness vs Murder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rabbi Elazar's shok-chazeh interpretation and Rabbi Shmuel bar Na\u1e25mani's shok-shofi interpretation, but since the current heading (index 0) covers the Elazar/chazeh view and index 1 covers the Shmuel bar Na\u1e25mani/shufi view, and the passage contains both, the current placement (index 0) is the best single home as it is the first of the two views presented and the passage naturally leads into the next section.",
+      "chosen_heading": "Eliezer: Shok-Chest",
+      "current_heading": "Eliezer: Shok-Chest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Licentiousness vs Murder",
+    "candidates": [
+      "Shimon: Shok-Shufi",
+      "Woman Seclusion",
+      "Licentiousness vs Murder",
+      "Important Woman Status",
+      "Rav Idi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's analysis of the Mishna's ruling about a woman's seclusion with non-Jews \u2014 asking what scenario is meant, working through the yichud rules, and resolving with the wife-as-guardian distinction \u2014 which is precisely what the 'Woman Seclusion' prose describes.",
+      "chosen_heading": "Woman Seclusion",
+      "current_heading": "Licentiousness vs Murder",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rav Idi Position",
+    "candidates": [
+      "Important Woman Status",
+      "Rav Idi Position",
+      "Status Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage presents both Rabbi Yirmeya's and Rav Idi's responses together as a unit, but since candidate 0 ('Important Woman Status') covers the challenge about bloodshed and introduces Rabbi Yirmiyah's answer as the primary framing, and candidate 1 ('Rav Idi Position') is meant to separately elaborate on Rav Idi's view, the full Talmudic text (which contains both opinions) fits best under candidate 0 where the bloodshed challenge and Rabbi Yirmiyah's response are the lead content, with Rav Idi's brief statement serving as a secondary addendum rather than the main focus.",
+      "chosen_heading": "Important Woman Status",
+      "current_heading": "Rav Idi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Status Implications",
+    "candidates": [
+      "Status Implications",
+      "Positioning Rules",
+      "Weapon Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the practical difference between Rabbi Yirmiyah and Rav Idi bar Avin regarding a distinguished woman and the baraita supporting Rav Idi, which is precisely what the 'Status Implications' prose elaborates upon.",
+      "chosen_heading": "Status Implications",
+      "current_heading": "Status Implications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Weapon Placement",
+    "candidates": [
+      "Positioning Rules",
+      "Weapon Placement",
+      "Elevation Advantage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the general rule (toflo limino) and Rabbi Yishmael's elaboration on sword vs. stick positioning, which together form the complete baraita about road positioning \u2014 the prose under 'Positioning Rules' (index 0) explicitly introduces this entire baraita, while 'Weapon Placement' (index 1) was written as interpretive commentary on these same rules rather than as a separate heading for the source text itself.",
+      "chosen_heading": "Positioning Rules",
+      "current_heading": "Weapon Placement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Elevation Advantage",
+    "candidates": [
+      "Weapon Placement",
+      "Elevation Advantage",
+      "Avoidance Tactics",
+      "Yaakov Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses maintaining elevation advantage over a non-Jew on inclines/declines and not bending down, which matches the 'Elevation Advantage' section's prose about the Jew maintaining the higher position.",
+      "chosen_heading": "Elevation Advantage",
+      "current_heading": "Elevation Advantage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Yaakov Example",
+    "candidates": [
+      "Avoidance Tactics",
+      "Yaakov Example",
+      "Akiva Students Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Yaakov/Esau proof-text for the 'extend the destination' tactic \u2014 the verse stating Jacob said he would come to Seir and the follow-up verse showing he actually went to Succoth \u2014 which is precisely what the 'Yaakov Example' prose discusses.",
+      "chosen_heading": "Yaakov Example",
+      "current_heading": "Yaakov Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Akiva Students Story",
+    "candidates": [
+      "Akiva Students Story",
+      "Menasha & Cherem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rabbi Akiva's students traveling to Keziv and their encounter with bandits, which exactly matches the content discussed in the 'Akiva Students Story' prose section.",
+      "chosen_heading": "Akiva Students Story",
+      "current_heading": "Akiva Students Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Menasha & Cherem",
+    "candidates": [
+      "Menasha & Cherem",
+      "Weaver Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe Rav Menashe's journey, encounter with thieves, and his declaration of excommunication \u2014 exactly the content discussed in the 'Menasha & Cherem' prose section.",
+      "chosen_heading": "Menasha & Cherem",
+      "current_heading": "Menasha & Cherem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Weaver Curse",
+    "candidates": [
+      "Weaver Curse",
+      "Bavel vs EY Respect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the weaver who did not come to lift his curse and was eaten by a lion, directly matching the 'Weaver Curse' section's prose about this exact episode.",
+      "chosen_heading": "Weaver Curse",
+      "current_heading": "Weaver Curse",
+      "moved": false
+    }
+  }
+]

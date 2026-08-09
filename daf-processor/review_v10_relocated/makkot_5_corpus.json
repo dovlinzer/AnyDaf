@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Witnesses & Conspiracy",
+    "candidates": [
+      "Witnesses & Conspiracy",
+      "Hakhashah vs Hazamah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Mishnah's foundational statement and its 'how so?' illustration of edim zomemim vs. hakhashah, which is precisely what the 'Witnesses & Conspiracy' prose discusses in detail.",
+      "chosen_heading": "Witnesses & Conspiracy",
+      "current_heading": "Witnesses & Conspiracy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Hakhashah vs Hazamah",
+    "candidates": [
+      "Hakhashah vs Hazamah",
+      "Sheker in Testimony Core"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses cascading hazamah chains and Rabbi Yehuda's istatit ruling, which is exactly what the 'Hakhashah vs Hazamah' prose section describes in detail.",
+      "chosen_heading": "Hakhashah vs Hazamah",
+      "current_heading": "Hakhashah vs Hazamah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Sheker in Testimony Core",
+    "candidates": [
+      "Sheker in Testimony Core",
+      "Visibility Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items derive the core principle of hazamah from scriptural verses (Rav Adda and the school of Rabbi Yishmael), which is precisely what the 'Sheker in Testimony Core' prose discusses in detail.",
+      "chosen_heading": "Sheker in Testimony Core",
+      "current_heading": "Sheker in Testimony Core",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Visibility Test",
+    "candidates": [
+      "Visibility Test",
+      "Travel Distances"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's ruling about the building's east/west visibility and the Gemara's peshita/nahora barya exchange \u2014 are precisely the content described in the 'Visibility Test' prose section.",
+      "chosen_heading": "Visibility Test",
+      "current_heading": "Visibility Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Travel Distances",
+    "candidates": [
+      "Travel Distances",
+      "Flying Camel Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about traveling from Sura to Nehardea, which is exactly what the 'Travel Distances' prose describes, not the flying camel principle discussed in candidate 1.",
+      "chosen_heading": "Travel Distances",
+      "current_heading": "Travel Distances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Flying Camel Principle",
+    "candidates": [
+      "Flying Camel Principle",
+      "Defendant Guilty Other"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text about the 'flying camel' (gamla parcha) concern, which is precisely what the 'Flying Camel Principle' section's prose discusses and explains.",
+      "chosen_heading": "Flying Camel Principle",
+      "current_heading": "Flying Camel Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Defendant Guilty Other",
+    "candidates": [
+      "Defendant Guilty Other",
+      "Gmar Din Already Issued"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's ruling about witnesses who falsely testified about a murder on Sunday when it actually occurred on a different day, and the Gemara's challenge from the mishna \u2014 directly correspond to the 'Defendant Guilty Other' prose, which explicitly discusses this exact case of edim zomemim testifying about a murder that did occur but on a different day, and the subsequent question of 'mai ka mashma lan' from the mishna.",
+      "chosen_heading": "Defendant Guilty Other",
+      "current_heading": "Defendant Guilty Other",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Gmar Din Already Issued",
+    "candidates": [
+      "Gmar Din Already Issued",
+      "Knas & Final Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case where witnesses testify about a final verdict (gmar din) and the ruling that such zomemim are not executed because 'at the time they testified the man was already liable to be executed,' which is precisely what the 'Gmar Din Already Issued' section's prose describes.",
+      "chosen_heading": "Gmar Din Already Issued",
+      "current_heading": "Gmar Din Already Issued",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Knas & Final Rulings",
+    "candidates": [
+      "Knas & Final Rulings",
+      "Rabbi Yehuda: Only First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the knas (fine) application of hazamah \u2014 exactly the content described in candidate 0's prose about meshalmin vs. ein meshalmin based on whether gmar din had occurred at the time of testimony.",
+      "chosen_heading": "Knas & Final Rulings",
+      "current_heading": "Knas & Final Rulings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabbi Yehuda: Only First",
+    "candidates": [
+      "Rabbi Yehuda: Only First",
+      "Rava's Clarification",
+      "Bilvad & Kasya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's mishna statement about istatit and only the first group being executed, which is exactly what the 'Rabbi Yehuda: Only First' section's prose discusses.",
+      "chosen_heading": "Rabbi Yehuda: Only First",
+      "current_heading": "Rabbi Yehuda: Only First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Bilvad & Kasya",
+    "candidates": [
+      "Rava's Clarification",
+      "Bilvad & Kasya",
+      "Woman Case Intro",
+      "Reish Lakish & Chazakah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Clarification",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Abbahu's answer about 'already executed' and the istatit challenge, which is the setup that leads into Rava's clarification discussed in candidate 0's prose.",
+      "second_heading": "Bilvad & Kasya",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the bilvad/kasya exchange that candidate 1's prose describes in detail \u2014 Rava's formulation, the tension with 'bilvad,' and the unresolved kashya.",
+      "current_heading": "Bilvad & Kasya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Reish Lakish & Chazakah",
+    "candidates": [
+      "Woman Case Intro",
+      "Reish Lakish & Chazakah",
+      "Rabbi Elazar's Objection",
+      "Rabbi Yochanan Intervenes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers the full narrative arc \u2014 the woman's multiple sets of witnesses, Reish Lakish's ruling, and Rabbi Elazar's objection \u2014 which maps best to the introductory 'Woman Case Intro' heading that sets up the entire scenario, though the current placement under 'Reish Lakish & Chazakah' is also defensible since the dispute content dominates.",
+      "chosen_heading": "Woman Case Intro",
+      "current_heading": "Reish Lakish & Chazakah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rabbi Yochanan Intervenes",
+    "candidates": [
+      "Rabbi Elazar's Objection",
+      "Rabbi Yochanan Intervenes",
+      "Known vs Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact episode of Rabbi Yochanan intervening with the same objection as Rabbi Elazar, Reish Lakish's angry reaction upon realizing Rabbi Elazar had cited Rabbi Yochanan without attribution, and his rebuke \u2014 all of which is precisely what the prose under 'Rabbi Yochanan Intervenes' describes.",
+      "chosen_heading": "Rabbi Yochanan Intervenes",
+      "current_heading": "Rabbi Yochanan Intervenes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Known vs Future",
+    "candidates": [
+      "Known vs Future",
+      "Timing of Execution",
+      "Tzedukim's View",
+      "Nefesh Tachat Nefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical unit \u2014 the Gemara's suggestion that the Reish Lakish/Rabbi Yochanan dispute maps onto Rabbi Yehuda/Rabanan, followed by each Amora's rebuttal showing their position holds even within the opposing Tanna's framework \u2014 which is precisely what the 'Known vs Future' prose describes in detail.",
+      "chosen_heading": "Known vs Future",
+      "current_heading": "Known vs Future",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Nefesh Tachat Nefesh",
+    "candidates": [
+      "Timing of Execution",
+      "Tzedukim's View",
+      "Nefesh Tachat Nefesh",
+      "Kal Vachomer Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah establishing that edim zomemim are executed only after gmar din (not after actual hariga as Tzedukim say, and not as early as kabbalat edut), which is precisely what heading 0 'Timing of Execution' describes in its prose.",
+      "chosen_heading": "Timing of Execution",
+      "current_heading": "Nefesh Tachat Nefesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Kal Vachomer Limits",
+    "candidates": [
+      "Nefesh Tachat Nefesh",
+      "Kal Vachomer Limits",
+      "Tavai Executes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous Gemara passage about ein onshin min ha-din (no punishment from a fortiori inference), exactly matching the 'Kal Vachomer Limits' prose which describes this same exchange between Tana be-ribbi and his father, the incest proof-text, and the extensions to malkot and galut via gezeirah shavah.",
+      "chosen_heading": "Kal Vachomer Limits",
+      "current_heading": "Kal Vachomer Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Tavai Executes",
+    "candidates": [
+      "Tavai Executes",
+      "Shetach Rebukes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda ben Tabbai's oath about executing a conspiring witness to counter Sadducean doctrine, which exactly matches the 'Tavai Executes' section's prose about that same act and motivation.",
+      "chosen_heading": "Tavai Executes",
+      "current_heading": "Tavai Executes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Shetach Rebukes",
+    "candidates": [
+      "Shetach Rebukes",
+      "Tavai's Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Shimon ben Shetach's rebuke to Yehuda ben Tavai citing the halachic rule about both witnesses needing to be proven zomemim, which is exactly what the 'Shetach Rebukes' prose describes.",
+      "chosen_heading": "Shetach Rebukes",
+      "current_heading": "Shetach Rebukes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Tavai's Repentance",
+    "candidates": [
+      "Tavai's Repentance",
+      "Rav Acha's Comment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tavai's Repentance",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rabbi Yehuda ben Tavai's repentance, prostration on the grave, and the voice heard by the people \u2014 exactly what heading 0 ('Tavai's Repentance') discusses.",
+      "second_heading": "Rav Acha's Comment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Acha berei de-Rava's comment to Rav Ashi about why the voice might cease, which is precisely what heading 1 ('Rav Acha's Comment') covers.",
+      "current_heading": "Tavai's Repentance",
+      "moved": true
+    }
+  }
+]

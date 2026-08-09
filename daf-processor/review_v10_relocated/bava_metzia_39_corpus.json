@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbi Eliezer Drasha",
+    "candidates": [
+      "Fruit & Captive Parallel",
+      "Rabbi Eliezer Drasha",
+      "Possession vs. Working",
+      "Rav Sheshet Ruling",
+      "Rav Amram Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Rabbi Eliezer Drasha' prose: the wives seeking to remarry and courts not allowing them, children wishing to take the father's property and courts not allowing them, followed by Rava's distinction about descending and selling \u2014 all of which the prose explicitly describes as belonging to this section.",
+      "chosen_heading": "Rabbi Eliezer Drasha",
+      "current_heading": "Rabbi Eliezer Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Amram Challenge",
+    "candidates": [
+      "Possession vs. Working",
+      "Rav Sheshet Ruling",
+      "Rav Amram Challenge",
+      "Captive Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts exactly what candidate 2 describes: Rav Amram challenging Rav Sheshet's ruling, the elephant-through-eye-of-needle retort, and Rav Sheshet's substantive parallel argument about wives and children \u2014 all of which is the specific content discussed in the 'Rav Amram Challenge' prose.",
+      "chosen_heading": "Rav Amram Challenge",
+      "current_heading": "Rav Amram Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Captive Braita",
+    "candidates": [
+      "Captive Braita",
+      "Netushin Retushin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Captive Braita",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the shevuyin and netushin categories with the Rabban Shimon ben Gamliel dispute, which is exactly what the 'Captive Braita' prose discusses.",
+      "second_heading": "Netushin Retushin",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover the retushin category and the Gemara's terminological question distinguishing netushin from retushin, which is precisely what the 'Netushin Retushin' prose discusses.",
+      "current_heading": "Captive Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Netushin Retushin",
+    "candidates": [
+      "Netushin Retushin",
+      "All as Aris"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the semantic distinction between *netushin* and *retushin* using the two biblical verses, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Netushin Retushin",
+      "current_heading": "Netushin Retushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "All as Aris",
+    "candidates": [
+      "All as Aris",
+      "Captive vs. Overseas",
+      "Psychology of Aris"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of 'v'kulan shamnin k'aris' \u2014 questioning which category it applies to and resolving that netushin is k'shvuyin v'lo shvuyin \u2014 which is precisely what the 'All as Aris' section's prose describes.",
+      "chosen_heading": "All as Aris",
+      "current_heading": "All as Aris",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Psychology of Aris",
+    "candidates": [
+      "Captive vs. Overseas",
+      "Psychology of Aris",
+      "Minor Wife Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer unit that heading 1 ('Psychology of Aris') explicitly describes: the Gemara asks how the netushin/aris case differs from the standard husband-wife nichsei milog rule (item 1), and then answers that it is actually parallel to the minor-wife case (item 2), which is precisely the discussion the prose of heading 1 narrates.",
+      "chosen_heading": "Psychology of Aris",
+      "current_heading": "Psychology of Aris",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Minor Wife Case",
+    "candidates": [
+      "Minor Wife Case",
+      "Murder Suspect Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage asks what additional case the phrase 'for all of them the court appraises as a sharecropper' serves to include, which directly relates to the netushin/aris framework discussed extensively in the 'Minor Wife Case' prose, though the connection to the Murder Suspect Case prose is not strong enough to warrant moving it.",
+      "chosen_heading": "Minor Wife Case",
+      "current_heading": "Minor Wife Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Murder Suspect Case",
+    "candidates": [
+      "Murder Suspect Case",
+      "Ready Harvest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Nachman's ruling about a captive vs. one who left voluntarily, and the fugitive (boreach) being treated like a captive \u2014 exactly what the 'Murder Suspect Case' prose describes.",
+      "chosen_heading": "Murder Suspect Case",
+      "current_heading": "Murder Suspect Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Ready Harvest",
+    "candidates": [
+      "Ready Harvest",
+      "Tax vs. Murder",
+      "Apotropus Limits",
+      "Rav Huna Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the court appointing a steward for a captive who left ripe produce, then authorizing a relative \u2014 exactly what the 'Ready Harvest' prose describes \u2014 and the apotropus-for-adults point is already folded into that section's discussion rather than being the focus of a separate section.",
+      "chosen_heading": "Ready Harvest",
+      "current_heading": "Ready Harvest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav Huna Ban",
+    "candidates": [
+      "Tax vs. Murder",
+      "Apotropus Limits",
+      "Rav Huna Ban",
+      "Brother Exploit Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's statement of the three prohibitions, and the 'Rav Huna Ban' section's prose directly introduces and describes exactly these three rules.",
+      "chosen_heading": "Rav Huna Ban",
+      "current_heading": "Rav Huna Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Brother Exploit Risk",
+    "candidates": [
+      "Brother Exploit Risk",
+      "Chazaka Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three rules about not authorizing a minor, a relative-due-to-relative, and a relative to descend to property \u2014 precisely the content that the 'Brother Exploit Risk' prose elaborates and analyzes in detail.",
+      "chosen_heading": "Brother Exploit Risk",
+      "current_heading": "Brother Exploit Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Chazaka Fails",
+    "candidates": [
+      "Chazaka Fails",
+      "Mother-Side Exception",
+      "Houses & Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly state and elaborate the principle that chazaka does not apply to a minor's property (ein machzikin b'nichsei katan) and that this holds even after the minor reaches majority \u2014 exactly what the 'Chazaka Fails' prose discusses.",
+      "chosen_heading": "Chazaka Fails",
+      "current_heading": "Chazaka Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Houses & Documents",
+    "candidates": [
+      "Mother-Side Exception",
+      "Houses & Documents",
+      "Restrictions Absolute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly introduces the distinctions between paternal vs maternal brothers, land vs houses, and with vs without a document of division \u2014 precisely the content described in the 'Houses & Documents' prose, which summarizes these as live distinctions being raised (before the Gemara rejects them in the next section).",
+      "chosen_heading": "Houses & Documents",
+      "current_heading": "Houses & Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Restrictions Absolute",
+    "candidates": [
+      "Restrictions Absolute",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's conclusory rejection of all distinctions (lo hi, lo shena, lo machtinan), which matches exactly the 'Restrictions Absolute' prose describing that same sweeping rejection.",
+      "chosen_heading": "Restrictions Absolute",
+      "current_heading": "Restrictions Absolute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Abaye First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the case setup and Abaye's initial framing of the dilemma (the two problematic options), which matches the 'Case Setup' prose that describes the scenario and the question of what arrangement to make, before Abaye's solution is elaborated in the next section.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Abaye First",
+    "candidates": [
+      "Abaye First",
+      "Rava Counter",
+      "After Death News",
+      "Final Thirds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's ruling (palga yahavinan lah l'achata, apotropus for the other half) and Rava's counter (migu de-mokminan apotropus le-palga), but the current placement under 'Abaye First' is where this Gemara text belongs since it presents the initial dispute between Abaye and Rava, matching the prose of section 0 which describes exactly this exchange \u2014 and section 1 ('Rava Counter') is just the essay author's prose explanation of Rava's position already embedded in this same quoted passage.",
+      "chosen_heading": "Abaye First",
+      "current_heading": "Abaye First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Final Thirds",
+    "candidates": [
+      "Rava Counter",
+      "After Death News",
+      "Final Thirds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage opens with the news of the grandmother's death ('lsof shemu de-shachiva savta'), which directly matches heading 1's prose about learning the grandmother had died, and then continues with Abaye's and Rava's rulings \u2014 but since the passage covers both the death-news trigger and the subsequent thirds-division ruling together as one continuous unit, heading 1 ('After Death News') is the better anchor point as it introduces the scenario that the entire passage addresses, whereas heading 2 ('Final Thirds') is where it currently sits and also discusses the same content; however, given that heading 1's prose explicitly describes the death-news arrival and sets up the recalculation while heading 2's prose elaborates the Abaye/Rava dispute in detail, and the passage text itself begins with the death news and then gives Abaye's and Rava's full rulings, the current placement under 'Final Thirds' is actually the better fit for the bulk of the passage's content.",
+      "chosen_heading": "After Death News",
+      "current_heading": "Final Thirds",
+      "moved": true
+    }
+  }
+]

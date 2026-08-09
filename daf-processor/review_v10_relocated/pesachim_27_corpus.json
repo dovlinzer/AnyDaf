@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Setup: Orlah/Kilayim",
+    "candidates": [
+      "Setup: Orlah/Kilayim",
+      "New Oven Hardening",
+      "Old Oven Treatment",
+      "Rebbi: Bread Assur",
+      "Chachamim: Bread Mutar",
+      "Continued Benefit Logic",
+      "Coals Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about an oven fired with orlah peels or kilayei ha-kerem straw and gives the new/old oven rulings in summary, which matches the Setup section's prose that introduces this exact Tosefta and its cases, before the subsequent headings analyze the new and old oven distinctions separately.",
+      "chosen_heading": "Setup: Orlah/Kilayim",
+      "current_heading": "Setup: Orlah/Kilayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Coals Permitted",
+    "candidates": [
+      "New Oven Hardening",
+      "Old Oven Treatment",
+      "Rebbi: Bread Assur",
+      "Chachamim: Bread Mutar",
+      "Continued Benefit Logic",
+      "Coals Permitted",
+      "Nisrafim Principle",
+      "Oven & Fire Join"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the dispute between Rebbi and Chachamim about baked bread plus the coals ruling, and candidate 2 ('Rebbi: Bread Assur') is where this Tosefta text begins \u2014 it encompasses the full machloket including the coals provision that follows naturally from it, and the prose of candidate 2 directly introduces this exact Tosefta passage.",
+      "chosen_heading": "Rebbi: Bread Assur",
+      "current_heading": "Coals Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Oven & Fire Join",
+    "candidates": [
+      "Nisrafim Principle",
+      "Oven & Fire Join",
+      "Sourdough: Eliezer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oven & Fire Join",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the contradiction between the two baraitot about the oven by attributing them to Rabbi vs. Rabbanan, which is precisely the discussion described in the 'Oven & Fire Join' prose.",
+      "second_heading": "Sourdough: Eliezer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 challenges that resolution and pivots to the zeh va-zeh gorem question, concluding with 'ela lo kashya: ha Rabbi Eliezer, ha Rabbanan' \u2014 exactly the transition into the sourdough/Rabbi Eliezer dispute described in the 'Sourdough: Eliezer' prose.",
+      "current_heading": "Oven & Fire Join",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Sourdough: Eliezer",
+    "candidates": [
+      "Sourdough: Eliezer",
+      "Abaye: Issur Present"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sourdough: Eliezer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna about sourdough leaven with Rabbi Eliezer's 'follow the last' ruling and the Rabbis' position, which is precisely what heading 0's prose describes.",
+      "second_heading": "Abaye: Issur Present",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Abaye's reinterpretation that Rabbi Eliezer is lenient only when the issur was removed first, concluding zeh va-zeh gorem is assur \u2014 exactly what heading 1's prose discusses.",
+      "current_heading": "Sourdough: Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Abaye: Issur Present",
+    "candidates": [
+      "Abaye: Issur Present",
+      "Avodah Zarah Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge to Abaye's interpretation of Rabbi Eliezer's reason in the sourdough case, which is precisely what the 'Abaye: Issur Present' prose section describes and analyzes.",
+      "chosen_heading": "Abaye: Issur Present",
+      "current_heading": "Abaye: Issur Present",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Avodah Zarah Mishna",
+    "candidates": [
+      "Avodah Zarah Mishna",
+      "Attributing Position",
+      "Braita Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the mishna in Avodah Zarah about asheira wood \u2014 the oven ruling and the bread/commingling dispute with Rabbi Eliezer \u2014 which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "Avodah Zarah Mishna",
+      "current_heading": "Avodah Zarah Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Braita Authority",
+    "candidates": [
+      "Attributing Position",
+      "Braita Authority",
+      "Pots vs. Ovens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's objection that Rabbi Eliezer's stringency was heard only regarding Avodah Zarah (d'chamir issura) and questions whether it extends to other prohibitions, which is precisely what candidate 0's prose discusses \u2014 including the eimur de-shamat lei challenge and its practical relevance \u2014 whereas candidate 1's prose discusses the Gemara's responses/rebuttals to that objection, which come after this passage.",
+      "chosen_heading": "Attributing Position",
+      "current_heading": "Braita Authority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Pots vs. Ovens",
+    "candidates": [
+      "Braita Authority",
+      "Pots vs. Ovens",
+      "Two Text Versions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the zeh va-zeh gorem analysis of ovens, pots, bowls/cups/flasks \u2014 exactly the content described in the 'Pots vs. Ovens' prose, which explicitly covers Abaye's framing, the kderot/khosot/tzluchiyot question, the ki pligi be-tannur u-kedeirah dispute, and the ika de-amrei qualification about the pot receiving cooking before permitted wood is added.",
+      "chosen_heading": "Pots vs. Ovens",
+      "current_heading": "Pots vs. Ovens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Two Text Versions",
+    "candidates": [
+      "Two Text Versions",
+      "Shmuel's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's version of the baraita (with Rabbi permitting and Rabbis forbidding) and the challenge that it contradicts the reverse version, which is precisely what the 'Two Text Versions' section discusses \u2014 the inverted girsa as Shmuel transmitted it.",
+      "chosen_heading": "Two Text Versions",
+      "current_heading": "Two Text Versions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Shmuel's Problem",
+    "candidates": [
+      "Shmuel's Problem",
+      "Reversing Text",
+      "Whispering Coals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains exactly why Shmuel reversed the Braita text \u2014 to align the majority (Rabbanan) with the stringent ruling \u2014 which is precisely what the 'Reversing Text' section's prose discusses in detail.",
+      "chosen_heading": "Reversing Text",
+      "current_heading": "Shmuel's Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Whispering Coals",
+    "candidates": [
+      "Reversing Text",
+      "Whispering Coals",
+      "Raging Flame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rav Yehuda/Shmuel and Rabbi \u1e24iyya bar Ashi/Rabbi Yo\u1e25anan about dim versus glowing coals, which is precisely what the 'Whispering Coals' section's prose discusses.",
+      "chosen_heading": "Whispering Coals",
+      "current_heading": "Whispering Coals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Raging Flame",
+    "candidates": [
+      "Raging Flame",
+      "Chachamim Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the puzzle of where Rebbi's prohibition applies according to the lenient opinion, and Rav Pappa's answer of 'avuka ke-negdo,' which is precisely what the 'Raging Flame' section's prose explains and analyzes.",
+      "chosen_heading": "Raging Flame",
+      "current_heading": "Raging Flame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Chachamim Logic",
+    "candidates": [
+      "Chachamim Logic",
+      "Hekdesh Non-Batel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Chachamim's inference (michlal), their permission even with a flame opposite, and Rav Ami bar \u1e24ama's answer about the stool (shashifa), all of which are explicitly addressed in the 'Chachamim Logic' prose.",
+      "chosen_heading": "Chachamim Logic",
+      "current_heading": "Chachamim Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Hekdesh Non-Batel",
+    "candidates": [
+      "Hekdesh Non-Batel",
+      "Me'ilah Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of hekdesh wood in an oven, the Rabbis' ruling that the bread is forbidden, and Rava's explanation that hekdesh is non-batel even in one thousand \u2014 all of which precisely matches the 'Hekdesh Non-Batel' prose description.",
+      "chosen_heading": "Hekdesh Non-Batel",
+      "current_heading": "Hekdesh Non-Batel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Me'ilah Doctrine",
+    "candidates": [
+      "Me'ilah Doctrine",
+      "Shelamim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's me'ilah objection \u2014 that misusing consecrated firewood transfers it to non-sacred status \u2014 which is precisely what the 'Me'ilah Doctrine' prose discusses in detail.",
+      "chosen_heading": "Me'ilah Doctrine",
+      "current_heading": "Me'ilah Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Shelamim Exception",
+    "candidates": [
+      "Shelamim Exception",
+      "Ashes Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Pappa's answer about wood consecrated for shelamim and Rabbi Yehuda's position on intentional vs. unintentional misuse, which is precisely what the 'Shelamim Exception' prose elaborates in detail.",
+      "chosen_heading": "Shelamim Exception",
+      "current_heading": "Shelamim Exception",
+      "moved": false
+    }
+  }
+]

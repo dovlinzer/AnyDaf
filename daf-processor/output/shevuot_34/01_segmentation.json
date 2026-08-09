@@ -34,7 +34,7 @@
           "timestamp": "01:18"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 28,
       "matched": true
     },
     {
@@ -135,7 +135,7 @@
           "timestamp": "16:28"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -303,7 +303,7 @@
           "timestamp": "54:27"
         }
       ],
-      "sefaria_index": 35,
+      "sefaria_index": 33,
       "matched": true
     },
     {
@@ -332,7 +332,7 @@
           "timestamp": "58:24"
         }
       ],
-      "sefaria_index": 43,
+      "sefaria_index": 41,
       "matched": true
     }
   ],
@@ -627,5 +627,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22
+  "amud_b_sefaria_index": 22,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "38:01",
+  "amud_b_micro_title": "Pillar Scenario",
+  "shiur_start_daf": 34,
+  "shiur_start_amud": "a"
 }

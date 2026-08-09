@@ -1,0 +1,203 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Yochanan vs. Lakish",
+    "candidates": [
+      "Intro: Silver to Gold",
+      "Yochanan vs. Lakish",
+      "Borrowing Gold Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why the Beit Hillel/Beit Shammai dispute is framed as sela-coins-for-dinars rather than produce-for-dinars, which is precisely the content described in the 'Yochanan vs. Lakish' section prose about why the debate is cast in terms of silver to gold rather than fruit to gold.",
+      "chosen_heading": "Yochanan vs. Lakish",
+      "current_heading": "Yochanan vs. Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Borrowing Gold Issue",
+    "candidates": [
+      "Borrowing Gold Issue",
+      "Exception Model",
+      "Three Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the Gemara's argument concluding that Rabbi Yo\u1e25anan holds 'one does not desacralize' based on his ruling about borrowing gold dinars, which is precisely what the 'Borrowing Gold Issue' prose describes.",
+      "chosen_heading": "Borrowing Gold Issue",
+      "current_heading": "Borrowing Gold Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Three Scenarios",
+    "candidates": [
+      "Exception Model",
+      "Three Scenarios",
+      "Money-to-Money Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the rejection of the proof distinguishing loans from maaser sheni, the corroborating tradition from Ravin/Rabbi Yochanan, and the copper perutot baraita with its rebuttal \u2014 are precisely the content described in candidate 0's prose about the 'Exception Model,' where maaser sheni is carved out as an exception from the gold-borrowing prohibition, supported by Ravin's transmission and the copper coins argument.",
+      "chosen_heading": "Exception Model",
+      "current_heading": "Three Scenarios",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Money-to-Money Theory",
+    "candidates": [
+      "Three Scenarios",
+      "Money-to-Money Theory",
+      "Refutation: Copper Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the *lishna achrina* reformulation of the Rabbi Yochanan/Resh Lakish dispute, reframing the Beit Shammai/Beit Hillel debate around 'first money vs. second money' and the sub-dispute about whether fruit-to-gold is also contested \u2014 exactly the content described in the 'Money-to-Money Theory' prose, which is also where it currently sits.",
+      "chosen_heading": "Money-to-Money Theory",
+      "current_heading": "Money-to-Money Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Refutation: Copper Case",
+    "candidates": [
+      "Refutation: Copper Case",
+      "Gezeirah Theory",
+      "Fruit Rots Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items constitute the continuous chain of challenges and responses about the coin-to-coin theory that heading 0's prose explicitly describes: the silver-to-silver framing question (items 1-2), the Jerusalem exchange mishna and Rava's distinction (items 3-4), and the conclusive outside-Jerusalem proof (item 5).",
+      "chosen_heading": "Refutation: Copper Case",
+      "current_heading": "Refutation: Copper Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Fruit Rots Exception",
+    "candidates": [
+      "Gezeirah Theory",
+      "Fruit Rots Exception",
+      "Chalipin Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items belong to the 'Fruit Rots Exception' / gezeirah discussion: items 1-3 present the two versions of the Yochanan/Shimon ben Lakish dispute about sela-for-dinar vs. produce-for-dinar, and item 4 is the closing textual difficulty (bishlama/kashya) about lo ya'ase vs. ein mechallelin \u2014 all of which the Fruit Rots Exception prose explicitly covers in detail.",
+      "chosen_heading": "Fruit Rots Exception",
+      "current_heading": "Fruit Rots Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Chalipin Concept",
+    "candidates": [
+      "Chalipin Concept",
+      "Rav vs. Levi",
+      "Stamp Theory",
+      "Mishnah Analysis",
+      "Gold-Silver Asymmetry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Pappa's explanation (mishum d'da'atei atzurata v'tzurata avida d'batela) about why a coin cannot serve as chalipin, which is precisely what the 'Stamp Theory' section's prose discusses and analyzes.",
+      "chosen_heading": "Stamp Theory",
+      "current_heading": "Chalipin Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Gold-Silver Asymmetry",
+    "candidates": [
+      "Rav vs. Levi",
+      "Stamp Theory",
+      "Mishnah Analysis",
+      "Gold-Silver Asymmetry",
+      "Language of Ownership",
+      "Sale Not Barter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "All five items form a continuous chain of argumentation centered on the gold-silver asymmetry proving the mishna describes a sale not a chalipin swap, which is precisely what candidate 3's prose describes.",
+      "chosen_heading": "Gold-Silver Asymmetry",
+      "current_heading": "Gold-Silver Asymmetry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Sale Not Barter",
+    "candidates": [
+      "Language of Ownership",
+      "Sale Not Barter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's resolution ('le'olam bedamim') explaining that b'chol makom shehu refers to payment terms rather than ownership, with the new/old purse example\u2014exactly what the 'Sale Not Barter' prose describes.",
+      "chosen_heading": "Sale Not Barter",
+      "current_heading": "Sale Not Barter",
+      "moved": false
+    }
+  }
+]

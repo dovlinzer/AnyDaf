@@ -1,0 +1,437 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishna on Tam/Muad",
+    "candidates": [
+      "Opening",
+      "Mishna on Tam/Muad",
+      "Meaning of Aliya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the distinction between tam (half damages from the body) and muad (full damages from aliya), which is exactly what the 'Mishna on Tam/Muad' section discusses.",
+      "chosen_heading": "Mishna on Tam/Muad",
+      "current_heading": "Mishna on Tam/Muad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Meaning of Aliya",
+    "candidates": [
+      "Meaning of Aliya",
+      "Chizkiyahu Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines 'aliya' as 'the superior-quality items of his property,' which is exactly what the 'Meaning of Aliya' section's prose discusses.",
+      "chosen_heading": "Meaning of Aliya",
+      "current_heading": "Meaning of Aliya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Chizkiyahu Burial",
+    "candidates": [
+      "Chizkiyahu Burial",
+      "Zanim & Spices",
+      "Fragrances Dispute",
+      "Zona & Pit",
+      "Stumbling Blocks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chizkiyahu Burial",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about Hezekiah's burial and Rabbi Elazar's interpretation of 'bema'ale', which is exactly what the 'Chizkiyahu Burial' prose discusses as support for the reading of aliya.",
+      "second_heading": "Zanim & Spices",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the burial of Asa with besamim/zenim, the dispute between Rabbi Elazar and Rabbi Shmuel bar Nahmani about zona vs. eishet ish, and the pit/lamut resolutions \u2014 all of which are discussed under 'Zanim & Spices', 'Fragrances Dispute', and 'Zona & Pit' headings, with item 2 matching 'Zanim & Spices' as the transition point into the aggadic excursus.",
+      "current_heading": "Chizkiyahu Burial",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Stumbling Blocks",
+    "candidates": [
+      "Zanim & Spices",
+      "Fragrances Dispute",
+      "Zona & Pit",
+      "Stumbling Blocks",
+      "Sefer Torah Honor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rava's homiletical interpretation of Jeremiah 18:23 about causing stumbling through unworthy charity recipients, which is precisely what the 'Stumbling Blocks' section prose discusses in detail.",
+      "chosen_heading": "Stumbling Blocks",
+      "current_heading": "Stumbling Blocks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Sefer Torah Honor",
+    "candidates": [
+      "Sefer Torah Honor",
+      "Grave Learning Duration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses establishing a yeshiva at Hezekiah's grave as an honor in death, which directly matches the 'Sefer Torah Honor' section's prose about this exact verse and practice.",
+      "chosen_heading": "Sefer Torah Honor",
+      "current_heading": "Sefer Torah Honor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Grave Learning Duration",
+    "candidates": [
+      "Grave Learning Duration",
+      "Chizkiyahu Procession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rabbi Natan and the Rabbis about the duration of the yeshiva at the grave (three, seven, or thirty days), which is precisely what the 'Grave Learning Duration' prose discusses.",
+      "chosen_heading": "Grave Learning Duration",
+      "current_heading": "Grave Learning Duration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Chizkiyahu Procession",
+    "candidates": [
+      "Chizkiyahu Procession",
+      "Sefer Torah Honor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover the full debate \u2014 Rabbi Yehuda's claim about the 36,000, Rabbi Ne\u1e25emya's objection about Ahab, and the resolution about the Torah scroll \u2014 which is exactly what Candidate 0 ('Chizkiyahu Procession') discusses in its prose, covering the entire arc from the procession number through the distinctive honor of placing the sefer Torah on the bier.",
+      "chosen_heading": "Chizkiyahu Procession",
+      "current_heading": "Chizkiyahu Procession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Sefer Torah Honor",
+    "candidates": [
+      "Sefer Torah Honor",
+      "R. Yochanan Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question and answer about what distinguished Hezekiah's honor (taking out the Torah scroll, laying it on the bier, and making the declaration), which is exactly what the 'Sefer Torah Honor' prose section is discussing.",
+      "chosen_heading": "Sefer Torah Honor",
+      "current_heading": "Sefer Torah Honor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "R. Yochanan Story",
+    "candidates": [
+      "R. Yochanan Story",
+      "Learning vs. Doing",
+      "Teaching Hierarchy",
+      "Torah & Chasadim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact content discussed in the 'Learning vs. Doing' prose: item 1 is Rabbi Yochanan's answer about 'kiyem' vs. 'limmed,' and item 2 is the Gemara's challenge from 'gadol talmud Torah' and its resolution \u2014 precisely what candidate 1's prose describes as the core of that section.",
+      "chosen_heading": "Learning vs. Doing",
+      "current_heading": "R. Yochanan Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Torah & Chasadim",
+    "candidates": [
+      "Learning vs. Doing",
+      "Teaching Hierarchy",
+      "Torah & Chasadim",
+      "Perek Structure",
+      "Regel Muad Definition",
+      "Regel Examples",
+      "Behema & Chickens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The prose under 'Torah & Chasadim' directly describes and interprets this exact passage \u2014 Rabbi Yochanan's teaching on Torah and gmilus chasadim, the decoding of sowing/water, the Joseph/Issachar connections, and the closing link back to regel \u2014 matching all four items precisely.",
+      "chosen_heading": "Torah & Chasadim",
+      "current_heading": "Torah & Chasadim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Behema & Chickens",
+    "candidates": [
+      "Perek Structure",
+      "Regel Muad Definition",
+      "Regel Examples",
+      "Behema & Chickens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage 'Hadraran alecha arba'ah avot' is the closing formula for a tractate chapter, which would naturally appear at the end of the last substantive section of the perek \u2014 the 'Behema & Chickens' section that concludes the discussion of the second chapter's content.",
+      "chosen_heading": "Behema & Chickens",
+      "current_heading": "Behema & Chickens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Behema & Chickens",
+    "candidates": [
+      "Behema & Chickens",
+      "Redundancy Question",
+      "Av vs. Toladah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Behema & Chickens",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishna text covering regel, behema, and chickens, which candidate 0's prose explicitly discusses as the abstract principle, behema examples, and tarnagol examples.",
+      "second_heading": "Redundancy Question",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the Gemara's opening question (Ravina to Rava: hainu regel hainu behema) which candidate 1's prose explicitly addresses as the redundancy question, with candidate 2 covering Rava's av/toladah answer \u2014 but since item 4 contains both the question and the answer, candidate 1 is the better fit as the start of that Gemara unit.",
+      "current_heading": "Behema & Chickens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Av vs. Toladah",
+    "candidates": [
+      "Redundancy Question",
+      "Av vs. Toladah",
+      "Follow-up Questions",
+      "Chaya vs. Behema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's challenge about the Shein/Behema clause having no apparent av/toladah structure, and Rava's humorous deflection \u2014 which is precisely what candidate 2's prose describes as the Gemara pressing further on the shein structure.",
+      "chosen_heading": "Follow-up Questions",
+      "current_heading": "Av vs. Toladah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Chaya vs. Behema",
+    "candidates": [
+      "Follow-up Questions",
+      "Chaya vs. Behema",
+      "Literary Structure",
+      "Direct Body Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Literary Structure' prose: Rav Ashi's answer about chaya vs. behema, the question of ordering (derived case before explicit), the chaviva leh principle, the distinction between parallel avot vs. genuine av-toladah hierarchy, and the eidi de-salik me-regel patach be-regel alternative \u2014 all of which the 'Literary Structure' section describes in detail, while the current placement under 'Chaya vs. Behema' only covers items 1-2 and misses items 3-4.",
+      "chosen_heading": "Literary Structure",
+      "current_heading": "Chaya vs. Behema",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Direct Body Cases",
+    "candidates": [
+      "Literary Structure",
+      "Direct Body Cases",
+      "Donkey Burden",
+      "Sumchus Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full baraita including body damage, saddle/saddlebag/bell components, donkey burden, and Sumakhos's statement, and the current heading 'Direct Body Cases' prose explicitly discusses all these elements of the baraita in sequence.",
+      "chosen_heading": "Direct Body Cases",
+      "current_heading": "Direct Body Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Sumchus Disputes",
+    "candidates": [
+      "Donkey Burden",
+      "Sumchus Disputes",
+      "Tzrorot Payment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sumchus Disputes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly discuss Sumakhos's dispute about the pig rooting in the garbage heap and the corrected baraita reading about tzrorot and half-damages, which is precisely what both 'Sumchus Disputes' and 'Tzrorot Payment' prose cover \u2014 but items 1-2 are the Gemara's initial question and the corrected baraita reading that leads into the tzrorot payment discussion, matching 'Sumchus Disputes' prose most closely since that section explicitly describes the Gemara's initial objection and the pig-scattering scenario.",
+      "second_heading": "Tzrorot Payment",
+      "second_confidence": "medium",
+      "second_reason": "Item 3, the baraita about chickens flying and propelling pebbles with their wings, introduces a new set of cases (chickens/tzrorot) that illustrates the half-damages vs. full-damages debate and fits under 'Tzrorot Payment' which discusses the broader principle of chatzi nezek tzrorot and Sumakhos's dispute over it.",
+      "current_heading": "Sumchus Disputes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Tzrorot Payment",
+    "candidates": [
+      "Tzrorot Payment",
+      "Chicken Wings",
+      "Jumping Chickens",
+      "Wind Damage",
+      "Zav Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wind Damage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the third baraita about a chicken flying and wind breaking vessels paying half damages \u2014 exactly what heading 3 ('Wind Damage') describes as 'stama kerabanan, anonymous and consistent with the majority position.'",
+      "second_heading": "Zav Analogy",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 are Rava's challenge about kocho kegufo and his resolution that chatzi nezek tzrorot is hilcheta gemiri lah \u2014 precisely what heading 4 ('Zav Analogy') describes in its prose before introducing the zav principle.",
+      "current_heading": "Tzrorot Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Zav Analogy",
+    "candidates": [
+      "Chicken Wings",
+      "Jumping Chickens",
+      "Wind Damage",
+      "Zav Analogy",
+      "Calf & Wagon",
+      "Scattered Pebbles",
+      "Supporting Braita",
+      "Bucket Rope"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Zav Analogy",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rava's zav-analogy principle and the Gemara's question about whether it is novel (answered by the calf-and-cart case), which matches exactly the 'Zav Analogy' prose discussing Rava's principle and the tzrorot/kocho difficulty.",
+      "second_heading": "Supporting Braita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the supporting baraita enumerating full-damage cases including the calf pulling a cart, which matches exactly the 'Supporting Braita' prose describing 'tanya k'vashei d'Rava' and its enumeration of gufo cases culminating in the calf-and-wagon ruling.",
+      "current_heading": "Zav Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Bucket Rope",
+    "candidates": [
+      "Calf & Wagon",
+      "Scattered Pebbles",
+      "Supporting Braita",
+      "Bucket Rope",
+      "Pending Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the braita about chickens pecking a bucket rope, which is exactly what the 'Bucket Rope' section's prose discusses.",
+      "chosen_heading": "Bucket Rope",
+      "current_heading": "Bucket Rope",
+      "moved": false
+    }
+  }
+]

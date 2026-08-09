@@ -1,0 +1,273 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Pure Oil Setup",
+    "candidates": [
+      "Pure Oil Setup",
+      "R. Yehuda View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about vessel absorption and the responses of Rav Nachman (coated with pitch) and Abaye (once saturated, stays saturated), which is precisely what the 'Pure Oil Setup' prose describes.",
+      "chosen_heading": "Pure Oil Setup",
+      "current_heading": "Pure Oil Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "R. Yehuda View",
+    "candidates": [
+      "R. Yehuda View",
+      "Waiver Objection",
+      "Price Doctrine",
+      "R. Pappa Counter"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "R. Yehuda View",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yehuda's ruling and Abaye's derivation that mixing sediment is permitted according to Rabbi Yehuda \u2014 exactly the content described in the 'R. Yehuda View' prose.",
+      "second_heading": "Waiver Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the waiver objection (midelo arvat li acholei achalta li) and the homeowner answer \u2014 precisely the content described in the 'Waiver Objection' prose.",
+      "current_heading": "R. Yehuda View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "R. Pappa Counter",
+    "candidates": [
+      "Waiver Objection",
+      "Price Doctrine",
+      "R. Pappa Counter",
+      "Ptitin Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Price Doctrine",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yehuda's 'hadamim modiyim' principle and the tzemed mishna, which directly match the 'Price Doctrine' prose discussion of how Rabbi Yehuda uses price to interpret transactions rather than inferring mechila.",
+      "second_heading": "R. Pappa Counter",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Abaye's elaboration and Rav Pappa's ipkha misstabra counter-argument about whether chachamim or Rabbi Yehuda permit mixing sediment, which exactly matches the 'R. Pappa Counter' prose discussion.",
+      "current_heading": "R. Pappa Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Ptitin Parallel",
+    "candidates": [
+      "Ptitin Parallel",
+      "Cloudiness Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the rule applying equally to a buyer and a depositor (echad haloke'ach v'echad hamafkid) with regard to piktim/residue, which is precisely what the 'Ptitin Parallel' prose describes.",
+      "chosen_heading": "Ptitin Parallel",
+      "current_heading": "Ptitin Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Cloudiness Loss",
+    "candidates": [
+      "Cloudiness Loss",
+      "Seasonal Pricing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rabbi Yehuda's ruling that the cloudiness loss falls only on the seller and that the buyer accepts sediment 'without residue,' which is precisely the content described in the 'Cloudiness Loss' section prose.",
+      "chosen_heading": "Cloudiness Loss",
+      "current_heading": "Cloudiness Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Seasonal Pricing",
+    "candidates": [
+      "Seasonal Pricing",
+      "No Designation",
+      "Letzorko Distinction",
+      "Return & Release",
+      "Designated Place"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly resolves the contradiction about cloudiness liability by distinguishing Tishrei vs. Nisan pricing and delivery, which is precisely what the 'Seasonal Pricing' prose describes.",
+      "chosen_heading": "Seasonal Pricing",
+      "current_heading": "Seasonal Pricing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Designated Place",
+    "candidates": [
+      "No Designation",
+      "Letzorko Distinction",
+      "Return & Release",
+      "Designated Place",
+      "R. Yochanan Q",
+      "R. Yishmael View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself (MISHNA: ha-mafkid chavit...), which is introduced and summarized by the prose under heading 0 'No Designation' \u2014 that section explicitly quotes and contextualizes this exact Mishnah text.",
+      "chosen_heading": "No Designation",
+      "current_heading": "Designated Place",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "R. Yishmael View",
+    "candidates": [
+      "R. Yochanan Q",
+      "R. Yishmael View",
+      "Three Categories",
+      "Still Holding",
+      "Hitting as Kinyan"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Hitting as Kinyan",
+    "candidates": [
+      "Three Categories",
+      "Still Holding",
+      "Hitting as Kinyan",
+      "Rav/Levi Debate",
+      "No Chisaron"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav/Levi debate over whether shlichus yad requires chisaron and resolves it through the shepherd/staff case, which is precisely what heading 3 ('Rav/Levi Debate') describes in its prose.",
+      "chosen_heading": "Rav/Levi Debate",
+      "current_heading": "Hitting as Kinyan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "No Chisaron",
+    "candidates": [
+      "Rav/Levi Debate",
+      "No Chisaron",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the textual basis for why the Torah mentions shlichus yad twice (for shomer chinam and shomer sachar), the kal v'chomer argument, its refutation via kefel, and the response karna b'lo shvuah \u2014 exactly the content described in the 'No Chisaron' prose section.",
+      "chosen_heading": "No Chisaron",
+      "current_heading": "No Chisaron",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Rava's Logic",
+      "Oath Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's argument \u2014 the kal v'chomer from sho'el and the explanation of why the Torah states shlichus yad explicitly for both bailees \u2014 which is precisely what the 'Rava's Logic' prose describes in detail.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Rava's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Oath Requirement",
+    "candidates": [
+      "Oath Requirement",
+      "Negligent Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why two mentions of shlichus yad are needed according to the view requiring chisaron, with item 1 introducing the question and item 2 answering that the second mention establishes the oath requirement via gezeirah shavah \u2014 exactly the content described in the 'Oath Requirement' prose.",
+      "chosen_heading": "Oath Requirement",
+      "current_heading": "Oath Requirement",
+      "moved": false
+    }
+  }
+]

@@ -68,7 +68,7 @@
           "timestamp": "09:31"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "25:04"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -498,5 +498,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "36:39",
+  "amud_b_micro_title": "Donkey Urine",
+  "shiur_start_daf": 6,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Lowering Method",
+    "candidates": [
+      "Heights Over Twenty",
+      "Lowering Method",
+      "Raising Floor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the question 'how much must one diminish it?' and gives only the initial literal answer 'the amount that he needs' \u2014 this matches precisely the prose of heading 0 ('Heights Over Twenty'), which describes exactly this opening question and initial response, before the deeper discussion of lowering method begins in heading 1.",
+      "chosen_heading": "Heights Over Twenty",
+      "current_heading": "Lowering Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Raising Floor",
+    "candidates": [
+      "Lowering Method",
+      "Raising Floor",
+      "Rav Yosef vs Abaye",
+      "Two Models",
+      "Mechitzah Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the question 'how wide must the raised section be' which is precisely the setup question that the 'Raising Floor' section's prose describes \u2014 asking how far into the mavoi the raised platform must extend \u2014 before the answer (Rav Yosef vs Abaye) is given in the next section.",
+      "chosen_heading": "Raising Floor",
+      "current_heading": "Raising Floor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Mechitzah Model",
+    "candidates": [
+      "Rav Yosef vs Abaye",
+      "Two Models",
+      "Mechitzah Model",
+      "Front vs Back Edge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's suggestion that Rav Yosef and Abaye's dispute (one tefach vs. four tefachim) reflects the deeper question of whether one is permitted to use the space beneath the korah, which is precisely what the prose under 'Rav Yosef vs Abaye' describes.",
+      "chosen_heading": "Rav Yosef vs Abaye",
+      "current_heading": "Mechitzah Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Front vs Back Edge",
+    "candidates": [
+      "Mechitzah Model",
+      "Front vs Back Edge",
+      "Visibility vs Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states the dispute between heker (conspicuous marker) and mechitzah (partition) models, which is precisely what candidate 2 ('Visibility vs Wall') discusses in its prose.",
+      "chosen_heading": "Visibility vs Wall",
+      "current_heading": "Front vs Back Edge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Visibility vs Wall",
+    "candidates": [
+      "Front vs Back Edge",
+      "Visibility vs Wall",
+      "Visibility Distance",
+      "Preventive Measure",
+      "Pit Digging",
+      "Pit Depth Debate",
+      "Broken Mavoi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the alternative explanation that all agree korah functions as heker but they disagree about whether the visibility standard below (heker shemata) equals the visibility standard above (heker shemala), which is precisely what the 'Visibility Distance' section's prose describes.",
+      "chosen_heading": "Visibility Distance",
+      "current_heading": "Visibility vs Wall",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Broken Mavoi",
+    "candidates": [
+      "Visibility Distance",
+      "Preventive Measure",
+      "Pit Digging",
+      "Pit Depth Debate",
+      "Broken Mavoi",
+      "Courtyard Opening"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Preventive Measure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the 'gezeirah shema yifchos' (lest it erode) explanation, which matches 'Preventive Measure' prose exactly \u2014 the fourth ve'iba'it eima about a precautionary decree requiring four tefachim as a buffer against erosion.",
+      "second_heading": "Pit Depth Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the pit-digging case (korah less than ten tefachim, hollowing out ground), the Rav Yosef/Abaye dispute about four tefachim vs. four amos, the Rabbi Ami/Rabbi Assi ruling about a breached mavoi, and Abaye's distinction between sof mavoi and techilat mavoi \u2014 all of which match 'Pit Depth Debate' prose which explicitly covers this same dispute and its connection to Rabbi Ami and Rabbi Assi.",
+      "current_heading": "Broken Mavoi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Courtyard Opening",
+    "candidates": [
+      "Broken Mavoi",
+      "Courtyard Opening",
+      "Length Exceeds Width",
+      "Corner Opening",
+      "Lechi Transition",
+      "Lechi Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous argument: Abaye's proof from the baraita that chatzeirot must open into the mavoi (item 1), his challenge that four tefachim is too short for this (item 2), Rav Nachman's rule that length must exceed width (item 3), and Rav Yosef's corner-opening rebuttal (item 4) \u2014 exactly what the 'Courtyard Opening' prose describes.",
+      "chosen_heading": "Courtyard Opening",
+      "current_heading": "Courtyard Opening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Lechi Status",
+    "candidates": [
+      "Length Exceeds Width",
+      "Corner Opening",
+      "Lechi Transition",
+      "Lechi Status",
+      "Lechi Placement",
+      "Omed Meruba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form Abaye's proof from Rami bar Chama's ruling and Rav Yosef's rebuttal \u2014 exactly the content described in the 'Lechi Transition' prose, which discusses Abaye adducing this proof and Rav Yosef's distinction between the two questions.",
+      "chosen_heading": "Lechi Transition",
+      "current_heading": "Lechi Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Omed Meruba",
+    "candidates": [
+      "Lechi Placement",
+      "Omed Meruba",
+      "Wall Requirements",
+      "Length Width"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion of Rami bar \u1e24ama's ruling about a protruding side post \u2014 covering the initial ruling (items 1-2), the question of where to place the additional lechi (item 3), Rav Pappa's and Rav Huna son of Rav Yehoshua's answers about placement (item 4), and the omed meruba qualification (item 5) \u2014 and candidate 0 ('Lechi Placement') explicitly discusses this entire chain including the placement problem and Rav Pappa's solution, making it a clearly better match than candidate 1 which discusses only the later qualifications.",
+      "chosen_heading": "Lechi Placement",
+      "current_heading": "Omed Meruba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Length Width",
+    "candidates": [
+      "Wall Requirements",
+      "Length Width",
+      "Kal Vachomer",
+      "Break Sizes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the kal vachomer argument from chatzer to mavoi regarding omed meruba al haparutz, which is precisely what the 'Kal Vachomer' section's prose describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Length Width",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Break Sizes",
+    "candidates": [
+      "Kal Vachomer",
+      "Break Sizes",
+      "Rav Huna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's refutation of the kal vachomer by pointing out that a mavoi is stricter than a chatzer regarding breach sizes (four handbreadths vs. ten cubits), which is exactly what the 'Break Sizes' prose section discusses.",
+      "chosen_heading": "Break Sizes",
+      "current_heading": "Break Sizes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Rav Huna Position",
+    "candidates": [
+      "Rav Huna Position",
+      "Eight Amos Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Huna son of Rav Yehoshua stating his own independent view versus Rav Huna's position, which is precisely what the prose under 'Rav Huna Position' describes.",
+      "chosen_heading": "Rav Huna Position",
+      "current_heading": "Rav Huna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Eight Amos Rule",
+    "candidates": [
+      "Eight Amos Rule",
+      "Measurement Doubt",
+      "Safek Relaxation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's direct statement about the eight-amah alleyway not requiring an additional lechi, which is precisely what the 'Eight Amos Rule' prose describes, making the current placement correct.",
+      "chosen_heading": "Eight Amos Rule",
+      "current_heading": "Eight Amos Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Safek Relaxation",
+    "candidates": [
+      "Measurement Doubt",
+      "Safek Relaxation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the principle that when two measurements are exactly equal it constitutes a safek d'rabbanan and one rules leniently, which directly matches the 'Safek Relaxation' prose about safek divreihem l'hakel applying to this doubt.",
+      "chosen_heading": "Safek Relaxation",
+      "current_heading": "Safek Relaxation",
+      "moved": false
+    }
+  }
+]

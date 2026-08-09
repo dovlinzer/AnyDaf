@@ -24,8 +24,8 @@
           "timestamp": "00:43"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Muktzah le-Avodah Zarah: Definition and Sources",
@@ -528,5 +528,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "13:31",
+  "amud_b_micro_title": "Clarification",
+  "shiur_start_daf": 29,
+  "shiur_start_amud": "a"
 }

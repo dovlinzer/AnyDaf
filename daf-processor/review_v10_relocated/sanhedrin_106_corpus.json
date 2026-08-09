@@ -1,0 +1,504 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro & Vayasem Davar",
+    "candidates": [
+      "Intro & Vayasem Davar",
+      "Angel vs. Hook Debate",
+      "Reversing the Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the angel vs. hook debate (Rabbi Elazar/Rabbi Yonatan on vayasem davar), which is exactly what candidate 1 'Angel vs. Hook Debate' describes in its prose.",
+      "chosen_heading": "Angel vs. Hook Debate",
+      "current_heading": "Intro & Vayasem Davar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Reversing the Blessings",
+    "candidates": [
+      "Angel vs. Hook Debate",
+      "Reversing the Blessings",
+      "Curses Reverted: Knesset"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Yochanan passage about reversing Balaam's intended curses into blessings, which is precisely what the 'Reversing the Blessings' section prose describes in detail, working through the same sequence of metaphors.",
+      "chosen_heading": "Reversing the Blessings",
+      "current_heading": "Reversing the Blessings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Curses Reverted: Knesset",
+    "candidates": [
+      "Curses Reverted: Knesset",
+      "Beloved's Wounds vs Enemy",
+      "Reed vs Cedar Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Abba bar Kahana's statement that all blessings reverted to curses except synagogues and study halls, with the singular 'kelalah' interpretation \u2014 exactly what the prose under 'Curses Reverted: Knesset' describes.",
+      "chosen_heading": "Curses Reverted: Knesset",
+      "current_heading": "Curses Reverted: Knesset",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Reed vs Cedar Metaphor",
+    "candidates": [
+      "Beloved's Wounds vs Enemy",
+      "Reed vs Cedar Metaphor",
+      "Bilam Addresses Keini"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete passage about Ahijah's curse via the reed vs. Balaam's blessing via the cedar, which is precisely what candidate 0 ('Beloved's Wounds vs Enemy') introduces with the same Proverbs verse and the same Rabbi Shmuel bar Na\u1e25mani/Rabbi Yonatan teaching \u2014 candidate 1's prose already summarizes this content in detail, suggesting the passage was misplaced there when it actually belongs under candidate 0 where the topic is first introduced.",
+      "chosen_heading": "Beloved's Wounds vs Enemy",
+      "current_heading": "Reed vs Cedar Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Bilam Addresses Keini",
+    "candidates": [
+      "Reed vs Cedar Metaphor",
+      "Bilam Addresses Keini",
+      "Three Counselors Plot",
+      "Yitro's Escape & Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Balaam's address to Yitro the Kenite, asking rhetorically why he merited greatness despite being part of the counsel, which is precisely what the 'Bilam Addresses Keini' section's prose describes.",
+      "chosen_heading": "Bilam Addresses Keini",
+      "current_heading": "Bilam Addresses Keini",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Yitro's Escape & Reward",
+    "candidates": [
+      "Three Counselors Plot",
+      "Yitro's Escape & Reward",
+      "Keini Parable",
+      "Woe & Lion Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three counselors (Bilam, Iyov, and Yitro) together as a unit, matching the 'Three Counselors Plot' heading's prose which introduces exactly this Gemara about the three participants, whereas the current placement under 'Yitro's Escape & Reward' only covers part of the passage's content.",
+      "chosen_heading": "Three Counselors Plot",
+      "current_heading": "Yitro's Escape & Reward",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Woe & Lion Metaphor",
+    "candidates": [
+      "Keini Parable",
+      "Woe & Lion Metaphor",
+      "Assyria Ever Kittim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'oy mi yichye' verse with Rabbi Shimon ben Lakish's and Rabbi Yochanan's interpretations plus the lion metaphor, which is precisely what the 'Woe & Lion Metaphor' section's prose describes.",
+      "chosen_heading": "Woe & Lion Metaphor",
+      "current_heading": "Woe & Lion Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Assyria Ever Kittim",
+    "candidates": [
+      "Assyria Ever Kittim",
+      "Bilam's Real Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's interpretation of 'ships from Kittim,' the Roman legion (libbun aspir), and the distinction between killing and enslaving Assyria/Eber \u2014 exactly what the prose in candidate 0 addresses in detail.",
+      "chosen_heading": "Assyria Ever Kittim",
+      "current_heading": "Assyria Ever Kittim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Bilam's Real Advice",
+    "candidates": [
+      "Bilam's Real Advice",
+      "Marketplace Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Balaam's phrasing ('this people' vs 'your people') and Rabbi Abba bar Kahana's explanation about self-cursing, which is explicitly addressed in the 'Bilam's Real Advice' prose section.",
+      "chosen_heading": "Bilam's Real Advice",
+      "current_heading": "Bilam's Real Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Marketplace Setup",
+    "candidates": [
+      "Marketplace Setup",
+      "Gradual Seduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Balaam's advice to set up the marketplace with curtains, prostitutes, and linen garments for sale \u2014 exactly the 'Marketplace Setup' content, not the gradual seduction sequence described in candidate 1.",
+      "chosen_heading": "Marketplace Setup",
+      "current_heading": "Marketplace Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Gradual Seduction",
+    "candidates": [
+      "Gradual Seduction",
+      "Idol Worship Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the physical setup of the enclosures, the old and young women, and the linen garment pretext with repeated discounted offers \u2014 exactly the content discussed in the 'Gradual Seduction' prose section.",
+      "chosen_heading": "Gradual Seduction",
+      "current_heading": "Gradual Seduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Idol Worship Test",
+    "candidates": [
+      "Idol Worship Test",
+      "Baal Peor Plague",
+      "Shittim Name Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the seduction sequence \u2014 the wine, the inflamed passion, and the idol worship demand \u2014 which is precisely what candidate 0's prose details step by step, making the current placement correct.",
+      "chosen_heading": "Idol Worship Test",
+      "current_heading": "Idol Worship Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Shittim Name Debate",
+    "candidates": [
+      "Baal Peor Plague",
+      "Shittim Name Debate",
+      "Refidim Weakness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi Eliezer/Rabbi Yehoshua disputes about Shittim and the seduction verse, which the 'Shittim Name Debate' prose explicitly describes as a unit covering both the place-name debate and the dispute about the nature of the seduction.",
+      "chosen_heading": "Shittim Name Debate",
+      "current_heading": "Shittim Name Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Refidim Weakness",
+    "candidates": [
+      "Refidim Weakness",
+      "Fornication Begins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Eliezer and Rabbi Yehoshua about the meaning of 'Rephidim,' which is precisely what the 'Refidim Weakness' section prose describes.",
+      "chosen_heading": "Refidim Weakness",
+      "current_heading": "Refidim Weakness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Fornication Begins",
+    "candidates": [
+      "Fornication Begins",
+      "Bilam Seeks Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yo\u1e25anan's teaching that 'vayeshev' is a lashon tza'ar, with the exact examples discussed in the prose under 'Fornication Begins,' including Shittim, Jacob/Joseph, Goshen/Israel's death, and Judah/Israel/Hadad.",
+      "chosen_heading": "Fornication Begins",
+      "current_heading": "Fornication Begins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Bilam Seeks Payment",
+    "candidates": [
+      "Bilam Seeks Payment",
+      "Camel's Horn Parable",
+      "Prophet to Magician"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yo\u1e25anan's statement about Balaam seeking payment and Mar Zutra bar Toviya's camel adage as a single Talmudic unit, and the current heading 'Bilam Seeks Payment' with its prose covers the entire passage including both elements, while candidate 1 is a separate prose section that elaborates on just the camel parable after the fact.",
+      "chosen_heading": "Bilam Seeks Payment",
+      "current_heading": "Bilam Seeks Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Prophet to Magician",
+    "candidates": [
+      "Camel's Horn Parable",
+      "Prophet to Magician",
+      "Four Deaths of Bilam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Balaam being called 'diviner' rather than 'prophet,' Rabbi Yo\u1e25anan's statement about his demotion from prophet to diviner, and Rav Pappa's folk adage about descent from nobility ending in disgrace \u2014 all of which match exactly the prose of candidate 1 ('Prophet to Magician').",
+      "chosen_heading": "Prophet to Magician",
+      "current_heading": "Prophet to Magician",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Four Deaths of Bilam",
+    "candidates": [
+      "Four Deaths of Bilam",
+      "Bilam's Age at Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's statement about the four executions of Bilam, which is precisely what the 'Four Deaths of Bilam' section prose describes.",
+      "chosen_heading": "Four Deaths of Bilam",
+      "current_heading": "Four Deaths of Bilam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Bilam's Age at Death",
+    "candidates": [
+      "Bilam's Age at Death",
+      "Doeg's Name Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Bilam \u2014 his age at death and the instruction to expound his wickedness \u2014 and the prose under heading 0 explicitly discusses both the min/Rabbi \u1e24anina exchange and Mar brei deRavina's teaching about Bilam the wicked.",
+      "chosen_heading": "Bilam's Age at Death",
+      "current_heading": "Bilam's Age at Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Doeg's Name Meaning",
+    "candidates": [
+      "Doeg's Name Meaning",
+      "Scholar Contradictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the two spellings of Doeg's name through Rabbi Yo\u1e25anan's interpretation of divine concern and lament, which is precisely what the 'Doeg's Name Meaning' section prose discusses.",
+      "chosen_heading": "Doeg's Name Meaning",
+      "current_heading": "Doeg's Name Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Scholar Contradictions",
+    "candidates": [
+      "Scholar Contradictions",
+      "Learning Without Heart"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mnemonic, Rabbi Yitz\u1e25ak on 'mighty one boasting of evil' (Doeg), and Rabbi Yitz\u1e25ak/Rabbi Ami on 'the wicked declaring God's statutes' \u2014 are explicitly discussed together in candidate 0's prose about Doeg as a scholar who contradicts Torah through his actions, making the current placement correct.",
+      "chosen_heading": "Scholar Contradictions",
+      "current_heading": "Scholar Contradictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Learning Without Heart",
+    "candidates": [
+      "Learning Without Heart",
+      "David's Petition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yitz\u1e25ak's interpretation of 'the righteous shall see, and fear, and shall laugh at him' is directly quoted and discussed in the 'Learning Without Heart' section's prose, which explicitly references this same verse and interpretation about fearing Doeg's bad example and then laughing at his downfall.",
+      "chosen_heading": "Learning Without Heart",
+      "current_heading": "Learning Without Heart",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "David's Petition",
+    "candidates": [
+      "David's Petition",
+      "Lost Greatness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Yitz\u1e25ak's statements about David's petitions regarding Doeg's fate, which are explicitly discussed in candidate 0's prose covering exactly these exchanges about Doeg's death, World-to-Come, Torah legacy, and descendants.",
+      "chosen_heading": "David's Petition",
+      "current_heading": "David's Petition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Lost Greatness",
+    "candidates": [
+      "Lost Greatness",
+      "Questions vs Answers",
+      "Heart Over Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Doeg's extraordinary scholarly abilities (counting letters, weighing a fortiori arguments, 300 decided halachot about a floating cupboard), which directly matches the 'Lost Greatness' section's prose about Doeg's remarkable mastery and how such greatness was lost.",
+      "chosen_heading": "Lost Greatness",
+      "current_heading": "Lost Greatness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Heart Over Knowledge",
+    "candidates": [
+      "Questions vs Answers",
+      "Heart Over Knowledge",
+      "Three Destructive Angels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rava's challenge about raising dilemmas vs. resolving them, the comparison of Rav Yehudah's generation to later ones in breadth of study, the lesson that God seeks the heart over intellectual prowess, and Rav Mesharshiyya/Mar Zutra's discussion of Doeg and Ahithophel failing to reach halachic conclusions due to lack of fear of God \u2014 are explicitly discussed together in the 'Heart Over Knowledge' prose, which directly quotes and explains each of these passages in sequence.",
+      "chosen_heading": "Heart Over Knowledge",
+      "current_heading": "Heart Over Knowledge",
+      "moved": false
+    }
+  }
+]

@@ -84,9 +84,7 @@ One further difficulty with the *mishnah*'s ruling remains: why is *lo shevuah l
 
 ### Zeh Chomer
 
-The *mishnah* summarizes: *zeh chomer b'shevuot mib'nedarim* — this is the stringency of *shevuah* over *neder*. The cases just discussed — where the same linguistic formulations are binding when expressed as a *shevuah* but not when expressed as a *neder* — illustrate one dimension of this stringency. But there is also an earlier and more fundamental contrast. When the *mishnah* earlier taught that *shevuah she'aini yashen, she'aini medaber, she'aini mehalech — assur*, this too reflects a stringency of *shevuah* over *neder* — not because a *neder* on such matters fails entirely (for *konam she'ani mehalech* is indeed binding), but because the *shevuah* is biblically binding, whereas the *neder* on abstract actions — on walking, speaking, sleeping, things that are not physical objects — is only rabbinically binding. Biblical versus rabbinic: that is the weight of the contrast in the earlier formulations.
-
----
+The *mishnah* now turns to summarize the contrasts developed so far. *Zeh chomer b'shevuot mib'nedarim* — this is the stringency of *shevuah* over *neder*: the cases just examined, where formulations such as *korban she'okhal* and *lo okhal* bind as a *shevuah* but not as a *neder*, illustrate how *shevuah* can be the stricter category. But the *mishnah* immediately pivots: *v'chomer b'nedarim mib'shevuot* — and there is also a stringency of *neder* over *shevuah*. This is the idea the discussion has been building toward, and the *mishnah* now arrives at it directly: *keitsad?*
 
 ## Neder Stricter
 

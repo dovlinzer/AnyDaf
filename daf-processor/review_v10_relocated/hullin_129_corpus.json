@@ -1,0 +1,460 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ever vs. Basar Status",
+    "candidates": [
+      "Ever vs. Basar Status",
+      "Cut Then Designate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the specific baraita case of severing flesh and then designating it (chatcho ve'ach kach chishev alav = tahor), which is precisely what the 'Cut Then Designate' prose section discusses.",
+      "chosen_heading": "Cut Then Designate",
+      "current_heading": "Ever vs. Basar Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Cut Then Designate",
+    "candidates": [
+      "Ever vs. Basar Status",
+      "Cut Then Designate",
+      "Assi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states 'chishev alav ve'achar kach chatcho tamei' (designated first, then cut = impure), which is precisely the second case described in the 'Cut Then Designate' prose section about the sequence of designation and severance determining tumah status.",
+      "chosen_heading": "Cut Then Designate",
+      "current_heading": "Cut Then Designate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Assi's Challenge",
+    "candidates": [
+      "Assi's Challenge",
+      "Zeira's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Assi's challenge \u2014 he cites the baraita and raises the tumas beis hastarim difficulty \u2014 which is precisely what the 'Assi's Challenge' prose describes, before Rabbi Zeira's answer is given.",
+      "chosen_heading": "Assi's Challenge",
+      "current_heading": "Assi's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Zeira's Answer",
+    "candidates": [
+      "Zeira's Answer",
+      "Assi's Second Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records Rabbi Zeira telling Rabbi Asi that this question troubled him too and that Rabbi Abba bar Memel answered it by attributing the baraita to Rabbi Meir's position on tumas beis hastarim, which is precisely what the prose under 'Zeira's Answer' describes.",
+      "chosen_heading": "Zeira's Answer",
+      "current_heading": "Zeira's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Assi's Second Objection",
+    "candidates": [
+      "Assi's Second Objection",
+      "Rava's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Asi telling Rabbi Zeira that he has heard this answer before and rejected it because Rabbi Meir differentiates between impurity requiring hechsher and impurity not requiring it \u2014 exactly the content described in 'Assi's Second Objection' prose.",
+      "chosen_heading": "Assi's Second Objection",
+      "current_heading": "Assi's Second Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rava's Principle",
+    "candidates": [
+      "Rava's Principle",
+      "Alternative Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rava resolving the difficulty by suggesting the meat was rendered susceptible before being severed, which matches exactly the prose of candidate 0 describing Rava's response that one can posit the meat came into contact with liquid before being cut away.",
+      "chosen_heading": "Rava's Principle",
+      "current_heading": "Rava's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Alternative Principle",
+    "candidates": [
+      "Alternative Principle",
+      "Identity Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba bar Rav \u1e24anan's question to Rava about why hechsher is needed given the meat's severe tumah status from its limb \u2014 exactly the 'Alternative Principle' that candidate 0's prose describes.",
+      "chosen_heading": "Alternative Principle",
+      "current_heading": "Alternative Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Identity Change",
+    "candidates": [
+      "Identity Change",
+      "Hardened Dough Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that the flesh 'performed the role of wood' when it served the limb, which is precisely what the 'Identity Change' section's prose discusses and analyzes.",
+      "chosen_heading": "Identity Change",
+      "current_heading": "Identity Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Hardened Dough Case",
+    "candidates": [
+      "Hardened Dough Case",
+      "Abaye's Question",
+      "Ma'aseh Etz Response",
+      "Avodah Zarah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the complete hardened leaven case \u2014 item 1 states the ruling and item 2 gives Abaye's question plus the ma'aseh etz response \u2014 and the current heading 'Hardened Dough Case' with its prose about kupat se'or designated as a seat is the best match, even though the sub-points of Abaye's question and the ma'aseh etz response have their own headings; the passage as a whole belongs under the primary case heading where it currently sits.",
+      "chosen_heading": "Hardened Dough Case",
+      "current_heading": "Hardened Dough Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Avodah Zarah Case",
+    "candidates": [
+      "Abaye's Question",
+      "Ma'aseh Etz Response",
+      "Avodah Zarah Case",
+      "Food in Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's argument about food offerings to avodah zarah imparting tumah be'ohel and the Gemara's response that the food functioned as wood (not food) when serving as an idolatrous offering, which exactly matches the 'Avodah Zarah Case' prose.",
+      "chosen_heading": "Avodah Zarah Case",
+      "current_heading": "Avodah Zarah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Food in Vessels",
+    "candidates": [
+      "Food in Vessels",
+      "Fat/Kidney Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of foods connected to vessels (chiburei ochlin ke-keilim) and Abaye's argument about their impurity being rabbinic, which precisely matches the 'Food in Vessels' section's prose.",
+      "chosen_heading": "Food in Vessels",
+      "current_heading": "Food in Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Fat/Kidney Case",
+    "candidates": [
+      "Fat/Kidney Case",
+      "Seeds/Roof Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the fat/kidney case \u2014 item 1 raises Rav Pappa's question about chelev neveila requiring hechsher, and item 2 gives the resolution (keshe-shimesh ma'aseh etz shimesh), which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Fat/Kidney Case",
+      "current_heading": "Fat/Kidney Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Seeds/Roof Case",
+    "candidates": [
+      "Seeds/Roof Case",
+      "Shimon's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Mattana's ruling about a house roofed with seeds becoming pure and the subsequent debate about whether that impurity is biblical or rabbinic, which matches exactly the Seeds/Roof Case prose describing Rav Masna's fifth case with the same arguments and the ma'eitz shimesh resolution.",
+      "chosen_heading": "Seeds/Roof Case",
+      "current_heading": "Seeds/Roof Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Shimon's Case",
+    "candidates": [
+      "Shimon's Case",
+      "Yochanan's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Shimon's ruling of tahor, the Gemara's 'whichever way you look at it' challenge, and the resolution that Rabbi Shimon refers to the first clause of the Mishnah \u2014 are precisely the content described in the 'Shimon's Case' prose.",
+      "chosen_heading": "Shimon's Case",
+      "current_heading": "Shimon's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Yochanan's Explanation",
+    "candidates": [
+      "Yochanan's Explanation",
+      "Zeira's Counter",
+      "Tree Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yochanan's explanation of Rabbi Shimon's reasoning from the verse 'mikol ha'ochel asher ye'achel,' which is precisely what candidate 0 ('Yochanan's Explanation') is about.",
+      "chosen_heading": "Yochanan's Explanation",
+      "current_heading": "Yochanan's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Tree Analogy",
+    "candidates": [
+      "Zeira's Counter",
+      "Tree Analogy",
+      "Shechita Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Zeira's counter-argument \u2014 item 1 raises the 'me'ura me'ura' alternative explanation and item 2 supplies the fig-branch baraita as its supporting proof \u2014 which is exactly what candidate 0 ('Zeira's Counter') describes, whereas candidate 1 ('Tree Analogy') describes the conclusion drawn from this argument rather than the argument itself.",
+      "chosen_heading": "Zeira's Counter",
+      "current_heading": "Tree Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Shechita Blood",
+    "candidates": [
+      "Tree Analogy",
+      "Shechita Blood",
+      "Non-Consumable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly quotes Rabbi Asi directing Rabbi Zeira to the middle clause of the Mishnah about shechita blood and Rabbi Shimon's ruling, which is precisely what the 'Shechita Blood' section's prose describes.",
+      "chosen_heading": "Shechita Blood",
+      "current_heading": "Shechita Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Non-Consumable",
+    "candidates": [
+      "Non-Consumable",
+      "Rejection",
+      "Dangling Meat",
+      "Hechsher Problem",
+      "Shimon's Answer",
+      "Chachamim's View",
+      "Human Dangling Status",
+      "After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage is one continuous chain beginning with Rabbi Zeira's challenge rejecting placement of Rabbi Yochanan's explanation at the middle clause, continuing through the resolution that Rabbi Shimon addresses dangling flesh in the final case, and culminating in Rabbi Yochanan's full explanation \u2014 all part of the rejection/resolution sequence that candidate 1's prose introduces.",
+      "chosen_heading": "Rejection",
+      "current_heading": "Non-Consumable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "After Death",
+    "candidates": [
+      "Rejection",
+      "Dangling Meat",
+      "Hechsher Problem",
+      "Shimon's Answer",
+      "Chachamim's View",
+      "Human Dangling Status",
+      "After Death",
+      "Logic Problem",
+      "Shimon's Real Position",
+      "Eliezer Position",
+      "Yehoshua's Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Human Dangling Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna about dangling limb/flesh of a human being tahor while alive, which matches heading 5 ('Human Dangling Status') describing exactly this case.",
+      "second_heading": "Logic Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's either-way challenge to Rabbi Shimon's ruling after the person's death, which matches heading 7 ('Logic Problem') describing precisely this dilemma.",
+      "current_heading": "After Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Yehoshua's Logic",
+    "candidates": [
+      "Logic Problem",
+      "Shimon's Real Position",
+      "Eliezer Position",
+      "Yehoshua's Logic",
+      "Tradition Answer",
+      "Whole vs. Pieces",
+      "Flesh Dispute",
+      "Bone Dispute",
+      "Final Reconciliation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimon's Real Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains Rabbi Shimon's real position (ever min hameis be'alma lo metamei), which is precisely what heading 1 'Shimon's Real Position' discusses.",
+      "second_heading": "Eliezer Position",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the baraita with Rabbi Eliezer's tradition and Rabbi Yehoshua's kal vachomer challenge (including the Megillat Ta'anit analogy), which is exactly what heading 2 'Eliezer Position' and heading 3 'Yehoshua's Logic' cover \u2014 and since item 2 introduces the baraita and item 3 completes Yehoshua's argument, they belong together under heading 3 'Yehoshua's Logic' where the current placement already sits.",
+      "current_heading": "Yehoshua's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Final Reconciliation",
+    "candidates": [
+      "Tradition Answer",
+      "Whole vs. Pieces",
+      "Flesh Dispute",
+      "Bone Dispute",
+      "Final Reconciliation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Whole vs. Pieces",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous discussion about the practical difference between ever min hachai and ever min hameis (olive-bulk flesh and barleycorn bone), matching the 'Whole vs. Pieces' through 'Final Reconciliation' arc, and the prose of candidate 1 ('Whole vs. Pieces') best captures the opening question and answer of items 1-3 taken together, but since items 1-3 span the dispute introduction through the final reconciliation, candidate 4 ('Final Reconciliation') actually covers all of them in its prose \u2014 making candidate 4 the best single home for items 1-3.",
+      "second_heading": "Final Reconciliation",
+      "second_confidence": "high",
+      "second_reason": "Item 4 (Hadarun) is the closing doxology marking the end of the tractate chapter, which belongs as the concluding line under the 'Final Reconciliation' section where it currently sits.",
+      "current_heading": "Final Reconciliation",
+      "moved": true
+    }
+  }
+]

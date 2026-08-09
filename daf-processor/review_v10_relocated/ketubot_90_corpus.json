@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Sequential Documents",
+    "candidates": [
+      "Two Gets, Two Ketubos",
+      "Remarriage & New Ketubah",
+      "Two Ketubos, One Get",
+      "Sequential Documents",
+      "Waiver Theory",
+      "Added Benefits",
+      "Choice of Ketubos",
+      "Get vs. Ketubah Dating",
+      "Katan Marriage",
+      "Ketubah Continuity",
+      "Non-Jewish Ketubah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two Gets, Two Ketubos",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text covering 'two bills of divorce and two marriage contracts' and the three limiting cases, which matches heading 0 ('Two Gets, Two Ketubos') and heading 2 ('Two Ketubos, One Get') \u2014 but since the Mishna opens with the two-gets/two-ketubot case and then lists the limiting cases, heading 0 is the natural home for the full Mishna unit.",
+      "second_heading": "Sequential Documents",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara discussion about whether the woman can choose between the two ketubot and the challenge/resolution involving Rav Nachman's rule that a second document voids the first, which matches heading 3 ('Sequential Documents') where the essay prose explicitly discusses the Rav Nachman/Shmuel ruling and Rav Papa's qualification about added benefits.",
+      "current_heading": "Sequential Documents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Non-Jewish Ketubah",
+    "candidates": [
+      "Waiver Theory",
+      "Added Benefits",
+      "Choice of Ketubos",
+      "Get vs. Ketubah Dating",
+      "Katan Marriage",
+      "Ketubah Continuity",
+      "Non-Jewish Ketubah",
+      "Base Amount Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Get vs. Ketubah Dating",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form the braita about get vs. ketubah dating that heading 3 ('Get vs. Ketubah Dating') explicitly describes in its prose.",
+      "second_heading": "Katan Marriage",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening Mishna about a minor boy married off by his father, which heading 4 ('Katan Marriage') directly introduces and discusses.",
+      "current_heading": "Non-Jewish Ketubah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Base Amount Only",
+    "candidates": [
+      "Non-Jewish Ketubah",
+      "Base Amount Only",
+      "Full Amount",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's position (base amount only) and Rav Yehuda's position (even the additional sum), and the current placement under 'Base Amount Only' is the section whose prose introduces Rav Huna's ruling \u2014 the natural starting point for this Gemara passage that then leads into Rav Yehuda's disagreement covered in the next section.",
+      "chosen_heading": "Base Amount Only",
+      "current_heading": "Base Amount Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Full Amount",
+      "Braita Contradiction",
+      "Tosafos Innovation",
+      "Wife Priority",
+      "Creditor Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita objection, its resolution attempt, the conclusive refutation of Rav Yehuda, and the explanation of how the mishna misled him \u2014 are precisely what candidate 1 ('Braita Contradiction') describes in its prose.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Creditor Priority",
+    "candidates": [
+      "Tosafos Innovation",
+      "Wife Priority",
+      "Creditor Priority",
+      "Seizure Question",
+      "Tosafos Objection",
+      "Social Policy",
+      "No Permanent Rights"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tosafos Innovation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'Hadran' closing formula for the ninth perek, which is explicitly mentioned at the end of candidate 0's prose ('The Gemara concludes: Hadran alach kotev le-ishto \u2014 and with that, the ninth perek comes to a close').",
+      "second_heading": "Wife Priority",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the opening Mishnah of the tenth perek (mi she-hayah nasui shtei nashim), which candidate 1's prose explicitly discusses, including both the priority of the first wife and the scenario where the first wife predeceased the husband.",
+      "current_heading": "Creditor Priority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "No Permanent Rights",
+    "candidates": [
+      "Seizure Question",
+      "Tosafos Objection",
+      "Social Policy",
+      "No Permanent Rights",
+      "Classic Scenario",
+      "Principle Defined",
+      "Three Inferences",
+      "Inference One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a single continuous Gemara discussion about whether the second wife who seizes property first can keep it, and whether this implies a general rule about a later creditor who seizes \u2014 exactly what candidate 0 ('Seizure Question') describes, not the 'No Permanent Rights' section which describes the Gemara's ultimate failure to resolve the question from the mishnah's language.",
+      "chosen_heading": "Seizure Question",
+      "current_heading": "No Permanent Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Inference One",
+    "candidates": [
+      "Classic Scenario",
+      "Principle Defined",
+      "Three Inferences",
+      "Inference One",
+      "Ketubah as Leftover",
+      "Mosar Dinar Rule",
+      "Creditor as Mosar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the first inference from the mishnah \u2014 that kesubas benin dichrin applies when one wife died in the husband's lifetime and one after his death, and we are not concerned about quarreling \u2014 which matches precisely the 'Inference One' prose.",
+      "chosen_heading": "Inference One",
+      "current_heading": "Inference One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Creditor as Mosar",
+    "candidates": [
+      "Ketubah as Leftover",
+      "Mosar Dinar Rule",
+      "Creditor as Mosar",
+      "Inference Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the inference that a ketubah payment by a creditor functions as the mosar (surplus) for the other ketubah, and the Gemara's proof from the mishnah's silence about a 'mosar dinar' requirement \u2014 exactly what the 'Creditor as Mosar' prose describes.",
+      "chosen_heading": "Creditor as Mosar",
+      "current_heading": "Creditor as Mosar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Inference Three",
+    "candidates": [
+      "Inference Three",
+      "Rav Ashi Challenge",
+      "Alternative Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states and explains the third inference \u2014 that kesubas benin dichrin cannot seize liened property \u2014 which is precisely what 'Inference Three' prose describes.",
+      "chosen_heading": "Inference Three",
+      "current_heading": "Inference Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Alternative Reading",
+    "candidates": [
+      "Rav Ashi Challenge",
+      "Alternative Reading",
+      "Mosar After Creditor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Ashi's alternative reading of 'kodmin' as referring only to nachala (inheritance order) rather than kesubas benin dichrin, and the parallel language explanation for 'yorshei rishonah' \u2014 exactly what candidate 1 ('Alternative Reading') describes in its prose.",
+      "chosen_heading": "Alternative Reading",
+      "current_heading": "Alternative Reading",
+      "moved": false
+    }
+  }
+]

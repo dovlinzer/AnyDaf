@@ -1,0 +1,377 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Cherev ke-Chalal: Avi",
+    "candidates": [
+      "L'chatchila/B'diavad",
+      "Opening Sugya Pattern",
+      "Tamei: Meis vs Sheretz",
+      "Cherev ke-Chalal: Avi",
+      "Tamei via Sheretz",
+      "Shechita Objects",
+      "Kli Requirement Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the cherev ke-chalal principle \u2014 the Gemara raises impurity via a corpse and then derives that the metal knife acquires av hatuma status and renders the meat tamei \u2014 which is precisely what the 'Cherev ke-Chalal' section's prose describes.",
+      "chosen_heading": "Cherev ke-Chalal: Avi",
+      "current_heading": "Cherev ke-Chalal: Avi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Kli Requirement Debate",
+    "candidates": [
+      "Tamei via Sheretz",
+      "Shechita Objects",
+      "Kli Requirement Debate",
+      "Kuti Status & Concern",
+      "Omeid al Gabav & Salvage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the two Gemara answers (tamei via sheretz, and the reed stalk case with the baraita listing valid shechita implements), which is precisely what the 'Shechita Objects' section prose describes.",
+      "chosen_heading": "Shechita Objects",
+      "current_heading": "Kli Requirement Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Omeid al Gabav & Salvage",
+    "candidates": [
+      "Kuti Status & Concern",
+      "Omeid al Gabav & Salvage",
+      "Meat-Eating Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's parsing of the Mishnah regarding the condition of 'omeid al gabav' (standing over him) versus 'yotzei v'nichnas' (entering and exiting), which is precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Omeid al Gabav & Salvage",
+      "current_heading": "Omeid al Gabav & Salvage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Meat-Eating Test",
+    "candidates": [
+      "Meat-Eating Test",
+      "Cheresh Shoteh Katan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the meat-eating test (cutting an olive-bulk and giving it to the Samaritan to eat, with permitted/prohibited outcomes) which is precisely what the 'Meat-Eating Test' section prose discusses.",
+      "chosen_heading": "Meat-Eating Test",
+      "current_heading": "Meat-Eating Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Cheresh Shoteh Katan",
+    "candidates": [
+      "Cheresh Shoteh Katan",
+      "Vechulan Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 presents the baraita about cheresh/shoteh/katan being invalid even be'di'avad, and Item 2 raises the Gemara's question about 'vechulan sheshachatu' \u2014 both are directly discussed in candidate 0's prose about this exact topic, while candidate 1's prose discusses the vechulan difficulty as a problem for Abaye's reading about the Kuti, which is a different angle; the current placement under 'Cheresh Shoteh Katan' correctly captures both items as they are part of the same continuous discussion about this category.",
+      "chosen_heading": "Cheresh Shoteh Katan",
+      "current_heading": "Cheresh Shoteh Katan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Vechulan Difficulty",
+    "candidates": [
+      "Vechulan Difficulty",
+      "Wine Precedent Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Vechulan Difficulty' prose, describing Abaye's problem with the mishna's phrase regarding the Kuti and the kashya that results from his reading.",
+      "chosen_heading": "Vechulan Difficulty",
+      "current_heading": "Vechulan Difficulty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Wine Precedent Question",
+    "candidates": [
+      "Wine Precedent Question",
+      "L'chatchila vs B'diavad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's challenge using the wine store Mishnah (yotzei ve'nichnas), which matches the 'Wine Precedent Question' prose exactly, and the Gemara's rebuttal (ha'maniach katani \u2014 post-facto) is also included in this single passage, but the primary content of Rava raising the wine precedent aligns with heading 0's prose description of that challenge.",
+      "chosen_heading": "Wine Precedent Question",
+      "current_heading": "Wine Precedent Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "L'chatchila vs B'diavad",
+    "candidates": [
+      "L'chatchila vs B'diavad",
+      "Guarding vs Processing",
+      "Rava's Re-Reading",
+      "Mumar Types & Neveilot",
+      "Mumar Le'Te'avon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form Rava's re-reading of the Mishnah \u2014 the wine-barrel proof (item 1), Rava's formulation of the Mishnah with yotzei ve'nichnas le'chatchila and the kezayit test (item 2), the deaf-mute/imbecile/minor exception (item 3), and the concluding 'kashya' about 'vechulan sheshachatu' (item 4) \u2014 which exactly matches the prose of candidate 2 ('Rava's Re-Reading').",
+      "chosen_heading": "Rava's Re-Reading",
+      "current_heading": "L'chatchila vs B'diavad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Mumar Le'Te'avon",
+    "candidates": [
+      "Guarding vs Processing",
+      "Rava's Re-Reading",
+      "Mumar Types & Neveilot",
+      "Mumar Le'Te'avon",
+      "Post-Facto Knife Check",
+      "Cheresh Shoteh Exclusion",
+      "Vechulan Difficulty Again"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rava's ruling about the mumar le'te'avon \u2014 item 1 introduces the case and item 2 gives the practical knife-checking ruling \u2014 which is precisely what the 'Mumar Le'Te'avon' prose section discusses.",
+      "chosen_heading": "Mumar Le'Te'avon",
+      "current_heading": "Mumar Le'Te'avon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Vechulan Difficulty Again",
+    "candidates": [
+      "Post-Facto Knife Check",
+      "Cheresh Shoteh Exclusion",
+      "Vechulan Difficulty Again",
+      "Ravina I: Expertise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Gemara's difficulty with 'vechulan sheshachatu' \u2014 first questioning whether it refers to cheresh/shoteh/katan and then to the mumar case \u2014 which is precisely what the 'Vechulan Difficulty Again' prose describes.",
+      "chosen_heading": "Vechulan Difficulty Again",
+      "current_heading": "Vechulan Difficulty Again",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Ravina I: Expertise",
+    "candidates": [
+      "Ravina I: Expertise",
+      "Testing Mechanism",
+      "Cheresh Knowledge Gap",
+      "Vechulan Under Ravina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Ravina's statement about expertise \u2014 item 1 gives the rule and item 2 gives the qualification about when expertise must be established \u2014 exactly matching the 'Ravina I: Expertise' prose which explicitly paraphrases both the hakol mumchin rule and the b'meh devarim amurim qualification about known expertise.",
+      "chosen_heading": "Ravina I: Expertise",
+      "current_heading": "Ravina I: Expertise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Vechulan Under Ravina",
+    "candidates": [
+      "Testing Mechanism",
+      "Cheresh Knowledge Gap",
+      "Vechulan Under Ravina",
+      "Ravina II: Experience"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's analysis of 'vechulan sheshachatu' \u2014 item 1 raises the question of whether it refers to cheresh/shoteh/katan and rejects it on grammatical grounds, and item 2 resolves that it refers to non-experts who cannot be tested afterward \u2014 exactly what the 'Vechulan Under Ravina' prose describes.",
+      "chosen_heading": "Vechulan Under Ravina",
+      "current_heading": "Vechulan Under Ravina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Ravina II: Experience",
+    "candidates": [
+      "Ravina II: Experience",
+      "Experience Witnessed",
+      "Self-Report Be'diavad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the complete second version of Ravina's statement including the definition of muchzak, the two-or-three times requirement, and the self-report ruling \u2014 all three sub-sections (0, 1, 2) are actually divisions of this single Talmudic excerpt, but since it must go under one heading and the current placement (Ravina II: Experience) introduces the full Ravina alternative and its core content, it is the correct home, with the prose of sections 1 and 2 simply elaborating sub-points of what is already quoted here.",
+      "chosen_heading": "Ravina II: Experience",
+      "current_heading": "Ravina II: Experience",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Self-Report Be'diavad",
+    "candidates": [
+      "Experience Witnessed",
+      "Self-Report Be'diavad",
+      "Tuma'ah Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of candidate 1, which explicitly discusses chutz mecheresh shoteh ve'katan, the vechulan sheshachtu phrase and its referent, and the resolution about someone not present to give a self-report \u2014 precisely the content of both Talmudic items.",
+      "chosen_heading": "Self-Report Be'diavad",
+      "current_heading": "Self-Report Be'diavad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Tuma'ah Rejection",
+    "candidates": [
+      "Tuma'ah Rejection",
+      "Ravina Rejection I"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Ravina Rejection I",
+    "candidates": [
+      "Ravina Rejection I",
+      "Ravina Rejection II",
+      "Rav Ashi on Kuti"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the version where 'muchzakin in she'ein muchzakin lo' (established/not established) and concludes 'le'allufei lo chashinan' (not concerned about fainting), which is precisely what Ravina Rejection II's prose discusses.",
+      "chosen_heading": "Ravina Rejection II",
+      "current_heading": "Ravina Rejection I",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Rav Ashi on Kuti",
+    "candidates": [
+      "Ravina Rejection II",
+      "Rav Ashi on Kuti",
+      "Abaye on Mumar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss why Rava, Abaye, and Rav Ashi each rejected the others' resolutions regarding the Kuti (Samaritan) slaughter case, which is exactly what the 'Rav Ashi on Kuti' section's prose addresses \u2014 the competing approaches of Abaye, Rava, and Rav Ashi on the Kuti's status.",
+      "chosen_heading": "Rav Ashi on Kuti",
+      "current_heading": "Rav Ashi on Kuti",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Abaye on Mumar",
+    "candidates": [
+      "Abaye on Mumar",
+      "Rava's Polemic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically addresses why Abaye did not adopt Rav Ashi's resolution (because he doesn't hold like Rava), which matches the 'Abaye on Mumar' prose exactly; candidate 1 covers the subsequent question of why Rava himself didn't explain the Mishnah as Rav Ashi did, which is a different Gemara move.",
+      "chosen_heading": "Abaye on Mumar",
+      "current_heading": "Abaye on Mumar",
+      "moved": false
+    }
+  }
+]

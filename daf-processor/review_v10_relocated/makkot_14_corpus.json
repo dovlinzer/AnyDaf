@@ -1,0 +1,410 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Three Positions",
+      "Rabbi Ishmael",
+      "Rabbi Akiva",
+      "Gemara's Question",
+      "L'Einei L'Einecha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Three Positions",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss the technical principle that lashes apply only to prohibitions similar to muzzling, which fits the introductory framing of 'Three Positions' better than the Rabbi Akiva section focused on double punishment.",
+      "second_heading": "Rabbi Akiva",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 directly correspond to the Rabbi Akiva section prose: item 3 gives Rabbi Akiva's kedei rishato reasoning, item 4 gives Rabbi Yishmael's counter about extended death, and item 5 is the Gemara pressing Rabbi Akiva about karet and teshuvah \u2014 all matching candidate 2's description precisely.",
+      "current_heading": "Rabbi Akiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "L'Einei L'Einecha",
+    "candidates": [
+      "Gemara's Question",
+      "L'Einei L'Einecha",
+      "Abba bar Mammal",
+      "Linguistic Distinction",
+      "No Double Punishment",
+      "Rava's Premise",
+      "Warning Mismatch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Items 1-4 cover the gezeirah shavah debate (l'einei/l'einecha/me'einei) and the linguistic distinction challenge, while item 5 resolves the underlying question via Rabbi Shmuel bar Rav Yitzchak \u2014 all of which is described together under candidate 3 ('Linguistic Distinction'), whose prose explicitly covers the gezeirah shavah distinction, the school of Rabbi Ishmael challenge, and notes the resolution as part of the same discussion, whereas candidate 1 only covers the initial derivation and candidate 4 only covers the resolution in isolation.",
+      "chosen_heading": "Linguistic Distinction",
+      "current_heading": "L'Einei L'Einecha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Warning Mismatch",
+    "candidates": [
+      "Abba bar Mammal",
+      "Linguistic Distinction",
+      "No Double Punishment",
+      "Rava's Premise",
+      "Warning Mismatch",
+      "Rabbi Akiva Refined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement establishing that everyone agrees there is no double punishment (lashes and death), and that the dispute concerns only where witnesses warned about lashes \u2014 this is precisely the content described in the 'Rava's Premise' section, which introduces Rava's reframing that beit din does not impose two punishments.",
+      "chosen_heading": "Rava's Premise",
+      "current_heading": "Warning Mismatch",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rabbi Akiva Refined",
+    "candidates": [
+      "Warning Mismatch",
+      "Rabbi Akiva Refined",
+      "Karet & Lav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Karet & Lav' prose: item 1 presents the Avimi/Rava teaching that karet doesn't require forewarning (demonstrated by pesach and milah), and item 2 raises the challenge that perhaps the lav serves the korban obligation \u2014 exactly the challenge and counter-consideration described in candidate 2's prose.",
+      "chosen_heading": "Karet & Lav",
+      "current_heading": "Rabbi Akiva Refined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Karet & Lav",
+    "candidates": [
+      "Rabbi Akiva Refined",
+      "Karet & Lav",
+      "Teshuvah Option",
+      "Karet Exclusion",
+      "Achoto Proof",
+      "Thirty-Six Sins",
+      "No Malkos",
+      "Multiple Statuses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Karet & Lav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's rejection of the korban-based challenge (the avodah zarah/shev v'al ta'aseh reasoning), which belongs under 'Karet & Lav' where the prose explicitly discusses this exact rejection.",
+      "second_heading": "Teshuvah Option",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Ravina's account of Rabbi Akiva's reasoning based on teshuvah and the non-certainty of karet, which matches the 'Teshuvah Option' prose perfectly.",
+      "current_heading": "Karet & Lav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Multiple Statuses",
+    "candidates": [
+      "Teshuvah Option",
+      "Karet Exclusion",
+      "Achoto Proof",
+      "Thirty-Six Sins",
+      "No Malkos",
+      "Multiple Statuses",
+      "Rasha Bar Rasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 5 ('Multiple Statuses') describes: Rabbi Yitzchak's use of achoto for malkos exclusion, the Rabbanan's use of achoto for l'chaleik, Rabbi Yitzchak deriving l'chaleik from the niddah verse, and the Rabbanan's further use of achoto to establish liability for a woman who is simultaneously sister, father's sister, and mother's sister \u2014 all of which is the precise content of the 'Multiple Statuses' prose.",
+      "chosen_heading": "Multiple Statuses",
+      "current_heading": "Multiple Statuses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rasha Bar Rasha",
+    "candidates": [
+      "Rasha Bar Rasha",
+      "Five Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'rasha bar rasha' scenario \u2014 how one woman can simultaneously be his sister, father's sister, and mother's sister \u2014 which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Rasha Bar Rasha",
+      "current_heading": "Rasha Bar Rasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Five Women",
+    "candidates": [
+      "Five Women",
+      "Achoto Seifa",
+      "Full Sister"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly concern the kal vachomer from five niddah women in one he'elam to the three-prohibition sister case, and the refutation of that kal vachomer \u2014 precisely what candidate 0's prose describes.",
+      "chosen_heading": "Five Women",
+      "current_heading": "Five Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Full Sister",
+    "candidates": [
+      "Achoto Seifa",
+      "Full Sister",
+      "Pitum & Sach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation of liability for a full sister (bat aviv u-vat imo) and the principle of ein onshin min hadin, along with the competing uses of achoto d'reisha and achoto d'seifa \u2014 exactly the content described in the 'Full Sister' prose section.",
+      "chosen_heading": "Full Sister",
+      "current_heading": "Full Sister",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Pitum & Sach",
+    "candidates": [
+      "Pitum & Sach",
+      "Flow Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Rabbis' and Rabbi Yitzchak's derivations for the pitum/sach karet-division rule, which is precisely what candidate 0's prose describes \u2014 including the Rabbi Elazar/Rabbi Hoshaya principle and the isha dava alternative source.",
+      "chosen_heading": "Pitum & Sach",
+      "current_heading": "Pitum & Sach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Flow Location",
+    "candidates": [
+      "Flow Location",
+      "Mishnah's List",
+      "Prohibition Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's teaching in the name of Rabbi Shimon ben Yochai that a woman is impure only if blood is discharged through her vagina, which is precisely what the 'Flow Location' prose describes as the content of this section.",
+      "chosen_heading": "Flow Location",
+      "current_heading": "Flow Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Prohibition Source",
+    "candidates": [
+      "Mishnah's List",
+      "Prohibition Source",
+      "Resh Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the initial question about the source of the *azhara* for a *tamei* person who ate *kodesh*, which matches the 'Mishnah's List' prose that introduces this case and notes the requirement for both *onesh* and *azhara* \u2014 the passage is the opening gemara question, not yet the answer discussed in candidates 1 or 2.",
+      "chosen_heading": "Mishnah's List",
+      "current_heading": "Prohibition Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Resh Lakish",
+    "candidates": [
+      "Prohibition Source",
+      "Resh Lakish",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Reish Lakish deriving the prohibition from 'bechol kodesh lo tiga,' which is exactly what the 'Resh Lakish' section prose describes.",
+      "chosen_heading": "Resh Lakish",
+      "current_heading": "Resh Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Aharon's Seed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yochanan's gezeirah shavah on 'tumato' linking the eating of kodesh while tamei to the Beis Hamikdash context, which is precisely what the prose under 'Rabbi Yochanan' explains.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Aharon's Seed",
+    "candidates": [
+      "Aharon's Seed",
+      "Touching vs. Eating",
+      "Eating Kodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are about how Reish Lakish and Rabbi Yochanan each derive the terumah prohibition and assign the verses differently \u2014 exactly what the 'Touching vs. Eating' prose describes, covering bechol kodesh lo tiga vs. ish ish mi-zera Aharon for both authorities.",
+      "chosen_heading": "Touching vs. Eating",
+      "current_heading": "Aharon's Seed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Eating Kodesh",
+    "candidates": [
+      "Touching vs. Eating",
+      "Eating Kodesh",
+      "Touching Kodesh",
+      "Beis HaMikdash Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the amoraic dispute about whether a tamei person who touches kodesh is flogged, with Reish Lakish saying yes (using bechol kodesh lo tiga) and Rabbi Yochanan saying no (reserving that verse for terumah) \u2014 which is precisely what the 'Touching Kodesh' prose discusses.",
+      "chosen_heading": "Touching Kodesh",
+      "current_heading": "Eating Kodesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Beis HaMikdash Link",
+    "candidates": [
+      "Touching Kodesh",
+      "Beis HaMikdash Link",
+      "Before Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly describes how Reish Lakish derives both prohibitions (touching and eating kodesh) from a single verse \u2014 touching from 'tiga' and eating from the hekesh to the mikdash \u2014 which is precisely what the 'Beis HaMikdash Link' section's prose discusses.",
+      "chosen_heading": "Beis HaMikdash Link",
+      "current_heading": "Beis HaMikdash Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Before Blood",
+    "candidates": [
+      "Before Blood",
+      "Braisa Support"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Before Blood",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the dispute between Reish Lakish and Rabbi Yochanan about a tamei person eating sacrificial meat before zrikat damim, which is precisely what candidate 0 ('Before Blood') discusses.",
+      "second_heading": "Braisa Support",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita supporting Reish Lakish via the hekesh of kodesh to mikdash, which is exactly what candidate 1 ('Braisa Support') describes in its prose.",
+      "current_heading": "Before Blood",
+      "moved": true
+    }
+  }
+]

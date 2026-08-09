@@ -1,0 +1,207 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Bone Amount Distinctions",
+    "candidates": [
+      "Ohel vs. Touch",
+      "Pesukic Sources",
+      "Cherev Doctrine",
+      "Mishkav Analogy",
+      "Tumat Ohel Items",
+      "Bone Amount Distinctions",
+      "Reish Lakish Position",
+      "Braita Text",
+      "Eiver Definitions",
+      "Limb Analysis",
+      "Rav Yochanan Rebuttal",
+      "Masa Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma about tumat eretz ha'amim \u2014 whether the decree was mishum avira (airspace) or mishum gusha (earth/ground contact) \u2014 which is precisely the topic introduced and discussed in the 'Bone Amount Distinctions' section's prose about tumat eretz ha'amim and the mishum avira question.",
+      "chosen_heading": "Bone Amount Distinctions",
+      "current_heading": "Bone Amount Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Masa Derivation",
+    "candidates": [
+      "Reish Lakish Position",
+      "Braita Text",
+      "Eiver Definitions",
+      "Limb Analysis",
+      "Rav Yochanan Rebuttal",
+      "Masa Derivation",
+      "Tosafot Interpretations",
+      "Non-Jew Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The passage asks why sprinkling is needed if the decree is about air, which relates to the debate about the reach of the tumat Chutz La'aretz enactment (airspace versus standard tumah principles) that the Masa Derivation section explicitly flags as the underlying question giving stakes to the subsequent discussion.",
+      "chosen_heading": "Masa Derivation",
+      "current_heading": "Masa Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Non-Jew Status",
+    "candidates": [
+      "Tosafot Interpretations",
+      "Non-Jew Status",
+      "Pre-Legislation Theory",
+      "Ritva Solution",
+      "Parallel Cases",
+      "Metaphysics & Law",
+      "Sprinkling Rules",
+      "Counting Dispute",
+      "R. Eliezer vs. Rabbanan",
+      "Braita Comparison",
+      "Day Eight Start"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "medium",
+      "reason": "The passage discusses whether the mishna's sprinkling requirement applies to the airspace decree or to other items listed in the mishna (grave cover, walls, quarter-log of blood), which directly concerns the 'Sprinkling Rules' section about who receives hazayah on day three and seven.",
+      "chosen_heading": "Sprinkling Rules",
+      "current_heading": "Non-Jew Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Day Eight Start",
+    "candidates": [
+      "Pre-Legislation Theory",
+      "Ritva Solution",
+      "Parallel Cases",
+      "Metaphysics & Law",
+      "Sprinkling Rules",
+      "Counting Dispute",
+      "R. Eliezer vs. Rabbanan",
+      "Braita Comparison",
+      "Day Eight Start",
+      "Beit HaPras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the gemara's inference from 'keilim ha-nogim b'meit' that shlishi v'shvi'i does not apply to everything in the mishnah, which is precisely what the 'Day Eight Start' section's prose describes as the further inference drawn before the mishnah pivots to listing non-megaleach cases.",
+      "chosen_heading": "Day Eight Start",
+      "current_heading": "Day Eight Start",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Beit HaPras",
+    "candidates": [
+      "Beit HaPras",
+      "Eretz Amim",
+      "Golel ve'Dofek",
+      "Golel Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the tannaitic dispute about entering eretz amim in a container, which hinges on the concept of ohel zaruk (moving tent) \u2014 precisely the topic that candidate 3 ('Golel Status') explicitly discusses at length, including the ohel zaruk lo shemei ohel principle and the baraita about a box thrown over a met.",
+      "chosen_heading": "Golel Status",
+      "current_heading": "Beit HaPras",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Golel Status",
+    "candidates": [
+      "Eretz Amim",
+      "Golel ve'Dofek",
+      "Golel Status",
+      "Revi'is Dam",
+      "Ohel Rova Atzmos",
+      "Vessels Touching Corpse",
+      "Rav Goren Innovation",
+      "Metzora Case",
+      "Light Tumot Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about ohel zaruk (a box thrown over a corpse being tamei while a stationary one is tahor) directly illustrates the ohel zaruk lo shemei ohel principle, which the prose of section 2 ('Golel Status') explicitly discusses and describes in detail.",
+      "chosen_heading": "Golel Status",
+      "current_heading": "Golel Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Light Tumot Counting",
+    "candidates": [
+      "Revi'is Dam",
+      "Ohel Rova Atzmos",
+      "Vessels Touching Corpse",
+      "Rav Goren Innovation",
+      "Metzora Case",
+      "Light Tumot Counting",
+      "Sakkot & Peraot",
+      "Sakkot Non-Ohel",
+      "Peraot Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items discuss the rabbinic decree of tumah concerning the land of the nations and the role of 'air' (aveira) in that decree, specifically debating whether the sages decreed tumah for uncommon cases like enclosed vessels \u2014 this matches the 'Sakkot & Peraot' section's discussion of rabbinic tumah decrees, and more precisely fits the broader context of that section about rabbinic vs. de'oraita tumah distinctions, though the content about land-of-nations tumah through air/enclosures most closely aligns with the 'Sakkot & Peraot' or 'Sakkot Non-Ohel' heading's discussion of what constitutes a valid ohel and rabbinic decrees of tumah.",
+      "chosen_heading": "Sakkot & Peraot",
+      "current_heading": "Light Tumot Counting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Peraot Rabbinic",
+    "candidates": [
+      "Sakkot & Peraot",
+      "Sakkot Non-Ohel",
+      "Peraot Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "The passage concerns tumah of the land of nations and entering in a chest/box (eretz ha'amim), which does not match any of the three candidate headings about sakkot, peraot, and tree/stone tumah \u2014 but since the current placement is the only guarantee the true home is in this list, and no candidate is a clearly better match, the current placement is retained at low confidence.",
+      "chosen_heading": "Peraot Rabbinic",
+      "current_heading": "Peraot Rabbinic",
+      "moved": false
+    }
+  }
+]

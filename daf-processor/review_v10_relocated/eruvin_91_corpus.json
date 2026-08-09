@@ -1,0 +1,288 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Three positions explained",
+    "candidates": [
+      "Opening remarks",
+      "Three positions explained",
+      "Practical implications",
+      "Yards A & B example",
+      "Baraita: roofs vs. courts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Yehuda's articulation of the three positions (Rabbi Meir, Rabbis, Rabbi Shimon), which is precisely what the 'Three positions explained' prose section describes in detail.",
+      "chosen_heading": "Three positions explained",
+      "current_heading": "Three positions explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Baraita: roofs vs. courts",
+    "candidates": [
+      "Practical implications",
+      "Yards A & B example",
+      "Baraita: roofs vs. courts",
+      "Chachamim: 4 amot limit",
+      "Tekoa bathing story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rav's position about rooftops forming one domain with the qualification about height differences, which is exactly what the 'Baraita: roofs vs. courts' section's prose describes.",
+      "chosen_heading": "Baraita: roofs vs. courts",
+      "current_heading": "Baraita: roofs vs. courts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Tekoa bathing story",
+    "candidates": [
+      "Chachamim: 4 amot limit",
+      "Tekoa bathing story",
+      "Torah scroll danger story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Tekoa bathing story baraita supporting Rabbi Yehuda's reading of Rabbi Shimon, which exactly matches the prose under 'Tekoa bathing story' describing this very account.",
+      "chosen_heading": "Tekoa bathing story",
+      "current_heading": "Tekoa bathing story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Torah scroll danger story",
+    "candidates": [
+      "Torah scroll danger story",
+      "Rav's ruling",
+      "Rav's confusion concern",
+      "Shmuel: no confusion fear",
+      "Rav Chisda's challenge",
+      "No gezeirah principle",
+      "Three courtyards case",
+      "Conclusion: R. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yehuda's danger-time story about carrying a Torah scroll and the Sages' immediate dismissal that 'a time of danger is no proof' \u2014 are precisely what candidate 0's prose describes, making the current placement correct.",
+      "chosen_heading": "Torah scroll danger story",
+      "current_heading": "Torah scroll danger story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Conclusion: R. Shimon",
+    "candidates": [
+      "Rav's ruling",
+      "Rav's confusion concern",
+      "Shmuel: no confusion fear",
+      "Rav Chisda's challenge",
+      "No gezeirah principle",
+      "Three courtyards case",
+      "Conclusion: R. Shimon",
+      "Height ownership test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The prose of candidate 6 explicitly walks through all eight items in sequence \u2014 Rav's ruling, Shmuel/Rabbi Yochanan's disagreement, Rav Chisda's objection, the three-courtyards analogy, and Rav Sheshet's challenge with its resolution about the hat/shawl \u2014 making it the clear home for this entire passage.",
+      "chosen_heading": "Conclusion: R. Shimon",
+      "current_heading": "Conclusion: R. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Height ownership test",
+    "candidates": [
+      "Height ownership test",
+      "Many people, no eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the height-based ownership rule (ten handbreadths to the balcony, less to the courtyard) and the qualifying conditions, which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Height ownership test",
+      "current_heading": "Height ownership test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Many people, no eruv",
+    "candidates": [
+      "Many people, no eruv",
+      "Listed vs. omitted spaces",
+      "Baraita is Chachamim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Many people, no eruv",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita stating that when many people forgot to make any eiruv, all four spaces form one domain \u2014 exactly what heading 0's prose describes as 'if there were many people on each level and nobody made any eiruv at all.'",
+      "second_heading": "Baraita is Chachamim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's inference and conclusion that the baraita represents the Chachamim's position, which is precisely what heading 2's prose discusses \u2014 the inference that the baraita cannot be Rabbi Shimon and must represent the Chachamim.",
+      "current_heading": "Many people, no eruv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Baraita is Chachamim",
+    "candidates": [
+      "Listed vs. omitted spaces",
+      "Baraita is Chachamim",
+      "Setup: no eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly notes the precision of the baraita in omitting karpaf and mavoi, which directly matches the prose in candidate 0 about the principled omission of those spaces from the baraita's list.",
+      "chosen_heading": "Listed vs. omitted spaces",
+      "current_heading": "Baraita is Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Setup: no eruv",
+    "candidates": [
+      "Setup: no eruv",
+      "Chachamim: Distinct Paths",
+      "Within each domain",
+      "R. Shimon adds karpef",
+      "Why 'no eruv'?",
+      "Meaning of 'no eruv'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the five-courtyard scenario with no eruv made, which is exactly what the 'Setup: no eruv' section's prose describes \u2014 the ruling and its implications are handled in subsequent sections.",
+      "chosen_heading": "Setup: no eruv",
+      "current_heading": "Setup: no eruv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Meaning of 'no eruv'",
+    "candidates": [
+      "Chachamim: Distinct Paths",
+      "Within each domain",
+      "R. Shimon adds karpef",
+      "Why 'no eruv'?",
+      "Meaning of 'no eruv'",
+      "Concession to opponents"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Shimon adds karpef",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shimon's full ruling including gag/chatzer/karpaf/mavoi as one domain, which is precisely what candidate 2 ('R. Shimon adds karpef') discusses.",
+      "second_heading": "Why 'no eruv'?",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Gemara's question about the implication of 'lo eirvu' and the resolution interpreting it as 'lo nishtattfu', which is exactly what candidate 3 ('Why no eruv?') and candidate 4 ('Meaning of no eruv') discuss \u2014 and since item 2 raises the question and item 3 gives an alternative answer, both belong under the heading that addresses the Gemara's interrogation of this phrase, which is candidate 3 (the questioning stage that leads into the discussion).",
+      "current_heading": "Meaning of 'no eruv'",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Concession to opponents",
+    "candidates": [
+      "Meaning of 'no eruv'",
+      "Concession to opponents",
+      "Chachamim: Mavoi Genre",
+      "Mavoi-origin vessels",
+      "Rabbi Zeira: 4 amot limit",
+      "Why mavoi is stricter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rabbi Shimon's argument formulated in terms of his opponents' own premises \u2014 exactly what the 'Concession to opponents' section prose describes.",
+      "chosen_heading": "Concession to opponents",
+      "current_heading": "Concession to opponents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Why mavoi is stricter",
+    "candidates": [
+      "Chachamim: Mavoi Genre",
+      "Mavoi-origin vessels",
+      "Rabbi Zeira: 4 amot limit",
+      "Why mavoi is stricter",
+      "Three-position summary"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chachamim: Mavoi Genre",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbanan's response establishing that chatzer and mavoi are two distinct domains \u2014 exactly what heading 0 ('Chachamim: Mavoi Genre') describes as the Rabbanan's categorical, structural prohibition.",
+      "second_heading": "Mavoi-origin vessels",
+      "second_confidence": "high",
+      "second_reason": "Item 2 focuses on the baraita's phrase 'uvemavoi assur' and whether it supports Rabbi Zeira's four-amot ruling \u2014 precisely what heading 1 ('Mavoi-origin vessels') describes as the Gemara's analysis of the asymmetry between courtyard and alleyway vessels.",
+      "current_heading": "Why mavoi is stricter",
+      "moved": true
+    }
+  }
+]

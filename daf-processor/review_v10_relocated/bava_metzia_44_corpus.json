@@ -1,0 +1,219 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Koneh Terminology",
+    "candidates": [
+      "Perek Overview",
+      "Sale Finality Principle",
+      "Currency Exchange Problem",
+      "Gold/Silver Exchange",
+      "Koneh Terminology",
+      "Full Hierarchy Listed",
+      "Metaltelin vs Matbeah",
+      "Barter Principle",
+      "Drawing Without Paying",
+      "Paying Without Taking",
+      "Mi Shepara Curse",
+      "Rabbi Shimon's Rule",
+      "Youth vs Old Age",
+      "Youth: Gold Standard",
+      "Age: Silver Standard",
+      "Value vs Widespread Use"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Gold/Silver Exchange",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-6 are the Mishna text beginning with hazahav koneh es hakesef and covering the full hierarchy through Rabbi Shimon's rule, which aligns with the Gold/Silver Exchange section that opens the mishna discussion.",
+      "second_heading": "Youth vs Old Age",
+      "second_confidence": "high",
+      "second_reason": "Items 7-10 are the Gemara opening with Rebbi teaching his son and the youth/old age contradiction, which is precisely what heading 12 ('Youth vs Old Age') describes.",
+      "current_heading": "Koneh Terminology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Value vs Widespread Use",
+    "candidates": [
+      "Full Hierarchy Listed",
+      "Metaltelin vs Matbeah",
+      "Barter Principle",
+      "Drawing Without Paying",
+      "Paying Without Taking",
+      "Mi Shepara Curse",
+      "Rabbi Shimon's Rule",
+      "Youth vs Old Age",
+      "Youth: Gold Standard",
+      "Age: Silver Standard",
+      "Value vs Widespread Use",
+      "Dinarei Loan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "Both items are Rav Ashi's argument that silver's status as peira vis-\u00e0-vis gold is proven by the copper-silver ruling, followed by the Gemara's rebuttal that the copper-silver rule was still necessary even on the 'widespread use' view \u2014 exactly the content described in the 'Value vs Widespread Use' prose section.",
+      "chosen_heading": "Value vs Widespread Use",
+      "current_heading": "Value vs Widespread Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Dinarei Loan",
+    "candidates": [
+      "Dinarei Loan",
+      "Rebbi Chiya Ruling",
+      "Gold Standard Solution",
+      "Silver Standard Problem",
+      "Se'ah B'se'ah",
+      "Home Coins Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode \u2014 Rav borrowing gold dinars, their appreciation, Rabbi \u1e24iyya's ruling, and the tiva/peira analysis \u2014 which matches the 'Dinarei Loan' section's comprehensive prose about the same incident, and the subsequent candidate headings each cover only individual sub-components of what this single Talmudic passage contains.",
+      "chosen_heading": "Dinarei Loan",
+      "current_heading": "Dinarei Loan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Home Coins Solution",
+    "candidates": [
+      "Rebbi Chiya Ruling",
+      "Gold Standard Solution",
+      "Silver Standard Problem",
+      "Se'ah B'se'ah",
+      "Home Coins Solution",
+      "Perutah Definition",
+      "Issar-Dinar Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the 'Home Coins Solution' \u2014 Rav had dinars at home, making the transaction analogous to borrowing until one's son comes or one finds the key, which is precisely what the 'Home Coins Solution' prose describes.",
+      "chosen_heading": "Home Coins Solution",
+      "current_heading": "Home Coins Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Issar-Dinar Ratio",
+    "candidates": [
+      "Perutah Definition",
+      "Issar-Dinar Ratio",
+      "Silver-Gold Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the perutah definition (one-eighth of an Italian issar, relevant to kiddushin) AND the issar-dinar ratio (one twenty-fourth of a silver dinar, relevant to commerce) as a single continuous unit introduced by Rava's statement, and the prose under 'Perutah Definition' (heading 0) explicitly describes this entire baraita including both calculations, while heading 1 covers only the second half \u2014 the full passage therefore belongs under heading 0 where the complete baraita discussion begins.",
+      "chosen_heading": "Perutah Definition",
+      "current_heading": "Issar-Dinar Ratio",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Silver-Gold Ratio",
+    "candidates": [
+      "Issar-Dinar Ratio",
+      "Silver-Gold Ratio",
+      "Pidyon Haben Fixed",
+      "Silver Standard Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the silver-gold dinar ratio (1/25) and its relevance to pidyon haben, which is exactly what the 'Silver-Gold Ratio' section's prose discusses.",
+      "chosen_heading": "Silver-Gold Ratio",
+      "current_heading": "Silver-Gold Ratio",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Silver Standard Problem",
+    "candidates": [
+      "Pidyon Haben Fixed",
+      "Silver Standard Problem",
+      "Ulla's Counter",
+      "Tosafot Resolution",
+      "Historical Ratio Change",
+      "Ma'aser Transfer Q",
+      "Beit Shammai View",
+      "Beit Hillel View",
+      "Kedusha Transfer Rule",
+      "Fruit to Coins Fine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage argues that if gold were a commodity (peira) with fluctuating value, the tanna could not use it as a fixed measure for pidyon haben, and the fact that it is used as a fixed measure proves gold is currency (tiva) \u2014 exactly what the 'Silver Standard Problem' prose discusses.",
+      "chosen_heading": "Silver Standard Problem",
+      "current_heading": "Silver Standard Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Fruit to Coins Fine",
+    "candidates": [
+      "Ulla's Counter",
+      "Tosafot Resolution",
+      "Historical Ratio Change",
+      "Ma'aser Transfer Q",
+      "Beit Shammai View",
+      "Beit Hillel View",
+      "Kedusha Transfer Rule",
+      "Fruit to Coins Fine",
+      "Fruit-Gold Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the Mishna from Ma'aser Sheni and the Rabbi Yochanan/Reish Lakish dispute about its scope \u2014 precisely what heading 3 ('Ma'aser Transfer Q') describes as the Gemara turning to the ma'aser sheni mishna that bears on the tiva-versus-peira question, before the subsequent headings break down Beit Shammai's and Beit Hillel's individual positions.",
+      "chosen_heading": "Ma'aser Transfer Q",
+      "current_heading": "Fruit to Coins Fine",
+      "moved": true
+    }
+  }
+]

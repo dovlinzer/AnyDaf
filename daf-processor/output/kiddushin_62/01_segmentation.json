@@ -202,7 +202,7 @@
           "timestamp": "45:23"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -240,8 +240,8 @@
           "timestamp": "48:48"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "Application to Pregnancy: The Pregnant Woman and Future Birth (continued)",
@@ -264,7 +264,7 @@
           "timestamp": "53:06"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -278,7 +278,7 @@
           "timestamp": "50:46"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 22,
       "matched": true
     }
   ],
@@ -448,5 +448,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "45:20",
+  "amud_b_micro_title": "Geir Requirement",
+  "shiur_start_daf": 62,
+  "shiur_start_amud": "a"
 }

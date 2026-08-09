@@ -1,0 +1,399 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Jew/Samaritan Ox Goring",
+    "candidates": [
+      "Jew/Samaritan Ox Goring",
+      "Chachamim: Knas Rationale",
+      "Rabbi Meir: Gerei Arayos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact braita being introduced and analyzed in heading 0's prose, which quotes and explains the same text about a Jew's ox goring a Samaritan's ox (exempt) versus a Samaritan's ox goring a Jew's ox (tam/muad framework applies).",
+      "chosen_heading": "Jew/Samaritan Ox Goring",
+      "current_heading": "Jew/Samaritan Ox Goring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Rabbi Meir: Gerei Arayos",
+    "candidates": [
+      "Chachamim: Knas Rationale",
+      "Rabbi Meir: Gerei Arayos",
+      "Blood Stain Purity Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Meir's ruling on the Samaritan ox and the Gemara's question about whether he holds Samaritans are 'gerei arayos' \u2014 are precisely the content described in the 'Rabbi Meir: Gerei Arayos' section prose, which explicitly quotes and discusses both the ruling and the Gemara's inference.",
+      "chosen_heading": "Rabbi Meir: Gerei Arayos",
+      "current_heading": "Rabbi Meir: Gerei Arayos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Blood Stain Purity Debate",
+    "candidates": [
+      "Blood Stain Purity Debate",
+      "Knas vs. Seduction Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous challenge-and-resolution sequence about bloodstain purity and Rabbi Meir's view of Samaritans, which is precisely what the 'Blood Stain Purity Debate' prose describes in detail, ending with the same question that item 4 answers (Rabbi Abbahu's knas resolution is the closing beat of that section's own narrative arc as described in its prose).",
+      "chosen_heading": "Blood Stain Purity Debate",
+      "current_heading": "Blood Stain Purity Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Knas vs. Seduction Cases",
+    "candidates": [
+      "Knas vs. Seduction Cases",
+      "Abaye & Rav Mari: Knas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's objection citing the mishna about knas for a Kutit, which is explicitly discussed in the 'Knas vs. Seduction Cases' prose as 'a question from Rav Zeira, who cites the mishna in the context of seduction and rape fines.'",
+      "chosen_heading": "Knas vs. Seduction Cases",
+      "current_heading": "Knas vs. Seduction Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Abaye & Rav Mari: Knas",
+    "candidates": [
+      "Abaye & Rav Mari: Knas",
+      "Mishna: Ox Gores Cheresh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the same continuous discussion about why the knas fine is upheld and not redirected to the poor, which is precisely what the 'Abaye & Rav Mari: Knas' section prose describes.",
+      "chosen_heading": "Abaye & Rav Mari: Knas",
+      "current_heading": "Abaye & Rav Mari: Knas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mishna: Ox Gores Cheresh",
+    "candidates": [
+      "Mishna: Ox Gores Cheresh",
+      "Apotropus Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about a competent person's ox goring the ox of a deaf-mute, imbecile, or minor, which exactly matches the prose under 'Mishna: Ox Gores Cheresh' (candidate 0).",
+      "chosen_heading": "Mishna: Ox Gores Cheresh",
+      "current_heading": "Mishna: Ox Gores Cheresh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Apotropus Mechanism",
+    "candidates": [
+      "Apotropus Mechanism",
+      "Reshus Meshaneh Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about appointing an apitropas for a deaf-mute, imbecile, or minor whose ox gored, which is precisely what the 'Apotropus Mechanism' section's prose discusses.",
+      "chosen_heading": "Apotropus Mechanism",
+      "current_heading": "Apotropus Mechanism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Reshus Meshaneh Debate",
+    "candidates": [
+      "Reshus Meshaneh Debate",
+      "Yi'udei Debate Framework",
+      "Payment Phase: Muad/Tam",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Meir/Rabbi Yosi dispute about whether the ox reverts to tam status when the incapacitated owner regains competency, which is precisely what the 'Reshus Meshaneh Debate' prose discusses.",
+      "chosen_heading": "Reshus Meshaneh Debate",
+      "current_heading": "Reshus Meshaneh Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Yi'udei Debate Framework",
+      "Payment Phase: Muad/Tam",
+      "Rava's Resolution",
+      "Orphans vs. Apotropus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yi'udei Debate Framework",
+      "first_confidence": "low",
+      "first_reason": "The stadium ox ruling (item 1) is a self-contained exemption ruling unrelated to the apitropas/cheresh-shoteh-katan discussion that follows, and none of the candidates explicitly cover it, making heading 0 the least-bad fit.",
+      "second_heading": "Payment Phase: Muad/Tam",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 form a continuous unit \u2014 the Gemara's internal contradiction about the apitropas and Rava's resolution \u2014 which best matches the combined prose of heading 1 (the contradiction) and heading 2 (Rava's resolution), with the current placement at heading 2 covering Rava's resolution being the correct home for the resolution that items 2-3 together present.",
+      "current_heading": "Rava's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Orphans vs. Apotropus",
+    "candidates": [
+      "Orphans vs. Apotropus",
+      "Orphan Protection Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the exact dispute between Rabbi Yo\u1e25anan and Rabbi Yosei bar \u1e24anina about whether compensation is paid from orphan property or the steward's property, which is precisely what heading 0 ('Orphans vs. Apotropus') discusses.",
+      "chosen_heading": "Orphans vs. Apotropus",
+      "current_heading": "Orphans vs. Apotropus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Orphan Protection Act",
+    "candidates": [
+      "Orphan Protection Act",
+      "Mazik Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the challenge to Rabbi Yochanan from Rav Asi's ruling and Rabbi Yochanan's own statement about orphan property protection \u2014 exactly the content described in heading 0's prose about the objection raised against attributing 'orphans pay' to Rabbi Yochanan.",
+      "chosen_heading": "Orphan Protection Act",
+      "current_heading": "Orphan Protection Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Mazik Exception",
+    "candidates": [
+      "Mazik Exception",
+      "Incentive Structures",
+      "Two Apotropus Types",
+      "Sumchus vs. Chachamim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mazik Exception",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the proposed reversal of opinions and Rava's rejection of it (because Rabbi Yosei bar \u1e24anina was a precise judge), which matches the 'Mazik Exception' prose exactly.",
+      "second_heading": "Incentive Structures",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 explain the resolution ('mazik shani') and then lay out the full incentive logic of each position (apitropas pays to avoid deterring volunteers; repaid later by orphans), which matches the 'Incentive Structures' prose exactly.",
+      "current_heading": "Mazik Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Sumchus vs. Chachamim",
+    "candidates": [
+      "Incentive Structures",
+      "Two Apotropus Types",
+      "Sumchus vs. Chachamim",
+      "Temimus = Full Tam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita dispute between Sumchus and the Chachamim about appointing an apitropas and rendering an ox forewarned, which is precisely what the 'Sumchus vs. Chachamim' prose section describes.",
+      "chosen_heading": "Sumchus vs. Chachamim",
+      "current_heading": "Sumchus vs. Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Temimus = Full Tam",
+    "candidates": [
+      "Temimus = Full Tam",
+      "Seifa: Reshus Meshaneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's analysis of what Sumchus means by 'betammuto' \u2014 concluding it means 'bitmimuto'/completeness and the dispute about appointing a steward for a tam \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Temimus = Full Tam",
+      "current_heading": "Temimus = Full Tam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Seifa: Reshus Meshaneh",
+    "candidates": [
+      "Seifa: Reshus Meshaneh",
+      "Rabbi Yaakov Brai\u0442\u0430"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the seifa dispute over reshus meshaneh between Sumakhos and Rabbi Yosei, which is precisely what the prose in candidate 0 discusses.",
+      "chosen_heading": "Seifa: Reshus Meshaneh",
+      "current_heading": "Seifa: Reshus Meshaneh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rabbi Yaakov Brai\u0442\u0430",
+    "candidates": [
+      "Rabbi Yaakov Brai\u0442\u0430",
+      "Hermeneutic Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself introducing Rabbi Yaakov's ruling about half damages for the ox of a deaf-mute, imbecile, or minor, which is exactly what heading 0's prose describes and introduces.",
+      "chosen_heading": "Rabbi Yaakov Brai\u0442\u0430",
+      "current_heading": "Rabbi Yaakov Brai\u0442\u0430",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Hermeneutic Question",
+    "candidates": [
+      "Hermeneutic Question",
+      "Rava: Hybrid Muad-Tam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's hermeneutic questions about Rabbi Ya'akov's ruling \u2014 first correcting the baraita's wording, then raising the tam/muad dilemma \u2014 which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Hermeneutic Question",
+      "current_heading": "Hermeneutic Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rava: Hybrid Muad-Tam",
+    "candidates": [
+      "Rava: Hybrid Muad-Tam",
+      "Shmirah Level Threshold",
+      "Synthesis: Half Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement establishing that the case involves a muad with reduced safeguarding, which is precisely what heading 0 ('Rava: Hybrid Muad-Tam') discusses in its prose.",
+      "chosen_heading": "Rava: Hybrid Muad-Tam",
+      "current_heading": "Rava: Hybrid Muad-Tam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Synthesis: Half Liability",
+    "candidates": [
+      "Shmirah Level Threshold",
+      "Synthesis: Half Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items continue the same discussion of Rabbi Ya'akov's synthesis combining Rabbi Yehuda's principles (tzad tamus, reduced shmirah for muad) with the Rabbanan's apitropas ruling to yield chatzi nezek, exactly what the 'Synthesis: Half Liability' prose describes, including the Abaye/Rabba bar Ulla exchange about whether Rabbi Ya'akov disagrees with or merely clarifies Rabbi Yehuda.",
+      "chosen_heading": "Synthesis: Half Liability",
+      "current_heading": "Synthesis: Half Liability",
+      "moved": false
+    }
+  }
+]

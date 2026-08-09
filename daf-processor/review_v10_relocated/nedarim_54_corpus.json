@@ -1,0 +1,228 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbi Akiva's View",
+    "candidates": [
+      "Intro: Pumpkin Exception",
+      "Ran's Explanations",
+      "Edible Raw Category",
+      "Rabbi Akiva's View",
+      "Chachamim's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself introducing the pumpkin exception and Rabbi Akiva's dispute, which matches the 'Intro: Pumpkin Exception' heading whose prose directly quotes and introduces this very mishnah content.",
+      "chosen_heading": "Intro: Pumpkin Exception",
+      "current_heading": "Rabbi Akiva's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Chachamim's Response",
+    "candidates": [
+      "Rabbi Akiva's View",
+      "Chachamim's Response",
+      "Machloket Framework",
+      "Ulla's Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's direct response ('said to them: The matter is so') contrasting gourds with legumes and concluding with the fresh/dry cowpea ruling, which is precisely what the 'Rabbi Akiva's View' prose describes \u2014 his reasoning about the shaliach's report and the kitnit contrast, plus the ful hamitzri ruling that supports his position.",
+      "chosen_heading": "Rabbi Akiva's View",
+      "current_heading": "Chachamim's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Ulla's Requirement",
+    "candidates": [
+      "Machloket Framework",
+      "Ulla's Requirement",
+      "Gemara's Challenge",
+      "Rashba's Extension",
+      "Tanna Kamma Position",
+      "Rabbi Akiva Position",
+      "Abaye: Malkot vs. Issur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Ulla's explanation that the mishnah refers to 'vegetables cooked in a pot' and the gemara's pushback about alternative phrasings, which is precisely what the 'Ulla's Requirement' section's prose describes.",
+      "chosen_heading": "Ulla's Requirement",
+      "current_heading": "Ulla's Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Abaye: Malkot vs. Issur",
+    "candidates": [
+      "Gemara's Challenge",
+      "Rashba's Extension",
+      "Tanna Kamma Position",
+      "Rabbi Akiva Position",
+      "Abaye: Malkot vs. Issur",
+      "Shlichut Intro",
+      "Ein Shaliach L'Aveira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Abaye: Malkot vs. Issur' \u2014 the Rabbis vs. Rabbi Akiva disagreement about agency/category and Abaye's concession that malkot does not apply, which is precisely what that section's prose elaborates.",
+      "chosen_heading": "Abaye: Malkot vs. Issur",
+      "current_heading": "Abaye: Malkot vs. Issur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Ein Shaliach L'Aveira",
+    "candidates": [
+      "Shlichut Intro",
+      "Ein Shaliach L'Aveira",
+      "Mishna: Meila",
+      "Correct Performance",
+      "Deviation from Task",
+      "Attribution Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the verbatim Mishna from Me'ila being introduced, and candidate 2 ('Mishna: Meila') explicitly describes and introduces this exact mishna text.",
+      "chosen_heading": "Mishna: Meila",
+      "current_heading": "Ein Shaliach L'Aveira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Attribution Problem",
+    "candidates": [
+      "Mishna: Meila",
+      "Correct Performance",
+      "Deviation from Task",
+      "Attribution Problem",
+      "Rabban Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic discussion about which tanna authored the me'ilah mishnah \u2014 Rav Chisda's challenge from Rabbi Akiva, Abaye's resolution, and Rava's endorsement \u2014 which is precisely what candidate 3 ('Attribution Problem') describes in its prose.",
+      "chosen_heading": "Attribution Problem",
+      "current_heading": "Attribution Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Rabban Shimon Position",
+    "candidates": [
+      "Rabban Shimon Position",
+      "Offal Distinction",
+      "Poultry vs. Fish Q",
+      "Abaye Answer 1"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabban Shimon Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita establishing Rabban Shimon ben Gamliel as the dissenting tanna and presenting the first opinion on what a meat-vow includes, which is exactly what the 'Rabban Shimon Position' prose describes.",
+      "second_heading": "Offal Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabban Shimon ben Gamliel's own contrasting position plus his statement that 'innards are not meat' (keravim lav basar), which is precisely what the 'Offal Distinction' prose elaborates upon.",
+      "current_heading": "Rabban Shimon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Abaye Answer 1",
+    "candidates": [
+      "Offal Distinction",
+      "Poultry vs. Fish Q",
+      "Abaye Answer 1",
+      "Shmuel's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the Gemara's question about why poultry is treated differently from fish under the first tanna's ruling, which matches the 'Poultry vs. Fish Q' heading's prose about the shaliach criterion and why the line is drawn between poultry and fish rather than including or excluding both.",
+      "chosen_heading": "Poultry vs. Fish Q",
+      "current_heading": "Abaye Answer 1",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Shmuel's Rule",
+    "candidates": [
+      "Abaye Answer 1",
+      "Shmuel's Rule",
+      "Braita: Hakazat Dam",
+      "Abaye Answer 2",
+      "Fish & Eyes Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's answer about bloodletting (hakazat dam) context, the Shmuel challenge about poultry, the two baraitot about forbidden foods after bloodletting, and the resolution about boiling poultry \u2014 all of which together constitute Abaye's first answer and its elaboration, matching the 'Abaye Answer 1' prose which explicitly anticipates Shmuel's challenge and the poultry distinction.",
+      "chosen_heading": "Abaye Answer 1",
+      "current_heading": "Shmuel's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Fish & Eyes Remedy",
+    "candidates": [
+      "Braita: Hakazat Dam",
+      "Abaye Answer 2",
+      "Fish & Eyes Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage (Abaye's statement about eye pain, fish being harmful for eyes, and the clarification about Shmuel's acronym referring to the latter stage of infection) directly matches the prose in 'Abaye Answer 2', which explicitly discusses this exact content about eye pain, fish being harmful for painful eyes, and the distinction between poultry and fish.",
+      "chosen_heading": "Abaye Answer 2",
+      "current_heading": "Fish & Eyes Remedy",
+      "moved": true
+    }
+  }
+]

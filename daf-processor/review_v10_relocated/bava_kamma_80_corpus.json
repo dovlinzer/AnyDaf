@@ -1,0 +1,521 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Small Animals in EY",
+    "candidates": [
+      "Small Animals in EY",
+      "Chickens & Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about not raising small domesticated animals in Eretz Yisrael, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Small Animals in EY",
+      "current_heading": "Small Animals in EY",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Chickens & Tumah",
+    "candidates": [
+      "Chickens & Tumah",
+      "Pigs Prohibited",
+      "Dogs Must Be Chained",
+      "Pigeon Traps Distance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition on raising chickens in Jerusalem due to kodashim and the extension of this prohibition to kohanim throughout Eretz Yisrael due to teruma purity concerns, which is precisely what the 'Chickens & Tumah' section prose describes.",
+      "chosen_heading": "Chickens & Tumah",
+      "current_heading": "Chickens & Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Pigeon Traps Distance",
+    "candidates": [
+      "Pigs Prohibited",
+      "Dogs Must Be Chained",
+      "Pigeon Traps Distance",
+      "Behema Daka/Gassa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three mishnaic rulings (pigs, dogs, pigeon traps) as a single textual unit, and the essay's structure treats them as separate sections \u2014 but since this is one quoted passage covering all three topics, it belongs under the first heading 'Pigs Prohibited' which introduces the beginning of this mishnaic excerpt, with the subsequent headings covering the prose commentary on each sub-topic.",
+      "chosen_heading": "Pigs Prohibited",
+      "current_heading": "Pigeon Traps Distance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Behema Daka/Gassa",
+    "candidates": [
+      "Pigeon Traps Distance",
+      "Behema Daka/Gassa",
+      "Import Rationale",
+      "Yom Tov Purchase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both baraitot deal with the prohibition on raising small domesticated animals (behema dakka) in Eretz Yisrael, the permitted zones (forests/wilderness), the Syria exception, and the distinction between behema dakka and behema gassa \u2014 all of which are precisely what the 'Behema Daka/Gassa' prose section describes.",
+      "chosen_heading": "Behema Daka/Gassa",
+      "current_heading": "Behema Daka/Gassa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Yom Tov Purchase",
+    "candidates": [
+      "Import Rationale",
+      "Yom Tov Purchase",
+      "Thirty-Day Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Import Rationale",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains why small animals can be imported but large ones cannot \u2014 exactly the import rationale discussed in candidate 0's prose.",
+      "second_heading": "Yom Tov Purchase",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the thirty-day leniency before Yom Tov and a son's wedding feast, which is precisely what candidate 1's prose about the 'Yom Tov Purchase' window describes.",
+      "current_heading": "Yom Tov Purchase",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Thirty-Day Limit",
+    "candidates": [
+      "Thirty-Day Limit",
+      "Rabban Gamliel Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the thirty-day limit for keeping animals \u2014 item 1 clarifies that once the Festival passes the thirty-day window closes, and item 2 is the baraita about the butcher's thirty-day limit \u2014 both of which are explicitly addressed in the 'Thirty-Day Limit' prose section.",
+      "chosen_heading": "Thirty-Day Limit",
+      "current_heading": "Thirty-Day Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Rabban Gamliel Ruling",
+    "candidates": [
+      "Rabban Gamliel Ruling",
+      "Fresh Milk Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the exchange between Rabban Gamliel and his students about keeping small animals, including the clarification about 'keeping' vs. 'raising' and the condition of tying to the bed legs \u2014 exactly what the 'Rabban Gamliel Ruling' prose section discusses.",
+      "chosen_heading": "Rabban Gamliel Ruling",
+      "current_heading": "Rabban Gamliel Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Fresh Milk Remedy",
+    "candidates": [
+      "Fresh Milk Remedy",
+      "Visitors' Recoil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of the pious man, the physicians' prescription of warm milk, and the goat tied to the bed \u2014 content that matches the 'Fresh Milk Remedy' prose precisely, before the visitors' recoil narrative of candidate 1.",
+      "chosen_heading": "Fresh Milk Remedy",
+      "current_heading": "Fresh Milk Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Visitors' Recoil",
+    "candidates": [
+      "Visitors' Recoil",
+      "Wealth Destroyed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the friends' visit, their recoil at the goat, their investigation, and the chasid's deathbed confession \u2014 all content explicitly covered in candidate 0's prose.",
+      "chosen_heading": "Visitors' Recoil",
+      "current_heading": "Visitors' Recoil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Wealth Destroyed",
+    "candidates": [
+      "Wealth Destroyed",
+      "Field Damage",
+      "Shepherd Teshuva",
+      "Ger Inherits Animals"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Ger Inherits Animals",
+    "candidates": [
+      "Field Damage",
+      "Shepherd Teshuva",
+      "Ger Inherits Animals",
+      "Vow Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita covers both the shepherd who repented AND the convert who inherited animals as a single teaching \u2014 it belongs under 'Shepherd Teshuva' (index 1) whose prose explicitly introduces both cases together, rather than splitting them across two headings.",
+      "chosen_heading": "Shepherd Teshuva",
+      "current_heading": "Ger Inherits Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Vow Timing",
+    "candidates": [
+      "Ger Inherits Animals",
+      "Vow Timing",
+      "Woman's Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses one who vowed to purchase a house or marry a woman in Eretz Yisrael and the ruling that he need not fulfill the vow immediately, which is precisely what the 'Vow Timing' section's prose describes.",
+      "chosen_heading": "Vow Timing",
+      "current_heading": "Vow Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Woman's Vow",
+    "candidates": [
+      "Woman's Vow",
+      "Permitted Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact incident of a woman's impulsive vow and the sages' ruling about her intent, which is precisely what the prose under 'Woman's Vow' discusses.",
+      "chosen_heading": "Woman's Vow",
+      "current_heading": "Woman's Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Permitted Animals",
+    "candidates": [
+      "Permitted Animals",
+      "Genets",
+      "Khuldot Sna'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself listing the permitted animals (village dogs, cats, monkeys, genets) with the rationale that they clean the house \u2014 this is precisely what the 'Permitted Animals' prose section describes as its content.",
+      "chosen_heading": "Permitted Animals",
+      "current_heading": "Permitted Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Khuldot Sna'im",
+    "candidates": [
+      "Genets",
+      "Khuldot Sna'im",
+      "Babylonia Status",
+      "Rav Huna Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question 'mai chuldot sna'im' and Rav Yehuda's identification of the creature, which is exactly what candidate 1's prose describes.",
+      "chosen_heading": "Khuldot Sna'im",
+      "current_heading": "Khuldot Sna'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Rav Huna Curse",
+    "candidates": [
+      "Babylonia Status",
+      "Rav Huna Curse",
+      "Hierarchy at Bris"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover exactly the content described in the 'Rav Huna Curse' prose: Rav Adda bar Ahava's challenge to Rav Huna about his animals, Rav Huna's reply about Chova watching them, the curse, its fulfillment, and the alternative version attributing the statement to Rav Huna \u2014 all of which is precisely what that section's prose discusses.",
+      "chosen_heading": "Rav Huna Curse",
+      "current_heading": "Rav Huna Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Hierarchy at Bris",
+    "candidates": [
+      "Hierarchy at Bris",
+      "White Cat Attack"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the same episode of Rav, Shmuel, and Rav Asi's hierarchy dispute at the celebration, which is precisely what the 'Hierarchy at Bris' prose discusses in detail.",
+      "chosen_heading": "Hierarchy at Bris",
+      "current_heading": "Hierarchy at Bris",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "White Cat Attack",
+    "candidates": [
+      "White Cat Attack",
+      "Gemara Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the cat attack and Rav's ruling, which is exactly what the 'White Cat Attack' prose discusses, before the Gemara's analytical questions addressed in the next section.",
+      "chosen_heading": "White Cat Attack",
+      "current_heading": "White Cat Attack",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Gemara Questions",
+    "candidates": [
+      "Gemara Questions",
+      "Black vs White Cats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's questions and answers scrutinizing Rav's ruling about cats \u2014 exactly what the 'Gemara Questions' prose describes, covering the permitted-to-kill/prohibited-to-keep question and Ravina's answer about the hide.",
+      "chosen_heading": "Gemara Questions",
+      "current_heading": "Gemara Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Black vs White Cats",
+    "candidates": [
+      "Black vs White Cats",
+      "Cat Colors Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the objection from Rabbi Shimon ben Elazar's baraita and the black vs. white cat resolution, which is precisely what the 'Black vs White Cats' section prose describes.",
+      "chosen_heading": "Black vs White Cats",
+      "current_heading": "Black vs White Cats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Cat Colors Explained",
+    "candidates": [
+      "Cat Colors Explained",
+      "Boils & Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the black-cat-from-white-parent question (uchma bar chivra) and Ravina's dilemma, which is exactly what the 'Cat Colors Explained' prose describes in detail.",
+      "chosen_heading": "Cat Colors Explained",
+      "current_heading": "Cat Colors Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Boils & Doors",
+    "candidates": [
+      "Boils & Doors",
+      "Door Metaphors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (the mnemonic introduction, the three rulings including boils/doors/bill of sale, the baraita objection about sores, and the moist/dry resolution) are exactly the content described in candidate 0's prose, which covers the chain of teachings, the alarm for chichuch, the baraita challenge, and Rabbi Yehoshua ben Levi's resolution about moist vs. dry boils.",
+      "chosen_heading": "Boils & Doors",
+      "current_heading": "Boils & Doors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Door Metaphors",
+    "candidates": [
+      "Door Metaphors",
+      "Writing Deed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the interpretations of 'a door that is locked will not be opened quickly,' which is precisely what the 'Door Metaphors' section's prose addresses, including Mar Zutra's smicha interpretation, Rav Ashi's general formulation, and Rav Acha mi-Difti's pessimistic version with the gemara's correction.",
+      "chosen_heading": "Door Metaphors",
+      "current_heading": "Door Metaphors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Writing Deed",
+    "candidates": [
+      "Writing Deed",
+      "Settlement Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the ruling about writing a deed for a house in Eretz Yisrael on Shabbat and the immediate incredulous question about it, which matches heading 0's prose that introduces this exact ruling and question, while heading 1's prose covers the answer (amira le-nochri) which is not yet in this passage.",
+      "chosen_heading": "Writing Deed",
+      "current_heading": "Writing Deed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Settlement Priority",
+    "candidates": [
+      "Settlement Priority",
+      "Amira Exception",
+      "Four Directions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the amira le-nochri solution for writing a deed on Shabbat and the specific exception for yishuv Eretz Yisrael, which is precisely what the 'Settlement Priority' prose describes.",
+      "chosen_heading": "Settlement Priority",
+      "current_heading": "Settlement Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Four Directions",
+    "candidates": [
+      "Amira Exception",
+      "Four Directions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about compelling a purchaser of a city in Eretz Yisrael to acquire pathways in all four directions is directly discussed in the 'Four Directions' section prose, which explicitly references this teaching and its rationale.",
+      "chosen_heading": "Four Directions",
+      "current_heading": "Four Directions",
+      "moved": false
+    }
+  }
+]

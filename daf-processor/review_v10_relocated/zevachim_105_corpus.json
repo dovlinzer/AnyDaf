@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Timing & Obligation",
+    "candidates": [
+      "Daf Location",
+      "Timing & Obligation",
+      "Psul & Incompleteness",
+      "Baraita Source",
+      "Psul Tuma not Yetzia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the dilemma described in the 'Timing & Obligation' prose: Rabbi Yirmiah bar Abba's question about whether the rule of 'adayin lo higi'a zmano latzeit' applies only to meat not destined to leave as a chova, or also to offerings whose ultimate obligation requires them to leave \u2014 which is precisely what items 1 and 2 articulate in sequence.",
+      "chosen_heading": "Timing & Obligation",
+      "current_heading": "Timing & Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Psul Tuma not Yetzia",
+    "candidates": [
+      "Psul & Incompleteness",
+      "Baraita Source",
+      "Psul Tuma not Yetzia",
+      "Mixed Majority Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's attempt to resolve the question from the baraita ('Come and hear that which Levi teaches') and the initial question of whether 'psul beyetziato' means disqualification by leaving \u2014 which is exactly what the 'Baraita Source' prose describes, before the answer is given in the next section.",
+      "chosen_heading": "Baraita Source",
+      "current_heading": "Psul Tuma not Yetzia",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Mixed Majority Query",
+    "candidates": [
+      "Psul Tuma not Yetzia",
+      "Mixed Majority Query",
+      "Half by Limb Majority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's dilemma about bulls and goats burned outside, asking whether the minority of a limb is cast after the majority of that limb or the majority of the whole animal \u2014 exactly what the 'Mixed Majority Query' prose describes.",
+      "chosen_heading": "Mixed Majority Query",
+      "current_heading": "Mixed Majority Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Half by Limb Majority",
+    "candidates": [
+      "Half by Limb Majority",
+      "Assessment Standard",
+      "Teiku Case",
+      "Workers Departure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Half by Limb Majority",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's clarification and reformulation of the dilemma \u2014 the 'obvious' rejection and the harder case of majority-of-limb \u2014 which matches the 'Half by Limb Majority' prose exactly.",
+      "second_heading": "Assessment Standard",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the two competing assessment standards (*batar rov ever* vs. *batar beheimah*) and the teiku conclusion, which maps precisely onto the 'Assessment Standard' prose describing those exact two options \u2014 the teiku resolution belongs under 'Teiku Case' but 'Assessment Standard' prose actually incorporates the teiku framing, and candidate 1's prose is the clearest match for item 2's content of the two options being weighed.",
+      "current_heading": "Half by Limb Majority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Workers Departure",
+    "candidates": [
+      "Assessment Standard",
+      "Teiku Case",
+      "Workers Departure",
+      "Workers vs. Animal",
+      "Teiku Dispute",
+      "Return Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabba bar Rav Huna's variant formulation applying the majority question to the workers (matni lah begavrei) with five people handling the offering and three departing, which is exactly what the 'Workers Departure' prose describes.",
+      "chosen_heading": "Workers Departure",
+      "current_heading": "Workers Departure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Return Scenario",
+    "candidates": [
+      "Workers vs. Animal",
+      "Teiku Dispute",
+      "Return Scenario",
+      "Contamination Trigger",
+      "Front Exit Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's dilemma about bulls and goats that left and returned, which is precisely what the 'Return Scenario' prose describes.",
+      "chosen_heading": "Return Scenario",
+      "current_heading": "Return Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Front Exit Scenario",
+    "candidates": [
+      "Contamination Trigger",
+      "Front Exit Scenario",
+      "Person vs. Animal",
+      "Proof from Mishna",
+      "Ravina's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abba bar Memel introducing the pole-carrying case where front carriers exit while rear carriers remain inside, which matches exactly the prose of 'Front Exit Scenario' that describes this precise setup.",
+      "chosen_heading": "Front Exit Scenario",
+      "current_heading": "Front Exit Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Ravina's Answer",
+    "candidates": [
+      "Person vs. Animal",
+      "Proof from Mishna",
+      "Ravina's Answer",
+      "Types of Offerings",
+      "Handler Impurity",
+      "Animal Status Lower",
+      "Food Impurity Only",
+      "Why Impurity Here"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the core of Ravina's objection and the subsequent clarification of Rabbi Elazar's dilemma, which is precisely what the 'Ravina's Answer' prose section describes in detail.",
+      "chosen_heading": "Ravina's Answer",
+      "current_heading": "Ravina's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Why Impurity Here",
+    "candidates": [
+      "Types of Offerings",
+      "Handler Impurity",
+      "Animal Status Lower",
+      "Food Impurity Only",
+      "Why Impurity Here",
+      "Meir's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita introduces all three categories (parim, parah adumah, seir hamishtaleach) along with the full set of rules about handler impurity, animal impurity, food/drink impurity, and the Meir/Rabbis dispute \u2014 making 'Types of Offerings' the natural home for this complete introductory passage rather than any of the more specific sub-topic headings.",
+      "chosen_heading": "Types of Offerings",
+      "current_heading": "Why Impurity Here",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Meir's Rule",
+    "candidates": [
+      "Why Impurity Here",
+      "Meir's Rule",
+      "Kosher Bird Exception",
+      "Consistency Challenge",
+      "External Source Logic",
+      "Meat Status Difference",
+      "Inside Impurity Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Items 1-2 present the school of Rabbi Yishmael's drasha (which supports Rabbi Meir), and items 3-4 present the challenge to the Rabbanan and Rav Dimi's resolution \u2014 the entire passage is the Gemara's consistency challenge to the Rabbanan and their answer, which matches the 'Consistency Challenge' prose (candidate 3) and its continuation in 'External Source Logic' (candidate 4), but the current placement under 'Meir's Rule' (candidate 1) already includes items 1-2 as setup; however, candidate 3's prose explicitly frames the challenge to the Rabbanan and the dilemma about hechsher, which is the main thrust of items 3-4, and items 1-2 are the setup for that very challenge, making candidate 3 the best single home for all four items.",
+      "chosen_heading": "Consistency Challenge",
+      "current_heading": "Meir's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Inside Impurity Status",
+    "candidates": [
+      "Kosher Bird Exception",
+      "Consistency Challenge",
+      "External Source Logic",
+      "Meat Status Difference",
+      "Inside Impurity Status",
+      "Incomplete = No Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's dilemma about whether parim and se'irim hanisrafim can transmit impurity to food and drink while still inside the Temple courtyard, which is precisely what the 'Inside Impurity Status' prose describes.",
+      "chosen_heading": "Inside Impurity Status",
+      "current_heading": "Inside Impurity Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Incomplete = No Impurity",
+    "candidates": [
+      "Incomplete = No Impurity",
+      "Parallel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's resolution that 'mechusar yetzia kimechusar ma'aseh dami,' which directly matches the prose of heading 0 that explains this exact ruling about incompleteness of yetzia forestalling tumah transmission.",
+      "chosen_heading": "Incomplete = No Impurity",
+      "current_heading": "Incomplete = No Impurity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Parallel Case",
+    "candidates": [
+      "Parallel Case",
+      "Timing of Impurity",
+      "Stages of Impurity",
+      "Incomplete Action",
+      "Thirteen Rules Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma and resolution described in candidate 3's prose: the question of whether mechusar kreiva is like mechusar ma'aseh, and the resolution that it is not \u2014 which is the precise content of all four items.",
+      "chosen_heading": "Incomplete Action",
+      "current_heading": "Parallel Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Thirteen Rules Summary",
+    "candidates": [
+      "Timing of Impurity",
+      "Stages of Impurity",
+      "Incomplete Action",
+      "Thirteen Rules Summary",
+      "Baraita Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items constitute the objection from the 'thirteen matters' mishna and the Gemara's back-and-forth about whose opinion it represents, which is precisely what the 'Thirteen Rules Summary' prose describes \u2014 the baraita's clauses, the question of attribution to Rabbi Meir or Rabbanan, and the structural tension the Gemara must resolve.",
+      "chosen_heading": "Thirteen Rules Summary",
+      "current_heading": "Thirteen Rules Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Baraita Structure",
+    "candidates": [
+      "Baraita Structure",
+      "Counting Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous challenge-and-response sequence about the baraita's structural puzzle (reisha/metziata/seifa attributed to different tannaim), which is exactly what the 'Baraita Structure' prose describes.",
+      "chosen_heading": "Baraita Structure",
+      "current_heading": "Baraita Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Counting Levels",
+    "candidates": [
+      "Counting Levels",
+      "Contact Rule",
+      "Sui Generis Status",
+      "Connection Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Hamnuna's urgent question to Rabbi Zeira about whether neveilat of tahor according to Rabbi Meir counts rishon vesheni, which is precisely what the 'Counting Levels' prose describes.",
+      "chosen_heading": "Counting Levels",
+      "current_heading": "Counting Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Connection Levels",
+    "candidates": [
+      "Contact Rule",
+      "Sui Generis Status",
+      "Connection Levels",
+      "Counting Question",
+      "General Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sui Generis Status",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 gives the closing answer about neveilat of tahor bird (tumah bemaga), which fits the 'Sui Generis Status' discussion of why neveilat of tahor doesn't follow normal contact-based tumah counting.",
+      "second_heading": "Connection Levels",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form a self-contained unit introducing a new case (chiburei ochlin al yedei mashkin from the mishna), posing the counting question, and providing the answer \u2014 all squarely matching the 'Connection Levels' prose.",
+      "current_heading": "Connection Levels",
+      "moved": true
+    }
+  }
+]

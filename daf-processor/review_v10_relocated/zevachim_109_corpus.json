@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Psulan Bakodesh",
+    "candidates": [
+      "Opening & Review",
+      "Ra'ui Principle",
+      "Psulan Bakodesh",
+      "Baal Mum Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna passage introduces the basic rule of liability for offering kodshim kesherim and kodshim pesulim outside the Temple, which corresponds to the 'Opening & Review' section's description of the daf turning to which types of korbanot fall within the scope of the prohibition \u2014 it is the opening Mishna statement, not yet the detailed analysis of psulan bakodesh or ra'ui principle.",
+      "chosen_heading": "Opening & Review",
+      "current_heading": "Psulan Bakodesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Baal Mum Exception",
+    "candidates": [
+      "Psulan Bakodesh",
+      "Baal Mum Exception",
+      "Baraita Expansion",
+      "Non-Meat Items",
+      "Libations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage 'hamaleh kezayit min ha'olah umin ha'imurin bachutz chayav' is explicitly quoted and discussed in the 'Baraita Expansion' section's prose, which directly addresses this Mishnah statement about liability for offering an olive-bulk from a burnt offering or sacrificial portions outside.",
+      "chosen_heading": "Baraita Expansion",
+      "current_heading": "Baal Mum Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Libations",
+    "candidates": [
+      "Baraita Expansion",
+      "Non-Meat Items",
+      "Libations",
+      "Psulan Extension"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Expansion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita's expansion from 'burnt offering' to include sacrificial portions of other offerings via the word 'zavach', which is exactly what heading 0 ('Baraita Expansion') discusses.",
+      "second_heading": "Non-Meat Items",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the inclusion of non-animal items (kometz, levonah, ketores, minchat kohanim) and libations via the verse 'v'el petach ohel moed lo yevienu', which matches headings 1 and 2 \u2014 but heading 1 ('Non-Meat Items') covers the kometz/levonah/ketores content while heading 2 ('Libations') covers the libation and the concluding verse, and since both items are in a single continuous baraita passage, the best single home for item 2 is heading 1 which begins that sub-topic.",
+      "current_heading": "Libations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Psulan Extension",
+    "candidates": [
+      "Libations",
+      "Psulan Extension",
+      "Olah vs Shelamim",
+      "Pigul Question",
+      "Machshevet Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita's extension of liability to unfit offerings (pesulim) \u2014 posing the question, enumerating the qualifying categories of psulan bakodesh, and deriving the source verse \u2014 which is precisely what the 'Psulan Extension' prose describes.",
+      "chosen_heading": "Psulan Extension",
+      "current_heading": "Psulan Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Machshevet Pigul",
+    "candidates": [
+      "Olah vs Shelamim",
+      "Pigul Question",
+      "Machshevet Pigul",
+      "Notar Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Olah vs Shelamim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Mishnah inference and the baraita confirming that olah and its imurim combine while shelamim do not, which matches the 'Olah vs Shelamim' prose exactly.",
+      "second_heading": "Pigul Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 raise the objection about pigul/notar and begin resolving the pigul contradiction, matching the 'Pigul Question' prose which covers exactly this challenge and the kol hapigulin mishna contradiction.",
+      "current_heading": "Machshevet Pigul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Notar Contradiction",
+    "candidates": [
+      "Machshevet Pigul",
+      "Notar Contradiction",
+      "Rabbi Yehoshua View",
+      "Olah Blood Allowance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Notar Contradiction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the notar contradiction by distinguishing between notar after blood-sprinkling and the case where only an olive-bulk remained before blood was sprinkled, which is precisely what the 'Notar Contradiction' prose describes.",
+      "second_heading": "Rabbi Yehoshua View",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce Rabbi Yehoshua's ruling that for any sacrifice, if a kezayit of meat or chelev remains one sprinkles the blood, which matches exactly the 'Rabbi Yehoshua View' prose.",
+      "current_heading": "Notar Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Olah Blood Allowance",
+    "candidates": [
+      "Rabbi Yehoshua View",
+      "Olah Blood Allowance",
+      "Rashi Resolution",
+      "Burnt Items",
+      "Rabbi Eliezer Full",
+      "Act vs Matir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita about half-kezayit of meat and fat for olah vs. shelamim, and the mincha clarification by Rav Pappa \u2014 precisely the content described in the 'Olah Blood Allowance' prose.",
+      "chosen_heading": "Olah Blood Allowance",
+      "current_heading": "Olah Blood Allowance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Act vs Matir",
+    "candidates": [
+      "Rashi Resolution",
+      "Burnt Items",
+      "Rabbi Eliezer Full",
+      "Act vs Matir",
+      "Ketores Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Burnt Items",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text that the 'Burnt Items' and 'Rabbi Eliezer Full' / 'Act vs Matir' sections discuss \u2014 specifically the kometz/levonah/ketores list, Rabbi Eliezer's exemption, the 'sacrificed inside but left over a kezayit' case, and the 'lacking any amount' exemption, all of which are explicitly quoted and analyzed under those headings.",
+      "second_heading": "Ketores Baraita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 \u2014 'one who sacrifices sacrificial meat and sacrificial portions outside is liable' \u2014 introduces the next distinct Mishnaic case about kodshim and eimurim, which is the subject of the 'Ketores Baraita' section and represents a new self-contained topic separate from the kometz/matir discussion.",
+      "current_heading": "Act vs Matir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Ketores Baraita",
+    "candidates": [
+      "Act vs Matir",
+      "Ketores Baraita",
+      "Contradiction Noted",
+      "Patur Tzibur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about kezayit outside/chatzi pras inside and the initial puzzling reading of 'patur zar', which is precisely what the 'Ketores Baraita' prose describes \u2014 the citation of the baraita and the apparent contradiction it raises before resolution.",
+      "chosen_heading": "Ketores Baraita",
+      "current_heading": "Ketores Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Patur Tzibur",
+    "candidates": [
+      "Contradiction Noted",
+      "Patur Tzibur",
+      "Daily Ketores",
+      "Abaye Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous chain discussed under 'Patur Tzibur': items 1-2 are Rav's reinterpretation of patur as patur tzibur and Rabbi Zeira's difficulty with it, and items 3-4 are Rabba's resolution clarifying that the consensus applies to the daily Heichal ketores while the dispute concerns the inner sanctum \u2014 exactly the sequence the 'Patur Tzibur' prose describes.",
+      "chosen_heading": "Patur Tzibur",
+      "current_heading": "Patur Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Abaye Resolution",
+    "candidates": [
+      "Daily Ketores",
+      "Abaye Resolution",
+      "Daily Debate",
+      "Rava Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are Abaye's resolution: item 1 is his objection to Rava's framing (the 'chukka' is written regarding inner-sanctum burning), item 2 is his revised statement that everyone agrees on inner-sanctum burning, and item 3 is his identification of the actual dispute \u2014 exactly the content described in the 'Abaye Resolution' prose.",
+      "chosen_heading": "Abaye Resolution",
+      "current_heading": "Abaye Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Rava Rejection",
+    "candidates": [
+      "Daily Debate",
+      "Rava Rejection",
+      "Vessel Interpretation",
+      "Chachamim View",
+      "Rabbi Eliezer Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form Rava's rejection of Abaye's framework: item 1 is Rava's initial objection, item 2 is the baraita proof-text, and item 3 is the inference drawn from it \u2014 exactly matching the 'Rava Rejection' prose which describes this same argument and cites the same baraita about kometz and wine libations.",
+      "chosen_heading": "Rava Rejection",
+      "current_heading": "Rava Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rabbi Eliezer Vessel",
+    "candidates": [
+      "Vessel Interpretation",
+      "Chachamim View",
+      "Rabbi Eliezer Vessel",
+      "Keviusa Demana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's complete resolution \u2014 item 1 introduces the case of two half-peras placed in a vessel, and item 2 states the resulting dispute about keviusa demana \u2014 which corresponds exactly to candidate 0's prose describing Rava's proposal and the vessel-configuration question, before the separate headings for each side's view.",
+      "chosen_heading": "Vessel Interpretation",
+      "current_heading": "Rabbi Eliezer Vessel",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rav's Teaching",
+    "candidates": [
+      "Wine Transport Review",
+      "Non-Jewish Contact",
+      "Assur BeHana'ah Status",
+      "Rav's Teaching",
+      "Non-Jewish Constitution",
+      "Beer Vinegar Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the teaching Shmuel relays to \u1e24iyya bar Rav about Rav's statement regarding Arameans who drink exposed liquids, which is precisely what heading 3 ('Rav's Teaching') describes in its prose.",
+      "chosen_heading": "Rav's Teaching",
+      "current_heading": "Rav's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Beer Vinegar Prohibition",
+    "candidates": [
+      "Non-Jewish Constitution",
+      "Beer Vinegar Prohibition",
+      "Warehoused Exception",
+      "Spoilage Logic",
+      "Mead Concern",
+      "Stored Beverages Rule",
+      "Back Room Caveat",
+      "Price & Admixture Risk",
+      "Definition",
+      "Rav Dimi's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Yosef's ruling about beer vinegar being prohibited due to wine lees admixture and Rav Ashi's storehouse exception, which is precisely what the 'Beer Vinegar Prohibition' prose describes.",
+      "chosen_heading": "Beer Vinegar Prohibition",
+      "current_heading": "Beer Vinegar Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Dimi's Explanation",
+    "candidates": [
+      "Warehoused Exception",
+      "Spoilage Logic",
+      "Mead Concern",
+      "Stored Beverages Rule",
+      "Back Room Caveat",
+      "Price & Admixture Risk",
+      "Definition",
+      "Rav Dimi's Explanation",
+      "Wine Transport Method",
+      "Wine Quality",
+      "Central Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage covers both the definition of Hadrianic pottery (Rav Yehuda/Shmuel's answer) and Rav Dimi's explanation and Rabbi Yehoshua ben Levi's quality comparison, but since the essay splits these into separate sections and the passage begins with 'what is Hadrianic earthenware,' it most naturally belongs under 'Definition' (index 6), which is where the Gemara's question and Shmuel's answer are discussed \u2014 however, since the passage contains all three elements (definition, Rav Dimi's account, and Rabbi Yehoshua ben Levi's statement) and the current placement at index 7 covers Rav Dimi's explanation while index 6 covers the definition, the passage as a whole best fits under index 6 as the starting point of this entire Gemara discussion about what Hadrianic pottery is.",
+      "chosen_heading": "Definition",
+      "current_heading": "Rav Dimi's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Central Question",
+    "candidates": [
+      "Wine Transport Method",
+      "Wine Quality",
+      "Central Question",
+      "Barrels & Flasks Baraita",
+      "Rabban Gamliel Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the dilemma of using Hadrianic pottery shards to support a bed leg and the resulting halakhic ruling, which is precisely what the 'Central Question' prose discusses.",
+      "chosen_heading": "Central Question",
+      "current_heading": "Central Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabban Gamliel Story",
+    "candidates": [
+      "Barrels & Flasks Baraita",
+      "Rabban Gamliel Story",
+      "Saddle Cloth Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about gentile jugs/flagons and the Shimon ben Guda testimony as a single unit, and candidate 0 ('Barrels & Flasks Baraita') covers the entire baraita including both elements, while the current placement under 'Rabban Gamliel Story' only covers the second half of the passage.",
+      "chosen_heading": "Barrels & Flasks Baraita",
+      "current_heading": "Rabban Gamliel Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Saddle Cloth Prohibition",
+    "candidates": [
+      "Rabban Gamliel Story",
+      "Saddle Cloth Prohibition",
+      "Challenge to Buy Jugs",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Shimon ben Gamliel's prohibition on fashioning saddle cloths from non-Jewish wineskins, which is exactly what the 'Saddle Cloth Prohibition' prose discusses.",
+      "chosen_heading": "Saddle Cloth Prohibition",
+      "current_heading": "Saddle Cloth Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Challenge to Buy Jugs",
+      "Rava's Answer",
+      "Concentration Logic",
+      "First Version"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Challenge to Buy Jugs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the challenge about jugs (the retort) and Rava's answer about the wineskin/gezeirah, matching heading 0 ('Challenge to Buy Jugs') which explicitly asks 'what is the difference between the leather flask and pottery jugs' \u2014 but more precisely, since heading 1 ('Rava's Answer') covers Rava's gezeirah explanation in detail and heading 0 covers the challenge, item 1 spans both; however, heading 1's prose most fully describes item 1's content including the challenge and Rava's response together, making heading 1 the better single home for item 1.",
+      "second_heading": "Concentration Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses why jugs are permitted according to the opinion that desires continued existence of a prohibited item for another purpose, explaining that ordinary vessels lack a substantive prohibited entity while Hadrianic pottery has the wine present in substance \u2014 this matches heading 2 ('Concentration Logic') which discusses exactly this distinction between ordinary vessels and Hadrianic pottery.",
+      "current_heading": "Rava's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "First Version",
+    "candidates": [
+      "Concentration Logic",
+      "First Version",
+      "Second Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between 'v'lo hodu lo' and 'v'hodu lo' from the two baraitot, which is precisely what the 'First Version' prose describes as the starting point of reconciliation between the two contradictory endings.",
+      "chosen_heading": "First Version",
+      "current_heading": "First Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Second Version",
+    "candidates": [
+      "Second Version",
+      "Storage Implications",
+      "Definition & Purpose",
+      "Blood Indicator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two resolutions about 'Guda' \u2014 first that his son conceded, and second that the two Gudas (aleph vs. ayin) are discrete individuals \u2014 which is precisely what the 'Second Version' section's prose describes.",
+      "chosen_heading": "Second Version",
+      "current_heading": "Second Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Blood Indicator",
+    "candidates": [
+      "Storage Implications",
+      "Definition & Purpose",
+      "Blood Indicator",
+      "Salted Leather Rule",
+      "Shape Distinction",
+      "Rav Yosef-Abaye Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Blood Indicator",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita defining a levuv hide and the blood-presence/absence rule, which is precisely what 'Blood Indicator' prose discusses.",
+      "second_heading": "Salted Leather Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Huna's ruling that salted leather is forbidden even without visible blood because salt removes traces, which is exactly what 'Salted Leather Rule' prose describes.",
+      "current_heading": "Blood Indicator",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Rav Yosef-Abaye Debate",
+    "candidates": [
+      "Salted Leather Rule",
+      "Shape Distinction",
+      "Rav Yosef-Abaye Debate",
+      "Pre-Entry Permission",
+      "Rabbinic Attribution",
+      "Rabbi Elazar's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Yosef\u2013Abaye exchange about whether ruling like Rabban Shimon ben Gamliel implies a dispute with the Tanna Kamma, which is precisely what candidate 2 ('Rav Yosef-Abaye Debate') describes in its prose.",
+      "chosen_heading": "Rav Yosef-Abaye Debate",
+      "current_heading": "Rav Yosef-Abaye Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rabbi Elazar's View",
+    "candidates": [
+      "Pre-Entry Permission",
+      "Rabbinic Attribution",
+      "Rabbi Elazar's View",
+      "Main Position",
+      "Post-Exit Forbidden",
+      "Ba'al Pe'or Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'who is the tanna?' and answers with Rabbi \u1e24iyya bar Abba citing Rabbi Yo\u1e25anan that it is not in accordance with Rabbi Elazar \u2014 this is precisely the attribution question described in the 'Rabbinic Attribution' prose.",
+      "chosen_heading": "Rabbinic Attribution",
+      "current_heading": "Rabbi Elazar's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Ba'al Pe'or Source",
+    "candidates": [
+      "Main Position",
+      "Post-Exit Forbidden",
+      "Ba'al Pe'or Source",
+      "Tosafot's Question",
+      "First Answer",
+      "Second Answer",
+      "To Festival Ban",
+      "Worship Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's attribution of the Mishnah's ruling to Rabbi Yehuda ben Beteira and the baraita deriving tumah from the Ba'al Pe'or verse \u2014 precisely what the 'Ba'al Pe'or Source' prose describes.",
+      "chosen_heading": "Ba'al Pe'or Source",
+      "current_heading": "Ba'al Pe'or Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Worship Benefit",
+    "candidates": [
+      "Tosafot's Question",
+      "First Answer",
+      "Second Answer",
+      "To Festival Ban",
+      "Worship Benefit",
+      "Return Permission",
+      "To Festival Permission",
+      "Return Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the Mishnah's rule about those going to a festival (haholechin letarpot) and Shmuel's distinction between going and returning, which is exactly what the 'To Festival Ban' prose introduces \u2014 the current placement under 'Worship Benefit' splits what is a single unified passage that belongs under the heading that introduces the topic.",
+      "chosen_heading": "To Festival Ban",
+      "current_heading": "Worship Benefit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Return Prohibition",
+    "candidates": [
+      "Return Permission",
+      "To Festival Permission",
+      "Return Prohibition",
+      "Habitual Worshiper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the rule for a Jew going to a festival \u2014 permitted on the way there (dilma hadar bei) and prohibited on return (mehadur hadur azil) \u2014 which matches the 'To Festival Permission' section's prose that explains both the bahalicha mutar rule and sets up the bachazara assur, rather than the 'Return Prohibition' section which only discusses the return.",
+      "chosen_heading": "To Festival Permission",
+      "current_heading": "Return Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Habitual Worshiper",
+    "candidates": [
+      "Return Prohibition",
+      "Habitual Worshiper",
+      "Non-Jew Fair Rules",
+      "Jew Fair Rules",
+      "Contaminated Money Logic",
+      "Benefit of Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita challenge about a Jew being prohibited both going and returning, and Rav Ashi's resolution that it refers to a Yisrael mumar (apostate/habitual idolater) \u2014 exactly what the 'Habitual Worshiper' prose describes.",
+      "chosen_heading": "Habitual Worshiper",
+      "current_heading": "Habitual Worshiper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Benefit of Doubt",
+    "candidates": [
+      "Non-Jew Fair Rules",
+      "Jew Fair Rules",
+      "Contaminated Money Logic",
+      "Benefit of Doubt"
+    ],
+    "result": null
+  }
+]

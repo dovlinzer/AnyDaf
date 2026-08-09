@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "R. Yishmael Position",
+    "candidates": [
+      "YK Inner Overview",
+      "YK Musaf Linkage",
+      "R. Yishmael Position",
+      "Linking Question",
+      "Atonement Function",
+      "Why So Many",
+      "Theological Sig.",
+      "Central Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the internal goat's atonement mechanism \u2014 the yedi'ah configurations, what 'l'khol chatatam' teaches, and whether the goat effects complete atonement or merely suspends punishment \u2014 which directly matches the 'YK Inner Overview' prose discussing the inner service, its yedi'ah profile, and the derivation from l'khol chatatam.",
+      "chosen_heading": "YK Inner Overview",
+      "current_heading": "R. Yishmael Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Central Focus",
+    "candidates": [
+      "Linking Question",
+      "Atonement Function",
+      "Why So Many",
+      "Theological Sig.",
+      "Central Focus",
+      "Priestly Role",
+      "Knowledge Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses the source and function of the external Yom Kippur goat's atonement, the juxtaposition of internal and external goats, and Rabbi Yishmael's position on yedi'ah \u2014 all of which matches the 'Knowledge Source' heading's prose about deriving the specific atonement function of musaf korbanot from scriptural linkage, rather than the 'Central Focus' heading where it currently sits.",
+      "chosen_heading": "Knowledge Source",
+      "current_heading": "Central Focus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Knowledge Source",
+    "candidates": [
+      "Priestly Role",
+      "Knowledge Source",
+      "L'Chatat L'Hashem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna quote presenting Rabbi Yehuda's opinion about goats of regalim and Rosh Chodesh atoning for sins without any yedi'ah, which is exactly what the 'Knowledge Source' prose introduces as the starting point before asking what the source for this ruling is.",
+      "chosen_heading": "Knowledge Source",
+      "current_heading": "Knowledge Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "L'Chatat L'Hashem",
+    "candidates": [
+      "L'Chatat L'Hashem",
+      "Moon Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rav Yehuda's reasoning from the phrase 'le-chatat la-Hashem' as indicating a sin known only to God, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "L'Chatat L'Hashem",
+      "current_heading": "L'Chatat L'Hashem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Moon Midrash",
+    "candidates": [
+      "Moon Midrash",
+      "Rashi Interp.",
+      "Necessary Harm",
+      "Jewish Fate",
+      "Fixed Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are a continuous Talmudic exchange about the dual derivation from 'la-Hashem' \u2014 Reish Lakish's moon midrash and the hidden-sin teaching \u2014 which is precisely what the 'Moon Midrash' section's prose discusses.",
+      "chosen_heading": "Moon Midrash",
+      "current_heading": "Moon Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Fixed Times",
+    "candidates": [
+      "Rashi Interp.",
+      "Necessary Harm",
+      "Jewish Fate",
+      "Fixed Times",
+      "Regalim Question",
+      "RCh Scope Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the school of Rabbi Yishmael's gezeirah shavah based on fixed times (zman kavua) to limit the Rosh Chodesh goat's atonement to tumat mikdash, which is precisely what the 'Fixed Times' section's prose describes.",
+      "chosen_heading": "Fixed Times",
+      "current_heading": "Fixed Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "RCh Scope Limit",
+    "candidates": [
+      "Regalim Question",
+      "RCh Scope Limit",
+      "Vav Link",
+      "Final Chart",
+      "Ibayu Lehu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about deriving the atonement function of the regalim goats and why the standard gezeirah shavah cannot be extended to them \u2014 exactly what the 'Regalim Question' prose describes, whereas the current placement 'RCh Scope Limit' is about why the analogy works for Rosh Chodesh but not the regalim (which is the content of item 2 specifically, but both items together form the question-and-partial-answer unit that belongs under the Regalim Question heading).",
+      "chosen_heading": "Regalim Question",
+      "current_heading": "RCh Scope Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Ibayu Lehu",
+    "candidates": [
+      "Vav Link",
+      "Final Chart",
+      "Ibayu Lehu",
+      "Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vav Link",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi \u1e24ama bar \u1e24anina's vav-linkage derivation equating the regalim goats with the Rosh Chodesh goats, which matches the 'Vav Link' prose exactly.",
+      "second_heading": "Ibayu Lehu",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the dilemma about whether 'no awareness at beginning or end' covers sins that will eventually become known, which is precisely what the 'Ibayu Lehu' prose describes.",
+      "current_heading": "Ibayu Lehu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Baraita",
+    "candidates": [
+      "Baraita",
+      "No Retroactive",
+      "Shimon Position",
+      "Eating Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself containing Rabbi Yehuda's ruling about sins with no awareness at beginning or end that will eventually become known, which is precisely what the current 'Baraita' section's prose describes and introduces.",
+      "chosen_heading": "Baraita",
+      "current_heading": "Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Eating Tamei",
+    "candidates": [
+      "No Retroactive",
+      "Shimon Position",
+      "Eating Tamei",
+      "Avon HaEidah",
+      "Tzitz Avon",
+      "Kodashim Valid",
+      "Eida Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items elaborate the gezeirah shavah connecting the Rosh Chodesh goat's 'avon ha-eidah' with the tzitz's 'avon ha-kodashim' \u2014 including the derivation, its limits ('avon ha-eidah' excludes meat that ascends the altar), and why the goat cannot simultaneously cover both its own and the tzitz's atonement \u2014 which is precisely what the 'Tzitz Avon' prose describes as establishing and carefully drawing out.",
+      "chosen_heading": "Tzitz Avon",
+      "current_heading": "Eating Tamei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Eida Sin",
+    "candidates": [
+      "Avon HaEidah",
+      "Tzitz Avon",
+      "Kodashim Valid",
+      "Eida Sin",
+      "Single Function",
+      "Regalim Problem",
+      "Vav Linkage",
+      "No Double Duty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items address the exclusivity principle \u2014 that each atonement mechanism does only its own job \u2014 which is precisely what the 'Single Function' prose discusses: the Torah's use of 'otah' to establish that the Rosh Chodesh goat carries only avon ha-eidah, and Rav Ashi's gezeirah shavah showing that kodashim velo eidah / eidah velo kodashim.",
+      "chosen_heading": "Single Function",
+      "current_heading": "Eida Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "No Double Duty",
+    "candidates": [
+      "Single Function",
+      "Regalim Problem",
+      "Vav Linkage",
+      "No Double Duty",
+      "Reserved Rows",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The entire passage centers on establishing the regalim goats' function via Rabbi Chama bar Rabbi Chanina's vav-linkage principle (se'ir ve-se'ir) and then eliminating overlaps with Rosh Chodesh and Yom Kippur, which precisely matches heading 2's discussion of what the vav linkage accomplishes for the regalim in the kodesh domain.",
+      "chosen_heading": "Vav Linkage",
+      "current_heading": "No Double Duty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Reserved Rows",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the elimination argument ('if not X, if not Y, if not Z, therefore perforce no awareness at beginning or end') that the 'Conclusion' prose directly summarizes and explains as filling the final open slot in the yedi'ah configuration system.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Conclusion",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Gefet vs. Sesame",
+    "candidates": [
+      "Hatmanah Defined",
+      "Heat-Adding Materials",
+      "Gefet vs. Sesame",
+      "Blech Problem",
+      "Tosafot's Distinction",
+      "Practical Application",
+      "Flask Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion about gefet shel zeitim vs. sesame residue \u2014 the dilemma, the proof from Rabbi Zeira, and the rejection/resolution \u2014 which is precisely what the 'Gefet vs. Sesame' prose describes.",
+      "chosen_heading": "Gefet vs. Sesame",
+      "current_heading": "Gefet vs. Sesame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Flask Story",
+    "candidates": [
+      "Blech Problem",
+      "Tosafot's Distinction",
+      "Practical Application",
+      "Flask Story",
+      "Cloth & Squeezing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabba and Rabbi Zeira visiting the Reish Galuta's house and observing a servant place a flask of cold water on a hot kettle, which is precisely the 'Flask Story' narrative described in candidate 3's prose.",
+      "chosen_heading": "Flask Story",
+      "current_heading": "Flask Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Cloth & Squeezing",
+    "candidates": [
+      "Cloth & Squeezing",
+      "Moving Muktzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the servant spreading a kerchief over a vat and placing a cup on it, Rabba's rebuke, and the distinction between a cloth the owner is not particular about versus one he is particular about \u2014 exactly the content discussed in the 'Cloth & Squeezing' prose section.",
+      "chosen_heading": "Cloth & Squeezing",
+      "current_heading": "Cloth & Squeezing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Moving Muktzah",
+    "candidates": [
+      "Moving Muktzah",
+      "Identity Not Changed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma raised by Rav Adda bar Mattana about whether muchin used for hatmanah can be moved on Shabbat, which directly matches the 'Moving Muktzah' section's prose describing this exact question before Abaye's answer.",
+      "chosen_heading": "Moving Muktzah",
+      "current_heading": "Moving Muktzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Identity Not Changed",
+    "candidates": [
+      "Identity Not Changed",
+      "Baraita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct statement about the basket of straw/soft material, which is precisely what the 'Identity Not Changed' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Identity Not Changed",
+      "current_heading": "Identity Not Changed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Baraita Evidence",
+      "Pillow Stuffing",
+      "Neck Hole Opening",
+      "Cloth in Cushions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of Gemara dialectic \u2014 attempting to support Abaye from the baraita, rejecting the proof, and then questioning and answering the baraita's chiddush \u2014 which is precisely what the 'Baraita Evidence' prose describes in detail.",
+      "chosen_heading": "Baraita Evidence",
+      "current_heading": "Baraita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Cloth in Cushions",
+    "candidates": [
+      "Pillow Stuffing",
+      "Neck Hole Opening",
+      "Cloth in Cushions",
+      "Breakage & Repair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about Rav \u1e24isda's ruling on replacing pillow stuffing on Shabbat \u2014 the objection, the new/old distinction resolution, and the confirming baraita \u2014 which matches the 'Pillow Stuffing' heading's prose perfectly, whereas the current 'Cloth in Cushions' heading covers only part of this material and the passage was clearly split incorrectly from its natural home.",
+      "chosen_heading": "Pillow Stuffing",
+      "current_heading": "Cloth in Cushions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Breakage & Repair",
+    "candidates": [
+      "Cloth in Cushions",
+      "Breakage & Repair",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav Yehuda/Rav's ruling on opening a neck hole (beit ha-tzavar) is explicitly discussed and contextualized in the 'Breakage & Repair' section's prose, which introduces it as illustrating makeh b'patish in the context of completing a garment.",
+      "chosen_heading": "Breakage & Repair",
+      "current_heading": "Breakage & Repair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Rava's Distinction",
+      "Rashi Explanation",
+      "Opening Packages",
+      "Barrel vs. Garment",
+      "Three Examples",
+      "Tumah Before Undoing",
+      "Hatchet Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain Rav Kahana's objection and Rava's barrel-vs-garment distinction (chibbur/eino chibbur), which is precisely what heading 0 'Rava's Distinction' describes in its prose.",
+      "second_heading": "Three Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Yirmiyah's challenge from the baraita about three temporary connections (launderers' basting, keychain, kilayim garment), which matches exactly the prose of heading 4 'Three Examples'.",
+      "current_heading": "Rava's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Hatchet Challenge",
+    "candidates": [
+      "Rashi Explanation",
+      "Opening Packages",
+      "Barrel vs. Garment",
+      "Three Examples",
+      "Tumah Before Undoing",
+      "Hatchet Challenge",
+      "Intention Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents the hatchet-handle contradiction (chibbur only bish'at melacha), which is precisely what the 'Hatchet Challenge' section's prose describes and analyzes.",
+      "chosen_heading": "Hatchet Challenge",
+      "current_heading": "Hatchet Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Intention Matters",
+    "candidates": [
+      "Intention Matters",
+      "Oven Receptacles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's response distinguishing the axe case from the laundry case based on ongoing intention and interest in maintaining the connection, which is precisely what the 'Intention Matters' prose discusses.",
+      "chosen_heading": "Intention Matters",
+      "current_heading": "Intention Matters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Oven Receptacles",
+    "candidates": [
+      "Oven Receptacles",
+      "Meir vs. Shimon",
+      "Air vs. Contact",
+      "Rabbinic Enactment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 identifying the tanna behind the chibbur doctrine, citing the oven-receptacles mishna, challenging Rabbi Meir's split ruling, and beginning the rabbinic-decree answer \u2014 which is precisely what the 'Oven Receptacles' prose describes.",
+      "chosen_heading": "Oven Receptacles",
+      "current_heading": "Oven Receptacles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Rabbinic Enactment",
+    "candidates": [
+      "Meir vs. Shimon",
+      "Air vs. Contact",
+      "Rabbinic Enactment",
+      "Detachable Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains the rabbinic rationale for the contact/avir split as a heikher to prevent burning teruma, which is precisely what the 'Rabbinic Enactment' section's prose discusses in detail.",
+      "chosen_heading": "Rabbinic Enactment",
+      "current_heading": "Rabbinic Enactment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Detachable Parts",
+    "candidates": [
+      "Detachable Parts",
+      "Tumah Haza'ah Split",
+      "Rava's Resolution",
+      "Final Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete baraita-plus-resolution unit about detachable scissors/plane parts and the chibbur l'tumah/haza'ah split, which is precisely what heading 0 ('Detachable Parts') introduces and discusses in its prose.",
+      "chosen_heading": "Detachable Parts",
+      "current_heading": "Detachable Parts",
+      "moved": false
+    }
+  }
+]

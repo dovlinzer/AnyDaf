@@ -1,0 +1,339 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Guests Scenario",
+    "candidates": [
+      "Intro & Mishnah Setup",
+      "No Eruv Case",
+      "Owner's Eruv Case",
+      "Guests Scenario",
+      "Zikuya on Erev YT"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishnah that introduces the entire case of produce in another city, matching the 'Intro & Mishnah Setup' prose which explicitly describes this as the mishnah opening the daf and summarizes exactly this scenario.",
+      "chosen_heading": "Intro & Mishnah Setup",
+      "current_heading": "Guests Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Zikuya on Erev YT",
+    "candidates": [
+      "Guests Scenario",
+      "Zikuya on Erev YT",
+      "Techum Application",
+      "Entrusted Fruit",
+      "Rav's View",
+      "Shmuel's View",
+      "Lending Contrast",
+      "Guardian Status",
+      "Ox in Yard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the guests scenario (invited guests who made an eruv cannot carry food portions home), which matches the 'Guests Scenario' prose exactly, while the current placement under 'Zikuya on Erev YT' only covers the solution clause at the end of the passage.",
+      "chosen_heading": "Guests Scenario",
+      "current_heading": "Zikuya on Erev YT",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ox in Yard",
+    "candidates": [
+      "Techum Application",
+      "Entrusted Fruit",
+      "Rav's View",
+      "Shmuel's View",
+      "Lending Contrast",
+      "Guardian Status",
+      "Ox in Yard",
+      "Halakhic Mapping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the gemara's case of one who deposits produce with another and presents the dispute between Rav and Shmuel, which is precisely what the 'Entrusted Fruit' section's prose describes.",
+      "chosen_heading": "Entrusted Fruit",
+      "current_heading": "Ox in Yard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Halakhic Mapping",
+    "candidates": [
+      "Ox in Yard",
+      "Halakhic Mapping",
+      "Rav's Logic",
+      "Shmuel's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Huna transmitting Rav's and Shmuel's rulings and then asks whether they map onto the tannaitic dispute, which is precisely what the 'Halakhic Mapping' section's prose describes.",
+      "chosen_heading": "Halakhic Mapping",
+      "current_heading": "Halakhic Mapping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Shmuel's Logic",
+    "candidates": [
+      "Rav's Logic",
+      "Shmuel's Logic",
+      "Mishnah Evidence",
+      "Keren Zavit",
+      "Control Degrees",
+      "Transfer Problem",
+      "Keren Zavit Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav's Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rav's and Shmuel's respective defenses of their positions against the opposing tannaitic authority, matching the prose of 'Rav's Logic' (item 1) and 'Shmuel's Logic' (item 2), but since they form a continuous dialectical unit and 'Rav's Logic' prose explicitly discusses Rav's deflection using the kabbalat netiruta argument (item 1) while 'Shmuel's Logic' prose explicitly discusses Shmuel's nicha lei argument (item 2), the natural split is after item 2 with items 1-2 belonging under heading 0 ('Rav's Logic') \u2014 but actually both belong together under heading 1 ('Shmuel's Logic') since the current placement captures both Rav's and Shmuel's parallel defenses as one unit, while item 3 introduces the mishnah challenge which belongs under heading 2.",
+      "second_heading": "Mishnah Evidence",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the gemara's challenge from the mishnah ('ve-im eirev hu, peirotav kamohu') and Rav Huna's keren zavit answer, which is precisely what 'Mishnah Evidence' prose describes.",
+      "current_heading": "Shmuel's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Keren Zavit Answer",
+    "candidates": [
+      "Mishnah Evidence",
+      "Keren Zavit",
+      "Control Degrees",
+      "Transfer Problem",
+      "Keren Zavit Answer",
+      "Zikuya Special"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage raises the challenge that if deposited items follow the guardian's techum (Rav's view), then the host's zikuya before Yom Tov shouldn't help the guests carry the food home \u2014 which is precisely the 'Transfer Problem' the prose in candidate 3 describes, before the keren zavit answer is given in candidate 4.",
+      "chosen_heading": "Transfer Problem",
+      "current_heading": "Keren Zavit Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Zikuya Special",
+    "candidates": [
+      "Keren Zavit Answer",
+      "Zikuya Special",
+      "Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'zika shani' (transferring ownership is different) answer, which is precisely what the 'Zikuya Special' section's prose discusses as the second, more fundamental answer.",
+      "chosen_heading": "Zikuya Special",
+      "current_heading": "Zikuya Special",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Setup",
+    "candidates": [
+      "Setup",
+      "Rav Huna Rules",
+      "Gemara Challenge",
+      "Keren Zavit Applied",
+      "Ravina Challenges",
+      "Fattened Ox"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna Rules",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's ruling \u2014 if you hung the meat, take it; if they hung it, don't \u2014 which matches exactly the 'Rav Huna Rules' prose.",
+      "second_heading": "Gemara Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge to Rav Huna's ruling (how can he take it if Rav said it follows the depositary's feet?) followed by the keren zavit resolution, which matches the 'Gemara Challenge' prose discussion.",
+      "current_heading": "Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Fattened Ox",
+    "candidates": [
+      "Rav Huna Rules",
+      "Gemara Challenge",
+      "Keren Zavit Applied",
+      "Ravina Challenges",
+      "Fattened Ox",
+      "Rav Ashi Response",
+      "Kashrus Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the three-part challenge Ravina (and Rav Ashi) poses to Rav Ashi about whether the hosts hanging the meat bars Rav \u1e24ana from taking it, invoking the fattened ox, Rabbi Dosa's ruling, and the mishna's principle \u2014 exactly what heading 3 'Ravina Challenges' describes, not heading 4 which already summarizes the content of these challenges in its prose.",
+      "chosen_heading": "Ravina Challenges",
+      "current_heading": "Fattened Ox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Kashrus Issue",
+    "candidates": [
+      "Rav Ashi Response",
+      "Kashrus Issue",
+      "Ownership to Control",
+      "Examples",
+      "Core Principle",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with 'Rather' (ela) and the reinterpretation of Rav Chana bar Chanilai's case \u2014 specifically the gavra raba/tarid bi-shma'ateta framing \u2014 which is precisely what Candidate 0 'Rav Ashi Response' describes, while Candidate 1 covers the kashrut detail that follows in the same passage but the opening reinterpretation belongs under heading 0.",
+      "chosen_heading": "Rav Ashi Response",
+      "current_heading": "Kashrus Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Ownership to Control",
+      "Examples",
+      "Core Principle",
+      "Mishnah Rule",
+      "Watering Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about watering and slaughtering desert vs. domestic animals, which matches precisely with the 'Mishnah Rule' section prose that introduces and paraphrases this exact Mishnah.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Watering Advice",
+    "candidates": [
+      "Watering Advice",
+      "Domestic Def"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the mishna mentions watering before slaughter, explaining it as incidental practical advice about sircha de-mishcha, which is exactly what the 'Watering Advice' prose describes.",
+      "chosen_heading": "Watering Advice",
+      "current_heading": "Watering Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Domestic Def",
+    "candidates": [
+      "Domestic Def",
+      "Wilderness Def",
+      "Rebbi & Muktzah",
+      "Unripe Dates",
+      "Rashi vs Tosafot",
+      "R Shimon View",
+      "Rebbi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita defines both desert and domestic animals, and the 'Wilderness Def' prose specifically discusses the definition of desert animals (behemot midbariyot) leaving at Pesach and returning at first rains \u2014 which is exactly what this baraita covers, including Rabbi's stricter definition of desert animals.",
+      "chosen_heading": "Wilderness Def",
+      "current_heading": "Domestic Def",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Rebbi Resolution",
+    "candidates": [
+      "Wilderness Def",
+      "Rebbi & Muktzah",
+      "Unripe Dates",
+      "Rashi vs Tosafot",
+      "R Shimon View",
+      "Rebbi Resolution",
+      "Masechet End"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rebbi Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 continue the gemara's discussion of whether Rebbi holds muktzah \u2014 the three resolutions and the Rabbanan's final reply \u2014 which belongs under 'Rebbi Resolution' whose prose explicitly describes all three answers and the Rabbanan's response.",
+      "second_heading": "Masechet End",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the hadran/closing formula of Masechet Beitzah, which belongs under 'Masechet End' whose prose explicitly references this closing formula.",
+      "current_heading": "Rebbi Resolution",
+      "moved": true
+    }
+  }
+]

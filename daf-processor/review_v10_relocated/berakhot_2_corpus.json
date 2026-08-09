@@ -1,0 +1,400 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Mishna: Shema Times",
+    "candidates": [
+      "New Cycle Welcome",
+      "Family Dedications",
+      "Mishna: Shema Times",
+      "Shema End-Time Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishna's text on when Shema is recited in the evening, and candidate 2's prose explicitly walks through exactly these lines \u2014 the priests entering to eat teruma, the end of the first watch (Rabbi Eliezer), and the Chachamim's midnight position \u2014 making it the clear and correct home for this passage.",
+      "chosen_heading": "Mishna: Shema Times",
+      "current_heading": "Mishna: Shema Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Shema End-Time Debate",
+    "candidates": [
+      "Shema End-Time Debate",
+      "Rabban Gamliel's Sons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabban Gamliel's position on the end-time for Shema recitation (until dawn), which is the core debate topic discussed in the 'Shema End-Time Debate' prose, not the narrative about his sons which comes after.",
+      "chosen_heading": "Shema End-Time Debate",
+      "current_heading": "Shema End-Time Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rabban Gamliel's Sons",
+    "candidates": [
+      "Rabban Gamliel's Sons",
+      "Midnight vs. Dawn Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the story of Rabban Gamliel's sons and the 'midnight vs. dawn' principle, but since it is a single unified Mishna text, it belongs under heading 0 where the prose directly introduces and discusses this exact passage including both elements.",
+      "chosen_heading": "Rabban Gamliel's Sons",
+      "current_heading": "Rabban Gamliel's Sons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Midnight vs. Dawn Rule",
+    "candidates": [
+      "Midnight vs. Dawn Rule",
+      "Fence: Ad Chatzot",
+      "Rashi: Fats & Chatzot",
+      "Order of Tractates",
+      "Zeraim = Daily Life",
+      "Six Sedarim Structure",
+      "Implicit in Mishna",
+      "Rabbinic Fence-Making",
+      "Q: Shemoneh Esrei",
+      "Tanna Heicha Kai",
+      "Evening Before Morning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Midnight vs. Dawn Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna text about burning fats/limbs and the midnight-vs-dawn rule, which is precisely what candidate 0 ('Midnight vs. Dawn Rule') discusses in detail.",
+      "second_heading": "Tanna Heicha Kai",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's opening question 'On the basis of what does the tanna ask: From when?' which is exactly what candidate 9 ('Tanna Heicha Kai') discusses.",
+      "current_heading": "Midnight vs. Dawn Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Evening Before Morning",
+    "candidates": [
+      "Fence: Ad Chatzot",
+      "Rashi: Fats & Chatzot",
+      "Order of Tractates",
+      "Zeraim = Daily Life",
+      "Six Sedarim Structure",
+      "Implicit in Mishna",
+      "Rabbinic Fence-Making",
+      "Q: Shemoneh Esrei",
+      "Tanna Heicha Kai",
+      "Evening Before Morning",
+      "ABBA Literary Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All three items directly address why the Mishna discusses evening Shema before morning Shema \u2014 the question (item 1), the answer from the verse beshochbecha uvekumecha (item 2), and the alternative answer from the creation account (item 3) \u2014 which is precisely what the 'Evening Before Morning' section's prose describes.",
+      "chosen_heading": "Evening Before Morning",
+      "current_heading": "Evening Before Morning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "ABBA Literary Structure",
+    "candidates": [
+      "ABBA Literary Structure",
+      "Two Models of Shema",
+      "Milta Agav Orcha",
+      "Tosefta: Tzeit Siman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the literary structure question of why the mishna's berachot section begins with morning rather than evening, which is precisely what the ABBA Literary Structure section's prose discusses.",
+      "chosen_heading": "ABBA Literary Structure",
+      "current_heading": "ABBA Literary Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Tosefta: Tzeit Siman",
+    "candidates": [
+      "Two Models of Shema",
+      "Milta Agav Orcha",
+      "Tosefta: Tzeit Siman",
+      "Kohanim: Slice of Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the Mishna discusses morning Shema before returning to evening Shema \u2014 i.e., the tanna addressed morning matters while on the topic, then returned to evening \u2014 which directly relates to the Gemara's analysis of the Mishna's formulation and structure, matching the 'Milta Agav Orcha' section's discussion of why the Mishna is ordered and worded as it is.",
+      "chosen_heading": "Milta Agav Orcha",
+      "current_heading": "Tosefta: Tzeit Siman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Kohanim: Slice of Life",
+    "candidates": [
+      "Tosefta: Tzeit Siman",
+      "Kohanim: Slice of Life",
+      "Berakhot: Slice of Life",
+      "Terumah Post-Mikdash",
+      "Nichnasim: Where From?",
+      "Avodah Shebalev Link",
+      "Kaparah Lo Me'akva (II)",
+      "Uva Hashemesh Vetaher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about why the Mishna uses the Kohanim formulation instead of simply saying 'from tzeit hakochavim' \u2014 precisely the circularity problem whose resolution (via the Tosefta) is what the 'Tosefta: Tzeit Siman' section discusses.",
+      "chosen_heading": "Tosefta: Tzeit Siman",
+      "current_heading": "Kohanim: Slice of Life",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Uva Hashemesh Vetaher",
+    "candidates": [
+      "Berakhot: Slice of Life",
+      "Terumah Post-Mikdash",
+      "Nichnasim: Where From?",
+      "Avodah Shebalev Link",
+      "Kaparah Lo Me'akva (II)",
+      "Uva Hashemesh Vetaher",
+      "Taher Yoma Drasha",
+      "I'arev Shimsha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage specifically identifies the second halakhic teaching communicated in passing \u2014 that kaparah does not prevent eating terumah \u2014 and derives it from the baraita on 'u-va ha-shemesh ve-taher,' which is exactly what the prose under 'Kaparah Lo Me'akva (II)' introduces.",
+      "chosen_heading": "Kaparah Lo Me'akva (II)",
+      "current_heading": "Uva Hashemesh Vetaher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "I'arev Shimsha",
+    "candidates": [
+      "Taher Yoma Drasha",
+      "I'arev Shimsha",
+      "West Resolves from Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Talmudic discussion of whether \u05d5\u05d1\u05d0 \u05d4\u05e9\u05de\u05e9 means \u05d1\u05d9\u05d0\u05ea \u05e9\u05de\u05e9\u05d5 or \u05d1\u05d9\u05d0\u05ea \u05d0\u05d5\u05e8\u05d5 and what \u05d5\u05d8\u05d4\u05e8 means \u2014 including Rabbah bar Rav Sheila's grammatical argument and the parallel dilemma raised in the West \u2014 which is precisely what the 'I'arev Shimsha' section's prose describes in detail, including the Western parallel that candidate 2 describes as resolved by a Braita (which does not appear in these items).",
+      "chosen_heading": "I'arev Shimsha",
+      "current_heading": "I'arev Shimsha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "West Resolves from Braita",
+    "candidates": [
+      "West Resolves from Braita",
+      "Two Modes of Tradition",
+      "Poor Man: Bread & Salt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact resolution from the Braita that candidate 0's prose explicitly discusses, matching both the content and the quoted Aramaic/Hebrew text perfectly.",
+      "chosen_heading": "West Resolves from Braita",
+      "current_heading": "West Resolves from Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Poor Man: Bread & Salt",
+    "candidates": [
+      "Two Modes of Tradition",
+      "Poor Man: Bread & Salt",
+      "Erev Shabbat Entry",
+      "Nechemiah: Zecher Ladavar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara unit: the challenge from the poor-man baraita to the Mishna's kohen standard, then the Gemara's analysis of whether the first clause contradicts the Mishna, and finally the resolution that the poor man and the kohen eat at the same time \u2014 all directly discussing the 'Poor Man: Bread & Salt' passage that the section prose describes.",
+      "chosen_heading": "Poor Man: Bread & Salt",
+      "current_heading": "Poor Man: Bread & Salt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Nechemiah: Zecher Ladavar",
+    "candidates": [
+      "Erev Shabbat Entry",
+      "Nechemiah: Zecher Ladavar",
+      "Why Second Verse Needed",
+      "Ani vs. Kohen: Same Time?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Tosefta contradiction about when evening Shema begins, the question of why a second verse from Nehemiah is needed, and the answer that it forecloses the 'workers stayed late' interpretation \u2014 are addressed together in candidate 1's prose ('Nechemiah: Zecher Ladavar'), which explicitly notes 'The point about why a second verse is needed to anchor the first will be addressed shortly,' and candidate 2's prose covers exactly that follow-up; but since all three items form one continuous chain (the Tosefta passage plus its internal question-and-answer about the second verse), and candidate 1's prose is the section under which this chain currently sits and explicitly anticipates the second-verse discussion, the current placement is correct.",
+      "chosen_heading": "Nechemiah: Zecher Ladavar",
+      "current_heading": "Nechemiah: Zecher Ladavar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Ani vs. Kohen: Same Time?",
+    "candidates": [
+      "Why Second Verse Needed",
+      "Ani vs. Kohen: Same Time?",
+      "Full Braita: All Opinions",
+      "Three Social Tiers",
+      "Chanina vs. Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's analysis of whether the poor man's time and the Kohen's time are the same, and whether the poor man's time and ordinary people's time are the same \u2014 precisely the content described in the 'Ani vs. Kohen: Same Time?' prose, which explicitly quotes both the kasalka daitach assumption and the ella shema mina conclusion that appear in these items.",
+      "chosen_heading": "Ani vs. Kohen: Same Time?",
+      "current_heading": "Ani vs. Kohen: Same Time?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Chanina vs. Yehoshua",
+    "candidates": [
+      "Full Braita: All Opinions",
+      "Three Social Tiers",
+      "Chanina vs. Yehoshua",
+      "Yehuda Challenges Meir",
+      "Meir: Bein Hashmashot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous argument proving that the poor person's time and the priest's time are distinct (and that the poor person is later), which is exactly what the 'Chanina vs. Yehoshua' prose describes as its central content.",
+      "chosen_heading": "Chanina vs. Yehoshua",
+      "current_heading": "Chanina vs. Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154,
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Meir: Bein Hashmashot",
+    "candidates": [
+      "Yehuda Challenges Meir",
+      "Meir: Bein Hashmashot",
+      "Ani Later Than Kohen",
+      "Trei Tannai Aliba"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Meir: Bein Hashmashot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Yehuda's challenge to Rabbi Meir and Rabbi Meir's response about bein hashmashot per Rabbi Yosi, which is precisely what heading 1 ('Meir: Bein Hashmashot') describes, and item 4 resolves the internal contradiction in Rabbi Meir's positions across sources.",
+      "second_heading": "Trei Tannai Aliba",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present the 'trei tannai aliba' resolutions for contradictions within Rabbi Meir's and Rabbi Eliezer's positions, which is exactly what heading 3 ('Trei Tannai Aliba') describes.",
+      "current_heading": "Meir: Bein Hashmashot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Trei Tannai Aliba",
+    "candidates": [
+      "Ani Later Than Kohen",
+      "Trei Tannai Aliba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the resolution of contradictions in Rabbi Eliezer's position via 'two tanna'im' or the alternative that the first clause is not Rabbi Eliezer's, which is precisely what the 'Trei Tannai Aliba' section's prose describes.",
+      "chosen_heading": "Trei Tannai Aliba",
+      "current_heading": "Trei Tannai Aliba",
+      "moved": false
+    }
+  }
+]

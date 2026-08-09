@@ -1,0 +1,208 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Rabbi Yehuda ben Bava",
+    "candidates": [
+      "Sanhedrin Moves",
+      "Rabbi Yehuda ben Bava",
+      "Murderers & Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous narrative about dinei knasot, Rabbi Yehuda ben Bava's ordination, and his martyrdom, which is precisely what candidate 1 ('Rabbi Yehuda ben Bava') discusses in its prose.",
+      "chosen_heading": "Rabbi Yehuda ben Bava",
+      "current_heading": "Rabbi Yehuda ben Bava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Murderers & Capacity",
+    "candidates": [
+      "Murderers & Capacity",
+      "Kingdom Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address why the Sanhedrin ceased capital adjudication \u2014 Rav Na\u1e25man's emendation, the reason of overwhelming murderers, and the scriptural basis that 'the place causes' \u2014 which is precisely what the 'Murderers & Capacity' prose elaborates in detail.",
+      "chosen_heading": "Murderers & Capacity",
+      "current_heading": "Murderers & Capacity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Kingdom Timeline",
+    "candidates": [
+      "Kingdom Timeline",
+      "Roman Delay Period",
+      "Dating Systems Intro",
+      "Minyan Shtarot",
+      "Conversion Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: the Gemara questions whether Rome ruled only 180 years, cites Rabbi Yosei's baraita listing the kingdoms (Persian 34, Greek 180, Hasmonean 103, Herodian 103), and resolves the 206 vs. 180 discrepancy \u2014 exactly the content described in the 'Kingdom Timeline' prose, which explicitly discusses all these figures and concludes by noting the 26-year discrepancy that becomes the subject of the next discussion.",
+      "chosen_heading": "Kingdom Timeline",
+      "current_heading": "Kingdom Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Conversion Methods",
+    "candidates": [
+      "Roman Delay Period",
+      "Dating Systems Intro",
+      "Minyan Shtarot",
+      "Conversion Methods",
+      "Seleucid Origin",
+      "Tanna D'vei Eliyahu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present the conversion formula between minyan shtarot and churban-based dating (add 20 / subtract 20) along with their mnemonics, which is precisely what the 'Conversion Methods' prose describes.",
+      "chosen_heading": "Conversion Methods",
+      "current_heading": "Conversion Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Tanna D'vei Eliyahu",
+    "candidates": [
+      "Seleucid Origin",
+      "Tanna D'vei Eliyahu",
+      "Torah Era Dating"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tanna D'vei Eliyahu",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Tanna D'vei Eliyahu baraita about the six-thousand-year framework, which is precisely what heading 1's prose introduces and discusses.",
+      "second_heading": "Torah Era Dating",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks when the two-thousand-year Torah era begins, which is exactly the question that heading 2's prose ('shnei alafim Torah me'eimat') addresses in detail.",
+      "current_heading": "Tanna D'vei Eliyahu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Torah Era Dating",
+    "candidates": [
+      "Torah Era Dating",
+      "Year 4000 Calculation",
+      "Add Forty-Eight",
+      "Mnemonic: 48 Cities",
+      "Subtract Forty-Eight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Torah era dating calculation \u2014 item 1 establishes that the Torah era begins from 'the souls made in Charan' when Abraham was 52, and item 2 calculates the 448-year gap to matan Torah \u2014 exactly what the 'Torah Era Dating' prose section discusses.",
+      "chosen_heading": "Torah Era Dating",
+      "current_heading": "Torah Era Dating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Subtract Forty-Eight",
+    "candidates": [
+      "Year 4000 Calculation",
+      "Add Forty-Eight",
+      "Mnemonic: 48 Cities",
+      "Subtract Forty-Eight",
+      "Add One, Divide by 7",
+      "Hundred Extraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe Rav Pappa's formula for converting between the tanna's dating system and the scribe's minyan shtarot system by adding or subtracting 48, which is precisely what candidate 1 ('Add Forty-Eight') discusses \u2014 the arithmetic of adding 48 to the scribe's count to get the tanna's count, and the reverse \u2014 making it a clearly better match than the current placement under 'Subtract Forty-Eight' (candidate 3), which covers only the reverse operation.",
+      "chosen_heading": "Add Forty-Eight",
+      "current_heading": "Subtract Forty-Eight",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Hundred Extraction",
+    "candidates": [
+      "Add One, Divide by 7",
+      "Hundred Extraction",
+      "Famine Mnemonic",
+      "Rabbi Chanina's 400 Years",
+      "Baraita's 4231"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe Rav Huna's algorithm for determining one's position in the shmita cycle \u2014 item 1 gives the basic 'add one and divide by 7' rule, and item 2 gives the 'subtract two per hundred' computational shorthand \u2014 which together constitute the full content described under heading 0 ('Add One, Divide by 7'), not the separate 'Hundred Extraction' section where they currently sit.",
+      "chosen_heading": "Add One, Divide by 7",
+      "current_heading": "Hundred Extraction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Baraita's 4231",
+    "candidates": [
+      "Famine Mnemonic",
+      "Rabbi Chanina's 400 Years",
+      "Baraita's 4231"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Chanina's teaching AND the baraita's formulation with the gemara's reconciliation of the three-year difference, which is precisely what section 2 ('Baraita's 4231') discusses in its prose.",
+      "chosen_heading": "Baraita's 4231",
+      "current_heading": "Baraita's 4231",
+      "moved": false
+    }
+  }
+]

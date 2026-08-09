@@ -190,7 +190,7 @@
           "timestamp": "47:17"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -229,7 +229,7 @@
           "timestamp": "53:43"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -522,5 +522,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "39:38",
+  "amud_b_micro_title": "Tent Model",
+  "shiur_start_daf": 24,
+  "shiur_start_amud": "b"
 }

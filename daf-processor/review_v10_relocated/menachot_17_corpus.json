@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Sesame-Grain Offering",
+    "candidates": [
+      "Sesame-Grain Offering",
+      "Chisda/Hamnuna/Sheshes",
+      "Rebbi Meir Position",
+      "Rabbanan Position",
+      "Rebbi Position",
+      "Conditional Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's challenge to the neat Tannaitic alignment \u2014 item 1 states the dispute, item 2 proposes the alignment with Rebbi Meir/Rabbanan/Rebbi, and item 3 immediately rejects that alignment by questioning whether Rebbi Meir's principle applies when intent was not for a full measure \u2014 exactly the 'Conditional Analysis' that heading 5's prose describes.",
+      "chosen_heading": "Conditional Analysis",
+      "current_heading": "Sesame-Grain Offering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Conditional Analysis",
+    "candidates": [
+      "Chisda/Hamnuna/Sheshes",
+      "Rebbi Meir Position",
+      "Rabbanan Position",
+      "Rebbi Position",
+      "Conditional Analysis",
+      "All Three Valid",
+      "Piggul Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's conditional 'perhaps X holds only in that case, but here...' challenges showing that each Amora's position cannot be pinned to a single Tannaitic source \u2014 exactly what the 'Conditional Analysis' prose describes.",
+      "chosen_heading": "Conditional Analysis",
+      "current_heading": "Conditional Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Piggul Analysis",
+    "candidates": [
+      "All Three Valid",
+      "Piggul Analysis",
+      "Passul Analysis",
+      "Kasher Analysis",
+      "Pumbedita Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains all three positions (pigul, pasul, kasher) together as a unified Gemara elaboration of their underlying premises, matching the 'All Three Valid' section prose which describes exactly this synthesis \u2014 that each outcome depends on which empirical/halachic premises one accepts, not on which Tanna one follows.",
+      "chosen_heading": "All Three Valid",
+      "current_heading": "Piggul Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Pumbedita Opinion",
+    "candidates": [
+      "Passul Analysis",
+      "Kasher Analysis",
+      "Pumbedita Opinion",
+      "Meshna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the exact argument of the charifei d'Pumbedita \u2014 that haktara mefagelet haktara and that when intent during the kometz concerns the levona it is as though the entire matir was engaged \u2014 which is precisely what the 'Pumbedita Opinion' prose describes in detail.",
+      "chosen_heading": "Pumbedita Opinion",
+      "current_heading": "Pumbedita Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Meshna Challenge",
+    "candidates": [
+      "Meshna Challenge",
+      "Gemara Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's adduction of the Mishnah principle (item 1) and his inference that haktara parallels the earlier avodot regarding the range of pigul intentions (item 2), which is precisely what the 'Meshna Challenge' prose describes.",
+      "chosen_heading": "Meshna Challenge",
+      "current_heading": "Meshna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Gemara Response",
+    "candidates": [
+      "Gemara Response",
+      "Chisda's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection/distinction between earlier stages and haktara, which matches exactly what the 'Gemara Response' prose describes \u2014 the distinction between bein le'echol bein lehaktir for earlier stages versus only le'echol generating pigul at the haktara stage.",
+      "chosen_heading": "Gemara Response",
+      "current_heading": "Gemara Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Chisda's Position",
+    "candidates": [
+      "Chisda's Position",
+      "Non-Relation Logic",
+      "Two Lambs Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the transmission and confirmation of Rav Chisda's (and Rav's) ruling that burning does not render burning piggul, which is exactly what heading 0 ('Chisda's Position') describes \u2014 the statement, its reasoning about the kometz not being a matir for the levona, and Abaye's confirmation that it goes back to Rav.",
+      "chosen_heading": "Chisda's Position",
+      "current_heading": "Chisda's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Two Lambs Proof",
+    "candidates": [
+      "Non-Relation Logic",
+      "Two Lambs Proof",
+      "Vessel Unity Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnaic proof cited by Abaye (Rav Ya'akov bar Idi in the name of Abaye) about the two lambs of shtei halechem, which is precisely what the 'Two Lambs Proof' section's prose describes and analyzes.",
+      "chosen_heading": "Two Lambs Proof",
+      "current_heading": "Two Lambs Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Vessel Unity Issue",
+    "candidates": [
+      "Vessel Unity Issue",
+      "Hamnuna Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's rejection based on vessel unity \u2014 the distinction between the two lambs not being fixed in one vessel versus the kometz and levona being fixed together in one vessel \u2014 which is precisely what the 'Vessel Unity Issue' prose describes.",
+      "chosen_heading": "Vessel Unity Issue",
+      "current_heading": "Vessel Unity Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Hamnuna Synthesis",
+    "candidates": [
+      "Hamnuna Synthesis",
+      "Text Structure",
+      "Combined Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Hamnuna's statement of the teaching he received from Rabbi Chanina, which is precisely what the 'Hamnuna Synthesis' prose section introduces and discusses.",
+      "chosen_heading": "Hamnuna Synthesis",
+      "current_heading": "Hamnuna Synthesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Combined Principles",
+    "candidates": [
+      "Text Structure",
+      "Combined Principles",
+      "Rebbi: Kasher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-4 all belong to the textual-structure discussion: item 1 is the Gemara's challenge about why Rabbi \u1e24anina's formulation is necessary, items 2-4 are Rav Adda's resolution and the subsequent baraita correction \u2014 all continuous with the 'Text Structure' prose which explicitly describes this entire sequence including the combined-intent resolution and the pasul/pigul emendation, whereas the 'Combined Principles' heading's prose already summarizes all four items as its own content, meaning the passage is currently placed one heading too late.",
+      "chosen_heading": "Text Structure",
+      "current_heading": "Combined Principles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rebbi: Kasher",
+    "candidates": [
+      "Combined Principles",
+      "Rebbi: Kasher",
+      "Eliezer: Passul",
+      "Sub-Kezayis Exception",
+      "Non-Combination Rule",
+      "Pasuk Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna text presents the case of one who performs kmitza with intent to eat/offer items that don't normally belong in those categories, and the ruling that this is kasher (with Rabbi Eliezer dissenting), which is precisely what the 'Rebbi: Kasher' section's prose describes and explains.",
+      "chosen_heading": "Rebbi: Kasher",
+      "current_heading": "Rebbi: Kasher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Pasuk Basis",
+    "candidates": [
+      "Eliezer: Passul",
+      "Sub-Kezayis Exception",
+      "Non-Combination Rule",
+      "Pasuk Basis",
+      "Eliezer's Reading",
+      "Pasuk Limits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Combination Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text about sub-kezayis and non-combination rules, which belongs under 'Non-Combination Rule' (candidate 2) as that prose explicitly discusses both the kezayis threshold and the principle that achila and haktara do not combine.",
+      "second_heading": "Pasuk Basis",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 are the Gemara's exegetical derivation from the doubled pasuk he'achol ye'achel, establishing bishtei achilot and the Rabbanan's alternative readings, which is precisely what candidate 3 ('Pasuk Basis') discusses.",
+      "current_heading": "Pasuk Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Pasuk Limits",
+    "candidates": [
+      "Eliezer's Reading",
+      "Pasuk Limits",
+      "D'Oraita vs Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's counterargument that the variation *he'achol ye'achel* must teach two halakhot (including cross-category application), which is precisely what candidate 0's prose discusses as Rebbi Eliezer's reading and exegetical move.",
+      "chosen_heading": "Eliezer's Reading",
+      "current_heading": "Pasuk Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "D'Oraita vs Rabbanan",
+    "candidates": [
+      "Pasuk Limits",
+      "D'Oraita vs Rabbanan",
+      "Drink/Burn Cases",
+      "Eliezer Invalidates",
+      "Lehaniach Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rabbi Zeira / Rav Asi dialogue establishing the tension between the exegetical derivation implying karet and Rabbi Yochanan's statement that Rabbi Eliezer concedes no karet, which is exactly what the prose under 'D'Oraita vs Rabbanan' describes.",
+      "chosen_heading": "D'Oraita vs Rabbanan",
+      "current_heading": "D'Oraita vs Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Lehaniach Case",
+    "candidates": [
+      "Drink/Burn Cases",
+      "Eliezer Invalidates",
+      "Lehaniach Case",
+      "Yehuda's Distinction",
+      "Elazar's Position",
+      "Unresolved Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage resolves the Rabbi Yehuda / Rabbi Elazar dispute by showing their difference lies in karet liability \u2014 precisely the 'Unresolved Status' section's prose about how Rabbi Yehuda reads the debate as d'Oraita in category-crossing cases while Rabbi Elazar assimilates all cases into a uniform Rabbinic pasul, which is exactly what items 1-5 establish through the tannaitic dispute and Rav Asi's resolution.",
+      "chosen_heading": "Unresolved Status",
+      "current_heading": "Lehaniach Case",
+      "moved": true
+    }
+  }
+]

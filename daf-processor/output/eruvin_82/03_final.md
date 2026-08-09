@@ -1,4 +1,5 @@
 # Eiruvin 82 — Daf Yomi Shiur
+[DAF:82a]
 
 ## Techumin vs. Chatzeiros
 
@@ -202,6 +203,7 @@ The *gemara* asks: what exactly constitutes *tzarich le-imo* — dependent on on
 
 By this criterion, independence arrives at around age four or five, depending on the child — yet Rav Assi had said six. This creates an apparent tension: if four or five marks the end of dependence on the mother, how can Rav Assi maintain that a six-year-old is still included in the mother's *eiruv*?
 
+[DAF:82b]
 ### Dependence vs. Preference
 
 > **Hebrew/Aramaic:** אָמַר רַב יְהוֹשֻׁעַ בְּרֵיהּ דְּרַב אִידִי: כִּי קָאָמַר רַב אַסִּי — כְּגוֹן שֶׁעֵירַב עָלָיו אָבִיו לַצָּפוֹן וְאִמּוֹ לַדָּרוֹם, דַּאֲפִילּוּ בַּר שֵׁשׁ נָמֵי בְּצַוְותָּא דְאִמֵּיהּ נִיחָא לֵיהּ.

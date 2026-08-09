@@ -1,0 +1,242 @@
+[
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Temura Challenge",
+    "candidates": [
+      "Name & Scope",
+      "Masechet Topics",
+      "Anyone May Slaughter",
+      "Cheresh Shoteh VeKatan",
+      "Not Categorical Exclusion",
+      "Observed = Valid",
+      "Cheresh in Modern Law",
+      "L'chatchila vs B'diavad",
+      "Temura Challenge",
+      "Temura Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a's challenge from Masechet Temura about whether 'hakol' implies lechatchila, which is precisely what the 'Temura Challenge' section's prose describes.",
+      "chosen_heading": "Temura Challenge",
+      "current_heading": "Temura Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Temura Answer",
+    "candidates": [
+      "Temura Answer",
+      "Erchin Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's answer about the Temura mishna's qualification, which is exactly what the 'Temura Answer' prose section describes.",
+      "chosen_heading": "Temura Answer",
+      "current_heading": "Temura Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Erchin Challenge",
+    "candidates": [
+      "Erchin Challenge",
+      "Vow Debate: Meir/Yehuda",
+      "Yehuda Read Narrowly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Erchin mishna challenge and the verse from Deuteronomy together as one unit \u2014 the initial challenge from 'hakol maarichin' plus the immediate counter about 'vechi techdal lindor' \u2014 which matches exactly the 'Erchin Challenge' prose that describes this specific challenge, before the Meir/Yehuda debate begins in the next section.",
+      "chosen_heading": "Erchin Challenge",
+      "current_heading": "Erchin Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Yehuda Read Narrowly",
+    "candidates": [
+      "Vow Debate: Meir/Yehuda",
+      "Yehuda Read Narrowly",
+      "Why Make Vows?",
+      "Smicha Challenge",
+      "Hakol: Either Way",
+      "Manufactured Problem",
+      "Smicha & Women MSS"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the narrow reading of Rabbi Yehuda \u2014 that his lenient position applies only to 'harei zoh' (object sanctification) but not to 'harei alai' (personal vow) \u2014 which is precisely what candidate 1 ('Yehuda Read Narrowly') discusses in its prose.",
+      "chosen_heading": "Yehuda Read Narrowly",
+      "current_heading": "Yehuda Read Narrowly",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Smicha & Women MSS",
+    "candidates": [
+      "Why Make Vows?",
+      "Smicha Challenge",
+      "Hakol: Either Way",
+      "Manufactured Problem",
+      "Smicha & Women MSS",
+      "Tamei in Chullin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the back-and-forth about whether 'hakol' always means bediavad, culminating in the smicha challenge (hakol somchin with the verse venirtzah), which is precisely what candidate 1 'Smicha Challenge' describes in its prose.",
+      "chosen_heading": "Smicha Challenge",
+      "current_heading": "Smicha & Women MSS",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Tamei in Chullin",
+    "candidates": [
+      "Smicha & Women MSS",
+      "Tamei in Chullin",
+      "Long Knife Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the hakol/dieavad-lechatchila tension and Rabba bar Ulla's resolution involving tamei shochet in chullin al taharat hakodesh, which is precisely what the 'Tamei in Chullin' prose describes.",
+      "chosen_heading": "Tamei in Chullin",
+      "current_heading": "Tamei in Chullin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Long Knife Solution",
+    "candidates": [
+      "Long Knife Solution",
+      "Tamei Kodshim B'diavad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and presents the long knife solution (mevi sakkin arucha veshochet bah), which is precisely what heading 0 'Long Knife Solution' introduces and discusses in its prose.",
+      "chosen_heading": "Long Knife Solution",
+      "current_heading": "Long Knife Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Tamei Kodshim B'diavad",
+    "candidates": [
+      "Tamei Kodshim B'diavad",
+      "VeChullan Referent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule that a tamei person may not slaughter kodshim lechatchila but if he did and declares he did not touch the meat the shechita is valid bediavad, which is precisely what candidate 0 ('Tamei Kodshim B'diavad') discusses.",
+      "chosen_heading": "Tamei Kodshim B'diavad",
+      "current_heading": "Tamei Kodshim B'diavad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "VeChullan Referent",
+    "candidates": [
+      "VeChullan Referent",
+      "Tosafot: Where Standing?",
+      "Women Shecht L'chatchila",
+      "Why Repeat Here?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the exact content described in the 'VeChullan Referent' prose: item 1 covers chutz mecheresh shoteh vekatan with shema yishhu/yidresu/yachlidu, item 2 asks what 'vechullan sheshachatu' refers to (not cheresh/shoteh/katan, not tamei bechullin), and item 3 tests whether it refers to tamei bemukdashim \u2014 precisely the chain of reasoning the prose section describes.",
+      "chosen_heading": "VeChullan Referent",
+      "current_heading": "VeChullan Referent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Why Repeat Here?",
+    "candidates": [
+      "Tosafot: Where Standing?",
+      "Women Shecht L'chatchila",
+      "Why Repeat Here?",
+      "Zevachim Primary Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about why the tamei-bemukdashim ruling is being derived here when it already appears in Zevachim, which is precisely what the 'Why Repeat Here?' section's prose describes.",
+      "chosen_heading": "Why Repeat Here?",
+      "current_heading": "Why Repeat Here?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Zevachim Primary Source",
+    "candidates": [
+      "Zevachim Primary Source",
+      "Yaakov's Vow",
+      "Vow in Distress",
+      "Vows for Tzedakah OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's two answers about which mishna is the primary source (hacha ikar vs. hasam ikar) regarding tamei shechita in chullin vs. kodshim, which is exactly what the 'Zevachim Primary Source' prose describes.",
+      "chosen_heading": "Zevachim Primary Source",
+      "current_heading": "Zevachim Primary Source",
+      "moved": false
+    }
+  }
+]

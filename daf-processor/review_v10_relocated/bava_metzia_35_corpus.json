@@ -1,0 +1,286 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Shomer's Covetousness",
+    "candidates": [
+      "Rav Huna Rule",
+      "Shomer's Covetousness",
+      "Mashkon Setup",
+      "Four Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete Rav Huna statement including both the rule (oath that item is not in his possession) and the reason (concern he coveted it), and the prose under heading 0 'Rav Huna Rule' explicitly describes and quotes this exact passage including the reason, while heading 1 'Shomer's Covetousness' is meant to be the essay author's elaboration on that reason rather than the home of the Talmudic source text itself.",
+      "chosen_heading": "Rav Huna Rule",
+      "current_heading": "Shomer's Covetousness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Four Scenarios",
+    "candidates": [
+      "Mashkon Setup",
+      "Four Scenarios",
+      "Malveh Swears",
+      "Challenge Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items constitute the four-scenario mishna from Shevuot and Shmuel's clarification of who swears and why, which is precisely what the 'Four Scenarios' prose describes \u2014 the four cases of loan/mashkon value disputes and the ruling that the malveh always takes the oath.",
+      "chosen_heading": "Four Scenarios",
+      "current_heading": "Four Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Challenge Rav Huna",
+    "candidates": [
+      "Malveh Swears",
+      "Challenge Rav Huna",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara discussion challenging Rav Huna \u2014 Rava's burned-collateral answer, Rav Yosef's stolen-collateral answer, and the asymmetric-knowledge resolution \u2014 which is precisely what the 'Challenge Rav Huna' prose describes in detail.",
+      "chosen_heading": "Challenge Rav Huna",
+      "current_heading": "Challenge Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Defense Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's and Rav Ashi's answers to the braisa's oath sequence, and the essay's prose for 'Rava's Answer' explicitly discusses both parties swearing and the sequence of oaths (malveh first, then loveh), directly matching Rav Ashi's explanation in the passage.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Defense Rav Huna",
+    "candidates": [
+      "Defense Rav Huna",
+      "Rav Ashi Explains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna bar Ta\u1e25lifa's refutation of Rav Huna using the reisha d'seifa, which matches exactly the 'Defense Rav Huna' section's prose describing this same gilgul shvua-based tiyufta argument.",
+      "chosen_heading": "Defense Rav Huna",
+      "current_heading": "Defense Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Ashi Explains",
+    "candidates": [
+      "Rav Ashi Explains",
+      "Trust Asymmetry",
+      "Wealth Theology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Ashi's report of presenting the halakha before Rav Kahana and Rav Kahana's 'trusts the creditor' answer, plus the immediate challenges about value-knowledge and reciprocal trust \u2014 all of which is summarized under the 'Rav Ashi Explains' heading's prose, whereas 'Trust Asymmetry' discusses the theological/verse-based explanation that appears later in the sugya.",
+      "chosen_heading": "Rav Ashi Explains",
+      "current_heading": "Rav Ashi Explains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Wealth Theology",
+    "candidates": [
+      "Trust Asymmetry",
+      "Wealth Theology",
+      "Seizing House",
+      "Found Item",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the trust asymmetry using the theological verses about the upright creditor and faithless debtor, which is exactly what the 'Wealth Theology' section's prose describes.",
+      "chosen_heading": "Wealth Theology",
+      "current_heading": "Wealth Theology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Seizing House",
+      "Found Item",
+      "Rava's Challenge",
+      "No Real Debt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Seizing House",
+      "first_confidence": "high",
+      "first_reason": "Item 1 narrates the full case of the deposited jewels, the ruling, the seizure of the palace, the discovery of the jewels, and Rav Nachman's restoration order \u2014 exactly what headings 0 and 1 describe together, but heading 0's prose explicitly covers the seizure and heading 1's prose covers the found/returned items, so item 1 spans both; however the single best match encompassing the whole narrative is heading 0 ('Seizing House') which introduces the case and its resolution.",
+      "second_heading": "Rava's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's report of his challenge to Rav Nachman about whether the shomer who paid acquires the increase in value, which is precisely what heading 2 ('Rava's Challenge') discusses.",
+      "current_heading": "Rava's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "No Real Debt",
+    "candidates": [
+      "No Real Debt",
+      "Intro Shuma",
+      "Nardaei vs Amemar",
+      "Halakha Shuma"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Real Debt",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses why the bailee's forced court appearance (atrecha l'vei dina) prevents transfer of ownership, which is the exact reasoning described in the 'No Real Debt' prose about voluntary vs. compelled payment.",
+      "second_heading": "Intro Shuma",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the question of whether Rav Na\u1e25man holds shuma hadar as a general principle, which is precisely the 'Intro Shuma' section's topic of whether seized property can be redeemed by the debtor.",
+      "current_heading": "No Real Debt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Halakha Shuma",
+    "candidates": [
+      "Intro Shuma",
+      "Nardaei vs Amemar",
+      "Halakha Shuma",
+      "Chain Redemption",
+      "Exceptions Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 the Nardaei ruling (12 months), Amemar's position (forever), and the halakhic ruling with its verse justification \u2014 and candidate 1 ('Nardaei vs Amemar') explicitly discusses all of these together, while candidate 2 ('Halakha Shuma') covers only the final ruling, making candidate 1 the better match for the complete passage.",
+      "chosen_heading": "Nardaei vs Amemar",
+      "current_heading": "Halakha Shuma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Exceptions Property",
+    "candidates": [
+      "Chain Redemption",
+      "Exceptions Property",
+      "Husband Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the chain redemption rule (creditor of creditor cannot retain land) and the exceptions (sale, gift, inheritance extinguish redemption), but the current placement under 'Exceptions Property' misses that the first half of the passage \u2014 the lo adifat mi-gavra principle \u2014 is precisely what heading 0 'Chain Redemption' describes, and the essay prose for heading 1 already covers the exceptions portion separately; however, since the passage is a single unified Talmudic excerpt that begins with the chain redemption ruling and then appends the exceptions, and heading 0's prose explicitly quotes and discusses this exact passage including both the lo adifat rule and the ada'ata d'ara language, the passage belongs under heading 0 where the chain redemption discussion initiates.",
+      "chosen_heading": "Chain Redemption",
+      "current_heading": "Exceptions Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Husband Status",
+    "candidates": [
+      "Exceptions Property",
+      "Husband Status",
+      "Voluntary Seizure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the husband's status as a purchaser (lokeach) with respect to his wife's property, and the Usha enactment cited in item 2 is the explicit source proof for that status \u2014 exactly what the 'Husband Status' prose section discusses.",
+      "chosen_heading": "Husband Status",
+      "current_heading": "Husband Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Voluntary Seizure",
+    "candidates": [
+      "Voluntary Seizure",
+      "Ownership Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav A\u1e25a/Ravina dispute about voluntary debtor-authorized repossession and the reasoning behind each position (full-fledged sale vs. embarrassment-motivated transfer), which is precisely what the 'Voluntary Seizure' prose describes.",
+      "chosen_heading": "Voluntary Seizure",
+      "current_heading": "Voluntary Seizure",
+      "moved": false
+    }
+  }
+]

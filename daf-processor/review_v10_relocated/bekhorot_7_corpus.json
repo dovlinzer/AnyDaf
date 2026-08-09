@@ -1,0 +1,494 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Ella Me'ata Challenge",
+    "candidates": [
+      "Non-Kosher Principle",
+      "Ella Me'ata Challenge",
+      "Shasua and Ra'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge about the repetition of shafan, arnevet, and chazir, which is precisely what the 'Ella Me'ata Challenge' prose describes.",
+      "chosen_heading": "Ella Me'ata Challenge",
+      "current_heading": "Ella Me'ata Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Shasua and Ra'ah",
+    "candidates": [
+      "Shasua and Ra'ah",
+      "Drasha Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the baraita explaining why non-kosher animals were repeated in Deuteronomy \u2014 because of the shasua and the ra'ah \u2014 which is precisely what the prose under 'Shasua and Ra'ah' describes.",
+      "chosen_heading": "Shasua and Ra'ah",
+      "current_heading": "Shasua and Ra'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Drasha Rule",
+    "candidates": [
+      "Drasha Rule",
+      "Sheep/Goat Offspring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents and explains the rule 'kol heikha de'ika lemidrash darshinan,' which is exactly what the prose under 'Drasha Rule' describes.",
+      "chosen_heading": "Drasha Rule",
+      "current_heading": "Drasha Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Sheep/Goat Offspring",
+    "candidates": [
+      "Sheep/Goat Offspring",
+      "Head & Majority",
+      "Appearance & Kashrut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the stam baraita ruling (ewe/goat exemption with partial characteristics) and Rabbi Shimon's opinion, and the current heading's prose explicitly describes both elements together as a unit from the same baraita.",
+      "chosen_heading": "Sheep/Goat Offspring",
+      "current_heading": "Sheep/Goat Offspring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Appearance & Kashrut",
+    "candidates": [
+      "Head & Majority",
+      "Appearance & Kashrut",
+      "Baraita Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the dilemma about whether Rabbi Shimon's rosho ve'rubo standard applies to eating (achilah) as well as bechorah, which is precisely what the 'Appearance & Kashrut' prose describes \u2014 including the specific asymmetry between the positive bechorah framing and the negative non-kosher framing that the gemara raises.",
+      "chosen_heading": "Appearance & Kashrut",
+      "current_heading": "Appearance & Kashrut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Baraita Inference",
+    "candidates": [
+      "Baraita Inference",
+      "Leapfrog Logic",
+      "Resolution",
+      "Siman Echad",
+      "Physical Characteristic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita inference and its rejection \u2014 item 1 proposes the inference and item 2 rejects it \u2014 which is precisely what the 'Baraita Inference' prose describes, including the shema mina reasoning and the leapfrog counter-argument embedded in the same section.",
+      "chosen_heading": "Baraita Inference",
+      "current_heading": "Baraita Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Physical Characteristic",
+    "candidates": [
+      "Leapfrog Logic",
+      "Resolution",
+      "Siman Echad",
+      "Physical Characteristic",
+      "Kosher Parents"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's resolution explaining why the baraita focused on bechorah \u2014 to correct the misconception that the whole body must resemble the mother \u2014 which matches exactly the 'Resolution' prose about ach bechor shor and ka mashma lan.",
+      "second_heading": "Siman Echad",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new baraita about 'et zeh lo tochlu' and the siman echad principle, which matches exactly the 'Siman Echad' prose describing that very baraita and its derivation.",
+      "current_heading": "Physical Characteristic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Kosher Parents",
+    "candidates": [
+      "Physical Characteristic",
+      "Kosher Parents",
+      "Rabbi Yehoshua",
+      "Seh Doubled",
+      "Rabbi Eliezer",
+      "Non-Kosher Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'siman echad' as a non-kosher animal born of kosher parents, which is precisely what the 'Kosher Parents' section's prose discusses and paraphrases directly.",
+      "chosen_heading": "Kosher Parents",
+      "current_heading": "Kosher Parents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Non-Kosher Father",
+    "candidates": [
+      "Rabbi Yehoshua",
+      "Seh Doubled",
+      "Rabbi Eliezer",
+      "Non-Kosher Father",
+      "No Interbreeding",
+      "No Cross-Species"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabbi Yehoshua's requirement for kosher parentage, Rabbi Eliezer's 'add to the permitted' argument about a non-kosher father, the gemara's note that the baraita follows Rabbi Shimon on one point, and the conclusion that this tanna agrees with Rabbi Shimon on one matter and disagrees on another \u2014 are all explicitly addressed in the 'Non-Kosher Father' prose, which covers exactly this sequence of the baraita debate and its talmudic resolution.",
+      "chosen_heading": "Non-Kosher Father",
+      "current_heading": "Non-Kosher Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "No Cross-Species",
+    "candidates": [
+      "No Interbreeding",
+      "No Cross-Species",
+      "Koy Exception",
+      "Kolut Animal",
+      "Appearance Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge about whether a kosher animal can become pregnant from a non-kosher one, which matches heading 0 ('No Interbreeding') whose prose explicitly frames this as 'a new challenge' asking whether such a scenario is 'biologically possible' \u2014 whereas heading 1 ('No Cross-Species') describes Rabbi Yehoshua ben Levi's principle as already-established background, which is only item 2 in isolation and not the question-and-challenge structure of both items together.",
+      "chosen_heading": "No Interbreeding",
+      "current_heading": "No Cross-Species",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Appearance Matters",
+    "candidates": [
+      "Koy Exception",
+      "Kolut Animal",
+      "Appearance Matters",
+      "Both Causes Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address Rabbi Yirmiyah's resolution involving the kolut ben parah and the subsequent clarification that this tanna agrees with Rabbi Shimon on one point but disagrees on another \u2014 precisely the content described in the 'Kolut Animal' prose section, not the 'Appearance Matters' section which discusses the broader implications of that resolution.",
+      "chosen_heading": "Kolut Animal",
+      "current_heading": "Appearance Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Both Causes Matter",
+    "candidates": [
+      "Appearance Matters",
+      "Both Causes Matter",
+      "Mother Only",
+      "Both Parents Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rabbi Eliezer holds 'zeh ve-zeh gorem mutar' and Rabbi Yehoshua holds 'zeh ve-zeh gorem assur,' which is precisely the dual-causation concept introduced and explained in the 'Both Causes Matter' section's prose.",
+      "chosen_heading": "Both Causes Matter",
+      "current_heading": "Both Causes Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Both Parents Required",
+    "candidates": [
+      "Mother Only",
+      "Both Parents Required",
+      "Position Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the reversal ('we have heard them saying the opposite') and presents the velad tereifah case, which is precisely what candidate 0's prose describes as its topic, while candidate 1's prose already provides the analysis/explanation of that same passage.",
+      "chosen_heading": "Mother Only",
+      "current_heading": "Both Parents Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Position Reversal",
+    "candidates": [
+      "Both Parents Required",
+      "Position Reversal",
+      "Shimon Explicit",
+      "Both Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the gemara's resolution of the position-reversal paradox \u2014 Rabbi Eliezer's exception via the doubled 'seh' and Rabbi Yehoshua's exception via the plural 'kesavim ve-izim' \u2014 which is precisely what the 'Position Reversal' prose describes in detail.",
+      "chosen_heading": "Position Reversal",
+      "current_heading": "Position Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Both Contexts",
+    "candidates": [
+      "Shimon Explicit",
+      "Both Contexts",
+      "Donkey Urine",
+      "Clear Urine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita proof and its conclusion that Rabbi Shimon requires rosh ve-rubo for achilah \u2014 exactly what heading 0 ('Shimon Explicit') describes, while heading 1 ('Both Contexts') describes the implication drawn after the baraita, not the baraita itself.",
+      "chosen_heading": "Shimon Explicit",
+      "current_heading": "Both Contexts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Clear Urine",
+    "candidates": [
+      "Donkey Urine",
+      "Clear Urine",
+      "Foul Urine",
+      "Sheshet Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together form the complete discussion about donkey urine \u2014 the dilemma raised, the contrast with horse/camel urine, Rav Sheshet's answer, and the alternative version \u2014 which matches heading 0 ('Donkey Urine') whose prose explicitly introduces this entire unit, whereas the current placement under 'Clear Urine' (heading 1) only matches the sub-point about horse/camel urine.",
+      "chosen_heading": "Donkey Urine",
+      "current_heading": "Clear Urine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Sheshet Answer",
+    "candidates": [
+      "Foul Urine",
+      "Sheshet Answer",
+      "Drunk by People",
+      "Urine Forbidden",
+      "Honey Permitted",
+      "Stored Nectar",
+      "Storage vs. Transform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Sheshet citing the mishna's principle 'ha-yotzei min ha-tamei tamei' to resolve the question about donkey urine, which is precisely what the 'Sheshet Answer' section's prose describes.",
+      "chosen_heading": "Sheshet Answer",
+      "current_heading": "Sheshet Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Storage vs. Transform",
+    "candidates": [
+      "Drunk by People",
+      "Urine Forbidden",
+      "Honey Permitted",
+      "Stored Nectar",
+      "Storage vs. Transform",
+      "Torah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the gemara's challenge (meitivei) asking why bee honey is permitted \u2014 exactly what the 'Honey Permitted' section's prose describes as its content.",
+      "chosen_heading": "Honey Permitted",
+      "current_heading": "Storage vs. Transform",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Torah Exception",
+    "candidates": [
+      "Storage vs. Transform",
+      "Torah Exception",
+      "Sole Exception",
+      "Bee Honey Only",
+      "All Honey OK",
+      "Transformation Key"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Ya'akov's derivation from the verse about winged creatures, concluding that bee honey alone is the permitted exception \u2014 which matches 'Sole Exception' prose precisely, not 'Torah Exception' which only describes the principle that honey is forbidden but saved by a Torah exception without giving the derivation itself.",
+      "chosen_heading": "Sole Exception",
+      "current_heading": "Torah Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Transformation Key",
+    "candidates": [
+      "Sole Exception",
+      "Bee Honey Only",
+      "All Honey OK",
+      "Transformation Key",
+      "Donkey Stones",
+      "Testicles/Semen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the exclusion of gizzin/wasp honey versus bee honey (shem livai reasoning) and the tahor/tumah status of gizzin honey, which is precisely what the 'Bee Honey Only' prose section describes.",
+      "chosen_heading": "Bee Honey Only",
+      "current_heading": "Transformation Key",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Testicles/Semen",
+    "candidates": [
+      "Donkey Stones",
+      "Testicles/Semen",
+      "Placenta Refuse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes chunks discharged from a female fallow deer (yachmorta) being identified by Rav Safra as hardened semen from a hart (ayala) that pursued the fallow deer after failing to mate with a hind \u2014 exactly the content described in the 'Testicles/Semen' section's prose about Rav Safra's explanation involving zar'a de-ayala and yachmorta.",
+      "chosen_heading": "Testicles/Semen",
+      "current_heading": "Testicles/Semen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Placenta Refuse",
+    "candidates": [
+      "Placenta Refuse",
+      "Refuse Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the fetal sac/skin opposite the face of a donkey or person, Rav Huna's ruling that it is permitted as mere secretion, and the supporting baraita debate \u2014 exactly what candidate 0 ('Placenta Refuse') describes in its prose.",
+      "chosen_heading": "Placenta Refuse",
+      "current_heading": "Placenta Refuse",
+      "moved": false
+    }
+  }
+]

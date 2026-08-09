@@ -49,7 +49,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Eastern Wall Height and the Priest's Ability to See the Heichal Opening",
@@ -115,8 +115,8 @@
           "timestamp": "15:55"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Proof that Middot is According to Rabbi Eliezer ben Yaakov, Not the Rabbanan",
@@ -129,7 +129,7 @@
           "timestamp": "16:00"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -148,7 +148,7 @@
           "timestamp": "16:53"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -162,7 +162,7 @@
           "timestamp": "19:12"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -191,7 +191,7 @@
           "timestamp": "24:40"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 7,
       "matched": false
     },
     {
@@ -225,7 +225,7 @@
           "timestamp": "33:41"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 9,
       "matched": true
     }
   ],
@@ -795,5 +795,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "26:41",
+  "amud_b_micro_title": "Mizbeach Not Centered",
+  "shiur_start_daf": 16,
+  "shiur_start_amud": "a"
 }

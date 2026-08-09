@@ -1,0 +1,233 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Two Stages of Strictness",
+    "candidates": [
+      "Hand Impurity Attribution",
+      "Two Stages of Strictness",
+      "Ilfa's Challenge",
+      "Accepted vs. Rejected",
+      "Solomon's Takkanah",
+      "Solomon's Kodashim",
+      "Extension to Terumah",
+      "Three Sets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Solomon decreed for kodashim and then Shammai/Hillel came and extended it to terumah, which is precisely what the 'Solomon's Kodashim' section's prose describes.",
+      "chosen_heading": "Solomon's Kodashim",
+      "current_heading": "Two Stages of Strictness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Three Sets",
+    "candidates": [
+      "Ilfa's Challenge",
+      "Accepted vs. Rejected",
+      "Solomon's Takkanah",
+      "Solomon's Kodashim",
+      "Extension to Terumah",
+      "Three Sets",
+      "Same Day Debate",
+      "Rambam's Framework",
+      "Challah Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda in Shmuel's teaching about eighteen decrees with disagreement and then consensus (nechelku/hushvu), which is precisely what section 5 'Three Sets' discusses \u2014 the apparent contradiction between 'nechelku' and 'hushvu' in that same statement.",
+      "chosen_heading": "Three Sets",
+      "current_heading": "Three Sets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Challah Amounts",
+    "candidates": [
+      "Same Day Debate",
+      "Rambam's Framework",
+      "Challah Amounts",
+      "Measure Conversions",
+      "Mikvah Water Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's teaching about the Shammai-Hillel dispute over the measure of dough obligating challah separation, which is exactly what the 'Challah Amounts' section prose describes.",
+      "chosen_heading": "Challah Amounts",
+      "current_heading": "Challah Amounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Mikvah Water Debate",
+    "candidates": [
+      "Measure Conversions",
+      "Mikvah Water Debate",
+      "Weavers' Evidence",
+      "Gra on Pronunciation",
+      "Blood Stain Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Hillel/Shammai/Rabbis dispute over how much drawn water invalidates a mikvah, including the weavers' testimony, which matches exactly the 'Mikvah Water Debate' section's prose.",
+      "chosen_heading": "Mikvah Water Debate",
+      "current_heading": "Mikvah Water Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Blood Stain Timing",
+    "candidates": [
+      "Weavers' Evidence",
+      "Gra on Pronunciation",
+      "Blood Stain Timing",
+      "Sages' Compromise",
+      "Uncounted Debates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Shammai-Hillel-Rabbis debate on retroactive tumah timing (dayan sha'atan vs. mipkidah lipkidah), which is precisely what the 'Blood Stain Timing' section's prose describes.",
+      "chosen_heading": "Blood Stain Timing",
+      "current_heading": "Blood Stain Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Uncounted Debates",
+    "candidates": [
+      "Sages' Compromise",
+      "Uncounted Debates",
+      "Two Yoseis",
+      "Historical Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's challenge to Rav Huna's count of three Shammai-Hillel disputes \u2014 item 1 raises the semicha objection and item 2 raises the botzer lagat objection \u2014 exactly matching the prose of candidate 1 'Uncounted Debates'.",
+      "chosen_heading": "Uncounted Debates",
+      "current_heading": "Uncounted Debates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Historical Timeline",
+    "candidates": [
+      "Two Yoseis",
+      "Historical Timeline",
+      "Ground Suspension",
+      "Air Suspension",
+      "Six Usha Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara challenge to the attribution of the eretz ha'amim decree to Yosei ben Yoezer and Yosei ben Yochanan \u2014 the chronological tradition from Rav Kahana/Rabbi Yishmael bar Rabbi Yosi placing it 80 years before the churban, the Sanhedrin relocation discussion, and the baraita about Hillel's dynasty proving Yosei ben Yoezer was much earlier \u2014 which is precisely what the 'Historical Timeline' section prose describes.",
+      "chosen_heading": "Historical Timeline",
+      "current_heading": "Historical Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Six Usha Cases",
+    "candidates": [
+      "Ground Suspension",
+      "Air Suspension",
+      "Six Usha Cases",
+      "Usha Burning Rule",
+      "Glass-Pottery Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items trace the staged development of the eretz ha'amim decree through the Usha enactment \u2014 the mishna about six cases, Ulla's statement about Usha, and the final three-stage resolution \u2014 which is precisely what the 'Six Usha Cases' section's prose describes.",
+      "chosen_heading": "Six Usha Cases",
+      "current_heading": "Six Usha Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Glass-Pottery Analogy",
+    "candidates": [
+      "Usha Burning Rule",
+      "Glass-Pottery Analogy",
+      "Lead-Filled Glass",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in the 'Glass-Pottery Analogy' prose: Rabbi Yochanan/Reish Lakish's explanation that glass is equated to pottery because both originate from earth/sand, followed by the opening challenge about mikvah purification \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Glass-Pottery Analogy",
+      "current_heading": "Glass-Pottery Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Lead-Filled Glass",
+      "Rabbi Meir's View",
+      "Meir vs. Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the lead-filled glass case as Rabbi Meir's principle (hakol holech achar hama'amid) and brings the baraita recording his view, which precisely matches the prose under 'Rabbi Meir's View' describing this exact case and principle.",
+      "chosen_heading": "Rabbi Meir's View",
+      "current_heading": "Rabbi Meir's View",
+      "moved": false
+    }
+  }
+]

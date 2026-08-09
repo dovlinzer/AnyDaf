@@ -1,0 +1,474 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Mishnah: Kodem l'Omer",
+    "candidates": [
+      "Intro: Roles",
+      "Omer permits all grain",
+      "Shtei HaLechem & Bikkurim",
+      "Mishnah: Kodem l'Omer",
+      "Simple explanation",
+      "Tarfon's question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the dual roles of the omer and shtei halechem, which matches the 'Intro: Roles' section prose that directly quotes and explains 'ha'omer haya matir bamedina v'Shtei Halechem bamikdash' \u2014 the opening framework \u2014 rather than the later section that focuses on the kodem la'omer/pasul vs. kodem l'shtei halechem/kasher distinction.",
+      "chosen_heading": "Intro: Roles",
+      "current_heading": "Mishnah: Kodem l'Omer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Tarfon's question",
+    "candidates": [
+      "Simple explanation",
+      "Tarfon's question",
+      "Yehuda's answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Tarfon's question about the difference between before the omer and before the shtei halechem, which matches exactly the 'Tarfon's question' heading's prose description of this same question.",
+      "chosen_heading": "Tarfon's question",
+      "current_heading": "Tarfon's question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Yehuda's answer",
+    "candidates": [
+      "Yehuda's answer",
+      "Akiva's rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Yehuda bar Ne\u1e25emya's actual argument before Rabbi Tarfon, which is precisely what heading 0 ('Yehuda's answer') describes in its prose.",
+      "chosen_heading": "Yehuda's answer",
+      "current_heading": "Yehuda's answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Akiva's rebuke",
+    "candidates": [
+      "Akiva's rebuke",
+      "Yehuda's death",
+      "Tarfon's real issue",
+      "Rashba's models",
+      "Model One: Parallel",
+      "Model Two: Single",
+      "Grapes test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Akiva's rebuke AND the fulfillment of his prediction (Yehuda ben Nechemya's death shortly after), which matches heading 1 'Yehuda's death' whose prose explicitly covers both the rebuke's aftermath and the confirmation that Yehuda passed away \u2014 the current placement under 'Akiva's rebuke' captures only the first half of the passage's content.",
+      "chosen_heading": "Yehuda's death",
+      "current_heading": "Akiva's rebuke",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Grapes test",
+    "candidates": [
+      "Yehuda's death",
+      "Tarfon's real issue",
+      "Rashba's models",
+      "Model One: Parallel",
+      "Model Two: Single",
+      "Grapes test",
+      "Rami's question",
+      "The case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are the Rav Na\u1e25man bar Yitz\u1e25ak teaching about libations from first-fruit grapes before the omer, plus the Gemara's pshita question and its resolution \u2014 exactly the 'Grapes test' content described in candidate 5's prose.",
+      "chosen_heading": "Grapes test",
+      "current_heading": "Grapes test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "The case",
+    "candidates": [
+      "Rami's question",
+      "The case",
+      "Rava's proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rami's question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the mnemonic and Rami bar \u1e24ama's initial question about whether the two loaves permit out of order, which matches heading 0's prose about Rami's question regarding shtei halechem operating in reverse order.",
+      "second_heading": "The case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 elaborates the specific case construction (grain planted between omer and shtei halechem, reversed sequence) and the two possibilities, which exactly matches heading 1's prose describing the case details and the kesidran/shelo kesidran question.",
+      "current_heading": "The case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rava's proof",
+    "candidates": [
+      "Rava's proof",
+      "Three sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's 'ta shema' introduction and the baraita's opening question about whether the omer comes from barley or wheat, which matches exactly the prose in heading 0 describing Rava's proof and the baraita's initial question.",
+      "chosen_heading": "Rava's proof",
+      "current_heading": "Rava's proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Three sources",
+    "candidates": [
+      "Three sources",
+      "Different crops"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the three sources from the baraita (Rabbi Eliezer's gezeirah shavah, Rabbi Akiva's individual/community symmetry argument, and the davar acher about bikkurim) that candidate 0's prose explicitly and comprehensively describes.",
+      "chosen_heading": "Three sources",
+      "current_heading": "Three sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Different crops",
+    "candidates": [
+      "Different crops",
+      "Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe exactly the scenario outlined in candidate 0's prose \u2014 using grain from different growth periods to allow a wheat omer while preserving the bikkurim status of the shtei halechem \u2014 which is the argument Rabba constructs to resolve Rami bar \u1e24ama's dilemma, precisely as described in the 'Different crops' section.",
+      "chosen_heading": "Different crops",
+      "current_heading": "Different crops",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Refutation",
+    "candidates": [
+      "Refutation",
+      "Rami: growth stage",
+      "Taking root vs leaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's rejection of Rabba's proof, which is precisely what candidate 0 ('Refutation') describes in its prose \u2014 the mi savrat / le'mizbe'ach amrinan exchange about why the shtei halechem cannot come from that wheat because the mizbe'ach already consumed from this year's crop.",
+      "chosen_heading": "Refutation",
+      "current_heading": "Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Taking root vs leaves",
+    "candidates": [
+      "Rami: growth stage",
+      "Taking root vs leaves",
+      "Teiku",
+      "Rabbah: seeds in ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rami bar \u1e24ama's complete dilemma about which growth stage (hanatza vs. chanata) triggers the shtei halechem's permission for fruit, which is precisely what heading 0 ('Rami: growth stage') describes, while the current placement under heading 1 ('Taking root vs leaves') only covers the clarificatory portion of the same sugya.",
+      "chosen_heading": "Rami: growth stage",
+      "current_heading": "Taking root vs leaves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rabbah: seeds in ground",
+    "candidates": [
+      "Teiku",
+      "Rabbah: seeds in ground",
+      "Vessel analogy",
+      "Three questions",
+      "Ona'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara unit of Rava bar Rav \u1e24anan's dilemma about sowed wheat kernels \u2014 the question, the mishnah citation showing both cases are covered, and the reframing of the actual novel case \u2014 which is precisely what the 'Rabbah: seeds in ground' prose describes in detail.",
+      "chosen_heading": "Rabbah: seeds in ground",
+      "current_heading": "Rabbah: seeds in ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Ona'ah",
+    "candidates": [
+      "Vessel analogy",
+      "Three questions",
+      "Ona'ah",
+      "Shevu'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the ona'ah dilemma \u2014 the question of whether exploitation laws apply to planted seeds, Rava's ruling about exact quantities, and the resolution that the relevant case is one where no exact quantity was specified \u2014 which is precisely what the prose under heading 2 ('Ona'ah') describes in detail.",
+      "chosen_heading": "Ona'ah",
+      "current_heading": "Ona'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Shevu'ah",
+    "candidates": [
+      "Shevu'ah",
+      "All Teiku",
+      "Rami: kernels status",
+      "Extracting matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the oath (shevuah) dilemma regarding planted seeds \u2014 whether they are treated as metaltelin or karka \u2014 which is precisely what the 'Shevu'ah' section's prose describes.",
+      "chosen_heading": "Shevu'ah",
+      "current_heading": "Shevu'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Extracting matters",
+    "candidates": [
+      "All Teiku",
+      "Rami: kernels status",
+      "Extracting matters",
+      "Dung-grown grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama raising the initial dilemma about wheat/barley in dung, which matches candidate 1's prose description of Rami posing this question, not candidate 2 which covers the baraita's answer about extraction.",
+      "chosen_heading": "Rami: kernels status",
+      "current_heading": "Extracting matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Dung-grown grain",
+    "candidates": [
+      "Extracting matters",
+      "Dung-grown grain",
+      "Two theories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks about using kernels for meal offerings and immediately rejects it with the Malachi verse, which matches heading 1's prose that describes the mincha question and the 'hakrivehu' verse being cited as an obvious rejection.",
+      "chosen_heading": "Dung-grown grain",
+      "current_heading": "Dung-grown grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Two theories",
+    "candidates": [
+      "Dung-grown grain",
+      "Two theories",
+      "Elephant & palm",
+      "Dung vs palm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the two theories (me'isus vs. k'chishusa) about grain grown from planted dung-kernels and concludes with teiku, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Two theories",
+      "current_heading": "Two theories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Dung vs palm",
+    "candidates": [
+      "Elephant & palm",
+      "Dung vs palm",
+      "Wolves story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the complete unit of Rami bar Chama's elephant dilemma \u2014 the initial question, the clarification of its purpose, and the real case (palm leaves swallowed and made into a basket) \u2014 which belongs under 'Elephant & palm' whose prose describes exactly this scenario, not under 'Dung vs palm' which describes the resolution/answer phase.",
+      "chosen_heading": "Elephant & palm",
+      "current_heading": "Dung vs palm",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Wolves story",
+    "candidates": [
+      "Dung vs palm",
+      "Wolves story",
+      "Intermediate status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the wolves swallowing two children and the sages ruling the flesh ritually pure, which matches exactly the 'Wolves story' section prose discussing this same incident and its ruling.",
+      "chosen_heading": "Wolves story",
+      "current_heading": "Wolves story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Intermediate status",
+    "candidates": [
+      "Intermediate status",
+      "Tosafot's principle",
+      "Zeira: rain question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the soft/hard distinction (flesh vs. bones vs. palm leaves) and the unresolved intermediate status of palm leaves, which is exactly what the 'Intermediate status' section's prose describes.",
+      "chosen_heading": "Intermediate status",
+      "current_heading": "Intermediate status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Zeira: rain question",
+    "candidates": [
+      "Tosafot's principle",
+      "Zeira: rain question",
+      "Two interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's dilemma about wheat that fell from clouds and its use for the two loaves, which is precisely what the 'Zeira: rain question' section's prose describes.",
+      "chosen_heading": "Zeira: rain question",
+      "current_heading": "Zeira: rain question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Two interpretations",
+    "candidates": [
+      "Two interpretations",
+      "It can happen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two interpretations of 'mi-moshvoseichem' \u2014 the exact content described in candidate 0's prose about the two readings of that phrase.",
+      "chosen_heading": "Two interpretations",
+      "current_heading": "Two interpretations",
+      "moved": false
+    }
+  }
+]

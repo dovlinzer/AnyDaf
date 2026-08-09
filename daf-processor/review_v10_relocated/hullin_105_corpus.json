@@ -1,0 +1,508 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Waiting Period Intro",
+    "candidates": [
+      "Kinuach Definition",
+      "Waiting Period Intro",
+      "Order Matters",
+      "Meat Between Teeth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Asi/Rabbi Yochanan exchange about waiting between meat and cheese and the Rav Chisda asymmetry, which is exactly what the 'Waiting Period Intro' prose describes.",
+      "chosen_heading": "Waiting Period Intro",
+      "current_heading": "Waiting Period Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Meat Between Teeth",
+    "candidates": [
+      "Order Matters",
+      "Meat Between Teeth",
+      "Waiting Purpose",
+      "Mar Ukva Practice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Order Matters",
+      "first_confidence": "high",
+      "first_reason": "Item 1 opens with 'the matter itself' (gufa) and presents Rav Chisda's core ruling that meat\u2192cheese is prohibited while cheese\u2192meat is permitted, which is precisely what heading 0 ('Order Matters') discusses.",
+      "second_heading": "Meat Between Teeth",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Chisda's verse-based response to the meat-between-the-teeth question, which belongs with heading 1 ('Meat Between Teeth') whose prose describes exactly this exchange.",
+      "current_heading": "Meat Between Teeth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Mar Ukva Practice",
+    "candidates": [
+      "Waiting Purpose",
+      "Mar Ukva Practice",
+      "Tosafot: Meal Change",
+      "Rambam: Six Hours",
+      "Conceptual Framework",
+      "Custom Variations",
+      "Cheese First Rule",
+      "Rabbeinu Tam Leniency",
+      "Convert Hardship",
+      "Hard Cheese Practice",
+      "Samuel's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Mar Ukva's statement about his practice compared to his father's, which is precisely what the 'Mar Ukva Practice' section's prose discusses in detail.",
+      "chosen_heading": "Mar Ukva Practice",
+      "current_heading": "Mar Ukva Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Samuel's Teaching",
+    "candidates": [
+      "Tosafot: Meal Change",
+      "Rambam: Six Hours",
+      "Conceptual Framework",
+      "Custom Variations",
+      "Cheese First Rule",
+      "Rabbeinu Tam Leniency",
+      "Convert Hardship",
+      "Hard Cheese Practice",
+      "Samuel's Teaching",
+      "Abaye Catches Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is about Shmuel's statement comparing himself to his father regarding property patrol frequency and the benefit of daily inspection, which is precisely what the 'Samuel's Teaching' section prose describes.",
+      "chosen_heading": "Samuel's Teaching",
+      "current_heading": "Samuel's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Abaye Catches Theft",
+    "candidates": [
+      "Abaye Catches Theft",
+      "Rav Assi Flood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye patrolling his property and catching his sharecropper attempting to steal wood, which directly matches the prose under 'Abaye Catches Theft.'",
+      "chosen_heading": "Abaye Catches Theft",
+      "current_heading": "Abaye Catches Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Assi Flood",
+    "candidates": [
+      "Rav Assi Flood",
+      "Obligation Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Asi patrolling his property and plugging a burst irrigation channel with his cloak, which matches exactly the prose under 'Rav Assi Flood'.",
+      "chosen_heading": "Rav Assi Flood",
+      "current_heading": "Rav Assi Flood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Obligation Levels",
+    "candidates": [
+      "Obligation Levels",
+      "Brachah Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the foundational distinction between mayim rishonim as mitzvah and mayim acharonim as chovah, which is precisely what Candidate 0's prose discusses as its central topic.",
+      "chosen_heading": "Obligation Levels",
+      "current_heading": "Obligation Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Brachah Difference",
+    "candidates": [
+      "Brachah Difference",
+      "Rishonim Rules",
+      "Acharonim Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the terminological tension between 'mitzvah' and 'chovah' for mayim rishonim versus mayim acharonim, and the Gemara's resolution that compared to reshut even a mitzvah can be called an obligation \u2014 which is exactly what the 'Brachah Difference' prose section discusses.",
+      "chosen_heading": "Brachah Difference",
+      "current_heading": "Brachah Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Acharonim Rules",
+    "candidates": [
+      "Rishonim Rules",
+      "Acharonim Rules",
+      "Yad Soledes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full baraita about first/final/middle waters, the vessel-vs-ground dispute and the wood-slivers difference, and the hot/cold water rule \u2014 all of which are explicitly discussed in the 'Acharonim Rules' prose, which also mentions the two positions on vessel vs. ground, the wood-chips intermediate case, and the hot/cold temperature rule for both rishonim and acharonim.",
+      "chosen_heading": "Acharonim Rules",
+      "current_heading": "Acharonim Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Yad Soledes",
+    "candidates": [
+      "Yad Soledes",
+      "Middle Washing Optional",
+      "Meat-Milk Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the alternative version of Rav Yannai's ruling about hot water (yad soledes) for final waters and the inference about first waters, which is precisely what the 'Yad Soledes' section's prose describes.",
+      "chosen_heading": "Yad Soledes",
+      "current_heading": "Yad Soledes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Meat-Milk Washing",
+    "candidates": [
+      "Middle Washing Optional",
+      "Meat-Milk Washing",
+      "Salt Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Na\u1e25man's qualification that middle washing is obligatory between a cooked dish and cheese, which is precisely what the 'Meat-Milk Washing' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Meat-Milk Washing",
+      "current_heading": "Meat-Milk Washing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Salt Danger",
+    "candidates": [
+      "Salt Danger",
+      "Salt Preservation Theory",
+      "Practical Concern",
+      "Spirit Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the obligation of final waters due to Sodomite salt, matching exactly what the 'Salt Danger' section's prose describes.",
+      "chosen_heading": "Salt Danger",
+      "current_heading": "Salt Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Spirit Concern",
+    "candidates": [
+      "Salt Preservation Theory",
+      "Practical Concern",
+      "Spirit Concern",
+      "Removing Dishes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Abaye's original practical explanation (*zuhama*/messiness) being corrected by Rabba's spiritual explanation, but the prose under candidate 1 ('Practical Concern') explicitly describes Abaye's *zuhama* reasoning while candidate 2 ('Spirit Concern') describes Rabba's correction \u2014 the passage contains both parts and belongs under the heading that introduces Abaye's initial reasoning, which then leads into the correction, matching candidate 1's prose that sets up the exchange.",
+      "chosen_heading": "Practical Concern",
+      "current_heading": "Spirit Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Removing Dishes",
+    "candidates": [
+      "Spirit Concern",
+      "Removing Dishes",
+      "Dish Removal Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's original practical explanation for not taking items from the table while someone holds a cup to drink, and Rabba's correction attributing it to the spirit Tzerada \u2014 exactly what the 'Removing Dishes' prose describes.",
+      "chosen_heading": "Removing Dishes",
+      "current_heading": "Removing Dishes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Dish Removal Rules",
+    "candidates": [
+      "Dish Removal Rules",
+      "Mar bar Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage precisely details the three qualifications to the dish removal prohibition (taking without returning, beyond four cubits, items needed for the meal), which exactly matches the prose under 'Dish Removal Rules'.",
+      "chosen_heading": "Dish Removal Rules",
+      "current_heading": "Dish Removal Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Mar bar Rav Ashi",
+    "candidates": [
+      "Mar bar Rav Ashi",
+      "Crumbs & Poverty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes Mar bar Rav Ashi's particular stringency regarding the mortar and pestle for spices, which matches exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Mar bar Rav Ashi",
+      "current_heading": "Mar bar Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Crumbs & Poverty",
+    "candidates": [
+      "Crumbs & Poverty",
+      "Crumb Vigilance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's correction about why crumbs are collected (cleanliness vs. poverty), which matches exactly the prose in 'Crumbs & Poverty' discussing Abaye's recitation and Rabba's correction about the spirit of poverty.",
+      "chosen_heading": "Crumbs & Poverty",
+      "current_heading": "Crumbs & Poverty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Crumb Vigilance",
+    "candidates": [
+      "Crumb Vigilance",
+      "Foam Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact story about the man pursued by the spirit of poverty who was careful about crumbs, which is precisely what the 'Crumb Vigilance' prose describes in detail.",
+      "chosen_heading": "Crumb Vigilance",
+      "current_heading": "Crumb Vigilance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Foam Danger",
+    "candidates": [
+      "Foam Danger",
+      "Foam Remedies",
+      "Poverty Follows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's initial reasoning about foam, the correction by the Master, and the dangers of drinking/blowing/removing foam along with the remedy of sinking it \u2014 all of which matches exactly the 'Foam Danger' prose discussion.",
+      "chosen_heading": "Foam Danger",
+      "current_heading": "Foam Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Poverty Follows",
+    "candidates": [
+      "Foam Remedies",
+      "Poverty Follows",
+      "Vegetable Bundle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the foam remedies (wine\u2192beer, beer\u2192water, water\u2192no remedy) AND the proverb about poverty, making it a single unified text that belongs under 'Foam Remedies' which describes the full content of the passage, while 'Poverty Follows' only discusses the proverb as a separate follow-on commentary.",
+      "chosen_heading": "Foam Remedies",
+      "current_heading": "Poverty Follows",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Vegetable Bundle",
+    "candidates": [
+      "Poverty Follows",
+      "Vegetable Bundle",
+      "Fallen Vegetable",
+      "Drain Pipe Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the practice of not eating vegetables from a bundle tied by the gardener and its connection to witchcraft vulnerability, which is precisely what the 'Vegetable Bundle' prose describes.",
+      "chosen_heading": "Vegetable Bundle",
+      "current_heading": "Vegetable Bundle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Drain Pipe Danger",
+    "candidates": [
+      "Fallen Vegetable",
+      "Drain Pipe Danger",
+      "Barrel Explodes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Abaye sayings \u2014 the fallen vegetable and the drain pipe \u2014 and candidate 0 ('Fallen Vegetable') is the first of the two topics, meaning the full passage should be placed under heading 0 where both teachings begin together, rather than splitting them across headings.",
+      "chosen_heading": "Fallen Vegetable",
+      "current_heading": "Drain Pipe Danger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Barrel Explodes",
+    "candidates": [
+      "Drain Pipe Danger",
+      "Barrel Explodes",
+      "Cherem Applied",
+      "Spirit's Defense",
+      "Ruling & Payment",
+      "Spirit Limitations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes porters placing a barrel under a drain pipe, it bursting, and them coming before Mar bar Rav Ashi \u2014 exactly what 'Barrel Explodes' prose describes, and the current placement is correct.",
+      "chosen_heading": "Barrel Explodes",
+      "current_heading": "Barrel Explodes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Spirit Limitations",
+    "candidates": [
+      "Cherem Applied",
+      "Spirit's Defense",
+      "Ruling & Payment",
+      "Spirit Limitations",
+      "Mistreatment Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the ruling ('go and pay') and the spirit asking for a deadline, which matches heading 2's prose about Mar bar Rav Ashi's rejection of the defense, the zil shalleim ruling, and the spirit requesting time \u2014 the spirit's explanation for lateness (tied/sealed/measured items) belongs as part of the same continuous exchange that heading 2 describes, and heading 3's prose already paraphrases this content as a summary rather than a heading under which the Talmudic text sits.",
+      "chosen_heading": "Ruling & Payment",
+      "current_heading": "Spirit Limitations",
+      "moved": true
+    }
+  }
+]

@@ -86,13 +86,6 @@ Rava, who already holds that one cannot escape obligations through violation, us
 
 ---
 
-## Shinui Koneh Debate
-
-### Real Difference Found
-
-After exhausting the list of cases and finding that each has been answered by a special verse or textual argument, the Gemara poses the question directly: *be-mai paligi?* — what do Abaye and Rava actually disagree about? The answer given is *be-shinui koneh* — the question of whether change confers ownership on the thief. This case, drawn from the discussions in Bava Kamma, is presented as one where the debate is not driven by a *pasuk* but by *sevara* — pure legal reasoning. There, the question of whether a *gazlan*'s act of transformation of the stolen object gives him title is a genuine dispute not resolved by any particular verse, and it is therefore a proper arena for the principles of Abaye and Rava to operate. If *ei avid mahani*, the theft confers quasi-ownership rights that the *shinui* then ripens; if *ei avid lo mahani*, the theft confers no such rights and the *shinui* is legally ineffective. So, after this entire discussion, the actual *nafka mina* of the debate between Abaye and Rava reduces to this one relatively obscure question in Bava Kamma.
-
----
 
 ## Ribit Case
 

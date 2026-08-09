@@ -1,0 +1,386 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Animal Appearance",
+    "candidates": [
+      "Fetus in Placenta",
+      "Viability & Connection",
+      "Animal Appearance",
+      "Physical Connection",
+      "Multiple Fetuses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the question posed by Rabbi Yosei ben Shaul to Rebbi about the raven-shaped fetus and Rebbi's initial response, which is precisely what candidate 1 ('Viability & Connection') describes in its prose \u2014 the question about the anomalous animal-appearing birth and its placenta.",
+      "chosen_heading": "Viability & Connection",
+      "current_heading": "Animal Appearance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Multiple Fetuses",
+    "candidates": [
+      "Physical Connection",
+      "Multiple Fetuses",
+      "Placenta Order"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Physical Connection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains exactly the content described under 'Physical Connection': Rav Yose ben Shaul asks about the placenta being tied (keshurah) to the fetus and Rebbi dismisses it as a case that never occurs.",
+      "second_heading": "Multiple Fetuses",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the baraita's refutation and the tiyuvta conclusion, which corresponds precisely to the 'Multiple Fetuses' prose describing the baraita challenge, the concern about two offspring, the dissolved-fetus reasoning, and the Gemara's acceptance of it as a conclusive refutation.",
+      "current_heading": "Multiple Fetuses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Placenta Order",
+    "candidates": [
+      "Placenta Order",
+      "33-Day Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case Shmuel transmits \u2014 attributing the afterbirth to the offspring up to ten days later, and the restriction that this applies only when the afterbirth follows the offspring \u2014 which matches precisely the content described in the 'Placenta Order' prose.",
+      "chosen_heading": "Placenta Order",
+      "current_heading": "Placenta Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "33-Day Separation",
+    "candidates": [
+      "33-Day Separation",
+      "Month Viability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Talmudic passages that the '33-Day Separation' prose explicitly describes \u2014 Rabba bar bar Chana's report about the afterbirth (with Rav Yosef's correction) and Rav Acha's report about the twin births (with Rav Yosef's correction), which is precisely what that section's prose summarizes.",
+      "chosen_heading": "33-Day Separation",
+      "current_heading": "33-Day Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Month Viability",
+    "candidates": [
+      "Month Viability",
+      "3-Month Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question about the stricter opinion regarding ninth-month viability and the resolution by reversing the attributions \u2014 are precisely the content described in the 'Month Viability' prose, which explicitly discusses *mai ika lemeimar* and the reversal (*ipuch shmateta*) as the resolution to that section's difficulty.",
+      "chosen_heading": "Month Viability",
+      "current_heading": "Month Viability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "3-Month Separation",
+    "candidates": [
+      "3-Month Separation",
+      "One Drop Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Yehuda and Chizkiya being born three months apart, which is precisely what the '3-Month Separation' prose section discusses.",
+      "chosen_heading": "3-Month Separation",
+      "current_heading": "3-Month Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "One Drop Split",
+    "candidates": [
+      "One Drop Split",
+      "Meir vs. Colleagues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about a woman not being able to conceive twice and Abaye's answer about one drop splitting into two, which is precisely what the 'One Drop Split' section's prose describes.",
+      "chosen_heading": "One Drop Split",
+      "current_heading": "One Drop Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Meir vs. Colleagues",
+    "candidates": [
+      "Meir vs. Colleagues",
+      "Dissolution & Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's ruling that a shilya in a house renders it tamei (not because the shilya is itself a fetus but because no shilya exists without an offspring) and his colleagues' opposing view, which is precisely what the 'Meir vs. Colleagues' section's prose describes.",
+      "chosen_heading": "Meir vs. Colleagues",
+      "current_heading": "Meir vs. Colleagues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Dissolution & Transfer",
+    "candidates": [
+      "Dissolution & Transfer",
+      "Dissolution Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of heading 0 ('Dissolution & Transfer') directly and precisely describes the exact exchange in both items \u2014 the colleagues' challenge about the outer room, Rabbi Meir's concession, their follow-up argument, and his response distinguishing one stage of dissolution from two.",
+      "chosen_heading": "Dissolution & Transfer",
+      "current_heading": "Dissolution & Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Dissolution Stages",
+    "candidates": [
+      "Dissolution Stages",
+      "Three Sages Unite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa sitting behind Rav Bibi before Rav Hamnuna and asking about Rabbi Shimon's reason, which is exactly what the prose in 'Dissolution Stages' describes in detail.",
+      "chosen_heading": "Dissolution Stages",
+      "current_heading": "Dissolution Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Three Sages Unite",
+    "candidates": [
+      "Three Sages Unite",
+      "Speak Truth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's clarification about Rabbi Yehuda and Rabbi Yose sharing Rabbi Shimon's reasoning, and the scholars laughing at him for stating the obvious \u2014 exactly what candidate 0's prose discusses, while candidate 1 covers Rav Pappa's subsequent response/principle about not staying silent, which is not present in this passage.",
+      "chosen_heading": "Three Sages Unite",
+      "current_heading": "Three Sages Unite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Speak Truth",
+    "candidates": [
+      "Speak Truth",
+      "Mixed Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about speaking up before one's teacher rather than staying silent out of embarrassment, which is precisely what the 'Speak Truth' section's prose discusses in detail.",
+      "chosen_heading": "Speak Truth",
+      "current_heading": "Speak Truth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Mixed Matter",
+    "candidates": [
+      "Mixed Matter",
+      "Marble Casket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss Rabbi Shimon's position on melo tarvad rekav mixed with dirt, Rabba's explanation of sofo ki-techilato, and the baraita defining which corpse has rekav \u2014 exactly the content described in the 'Mixed Matter' prose section.",
+      "chosen_heading": "Mixed Matter",
+      "current_heading": "Mixed Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Marble Casket",
+    "candidates": [
+      "Marble Casket",
+      "Cemetery Dirt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines which corpse lacks the rekav law (buried in cloak, wooden coffin, brick floor) and excludes murder victims \u2014 content explicitly discussed and analyzed in the 'Marble Casket' prose section.",
+      "chosen_heading": "Marble Casket",
+      "current_heading": "Marble Casket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Cemetery Dirt",
+    "candidates": [
+      "Cemetery Dirt",
+      "Majority Negates"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Cemetery Dirt",
+      "current_heading": "Cemetery Dirt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Majority Negates",
+    "candidates": [
+      "Majority Negates",
+      "Animal Fetus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of Rabbi Shimon's reasoning in the shilya case and Rabbi Yochanan's answer of bittul b'rov, which is precisely what the 'Majority Negates' section prose discusses.",
+      "chosen_heading": "Majority Negates",
+      "current_heading": "Majority Negates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Animal Fetus",
+    "candidates": [
+      "Animal Fetus",
+      "Birth Without Status",
+      "Verse Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the case of a large animal expelling a mass of congealed blood, its burial requirement, exemption from bechorah, and the tension between its firstborn-exempting status and lack of tum'ah \u2014 exactly what candidate 0's prose covers in detail.",
+      "chosen_heading": "Animal Fetus",
+      "current_heading": "Animal Fetus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Verse Analysis",
+    "candidates": [
+      "Birth Without Status",
+      "Verse Analysis",
+      "Form vs. Majority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly describes Rabbi Ami confirming that Rabbi Shimon concedes the mother is tme'ah leida, which is precisely what Item 1 contains, and the elder's verse-based elaboration in Item 2 is also anticipated there; candidate 1's prose discusses only the elder's verse analysis, missing Item 1 entirely.",
+      "chosen_heading": "Birth Without Status",
+      "current_heading": "Verse Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Form vs. Majority",
+    "candidates": [
+      "Verse Analysis",
+      "Form vs. Majority",
+      "Burned Corpse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's statement that a mashed fetus becomes like a corpse whose form is effaced, which is exactly what candidate 1 ('Form vs. Majority') discusses in its prose.",
+      "chosen_heading": "Form vs. Majority",
+      "current_heading": "Form vs. Majority",
+      "moved": false
+    }
+  }
+]

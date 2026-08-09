@@ -1,0 +1,202 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Korban - Personal Sin",
+    "candidates": [
+      "Intro: Pile of Funds",
+      "Money vs. Objects",
+      "Blemished Animals",
+      "Korban - Personal Sin",
+      "Father's Chatas",
+      "Chatas Specificity",
+      "Own Money Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the opening portion of Rava's baraita objection establishing that a person fulfills his obligation with his own korban but not his father's \u2014 exactly what candidate 3 ('Korban - Personal Sin') describes as its central topic.",
+      "chosen_heading": "Korban - Personal Sin",
+      "current_heading": "Korban - Personal Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Own Money Limits",
+    "candidates": [
+      "Father's Chatas",
+      "Chatas Specificity",
+      "Own Money Limits",
+      "Money & Me'ila",
+      "Braita Relevance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage deals with whether a son can use his father's separated animal or money for his own chatas, distinguishing between animals and money with the nezirut proof \u2014 precisely what candidate 1 ('Chatas Specificity') describes, including the stumim/meforashim distinction and the talmud lomar korbano conclusion.",
+      "chosen_heading": "Chatas Specificity",
+      "current_heading": "Own Money Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Braita Relevance",
+    "candidates": [
+      "Money & Me'ila",
+      "Braita Relevance",
+      "Blemished Animals?",
+      "All = Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's question about whether 'animal' in the braita includes even blemished animals, and the Gemara's rejection ('no, unblemished'), which is precisely what the 'Blemished Animals?' section's prose describes.",
+      "chosen_heading": "Blemished Animals?",
+      "current_heading": "Braita Relevance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "All = Money",
+    "candidates": [
+      "Blemished Animals?",
+      "All = Money",
+      "Blood Sprinkled",
+      "R. Akiva: Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about blemished animals being treated as money/unspecified funds, and the answer that they are fit only for their monetary value \u2014 which is exactly what the 'All = Money' section's prose describes.",
+      "chosen_heading": "All = Money",
+      "current_heading": "All = Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "R. Akiva: Slaughter",
+    "candidates": [
+      "Blood Sprinkled",
+      "R. Akiva: Slaughter",
+      "When Annul Ends",
+      "Tamei Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents both the Tanna Kamma's ruling (blood sprinkled = cannot annul) and Rabbi Akiva's ruling (slaughter = cannot annul) as a single unit, and the 'Blood Sprinkled' heading's prose explicitly discusses both positions together in its final paragraph, making it the natural home for the complete mishna; the current placement under 'R. Akiva: Slaughter' splits the mishna artificially.",
+      "chosen_heading": "Blood Sprinkled",
+      "current_heading": "R. Akiva: Slaughter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Tamei Case",
+    "candidates": [
+      "When Annul Ends",
+      "Tamei Case",
+      "R. Meir: Final Stage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's distinction between tiglachat tahara and tiglachat tumah, including the husband's claim of 'menuvelat' and Rabbi Meir's position on shaving, which is precisely what the 'Tamei Case' prose describes and analyzes.",
+      "chosen_heading": "Tamei Case",
+      "current_heading": "Tamei Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "R. Meir: Final Stage",
+    "candidates": [
+      "R. Meir: Final Stage",
+      "Olah/Shelamim OK",
+      "Shelo Lishma Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the content covered in candidate 0's prose: the mishna not following Rabbi Eliezer (because shaving is indispensable under his view), the Tanna Kamma's position that once blood is sprinkled she is immediately permitted in wine, and Rabbi Akiva's position that slaughter alone bars annulment due to loss of consecrated property \u2014 all of which are explicitly quoted and analyzed in candidate 0's prose.",
+      "chosen_heading": "R. Meir: Final Stage",
+      "current_heading": "R. Meir: Final Stage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Shelo Lishma Valid",
+    "candidates": [
+      "Olah/Shelamim OK",
+      "Shelo Lishma Valid",
+      "Chatas Unique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Zeira's objection and its baraita support (kivsei atzeret), which is precisely what the 'Olah/Shelamim OK' prose describes \u2014 Rabbi Zeira challenging Rabbi Akiva by arguing one can sprinkle shelo lishma to permit the meat, proven from the Shavuot lambs baraita.",
+      "chosen_heading": "Olah/Shelamim OK",
+      "current_heading": "Shelo Lishma Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Chatas Unique",
+    "candidates": [
+      "Shelo Lishma Valid",
+      "Chatas Unique",
+      "Wig Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the chatas-first scenario: item 1 establishes that Rabbi Akiva's ruling applies when the chatas is slaughtered first, and item 2 cites the mishna proving the chatas need not be first (gilach al achat mishaloshan yatza) \u2014 exactly the content discussed in the 'Chatas Unique' prose.",
+      "chosen_heading": "Chatas Unique",
+      "current_heading": "Chatas Unique",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Shammai Stringency",
+    "candidates": [
+      "Mishna Review",
+      "Nidrei Onasin",
+      "Shammai/Hillel Debate",
+      "Shammai Stringency",
+      "Student Q&A",
+      "Gemara Begins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items constitute the Mishna's Beit Shammai/Beit Hillel dispute \u2014 covering the shvua exception, initiation, scope, and the konam example \u2014 which is precisely what the 'Shammai/Hillel Debate' prose describes in detail.",
+      "chosen_heading": "Shammai/Hillel Debate",
+      "current_heading": "Shammai Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Gemara Begins",
+    "candidates": [
+      "Student Q&A",
+      "Gemara Begins",
+      "Shmuel/Tax Collector",
+      "Illegitimate Tax"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening challenge citing Shmuel's dina d'malchusa dina principle, which matches heading 1's prose describing exactly this as the question that 'launches the Gemara's extended discussion.'",
+      "chosen_heading": "Gemara Begins",
+      "current_heading": "Gemara Begins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Illegitimate Tax",
+    "candidates": [
+      "Shmuel/Tax Collector",
+      "Illegitimate Tax",
+      "Ran Definition",
+      "Roman/Babylon",
+      "Dina Scope",
+      "Debt vs. Payment",
+      "Tax Evasion Ethics",
+      "Israel State",
+      "Ran Tax Types",
+      "Ran Payment Force",
+      "Hidden Reservation",
+      "Piv Ve-Libo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the two explanations (Shmuel's chain: tax collector with no fixed amount; school of Rabbi Yannai: self-appointed collector) that the prose of 'Illegitimate Tax' explicitly describes and analyzes.",
+      "chosen_heading": "Illegitimate Tax",
+      "current_heading": "Illegitimate Tax",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Piv Ve-Libo",
+    "candidates": [
+      "Ran Definition",
+      "Roman/Babylon",
+      "Dina Scope",
+      "Debt vs. Payment",
+      "Tax Evasion Ethics",
+      "Israel State",
+      "Ran Tax Types",
+      "Ran Payment Force",
+      "Hidden Reservation",
+      "Piv Ve-Libo",
+      "Vow Modifiers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of exactly the formulation 'ya'asru peirot olam alai im einam shel beit ha-melech' and the immediate objection that once said the produce would be forbidden \u2014 precisely what the 'Piv Ve-Libo' section's prose describes.",
+      "chosen_heading": "Piv Ve-Libo",
+      "current_heading": "Piv Ve-Libo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Vow Modifiers",
+    "candidates": [
+      "Vow Modifiers",
+      "Zeruzin/Havai",
+      "Qualification Allowed",
+      "Mishna/Braisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer about mentally qualifying the vow as 'today' while verbalizing it without specification, and invokes the principle that devarim she-be-lev einam devarim but onsin shani \u2014 exactly what the 'Vow Modifiers' prose section discusses.",
+      "chosen_heading": "Vow Modifiers",
+      "current_heading": "Vow Modifiers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Mishna/Braisa",
+    "candidates": [
+      "Zeruzin/Havai",
+      "Qualification Allowed",
+      "Mishna/Braisa",
+      "False Oaths",
+      "Shammai Oaths",
+      "Hillel Oaths",
+      "Kadosh Status",
+      "Rabbi Meir",
+      "Konam Status",
+      "Unlimited Pidyon",
+      "Limited No Pidyon",
+      "Konam/Korban",
+      "Condition Explicit",
+      "Ameimar",
+      "Strong Wind",
+      "Fire Scenario",
+      "Pidyon Preview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about the tension between the mishnah and baraita regarding what Beit Shammai and Beit Hillel permit under duress (neder vs. shvua), resolved by the principle that each source teaches a different chiddush, which is precisely what the 'Mishna/Braisa' prose describes.",
+      "chosen_heading": "Mishna/Braisa",
+      "current_heading": "Mishna/Braisa",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Qal VaChomer",
+    "candidates": [
+      "Rav Huna vs. Shmuel",
+      "Ran's Approaches",
+      "Why Verse Needed",
+      "Qal VaChomer",
+      "Weight of Shvua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about nazir lehazzir overriding the qal vachomer, the heichi dami question about which case needs the verse, and the resolution that the baraita deals with accepting two neziruyot simultaneously \u2014 are precisely the content described in candidate 3's prose about the qal vachomer, the pasuk's override, and the bat achat resolution.",
+      "chosen_heading": "Qal VaChomer",
+      "current_heading": "Qal VaChomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Weight of Shvua",
+    "candidates": [
+      "Weight of Shvua",
+      "Tosafot on Lo Yenakeh",
+      "Logic of Qal VaChomer",
+      "Order of Neder/Shvua",
+      "Cheftza Implies Gavra",
+      "Sukkah Example",
+      "Asymmetry of Order",
+      "Status Speaks to Person",
+      "Torah Lav Laws",
+      "Ran's Text Analysis",
+      "Hekdesh Example",
+      "Meat and Milk",
+      "Rava's Retroactivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about what makes a shvua more stringent than a neder, the counterargument about neder's own stringency, and the conclusion that lo yenakeh is the reason \u2014 precisely what the prose under 'Weight of Shvua' describes.",
+      "chosen_heading": "Weight of Shvua",
+      "current_heading": "Weight of Shvua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rava's Retroactivity",
+    "candidates": [
+      "Tosafot on Lo Yenakeh",
+      "Logic of Qal VaChomer",
+      "Order of Neder/Shvua",
+      "Cheftza Implies Gavra",
+      "Sukkah Example",
+      "Asymmetry of Order",
+      "Status Speaks to Person",
+      "Torah Lav Laws",
+      "Ran's Text Analysis",
+      "Hekdesh Example",
+      "Meat and Milk",
+      "Rava's Retroactivity",
+      "Revach Concept",
+      "Two Neziruyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text about Rava's principle that if the first oath is dissolved the second takes effect, which is precisely what the prose under 'Rava's Retroactivity' (index 11) discusses.",
+      "chosen_heading": "Rava's Retroactivity",
+      "current_heading": "Rava's Retroactivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Two Neziruyot",
+    "candidates": [
+      "Revach Concept",
+      "Two Neziruyot",
+      "Bat Achat Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rava's principle about the second oath/nezirut taking effect when the first is dissolved, and the 'Two Neziruyot' prose explicitly describes the Gemara deriving Rava's principle from the two neziruyot case \u2014 exactly what items 1 and 2 present.",
+      "chosen_heading": "Two Neziruyot",
+      "current_heading": "Two Neziruyot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Bat Achat Status",
+    "candidates": [
+      "Bat Achat Status",
+      "Sequential vs",
+      "Power of Words",
+      "Opening Principle",
+      "Sacrificial Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the 'bat achat' (simultaneous acceptance) scenario as a refutation of a proof, which is precisely what the 'Bat Achat Status' section's prose describes.",
+      "chosen_heading": "Bat Achat Status",
+      "current_heading": "Bat Achat Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Sacrificial Examples",
+    "candidates": [
+      "Sequential vs",
+      "Power of Words",
+      "Opening Principle",
+      "Sacrificial Examples",
+      "Cherem Example",
+      "Ma'aser Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Opening Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 introduce the mishna's opening principle (stam nedarim lehachmir, peirusham lehakel) with the salted meat/wine libation examples, matching the 'Opening Principle' prose which explicitly discusses this principle and these examples.",
+      "second_heading": "Cherem Example",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the cherem example (cherem shel shamayim vs. cherem shel kohanim), which matches exactly the 'Cherem Example' prose that discusses precisely this case.",
+      "current_heading": "Sacrificial Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Ma'aser Example",
+    "candidates": [
+      "Cherem Example",
+      "Ma'aser Example",
+      "Terumah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the ma'aser (tithe) vow example, distinguishing between ma'aser behemah and ma'aser goren, which exactly matches the prose in candidate 1 ('Ma'aser Example').",
+      "chosen_heading": "Ma'aser Example",
+      "current_heading": "Ma'aser Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Terumah Example",
+    "candidates": [
+      "Terumah Example",
+      "Terumah Regional",
+      "Default Modifier",
+      "Cherem Regional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the core case of harei alai kiterumah with its three rulings (terumat halishkah=forbidden, shel goren=permitted, stam=forbidden) attributed to Rabbi Meir, which is precisely what the 'Terumah Example' prose section discusses in detail.",
+      "chosen_heading": "Terumah Example",
+      "current_heading": "Terumah Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Cherem Regional",
+    "candidates": [
+      "Terumah Regional",
+      "Default Modifier",
+      "Cherem Regional",
+      "Logical Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the teruma and cherem rulings of Rabbi Yehuda as a single Mishnaic unit, and candidate 0 ('Terumah Regional') is where this full passage should be introduced, with candidates 2 and 3 providing subsequent analysis \u2014 the passage itself belongs under the first heading that introduces Rabbi Yehuda's statement.",
+      "chosen_heading": "Terumah Regional",
+      "current_heading": "Cherem Regional",
+      "moved": true
+    }
+  }
+]

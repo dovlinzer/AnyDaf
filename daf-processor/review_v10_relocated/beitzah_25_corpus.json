@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Rashi Logic",
+    "candidates": [
+      "New Perek Intro",
+      "Catching Fish/Animals",
+      "Rashi's Approach",
+      "Rishonim Challenge",
+      "Tosafot/Yerushalmi",
+      "Ramban Framework",
+      "Ran's View",
+      "Rav Pappa Ruling",
+      "Muktzeh Concerns",
+      "Post-YT Restriction",
+      "Bikhdei Sheya'asu",
+      "Techumim Concern",
+      "Jew-to-Jew Exception",
+      "Neheneh Concept",
+      "Rashi Logic",
+      "Ramban Refinement",
+      "Carrying Exception",
+      "Techumim Weakest",
+      "Non-Jew More Problem",
+      "Risk of Request",
+      "Modern Application",
+      "Non-Jew Only Rule",
+      "Two-Day YT Debate",
+      "Rashi vs Tosafot",
+      "Sluice Gate Case",
+      "Fish Already Caught"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Pappa's ruling about a non-Jew bringing a gift on Yom Tov \u2014 covering the mechubar case, the within-techum case, and the outside-techum/other-Jew exception \u2014 which is precisely what heading 7 ('Rav Pappa Ruling') introduces in its prose.",
+      "chosen_heading": "Rav Pappa Ruling",
+      "current_heading": "Rashi Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Fish Already Caught",
+    "candidates": [
+      "Ramban Refinement",
+      "Carrying Exception",
+      "Techumim Weakest",
+      "Non-Jew More Problem",
+      "Risk of Request",
+      "Modern Application",
+      "Non-Jew Only Rule",
+      "Two-Day YT Debate",
+      "Rashi vs Tosafot",
+      "Sluice Gate Case",
+      "Fish Already Caught",
+      "Rav Chisda Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage presents the actual Talmudic ruling of Rabbah bar Rav Huna about damming a water channel on erev Yom Tov and finding fish, which is exactly what the 'Sluice Gate Case' prose introduces and describes.",
+      "chosen_heading": "Sluice Gate Case",
+      "current_heading": "Fish Already Caught",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Chisda Inference",
+    "candidates": [
+      "Fish Already Caught",
+      "Rav Chisda Inference",
+      "Rav Nachman Objection",
+      "Active vs Passive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav \u1e24isda's inference about the wild animal in the orchard not requiring designation, which is precisely what the 'Rav Chisda Inference' section's prose describes.",
+      "chosen_heading": "Rav Chisda Inference",
+      "current_heading": "Rav Chisda Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Active vs Passive",
+    "candidates": [
+      "Rav Nachman Objection",
+      "Active vs Passive",
+      "Shmaya V'Abtalyon",
+      "Bird Wing Binding",
+      "Counter-Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly articulates the active/passive distinction ('performed no action' vs 'performed an action') which is precisely what the 'Active vs Passive' section's prose discusses.",
+      "chosen_heading": "Active vs Passive",
+      "current_heading": "Active vs Passive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Counter-Braita",
+    "candidates": [
+      "Shmaya V'Abtalyon",
+      "Bird Wing Binding",
+      "Counter-Braita",
+      "Mother vs Baby"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmaya V'Abtalyon",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form a contradictory pair of baraitot about whether a wild animal nesting in an orchard requires zimmun \u2014 item 1 is the baraita from Shemaya and Avtalyon declaring tiyuvta, and item 2 is the counter-baraita of Rabbi Shimon ben Elazar that exempts it \u2014 which together are precisely what candidate 0 ('Shmaya V'Abtalyon') and candidate 2 ('Counter-Braita') describe, but item 1 (the tiyuvta) belongs under candidate 0 while items 2-3 belong under candidate 2.",
+      "second_heading": "Counter-Braita",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 belong under 'Counter-Braita' (index 2), whose prose explicitly describes Rabbi Shimon ben Elazar's baraita exempting the wild animal from zimmun, the tzippor dror wing-binding restatement, and the keshurim u'menuanin rule about birds in trees vs. cisterns and the gezel prohibition \u2014 matching items 2 and 3 exactly.",
+      "current_heading": "Counter-Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Mother vs Baby",
+    "candidates": [
+      "Mother vs Baby",
+      "Garden Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Na\u1e25man's mother/baby distinction and the Gemara's challenge that designation alone cannot suffice for the mother, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Mother vs Baby",
+      "current_heading": "Mother vs Baby",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Garden Location",
+    "candidates": [
+      "Garden Location",
+      "Mesukenet Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man bar Yitz\u1e25ak's resolution distinguishing nearby versus distant gardens, which is precisely what the 'Garden Location' section's prose discusses in detail.",
+      "chosen_heading": "Garden Location",
+      "current_heading": "Garden Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Mesukenet Shechita",
+    "candidates": [
+      "Mesukenet Shechita",
+      "Rabi Akiva Raw",
+      "Field Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Mishnah text covering both the main ruling (kezayit tzli) and Rabbi Akiva's opinion, but the current placement under 'Mesukenet Shechita' is correct as that section's prose explicitly discusses this Mishnah and its ruling, with Rabbi Akiva's view being a sub-element of the same Mishnah unit.",
+      "chosen_heading": "Mesukenet Shechita",
+      "current_heading": "Mesukenet Shechita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Field Shechita",
+    "candidates": [
+      "Rabi Akiva Raw",
+      "Field Shechita",
+      "Torah Flaying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the field slaughter case (shachata basadeh) and the prohibition on using poles versus carrying limb by limb, which is exactly what the 'Field Shechita' prose discusses.",
+      "chosen_heading": "Field Shechita",
+      "current_heading": "Field Shechita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Torah Flaying",
+    "candidates": [
+      "Torah Flaying",
+      "Derech Eretz Not Law",
+      "Rav Huna Issur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rami bar Abba's statement about flaying and cutting in the context of the burnt-offering and butchers, which is precisely what the 'Torah Flaying' section's prose describes.",
+      "chosen_heading": "Torah Flaying",
+      "current_heading": "Torah Flaying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rav Huna Issur",
+    "candidates": [
+      "Derech Eretz Not Law",
+      "Rav Huna Issur",
+      "After Shechita Heter",
+      "Meiyut Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'what is Rami bar Abba teaching us?' introducing the possibility of excluding Rav Huna's opinion \u2014 this is precisely the content described in the 'Derech Eretz Not Law' prose, which explicitly discusses this 'mai ka mashma lan' question and the rejection of Rav Huna's position as the target.",
+      "chosen_heading": "Derech Eretz Not Law",
+      "current_heading": "Rav Huna Issur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Meiyut Threshold",
+    "candidates": [
+      "After Shechita Heter",
+      "Meiyut Threshold",
+      "Flaying Question",
+      "No Checking Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rule of chezkas heter after shechita ('retains its presumptive status of being permitted until it becomes known to you how it became a tereifa'), which is precisely what the 'After Shechita Heter' section's prose describes.",
+      "chosen_heading": "After Shechita Heter",
+      "current_heading": "Meiyut Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "current_heading": "No Checking Required",
+    "candidates": [
+      "Flaying Question",
+      "No Checking Required",
+      "Ravenousness Point",
+      "Garlic Onion",
+      "Drinking Gulps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of objection-and-resolution about whether the Mishnah supports Rav Huna's position (no checking required), culminating in Rabbi \u1e24iyya's confirmation of the literal reading and the conclusion that Rami bar Abba's teaching is mere etiquette \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "No Checking Required",
+      "current_heading": "No Checking Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Drinking Gulps",
+    "candidates": [
+      "Ravenousness Point",
+      "Garlic Onion",
+      "Drinking Gulps",
+      "Orlah Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the garlic/onion baraita AND the drinking baraita together as one continuous text, and candidate 1 ('Garlic Onion') explicitly discusses both teachings as a unit, making it the better home for the entire passage rather than splitting it under 'Drinking Gulps' alone.",
+      "chosen_heading": "Garlic Onion",
+      "current_heading": "Drinking Gulps",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Orlah Lesson",
+    "candidates": [
+      "Drinking Gulps",
+      "Orlah Lesson",
+      "Butchers Restraint",
+      "Turmus Bean",
+      "Seven Gods",
+      "Turmus Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the sea squill cutting off the wicked and the young trees cutting off butchers/niddah violators \u2014 are statements by Rami bar Abba about boundary/patience markers, and the 'Orlah Lesson' heading is the precise section that introduces Rami bar Abba's teaching about neti'ah and orlah, making it the natural home for both items as a unit.",
+      "chosen_heading": "Orlah Lesson",
+      "current_heading": "Orlah Lesson",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Turmus Metaphor",
+    "candidates": [
+      "Butchers Restraint",
+      "Turmus Bean",
+      "Seven Gods",
+      "Turmus Metaphor",
+      "Tough Nature"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Turmus Bean",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the turmus and its connection to Israel's enemies with the verse from Judges, which matches exactly the prose of candidate 1 ('Turmus Bean') describing tormusa mekate'a ragleihen and the Shoftim verse.",
+      "second_heading": "Turmus Metaphor",
+      "second_confidence": "high",
+      "second_reason": "Item 2 develops the Rabbi Elazar teaching about ve'lo avaduhu and the seven-cooking metaphor, which matches exactly the prose of candidate 3 ('Turmus Metaphor') discussing the same exegesis and Rashi/Maharsha interpretations.",
+      "current_heading": "Turmus Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Tough Nature",
+    "candidates": [
+      "Tough Nature",
+      "Torah Fire",
+      "Three Tough Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Rabbi Meir teaching about why Torah was given (because Israel is impudent) and the Rabbi Yishmael school's derivation from 'fiery law,' which maps precisely to heading 0's prose describing exactly these two traditions together as a unit.",
+      "chosen_heading": "Tough Nature",
+      "current_heading": "Tough Nature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Three Tough Groups",
+    "candidates": [
+      "Torah Fire",
+      "Three Tough Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the three impudent ones (Israel, dog, rooster) with the additional opinions about the goat and caper bush, which directly corresponds to the 'Three Tough Groups' section prose that discusses exactly this Reish Lakish statement and its additions.",
+      "chosen_heading": "Three Tough Groups",
+      "current_heading": "Three Tough Groups",
+      "moved": false
+    }
+  }
+]

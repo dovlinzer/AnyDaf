@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Broader Interpretations",
+    "candidates": [
+      "Negation as Foundation",
+      "Rashi's Explanation",
+      "Broader Interpretations",
+      "Honoring Fallen Scholars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Reish Lakish teaching about 'bitulah shel Torah zo hi yesodah' and the proof from 'asher shibarta/yashar kochacha sheshibarta,' which is precisely what candidate 0 ('Negation as Foundation') describes in its prose.",
+      "chosen_heading": "Negation as Foundation",
+      "current_heading": "Broader Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Honoring Fallen Scholars",
+    "candidates": [
+      "Broader Interpretations",
+      "Honoring Fallen Scholars",
+      "Forgetting Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about a Torah scholar who sinned not being disgraced publicly is explicitly discussed in the 'Honoring Fallen Scholars' prose, which quotes the same Aramaic phrase and Hosea proof text.",
+      "chosen_heading": "Honoring Fallen Scholars",
+      "current_heading": "Honoring Fallen Scholars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Forgetting Torah",
+    "candidates": [
+      "Forgetting Torah",
+      "Number of Violations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's statement about forgetting Torah and the proof text with Rabbi Avin/Rabbi Ile'a's principle, which is precisely what the 'Forgetting Torah' section's prose discusses \u2014 the 'Number of Violations' section covers the subsequent dispute about how many prohibitions are violated (Ravina and Rav Nachman bar Yitzchak), which is not present in this passage.",
+      "chosen_heading": "Forgetting Torah",
+      "current_heading": "Forgetting Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Number of Violations",
+    "candidates": [
+      "Number of Violations",
+      "Intent vs. Circumstance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records Ravina's and Rav Na\u1e25man bar Yitz\u1e25ak's dispute about the number of prohibitions (two vs. three lavin), which is precisely what the 'Number of Violations' section's prose discusses.",
+      "chosen_heading": "Number of Violations",
+      "current_heading": "Number of Violations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Intent vs. Circumstance",
+    "candidates": [
+      "Intent vs. Circumstance",
+      "Torah & Soul Formation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between forgetting due to unavoidable circumstances versus willful neglect, and Rabbi Dostai's case of material being too hard \u2014 exactly what the 'Intent vs. Circumstance' prose elaborates on.",
+      "chosen_heading": "Intent vs. Circumstance",
+      "current_heading": "Intent vs. Circumstance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Torah & Soul Formation",
+    "candidates": [
+      "Torah & Soul Formation",
+      "Protecting Torah & Soul",
+      "Bird Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the forty-day formation of Torah and soul AND the preservation teaching, and the current heading 'Torah & Soul Formation' with its prose explicitly addresses both parts of this complete quote as a unified parallel.",
+      "chosen_heading": "Torah & Soul Formation",
+      "current_heading": "Torah & Soul Formation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Bird Parable",
+    "candidates": [
+      "Protecting Torah & Soul",
+      "Bird Parable",
+      "Marble & Gold Tables"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the sparrow parable from the school of Rabbi Yishmael, which matches exactly the 'Bird Parable' section's prose describing this very mashal about a wild bird given to a servant.",
+      "chosen_heading": "Bird Parable",
+      "current_heading": "Bird Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Marble & Gold Tables",
+    "candidates": [
+      "Marble & Gold Tables",
+      "Ascending Holiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the two tables in the ulam (marble and gold) and how the shewbread is placed on each upon entry and exit, which is exactly what the 'Marble & Gold Tables' prose discusses.",
+      "chosen_heading": "Marble & Gold Tables",
+      "current_heading": "Marble & Gold Tables",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Ascending Holiness",
+    "candidates": [
+      "Ascending Holiness",
+      "Gold Table & Showbread",
+      "Four Priests Enter",
+      "Four Priests Precede"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the principle of ma'alin bakodesh velo moridin (one elevates in sanctity and does not downgrade) and then mentions the gold table inside \u2014 both of which are directly addressed in the 'Ascending Holiness' prose, which explains this exact principle and its application to the shewbread arrangement.",
+      "chosen_heading": "Ascending Holiness",
+      "current_heading": "Ascending Holiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Four Priests Precede",
+    "candidates": [
+      "Gold Table & Showbread",
+      "Four Priests Enter",
+      "Four Priests Precede",
+      "Positioning & Coord."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both the four priests entering with new bread and bowls AND the four priests preceding them to remove the old ones \u2014 it covers the full scene, but the prose under 'Four Priests Enter' (index 1) explicitly discusses both groups together as one coordinated entry, matching the mishna's content about all eight priests, whereas index 2 only covers the removal group separately.",
+      "chosen_heading": "Four Priests Enter",
+      "current_heading": "Four Priests Precede",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Positioning & Coord.",
+    "candidates": [
+      "Four Priests Precede",
+      "Positioning & Coord.",
+      "Continuous Presence Deb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the precise spatial positioning and coordinated movement of the priests (north/south, pulling and placing simultaneously, handbreadth by handbreadth), which directly matches the 'Positioning & Coord.' prose discussing the choreography of the bread exchange.",
+      "chosen_heading": "Positioning & Coord.",
+      "current_heading": "Positioning & Coord.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Continuous Presence Deb",
+    "candidates": [
+      "Continuous Presence Deb",
+      "Transfer & Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yose's opinion on the 'tamid' requirement for shewbread presence, which is exactly what the 'Continuous Presence Deb' section's prose discusses \u2014 the debate between Tanna Kamma and Rabbi Yose on whether simultaneous placement is required.",
+      "chosen_heading": "Continuous Presence Deb",
+      "current_heading": "Continuous Presence Deb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Transfer & Division",
+    "candidates": [
+      "Transfer & Division",
+      "Timing Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the priests carrying out the old shewbread, placing it on the gold table in the Entrance Hall, burning the frankincense bowls, and distributing the loaves \u2014 exactly the content of the 'Transfer & Division' section's prose.",
+      "chosen_heading": "Transfer & Division",
+      "current_heading": "Transfer & Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Timing Issues",
+    "candidates": [
+      "Timing Issues",
+      "Babylonian Priests",
+      "Morning Removal/Evening",
+      "Reinterpretation of Tamid",
+      "One Chapter AM/PM"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Shabbat/Yom Kippur timing issue with the loaves and the erev Shabbat/Yom Kippur issue with the goat, which matches exactly the 'Timing Issues' section prose that discusses both scenarios in detail.",
+      "chosen_heading": "Timing Issues",
+      "current_heading": "Timing Issues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "One Chapter AM/PM",
+    "candidates": [
+      "Babylonian Priests",
+      "Morning Removal/Evening",
+      "Reinterpretation of Tamid",
+      "One Chapter AM/PM",
+      "Shema AM/PM",
+      "Yochanan vs. Rava",
+      "Ben Dama's Question",
+      "No Time for Other Studies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reinterpretation of Tamid",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yosei's baraita about removing old shewbread in the morning and arranging new shewbread in the evening, plus Rabbi Ami's derivation about one chapter morning/evening \u2014 both directly addressed by candidate 2's prose on Rabbi Yose's reinterpretation of tamid and the transition to Rabbi Ami's lesson.",
+      "second_heading": "One Chapter AM/PM",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Yo\u1e25anan's statement about Shema fulfilling lo yamush plus the Rava dispute, which is precisely what candidate 3's prose discusses under 'One Chapter AM/PM' \u2014 but actually candidate 4 'Shema AM/PM' is the better match since that prose explicitly covers Rabbi Yochanan's Shema ruling and candidate 5 covers the Rava dispute, making candidate 4 the best single home for item 3.",
+      "current_heading": "One Chapter AM/PM",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "No Time for Other Studies",
+    "candidates": [
+      "Shema AM/PM",
+      "Yochanan vs. Rava",
+      "Ben Dama's Question",
+      "No Time for Other Studies",
+      "Blessing Not Obligation",
+      "Divine Enticement",
+      "Not a Burden"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ben Dama's Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ben Dama's question and Rabbi Yishmael's response about Greek wisdom, which belongs under 'Ben Dama's Question' whose prose directly describes this exchange.",
+      "second_heading": "Blessing Not Obligation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rabbi Shmuel bar Nachmani's view that the verse is a blessing not an obligation, which matches 'Blessing Not Obligation' whose prose opens with exactly this point.",
+      "current_heading": "No Time for Other Studies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Not a Burden",
+    "candidates": [
+      "Blessing Not Obligation",
+      "Divine Enticement",
+      "Not a Burden",
+      "Torah & Worldly Life",
+      "Human vs. Divine",
+      "Gehinnom Description",
+      "Gehinnom Assurances"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbi Yishmael school's formulation about Torah not being an obligation yet not being escapable, which is exactly what the 'Not a Burden' section's prose describes and discusses.",
+      "chosen_heading": "Not a Burden",
+      "current_heading": "Not a Burden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Gehinnom Assurances",
+    "candidates": [
+      "Torah & Worldly Life",
+      "Human vs. Divine",
+      "Gehinnom Description",
+      "Gehinnom Assurances",
+      "True Identity Revealed",
+      "Rabbi Yehuda's Relief"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the complete passage about Gehenna's description and the reassurances/warnings about it (narrow opening, deep interior, prepared for kings, wood within, and the reward of Torah), which matches precisely the prose of candidate 3 'Gehinnom Assurances' \u2014 though items 1-2 also touch on candidate 2's material, the current placement under candidate 3 is correct since the passage as a whole culminates in the assurances described in that section's prose.",
+      "chosen_heading": "Gehinnom Assurances",
+      "current_heading": "Gehinnom Assurances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Rabbi Yehuda's Relief",
+    "candidates": [
+      "True Identity Revealed",
+      "Rabbi Yehuda's Relief"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rabbi Yochanan's identification of the priests as Alexandrians and the baraita with Rabbi Yose's confirmation plus Rabbi Yehuda's relief \u2014 form one continuous unit about the true identity of the 'Babylonian' priests, and candidate 0 ('True Identity Revealed') explicitly discusses both Rabbi Yochanan's statement and the baraita confirmation, making it the better home for the entire passage.",
+      "chosen_heading": "True Identity Revealed",
+      "current_heading": "Rabbi Yehuda's Relief",
+      "moved": true
+    }
+  }
+]

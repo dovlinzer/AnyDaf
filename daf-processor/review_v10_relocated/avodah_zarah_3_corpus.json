@@ -1,0 +1,415 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Torah Offered",
+    "candidates": [
+      "Aggadata Framework",
+      "Idolatry vs. Torah",
+      "Non-Jewish Works",
+      "Never Given Torah",
+      "Torah Offered",
+      "Would Have Kept"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Torah Offered",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the nations' claim they were never given the Torah and the Gemara's rebuttal via Rabbi Yochanan's teaching that God offered the Torah to every nation \u2014 exactly what candidate 4 ('Torah Offered') describes.",
+      "second_heading": "Would Have Kept",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the nations' revised argument ('did we accept it and not fulfill it?') and the mountain-held-over-us claim, which is precisely what candidate 5 ('Would Have Kept') describes.",
+      "current_heading": "Torah Offered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Would Have Kept",
+    "candidates": [
+      "Would Have Kept",
+      "Track Record Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about God overturning the mountain like a basin over Israel is explicitly quoted and discussed in the 'Would Have Kept' section's prose, where it serves as the nations' argument that they too could have been coerced.",
+      "chosen_heading": "Would Have Kept",
+      "current_heading": "Would Have Kept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Track Record Test",
+    "candidates": [
+      "Track Record Test",
+      "Habakkuk Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes God's challenge about the seven Noahide mitzvot and where the nations' track record of fulfillment is, which precisely matches the 'Track Record Test' section's prose discussion of this exact challenge.",
+      "chosen_heading": "Track Record Test",
+      "current_heading": "Track Record Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Habakkuk Verse",
+    "candidates": [
+      "Habakkuk Verse",
+      "Obligation & Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Habakkuk verse, Rav Yosef's teaching about the nations not fulfilling the seven mitzvot, and the 'chotei niskar' question, which exactly matches the content described in the 'Habakkuk Verse' prose section.",
+      "chosen_heading": "Habakkuk Verse",
+      "current_heading": "Habakkuk Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Obligation & Reward",
+    "candidates": [
+      "Obligation & Reward",
+      "Rabbi Meir Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Mar b'rei d'Ravina's statement that even if the nations fulfill the Noahide mitzvot they receive no reward is precisely what the 'Obligation & Reward' section's prose discusses and explicates.",
+      "chosen_heading": "Obligation & Reward",
+      "current_heading": "Obligation & Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Rabbi Meir Teaching",
+    "candidates": [
+      "Rabbi Meir Teaching",
+      "Diffusing Radicalism",
+      "Learning vs. Doing",
+      "Why Israel Different",
+      "Israel's Fulfillment",
+      "Bias Challenge",
+      "Heaven & Earth",
+      "Vested Interests",
+      "Creation Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the classic challenge-and-resolution sequence around Rabbi Meir's baraita: item 1 raises it as a challenge, and item 2 resolves it via the metzuveh v'oseh distinction \u2014 exactly what the 'Rabbi Meir Teaching' prose describes and discusses in detail.",
+      "chosen_heading": "Rabbi Meir Teaching",
+      "current_heading": "Rabbi Meir Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Creation Purpose",
+    "candidates": [
+      "Diffusing Radicalism",
+      "Learning vs. Doing",
+      "Why Israel Different",
+      "Israel's Fulfillment",
+      "Bias Challenge",
+      "Heaven & Earth",
+      "Vested Interests",
+      "Creation Purpose",
+      "Rulers Testify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All four items together cover the nations' challenge to Israel's fulfillment of Torah, God's testimony, the disqualification of heaven and earth as witnesses due to vested interest (the Rashbi teaching about creation's condition), and Chizkiyah's supporting verse \u2014 all of which are explicitly discussed in the 'Creation Purpose' prose under heading 7.",
+      "chosen_heading": "Creation Purpose",
+      "current_heading": "Creation Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rulers Testify",
+    "candidates": [
+      "Rulers Testify",
+      "Nimrod & Abraham",
+      "Laban & Jacob",
+      "Potiphar & Joseph",
+      "Pre-Sinai Laws",
+      "Post-Sinai Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the entire concept of nations testifying on Israel's behalf and lists all three witnesses (Nimrod, Laban, Potiphar's wife) as a unit, matching the 'Rulers Testify' section's prose about God turning to nations as witnesses \u2014 the current placement is correct.",
+      "chosen_heading": "Rulers Testify",
+      "current_heading": "Rulers Testify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Post-Sinai Witnesses",
+    "candidates": [
+      "Nimrod & Abraham",
+      "Laban & Jacob",
+      "Potiphar & Joseph",
+      "Pre-Sinai Laws",
+      "Post-Sinai Witnesses",
+      "Statue Question",
+      "Final Chance",
+      "Friday-Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly describes Nebuchadnezzar, Darius, and Job's friends as post-Sinai non-Jewish witnesses testifying about Hananiah/Mishael/Azariah, Daniel, and the Jewish people's Torah observance, which is precisely what section 4 'Post-Sinai Witnesses' discusses.",
+      "chosen_heading": "Post-Sinai Witnesses",
+      "current_heading": "Post-Sinai Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Friday-Shabbat",
+    "candidates": [
+      "Statue Question",
+      "Final Chance",
+      "Friday-Shabbat",
+      "Sukkah Offered",
+      "Zechariah Vision",
+      "Sukkah Failure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 God's 'fools/erev Shabbat' reply, Rabbi Yehoshua ben Levi's 'hayom la'asotam' teaching, and the explanation that God doesn't deal tyrannically plus why sukkah is called 'easy' \u2014 are precisely what heading 2 ('Friday-Shabbat') describes in its prose, and this is also the current placement.",
+      "chosen_heading": "Friday-Shabbat",
+      "current_heading": "Friday-Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Sukkah Failure",
+    "candidates": [
+      "Sukkah Offered",
+      "Zechariah Vision",
+      "Sukkah Failure",
+      "Sun Exemption",
+      "Rejecting Bonds",
+      "God Laughs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's objection-and-answer about whether God acts tyrannically by heating the sun, and whether Jews suffer similarly \u2014 content that matches candidate 3 ('Sun Exemption') precisely, which discusses the fairness objection, the answer about Israel sometimes enduring summer heat into Sukkot, and Rava's ruling that one who suffers is exempt.",
+      "chosen_heading": "Sun Exemption",
+      "current_heading": "Sukkah Failure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "God Laughs",
+    "candidates": [
+      "Sun Exemption",
+      "Rejecting Bonds",
+      "God Laughs",
+      "One Day Laughter",
+      "Future Converts",
+      "No Converts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes God laughing/making sport at the nations and cites Psalms 2:4, which is precisely what the 'God Laughs' section's prose discusses, while Rabbi Yitzchak's statement about 'that day alone' belongs under the separate 'One Day Laughter' heading \u2014 but since the item contains both statements as one continuous Talmudic passage, the current placement under 'God Laughs' is the best single heading match.",
+      "chosen_heading": "God Laughs",
+      "current_heading": "God Laughs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "No Converts",
+    "candidates": [
+      "One Day Laughter",
+      "Future Converts",
+      "No Converts",
+      "Dragged Converts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei's statement about future converts AND the immediate challenge about not accepting converts in the Messianic era, meaning it covers the full content of heading 1 ('Future Converts') which introduces Rabbi Yitzchak's connection to this teaching and Rabbi Yosi's statement, rather than belonging only under heading 2 which covers just the challenge portion.",
+      "chosen_heading": "Future Converts",
+      "current_heading": "No Converts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Dragged Converts",
+    "candidates": [
+      "No Converts",
+      "Dragged Converts",
+      "Gog-Magog Wars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes gerim grurim taking on tefillin, tzitzit, and mezuzah as visible markers of Jewish identity, which is precisely what the 'Dragged Converts' section's prose discusses.",
+      "chosen_heading": "Dragged Converts",
+      "current_heading": "Dragged Converts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Gog-Magog Wars",
+    "candidates": [
+      "Gog-Magog Wars",
+      "Twelve Hours",
+      "Study Torah",
+      "Divine Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the nations declaring war against God and His Messiah, and the converts tearing off their mitzvot while God laughs \u2014 are explicitly discussed in the 'Gog-Magog Wars' prose, which quotes the same verses and teachings including Rabbi Yitzchak's statement about the unique day of laughter.",
+      "chosen_heading": "Gog-Magog Wars",
+      "current_heading": "Gog-Magog Wars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Divine Judgment",
+    "candidates": [
+      "Twelve Hours",
+      "Study Torah",
+      "Divine Judgment",
+      "Sustains World",
+      "Leviathan Play",
+      "Post-Destruction",
+      "Jerusalem Mourning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete passage about God's twelve-hour daily schedule (Torah study, judgment, sustenance, sport with Leviathan), which the 'Twelve Hours' heading's prose explicitly describes as a unit \u2014 the gemara's challenge about whether God laughs only once followed by the full twelve-hour teaching.",
+      "chosen_heading": "Twelve Hours",
+      "current_heading": "Divine Judgment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Jerusalem Mourning",
+    "candidates": [
+      "Sustains World",
+      "Leviathan Play",
+      "Post-Destruction",
+      "Jerusalem Mourning",
+      "Teaching Infants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the continuous Talmudic exchange in which Rav Acha challenges that God no longer makes sport after the Temple's destruction and then works through the prooftexts \u2014 exactly what candidate 2 ('Post-Destruction') describes, whereas candidate 3 ('Jerusalem Mourning') describes only the sub-argument about perpetual mourning which is a detail within that broader dispute.",
+      "chosen_heading": "Post-Destruction",
+      "current_heading": "Jerusalem Mourning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Teaching Infants",
+    "candidates": [
+      "Jerusalem Mourning",
+      "Teaching Infants",
+      "Night Tour"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address God teaching Torah to schoolchildren in the fourth period and who taught them previously \u2014 exactly the content described in the 'Teaching Infants' prose.",
+      "chosen_heading": "Teaching Infants",
+      "current_heading": "Teaching Infants",
+      "moved": false
+    }
+  }
+]

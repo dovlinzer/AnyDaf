@@ -1,0 +1,444 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Yosef: Natural Death",
+    "candidates": [
+      "Dangling Limbs Overview",
+      "Mitzvas Poresh",
+      "Rambam on Mitzvas Poresh",
+      "Eating Dangling Limbs",
+      "Dangling Limbs & Tumah",
+      "Rav Yosef's Position",
+      "Anonymous Objection",
+      "Rav Huna's Question",
+      "Rav Yosef: Natural Death",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that the dangling limb carries only a rabbinic prohibition \u2014 'mitzvas poresh bilvad' \u2014 with no full Torah-level prohibition, which is precisely what the 'Mitzvas Poresh' section's prose discusses (Rashi and Tosafot's interpretation that the phrase signals a merely rabbinic concern).",
+      "chosen_heading": "Mitzvas Poresh",
+      "current_heading": "Rav Yosef: Natural Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Rav Yosef: Natural Death",
+      "Reconciliation",
+      "Rava's Question",
+      "Verses on Shratzim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rav Yosef and Rav Yitz\u1e25ak bar Shmuel bar Marta followed immediately by Rav Yosef's resolution distinguishing misah from shechitah \u2014 this is precisely the content described under 'Rav Yosef: Natural Death', whereas the current heading 'Reconciliation' covers the essay author's own analysis and elaboration after the Gemara text has already been presented.",
+      "chosen_heading": "Rav Yosef: Natural Death",
+      "current_heading": "Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Verses on Shratzim",
+    "candidates": [
+      "Rava's Question",
+      "Verses on Shratzim",
+      "Rav Ada's Challenge",
+      "Applying to Animals",
+      "Ke-ein Mitah",
+      "Double Bemotam",
+      "Rav Chisda's Rule",
+      "Live Fetus Limb",
+      "Dead Fetus Limb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous chain of Rava's derivation (items 1-2) and its resolution (item 3), which together answer Rava's question about the source of the principle that death creates nifol while shechitah does not \u2014 this entire unit belongs under 'Rava's Question' rather than being split across multiple headings.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Verses on Shratzim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Dead Fetus Limb",
+    "candidates": [
+      "Rav Ada's Challenge",
+      "Applying to Animals",
+      "Ke-ein Mitah",
+      "Double Bemotam",
+      "Rav Chisda's Rule",
+      "Live Fetus Limb",
+      "Dead Fetus Limb",
+      "Rava's Disagreement",
+      "Eight-Month Non-Viable",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Chisda's distinction between live and dead fetus limbs and Rabba's disagreement, which corresponds precisely to 'Rav Chisda's Rule' \u2014 the heading that introduces Rav Chisda's distinction as a unified topic covering both his position and the subsequent dispute with Rabba.",
+      "chosen_heading": "Rav Chisda's Rule",
+      "current_heading": "Dead Fetus Limb",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Rava's Disagreement",
+      "Eight-Month Non-Viable",
+      "Baraita Challenge",
+      "Ein Bemino Shechitah",
+      "Shechitah of Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita challenge itself \u2014 quoting 'ben shemonah chai yochiach' and arguing that slaughter of an eight-month-old does not render it pure despite shechitah being applicable to its species \u2014 which is precisely what the 'Baraita Challenge' prose section describes.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Shechitah of Mother",
+    "candidates": [
+      "Ein Bemino Shechitah",
+      "Shechitah of Mother",
+      "Trefah & Shechitah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Kahana explaining that the baraita holds there is shechitah applicable to the eight-month-old by virtue of its mother's slaughter, which is precisely what the 'Shechitah of Mother' section's prose describes.",
+      "chosen_heading": "Shechitah of Mother",
+      "current_heading": "Shechitah of Mother",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Trefah & Shechitah",
+    "candidates": [
+      "Trefah & Shechitah",
+      "Rav Hoshaya's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses how the tanna derives that slaughter of a tereifa renders it pure from tumah, which is exactly what the prose under 'Trefah & Shechitah' describes.",
+      "chosen_heading": "Trefah & Shechitah",
+      "current_heading": "Trefah & Shechitah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Hoshaya's Question",
+    "candidates": [
+      "Rav Hoshaya's Question",
+      "Rabbi Meir vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains only Rav Hoshaya's initial dilemma question, which matches heading 0's prose about the thought experiment of slaughtering a fetus in utero; the elaboration about Rabbi Meir vs. Rabbanan belongs to heading 1's prose but is not yet present in this single quoted item.",
+      "chosen_heading": "Rav Hoshaya's Question",
+      "current_heading": "Rav Hoshaya's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rabbi Meir vs. Rabbanan",
+    "candidates": [
+      "Rabbi Meir vs. Rabbanan",
+      "Born Treifah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rabbi Meir vs. Rabbanan dimension of the question \u2014 item 1 raises the possibility that Rabbi Meir's ruling applies only post-birth, and item 2 raises the counter-possibility that even the Rabbanan might validate in-utero shechitah via four simanim \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Rabbi Meir vs. Rabbanan",
+      "current_heading": "Rabbi Meir vs. Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Born Treifah",
+    "candidates": [
+      "Born Treifah",
+      "Case 1: Non-Viable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge (Rav \u1e24ananya) and resolution (Rava) about an animal born/formed as a tereifa from the womb, which is exactly what the 'Born Treifah' prose describes in detail, including the five-legged animal and the emendation from nolad to notzra.",
+      "chosen_heading": "Born Treifah",
+      "current_heading": "Born Treifah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Case 1: Non-Viable",
+    "candidates": [
+      "Case 1: Non-Viable",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text describes the cases of an eight-month-old (alive or dead) and a nine-month-old dead fetus, exactly matching the 'Case 1: Non-Viable' prose which quotes and explains these same cases and the requirement to tear and remove blood.",
+      "chosen_heading": "Case 1: Non-Viable",
+      "current_heading": "Case 1: Non-Viable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbanan Position",
+      "Rabbi Shimon Shezuri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Meir's position and the Rabbanan's response together as a single Mishnaic unit, but the current placement under 'Rabbi Meir Position' is appropriate since the passage opens with and is primarily introducing Rabbi Meir's ruling, with the Rabbanan position appearing as the counterpoint \u2014 matching exactly the prose under heading 0.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rabbi Shimon Shezuri",
+    "candidates": [
+      "Rabbanan Position",
+      "Rabbi Shimon Shezuri",
+      "Mother Not Slaughtered",
+      "Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon Shezuri's statement about the five-year-old cow plowing in the field and the case where the mother was not slaughtered, both of which are directly addressed in the 'Rabbi Shimon Shezuri' section prose.",
+      "chosen_heading": "Rabbi Shimon Shezuri",
+      "current_heading": "Rabbi Shimon Shezuri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Rabbi Elazar",
+    "candidates": [
+      "Mother Not Slaughtered",
+      "Rabbi Elazar",
+      "Baraita on Chelev",
+      "Logic of Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous gemara discussion initiated by Rabbi Elazar/Rabbi Oshaya's statement about the leniency being confined to shechitah, followed by challenges about chelev and gid, and concluding with the revised formulation \u2014 exactly what the 'Rabbi Elazar' prose section describes.",
+      "chosen_heading": "Rabbi Elazar",
+      "current_heading": "Rabbi Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Logic of Dispute",
+    "candidates": [
+      "Baraita on Chelev",
+      "Logic of Dispute",
+      "Clarification",
+      "Kashrut Issues",
+      "Resh Lakish",
+      "Rabbi Yochanan",
+      "Rav Zeira",
+      "Fetus Blood & Kareis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items concern Resh Lakish's ruling about the blood of the fetus (permitting/prohibiting it in parallel with chelev) and Rabbi Yochanan's objection, which is precisely what candidate 4 ('Resh Lakish') describes \u2014 the dispute between Resh Lakish and Rabbi Yochanan about fetal blood, with the apparent contradiction from the mishna requiring kori'a umotzi et damo.",
+      "chosen_heading": "Resh Lakish",
+      "current_heading": "Logic of Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Fetus Blood & Kareis",
+    "candidates": [
+      "Clarification",
+      "Kashrut Issues",
+      "Resh Lakish",
+      "Rabbi Yochanan",
+      "Rav Zeira",
+      "Fetus Blood & Kareis",
+      "Question Posed",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whether Rabbi Yehuda's ruling on dam hatamtzis carrying kareis applies to fetal blood, and Rav Yosef's resolution before Rav Pappa \u2014 exactly the content described in the 'Fetus Blood & Kareis' prose.",
+      "chosen_heading": "Fetus Blood & Kareis",
+      "current_heading": "Fetus Blood & Kareis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Question Posed",
+      "Rabbi Meir's View",
+      "Rabbanan Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma and then addresses Rabbi Meir's view as a resolution within the same unit of text, but the prose of heading 0 ('Question Posed') describes exactly this content \u2014 the raising of the question about ben pekua and the initial resolution per Rabbi Meir \u2014 while heading 1 describes only Rabbi Meir's view in isolation, making heading 0 the better match for the full passage that both poses the question and begins resolving it.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Rabbi Meir's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Rabbanan Debate",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Rabbanan Debate",
+      "Mar Zutra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly raises the dilemma according to the Rabbis' view that the mother's slaughter renders the fetus permitted, then debates whether it is like 'basar b'dikula' or whether 'rahit v'azil' makes it a 'seh' \u2014 exactly what the Rabbanan Debate prose describes.",
+      "chosen_heading": "Rabbanan Debate",
+      "current_heading": "Rabbanan Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Mar Zutra",
+    "candidates": [
+      "Mar Zutra",
+      "Rav Sheshet",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Mar Zutra saying one cannot redeem and Rav Ashi saying one can, which directly introduces Mar Zutra's position \u2014 the current placement under 'Mar Zutra' is correct as this is the opening statement of the dispute that the subsequent sections then elaborate upon.",
+      "chosen_heading": "Mar Zutra",
+      "current_heading": "Mar Zutra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Rav Sheshet",
+      "Rav Ashi",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of Rav Ashi challenging Mar Zutra's gezeirah shavah reasoning, Mar Zutra responding with tifdeh tifdeh, and Rav Ashi pressing further \u2014 exactly the dialogue described in the 'Rav Ashi' prose section.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Rav Ashi",
+      "moved": false
+    }
+  }
+]

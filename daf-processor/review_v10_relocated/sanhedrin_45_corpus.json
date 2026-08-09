@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Achan Atonement Source",
+    "candidates": [
+      "Achan Atonement Source",
+      "Zimri/Achan Names",
+      "Rav/Shmuel Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the source for Achan's confession achieving atonement, the 'hayom hazeh' drash, and the five sons of Zerah verse \u2014 all of which are precisely what the 'Achan Atonement Source' prose describes.",
+      "chosen_heading": "Achan Atonement Source",
+      "current_heading": "Achan Atonement Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav/Shmuel Dispute",
+    "candidates": [
+      "Zimri/Achan Names",
+      "Rav/Shmuel Dispute",
+      "How to Confess"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dual naming dispute itself (the core Gemara text), which belongs under the heading that introduces the question of dual naming, not under the heading that summarizes the interpretive conclusions of the dispute.",
+      "chosen_heading": "Zimri/Achan Names",
+      "current_heading": "Rav/Shmuel Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "How to Confess",
+    "candidates": [
+      "Rav/Shmuel Dispute",
+      "How to Confess",
+      "Rabbis' Objection",
+      "Man Exonerates Beis Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the Gemara's challenge 'let them clear themselves' and the answer 'so as not to cast aspersions on the courts and witnesses' \u2014 directly matches the 'Rabbis' Objection' prose, which explicitly discusses this exact reasoning including the phrase *kedei shelo l'hotzi la'az al batei dinim v'al ha'edim*.",
+      "chosen_heading": "Rabbis' Objection",
+      "current_heading": "How to Confess",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Man Exonerates Beis Din",
+    "candidates": [
+      "Rabbis' Objection",
+      "Man Exonerates Beis Din",
+      "Cannot Reverse Verdict",
+      "Testimony Irreversible",
+      "Baya & Shimon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the man's declaration of innocence while being led to execution, which matches candidate 1's prose about the man absolving the beis din and placing responsibility on the witnesses.",
+      "chosen_heading": "Man Exonerates Beis Din",
+      "current_heading": "Man Exonerates Beis Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Baya & Shimon Story",
+    "candidates": [
+      "Cannot Reverse Verdict",
+      "Testimony Irreversible",
+      "Baya & Shimon Story",
+      "Strip Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's chain of objections and answers about why it is necessary to state that the condemned is executed even when witnesses retract \u2014 exactly what the 'Testimony Irreversible' prose discusses, including the keivan shehigid principle and the Ba'aya case \u2014 not the narrative retelling of the Ba'aya story that belongs under 'Baya & Shimon Story'.",
+      "chosen_heading": "Testimony Irreversible",
+      "current_heading": "Baya & Shimon Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Strip Dispute",
+    "candidates": [
+      "Baya & Shimon Story",
+      "Strip Dispute",
+      "Sexual Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah about stripping the condemned and the baraita specifying perek echad/shenei prakim \u2014 are precisely the content described in the 'Strip Dispute' prose, which explicitly discusses the four-amot rule, Rabbi Yehuda vs. the Sages, and the baraita's practical details of cloth coverings.",
+      "chosen_heading": "Strip Dispute",
+      "current_heading": "Strip Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Sexual Concern",
+    "candidates": [
+      "Sexual Concern",
+      "Sotah Comparison",
+      "Death Changes Stakes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit that heading 0 ('Sexual Concern') describes: the Rabbis' derivation from 'oto,' Rabbi Yehuda's counter-reading, and the resulting question about which sage is concerned about hirhur \u2014 exactly what the prose of heading 0 walks through.",
+      "chosen_heading": "Sexual Concern",
+      "current_heading": "Sexual Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Death Changes Stakes",
+    "candidates": [
+      "Sotah Comparison",
+      "Death Changes Stakes",
+      "Dignity vs Pain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the sotah/stoning contradiction and its resolutions (Rabba's principle about yetzer hara, Rava's reframing, and the Rabbis' resolution via the chastening verse), which is precisely what the 'Death Changes Stakes' prose describes in detail.",
+      "chosen_heading": "Death Changes Stakes",
+      "current_heading": "Death Changes Stakes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Dignity vs Pain",
+    "candidates": [
+      "Dignity vs Pain",
+      "Platform Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the application of v'ahavta lere'acha kamocha to execution and the Tanna'im dispute about whether dignity or physical comfort constitutes mita yafa, which is precisely what the 'Dignity vs Pain' prose section describes.",
+      "chosen_heading": "Dignity vs Pain",
+      "current_heading": "Dignity vs Pain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Platform Height",
+    "candidates": [
+      "Platform Height",
+      "Don't Deform Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah describing the stoning platform procedure, the continuation about the witnesses and community stoning, and the Gemara's baraita adding the condemned's own height and the question about why so much height is needed \u2014 are precisely the content described in the 'Platform Height' prose section.",
+      "chosen_heading": "Platform Height",
+      "current_heading": "Platform Height",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Don't Deform Body",
+    "candidates": [
+      "Don't Deform Body",
+      "Push vs Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses selecting a compassionate death via 'v'ahavta lere'acha kamocha' and explains why the platform isn't raised higher due to body disfigurement (minuval), which is exactly what the 'Don't Deform Body' section's prose addresses.",
+      "chosen_heading": "Don't Deform Body",
+      "current_heading": "Don't Deform Body",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Push vs Stone",
+    "candidates": [
+      "Push vs Stone",
+      "Second Witness Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous baraita deriving the pushing/stoning procedure from the Har Sinai verses, which is precisely what the 'Push vs Stone' prose describes.",
+      "chosen_heading": "Push vs Stone",
+      "current_heading": "Push vs Stone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Second Witness Stone",
+    "candidates": [
+      "Second Witness Stone",
+      "People Never Stoned",
+      "Bury Instruments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the mechanics of the second witness lifting and casting the large stone, which is exactly what the 'Second Witness Stone' prose describes in detail, including the resolution about two people lifting together while one casts alone.",
+      "chosen_heading": "Second Witness Stone",
+      "current_heading": "Second Witness Stone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Bury Instruments",
+    "candidates": [
+      "People Never Stoned",
+      "Bury Instruments"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "People Never Stoned",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the theoretical vs. practical nature of community stoning and the 'never repeated' baraita, which matches exactly the 'People Never Stoned' section's prose about mi kamina de'avid and de'mitzrich kamina.",
+      "second_heading": "Bury Instruments",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 both deal with the burial of execution instruments and the standing stone at the execution site, which matches precisely the 'Bury Instruments' section's prose about even haytah sham, kulan nikbarim imo, and Rav Pappa's resolution.",
+      "current_heading": "Bury Instruments",
+      "moved": true
+    }
+  }
+]

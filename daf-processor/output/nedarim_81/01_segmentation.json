@@ -39,8 +39,8 @@
           "timestamp": "10:19"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Medical Consequences of Neglecting Bathing and Laundry: Shmuel's Statements",
@@ -58,7 +58,7 @@
           "timestamp": "15:32"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -241,7 +241,7 @@
           "timestamp": "44:59"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -490,5 +490,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "31:50",
+  "amud_b_micro_title": "Beino L'Veina Question",
+  "shiur_start_daf": 81,
+  "shiur_start_amud": "a"
 }

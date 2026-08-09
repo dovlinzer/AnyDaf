@@ -1,0 +1,331 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Scriptural Source",
+    "candidates": [
+      "Standing Requirement",
+      "Scriptural Source",
+      "Repetition Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'from where do we derive' the sitting disqualification and provides the scriptural answer, which maps directly to heading 0 ('Standing Requirement') whose prose explicitly describes the question of minalan and the scriptural basis \u2014 heading 1's prose already describes the content of this passage in summary form but is meant to be the author's explanation, not the quoted text itself, while heading 0 is where the Gemara's derivation question and answer actually belong.",
+      "chosen_heading": "Standing Requirement",
+      "current_heading": "Scriptural Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Repetition Principle",
+    "candidates": [
+      "Scriptural Source",
+      "Repetition Principle",
+      "Sitting = Non-Priest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly discusses the repetition principle (shana alav hakesuv le'akev) \u2014 that a single mention would only indicate a mitzva while the repeated verse invalidates service performed while not standing \u2014 which is precisely what the 'Repetition Principle' section's prose describes.",
+      "chosen_heading": "Repetition Principle",
+      "current_heading": "Repetition Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Sitting = Non-Priest",
+    "candidates": [
+      "Sitting = Non-Priest",
+      "Kezari Limitations",
+      "Two Verses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's challenge about whether a sitting kohen should incur death like a non-priest, which matches exactly the prose of heading 0 describing Rava posing the sharper formulation about yoshev kezari dami and its consequences.",
+      "chosen_heading": "Sitting = Non-Priest",
+      "current_heading": "Sitting = Non-Priest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Two Verses Rule",
+    "candidates": [
+      "Kezari Limitations",
+      "Two Verses Rule",
+      "Invalid Positions",
+      "Floor Sanctification",
+      "Holy Vessel Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the rule of shenei kesuvim ba'im k'echad as it applies to explaining why arel/onen/yoshev don't incur misa, which is precisely what the 'Kezari Limitations' prose describes \u2014 the current placement under 'Two Verses Rule' is a downstream section that elaborates on the principle, but the passage itself is the initial invocation of that rule in response to the kezari question.",
+      "chosen_heading": "Kezari Limitations",
+      "current_heading": "Two Verses Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Holy Vessel Analogy",
+    "candidates": [
+      "Invalid Positions",
+      "Floor Sanctification",
+      "Holy Vessel Analogy",
+      "Garments Interpretation",
+      "Necessity of Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraisa from the school of Rabbi Yishmael about the floor sanctifying and service vessels sanctifying, which is precisely what the 'Floor Sanctification' section's prose discusses, including the question of the correct girsa (mekadeshet vs. mekudeshet) \u2014 the 'Holy Vessel Analogy' section where it currently sits deals with the downstream interpretation of that baraisa, not the baraisa's initial citation.",
+      "chosen_heading": "Floor Sanctification",
+      "current_heading": "Holy Vessel Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Necessity of Cases",
+    "candidates": [
+      "Garments Interpretation",
+      "Necessity of Cases",
+      "Eliezer's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why each of the three cases (vessel, animal, fellow person) was necessary to enumerate, matching exactly the prose of 'Necessity of Cases' which discusses the same min b'mino reasoning and the need to specify all three cases.",
+      "chosen_heading": "Necessity of Cases",
+      "current_heading": "Necessity of Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Eliezer's Test",
+    "candidates": [
+      "Eliezer's Test",
+      "Loosened Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly states Rabbi Eliezer's test about one foot on a vessel/stone and one on the floor, which is precisely what the 'Eliezer's Test' prose describes.",
+      "chosen_heading": "Eliezer's Test",
+      "current_heading": "Eliezer's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Loosened Stone",
+    "candidates": [
+      "Loosened Stone",
+      "Missing Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ami's dilemma about a loosened (nidaldelah) stone and whether intent to reattach it affects its status, which precisely matches the 'Loosened Stone' section's prose.",
+      "chosen_heading": "Loosened Stone",
+      "current_heading": "Loosened Stone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Missing Stone",
+    "candidates": [
+      "Missing Stone",
+      "Hole Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Ami's dilemma about a uprooted stone and the Gemara's interjection questioning what the dilemma actually is, which is precisely what heading 0 ('Missing Stone') describes in its prose.",
+      "chosen_heading": "Missing Stone",
+      "current_heading": "Missing Stone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Hole Question",
+    "candidates": [
+      "Hole Question",
+      "Rabbi Shimon View",
+      "Etzba Evidence",
+      "Tanna Kamma View",
+      "Shimon's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's resolution that the question is about derech sheirut (manner of ministration) when a kohen stands in a hole, concluding with teiku \u2014 exactly what the 'Hole Question' prose describes.",
+      "chosen_heading": "Hole Question",
+      "current_heading": "Hole Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Shimon's Logic",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Etzba Evidence",
+      "Tanna Kamma View",
+      "Shimon's Logic",
+      "Sama Objection",
+      "Abaye Reinterprets",
+      "Elazar's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The entire passage covers Rabbi Shimon's challenge, the subsequent Amoraic debate (Rav Yehuda, Rabba, Rava, Rav Samma), and Abaye's hermeneutical reframing \u2014 all of which is precisely what heading 3 ('Shimon's Logic') describes in its prose.",
+      "chosen_heading": "Shimon's Logic",
+      "current_heading": "Shimon's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Elazar's Rule",
+    "candidates": [
+      "Sama Objection",
+      "Abaye Reinterprets",
+      "Elazar's Rule",
+      "Par Exception",
+      "Derash Principle",
+      "Yochanan Principle",
+      "Metzora Source",
+      "Mincha Exception",
+      "Rule Broadened",
+      "Limbs Exception",
+      "Central Acts",
+      "Catching Test",
+      "Shimon Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's statement about Rabbi Elazar bar Rabbi Shimon's divergent position and the baraita presenting his rule \u2014 exactly what heading 2 ('Elazar's Rule') describes in its prose.",
+      "chosen_heading": "Elazar's Rule",
+      "current_heading": "Elazar's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Shimon Distinction",
+    "candidates": [
+      "Par Exception",
+      "Derash Principle",
+      "Yochanan Principle",
+      "Metzora Source",
+      "Mincha Exception",
+      "Rule Broadened",
+      "Limbs Exception",
+      "Central Acts",
+      "Catching Test",
+      "Shimon Distinction",
+      "Zerika Question",
+      "Zerika Disagreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The entire passage covers exactly what candidate 9 describes: Rabbi Shimon's requirement of both terms, the baraita showing etzba alone suffices for Rabbi Shimon, the asymmetry between etzba and kehunah for Rabbi Shimon, the role of kohen as teaching bekehunam, and the zerika question \u2014 all of which are explicitly narrated in candidate 9's prose.",
+      "chosen_heading": "Shimon Distinction",
+      "current_heading": "Shimon Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Zerika Disagreement",
+    "candidates": [
+      "Zerika Question",
+      "Zerika Disagreement",
+      "Etzba Locations",
+      "Final Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's citation of the baraita showing Rabbi Shimon disagrees about zerika as well, which is precisely what the 'Zerika Disagreement' prose describes.",
+      "chosen_heading": "Zerika Disagreement",
+      "current_heading": "Zerika Disagreement",
+      "moved": false
+    }
+  }
+]

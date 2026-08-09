@@ -1,0 +1,246 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Rav Yosef's Drasha",
+    "candidates": [
+      "Rav Yosef's Drasha",
+      "Reish Lakish's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form one continuous Gemara passage covering the mishnaic rule, Reish Lakish's derivation, challenges and resolutions, and Rav Yosef's reformulation \u2014 exactly the content described in heading 0's prose about the mishnah's rule, the ba'al mum exception, and Rav Yosef's drasha on 'yochalennah' vs 'yechalkennah'.",
+      "chosen_heading": "Rav Yosef's Drasha",
+      "current_heading": "Rav Yosef's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Reish Lakish's Question",
+    "candidates": [
+      "Reish Lakish's Question",
+      "Kohen Gadol Onen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains precisely Reish Lakish's dilemma about a blemished and impure priest, which is exactly what heading 0 ('Reish Lakish's Question') describes in its prose.",
+      "chosen_heading": "Reish Lakish's Question",
+      "current_heading": "Reish Lakish's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Kohen Gadol Onen",
+    "candidates": [
+      "Kohen Gadol Onen",
+      "Tamei in Korbanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's proof from the kohen gadol onen baraita establishing that 'ra'uy le'achilah' is required, which matches exactly the prose in section 0 that describes Rabbah citing this very baraita and deriving 'shema mina ra'uy le'achilah beinan.'",
+      "chosen_heading": "Kohen Gadol Onen",
+      "current_heading": "Kohen Gadol Onen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Tamei in Korbanos",
+    "candidates": [
+      "Tamei in Korbanos",
+      "Onen Touching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the dilemma and resolution about a tamei kohen in communal offerings, which is precisely what the 'Tamei in Korbanos' prose describes, including the Ravina baraita about the kohen gadol onen as the resolution.",
+      "chosen_heading": "Tamei in Korbanos",
+      "current_heading": "Tamei in Korbanos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Onen Touching",
+    "candidates": [
+      "Onen Touching",
+      "Hesach Hadaat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the initial contradiction between the mishna permitting an onen to touch sacrificial meat and the mishna in Chagiga requiring immersion, followed by Rabbi Ami/Rabbi Yochanan's resolution (taval vs. lo taval), which is exactly the content described in the 'Onen Touching' section prose before it moves on to further objections.",
+      "chosen_heading": "Onen Touching",
+      "current_heading": "Onen Touching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Hesach Hadaat",
+    "candidates": [
+      "Hesach Hadaat",
+      "Onen as Shlishi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All nine items directly discuss hesach hadaat \u2014 the distinction between different degrees of carelessness, the challenge about sheretz impurity, Rabbi Yirmiyah's partial vigilance solution, and the basket/shovel baraita demonstrating netiruta lepalga \u2014 all of which are explicitly described in the prose of candidate 0.",
+      "chosen_heading": "Hesach Hadaat",
+      "current_heading": "Hesach Hadaat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Onen as Shlishi",
+    "candidates": [
+      "Onen as Shlishi",
+      "Eating at Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Abba bar Memel's resolution using the shlishi of teruma principle \u2014 that rabbinic stringencies apply to eating but not touching \u2014 which is precisely what the 'Onen as Shlishi' section's prose describes.",
+      "chosen_heading": "Onen as Shlishi",
+      "current_heading": "Onen as Shlishi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Eating at Night",
+    "candidates": [
+      "Eating at Night",
+      "Death & Burial",
+      "Night is Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about whether an onen may eat kodashim at night, centered on the contradiction with Pesachim and Rav Yirmeya of Difti's resolution \u2014 exactly what the 'Eating at Night' prose describes.",
+      "chosen_heading": "Eating at Night",
+      "current_heading": "Eating at Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Night is Rabbinic",
+    "candidates": [
+      "Death & Burial",
+      "Night is Rabbinic",
+      "Shalem Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Asi's resolution based on the distinction between death/burial on the same day vs. different days, and the identification of Rabbi Shimon as the tanna who holds nighttime aninut is rabbinic \u2014 exactly what heading 1 'Night is Rabbinic' discusses in its prose.",
+      "chosen_heading": "Night is Rabbinic",
+      "current_heading": "Night is Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Shalem Drasha",
+    "candidates": [
+      "Shalem Drasha",
+      "Pesach Exception",
+      "Tosafot on Pesach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pesach Exception",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the Gemara's challenge about whether Rabbi Shimon's baraita excludes even Pesach and the rejection that it refers only to other offerings \u2014 matching candidate 1's prose about the Pesach exception.",
+      "second_heading": "Shalem Drasha",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 contain the full shalem drasha baraita systematically extending the exclusion of the onen from all offerings, which is precisely what candidate 0's prose describes in detail.",
+      "current_heading": "Shalem Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Tosafot on Pesach",
+    "candidates": [
+      "Pesach Exception",
+      "Tosafot on Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with resolving the contradiction between the baraitot regarding Pesach \u2014 Rav \u1e24isda's explanation that Pesach was mentioned incidentally, and Rav Sheshet's interpretation that 'Pesach' means the accompanying shelamim and the need to specify both types of shelamim \u2014 which is precisely what the 'Tosafot on Pesach' prose discusses in detail.",
+      "chosen_heading": "Tosafot on Pesach",
+      "current_heading": "Tosafot on Pesach",
+      "moved": false
+    }
+  }
+]

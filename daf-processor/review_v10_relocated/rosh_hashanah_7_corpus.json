@@ -1,0 +1,470 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Heir & Bal Te'acher",
+    "candidates": [
+      "Heir & Bal Te'acher",
+      "Textual Derivation",
+      "Women's Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the textual derivation from 'me'imach'/'imach' to exclude an heir from bal te'acher while simultaneously including leket, shichcha, and peah \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Textual Derivation",
+      "current_heading": "Heir & Bal Te'acher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Women's Status",
+    "candidates": [
+      "Textual Derivation",
+      "Women's Status",
+      "Abaye's Answer",
+      "Rashi vs. Tosafot",
+      "When Year Begins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Women's Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Zeira's question about whether a woman is subject to bal t'acher, which matches the 'Women's Status' prose precisely \u2014 discussing isha mah hi b'bal t'acher and the tension between aliyah l'regel exemption and simcha obligation.",
+      "second_heading": "Abaye's Answer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's response affirming the simcha argument and the Gemara's challenge from 'isha ba'alah mesamchah,' which matches the 'Abaye's Answer' prose exactly.",
+      "current_heading": "Women's Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "When Year Begins",
+    "candidates": [
+      "Abaye's Answer",
+      "Rashi vs. Tosafot",
+      "When Year Begins",
+      "Tam vs. Ba'al Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of when one begins counting the year for a firstborn animal, which is precisely what the 'When Year Begins' section prose describes.",
+      "chosen_heading": "When Year Begins",
+      "current_heading": "When Year Begins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Tam vs. Ba'al Mum",
+    "candidates": [
+      "Tam vs. Ba'al Mum",
+      "Nissan & Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the tam vs. ba'al mum distinction and the question of whether a blemished animal can be eaten immediately, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Tam vs. Ba'al Mum",
+      "current_heading": "Tam vs. Ba'al Mum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Nissan & Months",
+    "candidates": [
+      "Nissan & Months",
+      "Aviv Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita listing Nisan's new-year functions and the derivation from 'hachodesh hazeh' and 'shamor et chodesh ha'aviv' \u2014 are precisely what the 'Nissan & Months' prose describes, including the enumeration of the braisa's categories and the two-verse proof that Nisan is the first month.",
+      "chosen_heading": "Nissan & Months",
+      "current_heading": "Nissan & Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Aviv Proof",
+    "candidates": [
+      "Aviv Proof",
+      "Tishrei & Harvest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Aviv derivation, the objections about Iyyar and Adar, and the challenge about 'majority of ripening' \u2014 all of which are explicitly described in the 'Aviv Proof' prose.",
+      "chosen_heading": "Aviv Proof",
+      "current_heading": "Aviv Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Tishrei & Harvest",
+    "candidates": [
+      "Tishrei & Harvest",
+      "Kabbalah & Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rav \u1e24isda's proof from Tishrei/harvest and the subsequent Gemara challenges about Mar\u1e25eshvan and Elul, which is exactly what the 'Tishrei & Harvest' prose section describes.",
+      "chosen_heading": "Tishrei & Harvest",
+      "current_heading": "Tishrei & Harvest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Kabbalah & Prophecy",
+    "candidates": [
+      "Kabbalah & Prophecy",
+      "Month Nomenclature",
+      "Intercalation Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover exactly the content described in the 'Kabbalah & Prophecy' prose: Ravina's concession that Nisan's primacy comes from prophetic writings, the series of verses from Zechariah and Esther adduced by various Amoraim, the question of why they didn't use the explicit 'first month, which is Nisan' verse, and the tanna's focus on years rather than months.",
+      "chosen_heading": "Kabbalah & Prophecy",
+      "current_heading": "Kabbalah & Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Intercalation Rules",
+    "candidates": [
+      "Month Nomenclature",
+      "Intercalation Rules",
+      "Confusion Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge to Nisan as Rosh Hashanah l'iburim and the baraita about not intercalating before Rosh Hashanah, which is precisely what the 'Intercalation Rules' prose section describes.",
+      "chosen_heading": "Intercalation Rules",
+      "current_heading": "Intercalation Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Confusion Risk",
+    "candidates": [
+      "Confusion Risk",
+      "Endpoint Function"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Endpoint Function",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Na\u1e25man bar Yitz\u1e25ak's clarification that 'iburim' means 'hafsakat iburim' and the Mishnah from Eduyot) belongs under 'Endpoint Function', whose prose explicitly discusses this exact teaching.",
+      "second_heading": "Confusion Risk",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 (the dispute about intercalating before/after Purim due to the thirty-day pre-Pesach learning period, and the counter-response about calculation) belong under 'Confusion Risk', whose prose describes exactly this debate.",
+      "current_heading": "Confusion Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Endpoint Function",
+    "candidates": [
+      "Endpoint Function",
+      "Fresh Funds Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the tanna of our Mishnah omits iburim \u2014 because he is concerned with beginnings (hatchalah) not endings (hafsaqah) \u2014 which precisely matches the 'Endpoint Function' section's discussion of termination vs. initiation of leap year declarations.",
+      "chosen_heading": "Endpoint Function",
+      "current_heading": "Endpoint Function",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Fresh Funds Rule",
+    "candidates": [
+      "Fresh Funds Rule",
+      "Old vs. New Funds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the derivation that trumat shekalim renews from Nisan via the gezeirah shavah on 'year'/'months,' which is precisely what the 'Fresh Funds Rule' prose describes, including the specific point about why Tishrei's verse (without 'months') cannot override Nisan's verse.",
+      "chosen_heading": "Fresh Funds Rule",
+      "current_heading": "Fresh Funds Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Old vs. New Funds",
+    "candidates": [
+      "Old vs. New Funds",
+      "Private Donations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda/Shmuel's ruling about communal offerings on the first of Nisan and the distinction between new and old funds, which is exactly what the 'Old vs. New Funds' prose describes.",
+      "chosen_heading": "Old vs. New Funds",
+      "current_heading": "Old vs. New Funds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Private Donations",
+    "candidates": [
+      "Private Donations",
+      "Default Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss communal offerings on the first of Nisan, private donations transferred to the community, and why the Mishnah omits Nisan as a New Year for shekels \u2014 exactly the content described in the 'Private Donations' prose.",
+      "chosen_heading": "Private Donations",
+      "current_heading": "Private Donations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Default Meaning",
+    "candidates": [
+      "Default Meaning",
+      "Rainy Season Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita about renting houses 'for a year' vs. 'for this year' and the Gemara's comment about the thirty-day minimum, which is precisely what the 'Default Meaning' prose describes in detail.",
+      "chosen_heading": "Default Meaning",
+      "current_heading": "Default Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Rainy Season Logic",
+    "candidates": [
+      "Rainy Season Logic",
+      "Minority View",
+      "Tosafot on Payment",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rainy Season Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question and answer about why Tishrei rather than Nisan is the rental year-end, which is precisely what the 'Rainy Season Logic' prose describes.",
+      "second_heading": "Minority View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains why the first tanna and Mishnah's author reject Nisan as a fixed anchor due to spring rainfall, which matches exactly the 'Minority View' prose about b'Nisan nami shchichi mitri and the rejection of a universal cutoff month.",
+      "current_heading": "Rainy Season Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Minority View",
+      "Tosafot on Payment",
+      "Rabbi Meir Position",
+      "Rabbi Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's identification of Rabbi Meir as the anonymous author of the ruling that the first of Elul is the New Year for animal tithes, which matches exactly the prose under 'Rabbi Meir Position.'",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rabbi Shimon Position",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Rabbi's Selectivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the structural puzzle of the Mishnah having Rabbi Shimon in both the first and last clauses while the middle clause follows Rabbi Meir, which is precisely what the 'Rabbi Shimon Position' prose describes.",
+      "chosen_heading": "Rabbi Shimon Position",
+      "current_heading": "Rabbi Shimon Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Rabbi's Selectivity",
+    "candidates": [
+      "Rabbi's Selectivity",
+      "Additional Candidates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Yosef's explanation of Rebbi's selectivity, Rava's resolution of the 'five not four' objection, and Rav Na\u1e25man bar Yitz\u1e25ak's alternative answer \u2014 are explicitly discussed together in the 'Rabbi's Selectivity' prose, which covers exactly this chain of argument.",
+      "chosen_heading": "Rabbi's Selectivity",
+      "current_heading": "Rabbi's Selectivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Additional Candidates",
+    "candidates": [
+      "Additional Candidates",
+      "Rav Papa's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the sixteenth of Nisan and sixth of Sivan as an objection that raises the count beyond four, which is precisely what the 'Additional Candidates' prose discusses \u2014 the challenge that these two additional new years would bring the total to six or seven for Rava/Rav Nachman bar Yitzchak.",
+      "chosen_heading": "Additional Candidates",
+      "current_heading": "Additional Candidates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Rav Papa's Answer",
+    "candidates": [
+      "Rav Papa's Answer",
+      "Rav Sheshet's Logic",
+      "Rav Ashi's Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav Papa's Answer",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 present Rav Pappa's principle (counts only those that begin in the evening) together with its two objections and answers (Festivals and Jubilee), matching exactly the prose of 'Rav Papa's Answer'.",
+      "second_heading": "Rav Sheshet's Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 4\u20136 present Rav Sheisha son of Rav Idi's alternative principle (counts only those not dependent on an action) with its parallel objections and answers, matching exactly the prose of 'Rav Sheshet's Logic'.",
+      "current_heading": "Rav Papa's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Rav Ashi's Method",
+    "candidates": [
+      "Rav Sheshet's Logic",
+      "Rav Ashi's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rav Ashi's principle about four New Years falling on four New Moons and the subsequent discussion about Beit Shammai vs. Beit Hillel regarding the first of Shevat, which is precisely what the 'Rav Ashi's Method' prose describes.",
+      "chosen_heading": "Rav Ashi's Method",
+      "current_heading": "Rav Ashi's Method",
+      "moved": false
+    }
+  }
+]

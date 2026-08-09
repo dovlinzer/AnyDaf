@@ -45,7 +45,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Cyclical Nature of Jewish History: Abraham, Sisera, Sennacherib, and Nebuchadnezzar",
@@ -73,7 +73,7 @@
           "timestamp": "13:10"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -542,5 +542,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "33:46",
+  "amud_b_micro_title": "Son Honors Father",
+  "shiur_start_daf": 96,
+  "shiur_start_amud": "a"
 }

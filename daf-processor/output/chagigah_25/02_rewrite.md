@@ -162,9 +162,7 @@ The larger pattern running through this entire section is now legible: the archi
 
 ### Tax Collectors
 
-The Mishnah states: *ha-gabba'im she-nichnesu le-toch ha-bayis* — tax collectors who entered a house, as well as thieves who returned stolen vessels — are believed to say *lo naganu*, that they did not touch certain items. The tax collectors referenced here are the *am ha'aretz* of the rabbinic imagination — the same type of people with whom, as the New Testament records, one does not ordinarily eat. And yet they are credited when they specify what they did and did not touch, so that the *chavér* need not treat the items they disclaim touching as *tamei*.
-
----
+The Mishnah now introduces a striking extension of this principle: *ha-gabba'im she-nichnesu le-toch ha-bayis* — tax collectors who entered a house — and thieves who returned stolen vessels — are believed to say *lo naganu*, that they did not touch certain items. These tax collectors are the *amei ha-aretz* of rabbinic imagination, the very people one ordinarily keeps at a distance. And yet even they are believed to specify what they did and did not touch. Similarly, a *ganav* who returns vessels may be believed not only about items he left behind but even about the contents of what he is returning — for instance, that he did not touch the wine inside a pottery vessel in a way that would render it *tamei*. Remarkable as it sounds, even those one would normally never trust on such matters are here credited. The Mishnah then adds: *u-vi-Yerushalayim ne'emanim al ha-kodesh* — in Jerusalem, people are believed regarding *kodesh*.
 
 ## Yom Tov Belief
 

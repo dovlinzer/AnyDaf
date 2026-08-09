@@ -24,8 +24,8 @@
           "timestamp": "04:10"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Can Harsha'ah Be Written on Chattel? The Nahardai Rule and Its Reasoning",
@@ -48,7 +48,7 @@
           "timestamp": "07:47"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -96,7 +96,7 @@
           "timestamp": "18:00"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -120,7 +120,7 @@
           "timestamp": "24:02"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": false
     },
     {
@@ -192,7 +192,7 @@
           "timestamp": "40:23"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -486,5 +486,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "31:22",
+  "amud_b_micro_title": "Davar Principle",
+  "shiur_start_daf": 70,
+  "shiur_start_amud": "a"
 }

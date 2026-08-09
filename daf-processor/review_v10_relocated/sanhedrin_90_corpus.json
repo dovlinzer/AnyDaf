@@ -1,0 +1,363 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Rav Chisda: Laleches",
+    "candidates": [
+      "Intro: Navi & Avodah Zara",
+      "Tanu Rabbanan Debate",
+      "Gezeira Shava",
+      "Midichei Ir Nidachas",
+      "Rav Chisda Framework",
+      "Two Types False Prophecy",
+      "Devarim 13 vs. 18",
+      "Rav Chisda: Laleches",
+      "Rav Hamnuna View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Midichei Ir Nidachas",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-7 cover the baraita dispute about navi shehidiach and midichei ir nidachas, the gezeira shava reasoning, and Rabbi Shimon's hediyot argument \u2014 all of which are discussed in the 'Midichei Ir Nidachas' prose.",
+      "second_heading": "Rav Chisda: Laleches",
+      "second_confidence": "medium",
+      "second_reason": "Items 8-12 cover Rav Chisda's framework, the laleches baraita challenge and its resolution, and Rav Hamnuna's alternative view \u2014 matching the 'Rav Chisda: Laleches' section's prose.",
+      "current_heading": "Rav Chisda: Laleches",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Hamnuna View",
+    "candidates": [
+      "Rav Hamnuna View",
+      "Abaye vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states that kiyum miktzas u'bitul miktzas of shear mitzvos results in exemption for everyone \u2014 this is explicitly discussed in Rav Hamnuna's section as the conclusion of his framework, where 'kiyum miktzas u'bitul miktzas by shear mitzvos remains exempt entirely.'",
+      "chosen_heading": "Rav Hamnuna View",
+      "current_heading": "Rav Hamnuna View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Abaye vs. Rava",
+      "Prophet Override Rule",
+      "God's Test Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the baraita and the Abaye/Rava dispute about how to read it, which is precisely what the 'Abaye vs. Rava' section's prose describes in detail.",
+      "chosen_heading": "Abaye vs. Rava",
+      "current_heading": "Abaye vs. Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "God's Test Rationale",
+    "candidates": [
+      "Prophet Override Rule",
+      "God's Test Rationale",
+      "Rabbi Akiva Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Abbahu/Yochanan's rule that a prophet may override Torah except for avoda zara, plus Rabbi Yossi HaGelili's supporting baraita \u2014 both directly match the 'Prophet Override Rule' prose which describes exactly this principle, while the current placement under 'God's Test Rationale' only partially covers the second half of the passage.",
+      "chosen_heading": "Prophet Override Rule",
+      "current_heading": "God's Test Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabbi Akiva Response",
+    "candidates": [
+      "God's Test Rationale",
+      "Rabbi Akiva Response",
+      "Edim Zomemin & Bat Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly presents Rabbi Akiva's objection that God would not empower transgressors with miracles, citing Hananiah ben Azzur as an example of residual prophetic power, which precisely matches the prose description of candidate 1.",
+      "chosen_heading": "Rabbi Akiva Response",
+      "current_heading": "Rabbi Akiva Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Edim Zomemin & Bat Kohen",
+    "candidates": [
+      "Edim Zomemin & Bat Kohen",
+      "Rabbi Yossi Gezeira",
+      "Zomemin Follow Man",
+      "Kol Yisrael Opening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yossi's baraita deriving the punishment of edim zomemim in the bas Kohen case, which is precisely what heading 1 ('Rabbi Yossi Gezeira') describes \u2014 the Gemara's sourcing question answered by Rav Acha citing Rabbi Yossi's exposition of 'ka'asher zamam la'asos l'achiv'.",
+      "chosen_heading": "Rabbi Yossi Gezeira",
+      "current_heading": "Edim Zomemin & Bat Kohen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Kol Yisrael Opening",
+    "candidates": [
+      "Rabbi Yossi Gezeira",
+      "Zomemin Follow Man",
+      "Kol Yisrael Opening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Hadran (concluding formula) for the chapter 'Eilu Hein Hanichnakin,' which marks the end of that perek \u2014 exactly what the prose under 'Zomemin Follow Man' describes as the completion of that chapter before the masechta turns to its final chapter.",
+      "chosen_heading": "Zomemin Follow Man",
+      "current_heading": "Kol Yisrael Opening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Kol Yisrael Opening",
+    "candidates": [
+      "Kol Yisrael Opening",
+      "Excluded Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself containing the kol Yisrael declaration and the list of exclusions, which is exactly what the 'Kol Yisrael Opening' prose section discusses and introduces.",
+      "chosen_heading": "Kol Yisrael Opening",
+      "current_heading": "Kol Yisrael Opening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Excluded Categories",
+    "candidates": [
+      "Excluded Categories",
+      "Kings & Commoners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's additions about reading external books and whispering incantations, plus Abba Shaul's addition about pronouncing the divine name, all of which are explicitly discussed in the 'Excluded Categories' prose.",
+      "chosen_heading": "Excluded Categories",
+      "current_heading": "Excluded Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Kings & Commoners",
+    "candidates": [
+      "Kings & Commoners",
+      "Denial Consequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the three kings and four commoners who have no share in Olam HaBa, which matches exactly what the 'Kings & Commoners' prose describes.",
+      "chosen_heading": "Kings & Commoners",
+      "current_heading": "Kings & Commoners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Denial Consequence",
+    "candidates": [
+      "Denial Consequence",
+      "Mida K'Neged Mida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why denying resurrection results in forfeiting a share in it (measure for measure), which is precisely what the 'Denial Consequence' prose discusses, including the equation of Olam HaBa with techiyas hameisim.",
+      "chosen_heading": "Denial Consequence",
+      "current_heading": "Denial Consequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Mida K'Neged Mida",
+    "candidates": [
+      "Mida K'Neged Mida",
+      "Terumah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Elisha/officer episode used to derive the principle of mida k'neged mida, which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Mida K'Neged Mida",
+      "current_heading": "Mida K'Neged Mida",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Terumah Proof",
+    "candidates": [
+      "Terumah Proof",
+      "Terumah Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's derivation of resurrection of the dead from the verse about giving terumah to Aharon, which is precisely what the 'Terumah Proof' section's prose describes.",
+      "chosen_heading": "Terumah Proof",
+      "current_heading": "Terumah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Terumah Conditions",
+    "candidates": [
+      "Terumah Conditions",
+      "Simai's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the laws of giving teruma to a Kohen am ha'aretz, matching exactly the prose of candidate 0 ('Terumah Conditions'), which explicitly describes each of these statements by Rabbi Shmuel bar Nachmani, Rav Acha bar Adda, Rabbi Yochanan, and the school of Rabbi Eliezer ben Yaakov.",
+      "chosen_heading": "Terumah Conditions",
+      "current_heading": "Terumah Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Simai's Proof",
+    "candidates": [
+      "Simai's Proof",
+      "Minim Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Simai's baraita deriving resurrection from the Exodus verse about the Patriarchs, which is exactly what the 'Simai's Proof' section prose describes.",
+      "chosen_heading": "Simai's Proof",
+      "current_heading": "Simai's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Minim Challenges",
+    "candidates": [
+      "Minim Challenges",
+      "Final Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe the Sadducees/minim challenging Rabban Gamliel with proofs from Torah, Prophets, and Writings and their rebuttals, which is precisely what the 'Minim Challenges' prose section describes in detail.",
+      "chosen_heading": "Minim Challenges",
+      "current_heading": "Minim Challenges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Final Proof",
+    "candidates": [
+      "Final Proof",
+      "Alternative Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Gamliel's decisive proof from Deuteronomy 11:21 using 'lahem' vs 'lachem', which matches exactly what the 'Final Proof' section prose describes, not the alternative proof from the cleaving verse discussed in candidate 1.",
+      "chosen_heading": "Final Proof",
+      "current_heading": "Final Proof",
+      "moved": false
+    }
+  }
+]

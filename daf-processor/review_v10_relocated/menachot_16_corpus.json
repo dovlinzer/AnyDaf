@@ -1,0 +1,391 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Kometz/Levonah Case",
+    "candidates": [
+      "Kometz/Levonah Case",
+      "Rabbi Meir's View",
+      "Chakhamim's View",
+      "Chakhamim's Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself presenting both Rabbi Meir's and the Sages' positions together, which matches the 'Kometz/Levonah Case' prose that quotes and explains the entire mishnah as a unit before breaking down each view separately.",
+      "chosen_heading": "Kometz/Levonah Case",
+      "current_heading": "Kometz/Levonah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Chakhamim's Exceptions",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Chakhamim's View",
+      "Chakhamim's Exceptions",
+      "Shtei Hakvashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Sages' concession to Rabbi Meir in Minchat Choteh and Minchat Kenaot where the kometz alone is the matir, which is precisely what the 'Chakhamim's Exceptions' section's prose describes.",
+      "chosen_heading": "Chakhamim's Exceptions",
+      "current_heading": "Chakhamim's Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Shtei Hakvashim",
+    "candidates": [
+      "Shtei Hakvashim",
+      "Three Perspectives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the case described in candidate 0's prose \u2014 slaughtering one of the two lambs with intent to eat the two chalot the next day, and burning one of the bazichim with intent to eat two arrangements the next day, with the Rabbi Meir vs. Sages dispute \u2014 which is the specific text being analyzed in the 'Shtei Hakvashim' section.",
+      "chosen_heading": "Shtei Hakvashim",
+      "current_heading": "Shtei Hakvashim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Three Perspectives",
+    "candidates": [
+      "Three Perspectives",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishnah cases discussed in the 'Three Perspectives' prose \u2014 specifically 'hu pigul v'chaveiro kasher' and 'shneihem kesheirim' \u2014 which are explicitly analyzed there, while the 'Rav's Position' section discusses a different Gemara dispute about kometz and levonah.",
+      "chosen_heading": "Three Perspectives",
+      "current_heading": "Three Perspectives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Shmuel's Rebuttal",
+      "Mindset vs. Speech",
+      "Tosefta Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav's position (item 1) and Shmuel's brief counter-statement (item 2), which is precisely what heading 0 'Rav's Position' discusses \u2014 the full Rav-Shmuel exchange is introduced and explained there, with Shmuel's rebuttal in heading 1 elaborating further on Shmuel's reasoning without the actual Talmudic text.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Tosefta Evidence",
+    "candidates": [
+      "Shmuel's Rebuttal",
+      "Mindset vs. Speech",
+      "Tosefta Evidence",
+      "Yom Kippur Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items directly correspond to the Tosefta evidence section's prose, which explicitly describes the baraita about kemitzah/hiluch stages, the debate of Rabbi Meir and Sages on kometz with intent and levonah in silence, the ktani mihat objection, Rava's failed reread with shtei teshuvot, and Rav Chanina's targema be'shtei de'ayos resolution \u2014 matching items 1-5 precisely.",
+      "chosen_heading": "Tosefta Evidence",
+      "current_heading": "Tosefta Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Yom Kippur Case",
+    "candidates": [
+      "Yom Kippur Case",
+      "Rava's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous baraita challenge and its analysis regarding the 43/11 inner blood applications of Yom Kippur, including the shtei de'ayos rebuttal attempt, which is precisely what the 'Yom Kippur Case' prose describes.",
+      "chosen_heading": "Yom Kippur Case",
+      "current_heading": "Yom Kippur Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Rava's Defense",
+    "candidates": [
+      "Rava's Defense",
+      "Rav Ashi's Challenge",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Defense",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's interpretation (pigel-shatak-pigel scenario) which matches perfectly with heading 0's prose describing exactly that thought-silence-thought configuration.",
+      "second_heading": "Rav Ashi's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's objection ('midi shatak tani?') and counter-proposal, which matches perfectly with heading 1's prose describing exactly that challenge and the pigel-pigel-pigel scenario.",
+      "current_heading": "Rava's Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Rav Ashi's Challenge",
+      "Conclusion",
+      "Completion Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the final 'bein bein' objection and the 'kashya' conclusion, which matches exactly the 'Conclusion' section's prose about v'ha bein bein ktani and the difficulty remaining unresolved.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Completion Principle",
+    "candidates": [
+      "Completion Principle",
+      "Blood Mid-Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly articulate the 'Completion Principle' \u2014 that karet liability for piggul requires all permitting factors to have been sacrificed \u2014 which is precisely what the 'Completion Principle' prose section describes, including the 'yeiratzeh/lo yeiratzeh' verse derivation that appears verbatim in item 2.",
+      "chosen_heading": "Completion Principle",
+      "current_heading": "Completion Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Blood Mid-Process",
+    "candidates": [
+      "Blood Mid-Process",
+      "Bracketing Solution",
+      "Blood Counts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge about disqualified blood becoming 'mere water,' Rabba's solution involving four bulls and four goats, and Rava's bracketing principle \u2014 are precisely the content described in the 'Blood Mid-Process' prose, which walks through exactly this challenge and these two responses.",
+      "chosen_heading": "Blood Mid-Process",
+      "current_heading": "Blood Mid-Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Blood Counts",
+    "candidates": [
+      "Bracketing Solution",
+      "Blood Counts",
+      "Pigul in Holachah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the discrepancy in blood application counts (43 vs 47 vs 48) on Yom Kippur, which is precisely what the 'Blood Counts' section prose describes, including the mixing debate and the shirayim me'akev dispute.",
+      "chosen_heading": "Blood Counts",
+      "current_heading": "Blood Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Pigul in Holachah",
+    "candidates": [
+      "Pigul in Holachah",
+      "Rabbi Yochanan's Theory",
+      "Reish Lakish's Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the initial dilemma 'Ibbaya lehu: pigul b'holachah mahu?' which is precisely what the prose in candidate 0 describes as the formal posing of the question about pigul thought during holachah of the kometz.",
+      "chosen_heading": "Pigul in Holachah",
+      "current_heading": "Pigul in Holachah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Reish Lakish's Theory",
+    "candidates": [
+      "Rabbi Yochanan's Theory",
+      "Reish Lakish's Theory",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the dispute between Rabbi Yo\u1e25anan and Reish Lakish, the question on Rabbi Yo\u1e25anan, and Rava's explanation of Rabbi Yo\u1e25anan \u2014 are explicitly discussed and quoted in the prose of candidate 1 ('Reish Lakish's Theory'), which covers exactly this content including the bishlama challenge and Rava's principle.",
+      "chosen_heading": "Reish Lakish's Theory",
+      "current_heading": "Reish Lakish's Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Rabbi Yochanan's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge to Rava/Rabbi Yochanan about the slaughter of one of the Shavuot lambs, which is precisely what heading 0 'Abaye's Challenge' describes in its prose.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rabbi Yochanan's Response",
+    "candidates": [
+      "Rabbi Yochanan's Response",
+      "Korban Pesach Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Korban Pesach Case",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the Mishnah about slaughtering one of the lambs with piggul intent for the two loaves, which is the source text being cited as a challenge \u2014 this fits better under the Korban Pesach Case section which discusses chatzi matir in the context of shechitah not yet being the matir, paralleling the Shavuot lambs case.",
+      "second_heading": "Rabbi Yochanan's Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's response to Abaye \u2014 'mi savrat lechem ba'tanur kadosh / shechitat kvasim mikadsha lei / ha'ba l'kadesh k'ba l'hatir dami' \u2014 which is the precise statement quoted and extensively analyzed in the Rabbi Yochanan's Response prose section.",
+      "current_heading": "Rabbi Yochanan's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Korban Pesach Case",
+    "candidates": [
+      "Korban Pesach Case",
+      "Tannaitic Support",
+      "Reish Lakish Reinterprets"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Korban Pesach Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the korban Pesach baraita from A\u1e25erim and Rava's response about the knife sanctifying the blood \u2014 exactly what candidate 0's prose describes in detail.",
+      "second_heading": "Tannaitic Support",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces a new baraita about kemitzah/matan kli/hiluch that candidate 1's prose explicitly identifies as support for Rabbi Yochanan against Reish Lakish.",
+      "current_heading": "Korban Pesach Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Reish Lakish Reinterprets",
+    "candidates": [
+      "Tannaitic Support",
+      "Reish Lakish Reinterprets",
+      "Rabbi Yochanan Prevails",
+      "Minchah Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are Reish Lakish's reinterpretation of the baraita and the Gemara's successive objections to it (order reversal, ba lo l'haktarah, natan b'shtika), exactly as described in the 'Reish Lakish Reinterprets' prose, where the passage currently sits.",
+      "chosen_heading": "Reish Lakish Reinterprets",
+      "current_heading": "Reish Lakish Reinterprets",
+      "moved": false
+    }
+  }
+]

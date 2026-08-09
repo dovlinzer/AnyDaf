@@ -1,0 +1,184 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Price & Kinyan",
+    "candidates": [
+      "Intro & Baraita",
+      "Price & Kinyan",
+      "Rav & Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts exactly the exchange described in candidate 1's prose \u2014 Huna questioning why price-setting matters given physical unloading, and Ravina's answer about mental finality (samcha daatei/lo samcha daatei) \u2014 making this the clear home for the item.",
+      "chosen_heading": "Price & Kinyan",
+      "current_heading": "Price & Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav & Shmuel",
+    "candidates": [
+      "Rav & Shmuel",
+      "Seller Permission",
+      "Chattels via Meshicha",
+      "Hagbaha vs Meshicha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ravina's challenge citing Rav and Shmuel's ruling AND Rav Ashi's rebuttal about 'zil kani,' and the current heading 'Rav & Shmuel' with its prose explicitly covers both the citation and the resolution in one unified discussion, matching the passage perfectly.",
+      "chosen_heading": "Rav & Shmuel",
+      "current_heading": "Rav & Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Hagbaha vs Meshicha",
+    "candidates": [
+      "Seller Permission",
+      "Chattels via Meshicha",
+      "Hagbaha vs Meshicha",
+      "Wallet Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah from Kiddushin establishing that chattels are acquired by meshicha, then adds the Sura/Pumbedita qualification about hagbahah \u2014 this covers both the Mishnah citation (heading 1's prose) and the academic qualification (heading 2's prose), but the passage as a single unit is introduced by 'tnan hatam' which heading 1 explicitly discusses, making heading 1 the correct home for this combined quote that introduces the topic before the qualification is elaborated.",
+      "chosen_heading": "Chattels via Meshicha",
+      "current_heading": "Hagbaha vs Meshicha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Wallet Theft",
+    "candidates": [
+      "Hagbaha vs Meshicha",
+      "Wallet Theft",
+      "Different Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Abaye's teaching, the baraita objection about the wallet thief, and Abaye's resolution via 'be-midi de-ba'ei mista' \u2014 which is exactly the content described in the 'Wallet Theft' prose section.",
+      "chosen_heading": "Wallet Theft",
+      "current_heading": "Wallet Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Different Objects",
+    "candidates": [
+      "Different Objects",
+      "Produce Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about acquisition in the seller's domain and Rav Nachman bar Yitzchak's 'letzitadin katani' resolution, which is precisely what the 'Different Objects' prose section discusses in detail.",
+      "chosen_heading": "Different Objects",
+      "current_heading": "Different Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Produce Cases",
+    "candidates": [
+      "Produce Cases",
+      "Animal Acquisition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the produce/flax Mishnah and the 'large bundles' resolution, which is precisely what the 'Produce Cases' prose describes in detail.",
+      "chosen_heading": "Produce Cases",
+      "current_heading": "Produce Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Animal Acquisition",
+    "candidates": [
+      "Animal Acquisition",
+      "Kor Lump Sum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the acquisition of large and small domesticated animals through mesira, hagbahah, and meshicha, which is precisely what the 'Animal Acquisition' section's prose addresses.",
+      "chosen_heading": "Animal Acquisition",
+      "current_heading": "Animal Acquisition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Kor Lump Sum",
+    "candidates": [
+      "Kor Lump Sum",
+      "Per-Unit Pricing",
+      "Vessel Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the lump-sum kor case AND the per-unit pricing case in a single quoted text, and the current heading 'Kor Lump Sum' is where it sits; the prose under heading 0 discusses both scenarios as part of the same Rav and Shmuel ruling, making it the best match for the combined passage.",
+      "chosen_heading": "Kor Lump Sum",
+      "current_heading": "Kor Lump Sum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Vessel Ownership",
+    "candidates": [
+      "Per-Unit Pricing",
+      "Vessel Ownership",
+      "Sub-Unit Pricing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about the measuring vessel belonging to one of the parties and acquisition occurring even before the vessel is filled, which is precisely what the 'Vessel Ownership' section's prose describes and analyzes.",
+      "chosen_heading": "Vessel Ownership",
+      "current_heading": "Vessel Ownership",
+      "moved": false
+    }
+  }
+]

@@ -74,7 +74,7 @@
           "timestamp": "08:18"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -211,8 +211,8 @@
           "timestamp": "25:38"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Establishing That All Tamei Persons Cannot Eat Teruma via Pesach Pasuk Interpretation",
@@ -342,8 +342,8 @@
           "timestamp": "40:48"
         }
       ],
-      "sefaria_index": 33,
-      "matched": true
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Yoledet Case: Proving Mechusar Kippurim Can Eat Teruma Despite Needing Korban (continued)",
@@ -356,8 +356,8 @@
           "timestamp": "40:51"
         }
       ],
-      "sefaria_index": 31,
-      "matched": true
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Three Psukim on Purity Stages: Explaining the Hierarchy of Maaser, Teruma, and Kodshim (continued) (continued)",
@@ -370,8 +370,8 @@
           "timestamp": "41:34"
         }
       ],
-      "sefaria_index": 34,
-      "matched": true
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Yoledet Case: Proving Mechusar Kippurim Can Eat Teruma Despite Needing Korban (continued) (continued)",
@@ -394,8 +394,8 @@
           "timestamp": "42:00"
         }
       ],
-      "sefaria_index": 34,
-      "matched": false
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Three Psukim on Purity Stages: Explaining the Hierarchy of Maaser, Teruma, and Kodshim (continued) (continued) (continued)",
@@ -408,7 +408,7 @@
           "timestamp": "43:51"
         }
       ],
-      "sefaria_index": 34,
+      "sefaria_index": 30,
       "matched": false
     },
     {
@@ -1441,5 +1441,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "26:18",
+  "amud_b_micro_title": "Zera Aharon",
+  "shiur_start_daf": 74,
+  "shiur_start_amud": "a"
 }

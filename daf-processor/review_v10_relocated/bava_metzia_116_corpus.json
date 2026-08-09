@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Damage Assessment",
+    "candidates": [
+      "Case Setup",
+      "Abaye's Ruling",
+      "Rava's Migo Strategy",
+      "Migo Principle",
+      "Goats Case",
+      "Chazaka Principle",
+      "Rented Items Exception",
+      "Knife Depreciation",
+      "Tosafot Analysis",
+      "Return Reasons",
+      "Mitzvah Rectification",
+      "Ei Avid Lo Mahani",
+      "Error & Lack Effect",
+      "Mishnah Setup",
+      "Proportional Division",
+      "Damage Assessment",
+      "Assessment Impossible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 15,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's analysis of chavta/chavsa collapse scenarios and whether assessment is possible, which is precisely what the 'Damage Assessment' prose describes.",
+      "chosen_heading": "Damage Assessment",
+      "current_heading": "Damage Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Assessment Impossible",
+    "candidates": [
+      "Assessment Impossible",
+      "Location & Ownership",
+      "Shared Yard Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the scenario of nighttime collapse, cleared rubble, and dispersed public witnesses \u2014 exactly what the 'Assessment Impossible' prose discusses.",
+      "chosen_heading": "Assessment Impossible",
+      "current_heading": "Assessment Impossible",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Shared Yard Rights",
+    "candidates": [
+      "Location & Ownership",
+      "Shared Yard Rights",
+      "Knowledge Chazaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about checking whose domain the stones are in and the principle of hamotzi mechavero, which is precisely what heading 0 ('Location & Ownership') describes in its prose \u2014 the question of physical location determining muchzak status \u2014 before the answers about shared yard and partnerships are then discussed under heading 1.",
+      "chosen_heading": "Location & Ownership",
+      "current_heading": "Shared Yard Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Knowledge Chazaka",
+    "candidates": [
+      "Shared Yard Rights",
+      "Knowledge Chazaka",
+      "Tosafot Challenge",
+      "Shevua Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about what the other party claims and its resolution that he says 'eini yodea,' which is precisely the content described in the 'Knowledge Chazaka' section's prose.",
+      "chosen_heading": "Knowledge Chazaka",
+      "current_heading": "Knowledge Chazaka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Shevua Solution",
+    "candidates": [
+      "Tosafot Challenge",
+      "Shevua Solution",
+      "Deduction Method",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous Gemara discussion about the 'esek shevua' mechanism \u2014 the challenge to Rav Nachman, his resolution via oath-obligation, and Rava's paradigm case explaining what 'matter of an oath' means \u2014 which is precisely what the 'Shevua Solution' prose describes.",
+      "chosen_heading": "Shevua Solution",
+      "current_heading": "Shevua Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Deduction Method",
+      "Rava's Position",
+      "Abaye Quality Variance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's position that the recognized stones count toward broken stones (lefi cheshbon shevuros) and the reasoning that 'since he said I don't know, his status is worse,' which matches precisely the content described in the 'Rava's Position' prose.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Abaye Quality Variance",
+    "candidates": [
+      "Abaye Quality Variance",
+      "Tenancy Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Abaye dispute about recognizing stones \u2014 item 1 is Abaye's initial objection and item 2 is his final resolution (lefi cheshbon shelmos / lemivna ravcha), both of which are explicitly discussed in the 'Abaye Quality Variance' prose.",
+      "chosen_heading": "Abaye Quality Variance",
+      "current_heading": "Abaye Quality Variance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tenancy Setup",
+    "candidates": [
+      "Tenancy Setup",
+      "Yossi Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna describing the rental situation where the upper story's floor breaks and the landlord refuses to repair it, which is precisely what the 'Tenancy Setup' prose discusses in detail.",
+      "chosen_heading": "Tenancy Setup",
+      "current_heading": "Tenancy Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Yossi Division",
+    "candidates": [
+      "Yossi Division",
+      "Damage Threshold",
+      "Rava vs. Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei's statement about the lower-story owner providing the ceiling and the upper-story owner providing the plaster, which is exactly what the 'Yossi Division' prose discusses.",
+      "chosen_heading": "Yossi Division",
+      "current_heading": "Yossi Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rava vs. Abaye",
+    "candidates": [
+      "Damage Threshold",
+      "Rava vs. Abaye",
+      "Explicit Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about the threshold of damage (Rav: majority, Shmuel: four handbreadths), which directly matches the 'Damage Threshold' section's prose about what extent of damage permits the tenant to move downstairs, not the 'Rava vs. Abaye' section which misattributes the opinions.",
+      "chosen_heading": "Damage Threshold",
+      "current_heading": "Rava vs. Abaye",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Explicit Conditions",
+    "candidates": [
+      "Rava vs. Abaye",
+      "Explicit Conditions",
+      "Rav Ashi Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava vs. Abaye",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rav vs. Shmuel's dispute over 'most' vs. 'four handbreadths' and the initial Gemara question about 'aliyah zu' vs. 'aliyah stam', which matches the 'Rava vs. Abaye' prose about the beruba/bearbaa dispute and the adam dar chetzyo lemata discussion.",
+      "second_heading": "Explicit Conditions",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss Rava's reading of the explicit condition clause and Rav Ashi's operative interpretation about the house being liened to the upper story, which matches the 'Explicit Conditions' and 'Rav Ashi Rule' sections \u2014 but items 3-4 together span both headings 1 and 2, with item 3 under 'Explicit Conditions' and item 4 under 'Rav Ashi Rule', though as a single split point only one index can be chosen here; the current placement at index 1 is the best single home for items 3-4 given the seam falls after item 1.",
+      "current_heading": "Explicit Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Rav Ashi Rule",
+    "candidates": [
+      "Rav Ashi Rule",
+      "Tosafot Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbi Chiyya ruling about the vine and peach tree, which is explicitly discussed in the 'Rav Ashi Rule' prose as the supporting citation Rav Ashi uses to illustrate his principle.",
+      "chosen_heading": "Rav Ashi Rule",
+      "current_heading": "Rav Ashi Rule",
+      "moved": false
+    }
+  }
+]

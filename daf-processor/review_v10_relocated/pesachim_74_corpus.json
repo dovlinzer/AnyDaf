@@ -1,0 +1,193 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Pomegranate vs Metal",
+    "candidates": [
+      "Overview & Intro",
+      "Pomegranate vs Metal",
+      "Other Woods Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses why palm and fig wood spits are rejected (moisture seeping out creating a cooking effect), which matches the 'Other Woods Rejected' section's prose about systematic elimination of alternative woods, not the 'Pomegranate vs Metal' section where it currently sits.",
+      "chosen_heading": "Other Woods Rejected",
+      "current_heading": "Pomegranate vs Metal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Other Woods Rejected",
+    "candidates": [
+      "Pomegranate vs Metal",
+      "Other Woods Rejected",
+      "Metal Spit Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the gemara's systematic rejection of alternative woods (oak/carob/sycamore and then pomegranate), which is precisely what the 'Other Woods Rejected' prose describes, including the same details about knots, smooth pomegranate knots, one-year-old saplings, and the cut ends protruding outside the animal.",
+      "chosen_heading": "Other Woods Rejected",
+      "current_heading": "Other Woods Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Metal Spit Debate",
+    "candidates": [
+      "Metal Spit Debate",
+      "Organ Inside/Outside",
+      "Gadi Mekulas Term"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbi Yehuda debate about metal vs. wooden spits and the Rabbis' response about heat conductivity, which is precisely what the 'Metal Spit Debate' prose section describes.",
+      "chosen_heading": "Metal Spit Debate",
+      "current_heading": "Metal Spit Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Gadi Mekulas Term",
+    "candidates": [
+      "Organ Inside/Outside",
+      "Gadi Mekulas Term",
+      "Gadi Mekulas Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yishmael's 'tokh tokh' terminology and Rabbi Tarfon's 'gadi mekulas' term, which is exactly what the 'Gadi Mekulas Term' section's prose describes.",
+      "chosen_heading": "Gadi Mekulas Term",
+      "current_heading": "Gadi Mekulas Term",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Gadi Mekulas Defined",
+    "candidates": [
+      "Gadi Mekulas Defined",
+      "Gadi Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines what constitutes a gadi mekulas and states the basic prohibition, matching heading 0's prose which explains the definition and prohibition, while heading 1's prose covers the exceptions and subsequent talmudic probing which are not yet introduced in this baraita.",
+      "chosen_heading": "Gadi Mekulas Defined",
+      "current_heading": "Gadi Mekulas Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Gadi Exceptions",
+    "candidates": [
+      "Gadi Exceptions",
+      "Whole Roasting Query",
+      "Mulyasa Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the two exceptions (severed limb and boiled limb) and Rav Sheshet's explanation about boiling while attached, which is precisely what the 'Gadi Exceptions' prose describes.",
+      "chosen_heading": "Gadi Exceptions",
+      "current_heading": "Gadi Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Mulyasa Problem",
+    "candidates": [
+      "Whole Roasting Query",
+      "Mulyasa Problem",
+      "Rava vs Abaye",
+      "Pesach Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange between Rabba/Rava and Abaye about the mulyasa \u2014 'hai mulyasa sharya,' Abaye's challenge about blood absorption, and the ke-volo kach polto response \u2014 which is precisely what candidate 2 ('Rava vs Abaye') describes in its prose.",
+      "chosen_heading": "Rava vs Abaye",
+      "current_heading": "Mulyasa Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Pesach Proof",
+    "candidates": [
+      "Rava vs Abaye",
+      "Pesach Proof",
+      "Heart Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's attempt to bring a proof from the Paschal lamb mishnah and the rejection of that proof via the open shechita incision, which is precisely what the 'Pesach Proof' prose describes.",
+      "chosen_heading": "Pesach Proof",
+      "current_heading": "Pesach Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Heart Exception",
+    "candidates": [
+      "Heart Exception",
+      "Clear Liquids Test",
+      "Flour Coating Rules",
+      "Mulyasa Final Rule",
+      "Umtsa & Coals",
+      "Testicles Rules",
+      "Arteries & Shechita",
+      "Liver on Coals",
+      "Meat & Vinegar",
+      "Ravina's Vinegar",
+      "Vinegar Reuse",
+      "Fresh Vinegar Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's attempted proof from the halacha of the heart (tearing it to remove blood, and the principle of ke-volo kach polto), which is precisely what the 'Heart Exception' section's prose discusses.",
+      "chosen_heading": "Heart Exception",
+      "current_heading": "Heart Exception",
+      "moved": false
+    }
+  }
+]

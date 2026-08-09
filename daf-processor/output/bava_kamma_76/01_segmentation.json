@@ -146,7 +146,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Moving to the Mishnah: Theft, Sanctification, and Slaughter—The Question of Whether Sanctification Constitutes a Sale",
@@ -203,7 +203,7 @@
           "timestamp": "42:34"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -565,5 +565,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "53:10",
+  "amud_b_micro_title": "Third Answer: Animal Mum",
+  "shiur_start_daf": 75,
+  "shiur_start_amud": "b"
 }

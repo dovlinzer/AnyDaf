@@ -1,12 +1,9 @@
-# Makkot 24 — Daf Yomi Shiur
-
+[DAF:23b]
 ## Malkot & Kapara
 
-### Malkot Atonement
 
-> **Hebrew/Aramaic:** רַבִּי חֲנַנְיָא בֶּן עֲקַשְׁיָא אוֹמֵר: רָצָה הַקָּדוֹשׁ בָּרוּךְ הוּא לְזַכּוֹת אֶת יִשְׂרָאֵל, לְפִיכָךְ הִרְבָּה לָהֶם תּוֹרָה וּמִצְוֹת, שֶׁנֶּאֱמַר ״ה׳ חָפֵץ לְמַעַן צִדְקוֹ יַגְדִּיל תּוֹרָה וְיַאְדִּיר״.
->
-> **Translation:** **Rabbi Ḥananya ben Akashya says: The Holy One, Blessed be He, sought to confer merit upon the Jewish people; therefore, He increased for them Torah and mitzvot,** as each mitzva increases merit, **as it is stated: "It pleased the Lord for the sake of His righteousness to make the Torah great and glorious"** (Isaiah 42:21).
+
+### Malkot Atonement
 
 Masechet Makkot concludes on a daf that brings together some of the most theologically rich material in all of Shas, and before turning to the text itself, it is worth pausing to reflect on a theme from the preceding daf that bears directly on the discussion ahead: the role that *malkot* plays within the broader structure of the *masechta*.
 
@@ -24,29 +21,13 @@ Whether or not *vehu rachum* is recited, its presence or absence reflects a theo
 
 ### Hanina: Karet Atonement
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: חֲלוּקִין עָלָיו חֲבֵרָיו עַל רַבִּי חֲנַנְיָה בֶּן גַּמְלִיאֵל. אָמַר רַב אַדָּא בַּר אַהֲבָה: אָמְרִי בֵּי רַב, תְּנֵינַן: אֵין בֵּין שַׁבָּת לְיוֹם הַכִּפּוּרִים אֶלָּא שֶׁזֶּה זְדוֹנוֹ בִּידֵי אָדָם וְזֶה זְדוֹנוֹ בְּהִכָּרֵת. וְאִם אִיתָא, אִידֵּי וְאִידֵּי בִּידֵי אָדָם הוּא.
->
-> **Translation:** **Rabbi Yoḥanan says: Rabbi Ḥananya ben Gamliel's colleagues are in disagreement with him** and hold that lashes do not exempt the sinner from *karet*. **Rav Adda bar Ahava said** that this is so, as **they say** in **the school of Rav** that **we learned** in a mishna (*Megilla* 7b): **The difference between Shabbat and Yom Kippur** with regard to the labor prohibited on those days **is only that** in **this** case, Shabbat, **its intentional** desecration is punishable **by human hands,** as he is stoned by a court based on the testimony of witnesses who forewarned the transgressor, **and** in **that** case, Yom Kippur, **its intentional** desecration is punishable at the hand of God, **with *karet*. And if** the statement of Rabbi Ḥananya ben Gamliel **is so,** in both **this** case, Shabbat, **and that** case, Yom Kippur, the punishment would be **by human hands.**
-
 The subsequent *Mishna* addresses the matter more directly, stating that one who sits for *malkot* is exempt from *karet*. That is a remarkable claim — *malkot* atones even for a sin whose divine penalty is *karet*, a kind of spiritual excision that approaches the gravity of a divine death penalty. This is explicitly the position of Rabbi Hanina ben Gamliel, and on its face it sounds like a *da'at yachid*, a minority opinion. Indeed, earlier in the *masechta* the *Gemara* seemed to contemplate the possibility that *karet* plus *malkot*, or even *mita* plus *malkot*, could coexist — not treating *malkot* as an atonement that eliminates *karet* at all.
 
 ### Gemara Generalizes
 
-> **Hebrew/Aramaic:** רַב נַחְמָן בַּר יִצְחָק אוֹמֵר: הָא מַנִּי – רַבִּי יִצְחָק הִיא, דְּאָמַר: מַלְקוֹת בְּחַיָּיבֵי כָרֵיתוֹת לֵיכָּא. דְּתַנְיָא, רַבִּי יִצְחָק אוֹמֵר: חַיָּיבֵי כָרֵיתוֹת בַּכְּלָל הָיוּ, וְלָמָּה יָצָאת כָּרֵת בַּאֲחוֹתוֹ – לְדוּנוֹ בְּכָרֵת וְלֹא בְּמַלְקוֹת. אָמַר רַב אַדָּא בַּר אַהֲבָה אָמַר רַב: הֲלָכָה כְּרַבִּי חֲנַנְיָא בֶּן גַּמְלִיאֵל.
->
-> **Translation:** **Rav Naḥman bar Yitzḥak says:** There is no proof from here that Rabbi Ḥananya ben Gamliel's colleagues disagree with him, as in accordance with **whose** opinion **is this** mishna taught? **It is** in accordance with the opinion of **Rabbi Yitzḥak, who says: There are no lashes in** cases of **those liable** to receive ***karet*. As it is taught** in a *baraita* that **Rabbi Yitzḥak says:** All **those liable** to receive ***karet*** in cases of forbidden relations **were included in** the principle: "For whoever shall commit any of these abominations, even the people who commit them shall be cut off from among their people" (Leviticus 18:29). **And why was *karet*** in the case of relations with **one's sister excluded** from this verse and mentioned independently (Leviticus 20:17)? It is **to sentence** one who transgresses a prohibition punishable with *karet* **to** be punished **with *karet*** alone, **and not with lashes.** 
->
-> **Rav Adda bar Ahava says** that **Rav says: The *halakha*** is **in accordance with** the opinion of **Rabbi Ḥananya ben Gamliel.**
-
 The *Gemara*, however, goes ahead and reads even that earlier dispute as ultimately consistent with Rabbi Hanina ben Gamliel's position. Everyone, the *Gemara* concludes, holds that *malkot* exempts one from *karet*. It universalizes what appeared to be a lone opinion. This is worth noting: even the *Gemara*'s universalization is not fully explicit and not obviously a consensus; it represents the *Gemara*'s own interpretive move.
 
 ### Every Aveira Chayav
-
-The subsequent passage in the Mishna addresses the character of transgressions and merit:
-
-> **Hebrew/Aramaic:** אֲשֶׁר יַעֲשֶׂה אֹתָם הָאָדָם וָחַי בָּהֶם״. הָא הַיּוֹשֵׁב וְלָא עָבַר עֲבֵירָה נוֹתְנִין לוֹ שָׂכָר כָּעוֹשֶׂה מִצְוָה. רַבִּי שִׁמְעוֹן בַּר רַבִּי אוֹמֵר: הֲרֵי הוּ אוֹמֵר ״רַק חֲזַק לְבִלְתִּי אֲכֹל (אֶת) הַדָּם כִּי הַדָּם הוּא הַנָּפֶשׁ וְגוֹ׳״ וּמָה אִם הַדָּם, שֶׁנַּפְשׁוֹ שֶׁל הָאָדָם קָצָה מִמֶּנּוּ – הַפּוֹרֵשׁ מִמֶּנּוּ מְקַבֵּל שָׂכָר, גָּזֵל וַעֲרָיוֹת, שֶׁנַּפְשׁוֹ שֶׁל אָדָם מִתְאַוָּה לָהֶן וּמְחַמַּדְתָּן – הַפּוֹרֵשׁ מֵהֶן עַל אַחַת כַּמָּה וְכַמָּה שֶׁיִּזְכֶּה לוֹ וּלְדוֹרוֹתָיו וּלְדוֹרוֹת דּוֹרוֹתָיו עַד סוֹף כׇּל הַדּוֹרוֹת.
->
-> **Translation:** **"That a person shall perform and live by them"** (Leviticus 18:5). It is inferred **that** with regard to **one who sits and did not perform a transgression,** God **gives him a reward like** that received by one who **performs a mitzva. Rabbi Shimon bar Rabbi** Yehuda HaNasi **says** that as the verse **states: "Only be steadfast to not eat the blood, as the blood is the soul"** (Deuteronomy 12:23), it can be derived *a fortiori*: **And if** with regard to **the blood, which a person's soul loathes, one who abstains from its** consumption **receives a reward** for that action, **then concerning robbery and** intercourse with **forbidden relatives, which a person's soul desires and covets, one who abstains from their** performance and overcomes his inclination, **all the more so that he and his descendants and the descendants of his descendants until the end of all generations will merit** a reward.
 
 Rabbi Hanina ben Gamliel's formulation, however, does something further and more striking. Having established that *malkot* atones for *karet*, and that *karet* approximates a divine death penalty, he then generalizes: *ma over aveira achat notel nafsho aleha* — anyone who transgresses even a single *aveira* is in some sense deserving of the loss of his life. This is a considerable elevation of the stakes. Not every *aveira* carries *karet*, let alone a death penalty. But once one has established that *malkot* atones for something as grave as *karet*, and once one reads *karet* as a form of divinely imposed death, then one can argue that every offense punishable by *malkot* carries, in principle, the weight of a death-deserving transgression.
 
@@ -74,6 +55,8 @@ The result is a striking dynamic at the conclusion of this *masechta*: on one ha
 
 ## Christian Polemic
 
+
+
 ### Anti-Christian Context
 
 There is a further dimension to this ending that is worth considering seriously. The entire concluding sequence of the *masechta* — the *Mishna* of Rabbi Chananya ben Akashya, the distillation passages that follow, and the final aggadah of Rabbi Akiva — can be read, at least in part, as a response to a Christian critique. Devorah Steinmetz has written perceptively on this theme in the context of these closing *dapim*, and while full justice to her argument cannot be done here, the basic contours are worth tracing.
@@ -88,17 +71,15 @@ Against this, the closing passages of Masechet Makkot present a diametrically op
 
 ### Earned Merit
 
-There is a further contrast worth noting. In the Christian framework, salvation comes through divine grace — no human being can earn it through acts. In the *Mishna*'s formulation, the reward is *earned*: by actively refraining, by choosing not to transgress, Israel *becomes deserving* of reward. The merit is genuinely theirs. This is not a passive reception of grace but an active, if quiet, form of *avodat Hashem*. One might ask how genuine the merit is if one simply refrains from acts that are, in any case, prohibited — but the *Mishna* is explicit: the restraint itself, exercised because of the divine command, constitutes *mitzvah*.
+There is a further contrast worth noting. In the Christian framework, salvation comes through divine grace — no human being can earn it through acts. In the *Mishna*'s formulation, the reward is *earned*: by actively refraining, by choosing not to transgress, Israel *becomes deserving* of reward. The merit is genuinely theirs. This is not a passive reception of grace but an active, if quiet, form of *avodat Hashem*. One might ask how genuine the merit is if one simply refrains from acts that are, in any case, prohibited — but the *Mishna* is explicit: the restraint itself, exercised because of the divine command, constitutes *mitzvah*. That said, a subtle difficulty lurks here: how active does one's non-performance actually need to be? If there is no *Beit HaMikdash*, for instance, one is not in any practical position to commit *pigul*, *notar*, or *vetamei* — the question of whether the resulting abstention generates genuine *zechus* is less obvious than it first appears, and is one the later material will bear on more directly.
 
 ---
 
 ## 613 Mitzvot
 
-### Rav Simlai 613
 
-> **Hebrew/Aramaic:** דָּרַשׁ רַבִּי שִׂמְלַאי: שֵׁשׁ מֵאוֹת וּשְׁלֹשׁ עֶשְׂרֵה מִצְוֹת נֶאֶמְרוּ לוֹ לְמֹשֶׁה, שְׁלֹשׁ מֵאוֹת וְשִׁשִּׁים וְחָמֵשׁ לָאוִין כְּמִנְיַן יְמוֹת הַחַמָּה, וּמָאתַיִם וְאַרְבָּעִים וּשְׁמוֹנָה עֲשֵׂה כְּנֶגֶד אֵיבָרָיו שֶׁל אָדָם.
->
-> **Translation:** **Rabbi Simlai taught:** There were **613 mitzvot stated to Moses** in the Torah, consisting of **365 prohibitions corresponding to the number of days** in **the solar year, and 248 positive** mitzvot **corresponding to** the number of **a person's limbs.**
+
+### Rav Simlai 613
 
 The *Gemara* now continues, four lines from the bottom of the *daf*. *Darsh Rav Simlai: shesh meot u-shlosha asar mitzvot ne'emru lo le-Moshe* — Rav Simlai expounded that 613 *mitzvot* were given to Moshe. This teaching serves as a natural elaboration of the preceding theme: God wished to grant Israel merit, and here is just how abundantly He furnished the means for it.
 
@@ -114,13 +95,16 @@ The 613 divides as follows: *shlosh meot ve-shishim ve-chamisha lavin ke-minyan 
 
 The *Rivan* explains the logic of the correspondence. The *lo ta'aseh*, the negative commandment, is passive — it concerns what one refrains from doing rather than what one actively performs. As such, it does not engage the body directly; instead, it is time that governs it. Every single day of the solar year carries the binding obligation not to do certain things. The restriction applies continuously, as time itself imposes it. The *mitzvot asei*, by contrast, are active — they require the body to get up and act. Hence they correspond to the limbs: the body itself is the instrument of their fulfillment.
 
+[DAF:24a]
 ### Torah Tziva 611
 
-> **Hebrew/Aramaic:** אָמַר רַב הַמְנוּנָא: מַאי קְרָא – ״תּוֹרָה צִוָּה לָנוּ מֹשֶׁה מוֹרָשָׁה״, ״תּוֹרָה״ בְּגִימַטְרִיָּא שֵׁית מְאָה וְחַד סְרֵי הָוֵי, ״אָנֹכִי״ וְ״לֹא יִהְיֶה לְךָ״ – מִפִּי הַגְּבוּרָה שְׁמַעְנוּם.
->
-> **Translation:** **Rav Hamnuna said: What is the verse** that alludes to this? It is written: **"Moses commanded to us the Torah, an inheritance** of the congregation of Jacob" (Deuteronomy 33:4). The word **Torah, in** terms of **its numerical value [*gimatriyya*],** **is 611,** the number of mitzvot that were received and taught by Moses our teacher. In addition, there are two mitzvot: **"I am** the Lord your God" and: **"You shall have** no other gods" (Exodus 20:2, 3), the first two of the Ten Commandments, that **we heard from the mouth of the Almighty,** for a total of 613.
+> **Hebrew/Aramaic:** דָּרַשׁ רַבִּי שִׂמְלַאי: שֵׁשׁ מֵאוֹת וּשְׁלֹשׁ עֶשְׂרֵה מִצְוֹת נֶאֶמְרוּ לוֹ לְמֹשֶׁה, שְׁלֹשׁ מֵאוֹת וְשִׁשִּׁים וְחָמֵשׁ לָאוִין כְּמִנְיַן יְמוֹת הַחַמָּה, וּמָאתַיִם וְאַרְבָּעִים וּשְׁמוֹנָה עֲשֵׂה כְּנֶגֶד אֵיבָרָיו שֶׁל אָדָם. אָמַר רַב הַמְנוּנָא: מַאי קְרָא – ״תּוֹרָה צִוָּה לָנוּ מֹשֶׁה מוֹרָשָׁה״, ״תּוֹרָה״ בְּגִימַטְרִיָּא
+> **Translation:** § **Rabbi Simlai taught:** There were **613 mitzvot stated to Moses** in the Torah, consisting of **365 prohibitions corresponding to the number of days** in **the solar year, and 248 positive** mitzvot **corresponding to** the number of **a person’s limbs. Rav Hamnuna said: What is the verse** that alludes to this? It is written: **“Moses commanded to us the Torah, an inheritance** of the congregation of Jacob” (Deuteronomy 33:4). The word **Torah, in** terms of **its numerical value [*gimatriyya*],**
 
-Rav Hamnuna identifies the scriptural basis for the number 613. The verse is *Torah tziva lanu Moshe morasha* — "The Torah that Moshe commanded us is a heritage." The word *Torah* in *gematria* equals 611. How does one arrive at 613? *Anochi va-lo yihyeh lecha mi-pi ha-gevura shamaanum* — the first two of the *aseret ha-dibrot*, *anochi* and *lo yihyeh lecha*, we heard directly from God. In the *dibrot*, those two commandments are stated in the first person — *anochi Hashem Elokecha*, *lo yihyeh lecha*. The third commandment, *lo tisa et shem Hashem Elokecha la-shav*, already shifts from *et shmi* to *et shem Hashem*, indicating transmission through Moshe rather than direct divine address. So 611 *mitzvot* came through Moshe, and 2 were received directly from God — total: 613.
+> **Hebrew/Aramaic:** שֵׁית מְאָה וְחַד סְרֵי הָוֵי, ״אָנֹכִי״ וְ״לֹא יִהְיֶה לְךָ״ – מִפִּי הַגְּבוּרָה שְׁמַעְנוּם.
+> **Translation:** **is 611,** the number of mitzvot that were received and taught by Moses our teacher. In addition, there are two mitzvot: **“I am** the Lord your God” and: **“You shall have** no other gods” (Exodus 20:2, 3), the first two of the Ten Commandments, that **we heard from the mouth of the Almighty,** for a total of 613.
+
+*Amar Rav Hamnuna mai kra* — Rav Hamnuna identifies the scriptural basis for the number 613. The verse is *Torah tziva lanu Moshe morasha* — "The Torah that Moshe commanded us is a heritage." The word *Torah* in *gematria* equals 611. How does one arrive at 613? *Anochi va-lo yihyeh lecha mi-pi ha-gevura shamaanum* — the first two of the *aseret ha-dibrot*, *anochi* and *lo yihyeh lecha*, we heard directly from God. In the *dibrot*, those two commandments are stated in the first person — *anochi Hashem Elokecha*, *lo yihyeh lecha*. The third commandment, *lo tisa et shem Hashem Elokecha la-shav*, already shifts from *et shmi* to *et shem Hashem*, indicating transmission through Moshe rather than direct divine address. So 611 *mitzvot* came through Moshe, and 2 were received directly from God — total: 613.
 
 ### Direct from God
 
@@ -144,19 +128,19 @@ The upshot is that we tend to treat 613 as something approaching *halacha le-Mos
 
 ## David: 613 to 11
 
+
+
 ### David's 11
 
-> **Hebrew/Aramaic:** בָּא דָּוִד וְהֶעֱמִידָן עַל אַחַת עֶשְׂרֵה, דִּכְתִיב ״מִזְמוֹר לְדָוִד [ה׳] מִי יָגוּר בְּאׇהֳלֶךָ מִי יִשְׁכֹּן בְּהַר קׇדְשֶׁךָ. הוֹלֵךְ תָּמִים וּפוֹעֵל צֶדֶק וְדֹבֵר אֱמֶת בִּלְבָבוֹ, לֹא רָגַל עַל לְשֹׁנוֹ לֹא עָשָׂה לְרֵעֵהוּ רָעָה וְחֶרְפָּה לֹא נָשָׂא עַל קְרֹבוֹ. נִבְזֶה בְּעֵינָיו נִמְאָס וְאֶת יִרְאֵי ה׳ יְכַבֵּד נִשְׁבַּע לְהָרַע וְלֹא יָמִר. כַּסְפּוֹ לֹא נָתַן בְּנֶשֶׁךְ וְשֹׁחַד עַל נָקִי לֹא לָקָח עֹשֵׂה אֵלֶּה לֹא יִמּוֹט לְעוֹלָם״.
->
-> **Translation:** King **David came and established** the 613 mitzvot **upon eleven** mitzvot, **as it is written: "A Psalm of David. Lord, who shall sojourn in Your Tabernacle? Who shall dwell upon Your sacred mountain? He who walks wholeheartedly, and works righteousness, and speaks truth in his heart. Who has no slander upon his tongue, nor does evil to his neighbor, nor takes up reproach against his relative. In whose eyes a vile person is despised, and he honors those who fear the Lord; he takes an oath to his own detriment, and changes not. He neither gives his money with interest, nor takes a bribe against the innocent. He who performs these shall never be moved"** (Psalms, chapter 15).
+> **Hebrew/Aramaic:** (סימן דמשמק סק).
+> **Translation:** The Gemara provides **a mnemonic** for the biblical figures cited in the course of the discussion that follows: ***Dalet*, *mem*, *shin*, *mem*, *kuf*; *samekh*, *kuf*;** representing David, Micah, Isaiah, Amos, Habakkuk, Amos, and Ezekiel.
+
+> **Hebrew/Aramaic:** בָּא דָּוִד וְהֶעֱמִידָן עַל אַחַת עֶשְׂרֵה, דִּכְתִיב ״מִזְמוֹר לְדָוִד [ה׳] מִי יָגוּר בְּאׇהֳלֶךָ מִי יִשְׁכֹּן בְּהַר קׇדְשֶׁךָ. הוֹלֵךְ תָּמִים וּפוֹעֵל צֶדֶק וְדֹבֵר אֱמֶת בִּלְבָבוֹ, לֹא רָגַל עַל לְשֹׁנוֹ לֹא עָשָׂה לְרֵעֵהוּ רָעָה וְחֶרְפָּה לֹא נָשָׂא עַל קְרֹבוֹ. נִבְזֶה בְּעֵינָיו נִמְאָס וְאֶת יִרְאֵי ה׳ יְכַבֵּד נִשְׁבַּע לְהָרַע וְלֹא יָמִר. כַּסְפּוֹ לֹא נָתַן בְּנֶשֶׁךְ וְשֹׁחַד עַל נָקִי לֹא לָקָח עֹשֵׂה אֵלֶּה לֹא יִמּוֹט לְעוֹלָם״.
+> **Translation:** Rabbi Simlai continued: King **David came and established** the 613 mitzvot **upon eleven** mitzvot, **as it is written: “A Psalm of David. Lord, who shall sojourn in Your Tabernacle? Who shall dwell upon Your sacred mountain? He who walks wholeheartedly, and works righteousness, and speaks truth in his heart. Who has no slander upon his tongue, nor does evil to his neighbor, nor takes up reproach against his relative. In whose eyes a vile person is despised, and he honors those who fear the Lord; he takes an oath to his own detriment, and changes not. He neither gives his money with interest, nor takes a bribe against the innocent. He who performs these shall never be moved”** (Psalms, chapter 15). Eleven attributes that facilitate one’s entry into the World-to-Come appear on this list.
 
 *Ba David ve-he'emidam al achat esrei* — David came and reduced them to eleven. The source is *Mizmor le-David* (Psalm 15): *Hashem mi yagur be-oholecha, mi yishkon be-har kodshecha* — who is fit to dwell in God's tent, who may reside on His holy mountain? The answer is a person who embodies eleven qualities, which the *Gemara* now enumerates: *holech tamim*, *po'el tzedek*, *ve-doveir emet bilvavo*, *lo ragal al l'shono*, *lo asah le-rei'eihu ra'ah*, *ve-cherpa lo nasa al karovo*, *nivzeh be-einav nimas*, *ve-et yirei Hashem yichabed*, *nishba le-hara ve-lo yamir*, *kaspo lo natan be-neshech*, *ve-shochad al naki lo lakach*. *Oseh eleh lo yimmot le-olam* — whoever does all of these will never stumble.
 
 ### Ethics Focus
-
-> **Hebrew/Aramaic:** ״הוֹלֵךְ תָּמִים״ – זֶה אַבְרָהָם, דִּכְתִיב ״הִתְהַלֵּךְ לְפָנַי וֶהְיֵה תָמִים״. ״פּוֹעֵל צֶדֶק״ – כְּגוֹן אַבָּא חִלְקִיָּהוּ.
->
-> **Translation:** **"He who walks wholeheartedly"; this** is referring to one who conducts himself like our forefather **Abraham, as it is written** concerning him: **"Walk before Me and be wholehearted"** (Genesis 17:1). **"Works righteousness";** this is referring to one **such as Abba Ḥilkiyyahu.**
 
 What is immediately striking about this list is its character. Almost all eleven qualities concern integrity, honesty, and *bein adam la-chaveiro*. By contrast, the vast bulk of the material covered in Masechet Sanhedrin and throughout Masechet Makkot — the sins that incur death penalties or lashings — are fundamentally *religious* sins, ritual transgressions. The distillation David offers moves almost entirely in the direction of ethical and interpersonal conduct.
 
@@ -172,9 +156,11 @@ This is, admittedly, a reading with radical implications. The *Gemara* does soun
 
 ### First Two Traits
 
-> **Hebrew/Aramaic:** ״הוֹלֵךְ תָּמִים״ – זֶה אַבְרָהָם, דִּכְתִיב ״הִתְהַלֵּךְ לְפָנַי וֶהְיֵה תָמִים״. ״פּוֹעֵל צֶדֶק״ – כְּגוֹן אַבָּא חִלְקִיָּהוּ. ״וְדוֹבֵר אֱמֶת בִּלְבָבוֹ״ – כְּגוֹן רַב סָפְרָא.
->
-> **Translation:** **"He who walks wholeheartedly"; this** is referring to one who conducts himself like our forefather **Abraham, as it is written** concerning him: **"Walk before Me and be wholehearted"** (Genesis 17:1). **"Works righteousness";** this is referring to one **such as Abba Ḥilkiyyahu.** **"And speaks truth in his heart";** this is referring to one **such as Rav Safra.**
+> **Hebrew/Aramaic:** ״הוֹלֵךְ תָּמִים״ – זֶה אַבְרָהָם, דִּכְתִיב ״הִתְהַלֵּךְ לְפָנַי וֶהְיֵה תָמִים״.
+> **Translation:** The Gemara analyzes these verses: **“He who walks wholeheartedly”; this** is referring to one who conducts himself like our forefather **Abraham, as it is written** concerning him: **“Walk before Me and be wholehearted”** (Genesis 17:1).
+
+> **Hebrew/Aramaic:** ״פּוֹעֵל צֶדֶק״ – כְּגוֹן אַבָּא חִלְקִיָּהוּ.
+> **Translation:** **“Works righteousness”;** this is referring to one **such as Abba Ḥilkiyyahu,** a laborer who would not pause from his labor even to greet people; he righteously continued working.
 
 The *Gemara* proceeds to identify exemplars for each quality. *Holech tamim* — who walks in blamelessness — *zeh Avraham*, that is Abraham, as it is written: *hithalech lefanai ve-heyeh tamim* — "Walk before Me and be wholehearted." That is a remarkably apt and resonant connection. *Po'el tzedek*, one who acts with righteousness, is illustrated by reference to Abba Chilkiyahu, grandson of Choni HaMa'agel. The *Rivan* notes why Abba Chilkiyahu exemplifies this trait: he was so scrupulous about not wasting a moment of his employer's time that when rabbis came to speak with him while he was working in a field, he would not even pause to greet them. His employer's time was not his to give away. There is something powerful about identifying a moral quality by calling to mind a person who embodied it — one moves from abstraction to concrete recognition.
 
@@ -182,15 +168,27 @@ The *Gemara* proceeds to identify exemplars for each quality. *Holech tamim* —
 
 ## David: 613 to 11 (II)
 
+
+
 ### Truth & Honesty
 
-> **Hebrew/Aramaic:** ״וְדוֹבֵר אֱמֶת בִּלְבָבוֹ״ – כְּגוֹן רַב סָפְרָא. ״לֹא רָגַל עַל לְשֹׁנוֹ״ – זֶה יַעֲקֹב אָבִינוּ, דִּכְתִיב ״אוּלַי יְמֻשֵּׁנִי אָבִי וְהָיִיתִי בְעֵינָיו כִּמְתַעְתֵּעַ״. ״לֹא עָשָׂה לְרֵעֵהוּ רָעָה״ – שֶׁלֹּא יָרַד לְאוּמָּנוּת חֲבֵירוֹ. ״וְחֶרְפָּה לֹא נָשָׂא עַל קְרֹבוֹ״ – זֶה הַמְקָרֵב אֶת קְרוֹבָיו.
->
-> **Translation:** **"And speaks truth in his heart";** this is referring to one **such as Rav Safra.** **"Who has no slander upon his tongue"; this** is referring to one who conducts himself like **our forefather Jacob,** **as it is written: "Perhaps my father will feel me, and I will be in his eyes like a fraud"** (Genesis 27:12). **"Nor does evil to his neighbor";** this is referring to one **who did not infringe upon another's trade.** **"Nor takes up reproach against his relative"; this** is referring to **one who draws his relatives near.**
+> **Hebrew/Aramaic:** ״וְדוֹבֵר אֱמֶת בִּלְבָבוֹ״ – כְּגוֹן רַב סָפְרָא.
+> **Translation:** **“And speaks truth in his heart”;** this is referring to one **such as Rav Safra,** who was reciting *Shema* when a person approached him to purchase an item. He intended to accept the man’s offer, but he was unable to respond because it is prohibited to interrupt the recitation of *Shema*. The buyer misinterpreted Rav Safra’s silence and concluded that Rav Safra demanded a higher price, so he raised his offer. Rav Safra insisted on selling him the item for the sum that he was offered initially.
+
+> **Hebrew/Aramaic:** ״לֹא רָגַל עַל לְשֹׁנוֹ״ – זֶה יַעֲקֹב אָבִינוּ, דִּכְתִיב ״אוּלַי יְמֻשֵּׁנִי אָבִי וְהָיִיתִי בְעֵינָיו כִּמְתַעְתֵּעַ״.
+> **Translation:** **“Who has no slander upon his tongue”; this** is referring to one who conducts himself like **our forefather Jacob,** who did not want to mislead his father in order to receive his blessings, **as it is written: “Perhaps my father will feel me, and I will be in his eyes like a fraud”** (Genesis 27:12).
 
 *Ve-doveir emet be-libo*, speaking truth in one's heart, is illustrated by the famous story of Rav Safra. A buyer came to purchase goods from Rav Safra, who was in the middle of *davening* and could not respond. The buyer, assuming Rav Safra's silence indicated reluctance, kept raising his offer. When Rav Safra finished *davening*, he insisted on selling at the original price — because that was the price he had intended from the beginning, and his inner resolve constituted a form of commitment he would not violate even though nothing had been said aloud. That is *doveir emet be-libo*: fidelity to the truth one holds internally, not merely the truth one speaks.
 
 *Lo ragal al l'shono*, no deceit on his tongue, is associated with *Yaakov Avinu*. The *Gemara* cites the verse *ve-ehi ve-einav ki-mte'a ve-haveiti alai kelalah* — Yaakov's fear that his father would see through his disguise and curse him rather than bless him. The *Rivan* reads this as evidence that Yaakov was himself deeply uncomfortable with the ruse, and that his true nature was one of honest speech. His mother Rivkah pushed him into the deception; his own inclination was against it. *Titen emet le-Yaakov* — truth is Yaakov's defining attribute, even if this particular episode requires careful reading. The problematics of Yaakov's biography are real and not to be dismissed, but the tradition holds to the identification.
+
+### Fairness & Family
+
+> **Hebrew/Aramaic:** ״לֹא עָשָׂה לְרֵעֵהוּ רָעָה״ – שֶׁלֹּא יָרַד לְאוּמָּנוּת חֲבֵירוֹ.
+> **Translation:** **“Nor does evil to his neighbor”;** this is referring to one **who did not infringe upon another’s trade,** constituting illegal competition.
+
+> **Hebrew/Aramaic:** ״וְחֶרְפָּה לֹא נָשָׂא עַל קְרֹבוֹ״ – זֶה הַמְקָרֵב אֶת קְרוֹבָיו.
+> **Translation:** **“Nor takes up reproach against his relative”; this** is referring to **one who draws his relatives near,** and does not distance them when they embarrass him.
 
 *Lo asah le-rei'eihu ra'ah*, he does not do harm to his neighbor — this is explained as refraining from encroaching destructively on another's livelihood, specifically *shelo yarad le-umanut chaveiro*, not undercutting a competitor's business in a harmful way. This does not mean that competition is impermissible — there is an entire *sugya* in Bava Batra about fair competition, which benefits consumers and is legitimate in principle. The prohibition is against predatory behavior: setting up a business specifically to drain away someone else's customers, or worse, actively sabotaging a competitor. As a concrete example: placing someone outside a competitor's shop to lure customers away with the announcement of a sale at your own establishment crosses the line.
 
@@ -198,23 +196,34 @@ The *Gemara* proceeds to identify exemplars for each quality. *Holech tamim* —
 
 ### Disdaining Evil
 
-> **Hebrew/Aramaic:** ״נִבְזֶה בְּעֵינָיו נִמְאָס״ – זֶה חִזְקִיָּהוּ הַמֶּלֶךְ, שֶׁגֵּירַר עַצְמוֹת אָבִיו בְּמִטָּה שֶׁל חֲבָלִים. ״וְאֶת יִרְאֵי ה׳ יְכַבֵּד״ – זֶה יְהוֹשָׁפָט מֶלֶךְ יְהוּדָה, שֶׁבְּשָׁעָה שֶׁהָיָה רוֹאֶה תַּלְמִיד חָכָם הָיָה עוֹמֵד מִכִּסְּאוֹ וּמְחַבְּקוֹ וּמְנַשְּׁקוֹ וְקוֹרֵא לוֹ ״אָבִי אָבִי, רַבִּי רַבִּי, מָרִי מָרִי״.
->
-> **Translation:** **"In whose eyes a vile person is despised"; this** is referring to one who conducts himself like **King Hezekiah, who dragged the bones of his** evil **father,** King Ahaz, **in a bed of ropes.** **"And he honors those who fear the Lord"; this** is referring to one who conducts himself like **Jehoshaphat, king of Judea, who when he would see a Torah scholar would arise from his throne and hug him and kiss him, and call him: My father, my father, my teacher, my teacher, my master, my master.**
+> **Hebrew/Aramaic:** ״נִבְזֶה בְּעֵינָיו נִמְאָס״ – זֶה חִזְקִיָּהוּ הַמֶּלֶךְ, שֶׁגֵּירַר עַצְמוֹת אָבִיו בְּמִטָּה שֶׁל חֲבָלִים.
+> **Translation:** **“In whose eyes a vile person is despised”; this** is referring to one who conducts himself like **King Hezekiah, who dragged the bones of his** evil **father,** King Ahaz, **in a bed of ropes,** because he despised those considered vile by God.
 
 *Nivzeh be-einav nimas*, the one who is despicable is contemptible in his eyes — *zeh Chizkiyahu HaMelech she-girer atzmot aviv be-mita shel chavalim*. Chizkiyahu dragged the bones of his father Menashe, who had worshipped *avodah zarah*, in a bed of ropes through the streets, a public act of dishonor — despite the obligation of *kibbud av va-eim*, which would seem to demand precisely the opposite.
 
 Why is this quality, which appears to contradict a positive *mitzvah*, included among the eleven essentials? Because a person of genuine moral integrity cannot be a thoroughgoing relativist who says "I do my thing and everyone does their thing" without any sense of moral discernment. The capacity to honor the worthy and to express disfavor toward the genuinely contemptible are two sides of the same moral sensibility. Someone who cannot recognize and reject evil cannot truly recognize and embrace good. The inclusion of this quality is a striking reminder that the ethical life the *Gemara* is describing is not merely about being pleasant and kind; it includes the courage of moral judgment.
 
+### Honor Torah Sages
+
+> **Hebrew/Aramaic:** ״וְאֶת יִרְאֵי ה׳ יְכַבֵּד״ – זֶה יְהוֹשָׁפָט מֶלֶךְ יְהוּדָה, שֶׁבְּשָׁעָה שֶׁהָיָה רוֹאֶה תַּלְמִיד חָכָם הָיָה עוֹמֵד מִכִּסְּאוֹ וּמְחַבְּקוֹ וּמְנַשְּׁקוֹ וְקוֹרֵא לוֹ ״אָבִי אָבִי, רַבִּי רַבִּי, מָרִי מָרִי״.
+> **Translation:** **“And he honors those who fear the Lord”; this** is referring to one who conducts himself like **Jehoshaphat, king of Judea, who when he would see a Torah scholar would arise from his throne and hug him and kiss him, and call him: My father, my father, my teacher, my teacher, my master, my master.**
+
 *Ve-et yirei Hashem yichabed*, he honors those who fear God — *zeh Yehoshaphat Melech Yehudah*, King Yehoshaphat of Judah. When he would see a *talmid chacham*, even though he was the king, *hayah omed mi-kiso u-mechavko u-menashko ve-koreh lo avi avi, rebi rebi, mori mori* — he would rise from his throne, embrace him and kiss him, and call him "my father," "my teacher," "my master." The point of this quality in the list is that genuine honor is allocated not according to social rank or political power but according to what is truly deserving of honor. The king who sets aside his own dignity to honor a Torah scholar demonstrates that he has his priorities correctly ordered.
 
 ### Keeping Oaths
 
-> **Hebrew/Aramaic:** ״נִשְׁבַּע לְהָרַע וְלֹא יָמִר״ – כְּרַבִּי יוֹחָנָן, דְּאָמַר רַבִּי יוֹחָנָן: אֱהֵא בְּתַעֲנִית עַד שֶׁאָבֹא לְבֵיתִי. ״כַּסְפּוֹ לֹא נָתַן בְּנֶשֶׁךְ״ – אֲפִילּוּ (בְּ)רִבִּית גּוֹי. ״וְשֹׁחַד עַל נָקִי לֹא לָקָח״ – כְּגוֹן רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי.
->
-> **Translation:** **"He takes an oath to his own detriment, and changes not";** this is **in accordance with** the conduct of **Rabbi Yoḥanan, as Rabbi Yoḥanan** would **say** in the form of a vow when seeking to refrain from eating in another's home: **I shall fast until I will come to my house.** **"He neither gives his money with interest";** meaning he does not lend money **with interest even** to **a gentile.** **"Nor takes a bribe against the innocent";** this is referring to one **such as Rabbi Yishmael, son of Rabbi Yosei.**
+> **Hebrew/Aramaic:** ״נִשְׁבַּע לְהָרַע וְלֹא יָמִר״ – כְּרַבִּי יוֹחָנָן, דְּאָמַר רַבִּי יוֹחָנָן: אֱהֵא בְּתַעֲנִית עַד שֶׁאָבֹא לְבֵיתִי.
+> **Translation:** **“He takes an oath to his own detriment, and changes not”;** this is **in accordance with** the conduct of **Rabbi Yoḥanan, as Rabbi Yoḥanan** would **say** in the form of a vow when seeking to refrain from eating in another’s home: **I shall fast until I will come to my house.** He would fulfill that vow and refrain from eating, even though he took the vow only to avoid eating in that place.
 
 *Nishba le-hara ve-lo yamir*, he takes an oath even to his own detriment and does not retract — this is illustrated by Rabbi Yochanan. *D'amar Rabbi Yochanan: eheye be-ta'anis ad she-avo le-veisi* — Rabbi Yochanan would take upon himself a *ta'anis*, a fast, in order to compel himself to finish learning a *perek* or complete some other *mitzvah* before eating. The oath was, in a sense, *le-hara* — self-harmful — but he kept it. The *Gemara* thus transforms the apparently strange phrase "swears to do evil" into a noble quality: committing oneself to personal sacrifice in the service of a religious goal, and then honoring that commitment without retreating when it becomes difficult.
+
+### Financial Ethics
+
+> **Hebrew/Aramaic:** ״כַּסְפּוֹ לֹא נָתַן בְּנֶשֶׁךְ״ – אֲפִילּוּ (בְּ)רִבִּית גּוֹי.
+> **Translation:** **“He neither gives his money with interest”;** meaning he does not lend money **with interest even** to **a gentile,** which is permitted by Torah law.
+
+> **Hebrew/Aramaic:** ״וְשֹׁחַד עַל נָקִי לֹא לָקָח״ – כְּגוֹן רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי.
+> **Translation:** **“Nor takes a bribe against the innocent”;** this is referring to one **such as Rabbi Yishmael, son of Rabbi Yosei,** who refused to sit in judgment in a case involving his sharecropper. Since the latter would bring him a basket of fruit, he was concerned that he might unconsciously favor him.
 
 *Kaspo lo natan be-neshech*, he does not lend his money with interest — and the *Gemara* adds: *afilu be-ribit oved kochavim*, even to a non-Jew. This raises an obvious question: lending to a non-Jew with interest is technically permitted. Why does the person of exemplary character refrain from it? The *Rivan* explains: it is not because there is an intrinsic prohibition, but because habituating oneself to lending at interest — even where it is permitted — makes it easy to drift into doing so with a Jew, where it is forbidden. The avoidance is a form of protective character formation.
 
@@ -222,9 +231,11 @@ Why is this quality, which appears to contradict a positive *mitzvah*, included 
 
 ### Gamliel's Tears
 
-> **Hebrew/Aramaic:** כְּתִיב ״עֹשֵׂה אֵלֶּה לֹא יִמּוֹט לְעוֹלָם״ – כְּשֶׁהָיָה רַבָּן גַּמְלִיאֵל מַגִּיעַ לְמִקְרָא הַזֶּה הָיָה בּוֹכֶה, אֲמַר: מַאן דְּעָבֵיד לְהוּ לְכוּלְּהוּ – הוּא דְּלָא יִמּוֹט, הָא חֲדָא מִינַּיְיהוּ – יִמּוֹט. אֲמַרוּ לֵיהּ: מִי כְּתִיב ״עֹשֵׂה כׇּל אֵלֶּה״? ״עֹשֵׂה אֵלֶּה״ כְּתִיב, אֲפִילּוּ בַּחֲדָא מִינַּיְיהוּ.
->
-> **Translation:** At the conclusion of the verses, **it is written: "He who performs these shall never be moved."** The Gemara relates: **When Rabban Gamliel would reach this verse he would cry,** and **he said:** It is **one who performed all** these actions **who shall never be moved; but** if he performed only **one of them, he shall be moved.** The Sages **said to him: Is it written: He who performs all these?** Rather, the phrase **"he who performs these" is written,** indicating that one is blessed **even in** a case where he performed **one of them.**
+> **Hebrew/Aramaic:** כְּתִיב ״עֹשֵׂה אֵלֶּה לֹא יִמּוֹט לְעוֹלָם״ – כְּשֶׁהָיָה רַבָּן גַּמְלִיאֵל מַגִּיעַ לְמִקְרָא הַזֶּה הָיָה בּוֹכֶה, אֲמַר: מַאן דְּעָבֵיד לְהוּ לְכוּלְּהוּ – הוּא דְּלָא יִמּוֹט, הָא חֲדָא מִינַּיְיהוּ – יִמּוֹט.
+> **Translation:** At the conclusion of the verses, **it is written: “He who performs these shall never be moved.”** The Gemara relates: **When Rabban Gamliel would reach this verse he would cry,** and **he said:** It is **one who performed all** these actions **who shall never be moved; but** if he performed only **one of them, he shall be moved.**
+
+> **Hebrew/Aramaic:** אֲמַרוּ לֵיהּ: מִי כְּתִיב ״עֹשֵׂה כׇּל אֵלֶּה״? ״עֹשֵׂה אֵלֶּה״ כְּתִיב, אֲפִילּוּ בַּחֲדָא מִינַּיְיהוּ. דְּאִי לָא תֵּימָא הָכִי, כְּתִיב קְרָא אַחֲרִינָא ״אַל תִּטַּמְּאוּ בְּכׇל אֵלֶּה״, הָתָם נָמֵי, הַנּוֹגֵעַ בְּכׇל אֵלֶּה – הוּא דְּמִטַּמֵּא, בַּחֲדָא מִינַּיְיהוּ – לָא? אֶלָּא לָאו בְּאַחַת מִכׇּל אֵלֶּה, הָכָא נָמֵי בְּאַחַת מִכׇּל אֵלּוּ.
+> **Translation:** The Sages **said to him: Is it written: He who performs all these?** Rather, the phrase **“he who performs these” is written,** indicating that one is blessed **even in** a case where he performed **one of them. As if you do not say so,** compare that to **a different verse** that **is written** with regard to severe transgressions punishable by *karet*: **“Do not impurify yourselves with all these”** (Leviticus 18:24). Would you say that **there too** it means that it is **one who comes into contact with all these who becomes impure,** but **one who comes into contact with one of these, no,** he does not become impure? **Rather,** is it **not** that the phrase “with all these” means: **With one of all these? Here too** it means that one who performs **one of all these** has a place in the World-to-Come.
 
 *Oseh eleh lo yimmot le-olam* — whoever does these things will never stumble. *Ke-shehayah Rabban Gamliel magiah le-mikra hazeh hayah bocheh* — when Rabban Gamliel would reach this verse, he would weep. His anguish was over the apparent implication: *man de-avid lehu le-kulhu hu delo yimmot* — only the one who does *all* of them is guaranteed not to stumble? *Ha-chada minnaihu yimmot* — if one fails to keep even one, does one stumble?
 
@@ -234,11 +245,18 @@ The response is elegant and comes from an unspecified interlocutor. *Mi ksiv ose
 
 ## Isaiah: 11 to 6
 
+
+
 ### Isaiah's 6
 
-> **Hebrew/Aramaic:** בָּא יְשַׁעְיָהוּ וְהֶעֱמִידָן עַל שֵׁשׁ, דִּכְתִיב ״הֹלֵךְ צְדָקוֹת וְדֹבֵר מֵישָׁרִים מֹאֵס בְּבֶצַע מַעֲשַׁקּוֹת נֹעֵר כַּפָּיו מִתְּמֹךְ בַּשֹּׁחַד אֹטֵם אׇזְנוֹ מִשְּׁמֹעַ דָּמִים וְעֹצֵם עֵינָיו מֵרְאוֹת בְּרָע״.
->
-> **Translation:** **Isaiah came and established** the 613 mitzvot **upon six, as it is written: "He who walks righteously, and speaks uprightly; he who despises the gain of oppressions, who shakes his hands from holding of bribes, who stops his ears from hearing blood, and shuts his eyes from looking upon evil"** (Isaiah 33:15).
+> **Hebrew/Aramaic:** בָּא יְשַׁעְיָהוּ וְהֶעֱמִידָן עַל שֵׁשׁ, דִּכְתִיב ״הֹלֵךְ צְדָקוֹת וְדֹבֵר מֵישָׁרִים מֹאֵס בְּבֶצַע מַעֲשַׁקּוֹת נֹעֵר כַּפָּיו מִתְּמֹךְ בַּשֹּׁחַד אֹטֵם אׇזְנוֹ מִשְּׁמֹעַ דָּמִים וְעֹצֵם עֵינָיו מֵרְאוֹת בְּרָע״.
+> **Translation:** Rabbi Simlai’s exposition continues: **Isaiah came and established** the 613 mitzvot **upon six, as it is written: “He who walks righteously, and speaks uprightly; he who despises the gain of oppressions, who shakes his hands from holding of bribes, who stops his ears from hearing blood, and shuts his eyes from looking upon evil”** (Isaiah 33:15).
+
+> **Hebrew/Aramaic:** ״הֹלֵךְ צְדָקוֹת״ – זֶה אַבְרָהָם אָבִינוּ, דִּכְתִיב ״כִּי יְדַעְתִּיו לְמַעַן אֲשֶׁר יְצַוֶּה וְגוֹ׳״.
+> **Translation:** The Gemara elaborates: **“He who walks righteously”; this** is referring to one who conducts himself like **our forefather Abraham, as it is written** concerning him: **“For I have known him, that he will command** his children…to perform righteousness and justice” (Genesis 18:19).
+
+> **Hebrew/Aramaic:** ״וְדֹבֵר מֵישָׁרִים״ – זֶה שֶׁאֵינוֹ מַקְנִיט פְּנֵי חֲבֵירוֹ בָּרַבִּים.
+> **Translation:** **“And speaks uprightly”; this** is referring to **one who does not shame another in public.**
 
 *Ba Yeshayahu ve-he'emidam al sheish* — Isaiah came and distilled them to six. *Dichtiv*: *holech tzedakot ve-dover mesharim, mo'es be-vetza ma'ashakot, no'er kapav mi-tmoch be-shochad, otem ozno mi-shmo'a damim, ve-otem einav me-re'ot be-ra*. One who walks in righteousness and speaks honestly; despises the profits of oppression; shakes his hands free of contact with bribery; seals his ears from hearing of bloodshed; and closes his eyes from looking at evil.
 
@@ -248,9 +266,11 @@ The response is elegant and comes from an unspecified interlocutor. *Mi ksiv ose
 
 ### Against Oppression
 
-> **Hebrew/Aramaic:** ״מֹאֵס בְּבֶצַע מַעֲשַׁקּוֹת״ – כְּגוֹן רַבִּי יִשְׁמָעֵאל בֶּן אֱלִישָׁע. ״נֹעֵר כַּפָּיו מִתְּמֹךְ בַּשֹּׁחַד״ – כְּגוֹן רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי. ״אֹטֵם אׇזְנוֹ מִשְּׁמֹעַ דָּמִים״ – דְּלָא שָׁמַע בְּזִילוּתָא דְּצוּרְבָּא מֵרַבָּנַן וְשָׁתֵיק, כְּגוֹן רַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן.
->
-> **Translation:** **"He who despises the gain of oppressions"; this** is referring to one **such as Rabbi Yishmael ben Elisha.** **"Who shakes his hands from holding of bribes"; this** is referring to one **such as Rabbi Yishmael, son of Rabbi Yosei.** **"Who stops his ears from hearing blood";** this is referring to one **who** would **not hear derision of a Torah scholar and remain silent, such as Rabbi Elazar, son of Rabbi Shimon.**
+> **Hebrew/Aramaic:** ״מֹאֵס בְּבֶצַע מַעֲשַׁקּוֹת״ – כְּגוֹן רַבִּי יִשְׁמָעֵאל בֶּן אֱלִישָׁע.
+> **Translation:** **“He who despises the gain of oppressions”;** this is referring to one **such as Rabbi Yishmael ben Elisha,** who refused to sit in judgment in a case involving one who gave him priestly gifts, to avoid the appearance of impropriety.
+
+> **Hebrew/Aramaic:** ״נֹעֵר כַּפָּיו מִתְּמֹךְ בַּשֹּׁחַד״ – כְּגוֹן רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי.
+> **Translation:** **“Who shakes his hands from holding of bribes”;** this is referring to one **such as Rabbi Yishmael, son of Rabbi Yosei,** who, as explained above, refused to sit in judgment in a case involving his sharecropper.
 
 *Mo'es be-vetza ma'ashakot*, who despises the profits of oppression — *ke-gon Rabbi Yishmael ben Elisha*. This was a case in which someone came to Rabbi Yishmael beRabbi Elisha bringing the *reshit ha-gez*, the first shearings of a sheep, which legally belonged to a *kohen*. The man explained that he had to come to town anyway for a court case with Rabbi Yishmael, and thought to deliver the *reshit ha-gez* at the same time. Rabbi Yishmael refused to accept it. The word *ma'ashakot* — oppression — is apt here because accepting the gift would have come at the expense of the *kohen* in the man's hometown who was entitled to receive it; taking something gained at another's loss is a form of *osheik*.
 
@@ -258,15 +278,17 @@ The response is elegant and comes from an unspecified interlocutor. *Mi ksiv ose
 
 ### Active Non-Tolerance
 
+> **Hebrew/Aramaic:** ״אֹטֵם אׇזְנוֹ מִשְּׁמֹעַ דָּמִים״ – דְּלָא שָׁמַע בְּזִילוּתָא דְּצוּרְבָּא מֵרַבָּנַן וְשָׁתֵיק, כְּגוֹן רַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן.
+> **Translation:** **“Who stops his ears from hearing blood”;** this is referring to one **who** would **not hear derision of a Torah scholar and remain silent, such as Rabbi Elazar, son of Rabbi Shimon,** who was well known for this.
+
 *Otem ozno mi-shmo'a damim*, seals his ears from hearing bloodshed — *de-lo shama be-ziluta de-tzurba me-rabbanan ve-shatik*, this refers to one who, upon hearing a *talmid chacham* being denigrated, does not remain silent. The *Gemara*'s interpretation is the opposite of what one might expect from "sealing one's ears." It does not mean pretending not to hear, passively withdrawing from unpleasant speech. It means being constitutionally incapable of hearing an insult to Torah dignity and remaining silent in the face of it. One "seals one's ears from hearing" in the sense that one refuses to let the insult pass as acceptable — one refuses to hear it with passivity. The exemplar here is Rabbi Elazar beRabbi Shimon, who after his death had a worm emerge from his ear, and when his wife was distressed by this, he appeared to her and said: it was because on one occasion I heard a *talmid chacham* being insulted and I did not respond. The fact that this single lapse was significant enough to warrant posthumous consequence illustrates the seriousness with which he otherwise took the obligation throughout his life.
 
 One interesting alternative reading noted in the *Gemara*: *damim* can be read as *domem*, silence — *otem ozno mi-shmo'a domem*, close your ears from being silent, i.e., refuse to remain silent. That is a creative and apt reading.
 
 ### Women & Evil
 
-> **Hebrew/Aramaic:** ״וְעֹצֵם עֵינָיו מֵרְאוֹת בְּרָע״ – כְּרַבִּי חִיָּיא בַּר אַבָּא, דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא: זֶה שֶׁאֵינוֹ מִסְתַּכֵּל בְּנָשִׁים בְּשָׁעָה שֶׁעוֹמְדוֹת עַל הַכְּבִיסָה.
->
-> **Translation:** **"And shuts his eyes from looking upon evil"** is to be understood **in accordance with** the statement of **Rabbi Ḥiyya bar Abba, as Rabbi Ḥiyya bar Abba says: This** is referring to one **who does not look at women when they stand over the laundry.**
+> **Hebrew/Aramaic:** ״וְעֹצֵם עֵינָיו מֵרְאוֹת בְּרָע״ – כְּרַבִּי חִיָּיא בַּר אַבָּא, דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא: זֶה שֶׁאֵינוֹ מִסְתַּכֵּל בְּנָשִׁים בְּשָׁעָה שֶׁעוֹמְדוֹת עַל הַכְּבִיסָה.
+> **Translation:** **“And shuts his eyes from looking upon evil”** is to be understood **in accordance with** the statement of **Rabbi Ḥiyya bar Abba, as Rabbi Ḥiyya bar Abba says: This** is referring to one **who does not look at women when they stand over the laundry** at the river. The women would lift the garments they were wearing to keep them out of the water, and thereby expose part of their bodies.
 
 *Ve-otem einav me-re'ot be-ra*, closes his eyes from seeing evil — *ke-gon Rabbi Chiyya bar Abba*, and the *Gemara* quotes Rabbi Chiyya bar Abba himself: *ze she-eino mistakel be-nashim be-sha'ah she-omdot al ha-kevisah*, one who does not gaze at women while they are standing at the laundry.
 
@@ -278,11 +300,15 @@ One alternative reading deserves consideration: the concern might be understood 
 
 ## Micah: 6 to 3
 
+
+
 ### Micah's 3
 
-> **Hebrew/Aramaic:** בָּא מִיכָה וְהֶעֱמִידָן עַל שָׁלֹשׁ, דִּכְתִיב ״הִגִּיד לְךָ אָדָם מַה טּוֹב וּמָה ה׳ דּוֹרֵשׁ מִמְּךָ כִּי אִם עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם (ה׳) אֱלֹהֶיךָ״. ״עֲשׂוֹת מִשְׁפָּט״ – זֶה הַדִּין. ״אַהֲבַת חֶסֶד״ – זֶה גְּמִילוּת חֲסָדִים. ״וְהַצְנֵעַ לֶכֶת״ – זֶה הוֹצָאַת הַמֵּת וְהַכְנָסַת כַּלָּה. וַהֲלֹא דְּבָרִים קַל וָחוֹמֶר: וּמָה דְּבָרִים שֶׁאֵין דַּרְכָּן לַעֲשׂוֹתָם בְּצִנְעָא, אָמְרָה תּוֹרָה ״וְהַצְנֵעַ לֶכֶת״, דְּבָרִים שֶׁדַּרְכָּם לַעֲשׂוֹתָם בְּצִנְעָא – עַל אַחַת כַּמָּה וְכַמָּה!
->
-> **Translation:** **Micah came and established** the 613 mitzvot **upon three, as it is written: "It has been told to you, O man, what is good, and what the Lord does require of you; only to do justly, and to love mercy, and to walk humbly with your God"** (Micah 6:8). The Gemara elaborates: **"To do justly," this** is **justice; "to love mercy," this** is an allusion to **acts of loving-kindness; "and to walk humbly with your God," this** is an allusion to **taking the** indigent **dead out** for burial **and accompanying** a poor **bride** to her wedding canopy. The Gemara notes: **And are** these **matters not** inferred ***a fortiori*? If,** with regard to **matters that tend to be conducted in public,** **the Torah states "walk humbly"** when doing them, then in **matters that tend to be conducted in private,** **all the more so** should they be conducted **in private.**
+> **Hebrew/Aramaic:** וּכְתִיב: ״הוּא מְרוֹמִים יִשְׁכּוֹן״.
+> **Translation:** **And it is written** with regard to one who performs these matters: **“He shall dwell on high;** his fortress shall be the munitions of rocks; his bread shall be given, his waters shall be sure” (Isaiah 33:16).
+
+> **Hebrew/Aramaic:** בָּא מִיכָה וְהֶעֱמִידָן עַל שָׁלֹשׁ, דִּכְתִיב ״הִגִּיד לְךָ אָדָם מַה טּוֹב וּמָה ה׳ דּוֹרֵשׁ מִמְּךָ כִּי אִם עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם (ה׳) אֱלֹהֶיךָ״.
+> **Translation:** **Micah came and established** the 613 mitzvot **upon three, as it is written: “It has been told to you, O man, what is good, and what the Lord does require of you; only to do justly, and to love mercy, and to walk humbly with your God”** (Micah 6:8).
 
 *Ba Micha ve-he'emidam al shalosh* — Micah came and distilled them to three. *D'chtiv: higgid lecha adam mah tov, u-mah Hashem doreish mimcha ki im asot mishpat ve-ahavat chesed ve-hatzneia lechet im Elokecha* — "It has been told to you, O man, what is good, and what God requires of you: only to do justice, to love kindness, and to walk humbly with your God."
 
@@ -295,6 +321,9 @@ One of the most important things about this distillation, compared to what prece
 This shift is significant in two ways. First, the quality being praised is now not merely ethical restraint — refraining from harming — but active positive obligation: *go* and do acts of *chesed*, help people, perform *gemilut chasadim*. Second, and somewhat paradoxically, while this demands *more* in one sense, it is also more accessible. It is one thing to be told you must achieve the level of Avraham, or of Rabbi Yishmael beRabbi Yosi, who detected the insidious pull of what amounted to a non-bribe on his judicial reasoning. That level of moral refinement is beyond most people's reach. Going to a *levaya*, visiting the sick, giving *tzedakah*, helping a neighbor — these are demanding, yes, but they are achievable. The very accessibility of Micah's formulation is part of its genius.
 
 ### Modesty & Humility
+
+> **Hebrew/Aramaic:** ״עֲשׂוֹת מִשְׁפָּט״ – זֶה הַדִּין. ״אַהֲבַת חֶסֶד״ – זֶה גְּמִילוּת חֲסָדִים. ״וְהַצְנֵעַ לֶכֶת״ – זֶה הוֹצָאַת הַמֵּת וְהַכְנָסַת כַּלָּה. וַהֲלֹא דְּבָרִים קַל וָחוֹמֶר: וּמָה דְּבָרִים שֶׁאֵין דַּרְכָּן לַעֲשׂוֹתָן בְּצִנְעָא, אָמְרָה תּוֹרָה ״וְהַצְנֵעַ לֶכֶת״, דְּבָרִים שֶׁדַּרְכָּם לַעֲשׂוֹתָם בְּצִנְעָא – עַל אַחַת כַּמָּה וְכַמָּה!
+> **Translation:** The Gemara elaborates: **“To do justly,” this** is **justice; “to love mercy,” this** is an allusion to **acts of loving-kindness; “and to walk humbly with your God,” this** is an allusion to **taking the** indigent **dead out** for burial **and accompanying** a poor **bride** to her wedding canopy, both of which are to be performed without fanfare glorifying the doer. The Gemara notes: **And are** these **matters not** inferred ***a fortiori*? If,** with regard to **matters that tend to be conducted in public,** e.g., funerals and weddings, **the Torah states “walk humbly”** when doing them, then in **matters that tend to be conducted in private,** e.g., charity and Torah study, **all the more so** should they be conducted **in private.**
 
 *Ve-hatzneia lechet im Elokecha* — walk humbly with your God. The *Gemara* connects this to *hotza'at ha-meit ve-hachnasat kallah*, accompanying the deceased to burial and participating in a wedding. The connection is textual: the word *lechet* (walking) appears in relevant *psukim* associated with those two *mitzvot*, so *hatzneia lechet* is read as a call to perform them with *tzniut*.
 
@@ -310,19 +339,16 @@ The *Gemara*'s reasoning thus clarifies what *tzniut* means in this context. It 
 
 ## Down to One
 
-### Isaiah's 2
 
-> **Hebrew/Aramaic:** חָזַר יְשַׁעְיָהוּ וְהֶעֱמִידָן עַל שְׁתַּיִם, שֶׁנֶּאֱמַר ״כֹּה אָמַר ה׳ שִׁמְרוּ מִשְׁפָּט וַעֲשׂוּ צְדָקָה״.
->
-> **Translation:** **Isaiah then established** the 613 mitzvot **upon two, as it is stated: "So says the Lord: Observe justice and perform righteousness"** (Isaiah 56:1).
+
+### Isaiah's 2
 
 *Chazar Yeshayahu ve-he'emidam al shtayim* — Isaiah returned and reduced them to two. *She-ne'emar koh amar Hashem: shimru mishpat va-asu tzedakah* — "Thus says God: guard justice and perform righteousness." Two principles remain: *mishpat* and *tzedakah*. *Gemilut chasadim* and *tzniut* have been set aside; we are left only with living a just and righteous life.
 
-### Amos's 1
+> **Hebrew/Aramaic:** חָזַר יְשַׁעְיָהוּ וְהֶעֱמִידָן עַל שְׁתַּיִם, שֶׁנֶּאֱמַר ״כֹּה אָמַר ה׳ שִׁמְרוּ מִשְׁפָּט וַעֲשׂוּ צְדָקָה״. בָּא עָמוֹס וְהֶעֱמִידָן עַל אַחַת, שֶׁנֶּאֱמַר ״כֹּה אָמַר ה׳ לְבֵית יִשְׂרָאֵל דִּרְשׁוּנִי וִחְיוּ״. מַתְקֵיף לַהּ רַב נַחְמָן בַּר יִצְחָק: אֵימָא דִּרְשׁוּנִי בְּכׇל הַתּוֹרָה! אֶלָּא: בָּא חֲבַקּוּק וְהֶעֱמִידָן עַל אַחַת, שֶׁנֶּאֱמַר ״וְצַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה״.
+> **Translation:** **Isaiah then established** the 613 mitzvot **upon two, as it is stated: “So says the Lord: Observe justice and perform righteousness”** (Isaiah 56:1). **Amos came and established** the 613 mitzvot **upon one, as it is stated: “So says the Lord to the house of Israel: Seek Me and live”** (Amos 5:4). **Rav Naḥman bar Yitzḥak objects to this:** There is no proof that the verse in Amos is establishing all the mitzvot upon one; **say** that Amos is saying: **Seek Me throughout the entire Torah,** as the verse does not specify the manner in which one should seek the Lord. **Rather,** say: **Habakkuk came and established** the 613 mitzvot **upon one, as it is stated: “But the righteous person shall live by his faith”** (Habakkuk 2:4).
 
-> **Hebrew/Aramaic:** בָּא עָמוֹס וְהֶעֱמִידָן עַל אַחַת, שֶׁנֶּאֱמַר ״כֹּה אָמַר ה׳ לְבֵית יִשְׂרָאֵל דִּרְשׁוּנִי וִחְיוּ״. מַתְקֵיף לַהּ רַב נַחְמָן בַּר יִצְחָק: אֵימָא דִּרְשׁוּנִי בְּכׇל הַתּוֹרָה! אֶלָּא: בָּא חֲבַקּוּק וְהֶעֱמִידָן עַל אַחַת, שֶׁנֶּאֱמַר ״וְצַדִּיק בֶּאֱמוּנָתוֹ יִחְיֶה״.
->
-> **Translation:** **Amos came and established** the 613 mitzvot **upon one, as it is stated: "So says the Lord to the house of Israel: Seek Me and live"** (Amos 5:4). **Rav Naḥman bar Yitzḥak objects to this:** There is no proof that the verse in Amos is establishing all the mitzvot upon one; **say** that Amos is saying: **Seek Me throughout the entire Torah.** **Rather,** say: **Habakkuk came and established** the 613 mitzvot **upon one, as it is stated: "But the righteous person shall live by his faith"** (Habakkuk 2:4).
+### Amos's 1
 
 *Amos ba ve-he'emidam al achat* — Amos came and reduced them to one. *She-ne'emar koh amar Hashem le-beit Yisrael: dirshuni vi-chyu* — "Thus says God to the House of Israel: seek Me and live." This is, in certain respects, the most beautiful of all the distillations. The move away from a list of obligations — whether eleven, six, three, or two — toward a single principle that reframes the entire religious enterprise as a *search*. One is not merely to comply with rules, to perform or refrain. One is to *seek*. And the reward for seeking is not compliance or merit but *life*.
 
@@ -333,6 +359,7 @@ This also shifts the relationship between Israel and God from the transactional 
 The *Gemara* raises a challenge: *Masif lah Rav Nachman bar Yitzchak: eima dirshuni be-chol ha-Torah kulleh* — perhaps "seek Me" means seek Me through the performance of all 613 *mitzvot*? On this reading, *Amos* has not reduced anything at all; "seek Me and live" is simply shorthand for observing the full corpus of *Torah* law. If that is so, we are back to 613 and the distillation project collapses.
 
 ### Habakkuk: Faith
+
 
 The *Gemara* therefore turns to Habakkuk: *ella be-Habakkuk ve-he'emidam al achat. She-ne'emar: ve-tzaddik be-emunato yichyeh* — "The righteous person lives by his faith." This is the final reduction, and it is a striking one. One quality, one principle: *emunah*, faith. The righteous live not by performing a list but by the faith they sustain through everything they do and everything that befalls them.
 
@@ -348,11 +375,12 @@ It is worth noting the difference, however. The *Gemara*'s *emunah* is not faith
 
 ## Four Decrees
 
+
+
 ### Dwelling Decree
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: אַרְבַּע גְּזֵירוֹת גָּזַר מֹשֶׁה רַבֵּינוּ עַל יִשְׂרָאֵל, בָּאוּ אַרְבָּעָה נְבִיאִים וּבִיטְּלוּם. מֹשֶׁה אָמַר: ״וַיִּשְׁכֹּן יִשְׂרָאֵל בֶּטַח בָּדָד עֵין יַעֲקֹב״, בָּא עָמוֹס וּבִיטְּלָהּ, [שֶׁנֶּאֱמַר]: ״חֲדַל נָא מִי יָקוּם יַעֲקֹב וְגוֹ׳״ וּכְתִיב ״נִחַם ה׳ עַל זֹאת״.
->
-> **Translation:** **Rabbi Yosei bar Ḥanina says: Moses our teacher issued four decrees upon the Jewish people,** and **four prophets came and revoked them. Moses said: "And Israel dwells in safety, the fountain [*ein*] of Jacob alone"** (Deuteronomy 33:28), indicating that the Jewish people will dwell in safety only when they reach a lofty spiritual level similar to [*me'ein*] that of Jacob our forefather. **Amos came and revoked it, as it is stated:** "Lord God, **cease, I beseech You; how shall Jacob stand,** as he is small" (Amos 7:5), **and** immediately afterward **it states: "The Lord regretted this;** it too shall not be, says the Lord God" (Amos 7:6).
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: אַרְבַּע גְּזֵירוֹת גָּזַר מֹשֶׁה רַבֵּינוּ עַל יִשְׂרָאֵל, בָּאוּ אַרְבָּעָה נְבִיאִים וּבִיטְּלוּם. מֹשֶׁה אָמַר: ״וַיִּשְׁכֹּן יִשְׂרָאֵל בֶּטַח בָּדָד עֵין יַעֲקֹב״, בָּא עָמוֹס וּבִיטְּלָהּ, [שֶׁנֶּאֱמַר]: ״חֲדַל נָא מִי יָקוּם יַעֲקֹב וְגוֹ׳״ וּכְתִיב ״נִחַם ה׳ עַל זֹאת״.
+> **Translation:** § **Rabbi Yosei bar Ḥanina says: Moses our teacher issued four decrees upon the Jewish people,** and **four prophets came and revoked them. Moses said: “And Israel dwells in safety, the fountain [*ein*] of Jacob alone”** (Deuteronomy 33:28), indicating that the Jewish people will dwell in safety only when they reach a lofty spiritual level similar to [*me’ein*] that of Jacob our forefather. **Amos came and revoked it, as it is stated:** “Lord God, **cease, I beseech You; how shall Jacob stand,** as he is small” (Amos 7:5), **and** immediately afterward **it states: “The Lord regretted this;** it too shall not be, says the Lord God” (Amos 7:6).
 
 *Amar Rabbi Yochanan ben Chanina: arba gezeirot gazar Moshe Rabbeinu al Yisrael, ba'u arba nevi'im u-vitlum* — Rabbi Yochanan ben Chanina said: Moshe our teacher decreed four decrees against Israel, and four prophets came and annulled them.
 
@@ -362,25 +390,25 @@ The first decree: *Moshe amar: ve-yishkon Yisrael betach badad ein Yaakov* — I
 
 ### Exile Decree
 
-> **Hebrew/Aramaic:** מֹשֶׁה אָמַר: ״וּבַגּוֹיִם הָהֵם לֹא תַרְגִּיעַ״, בָּא יִרְמְיָה וְאָמַר: ״הָלוֹךְ לְהַרְגִּיעוֹ יִשְׂרָאֵל״.
->
-> **Translation:** **Moses said: "And among these nations you shall have no repose"** (Deuteronomy 28:65). **Jeremiah came** and revoked it, **and said: "Even Israel, when I go to cause him to rest"** (Jeremiah 31:1), indicating that the Jewish people will find rest even in exile.
+> **Hebrew/Aramaic:** מֹשֶׁה אָמַר: ״וּבַגּוֹיִם הָהֵם לֹא תַרְגִּיעַ״, בָּא יִרְמְיָה וְאָמַר: ״הָלוֹךְ לְהַרְגִּיעוֹ יִשְׂרָאֵל״.
+> **Translation:** **Moses said: “And among these nations you shall have no repose”** (Deuteronomy 28:65). **Jeremiah came** and revoked it, **and said: “Even Israel, when I go to cause him to rest”** (Jeremiah 31:1), indicating that the Jewish people will find rest even in exile.
 
 The second decree: *Moshe amar: u-va-goyim ha-heim lo targiah* — you will not find rest among the nations in exile. *Ba Yirmiyah ve-amar: haloch le-hargi'o Yisrael* — Jeremiah came and said: Israel can find rest even in *galut*. Life in exile does not have to be unrelenting misery and rootlessness; it is possible to build, to settle, to find a measure of peace even far from the Land.
 
 ### Punishment Decree
 
-> **Hebrew/Aramaic:** מֹשֶׁה אָמַר: ״פֹּקֵד עֲוֹן אָבוֹת עַל בָּנִים״, בָּא יְחֶזְקֵאל וּבִיטְּלָהּ: ״הַנֶּפֶשׁ הַחֹטֵאת הִיא תָמוּת״.
->
-> **Translation:** **Moses said: "He visits the transgression of the fathers upon the sons"** (Exodus 34:7). **Ezekiel came and revoked it: "The soul that sins, it shall die"** (Ezekiel 18:4), and not the children of that soul.
+> **Hebrew/Aramaic:** מֹשֶׁה אָמַר: ״פֹּקֵד עֲוֹן אָבוֹת עַל בָּנִים״, בָּא יְחֶזְקֵאל וּבִיטְּלָהּ: ״הַנֶּפֶשׁ הַחֹטֵאת הִיא תָמוּת״.
+> **Translation:** **Moses said: “He visits the transgression of the fathers upon the sons”** (Exodus 34:7). **Ezekiel came and revoked it: “The soul that sins, it shall die”** (Ezekiel 18:4), and not the children of that soul.
 
 The third decree: *Moshe amar: poked avon avot al banim* — God visits the iniquity of fathers upon children. This is one of the most theologically charged phrases in the *Torah*, a verse that seems to endorse transgenerational punishment. *Ba Yechezkel u-vitlah: ha-nefesh ha-choteit hi tamut* — Ezekiel annulled it with the principle that the soul that sins is the one that dies. Each person bears responsibility for their own sins; children are not punished for their parents' transgressions. The *Gemara* is aware that this stands in tension with other verses — Jeremiah also grapples with the contradiction — but the prophetic tradition is read as moving decisively toward individual accountability.
 
 ### Destruction Decree
 
-> **Hebrew/Aramaic:** מֹשֶׁה אָמַר ״וַאֲבַדְתֶּם בַּגּוֹיִם״, בָּא יְשַׁעְיָהוּ וְאָמַר: ״וְהָיָה בַּיּוֹם הַהוּא יִתָּקַע בְּשׁוֹפָר גָּדוֹל״.
->
-> **Translation:** **Moses said: "And you shall be lost among the nations"** (Leviticus 26:38). **Isaiah came** and revoked it, **and said: "And it shall be on that day the great shofar shall be sounded,** and those lost in the land of Assyria shall come" (Isaiah 27:13).
+> **Hebrew/Aramaic:** מֹשֶׁה אָמַר ״וַאֲבַדְתֶּם בַּגּוֹיִם״, בָּא יְשַׁעְיָהוּ וְאָמַר: ״וְהָיָה בַּיּוֹם הַהוּא יִתָּקַע בְּשׁוֹפָר גָּדוֹל״.
+> **Translation:** **Moses said: “And you shall be lost among the nations”** (Leviticus 26:38). **Isaiah came** and revoked it, **and said: “And it shall be on that day the great shofar shall be sounded,** and those lost in the land of Assyria shall come” (Isaiah 27:13).
+
+> **Hebrew/Aramaic:** אָמַר רַב: מִסְתְּפֵינָא מֵהַאי קְרָא ״וַאֲבַדְתֶּם בַּגּוֹיִם״. מַתְקֵיף לַהּ רַב פָּפָּא: דִּלְמָא כַּאֲבֵידָה הַמִּתְבַּקֶּשֶׁת, דִּכְתִיב ״תָּעִיתִי כְּשֶׂה אֹבֵד בַּקֵּשׁ עַבְדֶּךָ״! אֶלָּא מִסֵּיפָא [דִּקְרָא], ״וְאָכְלָה אֶתְכֶם אֶרֶץ אֹיְבֵיכֶם״. מַתְקֵיף לַהּ מָר זוּטְרָא: דִּלְמָא כַּאֲכִילַת קִישּׁוּאִין וְדִילּוּעִין.
+> **Translation:** **Rav says: I am afraid of that verse: “And you shall be lost among the nations.” Rav Pappa objects to this: Perhaps** it means that the Jewish people will be **like a lost item that is sought** by its owner, and God will restore those lost in exile, **as it is written: “I have gone astray like a lost lamb; seek Your servant”** (Psalms 119:176). **Rather,** Rav was afraid **from** that which is written in **the latter** portion **of that verse,** where it is written: **“And the land of your enemies shall consume you.” Mar Zutra objects to this: Perhaps** it means **like the consumption of cucumbers and gourds,** which are not consumed in their entirety. Some is left over, from which additional plants can grow.
 
 The fourth decree: *Moshe amar: ve-avadtem ba-goyim* — you will be lost among the nations. *Ba Yeshayahu ve-amar: ve-hayah ba-yom ha-hu yitaka be-shofar gadol u-va'u ha-ovdim be-eretz Ashur* — Isaiah came and promised: when the great *shofar* is sounded, even those who are lost in Assyria will return. The scattered will be gathered; the lost will be found.
 
@@ -390,13 +418,23 @@ The *Gemara* pauses here on the word *ve-avadtem*, "you will be lost." *Amar Rav
 
 ## Akiva's Faith
 
+
+
+[DAF:24b]
 ### Journey Scene
 
-> **Hebrew/Aramaic:** וּכְבָר הָיָה רַבָּן גַּמְלִיאֵל וְרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה וְרַבִּי יְהוֹשֻׁעַ וְרַבִּי עֲקִיבָא מְהַלְּכִין בַּדֶּרֶךְ, וְשָׁמְעוּ קוֹל הֲמוֹנָהּ שֶׁל רוֹמִי מִפְּלָטָהּ [בְּרָחוֹק] מֵאָה וְעֶשְׂרִים מִיל, וְהִתְחִילוּ בּוֹכִין, וְרַבִּי עֲקִיבָא מְשַׂחֵק. אָמְרוּ לוֹ: מִפְּנֵי מָה אַתָּה מְשַׂחֵק? אָמַר לָהֶם: וְאַתֶּם מִפְּנֵי מָה אַתֶּם בּוֹכִים? אָמְרוּ לוֹ: הַלָּלוּ גּוֹיִם שֶׁמִּשְׁתַּחֲוִים לַעֲצַבִּים וּמְקַטְּרִים לַעֲבוֹדָה זָרָה יוֹשְׁבִין בֶּטַח וְהַשְׁקֵט, וְאָנוּ, בֵּית הֲדוֹם רַגְלֵי אֱלֹהֵינוּ שָׂרוּף בָּאֵשׁ, וְלֹא נִבְכֶּה?! אָמַר לָהֶם: לְכָךְ אֲנִי מְצַחֵק, וּמָה לְעוֹבְרֵי רְצוֹנוֹ כָּךְ, לְעוֹשֵׂי רְצוֹנוֹ עַל אַחַת כַּמָּה וְכַמָּה.
->
-> **Translation:** § Apropos tribulations of exile and hope for redemption, the Gemara relates: **And it once was that Rabban Gamliel, Rabbi Elazar ben Azarya, Rabbi Yehoshua, and Rabbi Akiva were walking along the road** in the Roman Empire, **and they heard the sound of the multitudes of Rome from Puteoli at a distance of one hundred and twenty *mil*.** The city was so large that they were able to hear its tumult from a great distance. **And** the other Sages **began weeping and Rabbi Akiva** was **laughing. They said to him: For what** reason **are you laughing?** Rabbi Akiva **said to them: And you, for what** reason **are you weeping? They said to him: These gentiles, who bow to false gods and burn incense to idols, dwell securely and tranquilly** in this colossal city, **and** for **us, the House of the footstool of our God,** the Temple, **is burnt** by fire, and shall we not weep? Rabbi Akiva **said to them: That is why I am laughing. If for those who violate His will,** the wicked, it is **so** and they are rewarded for the few good deeds they performed, **for those who perform His will, all the more so** will they be rewarded.
+> **Hebrew/Aramaic:** וּכְבָר הָיָה רַבָּן גַּמְלִיאֵל וְרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה וְרַבִּי יְהוֹשֻׁעַ וְרַבִּי עֲקִיבָא מְהַלְּכִין בַּדֶּרֶךְ, וְשָׁמְעוּ קוֹל הֲמוֹנָהּ שֶׁל רוֹמִי מִפְּלָטָהּ [בְּרָחוֹק] מֵאָה וְעֶשְׂרִים מִיל, וְהִתְחִילוּ בּוֹכִין, וְרַבִּי עֲקִיבָא מְשַׂחֵק. אָמְרוּ לוֹ: מִפְּנֵי מָה אַתָּה מְשַׂחֵק? אָמַר לָהֶם: וְאַתֶּם מִפְּנֵי מָה אַתֶּם בּוֹכִים? אָמְרוּ לוֹ: הַלָּלוּ גּוֹיִם שֶׁמִּשְׁתַּחֲוִים לַעֲצַבִּים וּמְקַטְּרִים לַעֲבוֹדָה זָרָה יוֹשְׁבִין בֶּטַח וְהַשְׁקֵט, וְאָנוּ, בֵּית הֲדוֹם רַגְלֵי אֱלֹהֵינוּ שָׂרוּף
+> **Translation:** § Apropos tribulations of exile and hope for redemption, the Gemara relates: **And it once was that Rabban Gamliel, Rabbi Elazar ben Azarya, Rabbi Yehoshua, and Rabbi Akiva were walking along the road** in the Roman Empire, **and they heard the sound of the multitudes of Rome from Puteoli at a distance of one hundred and twenty *mil*.** The city was so large that they were able to hear its tumult from a great distance. **And** the other Sages **began weeping and Rabbi Akiva** was **laughing. They said to him: For what** reason **are you laughing?** Rabbi Akiva **said to them: And you, for what** reason **are you weeping? They said to him: These gentiles, who bow to false gods and burn incense to idols, dwell securely and tranquilly** in this colossal city, **and** for **us, the House of the footstool of our God,** the Temple, **is burnt**
+
+> **Hebrew/Aramaic:** בָּאֵשׁ, וְלֹא נִבְכֶּה?! אָמַר לָהֶן: לְכָךְ אֲנִי מְצַחֵק, וּמָה לְעוֹבְרֵי רְצוֹנוֹ כָּךְ, לְעוֹשֵׂי רְצוֹנוֹ עַל אַחַת כַּמָּה וְכַמָּה.
+> **Translation:** **by fire, and shall we not weep?** Rabbi Akiva **said to them: That is why I am laughing. If for those who violate His will,** the wicked, it is **so** and they are rewarded for the few good deeds they performed, **for those who perform His will, all the more so** will they be rewarded.
 
 *U-chvar hayah Rabban Gamliel ve-Rabbi Elazar ben Azaryah ve-Rabbi Yehoshua ve-Rabbi Akiva mehalchin ba-derech* — it once happened that Rabban Gamliel, Rabbi Elazar ben Azaryah, Rabbi Yehoshua, and Rabbi Akiva were traveling together. They heard the sound of the crowds of Rome from the port city — some say Platya, some say Patilos, a major port in Italy — from a distance of 120 *mil*. They could hear the tremendous noise even before they had landed. *Ve-hitchilu hein bochim*, the others began to weep. *Ve-Rabbi Akiva mesachek*, and Rabbi Akiva was laughing.
+
+### Fox & Laughter
+
+> **Hebrew/Aramaic:** שׁוּב פַּעַם אַחַת הָיוּ עוֹלִין לִירוּשָׁלַיִם, כֵּיוָן שֶׁהִגִּיעוּ לְהַר הַצּוֹפִים קָרְעוּ בִּגְדֵיהֶם, כֵּיוָן שֶׁהִגִּיעוּ לְהַר הַבַּיִת רָאוּ שׁוּעָל שֶׁיָּצָא מִבֵּית קׇדְשֵׁי הַקֳּדָשִׁים, הִתְחִילוּ הֵן בּוֹכִין וְרַבִּי עֲקִיבָא מְצַחֵק. אָמְרוּ לוֹ: מִפְּנֵי מָה אַתָּה מְצַחֵק? אָמַר לָהֶם: מִפְּנֵי מָה אַתֶּם בּוֹכִים? אָמְרוּ לוֹ: מָקוֹם שֶׁכָּתוּב בּוֹ ״וְהַזָּר הַקָּרֵב יוּמָת״, וְעַכְשָׁיו שׁוּעָלִים הִלְּכוּ בּוֹ, וְלֹא נִבְכֶּה?!
+> **Translation:** The Gemara relates another incident involving those Sages. **On another occasion they were ascending to Jerusalem** after the destruction of the Temple. **When they arrived at Mount Scopus** and saw the site of the Temple, **they rent their garments** in mourning, in keeping with halakhic practice. **When they arrived at the Temple Mount, they saw a fox that emerged from** the site of **the Holy of Holies. They began weeping, and Rabbi Akiva** was **laughing. They said to him: For what** reason **are you laughing?** Rabbi Akiva **said to them: For what** reason **are you weeping? They said to him:** This is the **place** concerning **which it is written: “And the non-priest who approaches shall die”** (Numbers 1:51), **and now foxes walk in it; and shall we not weep?**
 
 Their exchange on that occasion sets the stage, but the more vivid scene is the one that followed. On another occasion they were ascending to Jerusalem. When they reached Har Tzofim, they tore their garments — a *halacha* when one sees the site of the destroyed Temple. *Ke-ivan she-higiu le-Har ha-Bayit*, when they reached the Temple Mount itself, *ra'u shual she-yotzei mi-beit kodshei ha-kodashim* — they saw a fox emerging from the place of the Holy of Holies. *Hitchilu hein bochim ve-Rabbi Akiva mesachek* — the others wept, and Rabbi Akiva laughed.
 
@@ -404,17 +442,15 @@ Their question: *mipnei mah atah mesachek?* Why are you laughing? His counter: *
 
 ### Prophecy Link
 
-> **Hebrew/Aramaic:** שׁוּב פַּעַם אַחַת הָיוּ עוֹלִין לִירוּשָׁלַיִם, כֵּיוָן שֶׁהִגִּיעוּ לְהַר הַצּוֹפִים קָרְעוּ בִּגְדֵיהֶם, כֵּיוָן שֶׁהִגִּיעוּ לְהַר הַבַּיִת רָאוּ שׁוּעָל שֶׁיָּצָא מִבֵּית קׇדְשֵׁי הַקֳּדָשִׁים, הִתְחִילוּ הֵן בּוֹכִים וְרַבִּי עֲקִיבָא מְצַחֵק. אָמְרוּ לוֹ: מִפְּנֵי מָה אַתָּה מְצַחֵק? אָמַר לָהֶם: מִפְּנֵי מָה אַתֶּם בּוֹכִים? אָמְרוּ לוֹ: מָקוֹם שֶׁכָּתוּב בּוֹ ״וְהַזָּר הַקָּרֵב יוּמָת״, וְעַכְשָׁיו שׁוּעָלִים הִלְּכוּ בּוֹ, וְלֹא נִבְכֶּה?! אָמַר לָהֶן: לְכָךְ אֲנִי מְצַחֵק, דִּכְתִיב: ״וְאָעִידָה לִּי עֵדִים נֶאֱמָנִים אֵת אוּרִיָּה הַכֹּהֵן וְאֶת זְכַרְיָה בֶּן יְבֶרֶכְיָהוּ״ – וְכִי מָה עִנְיַן אוּרִיָּה אֵצֶל זְכַרְיָה? אוּרִיָּה בְּמִקְדָּשׁ רִאשׁוֹן, וּזְכַרְיָה בְּמִקְדָּשׁ שֵׁנִי! אֶלָּא: תָּלָה הַכָּתוּב נְבוּאָתוֹ שֶׁל זְכַרְיָה בִּנְבוּאָתוֹ שֶׁל אוּרִיָּה. בְּאוּרִיָּה כְּתִיב ״לָכֵן בִּגְלַלְכֶם צִיּוֹן שָׂדֶה תֵחָרֵשׁ״, בִּזְכַרְיָה כְּתִיב ״עוֹד יֵשְׁבוּ זְקֵנִים וּזְקֵנוֹת בִּרְחֹבוֹת יְרוּשָׁלִָם״. עַד שֶׁלֹּא נִתְקַיְּימָה נְבוּאָתוֹ שֶׁל אוּרִיָּה הָיִיתִי מִתְיָירֵא שֶׁלֹּא תִּתְקַיֵּים נְבוּאָתוֹ שֶׁל זְכַרְיָה, עַכְשָׁיו שֶׁנִּתְקַיְּימָה נְבוּאָתוֹ שֶׁל אוּרִיָּה – בְּיָדוּעַ שֶׁנְּבוּאָתוֹ שֶׁל זְכַרְיָה מִתְקַיֶּימֶת. בַּלָּשׁוֹן הַזֶּה אָמְרוּ לוֹ: עֲקִיבָא נִיחַמְתָּנוּ, עֲקִיבָא נִיחַמְתָּנוּ.
->
-> **Translation:** The Gemara relates another incident involving those Sages. **On another occasion they were ascending to Jerusalem** after the destruction of the Temple. **When they arrived at Mount Scopus** and saw the site of the Temple, **they rent their garments** in mourning. **When they arrived at the Temple Mount, they saw a fox that emerged from** the site of **the Holy of Holies. They began weeping, and Rabbi Akiva** was **laughing. They said to him: For what** reason **are you laughing?** Rabbi Akiva **said to them: For what** reason **are you weeping? They said to him:** This is the **place** concerning **which it is written: "And the non-priest who approaches shall die"** (Numbers 1:51), **and now foxes walk in it; and shall we not weep?**
->
-> **Rabbi Akiva said to them: That is why I am laughing, as it is written,** when God revealed the future to the prophet Isaiah: **"And I will take to Me faithful witnesses to attest: Uriah the priest, and Zechariah the son of Jeberechiah"** (Isaiah 8:2). **Now what is the connection between Uriah and Zechariah?** He clarifies the difficulty: **Uriah** prophesied **during the First Temple** period, **and Zechariah** prophesied **during the Second Temple** period. **Rather, the verse established that** fulfillment of **the prophecy of Zechariah** is **dependent on** fulfillment of **the prophecy of Uriah.**
->
-> **In** the prophecy of **Uriah it is written: "Therefore, for your sake Zion shall be plowed as a field.** In** the prophecy of **Zechariah it is written: "There shall yet be elderly men and elderly women sitting in the streets of Jerusalem"** (Zechariah 8:4). **Until the prophecy of Uriah** with regard to the destruction of the city **was fulfilled I was afraid that the prophecy of Zechariah would not be fulfilled.** **Now that the prophecy of Uriah was fulfilled, it** is **evident that the prophecy of Zechariah** remains **valid.** The Gemara adds: The Sages **said to him,** employing **this formulation: Akiva, you have comforted us; Akiva, you have comforted us.**
+> **Hebrew/Aramaic:** אָמַר לָהֶן: לְכָךְ אֲנִי מְצַחֵק, דִּכְתִיב: ״וְאָעִידָה לִּי עֵדִים נֶאֱמָנִים אֵת אוּרִיָּה הַכֹּהֵן וְאֶת זְכַרְיָה בֶּן יְבֶרֶכְיָהוּ״ – וְכִי מָה עִנְיַן אוּרִיָּה אֵצֶל זְכַרְיָה? אוּרִיָּה בְּמִקְדָּשׁ רִאשׁוֹן, וּזְכַרְיָה בְּמִקְדָּשׁ שֵׁנִי! אֶלָּא: תָּלָה הַכָּתוּב נְבוּאָתוֹ שֶׁל זְכַרְיָה בִּנְבוּאָתוֹ שֶׁל אוּרִיָּה.
+> **Translation:** Rabbi Akiva **said to them: That is why I am laughing, as it is written,** when God revealed the future to the prophet Isaiah: **“And I will take to Me faithful witnesses to attest: Uriah the priest, and Zechariah the son of Jeberechiah”** (Isaiah 8:2). **Now what is the connection between Uriah and Zechariah?** He clarifies the difficulty: **Uriah** prophesied **during the First Temple** period, **and Zechariah** prophesied **during the Second Temple** period, as he was among those who returned to Zion from Babylonia. **Rather, the verse established that** fulfillment of **the prophecy of Zechariah** is **dependent on** fulfillment of **the prophecy of Uriah.**
+
+> **Hebrew/Aramaic:** בְּאוּרִיָּה כְּתִיב ״לָכֵן בִּגְלַלְכֶם צִיּוֹן שָׂדֶה תֵחָרֵשׁ״, בִּזְכַרְיָה כְּתִיב ״עוֹד יֵשְׁבוּ זְקֵנִים וּזְקֵנוֹת בִּרְחֹבוֹת יְרוּשָׁלִָם״. עַד שֶׁלֹּא נִתְקַיְּימָה נְבוּאָתוֹ שֶׁל אוּרִיָּה הָיִיתִי מִתְיָירֵא שֶׁלֹּא תִּתְקַיֵּים נְבוּאָתוֹ שֶׁל זְכַרְיָה, עַכְשָׁיו שֶׁנִּתְקַיְּימָה נְבוּאָתוֹ שֶׁל אוּרִיָּה – בְּיָדוּעַ שֶׁנְּבוּאָתוֹ שֶׁל זְכַרְיָה מִתְקַיֶּימֶת. בַּלָּשׁוֹן הַזֶּה אָמְרוּ לוֹ: עֲקִיבָא נִיחַמְתָּנוּ, עֲקִיבָא נִיחַמְתָּנוּ.
+> **Translation:** **In** the prophecy of **Uriah it is written: “Therefore, for your sake Zion shall be plowed as a field,** and Jerusalem shall become rubble, and the Temple Mount as the high places of a forest” (Micah 3:12), where foxes are found. There is a rabbinic tradition that this was prophesied by Uriah. **In** the prophecy of **Zechariah it is written: “There shall yet be elderly men and elderly women sitting in the streets of Jerusalem”** (Zechariah 8:4). **Until the prophecy of Uriah** with regard to the destruction of the city **was fulfilled I was afraid that the prophecy of Zechariah would not be fulfilled,** as the two prophecies are linked. **Now that the prophecy of Uriah was fulfilled, it** is **evident that the prophecy of Zechariah** remains **valid.** The Gemara adds: The Sages **said to him,** employing **this formulation: Akiva, you have comforted us; Akiva, you have comforted us.**
 
 Rabbi Akiva's response is the heart of the passage. *D'ksiv: va-a'idah li eidim ne'emanim et Uriyah ha-Kohen ve-et Zecharya ben Yeverekhyahu* — the verse in Isaiah mentions Uriah and Zechariah as witnesses bound to one another. *Ve-chi mah inyan Uriyah etzel Zecharya?* What does Uriah have to do with Zechariah? They are prophets of different eras: Uriah prophesied during the First Temple period, Zechariah during the Second. Their prophecies are distinct. But the Scripture links them, and that linkage is the key. *Tala ha-katuv nevuato shel Zecharya bi-nevuato shel Uriyah* — the fulfillment of Zechariah's prophecy is made contingent upon the fulfillment of Uriah's.
 
-What did Uriah prophesy? *Lachem bi-glalchem Tziyon sadeh teichorash* — because of you, Zion will be plowed over like a field. What did Zechariah prophesy? *Od yeshvu zekenim u-zkenot bi-rechovot Yerushalayim* — once again, old men and women will sit in the streets of Jerusalem, a vision of restored life and peace and abundance in the city. These two prophecies are bound to one another. *Ad she-lo niskayma nevuato shel Uriyah, hayiti mitya'rei shelo tiskayem nevuato shel Zecharya* — as long as Uriah's prophecy had not yet been fulfilled, I was afraid that perhaps Zechariah's prophecy would not be fulfilled either. But now that Uriah's prophecy has been fulfilled — *achshav she-niskayma nevuato shel Uriyah* — now I know with certainty that Zechariah's will be fulfilled as well.
+What did Uriah prophesy? *Lachem bi-glalchem Tziyon sadeh teichorash* — because of you, Zion will be plowed over like a field. What did Zechariah prophesy? *Od yeshvu zekenim u-zkenot bi-rechovot Yerushalayim* — once again, old men and women will sit in the streets of Jerusalem, a vision of restored life and peace and abundance in the city. These two prophecies are bound to one another. *Ad she-lo niskayma nevuato shel Uriyah, hayisi mitya'rei shelo tiskayem nevuato shel Zecharya* — as long as Uriah's prophecy had not yet been fulfilled, I was afraid that perhaps Zechariah's prophecy would not be fulfilled either. But now that Uriah's prophecy has been fulfilled — *achshav she-niskayma nevuato shel Uriyah* — now I know with certainty that Zechariah's will be fulfilled as well.
 
 ### Suffering & Redemption
 
@@ -424,12 +460,12 @@ This connects back to the earlier exchange about hearing Rome's noise. *U-mah le
 
 ### Final Consolation
 
-> **Hebrew/Aramaic:** בַּלָּשׁוֹן הַזֶּה אָמְרוּ לוֹ: עֲקִיבָא נִיחַמְתָּנוּ, עֲקִיבָא נִיחַמְתָּנוּ. הֲדַרַן עֲלָךְ אֵלּוּ הֵן הַלּוֹקִין וּסְלִיקָא לַהּ מַסֶּכֶת מַכּוֹת
->
-> **Translation:** The Sages **said to him,** employing **this formulation: Akiva, you have comforted us; Akiva, you have comforted us.** We will return to you and we have acquired Tractate Makkos.
-
 *Ba-lashon ha-zeh amru lo: Akiva nichamtanu, Akiva nichamtanu* — in these very words they said to him: "Akiva, you have consoled us." The *masechta* ends here.
 
 Why does this story conclude a tractate that began with the laws of *malkot* and *arba mitot beit din*? On one level, every *masechta* in the old tradition closes with a word of consolation and hope. But the connection runs deeper. The entire concluding movement of the *masechta* has been about how to hold the weight of divine command and divine judgment. One answer was: every *aveira* is serious but every non-transgression is a *mitzvah*, and God multiplied the occasions for merit. Another was: distill it all to a core of ethical living that is both demanding and accessible. Another was: the prophets themselves softened what Moshe decreed.
 
-And now the final answer is Rabbi Akiva's: if you have the right *emunah*, then suffering itself becomes a source of faith rather than of despair. The destruction of the Temple is, on one reading, the ultimate indictment of the entire enterprise of Jewish law — the people failed to observe it, were punished, and the holiest site is now frequented by foxes. Rabbi Akiva reads it otherwise. The faithfulness of the divine word — even in its harshest expression — is the very thing on which one rests one's confidence in the promise of redemption. *Akiva nichamtanu* — and with that consolation, Masechet Makkot comes to its close.
+And now the final answer is Rabbi Akiva's: if you have the right *emunah*, then suffering itself becomes a source of faith rather than of despair. The destruction of the Temple is, on one reading, the ultimate indictment of the entire enterprise of Jewish law — the people failed to observe it, were punished, and the holiest site is now frequented by foxes. Rabbi Akiva reads it otherwise. The faithfulness of the divine word — even in its harshest expression — is the very thing on which one rests one's confidence in the promise of redemption.
+
+It is also worth noting what this ending may be doing on a broader polemical register. So much of *Masechet Makkot* and *Masechet Sanhedrin* before it is concerned with ritual sin and its consequences — precisely the terrain on which a critique of Jewish law as harsh, punishing, and ultimately failed might be leveled. The theological implication of Jewish suffering and exile, in such a critique, would be that the life of law has proven itself bankrupt. The ending of the *masechta* answers that directly: it is not a failure of faith or law but rather, if one has the right *emunah*, the very evidence of suffering points in the opposite direction. Hold onto that faith, the *masechta* says, and ultimately the promise will be fulfilled.
+
+*Akiva nichamtanu* — and with that consolation, Masechet Makkot comes to its close.

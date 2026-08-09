@@ -1,0 +1,299 @@
+## Prior Discussion Review
+
+
+
+### Kinyanim & Ye'ush
+
+> **Hebrew/Aramaic:** גּוּפָא, אָמַר רַבִּי יוֹחָנָן: גָּזַל וְלֹא נִתְיָיאֲשׁוּ הַבְּעָלִים – שְׁנֵיהֶם אֵינָן יְכוֹלִים לְהַקְדִּישׁ. זֶה לְפִי שֶׁאֵינוֹ שֶׁלּוֹ, וְזֶה לְפִי שֶׁאֵינוֹ בִּרְשׁוּתוֹ. וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי? וְהָאָמַר רַבִּי יוֹחָנָן: הֲלָכָה כִּסְתַם מִשְׁנָה;
+> **Translation:** § The Gemara returns to **the** matter **itself. Rabbi Yoḥanan says:** If one **stole** an item **and the owner has not** yet **despaired** of recovering it, **neither of them is able to consecrate** it. **This** one, the thief, cannot consecrate it **because it does not belong to him, and that** one, the owner, cannot consecrate it **because it is not in his possession.** The Gemara asks: **And did Rabbi Yoḥanan** actually **say this? But doesn’t Rabbi Yoḥanan say:** The ***halakha*** is invariably in accordance with the ruling of **an unattributed mishna,** i.e., a mishna that states a *halakha* without citing it in the name of a particular Sage?
+
+> **Hebrew/Aramaic:** וּתְנַן: כֶּרֶם רְבָעִי הָיוּ מְצַיְּינִין אוֹתוֹ בִּקְזוּזוֹת אֲדָמָה – סִימָנָא כִּי אֲדָמָה, מָה אֲדָמָה – אִיכָּא הֲנָאָה מִינַּהּ, אַף הַאי נָמֵי כִּי מִפַּרְקָא – שְׁרֵי לְאִיתְהֲנוֹיֵי מִינַּהּ.
+> **Translation:** **And** there is a mishna of this kind (*Ma’aser Sheni* 5:1) that contradicts Rabbi Yoḥanan’s statement, as **we learned** in a mishna: With regard to **a vineyard in its fourth year, they would demarcate it with clods of earth [*bikzozot*]** placed around it on the ground, to alert people that they may not eat or derive any benefit from its grapes without redeeming them. The Gemara interrupts its quotation of the mishna to explain: This particular **distinguishing mark** of earth is used because a vineyard in its fourth year is **like earth: Just as** with regard to **earth there is** permission to derive **benefit from it** through its cultivation, **so too,** with **this** fruit, **when it has been redeemed** by means of coins, it is likewise **permitted to benefit from it.**
+
+The opening of our discussion on daf 69 requires briefly revisiting the terrain covered in the preceding days, as the current sugya builds directly upon those foundations. The central question animating the earlier discussion was: which types of *kinyanim* are effective in the context of *geneiva*? Specifically, the *gemara* examined the distinction between *shinui ma'aseh* — a change in the physical nature of the stolen object — and *shinui hashem* — a change in its name or designation, without a corresponding physical transformation. The question of *chozer livriyaso*, whether the object reverts to its original state, bears directly on whether such a change constitutes an effective *kinyan*.
+
+Woven through this discussion was the role of *ye'ush* — the owner's despair of recovering the stolen item. The *gemara* addressed whether *ye'ush* and *shinui hashem* must operate in tandem, or whether *ye'ush* merely serves as a precondition enabling the *shinui hashem* to take effect. On this reading, the *ganav*'s act of designating the stolen leather for a particular use would only carry legal significance once the owner had already despaired — the *ye'ush* licenses the *ganav*'s designation. The *kinyan*, however, is ultimately effected through the *shinui hashem* itself, not through the *ye'ush* alone. The broader question of whether *ye'ush* operates independently as a *kinyan* was also explored at length, though from an indirect angle.
+
+### Shechita vs. Mechira
+
+The discussion then pivoted to a parallel question: under what circumstances is a *ganav* liable for slaughtering or selling a stolen animal? For *shechita*, the liability is essentially universal — slaughtering the stolen animal in any circumstance triggers the fourfold or fivefold payment. The more contested question concerns *mechira*, selling the animal. Here the *gemara* offered two conceptual frameworks. The first is *shana bacheit* — the *ganav* has repeated the sin; the act of selling mirrors the original act of theft in its defiance of the owner's rights. The second is *nishtarsha bacheit* — the sin has been given roots, made more permanent; the sale has now placed the object beyond the owner's reach.
+
+### Mechira Timing
+
+
+These two rationales carry different implications for the timing of liability in *mechira*. If the reason for the additional payment is that the *ganav* has simply repeated the sin, then liability could attach even before *ye'ush*, since the act of selling already constitutes a repetition regardless of whether the owner has despaired. If, however, the reason is *nishtarsha bacheit*, then the liability attaches only after *ye'ush*, because only at that point has the sale genuinely placed the object beyond the owner's recovery. A third possibility — that liability attaches both before and after *ye'ush* — was also on the table. The viability of these options depends in part on the antecedent question of whether *ye'ush* by itself operates as a *kinyan*. If *ye'ush* alone is *koneh*, then after *ye'ush* the *ganav* already owns the object, and the question of the *mechira* liability must be reframed entirely. This was the terrain of the prior discussion.
+
+---
+
+## Ganav's House Theft
+
+
+
+### Keplal Exemption
+
+We now turn to the *mishna* at hand, which addresses what happens when a second thief steals an object from the house of the first *ganav*. The *mishna* establishes that the second thief does not pay *kefel* — the double payment — to the *ganav*, since the *ganav* does not own the object. This is straightforward. What is the *chiddush* of the *mishna*, however, is that the second thief does not pay *kefel* even to the original owner. The source for this is the *pasuk*: *v'gunav mibeis ha'ish* — the theft must be from the person's own domain, his house. "House" here is understood figuratively, meaning the owner's sphere of control. Since the object has been stolen away and is now in the *ganav*'s possession, it is no longer within the owner's *reshut*, and the *kefel* obligation does not arise.
+
+### Shomer Chinam
+
+A related question emerges regarding a *shomer chinam* — an unpaid guardian. If one deposits an object with an unpaid guardian, and the object is subsequently stolen due to the guardian's negligence, the guardian bears liability for that negligence. The *ganav* who stole from the *shomer chinam* pays *kefel* — not to the original owner directly, but effectively into the network of obligations surrounding the object. The precise mechanics of who ultimately receives the *kefel* in various scenarios is acknowledged as a discussion belonging to tractate *Bava Metzia* rather than to the present context.
+
+### Cannot Sanctify
+
+This now brings us to the *gufa* of the discussion, which centers on a ruling of Rabbi Yochanan: *gezel velo nityashu habalim* — if an object was seized and the owners have not yet despaired, *sheneihem einam yecholim lehakdish* — neither party can sanctify it. The *gazlan* cannot sanctify it *lefi she'eino shelo* — because it is not his. But the owner also cannot sanctify it *lefi she'eino birshuto* — because, while it remains legally his, it is not within his control. Rabbi Yochanan is drawing a significant inference: the same logic that denies *kefel* when an object is outside the owner's domain — the requirement of *mibeis ha'ish* — implies a broader principle that an owner's capacity to exercise ownership rights is impaired when the object is not under his control.
+
+---
+
+## Field Markers
+
+
+
+### Marking Practice
+
+The *gemara* then pivots to a *mishna* from *Ma'aser Sheni* that will ultimately create a difficulty for Rabbi Yochanan's principle. The *mishna* describes the practice of marking different areas of one's field with distinct symbolic markers. A *kerem revai* — a vineyard in its fourth year, whose fruit must be brought to Jerusalem or redeemed — would be marked with clumps of earth, *tzrorot adamah*. An area bearing *orlah* — fruit of the first three years of a tree's growth, which is entirely prohibited — would be marked with pottery shards, *charsit*. A portion of the field that contained graves would be marked by pouring plaster, *sid*, around the perimeter.
+
+### Symbols Explained
+
+> **Hebrew/Aramaic:** וְשֶׁל עׇרְלָה בְּחַרְסִית – סִימָנָא כְּחַרְסִית, מָה חַרְסִית שֶׁאֵין הֲנָאָה מִינַּהּ, אַף הַאי דְּלֵית (בֵּיהּ) הֲנָאָה מִינֵּיהּ.
+> **Translation:** The Gemara resumes its citation from the mishna: **And** a grapevine **of *orla*** is demarcated **with potsherds [*ḥarsit*]** placed around it, to alert people that its grapes may not be eaten nor may any benefit be derived from them at all (see Leviticus 19:23). The Gemara explains: This particular **distinguishing mark** is used because *orla* is **like potsherds: Just as no benefit** is derived **from potsherd, so too, no benefit** may be derived **from this** *orla*.
+
+> **Hebrew/Aramaic:** וְשֶׁל קְבָרוֹת בְּסִיד – סִימָנָא דְּחִיוָּר כַּעֲצָמוֹת. וּמְמַחֶה וְשׁוֹפֵךְ כִּי הֵיכִי דְּנִיחַוַּור טְפֵי.
+> **Translation:** The mishna continues: **And** an area **of graves** is demarcated **with lime,** to notify people that the demarcated area is ritually impure and will impart impurity to those who pass over it. The Gemara explains: The reason this particular **distinguishing mark** is used is **that** lime is **white, like bones.** The mishna further states: **And** one **dissolves** the lime in water **and pours** it out around the gravesite. The Gemara explains: This is performed **in order that** the lime **should be whiter** than in its non-dissolved form.
+
+The *gemara* explains the symbolic logic behind each marker. The clumps of earth marking *kerem revai* evoke the nature of the ground itself: just as the earth yields produce from which one derives benefit, so too *kerem revai* — once redeemed — is permitted for consumption and benefit. The pottery marking *orlah* conveys the opposite: a broken shard yields no benefit, signaling that the fruit in that area is entirely forbidden in benefit. The plaster marking a grave is white, evoking the whiteness of bones — a visible warning to *kohanim* who must avoid ritual contamination through proximity to the dead.
+
+### RSBG Position
+
+> **Hebrew/Aramaic:** אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: בַּמֶּה דְּבָרִים אֲמוּרִים – בִּשְׁבִיעִית, דְּהֶפְקֵר נִינְהוּ;
+> **Translation:** The Gemara resumes the citation from the mishna. **Rabban Shimon ben Gamliel said: In what** case **is this statement,** that vineyards of the fourth year and of *orla* require demarcation, **said? During the Sabbatical** Year. The Gemara explains: The reason is **that** all fruit that grows during that year may be taken by anyone (see Leviticus 25:5–6), as in that year all fruit is considered to be **ownerless** property.
+
+> **Hebrew/Aramaic:** אֲבָל בִּשְׁאָר שְׁנֵי שָׁבוּעַ – הַלְעִיטֵהוּ לָרָשָׁע וְיָמוּת.
+> **Translation:** The mishna continues: **But during the other years of** the Sabbatical **cycle,** when anyone who takes the grapes of another is guilty of theft, there is no requirement to demarcate these vineyards. This is in accordance with the adage: **Feed it to the wicked man and let him die.** That is, one is not required to take precautions to protect the wicked from the consequences of their own sins. Here too, there is no obligation to warn a thief that the grapes he is stealing are prohibited.
+
+Rabban Shimon ben Gamliel then qualifies this practice. He asks: when does the obligation — or at least the propriety — of such marking apply? His answer is: *beshvi'it*, only in the *shmita* year. The *gemara* explains: during *shmita*, the produce of the land becomes *hefker*, and people have a legal right to enter fields and take fruit. In such circumstances, it is genuinely important to alert passersby that what they are about to take is *kerem revai* or *orlah*, since their entry is lawful and their taking permitted. But during the other years of the seven-year cycle, the situation is different.
+
+### Ethical Obligation
+
+Rabban Shimon ben Gamliel invokes the principle *haliteihu l'rasha v'yamot* — pour it down the wicked person's throat and let him die. This is a striking moral position. If someone is already committing the sin of stealing from your field, you bear no responsibility to provide them with information that would prevent them from compounding that sin by consuming *orlah* or eating *kerem revai* outside of Jerusalem. The ethical question this raises is genuinely challenging. The principle seems to say: when a person is already engaged in a transgression, the obligation to prevent them from committing a secondary transgression is diminished or eliminated.
+
+This does not mean that any harm that befalls them is to be wished for — it is more a statement about the limits of one's obligation to facilitate another's compliance. If someone is stealing from your property, you are not required to label your stolen goods for their convenience. The message embedded in marking the field under such circumstances might even be seen as tacitly condoning the theft — as if the only *aveira* that matters is the *bein adam l'makom* dimension of eating *orlah*, while the *bein adam l'chavero* violation of theft is passed over in silence. Rabban Shimon ben Gamliel's position, then, is that you do not paper over a more serious wrong by accommodating the sinner in a lesser matter.
+
+### Chasidim Extra
+
+> **Hebrew/Aramaic:** וְהַצְּנוּעִין מַנִּיחִין אֶת הַמָּעוֹת, וְאוֹמְרִים: ״כׇּל הַנִּלְקָט מִזֶּה, מְחוּלָּל עַל הַמָּעוֹת הַלָּלוּ״!
+> **Translation:** The mishna continues: **But the pious ones would set aside** some **coins and say: Anything that was picked from this** vine by passersby **shall be desacralized onto these coins.** These pious ones maintain that the owner can desacralize the grapes despite the fact that they are no longer in his possession. Similarly, contrary to the opinion of Rabbi Yoḥanan, they would claim that an owner can consecrate a stolen item even though it is no longer in his possession. Since this opinion is cited in the mishna without being attributed to any particular Sage, Rabbi Yoḥanan should have accepted this ruling.
+
+The *mishna* then introduces the *tzenuim* — the pious ones, those who go beyond the letter of the law in their concern for others. The *mishna* describes what the *tzenuim* would do in a case involving *kerem revai*: *manichin et hamaot*, they would set aside money, and declare: *kol hanilkat mizeh mechulal al hamaot halalu* — anything taken from this vineyard shall be transferred, redeemed, onto this money. In other words, even if a thief ignores the marker and takes the *kerem revai*, at least the *kedusha* has been transferred to the money and the thief will not be eating *kerem revai* outside of Jerusalem.
+
+---
+
+## Tzenuim/Dosa Puzzle
+
+
+
+### Challenge to RY
+
+> **Hebrew/Aramaic:** וְכִי תֵּימָא: מַאן תְּנָא צְנוּעִין – רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, וְרַבִּי יוֹחָנָן כִּסְתָם יְחִידָאָה לָא אָמַר;
+> **Translation:** **And if you would say: Who** is the *tanna* that **taught** this practice of the **pious ones** in the mishna? It is **Rabban Shimon ben Gamliel, and Rabbi Yoḥanan did not say** his principle that the *halakha* is always in accordance with **an unattributed** mishna when it follows **an individual** opinion; this suggestion does not alleviate the difficulty.
+
+> **Hebrew/Aramaic:** וְהָאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: כׇּל מָקוֹם שֶׁשָּׁנָה רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל בְּמִשְׁנָתֵנוּ – הֲלָכָה כְּמוֹתוֹ, חוּץ מֵעָרֵב וְצַיְדָן וּרְאָיָה אַחֲרוֹנָה!
+> **Translation:** The Gemara explains: **But doesn’t Rabba bar bar Ḥana say** that **Rabbi Yoḥanan says: Wherever Rabban Shimon ben Gamliel taught** a statement **in** the corpus of **our Mishna, the *halakha* is in accordance with his** opinion, **except for** the case of the responsibility of the **guarantor** (see *Bava Batra* 173b), **and** the incident that occurred in the city of **Tzaidan** (see *Gittin* 74a), **and** the dispute with regard to **evidence** in the **final** disagreement (see *Sanhedrin* 31a). Consequently, even if the opinion of the pious ones was cited by Rabban Shimon ben Gamliel, Rabbi Yoḥanan should have accepted it as authoritative.
+
+Here the *gemara* raises a sharp question against Rabbi Yochanan. If Rabbi Yochanan holds that an owner cannot exercise ownership rights over an object that is out of his control — and in particular cannot be *makdish* it — how can the *tzenuim* redeem the *kerem revai* once it has already been taken? Once the fruit has been stolen or taken out of the owner's domain, it is no longer *birshuto*. The act of redemption the *tzenuim* are performing — transferring the *kedusha* from the fruit to the money — would seem to be precisely the kind of exercise of ownership rights that Rabbi Yochanan says cannot be done when the object is outside the owner's control.
+
+Moreover, the *gemara* notes that Rabbi Yochanan himself ruled that *halacha* follows a *stam mishna* — an anonymous, unattributed *mishna*. And if the *tzenuim* passage is a *stam mishna*, Rabbi Yochanan would be bound to rule accordingly. One might argue that the passage about the *tzenuim* falls within the quoted opinion of Rabban Shimon ben Gamliel and is not truly a *stam mishna*. However, the *gemara* neutralizes this escape route by citing the well-known ruling — transmitted by Rabba bar bar Chana in the name of Rabbi Yochanan — that wherever Rabban Shimon ben Gamliel appears in *mishnatenu*, *halacha k'moto*, we rule like him, with only three exceptions: *arev*, *Tzidan*, and *ra'aya acharona*. So even if the *tzenuim* passage is Rabban Shimon ben Gamliel's view, Rabbi Yochanan would follow it.
+
+### Breira Solution
+
+> **Hebrew/Aramaic:** אָמְרִי: לָא תֵּימָא ״כׇּל הַנִּלְקָט מִזֶּה״, אֶלָּא אֵימָא ״כָּל הַמִּתְלַקֵּט מִזֶּה״.
+> **Translation:** The Sages **say,** in explanation of the opinion of Rabbi Yoḥanan: When quoting the declaration of the pious ones, **do not say** in the past tense: **Anything that was picked from this** vine by passersby shall be desacralized onto these coins. **Rather, say: Anything that will be picked from this** vine shall be desacralized onto these coins. In other words, the desacralizing is performed before the fruit is picked, while it is still in the full possession of the owner of the vine.
+
+> **Hebrew/Aramaic:** וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי? וְהָאָמַר רַבִּי יוֹחָנָן: צְנוּעִין וְרַבִּי דּוֹסָא אָמְרוּ דָּבָר אֶחָד; וְרַבִּי דּוֹסָא ״נִלְקָט״ קָאָמַר!
+> **Translation:** The Gemara asks: **And did Rabbi Yoḥanan** actually **say such** a ruling? Could Rabbi Yoḥanan agree to this reformulation of the declaration of the pious ones? **But doesn’t Rabbi Yoḥanan say: The pious ones and Rabbi Dosa said the same thing,** i.e., their opinions are equivalent? **And Rabbi Dosa says** that this declaration is formulated in the past tense, as: Anything **that was picked.**
+
+> **Hebrew/Aramaic:** דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: שַׁחֲרִית – בַּעַל הַבַּיִת עוֹמֵד וְאוֹמֵר: ״כׇּל שֶׁיְּלַקְּטוּ עֲנִיִּים הַיּוֹם, יְהֵא הֶפְקֵר״.
+> **Translation:** **As it is taught** in a *baraita* that **Rabbi Yehuda says:** In the **morning the homeowner,** i.e., the owner of a field, **stands and says: Anything that the poor will pick today** that is not rightfully theirs **shall** hereby **be** considered **ownerless** property. The poor are entitled to glean leftover grain from a field after it is harvested (Leviticus 23:22). Yet there are many *halakhot* involved in determining what produce they are entitled to take, and not all poor people are learned enough to know these *halakhot*. Consequently, there will inevitably be poor people who will take a certain amount of grain to which they are not entitled. For this reason, the owner of the field should relinquish, in advance, ownership over whatever the poor might unlawfully take.
+
+> **Hebrew/Aramaic:** רַבִּי דּוֹסָא אוֹמֵר, לְעִיתּוֹתֵי עֶרֶב אוֹמֵר: ״כׇּל שֶׁלָּקְטוּ עֲנִיִּים יְהֵא הֶפְקֵר״!
+> **Translation:** **Rabbi Dosa says:** This is not the correct practice. Rather, **toward evening** the owner should **say: Anything that the poor picked** today that is not rightfully theirs **shall** hereby **be** considered **ownerless** property. Since Rabbi Yoḥanan stated that the opinions of the pious ones and Rabbi Dosa are the same, this indicates that the declaration of the pious ones was in the past tense, which means that they permitted redemption of fourth-year produce after it was already stolen. If so, the question remains: Why did Rabbi Yoḥanan not accept the ruling of the pious ones as authoritative?
+
+The *gemara*'s first attempt at resolution is to reread the *tzenuim*'s declaration. Instead of reading *kol hanilkat mizeh* — anything that was already taken — read it as *kol hamitlaket mizeh* — anything that will be taken. On this reading, the *tzenuim* are making their declaration in the morning, before anyone has entered the vineyard, while the fruit is still entirely under the owner's control. The redemption thus takes effect now, based on whatever fruit will subsequently turn out to be taken. This is a classic *breira* — the designation is made now but its object is determined retroactively by future events. In this reading, there is no *aino birshuto* problem at all, because the owner is acting while the fruit is still in his possession.
+
+*Tosafot* raises two observations here. First, one might wonder why the owner does not simply redeem the entire vineyard at once. *Tosafot* suggests that the owner wishes to bring the fruit to Jerusalem and eat it there, and therefore prefers not to redeem it; or that additional fruit may grow later and the blanket redemption would not cover it, so he prefers to redeem only what is necessary. Second, this reading requires the *gemara* to assume that fruit can be redeemed while still attached to the ground — normally a problematic assumption — since the declaration is being made in the morning when the fruit has not yet been picked.
+
+It is worth pausing to note what is actually driving the *tzenuim*'s concern in the first place. The *aniyim* are entering the vineyard and taking fruit, but they are not always taking only what they are permitted to take — not every *ani* knows or follows the relevant rules. The owner wishes to avoid the *aniyim* being treated as *gazlanim*, thieves, and so seeks to declare what they take as *hefker*. *Tosafot* adds that there is a further technical concern: if the fruit is not *hefker* at the moment the *aniyim* pick it up, and is only declared *hefker* after the fact, then the *aniyim* would be obligated to separate *trumot u'maasrot* from it. If, however, it is *hefker* at the point of picking, one who takes something from *hefker* incurs no such obligation. So the precise timing of the *hefker* declaration carries real *halachic* weight, which is exactly why the *gemara* is pressing so hard on when the declaration must occur. The *gemara* then parallels this to Rabbi Dosa's ruling — that *Rabbi Yochanan* equates the *tzenuim* and Rabbi Dosa as saying the same thing — and Rabbi Dosa explicitly says the declaration is made *le'itotei erev*, toward evening, after the *aniyim* have already picked. This alignment threatens the *breira* resolution, since Rabbi Dosa's formulation is clearly after the fact, not before it, a tension the *gemara* will now attempt to address by reversing the names in the *braita*.
+
+### RY No Breira
+
+> **Hebrew/Aramaic:** אֵיפוֹךְ דְּרַבִּי יְהוּדָה לְרַבִּי דּוֹסָא, וְרַבִּי דּוֹסָא לְרַבִּי יְהוּדָה. אַמַּאי אָפְכַתְּ מַתְנִיתָא? אִפְכַהּ לְרַבִּי יוֹחָנָן, וְאֵימָא: ״צְנוּעִין וְרַבִּי יְהוּדָה אָמְרוּ דָּבָר אֶחָד״!
+> **Translation:** The Gemara answers: **Reverse** the opinion **of Rabbi Yehuda with** that of **Rabbi Dosa, and** that **of Rabbi Dosa with** that of **Rabbi Yehuda.** According to this new version of the *baraita*, Rabbi Dosa does not permit the owner of an item to exercise any control over it after it has been stolen from him. The Gemara asks: **Why do you reverse the *baraita*** to avoid a contradiction between the statements of Rabbi Yoḥanan? It is better to **reverse** the statement of **Rabbi Yoḥanan** himself, **and say** that he actually stated: **The pious ones and Rabbi Yehuda said the same thing,** and leave the *baraita* intact.
+
+> **Hebrew/Aramaic:** אָמְרִי: לָא סַגִּיא דְּלָא מִתְהַפְכָא מַתְנִיתָא; דִּבְהָא מַתְנִיתִין קָתָנֵי דְּאִית לֵיהּ לְרַבִּי יְהוּדָה בְּרֵירָה, וְשָׁמְעִינַן לֵיהּ לְרַבִּי יְהוּדָה בְּעָלְמָא דְּלֵית לֵיהּ בְּרֵירָה – דִּתְנַן:
+> **Translation:** The Gemara **says: There is no alternative, as** one **cannot** do otherwise than **to reverse the *baraita*, as** that would mean **that in this *baraita* it teaches that Rabbi Yehuda holds** that there is a principle of retroactive **designation. And we have heard** elsewhere **that Rabbi Yehuda generally does not accept** the principle of retroactive **designation, as we learned** in a mishna (*Demai* 7:4):
+
+> **Hebrew/Aramaic:** הַלּוֹקֵחַ יַיִן מִבֵּין הַכּוּתִים, אוֹמֵר: שְׁנֵי לוּגִּין שֶׁאֲנִי עָתִיד לְהַפְרִישׁ – הֲרֵי הֵן תְּרוּמָה; עֲשָׂרָה מַעֲשֵׂר רִאשׁוֹן; תִּשְׁעָה מַעֲשֵׂר שֵׁנִי; וּמֵיחֵל וְשׁוֹתֶה מִיָּד, דִּבְרֵי רַבִּי מֵאִיר.
+> **Translation:** In the case of **one who purchases wine from among the Samaritans [*Kutim*],** if there is reason to suspect that *teruma* and tithes were not separated, and he cannot separate them before the start of Shabbat, he acts as follows. If there are one hundred *log* of wine in the barrels, he **says: Two *log* that I will separate in the future are *teruma*,** as the mandated average measure of *teruma* is one-fiftieth; **ten** *log* are **first tithe;** and a tenth of the remainder, **nine** *log*, are **second tithe. And he desacralizes** the second tithe that he will separate in the future by transferring its sanctity onto money, **and he may drink** the wine **immediately,** relying on the separation that he will perform later. This is **the statement of Rabbi Meir.**
+
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה וְרַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן אוֹסְרִין.
+> **Translation:** **Rabbi Yehuda, Rabbi Yosei, and Rabbi Shimon prohibit** one from doing so. The objection of these three Sages is presumably that this arrangement relies on the principle of retroactive designation, as at the time of the declaration the identity of the particular portions of wine that will be *teruma* and tithes is unknown, and these Sages do not accept this principle. It is apparent from this mishna that Rabbi Yehuda does not accept retroactive designation, and therefore he cannot be the one who said that the owner of the field may issue his declaration of relinquishment in the morning.
+
+> **Hebrew/Aramaic:** אָמְרִי: סוֹף סוֹף, אַמַּאי קָא אָפְכַתְּ לַהּ לְמַתְנִיתִין – מִשּׁוּם דְּקַשְׁיָא דְּרַבִּי יְהוּדָה אַדְּרַבִּי יְהוּדָה; הַשְׁתָּא נָמֵי – קַשְׁיָא דְּרַבִּי יוֹחָנָן אַדְּרַבִּי יוֹחָנָן,
+> **Translation:** The Gemara **says: Ultimately, why do you reverse the *baraita*** that contains the opinions of Rabbi Yehuda and Rabbi Dosa? It is **because** there is **a difficulty** due to the contradiction between one statement **of Rabbi Yehuda** and another statement **of Rabbi Yehuda. Now too,** although you have reversed the *baraita*, a similar problem remains, as there is **a difficulty** due to the contradiction between one statement **of Rabbi Yoḥanan** and another statement **of Rabbi Yoḥanan.**
+
+> **Hebrew/Aramaic:** דְּאָמְרַתְּ לְרַבִּי יוֹחָנָן לָא תֵּימָא ״כׇּל הַנִּלְקָט״, אֶלָּא אֵימָא ״כָּל הַמִּתְלַקֵּט״ – אַלְמָא אִית לֵיהּ בְּרֵירָה; וְהָא רַבִּי יוֹחָנָן לֵית לֵיהּ בְּרֵירָה,
+> **Translation:** **As you said, according to** the opinion of **Rabbi Yoḥanan: Do not say** that **anything that was picked** from this vine by passersby shall be desacralized onto these coins. **Rather, say** that **anything that will be picked from this** vine shall be desacralized onto these coins. **Apparently,** Rabbi Yoḥanan here **accepts** the principle of retroactive **designation. But** it is established that **Rabbi Yoḥanan does not accept** the principle of retroactive **designation.**
+
+> **Hebrew/Aramaic:** דְּאָמַר רַב אַסִּי אָמַר רַבִּי יוֹחָנָן: הָאַחִין שֶׁחָלְקוּ – לָקוֹחוֹת הֵן, וּמַחְזִירִין זֶה לָזֶה בַּיּוֹבֵל!
+> **Translation:** **As Rav Asi says** that **Rabbi Yoḥanan says: Brothers who divided** property received as an inheritance **are** considered **purchasers** from each other, **and** as purchasers of land **they must return** the portions **to each other in the Jubilee** Year, at which point they may redistribute the property. This demonstrates that Rabbi Yoḥanan does not hold that it is retroactively clarified that each brother’s portion was designated for him directly upon their father’s death, but rather all the land was considered joint property until the brothers traded or bought their respective portions from each other at the time of the distribution of the estate.
+
+However, this resolution immediately generates a new difficulty: Rabbi Yochanan himself does not hold of *breira*. The *gemara* cites the ruling transmitted by Rabbi Assi in the name of Rabbi Yochanan: *ha'achim shechalku lekuchos hen* — brothers who divide an inherited estate are treated as purchasers of one another's shares. This means that when *yovel* arrives, those divisions revert, just as any sale reverts at *yovel*. This ruling reflects a rejection of *breira*: Rabbi Yochanan does not accept the retroactive determination that each brother's share was "always" destined to be his. Instead, the division is viewed as a transactional exchange, subject to the laws of *yovel*. If Rabbi Yochanan does not hold of *breira*, he cannot explain the *tzenuim*'s practice as a morning declaration that takes effect retroactively.
+
+At this point the *gemara* has exhausted its initial avenue of escape. Whether the *tzenuim*'s declaration is read as occurring after the fact — in which case it runs afoul of Rabbi Yochanan's principle of *aino birshuto* — or as occurring in the morning as a *breira* — it runs afoul of Rabbi Yochanan's rejection of *breira*. The same problem applies to Rabbi Dosa's ruling about the *baal habayit* and the *aniyim*. In the version of the *braita* as initially presented, Rabbi Yehuda says the *baal habayit* declares in the morning — *shacharit* — that whatever the *aniyim* will pick shall be *hefker*, and Rabbi Dosa says the declaration is made toward evening — *le'itotei erev* — covering what the *aniyim* have already picked. The *gemara* attempted to reverse the names so that Rabbi Dosa would be the one declaring in the morning, and thus his position would align with the *tzenuim* as understood through *breira*. But this reversal was itself necessitated by the need to reconcile Rabbi Yehuda's stated position with the fact that he is elsewhere known not to hold of *breira* — and it is noted that in the *mishna* concerning one who purchases wine from Samaritans on *erev Shabbat* at *bein hashmashot*, Rabbi Yehuda and Rabbi Yosi and Rabbi Shimon all forbid the *breira*-dependent solution that Rabbi Meir permits.
+
+*Rashi* notes, however, that there is another *gemara* indicating that Rabbi Yehuda does in principle hold of *breira*, and that his objection in the *maaser* case stems from a different concern — the possibility that the wine might all be consumed or the barrel might break before the designation can be carried out, leaving the separation retroactively invalid. On this reading, it is not necessary to reverse the names in the *braita* at all: Rabbi Yehuda may genuinely hold of *breira* and be the one who says the declaration in the morning; Rabbi Yosi is the one who says it in the evening; and the *tzenuim* align with Rabbi Yosi, not with Rabbi Dosa.
+
+### Other Stam
+
+With the *breira* solution foreclosed for Rabbi Yochanan, the *gemara* reaches its resolution. *Rabbi Yochanan stama d'matnitin ashkech* — Rabbi Yochanan found another *stam mishna*, one that in his view reflects the governing principle and takes precedence. That *stam mishna* is precisely our *mishna* here: *eino gonev achar ganav meshalem tashlumei kefel* — a second thief who steals from the first *ganav* does not pay *kefel*. The *gemara* asks: why not? Clearly the second thief cannot pay *kefel* to the *ganav*, since the *ganav* does not own the object — *v'gunav mibeis ha'ish*, not from the *ganav*'s house. But why not pay the original owner? The answer the *gemara* derives is: *zeh lefi she'eino shelo v'zeh lefi she'eino birshuto* — this one because it is not his, and the other because it is not under his control. Rabbi Yochanan reads this *stam mishna* not as an arbitrary scriptural limitation (*gezeirat hakatuv*), but as reflecting a substantive legal principle: when an object is outside the owner's *reshut*, the owner's legal capacity to exercise ownership rights is impaired.
+
+> **Hebrew/Aramaic:** אֶלָּא לְעוֹלָם ״כׇּל הַנִּלְקָט״,
+> **Translation:** In light of this objection, the Gemara retracts its previous assertion that Rabbi Yoḥanan reformulated the declaration of the pious ones. **Rather,** the pious ones **actually** declared in the past tense: **Anything that was picked** from this vine by passersby shall be desacralized onto these coins, i.e., the desacralizing took place after the grapes were stolen. If so, the question remains: Why did Rabbi Yoḥanan not accept the opinion of the pious ones, but instead ruled that the owner of an item cannot consecrate it after it has been stolen?
+
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן סְתָמָא אַחֲרִינָא אַשְׁכַּח – דִּתְנַן: אֵין הַגּוֹנֵב אַחַר הַגַּנָּב מְשַׁלֵּם תַּשְׁלוּמֵי כֶפֶל. אַמַּאי? בִּשְׁלָמָא לְגַנָּב רִאשׁוֹן לָא מְשַׁלֵּם – ״וְגֻנַּב מִבֵּית הָאִישׁ״, וְלֹא מִבֵּית הַגַּנָּב; אֶלָּא לִבְעָלִים – נְשַׁלֵּם!
+> **Translation:** The Gemara answers: **Rabbi Yoḥanan found a different unattributed** mishna, which contradicts the opinion of the pious ones. **As we learned** in the mishna here (62b): **One who steals** an item **after a thief** has already stolen it, i.e., one who steals a stolen item, **does not pay** the **double payment** to the thief or to the prior owner. **Why** not? **Granted** that **he does not pay to the first thief, as** the verse states: **“And it was stolen from the house of the man;** if the thief shall be found he shall pay double” (Exodus 22:6), which indicates that the double payment applies in the case of an item “stolen from the house of the man,” i.e., from the owner’s jurisdiction, but **not** to an item stolen from **the thief’s house. But let him pay** the double payment **to the owner,** as it presumably still belonged to the owner when the second thief stole it.
+
+> **Hebrew/Aramaic:** אֶלָּא לָאו שְׁמַע מִינַּהּ: זֶה לְפִי שֶׁאֵינוֹ שֶׁלּוֹ, וְזֶה לְפִי שֶׁאֵינוֹ בִּרְשׁוּתוֹ.
+> **Translation:** **Rather,** must one **not conclude from** this that a stolen item is not under the full jurisdiction of either the owner or the thief? It is not under the jurisdiction of **this** one, the first thief, **because it does not belong to him, and** it is not under the jurisdiction of **that** one, the owner, **because it is not in his possession.** Therefore, neither of them can consecrate the stolen item.
+
+> **Hebrew/Aramaic:** וּמַאי חָזֵי(ת) דְּאָזֵיל בָּתַר הַהִיא סְתָמָא? לֶיעְבֵּיד כִּי הַאי סְתָמָא דִּצְנוּעִין!
+> **Translation:** The Gemara asks: Granted that this unattributed mishna disagrees with the mishna that cites the pious ones, **but what did you see** that led you to **follow that unattributed** mishna, the one that discusses the double payment? **Let** Rabbi Yoḥanan **act,** i.e., rule, **in accordance with this unattributed** mishna, which states the practice **of the pious ones.** On what basis did he choose one mishna over the other?
+
+> **Hebrew/Aramaic:** מִשּׁוּם דִּמְסַיַּיע לֵיהּ קְרָא: ״וְאִישׁ כִּי יַקְדִּשׁ אֶת בֵּיתוֹ קֹדֶשׁ לַה׳״ – מָה בֵּיתוֹ בִּרְשׁוּתוֹ, אַף כֹּל בִּרְשׁוּתוֹ.
+> **Translation:** The Gemara answers: Rabbi Yoḥanan followed the mishna that discusses the double payment **because** there is **a verse** that **supports it: “And when a man shall sanctify his house to be holy to the Lord”** (Leviticus 27:14), from which it is derived: **Just as one’s house is in his possession, so too anything** that one consecrates must **be in his possession,** excluding items that have been stolen from him.
+
+### Impaired Rights
+
+
+The *gemara* then asks why Rabbi Yochanan chooses to follow this *stam mishna* rather than the *stam mishna* of the *tzenuim*. The answer is that there is a *pasuk* that supports Rabbi Yochanan's principle specifically in the domain of *hekdesh*: *v'ish ki yakdish et beito kodesh l'Hashem* — a man who sanctifies his house. The *gemara* infers: *mah beito birshuto, af kol birshuto* — just as his house is under his control, so too any sanctification must be of something under his control. The language of *beito* in the *hekdesh* verse parallels the language of *mibeis ha'ish* in the *geneiva* verse, and both converge on the same principle: it is *reshut*, control, that enables the exercise of ownership rights.
+
+Rabbi Yochanan's original stated ruling was limited to *hekdesh* — that neither the *gazlan* nor the owner can be *makdish* an object that is not in the owner's control. But the *gemara* abstracts this further. If the owner cannot be *makdish* the object — an act that transfers its status — the underlying reason must be that any meaningful exercise of ownership requires the object to be within one's domain. This abstraction extends, in principle, to selling, giving, being *mafkir*, and redeeming. It is worth pausing over this abstraction, however, because it is not entirely obvious that all of these cases are equivalent. Tosafot notes that redemption — the act of transferring *kedusha* off an object rather than transferring title — seems to require considerably less than full ownership standing. One can, after all, redeem an object that belongs to someone else entirely. So when the question is whether the owner can redeem his own *kerem revai* that is out of his control, one might argue he does not need his full powers as owner to do so; he is merely removing the *kedusha*, not asserting dominion over the fruit itself. Similarly with *hefker*: one could argue that relinquishing ownership is actually easier to accomplish when the object is already partly outside one's control, since one is simply withdrawing the remaining claim. The force of Rabbi Yochanan's abstracted principle, then, is real, but its application to acts like redemption and *hafkarah* — the very two cases the *gemara* has been discussing — is less self-evident than its application to a straightforward sale or act of *hekdesh*, a point the *gemara* itself will surface shortly.
+
+---
+
+## Rishonim Answers
+
+
+
+### Abaye View
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: אִי לָאו דְּאָמַר רַבִּי יוֹחָנָן צְנוּעִין, וְרַבִּי דּוֹסָא אָמְרוּ דָּבָר אֶחָד, הֲוָה אָמֵינָא: צְנוּעִין אִית לְהוּ דְּרַבִּי דּוֹסָא, וְרַבִּי דּוֹסָא לֵית לֵיהּ דִּצְנוּעִין.
+> **Translation:** § **Abaye said: If Rabbi Yoḥanan had not said** that **the pious ones and Rabbi Dosa said the same thing,** i.e., their rulings are identical, **I would say** that **the pious ones accept** the opinion **of Rabbi Dosa, but Rabbi Dosa does not accept** the opinion **of the pious ones.**
+
+> **Hebrew/Aramaic:** צְנוּעִין אִית לְהוּ דְּרַבִּי דּוֹסָא – וּמָה בְּגַנָּב עֲבַדוּ רַבָּנַן תַּקַּנְתָּא, עֲנִיִּים צְרִיכָא לְמֵימַר? רַבִּי דּוֹסָא לֵית לֵיהּ דִּצְנוּעִין – עֲנִיִּים הוּא דַּעֲבַדוּ לְהוּ רַבָּנַן תַּקַּנְתָּא, אֲבָל גַּנָּב לָא עֲבַדוּ לַיהּ רַבָּנַן תַּקַּנְתָּא.
+> **Translation:** Abaye elaborates: **The pious ones accept** the opinion **of Rabbi Dosa,** for the following reason: **And if the Sages instituted an ordinance for** the sake of **a thief,** to prevent him from eating unredeemed fourth-year grapes, by allowing the owner to desacralize produce that is no longer in his possession, does it **need to be said** that they did so for the sake of innocent **poor people,** as Rabbi Dosa claimed? Conversely, **Rabbi Dosa does not accept** the opinion **of the pious ones,** as he says: It **is** for the sake of **poor people that the Sages instituted an ordinance; but the Sages did not institute an ordinance for** the sake of **a thief,** in line with the aforementioned principle: Feed it to the wicked man and let him die.
+
+The *gemara* now presents three *amora'im* — Abaye, Rava, and Ravina — each of whom proposes what he would have said, had Rabbi Yochanan not equated the *tzenuim* with Rabbi Dosa. Abaye's position is motivational rather than doctrinal. He says: had Rabbi Yochanan not linked them, I would have said that the *tzenuim* agree with Rabbi Dosa's general principle — that one can be *mafkir* something even when it is taken by the *aniyim* and out of one's control — but that Rabbi Dosa would not necessarily agree with the *tzenuim* in their case. Why? Because the *tzenuim* are animated by a concern for the *ganav* who has stolen the *kerem revai* — an entirely uninvited guest, a wrongdoer. One might wonder whether any act of piety on the owner's behalf would extend to protecting such a person's spiritual welfare. But in the *leket* case, the Rabbis enacted a *takanta* on behalf of the *aniyim* — they have a recognized right to be in the field, and protecting them from inadvertent violation of *halacha* is clearly within the spirit of the institution. *U'ma be'ganav avdu rabanan takanta, ani'im tzarich l'meimar* — if the Rabbis made accommodations even for the case of a *ganav*, certainly for the *aniyim*. But the reverse does not follow: *aval ganav, lo avdu lei rabanan takanta* — by the case of a *ganav*, they made no such accommodation. So Abaye would have kept the *tzenuim* and Rabbi Dosa's cases conceptually separate, each motivated by different considerations.
+
+### Rava View
+
+Rava's alternative solution operates on an entirely different plane. He says: had Rabbi Yochanan not linked them, I would have said *man tana tzenuim — Rabbi Meir hi* — the *tzenuim*'s practice follows the opinion of Rabbi Meir. And therefore the *tzenuim*'s case presents no contradiction to Rabbi Yochanan at all.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא, אִי לָאו דְּאָמַר רַבִּי יוֹחָנָן: צְנוּעִין וְרַבִּי דּוֹסָא אָמְרוּ דָּבָר אֶחָד, הֲוָה אָמֵינָא: מַאן תְּנָא צְנוּעִין – רַבִּי מֵאִיר הִיא;
+> **Translation:** In a similar vein, **Rava said: If Rabbi Yoḥanan had not said** that **the pious ones and Rabbi Dosa said the same thing, I would say** that there is a fundamental difference between the cases of fourth-year produce and gleanings taken by the poor, as one could claim: **Who** is the *tanna* who **taught** the ruling of the **pious ones? It is Rabbi Meir.**
+
+> **Hebrew/Aramaic:** לָאו אָמַר רַבִּי מֵאִיר: מַעֲשֵׂר מָמוֹן גָּבוֹהַּ הוּא, וַאֲפִילּוּ הָכִי לְעִנְיַן פְּדִיָּיה אוֹקְמֵיהּ רַחֲמָנָא בִּרְשׁוּתֵיהּ? דִּכְתִיב: ״וְאִם גָּאֹל יִגְאַל אִישׁ מִמַּעַשְׂרוֹ, חֲמִשִׁתוֹ יֹסֵף עָלָיו״ –
+> **Translation:** **Doesn’t Rabbi Meir say** that second **tithe is property** belonging to the **Most High,** rather than the possession of the one who separated it from his produce, **and even so, with regard to redemption** of the second tithe **the Merciful One establishes it in his possession? As it is written** concerning the second tithe: **“And if a man will redeem any of his tithe, he shall add to it its fifth part”** (Leviticus 27:31).
+
+> **Hebrew/Aramaic:** קַרְיֵיהּ רַחֲמָנָא ״מַעַשְׂרוֹ״, וּמוֹסִיף חוֹמֶשׁ.
+> **Translation:** Although according to the opinion of Rabbi Meir, second tithe does not belong to the owner of the produce from which it was separated, nevertheless, with regard to redemption **the Merciful One** does distinguish between a stranger and one who separated it from his produce, as the Torah **refers to** the second tithe as **“his tithe” and** thereby decrees that **he,** the owner of the crop from which it is separated, can redeem it by **adding one-fifth** to its value, but no one else can do so. This indicates that although second-tithe produce is not in fact owned by the person, the Torah treats him as the owner of the produce.
+
+### Redemption Kodesh
+
+The relevance of Rabbi Meir is as follows. Rabbi Meir holds that *ma'aser sheni mammon gavoha hu* — *ma'aser sheni* is not the owner's money. The fruit designated as *ma'aser sheni* must be brought to Jerusalem and eaten there; technically, it belongs to God, not to the individual. The owner has certain rights regarding it, but does not fully own it. *Kerem revai* is halachically linked to *ma'aser sheni* and carries the same sanctified status. If one follows Rabbi Meir, then the *kerem revai* was never fully the owner's to begin with.
+
+### Ma'aser Precedent
+
+
+Yet the Torah allows the owner to redeem *ma'aser sheni*. The *gemara* cites the verse: *v'im gaol yigal ish mi-maasro, chamishito yosef alav* — if a person redeems his own *ma'aser*, he adds a fifth. The fact that the Torah uses the possessive — *his* tithe — and that the owner adds a fifth when others who redeem it need not, shows that the Torah treats the owner as having a special proprietorial relationship to the *ma'aser sheni* for purposes of redemption, even though he does not fully own it in the ordinary sense.
+
+### KR-Ma'aser Link
+
+> **Hebrew/Aramaic:** כֶּרֶם רְבָעִי נָמֵי – גָּמַר ״קֹדֶשׁ״ ״קֹדֶשׁ״ מִמַּעֲשֵׂר, כְּתִיב הָכָא: ״קֹדֶשׁ הִלּוּלִים״, וּכְתִיב גַּבֵּי מַעֲשֵׂר: ״וְכׇל מַעְשַׂר הָאָרֶץ מִזֶּרַע הָאָרֶץ מִפְּרִי הָעֵץ לַה׳ הוּא קֹדֶשׁ״;
+> **Translation:** With regard to **a fourth-year vineyard as well,** the Sages **derive** many of its *halakhot* **from** a verbal analogy between **second tithe** and fourth-year fruit, based on the use of the word **“holy”** in the context of fourth-year fruit and **“holy”** in the context of second tithe. **It is written here,** concerning fourth-year fruit trees: “And in the fourth year all its fruit shall be **holy, for giving praise** to the Lord” (Leviticus 19:24), **and it is written with regard to second tithe: “And all the tithe of the land, whether of the seed of the land or of the fruit of the tree, is the Lord’s; it is holy”** (Leviticus 27:30).
+
+> **Hebrew/Aramaic:** מָה ״קֹדֶשׁ״ דִּכְתִיב גַּבֵּי מַעֲשֵׂר – אַף עַל גַּב דְּמָמוֹן גָּבוֹהַּ הוּא, לְעִנְיַן פְּדִיָּיה אוֹקְמֵיהּ רַחֲמָנָא בִּרְשׁוּתֵיהּ; אַף הַאי ״קֹדֶשׁ״ נָמֵי דִּכְתִיב גַּבֵּי כֶּרֶם רְבָעִי – אַף עַל גַּב דְּלָאו מָמוֹן דִּידֵיהּ הוּא, לְעִנְיַן אַחוֹלֵי אוֹקְמֵיהּ רַחֲמָנָא בִּרְשׁוּתֵיהּ;
+> **Translation:** From this analogy it is derived: **Just as** in the case of the term **“holy” that is written in connection to** second **tithe, even though it is property** belonging to the **Most High, with regard to redemption the Merciful One establishes it in** the **jurisdiction** of the one who separated it, **so too** in the context of the word **“holy” that is written in connection to** the **fourth-year vineyard, even though it is not his property,** as it belongs to the Most High, **with regard to desacralizing the Merciful One establishes it in** the vineyard owner’s **jurisdiction.**
+
+> **Hebrew/Aramaic:** דְּהָא כִּי אִיתֵיהּ בִּרְשׁוּתֵיהּ נָמֵי – הָא לָאו דִּידֵיהּ הוּא, וְהָא מָצֵי מַחֵיל; מִשּׁוּם הָכִי מָצֵי מַחֵיל.
+> **Translation:** The effect of this determination is **that** even **when** the fruit **is in his jurisdiction it is not his** property, **and** yet **he is able to desacralize it.** And **due to that** reason the owner of the vineyard **is able to desacralize** the fruit even after a thief has taken it. Even in normal circumstances when one desacralizes his fourth-year fruit he is desacralizing fruit that does not belong to him. Consequently, there is no novelty in the ruling that one can desacralize fruit even after it has been taken by a thief.
+
+The *gemara* extends this logic to *kerem revai* through a *gezeira shava*: the word *kodesh* appears both in the verse relating to *kerem revai* (*kodesh hillulim*) and in the verse relating to *ma'aser* (*kodesh l'Hashem*). Just as by *ma'aser sheni*, even though it is *mammon gavoha* — God's money — the Torah nevertheless treats the owner as the owner *le'inyan pidyah*, for purposes of redemption, so too by *kerem revai*, even though it is sanctified and technically not his, the Torah treats him as the owner *le'inyan achlolei* — for purposes of consumption, or more broadly, for purposes of exercising redemption rights over it.
+
+This parallel raises a pointed question. If the Torah's treatment of the owner as owner is itself a legal fiction — a grant of standing extended precisely because the object is *kodesh* and therefore not fully his to begin with — then perhaps the requirement that the object be *birshuto*, under his control, simply does not apply to redemption at all. After all, *de-ha ki itei birshutei nami lav di-deihu hu* — even when the fruit is sitting in his own domain, it is not truly his, yet the Torah counts him as the owner for redemption purposes. If the Torah is willing to bridge that gap — treating as yours something that is fundamentally not yours — it might equally bridge the gap created by theft. The *aino birshuto* objection would then lose its force: the owner's lack of physical control is no greater a deficiency than the lack of full title that already exists by virtue of the sanctification, and the Torah has already shown it can disregard that.
+
+The implication, then, is that redemption is categorically different from ordinary acts of ownership: it does not demand the full bundle of proprietary rights in the first place, a distinction the *gemara* will go on to make explicit when it turns to the contrast between *pidyon* and *mafkir*.
+
+### Redemption vs. Mafkir
+
+> **Hebrew/Aramaic:** אֲבָל גַּבֵּי לֶקֶט – כֵּיוָן דְּמָמוֹנָא דִּידֵיהּ, כִּי אִיתֵיהּ בִּרְשׁוּתֵיהּ הוּא דְּמָצֵי מַפְקַר לֵיהּ, כִּי לֵיתֵיהּ בִּרְשׁוּתֵיהּ לָא מָצֵי מַפְקַר לֵיהּ.
+> **Translation:** **But with regard to gleanings** of the poor, **since** the extra sheaves that the poor people inadvertently take **are the property of** the owner of the field, it may be claimed that only **when** those sheaves **are in his possession,** i.e., they have not been taken by anyone else, **can he relinquish** his **ownership of** them, whereas **when** they are **no** longer **in his possession he cannot relinquish** his **ownership of** them. Consequently, the pious ones, who permitted redemption of fourth-year produce after it had been stolen, would not necessarily agree with Rabbi Dosa, who allowed the relinquishment of stolen sheaves.
+
+The crucial distinction that Rava's analysis implies is between *pidyon* — redemption — and *mafkir* — renouncing ownership. Redemption is an act of a particular kind: it does not require full ownership, because even by *ma'aser sheni* where full ownership is absent, the Torah enables the owner to redeem. In fact, any person, not just the owner, can redeem someone else's *hekdesh*. The ownership requirement for redemption is thus attenuated from the outset. Since the Torah considers the owner as having proprietorial standing for purposes of redemption even when the object is *kodesh* and therefore not fully his, the argument from *aino birshuto* is simply inapplicable: the owner's "control" was already legally theoretical before the object was stolen, and the Torah granted him redemption rights anyway.
+
+But *mafkir* — renouncing ownership of one's own property — is categorically different. This is an act that presupposes full, ordinary ownership. *Ki itei birshuto hu d'matzei mafkir lei, v'ki leitah birshuto lo matzei mafkir lei* — when it is under your control you can renounce it, but when it is not under your control, you cannot. *Mafkir* involves transferring title away from oneself. That is a full exercise of ownership, and it cannot be done when the object is outside one's domain.
+
+*Tosafot* engages with the question of why one cannot argue the reverse — that *hefker* should be *easier* to effect when an object is already partially out of one's control, since one is simply completing the process of severance that has already begun. The *gemara*'s position, however, is that the act of *mafkir* is precisely an active exercise of ownership, and this is what it requires in full.
+
+---
+
+## Ravina Identification
+
+
+
+### ID as Dosa
+
+> **Hebrew/Aramaic:** אָמַר רָבִינָא: אִי לָאו דְּאָמַר רַבִּי יוֹחָנָן צְנוּעִין וְרַבִּי דּוֹסָא אָמְרוּ דָּבָר אֶחָד, הֲוָה אָמֵינָא: מַאן תַּנָּא צְנוּעִין – רַבִּי דּוֹסָא הִיא, כִּי הֵיכִי דְּלָא תִּקְשֵׁי סְתַם מִשְׁנָה לְרַבִּי יוֹחָנָן. וְרַבִּי יוֹחָנָן –
+> **Translation:** In a similar vein, **Ravina said: If Rabbi Yoḥanan had not said** that **the pious ones and Rabbi Dosa said the same thing, I would say: Who** is the *tanna* who **taught** the opinion of the **pious ones? It is Rabbi Dosa.** I would have said this **so that an unattributed mishna should not** present **a difficulty to** the opinion of **Rabbi Yoḥanan. And** the reason why this would have resolved the difficulty is that **Rabbi Yoḥanan**
+
+Ravina offers yet another alternative. He says: had Rabbi Yochanan not stated that the *tzenuim* and Rabbi Dosa said the same thing, I would have said *man tana tzenuim — Rabbi Dosa hi* — the *tzenuim* of the *mishna* are none other than Rabbi Dosa himself. The passage describing the *tzenuim*'s practice would not be a separate, anonymous tradition, but rather a direct expression of Rabbi Dosa's own teaching. If so, it is not a *stam mishna* at all — it is a statement of a single *tanna*, Rabbi Dosa, recorded in the *mishna* without attribution.
+
+### Stam Yachida
+
+The *gemara* then concludes with an important general principle: *stam mishna l'Rabbi Yochanan, Rabbi Yochanan ki stam yachida lo amar* — even for Rabbi Yochanan, who rules like *stam mishnayot*, this rule applies only when the anonymous formulation genuinely represents a broadly accepted view. If the anonymous voice of a *mishna* turns out to reflect only a single opinion — a *stam yachida* — Rabbi Yochanan does not defer to it. Had Ravina been correct that the *tzenuim* passage is simply Rabbi Dosa's individual opinion, Rabbi Yochanan could have dismissed it on those grounds. The fact that Rabbi Yochanan made the effort to equate the *tzenuim* with Rabbi Dosa is what creates the difficulty — it reveals that Rabbi Yochanan himself treated the *tzenuim* as distinct from Rabbi Dosa, and thus as a genuine *stam*, rather than as an expression of a minority position.
+
+---
+
+## RY Logic Chain
+
+
+
+### Logic from Keplal
+
+With all of these alternatives presented, the *gemara* now pulls back to articulate the underlying logic of Rabbi Yochanan's position in its final, consolidated form. Rabbi Yochanan's starting point is the *stam mishna* that exempts the second thief from paying *kefel* to the original owner when he steals from the *ganav*'s house. This exemption is not treated as an arbitrary *gezeirat hakatuv*. Rather, Rabbi Yochanan reads it as reflecting a substantive principle: that once an object is outside the owner's *reshut*, the owner's legal status is impaired. He cannot collect *kefel* — and not merely because of a technicality, but because his *ba'alut*, his ownership, is somehow diminished in its practical force.
+
+### Ownership Rights
+
+From there, Rabbi Yochanan extends the principle to *hekdesh*. He cites *v'ish ki yakdish et beito* — sanctification must be of something within one's domain. If you cannot be *makdish* an object out of your control, this is not an isolated rule about *hekdesh*; it reflects the underlying principle that meaningful exercises of ownership require the object to be within the owner's sphere of authority. The *ganav* cannot be *makdish* because it is not his. The owner cannot be *makdish* because it is not within his *reshut*. Both limitations flow from the same root: *ba'alut* without *reshut* is an impaired form of ownership.
+
+### Gemara Extends
+
+The *gemara* then extends this principle further. If the owner cannot sanctify the object, it follows that he cannot sell it — that is the most obvious extension. But the *gemara* also applies the principle to *mafkir* and to *pidyon*, redemption. These are the cases that are less intuitive, and which the sugya has spent considerable effort analyzing. The *tzenuim*'s redemption of the *kerem revai* and Rabbi Dosa's *mafkir* of the grain taken by the *aniyim* — both represent attempts to exercise ownership rights over objects outside one's domain. Rabbi Yochanan rules against them, preferring the *stam mishna* of *kefel* and the *pasuk* of *yakdish et beito*, which together provide both the logical and textual grounding for the principle.
+
+---
+
+## Ye'ush vs. Hefker
+
+
+
+### Process Difference
+
+The sugya concludes by returning to a conceptual question that underlies the entire discussion: what is the relationship between *ye'ush* and *hefker*? A student raises the intuitive observation that *ye'ush* — the owner's despair — seems to render the object *hefker*, ownerless. If that is so, is *ye'ush* simply another form of being *mafkir*? The answer requires distinguishing the two processes carefully.
+
+*Ye'ush* operates through a weakening of the owner's connection to the object. The object is physically out of his possession, and his despair reflects the psychological and practical severing of his hold on it. The question of whether *ye'ush* renders the object technically *hefker* — so that it is no longer the owner's property at all — or merely weakens the owner's control to the point where others may acquire it, is itself a debate among the *rishonim*; the *acharonim* frame it as such. But in either case, *ye'ush* is a *passive* process: it is the registration of a loss of control that has already occurred.
+
+### Full Control Need
+
+*Hefker*, by contrast, is an *active* exercise of ownership. The owner who declares *hefker* is not recording a loss — he is affirmatively pushing the object out of his ownership, transferring it to no one. This active declaration requires the full, unimpaired status of ownership. Herein lies what is admittedly a somewhat counterintuitive result: *ye'ush*, even if it leads to the same end-state as *hefker*, does not require the owner to possess full control. It works precisely because the object is already outside his domain. *Hefker*, however, cannot be accomplished in that state — the very act of declaring *hefker* presupposes that the owner retains full title and authority, and it is that authority he is choosing to divest. If the object is already half-removed from his *reshut*, he lacks the standing to execute that divestiture.
+
+### Ye'ush Limits
+
+The point extends to the redemption case as well. Even if *ye'ush* produces an outcome similar to *hefker*, *ye'ush* itself could not serve as the operative act by which the *kerem revai* is redeemed or by which the *aniyim*'s grain is rendered *hefker*. Those require deliberate acts of the owner — *pidyon* and *mafkir* respectively — and those acts themselves, as the sugya has established, cannot be performed when the object is outside the owner's control. *Ye'ush* is the weakening; *hefker* is the severing. And it is the severing that requires the owner to still be in a position to sever.

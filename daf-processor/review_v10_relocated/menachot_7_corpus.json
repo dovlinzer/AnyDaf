@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav's Zar Position",
+    "candidates": [
+      "Rav's Zar Position",
+      "Gemara Questions Rav",
+      "Psul Ad Sheyachzir",
+      "Lacking Handful Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose describes: Rav's statement that a non-priest who removed a handful should return it, followed by the gemara's challenge from the mishna's use of 'pasul,' and the response that 'pasul' means only temporarily disqualified until returned \u2014 all content described in heading 0's prose.",
+      "chosen_heading": "Rav's Zar Position",
+      "current_heading": "Rav's Zar Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Lacking Handful Debate",
+    "candidates": [
+      "Gemara Questions Rav",
+      "Psul Ad Sheyachzir",
+      "Lacking Handful Debate",
+      "Refilling from Home",
+      "Rav per Ben Batera",
+      "Left Hand Validity",
+      "Zar in Shechita",
+      "Shechita Not Avodah",
+      "Parah Aduma",
+      "Parah Kedush\u00e1",
+      "Tzara'at Negai'm",
+      "Shechita Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the gemara's challenge to the 'lacking handful' resolution \u2014 item 1 introduces the distinction between intact and lacking kometz (matching candidate 2's prose), and item 2 challenges that reading by noting the mishnah's language doesn't mention refilling from home, which is precisely what candidate 3's prose describes as the gemara's objection that 'the language of the mishnah itself undermines the reading.'",
+      "chosen_heading": "Refilling from Home",
+      "current_heading": "Lacking Handful Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Shechita Logic",
+    "candidates": [
+      "Refilling from Home",
+      "Rav per Ben Batera",
+      "Left Hand Validity",
+      "Zar in Shechita",
+      "Shechita Not Avodah",
+      "Parah Aduma",
+      "Parah Kedush\u00e1",
+      "Tzara'at Negai'm",
+      "Shechita Logic",
+      "Baraita Witnesses",
+      "Komatz Misham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All nine items continue the same chain of reasoning about why Rav's extension of Ben Batera beyond the left hand was necessary \u2014 covering the zar/shechita parallel, parah adumah, tzara'at, the bamah argument, and finally the baraita \u2014 exactly matching the content described in the 'Shechita Logic' prose.",
+      "chosen_heading": "Shechita Logic",
+      "current_heading": "Shechita Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Komatz Misham",
+    "candidates": [
+      "Baraita Witnesses",
+      "Komatz Misham",
+      "Stam Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the exact baraita content \u2014 the tanna kamma's ruling about 'from where the non-priest stands' and Ben Beteira's derivation about returning and re-removing the handful \u2014 that candidate 1's prose explicitly describes as the source of Ben Batera's do-over principle from v'kamatz misham.",
+      "chosen_heading": "Komatz Misham",
+      "current_heading": "Komatz Misham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Stam Pasuk",
+    "candidates": [
+      "Stam Pasuk",
+      "Rav Redundancy",
+      "Tannai'm on Timing",
+      "HaNachtom Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's reasoning that the verse is written 'stam' (unspecified), leading to the conclusion 'mah li smol, mah li sha'ar psulim,' which is precisely what the 'Stam Pasuk' section's prose describes.",
+      "chosen_heading": "Stam Pasuk",
+      "current_heading": "Stam Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "HaNachtom Limit",
+    "candidates": [
+      "Rav Redundancy",
+      "Tannai'm on Timing",
+      "HaNachtom Limit",
+      "Rav Nachman Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita of Rabbi Yosei ben Yosei ben Yasiyyan and Rabbi Yehuda HaNachtom and the two versions of Rav's teaching relative to those tanna'im, which is precisely what the 'HaNachtom Limit' prose section describes.",
+      "chosen_heading": "HaNachtom Limit",
+      "current_heading": "HaNachtom Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Rav Nachman Analysis",
+    "candidates": [
+      "Rav Nachman Analysis",
+      "Reish Lakish Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Nachman's objection and his subsequent resolution \u2014 exactly the content described in the 'Rav Nachman Analysis' prose, which explicitly discusses his *mai kasvari* challenge and his *le'olam avodah hi* answer.",
+      "chosen_heading": "Rav Nachman Analysis",
+      "current_heading": "Rav Nachman Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Reish Lakish Query",
+    "candidates": [
+      "Reish Lakish Query",
+      "Yochanan Answer",
+      "Midaat Requirement",
+      "Overflowing Handful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain: the challenge about returning the handful to its original vessel, Rabbi Yo\u1e25anan's response that klei sharet only sanctify with intent, and the follow-up about Reish Lakish's query \u2014 all of which are explicitly discussed in the 'Reish Lakish Query' prose section as the central topic of that heading.",
+      "chosen_heading": "Reish Lakish Query",
+      "current_heading": "Reish Lakish Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Overflowing Handful",
+    "candidates": [
+      "Yochanan Answer",
+      "Midaat Requirement",
+      "Overflowing Handful",
+      "Same Vessel Return",
+      "Lip vs. Inside",
+      "Monkey Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Amram's case of returning the kometz to an overflowing/heaped vessel (levisa gedushah) and the gemara's clarification about a full-to-the-brim vessel (levisa tefufa), which is precisely what the 'Overflowing Handful' prose describes.",
+      "chosen_heading": "Overflowing Handful",
+      "current_heading": "Overflowing Handful",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Monkey Act",
+    "candidates": [
+      "Same Vessel Return",
+      "Lip vs. Inside",
+      "Monkey Act",
+      "Vessel Holding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the monkey act solution \u2014 placing the kometz on the vessel wall so it falls in by itself \u2014 which is precisely what the 'Monkey Act' section's prose discusses.",
+      "chosen_heading": "Monkey Act",
+      "current_heading": "Monkey Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Vessel Holding",
+    "candidates": [
+      "Vessel Holding",
+      "Rav Avimi Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yirmiya's question about a vessel resting on the ground and the inference about performing kmitzah from such a vessel, which is exactly what the 'Vessel Holding' prose discusses, while the Rav Avimi story is only touched on at the very end as a lead-in, not the focus.",
+      "chosen_heading": "Vessel Holding",
+      "current_heading": "Vessel Holding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Rav Avimi Story",
+    "candidates": [
+      "Rav Avimi Story",
+      "Nachman Avimi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the Rav Avimi/Rav \u1e24isda relationship \u2014 item 1 establishes that Avimi was \u1e24isda's teacher (not student), and item 2 explains why Avimi came to \u1e24isda's study hall \u2014 exactly what the 'Rav Avimi Story' prose discusses.",
+      "chosen_heading": "Rav Avimi Story",
+      "current_heading": "Rav Avimi Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Nachman Avimi",
+    "candidates": [
+      "Nachman Avimi",
+      "Sheshes Answer",
+      "Showbread Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of the Rav Na\u1e25man\u2013Avimi exchange about kmitzah from a vessel on the ground, the need for multiple kohanim, and the objection from the mishna about piggul \u2014 exactly the content described in the 'Nachman Avimi' prose section.",
+      "chosen_heading": "Nachman Avimi",
+      "current_heading": "Nachman Avimi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Showbread Procedure",
+    "candidates": [
+      "Sheshes Answer",
+      "Showbread Procedure",
+      "Table Not Held"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sheshes Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Sheshet's response directing attention to the showbread procedure, which matches heading 0 ('Sheshes Answer') that explicitly describes this exact exchange \u2014 the question posed to Rav Sheshes and his reply 'go look at what they did inside' \u2014 while the current heading 1 covers the mishna description itself.",
+      "second_heading": "Table Not Held",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the critical observation that the mishna does not mention anyone raising the Table, which matches heading 2 ('Table Not Held') whose prose explicitly discusses 'v'ilu magbi'ah et hashulchan lo katani' and the enumeration argument.",
+      "current_heading": "Showbread Procedure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Table Not Held",
+    "candidates": [
+      "Showbread Procedure",
+      "Table Not Held",
+      "Kometz Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous Talmudic exchange about whether the mishnah's enumeration of kohanim proves that no one held the table \u2014 exactly what the 'Table Not Held' prose describes, including the rejection of the earlier analogy and the conclusion from the precise count of kohanim.",
+      "chosen_heading": "Table Not Held",
+      "current_heading": "Table Not Held",
+      "moved": false
+    }
+  }
+]

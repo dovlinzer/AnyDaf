@@ -161,7 +161,7 @@
           "timestamp": "27:48"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -185,8 +185,8 @@
           "timestamp": "28:57"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Why the Mishna Does Not Mention Oaths as a Source of Additional Lashing",
@@ -508,5 +508,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "44:22",
+  "amud_b_micro_title": "Lock-In Rule",
+  "shiur_start_daf": 21,
+  "shiur_start_amud": "b"
 }

@@ -224,7 +224,7 @@
           "timestamp": "30:51"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 32,
       "matched": true
     },
     {
@@ -680,5 +680,7 @@
   "amud_b_segment_index": 5,
   "amud_b_timestamp": "27:00",
   "amud_b_micro_title": "Dreams",
-  "amud_b_sefaria_index": 32
+  "amud_b_sefaria_index": 32,
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,428 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Olah vs Asham",
+    "candidates": [
+      "Chilkiya Thesis",
+      "Identity Change",
+      "Huna Challenge",
+      "Olah vs Asham",
+      "Gemara Weak Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Olah vs Asham' prose: item 1 is the baraita's derivation from 'shor/kesev/ez' that one is liable in any case while chatat is omitted, and item 2 is precisely the 'bemai askinan' / 'ela shelo bizmano' clarification that the prose describes in detail.",
+      "chosen_heading": "Olah vs Asham",
+      "current_heading": "Olah vs Asham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Gemara Weak Read",
+    "candidates": [
+      "Gemara Weak Read",
+      "Braita Chiddush",
+      "Shelo Lishmo Limits",
+      "Chatat Lacking Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the resolution that the braita deals with bizmano shelo lishmo and follows Rabbi Eliezer who equates asham to chatat \u2014 exactly what candidate 1 ('Braita Chiddush') describes as its central content.",
+      "chosen_heading": "Braita Chiddush",
+      "current_heading": "Gemara Weak Read",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Chatat Lacking Time",
+    "candidates": [
+      "Braita Chiddush",
+      "Shelo Lishmo Limits",
+      "Chatat Lacking Time",
+      "Chayav vs Patur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shelo Lishmo Limits",
+      "first_confidence": "high",
+      "first_reason": "Item 1 wraps up the 'Braita Chiddush' discussion by noting that the tanna taught about the secondary (asham) but the same rule applies to the primary (chatat), matching that section's prose about the tanna using asham as its main example while the same rule applies to chatat.",
+      "second_heading": "Chayav vs Patur",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form the complete unit of the second baraita about olah/chatat mechusar zman, followed by the Gemara's analysis concluding that the omission of asham implies chiyuv for asham shelo lishmo \u2014 precisely matching the 'Chayav vs Patur' prose about v'ilu asham shayrei and the bemai askinan question leading to proof for Rav Chilkiya.",
+      "current_heading": "Chatat Lacking Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Chayav vs Patur",
+    "candidates": [
+      "Chatat Lacking Time",
+      "Chayav vs Patur",
+      "Gemara Pushback",
+      "Rav Levi Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's deflection that the baraita is actually shelo lishmo and follows Rabbi Eliezer who equates asham with chatat, with chatat taught as the primary case \u2014 this is precisely what the 'Gemara Pushback' prose describes as 'l'olam shelo lishmo' with Rabbi Eliezer treating asham and chatat identically.",
+      "chosen_heading": "Gemara Pushback",
+      "current_heading": "Chayav vs Patur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Rav Levi Braita",
+    "candidates": [
+      "Gemara Pushback",
+      "Rav Levi Braita",
+      "Beit Status",
+      "Dimi Question",
+      "Dimi Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Dimi's baraita about liability for olat mechusar zman and asham nazir/metzora, and Ravina's derivation from 'shor/kesev/ez mikol makom' \u2014 are precisely what the 'Rav Levi Braita' prose describes, including the pasuk derivation and the hai mai rumya question, matching the current placement exactly.",
+      "chosen_heading": "Rav Levi Braita",
+      "current_heading": "Rav Levi Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Dimi Answer",
+    "candidates": [
+      "Beit Status",
+      "Dimi Question",
+      "Dimi Answer",
+      "Ashi Challenge",
+      "Ashi Answer",
+      "Two Ashamot",
+      "Olah Identity",
+      "Grazing Asham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the continuous chain of Rav Na\u1e25man/Rav Dimi raising the contradiction between the two baraitot (items 1-2), Rav Dimi's resolution (item 3), Rav Ashi's parallel challenge and answer (item 4), and the question about Rav Huna (item 5) \u2014 this entire sequence belongs under 'Dimi Question' which describes Rav Dimi noting the apparent contradiction between the baraitot, whereas the current heading 'Dimi Answer' only covers item 3 onward.",
+      "chosen_heading": "Dimi Question",
+      "current_heading": "Dimi Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Grazing Asham",
+    "candidates": [
+      "Ashi Challenge",
+      "Ashi Answer",
+      "Two Ashamot",
+      "Olah Identity",
+      "Grazing Asham",
+      "Burning Exemption",
+      "Enumeration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Huna's response about two ashamot separated as a guarantee and the precedent of an asham shenitak lire'iya slaughtered stam being kasher l'olah, which is precisely what the 'Grazing Asham' prose describes.",
+      "chosen_heading": "Grazing Asham",
+      "current_heading": "Grazing Asham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Enumeration",
+    "candidates": [
+      "Burning Exemption",
+      "Enumeration",
+      "Pasuk Logic",
+      "Prep Acts",
+      "Process Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that enumerates the items exempt from liability (sin offering, guilt offering, kodshei kodashim, kodashim kalim, omer surplus, two loaves, shewbread, remainder of meal offerings), which directly matches the 'Enumeration' section's prose description of exactly these items.",
+      "chosen_heading": "Enumeration",
+      "current_heading": "Enumeration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Process Principle",
+    "candidates": [
+      "Pasuk Logic",
+      "Prep Acts",
+      "Process Principle",
+      "Mishnah Claim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pasuk Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the verse-based derivation ('burnt offering teaches: just as a burnt offering is fit for offering up') which is the exact pasuk logic discussed in candidate 0's prose about the olah-based exclusion principle.",
+      "second_heading": "Prep Acts",
+      "second_confidence": "high",
+      "second_reason": "Item 2 lists the preparatory ritual acts (hayotzek, habolel, hapotes, etc.) that are exempt when performed outside, which maps directly to candidate 1's prose enumerating those same prep acts as patur.",
+      "current_heading": "Process Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Mishnah Claim",
+    "candidates": [
+      "Process Principle",
+      "Mishnah Claim",
+      "Sinai Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the 'gemar avodah' principle derived from the verse about burnt offerings \u2014 that only acts constituting the conclusion of the sacrificial service are included in the prohibition \u2014 which directly matches the 'Process Principle' section's prose about mah ha'olah sheg'mar avodah and the gemar avodah concept.",
+      "chosen_heading": "Process Principle",
+      "current_heading": "Mishnah Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Sinai Only",
+    "candidates": [
+      "Mishnah Claim",
+      "Sinai Only",
+      "Kohanim Immediately"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna bar Rav Ketina reading the verse about na'arei bnei Yisrael before Rav Chisda, who cites Rav Asi's statement that the bechorot sacrificed and then ceased \u2014 exactly what the 'Sinai Only' section's prose describes as introducing the challenge that the bechorot served only at Har Sinai and then stopped.",
+      "chosen_heading": "Sinai Only",
+      "current_heading": "Sinai Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Kohanim Immediately",
+    "candidates": [
+      "Kohanim Immediately",
+      "Braita Main"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna thinking to raise a contradiction, hearing Rav \u1e24isda's statement in the name of Rav Adda bar Ahava about the burnt offering not requiring flaying and cutting, and then raising a contradiction from a baraita against both statements \u2014 exactly what the 'Kohanim Immediately' prose describes as the culmination of that section.",
+      "chosen_heading": "Kohanim Immediately",
+      "current_heading": "Kohanim Immediately",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Braita Main",
+    "candidates": [
+      "Braita Main",
+      "Animal Details",
+      "Flaying Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what Candidate 0's prose covers \u2014 the baraita's opening statement about bamot being permitted before the Mishkan, the avoda performed by bechorot, and all kosher animals being acceptable \u2014 matching the current placement.",
+      "chosen_heading": "Braita Main",
+      "current_heading": "Braita Main",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Flaying Detail",
+    "candidates": [
+      "Animal Details",
+      "Flaying Detail",
+      "Bechor Version",
+      "Kohanim Version",
+      "Nadav Avihu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the content about all offerings being burnt offerings (olot), which is explicitly discussed in candidate 0's prose about the braita's assertion that 'all of these offerings were brought as olot,' while the flaying detail is secondary context that the current placement's prose discusses at length but the passage itself primarily introduces with the 'and all' statement about olot.",
+      "chosen_heading": "Animal Details",
+      "current_heading": "Flaying Detail",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Nadav Avihu",
+    "candidates": [
+      "Bechor Version",
+      "Kohanim Version",
+      "Nadav Avihu",
+      "Sinai Warning",
+      "Moshe Consolation",
+      "Silence Reward",
+      "Silent Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita dispute between Rabbi Yehoshua ben Korcha (firstborn/bechorot) and Rabbi (Nadav and Avihu), then works through both sides \u2014 exactly what the 'Bechor Version' prose describes as identifying the tannaitic debate and explaining Rabbi Yehoshua ben Korcha's position, with the subsequent items being the Gemara's elaboration of that same dispute.",
+      "chosen_heading": "Bechor Version",
+      "current_heading": "Nadav Avihu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Silent Acceptance",
+    "candidates": [
+      "Sinai Warning",
+      "Moshe Consolation",
+      "Silence Reward",
+      "Silent Acceptance",
+      "Judgment Glory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are about Aharon's rewarded silence (*vayidom* / *v'kibel sachar*) and the principle that silence before God's judgment earns reward \u2014 exactly what the 'Silence Reward' prose discusses, not the 'Silent Acceptance' section which already addresses the Psalms and Kohelet verses in its own prose.",
+      "chosen_heading": "Silence Reward",
+      "current_heading": "Silent Acceptance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Judgment Glory",
+    "candidates": [
+      "Silent Acceptance",
+      "Judgment Glory",
+      "Ishmael Gradual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan teaching about God being feared and exalted when He executes judgment upon His holy ones, which precisely matches the 'Judgment Glory' section's prose describing this exact teaching.",
+      "chosen_heading": "Judgment Glory",
+      "current_heading": "Judgment Glory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Ishmael Gradual",
+    "candidates": [
+      "Ishmael Gradual",
+      "Akiva Complete"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yishmael's position that general principles were stated at Sinai and details at the Tent of Meeting, which is precisely what the 'Ishmael Gradual' section's prose describes and analyzes.",
+      "chosen_heading": "Ishmael Gradual",
+      "current_heading": "Ishmael Gradual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Akiva Complete",
+    "candidates": [
+      "Akiva Complete",
+      "Flaying Anomaly",
+      "Animal Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Akiva's view that klalos u'pratos were said at Sinai, repeated at Ohel Moed, and again at Arvot Moav, which is precisely what the 'Akiva Complete' prose describes.",
+      "chosen_heading": "Akiva Complete",
+      "current_heading": "Akiva Complete",
+      "moved": false
+    }
+  }
+]

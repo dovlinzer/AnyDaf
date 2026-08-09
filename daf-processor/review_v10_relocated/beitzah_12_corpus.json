@@ -1,0 +1,210 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Mitoch Principle",
+    "candidates": [
+      "Shift to Yom Tov",
+      "Three Cases",
+      "Beis Shammai Rule",
+      "Beis Hillel Permits",
+      "Baraita on Olah",
+      "Beis Shammai Source",
+      "Mitoch Principle",
+      "Scope of Debate",
+      "Eruv & Hotza'ah",
+      "Carrying Status",
+      "Jeremiah Source",
+      "Rashi: Not Core",
+      "Melacha Gru'ah",
+      "Commerce Role",
+      "Shopping Purpose",
+      "Two Verses",
+      "Case-by-Case",
+      "Categorical Exclusion",
+      "Building Excluded",
+      "Requires Tzorech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items present Rabbah's challenge questioning whether Beis Shammai and Beis Hillel are debating the *mitoch* principle generally or only whether carrying (*hotza'ah*) is prohibited on Yom Tov at all \u2014 which is precisely what the 'Scope of Debate' prose describes.",
+      "chosen_heading": "Scope of Debate",
+      "current_heading": "Mitoch Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Requires Tzorech",
+    "candidates": [
+      "Scope of Debate",
+      "Eruv & Hotza'ah",
+      "Carrying Status",
+      "Jeremiah Source",
+      "Rashi: Not Core",
+      "Melacha Gru'ah",
+      "Commerce Role",
+      "Shopping Purpose",
+      "Two Verses",
+      "Case-by-Case",
+      "Categorical Exclusion",
+      "Building Excluded",
+      "Requires Tzorech",
+      "Chananel Strict",
+      "Simcha Standard",
+      "Ball Game",
+      "Mitoch Extended",
+      "Gid Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "Rav Yosef's objection about stones directly supports the 'Requires Tzorech' section's argument that even Beis Hillel requires some tzorech for carrying, as the prose explicitly describes this very challenge and its implications for the scope of mitoch.",
+      "chosen_heading": "Requires Tzorech",
+      "current_heading": "Requires Tzorech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Gid Baraita",
+    "candidates": [
+      "Chananel Strict",
+      "Simcha Standard",
+      "Ball Game",
+      "Mitoch Extended",
+      "Gid Baraita",
+      "Rejection & Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together present the baraita about cooking gid ha-nasheh in milk on Yom Tov and the enumeration of the five lashes, which is precisely what the 'Gid Baraita' section's prose describes in detail.",
+      "chosen_heading": "Gid Baraita",
+      "current_heading": "Gid Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rejection & Reason",
+    "candidates": [
+      "Rejection & Reason",
+      "Food Melachos",
+      "Open Questions",
+      "Candle Case",
+      "Mishnah Rule",
+      "Separation Allowed",
+      "Gezeira Fear",
+      "Hillel Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rabbi Yochanan's rejection of the baraita and the explanation that it follows Beit Shammai rather than Beit Hillel regarding mitoch and kindling/cooking, which is precisely what the 'Rejection & Reason' prose discusses.",
+      "chosen_heading": "Rejection & Reason",
+      "current_heading": "Rejection & Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Hillel Argument",
+    "candidates": [
+      "Food Melachos",
+      "Open Questions",
+      "Candle Case",
+      "Mishnah Rule",
+      "Separation Allowed",
+      "Gezeira Fear",
+      "Hillel Argument",
+      "Yehuda Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items constitute the Mishnah text itself (Beis Shammai's prohibition, their gezeira shava argument, and Beis Hillel's rebuttal), which the prose of heading 3 ('Mishnah Rule') explicitly introduces as the next Mishnah stating that Beis Shammai say one may not deliver challah or priestly gifts to the kohen on Yom Tov while Beis Hillel permit it \u2014 a perfect match for this passage's content before the essay's prose elaboration in subsequent sections.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Hillel Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Yehuda Version",
+    "candidates": [
+      "Hillel Argument",
+      "Yehuda Version",
+      "Yosi Version",
+      "Acherim Version",
+      "Separation Today",
+      "Concession",
+      "Bundling",
+      "Halacha Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The entire passage is the Gemara's unified inquiry into which tanna the mishna follows, presenting all three versions of the baraita (Rabbi Yehuda, Rabbi Yosei, A\u1e25erim) and Rava's resolution, which the 'Yehuda Version' prose explicitly frames as the Gemara asking which of three tanna'im the mishna follows and quoting the baraita \u2014 making it the best single home for this continuous discussion.",
+      "chosen_heading": "Yehuda Version",
+      "current_heading": "Yehuda Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Halacha Decision",
+    "candidates": [
+      "Yosi Version",
+      "Acherim Version",
+      "Separation Today",
+      "Concession",
+      "Bundling",
+      "Halacha Decision",
+      "Case Study",
+      "Yosi Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes Rav Tovi bringing a flask of teruma wine and asking Rav Yosef about delivering it to a kohen on Yom Tov, which matches the 'Case Study' prose describing Tuvi's flask of teruma wine and his question to the rabbi \u2014 the halakha ruling itself belongs under 'Halacha Decision' (index 5) and the response under 'Yosi Permits' (index 7), but since this single passage combines both the question and the answer, it best fits the case study framing of index 6, which introduces the practical scenario including the question posed.",
+      "chosen_heading": "Case Study",
+      "current_heading": "Halacha Decision",
+      "moved": true
+    }
+  }
+]

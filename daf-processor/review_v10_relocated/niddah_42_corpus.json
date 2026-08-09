@@ -1,0 +1,489 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Meshameshet vs. Poletet",
+    "candidates": [
+      "Interior vs. Exterior",
+      "Chachamim vs. R. Shimon",
+      "Tosafot on Flow Path",
+      "Gemara's Question",
+      "Meshameshet vs. Poletet",
+      "Rava's Three Days",
+      "Mikvah Problem",
+      "Lying in Bed Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question (about beit hastarim implying internal tumah for R. Shimon) and its resolution (lo kashya \u2014 meshameshet vs. poletet), which is precisely what the 'Gemara's Question' section's prose describes as the internal tension and its answer.",
+      "chosen_heading": "Gemara's Question",
+      "current_heading": "Meshameshet vs. Poletet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Lying in Bed Case",
+    "candidates": [
+      "Rava's Three Days",
+      "Mikvah Problem",
+      "Lying in Bed Case",
+      "Turning vs. Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the Gemara's objection from Rava's three-day ruling and the initial answer about immersing after intercourse \u2014 exactly the content described in candidate 0 ('Rava's Three Days'), which discusses the challenge that a meshameshet cannot eat teruma for three days and the impossibility of her being tahorah during that window.",
+      "chosen_heading": "Rava's Three Days",
+      "current_heading": "Lying in Bed Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Turning vs. Walking",
+    "candidates": [
+      "Lying in Bed Case",
+      "Turning vs. Walking",
+      "Rashi's Analysis",
+      "Torah's Case",
+      "Defining Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain addressing the same question \u2014 why Rava used absolute language ('impossible not to emit') rather than 'perhaps,' resolved by the horizontal-but-turning case \u2014 which is precisely what candidate 1 ('Turning vs. Walking') describes in its prose.",
+      "chosen_heading": "Turning vs. Walking",
+      "current_heading": "Turning vs. Walking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Defining Status",
+    "candidates": [
+      "Rashi's Analysis",
+      "Torah's Case",
+      "Defining Status",
+      "Three Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the question posed by Rav Shmuel bar Bisna to Abaye about whether a woman who discharges semen is classified as a ro'ah or a noga'at, which is exactly what the 'Defining Status' section's prose introduces and frames.",
+      "chosen_heading": "Defining Status",
+      "current_heading": "Defining Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Three Implications",
+    "candidates": [
+      "Three Implications",
+      "Baraita Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly enumerates the three practical differences (listor, bi-mashehu, bifnim ki-vachutz) that correspond exactly to what the 'Three Implications' section prose describes.",
+      "chosen_heading": "Three Implications",
+      "current_heading": "Three Implications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Baraita Answer",
+    "candidates": [
+      "Baraita Answer",
+      "Logical Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the case where Rav Shmuel bar Bisna had heard the baraita, matching the 'Baraita Answer' prose which discusses exactly that scenario.",
+      "second_heading": "Logical Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the case where he did not hear the baraita and logic points to noga'at, matching the 'Logical Conclusion' prose which opens with precisely this mistanbra noga'at havya point.",
+      "current_heading": "Baraita Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Logical Conclusion",
+    "candidates": [
+      "Logical Conclusion",
+      "Three Days Before Torah",
+      "Three Days Explained",
+      "Women Must Be Tahor",
+      "Special Case Objection",
+      "Abaye Ruling",
+      "Rava Ruling",
+      "Rav Yosef Ruling",
+      "Repetitive Answers",
+      "Abaye Clarifies",
+      "Spit Metaphor",
+      "Day Six Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that Rav Shmuel bar Bisna had heard the baraita and his dilemma was specifically according to Rabbi Shimon (not the Rabbis), which directly corresponds to the 'Logical Conclusion' section's prose about distinguishing versions of the question and resolving what Rav Shmuel bar Bisna was actually asking according to Rabbi Shimon.",
+      "chosen_heading": "Logical Conclusion",
+      "current_heading": "Logical Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Day Six Rule",
+    "candidates": [
+      "Three Days Before Torah",
+      "Three Days Explained",
+      "Women Must Be Tahor",
+      "Special Case Objection",
+      "Abaye Ruling",
+      "Rava Ruling",
+      "Rav Yosef Ruling",
+      "Repetitive Answers",
+      "Abaye Clarifies",
+      "Spit Metaphor",
+      "Day Six Rule",
+      "Ashkenazi vs. Sefardi",
+      "Four Types Listed",
+      "Yoledet Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items together form the continuous sugya about Rav Shmuel bar Bisna's dilemma regarding poletet shichvat zera \u2014 specifically the clarification that the dilemma concerns listor and bi-mashehu (not bifnim ki-vachutz), the two sides of the dilemma including the Sinai argument, the rulings of Abaye/Rava/Rav Yosef, and Abaye's final clarification \u2014 and candidate 3 ('Special Case Objection') is where the Sinai episode's refutation appears, but actually the passage as a whole begins with items 1-2 clarifying the dilemma's scope, which maps best to candidate 0 ('Three Days Before Torah') through candidate 8 ('Abaye Clarifies'); however since all items must go under ONE heading and items 3-4 discuss the Sinai argument and its rebuttal (matching candidate 3's prose about 'o dilma lo gemarinan mi-Sinai \u2014 de-chiddush hu' and the zav/metzora proof), while items 5-6 match the Abaye/Rava/Rav Yosef rulings, the structural center of gravity for the whole passage \u2014 the dilemma about listor and bi-mashehu plus the Sinai argument and its resolution \u2014 best fits under candidate 3, which covers the Sinai special-case objection that is the heart of items 3-4 and frames the whole passage.",
+      "chosen_heading": "Special Case Objection",
+      "current_heading": "Day Six Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Yoledet Question",
+    "candidates": [
+      "Ashkenazi vs. Sefardi",
+      "Four Types Listed",
+      "Yoledet Question",
+      "Mikvah Entry"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four Types Listed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita listing the four types (niddah, zavah, shomeret yom, yoledet) causing tumah bifnim ki-vachutz, which matches exactly the 'Four Types Listed' prose describing that same baraita.",
+      "second_heading": "Yoledet Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the conceptual difficulty about why yoledet is listed separately, which matches exactly the 'Yoledet Question' prose describing that same puzzlement about what interior flow a yoledet could have.",
+      "current_heading": "Yoledet Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Mikvah Entry",
+    "candidates": [
+      "Mikvah Entry",
+      "Blood Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's answer about the yoledet descending to immerse, which is precisely what heading 0 ('Mikvah Entry') introduces \u2014 the lo tzricha answer and Rabbi Zeira's ruling are presented there as a unit, before heading 1 takes up the consequences of blood timing during descent vs. ascent.",
+      "chosen_heading": "Mikvah Entry",
+      "current_heading": "Mikvah Entry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Blood Timing",
+    "candidates": [
+      "Blood Timing",
+      "Yirmiyah's Query",
+      "Beluah Concept",
+      "Rabbi Abin's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiyah's direct question to Rabbi Zeira about why blood on descent causes tumah given the beluah principle, which is exactly what 'Yirmiyah's Query' describes, and Rabbi Zeira's deflection to Rabbi Avin is just the tail of that exchange before the actual answer is given under 'Rabbi Abin's Answer'.",
+      "chosen_heading": "Yirmiyah's Query",
+      "current_heading": "Blood Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Rabbi Abin's Answer",
+    "candidates": [
+      "Yirmiyah's Query",
+      "Beluah Concept",
+      "Rabbi Abin's Answer",
+      "Exits Body Tamei",
+      "Mikvah Purification",
+      "Mikvah Limits",
+      "Baraita Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described in candidate 2's prose: Rabbi Abin's analogy to neveilat of tahor bird, Rabbi Yirmiyah's pushback that the bird carcass has no tumah outside while blood does, and the resolution that the blood causes tumah only when it exits \u2014 all of which candidate 2's prose explicitly describes in sequence.",
+      "chosen_heading": "Rabbi Abin's Answer",
+      "current_heading": "Rabbi Abin's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Baraita Meaning",
+    "candidates": [
+      "Exits Body Tamei",
+      "Mikvah Purification",
+      "Mikvah Limits",
+      "Baraita Meaning",
+      "Dry Birth Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains why the mikvah's purification does not extend to blood already in the vaginal canal (the 'lest you say' reasoning), which directly matches the 'Mikvah Limits' section's discussion of the asymmetry between the mikvah's effect on future uterine blood versus pre-existing blood in the vaginal canal.",
+      "chosen_heading": "Mikvah Limits",
+      "current_heading": "Baraita Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Dry Birth Question",
+    "candidates": [
+      "Baraita Meaning",
+      "Dry Birth Question",
+      "Head Exits Prozdor",
+      "Rav Oshaya",
+      "Shabbos Birth Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the objection about yoledet blood, the introduction of dry birth (leida yevishta), and the resolution via the fetus's head exiting the prozdor \u2014 which is precisely the content described in the 'Dry Birth Question' prose.",
+      "chosen_heading": "Dry Birth Question",
+      "current_heading": "Dry Birth Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Shabbos Birth Story",
+    "candidates": [
+      "Head Exits Prozdor",
+      "Rav Oshaya",
+      "Shabbos Birth Story",
+      "Rava's Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts the man approaching Rava with the circumcision-on-Shabbat question and Rava going after him to hear the full story, which is precisely what the 'Shabbos Birth Story' prose describes as its content.",
+      "chosen_heading": "Shabbos Birth Story",
+      "current_heading": "Shabbos Birth Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Rava's Conclusion",
+    "candidates": [
+      "Rava's Conclusion",
+      "Interior Exterior",
+      "Conflicting Sources",
+      "Acharonim View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's ruling that the child had exited the prozdor on erev Shabbos, making the bris not at its appointed time and thus not overriding Shabbat \u2014 exactly what the prose under 'Rava's Conclusion' describes.",
+      "chosen_heading": "Rava's Conclusion",
+      "current_heading": "Rava's Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Acharonim View",
+    "candidates": [
+      "Interior Exterior",
+      "Conflicting Sources",
+      "Acharonim View",
+      "Rav Shlomo Zalman",
+      "Canal Status",
+      "Dead Tissue Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage raises the exact dilemma about whether the vaginal canal is 'beluah' or 'beit hastarim,' which is precisely what the 'Canal Status' prose introduces.",
+      "chosen_heading": "Canal Status",
+      "current_heading": "Acharonim View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Dead Tissue Case",
+    "candidates": [
+      "Rav Shlomo Zalman",
+      "Canal Status",
+      "Dead Tissue Case",
+      "Abaye Beluah",
+      "Rava Beit Hastarim",
+      "Baraita Proof",
+      "Abaye Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the practical difference (nafka minah) between beluah and beit hastarim via the neveilah case, which is exactly what the 'Dead Tissue Case' prose describes.",
+      "chosen_heading": "Dead Tissue Case",
+      "current_heading": "Dead Tissue Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159,
+      160
+    ],
+    "current_heading": "Abaye Counter",
+    "candidates": [
+      "Abaye Beluah",
+      "Rava Beit Hastarim",
+      "Baraita Proof",
+      "Abaye Counter",
+      "Esophagus Status",
+      "Throat Case",
+      "Abaye Throat",
+      "Rava Throat",
+      "Dead Bird Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items cover the Abaye-Rava dispute and the baraita proof, culminating in Abaye's 'chada ve-od' counter-reading \u2014 precisely what heading 3 ('Abaye Counter') describes.",
+      "chosen_heading": "Abaye Counter",
+      "current_heading": "Abaye Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "current_heading": "Dead Bird Proof",
+    "candidates": [
+      "Esophagus Status",
+      "Throat Case",
+      "Abaye Throat",
+      "Rava Throat",
+      "Dead Bird Proof",
+      "Tosafot Degrees",
+      "Application Women",
+      "Chatzitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous unit covering the dilemma about the throat (makom nivlat of tahor bird), Abaye and Rava's dispute, and the baraita proof including the kal va-chomer and its rebuttal \u2014 exactly what the 'Dead Bird Proof' prose describes in detail.",
+      "chosen_heading": "Dead Bird Proof",
+      "current_heading": "Dead Bird Proof",
+      "moved": false
+    }
+  }
+]

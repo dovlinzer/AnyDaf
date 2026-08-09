@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Permitted Services",
+    "candidates": [
+      "Me'ila Paths",
+      "Me'ila as Gezeilah",
+      "Defining Indirect Benefit",
+      "Permitted Services",
+      "Mitzvos Lo'av L'Henos",
+      "Torah Knowledge",
+      "Corpse Dissection Halacha",
+      "Agency Question",
+      "Agency & Benefit",
+      "Mechusei Kapara Exception",
+      "Rab Yochanan's Rule",
+      "Father's Obligation",
+      "Zav & Zavah Proof",
+      "Karev vs. Cleansing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the mishna text listing permitted services (separating teruma/tithes, bird offerings for zavim/zavot/yoldot, sin-offerings, guilt-offerings, and teaching midrash/halachot/aggadot but not mikra), which is precisely what the 'Permitted Services' prose section introduces and discusses.",
+      "chosen_heading": "Permitted Services",
+      "current_heading": "Permitted Services",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Karev vs. Cleansing",
+    "candidates": [
+      "Mitzvos Lo'av L'Henos",
+      "Torah Knowledge",
+      "Corpse Dissection Halacha",
+      "Agency Question",
+      "Agency & Benefit",
+      "Mechusei Kapara Exception",
+      "Rab Yochanan's Rule",
+      "Father's Obligation",
+      "Zav & Zavah Proof",
+      "Karev vs. Cleansing",
+      "Rav Shimi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 7 items constitute the gemara's sustained discussion of whether kohanim are shluchei didan or shluchei d'Rachmana, including the dilemma, the attempted proof from the mishna, and its rejection via the mechusrei kapara exception \u2014 exactly the content described in candidate 3 ('Agency Question').",
+      "chosen_heading": "Agency Question",
+      "current_heading": "Karev vs. Cleansing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav Shimi Challenge",
+    "candidates": [
+      "Karev vs. Cleansing",
+      "Rav Shimi Challenge",
+      "Metzora Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic text of Rav Shimi bar Abba's objection from the Tosefta about a priest sprinkling blood of chatat and asham, which directly matches the 'Rav Shimi Challenge' section's prose description of exactly this challenge.",
+      "chosen_heading": "Rav Shimi Challenge",
+      "current_heading": "Rav Shimi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Metzora Case",
+    "candidates": [
+      "Metzora Case",
+      "Pigul Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the blood of the leper's sin-offering and guilt-offering with the verse 'zot tihye toras hametzora,' which is exactly what the Metzora Case prose describes.",
+      "chosen_heading": "Metzora Case",
+      "current_heading": "Metzora Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Pigul Mishna",
+    "candidates": [
+      "Pigul Mishna",
+      "Pigul Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about priests rendering a korban piggul and the liability distinction between intentional and unintentional acts, which matches exactly what the 'Pigul Mishna' prose section describes.",
+      "chosen_heading": "Pigul Mishna",
+      "current_heading": "Pigul Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Pigul Logic",
+    "candidates": [
+      "Pigul Logic",
+      "Pigul Problem",
+      "Ran's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's question about why piggul is effective \u2014 the 'granted if you say' framing introducing the core logical problem \u2014 which matches exactly the prose in 'Pigul Logic' that discusses this same question and reasoning.",
+      "chosen_heading": "Pigul Logic",
+      "current_heading": "Pigul Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ran's Solution",
+    "candidates": [
+      "Pigul Problem",
+      "Ran's Solution",
+      "Chatas Cheilev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Gemara's response about the verse 'lo yeichashev lo' overriding normal shlichus rules for piggul, which is precisely what the Ran's Solution prose discusses and attributes to this specific Gemara text.",
+      "chosen_heading": "Ran's Solution",
+      "current_heading": "Ran's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Chatas Cheilev",
+    "candidates": [
+      "Chatas Cheilev",
+      "Wife's Shoteh State",
+      "Shoteh Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's ruling on da'at, the chatat cheilev case, and Rabbi Elazar's ruling that separating a chatat cheilev for another accomplishes nothing \u2014 exactly what Candidate 0's prose describes.",
+      "chosen_heading": "Chatas Cheilev",
+      "current_heading": "Chatas Cheilev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Shoteh Timing",
+    "candidates": [
+      "Wife's Shoteh State",
+      "Shoteh Timing",
+      "State Makes Pasul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly what the 'Shoteh Timing' prose describes: the gemara's question about the circumstances of the shoteh wife \u2014 specifically whether she ate while a shoteh (no liability at all), which is precisely what item 1 presents, and this is the opening move of the resolution the 'Shoteh Timing' prose elaborates.",
+      "chosen_heading": "Shoteh Timing",
+      "current_heading": "Shoteh Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "State Makes Pasul",
+    "candidates": [
+      "State Makes Pasul",
+      "Pesach Proof",
+      "Pesach Ineffective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's ruling about the disqualified offering after a shoteh period (ho'il venidcha yidcha), which is precisely what the 'State Makes Pasul' prose section describes and analyzes.",
+      "chosen_heading": "State Makes Pasul",
+      "current_heading": "State Makes Pasul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Pesach Ineffective",
+    "candidates": [
+      "Pesach Proof",
+      "Pesach Ineffective",
+      "Seh Not D'Oraita",
+      "First Son Case",
+      "Why Retroactive Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of why one cannot bring a Pesach for another by analogy to bringing for minor children \u2014 this is exactly the 'attempted proof' described in candidate 0's prose, not the refutation described in candidate 1.",
+      "chosen_heading": "Pesach Proof",
+      "current_heading": "Pesach Ineffective",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Why Retroactive Works",
+    "candidates": [
+      "Seh Not D'Oraita",
+      "First Son Case",
+      "Why Retroactive Works",
+      "Minors Eat Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the complete argument \u2014 Rabbi Zeira's ruling, the proof from the mishna about the first son, and the motivational explanation with the baraita \u2014 and candidate 2's prose explicitly discusses all of these elements including the 'avbisra' difficulty, the kedei le-zarzem answer, and the baraita about daughters and sons, making it the clearest match for the entire passage.",
+      "chosen_heading": "Why Retroactive Works",
+      "current_heading": "Why Retroactive Works",
+      "moved": false
+    }
+  }
+]

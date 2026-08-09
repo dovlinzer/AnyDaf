@@ -1,0 +1,285 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two vs. Three Judges",
+    "candidates": [
+      "Two vs. Three Judges",
+      "Pruzbul Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Na\u1e25man vs. Rav Sheshet dispute about whether cancellation requires two or three people, which is exactly what the 'Two vs. Three Judges' section prose discusses.",
+      "chosen_heading": "Two vs. Three Judges",
+      "current_heading": "Two vs. Three Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Pruzbul Proof",
+    "candidates": [
+      "Pruzbul Proof",
+      "Sheshet's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Na\u1e25man's proof from the prosbol mishna (the transfer formula mentioning only two named judges), which is precisely what the 'Pruzbul Proof' section's prose discusses.",
+      "chosen_heading": "Pruzbul Proof",
+      "current_heading": "Pruzbul Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Sheshet's Objection",
+    "candidates": [
+      "Sheshet's Objection",
+      "Halachic Conclusion",
+      "Mamzerim Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of Rav Sheshet's objections and the prosbol mishna analysis, which is precisely what the 'Sheshet's Objection' prose section describes in detail, including the 'mi-di irya' response and the 'lo shena' teaching about document language.",
+      "chosen_heading": "Sheshet's Objection",
+      "current_heading": "Sheshet's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mamzerim Concern",
+    "candidates": [
+      "Halachic Conclusion",
+      "Mamzerim Concern",
+      "Agunot Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yo\u1e25anan's and Reish Lakish's explanations together as a unit, and the current placement under 'Mamzerim Concern' (index 1) introduces this exact gemara exchange \u2014 though it covers both opinions, the passage is correctly placed where it first appears in the essay's flow, immediately after the halachic conclusion section sets up the relevance of the dispute.",
+      "chosen_heading": "Mamzerim Concern",
+      "current_heading": "Mamzerim Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Agunot Concern",
+    "candidates": [
+      "Agunot Concern",
+      "Kol & Public Knowledge",
+      "Rabbi's Position",
+      "Rabban Shimon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items explain Rabbi Yo\u1e25anan's mamzerim concern and Reish Lakish's agunot concern \u2014 exactly the content the 'Agunot Concern' prose section describes, including the kol/publicity distinction between two and three witnesses and the resulting different practical dangers.",
+      "chosen_heading": "Agunot Concern",
+      "current_heading": "Agunot Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rabban Shimon's Position",
+    "candidates": [
+      "Kol & Public Knowledge",
+      "Rabbi's Position",
+      "Rabban Shimon's Position",
+      "Rabbinic Authority",
+      "Kiddushin Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the core content of the 'Rabban Shimon's Position' section: item 1 is the baraita presenting both Rabbi's and Rabban Shimon's positions (the starting point of that section's discussion), and item 2 is the gemara's challenge and answer about using 'mah koach beit din yafeh' to permit a married woman \u2014 exactly what the prose of heading 2 describes and concludes with.",
+      "chosen_heading": "Rabban Shimon's Position",
+      "current_heading": "Rabban Shimon's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Kiddushin Types",
+    "candidates": [
+      "Rabbinic Authority",
+      "Kiddushin Types",
+      "Rashi's Position",
+      "Ten Messengers",
+      "Witness Grouping",
+      "Formality Principle",
+      "Two Messengers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Ravina's question to Rav Ashi about kiddushei biah versus kiddushei kesef and the rabbis' response of declaring the intercourse beilat zenut, which is precisely what the 'Kiddushin Types' section's prose discusses.",
+      "chosen_heading": "Kiddushin Types",
+      "current_heading": "Kiddushin Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Two Messengers",
+    "candidates": [
+      "Rashi's Position",
+      "Ten Messengers",
+      "Witness Grouping",
+      "Formality Principle",
+      "Two Messengers",
+      "Shmuel's Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All ten items cover the dispute about cancelling agency given to ten (or two) messengers, the underlying principles (eidut she-batla / formality), the kulchem case, and the edei holacha vs. edei ketiva distinction \u2014 exactly the content described in candidate 4's prose about 'Two Messengers' and the kulchem/Rav Ashi analysis.",
+      "chosen_heading": "Two Messengers",
+      "current_heading": "Two Messengers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shmuel's Uncertainty",
+    "candidates": [
+      "Shmuel's Uncertainty",
+      "Rabbi's Retraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Shmuel bar Yehuda's statement about hearing two rulings from Rabbi Abba without knowing which aligns with which authority \u2014 exactly what the 'Shmuel's Uncertainty' section prose describes.",
+      "chosen_heading": "Shmuel's Uncertainty",
+      "current_heading": "Shmuel's Uncertainty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Rabbi's Retraction",
+    "candidates": [
+      "Rabbi's Retraction",
+      "Forced Get Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Yosef's evidence from Rav Dimi about Rabbi's retraction to align with Rabban Shimon ben Gamliel and the inference drawn from that retraction \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Rabbi's Retraction",
+      "current_heading": "Rabbi's Retraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Forced Get Case",
+    "candidates": [
+      "Forced Get Case",
+      "Case Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rabbi Yoshiya from Usha compelling a get and instructing the elders to hide and write it, which is precisely the 'Forced Get Case' content described in candidate 0's prose.",
+      "chosen_heading": "Forced Get Case",
+      "current_heading": "Forced Get Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Case Inference",
+    "candidates": [
+      "Case Inference",
+      "Rava's Ruling",
+      "Monetary vs. Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's inference about which authorities Rabbi Yoshiya follows in each dispute \u2014 exactly the logical chain described in the 'Case Inference' prose, concluding with 'chada ke-Rebbi ve-chada ke-Rabban Shimon ben Gamliel,' which is explicitly mentioned there.",
+      "chosen_heading": "Case Inference",
+      "current_heading": "Case Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Monetary vs. Status",
+    "candidates": [
+      "Rava's Ruling",
+      "Monetary vs. Status",
+      "Rambam's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rav Na\u1e25man's ruling, the challenge from the orphans/apotropos case, and the resolution (mamona vs. issura) \u2014 which exactly matches the prose of candidate 1 ('Monetary vs. Status').",
+      "chosen_heading": "Monetary vs. Status",
+      "current_heading": "Monetary vs. Status",
+      "moved": false
+    }
+  }
+]

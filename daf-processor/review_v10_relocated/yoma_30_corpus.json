@@ -1,0 +1,215 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Ein Adam Nichnas",
+    "candidates": [
+      "Morning Preparations",
+      "Ein Adam Nichnas",
+      "Chamesh Tevilot",
+      "Privacy Curtain",
+      "Ben Zoma's Question",
+      "Biblical Source: Heichal",
+      "Kal V'Chomer Logic",
+      "Serach Tevilah",
+      "Reflection on Purity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ein Adam Nichnas",
+      "first_confidence": "high",
+      "first_reason": "The Mishnah covers both the general 'ein adam nichnas' principle and the five immersions/privacy curtain details, matching candidates 1-3, but the prose under candidate 1 ('Ein Adam Nichnas') explicitly describes this Mishnah as establishing the general principle and explaining why the kohen gadol immerses, while candidates 2 and 3 cover the later clauses \u2014 however, candidate 1's prose says 'The next Mishnah provides the answer,' indicating this Mishnah itself sits under heading 1, and the full Mishnah text (including chamesh tevilot and the curtain) belongs there as a unit.",
+      "second_heading": "Ben Zoma's Question",
+      "second_confidence": "high",
+      "second_reason": "The Gemara item is Ben Zoma's question and kal vachomer argument about why the general immersion requirement exists, which precisely matches the prose of candidate 4 ('Ben Zoma's Question').",
+      "current_heading": "Ein Adam Nichnas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Reflection on Purity",
+    "candidates": [
+      "Chamesh Tevilot",
+      "Privacy Curtain",
+      "Ben Zoma's Question",
+      "Biblical Source: Heichal",
+      "Kal V'Chomer Logic",
+      "Serach Tevilah",
+      "Reflection on Purity",
+      "Preparation Models",
+      "Tosafos Avodah Model",
+      "Bemai Kamiflegi",
+      "Mechil Avodah",
+      "Lo Mechil Avodah",
+      "Kohen Gadol Lo Taval",
+      "Kidush Yadayim Shacharit",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's statement defining 'serach tevilah' as a vestigial immersion to recall old impurity, which directly matches the 'Serach Tevilah' section's prose about Rabbi Yehuda's explanation that it is a pseudo-tevilah instituted so one will recall latent tumah.",
+      "chosen_heading": "Serach Tevilah",
+      "current_heading": "Reflection on Purity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Preparation Models",
+      "Tosafos Avodah Model",
+      "Bemai Kamiflegi",
+      "Mechil Avodah",
+      "Lo Mechil Avodah",
+      "Kohen Gadol Lo Taval",
+      "Kidush Yadayim Shacharit",
+      "Biblical vs. Rabbinic",
+      "Metzora Gate Nikanor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 2 ('Bemai Kamiflegi') describes: the Gemara's question about the practical consequence of the Ben Zoma/Rabbi Yehuda dispute, the first proposed answer (mechil avodah), the challenge from the beraisa, and the final conclusion (lemakam be'aseh), which is the complete unit introduced by 'bemai kamiflegi' \u2014 the current placement under 'Biblical vs. Rabbinic' (heading 7) covers only the concluding portion of this passage.",
+      "chosen_heading": "Bemai Kamiflegi",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Metzora Gate Nikanor",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Metzora Gate Nikanor",
+      "Lishkat Metzoraim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the challenge from the metzora baraita and the Gemara's resolution, which the prose under 'Metzora Gate Nikanor' explicitly describes: Rabbi Yehuda's exemption of the metzora from immersing on day eight because he already immersed the previous evening, and the Gemara's confirmation that this supports rather than challenges Rabbi Yehuda's position.",
+      "chosen_heading": "Metzora Gate Nikanor",
+      "current_heading": "Metzora Gate Nikanor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Lishkat Metzoraim",
+    "candidates": [
+      "Lishkat Metzoraim",
+      "Tvul Yom Status",
+      "Day Seven Tevilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Lishkat Metzoraim, Rabbi Yehuda's statement about all people immersing there, and the contradiction with his earlier position \u2014 precisely what the prose under heading 0 addresses.",
+      "chosen_heading": "Lishkat Metzoraim",
+      "current_heading": "Lishkat Metzoraim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Day Seven Tevilah",
+    "candidates": [
+      "Tvul Yom Status",
+      "Day Seven Tevilah",
+      "Hesach Hadaat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage resolves the contradiction between the two baraitot by establishing that both refer to a case where the metzora immersed, with the distinction being hesach hada'at \u2014 exactly the content described in the 'Day Seven Tevilah' prose, which explicitly paraphrases this Gemara passage including 'ee d'lo taval he'erev shemesh ba'ei' and the conclusion that the only viable case is one where he immersed on day seven.",
+      "chosen_heading": "Day Seven Tevilah",
+      "current_heading": "Day Seven Tevilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Hesach Hadaat",
+    "candidates": [
+      "Hesach Hadaat",
+      "Mindset Intention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Dostai bar Matun citing Rabbi Yo\u1e25anan about hesach hada'at requiring sprinkling on the third and seventh days, which is precisely what the prose under heading 0 discusses and paraphrases.",
+      "chosen_heading": "Hesach Hadaat",
+      "current_heading": "Hesach Hadaat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Mindset Intention",
+    "candidates": [
+      "Mindset Intention",
+      "Abaye Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction based on whether the metzora immersed with intention of entering the Temple, which is precisely what the 'Mindset Intention' section's prose discusses, including the final 'if you wish say' emendation that appears in both the passage and that section's content.",
+      "chosen_heading": "Mindset Intention",
+      "current_heading": "Mindset Intention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Abaye Rav Yosef",
+    "candidates": [
+      "Abaye Rav Yosef",
+      "Only Metzoraim",
+      "Daish Betuma",
+      "Three Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Abaye-Rav Yosef exchange about whether the Rabbis hold like Ben Zoma or distinguish the metzora due to da'ish betuma, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Abaye Rav Yosef",
+      "current_heading": "Abaye Rav Yosef",
+      "moved": false
+    }
+  }
+]

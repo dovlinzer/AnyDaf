@@ -1,0 +1,391 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Blood Spill in Asham",
+    "candidates": [
+      "Meir vs. Eliezer/Shimon",
+      "Blood Spill in Asham",
+      "Rav Chisda's Challenge",
+      "Baraita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the asham metzora slaughtered not for its own sake, applying the Rabbi Meir vs. Rabbi Elazar/Shimon dispute and Rav Chisda's challenge to that same framework \u2014 exactly what the 'Blood Spill in Asham' prose describes, including the hacha ein lo takana conclusion and the oto objection.",
+      "chosen_heading": "Blood Spill in Asham",
+      "current_heading": "Blood Spill in Asham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Rav Chisda's Challenge",
+      "Baraita Evidence",
+      "Stuck Position",
+      "Tanna's Language",
+      "Nazir Precedent",
+      "Rav Avina's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita supporting Rabbi Yochanan's view and Rav Chisda's reinterpretation of 'tzarich,' which is precisely what the 'Baraita Evidence' section's prose describes.",
+      "chosen_heading": "Baraita Evidence",
+      "current_heading": "Baraita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Avina's View",
+    "candidates": [
+      "Stuck Position",
+      "Tanna's Language",
+      "Nazir Precedent",
+      "Rav Avina's View",
+      "Rav Padat's View",
+      "Metzora Missing Limb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the bald nazirite case and Rav Avina's explanation as the gemara's response to the methodological challenge about tanna's language, and candidate 2 ('Nazir Precedent') is specifically about this parallel case \u2014 the bald nazir and the question of what Beit Shammai mean by 'tzarich' \u2014 while candidate 3 ('Rav Avina's View') is about the conclusion drawn from it, suggesting the passage itself (which contains both the case and Rav Avina's statement) belongs under the heading that introduces the nazir precedent.",
+      "chosen_heading": "Nazir Precedent",
+      "current_heading": "Rav Avina's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Metzora Missing Limb",
+    "candidates": [
+      "Rav Padat's View",
+      "Metzora Missing Limb",
+      "Vessel vs. Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Pedat's view directly \u2014 that Beit Shammai and Rabbi Elazar said the same thing \u2014 which is the core content of the 'Rav Padat's View' section, not the Metzora Missing Limb section which is meant to explain the support Rabbi Pedat draws from the metzora case rather than quote the primary statement of his position.",
+      "chosen_heading": "Rav Padat's View",
+      "current_heading": "Metzora Missing Limb",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Vessel vs. Hand",
+    "candidates": [
+      "Metzora Missing Limb",
+      "Vessel vs. Hand",
+      "Two Kohanim Role",
+      "Eliezer: All Equal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita about taking blood by hand vs. vessel for the asham metzora, which is precisely what the 'Vessel vs. Hand' section prose describes.",
+      "chosen_heading": "Vessel vs. Hand",
+      "current_heading": "Vessel vs. Hand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Eliezer: All Equal",
+    "candidates": [
+      "Two Kohanim Role",
+      "Eliezer: All Equal",
+      "Shimon: Last Only",
+      "Completion Principle",
+      "Rava's Question",
+      "One vs. Many"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Tosefta/mishna citation presenting Rabbi Elazar and Rabbi Shimon's position that all animals render impure and are burned, followed by the Rabbis' disagreement \u2014 exactly what the 'Eliezer: All Equal' prose introduces as the Tosefta being cited on this question.",
+      "chosen_heading": "Eliezer: All Equal",
+      "current_heading": "Eliezer: All Equal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "One vs. Many",
+    "candidates": [
+      "Shimon: Last Only",
+      "Completion Principle",
+      "Rava's Question",
+      "One vs. Many",
+      "Last Gets Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange between Rava and Rav Na\u1e25man about whether multiple goats are sent to azazel versus burned, including the oto distinction \u2014 exactly what candidate 3 ('One vs. Many') describes in its prose.",
+      "chosen_heading": "One vs. Many",
+      "current_heading": "One vs. Many",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Last Gets Status",
+    "candidates": [
+      "Last Gets Status",
+      "First Gets Status",
+      "Rabbi Yosi Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both opinions together (Rav Shimi's 'last' and Rav Pappi's 'first'), and heading 0 introduces the dispute as a whole while heading 1 only covers Rav Pappa's position \u2014 the full Gemara text belongs under the heading that frames the entire disagreement, which is heading 0.",
+      "chosen_heading": "Last Gets Status",
+      "current_heading": "Last Gets Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Rabbi Yosi Priority",
+    "candidates": [
+      "First Gets Status",
+      "Rabbi Yosi Priority",
+      "Rejection of First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the Rabbi Yosi of kupot/containers from Shekalim \u2014 the mishna about the three baskets labeled alef-beit-gimmel and the baraita explaining the labeling as 'mitzvah barishon' \u2014 which is precisely what the 'Rabbi Yosi Priority' prose section discusses.",
+      "chosen_heading": "Rabbi Yosi Priority",
+      "current_heading": "Rabbi Yosi Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rejection of First",
+    "candidates": [
+      "Rejection of First",
+      "Ideal Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous discussion under 'Rejection of First': item 1 is the gemara's rejection of the basket analogy (because the first basket was fit when the second wasn't yet), and item 2 is the subsequent derivation from Rabbi Yosei's Paschal offering ruling \u2014 both of which are explicitly described in the prose of heading 0.",
+      "chosen_heading": "Rejection of First",
+      "current_heading": "Rejection of First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Ideal Requirements",
+    "candidates": [
+      "Ideal Requirements",
+      "Death Before Lottery",
+      "Death After Lottery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage describes the ideal requirements for the two Yom Kippur goats (identical appearance, height, cost, simultaneous acquisition) and notes they are valid even if not identical, which is precisely what the 'Ideal Requirements' section's prose discusses.",
+      "chosen_heading": "Ideal Requirements",
+      "current_heading": "Ideal Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Death After Lottery",
+    "candidates": [
+      "Death Before Lottery",
+      "Death After Lottery",
+      "Rabbi Yehuda Cases",
+      "Goats Shnei Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss what happens after the lottery when a goat dies \u2014 bringing a new pair, drawing new lots, the stipulation formula, the surplus goat grazing until unfit, and Rabbi Yehuda's positions \u2014 which is precisely what the 'Death After Lottery' prose section describes in detail.",
+      "chosen_heading": "Death After Lottery",
+      "current_heading": "Death After Lottery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Goats Shnei Teaching",
+    "candidates": [
+      "Rabbi Yehuda Cases",
+      "Goats Shnei Teaching",
+      "Se'ir Individual Form"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita about the two Yom Kippur goats \u2014 the derivation that they must be identical (shnei) and the question of what happens bedi'avad if they are not, which is precisely what the 'Goats Shnei Teaching' prose describes.",
+      "chosen_heading": "Goats Shnei Teaching",
+      "current_heading": "Goats Shnei Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Se'ir Individual Form",
+    "candidates": [
+      "Se'ir Individual Form",
+      "Multiple Matching Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why one might have thought non-matching was absolutely invalidating (because 'shnei' appears multiple times), which is precisely the question addressed in the 'Se'ir Individual Form' section's prose about why the repeated paired form might suggest matching is an absolute requirement.",
+      "chosen_heading": "Se'ir Individual Form",
+      "current_heading": "Se'ir Individual Form",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Multiple Matching Ways",
+    "candidates": [
+      "Multiple Matching Ways",
+      "Metzora Sheep Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the threefold repetition of 'two/two/two' is needed after the goat-goat derivation, explaining each teaches a different dimension of lechatchila matching (appearance, height, cost), which is precisely what the 'Multiple Matching Ways' prose describes.",
+      "chosen_heading": "Multiple Matching Ways",
+      "current_heading": "Multiple Matching Ways",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Metzora Sheep Pattern",
+    "candidates": [
+      "Metzora Sheep Pattern",
+      "Birds Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the lambs (kevasim) of the metzora \u2014 the baraita deriving that they must be identical lechatchila but valid bedi'avad, and the follow-up question about the source of ikuva from 'tihyeh' \u2014 which matches precisely the 'Metzora Sheep Pattern' prose.",
+      "chosen_heading": "Metzora Sheep Pattern",
+      "current_heading": "Metzora Sheep Pattern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Birds Pattern",
+    "candidates": [
+      "Birds Pattern",
+      "Tamidim No Match",
+      "Sun Positioning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Birds Pattern",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 complete the birds/metzora pattern discussion (tzipor amplification, tihyeh resolution), exactly matching the 'Birds Pattern' prose.",
+      "second_heading": "Tamidim No Match",
+      "second_confidence": "high",
+      "second_reason": "Item 5 opens the tamidim challenge \u2014 asking whether the keves/keves amplification requires matching daily lambs \u2014 which is precisely what 'Tamidim No Match' prose describes.",
+      "current_heading": "Birds Pattern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Sun Positioning",
+    "candidates": [
+      "Tamidim No Match",
+      "Sun Positioning",
+      "Shabbat Matching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita and its explanation of 'keneged hayom' \u2014 the sun-positioning principle for the morning and afternoon tamid \u2014 which is precisely what the 'Sun Positioning' prose describes as the content of that section.",
+      "chosen_heading": "Sun Positioning",
+      "current_heading": "Sun Positioning",
+      "moved": false
+    }
+  }
+]

@@ -29,7 +29,7 @@
           "timestamp": "02:07"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -82,7 +82,7 @@
           "timestamp": "13:38"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -101,7 +101,7 @@
           "timestamp": "25:24"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -410,5 +410,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "10:13",
+  "amud_b_micro_title": "Why Learn from Pasuk?",
+  "shiur_start_daf": 24,
+  "shiur_start_amud": "b"
 }

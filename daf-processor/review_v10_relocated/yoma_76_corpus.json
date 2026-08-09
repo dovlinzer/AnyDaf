@@ -1,0 +1,452 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Dew Layers",
+    "candidates": [
+      "Dew Layers",
+      "Machaspas Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contradiction between the two dew verses and Rabbi Yosei bar \u1e24anina's resolution (dew above and below, like a box), which is precisely what the 'Dew Layers' prose describes.",
+      "chosen_heading": "Dew Layers",
+      "current_heading": "Dew Layers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Machaspas Nature",
+    "candidates": [
+      "Machaspas Nature",
+      "248 Limbs",
+      "Angels' Bread",
+      "Yishmael Critique",
+      "Limbs & Spirit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Reish Lakish's and Rabbi Yochanan's interpretations of *mechuspas* including the gematria dispute and Rav Nachman bar Yitzchak's resolution, which is precisely what candidate 1 ('248 Limbs') discusses in its prose, whereas candidate 0 only addresses Reish Lakish's reading without the 248-limbs content.",
+      "chosen_heading": "248 Limbs",
+      "current_heading": "Machaspas Nature",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Limbs & Spirit",
+    "candidates": [
+      "248 Limbs",
+      "Angels' Bread",
+      "Yishmael Critique",
+      "Limbs & Spirit",
+      "Malbim View",
+      "Shovel Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita covering both Rabbi Akiva's 'angels' bread' interpretation and Rabbi Yishmael's critique and reinterpretation, but it begins with Rabbi Akiva's position, making heading 1 ('Angels' Bread') the natural starting point \u2014 however, since the passage spans the debate from Akiva through Yishmael's critique to the 248-limbs conclusion, and heading 1's prose explicitly introduces this exact baraita ('The tana'im debate...'), it is the best single home for the complete passage.",
+      "chosen_heading": "Angels' Bread",
+      "current_heading": "Limbs & Spirit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Shovel Law",
+    "candidates": [
+      "Malbim View",
+      "Shovel Law",
+      "Manna Abates",
+      "Sin & Loss",
+      "3 Parsa Walk",
+      "Latrine Placement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shovel Law",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's answer that waste came from gentile merchants' food, which is exactly what the 'Shovel Law' prose discusses.",
+      "second_heading": "Manna Abates",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Elazar ben Perata's extension that the manna neutralized even merchants' food, which is precisely what the 'Manna Abates' prose describes.",
+      "current_heading": "Shovel Law",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Latrine Placement",
+    "candidates": [
+      "Manna Abates",
+      "Sin & Loss",
+      "3 Parsa Walk",
+      "Latrine Placement",
+      "Soul Dried"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly supports the '3 Parsa Walk' section, providing the scriptural proof and Rabba bar bar \u1e24ana's testimony that the camp was three parasangs, plus the baraita about relieving themselves only behind the camp \u2014 all of which the prose in heading 2 explicitly discusses.",
+      "chosen_heading": "3 Parsa Walk",
+      "current_heading": "Latrine Placement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Soul Dried",
+    "candidates": [
+      "Latrine Placement",
+      "Soul Dried",
+      "Bloating Fear",
+      "Joshua Portion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is specifically about the Israelites' fear that the manna would swell/bloat in their stomachs and their rhetorical question about ingesting without expelling, which matches the 'Bloating Fear' section's prose exactly.",
+      "chosen_heading": "Bloating Fear",
+      "current_heading": "Soul Dried",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Joshua Portion",
+    "candidates": [
+      "Bloating Fear",
+      "Joshua Portion",
+      "Why Daily?",
+      "King Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bloating Fear",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yishmael's response about manna being absorbed by 248 limbs (eivarim), which matches the 'Bloating Fear' section's discussion of digestion and the body's processing of manna.",
+      "second_heading": "Joshua Portion",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the 'davar acher' interpretation that 'ish' refers to Joshua with the gezerah shavah derivation and the Moshe question, which matches perfectly with the 'Joshua Portion' prose.",
+      "current_heading": "Joshua Portion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "King Analogy",
+    "candidates": [
+      "Why Daily?",
+      "King Analogy",
+      "Anxiety vs Faith",
+      "Fresh & Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete answer to the students' question about why manna didn't fall once a year \u2014 item 1 is the parable and item 2 is its application \u2014 and heading 0 ('Why Daily?') is explicitly about that very question, while the current heading 1 ('King Analogy') actually describes both the parable AND its application in its prose, suggesting the passage was placed one heading too late.",
+      "chosen_heading": "Why Daily?",
+      "current_heading": "King Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Fresh & Light",
+    "candidates": [
+      "Anxiety vs Faith",
+      "Fresh & Light",
+      "Height Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the two 'davar acher' explanations about eating manna fresh and about the burden of carrying it on the journey, which is precisely what the 'Fresh & Light' section's prose discusses.",
+      "chosen_heading": "Fresh & Light",
+      "current_heading": "Fresh & Light",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Height Claim",
+    "candidates": [
+      "Height Claim",
+      "Tarfon Challenge",
+      "Flood Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar HaModai's sixty-cubit height claim and Rabbi Tarfon's challenge, but the current heading 'Height Claim' covers the full scene introduction including the claim itself, while 'Tarfon Challenge' covers only the response \u2014 since this is a single quoted passage containing both elements, it belongs under the heading that introduces the scene, which is index 0.",
+      "chosen_heading": "Height Claim",
+      "current_heading": "Height Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Flood Parallel",
+    "candidates": [
+      "Tarfon Challenge",
+      "Flood Parallel",
+      "Window-Door Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar HaModai's flood argument about the fifteen cubits and the Ark's navigation, which is precisely what the 'Flood Parallel' prose section describes and analyzes.",
+      "chosen_heading": "Flood Parallel",
+      "current_heading": "Flood Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Window-Door Ratio",
+    "candidates": [
+      "Window-Door Ratio",
+      "Visible to Kings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the comparison of windows vs. doors for the flood and manna, and the calculation that the manna reached sixty cubits \u2014 exactly what the 'Window-Door Ratio' prose describes.",
+      "chosen_heading": "Window-Door Ratio",
+      "current_heading": "Window-Door Ratio",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Visible to Kings",
+    "candidates": [
+      "Visible to Kings",
+      "Rain Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Isi ben Yehuda's statement about the manna being visible to kings of East and West and Abaye's gematria on 'revaya' \u2014 is precisely what the 'Visible to Kings' prose section describes.",
+      "chosen_heading": "Visible to Kings",
+      "current_heading": "Visible to Kings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rain Objection",
+    "candidates": [
+      "Rain Objection",
+      "5 vs 6 Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the objections to Rabbi Elazar HaModai's flood/manna comparison and the resolution via 'peticha peticha gamar,' which is precisely what the 'Rain Objection' prose describes.",
+      "chosen_heading": "Rain Objection",
+      "current_heading": "Rain Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "5 vs 6 Count",
+    "candidates": [
+      "5 vs 6 Count",
+      "Eating-Drinking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav \u1e24isda's answer about the five afflictions corresponding to five Torah verses, which is precisely the content described in the '5 vs 6 Count' section's prose.",
+      "chosen_heading": "5 vs 6 Count",
+      "current_heading": "5 vs 6 Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Eating-Drinking",
+    "candidates": [
+      "Eating-Drinking",
+      "Wine-Mead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content discussed in the 'Eating-Drinking' prose \u2014 Reish Lakish's derivation that drinking is subsumed under eating via the tirosh/achilah verse \u2014 which is precisely what that section's prose describes and analyzes.",
+      "chosen_heading": "Eating-Drinking",
+      "current_heading": "Eating-Drinking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Wine-Mead",
+    "candidates": [
+      "Wine-Mead",
+      "Wine Names"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Wine-Mead",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 are the continuous chain of challenges and resolutions establishing that drinking falls under 'achilah' via anigron, shichar, deveilah keilit, and gezerah shavah \u2014 exactly the content described in the 'Wine-Mead' prose.",
+      "second_heading": "Wine Names",
+      "second_confidence": "high",
+      "second_reason": "Item 6 shifts to examining the names yayin and tirosh (including the baraita about vowing from tirosh and the verse about tirosh making virgins flourish), which is precisely the content described in the 'Wine Names' prose.",
+      "current_heading": "Wine-Mead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Wine Names",
+    "candidates": [
+      "Wine Names",
+      "Daniel Fast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the meaning and etymology of tirosh/yayin and the dual potential of wine, which is precisely what the 'Wine Names' prose section covers in detail.",
+      "chosen_heading": "Wine Names",
+      "current_heading": "Wine Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Daniel Fast",
+    "candidates": [
+      "Daniel Fast",
+      "Oil Affliction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks where bathing/anointing is called affliction, provides Daniel 10:3 as the proof-text, and explains 'lechem chamudot' \u2014 all of which matches precisely the prose in heading 0, which discusses this exact derivation from Daniel and Rav Yehuda's explanation of the verse.",
+      "chosen_heading": "Daniel Fast",
+      "current_heading": "Daniel Fast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Oil Affliction",
+    "candidates": [
+      "Oil Affliction",
+      "Bathing Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oil Affliction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 provides the Daniel verse proof that abstaining from anointing is considered affliction, which is exactly what the 'Oil Affliction' prose discusses.",
+      "second_heading": "Bathing Source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks where we derive that bathing is affliction and provides Rav Zutra's answer from Psalms 109:18, which is precisely what the 'Bathing Source' prose discusses.",
+      "current_heading": "Oil Affliction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Bathing Source",
+    "candidates": [
+      "Bathing Source",
+      "Oil as Drink",
+      "D'oraita Debate",
+      "Pleasure vs Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in the 'Oil as Drink' prose: the baraita deriving that sicha is like shtiyah from the Psalms verse, followed by Rav Ashi's alternative derivation of rechitza from Daniel's own verse (ve-soch lo sachti).",
+      "chosen_heading": "Oil as Drink",
+      "current_heading": "Bathing Source",
+      "moved": true
+    }
+  }
+]

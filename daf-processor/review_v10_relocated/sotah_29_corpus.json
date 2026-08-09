@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: Sotah to Terumah",
+    "candidates": [
+      "Intro: Sotah to Terumah",
+      "Sotah Status & Tosafos",
+      "Safek Tumah Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives that uncertain creeping-animal impurity applies only in a private domain (reshut hayachid), which directly illustrates the formal conditions of safek tumah bereshut hayachid discussed in candidate 2's prose.",
+      "chosen_heading": "Safek Tumah Principle",
+      "current_heading": "Intro: Sotah to Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Safek Tumah Principle",
+    "candidates": [
+      "Sotah Status & Tosafos",
+      "Safek Tumah Principle",
+      "Kinuy & Stira Model",
+      "Three Restrictions",
+      "R. Yishmael Kal VaChomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Talmudic derivation of the safek tumah principle \u2014 yesh bo da'at lisha'el, reshut hayachid/reshut harabim \u2014 which is precisely what the 'Safek Tumah Principle' section's prose discusses, making the current placement correct.",
+      "chosen_heading": "Safek Tumah Principle",
+      "current_heading": "Safek Tumah Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "R. Yishmael Kal VaChomer",
+    "candidates": [
+      "Kinuy & Stira Model",
+      "Three Restrictions",
+      "R. Yishmael Kal VaChomer",
+      "Gemara's Challenge",
+      "Akiva's Four Pesukim",
+      "Yishmael's Three + Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly asks what Rabbi Yishmael intended when he responded to Rabbi Akiva's derivation of teruma by answering with the kehuna prohibition \u2014 precisely the question introduced in the 'R. Yishmael Kal VaChomer' section's prose about the Gemara examining whether Rabbi Yishmael's kal vachomer was meant as an addition or disagreement.",
+      "chosen_heading": "R. Yishmael Kal VaChomer",
+      "current_heading": "R. Yishmael Kal VaChomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Yishmael's Three + Logic",
+    "candidates": [
+      "Gemara's Challenge",
+      "Akiva's Four Pesukim",
+      "Yishmael's Three + Logic",
+      "Relevance Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-2 are the Gemara's challenge to Rabbi Akiva (exactly what heading 0 describes), items 3-4 are the resolution giving Akiva four pesukim and Yishmael three (which heading 0's prose also covers as the tight challenge-and-answer unit), and item 5 is the follow-up challenge to Yishmael about why terumah rather than kehunah \u2014 all of which together form the challenge unit that heading 0 describes, before the Yishmael resolution covered in headings 2-3.",
+      "chosen_heading": "Gemara's Challenge",
+      "current_heading": "Yishmael's Three + Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Relevance Framework",
+    "candidates": [
+      "Yishmael's Three + Logic",
+      "Relevance Framework",
+      "Akiva Rejects Dumiya",
+      "Redundancy Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yishmael's answer about dumya de-ba'al u-vo'el (m'chayim vs. post-mortem) and Rabbi Akiva's rejection of that framework \u2014 precisely the content described in the 'Relevance Framework' prose, which explains the m'chayim reasoning and Rabbi Akiva's non-acceptance of it.",
+      "chosen_heading": "Relevance Framework",
+      "current_heading": "Relevance Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Redundancy Principle",
+    "candidates": [
+      "Akiva Rejects Dumiya",
+      "Redundancy Principle",
+      "Safek Tumah Rules",
+      "Korban Meat Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the principle *milsa d'asi b'kal vachomer tarach v'kasav lah kra*, which is precisely what the 'Redundancy Principle' section's prose discusses and explains.",
+      "chosen_heading": "Redundancy Principle",
+      "current_heading": "Redundancy Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Korban Meat Source",
+    "candidates": [
+      "Safek Tumah Rules",
+      "Korban Meat Source",
+      "Safek Tahor Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Giddel citing Rav to introduce the derivation of the davar she-yesh/ein bo da'at lisha'el rule from the verse, which is precisely what candidate 0's prose describes \u2014 the rule being derived from a different pasuk than sotah \u2014 while candidate 1's prose describes the verse's content itself (the next analytical step).",
+      "chosen_heading": "Safek Tumah Rules",
+      "current_heading": "Korban Meat Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Safek Tahor Logic",
+    "candidates": [
+      "Korban Meat Source",
+      "Safek Tahor Logic",
+      "Domain Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the contradiction and its resolution (safek tahor vs. safek tamei, resolved by the yesh/ein bo da'at distinction), which is precisely what the 'Safek Tahor Logic' prose describes.",
+      "chosen_heading": "Safek Tahor Logic",
+      "current_heading": "Safek Tahor Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Domain Distinction",
+    "candidates": [
+      "Domain Distinction",
+      "Two Sources Combined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that without the *sota* derivation one would think the domain makes no difference (private vs. public), which directly matches the 'Domain Distinction' prose explaining that *sota* teaches the *reshut hayachid* vs. *reshut harabbim* variable.",
+      "chosen_heading": "Domain Distinction",
+      "current_heading": "Domain Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Two Sources Combined",
+    "candidates": [
+      "Two Sources Combined",
+      "R. Yehoshua's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why the sotah source alone would be insufficient (requiring da'at from both parties), which is precisely what the prose under 'Two Sources Combined' explains about the sotah model's limitation and why both sources are necessary.",
+      "chosen_heading": "Two Sources Combined",
+      "current_heading": "Two Sources Combined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "R. Yehoshua's Challenge",
+    "candidates": [
+      "R. Yehoshua's Challenge",
+      "Pre-Akiva Status",
+      "Rav Yehuda's Explanation",
+      "Tevul Yom Kal VaChomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yehoshua's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rabbi Akiva's derivation from kli cheres and Rabbi Yehoshua's reaction about Rabban Yochanan ben Zakkai, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Pre-Akiva Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question 'since there is no pasuk, why was it considered impure?' which is precisely the question candidate 1's prose describes as the lead-in to Rav Yehuda's kal vachomer explanation.",
+      "current_heading": "R. Yehoshua's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Tevul Yom Kal VaChomer",
+    "candidates": [
+      "Pre-Akiva Status",
+      "Rav Yehuda's Explanation",
+      "Tevul Yom Kal VaChomer",
+      "Avi HaTumah Objection",
+      "Gemara's Middle Ground",
+      "Persons vs. Foods",
+      "Combined Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong together under 'Rav Yehuda's Explanation' (index 1): item 1 is Rav Yehuda's kal vachomer statement and item 2 is the immediate challenge to it \u2014 this is one continuous unit presenting the argument and its refutation, and the prose of index 1 explicitly describes Rav Yehuda's kal vachomer as the answer to why shlishi b'terumah was assumed before Rabbi Akiva's pasuk, which matches these items precisely; the current placement at index 2 ('Tevul Yom Kal VaChomer') duplicates the explanation of the kal vachomer in prose and is better suited to serve as elaboration rather than the home of the primary Talmudic text.",
+      "chosen_heading": "Rav Yehuda's Explanation",
+      "current_heading": "Tevul Yom Kal VaChomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Combined Sources",
+    "candidates": [
+      "Avi HaTumah Objection",
+      "Gemara's Middle Ground",
+      "Persons vs. Foods",
+      "Combined Sources",
+      "Weakness Eliminated",
+      "Common Denominator",
+      "Tzad Chamur Objection",
+      "Generational Challenge",
+      "Akiva's Pesach Source",
+      "R. Yosei's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers the full chozar hadin dialectic between tevul yom de-sheretz and kli cheres \u2014 including the tzad hashaveh formulation and the later generation's tzad chamur objection \u2014 which is exactly what the 'Combined Sources' prose describes.",
+      "chosen_heading": "Combined Sources",
+      "current_heading": "Combined Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "R. Yosei's Question",
+    "candidates": [
+      "Weakness Eliminated",
+      "Common Denominator",
+      "Tzad Chamur Objection",
+      "Generational Challenge",
+      "Akiva's Pesach Source",
+      "R. Yosei's Question",
+      "Mechusar Kipurim Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita recording Rabbi Yosei's question 'minayin lerevi'i bekodesh she-pasul?' which is exactly what the prose under heading 5 ('R. Yosei's Question') describes.",
+      "chosen_heading": "R. Yosei's Question",
+      "current_heading": "R. Yosei's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Mechusar Kipurim Analogy",
+    "candidates": [
+      "Mechusar Kipurim Analogy",
+      "Shlishi LKodesh Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the kal vachomer argument using mechusar kipurim as the analogy to derive revi'i bekodesh, which is precisely what the 'Mechusar Kipurim Analogy' section's prose describes in detail.",
+      "chosen_heading": "Mechusar Kipurim Analogy",
+      "current_heading": "Mechusar Kipurim Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Shlishi LKodesh Source",
+    "candidates": [
+      "Shlishi LKodesh Source",
+      "Revi'i Derivation",
+      "R. Yochanan's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss deriving shlishi lekodesh from the verse in Leviticus 7:19 and revi'i by kal vachomer, which matches exactly the prose of 'Shlishi LKodesh Source' where the current placement already sits.",
+      "chosen_heading": "Shlishi LKodesh Source",
+      "current_heading": "Shlishi LKodesh Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "R. Yochanan's Problem",
+    "candidates": [
+      "Revi'i Derivation",
+      "R. Yochanan's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's exact objection to Rabbi Yosei's kal vachomer, citing the tevul yom counter-example, which is precisely what the prose under 'R. Yochanan's Problem' describes.",
+      "chosen_heading": "R. Yochanan's Problem",
+      "current_heading": "R. Yochanan's Problem",
+      "moved": false
+    }
+  }
+]

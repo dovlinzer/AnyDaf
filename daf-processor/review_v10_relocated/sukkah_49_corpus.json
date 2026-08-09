@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Sadducee Water Incident",
+    "candidates": [
+      "Sadducee Water Incident",
+      "Horn Damage & Salt Fix",
+      "Altar Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Sadducee water libation incident itself, which is exactly what the 'Sadducee Water Incident' section's prose discusses, including the identification of the officiant as a tzaduki and the pelting with etrogim \u2014 the horn damage detail is a secondary consequence mentioned in the same baraita and the current section's prose explicitly covers it.",
+      "chosen_heading": "Sadducee Water Incident",
+      "current_heading": "Sadducee Water Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Altar Requirements",
+    "candidates": [
+      "Horn Damage & Salt Fix",
+      "Altar Requirements",
+      "Rashi's Torah Links",
+      "Tosafot Materials",
+      "Yochanan's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the four components (ramp, horn, base, square) that disqualify an altar plus Rabbi Yosei bar Yehuda's addition of the sovev, which is precisely what the 'Altar Requirements' section's prose describes and discusses.",
+      "chosen_heading": "Altar Requirements",
+      "current_heading": "Altar Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Yochanan's View",
+    "candidates": [
+      "Rashi's Torah Links",
+      "Tosafot Materials",
+      "Yochanan's View",
+      "Chamukei Yereichayich",
+      "Isaiah Vineyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's statement about the shitin being created during the six days of Creation (with the Song of Songs derivation) and the school of Rabbi Yishmael's 'bara shit' reading, which together form the content described in heading 2's prose about Rabbi Yochanan's view on the shitin and their natural/primordial origin.",
+      "chosen_heading": "Yochanan's View",
+      "current_heading": "Yochanan's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Isaiah Vineyard",
+    "candidates": [
+      "Chamukei Yereichayich",
+      "Isaiah Vineyard",
+      "Cavern vs. Cavity",
+      "Trapdoor Location",
+      "70-Year Cleaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei's baraita citing Isaiah 5:1-2 and interpreting 'he planted the choicest vine' as the Temple, 'he built a tower' as the altar, and 'he hewed out a vat' as the shitin \u2014 exactly the content described in the 'Isaiah Vineyard' section's prose.",
+      "chosen_heading": "Isaiah Vineyard",
+      "current_heading": "Isaiah Vineyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "70-Year Cleaning",
+    "candidates": [
+      "Cavern vs. Cavity",
+      "Trapdoor Location",
+      "70-Year Cleaning",
+      "Ramp-Altar Gap",
+      "Mishnah Me'ilah",
+      "Sage Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together describe the baraita of Rabbi Elazar bar Tzadok about the 70-year cleaning of congealed wine and the gezeirah shavah deriving the requirement to burn it in sanctity, which is exactly what the '70-Year Cleaning' prose section discusses.",
+      "chosen_heading": "70-Year Cleaning",
+      "current_heading": "70-Year Cleaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Sage Positions",
+    "candidates": [
+      "Ramp-Altar Gap",
+      "Mishnah Me'ilah",
+      "Sage Positions",
+      "Pappa Resolution",
+      "Reish Lakish",
+      "Pappa Sheichar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mishnah Me'ilah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the me'ilah question and which rabbinic opinion the mishnah aligns with (Rabbi Elazar vs. Rabbis), matching the 'Mishnah Me'ilah' section's prose about nisachim and the shitin.",
+      "second_heading": "Reish Lakish",
+      "second_confidence": "high",
+      "second_reason": "Item 3 contains both the resolution about 'ein lecha davar shena'aseit mitzvatah' and Reish Lakish's teaching about plugging the shitin, which maps directly to the 'Reish Lakish' section's prose about pokekin et hashitin and the verse bakodesh hasech.",
+      "current_heading": "Sage Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Pappa Sheichar",
+    "candidates": [
+      "Pappa Resolution",
+      "Reish Lakish",
+      "Pappa Sheichar",
+      "Rava's Teaching",
+      "Blessing Cup",
+      "Rava Ascent",
+      "Abraham Convert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's explanation of 'sheichar' and its three connotations (drinking, satiation, intoxication), plus the physiological insight about throat-satiation, which is exactly what the 'Pappa Sheichar' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Pappa Sheichar",
+      "current_heading": "Pappa Sheichar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Abraham Convert",
+    "candidates": [
+      "Rava's Teaching",
+      "Blessing Cup",
+      "Rava Ascent",
+      "Abraham Convert",
+      "Torah Hidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the 'footsteps at the pilgrimage festival' interpretation AND the 'Abraham as first convert' explanation as one continuous Rava teaching, and candidate 2 ('Rava Ascent') is the section that introduces this entire derashah, making it the natural home for the complete passage rather than splitting it at the midpoint under candidate 3.",
+      "chosen_heading": "Rava Ascent",
+      "current_heading": "Abraham Convert",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Torah Hidden",
+    "candidates": [
+      "Abraham Convert",
+      "Torah Hidden",
+      "Humility Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Torah is likened to a thigh (concealment/privacy), which is precisely what the 'Torah Hidden' section's prose addresses.",
+      "chosen_heading": "Torah Hidden",
+      "current_heading": "Torah Hidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Humility Teaching",
+    "candidates": [
+      "Humility Teaching",
+      "Hidden Mitzvot",
+      "Modest Display",
+      "Elazar Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's teaching on Micah 6:8, directly unpacking 'do justly,' 'love mercy,' and 'walk humbly,' which is exactly what the prose under 'Humility Teaching' discusses in detail.",
+      "chosen_heading": "Humility Teaching",
+      "current_heading": "Humility Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Elazar Hierarchy",
+    "candidates": [
+      "Hidden Mitzvot",
+      "Modest Display",
+      "Elazar Hierarchy",
+      "Reciprocal Kindness",
+      "Tzedakah Reward",
+      "Rashi Effort",
+      "Three Distinctions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Elazar Hierarchy",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the hierarchy of tzedakah over korbanot and gemilut chasadim over tzedakah, which is precisely what the 'Elazar Hierarchy' prose discusses.",
+      "second_heading": "Tzedakah Reward",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Elazar's teaching that tzedakah is rewarded only in proportion to the chesed within it, which matches exactly the 'Tzedakah Reward' prose.",
+      "current_heading": "Elazar Hierarchy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Three Distinctions",
+    "candidates": [
+      "Reciprocal Kindness",
+      "Tzedakah Reward",
+      "Rashi Effort",
+      "Three Distinctions",
+      "Tzedakah Mishpat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing the three distinctions between gemilut chasadim and tzedakah (money/person, poor/rich, living/dead), which is precisely what the 'Three Distinctions' section's prose directly explains and elaborates upon.",
+      "chosen_heading": "Three Distinctions",
+      "current_heading": "Three Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Tzedakah Mishpat",
+    "candidates": [
+      "Tzedakah Mishpat",
+      "Rare Kindness",
+      "God's Grace",
+      "Woman Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three parts (tzedakah/mishpat fills world with chesed, the rarity qualification, and the God-fearing verse), but the current placement under 'Tzedakah Mishpat' is where the full quoted text begins, and the essay's prose under heading 0 explicitly discusses this entire passage including all three verses as a unit introduced by Rabbi Elazar's statement.",
+      "chosen_heading": "Tzedakah Mishpat",
+      "current_heading": "Tzedakah Mishpat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Woman Wisdom",
+    "candidates": [
+      "Rare Kindness",
+      "God's Grace",
+      "Woman Wisdom",
+      "Lishmah View",
+      "Teaching View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi \u1e24ama bar Pappa's statement about chen and yirat shamayim (explicitly discussed in candidate 1's prose) and Rabbi Elazar's teaching about Torah of kindness, and candidate 1's prose directly references and discusses both teachings together as a unit, making it the clear home for this entire passage.",
+      "chosen_heading": "God's Grace",
+      "current_heading": "Woman Wisdom",
+      "moved": true
+    }
+  }
+]

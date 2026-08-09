@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Two Readings",
+    "candidates": [
+      "Transition to Basar",
+      "Tipat Chalav",
+      "Taste Determines Status",
+      "Stirred Pot",
+      "Two Readings",
+      "Abaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text about a drop of milk falling on a piece of meat and the stirred pot case, which is precisely what the 'Tipat Chalav' section's prose introduces and describes.",
+      "chosen_heading": "Tipat Chalav",
+      "current_heading": "Two Readings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Two Readings",
+      "Abaye's Position",
+      "Learning from Basar",
+      "Exception Theory",
+      "Abaye's Proof",
+      "Intermingling Concept",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's opening statement that ta'am v'lo mamash is a biblical principle, which is precisely what the 'Abaye's Position' section introduces and discusses.",
+      "chosen_heading": "Abaye's Position",
+      "current_heading": "Abaye's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Learning from Basar",
+      "Exception Theory",
+      "Abaye's Proof",
+      "Intermingling Concept",
+      "Rava's Position",
+      "Definition of Cooking",
+      "Rav's Ruling",
+      "Min Bemino"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present Abaye's argument (item 1) and Rava's direct rebuttal (item 2) \u2014 precisely the exchange that candidate 4 ('Rava's Position') describes as the crux of the debate between Abaye and Rava over whether basar bechalav proves taste carries independent biblical weight or whether the prohibition is defined entirely by the act of cooking.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Min Bemino",
+    "candidates": [
+      "Definition of Cooking",
+      "Rav's Ruling",
+      "Min Bemino",
+      "Forbidden as Meat",
+      "Negation Question",
+      "Thick Stew Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav's ruling and its immediate analysis \u2014 Item 1 is Rav's core statement that the piece becomes neveilah and forbids all other pieces, Items 2-3 are the direct Talmudic challenge and response about whether Rav follows Rabbi Yehuda and conflicts with Rava's principle \u2014 this is all one continuous unit belonging under 'Rav's Ruling', not under 'Min Bemino' which describes the practical consequences already elaborated in the essay prose.",
+      "chosen_heading": "Rav's Ruling",
+      "current_heading": "Min Bemino",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Thick Stew Answer",
+    "candidates": [
+      "Forbidden as Meat",
+      "Negation Question",
+      "Thick Stew Answer",
+      "Reversal Question",
+      "Two Positions",
+      "Status Stickiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Ravina's answer distinguishing thin gravy from thick gravy, which is precisely what the 'Thick Stew Answer' prose section describes and explains.",
+      "chosen_heading": "Thick Stew Answer",
+      "current_heading": "Thick Stew Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Status Stickiness",
+    "candidates": [
+      "Reversal Question",
+      "Two Positions",
+      "Status Stickiness",
+      "Majority View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the conceptual question about what Rav maintains regarding efshar lesochto mutar/assur, which matches the 'Reversal Question' heading's prose about u'mai kasavar and the fundamental question of whether squeezing out the milk would reverse the forbidden status.",
+      "chosen_heading": "Reversal Question",
+      "current_heading": "Status Stickiness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Majority View",
+    "candidates": [
+      "Status Stickiness",
+      "Majority View",
+      "Meat Falls in",
+      "Rav's Ruling",
+      "Status Problem",
+      "Milk Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records the Amoraic dispute between Rav/Rabbi \u1e24anina/Rabbi Yo\u1e25anan versus Shmuel/Rabbi Shimon bar Rabbi/Resh Lakish on efshar lesochto, which is precisely what the 'Majority View' prose describes and discusses.",
+      "chosen_heading": "Majority View",
+      "current_heading": "Majority View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Milk Challenge",
+    "candidates": [
+      "Meat Falls in",
+      "Rav's Ruling",
+      "Status Problem",
+      "Milk Challenge",
+      "Torah's Focus",
+      "Half-Kezayit Case",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge to Rav's position \u2014 asking why the milk is permitted if efshar lesochto assur \u2014 which is precisely what candidate 2 ('Status Problem') describes in its prose.",
+      "chosen_heading": "Status Problem",
+      "current_heading": "Milk Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Torah's Focus",
+      "Half-Kezayit Case",
+      "Rav's Position",
+      "Boiling Pot Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'Torah forbids the kid but not the milk' ruling and the immediate challenge from the half-kezayit case, which is precisely what the 'Torah's Focus' prose section discusses in full, including both the gdi/chalav distinction and the half-kezayit objection that follows it.",
+      "chosen_heading": "Torah's Focus",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Boiling Pot Answer",
+    "candidates": [
+      "Rav's Position",
+      "Boiling Pot Answer",
+      "Inconsistency",
+      "Combination Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's proof that Rav holds milk is also forbidden ('ela olam kasvar Rav chalav nami asur') followed by the boiling-pot explanation \u2014 content that candidate 0's prose explicitly describes as part of establishing Rav's position, whereas candidate 1's prose covers the boiling-pot resolution as a response to a challenge about the milk pot, and the current placement under 'Boiling Pot Answer' misses that these items are actually the logical continuation of the argument proving Rav forbids milk, which belongs under 'Rav's Position'.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Boiling Pot Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Combination Logic",
+    "candidates": [
+      "Inconsistency",
+      "Combination Logic",
+      "Levi's View",
+      "Cooking Standard",
+      "R. Yehuda's View",
+      "Sages' View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Inconsistency",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present Rav's ruling plus the mima nafshach objection and its resolution (miyora gedola), which maps precisely to the 'Inconsistency' heading's prose about the internal inconsistency challenge and the 'Combination Logic' heading's prose about the resolution \u2014 but since item 1 is the objection and item 2 is the resolution, and the 'Inconsistency' heading only covers the objection while 'Combination Logic' covers the full resolution including miyora gedola, the natural home for items 1-2 together is 'Combination Logic' (index 1), which already contains both the challenge recap and the miyora gedola resolution in its prose.",
+      "second_heading": "Levi's View",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Levi's disagreement with Rav and his baraita ruling, which maps precisely to the 'Levi's View' heading (index 2) whose prose explicitly discusses Levi's position that one receives lashes for cooking even a half-kezayit of each.",
+      "current_heading": "Combination Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Sages' View",
+    "candidates": [
+      "Levi's View",
+      "Cooking Standard",
+      "R. Yehuda's View",
+      "Sages' View",
+      "Rebbi's Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Item 1 is Rabbi Yehuda's ruling from the baraita about a drop of milk rendering a piece of meat forbidden and then all other pieces, which is precisely what candidate 2 ('R. Yehuda's View') describes, and Item 2 is the Sages' response which is the immediate continuation of that same baraita \u2014 both belong together under the heading that introduces this Tannaitic dispute, which is candidate 2.",
+      "chosen_heading": "R. Yehuda's View",
+      "current_heading": "Sages' View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Rebbi's Split",
+    "candidates": [
+      "Sages' View",
+      "Rebbi's Split",
+      "Timing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rebbi's statement distinguishing between the cases of stirring/covering and not stirring/covering, which is precisely what the 'Rebbi's Split' section prose describes and analyzes.",
+      "chosen_heading": "Rebbi's Split",
+      "current_heading": "Rebbi's Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Timing Question",
+    "candidates": [
+      "Timing Question",
+      "Gemara Challenge",
+      "Final Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's clarification of what 'lo ni'er velo kissa' means \u2014 exploring the two possible interpretations (never stirred at all, or not stirred initially but stirred later) \u2014 which is exactly what the 'Timing Question' prose describes.",
+      "chosen_heading": "Timing Question",
+      "current_heading": "Timing Question",
+      "moved": false
+    }
+  }
+]

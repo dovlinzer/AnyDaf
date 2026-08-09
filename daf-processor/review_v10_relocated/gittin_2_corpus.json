@@ -1,0 +1,184 @@
+[
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Basic Requirement",
+    "candidates": [
+      "Masechet Overview",
+      "Conceptual Themes",
+      "Divorce Context",
+      "Perakim Structure",
+      "Rambam's 10 Conditions",
+      "Conditions Explained",
+      "Basic Requirement",
+      "Geographic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna of Gittin stating the basic requirement for an agent bringing a get from overseas to declare it was written and signed in his presence, which is precisely what the 'Basic Requirement' section's prose discusses.",
+      "chosen_heading": "Basic Requirement",
+      "current_heading": "Basic Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Geographic Debate",
+    "candidates": [
+      "Geographic Debate",
+      "Eretz Yisrael Borders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same geographic debate about which distances/locations trigger the declaration requirement, and the prose under 'Geographic Debate' explicitly discusses Rabban Gamliel, Rabbi Eliezer, the Chachamim, and Rabban Shimon ben Gamliel's positions \u2014 exactly the content of these two items.",
+      "chosen_heading": "Geographic Debate",
+      "current_heading": "Geographic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Eretz Yisrael Borders",
+    "candidates": [
+      "Eretz Yisrael Borders",
+      "Within Eretz Yisrael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the borders of Eretz Yisrael for gittin purposes with Rabbi Yehuda's and Rabbi Meir's positions, which exactly matches the 'Eretz Yisrael Borders' section prose.",
+      "chosen_heading": "Eretz Yisrael Borders",
+      "current_heading": "Eretz Yisrael Borders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Within Eretz Yisrael",
+    "candidates": [
+      "Within Eretz Yisrael",
+      "Mishnah Structure",
+      "Get Convention",
+      "Border Cities",
+      "No Forgery Defense",
+      "Ramban Property",
+      "Rabbah Lishmah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about bringing a get within Eretz Yisrael not requiring the declaration, with the signature-ratification fallback for challenges \u2014 exactly what the 'Within Eretz Yisrael' prose section discusses.",
+      "chosen_heading": "Within Eretz Yisrael",
+      "current_heading": "Within Eretz Yisrael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Rabbah Lishmah",
+    "candidates": [
+      "Mishnah Structure",
+      "Get Convention",
+      "Border Cities",
+      "No Forgery Defense",
+      "Ramban Property",
+      "Rabbah Lishmah",
+      "Rava Signatures",
+      "Nafka Mina Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items present Rabbah's answer to 'mai ta'ama' \u2014 that people overseas are not expert in lishmah \u2014 which is precisely what the 'Rabbah Lishmah' section's prose describes as the opening of the gemara's discussion.",
+      "chosen_heading": "Rabbah Lishmah",
+      "current_heading": "Rabbah Lishmah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Nafka Mina Cases",
+    "candidates": [
+      "Rava Signatures",
+      "Nafka Mina Cases",
+      "One Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rava's reason, the mai beinaihu question, and the nafka mina cases \u2014 belong together under 'Nafka Mina Cases', which is exactly where they currently sit and whose prose explicitly discusses Rava's position and all three nafka minos derived from the Rabbah/Rava dispute.",
+      "chosen_heading": "Nafka Mina Cases",
+      "current_heading": "Nafka Mina Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "One Witness",
+    "candidates": [
+      "One Witness",
+      "Challenge Issued"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the question and answer discussed in heading 0's prose \u2014 Rabba's reason requiring one witness, the challenge from general Torah testimony rules, and the answer that one witness suffices for prohibitions (ed echad ne'eman b'issurin) \u2014 which is the precise content the 'One Witness' section elaborates upon.",
+      "chosen_heading": "One Witness",
+      "current_heading": "One Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Challenge Issued",
+    "candidates": [
+      "Challenge Issued",
+      "Beyado Concept",
+      "Unresolved Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain of challenge and response revolving around whether one witness suffices given chazakas issur and davar she-b'ervah \u2014 exactly the content described in the 'Challenge Issued' prose.",
+      "chosen_heading": "Challenge Issued",
+      "current_heading": "Challenge Issued",
+      "moved": false
+    }
+  }
+]

@@ -38,8 +38,8 @@
           "timestamp": "02:30"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Example of Found Get: Establishing Standards for Identity Verification",
@@ -58,7 +58,7 @@
         }
       ],
       "sefaria_index": 2,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Rava's Position: Multiple Common Names and the Evidence of Possession",
@@ -85,8 +85,8 @@
           "timestamp": "07:15"
         }
       ],
-      "sefaria_index": 0,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Rava's Position: Multiple Common Names and the Evidence of Possession (continued)",
@@ -104,7 +104,7 @@
           "timestamp": "11:21"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -383,7 +383,7 @@
           "timestamp": "52:39"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 23,
       "matched": true
     }
   ],
@@ -547,5 +547,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "30:06",
+  "amud_b_micro_title": "Blame Shifts Concern",
+  "shiur_start_daf": 116,
+  "shiur_start_amud": "a"
 }

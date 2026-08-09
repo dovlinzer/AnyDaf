@@ -29,8 +29,8 @@
           "timestamp": "05:40"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Is the Torah Reading an Avodah? Evidence from Clothing Requirements",
@@ -48,7 +48,7 @@
           "timestamp": "07:09"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -72,8 +72,8 @@
           "timestamp": "09:34"
         }
       ],
-      "sefaria_index": 14,
-      "matched": false
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Pillow Debate: Can One Use Bigdei Kehunah Under One's Head?",
@@ -106,7 +106,7 @@
           "timestamp": "31:52"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -471,5 +471,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "38:35",
+  "amud_b_micro_title": "Azarah Restriction",
+  "shiur_start_daf": 68,
+  "shiur_start_amud": "b"
 }

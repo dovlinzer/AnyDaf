@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Rav's Axe Ruling",
+    "candidates": [
+      "Opening & Context",
+      "Meita Machmat Melachah",
+      "Rav's Axe Ruling",
+      "Rav Pappa Bucket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's challenge to Rav's axe ruling and the halakhic conclusion, which is precisely what heading 2 'Rav's Axe Ruling' discusses in its prose.",
+      "chosen_heading": "Rav's Axe Ruling",
+      "current_heading": "Rav's Axe Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rav Pappa Bucket",
+    "candidates": [
+      "Rav Pappa Bucket",
+      "Shvua & Shoel",
+      "Mice Attack Cat",
+      "Rav Ashi Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav Pappa bucket case discussed in candidate 0's prose, which directly narrates this story and analyzes its implications about burden of proof for the shoel.",
+      "chosen_heading": "Rav Pappa Bucket",
+      "current_heading": "Rav Pappa Bucket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Rav Ashi Question",
+    "candidates": [
+      "Shvua & Shoel",
+      "Mice Attack Cat",
+      "Rav Ashi Question",
+      "Cat Overstuffed",
+      "Rashi Interpretation",
+      "Rava's Loophole"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the mice attacking and killing the cat plus Rav Ashi's dilemma and Rav Mordekhai's resolution, which is precisely what candidate 2 ('Rav Ashi Question') discusses in its prose.",
+      "second_heading": "Cat Overstuffed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the alternative version where the cat died from overeating mice \u2014 a structurally distinct case with new facts \u2014 which is exactly what candidate 3 ('Cat Overstuffed') describes in its prose.",
+      "current_heading": "Rav Ashi Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Rava's Loophole",
+    "candidates": [
+      "Cat Overstuffed",
+      "Rashi Interpretation",
+      "Rava's Loophole",
+      "Closing the Loophole",
+      "Service Workers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Loophole",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's loophole trick \u2014 telling the lender 'pour me water' to invoke baalav imo \u2014 which matches exactly the prose of 'Rava's Loophole' (candidate 2).",
+      "second_heading": "Closing the Loophole",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the counter-strategy where the perspicacious lender says 'borrow first, then I'll pour the water,' which matches exactly the prose of 'Closing the Loophole' (candidate 3).",
+      "current_heading": "Rava's Loophole",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Service Workers",
+    "candidates": [
+      "Closing the Loophole",
+      "Service Workers",
+      "Communal vs Individual",
+      "Teacher vs Students"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling about service workers (teacher, gardener, butcher, bloodletter, city scribe) and their automatic baalav imo status, which is precisely what the 'Service Workers' section's prose discusses.",
+      "chosen_heading": "Service Workers",
+      "current_heading": "Service Workers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Teacher vs Students",
+    "candidates": [
+      "Communal vs Individual",
+      "Teacher vs Students",
+      "Modern Cases",
+      "Curriculum Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly depicts the exchange between Rava and his students about who has employed whom, which is precisely what the 'Teacher vs Students' prose describes in detail.",
+      "chosen_heading": "Teacher vs Students",
+      "current_heading": "Teacher vs Students",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Curriculum Choice",
+    "candidates": [
+      "Modern Cases",
+      "Curriculum Choice",
+      "Fixed Curriculum",
+      "Daf Yomi Application",
+      "Donkey Dies",
+      "Supervision Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the *okimta* distinguishing *yomei d'challa* (fixed curriculum, students hire teacher) from regular days (teacher chooses curriculum), which is precisely what the 'Curriculum Choice' section's prose discusses.",
+      "chosen_heading": "Curriculum Choice",
+      "current_heading": "Curriculum Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Supervision Question",
+    "candidates": [
+      "Fixed Curriculum",
+      "Daf Yomi Application",
+      "Donkey Dies",
+      "Supervision Question",
+      "Theft Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe the Mareimar bar \u1e24anina mule-rental incident and Rava's ruling, which is precisely what the 'Donkey Dies' section's prose introduces \u2014 the case of the hired-out donkeys in Bei Chozai, the negligent death, and Rava's initial liability ruling \u2014 rather than the 'Supervision Question' section which covers the subsequent investigation and resolution.",
+      "chosen_heading": "Donkey Dies",
+      "current_heading": "Supervision Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Theft Alternative",
+    "candidates": [
+      "Supervision Question",
+      "Theft Alternative",
+      "Mixed Days",
+      "Lender's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the theft scenario (ignavo, meita ke'darkah be'ganav), the rabbis challenging Rava with gneiva be'ba'alim, Rava's embarrassment, and the ultimate revelation that the owner only came out to supervise loading \u2014 all of which corresponds precisely to the 'Theft Alternative' section's prose discussion of this exact sequence of events.",
+      "chosen_heading": "Theft Alternative",
+      "current_heading": "Theft Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Lender's Claim",
+    "candidates": [
+      "Mixed Days",
+      "Lender's Claim",
+      "Renter's Claim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mixed Days",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishnah setting up the various borrowing/renting scenarios, which matches heading 0's prose about 'a new Mishnah' and the variants of borrowed/rented animals dying.",
+      "second_heading": "Lender's Claim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the lender's claim that the cow died during the borrowing period and the borrower's 'I don't know' response leading to liability \u2014 exactly what heading 1's prose describes about the lender's claim and bari veshema ruling.",
+      "current_heading": "Lender's Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Renter's Claim",
+    "candidates": [
+      "Renter's Claim",
+      "Direct Contradiction",
+      "Unknown Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case where the renter claims the animal died during the rental period and the owner says 'I do not know,' resulting in the renter being exempt \u2014 which is precisely what the 'Renter's Claim' prose discusses.",
+      "chosen_heading": "Renter's Claim",
+      "current_heading": "Renter's Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Unknown Split",
+    "candidates": [
+      "Direct Contradiction",
+      "Unknown Split",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Direct Contradiction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the bari vebari case where the renter takes an oath, which is precisely what the 'Direct Contradiction' prose discusses \u2014 the oath that the rented cow died and its categorization.",
+      "second_heading": "Unknown Split",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the eini yodea / eini yodea case resulting in yachloku, which is exactly what the 'Unknown Split' prose discusses \u2014 neither party knows and they divide the liability.",
+      "current_heading": "Unknown Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Gilgul Shvua",
+      "Cannot Swear",
+      "Modeh B'Miktzat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara unit discussing the Rav Nachman/Rav Huna dispute about 'maneh li beyadcha' with 'eini yodea,' and Rav Nachman's resolution via 'esek shvua beineihem' \u2014 exactly what the 'Rav Nachman' prose section describes.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Modeh B'Miktzat",
+    "candidates": [
+      "Gilgul Shvua",
+      "Cannot Swear",
+      "Modeh B'Miktzat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's modeh b'miktzat case \u2014 partial admission of fifty dinars creating a shvua obligation on the remainder, which cannot be fulfilled because the party says 'I don't know,' triggering mitoch she'eino yachol lishava \u2014 which is precisely what the 'Modeh B'Miktzat' section's prose describes as its illustrative parallel case.",
+      "chosen_heading": "Modeh B'Miktzat",
+      "current_heading": "Modeh B'Miktzat",
+      "moved": false
+    }
+  }
+]

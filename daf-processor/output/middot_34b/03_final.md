@@ -1,7 +1,7 @@
-# Middot 34b — Daf Yomi Shiur
 [DAF:34a]
-
 ## Parah Adumah Bridge
+
+
 
 ### Opening Review
 
@@ -23,19 +23,13 @@ One further note about the Kidron Valley: beyond serving as the geographical bar
 
 ## Shiva Shearim Azara
 
-### Seven Gates Intro
 
-> **Hebrew/Aramaic:** שִׁבְעָה שְׁעָרִים הָיוּ בָעֲזָרָה, שְׁלשָׁה בַצָּפוֹן וּשְׁלשָׁה בַדָּרוֹם וְאֶחָד בַּמִּזְרָח.
->
-> **Translation:** There were seven gates in the courtyard: three in the north and three in the south and one in the east.
+
+### Seven Gates Intro
 
 The mishnah states: *shiva shearim hayu ba-azara* — there were seven gates in the *Azara*. This subject had already been touched upon when learning *Tamid*, in the context of the *Kohanim*'s movements through the complex. The distribution was *shlosha ba-tzafon u-shlosha ba-darom* — three in the north and three in the south — *ve-echad ba-mizrach*, and one in the east.
 
 ### Sha'ar HaDelek
-
-> **Hebrew/Aramaic:** שֶׁבַּדָּרוֹם, שַׁעַר הַדֶּלֶק. שֵׁנִי לוֹ, שַׁעַר הַבְּכוֹרוֹת. שְׁלִישִׁי לוֹ, שַׁעַר הַמָּיִם.
->
-> **Translation:** In the south: the Gate of Kindling, and next to it the Gate of the First-borns, and then the Water Gate.
 
 The southern gates are enumerated first. The first is *Sha'ar HaDelek* — literally, the Fuel Gate. *Delek* means fuel or combustible material, and the obvious implication is that this gate served as the delivery entrance for firewood and other materials needed for the *mizbe'ach*. One would not transport loads of wood through the main entrance; this was effectively the service entrance at the back.
 
@@ -55,10 +49,6 @@ The third southern gate was *Sha'ar HaMayim* — the Gate of Water — named for
 
 ### Sha'ar Nikanor
 
-> **Hebrew/Aramaic:** שֶׁבַּמִּזְרָח, שַׁעַר נִקָּנוֹר, וּשְׁתֵּי לְשָׁכוֹת הָיוּ לוֹ, אַחַת מִימִינוֹ וְאַחַת מִשְּׂמֹאלוֹ, אַחַת לִשְׁכַּת פִּנְחָס הַמַּלְבִּישׁ, וְאַחַת לִשְׁכַּת עוֹשֵׂי חֲבִתִּין:
->
-> **Translation:** In the east: the Gate of Nicanor. It had two chambers, one on its right and one on its left. One was the chamber of Pinchas the dresser and one the other the chamber of the griddle cake makers.
-
 Moving to the east, the lone eastern gate was *Sha'ar Nikanor*. This was the primary entrance from the *Ezrat Nashim* into the *Azara* proper — the main door through which all *Yisrael* would pass when approaching the *avodah*. If the *Ezrat Nashim* served as the waiting area or anteroom, *Sha'ar Nikanor* was the threshold into the sacred precincts themselves.
 
 ### Nikanor's Doors
@@ -70,10 +60,6 @@ The gate was named for the man who brought its doors from Alexandria. The *Gemar
 Off the sides of *Sha'ar Nikanor* were two chambers — *u-shtei lishchot hayu lo*, one on each side. One was called *lishkat Pinchas ha-malbish*, the chamber of *Pinchas* the dresser — the individual who assisted the *Kohanim* in donning and removing their priestly garments. We had noted elsewhere that this function was associated with the *Lishkat HaGazit*, but here *Pinchas* may have used this chamber as a base of operations or storage. The other chamber was *lishkat osei chavitin* — the chamber of those who prepared the *chavitin*, the griddle-offering of the *Kohen Gadol*.
 
 ### Sha'ar Nitzotz
-
-> **Hebrew/Aramaic:** וְשֶׁבַּצָּפוֹן, שַׁעַר הַנִּיצוֹץ. וּכְמִין אַכְסַדְרָה הָיָה, וַעֲלִיָּה בְנוּיָה עַל גַּבָּיו, שֶׁהַכֹּהֲנִים שׁוֹמְרִים מִלְמַעְלָן וְהַלְוִיִּם מִלְּמַטָּן, וּפֶתַח הָיָה לוֹ לַחֵיל. שֵׁנִי לוֹ, שַׁעַר הַקָּרְבָּן. שְׁלִישִׁי לוֹ, בֵּית הַמּוֹקֵד:
->
-> **Translation:** On the north was the Gate of the Sparks which was shaped like a portico. It had an upper chamber built on it, and the priests used to keep watch above and the Levites below, and it had a door opening into the Hel. Next to it was the Gate of the Sacrifice and next to that the fire chamber.
 
 The northern gates are enumerated next, beginning from the west side moving eastward. The first is *Sha'ar Nitzotz* — the Gate of the Spark. Its name likely relates to fire: one explanation is that this was the gate through which fire was brought to supplement what was on the *mizbe'ach*, since the requirement is to bring one's own fire and not merely rely on what is already burning. The *mishnah* describes it as being *ke-min achsadra* — like a portico — with two columns supporting a roof or some kind of overhead structure, with a balcony or platform above it. The *Kohanim* would watch from above and the *Levi'im* below.
 
@@ -89,13 +75,13 @@ What is puzzling is that this opening into the *chel* is mentioned only here and
 
 ## Beit HaMoked Chambers
 
+
+
 ### Four Chambers Layout
 
-> **Hebrew/Aramaic:** וְאַרְבַּע לְשָׁכוֹת הָיוּ בְּבֵית הַמּוֹקֵד, כְּקִיטוֹנוֹת פְּתוּחוֹת לִטְרַקְלִין, שְׁתַּיִם בַּקֹּדֶשׁ וּשְׁתַּיִם בַּחֹל, וְרָאשֵׁי פִסְפָּסִין מַבְדִּילִין בֵּין קֹדֶשׁ לַחֹל. וּמֶה הָיוּ מְשַׁמְּשׁוֹת. מַעֲרָבִית דְּרוֹמִית, הִיא הָיְתָה לִשְׁכַּת טְלָאֵי קָרְבָּן. דְּרוֹמִית מִזְרָחִית, הִיא הָיְתָה לִשְׁכַּת עוֹשֵׂי לֶחֶם הַפָּנִים. מִזְרָחִית צְפוֹנִית, בָּהּ גָּנְזוּ בְנֵי חַשְׁמוֹנַאי אֶת אַבְנֵי הַמִּזְבֵּחַ שֶׁשִּׁקְּצוּם מַלְכֵי יָוָן. צְפוֹנִית מַעֲרָבִית, בָּהּ יוֹרְדִים לְבֵית הַטְּבִילָה:
->
-> **Translation:** There were four chambers inside the fire chamber, like sleeping chambers opening into a hall, two in sacred ground and two in non-holy, and there was a row of mosaic stones separating the holy from the non-holy. For what were they used? The one on the southwest was the chamber of sacrificial lambs, The one on the southeast was the chamber of the showbread. In the one to the northeast the Hasmoneans deposited the stones of the altar which the kings of Greece had defiled. Through the one on the northwest they used to go down to the bathing place.
-
 *Arba lishchot hayu b'Beit HaMoked* — there were four chambers in the *Beit HaMoked*, arranged like small rooms opening off a great hall, *ke-kitonot ha-ptuchot la-traklin*. The *Beit HaMoked* was the central structure where the *Kohanim* would sleep, and it straddled the boundary between the *Azara* proper and the outside space, with two chambers in the sanctified area and two in the non-sanctified.
+
+Before arriving at the *Beit HaMoked* itself, the *mishnah* lists *Sha'ar ha-Korban* as the second gate. The name derives from the fact that within the *Beit HaMoked* there was a chamber where the *tela'im* — the sheep designated for the *korbanot* — were kept, so that the *temidim* could be brought each day from within that room. That functional connection is what gave the gate its name. It should be noted, however, that the precise layout of this gate relative to the *Beit HaMoked* involves some confusion in the visual diagrams, which do not map perfectly onto the sequence the *mishnah* itself presents.
 
 ### Kodesh/Chol Division
 
@@ -131,13 +117,21 @@ The northwest chamber, the fourth and final, was *bah yordim le-beit ha-tvilah* 
 
 ## Beit HaMoked Gates
 
+
+
+[DAF:34b]
 ### Two Gates System
 
-> **Hebrew/Aramaic:** שְׁנַיִם שְׁעָרִים הָיוּ לְבֵית הַמּוֹקֵד, אֶחָד פָּתוּחַ לַחֵיל וְאֶחָד פָּתוּחַ לָעֲזָרָה. אָמַר רַבִּי יְהוּדָה, זֶה שֶׁהָיָה פָתוּחַ לָעֲזָרָה, פִּשְׁפָּשׁ קָטָן הָיָה לוֹ, שֶׁבּוֹ נִכְנָסִין לִבְלֹשׁ אֶת הָעֲזָרָה:
->
+*Shnayim shearim hayu le-Beit HaMoked* — the *Beit HaMoked* itself had two gates: *echad patuach la-chel ve-echad patuach la-Azara* — one opening to the *chel* and one opening into the *Azara*. It is worth noting in passing that the word *chel* may be a deliberate softening of the word *chol* — one cannot quite call *Har HaBayit* profane, but this terminology emphasizes that the space is not the *Azara* proper.
+
+> **Hebrew/Aramaic:** שְׁנַיִם שְׁעָרִים הָיוּ לְבֵית הַמּוֹקֵד, אֶחָד פָּתוּחַ לַחֵיל וְאֶחָד פָּתוּחַ לָעֲזָרָה. אָמַר רַבִּי יְהוּדָה, זֶה שֶׁהָיָה פָתוּחַ לָעֲזָרָה, פִּשְׁפָּשׁ קָטָן הָיָה לוֹ, שֶׁבּוֹ נִכְנָסִין לִבְלֹשׁ אֶת הָעֲזָרָה:
 > **Translation:** The fire chamber had two gates, one opening on to the Hel and one on to the courtyard. Rabbi Judah says: the one that opened on to the courtyard had a small opening through which they went in to search the courtyard.
 
-*Shnayim shearim hayu le-Beit HaMoked* — the *Beit HaMoked* itself had two gates: *echad patuach la-chel ve-echad patuach la-Azara* — one opening to the *chel* and one opening into the *Azara*. It is worth noting in passing that the word *chel* may be a deliberate softening of the word *chol* — one cannot quite call *Har HaBayit* profane, but this terminology emphasizes that the space is not the *Azara* proper.
+> **Hebrew/Aramaic:** בֵּית הַמּוֹקֵד, כִּפָּה, וּבַיִת גָּדוֹל הָיָה, מֻקָּף רוֹבָדִין שֶׁל אֶבֶן, וְזִקְנֵי בֵית אָב יְשֵׁנִים שָׁם, וּמַפְתְּחוֹת הָעֲזָרָה בְּיָדָם, וּפִרְחֵי כְהֻנָּה, אִישׁ כִּסְתּוֹ בָאָרֶץ:
+> **Translation:** The fire chamber was vaulted and it was a large room surrounded with stone projections, and the elders of the clan [serving in the Temple] used to sleep there, with the keys of the Temple courtyard in their hands. The priestly initiates used to place their bedding on the ground.
+
+> **Hebrew/Aramaic:** וּמָקוֹם הָיָה שָׁם, אַמָּה עַל אַמָּה, וְטַבְלָא שֶׁל שַׁיִשׁ וְטַבַּעַת הָיְתָה קְבוּעָה בָהּ, וְשַׁלְשֶׁלֶת שֶׁהַמַּפְתְּחוֹת הָיוּ תְלוּיוֹת בָּהּ. הִגִּיעַ זְמַן הַנְּעִילָה, הִגְבִּיהַּ אֶת הַטַּבְלָא בַּטַּבַּעַת וְנָטַל אֶת הַמַּפְתְּחוֹת מִן הַשַּׁלְשֶׁלֶת, וְנָעַל הַכֹּהֵן מִבִּפְנִים, וּבֶן לֵוִי יָשֵׁן לוֹ מִבַּחוּץ. גָּמַר מִלִּנְעֹל, הֶחֱזִיר אֶת הַמַּפְתְּחוֹת לַשַּׁלְשֶׁלֶת וְאֶת הַטַּבְלָא לִמְקוֹמָהּ, נָתַן כְּסוּתוֹ עָלֶיהָ, יָשֵׁן לוֹ. אֵרַע קֶרִי בְּאַחַד מֵהֶם, יוֹצֵא וְהוֹלֵךְ לוֹ בַמְּסִבָּה הַהוֹלֶכֶת תַּחַת הַבִּירָה, וְהַנֵּרוֹת דּוֹלְקִים מִכָּאן וּמִכָּאן, עַד שֶׁהוּא מַגִּיעַ לְבֵית הַטְּבִילָה. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, בַּמְּסִבָּה הַהוֹלֶכֶת תַּחַת הַחֵיל יוֹצֵא וְהוֹלֵךְ לוֹ בְּטָדִי:
+> **Translation:** There was a place there [in the fire chamber] one cubit square on which was a slab of marble. In this was fixed a ring and a chain on which the keys were hung. When closing time came, the priest would raise the slab by the ring and take the keys from the chain. Then the priest would lock up within while the Levite was sleeping outside. When he had finished locking up, he would replace the keys on the chain and the slab in its place and put his garment on it and sleep there. If one of them had a seminal emission, he would go out by the winding stair which went under the Birah, and which was lighted with lamps on both sides, until he reached the bathing place. Rabbi Eliezer ben Jacob says: he descended by the winding stair which went under the Hel and he went out by the Taddi gate.
 
 ### Pishpash Scouting
 
@@ -147,11 +141,9 @@ The northwest chamber, the fourth and final, was *bah yordim le-beit ha-tvilah* 
 
 ## Guard & Key Storage
 
-### Dome & Steps
 
-> **Hebrew/Aramaic:** בֵּית הַמּוֹקֵד, כִּפָּה, וּבַיִת גָּדוֹל הָיָה, מֻקָּף רוֹבָדִין שֶׁל אֶבֶן, וְזִקְנֵי בֵית אָב יְשֵׁנִים שָׁם, וּמַפְתְּחוֹת הָעֲזָרָה בְּיָדָם, וּפִרְחֵי כְהֻנָּה, אִישׁ כִּסְתּוֹ בָאָרֶץ:
->
-> **Translation:** The fire chamber was vaulted and it was a large room surrounded with stone projections, and the elders of the clan [serving in the Temple] used to sleep there, with the keys of the Temple courtyard in their hands. The priestly initiates used to place their bedding on the ground.
+
+### Dome & Steps
 
 *Beit HaMoked*, the *mishnah* now elaborates, was *kippah* — it had a dome. And it was a substantial structure: *mukaf revadim shel even*, surrounded by stone steps on the interior. These steps apparently lined the inside of the domed building, either serving as platforms on which the occupants slept, or leading to small carved-out niches in the wall where one could rest.
 
@@ -163,12 +155,9 @@ The northwest chamber, the fourth and final, was *bah yordim le-beit ha-tvilah* 
 
 *U-pirchei kehunah ish kesuto ba-aretz* — the younger *Kohanim*, by contrast, did not sleep on the elevated steps but on the ground, each man with his garment beneath him. This echoes a discussion from *Tamid* about whether the *bigdei kehunah* could be used for personal comfort — whether one could derive benefit from the priestly vestments by sleeping on them.
 
-[DAF:34b]
 ### Key Storage Ritual
 
-> **Hebrew/Aramaic:** וּמָקוֹם הָיָה שָׁם, אַמָּה עַל אַמָּה, וְטַבְלָא שֶׁל שַׁיִשׁ וְטַבַּעַת הָיְתָה קְבוּעָה בָהּ, וְשַׁלְשֶׁלֶת שֶׁהַמַּפְתְּחוֹת הָיוּ תְלוּיוֹת בָּהּ. הִגִּיעַ זְמַן הַנְּעִילָה, הִגְבִּיהַּ אֶת הַטַּבְלָא בַּטַּבַּעַת וְנָטַל אֶת הַמַּפְתְּחוֹת מִן הַשַּׁלְשֶׁלֶת, וְנָעַל הַכֹּהֵן מִבִּפְנִים, וּבֶן לֵוִי יָשֵׁן לוֹ מִבַּחוּץ. גָּמַר מִלִּנְעֹל, הֶחֱזִיר אֶת הַמַּפְתְּחוֹת לַשַּׁלְשֶׁלֶת וְאֶת הַטַּבְלָא לִמְקוֹמָהּ, נָתַן כְּסוּתוֹ עָלֶיהָ, יָשֵׁן לוֹ.
->
-> **Translation:** There was a place there [in the fire chamber] one cubit square on which was a slab of marble. In this was fixed a ring and a chain on which the keys were hung. When closing time came, the priest would raise the slab by the ring and take the keys from the chain. Then the priest would lock up within while the Levite was sleeping outside. When he had finished locking up, he would replace the keys on the chain and the slab in its place and put his garment on it and sleep there.
+
 
 The *mishnah* now provides one of its more distinctive passages regarding the physical storage of the keys. *U-makom hayah sham amah al amah* — there was a spot measuring one *amah* by one *amah*, roughly a foot and a half square. Upon it rested *tavla shel shayish*, a marble cover, *hayeta kevuah bah* — fixed in place on this low platform. *Ve-shalshelet shel maftechot hayu tluyot bah* — a chain holding the keys was suspended from it.
 
@@ -190,11 +179,9 @@ Once the locking was complete: *hechzir et ha-mafteach la-shalshelet ve-et ha-ta
 
 ## Nocturnal Emission
 
-### Nocturnal Event
 
-> **Hebrew/Aramaic:** אֵרַע קֶרִי בְּאַחַד מֵהֶם, יוֹצֵא וְהוֹלֵךְ לוֹ בַמְּסִבָּה הַהוֹלֶכֶת תַּחַת הַבִּירָה, וְהַנֵּרוֹת דּוֹלְקִים מִכָּאן וּמִכָּאן, עַד שֶׁהוּא מַגִּיעַ לְבֵית הַטְּבִילָה. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, בַּמְּסִבָּה הַהוֹלֶכֶת תַּחַת הַחֵיל יוֹצֵא וְהוֹלֵךְ לוֹ בְּטָדִי:
->
-> **Translation:** If one of them had a seminal emission, he would go out by the winding stair which went under the Birah, and which was lighted with lamps on both sides, until he reached the bathing place. Rabbi Eliezer ben Jacob says: he descended by the winding stair which went under the Hel and he went out by the Taddi gate.
+
+### Nocturnal Event
 
 *Ira keri be-echad me-hem* — should one of the *Kohanim* experience a nocturnal emission, he became *tamei* and was no longer permitted to remain within the *Azara*. We had addressed this situation when learning *Tamid*.
 
@@ -210,16 +197,17 @@ This resolves the earlier puzzle about *Sha'ar Tadi*'s purpose: according to *Ra
 
 It is worth noting that *Rabbi Eliezer ben Yaakov* is the *Tanna* cited almost exclusively in *Middot* and *Tamid* not for *halachic* rulings but for descriptive accounts of the *Beit HaMikdash* — which is part of why both the *Bavli* and *Yerushalmi* assume that he was the primary author of tractate *Tamid*.
 
-The divergence between this account and the version learned in *Tamid* is significant: where *Tamid* gave the impression that the *Kohen* would go to the *mikveh* and return to his post by morning, *Rabbi Eliezer ben Yaakov* here describes a scenario in which the *Kohen* was actually required to leave *Har HaBayit* immediately — going to the *mikveh* only once outside the complex — and did not remain inside waiting for dawn.
+The divergence between this account and the version learned in *Tamid* is significant: where *Tamid* gave the impression that the *Kohen* would go to the *mikveh* and return to his post by morning, *Rabbi Eliezer ben Yaakov* here describes a scenario in which the *Kohen* was actually required to leave *Har HaBayit* immediately — going to the *mikveh* only once outside the complex — and did not remain inside waiting for dawn. The message, in other words, was not simply to purify and come back: it was to leave as soon as possible, and to complete the immersion only after departing the complex altogether.
 
 ---
 
 ## Har HaBayit Dimensions
 
+
+
 ### Overall Size
 
-> **Hebrew/Aramaic:** הַר הַבַּיִת הָיָה חֲמֵשׁ מֵאוֹת אַמָּה עַל חֲמֵשׁ מֵאוֹת אַמָּה, רֻבּוֹ מִן הַדָּרוֹם, שֵׁנִי לוֹ מִן הַמִּזְרָח, שְׁלִישִׁי לוֹ מִן הַצָּפוֹן, מִעוּטוֹ מִן הַמַּעֲרָב. מְקוֹם שֶׁהָיָה רֹב מִדָּתוֹ, שָׁם הָיָה רֹב תַּשְׁמִישׁוֹ:
->
+> **Hebrew/Aramaic:** הַר הַבַּיִת הָיָה חֲמֵשׁ מֵאוֹת אַמָּה עַל חֲמֵשׁ מֵאוֹת אַמָּה, רֻבּוֹ מִן הַדָּרוֹם, שֵׁנִי לוֹ מִן הַמִּזְרָח, שְׁלִישִׁי לוֹ מִן הַצָּפוֹן, מִעוּטוֹ מִן הַמַּעֲרָב. מְקוֹם שֶׁהָיָה רֹב מִדָּתוֹ, שָׁם הָיָה רֹב תַּשְׁמִישׁוֹ:
 > **Translation:** The Temple Mount was five hundred cubits by five hundred cubits. The greater part of it was on the south; next to that on the east; next to that on the north; and the smallest part on the west. The part which was most extensive was the part most used.
 
 *Har HaBayit hayah chamesh me'ot amah al chamesh me'ot amah* — the entire *Har HaBayit* measured five hundred by five hundred *amot*, approximately 750 feet on each side — roughly three city blocks square. When a dimension is stated with such mathematical precision for what is ultimately a natural hilltop, one assumes this refers to the retaining walls constructed around it: the builders determined where to erect the perimeter wall and thus created a defined square of that measurement.
@@ -232,15 +220,15 @@ The divergence between this account and the version learned in *Tamid* is signif
 
 The rationale for this distribution follows naturally from the patterns of access. The south received the most space because that is where the city of *Yerushalayim* was built and from where the slope permitted approach — the *Shaarei Chulda* were the primary entry points, and so the broad southern plaza served as the arrival and gathering area. The east received the second largest space because, once assembled in the south, the crowds would move toward the eastern section where the *Azara* was accessed through *Sha'ar Nikanor* and the *Ezrat Nashim*. Here too one might purchase *nesachim*, present one's *korban*, and spend time in the complex. The west, by contrast, was deliberately kept minimal: it lay directly behind the *Kodesh Kodashim*, and it would have been inappropriate for large numbers of people to congregate in the area most proximate to that innermost sacred space. The *Kotel* as we know it today stands along precisely this western retaining wall — the wall built closest to where the *Kodesh Kodashim* stood.
 
+One might still ask whether this purely functional account is complete — whether, in other words, the space allocations reflect only foot traffic patterns or whether there were actual structures in certain areas that drove higher usage. It is possible that the southern and eastern precincts contained stalls where *nesachim* were sold, or where the *chotam*, the token one would exchange for libations, was obtained, and that these commercial or administrative functions drew people there in numbers beyond what simple movement toward the *Azara* alone would require. The question of where precisely the moneychangers and vendors operated — whether on *Har HaBayit* itself or outside it — is left genuinely open by the sources, and it is not impossible that some portion of that activity took place in the broader southern or eastern space of the mount.
+
 ---
 
 ## Entry/Exit Flow
 
-### Right Enter Left Exit
 
-> **Hebrew/Aramaic:** כָּל הַנִּכְנָסִין לְהַר הַבַּיִת נִכְנָסִין דֶּרֶךְ יָמִין וּמַקִּיפִין וְיוֹצְאִין דֶּרֶךְ שְׂמֹאל, חוּץ מִמִּי שֶׁאֵרְעוֹ דָבָר, שֶׁהוּא מַקִּיף לִשְׂמֹאל. מַה לְּךָ מַקִּיף לִשְׂמֹאל, שֶׁאֲנִי אָבֵל, הַשּׁוֹכֵן בַּבַּיִת הַזֶּה יְנַחֲמֶךָּ. שֶׁאֲנִי מְנֻדֶּה, הַשּׁוֹכֵן בַּבַּיִת הַזֶּה יִתֵּן בְּלִבָּם וִיקָרְבוּךָ, דִּבְרֵי רַבִּי מֵאִיר. אָמַר לוֹ רַבִּי יוֹסֵי, עֲשִׂיתָן כְּאִלּוּ עָבְרוּ עָלָיו אֶת הַדִּין. אֶלָּא, הַשּׁוֹכֵן בַּבַּיִת הַזֶּה יִתֵּן בְּלִבְּךָ וְתִשְׁמַע לְדִבְרֵי חֲבֵרֶיךָ וִיקָרְבוּךָ:
->
-> **Translation:** All who entered the Temple Mount entered by the right and went round [to the right] and went out by the left, save for one to whom something had happened, who entered and went round to the left. [He was asked]: "Why do you go round to the left?" [If he answered] "Because I am a mourner," [they said to him], "May He who dwells in this house comfort you." [If he answered] "Because I am excommunicated" [they said]: "May He who dwells in this house inspire them to draw you near again," the words of Rabbi Meir. Rabbi Yose to him: you make it seem as if they treated him unjustly. Rather [they should say]: "May He who dwells in this house inspire you to listen to the words of your colleagues so that they may draw you near again."
+
+### Right Enter Left Exit
 
 *Kol ha-nichnasim le-Har HaBayit nichnasim derech yamin* — all who entered *Har HaBayit* turned to the right upon entry. *U-makifin ve-yotzin derech smol* — and they would circle around and exit to the left. The movement was consistently counterclockwise: enter on the right, proceed around the complex, and exit via the opposite direction.
 
@@ -258,17 +246,17 @@ The purpose, in other words, was communicative and social: by moving against the
 
 Upon learning that the person was an *avel*, the response given was: *ha-shochen ba-bayit ha-ze yenachamecha* — may the One who dwells in this house console you.
 
-The case of the *menudeh* — the excommunicated individual — generated a *machloket* between *Rabbi Meir* and *Rabbi Yose*. *Rabbi Meir*'s formula was: *ha-shochen ba-bayit ha-ze yiten be-libam ve-yekarvucha* — may the One who dwells in this house place it in their hearts and bring you close again. *Rabbi Yose* objected: *asitem ke-ilu avru alav et ha-din* — by saying "may God place it in their hearts," you are implying that they were in the wrong for excommunicating him, essentially suggesting that their judgment was unjust. Rather, *Rabbi Yose* said, one should say: *yiten be-libcha ve-tishma le-divrei chaverecha ve-az ve-yekarvucha* — may God place it in your heart to heed the words of your fellows, and then they will draw you close. The consolation formula here points inward to the *menudeh* himself — you should change, and then reconciliation will follow.
+The case of the *menudeh* — the excommunicated individual — generated a *machloket* between *Rabbi Meir* and *Rabbi Yose*. *Rabbi Meir*'s formula was: *ha-shochen ba-bayit ha-ze yiten be-libam ve-yekarvucha* — may the One who dwells in this house place it in their hearts and bring you close again. *Rabbi Yose* objected: *asitem ke-ilu avru alav et ha-din* — by saying "may God place it in their hearts," you are implying that they were in the wrong for excommunicating him, essentially suggesting that their judgment was unjust. Rather, *Rabbi Yose* said, one should say: *yiten be-libecha ve-tishma le-divrei chaverecha ve-az ve-yekarvucha* — may God place it in your heart to heed the words of your fellows, and then they will draw you close. The consolation formula here points inward to the *menudeh* himself — you should change, and then reconciliation will follow.
+
+It is worth noting that this dispute between *Rabbi Meir* and *Rabbi Yose* reinforces the reading of the *mishnah* offered in the previous section. *Rabbi Meir*'s formula for the *menudeh* — praying that others will soften and accept him back — only makes sense if the *menudeh* has been in that state for some time and is now going up to *Har HaBayit* and deliberately walking in the reverse direction so that people will ask and offer this response. It would be strange to imagine that the *cherem* was imposed at that very moment and the person had to rush out; *Rabbi Meir* and *Rabbi Yose* are debating a formula that presupposes an ongoing situation, one in which the *menudeh* himself is making a point of signaling his condition in order to elicit exactly this kind of communal engagement.
 
 ---
 
 ## Soreg Fence
 
-### Soreg Description
 
-> **Hebrew/Aramaic:** לִפְנִים מִמֶּנּוּ, סוֹרֵג, גָּבוֹהַּ עֲשָׂרָה טְפָחִים. וּשְׁלשׁ עֶשְׂרֵה פְרָצוֹת הָיוּ שָׁם, שֶׁפְּרָצוּם מַלְכֵי יָוָן. חָזְרוּ וּגְדָרוּם, וְגָזְרוּ כְנֶגְדָּם שְׁלשׁ עֶשְׂרֵה הִשְׁתַּחֲוָיוֹת.
->
-> **Translation:** Within it was the Soreg, ten handbreadths high. There were thirteen breaches in it, which had been originally made by the kings of Greece, and when they repaired them they enacted that thirteen prostrations should be made facing them.
+
+### Soreg Description
 
 *Lifnim mimenu ha-soreg* — further inward from the general *Har HaBayit* space was the *soreg*, a woven lattice fence. It was *gavo'ah yud tefachim* — ten *tefachim* high — and it created the boundary beyond which non-Jews were forbidden. It defined the outer edge of the *chel*, the buffer zone of ten *amot* width that separated the *soreg* from the *Azara* wall itself.
 
@@ -284,11 +272,9 @@ The case of the *menudeh* — the excommunicated individual — generated a *mac
 
 ## Chel & Steps
 
-### Chel Dimensions
 
-> **Hebrew/Aramaic:** לִפְנִים מִמֶּנּוּ, הַחֵיל, עֶשֶׂר אַמּוֹת. וּשְׁתֵּים עֶשְׂרֵה מַעֲלוֹת הָיוּ שָׁם. רוּם הַמַּעֲלָה חֲצִי אַמָּה, וְשִׁלְחָהּ חֲצִי אַמָּה. כָּל הַמַּעֲלוֹת שֶׁהָיוּ שָׁם, רוּם מַעֲלָה חֲצִי אַמָּה, וְשִׁלְחָהּ חֲצִי אַמָּה, חוּץ מִשֶּׁל אוּלָם.
->
-> **Translation:** Within this was the Hel, which was ten cubits [broad]. There were twelve steps there. The height of each step was half a cubit and its tread was half a cubit. All the steps in the Temple were half a cubit high with a tread of half a cubit, except those of the Porch.
+
+### Chel Dimensions
 
 *Ha-chel eser amot* — the *chel* was ten *amot* wide. Beyond it, ascending toward the *Azara*, were *shteim esrei maalot* — twelve steps. Each step was *chatzi amah* high and *chatzi amah* deep — half an *amah* of rise and half an *amah* of tread — roughly nine inches in each direction. Twelve steps of half an *amah* each account for six *amot* of total height — more than half the ten-*amah* width of the *chel* was thus consumed by the staircase, with the remaining four *amot* being level ground before the steps began.
 
@@ -297,10 +283,6 @@ This arrangement meant that even after entering through the *Har HaBayit* perime
 The mishnah generalizes: all steps throughout the complex were built to these same half-*amah* proportions — *chutz mi-shel ulam*, except for the steps leading into the *Ulam*, which were built differently, as will be discussed in a subsequent mishnah.
 
 ### Gates & Openings
-
-> **Hebrew/Aramaic:** כָּל הַפְּתָחִים וְהַשְּׁעָרִים שֶׁהָיוּ שָׁם, גָּבְהָן עֶשְׂרִים אַמָּה, וְרָחְבָּן עֶשֶׂר אַמּוֹת, חוּץ מִשֶּׁל אוּלָם. כָּל הַפְּתָחִים שֶׁהָיוּ שָׁם, הָיוּ לָהֶן דְּלָתוֹת, חוּץ מִשֶּׁל אוּלָם. כָּל הַשְּׁעָרִים שֶׁהָיוּ שָׁם, הָיוּ לָהֶן שְׁקוֹפוֹת, חוּץ מִשַּׁעַר טָדִי, שֶׁהָיוּ שָׁם שְׁתֵּי אֲבָנִים מֻטּוֹת זוֹ עַל גַּב זוֹ. כָּל הַשְּׁעָרִים שֶׁהָיוּ שָׁם, נִשְׁתַּנּוּ לִהְיוֹת שֶׁל זָהָב, חוּץ מִשַּׁעַר נִקָּנוֹר, מִפְּנֵי שֶׁנַּעֲשָׂה בָהֶן נֵס. וְיֵשׁ אוֹמְרִים, מִפְּנֵי שֶׁנְּחֻשְׁתָּן מַצְהִיב:
->
-> **Translation:** All the doorways in the Temple were twenty cubits high and ten cubits broad except those of the Porch. All the doorways there had doors in them except those of the Porch. All the gates there had lintels except that of Taddi which had two stones inclined to one another. All the original gates were changed for gates of gold except the gates of Nicanor, because a miracle happened with them. Some say: because their copper gleamed like gold.
 
 All gates and openings throughout the complex were *gevohim esrim amah ve-rochban eser amot* — twenty *amot* high and ten *amot* wide, approximately thirty feet in height and fifteen feet across. These are imposing dimensions that match the towering impression conveyed in every reconstruction of the *Mikdash*. All openings had doors — *hayu lahem delatot* — with the sole exception of the *Ulam*, which was closed not by doors but by a curtain. This is the curtain through which the *Kohen Gadol* would emerge after the *ketoret* service and before which the assembled *Kohanim* would prostrate themselves.
 

@@ -1,0 +1,514 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Categories Listed",
+    "candidates": [
+      "Opening Remarks",
+      "Rashi's Framework",
+      "Categories Listed",
+      "R. Yehuda's Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna listing the disqualified individuals and Rabbi Shimon's statement about the shift from 'gatherers' to 'merchants' of shevi'it produce \u2014 are explicitly described in the 'Categories Listed' prose, which covers exactly these two elements of the Mishna.",
+      "chosen_heading": "Categories Listed",
+      "current_heading": "Categories Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "R. Yehuda's Condition",
+    "candidates": [
+      "R. Yehuda's Condition",
+      "Rami: Asmakhta Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's qualification about when disqualification applies (sole occupation vs. having another trade), which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "R. Yehuda's Condition",
+      "current_heading": "R. Yehuda's Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rami: Asmakhta Theory",
+    "candidates": [
+      "Rami: Asmakhta Theory",
+      "Rav Sheshet: Yishuvo",
+      "Practical Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's asmakhta theory, which is precisely what the prose under heading 0 discusses and explains in detail.",
+      "chosen_heading": "Rami: Asmakhta Theory",
+      "current_heading": "Rami: Asmakhta Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Practical Difference",
+    "candidates": [
+      "Rav Sheshet: Yishuvo",
+      "Practical Difference",
+      "Mishna Challenge",
+      "Amatai = Clarification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Sheshet: Yishuvo",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Sheshet's position and the practical difference between Rami bar \u1e24ama and Rav Sheshet, matching headings 0 ('Rav Sheshet: Yishuvo') and 1 ('Practical Difference') \u2014 but since item 1 is Rav Sheshet's core statement and item 2 is the mai beinaihu, they form the content of heading 0 and 1 respectively; however the split is cleanest at item 1 (Rav Sheshet's ruling) under heading 0, and items 2-3 under heading 1.",
+      "second_heading": "Practical Difference",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 cover the practical difference and the Mishna challenge to Rami bar \u1e24ama, which matches heading 1 ('Practical Difference') and heading 2 ('Mishna Challenge'), but since they are a continuous chain (mai beinaihu followed by proof from the Mishna), placing items 2-3 under heading 1 best preserves the flow, with the Mishna challenge spilling into heading 2.",
+      "current_heading": "Practical Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Amatai = Clarification",
+    "candidates": [
+      "Mishna Challenge",
+      "Amatai = Clarification",
+      "Tarfon's Nezirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Talmudic discussion about whether Rabbi Yehuda's use of 'eimatai' signals clarification or disagreement, which is precisely what candidate 1 ('Amatai = Clarification') describes in its prose, including the Rabbi Yehoshua ben Levi principle, Rabbi Yochanan's refinement, and the mar savar/lo pligei resolution.",
+      "chosen_heading": "Amatai = Clarification",
+      "current_heading": "Amatai = Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Tarfon's Nezirot",
+    "candidates": [
+      "Tarfon's Nezirot",
+      "Beraita Support",
+      "Rava on Borrower"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beraita Support",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a Gemara challenge about a baraita disqualifying dice players regardless of other occupation, which fits 'Beraita Support' discussing the baraita that supports Rami bar Chama's position on kubiya disqualification.",
+      "second_heading": "Tarfon's Nezirot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's answer attributing that baraita to Rabbi Yehuda in the name of Rabbi Tarfon and explaining his principle about naziriteship requiring explicit declaration, which matches 'Tarfon's Nezirot' prose describing exactly this baraita and Rabbi Tarfon's ruling about nezirut requiring le-hafla.",
+      "current_heading": "Tarfon's Nezirot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rava on Borrower",
+    "candidates": [
+      "Beraita Support",
+      "Rava on Borrower",
+      "Bar Binyatus Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's ruling that a borrower on interest is also disqualified, matching exactly the content described in the 'Rava on Borrower' prose section.",
+      "chosen_heading": "Rava on Borrower",
+      "current_heading": "Rava on Borrower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Bar Binyatus Case",
+    "candidates": [
+      "Bar Binyatus Case",
+      "Self-Disqualification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the case of bar Binittos and Rava's disqualification ruling, which is exactly what the 'Bar Binyatus Case' prose describes, before the analytical discussion in 'Self-Disqualification.'",
+      "chosen_heading": "Bar Binyatus Case",
+      "current_heading": "Bar Binyatus Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Self-Disqualification",
+    "candidates": [
+      "Self-Disqualification",
+      "Shochet Caught"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of self-disqualification through Rava's ruling on borrowing with interest and his principle that a person cannot render himself a rasha, which is precisely what the 'Self-Disqualification' prose describes.",
+      "chosen_heading": "Self-Disqualification",
+      "current_heading": "Self-Disqualification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Shochet Caught",
+    "candidates": [
+      "Shochet Caught",
+      "True Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the initial incident of the shochet selling tereifot, his disqualification, and his outward signs of remorse \u2014 precisely what the 'Shochet Caught' section's prose describes, before the question of genuine repentance addressed in 'True Repentance'.",
+      "chosen_heading": "Shochet Caught",
+      "current_heading": "Shochet Caught",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "True Repentance",
+    "candidates": [
+      "True Repentance",
+      "Two Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the prose under 'True Repentance': item 1 is Rava's concern about artifice (dilma iyarumei ka-mairim) and item 2 is Rav Idi bar Avin's remedy, both of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "True Repentance",
+      "current_heading": "True Repentance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Two Interpretations",
+    "candidates": [
+      "Two Interpretations",
+      "Arah Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two interpretations of *mafrichei yonim* (the racing explanation and the *ara* explanation) along with the opening question about the *ara* interpretation, which matches exactly the prose of heading 0 ('Two Interpretations') that describes both explanations emerging from the Gemara's question.",
+      "chosen_heading": "Two Interpretations",
+      "current_heading": "Two Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Arah Interpretation",
+    "candidates": [
+      "Arah Interpretation",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that an *ara* is only prohibited due to *darchei shalom* (a rabbinic prohibition), which is precisely the argument discussed in the 'Reconciliation' section about why the Mishna would not have included *ara* on its own as a disqualifying category.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Arah Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Arah Interpretation",
+      "Reconciliation",
+      "Dependency Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the symmetric reconciliation argument \u2014 asking why the *ara* proponent doesn't subsume pigeon racing under kubiya gambling, and how the opposing Sage responds \u2014 which is precisely what the 'Reconciliation' prose describes.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Dependency Analysis",
+    "candidates": [
+      "Dependency Analysis",
+      "Animal Fighting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous tzricha analysis explaining why both the dice-gambler (toleh be-da'at atzmo) and the pigeon-racer (toleh be-da'at yonah) cases must be taught, which matches precisely the 'Dependency Analysis' section's prose about these two cases and the tzricha conclusion.",
+      "chosen_heading": "Dependency Analysis",
+      "current_heading": "Dependency Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Animal Fighting",
+    "candidates": [
+      "Animal Fighting",
+      "Rashi's Caveat",
+      "Shviit Traders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the baraita content (dice-playing, interest-lending, pigeon-fighting with repentance clauses) that candidate 0's prose explicitly describes in detail, matching the current placement perfectly.",
+      "chosen_heading": "Animal Fighting",
+      "current_heading": "Animal Fighting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Shviit Traders",
+    "candidates": [
+      "Rashi's Caveat",
+      "Shviit Traders",
+      "Monetary Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines sochrei shevi'it and describes their repentance condition (waiting for another shevi'it year), which exactly matches the prose of candidate 1 about shvi'it traders.",
+      "chosen_heading": "Shviit Traders",
+      "current_heading": "Shviit Traders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Monetary Repentance",
+    "candidates": [
+      "Monetary Repentance",
+      "Thieves & Chasmans"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Monetary Repentance",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Ne\u1e25emya's teaching on monetary repentance (*chazarat mamon*) for Sabbatical Year traders, which matches perfectly the 'Monetary Repentance' prose about declaring funds given to the poor.",
+      "second_heading": "Thieves & Chasmans",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 discuss the pigeon-flyer disqualification and whether a domesticated/wild animal can be used in the same luring scheme, which is a structurally independent topic belonging under 'Thieves & Chasmans' (the broader disqualification list section) rather than monetary repentance.",
+      "current_heading": "Monetary Repentance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Thieves & Chasmans",
+    "candidates": [
+      "Thieves & Chasmans",
+      "Stealing from Cheresh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita introducing the addition of gazlanim and chamsanim to the disqualified list is precisely what heading 0 ('Thieves & Chasmans') discusses as its primary topic.",
+      "chosen_heading": "Thieves & Chasmans",
+      "current_heading": "Thieves & Chasmans",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Stealing from Cheresh",
+    "candidates": [
+      "Stealing from Cheresh",
+      "Shepherds Added"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the disqualification of one who steals from a cheresh/shoteh/katan and the chamsan, which is precisely what the 'Stealing from Cheresh' section's prose covers in detail.",
+      "chosen_heading": "Stealing from Cheresh",
+      "current_heading": "Stealing from Cheresh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Shepherds Added",
+    "candidates": [
+      "Shepherds Added",
+      "Tax Collectors",
+      "Rava's Claim",
+      "Contradiction Found"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and explain the baraita about shepherds, tax collectors, and customs officials being added to the disqualified list \u2014 exactly what the 'Shepherds Added' prose describes, including the initial assumption of accidental grazing and the deliberate leading of animals that triggered rabbinic disqualification.",
+      "chosen_heading": "Shepherds Added",
+      "current_heading": "Shepherds Added",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Contradiction Found",
+    "candidates": [
+      "Tax Collectors",
+      "Rava's Claim",
+      "Contradiction Found",
+      "Resolution via Context",
+      "Rashi's Reason",
+      "Mishna Support"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Claim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's blanket ruling equating small and large livestock shepherds, which matches candidate 1 ('Rava's Claim') exactly.",
+      "second_heading": "Contradiction Found",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the contradiction between Rava's rulings and resolves it via context (megadalim), matching candidate 2 ('Contradiction Found') and its resolution, which is exactly the current placement and candidate 3 combined \u2014 but since item 2 contains both the contradiction and its resolution in one continuous exchange, it belongs under candidate 2 where it currently sits.",
+      "current_heading": "Contradiction Found",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Mishna Support",
+    "candidates": [
+      "Resolution via Context",
+      "Rashi's Reason",
+      "Mishna Support",
+      "Three Herders Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's proof from the mishna's phrase 'three cattle herders are trusted for me' and asks whether this refers to testimony \u2014 exactly what the 'Mishna Support' section's prose describes.",
+      "chosen_heading": "Mishna Support",
+      "current_heading": "Mishna Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Three Herders Rule",
+    "candidates": [
+      "Three Herders Rule",
+      "Default Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara exchange about why the Mishna specifies three cattle herders \u2014 for dayanim not edut \u2014 and conclude that even those who don't frequent settled areas may be accepted, which matches precisely the 'Three Herders Rule' prose discussion.",
+      "chosen_heading": "Three Herders Rule",
+      "current_heading": "Three Herders Rule",
+      "moved": false
+    }
+  }
+]

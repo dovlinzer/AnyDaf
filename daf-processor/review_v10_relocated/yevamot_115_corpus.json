@@ -1,0 +1,547 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Famine vs. War",
+    "candidates": [
+      "Peace vs. War",
+      "Famine vs. War",
+      "Related Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that famine is worse than war, which is precisely what the 'Famine vs. War' section's prose describes and analyzes.",
+      "chosen_heading": "Famine vs. War",
+      "current_heading": "Famine vs. War",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Related Scenarios",
+    "candidates": [
+      "Related Scenarios",
+      "Pestilence Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses rockslide (mapolet) and outbreak of snakes and scorpions (shiluach nechanishim ve'akravim) as analogous to war, which matches exactly the 'Related Scenarios' prose description of these same two cases.",
+      "chosen_heading": "Related Scenarios",
+      "current_heading": "Related Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Pestilence Debate",
+    "candidates": [
+      "Pestilence Debate",
+      "War as Migo",
+      "Migo Limitations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the pestilence debate (dever), the two opinions about whether it is like war, and the folk saying about seven years of pestilence, which precisely matches the 'Pestilence Debate' prose.",
+      "chosen_heading": "Pestilence Debate",
+      "current_heading": "Pestilence Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Migo Limitations",
+    "candidates": [
+      "War as Migo",
+      "Migo Limitations",
+      "Migo Analysis",
+      "Smoke Testimony",
+      "Miracle Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the exact dilemma of whether a woman who herself reports the existence of a war benefits from 'migo' (why would she lie if she could have said 'peace in the world'), which is precisely what heading 0 'War as Migo' describes, not the resolution/analysis discussed under heading 1 'Migo Limitations'.",
+      "chosen_heading": "War as Migo",
+      "current_heading": "Migo Limitations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Miracle Argument",
+    "candidates": [
+      "Migo Analysis",
+      "Smoke Testimony",
+      "Miracle Argument",
+      "Bandits Attack"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about smoke testimony AND the Gemara's response (the miracle argument), and the prose under 'Smoke Testimony' explicitly discusses both elements together \u2014 the baraita case and the Gemara's note that reporting circumstances herself doesn't strengthen credibility \u2014 making it the natural home for this combined text, while 'Miracle Argument' prose discusses only the second half of the passage.",
+      "chosen_heading": "Smoke Testimony",
+      "current_heading": "Miracle Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Bandits Attack",
+    "candidates": [
+      "Miracle Argument",
+      "Bandits Attack",
+      "Woman's Weapons",
+      "Why Believed",
+      "Fire Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about gentiles/bandits attacking and the woman being believed, which is precisely what candidate 1 ('Bandits Attack') describes in its prose.",
+      "chosen_heading": "Bandits Attack",
+      "current_heading": "Bandits Attack",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Fire Story",
+    "candidates": [
+      "Woman's Weapons",
+      "Why Believed",
+      "Fire Story",
+      "Smoke Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the fire incident at the wedding canopy with the wife calling out and people finding a charred body, which is precisely what the 'Fire Story' prose section describes.",
+      "chosen_heading": "Fire Story",
+      "current_heading": "Fire Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Smoke Comparison",
+    "candidates": [
+      "Smoke Comparison",
+      "Rava's Distinction",
+      "Alternative Theories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav \u1e24iyya bar Avin's smoke comparison AND Rava's rejection of it, so it spans both headings 0 and 1; since the current placement (0) already opens with the smoke comparison that initiates the passage, and heading 1's prose describes the same content in more detail, the passage could fit either, but the current placement is acceptable given the content begins with the smoke analogy that heading 0 directly addresses.",
+      "chosen_heading": "Smoke Comparison",
+      "current_heading": "Smoke Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Alternative Theories",
+    "candidates": [
+      "Rava's Distinction",
+      "Alternative Theories",
+      "Ed Echad Question",
+      "Why Believe Him",
+      "Why Not Believe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Chiyya bar Avin's alternative explanations for the physical evidence (the charred body and the severed hand), which is precisely what the 'Alternative Theories' section's prose describes and analyzes.",
+      "chosen_heading": "Alternative Theories",
+      "current_heading": "Alternative Theories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Why Not Believe",
+    "candidates": [
+      "Ed Echad Question",
+      "Why Believe Him",
+      "Why Not Believe",
+      "Nehardea Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the dilemma in one unified text \u2014 the argument for believing the single witness (avida le'igloyei, lo meshaker) and the argument against (hi gufa daika uminisba) \u2014 and candidate 1 ('Why Believe Him') introduces this dilemma question while candidate 2 covers only the counter-argument; since the Talmudic passage is a single unit presenting both sides together, it belongs under the heading that introduces the full dilemma, which is candidate 1.",
+      "chosen_heading": "Why Believe Him",
+      "current_heading": "Why Not Believe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Nehardea Story",
+    "candidates": [
+      "Why Not Believe",
+      "Nehardea Story",
+      "Troops Context",
+      "Rava Reinterprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Nehardea story's punchline \u2014 the mention of troops and the Gemara's initial analysis that 'apparently one witness is deemed credible' in a war situation \u2014 which is precisely what candidate 2 ('Troops Context') describes in its prose, whereas candidate 1 covers only the narrative setup of the story itself.",
+      "chosen_heading": "Troops Context",
+      "current_heading": "Nehardea Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rava Reinterprets",
+    "candidates": [
+      "Troops Context",
+      "Rava Reinterprets",
+      "Drowned Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's reinterpretation of Nechemia's statement, arguing that the mention of 'this country' being riddled with troops explains only why Nechemia couldn't travel in person, not that one witness is accepted in wartime \u2014 which is precisely what the 'Rava Reinterprets' section's prose describes.",
+      "chosen_heading": "Rava Reinterprets",
+      "current_heading": "Rava Reinterprets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Drowned Case",
+    "candidates": [
+      "Drowned Case",
+      "Water = War",
+      "Water Problem",
+      "Simanim Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage recounts the incident of the two Torah scholars who drowned with Abba Yosei ben Simai and Rabbi permitting their wives to remarry based on women's testimony, which is precisely what the 'Drowned Case' prose describes.",
+      "chosen_heading": "Drowned Case",
+      "current_heading": "Drowned Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Simanim Required",
+    "candidates": [
+      "Water = War",
+      "Water Problem",
+      "Simanim Required",
+      "Seeds Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the Gemara's challenge (endless water makes the testimony insufficient) and its resolution (bodies were retrieved and identified by simanim), which together constitute the 'Water Problem' discussion \u2014 the prose under heading 1 explicitly covers both the endless-water objection and the simanim resolution, making it the best match even though the current placement (heading 2) covers only the resolution half.",
+      "chosen_heading": "Water Problem",
+      "current_heading": "Simanim Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Seeds Dispute",
+    "candidates": [
+      "Simanim Required",
+      "Seeds Dispute",
+      "Chisda's Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the sesame seeds deposit dispute \u2014 the man asking for his sesame plants back, the friend claiming he already took them, and pointing to the barrel \u2014 which matches exactly the 'Seeds Dispute' prose description of this specific case.",
+      "chosen_heading": "Seeds Dispute",
+      "current_heading": "Seeds Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Chisda's Analogy",
+    "candidates": [
+      "Chisda's Analogy",
+      "Rava Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24isda's analogy to the two drowned Torah scholars, which is exactly what the 'Chisda's Analogy' section discusses.",
+      "chosen_heading": "Chisda's Analogy",
+      "current_heading": "Chisda's Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rava Rejects",
+    "candidates": [
+      "Rava Rejects",
+      "Weight Not Enough",
+      "Vessel Labels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct rejection of the analogy \u2014 stating that sesame plants have no distinguishing marks and that matching quantity could be coincidence \u2014 which is precisely what the 'Rava Rejects' prose describes.",
+      "chosen_heading": "Rava Rejects",
+      "current_heading": "Rava Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Vessel Labels",
+    "candidates": [
+      "Weight Not Enough",
+      "Vessel Labels",
+      "Label Principle",
+      "Yosei Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the 'Vessel Labels' section, which accurately describes Mar Kashisha bar Rav Chisda's question to Rav Ashi and the mishnah about labeled vessels containing korban, maaser, dimua, tevel, and terumah \u2014 exactly matching the prose of candidate 1.",
+      "chosen_heading": "Vessel Labels",
+      "current_heading": "Vessel Labels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Yosei Exception",
+    "candidates": [
+      "Label Principle",
+      "Yosei Exception",
+      "Label Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's challenge to Rav Ashi citing Rabbi Yosei's ruling that a barrel labeled terumah may contain chullin because it could have been emptied and reused \u2014 exactly what the 'Yosei Exception' prose describes.",
+      "chosen_heading": "Yosei Exception",
+      "current_heading": "Yosei Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Label Dispute",
+    "candidates": [
+      "Label Dispute",
+      "Seeds Application",
+      "Death Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute about labeled vessels \u2014 whether one would erase a label if the contents changed, the 'ishtaluyei ishtali' (forgot) explanation, and the 'pana\u1e25ya' (deterrent) explanation \u2014 which is precisely what the 'Label Dispute' prose describes.",
+      "chosen_heading": "Label Dispute",
+      "current_heading": "Label Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Death Report",
+    "candidates": [
+      "Seeds Application",
+      "Death Report",
+      "Name Worry",
+      "Abaye's View",
+      "Rava's View",
+      "Get Found"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the question about two Yitzchaks plus Abaye and Rava's positions, and candidate 2 ('Name Worry') is the section that poses exactly this question \u2014 the subsequent candidates 3 and 4 cover only the individual views, while candidate 2's prose frames the full debate including both opinions.",
+      "chosen_heading": "Name Worry",
+      "current_heading": "Death Report",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Get Found",
+    "candidates": [
+      "Name Worry",
+      "Abaye's View",
+      "Rava's View",
+      "Get Found",
+      "Investigation Need",
+      "Investigation Order",
+      "Rava's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's proof for his position (chayishinan) from the Neharde'a get story, which belongs under 'Abaye's View' where the prose states Abaye holds we are concerned and must verify no other person fits the same description.",
+      "chosen_heading": "Abaye's View",
+      "current_heading": "Get Found",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rava's Critique",
+    "candidates": [
+      "Investigation Need",
+      "Investigation Order",
+      "Rava's Critique",
+      "IOU Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's argument that the investigation order was not a true halakhic ruling but a gesture of respect to Shmuel's father, which is precisely what the 'Rava's Critique' section discusses.",
+      "chosen_heading": "Rava's Critique",
+      "current_heading": "Rava's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "IOU Story",
+    "candidates": [
+      "IOU Story",
+      "Collection Allowed",
+      "Context Works",
+      "Three Protections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's proof from the two IOUs in Me\u1e25oza with mirror-image names (\u1e24avai bar Nanai / Nanai bar \u1e24avai) and ends with the question about Abaye, which matches the 'IOU Story' section's prose about the discovery and description of these documents and their common names.",
+      "chosen_heading": "IOU Story",
+      "current_heading": "IOU Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Three Protections",
+    "candidates": [
+      "Collection Allowed",
+      "Context Works",
+      "Three Protections",
+      "Creditor Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's two concerns (nefilla/falling and pikadon/deposit) with the exact phrases discussed in the 'Three Protections' prose, which explicitly quotes and explains these same Aramaic terms and arguments.",
+      "chosen_heading": "Three Protections",
+      "current_heading": "Three Protections",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Creditor Logic",
+    "candidates": [
+      "Creditor Logic",
+      "Spectrum",
+      "Connecting Dots",
+      "Investigation Missing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the legal mechanism of transferring a promissory note through 'passing' (mesira), which directly supports the third of Abaye's arguments addressed in the 'Creditor Logic' section \u2014 specifically the point that if the note was intentionally transferred, the transfer was legally complete.",
+      "chosen_heading": "Creditor Logic",
+      "current_heading": "Creditor Logic",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Three Scenarios",
+    "candidates": [
+      "Three Scenarios",
+      "Rav Ammi vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Ben Azzai's three scenarios and the Gemara's immediate objection/emendation regarding the third case, which is precisely what the 'Three Scenarios' prose describes in detail.",
+      "chosen_heading": "Three Scenarios",
+      "current_heading": "Three Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav Ammi vs. Shmuel",
+    "candidates": [
+      "Rav Ammi vs. Shmuel",
+      "Tanaic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Rav Ammi/Shmuel dispute (patur vs. lechayev) which is exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Rav Ammi vs. Shmuel",
+      "current_heading": "Rav Ammi vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tanaic Debate",
+    "candidates": [
+      "Tanaic Debate",
+      "Indirect Causation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the tannaitic baraita dispute between the anonymous first opinion (exempt) and Rabbi Elazar berabbi Shimon (liable), which is exactly what the 'Tanaic Debate' prose section describes.",
+      "chosen_heading": "Tanaic Debate",
+      "current_heading": "Tanaic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Indirect Causation",
+    "candidates": [
+      "Indirect Causation",
+      "Rav Sheshet",
+      "Baraita Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly articulates the machloket between the tannaim over 'davar hagerum lemamon kemamon dami' vs. 'lav kemamon dami,' which is precisely what the 'Indirect Causation' section's prose describes and analyzes.",
+      "chosen_heading": "Indirect Causation",
+      "current_heading": "Indirect Causation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Baraita Consequences",
+    "candidates": [
+      "Rav Sheshet",
+      "Baraita Consequences",
+      "Mishna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the continuous Gemara discussion of the baraita cited to test Rav Sheshet's ruling \u2014 the challenge, the rejection, and the final resolution (kan shehoda/kan sheba'u edim) \u2014 which is precisely what the 'Baraita Consequences' prose describes in detail.",
+      "chosen_heading": "Baraita Consequences",
+      "current_heading": "Baraita Consequences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Mishna Challenge",
+    "candidates": [
+      "Mishna Challenge",
+      "Possession Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rami bar \u1e24ama's objection from the mishna in Shevuot \u2014 that disqualification is tied to a false oath rather than mere denial \u2014 which is precisely what candidate 0 ('Mishna Challenge') describes in its prose.",
+      "chosen_heading": "Mishna Challenge",
+      "current_heading": "Mishna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Possession Requirement",
+    "candidates": [
+      "Possession Requirement",
+      "Intent Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the 'standing in a swamp' qualification (dekai be-agma) and the Rav Idi bar Avin distinction between denying a loan vs. a deposit \u2014 exactly the content described in the 'Possession Requirement' prose.",
+      "chosen_heading": "Possession Requirement",
+      "current_heading": "Possession Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Intent Distinction",
+    "candidates": [
+      "Intent Distinction",
+      "Shvua Konah",
+      "Rav Huna's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's citation of Rav regarding the case of maneh li be-yadcha, the oath, the arrival of witnesses, and the patur ruling with the pasuk \u2014 exactly what Candidate 2's prose describes as 'Rav Huna's Claim.'",
+      "chosen_heading": "Rav Huna's Claim",
+      "current_heading": "Intent Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Huna's Claim",
+    "candidates": [
+      "Shvua Konah",
+      "Rav Huna's Claim",
+      "Rava's Limitation",
+      "Rava on Pikadon",
+      "Avad Case",
+      "Beit Din Distinction",
+      "Nignav Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna's Claim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's ruling in Rav's name that a false oath extinguishes monetary liability, which is precisely what candidate 1 ('Rav Huna's Claim') describes in its prose.",
+      "second_heading": "Rava's Limitation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's attempt to limit Rav's ruling to loans versus deposits and then his retraction, which matches exactly what candidate 2 ('Rava's Limitation') and candidate 3 ('Rava on Pikadon') describe \u2014 and since item 2 contains both Rava's limitation and his reversal, candidate 2 is the better single home as it covers both moves.",
+      "current_heading": "Rav Huna's Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Nignav Case",
+    "candidates": [
+      "Rava's Limitation",
+      "Rava on Pikadon",
+      "Avad Case",
+      "Beit Din Distinction",
+      "Nignav Case",
+      "Kefel Problem",
+      "Split Solution",
+      "Kofas/Kafatz",
+      "Five Oaths",
+      "R. Shimon View",
+      "Hamnuna Challenge",
+      "Exclude Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "medium",
+      "reason": "The entire passage \u2014 from the avad/nignav challenges through Rav Nachman's kafatz/kofas resolution, Rami bar Chama's remark, Rav Hamnuna's five-oaths objection, and Rava's baraita challenge \u2014 is one continuous chain of objections and defenses of Rav's position, best housed under 'Kofas/Kafatz' which explicitly describes all these exchanges including the Rami bar Chama episode.",
+      "chosen_heading": "Kofas/Kafatz",
+      "current_heading": "Nignav Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Exclude Admission",
+    "candidates": [
+      "Kefel Problem",
+      "Split Solution",
+      "Kofas/Kafatz",
+      "Five Oaths",
+      "R. Shimon View",
+      "Hamnuna Challenge",
+      "Exclude Admission",
+      "Exclude Gneiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents Rava's argument that any case of admission (hodeh) falls outside Rav's ruling, citing the verse 've-hitvadda' to require payment of principal and chomesh \u2014 exactly what the 'Exclude Admission' section's prose describes.",
+      "chosen_heading": "Exclude Admission",
+      "current_heading": "Exclude Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Exclude Gneiva",
+    "candidates": [
+      "Exclude Gneiva",
+      "Avad Only",
+      "Rav Gamda Report",
+      "Rav Ashi Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses both the *nignav*-with-witnesses case (kefel) and then clarifies that Rav's rule applies to *ta'anat avud*, which matches the 'Exclude Gneiva' section's prose about eliminating the nignav case due to kefel \u2014 the 'Avad Only' section discusses only the avad conclusion, while this passage presents both the exclusion of nignav AND the narrowing to avad as a single Gemara unit, and the current placement under 'Exclude Gneiva' captures the primary thrust of the passage.",
+      "chosen_heading": "Exclude Gneiva",
+      "current_heading": "Exclude Gneiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav Ashi Objection",
+    "candidates": [
+      "Avad Only",
+      "Rav Gamda Report",
+      "Rav Ashi Objection",
+      "Abaye Defense",
+      "Hamnuna's Real Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's objection to Rav Gamda's report, arguing that Rav Hamnuna (as Rav's student) knew Rav's ruling applied even in cases of admission, which is precisely what the 'Rav Ashi Objection' section's prose describes.",
+      "chosen_heading": "Rav Ashi Objection",
+      "current_heading": "Rav Ashi Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Hamnuna's Real Q",
+    "candidates": [
+      "Abaye Defense",
+      "Hamnuna's Real Q",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Aramaic text and argument that candidate 1's prose paraphrases in detail \u2014 Rav A\u1e25a the Elder's reframing of Rav Hamnuna's challenge to Rav, the 'bishlama nishba ki atu edim mechayiv' logic, and the 'ela ei amarta patur / hashta miha lo odi' conclusion \u2014 matching the current placement precisely.",
+      "chosen_heading": "Hamnuna's Real Q",
+      "current_heading": "Hamnuna's Real Q",
+      "moved": false
+    }
+  }
+]

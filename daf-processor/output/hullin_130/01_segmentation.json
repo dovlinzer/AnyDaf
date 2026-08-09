@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Mishnah's teaching: gifts apply only to non-sanctified animals, not sacrifices",
@@ -53,8 +53,8 @@
           "timestamp": "07:58"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "When an animal with a blemish is sanctified: it never acquires the status of a sacrifice",
@@ -77,8 +77,8 @@
           "timestamp": "19:10"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "When sanctity precedes the blemish: the animal retains sacrifice status with restrictions",
@@ -101,7 +101,7 @@
           "timestamp": "25:58"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -125,7 +125,7 @@
           "timestamp": "40:15"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -427,5 +427,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "27:02",
+  "amud_b_micro_title": "Rav Chisda ruling",
+  "shiur_start_daf": 130,
+  "shiur_start_amud": "a"
 }

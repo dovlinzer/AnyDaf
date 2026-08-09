@@ -1,0 +1,146 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Tefillin Objection",
+    "candidates": [
+      "Perek Theme",
+      "Gender to Geography",
+      "Mishna Text",
+      "Orlah & Kilayim",
+      "R. Eliezer on Chadash",
+      "Peshat Proposal",
+      "Tefillin Objection",
+      "Rashi's Answer",
+      "Rav Yehuda's Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mishna Text",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text itself (the kol mitzva rule plus the orlah/kilayim/chadash exceptions), which belongs under heading 2 'Mishna Text' where the essay author paraphrases exactly this mishna content.",
+      "second_heading": "Tefillin Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's tefillin/peter chamor objection to the bi'ah-based criterion, which is precisely what heading 6 'Tefillin Objection' discusses in its prose.",
+      "current_heading": "Tefillin Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Yehuda's Principle",
+    "candidates": [
+      "Rashi's Answer",
+      "Rav Yehuda's Principle",
+      "Midrash Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yehuda's statement distinguishing chovat haguf from chovat karka, which directly matches the prose of candidate 1 ('Rav Yehuda's Principle') that explains this exact distinction.",
+      "chosen_heading": "Rav Yehuda's Principle",
+      "current_heading": "Rav Yehuda's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Midrash Source",
+    "candidates": [
+      "Midrash Source",
+      "Avodah Zarah Paradigm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita deriving the categories of midrash/mishna/action from Deuteronomy 12:1 and the land/all-days tension, which is precisely what the 'Midrash Source' prose describes in detail.",
+      "chosen_heading": "Midrash Source",
+      "current_heading": "Midrash Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Avodah Zarah Paradigm",
+    "candidates": [
+      "Avodah Zarah Paradigm",
+      "Tanna Kamma Position",
+      "R. Eliezer Position",
+      "Nesachim & Central Altar",
+      "R. Yishmael's Rule",
+      "Shabbat Objection",
+      "Response on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita's 'go and learn' teaching using idol worship as the paradigm for chovat haguf applying everywhere, which is precisely what the 'Avodah Zarah Paradigm' prose section discusses in detail.",
+      "chosen_heading": "Avodah Zarah Paradigm",
+      "current_heading": "Avodah Zarah Paradigm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Response on Shabbat",
+    "candidates": [
+      "Tanna Kamma Position",
+      "R. Eliezer Position",
+      "Nesachim & Central Altar",
+      "R. Yishmael's Rule",
+      "Shabbat Objection",
+      "Response on Shabbat",
+      "Mishna Conflict",
+      "Tosafot on Chadash",
+      "Rov & Safek Sefeika",
+      "Modern Context",
+      "Orlah Problem",
+      "Mavrich Solution",
+      "Yerushalmi Source",
+      "Signs of Attachment",
+      "R. Yishmael View",
+      "Yishmael's Consequence",
+      "R. Akiva View",
+      "Akiva's Consequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the gemara's dilemma about whether Rabbi Eliezer is more lenient or stringent than the tanna kamma, resolves it via Abaye's identification of Rabbi Yishmael as the opposing tanna, and works through the Rabbi Yishmael/Rabbi Akiva dispute about moshav and nesachim \u2014 all of which directly establishes Rabbi Eliezer's position as the stringent one, which is precisely what candidate 1 ('R. Eliezer Position') discusses.",
+      "chosen_heading": "R. Eliezer Position",
+      "current_heading": "Response on Shabbat",
+      "moved": true
+    }
+  }
+]

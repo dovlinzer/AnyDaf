@@ -1,0 +1,297 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Blocked semen passage",
+    "candidates": [
+      "Prior interpretations",
+      "Komus and Mardik cases",
+      "Blocked semen passage",
+      "Corona hole test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Komus and Mardik cases",
+      "first_confidence": "high",
+      "first_reason": "Item 1 begins with the Mata Me\u1e25asya incident that candidate 1's prose explicitly describes as the closing case of the komus/mardik discussion, and only then opens the Pumbedita case.",
+      "second_heading": "Blocked semen passage",
+      "second_confidence": "high",
+      "second_reason": "Item 2 completes the Pumbedita blocked-semen case with Rav Pappi's principle, which is the exact content candidate 2's prose discusses in detail.",
+      "current_heading": "Blocked semen passage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Corona hole test",
+    "candidates": [
+      "Corona hole test",
+      "Ejaculation methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the nikav/nistam ruling, Rava's question about location, and the parallel citation specifying the corona \u2014 all of which are explicitly covered in the 'Corona hole test' prose, not the 'Ejaculation methods' section.",
+      "chosen_heading": "Corona hole test",
+      "current_heading": "Corona hole test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Ejaculation methods",
+    "candidates": [
+      "Ejaculation methods",
+      "Hole closure",
+      "Scab coverage issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the methods of inducing ejaculation to verify hole closure \u2014 Rav Yosef's barley bread procedure, Abaye's objection via Jacob, and the colored garments proposal \u2014 which matches exactly the prose under 'Ejaculation methods' (candidate 0).",
+      "chosen_heading": "Ejaculation methods",
+      "current_heading": "Ejaculation methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Scab coverage issue",
+    "candidates": [
+      "Hole closure",
+      "Scab coverage issue",
+      "Wound healing methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the puncture/closure ruling AND the 'zehu l'mautei' exclusion in one continuous passage, and candidate 0's prose explicitly describes all of this content including the revert-to-validity principle, while candidate 1 only discusses the exclusion portion \u2014 the full baraita belongs under the heading that introduces it.",
+      "chosen_heading": "Hole closure",
+      "current_heading": "Scab coverage issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Wound healing methods",
+    "candidates": [
+      "Scab coverage issue",
+      "Wound healing methods",
+      "Dual urination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the wound-healing protocol (barley scratching, fat application, ant biting, iron vs. barley, small vs. large holes) that candidate 1's prose discusses in detail.",
+      "chosen_heading": "Wound healing methods",
+      "current_heading": "Wound healing methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Dual urination",
+    "candidates": [
+      "Dual urination",
+      "Marriage restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the discussion of Rabba bar Rav Huna's ruling on urination from two places, Rava's rejection of both son and father's rulings, and the specific elaboration on women's same-sex contact being mere licentiousness \u2014 all of which are explicitly discussed in the 'Dual urination' section's prose.",
+      "chosen_heading": "Dual urination",
+      "current_heading": "Dual urination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Marriage restrictions",
+    "candidates": [
+      "Marriage restrictions",
+      "Priestly status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna directly states that a patzua daka and krut shofcha are permitted to marry converts and freed slaves but prohibited from entering the congregation \u2014 exactly the content discussed in the 'Marriage restrictions' prose.",
+      "chosen_heading": "Marriage restrictions",
+      "current_heading": "Marriage restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Priestly status",
+    "candidates": [
+      "Priestly status",
+      "Excluded status benefit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Priestly status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses the dilemma about a patzua daka kohen and a giyoret/meshuchreret, which is precisely what the 'Priestly status' prose discusses \u2014 the tension between retained kedushah and exclusion from the kahal.",
+      "second_heading": "Excluded status benefit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rav Sheshet's answer via the parallel case of a patzua daka yisrael and a netina, which is exactly what the 'Excluded status benefit' prose elaborates upon including the lo titchaten bam argument.",
+      "current_heading": "Priestly status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Excluded status benefit",
+    "candidates": [
+      "Excluded status benefit",
+      "Excluded analogy",
+      "Biblical vs rabbinic",
+      "Shlomo and Egypt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement about the prohibition against Canaanites being concern about idolatrous children (not sanctity), and that the rabbinic decree against nesinim applies only to those capable of having children, directly matches the prose in section 0 which describes exactly this Rava argument about fertility and the rabbinic decree's scope.",
+      "chosen_heading": "Excluded status benefit",
+      "current_heading": "Excluded status benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Shlomo and Egypt",
+    "candidates": [
+      "Excluded analogy",
+      "Biblical vs rabbinic",
+      "Shlomo and Egypt",
+      "Amoni/Moavi rules",
+      "Mitzri/Edom rules",
+      "Shimon's logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 10,
+      "first_heading": "Shlomo and Egypt",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u201310 continue the Gemara's discussion of Shlomo/Egypt, patzua daka, mamzer, and netina \u2014 all topics explicitly covered in the 'Shlomo and Egypt' prose section.",
+      "second_heading": "Amoni/Moavi rules",
+      "second_confidence": "high",
+      "second_reason": "Item 11 is the opening Mishna of the Ammonite/Moabite section, which is a clear structural break marked by 'MISHNA:' and corresponds exactly to the 'Amoni/Moavi rules' prose section.",
+      "current_heading": "Shlomo and Egypt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Shimon's logic",
+    "candidates": [
+      "Amoni/Moavi rules",
+      "Mitzri/Edom rules",
+      "Shimon's logic",
+      "Saul's inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the mishnah's content about Mitzri/Edom rules (item 1) and Rabbi Shimon's kal vachomer with the Sages' response (item 2), which together form the complete mishnah unit that candidate 1's prose explicitly describes \u2014 including the three-generation rule, the gender distinction, Rabbi Shimon's immediate-permission ruling, and the halacha/din exchange \u2014 whereas candidate 2 ('Shimon's logic') only covers the reasoning debate, not the foundational rule itself.",
+      "chosen_heading": "Mitzri/Edom rules",
+      "current_heading": "Shimon's logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Saul's inquiry",
+    "candidates": [
+      "Shimon's logic",
+      "Saul's inquiry",
+      "Doeg's objection",
+      "Greeting logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Saul's inquiry",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Saul's inquiry about David's lineage (Perez vs. Zerah), which is precisely what heading 1 ('Saul's inquiry') discusses in its prose.",
+      "second_heading": "Doeg's objection",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Doeg the Edomite's objection about David's eligibility to enter the congregation due to Ruth the Moabitess, which is exactly what heading 2 ('Doeg's objection') discusses in its prose.",
+      "current_heading": "Saul's inquiry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Greeting logic",
+    "candidates": [
+      "Doeg's objection",
+      "Greeting logic",
+      "Beis HaMedrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same Doeg-Avner dialogue about Ammonite/Moabite/Egyptian exclusions, which candidate 0's prose explicitly describes ('Doeg challenged Avner's silence with a counter-argument: very well, but then say Mitzri velo Mitzrit'), making it the clear home for this passage rather than the 'Greeting logic' section where it currently sits.",
+      "chosen_heading": "Doeg's objection",
+      "current_heading": "Greeting logic",
+      "moved": true
+    }
+  }
+]

@@ -1,21 +1,21 @@
-# Nedarim 46 — Daf Yomi Shiur
-[DAF:46a]
-
+[DAF:45b]
 ## Shutfin Mishnah Review
+
+
 
 ### Intro & Overview
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַשּׁוּתָּפִין שֶׁנָּדְרוּ הֲנָאָה זֶה מִזֶּה — אֲסוּרִין לִיכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: זֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ, וְזֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ.
->
-> **Translation:** MISHNA: **Partners who vowed** not to derive **benefit from one another are prohibited from entering into a courtyard** that they jointly own, since each one has a portion in it and benefits from the share owned by the other, thereby leading to a violation of the vow. **Rabbi Eliezer ben Ya'akov says:** It is permitted for both to use the courtyard, as it can be said that since each has a portion in the courtyard; **this one enters into his own** portion **and that one enters into his own** portion.
-
 Today's shiur covers *Nedarim* 46, the beginning of *Perek HaShutfin*. We begin by reviewing the *mishnah* that was introduced at the end of the previous *daf* before proceeding into the *gemara's* analysis. The *perek* concerns partners — *shutfin* — who hold joint ownership of a *chatzer*, perhaps a shared courtyard between two adjoining buildings or a communal hallway in a larger structure, and who have taken *nedarim* affecting their ability to derive *hana'ah* from one another or from the jointly owned space.
 
+[DAF:46a]
 ### Both Partners Forbidden
 
-> **Hebrew/Aramaic:** וּשְׁנֵיהֶם אֲסוּרִים לְהַעֲמִיד רֵיחַיִם וְתַנּוּר וּלְגַדֵּל תַּרְנְגוֹלִים.
->
+> **Hebrew/Aramaic:** הַשּׁוּתָּפִין שֶׁנָּדְרוּ הֲנָאָה זֶה מִזֶּה — אֲסוּרִין לִיכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: זֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ, וְזֶה נִכְנָס לְתוֹךְ שֶׁלּוֹ.
+> **Translation:** MISHNA: **Partners who vowed** not to derive **benefit from one another are prohibited from entering into a courtyard** that they jointly own, since each one has a portion in it and benefits from the share owned by the other, thereby leading to a violation of the vow. **Rabbi Eliezer ben Ya’akov says:** It is permitted for both to use the courtyard, as it can be said that since each has a portion in the courtyard; **this one enters into his own** portion **and that one enters into his own** portion.
+
+> **Hebrew/Aramaic:** וּשְׁנֵיהֶם אֲסוּרִים לְהַעֲמִיד רֵיחַיִם וְתַנּוּר וּלְגַדֵּל תַּרְנְגוֹלִים.
 > **Translation:** **And** all agree that **they are both prohibited from setting up a mill or an oven** in the jointly owned courtyard, **or to raise chickens** in it.
+
 
 The *mishnah* opens: *hashutfin shenadu hana'ah zeh mizeh, asurim lehikanes lachatzer* — if two business partners have each taken a *neder* against deriving benefit from the other, both are prohibited from entering the jointly owned *chatzer*. Since each of them has partial ownership of that space, and since neither can receive *hana'ah* from the other's portion, the entire *chatzer* becomes inaccessible to both.
 
@@ -27,19 +27,17 @@ One might ask: what meaningful *hana'ah* is at stake from merely walking through
 
 ### One Partner Forbidden
 
-> **Hebrew/Aramaic:** הָיָה אֶחָד מֵהֶם מוּדָּר הֲנָאָה מֵחֲבֵירוֹ — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל הוּא לוֹמַר לוֹ: לְתוֹךְ שֶׁלִּי אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ. וְכוֹפִין אֶת הַנּוֹדֵר לִמְכּוֹר אֶת חֶלְקוֹ.
->
-> **Translation:** If only **one of the** partners **was prohibited by a vow from deriving benefit from the other, he may not enter the courtyard. Rabbi Eliezer ben Ya'akov says: He can say to** the partner: **I am entering into my own** portion **and I am not entering into your** portion. **And** the court **forces the one who took** such **a vow to sell his portion** so that he does not cause the other to transgress.
+> **Hebrew/Aramaic:** הָיָה אֶחָד מֵהֶם מוּדָּר הֲנָאָה מֵחֲבֵירוֹ — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל הוּא לוֹמַר לוֹ: לְתוֹךְ שֶׁלִּי אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ. וְכוֹפִין אֶת הַנּוֹדֵר לִמְכּוֹר אֶת חֶלְקוֹ.
+> **Translation:** If only **one of the** partners **was prohibited by a vow from deriving benefit from the other, he may not enter the courtyard. Rabbi Eliezer ben Ya’akov says: He can say to** the partner: **I am entering into my own** portion **and I am not entering into your** portion. **And** the court **forces the one who took** such **a vow to sell his portion** so that he does not cause the other to transgress.
+
+> **Hebrew/Aramaic:** הָיָה אֶחָד מִן הַשּׁוּק מוּדָּר בְּאֶחָד מֵהֶם הֲנָאָה — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל לוֹמַר לוֹ: לְתוֹךְ שֶׁל חֲבֵירְךָ אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ.
+> **Translation:** If **someone from the marketplace is prohibited by a vow from deriving benefit from one of the** partners, **he may not enter a courtyard** of the partners, since it belongs partly to the one from whom he may not benefit. **Rabbi Eliezer ben Ya’akov says: He can say to him: I am entering into the** portion **of another** resident of the courtyard **and I am not entering your** own portion since it does not belong entirely to you.
 
 The *mishnah* then addresses a case where only one of the two partners has a *neder*: *haya echad mehem mudar hana'ah mechaveiro, lo yikanes lachatzer* — if one of them is *mudar hana'ah* from the other, he may not enter the *chatzer*. There is an important ambiguity here about how to read this case. One reading is that *Reuven* forbade *Shimon* from deriving benefit from his (*Reuven's*) property — that is, *Reuven* imposed the *neder* on *Shimon*. A second reading is that *Reuven* himself took a *neder* not to derive benefit from *Shimon*. This distinction matters greatly in light of the principle *ein adam oser davar she'eino shelo* — a person cannot render forbidden something that does not belong to him. If *Reuven* attempts to forbid *Shimon* from the *chatzer* despite the fact that *Shimon* holds partial ownership in it, the application of that principle becomes complicated. Some *Rishonim* therefore prefer the reading that it is *Reuven* who has taken the *neder* upon himself. Others hold that even the first reading is valid, because partial joint ownership creates sufficient intermingling of interests to allow one partner to restrict the other's access.
 
 *Rabbi Elazar ben Yaakov* again permits: *yachol hu lomar lo letoch sheli ani nichnas ve'eini nichnas letoch shelcha* — he can always say, "I am entering my portion, not yours." The *mishnah* adds: *vekofin et hanoder limkor et chelko* — the *beit din* compels the *noder* to sell his share. This detail provides important support for reading the *mishnah* as the first case — where *Reuven* imposed the *neder* on *Shimon*. If the situation were merely that *Reuven* forbade himself from *Shimon's* property, it would be difficult to understand why *beit din* would force *Reuven* to divest his own holding. The compulsion to sell suggests that *Reuven* is the one who has created an unbearable situation for *Shimon*, and it is *Reuven's* portion that must be removed from the equation. Both a textual and a conceptual argument thus exist on either side of this interpretive dispute.
 
 ### Third Party Forbidden
-
-> **Hebrew/Aramaic:** הָיָה אֶחָד מִן הַשּׁוּק מוּדָּר בְּאֶחָד מֵהֶם הֲנָאָה — לֹא יִכָּנֵס לֶחָצֵר. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, יָכוֹל לוֹמַר לוֹ: לְתוֹךְ שֶׁל חֲבֵירְךָ אֲנִי נִכְנָס, וְאֵינִי נִכְנָס לְתוֹךְ שֶׁלְּךָ.
->
-> **Translation:** If **someone from the marketplace is prohibited by a vow from deriving benefit from one of the** partners, **he may not enter a courtyard** of the partners, since it belongs partly to the one from whom he may not benefit. **Rabbi Eliezer ben Ya'akov says: He can say to him: I am entering into the** portion **of another** resident of the courtyard **and I am not entering your** own portion since it does not belong entirely to you.
 
 The *mishnah* moves to a third scenario: *haya echad min hashuk mudar be'echad mehen hana'ah, harei zeh lo yikanes lachatzer* — a third party from outside the *chatzer*, from the *shuk*, has taken a *neder* not to derive *hana'ah* from one of the partners. He may not enter the *chatzer* because every corner of it is jointly owned by both partners, and he cannot enter any portion without encountering the one from whom he is *mudar*.
 
@@ -49,8 +47,7 @@ This case raises the question of how a third party from outside acquires any rig
 
 ### Bathhouse/Press Case
 
-> **Hebrew/Aramaic:** הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְיֵשׁ לוֹ מֶרְחָץ וּבֵית הַבַּד מוּשְׂכָּרִין בָּעִיר, אִם יֵשׁ לוֹ בָּהֶן תְּפִיסַת יָד — אָסוּר, אֵין לוֹ בָּהֶן תְּפִיסַת יָד — מוּתָּר.
->
+> **Hebrew/Aramaic:** הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְיֵשׁ לוֹ מֶרְחָץ וּבֵית הַבַּד מוּשְׂכָּרִין בָּעִיר, אִם יֵשׁ לוֹ בָּהֶן תְּפִיסַת יָד — אָסוּר, אֵין לוֹ בָּהֶן תְּפִיסַת יָד — מוּתָּר.
 > **Translation:** With regard to **one prohibited by a vow from deriving benefit from another and he has a bathhouse or an olive press in the city that is leased out** and available for public use, **if** the one who took the vow **has a right** to profits from **usage in** the property, i.e., he retains some rights in the property and has not leased them out completely, it is **forbidden** for the one who took the vow to use it. If **he has no right of usage in the** property, it is **permitted.**
 
 The fourth case in the *mishnah*: *hamudar hana'ah mechaveiro veyesh lo merchatz uveit habad muskarin ba'ir* — a person is *mudar hana'ah* from another, and that other person owns a bathhouse or an olive press that are leased out in the city. *Im yesh lo bahen tefisat yad, assur* — if the owner retains *tefisat yad* in them, it is forbidden. *Ein lo bahen tefisat yad, mutar* — if he does not, it is permitted.
@@ -61,8 +58,7 @@ The concept of *tefisat yad* thus points to a residual ownership interest expres
 
 ### House/Field Ownership
 
-> **Hebrew/Aramaic:** הָאוֹמֵר לַחֲבֵירוֹ קֻוֽנָּם לְבֵיתְךָ שֶׁאֲנִי נִכְנָס, וְשָׂדְךָ שֶׁאֲנִי לוֹקֵחַ, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — מוּתָּר. קֻוֽנָּם בַּיִת זֶה שֶׁאֲנִי נִכְנָס, שָׂדֶה זוֹ שֶׁאֲנִי לוֹקֵחַ, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — אָסוּר.
->
+> **Hebrew/Aramaic:** הָאוֹמֵר לַחֲבֵירוֹ: ״קֻוֽנָּם לְבֵיתְךָ שֶׁאֲנִי נִכְנָס, וְשָׂדְךָ שֶׁאֲנִי לוֹקֵחַ״, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — מוּתָּר. ״קֻוֽנָּם בַּיִת זֶה שֶׁאֲנִי נִכְנָס״, ״שָׂדֶה זוֹ שֶׁאֲנִי לוֹקֵחַ״, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר — אָסוּר.
 > **Translation:** With regard to one **who says to another: Entering your house is *konam* for me, or: Purchasing your field** is *konam* **for me,** then if **he,** i.e., the owner of the house or field, **dies or sells** the house **to another,** it is **permitted** for the one who took the vow to enter the house or purchase the field, as it is no longer in the possession of the prior owner. But if he said: **Entering this house is *konam* for me,** or: **Purchasing this field** is *konam* **for me,** then even if the owner **dies or sells it to another,** it is **forbidden.**
 
 The *mishnah* concludes with two related formulations. *Ha'omer lachaveiro konam leveitecha she'ani nichnas* — if a person says "your house is *konam* that I should not enter it" — or *vesadcha she'ani loke'ach* — "your field that I will not buy" — then *met o shemecharah le'acher, mutar*: if the original owner dies or sells it to another, the *neder* is dissolved. This is because the formulation was *beitecha* or *sadcha* — **your** house, **your** field — making the prohibition contingent on the object's ownership by that particular person. Once ownership changes, the operative condition no longer obtains.
@@ -77,13 +73,17 @@ The *Mishneh Lamelech* notes a further question raised by *Rabbi Eliyahu ben Cha
 
 ---
 
-## Bidirectional vs Unidirectional Restriction
+## Bidirectional Neder vs 1s
+
+
 
 ### Bidirectional Question
 
-> **Hebrew/Aramaic:** גְּמָ׳ אִיבַּעְיָא לְהוּ: בְּנָדְרוּ פְּלִיגִי, הִדִּירוּ זֶה אֶת זֶה מַאי? מִי אָמְרִינַן: בְּנָדְרוּ הוּא דִּפְלִיגִי, אֲבָל בְּהִדִּירוּ זֶה אֶת זֶה — מוֹדוּ לֵיהּ רַבָּנַן לְרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב דְּכִי אֲנוּסִין דָּמוּ. אוֹ דִילְמָא: אֲפִילּוּ בְּהִדִּירוּ זֶה אֶת זֶה פְּלִיגִי רַבָּנַן?
->
-> **Translation:** GEMARA: **A dilemma was raised before** the Sages: In the mishna, the Rabbis and Rabbi Eliezer ben Ya'akov **disagree** with regard to the permissibility of entering a jointly owned courtyard **where** the partners **vowed** not to derive benefit from one another. However, if they instead **vowed to prohibit one another** from deriving benefit from them and their property, **what** is the *halakha*? **Do we say that they disagree where** the partners **each vowed** not to benefit from the other, **but where they** each **vowed to prohibit one another** from deriving benefit from them, **the Rabbis concede to Rabbi Eliezer ben Ya'akov, as they are** each **considered to be** forbidden **due to circumstances beyond their control? Or perhaps the Rabbis disagree even in** a case where **each vowed to prohibit one another** from deriving benefit?
+> **Hebrew/Aramaic:** גְּמָ׳ אִיבַּעְיָא לְהוּ: בְּנָדְרוּ פְּלִיגִי, הִדִּירוּ זֶה אֶת זֶה מַאי? מִי אָמְרִינַן: בְּנָדְרוּ הוּא דִּפְלִיגִי, אֲבָל בְּהִדִּירוּ זֶה אֶת זֶה — מוֹדוּ לֵיהּ רַבָּנַן לְרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב דְּכִי אֲנוּסִין דָּמוּ. אוֹ דִילְמָא: אֲפִילּוּ בְּהִדִּירוּ זֶה אֶת זֶה פְּלִיגִי רַבָּנַן?
+> **Translation:** GEMARA: **A dilemma was raised before** the Sages: In the mishna, the Rabbis and Rabbi Eliezer ben Ya’akov **disagree** with regard to the permissibility of entering a jointly owned courtyard **where** the partners **vowed** not to derive benefit from one another. However, if they instead **vowed to prohibit one another** from deriving benefit from them and their property, **what** is the *halakha*? **Do we say that they disagree where** the partners **each vowed** not to benefit from the other, **but where they** each **vowed to prohibit one another** from deriving benefit from them, **the Rabbis concede to Rabbi Eliezer ben Ya’akov, as they are** each **considered to be** forbidden **due to circumstances beyond their control? Or perhaps the Rabbis disagree even in** a case where **each vowed to prohibit one another** from deriving benefit?
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: הָיָה אֶחָד מֵהֶן מוּדָּר הֲנָאָה מֵחֲבֵירוֹ, וּפְלִיגִי רַבָּנַן! תָּנֵי: נָדוּר מֵחֲבֵירוֹ הֲנָאָה.
+> **Translation:** **Come** and **hear** a proof from the mishna: If only **one of the** partners **was prohibited by a vow from deriving benefit from the other,** he may not enter the shared courtyard. Here, the prohibitive vow was stated by the other party, **and** still **the Rabbis disagree** and forbid the use of the courtyard. Evidently, the dispute in the mishna applies equally to cases beyond the control of the one forbidden by the vow. The Gemara responds: **Teach** an emended version of the mishna: If one **had vowed to prohibit himself** from deriving **benefit from another.** According to this emended version, the mishna may be addressing only the one who brought the prohibition upon himself.
 
 The *gemara* opens with a formal *ibaya*: *benadru pligi?* — is the dispute in the *mishnah* about a case where each partner took a *neder* upon himself not to derive benefit from the other (*nadru*, they vowed), or is it about a case of *hediru ze et ze* — where each one imposed a *neder* on the other, forbidding the other from his property?
 
@@ -95,9 +95,8 @@ Alternatively, *o dilma afilu behediru ze et ze pligi Rabbanan* — perhaps the 
 
 ### Forced Sale as Proof
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: הָיָה אֶחָד מֵהֶן מוּדָּר הֲנָאָה מֵחֲבֵירוֹ, וּפְלִיגִי רַבָּנַן! תָּנֵי: נָדוּר מֵחֲבֵירוֹ הֲנָאָה. הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי סֵיפָא: וְכוֹפִין אֶת הַנּוֹדֵר לִמְכּוֹר אֶת חֶלְקוֹ. אִי אָמְרַתְּ בִּשְׁלָמָא דִּנְדַר הוּא, הַיְינוּ דְּקָתָנֵי כּוֹפִין. אֶלָּא אִי אָמְרַתְּ דְּאַדְּרֵיהּ, אַמַּאי כּוֹפִין אוֹתוֹ? הָא מֵינָס אֲנִיס?
->
-> **Translation:** **Come** and **hear** a proof from the mishna: If only **one of the** partners **was prohibited by a vow from deriving benefit from the other,** he may not enter the shared courtyard. Here, the prohibitive vow was stated by the other party, **and** still **the Rabbis disagree** and forbid the use of the courtyard. Evidently, the dispute in the mishna applies equally to cases beyond the control of the one forbidden by the vow. The Gemara responds: **Teach** an emended version of the mishna: If one **had vowed to prohibit himself** from deriving **benefit from another.** According to this emended version, the mishna may be addressing only the one who brought the prohibition upon himself. **So too, it is reasonable** to assume that the mishna is referring to one who imposes the prohibition upon himself, **as it was taught in the latter clause** with regard to the same case: **And** the court **forces the one who took** such **a vow to sell his portion. Granted, if you say** that the mishna is speaking of a case where **he** himself **vowed** not to benefit from the other, **this is** consistent with **that which teaches** that the court **forces** him to sell his portion; since he created the problem, he is forced to resolve it. **But if you say that** it is referring to a case **where the other prohibited him with a vow, why does** the court **force him** to sell his property? **He is put in a situation beyond his control.** This clause offers no proof, and the Rabbis may still concede in a case where one is forbidden due to another's vow.
+> **Hebrew/Aramaic:** הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי סֵיפָא: וְכוֹפִין אֶת הַנּוֹדֵר לִמְכּוֹר אֶת חֶלְקוֹ. אִי אָמְרַתְּ בִּשְׁלָמָא דִּנְדַר הוּא, הַיְינוּ דְּקָתָנֵי כּוֹפִין. אֶלָּא אִי אָמְרַתְּ דְּאַדְּרֵיהּ, אַמַּאי כּוֹפִין אוֹתוֹ? הָא מֵינָס אֲנִיס?
+> **Translation:** **So too, it is reasonable** to assume that the mishna is referring to one who imposes the prohibition upon himself, **as it was taught in the latter clause** with regard to the same case: **And** the court **forces the one who took** such **a vow to sell his portion. Granted, if you say** that the mishna is speaking of a case where **he** himself **vowed** not to benefit from the other, **this is** consistent with **that which teaches** that the court **forces** him to sell his portion; since he created the problem, he is forced to resolve it. **But if you say that** it is referring to a case **where the other prohibited him with a vow, why does** the court **force him** to sell his property? **He is put in a situation beyond his control.** This clause offers no proof, and the Rabbis may still concede in a case where one is forbidden due to another’s vow.
 
 The *gemara* attempts to resolve this question from the *mishnah's* second case — the unidirectional *neder*. The language of the *mishnah* is *haya echad mehem mudar hana'ah mechaveiro* — one of them was *mudar hana'ah* from his partner. The *gemara* suggests: *tani nadur* — read it not as *mudar* (imposed upon him) but as *nadur* (he vowed himself). That is, perhaps the *mishnah's* second case involves a person who voluntarily took upon himself a *neder* not to benefit from his partner.
 
@@ -107,10 +106,6 @@ This reading then implies that the *mishnah's* second case is precisely the *hed
 
 ### Ones Paradox
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה אָמַר זְעֵירִי:
->
-> **Translation:** **Rabba said** that **Ze'eiri said:**
-
 But this produces a difficulty. If the *mishnah's* second case is one of *ones* — if *Shimon* was involuntarily subjected to *Reuven's* restriction — then why does the *gemara* need to force *Reuven* to sell? The *gemara* asks: *amai kofin oto, ha menanas anis* — if he is *anus*, why are we compelling him to divest his property? The very premise of *ones* is that the situation is against his will and not of his choosing — so it seems unjust to then impose the additional burden of forced sale on him.
 
 The answer implied by the *gemara* is that the *ones* argument cuts the other way: precisely because the situation is one of *ones*, precisely because the partnership agreement has been rendered unworkable against *Shimon's* will, the *beit din* must intervene. The only equitable resolution is to compel *Reuven* — who created this situation by imposing the *neder* — to sell his portion and thus restore *Shimon's* ability to function. It is not a punishment of the *mudar* but rather the logical remedy when the structure of the joint ownership has been undermined. With this the *gemara* transitions to the debate between *Rabba* and *Rav Yosef* about whether the physical size of the *chatzer* affects the analysis.
@@ -119,21 +114,24 @@ The answer implied by the *gemara* is that the *ones* argument cuts the other wa
 
 ## Courtyard Size Debate
 
+
+
+[DAF:46b]
 ### Rabba: Small = Permitted
 
-> **Hebrew/Aramaic:** מַחְלוֹקֶת שֶׁיֵּשׁ בָּהּ כְּדֵי חֲלוּקָּה. אֲבָל אֵין בָּהּ כְּדֵי חֲלוּקָּה — דִּבְרֵי הַכֹּל מוּתָּר.
->
-> **Translation:** The **dispute** between Rabbi Eliezer ben Ya'akov and the Rabbis is with regard to a courtyard **where there is sufficient** area **in** the courtyard for it to be **divided** into four square cubits for each partner, so each can be said to have a real portion that can be forbidden to the other. **But** if **there is not sufficient** area **in it** to be **divided, everyone agrees** that it is **permitted** to benefit from it, since the entire courtyard is viewed as belonging to both of them and each one can say that he is entering his own portion.
+> **Hebrew/Aramaic:** אָמַר רַבָּה אָמַר זְעֵירִי:
+> **Translation:** **Rabba said** that **Ze’eiri said:**
+
+> **Hebrew/Aramaic:** מַחְלוֹקֶת שֶׁיֵּשׁ בָּהּ כְּדֵי חֲלוּקָּה. אֲבָל אֵין בָּהּ כְּדֵי חֲלוּקָּה — דִּבְרֵי הַכֹּל מוּתָּר.
+> **Translation:** The **dispute** between Rabbi Eliezer ben Ya’akov and the Rabbis is with regard to a courtyard **where there is sufficient** area **in** the courtyard for it to be **divided** into four square cubits for each partner, so each can be said to have a real portion that can be forbidden to the other. **But** if **there is not sufficient** area **in it** to be **divided, everyone agrees** that it is **permitted** to benefit from it, since the entire courtyard is viewed as belonging to both of them and each one can say that he is entering his own portion.
 
 *Amar Zeiri: machloket sheyesh bah kedei chalukah* — Rabba's position (cited here in the name of *Zeiri*) is that the dispute between the *Rabbanan* and *Rabbi Eliezer ben Yaakov* applies specifically to a *chatzer* that is large enough to be subdivided — *yesh bah kedei chalukah*. In such a case, the *Rabbanan* hold that even though each partner theoretically has his own portion, the undivided joint ownership renders entry by either forbidden partner problematic. *Rabbi Eliezer ben Yaakov* disagrees and permits entry on the basis of *zeh nichnas letoch shelo vezeh nichnas letoch shelo*.
 
 But in a *chatzer* that is too small to be meaningfully subdivided — *ein bah kedei chalukah* — *divrei hakol mutar*: everyone agrees, including the *Rabbanan*, that entry must be permitted. The reason is that in such a small space the "private" portions of the two partners would necessarily overlap; there is no way to allocate each of them a distinct private zone. Given this physical reality, the logic of *Rabbi Eliezer ben Yaakov* becomes irresistible: each partner's use of any part of the *chatzer* simply is use of his own portion, because the space cannot be divided otherwise. The *Rabbanan* therefore concede to *Rabbi Eliezer ben Yaakov* when the *chatzer* is too small to divide.
 
-[DAF:46b]
 ### Yosef: BK Analogy
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב יוֹסֵף: הֲרֵי בֵּית הַכְּנֶסֶת, דִּכְמִי שֶׁאֵין בּוֹ כְּדֵי חֲלוּקָּה דָּמֵי, וּתְנַן: שְׁנֵיהֶן אֲסוּרִין בְּדָבָר שֶׁל אוֹתָהּ הָעִיר!
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב יוֹסֵף: הֲרֵי בֵּית הַכְּנֶסֶת, דִּכְמִי שֶׁאֵין בּוֹ כְּדֵי חֲלוּקָּה דָּמֵי, וּתְנַן: שְׁנֵיהֶן אֲסוּרִין בְּדָבָר שֶׁל אוֹתָהּ הָעִיר!
 > **Translation:** **Rav Yosef said to** Rabba: **A synagogue** belongs to the entire public and is therefore **considered like** a courtyard in which **there is not sufficient** area **in it** to be **divided, and we learned in** a mishna later in the chapter (48a) that with regard to two people who vow not to derive benefit from each other, **both are prohibited** from deriving benefit **from an entity belonging to that city** such as a synagogue. Evidently, the Rabbis prohibit deriving benefit even from such entities.
 
 *Rav Yosef* challenges *Rabba's* position with a pointed analogy: *harei beit haknesset dechimi she'ein bo kedei chalukah dami* — consider the case of a *beit knesset*. A *beit knesset* functions like a *chatzer* that cannot be divided: its communal purpose makes it inherently indivisible regardless of its physical size. No one can claim a personal section of the synagogue the way a householder might claim a corner of his courtyard.
@@ -144,25 +142,27 @@ Yet the *mishnah* later rules that when two residents of the same city take *ned
 
 ### Yosef: Size Distinction
 
-> **Hebrew/Aramaic:** אֶלָּא, אָמַר רַב יוֹסֵף, אָמַר זְעֵירִי: מַחְלוֹקֶת שֶׁאֵין בָּהּ כְּדֵי חֲלוּקָּה, אֲבָל יֵשׁ בָּהּ כְּדֵי חֲלוּקָּה — דִּבְרֵי הַכֹּל אָסוּר.
->
-> **Translation:** **Rather, Rav Yosef said: Ze'eiri** must have **said:** The **dispute** holds **where there is not sufficient** area **in** the courtyard for it to be **divided, but** if **there is sufficient** area **in it** for it to be **divided, everyone agrees that** it is **forbidden,** since if either enters it he may be entering the other's portion.
+> **Hebrew/Aramaic:** אֶלָּא, אָמַר רַב יוֹסֵף, אָמַר זְעֵירִי: מַחְלוֹקֶת שֶׁאֵין בָּהּ כְּדֵי חֲלוּקָּה, אֲבָל יֵשׁ בָּהּ כְּדֵי חֲלוּקָּה — דִּבְרֵי הַכֹּל אָסוּר.
+> **Translation:** **Rather, Rav Yosef said: Ze’eiri** must have **said:** The **dispute** holds **where there is not sufficient** area **in** the courtyard for it to be **divided, but** if **there is sufficient** area **in it** for it to be **divided, everyone agrees that** it is **forbidden,** since if either enters it he may be entering the other’s portion.
 
 *Rav Yosef* therefore proposes the inverse of *Rabba's* framework: *machloket she'ein bah kedei chalukah, aval yesh bah kedei chalukah divrei hakol assur* — the dispute between *Rabbanan* and *Rabbi Eliezer ben Yaakov* applies to the *small* courtyard that cannot be divided. There, *Rabbi Eliezer ben Yaakov* maintains that each partner can navigate by invoking *zeh nichnas letoch shelo*, while the *Rabbanan* hold that even this small space is entirely *assur*. In the *large* courtyard that is capable of division, however, everyone agrees it is *assur* — even *Rabbi Eliezer ben Yaakov* concedes that when the space is large enough to be genuinely subdivided, one cannot plausibly claim that wherever one happens to walk is automatically one's own designated portion. The discreteness of potential private zones undermines the blanket *breira* argument.
+
+It is worth pausing to appreciate what is at stake practically. The joint *chatzer* — whether large or small — operates under a shared assumption: both *shutafin* may use the whole space in the ordinary ways that come with ownership, setting up an oven, keeping chickens, and so on. Once the *neder* is made, the personal benefit each partner derives from what is technically the other's property becomes the problem. The question is therefore whether *breira* can function retroactively to draw a line — to say that the portion I am actually using now is, and was from the outset, the portion that was mine to use. *Rabbi Eliezer ben Yaakov* holds that this retroactive clarification is coherent, at least in principle, because there was an underlying joint-ownership agreement from the start; the *breira* here is not conjuring a status from nothing but rather clarifying the terms of an arrangement that already existed. In the large *chatzer*, however, that argument collapses: because the space is large enough that genuine subdivision was possible, one cannot claim that any particular part was implicitly one's own — the gray has not been resolved into black and white, and *breira* cannot do that work.
 
 This is a striking reversal. *Rabba* had argued that the small *chatzer* is the easy case where all agree it is *mutar*; *Rav Yosef* argues it is the hard case where the dispute lies. The large *chatzer*, rather than being the contested scenario, is actually the one where both authorities agree the entire space is *assur*. The *beit knesset* analogy supports *Rav Yosef*: the synagogue, as an inherently indivisible communal space, is precisely the paradigm case where the dispute plays out — and the *mishnah* rules it *assur*, consistent with the *Rabbanan's* position in the small-*chatzer* dispute.
 
 ### Halacha Ruling
 
-> **Hebrew/Aramaic:** אָמַר רַב הוּנָא: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב. וְכֵן אָמַר רַבִּי אֶלְעָזָר: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב.
->
-> **Translation:** **Rav Huna said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer ben Ya'akov. And so too, Rabbi Elazar said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer ben Ya'akov.**
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב. וְכֵן אָמַר רַבִּי אֶלְעָזָר: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב.
+> **Translation:** **Rav Huna said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer ben Ya’akov. And so too, Rabbi Elazar said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer ben Ya’akov.**
 
 *Amar Rav Huna: halacha keRabbi Eliezer ben Yaakov* — Rav Huna rules that the *halacha* follows *Rabbi Eliezer ben Yaakov*. *Vechein amar Rabbi Elazar: halacha keRabbi Eliezer ben Yaakov* — Rabbi Elazar likewise rules accordingly. The operative principle of *zeh nichnas letoch shelo vezeh nichnas letoch shelo* is therefore accepted as *halacha*, and *Rabbi Eliezer ben Yaakov's* invocation of *yesh breira* in this context becomes one of the recognized sources for applying *breira* in practice.
 
 ---
 
 ## Breira & Ones Concepts
+
+
 
 ### How Breira Works
 
@@ -184,21 +184,20 @@ These questions recur throughout *Shas* in contexts involving jointly owned anim
 
 ## Tefisat Yad Analysis
 
-### Rav Nachman: 25% Threshold
 
-> **Hebrew/Aramaic:** הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְיֵשׁ לוֹ שָׁם מֶרְחָץ וְכוּ׳. וְכַמָּה תְּפִיסַת יָד? אָמַר רַב נַחְמָן: לְמֶחֱצָה לִשְׁלִישׁ וְלִרְבִיעַ. אֲבָל בִּבְצִיר — לָא.
->
-> **Translation:** § The mishna teaches: With regard to **one prohibited by a vow from deriving benefit from another and he has a bathhouse** or an olive press in the city that is leased out and available for public use, the forbidden party may use it only if the owner has forfeited his own right to profits from usage. The Gemara asks: **And how much** is this **right** to profits from **usage** that prohibits the subject of the vow from entering the bathhouse? **Rav Naḥman said:** In cases where he receives **one half, one-third, or one-quarter** of the profits of the bathhouse. **But in** a case where he receives **less,** it is **not** forbidden.
+
+### Rav Nachman: Tefisat Yad
+
+> **Hebrew/Aramaic:** הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְיֵשׁ לוֹ שָׁם מֶרְחָץ וְכוּ׳. וְכַמָּה תְּפִיסַת יָד? אָמַר רַב נַחְמָן: לְמֶחֱצָה לִשְׁלִישׁ וְלִרְבִיעַ. אֲבָל בִּבְצִיר — לָא. אַבָּיֵי אָמַר: אֲפִילּוּ בִּבְצִיר — אָסוּר. הֵיכִי דָּמֵי דִּשְׁרֵי — דִּמְקַבֵּל בְּטַסְקָא.
+> **Translation:** § The mishna teaches: With regard to **one prohibited by a vow from deriving benefit from another and he has a bathhouse** or an olive press in the city that is leased out and available for public use, the forbidden party may use it only if the owner has forfeited his own right to profits from usage. The Gemara asks: **And how much** is this **right** to profits from **usage** that prohibits the subject of the vow from entering the bathhouse? **Rav Naḥman said:** In cases where he receives **one half, one-third, or one-quarter** of the profits of the bathhouse. **But in** a case where he receives **less,** it is **not** forbidden. **Abaye said: Even in** a case where he receives **less,** it is **forbidden.** If so, **what are the circumstances in which** it is **permitted** and he is not considered to have a right to profits from usage? **Where he** completely forfeits all profits and **receives** only **an annual rental fee [*taska*]** from a tenant.
 
 The *gemara* now returns to the *tefisat yad* case from the *mishnah* and asks: *vekamah tefisat yad* — how large must the owner's percentage stake be in order to constitute *tefisat yad* and thereby render use of the bathhouse or press *assur* to the *mudar*?
 
+Underlying this question is a recognition that at sufficiently small percentages, the lessor's stake in any single patron's visit becomes practically negligible. If the original owner holds only one percent of the proceeds, it is difficult to argue that one additional person using the *merchatz* meaningfully affects him — he would only notice the difference if a great many people used the facility. The *tefisat yad* concern, in other words, depends not just on the existence of a percentage stake, but on whether that stake is large enough that the lessor genuinely remains invested in the day-to-day success of the operation. This is equally a question about residual ownership: how much of a continuing financial stake does the original owner need to retain before we say he is still, in some meaningful sense, hovering over the enterprise?
+
 *Amar Rav Nachman: lemechtza, leshlish, uleravia* — Rav Nachman rules that *tefisat yad* applies when the lessor retains a profit share of one-half, one-third, or one-quarter of the proceeds. *Aval babatzir lo* — but if the percentage falls below a quarter, it does not constitute *tefisat yad*. On this view, only profit-sharing arrangements at or above the twenty-five percent threshold preserve sufficient residual ownership interest to make the *mudar's* use of the facility a prohibited *hana'ah* for the lessor.
 
-### Abaye: All Percentages Count
-
-> **Hebrew/Aramaic:** אַבָּיֵי אָמַר: אֲפִילּוּ בִּבְצִיר — אָסוּר. הֵיכִי דָּמֵי דִּשְׁרֵי — דִּמְקַבֵּל בְּטַסְקָא.
->
-> **Translation:** **Abaye said: Even in** a case where he receives **less,** it is **forbidden.** If so, **what are the circumstances in which** it is **permitted** and he is not considered to have a right to profits from usage? **Where he** completely forfeits all profits and **receives** only **an annual rental fee [*taska*]** from a tenant.
+### Abaye: <25% Tefisat Yad
 
 *Abaye* disagrees: *afilu babatzir assur* — even a percentage below one-quarter creates *tefisat yad* and renders use *assur*. Abaye's logic is straightforward: if the arrangement is percentage-based at all, then each additional customer who uses the bathhouse or press directly increases the lessor's income. Even at ten percent, one more person using the *merchatz* means the original owner earns ten percent more from that visit. The lessor thus has a real and direct financial stake in every individual use of the facility, and the *mudar's* patronage therefore constitutes *hana'ah* flowing to the *mudar-mimenu*. Abaye's position appears to be the logically stronger one — if Rav Nachman accepts that a quarter-share creates *tefisat yad*, it is difficult to see why a tenth-share would not, since the mechanism is identical.
 

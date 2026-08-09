@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah: Fine Cases",
+    "candidates": [
+      "Mishnah: Fine Cases",
+      "Kam Lei Principle",
+      "Gemara's Question",
+      "Ha'arah & Pagum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita's definition of 'sin' as karet-liable women and then raises the contradiction from the Ketubot mishna about the fine for one who rapes his sister \u2014 exactly the content described in the 'Mishnah: Fine Cases' prose, which sets up this precise difficulty before the kam lei analysis begins.",
+      "chosen_heading": "Mishnah: Fine Cases",
+      "current_heading": "Mishnah: Fine Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Ha'arah & Pagum",
+    "candidates": [
+      "Kam Lei Principle",
+      "Gemara's Question",
+      "Ha'arah & Pagum",
+      "Timing of Pagam",
+      "Case Resolutions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ha'arah & Pagum",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the rabbis' proposed resolution before Rav \u1e24isda (ha'ara'ah/pagam distinction) and Rav \u1e24isda's challenge regarding the two opinions on ha'ara'ah, which matches exactly the prose of heading 2 ('Ha'arah & Pagum') and heading 3 ('Timing of Pagam') \u2014 but since items 1-2 together cover the content described in heading 2's prose (which already discusses both the resolution and the nishika/hachnasat ha'atara dispute), they belong under heading 2.",
+      "second_heading": "Case Resolutions",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav \u1e24isda's own resolution involving shelo kedarka then kedarka, which is described precisely in heading 4 ('Case Resolutions') as the first of three solutions offered.",
+      "current_heading": "Ha'arah & Pagum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Case Resolutions",
+    "candidates": [
+      "Timing of Pagam",
+      "Case Resolutions",
+      "Non-Lethal Intervention",
+      "R. Yonatan ben Shaul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rava's and Rav Pappa's resolutions to the knas/kam lei impasse, which are explicitly described and explained in the 'Case Resolutions' prose section.",
+      "chosen_heading": "Case Resolutions",
+      "current_heading": "Case Resolutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "R. Yonatan ben Shaul",
+    "candidates": [
+      "Non-Lethal Intervention",
+      "R. Yonatan ben Shaul",
+      "Miscarriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement introducing the principle of b'yakhol lehatzilo b'echad mei-evarav and attributing it to Rabbi Yonatan ben Shaul, which corresponds exactly to the 'Non-Lethal Intervention' section's prose describing Abaye's answer, whereas the 'R. Yonatan ben Shaul' section's prose discusses the dedicated analysis of that principle after it has already been introduced.",
+      "chosen_heading": "Non-Lethal Intervention",
+      "current_heading": "R. Yonatan ben Shaul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Miscarriage Case",
+    "candidates": [
+      "R. Yonatan ben Shaul",
+      "Miscarriage Case",
+      "Different Victims",
+      "Rava on Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain discussing the miscarriage case proof for Rabbi Yonatan ben Shaul's principle: item 1 presents the verse and Rabbi Elazar's interpretation, items 2-3 show the granted/but-if-you-say argument about saving via a limb, and item 4 raises the 'different victims' objection \u2014 exactly the content described in the 'Miscarriage Case' prose.",
+      "chosen_heading": "Miscarriage Case",
+      "current_heading": "Miscarriage Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rava on Damage",
+    "candidates": [
+      "Different Victims",
+      "Rava on Damage",
+      "Good Samaritan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling that a pursuer who breaks vessels belonging to anyone is exempt because he is liable to be killed, which is exactly what the 'Rava on Damage' section's prose describes and analyzes.",
+      "chosen_heading": "Rava on Damage",
+      "current_heading": "Rava on Damage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Good Samaritan",
+    "candidates": [
+      "Good Samaritan",
+      "Animal Case",
+      "Avodah Zarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the content described in the 'Good Samaritan' prose \u2014 the nirdaf breaking the pursuer's vs. third party's vessels, and the intervener's exemption with the ve'lo min ha-din rationale about encouraging rescue.",
+      "chosen_heading": "Good Samaritan",
+      "current_heading": "Good Samaritan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Avodah Zarah",
+    "candidates": [
+      "Animal Case",
+      "Avodah Zarah",
+      "Shabbat Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Shimon ben Yochai's ruling that one who worships idols may be stopped with lethal force via a kal vachomer, and the question of onshin min ha-din \u2014 exactly what the 'Avodah Zarah' prose describes.",
+      "chosen_heading": "Avodah Zarah",
+      "current_heading": "Avodah Zarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Shabbat Violation",
+    "candidates": [
+      "Shabbat Violation",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar ben Rabbi Shimon's ruling on Shabbat desecration, the gezeirah shavah linking Shabbat to avodah zarah via 'chillul,' and onshin min ha-din \u2014 all of which are precisely what the 'Shabbat Violation' prose section addresses.",
+      "chosen_heading": "Shabbat Violation",
+      "current_heading": "Shabbat Violation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Three Categories",
+      "Avodah Zarah Debate",
+      "Ahavat Hashem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Categories",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the foundational ruling from the upper story of Lod establishing the three exceptions, which is precisely what heading 0 ('Three Categories') describes in its prose.",
+      "second_heading": "Avodah Zarah Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge from Rabbi Yishmael's baraita questioning whether avodah zarah really belongs among the exceptions, which is exactly what heading 1 ('Avodah Zarah Debate') addresses in its prose.",
+      "current_heading": "Three Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Ahavat Hashem",
+    "candidates": [
+      "Avodah Zarah Debate",
+      "Ahavat Hashem",
+      "Giluy Arayot",
+      "Murder Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Avodah Zarah Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's public/private distinction for avodah zarah derived from 've-nikdashti', which is precisely what candidate 0 ('Avodah Zarah Debate') discusses in its prose about Rabbi Yishmael's position.",
+      "second_heading": "Ahavat Hashem",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rabbi Eliezer's derivation from 've-ahavta' about giving one's soul or possessions, which is exactly what candidate 1 ('Ahavat Hashem') discusses in its prose about Rabbi Eliezer's reasoning.",
+      "current_heading": "Ahavat Hashem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Murder Case",
+    "candidates": [
+      "Giluy Arayot",
+      "Murder Case",
+      "Gezerot Malchut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the baraita and logical reasoning (sevara) that derive the rules for giluy arayot and murder \u2014 exactly what heading 0 ('Giluy Arayot') describes in its prose, which explicitly mentions the betrothed maiden verse, the two-directional analogy, and the sevara about murder; heading 1's prose describes these same sources only as background already established, then moves on to further analysis.",
+      "chosen_heading": "Giluy Arayot",
+      "current_heading": "Murder Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Gezerot Malchut",
+    "candidates": [
+      "Murder Case",
+      "Gezerot Malchut",
+      "Ravin's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Dimi's transmission of Rabbi Yochanan's ruling about sha'at hashmad requiring martyrdom even for minor mitzvot, which is precisely what the 'Gezerot Malchut' section's prose discusses.",
+      "chosen_heading": "Gezerot Malchut",
+      "current_heading": "Gezerot Malchut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Ravin's Position",
+    "candidates": [
+      "Ravin's Position",
+      "Parhesya Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present Ravin's transmission of Rabbi Yochanan's ruling about public transgression and its clarification (the sandal strap example), which is precisely what the 'Ravin's Position' prose discusses \u2014 the *befarhesya* requirement for martyrdom even outside *sha'at hashmad* and even for a minor mitzva.",
+      "chosen_heading": "Ravin's Position",
+      "current_heading": "Ravin's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Parhesya Definition",
+    "candidates": [
+      "Parhesya Definition",
+      "Self-Interest Exception",
+      "Esther Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the definition of parhesya \u2014 the requirement of ten people and the gezeirah shavah proving all ten must be Jews \u2014 which is precisely what the 'Parhesya Definition' prose discusses.",
+      "chosen_heading": "Parhesya Definition",
+      "current_heading": "Parhesya Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Esther Exception",
+    "candidates": [
+      "Self-Interest Exception",
+      "Esther Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Abbaye's karka olam answer, Rava's hana'at atzman principle, the coal-shovel illustration, and Rava's aspasta ruling \u2014 are explicitly discussed together in the 'Esther Exception' prose, which covers both the karka olam and hana'at atzman concepts as part of the same sugya about Esther's situation.",
+      "chosen_heading": "Esther Exception",
+      "current_heading": "Esther Exception",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Communal & Individual",
+      "Mishnah Overview",
+      "Textual Exclusions",
+      "Kal Vachomer",
+      "Ma'aser Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself stating that all individual offerings require semichah except bechor, ma'aser, and pesach \u2014 this is the opening Mishnah statement that the 'Communal & Individual' section's prose directly introduces and discusses.",
+      "chosen_heading": "Communal & Individual",
+      "current_heading": "Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Ma'aser Logic",
+    "candidates": [
+      "Kal Vachomer",
+      "Ma'aser Logic",
+      "Pesach Exclusion",
+      "Rashi's View",
+      "Viduy & Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita excluding firstborn, tithe, and Paschal offerings from semichah via kal vachomer inferences, which is precisely what candidate 0 ('Kal Vachomer') discusses \u2014 the logic of exclusions for bechor, ma'aser, and pesach and why one might have thought semichah should apply to them.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Ma'aser Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Viduy & Declaration",
+    "candidates": [
+      "Pesach Exclusion",
+      "Rashi's View",
+      "Viduy & Declaration",
+      "Question Raised",
+      "Asmachta Only",
+      "Korbano Teachings",
+      "Heir Dispute",
+      "R. Yehudah View",
+      "Tchilat from Sof",
+      "Ownership Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses how the verses excluding bechor, ma'aser, and pesach from semichah are merely asmachta because there was never a valid kal vachomer basis for extending semichah to them (since shelamim requires nesachim and waving of breast and thigh), which is precisely what the 'Asmachta Only' section's prose describes.",
+      "chosen_heading": "Asmachta Only",
+      "current_heading": "Viduy & Declaration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Ownership Concept",
+    "candidates": [
+      "Question Raised",
+      "Asmachta Only",
+      "Korbano Teachings",
+      "Heir Dispute",
+      "R. Yehudah View",
+      "Tchilat from Sof",
+      "Ownership Concept",
+      "Rabbis Counter",
+      "Verse Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'why do I need these verses?' and answers with the three teachings from 'korbano' \u2014 his offering, not another's; not a gentile's; and to include all joint owners \u2014 which is precisely the content the 'Asmachta Only' prose describes as what the repeated appearances of 'korbano' actually teach.",
+      "chosen_heading": "Asmachta Only",
+      "current_heading": "Ownership Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Verse Resolution",
+    "candidates": [
+      "Rabbis Counter",
+      "Verse Resolution",
+      "Women & Temurah",
+      "Mishnah List",
+      "Shiyrei Mitzvah",
+      "Mental Capacity",
+      "Blind Exclusion"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 9,
+      "split2": 12,
+      "first_heading": "Verse Resolution",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses the heir's ability to perform semichah and effect substitution, the dispute between Rabbi Yehuda and the Rabbis, and the derivations from 'korbano' and 'hamer yamir' \u2014 all of which matches the 'Verse Resolution' heading's prose about what the Rabbis derive from korbano and Rabbi Yehuda's use of hemir yamir.",
+      "second_heading": "Mishnah List",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna listing those excluded from semichah and its qualifications (she'yarei mitzvah, two hands, immediately before shechita), which matches the 'Mishnah List' heading's prose about the Mishnah turning to who may perform semichah and the qualifications added.",
+      "third_heading": "Shiyrei Mitzvah",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara opening that explains the exclusion of the deaf-mute/imbecile/minor as lacking mental capacity and the non-Jew via 'bnei yisrael', then poses the question about the blind person \u2014 matching the 'Shiyrei Mitzvah' heading's prose about the non-Jew's exclusion derived from 'daber el bnei yisrael' and the Gemara's discussion, though 'Mental Capacity' also fits; however, the heading 'Shiyrei Mitzvah' prose explicitly covers the non-Jew derivation from 'bnei yisrael somchin', which is exactly where Segment 3 ends its content.",
+      "current_heading": "Verse Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Blind Exclusion",
+    "candidates": [
+      "Women & Temurah",
+      "Mishnah List",
+      "Shiyrei Mitzvah",
+      "Mental Capacity",
+      "Blind Exclusion",
+      "Non-Jew & Slave",
+      "Shaliach Principle",
+      "Wife Excluded",
+      "Woman's Own Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the dispute between Rav \u1e24isda and Rav Yitz\u1e25ak bar Avdimi over deriving the blind person's exclusion from semichah \u2014 via gezeirah shavah from Ziknei ha'Edah or from Olat Re'iyah \u2014 which is precisely what candidate 3 ('Mental Capacity') describes in detail, whereas the current placement (candidate 4, 'Blind Exclusion') has prose that discusses the baraita about yado excluding slave/agent/wife before turning to the blind person.",
+      "chosen_heading": "Mental Capacity",
+      "current_heading": "Blind Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Woman's Own Korban",
+    "candidates": [
+      "Non-Jew & Slave",
+      "Shaliach Principle",
+      "Wife Excluded",
+      "Woman's Own Korban",
+      "Verse Analysis",
+      "Blood & Semichah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the baraita and its Gemara analysis explaining why all three exclusions (slave, agent, wife) are necessary \u2014 content that directly matches the 'Shaliach Principle' section's prose about the agent's exclusion and the shlucho shel adam kemoto argument, which is precisely the logical pivot the Gemara uses to build toward needing all three verses.",
+      "chosen_heading": "Shaliach Principle",
+      "current_heading": "Woman's Own Korban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Blood & Semichah",
+    "candidates": [
+      "Verse Analysis",
+      "Blood & Semichah",
+      "Hollow Atonement",
+      "Tenufah Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Blood & Semichah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about semichah and its relationship to atonement through blood, which is precisely what the 'Blood & Semichah' prose discusses.",
+      "second_heading": "Tenufah Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the parallel baraita about tenufah, which is exactly what the 'Tenufah Parallel' prose describes and analyzes.",
+      "current_heading": "Blood & Semichah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Tenufah Parallel",
+    "candidates": [
+      "Hollow Atonement",
+      "Tenufah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the technical requirements of semichah (hand-placement on the offering) \u2014 where on the animal's body, how many exclusions are needed, the sides question, and interposition \u2014 which relates to the 'hollow atonement' discussion of what constitutes proper vs. deficient semichah, not the tenufah parallel topic.",
+      "chosen_heading": "Hollow Atonement",
+      "current_heading": "Tenufah Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Tenufah Parallel",
+    "candidates": [
+      "Tenufah Parallel",
+      "On Head",
+      "Sides Query",
+      "Both Hands",
+      "R. Elazar Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage derives the requirement of two hands from Reish Lakish's drasha on the Yom Kippur verse, which is precisely the content described in the 'Both Hands' prose section that introduces the derivation before the Rabbi Elazar story.",
+      "chosen_heading": "Both Hands",
+      "current_heading": "Tenufah Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154,
+      155,
+      156,
+      157
+    ],
+    "current_heading": "R. Elazar Story",
+    "candidates": [
+      "On Head",
+      "Sides Query",
+      "Both Hands",
+      "R. Elazar Story",
+      "Location & Timing",
+      "Reish Lakish's Derivation: Yado in Singular Context of Semichah Means Two Hands",
+      "The Story of Rabbi Elazar: Taking Credit Without Attribution",
+      "Reish Lakish's Challenge: Why Does Torah Ever Use Yadav in Plural?",
+      "Resolution: The Drasha Applies Only to Semichah on Animals, Not Universally",
+      "Semichah Shechita",
+      "The Mishnah's Statement: Semichah Happens Where Shechita Happens",
+      "Immediate Succession: Shechita Follows Immediately After Semichah",
+      "The Meaning: The Relationship Defined Through Semichah Immediately Translates to Offering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "R. Elazar Story",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous narrative about Rabbi Elazar's failure to attribute the teaching, Reish Lakish's challenge, and the resolution narrowing the drasha to semichah on animals \u2014 all covered comprehensively in the 'R. Elazar Story' prose.",
+      "second_heading": "Semichah Shechita",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces the Mishnah's statement about semichah and shechita occurring in the same location, which is a new Mishnaic topic belonging under the 'Semichah Shechita' heading.",
+      "current_heading": "R. Elazar Story",
+      "moved": true
+    }
+  }
+]

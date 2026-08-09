@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Filled Ditches",
+    "candidates": [
+      "Ditch Intro",
+      "Filled Ditches",
+      "Plank Across",
+      "Balconies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers both the basic ditch dimensions and the filled-ditch rules in a single passage, but the prose of 'Ditch Intro' (index 0) explicitly quotes and explains the full mishna including the me'arvin shtayim/achat rule, while 'Filled Ditches' (index 1) is meant to comment on that content \u2014 the mishna itself belongs under the introductory heading that presents it.",
+      "chosen_heading": "Ditch Intro",
+      "current_heading": "Filled Ditches",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Balconies",
+    "candidates": [
+      "Plank Across",
+      "Balconies",
+      "Straw Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the plank (neser) of four tefachim and the balconies case together as a unified mishna unit, matching the 'Plank Across' section's prose which discusses both the four-tefach plank requirement and the me'arvin shtayim/achat options, while the 'Balconies' section's prose discusses Rashi/Tosafot interpretations of the balconies clause \u2014 commentary analysis rather than the base mishna text itself.",
+      "chosen_heading": "Plank Across",
+      "current_heading": "Balconies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Straw Analysis",
+    "candidates": [
+      "Balconies",
+      "Straw Analysis",
+      "Dirt & Rocks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's challenge from the haystack mishna and Abaye's resolution distinguishing mechitza from chatzitza/bitul \u2014 are precisely what the 'Straw Analysis' prose describes, making this the clear correct placement.",
+      "chosen_heading": "Straw Analysis",
+      "current_heading": "Straw Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Dirt & Rocks",
+    "candidates": [
+      "Dirt & Rocks",
+      "Rabbi Yose View",
+      "Tumah/Shabbat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Dirt & Rocks",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the contradiction from Oholot and Rav Huna's initial attribution, which matches the 'Dirt & Rocks' prose that discusses exactly this contradiction and the implication that bitul is required.",
+      "second_heading": "Rabbi Yose View",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present the baraita articulating Rabbi Yose's actual position (intent as the decisive variable) and Rav Asi's correction of the attribution, which matches precisely the 'Rabbi Yose View' prose describing this three-way matrix and Rav Asi's reassignment.",
+      "current_heading": "Dirt & Rocks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Tumah/Shabbat",
+    "candidates": [
+      "Rabbi Yose View",
+      "Tumah/Shabbat",
+      "House vs Ditch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Huna son of Rav Yehoshua's argument that tumah and Shabbat are different halachic categories, explaining that on Shabbat even a wallet/pouch is nullified \u2014 exactly what the 'Tumah/Shabbat' prose section describes.",
+      "chosen_heading": "Tumah/Shabbat",
+      "current_heading": "Tumah/Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "House vs Ditch",
+    "candidates": [
+      "House vs Ditch",
+      "Rava Plank",
+      "Gap Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Ashi's contrast between a house and a ditch regarding whether each 'stands to be filled,' which is precisely what the 'House vs Ditch' section's prose describes.",
+      "chosen_heading": "House vs Ditch",
+      "current_heading": "House vs Ditch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Gap Options",
+    "candidates": [
+      "Rava Plank",
+      "Gap Options",
+      "Opposition/Height",
+      "Three Tefach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's teaching about the plank laid along its width versus length, which is exactly what the 'Rava Plank' prose describes, not the 'Gap Options' prose which is secondary analysis of consequences.",
+      "chosen_heading": "Rava Plank",
+      "current_heading": "Gap Options",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Three Tefach",
+    "candidates": [
+      "Opposition/Height",
+      "Three Tefach",
+      "Wall Specs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the opposition/height conditions and the three-tefach lavud principle, but its primary and concluding content\u2014the gezustra akuma ruling and the lavud principle when the gap is less than three tefachim\u2014matches precisely the 'Three Tefach' section's prose, which is also the current placement.",
+      "chosen_heading": "Three Tefach",
+      "current_heading": "Three Tefach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Wall Specs",
+    "candidates": [
+      "Wall Specs",
+      "Rav Huna Restrict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna describes the haystack as a partition between two courtyards and the rules for establishing one or two eiruvin based on its height, which is precisely what the 'Wall Specs' prose discusses \u2014 the matben serving as a wall, its height requirement of ten tefachim, and the consequence of the hay being reduced below that height.",
+      "chosen_heading": "Wall Specs",
+      "current_heading": "Wall Specs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav Huna Restrict",
+    "candidates": [
+      "Rav Huna Restrict",
+      "Animals Feed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's ruling about not filling a basket from the straw wall, which is precisely what the 'Rav Huna Restrict' section's prose discusses.",
+      "chosen_heading": "Rav Huna Restrict",
+      "current_heading": "Rav Huna Restrict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Animals Feed",
+    "candidates": [
+      "Animals Feed",
+      "Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Animals Feed' section's prose, which explicitly discusses Rav Huna's ruling about standing animals near muktzeh and the resolution involving 'de-kaim lei be-apa ve-azla ve-achla' \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Animals Feed",
+      "current_heading": "Animals Feed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Baraita",
+    "candidates": [
+      "Baraita",
+      "Collapse Problem",
+      "Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita that contradicts Rav Huna's restriction and introduces the basket-filling scenario and the ten-handbreadth rule, which is precisely what the prose under heading 0 ('Baraita') describes.",
+      "chosen_heading": "Baraita",
+      "current_heading": "Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Solutions",
+    "candidates": [
+      "Collapse Problem",
+      "Solutions",
+      "House Interior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the act of locking one's house and performing bitul reshut as a remedy, which is precisely what the 'Solutions' section's prose discusses \u2014 no'el beiso u-mevatel reshuto as the baraita's proposed remedy.",
+      "chosen_heading": "Solutions",
+      "current_heading": "Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "House Interior",
+    "candidates": [
+      "House Interior",
+      "Lock vs Bitul",
+      "Rashi/Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items are the continuous gemara discussion about the straw-filled house/pit partition \u2014 the gov of hay between Shabbat limits, the ceiling visibility argument, the mechitza-reaching-ceiling question, Abaye's and Rav Huna b. Rav Yehoshua's resolutions, and the final question about residents arriving on Shabbat \u2014 all of which are explicitly discussed in the 'House Interior' prose.",
+      "chosen_heading": "House Interior",
+      "current_heading": "House Interior",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Rashi/Tosafot",
+    "candidates": [
+      "Lock vs Bitul",
+      "Rashi/Tosafot",
+      "Grain Pile",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the lock vs. bitul question \u2014 whether one or both remedies are required, and the ruling that one may not perform bitul back-and-forth \u2014 which is precisely what the 'Lock vs Bitul' prose describes, not the Rashi/Tosafot commentary section where it currently sits.",
+      "chosen_heading": "Lock vs Bitul",
+      "current_heading": "Rashi/Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Grain Pile",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the Gemara's question of why the ruling about hay between Shabbat limits needs to be stated, answering that it is necessary according to Rabbi Akiva who holds techumim is biblical law, and that no gezeira is imposed \u2014 which matches exactly the prose under 'Rabbi Akiva'.",
+      "chosen_heading": "Rabbi Akiva",
+      "current_heading": "Rabbi Akiva",
+      "moved": false
+    }
+  }
+]

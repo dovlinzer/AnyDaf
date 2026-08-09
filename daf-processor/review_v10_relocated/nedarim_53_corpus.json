@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Wine, Oil, Honey",
+    "candidates": [
+      "Intro & Schedule",
+      "Wine, Oil, Honey",
+      "Tapuach & Charoset",
+      "Usage vs. Definition",
+      "Vinegar & Sour Foods",
+      "Leeks & Plants",
+      "Field vs. Garden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna listing wine/apple wine, oil/sesame oil, and honey/date honey exclusions, which is precisely what the 'Wine, Oil, Honey' section prose describes and discusses.",
+      "chosen_heading": "Wine, Oil, Honey",
+      "current_heading": "Wine, Oil, Honey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Field vs. Garden",
+    "candidates": [
+      "Tapuach & Charoset",
+      "Usage vs. Definition",
+      "Vinegar & Sour Foods",
+      "Leeks & Plants",
+      "Field vs. Garden",
+      "Oil in EY & Bavel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers all three topics \u2014 vinegar/chometz, leeks/krishim, and field vegetables/yerek \u2014 which correspond to headings 2, 3, and 4, but since heading 4's prose explicitly discusses the yerek/field vegetables ruling and the shem levai concept that concludes the mishnah passage, and the current placement is heading 4, this is the correct home for the unified mishnah text.",
+      "chosen_heading": "Field vs. Garden",
+      "current_heading": "Field vs. Garden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Oil in EY & Bavel",
+    "candidates": [
+      "Oil in EY & Bavel",
+      "Mixed Locales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the baraita's ruling about oil vows in Eretz Yisrael vs. Babylonia, which is exactly what candidate 0's prose discusses, including the geographic distinctions and the tanya introduction.",
+      "chosen_heading": "Oil in EY & Bavel",
+      "current_heading": "Oil in EY & Bavel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mixed Locales",
+    "candidates": [
+      "Mixed Locales",
+      "Safek Deoraita",
+      "Speech & Authority",
+      "Shemita Distinction",
+      "Imports & Abbahu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question of 'isn't it obvious' (pshita) and the answer about following the majority oil usage with the ruling of safek issura l'chumra, which is precisely what the 'Mixed Locales' prose describes.",
+      "chosen_heading": "Mixed Locales",
+      "current_heading": "Mixed Locales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Imports & Abbahu",
+    "candidates": [
+      "Safek Deoraita",
+      "Speech & Authority",
+      "Shemita Distinction",
+      "Imports & Abbahu",
+      "Kedushat Shvi'it",
+      "Tumat Met & Soil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the Shemita distinction ruling (hanoder min ha-yerek during shemita vs. ordinary years), and the Rabbi Abbahu qualification about imports is the direct continuation of that same mishnah/baraita passage \u2014 the 'Shemita Distinction' prose explicitly introduces this very text including the reversal ruling and raises the question about when the vow was taken, making it the natural home for both items, while 'Imports & Abbahu' prose already summarizes Rabbi Abbahu's ruling in its own words (meaning the quoted text would be redundant there).",
+      "chosen_heading": "Shemita Distinction",
+      "current_heading": "Imports & Abbahu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Tumat Met & Soil",
+    "candidates": [
+      "Kedushat Shvi'it",
+      "Tumat Met & Soil",
+      "Cabbage & Asparagus",
+      "Etymology & Modern",
+      "Grits & Mikpeh",
+      "Garlic & Mikpeh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition on bringing vegetables from outside Eretz Yisrael due to clods of impure soil (tumat eretz ha'amim), which is precisely what the 'Tumat Met & Soil' section's prose addresses.",
+      "chosen_heading": "Tumat Met & Soil",
+      "current_heading": "Tumat Met & Soil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Garlic & Mikpeh",
+    "candidates": [
+      "Cabbage & Asparagus",
+      "Etymology & Modern",
+      "Grits & Mikpeh",
+      "Garlic & Mikpeh",
+      "Lentils & Bread"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cabbage & Asparagus",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the cabbage/isparagus Mishna case, which matches perfectly with the 'Cabbage & Asparagus' prose discussing exactly that keruv/isparagus vow rule.",
+      "second_heading": "Grits & Mikpeh",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the pounded beans (grisin), mikpeh, and garlic vow cases, which align with the 'Grits & Mikpeh' prose discussing grisin and mikpeh \u2014 the garlic/mikpeh portion then continues into heading 3, but the Mishna text as a unit starts with grisin, matching heading 2 as the opening of this sequence.",
+      "current_heading": "Garlic & Mikpeh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Lentils & Bread",
+    "candidates": [
+      "Garlic & Mikpeh",
+      "Lentils & Bread",
+      "Wheat Singular/Plural"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses lentils (adashim) and ashishim, which is precisely what the 'Lentils & Bread' section's prose addresses, including Rabbi Yose's opinion and the asymmetry between vowing against lentils vs. ashishim.",
+      "chosen_heading": "Lentils & Bread",
+      "current_heading": "Lentils & Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Wheat Singular/Plural",
+    "candidates": [
+      "Wheat Singular/Plural",
+      "Mishna Methods",
+      "Gourds & Yerek",
+      "Shaliach Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the singular/plural distinctions for wheat (chita/chitin) and pounded beans (gris/grisin) in vows, which is precisely the content described in the 'Wheat Singular/Plural' prose section, including the baraita of Rabbi Shimon ben Gamliel and the gris parallel cases.",
+      "chosen_heading": "Wheat Singular/Plural",
+      "current_heading": "Wheat Singular/Plural",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Shaliach Test",
+    "candidates": [
+      "Mishna Methods",
+      "Gourds & Yerek",
+      "Shaliach Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the 'hadran' (closing formula) for the chapter 'ha-noder min ha-mevushal,' which the prose under 'Gourds & Yerek' explicitly references as the transition into the seventh perek beginning with 'ha-noder min ha-yerek.'",
+      "chosen_heading": "Gourds & Yerek",
+      "current_heading": "Shaliach Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shaliach Test",
+    "candidates": [
+      "Shaliach Test",
+      "Legumes & Merchants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's core debate including Rabbi Akiva's prohibition and the Rabbis' shaliach argument, which is exactly what the 'Shaliach Test' section's prose discusses \u2014 the messenger scenario where the agent returns saying he found only gourds, not vegetables.",
+      "chosen_heading": "Shaliach Test",
+      "current_heading": "Shaliach Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Legumes & Merchants",
+    "candidates": [
+      "Legumes & Merchants",
+      "Kitniyot Category",
+      "Ful Hamitzri",
+      "Yarkei Kedeira",
+      "Cooked in Pot",
+      "Messenger Test",
+      "Shaliach Extension",
+      "Shlucho Kemoso"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage concludes with 'assur b'ful ha-mitzri lach u'mutar b'yavesh' \u2014 the fresh/dry cowpea distinction \u2014 which is precisely what the 'Ful Hamitzri' section's prose discusses, and while it also mentions the gourds/legumes distinction, the ending content about ful ha-mitzri matches that section far better than the current 'Legumes & Merchants' heading.",
+      "chosen_heading": "Ful Hamitzri",
+      "current_heading": "Legumes & Merchants",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Meir: Terumah Loss",
+    "candidates": [
+      "Shtar Shichrur & Get",
+      "Chachamim Position",
+      "Rabbi Meir: Terumah Loss",
+      "No Feeding Obligation",
+      "Terumah Independent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage records the baraita exchange where Rabbi Meir argues that emancipation is a detriment because it disqualifies a kohen's slave from terumah, and the chachamim respond about the feeding obligation \u2014 precisely the content described in the 'Rabbi Meir: Terumah Loss' section's prose.",
+      "chosen_heading": "Rabbi Meir: Terumah Loss",
+      "current_heading": "Rabbi Meir: Terumah Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Terumah Independent",
+    "candidates": [
+      "No Feeding Obligation",
+      "Terumah Independent",
+      "Master Can Sell",
+      "Sexual Freedom Loss"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Terumah Independent",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 all belong to the 'Terumah Independent' section, covering Rabbi Meir's terumah argument (fled slave/rebellious wife comparison), the gemara's reconstruction of the dispute, the runaway-slave counter, and the restatement of the terumah proof \u2014 exactly what that section's prose describes.",
+      "second_heading": "Master Can Sell",
+      "second_confidence": "high",
+      "second_reason": "Item 5 \u2014 Rava's answer that the master can sell the slave for four dinars and disqualify him anywhere \u2014 is precisely what the 'Master Can Sell' section's prose describes as the chachamim's rejoinder to Rabbi Meir's terumah argument.",
+      "current_heading": "Terumah Independent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Sexual Freedom Loss",
+    "candidates": [
+      "Master Can Sell",
+      "Sexual Freedom Loss",
+      "Slave Preference",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sexual Freedom Loss",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shmuel bar Rav Yitzchak's answer about losing access to a Canaanite maidservant and the immediate challenge 'on the contrary,' which matches exactly the prose of 'Sexual Freedom Loss' describing mipnei she-mafsido mi-shifcha kena'anit and the adaraba objection.",
+      "second_heading": "Slave Preference",
+      "second_confidence": "high",
+      "second_reason": "Item 2 provides the gemara's answer that a slave prefers a life of hefkera (avda b'hefkera nicha lei) with the three descriptors zila/shchicha/pritza, which matches exactly the 'Slave Preference' prose discussing avda b'hefkera nicha lei and Rashi's elaboration.",
+      "current_heading": "Sexual Freedom Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Slave Preference",
+      "Mishnah Cases",
+      "Rav Yitzchak: Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself, and the prose under 'Mishnah Cases' directly quotes and explains this exact mishnah about giving a get/shtar shichrur versus money after death.",
+      "chosen_heading": "Mishnah Cases",
+      "current_heading": "Mishnah Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Yitzchak: Conditions",
+    "candidates": [
+      "Rav Yitzchak: Conditions",
+      "Healthy vs. Deathbed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yitzchak bar Shmuel bar Marta's ruling about the money being piled in a corner, which is exactly what the prose under 'Rav Yitzchak: Conditions' discusses.",
+      "chosen_heading": "Rav Yitzchak: Conditions",
+      "current_heading": "Rav Yitzchak: Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Healthy vs. Deathbed",
+    "candidates": [
+      "Healthy vs. Deathbed",
+      "Shchiv Mei'ra Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses and explores the bari vs. shchiv mei'ra question and the logical paradox of why tzburim u-munachim matters, which is precisely what the 'Healthy vs. Deathbed' section's prose discusses.",
+      "chosen_heading": "Healthy vs. Deathbed",
+      "current_heading": "Healthy vs. Deathbed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Shchiv Mei'ra Effect",
+    "candidates": [
+      "Shchiv Mei'ra Effect",
+      "Rav Pappa Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Zevid stating the mishna deals with a healthy person via Rav Huna's ruling on maamad shloshtan (maneh li b'yadcha tenehu l'ploni b'maamad shloshtan kanah), which is precisely the mechanism discussed in the 'Shchiv Mei'ra Effect' prose section attributed to Rav Ashi \u2014 the content matches that section's detailed explanation of maamad shloshtan.",
+      "chosen_heading": "Shchiv Mei'ra Effect",
+      "current_heading": "Shchiv Mei'ra Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Rav Pappa Alternative",
+    "candidates": [
+      "Rav Pappa Alternative",
+      "Buried Money Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Pappa's alternative reading and its halakhic conclusion, which is precisely what the 'Rav Pappa Alternative' prose section describes in detail, including the buried money concern and the final ruling that we do not maintain that concern.",
+      "chosen_heading": "Rav Pappa Alternative",
+      "current_heading": "Rav Pappa Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Buried Money Issue",
+    "candidates": [
+      "Buried Money Issue",
+      "Rav Zevid Objection",
+      "Write vs. Give"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains Rav Pappa's reasoning that Rav's rule applies equally to loans and deposits, which directly supports the 'Buried Money Issue' section's discussion of why Rav Pappa requires tzburim u-munachim (piled money) due to the buried money concern rather than as a mechanism of transfer.",
+      "chosen_heading": "Buried Money Issue",
+      "current_heading": "Buried Money Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Write vs. Give",
+    "candidates": [
+      "Rav Zevid Objection",
+      "Write vs. Give",
+      "Rav Huna Transfer",
+      "Pikadon vs. Debt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous argument about why Rav Zevid rejects Rav Pappa's reading \u2014 the mishna cannot refer to a shchiv mei'ra because of the tenu/kisvu distinction, supported by the mishna about chains/caravan/Rabbi Shimon Shezuri, and concluded by Rav Ashi's objection \u2014 exactly matching the 'Rav Zevid Objection' prose, not the 'Write vs. Give' section which covers only Rav Ashi's challenge and its implications.",
+      "chosen_heading": "Rav Zevid Objection",
+      "current_heading": "Write vs. Give",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Pikadon vs. Debt",
+    "candidates": [
+      "Rav Huna Transfer",
+      "Pikadon vs. Debt",
+      "Milveh Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly what Candidate 1's prose describes: Rava's reasoning that Rav's ruling makes sense for a pikadon (deposit) but not for a milveh (loan), which is the specific content of 'Pikadon vs. Debt' where it currently sits.",
+      "chosen_heading": "Pikadon vs. Debt",
+      "current_heading": "Pikadon vs. Debt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Milveh Application",
+    "candidates": [
+      "Milveh Application",
+      "Implicit Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's ruling that maamad shloshtan applies even to a loan (milveh) and Shmuel/Levi's corroborating statement, which is precisely what the 'Milveh Application' prose describes.",
+      "chosen_heading": "Milveh Application",
+      "current_heading": "Milveh Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Implicit Agreement",
+    "candidates": [
+      "Implicit Agreement",
+      "Future Designees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Ameimar's explanation of the rationale (v'ta'ama mai) behind maamad shloshtan for loans, which is precisely what the 'Implicit Agreement' section's prose describes and analyzes.",
+      "chosen_heading": "Implicit Agreement",
+      "current_heading": "Implicit Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Future Designees",
+    "candidates": [
+      "Future Designees",
+      "New Obligation",
+      "Undesirable Parties",
+      "Rabbinical Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's challenge to Ameimar about transferring to those not yet born, and the elaboration about Rabbi Meir's position \u2014 exactly what the 'Future Designees' prose describes in detail.",
+      "chosen_heading": "Future Designees",
+      "current_heading": "Future Designees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rabbinical Decree",
+    "candidates": [
+      "New Obligation",
+      "Undesirable Parties",
+      "Rabbinical Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-4 form a continuous exchange: Rav Ashi's reformulation (items 1-2) is immediately challenged by Huna Mar regarding the Bar Elyashiv household (item 3), followed by the 'natata devarekha le-shiyurin' objection (item 4) \u2014 all of which is precisely what candidate 1 ('Undesirable Parties') describes in its prose.",
+      "chosen_heading": "Undesirable Parties",
+      "current_heading": "Rabbinical Decree",
+      "moved": true
+    }
+  }
+]

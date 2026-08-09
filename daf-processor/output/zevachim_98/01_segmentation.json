@@ -29,7 +29,7 @@
           "timestamp": "04:05"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -135,7 +135,7 @@
           "timestamp": "31:17"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -164,7 +164,7 @@
           "timestamp": "34:10"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": false
     },
     {
@@ -193,7 +193,7 @@
           "timestamp": "38:51"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": false
     }
   ],
@@ -420,5 +420,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "15:41",
+  "amud_b_micro_title": "Blood Layering",
+  "shiur_start_daf": 98,
+  "shiur_start_amud": "a"
 }

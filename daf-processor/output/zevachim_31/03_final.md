@@ -1,12 +1,12 @@
-# Zevachim 31 — Daf Yomi Shiur
+[DAF:31a]
+## Piggul & Intervening
 
-## Piggul w/ Intervening Th…
+
 
 ### Half-portions Case
 
 > **Hebrew/Aramaic:** אִיתְּמַר: חֲצִי זַיִת חוּץ לִזְמַנּוֹ, חֲצִי זַיִת חוּץ לִמְקוֹמוֹ, וַחֲצִי זַיִת חוּץ לִזְמַנּוֹ – אָמַר רָבָא: ״וַיִּקַץ כְּיָשֵׁן״ הַפִּיגּוּל. וְרַב הַמְנוּנָא אָמַר: עֵירוּב מַחְשָׁבוֹת הָוֵי.
->
-> **Translation:** **It was stated:** If one had intent to eat **half an olive-**bulk **beyond its** designated **time, half an olive-**bulk **outside its** designated **area, and** another **half an olive-**bulk **beyond its** designated **time, Rava says:** In such a case, **the *piggul***: **"Awaked as one asleep"** (Psalms 78:65), i.e., since one had intent to consume two halves of an olive-bulk beyond their designated time, these intentions are joined together. The middle thought is disregarded, since it constitutes only half the requisite measure, and the offering is rendered *piggul*. **And Rav Hamnuna says: It constitutes a combination of** improper **intentions.** The middle thought, although itself insufficient to disqualify the offering, is sufficient to interfere with the intention to consume it beyond its time, and the offering is not rendered *piggul*.
+> **Translation:** § **It was stated:** If one had intent to eat **half an olive-**bulk **beyond its** designated **time, half an olive-**bulk **outside its** designated **area, and** another **half an olive-**bulk **beyond its** designated **time, Rava says:** In such a case, **the *piggul***: **“Awaked as one asleep”** (Psalms 78:65), i.e., since one had intent to consume two halves of an olive-bulk beyond their designated time, these intentions are joined together. The middle thought is disregarded, since it constitutes only half the requisite measure, and the offering is rendered *piggul*. **And Rav Hamnuna says: It constitutes a combination of** improper **intentions.** The middle thought, although itself insufficient to disqualify the offering, is sufficient to interfere with the intention to consume it beyond its time, and the offering is not rendered *piggul*.
 
 The daf opens three lines down from the top, continuing the discussion of *piggul* thoughts and the effect of an intervening thought of *chutz l'mkomo*. As a brief orientation: the position of the *Rabbanan* is that any extraneous invalid thought interjected during the sacrificial service prevents the offering from becoming *piggul*. Rabbi Yehuda disagreed, holding that once *piggul* has taken effect, a subsequent bad thought cannot undo it — but if the bad thought came first, the offering is invalidated before *piggul* can form, and the later *chutz l'zmano* thought is therefore inoperative. With that context, the Gemara introduces the following case.
 
@@ -28,11 +28,7 @@ Rashi invokes a closely related phrase — *chozer v'nei'or*, "it wakes up again
 
 Tosafot, however, flags an important disanalogy. In the physical case, at the moment the second half-unit is added, both halves are *physically present simultaneously* — there is an actual full unit of forbidden substance co-existing in the mixture at one moment in time. In the case of *piggul*, we are dealing with thoughts that existed sequentially and have passed. There is no moment at which a full *k'zayis* of *piggul* thought exists simultaneously in any coherent sense. These are distinct mental acts distributed across time, not physical quantities occupying space together. Tosafot therefore regards Rava's analogy as illuminating but imperfect, and maintains that in the domain of thought, one should not so readily say the *piggul* "wakes up."
 
-### Rav Hamnuna: Erev M'chav…
-
-> **Hebrew/Aramaic:** וְרַב הַמְנוּנָא אָמַר: עֵירוּב מַחְשָׁבוֹת הָוֵי.
->
-> **Translation:** **And Rav Hamnuna says: It constitutes a combination of** improper **intentions.**
+### Rav Hamnuna: Machshavos
 
 Rav Hamnuna takes the opposing position: *erev machshavos havei* — the thought of *chutz limkomo* constitutes an *erev machshavos*, an extraneous thought that invalidates the sequence, and the offering remains *pasul* rather than becoming *piggul*. His reasoning, it may be presumed, turns on the fact that by the time the third thought arrives, the *korban* has already become *pasul* through the combination of the first two half-thoughts, and once *pasul*, it cannot be reconstituted as *piggul*.
 
@@ -42,11 +38,16 @@ One might ask: what if the intervening thought had been only a quarter-*k'zayis*
 
 ## Tumah Analogy
 
+
+
 ### Rava's Tumah Proof
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: מְנָא אָמֵינָא לַהּ? דִּתְנַן: כְּבֵיצָה אוֹכֶל רִאשׁוֹן וּכְבֵיצָה אוֹכֶל שֵׁנִי שֶׁבְּלָלָן זֶה בָּזֶה – רִאשׁוֹן. חִלְּקָן – זֶה שֵׁנִי וְזֶה שֵׁנִי. הָא חָזַר וְעֵירְבָן – רִאשׁוֹן הָוֵי.
->
 > **Translation:** **Rava said: From where,** i.e., based on what, **do I state** my ruling? **As we learned** in a mishna (*Teharot* 1:5): **An egg-bulk of food** with **first-**degree impurity **and an egg-bulk of food** with second-degree impurity **that one mixed together** are collectively considered to have **first-**degree impurity. If one **separated them** into two portions, each containing a homogenous mixture, **this** portion is considered to have **second-**degree impurity **and that** portion is considered to have **second-**degree impurity. Since neither of them contains the requisite amount of food with first-degree impurity, each mixture settles to the lower level of impurity between the two foods. Rava reasoned: **But** if one **mixed them again,** they revert to **be** of **first-**degree impurity.
+
+> **Hebrew/Aramaic:** מִמַּאי? מִדְּקָתָנֵי סֵיפָא: נָפֵל זֶה בְּעַצְמוֹ וְזֶה בְּעַצְמוֹ עַל כִּכָּר שֶׁל תְּרוּמָה – פְּסָלוּהָ. נָפְלוּ שְׁנֵיהֶן כְּאַחַת – עֲשָׂאוּהָ שְׁנִיָּה.
+> **Translation:** **From where** do I know this? **From** the fact **that the latter clause** of that mishna **teaches:** If **this** portion **fell by itself and that** portion fell **by itself onto a loaf of *teruma*, it disqualifies it,** as would any food with second-degree impurity. But it does not render it impure, since only foods with first-degree impurity impart impurity to other foods. But if **they both fell simultaneously** onto the loaf, **they render it** a food with **second**-degree impurity. Evidently, although the first-degree impurity lay dormant for lack of a requisite measure, it resurfaces when the rest of the measure is added, despite the fact that each portion was previously considered to have second-degree impurity. The *halakha* would be the same in the case of intent to consume the offering beyond its designated time, i.e., the intent to consume half an olive-bulk outside its area does not interfere with the intent of *piggul*.
+
 
 Rava now seeks a proof for his position from a *Mishnah* in the laws of *tumah*. The *Mishnah* states: *kebeitzah ochel rishon u'kebeitzah ochel sheni* — a *kebeitzah*-worth of food that is a *rishon l'tumah* and a *kebeitzah*-worth of food that is a *sheni l'tumah*. To set up the scenario concretely: imagine one lump of dough that came into contact with a *neveilah* — it is now a *rishon l'tumah*, first degree of contamination. A separate lump of dough touched the first lump and is now a *sheni l'tumah*, second degree of contamination.
 
@@ -62,9 +63,11 @@ Tosafot's objection, noted above, applies here again: in the *tumah* case, at th
 
 ### Rashi: Full Measure Start
 
-> **Hebrew/Aramaic:** אָמַר רַב הַמְנוּנָא: מְנָא אָמֵינָא לַהּ? דִּתְנַן: הָאוֹכֶל שֶׁנִּטְמָא בְּאַב הַטּוּמְאָה, וְשֶׁנִּטְמָא בִּוְלַד הַטּוּמְאָה – מִצְטָרְפִין זֶה עִם זֶה לְטַמֵּא בַּקַּל שֶׁבִּשְׁנֵיהֶם.
->
-> **Translation:** **Rav Hamnuna said: From where do I say** my opinion? **As we learned** in another mishna (*Me'ila* 17b): **The food that became ritually impure** through contact **with a primary source of ritual impurity,** thereby assuming first-degree impurity, **and** the food **that became ritually impure** through contact **with a derivative source of ritual impurity,** thereby assuming second-degree impurity, **join together** to constitute the requisite measure of an egg-bulk **to impart impurity in accordance with the** more **lenient of the two,** i.e., as a food of second-degree impurity.
+> **Hebrew/Aramaic:** וְרַב הַמְנוּנָא אָמַר: הָתָם אִיכָּא שִׁיעוּרָא, הָכָא לֵיכָּא שִׁיעוּרָא.
+> **Translation:** **And Rav Hamnuna says:** The cases are different. **There,** in the case of ritual impurity, **there is** a requisite **measure** present at the outset, which is divided and then recombined. **Here,** in the case of the offering, **there is no** requisite **measure** present at the outset to render it *piggul*.
+
+> **Hebrew/Aramaic:** אָמַר רַב הַמְנוּנָא: מְנָא אָמֵינָא לַהּ? דִּתְנַן: הָאוֹכֶל שֶׁנִּטְמָא בְּאַב הַטּוּמְאָה, וְשֶׁנִּטְמָא בִּוְלַד הַטּוּמְאָה – מִצְטָרְפִין זֶה עִם זֶה לְטַמֵּא בַּקַּל שֶׁבִּשְׁנֵיהֶם. מַאי, לָאו אַף עַל גַּב דַּהֲדַר מַלְּיֵיהּ?
+> **Translation:** **Rav Hamnuna said: From where do I say** my opinion? **As we learned** in another mishna (*Me’ila* 17b): **The food that became ritually impure** through contact **with a primary source of ritual impurity,** thereby assuming first-degree impurity, **and** the food **that became ritually impure** through contact **with a derivative source of ritual impurity,** thereby assuming second-degree impurity, **join together** to constitute the requisite measure of an egg-bulk **to impart impurity in accordance with the** more **lenient of the two,** i.e., as a food of second-degree impurity. **What, is it not** that they retain second-degree impurity **even if one makes up** the requisite measure **again?** If so, it can be inferred that the first-degree impurity is lost, and it does not lie dormant or resurface. Here as well, the latter intent of *piggul* cannot restore the initial intent of *piggul*, as the intent to consume half an olive-bulk outside its area interfered.
 
 The Gemara now records Rav Hamnuna's rebuttal: *hatam ika shiura, hacha leka shiura* — "there a *shiur* is present, here no *shiur* is present." But what exactly does this mean?
 
@@ -72,13 +75,13 @@ Rashi explains the distinction as follows: in the *tumah* case, *before* any mix
 
 ### Tosafot: Tight Bonding
 
+
 Tosafot offers a different reading. The phrase *leka shiura* does not mean that the *rishon* started at a full measure; rather, it refers to the *sheni l'tumah* present in the mixed dough. Because the *rishon* component is incomplete — only a half-*kebeitzah* — it bonds more tightly with whatever it is mixed with. Incompleteness creates a stronger attachment. In the *piggul* scenario, by analogy, the half-thought of *chutz limkomo* that falls between the two *chutz lizmano* thoughts forms a tight bond with the adjacent half-thought, making it harder for the *chutz lizmano* thoughts to reassert themselves and combine over that intervening thought. In the *tumah* case, the *rishon* component, when present at a full *kebeitzah*, does not need the *sheni* to complete it, and so the bond between them is weaker — allowing the *rishon* to separate out and reconstitute itself when the two halves are reunited. Tosafot thus focuses on the bonding dynamics of the intermediate component rather than the starting quantity of the dominant component.
 
 ### Rav Hamnuna: No Shiur
 
-> **Hebrew/Aramaic:** מַאי, לָאו אַף עַל גַּב דַּהֲדַר מַלְּיֵיהּ?
->
-> **Translation:** **What, is it not** that they retain second-degree impurity **even if one makes up** the requisite measure **again?**
+> **Hebrew/Aramaic:** דִּלְמָא דְּלָא הֲדַר מַלְּיֵיהּ!
+> **Translation:** The Gemara responds: **Perhaps** the mishna is referring specifically to a case **where one does not complete** the requisite measure **again.**
 
 Rav Hamnuna himself brings a counter-proof from a parallel *Mishnah*: *ha'ochel she'nitma b'av hatumah* — food that became *tamei* through an *av hatumah* (such as a *neveilah*), rendering it a *rishon*, *v'shenitma b'vlad hatumah*, and food that became *tamei* through a derivative of *tumah* (a *rishon*), rendering it a *sheni* — *mitztarfin zeh im zeh l'tamei b'kala shebishneihem*, these combine to operate at the lower of the two levels, that of a *sheni*. This is the same basic scenario but now the two components start as halves from the outset — you never had a full *kebeitzah* of either *rishon* or *sheni* separately. You have half a *kebeitzah* of *rishon* and half a *kebeitzah* of *sheni*.
 
@@ -90,11 +93,10 @@ The Gemara pushes back: *lo dilma delo hadar malyei* — perhaps the *Mishnah* o
 
 ## Half-portions Debate
 
+
+
 ### Rav Dimi's Case
 
-> **Hebrew/Aramaic:** כִּי אֲתָא רַב דִּימִי אָמַר: חֲצִי זַיִת חוּץ לִמְקוֹמוֹ, וַחֲצִי זַיִת חוּץ לִזְמַנּוֹ, וַחֲצִי זַיִת חוּץ לִזְמַנּוֹ – תָּנֵי בַּר קַפָּרָא: פִּיגּוּל; אֵין חֲצִי זַיִת מוֹעִיל בִּמְקוֹם כְּזַיִת.
->
-> **Translation:** **When Rav Dimi came** from Eretz Yisrael, **he said:** If one had intent to eat **half an olive-bulk outside its** designated **area, and half an olive-bulk beyond its** designated **time, and** then another **half an olive-bulk beyond its** designated **time, bar Kappara teaches** that the offering is rendered ***piggul*,** since the **half an olive-bulk** with regard to the area **is not effective** to interfere **where** the intent with regard to the time concerns a whole **olive-bulk.**
 
 When Rav Dimi came from Eretz Yisrael, he formulated a related case. His case is: *chatzi zayis chutz limkomo, v'chatzi zayis chutz lizmano, v'chatzi zayis chutz lizmano* — first half a *k'zayis chutz limkomo*, then half a *k'zayis chutz lizmano*, then another half a *k'zayis chutz lizmano*. Rav Dimi states that this case is obviously *pasul* but not *piggul*.
 
@@ -102,16 +104,14 @@ His point is that the novelty he is presenting is not this case — which all wo
 
 ### Bar Kappara Position
 
-> **Hebrew/Aramaic:** תָּנֵי בַּר קַפָּרָא: פִּיגּוּל; אֵין חֲצִי זַיִת מוֹעִיל בִּמְקוֹם כְּזַיִת.
->
-> **Translation:** bar Kappara teaches that the offering is rendered ***piggul*,** since the **half an olive-bulk** with regard to the area **is not effective** to interfere **where** the intent with regard to the time concerns a whole **olive-bulk.**
+> **Hebrew/Aramaic:** כִּי אֲתָא רַב דִּימִי אָמַר: חֲצִי זַיִת חוּץ לִמְקוֹמוֹ, וַחֲצִי זַיִת חוּץ לִזְמַנּוֹ, וַחֲצִי זַיִת חוּץ לִזְמַנּוֹ – תָּנֵי בַּר קַפָּרָא: פִּיגּוּל; אֵין חֲצִי זַיִת מוֹעִיל בִּמְקוֹם כְּזַיִת.
+> **Translation:** The Gemara presents similar cases: **When Rav Dimi came** from Eretz Yisrael, **he said:** If one had intent to eat **half an olive-bulk outside its** designated **area, and half an olive-bulk beyond its** designated **time, and** then another **half an olive-bulk beyond its** designated **time, bar Kappara teaches** that the offering is rendered ***piggul*,** since the **half an olive-bulk** with regard to the area **is not effective** to interfere **where** the intent with regard to the time concerns a whole **olive-bulk.**
 
 Bar Kappara disagrees. He holds that in the arrangement *makom, zman, zman* (i.e., the case with *chutz limkomo* first), the offering is *pasul* and not *piggul* — obviously, since the *chutz limkomo* intervened before the two *chutz lizmano* thoughts could combine. But in the reverse arrangement — where the two *chutz lizmano* thoughts appear consecutively, with *chutz limkomo* following — Bar Kappara says that is *piggul*. His ruling: *ein chatzi kezayis mo'il b'makom kezayis* — a half-*k'zayis* thought cannot function in place of a full *k'zayis* thought. Since at the moment when the first full *k'zayis* is completed you have a combination of two *chutz lizmano* halves, that constitutes *piggul*. The subsequent half-*k'zayis* of *chutz limkomo* is too small to disrupt what has already formed.
 
 ### Ravin's Formulation
 
 > **Hebrew/Aramaic:** כִּי אֲתָא רָבִין אָמַר: חֲצִי זַיִת חוּץ לִזְמַנּוֹ, וַחֲצִי זַיִת חוּץ לִזְמַנּוֹ, וַחֲצִי זַיִת חוּץ לִמְקוֹמוֹ – תָּנֵי בַּר קַפָּרָא: פִּיגּוּל; אֵין חֲצִי זַיִת מוֹעִיל בִּמְקוֹם כְּזַיִת.
->
 > **Translation:** **When Ravin came** from Eretz Yisrael, **he stated** a different formulation: If one had intent to eat **half an olive-bulk beyond its** designated **time, and** then another **half an olive-bulk beyond its** designated **time, and** then **half an olive-bulk outside its** designated **area, bar Kappara teaches** that the offering is rendered ***piggul*,** since the **half an olive-bulk is not effective** to interfere **where** the intent of *piggul* concerns a whole **olive-bulk.**
 
 When Ravin came, he presented yet another arrangement: *chatzi kezayis chutz lizmano, v'chatzi kezayis chutz lizmano, v'chatzi kezayis chutz limkomo* — that is, *zman, zman, makom*. Bar Kappara holds that this arrangement is *piggul*: by the time you have reached the first full *k'zayis*, both halves are *chutz lizmano*, giving you a complete *piggul* thought, and the subsequent half-*k'zayis* of *chutz limkomo* is insufficient to retroactively undo what has already taken effect. *Ein chatzi kezayis mo'il b'makom kezayis.*
@@ -121,7 +121,6 @@ The three arrangements can now be laid out clearly. The arrangement *makom, zman
 ### Rav Ashi Restructured
 
 > **Hebrew/Aramaic:** רַב אָשֵׁי מַתְנֵי הָכִי: חֲצִי זַיִת חוּץ לִזְמַנּוֹ, וּכְזַיִת – חֶצְיוֹ חוּץ לִמְקוֹמוֹ וְחֶצְיוֹ חוּץ לִזְמַנּוֹ; תָּנֵי בַּר קַפָּרָא: פִּיגּוּל; אֵין חֲצִי זַיִת מוֹעִיל בִּמְקוֹם כְּזַיִת.
->
 > **Translation:** **Rav Ashi teaches** the *halakha* **in this** manner: If one had intent to eat **half an olive-bulk beyond its** designated **time, and** then intended with regard to a whole **olive-bulk** to eat **half of it outside its** designated **area and half of it beyond its** designated **time, bar Kappara teaches** that the offering is rendered ***piggul*,** because the **half an olive-bulk is not effective** to interfere **where** the intent of *piggul* concerns a whole **olive-bulk.**
 
 Rav Ashi presents a further restructuring of the case. His formulation is: *chatzi kezayis chutz lizmano u'kezayis chetzyo chutz limkomo v'chetzyo chutz lizmano* — one half-*k'zayis chutz lizmano*, followed by a full *k'zayis* that the *kohen* declares to be split: half *chutz limkomo* and half *chutz lizmano*. Bar Kappara rules: *piggul*. *Ein chatzi kezayis mo'il b'makom kezayis.*
@@ -142,11 +141,12 @@ According to Rashi, the concern in Rav Ashi's case is that one could view the se
 
 ## Dogs & Fire Thoughts
 
+
+
 ### Rav Yanai: Dogs Eating
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי יַנַּאי: חִישֵּׁב שֶׁיֹּאכְלוּהוּ כְּלָבִים לְמָחָר – פִּיגּוּל; דִּכְתִיב: ״וְאֶת אִיזֶבֶל יֹאכְלוּ הַכְּלָבִים בְּחֵלֶק יִזְרְעֶאל״.
->
-> **Translation:** **Rabbi Yannai says:** If one **had intent that dogs would eat** the offering **the next day,** it is rendered ***piggul*, as it is written: "And the dogs shall eat Jezebel in the portion of Jezreel"** (II Kings 9:10). The verse indicates that consumption by dogs is considered eating.
+> **Translation:** § **Rabbi Yannai says:** If one **had intent that dogs would eat** the offering **the next day,** it is rendered ***piggul*, as it is written: “And the dogs shall eat Jezebel in the portion of Jezreel”** (II Kings 9:10). The verse indicates that consumption by dogs is considered eating.
 
 Rav Yanai rules: *chishiv sheyocheluhu klavim l'machar, piggul* — if the *kohen* thought during the service that the meat would be fed to dogs tomorrow, this constitutes a *piggul* thought. The consuming act of dogs is considered *achilah* — eating. His proof is from the verse: *v'es Izevel yochlu haklavim b'chelek Yizreel* — "and Jezebel shall be consumed by the dogs in the plot of Jezreel" (Melachim I 21:23). The verb *yochlu* is used, demonstrating that the Torah treats the consumption of dogs as an act of eating.
 
@@ -154,19 +154,18 @@ Tosafot raises an objection: many verses speak of animals eating, so what is the
 
 ### Rav Ami Challenge
 
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַבִּי אַמֵּי: אֶלָּא מֵעַתָּה, חִישֵּׁב שֶׁתֹּאכְלֵהוּ אֵשׁ לְמָחָר, דִּכְתִיב: ״תְּאׇכְלֵהוּ אֵשׁ לֹא נֻפָּח״ – הָכִי נָמֵי דְּפִיגּוּל?! וְכִי תֵּימָא הָכִי נָמֵי; וְהָתְנַן: לֶאֱכוֹל כַּחֲצִי זַיִת וּלְהַקְטִיר חֲצִי כְּזַיִת – כָּשֵׁר, שֶׁאֵין אֲכִילָה וְהַקְטָרָה מִצְטָרְפִין!
->
-> **Translation:** **Rabbi Ami objects to this: If that is so,** then if one **had intent that** non-sacred **fire would consume it the next day, as it is written: "A fire not blown shall consume him"** (Job 20:26), **this too** should be ***piggul*. And if you would say** that this is **indeed** so, that is difficult: **But didn't we learn** in the mishna: If his intent was **to eat half an olive-bulk and to burn half an olive-bulk** not at the appropriate time or in the appropriate area, the offering is **fit because eating and burning do not join together?**
-
 Rav Ami challenges: *ella me'ata, chishev shetochluhu esh l'machar* — if that is so, what about a thought that fire would consume the meat tomorrow? The verse states: *tochlu esh lo nopach* — "a fire not blown will consume it" (Iyov 20:26). The word *tochlu* — consuming — is used of fire. Should we then say that planning for fire to consume the sacrifice tomorrow constitutes *piggul*?
 
 The answer, one might suggest, is yes. But then the following problem emerges from the *Mishnah*: *le'echol k'chatzi zayis u'lehaktir k'chatzi zayis kasher, she'ein achilah v'haktarah mitztarfin* — if one planned to eat half a *k'zayis* and to burn half a *k'zayis* on the altar, it is valid — these two half-*k'zayis* thoughts do not combine. If burning on the altar were simply another form of *achilah*, why would this *Mishnah* not allow the two halves to combine?
 
-### Language Matters
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַבִּי אַמֵּי: אֶלָּא מֵעַתָּה, חִישֵּׁב שֶׁתֹּאכְלֵהוּ אֵשׁ לְמָחָר, דִּכְתִיב: ״תְּאׇכְלֵהוּ אֵשׁ לֹא נֻפָּח״ – הָכִי נָמֵי דְּפִיגּוּל?! וְכִי תֵּימָא הָכִי נָמֵי; וְהָתְנַן: לֶאֱכוֹל כַּחֲצִי זַיִת וּלְהַקְטִיר חֲצִי כְּזַיִת – כָּשֵׁר, שֶׁאֵין אֲכִילָה וְהַקְטָרָה מִצְטָרְפִין!
+> **Translation:** **Rabbi Ami objects to this: If that is so,** then if one **had intent that** non-sacred **fire would consume it the next day, as it is written: “A fire not blown shall consume him”** (Job 20:26), **this too** should be ***piggul*. And if you would say** that this is **indeed** so, that is difficult: **But didn’t we learn** in the mishna: If his intent was **to eat half an olive-bulk and to burn half an olive-bulk** not at the appropriate time or in the appropriate area, the offering is **fit because eating and burning do not join together?**
 
 > **Hebrew/Aramaic:** אִי דְּאַפְּקַהּ בִּלְשׁוֹן אֲכִילָה – הָכִי נָמֵי; הָכָא בְּמַאי עָסְקִינַן – דְּאַפְּקַהּ בִּלְשׁוֹן הַקְטָרָה. דִּלְשׁוֹן אֲכִילָה לְחוֹד, וּלְשׁוֹן הַקְטָרָה לְחוּד.
->
-> **Translation:** **If one expressed** his intention to burn the offering **in terms of consumption,** it would **indeed** join together with intention to eat. But in the mishna **here we are dealing with** a case **where he expressed it in terms of burning.** The two intentions do not join together **since terms of consumption and terms of burning are discrete** entities.
+> **Translation:** The Gemara responds: **If one expressed** his intention to burn the offering **in terms of consumption,** it would **indeed** join together with intention to eat. But in the mishna **here we are dealing with** a case **where he expressed it in terms of burning.** The two intentions do not join together **since terms of consumption and terms of burning are discrete** entities.
+
+### Language Matters
+
 
 The Gemara's resolution is that the answer depends entirely on precise verbal formulation. *Ei de'afkei belashon achilah, hacha nami* — if you expressed the thought about burning using the language of *achilah* — saying, for example, that the fire would *consume* it, using the eating idiom — then even fire-consumption might combine. *Hacha bemai askinan de'afkei belashon haktarah* — the *Mishnah*'s case involves the standard language of *haktarah* (offering on the altar), not *achilah*. And *lashon achilah lachud v'lashon haktarah lachud* — the language of eating and the language of altar-burning are distinct categories.
 
@@ -178,35 +177,37 @@ It is also worth noting, as Tosafot elsewhere points out, that this stands in st
 
 ## Two People Eating
 
+
+
 ### Rav Ashi Question
 
-> **Hebrew/Aramaic:** בָּעֵי רַב אָשֵׁי: חִישֵּׁב לֶאֱכוֹל kezayis בִּשְׁנֵי בְּנֵי אָדָם, מַהוּ? בָּתַר מַחְשָׁבָה אָזְלִינַן – דְּאִיכָּא שִׁיעוּרָא, אוֹ בָתַר אוֹכְלִין אָזְלִינַן – וְלֵיכָּא שִׁיעוּרָא?
->
-> **Translation:** **Rav Ashi raises a dilemma:** If **one had intent that two people** would collectively **eat an olive-bulk, what is** the *halakha*? **Do we follow** the **intent,** in **which** case **there is** the requisite **measure** of an olive-bulk? **Or do we follow those who eat, and neither** eats the requisite **measure?**
+> **Hebrew/Aramaic:** בָּעֵי רַב אָשֵׁי: חִישֵּׁב לֶאֱכוֹל כְּזַיִת בִּשְׁנֵי בְּנֵי אָדָם, מַהוּ? בָּתַר מַחְשָׁבָה אָזְלִינַן – דְּאִיכָּא שִׁיעוּרָא, אוֹ בָתַר אוֹכְלִין אָזְלִינַן – וְלֵיכָּא שִׁיעוּרָא?
+> **Translation:** § **Rav Ashi raises a dilemma:** If **one had intent that two people** would collectively **eat an olive-bulk, what is** the *halakha*? **Do we follow** the **intent,** in **which** case **there is** the requisite **measure** of an olive-bulk? **Or do we follow those who eat, and neither** eats the requisite **measure?**
 
 Rav Ashi poses the following question: *chishev le'echol kezayis bishnei bnei adam mahu* — if the *kohen* thought during the service that a full *k'zayis* of the sacrifice would be consumed tomorrow, but split between two people, each eating half a *k'zayis*, what is the ruling? Does the thought constitute *piggul*?
 
 The question divides on two framings. On one view: *batar machshava azlinan d'ika shiura* — we follow the thought, and the thought was about a full *k'zayis* being consumed. Since the *kohen*'s mental intent encompassed a full *k'zayis* of consumption, it should constitute *piggul*. On the alternative view: *batar ochlin azlinan v'leika shiura* — we assess each act of eating independently, and each person's act involves only a half-*k'zayis*, which is below the threshold of significance. Since no single act of eating reaches the required *shiur*, there is no valid *piggul* thought.
 
+[DAF:31b]
 ### Abaye's Proof
-
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי, תָּא שְׁמַע: לֶאֱכוֹל כַּחֲצִי זַיִת וּלְהַקְטִיר כַּחֲצִי זַיִת – כָּשֵׁר, שֶׁאֵין אֲכִילָה וְהַקְטָרָה מִצְטָרְפִין. הָא לֶאֱכוֹל וְלֶאֱכוֹל דּוּמְיָא דְּלֶאֱכוֹל וּלְהַקְטִיר, וְהֵיכִי דָּמֵי – בִּשְׁנֵי בְּנֵי אָדָם; מִצְטָרֵף! שְׁמַע מִינַּהּ.
->
-> **Translation:** **Abaye said: Come** and **hear** a proof from the mishna: If his intent was **to eat half an olive-bulk and to burn half an olive-bulk** beyond the designated time or outside the designated area, the offering is **fit because eating and burning do not join together.** It can be inferred **that** if one had intent **to eat and to eat** in a manner **similar to** a case of intent **to eat** half an olive-bulk **and to burn** half an olive-bulk; Abaye interjects: **And what are the circumstances** of such a case? It is a case **with two people,** i.e., where each one will consume half an olive-bulk. Abaye continues with the conclusion of his statement: Then the two halves **join together.** The Gemara concludes: **Learn from it** that this is so.
 
 Abaye resolves the question by invoking the *Mishnah*: *le'echol k'chatzi zayis u'lehaktir k'chatzi zayis kasher, she'ein achilah v'haktarah mitztarfin* — half a *k'zayis* for human eating and half a *k'zayis* for altar consumption do not combine. The reason they do not combine is that human eating and altar-burning are categorically distinct acts. But this implies — *ha le'echol v'le'echol mitztaref* — that eating and eating do combine. If the half-*k'zayis* intended for the altar were instead intended for a second human being, the two halves of eating would combine to form a valid *piggul* thought.
 
 Abaye states this as a near-explicit inference: *v'heichi dami b'shnei bnei adam, mitztaref* — when two human beings are each to eat half a *k'zayis*, that combines. What makes human-and-altar fail to combine is not the division of the act between two parties, but the categorical difference between human eating and altar burning. Two instances of the same category — human eating — do combine. *Shma mina.*
 
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי, תָּא שְׁמַע: לֶאֱכוֹל כַּחֲצִי זַיִת וּלְהַקְטִיר כַּחֲצִי זַיִת – כָּשֵׁר, שֶׁאֵין אֲכִילָה וְהַקְטָרָה מִצְטָרְפִין.
+> **Translation:** **Abaye said: Come** and **hear** a proof from the mishna: If his intent was **to eat half an olive-bulk and to burn half an olive-bulk** beyond the designated time or outside the designated area, the offering is **fit because eating and burning do not join together.**
+
+> **Hebrew/Aramaic:** הָא לֶאֱכוֹל וְלֶאֱכוֹל דּוּמְיָא דְּלֶאֱכוֹל וּלְהַקְטִיר, וְהֵיכִי דָּמֵי – בִּשְׁנֵי בְּנֵי אָדָם; מִצְטָרֵף! שְׁמַע מִינַּהּ.
+> **Translation:** It can be inferred **that** if one had intent **to eat and to eat** in a manner **similar to** a case of intent **to eat** half an olive-bulk **and to burn** half an olive-bulk; Abaye interjects: **And what are the circumstances** of such a case? It is a case **with two people,** i.e., where each one will consume half an olive-bulk. Abaye continues with the conclusion of his statement: Then the two halves **join together.** The Gemara concludes: **Learn from it** that this is so.
+
 ---
 
 ## Time Duration Issue
 
-### Rava Slow Eating
 
-> **Hebrew/Aramaic:** בָּעֵי רָבָא: חִישֵּׁב לֶאֱכוֹל כְּזַיִת בְּיָתֵר מִכְּדֵי אֲכִילַת פְּרָס, מַהוּ? לַאֲכִילַת גָּבוֹהַּ מְדַמֵּינַן לֵיהּ, אוֹ לַאֲכִילַת הֶדְיוֹט מְדַמֵּינַן לֵיהּ?
->
-> **Translation:** **Rava raises a dilemma:** If one **had intent to eat an olive-bulk in more than** the period of time it takes **to eat a half-loaf** of bread, **what is** the *halakha*? **Do we equate** the consumption of offerings **to the consumption of the Most High,** i.e., the burning of offerings on the altar, for which there is no maximum allotted time? **Or do we equate it to the consumption of an ordinary** person, for whom consumption slower than this rate is not considered eating?
+
+### Rava Slow Eating
 
 Rava poses a further question: *chishev le'echol kezayis b'yoser m'kdei achilas pras, mahu* — if the *kohen* thought that he would eat a full *k'zayis* of the sacrifice tomorrow, but at an extremely slow pace, over a duration longer than *kdei achilas pras* (the halachically defined time unit for eating, roughly the time required to consume half a loaf of bread, often understood as approximately five to ten minutes) — does this constitute *piggul*?
 
@@ -214,9 +215,15 @@ The principle of *kdei achilas pras* governs many areas of halacha: for *matzah*
 
 ### Altar vs Human Time
 
+
+> **Hebrew/Aramaic:** בָּעֵי רָבָא: חִישֵּׁב לֶאֱכוֹל כְּזַיִת בְּיָתֵר מִכְּדֵי אֲכִילַת פְּרָס, מַהוּ? לַאֲכִילַת גָּבוֹהַּ מְדַמֵּינַן לֵיהּ, אוֹ לַאֲכִילַת הֶדְיוֹט מְדַמֵּינַן לֵיהּ?
+> **Translation:** **Rava raises a dilemma:** If one **had intent to eat an olive-bulk in more than** the period of time it takes **to eat a half-loaf** of bread, **what is** the *halakha*? **Do we equate** the consumption of offerings **to the consumption of the Most High,** i.e., the burning of offerings on the altar, for which there is no maximum allotted time? **Or do we equate it to the consumption of an ordinary** person, for whom consumption slower than this rate is not considered eating?
+
 > **Hebrew/Aramaic:** אָמַר אַבָּיֵי, תָּא שְׁמַע: לֶאֱכוֹל כַּחֲצִי זַיִת וּלְהַקְטִיר כַּחֲצִי זַיִת – כָּשֵׁר, שֶׁאֵין אֲכִילָה וְהַקְטָרָה מִצְטָרְפִין. טַעְמָא דְּלֶאֱכוֹל וּלְהַקְטִיר, הָא לֶאֱכוֹל וְלֶאֱכוֹל – מִצְטָרֵף; וְהָא הַקְטָרָה בְּיוֹתֵר מִכְּדֵי אֲכִילַת פְּרָס הוּא!
->
 > **Translation:** **Abaye said: Come** and **hear** a proof from the mishna: If his intent was **to eat half an olive-bulk and to burn half an olive-bulk** not at the appropriate time or in the appropriate area, the offering is **fit because eating and burning do not join together.** One may infer that the **reason** the offering is fit is that he had intent **to eat and to burn** the offering. **But** if he had intent **to eat** half an olive-bulk at the normal rate **and to eat** half an olive-bulk in the time it takes to burn half an olive-bulk, the two would **join together. But** the **burning** of an olive-bulk of an offering can take **more than** the time it takes **to eat a half-loaf** of bread. It therefore seems that there is no upper limit on the time in which one is considered to have consumed an offering.
+
+> **Hebrew/Aramaic:** דִּלְמָא בְּהֶיסֵּק גָּדוֹל.
+> **Translation:** The Gemara rejects the proof: **Perhaps** the mishna is referring to intent to burn half an olive-bulk **in a large fire,** which can consume it in the time it takes to eat a half-loaf of bread. Accordingly, one may draw the inference only with regard to a case where his intent was to consume the halves of an olive-bulk within this time.
 
 Two possible frameworks present themselves. *L'achilas gavoah madminan lah* — perhaps we compare the act to altar-burning, which by its nature takes far longer than *achilas pras*, and therefore a thought of extended consumption is still valid. *O l'achilas hedyot madminan lah* — or perhaps we compare it to ordinary human eating, in which case the thought must envision consumption within *achilas pras*. Logically, the answer would seem to depend on what the *kohen* was planning: if planning for his own consumption, it should be measured by human eating norms; if planning for the altar, by altar norms.
 
@@ -228,11 +235,9 @@ The Gemara deflects this proof: *dilma b'hesek gadol* — perhaps the case of al
 
 ## Non-Standard Parts
 
-### Meat + Altar Split
 
-> **Hebrew/Aramaic:** לֶאֱכוֹל כַּחֲצִי זַיִת וּלְהַקְטִיר כַּחֲצִי זַיִת – כָּשֵׁר. טַעְמָא דְּלֶאֱכוֹל וּלְהַקְטִיר, הָא לֶאֱכוֹל וְלֶאֱכוֹל דָּבָר שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל – מִצְטָרֵף;
->
-> **Translation:** § The mishna teaches: If one slaughtered the animal with intent **to eat half an olive-bulk and to burn half an olive-bulk** not at the appropriate time or in the appropriate area, the offering is **fit.** The Gemara infers: The **reason that** the two halves of an olive-bulk do not join together is because his intent was **to eat** half an olive-bulk **and to burn** half an olive-bulk. **But** if his intent was **to eat** half an olive-bulk of the meat **and to eat** half an olive-bulk of **an item whose** typical **manner** is such that one does **not partake** of it, then the halves do **join together** and disqualify the offering, as both intentions concern eating.
+
+### Meat + Altar Split
 
 The Gemara now focuses directly on the *Mishnah* that has been cited throughout: *le'echol k'chatzi zayis u'lehaktir k'chatzi zayis kasher, she'ein achilah v'haktarah mitztarfin* — a thought to eat half a *k'zayis* plus a thought to burn half a *k'zayis* on the altar: valid (*kasher*). The two half-*k'zayis* thoughts do not combine, since eating and altar-burning are two categorically distinct acts.
 
@@ -242,19 +247,35 @@ But this inference would be significant, because it would imply that a *kohen*'s
 
 ### R. Eliezer Dispute
 
-> **Hebrew/Aramaic:** הָא קָתָנֵי רֵישָׁא: לֶאֱכוֹל אֶת שֶׁדַּרְכּוֹ לֶאֱכוֹל – מִצְטָרֵף; אֶת שֶׁדַּרְכּוֹ לֶאֱכוֹל אִין, שֶׁאֵין דַּרְכּוֹ לָא!
->
-> **Translation:** The Gemara notes an apparent contradiction: **But the first clause** of the mishna **teaches:** If one's intent was **to partake** of an item **whose** typical **manner** is such that one **partakes** of it, beyond its designated time, his intent **joins together** to disqualify the offering. One can infer that only if his intent was to partake of an item **whose** typical **manner** is such that one **partakes** of it, **does** his intent join together, but if his intent was to partake of an item **whose** typical **manner** is such that one does **not** partake of it, then it does **not** join together.
-
 Rabbi Yirmiyah identifies the position implied by this inference as that of Rabbi Eliezer: *ha meni Rabbi Eliezer hi* — this follows Rabbi Eliezer's view. For Rabbi Eliezer holds: *mechashvin me'achilat adam le'achilat mizbe'ach u'me'achilat mizbe'ach le'achilat adam* — we extend *piggul* thought from the domain of human eating to that of altar-consumption, and vice versa. A thought to eat what is normally burned on the altar, or to burn on the altar what is normally eaten, still constitutes a relevant *piggul* thought, because all parts of the sacrifice are united in the framework of *k'vod hakorban*.
 
 The source for Rabbi Eliezer's position is the *Mishnah* later in the tractate: *ha'shochet et hazevach le'echol davar she'ein darko le'echol, le'haktir davar she'ein darko le'haktir, kasher* — if one slaughters the sacrifice with the thought of eating what is not normally eaten (e.g., hooves, or *emurim*), or burning what is not normally burned, it is valid (*kasher*) — meaning no *piggul* is created. *Rabbi Eliezer posel* — Rabbi Eliezer says it is invalid, meaning such thoughts do create *piggul*. Rabbi Eliezer takes the more expansive view that any consumption-related thought regarding any part of the sacrifice is relevant.
 
 ### Abaye Clarification
 
+> **Hebrew/Aramaic:** לֶאֱכוֹל כַּחֲצִי זַיִת וּלְהַקְטִיר כַּחֲצִי זַיִת – כָּשֵׁר. טַעְמָא דְּלֶאֱכוֹל וּלְהַקְטִיר, הָא לֶאֱכוֹל וְלֶאֱכוֹל דָּבָר שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל – מִצְטָרֵף;
+> **Translation:** § The mishna teaches: If one slaughtered the animal with intent **to eat half an olive-bulk and to burn half an olive-bulk** not at the appropriate time or in the appropriate area, the offering is **fit.** The Gemara infers: The **reason that** the two halves of an olive-bulk do not join together is because his intent was **to eat** half an olive-bulk **and to burn** half an olive-bulk. **But** if his intent was **to eat** half an olive-bulk of the meat **and to eat** half an olive-bulk of **an item whose** typical **manner** is such that one does **not partake** of it, then the halves do **join together** and disqualify the offering, as both intentions concern eating.
+
+> **Hebrew/Aramaic:** הָא קָתָנֵי רֵישָׁא: לֶאֱכוֹל אֶת שֶׁדַּרְכּוֹ לֶאֱכוֹל – מִצְטָרֵף; אֶת שֶׁדַּרְכּוֹ לֶאֱכוֹל אִין, שֶׁאֵין דַּרְכּוֹ לָא!
+> **Translation:** The Gemara notes an apparent contradiction: **But the first clause** of the mishna **teaches:** If one’s intent was **to partake** of an item **whose** typical **manner** is such that one **partakes** of it, beyond its designated time, his intent **joins together** to disqualify the offering. One can infer that only if his intent was to partake of an item **whose** typical **manner** is such that one **partakes** of it, **does** his intent join together, but if his intent was to partake of an item **whose** typical **manner** is such that one does **not** partake of it, then it does **not** join together.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יִרְמְיָה: הָא מַנִּי – רַבִּי אֱלִיעֶזֶר הִיא, דְּאָמַר: מְחַשְּׁבִין מֵאֲכִילַת אָדָם לַאֲכִילַת מִזְבֵּחַ, וּמֵאֲכִילַת מִזְבֵּחַ לַאֲכִילַת אָדָם. דִּתְנַן: הַשּׁוֹחֵט אֶת הַזֶּבַח לֶאֱכוֹל דָּבָר שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל, וּלְהַקְטִיר דָּבָר שֶׁאֵין דַּרְכּוֹ לְהַקְטִיר – כָּשֵׁר. וְרַבִּי אֱלִיעֶזֶר פּוֹסֵל.
+> **Translation:** **Rabbi Yirmeya says:** In accordance with **whose** opinion **is this** latter clause? **It is** in accordance with the opinion of **Rabbi Eliezer, who says: One can have intent** to shift an item’s consumption **from consumption by a person to consumption by** the **altar, or from consumption by** the **altar to consumption by a person. As we learned** in another mishna (35a): In the case of **one who slaughters the offering** with intent **to partake of an item whose** typical **manner** is such that one does **not** partake of it, **or to burn an item whose** typical **manner** is such that one does **not burn** it on the altar, beyond its designated time or outside its designated area, the offering is **fit, and Rabbi Eliezer deems** it **unfit.**
+
 > **Hebrew/Aramaic:** אַבָּיֵי אָמַר: אֲפִילּוּ תֵּימָא רַבָּנַן – וְלָא תֵּימָא: הָא לֶאֱכוֹל וְלֶאֱכוֹל דָּבָר שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל, אֶלָּא אֵימָא: הָא לֶאֱכוֹל וְלֶאֱכוֹל דָּבָר שֶׁדַּרְכּוֹ לֶאֱכוֹל.
->
 > **Translation:** **Abaye says: You** may **even say** that the latter clause is in accordance with the opinion of **the Rabbis. And do not say** that one should infer from the mishna **that** if his intent was **to eat** half an olive-bulk of an item normally consumed **and to eat** half an olive-bulk of **an item whose** typical **manner** is such that one does **not partake** of it, then the offering is disqualified. **Rather, say** that one infers **that** if his intent was **to eat** half an olive-bulk **and to eat** another half an olive-bulk, both halves from **an item whose** typical **manner** is such that one **partakes** of it, then the halves join together to disqualify the offering.
+
+> **Hebrew/Aramaic:** מַאי קָא מַשְׁמַע לַן? אִי דָּבָר שֶׁדַּרְכּוֹ לֶאֱכוֹל קָא מַשְׁמַע לַן – מֵרֵישָׁא שְׁמַע מִינַּהּ: כַּחֲצִי זַיִת בַּחוּץ כַּחֲצִי זַיִת לְמָחָר – פָּסוּל; הָא כַּחֲצִי זַיִת לְמָחָר – פִּיגּוּל!
+> **Translation:** The Gemara asks: If so, **what** is this latter clause **teaching us? If it teaches us** that two half olive-bulks from **an item whose** typical **manner** is such that one **partakes** of it, join together, one can already **learn** this **from the first clause** of the mishna: If one has intent to consume **half an olive-bulk outside** its designated area and **half an olive-bulk the next day,** the offering is **disqualified.** One can infer **that** if his intent was to eat the first **half an olive-bulk the next day,** the offering would be rendered ***piggul*.**
+
+> **Hebrew/Aramaic:** אֶלָּא אִי לֶאֱכוֹל וּלְהַקְטִיר – מִדּוּקְיָא דְּרֵישָׁא שְׁמַע מִינַּהּ: לֶאֱכוֹל דָּבָר שֶׁדַּרְכּוֹ לֶאֱכוֹל – אִין, שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל – לֹא;
+> **Translation:** **But if** one will say that this term teaches its literal meaning, that intentions **to eat and to burn** two halves of an olive-bulk do not join together, one can already **learn** this **from the inference** drawn above **from the first clause** of the mishna, namely that intent **to partake** of **an item whose** typical **manner** is such that one **partakes** of it **does** disqualify the offering, but intent to partake of an item **whose** typical **manner** is such that one does **not partake** of it does **not.** By extension, intent to consume half an olive-bulk of such an item does not join to disqualify the offering.
+
+> **Hebrew/Aramaic:** הַשְׁתָּא וּמָה לֶאֱכוֹל וְלֶאֱכוֹל דָּבָר שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל – לָא מִצְטָרֵף, לֶאֱכוֹל וּלְהַקְטִיר מִיבְּעֵי?!
+> **Translation:** **Now,** consider the following: **And just as** if when one has intent **to partake** of an item normally eaten **and to partake of an item whose** typical **manner** is such that one does **not partake** of it, his intentions **do not join together,** even though both intentions concern consumption, **is it necessary** for the mishna to teach that intentions **to consume and to burn** do not join together? The last clause therefore seems unnecessary.
+
+> **Hebrew/Aramaic:** לֶאֱכוֹל וּלְהַקְטִיר אִיצְטְרִיךְ; סָלְקָא דַּעְתָּךְ אָמֵינָא: הָתָם הוּא דְּלָאו כִּי אוֹרְחֵיהּ קָא מְחַשֵּׁב; אֲבָל הָכָא, דִּבְהַאי כִּי אוֹרְחֵיהּ וּבְהַאי כִּי אוֹרְחֵיהּ – אֵימָא לִיצְטָרֵף; קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara responds: It **was necessary** for the mishna to explicitly address the case where one had intent **to eat and to burn,** as it might **enter your mind to say** that it **is** only **there,** where one’s intentions are referring solely to consumption, that they do not join together, **since he has intent** to act in a way that is **not** consistent with **its** typical **manner** and consume an item not normally consumed. **But here, where** his intent is to both eat and burn the offering, such that **with regard to this** half he intends to act **in** a way consistent with **its** typical **manner, and with regard to that** half he intends to act **in** a way consistent with **its** typical **manner,** one might **say** that **they should join together.** Therefore, the mishna **teaches us** that intentions to eat and to burn do not join together.
 
 Abaye intervenes with a crucial clarification: *afilu teima Rabbanan* — even according to the *Rabbanan*, the Gemara's inference need not be read as implying that eating the *emurim* would combine. Abaye reframes the inference entirely.
 
@@ -262,32 +283,20 @@ The *Mishnah* says that eating half a *k'zayis* plus burning half a *k'zayis* do
 
 The Gemara asks: but then what *chiddush* does the *Mishnah* add? If the answer to the positive case is simply that two halves of human eating combine, we already knew that from the *reisha* of the *Mishnah*, which teaches that a half-*k'zayis* eaten outside its place plus a half-*k'zayis* eaten the next day (*pasul* for being outside its time) combine and render the offering *pasul*. The Gemara responds: the *chiddush* of the *Mishnah* is precisely the negative — *she'ein achilah v'haktarah mitztarfin* — human eating and altar-burning do not combine, even though each is the natural act for its respective portion of the sacrifice. One might have thought: since eating the meat is natural and burning the *emurim* is natural, and each half represents the appropriate designated act for its part of the sacrifice, they should combine. The *Mishnah* tells us they do not.
 
-> **Hebrew/Aramaic:** מַאי קָא מַשְׁמַע לַן? אִי דָּבָר שֶׁדַּרְכּוֹ לֶאֱכוֹל קָא מַשְׁמַע לַן – מֵרֵישָׁא שְׁמַע מִינַּהּ: כַּחֲצִי זַיִת בַּחוּץ כַּחֲצִי זַיִת לְמָחָר – פָּסוּל; הָא כַּחֲצִי זַיִת לְמָחָר – פִּיגּוּל!
->
-> **Translation:** The Gemara asks: If so, **what** is this latter clause **teaching us? If it teaches us** that two half olive-bulks from **an item whose** typical **manner** is such that one **partakes** of it, join together, one can already **learn** this **from the first clause** of the mishna: If one has intent to consume **half an olive-bulk outside** its designated area and **half an olive-bulk the next day,** the offering is **disqualified.** One can infer **that** if his intent was to eat the first **half an olive-bulk the next day,** the offering would be rendered ***piggul*.**
-
-> **Hebrew/Aramaic:** אֶלָּא אִי לֶאֱכוֹל וּלְהַקְטִיר – מִדּוּקְיָא דְּרֵישָׁא שְׁמַע מִינַּהּ: לֶאֱכוֹל דָּבָר שֶׁדַּרְכּוֹ לֶאֱכוֹל – אִין, שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל – לֹא;
->
-> **Translation:** **But if** one will say that this term teaches its literal meaning, that intentions **to eat and to burn** two halves of an olive-bulk do not join together, one can already **learn** this **from the inference** drawn above **from the first clause** of the mishna, namely that intent **to partake** of **an item whose** typical **manner** is such that one **partakes** of it **does** disqualify the offering, but intent to partake of an item **whose** typical **manner** is such that one does **not partake** of it does **not.** By extension, intent to consume half an olive-bulk of such an item does not join to disqualify the offering.
-
-> **Hebrew/Aramaic:** הַשְׁתָּא וּמָה לֶאֱכוֹל וְלֶאֱכוֹל דָּבָר שֶׁאֵין דַּרְכּוֹ לֶאֱכוֹל – לָא מִצְטָרֵף, לֶאֱכוֹל וּלְהַקְטִיר מִיבְּעֵי?!
->
-> **Translation:** **Now,** consider the following: **And just as** if when one has intent **to partake** of an item normally eaten **and to partake of an item whose** typical **manner** is such that one does **not partake** of it, his intentions **do not join together,** even though both intentions concern consumption, **is it necessary** for the mishna to teach that intentions **to consume and to burn** do not join together? The last clause therefore seems unnecessary.
-
-*Salka da'atcha amina hasam hu d'lav k'orchei kamachshev* — one might have supposed that the reason eating the *emurim* does not form *piggul* (per the *reisha*) is because it is not the natural act for the *kohen*. But here, where burning the *emurim* is the natural act for the altar, and eating the meat is the natural act for the human, one might have said they should combine — *eima litztaref*. The *Mishnah* teaches us otherwise: *kamashmalan*. Two natural acts in two different categories do not combine. For combination (*tzeiruf*) of half-*k'zayis* thoughts to yield *piggul*, both halves must be of the same type of act.
-
-> **Hebrew/Aramaic:** לֶאֱכוֹל וּלְהַקְטִיר אִיצְטְרִיךְ; סָלְקָא דַּעְתָּךְ אָמֵינָא: הָתָם הוּא דְּלָאו כִּי אוֹרְחֵיהּ קָא מְחַשֵּׁב; אֲבָל הָכָא, דִּבְהַאי כִּי אוֹרְחֵיהּ וּבְהַאי כִּי אוֹרְחֵיהּ – אֵימָא לִיצְטָרֵף; קָא מַשְׁמַע לַן.
->
-> **Translation:** The Gemara responds: It **was necessary** for the mishna to explicitly address the case where one had intent **to eat and to burn,** as it might **enter your mind to say** that it **is** only **there,** where one's intentions are referring solely to consumption, that they do not join together, **since he has intent** to act in a way that is **not** consistent with **its** typical **manner** and consume an item not normally consumed. **But here, where** his intent is to both eat and burn the offering, such that **with regard to this** half he intends to act **in** a way consistent with **its** typical **manner, and with regard to that** half he intends to act **in** a way consistent with **its** typical **manner,** one might **say** that **they should join together.** Therefore, the mishna **teaches us** that intentions to eat and to burn do not join together.
+*Salka da'atach amina hasam hu d'lav k'orchei kamachshev* — one might have supposed that the reason eating the *emurim* does not form *piggul* (per the *reisha*) is because it is not the natural act for the *kohen*. But here, where burning the *emurim* is the natural act for the altar, and eating the meat is the natural act for the human, one might have said they should combine — *eima litztaref*. The *Mishnah* teaches us otherwise: *kamashmalan*. Two natural acts in two different categories do not combine. For combination (*tzeiruf*) of half-*k'zayis* thoughts to yield *piggul*, both halves must be of the same type of act.
 
 ---
 
 ## Third Perek Opens
 
+
+
 ### Invalid Servers OK
 
-> **Hebrew/Aramaic:** מַתְנִי׳ כׇּל הַפְּסוּלִין שֶׁשָּׁחֲטוּ – שְׁחִיטָתָן כְּשֵׁרָה, שֶׁהַשְּׁחִיטָה כְּשֵׁרָה בְּזָרִים וּבְנָשִׁים וּבַעֲבָדִים וּבִטְמֵאִים. וַאֲפִילּוּ בְּקׇדְשֵׁי קָדָשִׁים, וּבִלְבַד שֶׁלֹּא יִהְיוּ טְמֵאִים נוֹגְעִים בַּבָּשָׂר. לְפִיכָךְ הֵן פּוֹסְלִים בְּמַחְשָׁבָה.
->
+> **Hebrew/Aramaic:** הֲדַרַן עֲלָךְ כׇּל הַזְּבָחִים שֶׁקִּבְּלוּ דָּמָן
+> **Translation:** 
+
+> **Hebrew/Aramaic:** מַתְנִי׳ כׇּל הַפְּסוּלִין שֶׁשָּׁחֲטוּ – שְׁחִיטָתָן כְּשֵׁרָה, שֶׁהַשְּׁחִיטָה כְּשֵׁרָה בְּזָרִים וּבְנָשִׁים וּבַעֲבָדִים וּבִטְמֵאִים. וַאֲפִילּוּ בְּקׇדְשֵׁי קָדָשִׁים, וּבִלְבַד שֶׁלֹּא יִהְיוּ טְמֵאִים נוֹגְעִין בַּבָּשָׂר. לְפִיכָךְ הֵן פּוֹסְלִין בְּמַחְשָׁבָה.
 > **Translation:** MISHNA: With regard to **all** those **who are unfit** for Temple service **who slaughtered** an offering, **their slaughter is valid, as the slaughter** of an offering **is valid** *ab initio* when performed even **by non-priests, by women, by** Canaanite **slaves, and by ritually impure** individuals. **And** this is the *halakha* **even with** regard to **offerings of the most sacred order, provided that the ritually impure will not touch the flesh** of the slaughtered animal, thereby rendering it impure. **Therefore,** these unfit individuals can **disqualify** the offering **with** prohibited **intent,** e.g., if one of them intended to partake of the offering beyond its designated time or outside its designated area.
 
 *Hadrach alach kol hazvachim shekiblu damam* — we have completed the second *perek* and now begin the third. The new *Mishnah* opens: *kol hapesulim sheshachtu, shchitatam ksheira* — all persons who are normally disqualified from performing the Temple service, if they performed the *shechita* (the slaughter of the sacrifice), their *shechita* is valid. The list includes: one who is *tamei*, an *onen* (one in acute mourning), one who is not standing on the ground, a non-*kohen* (*zar*), and others. The reason is that *shechita* is inherently valid even when performed by persons who would be disqualified from other aspects of the *avodah* — *shehashechita ksheira b'zarim u'vnashim u'vavadim u'vtme'im* — *shechita* is valid when performed by non-*kohanim*, by women, by servants, and by *teme'im*.
@@ -296,7 +305,11 @@ The consequence follows: *lefikach hein poslim bemachshava* — therefore, becau
 
 ### Women & Zarim OK
 
-Tosafot raises an important point about a matter not explicitly developed in the Gemara text as presented: *hagemara muvchach denashim shochtot afilu lechatchila* — the Gemara demonstrates that women may perform *shechita* even *lechatchila*, not merely *b'diavad*. The *Mishnah*'s language of "if they slaughtered" (*sheshachtu*) in the past tense refers specifically to the *tamei* persons — for whom *lechatchila* is indeed inappropriate, since they risk contaminating the meat. But women are not subject to that concern, and thus the *lechatchila* permission for women is unrestricted.
+The *Mishnah* adds that this applies *afilu bekodshei kodashim* — even for offerings of the highest sanctity, *kodshei kodashim*, such as the *olah* and *chatat*, which must be slaughtered in the inner courtyard (*azarah*) near the altar. One might have thought that the heightened sanctity and the specific spatial requirements of *kodshei kodashim* would restrict *shechita* to qualified *kohanim*. The *Mishnah* tells us this is not so. The practical resolution is that a *tamei* person, who cannot enter the *azarah*, may nonetheless perform *shechita* on a *kodshei kodashim* offering by remaining outside the *azarah* and using a sufficiently long knife — or, as Tosafot suggests, by approaching from the outer side — so long as the act of slaughter itself is completed without the *tamei* person physically entering the *azarah*. Women, who may freely enter the *azarah*, face no such spatial difficulty. The *Mishnah* adds: *u'vivlad shelo yehu tme'im nogim babasar* — the one condition is that *teme'im* must not come into physical contact with the meat and render it *tamei*.
+
+### Tosafot on Women
+
+Before proceeding to the next section of the *Mishnah*, Tosafot raises an important point: *hagemara muvchach denashim shochtot afilu lechatchila* — the Gemara demonstrates that women may perform *shechita* even *lechatchila*, not merely *b'diavad*. The *Mishnah*'s language of "if they slaughtered" (*sheshachtu*) in the past tense refers specifically to the *tamei* persons — for whom *lechatchila* is indeed inappropriate, since they risk contaminating the meat. But women are not subject to that concern, and thus the *lechatchila* permission for women is unrestricted.
 
 Tosafot then cites this as a *teshuvah* — a formal rebuttal — to a ruling in a work called *Hilchos Eretz Yisrael*, which stated that women should not perform *shechita* because their minds are unreliable (*da'atan kalah*). Tosafot notes that this work, whose authority and provenance were questionable — likely originating from a pietistic or Kabbalistic circle — also contained the ruling that a *shechita* performed without reciting a *berachah* is *pasul*, and that if the *shochet* was unclothed at the time, the *shechita* is invalid. Both of these rulings are plainly contrary to accepted *halacha* — proper *shechita* remains valid regardless of whether a *berachah* was recited, and the physical state of the *shochet* does not affect the validity of the act. Tosafot concludes that the rulings in that work are merely personal *chumros* of whatever scholar composed it, not binding *halacha*.
 

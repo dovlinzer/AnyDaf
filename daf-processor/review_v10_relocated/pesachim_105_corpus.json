@@ -1,0 +1,290 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sheva Brachot",
+    "candidates": [
+      "Bracha Structures",
+      "Bracha Hasmucha",
+      "Elokai Neshama Issue",
+      "Machzor Breaks",
+      "Sheva Brachot",
+      "Ulla's Havdalah",
+      "Tosafot Reading",
+      "Single Theme Bracha",
+      "Friday Meal Case",
+      "Shabata Kava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's question 'kashya l'Ulla' and his response that havdala is like a birchat hamitzvah because it is a single hoda'ah \u2014 which is precisely what the prose of 'Single Theme Bracha' (index 7) discusses in detail.",
+      "chosen_heading": "Single Theme Bracha",
+      "current_heading": "Sheva Brachot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Shabata Kava",
+    "candidates": [
+      "Ulla's Havdalah",
+      "Tosafot Reading",
+      "Single Theme Bracha",
+      "Friday Meal Case",
+      "Shabata Kava",
+      "Ma'aser Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rav Chananya bar Shelamya and students of Rav seated at a meal on Friday afternoon with Rav Hamnuna Saba attending, and their request to check if Shabbat has begun \u2014 exactly the scene the 'Friday Meal Case' prose introduces, before the ruling 'Shabata kava nafshah' is discussed in the next section.",
+      "chosen_heading": "Friday Meal Case",
+      "current_heading": "Shabata Kava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Ma'aser Parallel",
+    "candidates": [
+      "Shabata Kava",
+      "Ma'aser Parallel",
+      "Kiddush Not Havdalah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Rav's ruling about Shabbat establishing for ma'aser and kiddush, which is precisely the content of the 'Ma'aser Parallel' section's prose.",
+      "chosen_heading": "Ma'aser Parallel",
+      "current_heading": "Ma'aser Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Kiddush Not Havdalah",
+    "candidates": [
+      "Kiddush Not Havdalah",
+      "Kiddush Required",
+      "Before Havdalah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's ruling that Shabbat establishes kiddush but not havdalah, which is precisely what the 'Kiddush Not Havdalah' section's prose elaborates on.",
+      "chosen_heading": "Kiddush Not Havdalah",
+      "current_heading": "Kiddush Not Havdalah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Before Havdalah",
+    "candidates": [
+      "Kiddush Required",
+      "Before Havdalah",
+      "Mincha Ma'ariv Eating",
+      "Dead & Waters",
+      "Ravina's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the rules about interrupting vs. beginning eating/drinking before havdalah, and the water-before-havdalah question including Rav Huna and the school of Rav Ashi \u2014 exactly the content described in the 'Before Havdalah' prose.",
+      "chosen_heading": "Before Havdalah",
+      "current_heading": "Before Havdalah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Ravina's Question",
+    "candidates": [
+      "Mincha Ma'ariv Eating",
+      "Dead & Waters",
+      "Ravina's Question",
+      "Parallel to Havdalah",
+      "Tosefta Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's dilemma to Rav Nachman bar Yitzchak about whether one who missed kiddush on Shabbat eve may recite it throughout the day, which is precisely what the 'Ravina's Question' section prose describes.",
+      "chosen_heading": "Ravina's Question",
+      "current_heading": "Ravina's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Tosefta Objection",
+    "candidates": [
+      "Parallel to Havdalah",
+      "Tosefta Objection",
+      "Normal Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Tosefta objection itself, and the prose under 'Tosefta Objection' directly explains this exact text about kiddush on the cup at night vs. day of Shabbat/Yom Tov.",
+      "chosen_heading": "Tosefta Objection",
+      "current_heading": "Tosefta Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Normal Cases",
+    "candidates": [
+      "Normal Cases",
+      "Kvod Yom & Lyla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara exchange about whether the Tosefta discusses unusual 'what if' cases (d'ei lo lo tana), which is exactly what the 'Normal Cases' prose describes and analyzes.",
+      "chosen_heading": "Normal Cases",
+      "current_heading": "Normal Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Kvod Yom & Lyla",
+    "candidates": [
+      "Kvod Yom & Lyla",
+      "Proper Time",
+      "Havdalah Economy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the objection about kvod yom vs. kvod layla and the single-cup ruling with the chaviva mitzvah b'sha'atah response, which is precisely what the 'Kvod Yom & Lyla' prose describes \u2014 the single cup being used for Friday night kiddush because kiddush hayom takes precedence, with the chaviva mitzvah point serving as the resolution to that specific question.",
+      "chosen_heading": "Kvod Yom & Lyla",
+      "current_heading": "Kvod Yom & Lyla",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Havdalah Economy",
+    "candidates": [
+      "Proper Time",
+      "Havdalah Economy",
+      "Ayulei Yoma",
+      "Apukei Yoma",
+      "Havdalah Delay",
+      "Havdalah on Cup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Havdalah Economy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ravina's objection about chaviva mitzvah b'sha'atah from the havdalah baraita, which is precisely what the 'Havdalah Economy' prose discusses \u2014 the contradiction from the single-cup havdalah case that appears to undermine the kiddush argument.",
+      "second_heading": "Ayulei Yoma",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the resolution distinguishing ayulei yoma from apukei yoma, which is exactly what the 'Ayulei Yoma' prose section describes \u2014 the earlier we perform kiddush the better, demonstrating love for Shabbat by eagerness at entry.",
+      "current_heading": "Havdalah Economy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Havdalah on Cup",
+    "candidates": [
+      "Ayulei Yoma",
+      "Apukei Yoma",
+      "Havdalah Delay",
+      "Havdalah on Cup",
+      "Bracha Teuna Kos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the first of eight inferences from the baraita \u2014 that one who recites havdala in prayer must also recite havdala over a cup \u2014 which exactly matches the prose of candidate 3 ('Havdalah on Cup').",
+      "chosen_heading": "Havdalah on Cup",
+      "current_heading": "Havdalah on Cup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Bracha Teuna Kos",
+    "candidates": [
+      "Bracha Teuna Kos",
+      "Minimum Shiur",
+      "Tasting Required",
+      "Tasting Disqualifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the requirement of a cup for Birkat Hamazon and the minimum measure requirement, but the Gemara presents these as two inferences in a single statement, and the current placement under 'Bracha Teuna Kos' captures both \u2014 however, since the passage explicitly contains both the second and third inferences together, and the current heading's prose covers both points, the current placement is the best match.",
+      "chosen_heading": "Bracha Teuna Kos",
+      "current_heading": "Bracha Teuna Kos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Tasting Disqualifies",
+    "candidates": [
+      "Minimum Shiur",
+      "Tasting Required",
+      "Tasting Disqualifies",
+      "Havdalah After Eating",
+      "Minyan Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three inferences (tasting required, tasting disqualifies, havdalah after eating) as a unit, and the first inference about the mevarech needing to taste matches the 'Tasting Required' section's prose most directly as the starting point of this grouped set \u2014 but since the passage covers all three inferences together, it belongs under the heading that introduces the first of them, which is 'Tasting Required' (index 1).",
+      "chosen_heading": "Tasting Required",
+      "current_heading": "Tasting Disqualifies",
+      "moved": true
+    }
+  }
+]

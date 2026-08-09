@@ -54,7 +54,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Case of Unwitting Purchase with Ma'aser Sheni Money and Reversal of Sale",
@@ -73,7 +73,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Case of Intentional (Mezid) Purchase: When the Animal Acquires Ma'aser Sheni Kedusha",
@@ -97,7 +97,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Contrast: Intentionally Transferring Ma'aser Sheni to Profane Use and Misuse Concerns",
@@ -126,7 +126,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Comparison with Kiddushin B'Ma'aser Sheni: Why Marriage Does Not Require Reversal",
@@ -173,8 +173,8 @@
           "timestamp": "21:27"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Alternative Remedy: Yochel K'Negdan When the Seller Cannot Be Reversed",
@@ -192,7 +192,7 @@
           "timestamp": "21:50"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": false
     },
     {
@@ -240,8 +240,8 @@
           "timestamp": "32:05"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "The Deeper Principle: Rectifying the Ma'aser Sheni Money's Location, Not Punishing Individuals",
@@ -264,7 +264,7 @@
           "timestamp": "35:51"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -385,8 +385,8 @@
           "timestamp": "50:11"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Rabbi Eliezer's Principle: Standard 'Lo Ye'achel' Includes Forbidden Benefit Unless Explicitly Permitted",
@@ -409,7 +409,7 @@
           "timestamp": "52:39"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 12,
       "matched": true
     }
   ],
@@ -625,5 +625,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 6
+  "amud_b_sefaria_index": 6,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "33:54",
+  "amud_b_micro_title": "Seller as Enabler",
+  "shiur_start_daf": 56,
+  "shiur_start_amud": "a"
 }

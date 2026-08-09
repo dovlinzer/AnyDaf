@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Yibum & Arayot",
+    "candidates": [
+      "Culpability Question",
+      "Ulla's Cases",
+      "Gittin Examples",
+      "Yibum & Arayot",
+      "Scribe Mix-up"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ulla's Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Ulla's objection using the Gittin mishna about invalid bills of divorce (wrong kingdom dating, wrong location), which is precisely what heading 1 'Ulla's Cases' and heading 2 'Gittin Examples' describe \u2014 and since heading 2's prose specifically analyzes the Gittin get-dating cases and the answer 'ibayei lah likro legittah,' items 1-2 belong under heading 2.",
+      "second_heading": "Yibum & Arayot",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the yibum/ailonit cases brought by Rav Shimi bar Ashi and Abaye, which are exactly what heading 3 'Yibum & Arayot' describes, so the current placement of items 3-4 is correct.",
+      "current_heading": "Yibum & Arayot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Scribe Mix-up",
+    "candidates": [
+      "Scribe Mix-up",
+      "Bald Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the scribe mix-up case introduced by Rava, matching exactly the 'Scribe Mix-up' prose which covers the sofer preparing a get and shover, mixing them up, the woman remarrying, and the requirement that she should have read the get \u2014 all content present in items 1 and 2.",
+      "chosen_heading": "Scribe Mix-up",
+      "current_heading": "Scribe Mix-up",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Bald Get",
+    "candidates": [
+      "Bald Get",
+      "Natural Consequences",
+      "Pappa's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "Both items are proofs using teitzei-mizeh cases with the 'she should have read the get' answer; no candidate perfectly matches Item 1 (changed names), but all candidates are worse fits, so current placement is preferred despite imperfect alignment.",
+      "chosen_heading": "Bald Get",
+      "current_heading": "Bald Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Pappa's Distinction",
+    "candidates": [
+      "Natural Consequences",
+      "Pappa's Distinction",
+      "Huna's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's intention to rule based on 'what could she have done' and Rav Huna's initial objection citing all those mishnayot, which precisely matches the prose of 'Pappa's Distinction' where Rav Pappa's ruling rationale is explained and 'Huna's Objection' where the challenge is elaborated \u2014 but the single exchange here (Rav Pappa's thought + Rav Huna's first challenge) fits best under the current placement (index 1) which introduces Rav Pappa's position and frames Rav Huna's objection as the setup.",
+      "chosen_heading": "Pappa's Distinction",
+      "current_heading": "Pappa's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Huna's Objection",
+    "candidates": [
+      "Huna's Objection",
+      "Two Witnesses Rejected",
+      "Rumors Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts exactly the exchange described in heading 0's prose \u2014 Rav Pappa citing the resolutions, Rav Huna pressing 'veshinuyei leiku velismoch,' and Rav Pappa ceasing his lenient ruling \u2014 which is the specific content of 'Huna's Objection.'",
+      "chosen_heading": "Huna's Objection",
+      "current_heading": "Huna's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rumors Excluded",
+    "candidates": [
+      "Two Witnesses Rejected",
+      "Rumors Excluded",
+      "Korban Rule",
+      "Zeiri's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Ashi's ruling that rumors after marriage are disregarded, including the clarification about why this needed to be stated even when beit din was involved \u2014 exactly the content described in the 'Rumors Excluded' prose.",
+      "chosen_heading": "Rumors Excluded",
+      "current_heading": "Rumors Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Zeiri's View",
+    "candidates": [
+      "Korban Rule",
+      "Zeiri's View",
+      "Rav Nachman",
+      "Rava's Fact Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zeiri's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Zeiri's challenge to the mishna using the sunset ruling example, which is precisely what the 'Zeiri's View' prose describes.",
+      "second_heading": "Rav Nachman",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's counter-position that the court's permission constitutes a genuine ruling (hora'ah), which is exactly what the 'Rav Nachman' prose section discusses.",
+      "current_heading": "Zeiri's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Rava's Fact Argument",
+    "candidates": [
+      "Rav Nachman",
+      "Rava's Fact Argument",
+      "R. Eliezer Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Rav Nachman / Rava dispute \u2014 item 1 gives both their proofs side by side and item 2 completes Rava's sequential-witness argument \u2014 and candidate 0's prose explicitly discusses both Rav Nachman's proof from eid echad and the contrast with Rava's position, making it the natural home for this combined passage, whereas candidate 1 covers only Rava's side.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rava's Fact Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "R. Eliezer Strict",
+    "candidates": [
+      "Rava's Fact Argument",
+      "R. Eliezer Strict",
+      "Psak vs Fact",
+      "Incorrect Action",
+      "R. Eliezer: Znut",
+      "R. Yochanan: Issur Lav",
+      "Znut Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's proof from Rabbi Eliezer's 'yikov hadin et hahar' dictum that the court's ruling was an error not a hora'ah, and the rejection of the counter-suggestion that Rabbi Eliezer holds individuals always bring a korban even when acting on beit din's psak \u2014 exactly what the 'R. Eliezer Strict' prose describes.",
+      "chosen_heading": "R. Eliezer Strict",
+      "current_heading": "R. Eliezer Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Znut Analysis",
+    "candidates": [
+      "Psak vs Fact",
+      "Incorrect Action",
+      "R. Eliezer: Znut",
+      "R. Yochanan: Issur Lav",
+      "Znut Analysis",
+      "Multiple Korbanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rabbi Eliezer and Rabbi Yochanan over the meaning of 'kilkela' and the Gemara's analysis of why zenus does not constitute acting outside beit din's authority according to Rabbi Yochanan \u2014 precisely what the 'Znut Analysis' prose describes with the 'atun hu deshaviten pnuyah' reasoning.",
+      "chosen_heading": "Znut Analysis",
+      "current_heading": "Znut Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Multiple Korbanos",
+    "candidates": [
+      "Multiple Korbanos",
+      "Husband Then Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita supporting Rabbi Yo\u1e25anan's position on how many korbanos are required \u2014 separate offerings per act (Rabbi Elazar) vs. one offering for all (Rabbis), with the concession about five different men \u2014 which maps directly to the 'Multiple Korbanos' prose.",
+      "chosen_heading": "Multiple Korbanos",
+      "current_heading": "Multiple Korbanos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Husband Then Son",
+    "candidates": [
+      "Husband Then Son",
+      "Mamzer Status",
+      "Son Then Husband",
+      "Later Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage describes exactly the 'husband died then son died' scenario with reversed testimony, which is precisely what the 'Husband Then Son' section's prose discusses.",
+      "chosen_heading": "Husband Then Son",
+      "current_heading": "Husband Then Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Later Death",
+    "candidates": [
+      "Mamzer Status",
+      "Son Then Husband",
+      "Later Death",
+      "Kiddushin Only",
+      "No Get Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the 'son then husband' reversal case (first half) and the 'husband alive then died' case (second half), but the current heading 'Later Death' only matches the second half \u2014 the first half about levirate marriage reversal with mamzer status for first and last children is precisely what 'Son Then Husband' describes in its prose.",
+      "chosen_heading": "Son Then Husband",
+      "current_heading": "Later Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "No Get Needed",
+    "candidates": [
+      "Kiddushin Only",
+      "No Get Needed",
+      "First & Last Kids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the kiddushin-only case where the woman may return to her first husband, the second man's get not rendering her a gerushah, and the drashah of Rabbi Elazar ben Matya \u2014 all of which are the precise content described in the 'No Get Needed' prose section.",
+      "chosen_heading": "No Get Needed",
+      "current_heading": "No Get Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "First & Last Kids",
+    "candidates": [
+      "First & Last Kids",
+      "R. Akiva Position",
+      "Chachamim Disagree",
+      "Relationship Lavin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address why the mishna uses 'first and last' terminology, which is precisely what the 'First & Last Kids' prose section explains.",
+      "chosen_heading": "First & Last Kids",
+      "current_heading": "First & Last Kids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Relationship Lavin",
+    "candidates": [
+      "R. Akiva Position",
+      "Chachamim Disagree",
+      "Relationship Lavin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question about why the Rabbis say 'no mamzer from a yevama' rather than the broader principle, and the answer distinguishing lavin deshe'er from lav greida \u2014 precisely the content described in the 'Relationship Lavin' prose.",
+      "chosen_heading": "Relationship Lavin",
+      "current_heading": "Relationship Lavin",
+      "moved": false
+    }
+  }
+]

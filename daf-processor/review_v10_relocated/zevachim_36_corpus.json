@@ -1,0 +1,474 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Planning to Leave Over",
+    "candidates": [
+      "Daf 36 Overview",
+      "Planning to Leave Over",
+      "Intent vs. Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists various improper intents during slaughter that nonetheless leave the offering fit \u2014 including wrong-place blood applications, impure or uncircumcised people performing/eating, and Paschal violations \u2014 which directly illustrates the 'Intent vs. Action' section's discussion of how certain machshavot (unlike classic pigul) do not invalidate the offering.",
+      "chosen_heading": "Intent vs. Action",
+      "current_heading": "Planning to Leave Over",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Intent vs. Action",
+    "candidates": [
+      "Planning to Leave Over",
+      "Intent vs. Action",
+      "Rabbi Yehuda vs. Chachamim",
+      "Non-Category Invalidations",
+      "What Invalidates",
+      "Nosar Pesukim",
+      "L'Haniach Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage states the principle that 'intent does not render the offering unfit except in cases of chutz l'zmano and chutz l'makomo, and the Paschal offering and sin offering slaughtered shelo lishman,' which is precisely the concluding principle of the chachamim described in the 'What Invalidates' section's prose.",
+      "chosen_heading": "What Invalidates",
+      "current_heading": "Intent vs. Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "L'Haniach Language",
+    "candidates": [
+      "Rabbi Yehuda vs. Chachamim",
+      "Non-Category Invalidations",
+      "What Invalidates",
+      "Nosar Pesukim",
+      "L'Haniach Language",
+      "Pasuk Needed Elsewhere",
+      "Leviticus 7:15 Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara asking 'mai ta'ama d'Rabbi Yehuda' and Rabbi Elazar's answer about the two pesukim regarding notar, which corresponds exactly to the 'Nosar Pesukim' section's prose describing that precise question and Rabbi Elazar's response about the doubling of pesukim.",
+      "chosen_heading": "Nosar Pesukim",
+      "current_heading": "L'Haniach Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Leviticus 7:15 Baraita",
+    "candidates": [
+      "Pasuk Needed Elsewhere",
+      "Leviticus 7:15 Baraita",
+      "Extension to All Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita built around Leviticus 7:15 \u2014 item 1 introduces the baraita's derivation that a todah is eaten for a day and a night, and item 2 continues the same baraita deriving that chalifin/velados/temuros and chatas/asham share that same limit \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Leviticus 7:15 Baraita",
+      "current_heading": "Leviticus 7:15 Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Extension to All Types",
+    "candidates": [
+      "Extension to All Types",
+      "L'Haniach Teaches Machshava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita extending the one-day limit to peace offerings of a nazirite, peace offerings of Passover, and the bread loaves/wafers, which is exactly what the 'Extension to All Types' prose discusses with its breakdown of zevach/shelamav/korbano.",
+      "chosen_heading": "Extension to All Types",
+      "current_heading": "Extension to All Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "L'Haniach Teaches Machshava",
+    "candidates": [
+      "L'Haniach Teaches Machshava",
+      "Consequence to Thought"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's answer about why 'lo yaniach' is used instead of 'lo sotiru' and applies the im eino inyan principle to machsheves hinuach, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "L'Haniach Teaches Machshava",
+      "current_heading": "L'Haniach Teaches Machshava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Consequence to Thought",
+    "candidates": [
+      "Consequence to Thought",
+      "Act vs. Thought Principle",
+      "Other Mishna Cases",
+      "Pesach Bones Case",
+      "Tamei/Arel Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's challenge to Rabbi Elazar's derivation \u2014 questioning the source for the l'hotzi case and noting that Rabbi Yehuda's reasoning is logical rather than verse-based \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Consequence to Thought",
+      "current_heading": "Consequence to Thought",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Tamei/Arel Eating",
+    "candidates": [
+      "Act vs. Thought Principle",
+      "Other Mishna Cases",
+      "Pesach Bones Case",
+      "Tamei/Arel Eating",
+      "Mixing Blood",
+      "Makom Meshulasch"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pesach Bones Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks 'zivcha gufeh mi mipsal?' about breaking Pesach bones/eating raw \u2014 exactly the content described under 'Pesach Bones Case' (heading 2).",
+      "second_heading": "Tamei/Arel Eating",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the tamei/arel cases and introduces the 'ko k'minei' alternative version, which corresponds precisely to the 'Tamei/Arel Eating' section (heading 3).",
+      "current_heading": "Tamei/Arel Eating",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Makom Meshulasch",
+    "candidates": [
+      "Mixing Blood",
+      "Makom Meshulasch",
+      "Kol Davar Ra Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mixing Blood",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the 'mixing blood' case (Rabbi Yehuda l'taimei: blood does not nullify blood) and the 'above/below the chut hasikra' case (shelo l'mkomo k'mkomo), which correspond exactly to the 'Mixing Blood' section's prose about the first case and the beginning of 'Makom Meshulasch' \u2014 but since item 1 opens with the mixing-blood case and the current placement is 'Makom Meshulasch', the mixing-blood portion actually belongs under 'Mixing Blood' (index 0), yet both cases are in one Talmudic statement; however, reading the prose, 'Mixing Blood' (index 0) discusses only the mixing case while 'Makom Meshulasch' (index 1) discusses both the above/below case AND the inside/outside question \u2014 item 1 spans both headings but is closer to index 0 as its opening topic.",
+      "second_heading": "Makom Meshulasch",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the challenge about blood placed inside vs. outside the Sanctuary, which is precisely the subject of the 'Makom Meshulasch' prose discussing the inner/outer mizbeach case and why Rabbi Yehuda does not invalidate on that machshava.",
+      "current_heading": "Makom Meshulasch",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Kol Davar Ra Contradiction",
+    "candidates": [
+      "Kol Davar Ra Contradiction",
+      "Two Tannai'im",
+      "Piggul Still Applies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain of question-objection-answer about Rabbi Yehuda's position on makom meshulash and kol davar ra, exactly matching the 'Kol Davar Ra Contradiction' prose which describes the baraita contradiction, the kal vachomer from hechnis bishogeg, and the resolution via trei tanna'im \u2014 all present in these items.",
+      "chosen_heading": "Kol Davar Ra Contradiction",
+      "current_heading": "Kol Davar Ra Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Piggul Still Applies",
+    "candidates": [
+      "Two Tannai'im",
+      "Piggul Still Applies",
+      "Piggul Before Zerika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Rabbi Abba's statement that Rabbi Yehuda concedes piggul can still apply after a machshava l'haniach, which is precisely what the 'Piggul Still Applies' section's prose describes.",
+      "chosen_heading": "Piggul Still Applies",
+      "current_heading": "Piggul Still Applies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Piggul Before Zerika",
+    "candidates": [
+      "Piggul Before Zerika",
+      "Two Machshavos Issue",
+      "Blood Tomorrow Invalidates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about piggul before zerika, which matches exactly the prose in heading 0 describing Rava's analogy about meat before zerika not yet being fit but zerika coming to establish piggul status.",
+      "chosen_heading": "Piggul Before Zerika",
+      "current_heading": "Piggul Before Zerika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Blood Tomorrow Invalidates",
+    "candidates": [
+      "Two Machshavos Issue",
+      "Blood Tomorrow Invalidates",
+      "Cannot Become Piggul After",
+      "Tamei Eating Tomorrow",
+      "Meat Before Zerika"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Machshavos Issue",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'v'lo hi' rejection distinguishing one vs. two intents, which is exactly what candidate 0's prose describes as the conclusion of the Two Machshavos discussion.",
+      "second_heading": "Blood Tomorrow Invalidates",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 form the complete Rav Huna baraita challenge to Rabbi Abba (including the l'machar ruling and the tyuvta conclusion), matching candidate 1's prose about the blood-tomorrow challenge and its pasul ruling.",
+      "current_heading": "Blood Tomorrow Invalidates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Meat Before Zerika",
+    "candidates": [
+      "Cannot Become Piggul After",
+      "Tamei Eating Tomorrow",
+      "Meat Before Zerika",
+      "Unfit vs. Unready"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's ruling about impure individuals eating tomorrow AND Rava's proof from meat before zerika, which together form the complete unit discussed under 'Tamei Eating Tomorrow' \u2014 the current placement under 'Meat Before Zerika' splits what is a single Talmudic exchange.",
+      "chosen_heading": "Tamei Eating Tomorrow",
+      "current_heading": "Meat Before Zerika",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Unfit vs. Unready",
+    "candidates": [
+      "Meat Before Zerika",
+      "Unfit vs. Unready",
+      "Pesach/Toda Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection of Rava's analogy (v'lo hi), distinguishing between meat that is merely not yet ready versus meat rendered unfit by the contemplated act, which is precisely what the 'Unfit vs. Unready' section prose describes.",
+      "chosen_heading": "Unfit vs. Unready",
+      "current_heading": "Unfit vs. Unready",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Pesach/Toda Examples",
+    "candidates": [
+      "Pesach/Toda Examples",
+      "Emurim After Zerika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24isda's ruling about Pesach meat not roasted and todah loaves not separated, which is exactly what the 'Pesach/Toda Examples' prose discusses.",
+      "chosen_heading": "Pesach/Toda Examples",
+      "current_heading": "Pesach/Toda Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Emurim After Zerika",
+    "candidates": [
+      "Emurim After Zerika",
+      "Emurim Purpose",
+      "Minimal Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous unit: Rava's proof from emurim (items 1-2) and its rejection (items 3-4) are precisely what candidate 0's prose describes as Rava's third analogy and its rebuttal, with candidate 1 describing only the rejection half rather than the full exchange.",
+      "chosen_heading": "Emurim After Zerika",
+      "current_heading": "Emurim After Zerika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Minimal Placement",
+    "candidates": [
+      "Emurim Purpose",
+      "Minimal Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The item is the concluding formula 'Hadran' marking the end of Perek Kol HaPsulim and transition to the next perek, which matches exactly what the 'Minimal Placement' prose describes as the gemara transitioning into the opening mishna of the next perek after the conclusion of Perek Kol HaPsulim.",
+      "chosen_heading": "Minimal Placement",
+      "current_heading": "Minimal Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Minimal Placement",
+    "candidates": [
+      "Minimal Placement",
+      "First Valid, Second Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna presenting the Beit Shammai/Beit Hillel debate about minimal blood placements required for atonement, which is precisely what the 'Minimal Placement' prose describes.",
+      "chosen_heading": "Minimal Placement",
+      "current_heading": "Minimal Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "First Valid, Second Invalid",
+    "candidates": [
+      "First Valid, Second Invalid",
+      "Both Invalid Remains Piggul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case where the first placement is done properly and the second with improper intent (chutz l'zmanah), resulting in atonement \u2014 exactly what candidate 0's prose discusses.",
+      "chosen_heading": "First Valid, Second Invalid",
+      "current_heading": "First Valid, Second Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Both Invalid Remains Piggul",
+    "candidates": [
+      "Both Invalid Remains Piggul",
+      "Inner Mizbei'ach Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in candidate 0's prose: first application chutz l'zmanah making it piggul, second application chutz l'makomo, and the ruling that it remains piggul with karet.",
+      "chosen_heading": "Both Invalid Remains Piggul",
+      "current_heading": "Both Invalid Remains Piggul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Inner Mizbei'ach Rules",
+    "candidates": [
+      "Inner Mizbei'ach Rules",
+      "Partial Invalid Not Piggul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna rule about inner altar applications \u2014 that missing one means no atonement, and if one was done improperly the korban is pasul but carries no kares \u2014 which is exactly what the prose of heading 0 explains and cites verbatim.",
+      "chosen_heading": "Inner Mizbei'ach Rules",
+      "current_heading": "Inner Mizbei'ach Rules",
+      "moved": false
+    }
+  }
+]

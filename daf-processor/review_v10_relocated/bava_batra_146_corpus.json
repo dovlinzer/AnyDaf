@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Lo Shama Kol Tavla",
+    "candidates": [
+      "Shoshbinut Definition",
+      "Havi be-mata Rules",
+      "Lo Shama Kol Tavla",
+      "Zuza Deduction Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Kahana's complete rule covering all three cases (was in town, heard the drum, did not hear the drum), and candidate 1 ('Havi be-mata Rules') is explicitly described as covering this entire klal de-shoshbinuta statement including all its sub-cases, making it the clearly better fit than candidate 2 which focuses only on the lo shama kol tavla case.",
+      "chosen_heading": "Havi be-mata Rules",
+      "current_heading": "Lo Shama Kol Tavla",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Zuza Deduction Rule",
+    "candidates": [
+      "Lo Shama Kol Tavla",
+      "Zuza Deduction Rule",
+      "Equivalence Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's teaching about the zuza deduction rule (nahagu benei ganuna), which is precisely what the 'Zuza Deduction Rule' section's prose discusses and explains.",
+      "chosen_heading": "Zuza Deduction Rule",
+      "current_heading": "Zuza Deduction Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Equivalence Requirements",
+    "candidates": [
+      "Equivalence Requirements",
+      "Otzar Nechasim Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same Tosefta baraita about equivalence requirements in shoshbinut obligations, directly matching the prose of candidate 0 which explicitly discusses all four scenarios: public/private, virgin/widow, second/first marriage, and one/two women.",
+      "chosen_heading": "Equivalence Requirements",
+      "current_heading": "Equivalence Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Otzar Nechasim Case",
+    "candidates": [
+      "Otzar Nechasim Case",
+      "Atir Sela'im Case",
+      "Atir Mashach Case",
+      "Poor Days Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita covers all three scholar types plus the 'hakol tzrichim lemarei chittaya' conclusion, and candidate 2 ('Atir Mashach Case') is the prose section that explicitly discusses and explains the full baraita including all three types and the 'master of wheat' conclusion \u2014 it is clearly the intended home for this complete passage.",
+      "chosen_heading": "Atir Mashach Case",
+      "current_heading": "Otzar Nechasim Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Poor Days Verse",
+    "candidates": [
+      "Atir Sela'im Case",
+      "Atir Mashach Case",
+      "Poor Days Verse",
+      "Rava's Reversal",
+      "Stone & Wood Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Zeira/Rav interpreting the Proverbs verse about the poor person and good-hearted feast, identifying them as ba'al Talmud and ba'al Mishnah respectively, which is exactly what the 'Poor Days Verse' section prose describes.",
+      "chosen_heading": "Poor Days Verse",
+      "current_heading": "Poor Days Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Stone & Wood Metaphor",
+    "candidates": [
+      "Rava's Reversal",
+      "Stone & Wood Metaphor",
+      "Alternative Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's reversal statement and the Rav Mesharshaya stone/wood metaphor, and the current placement under 'Stone & Wood Metaphor' is correct since that section's prose explicitly discusses both elements together \u2014 the 'ipcha' and the Ecclesiastes verse interpretation.",
+      "chosen_heading": "Stone & Wood Metaphor",
+      "current_heading": "Stone & Wood Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Alternative Readings",
+    "candidates": [
+      "Alternative Readings",
+      "Poor Man's Misery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are alternative interpretations of the same verse (Proverbs 'all the days of the poor are terrible'), exactly matching the 'Alternative Readings' prose which explicitly discusses all four rabbis' interpretations including Rabbi \u1e24anina, Rabbi Yannai, Rabbi Yo\u1e25anan, and Rabbi Yehoshua ben Levi.",
+      "chosen_heading": "Alternative Readings",
+      "current_heading": "Alternative Readings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Poor Man's Misery",
+    "candidates": [
+      "Poor Man's Misery",
+      "Meal Finalizes Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Poor Man's Misery' prose, which explicitly discusses Rabbi Yehoshua ben Levi's objection resolved via Shmuel's teaching on shinui veset, and then the Ben Sira quotation about evil nights and the roof/vineyard imagery \u2014 exactly matching both items.",
+      "chosen_heading": "Poor Man's Misery",
+      "current_heading": "Poor Man's Misery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Meal Finalizes Gift",
+    "candidates": [
+      "Meal Finalizes Gift",
+      "No Meal, Gift Recovers",
+      "Large vs Small Gifts",
+      "Dinar Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah covers all four rulings (meal finalizes gift, no meal allows recovery, large gifts recovered, small gifts not), and the current placement under 'Meal Finalizes Gift' is the natural home for the full Mishnah text, with the subsequent headings (1, 2, 3) covering Gemara discussion of specific clauses.",
+      "chosen_heading": "Meal Finalizes Gift",
+      "current_heading": "Meal Finalizes Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Dinar Threshold",
+    "candidates": [
+      "No Meal, Gift Recovers",
+      "Large vs Small Gifts",
+      "Dinar Threshold",
+      "Eating vs Drinking",
+      "Hot Water Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's ruling that the dinar threshold is precise and not merely illustrative, which matches exactly the 'Dinar Threshold' section's prose description of this same Gemara exchange.",
+      "chosen_heading": "Dinar Threshold",
+      "current_heading": "Dinar Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Hot Water Story",
+    "candidates": [
+      "Eating vs Drinking",
+      "Hot Water Story",
+      "Eshuyot Livlot",
+      "Pearl Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Gemara's questions about eating vs. drinking/agent/sending food, the narrative of the man who drank and died, and the Usha ruling concluding 'even drinking suffices' \u2014 are precisely what candidate 0's prose describes as the block of questions followed by the narrative that resolves them, making candidate 0 the clear home for this passage.",
+      "chosen_heading": "Eating vs Drinking",
+      "current_heading": "Hot Water Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Pearl Objection",
+    "candidates": [
+      "Eshuyot Livlot",
+      "Pearl Objection",
+      "Gift Appreciation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the Gemara's questions about whether less than a dinar suffices and whether sending food counts, along with the pearl objection and the doorway equivalence \u2014 all of which are discussed together in the 'Eshuyot Livlot' prose, which explicitly references the pearl objection, the dinar question, and the 'dilma kol petach beit chamich' conclusion as part of that section's narrative.",
+      "chosen_heading": "Eshuyot Livlot",
+      "current_heading": "Pearl Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Gift Appreciation",
+    "candidates": [
+      "Pearl Objection",
+      "Gift Appreciation",
+      "Atzeret Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the unresolved dilemmas about sabalonot (presents) \u2014 enhancement of value (teiku), presents made to be consumed but not consumed, and trivial items \u2014 which are precisely what the 'Gift Appreciation' prose describes in detail.",
+      "chosen_heading": "Gift Appreciation",
+      "current_heading": "Gift Appreciation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Atzeret Story",
+    "candidates": [
+      "Atzeret Story",
+      "Impaired Smell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of a man sending new wine, oil, and linen garments at Shavuot/Atzeret, with the Gemara's two explanations about the importance of Eretz Yisrael and the plausibility of the claim, which matches precisely the 'Atzeret Story' prose.",
+      "chosen_heading": "Atzeret Story",
+      "current_heading": "Atzeret Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Impaired Smell",
+    "candidates": [
+      "Impaired Smell",
+      "Ravin's Rule",
+      "Woman Backs Out",
+      "Cheap Meat Valuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete incident about the man testing his wife's sense of smell in the ruin, which is precisely what the 'Impaired Smell' prose describes in detail, including the ruin collapsing, her death, and the ruling that he cannot inherit her.",
+      "chosen_heading": "Impaired Smell",
+      "current_heading": "Impaired Smell",
+      "moved": false
+    }
+  }
+]

@@ -125,7 +125,7 @@
           "timestamp": "40:31"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -154,7 +154,7 @@
           "timestamp": "47:43"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -358,5 +358,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "37:50",
+  "amud_b_micro_title": "Rabbi Natan Position",
+  "shiur_start_daf": 62,
+  "shiur_start_amud": "b"
 }

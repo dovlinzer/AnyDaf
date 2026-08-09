@@ -26,9 +26,7 @@ It is worth noting that at the end of the day — once the rabbinic *tikkun olam
 
 ### Gezerah Shavah
 
-The *Gemara* now lays out the textual basis for each position. Rabbi Yishmael derives his reading through a *gezeirah shavah*: the word *sadeh* — "field" — appears twice in the relevant passage. The first time it describes the field that was consumed — plainly the *nizak*'s field, since it is the one that was grazed upon. The second time, in *meitav sadehu yeshalem*, it says "the best of the field he shall pay." Since the *sadeh* mentioned below follows the *sadeh* mentioned above — and the upper usage clearly refers to the *damagee*'s field — Rabbi Yishmael reads the lower usage identically: the best of the *damagee*'s field. According to this reading, the verse establishes that collection is measured against the *nizak*'s highest-quality property, and the rabbinic *tikkun olam* upgrades that to the *mazik*'s best.
-
----
+The *Gemara* derives this from a *gezeirah shavah* on the word *sadeh*. The verse first mentions a *sadeh* in describing the animal consuming the field — clearly the *nizak*'s field, since it is the one being grazed. It then says *meitav sadehu yeshalem*, "the best of the field he shall pay." Since the same word *sadeh* appears in both clauses, and the upper usage (*sadeh lemalah*) refers to the *damagee*'s field, the lower usage (*sadeh lematah*) is read identically: payment is measured against the best of the *nizak*'s field.
 
 ## Akiva's View
 

@@ -54,7 +54,7 @@
         }
       ],
       "sefaria_index": 10,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Position: Testimony Allowed Even During the perek, But Only for Stringency",
@@ -115,7 +115,7 @@
           "timestamp": "21:27"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -163,7 +163,7 @@
           "timestamp": "35:04"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -187,7 +187,7 @@
           "timestamp": "36:27"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -567,5 +567,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "27:50",
+  "amud_b_micro_title": "Testing Methods",
+  "shiur_start_daf": 49,
+  "shiur_start_amud": "a"
 }

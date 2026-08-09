@@ -1,0 +1,253 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tvul Yom Status",
+    "candidates": [
+      "Ba'al Keri Restrictions",
+      "Tunnel System",
+      "Immersion Process",
+      "Return & Wait",
+      "Tvul Yom Status",
+      "Rabbinic Leniency",
+      "Kedusha Levels",
+      "First Service",
+      "Pre-lottery Immersion",
+      "Official's Arrival"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the kohen drying himself, warming by the fire, returning to sit with his brethren, and waiting until the gates open before leaving \u2014 exactly the content described in the 'Return & Wait' section prose.",
+      "chosen_heading": "Return & Wait",
+      "current_heading": "Tvul Yom Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Official's Arrival",
+    "candidates": [
+      "Rabbinic Leniency",
+      "Kedusha Levels",
+      "First Service",
+      "Pre-lottery Immersion",
+      "Official's Arrival",
+      "Lottery Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of when the appointed official arrives and the variability of that timing, which is precisely what the 'Official's Arrival' section's prose discusses.",
+      "chosen_heading": "Official's Arrival",
+      "current_heading": "Official's Arrival",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Lottery Process",
+    "candidates": [
+      "Lottery Process",
+      "Lottery Location",
+      "Guard Obligation",
+      "Abaye's Source",
+      "Zone Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the appointed priest arriving, knocking, announcing the lottery for those who immersed, conducting the lottery, and declaring the winner \u2014 precisely the content discussed in the 'Lottery Process' prose section.",
+      "chosen_heading": "Lottery Process",
+      "current_heading": "Lottery Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Zone Distinction",
+    "candidates": [
+      "Lottery Location",
+      "Guard Obligation",
+      "Abaye's Source",
+      "Zone Distinction",
+      "Three Places",
+      "Rav Ashi's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All five items form a single continuous sugya deriving the scriptural basis for the priestly watch obligation, beginning with the gemara's question 'from where are these matters derived?' \u2014 which is precisely what candidate 1's prose describes as the opening of this discussion.",
+      "chosen_heading": "Guard Obligation",
+      "current_heading": "Zone Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Ashi's Answer",
+    "candidates": [
+      "Three Places",
+      "Rav Ashi's Answer",
+      "Two Chambers",
+      "Aliyot Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's derivation of three watch places from three occurrences of 'mishmeret' in the verse, which matches exactly the prose of candidate 1 ('Rav Ashi's Answer') describing this derivation.",
+      "chosen_heading": "Rav Ashi's Answer",
+      "current_heading": "Rav Ashi's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Aliyot Question",
+    "candidates": [
+      "Two Chambers",
+      "Aliyot Question",
+      "Portico Design"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about whether the aliyot were literal upper stories or merely tall elevated structures, which is precisely what the 'Aliyot Question' section's prose discusses.",
+      "chosen_heading": "Aliyot Question",
+      "current_heading": "Aliyot Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Portico Design",
+    "candidates": [
+      "Portico Design",
+      "Access & Kedusha",
+      "Kohanim/Levi'im",
+      "Baraita Posuk",
+      "Two Readings",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Gate of the Spark as a portico-like structure with an upper story, which is precisely what the 'Portico Design' section's prose discusses in detail.",
+      "chosen_heading": "Portico Design",
+      "current_heading": "Portico Design",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Access & Kedusha",
+      "Kohanim/Levi'im",
+      "Baraita Posuk",
+      "Two Readings",
+      "Resolution",
+      "One Guard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the baraita deriving from 'veyilavu alecha veyeshorshucha' that the Levites share in the kohanim's shimur, which is precisely what candidate 2 ('Baraita Posuk') describes \u2014 the gemara seeking the source for including levi'im in the watch alongside kohanim, citing this very verse and its interpretation.",
+      "chosen_heading": "Baraita Posuk",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "One Guard",
+    "candidates": [
+      "Resolution",
+      "One Guard",
+      "Trapdoor",
+      "Stone Steps",
+      "Stone Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the Chamber of the Hearth (beit hamoked) having one guard despite two gates, which is precisely what the 'One Guard' section's prose describes \u2014 including the dome/large hall introduction and Abaye's resolution about the two gates being close enough for a single watchman.",
+      "chosen_heading": "One Guard",
+      "current_heading": "One Guard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Stone Cutting",
+    "candidates": [
+      "Trapdoor",
+      "Stone Steps",
+      "Stone Cutting",
+      "Sleep Arrangements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items form a continuous question-and-answer unit about whether hewn/chiseled stones were permitted in the Temple construction, which is precisely what the 'Stone Cutting' section's prose describes \u2014 the halakhic challenge of using iron tools and Abaye's resolution about preparing stones outside the azara.",
+      "chosen_heading": "Stone Cutting",
+      "current_heading": "Stone Cutting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Sleep Arrangements",
+    "candidates": [
+      "Sleep Arrangements",
+      "Rovim vs Pirchei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the elders sleeping in the Chamber of the Hearth and Abaye's ruling about not bringing beds into the Temple, which is precisely what the 'Sleep Arrangements' prose section addresses.",
+      "chosen_heading": "Sleep Arrangements",
+      "current_heading": "Sleep Arrangements",
+      "moved": false
+    }
+  }
+]

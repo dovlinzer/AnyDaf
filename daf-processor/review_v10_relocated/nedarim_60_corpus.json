@@ -1,0 +1,324 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Knockout Question",
+    "candidates": [
+      "Rabbi Chanina's Onion",
+      "Knockout Question",
+      "Gidulei Gidulin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Chanina's Onion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening statement of Rabbi Chanina/Yannai's ruling about the teruma onion, which heading 0 ('Rabbi Chanina's Onion') is explicitly about.",
+      "second_heading": "Knockout Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the knockout challenge (gidulei terumah terumah) and the gidulei gidulin resolution, which heading 1 ('Knockout Question') discusses as the challenge posed at the end of the sugya \u2014 and heading 2 covers the gidulei gidulin elaboration, but the prose of heading 1 already encompasses both the challenge and its answer including the afilu bedavar she-ein zaro kalah point.",
+      "current_heading": "Knockout Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Gidulei Gidulin",
+    "candidates": [
+      "Gidulei Gidulin",
+      "Terumah vs Tevel",
+      "Sugya Conclusion",
+      "Ran's Resolution",
+      "Today & Nightfall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishna about tevel and its growths being forbidden for items whose seeds do not cease, which is precisely the content described in the 'Terumah vs Tevel' section's prose about the tevel Mishna creating a difficulty for the preceding discussion.",
+      "chosen_heading": "Terumah vs Tevel",
+      "current_heading": "Gidulei Gidulin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Today & Nightfall",
+    "candidates": [
+      "Terumah vs Tevel",
+      "Sugya Conclusion",
+      "Ran's Resolution",
+      "Today & Nightfall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Hadran formula marks the conclusion of tractate/chapter Hanodea Min Hayarak and the transition to a new perek, which is precisely what the 'Today & Nightfall' prose section describes as its opening context.",
+      "chosen_heading": "Today & Nightfall",
+      "current_heading": "Today & Nightfall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Today & Nightfall",
+    "candidates": [
+      "Today & Nightfall",
+      "Weeks & Months",
+      "Years & Rosh Hashana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself covering all three cases (today/nightfall, this week/Shabbat, this month/Rosh Chodesh), and it currently sits under 'Today & Nightfall' which is the opening section that introduces this Mishna \u2014 the current placement is correct as the Mishna text precedes the discussion that is then elaborated under subsequent headings.",
+      "chosen_heading": "Today & Nightfall",
+      "current_heading": "Today & Nightfall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Years & Rosh Hashana",
+    "candidates": [
+      "Weeks & Months",
+      "Years & Rosh Hashana",
+      "Duration Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses 'this year' (shanah zo) with Rosh Hashana belonging to the upcoming year, and 'this seven-year cycle' (shavua zeh) with the shemitah year belonging to the prior cycle \u2014 exactly what the 'Years & Rosh Hashana' prose describes.",
+      "chosen_heading": "Years & Rosh Hashana",
+      "current_heading": "Years & Rosh Hashana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Duration Specificity",
+    "candidates": [
+      "Duration Specificity",
+      "Until Pesach Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes duration-based vows (yom echad, shabbat achat, etc.) and the asur miyom leyom rule, which is precisely what the 'Duration Specificity' prose discusses.",
+      "chosen_heading": "Duration Specificity",
+      "current_heading": "Duration Specificity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Until Pesach Debate",
+    "candidates": [
+      "Until Pesach Debate",
+      "Gezeirah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishna's rulings on 'until Passover' formulations and the Rabbi Meir/Rabbi Yosei debate about 'until before Passover,' which is precisely what the 'Until Pesach Debate' section prose describes.",
+      "chosen_heading": "Until Pesach Debate",
+      "current_heading": "Until Pesach Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Gezeirah Logic",
+    "candidates": [
+      "Gezeirah Logic",
+      "Vows vs Fasts",
+      "Rosh Chodesh Dating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items directly discuss the gezeira logic of hayom vs. yom echad, Abaye's challenge, Rav Yosef's asymmetric confusion response, and Rabbi Natan's framework \u2014 exactly the content described in the 'Gezeirah Logic' prose section.",
+      "chosen_heading": "Gezeirah Logic",
+      "current_heading": "Gezeirah Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rosh Chodesh Dating",
+    "candidates": [
+      "Vows vs Fasts",
+      "Rosh Chodesh Dating",
+      "Unresolved 'Day'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's questions about 'this week' including Shabbat and 'this month' with Rosh Chodesh belonging to the coming month \u2014 precisely the content that heading 1 ('Rosh Chodesh Dating') addresses, including the ruling that people call the day Rosh Chodesh of the new month (item 3's conclusion) which directly supports the document-dating discussion in that prose.",
+      "chosen_heading": "Rosh Chodesh Dating",
+      "current_heading": "Rosh Chodesh Dating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Unresolved 'Day'",
+    "candidates": [
+      "Unresolved 'Day'",
+      "Yovel Cycle Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yovel Cycle Debate",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses the mishna's ruling about 'this year' applying to the whole year, which relates to the Yovel cycle debate context (candidate 1) rather than the bare-word 'yom' dilemma.",
+      "second_heading": "Unresolved 'Day'",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 constitute the complete, self-contained discussion of the bare-word 'yom' dilemma \u2014 the ibayei lehu, the failed proofs from the mishna, Rav Ashi's leap-year argument, and its refutation \u2014 which exactly matches the prose of candidate 0 ('Unresolved Day').",
+      "current_heading": "Unresolved 'Day'",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Yovel Cycle Debate",
+    "candidates": [
+      "Yovel Cycle Debate",
+      "Rabbi Meir vs Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the dilemma about whether the fiftieth (Yovel) year is counted as part of the prior fifty or after fifty, which matches exactly the 'Yovel Cycle Debate' prose describing an ibayei lehu about whether the prohibition extends through the fiftieth year itself.",
+      "chosen_heading": "Yovel Cycle Debate",
+      "current_heading": "Yovel Cycle Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Rabbi Meir vs Yehuda",
+    "candidates": [
+      "Rabbi Meir vs Yehuda",
+      "Yovel & Vows",
+      "Ambiguity Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the baraita dispute between Rabbi Yehuda and the Rabbis about whether the Jubilee year counts toward the next seven-year cycle, including their mutual challenges and the Gemara's resolution \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rabbi Meir vs Yehuda",
+      "current_heading": "Rabbi Meir vs Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Ambiguity Principle",
+    "candidates": [
+      "Yovel & Vows",
+      "Ambiguity Principle",
+      "Marriage Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening of the Gemara's discussion of the ambiguity principle \u2014 asking whether Rabbi Meir holds 'a person does not place himself in uncertainty' and Rabbi Yossi holds the opposite \u2014 which is precisely what the 'Ambiguity Principle' prose section describes and elaborates upon.",
+      "chosen_heading": "Ambiguity Principle",
+      "current_heading": "Ambiguity Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Marriage Ambiguity",
+    "candidates": [
+      "Marriage Ambiguity",
+      "Reversed Positions",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Kiddushin mishna contradiction (Rabbi Meir and Rabbi Yossi's positions on betrothal ambiguity), which is precisely what candidate 0's prose describes as 'the Gemara immediately raises a difficulty' with the reversed positions case from Kiddushin.",
+      "chosen_heading": "Marriage Ambiguity",
+      "current_heading": "Marriage Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "General Principle",
+    "candidates": [
+      "Reversed Positions",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces the muchlefa (reversed positions) principle via Rabbi \u1e24anina bar Avdimi/Rav, which aligns with the 'Reversed Positions' section's prose about muchlefa ha-shita, and the baraita it cites serves as proof of that reversal rather than standing alone as a 'General Principle.'",
+      "chosen_heading": "Reversed Positions",
+      "current_heading": "General Principle",
+      "moved": true
+    }
+  }
+]

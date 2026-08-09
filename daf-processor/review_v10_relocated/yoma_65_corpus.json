@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Tosafot Muvchar",
+    "candidates": [
+      "New Lottery Setup",
+      "Rav's Mitzvah B'Rishon",
+      "R. Yochanan Nidcheh",
+      "Ba'alei Chayim Nidchim",
+      "Tosafot Muvchar",
+      "Tosafot Human Sphere",
+      "Aesthetics Philosophy",
+      "Mishnah Chatat Tzibur",
+      "Proving Rav Gemara",
+      "Rabbi Abba Lost Offering",
+      "Niskaper Be'Acher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes the exact text about bringing the superior second animal ('muvchar mimenu'), which is precisely the qualification from Rabbi Yossi's teaching that Tosafot section 4 discusses as its central topic.",
+      "chosen_heading": "Tosafot Muvchar",
+      "current_heading": "Tosafot Muvchar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Niskaper Be'Acher",
+    "candidates": [
+      "Tosafot Human Sphere",
+      "Aesthetics Philosophy",
+      "Mishnah Chatat Tzibur",
+      "Proving Rav Gemara",
+      "Rabbi Abba Lost Offering",
+      "Niskaper Be'Acher",
+      "Replacement vs Backup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Proving Rav Gemara",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-5 discuss the Mishnah/Baraita precision supporting Rav vs Rabbi Yochanan and the Rabbi Yehuda/Rabbis dispute, matching the 'Proving Rav Gemara' prose about using the Mishnah to adjudicate the debate.",
+      "second_heading": "Rabbi Abba Lost Offering",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 introduce the Mishnah about communal chatat not dying and Rabbi Abba's teaching about the lost offering, matching exactly the 'Rabbi Abba Lost Offering' prose description.",
+      "current_heading": "Niskaper Be'Acher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Replacement vs Backup",
+    "candidates": [
+      "Replacement vs Backup",
+      "New Pair as Backup",
+      "Designated for Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Oshaya's ruling about two sin-offerings designated as a guarantee (le'achrayus), which is precisely what the prose of heading 0 explains and discusses as its central teaching.",
+      "chosen_heading": "Replacement vs Backup",
+      "current_heading": "Replacement vs Backup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Designated for Loss",
+    "candidates": [
+      "New Pair as Backup",
+      "Designated for Loss",
+      "Rabbi Yehudah Dies",
+      "First Goat Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's resolution that since Rav holds mitzvah barishon, the second goat was 'from the beginning comparable to an offering separated to be lost' (me'ikara ke'mafrish le'ibud dami), which is precisely what the 'Designated for Loss' section's prose describes and analyzes.",
+      "chosen_heading": "Designated for Loss",
+      "current_heading": "Designated for Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "First Goat Dies",
+    "candidates": [
+      "Rabbi Yehudah Dies",
+      "First Goat Dies",
+      "Reversal of Pairing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the tension between Rabbi Yehudah's ruling and the question of 'with which goat does atonement get made,' resolving that Rabbi Yehudah was referring to the second goat of the first pair \u2014 exactly the content described in the 'First Goat Dies' prose, which explicitly anticipates this le-Rabbi Yehuda bameh mitkaper question and the clarification about which pair's goat Rabbi Yehudah was condemning.",
+      "chosen_heading": "First Goat Dies",
+      "current_heading": "First Goat Dies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Reversal of Pairing",
+    "candidates": [
+      "Reversal of Pairing",
+      "Rav and Rabbi Yehudah",
+      "Blood Spills Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the 'and furthermore' (v'od) tension between Rav's framework (two distinct disputes) and Rabbi Yochanan's framework (only one clear dispute), ending with 'kashya' \u2014 which is precisely what candidate 1 ('Rav and Rabbi Yehudah') describes in its prose.",
+      "chosen_heading": "Rav and Rabbi Yehudah",
+      "current_heading": "Reversal of Pairing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Blood Spills Proof",
+    "candidates": [
+      "Rav and Rabbi Yehudah",
+      "Blood Spills Proof",
+      "Rashi Core Lottery",
+      "Scapegoat Stand Alive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes and begins analyzing Rabbi Yehudah's ruling that if the blood spills the scapegoat must die, which is precisely what the 'Blood Spills Proof' section's prose discusses as its opening topic.",
+      "chosen_heading": "Blood Spills Proof",
+      "current_heading": "Blood Spills Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Scapegoat Stand Alive",
+    "candidates": [
+      "Rashi Core Lottery",
+      "Scapegoat Stand Alive",
+      "Shekalim Trumah",
+      "Lost Money Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why the blood must be spilled if the scapegoat dies and the verse-based answer that the mishtalei'ach must stand alive through matan dam, which is precisely what the 'Scapegoat Stand Alive' prose discusses.",
+      "chosen_heading": "Scapegoat Stand Alive",
+      "current_heading": "Scapegoat Stand Alive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Lost Money Timeline",
+    "candidates": [
+      "Shekalim Trumah",
+      "Lost Money Timeline",
+      "Duplicate Shekalim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Mishnah from Shekalim describing what happens when sent shekels are lost \u2014 sworn to treasurers if terumah was already taken, sworn to city residents and city pays again if not \u2014 which matches precisely the 'Lost Money Timeline' prose about pre- vs. post-terumah loss scenarios.",
+      "chosen_heading": "Lost Money Timeline",
+      "current_heading": "Lost Money Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Duplicate Shekalim",
+    "candidates": [
+      "Duplicate Shekalim",
+      "R. Yehudah Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case where lost shekels are found or returned after replacement, with the dispute about whether they count toward the following year \u2014 exactly what the 'Duplicate Shekalim' prose describes.",
+      "chosen_heading": "Duplicate Shekalim",
+      "current_heading": "Duplicate Shekalim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "R. Yehudah Obligation",
+    "candidates": [
+      "R. Yehudah Obligation",
+      "Abaye Challenge",
+      "This Year's Funds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rava's explanation of Rabbi Yehuda's reasoning (chovas hashana hazo kereivah l'shana haba'ah), which is precisely what the 'R. Yehudah Obligation' section's prose describes and analyzes.",
+      "chosen_heading": "R. Yehudah Obligation",
+      "current_heading": "R. Yehudah Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "This Year's Funds",
+    "candidates": [
+      "Abaye Challenge",
+      "This Year's Funds",
+      "Rav Zeira Lottery Year",
+      "Gezerah Old Lot",
+      "Kohen Gadol Dies",
+      "Gezerah Cycle",
+      "Age Disqualification",
+      "Solar Year Technicality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: Abaye's challenge about the bull and goat dying, Rava's response invoking the 'new funds' principle of Rabbi Tavi/Rabbi Yoshiya, the objection that this only works for the goat not the bull (answered by gezeirah), and the further objection that the 'new funds' rule is only lechatchilah \u2014 exactly the content described in the 'This Year's Funds' prose.",
+      "chosen_heading": "This Year's Funds",
+      "current_heading": "This Year's Funds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Solar Year Technicality",
+    "candidates": [
+      "Rav Zeira Lottery Year",
+      "Gezerah Old Lot",
+      "Kohen Gadol Dies",
+      "Gezerah Cycle",
+      "Age Disqualification",
+      "Solar Year Technicality",
+      "Final Reasons Deaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of proposed answers and rejections \u2014 Rabbi Zeira's lottery argument, the challenge to redraw lots, the mutual gezeirah between par and se'ir, and the age disqualification \u2014 which corresponds exactly to the 'Gezerah Cycle' section's prose about the Gemara's dissatisfaction with recursive gezeirah reasoning and the umishum gezeirah yamusu objection.",
+      "chosen_heading": "Gezerah Cycle",
+      "current_heading": "Solar Year Technicality",
+      "moved": true
+    }
+  }
+]

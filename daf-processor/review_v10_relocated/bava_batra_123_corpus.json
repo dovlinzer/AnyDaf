@@ -1,0 +1,435 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Logical Comparison",
+    "candidates": [
+      "One vs. All Sons",
+      "Logical Comparison",
+      "Yosef Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the complete baraita discussing the two interpretations of 'pi shnayim' and their resolution via a verse, which is precisely what heading 0 ('One vs. All Sons') describes \u2014 the definitional question of whether the bechor receives double one brother's share or double all brothers' combined shares.",
+      "chosen_heading": "One vs. All Sons",
+      "current_heading": "Logical Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Yosef Proof",
+    "candidates": [
+      "Logical Comparison",
+      "Yosef Proof",
+      "Rav Pappa Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items concern the baraita's proof from Joseph's birthright \u2014 the Chronicles verses, the gezerah shavah linking bechorah to later generations, and the Shechem verse establishing double-one-individual \u2014 which is precisely what the 'Yosef Proof' prose section describes in detail.",
+      "chosen_heading": "Yosef Proof",
+      "current_heading": "Yosef Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Pappa Challenge",
+    "candidates": [
+      "Rav Pappa Challenge",
+      "Ephraim Menashe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's challenge (why not just a palm tree?) and Abaye's response with the Ephraim/Manasseh verse, and the current heading 'Rav Pappa Challenge' explicitly describes this exact exchange including the palm tree objection, making it the correct placement.",
+      "chosen_heading": "Rav Pappa Challenge",
+      "current_heading": "Rav Pappa Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Ephraim Menashe",
+    "candidates": [
+      "Ephraim Menashe",
+      "Initial Question",
+      "Simple Answer",
+      "Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi \u1e24elbo's question to Rabbi Shmuel bar Na\u1e25mani about why Yaakov took the bechorah from Reuven and gave it to Yosef, which is precisely what the 'Initial Question' prose section describes.",
+      "chosen_heading": "Initial Question",
+      "current_heading": "Ephraim Menashe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Parable",
+    "candidates": [
+      "Initial Question",
+      "Simple Answer",
+      "Parable",
+      "Counter-Objection",
+      "Intended Firstborn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the parable of the homeowner and orphan plus the immediate counter-objection raised by Rabbi \u1e24elbo, which maps directly to the 'Parable' section's prose describing both the parable and the difficulty it opens.",
+      "chosen_heading": "Parable",
+      "current_heading": "Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Intended Firstborn",
+    "candidates": [
+      "Counter-Objection",
+      "Intended Firstborn",
+      "Primogeniture Narrative",
+      "Leah's Eyes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and conveys Rabbi Yonatan's teaching that the bechorah was naturally destined for Rachel/Yosef, which is precisely what the 'Intended Firstborn' section's prose discusses.",
+      "chosen_heading": "Intended Firstborn",
+      "current_heading": "Intended Firstborn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Leah's Eyes",
+    "candidates": [
+      "Primogeniture Narrative",
+      "Leah's Eyes",
+      "Leah's Prayer",
+      "Eyelashes",
+      "Hated Eisav's Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the meaning of 'rakot' in 've'einei Leah rakot' \u2014 first Rabbi Elazar's interpretation (her gifts were long-lasting), then Rav's interpretation (literally weak eyes from crying at the crossroads), then the continuation of Rav's explanation about her weeping until her eyelashes fell out \u2014 precisely the content described in the 'Leah's Eyes' prose.",
+      "chosen_heading": "Leah's Eyes",
+      "current_heading": "Leah's Eyes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Hated Eisav's Ways",
+    "candidates": [
+      "Leah's Prayer",
+      "Eyelashes",
+      "Hated Eisav's Ways",
+      "Rachel Warns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the meaning of 'senuah' applied to Leah and reinterprets it as Leah hating Esau's ways, which is precisely what candidate 0 ('Leah's Prayer') describes in its prose, while candidate 2 ('Hated Eisav's Ways') is where it currently sits but candidate 0 is a clearly better match as it quotes the exact same reasoning and conclusion.",
+      "chosen_heading": "Leah's Prayer",
+      "current_heading": "Hated Eisav's Ways",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rachel Warns",
+    "candidates": [
+      "Hated Eisav's Ways",
+      "Rachel Warns",
+      "Deception Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rachel's modesty (tzni'ut) and her warning to Yaakov about Lavan's deceptive nature, which is exactly what the 'Rachel Warns' section prose describes.",
+      "chosen_heading": "Rachel Warns",
+      "current_heading": "Rachel Warns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Deception Strategy",
+    "candidates": [
+      "Deception Strategy",
+      "Secret Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the exchange between Jacob and Rachel about Laban's deception, Jacob's claim to be his equal in deceit, the theological question about righteous people deceiving, and the giving of secret signs \u2014 all of which are discussed in the 'Deception Strategy' prose.",
+      "chosen_heading": "Deception Strategy",
+      "current_heading": "Deception Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Secret Signs",
+    "candidates": [
+      "Secret Signs",
+      "Sister's Honor",
+      "Counting Problem",
+      "Leah's Count",
+      "Dina Twin",
+      "Yocheved Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what section 0's prose discusses: Rachel giving the secret signs to Leah, the gemara's question about the verse 'behold it was Leah,' and the resolution that Jacob didn't recognize her because of the signs Rachel had passed to Leah.",
+      "chosen_heading": "Secret Signs",
+      "current_heading": "Secret Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Yocheved Solution",
+    "candidates": [
+      "Sister's Honor",
+      "Counting Problem",
+      "Leah's Count",
+      "Dina Twin",
+      "Yocheved Solution",
+      "Timing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the continuous exchange about the Dina-twin proposal, the Benjamin objection, and Rabbi \u1e24iyya's 'precious pearl' response revealing Jocheved as the true answer \u2014 exactly the content described under candidate 3 ('Dina Twin'), which explicitly covers the v'et Dinah twin theory, the Binyamin challenge, the margalit tovah retort, and the transition to the real solution.",
+      "chosen_heading": "Dina Twin",
+      "current_heading": "Yocheved Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Timing Question",
+    "candidates": [
+      "Yocheved Solution",
+      "Timing Question",
+      "Yosef Defeats Eisav",
+      "Fire & Flame",
+      "David Challenge",
+      "Menashe Help"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Chelbo's question about why Yaakov chose to leave specifically when Yosef was born, which matches exactly the 'Timing Question' heading's prose about that very question.",
+      "chosen_heading": "Timing Question",
+      "current_heading": "Timing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Menashe Help",
+    "candidates": [
+      "Yosef Defeats Eisav",
+      "Fire & Flame",
+      "David Challenge",
+      "Menashe Help",
+      "Shimon Challenge"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Shimon Challenge",
+    "candidates": [
+      "Shimon Challenge",
+      "Yish'ei Resolution",
+      "Five Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's objection (the Shimon challenge) and Rabba bar Sheila's resolution, and the current heading's prose explicitly describes Rav Yosef's challenge about the sons of Shimon going to Har Se'ir \u2014 making heading 0 the best fit for the complete passage including its resolution.",
+      "chosen_heading": "Shimon Challenge",
+      "current_heading": "Shimon Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Five Categories",
+    "candidates": [
+      "Yish'ei Resolution",
+      "Five Categories",
+      "Unguarded Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing the five categories (foreleg, jaw, maw, sacrificial animals, and estate enhancement) in which the firstborn takes a double portion, which is precisely what the 'Five Categories' section prose describes.",
+      "chosen_heading": "Five Categories",
+      "current_heading": "Five Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Unguarded Property",
+    "candidates": [
+      "Unguarded Property",
+      "Improvement Rule",
+      "Kohen Gifts",
+      "Double in Ra'uy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the cow case (leased/rented/grazing giving birth \u2192 bechor takes double) and the contrast with built houses/planted vineyards, which together form the complete baraita unit explaining 'how so' \u2014 the current placement under 'Unguarded Property' covers the cow example, and candidate 1 'Improvement Rule' covers only the contrast, but since this is a single baraita item containing both halves, it belongs under the heading whose prose most fully matches the primary subject matter, which is the cow/unguarded property case that opens the passage.",
+      "chosen_heading": "Unguarded Property",
+      "current_heading": "Unguarded Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Double in Ra'uy",
+    "candidates": [
+      "Improvement Rule",
+      "Kohen Gifts",
+      "Double in Ra'uy",
+      "Mechari Definition",
+      "Already Separated",
+      "Gifts Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's analysis of whether the priestly gifts came into the father's possession or not, and invokes the rule that the bechor does not take a double portion in ra'uy \u2014 exactly what the 'Double in Ra'uy' prose section describes.",
+      "chosen_heading": "Double in Ra'uy",
+      "current_heading": "Double in Ra'uy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Gifts Presumption",
+    "candidates": [
+      "Mechari Definition",
+      "Already Separated",
+      "Gifts Presumption",
+      "Kodashim Problem",
+      "Shelamim Solution",
+      "Mammon Ba'alim",
+      "Ma'ala Ma'al"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Already Separated",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the full Gemara answer about makirei kehunah, slaughter during father's lifetime, and the presumption that unseparated gifts are treated as separated \u2014 exactly the content discussed in the 'Already Separated' prose.",
+      "second_heading": "Kodashim Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection about sanctified animals not belonging to the father, which is precisely the problem introduced in the 'Kodashim Problem' prose.",
+      "current_heading": "Gifts Presumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Ma'ala Ma'al",
+    "candidates": [
+      "Kodashim Problem",
+      "Shelamim Solution",
+      "Mammon Ba'alim",
+      "Ma'ala Ma'al",
+      "Non-Kohen Shelamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita from Leviticus 5:21 ('uma'al ma'al b'Hashem') that Rabbi Yosi HaGelili uses to prove shelamim are mammon ba'alim, which is precisely what the 'Ma'ala Ma'al' section's prose describes.",
+      "chosen_heading": "Ma'ala Ma'al",
+      "current_heading": "Ma'ala Ma'al",
+      "moved": false
+    }
+  }
+]

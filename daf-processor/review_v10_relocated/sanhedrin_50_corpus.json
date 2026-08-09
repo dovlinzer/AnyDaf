@@ -1,0 +1,238 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Arusa/Nesuah Proof",
+    "candidates": [
+      "Four Executions",
+      "Sekila > Sereifa",
+      "Arusa/Nesuah Proof",
+      "Sekila > Sayif"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 18,
+      "first_heading": "Arusa/Nesuah Proof",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-18 cover the Rabbanan's full comparative ranking of all four death penalties, which fits under the current placement covering the arusa/nesuah proof and ranking arguments, even though the prose only explicitly discusses a subset.",
+      "second_heading": "Four Executions",
+      "second_confidence": "medium",
+      "second_reason": "Items 19-25 begin Rabbi Shimon's distinct alternative ordering (sereifa before sekila), which the prose of heading 0 ('Four Executions') explicitly describes as Rabbi Shimon reversing the order within each pair.",
+      "current_heading": "Arusa/Nesuah Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Sekila > Sayif",
+    "candidates": [
+      "Sekila > Sayif",
+      "Sekila > Chenek",
+      "Gezeira Shava",
+      "Sereifa Hierarchy",
+      "Sayif > Chenek",
+      "Bat Kohen Key",
+      "Sereifa > Sekila",
+      "Sereifa Complete",
+      "Sekila > Sayif",
+      "Sekila > Chenek",
+      "Chenek > Hereg"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Chenek > Hereg",
+    "candidates": [
+      "Sekila > Chenek",
+      "Gezeira Shava",
+      "Sereifa Hierarchy",
+      "Sayif > Chenek",
+      "Bat Kohen Key",
+      "Sereifa > Sekila",
+      "Sereifa Complete",
+      "Sekila > Sayif",
+      "Sekila > Chenek",
+      "Chenek > Hereg",
+      "Naara Me'orasah",
+      "Incest Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage explicitly cites the baraita about the madiach ir ha'nidachat receiving sekila (rabanan) or chenek (Rabbi Shimon), which is precisely the proof used in section 9 to establish chenek's superiority over hereg/sayif in Rabbi Shimon's system.",
+      "chosen_heading": "Chenek > Hereg",
+      "current_heading": "Chenek > Hereg",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Incest Case",
+    "candidates": [
+      "Naara Me'orasah",
+      "Incest Case",
+      "Nifka Minah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the betrothed daughter of a priest case AND the incest case as a single baraita that Rabbi Yo\u1e25anan was wont to say, and candidate 0's prose explicitly discusses this as Rav Yochanan's famous teaching covering both parts, while the current placement under 'Incest Case' only captures the second half.",
+      "chosen_heading": "Naara Me'orasah",
+      "current_heading": "Incest Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Nifka Minah",
+    "candidates": [
+      "Incest Case",
+      "Nifka Minah",
+      "Braitah Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the nifka minah question \u2014 what the baraita teaches us about the Rabbis vs. Rabbi Shimon's positions on burning vs. stoning severity, and the practical difference for one sentenced to two death penalties \u2014 which is precisely what the 'Nifka Minah' section's prose discusses.",
+      "chosen_heading": "Nifka Minah",
+      "current_heading": "Nifka Minah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Braitah Analysis",
+    "candidates": [
+      "Braitah Analysis",
+      "Pesuk Reading",
+      "Zomemim Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the opening of Rabbi Shimon's baraita and the Gemara's immediate challenge/correction ('say: with regard to the daughter of a priest as well'), which matches exactly what heading 0's prose describes as the Gemara asking what Rabbi Shimon's source is and the challenge about bas Yisrael.",
+      "chosen_heading": "Braitah Analysis",
+      "current_heading": "Braitah Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Zomemim Rules",
+    "candidates": [
+      "Pesuk Reading",
+      "Zomemim Rules",
+      "Pesuk Parallels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pesuk Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the verse singling out the married and betrothed daughter of a priest to render punishment more severe (establishing sereifa > sekila), which is exactly what candidate 0 'Pesuk Reading' discusses.",
+      "second_heading": "Zomemim Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 transition first to zomemim rules (matching candidate 1's prose about false witnesses receiving the bas Yisrael penalty) and then to the baraita about 'ki techel liznos' (which candidate 2 'Pesuk Parallels' discusses), but item 3 fits squarely under candidate 1 'Zomemim Rules' and item 4 begins the next section \u2014 however since item 4 must go with item 3 under a single heading, candidate 1 is the better fit for both given the current placement includes item 3's zomemim content.",
+      "current_heading": "Zomemim Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Pesuk Parallels",
+    "candidates": [
+      "Pesuk Parallels",
+      "Expansion Rules",
+      "Bat Ish Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the continuous baraita discussion establishing the gezeira shava from 'aviha' to require zikas habaal, then questioning whether the bas kohen case is limited to na'arah me'orasah \u2014 exactly what the 'Pesuk Parallels' prose describes in detail.",
+      "chosen_heading": "Pesuk Parallels",
+      "current_heading": "Pesuk Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Bat Ish Kohen",
+    "candidates": [
+      "Expansion Rules",
+      "Bat Ish Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'u'vas kohen mikkol makom' directly addresses the derivation that the bas kohen ruling applies regardless of whom she married, which matches the prose of 'Bat Ish Kohen' that discusses the talmud lomar dismissing the hava amina about husband identity.",
+      "chosen_heading": "Bat Ish Kohen",
+      "current_heading": "Bat Ish Kohen",
+      "moved": false
+    }
+  }
+]

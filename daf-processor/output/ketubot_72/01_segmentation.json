@@ -39,8 +39,8 @@
           "timestamp": "06:25"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Nature of Marriage: From Master-Servant to Equal Partnership (Ish and Isha)",
@@ -68,7 +68,7 @@
           "timestamp": "09:38"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": false
     },
     {
@@ -102,7 +102,7 @@
           "timestamp": "12:17"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -165,7 +165,7 @@
           "timestamp": "18:34"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -372,7 +372,7 @@
           "timestamp": "55:36"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 18,
       "matched": true
     }
   ],
@@ -589,5 +589,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "46:56",
+  "amud_b_micro_title": "Law vs. Practice",
+  "shiur_start_daf": 72,
+  "shiur_start_amud": "a"
 }

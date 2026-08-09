@@ -1,0 +1,192 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Matanot Debate",
+    "candidates": [
+      "Koy & Oto Ve-et Beno",
+      "Zera Ha-av Question",
+      "Matanot Debate",
+      "Blood & Gifts Case",
+      "Half vs. Full Identity",
+      "Oto Ve-et Beno Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Matanot Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 cover the baraita about priestly gifts (matanot), the debate between Rabbi Eliezer and the Rabbis over 'seh afilu miktzas seh', and Rav Pappa's conclusion about kisuy ha-dam and matanot \u2014 precisely the content described in the 'Matanot Debate' prose.",
+      "second_heading": "Oto Ve-et Beno Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 10 introduces Rav Pappa's application to oto ve-et beno, noting it applies in both parentage configurations \u2014 which is exactly what the 'Oto Ve-et Beno Cases' prose discusses.",
+      "current_heading": "Matanot Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Oto Ve-et Beno Cases",
+    "candidates": [
+      "Blood & Gifts Case",
+      "Half vs. Full Identity",
+      "Oto Ve-et Beno Cases",
+      "Eliezer vs. Chachamim",
+      "Rav Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items detail Rav Pappa's two-scenario matrix for oto ve-et beno \u2014 tayish ba al tzviyah (le-issura) and tzvi ba al tayashah (le-malkot) \u2014 with the Rabbi Eliezer vs. Rabbis dispute over seh afilu miktzas seh, which is precisely what the 'Oto Ve-et Beno Cases' prose describes.",
+      "chosen_heading": "Oto Ve-et Beno Cases",
+      "current_heading": "Oto Ve-et Beno Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rav Yehuda Position",
+    "candidates": [
+      "Eliezer vs. Chachamim",
+      "Rav Yehuda Position",
+      "Rav Nachman Position",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Yehuda's opinion (koy as a distinct entity whose category is undetermined) and Rav Nachman's opinion (koy as the wild ram), and the current placement under 'Rav Yehuda Position' has prose that explicitly discusses both opinions together as part of the Amoraic identification discussion.",
+      "chosen_heading": "Rav Yehuda Position",
+      "current_heading": "Rav Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Rav Nachman Position",
+      "Tannaim Debate",
+      "Wild Goats & Ten Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the tannaitic baraita debate about the koy's identity, which matches exactly the 'Tannaim Debate' prose describing the Tosefta dispute among Tannaim including Rabbi Yossi and Rabban Shimon ben Gamliel.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Wild Goats & Ten Types",
+    "candidates": [
+      "Wild Goats & Ten Types",
+      "Wild Ox Debate",
+      "Interbreeding & Species",
+      "Ameimar Position",
+      "Rabbi Oshaya Statement",
+      "Rabbi Shimon Principle",
+      "Three Case Scenarios"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Wild Goats & Ten Types",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover Rav Hamnuna's ruling on forest goats, Rabbi Yitzchak's ten species, and the perat ve-klal objections, matching exactly the 'Wild Goats & Ten Types' prose.",
+      "second_heading": "Wild Ox Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 6-8 begin a new inquiry (Abba asks Rav Huna bar Chiyya) that introduces the shor ha-bar mishna and explains why that dispute is specific to the wild ox, matching the 'Wild Ox Debate' prose.",
+      "current_heading": "Wild Goats & Ten Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Three Case Scenarios",
+    "candidates": [
+      "Wild Ox Debate",
+      "Interbreeding & Species",
+      "Ameimar Position",
+      "Rabbi Oshaya Statement",
+      "Rabbi Shimon Principle",
+      "Three Case Scenarios",
+      "Kodshim Shechita Status",
+      "Mechusar Zman Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All six items form Rabbi Oshaya's continuous argument working through the three case scenarios (kodshim ba-chutz, chulin bifnim, kodshim bifnim) to demonstrate the mishnah is not in accordance with Rabbi Shimon, which is precisely what the 'Three Case Scenarios' prose describes.",
+      "chosen_heading": "Three Case Scenarios",
+      "current_heading": "Three Case Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Mechusar Zman Lashes",
+    "candidates": [
+      "Kodshim Shechita Status",
+      "Mechusar Zman Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items deal with the question of why the mishnah doesn't list lashes for mechusar zman alongside oto ve-et beno, the baraita deriving lo yeiratzeh, and the distinction between lavay nuchray and related prohibitions \u2014 exactly what the 'Mechusar Zman Lashes' prose describes.",
+      "chosen_heading": "Mechusar Zman Lashes",
+      "current_heading": "Mechusar Zman Lashes",
+      "moved": false
+    }
+  }
+]

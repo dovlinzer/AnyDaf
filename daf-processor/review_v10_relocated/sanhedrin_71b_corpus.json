@@ -1,0 +1,240 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Overview",
+    "candidates": [
+      "Mishnah Overview",
+      "Gmar Din Timing",
+      "Initial Case",
+      "Dinav & Mitato"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself (barach ad she-lo nigmar dino), which the 'Mishnah Overview' prose directly quotes and paraphrases, making it the clear best match.",
+      "chosen_heading": "Mishnah Overview",
+      "current_heading": "Mishnah Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Dinav & Mitato",
+    "candidates": [
+      "Gmar Din Timing",
+      "Initial Case",
+      "Dinav & Mitato",
+      "Rashi's Explanation",
+      "Patur Reasoning",
+      "First Part Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Chanina's initial ruling that a ben Noach who cursed God and then converted is exempt because his trial procedure and death penalty changed \u2014 which is precisely what the 'Initial Case' prose describes, not the more detailed breakdown of the two changes discussed under 'Dinav & Mitato'.",
+      "chosen_heading": "Initial Case",
+      "current_heading": "Dinav & Mitato",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "First Part Proof",
+    "candidates": [
+      "Rashi's Explanation",
+      "Patur Reasoning",
+      "First Part Proof",
+      "Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's attempt to derive support for Rabbi Chanina from the mishnah's ruling about the ben sorer u-moreh who fled before gmar din, which is exactly what the 'First Part Proof' section describes.",
+      "chosen_heading": "First Part Proof",
+      "current_heading": "First Part Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Rejection",
+    "candidates": [
+      "Rejection",
+      "Second Part Proof",
+      "Challenge to Proof",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rejection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection ('No, it is different here') matching candidate 0's prose about why the ben sorer u-moreh case is categorically different.",
+      "second_heading": "Second Part Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'Come and hear' proof from the second part of the mishna (gmar din case), which matches candidate 1's prose about deriving support from the second part of the mishna where he fled after sentencing.",
+      "current_heading": "Rejection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Second Part Proof",
+      "Challenge to Proof",
+      "Case Setup",
+      "Why No Patur?",
+      "Murder vs. Adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita case of a ben Noach who struck/committed adultery and then converted, and raises the question of why he isn't exempt due to his changed status \u2014 exactly what the 'Case Setup' prose describes.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Murder vs. Adultery",
+    "candidates": [
+      "Why No Patur?",
+      "Murder vs. Adultery",
+      "Eshet Ish Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why No Patur?",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states the principle that both din and mitah must change, and that only din changed but not mitah \u2014 this is precisely what heading 0 ('Why No Patur?') discusses in its prose.",
+      "second_heading": "Murder vs. Adultery",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the difficulty about murder (sayif\u2192sayif) vs. married woman (sayif\u2192chenek), which is exactly the content of heading 1 ('Murder vs. Adultery') and its prose.",
+      "current_heading": "Murder vs. Adultery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Eshet Ish Case",
+    "candidates": [
+      "Eshet Ish Case",
+      "Mitot Ordering",
+      "Downgrade vs. Upgrade",
+      "Rabbi Shimon View",
+      "Murder Reconciliation",
+      "Preemptive Logic",
+      "Reshaim & Tzadikim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Eshet Ish Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 address the na'arah me'orasah (betrothed young woman) sekilah-to-sekilah scenario and the kala be-chamura principle, which the 'Eshet Ish Case' prose explicitly discusses.",
+      "second_heading": "Rabbi Shimon View",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 introduce Rabbi Shimon's view that chenek is more severe, the tanna of the school of Menashe, and challenges/resolutions specific to Rabbi Shimon's position, matching the 'Rabbi Shimon View' prose exactly.",
+      "current_heading": "Eshet Ish Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Reshaim & Tzadikim",
+    "candidates": [
+      "Mitot Ordering",
+      "Downgrade vs. Upgrade",
+      "Rabbi Shimon View",
+      "Murder Reconciliation",
+      "Preemptive Logic",
+      "Reshaim & Tzadikim",
+      "Rabbi Yose HaGlili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items are the mishna's contrasts between reshaim and tzaddikim \u2014 death, wine/sleep, dispersal/assembly/tranquility \u2014 which is precisely what candidate 5 ('Reshaim & Tzadikim') discusses in its prose.",
+      "chosen_heading": "Reshaim & Tzadikim",
+      "current_heading": "Reshaim & Tzadikim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rabbi Yose HaGlili",
+    "candidates": [
+      "Rabbi Yose HaGlili",
+      "Nidon Al Shem Sofo",
+      "Permission to Kill",
+      "Damages Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yosei HaGelili's teaching about the stubborn and rebellious son being judged preemptively (yamut zakai ve-al yamut chayav), which is precisely what the 'Rabbi Yose HaGlili' section's prose describes.",
+      "chosen_heading": "Rabbi Yose HaGlili",
+      "current_heading": "Rabbi Yose HaGlili",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Damages Liability",
+    "candidates": [
+      "Nidon Al Shem Sofo",
+      "Permission to Kill",
+      "Damages Liability",
+      "Raba's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces the burglar case and explicitly uses the term 'nidon al shem sofo,' which is precisely what candidate 0's prose is about, making it the natural home for this passage rather than the damages-focused candidate 2 where it currently sits.",
+      "chosen_heading": "Nidon Al Shem Sofo",
+      "current_heading": "Damages Liability",
+      "moved": true
+    }
+  }
+]

@@ -43,7 +43,7 @@
           "timestamp": "04:40"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -91,8 +91,8 @@
           "timestamp": "08:25"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Mishna's Second Case: Olah Slaughtered at Altar Top and Flaying",
@@ -520,5 +520,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "21:32",
+  "amud_b_micro_title": "Respect for Sacred",
+  "shiur_start_daf": 85,
+  "shiur_start_amud": "a"
 }

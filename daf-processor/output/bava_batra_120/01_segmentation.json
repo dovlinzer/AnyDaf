@@ -19,8 +19,8 @@
           "timestamp": "01:02"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Order of Names and the Principle of Honoring Wisdom vs. Age",
@@ -172,8 +172,8 @@
           "timestamp": "39:06"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Reconciling Gezeira Shava for Beit Shammai: What Does Zeh Hadavar Teach About Shchutei Chutz?",
@@ -191,8 +191,8 @@
           "timestamp": "40:46"
         }
       ],
-      "sefaria_index": 18,
-      "matched": false
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Distinction Between Hatara and Hafara: The Husband's Power vs. the Sage's Authority",
@@ -215,7 +215,7 @@
           "timestamp": "43:02"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": false
     },
     {
@@ -462,5 +462,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "21:17",
+  "amud_b_micro_title": "Shchutei Chutz",
+  "shiur_start_daf": 120,
+  "shiur_start_amud": "a"
 }

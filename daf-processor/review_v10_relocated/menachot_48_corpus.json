@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Braita Setup",
+    "candidates": [
+      "Braita Setup",
+      "Two Valid, Two Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita setup \u2014 Rabbi \u1e24anina Tirata teaching before Rabbi Yo\u1e25anan about slaughtering four sheep for two loaves \u2014 which matches exactly the 'Braita Setup' prose describing this same baraita and its opening case.",
+      "chosen_heading": "Braita Setup",
+      "current_heading": "Braita Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Two Valid, Two Invalid",
+    "candidates": [
+      "Two Valid, Two Invalid",
+      "Making Two Invalid",
+      "Alternative Problem",
+      "Rashi's Dichuy",
+      "Simultaneity & Zika",
+      "Omer Lo Leadam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states 've-im ee ata omer kach' (if you do not proceed this way) and describes the consequence of losing the latter sheep, which directly matches the prose of 'Making Two Invalid' that quotes this exact phrase and explains its meaning.",
+      "chosen_heading": "Making Two Invalid",
+      "current_heading": "Two Valid, Two Invalid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Omer Lo Leadam",
+    "candidates": [
+      "Making Two Invalid",
+      "Alternative Problem",
+      "Rashi's Dichuy",
+      "Simultaneity & Zika",
+      "Omer Lo Leadam",
+      "Bread Analogy",
+      "Sin vs. Procedure",
+      "Mixed Limbs Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's direct statement questioning whether one should 'arise and sin in order to gain,' which is precisely what the 'Omer Lo Leadam' section discusses.",
+      "chosen_heading": "Omer Lo Leadam",
+      "current_heading": "Omer Lo Leadam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Mixed Limbs Debate",
+    "candidates": [
+      "Bread Analogy",
+      "Sin vs. Procedure",
+      "Mixed Limbs Debate",
+      "Same Category Allowed",
+      "Cross-Category Forbidden",
+      "Shlamim Category",
+      "Shabbat Zrikas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's discussion of the mishna about mixed limbs of chattat and olah \u2014 the challenge from the mishna, Rabbi Yochanan's question about why not 'arise and sin,' and Rabbi \u1e24anina Tirata's answer \u2014 which maps precisely onto the 'Mixed Limbs Debate' prose describing this exact case and Rabbi Yochanan's objection.",
+      "chosen_heading": "Mixed Limbs Debate",
+      "current_heading": "Mixed Limbs Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Shabbat Zrikas",
+    "candidates": [
+      "Same Category Allowed",
+      "Cross-Category Forbidden",
+      "Shlamim Category",
+      "Shabbat Zrikas",
+      "Passive Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous proof from the Shabbat case of kivsei atzeret \u2014 the baraita ruling that blood may not be sprinkled on Shabbat, followed by Rabbi Yochanan's challenge asking why the 'arise and sin' principle doesn't apply \u2014 which is precisely what the 'Shabbat Zrikas' prose describes.",
+      "chosen_heading": "Shabbat Zrikas",
+      "current_heading": "Shabbat Zrikas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Passive Approach",
+    "candidates": [
+      "Passive Approach",
+      "Shelo K'Mitzvatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about cross-category trade-offs \u2014 the principle that one may sin in one domain to gain in the same domain (item 1), the terumah challenge from the mishna (items 2-4), and the Gemara's resolution (item 5) \u2014 which precisely matches the prose of candidate 0 describing the terumah barrel case and the shani hatam delivei tumah ka'azla answer.",
+      "chosen_heading": "Passive Approach",
+      "current_heading": "Passive Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Shelo K'Mitzvatan",
+    "candidates": [
+      "Shelo K'Mitzvatan",
+      "Rav Yitzchak Link",
+      "Tana D'Bei Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught by Rav Yitzchak about kivsei atzeret slaughtered shelo k'mitzvatan being pasul and requiring ibbur tzura before burning, which is precisely what the 'Shelo K'Mitzvatan' section introduces and analyzes.",
+      "chosen_heading": "Shelo K'Mitzvatan",
+      "current_heading": "Shelo K'Mitzvatan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Tana D'Bei Levi",
+    "candidates": [
+      "Rav Yitzchak Link",
+      "Tana D'Bei Levi",
+      "Asham Age Problem",
+      "Olat Principle",
+      "Asham Unique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the tana d'bei Levi's position \u2014 item 1 states his ruling that obligatory shlamim follow voluntary shlamim (tani ksheirin), and item 2 is the Levi baraita about shalmei nazir that supports it \u2014 exactly matching the 'Tana D'Bei Levi' section's prose discussion of these same sources.",
+      "chosen_heading": "Tana D'Bei Levi",
+      "current_heading": "Tana D'Bei Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Asham Unique",
+    "candidates": [
+      "Asham Age Problem",
+      "Olat Principle",
+      "Asham Unique",
+      "Shimi's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the baraita about wrong-age asham/olah, the principle that obligatory olah follows voluntary olah, the dismissal as 'tanna devei Levi,' and the supporting teaching from Levi \u2014 precisely the content described in candidate 0's prose about the braita challenging Rav Yitzchak and the Gemara's efficient dismissal via 'hai tanna tanna devei Levi hu.'",
+      "chosen_heading": "Asham Age Problem",
+      "current_heading": "Asham Unique",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Shimi's Rule",
+    "candidates": [
+      "Asham Unique",
+      "Shimi's Rule",
+      "Kavashim Eilim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kavashim Eilim",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses disqualification of wrong-age offerings including those in their second year, which fits under 'Kavashim Eilim' as introductory material about age-based disqualification before the Shimi's Rule discussion begins.",
+      "second_heading": "Shimi's Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 form the continuous Gemara discussion of deriving asham from shlamim, the challenge about deriving asham from asham, Rav Shimi bar Ashi's rule, and the yotzei baraita objection with its resolution \u2014 exactly the content described in the 'Shimi's Rule' prose.",
+      "current_heading": "Shimi's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Kavashim Eilim",
+    "candidates": [
+      "Kavashim Eilim",
+      "Rava's Position",
+      "Rav's Response",
+      "Honest Mistake",
+      "Akira B'Taos",
+      "Pigul Analysis",
+      "Rabbi Shimon",
+      "Machshava Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Kavashim Eilim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the Kivsei Atzeret/Eilim case, Rav Chisda's clarification of Rav's ruling, and the akira b'taut dispute between Rav Chisda and Rabba \u2014 exactly what heading 0 ('Kavashim Eilim') discusses.",
+      "second_heading": "Pigul Analysis",
+      "second_confidence": "high",
+      "second_reason": "Items 4-12 cover Rava's objection from the pigul mishna, Abaye's response, and Rabbi Zeira's challenge from menachot \u2014 which is the content described under heading 5 ('Pigul Analysis') and heading 6 ('Rabbi Shimon'), but since item 4 opens with Rava's pigul objection that heading 5 explicitly describes, the second group belongs under heading 5.",
+      "current_heading": "Kavashim Eilim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Machshava Rules",
+    "candidates": [
+      "Rava's Position",
+      "Rav's Response",
+      "Honest Mistake",
+      "Akira B'Taos",
+      "Pigul Analysis",
+      "Rabbi Shimon",
+      "Machshava Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items are precisely the Abaye/Rava exchange that the prose of candidate 6 ('Machshava Rules') explicitly describes: Abaye's answer that the kohen knew it was a machvas yet consciously treated it as a marcheshes, and Rava's principle that machshava d'minkara lo pasal Rachmana \u2014 exactly the content summarized in that section's prose.",
+      "chosen_heading": "Machshava Rules",
+      "current_heading": "Machshava Rules",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Opening Framework",
+      "Chozer vs. Lo Chozer",
+      "Abaye's Resolution",
+      "Kalla Ilan Dye",
+      "Chozer L'Briyaso",
+      "Abaye's Grouping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items concern the tension between Rabbi Shimon's views on washing/bleaching versus dyeing in the context of reishis hageiz, with Abaye and Rava's resolutions \u2014 exactly what candidate 2's prose describes in detail.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Abaye's Grouping",
+    "candidates": [
+      "Kalla Ilan Dye",
+      "Chozer L'Briyaso",
+      "Abaye's Grouping",
+      "R. Shimon b. Yehuda",
+      "Beis Shammai Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement grouping the five Tannaim who hold 'shinuy bamkomo omed', which is precisely what the 'Abaye's Grouping' section's prose describes and introduces.",
+      "chosen_heading": "Abaye's Grouping",
+      "current_heading": "Abaye's Grouping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Beis Shammai Case",
+    "candidates": [
+      "R. Shimon b. Yehuda",
+      "Beis Shammai Case",
+      "R. Eliezer b. Yaakov"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Beis Shammai Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the complete Beit Shammai/Beit Hillel esnan dispute about transformed objects, which matches exactly the 'Beis Shammai Case' prose describing the gam/shneihem/hem derivations and the offspring/transformation distinctions.",
+      "second_heading": "R. Eliezer b. Yaakov",
+      "second_confidence": "high",
+      "second_reason": "Item 5 opens with 'What is the source that Rabbi Eliezer ben Ya'akov holds...' which is the structural introduction to the next case, matching the 'R. Eliezer b. Yaakov' section's prose about the gazlan stealing wheat.",
+      "current_heading": "Beis Shammai Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "R. Eliezer b. Yaakov",
+    "candidates": [
+      "R. Eliezer b. Yaakov",
+      "Mitzvah B'Aveira",
+      "R. Shimon b. Elazar",
+      "Improvement Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Eliezer ben Yaakov about the stolen wheat/challah, which is precisely what heading 0's prose describes and analyzes.",
+      "chosen_heading": "R. Eliezer b. Yaakov",
+      "current_heading": "R. Eliezer b. Yaakov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Improvement Example",
+    "candidates": [
+      "Mitzvah B'Aveira",
+      "R. Shimon b. Elazar",
+      "Improvement Example",
+      "R. Yishmael Peah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Rabbi Shimon ben Elazar baraita, Rav Sheshet's clarification, and the takanas hashavin resolution that candidate 1's prose describes in detail as belonging to the 'R. Shimon b. Elazar' section, whereas candidate 2 ('Improvement Example') describes this same material as already resolved background, indicating it belongs before that section.",
+      "chosen_heading": "R. Shimon b. Elazar",
+      "current_heading": "Improvement Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "R. Yishmael Peah",
+    "candidates": [
+      "Improvement Example",
+      "R. Yishmael Peah",
+      "Rav Pappa Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about pe'a separation stages and Rabbi Yishmael's extension to dough, which is exactly what the 'R. Yishmael Peah' section prose describes in detail.",
+      "chosen_heading": "R. Yishmael Peah",
+      "current_heading": "R. Yishmael Peah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav Pappa Challenge",
+    "candidates": [
+      "Rav Pappa Challenge",
+      "Rava on Dyeing",
+      "Rava on Esnan",
+      "Rava on Mitzvah",
+      "Rava on Reversibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records Rav Pappa's challenge to Abaye about the Tannaim seemingly holding like Beit Shammai, and Abaye's response that Beit Shammai and Beit Hillel did not dispute this matter \u2014 exactly what the 'Rav Pappa Challenge' prose describes.",
+      "chosen_heading": "Rav Pappa Challenge",
+      "current_heading": "Rav Pappa Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rava on Reversibility",
+    "candidates": [
+      "Rava on Dyeing",
+      "Rava on Esnan",
+      "Rava on Mitzvah",
+      "Rava on Reversibility",
+      "Rava on Matanot",
+      "Yishmael Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute Rava's complete counter-reading of Abaye's grouping, beginning with Rabbi Shimon ben Yehudah's dye case (item 1) through Beit Shammai (item 2), Rabbi Eliezer ben Ya'akov (item 3), Rabbi Shimon ben Elazar (item 4), and Rabbi Yishmael (item 5) \u2014 this is one continuous speech by Rava, and heading 0 ('Rava on Dyeing') is the only candidate whose prose explicitly frames Rava's sustained counter-reading starting with the dye/reversibility argument that opens item 1.",
+      "chosen_heading": "Rava on Dyeing",
+      "current_heading": "Rava on Reversibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Yishmael Position",
+    "candidates": [
+      "Rava on Matanot",
+      "Yishmael Position",
+      "Hefker Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute Rabbi Yonatan's formal ibaya about Rabbi Yishmael's rationale (shinuy eino koneh vs. ta'azov yeseira) and the follow-up questions about the superfluous ta'azov for both Rabbi Yishmael and the Rabanan \u2014 exactly what the 'Yishmael Position' prose describes.",
+      "chosen_heading": "Yishmael Position",
+      "current_heading": "Yishmael Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Hefker Case",
+    "candidates": [
+      "Hefker Case",
+      "Stringency of Matanot",
+      "Halacha Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about declaring a vineyard hefker and then harvesting it, which is exactly what the 'Hefker Case' prose describes \u2014 the obligations of peret, olelot, shichcha, and pe'a persisting despite hefker status while maaser is exempt.",
+      "chosen_heading": "Hefker Case",
+      "current_heading": "Hefker Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Halacha Ruling",
+    "candidates": [
+      "Stringency of Matanot",
+      "Halacha Ruling",
+      "Shamin Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records exactly the ruling 'amar Rav Yehuda amar Shmuel, halacha k'Rabbi Shimon ben Elazar,' which the 'Halacha Ruling' section's prose explicitly discusses and contextualizes.",
+      "chosen_heading": "Halacha Ruling",
+      "current_heading": "Halacha Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Shamin Contradiction",
+    "candidates": [
+      "Shamin Contradiction",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's contradictory ruling about not appraising for a thief or robber, which is exactly the contradiction being introduced and discussed in the 'Shamin Contradiction' section's prose.",
+      "chosen_heading": "Shamin Contradiction",
+      "current_heading": "Shamin Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Abaye's Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's resolution distinguishing reversible from irreversible deterioration to reconcile Shmuel's two rulings, which is precisely what the 'Rava's Resolution' prose describes.",
+      "second_heading": "Abaye's Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the challenge against Abaye's reading \u2014 asking what Abaye can say given the contradiction \u2014 which directly matches the 'Abaye's Reading' prose discussing how Abaye handles the conflict between Shmuel's rulings.",
+      "current_heading": "Rava's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Abaye's Reading",
+    "candidates": [
+      "Abaye's Reading",
+      "Biblical Gezeilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Abaye's reattribution of Shmuel's ruling \u2014 that Shmuel merely transmits others' view that the halacha follows Rabbi Shimon ben Elazar without personally endorsing it \u2014 which is precisely what the 'Abaye's Reading' prose describes.",
+      "chosen_heading": "Abaye's Reading",
+      "current_heading": "Abaye's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Biblical Gezeilah",
+    "candidates": [
+      "Biblical Gezeilah",
+      "Purpose of Takanah",
+      "Objection to Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's biblical-level ruling that stolen property must be returned as-is regardless of change, with the Leviticus proof-text and the brief mention of takanat hashavin as an aside explaining the mishnah \u2014 exactly what the 'Biblical Gezeilah' prose section discusses.",
+      "chosen_heading": "Biblical Gezeilah",
+      "current_heading": "Biblical Gezeilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Objection to Yochanan",
+    "candidates": [
+      "Purpose of Takanah",
+      "Objection to Yochanan",
+      "Rabbi Yaakov Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to Rabbi Yochanan based on his own rule of following an unattributed mishna and the reishis hageiz mishna exempting an owner who dyed the wool, which is precisely what the 'Objection to Yochanan' prose describes.",
+      "chosen_heading": "Objection to Yochanan",
+      "current_heading": "Objection to Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Rabbi Yaakov Explanation",
+    "candidates": [
+      "Rabbi Yaakov Explanation",
+      "Gazlanim Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Ya'akov's clarification from Rabbi Yo\u1e25anan about sanded wood fashioned into vessels as a reversible change (shinuy hachozer l'vriyaso), which is precisely what the 'Rabbi Yaakov Explanation' prose section discusses.",
+      "chosen_heading": "Rabbi Yaakov Explanation",
+      "current_heading": "Rabbi Yaakov Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Gazlanim Case",
+    "candidates": [
+      "Gazlanim Case",
+      "Refusal Doctrine",
+      "Repentance Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita text about robbers and usurers who returned stolen goods and the ruling that one should not accept from them, which is precisely what the 'Gazlanim Case' section's prose discusses and introduces.",
+      "chosen_heading": "Gazlanim Case",
+      "current_heading": "Gazlanim Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Repentance Story",
+    "candidates": [
+      "Refusal Doctrine",
+      "Repentance Story",
+      "Heirs Ribit Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's statement about when the mishna was taught AND the story of the man deterred from repentance \u2014 the 'Refusal Doctrine' prose explicitly references 'the story immediately following' as justification for the ruling, meaning the baraita story belongs under that heading as the narrative foundation for the doctrine, not as a standalone section.",
+      "chosen_heading": "Refusal Doctrine",
+      "current_heading": "Repentance Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Heirs Ribit Money",
+    "candidates": [
+      "Repentance Story",
+      "Heirs Ribit Money",
+      "Concrete Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous objection-and-resolution sequence about whether heirs must return interest money left by their father, which is precisely what the 'Heirs Ribit Money' prose discusses, including the baraita's framing in terms of children and the structural reason for that framing.",
+      "chosen_heading": "Heirs Ribit Money",
+      "current_heading": "Heirs Ribit Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Concrete Objects",
+    "candidates": [
+      "Concrete Objects",
+      "Repentance Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge from venasi b'amcha, the resolution via teshuvah, and the baraita about robbers/usurers \u2014 are explicitly discussed in the 'Concrete Objects' prose, which covers the venasi verse, the teshuvah qualification, and the kevod avihem rationale together.",
+      "chosen_heading": "Concrete Objects",
+      "current_heading": "Concrete Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Repentance Case",
+    "candidates": [
+      "Repentance Case",
+      "Difficult Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's clarification that 'robbers' in the baraita means usurers (malvei ribbis), and the distinction between 'they return it' vs. 'one does not accept it from them' \u2014 precisely the ein mekabelin dynamic and the identity of gazlanim/malveh beribbis that the 'Difficult Repentance' prose explicitly addresses.",
+      "chosen_heading": "Difficult Repentance",
+      "current_heading": "Repentance Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155,
+      156
+    ],
+    "current_heading": "Difficult Repentance",
+    "candidates": [
+      "Repentance Case",
+      "Difficult Repentance",
+      "Known Victims",
+      "Unknown Victims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical unit about the difficult repentance of shepherds and tax collectors \u2014 the question of why they return what they stole if it won't be accepted, and why their repentance is described as difficult \u2014 which is precisely what the 'Difficult Repentance' prose section discusses, including the ein mekabelin dynamic and the latzeit yedei shamayim obligation.",
+      "chosen_heading": "Difficult Repentance",
+      "current_heading": "Difficult Repentance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Unknown Victims",
+    "candidates": [
+      "Known Victims",
+      "Unknown Victims",
+      "Before/After Takanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's core content is the resolution of the contradiction between sources via the before/after takanah distinction (kodem takanah vs. le-achar takanah), which is precisely what the 'Before/After Takanah' section's prose describes, not the 'Unknown Victims' section which only sets up the tension.",
+      "chosen_heading": "Before/After Takanah",
+      "current_heading": "Unknown Victims",
+      "moved": true
+    }
+  }
+]

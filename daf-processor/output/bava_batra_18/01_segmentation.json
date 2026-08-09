@@ -72,7 +72,7 @@
           "timestamp": "05:00"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -274,8 +274,8 @@
           "timestamp": "40:00"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Rabbi Yossi vs. Rabbanan on Responsibility: Nizak vs. Mazik in Mustard-Bee Case",
@@ -308,7 +308,7 @@
           "timestamp": "47:37"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -327,7 +327,7 @@
           "timestamp": "51:06"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 17,
       "matched": false
     }
   ],
@@ -656,5 +656,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "31:32",
+  "amud_b_micro_title": "Boundary Existence",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "a"
 }

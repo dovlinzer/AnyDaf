@@ -1,0 +1,156 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Pesach Tamei Overview",
+    "candidates": [
+      "Pesach Tamei Overview",
+      "Tzitz: Objects vs. Person",
+      "Tumat HaTehom",
+      "Pesach & Nazir Rules",
+      "Timing of Ignorance",
+      "Ravina vs. R. Shila"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pesach Tamei Overview",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna covering the tzitz's operation for tamei blood/meat vs. tamei body and tumat hatehom, which spans headings 0-3 but the current placement under 'Pesach Tamei Overview' is where the Mishna begins and all three prose sections (0,1,2) discuss parts of it \u2014 however items 1-2 together form the complete Mishna unit that the essay breaks into sections 0, 1, and 2, and item 3 is the Gemara's opening inference about timing, which belongs under 'Timing of Ignorance'.",
+      "second_heading": "Timing of Ignorance",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's opening inference (ta'ama d'nizrak v'achar kach noda... aval noda v'achar kach nizrak lo meratzeh) which is precisely what the 'Timing of Ignorance' prose describes.",
+      "current_heading": "Pesach Tamei Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Ravina vs. R. Shila",
+    "candidates": [
+      "Tzitz: Objects vs. Person",
+      "Tumat HaTehom",
+      "Pesach & Nazir Rules",
+      "Timing of Ignorance",
+      "Ravina vs. R. Shila",
+      "Braita Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara discussion of the baraita contradiction and its resolution by Ravina and Rabbi Sheila, which is precisely what the 'Ravina vs. R. Shila' section prose describes.",
+      "chosen_heading": "Ravina vs. R. Shila",
+      "current_heading": "Ravina vs. R. Shila",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Braita Reconciliation",
+    "candidates": [
+      "Braita Reconciliation",
+      "Kohen vs. Owner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the literary reason the mishnah uses 'nizrak v'achar kach noda' phrasing \u2014 precisely the 'tani reisha nami' resolution discussed in the 'Braita Reconciliation' prose.",
+      "chosen_heading": "Braita Reconciliation",
+      "current_heading": "Braita Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Kohen vs. Owner",
+    "candidates": [
+      "Kohen vs. Owner",
+      "Braita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rami bar Chama's dilemma about whether tumat hatehom applies to the kohen or only the baalim, which is exactly what the 'Kohen vs. Owner' section's prose describes.",
+      "chosen_heading": "Kohen vs. Owner",
+      "current_heading": "Kohen vs. Owner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Braita Proof",
+    "candidates": [
+      "Braita Proof",
+      "Owner or Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's citation of Rabbi \u1e24iyya's beraita and the immediate inference about excluding tumat hatehom d'sheretz, which is exactly what the 'Braita Proof' prose describes.",
+      "chosen_heading": "Braita Proof",
+      "current_heading": "Braita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Owner or Kohen",
+    "candidates": [
+      "Owner or Kohen",
+      "Shomeres Yom k'Neged Yom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the continuous gemara discussion about whether Rabbi \u1e24iyya's beraita refers to the owner (nazir, pesach-bringer) or a kohen, and Rav Yosef's counter that the exclusion targets tumat hatehom d'ziva \u2014 exactly the content described in the 'Owner or Kohen' prose.",
+      "chosen_heading": "Owner or Kohen",
+      "current_heading": "Owner or Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Shomeres Yom k'Neged Yom",
+    "candidates": [
+      "Shomeres Yom k'Neged Yom",
+      "New vs. Retroactive Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita of Rabbi Yosei about the shomeres yom k'neged yom whose korban was slaughtered and sprinkled on her second day and who subsequently bled, which is precisely the challenge the prose under heading 0 describes as the gemara raising against Rav Yosef's proposal.",
+      "chosen_heading": "Shomeres Yom k'Neged Yom",
+      "current_heading": "Shomeres Yom k'Neged Yom",
+      "moved": false
+    }
+  }
+]

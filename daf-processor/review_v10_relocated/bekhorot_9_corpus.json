@@ -1,0 +1,588 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Parable Meaning",
+    "candidates": [
+      "Athens Story Setup",
+      "Lending Parable",
+      "Parable Meaning",
+      "Literal vs. Metaphorical",
+      "Mule Riddle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the lending parable itself \u2014 the question about why a man would lend again after repossessing property, and Rabbi Yehoshua's response with the wood-cutting parable \u2014 which is precisely what the 'Lending Parable' prose section discusses in detail.",
+      "chosen_heading": "Lending Parable",
+      "current_heading": "Parable Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Mule Riddle",
+    "candidates": [
+      "Literal vs. Metaphorical",
+      "Mule Riddle",
+      "Salt Riddle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts exactly the mule-birth riddle exchange described in the 'Mule Riddle' prose, which explicitly paraphrases this Aramaic text word for word.",
+      "chosen_heading": "Mule Riddle",
+      "current_heading": "Mule Riddle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Salt Riddle",
+    "candidates": [
+      "Salt Riddle",
+      "House in Air"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the salt riddle exchange, which is exactly what the 'Salt Riddle' section's prose discusses.",
+      "chosen_heading": "Salt Riddle",
+      "current_heading": "Salt Riddle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "House in Air",
+    "candidates": [
+      "House in Air",
+      "World's Center",
+      "Physical vs. Divine",
+      "Well to City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'house in air' exchange and the 'center of the world' exchange in one continuous block of text, and the current heading 'House in Air' is where this combined passage sits, with the prose under heading 0 explicitly describing both sub-exchanges (the hovering and the bricks/mortar request).",
+      "chosen_heading": "House in Air",
+      "current_heading": "House in Air",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Well to City",
+    "candidates": [
+      "World's Center",
+      "Physical vs. Divine",
+      "Well to City",
+      "Millstone Repair",
+      "Knife Bed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the 'well in the field' exchange and the 'broken millstone' exchange, and the current placement under 'Well to City' (index 2) captures the first exchange directly, while the millstone section (index 3) handles only the second \u2014 since both riddles appear together in a single Talmudic passage, the current placement at index 2 is the best single home, as it introduces the sequence.",
+      "chosen_heading": "Well to City",
+      "current_heading": "Well to City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Knife Bed",
+    "candidates": [
+      "Millstone Repair",
+      "Knife Bed",
+      "Egg Origins",
+      "Cheese Origins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes harvesting a field of knives with a donkey's horn, which matches exactly the 'Knife Bed' section's prose about cutting down a bed of knives with a donkey's horn.",
+      "chosen_heading": "Knife Bed",
+      "current_heading": "Knife Bed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Cheese Origins",
+    "candidates": [
+      "Egg Origins",
+      "Cheese Origins",
+      "Soul Escape",
+      "Worthless Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the egg question and the cheese response as a single exchange, and candidate 0 ('Egg Origins') introduces the egg riddle that prompts this entire exchange, making it the natural home for the complete dialogue rather than splitting it under 'Cheese Origins'.",
+      "chosen_heading": "Egg Origins",
+      "current_heading": "Cheese Origins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Worthless Vessel",
+    "candidates": [
+      "Soul Escape",
+      "Worthless Vessel",
+      "Mat Through Door",
+      "Victory & Boat",
+      "Chambers Trap",
+      "Be Beli Waters",
+      "Athens Dirt Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the chick/spirit riddle (belonging under 'Soul Escape') and the mat/door demonstration, but the current split across headings 0 and 1 is the issue \u2014 however, since the passage as a single item includes both the spirit riddle AND the mat demonstration, and heading 0's prose explicitly discusses the chick/spirit exchange while heading 1 and 2 together cover the mat, the single item spans multiple sections; but since the item starts with the spirit riddle which is the content of heading 0, and the current placement is under heading 1 ('Worthless Vessel') which omits the spirit riddle content, the better single heading for this combined passage is heading 0 which at least opens with the first sub-exchange, though heading 2 covers the mat resolution \u2014 given the passage is one unit, heading 0 is the earliest and most natural home for this combined text.",
+      "chosen_heading": "Soul Escape",
+      "current_heading": "Worthless Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Athens Dirt Remedy",
+    "candidates": [
+      "Mat Through Door",
+      "Victory & Boat",
+      "Chambers Trap",
+      "Be Beli Waters",
+      "Athens Dirt Remedy",
+      "Infinite Vessel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chambers Trap",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the boat deception with sixty mattresses and taking dirt from Athens, which matches the 'Chambers Trap' prose about each sage entering a separate chamber, the sixty seats trick, and taking dirt from Athens.",
+      "second_heading": "Be Beli Waters",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins at 'Bei Beli' (the House of the Swallowed), filling the jug, and presenting the sages before Caesar, which matches the 'Be Beli Waters' prose about arriving at Bei Beli and filling a vessel with water from that place.",
+      "current_heading": "Athens Dirt Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Infinite Vessel",
+    "candidates": [
+      "Athens Dirt Remedy",
+      "Infinite Vessel",
+      "Greek vs. Torah",
+      "Rambam Science",
+      "Gestation & Water",
+      "Two Males",
+      "Male & Female"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua placing water from Bei Beli into a vessel and the Athenians pouring water until their shoulders gave out, which is precisely what the 'Infinite Vessel' prose section describes and analyzes.",
+      "chosen_heading": "Infinite Vessel",
+      "current_heading": "Infinite Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Male & Female",
+    "candidates": [
+      "Greek vs. Torah",
+      "Rambam Science",
+      "Gestation & Water",
+      "Two Males",
+      "Male & Female",
+      "Two Donkeys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text covers both the two-males case and the male-and-female case, but the opening clause about two males aligns with heading 3 'Two Males', and the passage as a whole begins there \u2014 however, since the mishna covers both scenarios and is currently placed under 'Male & Female' (index 4), and the prose of index 3 specifically discusses the two-males case while index 4's prose discusses the male-and-female case which is the second and concluding ruling of this mishna, the current placement under index 4 is reasonable, but index 3's prose introduces this very mishna ('The next mishnah takes up a new topic: chamora shelo bikra...') making index 3 the better match for where this mishna should be placed as a whole.",
+      "chosen_heading": "Two Males",
+      "current_heading": "Male & Female",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Two Donkeys",
+    "candidates": [
+      "Male & Female",
+      "Two Donkeys",
+      "One Experienced",
+      "Redemption Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Donkeys",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the two-donkeys cases (two males, male+female, two males+female, etc.) which exactly matches the 'Two Donkeys' prose.",
+      "second_heading": "One Experienced",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the case where one donkey had previously given birth and one had not, which exactly matches the 'One Experienced' prose.",
+      "current_heading": "Two Donkeys",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Redemption Verse",
+    "candidates": [
+      "One Experienced",
+      "Redemption Verse",
+      "Multiple Redemptions",
+      "After Death",
+      "Rabbi Yose View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage enumerates the redemption parameters from the verse (sheep or goats, male or female, unblemished or blemished, multiple redemptions, tithing, benefit after death), which precisely matches the 'Redemption Verse' section's prose description of anchoring the obligation in the verse and listing those same broad parameters.",
+      "chosen_heading": "Redemption Verse",
+      "current_heading": "Redemption Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rabbi Yose View",
+    "candidates": [
+      "Multiple Redemptions",
+      "After Death",
+      "Rabbi Yose View",
+      "Abaye's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces the Gemara's question of 'who is the tanna' and Rabbi Yirmeyah's answer that it is not Rabbi Yose HaGelili, which is precisely what the 'Rabbi Yose View' section's prose describes.",
+      "chosen_heading": "Rabbi Yose View",
+      "current_heading": "Rabbi Yose View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Abaye's Defense",
+    "candidates": [
+      "Abaye's Defense",
+      "Braita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of Abaye's defense that the mishnah can follow Rabbi Yosei HaGelili because 'hazcharim la'Hashem' limits double sanctification to sheep, plus the Gemara's challenge about why the mishnah doesn't explicitly state the simultaneous-emergence case \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Abaye's Defense",
+      "current_heading": "Abaye's Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Braita Evidence",
+    "candidates": [
+      "Braita Evidence",
+      "Chatitzah Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita from Rabbi Yosei HaGelili and the Gemara's conclusion that it is a conclusive refutation (tiyuvta) of Abaye, which is precisely what the 'Braita Evidence' prose describes.",
+      "chosen_heading": "Braita Evidence",
+      "current_heading": "Braita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Chatitzah Issue",
+    "candidates": [
+      "Chatitzah Issue",
+      "Womb Sanctification",
+      "Same Species Rule",
+      "Separation Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the question (does miktzat or kulei rechem sanctify?) and Rav's answer (min be'mino eino chotzetz), which is precisely what the 'Womb Sanctification' prose describes \u2014 raising the miktzat/kulei rechem question \u2014 while the current heading 'Chatitza Issue' is the broader framing and 'Same Species Rule' covers the elaboration on Rav's answer, making 'Womb Sanctification' the best single home for both the question and its direct resolution as a unit.",
+      "chosen_heading": "Womb Sanctification",
+      "current_heading": "Chatitzah Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Separation Purpose",
+    "candidates": [
+      "Womb Sanctification",
+      "Same Species Rule",
+      "Separation Purpose",
+      "Remove Prohibition",
+      "Donkey Forbidden",
+      "Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's question \u2014 since the owner keeps the sheep for himself, why bother designating it \u2014 which matches the 'Separation Purpose' section's prose about 'keivan de'le'atzmo hu lama li le'afroshei.'",
+      "chosen_heading": "Separation Purpose",
+      "current_heading": "Separation Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Yehuda Position",
+    "candidates": [
+      "Remove Prohibition",
+      "Donkey Forbidden",
+      "Yehuda Position",
+      "Shimon Position",
+      "Ulla Argument",
+      "Human Firstborns",
+      "Sheep Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly identifies the mishnah as Rabbi Yehuda's opinion based on a baraita stating that a firstborn donkey is forbidden in benefit, which is exactly what the 'Yehuda Position' section discusses.",
+      "chosen_heading": "Yehuda Position",
+      "current_heading": "Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Sheep Specificity",
+    "candidates": [
+      "Shimon Position",
+      "Ulla Argument",
+      "Human Firstborns",
+      "Sheep Specificity",
+      "Ma'aser Sheni",
+      "Kiddushin Case",
+      "Redemption Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion of Ulla's refined argument about sheep-specificity \u2014 items 1-2 develop and challenge the 'seh' requirement, and item 3's ma'aser sheni challenge is explicitly addressed in the 'Sheep Specificity' prose which notes the Gemara 'immediately presses further with a counterexample,' matching the current placement perfectly.",
+      "chosen_heading": "Sheep Specificity",
+      "current_heading": "Sheep Specificity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Redemption Difference",
+    "candidates": [
+      "Ma'aser Sheni",
+      "Kiddushin Case",
+      "Redemption Difference",
+      "Ma'aser Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss how a woman can be betrothed with a peter chamor via the mechanism of Rabbi Elazar's reasoning about ma'aser sheni, and the difference between the donkey's value and the redemption lamb \u2014 exactly what candidate 2's prose describes.",
+      "chosen_heading": "Redemption Difference",
+      "current_heading": "Redemption Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155,
+      156
+    ],
+    "current_heading": "Ma'aser Status",
+    "candidates": [
+      "Ma'aser Status",
+      "Work Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer chain about Rabbi Shimon's reasoning via Ulla's principle, the shevi'it counterexample, and its refutation \u2014 exactly the content described in the 'Ma'aser Status' prose.",
+      "chosen_heading": "Ma'aser Status",
+      "current_heading": "Ma'aser Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "Work Prohibition",
+    "candidates": [
+      "Work Prohibition",
+      "Joint Ownership",
+      "Consensus",
+      "Species Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the verse-based framework for the dispute and specifically quotes Rabbi Yehuda's reading of both verses, which exactly matches the current heading's prose about deriving rulings from 'lo ta'avod' and 'lo tagoz' verses.",
+      "chosen_heading": "Work Prohibition",
+      "current_heading": "Work Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168,
+      169,
+      170,
+      171,
+      172
+    ],
+    "current_heading": "Species Exclusion",
+    "candidates": [
+      "Joint Ownership",
+      "Consensus",
+      "Species Exclusion",
+      "Possessive Issue",
+      "After Wringing",
+      "Obligation Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the dispute between Rabbi Yehuda and Rabbi Shimon over what 'your ox' and 'your flock' each exclude (human firstborns vs. firstborn donkeys) and how joint non-Jewish ownership factors in \u2014 exactly the content described under 'Consensus,' which states that all agree 'shorecha' excludes humans and the debate centers on what 'tzonecha' teaches, matching all five items including the unresolved 'kashya' about the possessives.",
+      "chosen_heading": "Consensus",
+      "current_heading": "Species Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      180,
+      181
+    ],
+    "current_heading": "Obligation Logic",
+    "candidates": [
+      "Possessive Issue",
+      "After Wringing",
+      "Obligation Logic",
+      "Braita Support",
+      "Meat & Milk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly state and explain Rabbi Shimon's concession that after the breaking of the neck (*arifa*) benefit is forbidden, which is precisely what candidate 1 ('After Wringing') discusses in its prose.",
+      "chosen_heading": "After Wringing",
+      "current_heading": "Obligation Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      186,
+      187,
+      188,
+      189
+    ],
+    "current_heading": "Meat & Milk",
+    "candidates": [
+      "Braita Support",
+      "Meat & Milk",
+      "Food Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute Rava's proof from the Baraita (items 1\u20132), Rabbi Yochanan's explanation of Rabbi Shimon's principle (item 3), and the Gemara's resulting question about meat-and-milk (item 4) \u2014 this entire unit is introduced by 'Rava said: From where do I say' and is precisely what candidate 0 ('Braita Support') describes: the Baraita listing forbidden-benefit items including peter chamor, Rabbi Shimon's qualification, and the reasoning behind it.",
+      "chosen_heading": "Braita Support",
+      "current_heading": "Meat & Milk",
+      "moved": true
+    }
+  }
+]

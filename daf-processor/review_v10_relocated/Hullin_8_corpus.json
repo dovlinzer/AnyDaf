@@ -1,0 +1,292 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "One Week Rule",
+    "candidates": [
+      "Sharpness Precedes Heat",
+      "Heat Burning the Simanim",
+      "Wound Opens (Mivrach)",
+      "Blood Sealing",
+      "Shechin vs. Michva",
+      "One Week Rule",
+      "Shechin Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items belong to the shechin vs. michva dilemma: item 1 raises the question of classification for a white-hot skewer strike, and item 2 establishes the practical halakhic difference \u2014 exactly what candidate 4's prose describes as the Gemara introducing the liben shipud question and asking which tzara'at category applies.",
+      "chosen_heading": "Shechin vs. Michva",
+      "current_heading": "One Week Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Shechin Definition",
+    "candidates": [
+      "One Week Rule",
+      "Shechin Definition",
+      "Michva Definition",
+      "Last Status Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita defines both shechin (caused by non-fire heat sources: wood, stone, pomace, hot springs, lead from the ground) and michva (caused by fire-derived heat: coal, ashes, boiling limestone, gypsum, water heated by fire), which directly corresponds to the 'Shechin Definition' section where the essay discusses these exact examples and principles \u2014 and the current placement is already correct.",
+      "chosen_heading": "Shechin Definition",
+      "current_heading": "Shechin Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Last Status Rule",
+    "candidates": [
+      "Michva Definition",
+      "Last Status Rule",
+      "Half-Gris Lesions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly states the 'last status rule' \u2014 that whichever wound came second nullifies the first \u2014 which is exactly what the 'Last Status Rule' section's prose describes and quotes.",
+      "chosen_heading": "Last Status Rule",
+      "current_heading": "Last Status Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Half-Gris Lesions",
+    "candidates": [
+      "Half-Gris Lesions",
+      "Back to Sharpness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the exact half-gris boil scenario and the chavata/havala dilemma that candidate 0's prose explicitly discusses as its central topic.",
+      "chosen_heading": "Half-Gris Lesions",
+      "current_heading": "Half-Gris Lesions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Back to Sharpness",
+    "candidates": [
+      "Back to Sharpness",
+      "Pointed Poker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara citing the knife/heat ruling to resolve a dilemma and then rejecting it with 'chidud shani,' which matches exactly the prose in 'Back to Sharpness.'",
+      "chosen_heading": "Back to Sharpness",
+      "current_heading": "Back to Sharpness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Pointed Poker",
+    "candidates": [
+      "Pointed Poker",
+      "Blunt vs. Heat",
+      "Kilkul vs. Tikun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the heated skewer baraita and the Gemara's rejection based on the pointed tip (chidud), which is precisely what the 'Pointed Poker' section's prose discusses.",
+      "chosen_heading": "Pointed Poker",
+      "current_heading": "Pointed Poker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Kilkul vs. Tikun",
+    "candidates": [
+      "Blunt vs. Heat",
+      "Kilkul vs. Tikun",
+      "Agricultural Context",
+      "Ill Animal Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the kilkul/tikun distinction with Rav Nachman's ruling about the avoda zara knife, which is precisely what the 'Kilkul vs. Tikun' section's prose describes.",
+      "chosen_heading": "Kilkul vs. Tikun",
+      "current_heading": "Kilkul vs. Tikun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Ill Animal Exception",
+    "candidates": [
+      "Agricultural Context",
+      "Ill Animal Exception",
+      "Kashering by Heat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's statement about the mesukenet (ill animal) and the thighs-for-gifts case, which is exactly what the 'Ill Animal Exception' prose explains in detail.",
+      "chosen_heading": "Ill Animal Exception",
+      "current_heading": "Ill Animal Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Kashering by Heat",
+    "candidates": [
+      "Kashering by Heat",
+      "Peeling vs. Rinsing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge about shamnunit de'issura (fat residue from forbidden substances), which is precisely what the 'Kashering by Heat' section's prose discusses and resolves.",
+      "chosen_heading": "Kashering by Heat",
+      "current_heading": "Kashering by Heat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Peeling vs. Rinsing",
+    "candidates": [
+      "Peeling vs. Rinsing",
+      "Heat & Absorption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's handling of Rav Na\u1e25man's ruling about a new/old knife used in idol worship context \u2014 specifically whether residue exists on the knife \u2014 which is the absorption/residue question explored under 'Heat & Absorption', not the peeling-vs-rinsing dispute about non-Jewish knives discussed under candidate 0.",
+      "chosen_heading": "Heat & Absorption",
+      "current_heading": "Peeling vs. Rinsing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Heat & Absorption",
+    "candidates": [
+      "Peeling vs. Rinsing",
+      "Heat & Absorption",
+      "Knife Pressure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the initial dispute between Rav and Rabba bar bar \u1e24ana (peeling vs. rinsing) and the Gemara's first attempt to explain it via hot/cold \u2014 belong under 'Peeling vs. Rinsing', which is where the prose introduces this exact case and outlines both positions; the 'Heat & Absorption' section's prose already summarizes the content of both items, indicating the current placement is one heading too late.",
+      "chosen_heading": "Peeling vs. Rinsing",
+      "current_heading": "Heat & Absorption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Knife Pressure",
+    "candidates": [
+      "Knife Pressure",
+      "Yad Soledet Bo",
+      "Rav Aha & Ravina",
+      "Surface-Level Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'ikka de'amri' version of the debate where everyone agrees the beit hashechita is cold and the peeling requirement is explained by knife pressure (agav duchka de-sakina bala), which is precisely what the 'Knife Pressure' section's prose describes.",
+      "chosen_heading": "Knife Pressure",
+      "current_heading": "Knife Pressure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Surface-Level Only",
+    "candidates": [
+      "Yad Soledet Bo",
+      "Rav Aha & Ravina",
+      "Surface-Level Only",
+      "Blood Adhesion",
+      "Heat During Penetration",
+      "Post-Shechita Absorption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav A\u1e25a and Ravina dispute about kashering a treifa knife in hot vs. cold water, plus the halacha ruling \u2014 which is precisely what the 'Rav Aha & Ravina' prose section introduces, while the current placement ('Surface-Level Only') covers only the interpretive conclusion, not the dispute text itself.",
+      "chosen_heading": "Rav Aha & Ravina",
+      "current_heading": "Surface-Level Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Post-Shechita Absorption",
+    "candidates": [
+      "Blood Adhesion",
+      "Heat During Penetration",
+      "Post-Shechita Absorption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why a kosher-animal shechita doesn't cause forbidden absorption, answering that the knife only heats up (and thus could absorb) when the slaughter is already complete \u2014 which is precisely what candidate 1's prose describes as 'eimas d'ka chamima, l'chi gamra shechita.'",
+      "chosen_heading": "Heat During Penetration",
+      "current_heading": "Post-Shechita Absorption",
+      "moved": true
+    }
+  }
+]

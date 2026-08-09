@@ -1,0 +1,470 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Arig & Tachshit",
+    "candidates": [
+      "Arig & Tachshit",
+      "Tosafot: Kol Shehu",
+      "Rava's Sources"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Arig & Tachshit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita itself listing the three rulings (arig, tachshit, combination), which is precisely what candidate 0's prose describes.",
+      "second_heading": "Rava's Sources",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's derivation of the biblical sources for each ruling, which is exactly what candidate 2's prose ('Rava's Sources') describes.",
+      "current_heading": "Arig & Tachshit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rava's Sources",
+    "candidates": [
+      "Tosafot: Kol Shehu",
+      "Rava's Sources",
+      "Midian Challenge",
+      "Gezeirah Shavah",
+      "Sackcloth Distinction",
+      "Sackcloth Reinterpreted",
+      "Twisted Hair Necklace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the challenge that the Midian verse may not apply to general tumah laws and Rava's initial response, which matches candidate 2 'Midian Challenge' whose prose describes exactly this objection about the Midian context \u2014 the gezeirah shavah resolution belongs under candidate 3.",
+      "chosen_heading": "Midian Challenge",
+      "current_heading": "Rava's Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Twisted Hair Necklace",
+    "candidates": [
+      "Midian Challenge",
+      "Gezeirah Shavah",
+      "Sackcloth Distinction",
+      "Sackcloth Reinterpreted",
+      "Twisted Hair Necklace",
+      "Baraita: Tuvui V'Arig",
+      "Horse Straps Inclusion",
+      "Ropes Exclusion",
+      "Dead Body Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yo\u1e25anan's answer about a poor person braiding three goat hairs into a necklace for his daughter, which is precisely what the 'Twisted Hair Necklace' section's prose describes.",
+      "chosen_heading": "Twisted Hair Necklace",
+      "current_heading": "Twisted Hair Necklace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Dead Body Extension",
+    "candidates": [
+      "Baraita: Tuvui V'Arig",
+      "Horse Straps Inclusion",
+      "Ropes Exclusion",
+      "Dead Body Extension",
+      "Logical Critique",
+      "Beged V'Or Gezeirah",
+      "Bidirectional Gleichung",
+      "Animal Hairs Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous baraita discussing the extension of tumat meit to include kilkali and chavak while excluding ropes, using logical derivation (kal va-chomer) and setting up the gezeirah shavah \u2014 exactly what candidate 3 ('Dead Body Extension') describes in its prose.",
+      "chosen_heading": "Dead Body Extension",
+      "current_heading": "Dead Body Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Animal Hairs Expansion",
+    "candidates": [
+      "Logical Critique",
+      "Beged V'Or Gezeirah",
+      "Bidirectional Gleichung",
+      "Animal Hairs Expansion",
+      "Mufneh Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "Candidate 3's prose explicitly covers all the content in items 1-9: the animal hairs expansion via 'o sak,' the kilkali/chavak resolution, the kal va-chomer attempt and rejection based on tumat erev vs. tumat shiva, the gezeirah shavah using 'beged ve-or,' and the mufneh requirement \u2014 making it the most comprehensive match despite the passage spanning material also touched by candidates 0, 1, and 4.",
+      "chosen_heading": "Animal Hairs Expansion",
+      "current_heading": "Animal Hairs Expansion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Mufneh Status",
+    "candidates": [
+      "Mufneh Status",
+      "Ironcladness of Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage proves that *beged ve-or* in the *sheretz* passage is superfluous (*mufneh*) by deriving it from the juxtaposition with *shichvat zera*, which is precisely the content described in the 'Mufneh Status' prose section.",
+      "chosen_heading": "Mufneh Status",
+      "current_heading": "Mufneh Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Ironcladness of Gezeirah",
+    "candidates": [
+      "Ironcladness of Gezeirah",
+      "Agil & Kumaz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the question of whether the gezeirah shavah is mufneh on one side or both sides \u2014 exactly the topic described in the 'Ironcladness of Gezeirah' prose, which explicitly addresses the mufneh mi-tzad echad dispute and the demonstration that beged ve-or in the meit passage is also superfluous.",
+      "chosen_heading": "Ironcladness of Gezeirah",
+      "current_heading": "Ironcladness of Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Agil & Kumaz",
+    "candidates": [
+      "Agil & Kumaz",
+      "Kumaz Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's identification of *agil* and *kumaz* as ornaments worn over the breasts and womb, which matches exactly the content described in the 'Agil & Kumaz' section prose.",
+      "chosen_heading": "Agil & Kumaz",
+      "current_heading": "Agil & Kumaz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Kumaz Etymology",
+    "candidates": [
+      "Kumaz Etymology",
+      "Hirhur Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the etymology of kumaz via Rav Yosef's Aramaic translation and Rabbah's acronym kan makom zimah, which is exactly what the 'Kumaz Etymology' prose section describes.",
+      "chosen_heading": "Kumaz Etymology",
+      "current_heading": "Kumaz Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Hirhur Atonement",
+    "candidates": [
+      "Hirhur Atonement",
+      "Male Gaze Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Moses's exchange about hirhur, and the school of Rabbi Yishmael's teaching about eyes feasting on nakedness \u2014 are explicitly discussed together in the 'Hirhur Atonement' prose, which quotes and analyzes both passages in sequence before transitioning to Rav Sheshet's teaching in the next section.",
+      "chosen_heading": "Hirhur Atonement",
+      "current_heading": "Hirhur Atonement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Male Gaze Teaching",
+    "candidates": [
+      "Male Gaze Teaching",
+      "Hair Extensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Sheshet's teaching about gazing at a woman's little finger, which is precisely what the 'Male Gaze Teaching' prose section discusses and analyzes.",
+      "chosen_heading": "Male Gaze Teaching",
+      "current_heading": "Male Gaze Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Hair Extensions",
+    "candidates": [
+      "Hair Extensions",
+      "Head Ornaments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna about hair extensions (chutei se'ar), which is precisely what the 'Hair Extensions' section prose discusses in detail.",
+      "chosen_heading": "Hair Extensions",
+      "current_heading": "Hair Extensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Head Ornaments",
+    "candidates": [
+      "Head Ornaments",
+      "Headscarves & Wigs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses totefet and sarvitin as head ornaments sewn into a head covering, which directly matches the 'Head Ornaments' section's prose about these exact items and the condition of them being sewn in.",
+      "chosen_heading": "Head Ornaments",
+      "current_heading": "Head Ornaments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Headscarves & Wigs",
+    "candidates": [
+      "Headscarves & Wigs",
+      "Medical Items",
+      "Mouth Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the woolen cap/wig (kavul/pea nachrit) and the cloth items in one Mishna text, and the current heading 'Headscarves & Wigs' prose explicitly notes that the full scope will be explored shortly, with the Medical Items section then discussing the cloth items separately \u2014 but since this is a single unified Mishna passage, it belongs under its current placement where the wig/cap portion is introduced, as the automated essay then quotes it fully before breaking down its components.",
+      "chosen_heading": "Headscarves & Wigs",
+      "current_heading": "Headscarves & Wigs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Mouth Items",
+    "candidates": [
+      "Medical Items",
+      "Mouth Items",
+      "Mouth Items Restriction",
+      "False Tooth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the permission to go out with pepper, salt, or other mouth items \u2014 exactly what 'Mouth Items' section discusses \u2014 while the restriction clause belongs to the following section, but since this is a single item it must go under the heading whose prose best matches the permission content, which is index 1.",
+      "chosen_heading": "Mouth Items",
+      "current_heading": "Mouth Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "False Tooth",
+    "candidates": [
+      "Mouth Items Restriction",
+      "False Tooth",
+      "All Cases Needed",
+      "Age Mismatch Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about a false tooth and gold tooth with the Rabbi/Sages dispute directly matches the 'False Tooth' section's prose describing exactly this ruling.",
+      "chosen_heading": "False Tooth",
+      "current_heading": "False Tooth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Age Mismatch Concern",
+    "candidates": [
+      "All Cases Needed",
+      "Age Mismatch Concern",
+      "Resolution Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "All Cases Needed",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 contain the Gemara's 'utzricha' argument explaining why all three hair cases must be stated independently, which matches candidate 0's prose exactly.",
+      "second_heading": "Age Mismatch Concern",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Tosefta ruling about age-mismatched hair (young/old), which is the specific content described in candidate 1's prose about color mismatch and social pressure from incongruous hair.",
+      "current_heading": "Age Mismatch Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Resolution Logic",
+    "candidates": [
+      "Resolution Logic",
+      "Rav's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why both cases are mentioned in the mishna \u2014 the obvious flattering case and the improbable demeaning case \u2014 which matches exactly the 'Resolution Logic' section's prose about the *aidi de-tani* reasoning.",
+      "chosen_heading": "Resolution Logic",
+      "current_heading": "Resolution Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Rav's Rule",
+    "candidates": [
+      "Rav's Rule",
+      "Exceptions",
+      "Anani Opinion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav's ruling that everything forbidden in the public domain is also forbidden in the courtyard, with the kavul and pea nachrit as exceptions \u2014 exactly what headings 0 and 1 describe, and heading 0's prose explicitly quotes Rav's rule.",
+      "second_heading": "Anani Opinion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rabbi Anani bar Sason's opposing opinion that everything is permitted in the courtyard like the kavul, which matches heading 2's prose precisely.",
+      "current_heading": "Rav's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Anani Opinion",
+    "candidates": [
+      "Exceptions",
+      "Anani Opinion",
+      "Rav vs. Yishmael",
+      "Ulla's Rationale",
+      "Akiva & Shalom Bayit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge that the mishna mentioning kavul and pea nachrit as permissible in the courtyard is difficult for Rabbi Anani's view, and resolves it by noting Rabbi Yishmael bar Yosei is a tanna who disputes the mishna \u2014 exactly what the 'Rav vs. Yishmael' prose describes.",
+      "chosen_heading": "Rav vs. Yishmael",
+      "current_heading": "Anani Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Akiva & Shalom Bayit",
+    "candidates": [
+      "Rav vs. Yishmael",
+      "Ulla's Rationale",
+      "Akiva & Shalom Bayit",
+      "Tosafot's Ruling",
+      "Karmelit Solution",
+      "Rabbeinu Tam",
+      "Shulchan Aruch",
+      "Reality vs. Halacha",
+      "Rema: Sociological"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's rationale (kedei she-lo titganei al ba'alah) and the supporting baraita about Rabbi Akiva, which together explain why the kavul and pea nachrit are permitted \u2014 this is precisely what candidate 1 'Ulla's Rationale' describes, while candidate 2 'Akiva & Shalom Bayit' is the prose elaboration of the same baraita content that belongs under heading 1.",
+      "chosen_heading": "Ulla's Rationale",
+      "current_heading": "Akiva & Shalom Bayit",
+      "moved": true
+    }
+  }
+]

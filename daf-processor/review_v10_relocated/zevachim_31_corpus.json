@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Half-portions Case",
+    "candidates": [
+      "Half-portions Case",
+      "Rava: Piggul Wakes Up",
+      "Tosafot on Thoughts",
+      "Rav Hamnuna: Machshavos",
+      "Rava's Tumah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Talmudic statement of the three-part case (half-zayis chutz lizmano, half chutz limkomo, half chutz lizmano) along with Rava's and Rav Hamnuna's positions, which is exactly what the 'Half-portions Case' prose section sets up and introduces as its central discussion.",
+      "chosen_heading": "Half-portions Case",
+      "current_heading": "Half-portions Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Rava's Tumah Proof",
+    "candidates": [
+      "Rava: Piggul Wakes Up",
+      "Tosafot on Thoughts",
+      "Rav Hamnuna: Machshavos",
+      "Rava's Tumah Proof",
+      "Rashi: Full Measure Start",
+      "Tosafot: Tight Bonding"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Tumah Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Rava's tumah proof from the Mishnah in Teharot, which is precisely what heading 3 ('Rava's Tumah Proof') discusses in detail.",
+      "second_heading": "Rashi: Full Measure Start",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 present Rav Hamnuna's counter-proof and Rava's rebuttal ('hatam ika shiura, hacha leka shiura'), which is exactly what heading 4 ('Rashi: Full Measure Start') discusses.",
+      "current_heading": "Rava's Tumah Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Tosafot: Tight Bonding",
+    "candidates": [
+      "Rashi: Full Measure Start",
+      "Tosafot: Tight Bonding",
+      "Rav Hamnuna: No Shiur",
+      "Rav Dimi's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage 'Perhaps the mishna is referring to a case where one does not complete the requisite measure again' is the Gemara's pushback (lo dilma delo hadar malyei) explicitly described in the prose of 'Rav Hamnuna: No Shiur', not in the Tosafot section where it currently sits.",
+      "chosen_heading": "Rav Hamnuna: No Shiur",
+      "current_heading": "Tosafot: Tight Bonding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Dimi's Case",
+    "candidates": [
+      "Rav Hamnuna: No Shiur",
+      "Rav Dimi's Case",
+      "Bar Kappara Position",
+      "Ravin's Formulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states Bar Kappara's ruling that the offering is piggul and that 'ein chatzi zayis mo'il b'makom kezayis,' which is precisely what the 'Bar Kappara Position' prose section discusses, whereas the current placement's prose incorrectly describes Rav Dimi as saying the case is pasul and not piggul.",
+      "chosen_heading": "Bar Kappara Position",
+      "current_heading": "Rav Dimi's Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Ravin's Formulation",
+    "candidates": [
+      "Bar Kappara Position",
+      "Ravin's Formulation",
+      "Rav Ashi Restructured"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravin's formulation (zman, zman, makom) with Bar Kappara's ruling of piggul and the principle ein chatzi kezayis mo'il b'makom kezayis, which is exactly what the 'Ravin's Formulation' section discusses.",
+      "chosen_heading": "Ravin's Formulation",
+      "current_heading": "Ravin's Formulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Ashi Restructured",
+    "candidates": [
+      "Rav Ashi Restructured",
+      "Rashi Correction",
+      "Rav Yanai: Dogs Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's reformulation and Bar Kappara's ruling of piggul with the specific case of half-k'zayis chutz lizmano combined with a k'zayis split between chutz limkomo and chutz lizmano, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Rav Ashi Restructured",
+      "current_heading": "Rav Ashi Restructured",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rav Yanai: Dogs Eating",
+    "candidates": [
+      "Rashi Correction",
+      "Rav Yanai: Dogs Eating",
+      "Rav Ami Challenge",
+      "Language Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yannai's ruling that intent for dogs to eat the offering the next day constitutes piggul, with the proof-verse about Jezebel and dogs \u2014 exactly what the 'Rav Yanai: Dogs Eating' section's prose describes.",
+      "chosen_heading": "Rav Yanai: Dogs Eating",
+      "current_heading": "Rav Yanai: Dogs Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Language Matters",
+    "candidates": [
+      "Rav Ami Challenge",
+      "Language Matters",
+      "Rav Ashi Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Ami's challenge and its resolution \u2014 item 1 is the objection and item 2 is the Gemara's answer \u2014 and candidate 0 ('Rav Ami Challenge') explicitly describes both the challenge and the Mishnah's problem it raises, while candidate 1 ('Language Matters') describes only the resolution, which is the follow-on discussion after Rav Ami's challenge is presented.",
+      "chosen_heading": "Rav Ami Challenge",
+      "current_heading": "Language Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Ashi Question",
+    "candidates": [
+      "Language Matters",
+      "Rav Ashi Question",
+      "Abaye's Proof",
+      "Rava Slow Eating",
+      "Altar vs Human Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's dilemma about whether intent to have two people eat a collective k'zayis constitutes piggul, which matches exactly the 'Rav Ashi Question' prose describing this precise question and its two framings.",
+      "chosen_heading": "Rav Ashi Question",
+      "current_heading": "Rav Ashi Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Altar vs Human Time",
+    "candidates": [
+      "Abaye's Proof",
+      "Rava Slow Eating",
+      "Altar vs Human Time",
+      "Meat + Altar Split",
+      "R. Eliezer Dispute",
+      "Abaye Clarification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye's Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Abaye's proof that two half-k'zayis eating intents combine (two people), matching heading 0 'Abaye's Proof' which describes exactly this inference from the Mishnah about eating+burning not combining but eating+eating combining.",
+      "second_heading": "Altar vs Human Time",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are Rava's dilemma about slow eating beyond kdei achilas pras, Abaye's proof attempt from the Mishnah about burning taking longer than achilas pras, and the Gemara's rejection via 'large fire' \u2014 all matching heading 2 'Altar vs Human Time' which describes exactly this dilemma and its attempted resolution.",
+      "current_heading": "Altar vs Human Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Abaye Clarification",
+    "candidates": [
+      "Meat + Altar Split",
+      "R. Eliezer Dispute",
+      "Abaye Clarification",
+      "Invalid Servers OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous Gemara discussion about whether eating and burning half-k'zayis intentions combine, covering the initial inference (items 1-2), Rabbi Yirmiyah's attribution to Rabbi Eliezer (item 3), Abaye's reframing (items 4-5), and the resolution explaining the Mishnah's novelty (items 6-8) \u2014 exactly matching the 'Abaye Clarification' prose which describes all these elements in sequence.",
+      "chosen_heading": "Abaye Clarification",
+      "current_heading": "Abaye Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Invalid Servers OK",
+    "candidates": [
+      "Invalid Servers OK",
+      "Women & Zarim OK",
+      "Tosafot on Women",
+      "Tamei Access Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself (kol hapesulim sheshachtu) which is directly introduced and explained in the 'Invalid Servers OK' section's prose, covering the same content: all disqualified persons whose shechita is valid, the list of zarim/nashim/avadim/tme'im, and the consequence regarding piggul intent.",
+      "chosen_heading": "Invalid Servers OK",
+      "current_heading": "Invalid Servers OK",
+      "moved": false
+    }
+  }
+]

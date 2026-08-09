@@ -1,0 +1,387 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Creditor Comparison",
+    "candidates": [
+      "Case Overview",
+      "Lower Hand Rights",
+      "Collection Source",
+      "Best Property Claim",
+      "Creditor Comparison",
+      "Plot Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's objection that even a creditor only collects from intermediate-quality land, and raises the further question about the specific plot for which money was paid \u2014 exactly what the 'Creditor Comparison' prose discusses.",
+      "chosen_heading": "Creditor Comparison",
+      "current_heading": "Creditor Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Plot Limitation",
+    "candidates": [
+      "Plot Limitation",
+      "Acha's Position",
+      "RSBG Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Plot Limitation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Na\u1e25man bar Yitz\u1e25ak's resolution limiting collection to within the sold plot itself, which is precisely what the 'Plot Limitation' prose describes.",
+      "second_heading": "Acha's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav A\u1e25a brei de-Rav Ika's counter-position that collection can come from the best of all the seller's property, which matches the 'Acha's Position' prose exactly.",
+      "current_heading": "Plot Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "RSBG Method",
+    "candidates": [
+      "Acha's Position",
+      "RSBG Method",
+      "Eravon Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rabban Shimon ben Gamliel's method of writing a document to prevent retraction, which is precisely what the 'RSBG Method' section's prose describes.",
+      "chosen_heading": "RSBG Method",
+      "current_heading": "RSBG Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Eravon Terms",
+    "candidates": [
+      "Eravon Terms",
+      "Asmakhta Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about eravon terms and the mutual penalty conditions, which is exactly what the 'Eravon Terms' prose introduces, before the Asmakhta discussion follows as a separate interpretive point.",
+      "chosen_heading": "Eravon Terms",
+      "current_heading": "Eravon Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Asmakhta Kinyan",
+    "candidates": [
+      "Asmakhta Kinyan",
+      "Partial Purchase",
+      "RSBG Stipulation",
+      "Implied Finalization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rabbi Yosei's ruling that asmakhta effects acquisition, which matches directly with the 'Asmakhta Kinyan' section's prose about Rabbi Yose's position on asmakhta being binding.",
+      "chosen_heading": "Asmakhta Kinyan",
+      "current_heading": "Asmakhta Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Implied Finalization",
+    "candidates": [
+      "Partial Purchase",
+      "RSBG Stipulation",
+      "Implied Finalization",
+      "Money-Raising Test",
+      "Urgency Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "RSBG Stipulation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehuda's partial-purchase ruling and Rabban Shimon ben Gamliel's stipulation distinction, which maps precisely onto the 'RSBG Stipulation' prose describing bameh devarim amurim and the explicit ervoni yikne declaration, plus the field-for-1000-zuz case that raises the tension \u2014 all content the 'RSBG Stipulation' and 'Implied Finalization' prose covers, but the RSBG Stipulation heading is the better fit for the opening of this unit.",
+      "second_heading": "Money-Raising Test",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's resolution via 'ayil venafik azuzei / lo ayil venafik azuzei,' which is exactly the content described in the 'Money-Raising Test' prose.",
+      "current_heading": "Implied Finalization",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Urgency Evidence",
+    "candidates": [
+      "Money-Raising Test",
+      "Urgency Evidence",
+      "Rava's Rule",
+      "Donkey Case",
+      "Full Payment Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Rava ruling that candidate 2 ('Rava's Rule') says it is codifying: *hai man de-zavin midi le-chavrei veka ayil venafik azuzei lo kani / lo ka ayil venafik azuzei kani*.",
+      "second_heading": "Full Payment Rule",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 is Rava's separate ruling about repaying a loan one dinar at a time, which is a distinct case not tied to the donkey/urgency chain; the closest prose that at least deals with the aftermath of payment calculations is 'Full Payment Rule', though the fit is imperfect \u2014 it is clearly not under 'Urgency Evidence' where it currently sits.",
+      "current_heading": "Urgency Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Full Payment Rule",
+    "candidates": [
+      "Rava's Rule",
+      "Donkey Case",
+      "Full Payment Rule",
+      "Tosafot Extension",
+      "Disruption of Rules",
+      "Offloading Exception",
+      "Proof Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the donkey sale case where one zuz remains unpaid and Rav Ashi deliberates the question, which matches the 'Donkey Case' prose exactly \u2014 that section describes this very scenario including the chamor specification and the ninety-nine out of a hundred zuz question, while the current placement ('Full Payment Rule') describes the answer/resolution rather than the case itself.",
+      "chosen_heading": "Donkey Case",
+      "current_heading": "Full Payment Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Proof Burden",
+    "candidates": [
+      "Tosafot Extension",
+      "Disruption of Rules",
+      "Offloading Exception",
+      "Proof Burden",
+      "Davar Ha'aved",
+      "Employer Options",
+      "Wage Offset"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the 'mocher sadeh mipnei ra'asah' (selling a field due to its poor quality) exception and the teyku case about lazy sellers \u2014 precisely what the 'Offloading Exception' prose describes as the counterbalancing factor that can override the urgently-needing-funds rule.",
+      "chosen_heading": "Offloading Exception",
+      "current_heading": "Proof Burden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Wage Offset",
+    "candidates": [
+      "Davar Ha'aved",
+      "Employer Options",
+      "Wage Offset",
+      "Post-Payment Case",
+      "Goods Deposit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the Mishnah's rule about hiring replacements or deceiving workers at the breaching workers' expense, and then poses the question 'up to what amount may he hire at their expense?' \u2014 which is precisely what the 'Employer Options' prose describes as the setup before Rav Nachman's ruling.",
+      "chosen_heading": "Employer Options",
+      "current_heading": "Wage Offset",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Goods Deposit",
+    "candidates": [
+      "Post-Payment Case",
+      "Goods Deposit",
+      "Mountain-Valley Case",
+      "Causation Nexus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's objection to Rav Nachman about the forty/fifty zuz figure and Rav Nachman's response, which is precisely what the 'Post-Payment Case' prose describes \u2014 the 'Goods Deposit' prose covers the explanation/application of that response, but the actual Talmudic text of the challenge and reply belongs under the heading that introduces it.",
+      "chosen_heading": "Post-Payment Case",
+      "current_heading": "Goods Deposit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Causation Nexus",
+    "candidates": [
+      "Mountain-Valley Case",
+      "Causation Nexus",
+      "Specific Risks",
+      "Warranty Voiding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself (the full mountain-valley rental case in both reisha and seifa), which the 'Mountain-Valley Case' prose explicitly introduces and summarizes as presenting the core scenario, making it the natural home for the Mishnah citation before the analytical sections begin.",
+      "chosen_heading": "Mountain-Valley Case",
+      "current_heading": "Causation Nexus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Warranty Voiding",
+    "candidates": [
+      "Specific Risks",
+      "Warranty Voiding",
+      "Two-Part Analysis",
+      "Ambiguous Causation",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Mishnah about renting a donkey (illness/angarya vs. death/breaking) and the Gemara's question about why the reisha doesn't distinguish while the seifa does, followed by the three answers (Rabbi Yannai's school, Rabbi Yose bar Chanina, Rabba) \u2014 all of which are explicitly discussed and analyzed in candidate 1's prose about the tension between the reisha and seifa and the ambiguous causation framework.",
+      "chosen_heading": "Warranty Voiding",
+      "current_heading": "Warranty Voiding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Two-Part Analysis",
+      "Ambiguous Causation",
+      "Rabbi Meir Position",
+      "Gazlan Definition",
+      "Dyer Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yo\u1e25anan's citation of Rabbi Meir's principle that one who diverges from the employer's instructions is called a robber \u2014 exactly what the 'Rabbi Meir Position' prose describes as the Gemara's alternative analysis attributing the reisha to Rabbi Meir's gazlan rule.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Dyer Example",
+    "candidates": [
+      "Gazlan Definition",
+      "Dyer Example",
+      "Purim Funds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the dyer mishna, Rabbi Yehuda's counterposition, and the Gemara's challenge about kinyan through physical change \u2014 are precisely the content described in the 'Dyer Example' prose, which explicitly summarizes this sequence including the dilma shani hasam dekanya bishinui ma'aseh rejection.",
+      "chosen_heading": "Dyer Example",
+      "current_heading": "Dyer Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Purim Funds",
+    "candidates": [
+      "Purim Funds",
+      "Shirt-Coat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Purim collection baraita and its refutation as a source for the Rabbi Meir principle, which is precisely what the 'Purim Funds' prose describes.",
+      "chosen_heading": "Purim Funds",
+      "current_heading": "Purim Funds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Shirt-Coat Case",
+    "candidates": [
+      "Shirt-Coat Case",
+      "Intent Protection",
+      "Gazlan Implication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous dialectical unit \u2014 the baraita of Rabbi Meir (item 1), the Gemara's reputational objection (item 2), and the Gemara's rebuttal proving the rule is substantive (item 3) \u2014 and the 'Shirt-Coat Case' prose explicitly describes all three moves including the push-back and the resolution setup, making it the correct home.",
+      "chosen_heading": "Shirt-Coat Case",
+      "current_heading": "Shirt-Coat Case",
+      "moved": false
+    }
+  }
+]

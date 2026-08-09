@@ -1,0 +1,585 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Yehoshua's Verse",
+    "candidates": [
+      "Intro: Teshuvah Debate",
+      "Nature of Teshuvah",
+      "Generational Worthiness",
+      "Shmuel & Rav Alignment",
+      "Eliezer's Verse",
+      "Yehoshua's Verse",
+      "Eliezer's Silence",
+      "Prosperity Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's verse citation AND Rabbi Yehoshua's response AND Rabbi Eliezer's silence, but the prose under heading 4 ('Eliezer's Verse') is where the textual exchange begins, and the passage as a whole covers the complete exchange \u2014 however, since heading 4 specifically describes Rabbi Eliezer citing his verse (which is the first thing in this passage), and headings 5 and 6 split out Yehoshua's verse and Eliezer's silence separately, the single passage spanning all three elements most naturally belongs under heading 4 where the exchange starts, but given the current placement is under 5 and the passage includes all three components, the best single heading that captures the full exchange including Eliezer's initial verse, Yehoshua's response, and Eliezer's silence is heading 4 where the debate's textual exchange is introduced.",
+      "chosen_heading": "Eliezer's Verse",
+      "current_heading": "Yehoshua's Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Prosperity Sign",
+    "candidates": [
+      "Eliezer's Silence",
+      "Prosperity Sign",
+      "Scarcity Sign",
+      "Affliction Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Abba's statement about the mountains of Israel yielding fruit (prosperity sign) and Rabbi Eliezer's citation of Zechariah 8:10 about no wages, and the current heading 'Prosperity Sign' with its prose explicitly discusses Rabbi Abba's declaration and the concept of the land flourishing as the clearest revealed ketz, which matches the primary content of this passage.",
+      "chosen_heading": "Prosperity Sign",
+      "current_heading": "Prosperity Sign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Affliction Period",
+    "candidates": [
+      "Scarcity Sign",
+      "Affliction Period",
+      "Equal Prices",
+      "Fish Scarcity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the meaning of 'no peace from the oppressor' with Rav's interpretation about Torah scholars and Shmuel's statement about equal prices \u2014 both of which are addressed in the 'Affliction Period' prose, which explicitly discusses Rav Abba's teaching about Torah scholars and mentions Rashi's interpretation, while Shmuel's equal prices statement is a continuation of the same Gemara unit even though section 2 discusses it separately.",
+      "chosen_heading": "Affliction Period",
+      "current_heading": "Affliction Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Fish Scarcity",
+    "candidates": [
+      "Equal Prices",
+      "Fish Scarcity",
+      "Loss Sovereignty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24anina's statement about fish scarcity as a sign before Ben David's arrival, which matches exactly the 'Fish Scarcity' section's prose discussion of this very teaching.",
+      "chosen_heading": "Fish Scarcity",
+      "current_heading": "Fish Scarcity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Loss Sovereignty",
+    "candidates": [
+      "Loss Sovereignty",
+      "Remove Haughty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi \u1e24ama bar \u1e24anina and the 'contemptuous kingdom' ceasing from Israel directly matches the 'Loss Sovereignty' section's prose, which explicitly discusses this same teaching, the same verse (Vecharat hazalzalim bemazmerot), and Rashi's interpretation about removal of even trivial sovereignty.",
+      "chosen_heading": "Loss Sovereignty",
+      "current_heading": "Loss Sovereignty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Remove Haughty",
+    "candidates": [
+      "Remove Haughty",
+      "End Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the removal of the haughty/arrogant from Israel as a precondition for the son of David's coming, matching exactly the 'Remove Haughty' section's prose about eliminating arrogant ones.",
+      "chosen_heading": "Remove Haughty",
+      "current_heading": "Remove Haughty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "End Judges",
+    "candidates": [
+      "End Judges",
+      "Righteousness Redemption",
+      "Haughty & Magi",
+      "Shrinking Generation",
+      "Divine Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "End Judges",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Simlai on judges/officers ceasing before Ben David comes) matches heading 'End Judges' whose prose explicitly discusses this teaching.",
+      "second_heading": "Righteousness Redemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens with Ulla's teaching that Jerusalem is redeemed through righteousness and then Rav Pappa's elaboration on haughty/magi and judges/officers, which maps directly onto headings 'Righteousness Redemption' and 'Haughty & Magi' \u2014 but since both sub-teachings of item 2 form one continuous block, the natural home is 'Righteousness Redemption' which leads into 'Haughty & Magi', and the current placement under 'End Judges' is wrong for this content.",
+      "current_heading": "End Judges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Divine Response",
+    "candidates": [
+      "Righteousness Redemption",
+      "Haughty & Magi",
+      "Shrinking Generation",
+      "Divine Response",
+      "Hope in Exile",
+      "Hasidic Story",
+      "Zakai or Chayav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan teachings (shrinking generation and river of troubles) that the 'Shrinking Generation' prose explicitly introduces, while the current placement 'Divine Response' only covers the prooftexts and second teaching \u2014 the full passage belongs under the heading that introduces both teachings together.",
+      "chosen_heading": "Shrinking Generation",
+      "current_heading": "Divine Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Zakai or Chayav",
+    "candidates": [
+      "Hope in Exile",
+      "Hasidic Story",
+      "Zakai or Chayav",
+      "Merit vs. Intervention",
+      "Two Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the text that candidate 2's prose describes and analyzes \u2014 Rabbi Yochanan's statement about 'dor shekulo zakai o kulo chayav' with both prooftexts, which is exactly what the 'Zakai or Chayav' section heading and its prose are about.",
+      "chosen_heading": "Zakai or Chayav",
+      "current_heading": "Zakai or Chayav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Two Verses",
+    "candidates": [
+      "Merit vs. Intervention",
+      "Two Verses",
+      "God's Plan & Acceleration",
+      "Clouds vs. Donkey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the be'itah/achishena contradiction and its zachu/lo zachu resolution, which is precisely what the 'Two Verses' section's prose describes.",
+      "chosen_heading": "Two Verses",
+      "current_heading": "Two Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Clouds vs. Donkey",
+    "candidates": [
+      "God's Plan & Acceleration",
+      "Clouds vs. Donkey",
+      "Shapur's Offer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the clouds-of-heaven vs. donkey contradiction resolved by merit/demerit of the generation, which is precisely what the 'Clouds vs. Donkey' section's prose describes.",
+      "chosen_heading": "Clouds vs. Donkey",
+      "current_heading": "Clouds vs. Donkey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Shapur's Offer",
+    "candidates": [
+      "Shapur's Offer",
+      "Elijah's Location",
+      "Ask Mashiach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records the exchange between King Shapur and Shmuel about the Messiah's donkey versus a horse, which is precisely what the 'Shapur's Offer' section's prose describes.",
+      "chosen_heading": "Shapur's Offer",
+      "current_heading": "Shapur's Offer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Ask Mashiach",
+    "candidates": [
+      "Elijah's Location",
+      "Ask Mashiach",
+      "Gates of Rome",
+      "Ready Any Moment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua ben Levi finding Elijah at the entrance to Rabbi Shimon bar Yochai's cave and asking about the World to Come \u2014 exactly what heading 0 ('Elijah's Location') discusses, including the cave detail and the World to Come question with Rashi's explanation of 'adon zeh.'",
+      "chosen_heading": "Elijah's Location",
+      "current_heading": "Ask Mashiach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Ready Any Moment",
+    "candidates": [
+      "Gates of Rome",
+      "Ready Any Moment",
+      "Mashiach Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange where Rabbi Yehoshua asks Elijah when Mashiach will come, where he sits (at the gates of Rome), and his identifying sign among the sick poor \u2014 all of which is described in the 'Gates of Rome' prose, whereas the current placement ('Ready Any Moment') only covers the bandage detail that is the latter portion of this passage.",
+      "chosen_heading": "Gates of Rome",
+      "current_heading": "Ready Any Moment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Mashiach Answers",
+    "candidates": [
+      "Ready Any Moment",
+      "Mashiach Answers",
+      "If You Listen",
+      "Mashiach Symbol",
+      "When Will Come"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts the exact dialogue between Rabbi Yehoshua ben Levi and Mashiach, followed by his return to Elijah and the complaint about being lied to, which matches precisely what heading 1 ('Mashiach Answers') describes in its prose.",
+      "chosen_heading": "Mashiach Answers",
+      "current_heading": "Mashiach Answers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "When Will Come",
+    "candidates": [
+      "If You Listen",
+      "Mashiach Symbol",
+      "When Will Come",
+      "Gate's Cycles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts the students asking Rabbi Yosei ben Kisma when Ben David will come and his hesitation about signs \u2014 exactly what the 'When Will Come' section's prose describes.",
+      "chosen_heading": "When Will Come",
+      "current_heading": "When Will Come",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Gate's Cycles",
+    "candidates": [
+      "Gate's Cycles",
+      "Water to Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the gate falling and being rebuilt cycle and the students asking for a sign, which directly matches the 'Gate's Cycles' prose discussion of Rome's gate collapsing multiple times before Ben David comes.",
+      "chosen_heading": "Gate's Cycles",
+      "current_heading": "Gate's Cycles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Water to Blood",
+    "candidates": [
+      "Water to Blood",
+      "Burial Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the water of Pamyas turning to blood, which is exactly what the 'Water to Blood' section prose discusses.",
+      "chosen_heading": "Water to Blood",
+      "current_heading": "Water to Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Burial Request",
+    "candidates": [
+      "Burial Request",
+      "Gog & Magog War",
+      "Evil Rule Period",
+      "Birth Pangs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yosi ben Kisma's burial request and its explanation \u2014 the deep burial and the reason (Persian/Median horses using coffins as troughs) \u2014 which is precisely what the 'Burial Request' prose describes.",
+      "chosen_heading": "Burial Request",
+      "current_heading": "Burial Request",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Birth Pangs",
+    "candidates": [
+      "Gog & Magog War",
+      "Evil Rule Period",
+      "Birth Pangs",
+      "Ulla's Wish",
+      "Rava & Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav's statement about the evil kingdom spreading over Israel for nine months, which is precisely what the 'Evil Rule Period' prose section discusses and attributes to Rav.",
+      "chosen_heading": "Evil Rule Period",
+      "current_heading": "Birth Pangs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Rava & Yosef",
+    "candidates": [
+      "Ulla's Wish",
+      "Rava & Yosef",
+      "Yissurin Parallel",
+      "Torah & Kindness"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Torah & Kindness",
+    "candidates": [
+      "Yissurin Parallel",
+      "Torah & Kindness",
+      "Fear of Sin",
+      "Jacob's Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Abaye questioning Rabba's reason for avoiding the Messianic era and citing the baraita about Torah and kindness as a counter-argument \u2014 this is precisely the 'mai ta'ama' exchange described in the 'Yissurin Parallel' section's prose, not the 'Torah & Kindness' section which describes the baraita's content in isolation.",
+      "chosen_heading": "Yissurin Parallel",
+      "current_heading": "Torah & Kindness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Jacob's Fear",
+    "candidates": [
+      "Fear of Sin",
+      "Jacob's Fear",
+      "Lost Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct response introducing the principle of 'shema yigrom hacheit,' which belongs under 'Fear of Sin' where the prose explicitly discusses this exchange and this principle, not under 'Jacob's Fear' which discusses the application/explanation of that principle.",
+      "chosen_heading": "Fear of Sin",
+      "current_heading": "Jacob's Fear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Lost Miracle",
+    "candidates": [
+      "Jacob's Fear",
+      "Lost Miracle",
+      "Lion Bear Snake",
+      "Modern Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita and its conclusion that directly support Rabbi Yaakov bar Idi's explanation of Jacob's fear \u2014 that sin can cause a divine promise to be forfeited \u2014 which is precisely what heading 0 ('Jacob's Fear') describes in its prose.",
+      "chosen_heading": "Jacob's Fear",
+      "current_heading": "Lost Miracle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Modern Examples",
+    "candidates": [
+      "Lion Bear Snake",
+      "Modern Examples",
+      "Birth Pangs Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's statement about not wanting to see the Messiah AND Reish Lakish's response with the lion/bear/snake analogy, and candidate 0's prose covers both elements together, while candidate 1 only covers the 'modern examples' portion \u2014 the full passage belongs under the heading that introduces Rabbi Yochanan's fear and the Amos verse.",
+      "chosen_heading": "Lion Bear Snake",
+      "current_heading": "Modern Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Birth Pangs Verse",
+    "candidates": [
+      "Modern Examples",
+      "Birth Pangs Verse",
+      "God's Suffering",
+      "Ox & Horse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Jeremiah 30:6 verse and its interpretation (kol gever = God, yerakon = heavenly and earthly entourage), which is precisely what the 'Birth Pangs Verse' prose section discusses, including the explanation that even God suffers during these birth pangs.",
+      "chosen_heading": "Birth Pangs Verse",
+      "current_heading": "Birth Pangs Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Ox & Horse",
+    "candidates": [
+      "God's Suffering",
+      "Ox & Horse",
+      "Mashiach Benefits",
+      "Hillel Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's folk saying about the ox and horse, which directly matches the 'Ox & Horse' section's prose discussing exactly this adage and its meaning.",
+      "chosen_heading": "Ox & Horse",
+      "current_heading": "Ox & Horse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Hillel Claim",
+    "candidates": [
+      "Mashiach Benefits",
+      "Hillel Claim",
+      "Dogma Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the Rav Giddel/Rav Yosef exchange (which clearly belongs under 'Mashiach Benefits') and the Rabbi Hillel statement, but since the Gemara presents this as one continuous unit and heading 0's prose covers the full passage including the setup for the Rabbi Hillel exclusion, while heading 1 focuses only on the Rabbi Hillel portion as a conclusion, the passage as a whole fits better under heading 0 where the discussion begins \u2014 though the current placement under 'Hillel Claim' is also defensible since that heading's prose explicitly discusses the Rabbi Hillel content.",
+      "chosen_heading": "Mashiach Benefits",
+      "current_heading": "Hillel Claim",
+      "moved": true
+    }
+  }
+]

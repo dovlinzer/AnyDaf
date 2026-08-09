@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah: Tamei/Yotzei",
+    "candidates": [
+      "Mishnah: Tamei/Yotzei",
+      "Tzitz Mechanism",
+      "V'nasa Aharon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself presenting the two contrasting cases of tamei and yotzei with respect to the tzitz, which is exactly what the prose under 'Mishnah: Tamei/Yotzei' describes.",
+      "chosen_heading": "Mishnah: Tamei/Yotzei",
+      "current_heading": "Mishnah: Tamei/Yotzei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "V'nasa Aharon",
+    "candidates": [
+      "Tzitz Mechanism",
+      "V'nasa Aharon",
+      "Not Pigul",
+      "Not Nosar",
+      "Tumah Hutra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening Gemara/baraita that raises the question of which sin the tzitz bears, directly matching the 'V'nasa Aharon' section's prose about deriving the scope of the tzitz's power and posing that exact question.",
+      "chosen_heading": "V'nasa Aharon",
+      "current_heading": "V'nasa Aharon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Tumah Hutra",
+    "candidates": [
+      "Not Pigul",
+      "Not Nosar",
+      "Tumah Hutra",
+      "Yotzei Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the tzitz bears only the sin of tumah which was permitted in the case of the community, perfectly matching the 'Tumah Hutra' section's prose about tumah hutra b'tzibbur.",
+      "chosen_heading": "Tumah Hutra",
+      "current_heading": "Tumah Hutra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Yotzei Proposal",
+    "candidates": [
+      "Yotzei Proposal",
+      "Abaye: Lifnei Hashem",
+      "Smol Proposal",
+      "Yom Kippur Exception",
+      "Kodshim vs. Makdishim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's objection proposing that the tzitz covers yotzei disqualification because it was permitted during the era of bamot, which is exactly what the 'Yotzei Proposal' prose describes.",
+      "chosen_heading": "Yotzei Proposal",
+      "current_heading": "Yotzei Proposal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Kodshim vs. Makdishim",
+    "candidates": [
+      "Abaye: Lifnei Hashem",
+      "Smol Proposal",
+      "Yom Kippur Exception",
+      "Kodshim vs. Makdishim",
+      "Dam Tamei",
+      "Yachid vs. Tzibbur",
+      "Oved Kochavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of objections and responses about what the tzitz atones for, spanning Abaye's lifnei Hashem ruling through Rav Ashi's kodashim/makdishim distinction and the baal mum challenge \u2014 all of which are explicitly described in candidate 3's prose.",
+      "chosen_heading": "Kodshim vs. Makdishim",
+      "current_heading": "Kodshim vs. Makdishim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Oved Kochavim",
+    "candidates": [
+      "Dam Tamei",
+      "Yachid vs. Tzibbur",
+      "Oved Kochavim",
+      "Meat/Chelev"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yachid vs. Tzibbur",
+      "first_confidence": "high",
+      "first_reason": "Item 1 opens the baraita covering the shogeg/meizid distinction for an individual and then extends to tzibbur \u2014 content matching both 'Dam Tamei' and 'Yachid vs. Tzibbur' sections, but since it is a single baraita beginning, it belongs under 'Yachid vs. Tzibbur' which explicitly discusses this entire braita including the yachid/tzibbur distinction.",
+      "second_heading": "Oved Kochavim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the closing ruling for the gentile case (lo hurtzah with the l'ratzon lahem verse), which is precisely what the 'Oved Kochavim' prose discusses.",
+      "current_heading": "Oved Kochavim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Meat/Chelev",
+    "candidates": [
+      "Meat/Chelev",
+      "Contradiction Emerges",
+      "Rav Yosef",
+      "Terumah Min Tamei",
+      "Rabbi Yosi: Mezid OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly raises the contradiction between the two baraitot, which matches 'Contradiction Emerges' \u2014 the prose of candidate 1 directly describes this stark contradiction, while candidate 0 ('Meat/Chelev') discusses the conceptual implications of the baraita's content rather than the act of raising the contradiction itself.",
+      "chosen_heading": "Contradiction Emerges",
+      "current_heading": "Meat/Chelev",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rabbi Yosi: Mezid OK",
+    "candidates": [
+      "Contradiction Emerges",
+      "Rav Yosef",
+      "Terumah Min Tamei",
+      "Rabbi Yosi: Mezid OK",
+      "Rabbi Yosi/Meat",
+      "Braita: RE vs. RY",
+      "Proposed Reversal",
+      "Harmony via Reversal",
+      "Cannot Reverse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's resolution (l\u05d0 \u05e7\u05e9\u05d9\u05d0) and the terumah baraita he uses as an analogy, which corresponds exactly to the 'Rav Yosef' section's prose about his resolution using the terumah case \u2014 the passage covers both his proposal and the supporting baraita, making heading 1 the best single home for this unified unit.",
+      "chosen_heading": "Rav Yosef",
+      "current_heading": "Rabbi Yosi: Mezid OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Cannot Reverse",
+    "candidates": [
+      "Rabbi Yosi/Meat",
+      "Braita: RE vs. RY",
+      "Proposed Reversal",
+      "Harmony via Reversal",
+      "Cannot Reverse",
+      "Yachol Basar"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Yachol Basar",
+    "candidates": [
+      "Yachol Basar",
+      "Nitur Letahorim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous baraita introduced in candidate 0 ('Yachol Basar'), beginning with Rav Sheshet's objection and citing the baraita about whether a tamei person is liable for eating meat before zerikas damim \u2014 exactly what candidate 0's prose describes as the baraita's opening question.",
+      "chosen_heading": "Yachol Basar",
+      "current_heading": "Yachol Basar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Nitur Letahorim",
+    "candidates": [
+      "Nitur Letahorim",
+      "Sha'at Kosher Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'asher la'Hashem riba' (the verse states 'that belong to the Lord' which included) is explicitly the expansive term discussed in candidate 1's prose, which describes how 'asher la'Hashem riba extends liability to lan and yotzei cases that had a sha'at kosher.",
+      "chosen_heading": "Sha'at Kosher Test",
+      "current_heading": "Nitur Letahorim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Sha'at Kosher Test",
+    "candidates": [
+      "Nitur Letahorim",
+      "Sha'at Kosher Test",
+      "Tamei at Zrika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the piggul/notar distinction and the sha'at kosher principle \u2014 exactly what the 'Sha'at Kosher Test' prose describes, including the ribui/mi'ut terms and the final rule including lan/yotzei (which had sha'at kosher) while excluding piggul (which never had one).",
+      "chosen_heading": "Sha'at Kosher Test",
+      "current_heading": "Sha'at Kosher Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Tamei at Zrika",
+    "candidates": [
+      "Tamei at Zrika",
+      "Tzitz Meratzeh Meat",
+      "Braita Implies Meat",
+      "Only Tumah Here",
+      "Rabbi Eliezer Auth"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tamei at Zrika",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's question and answer about meat that became tamei before zerikas damim \u2014 the tzitz meratzeh resolution \u2014 which is precisely what heading 0 ('Tamei at Zrika') discusses.",
+      "second_heading": "Braita Implies Meat",
+      "second_confidence": "high",
+      "second_reason": "Item 2 draws the implication from the baraita that the tzitz effects acceptance for tumah (meat) but not for yotzei, which matches heading 2 ('Braita Implies Meat') and heading 3 \u2014 but heading 2's prose about the baraita demonstrating tzitz operates on achilos is the immediate next structural point after the tzitz meratzeh answer, making it the better fit for this concluding inference.",
+      "current_heading": "Tamei at Zrika",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rabbi Eliezer Auth",
+    "candidates": [
+      "Tzitz Meratzeh Meat",
+      "Braita Implies Meat",
+      "Only Tumah Here",
+      "Rabbi Eliezer Auth",
+      "First Braita RE",
+      "RE: Terumah Mezid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states that whoever holds 'ein zerika mo'eles l'yotzei' is Rabbi Eliezer, and the baraita teaches tzitz meratzeh al achilos \u2014 precisely the reasoning described in the 'Rabbi Eliezer Auth' section's prose about attributing the baraita to Rabbi Eliezer based on this combination of positions.",
+      "chosen_heading": "Rabbi Eliezer Auth",
+      "current_heading": "Rabbi Eliezer Auth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "RE: Terumah Mezid",
+    "candidates": [
+      "First Braita RE",
+      "RE: Terumah Mezid",
+      "Infer: Korban Mezid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's core resolution statement \u2014 'not difficult, this is Rabbi Eliezer, that is the Rabbis' \u2014 which is exactly what heading 0 describes as Rav Chisda proposing his full resolution attributing the two baraitot to Rabbi Eliezer vs. the Rabbis.",
+      "chosen_heading": "First Braita RE",
+      "current_heading": "RE: Terumah Mezid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Infer: Korban Mezid",
+    "candidates": [
+      "RE: Terumah Mezid",
+      "Infer: Korban Mezid",
+      "Kalah/Chamimah",
+      "Braita Proof",
+      "Tumah Occurred",
+      "Zrika Shogeg"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "RE: Terumah Mezid",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita proving Rabbi Eliezer holds meizid is not penalized in terumah, which matches heading 0's prose about that exact baraita.",
+      "second_heading": "Kalah/Chamimah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the kalah/chamimah objection \u2014 whether Rabbi Eliezer's terumah ruling extends to the stricter korbanot context \u2014 which matches heading 2's prose exactly.",
+      "current_heading": "Infer: Korban Mezid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Zrika Shogeg",
+    "candidates": [
+      "Kalah/Chamimah",
+      "Braita Proof",
+      "Tumah Occurred",
+      "Zrika Shogeg",
+      "Harmony: Ravina",
+      "Zrika Lenient",
+      "Language Check",
+      "Strained Read",
+      "Natural Read",
+      "Ravina Wins",
+      "Meratzeh: Status",
+      "Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Items 1-4 present Rav Sheila's inverse reading (zerika may be b'meizid, tumah must be b'shogeg), the Gemara's language challenge to it, and Rav Sheila's forced reparse of the second braita \u2014 all of which corresponds precisely to the 'Zrika Lenient' heading's prose description of Rav Sheila's position and the subsequent headings (6-8) which test it, while the current placement under 'Zrika Shogeg' describes Ravina's reading, not Rav Sheila's.",
+      "chosen_heading": "Zrika Lenient",
+      "current_heading": "Zrika Shogeg",
+      "moved": true
+    }
+  }
+]

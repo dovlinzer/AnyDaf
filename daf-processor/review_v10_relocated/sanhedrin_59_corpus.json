@@ -1,0 +1,562 @@
+[
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Retzicha & Fetuses",
+      "Women's Status",
+      "Marriage Concepts",
+      "Akiva vs. Eliezer",
+      "Kayin's Sister",
+      "General vs. Special",
+      "Rashi Chesed",
+      "Rav Huna Daughter",
+      "Reconciliation",
+      "Three Positions",
+      "Slave Relations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items concern the tashma about why Adam did not marry his daughter so that Kayin could marry his sister (the 'olam chesed yibaneh' proof), which is precisely what candidate 4 'Kayin's Sister' describes \u2014 the tashma, the inference ha lav hachi asira, and its bearing on the Akiva/Eliezer dispute.",
+      "chosen_heading": "Kayin's Sister",
+      "current_heading": "Three Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Slave Relations",
+    "candidates": [
+      "Three Positions",
+      "Slave Relations",
+      "Quasi-Newborn",
+      "Paradox",
+      "Limbo Status",
+      "Designated Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and presents Rav \u1e24isda's ruling about a slave being permitted to marry his mother and daughter, which is exactly what the 'Slave Relations' section prose introduces and discusses.",
+      "chosen_heading": "Slave Relations",
+      "current_heading": "Slave Relations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Designated Woman",
+    "candidates": [
+      "Quasi-Newborn",
+      "Paradox",
+      "Limbo Status",
+      "Designated Woman",
+      "Yichud Definition",
+      "Recognition Point",
+      "Hair Uncovered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the case of a ben Noach who designated a maidservant for his slave and then had intercourse with her, which is precisely what the 'Designated Woman' section's prose discusses and analyzes.",
+      "chosen_heading": "Designated Woman",
+      "current_heading": "Designated Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Hair Uncovered",
+    "candidates": [
+      "Yichud Definition",
+      "Recognition Point",
+      "Hair Uncovered",
+      "Rambam Divorce",
+      "De Facto Marriage",
+      "Modern Aguna",
+      "Unnatural Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'from when' question about the slave's mate status (Rav Nachman) and the dissolution question (Rav Huna), and candidate 1 'Recognition Point' explicitly discusses both questions together in its prose, making it a better home than candidate 2 which only covers the hair-uncovering dissolution aspect.",
+      "chosen_heading": "Recognition Point",
+      "current_heading": "Hair Uncovered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Unnatural Acts",
+    "candidates": [
+      "Rambam Divorce",
+      "De Facto Marriage",
+      "Modern Aguna",
+      "Unnatural Acts",
+      "Ve'davak",
+      "Another's Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar citing Rabbi \u1e24anina's ruling that a ben Noach is liable for intercourse with his own wife in an atypical manner, derived from 've'davak,' which is precisely what the 'Unnatural Acts' section's prose introduces and discusses.",
+      "chosen_heading": "Unnatural Acts",
+      "current_heading": "Unnatural Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Another's Wife",
+    "candidates": [
+      "Ve'davak",
+      "Another's Wife",
+      "Narrow Definition",
+      "Shiurim Limits",
+      "Hit Jew Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form Rava's objection and resolution regarding a ben Noach's liability for intercourse with another man's wife she'lo k'darka, which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Another's Wife",
+      "current_heading": "Another's Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Hit Jew Death",
+    "candidates": [
+      "Narrow Definition",
+      "Shiurim Limits",
+      "Hit Jew Death",
+      "Slapping Cheek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi \u1e24anina's ruling that a gentile who strikes a Jew is liable to death with the proof from Moses striking the Egyptian, which is precisely what candidate 2 ('Hit Jew Death') discusses in its prose.",
+      "chosen_heading": "Hit Jew Death",
+      "current_heading": "Hit Jew Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Slapping Cheek",
+    "candidates": [
+      "Slapping Cheek",
+      "Lifted Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi \u1e24anina's teaching on slapping the cheek of a Jew being like slapping the Divine Presence is clearly discussed in the 'Slapping Cheek' section's prose, which directly addresses this exact teaching.",
+      "chosen_heading": "Slapping Cheek",
+      "current_heading": "Slapping Cheek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Lifted Hand",
+    "candidates": [
+      "Lifted Hand",
+      "Sinner Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Reish Lakish's teaching that raising one's hand makes one a rasha even without striking, which is exactly what the 'Lifted Hand' section's prose describes.",
+      "chosen_heading": "Lifted Hand",
+      "current_heading": "Lifted Hand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Sinner Status",
+    "candidates": [
+      "Sinner Status",
+      "Cut Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses being called a 'sinner' (chotei) based on the verse from I Samuel about Eli's sons, which exactly matches the 'Sinner Status' section's prose about nikra chotei and the same verses.",
+      "chosen_heading": "Sinner Status",
+      "current_heading": "Sinner Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Cut Hand",
+    "candidates": [
+      "Cut Hand",
+      "Din Debate",
+      "Shabbat Prohibition",
+      "Day Night Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the punishment for a habitual striker \u2014 Rav Huna's ruling about cutting off the hand and Rabbi Elazar's statement about burial \u2014 which is precisely what the 'Cut Hand' section's prose discusses.",
+      "chosen_heading": "Cut Hand",
+      "current_heading": "Cut Hand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Day Night Work",
+    "candidates": [
+      "Din Debate",
+      "Shabbat Prohibition",
+      "Day Night Work",
+      "Weekday Rest",
+      "Rashi Secular"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Elazar stating that 'the land is given only to mighty men' relates to strength/force and authority, which connects to the Din Debate section discussing Rav Huna's use of force/punishment against an aggressor, not to the Shabbat/rest prohibition material surrounding its current placement.",
+      "chosen_heading": "Din Debate",
+      "current_heading": "Day Night Work",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Rashi Secular",
+    "candidates": [
+      "Weekday Rest",
+      "Rashi Secular",
+      "Passive Violation",
+      "Slave Rest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slave Rest",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 (Reish Lakish on working the land like a slave) is thematically connected to the 'Slave Rest' section's discussion of slaves and labor obligations, and is structurally separate from the Shabbat-for-gentiles topic.",
+      "second_heading": "Rashi Secular",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Reish Lakish on a gentile who rests on Shabbat, plus Ravina's extension to any weekday) directly matches the 'Rashi Secular' prose, which discusses Reish Lakish's shevisa ruling and Ravina's chiddush about Monday (sheini be'Shabbos).",
+      "current_heading": "Rashi Secular",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Slave Rest",
+    "candidates": [
+      "Passive Violation",
+      "Slave Rest",
+      "Dinim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why Shabbos is not counted among the seven Noahide mitzvos \u2014 because the list only counts prohibitions violated by active transgression, not passive inaction \u2014 which is precisely what the 'Passive Violation' section's prose describes.",
+      "chosen_heading": "Passive Violation",
+      "current_heading": "Slave Rest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Dinim Exception",
+    "candidates": [
+      "Slave Rest",
+      "Dinim Exception",
+      "Rambam Religious",
+      "Inheritance Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge about dinim being a kum va'aseh yet counted among the seven mitzvos, and the answer that it contains both active and passive dimensions \u2014 exactly what the 'Dinim Exception' prose describes.",
+      "chosen_heading": "Dinim Exception",
+      "current_heading": "Dinim Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Inheritance Pasuk",
+    "candidates": [
+      "Rambam Religious",
+      "Inheritance Pasuk",
+      "Morasha Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement about a gentile who engages in Torah being liable to death, derived from the 'morasha' verse \u2014 exactly what the 'Inheritance Pasuk' section prose introduces and discusses.",
+      "chosen_heading": "Inheritance Pasuk",
+      "current_heading": "Inheritance Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Morasha Drasha",
+    "candidates": [
+      "Morasha Drasha",
+      "Kohen Gadol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two competing drashot on 'morasha' (robbery vs. betrothed) and why Torah study is not listed among the seven Noahide mitzvot, which is precisely what the 'Morasha Drasha' section's prose addresses.",
+      "chosen_heading": "Morasha Drasha",
+      "current_heading": "Morasha Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Kohen Gadol",
+    "candidates": [
+      "Kohen Gadol",
+      "Reconciliation",
+      "Universalist",
+      "Unique Framework",
+      "Blood Included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single challenge-and-resolution unit about a gentile studying Torah being like a High Priest, which is precisely what the 'Kohen Gadol' section's prose describes \u2014 the objection from Rabbi Meir's baraita and the Gemara's answer that it refers to the seven Noahide mitzvot.",
+      "chosen_heading": "Kohen Gadol",
+      "current_heading": "Kohen Gadol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Blood Included",
+    "candidates": [
+      "Reconciliation",
+      "Universalist",
+      "Unique Framework",
+      "Blood Included",
+      "Double Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Chanina ben Gamliel's statement that blood from a living animal is also prohibited, which is exactly what section 3 'Blood Included' discusses in its prose.",
+      "chosen_heading": "Blood Included",
+      "current_heading": "Blood Included",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Double Prohibition",
+    "candidates": [
+      "Double Prohibition",
+      "Blood Distinct",
+      "Lifeblood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi \u1e24anina ben Gamliel's double-prohibition reading and the Rabbis' response about sheratzim, which together form the content described in heading 0's prose about the double prohibition derivation and the Rabbis' alternative explanation.",
+      "chosen_heading": "Double Prohibition",
+      "current_heading": "Double Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Lifeblood",
+    "candidates": [
+      "Blood Distinct",
+      "Lifeblood",
+      "Why Repeat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the verse 'only be steadfast in not eating blood / for the blood is the life' \u2014 item 1 derives dam min hachai from it and item 2 gives the Rabbis' rebuttal (lifeblood of bloodletting), which is precisely what the 'Lifeblood' prose describes.",
+      "chosen_heading": "Lifeblood",
+      "current_heading": "Lifeblood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Why Repeat",
+    "candidates": [
+      "Why Repeat",
+      "Ever Application",
+      "Both Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's structural question about why the prohibition needed to be written for Bnei Noach and repeated at Sinai, which directly matches the 'Why Repeat' section's prose.",
+      "chosen_heading": "Why Repeat",
+      "current_heading": "Why Repeat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Both Groups",
+    "candidates": [
+      "Ever Application",
+      "Both Groups",
+      "Only Yisrael",
+      "Gid Hanasheh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yosei b'Rabbi \u1e24anina's principle as the Gemara's answer to a question, which matches heading 0's prose describing this as 'the answer' that invokes the principle \u2014 heading 1 ('Both Groups') instead treats the principle as already established and explains its content, suggesting the quotation itself belongs one step earlier under heading 0.",
+      "chosen_heading": "Ever Application",
+      "current_heading": "Both Groups",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Gid Hanasheh",
+    "candidates": [
+      "Only Yisrael",
+      "Gid Hanasheh",
+      "Logic Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the rule about Bnei Noach/Sinai and then identifies gid hanasheh as the sole example according to Rabbi Yehuda, which is precisely what the 'Gid Hanasheh' section's prose discusses.",
+      "chosen_heading": "Gid Hanasheh",
+      "current_heading": "Gid Hanasheh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "Logic Objection",
+    "candidates": [
+      "Logic Objection",
+      "Avodah Zara Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the original baraita statement AND the 'adaraba' objection, and the current heading 'Logic Objection' with its prose about the 'adaraba' objection is the best match for this combined content, which challenges the baraita's logic.",
+      "chosen_heading": "Logic Objection",
+      "current_heading": "Logic Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Avodah Zara Proof",
+    "candidates": [
+      "Avodah Zara Proof",
+      "No Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the avodah zara proof that a mitzva repeated at Sinai applies to both groups, which is precisely what the 'Avodah Zara Proof' section's prose describes.",
+      "chosen_heading": "Avodah Zara Proof",
+      "current_heading": "Avodah Zara Proof",
+      "moved": false
+    }
+  }
+]

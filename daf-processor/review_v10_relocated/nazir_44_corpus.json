@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Metzora Tahara",
+    "candidates": [
+      "Opening Remarks",
+      "Mishnah Framework",
+      "Day Seven Ritual",
+      "Torah Sources",
+      "Tarfon's Question",
+      "Akiva's Answer",
+      "Metzora Tahara",
+      "Tosafot Analysis",
+      "Comparative Analysis",
+      "Hillel's Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah text itself \u2014 the question 'tiglachat tumah keitzad,' the procedure, Rabbi Akiva's ruling, and the Tarfon-Akiva exchange \u2014 which is precisely what the 'Mishnah Framework' section introduces with the words 'The Mishnah opens with the question: tiglachat tumah keitzad.'",
+      "chosen_heading": "Mishnah Framework",
+      "current_heading": "Metzora Tahara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Hillel's Braita",
+    "candidates": [
+      "Tosafot Analysis",
+      "Comparative Analysis",
+      "Hillel's Braita",
+      "Braita Attribution",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's question about whether Rabbi Tarfon accepted Rabbi Akiva's claim and Hillel's braita answer, which is precisely what the 'Hillel's Braita' section's prose describes.",
+      "chosen_heading": "Hillel's Braita",
+      "current_heading": "Hillel's Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Braita Attribution",
+      "Rava's Position",
+      "Critical Evaluation",
+      "Tamei Korban",
+      "Tumah Categories",
+      "Tosafot on Tahora",
+      "Zav's Process",
+      "Entry Conditions",
+      "Tevul Yom Status",
+      "Machaneh Leviyah",
+      "Modern Issue",
+      "Baal Keri Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement resolving the apparent contradiction by distinguishing between immersion on day seven versus day eight, which is precisely what the 'Rava's Position' section describes.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Baal Keri Status",
+    "candidates": [
+      "Critical Evaluation",
+      "Tamei Korban",
+      "Tumah Categories",
+      "Tosafot on Tahora",
+      "Zav's Process",
+      "Entry Conditions",
+      "Tevul Yom Status",
+      "Machaneh Leviyah",
+      "Modern Issue",
+      "Baal Keri Status",
+      "Abaye's Question",
+      "Nazir Exemption",
+      "Dead Body Rule",
+      "Tevul Yom Types",
+      "Special Status",
+      "Pesach Meaning",
+      "Circular Logic",
+      "Entry Restrictions",
+      "Why Pesach?",
+      "Kapparah Link",
+      "Extension Logic",
+      "Geography",
+      "Tevul Entry",
+      "Restriction",
+      "Exception",
+      "Summary",
+      "Uncertainty",
+      "Modern Application",
+      "Three Animals",
+      "Torah Source",
+      "Korban Link",
+      "First Opinion",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous sugya \u2014 Abaye's report of the colleagues of Rav Natan bar Hoshaya, the inference about tevul yom shel zav, the challenge from the nazirite case, the baraita about the Levite camp, and Abaye's resolution \u2014 which is precisely the content described in candidate 9's prose about the colleagues of Rav Nassan bar Oshaya deriving from the zav's purification pesukim whether tevul yom shel zav ke-zav dami.",
+      "chosen_heading": "Baal Keri Status",
+      "current_heading": "Baal Keri Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Abaye's Question",
+      "Nazir Exemption",
+      "Dead Body Rule",
+      "Tevul Yom Types",
+      "Special Status",
+      "Pesach Meaning",
+      "Circular Logic",
+      "Entry Restrictions",
+      "Why Pesach?",
+      "Kapparah Link",
+      "Extension Logic",
+      "Geography",
+      "Tevul Entry",
+      "Restriction",
+      "Exception",
+      "Summary",
+      "Uncertainty",
+      "Modern Application",
+      "Three Animals",
+      "Torah Source",
+      "Korban Link",
+      "First Opinion",
+      "Rabbi Eliezer",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 18,
+      "confidence": "high",
+      "reason": "The Mishnah passage describes the shaving of purity ritual with three animals (chatat, olah, shlamim), which directly matches heading 18 'Three Animals' whose prose explicitly introduces tiglachat hataharah and the bringing of shalosh behemot.",
+      "chosen_heading": "Three Animals",
+      "current_heading": "Rabbi Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Rabban Gamliel",
+      "Historical Location",
+      "Braita Location",
+      "Literal vs Metaphor",
+      "Respect Argument",
+      "Distinction",
+      "Offering Parallel",
+      "Concern",
+      "Hair Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabban Shimon ben Gamliel's ruling about three animals brought without specification, which is exactly what the 'Rabban Gamliel' section's prose describes.",
+      "chosen_heading": "Rabban Gamliel",
+      "current_heading": "Rabban Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155
+    ],
+    "current_heading": "Hair Placement",
+    "candidates": [
+      "Historical Location",
+      "Braita Location",
+      "Literal vs Metaphor",
+      "Respect Argument",
+      "Distinction",
+      "Offering Parallel",
+      "Concern",
+      "Hair Placement",
+      "Tosafot Read",
+      "Lishkat Nezirim",
+      "Sotah Objection",
+      "Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage is the baraita (braita) that debates whether 'pesach ohel moed' in the nazirite shaving verse refers to the literal entrance of the Tent of Meeting or metaphorically to the peace-offering (shlamim), which is precisely what the 'Braita Location' section's prose describes.",
+      "chosen_heading": "Braita Location",
+      "current_heading": "Hair Placement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168,
+      169
+    ],
+    "current_heading": "Response",
+    "candidates": [
+      "Tosafot Read",
+      "Lishkat Nezirim",
+      "Sotah Objection",
+      "Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sotah Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rabbi Shimon Shezuri's position that a female nazirite does not shave in the Sanctuary, and item 2 presents the objection from the sotah case \u2014 both of which are precisely what the 'Sotah Objection' prose describes.",
+      "second_heading": "Response",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Shimon Shezuri's response distinguishing the nezirah (kochelet u'fokeset) from the sotah, which is exactly what the 'Response' prose describes.",
+      "current_heading": "Response",
+      "moved": true
+    }
+  }
+]

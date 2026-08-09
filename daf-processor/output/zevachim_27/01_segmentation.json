@@ -34,8 +34,8 @@
           "timestamp": "09:32"
         }
       ],
-      "sefaria_index": 28,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Invalid Kohen and Thoughts During Service: Distinction Between Catching and Throwing Blood",
@@ -125,8 +125,8 @@
           "timestamp": "17:50"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Rabbi Yochanan's Position: Wrong Place Achieves Nothing and Does Not Invalidate",
@@ -149,7 +149,7 @@
           "timestamp": "18:11"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -293,5 +293,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "18:11",
+  "amud_b_micro_title": "Rav Chisda Distinction",
+  "shiur_start_daf": 26,
+  "shiur_start_amud": "b"
 }

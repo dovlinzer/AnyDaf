@@ -1,0 +1,293 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Testing Broken Letters",
+    "candidates": [
+      "Mezuzah & Mukaf Gvil",
+      "Hole in Hei, Kotzo",
+      "Testing Broken Letters",
+      "Formal vs. Appearance",
+      "Shulchan Aruch Rules",
+      "Hole Conditions",
+      "Moshe's Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of Rami bar Tamrei bringing the broken vav in 'vayaharog' to Rabbi Zeira and the child-test, which is precisely what the 'Testing Broken Letters' section prose describes.",
+      "chosen_heading": "Testing Broken Letters",
+      "current_heading": "Testing Broken Letters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Moshe's Vision",
+    "candidates": [
+      "Formal vs. Appearance",
+      "Shulchan Aruch Rules",
+      "Hole Conditions",
+      "Moshe's Vision",
+      "Crowns & Creativity",
+      "Moshe in Class",
+      "Halacha L'Moshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source text for the 'Moshe's Vision' section, which explicitly quotes and discusses this same account of Moses finding God tying crowns on letters and God explaining it is for Akiva ben Yosef.",
+      "chosen_heading": "Moshe's Vision",
+      "current_heading": "Moshe's Vision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Halacha L'Moshe",
+    "candidates": [
+      "Crowns & Creativity",
+      "Moshe in Class",
+      "Halacha L'Moshe",
+      "Martyrdom & Justice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Moses sitting at the back of the eighth row, not understanding what was being said, and his strength waning \u2014 which is precisely what the 'Moshe in Class' prose discusses, before the 'Halacha L'Moshe' section picks up with the students' question and Rabbi Akiva's answer.",
+      "chosen_heading": "Moshe in Class",
+      "current_heading": "Halacha L'Moshe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Martyrdom & Justice",
+    "candidates": [
+      "Halacha L'Moshe",
+      "Martyrdom & Justice",
+      "Theodicy",
+      "Shatnez Get Letters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Moses returning to God, questioning why Torah is given through him and asking to see Rabbi Akiva's reward, then witnessing his martyrdom and crying 'this is Torah and this is its reward?' \u2014 exactly the content described in the 'Martyrdom & Justice' prose section.",
+      "chosen_heading": "Martyrdom & Justice",
+      "current_heading": "Martyrdom & Justice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Shatnez Get Letters",
+    "candidates": [
+      "Theodicy",
+      "Shatnez Get Letters",
+      "Chet Bump",
+      "Hei Leg & Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rava's teaching about the seven letters requiring three crowns (shatnez get) and Rav Ashi's observation about the chet bump and the heh's suspended leg, and the current heading's prose explicitly addresses Rava's shatnez get teaching while noting the aggadata context, making it the correct placement \u2014 the chet/heh content is part of the same continuous Gemara passage that begins with shatnez get.",
+      "chosen_heading": "Shatnez Get Letters",
+      "current_heading": "Shatnez Get Letters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Hei Leg & Teshuvah",
+    "candidates": [
+      "Chet Bump",
+      "Hei Leg & Teshuvah",
+      "Door Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain discussing the meaning of 'beYah' in Isaiah 26:4 \u2014 Rabbi Yehuda Nesia's question to Rabbi Ami, the clarification about 'beYah' vs 'Yah', Rabbi Yehuda bar Rabbi Elai's teaching about two worlds created with yod and heh, and the resolution from 'behibare'am' \u2014 which precisely matches the prose of heading 1 ('Hei Leg & Teshuvah'), where the essay author explicitly walks through this entire exchange.",
+      "chosen_heading": "Hei Leg & Teshuvah",
+      "current_heading": "Hei Leg & Teshuvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Door Metaphor",
+    "candidates": [
+      "Door Metaphor",
+      "Crown as Rope",
+      "Yud Future World"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the symbolism of the letter heh \u2014 the portico/exit metaphor, the suspended leg for teshuvah, the reason one cannot re-enter the same way, and Reish Lakish's teaching about divine assistance \u2014 all of which are explicitly covered in the 'Door Metaphor' prose, making the current placement correct.",
+      "chosen_heading": "Door Metaphor",
+      "current_heading": "Door Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Yud Future World",
+    "candidates": [
+      "Crown as Rope",
+      "Yud Future World",
+      "Two vs. Three Errors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the World-to-Come was created with the letter yud and why its head is bent, which is precisely what the 'Yud Future World' prose section elaborates on.",
+      "chosen_heading": "Yud Future World",
+      "current_heading": "Yud Future World",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Two vs. Three Errors",
+    "candidates": [
+      "Two vs. Three Errors",
+      "Baraita Contradiction",
+      "Perfect Column",
+      "Majority Correctness",
+      "Three Errors Allowed",
+      "Missing vs. Extra"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two vs. Three Errors",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's ruling that two errors per column may be corrected and three requires genizah, which matches heading 0's prose about Rav's two/three error threshold.",
+      "second_heading": "Baraita Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the baraita contradiction (three correctable, four requires genizah), the perfect column saving the scroll, and Rav Yitzchak's majority-correctness qualification \u2014 content that spans headings 1, 2, and 3, but the baraita contradiction is the opening element, matching heading 1's prose which introduces that very contradiction and notes it directly contradicts Rav's threshold.",
+      "current_heading": "Two vs. Three Errors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Missing vs. Extra",
+    "candidates": [
+      "Baraita Contradiction",
+      "Perfect Column",
+      "Majority Correctness",
+      "Three Errors Allowed",
+      "Missing vs. Extra",
+      "Leopard Pattern",
+      "Igra's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers Abaye's question about three errors in the saving column and Rav Yosef's answer, plus the missing-vs-extra distinction and the menumar reason \u2014 all of which correspond to the 'Three Errors Allowed' section's prose about Rav Yosef's ruling on the correctable column, which naturally flows into the missing/extra distinction introduced there.",
+      "chosen_heading": "Three Errors Allowed",
+      "current_heading": "Missing vs. Extra",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Igra's Case",
+    "candidates": [
+      "Leopard Pattern",
+      "Igra's Case",
+      "Mid-Column Ending",
+      "Sofrim Contradiction",
+      "Chumashim vs. Sefer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe Agra/Igra's case about extraneous letters in his scroll and Rabbi Abba's ruling that extra letters (as opposed to missing ones) are not a serious problem \u2014 which is precisely what candidate 1 ('Igra's Case') discusses in its prose.",
+      "chosen_heading": "Igra's Case",
+      "current_heading": "Igra's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Chumashim vs. Sefer",
+    "candidates": [
+      "Mid-Column Ending",
+      "Sofrim Contradiction",
+      "Chumashim vs. Sefer",
+      "Line vs. Column"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav's teaching that one may finish even in the middle of a column, then the baraita objection, then the resolution \u2014 this full arc is introduced and described in the 'Mid-Column Ending' prose, which sets up exactly this sequence of Rav's ruling, the contradiction, and the answer that Rav was referring to chumashim.",
+      "chosen_heading": "Mid-Column Ending",
+      "current_heading": "Chumashim vs. Sefer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Line vs. Column",
+    "candidates": [
+      "Chumashim vs. Sefer",
+      "Line vs. Column",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the resolution of the chumashim vs. Sefer Torah distinction and the refinement about 'middle of the column' vs. 'middle of the line,' which is precisely what candidate 0's prose describes as the gemara's refinement of what 'chumash' means in this context and the requirement reaching only the end of the entire Sefer Torah.",
+      "chosen_heading": "Chumashim vs. Sefer",
+      "current_heading": "Line vs. Column",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Huna's Workaround",
+    "candidates": [
+      "Wife's Debt & Ketubah",
+      "Abstract Debt Transfer",
+      "Shmuel: Waiver Post-Sale",
+      "Rav Huna's Workaround",
+      "Dinei d'Garmi Doctrine",
+      "Causation Continuum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's ruling directly (HaMocher Shtar Chov LeChaveiro VeChazar UMichalo, Machul, VeAfiliu Yoresh Mochal) and introduces Rav Huna's workaround in the same breath, matching precisely the prose of candidate 2 ('Shmuel: Waiver Post-Sale') which describes citing Shmuel's ruling and then proceeding to address the commercial problem it creates \u2014 the Rav Huna workaround is the beginning of that address, not a separate section.",
+      "chosen_heading": "Shmuel: Waiver Post-Sale",
+      "current_heading": "Rav Huna's Workaround",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Causation Continuum",
+    "candidates": [
+      "Dinei d'Garmi Doctrine",
+      "Causation Continuum",
+      "Rafram v. Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ameimar's statement introducing the garmi doctrine and its consequence for shtar value, which is precisely what candidate 0's prose introduces and explains, whereas candidate 1's prose treats garmi as background already established and moves on to Tosafot's question about recovery amount.",
+      "chosen_heading": "Dinei d'Garmi Doctrine",
+      "current_heading": "Causation Continuum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rafram v. Rav Ashi",
+    "candidates": [
+      "Causation Continuum",
+      "Rafram v. Rav Ashi",
+      "Payment Distribution Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Rafram/Rav Ashi incident directly, which is exactly what candidate 1's prose discusses in detail.",
+      "chosen_heading": "Rafram v. Rav Ashi",
+      "current_heading": "Rafram v. Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Payment Distribution Rule",
+    "candidates": [
+      "Payment Distribution Rule",
+      "Three Obligation Types",
+      "Single Asset Priority",
+      "Tosafot Policy Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source (Ameimar citing Rav \u1e24ama) that the 'Payment Distribution Rule' prose explicitly introduces and explains, making it the clear home for this text.",
+      "chosen_heading": "Payment Distribution Rule",
+      "current_heading": "Payment Distribution Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Tosafot Policy Logic",
+    "candidates": [
+      "Three Obligation Types",
+      "Single Asset Priority",
+      "Tosafot Policy Logic",
+      "Forced Land Sale Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the rule about a single plot of land being given to the creditor rather than the wife, which is precisely what heading 1 ('Single Asset Priority') describes, while the policy rationale (yoseir mi-mah...) is quoted as part of that ruling before being elaborated upon in heading 2's prose.",
+      "chosen_heading": "Single Asset Priority",
+      "current_heading": "Tosafot Policy Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Forced Land Sale Case",
+    "candidates": [
+      "Tosafot Policy Logic",
+      "Forced Land Sale Case",
+      "Hidden Cash Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav Pappa/Rav \u1e24ama exchange about whether a debtor with land must sell it and pay cash, which is exactly what the 'Forced Land Sale Case' prose describes.",
+      "chosen_heading": "Forced Land Sale Case",
+      "current_heading": "Forced Land Sale Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Hidden Cash Exception",
+    "candidates": [
+      "Hidden Cash Exception",
+      "Mitzvah Framework",
+      "Minor Heirs Exception",
+      "Refusal Challenge",
+      "Compulsion Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the debtor who hid his money with a gentile (tola maosei be-oved kochavim) and the court's punitive response, which is precisely what the 'Hidden Cash Exception' prose discusses.",
+      "chosen_heading": "Hidden Cash Exception",
+      "current_heading": "Hidden Cash Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Compulsion Authority",
+    "candidates": [
+      "Mitzvah Framework",
+      "Minor Heirs Exception",
+      "Refusal Challenge",
+      "Compulsion Authority",
+      "Get Placement Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's reply about compulsion via beating until death for refusal to perform positive mitzvot, which is precisely what the 'Compulsion Authority' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Compulsion Authority",
+      "current_heading": "Compulsion Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Get Placement Case",
+    "candidates": [
+      "Get Placement Case",
+      "Rav & Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the question posed by Rami bar \u1e24ama to Rav \u1e24isda about the get placed in tzidei reshut harabbim, which is precisely what the 'Get Placement Case' prose describes and introduces.",
+      "chosen_heading": "Get Placement Case",
+      "current_heading": "Get Placement Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav & Shmuel Position",
+    "candidates": [
+      "Rav & Shmuel Position",
+      "Rav Nachman Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav \u1e24isda citing Rav and Shmuel's ruling that she is not divorced and that sides of the public domain are like the public domain \u2014 exactly the content described in the 'Rav & Shmuel Position' prose.",
+      "chosen_heading": "Rav & Shmuel Position",
+      "current_heading": "Rav & Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Nachman Analogy",
+    "candidates": [
+      "Rav Nachman Analogy",
+      "Swamp-Sides Distinction",
+      "Multiple Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man's ruling about pulling a cow and its acquisition even in a meadow, along with the initial question of whether meadow and sides of public domain are analogous \u2014 all of which matches the 'Rav Nachman Analogy' prose that introduces this exact source and question, while the rejection of the analogy (heading 1) and the broader synthesis (heading 2) are separate subsequent discussions.",
+      "chosen_heading": "Rav Nachman Analogy",
+      "current_heading": "Rav Nachman Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Multiple Positions",
+    "candidates": [
+      "Swamp-Sides Distinction",
+      "Multiple Positions",
+      "Storekeeper Oath Rule",
+      "Rabbi Eliezer Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the alternative version ('some say') of the Rami bar \u1e24ama/Rav \u1e24isda dispute with reversed roles, which directly matches the 'Multiple Positions' prose describing how the Gemara presents two versions of the dispute in reverse order, and the current placement is correct.",
+      "chosen_heading": "Multiple Positions",
+      "current_heading": "Multiple Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rabbi Eliezer Expansion",
+    "candidates": [
+      "Storekeeper Oath Rule",
+      "Rabbi Eliezer Expansion",
+      "Snake Proverb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, presenting both the storekeeper/steward rule and Rabbi Eliezer's expansion as a single unit, but the prose under heading 0 ('Storekeeper Oath Rule') explicitly describes this Mishna's content (ha-moshiv es ishto chanvanis, apitropya, oath-compulsion), making it the primary home for the full Mishna text rather than heading 1 which discusses only Rabbi Eliezer's extension.",
+      "chosen_heading": "Storekeeper Oath Rule",
+      "current_heading": "Rabbi Eliezer Expansion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Snake Proverb",
+    "candidates": [
+      "Rabbi Eliezer Expansion",
+      "Snake Proverb",
+      "Gilgul Bundling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described in the 'Snake Proverb' prose: item 1 raises the dilemma (gilgul vs. le-chatchila) and item 2 brings the baraita with the snake proverb and works through the logical implications of each position \u2014 precisely what that section's prose describes.",
+      "chosen_heading": "Snake Proverb",
+      "current_heading": "Snake Proverb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Gilgul Bundling",
+    "candidates": [
+      "Gilgul Bundling",
+      "Wife Exemption",
+      "Heir Limitations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic discussion about whether Rabbi Eliezer permits a husband to administer an oath to his wife ab initio, culminating in the baraita proof and 'shema mina' conclusion \u2014 exactly what the 'Gilgul Bundling' prose describes.",
+      "chosen_heading": "Gilgul Bundling",
+      "current_heading": "Gilgul Bundling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Heir Limitations",
+    "candidates": [
+      "Wife Exemption",
+      "Heir Limitations",
+      "Explicit Language Rule",
+      "Complete Waiver",
+      "Post-Mortem Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete Mishnah presenting the full spectrum of waiver cases \u2014 from waiving rights over the wife alone, to waiving over her heirs too, to a complete bilateral waiver \u2014 and candidate 0 ('Wife Exemption') is the heading that introduces this very Mishnah and its waiver mechanism, while candidates 1\u20133 describe sub-points that the essay prose breaks out from it.",
+      "chosen_heading": "Wife Exemption",
+      "current_heading": "Heir Limitations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Post-Mortem Status",
+    "candidates": [
+      "Explicit Language Rule",
+      "Complete Waiver",
+      "Post-Mortem Status",
+      "New Stewardship"
+    ],
+    "result": null
+  }
+]

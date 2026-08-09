@@ -24,8 +24,8 @@
           "timestamp": "01:51"
         }
       ],
-      "sefaria_index": 30,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Principle of Avid Inish Dina Lenafshei: Taking the Law Into One's Own Hands",
@@ -48,7 +48,7 @@
           "timestamp": "04:26"
         }
       ],
-      "sefaria_index": 30,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -72,7 +72,7 @@
           "timestamp": "09:10"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 47,
       "matched": true
     },
     {
@@ -254,7 +254,7 @@
           "timestamp": "48:14"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 30,
       "matched": true
     },
     {
@@ -273,7 +273,7 @@
           "timestamp": "53:27"
         }
       ],
-      "sefaria_index": 34,
+      "sefaria_index": 32,
       "matched": true
     },
     {
@@ -287,8 +287,8 @@
           "timestamp": "54:14"
         }
       ],
-      "sefaria_index": 35,
-      "matched": true
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "The Baraita: Stone, Knife, and Bag Left in Public—Reconciling Bor and Vessel Liability",
@@ -311,7 +311,7 @@
           "timestamp": "59:02"
         }
       ],
-      "sefaria_index": 38,
+      "sefaria_index": 34,
       "matched": true
     }
   ],
@@ -786,5 +786,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 31
+  "amud_b_sefaria_index": 31,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "46:21",
+  "amud_b_micro_title": "Vessel vs. Person",
+  "shiur_start_daf": 27,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,462 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Tanu Rabbanan",
+    "candidates": [
+      "Tanu Rabbanan",
+      "Rav Rav Ava Dispute",
+      "Rabbah's Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita prescribing waving, overnight decay, and burning of loaves brought alone, and the Gemara's manafshach challenge \u2014 are precisely what heading 0's prose describes as the opening of this section.",
+      "chosen_heading": "Tanu Rabbanan",
+      "current_heading": "Tanu Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rabbah's Gezeirah",
+    "candidates": [
+      "Rav Rav Ava Dispute",
+      "Rabbah's Gezeirah",
+      "Rav Yosef Opinion",
+      "Abaye Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute Rabbah's gezeirah explanation and his proof from the Ben Bukhri mishna, which is precisely what candidate 1 ('Rabbah's Gezeirah') describes in its prose.",
+      "chosen_heading": "Rabbah's Gezeirah",
+      "current_heading": "Rabbah's Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Abaye Challenges",
+    "candidates": [
+      "Rav Yosef Opinion",
+      "Abaye Challenges",
+      "Rava's Proof",
+      "Bikurim Comparison"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Proof",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 present Rabba's initial question about the mishna's circumstances (brought with the offering vs. brought alone), which aligns with 'Rava's Proof' section discussing the fundamental question of whether shtei halechem brought alone are l'achila.",
+      "second_heading": "Abaye Challenges",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 contain exactly the Abaye-Rav Yosef exchange described in the 'Abaye Challenges' prose \u2014 Abaye's response about meal offering designation, Rav Yosef's burning/Yom Tov argument, Abaye's mi dami challenge, Rav Yosef's gezeirah reformulation, and the tu'avar tzurasan resolution \u2014 matching the current placement's prose almost word for word.",
+      "current_heading": "Abaye Challenges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Bikurim Comparison",
+    "candidates": [
+      "Rava's Proof",
+      "Bikurim Comparison",
+      "Rabbi vs. Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's complete position \u2014 his disagreement with Rabba's proof source and his own scriptural derivation from the bikurim verse \u2014 which is precisely what candidate 0 ('Rava's Proof') describes, while candidate 1 ('Bikurim Comparison') is where the passage currently sits but candidate 0's prose explicitly sets up both the gezeirah agreement and the stronger scriptural basis that items 1 and 2 together deliver.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Bikurim Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rabbi vs. Rabbi Elazar",
+    "candidates": [
+      "Bikurim Comparison",
+      "Rabbi vs. Rabbi Elazar",
+      "Rabbi's Proof",
+      "R. Elazar Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about kivsei atzeres sanctifying the shtei halechem through shechita, with the dispute between Rabbi and Rabbi Elazar b'Rabbi Shimon \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Rabbi vs. Rabbi Elazar",
+      "current_heading": "Rabbi vs. Rabbi Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "R. Elazar Opinion",
+    "candidates": [
+      "Rabbi's Proof",
+      "R. Elazar Opinion",
+      "Kadosh V'Eino"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous dialectical unit \u2014 asking for Rabbi's reasoning, providing it from the verse, then asking about Rabbi Elazar's counter-reading, then resolving the apparent contradiction for Rabbi, then resolving it for Rabbi Elazar \u2014 and this entire exchange is precisely what candidate 0 ('Rabbi's Proof') and candidate 1 together cover, but since candidate 0's prose explicitly describes the derivation from the Nazir verse (items 1-2) AND candidate 1's prose covers items 3-5, the passage is currently split across two headings; however, since all items are one continuous sugya about the same dispute, and candidate 0 is the opening heading that initiates this entire discussion, the passage as a whole belongs under candidate 0, which is the better single home for the full chain of reasoning.",
+      "chosen_heading": "Rabbi's Proof",
+      "current_heading": "R. Elazar Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Kadosh V'Eino",
+    "candidates": [
+      "R. Elazar Opinion",
+      "Kadosh V'Eino",
+      "Nafka Mina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about 'kadosh v'eino kadosh' and Abaye/Rava's answers, which is precisely what the 'Kadosh V'Eino' section prose discusses.",
+      "chosen_heading": "Kadosh V'Eino",
+      "current_heading": "Kadosh V'Eino",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Nafka Mina",
+    "candidates": [
+      "Nafka Mina",
+      "Abaye-Rava Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the nafka mina of pidyon, the question about Abaye's position re Rabbi vs. Rabbi Elazar, and the answer of yotzei \u2014 are precisely the content described in candidate 0's prose about the practical differences between Abaye and Rava and the further difference of l'ipsulei b'yotzei.",
+      "chosen_heading": "Nafka Mina",
+      "current_heading": "Nafka Mina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Abaye-Rava Debate",
+    "candidates": [
+      "Abaye-Rava Debate",
+      "Shechita Zerika Mix",
+      "R. Elazar Rule",
+      "Rabbi's Rule",
+      "Bread Yotzei",
+      "R. Eliezer Position",
+      "R. Akiva Position",
+      "Rav Sheshet Explain",
+      "Imurei Meila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the mixed case of shechita lishmo/zerika shelo lishmo and what happens to the loaves, which is precisely what the 'Shechita Zerika Mix' section's prose describes.",
+      "chosen_heading": "Shechita Zerika Mix",
+      "current_heading": "Abaye-Rava Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Imurei Meila",
+    "candidates": [
+      "Shechita Zerika Mix",
+      "R. Elazar Rule",
+      "Rabbi's Rule",
+      "Bread Yotzei",
+      "R. Eliezer Position",
+      "R. Akiva Position",
+      "Rav Sheshet Explain",
+      "Imurei Meila",
+      "Rav Papa Qestion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Bread Yotzei",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover the baraita of the father of Rabbi Yirmiyah bar Abba about shtei halechem that left between shechita and zerika, and the dispute between Rabbi Eliezer and Rabbi Akiva explained by Rav Sheshet \u2014 matching headings 3 through 7 (Bread Yotzei, R. Eliezer Position, R. Akiva Position, Rav Sheshet Explain, Imurei Meila), but items 1-5 specifically cover the baraita introduction and Rav Sheshet's explanation, best placed under 'Bread Yotzei'/'Rav Sheshet Explain' cluster, with item 1 starting at heading 3.",
+      "second_heading": "Imurei Meila",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 present the dilemma (mai?) about whether zerika shelo lishma permits the bread, with the lachumra/lekula reasoning, which matches exactly the 'Imurei Meila' prose discussion of midezrikas piggul and o dilma lachumra amrinan lekula lo amrinan.",
+      "current_heading": "Imurei Meila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Rav Papa Qestion",
+    "candidates": [
+      "Rav Papa Qestion",
+      "Gemara Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's objection and his alternative interpretation of the dispute, which is exactly what heading 0 ('Rav Papa Qestion') describes \u2014 the challenge about whether the debate concerns yotzei bread or bread that went out and came back in.",
+      "chosen_heading": "Rav Papa Qestion",
+      "current_heading": "Rav Papa Qestion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Gemara Rejects",
+    "candidates": [
+      "Gemara Rejects",
+      "Lost Bread Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items form a continuous Gemara discussion about whether Rabbi Akiva holds like Rabbi Elazar b'Rabbi Shimon, the challenge from Rav Giddel's principle about zerikas piggul not changing meila status, and the note that Rav Giddel's statement was itself refuted \u2014 exactly the content described in the 'Gemara Rejects' prose.",
+      "chosen_heading": "Gemara Rejects",
+      "current_heading": "Gemara Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Lost Bread Query",
+    "candidates": [
+      "Lost Bread Query",
+      "Kasher Argument",
+      "Pesach Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma described in 'Lost Bread Query' \u2014 the sheep of Shavuot slaughtered lishmo with the bread subsequently lost, and the question of whether zerika shelo lishmo can permit the meat \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Lost Bread Query",
+      "current_heading": "Lost Bread Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Pesach Example",
+    "candidates": [
+      "Kasher Argument",
+      "Pesach Example",
+      "Gemara Rejects",
+      "Toda Unique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form one continuous dialectical chain \u2014 the back-and-forth between Rabbi Zeira and Rabbi Yirmeya refining the 'kasher lishmo / shelo lishmo' question through the Pesach-before-chatzos example, the Pesach-after-its-time example, and finally the toda example \u2014 exactly matching the 'Pesach Example' prose description of the Gemara refining the question through these successive cases.",
+      "chosen_heading": "Pesach Example",
+      "current_heading": "Pesach Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Toda Unique",
+    "candidates": [
+      "Gemara Rejects",
+      "Toda Unique",
+      "Four Loaves Setup",
+      "Rabbi Unknown Two",
+      "Chulin Ba'Azarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that the toda is different because the Torah calls it a shelamim, which is precisely the content described in the 'Toda Unique' section's prose.",
+      "chosen_heading": "Toda Unique",
+      "current_heading": "Toda Unique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Chulin Ba'Azarah",
+    "candidates": [
+      "Four Loaves Setup",
+      "Rabbi Unknown Two",
+      "Chulin Ba'Azarah",
+      "Rav Chisda Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the continuous objection raised before Rav \u1e24isda \u2014 that the baraita cannot follow Rabbi because redeeming outside causes yotzei and redeeming inside causes chulin ba'azarah \u2014 which is precisely what candidate 2 ('Chulin Ba'Azarah') describes in its prose.",
+      "chosen_heading": "Chulin Ba'Azarah",
+      "current_heading": "Chulin Ba'Azarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Rav Chisda Fix",
+    "candidates": [
+      "Rav Chisda Fix",
+      "Ravina Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Chisda's solution of redeeming inside and explaining that the non-sacred status arose by itself, which is exactly what the 'Rav Chisda Fix' prose describes.",
+      "chosen_heading": "Rav Chisda Fix",
+      "current_heading": "Rav Chisda Fix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Ravina Challenge",
+    "candidates": [
+      "Ravina Challenge",
+      "Concede R.Elazar",
+      "R.Elazar Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's challenge citing the baraita that redemption must occur outside, which matches exactly the 'Ravina Challenge' section's prose about this contradiction to Rav Chisda's position.",
+      "chosen_heading": "Ravina Challenge",
+      "current_heading": "Ravina Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "R.Elazar Works",
+    "candidates": [
+      "Concede R.Elazar",
+      "R.Elazar Works",
+      "Toda Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement conceding that the baraita follows Rabbi Elazar b'Rabbi Shimon (not Rabbi), which matches exactly the prose of heading 0 ('Concede R.Elazar') rather than heading 1 which discusses why Rabbi Elazar's framework works elegantly.",
+      "chosen_heading": "Concede R.Elazar",
+      "current_heading": "R.Elazar Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Toda Challenge",
+    "candidates": [
+      "R.Elazar Works",
+      "Toda Challenge",
+      "Resolution Two Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav A\u1e25a's challenge to Rabbi Yo\u1e25anan regarding the toda slaughtered over eighty loaves, which is precisely what the 'Toda Challenge' prose describes.",
+      "chosen_heading": "Toda Challenge",
+      "current_heading": "Toda Challenge",
+      "moved": false
+    }
+  }
+]

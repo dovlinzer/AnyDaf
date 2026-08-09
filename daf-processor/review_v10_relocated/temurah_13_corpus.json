@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Eliezer Position",
+    "candidates": [
+      "Intro to Two Terumot",
+      "Terumah vs. Temurah",
+      "Rabbi Eliezer Position",
+      "Rabbi Akiva Position",
+      "Rashi Interpretation",
+      "Tosafot Interpretation",
+      "Chachamim Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Eliezer's position that both terumot are valid and identifies the mishna as Rabbi Akiva's, which matches the 'Rabbi Eliezer Position' section's prose about the shutfim case and Rabbi Eliezer's ruling that trumat shneihem trumah.",
+      "chosen_heading": "Rabbi Eliezer Position",
+      "current_heading": "Rabbi Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Chachamim Position",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Rashi Interpretation",
+      "Tosafot Interpretation",
+      "Chachamim Position",
+      "Temurah Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes both Rabbi Akiva and the Rabbis (chachamim) together, and the chachamim's position about proper measure (kashiur) is the primary content being introduced, matching exactly the prose under 'Chachamim Position' which discusses im taram harishon kashiur and the conditions for the second terumah's validity.",
+      "chosen_heading": "Chachamim Position",
+      "current_heading": "Chachamim Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Temurah Prohibition",
+    "candidates": [
+      "Temurah Prohibition",
+      "Vlad Cannot Temurah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why a substitute animal cannot itself generate a substitute, derived from 'utemur\u0430\u0442\u043e' \u2014 exactly what the prose under 'Temurah Prohibition' describes, not the offspring (vlad) case discussed under the next heading.",
+      "chosen_heading": "Temurah Prohibition",
+      "current_heading": "Temurah Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Vlad Cannot Temurah",
+    "candidates": [
+      "Vlad Cannot Temurah",
+      "Rabbi Yehuda Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rule that offspring does not render a substitute and cites the verse 'it but not its offspring,' which is exactly what the prose of candidate 0 discusses regarding vlad and temurah.",
+      "chosen_heading": "Vlad Cannot Temurah",
+      "current_heading": "Vlad Cannot Temurah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rabbi Yehuda Exception",
+    "candidates": [
+      "Rabbi Yehuda Exception",
+      "Temurah Binding Force",
+      "Birds Menachot",
+      "Tzibur Shutfim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's view that offspring renders a substitute via 'yihiyeh' and the Rabbis' counter-reading for shogeg ke-mezid, which is precisely what the 'Rabbi Yehuda Exception' prose describes.",
+      "chosen_heading": "Rabbi Yehuda Exception",
+      "current_heading": "Rabbi Yehuda Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Tzibur Shutfim",
+    "candidates": [
+      "Temurah Binding Force",
+      "Birds Menachot",
+      "Tzibur Shutfim",
+      "Bedek Habayit",
+      "Rabbi Shimon Maaser",
+      "Korban Definition",
+      "Shechutei Chutz"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Birds Menachot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a complete Mishna covering birds/menachot, tzibur/shutfim, and bedek habayit \u2014 its opening content about birds and menachot matches the 'Birds Menachot' prose exactly, and the heading 'Birds Menachot' explicitly describes this as 'the next and final mishna of this perek' with a systematic catalog of exclusions beginning with ha-ofot veha-menachot.",
+      "second_heading": "Rabbi Shimon Maaser",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Shimon's methodological derivation using ma'aser as a paradigm, which matches the 'Rabbi Shimon Maaser' prose precisely, describing how Rabbi Shimon reads the Torah's repetition of temurah by ma'aser to derive exclusions for communal sacrifices and bedek habayit.",
+      "current_heading": "Tzibur Shutfim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Shechutei Chutz",
+    "candidates": [
+      "Bedek Habayit",
+      "Rabbi Shimon Maaser",
+      "Korban Definition",
+      "Shechutei Chutz",
+      "Korban Hashem",
+      "Resolution",
+      "Rabbi Shimon Paradigm"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon Maaser",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Shimon's lomar lecha derivation from ma'aser, which is exactly what heading 1 'Rabbi Shimon Maaser' describes.",
+      "second_heading": "Korban Definition",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 form the Gemara's sustained discussion of whether bedek ha-bayit is called 'korban,' including the two braitot and Rabbi \u1e24anina's resolution, which matches heading 2 'Korban Definition' that describes exactly this opening Gemara discussion.",
+      "current_heading": "Shechutei Chutz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rabbi Shimon Paradigm",
+    "candidates": [
+      "Korban Hashem",
+      "Resolution",
+      "Rabbi Shimon Paradigm",
+      "Rebbi Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita spelling out Rabbi Shimon's paradigm \u2014 asking why the Torah repeats the temurah prohibition by ma'aser, explaining that since the general verse could have included communal and treasury offerings, ma'aser is singled out to define the four conditions (individual, altar, obligatory, non-partnership), which is exactly what the 'Rabbi Shimon Paradigm' prose describes.",
+      "chosen_heading": "Rabbi Shimon Paradigm",
+      "current_heading": "Rabbi Shimon Paradigm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rebbi Alternative",
+    "candidates": [
+      "Rebbi Alternative",
+      "Shemo vs. Gufo",
+      "Eligibility Diff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda HaNasi's statement explaining why ma'aser was singled out \u2014 to discuss tmurat shemo and tmurat gufo \u2014 which is precisely what the 'Rebbi Alternative' section's prose elaborates upon.",
+      "chosen_heading": "Rebbi Alternative",
+      "current_heading": "Rebbi Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Eligibility Diff",
+    "candidates": [
+      "Shemo vs. Gufo",
+      "Eligibility Diff",
+      "Ba'ah Definition",
+      "Leftover Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-4 all discuss the distinctions between tmurat shemo and tmurat gufo (sacrificeability, redemption, eligibility for blemished animals, and the Talmudic reasoning about why a verse was needed), which exactly matches the prose of candidate 1 ('Eligibility Diff') that walks through all these same halakhic differences in sequence.",
+      "chosen_heading": "Eligibility Diff",
+      "current_heading": "Eligibility Diff",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Leftover Money",
+    "candidates": [
+      "Ba'ah Definition",
+      "Leftover Money",
+      "Rabbi Eliezer",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the definition of 'ba be-chovah' \u2014 whether a voluntary burnt offering qualifies as obligatory \u2014 which is precisely what the 'Ba'ah Definition' section discusses, whereas the current placement under 'Leftover Money' is about a different excluded case.",
+      "chosen_heading": "Ba'ah Definition",
+      "current_heading": "Leftover Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Rabbi Shimon",
+      "Setup Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about the tension between Rabbi Shimon's ruling and Rabbi Eliezer's position on surplus funds and temurah, which is precisely what heading 0 ('Rabbi Eliezer') describes \u2014 the apparent tension, the braita citing Rabbi Eliezer, and the resolution that Rabbi Shimon agrees with him on one point but disagrees on another; heading 1 ('Rabbi Shimon') describes the resolved conclusion but the passage itself contains the full chain of question-objection-answer leading to that conclusion, making heading 0 the better fit for where this discussion begins.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Setup Scenario",
+    "candidates": [
+      "Rabbi Shimon",
+      "Setup Scenario",
+      "Double Temurah",
+      "Same Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the setup scenario of Rabbi Avin's dilemma \u2014 separating an asham, effecting substitution, achieving atonement with another guilt offering, and asking about a second temurah \u2014 which exactly matches the 'Setup Scenario' prose describing the revisited conceptual puzzle involving an asham whose temurah eventually transforms into an olah.",
+      "chosen_heading": "Setup Scenario",
+      "current_heading": "Setup Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Same Kedusha",
+    "candidates": [
+      "Double Temurah",
+      "Same Kedusha",
+      "Different Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'aliba d'man' complication \u2014 noting that Rabbi Shimon's own position excludes this olah from temurah, and reframing Rabbi Avin's question as requiring a hypothetical tanna who holds both Rabbi Shimon's and Rabbi Eliezer's positions \u2014 which matches exactly the prose of heading 0 ('Double Temurah'), not heading 1 ('Same Kedusha') which discusses the hypothetical's resolution regarding same kedushah/different body.",
+      "chosen_heading": "Double Temurah",
+      "current_heading": "Same Kedusha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Different Kedusha",
+    "candidates": [
+      "Same Kedusha",
+      "Different Kedusha",
+      "Unresolved Tivai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover the full arc from the 'two bodies, one sanctity' dilemma (item 1) through 'two sanctities, one body' (item 2) and the concluding hadran (item 3), and candidate 0's prose explicitly introduces 'be-shnei gufin bi-kedushah achas' as its topic, making it the correct home for all items including the extensions and closing formula that belong to the same continuous passage.",
+      "chosen_heading": "Same Kedusha",
+      "current_heading": "Different Kedusha",
+      "moved": true
+    }
+  }
+]

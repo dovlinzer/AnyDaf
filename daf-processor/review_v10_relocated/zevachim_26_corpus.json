@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      3
+    ],
+    "current_heading": "Tzorem Ozen Parah",
+    "candidates": [
+      "Tzorem Ozen Parah",
+      "Kodshim Kalim Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Zeira's ruling about slitting the ear of the bull before blood collection, which is precisely the topic introduced and explained in the 'Tzorem Ozen Parah' section's prose.",
+      "chosen_heading": "Tzorem Ozen Parah",
+      "current_heading": "Tzorem Ozen Parah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Kodshim Kalim Extension",
+    "candidates": [
+      "Kodshim Kalim Extension",
+      "Meat/Fat Remain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's question about kodshim kalim and Rava's answer from the korban pesach verse \u2014 are precisely the content described in the 'Kodshim Kalim Extension' prose, which explicitly walks through this exact question and Rava's derivation from 'yihiyeh'.",
+      "chosen_heading": "Kodshim Kalim Extension",
+      "current_heading": "Kodshim Kalim Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Meat/Fat Remain",
+    "candidates": [
+      "Meat/Fat Remain",
+      "Psul Limited to Kabbalah",
+      "Sha'ot Poslot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection from Rabbi Yehoshua's baraita about zerikah being valid when a kezayit of meat or fat remains, which is precisely what the prose under 'Meat/Fat Remain' describes.",
+      "chosen_heading": "Meat/Fat Remain",
+      "current_heading": "Meat/Fat Remain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Sha'ot Poslot",
+    "candidates": [
+      "Psul Limited to Kabbalah",
+      "Sha'ot Poslot",
+      "Raglah Bachutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about the *ben shanah* requirement through *zerikah* and the derived ruling of *sha'ot poslot bekodshim*, which is precisely what the prose under heading 1 ('Sha'ot Poslot') discusses.",
+      "chosen_heading": "Sha'ot Poslot",
+      "current_heading": "Sha'ot Poslot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Raglah Bachutz",
+    "candidates": [
+      "Raglah Bachutz",
+      "Cutting Limbs",
+      "Dam Hamuvla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form the continuous sugya about an animal with its leg outside the Azarah \u2014 the ruling of Rabbi Ami/Rabbi Elazar, the baal mum objection, Rabbi Zeira's challenge, Rav \u1e24isda/Avimi's resolution, and the dam hamuvla inference \u2014 which is precisely what the 'Raglah Bachutz' prose describes in full detail.",
+      "chosen_heading": "Raglah Bachutz",
+      "current_heading": "Raglah Bachutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Dam Hamuvla",
+    "candidates": [
+      "Cutting Limbs",
+      "Dam Hamuvla",
+      "Basar Outside Azarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'dilma mishum shamnunit' is explicitly discussed in the 'Dam Hamuvla' section's prose, which describes this exact Gemara response about fattiness invalidating the blood.",
+      "chosen_heading": "Dam Hamuvla",
+      "current_heading": "Dam Hamuvla",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Basar Outside Azarah",
+    "candidates": [
+      "Basar Outside Azarah",
+      "Shechitah Batzafon",
+      "Kibel Batzafon",
+      "Kodshim Kalim Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks whether meat of kodshim kalim that exits before zerikah hadam is disqualified, which is precisely the question the 'Basar Outside Azarah' prose section discusses and analyzes at length.",
+      "chosen_heading": "Basar Outside Azarah",
+      "current_heading": "Basar Outside Azarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Kodshim Kalim Location",
+    "candidates": [
+      "Shechitah Batzafon",
+      "Kibel Batzafon",
+      "Kodshim Kalim Location",
+      "Pirchasa V'Yatzah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shechitah Batzafon",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a closing rebuttal ('perhaps this applies only to kodshei kodashim') and item 2 introduces the baraita about kodshei kodashim shechitah batzafon, which is exactly the topic of heading 0's prose.",
+      "second_heading": "Kodshim Kalim Location",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers the kodshim kalim rules \u2014 shechitah bifnim, kabbalah requirements, the head-and-majority distinction, pirchasa v'yatzah ladarom pesulah \u2014 which is precisely what heading 2's prose discusses.",
+      "current_heading": "Kodshim Kalim Location",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Pirchasa V'Yatzah",
+    "candidates": [
+      "Pirchasa V'Yatzah",
+      "Kula Bifnim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the specific Gemara response about the tail, diaphragm, and kidneys being the portions that must remain in the Azarah \u2014 exactly the content discussed in the 'Pirchasa V'Yatzah' prose about why a shelamim is pasul when it exits, with the explanation limited to those specific fat portions.",
+      "chosen_heading": "Pirchasa V'Yatzah",
+      "current_heading": "Pirchasa V'Yatzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Kula Bifnim",
+    "candidates": [
+      "Kula Bifnim",
+      "Taluy V'Shachat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dilemma and answer about whether the entire animal must be inside the Azarah, which is exactly what the 'Kula Bifnim' section's prose describes.",
+      "chosen_heading": "Kula Bifnim",
+      "current_heading": "Kula Bifnim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Taluy V'Shachat",
+    "candidates": [
+      "Taluy V'Shachat",
+      "Shochet Position",
+      "Suspension Validity",
+      "Abaye's Stringency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Taluy V'Shachat",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the 'tala v'shachat' (suspended animal) and 'nitla v'shachat' (suspended shochet) cases, which are precisely what headings 0 and 1 discuss in their prose.",
+      "second_heading": "Suspension Validity",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover 'nitla v'kibel' and 'tala v'kibel' \u2014 the suspension cases for kabbalah \u2014 which are exactly what heading 2 ('Suspension Validity') describes in its prose.",
+      "current_heading": "Taluy V'Shachat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Abaye's Stringency",
+    "candidates": [
+      "Shochet Position",
+      "Suspension Validity",
+      "Abaye's Stringency",
+      "Rava's Lenient View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's summary statement distinguishing kodshei kodashim from kodshim kalim with their respective exceptions, which is precisely what the 'Abaye's Stringency' prose section describes.",
+      "chosen_heading": "Abaye's Stringency",
+      "current_heading": "Abaye's Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Rava's Lenient View",
+    "candidates": [
+      "Rava's Lenient View",
+      "Tzitzit Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's challenge and conclusion regarding suspended animals at kabbalah for kodshei kodashim vs. kodshim kalim, which is precisely what the 'Rava's Lenient View' prose describes in detail.",
+      "chosen_heading": "Rava's Lenient View",
+      "current_heading": "Rava's Lenient View",
+      "moved": false
+    }
+  }
+]

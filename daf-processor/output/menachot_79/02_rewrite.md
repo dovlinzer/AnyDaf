@@ -1,155 +1,341 @@
 # Menachot 79 — Daf Yomi Shiur
 
-## Shechita Sanctifies Bread
+## Shechitah & Bread
 
-### Toda & Bread Intro
+### Todah Overview
 
- The Torah presents a fascinating hybrid in the Toda: it has a korban element and a bread element — though it is worth noting that the bread is not quite a standard Mincha. The Toda is Kodshim Kalim rather than Kodshei Kodshim, it is not brought independently, and so its bread component occupies a somewhat ambiguous category. Nevertheless, the Gemara treats it in relationship to Mincha law, and what we are focused on is how the Toda relates to its bread. As we saw previously, the slaughtering of the korban — the shechita — is what confers Kedusha upon the bread. The discussion that follows examines the conditions and limitations of that principle.
+The *daf* opens on 79b with a discussion that brings us back into territory that sounds more like *Zevachim* — the actual slaughtering of the sacrifice. What makes this discussion distinctive, however, is the *Todah*, the thanksgiving offering, which presents a fascinating hybrid. It has a sacrifice element and, as it were, a bread element — something resembling a *mincha*, though it is *kodashim kalim* and not *kodshei kodashim*, and it is not burned on the altar on its own. Nevertheless, the *Gemara* treats it as having a *mincha*-like quality. Our focus, as established in the preceding discussion, is how the *Todah* relates to its accompanying bread — specifically, how the slaughter of the sacrifice confers sanctity upon the bread.
 
-### Chutz Lizmano/Limkomo
+### Chutz Liz/Limk
 
-The Mishna presents several cases. If the Toda was slaughtered with a thought of Chutz Lizmano or Chutz Limkomo — and here we should recall from Masechet Zevachim that these terms do not literally mean the wrong time or the wrong place, but rather a thought directed toward the wrong time or the wrong place — the result is Kadesh Venifsal. The bread does become Kadosh, but since the korban is Pasul, the bread is Pasul as well. This is the worst of all scenarios: the bread is sanctified and therefore linked to the korban, but since the korban is invalid, the bread cannot be used for anything else.
+The *mishna* states: *shachtah chutz lizmano ve-chutz limkomo* — if the *Todah* was slaughtered with a thought of the wrong time or the wrong place. A word of clarification: *chutz lizmano* and *chutz limkomo*, familiar from *Zevachim*, do not literally mean slaughtering at the wrong time or in the wrong place. Rather, they refer to improper mental intention — a thought directed toward the wrong time (*chutz lizmano*), which is the *pigul* thought, or toward the wrong place (*chutz limkomo*), which is analogous to it. In such cases the *mishna* rules: *kiddesh ha-lechem* — the bread does become sanctified. *Kadosh ve-nifsal* — which is actually the worst of outcomes. The sacrifice is invalid, which means the bread is invalid as well, and it cannot be used for anything else. So the bread is sanctified, but to no benefit.
 
-### Treifa vs. Mum
+This stands in contrast to the next case: *shachtah ve-nimtzeit treifah* — if the sacrifice was slaughtered and was discovered to have been a *treifah*, an animal with a life-threatening internal wound, *lo kiddesh ha-lechem* — the bread is not sanctified. What accounts for the difference?
 
-By contrast, if the korban was slaughtered and was subsequently found to be a Treifa — meaning it had an internal injury that renders it non-viable — the ruling is Lo Kadesh Halechem: the bread is not sanctified. The distinction is fairly clear at the outset. A Treifa is a problem that predated the shechita; the animal was already a Treifa before the knife came down, and therefore the act of shechita was meaningless from the beginning. Since the shechita was not a valid act of sanctification, it could not confer Kedusha upon the bread. And that outcome, counterintuitively, is the better one — because if the bread was not sanctified, it remains free to be used for another korban.
+### Treifah vs. Mum
 
-A further case illuminates the underlying principle from a different angle. If the shechita itself was technically defective as a physical act — for instance, if pressure was applied in a way that would render the animal a Treifa under normal Kashrut law, or if the cut was performed improperly — then Lo Kadesh Halechem as well, because there was no valid Ma'aseh Shechita at all.
+The distinction is actually quite transparent, and the *Gemara* will state it explicitly. If the defect preceded the slaughter — if the animal was already a *treifah* before the act of slaughter — then the slaughter was meaningless from the outset, and therefore it could not sanctify the bread. And this is better for the owner, because the bread remains free to be used with another sacrifice. If, however, the defect did not predate the slaughter — if the act of slaughter itself was technically sound and only then a disqualification was introduced, whether through a *pigul* thought or some other improper intention — then the slaughter was a meaningful act of slaughter. It does sanctify the bread. The sacrifice is then invalid, but the bread is sanctified and simultaneously ruined — the worst of both worlds.
 
-The more interesting case is that of a Ba'al Mum, where the act of shechita was technically Kasher — it would have been valid outside the Mikdash — but the korban had a blemish, which is a korban-level disqualification rather than a general Kashrut problem. The shechita as an act of shechita was fine; the problem was the animal's status as a korban. One way to frame the debate that follows is precisely this distinction: was there a valid Ma'aseh Shechita or not? A Treifa means the shechita accomplished nothing. A Mum means the shechita was technically valid but the korban was compromised.
+This raises an important nuance. If the slaughter was physically defective as an act of slaughter — for example, if pressure was applied to the knife in a manner that would render the animal a *treifah* under ordinary *kashrut* law — then even from a purely physical standpoint it was not a valid act of slaughter, and *lo kiddesh ha-lechem*. The interesting cases are those where the act of slaughter was technically sound but a defect existed either in the animal's status as a *korban* or in the slaughterer's intention. Those cases raise the more substantive question.
 
-### Rabbi Eliezer/Yehoshua
+## Mum Debate
 
-The Gemara now provides a Braisa that identifies the underlying rule — attributed to Rabbi Meir — and presents it as a general principle: Kol she-pisulo kodem shechita, Lo Kidesh Halechem. Any invalidity that predated the shechita means the bread is not sanctified, because by the time one reaches the shechita the animal was already Pasul and the shechita cannot be meaningful. Conversely, if the Psul did not predate the shechita — if the shechita was approached with the animal in a valid state — then Kidesh Halechem. The Braisa then runs through the cases in reverse order: shechita with a thought of Chutz Lizmano or Chutz Limkomo results in Kidesh Halechem, because the Psul was introduced at the moment of shechita but did not predate it; whereas shechita of a Treifa results in Lo Kidesh Halechem, because the Psul predated it.
+### Mum Case Stated
+
+The *mishna* introduces a further case: *shachtah ve-nimtzeit ba'alat mum* — you slaughtered and then discovered that the animal had a physical blemish. The blemish predated the slaughter but was unknown at the time.
+
+### Eliezer/Chacham
+
+*Rabbi Eliezer omer kiddesh* — Rabbi Eliezer says the bread is sanctified. *Ve-chachamim omrim lo kiddesh* — and the sages say it is not sanctified.
+
+### Predating Frame
+
+What is this debate about? One straightforward way to understand it — though not, as we shall see, the *Gemara*'s approach — is to focus on whether the act of slaughter was technically sound as an act of slaughter. A *treifah* is a *kashrut* problem; the slaughter itself does nothing, the meat is not rendered permissible. A *mum*, by contrast, is a sacrifice-specific problem. The blemish renders the animal unacceptable as a *korban*, but as a physical act of slaughter, it was kosher. If the question we are asking is whether there was a meaningful act of slaughter that could sanctify the bread, then a *mum* case might plausibly answer yes, whereas a *treifah* case clearly answers no.
+
+### Mum Status
+
+The *Gemara*, however, will frame the debate differently — around the question of predating. The position that a blemished animal does not sanctify the bread reasons as follows: since the blemish predated the slaughter, by the time the slaughter occurred the animal was already invalid as a sacrifice, and therefore the slaughter was meaningless, incapable of sanctifying the bread. The position that a blemished animal does sanctify the bread, by contrast, must hold that even where the defect predated the slaughter, there is still something about this particular defect that does not entirely nullify the meaning of the slaughter. We will return to explain how.
+
+## Shechitah & Bread…
 
 ### Shelo Lishma
 
-This brings us to the top of 79a and the case of Ba'al Mum. The Braisa records: Shachat ve-nimtza ba'alat mum — Rabbi Eliezer says Kidesh, Rabbi Yehoshua says Lo Kidesh. According to the framework of predating or not predating, it is initially difficult to understand Rabbi Eliezer's position, since a Mum surely predated the shechita. We will return to that difficulty. The Braisa identifies this as the position of Rabbi Meir — meaning Rabbi Meir understood the debate between Rabbi Eliezer and Rabbi Yehoshua to be specifically about the case of Ba'al Mum.
+The *mishna* continues with another case: *shelo lishmo* — if the sacrifice was slaughtered without the proper intention to be a *Todah*. In ordinary *halacha* the sacrifice is kasher, but *lo alu la-be'alim le-shem chova* — it does not discharge the owner's obligation. Nevertheless, the *mishna* teaches: *lo kiddesh ha-lechem* — the bread is not sanctified. And the same applies to the *eil ha-miluim*, the ram of the inaugural service, and to the *shnei kavsei atzeret*, the two lambs of the *Shavuot* additional offering. All three are cases where a sacrifice brings bread along with it, where the slaughtering of the animal is what links the bread to the sacrifice and sanctifies it. In all three, *sheshachtam shelo lishman, lo kiddesh ha-lechem*.
 
-### Ze Haklal Principle
+The reason was established in the previous session's discussion: the *pasuk* says *al zevach todat shelamav* — it must be slaughtered as a *Todah*, and only then does it sanctify the bread. The connection between the bread and the animal is grounded in the identity of the sacrifice as a *Todah* — or as the *shnei kavsei atzeret*, or as the *eil ha-miluim*. If the slaughter was performed without that *lishma*, the bread cannot be linked to the animal, and the sanctification cannot occur.
 
-Rabbi Yehuda, however, presents an entirely different account of what Rabbi Eliezer and Rabbi Yehoshua were debating. He says: Lo necheleku Rabbi Eliezer ve-Rabbi Yehoshua al she-shachat ve-nimtza Treifa — nobody disputed that case, everyone agrees Lo Kidesh Halechem, because it was not a good shechita. And regarding Chutz Lizmano — a Piggul thought — everyone also agrees Kidesh Halechem, because the Psul did not predate. And furthermore, even regarding Ba'al Mum, everyone agrees Lo Kidesh Halechem, because a Mum predated the shechita just as a Treifa does.
+One might ask whether slaughtering *lishmo* but not *leshem be'alim* — with the correct sacrifice identity but with the wrong owner in mind — would also fail to sanctify the bread. This is an excellent question, and upon reflection the better inclination is that it would not prevent sanctification, since the *pasuk* grounds the requirement in the sacrificial identity, not in the ownership. But the matter would require further investigation.
 
-What, then, was the actual debate? Al Chutz Limkomo. This is striking. Throughout the entirety of Masechet Zevachim, Chutz Lizmano and Chutz Limkomo functioned as virtual twins — one was Piggul with Karet, the other was not Karet, but in terms of how they invalidated a korban, they were treated identically. Here, for the first time, we encounter a serious suggestion that Chutz Limkomo might have a different scope than Chutz Lizmano in at least one context. According to Rabbi Yehuda's version, Rabbi Eliezer holds that Chutz Limkomo also results in Kidesh Halechem, just like Chutz Lizmano, while Rabbi Yehoshua holds that Chutz Limkomo is categorically different and Lo Kidesh Halechem.
+### Psul Predating
 
-### Treifa Examples
+The *Gemara* now asks: *masnisin mani?* — whose view does our *mishna* represent? The answer is: Rabbi Meir.
 
-Rabbi Yehuda preserves not only the two positions but a full account of the back-and-forth between Rabbi Eliezer and Rabbi Yehoshua. Rabbi Eliezer opens with a straightforward analogy: Hol ve-Chutz Lizmano Pasul, ve-Chutz Limkomo Pasul — both are invalidities born of improper thought. Ma Chutz Lizmano Kidesh, af Chutz Limkomo Kidesh. Since both are thought-based disqualifications, the bread should be sanctified in both cases. The weight of this argument seems clear.
+### Rabbi Meir Rule
 
-Rabbi Yehoshua counters by proposing a different comparandum: Hol ve-Chutz Limkomo Pasul, u-va'alat Mum Pasul — both are invalidities. Ma Ba'alat Mum Lo Kidesh, af Chutz Limkomo Lo Kidesh. This comparison is immediately problematic: one is a thought-based Psul that does not predate the shechita, while the other is a physical defect that does. They are not analogous in any obvious way.
+A *baraita* is cited which identifies the *mishna* as Rabbi Meir's position and articulates the underlying principle clearly:
 
-Rabbi Eliezer responds to this directly: I compared Chutz Limkomo to Chutz Lizmano; you compared it to Ba'al Mum. Let us determine which comparison is more apt. He then articulates the principle: Donin Psul Machshava mi-Psul Machshava, ve-ein Donin Psul Machshava mi-Psul ha-Guf. One derives a thought-based invalidity from another thought-based invalidity, not from a physical defect. This is a reasonable and compelling argument.
+*Zeh ha-klal: kol she-psulo kodem shechitah, lo kiddesh ha-lechem* — this is the rule: any invalidity that predated the slaughter means the bread is not sanctified, because by the time the slaughter occurred, the animal was already invalid, and the slaughter could not be a meaningful act. *Achar shechitah* — if the invalidity did not predate the slaughter (meaning, it did not exist prior to the slaughter), *kiddesh ha-lechem* — then the slaughter does sanctify the bread, because at the moment of slaughter everything was in order.
 
-Rabbi Yehoshua then offers an improved argument. He accepts the framework of comparing thought to thought, but invokes a different example: Donin Psul she-ein bo Karet mi-Psul she-ein bo Karet. Chutz Limkomo has no Karet; therefore derive it from Ba'al Mum, which also never carries Karet — and not from Chutz Lizmano, which does. This argument is weaker on its face, since the severity of the punishment does not necessarily speak to the substantive character of the Psul. But Rabbi Yehoshua then adds a stronger point: V'od Nidunenu mi-Shelo Lishma. Let us derive Chutz Limkomo from the case of Shelo Lishma. That too is a Psul Machshava — a thought-based invalidity — and it also has no Karet, and in that case everyone agrees Lo Kidesh Halechem. So why learn Chutz Limkomo from Chutz Lizmano? There is an equally valid thought-based model where the bread is not sanctified.
+The *baraita* then gives examples in reverse order from the *mishna*: *shachtah chutz lizmano ve-chutz limkomo, kiddesh ha-lechem* — slaughtering with a wrong-time or wrong-place thought sanctifies the bread, because the defect did not predate the slaughter; it was introduced at the moment of slaughter, but the act of slaughter itself was meaningful. *Shachtah ve-nimtzeit treifah, lo kiddesh ha-lechem* — if it was slaughtered while being a *treifah*, the bread is not sanctified, because the defect predated the slaughter. A further clarification is in order: even in the case of a thought-based defect, if the physical act of slaughter was itself invalid — for example, if pressure was applied to the knife — then it was not an act of slaughter at all, and *lo kiddesh ha-lechem*.
 
-At this point, the arguments seem fairly evenly matched. If anything, our intuition would remain with Rabbi Eliezer: Chutz Lizmano and Chutz Limkomo are paired throughout the Torah and throughout Shas. And yet: Ve-shatak Rabbi Eliezer — Rabbi Eliezer fell silent. The Gemara interprets this silence not as a draw but as concession: Rabbi Eliezer ultimately admitted that Rabbi Yehoshua was correct, and that Chutz Limkomo does not sanctify the bread.
+Then the *baraita* returns to the disputed case: *shachtah ve-nimtza ba'al mum* — the animal was slaughtered and found to have a blemish. *Rabbi Eliezer omer kiddesh, Rabbi Yehoshua omer lo kiddesh* — Rabbi Eliezer says the bread is sanctified, Rabbi Yehoshua says it is not. *Divrei Rabbi Meir* — this, according to the *baraita*, is how Rabbi Meir understood the debate: Rabbi Eliezer and Rabbi Yehoshua were debating the blemished animal case.
 
-This outcome requires explanation, since from a purely logical standpoint the argument seemed to favor Rabbi Eliezer. The Gemara's presentation remains perplexing without further elaboration, and Tosafot grapples with it at length.
+## Yehuda's Version
 
-### Chutz Limkomo Debate
+### Yehuda Corrects
 
-Tosafot raises the deeper question: even granting that there are two competing models, why should Chutz Lizmano — which is a greater Psul, carrying Karet — retain the power to sanctify the bread, while Chutz Limkomo — in our ordinary understanding a weaker version of Piggul — would not? The apparent irony is that the more severe disqualification results in Kidesh Halechem, while the less severe does not.
+Rabbi Yehuda, however, corrects Rabbi Meir. He says: *lo nechelku Rabbi Eliezer ve-Rabbi Yehoshua al shachtah ve-nimtzeit treifah* — Rabbi Eliezer and Rabbi Yehoshua did not dispute the *treifah* case. Everyone agrees: *lo kiddesh*, the bread is not sanctified, because it was not a valid slaughter. *Ve-al chutz lizmano she-kiddesh* — and everyone also agrees that a wrong-time thought sanctifies the bread. These two points Rabbi Meir has right. But contrary to Rabbi Meir's account, the blemished animal is also not in dispute: *ve-al ba'al mum she-lo kiddesh* — everyone agrees that a blemished animal does not sanctify the bread, because the blemish predated the slaughter, just as with a *treifah*.
 
-The answer Tosafot proposes — and which the shiur identifies as the most compelling explanation — turns on the concept of Meratzeh L'Piggulo. The Torah states Lo Yeiratzeh with respect to Piggul, which implies that for something to be Piggul it must be Meratzeh in all other respects — it must be otherwise fit for acceptance. The halachic mechanism of Piggul involves a kind of bracketing: we set aside the Piggul thought and ask whether, but for that thought, the korban would have been Meratzeh. If yes, then the Piggul takes effect. What this means is that when evaluating a korban affected by Chutz Lizmano, we are able, within the framework of Piggul, to suspend the disqualifying element and view the shechita as having been a valid one — Meratzeh L'Piggulo. That retrospective validity is what allows the shechita to sanctify the bread.
+### Chutz Limk Focus
 
-Chutz Limkomo, however, does not operate within the Piggul framework. There is no mechanism for looking at a Chutz Limkomo shechita and saying, "bracket the Psul — was it otherwise Meratzeh?" That lens simply does not apply. And therefore, without that capacity to retroactively view the shechita as valid, there is no basis to say Kidesh Halechem. The same logic applies to Shelo Lishma and to Ba'al Mum: in none of those cases do we invoke the concept of Meratzeh, and therefore the Psul prevents the shechita from sanctifying the bread.
+*Ve-al mah nechelku? Al chutz limkomo* — what did they actually debate? The case of *chutz limkomo*, a thought directed toward eating the sacrifice in the wrong place. This is quite remarkable. Throughout all of *Zevachim* and most of *Menachot*, *chutz lizmano* and *chutz limkomo* functioned as near-twins. They operated in the same cases, invalidated in the same ways. The significant difference between them was karet: *chutz lizmano* carries the penalty of *karet* and is the mechanism of *pigul*; *chutz limkomo* does not carry *karet*. But in terms of their scope and operation, they were always treated identically. It has taken us until this point in *Shas* to encounter a discussion in which *chutz limkomo* might have a different scope than *chutz lizmano*.
 
-Tosafot adds a further observation: the reason we have not encountered this distinction anywhere in Zevachim or in other Gemaras is that this is a subtle difference that only manifests when the shechita is called upon to affect something external to itself — namely, the bread. With respect to the korban itself, the shechita is equally Kadosh regardless of which Psul is present. It is only when asking whether the shechita has the power to extend Kedusha to the bread — a derivative Kedusha — that this slight distinction between Chutz Lizmano and Chutz Limkomo becomes operative.
+*She-Rabbi Eliezer omer kiddesh, Rabbi Yehoshua omer lo kiddesh* — Rabbi Eliezer says that a *chutz limkomo* thought sanctifies the bread just as a *pigul* thought does, and Rabbi Yehoshua says that *chutz limkomo* is different from *pigul* and the bread is not sanctified.
 
-The Gemara then presents an additional discussion. Ismar: a Chatat that was slaughtered with a thought of Chutz Lizmano — if it was placed on the Mizbe'ach, it is not taken down, since im alu lo yeired applies to Piggul. But if it was slaughtered with a thought of Chutz Limkomo — Rava says Tered, take it down; Rabbah says Lo Tered. The Gemara notes that explicit Beraitot elsewhere in Shas state that im alu lo tered applies equally to Chutz Lizmano and Chutz Limkomo, which makes this debate startling. Tosafot is deeply troubled by it and considers various resolutions, including emending the text from Chatat to Todah, in order to confine this entire discussion to the limited context of Kidesh Halechem.
+What is especially striking is that Rabbi Yehuda presents not merely the two opinions but an entire narrative account of their debate — a back-and-forth with multiple rounds of argument. This raises interesting questions about how different traditions of a debate develop and transmit. Rabbi Meir remembers the debate as being about a blemished animal; Rabbi Yehuda remembers it as being about *chutz limkomo* and preserves an elaborate dialectical exchange. Here is that exchange:
 
-The Gemara connects Rava's position to Rabbi Yehoshua and Rabbah's to Rabbi Eliezer. It then notes that V'hadar beih Rabbah le-gabei de-Rava — Rabbah ultimately reversed his position and agreed with Rava, just as Rabbi Eliezer had fallen silent before Rabbi Yehoshua. The Gemara then presents a counter-tradition: even if Rabbi Eliezer ultimately conceded to Rabbi Yehoshua on Kidesh Halechem, Rabbah did not necessarily follow suit on the question of the Mizbe'ach. The reason Rabbi Eliezer conceded was that there existed a competing model — Shelo Lishma — which provided an equally valid basis for saying Lo Kidesh. But regarding im alu lo tered, there is no competing model, because all psulei machshava — including Shelo Lishma — are subject to im alu lo tered. There is therefore no reason to treat Chutz Limkomo differently from Chutz Lizmano on that question. The difference, if it exists at all, applies only to Kidesh Halechem, precisely because in that domain there are competing models pointing in different directions.
+### Eliezer: Like Pigul
 
-The Gemara concludes this remarkable discussion by noting that in any case, according to Rabbi Meir's version, the world returns to its normal equilibrium: Chutz Lizmano and Chutz Limkomo are identical, both result in Kidesh Halechem, and the only debate concerns Ba'al Mum. The Gemara returns to explain Rabbi Eliezer's position on Ba'al Mum in light of the framework of psulo kodem shechita.
+*Amar Rabbi Eliezer* — Rabbi Eliezer opens with his argument for why *chutz lizmano* and *chutz limkomo* should be treated identically:
 
-According to the Gemara, Rabbi Eliezer's ruling that Ba'al Mum results in Kidesh Halechem is limited to Dukin she-ba'ayin — a cataract of the eye, a barely noticeable blemish — and is specifically in accordance with Rabbi Akiva, who holds that for such a minor, unnoticeable Mum, im alu lo yeired: if the animal were placed on the Mizbe'ach, it would not be taken down. Rabbi Eliezer's reasoning, then, is that although this Mum predated the shechita, it is not so devastating a Psul that it renders the shechita entirely meaningless. Since this animal could theoretically remain on the Mizbe'ach, it retains sufficient sanctity that the shechita is still powerful enough to be Mekadesh Halechem. By contrast, a major Mum that would require the animal to be removed from the Mizbe'ach would prevent the shechita from sanctifying the bread, because there the Psul is too central.
+*Ho'il ve-chutz lizmano pasul ve-chutz limkomo pasul* — both *chutz lizmano* and *chutz limkomo* are thought-based invalidity. *Mah chutz lizmano kiddesh af chutz limkomo kiddesh* — just as *chutz lizmano* sanctifies the bread, so too should *chutz limkomo*.
 
-Rabbi Yehoshua responds that this distinction may apply to the animal itself, but not to the bread. When it comes to the derivative Kedusha of the bread, even a minor Psul that predates the shechita is sufficient to interrupt the capacity to sanctify. Only a thought-based Psul that operates within the Piggul framework — where meratzeh l'piggulo applies — can coexist with Kidesh Halechem.
+### Yehoshua: Like Mum
 
-One might object that if the debate turns on the nuance of Dukin she-ba'ayin, the Mishna ought to have stated that explicitly. The shiur acknowledges this difficulty and notes that the simpler reading of the debate may be the one offered earlier: Rabbi Eliezer holds that a korban-level Psul — a Mum, a wrong thought — does not prevent a technically valid shechita from being Mekadesh, while Rabbi Yehoshua holds that any Psul predating the shechita prevents it. But that is not how the Gemara frames it; the Gemara's own resolution is the one based on Dukin she-ba'ayin and im alu lo yeired.
+*Amar Rabbi Yehoshua* — Rabbi Yehoshua responds by proposing a different comparison:
 
-### Eliezer: Same as Pigul
+*Ho'il ve-chutz limkomo pasul u-va'al mum pasul* — both *chutz limkomo* and a blemish are invalidity. *Mah ba'al mum lo kiddesh af chutz limkomo lo kiddesh* — just as a blemished animal does not sanctify the bread, neither should *chutz limkomo*.
 
-The Mishna adds: Shelo Lishma — if the Toda was slaughtered without the proper intention of being a Toda — then Lo Kidesh Halechem, the bread is not sanctified. This is not because the korban is Pasul; in fact, Shelo Lishma ordinarily leaves the korban Kasher, only it is lo alu l'ba'alim l'shem chova. The reason the bread is not sanctified in this case was derived in a previous discussion from the pasuk al zevach todah shlamav — the korban must be slaughtered as a Toda for its bread to become Kadosh.
+### Thought vs. Physical
 
-The conceptual reason is that what links the bread to the animal in the first place — what makes the shechita of the korban relevant to the bread — is the animal's identity as a Toda. If one is not slaughtering it as a Toda, there is no basis for the connection between the korban and the bread, and so the bread cannot be sanctified. One might ask whether Shelo l'shem ba'alim — slaughtering with intent for the wrong owner — would similarly prevent Kidesh Halechem. The pasuk reads al zevach todah shlamav, with the emphasis on its identity as a Toda, and so the intent to slaughter it for the wrong person, while it may affect who is yotzei chova, arguably does not sever the animal's identity as a Toda. The question is an interesting one that warrants further research.
+This comparison is immediately recognizable as weak. What does a blemish — a physical defect predating the slaughter — have to do with *chutz limkomo*, a thought-based defect arising at the moment of slaughter? One is physical; the other is mental. One predates the slaughter; the other does not. The natural move is to compare thought to thought, as Rabbi Eliezer has done. At this stage, the weight of the argument seems clearly to favor Rabbi Eliezer.
 
-The Mishna includes parallel cases: the Eil Miluim and the Shnei Kavsei Atzeret — both instances of Shelamim accompanied by bread — and states that if they too were slaughtered Shelo Lishma, Lo Kidesh Halechem.
+### Eliezer's Reply
 
-## Psulo Kodem Shechita
+*Amar lo Rabbi Eliezer* — Rabbi Eliezer presses this point:
 
-### Yehoshua: Learn Shelo
+*Ani dmitihu le-chutz lizmano ve-atah dmitihu le-va'al mum* — I compared it to *chutz lizmano* and you compared it to a blemish. *Nir'eh le-mi domeh* — let us determine which it more resembles. *Im domeh le-chutz lizmano nidonnenu mi-chutz lizmano, im domeh le-va'al mum nidonnenu mi-va'al mum* — if it is more similar to *chutz lizmano* we derive it from *chutz lizmano*, and if it is more similar to a blemish we derive it from a blemish. Let the argument turn on which model is the better analogy.
 
-Rav Papa notes a curiosity: why does the Mishna mention the Eil Miluim, which is a purely historical case — it occurred only at the time of the inauguration of the Mishkan — rather than the Eil Nazir, which is the practically relevant example of a Shlamim accompanied by bread? The Eil Nazir is more common and, to the extent any of this is practically relevant, more useful to discuss. The Gemara answers: Ikar milsa nokat — the Tanna preferred to refer back to the first instance. The first time the Torah linked bread to a Shlamim was at the Miluim, and so the Tanna anchored his discussion there, even at the cost of citing a case of only historical interest.
+*Hitchil Rabbi Eliezer lidon* — Rabbi Eliezer proceeds to argue his case:
 
-## Eliezer/Yehoshua Debate
+*Danim psul machshavah mi-psul machshavah* — you derive a case of thought-based invalidity from another case of thought-based invalidity. *Ve-ein danim psul machshavah mi-psul ha-guf* — and you do not derive a thought-based invalidity from a physical invalidity. This is reasonable. *Chutz limkomo* is a thought problem; it should be derived from another thought problem, namely *chutz lizmano*, not from the physical defect of a blemish.
 
-### Silence Indicates Conces…
+### Yehoshua Improves
 
-The Mishna now turns from the bread to the Nesachim — the wine libations — and their relationship to the korban. Any Olah or Shlamim requires an accompanying Mincha of flour and oil and a certain amount of wine; as the Musaf liturgy reflects: Minchasam ve-Niskeihem ke-mishpat, shlosha esronim la-par, shnei esronim la-ayil. Unlike the bread of the Toda, which must be brought on the same day as the korban and is tightly bound to it, the Nesachim have an important independence: Niskeihem afilu mi-kan ve-ad asara yamim — the Nesachim may be brought up to ten days after the korban itself. This fundamental difference in the structure of the relationship between the korban and the Nesachim is what makes the following discussion so significant.
+*Hitchil Rabbi Yehoshua lidon* — Rabbi Yehoshua now offers his counter-argument:
 
-### Meratzeh L'Piggulo
+*Danim psul she-ein bo karet mi-psul she-ein bo karet* — you derive an invalidity that carries no *karet* from an invalidity that carries no *karet*. A blemish never carries *karet*; *chutz limkomo* also carries no *karet*. *Ve-ein danim* — and we should not derive it from *chutz lizmano*, which carries *karet*.
 
-The Mishna states: Ha-Nesachim she-Kiddshu bi-kli — Nesachim that were already sanctified through placement in a Kli Sharet — ve-nimtza Zevach Pasul — and the korban was found to be Pasul — im yesh Zevach acher, Yakrivu imo: if there is another korban available, bring the Nesachim with that one. Ve-im lav, Yipslu be-Lina: if there is no other korban, the Nesachim will become Pasul through Lina — by remaining overnight.
+Now, this point about *karet* might seem trivial — the severity of the punishment is not obviously relevant to the character of the invalidity. Rabbi Eliezer could have dismissed it on those grounds. But Rabbi Yehoshua then presses a better argument:
 
-The simple reading of this Mishna is straightforward: the shechita of the Zevach has nothing to do with the Kedusha of the Nesachim. They were sanctified through the Kli Sharet independently. The Mishna is drawing a direct contrast with the bread of the Toda: whereas the bread's Kedusha derives from the shechita, the Nesachim's Kedusha derives from the Kli alone. If the korban is Pasul, the Nesachim are unaffected — go find another korban and use them there. If no other korban is available and the Nesachim have already been sanctified in the Kli, then they will eventually become Pasul through Lina. The whole Gemara that follows, as we will see, ultimately struggles mightily against this simple reading — and the simple reading will prevail.
+*Ve-od, nidonnenu mi-shelo lishmo* — furthermore, let us derive *chutz limkomo* from the case of *shelo lishmo* instead. Why should we learn it from *shelo lishmo*? *She-psul machshavah ve-ein bo karet* — because *shelo lishmo* is also a thought-based invalidity that carries no *karet*. And what is the rule by *shelo lishmo*? The *mishna* established that *lo kiddesh ha-lechem* — the bread is not sanctified. So here is a model: a thought-based defect, no *karet*, and the bread is not sanctified. Let us derive *chutz limkomo* from that model rather than from *chutz lizmano*.
 
-### Mum vs. Treifa Gap
+This is, at minimum, a reasonable argument. Both *shelo lishmo* and *chutz limkomo* are thought-based defects without *karet* — and *shelo lishmo* does not sanctify the bread. At the same time, the argument still seems quite evenly matched. *Chutz lizmano* and *chutz limkomo* appear throughout the Torah in the same *parasha*, operate in nearly identical ways, and share their character as wrong-intention thoughts at the moment of slaughter. Our intuition would still incline toward Rabbi Eliezer's position.
 
-Ze'iri, however, makes a bold and surprising claim: Ein ha-Nesachim mitkadshim ela bi-shchitat ha-Zevach. The Nesachim are also only sanctified through the slaughtering of the korban, just as the bread of the Toda is. His source is the pasuk Zevach u-Nesachim, davar yom be-yomo — the korban and its Nesachim are linked by the Torah. This places Ze'iri in direct tension with the plain reading of the Mishna.
+### Eliezer Silent
 
-### Rabbi Akiva Minor Mumim
+And yet: *ve-shatak Rabbi Eliezer* — Rabbi Eliezer was silent. He had no response. The *Gemara* interprets this silence not merely as a draw but as a concession — Rabbi Eliezer effectively admitted that Rabbi Yehoshua's argument was correct.
 
-The Gemara now asks: if Ze'iri is correct that the shechita sanctifies the Nesachim, how can our Mishna say that if the Zevach was Pasul the Nesachim may be used for another korban? If the shechita sanctified the Nesachim and the shechita was Pasul, surely the Nesachim would be bound up with that invalid korban. The Gemara resolves this by reinterpreting the phrase ve-nimtza Zevach Pasul: it does not mean the Psul occurred at the shechita; rather, lo d'ipsal bi-Zrika — the Psul occurred only at the Zrika. The shechita was valid and therefore did sanctify the Nesachim; the problem arose later, at the stage of Zrika.
+### Yehuda Concludes
 
-This resolution is already forced, since the Mishna's language of nimtza Zevach Pasul most naturally suggests the shechita itself was Pasul. More fundamentally, even if we accept this reinterpretation, a deeper problem remains: if the shechita links the Nesachim to the korban, how can the Nesachim be reassigned to an entirely different korban?
+The conclusion of Rabbi Yehuda's version of the debate, then, is that *chutz limkomo* is different from *chutz lizmano* and does not sanctify the bread.
 
-### Eliezer Minor Mum Logic
+It bears noting, however, that all of this is Rabbi Yehuda's account. According to Rabbi Meir's version, *chutz lizmano* and *chutz limkomo* are the same — both sanctify the bread — and the actual debate was about the blemished animal. With Rabbi Meir's version, the world returns to its normal orientation, with *pigul* and *chutz limkomo* operating identically.
 
-The Gemara addresses this by invoking the earlier discussion — recalled from approximately two months earlier in the course of learning — about the Shtei Halechem and the Kivsei Atzeret. There, Rabbi Elazar b'Rabbi Shimon held that two independent stages of the avodah — shechita and Zrika — each operate as Matir, and that without both working correctly, the bread is not sanctified. Rabbi, by contrast, held that the shechita alone, as one stage, was sufficient to sanctify the bread even if the Zrika was subsequently performed incorrectly.
+## Tosafot Reconcile
 
-The Gemara asks: is Ze'iri's position compatible only with Rabbi, who holds that one stage of the two-stage process is sufficient? The Gemara answers no — even Rabbi Elazar b'Rabbi Shimon would agree here, in the specific case at hand. What is that case? Kegon she-kibel daman be-kos ve-nishpach — the blood was received properly in a vessel but then spilled before Zrika could be performed. In this circumstance, Rabbi Shimon's principle of Kol ha-omed lizrok ke-zaruak dami applies: anything that was ready to be thrown is considered as if it had been thrown. Since all that remained was the Zrika and the blood was fit for it, the situation is treated as if the Zrika had already occurred — at least for the purpose of establishing Kedusha — even though the act of Zrika was never performed.
+### Severity Paradox
 
-The critical distinction is between spilling the blood — where the Zrika was never done but never invalidated — and performing the Zrika Shelo Lishma — where one actively ruined that stage. If the second stage is never invalidated but simply left undone, ke-zaruak dami gives us credit for having reached the point where it could have been done, and the Kedusha is established. If, however, the second stage was actively performed incorrectly, it cannot be retroactively treated as valid.
+What is the logic behind Rabbi Yehoshua's conclusion? Even granting that his argument was unanswerable, there is something deeply counterintuitive about the result. *Pigul* — *chutz lizmano* — is the more severe invalidity: it carries *karet*, it is a *d'oraita* prohibition of the most serious kind. And yet *pigul* sanctifies the bread. *Chutz limkomo*, by comparison, is a lesser invalidity — no *karet*, arguably a rabbinic extension. And yet *chutz limkomo* does not sanctify the bread? How can the more severe defect have more power to sanctify the bread than the less severe one? The argument seems to favor Rabbi Eliezer intuitively, and yet Rabbi Eliezer went silent.
 
-### Yehoshua: All Mumim Block
+### Mirtzeh Concept
 
-Even granting all of the above, a major difficulty remains: if the shechita of Korban A sanctified the Nesachim and linked them to it, how can those Nesachim be brought with an entirely different Korban B — one whose shechita had no relationship to these Nesachim whatsoever? The Gemara notes the analogy to Rav Chisda's ruling: Shemen she-hifrishu le-shmo Mincha zo Pasul le-shmo Mincha acheres — oil designated for one Mincha cannot be used for another Mincha. If mere designation creates that restriction, all the more so when the shechita itself was the act of sanctification.
+*Tosafot* addresses this paradox, and in doing so also addresses why we should accept the seemingly counterintuitive outcome. The key is a concept associated with *pigul*: *mirtzeh le-pigulo*. The *halacha* of *pigul* requires that the sacrifice be *lo yeiratzeh* — that it not be accepted — but it also requires that absent the *pigul* it would have been *mirtzeh*, fit for acceptance. This is the principle of *mirtzeh le-pigulo*: when evaluating whether something constitutes *pigul*, we bracket the *pigul* itself and ask whether the sacrifice would otherwise have been valid and acceptable. In other words, within the very mechanism of *pigul*, there is an ability to suspend the disqualification and evaluate the underlying status of the sacrifice as if the *pigul* were not there.
 
-### Chatas Chutz Limkomo
+### Applied to Bread
 
-Rav Yannai answers: Lev Beis Din Masneh Aleihem. Beis Din stipulates at the outset that if the Nesachim turn out to be needed for another korban, they shall be considered as never having been designated exclusively for the original one. This stipulation preserves the freedom to use them wherever needed. One might immediately ask: is this principle applicable to a private korban, or only to communal offerings — where Beis Din has clear authority? Indeed, this question is precisely what someone in the shiur raises, and it is noted that the principle of Lev Beis Din Masneh is very often invoked specifically in the context of communal korbanos. The question of whether it extends to private korbanos remains to be examined.
+This, *Tosafot* says, is why *pigul* can sanctify the bread but *chutz limkomo* cannot. When we ask whether the slaughter was powerful enough to sanctify the bread, the question with respect to *pigul* is answered by applying *mirtzeh le-pigulo*: we bracket the *pigul*, we look at the underlying slaughter, and we say — absent the *pigul*, this was a fully valid, acceptable sacrifice. Since we are able to evaluate the slaughter through that lens, it has the power to sanctify the bread. With *chutz limkomo*, *shelo lishmo*, and all other invalidity that does not carry *karet*, there is no such bracketing mechanism. We cannot look at the slaughter and say "absent this defect it would have been acceptable" in any operative halachic sense. We simply see a defective slaughter, and a defective slaughter cannot sanctify the bread.
 
-### Rava: Remove It
+### Degree Remove
 
-The Gemara then raises another objection. If we can make such stipulations, why not do the same for the Shemen that Rav Chisda says cannot be reassigned? The Gemara answers: Shemen gufa de-Mincha hu — the oil is not merely assigned to the Mincha, it is a direct constituent of it. One cannot restipulate that an ingredient will become an ingredient of a different offering.
+*Tosafot* adds a further principle that explains why this distinction plays out specifically with respect to bread sanctification and not with respect to the sacrifice itself. The bread's sanctity is a secondary, derivative sanctity — it is one degree removed from the animal. The animal's sanctity is primary. When it comes to something this secondary, even small differences in the character of the slaughter can make a decisive difference. A defect that leaves the primary sanctity of the animal effectively intact (since we evaluate it through the lens of *mirtzeh le-pigulo*) can still reach out and sanctify the bread. A defect for which we have no such evaluative mechanism, even if it is technically less severe, cannot bridge that secondary gap.
 
-A further challenge: if Beis Din can stipulate that the item was never formally consecrated to the original korban, why not simply say that it reverts to Chulin entirely? The Gemara answers: Gezeira shema yomru motzin mi-Kli Sharet le-Chulin. People will observe that an item that was in a Kli Sharet has now become ordinary property, and they will draw the erroneous conclusion that sanctified items can revert to Chulin — which they cannot. Similarly, there is a concern that people will observe Nesachim being transferred from one korban to another and mistakenly conclude that this is ordinarily permissible, not understanding that a special stipulation was in place.
+### Zevachim Silent
 
-### Rabbah Reverses
+This also explains, *Tosafot* notes, why this entire discussion never appeared in *Zevachim*. The distinction between *pigul* and *chutz limkomo* in terms of their ability to sanctify the bread is a very narrow one. It has no impact on the status of the sacrifice itself — as far as the animal is concerned, the slaughter has the same halachic quality in both cases. The difference only manifests when we ask about secondary effects, about the sacrifice's ability to extend sanctity to something else. *Zevachim* is not focused on that secondary dimension, which is why we never encountered this distinction there.
 
-The Gemara introduces the baraita of Matya ben Yehuda, which specifies: Kegon she-haya Zevach zavuach be-osa sha'a — the case where another korban had already been slaughtered at that very moment. The reason this addresses the Gezeira shema concern is that there is no opportunity for observers to be confused: the Nesachim are immediately assigned to a korban that was already slaughtered and waiting. There is no visible transfer, no prolonged period of ambiguity.
+## Mizbeach Removal
 
-### Gemara Contra
+### Pigul Stays Up
 
-The Gemara then asks: what if there is no such already-slaughtered korban available? Aval ein Zevach zavuach be-osa sha'a — what then? The Mishna itself says: Yipslu be-Lina. And the Gemara notes that the Mishna should therefore have stated explicitly: Be-mah devarim amurim — in what circumstances may the Nesachim be used for another korban? Only when another korban was already slaughtered at that moment. But if there was no such korban, then Na'ase ke-mi she-Yipslu be-Lina — it is as if the Nesachim have already become Pasul through Lina. The Gemara confirms: hacha nami ka-ma — that is indeed the intended meaning of the Mishna.
+The *Gemara* now introduces a further dimension of the *chutz lizmano* / *chutz limkomo* comparison. We know that certain invalidity, even when present in a sacrifice that is placed on the altar, do not require the sacrifice to be removed. *Im alah lo teireid* — if it went up, it does not come down. This principle applies to *chutz lizmano*: a sin-offering (*chatas*) slaughtered with a *chutz lizmano* thought — a *pigul* thought — if placed on the altar, does not come down.
 
-All of this amounts to an extraordinarily forced reading. The Mishna's plain language does not suggest any of these qualifications. And a fundamental conceptual tension remains: if the shechita of Korban A is what created the Kedusha of the Nesachim, then Beis Din's stipulation effectively decouples that Kedusha from Korban A and transfers it to Korban B — whose shechita never had any relationship to these Nesachim at all. This is a very strange result if one insists that shechita is the operative mechanism.
+### Limk Debate
 
-### Timing Difference
+What about *chutz limkomo*? Here we find a disagreement between two *Amoraim*:
 
-The Gemara now asks whether Rabbi Shimon — whose principle of ke-zaruak dami was invoked to support Ze'iri's position — actually accepts the concept of Lev Beis Din Masneh. The Gemara cites a tradition: Ve-amar Rav Idi bar Avin amar Rav Amram amar Rabbi Yitzchak amar Rabbi Yochanan: Temidim shelo hutzrechu la-tzibur — communal Temidim purchased with public funds that turn out to be surplus (for instance, because the animal that was lost was subsequently found) — Rabbi Shimon holds Ein nifdin Temimim, they cannot be redeemed because they have no Mum. The Chachamim, however, hold Nifdin Temimim — they may be redeemed, invoking the principle of Lev Beis Din Masneh Aleihem. Rabbi Shimon explicitly does not accept this principle.
+*Rava amar teireid* — Rava says it comes down. *Rabbah amar lo teireid* — Rabbah says it does not come down.
 
-Since the entire analysis supporting Ze'iri was built on Rabbi Shimon's framework — both ke-zaruak dami and the two independent stages — and Rabbi Shimon does not accept Lev Beis Din Masneh, the structure begins to collapse. How can we invoke Lev Beis Din Masneh within a discussion premised on Rabbi Shimon's rulings?
+This is a striking *Gemara*. *Tosafot* is troubled by it, because explicit *baraitot* elsewhere in *Shas* state that both *chutz lizmano* and *chutz limkomo* share the rule of *im alah lo teireid*. What are Rava and Rabbah doing debating something that appears settled? *Tosafot* attempts various readings — perhaps they are discussing not the sacrifice but the bread, though that does not work for a *chatas*; perhaps the text should read *Todah* instead of *chatas*. The *Gemara* here does not fit comfortably with what we learned in *Zevachim*, and *Tosafot* works hard to compartmentalize it.
 
-### Rav Chisda Objection
+### Amoraim Map
 
-The Gemara answers: Shani hasam de-is lehu takanta bi-re'iya — the case of the extra Tamid is different because there is a practical solution available. The surplus animal can be allowed to develop a Mum naturally, at which point it can be redeemed. There is no need to invoke Lev Beis Din Masneh because the problem has another resolution. Tosafot in Menachot adds that the animal could also be brought as an Olah, functioning as Kayitz ha-Mizbe'ach. When a solution exists, we do not need to say Lev Beis Din. In the case of the Nesachim, if we cannot transfer them, there is no solution — they will simply become Pasul through Lina. It is precisely because there is no alternative that Lev Beis Din Masneh is invoked.
+Nevertheless, this is the debate as it stands. *Rava ke-Rabbi Yehoshua* — Rava holds like Rabbi Yehoshua, that *chutz limkomo* is a more serious problem than *chutz lizmano* and therefore the sacrifice must come down from the altar. *Ve-Rabbah ke-Rabbi Eliezer* — Rabbah holds like Rabbi Eliezer, that *chutz limkomo* is equivalent to *pigul* and therefore the sacrifice may remain on the altar.
 
-### Beis Din Stipulation
+### Rabbah Reversal
 
-The accumulated weight of all these difficulties — the forced reading of the Mishna's language, the conceptual strangeness of decoupling the Nesachim from the shechita that supposedly sanctified them, the tension with Rabbi Shimon's rejection of Lev Beis Din, the requirement to limit the permissible transfer to a case where another korban was already slaughtered at that exact moment — all of this argues powerfully for the simple reading of the Mishna. The simple reading distinguishes the Nesachim from the bread of the Toda precisely because the Nesachim may be brought on a different day and are not closely bound to the korban. Their Kedusha derives from the Kli Sharet, not from the shechita. The Mishna is making exactly this contrast. It is Ze'iri's contrary position, insisting that shechita sanctifies the Nesachim just as it sanctifies the bread, that creates all of the difficulties that the Gemara then labors so strenuously to resolve.
+*Ve-hadar bei Rabbah le-gabei de-Rava* — Rabbah ultimately reversed himself and agreed with Rava. How do we know? *Mi-dehadar bei Rabbi Eliezer le-gabei de-Rabbi Yehoshua* — because Rabbi Eliezer was silent before Rabbi Yehoshua and presumably conceded his position. If Rabbi Eliezer's position is no longer viable, then Rabbah, who adopted that position, should similarly reverse himself and agree with Rava.
 
-And indeed, the Gemara notes that Ze'iri's position may itself be limited to the circumstance where the korban and the Nesachim were brought together on the same occasion. Where they were brought on different days, Ze'iri would concede that the shechita could not have sanctified the Nesachim. But again, that very concession further undermines Ze'iri's position — if the shechita's capacity to sanctify the Nesachim depends on their being brought together, that suggests the operative principle is not really the shechita at all.
+### Alternative View
 
-The conclusion stands: the simple sense of the Mishna, and the more defensible halachic position, is that Nesachim are sanctified by the Kli, not by the shechita of the Zevach. And with that, we complete the daf.
+However, the *Gemara* then presents an alternative reading: *ve-ika de-amrei* — some say that even though *Rabbi Eliezer reverted to Rabbi Yehoshua's position* on the question of bread sanctification — conceding that *chutz limkomo* does not sanctify the bread — *Rabbah did not revert to Rava* on the question of whether the sacrifice comes off the altar.
+
+Why the distinction? *Hatam hu de-amar lei: mi-dununinhu mi-shelo lishmo* — there, in the bread sanctification debate, Rabbi Eliezer accepted Rabbi Yehoshua's argument only because there was a competing model: *shelo lishmo* provides an alternative derivation, a case of thought-based invalidity without *karet* in which the bread is not sanctified. That competing model was enough to tip the balance. *Aval hacha* — but here, in the question of whether the sacrifice comes off the altar, even if we were to compare *chutz limkomo* to *shelo lishmo*, the conclusion would be the same: *im alah lo teireid* — a *shelo lishmo* slaughter, if placed on the altar, does not come down. All thought-based invalidities share the rule that *im alah lo teireid*. So there is no competing model that would push toward *teireid*. There is therefore no reason for Rabbah to reverse himself on this question.
+
+### Mizbeach Rules
+
+The *Gemara* arrives at a nuanced conclusion: within Rabbi Yehuda's framework, one might be willing to admit that *chutz limkomo* differs from *chutz lizmano* specifically on the question of bread sanctification. That distinction does not necessarily carry over into other areas, because in other areas all thought-based invalidity are treated identically — and in particular, all thought-based invalidity share the rule that *im alah lo teireid*. The distinction, if it exists at all, is narrowly confined to the secondary effect of bread sanctification.
+
+This resolution deeply troubled *Tosafot*, because throughout the rest of *Shas* we never distinguish between *chutz lizmano* and *chutz limkomo* in any way. One could say this is because the *halacha* follows Rabbi Meir over Rabbi Yehuda, and this entire discussion is Rabbi Yehuda's version of the debate. *Tosafot* also has other strategies for reading the *Gemara* in a way that confines this discussion entirely to bread — even switching the text from *chatas* to *Todah* — because *Tosafot* wants very much to bracket this entire discussion and treat it as relevant only to the question of bread sanctification by the *Todah*, not as a general statement about the relationship between *chutz lizmano* and *chutz limkomo*. The standard *halacha* remains: both *chutz lizmano* and *chutz limkomo* share the rule of *im alah lo teireid*.
+
+## Eil Miluim
+
+### Papa's Question
+
+Having concluded the discussion of which forms of slaughter sanctify the bread, the *Gemara* raises a textual question. *Amar Rav Papa*: why did our *tanna*, in enumerating the cases of *shelo lishmo* where the bread is not sanctified, mention the *eil ha-miluim* — the ram of the inaugural service — rather than the *eil nazir*, the ram of the *nazir*'s completion offering? The *nazir*'s offering is also a *shelamim* that comes accompanied by bread, and it is an ongoing, practically relevant case. The *eil ha-miluim* is merely of historical interest, having been offered once at the consecration of the *mishkan*. Why go to the historical case and ignore the more common contemporary one?
+
+*Shavkah tanna didan eil nazir de-shachich* — our *tanna* abandoned the case of the *nazir*'s ram, which is common, *ve-nakat eil ha-miluim* — and chose to mention the *eil ha-miluim* instead.
+
+### Ikar Milsa
+
+The *Gemara* explains: *ikar milsa nakat* — the *tanna* wanted to go back to the very first occurrence. The first time the *Torah* links a *shelamim* sacrifice with accompanying bread is the *eil ha-miluim*, the inaugural ram. The *tanna* preferred to reference that foundational precedent, even though it was only of historical interest, over the more frequently occurring case of the *nazir*.
+
+## Nesachim Setup
+
+### Bread/Wine Link
+
+We now move beyond bread to another accompaniment of the sacrifice — the *nesachim*, the wine libations. With many *korbanot* — olah and *shelamim*, whether voluntary or obligatory — there is an obligation to bring not only a *mincha* (a flour offering with oil) but also a wine libation. As we say in the *Musaf* prayer: *minchatam ve-niskeihem ke-mishpatam: sheloshah esronim le-far u-shenei esronim le-ayil* — each sacrifice has its prescribed quantity of flour and wine. That accompaniment, like the bread of the *Todah*, is linked to the sacrifice.
+
+However, the nature of the link is fundamentally different. The general principle is: *niskeihem afilu mi-kan ve-ad asarah yamim* — the *nesachim* can be brought even up to ten days after the sacrifice. Unlike the bread of the *Todah*, which must accompany the sacrifice on the same day, the *nesachim* can be brought separately on a later day. This suggests that the link between the slaughter and the *nesachim* may be quite different from the link between the slaughter and the bread.
+
+### Simple Read
+
+The *mishna* reads: *ha-nesachim she-kiddshu bi-chli* — wine libations that were sanctified by being placed in a consecrated vessel — *ve-nimtza zevach pasul* — and then the sacrifice was found to be invalid.
+
+The simple reading of this *mishna* is that the slaughtering of the sacrifice has nothing to do with the sanctification of the *nesachim*. The *nesachim* were sanctified through *kedushat kli* — the sanctification of the consecrated vessel — independently of the slaughter. That is why the *mishna* speaks of them having already been sanctified in the vessel, and now the question is only what to do with them given that the sacrifice is invalid.
+
+### Mishna Case
+
+*Im yesh zevach acher yakravu imo* — if there is another available sacrifice, the *nesachim* may be brought with it. The wine is not stuck; it is a free agent. *Ve-im lav, yifselu be-linah* — and if there is no other sacrifice, then the *nesachim* must simply be left until nightfall, at which point they become invalid through *pasul be-linah* — overnight disqualification — since they were already sanctified in the vessel and cannot be used.
+
+The contrast with the bread is clear. The simple sense of this *mishna* is precisely to distinguish the two cases: bread sanctification is tied to the slaughter; *nesachim* sanctification is tied to the consecrated vessel, independently of the slaughter.
+
+## Ze'iri Position
+
+### Ze'iri Claim
+
+The *Gemara*, however, takes the entire discussion in a different direction. *Amar Ze'iri* — Ze'iri makes a sweeping claim that appears directly contrary to the simple reading of the *mishna*:
+
+*Ein ha-nesachim mit'kadshin ella bi-shechitat ha-zevach* — the *nesachim* are sanctified only through the slaughter of the sacrifice. Ze'iri insists that the model for *nesachim* is the same as for bread: it is the act of slaughter that creates the sanctity.
+
+### Pasuk Support
+
+*Mai ta'ama? Amar kra: zevach u-nesachim, davar yom be-yomo* — the *pasuk* links the sacrifice and its *nesachim* together, and the phrase *davar yom be-yomo* — each day's matter on its day — ties them together temporally. Ze'iri reads this as indicating that the *nesachim* are sanctified specifically through and at the moment of the slaughter of the sacrifice.
+
+### Transfer Problem
+
+But this creates an immediate problem with the *mishna*. The *mishna* says that if the sacrifice is found invalid, one may bring the *nesachim* with another sacrifice — *im yesh zevach acher yakravu imo*. If Ze'iri is right that the slaughter of the sacrifice sanctifies the *nesachim* and links them to it, then a defective slaughter should have created either no sanctification or a defective one. How can the *nesachim* then simply be transferred to a completely different sacrifice?
+
+*Mai lav de-ifsil bi-shechitah?* — does this not mean that the sacrifice was found invalid at the moment of slaughter? If so, under Ze'iri's reading, the slaughter was defective and should have failed to sanctify the *nesachim* — or else sanctified them in a way that is tied to this invalid sacrifice and cannot be transferred.
+
+### Zrika Solution
+
+Ze'iri resolves this by reading the *mishna* differently. *D'ifsil bi-zrika* — when the *mishna* says the sacrifice was found invalid, it means the invalidity occurred not at the slaughter but at the *zrika*, the sprinkling of the blood on the altar. At the moment of slaughter, everything was valid, and the *nesachim* were duly sanctified. Only at the later stage of *zrika* did a problem arise. Since the *nesachim* were already sanctified at the slaughter, the subsequent *zrika* problem does not retroactively undo their sanctity, and they can be used with another sacrifice.
+
+This reading is, admittedly, quite forced. The language of *nimtza zevach pasul* — the sacrifice was found invalid — does not naturally suggest that the invalidity occurred at the *zrika* stage rather than at the slaughter. But Ze'iri requires this reading to make his position work with the *mishna*.
+
+## Rebbi's Two Items
+
+### Two Stages
+
+The *Gemara* now identifies whose view underlies Ze'iri's position:
+
+*Ke-man? Ke-Rebbi de-amar: shenei devarim ha-matirim ma'alin zeh belo zeh* — this is according to Rebbi, who says that when there are two enabling acts (*matirim*) — slaughter and *zrika* — each can operate independently of the other.
+
+The context for Rebbi's principle is a *baraita* about the two lambs of *Shavuot* and the *Shtei Ha-lechem*. The question was: *shachtah lishma ve-zarah damah shelo lishma* — what if the lambs were slaughtered with proper intention but the blood was sprinkled without proper intention? *Rabbi Elazar bar Rabbi Shimon* held that the bread is sanctified only through the combined effect of both slaughter and *zrika* — without both, the bread is not sanctified at all. Rebbi disagreed: the slaughter alone is sufficient to sanctify the bread, even if the subsequent *zrika* is defective.
+
+### Rebbi Allow
+
+Ze'iri's position — that the slaughter of the sacrifice sanctifies the *nesachim* even when the *zrika* later fails — is precisely parallel to Rebbi's position about bread: the first enabling act is sufficient by itself, independently of whether the second enabling act succeeds.
+
+### Blood Spill
+
+The *Gemara* then adds: *afilu tima Rabbi Elazar bar Rabbi Shimon* — even Rabbi Elazar bar Rabbi Shimon, who disputes Rebbi and says that both stages are required, can accept Ze'iri's position in the specific case at hand. What case are we dealing with? *Ke-gon she-kibbel damam be-kos ve-nishpach* — a case in which the blood was properly received in a cup after the slaughter and then spilled, so that *zrika* never took place.
+
+### Spill vs. Invalid
+
+The key move here invokes the principle attributed to Rabbi Shimon: *kol ha-omed li-zerok ke-zaruk dami* — anything that is prepared and fit to be sprinkled is regarded as if it were already sprinkled. Once the blood was properly received and ready for *zrika*, it is treated as if *zrika* had already occurred. The mere spilling does not retroactively invalidate that status. The kedusha can therefore be regarded as having taken effect.
+
+This is critically different from the case in the original *baraita* — *shachtah lishma ve-zarah damah shelo lishma* — where the *zrika* was actually performed but improperly. There, the stage of *zrika* was actively invalidated. One cannot then say *ke-zaruk dami* about a *zrika* that was in fact performed incorrectly. But if the blood was never sprinkled at all — merely spilled — then the principle applies: since it was fit for *zrika* at the moment, it counts as though it were done. Even Rabbi Elazar bar Rabbi Shimon can agree in this narrow case.
+
+## Transfer Issue
+
+### Chisda Oil
+
+The *Gemara* now turns to a further difficulty with Ze'iri's position. The *mishna* says that if there is another sacrifice available, the *nesachim* may be brought with it. But if the slaughter of the original sacrifice is what sanctified the *nesachim*, how can they simply be transferred to another sacrifice? *Ve-ha'amar Rav Chisda: shemen she-hifrish lo le-shem mincha zo, pasul le-shem mincha acheret* — Rav Chisda teaches that oil designated for one *mincha* cannot be used for a different *mincha*. If designated, sanctified items are linked to the specific offering for which they were sanctified, how can these *nesachim* — sanctified by the slaughter of one sacrifice — be reassigned to a completely different sacrifice?
+
+### Yannai Stipulate
+
+*Amar Rav Yannai* — Rav Yannai answers: *lev beit din metneh aleihem* — the *beit din* stipulates over them. Every time someone brings wine with their sacrifice, the *beit din* implicitly stipulates: *im hutzereku hutzereku, ve-im lav yiheyu le-zevach acher* — if the *nesachim* are used with this sacrifice, good; and if not, they will be available for another sacrifice. By means of this standing stipulation, the sanctity is never irrevocably tied to the original sacrifice — it remains, from the outset, conditionally available for reassignment.
+
+One might reasonably ask: does *lev beit din metneh* apply to private individuals and their private sacrifices, or only to communal offerings? The principle is indeed most naturally at home in the context of communal sacrifices, where the *beit din* manages public resources. For private sacrifices, its application is less intuitive. The *Gemara* acknowledges this tension but does not resolve it here conclusively. It is worth noting that a parallel principle appears in the context of marriage law — *kol de-mekadesh ada'ata de-rabbanan mekadesh* — where rabbinic authority is understood to define the terms of halachic relationships, and something similar is at work here.
+
+### Integral Part
+
+The *Gemara* presses further: if the principle of *lev beit din metneh* is so powerful, why does it not apply to the oil of a *mincha* as well? Could *beit din* not stipulate that if the oil cannot be used for this *mincha*, it will be available for another? The answer: *shemen gufa de-mincha hu* — the oil is not merely assigned to the *mincha*, it is the *mincha*. It is an integral constituent of the offering itself. One cannot stipulate to remove something that is constitutively part of the offering and repurpose it as part of a different offering. The *nesachim*, by contrast, accompany the sacrifice without being its constituent — they are a parallel offering, not an ingredient of the sacrifice itself.
+
+### Mar'it Ayin
+
+The *Gemara* raises yet another problem. If *beit din* can stipulate that the *nesachim* are not linked to the original sacrifice and may be freely reassigned, why not go further and stipulate that if a problem arises they should simply revert to non-sacred status entirely — return to *chulin*? The answer: *gezeirah shema yomru motzi'in mi-kli shareit le-chulin* — there is a concern of *mar'it ayin*. People would see that something sanctified in a consecrated vessel was being treated as ordinary non-sacred property, and they would conclude that it is permissible to redeem items from consecrated vessels back into non-sacred status — which is not the case.
+
+Similarly, even the transfer to another sacrifice raises a *mar'it ayin* concern: people might observe *nesachim* being moved from one sacrifice to another and conclude that this is a standard, ordinary practice, without understanding the exceptional circumstances that permit it.
+
+### Simultaneous Shechita
+
+The *Gemara* resolves both concerns by citing a *baraita*:
+
+*Ka-gon she-hayah zevach zavuach be-otah sha'ah* — the transfer is only permitted when there was already another sacrifice slaughtered at that very moment, available and ready. In such a case there is no appearance of improper transfer: the *nesachim* are immediately brought with the second sacrifice, no reassignment visibly occurs, and no observer could draw problematic conclusions.
+
+## Transfer Conditions
+
+### Devarim Amurim
+
+The *Gemara* now subjects the *mishna* to further scrutiny. The *mishna* says: *im yesh zevach acher yakravu imo* — if there is another sacrifice, use the *nesachim* with it. The *Gemara* asks: under what circumstances (*bamei devarim amurim*) is this true?
+
+### Concurrent Shechita
+
+*She-hayah zevach zavuach be-otah sha'ah* — only when another sacrifice was already slaughtered at that same moment. The permission to transfer is conditional on there being a simultaneously slaughtered sacrifice standing ready. That is the only scenario in which the transfer can take place without running afoul of *mar'it ayin* and without requiring a stipulation whose scope is unclear.
+
+### No Concurrent
+
+*Aval ein zevach zavuach be-otah sha'ah* — but if there is no other sacrifice already slaughtered at that moment, *na'aseh ke-mi she-yifselu be-linah ve-dameihim* — the *nesachim* are treated as though they have already become invalid through *pasul be-linah*. They cannot be held and transferred later; they cannot be redirected. Without a simultaneously available sacrifice, the only outcome is that they become invalid.
+
+This, the *Gemara* acknowledges, is reading a great deal into the *mishna*'s language. The *mishna* simply says "if there is another sacrifice" — it does not specify that the other sacrifice must already be slaughtered simultaneously. All of this exegetical pressure is the price of defending Ze'iri's position, which insists that the slaughter of the sacrifice is what sanctifies the *nesachim*. Under the simple reading of the *mishna*, none of this complexity is necessary: the *nesachim* were sanctified by the vessel, independently of the slaughter, and the question of transfer is simply a practical question about unused sanctified wine.
+
+## Beis Din Auth
+
+### Shimon Metaneh
+
+The *Gemara* raises a further question: does Rabbi Shimon — whose view is invoked in this discussion, since we have established that the framework follows Rabbi Elazar bar Rabbi Shimon — actually accept the principle of *lev beit din metneh aleihem*?
+
+### Tamidim Case
+
+A case is cited to explore this: *temidim she-lo hutzereku le-tzibbur* — communal daily offerings (*temidim*) that were not needed by the community. This might arise, for example, if a substitute was purchased after the original was lost, and then the original was found — leaving an extra sacrifice on hand. What is to be done? Here the context is genuinely communal, and this is precisely the setting in which *lev beit din metneh* is most naturally at home.
+
+### Shimon vs. Chachamim
+
+*Ve-amar Rav Idi bar Avin amar Rav Amram amar Rabbi Yitzchak amar Rabbi Yochanan: temidim she-lo hutzereku le-tzibbur* — the community has an extra *tamid*. What happens? Rabbi Shimon says: *ein nifdin tmimim* — unblemished animals cannot be redeemed, because the *Torah* only permits redemption of a consecrated animal when it has a blemish. Rabbi Shimon does not invoke *lev beit din metneh* to solve the problem. The Chachamim, however, say: *nifdin tmimim* — they can be redeemed even without a blemish, relying on the authority of *lev beit din metneh aleihem* — the standing stipulation by the *beit din* that retains the right to redeem communal animals when needed.
+
+So Rabbi Shimon does not hold of *lev beit din metneh* — at least not in this context.
+
+### Alt Solution
+
+Why? *Shani hatam de-it lehu takkanta bi-re'iyah* — there, a solution exists. The extra *tamid* can be grazed until it develops a blemish, at which point it can be redeemed normally. There is an available path to resolution that does not require invoking *lev beit din*. *Tosafot* adds that one could even bring it as an *olah* on the altar as *kayitz ha-mizbe'ach* — wood fuel offering. Since a solution exists, we do not need to invoke *lev beit din*'s authority.
+
+### Nesachim Need
+
+In the case of *nesachim*, however, there is no such alternative path. Wine that has been sanctified for a specific sacrifice cannot simply be held over indefinitely. If it cannot be used for another sacrifice, it will become invalid through *pasul be-linah*. There is no other solution. Therefore, even if Rabbi Shimon generally does not invoke *lev beit din metneh*, he would agree to it in the *nesachim* context — because here, without the stipulation, there is simply no alternative and the *nesachim* will be lost.
+
+## Conclusion
+
+### Ze'iri Problems
+
+Ze'iri's position — that the slaughter of the sacrifice sanctifies the *nesachim* — faces substantial textual and logical difficulties. It requires reading the *mishna*'s phrase *nimtza zevach pasul* as referring to an invalidity at the *zrika* stage rather than at the slaughter, which is a strained reading of the language. It requires the application of the principle *ke-zaruk dami* in a very narrow and specific scenario. It requires the invocation of *lev beit din metneh aleihem* in a context that may not be its natural home. And it requires limiting the permissible transfer to a case where another sacrifice was already slaughtered simultaneously — a reading that is not explicit in the *mishna* at all.
+
+### Simple Preferred
+
+The simple reading of the *mishna* remains compelling: the *nesachim* are sanctified by being placed in a consecrated vessel (*kedushat kli*), independently of the slaughter of the sacrifice. This is precisely what distinguishes them from the bread of the *Todah*. The bread is closely linked to the sacrifice — it must accompany it on the same day — and therefore the slaughter is what sanctifies it. The *nesachim*, because they can be brought on a completely separate day, are not similarly linked to the slaughter. Their sanctity arises from the vessel, not from the act of slaughter. This contrast between bread and *nesachim* is, on the simple reading, exactly what the *mishna* intends to teach.
+
+### Unresolved
+
+That said, an unresolved tension remains. The very fact that *nesachim* can be brought on a later day — *afilu mi-kan ve-ad asarah yamim* — would itself seem to be powerful evidence that the slaughter cannot be what sanctifies them. If the slaughter on one day could sanctify *nesachim* brought ten days later, the entire model of shechitah-based sanctification collapses. This consideration strongly favors the simple reading. Whether Ze'iri would concede this point and restrict his claim to cases where the *nesachim* were brought on the same day as the slaughter — and acknowledge the simple reading for all other cases — is a question the *Gemara* leaves without full resolution.

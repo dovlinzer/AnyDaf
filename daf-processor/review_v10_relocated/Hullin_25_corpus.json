@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Pottery vs Other Vessels",
+    "candidates": [
+      "Pottery vs Other Vessels",
+      "Kal Vachomer Challenge",
+      "Sealed Vessels Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Adda bar Ahava's kal vachomer argument that a kli cheres should become tamei from its exterior, which is precisely what the 'Kal Vachomer Challenge' prose section describes and discusses.",
+      "chosen_heading": "Kal Vachomer Challenge",
+      "current_heading": "Pottery vs Other Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Sealed Vessels Refutation",
+    "candidates": [
+      "Kal Vachomer Challenge",
+      "Sealed Vessels Refutation",
+      "Tumah Nature Debate",
+      "Reversed Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly cites and expounds the verse 'vechol kli patuach asher ein tzamid patil alav' to demonstrate that pottery vessels receive tumah only through their interior, which is precisely what the 'Sealed Vessels Refutation' section's prose describes.",
+      "chosen_heading": "Sealed Vessels Refutation",
+      "current_heading": "Sealed Vessels Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Reversed Kal Vachomer",
+    "candidates": [
+      "Tumah Nature Debate",
+      "Reversed Kal Vachomer",
+      "Four Derashot Tocho"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the kal vachomer argument (if pottery vessels become tamei from their airspace despite not becoming tamei from their exterior, then all other vessels should a fortiori become tamei from their airspace) that the 'Reversed Kal Vachomer' section's prose explicitly describes and discusses.",
+      "chosen_heading": "Reversed Kal Vachomer",
+      "current_heading": "Reversed Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Four Derashot Tocho",
+    "candidates": [
+      "Four Derashot Tocho",
+      "Vessel Within Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states 'tokho of this vessel and not tokho of any other vessel,' which corresponds precisely to the third derashah described in candidate 0's prose: 'tocho shel zeh ve-lo tocho shel acher \u2014 teaches that interior-based tumah is exclusive to the pottery vessel and does not apply to other vessels.'",
+      "chosen_heading": "Four Derashot Tocho",
+      "current_heading": "Four Derashot Tocho",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Vessel Within Vessel",
+    "candidates": [
+      "Vessel Within Vessel",
+      "Wood/Metal Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the four instances of 'tokho' and their respective derashot, including 'tocho ve-lo toch tocho,' which is precisely the topic of the 'Vessel Within Vessel' section's prose.",
+      "chosen_heading": "Vessel Within Vessel",
+      "current_heading": "Vessel Within Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Wood/Metal Intro",
+    "candidates": [
+      "Wood/Metal Intro",
+      "Unfinished Wood"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 3,
+      "first_heading": "Wood/Metal Intro",
+      "first_confidence": "low",
+      "first_reason": "Segment 1 discusses earthenware vessels and sealed covers (tzamid patil), which doesn't match either candidate heading well, but it precedes the wood/metal topic and may have been misplaced from an earlier section; of the two candidates, heading 0 is slightly closer as it precedes the mishna introduction.",
+      "second_heading": "Wood/Metal Intro",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna introducing the wood/metal purity contrast, which directly matches the 'Wood/Metal Intro' heading's description of that exact Mishna.",
+      "third_heading": "Unfinished Wood",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara Baraita explaining golmei klei etz and peshuteihen, which precisely matches the 'Unfinished Wood' heading's description of that Baraita.",
+      "current_heading": "Wood/Metal Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Unfinished Wood",
+    "candidates": [
+      "Unfinished Wood",
+      "Receptacle Incomplete"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists exactly the unfinished-vessel conditions (lashuf, leshabetz, legarer, lekarkev, lehatiach betunas, mechusar kan/ogen/ozen) that section 0's prose explicitly discusses, and ends with 'mechusar chatita \u2014 tahor' which is the transition point into section 1's discussion.",
+      "chosen_heading": "Unfinished Wood",
+      "current_heading": "Unfinished Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Receptacle Incomplete",
+    "candidates": [
+      "Receptacle Incomplete",
+      "Unfinished Metal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of mechusar chatita (lacking hollowing) and the specific clarification about dechak kafiza bekava, which is precisely what the 'Receptacle Incomplete' prose section describes.",
+      "chosen_heading": "Receptacle Incomplete",
+      "current_heading": "Receptacle Incomplete",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Unfinished Metal",
+    "candidates": [
+      "Unfinished Metal",
+      "Honor vs Expense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute the Mishnaic text defining unfinished metal vessels and their tumah status, which is precisely what the 'Unfinished Metal' section's prose discusses and explicates.",
+      "chosen_heading": "Unfinished Metal",
+      "current_heading": "Unfinished Metal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Honor vs Expense",
+    "candidates": [
+      "Honor vs Expense",
+      "Bone Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question and the two competing rationales (Rabbi Yochanan's honor-based and Rav Nachman's expense-based explanations), which is precisely what the 'Honor vs Expense' section prose discusses.",
+      "chosen_heading": "Honor vs Expense",
+      "current_heading": "Honor vs Expense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Bone Vessels",
+    "candidates": [
+      "Bone Vessels",
+      "Bone Biblical Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the practical difference between the two opinions being bone vessels and Rav Nachman's ruling that bone vessels are like metal vessels, which is precisely what the 'Bone Vessels' section prose describes.",
+      "chosen_heading": "Bone Vessels",
+      "current_heading": "Bone Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Bone Biblical Tumah",
+    "candidates": [
+      "Bone Biblical Tumah",
+      "Nuts Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses bone vessels' susceptibility to tumah and the baraita about 'all work of goats,' exactly matching the 'Bone Biblical Tumah' section's prose.",
+      "chosen_heading": "Bone Biblical Tumah",
+      "current_heading": "Bone Biblical Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Nuts Obligation",
+    "candidates": [
+      "Nuts Obligation",
+      "Processing via Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna on bitter vs. sweet almonds, the Baraita elaborating small/large obligations, and Rabbi Yishmael beRabbi Yossi's dissent with Rabbi Chanina's ruling \u2014 are all covered in full in the 'Nuts Obligation' prose, which explicitly discusses each of these textual elements.",
+      "chosen_heading": "Nuts Obligation",
+      "current_heading": "Nuts Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Processing via Fire",
+    "candidates": [
+      "Processing via Fire",
+      "Temed Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yochanan's answer about rendering bitter almonds edible through fire/roasting, which is precisely what the 'Processing via Fire' section's prose discusses.",
+      "chosen_heading": "Processing via Fire",
+      "current_heading": "Processing via Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Temed Wine",
+    "candidates": [
+      "Temed Wine",
+      "Brothers Partners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah about temed (grape residue beverage), its fermentation threshold, ma'aser sheni purchasing, and mikvah invalidation \u2014 exactly what the 'Temed Wine' section prose discusses in detail.",
+      "chosen_heading": "Temed Wine",
+      "current_heading": "Temed Wine",
+      "moved": false
+    }
+  }
+]

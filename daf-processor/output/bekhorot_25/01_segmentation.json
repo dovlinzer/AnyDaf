@@ -73,7 +73,9 @@
           "display_title": "Derabbanan Gradations",
           "timestamp": "06:29"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Case of the Goose Feather Quill: Multiple Melachot on Shabbat",
@@ -120,7 +122,9 @@
           "display_title": "Shani Knaf: Species Difference",
           "timestamp": "11:17"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rav's Position: How He Understands Rabbi Yosei ben HaMeshullam",
@@ -152,7 +156,9 @@
           "display_title": "Eino Mitkaven Inference",
           "timestamp": "15:09"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Para Aduma Analysis: Explaining the Exception Without Eino Mitkaven",
@@ -199,7 +205,9 @@
           "display_title": "Rav's Final Position",
           "timestamp": "24:14"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The True Reading of Rabbi Yosei ben HaMeshullam: Eino Mitkaven is His Reasoning",
@@ -226,7 +234,9 @@
           "display_title": "Rashi's Approach",
           "timestamp": "25:36"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Ongoing Gemara Discussion: Hand vs. Vessel in Hair Removal",
@@ -258,7 +268,9 @@
           "display_title": "Hand-Removal Acceptable",
           "timestamp": "27:47"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Hair Removal to Check for Blemishes: Intentional Removal Permitted",
@@ -305,7 +317,9 @@
           "display_title": "Inspection Context",
           "timestamp": "30:39"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Hair of Bechor Ba'al Mum: Distinguishing Fallen vs. Sheared Wool",
@@ -347,7 +361,9 @@
           "display_title": "R. Yehuda's Case",
           "timestamp": "34:44"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Case of Mixed Wool: Defining What is Permitted After Shechita",
@@ -379,7 +395,9 @@
           "display_title": "Chachamim's Stance",
           "timestamp": "36:23"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Gemara's Investigation: When the Animal Died vs. When It Was Shechted",
@@ -406,7 +424,9 @@
           "display_title": "Death Case Debate",
           "timestamp": "39:56"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Rav Assi's Distinction: Expert Inspection and the Risk of Delay",
@@ -443,7 +463,9 @@
           "display_title": "Urgency Distinction",
           "timestamp": "41:42"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Metiv Rav Sheshes: Mixed Herds and the Authority of Expert Inspection",
@@ -480,7 +502,9 @@
           "display_title": "Hair Falls and Mixes",
           "timestamp": "49:07"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Revisiting the Mishna's Case: Two Tannaitic Positions on Mixed Wool",
@@ -507,7 +531,9 @@
           "display_title": "Rava's Reading",
           "timestamp": "51:38"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Rabbi Yirmiya's Critique: Babylonian vs. Land of Israel Positions",
@@ -529,7 +555,9 @@
           "display_title": "Found Nothing Case",
           "timestamp": "52:39"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "The Talmudic Debate: Rabbi Meir vs. Chachamim on Unlocated Sources",
@@ -556,7 +584,9 @@
           "display_title": "Thorough Digging",
           "timestamp": "54:16"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Second Application: When You Did Find a Blemish—Is It the Same One?",
@@ -583,7 +613,9 @@
           "display_title": "Full Field Check",
           "timestamp": "55:30"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Application to Holy Animals: Why Holy Animals Are Different",
@@ -645,46 +677,131 @@
           "display_title": "New Blemishes Possible",
           "timestamp": "57:43"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": false
     }
   ],
   "topical_tags": [
     {
       "term": "Tolash Lav Hainu Gozez (Plucking is not shearing)",
-      "timestamps": ["00:02", "01:31", "02:51", "08:35", "11:53"]
+      "timestamps": [
+        "00:02",
+        "01:31",
+        "02:51",
+        "08:35",
+        "11:53"
+      ]
     },
     {
       "term": "Eino Mitkaven (Not intending / Disinterest in purpose)",
-      "timestamps": ["00:32", "00:59", "01:01", "02:25", "02:43", "15:09", "15:31", "24:37", "25:13", "25:36"]
+      "timestamps": [
+        "00:32",
+        "00:59",
+        "01:01",
+        "02:25",
+        "02:43",
+        "15:09",
+        "15:31",
+        "24:37",
+        "25:13",
+        "25:36"
+      ]
     },
     {
       "term": "Melacha She'eina Tzricha L'gufa (Act not needed for its primary purpose)",
-      "timestamps": ["00:39", "05:53", "06:10", "06:29", "15:31"]
+      "timestamps": [
+        "00:39",
+        "05:53",
+        "06:10",
+        "06:29",
+        "15:31"
+      ]
     },
     {
       "term": "K'lo'achar Yad (Abnormal/peculiar manner of performance)",
-      "timestamps": ["03:44", "04:07", "05:06", "05:38", "06:14", "07:30"]
+      "timestamps": [
+        "03:44",
+        "04:07",
+        "05:06",
+        "05:38",
+        "06:14",
+        "07:30"
+      ]
     },
     {
       "term": "Shechita (Ritual slaughter)",
-      "timestamps": ["00:16", "00:49", "01:06", "03:06", "04:06", "04:51", "12:40", "32:28", "39:47", "41:51"]
+      "timestamps": [
+        "00:16",
+        "00:49",
+        "01:06",
+        "03:06",
+        "04:06",
+        "04:51",
+        "12:40",
+        "32:28",
+        "39:47",
+        "41:51"
+      ]
     },
     {
       "term": "Bechor (Firstborn animal)",
-      "timestamps": ["00:23", "00:26", "02:00", "12:55", "19:14", "32:15", "32:28", "32:52", "38:53", "40:36"]
+      "timestamps": [
+        "00:23",
+        "00:26",
+        "02:00",
+        "12:55",
+        "19:14",
+        "32:15",
+        "32:28",
+        "32:52",
+        "38:53",
+        "40:36"
+      ]
     },
     {
       "term": "Yom Tov (Holiday exemptions from melachot)",
-      "timestamps": ["01:56", "02:05", "02:23", "03:19"]
+      "timestamps": [
+        "01:56",
+        "02:05",
+        "02:23",
+        "03:19"
+      ]
     },
     {
       "term": "Shabbat (Sabbath restrictions on melachot)",
-      "timestamps": ["00:54", "01:02", "02:07", "06:38", "08:07", "10:20", "10:53"]
+      "timestamps": [
+        "00:54",
+        "01:02",
+        "02:07",
+        "06:38",
+        "08:07",
+        "10:20",
+        "10:53"
+      ]
     },
     {
       "term": "Rabbi Yosei ben HaMeshullam",
-      "timestamps": ["12:44", "12:49", "13:34", "13:39", "13:46", "13:51", "13:59", "24:18", "24:37", "24:58", "29:43", "50:11"]
-
+      "timestamps": [
+        "12:44",
+        "12:49",
+        "13:34",
+        "13:39",
+        "13:46",
+        "13:51",
+        "13:59",
+        "24:18",
+        "24:37",
+        "24:58",
+        "29:43",
+        "50:11"
+      ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "32:52",
+  "amud_b_micro_title": "Naturally Fallen Hair",
+  "shiur_start_daf": 25,
+  "shiur_start_amud": "a"
 }

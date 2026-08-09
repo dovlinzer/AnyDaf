@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Braisa Evidence",
+    "candidates": [
+      "Opening",
+      "Haggadah Flow",
+      "Mishna Anomaly",
+      "Intent Requirement",
+      "No Intent Req",
+      "Symbolism",
+      "Braisa Evidence",
+      "R. Yosei View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items are the baraita that challenges Reish Lakish by stating one fulfills the obligation without intent, which is precisely what the 'Braisa Evidence' prose describes \u2014 the baraita with demai, lack of intent, and eating in halves, followed by the achilas pras qualification.",
+      "chosen_heading": "Braisa Evidence",
+      "current_heading": "Braisa Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "R. Yosei View",
+    "candidates": [
+      "R. Yosei View",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yosei's baraita about dipping \u1e25azeret and the debate over whether it proves mitzvot require intent, which is precisely what the 'R. Yosei View' prose section describes.",
+      "chosen_heading": "R. Yosei View",
+      "current_heading": "R. Yosei View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Rav Huna",
+      "R. Chisda Obj",
+      "R. Chisda Sol",
+      "Regional Practice",
+      "Final Ruling",
+      "Tosafot Expl"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The current heading's prose explicitly covers all six items in sequence \u2014 the tavshilin discussion (items 1-3) and the karpas/maror blessing dispute (items 4-6) \u2014 ending precisely where item 6 ends with Rav Chisda's objection.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Tosafot Expl",
+    "candidates": [
+      "R. Chisda Obj",
+      "R. Chisda Sol",
+      "Regional Practice",
+      "Final Ruling",
+      "Tosafot Expl",
+      "Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage records the regional practice in Surya following Rav Huna, Rav Sheshet following Rav Chisda, the final halakhic ruling like Rav Chisda, and Rav Acha seeking other vegetables to avoid the dispute \u2014 all of which is precisely what the 'Regional Practice' section's prose discusses.",
+      "chosen_heading": "Regional Practice",
+      "current_heading": "Tosafot Expl",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Principle",
+    "candidates": [
+      "Tosafot Expl",
+      "Principle",
+      "Hillel View",
+      "Rabbis Disagree",
+      "Rav Ashi Reinterp"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items establish the principle that a d'rabbanan obligation nullifies a d'oraisa when they are mixed \u2014 specifically that one should not wrap matzah and maror together because maror today is only rabbinic \u2014 which is precisely what the 'Principle' section's prose describes as its central content.",
+      "chosen_heading": "Principle",
+      "current_heading": "Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Rav Ashi Reinterp",
+    "candidates": [
+      "Hillel View",
+      "Rabbis Disagree",
+      "Rav Ashi Reinterp",
+      "Current Law",
+      "Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the single continuous discussion about Hillel's view (item 1), the Rabbis' apparent disagreement (item 2), and Rav Ashi's reinterpretation of that disagreement (item 3) \u2014 but the prose under heading 0 ('Hillel View') explicitly covers Hillel's baraita AND notes the colleagues' dispute and Rav Ashi's reinterpretation as part of identifying Hillel's principle, making it the best single home; headings 1 and 2 split what is really one continuous sugya that belongs together under the 'Hillel View' heading which sets up the entire discussion.",
+      "chosen_heading": "Hillel View",
+      "current_heading": "Rav Ashi Reinterp",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Procedure",
+    "candidates": [
+      "Current Law",
+      "Procedure",
+      "Hand Wash Rule",
+      "Charoses Immerse",
+      "Kappa Definition",
+      "Health Safety"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact procedure the gemara prescribes \u2014 recite blessing and eat matzah, then blessing and eat maror, then eat them together without a blessing as zecher le-mikdash ke-Hillel \u2014 which is precisely what the 'Procedure' section's prose discusses.",
+      "chosen_heading": "Procedure",
+      "current_heading": "Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Health Safety",
+    "candidates": [
+      "Hand Wash Rule",
+      "Charoses Immerse",
+      "Kappa Definition",
+      "Health Safety",
+      "Removal Rule",
+      "Dual Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the core ruling that dipping in liquid requires hand-washing and Rav Pappa's inference about charoses immersion, which matches heading 0 ('Hand Wash Rule') whose prose explicitly describes this as the gemara's basis for urchatz before karpas \u2014 the current placement under 'Health Safety' is too far downstream.",
+      "chosen_heading": "Hand Wash Rule",
+      "current_heading": "Health Safety",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Dual Washing",
+    "candidates": [
+      "Removal Rule",
+      "Dual Washing",
+      "Hesach Concern"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Removal Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rav Pappa's ruling about not leaving maror in charoses (matching 'Removal Rule' prose exactly) and the teaching about dual washing (which transitions to the next topic), but the charoses/maror content is the primary substance matching heading 0's prose about the removal rule and the nullification of bitterness.",
+      "second_heading": "Dual Washing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Sages' objection to the dual-washing teaching before Rav Pappa, which matches heading 1 'Dual Washing' prose that explicitly describes the rabbis' reasoning that in a seder context the original washing should remain valid because the second dipping is anticipated.",
+      "current_heading": "Dual Washing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Hesach Concern",
+    "candidates": [
+      "Hesach Concern",
+      "Swallowing Rule",
+      "Taste vs Matzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara exchange about why two dippings and two washings are needed at the Seder, culminating in the hesach ha-da'as explanation during haggadah/hallel \u2014 exactly what the 'Hesach Concern' prose describes.",
+      "chosen_heading": "Hesach Concern",
+      "current_heading": "Hesach Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Taste vs Matzah",
+    "candidates": [
+      "Swallowing Rule",
+      "Taste vs Matzah",
+      "Together Whole",
+      "Wrapped Rule",
+      "Individual Plates",
+      "Table Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's complete statement covering swallowing matzah, swallowing maror, swallowing both together, and wrapping in a net \u2014 it is the source text for all four subsequent sections and belongs under the 'Swallowing Rule' heading that introduces Rava's ruling.",
+      "chosen_heading": "Swallowing Rule",
+      "current_heading": "Taste vs Matzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Table Removal",
+    "candidates": [
+      "Together Whole",
+      "Wrapped Rule",
+      "Individual Plates",
+      "Table Removal",
+      "Kid Questions",
+      "Abaye Question",
+      "Rabbah Answer",
+      "Tosafot Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete dispute between Rav Shimi bar Ashi and Rav Huna about placement of seder items before each participant vs. before the haggadah reciter, which is precisely what the 'Individual Plates' prose describes \u2014 including Rav Huna's ruling and the halakha following him \u2014 while 'Table Removal' discusses the shulchan removal ritual and child questioning, which is a separate topic.",
+      "chosen_heading": "Individual Plates",
+      "current_heading": "Table Removal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Tosafot Caveat",
+    "candidates": [
+      "Kid Questions",
+      "Abaye Question",
+      "Rabbah Answer",
+      "Tosafot Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'why remove the table / so children will ask' teaching AND the Abaye/Rabbah incident \u2014 all of this content is introduced in candidate 0's prose about removing the table and the pedagogical mechanism, and the subsequent headings (1, 2) are just the essay author's way of breaking down commentary on the same single Talmudic passage, so the unified source text belongs under the first heading that introduces the topic.",
+      "chosen_heading": "Kid Questions",
+      "current_heading": "Tosafot Caveat",
+      "moved": true
+    }
+  }
+]

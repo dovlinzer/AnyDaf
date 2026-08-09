@@ -74,21 +74,6 @@ This last scenario leads to an observation by *Rashi* and *Tosafot* about which 
 
 ---
 
-## Tzitz Timing & Awareness
-
-### After Zerika Only
-
-The *gemara* now returns to the question of timing: at what point in the *avodah* process must the *tumat hatehom* become known in order for the *tzitz* to be effective? *Mar bar Rav Ashi* states: the *tzitz* works for *tumat hatehom* only when the awareness came after the *zerikah* — after the blood was thrown. At the moment of *zerikah*, the person was ignorant and the *tumah* unknowable; the blood was thrown properly, and when the *tumah* was subsequently discovered, the *tzitz* renders the *korban* acceptable retroactively. But if awareness came before the *zerikah*, the *tzitz* does not apply and the *korban* is invalid.
-
-The *gemara* challenges this from the *baraita* concerning *hamotzei meis mushkav l'rochbah shel derech* — a case where a dead body was found lying across the entire width of a path, making it impossible for the traveler to have avoided passing over it. The *baraita* states that for purposes of *trumah*, the person is *tamei*, but *l'nazir v'oseh pesach tahor* — for a *nazir* and one who brought the *korban pesach*, the person is *tahor*. The *baraita* uses the language of *tahor* — a language that implies one may act upon this status *lechatchila*, going forward. This seems to suggest that even before the *zerikah*, upon discovering the *meit* after walking over the path, the person could proceed to bring the *korban pesach* in the first instance.
-
-The *gemara* therefore reformulates *Mar bar Rav Ashi*'s statement. Rather than a strict limit to post-*zerikah* awareness, the corrected ruling is: do not say that the *tzitz* works only when awareness came after the *zerikah* and not before; rather, even if awareness came before the *zerikah*, the *tzitz* works.
-
-*Rashi* and *Tosafot*, however, draw back from the radical implications of this formulation. Based on other evidence including a *Tosefta*, they limit the ruling to the narrow window between *shechita* and *zerikah*. If awareness comes before the *shechita*, the *korban* cannot be brought. But once the *shechita* has been performed and the *avodah* has already commenced under conditions of *tumat hatehom*, the *kohen* may proceed to the *zerikah* and complete the offering. This is because the *avodah* began properly, in ignorance of an unknowable *tumah*, and may therefore be completed.
-
-Even this limited position is striking: the *kohen* now knows the person is *tamei*, and yet *Rashi* and *Tosafot* say he may proceed with the *zerikah*. The language of *tahor* in the *baraita* is thus the language of *lechatchila* — it describes a permission to act, though the person is not truly *tahor* in fact. The *ritzuy* of the *tzitz* does not remove the *tumah*; it renders the *korban* acceptable. The owner may not eat the *korban pesach*, and must subsequently immerse and follow the normal process of *taharah*. The *ritzuy* means only that he has fulfilled his *korban pesach* obligation.
-
----
 
 ## Tumat HaTehom & Kohen
 

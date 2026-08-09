@@ -1,0 +1,699 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "One Judge, One Witness",
+    "candidates": [
+      "Source Text",
+      "One Judge, One Witness",
+      "Jewish vs. Non-Jew Rules",
+      "ish velo isha",
+      "Relatives Permitted",
+      "Fetus Killing",
+      "Textual Source",
+      "Single Judge Inference",
+      "Beast Precedent",
+      "Single Witness",
+      "Male Witness Only",
+      "Relative Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the source text itself \u2014 the exact content found written in the Sefer Aggadata d'bei Rav \u2014 which is precisely what the 'Source Text' section's prose introduces and describes.",
+      "chosen_heading": "Source Text",
+      "current_heading": "One Judge, One Witness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Relative Testimony",
+    "candidates": [
+      "Jewish vs. Non-Jew Rules",
+      "ish velo isha",
+      "Relatives Permitted",
+      "Fetus Killing",
+      "Textual Source",
+      "Single Judge Inference",
+      "Beast Precedent",
+      "Single Witness",
+      "Male Witness Only",
+      "Relative Testimony",
+      "Chenek Only Rule",
+      "Ba-Adam Reread",
+      "Blood Remains Inside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the complete textual derivation from Genesis 9:5-6 \u2014 the source verse, each phrase-by-phrase derivation (one judge, no forewarning, one witness, male only, relatives permitted), and Rabbi Yishmael's feticide ruling \u2014 which is exactly what candidate 4 ('Textual Source') describes as the textual anchor for the entire Noachide judicial system developed in this sugya.",
+      "chosen_heading": "Textual Source",
+      "current_heading": "Relative Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Blood Remains Inside",
+    "candidates": [
+      "Chenek Only Rule",
+      "Ba-Adam Reread",
+      "Blood Remains Inside",
+      "Women Included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the Tanna d'bei Menashe's rule about strangulation AND the redeployment of 'ba-adam' to the seifa of the verse, which matches the 'Ba-Adam Reread' prose that describes exactly this interpretive move of attaching ba-adam to damo yishapech to specify execution method \u2014 the blood-remains-inside derivation is the conclusion of this reread, but the passage as a whole is introducing and explaining the reread itself.",
+      "chosen_heading": "Ba-Adam Reread",
+      "current_heading": "Blood Remains Inside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Women Included",
+    "candidates": [
+      "Blood Remains Inside",
+      "Women Included",
+      "Avraham's Mission",
+      "Sons vs. Household",
+      "Nifkada Definition",
+      "Din vs. Tzedakah",
+      "Woman as Victim",
+      "Anyone Kills Anyone",
+      "Adultery Exemption",
+      "Ve-Hayu Principle",
+      "Reading Back"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Din vs. Tzedakah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Hamnuna's objection from the Avraham pasuk and its resolution that banav=din and beito=tzedakah, which is precisely what candidate 5 ('Din vs. Tzedakah') describes.",
+      "second_heading": "Woman as Victim",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers Rav Avya Sava's question about whether a bat Noach who kills should be executed, citing 'mi-yad ish' language about victims, which matches candidate 6 ('Woman as Victim') exactly.",
+      "current_heading": "Women Included",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Reading Back",
+    "candidates": [
+      "Avraham's Mission",
+      "Sons vs. Household",
+      "Nifkada Definition",
+      "Din vs. Tzedakah",
+      "Woman as Victim",
+      "Anyone Kills Anyone",
+      "Adultery Exemption",
+      "Ve-Hayu Principle",
+      "Reading Back",
+      "Ish Ish Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether a bat Noach who committed adultery is exempt based on 'al ken ya'azov ish,' which is precisely what heading 6 ('Adultery Exemption') describes, while the current heading 8 ('Reading Back') better fits only the answer portion rather than the full question-and-answer unit.",
+      "chosen_heading": "Adultery Exemption",
+      "current_heading": "Reading Back",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Ish Ish Rule",
+    "candidates": [
+      "Reading Back",
+      "Ish Ish Rule",
+      "Separate Systems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 deriving from the doubling of 'ish ish' in Leviticus 18 that gentiles are warned against arayot like Jews \u2014 matches exactly what the 'Ish Ish Rule' prose describes, including the same Hebrew phrase 'she-muzharin al ha-arayot k'Yisrael.'",
+      "chosen_heading": "Ish Ish Rule",
+      "current_heading": "Ish Ish Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Separate Systems",
+    "candidates": [
+      "Separate Systems",
+      "Nafka Mina",
+      "One-One Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge that the derivation was already established from 'leimor,' which is precisely what the 'Separate Systems' prose describes as the starting point for resolving the apparent redundancy between two distinct derivations.",
+      "chosen_heading": "Separate Systems",
+      "current_heading": "Separate Systems",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "One-One Standard",
+    "candidates": [
+      "Nafka Mina",
+      "One-One Standard",
+      "Lower Standard Issue",
+      "Betrothed Woman"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nafka Mina",
+      "first_confidence": "high",
+      "first_reason": "Item 1 answers the question of which system applies (their arayot vs. our arayot), directly matching candidate 0's prose about the seifa distinction between Noachide and Jewish adjudication.",
+      "second_heading": "One-One Standard",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks 'l'mai hilchata' and answers with the procedural requirements (Sanhedrin, witnesses, forewarning), which is precisely what candidate 1's prose describes.",
+      "current_heading": "One-One Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Betrothed Woman",
+    "candidates": [
+      "Lower Standard Issue",
+      "Betrothed Woman",
+      "Eirsusin Unique",
+      "Jewish Law Applies",
+      "Adultery Standard",
+      "Jewish Penalties",
+      "Non-Jewish Penalty",
+      "Eshes Ish Redefined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 ('migra gara') is precisely the 'Lower Standard Issue' objection described in candidate 0's prose, and items 2-4 are the chain of responses to that objection \u2014 all belonging together under the heading that introduces the core problem these items address.",
+      "chosen_heading": "Lower Standard Issue",
+      "current_heading": "Betrothed Woman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Eshes Ish Redefined",
+    "candidates": [
+      "Eirsusin Unique",
+      "Jewish Law Applies",
+      "Adultery Standard",
+      "Jewish Penalties",
+      "Non-Jewish Penalty",
+      "Eshes Ish Redefined",
+      "Chuppah Without Sex",
+      "Sex Finalizes",
+      "Beulas Baal Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beulas Baal Only",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi \u1e24anina's baraita confirming that non-Jews recognize beulas baal but not nichnesah la-chuppah v'lo niv'alah, which is precisely what candidate 8 ('Beulas Baal Only') describes as its confirming baraita.",
+      "second_heading": "Jewish Law Applies",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita supporting Rabbi Yo\u1e25anan's principle that Noachide prohibitions track Jewish capital punishment, which corresponds to candidate 1 ('Jewish Law Applies') describing Rabbi Yochanan's identification of when Jewish law governs non-Jewish cases.",
+      "current_heading": "Eshes Ish Redefined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Beulas Baal Only",
+    "candidates": [
+      "Chuppah Without Sex",
+      "Sex Finalizes",
+      "Beulas Baal Only",
+      "Meir's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses how a gentile is judged under Jewish or Noachide law depending on which arayot are involved, and specifically identifies na'arah me-orasah as the one case where Jewish law applies to a non-Jewish defendant \u2014 this directly matches the prose of 'Meir's Principle' which introduces a baraita about which arayot bind non-Jews and under which legal system they are judged.",
+      "chosen_heading": "Meir's Principle",
+      "current_heading": "Beulas Baal Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Meir's Principle",
+    "candidates": [
+      "Meir's Principle",
+      "Broader Arayot",
+      "System Selection",
+      "Exceptions Listed",
+      "Conception/Birth",
+      "Maternal Kin Bar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of 'nichnesah la-chuppah v'lo niv'alah' and explains why it is counted among the exceptions, which is precisely what the 'Exceptions Listed' section's prose describes.",
+      "chosen_heading": "Exceptions Listed",
+      "current_heading": "Meir's Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Maternal Kin Bar",
+    "candidates": [
+      "Broader Arayot",
+      "System Selection",
+      "Exceptions Listed",
+      "Conception/Birth",
+      "Maternal Kin Bar",
+      "Paternal Kin OK",
+      "Line Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's challenge to Rabbi Meir from the baraita about the ger whose conception was outside sanctity but birth within sanctity \u2014 exactly what candidate 3 ('Conception/Birth') describes in its prose.",
+      "chosen_heading": "Conception/Birth",
+      "current_heading": "Maternal Kin Bar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Line Split",
+    "candidates": [
+      "Paternal Kin OK",
+      "Line Split",
+      "Maternal Sister",
+      "Half-Sister Debate",
+      "Meir's Logic",
+      "Brother's Wife",
+      "Uncle's Wife"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Line Split",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers exactly the cases described in 'Line Split' prose: half-sister through mother (yotzi), half-sister through father (yekayem), father's maternal half-sister (yotzi), father's paternal half-sister (yekayem).",
+      "second_heading": "Maternal Sister",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins the new topic of the mother's sisters (achot ha-em), which is introduced by the 'Maternal Sister' heading, and includes the Rabbi Meir/Chachamim dispute that belongs under 'Half-Sister Debate' and 'Meir's Logic' \u2014 but its opening clause about achot ha-em min ha-em matches 'Maternal Sister' as the entry point for this new sub-topic.",
+      "current_heading": "Line Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Uncle's Wife",
+    "candidates": [
+      "Maternal Sister",
+      "Half-Sister Debate",
+      "Meir's Logic",
+      "Brother's Wife",
+      "Uncle's Wife",
+      "Father's Wife",
+      "Woman/Daughter Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses both the brother's wife and uncle's wife permissions but culminates in the specific point about 'l'atuyei eshet aviv' (his father's wife), which matches the 'Father's Wife' section prose precisely.",
+      "chosen_heading": "Father's Wife",
+      "current_heading": "Uncle's Wife",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Woman/Daughter Rule",
+    "candidates": [
+      "Father's Wife",
+      "Woman/Daughter Rule",
+      "Mother-in-Law",
+      "Father's Wife",
+      "Mother-in-Law",
+      "Sisters Bar",
+      "Rashi Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the woman/daughter rule and the mother-in-law ruling, but candidate 1's prose explicitly discusses 'nasa isha u-vitah' and 'kones achat u-motzi achat' matching the first half, while the mother-in-law content of candidate 2 is addressed in the passage's second half \u2014 however, since candidate 1 already contains the woman/daughter content and the current placement is candidate 1, and the passage concludes with a summary about Rabbi Meir's principle tying both together, the current placement under 'Woman/Daughter Rule' is the best single heading for this unified passage.",
+      "chosen_heading": "Woman/Daughter Rule",
+      "current_heading": "Woman/Daughter Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Rashi Problem",
+    "candidates": [
+      "Mother-in-Law",
+      "Father's Wife",
+      "Mother-in-Law",
+      "Sisters Bar",
+      "Rashi Problem",
+      "Al Kein Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's resolution of the contradiction by distinguishing two versions of Rabbi Meir's position, which is exactly what the 'Rashi Problem' prose describes as the Gemara's response to the apparent contradiction.",
+      "chosen_heading": "Rashi Problem",
+      "current_heading": "Rashi Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168
+    ],
+    "current_heading": "Al Kein Pasuk",
+    "candidates": [
+      "Al Kein Pasuk",
+      "Eleazar View",
+      "Akiva View",
+      "Bestiality Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with both Rabbi Eliezer's and Rabbi Akiva's interpretations together, matching the 'Al Kein Pasuk' section's prose which introduces the verse and notes that 'Rabbi Elazar and Rabbi Akiva' interpret it in different ways, serving as the umbrella heading before the individual views are elaborated.",
+      "chosen_heading": "Al Kein Pasuk",
+      "current_heading": "Al Kein Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "Bestiality Ban",
+    "candidates": [
+      "Eleazar View",
+      "Akiva View",
+      "Bestiality Ban",
+      "Father Objection",
+      "Father Covered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivations from 'v'davak b'ishto' and 'v'hayu l'vasar echad' establishing prohibitions against homosexuality, adultery, and bestiality for Noachides, which is precisely what the 'Bestiality Ban' section prose describes.",
+      "chosen_heading": "Bestiality Ban",
+      "current_heading": "Bestiality Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      181
+    ],
+    "current_heading": "Father Covered",
+    "candidates": [
+      "Father Objection",
+      "Father Covered",
+      "Mother Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge ('why not say his father literally?') and its answer ('that is derived from v'lo b'zachar'), which together constitute the objection-and-resolution that belongs under 'Father Objection' \u2014 the challenge is raised and immediately answered within this single passage, making it the content of the objection section rather than a separate 'Father Covered' section.",
+      "chosen_heading": "Father Objection",
+      "current_heading": "Father Covered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      185,
+      186
+    ],
+    "current_heading": "Mother Parallel",
+    "candidates": [
+      "Father Covered",
+      "Mother Parallel",
+      "Mother Objection",
+      "Father Objection 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Both items explore the paired logic that 'his father' and 'his mother' prohibitions are family-bond based rather than marriage-based, using each term as a foil for the other \u2014 which matches the 'Mother Parallel' prose about the inherent parent-child relationship versus marriage-derived prohibition.",
+      "chosen_heading": "Mother Parallel",
+      "current_heading": "Mother Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      193
+    ],
+    "current_heading": "Father Objection 2",
+    "candidates": [
+      "Mother Objection",
+      "Father Objection 2",
+      "Post-Death Question",
+      "Household Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why 'aviv' means 'eshet aviv' rather than the literal father, and then raises the objection that eshet aviv should already be prohibited as eshet chaveiro \u2014 exactly what 'Father Objection 2' describes.",
+      "chosen_heading": "Father Objection 2",
+      "current_heading": "Father Objection 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      198
+    ],
+    "current_heading": "Household Rule",
+    "candidates": [
+      "Post-Death Question",
+      "Household Rule",
+      "Eleazar Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge that 'his mother' should already be covered by eshet chaveiro and resolves it with 'imo me-anusato,' which is precisely what the Household Rule prose describes.",
+      "chosen_heading": "Household Rule",
+      "current_heading": "Household Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      202,
+      203
+    ],
+    "current_heading": "Eleazar Logic",
+    "candidates": [
+      "Eleazar Logic",
+      "Akiva Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Eliezer's (Elazar's) reasoning that 'his father' and 'his mother' are parallel categories leading to the conclusion that both refer to sisterhood/aunts, which is precisely what the 'Eleazar Logic' prose section describes.",
+      "chosen_heading": "Eleazar Logic",
+      "current_heading": "Eleazar Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      206
+    ],
+    "current_heading": "Akiva Logic",
+    "candidates": [
+      "Akiva Logic",
+      "Ervah vs. She'er",
+      "Amram/Yocheved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Akiva's reasoning that 'aviv' means 'ervat aviv' (father's wife) to the exclusion of 'achot aviv' who is 'she'er aviv' \u2014 exactly the logic described in the 'Akiva Logic' prose.",
+      "chosen_heading": "Akiva Logic",
+      "current_heading": "Akiva Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      212,
+      213
+    ],
+    "current_heading": "Amram/Yocheved",
+    "candidates": [
+      "Ervah vs. She'er",
+      "Amram/Yocheved",
+      "Which Side?",
+      "Genealogy",
+      "Permission Inferred",
+      "Abraham's Words"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Amram/Yocheved",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the proof from the Amram/Yocheved verse, which candidate 1's prose explicitly describes as the textual proof brought from Shemot 6:20.",
+      "second_heading": "Which Side?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of which side the aunt relationship comes from (maternal vs. paternal), which is precisely what candidate 2's prose describes as the immediate follow-up question about dodat min ha-em vs. dodat min ha-av.",
+      "current_heading": "Amram/Yocheved",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      223
+    ],
+    "current_heading": "Abraham's Words",
+    "candidates": [
+      "Which Side?",
+      "Genealogy",
+      "Permission Inferred",
+      "Abraham's Words",
+      "Maternal Bar",
+      "Niece Reading",
+      "No Side Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Abraham's words about Sarah being his father's daughter but not his mother's daughter, which is exactly what the 'Abraham's Words' section introduces and discusses.",
+      "chosen_heading": "Abraham's Words",
+      "current_heading": "Abraham's Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      231
+    ],
+    "current_heading": "No Side Difference",
+    "candidates": [
+      "Maternal Bar",
+      "Niece Reading",
+      "No Side Difference",
+      "Kinship Relation",
+      "Adam's Choice",
+      "Kayin Precedent",
+      "Divine Justification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection that Sarah was Abraham's sister by proposing she was actually his brother's daughter (bat achiv/niece), which matches the 'Niece Reading' section's prose about the alternative interpretation of achoto as niece rather than sister.",
+      "chosen_heading": "Niece Reading",
+      "current_heading": "No Side Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      241
+    ],
+    "current_heading": "Divine Justification",
+    "candidates": [
+      "Kinship Relation",
+      "Adam's Choice",
+      "Kayin Precedent",
+      "Divine Justification",
+      "Absence Implies Ban",
+      "Permanence Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage as a whole begins with the question 'why did Adam not marry his daughter?' and covers all the subsequent points (Kayin marrying his sister, the verse justification, and the inference about prohibition), so it belongs under the heading that introduces this entire unit \u2014 'Adam's Choice' \u2014 which is where the question first arises.",
+      "chosen_heading": "Adam's Choice",
+      "current_heading": "Divine Justification",
+      "moved": true
+    }
+  }
+]

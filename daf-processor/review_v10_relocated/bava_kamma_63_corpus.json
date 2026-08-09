@@ -1,0 +1,317 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Im Lo Yimatze Source",
+    "candidates": [
+      "Transition to Theft",
+      "Gneiva vs Gzeila",
+      "Kefel Penalties",
+      "Klal u'Prat Structure",
+      "Ki Yiten Ish Source",
+      "Im Lo Yimatze Source",
+      "Gneiva vs Claim",
+      "Metaltel Derivation",
+      "Exclusions Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items present the klal u'prat u'klal derivation from the baraita on Exodus 22:8 \u2014 exactly what candidate 7 ('Metaltel Derivation') describes in its prose, including the same Hebrew terms and the conclusion that kefel applies to davar hametaltel v'gufo mamon.",
+      "chosen_heading": "Metaltel Derivation",
+      "current_heading": "Im Lo Yimatze Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Exclusions Listed",
+    "candidates": [
+      "Gneiva vs Claim",
+      "Metaltel Derivation",
+      "Exclusions Listed",
+      "Gneiva Land Tosafot",
+      "Rami Kal Ribuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists the exact exclusions (land, slaves, documents, consecrated property) that the 'Exclusions Listed' section's prose explicitly describes, making the current placement correct.",
+      "chosen_heading": "Exclusions Listed",
+      "current_heading": "Exclusions Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Rami Kal Ribuy",
+    "candidates": [
+      "Gneiva Land Tosafot",
+      "Rami Kal Ribuy",
+      "Ma'aser Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items discuss the question of whether birds are excluded from double payment based on carcass impurity laws, and whether 'kol' functions as a ribuy to include them \u2014 exactly the content described in the 'Rami Kal Ribuy' prose.",
+      "chosen_heading": "Rami Kal Ribuy",
+      "current_heading": "Rami Kal Ribuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Ma'aser Precedent",
+    "candidates": [
+      "Ma'aser Precedent",
+      "Kal Ribuy Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the ma'aser sheni challenge (item 1) and the baraita proving kol there functions as a klal in klal u'prat u'klal (item 2), which is precisely what the 'Ma'aser Precedent' prose describes.",
+      "chosen_heading": "Ma'aser Precedent",
+      "current_heading": "Ma'aser Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Kal Ribuy Resolved",
+    "candidates": [
+      "Kal Ribuy Resolved",
+      "Ribuy u'Mi'ut Method",
+      "Shor Chamor Seh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's two-part answer distinguishing bekhol as klal from kol as ribuy, which is precisely what the 'Kal Ribuy Resolved' section's prose describes.",
+      "chosen_heading": "Kal Ribuy Resolved",
+      "current_heading": "Kal Ribuy Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Shor Chamor Seh",
+    "candidates": [
+      "Ribuy u'Mi'ut Method",
+      "Shor Chamor Seh",
+      "Salmah Non-Specific",
+      "Rashi Identification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are arguing that 'al kol davar pesha' functions as a ribuy rather than a klal u'prat u'klal \u2014 item 1 establishes that there is already a klal u'prat u'klal earlier in the passage, and item 2 concludes that the later verse must therefore be a ribuy \u2014 which directly corresponds to the 'Ribuy u'Mi'ut Method' section's prose about this methodological shift.",
+      "chosen_heading": "Ribuy u'Mi'ut Method",
+      "current_heading": "Shor Chamor Seh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Rashi Identification",
+    "candidates": [
+      "Salmah Non-Specific",
+      "Rashi Identification",
+      "Tosafot Half-Items",
+      "Chiya Aveidah Kefel",
+      "Wallet Scenario",
+      "Pikdoni Mishna",
+      "Lost Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question about the purpose of 'al kol aveidah' and Rabbi Chiyya bar Abba's answer that one who falsely claims a lost object was stolen pays kefel \u2014 exactly what candidate 3 ('Chiya Aveidah Kefel') describes in its prose.",
+      "chosen_heading": "Chiya Aveidah Kefel",
+      "current_heading": "Rashi Identification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Lost Oath",
+    "candidates": [
+      "Tosafot Half-Items",
+      "Chiya Aveidah Kefel",
+      "Wallet Scenario",
+      "Pikdoni Mishna",
+      "Lost Oath",
+      "Stolen Oath Kefel",
+      "Admission Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the mishna cited from tractate Shavuot beginning with 'heichan pikdoni,' which is precisely what candidate 3 ('Pikdoni Mishna') introduces \u2014 the Gemara citing a mishnah to anchor the distinctions, with the case of someone asking a shomer 'where is the object you were watching for me.'",
+      "chosen_heading": "Pikdoni Mishna",
+      "current_heading": "Lost Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Admission Payment",
+    "candidates": [
+      "Stolen Oath Kefel",
+      "Admission Payment",
+      "Gneiva Aveidah",
+      "Oath Requirement",
+      "First Braita Both",
+      "Second Braita Split",
+      "Consensus Claim",
+      "Rava You're Ganav",
+      "Oath Source",
+      "Shomer Parallel",
+      "First Establishes",
+      "True Ganav Source",
+      "Kal Vachomer",
+      "Second Excludes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the kefel case (witnesses testify he stole, pays double) and the voluntary admission case together in one mishna unit, and candidate 0 'Stolen Oath Kefel' is specifically about the shomer claiming theft, taking an oath, and paying kefel \u2014 the primary content of this passage \u2014 while candidate 1 'Admission Payment' covers only the secondary clause about voluntary admission, making candidate 0 the better home for the full passage.",
+      "chosen_heading": "Stolen Oath Kefel",
+      "current_heading": "Admission Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Second Excludes",
+    "candidates": [
+      "Gneiva Aveidah",
+      "Oath Requirement",
+      "First Braita Both",
+      "Second Braita Split",
+      "Consensus Claim",
+      "Rava You're Ganav",
+      "Oath Source",
+      "Shomer Parallel",
+      "First Establishes",
+      "True Ganav Source",
+      "Kal Vachomer",
+      "Second Excludes",
+      "Dayo Rule",
+      "Intact Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "medium",
+      "reason": "The prose of heading 11 ('Second Excludes') explicitly describes all the key elements covered in items 8\u201316 \u2014 the two-pasuk dispute, exclusion of toenei ta'anat aveidah, Rabbi Chiyya bar Abba's ruling, the hekesh derivation, and the setup for the kal vachomer \u2014 making it the best single match for the passage as a whole, even though items 1\u20137 would sit more naturally under earlier headings.",
+      "chosen_heading": "Second Excludes",
+      "current_heading": "Second Excludes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Intact Animal",
+    "candidates": [
+      "Dayo Rule",
+      "Intact Animal",
+      "Slaughtered Sold",
+      "Multiple Animals",
+      "Shor Alone",
+      "Chamor Addition",
+      "Seh Broadens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the school of \u1e24izkiyya's teaching as the source for deriving kefel for a real ganav from the ox/theft verse, which is precisely what the 'Intact Animal' section's prose describes as the resolution coming from tana d'vei Chizkiyah and that same pasuk.",
+      "chosen_heading": "Intact Animal",
+      "current_heading": "Intact Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Seh Broadens",
+    "candidates": [
+      "Slaughtered Sold",
+      "Multiple Animals",
+      "Shor Alone",
+      "Chamor Addition",
+      "Seh Broadens",
+      "Chayim Ribuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Heading 1 ('Multiple Animals') explicitly poses the question of why the pasuk lists multiple animals, and promises the Gemara takes it up next \u2014 making it the natural home for the entire baraita that works through each animal's necessity in turn.",
+      "chosen_heading": "Multiple Animals",
+      "current_heading": "Seh Broadens",
+      "moved": true
+    }
+  }
+]

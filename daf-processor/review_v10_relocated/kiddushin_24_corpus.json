@@ -1,0 +1,279 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Mishna Dispute",
+      "Rava's Question",
+      "Shaliach Limitation",
+      "Kohanim Shlichut",
+      "Slave vs. Woman",
+      "Friend's Get Shichrur",
+      "Kol Mah Shekana"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rava's question and resolution about whether a Canaanite slave can appoint an agent to receive his bill of manumission, which is precisely what heading 1 ('Rava's Question') describes.",
+      "second_heading": "Kohanim Shlichut",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 discuss Rav Huna's statement about kohanim as agents of God and the distinction that a slave is connected to gittin unlike a Yisrael to korbanot, matching headings 3 ('Kohanim Shlichut'), 4 ('Slave vs. Woman'), and 5 ('Friend's Get Shichrur') \u2014 with item 3 starting the kohanim discussion that heading 3's prose describes.",
+      "current_heading": "Rava's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Kol Mah Shekana",
+    "candidates": [
+      "Shaliach Limitation",
+      "Kohanim Shlichut",
+      "Slave vs. Woman",
+      "Friend's Get Shichrur",
+      "Kol Mah Shekana",
+      "Rabbi Meir Position",
+      "Chachamim Position",
+      "Rabbi Elazar",
+      "Ownership Dispute",
+      "Woman & Chomesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 4 ('Kol Mah Shekana') describes: the gemara's discussion of whether the machloket between Rabbi Meir and the chachamim turns on ein/yesh kinyan l'eved belo rabo, followed by Rabba/Rav Sheshet's reframing around a third party's conditional transfer (al menat she'ein lerabcha reshut bo), and Rabbi Elazar's further refinement (al menat sheteitzei bo l'cheirut) \u2014 all of which is precisely the content described in that section's prose.",
+      "chosen_heading": "Kol Mah Shekana",
+      "current_heading": "Kol Mah Shekana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Woman & Chomesh",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Chachamim Position",
+      "Rabbi Elazar",
+      "Ownership Dispute",
+      "Woman & Chomesh",
+      "Rabbi Meir Woman",
+      "Case Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita introducing the contradiction about a woman redeeming Ma'aser Sheni with or without chomesh, which is precisely what the 'Woman & Chomesh' section's prose describes as the baraita that appears to contradict the positions of Rabbi Meir and the Rabbis.",
+      "chosen_heading": "Woman & Chomesh",
+      "current_heading": "Woman & Chomesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Case Analysis",
+    "candidates": [
+      "Rabbi Meir Woman",
+      "Case Analysis",
+      "Rava's Resolution",
+      "Ma'aser Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the gemara's analysis of the specific case (someone else giving money to the woman with a condition), which is precisely what the 'Case Analysis' prose describes, including the ipcha shamina lehu resolution that appears in that section's prose.",
+      "chosen_heading": "Case Analysis",
+      "current_heading": "Case Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Ma'aser Ownership",
+    "candidates": [
+      "Rava's Resolution",
+      "Ma'aser Ownership",
+      "Tooth & Eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's resolution citing Rabbi Meir's view that Ma'aser is hekdesh (husband doesn't acquire it) versus the Rabbis' view that it is ordinary property (husband does acquire it), which is precisely what candidate 1 'Ma'aser Ownership' discusses in its prose.",
+      "chosen_heading": "Ma'aser Ownership",
+      "current_heading": "Ma'aser Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Tooth & Eye",
+    "candidates": [
+      "Tooth & Eye",
+      "Klal U'Prat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about emancipation through tooth, eye, and limb extremities, and the analogy (dumya de-shein ve'ayin) deriving the rule for other exposed permanent blemishes \u2014 exactly what the 'Tooth & Eye' section prose describes.",
+      "chosen_heading": "Tooth & Eye",
+      "current_heading": "Tooth & Eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Klal U'Prat",
+    "candidates": [
+      "Klal U'Prat",
+      "Specific Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover exactly the hermeneutical alternatives discussed in heading 0's prose: the two-verses-come-as-one objection (items 1-2) and the klal u-prat / klal u-prat u-klal analysis (items 3-4), which is precisely what the 'Klal U'Prat' section describes.",
+      "chosen_heading": "Klal U'Prat",
+      "current_heading": "Klal U'Prat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Specific Examples",
+    "candidates": [
+      "Specific Examples",
+      "Tannaim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same klal-prat-klal dialectic establishing which injuries qualify \u2014 the beard/jaw baraita and the withered hand baraita are explicitly discussed in the 'Specific Examples' prose, making the current placement correct.",
+      "chosen_heading": "Specific Examples",
+      "current_heading": "Specific Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Tannaim Dispute",
+    "candidates": [
+      "Tannaim Dispute",
+      "Chachamim Compromise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita listing Rabbi Shimon, Rabbi Meir, Rabbi Eliezer, Rabbi Tarfon, and Rabbi Akiva on whether a get shichrur is required is precisely what the 'Tannaim Dispute' prose describes, making the current placement correct.",
+      "chosen_heading": "Tannaim Dispute",
+      "current_heading": "Tannaim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Chachamim Compromise",
+    "candidates": [
+      "Chachamim Compromise",
+      "Direct Contact",
+      "Non-Contact Injury",
+      "Sound Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the content described in the 'Chachamim Compromise' prose: Item 1 is the compromise ruling about Rabbi Tarfon vs. Rabbi Akiva, and Item 2 is the Rabbi Shimon/Rabbi Meir dispute about the document requirement \u2014 both of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Chachamim Compromise",
+      "current_heading": "Chachamim Compromise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Sound Damage",
+    "candidates": [
+      "Direct Contact",
+      "Non-Contact Injury",
+      "Sound Damage",
+      "Person vs. Object",
+      "Blowing Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Contact Injury",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the baraita distinguishing direct vs. non-contact injury AND Rav Shemen's opening challenge about sound \u2014 the prose of 'Non-Contact Injury' covers the baraita's distinction and sets up the sound question, making it the better fit for item 1 which introduces both elements.",
+      "second_heading": "Sound Damage",
+      "second_confidence": "high",
+      "second_reason": "Item 2 provides the examples (rooster crowing, horse neighing) that demonstrate sound can cause liability, directly matching the 'Sound Damage' prose which discusses Rami bar Yechezkel's baraita and Rav Yosef's ruling about acoustic damage to objects.",
+      "current_heading": "Sound Damage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Blowing Baraita",
+    "candidates": [
+      "Person vs. Object",
+      "Blowing Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Ashi's distinction about bar daat and the baraita about frightening/startling another person, which maps directly to the 'Blowing Baraita' section's prose discussion of hamav'it, the exempt/liable cases, and the holding distinction.",
+      "chosen_heading": "Blowing Baraita",
+      "current_heading": "Blowing Baraita",
+      "moved": false
+    }
+  }
+]

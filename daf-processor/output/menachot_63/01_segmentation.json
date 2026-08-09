@@ -179,7 +179,7 @@
           "timestamp": "38:38"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -213,7 +213,7 @@
           "timestamp": "44:09"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -232,7 +232,7 @@
           "timestamp": "45:19"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -261,8 +261,8 @@
           "timestamp": "48:21"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Gemara: Why Different Amounts of Grain (Three vs. Five Se'im)?",
@@ -615,5 +615,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "41:11",
+  "amud_b_micro_title": "Kol Mincha Drasha",
+  "shiur_start_daf": 62,
+  "shiur_start_amud": "b"
 }

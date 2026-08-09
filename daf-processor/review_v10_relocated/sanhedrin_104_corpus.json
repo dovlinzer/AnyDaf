@@ -1,0 +1,379 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Distance/Bring Close",
+    "candidates": [
+      "Michah Food Merit",
+      "Distance/Bring Close",
+      "Ammon Moab"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's teaching in the name of Rabbi Yosei ben Kisma AND his own enumeration of food's powers, which together form the complete teaching that the 'Michah Food Merit' section introduces as the springboard for broader teachings about food's power \u2014 the passage belongs under the introductory heading that sets up the entire teaching, not split across the more specific sub-headings.",
+      "chosen_heading": "Michah Food Merit",
+      "current_heading": "Distance/Bring Close",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Ammon Moab",
+    "candidates": [
+      "Distance/Bring Close",
+      "Ammon Moab",
+      "Yitro Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'distances the near' principle derived from Ammon and Moab, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Ammon Moab",
+      "current_heading": "Ammon Moab",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Yitro Merit",
+    "candidates": [
+      "Yitro Merit",
+      "Divine Blindness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Yitro's reward for hosting Moshe and his descendants sitting in the Chamber of Hewn Stone, which is exactly what the 'Yitro Merit' section's prose describes.",
+      "chosen_heading": "Yitro Merit",
+      "current_heading": "Yitro Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Divine Blindness",
+    "candidates": [
+      "Divine Blindness",
+      "Yehonatan David"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the third and fourth principles (averting eyes from the wicked via Michah, and causing Divine Presence to rest on prophets of Baal via Iddo's colleague), which are precisely what the 'Divine Blindness' section prose describes.",
+      "chosen_heading": "Divine Blindness",
+      "current_heading": "Divine Blindness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Yehonatan David",
+    "candidates": [
+      "Yehonatan David",
+      "Achaz Yotam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Yehonatan David' section, which explicitly discusses Rav Yehuda's teaching in Rav's name about Jonathan failing to give David two loaves of bread and the resulting cascade of tragedies \u2014 exactly the content of the quoted text.",
+      "chosen_heading": "Yehonatan David",
+      "current_heading": "Yehonatan David",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Achaz Yotam",
+    "candidates": [
+      "Achaz Yotam",
+      "Son Father Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Achaz was not listed and the reasons given by Rabbi Yirmeya bar Abba and Rav Yosef, which matches exactly the prose under heading 0 ('Achaz Yotam').",
+      "chosen_heading": "Achaz Yotam",
+      "current_heading": "Achaz Yotam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Son Father Merit",
+    "candidates": [
+      "Son Father Merit",
+      "Amon Yoshiyahu",
+      "Yehoyakim Skull"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the content described in candidate 0's prose: why Amon was not listed, the son-confers-merit-on-father principle, the Abraham/Ishmael and Isaac/Esau examples, and the retroactive application to Ahaz via Hezekiah's merit.",
+      "chosen_heading": "Son Father Merit",
+      "current_heading": "Son Father Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Yehoyakim Skull",
+    "candidates": [
+      "Amon Yoshiyahu",
+      "Yehoyakim Skull",
+      "Arrogance Sign",
+      "Babylon Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together tell the complete story of Jehoiakim's skull \u2014 why he was not enumerated, the inscription 'zot ve-od acheret,' the grandfather's repeated failed burials, and the wife incinerating the skull \u2014 which is precisely what the 'Yehoyakim Skull' prose describes in detail.",
+      "chosen_heading": "Yehoyakim Skull",
+      "current_heading": "Yehoyakim Skull",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Babylon Exile",
+    "candidates": [
+      "Arrogance Sign",
+      "Babylon Exile",
+      "Non-Jews Home",
+      "Vadad Alone"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Arrogance Sign",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the baraita about Rabbi Shimon ben Elazar) covers the chain from 'what is good in Your eyes' \u2192 demanding a sign \u2192 gentiles eating at his table \u2192 exile, which matches heading 0 ('Arrogance Sign') and its prose about arrogance leading to demanding a sign and the chain of consequences, and also directly supports \u1e24izkiyya's teaching which is the subject of heading 2 ('Non-Jews Home') \u2014 but the baraita itself is the content described in heading 0/1's prose about the chain; however heading 1 ('Babylon Exile') explicitly describes this baraita in its prose ('uvishvil ma os... nochrim achlu al shulchano... garam galus le'vanav') making it the current correct placement for item 1.",
+      "second_heading": "Non-Jews Home",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the dispute between Rav, Shmuel, and Rabbi Yo\u1e25anan about 'beit nekhoto') is discussed in heading 2's prose ('Non-Jews Home') which references 'Rava asks: what is Beis Nechoso' and the three views, matching this item's content about what Hezekiah showed the Babylonian emissaries.",
+      "current_heading": "Babylon Exile",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Vadad Alone",
+    "candidates": [
+      "Non-Jews Home",
+      "Vadad Alone",
+      "City Widow"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Vadad Alone",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 cover the eikha/gematria and alef-bet acrostic questions, which candidate 1 ('Vadad Alone') explicitly discusses in its prose before turning to the badad phrase.",
+      "second_heading": "City Widow",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers both the 'yashva vadad' contrast and the 'ir rabati am' population explanation, which candidate 2 ('City Widow') discusses directly in its prose, while candidate 1 also mentions the badad material \u2014 but the 'ir rabati am'/marrying younger to older content is the opening of candidate 2's section.",
+      "current_heading": "Vadad Alone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "City Widow",
+    "candidates": [
+      "City Widow",
+      "Ruler Vassal",
+      "Two Captives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'like a widow but not an actual widow' teaching (Rav Yehuda/Rav) and the 'become princes to their masters' teaching (Rava/Rabbi Yo\u1e25anan), and the 'City Widow' section prose explicitly discusses both of these exact teachings in sequence, making it the correct placement.",
+      "chosen_heading": "City Widow",
+      "current_heading": "City Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Two Captives",
+    "candidates": [
+      "Ruler Vassal",
+      "Two Captives",
+      "Spies Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about the two captives on Mount Carmel, which the 'Two Captives' section prose describes in full detail, including the camel inference, the captor's amazement, and the declaration that Jews become princes to their masters wherever they go.",
+      "chosen_heading": "Two Captives",
+      "current_heading": "Two Captives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Spies Night",
+    "candidates": [
+      "Spies Night",
+      "Husband Youth",
+      "Enemies Head"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items interpret the phrase 'balaylah' from Lamentations 1:2, covering the two destructions, the spies' night/Tisha B'Av connection, and the three alternative explanations with the Rabban Gamliel story \u2014 all of which are explicitly discussed in the 'Spies Night' prose.",
+      "chosen_heading": "Spies Night",
+      "current_heading": "Spies Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Enemies Head",
+    "candidates": [
+      "Husband Youth",
+      "Enemies Head",
+      "Complaint Blessing",
+      "Jerusalem Sodom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the 'tears on her cheek' interpretation (wife weeping for husband of youth) AND the 'adversaries became head' teaching, but since it is a single Talmudic unit and candidate 0 ('Husband Youth') covers the first part while candidate 1 ('Enemies Head') covers the second, the passage as a whole unit actually spans both \u2014 however, looking more carefully, candidate 0's prose explicitly discusses the 'tears/cheek' and 'husband of youth' interpretation matching item 1's first teaching, while candidate 1's prose discusses the 'adversaries became head' content matching item 1's second teaching; since the passage is currently under candidate 1 and contains both teachings, but the first teaching about tears/cheeks belongs under candidate 0, and candidate 0's prose is a clearly better match for the opening content of this passage, the passage should move to candidate 0 where the 'husband of youth' weeping interpretation is discussed.",
+      "chosen_heading": "Husband Youth",
+      "current_heading": "Enemies Head",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Jerusalem Sodom",
+    "candidates": [
+      "Complaint Blessing",
+      "Jerusalem Sodom",
+      "Spies Mouth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Jerusalem-Sodom comparison \u2014 item 1 establishes that Jerusalem's sin was greater than Sodom's (with the fire imagery), and item 2 answers the resulting question about divine favoritism \u2014 exactly the content described in the 'Jerusalem Sodom' prose section.",
+      "chosen_heading": "Jerusalem Sodom",
+      "current_heading": "Jerusalem Sodom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Spies Mouth",
+    "candidates": [
+      "Spies Mouth",
+      "Bread Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the 'Spies Mouth' prose, which covers the coin/invalidation interpretation of 'sillah kol abbirai' and then the peh-ayin inversion explained by Rabbi Yochanan regarding the spies.",
+      "chosen_heading": "Spies Mouth",
+      "current_heading": "Spies Mouth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Bread Judges",
+    "candidates": [
+      "Bread Judges",
+      "Great Assembly",
+      "Shlomo David"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the prose of 'Bread Judges', which discusses the exact same verse, the Rava/Rabbi Yo\u1e25anan teaching about tasting bread, and the Rav/Shmuel dispute about judges and schoolteachers.",
+      "chosen_heading": "Bread Judges",
+      "current_heading": "Bread Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Shlomo David",
+    "candidates": [
+      "Great Assembly",
+      "Shlomo David",
+      "God Final Say"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Ashi's answer (the Great Assembly enumerated them) and the beginning of the Solomon episode, but since it is a single continuous Gemara unit and the opening line about the Great Assembly enumerating them is the primary framing, heading 0 ('Great Assembly') whose prose explicitly addresses 'Rav Ashi answers: Anshei Knesset HaGedolah mana'um' is a slightly better match \u2014 however the current placement under 'Shlomo David' also fits the Solomon content, making this a borderline call with medium confidence.",
+      "chosen_heading": "Great Assembly",
+      "current_heading": "Shlomo David",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Asham Uniqueness",
+    "candidates": [
+      "Debate Setup",
+      "Abaye's Position",
+      "Rava's Distinction",
+      "Asham Uniqueness",
+      "Braita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Rabbi Abba's statement directly articulates Rava's distinction \u2014 that other offerings can become generic voluntary burnt offerings when offered shelo lishma (lo chazi le-olat chova, karvi le-olat nedava), but the asham metzora cannot shed its identity because there is no voluntary asham \u2014 which is precisely what the 'Rava's Distinction' prose describes, not the 'Asham Uniqueness' section which discusses the implications after that distinction is already established.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Asham Uniqueness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Braita Support",
+    "candidates": [
+      "Asham Uniqueness",
+      "Braita Support",
+      "Asham vs. Chatas",
+      "Mishna Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about the asham metzora slaughtered shelo lishmo or without blood applied to the behonot is precisely what the 'Braita Support' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Braita Support",
+      "current_heading": "Braita Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Mishna Intro",
+    "candidates": [
+      "Asham vs. Chatas",
+      "Mishna Intro",
+      "Source Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna about heaped measures, the rule about liquid vs. dry overflows, and the opinions of Rabbi Akiva and Rabbi Yosei \u2014 are precisely the content described in the 'Mishna Intro' prose, which walks through each element of this mishna in detail.",
+      "chosen_heading": "Mishna Intro",
+      "current_heading": "Mishna Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Source Attribution",
+    "candidates": [
+      "Source Attribution",
+      "Single Vessel Theory",
+      "Tanna Kama"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Source Attribution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question about whose view underlies the mishna, which matches exactly the 'Source Attribution' prose describing the mani question and the difficulties with both Rabbi Meir and the Rabbis.",
+      "second_heading": "Single Vessel Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav \u1e24isda's resolution \u2014 le'olam Rabbi Meir, kol middot means kol medidot \u2014 which matches exactly the 'Single Vessel Theory' prose describing Rav Chisda's answer that the mishna follows Rabbi Meir and means all measurings were heaped.",
+      "current_heading": "Source Attribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Tanna Kama",
+    "candidates": [
+      "Single Vessel Theory",
+      "Tanna Kama",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and opening answer about the three-way tannaitic dispute over liquid vs. dry measures, which is precisely what the 'Tanna Kama' prose section describes \u2014 the tanna kama's position that liquid measures were anointed inside and out while dry measures were anointed only on the inside.",
+      "chosen_heading": "Tanna Kama",
+      "current_heading": "Tanna Kama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Rabbi Akiva",
+      "Rabbi Yossi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Akiva's position that liquid measures were anointed inside and outside while dry measures were not anointed at all, which matches exactly the prose under heading 0 ('Rabbi Akiva').",
+      "chosen_heading": "Rabbi Akiva",
+      "current_heading": "Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rabbi Yossi",
+    "candidates": [
+      "Rabbi Yossi",
+      "Intent Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yosei's position that both vessels were anointed only on the inside and explains the displacement reasoning for liquid vs. dry, which matches exactly the prose under heading 0.",
+      "chosen_heading": "Rabbi Yossi",
+      "current_heading": "Rabbi Yossi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Intent Challenge",
+    "candidates": [
+      "Intent Challenge",
+      "Rav Dimi Answer",
+      "Ravina Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the challenge that a person only intends to sanctify what he requires (gavra lemai detzarich ka mechabiv), which is precisely what the 'Intent Challenge' heading describes.",
+      "chosen_heading": "Intent Challenge",
+      "current_heading": "Intent Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ravina Counter",
+    "candidates": [
+      "Rav Dimi Answer",
+      "Ravina Counter",
+      "Lechem Hapanim Refute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Dimi bar Shishna's statement (that service vessels consecrate without intent) and Ravina's counter-response, and the 'Rav Dimi Answer' heading's prose explicitly covers both positions together as part of one unit of discussion, making it the better home \u2014 the current placement under 'Ravina Counter' splits the dialectic unnaturally.",
+      "chosen_heading": "Rav Dimi Answer",
+      "current_heading": "Ravina Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Lechem Hapanim Refute",
+    "candidates": [
+      "Ravina Counter",
+      "Lechem Hapanim Refute",
+      "Rabbi Chiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of Rabbi Zeira's objection from the lechem hapanim mishna and the Gemara's resolution (penimah/chutz), which is precisely what candidate 1 'Lechem Hapanim Refute' describes in its prose.",
+      "chosen_heading": "Lechem Hapanim Refute",
+      "current_heading": "Lechem Hapanim Refute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rabbi Chiya",
+    "candidates": [
+      "Rabbi Chiya",
+      "Rabbi Yochanan",
+      "Contract Model",
+      "Mikdash Advantage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about motar nesachim lekayitz hamizbeach, which is precisely what the prose under 'Rabbi Chiya' discusses as its opening citation and context.",
+      "chosen_heading": "Rabbi Chiya",
+      "current_heading": "Rabbi Chiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Mikdash Advantage",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Contract Model",
+      "Mikdash Advantage",
+      "Kayitz Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Gemara's question about 'motar nesachim' and both Rabbi \u1e24iyya bar Yosef's and Rabbi Yo\u1e25anan's answers, which corresponds to candidate 0 ('Rabbi Yochanan') whose prose explicitly introduces Rabbi Yochanan's disagreement and his reference to the supply contract braita \u2014 the current placement under 'Mikdash Advantage' covers only the conclusion of Rabbi Yochanan's position, while candidate 0 is where the full dispute including both opinions is introduced.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Mikdash Advantage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Kayitz Definition",
+    "candidates": [
+      "Mikdash Advantage",
+      "Kayitz Definition",
+      "Nesachim Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Kayitz Definition' explicitly describes the Gemara citing braisos supporting both Rabbi Chiya bar Yosef and Rabbi Yochanan, discusses the beyotzei middas/beirutz content of the first braita including linah disqualification, and mentions makiytzin bahen es hamizbeach \u2014 all of which precisely matches all three items in this passage.",
+      "chosen_heading": "Kayitz Definition",
+      "current_heading": "Kayitz Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Nesachim Inclusion",
+    "candidates": [
+      "Nesachim Inclusion",
+      "Metzora Exception",
+      "Pesuk Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents the full rule about nesachim requirements \u2014 the general obligation, the list of exceptions, and the metzora exception \u2014 and the 'Nesachim Inclusion' prose directly introduces and explains this entire mishna as a unit, making it the correct placement.",
+      "chosen_heading": "Nesachim Inclusion",
+      "current_heading": "Nesachim Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Pesuk Derivation",
+    "candidates": [
+      "Metzora Exception",
+      "Pesuk Derivation",
+      "Vow Capability",
+      "Free-Will Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita that derives the libation rules from the pesukim in Shelach, which is precisely what candidate 1 ('Pesuk Derivation') describes in its prose \u2014 working through the derivation systematically from 'isheh' through 'olah,' 'zevach,' 'o zevach,' and finally 'l'fale neder o vindavah.'",
+      "chosen_heading": "Pesuk Derivation",
+      "current_heading": "Pesuk Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Free-Will Limit",
+    "candidates": [
+      "Vow Capability",
+      "Free-Will Limit",
+      "Ben Bakar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the olas re'iyah and shalmei chagiga (obligatory festival offerings) and their requirement for nesachim via 'o be-moadeichem,' which is precisely what the 'Free-Will Limit' prose describes, including the exclusion of goat sin offerings via 'ben bakar' as a boundary case still within that same discussion.",
+      "chosen_heading": "Free-Will Limit",
+      "current_heading": "Free-Will Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Ben Bakar",
+    "candidates": [
+      "Ben Bakar",
+      "Rabbi Yonasan",
+      "Vav Resolution"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Ben Bakar",
+      "current_heading": "Ben Bakar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Vav Resolution",
+    "candidates": [
+      "Rabbi Yonasan",
+      "Vav Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yonatan's initial point (eino tzarich/zevach argument) AND the vav/o resolution question, but the bulk of the content \u2014 the mi yachol/talmud lomar explanation of o min habakar \u2014 matches the 'Vav Resolution' prose perfectly, and the current placement is correct.",
+      "chosen_heading": "Vav Resolution",
+      "current_heading": "Vav Resolution",
+      "moved": false
+    }
+  }
+]

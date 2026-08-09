@@ -1,0 +1,432 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Slipper Invalidity",
+    "candidates": [
+      "Slipper Invalidity",
+      "Slipper Not a Shoe",
+      "Shekalim Parallel",
+      "Temple Shoe Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the inference that 'an anpileya is not considered a shoe,' which is exactly what candidate 1's prose describes as the Gemara's inference setting up the broader discussion.",
+      "chosen_heading": "Slipper Not a Shoe",
+      "current_heading": "Slipper Invalidity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Temple Shoe Distinctions",
+    "candidates": [
+      "Slipper Not a Shoe",
+      "Shekalim Parallel",
+      "Temple Shoe Distinctions",
+      "YK Braita",
+      "Abaye: Pleasure",
+      "Rava Rejects",
+      "Bar Chana Example",
+      "Rava's Solution",
+      "Modern Shoes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous chain \u2014 the Shekalim mishna citation (item 1), the Yom Kippur baraita contradiction (item 2), and the Abaye/Rava resolution (item 3) \u2014 and candidate 1 ('Shekalim Parallel') is the section whose prose introduces this exact sequence starting from the Shekalim citation, whereas the current placement (index 2) is actually the prose that describes only the Temple shoe distinctions aspect, and candidates 3\u20137 each cover only sub-portions of the passage rather than its opening anchor.",
+      "chosen_heading": "Shekalim Parallel",
+      "current_heading": "Temple Shoe Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Modern Shoes",
+    "candidates": [
+      "YK Braita",
+      "Abaye: Pleasure",
+      "Rava Rejects",
+      "Bar Chana Example",
+      "Rava's Solution",
+      "Modern Shoes",
+      "Rashi: No Protection",
+      "Form or Function?",
+      "Torn & Broken",
+      "Cork & Fiber",
+      "Prosthetic Shoe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rava's resolution that the contradiction between two Yom Kippur sources is resolved by distinguishing leather vs. cloth anpileya \u2014 this is precisely what the 'Rava's Solution' prose describes (kan be'anpileya shel or, kan be'anpileya shel beged).",
+      "chosen_heading": "Rava's Solution",
+      "current_heading": "Modern Shoes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Prosthetic Shoe",
+    "candidates": [
+      "Rashi: No Protection",
+      "Form or Function?",
+      "Torn & Broken",
+      "Cork & Fiber",
+      "Prosthetic Shoe",
+      "Invalid Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita that enumerates valid and invalid chalitza cases (torn shoe, broken sandal, cork, fiber, prosthetic, felt, anpilaya, blind yavam, minor, etc.), which is precisely what candidate 2 ('Torn & Broken') introduces as 'the braita enumerating cases of chalitza that are valid' \u2014 the current placement under 'Prosthetic Shoe' (index 4) picks up mid-baraita, but the whole baraita including items 1\u20133 belongs under the heading that introduces the braita itself.",
+      "chosen_heading": "Torn & Broken",
+      "current_heading": "Prosthetic Shoe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Invalid Cases",
+    "candidates": [
+      "Prosthetic Shoe",
+      "Invalid Cases",
+      "Abaye: All Leather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's question about how Rabbi Meir can be the tanna of the baraita when the end of the baraita (the anpileya of cloth case) seems to follow the Rabbanan \u2014 which is precisely the tension that heading 2 ('Abaye: All Leather') addresses in its prose.",
+      "chosen_heading": "Abaye: All Leather",
+      "current_heading": "Invalid Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Abaye: All Leather",
+    "candidates": [
+      "Invalid Cases",
+      "Abaye: All Leather",
+      "Rava: Functional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement that since the latter clause follows the Rabbanan, the first clause also follows the Rabbanan, and the prosthetic must be leather-covered \u2014 exactly what the 'Abaye: All Leather' section describes.",
+      "chosen_heading": "Abaye: All Leather",
+      "current_heading": "Abaye: All Leather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rava: Functional",
+    "candidates": [
+      "Rava: Functional",
+      "Protective Function",
+      "Planted Feet",
+      "Position Flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's challenge to Abaye and his alternative resolution (mide-reisha Rabbi Meir / hai magein ve-hai lo magein), which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rava: Functional",
+      "current_heading": "Rava: Functional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Position Flexibility",
+    "candidates": [
+      "Protective Function",
+      "Planted Feet",
+      "Position Flexibility",
+      "Foot Disability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 is Ameimar's ruling that the yavam must press his foot to the ground, and Item 2 is Rav Ashi's challenge and Ameimar's resolution \u2014 both belong under 'Planted Feet,' which describes exactly this requirement, while 'Position Flexibility' is the prose that discusses Rav Ashi's challenge and Ameimar's response (i.e., the current placement has the passage one heading too late).",
+      "chosen_heading": "Planted Feet",
+      "current_heading": "Position Flexibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Foot Disability",
+    "candidates": [
+      "Position Flexibility",
+      "Foot Disability",
+      "Support Objects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Support Objects",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Ameimar's ruling about the clubfooted person and Rav Ashi's challenge from the baraita about leg supports, which is precisely what candidate 2 ('Support Objects') discusses \u2014 the clarification that smichat haraglayim is valid only when used by a person with normal feet, not the disabled person himself.",
+      "second_heading": "Foot Disability",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's application of Ameimar's ruling to bar Uva and bar Kipof, which candidate 1 ('Foot Disability') explicitly discusses as the famous eulogizers rendered lame by Rav Ashi who cannot perform chalitza.",
+      "current_heading": "Foot Disability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Support Objects",
+    "candidates": [
+      "Support Objects",
+      "Rashi: Shok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly concerns the mishna's ruling about amputation from the knee down and raises the contradiction from a baraita about regalim/prostheses, which is precisely what the 'Rashi: Shok' prose section discusses \u2014 the Mishnah's ruling on below-the-knee amputation and how the prosthetic relates to the concept of regel/shok.",
+      "chosen_heading": "Rashi: Shok",
+      "current_heading": "Support Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rashi: Shok",
+    "candidates": [
+      "Rashi: Shok",
+      "Tosafot View",
+      "Above Knee",
+      "Regel Definition",
+      "Euphemistic Usage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's exegesis of 'me'al raglo' to determine the upper limit of valid chalitza (below knee but not above), which is precisely what the 'Regel Definition' prose describes as the foundational linguistic question about whether regel means foot or leg and how the knee becomes the outer limit.",
+      "chosen_heading": "Regel Definition",
+      "current_heading": "Rashi: Shok",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Euphemistic Usage",
+    "candidates": [
+      "Tosafot View",
+      "Above Knee",
+      "Regel Definition",
+      "Euphemistic Usage",
+      "Foot Conclusion",
+      "Seven Times",
+      "Pleasure Problem",
+      "Zuhama Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are part of the Gemara's linguistic investigation of whether 'regel' means foot or leg \u2014 Rav Kahana's challenge from 'bein ragleha,' Abaye's response, and then the series of euphemism proofs \u2014 which corresponds exactly to the 'Regel Definition' section's prose describing Rav Kahana's challenge and the subsequent discussion, not the 'Euphemistic Usage' section which describes Abaye's answer and the euphemism cases as if they are already resolved.",
+      "chosen_heading": "Regel Definition",
+      "current_heading": "Euphemistic Usage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Zuhama Solution",
+    "candidates": [
+      "Foot Conclusion",
+      "Seven Times",
+      "Pleasure Problem",
+      "Zuhama Solution",
+      "Theology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of the 'pleasure problem' discussion: Rabbi Yochanan's statement about seven acts raises the question of Yael deriving pleasure from transgression, then the answer that benefit to the wicked is harm to the righteous, then the Gemara's probing of that answer \u2014 all squarely matching the 'Pleasure Problem' heading's prose about the moral difficulty of Yael deriving pleasure and the challenge to her heroism.",
+      "chosen_heading": "Pleasure Problem",
+      "current_heading": "Zuhama Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Theology",
+    "candidates": [
+      "Zuhama Solution",
+      "Theology",
+      "Fit Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly answers the Gemara's question about why Sisera's relations caused Yael harm by introducing the concept of zuhama, which is precisely what candidate 0's prose describes as the Gemara's answer ('de-ka shadei bah zuhama'), whereas candidate 1's prose already presupposes this passage and discusses its theological implications separately.",
+      "chosen_heading": "Zuhama Solution",
+      "current_heading": "Theology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Fit Requirement",
+    "candidates": [
+      "Fit Requirement",
+      "Borrowed Allowed",
+      "Shoe Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly derives that 'na'al mikol makom' \u2014 a shoe from any source \u2014 is valid, which corresponds directly to the 'Borrowed Allowed' section's prose about the repetition of 'na'al' teaching that even a borrowed shoe is valid.",
+      "chosen_heading": "Borrowed Allowed",
+      "current_heading": "Fit Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Shoe Exclusions",
+    "candidates": [
+      "Borrowed Allowed",
+      "Shoe Exclusions",
+      "Abaye Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the exclusions derived from 'na'alo hara'ui lo' \u2014 shoes too large, too small, and heelless sandals \u2014 which is precisely what the 'Shoe Exclusions' prose describes.",
+      "chosen_heading": "Shoe Exclusions",
+      "current_heading": "Shoe Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Abaye Story",
+    "candidates": [
+      "Abaye Story",
+      "Transfer Rule",
+      "Wooden Sandals"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Abaye/Rav Yosef exchange about the left sandal and the lechatchila/b'dieved challenge, which matches the 'Abaye Story' prose exactly.",
+      "second_heading": "Transfer Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Yosef's clarification about transferring ownership ('hav lei v'aknei lei'), which matches the 'Transfer Rule' prose exactly.",
+      "current_heading": "Abaye Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Wooden Sandals",
+    "candidates": [
+      "Transfer Rule",
+      "Wooden Sandals",
+      "Shmuel: Covered",
+      "Tzara'at Issue",
+      "Rav Papa Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly who is the tanna permitting wooden sandals (Shmuel attributing it to Rabbi Meir via the prosthetic mishna) and the father of Shmuel's alternative reading of leather-covered wood, which is precisely what the 'Wooden Sandals' section's prose describes.",
+      "chosen_heading": "Wooden Sandals",
+      "current_heading": "Wooden Sandals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Rav Papa Strict",
+    "candidates": [
+      "Shmuel: Covered",
+      "Tzara'at Issue",
+      "Rav Papa Strict",
+      "Lenient View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Pappi/Rava ruling distinguishing musgar from muchlat sandals, which is precisely what the 'Tzara'at Issue' prose introduces, while the current placement under 'Rav Papa Strict' describes analysis of the ruling's reasoning rather than the ruling itself.",
+      "chosen_heading": "Tzara'at Issue",
+      "current_heading": "Rav Papa Strict",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Access Rights Debate",
+    "candidates": [
+      "Excluded Items",
+      "Access Rights Debate",
+      "Well Sold, Field Retained",
+      "Bein Rah Principle",
+      "Gift Inclusion",
+      "Complete Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover exactly the content described in the 'Access Rights Debate' prose: the Mishna's ruling about the seller needing to purchase a path (Rabbi Akiva vs. Rabbis), Rabbi Akiva's concession when 'chutz me'eilu' is used, and the mirror case of selling the items to another \u2014 all of which are explicitly discussed in candidate 1's prose.",
+      "chosen_heading": "Access Rights Debate",
+      "current_heading": "Access Rights Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Complete Separation",
+    "candidates": [
+      "Well Sold, Field Retained",
+      "Bein Rah Principle",
+      "Gift Inclusion",
+      "Complete Separation",
+      "Why Different",
+      "Chazaka Possession",
+      "Chazaka vs. Sales",
+      "Rashbam's Explanation",
+      "Consecration Scope",
+      "Rav Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with 'bameh devarim amurim bemocher' (the sale restriction) then covers gift-giving, brothers dividing, and chazakah on a convert's estate \u2014 exactly what candidate 1 ('Bein Rah Principle') introduces as delimiting where the sale rules apply versus gifts and other transfers.",
+      "chosen_heading": "Bein Rah Principle",
+      "current_heading": "Complete Separation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Shimon Position",
+    "candidates": [
+      "Why Different",
+      "Chazaka Possession",
+      "Chazaka vs. Sales",
+      "Rashbam's Explanation",
+      "Consecration Scope",
+      "Rav Shimon Position",
+      "Yehuda's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage states the Mishnaic rule that consecrating a field consecrates all of it and then gives Rabbi Shimon's dissent \u2014 this is precisely the content described in heading 4 ('Consecration Scope'), which introduces hamakdish et hasadeh hikdish et kulah, whereas heading 5 ('Rav Shimon Position') is prose commentary about Rabbi Shimon's position that should follow the quoted text, not precede it.",
+      "chosen_heading": "Consecration Scope",
+      "current_heading": "Rav Shimon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Yehuda's Explanation",
+    "candidates": [
+      "Rav Shimon Position",
+      "Yehuda's Explanation",
+      "Silence Principle",
+      "Generosity & Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about the distinction between sale and gift and Yehuda ben Nekosa's explanation ('zeh peiresh vezeh lo peiresh'), which is precisely what the prose under 'Yehuda's Explanation' discusses.",
+      "chosen_heading": "Yehuda's Explanation",
+      "current_heading": "Yehuda's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Generosity & Silence",
+    "candidates": [
+      "Silence Principle",
+      "Generosity & Silence",
+      "Barrel Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's correction \u2014 rejecting 'this one specified and that one did not' in favor of 'this one should have specified and that one should not have specified' \u2014 which is precisely what the 'Silence Principle' prose is explaining and quoting.",
+      "chosen_heading": "Silence Principle",
+      "current_heading": "Generosity & Silence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Barrel Capacity",
+    "candidates": [
+      "Generosity & Silence",
+      "Barrel Capacity",
+      "Generous Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the case of the house containing 100 vs 120 barrels and Mar Zutra's initial ruling, which is precisely what the 'Barrel Capacity' section's prose describes as its content.",
+      "chosen_heading": "Barrel Capacity",
+      "current_heading": "Barrel Capacity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Generous Interpretation",
+    "candidates": [
+      "Generous Interpretation",
+      "Gift Annulment",
+      "Trees Retained",
+      "Nutrients Principle",
+      "Wells vs. Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's argument from the mishna about generous gift interpretation, which is precisely what the 'Generous Interpretation' section's prose discusses in detail.",
+      "chosen_heading": "Generous Interpretation",
+      "current_heading": "Generous Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Wells vs. Trees",
+    "candidates": [
+      "Gift Annulment",
+      "Trees Retained",
+      "Nutrients Principle",
+      "Wells vs. Trees",
+      "Me'ilah Avoidance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Huna's core ruling about retaining trees while selling land \u2014 exactly the asymmetry between buying trees (no land acquired) versus retaining trees when selling (land rights retained) \u2014 which is precisely what the 'Trees Retained' prose section describes, whereas the current placement under 'Wells vs. Trees' covers the downstream contrast/elaboration rather than the initial statement of Rav Huna's principle.",
+      "chosen_heading": "Trees Retained",
+      "current_heading": "Wells vs. Trees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Me'ilah Avoidance",
+    "candidates": [
+      "Wells vs. Trees",
+      "Me'ilah Avoidance",
+      "Retaining Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge asking why the consecrator cannot retain the trees (with Rav Huna's land-rights reasoning solving the me'ilah problem), which is precisely what the 'Retaining Tree' section's prose describes as the sharp challenge to Rabbi Shimon's reasoning.",
+      "chosen_heading": "Retaining Tree",
+      "current_heading": "Me'ilah Avoidance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Retaining Tree",
+    "candidates": [
+      "Retaining Tree",
+      "Rabbi Akiva Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expresses the challenge that if the consecrator retains the tree and (per Rav Huna) the surrounding land rights, the tree draws nutrients from its own retained soil \u2014 which is precisely the objection the prose under 'Retaining Tree' describes the Gemara raising.",
+      "chosen_heading": "Retaining Tree",
+      "current_heading": "Retaining Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rabbi Akiva Model",
+    "candidates": [
+      "Rabbi Akiva Model",
+      "Land Rights Chiddush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains that Rabbi Shimon follows Rabbi Akiva's principle and Rav Huna follows the Rabbanan, which is precisely what the 'Rabbi Akiva Model' prose section discusses in detail.",
+      "chosen_heading": "Rabbi Akiva Model",
+      "current_heading": "Rabbi Akiva Model",
+      "moved": false
+    }
+  }
+]

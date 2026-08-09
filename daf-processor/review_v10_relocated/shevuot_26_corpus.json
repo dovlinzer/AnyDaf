@@ -1,0 +1,493 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Braisa on Oaths",
+    "candidates": [
+      "Intro to Daf 26",
+      "Lehara/Leheitiv",
+      "Shvuas Sheker",
+      "Rav/Shmuel Debate",
+      "Braisa on Oaths",
+      "Akiva's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains exactly the tannaitic dispute and baraita hermeneutics described in candidate 4's prose \u2014 Rabbi Yishmael's future-only position, Rabbi Akiva's inclusion of past oaths via the final inclusive phrase, and Rabbi Akiva's rejoinder catching Rabbi Yishmael's inconsistency with ribui \u2014 matching the current placement precisely.",
+      "chosen_heading": "Braisa on Oaths",
+      "current_heading": "Braisa on Oaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Akiva's Critique",
+    "candidates": [
+      "Akiva's Critique",
+      "Hermeneutics Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Akiva's critique of Rabbi Yishmael and why it was well-founded, matching the 'Akiva's Critique' section's prose about the internal inconsistency Rabbi Akiva exposed in Rabbi Yishmael's hermeneutical approach.",
+      "chosen_heading": "Akiva's Critique",
+      "current_heading": "Akiva's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Hermeneutics Methods",
+    "candidates": [
+      "Hermeneutics Methods",
+      "Three Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yochanan's explanation of how Rabbi Yishmael inherited klal u-ferat from Rabbi Nechunya ben HaKana and Rabbi Akiva inherited ribui u-miyut from Nachum Ish Gamzu, which is precisely what the 'Hermeneutics Methods' prose section discusses.",
+      "chosen_heading": "Hermeneutics Methods",
+      "current_heading": "Hermeneutics Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Three Stages",
+    "candidates": [
+      "Three Stages",
+      "Ribui vs. Klal",
+      "Dvar Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita demonstrating Rabbi Akiva's ribui u-miyut methodology with the three-stage inclusion-exclusion-inclusion pattern, which is precisely what the 'Three Stages' prose describes and analyzes.",
+      "chosen_heading": "Three Stages",
+      "current_heading": "Three Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Dvar Mitzvah",
+    "candidates": [
+      "Ribui vs. Klal",
+      "Dvar Mitzvah",
+      "Structure of Klal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that the ribui amplifies all matters and the miyut excludes 'dvar mitzvah,' which is precisely what the 'Dvar Mitzvah' section's prose discusses as the single excluded category under ribui u-miyut u-ribui.",
+      "chosen_heading": "Dvar Mitzvah",
+      "current_heading": "Dvar Mitzvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Structure of Klal",
+    "candidates": [
+      "Structure of Klal",
+      "Yitzchak's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Rabbi Yishmael's klal-prat-klal analysis and the immediate challenge about reversing the roles of generalization and detail, which is exactly what the 'Structure of Klal' prose describes \u2014 the contribution of the two klalim and the prat in determining future-orientation as the operative criterion.",
+      "chosen_heading": "Structure of Klal",
+      "current_heading": "Structure of Klal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Yitzchak's Reason",
+    "candidates": [
+      "Yitzchak's Reason",
+      "Dimi bar Avin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yitzchak's statement about bal yachel devaro vs. bal tishakeru, which is precisely what the prose under heading 0 ('Yitzchak's Reason') explains in detail.",
+      "chosen_heading": "Yitzchak's Reason",
+      "current_heading": "Yitzchak's Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Dimi bar Avin",
+    "candidates": [
+      "Dimi bar Avin",
+      "Ha'adam Bishvua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is attributed to Rav Yitz\u1e25ak bar Avin (not Rav Dimi bar Avin, but the content is identical in structure and argument to what the prose under heading 0 describes \u2014 the oath must precede the action, excluding 'I ate/I did not eat'), and the prose under heading 0 directly describes this very argument about the oath preceding the action (*shvua kodemet le-vituy*), making it the correct home despite the name discrepancy in the heading.",
+      "chosen_heading": "Dimi bar Avin",
+      "current_heading": "Dimi bar Avin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Ha'adam Bishvua",
+    "candidates": [
+      "Ha'adam Bishvua",
+      "Kahana & Assi Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ha'adam Bishvua",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the baraita itself deriving exclusions from the verse, which is precisely what heading 0 ('Ha'adam Bishvua') discusses \u2014 the derivations of prat le-oness, prat le-meizid, and he'elam shvua vs. he'elam chefetz.",
+      "second_heading": "Kahana & Assi Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens the Gemara's question 'what are such circumstances?' of oness, which launches the discussion of Rav Kahana and Rav Assi's case that heading 1 ('Kahana & Assi Case') is entirely devoted to.",
+      "current_heading": "Ha'adam Bishvua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Kahana & Assi Case",
+    "candidates": [
+      "Kahana & Assi Case",
+      "Full Awareness",
+      "Forgetting Oath",
+      "Eretz Yisrael View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rav Kahana and Rav Asi story \u2014 one swearing falsely due to sincere mistake and Rav's response 'libcha ansach' \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Kahana & Assi Case",
+      "current_heading": "Kahana & Assi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Eretz Yisrael View",
+    "candidates": [
+      "Full Awareness",
+      "Forgetting Oath",
+      "Eretz Yisrael View",
+      "Yosef's Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita's distinction between he-elam shvua and he-elam chefetz (Item 1), then presents the Eretz Yisrael challenge and Rabbi Elazar's conclusion (Items 2-4), all of which are explicitly described in the 'Forgetting Oath' prose, which introduces the baraita's distinction and its terms \u2014 the current placement under 'Eretz Yisrael View' captures only part of the passage, while 'Forgetting Oath' covers the full arc including the baraita, the challenge, and the collapse of the distinction.",
+      "chosen_heading": "Forgetting Oath",
+      "current_heading": "Eretz Yisrael View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Yosef's Example",
+    "candidates": [
+      "Eretz Yisrael View",
+      "Yosef's Example",
+      "Ashi's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's specific challenge and example (swearing not to eat wheat bread, reaching for barley, accidentally eating wheat), which is precisely what the 'Yosef's Example' section's prose describes.",
+      "chosen_heading": "Yosef's Example",
+      "current_heading": "Yosef's Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Ashi's Resolution",
+    "candidates": [
+      "Ashi's Resolution",
+      "Ravina's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 Abaye's challenge to Rav Yosef (items 1-2), Rav Yosef's response (item 3), Rava and Rav Na\u1e25man's exchange (item 4), and Rav Ashi's resolution (item 5) \u2014 are discussed together in the 'Ashi's Resolution' prose, which covers exactly this chain of dispute and resolution about he-elam shvua vs. he-elam chefetz.",
+      "chosen_heading": "Ashi's Resolution",
+      "current_heading": "Ashi's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Ravina's Challenge",
+    "candidates": [
+      "Ravina's Challenge",
+      "Rava's Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's challenge to Rav Ashi concluding with 'lo shna,' which is precisely what the prose under 'Ravina's Challenge' describes.",
+      "chosen_heading": "Ravina's Challenge",
+      "current_heading": "Ravina's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Rava's Q",
+    "candidates": [
+      "Rava's Q",
+      "Not Knowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's question to Rav Nachman about what constitutes shogeg in a past-oriented shvuat bituy, which is precisely what heading 0 ('Rava's Q') describes in its prose.",
+      "chosen_heading": "Rava's Q",
+      "current_heading": "Rava's Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Not Knowing",
+    "candidates": [
+      "Not Knowing",
+      "Munbaz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Na\u1e25man's direct answer about knowing the oath is forbidden but not knowing whether a korban is required, which is precisely what heading 0's prose explicates in detail.",
+      "chosen_heading": "Not Knowing",
+      "current_heading": "Not Knowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Munbaz",
+    "candidates": [
+      "Munbaz",
+      "Life at Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Munbaz dispute and the Rabbis' concession in the specific case of oaths, which is precisely what the 'Munbaz' section prose describes.",
+      "chosen_heading": "Munbaz",
+      "current_heading": "Munbaz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Life at Risk",
+    "candidates": [
+      "Life at Risk",
+      "Desire Case",
+      "Rashi View",
+      "Would Violate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Life at Risk",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the initial question about life-endangerment (mistakana), which heading 0 'Life at Risk' directly discusses \u2014 the oath on a loaf and the pikuach nefesh scenario.",
+      "second_heading": "Desire Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 pivots to the real question about suffering/desire (mitztayer) and shogeg eating, which is precisely what heading 1 'Desire Case' discusses \u2014 the reformulated question about one in anguish who forgot his oath.",
+      "current_heading": "Life at Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Would Violate",
+    "candidates": [
+      "Desire Case",
+      "Rashi View",
+      "Would Violate",
+      "Tosafot View",
+      "Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about 'shav mi-yedi-ah' bringing a korban versus 'lo shav mi-yedi-ah' not bringing one, which is precisely what the 'Would Violate' section's prose explains and analyzes.",
+      "chosen_heading": "Would Violate",
+      "current_heading": "Would Violate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Shmuel",
+    "candidates": [
+      "Tosafot View",
+      "Shmuel",
+      "Bituy Contradiction",
+      "Sheshet Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Shmuel's ruling that verbalization is required and the initial braita objection to it, which is precisely what the 'Shmuel' section's prose describes.",
+      "chosen_heading": "Shmuel",
+      "current_heading": "Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Sheshet Resolution",
+    "candidates": [
+      "Bituy Contradiction",
+      "Sheshet Resolution",
+      "Motza Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Sheshet Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the internal baraita contradiction and Rav Sheshet's resolutions (including the wheat/barley case and the challenge to Shmuel), which is precisely what the 'Sheshet Resolution' prose describes.",
+      "second_heading": "Motza Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 present the objection from 'motza sefatecha' and the answer about nediv lev/Tabernacle donations, which is exactly what the 'Motza Challenge' prose describes.",
+      "current_heading": "Sheshet Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Motza Challenge",
+    "candidates": [
+      "Motza Challenge",
+      "Two Verses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The phrase 'And let us learn from it' is the Gemara's attempt to derive a general rule from the exceptional cases, which is precisely what the 'Two Verses Rule' section addresses \u2014 explaining why we cannot learn a general rule from those two verses (shnei ketuvim ha-ba-im ke-echad ein melamdin).",
+      "chosen_heading": "Two Verses Rule",
+      "current_heading": "Motza Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Two Verses Rule",
+    "candidates": [
+      "Two Verses Rule",
+      "Donation Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the shnei ketuvim rejection, the challenge for those who say two verses do teach, and the chullin mi-kodashim answer \u2014 are part of the same continuous dialectic about the Two Verses Rule and belong under that heading, whose prose explicitly discusses both the shnei ketuvim principle and the chullin mi-kodashim resolution.",
+      "chosen_heading": "Two Verses Rule",
+      "current_heading": "Two Verses Rule",
+      "moved": false
+    }
+  }
+]

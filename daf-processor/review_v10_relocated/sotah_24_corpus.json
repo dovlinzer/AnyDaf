@@ -1,0 +1,293 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Cannot Drink/Ktuba",
+    "candidates": [
+      "New Perek Overview",
+      "Arusa Definition",
+      "Shomeret Yavam",
+      "Cannot Drink/Ktuba",
+      "Rashi-Tosafot Dispute",
+      "Textual Derivation",
+      "Widow/Divorcee Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah text directly states the rule about arusa and shomeret yavam not drinking and not collecting their ktuba, which is the opening statement that section 1 ('Arusa Definition') introduces and explains, before the subsequent sections analyze the reasoning and derivation.",
+      "chosen_heading": "Arusa Definition",
+      "current_heading": "Cannot Drink/Ktuba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Widow/Divorcee Cases",
+    "candidates": [
+      "Rashi-Tosafot Dispute",
+      "Textual Derivation",
+      "Widow/Divorcee Cases",
+      "Mamzer/Netin Cases",
+      "Cannot Drink Rule",
+      "Confession/Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah listing the prohibited-marriage cases (widow/High Priest, divorc\u00e9e/\u1e25alutza/common priest, mamzeret, netina, Jewish woman to mamzer/netin), which is precisely what the 'Widow/Divorcee Cases' prose describes as the Mishnah's enumeration of marriages violating a negative prohibition.",
+      "chosen_heading": "Widow/Divorcee Cases",
+      "current_heading": "Widow/Divorcee Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Confession/Witnesses",
+    "candidates": [
+      "Mamzer/Netin Cases",
+      "Cannot Drink Rule",
+      "Confession/Witnesses",
+      "Woman Refuses",
+      "Husband Default"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists the three cases of confession, witnesses, and refusal to drink \u2014 but the Mishnah text itself combines all three in one statement, and the current heading 'Confession/Witnesses' with its prose about the process breaking down due to evidence or refusal is the best match, as it introduces this exact Mishnah.",
+      "chosen_heading": "Confession/Witnesses",
+      "current_heading": "Confession/Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Husband Default",
+    "candidates": [
+      "Woman Refuses",
+      "Husband Default",
+      "Husband Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the two cases where the husband is at fault \u2014 husband refusing to make her drink and husband having relations with her on the way \u2014 matching exactly the 'Husband Default' prose discussion of eini mashkeh and the husband's relations rendering the process ineffective.",
+      "chosen_heading": "Husband Default",
+      "current_heading": "Husband Default",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Husband Dies",
+    "candidates": [
+      "Husband Dies",
+      "Nursing/Pregnant Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Beit Shammai/Beit Hillel dispute about a husband dying before the sota drinks, which is precisely what the 'Husband Dies' section prose discusses.",
+      "chosen_heading": "Husband Dies",
+      "current_heading": "Husband Dies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Nursing/Pregnant Women",
+    "candidates": [
+      "Nursing/Pregnant Women",
+      "Meir vs Sages",
+      "Infertile Categories",
+      "Cannot Drink/Ktuba",
+      "Rabbi Eliezer View",
+      "Arayot Cases",
+      "Minor/Non-Man",
+      "Cases for Intervention",
+      "First Opinion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meir vs Sages",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the pregnant/nursing woman case with Rabbi Meir vs. Sages dispute, which matches heading 1 ('Meir vs Sages') whose prose explicitly discusses Rabbi Meir applying the prohibited-marriage principle and the Sages distinguishing this case on the ground that no divorce is required.",
+      "second_heading": "Infertile Categories",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the entirely new case of aylonit, elderly woman, and infertile woman with Rabbi Elazar's view, which matches heading 2 ('Infertile Categories') whose prose explicitly discusses these exact three categories and the question of why infertility affects the sotah process.",
+      "current_heading": "Nursing/Pregnant Women",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "First Opinion",
+    "candidates": [
+      "Meir vs Sages",
+      "Infertile Categories",
+      "Cannot Drink/Ktuba",
+      "Rabbi Eliezer View",
+      "Arayot Cases",
+      "Minor/Non-Man",
+      "Cases for Intervention",
+      "First Opinion",
+      "Rabbi Yosi",
+      "Philosophy/Analysis",
+      "Gemara Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cannot Drink/Ktuba",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a concluding statement about women who drink or don't, fitting the 'Cannot Drink/Ktuba' summary section, while Items 2-3 begin new Mishnaic material about arayot warnings and beit din intervention.",
+      "second_heading": "Cases for Intervention",
+      "second_confidence": "medium",
+      "second_reason": "Items 2-3 together introduce the new Mishnaic topics of kinui for arayot and beit din issuing kinui for incapacitated husbands, which matches the 'Cases for Intervention' prose describing beit din stepping in when husbands cannot act.",
+      "current_heading": "First Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Gemara Question",
+    "candidates": [
+      "Rabbi Yosi",
+      "Philosophy/Analysis",
+      "Gemara Question",
+      "Yoshiya vs Yonatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's derivation that kinui applies to arusa and shomeret yavam even though they cannot drink, citing the baraita on the doubled language of 'speak and say' \u2014 exactly what the 'Gemara Question' prose describes.",
+      "chosen_heading": "Gemara Question",
+      "current_heading": "Gemara Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Yoshiya vs Yonatan",
+    "candidates": [
+      "Yoshiya vs Yonatan",
+      "Conceptual Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita recording the debate between Rabbi Yoshiya and Rabbi Yonatan about excluding arusa vs. shomeret yavam from sotah, which is exactly what the 'Yoshiya vs Yonatan' section's prose describes.",
+      "chosen_heading": "Yoshiya vs Yonatan",
+      "current_heading": "Yoshiya vs Yonatan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Conceptual Debate",
+    "candidates": [
+      "Conceptual Debate",
+      "Baraita Rule",
+      "Zera Concern",
+      "Arusa Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the conceptual debate between Rabbi Yonatan and Rabbi Yoshiya about whether the arusa or shomeret yavam bond is stronger, and what each sage does with the extra textual phrases \u2014 exactly the content described in the 'Conceptual Debate' prose.",
+      "chosen_heading": "Conceptual Debate",
+      "current_heading": "Conceptual Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Arusa Case",
+    "candidates": [
+      "Baraita Rule",
+      "Zera Concern",
+      "Arusa Case",
+      "Challenge",
+      "Rav's View",
+      "Shmuel's View",
+      "Resolution",
+      "Final Reconciliation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita brought by Rabbi Acha bar Chanina establishing the consummation-precedes-paramour rule, which is exactly what the 'Baraita Rule' prose discusses.",
+      "second_heading": "Arusa Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 address Rami bar Chama's resolution for the arusa case and the subsequent challenge about the shomeret yavam, which matches precisely the 'Arusa Case' prose discussing Rami bar Chama's answer and the parallel yavam question.",
+      "current_heading": "Arusa Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Final Reconciliation",
+    "candidates": [
+      "Challenge",
+      "Rav's View",
+      "Shmuel's View",
+      "Resolution",
+      "Final Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's rejection of the simple Rav=Rabbi Yoshiya / Shmuel=Rabbi Yonatan alignment, with each Amora claiming he can hold even like the opposing Tanna \u2014 which is precisely what the 'Final Reconciliation' prose describes in detail.",
+      "chosen_heading": "Final Reconciliation",
+      "current_heading": "Final Reconciliation",
+      "moved": false
+    }
+  }
+]

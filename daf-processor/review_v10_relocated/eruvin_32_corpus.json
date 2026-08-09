@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rav Nachman: Hazakah",
+    "candidates": [
+      "Shaliach Principle Intro",
+      "Rav Nachman: Hazakah",
+      "Rav Sheshet: Universal",
+      "Omer Permissibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nachman: Hazakah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Nachman's ruling distinguishing biblical from rabbinic matters, which is exactly what heading 1 ('Rav Nachman: Hazakah') describes.",
+      "second_heading": "Rav Sheshet: Universal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains both the conclusion of Rav Nachman's rabbinic-law ruling and Rav Sheshet's universal position, and heading 2 ('Rav Sheshet: Universal') is specifically dedicated to Rav Sheshet's expansive view that the presumption applies in both domains.",
+      "current_heading": "Rav Nachman: Hazakah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Omer Permissibility",
+    "candidates": [
+      "Rav Sheshet: Universal",
+      "Omer Permissibility",
+      "Beit Din vs Individual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah about the omer permitting new grain immediately upon offering, which is exactly what the 'Omer Permissibility' section's prose discusses as Rav Sheshet's proof-text.",
+      "chosen_heading": "Omer Permissibility",
+      "current_heading": "Omer Permissibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Beit Din vs Individual",
+    "candidates": [
+      "Beit Din vs Individual",
+      "Timeframe Assumptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the omer/Beit Din distinction \u2014 items 1-3 present the challenge from the omer Mishnah and Rav Nachman's two responses (including the ve-ika d'amri version), which the prose under 'Beit Din vs Individual' explicitly addresses in detail, including the Mishnah's rationale of Beit Din not being lax and the inference that private agents may be negligent.",
+      "chosen_heading": "Beit Din vs Individual",
+      "current_heading": "Beit Din vs Individual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Timeframe Assumptions",
+    "candidates": [
+      "Timeframe Assumptions",
+      "Collection Box Setup",
+      "Kohanim Completion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Sheshet's distinction between Beit Din (assumed to complete by midday) and an ordinary agent (assumed to complete by end of day), which matches exactly the prose in heading 0 about timeframe assumptions.",
+      "chosen_heading": "Timeframe Assumptions",
+      "current_heading": "Timeframe Assumptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Kohanim Completion",
+    "candidates": [
+      "Collection Box Setup",
+      "Kohanim Completion",
+      "Beit Din Kohanim",
+      "Eating Figs Ad Hoc"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Collection Box Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Sheshet's proof from the baraita about the woman depositing money in the collection box) is directly discussed in candidate 0's prose, which describes exactly this baraita and its logic.",
+      "second_heading": "Beit Din Kohanim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rav Nachman's counter citing Rav Shemaya about the court of priests not leaving until all money is spent) is directly discussed in candidate 2's prose, which describes exactly this response from Rav Nachman invoking Rav Shmaya's ruling.",
+      "current_heading": "Kohanim Completion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Eating Figs Ad Hoc",
+    "candidates": [
+      "Beit Din Kohanim",
+      "Eating Figs Ad Hoc",
+      "Am Ha'aretz vs Chaver",
+      "Rabbi's Position",
+      "R. Shimon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Sheshet baraita about gathering figs from a fig tree, distinguishing between open-ended vs. specified quantity cases and vadai vs. demai tithing obligations, which is exactly what the 'Eating Figs Ad Hoc' prose discusses.",
+      "chosen_heading": "Eating Figs Ad Hoc",
+      "current_heading": "Eating Figs Ad Hoc",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "R. Shimon's Position",
+    "candidates": [
+      "Am Ha'aretz vs Chaver",
+      "Rabbi's Position",
+      "R. Shimon's Position",
+      "Sin Priority Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rabbi's and Rabban Shimon ben Gamliel's positions together as a single unit introducing the am ha'aretz/chaver distinction, which maps best to the 'Am Ha'aretz vs Chaver' section that frames this entire qualification, though the current placement under 'R. Shimon's Position' captures part of its content.",
+      "chosen_heading": "Am Ha'aretz vs Chaver",
+      "current_heading": "R. Shimon's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Sin Priority Debate",
+    "candidates": [
+      "Sin Priority Debate",
+      "Technical Details Only",
+      "Responsibility Principle",
+      "Trust vs Formal Rule",
+      "Rav Moshe: Knowledge",
+      "Height Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous discussion about Rabbi vs. Rabban Shimon ben Gamliel's dispute over whether a \u1e25aver should commit a minor transgression (separating she-lo min ha-mukaf) to prevent amei ha-aretz from eating tevel, which is precisely what the 'Sin Priority Debate' prose describes, including the bemai kamiflagi analysis in item 8.",
+      "chosen_heading": "Sin Priority Debate",
+      "current_heading": "Sin Priority Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Height Requirements",
+    "candidates": [
+      "Technical Details Only",
+      "Responsibility Principle",
+      "Trust vs Formal Rule",
+      "Rav Moshe: Knowledge",
+      "Height Requirements",
+      "Domain Location",
+      "Public Domain Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Mishna introducing the height and pit rules for eruv techumin placement, which is precisely what the 'Height Requirements' section prose describes and unpacks.",
+      "chosen_heading": "Height Requirements",
+      "current_heading": "Height Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Public Domain Tree",
+    "candidates": [
+      "Domain Location",
+      "Public Domain Tree",
+      "Shabbat Base Access",
+      "Transfer Concern",
+      "Tree Usage Issue",
+      "Rabbi: Twilight Rule",
+      "Standard Explanation",
+      "Ten-Tefachim Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the opening Gemara question about where the tree stands, which directly matches the 'Domain Location' section's prose about the three Amoraim raising the foundational question of where the tree is located \u2014 not the 'Public Domain Tree' section which discusses the conclusion that the tree must be in a reshus ha-rabim.",
+      "chosen_heading": "Domain Location",
+      "current_heading": "Public Domain Tree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Ten-Tefachim Height",
+    "candidates": [
+      "Shabbat Base Access",
+      "Transfer Concern",
+      "Tree Usage Issue",
+      "Rabbi: Twilight Rule",
+      "Standard Explanation",
+      "Ten-Tefachim Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous Gemara discussion about the case where the tree stands in the public domain and one intends to establish Shabbat residence below \u2014 exactly what heading 0 ('Shabbat Base Access') discusses, covering the initial question, the answer invoking Rabbi's twilight rule, and Rav Nachman's confirmation with Shmuel's formal statement.",
+      "chosen_heading": "Shabbat Base Access",
+      "current_heading": "Ten-Tefachim Height",
+      "moved": true
+    }
+  }
+]

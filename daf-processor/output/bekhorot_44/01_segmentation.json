@@ -68,8 +68,8 @@
           "timestamp": "09:07"
         }
       ],
-      "sefaria_index": 36,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Nose and Eye Blemishes: חרום and בעינו",
@@ -175,7 +175,7 @@
           "timestamp": "45:19"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -615,5 +615,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "46:35",
+  "amud_b_micro_title": "Condition List",
+  "shiur_start_daf": 44,
+  "shiur_start_amud": "a"
 }

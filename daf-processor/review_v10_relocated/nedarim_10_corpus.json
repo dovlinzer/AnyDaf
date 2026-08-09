@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Vichiper Alav",
+    "candidates": [
+      "Nidrei Reshaim",
+      "Nazir Nidavah",
+      "Shimon HaTzadik",
+      "Rabbi Meir/Yehuda",
+      "Nedarim vs Nidavot",
+      "Lo Nadvu BeNazir",
+      "Vichiper Alav",
+      "Abaye's Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's position that sincere people did not volunteer naziriteship but instead brought individual offerings directly, which is precisely what the 'Lo Nadvu BeNazir' section's prose describes \u2014 the current placement under 'Vichiper Alav' covers the reasoning/consequence, but the passage itself contains both the full statement of Rabbi Shimon's view and the proof-text, and the prose of heading 5 explicitly describes this content ('lo nadvu b'nazir... people who genuinely wanted to give korbanos... would nonetheless not have accepted upon themselves to become a nazir... if one wished to bring an olah, one simply brought an olah').",
+      "chosen_heading": "Lo Nadvu BeNazir",
+      "current_heading": "Vichiper Alav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Abaye's Synthesis",
+    "candidates": [
+      "Vichiper Alav",
+      "Abaye's Synthesis",
+      "Nazir Chotei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye's synthesis declaration that all three sages share one opinion, which is precisely what the 'Abaye's Synthesis' section's prose discusses \u2014 his characteristic collection of Tannaitic opinions under a single rubric and the phrase 'kulan shita achas hen.'",
+      "chosen_heading": "Abaye's Synthesis",
+      "current_heading": "Abaye's Synthesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Nazir Chotei",
+    "candidates": [
+      "Nazir Chotei",
+      "Nazir Tamei Focus",
+      "Pasuk Objection",
+      "Self-Denial Problem",
+      "Repeated Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Elazar HaKappar beRabbi, which is precisely what heading 0 ('Nazir Chotei') describes in its prose \u2014 the citation from the baraita, the vichiper alav asher chata al hanefesh question, the shetzier atzmo min hayayin answer, and the kal vachomer concluding that one who fasts is called a sinner.",
+      "chosen_heading": "Nazir Chotei",
+      "current_heading": "Nazir Chotei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Repeated Sin",
+    "candidates": [
+      "Nazir Tamei Focus",
+      "Pasuk Objection",
+      "Self-Denial Problem",
+      "Repeated Sin",
+      "Motivation Question",
+      "Asceticism Trends",
+      "Jewish Embodiment",
+      "Rambam Critique",
+      "Wine Intent",
+      "Wine Symbol",
+      "Societal Separation",
+      "Raisins Extension",
+      "Konam Substitutes",
+      "Cherem Substitutes",
+      "Nezirut Substitutes",
+      "Oath Substitutes",
+      "Bemosi/Bemohi",
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Badu Milibo"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pasuk Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's answer to the pasuk objection \u2014 that the verse applies to nazir tamei because he repeated his sin \u2014 which is precisely what heading 'Pasuk Objection' (index 1) and 'Repeated Sin' (index 3) discuss, and given that index 1's prose explicitly raises the difficulty and index 3's prose explicitly discusses the mishum deshana b'cheit resolution, item 1 belongs under index 1 or 3; since index 3 ('Repeated Sin') directly describes this resolution and item 1 is that resolution, it fits there \u2014 but the current placement at index 3 is correct for item 1.",
+      "second_heading": "Konam Substitutes",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah on kinuyim (konam/konach/konas etc.), which is a completely new tractable unit \u2014 a new Mishnah beginning an entirely different topic \u2014 and belongs under heading 'Konam Substitutes' (index 12) whose prose explicitly describes this very Mishnah.",
+      "current_heading": "Repeated Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Badu Milibo",
+    "candidates": [
+      "Motivation Question",
+      "Asceticism Trends",
+      "Jewish Embodiment",
+      "Rambam Critique",
+      "Wine Intent",
+      "Wine Symbol",
+      "Societal Separation",
+      "Raisins Extension",
+      "Konam Substitutes",
+      "Cherem Substitutes",
+      "Nezirut Substitutes",
+      "Oath Substitutes",
+      "Bemosi/Bemohi",
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Badu Milibo",
+      "Why Kinuyim",
+      "Korban Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "high",
+      "reason": "The passage records the exact dispute between Rabbi Yo\u1e25anan and Reish Lakish about the nature of kinuyim, which is what the 'Rabbi Yochanan' section's prose introduces \u2014 the gemara text belongs at the start of that dispute, under the heading that introduces Rabbi Yochanan's position, before the separate 'Reish Lakish' heading elaborates on the other view.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Badu Milibo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Korban Order",
+    "candidates": [
+      "Why Kinuyim",
+      "Korban Order",
+      "Levatala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's explanation of why kinuyim were established \u2014 the chain of reasoning about not saying 'korban', then 'korban la'Hashem', then the risk of 'la'Hashem' levatala \u2014 which is precisely what heading 0 ('Why Kinuyim') describes, while the current heading 1 ('Korban Order') only describes the baraita's proof-text in isolation.",
+      "chosen_heading": "Why Kinuyim",
+      "current_heading": "Korban Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Levatala",
+    "candidates": [
+      "Korban Order",
+      "Levatala",
+      "Kal Vachomer",
+      "Dedication Irony",
+      "Shammai Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the actual kal vachomer inference text, and candidate 2 ('Kal Vachomer') is the section whose prose explicitly describes this kal vachomer argument \u2014 that if even a genuine korban requires care about how the divine name is introduced, then one who mentions it levatala has done something far worse.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Levatala",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Shammai Hillel",
+    "candidates": [
+      "Kal Vachomer",
+      "Dedication Irony",
+      "Shammai Hillel",
+      "Shammai Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Beit Shammai/Beit Hillel baraita about kinuyei kinuyim being forbidden or permitted, which is precisely what the 'Shammai Hillel' section's prose discusses as the Tannaitic parallel to the Rabbi Yochanan/Reish Lakish dispute.",
+      "chosen_heading": "Shammai Hillel",
+      "current_heading": "Shammai Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Shammai Position",
+    "candidates": [
+      "Shammai Position",
+      "Hillel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the debate together (the forbidden/permitted positions and their underlying rationales), and the current 'Shammai Position' section's prose already discusses both positions in precisely this paired analytical format, making it the correct home for this introductory gemara passage that sets up the logical framework before the essay splits into separate analysis of each view.",
+      "chosen_heading": "Shammai Position",
+      "current_heading": "Shammai Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Hillel Position",
+    "candidates": [
+      "Hillel Position",
+      "Konam Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the second and third resolutions described in the 'Hillel Position' prose \u2014 the 'lo de-chulei alma' argument and the 'gazrinan kinuyei kinuyim' decree argument \u2014 making the current placement correct.",
+      "chosen_heading": "Hillel Position",
+      "current_heading": "Hillel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Konam Examples",
+    "candidates": [
+      "Konam Examples",
+      "Cherem Examples",
+      "Nezirut Examples",
+      "Problematic Forms",
+      "Kinama Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three categories (konam, cherem, and nezirut substitutes) in one continuous Gemara unit, and the current placement under 'Konam Examples' is where the passage begins, making it the best single heading for this unified text.",
+      "chosen_heading": "Konam Examples",
+      "current_heading": "Konam Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Kinama Debate",
+    "candidates": [
+      "Cherem Examples",
+      "Nezirut Examples",
+      "Problematic Forms",
+      "Kinama Debate",
+      "Kina Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage covers both the problematic forms (mif\u1e25azna, mit\u1e25azna, mitazna) AND the kinma debate in a single continuous Talmudic unit, but the problematic forms section (index 2) introduces the passage while the kinma debate (index 3, current placement) only covers Ravina's follow-up question; since the passage as a whole begins with the three problematic forms before transitioning to kinma, index 2 is the better single home, though index 3 (current) is also defensible.",
+      "chosen_heading": "Problematic Forms",
+      "current_heading": "Kinama Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Kina Debate",
+    "candidates": [
+      "Kina Debate",
+      "Teiku Resolution",
+      "Oath Terms",
+      "Name Confusion",
+      "Verbal Forms",
+      "Hand Examples",
+      "Gentile Practice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kina Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the kina debate (chicken coop vs. konam) left as teiku, which matches heading 0's prose exactly.",
+      "second_heading": "Oath Terms",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the entirely new topic of kinuyei kinuyei shvuah with shvuel/shvutiel/shekukael, matching heading 2's prose about substitute terms for oaths.",
+      "current_heading": "Kina Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Gentile Practice",
+    "candidates": [
+      "Teiku Resolution",
+      "Oath Terms",
+      "Name Confusion",
+      "Verbal Forms",
+      "Hand Examples",
+      "Gentile Practice",
+      "Philo Critique",
+      "Palestinian Usage",
+      "Rabbinical Regulation",
+      "Lachulin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses substitute terms (kinuyim) for oaths \u2014 specifically 'mohi' and Rabban Shimon ben Gamliel's ruling on its validity \u2014 which directly matches the 'Oath Terms' section's prose about kinuyei shvuah and substitute terms for oaths.",
+      "chosen_heading": "Oath Terms",
+      "current_heading": "Gentile Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Lachulin",
+    "candidates": [
+      "Philo Critique",
+      "Palestinian Usage",
+      "Rabbinical Regulation",
+      "Lachulin",
+      "Kasher Terms",
+      "Tahor Terms",
+      "Lechumra Principle",
+      "Sacred Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text directly introduces the 'lachulin' vow formulation and the other terms discussed in that section's prose, making it the natural home for this passage.",
+      "chosen_heading": "Lachulin",
+      "current_heading": "Lachulin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Sacred Objects",
+    "candidates": [
+      "Kasher Terms",
+      "Tahor Terms",
+      "Lechumra Principle",
+      "Sacred Objects",
+      "Kaf Necessity",
+      "Mizbeach Items",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage lists the comparative 'kaf' terms (like the lamb, enclosures, wood, fires, altar, Sanctuary, Jerusalem) and the rule about accessories of the altar, plus Rabbi Yehuda's dissent about 'Jerusalem' \u2014 exactly what the 'Sacred Objects' prose describes, covering both the kaf-prefixed Temple objects and the accessories rule.",
+      "chosen_heading": "Sacred Objects",
+      "current_heading": "Sacred Objects",
+      "moved": false
+    }
+  }
+]

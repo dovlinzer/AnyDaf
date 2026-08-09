@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Blemished Animals",
+    "candidates": [
+      "Na vs. Tzali Esh",
+      "Eating Before Erev",
+      "Blemished Animals",
+      "Vayedaber Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about blemished animals (sarua/kalut), consecration for bedek habayit, and the prohibition against consecrating unblemished animals \u2014 exactly what the 'Blemished Animals' section prose describes.",
+      "chosen_heading": "Blemished Animals",
+      "current_heading": "Blemished Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Vayedaber Drasha",
+    "candidates": [
+      "Vayedaber Drasha",
+      "Universal Application",
+      "Water Disposal Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the same drasha \u2014 Rabbi Yehuda's derivation from 'vayedaber Hashem el Moshe lemor' that a negative prohibition applies to the entire parsha \u2014 which is precisely what the 'Vayedaber Drasha' prose describes, including the Bar Kappara exchange and the bei Rav formulation.",
+      "chosen_heading": "Vayedaber Drasha",
+      "current_heading": "Vayedaber Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Water Disposal Rules",
+    "candidates": [
+      "Universal Application",
+      "Water Disposal Rules",
+      "Mayim Shelannu Pun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baker's water disposal rules \u2014 the contradiction between the two baraitot and its resolution \u2014 which is precisely what the 'Water Disposal Rules' prose describes.",
+      "chosen_heading": "Water Disposal Rules",
+      "current_heading": "Water Disposal Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Mayim Shelannu Pun",
+    "candidates": [
+      "Mayim Shelannu Pun",
+      "Water Heat Concerns",
+      "Two Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda's ruling about mayim shelannu and the story of Rav Mattana's pun in Paphunya \u2014 are precisely what the 'Mayim Shelannu Pun' prose describes, making the current placement correct.",
+      "chosen_heading": "Mayim Shelannu Pun",
+      "current_heading": "Mayim Shelannu Pun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Two Vessels",
+    "candidates": [
+      "Water Heat Concerns",
+      "Two Vessels",
+      "Warm Water B'Diavad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all of Rava's teachings including both the water heat restrictions and the two-vessel requirement, but the prose of 'Water Heat Concerns' (index 0) explicitly discusses the full teaching including the 'ad shetigmor et kol hapat' requirement, making it the section that introduces and contextualizes the entire Rava passage, while 'Two Vessels' (index 1) is a follow-up discussion \u2014 the single Talmudic source belongs under the heading where it is first introduced, which is index 0.",
+      "chosen_heading": "Water Heat Concerns",
+      "current_heading": "Two Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Warm Water B'Diavad",
+    "candidates": [
+      "Two Vessels",
+      "Warm Water B'Diavad",
+      "Mishnah Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the dispute between Mar Zutra and Rav Ashi about kneading with warm water b'diavad, which is precisely what the 'Warm Water B'diavad' section's prose describes.",
+      "chosen_heading": "Warm Water B'Diavad",
+      "current_heading": "Warm Water B'Diavad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mishnah Items",
+    "candidates": [
+      "Mishnah Items",
+      "Rabbi Eliezer Klal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text listing the items that transgress on Passover (kuta\u1e25, Median beer, etc.), which corresponds directly to the 'Mishnah Items' section prose that explains each of these listed items in detail.",
+      "chosen_heading": "Mishnah Items",
+      "current_heading": "Mishnah Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rabbi Eliezer Klal",
+    "candidates": [
+      "Rabbi Eliezer Klal",
+      "Three Categories",
+      "Kutach Effects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the content of heading 0 ('Rabbi Eliezer Klal'): item 1 is Rabbi Eliezer's statement about women's adornments, and item 2 is the concluding general principle of the mishnah ('This is the principle...harei eilu b'azhara v'ein bo mishum karet'), both of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Rabbi Eliezer Klal",
+      "current_heading": "Rabbi Eliezer Klal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Kutach Effects",
+    "candidates": [
+      "Three Categories",
+      "Kutach Effects",
+      "Wine Quality Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items \u2014 the kuta\u1e25 baraita, the two parallel baraitot on foods that help/harm the body, and the general principle about beneficial vs. harmful foods \u2014 are precisely described in the 'Kutach Effects' prose, which walks through each of these in order.",
+      "chosen_heading": "Kutach Effects",
+      "current_heading": "Kutach Effects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Wine Quality Change",
+    "candidates": [
+      "Wine Quality Change",
+      "Temet & Separations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss Median beer and Edomite vinegar with barley additives, and Rav Na\u1e25man bar Yitz\u1e25ak's teaching about the historical reversal of wine quality between Judea and Edom \u2014 exactly what the 'Wine Quality Change' prose describes in detail.",
+      "chosen_heading": "Wine Quality Change",
+      "current_heading": "Wine Quality Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Temet & Separations",
+    "candidates": [
+      "Temet & Separations",
+      "Zeisom Composition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the temed/vinegar tithing question raised by Rabbi Yehuda, including the apparent contradiction and its two resolutions, which is precisely what the 'Temet & Separations' prose describes in detail.",
+      "chosen_heading": "Temet & Separations",
+      "current_heading": "Temet & Separations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Zeisom Composition",
+    "candidates": [
+      "Zeisom Composition",
+      "Dyers' & Scribes'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss Egyptian zitom \u2014 its definition, composition (Rav Yosef vs. Rav Pappa), mnemonic, and preparation/medicinal use \u2014 which matches exactly the prose of candidate 0 'Zeisom Composition'.",
+      "chosen_heading": "Zeisom Composition",
+      "current_heading": "Zeisom Composition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Dyers' & Scribes'",
+    "candidates": [
+      "Dyers' & Scribes'",
+      "Butchers' Dough"
+    ],
+    "result": null
+  }
+]

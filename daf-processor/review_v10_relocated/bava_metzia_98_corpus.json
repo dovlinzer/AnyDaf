@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Four Cases",
+    "candidates": [
+      "Four Cases",
+      "Case 1: Owner Claims",
+      "Case 2: Borrower Claims",
+      "Case 3: Opposing Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the renter claiming the rented cow died while the owner says 'I do not know,' with the renter being exempt \u2014 this precisely matches Case 2's prose about the borrower claiming the rented cow died and the owner not knowing, resulting in exemption.",
+      "chosen_heading": "Case 2: Borrower Claims",
+      "current_heading": "Four Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Case 3: Opposing Claims",
+    "candidates": [
+      "Case 1: Owner Claims",
+      "Case 2: Borrower Claims",
+      "Case 3: Opposing Claims",
+      "Case 4: Both Uncertain",
+      "Initial Inference",
+      "Bari Adif Principle",
+      "Amoraic Dispute",
+      "Galgul Shvua",
+      "Rava's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the case where both parties make definitive but opposing claims (owner says 'borrowed,' renter says 'rented') and the renter takes an oath to be exempt \u2014 exactly matching the prose of Case 3: Opposing Claims.",
+      "chosen_heading": "Case 3: Opposing Claims",
+      "current_heading": "Case 3: Opposing Claims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Rava's Case",
+    "candidates": [
+      "Case 4: Both Uncertain",
+      "Initial Inference",
+      "Bari Adif Principle",
+      "Amoraic Dispute",
+      "Galgul Shvua",
+      "Rava's Case",
+      "Chain of Logic",
+      "Two Cows Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Case 4: Both Uncertain",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna's ruling for Case 4 (both parties uncertain, they divide), which belongs under 'Case 4: Both Uncertain'.",
+      "second_heading": "Initial Inference",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 form the gemara's chain of inference, amoraic dispute, Rav Nachman's resolution via shvua, and Rava's concrete example \u2014 exactly the content described under 'Initial Inference' through 'Rava's Case', beginning with the gemara's opening inference from the mishna on 97b.",
+      "current_heading": "Rava's Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Two Cows Case",
+    "candidates": [
+      "Chain of Logic",
+      "Two Cows Case",
+      "Three Cows Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe the two-cows scenario (reisha b'shtayim) \u2014 the owner claiming both died during borrowing, the bailee admitting one and saying 'I don't know' about the other, leading to mitoch she-eino yachol lehishava meshalem \u2014 which is precisely what the 'Two Cows Case' prose describes.",
+      "chosen_heading": "Two Cows Case",
+      "current_heading": "Two Cows Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Three Cows Case",
+    "candidates": [
+      "Three Cows Case",
+      "Resolution",
+      "Shomrim Principle",
+      "Hoda'ah + Kfira",
+      "Three Cows (Rami)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the three-cow scenario for the seifa (latter clause) with two borrowed and one rented cow, matching the current heading's prose precisely.",
+      "chosen_heading": "Three Cows Case",
+      "current_heading": "Three Cows Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Three Cows (Rami)",
+    "candidates": [
+      "Resolution",
+      "Shomrim Principle",
+      "Hoda'ah + Kfira",
+      "Three Cows (Rami)",
+      "Four Cows (Rami)",
+      "Why Both Required",
+      "Galgul Shvua Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hoda'ah + Kfira",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rami bar \u1e24ama's requirement of both kfira and hoda'ah and states the reisha/seifa split (three/four cows) \u2014 this is the abstract principle discussed under 'Hoda'ah + Kfira', not yet the detailed elaboration of the three-cow case.",
+      "second_heading": "Three Cows (Rami)",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 elaborate the three-cow scenario (reisha) and the four-cow scenario (seifa) in full detail, matching exactly the prose of 'Three Cows (Rami)' and 'Four Cows (Rami)' \u2014 but since all five items currently sit under 'Three Cows (Rami)', splitting after item 1 places items 2\u20133 under 'Three Cows (Rami)' and items 4\u20135 under 'Four Cows (Rami)', which is the correct structural assignment.",
+      "current_heading": "Three Cows (Rami)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Galgul Shvua Logic",
+    "candidates": [
+      "Four Cows (Rami)",
+      "Why Both Required",
+      "Galgul Shvua Logic",
+      "Renter's Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Galgul Shvua Logic' section: item 1 is the mishna case where owner and renter make opposing definitive claims, and item 2 is the gemara's ve-amai question and Ulla's gilgul shvua answer \u2014 exactly what that prose describes.",
+      "chosen_heading": "Galgul Shvua Logic",
+      "current_heading": "Galgul Shvua Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Renter's Obligation",
+    "candidates": [
+      "Renter's Obligation",
+      "Adding the Oath",
+      "Sumchus Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the galgul shvua mechanism \u2014 since the bailee is made to swear the cow died naturally, that oath is extended to also cover which cow died \u2014 which directly matches the 'Adding the Oath' section's prose about galgul shvua operating once the underlying shvua is in place.",
+      "chosen_heading": "Adding the Oath",
+      "current_heading": "Renter's Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Sumchus Principle",
+    "candidates": [
+      "Adding the Oath",
+      "Sumchus Principle",
+      "Sumchus Debate",
+      "Question 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies the mishnah's ruling as reflecting Sumchus's opinion that property of uncertain ownership is divided, which is precisely what the 'Sumchus Principle' section's prose describes.",
+      "chosen_heading": "Sumchus Principle",
+      "current_heading": "Sumchus Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Question 1",
+    "candidates": [
+      "Sumchus Debate",
+      "Question 1",
+      "Continuity",
+      "Exemption Carry-Over",
+      "Question 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the first question Rabbi Abba bar Memel raises \u2014 borrowing with ba'alim followed by renting without ba'alim \u2014 along with its two possible frameworks, which is precisely what 'Question 1' prose describes.",
+      "chosen_heading": "Question 1",
+      "current_heading": "Question 1",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Question 2",
+    "candidates": [
+      "Continuity",
+      "Exemption Carry-Over",
+      "Question 2",
+      "New Liabilities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the reverse case \u2014 renting with the owner present then borrowing without the owner \u2014 which is precisely what 'Question 2' prose describes.",
+      "chosen_heading": "Question 2",
+      "current_heading": "Question 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "New Liabilities",
+    "candidates": [
+      "New Liabilities",
+      "Question 3",
+      "Status Return",
+      "Question 4: Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks whether the subsequent borrowing is related to prior renting and whether partial relevance ('shaichi b'miktzat') makes it treated as fully relevant ('keivan d'shaichi b'miktzat keman d'shaichi b'kula dami'), which is precisely the formulation the 'New Liabilities' prose describes and analyzes.",
+      "chosen_heading": "New Liabilities",
+      "current_heading": "New Liabilities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Question 4: Teiku",
+    "candidates": [
+      "Question 3",
+      "Status Return",
+      "Question 4: Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario in Question 3's prose: borrowing with ba'alim, then renting without ba'alim, then borrowing again \u2014 matching 'shala b'va'alim, sachar shelo b'va'alim, v'chazar v'shala'.",
+      "chosen_heading": "Question 3",
+      "current_heading": "Question 4: Teiku",
+      "moved": true
+    }
+  }
+]

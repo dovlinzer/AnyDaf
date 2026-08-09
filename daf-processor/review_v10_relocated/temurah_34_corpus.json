@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Forbidden Items List",
+    "candidates": [
+      "Kodshim Comparison",
+      "Miscarriage & Placenta",
+      "Asurim be-Hana'ah",
+      "Forbidden Items List",
+      "Chullin ba-Azarah",
+      "Things Burned Intro",
+      "Chametz be-Pesach",
+      "Trumah Teme'ah",
+      "Orlah & Kil'ei",
+      "Solid vs Liquid",
+      "Bread & Oil Usage",
+      "Chutz mi-Zman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage lists peter chamor, basar be-chalav, and chullin she-nishchatu ba-azarah along with Rabbi Shimon's position on burning \u2014 exactly the items enumerated and discussed in the 'Forbidden Items List' prose section.",
+      "chosen_heading": "Forbidden Items List",
+      "current_heading": "Forbidden Items List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Chutz mi-Zman",
+    "candidates": [
+      "Chullin ba-Azarah",
+      "Things Burned Intro",
+      "Chametz be-Pesach",
+      "Trumah Teme'ah",
+      "Orlah & Kil'ei",
+      "Solid vs Liquid",
+      "Bread & Oil Usage",
+      "Chutz mi-Zman",
+      "Asham Talui",
+      "Chatat ha-Of"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text introducing the list of items that are burned (ve-elu hen ha-nisrafin), which directly corresponds to the 'Things Burned Intro' section's prose about this being the counterpoint to burial and the enumeration of burned items.",
+      "chosen_heading": "Things Burned Intro",
+      "current_heading": "Chutz mi-Zman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Chatat ha-Of",
+    "candidates": [
+      "Asham Talui",
+      "Chatat ha-Of",
+      "Don't Burn Buried",
+      "Don't Bury Burned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the asham talui ruling AND the chatat ha-of ruling as a single Mishnaic unit, and the current placement under 'Chatat ha-Of' is correct since the prose there explicitly discusses both cases in sequence, with the asham talui section's prose covering the first half and the chatat ha-of section's prose covering the second half \u2014 but as a single quoted text, it belongs under the heading whose prose most fully addresses the complete passage, which is index 1 (Chatat ha-Of), where the essay author discusses the bird sin-offering case that concludes the passage.",
+      "chosen_heading": "Chatat ha-Of",
+      "current_heading": "Chatat ha-Of",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Don't Bury Burned",
+    "candidates": [
+      "Don't Burn Buried",
+      "Don't Bury Burned",
+      "Rabbi Yehuda",
+      "Contradiction Raised"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the general principle (kol ha-nikbarim/kol ha-nisrafin) AND Rabbi Yehuda's dispute with the Sages, and candidate 2's prose explicitly discusses Rabbi Yehuda's position and the Sages' response (amru lo ein mutar le-shanot), making it the best match for the full content of this passage.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Don't Bury Burned",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Contradiction Raised",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Contradiction Raised",
+      "Nazir Tahor/Tamei",
+      "Peter Chamor Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Contradiction Raised",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the contradiction raised by Tavi and Rav Nachman's resolution regarding nazir tamei vs. nazir tahor, matching candidates 1 and 2's prose perfectly \u2014 but since candidate 1 ('Contradiction Raised') introduces the question and candidate 2 ('Nazir Tahor/Tamei') resolves it, and items 1-2 span both, the cleaner split is after item 2 where the nazir issue is resolved and a new sub-problem (peter chamor) begins.",
+      "second_heading": "Peter Chamor Issue",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses the unresolved contradiction regarding peter chamor and Rav Sheshet's answer, which matches exactly the prose of candidate 3 ('Peter Chamor Issue').",
+      "current_heading": "Contradiction Raised",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Peter Chamor Issue",
+    "candidates": [
+      "Nazir Tahor/Tamei",
+      "Peter Chamor Issue",
+      "Hair vs Sack",
+      "Rabbi Yose & Eliezer",
+      "Bitul be-Rov Q",
+      "Recognition Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the 'itmar nami' statement where Rabbi Yosei b'Rabbi \u1e24anina gives the sak/se'ar distinction and Rabbi Elazar gives the nazir tahor/tamei distinction, which matches candidate 3 ('Rabbi Yose & Eliezer') exactly in its prose description.",
+      "chosen_heading": "Rabbi Yose & Eliezer",
+      "current_heading": "Peter Chamor Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Recognition Pattern",
+    "candidates": [
+      "Hair vs Sack",
+      "Rabbi Yose & Eliezer",
+      "Bitul be-Rov Q",
+      "Recognition Pattern",
+      "Rabbi Yirmiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Nachman's question about nullification by majority (bitul be-rov), Rav Pappa's answer about the bird design, and the follow-up question about removing the design \u2014 all of which are introduced and explained in candidate 2's prose about the bitul be-rov question, with candidate 3 covering only Rav Pappa's answer onward; the full passage starting with 'let the sack be nullified by majority' belongs under the heading that introduces that bitul question.",
+      "chosen_heading": "Bitul be-Rov Q",
+      "current_heading": "Recognition Pattern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rabbi Yirmiya",
+    "candidates": [
+      "Recognition Pattern",
+      "Rabbi Yirmiya",
+      "Chametz Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi Yirmiya exchange \u2014 his initial answer invoking Rabbi Yehuda, Rav Na\u1e25man's challenge, and his clarification \u2014 which is precisely what the 'Rabbi Yirmiya' section prose describes.",
+      "chosen_heading": "Rabbi Yirmiya",
+      "current_heading": "Rabbi Yirmiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Chametz Burning",
+    "candidates": [
+      "Chametz Burning",
+      "Trumah Benefit",
+      "Orlah Burning",
+      "Solids & Liquids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about chametz being burned on Passover and the stam mishna following Rabbi Yehuda's view that biur chametz must be through burning, which is exactly what the 'Chametz Burning' section's prose describes.",
+      "chosen_heading": "Chametz Burning",
+      "current_heading": "Chametz Burning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Solids & Liquids",
+    "candidates": [
+      "Trumah Benefit",
+      "Orlah Burning",
+      "Solids & Liquids",
+      "Reason for Rule",
+      "Ashes Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Solids & Liquids",
+      "first_confidence": "high",
+      "first_reason": "Item 1 directly elaborates the ochlin/mashkin distinction (foods burned, liquids buried) which is exactly what the 'Solids & Liquids' prose describes.",
+      "second_heading": "Trumah Benefit",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 concerns the bird sin-offering brought due to uncertainty and Rabbi Yehuda's view, which is a new Mishnah case; the closest candidate discussing trumah's distinctive destruction rules is 'Trumah Benefit,' though the match is imperfect \u2014 it is the least wrong option given the available headings.",
+      "current_heading": "Solids & Liquids",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Ashes Principle",
+    "candidates": [
+      "Reason for Rule",
+      "Ashes Principle",
+      "Tosafot Mitzvah",
+      "Torah Acknowledgment",
+      "Chemical Change",
+      "Drying Question",
+      "Sacrifice Remnants"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Sacrifice Remnants",
+    "candidates": [
+      "Tosafot Mitzvah",
+      "Torah Acknowledgment",
+      "Chemical Change",
+      "Drying Question",
+      "Sacrifice Remnants",
+      "Ashes Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items probe whether physical transformation (crumbling/desiccation or completed ritual) renders an object legally distinct and permitted in benefit, and the Gemara answers in both cases 'pure/exited me'ilah but still prohibited' \u2014 exactly what the 'Drying Question' prose describes as the Gemara probing the principle that hana'ah-prohibition persists regardless of physical change, with the niddah/corpse crumbling case and then the bird-olah case as sequential challenges to that principle.",
+      "chosen_heading": "Drying Question",
+      "current_heading": "Sacrifice Remnants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Ashes Exceptions",
+    "candidates": [
+      "Sacrifice Remnants",
+      "Ashes Exceptions",
+      "Hekdesh Accident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita stating that ashes of hekdesh are forbidden forever and the explanation for why asherah and hekdesh are listed separately \u2014 exactly the content described in the 'Ashes Exceptions' prose, which is where the passage currently sits.",
+      "chosen_heading": "Ashes Exceptions",
+      "current_heading": "Ashes Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Hekdesh Accident",
+    "candidates": [
+      "Hekdesh Accident",
+      "Special Cases Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rami bar \u1e24ama's case of a fire falling by itself onto consecrated wood with no human act of me'ilah, which directly matches the 'Hekdesh Accident' prose about accidental fire in the Temple treasury and the two pathways (me'ilah and mitzvah of sherifah) by which hekdesh could become permitted.",
+      "chosen_heading": "Hekdesh Accident",
+      "current_heading": "Hekdesh Accident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Special Cases Only",
+    "candidates": [
+      "Special Cases Only",
+      "Trumat Deshen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Shemaya's statement that the baraita refers specifically to trumat ha-deshen being forbidden forever, which is precisely what the 'Special Cases Only' prose describes as Rav Shemaya's alternative resolution.",
+      "chosen_heading": "Special Cases Only",
+      "current_heading": "Special Cases Only",
+      "moved": false
+    }
+  }
+]

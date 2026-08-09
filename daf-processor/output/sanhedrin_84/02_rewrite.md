@@ -60,11 +60,7 @@ As with the *arel* and *onen*, the *Gemara* makes clear that the *yoshev* who pe
 
 ### Rebbi's View
 
-With *baal mum* — a *kohen* with a physical blemish who performs the *avoda* — we return to a dispute that connects directly to the subject of our *mishna*. It is interesting to observe that while the *Gemara* introduced this whole discussion as something of a digression, the issue of the *baal mum* circles back to the precise structural context in which we find ourselves: the debate over what punishment attaches to various forms of unauthorized *avoda*. Just as our *mishna* records a dispute between Rabbi Akiva and the *chachamim* regarding a *zar* who performs the *avoda*, so too there is a parallel dispute here regarding the *baal mum*.
-
-Rebbi holds that a *baal mum* who performs the *avoda* is subject to *misa bidei shamayim*. The *chachamim* hold it is a *lav*, a negative prohibition, but not *misa bidei shamayim*.
-
----
+The question of the *baal mum* — a *kohen* with a physical blemish who performs the *avoda* — brings us back to our *mishna* itself. As the lecturer observes, the *Gemara*'s extended discussion of *chayav misa b'yedei shamayim* arose as something of a digression, yet it ties directly into the closing section of our *mishna*, which itself seemed almost out of place: after discussing cases of *kanaim pogim bo*, the *mishna* turned to the question of a *zar* who performs the *avoda*, with Rabbi Akiva holding it is *chenek* and the *chachamim* holding it is *misa b'yedei shamayim*. That transition was not entirely arbitrary, since one of the *kanaim pogim bo* cases in our *mishna* involved a *kohen tamei* who performed the *avoda* — the *perchi kohanim* would remove him and beat him to death. The *baal mum* question now returns us to that same thematic terrain.
 
 ## Structure
 

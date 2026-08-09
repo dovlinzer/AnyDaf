@@ -1,0 +1,271 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "B'nei Beteira Forget",
+    "candidates": [
+      "Intro & Debate",
+      "B'nei Beteira Forget",
+      "Hillel's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Hillel's formal gezerah shavah proof using 'mo'ado' connecting pesach to tamid, which is precisely what the 'Hillel's Proof' section describes, not the introductory narrative about B'nei Beteira forgetting the halacha.",
+      "chosen_heading": "Hillel's Proof",
+      "current_heading": "B'nei Beteira Forget",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Hillel's Proof",
+    "candidates": [
+      "B'nei Beteira Forget",
+      "Hillel's Proof",
+      "Hillel Becomes Nasi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the kal vachomer argument (tamid without karet overrides Shabbat, therefore pesach with karet should override Shabbat), which is explicitly described in candidate 1's prose as part of Hillel's formal proofs.",
+      "chosen_heading": "Hillel's Proof",
+      "current_heading": "Hillel's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Hillel Becomes Nasi",
+    "candidates": [
+      "Hillel Becomes Nasi",
+      "Animal Carries Knife",
+      "Gezerah Shavah Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Hillel's appointment as Nasi and rebuke, the forgotten knife halakha question, and the people carrying knives in wool/horns \u2014 are fully narrated and analyzed in the 'Hillel Becomes Nasi' prose, which covers every detail of this baraita sequence.",
+      "chosen_heading": "Hillel Becomes Nasi",
+      "current_heading": "Hillel Becomes Nasi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Gezerah Shavah Analysis",
+    "candidates": [
+      "Animal Carries Knife",
+      "Gezerah Shavah Analysis",
+      "Melacha Ba-Kodashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items directly analyze the gezerah shavah linking pesach and tamid through mo'ado, the question of how tamid itself overrides shabbat, the kal vachomer and its refutation, and why Hillel presented both arguments \u2014 exactly the content described in the 'Gezerah Shavah Analysis' prose.",
+      "chosen_heading": "Gezerah Shavah Analysis",
+      "current_heading": "Gezerah Shavah Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Melacha Ba-Kodashim",
+    "candidates": [
+      "Melacha Ba-Kodashim",
+      "Sanctification on Shabbat",
+      "K'Le'Achar Yad"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Melacha Ba-Kodashim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the knife-in-wool/horns practice and the Hillel precedent for avoiding me'ilah, which is exactly what the 'Melacha Ba-Kodashim' prose discusses.",
+      "second_heading": "Sanctification on Shabbat",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address the question of how one consecrates the pesach on Shabbat and Rabbi Yochanan's ruling that fixed-time obligations may be consecrated on Shabbat, which is precisely what the 'Sanctification on Shabbat' prose covers.",
+      "current_heading": "Melacha Ba-Kodashim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "K'Le'Achar Yad",
+    "candidates": [
+      "Sanctification on Shabbat",
+      "K'Le'Achar Yad",
+      "People's Intuition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses mechamer k'le'achar yad and the rabbinic prohibition (issur d'Rabbanan miha ika), which is precisely what the 'K'Le'Achar Yad' section's prose addresses.",
+      "chosen_heading": "K'Le'Achar Yad",
+      "current_heading": "K'Le'Achar Yad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "People's Intuition",
+    "candidates": [
+      "People's Intuition",
+      "Bavli vs. Yerushalmi",
+      "Seven Principles",
+      "Hillel's Pride Falls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Hillel's statement that he forgot the halacha and his instruction to rely on the people's intuition ('if they are not prophets, they are the sons of prophets') \u2014 is precisely what the 'People's Intuition' section's prose discusses in detail.",
+      "chosen_heading": "People's Intuition",
+      "current_heading": "People's Intuition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Hillel's Pride Falls",
+    "candidates": [
+      "Bavli vs. Yerushalmi",
+      "Seven Principles",
+      "Hillel's Pride Falls",
+      "Moshe's Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the teaching about haughtiness causing wisdom/prophecy to depart, with Hillel and Deborah as proof cases, which is precisely what the 'Hillel's Pride Falls' section discusses.",
+      "chosen_heading": "Hillel's Pride Falls",
+      "current_heading": "Hillel's Pride Falls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Moshe's Anger",
+    "candidates": [
+      "Moshe's Anger",
+      "Prophecy & Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Reish Lakish's statement about anger causing wisdom to depart, with the proof from Moses, which is exactly what heading 0 'Moshe's Anger' covers in its prose.",
+      "chosen_heading": "Moshe's Anger",
+      "current_heading": "Moshe's Anger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Prophecy & Anger",
+    "candidates": [
+      "Prophecy & Anger",
+      "Eliab's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Elisha's prophecy departing due to anger and the need for a minstrel to restore it, which is precisely what the 'Prophecy & Anger' section's prose discusses.",
+      "chosen_heading": "Prophecy & Anger",
+      "current_heading": "Prophecy & Anger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Eliab's Story",
+    "candidates": [
+      "Eliab's Story",
+      "Pesach Overrides Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is entirely about Rabbi Mani bar Patish's teaching on anger derived from Eliab's story, which is precisely what the 'Eliab's Story' section prose discusses in detail.",
+      "chosen_heading": "Eliab's Story",
+      "current_heading": "Eliab's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Pesach Overrides Tumah",
+    "candidates": [
+      "Pesach Overrides Tumah",
+      "Reish Lakish's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the chain of reasoning described in candidate 0's prose \u2014 deriving that tamid and pesach override tumah via mutual derivation, then the specific drasha from 'ish ish ki yiheyeh tameh' proving pesach overrides communal tumah \u2014 which is precisely what the 'Pesach Overrides Tumah' section discusses.",
+      "chosen_heading": "Pesach Overrides Tumah",
+      "current_heading": "Pesach Overrides Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Reish Lakish's View",
+    "candidates": [
+      "Reish Lakish's View",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Reish Lakish challenging Rabbi Yochanan's derivation by arguing that the verse could be read as a stringency against congregations (no remedy on either Pesach), which is precisely what the prose under 'Reish Lakish's View' describes.",
+      "chosen_heading": "Reish Lakish's View",
+      "current_heading": "Reish Lakish's View",
+      "moved": false
+    }
+  }
+]

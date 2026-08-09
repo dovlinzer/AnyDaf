@@ -1,0 +1,586 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Clear vs. Cloudy",
+    "candidates": [
+      "Clear vs. Cloudy",
+      "Classic Filter Rules",
+      "Non-Classic Filters",
+      "Indentations & Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ze'iri's ruling on clear vs. murky liquids and the challenge from Rabban Shimon ben Gamliel resolved by Ze'iri's 'bein hagitot' answer \u2014 are explicitly discussed in the 'Clear vs. Cloudy' prose, making it the clear and correct home for this passage.",
+      "chosen_heading": "Clear vs. Cloudy",
+      "current_heading": "Clear vs. Cloudy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Indentations & Vessels",
+    "candidates": [
+      "Classic Filter Rules",
+      "Non-Classic Filters",
+      "Indentations & Vessels",
+      "Slow Pouring Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items deal with the specific conditions and restrictions on non-classic filtering methods (cloth indentation, Egyptian basket height, barrel cover extent, and spigot strainer appearance), which is precisely what the 'Indentations & Vessels' section prose discusses in detail.",
+      "chosen_heading": "Indentations & Vessels",
+      "current_heading": "Indentations & Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Slow Pouring Method",
+    "candidates": [
+      "Slow Pouring Method",
+      "Egg & Mustard Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's household pouring beer from vessel to vessel and the question about nitzotzot (final drops), which is precisely what the 'Slow Pouring Method' prose discusses in detail.",
+      "chosen_heading": "Slow Pouring Method",
+      "current_heading": "Slow Pouring Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Egg & Mustard Case",
+    "candidates": [
+      "Egg & Mustard Case",
+      "Mustard Kneading Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the egg-in-strainer case and Ya'akov Kor\u1e25a's reasoning about coloring, which is precisely what the 'Egg & Mustard Case' prose discusses at length.",
+      "chosen_heading": "Egg & Mustard Case",
+      "current_heading": "Egg & Mustard Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Mustard Kneading Dispute",
+    "candidates": [
+      "Mustard Kneading Dispute",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Rav-Shmuel dispute over dissolving pre-kneaded mustard by hand versus vessel, which is precisely what the 'Mustard Kneading Dispute' prose describes in detail.",
+      "chosen_heading": "Mustard Kneading Dispute",
+      "current_heading": "Mustard Kneading Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Three Positions",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Positions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the initial dispute between Rabbi Elazar and Rabbi Yochanan plus Abaye and Rava's first ruling against Yochanan, which matches the 'Three Positions' prose describing the three distinct stances.",
+      "second_heading": "Final Halacha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the reversals by Rabbi Yochanan and Rabbi Elazar and Abaye and Rava's final ruling following Rabbi Yochanan, which matches exactly the 'Final Halacha' prose describing those same reversals and final determination.",
+      "current_heading": "Three Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Final Halacha",
+    "candidates": [
+      "Final Halacha",
+      "Rav Zutra Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's mother preparing mustard, Rav Chiyya bar Ashi refusing it, and Rava bar Shabba's report about Ravina \u2014 all of which are explicitly discussed in candidate 0's prose as practical illustrations following the final halacha ruling.",
+      "chosen_heading": "Final Halacha",
+      "current_heading": "Final Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rav Zutra Summary",
+    "candidates": [
+      "Rav Zutra Summary",
+      "Cress & Garlic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra's summary ruling about mustard kneaded on Shabbat eve, which is exactly what the 'Rav Zutra Summary' prose describes in detail.",
+      "chosen_heading": "Rav Zutra Summary",
+      "current_heading": "Rav Zutra Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Cress & Garlic",
+    "candidates": [
+      "Cress & Garlic",
+      "Wine Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses cress (shachlayim) and garlic preparations on Shabbat, including amita/mint, which matches exactly the 'Cress & Garlic' section prose.",
+      "chosen_heading": "Cress & Garlic",
+      "current_heading": "Cress & Garlic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Wine Types",
+    "candidates": [
+      "Wine Types",
+      "Fennel Medicinal Issue",
+      "Vetch & Chaff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss anomlin/aluntit and the bathhouse wine anecdote, which is precisely what the 'Wine Types' prose section covers in detail.",
+      "chosen_heading": "Wine Types",
+      "current_heading": "Wine Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Vetch & Chaff",
+    "candidates": [
+      "Fennel Medicinal Issue",
+      "Vetch & Chaff",
+      "Straw Sifting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the asafoetida/vinegar rule and the vetch/chaff rule in one continuous text, and candidate 0 ('Fennel Medicinal Issue') is where the passage begins \u2014 but more importantly, both topics are part of the same mishna unit, and the passage as a whole is best placed under candidate 0 since that heading introduces the mishna itself, while candidate 1 covers only the second half in its prose, suggesting the full mishna quote should sit under the first heading that opens it.",
+      "chosen_heading": "Fennel Medicinal Issue",
+      "current_heading": "Vetch & Chaff",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Straw Sifting",
+    "candidates": [
+      "Vetch & Chaff",
+      "Straw Sifting",
+      "Borer Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses sifting straw in a sieve and placing it on an elevated surface to remove chaff, which precisely matches the 'Straw Sifting' section's prose about ein kovrin et hateven bakivra and related prohibitions.",
+      "chosen_heading": "Straw Sifting",
+      "current_heading": "Straw Sifting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Borer Debate",
+    "candidates": [
+      "Borer Debate",
+      "Fennel Cold Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma about soaking asafoetida and Rav Adda's answer that one is liable for a sin-offering (chayav chatat), which is precisely what the 'Borer Debate' prose describes as the opening question and initial answer about biblical liability.",
+      "chosen_heading": "Borer Debate",
+      "current_heading": "Borer Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Fennel Cold Water",
+    "candidates": [
+      "Fennel Cold Water",
+      "Medicine Continuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's rabbinic-decree ruling, Rabbi Yo\u1e25anan's question about cold water, and Rabbi Yannai's response citing the baraita \u2014 are explicitly discussed in the 'Fennel Cold Water' prose, which matches the current placement perfectly.",
+      "chosen_heading": "Fennel Cold Water",
+      "current_heading": "Fennel Cold Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Medicine Continuation",
+    "candidates": [
+      "Medicine Continuation",
+      "Cold Water Workaround"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Medicine Continuation' prose summarizes: the medicinal use of chiltis for heaviness of the heart, Rav Acha bar Yosef's case, Mar Ukva's prescription, and the study hall's response that one may drink freely \u2014 all matching that section's prose description precisely.",
+      "chosen_heading": "Medicine Continuation",
+      "current_heading": "Medicine Continuation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Cold Water Workaround",
+    "candidates": [
+      "Cold Water Workaround",
+      "Linen Rubbing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the soaking of asafoetida in cold water on Shabbat and the danger-based exception, which is precisely what the 'Cold Water Workaround' prose describes.",
+      "chosen_heading": "Cold Water Workaround",
+      "current_heading": "Cold Water Workaround",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Linen Rubbing",
+    "candidates": [
+      "Linen Rubbing",
+      "Rack Removal",
+      "Bundle Muktzah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Linen Rubbing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 all concern the linen rubbing dispute (Rav Acha, Rav Safra, Rav Nachman, scarf comparison), which matches the 'Linen Rubbing' prose exactly.",
+      "second_heading": "Rack Removal",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 introduce Rav Chisda's ruling about removing a garment from a rack and Rava's qualification about weaver's vessels, which matches the 'Rack Removal' prose exactly.",
+      "current_heading": "Linen Rubbing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Bundle Muktzah",
+    "candidates": [
+      "Rack Removal",
+      "Bundle Muktzah",
+      "Meat vs. Fish Hooks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24isda's ruling about a bundle of vegetables (kishta di'yarka) and its fitness for animal consumption determining muktzah status, which is exactly what the 'Bundle Muktzah' section's prose describes.",
+      "chosen_heading": "Bundle Muktzah",
+      "current_heading": "Bundle Muktzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Meat vs. Fish Hooks",
+    "candidates": [
+      "Meat vs. Fish Hooks",
+      "Vegetables & Appetite"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meat vs. Fish Hooks",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about meat vs. fish hooks and muktzah, which perfectly matches the 'Meat vs. Fish Hooks' prose discussing exactly that Rav Chiya bar Ashi ruling.",
+      "second_heading": "Vegetables & Appetite",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 (Rav Ketina's statement about standing on a bed) is a standalone practical/ethical teaching unrelated to hooks, and fits better under the 'Vegetables & Appetite' section which is described as containing a series of practical and ethical teachings before moving to poverty-focused counsel.",
+      "current_heading": "Meat vs. Fish Hooks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Vegetables & Appetite",
+    "candidates": [
+      "Vegetables & Appetite",
+      "Rav Chisda on Vegetables",
+      "Torah Student Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rav \u1e24isda's advice about vegetables and reeds for Torah students, and candidate 0's prose explicitly covers all three teachings \u2014 buying long vegetables, buying long reeds, and not eating vegetables when lacking bread \u2014 making it the clear best match.",
+      "chosen_heading": "Vegetables & Appetite",
+      "current_heading": "Vegetables & Appetite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Torah Student Advice",
+    "candidates": [
+      "Rav Chisda on Vegetables",
+      "Torah Student Advice",
+      "Bal Tashchit Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Chisda's advice about a Torah student lacking bread not cutting thin slices/breaking for others, and his personal practice of checking the bread basket before breaking \u2014 all of which matches exactly the prose under 'Torah Student Advice'.",
+      "chosen_heading": "Torah Student Advice",
+      "current_heading": "Torah Student Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Bal Tashchit Discussion",
+    "candidates": [
+      "Bal Tashchit Discussion",
+      "Smart Purchasing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses bal tashchit in the context of eating barley vs. wheat bread and drinking beer vs. wine, which is precisely what the prose under 'Bal Tashchit Discussion' addresses.",
+      "chosen_heading": "Bal Tashchit Discussion",
+      "current_heading": "Bal Tashchit Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Smart Purchasing",
+    "candidates": [
+      "Smart Purchasing",
+      "Hygiene & Guests",
+      "Clothing Care"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hygiene & Guests",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about washing with ditch water as a substitute for oil, which matches the 'Hygiene & Guests' prose that explicitly discusses *nimesh be-maya de-charbitzi* and grooming.",
+      "second_heading": "Smart Purchasing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about buying meat from the neck for best value, which matches the 'Smart Purchasing' prose that explicitly discusses buying from the neck area (*unka*) for three types of meat.",
+      "current_heading": "Smart Purchasing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Clothing Care",
+    "candidates": [
+      "Hygiene & Guests",
+      "Clothing Care",
+      "Physical Modesty"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Clothing Care",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 concern buying and caring for clothing and not sitting on new mats \u2014 exactly what candidate 1 'Clothing Care' discusses.",
+      "second_heading": "Hygiene & Guests",
+      "second_confidence": "high",
+      "second_reason": "Item 3 about not giving garments to the host to launder is explicitly discussed in candidate 0 'Hygiene & Guests' prose.",
+      "current_heading": "Clothing Care",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Physical Modesty",
+    "candidates": [
+      "Physical Modesty",
+      "Visitor Responses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items contain Rav \u1e24isda's advice to his daughters about modest conduct and physical habits before their husbands, which is exactly what the 'Physical Modesty' prose describes.",
+      "chosen_heading": "Physical Modesty",
+      "current_heading": "Physical Modesty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Visitor Responses",
+    "candidates": [
+      "Visitor Responses",
+      "Pearl Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the practice of saying 'mani' (feminine form) rather than 'manu' (masculine form) when someone calls at the door, which exactly matches the 'Visitor Responses' section prose about this same teaching.",
+      "chosen_heading": "Visitor Responses",
+      "current_heading": "Visitor Responses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Pearl Parable",
+    "candidates": [
+      "Pearl Parable",
+      "Rashi's Reading",
+      "Sieve Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the pearl-and-clod demonstration itself, which is exactly what the 'Pearl Parable' section's prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Pearl Parable",
+      "current_heading": "Pearl Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Sieve Stringency",
+    "candidates": [
+      "Rashi's Reading",
+      "Sieve Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishnah's ruling about vetches/sieves and Rabbi Eliezer ben Yaakov's stricter position, which is precisely what the 'Sieve Stringency' section's prose describes.",
+      "chosen_heading": "Sieve Stringency",
+      "current_heading": "Sieve Stringency",
+      "moved": false
+    }
+  }
+]

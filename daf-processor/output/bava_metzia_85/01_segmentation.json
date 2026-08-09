@@ -126,7 +126,7 @@
           "timestamp": "13:18"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 29,
       "matched": true
     },
     {
@@ -359,7 +359,7 @@
           "timestamp": "49:17"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -388,7 +388,7 @@
           "timestamp": "52:22"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -589,5 +589,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "47:38",
+  "amud_b_micro_title": "Unanswerable Question",
+  "shiur_start_daf": 84,
+  "shiur_start_amud": "b"
 }

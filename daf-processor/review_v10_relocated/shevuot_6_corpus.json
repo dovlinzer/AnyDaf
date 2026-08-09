@@ -1,0 +1,290 @@
+[
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Tosafot Objection",
+    "candidates": [
+      "Mishna vs. Rabbi Akiva",
+      "R. Yehoshua's Question",
+      "R. Akiva's Answer",
+      "Names & Recognition",
+      "Who Becomes Tamei",
+      "Kohen as Mouthpiece",
+      "Minor/Shoteh Kohen",
+      "Korcha = R. Akiva",
+      "Tosafot Objection",
+      "Age Problems",
+      "Dilmah Question",
+      "Milk & Blood Mashal",
+      "Patuach & Chaluk",
+      "Beheret = Snow",
+      "Se'et Omission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Rabbi Akiva's opinion about combining shades applies to 'befatukh' (mixed/adjacent) versus 'chaluk' (flawless/separated), which is precisely the content described in the 'Patuach & Chaluk' section's prose.",
+      "chosen_heading": "Patuach & Chaluk",
+      "current_heading": "Tosafot Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Se'et Omission",
+    "candidates": [
+      "Age Problems",
+      "Dilmah Question",
+      "Milk & Blood Mashal",
+      "Patuach & Chaluk",
+      "Beheret = Snow",
+      "Se'et Omission",
+      "Rabbi Nathan Version",
+      "Abaye's Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Patuach & Chaluk",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss whether Rabbi Akiva's view on mixed (patuach) shades can be extended to flawless (chaluk) shades, and challenge this by citing the mishna's ordering \u2014 this is precisely the patuach/chaluk analysis described in candidate 3's prose.",
+      "second_heading": "Rabbi Nathan Version",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Rabbi Natan's alternative textual version replacing 'sid' with 'se'et (wool)', which matches exactly candidate 6's prose about Rabbi Nathan preserving a variant reading that affects Rabbi Akiva's ordering.",
+      "current_heading": "Se'et Omission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Abaye's Drasha",
+    "candidates": [
+      "Rabbi Nathan Version",
+      "Abaye's Drasha",
+      "Beheret Amukah",
+      "Se'et Elevated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's derivation from the verse 'im baheret levanah hi' to establish that baheret is the brightest white, which is precisely what the 'Abaye's Drasha' section prose describes.",
+      "chosen_heading": "Abaye's Drasha",
+      "current_heading": "Abaye's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Se'et Elevated",
+    "candidates": [
+      "Beheret Amukah",
+      "Se'et Elevated",
+      "Sapachat Derivative",
+      "Secondary Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all three terms (baheret, se'et, sappa\u1e25at) in one continuous passage and belongs under the first heading 'Beheret Amukah' where the essay author explicitly introduces this baraita, rather than being split under the se'et heading where it currently sits.",
+      "chosen_heading": "Beheret Amukah",
+      "current_heading": "Se'et Elevated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Secondary Derivation",
+    "candidates": [
+      "Sapachat Derivative",
+      "Secondary Derivation",
+      "White Wool Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address how we derive that baheret has a secondary (sapachat) shade \u2014 exactly what the 'Secondary Derivation' prose describes, including Rabbi Zeira's levanah comparison and the baraita's sapachat placement argument.",
+      "chosen_heading": "Secondary Derivation",
+      "current_heading": "Secondary Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "White Wool Standard",
+    "candidates": [
+      "White Wool Standard",
+      "Kings & Officers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines 'white wool' as the standard for se'et, matching the 'White Wool Standard' section's prose about clean newborn lamb wool used for milat.",
+      "chosen_heading": "White Wool Standard",
+      "current_heading": "White Wool Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Kings & Officers",
+    "candidates": [
+      "Kings & Officers",
+      "Four Ranks Mashal",
+      "Persia & Rome"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Kings & Officers",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Rabbi \u1e24anina's mashal of two kings and two governors, which is exactly what candidate 0 ('Kings & Officers') discusses.",
+      "second_heading": "Four Ranks Mashal",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents Rav Adda bar Abba's mashal with four ranks (malka, alkafta, rofila, resh galuta), which is precisely what candidate 1 ('Four Ranks Mashal') describes.",
+      "current_heading": "Kings & Officers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Persia & Rome",
+    "candidates": [
+      "Four Ranks Mashal",
+      "Persia & Rome",
+      "Power Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement introducing the analogy of King Shapur and the Roman emperor, which directly matches the 'Persia & Rome' section's prose about Rava proposing this comparison of the two great empires.",
+      "chosen_heading": "Persia & Rome",
+      "current_heading": "Persia & Rome",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Power Comparison",
+    "candidates": [
+      "Power Comparison",
+      "Garment Mashal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's question about which empire is greater, Rava's response about whose coin circulates, and Rabbi Yochanan's identification of Rome \u2014 all of which are explicitly addressed in the 'Power Comparison' prose.",
+      "chosen_heading": "Power Comparison",
+      "current_heading": "Power Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Garment Mashal",
+    "candidates": [
+      "Garment Mashal",
+      "Baraita Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's mashal about a wool garment and linen garment (new and worn/frayed), which directly matches the 'Garment Mashal' section's prose discussing exactly this analogy.",
+      "chosen_heading": "Garment Mashal",
+      "current_heading": "Garment Mashal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Baraita Scope",
+    "candidates": [
+      "Baraita Scope",
+      "Warning & Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening baraita asking 'from where do we know the verse speaks specifically of defiling the Temple or its sacrificial foods,' which directly matches the 'Baraita Scope' prose describing the citation of this very baraita and its question about the scope of the korban oleh veyored.",
+      "chosen_heading": "Baraita Scope",
+      "current_heading": "Baraita Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Warning & Punishment",
+    "candidates": [
+      "Warning & Punishment",
+      "Terumah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Both items together form a single logical chain \u2014 item 1 gives the kal va-chomer argument about tumah/mikdash, and item 2 raises and dismisses the terumah objection \u2014 but the current heading 'Warning & Punishment' covers the full argument including the terumah rebuttal better than the 'Terumah Exception' heading, which discusses a different aspect (fixed vs. sliding-scale offering) than what item 2 actually says (no offering for sins punished by death).",
+      "chosen_heading": "Warning & Punishment",
+      "current_heading": "Warning & Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Terumah Exception",
+    "candidates": [
+      "Terumah Exception",
+      "Terumah Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara exchange about excluding terumah via the word 'bah', with items 1-2 raising the challenge about sliding-scale offerings for cases not punishable by karet, and item 3 giving the textual answer \u2014 this matches 'Terumah Exclusion' prose which explicitly discusses the 'bah bah' limiting particle, shmi'at kol, bitui sfatayim, and the terumah exclusion from korban oleh veyored.",
+      "chosen_heading": "Terumah Exclusion",
+      "current_heading": "Terumah Exception",
+      "moved": true
+    }
+  }
+]

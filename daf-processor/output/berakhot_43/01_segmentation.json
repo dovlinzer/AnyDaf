@@ -29,8 +29,8 @@
           "timestamp": "01:12"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Death of Rav and the Resolution of an Unresolved Question Through an Anonymous Elder",
@@ -270,7 +270,7 @@
           "timestamp": "43:52"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -333,7 +333,7 @@
           "timestamp": "54:44"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -800,5 +800,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "42:59",
+  "amud_b_micro_title": "Flowers & Perennials",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "b"
 }

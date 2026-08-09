@@ -125,8 +125,8 @@
           "timestamp": "14:32"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Abaye's Second Challenge from a Different Braitta: Using 'Pesach Hu' Pasuk to Prove Temurah Cannot Be Brought",
@@ -155,7 +155,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Shmuel's Cryptic Principle: Comparing Pesach to Chatas to Determine Status",
@@ -274,8 +274,8 @@
           "timestamp": "39:37"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Shmuel Holds Like Rabbi: All Lost Chataot Always Die (No Roeh Case)",
@@ -298,8 +298,8 @@
           "timestamp": "40:11"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Defining When a Pesach Is Considered Avud: Before Chatzot Is Not Avud",
@@ -327,8 +327,8 @@
           "timestamp": "41:09"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Core Disagreement: Shmuel (Chatzot) vs. Rabbi Yochanan (Shechita)",
@@ -351,7 +351,7 @@
           "timestamp": "44:52"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 7,
       "matched": false
     },
     {
@@ -380,8 +380,8 @@
           "timestamp": "46:36"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Final Resolution: Shmuel Teaches via Chatas Analogy That Chatzot (Time), Not Shechita (Act), Is Determinative",
@@ -409,7 +409,7 @@
           "timestamp": "49:38"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 7,
       "matched": false
     }
   ],
@@ -623,9 +623,9 @@
     }
   ],
   "amud_b_sefaria_index": 10,
-  "amud_b_segment_index": 10,
-  "amud_b_timestamp": "39:37",
-  "amud_b_micro_title": "Chatzot Alternative",
-  "shiur_start_daf": 96,
-  "shiur_start_amud": "b"
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "40:11",
+  "amud_b_micro_title": "Time, Not Shechita",
+  "shiur_start_daf": 97,
+  "shiur_start_amud": "a"
 }

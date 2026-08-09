@@ -1,0 +1,509 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yavneh Transition",
+    "candidates": [
+      "Sanctity Daily Life",
+      "Parallel Structures",
+      "Post-Destruction Halakha",
+      "Yavneh Transition",
+      "Honor to Host",
+      "Tent of Meeting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the gathering at Yavneh and the rabbis present there, which is precisely what the 'Yavneh Transition' section's prose discusses \u2014 the foundational moment of transition to a post-mikdash Torah center at Yavneh.",
+      "chosen_heading": "Yavneh Transition",
+      "current_heading": "Yavneh Transition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Tent of Meeting",
+    "candidates": [
+      "Honor to Host",
+      "Tent of Meeting",
+      "Moshe Divine Encounter",
+      "Tent Returns Camp"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda's kal vachomer about the aron being twelve mil outside the camp and Torah scholars traveling from city to city, which is precisely what the 'Tent of Meeting' prose section discusses in detail.",
+      "chosen_heading": "Tent of Meeting",
+      "current_heading": "Tent of Meeting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Tent Returns Camp",
+    "candidates": [
+      "Moshe Divine Encounter",
+      "Tent Returns Camp",
+      "Joshua Successor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moshe Divine Encounter",
+      "first_confidence": "high",
+      "first_reason": "Item 1 about God and Moses showing 'cheerful faces' in halakha study matches candidate 0's prose which explicitly discusses Rabbi Yitzchak's teaching about 'nasber panim bahalakhah' and the face-to-face encounter.",
+      "second_heading": "Tent Returns Camp",
+      "second_confidence": "high",
+      "second_reason": "Item 2 about Rabbi Abbahu's teaching on returning the tent and Joshua serving in Moses's place matches candidate 1's prose which explicitly discusses Rabbi Abbahu's statement about returning the tent and the Joshua replacement warning.",
+      "current_heading": "Tent Returns Camp",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Joshua Successor",
+    "candidates": [
+      "Joshua Successor",
+      "Daily Torah Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's statement about Joshua remaining in the tent and the divine promise not being uttered in vain, which directly matches the 'Joshua Successor' section's prose about Rava's observation and Joshua's role as Torah transmitter.",
+      "chosen_heading": "Joshua Successor",
+      "current_heading": "Joshua Successor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Daily Torah Study",
+    "candidates": [
+      "Daily Torah Study",
+      "Missing Shema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's teaching about Torah being as dear each day as when given at Sinai, which is precisely what the 'Daily Torah Study' prose section analyzes in detail.",
+      "chosen_heading": "Daily Torah Study",
+      "current_heading": "Daily Torah Study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Missing Shema",
+    "candidates": [
+      "Missing Shema",
+      "Learning Groups",
+      "Against Lone Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Tan\u1e25um's teaching that missing one evening of Shema recitation feels as if one never recited Shema, which is exactly what the 'Missing Shema' section's prose discusses in detail.",
+      "chosen_heading": "Missing Shema",
+      "current_heading": "Missing Shema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Against Lone Study",
+    "candidates": [
+      "Learning Groups",
+      "Against Lone Study",
+      "Self-Sacrifice Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Against Lone Study': item 1 presents Rabbi Yosei bar Hanina's teaching about the dangers of isolated Torah study with the gezerah shavah on 'noalu', and item 2 offers an alternative source for that same 'noalu' derivation \u2014 both directly support the prose in candidate 1 about lone study making scholars foolish and sinful.",
+      "chosen_heading": "Against Lone Study",
+      "current_heading": "Against Lone Study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Self-Sacrifice Torah",
+    "candidates": [
+      "Self-Sacrifice Torah",
+      "Listen Then Analyze"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses killing oneself over Torah study (memit atzmo aleiha) and the verse 'zot haTorah adam ki yamut be-ohel', which matches exactly the 'Self-Sacrifice Torah' section's prose about grinding oneself over Torah and Resh Lakish's teaching about Torah enduring only in one who gives his life for it.",
+      "chosen_heading": "Self-Sacrifice Torah",
+      "current_heading": "Self-Sacrifice Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Listen Then Analyze",
+    "candidates": [
+      "Listen Then Analyze",
+      "Butter Torah Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'has then kattet' interpretation and Rava's principle of first learning then analyzing, which is precisely what the 'Listen Then Analyze' section prose describes.",
+      "chosen_heading": "Listen Then Analyze",
+      "current_heading": "Listen Then Analyze",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Butter Torah Metaphor",
+    "candidates": [
+      "Butter Torah Metaphor",
+      "Accepting Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening of the Rabbi Yannai exposition on the milk/butter verse, which the 'Butter Torah Metaphor' prose directly describes and expounds.",
+      "chosen_heading": "Butter Torah Metaphor",
+      "current_heading": "Butter Torah Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Accepting Rebuke",
+    "candidates": [
+      "Accepting Rebuke",
+      "Pride Torah Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of 'Accepting Rebuke' directly quotes and explains both passages verbatim \u2014 the student silent before an angry rabbi meriting distinction between pure/impure blood and between monetary/capital cases \u2014 matching the content of both items exactly.",
+      "chosen_heading": "Accepting Rebuke",
+      "current_heading": "Accepting Rebuke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Pride Torah Sacrifice",
+    "candidates": [
+      "Pride Torah Sacrifice",
+      "Nechemia Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage from Rabbi Shmuel bar Na\u1e25mani expounds the same verse (Proverbs 30:32) about abasing oneself over Torah to ultimately be exalted, which is precisely the theme of self-sacrifice and pride in Torah learning discussed in the 'Pride Torah Sacrifice' prose.",
+      "chosen_heading": "Pride Torah Sacrifice",
+      "current_heading": "Pride Torah Sacrifice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Nechemia Drasha",
+    "candidates": [
+      "Nechemia Drasha",
+      "Yosi Non-Jewish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ne\u1e25emya's drashah about honoring hosts using the Kenite/Jethro kal vachomer, which exactly matches the prose under 'Nechemia Drasha' where the essay author discusses this very passage in detail.",
+      "chosen_heading": "Nechemia Drasha",
+      "current_heading": "Nechemia Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Yosi Non-Jewish",
+    "candidates": [
+      "Yosi Non-Jewish",
+      "Oved Edom Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the Rabbi Yosi drasha about honoring hosts using the Edomite/Egyptian kal vachomer, which is precisely what the 'Yosi Non-Jewish' prose describes.",
+      "chosen_heading": "Yosi Non-Jewish",
+      "current_heading": "Yosi Non-Jewish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Oved Edom Blessing",
+    "candidates": [
+      "Oved Edom Blessing",
+      "Sextuplets Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source for the kal vachomer about hosting a Torah scholar derived from Oved Edom's blessing, which is precisely what heading 0's prose discusses in detail.",
+      "chosen_heading": "Oved Edom Blessing",
+      "current_heading": "Oved Edom Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Sextuplets Reward",
+    "candidates": [
+      "Sextuplets Reward",
+      "Pushing Hour"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the blessing of Oved-edom through sextuplets and the arithmetic derived from Chronicles, which exactly matches the 'Sextuplets Reward' section's prose about Rav Yehuda bar Zvida's teaching and the sixty-two descendants calculation.",
+      "chosen_heading": "Sextuplets Reward",
+      "current_heading": "Sextuplets Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Pushing Hour",
+    "candidates": [
+      "Pushing Hour",
+      "Sinai vs Mountains",
+      "Sinai Precedence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the 'pushing the hour' principle that the prose of heading 0 explicitly describes and paraphrases.",
+      "chosen_heading": "Pushing Hour",
+      "current_heading": "Pushing Hour",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Sinai Precedence",
+    "candidates": [
+      "Sinai vs Mountains",
+      "Sinai Precedence",
+      "Yosef Refusal",
+      "Predicted Fate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire Rabba/Rav Yosef episode in one unit \u2014 introducing the two figures, the question sent to Eretz Yisrael, the answer, and Rav Yosef's refusal \u2014 which all together best fits under 'Sinai vs Mountains' where the prose introduces and frames the whole incident, rather than splitting it across the later headings that discuss only sub-parts.",
+      "chosen_heading": "Sinai vs Mountains",
+      "current_heading": "Sinai Precedence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Predicted Fate",
+    "candidates": [
+      "Yosef Refusal",
+      "Predicted Fate",
+      "Yosef Humility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbah's twenty-two year tenure and Rav Yosef's two-and-a-half year tenure, which is precisely what the 'Predicted Fate' section discusses \u2014 the fulfillment of the seers' prediction.",
+      "chosen_heading": "Predicted Fate",
+      "current_heading": "Predicted Fate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Yosef Humility",
+    "candidates": [
+      "Yosef Humility",
+      "Parting Peace",
+      "Beam Owner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yosef's humility during Rabbah's leadership by not summoning a bloodletter, which matches exactly the 'Yosef Humility' section's prose about self-effacement during Rabbah's tenure.",
+      "chosen_heading": "Yosef Humility",
+      "current_heading": "Yosef Humility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Beam Owner",
+    "candidates": [
+      "Parting Peace",
+      "Beam Owner",
+      "Meal Divine Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Avin HaLevi's teaching about the God of Jacob and the beam owner principle, which exactly matches the 'Beam Owner' section's prose about ba'al hakorah and Elohei Yaakov.",
+      "chosen_heading": "Beam Owner",
+      "current_heading": "Beam Owner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Meal Divine Presence",
+    "candidates": [
+      "Meal Divine Presence",
+      "Yitro Avshalom",
+      "Synagogue to Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic text (Rabbi Avin HaLevi's teaching on benefiting from a meal with a Torah scholar equaling the radiance of the Shekhinah, with the Yitro proof text) that candidate 0's prose explicitly discusses and analyzes in full detail.",
+      "chosen_heading": "Meal Divine Presence",
+      "current_heading": "Meal Divine Presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Synagogue to Study",
+    "candidates": [
+      "Yitro Avshalom",
+      "Synagogue to Study",
+      "Torah Eternal Growth"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yitro Avshalom",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are Rabbi Avin HaLevi's paired teachings about leave-taking (lech l'shalom vs. lech beshalom for the living and the dead), which directly match the 'Yitro Avshalom' prose discussing the Jethro/Absalom contrast and the significance of the two farewell formulas.",
+      "second_heading": "Synagogue to Study",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Levi bar \u1e24iyya's teaching about leaving the synagogue for the study hall and receiving the Divine Presence, which is precisely what the 'Synagogue to Study' prose discusses and expounds upon.",
+      "current_heading": "Synagogue to Study",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Torah Eternal Growth",
+    "candidates": [
+      "Torah Eternal Growth",
+      "Peace World Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Torah scholars having no rest and progressing from strength to strength, which is exactly what the 'Torah Eternal Growth' section's prose describes and analyzes.",
+      "chosen_heading": "Torah Eternal Growth",
+      "current_heading": "Torah Eternal Growth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Peace World Torah",
+    "candidates": [
+      "Peace World Torah",
+      "Ending Shalom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Elazar/Rabbi \u1e24anina teaching about Torah scholars increasing peace, including the homiletical reading of banayikh as bonayikh and the cascade of peace verses \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Peace World Torah",
+      "current_heading": "Peace World Torah",
+      "moved": false
+    }
+  }
+]

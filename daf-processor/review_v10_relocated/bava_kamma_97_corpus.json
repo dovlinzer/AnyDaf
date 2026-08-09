@@ -1,0 +1,436 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Aged Animals & Slaves",
+    "candidates": [
+      "Aged Animals & Slaves",
+      "Three Response Categories",
+      "Visible Damage Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the mishna about aged animals and slaves that the prose of candidate 0 directly quotes, analyzes, and introduces.",
+      "chosen_heading": "Aged Animals & Slaves",
+      "current_heading": "Aged Animals & Slaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Visible Damage Cases",
+    "candidates": [
+      "Three Response Categories",
+      "Visible Damage Cases",
+      "Non-Visible Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the coin/produce/wine cases (gazal matbe'a venistak, peiros vehirkivu, yayin vehechimitz) with the ruling of meshalem k'sha'as hagezeila, which is precisely what the 'Visible Damage Cases' prose discusses.",
+      "chosen_heading": "Visible Damage Cases",
+      "current_heading": "Visible Damage Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Non-Visible Damage",
+    "candidates": [
+      "Non-Visible Damage",
+      "Rav Pappa's Weakening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists exactly the cases of non-visible damage (invalidated coin, impure teruma, chametz after Pesach, disqualified animal) that candidate 0's prose explicitly describes and analyzes under the heading 'Non-Visible Damage.'",
+      "chosen_heading": "Non-Visible Damage",
+      "current_heading": "Non-Visible Damage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rav Pappa's Weakening",
+    "candidates": [
+      "Rav Pappa's Weakening",
+      "Lamb to Ram Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's interpretation of 'hizkinah' as including permanent weakening ('kichashah ke'ein hizkinah, dilo hadra bari'), which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rav Pappa's Weakening",
+      "current_heading": "Rav Pappa's Weakening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Lamb to Ram Example",
+    "candidates": [
+      "Lamb to Ram Example",
+      "Source Clarification",
+      "Middle Category Debate",
+      "Rabbi Meir on Slaves",
+      "Rav's Text Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the teaching about lamb-to-ram attributed to Rabbi Yochanan and Rav Ashi's correction of attribution, and the current heading's prose covers both parts of this exchange (the teaching itself and the attribution correction appears under heading 1), but the full gemara passage as a unit matches best under heading 0 which discusses the lamb-to-ram teaching \u2014 and heading 1's prose about the correction is actually a continuation of the same passage, so keeping it under heading 0 (current placement) is correct since all items belong together.",
+      "chosen_heading": "Lamb to Ram Example",
+      "current_heading": "Lamb to Ram Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Rav's Text Reversal",
+    "candidates": [
+      "Source Clarification",
+      "Middle Category Debate",
+      "Rabbi Meir on Slaves",
+      "Rav's Text Reversal",
+      "Birth During Sale Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items discuss Rav's ruling like Rabbi Meir, the challenge about abandoning the Rabbis, and the resolution involving reversed baraitot and the principle of chada mikamei tartei \u2014 exactly what candidate 3 ('Rav's Text Reversal') describes in its prose.",
+      "chosen_heading": "Rav's Text Reversal",
+      "current_heading": "Rav's Text Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Birth During Sale Case",
+    "candidates": [
+      "Birth During Sale Case",
+      "Kinyan Agreement",
+      "Rav's Exemption",
+      "Nigzal vs. Karka",
+      "She'lo B'Shas Melakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the baraita about exchanging a cow for a donkey / selling a maidservant, including the dispute between Rabbi Meir and the Rabbis about oaths on slaves, and the Gemara's resolution about Rav's reversed attribution \u2014 exactly the content described in the 'Birth During Sale Case' prose.",
+      "chosen_heading": "Birth During Sale Case",
+      "current_heading": "Birth During Sale Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "She'lo B'Shas Melakha",
+    "candidates": [
+      "Kinyan Agreement",
+      "Rav's Exemption",
+      "Nigzal vs. Karka",
+      "She'lo B'Shas Melakha",
+      "Debtors' Slaves Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: the challenge to Rav's ruling (item 1), the she'lo b'shas melakha answer with the courtyard analogy (item 2), and the rejection of that analogy (item 3) \u2014 exactly the content described in heading 3's prose about the she'lo b'shas melakha resolution and the house/slave comparison challenge.",
+      "chosen_heading": "She'lo B'Shas Melakha",
+      "current_heading": "She'lo B'Shas Melakha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Debtors' Slaves Case",
+    "candidates": [
+      "Debtors' Slaves Case",
+      "Worth Their Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly continues the back-and-forth between Rabba and Rav Yosef bar Chama about whether using a debtor's slave harms the master \u2014 specifically the question of whether it is 'satisfactory' for the master that his slave be weakened or have his work habits undone, which is the exact challenge and response described in the ''Worth Their Bread'' prose section.",
+      "chosen_heading": "Worth Their Bread",
+      "current_heading": "Debtors' Slaves Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Worth Their Bread",
+    "candidates": [
+      "Debtors' Slaves Case",
+      "Worth Their Bread",
+      "Defense of Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the household practice of seizing debtors' slaves and the initial exchange including Rav Nachman's citation, which corresponds precisely to heading 0's prose about the practice of seizing debtors' slaves and the debt relationship \u2014 while heading 1 ('Worth Their Bread') actually describes the *rebuttal* to Rav Nachman's statement (Daru/Rabba's pushback), which is the second half of this same passage, suggesting the passage as a whole belongs under heading 0 where the practice and its initial justification are introduced.",
+      "chosen_heading": "Debtors' Slaves Case",
+      "current_heading": "Worth Their Bread",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Defense of Use",
+    "candidates": [
+      "Defense of Use",
+      "Ribbis Concern",
+      "Debt Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yosef bar \u1e24ama citing Rav Daniel's ruling to justify seizing another's slave, which is precisely what the 'Defense of Use' prose describes as Rav Yosef bar Chama's argument (*ana ke'Rav Daniel sevirah li*).",
+      "chosen_heading": "Defense of Use",
+      "current_heading": "Defense of Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Debt Exception",
+    "candidates": [
+      "Ribbis Concern",
+      "Debt Exception",
+      "Rav: Sechar or Pachis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the ribbis objection and the Rav Nachman ruling as the gemara's challenge to Rav Yosef bar Chama, which is precisely what heading 0 ('Ribbis Concern') describes \u2014 the objection that seizing debtors' slaves creates the appearance of interest \u2014 whereas heading 1 covers the aftermath and broader synthesis after the retraction.",
+      "chosen_heading": "Ribbis Concern",
+      "current_heading": "Debt Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rav: Sechar or Pachis",
+    "candidates": [
+      "Debt Exception",
+      "Rav: Sechar or Pachis",
+      "Shmuel: Pachis Only",
+      "Rental Status Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the amoraic dispute between Rav and Shmuel about seizing another's boat, which is precisely what the 'Rav: Sechar or Pachis' section's prose introduces and discusses, making the current placement correct.",
+      "chosen_heading": "Rav: Sechar or Pachis",
+      "current_heading": "Rav: Sechar or Pachis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rental Status Matter",
+    "candidates": [
+      "Shmuel: Pachis Only",
+      "Rental Status Matter",
+      "Intent & Implicit Terms",
+      "Crack vs. Invalidation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rav Pappa's statement resolving the dispute between Rav and Shmuel based on whether the boat is normally available for rental is precisely what the 'Rental Status Matter' section's prose describes.",
+      "chosen_heading": "Rental Status Matter",
+      "current_heading": "Rental Status Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Crack vs. Invalidation",
+    "candidates": [
+      "Intent & Implicit Terms",
+      "Crack vs. Invalidation",
+      "Yehuda's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Huna's distinction between a physically cracked coin and one invalidated by the government, which is exactly what the 'Crack vs. Invalidation' section's prose describes.",
+      "chosen_heading": "Crack vs. Invalidation",
+      "current_heading": "Crack vs. Invalidation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Yehuda's Challenge",
+    "candidates": [
+      "Yehuda's Challenge",
+      "Chisda's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Yehuda's statement that government invalidation equals a crack and that nifsal means invalidated in one province but still circulating in another \u2014 exactly what the prose under 'Yehuda's Challenge' describes.",
+      "chosen_heading": "Yehuda's Challenge",
+      "current_heading": "Yehuda's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Chisda's Question",
+    "candidates": [
+      "Chisda's Question",
+      "Sense Perception Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's challenge to Rav Huna comparing invalidated coins to rotten produce/vinegared wine, which is exactly what the 'Chisda's Question' prose describes.",
+      "chosen_heading": "Chisda's Question",
+      "current_heading": "Chisda's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Sense Perception Test",
+    "candidates": [
+      "Sense Perception Test",
+      "Rava on Teruma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's direct response about taste and smell changing versus the coin not changing, which is exactly what the 'Sense Perception Test' prose discusses.",
+      "chosen_heading": "Sense Perception Test",
+      "current_heading": "Sense Perception Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rava on Teruma",
+    "candidates": [
+      "Rava on Teruma",
+      "Minkar Heizika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's challenge to Rav Yehuda using the case of teruma that became impure, which is exactly what heading 0 'Rava on Teruma' describes \u2014 the question itself, not the answer (minkar heizika) which belongs under heading 1.",
+      "chosen_heading": "Rava on Teruma",
+      "current_heading": "Rava on Teruma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Minkar Heizika",
+    "candidates": [
+      "Minkar Heizika",
+      "Loan Setup",
+      "Rav: Current Currency",
+      "Shmuel: Old Currency OK",
+      "Travel Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the governing principle 'lo minkar heizika / minkar heizika' which is precisely what the 'Minkar Heizika' section's prose is about.",
+      "chosen_heading": "Minkar Heizika",
+      "current_heading": "Minkar Heizika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Travel Condition",
+    "candidates": [
+      "Loan Setup",
+      "Rav: Current Currency",
+      "Shmuel: Old Currency OK",
+      "Travel Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete dispute (Rav, Shmuel, and Rav Na\u1e25man's qualification) that the 'Loan Setup' prose introduces as a single new case about a loan made on a specific coin that becomes invalidated \u2014 the subsequent headings each cover only one part of this unified sugya, but the passage as a whole belongs under the introductory heading that frames the entire scenario.",
+      "chosen_heading": "Loan Setup",
+      "current_heading": "Travel Condition",
+      "moved": true
+    }
+  }
+]

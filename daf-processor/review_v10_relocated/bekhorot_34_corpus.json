@@ -1,0 +1,498 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "R. Yehuda: Prohibit",
+    "candidates": [
+      "Intro: Blood Clot",
+      "R. Yehuda: Prohibit",
+      "Sages: Conditional",
+      "R. Shimon: Lenient",
+      "Biblical Source",
+      "R. Meir Position",
+      "Sages: No Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Meir's view from the baraita \u2014 permitting bloodletting only where no mum results \u2014 which is exactly what the 'R. Meir Position' section describes, not the stricter Rabbi Yehuda position under which it currently sits.",
+      "chosen_heading": "R. Meir Position",
+      "current_heading": "R. Yehuda: Prohibit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Sages: No Slaughter",
+    "candidates": [
+      "Sages: Conditional",
+      "R. Shimon: Lenient",
+      "Biblical Source",
+      "R. Meir Position",
+      "Sages: No Slaughter",
+      "R. Shimon: Allow",
+      "R. Yehuda: Forbid All",
+      "Comparison Intro",
+      "Terumah Setup",
+      "R. Eliezer Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbis permitting bloodletting even where a mum results but prohibiting slaughter on that basis, Rabbi Shimon permitting slaughter on that basis, and Rabbi Yehuda forbidding all bloodletting \u2014 this is the baraita content described in heading 4 ('Sages: No Slaughter'), which is where it currently sits and which matches the passage's content precisely.",
+      "chosen_heading": "Sages: No Slaughter",
+      "current_heading": "Sages: No Slaughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "R. Eliezer Terumah",
+    "candidates": [
+      "R. Shimon: Allow",
+      "R. Yehuda: Forbid All",
+      "Comparison Intro",
+      "Terumah Setup",
+      "R. Eliezer Terumah",
+      "R. Yehoshua Terumah",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the comparison between the baraita dispute and the terumah barrel dispute, which matches exactly the 'Comparison Intro' section prose describing Rabbi Eliezer/Chiyya teaching his son the parallel \u2014 'ke-machloket kan kach machloket be-chavit shel terumah'.",
+      "chosen_heading": "Comparison Intro",
+      "current_heading": "R. Eliezer Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "R. Yehoshua Terumah",
+      "Rabban Gamliel",
+      "Correspondence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua's statement and Rabban Gamliel's statement as a single unit, and since it includes Rabbi Yehoshua's view as its primary content, it belongs under the 'R. Yehoshua Terumah' heading which discusses both positions together as part of the same dispute.",
+      "chosen_heading": "R. Yehoshua Terumah",
+      "current_heading": "Rabban Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Correspondence",
+    "candidates": [
+      "Rabban Gamliel",
+      "Correspondence",
+      "Direct vs Indirect Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly draws the correspondence between Rabbi Meir/Rabbi Eliezer, the Rabbis/Rabbi Yehoshua, and Rabbi Yehuda/Rabban Gamliel, which is precisely what the 'Correspondence' section's prose describes.",
+      "chosen_heading": "Correspondence",
+      "current_heading": "Correspondence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Direct vs Indirect Action",
+    "candidates": [
+      "Direct vs Indirect Action",
+      "Objection: Facts v"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the direct vs. indirect action distinction (beyadayim vs. garma) which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Direct vs Indirect Action",
+      "current_heading": "Direct vs Indirect Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Objection: Facts v",
+    "candidates": [
+      "Objection: Facts v",
+      "Objections 3-6"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically articulates the 'shema yavo Eliyahu' reasoning contrasted with the urgency of the bechor case, which is precisely what heading 0's prose describes as the second objection.",
+      "chosen_heading": "Objection: Facts v",
+      "current_heading": "Objection: Facts v",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Objections 3-6",
+    "candidates": [
+      "Objections 3-6",
+      "Cases Not Parallel",
+      "Assumption: Blemished",
+      "Tosafot: Analysis",
+      "Debate Restated",
+      "Textual Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the same bidirectional symmetry analysis \u2014 reversing each position's logic between the bechor and terumah cases \u2014 which is precisely what the 'Objections 3-6' prose describes.",
+      "chosen_heading": "Objections 3-6",
+      "current_heading": "Objections 3-6",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Textual Parallels",
+    "candidates": [
+      "Cases Not Parallel",
+      "Assumption: Blemished",
+      "Tosafot: Analysis",
+      "Debate Restated",
+      "Textual Parallels",
+      "R. Meir: Act Focus",
+      "Sages: Result Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present the two 'hakol modim' precedents (leavening after leavening, castrating after castrating) that candidate 4's prose explicitly describes as the scriptural basis being laid out, matching the current placement exactly.",
+      "chosen_heading": "Textual Parallels",
+      "current_heading": "Textual Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Sages: Result Focus",
+    "candidates": [
+      "R. Meir: Act Focus",
+      "Sages: Result Focus",
+      "Act vs. Result",
+      "Grama Implication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Meir's and the Rabbis' positions together as a single unit explaining the disputed case, and its content (introducing the dispute about blemish-upon-blemish and stating both views) best matches heading 0 'R. Meir: Act Focus,' which is where the essay introduces this very dispute and Rabbi Meir's position \u2014 the Rabbis' view is mentioned there as context, whereas heading 1 treats only the Rabbis' elaborated reasoning as a standalone section.",
+      "chosen_heading": "R. Meir: Act Focus",
+      "current_heading": "Sages: Result Focus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Grama Implication",
+    "candidates": [
+      "Act vs. Result",
+      "Grama Implication",
+      "Guarding Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items deal with the scriptural basis for extending or limiting the blemish prohibition \u2014 Rabbi Meir's use of 'tamim yihyeh le-ratzon,' the exclusion of disqualified consecrated animals after redemption, and the rabbanan's derivation from 'kol mum' to cover indirect causation (grama) \u2014 which is precisely what the 'Grama Implication' prose describes.",
+      "chosen_heading": "Grama Implication",
+      "current_heading": "Grama Implication",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Guarding Source",
+    "candidates": [
+      "Guarding Source",
+      "R. Eliezer: Dual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the verse 'terumotai' as the scriptural basis for the terumah dispute, which matches the 'Guarding Source' prose that discusses this exact verse and its role in establishing the shemirah obligation.",
+      "chosen_heading": "Guarding Source",
+      "current_heading": "Guarding Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "R. Eliezer: Dual",
+    "candidates": [
+      "R. Eliezer: Dual",
+      "R. Yehoshua: Singular",
+      "Different Bases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Eliezer's and Rabbi Yehoshua's positions as a paired unit explaining their respective readings, and the current heading 'R. Eliezer: Dual' with its prose about the plural reading and dual categories of terumah is the best match for this combined textual item that leads with Rabbi Eliezer's interpretation.",
+      "chosen_heading": "R. Eliezer: Dual",
+      "current_heading": "R. Eliezer: Dual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Different Bases",
+    "candidates": [
+      "R. Yehoshua: Singular",
+      "Different Bases",
+      "Benefit Logic",
+      "Possibility Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the bevigdo bah contradiction \u2014 Rabbi Akiva reading by vocalization versus Rabbi Eliezer reading by spelling \u2014 which is precisely the detour described in the 'Different Bases' prose as the gemara's challenge to Rabbi Eliezer being categorized as following yeish em lamikra.",
+      "chosen_heading": "Different Bases",
+      "current_heading": "Different Bases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Possibility Argument",
+    "candidates": [
+      "Benefit Logic",
+      "Possibility Argument",
+      "Rav Yehuda Ruling",
+      "Which R. Shimon?",
+      "If Mishna",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage presents both Rabbi Yehoshua's 'lecha' limiting principle and Rabbi Eliezer's 'shema yavo Eliyahu' counter-argument together as a unified dispute, but the 'Benefit Logic' heading's prose covers both positions (including the Elijah possibility) as part of explaining the natati lecha framework, while the current 'Possibility Argument' heading focuses only on Rabbi Eliezer's side \u2014 however, since the passage actually contains both sides of the dispute and the essay appears to have split them across two sections, the current placement under 'Possibility Argument' is defensible since that section's prose explicitly quotes the Elijah phrase that appears in this passage.",
+      "chosen_heading": "Benefit Logic",
+      "current_heading": "Possibility Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav Yehuda Ruling",
+      "Which R. Shimon?",
+      "If Mishna",
+      "Rav vs. Shmuel",
+      "Two Explanations",
+      "Rashi Approach",
+      "Tosafot Distinction",
+      "Must Be Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the objection that Shmuel's ruling cannot refer to Rabbi Shimon of the mishna because that would be redundant \u2014 Shmuel already rules that davar she-eino mitkavein is permitted, as confirmed by Rav \u1e24anin bar Ashi and Rav \u1e24iyya bar Avin \u2014 which is precisely what candidate 2 ('If Mishna') describes.",
+      "chosen_heading": "If Mishna",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Must Be Baraita",
+    "candidates": [
+      "Two Explanations",
+      "Rashi Approach",
+      "Tosafot Distinction",
+      "Must Be Baraita",
+      "Nicking Prohibited",
+      "R. Eliezer: Forever"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly states the ruling must refer to Rabbi Shimon of the baraita and that Rav Sheisha explicitly transmits 'halacha ke-Rabbi Shimon de-baraita,' which is precisely what the 'Must Be Baraita' section's prose discusses.",
+      "chosen_heading": "Must Be Baraita",
+      "current_heading": "Must Be Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "R. Eliezer: Forever",
+    "candidates": [
+      "Nicking Prohibited",
+      "R. Eliezer: Forever",
+      "Sages: Another Blemish OK",
+      "Deterrent Logic",
+      "Question Severity",
+      "Tzaraat Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces the case of slitting a firstborn's ear and presents both Rabbi Eliezer's and the Rabbis' positions together, matching heading 0's prose which describes the introductory mishna and notes that all agree shechita on the deliberately inflicted mum is never permissible \u2014 the subsequent headings discuss the Gemara's analysis of each opinion separately.",
+      "chosen_heading": "Nicking Prohibited",
+      "current_heading": "R. Eliezer: Forever",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Tzaraat Parallel",
+    "candidates": [
+      "Sages: Another Blemish OK",
+      "Deterrent Logic",
+      "Question Severity",
+      "Tzaraat Parallel",
+      "Rabbah Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage opens with the Gemara's challenge 'does Rabbi Eliezer penalize forever?' and raises the tzaraat contradiction \u2014 this is exactly the 'Question Severity' section's content (prompting a challenge and sharpening it with a contrasting case), whereas candidate 3 'Tzaraat Parallel' describes the resolution/analysis of that case, which would follow after this challenge is introduced.",
+      "chosen_heading": "Question Severity",
+      "current_heading": "Tzaraat Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Rabbah Resolves",
+    "candidates": [
+      "Tzaraat Parallel",
+      "Rabbah Resolves",
+      "Property vs. Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of Rabbah and Rav Yosef's resolution distinguishing property from body penalties, which is exactly what the 'Rabbah Resolves' section's prose describes.",
+      "chosen_heading": "Rabbah Resolves",
+      "current_heading": "Rabbah Resolves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Property vs. Body",
+    "candidates": [
+      "Property vs. Body",
+      "Rava Question",
+      "Different Approaches",
+      "Formalism: Negate",
+      "Nick Negated",
+      "Spot Still There",
+      "Policy: Deterrent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage explicitly articulates Rabbi Eliezer's deterrence-based reasoning \u2014 distinguishing property (where temptation is real and downside negligible) from body (where suffering already deters) \u2014 which is exactly what the 'Policy: Deterrent' section's prose describes.",
+      "chosen_heading": "Policy: Deterrent",
+      "current_heading": "Property vs. Body",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153,
+      154
+    ],
+    "current_heading": "Policy: Deterrent",
+    "candidates": [
+      "Rava Question",
+      "Different Approaches",
+      "Formalism: Negate",
+      "Nick Negated",
+      "Spot Still There",
+      "Policy: Deterrent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rava's challenge about the Rabbis' apparent contradiction between the two mishnayot and its resolution \u2014 exactly what the 'Rava Question' prose describes \u2014 not the policy/deterrent framework of the current placement under 'Policy: Deterrent'.",
+      "chosen_heading": "Rava Question",
+      "current_heading": "Policy: Deterrent",
+      "moved": true
+    }
+  }
+]

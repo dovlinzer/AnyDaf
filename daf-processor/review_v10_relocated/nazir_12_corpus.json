@@ -1,0 +1,239 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Unspecified Marriage",
+    "candidates": [
+      "Mishnah Setup",
+      "Unspecified Marriage",
+      "Tosafot Fine",
+      "Kavua Principle",
+      "Bird Pairs Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the ruling of Rabbi Yitz\u1e25ak bar Yosef in the name of Rabbi Yo\u1e25anan about an agent sent to betroth an unspecified woman, which is precisely what the 'Unspecified Marriage' section's prose describes.",
+      "chosen_heading": "Unspecified Marriage",
+      "current_heading": "Unspecified Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Bird Pairs Lost",
+    "candidates": [
+      "Tosafot Fine",
+      "Kavua Principle",
+      "Bird Pairs Lost",
+      "Fixed Places"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the continuous challenge from Reish Lakish to Rabbi Yochanan using the Mishnah of kinim \u2014 the unspecified nest, the specified nest, and the inference about all other nests \u2014 which is precisely what the 'Bird Pairs Lost' prose describes.",
+      "chosen_heading": "Bird Pairs Lost",
+      "current_heading": "Bird Pairs Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Fixed Places",
+    "candidates": [
+      "Fixed Places",
+      "Recognizable Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yochanan's distinction between fixed women and mobile birds (kavua/nayda), which is precisely what the 'Fixed Places' prose elaborates on, including the specific phrases kamina ana isha d'lo nayda and hadar lenichusa.",
+      "chosen_heading": "Fixed Places",
+      "current_heading": "Fixed Places",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Recognizable Forbidden",
+    "candidates": [
+      "Recognizable Forbidden",
+      "Sister Divorced Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's clarification of Rabbi Yo\u1e25anan's concessions \u2014 specifically the case of no relatives and the sister who was married at the time of appointment then later divorced \u2014 which is exactly what the 'Recognizable Forbidden' prose discusses in detail.",
+      "chosen_heading": "Recognizable Forbidden",
+      "current_heading": "Recognizable Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Sister Divorced Later",
+    "candidates": [
+      "Sister Divorced Later",
+      "Thought vs. Power",
+      "Current Availability",
+      "Future Nazirite"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Current Availability",
+      "first_confidence": "high",
+      "first_reason": "Item 1 articulates the core principle that a shaliach is empowered only in matters present before him at the time of appointment, which is exactly what heading 2 ('Current Availability') discusses.",
+      "second_heading": "Future Nazirite",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the nazirite mishna challenge about the first man's vow covering a future nazirite, which is precisely the content described in heading 3 ('Future Nazirite').",
+      "current_heading": "Sister Divorced Later",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Future Nazirite",
+    "candidates": [
+      "Thought vs. Power",
+      "Current Availability",
+      "Future Nazirite",
+      "Guardian Annuls",
+      "Yoshiya vs. Yonatan",
+      "Verse Obstacle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's articulation and defense of the 'current availability' principle \u2014 item 1 raises the nazirite analogy as a challenge to Rava's ruling, and item 2 rejects it by stating the core rule that a person appoints an agent only for what he can currently do himself \u2014 which is precisely what the 'Current Availability' prose section describes and discusses.",
+      "chosen_heading": "Current Availability",
+      "current_heading": "Future Nazirite",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Verse Obstacle",
+    "candidates": [
+      "Guardian Annuls",
+      "Yoshiya vs. Yonatan",
+      "Verse Obstacle",
+      "Pre-annul Question",
+      "Two Men Half",
+      "Meir vs. Sages",
+      "Grammar of Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous gemara discussion testing whether the epitropos case contradicts Rava's principle, moving from the baraita (item 1), to the reasoning about the verse obstacle (item 2), to the question about the Rabbis' view (item 3), to the rejection involving Rabbi Eliezer (item 4) \u2014 exactly what the 'Verse Obstacle' prose describes.",
+      "chosen_heading": "Verse Obstacle",
+      "current_heading": "Verse Obstacle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Grammar of Half",
+    "candidates": [
+      "Pre-annul Question",
+      "Two Men Half",
+      "Meir vs. Sages",
+      "Grammar of Half",
+      "Tosafot Grammar",
+      "Vow Upon Birth",
+      "Tumtum Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Men Half",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the two-men-half-nazirite case, which the prose of 'Two Men Half' (index 1) explicitly introduces as 'the next mishnah presents the following case.'",
+      "second_heading": "Grammar of Half",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 are Rava's gemara clarifying the grammar of 'half' and the dispute between Rabbi Meir and the Rabbis, which is precisely what the 'Grammar of Half' (index 3) prose describes in detail.",
+      "current_heading": "Grammar of Half",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tumtum Question",
+    "candidates": [
+      "Tosafot Grammar",
+      "Vow Upon Birth",
+      "Tumtum Question",
+      "Doubtful Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers the full content of the 'Vow Upon Birth' section \u2014 the conditional nazir vow triggered by the birth of a son \u2014 which is the opening topic of this mishnah, before the tumtum/androginos details discussed in candidate 2.",
+      "chosen_heading": "Vow Upon Birth",
+      "current_heading": "Tumtum Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Doubtful Status",
+    "candidates": [
+      "Tumtum Question",
+      "Doubtful Status",
+      "Second Child"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Doubtful Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the mishnaic text about miscarriage and second birth with Rabbi Shimon's declarations, directly matching the prose of candidates 1 ('Doubtful Status') and 2 ('Second Child') \u2014 but since items 1-2 together span both those sections, the split places item 1 under candidate 1 and item 2 under candidate 2.",
+      "second_heading": "Tumtum Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are Gemara discussing why the mishna needed to state the rulings about son/daughter/tumtum/androgynos and the word 'valad', which directly matches the 'Tumtum Question' prose about those very cases and the distinction between 'ben' and 'valad'.",
+      "current_heading": "Doubtful Status",
+      "moved": true
+    }
+  }
+]

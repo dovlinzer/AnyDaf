@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Beit Shammai Position",
+    "candidates": [
+      "Intro: Pestle & Eli",
+      "Beit Shammai Position",
+      "Beit Hillel Allows",
+      "Tosafos & Chisaron",
+      "Pestle vs. Block"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The baraita states that both Beit Shammai and Beit Hillel agree that once meat has been cut on the pestle it becomes muktze and may not be moved \u2014 this is a clarification of the scope of their agreement/disagreement, which fits squarely under 'Pestle vs. Block' where the Gemara discusses what the two houses agree and disagree about regarding the pestle.",
+      "chosen_heading": "Pestle vs. Block",
+      "current_heading": "Beit Shammai Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Pestle vs. Block",
+    "candidates": [
+      "Beit Hillel Allows",
+      "Tosafos & Chisaron",
+      "Pestle vs. Block",
+      "Abaye: New Block"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items form a continuous question-and-answer sequence about Abaye's statement regarding the pestle vs. butcher block distinction, which is precisely what the 'Pestle vs. Block' section's prose describes.",
+      "chosen_heading": "Pestle vs. Block",
+      "current_heading": "Pestle vs. Block",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Abaye: New Block",
+    "candidates": [
+      "Abaye: New Block",
+      "Rashi: Effort",
+      "Baraita: Butcher",
+      "Reshus HaRabim",
+      "Beit Hillel Allows",
+      "Spices & Mortar",
+      "Gemara: Change Mind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's 'some say' version about a new butcher block and the concern that one will reconsider, which is exactly what the 'Abaye: New Block' prose describes.",
+      "chosen_heading": "Abaye: New Block",
+      "current_heading": "Abaye: New Block",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Gemara: Change Mind",
+    "candidates": [
+      "Rashi: Effort",
+      "Baraita: Butcher",
+      "Reshus HaRabim",
+      "Beit Hillel Allows",
+      "Spices & Mortar",
+      "Gemara: Change Mind",
+      "Animals vs. Vessels",
+      "Agreement: After Use"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita: Butcher",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the baraita challenge showing Beit Shammai is concerned about changing one's mind (butcher/knife case and spices/mortar case), which matches the prose of candidates 1 ('Baraita: Butcher') through 4 ('Spices & Mortar') \u2014 and since the essay splits these into separate headings, items 1-2 belong under candidate 1 where the baraita challenge is introduced.",
+      "second_heading": "Gemara: Change Mind",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's resolution distinguishing the animal and spice cases (where reconsidering is realistic) from the butcher-block case (where it is not), which is precisely what candidate 5 ('Gemara: Change Mind') describes in its prose.",
+      "current_heading": "Gemara: Change Mind",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Agreement: After Use",
+    "candidates": [
+      "Animals vs. Vessels",
+      "Agreement: After Use",
+      "Salt with Skin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's ruling distinguishing salting for roasting (l'tzli) from salting for a pot (l'kedeira), which is precisely what the 'Salt with Skin' section's prose analyzes in detail.",
+      "chosen_heading": "Salt with Skin",
+      "current_heading": "Agreement: After Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Salt with Skin",
+    "candidates": [
+      "Agreement: After Use",
+      "Salt with Skin",
+      "Salt Amount",
+      "Fats Issue",
+      "Hang in Wind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the Gemara's question 'pshita' (obvious) and its answer that even salting for roasting in a manner resembling pot-salting is forbidden \u2014 which matches exactly the prose of 'Salt Amount' describing that same exchange.",
+      "chosen_heading": "Salt Amount",
+      "current_heading": "Salt with Skin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Hang in Wind",
+    "candidates": [
+      "Salt Amount",
+      "Fats Issue",
+      "Hang in Wind",
+      "Rule or Not"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly introduces the prohibition on salting and turning fats, which is exactly what the 'Fats Issue' prose discusses, whereas the current placement under 'Hang in Wind' covers Rabbi Yehoshua's compromise position that follows this initial ruling.",
+      "chosen_heading": "Fats Issue",
+      "current_heading": "Hang in Wind",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Rule or Not",
+    "candidates": [
+      "Hang in Wind",
+      "Rule or Not",
+      "Skin vs. Fats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern Rav Mattana's two versions of the halakhic ruling regarding Rabbi Yehoshua's opinion and the reasoning behind each version, which is exactly what the 'Rule or Not' prose describes.",
+      "chosen_heading": "Rule or Not",
+      "current_heading": "Rule or Not",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Skin vs. Fats",
+    "candidates": [
+      "Skin vs. Fats",
+      "Rav Yehuda: Salting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer exchange about why the hide-before-treaders precedent doesn't extend to fats, which is precisely what the 'Skin vs. Fats' prose describes in detail.",
+      "chosen_heading": "Skin vs. Fats",
+      "current_heading": "Skin vs. Fats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Yehuda: Salting",
+    "candidates": [
+      "Rav Yehuda: Salting",
+      "Rav Adda: One Piece",
+      "Ha'aramah Concept",
+      "Benefits & Boundaries",
+      "What Are Trisim",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Shmuel's ruling about salting multiple pieces at once AND Rav Adda's piece-by-piece approach, and the current heading's prose explicitly discusses both elements together, making it the best match.",
+      "chosen_heading": "Rav Yehuda: Salting",
+      "current_heading": "Rav Yehuda: Salting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Rav Adda: One Piece",
+      "Ha'aramah Concept",
+      "Benefits & Boundaries",
+      "What Are Trisim",
+      "Shammai vs. Hillel",
+      "Sof Mishum Techila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the trisim (shutters) dispute, and the prose under 'What Are Trisim' is precisely the explanatory context written to introduce this very mishna, while 'Shammai vs. Hillel' prose already presupposes the mishna has been cited and moves on to analyzing its content.",
+      "chosen_heading": "What Are Trisim",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Sof Mishum Techila",
+    "candidates": [
+      "Shammai vs. Hillel",
+      "Sof Mishum Techila",
+      "Ulla's Three Cases",
+      "Skin Case",
+      "Shutters Case",
+      "Bandage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Gemara passage identifies 'shutters' as shop shutters and explains the Beit Shammai/Beit Hillel dispute about opening and closing them on Yom Tov, which directly matches the 'Shammai vs. Hillel' section's prose about that very dispute \u2014 not the later sections about Ulla's principle or the three cases.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Sof Mishum Techila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Bandage Case",
+    "candidates": [
+      "Ulla's Three Cases",
+      "Skin Case",
+      "Shutters Case",
+      "Bandage Case",
+      "Skin: Fundamental?",
+      "Erev Yom Tov Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute Ulla's general principle and its three cases plus Ra\u1e25ava/Rabbi Yehuda's addition \u2014 the full passage belongs under the 'Ulla's Three Cases' heading which introduces exactly this structural logic of permitting the 'end' to enable the 'beginning.'",
+      "chosen_heading": "Ulla's Three Cases",
+      "current_heading": "Bandage Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Erev Yom Tov Test",
+    "candidates": [
+      "Skin: Fundamental?",
+      "Erev Yom Tov Test",
+      "Shutters: Fundamental?",
+      "Household Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why Ulla needed to restate the hide ruling \u2014 establishing that the reason is sof mishum techilasan and not d'chazi l'mizga aleihu \u2014 and concludes with the Yom Tov/erev Yom Tov distinction, which is precisely what the 'Erev Yom Tov Test' prose describes.",
+      "chosen_heading": "Erev Yom Tov Test",
+      "current_heading": "Erev Yom Tov Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Household Vessels",
+    "candidates": [
+      "Shutters: Fundamental?",
+      "Household Vessels",
+      "Bandage: Service Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 that one might have thought Beit Hillel's reason is 'ein binyan bikeilim' and the Gemara counters this \u2014 matches exactly the prose of heading 0, which describes precisely this argument and its potential extension to household vessels, whereas heading 1's prose discusses the Gemara's rejection and its implications (which would follow after this passage).",
+      "chosen_heading": "Shutters: Fundamental?",
+      "current_heading": "Household Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Bandage: Service Only",
+    "candidates": [
+      "Household Vessels",
+      "Bandage: Service Only",
+      "Wine & Dough"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the bandage replacement in the Temple and the principle that the allowance applies only to a kohen performing service (de-bar avodah in, de-lav bar avodah lo), which is precisely what the 'Bandage: Service Only' prose describes.",
+      "chosen_heading": "Bandage: Service Only",
+      "current_heading": "Bandage: Service Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Wine & Dough",
+    "candidates": [
+      "Wine & Dough",
+      "Agree: Removal OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss exactly the topic described in the 'Wine & Dough' prose: Ra\u1e25ava's teaching about opening a barrel/beginning dough, the rejected extension (af al gav delo hischil), and Ulla's reason for omitting this case (it involves a live tannaic dispute between Rabbi Yehuda and the Rabbis, unlike the Beit Shammai/Beit Hillel cases).",
+      "chosen_heading": "Wine & Dough",
+      "current_heading": "Wine & Dough",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Agree: Removal OK",
+    "candidates": [
+      "Agree: Removal OK",
+      "Debate: Return",
+      "Condition: Hinge",
+      "No Hinge: All OK",
+      "Side Hinge Forbidden",
+      "No Hinge OK",
+      "Middle Hinge Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the Gemara's framing comment that the mishna disagrees with this tanna, then presents Rabbi Shimon ben Elazar's full baraita including the agreement on removal, the debate on replacement, and the hinge condition \u2014 it is a single continuous quoted unit best placed under the heading that introduces this baraita and its core point about agreement on removal, which is heading 0.",
+      "chosen_heading": "Agree: Removal OK",
+      "current_heading": "Agree: Removal OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Middle Hinge Debate",
+    "candidates": [
+      "Debate: Return",
+      "Condition: Hinge",
+      "No Hinge: All OK",
+      "Side Hinge Forbidden",
+      "No Hinge OK",
+      "Middle Hinge Debate",
+      "Abaye: Two Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita challenge and Abaye's full reconciliation covering all three cases (side hinge forbidden, no hinge permitted, middle hinge debated), which is best placed under 'Condition: Hinge' as the entry point for this entire discussion, rather than only at the final sub-case 'Middle Hinge Debate'.",
+      "chosen_heading": "Condition: Hinge",
+      "current_heading": "Middle Hinge Debate",
+      "moved": true
+    }
+  }
+]

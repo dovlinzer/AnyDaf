@@ -1,13 +1,9 @@
-# Yevamot 23 — Daf Yomi Shiur
 [DAF:23a]
-
 ## Yossi: Marriageability
 
-### Setup: Daughter Verse
 
-> **Hebrew/Aramaic:** וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה, הַאי "בַּת אֵשֶׁת אָבִיךָ" מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לְהוּ: מִי שֶׁיֵּשׁ לוֹ אִישׁוּת לְאָבִיךָ בָּהּ, פְּרָט לַאֲחוֹתוֹ מִשִּׁפְחָה וְגוֹיָה, שֶׁאֵין אִישׁוּת לְאָבִיךָ בָּהּ.
->
-> **Translation:** **And Rabbi Yosei, son of Rabbi Yehuda,** says: What does **he do with this** verse, which states: **"The daughter of your father's wife"** (Leviticus 18:9)? **He requires it** to teach that one is liable only for relations with a half-sister whose mother is **someone with whom there is** a possibility of forging **marital** ties **with your father,** even if she was not in actuality his wife. This comes **to exclude his sister from** a Canaanite **maidservant or a gentile woman, with whom your father cannot have marital** ties, since betrothal does not take effect with these women.
+
+### Setup: Daughter Verse
 
 The Gemara on 27b returns to the position of Rabbi Yossi b'Rabbi Yehuda, addressing a pointed question: given that Rabbi Yossi b'Rabbi Yehuda holds there is only a single prohibition of *achot* (sister) regardless of whether the father was married to the sister's mother, what does he do with the verse that specifically mentions *bat eshet avicha* — the daughter of your father's wife? If the prohibition of *achot* applies in all cases, the additional specification seems superfluous. What work, then, does that verse perform?
 
@@ -23,19 +19,13 @@ The practical consequence is stated explicitly: *perat l'achoiso mi'shifcha ve'a
 
 ## Wedlock vs. Marriage
 
-### Anusa Objection
 
-> **Hebrew/Aramaic:** וְאֵימָא: פְּרָט לַאֲחוֹתוֹ מֵאֲנוּסָה? הַהִיא לָא מָצֵית אָמְרַתְּ מִדְּרָבָא,
->
-> **Translation:** The Gemara asks: **So say:** "Your father's wife's daughter" comes to teach specifically the case of a daughter from a woman married to his father, thereby **excluding from** the definition of: His sister, **his sister from a woman who had been raped.** Perhaps if she was born of a woman who was not married to his father she would not be considered his sister. The Gemara answers: **You cannot say that due to** the reason said by **Rava.**
+
+### Anusa Objection
 
 The Gemara immediately presses: could one not have said that the verse excludes a child born from an *anusa* — a woman who was not the father's wife at all, without any formal prohibition, simply outside the context of marriage? In broader usage, of course, a child born outside of marriage is considered illegitimate. Perhaps halacha follows the same logic, treating the child of any non-wife as not the father's legal child?
 
 ### Arayos Proof
-
-> **Hebrew/Aramaic:** דְּרָבָא רָמֵי, כְּתִיב: "עֶרְוַת בַּת בִּנְךָ אוֹ בַת בִּתְּךָ לֹא תְגַלֶּה", הָא בַּת בְּנָהּ דִּידַהּ וּבַת בִּתָּהּ דִּידַהּ שְׁרֵי, וּכְתִיב: "עֶרְוַת אִשָּׁה וּבִתָּהּ לֹא תְגַלֵּה אֶת בַּת בְּנָהּ וְאֶת בַּת בִּתָּהּ", הָא כֵּיצַד? כָּאן בָּאוֹנָסִין, כָּאן בְּנִשּׂוּאִין.
->
-> **Translation:** **As Rava raised a contradiction:** In one verse **it is written: "The nakedness of your son's daughter, or of your daughter's daughter, you shall not uncover"** (Leviticus 18:10), which implies, **consequently,** that her **son's daughter or her daughter's daughter is permitted. And it is written** elsewhere: **"You shall not uncover the nakedness of a woman and her daughter; you shall not take her son's daughter or her daughter's daughter"** (Leviticus 18:17), which states explicitly that her son's daughter and daughter's daughter are prohibited. **How** can **these** texts be reconciled? **Here,** it is referring to a daughter by a woman whom one **raped,** in which case he is allowed to marry her daughter provided she is not also his daughter. **There,** it is referring to a woman whom one **married,** in which case it is forbidden to marry her daughter under any circumstances.
 
 The Gemara rejects this: *hahi lo matzit amrit* — you cannot say this. The proof comes from Rava, who identifies an apparent contradiction between two verses. One verse states *ervat bat bincha o bat bitecha lo tegaleh* — do not uncover the nakedness of your son's daughter or your daughter's daughter — with an emphasis on *your* granddaughter. This might imply that only your own granddaughter is forbidden, not your wife's granddaughter from another man. Yet a second verse states *ervat isha u'vitah lo tegaleh*, including *bat b'nah ve'at bat bitah* — forbidding a woman and her daughter and her granddaughter. How are these reconciled? *Kan be'onsin, kan benissuin* — one verse refers to a context outside of marriage, the other to a marital context. The upshot is that in a non-marital union, the resulting grandchild is still *your* granddaughter for purposes of the *arayos* prohibition.
 
@@ -45,19 +35,23 @@ This is the essential point: it is not the *mamzer* question being addressed her
 
 ## Lavin Don't Exclude
 
-### Lavin Challenge
 
-> **Hebrew/Aramaic:** וְאֵימָא: פְּרָט לְחַיָּיבֵי לָאוִין! אָמַר רַב פָּפָּא: חַיָּיבֵי לָאוִין תָּפְשִׂי בְּהוּ קִדּוּשִׁין,
->
-> **Translation:** The Gemara raises a challenge: **And say** that the verse: "The daughter of your father's wife" comes to **exclude** women who were forbidden, as they are **liable** for violating **prohibitions** but were nevertheless married to his father, such as a *mamzeret*. If so, his sister from such a union would not be considered his sister. **Rav Pappa said: Betrothal comes into effect with** women who are forbidden, and one would be **liable** for violating **prohibitions** despite the fact that union with them is forbidden, and so she is called the wife of your father.
+
+### Lavin Challenge
 
 The Gemara advances to a second objection: perhaps the exclusion from legal sibling status applies not only to non-marital unions but to any union prohibited even by a simple negative prohibition — *chayvei lavin*. For example, a *kohen* who marries a *grusha*, or a case involving a *mamzer* or *mamzeres*. Should the child of such a prohibited union not be considered a legal child?
 
+[DAF:23b]
 ### Marriage Binding
 
-> **Hebrew/Aramaic:** דִּכְתִיב: "כִּי תִהְיֶיןָ לְאִישׁ שְׁתֵּי נָשִׁים הָאַחַת אֲהוּבָה וְהָאַחַת שְׂנוּאָה", וְכִי יֵשׁ אֲהוּבָה לִפְנֵי הַמָּקוֹם וְיֵשׁ שְׂנוּאָה לִפְנֵי הַמָּקוֹם? אֶלָּא: "אֲהוּבָה" — אֲהוּבָה בְּנִישּׂוּאֶיהָ, "שְׂנוּאָה" — שְׂנוּאָה בְּנִישּׂוּאֶיהָ, וְאָמַר רַחֲמָנָא: "כִּי תִּהְיֶיןָ".
->
-> **Translation:** This is derived from the verse in **which it is written: "If a man has two wives, the one beloved, and the other hated"** (Deuteronomy 21:15). **Is there one** who is **loved by the Omnipresent and one** who is **hated by the Omnipresent? Rather, "beloved"** means **her marriage is beloved,** as it was permitted for her to be married, in accordance with *halakha*, and **"hated"** means **her marriage is hated** because it was not permitted for her to be married, according to *halakha*. **And the Merciful One states: "If** a man **has** two wives," meaning that both are considered to be married.
+> **Hebrew/Aramaic:** הָכָא בְּמַאי עָסְקִינַן — כְּשֶׁהוּכְּרוּ וּלְבַסּוֹף נִתְעָרְבוּ. דַּיְקָא נָמֵי, דְּקָתָנֵי: ״וְאֵינוֹ יוֹדֵעַ״, וְלָא קָתָנֵי: ״וְאֵינוֹ יָדוּעַ״. שְׁמַע מִינַּהּ.
+> **Translation:** The Gemara rejects this: **With what are we dealing here?** We are dealing with a case **when** at first both sisters **were recognized** and at the moment of betrothal he knew whom he betrothed; it was a betrothal destined for consummation. **But later** the two sisters **were mixed up** so that he was no longer certain which he betrothed. If so, there was not any flaw in the betrothal itself initially. The language of the mishna **is also precise, as it teaches: And he does not know** which of them he betrothed, **but it does not teach: It is unknown** completely. This implies that the matter was known at some time. The Gemara adds: **Conclude from** here that this is the case.
+
+> **Hebrew/Aramaic:** מַאי קָא מַשְׁמַע לַן? סֵיפָא אִיצְטְרִיכָא לֵיהּ: מֵת וְלוֹ אָח אֶחָד — חוֹלֵץ לִשְׁתֵּיהֶן, הָיוּ לוֹ שְׁנַיִם — אֶחָד חוֹלֵץ וְאֶחָד מְיַיבֵּם. דַּוְקָא מִיחְלָץ וַהֲדַר יַבּוֹמֵי, אֲבָל יַבּוֹמֵי בְּרֵישָׁא — לָא, דְּקָא פָּגַע בַּאֲחוֹת זְקוּקָתוֹ.
+> **Translation:** The Gemara asks: If so, **what is** the mishna **teaching us** in the segment of the mishna referring to the giving of two bills of divorce? That is obvious. The Gemara answers: **It was necessary** to teach **the last clause** of the mishna, as there it teaches: If **he died and he had one brother,** that brother **performs *ḥalitza* with both of them;** if **he had two** brothers, **one performs *ḥalitza* and** the other **one enters into levirate marriage** if he so desires. **Specifically,** one brother must perform ***ḥalitza*** first, **and only subsequently** the other brother may perform **levirate marriage. But** one brother **may not enter levirate marriage first,** before the other brother has performed *ḥalitza*, **as he** would thereby **encounter the sister of a woman with whom he has a levirate bond.**
+
+> **Hebrew/Aramaic:** שְׁנַיִם שֶׁקִּדְּשׁוּ שְׁתֵּי אֲחָיוֹת וְכוּ׳. שְׁמַע מִינַּהּ: קִדּוּשִׁין שֶׁאֵין מְסוּרִין לְבִיאָה — הָווּ קִדּוּשִׁין! הָכָא נָמֵי, כְּשֶׁהוּכְּרוּ וּלְבַסּוֹף נִתְעָרְבוּ. דַּיְקָא נָמֵי, דְּקָתָנֵי: ״וְאֵין יוֹדֵעַ״, וְלָא קָתָנֵי ״וְאֵין יָדוּעַ״. שְׁמַע מִינַּהּ.
+> **Translation:** The mishna says: In the case of **two** unrelated men **who betrothed two sisters:** If this one does not know which sister he betrothed and that one does not know which sister he betrothed, this one gives two bills of divorce, one to each of the women, and that one gives two bills of divorce. The Gemara asks: **Learn from here** that **betrothals that cannot** ultimately **lead to consummation are** valid **betrothals.** The Gemara rejects this: **Here too,** this is referring to a case **where they were recognized and later mixed up.** The language **is also precise, as it teaches: And he does not know,** meaning that he does not know now whom he betrothed, **and it does not teach: It is unknown.** The Gemara summarizes: Indeed, **conclude this from here** that this is the case.
 
 Rav Pappa responds: *chayvei lavin tafsei behu kiddushin* — in cases where the union is prohibited only by a *lav*, marriage is nonetheless fully binding. Since marriage takes effect in such cases, the child's status as a legal child is not in question. The child is no different from any other — the prohibition affected the act of marriage, but the legal reality of marriage, and thus of parenthood, stands.
 
@@ -65,17 +59,15 @@ The proof text: *ki tiheina le'ish shtei nashim* — if a man has two wives, one
 
 ### Beloved/Hated Wives
 
-The logic is now clarified. The progression of categories is as follows. First, a union that is simply extra-marital — birth outside of wedlock — clearly does not strip a child of legal status, as shown from the *arayos* granddaughter case. Second, a union that is prohibited by a *lav* — marriage was forbidden but would have been binding — likewise does not affect the child's legal standing, as shown from the beloved-and-hated verse. The next category to examine is therefore the one where not only is the union prohibited, but marriage would not even be binding — the *issurei karet*, the *arayos* prohibitions themselves, which produce *mamzerim*.
+The logic is now clarified. The progression of categories is as follows. First, a union that is simply extra-marital — birth outside of wedlock — clearly does not strip a child of legal status, as shown from the *arayos* granddaughter case. Second, a union that is prohibited by a *lav* — marriage was forbidden but would have been binding — likewise does not affect the child's legal standing, as shown from the beloved-and-hated verse. The *chiddush* of this second category is worth pausing on: the verse could have been read simply as describing an emotional reality, a husband who favors one wife over another. Instead, the Gemara reads *ahuvah b'nisueha* and *snuah b'nisueha* as legal designations — one whose marriage was unimpeachable, one whose marriage was technically invalid from the outset and yet, the Torah's use of *havayah* insists, a marriage nonetheless. That the Torah goes out of its way to anchor the child's inheritance rights precisely in this case signals that the *chiddush* is not about permitted unions, where the conclusion would be obvious, but about unions entered into in violation of a *lav*, where one might have thought the legal consequences of parenthood are likewise compromised. The verse forecloses that reading. The next category to examine is therefore the one where not only is the union prohibited, but marriage would not even be binding — the *issurei karet*, the *arayos* prohibitions themselves, which produce *mamzerim*.
 
 ---
 
 ## Kares Unions
 
-### Kares Challenge
 
-> **Hebrew/Aramaic:** וְאֵימָא: פְּרָט לְחַיָּיבֵי כָּרֵיתוֹת! אָמַר רָבָא, אָמַר קְרָא: "עֶרְוַת אֲחוֹתְךָ בַת אָבִיךָ אוֹ בַת אִמֶּךָ מוֹלֶדֶת בַּיִת אוֹ מוֹלֶדֶת חוּץ", בֵּין שֶׁאוֹמְרִים לוֹ לְאָבִיךָ קַיֵּים, בֵּין שֶׁאוֹמְרִים לוֹ לְאָבִיךָ הוֹצֵא, וְאָמַר רַחֲמָנָא: "אֲחוֹתְךָ הִיא".
->
-> **Translation:** The Gemara asks: **Say** that this verse comes to **exclude** a union between one's father and a woman that is forbidden to him as they are **liable** to receive ***karet*,** and that since betrothal does not come into effect with her there is no marriage bond. Perhaps a sister born of such a woman would not be prohibited as the daughter of one's father's wife. **Rava said** that **the verse states: "The nakedness of your sister, the daughter of your father, or the daughter of your mother, whether born at home or born outside"** (Leviticus 18:9). This includes all daughters, **whether** from a woman **for whom** the Sages **tell your father: Maintain** her within your home, or **whether** the Sages **tell your father** she is a woman who is forbidden to him and therefore: **Send her out** of your home. **And the Merciful One states** that nevertheless: **"She is your sister."** Even the daughter of a woman who was forbidden to your father such that both parties are liable to receive *karet* is called your sister.
+
+### Kares Challenge
 
 The Gemara raises the third and most serious objection: *ve'eima perat l'chayvei kerisos* — perhaps the exclusion applies to children born from unions where the prohibition carries *karet*, where marriage is not merely forbidden but is entirely non-binding. In these cases, the man had relations with a woman he could never have legally married. Should such a child not be considered a legal child?
 
@@ -85,9 +77,17 @@ Rava responds with a verse: *ervat achotecha bat avicha o bat imecha moledes bay
 
 ### Moledes Chutz
 
-> **Hebrew/Aramaic:** אֵימָא: בֵּין שֶׁאוֹמֵר לוֹ אָבִיךָ קַיֵּים, בֵּין שֶׁאוֹמֵר לוֹ אָבִיךָ הוֹצֵא, וְאָמַר רַחֲמָנָא: "אֲחוֹתְךָ הִיא", לְרַבּוֹת אֲחוֹתוֹ מִשִּׁפְחָה וְגוֹיָה! אָמַר קְרָא: "בַּת אֵשֶׁת אָבִיךָ" — מִי שֶׁיֵּשׁ לוֹ אִישׁוּת לְאָבִיךָ בָּהּ, פְּרָט לַאֲחוֹתוֹ מִשִּׁפְחָה וְגוֹיָה.
->
-> **Translation:** The Gemara asks: **Say that whether** the Sages **say** to your **father: Maintain** her, **or whether** they **say** to your father: **Send her out, and the Merciful One states** that **"she is your sister,"** this comes **to include** the additional cases of **his sister from** a Canaanite **maidservant or a gentile woman.** The Gemara rejects this: **The verse states: "The daughter of your father's wife,"** and this means **whoever can enter a marriage bond with your father.** This **excludes his sister from** a Canaanite **maidservant or gentile woman,** with whom no marital bond is possible.
+> **Hebrew/Aramaic:** וּמַאי קָא מַשְׁמַע לַן? סֵיפָא אִיצְטְרִיכָא לֵיהּ: מֵתוּ, לָזֶה אֶחָד וְלָזֶה שְׁנַיִם — הַיָּחִיד חוֹלֵץ לִשְׁתֵּיהֶן, וְהַשְּׁנַיִם — אֶחָד חוֹלֵץ וְאֶחָד מְיַיבֵּם.
+> **Translation:** The Gemara asks: If so, **what does it come to teach us** in relating that both of them must give bills of divorce? The Gemara explains: **It was necessary** to teach **the last clause,** where it says: If **they died** and **this one had one** brother **and this one had two, the single** brother **performs *ḥalitza* with both of them. And** of **the two, one performs *ḥalitza* and one enters levirate marriage** if he so desires.
+
+> **Hebrew/Aramaic:** פְּשִׁיטָא, הַיְינוּ רֵישָׁא! מַהוּ דְּתֵימָא: לִיגְזוֹר תְּרֵי אַטּוּ חַד, קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara asks: **That is obvious,** as **this is** identical to the *halakha* taught in **the first clause** of the mishna. Why should this case be different from the previous case of two brothers? The Gemara answers: It is necessary to teach this **lest you say** the Sages should **issue a decree** in the case of **two** brothers **due to** the case of **one** brother. In a case of one brother he may only perform *ḥalitza* but may not enter into levirate marriage. Without this mishna one may have thought the same should be true for two brothers. **This comes to teach us** that they did not issue such a decree, and in this case one of them is allowed to enter into levirate marriage.
+
+> **Hebrew/Aramaic:** וְדַוְקָא מִיחְלָץ וַהֲדַר יַבּוֹמֵי, אֲבָל יַבּוֹמֵי בְּרֵישָׁא — לָא, דְּקָא פָּגַע בִּיבָמָה לַשּׁוּק.
+> **Translation:** **And this is specifically if** the brother of one man first **performs *ḥalitza* and subsequently** the brother of the other man **consummates the levirate marriage, but if he consummated the levirate marriage first, then no,** that is prohibited. And why is that? He might **be encountering** the prohibition of **a *yevama* to** a member of the **public.** Possibly the woman he married was not his *yevama* but someone else’s *yevama*, and until the other man’s brother performs *ḥalitza* with her she is still forbidden to other men.
+
+> **Hebrew/Aramaic:** לָזֶה שְׁנַיִם וְלָזֶה שְׁנַיִם וְכוּ׳. הָא תּוּ לְמָה לִי? הַיְינוּ הָךְ! מַהוּ דְּתֵימָא: לִיגְזוֹר דִּלְמָא מְיַיבֵּם בְּלֹא חֲלִיצָה, קָא מַשְׁמַע לַן.
+> **Translation:** The mishna taught: If **this one had two** brothers **and that one had two** brothers, the brother of this who performed *ḥalitza* may take the *ḥalutza* of that other’s brother in levirate marriage, and the brother of that second one who performed *ḥalitza* may take the *ḥalutza* of that other’s brother in levirate marriage. The Gemara asks: **Why do I need this as well? This** clause **is identical** to **that** previous *halakha*. The Gemara answers: It is necessary **lest you say: Let** the Sages **issue a decree lest he consummate the levirate marriage without** the other first **performing *ḥalitza*** at all. **This comes to teach us** that such a decree is not issued. Rather, one of each pair of brothers can enter a levirate marriage.
 
 The phrase *moledes chutz* — born outside — refers to a child born from a union in which marriage was not binding at all, as in cases of *issur karet*. Even such a child is Torah-designated as one's sister. One might object that *omrim lo le'avicha hotze* could refer to a case of a *lav*, where the marriage is binding but should be dissolved — that might not be a case of *karet* at all. But since the previous objection regarding *lavin* was already addressed, the Gemara reads this verse as moving to the next level: even in *karet* cases, the child is a legal sibling.
 
@@ -97,17 +97,15 @@ This leads to an important observation. A *mamzer* — a child produced from an 
 
 ## Final Distinctions
 
-### Two Categories
 
-> **Hebrew/Aramaic:** וּמָה רָאִיתָ? מִסְתַּבְּרָא חַיָּיבֵי כָּרֵיתוֹת הֲוָה לֵיהּ לְרַבּוֹת, שֶׁכֵּן תָּפְסִי בָּהֶן קִדּוּשִׁין לְעָלְמָא. אַדְּרַבָּה: שִׁפְחָה וְגוֹיָה הֲוָה לֵיהּ לְרַבּוֹת, דְּאִי מִגַּיְּירָה לְדִידֵיהּ נָמֵי, תָּפְסִי בַּהּ קִדּוּשִׁין! לְכִי מִגַּיְּירָה — גּוּפָא אַחֲרִינָא הִיא.
->
-> **Translation:** The Gemara asks: Since the verse rendering his sister forbidden both includes and excludes cases, **what did you see** as a reason to include a daughter from a woman who is forbidden and both parties are liable to receive *karet*, and to exclude the daughter of a Canaanite maidservant or gentile woman? The Gemara answers: **It stands to reason** that those relationships that are forbidden because they render both parties **liable** to receive ***karet* should be included, since in general betrothal can come into effect with them.** This is because although this woman is forbidden to his father, she is nevertheless permitted to other men. The Gemara rejects this: **On the contrary, it should include** a Canaanite **maidservant or a gentile woman, as, if she converts, betrothal can come into effect with** the father **himself.** The Gemara answers: **When she converts, she is** considered like **a different body,** i.e., a new person, but when she was a gentile there was no possibility of marital relations with her. Therefore, the verse excludes her.
+
+### Two Categories
 
 Having established that the offspring of *karet* unions are still legal children and siblings, the Gemara now confronts the obvious question: both *arayos* unions and unions with a non-Jewish woman or a slave share the feature that marriage is not binding — indeed, not even possible. Why should the child of an *arayos* union be a legal sibling while the child of a non-Jewish mother is not? The Gemara formulates the question sharply: the verse *moledes chutz* seems to include the offspring of a woman who could not be in the house — but how do we know this refers to the *arayos* case rather than the *shifcha* or *akum* case?
 
 ### Arayos Marriageable
 
-The Gemara's answer: *mistabra* — it stands to reason — that *chayvei kerisos* should be included as legal children. Why? *Shaken tofsin bah kiddushin l'achreini* — because such a woman is still marriageable within the Jewish world. Your sister, forbidden to you by *karet*, can nonetheless legally marry another Jewish man. She is not excluded from the category of those capable of *kiddushin*. She remains, in principle, a member of the marriageable world.
+The Gemara's answer: *mistabra* — it stands to reason — that *chayvei kerisos* should be included as legal children. Why? *Sheken tofsin bah kiddushin l'achreini* — because such a woman is still marriageable within the Jewish world. Your sister, forbidden to you by *karet*, can nonetheless legally marry another Jewish man. She is not excluded from the category of those capable of *kiddushin*. She remains, in principle, a member of the marriageable world.
 
 ### Completely Excluded
 
@@ -115,17 +113,20 @@ The non-Jewish woman and the slave, by contrast, cannot marry any Jew at all. Th
 
 ### Logic Summary
 
+> **Hebrew/Aramaic:** מַאי שְׁנָא מֵהָא דִּתְנַן: אַרְבָּעָה אַחִין, שְׁנַיִם מֵהֶן נְשׂוּאִין שְׁתֵּי אֲחָיוֹת, וּמֵתוּ הַנְּשׂוּאִין אֶת הָאֲחָיוֹת — הֲרֵי אֵלּוּ חוֹלְצוֹת וְלֹא מִתְיַיבְּמוֹת?
+> **Translation:** The Gemara asks: In **what** way **is** this case **different from that which we learned** in a mishna (26a): If there were **four brothers,** and **two of them were married to two sisters, and those married to the sisters died, then those** two sisters **perform *ḥalitza* but may not enter into levirate marriage** with the remaining brothers, since each woman is the sister of a woman with a levirate bond to each of the brothers. Why not say here as well that each is the sister of a woman with a levirate bond?
+
 The organizing principle is thus: legal sibling status requires that the mother belong to the category of the potentially marriageable — not necessarily to *you*, but to some Jew. A woman forbidden to you by *karet*, such as your sister, remains marriageable to others and is therefore within the broader category. A non-Jewish woman or a slave is marriageable to no Jew in her current state, and her post-conversion identity would be legally a different person. She is therefore categorically excluded, and the child born of such a union is not your legal child.
+
+It is worth pausing to note what Rashi is doing in unpacking the Gemara's brief answer of *yesh zika* — there is an issue of *zika*. The Gemara itself says nothing more than that, but the full reasoning must be read in. When both brothers' wives die simultaneously, Rachel becomes forbidden to Levi as *achot zikukato* — the sister of his *zika*-bound woman. But that prohibition does more than merely block *yibum*: it converts her status into that of a *eshet ach*, a brother's wife with whom there is no *mitzvah* of *yibum*, which renders her an *ervah*. Even after *chalitzah* is performed and the *zika* bond is dissolved, that *ervah* status does not dissolve with it, because the prohibition of *eshet ach* attached at the moment the brother died. The same logic applies symmetrically to Leah. The crucial distinction from the case under discussion is that in the *safek* scenario, no one was ever actually married to both women in the relevant sense — if the *zika* pointed to Rachel, then Leah was *achot zikukato* but nothing beyond that, and the *ervah* status therefore never fully crystallized in the same way.
 
 ---
 
 ## Rabbis' Sources
 
-### Slave from Verse
 
-> **Hebrew/Aramaic:** וְרַבָּנַן, לְמַעוֹטֵי שִׁפְחָה וְגוֹיָה מְנָא לְהוּ? נָפְקָא לְהוּ מֵ"הָאִשָּׁה וִילָדֶיהָ תִּהְיֶה לַאדוֹנֶיהָ".
->
-> **Translation:** The Gemara asks: **And** with regard to **the Rabbis,** who infer a different matter from the verse "your father's wife's nakedness," **from where do they** derive the *halakha* **to exclude** one's sister from a Canaanite **maidservant or gentile woman?** The Gemara answers: **They derive it** from that which was said with regard to a Canaanite maidservant who was married to a Hebrew slave: **"The wife and her children shall be her master's"** (Exodus 21:4). From here they learn that the lineage of the maidservant's children is connected only to their mother and not at all connected to their Jewish father.
+
+### Slave from Verse
 
 The Gemara now asks: those who disagree with Rabbi Yossi b'Rabbi Yehuda — who use the verse *bat eshet avicha* for a different purpose entirely — where do *they* derive the principle that the child of a *shifcha* or non-Jewish woman is not a legal child?
 
@@ -133,25 +134,25 @@ The answer regarding the *shifcha* is straightforward: *nafka lehu me'ha'ishah v
 
 ### Two Verses Needed
 
-> **Hebrew/Aramaic:** וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה? חַד בְּשִׁפְחָה, וְחַד בְּגוֹיָה. וּצְרִיכִי, דְּאִי אַשְׁמְעִינַן שִׁפְחָה: מִשּׁוּם דְּאֵין לָהּ חַיִיס, אֲבָל גּוֹיָה דְּאִית לַהּ חַיִיס — אֵימָא לָא. וְאִי אַשְׁמְעִינַן גּוֹיָה — מִשּׁוּם דְּלָא שָׁיְיכָא בְּמִצְוֹת. אֲבָל שִׁפְחָה, דְּשָׁיְיכָא בְּמִצְוֹת — אֵימָא לָא, צְרִיכָא.
->
-> **Translation:** The Gemara asks: **And** why does **Rabbi Yosei, son of Rabbi Yehuda,** not learn this from here? The Gemara responds: **One** verse was necessary to teach the case of a Canaanite **maidservant, and one** verse was necessary to teach the case of **a gentile woman. And** both verses **are necessary, as, if** the Torah **taught us** only about a Canaanite **maidservant,** one could say she is excluded only **because she does not have a pedigree,** since the Torah ascribes no family relationships to maidservants, **but** with regard to **a gentile woman who does have a pedigree, say no.** It was therefore necessary to say that one's daughter by a gentile woman does not have the legal status of a daughter. Conversely, **if it would teach us** only the case of **a gentile woman,** one might say that this is **because she does not have any connection with the mitzvot** and therefore her children are in no way Jewish. **But** since a Canaanite **maidservant** has a **connection with the mitzvot,** as she is obligated to observe the prohibitions in the same way as a Jewish woman, **say no,** i.e., her children should be considered children of their Jewish father. Therefore, this additional proof **is necessary.**
-
 However, this verse covers only the *shifcha*. The non-Jewish woman requires a separate source, and one cannot simply learn the non-Jewish case from the slave case. The Gemara explains why both are needed: *de'ei ashmeinan shifcha, mishum de'leit lehu chayis* — had the Torah told us only about the slave, one might have said the reason is because slave families lack recognized familial relationships; slave society was characterized by broken families and the legal non-recognition of kinship. But a non-Jewish woman does have recognized familial relationships, and her children know their parents and siblings. One might therefore have thought the offspring with a non-Jewish woman is a legal child. Conversely, *de'ei ashmeinan avodat kochavim, mishum de'lo shaycha be'mitzvot* — had the Torah told us only about the non-Jewish woman, one might have attributed the exclusion to her being entirely outside the sphere of Jewish obligation. But a *shifcha*, an *eved kena'ani*, is obligated in negative commandments and positive non-time-bound commandments, placing her in a quasi-Jewish status. One might have thought her child with a Jewish man retains full legal child status. Therefore both verses are required.
 
 ### One Verse Covers Both
 
-Rabbi Yossi b'Rabbi Yehuda, by contrast, derives both exclusions from the single verse of *bat eshet avicha* and the principle of *ishus le'avicha*. Since neither a *shifcha* nor a non-Jewish woman can enter into a marriage with a Jewish man that has any legal effect, both are excluded by the same principle, and no separate verse for each is required. This elegant economy is the hallmark of his reading: one verse, one principle, both cases covered.
+> **Hebrew/Aramaic:** הָכִי הַשְׁתָּא?!
+> **Translation:** The Gemara rejects this: **How can** these cases **be compared?**
+
+> **Hebrew/Aramaic:** הָתָם, אִי לְמַאן דְּאָמַר יֵשׁ זִיקָה — יֵשׁ זִיקָה, וְאִי לְמַאן דְּאָמַר אָסוּר לְבַטֵּל מִצְוַת יְבָמִין — אָסוּר לְבַטֵּל מִצְוַת יְבָמִין. הָכָא — כׇּל חַד וְחַד אֵימוֹר דִּידֵיהּ קָא מִתְרַמְיָא לֵיהּ.
+> **Translation:** **There,** in that mishna, **if** it is **according to the one who said** that the levirate **bond is substantial,** then **there is a bond** in that case, as two sisters were certainly married to the brothers and require levirate marriage. **And if** it is **according to the one who said that it is prohibited to nullify the levirate mitzva** through marrying the sister of the *yevama*, then the explanation of that mishna is that **it is prohibited to nullify the levirate mitzva** and for this reason they must perform *ḥalitza* and may not enter into levirate marriage. However, **here,** in this mishna, there is uncertainty concerning the betrothal such that with regard to **each one** of the brothers, one could **say that** possibly he **encountered his own** *yevama*. Perhaps each brother took his own brother’s wife in levirate marriage, and for this reason the Sages did not issue a decree.
+
+Rabbi Yossi b'Rabbi Yehuda, by contrast, derives both exclusions from the single verse of *bat eshet avicha* and the principle of *ishus le'avicha*. Since neither a *shifcha* nor a non-Jewish woman can enter into a marriage with a Jewish man that has any legal effect, both are excluded by the same principle, and no separate verse for each is required. This elegant economy is the hallmark of his reading: one verse, one principle, both cases covered. The majority position, which requires two verses precisely because each case has a distinct reason to be treated differently — as the previous section establishes — is thereby rendered unnecessary from Rabbi Yossi b'Rabbi Yehuda's perspective; the single principle of *ishus* absorbs both distinctions at once.
 
 ---
 
 ## Matrilineal Descent
 
-### Non-Intermarriage Verse
 
-> **Hebrew/Aramaic:** וְרַבָּנַן, אַשְׁכְּחַן שִׁפְחָה, גּוֹיָה מְנָא לְהוּ? וְכִי תֵּימָא: נֵילַף מִשִּׁפְחָה — הָנְהוּ מִצְרָךְ צְרִיכִי! אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי, אָמַר קְרָא: "כִּי יָסִיר אֶת בִּנְךָ מֵאַחֲרַי", בִּנְךָ מִיִּשְׂרְאֵלִית קָרוּי בִּנְךָ, וְאֵין בִּנְךָ הַבָּא מִן הַגּוֹיָה קָרוּי בִּנְךָ, אֶלָּא בְּנָהּ.
->
-> **Translation:** The Gemara asks: **And** according to the opinion of **the Rabbis, we found** a source that the children of a Canaanite **maidservant** are not considered the children of their Jewish father, but **from where** do we derive that children born to a Jewish father by **a gentile woman** are not considered his children? **And if you say: Let us derive** it **from** the case of the Canaanite **maidservant,** it has already been shown that **these are** both **necessary,** and one cannot be derived from the other. **Rabbi Yoḥanan said in the name of Rabbi Shimon ben Yoḥai:** The **verse states:** "Neither shall you make marriages with them: Your daughter you shall not give unto his son, nor his daughter shall you take unto your son, **for he will turn away your son from following Me"** (Deuteronomy 7:3–4). This teaches that **your son** born **from a Jewish woman is called your son, but your son** born **from a gentile woman is not called your son, but her son.** The verse teaches that since the son of a gentile woman is her son alone, he is not considered related at all to his Jewish father.
+
+### Non-Intermarriage Verse
 
 The Gemara now turns to the rabbis who disagree with Rabbi Yossi b'Rabbi Yehuda: having established from the verse about the slave woman that *shifcha* offspring are not a man's legal children, where do they derive that the offspring of a non-Jewish mother likewise are not his legal children — and by extension, are not Jewish? This is the foundational question of matrilineal descent as treated in the Gemara.
 
@@ -159,43 +160,96 @@ Rabbi Yochanan, in the name of Rabbi Shimon ben Yochai, cites the verse governin
 
 ### Ki Yasir Derivation
 
+
 The verse in question contains the prohibition *lo titchaten bam* — do not intermarry with them — including the directive *uvito lo tikach le'vincha*, do not take their daughter for your son. The reason given is *ki yasir et bincha me'acharai* — for he will turn your son away from Me. Here lies the crux of the *drasha*: the subject of *yasir* is masculine — *he* will lead astray — yet the subject of the clause is the non-Jewish daughter taken for your son. Grammatically, a non-Jewish daughter-in-law would be *she* who leads astray. The masculine *yasir* redirects the reading: it refers to the non-Jewish husband, pointing us back to the earlier clause about your daughter being given to their son. The non-Jewish son-in-law will lead your son — meaning your grandson — away from Me.
 
 The conclusion: *bincha mi'Yisraelit itkarei bincha* — your grandson born of a Jewish daughter and a non-Jewish husband is still called your son. The fact that *yasir* refers to this man leading your grandson astray presupposes that the grandson is indeed yours. And therefore, by reversal: *ve'ein bincha haba min ha'ovedet kochavim itkarei bincha ela bna* — the child born of your son and a non-Jewish woman is not called your son but her son. Since she is not Jewish, the child follows the mother and is not your son, not Jewish.
 
 ### Matrilineal Rule
 
-This is the Talmudic basis for matrilineal descent, derived from a single *yud* — the *yasir* versus the expected *tasir*. The principle establishes two things simultaneously: that the child of a Jewish mother and non-Jewish father remains legally your grandchild, and that the child of a Jewish father and non-Jewish mother is not legally your child — and is therefore not Jewish.
+This is the Talmudic basis for matrilineal descent, derived from a single *yud* — the *yasir* versus the expected *tasir*. The principle establishes two things simultaneously: that the child of a Jewish mother and non-Jewish father remains legally your grandchild, and that the child of a Jewish father and non-Jewish mother is not legally your child — and is therefore not Jewish. It is worth pausing to note that this derivation carries the full weight of Torah law — *d'oraita* — which is why Ravina, in treating the matrilineal child as *kasher*, is drawing on a conclusion of biblical standing, a question whose further implications the gemara will press immediately.
 
 ### Ravina's Psul
 
-> **Hebrew/Aramaic:** אָמַר רָבִינָא, שְׁמַע מִינַּהּ: בֶּן בִּתְּךָ הַבָּא מִן הַגּוֹי קָרוּי בִּנְךָ. לֵימָא קָסָבַר רָבִינָא גּוֹי וְעֶבֶד הַבָּא עַל בַּת יִשְׂרָאֵל הַוָּלָד כָּשֵׁר? נְהִי דְּמַמְזֵר לָא הָוֵי — כָּשֵׁר נָמֵי לָא הָוֵי, יִשְׂרָאֵל פָּסוּל מִיקְּרֵי.
->
-> **Translation:** **Ravina said: Conclude from here** that **the son of your daughter by a gentile** father **is** nevertheless **called your son,** i.e., grandson. The Gemara asks: **Shall we say that Ravina holds that** if **a gentile or slave engaged in intercourse with a Jewish woman, the offspring is** of **unflawed** lineage? The Gemara answers: There is no conclusive proof from here, because **granted, she is not a *mamzer*,** but nevertheless **she is still not** of **unflawed** lineage; rather, **she is called a Jew who is unfit** to marry into the priesthood.
+> **Hebrew/Aramaic:** קָדְמוּ וְכָנְסוּ אֵין מוֹצִיאִין כּוּ׳. תָּנֵי שֵׁילָא: וַאֲפִילּוּ שְׁנֵיהֶם כֹּהֲנִים. מַאי טַעְמָא — חֲלוּצָה דְּרַבָּנַן הִיא, וְסָפֵק חֲלוּצָה לָא גְּזַרוּ בְּהוּ רַבָּנַן.
+> **Translation:** § The mishna states that if **they married** their wives **before** consulting the court, the **court does not remove them** from the marriage. **Sheila teaches** a *baraita* that clarifies the mishna: **And** this is the case **even** if **both of** the brothers were **priests.** A woman who performed *ḥalitza* is normally forbidden to a priest, yet in this case, although the brother of the other man performed *ḥalitza*, they are not required to divorce. **What is the reason** for this *halakha*? It is as follows: **A *ḥalutza* is** forbidden to a priest by **rabbinic law** because her status is similar to that of a divorcée, who is forbidden to a priest by Torah law. **And** in a case of **uncertainty** as to whether she is a ***ḥalutza*,** since it may not have been her *yavam* who performed the ceremony, **the Sages did not issue a decree.**
+
+> **Hebrew/Aramaic:** וַחֲלוּצָה דְּרַבָּנַן הִיא? וְהָתַנְיָא: ״גְּרוּשָׁה״, אֵין לִי אֶלָּא גְּרוּשָׁה, חֲלוּצָה מִנַּיִן? תַּלְמוּד לוֹמַר: ״וְאִשָּׁה״! מִדְּרַבָּנַן הוּא, וּקְרָא אַסְמַכְתָּא בְּעָלְמָא הוּא.
+> **Translation:** The Gemara asks: **And is** the prohibition against a ***ḥalutza*** marrying a priest really **by rabbinic** law**? But isn’t it taught** in a *baraita*: “They shall not take a woman that is a harlot, or profaned; neither shall they take a woman **divorced** from her husband; for he is holy unto his God” (Leviticus 21:7). **I have** derived **only a divorcée; from where** do I derive that a priest may not marry **a *ḥalutza*? The verse states:** “Neither shall they take **a woman.”** The repetition of the word “woman” extends the *halakha* to include a *ḥalutza*. The Gemara answers: **This** prohibition **is by rabbinic** law, **and the verse is a mere support.**
+
+> **Hebrew/Aramaic:** מַתְנִי׳ מִצְוָה בַּגָּדוֹל לְיַיבֵּם, וְאִם קָדַם הַקָּטָן — זָכָה.
+> **Translation:** MISHNA: **It is a mitzva for the eldest to consummate the levirate marriage,** i.e., the eldest takes precedence over the other brothers, though they too are obligated. **But if the younger** brother consummated the levirate marriage **first, he acquires** the *yevama* as his wife.
 
 Ravina raises a sharp question: *shma mina ben bitcha haba min oved kochavim itkarei bincha* — we learn from this that your daughter's son from a non-Jewish father is still called your son. Does this mean Ravina holds that a child born of a non-Jewish father and Jewish mother is entirely *kasher*, with no halachic blemish whatsoever?
 
+Before the Gemara answers that question, the sugya pauses to examine the scriptural basis for the *mitzvah* of yibum itself. *Tanu Rabbanan* — the Rabbis taught — citing the verse *vehaya habechor asher teleid yakum al shem achiv hamet*, which in its plain sense speaks of the firstborn son born from the yibum union being named after the deceased brother. The Gemara, however, does not read it that way. Instead, *mikan shemitzvah begadol leyabem* — from here we derive that it is a *mitzvah* for the oldest brother to perform yibum. The word *bechor* is being applied not to the child who will be born, but to the older of the surviving brothers, identifying him as the one who should ideally perform the act. And while the *mitzvah* is preferentially directed at the oldest brother, if the younger brother acted first, *v'im kadam hakatan zakha* — if the younger one rushed ahead, it is nonetheless binding and effective. This is a somewhat surprising reading of the verse, but it is how the Gemara extracts the practical law of priority among brothers from what looks on its surface like a verse about naming a child — a question the Gemara's answer to Ravina will address directly.
+
 ### Yisrael Pasul
 
-The Gemara responds: the child is not a *mamzer* — that position was considered and rejected — but neither is the child entirely *kasher* in every sense. *Yisrael pasul mikrei* — the child is designated an invalid Israelite, carrying some form of *psul*. The Gemara does not elaborate here on the nature of that *psul*, but this becomes a substantial discussion elsewhere — in other *gemarot*, among the *rishonim*, and in practical *halacha*. The major issue that flows from this is whether a woman born of a Jewish mother and non-Jewish father is permitted to marry a *kohen*, given that some form of *psul* is hinted to here. This is a significant and debated question that is only alluded to in this *sugya*.
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: ״וְהָיָה הַבְּכוֹר״ — מִיכָּן שֶׁמִּצְוָה בַּגָּדוֹל לְיַיבֵּם. ״אֲשֶׁר תֵּלֵד״ — פְּרָט לְאַיְלוֹנִית, שֶׁאֵין יוֹלֶדֶת. ״יָקוּם עַל שֵׁם אָחִיו״ — לְנַחֲלָה.
+> **Translation:** GEMARA: **The Sages taught** the following interpretation of the verse: **“And it shall be that the firstborn** that she bears shall be established in the name of his dead brother and his name will not be blotted out of Israel” (Deuteronomy 25:6). **From here** the Sages derive **that the mitzva to consummate the levirate marriage is upon the eldest.** The next phrase: **“That she bears,”** is interpreted **to exclude** levirate marriage in the case of a widow who is **an *aylonit*, who cannot bear children.** From the next phrase: **“Shall be established in the name of his dead brother,”** it is derived that the same brother who performs the mitzva of levirate marriage is established in his brother’s name with regard **to inheritance,** i.e., he inherits his brother’s property.
+
+> **Hebrew/Aramaic:** אַתָּה אוֹמֵר לְנַחֲלָה, אוֹ אֵינוֹ אֶלָּא לְשֵׁם: יוֹסֵף — קוֹרִין אוֹתוֹ יוֹסֵף, יוֹחָנָן — קוֹרִין אוֹתוֹ יוֹחָנָן. נֶאֱמַר כָּאן ״יָקוּם עַל שֵׁם אָחִיו״, וְנֶאֱמַר לְהַלָּן: ״עַל שֵׁם אֲחֵיהֶם יִקָּרְאוּ בְּנַחֲלָתָם״, מָה שֵׁם הָאָמוּר לְהַלָּן — נַחֲלָה, אַף שֵׁם הָאָמוּר כָּאן — לְנַחֲלָה.
+> **Translation:** The *baraita* continues and asks: Do **you say** that he succeeds in the name of his brother **for inheritance, or** perhaps **it is only to** inherit **his name?** If, e.g., the deceased brother was named **Yosef, they** must **call** the son born from levirate marriage **Yosef,** or if his name was **Yoḥanan,** then **they** must **call him Yoḥanan.** The *baraita* answers: **It is stated here: “He shall succeed in the name of his brother,” and it is stated there: “They shall be called after the name of their brothers in their inheritance”** (Genesis 48:6). **Just as** the word **“name” stated there** in Genesis is referring explicitly to **inheritance, so too,** the word **“name” stated here** in Leviticus means with regard **to inheritance.**
+
+> **Hebrew/Aramaic:** ״וְלֹא יִמָּחֶה שְׁמוֹ״ — פְּרָט לְסָרִיס שֶׁשְּׁמוֹ מָחוּי.
+> **Translation:** The *baraita* continues to expound the next phrase of the verse: **“And his name will not be blotted out** of Israel” (Deuteronomy 25:6). This **excludes** the case where the deceased was **a eunuch, as his name is** already **blotted out,** since it is impossible for him to have children.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: אַף עַל גַּב דִּבְכׇל הַתּוֹרָה כּוּלָּהּ אֵין מִקְרָא יוֹצֵא מִידֵי פְשׁוּטוֹ — הָכָא אֲתַאי גְּזֵרָה שָׁוָה אַפֵּיקְתֵּיהּ מִפְּשָׁטֵיהּ לִגְמָרֵי.
+> **Translation:** **Rava said: Even though in the entire Torah a verse does not depart from its literal meaning,** and even if the Sages offer a homiletical interpretation of the verses, the literal meaning remains intact, **here the verbal analogy** teaching that the word “name” is referring to inheritance **comes to remove** the verse **from its literal meaning altogether.**
+
+> **Hebrew/Aramaic:** וְאִי לָאו גְּזֵרָה שָׁוָה, הֲוָה אָמֵינָא ״שֵׁם״ — שֵׁם מַמָּשׁ? לְמַאן קָמַזְהַר רַחֲמָנָא? לְיָבָם — ״יָקוּם עַל שֵׁם אָחִיךָ״ מִיבְּעֵי לֵיהּ! אִי לְבֵי דִינָא — ״יָקוּם עַל שֵׁם אֲחִי אָבִיו״ מִיבְּעֵי לֵיהּ!
+> **Translation:** The Gemara asks: **Were it not for the verbal analogy, would I have said** that the meaning of the word **“name” is the actual name?** The verse would be incomprehensible according to the literal reading. **Whom is the Merciful One instructing** in this verse? To whom does the possessive pronoun in the phrase “his brother” apply? If He is speaking **to the *yavam*, He should have** stated: **Shall succeed in the name of your dead brother. And if** the verse is instructing **the court** about the *halakha* in general, **it should have** said: **Shall succeed in the name of his father’s brother.**
+
+> **Hebrew/Aramaic:** וְדִלְמָא הָכִי קָאָמַר לְהוּ רַחֲמָנָא לְבֵית דִּין: אֱמַרוּ לֵיהּ לְיָבָם ״יָקוּם עַל שֵׁם אָחִיו״. אֶלָּא אֲתַאי גְּזֵרָה שָׁוָה אַפֵּיקְתֵּיהּ לִגְמָרֵי.
+> **Translation:** The Gemara rejects this question: **And perhaps this is what the Merciful One is saying to** the **court: Say to the *yavam*** that the child born to him **shall be established in the name of his brother.** Were it not for the verbal analogy, the verse could have been understood according to its literal meaning. **Rather, the verbal analogy comes to remove it** from its literal meaning **altogether.**
+
+> **Hebrew/Aramaic:** הַשְׁתָּא דְּאָמְרַתְּ קְרָא בְּגָדוֹל כְּתִיב, אֵימָא: בְּכוֹר — לְיַיבֵּם, פָּשׁוּט — לָא לְיַיבֵּם!
+> **Translation:** The Gemara challenges the *baraita*: **Now that you say that the verse:** “And it shall be that the firstborn that she bears” **is written** in reference to **the eldest** brother, **say** that **the firstborn** brother **consummates the levirate marriage** but that **an ordinary** brother, i.e., not the firstborn, **may not consummate the levirate marriage,** and that if the firstborn son is unable to enter into levirate marriage or is no longer alive, no one else may perform the mitzva.
+
+> **Hebrew/Aramaic:** אִם כֵּן, אֵשֶׁת אָחִיו שֶׁלֹּא הָיָה בְּעוֹלָמוֹ דְּמִיעֵט רַחֲמָנָא — לְמָה לִי?
+> **Translation:** The Gemara answers: **If so** that the mitzva of levirate marriage applies only to the firstborn, then in the case of **a wife of a brother with whom he did not coexist,** which **the Merciful One excluded** by the verse: “If brothers dwell together,” **why do I** need such an exclusion? If only the firstborn is obligated to perform levirate marriage, then there is no need to separately exclude the case of a wife of one’s brother with whom one did not coexist, because by definition one in that position cannot be the firstborn.
+
+> **Hebrew/Aramaic:** פָּרֵיךְ רַב אַחָא: וְאֵימָא לְמַעוֹטֵי בּוּכְרָא דְאִמָּא! הָהוּא לָא מָצֵית אָמְרַתְּ — דְּיִבּוּם בְּנַחֲלָה תְּלָה רַחֲמָנָא, וְנַחֲלָה מִן הָאָב וְלֹא מִן הָאֵם.
+> **Translation:** **Rav Aḥa refutes** the Gemara’s answer: **But say that** the verse comes **to exclude** the case of a brother with whom one did not coexist when one is nevertheless **the firstborn of the mother,** e.g., if the father had two wives. The Gemara rejects this: **You cannot say that, as the Merciful One made levirate marriage dependent upon inheritance, and inheritance** comes **from the father and not from the mother.**
+
+> **Hebrew/Aramaic:** וְאֵימָא: כִּי אִיכָּא בְּכוֹר תִּתְקַיֵּים מִצְוַת יִבּוּם, כִּי לֵיכָּא בְּכוֹר לֹא תִּתְקַיֵּים מִצְוַת יִבּוּם! אָמַר קְרָא: ״וּמֵת אַחַד מֵהֶם״, מִי לָא עָסְקִינַן דְּמִית בְּכוֹר, וְאָמַר רַחֲמָנָא: לְיַיבֵּם קָטָן.
+> **Translation:** The Gemara again challenges the *baraita*: **Then say** that **when there is a firstborn the mitzva of levirate marriage can be fulfilled** by any of the brothers, **but that when there is no firstborn,** e.g., if he had already died, **the mitzva of levirate marriage may not be fulfilled** by any of the younger brothers. The Gemara answers: **The verse states: “And one of them dies”** (Deuteronomy 25:5), without specifying which brother dies. **Are we not dealing** even **with** the case **where the firstborn died, and** yet **the Merciful One states** that **the younger** brother **should consummate the levirate marriage?**
+
+> **Hebrew/Aramaic:** וְאֵימָא דְּמִית קָטָן, וְאָמַר רַחֲמָנָא לְיַיבֵּם בְּכוֹר? הָא מִיעֵט רַחֲמָנָא אֵשֶׁת אָחִיו שֶׁלֹּא הָיָה בְּעוֹלָמוֹ.
+> **Translation:** The Gemara refutes this answer: **Say that** the case in the Torah is referring to when **the younger** brother **died, and** only then **the Merciful One states that the firstborn must consummate the levirate marriage.** The Gemara answers: **Didn’t the Merciful One** explicitly **exclude the wife of a brother with whom he did not coexist,** which can apply only to a brother who was not the firstborn?
+
+> **Hebrew/Aramaic:** וְאֵימָא: כִּי לֵיכָּא בְּכוֹר, קְדַם קָטָן — זְכָה. וְאִי אִיכָּא בְּכוֹר, קְדַם קָטָן — לָא זְכָה! אָמַר קְרָא: ״כִּי יֵשְׁבוּ אַחִים יַחְדָּו״ — הוּקְּשָׁה יְשִׁיבַת אַחִים זֶה לָזֶה.
+> **Translation:** The Gemara challenges the *halakha*: **Say** that **when there is no firstborn** brother, if **a younger** brother **went ahead** and consummated the levirate marriage, then **he acquires** his *yevama* as a wife. **But if there is a firstborn,** and **the younger** brother **went ahead** and performed levirate marriage first, then **he does not acquire** his *yevama* as a wife, because the Torah specifies that the firstborn brother must perform the mitzva. The Gemara rejects this: **The verse states: “If brothers dwell together”** (Deuteronomy 25:5), implying that **the brothers’ dwellings were equated one with the other,** and all the brothers are equally obligated in this mitzva.
+
+> **Hebrew/Aramaic:** וְאֵימָא: כִּי אִיכָּא בְּכוֹר — לֶיהְדַּר אַגָּדוֹל. כִּי לֵיכָּא בְּכוֹר — אֵין חוֹזְרִין אֵצֶל גָּדוֹל! אַלְּמָה תָּנֵי אַבָּיֵי קַשִּׁישָׁא: מִצְוָה בַּגָּדוֹל לְיַיבֵּם, לֹא רָצָה — הוֹלְכִים אֵצֶל אָחִיו הַקָּטָן, לֹא רָצָה — חוֹזְרִין אֵצֶל גָּדוֹל!
+> **Translation:** The Gemara challenges the *halakha* again: **Then say: When there is a firstborn, let** the mitzva **return to the eldest** brother if the other brothers refuse to perform levirate marriage. But **when there is no firstborn,** the court **does not return to the eldest,** as the mitzva primarily applies specifically to the firstborn, and if there is no firstborn, none of the brothers take precedence. **Why did Abaye the Elder teach: It is a mitzva for the eldest** of the brothers **to consummate the levirate marriage? If** the eldest **did not wish** to do so, then the court **goes to his younger brother.** If **he** also **did not wish** to do so, the court **returns** again **to the eldest.** This implies that the eldest, even if he is not the firstborn, has a greater mitzva than the younger brothers.
+
+> **Hebrew/Aramaic:** כִּבְכוֹר: מָה בְּכוֹר — בְּכוֹרָתוֹ גָּרְמָה לוֹ, אַף גָּדוֹל — גְּדוּלָּתוֹ גָּרְמָה לוֹ.
+> **Translation:** The Gemara answers: Since it is derived that the eldest brother takes precedence from the verse about the firstborn, then **just as** with regard to the firstborn, **his status as firstborn causes him** to take precedence, **so too,** with regard to **the eldest, his status as eldest causes him** to take precedence.
+
+> **Hebrew/Aramaic:** וְאֵימָא: כִּי מְיַיבֵּם בְּכוֹר — לִישְׁקוֹל נַחֲלָה, כִּי מְיַיבֵּם פָּשׁוּט — לָא לִישְׁקוֹל נַחֲלָה. אָמַר קְרָא: ״יָקוּם עַל שֵׁם אָחִיו״, וַהֲרֵי קָם.
+> **Translation:** The Gemara challenges the *halakha* again: **Then say** that **if the firstborn consummates the levirate marriage he receives** his deceased brother’s **inheritance,** but **if an ordinary brother consummates the levirate marriage he does not receive the inheritance.** The Gemara answers that **the verse states:** “The firstborn that she bears **shall be established in the name of his** dead **brother”** (Deuteronomy 25:6), **and** if the younger brother performs levirate marriage he has **established** his brother’s name and thereby earns the inheritance.
+
+> **Hebrew/Aramaic:** וְאֶלָּא ״בְּכוֹר״ דְּקַרְיֵיהּ רַחֲמָנָא,
+> **Translation:** The Gemara asks: **But** if there is no difference between the firstborn and the eldest, why does **the Merciful One call** the brother who enters levirate marriage the **firstborn?**
+
+> **Hebrew/Aramaic:** לְמַאי הִלְכְתָא? לִגְרִיעוּתָא: מָה בְּכוֹר אֵינוֹ נוֹטֵל בָּרָאוּי כִּבְמוּחְזָק — אַף הַאי אֵינוֹ נוֹטֵל בָּרָאוּי כִּבְמוּחְזָק.
+> **Translation:** **With regard to what *halakha*** was that word written in the Torah? **This is in order to limit** the inheritance. **Just as a firstborn does not take** in inheritance property **due as** he does property **possessed,** but instead receives a double inheritance only from that property already in actual possession of their father, **so too, this** one who enters levirate marriage, whether firstborn or younger, **does not take** in inheritance property **due as** he does property **possessed.**
+
+The Gemara responds: the child is not a *mamzer* — that position was considered and rejected — but neither is the child entirely *kasher* in every sense. *Yisrael pasul mikrei* — the child is designated an invalid Israelite, carrying some form of *psul*. The Gemara does not elaborate here on the nature of that *psul*, but this becomes a substantial discussion elsewhere — in other *gemarot*, among the *rishonim*, and in practical *halacha*. The major issue that flows from this is whether a woman born of a Jewish mother and non-Jewish father is permitted to marry a *kohen*, given that some form of *psul* is hinted to here. This is a significant and debated question that is only alluded to in this *sugya*. It is worth pausing to note what is surprising about this whole interpretive move: the *gemara* has taken a verse that, on its plain reading, concerns the child born of the *yibum* union — *vehaya habechor asher teleid yakum al shem achiv hamet*, the firstborn she bears shall stand in the name of his dead brother — and reread it entirely as a description of the brother performing *yibum* and his right to inherit his dead brother's portion. The child drops out of the verse altogether, and *yakum al shem achiv* is understood through a *gezeira shava* with the language used for Ephraim and Menashe — *al shem acheihem yikare'u benachalatam* — to refer not to naming a child after the deceased but to inheriting his estate. The *psul* ruling thus emerges from a reading of the verse in which none of the words are doing what you might initially have expected them to do.
 
 ---
 
 ## Scope of Matrilineal
 
-### Seven Nations Q
 
-> **Hebrew/Aramaic:** הַאי בְּשִׁבְעָה גּוֹיִם כְּתִיב? "כִּי יָסִיר" — לְרַבּוֹת כׇּל הַמְּסִירִים.
->
-> **Translation:** The Gemara asks with regard to Rabbi Shimon's reasoning: Was **this** verse not **written in** relation to **the seven nations** who inhabited the land of Canaan when Joshua entered Eretz Yisrael but not with regard to other nations? The Gemara responds that the words **"He will turn away" comes to include all those who would turn** one's grandson **away** from God, i.e., any gentile.
+
+### Seven Nations Q
 
 The Gemara raises an important objection: the verse *lo titchaten bam* is written in the context of the seven Canaanite nations. Perhaps the entire derivation — including the rule of matrilineal descent — applies only to intermarriage with the *sheva umot*, not with non-Jews generally. If so, a child born of a Jewish father and, say, a non-Canaanite non-Jewish mother might retain legal child status.
 
 ### Rabbi Shimon Method
-
-> **Hebrew/Aramaic:** הָנִיחָא לְרַבִּי שִׁמְעוֹן, דְּדָרֵישׁ טַעְמָא דִּקְרָא, אֶלָּא לְרַבָּנַן מְנָא לְהוּ? מַאן תַּנָּא דִּפְלִיג עֲלֵיהּ דְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה — רַבִּי שִׁמְעוֹן הִיא.
->
-> **Translation:** The Gemara asks: **This works out well for Rabbi Shimon, who interprets the rationale** behind the mitzva **in the verse** and draws halakhic conclusions based on that interpretation. Although the verse is stated with regard to the seven nations, the reason for the verse applies to all other gentile nations. **However, according to the** opinion of **the Rabbis,** who do not draw inferences from the rationale of the verse to apply this ruling to all other nations, **from where** do they derive **this** *halakha*? The Gemara answers: **Who is the *tanna* who disagrees with Rabbi Yosei, son of Rabbi Yehuda? It is Rabbi Shimon,** who applies the rationale of the verse to all other nations.
 
 The Gemara's resolution invokes the methodological principle of Rabbi Shimon ben Yochai: *darash ta'ama de'kra* — Rabbi Shimon derives halacha by identifying the reason embedded in the verse and applying the law wherever that reason applies. The classic illustration of this method is the prohibition against taking a widow's garment as collateral: Rabbi Shimon holds that if the widow is wealthy, the reason for the prohibition does not apply, and therefore the prohibition itself does not apply. The *rabbanan* disagree, holding that the verse's language defines its scope categorically, without reference to the underlying reason. Rabbi Shimon, by contrast, reads the reason as integral to the law's application.
 
@@ -213,11 +267,9 @@ The Gemara's answer: the opinion that argues with Rabbi Yossi b'Rabbi Yehuda is 
 
 ## Two Sisters Case
 
-### Setup: One Man
 
-> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁקִּידֵּשׁ אַחַת מִשְׁתֵּי אֲחָיוֹת, וְאֵין יוֹדֵעַ אֵי זֹה מֵהֶן קִידֵּשׁ — נוֹתֵן גֵּט לָזוֹ וְגֵט לָזוֹ. מֵת וְלוֹ אָח אֶחָד — חוֹלֵץ לִשְׁתֵּיהֶן.
->
-> **Translation:** MISHNA: In the case of **one who betrothed one of two sisters and does not know which of them he betrothed,** so that both are forbidden to him, he **gives a bill of divorce to this one and a bill of divorce to that one** due to the uncertainty. If the man who had betrothed one of these women **died** before he could give a bill of divorce, **and he had one brother,** that brother **performs *ḥalitza* with both of them,** but he may not take either in levirate marriage. This is because he does not know which woman is his *yevama* and which is forbidden to him as the sister of a woman with whom he has a levirate bond.
+
+### Setup: One Man
 
 The *mishnah* on 23b opens a new section, returning to the practical territory of *yibum* and *chalitzah*. The foundational case: a man performed *kiddushin* with one of two sisters but does not know which one he married. He cannot continue to live with either woman, because whichever one he approaches might be his wife's sister — forbidden to him.
 
@@ -226,10 +278,6 @@ The *mishnah* on 23b opens a new section, returning to the practical territory o
 To free the women to marry other men, the husband must give a *get* to each of them. Since either one might be his wife, each requires a *get* from him. He gives two *gittin* and releases them both.
 
 ### One Bro: Chalitza
-
-> **Hebrew/Aramaic:** הָיוּ לוֹ שְׁנַיִם — אֶחָד חוֹלֵץ וְאֶחָד מְיַיבֵּם. קָדְמוּ וְכָנְסוּ — אֵין מוֹצִיאִין מִיָּדָם.
->
-> **Translation:** If the man who betrothed one of these women **had two** brothers, **one** of them **performs *ḥalitza*** with one of the sisters, but he may not enter into levirate marriage with her due to the possibility that she is the sister of a woman with whom he has a levirate bond. **And one takes** the other **in levirate marriage** if he so desires. If the two brothers **married** the two sisters **before** consulting the court, the court does not **remove them** from their marriage and they are permitted to remain married. The couple who performed levirate marriage second was even permitted to do so, since there was no longer any doubt about the levirate bond.
 
 If this man then dies and leaves only one brother, that brother must perform *chalitzah* with both sisters. He cannot perform *yibum* with either one, because whichever one he approaches might be *achot zekukato* — the sister of the woman to whom he stands in a *zika* relationship from *yibum*. *Achas zekukato* is forbidden to him like a married woman's sister; having sex with her would be a serious prohibition.
 
@@ -243,11 +291,9 @@ The critical point is that the second brother's *yibum* cannot precede the first
 
 ## Two Men, Two Sisters
 
-### Setup: Two Men
 
-> **Hebrew/Aramaic:** שְׁנַיִם שֶׁקִּדְּשׁוּ שְׁתֵּי אֲחָיוֹת, זֶה אֵינוֹ יוֹדֵעַ אֵי זוֹ קִידֵּשׁ, וְזֶה אֵינוֹ יוֹדֵעַ אֵיזוֹ קִידֵּשׁ — זֶה נוֹתֵן שְׁנֵי גִיטִּין, וְזֶה נוֹתֵן שְׁנֵי גִיטִּין. מֵתוּ, לָזֶה אָח וְלָזֶה אָח — זֶה חוֹלֵץ לִשְׁתֵּיהֶן, וְזֶה חוֹלֵץ לִשְׁתֵּיהֶן.
->
-> **Translation:** Furthermore, in the case of **two** unrelated men **who betrothed two sisters:** If **this one does not know which** sister **he betrothed and that one does not know which** sister **he betrothed, this one gives two bills of divorce,** one to each of the women, **and that one gives two bills of divorce.** If the two men **died** before they divorced, and **this one had a brother and that one had a brother,** then **this** brother **performs *ḥalitza* with both of them, and that** brother **performs *ḥalitza* with both of them.**
+
+### Setup: Two Men
 
 The *mishnah* now complicates the scenario: two men — say, two unrelated individuals — each performed *kiddushin* with one of the two sisters, and neither man knows which sister he married. Now each man faces the same dilemma as before: he cannot consummate the marriage. Each man must therefore give a *get* to both sisters — two *gittin* from each man, four *gittin* in total.
 
@@ -255,12 +301,7 @@ The *mishnah* now complicates the scenario: two men — say, two unrelated indiv
 
 If both men die, each man's surviving brother must perform *chalitzah* with both sisters. The presence of the second possible husband compounds the uncertainty: each surviving brother must address the possibility that his deceased brother was married to either of the sisters.
 
-[DAF:23b]
 ### One vs. Two Bros
-
-> **Hebrew/Aramaic:** לָזֶה אֶחָד וְלָזֶה שְׁנַיִם — הַיָּחִיד חוֹלֵץ לִשְׁתֵּיהֶן, וְהַשְּׁנַיִם — אֶחָד חוֹלֵץ, וְאֶחָד מְיַיבֵּם. קָדְמוּ וְכָנְסוּ, אֵין מוֹצִיאִין מִיָּדָם.
->
-> **Translation:** If **this one had one** brother **and that one had two** brothers, **the single** brother **performs *ḥalitza* with both of them, and** of **the two** brothers, **one performs *ḥalitza* and one performs levirate marriage** if he so desires. If **they married** the sisters **before** consulting the court, the court **does not remove them** from the marriage and they are not told to divorce them.
 
 If each deceased man left a single brother, each of those brothers performs *chalitzah* with both sisters. If one of the deceased men left a single brother and the other left two brothers, the single brother performs *chalitzah* with both sisters to neutralize his family's involvement — and once he has done so, we return in effect to the prior scenario. The two brothers of the other deceased man can then arrange one *chalitzah* and one *yibum* among themselves, as in the earlier case.
 
@@ -268,11 +309,9 @@ If each deceased man left a single brother, each of those brothers performs *cha
 
 ## Both Sides: Two Bros
 
-### Dual-Family Setup
 
-> **Hebrew/Aramaic:** לָזֶה שְׁנַיִם וְלָזֶה שְׁנַיִם — אָחִיו שֶׁל זֶה חוֹלֵץ לְאַחַת, וְאָחִיו שֶׁל זֶה חוֹלֵץ לְאַחַת. אָחִיו שֶׁל זֶה מְיַיבֵּם חֲלוּצָתוֹ שֶׁל זֶה, וְאָחִיו שֶׁל זֶה מְיַיבֵּם חֲלוּצָתוֹ שֶׁל זֶה.
->
-> **Translation:** If **this one had two** brothers **and that one had two** brothers, **the brother of this one performs *ḥalitza* with one** sister, **and the brother of that one performs *ḥalitza* with one** sister. **The brother of this** one who performed *ḥalitza* **may take the woman who performed *ḥalitza* [*ḥalutza*] of that** other's brother **in levirate marriage, and the brother of that** second one who performed *ḥalitza* **may take the *ḥalutza* of that** other's brother **in levirate marriage.**
+
+### Dual-Family Setup
 
 The *mishnah* adds yet another layer: each of the two deceased men left two brothers. On one side are two brothers — call them Shimon and Levi — and on the other side are two other brothers. Each pair of brothers represents the heirs of one of the deceased husbands, each of whom was married to one (unknown) sister.
 
@@ -288,11 +327,9 @@ The logic: consider Shimon's performing *chalitzah* with one sister and Levi's s
 
 ## Both Yibum
 
-### Risk: Achat Zekuka
 
-> **Hebrew/Aramaic:** קָדְמוּ שְׁנַיִם וְחָלְצוּ — לֹא יְיַבְּמוּ הַשְּׁנַיִם, אֶלָּא אֶחָד חוֹלֵץ וְאֶחָד מְיַיבֵּם. קָדְמוּ וְכָנְסוּ — אֵין מוֹצִיאִין מִיָּדָם.
->
-> **Translation:** If the two brothers **performed *ḥalitza*** with both wives **before** consulting the court, **the** two brothers of the second man **may not take**either sister **in levirate marriage** lest one marry the sister of a woman with whom he had a levirate bond. **Rather, one performs *ḥalitza* and one performs levirate marriage** if he so desires. If **they married** their wives **before** consulting the court, the court **does not remove them** from the marriage.
+
+### Risk: Achat Zekuka
 
 The *mishnah* addresses a final scenario: what if, rather than following the prescribed cross-*chalitzah* strategy, one brother went ahead and performed *yibum* directly — before any *chalitzah* had taken place? This is problematic because at the moment he performs *yibum*, the woman he approaches might be *achot zekukato* — the sister of the woman genuinely obligated to him through *yibum*. He has thus potentially transgressed a serious prohibition.
 

@@ -171,8 +171,8 @@
           "timestamp": "41:07"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "When Collateral Can Be Taken and Returned: Conditions and Prohibitions",
@@ -675,5 +675,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "27:00",
+  "amud_b_micro_title": "Naked Person Question",
+  "shiur_start_daf": 114,
+  "shiur_start_amud": "a"
 }

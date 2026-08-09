@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Unripe Dates Case",
+    "candidates": [
+      "Ownerlessness Principle",
+      "Biur Requirement",
+      "Geographic Regions",
+      "Transporting Produce",
+      "Unripe Dates Case",
+      "Protective Shell",
+      "Fruit Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ilai cutting a palm branch with unripe dates during shemita and raises the question of how this is permitted given the 'l'ochla v'lo l'hefseid' principle, which is precisely what the 'Unripe Dates Case' section's prose discusses.",
+      "chosen_heading": "Unripe Dates Case",
+      "current_heading": "Unripe Dates Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Fruit Definition",
+    "candidates": [
+      "Protective Shell",
+      "Fruit Definition",
+      "Beit Shammai/Hillel",
+      "Smadar vs. Boser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Na\u1e25man's position as following Rabbi Yosi's view that smadar is already considered fruit, and the Rabbis' disagreement \u2014 which is precisely what the 'Fruit Definition' section's prose addresses.",
+      "chosen_heading": "Fruit Definition",
+      "current_heading": "Fruit Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Smadar vs. Boser",
+    "candidates": [
+      "Beit Shammai/Hillel",
+      "Smadar vs. Boser",
+      "Male Palms Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Shimi's objection and the Mishnah he cites (Beit Shammai/Hillel on chopping trees in shemita), which candidate 0's prose describes precisely as the Mishnah found in answer to whether Rabbis dispute Rabbi Yosi across all trees \u2014 the Rav Asi equation of boser/girua/pul halavan in item 2 is the tail end of that same Mishnah citation, not yet the analytical comparison to smadar that candidate 1's prose discusses.",
+      "chosen_heading": "Beit Shammai/Hillel",
+      "current_heading": "Smadar vs. Boser",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Male Palms Resolution",
+    "candidates": [
+      "Smadar vs. Boser",
+      "Male Palms Resolution",
+      "Grapes & Avel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the resolution that Rabbi Ilai cut down male palm trees (diniskhani) whose dates don't ripen on the tree, which is precisely what the 'Male Palms Resolution' prose section discusses.",
+      "chosen_heading": "Male Palms Resolution",
+      "current_heading": "Male Palms Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Grapes & Avel",
+    "candidates": [
+      "Grapes & Avel",
+      "Olives/Figs/Dates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses eating grapes until the vine branches in Okhel are depleted, with the same underlying principle about geographic placenames as practical shorthand \u2014 matching perfectly with the 'Grapes & Avel' section prose, which discusses the identical topic (though citing Avel rather than Okhel, consistent with different versions/parallel baraitot on the same theme).",
+      "chosen_heading": "Grapes & Avel",
+      "current_heading": "Grapes & Avel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Olives/Figs/Dates",
+    "candidates": [
+      "Olives/Figs/Dates",
+      "Dried Figs",
+      "Small Figs Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers olives (Tekoa/Gush Chalav with the rova standard) and dried figs (Beit Hini), which is precisely what candidate 0's prose discusses in full detail.",
+      "chosen_heading": "Olives/Figs/Dates",
+      "current_heading": "Olives/Figs/Dates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Small Figs Debate",
+    "candidates": [
+      "Dried Figs",
+      "Small Figs Debate",
+      "Holiday Markers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's statement that the unripe figs of Beit Hini were mentioned only regarding tithes (ma'aser), not shemita, which is precisely the content described in the 'Small Figs Debate' prose.",
+      "chosen_heading": "Small Figs Debate",
+      "current_heading": "Small Figs Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Holiday Markers",
+    "candidates": [
+      "Holiday Markers",
+      "Rav Bibi's Alternative",
+      "Observation Principle",
+      "Mnemonic Markers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Mishna's geographic marker for dates (Tzoar) followed by the contradicting baraita with calendar-based markers and the Gemara's resolution that both formulations describe the same period \u2014 precisely the content described in the 'Holiday Markers' prose, which discusses the tension between geographic and calendar-based formulations and their resolution via 'idi v'idi chad shiura hu'.",
+      "chosen_heading": "Holiday Markers",
+      "current_heading": "Holiday Markers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Mnemonic Markers",
+    "candidates": [
+      "Rav Bibi's Alternative",
+      "Observation Principle",
+      "Mnemonic Markers",
+      "Bikurim Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mnemonic geographic markers (mountains/gallnuts, valleys/palms, streams/reeds, plain/sycamores) with the Scriptural allusion, which is precisely what the 'Mnemonic Markers' prose discusses.",
+      "chosen_heading": "Mnemonic Markers",
+      "current_heading": "Mnemonic Markers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Bikurim Application",
+    "candidates": [
+      "Bikurim Application",
+      "Business Application",
+      "Custom Variations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong together under 'Bikurim Application' \u2014 item 1 discusses the bikurim practical difference and item 2 continues the same series (nachal eitan, then sycamore/shfela for mikach umimkar), all of which are covered in that section's prose, including the nachal eitan reference and the generalization to all geographic markers.",
+      "chosen_heading": "Bikurim Application",
+      "current_heading": "Bikurim Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Custom Variations",
+    "candidates": [
+      "Business Application",
+      "Custom Variations",
+      "Eating Custom",
+      "Rav Yehuda Restriction",
+      "Rav Pappa Clarification",
+      "Theodosius Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna about selling livestock to gentiles, which candidate 1 ('Custom Variations') explicitly discusses in detail, matching the content precisely.",
+      "chosen_heading": "Custom Variations",
+      "current_heading": "Custom Variations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Theodosius Case",
+    "candidates": [
+      "Eating Custom",
+      "Rav Yehuda Restriction",
+      "Rav Pappa Clarification",
+      "Theodosius Case",
+      "Rav Sheshet Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eating Custom",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah about local customs for eating roasted meat on Passover evenings, which belongs under 'Eating Custom' whose prose explicitly discusses this exact Mishnah.",
+      "second_heading": "Theodosius Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form the continuous Gemara discussion about Rav Yehuda/Rav's prohibition, Rav Pappa's refinement, and the Theodosius case with its resolution, all of which are covered together under 'Theodosius Case' whose prose narrates this entire sequence including the mekulas/non-mekulas distinction.",
+      "current_heading": "Theodosius Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Rav Sheshet Challenge",
+    "candidates": [
+      "Rav Sheshet Challenge",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Sheshet's challenge \u2014 item 1 is his objection and item 2 is the Mishnah he cites (Rabbi Shimon's exemption) \u2014 which is precisely what candidate 0's prose describes as the core content of the 'Rav Sheshet Challenge' section.",
+      "chosen_heading": "Rav Sheshet Challenge",
+      "current_heading": "Rav Sheshet Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Derasha on Martyrdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the Ravina-Rav Ashi exchange about Rabbi Shimon holding like Rabbi Yosei and whether the converse is true, which is precisely what the 'Rava's Resolution' prose describes in detail.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Derasha on Martyrdom",
+    "candidates": [
+      "Derasha on Martyrdom",
+      "Financial Support Reason",
+      "Reward for Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Talmudic unit raising the dilemma about Theodosius and then adducing evidence from his derasha about Hananiah, Mishael, and Azariah, which is precisely what the 'Derasha on Martyrdom' prose describes in detail.",
+      "chosen_heading": "Derasha on Martyrdom",
+      "current_heading": "Derasha on Martyrdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Reward for Support",
+    "candidates": [
+      "Financial Support Reason",
+      "Reward for Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the statement about Theodosius casting merchandise into scholars' purses AND Rabbi Yochanan's teaching about the heavenly reward, which together match the 'Reward for Support' section's prose that discusses exactly this combined content including the yeshiva shel ma'ala and the Ecclesiastes verse.",
+      "chosen_heading": "Reward for Support",
+      "current_heading": "Reward for Support",
+      "moved": false
+    }
+  }
+]

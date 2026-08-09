@@ -158,18 +158,4 @@ This in turn illuminates the underlying debate between Rabbi Meir and the *chach
 
 Once Rav Chisda's framing is accepted, the *chachamim*'s position becomes fully coherent. They are not saying that a *shtar* plus a healthy donor is somehow insufficient to overcome the *muchzak* presumption — they are saying that the recipients must perform a *kiyum ha-shtar* to establish the document on independent grounds, after which it will indeed prevail.
 
----
 
-## Found Document
-
-### Mishna Case
-
-The *gemara* turns to the next *mishna*: *mi she-meit ve-nimtza'as dyatiki keshura lo al yereicho* — someone dies and a document, a *dyatiki* — a will or gift document — is found tied to his thigh. *Harei zu eina klum* — it is entirely worthless. The *mishna* goes on to explain that if the donor had previously handed over the document to a third party (*zicha ba le-acher*) to take possession on behalf of the recipient, then the gift is valid whether the document was inside the house or outside. The *gemara* notes that the word *dyatiki* is an acronym for *da tehei le-mikam u-li-hyot* — "this shall stand and be" — which was the formula a dying person would use in declaring his final disposition of property.
-
-### Gemara Question
-
-The *gemara* asks: why should the document found on his thigh be invalid? *Ve-lima dilma be-ma'amad shloshtan amra* — perhaps he transferred the gift in the presence of three people. A verbal gift made in the presence of three witnesses is a valid and recognized mode of transfer even without a physical document. The mere fact that the document was discovered on his body does not rule out the possibility that he had already accomplished the transfer through this other method.
-
-### Found Implication
-
-The *gemara* answers: the *mishna* says *found*. The word *nimtza'as* — found — carries a specific implication. When a document is *found*, it means that no one knew about it until it was discovered. And if no one knew about it, then there was no prior occasion on which it was handed over in the presence of three people. Had a *ma'amad shloshtan* occurred, people would have been present and would have known. The very fact of discovery — the surprise, the absence of prior knowledge — excludes the possibility of any prior effective transfer. The document is therefore worthless precisely because it was found.

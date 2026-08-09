@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Korban Chatas Source",
+    "candidates": [
+      "Mishna Setup",
+      "Korban Chatas Source",
+      "Ne'emanut vs. Shtika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita interpreting 'o hoda eilav chataso' that the Korban Chatas Source prose explicitly describes as the source for single-witness belief, making it a direct match for that section.",
+      "chosen_heading": "Korban Chatas Source",
+      "current_heading": "Korban Chatas Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Ne'emanut vs. Shtika",
+    "candidates": [
+      "Ne'emanut vs. Shtika",
+      "Two Witnesses Problem",
+      "Shtika K'Hoda'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the heichi dami question, the single witness inference, and the shtika ke'hoda'ah rebuttal \u2014 exactly what the 'Ne'emanut vs. Shtika' prose describes.",
+      "chosen_heading": "Ne'emanut vs. Shtika",
+      "current_heading": "Ne'emanut vs. Shtika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Shtika K'Hoda'ah",
+    "candidates": [
+      "Two Witnesses Problem",
+      "Shtika K'Hoda'ah",
+      "Rabbi Meir's Kal Vachomer",
+      "Internal Knowledge Model",
+      "Chelev Analogy"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Chelev Analogy",
+    "candidates": [
+      "Rabbi Meir's Kal Vachomer",
+      "Internal Knowledge Model",
+      "Chelev Analogy",
+      "Tevel, Hekdesh, Konamot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the safek chelev/vadai chelev analogy debate \u2014 the sevara proposal, the itchazek issura objection, and the vadai chelev counter-analogy resolved by the tevel/hekdesh/konamot comparison \u2014 which is precisely what candidate 2 ('Chelev Analogy') discusses in its prose.",
+      "chosen_heading": "Chelev Analogy",
+      "current_heading": "Chelev Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Tevel, Hekdesh, Konamot",
+    "candidates": [
+      "Tevel, Hekdesh, Konamot",
+      "Agunah Prevention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the Gemara's analysis of tevel, hekdesh, and konamot as potential sources for the credibility of a single witness, exactly matching the prose of candidate 0.",
+      "chosen_heading": "Tevel, Hekdesh, Konamot",
+      "current_heading": "Tevel, Hekdesh, Konamot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Agunah Prevention",
+    "candidates": [
+      "Agunah Prevention",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Zeira's stringency/leniency balance and the final answer about agunah concern \u2014 are explicitly discussed together in the 'Agunah Prevention' prose, which quotes and explains both the 'lo tachmir velo takal' challenge and the 'mishum aguna ikilu bah rabanan' resolution.",
+      "chosen_heading": "Agunah Prevention",
+      "current_heading": "Agunah Prevention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Gemara's Objection",
+      "Identity Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav's statement, the laughter from the West, and the brief Gemara clarification \u2014 all of which are discussed together under 'Rav's Position,' which is the current placement and matches the full content of the quoted text.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Identity Recognition",
+    "candidates": [
+      "Gemara's Objection",
+      "Identity Recognition",
+      "Conflicting Testimony",
+      "Rav Sheshet's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of non-recognition ('d'la yad'ina leh'), the two witnesses who accompany the returning husband, and the Joseph/Rav \u1e24isda proof, all of which are precisely what the 'Identity Recognition' section's prose describes.",
+      "chosen_heading": "Identity Recognition",
+      "current_heading": "Identity Recognition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Rav Sheshet's Solution",
+    "candidates": [
+      "Conflicting Testimony",
+      "Rav Sheshet's Solution",
+      "Temporal Sequence",
+      "Baraita Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous chain: the trei u'trei objection, Rav Sheshet's solution (marrying one's own witness), and the follow-up about her own uncertainty resolved by 'bari li' \u2014 exactly the content described in Rav Sheshet's Solution prose.",
+      "chosen_heading": "Rav Sheshet's Solution",
+      "current_heading": "Rav Sheshet's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Baraita Dispute",
+    "candidates": [
+      "Temporal Sequence",
+      "Baraita Dispute",
+      "Kohen Case Challenge",
+      "Kohen Exception",
+      "Rav Ashi's Reinterpret",
+      "Mishna's Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita dispute between Rabbanan and Rabbi Mena\u1e25em son of Rabbi Yosei about the two-witness deadlock case and Rav's ruling in relation to it, which matches exactly the 'Baraita Dispute' prose.",
+      "second_heading": "Kohen Case Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 present Rava's objection from the kohen baraita and the Gemara's resolutions (including Rav Ashi's reinterpretation), which matches the 'Kohen Case Challenge' prose for items 3-4 and flows into 'Kohen Exception' and 'Rav Ashi's Reinterpret' \u2014 but since items 3-6 form a continuous chain of objection and resolution, the structural seam is between items 2 and 3 where the topic shifts from the witness-deadlock baraita to the kohen compulsion baraita.",
+      "current_heading": "Baraita Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Mishna's Case",
+    "candidates": [
+      "Kohen Case Challenge",
+      "Kohen Exception",
+      "Rav Ashi's Reinterpret",
+      "Mishna's Case",
+      "Shmuel's Condition",
+      "One vs. One Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why Rav needed to restate his ruling given the Mishnah's case (niset shelo birshut) and Rav Huna's report of Rav's ruling, and the answer that one ruling was derived from the other \u2014 exactly what the prose of 'Mishna's Case' describes.",
+      "chosen_heading": "Mishna's Case",
+      "current_heading": "Mishna's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "One vs. One Witness",
+    "candidates": [
+      "Shmuel's Condition",
+      "One vs. One Witness",
+      "Ulla's Principle",
+      "Disqualified Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's statement and the Gemara's immediate analysis of it, which together form the content described in candidate 0's prose about Shmuel's condition \u2014 the current placement under 'One vs. One Witness' only covers the Gemara's inferential conclusion, while candidate 0 covers both Shmuel's formulation and the reasoning the Gemara develops from it.",
+      "chosen_heading": "Shmuel's Condition",
+      "current_heading": "One vs. One Witness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Disqualified Witnesses",
+    "candidates": [
+      "Ulla's Principle",
+      "Disqualified Witnesses",
+      "Rabbi Nechemia's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's principle as an objection and then answers it with the disqualified witnesses case \u2014 this is precisely what the 'Ulla's Principle' section's prose describes, making it the natural home for this Gemara text.",
+      "chosen_heading": "Ulla's Principle",
+      "current_heading": "Disqualified Witnesses",
+      "moved": true
+    }
+  }
+]

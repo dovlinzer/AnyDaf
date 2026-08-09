@@ -188,7 +188,7 @@
           "timestamp": "37:50"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -222,7 +222,7 @@
           "timestamp": "48:17"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -528,5 +528,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "51:50",
+  "amud_b_micro_title": "Land Goes to Mishmar",
+  "shiur_start_daf": 28,
+  "shiur_start_amud": "a"
 }

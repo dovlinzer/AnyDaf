@@ -34,7 +34,7 @@
           "timestamp": "09:35"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -63,8 +63,8 @@
           "timestamp": "15:34"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Case Applications: Isi ben Yehuda's Requirement of Witnesses",
@@ -169,7 +169,7 @@
           "timestamp": "39:47"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -501,5 +501,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "41:42",
+  "amud_b_micro_title": "Reish Lakish's Rule",
+  "shiur_start_daf": 83,
+  "shiur_start_amud": "a"
 }

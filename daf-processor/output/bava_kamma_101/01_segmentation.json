@@ -73,7 +73,7 @@
           "timestamp": "19:08"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -379,5 +379,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "49:17",
+  "amud_b_micro_title": "Blood Contradiction",
+  "shiur_start_daf": 100,
+  "shiur_start_amud": "b"
 }

@@ -1,10 +1,7 @@
-# Nedarim 90 — Daf Yomi Shiur
-
+[DAF:89b]
 ## Hatarat Nedarim
 
-> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לִפְלוֹנִי, וּלְמִי שֶׁאֶשָּׁאֵל עָלָיו״ — נִשְׁאָל עַל הָרִאשׁוֹן, וְאַחַר כָּךְ נִשְׁאָל עַל הַשֵּׁנִי. וְאִי אָמְרַתְּ נִשְׁאָל אַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא, אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא.
->
-> **Translation:** The Gemara suggests: **Let us say** that the following *baraita* **supports** Rav Pappi's opinion: If one says: The property **of so-and-so is *konam*** for me, and for **that** reason **I will not benefit** from it, **and** deriving benefit from **he who I will request** dissolution **for** the vow is also *konam* for me, then, if he desires to dissolve the vows **he** must first **request** dissolution **with regard to the first** vow, **and afterward he** can **request** dissolution **with regard to the second. And if you say** that **one can request** dissolution of a vow **even though the vow has not** yet **taken effect,** why must he request dissolution of his two vows in the above order? **If he** so **wishes, he** can **first request** dissolution **with regard to this** vow, and **if he wishes, he** can **first request** dissolution **with regard to that** one.
+
 
 ### Conditional Vows
 
@@ -12,27 +9,11 @@ We pick up in the middle of daf 90, approximately eleven lines down, at the word
 
 ### Rabbi Dosa's View
 
-> **Hebrew/Aramaic:** וְרַב פַּפִּי אָמַר: מַחֲלוֹקֶת בַּהֲפָרָה, דְּרַבִּי נָתָן סָבַר: אֵין הַבַּעַל מֵיפֵר אֶלָּא אִם כֵּן חָל נֶדֶר, דִּכְתִיב: ״וְחָפְרָה הַלְּבָנָה״. וְרַבָּנַן סָבְרִי: בַּעַל מֵיפֵר אַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, דִּכְתִיב: ״מֵפֵר מַחְשְׁבוֹת עֲרוּמִים״.
->
-> אֲבָל בִּשְׁאֵלָה — דִּבְרֵי הַכֹּל אֵין חָכָם מַתִּיר כְּלוּם אֶלָּא אִם כֵּן חָל נֶדֶר, דִּכְתִיב: ״לֹא יַחֵל דְּבָרוֹ״.
->
-> **Translation:** **And Rav Pappi said** with regard to this issue: The **dispute** between Rabbi Natan and the Rabbis is **with regard to nullification** only, **as Rabbi Natan holds** that **a husband can nullify** a vow **only once the vow has taken effect, as it is written: "And the moon shall be confounded [*ḥafera*]"** (Isaiah 24:23). He employs this phrase as an allusion, interpreting the word *ḥafera* as if it were *hafara*, nullification, and concludes from here that only a vow that already exists, like the moon, can be nullified. **And the Rabbis hold** that **a husband can nullify** a vow **even though the vow has not** yet **taken effect, as it is written: "He nullifies the thoughts of the crafty"** (Job 5:12), implying that nullification pertains even to thoughts, to prevent them from going into effect.
->
-> **But with regard to a request** made to a halakhic authority to dissolve a vow, **everyone,** both Rabbi Natan and the Rabbis, **agrees that a halakhic authority cannot dissolve anything unless the vow has** already **taken effect, as it is written: "He shall not profane his word"** (Numbers 30:3), which indicates that the person himself who took the vow cannot profane his words and dissolve his vow, but a halakhic authority may do so. This, however, applies only if the vow has already gone into effect, as it says: "His word."
-
 The *Gemara* established that Rabbi Dosa's position is that a husband cannot be *meifer* a *neder* until it has actually taken effect — *ad sheyachol haneder*. The *chachamim* disagree with this requirement.
 
 One might initially find this surprising. Intuitively, *hafara* — the husband's annulment — seems to be precisely the kind of power that operates on an existing vow: the husband confronts a *neder* already in force and overrides it. It is *hatara* — annulment by a *chacham* — that seems to operate retroactively, going back to the original speech act and declaring it to have been made in error. One might therefore have expected the requirement of prior effectuation to apply more naturally to *hafara*, while *hatara* could plausibly function even before the vow has taken hold.
 
 ### Rav Acha's Story
-
-> **Hebrew/Aramaic:** הָהוּא גַּבְרָא דְּאִיתְּסַר הֲנָיָיתָא דְּעָלְמָא עֲלֵיהּ אִי נָסֵיב אִיתְּתָא כִּי לָא תָּנֵינָא הִילְכְתָא. רָהֵיט בְּגַפָּא וְתוּבַלְיָא וְלָא אִמְּצִי לְמִיתְנֵא. אֲתָא רַב אַחָא בַּר רַב הוּנָא וְשַׁבְּשֵׁיהּ וְאִינְּסִיב אִיתְּתָא, וְשַׁרְקֵיהּ טִינָא, וְאַתְיֵיהּ לְקַמֵּיהּ דְּרַב חִסְדָּא.
->
-> **Translation:** It is related that there was **a certain man who** took a vow that all **benefit from the world should be forbidden to him if** he **marries a woman when he has not** yet **learned *halakha*. He would run up a ladder and rope but was not able to learn** the material, i.e., despite all his efforts he failed in his studies. **Rav Aḥa bar Rav Huna came and misled him,** allowing him to understand that even if he took a vow, the vow would not take effect, **and** so **he married a woman.** **And** Rav Aḥa bar Rav Huna then **smeared him with clay** to protect him from the elements, as it was now prohibited for him to benefit from the world by wearing clothes. **And** he then **brought him before Rav Ḥisda,** to dissolve his vow.
-
-> **Hebrew/Aramaic:** אָמַר רָבָא: מַאן חַכִּים לְמִיעְבַּד כִּי הָא מִילְּתָא אִי לָאו דְּרַב אַחָא בַּר רַב הוּנָא, דְּגַבְרָא רַבָּה הוּא. דְּקָסָבַר דְּכִי הֵיכִי דִּפְלִיגִי רַבָּנַן וְרַבִּי נָתָן בַּהֲפָרָה — הָכִי נָמֵי פְּלִיגִי בִּשְׁאֵלָה.
->
-> **Translation:** **Rava said: Who is wise** enough **to act in this manner, if not Rav Aḥa bar Rav Huna, who is a great man? As he holds that just as the Rabbis and Rabbi Natan disagree with regard to nullification,** whether it is possible to nullify a vow that has yet to take effect, **so too, they disagree with regard to a request** made to a halakhic authority to dissolve a vow, whether it is possible to request dissolution of such a vow. Rav Aḥa bar Rav Huna's plan was to have the vow go into effect, so that the man could request that it be dissolved.
 
 This tension is illustrated by a story about Rav Acha bar Rav Huna, who tricked someone into triggering the *tenai* — the condition — of his vow so that it would become *chal*, and only then sought *hatara* from a *chacham*. The *Gemara* explained that Rav Acha bar Rav Huna believed the same debate that governs *hafara* applies to *hatara* as well, and he therefore wanted to satisfy the position of Rabbi Dosa by ensuring the *neder* had taken effect before seeking its dissolution.
 
@@ -48,15 +29,16 @@ Rav Pappi derives this from the verse *lo yachel devaro* — "he shall not profa
 
 ## Konam She'eini
 
+
+
 ### Woman's Dual Vow
 
-> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לִפְלוֹנִי, וּלְמִי שֶׁאֶשָּׁאֵל עָלָיו״ — נִשְׁאָל עַל הָרִאשׁוֹן, וְאַחַר כָּךְ נִשְׁאָל עַל הַשֵּׁנִי. וְאִי אָמְרַתְּ נִשְׁאָל אַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא, אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא.
->
-> **Translation:** The Gemara suggests: **Let us say** that the following *baraita* **supports** Rav Pappi's opinion: If one says: The property **of so-and-so is *konam*** for me, and for **that** reason **I will not benefit** from it, **and** deriving benefit from **he who I will request** dissolution **for** the vow is also *konam* for me, then, if he desires to dissolve the vows **he** must first **request** dissolution **with regard to the first** vow, **and afterward he** can **request** dissolution **with regard to the second. And if you say** that **one can request** dissolution of a vow **even though the vow has not** yet **taken effect,** why must he request dissolution of his two vows in the above order? **If he** so **wishes, he** can **first request** dissolution **with regard to this** vow, and **if he wishes, he** can **first request** dissolution **with regard to that** one.
+> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לִפְלוֹנִי, וּלְמִי שֶׁאֶשָּׁאֵל עָלָיו״ — נִשְׁאָל עַל הָרִאשׁוֹן, וְאַחַר כָּךְ נִשְׁאָל עַל הַשֵּׁנִי. וְאִי אָמְרַתְּ נִשְׁאָל אַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא, אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא.
+> **Translation:** The Gemara suggests: **Let us say** that the following *baraita* **supports** Rav Pappi’s opinion: If one says: The property **of so-and-so is *konam*** for me, and for **that** reason **I will not benefit** from it, **and** deriving benefit from **he who I will request** dissolution **for** the vow is also *konam* for me, then, if he desires to dissolve the vows **he** must first **request** dissolution **with regard to the first** vow, **and afterward he** can **request** dissolution **with regard to the second. And if you say** that **one can request** dissolution of a vow **even though the vow has not** yet **taken effect,** why must he request dissolution of his two vows in the above order? **If he** so **wishes, he** can **first request** dissolution **with regard to this** vow, and **if he wishes, he** can **first request** dissolution **with regard to that** one.
 
-> **Hebrew/Aramaic:** וּמִי יָדַע אִי הַאי קַמָּא אִי הַאי בָּתְרָא?
->
+> **Hebrew/Aramaic:** וּמִי יָדַע אִי הַאי קַמָּא אִי הַאי בָּתְרָא?
 > **Translation:** The Gemara refutes this argument: **And does he know if this** vow **is first** or **if that** vow **is last?** The *baraita* does not specify which vow is first and which is last. Perhaps first and last is referring not to the order in which the two vows were taken, but rather to the order in which they are dissolved, so that if he so wishes, he can first request dissolution of the vow not to derive benefit from the halakhic authority from whom he will request dissolution of his vow.
+
 
 The *Gemara* now attempts to bring a supporting proof for Rav Pappi's position. The *braita* reads: a person says *konam she'eini ne'eneh li-Ploni* — a *konam* prohibiting benefit between himself and Ploni — and adds that whoever serves as the *chacham* to grant *hatara* on this *neder* will also be forbidden to him. The Ran reads the case as Ploni being prohibited from benefiting from the person making the vow, though the grammar of the vernacular formulation remains ambiguous even at this late stage of *Maseches Nedarim*.
 
@@ -78,19 +60,19 @@ There is a further objection that the *Gemara* does not raise, though it seems c
 
 ## Nazir Triggered
 
+
+
 ### Neder Plus Nazir
 
-> **Hebrew/Aramaic:** אֶלָּא לֵימָא מְסַיַּיע לֵיהּ: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לִפְלוֹנִי, הֲרֵינִי נָזִיר לִכְשֶׁאֶשָּׁאֵל עָלָיו״ — נִשְׁאָל עַל נִדְרוֹ, וְאַחַר כָּךְ נִשְׁאָל עַל נִזְרוֹ.
->
-> **Translation:** **Rather, let us say** that a different *baraita* **supports** Rav Pappi's opinion: If one says: The property **of so-and-so is *konam*** for me, and for **that** reason **I will not benefit** from it, and **I am hereby a nazirite for when I will request** dissolution **of** this vow, if he desires to dissolve the vows **he** must first **request** dissolution **with regard to his vow** not to derive benefit from a particular person, **and afterward he** can **request** dissolution **with regard to his** vow of **naziriteship** that he accepted upon himself should he request dissolution of his first vow.
+> **Hebrew/Aramaic:** אֶלָּא לֵימָא מְסַיַּיע לֵיהּ: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לִפְלוֹנִי, הֲרֵינִי נָזִיר לִכְשֶׁאֶשָּׁאֵל עָלָיו״ — נִשְׁאָל עַל נִדְרוֹ, וְאַחַר כָּךְ נִשְׁאָל עַל נִזְרוֹ.
+> **Translation:** **Rather, let us say** that a different *baraita* **supports** Rav Pappi’s opinion: If one says: The property **of so-and-so is *konam*** for me, and for **that** reason **I will not benefit** from it, and **I am hereby a nazirite for when I will request** dissolution **of** this vow, if he desires to dissolve the vows **he** must first **request** dissolution **with regard to his vow** not to derive benefit from a particular person, **and afterward he** can **request** dissolution **with regard to his** vow of **naziriteship** that he accepted upon himself should he request dissolution of his first vow.
+
+> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ נִשְׁאָל אַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, אִי בָּעֵי — עַל נִדְרוֹ אִיתְּשִׁיל בְּרֵישָׁא, אִי בָּעֵי — עַל נִזְרוֹ אִיתְּשִׁיל בְּרֵישָׁא! רַבִּי נָתָן הִיא.
+> **Translation:** **And if you say** that **one** can **request** dissolution of a vow **even though the vow has not** yet **taken effect,** why must the two vows be dissolved in that order? **If he** so **wishes, he** can **first request** dissolution **with regard to his vow** not to derive benefit from that other person, and **if he wishes, he** can **first request** dissolution **with regard to his** vow of **naziriteship.** The Gemara rejects this argument: This is no proof, as it is possible that the *baraita* **is** taught in accordance with the opinion of **Rabbi Natan,** who maintains that a vow can be nullified only after it has gone into effect. The Rabbis, however, dispute this view.
 
 The *Gemara* attempts a cleaner proof from a second *braita*: one declares *konam she'eini ne'eneh le-Ploni* — a *konam* prohibiting benefit from Reuven — and adds that if this *neder* is ever dissolved, he will become a *nazir*. The *braita* rules that one must first be *nish'al* — seek *hatara* — on the *neder*, and only afterward seek *hatara* on the *nezirut*. This case is far less ambiguous than the previous one. The two objects are clearly distinct: the *neder* and the *nezirut*. There is no question of which is *rishon* and which is *sheini*.
 
 ### Order Proof
-
-> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ נִשְׁאָל אַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, אִי בָּעֵי — עַל נִדְרוֹ נִיתְּשִׁיל בְּרֵישָׁא, וְאִי בָּעֵי — עַל נִזְרוֹ נִיתְּשִׁיל בְּרֵישָׁא! תְּיוּבְתָּא.
->
-> **Translation:** **And if you say** that **one** can **request** dissolution of a vow **even though the vow has not** yet **taken effect,** why must the two vows be dissolved in that order? **If he** so **wishes he** can **first request** dissolution **with regard to his vow** not to derive benefit from that other person, **and if he wishes he** can **first request** dissolution **with regard to his** vow of **naziriteship.** The fact that the *baraita* does not say this indicates that a vow can be dissolved only once it has gone into effect. The Gemara concludes: Here is **a conclusive refutation** of this version of the dispute between Rabbi Natan and the Rabbis.
 
 Why must they be resolved in that order? Because the *nezirut* does not yet exist when the *neder* is first made — it is triggered only when the *neder* is dissolved. The *braita*'s instruction to first obtain *hatara* on the *neder* before obtaining *hatara* on the *nezirut* presupposes that the *nezirut* must actually have come into existence before it can be dissolved. This appears to be a straightforward proof that *hatara* requires the *neder* to be in effect.
 
@@ -106,14 +88,15 @@ The *Gemara* responds: this *braita* may represent only the position of Rabbi Na
 
 ## Rav Pappi Alt
 
+
+
+[DAF:90b]
 ### Mareimar Report
 
-> **Hebrew/Aramaic:** אָמַר רָבִינָא: אָמַר לִי מָרִימָר, הָכִי אֲמַר אֲבוּךְ מִשְּׁמֵיהּ דְּרַב פַּפִּי: מַחֲלוֹקֶת בַּהֲפָרָה, אֲבָל בִּשְׁאֵלָה — דִּבְרֵי הַכֹּל מֵפֵר וְאַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, דִּכְתִיב ״לֹא יַחֵל דְּבָרוֹ״.
->
-> **Translation:** **Ravina said: Mareimar said to me: This is** what **your father said in the name of Rav Pappi:** The **dispute** between Rabbi Natan and the Rabbis is **with regard to nullification** only, as Rabbi Natan holds that a husband can nullify a vow only once the vow has taken effect, whereas the Rabbis hold that a husband can nullify a vow even though the vow has not yet taken effect. **But with regard to a request** made to a halakhic authority to dissolve a vow, **everyone,** both Rabbi Natan and the Rabbis, **agrees,** that **he can dissolve** the vow **even though the vow has not** yet **taken effect. As it is written: "He shall not profane his word"** (Numbers 30:3), which Ravina expounds as follows:
+> **Hebrew/Aramaic:** אָמַר רָבִינָא: אָמַר לִי מָרִימָר, הָכִי אֲמַר אֲבוּךְ מִשְּׁמֵיהּ דְּרַב פַּפִּי: מַחֲלוֹקֶת בַּהֲפָרָה, אֲבָל בִּשְׁאֵלָה — דִּבְרֵי הַכֹּל מֵפֵר וְאַף עַל פִּי שֶׁלֹּא חָל נֶדֶר, דִּכְתִיב ״לֹא יַחֵל דְּבָרוֹ״.
+> **Translation:** **Ravina said: Mareimar said to me: This is** what **your father said in the name of Rav Pappi:** The **dispute** between Rabbi Natan and the Rabbis is **with regard to nullification** only, as Rabbi Natan holds that a husband can nullify a vow only once the vow has taken effect, whereas the Rabbis hold that a husband can nullify a vow even though the vow has not yet taken effect. **But with regard to a request** made to a halakhic authority to dissolve a vow, **everyone,** both Rabbi Natan and the Rabbis, **agrees,** that **he can dissolve** the vow **even though the vow has not** yet **taken effect. As it is written: “He shall not profane his word”** (Numbers 30:3), which Ravina expounds as follows:
 
-> **Hebrew/Aramaic:** לְמֵימְרָא דְּלָא הֲוָה בֵּיהּ מַעֲשֶׂה.
->
+> **Hebrew/Aramaic:** לְמֵימְרָא דְּלָא הֲוָה בֵּיהּ מַעֲשֶׂה.
 > **Translation:** **That is to say that there was not** yet any **action** but only speech, and even so the halakhic authority can dissolve the vow.
 
 The *Gemara* now introduces an entirely different version of Rav Pappi's position. Ravina reports in the name of Mareimar, who transmitted it in the name of Rav Pappi: the debate between Rabbi Dosa and the *chachamim* applies only to *hafara*, but when it comes to *hatara*, everyone agrees that a *chacham* can be *matir* the *neder* even before it takes effect. This is the exact inverse of the previous version of Rav Pappi. Both versions agree that the dispute is limited to *hafara*; they disagree only on which direction the consensus regarding *hatara* runs.
@@ -126,21 +109,20 @@ This version of Rav Pappi also draws from *lo yachel devaro*, but with a differe
 
 ### Counterargument
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לִפְלוֹנִי וּלְמִי שֶׁנִּשְׁאָל עָלָיו״ — נִשְׁאָל עַל הָרִאשׁוֹן, וְאַחַר כָּךְ נִשְׁאָל עַל הַשֵּׁנִי. אַמַּאי? אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא, וְאִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא!
->
+> **Hebrew/Aramaic:** מֵיתִיבִי: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לִפְלוֹנִי וּלְמִי שֶׁנִּשְׁאָל עָלָיו״ — נִשְׁאָל עַל הָרִאשׁוֹן, וְאַחַר כָּךְ נִשְׁאָל עַל הַשֵּׁנִי. אַמַּאי? אִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא, וְאִי בָּעֵי — עַל הַאי נִיתְּשִׁיל בְּרֵישָׁא!
 > **Translation:** The Gemara **raises an objection** against this version of the tannaitic dispute from the aforementioned *baraita*: If one says: The property **of so-and-so is *konam*** for me, and for **that** reason **I will not benefit** from it, **and** deriving benefit from **he who I will request** dissolution **for** the vow is also *konam* for me, if he desires to dissolve the vows **he** must first **request** dissolution **with regard to the first** vow, **and afterward he** can **request** dissolution **with regard to the second.** But according to what was stated above, that all agree that a vow can be dissolved even before it has taken effect, **why** is this so? **If he** so **wishes, he** can **first request** dissolution **with regard to this** vow, and **if he wishes, he** can **first request** dissolution **with regard to that** one.
 
-> **Hebrew/Aramaic:** מִי יוֹדֵעַ הֵי רִאשׁוֹן וְהֵי שֵׁנִי?
->
+> **Hebrew/Aramaic:** מִי יוֹדֵעַ הֵי רִאשׁוֹן וְהֵי שֵׁנִי?
 > **Translation:** The Gemara answers: **Does he know which** vow **is first and which is** the **second?** The wording of the *baraita* is not at all clear on this point. Perhaps, if he so wishes, he can first request dissolution of the vow not to derive benefit from the halakhic authority from whom he will request dissolution of his vow.
 
-> **Hebrew/Aramaic:** מֵתִיבִי: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה וַהֲרֵינִי נָזִיר לִכְשֶׁאֶשָּׁאֵל עָלָיו״ — נִשְׁאָל עַל נִדְרוֹ, וְאַחַר כָּךְ נִשְׁאָל עַל נִזְרוֹ. וְאַמַּאי? אִי בָּעֵי — עַל נִדְרוֹ נִיתְּשִׁיל בְּרֵישָׁא, וְאִי בָּעֵי — עַל נִזְרוֹ נִיתְּשִׁיל בְּרֵישָׁא! תְּיוּבְתָּא.
->
+> **Hebrew/Aramaic:** מֵתִיבִי: ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה וַהֲרֵינִי נָזִיר לִכְשֶׁאֶשָּׁאֵל עָלָיו״ — נִשְׁאָל עַל נִדְרוֹ, וְאַחַר כָּךְ נִשְׁאָל עַל נִזְרוֹ. וְאַמַּאי? אִי בָּעֵי — עַל נִדְרוֹ נִיתְּשִׁיל בְּרֵישָׁא, וְאִי בָּעֵי — עַל נִזְרוֹ נִיתְּשִׁיל בְּרֵישָׁא! תְּיוּבְתָּא.
 > **Translation:** The Gemara **raises** a further **objection** from the second *baraita* cited above: If one says: The property **of so-and-so is *konam*** for me, and for **that** reason **I will not benefit** from it, and **I am hereby a nazirite for when I will request** dissolution **of** this vow, if he desires to dissolve the vows **he** must first **request** dissolution **with regard to his vow** that rendered benefit from a particular person forbidden, **and afterward he** can **request** dissolution **with regard to his** vow of **naziriteship** that he accepted upon himself should he request dissolution of his first vow. **But why** must he proceed in this manner? **If he** so **wishes he** can **first request** dissolution **with regard to his vow** not to derive benefit from that other person, **and if he wishes he** can **first request** dissolution **with regard to his** vow of **naziriteship.** The fact that the *baraita* does not say this indicates that a vow can be dissolved only once it has gone into effect. The Gemara concludes: Here is **a conclusive refutation** of this version of the dispute between Rabbi Natan and the Rabbis.
 
 The *Gemara* immediately challenges this version by reinstating the same *braitot* considered earlier. First, the *braita* about the dual *konam* affecting Reuven and the dissolving *chacham*: if *hatara* is available before effectuation, why must the dissolutions occur in sequence at all? The *Gemara* repeats its answer — *rishon* simply means one before the other, not necessarily the first chronologically — which is equally unsatisfying here.
 
 The second *braita* about the *neder* and the conditional *nezirut* poses the real difficulty. The *Gemara* asks: according to this version of Rav Pappi, why cannot one dissolve the *nezirut* first, before the *neder* is even dissolved and the *nezirut* triggered? The *Gemara* pronounces *tiyuvta* — a refutation. This version of Rav Pappi appears to be defeated by the *braita*, which requires that the *neder* be dissolved and the *nezirut* triggered before the *nezirut* itself can be dissolved.
+
+What emerges from this *tiyuvta* is that there is a genuine opinion in the *sugya* holding that *hatara* requires the *neder* to take effect first — and indeed, as noted earlier, the initial framing of the discussion assumed that all opinions agreed on this requirement for *hatara*. It is worth noting, however, that the *braita* driving this refutation involves a conditional *neder*, one that may never take effect at all — a distinction that bears significantly on how broadly to read the ruling, as the discussion that follows will make clear.
 
 ### Conditional vs Postponed
 
@@ -152,15 +134,9 @@ The argument of Rabbi Natan and the supporting *braitot* may be specifically add
 
 ## Halakhic Ruling
 
+
+
 ### Ran's Ruling
-
-> **Hebrew/Aramaic:** מַתְנִי׳ בָּרִאשׁוֹנָה הָיוּ אוֹמְרִים: שָׁלֹשׁ נָשִׁים יוֹצְאוֹת וְנוֹטְלוֹת כְּתוּבָה: הָאוֹמֶרֶת ״טְמֵאָה אֲנִי לָךְ״, ״שָׁמַיִם בֵּינִי לְבֵינָךְ״, וּ״נְטוּלָה אֲנִי מִן הַיְּהוּדִים״.
->
-> **Translation:** MISHNA: **Initially** the Sages **would say** that **three women are divorced** even against their husbands' will, **and** nevertheless **they receive** payment of what is due to them according to their **marriage contract.** The first is the wife of a priest **who says** to her husband: **I am defiled to you,** i.e., she claims that she had been raped, so that she is now forbidden to her husband. The second is a woman who says to her husband: **Heaven is between me and you,** i.e., she declares that he is impotent, a claim she cannot prove, as the truth of it is known only to God. **And** the third is a woman who takes a vow, stating: **I am removed from the Jews,** i.e., benefit from sexual intercourse with any Jew, including my husband, is forbidden to me.
-
-> **Hebrew/Aramaic:** חָזְרוּ לוֹמַר, שֶׁלֹּא תְּהֵא אִשָּׁה נוֹתֶנֶת עֵינֶיהָ בְּאַחֵר וּמְקַלְקֶלֶת עַל בַּעְלָהּ: הָאוֹמֶרֶת ״טְמֵאָה אֲנִי לָךְ״ — תָּבִיא רְאָיָה לִדְבָרֶיהָ. ״הַשָּׁמַיִם בֵּינִי לְבֵינָךְ״ — יַעֲשׂוּ דֶּרֶךְ בַּקָּשָׁה. וּ״נְטוּלָה אֲנִי מִן הַיְּהוּדִים״ — יָפֵר לְחֶלְקוֹ, וּתְהֵא מְשַׁמַּשְׁתּוֹ, וּתְהֵא נְטוּלָה מִן הַיְּהוּדִים.
->
-> **Translation:** **They** subsequently **retracted** their words **and said** that in order **that** a married **woman should not cast her eyes on another** man **and** to that end **ruin** her relationship **with her husband** and still receive payment of her marriage contract, these *halakhot* were modified as follows: A priest's wife **who says** to her husband: **I am defiled to you, must bring proof for her words** that she was raped. As for a woman who says: **Heaven is between me and you,** the court **must act** and deal with the matter **by way of a request,** rather than force the husband to divorce his wife. **And** with regard to a woman who says: **I am removed from the Jews,** her husband **must nullify his part,** i.e., the aspect of the vow that concerns him, so that she should be permitted to him, **and she may engage in sexual intercourse with him, but she is removed from** all other **Jews,** so that if he divorces her she is forbidden to all.
 
 The *Ran* at the top of 90b states the *halakha* explicitly: *le-inyan she'eila kaima lan k'Rav Pappa d'lo machlokes b'hafara aval b'she'ela divrei hakol ein chacham matir ad sheyachol haneder* — when it comes to *hatara*, we rule like the first version of Rav Pappi that everyone agrees a *chacham* cannot dissolve a *neder* until it has taken effect. The *Ran* notes that the great authorities ruled this way *l'chumra*, as the strict position, though he acknowledges that another position exists maintaining the debate applies equally to *hatara*.
 
@@ -174,15 +150,22 @@ The practical distinction turns on how we understand Rav Pappi's ruling. If the 
 
 ### Transition
 
+Before moving forward, it is worth pausing on a conceptual distinction that the preceding discussion of *hatara* and *hafara* brings into relief. The two mechanisms differ not merely in who performs them, but in what they accomplish. When *hatara* works, it operates retroactively — a *chacham* determines that there was a mistaken premise at the outset, and the result is that there was never a *neder* at all. *Hafara*, by contrast, operates going forward: *mika'an u'le'haba* — from this point on, the *neder* is no longer effective, but whatever occurred before the husband's *hafara* remains fully intact. This is why, if a woman transgressed her *neder* and the *ba'al* was *mefer* only afterward, she has nonetheless transgressed — the *hafara* does not reach back. But if she transgressed and a *chacham* was subsequently *matir*, she has not transgressed, because the *hatara* retroactively undoes the *neder* from its origin. This distinction, if anything, makes the requirement of prior effectuation for *hatara* feel counterintuitive: if *hatara* works by retroactive erasure rather than by stopping an ongoing effect, why should the *neder* need to be in force at the moment a *chacham* acts? The *Ran*'s preferred reasoning — that the issue is one of certainty rather than mere timing — goes some distance toward resolving this tension, and the practical resolution, as noted, follows Rav Pappi.
+
 With that, we arrive at the final *mishnah* of the tractate — a *mishnah* whose *halakhic* implications extend far beyond the narrow domain of *nedarim* and whose reach into questions of marriage, divorce, belief, and human dignity makes it among the most consequential texts in the entire *masekhet*.
 
 ---
 
 ## Women's Divorce
 
+
+
 ### First Stage
 
 The *mishnah* opens: *barishona hayu omrim, shalosh nashim yotz'ot ve-notlot ketubbah* — they used to say that three categories of women are granted divorce and collect their *ketubbah*. This opening formula signals what will follow: a two-stage ruling in which an initial policy is reversed. The three women are those who bring claims that, under the initial ruling, were believed without requiring independent corroboration. Not only are they forced to divorce, but the divorce is treated as no fault of their own — hence they receive their *ketubbah* as well.
+
+> **Hebrew/Aramaic:** מַתְנִי׳ בָּרִאשׁוֹנָה הָיוּ אוֹמְרִים: שָׁלֹשׁ נָשִׁים יוֹצְאוֹת וְנוֹטְלוֹת כְּתוּבָה: הָאוֹמֶרֶת ״טְמֵאָה אֲנִי לָךְ״, ״שָׁמַיִם בֵּינִי לְבֵינָךְ״, וּ״נְטוּלָה אֲנִי מִן הַיְּהוּדִים״.
+> **Translation:** MISHNA: **Initially** the Sages **would say** that **three women are divorced** even against their husbands’ will, **and** nevertheless **they receive** payment of what is due to them according to their **marriage contract.** The first is the wife of a priest **who says** to her husband: **I am defiled to you,** i.e., she claims that she had been raped, so that she is now forbidden to her husband. The second is a woman who says to her husband: **Heaven is between me and you,** i.e., she declares that he is impotent, a claim she cannot prove, as the truth of it is known only to God. **And** the third is a woman who takes a vow, stating: **I am removed from the Jews,** i.e., benefit from sexual intercourse with any Jew, including my husband, is forbidden to me.
 
 ### Tamei Claim
 
@@ -192,17 +175,18 @@ Underlying this policy is the principle of *shavya nafshah chatikhah de-issura*:
 
 ### Shamayim Beini
 
+
 The second category is *shamayim beini u-veinecha* — "heaven is between us." This phrase signals a claim that only God can attest to, meaning it pertains to some aspect of their intimate life that no external witness could observe. The *Gemara* understands this as a claim that the husband is incapable of *yoreh ke-chetz* — of normal ejaculation — and consequently cannot give the wife children. She is therefore demanding a divorce on the grounds that she cannot have children with him.
 
 One might object: since a woman is not commanded in *pru u-rvu*, why should her inability to have children constitute grounds for a forced divorce? The *Gemara* in *Ketubot* addresses this and concludes that a woman has a legitimate human interest in having children — framed in part as a concern for who will care for her in old age — and that this constitutes a sufficient claim. It is worth noting that the claim here is not about the *mitzvah* of *onah*, of marital intimacy itself. Even if the husband cannot produce children, the couple can presumably have marital relations; it is specifically the inability to give her children that drives the claim. That the failure to fulfill *onah* is not itself raised as grounds for divorce is an interesting implication.
 
-Under the initial policy, the wife is believed on this claim as well, the divorce is compelled, and the *ketubbah* is paid — again on the assumption that she has been wronged and is not at fault.
+Under the initial policy, the wife is believed on this claim in two distinct respects: the divorce is compelled, and the *ketubbah* is paid. One might have expected a split ruling — believing her sufficiently to dissolve the marriage while remaining skeptical enough to withhold payment — but the *mishnah* treats the claim as credible across the board. The basis for this, as with the first category, is presumably not any formal legal mechanism but simply the assumption that a person would not fabricate such a claim. The precise scope of the phrase *shamayim beini u-veinecha*, however, is itself a matter of dispute — whether it refers only to the specific physiological claim the *Gemara* identifies, or whether it can encompass something broader, is a question the *Ran* and *Rambam* take up in ways discussed in the next section.
 
 ### Estrangement
 
 The *Ran* raises the possibility that *shamayim beini u-veinecha* carries a broader meaning than the *Gemara*'s technical reading. He cites the *Yerushalmi*, which reads the phrase as a claim about marital distance: *k'ma d'Shamayim rechuka min ar'a, kach hi iteta rechika m'ba'alah* — just as the heaven is distant from the earth, so is this wife distant from her husband. On this reading, the claim need not be specifically about the husband's physiological incapacity; a general assertion of profound marital estrangement would itself constitute a cognizable basis for divorce, and the wife would be believed on that claim alone.
 
-The *Ran* acknowledges that the Babylonian *Gemara* understands the phrase as referring specifically to *yoreh ke-chetz*, and supports this with a paraphrase: *Elokim eid beini u-veinecha d'kushta kamina she-davar zeh eino yadua bo ela la-Shem* — God alone is witness to this, for this matter is known to none but God. On the *Gemara*'s reading, the claim must be about something that only God can testify to, and something specific — namely, the inability to have children. Nevertheless, the *Ran* notes that according to the *Yerushalmi*, the language *efshar d'lashon Hashamayim beini l'veincha kolel hakol* — perhaps the phrase encompasses both ideas: the physiological claim and the claim of estrangement.
+The *Ran* acknowledges that the Babylonian *Gemara* understands the phrase as referring specifically to *yoreh ke-chetz*, and supports this with a paraphrase: *Elokim eid beini u-veinecha d'kushta kamina she-davar zeh eino yadua bo ela la-Shem* — God alone is witness to this, for this matter is known to none but God. On the *Gemara*'s reading, the claim must be about something that only God can testify to, and something specific — namely, the inability to have children. Nevertheless, the *Ran* notes that according to the *Yerushalmi*, the language *efshar d'lashon Hashamayim beini l'veinecha kolel hakol* — perhaps the phrase encompasses both ideas: the physiological claim and the claim of estrangement.
 
 The *Rambam* bridges these positions in a different way. He frames the woman's claim in terms of marital intimacy itself: she declares that she finds her husband so intolerable that she cannot bear to have sex with him. This formulation makes the claim not about whether children are possible but about whether marital life is sustainable. The *Rambam* holds that no person can be compelled to remain in a marriage in which intimate relations have become impossible to tolerate, and that principle grounds the entitlement to divorce.
 
@@ -216,9 +200,14 @@ The answer is that if a woman has reached the point of taking a vow of this extr
 
 ## Reversal & Consequences
 
+
+
 ### Chazru Lomar
 
 The *mishnah* continues: *chazru lomar* — they reconsidered and revised the ruling. This formula signals a deliberate reversal of the initial policy. The same three categories of women who had been believed and given both divorce and *ketubbah* are now treated differently across the board.
+
+> **Hebrew/Aramaic:** חָזְרוּ לוֹמַר, שֶׁלֹּא תְּהֵא אִשָּׁה נוֹתֶנֶת עֵינֶיהָ בְּאַחֵר וּמְקַלְקֶלֶת עַל בַּעְלָהּ: הָאוֹמֶרֶת ״טְמֵאָה אֲנִי לָךְ״ — תָּבִיא רְאָיָה לִדְבָרֶיהָ. ״הַשָּׁמַיִם בֵּינִי לְבֵינָךְ״ — יַעֲשׂוּ דֶּרֶךְ בַּקָּשָׁה. וּ״נְטוּלָה אֲנִי מִן הַיְּהוּדִים״ — יָפֵר לְחֶלְקוֹ, וּתְהֵא מְשַׁמַּשְׁתּוֹ, וּתְהֵא נְטוּלָה מִן הַיְּהוּדִים.
+> **Translation:** **They** subsequently **retracted** their words **and said** that in order **that** a married **woman should not cast her eyes on another** man **and** to that end **ruin** her relationship **with her husband** and still receive payment of her marriage contract, these *halakhot* were modified as follows: A priest’s wife **who says** to her husband: **I am defiled to you, must bring proof for her words** that she was raped. As for a woman who says: **Heaven is between me and you,** the court **must act** and deal with the matter **by way of a request,** rather than force the husband to divorce his wife. **And** with regard to a woman who says: **I am removed from the Jews,** her husband **must nullify his part,** i.e., the aspect of the vow that concerns him, so that she should be permitted to him, **and she may engage in sexual intercourse with him, but she is removed from** all other **Jews,** so that if he divorces her she is forbidden to all.
 
 ### Natna Eineha
 
@@ -230,6 +219,7 @@ Under the revised ruling, *ha-omeret teme'a ani lach tavi ra'ayah li-devareha* �
 
 ### No Divorce/Ketubah
 
+
 For the case of *ha-nezurah min ha-Yehudim*, the ruling under revision is that the husband annuls his portion of the *neder* — *yafer le-chelko* — since it pertains to *devarim shebeino leveinah*, and they continue marital relations. If she is eventually divorced for other reasons, she remains bound by the vow as it applies to all other Jews, since the husband's annulment covers only his own portion. The practical result is that we are in effect saying we do not believe her — or at least that we will not act as if we believe her. If we are not going to force a divorce based on her claim, then we will require her to continue in the marriage as though the underlying concern did not exist.
 
 What is notable is how binary this treatment is. One might have expected a middle position: believe her enough to compel a divorce, but not enough to grant a *ketubbah*. That would impose a financial cost on making the claim while still providing relief to a woman in a genuinely intolerable situation. This is indeed the position of the *Rambam* when a woman says she finds her husband physically intolerable: he rules that she receives a divorce but forfeits her *ketubbah*, the financial disincentive serving as a filter against bad-faith claims while preserving a genuine avenue of relief. That middle position is not adopted here. Under the revised ruling it is all or nothing: either we believe her fully, or we do not believe her at all, and there is no divorce.
@@ -238,13 +228,15 @@ What is notable is how binary this treatment is. One might have expected a middl
 
 The real-world consequences of this reversal are far-reaching. A woman who genuinely cannot tolerate her marriage — whether because of estrangement, because her husband has treated her terribly, or because the marriage has broken down in every meaningful sense — finds herself without recourse. This is the dynamic that produces the *agunah* situation in its various forms. Courts invoking *shalom bayit* as a response to such claims are in fact carrying forward the logic of *chazru lomar* — the reversal itself.
 
-It is crucial to be precise here: what the *mishnah* is actually saying, in its initial ruling, is that these conditions are genuinely intolerable and warrant divorce. The only thing that shifted in the revision is the question of proof and the fear of abuse. But the downstream consequence is that the framework of "try to work it out" and "we are not going to believe you" becomes the default response to women's claims of marital breakdown — even in cases where evidence eventually becomes available, or where the claims are clearly substantiated.
+It is crucial to be precise here: what the *mishnah* is actually saying, in its initial ruling, is that these conditions are genuinely intolerable and warrant divorce. The only thing that shifted in the revision is the question of proof and the fear of abuse. But the downstream consequence is that the framework of "try to work it out" and "we are not going to believe you" becomes the default response to women's claims of marital breakdown — even in cases where evidence eventually becomes available, or where the claims are clearly substantiated. What gets lost in transmission is that the *mishnah* itself regards these conditions as sufficient grounds for divorce; the revision addresses only the evidentiary problem of an unverifiable claim, not the underlying principle that such conditions are genuinely intolerable. And yet the attitude that calcifies in practice is something different: the concern that giving a woman any avenue of exit amounts to enabling *shema natna eineha ba'acher* — the suspicion that she has simply set her eyes on another man. This suspicion comes to function as a near-universal override, treating any woman's desire to leave a marriage as presumptively illegitimate and as a threat to the institution of marriage itself. The glaring asymmetry, of course, is that a man who sets his eyes on another woman and chooses to pursue divorce is not regarded as endangering Jewish marriage in the same way — that is simply his prerogative. The double standard is not incidental; it is structural.
 
 The asymmetry is also worth noting. A man who wishes to leave his marriage may simply do so, within the limits of *beit din* authority; even *beit Shammai* requires cause, but the threshold for the husband is structurally lower. A woman who wishes to leave must overcome the presumption created by *chazru lomar*, no matter how compelling her situation. That asymmetry, rooted in a polygamous social structure in which a man can have multiple wives and a woman can have only one husband, is the foundation upon which all of this rests.
 
 ---
 
 ## Shavya Nafsha
+
+
 
 ### Non-Belief Framework
 
@@ -263,14 +255,6 @@ A second, somewhat less radical answer focuses on the specific textual source of
 What appears ultimately to be the underlying position — even if the *rishonim* do not state it so starkly — is that *halakha* defines reality. If the legal system has determined as a matter of policy that this class of claims is not to be believed, then the legal effect of those claims is suspended. The *shavya nafsha* principle may itself be overridden when the relevant declaration falls into a category that *halakha* has ruled non-cognizable. The declaration simply has no legal traction within the system that has decided not to credit it.
 
 ### Tosafot Solution
-
-> **Hebrew/Aramaic:** גְּמָ׳ אִיבַּעְיָא לְהוּ: אָמְרָה לְבַעְלָהּ ״טְמֵאָה אֲנִי לָךְ״, מַהוּ שֶׁתֹּאכַל בִּתְרוּמָה? רַב שֵׁשֶׁת אָמַר: אוֹכֶלֶת, שֶׁלֹּא תּוֹצִיא לַעַז עַל בָּנֶיהָ. רָבָא אָמַר: אֵינָהּ אוֹכֶלֶת, אֶפְשָׁר דְּאָכְלָה חוּלִּין.
->
-> **Translation:** GEMARA: **A dilemma was raised before** the Sages, based on the second ruling of the mishna: If the wife of a priest **said to her husband: I am defiled** to you, **what is** the *halakha* **with regard to** whether **she may partake of *teruma*?** Is the *halakha* that just as she is not believed with regard to divorce, so she is not believed with regard to *teruma*, or is the *halakha* that with regard to *teruma* she is believed, and therefore it is prohibited for her to partake of *teruma*, as is the *halakha* of a woman married to a priest who engages in sexual intercourse with a man other than her husband? **Rav Sheshet said:** She **may partake** of *teruma*, **so that she not cast aspersions on her children.** If she is barred from partaking of *teruma*, people will see this as supporting her claim that she had been raped, and rumors will circulate that her sons are unfit for the priesthood. **Rava said: She may not partake** of *teruma*, as **she can partake of non-sacred** food, and it is preferable that her claim that she is no longer permitted to eat *teruma* be taken into account.
-
-> **Hebrew/Aramaic:** אָמַר רָבָא: וּמוֹדֶה רַב שֵׁשֶׁת שֶׁאִם נִתְאַרְמְלָה שֶׁאֵינָהּ אוֹכֶלֶת. מִידֵּי הוּא טַעְמָא אֶלָּא מִשּׁוּם תּוֹצִיא לַעַז עַל בָּנֶיהָ. נִתְאַרְמְלָה וְנִתְגָּרְשָׁה, אָמְרִי: הַשְׁתָּא דְּאִיתְּנִיסָא.
->
-> **Translation:** **Rava said: And Rav Sheshet concedes that if** this wife of the priest who claimed to have been raped **was** then **widowed** from him, **she may not** continue to **partake** of *teruma*. Why? **Isn't the reason** that she is permitted to partake of *teruma* **only that she** should not **cast aspersions on her children?** This being the case, if she **was widowed or divorced,** people **will say** that only **now** it occurred **that she was raped,** i.e., the entire incident occurred after she was no longer married to her husband. Therefore, rumors will not circulate that the children that she bore him beforehand are unfit.
 
 *Tosafot* addresses the problem of the husband directly and practically. At the end of the *Tosafot*, in the widest lines, *Tosafot* states: *d'af le-mishnah achronah im omeret ishah teme'ah ani lakh v'amar ha-ba'al she-ma'amina* — even under the revised ruling, if the wife says "I am *tame'ah* to you" and the husband says that he believes her, she becomes forbidden to him through his *shavya*. And if subsequently the wife reverses her claim and says it was in fact under duress — *b'ones* — so that perhaps his *shavya* should dissolve along with the underlying claim, *Tosafot* rules that once he is bound by *shavya*, he cannot undo it through her retraction.
 

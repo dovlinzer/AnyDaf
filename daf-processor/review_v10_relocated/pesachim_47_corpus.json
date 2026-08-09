@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Day Counting",
+    "candidates": [
+      "Opening",
+      "Mishna Debate",
+      "Ho'il Principle",
+      "Intent Requirement",
+      "Eruv Tavshilin",
+      "Showbread Challenge",
+      "Day Counting",
+      "Rosh Hashanah Issue",
+      "Counting Resolution",
+      "No Override",
+      "Distant Shabbos Q",
+      "Shvut Distinction",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the actual braita text about lechem hapanim being eaten on the ninth, tenth, or eleventh day, which is precisely what the 'Showbread Challenge' heading introduces \u2014 Rava challenging Rav Chisda with this braita \u2014 while the current heading 'Day Counting' describes the explanatory prose that follows the braita citation.",
+      "chosen_heading": "Showbread Challenge",
+      "current_heading": "Day Counting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Rosh Hashanah Issue",
+      "Counting Resolution",
+      "No Override",
+      "Distant Shabbos Q",
+      "Shvut Distinction",
+      "Rabban Gamliel",
+      "Dispute Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Item 1 is Rav Chisda's 'shvut krovah/rechoka' distinction, which is precisely what heading 4 ('Shvut Distinction') discusses, and Item 2 is the immediate follow-up question about Rabban Shimon ben Gamliel pressing that very framework \u2014 both belong under the 'Shvut Distinction' section rather than the 'Rabban Gamliel' section which discusses his position and its resolution.",
+      "chosen_heading": "Shvut Distinction",
+      "current_heading": "Rabban Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Dispute Explained",
+    "candidates": [
+      "Rabban Gamliel",
+      "Dispute Explained",
+      "Shtei HaLechem Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the crux of the dispute between the two opinions \u2014 shvut krovah vs. shvut rechoka \u2014 which is precisely what the 'Dispute Explained' section's prose describes and analyzes.",
+      "chosen_heading": "Dispute Explained",
+      "current_heading": "Dispute Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Shtei HaLechem Braita",
+    "candidates": [
+      "Shtei HaLechem Braita",
+      "Korban Issue",
+      "Rashi Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the braita about shtei halechem and Rav Mari's objection, which is precisely what heading 0 ('Shtei HaLechem Braita') describes in its prose.",
+      "chosen_heading": "Shtei HaLechem Braita",
+      "current_heading": "Shtei HaLechem Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rashi Explanation",
+    "candidates": [
+      "Korban Issue",
+      "Rashi Explanation",
+      "Lachem Exclusion",
+      "Rabban Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's answer using the 'lachem v'lo l'Gavoha' exclusion, which is precisely what the 'Lachem Exclusion' section's prose discusses and explains.",
+      "chosen_heading": "Lachem Exclusion",
+      "current_heading": "Rashi Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rabban Shimon View",
+    "candidates": [
+      "Lachem Exclusion",
+      "Rabban Shimon View",
+      "Challenge Sent",
+      "Eight Prohibitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabban Shimon ben Gamliel's position and his reliance on Abba Shaul's interpretation of 'lachem,' which is exactly what the 'Rabban Shimon View' section's prose discusses.",
+      "chosen_heading": "Rabban Shimon View",
+      "current_heading": "Rabban Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Eight Prohibitions",
+    "candidates": [
+      "Challenge Sent",
+      "Eight Prohibitions",
+      "Ho'il to Plowing",
+      "Blood Coverage",
+      "Clumps Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the challenge Rav Chisda sent to Rabba \u2014 item 1 is the opening of the question citing the mishna, and item 2 completes it with the ho'il argument about blood coverage \u2014 matching candidate 0 ('Challenge Sent') whose prose explicitly describes Rav Chisda dispatching this very question aimed at the ho'il principle.",
+      "chosen_heading": "Challenge Sent",
+      "current_heading": "Eight Prohibitions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Clumps Answer",
+    "candidates": [
+      "Ho'il to Plowing",
+      "Blood Coverage",
+      "Clumps Answer",
+      "Back and Forth",
+      "Mud Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa bar Shmuel's answer about sharp/hard clumps of earth, which is precisely what the 'Clumps Answer' section prose describes and discusses.",
+      "chosen_heading": "Clumps Answer",
+      "current_heading": "Clumps Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Mud Resolution",
+    "candidates": [
+      "Back and Forth",
+      "Mud Resolution",
+      "Braita Overview",
+      "Fire Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of 'Back and Forth' explicitly describes the entire chain of gemara exchanges about hard clods, crushing with a shinui, tzunma rocks, hard soil above with loose soil below \u2014 all of which directly corresponds to items 1 and 2 \u2014 and then ends precisely where item 3 picks up with Mar bar Rav Ashi's mud resolution, meaning all three items together with the mud conclusion belong under heading 0, not under 'Mud Resolution' which discusses only the final answer and its analytical implications.",
+      "chosen_heading": "Back and Forth",
+      "current_heading": "Mud Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Fire Question",
+    "candidates": [
+      "Braita Overview",
+      "Fire Question",
+      "Fire Answer",
+      "Muktza Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the braita itself with its five-lash enumeration and the initial ho'il challenge regarding havarah \u2014 this is the braita overview content, not yet the deeper analysis of fire that belongs under 'Fire Question'.",
+      "chosen_heading": "Braita Overview",
+      "current_heading": "Fire Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Muktza Proposal",
+    "candidates": [
+      "Fire Answer",
+      "Muktza Proposal",
+      "Muktza Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous exchange about removing the fire violation and replacing it with something else \u2014 first the neveila/gid proposal, then Abaye's rejection of it, then the muktza wood counter-proposal \u2014 which belongs under 'Fire Answer' where the prose describes accepting that the fire violation must be removed and replaced.",
+      "chosen_heading": "Fire Answer",
+      "current_heading": "Muktza Proposal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Muktza Biblical",
+    "candidates": [
+      "Muktza Proposal",
+      "Muktza Biblical",
+      "No Permitted Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether muktza is a biblical prohibition and cites the same verses discussed in the 'Muktza Biblical' prose, making it a clear match for that section.",
+      "chosen_heading": "Muktza Biblical",
+      "current_heading": "Muktza Biblical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "No Permitted Use",
+    "candidates": [
+      "No Permitted Use",
+      "Gazelle Question",
+      "Mutar Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the dilemma posed to Rav \u1e24isda/Rav Huna about slaughtering a lamb from the meadow (muktza) as a korban tamid on yom tov, which is exactly what the 'Gazelle Question' prose describes.",
+      "chosen_heading": "Gazelle Question",
+      "current_heading": "No Permitted Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Mutar Principle",
+    "candidates": [
+      "Gazelle Question",
+      "Mutar Principle",
+      "Not Intrinsic",
+      "Not Like Tevel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage expounds the Ezekiel verse (seh, achat, min ha-tzon, min ha-masayim, mimashke Yisrael) to derive conditions for valid korbanos \u2014 exactly what the 'Mutar Principle' prose describes in detail, including the bechor, ma'aser, pilgas exclusions and the mimashke Yisrael/tevel ruling.",
+      "chosen_heading": "Mutar Principle",
+      "current_heading": "Mutar Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Not Like Tevel",
+    "candidates": [
+      "Not Intrinsic",
+      "Not Like Tevel",
+      "To Be Continued"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the exclusion of muktza based on 'issur davar acher' and the sharp question about why that distinction matters if muktza is biblical \u2014 but the prose of heading 0 ('Not Intrinsic') directly describes this exact content (the tevel/muktza distinction and the intrinsic vs. external prohibition logic), whereas heading 1 ('Not Like Tevel') discusses only the follow-up challenge, which is actually embedded within the same Talmudic passage; the full passage including both the distinction and the challenge belongs under heading 0 where it is first introduced.",
+      "chosen_heading": "Not Intrinsic",
+      "current_heading": "Not Like Tevel",
+      "moved": true
+    }
+  }
+]

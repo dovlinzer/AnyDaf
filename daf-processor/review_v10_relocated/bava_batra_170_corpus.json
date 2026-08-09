@@ -1,0 +1,250 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Land Sale Application",
+    "candidates": [
+      "Rabban Shimon: Doc Return",
+      "Letters Acquired by Tran\u2026",
+      "Land Sale Application",
+      "Shtar vs. Chazaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbah's direct formulation of the 'otiyot niknas bimesira' principle as the crux of the dispute, which matches candidate 1's prose exactly \u2014 that prose explicitly attributes this identification to Rabbah and explains the principle in detail, whereas candidate 2's prose presupposes the principle already established and discusses its application.",
+      "chosen_heading": "Letters Acquired by Tran\u2026",
+      "current_heading": "Land Sale Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Shtar vs. Chazaka",
+    "candidates": [
+      "Land Sale Application",
+      "Shtar vs. Chazaka",
+      "Rav Dimi Explains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (haba lidon bishtar uvachazaka) introducing the Rabbi vs. Rabban Shimon ben Gamliel dispute, which is precisely what the 'Shtar vs. Chazaka' section's prose is describing and contextualizing.",
+      "chosen_heading": "Shtar vs. Chazaka",
+      "current_heading": "Shtar vs. Chazaka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rav Dimi Explains",
+    "candidates": [
+      "Rav Dimi Explains",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Dimi's explanation that Rabbi and Rabban Shimon ben Gamliel disagree about whether letters are acquired by transferring the document, which is precisely what the 'Rav Dimi Explains' section's prose describes in detail.",
+      "chosen_heading": "Rav Dimi Explains",
+      "current_heading": "Rav Dimi Explains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Flawed Witness Problem",
+      "Edei Mesira/Chatima"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same exchange between Abaye and Rav Dimi about the contradiction within Rabban Shimon ben Gamliel's rulings, which is precisely what the 'Abaye's Challenge' prose describes.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Edei Mesira/Chatima",
+    "candidates": [
+      "Flawed Witness Problem",
+      "Edei Mesira/Chatima",
+      "Valid Handing Witnesses",
+      "No Witnesses Written",
+      "Rabbi Abba Principle",
+      "Mesira vs. Chatima",
+      "Validity Questions",
+      "Modeh Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-5 form one continuous sugya: Abaye's explanation involving a disqualified witness (karov o pasul), the edei mesira/chatima dispute it maps onto, the objection from Rabbi Abba's principle about mizuyaf mitocho, and Rabbi Avina's resolution positing a shtar with no witnesses at all \u2014 all of which matches the 'Flawed Witness Problem' prose that describes Abaye's reading about a disqualified signatory and the resulting debate, rather than the 'Edei Mesira/Chatima' heading which discusses only the clean application of that dispute without the objection and resolution.",
+      "chosen_heading": "Flawed Witness Problem",
+      "current_heading": "Edei Mesira/Chatima",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Modeh Principle",
+    "candidates": [
+      "Valid Handing Witnesses",
+      "No Witnesses Written",
+      "Rabbi Abba Principle",
+      "Mesira vs. Chatima",
+      "Validity Questions",
+      "Modeh Principle",
+      "Document as Proof",
+      "Lender/Borrower Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly present the 'modeh bashetar shekatavo' principle and the Rabbi/Rabban Shimon ben Gamliel dispute over whether ratification is required when the document's authenticity is conceded, which is precisely what the 'Modeh Principle' section's prose discusses.",
+      "chosen_heading": "Modeh Principle",
+      "current_heading": "Modeh Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Lender/Borrower Dispute",
+    "candidates": [
+      "Document as Proof",
+      "Lender/Borrower Dispute",
+      "Rabbi's Position",
+      "Rabban Shimon Split",
+      "Unvalidated Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita of shnayim achuzin bashtar and the immediate challenge from the tallis mishna, which is precisely the content described in the 'Lender/Borrower Dispute' prose section.",
+      "chosen_heading": "Lender/Borrower Dispute",
+      "current_heading": "Lender/Borrower Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Unvalidated Debate",
+    "candidates": [
+      "Rabbi's Position",
+      "Rabban Shimon Split",
+      "Unvalidated Debate",
+      "Verbal Admission",
+      "Payment Claim",
+      "Witness Demand",
+      "Loan Admission",
+      "Witness Demand",
+      "Lechatchila Requirement",
+      "Yachlif vs. Shovar",
+      "Receipt Loss Risk",
+      "Creditor Standing",
+      "Beis Din Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Unvalidated Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-7 cover Rav Nachman's resolution of the validated/unvalidated shtar debate, the eifoch solution, the levarer interpretation, and the illustrative case of Rav Yitzchak bar Yosef and Rabbi Abba \u2014 all of which the 'Unvalidated Debate' prose explicitly describes as the content of that section.",
+      "second_heading": "Yachlif vs. Shovar",
+      "second_confidence": "high",
+      "second_reason": "Item 8 is a new Mishnah (marked 'MISHNA:') introducing an entirely new case about partial debt repayment and the yachlif vs. shovar dispute, which the 'Yachlif vs. Shovar' prose describes precisely.",
+      "current_heading": "Unvalidated Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Beis Din Solution",
+    "candidates": [
+      "Verbal Admission",
+      "Payment Claim",
+      "Witness Demand",
+      "Loan Admission",
+      "Witness Demand",
+      "Lechatchila Requirement",
+      "Yachlif vs. Shovar",
+      "Receipt Loss Risk",
+      "Creditor Standing",
+      "Beis Din Solution",
+      "Edim Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna citing Rav's ruling that the halakha follows neither Rabbi Yehuda nor Rabbi Yosi, and that beis din tears up the original shtar and writes a new one from the original date \u2014 exactly what the 'Beis Din Solution' prose describes.",
+      "chosen_heading": "Beis Din Solution",
+      "current_heading": "Beis Din Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Edim Authority",
+    "candidates": [
+      "Edim Authority",
+      "Beis Din vs. Edim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Na\u1e25man's challenge from the baraita about witnesses and Rav Huna's response that Rav knew but did not retract \u2014 are precisely what candidate 0's prose describes, making it the clear and correct placement.",
+      "chosen_heading": "Edim Authority",
+      "current_heading": "Edim Authority",
+      "moved": false
+    }
+  }
+]

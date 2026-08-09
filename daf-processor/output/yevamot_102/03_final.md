@@ -1,12 +1,9 @@
-# Yevamot 102 — Daf Yomi Shiur
-
+[DAF:102a]
 ## Ger Serving on Beit Din
 
-### Chalitzah & Beit Din
 
-> **Hebrew/Aramaic:** אָמַר רָבָא
->
-> **Translation:** **Rava said**
+
+### Chalitzah & Beit Din
 
 The daf begins at the very bottom of 101b, with two words — *amar Rava* — that carry us into 102a. The immediate context is *chalitzah* and the question of whether it requires a *beit din* of three or five. The *gemara*'s conclusion had been that three suffices halachically, yet we find stories of *rabbanim* who nonetheless ensured that five were present for the purpose of *lefirsumei milsa* — to make the matter more public. This concern for publicity may have been what led Rabbi Meir to require five as a matter of *halacha*, since part of the role of the *beit din* is not merely to adjudicate but to represent *klal Yisrael*. This is what the *gemara* expressed when it said that the *beit din* itself recites *chalutz ha-na'al*, because they are, in that moment, representing the community.
 
@@ -14,9 +11,8 @@ The *gemara* concluded the previous discussion with a story in which a *ger* who
 
 ### Ger Dan Chaveiro
 
-> **Hebrew/Aramaic:** גֵּר דָּן אֶת חֲבֵירוֹ דְּבַר תּוֹרָה, שֶׁנֶּאֱמַר: ״שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר ה׳ אֱלֹהֶיךָ בּוֹ מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ״. ״עָלֶיךָ״ הוּא דְּבָעֵינַן ״מִקֶּרֶב אַחֶיךָ״, אֲבָל גֵּר דָּן אֶת חֲבֵירוֹ גֵּר.
->
-> **Translation:** **By Torah law a convert may judge his fellow convert, as it is stated: "You shall set a king over you, whom the Lord your God shall choose; one from among your brothers you shall set king over you"** (Deuteronomy 17:15). The Gemara deduces from the terminology of the phrase **"over you," i.e., when presiding over Jews by birth either as a king, a judge, or any other official, that from here it is where we require that the official must be: "From among your brothers," meaning a Jew by birth. However, a convert may judge his fellow convert, as the requirement of "one from among your brothers" doesn't apply when presiding over fellow converts.
+> **Hebrew/Aramaic:** גֵּר דָּן אֶת חֲבֵירוֹ דְּבַר תּוֹרָה, שֶׁנֶּאֱמַר: ״שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר ה׳ אֱלֹהֶיךָ בּוֹ מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ״. ״עָלֶיךָ״ הוּא דְּבָעֵינַן ״מִקֶּרֶב אַחֶיךָ״, אֲבָל גֵּר דָּן אֶת חֲבֵירוֹ גֵּר.
+> **Translation:** **By Torah law a convert may judge his fellow** convert, **as it is stated: “You shall set a king over you, whom the Lord your God shall choose; one from among your brothers you shall set king over you”** (Deuteronomy 17:15). The Gemara deduces from the terminology of the phrase **“over you,”** i.e., when presiding over Jews by birth either as a king, a judge, or any other official, that from here it **is where we require** that the official must be: **“From among your brothers,”** meaning a Jew by birth. **However, a convert may judge his fellow convert,** as the requirement of “one from among your brothers” doesn’t apply when presiding over fellow converts.
 
 *Amar Rava*: a *ger*, though excluded in the ordinary case from sitting on a *beit din*, may judge a fellow *ger* — *devar Torah*, biblically speaking. The source is the verse in Deuteronomy: *som tasim alecha melech asher yivchar Hashem Elokecha bo mikerev achecha tasim alecha melech lo tuchal lases alecha ish nochri asher lo achecha hu*. The phrase *mikerev achecha* — from among your brothers — is understood to refer to those naturally born as Jews, and this requirement is extended beyond the institution of monarchy to encompass positions of appointed authority generally, including membership on a *beit din*.
 
@@ -40,15 +36,16 @@ The question was also raised about the Herodian dynasty, whose members were *gei
 
 ### Chalitzah Parentage
 
-> **Hebrew/Aramaic:** וְאִם הָיְתָה אִמּוֹ מִיִּשְׂרָאֵל — דָּן אֲפִילּוּ יִשְׂרָאֵל. וּלְעִנְיַן חֲלִיצָה עַד שֶׁיְּהֵא אָבִיו וְאִמּוֹ מִיִּשְׂרָאֵל, שֶׁנֶּאֱמַר: ״וְנִקְרָא שְׁמוֹ בְּיִשְׂרָאֵל״.
->
-> **Translation:** **And if the convert's mother was from Israel, he may even preside as a judge in a court to adjudicate legal matters involving a native-born Jew. But with regard to *ḥalitza*, he may not act as a judge unless both his father and his mother were from Israel from birth, as it is stated** with regard to *ḥalitza*: **"And his name shall be called in Israel: The house of he who had his shoe removed"** (Deuteronomy 25:10), implying that he must be born as a member of the Jewish people from both of his parents.
+> **Hebrew/Aramaic:** וְאִם הָיְתָה אִמּוֹ מִיִּשְׂרָאֵל — דָּן אֲפִילּוּ יִשְׂרָאֵל. וּלְעִנְיַן חֲלִיצָה עַד שֶׁיְּהֵא אָבִיו וְאִמּוֹ מִיִּשְׂרָאֵל, שֶׁנֶּאֱמַר: ״וְנִקְרָא שְׁמוֹ בְּיִשְׂרָאֵל״.
+> **Translation:** **And if the** convert’s **mother was from Israel, he may even** preside as a judge in a court to **adjudicate** legal matters involving a native-born **Jew. But with regard to *ḥalitza*,** he may not act as a judge **unless both his father and his mother were from Israel** from birth, **as it is stated** with regard to *ḥalitza*: **“And his name shall be called in Israel:** The house of he who had his shoe removed” (Deuteronomy 25:10), implying that he must be born as a member of the Jewish people from both of his parents.
 
 The *gemara* now introduces an additional and quite striking requirement specific to *chalitzah*. The general rule, as developed, is: *ger dan et chaveiro* — a *ger* may judge a fellow *ger*. And further: *v'im hayesa imo miyisrael dan afilu Yisrael* — if his mother was from Jewish stock, he may judge even naturally born Jews. One might expect this to resolve the matter entirely: if someone has a Jewish mother, he is, by every standard we employ, fully Jewish — not a *ger* at all. Yet the *gemara* apparently treats such a person as occupying something of a liminal status if his father was a convert, and it feels the need to specify that yes, this person may serve on a *beit din*.
 
 But then the *gemara* adds: *u'le'inyan chalitzah ad she'aviv v'imo miyisrael* — for *chalitzah* specifically, the requirement is more demanding still. It is not enough that the *dayan* himself not be a *ger*. His parents must also not be *geirim*. The derivation comes from the phrase *v'nikra shemo b'Yisrael* — the word *b'Yisrael* in the *chalitzah* passage imposes a heightened standard of natural Jewish lineage, beyond what is required for an ordinary *beit din*.
 
 This is a remarkable *halacha*, and it generates several observations worth pausing over. The first is almost paradoxical: the scenario of a *ger* being judged by a *beit din* that includes a fellow *ger* — the *ger dan et chaveiro* case — does not in practice arise in *chalitzah*. How would a *ger* have a paternal brother? Only if their father was a *ger* who had multiple sons. But if a son of a *ger* had a Jewish mother, then *horaso v'lidaso bikdusha* — he was born in holiness — and he would be considered fully *Yisrael*, not a *ger* at all. The very scenario the *gemara* might seem to be protecting against — a *ger* serving on the *chalitzah beit din* for another *ger* — may be practically impossible to construct.
+
+The second observation concerns the broader principle at stake. Tosafot raises a pointed question from a case in *perek Na'ara* in *Kesuvot*, involving a *na'ara hame'orasa* — a betrothed young woman who committed adultery — where the *gemara* invokes the phrase *she'asna nevala b'Yisrael*, and notes that this language would exclude a convert. Yet the *gemara* there establishes that if the young woman's mother converted and she herself was *horaso v'lidaso bikdusha* — conceived and born after her mother's conversion — then she is not excluded by the word *Yisrael*, even though her mother is technically a *giyores* and not *imo miYisrael* in the strict sense. The *gemara* there says *Yisrael m'aya hi?* — is she not of Israel? — affirming that she is considered completely *miYisrael*. The general rule across *kol HaTorah kullah*, then, is that if one's mother is Jewish, even through conversion, the child is entirely and unqualifiedly *Yisrael* for every purpose. What we are encountering in the *chalitzah* requirement of *ad she'aviv v'imo miyisrael* is therefore a genuine and rare anomaly — an instance where the Torah, through an additional *pasuk*, imposes a standard that exceeds what the rest of *halacha* demands. Tosafot recognizes this as a very special exception driven by the specific derivation in the *chalitzah* passage, not as a reflection of any general principle about the status of children of *geirim*.
 
 ### Rashi vs. Tosafot
 
@@ -58,23 +55,26 @@ Tosafot disagrees. Elsewhere in *Shas*, Tosafot argues at length that a *ger* is
 
 Both Rashi and Tosafot, however, agree that if the parties have freely chosen to accept the *ger's* authority — if it is genuinely contractual — then the restriction does not apply. This is the point where Tosafot's analysis converges with the logic Rav Moshe would later develop so fully.
 
-To summarize the framework: a *ger* may judge a fellow *ger*. A *ger* may not judge naturally born *Yisrael* in a case of imposed authority. According to Rashi, this restriction is limited to *dinei nefashot*; according to Tosafot, it extends to *dinei mamonot* as well. But in cases of freely accepted arbitration — *peshara* or voluntary submission to the *beit din's* authority — both agree the restriction falls away. And then, as a category unto itself: *chalitzah* requires not merely a *dayan* who is not a *ger*, but one whose very parents were naturally born Jews.
+To summarize the framework: a *ger* may judge a fellow *ger*. A *ger* may not judge naturally born *Yisrael* in a case of imposed authority. According to Rashi, this restriction is limited to *dinei nefashot*; according to Tosafot, it extends to *dinei mamonot* as well. But in cases of freely accepted arbitration — *peshara* or voluntary submission to the *beit din*'s authority — both agree the restriction falls away. And then, as a category unto itself: *chalitzah* requires not merely a *dayan* who is not a *ger*, but one whose very parents were naturally born Jews.
 
 ---
 
 ## Sandals & Minhag
 
+
+
 ### Eliyahu & Minhag
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה אָמַר רַב כָּהֲנָא אָמַר רַב: אִם יָבֹא אֵלִיָּהוּ וְיֹאמַר: ״חוֹלְצִין בְּמִנְעָל״ — שׁוֹמְעִין לוֹ. ״אֵין חוֹלְצִין בְּסַנְדָּל״ — אֵין שׁוֹמְעִין לוֹ, שֶׁכְּבָר נָהֲגוּ הָעָם בְּסַנְדָּל.
->
-> **Translation:** **Rabba said that Rav Kahana said that Rav said: If Elijah the Prophet should come and say: One may perform *ḥalitza* using a soft leather shoe, the Rabbis would listen to him. But if he says: One may not perform *ḥalitza* using a hard leather sandal, they would not listen to him, for the people already have established the practice of performing *ḥalitza* using a sandal.**
+> **Hebrew/Aramaic:** אָמַר רַבָּה אָמַר רַב כָּהֲנָא אָמַר רַב: אִם יָבֹא אֵלִיָּהוּ וְיֹאמַר: ״חוֹלְצִין בְּמִנְעָל״ — שׁוֹמְעִין לוֹ. ״אֵין חוֹלְצִין בְּסַנְדָּל״ — אֵין שׁוֹמְעִין לוֹ, שֶׁכְּבָר נָהֲגוּ הָעָם בְּסַנְדָּל.
+> **Translation:** § **Rabba said** that **Rav Kahana said** that **Rav said: If Elijah** the Prophet **should come and say: One may perform *ḥalitza* using** a soft leather **shoe,** the Rabbis **would listen to him.** But if he says: **One may not perform *ḥalitza* using** a hard leather **sandal, they would not listen to him, for the people already have** established **the practice of** performing *ḥalitza* **using a sandal.**
+
+> **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר רַב כָּהֲנָא אָמַר רַב: אִם יָבֹא אֵלִיָּהוּ וְיֹאמַר: ״אֵין חוֹלְצִין בְּמִנְעָל״ — שׁוֹמְעִין לוֹ. ״אֵין חוֹלְצִין בְּסַנְדָּל״ — אֵין שׁוֹמְעִין לוֹ, שֶׁכְּבָר נָהֲגוּ הָעָם בְּסַנְדָּל.
+> **Translation:** **And Rav Yosef said** that **Rav Kahana said** that **Rav** said: **If Elijah** the Prophet **should come and say: One may not perform *ḥalitza* using** a soft leather **shoe, they would listen to him.** But if he says: **One may not perform *ḥalitza* using** a hard leather **sandal, they would not listen to him, for the people already have** established **the practice of** performing *ḥalitza* **using a sandal.**
+
+> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ מִנְעָל לְכַתְּחִלָּה.
+> **Translation:** The Gemara asks: **What is** the practical **difference between** these two opinions? Seemingly, they both say the same thing. The Gemara answers: **The** practical difference **between them** is with respect to performing *ḥalitza* with a soft leather **shoe *ab initio*.** According to Rabba’s opinion, one may not perform *ḥalitza* this way *ab initio*, as Rabba said that only if Elijah comes and permits it would he be heeded, implying that until Elijah does so one may not perform *ḥalitza* this way. According to Rav Yosef’s opinion, one may perform *ḥalitza* with a soft leather shoe until Elijah comes and teaches us otherwise.
 
 The *gemara* now turns to the type of footwear used in *chalitzah*, and introduces a teaching that is, on reflection, among the more theologically charged statements in this entire passage. *Amar Rav Kahana amar Rav*: if Eliyahu HaNavi were to come and declare that one may perform *chalitzah* with a *minal* — a shoe — we would listen to him. But if he were to come and declare that one may *not* perform *chalitzah* with a sandal, we would not listen to him — *she-kevar nahagu ha-am be-sandal*, for the people have already established the practice of using a sandal.
-
-> **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר רַב כָּהֲנָא אָמַר רַב: אִם יָבֹא אֵלִיָּהוּ וְיֹאמַר: ״אֵין חוֹלְצִין בְּמִנְעָל״ — שׁוֹמְעִין לוֹ. ״אֵין חוֹלְצִין בְּסַנְדָּל״ — אֵין שׁוֹמְעִין לוֹ, שֶׁכְּבָר נָהֲגוּ הָעָם בְּסַנְדָּל.
->
-> **Translation:** **And Rav Yosef said that Rav Kahana said that Rav said: If Elijah the Prophet should come and say: One may not perform *ḥalitza* using a soft leather shoe, they would listen to him. But if he says: One may not perform *ḥalitza* using a hard leather sandal, they would not listen to him, for the people already have established the practice of performing *ḥalitza* using a sandal.**
 
 Rav Yosef quotes essentially the same teaching with a subtle but revealing difference. According to his version, if Eliyahu were to say that one *cannot* use a shoe, we would listen — since there is no established practice one way or the other regarding shoes. But if he were to say one cannot use a sandal, we would not listen, again because the practice is fixed.
 
@@ -88,55 +88,45 @@ An important nuance deserves emphasis: this is not folk custom in the ordinary s
 
 ### Shoe vs. Sandal
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ מִנְעָל לְכַתְּחִלָּה.
->
-> **Translation:** The Gemara asks: **What is the practical difference between these two opinions? Seemingly, they both say the same thing. The Gemara answers: The practical difference between them is with respect to performing *ḥalitza* with a soft leather shoe *ab initio*.**
-
-> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר אֲפִילּוּ לְכַתְּחִלָּה, וְהָתְנַן: חָלְצָה בְּמִנְעָל — חֲלִיצָתָהּ כְּשֵׁרָה. דִּיעֲבַד אִין, לְכַתְּחִלָּה לָא!
->
-> **Translation:** **And according to the one who says that one may even perform *ḥalitza* with a soft leather shoe *ab initio*, didn't we learn in the mishna: If she performed *ḥalitza* with a soft leather shoe, her *ḥalitza* is valid,** and the past tense wording indicates **after the fact, yes, but it is not valid *ab initio*?**
-
-> **Hebrew/Aramaic:** הוּא הַדִּין דַּאֲפִילּוּ לְכַתְּחִלָּה. וְאַיְּידֵי דְבָעֵי לְמִיתְנֵי סֵיפָא בְּאַנְפִּילְיָא חֲלִיצָתָהּ פְּסוּלָה, דַּאֲפִילּוּ דִּיעֲבַד, תְּנָא נָמֵי רֵישָׁא דִּיעֲבַד.
->
-> **Translation:** **The same is true that one may perform *ḥalitza* with a soft leather shoe even *ab initio*, but since the *tanna* wished to teach in the latter clause of that mishna: If an *anpileya*, a soft shoe made of cloth, was used for *ḥalitza*, her *ḥalitza* is disqualified even after the fact, he also taught the first clause of the mishna using wording that indicates validity after the fact,** even though it is in fact permitted even *ab initio*.
-
 The *gemara* now examines the tanna'itic debate about shoes. The *mishnah* states *chaltza be-min'al, chalitzatah kesheirah* — if she performed *chalitzah* with a shoe, it is valid. The language sounds *bedi'avad*. But the *gemara* argues that even *lechatchila* a shoe would be fine according to one view: the *mishnah*'s phrasing is explained as a function of the parallel structure of the clause — since the *mishnah*'s second case (*anpalya*, a sock or slipper) is invalid even *bedi'avad*, the *reisha* mirrors that phrasing, even though the *din* of a shoe is fully valid even *lechatchila* according to this opinion.
-
-> **Hebrew/Aramaic:** וּמִנְעָל לְכַתְּחִלָּה תַּנָּאֵי הִיא. דְּתַנְיָא, אָמַר רַבִּי יוֹסֵי: פַּעַם אַחַת הָלַכְתִּי לִנְצִיבִין, מָצָאתִי זָקֵן אֶחָד. אָמַרְתִּי לוֹ: כְּלוּם אַתָּה בָּקִי בְּרַבִּי יְהוּדָה בֶּן בְּתֵירָא? אָמַר לִי: הֵן, וְעַל שׁוּלְחָנִי הוּא תָּדִיר. כְּלוּם רָאִיתָ שֶׁחָלַץ בִּיבָמָה?
->
-> **Translation:** **And performing *ḥalitza* with a soft leather shoe *ab initio* is a dispute between *tanna'im*, as it is taught in a *baraita*, Rabbi Yosei said: One time I went to the city of Netzivin in Babylonia, and I found there a certain Elder. I said to him: Do you know Rabbi Yehuda ben Beteira, who was from Netzivin? He said to me: Yes, and he is a frequent visitor at my table. I asked the Elder: Have you ever seen if he conducted the *ḥalitza* of a *yevama*?**
-
-> **Hebrew/Aramaic:** אָמַר לִי: רָאִיתִי שֶׁחָלַץ הַרְבֵּה פְּעָמִים. בְּמִנְעָל אוֹ בְּסַנְדָּל? אָמַר לִי: וְכִי חוֹלְצִין בְּמִנְעָל?! (וְהַתּוֹרָה אָמְרָה ״נַעֲלוֹ״, וְלֹא מִנְעָלוֹ), אָמַרְתִּי לוֹ: אִם כֵּן, מָה רָאָה רַבִּי מֵאִיר לוֹמַר חָלְצָה בְּמִנְעָל חֲלִיצָתָהּ כְּשֵׁירָה?!
->
-> **Translation:** **He said to me: I saw that he conducted *ḥalitza* many times. Using a soft leather shoe or a hard leather sandal? He said to me: Does anyone allow performing *ḥalitza* with a soft leather shoe? But the Torah said: "His shoe [*na'alo*]"** (Deuteronomy 25:9) **and not: His shoe [*minalo*]. I said to him: If so, what did Rabbi Meir see that made him say that if a woman performed *ḥalitza* using a soft leather shoe her *ḥalitza* is valid?**
 
 The *gemara* then frames the question as a debate among *tannaim* and brings a *baraita* in which Rabbi Yosi recounts a journey to Netzivin. There he encountered an elderly man who reported that Rabbi Yehuda ben Beteira, a regular Shabbat guest at his home, had performed *chalitzah* many times. Rabbi Yosi asked: did he use a shoe or a sandal? The man's response was incredulous — *ve-chi choltzin be-minal?* — as if the question barely warranted an answer. Of course a sandal.
 
-> **Hebrew/Aramaic:** רַבִּי יַעֲקֹב אוֹמֵר מִשְּׁמוֹ: חוֹלְצִין בְּמִנְעָל לְכַתְּחִלָּה. וּמַאן דְּאָמַר לְכַתְּחִלָּה לָא, מַאי טַעְמָא?
->
-> **Translation:** **Rabbi Ya'akov says in the name of Rabbi Meir: One may perform *ḥalitza* using a soft leather shoe *ab initio*. And for the one who said one may not perform *ḥalitza* with a soft leather shoe *ab initio*, what is the reason for this?**
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר אֲפִילּוּ לְכַתְּחִלָּה, וְהָתְנַן: חָלְצָה בְּמִנְעָל — חֲלִיצָתָהּ כְּשֵׁרָה. דִּיעֲבַד אִין, לְכַתְּחִלָּה לָא!
+> **Translation:** The Gemara asks: **And according to the one who says** that one may **even** perform *ḥalitza* with a soft leather shoe ***ab initio*, didn’t we learn** in the mishna (101a): **If she performed *ḥalitza* with** a soft leather **shoe, her *ḥalitza* is valid,** and the past tense wording indicates **after the fact, yes, but it is not** valid ***ab initio*?**
 
-Rabbi Yaakov, citing Rabbi Meir, states explicitly that one may perform *chalitzah* with a shoe *lechatchila*. The *gemara* then asks: according to the view that a shoe may *not* be used *lechatchila*, what is the reason?
+> **Hebrew/Aramaic:** הוּא הַדִּין דַּאֲפִילּוּ לְכַתְּחִלָּה. וְאַיְּידֵי דְבָעֵי לְמִיתְנֵי סֵיפָא בְּאַנְפִּילְיָא חֲלִיצָתָהּ פְּסוּלָה, דַּאֲפִילּוּ דִּיעֲבַד, תְּנָא נָמֵי רֵישָׁא דִּיעֲבַד.
+> **Translation:** The Gemara answers: **The same is** true that one may perform *ḥalitza* with a soft leather shoe **even *ab initio*, but since** the *tanna* **wished to teach in the latter clause** of that mishna: If **an *anpileya*,** a soft shoe made of cloth, was used for *ḥalitza*, **her *ḥalitza* is disqualified even after the fact, he also taught the first clause** of the mishna using wording that indicates validity **after the fact,** even though it is in fact permitted even *ab initio*.
 
-> **Hebrew/Aramaic:** אִילֵּימָא מִשּׁוּם דְּהָוְיָא פַּנְתָּא מֵעַל וְאַרְקְתָא מֵעַל דְּמֵעַל, וְהַתּוֹרָה אָמְרָה ״מֵעַל״, וְלֹא מֵעַל דְּמֵעַל — אִי הָכִי, אֲפִילּוּ דִּיעֲבַד נָמֵי לָא!
->
-> **Translation:** **If we say that a soft leather shoe is disqualified because the upper side of the soft leather shoe [*panta*] is on his foot directly, and the straps [***arketa***] tied around the upper portion of the shoe are like a second shoe on top of the shoe that is directly on top of his foot, and the Torah says:** "Remove the shoe **from on** his foot," indicating that the entire shoe must be "on his foot" **but not from on something else that is on** his foot, **if so, then even after the fact as well,** it should **not** be fit for use.
+> **Hebrew/Aramaic:** וּמִנְעָל לְכַתְּחִלָּה תַּנָּאֵי הִיא. דְּתַנְיָא, אָמַר רַבִּי יוֹסֵי: פַּעַם אַחַת הָלַכְתִּי לִנְצִיבִין, מָצָאתִי זָקֵן אֶחָד. אָמַרְתִּי לוֹ: כְּלוּם אַתָּה בָּקִי בְּרַבִּי יְהוּדָה בֶּן בְּתֵירָא? אָמַר לִי: הֵן, וְעַל שׁוּלְחָנִי הוּא תָּדִיר. כְּלוּם רָאִיתָ שֶׁחָלַץ בִּיבָמָה?
+> **Translation:** The Gemara comments: **And** performing *ḥalitza* with a soft leather **shoe *ab initio* is** a dispute between ***tanna’im*, as it is taught** in a *baraita*, **Rabbi Yosei said: One time I went to** the city of **Netzivin** in Babylonia, and **I found** there **a certain Elder. I said to him: Do you know Rabbi Yehuda ben Beteira,** who was from Netzivin? **He said to me: Yes, and he is** a **frequent** visitor **at my table.** I asked the Elder: **Have you ever seen if he** conducted **the *ḥalitza* of a *yevama*?**
 
-> **Hebrew/Aramaic:** גְּזֵירָה מִשּׁוּם מִנְעָל מְרוּפָּט.
->
-> **Translation:** Rather, it is **a** rabbinic **decree due to** the concern that one might use a **torn** soft leather **shoe,** which may nevertheless be worn if torn due to its softness but is prohibited as it does not cover his foot.
+> **Hebrew/Aramaic:** אָמַר לִי: רָאִיתִי שֶׁחָלַץ הַרְבֵּה פְּעָמִים. בְּמִנְעָל אוֹ בְּסַנְדָּל? אָמַר לִי: וְכִי חוֹלְצִין בְּמִנְעָל?! (וְהַתּוֹרָה אָמְרָה ״נַעֲלוֹ״, וְלֹא מִנְעָלוֹ), אָמַרְתִּי לוֹ: אִם כֵּן, מָה רָאָה רַבִּי מֵאִיר לוֹמַר חָלְצָה בְּמִנְעָל חֲלִיצָתָהּ כְּשֵׁירָה?!
+> **Translation:** **He said to me: I saw that he** conducted ***ḥalitza* many times.** I asked him: **Using a** soft leather **shoe or a** hard leather **sandal? He said to me: Does anyone** allow **performing *ḥalitza* with a** soft leather **shoe? But the Torah said: “His shoe [*na’alo*]”** (Deuteronomy 25:9) **and not: His shoe [*minalo*]. I said to him: If so, what did Rabbi Meir see that** made **him say** that if **a woman performed *ḥalitza* using** a soft leather **shoe her *ḥalitza* is valid?**
+
+> **Hebrew/Aramaic:** רַבִּי יַעֲקֹב אוֹמֵר מִשְּׁמוֹ: חוֹלְצִין בְּמִנְעָל לְכַתְּחִלָּה. וּמַאן דְּאָמַר לְכַתְּחִלָּה לָא, מַאי טַעְמָא?
+> **Translation:** **Rabbi Ya’akov says in the name** of Rabbi Meir: **One may perform *ḥalitza* using** a soft leather **shoe *ab initio*.** The Gemara explains: **And for the one who said one may not** perform *ḥalitza* with a soft leather **shoe *ab initio*, what is the reason** for this?
+
+> **Hebrew/Aramaic:** אִילֵּימָא מִשּׁוּם דְּהָוְיָא פַּנְתָּא מֵעַל וְאַרְקְתָא מֵעַל דְּמֵעַל, וְהַתּוֹרָה אָמְרָה ״מֵעַל״, וְלֹא מֵעַל דְּמֵעַל — אִי הָכִי, אֲפִילּוּ דִּיעֲבַד נָמֵי לָא!
+> **Translation:** **If we say** that a soft leather shoe is disqualified **because the upper side of the** soft leather **shoe [*panta*] is on** his foot directly, **and the straps** [***arketa***] tied around the upper portion of the shoe **are** like a second shoe **on top** of the shoe that is directly **on top** of his foot, **and the Torah says:** “Remove the shoe **from on** his foot,” indicating that the entire shoe must be “on his foot” **but not from on** something else **that is on** his foot, **if so,** then **even after the fact as well,** it should **not** be fit for use. If a soft leather shoe is unfit for *ḥalitza* by Torah law, it should be prohibited under all circumstances.
+
+> **Hebrew/Aramaic:** גְּזֵירָה מִשּׁוּם מִנְעָל מְרוּפָּט.
+> **Translation:** Rather, it is **a** rabbinic **decree due to** the concern that one might use a **torn** soft leather **shoe,** which may nevertheless be worn if torn due to its softness but is prohibited as it does not cover his foot. No similar concern exists with regard to a torn sandal, as due to its hard exterior it would never be worn if torn, and therefore there is no concern that it will be used for *ḥalitza*.
 
 > **Hebrew/Aramaic:** אִי נָמֵי מִשּׁוּם חֲצִי מִנְעָל.
->
-> **Translation:** **Alternatively,** it is a rabbinic decree **due to** concern that one might perform *ḥalitza* with **a half shoe.**
+> **Translation:** **Alternatively,** it is a rabbinic decree **due to** concern that one might perform *ḥalitza* with **a half shoe,** as the *ḥalitza* shoe must cover most of the foot, yet there are some who wear soft leather shoes that cover only half of the foot. Therefore, there is a prohibition against using a soft leather shoe for *ḥalitza ab initio* for fear that a half shoe might also accidentally be used. No similar fear exists with a hard leather sandal as a half sandal is never worn.
+
+> **Hebrew/Aramaic:** אָמַר רַב: אִי לָאו דַּחֲמֵיתֵיהּ לְחַבִּיבִי דַּחֲלַץ בְּסַנְדָּל דְּאִית לֵהּ שִׁינְצִין, אֲנָא לָא הֲוַאי חָלֵיצְנָא אֶלָּא בְּסַנְדָּלָא דְטַיָּיעָא דְּמִיהַדַּק טְפֵי. וְהַאי דִּידַן, אַף עַל גַּב דְּאִית בֵּיהּ חוּמַרְתָּא, קָטְרִינַן בֵּיהּ מִיתְנָא, כִּי הֵיכִי דְּתֶהְוֵי חֲלִיצָתָהּ מְעַלַּיְיתָא.
+> **Translation:** **Rav said: If I had not seen my beloved** uncle, Rabbi Ḥiyya, **conduct a *ḥalitza* using a sandal with laces, I would not have conducted *ḥalitza* with anything other than a sandal of Arabs, which is more tight fitting** and snug. The Gemara explains: **And** with regard to **this** sandal **of ours,** i.e., the customary sandal of that day, **although it does have a ring [*ḥumrata*]** on top to ensure that it will not fall off the foot easily, **we tie a strap to it** during *ḥalitza* in order to make it tighter, **so that her *ḥalitza* will be** of the **highest standard.** The strap is tied on so that the sandal will not come off by itself, to ensure that the *yevama* will have to untie the strap in order to remove the sandal.
+
+### R. Yehuda B. Beteira
+
+
+Rabbi Yaakov, citing Rabbi Meir, states explicitly that one may perform *chalitzah* with a shoe *lechatchila*. The *gemara* then asks: according to the view that a shoe may *not* be used *lechatchila*, what is the reason?
 
 The first possibility raised is the structural concern of *me'al de-me'al*: when removing a laced shoe, one first undoes the laces — which sit atop the leather upper — and then removes the leather upper itself. The Torah says *me-al raglo*, from upon his foot, and not *me-al de-me'al*, from upon the thing that is upon his foot. If the straps are *me'al de-me'al*, perhaps there is a *derashah* problem. The *gemara* rejects this: if that were truly a concern, it would invalidate a shoe *bedi'avad* as well, not merely *lechatchila*.
 
 The *gemara* instead offers a *gezeirah mishum minal merupat* — a rabbinic precaution against using a torn or structurally compromised shoe. A shoe, unlike a sandal, provides substantial enclosure and support, such that even if it is torn beyond the point of halachic qualification, it can still be kept on the foot. Because it is difficult to evaluate on the spot whether a shoe in hand meets the standard, the rabbis ruled that shoes should not be used *lechatchila* — one should not create the risk of using a deficient shoe in the first place. A sandal, by contrast, is so minimally structured that if it is genuinely broken, it simply cannot be worn. The problem thus polices itself. An additional variation on this concern is the case of *chatzi minal* — half a shoe — which raises similar questions about what remains a valid *chalitzah* implement.
-
-> **Hebrew/Aramaic:** אָמַר רַב: אִי לָאו דַּחֲמֵיתֵיהּ לְחַבִּיבִי דַּחֲלַץ בְּסַנְדָּל דְּאִית לֵהּ שִׁינְצִין, אֲנָא לָא הֲוַאי חָלֵיצְנָא אֶלָּא בְּסַנְדָּלָא דְטַיָּיעָא דְּמִיהַדַּק טְפֵי. וְהַאי דִּידַן, אַף עַל גַּב דְּאִית בֵּיהּ חוּמַרְתָּא, קָטְרִינַן בֵּיהּ מִיתְנָא, כִּי הֵיכִי דְּתֶהְוֵי חֲלִיצָתָהּ מְעַלַּיְיתָא.
->
-> **Translation:** **Rav said: If I had not seen my beloved uncle, Rabbi Ḥiyya, conduct a *ḥalitza* using a sandal with laces, I would not have conducted *ḥalitza* with anything other than a sandal of Arabs, which is more tight fitting and snug. The Gemara explains: And with regard to this sandal of ours, i.e., the customary sandal of that day, although it does have a ring [*ḥumrata*] on top to ensure that it will not fall off the foot easily, we tie a strap to it during *ḥalitza* in order to make it tighter, so that her *ḥalitza* will be of the highest standard.**
 
 The *gemara* then presents a statement of Rav Kahana — here the Rav Kahana who was a student of Rav — that had he not personally witnessed Rabbi Chiya perform *chalitzah* with a sandal that had *shnatzin* (straps), he would have thought the proper implement was the sandal of a nomadic tribesman, which binds tighter to the foot. Since *chalitzah* is the act of removing something from the foot, the more securely the sandal is fastened, the more complete and deliberate the act of removal. The current practice, he reports, is to fasten the sandal with straps tied in a knot, not merely a simple knot without wrapping. The reason: *ki heichi de-tehavi chalitzah me-alya* — so that the *chalitzah* should be a well-executed, fully valid act. This progression of reasoning — from the choice of sandal over shoe, to the preference for a tight sandal over a loose one, to the development of dedicated *chalitzah* sandals used by communities today — reflects how halachic requirements, once articulated, generate a corresponding set of practical tools.
 
@@ -144,75 +134,72 @@ The *gemara* then presents a statement of Rav Kahana — here the Rav Kahana who
 
 ## Shoe Removal Mechanics
 
+
+
 ### Heel vs. Foot
 
-> **Hebrew/Aramaic:** סִימַן: הַתָּרַת יְבָמָה סַנְדָּל. אָמַר רַב יְהוּדָה אָמַר רַב: הַתָּרַת יְבָמָה לַשּׁוּק — בִּשְׁמִיטַת רוֹב הֶעָקֵב.
->
-> **Translation:** **A mnemonic device:** ***Hatarat*, meaning release of; ***yevama*; *sandal*. Rav Yehuda said that Rav said: The release of a *yevama* to enable her marriage to a member of the public occurs when most of the heel is removed from the shoe.**
+> **Hebrew/Aramaic:** סִימַן: הַתָּרַת יְבָמָה סַנְדָּל. אָמַר רַב יְהוּדָה אָמַר רַב: הַתָּרַת יְבָמָה לַשּׁוּק — בִּשְׁמִיטַת רוֹב הֶעָקֵב.
+> **Translation:** § The Gemara presents **a mnemonic** device for the following three *halakhot* that Rav Yehuda taught in the name of Rav: ***Hatarat*,** meaning release of; ***yevama*; *sandal*.** This mnemonic serves as a reminder that the release of a *yevama* is done through removing a sandal. **Rav Yehuda said** that **Rav said: The release of a *yevama*** to enable her marriage **to** a member of **the public occurs when most of the heel is removed** from the shoe. Even though the shoe has not been entirely removed, or even removed from most of the *yavam’s* foot; it is still permitted for her to remarry.
+
+> **Hebrew/Aramaic:** מֵיתִיבִי: הוּתְּרוּ רְצוּעוֹת מִנְעָל וְסַנְדָּל, אוֹ שֶׁשָּׁמַט רוֹב הָרֶגֶל — חֲלִיצָתָהּ פְּסוּלָה.
+> **Translation:** The Gemara **raises an objection** from the following *baraita*: **If the straps of** a soft leather shoe **or** a hard leather **sandal were untied,** but not through the actions of the *yevama*, **or if** the *yavam* **removed most of his foot** from the shoe himself before the *yevama* completed the removal, **her *ḥalitza* is disqualified.**
+
+> **Hebrew/Aramaic:** טַעְמָא דְּשָׁמַט הוּא, הָא שָׁמְטָה הִיא — חֲלִיצָתָהּ כְּשֵׁרָה. רוֹב הָרֶגֶל אִין, רוֹב הֶעָקֵב לָא!
+> **Translation:** The Gemara infers: **The reason** her *ḥalitza* is disqualified **is** specifically **that he removed** most of his foot and she only completed the removal, **but had she removed** most of the foot from the shoe, then **her *ḥalitza*** would be **valid.** The Gemara continues: If so, **yes,** only when the *yevama* removes **most of the foot** is the *ḥalitza* valid, but if she removed only **most of the heel,** it would **not** be sufficient.
 
 *Amar Rav Yehuda amar Rav*: the *yevamah* is released to remarry upon the removal of the majority of the heel — *bi-shmitat rov ha-akeiv*. That is, once the heel clears the sandal, even if the foot has not fully slipped out, the *chalitzah* is complete.
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: הוּתְּרוּ רְצוּעוֹת מִנְעָל וְסַנְדָּל, אוֹ שֶׁשָּׁמַט רוֹב הָרֶגֶל — חֲלִיצָתָהּ פְּסוּלָה.
->
-> **Translation:** **Raises an objection from the following baraita:** **If the straps of a soft leather shoe or a hard leather sandal were untied, but not through the actions of the *yevama*, or if the *yavam* removed most of his foot from the shoe himself before the *yevama* completed the removal, her *ḥalitza* is disqualified.**
-
-> **Hebrew/Aramaic:** טַעְמָא דְּשָׁמַט הוּא, הָא שָׁמְטָה הִיא — חֲלִיצָתָהּ כְּשֵׁרָה. רוֹב הָרֶגֶל אִין, רוֹב הֶעָקֵב לָא!
->
-> **Translation:** **Infers:** **The reason her *ḥalitza* is disqualified is specifically that he removed most of his foot and she only completed the removal, but had she removed most of the foot from the shoe, then her *ḥalitza* would be valid. If so, yes, only when the *yevama* removes most of the foot is the *ḥalitza* valid, but if she removed only most of the heel, it would not be sufficient.**
-
-> **Hebrew/Aramaic:** לֹא: הַיְינוּ רוֹב הָרֶגֶל, הַיְינוּ רוֹב הֶעָקֵב. וְאַמַּאי קָרוּ לֵיהּ רוֹב הָרֶגֶל — דְּכוּלָּא חֵיילָא דְכַרְעָא עֲלֵיהּ דְּחִיס.
->
-> **Translation:** **Rejects this question:** **No, most of the foot is the same as most of the heel, and therefore the inference should be that even if she removed most of the heel from the shoe the *ḥalitza* is valid. And why do they call it: Most of the foot? Because the whole weight of the leg puts pressure on the heel.**
-
 A *meitivei* challenges this: the *mishnah* teaches that if the straps undid themselves, or the sandal slipped off on its own — *shamat rov ha-regel* — the *chalitzah* is invalid. This formulation speaks of the majority of the *regel* — the foot — not the *akeiv*, the heel. The implication is that we require the majority of the *regel*, and mere removal of the majority of the heel is insufficient.
 
-The *gemara* resolves the tension by identifying the two: *hainu rov ha-regel hainu rov ha-akeiv* — when we say "majority of the foot," we mean the heel. The reason: *d'kula cheila d'char'a a-leideh dachis* — the entire weight of the leg and body rests upon the heel. Since the heel bears the weight, it constitutes the functionally defining part of the foot for this purpose. When the heel is free, the foot is, in the halachically operative sense, removed.
+The *gemara* resolves the tension by identifying the two: *hainu rov ha-regel hainu rov ha-akeiv* — when we say "majority of the foot," we mean the heel. The reason: *d'kula cheila d'char'a a-leideh dachis* — the entire weight of the leg and body rests upon the heel. Since the heel bears the weight, it constitutes the functionally defining part of the foot for this purpose. When the heel is free, the foot is, in the halachically operative sense, removed. It is worth noting that one could have argued the criterion differently: what keeps a shoe on the foot is not so much the heel as the upper portion over the top of the foot, and once the shoe clears that part it stays on less securely. The *gemara*, however, does not adopt that framing. Instead it grounds the rule in the heel's role as the load-bearing point — the place where the weight of the body is concentrated — and on that basis equates *rov ha-regel* with *rov ha-akeiv*.
+
+This discussion supports a teaching of Rav Yannai, which the *gemara* now takes up.
 
 ### Process vs. Result
 
-> **Hebrew/Aramaic:** מְסַיַּיע לֵיהּ לְרַבִּי יַנַּאי: דְּאָמַר רַבִּי יַנַּאי בֵּין שֶׁהִתִּיר הוּא וְשָׁמְטָה הִיא, בֵּין שֶׁהִתִּירָה הִיא וְשָׁמַט הוּא — חֲלִיצָתָהּ פְּסוּלָה, עַד שֶׁתַּתִּיר הִיא וְתַשְׁמִיט הִיא. בָּעֵי רַבִּי יַנַּאי: קְרָעַתְהוּ, מַהוּ? שְׂרָפַתְהוּ, מַהוּ? גַּלּוֹיֵי כַּרְעָא בָּעֵינַן, וְהָאִיכָּא? אוֹ דִלְמָא חֲלִיצָה בָּעֵינַן, וְלֵיכָּא? תֵּיקוּ.
->
-> **Translation:** **This baraita supports Rabbi Yannai, as Rabbi Yannai said: Whether he unties the shoe and she removes it, or whether she unties it and he removes it, her *ḥalitza* is disqualified unless she both unties it and takes it off. And on the same topic, Rabbi Yannai asked: If she ripped it off him, what is the *halakha*? If she burned it using coals, what is the *halakha*? The Gemara presents the real issue in question: Is exposure of the foot the essential act of *ḥalitza* that we require, through any act of removing that which covers the foot, which exists here? Or perhaps it is removal of the shoe from over the foot that we require, which is lacking here? The question shall stand unresolved.**
+> **Hebrew/Aramaic:** לֹא: הַיְינוּ רוֹב הָרֶגֶל, הַיְינוּ רוֹב הֶעָקֵב. וְאַמַּאי קָרוּ לֵיהּ רוֹב הָרֶגֶל — דְּכוּלָּא חֵיילָא דְכַרְעָא עֲלֵיהּ דְּחִיס.
+> **Translation:** The Gemara rejects this question: **No, most of the foot is** the same as **most of the heel,** and therefore the inference should be that even if she removed most of the heel from the shoe the *ḥalitza* is valid. **And why do they call it: Most of the foot? Because the whole weight of the leg puts pressure on** the heel.
+
+> **Hebrew/Aramaic:** מְסַיַּיע לֵיהּ לְרַבִּי יַנַּאי: דְּאָמַר רַבִּי יַנַּאי בֵּין שֶׁהִתִּיר הוּא וְשָׁמְטָה הִיא, בֵּין שֶׁהִתִּירָה הִיא וְשָׁמַט הוּא — חֲלִיצָתָהּ פְּסוּלָה, עַד שֶׁתַּתִּיר הִיא וְתַשְׁמִיט הִיא. בָּעֵי רַבִּי יַנַּאי: קְרָעַתְהוּ, מַהוּ? שְׂרָפַתְהוּ, מַהוּ? גַּלּוֹיֵי כַּרְעָא בָּעֵינַן, וְהָאִיכָּא? אוֹ דִלְמָא חֲלִיצָה בָּעֵינַן, וְלֵיכָּא? תֵּיקוּ.
+> **Translation:** The Gemara comments: **This** *baraita* **supports Rabbi Yannai, as Rabbi Yannai said: Whether he unties** the shoe **and she removes it,** or **whether she unties it and he removes it, her *ḥalitza* is disqualified unless she both unties it and takes it off.** And on the same topic, **Rabbi Yannai asked: If she** did not remove the sandal, but instead **ripped it** off him, **what is** the *halakha*? **If she burned it** using coals, **what is** the *halakha*? The Gemara presents the real issue in question: Is **exposure of the foot** the essential act of *ḥalitza* **that we require,** through any act of removing that which covers the foot, **which exists** here? **Or perhaps it is removal** of the shoe from over the foot **that we require, which is lacking** here? No answer was found to this question, so the Gemara concludes: The question **shall stand** unresolved.
 
 This discussion supports a teaching of Rav Yannai. *Bein she-hitir hu ve-shamatah hi* — whether he undid the straps and she removed the shoe, *bein she-hitirah hi ve-shamat hu* — or she undid the straps and he slipped his foot out — either way, the *chalitzah* is invalid. Validity requires that she both undo the straps and remove the shoe: *ad she-tatir hi ve-tishmot hi*. She must perform the entire act.
 
-From this, Rav Yannai poses a further question: *kera'atehu mahu* — what if she did not remove the shoe by the ordinary act of undoing and sliding it off, but rather tore it off his foot? And *sraftehu mahu* — what if she burned it off? The underlying question is a classic *chakira*: *gilui kar'a ba'inan ve-ika, o dilma chalitzah ba'inan ve-leika* — do we require the end result of an exposed foot (achieved in either case), or do we require a specific *act* of *chalitzah* — removal in the formal sense — which would presuppose keeping the implement whole and drawing it off? This is the same question in two forms: one where the shoe is destroyed but the foot is exposed, and one — the double-shoe case below — where the shoe is removed without exposing the foot.
+From this, Rav Yannai poses a further question: *kera'atehu mahu* — what if she did not remove the shoe by the ordinary act of undoing and sliding it off, but rather tore it off his foot? And *sraftehu mahu* — what if she burned it off? The underlying question is a classic *chakira*: *gilui kar'a ba'inan ve-ika, o dilma chalitzah ba'inan ve-leika* — do we require the end result of an exposed foot (achieved in either case), or do we require a specific *act* of *chalitzah* — removal in the formal sense — which would presuppose keeping the implement whole and drawing it off? Put another way: is the Torah's use of *ve-chaltzah* pointing to the achievement of a particular outcome, or is it defining a formal process of removal with its own internal requirements — such that tearing or burning, however effective at exposing the foot, would fall outside what the act of *chalitzah* demands? This is the same question in two forms: one where the shoe is destroyed but the foot is exposed, and one — the double-shoe case below — where the shoe is removed without exposing the foot.
 
 The question remains *teiku*, unresolved.
 
+[DAF:102b]
 ### Double Shoes
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַבִּי נְחֶמְיָה מֵרַבָּה: שְׁנֵי מִנְעָלִים זֶה עַל גַּב זֶה, מַהוּ? הֵיכִי דָמֵי: אִילֵּימָא דִּשְׁלַפְתֵּיהּ לְעִילַּאי וְקָאֵי תַּתַּאי — ״מֵעַל״ אָמַר רַחֲמָנָא, וְלֹא מֵעַל דְּמֵעַל. לָא צְרִיכָא: דִּקְרַעְתֵּיהּ לְעִילַּאי וּשְׁלַפְתֵּיהּ לְתַתַּאי, וְקָאֵי עִילַּאי, מַאי? חֲלִיצָה בָּעֵינַן, וְהָא אִיכָּא? אוֹ דִלְמָא גַּלּוֹיֵי כַּרְעָא בָּעֵינַן, וְלֵיכָּא?
->
-> **Translation:** **Rabbi Neḥemya asked Rabba the following question: If the man was wearing two shoes, one on top of the other, what is the *halakha*? The Gemara asks: What are the circumstances of the case? If we say that she removed the outer shoe and the inner shoe remains in place, but the Merciful One states in the Torah: "From on his foot" and not: From on that which is on his foot. The Gemara answers: No, this question wasn't asked in a case where the inner shoe remained on his foot. Rather, it is necessary in a case where she tore the outer shoe and took off the inner shoe, and the outer one still remains on his foot although it is torn. The question centers around the previous one with regard to the nature of *ḥalitza*: What is the *halakha* for valid *ḥalitza*? Is it removal of the shoe that we require, which we have brought about in this example? Or perhaps it is exposing the foot that we require, which is lacking here, as the foot is still covered by the torn outer shoe.**
+> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַבִּי נְחֶמְיָה מֵרַבָּה: שְׁנֵי מִנְעָלִים זֶה עַל גַּב זֶה, מַהוּ? הֵיכִי דָמֵי: אִילֵּימָא דִּשְׁלַפְתֵּיהּ לְעִילַּאי וְקָאֵי תַּתַּאי — ״מֵעַל״ אָמַר רַחֲמָנָא, וְלֹא מֵעַל דְּמֵעַל. לָא צְרִיכָא: דִּקְרַעְתֵּיהּ לְעִילַּאי וּשְׁלַפְתֵּיהּ לְתַתַּאי, וְקָאֵי עִילַּאי, מַאי? חֲלִיצָה בָּעֵינַן, וְהָא אִיכָּא? אוֹ דִלְמָא גַּלּוֹיֵי כַּרְעָא בָּעֵינַן, וְלֵיכָּא?
+> **Translation:** **Rabbi Neḥemya asked Rabba** the following question: If the man was wearing **two shoes, one on top of the other, what is** the *halakha*? The Gemara asks: **What are the circumstances** of the case? **If we say** that **she removed the outer shoe and the inner shoe remains in place,** but **the Merciful One states** in the Torah: **“From on** his foot” **and not: From on that which is on** his foot. The Gemara answers: **No,** this question wasn’t asked in a case where the inner shoe remained on his foot. Rather, **it is necessary** in a case **where she tore the outer shoe and took off the inner shoe, and the outer one still remains** on his foot although it is torn. The question centers around the previous one with regard to the nature of *ḥalitza*: **What** is the *halakha* for valid *ḥalitza*? Is it **removal** of the shoe that **we require, which we have** brought about in this example? **Or perhaps** it is **exposing the foot** that **we require, which is lacking** here, as the foot is still covered by the torn outer shoe.
+
+> **Hebrew/Aramaic:** וּמִי אִיכָּא כִּי הַאי גַוְונָא? אִין, דְּחַזְיוּהּ רַבָּנַן לְרַב יְהוּדָה דִּנְפַק בְּחַמְשָׁא זוּזֵי מוֹקֵי לְשׁוּקָא.
+> **Translation:** The Gemara asks: **Is there really a case like this** where people wear one shoe on top of another? The Gemara answers: **Yes, for the Sages saw Rav Yehuda, who went out** once **to the market wearing five pairs of** shoes, which were similar to **slippers,** one on top of another.
 
 *Ba'ei Rav Nechemiah me-Rabba*: the double-shoe scenario. Suppose a person wears two shoes, one on top of the other. If she removes the top shoe while the bottom remains — that is straightforwardly invalid: *me-al amar rachmana, ve-lo me-al de-me'al* — the Torah says from upon his foot, not from upon the thing upon his foot. She removed something that was not directly on the foot.
 
 But the more interesting case is: she tears open the top shoe and then removes the bottom one, while the top shoe remains in place on his foot. The bottom shoe has been removed; the top shoe remains. So: *chalitzah be'inan ve-ika* — was the shoe removed? Yes. *O dilma gilluya de-khar'a be'inan ve-leika* — but was the foot exposed? No, the top shoe remains over it. This is the mirror image of the process-versus-result question: there, the foot was exposed without the shoe being removed; here, the shoe was removed without the foot being exposed. The *gemara* confirms that this scenario is not merely theoretical — the *gemara* notes that Rav Yehuda was observed going out into the marketplace wearing five pairs of shoes layered one atop the other.
 
-> **Hebrew/Aramaic:** וּמִי אִיכָּא כִּי הַאי גַוְונָא? אִין, דְּחַזְיוּהּ רַבָּנַן לְרַב יְהוּדָה דִּנְפַק בְּחַמְשָׁא זוּזֵי מוֹקֵי לְשׁוּקָא.
->
-> **Translation:** **Is there really a case like this where people wear one shoe on top of another? Yes, for the Sages saw Rav Yehuda, who went out once to the market wearing five pairs of shoes, which were similar to slippers, one on top of another.**
-
 ### Informal Removal
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: יְבָמָה שֶׁהִגְדִּילָה בֵּין הָאַחִין — מוּתֶּרֶת לִינָּשֵׂא לְאֶחָד מִן הָאַחִין, וְאֵין חוֹשְׁשִׁין שֶׁמָּא חָלְצָה סַנְדָּל לְאֶחָד מֵהֶן. טַעְמָא, דְּלָא חָזֵינַן, הָא חָזֵינַן — חָיְישִׁינַן.
->
-> **Translation:** **Rav Yehuda said another *halakha* that Rav said:** An underage ***yevama* who grew up among her husband's brothers before any *ḥalitza* was performed is permitted to marry one of the brothers through levirate marriage, and we are not concerned about the possibility that during the time she was in the company of her *yevamin* she removed a sandal from one of them, and thereby she would have already performed *ḥalitza*. The Gemara infers from this statement: **The reason it is permitted to perform levirate marriage now is specifically that we did not see her remove one of their shoes, but if in fact we did see her do so, we are concerned** and treat her as a *yevama* who already performed *ḥalitza* and is thereby forbidden to all the brothers.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: יְבָמָה שֶׁהִגְדִּילָה בֵּין הָאַחִין — מוּתֶּרֶת לִינָּשֵׂא לְאֶחָד מִן הָאַחִין, וְאֵין חוֹשְׁשִׁין שֶׁמָּא חָלְצָה סַנְדָּל לְאֶחָד מֵהֶן. טַעְמָא, דְּלָא חָזֵינַן, הָא חָזֵינַן — חָיְישִׁינַן.
+> **Translation:** **Rav Yehuda said** another *halakha* that **Rav said:** An underage ***yevama* who grew up among** her husband’s **brothers** before any *ḥalitza* was performed **is permitted to marry one of the brothers** through levirate marriage, **and we are not concerned** about the possibility **that** during the time she was in the company of her *yevamin* **she removed a sandal from one of them,** and thereby she would have already performed *ḥalitza*. The Gemara infers from this statement: **The reason** it is permitted to perform levirate marriage now **is** specifically **that we did not see** her remove one of their shoes, **but if** in fact **we did see** her do so, **we are concerned** and treat her as a *yevama* who already performed *ḥalitza* and is thereby forbidden to all the brothers.
+
+> **Hebrew/Aramaic:** וְהָא תַּנְיָא: בֵּין שֶׁנִּתְכַּוֵּון הוּא וְלֹא נִתְכַּוְּונָה הִיא, בֵּין שֶׁנִּתְכַּוְּונָה הִיא וְלֹא נִתְכַּוֵּון הוּא — חֲלִיצָתָהּ פְּסוּלָה, עַד שֶׁיִּתְכַּוְּונוּ שְׁנֵיהֶם כְּאֶחָד! הָכִי קָאָמַר: אַף עַל גַּב דַּחֲזֵינַן — אֵין חוֹשְׁשִׁין שֶׁמָּא כִּוְּונוּ.
+> **Translation:** The Gemara challenges: **But isn’t it taught** in a *baraita*: **Whether he intended** to perform *ḥalitza* **and she did not intend** to, **or whether she intended** to perform *ḥalitza* **and he did not intend to, the *ḥalitza* is invalid, unless they both intended it as one** to perform a proper act of *ḥalitza*? The Gemara answers: **This is what** Rav **said: Even if we** did **see** that she removed a shoe from one of them, **we are not concerned that perhaps they intended to** perform *ḥalitza*.
 
 *Amar Rav Yehuda amar Rav*: a *yevamah* who grew up in the household of the brothers — waiting, as a young girl, until she reached halachic maturity — and then *yibum* falls to one of them: we are not concerned that perhaps at some point during those years she had removed the sandal of one of the brothers. The concern being: if she had, that might have constituted a *chalitzah*, which would preclude *yibum*.
 
+The scenario the *gemara* has in mind is entirely mundane: a young girl living in her brother-in-law's household, and one day he comes home tired and asks her to help him remove his shoe. She obliges. This is, in fact, a straightforward domestic act — there was real labor involved in removing a sandal, undoing the strap and so forth, and it would be entirely natural for a younger member of the household to assist. Yet formally, what happened is that the *yevamah* removed the shoe of the *yavam*. The question is whether this casual act could be treated as a *chalitzah* that now bars *yibum*.
+
 The *gemara* probes the implication. If the reason we are unconcerned is simply that we never witnessed it, then had we witnessed it, we might be concerned. But the *gemara* notes that a *beraita* teaches: *bein she-nitkaven hu ve-lo nitkavna hi, o she-nitkavna hi ve-lo nitkaven hu, chalitzatah psulah, ad she-yitkavnu shneihem* — unless both parties have *kavanah*, the *chalitzah* is not valid.
 
-> **Hebrew/Aramaic:** וְהָא תַּנְיָא: בֵּין שֶׁנִּתְכַּוֵּון הוּא וְלֹא נִתְכַּוְּונָה הִיא, בֵּין שֶׁנִּתְכַּוְּונָה הִיא וְלֹא נִתְכַּוֵּין הוּא — חֲלִיצָתָהּ פְּסוּלָה, עַד שֶׁיִּתְכַּוְּונוּ שְׁנֵיהֶם כְּאֶחָד! הָכִי קָאָמַר: אַף עַל גַּב דַּחֲזֵינַן — אֵין חוֹשְׁשִׁין שֶׁמָּא כִּוְּונוּ.
->
-> **Translation:** **But isn't it taught in a *baraita*: Whether he intended to perform *ḥalitza* and she did not intend to, or whether she intended to perform *ḥalitza* and he did not intend to, the *ḥalitza* is invalid, unless they both intended it as one** to perform a proper act of *ḥalitza*? **This is what Rav said: Even if we did see that she removed a shoe from one of them, we are not concerned that perhaps they intended to perform *ḥalitza*.**
-
-> **Hebrew/Aramaic:** וְאִיכָּא דְּאָמְרִי: טַעְמָא, דְּלָא חָזֵינַן, הָא חָזֵינַן — חוֹשְׁשִׁין. וּדְקָא תָנֵא בָּעֵי כַּוּוֹנָה — הָנֵי מִילֵּי לְאִישְׁתְּרוֹיֵי לְעָלְמָא, אֲבָל לְאַחִין מִיפַּסְלָא.
->
-> **Translation:** **And there are those who say** the inference from Rav's statement should be made in the opposite manner: **The reason it is permitted for her to perform levirate marriage now is specifically that we did not see her remove a shoe from one of the brothers. But if we did see, we would be concerned** and would treat her as a *yevama* who already performed *ḥalitza*, despite our knowledge that she did not intend to perform *ḥalitza*. **And with regard to that which was taught in the *baraita*, that intention is required, this applies** only as far as validating the act of *ḥalitza* in order **to permit her to marry a stranger. But performing an act of *ḥalitza* even without intention is sufficient to disqualify her for the brothers,** rendering prohibited an act of levirate marriage afterward.
-
 ### Intent Requirement
+
+> **Hebrew/Aramaic:** וְאִיכָּא דְּאָמְרִי: טַעְמָא, דְּלָא חָזֵינַן, הָא חָזֵינַן — חוֹשְׁשִׁין. וּדְקָא תָנֵא בָּעֵי כַּוּוֹנָה — הָנֵי מִילֵּי לְאִישְׁתְּרוֹיֵי לְעָלְמָא, אֲבָל לְאַחִין מִיפַּסְלָא.
+> **Translation:** **And there are** those **who say** the inference from Rav’s statement should be made in the opposite manner: **The reason** it is permitted for her to perform levirate marriage now **is** specifically **that we did not see** her remove a shoe from one of the brothers. **But if we did see, we would be concerned** and would treat her as a *yevama* who already performed *ḥalitza*, despite our knowledge that she did not intend to perform *ḥalitza*. **And** with regard to **that which was taught** in the *baraita*, **that intention is required, this applies** only as far as validating the act of *ḥalitza* in order **to permit her to marry a stranger. But** performing an act of *ḥalitza* even without intention is sufficient to **disqualify her for the brothers,** rendering prohibited an act of levirate marriage afterward.
 
 Tosafot extends the *kavanah* requirement beyond mere interior intention. The *kavanah* must be evident — it must be contextually clear that what is happening is *chalitzah*. A child casually helping her brother-in-law remove his sandal after a long day, with no formal setting and no evident intent on either side, would not constitute *chalitzah* even if technically she removed the shoe.
 
@@ -222,11 +209,15 @@ The *gemara* offers two responses to the question of why we are unconcerned. The
 
 ## Shoe Materials
 
+
+
 ### Tachash Leather
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: סַנְדָּל הַתָּפוּר בְּפִשְׁתָּן — אֵין חוֹלְצִין בּוֹ, שֶׁנֶּאֱמַר: ״וָאֶנְעֲלֵךְ תָּחַשׁ״. וְאֵימָא: תַּחַשׁ — אִין, מִידֵּי אַחֲרִינָא — לָא! ״נַעַל״ ״נַעַל״ רִיבָּה.
->
-> **Translation:** **Rav Yehuda also said that Rav said: One may not perform *ḥalitza* using a sandal that was sewn together with threads made of flax, as it is stated: "And I made you shoes of *taḥash* skin"** (Ezekiel 16:10), which is the skin of an animal, implying that a shoe is something made entirely of leather. The Gemara challenges: If the source is "*taḥash*," **let us say:** A shoe made of ***taḥash* skin, yes,** it is valid; but if made of **anything else, no.** The Gemara rejects this: Because **"shoe" and "shoe"** are written in the Torah multiple times, this **amplifies** and includes all types of shoes crafted from leather skins as valid for performing *ḥalitza*.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: סַנְדָּל הַתָּפוּר בְּפִשְׁתָּן — אֵין חוֹלְצִין בּוֹ, שֶׁנֶּאֱמַר: ״וָאֶנְעֲלֵךְ תָּחַשׁ״. וְאֵימָא: תַּחַשׁ — אִין, מִידֵּי אַחֲרִינָא — לָא! ״נַעַל״ ״נַעַל״ רִיבָּה.
+> **Translation:** **Rav Yehuda** also **said** that **Rav said: One may not perform *ḥalitza* using a sandal** that was **sewn** together **with** threads made of **flax, as it is stated: “And I made you shoes of *taḥash* skin”** (Ezekiel 16:10), which is the skin of an animal, implying that a shoe is something made entirely of leather. The Gemara challenges: If the source is “*taḥash*,” **let us say:** A shoe made of ***taḥash* skin, yes,** it is valid; but if made of **anything else, no.** The Gemara rejects this: Because **“shoe”** and **“shoe”** are written in the Torah multiple times, this **amplifies** and includes all types of shoes crafted from leather skins as valid for performing *ḥalitza*.
+
+> **Hebrew/Aramaic:** אִי ״נַעַל״ ״נַעַל״ רִיבָּה, אֲפִילּוּ כֹּל מִילֵּי נָמֵי! אִם כֵּן, ״תָּחַשׁ״ מַאי אַהֲנִי לֵיהּ?
+> **Translation:** The Gemara asks: **If** the inclusion of the words **“shoe”** and **“shoe” amplifies,** then should one include as valid for performing *ḥalitza* shoes crafted from **even any** other **materials as well,** including those not produced from leather at all? The Gemara answers: **If so, what purpose does “*taḥash*” serve,** as nothing is learned from it? Rather, from the word *taḥash* it is derived that the shoe must be crafted entirely of leather, but all types of leather are included because the word “shoe” is repeated in the Torah numerous times.
 
 *Amar Rav Yehuda amar Rav*: a sandal sewn with flax — *sandal ha-tafur be-pishtan* — may not be used for *chalitzah*. Rashi offers two readings of what this means: either the threads used to sew the sandal are made of flax, or a flax insert has been sewn into the sandal as a cushioning sole. In either case, the sandal is disqualified.
 
@@ -234,15 +225,10 @@ The source is the verse in Ezekiel: *va-eneilech tachash* — I will shoe you wi
 
 The *gemara* pushes further. *Teima tachash, in midi achrini lo* — perhaps only *tachash* skin may be used, to the exclusion of all other materials? The *gemara* rejects this: the verse also uses the word *na'al* (*na'al na'al ribba*), and the repetition implies a broader category. Yet the mention of *tachash* is not superfluous: it limits the category to leather, excluding plant-derived materials like flax entirely. *Im ken tachash mai ahani* — if all materials were permitted, the *tachash* reference would contribute nothing. The *tachash* therefore draws the line: the shoe must be leather.
 
-> **Hebrew/Aramaic:** אִי ״נַעַל״ ״נַעַל״ רִיבָּה, אֲפִילּוּ כֹּל מִילֵּי נָמֵי! אִם כֵּן, ״תָּחַשׁ״ מַאי אַהֲנִי לֵיהּ?
->
-> **Translation:** **If the inclusion of the words "shoe" and "shoe" amplifies,** then should one include as valid for performing *ḥalitza* shoes crafted from **even any other materials as well,** including those not produced from leather at all? **If so, what purpose does "*taḥash*" serve,** as nothing is learned from it?
-
 ### Hair Straps
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַבִּי אֶלְעָזָר מֵרַב: הוּא שֶׁל עוֹר, וּתְרֵיסִיּוֹתָיו שֶׁל שֵׂעָר, מַהוּ? אֲמַר לֵיהּ: מִי לָא קָרֵינַן בֵּיהּ ״וָאֶנְעֲלֵךְ תָּחַשׁ״? אִי הָכִי, כּוּלּוֹ שֶׁל שֵׂעָר נָמֵי! הָהוּא קֻרְקָא מִקְּרֵי.
->
-> **Translation:** **Rabbi Elazar asked Rav:** What is the status of the following type of sandal used for performing *ḥalitza*? In a case where **it, the shoe itself, is made of leather, and the sections that hold its straps [*tereisiyyot*]** are made **of hair,** as they were woven together with goat's hair, **what is the *halakha*? He said to him: Do we not refer to such a sandal as: "And I made you shoes of *taḥash*"?** Since it is crafted from material that comes from an animal it is valid. The Gemara asks: **If that is so,** i.e., that anything derived from an animal is valid, then even if it is fashioned **entirely of hair it should also be valid.** The Gemara answers: **That would be called a slipper,** not a shoe.
+> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַבִּי אֶלְעָזָר מֵרַב: הוּא שֶׁל עוֹר, וּתְרֵיסִיּוֹתָיו שֶׁל שֵׂעָר, מַהוּ? אֲמַר לֵיהּ: מִי לָא קָרֵינַן בֵּיהּ ״וָאֶנְעֲלֵךְ תָּחַשׁ״? אִי הָכִי, כּוּלּוֹ שֶׁל שֵׂעָר נָמֵי! הָהוּא קֻרְקָא מִקְּרֵי.
+> **Translation:** **Rabbi Elazar asked Rav:** What is the status of the following type of sandal used for performing *ḥalitza*? In a case where **it,** the shoe itself, **is made of leather, and** the sections that hold **its straps [*tereisiyyot*]** are made **of hair,** as they were woven together with goat’s hair, **what is** the *halakha*? **He said to him: Do we not refer to** such a sandal **as: “And I made you shoes of *taḥash*”?** Since it is crafted from material that comes from an animal it is valid. The Gemara asks: **If that is so,** i.e., that anything derived from an animal is valid, then even if it is fashioned **entirely of hair it should also be** valid. The Gemara answers: **That would be called a slipper,** not a shoe.
 
 *Ba'ei minei Rav Elazar meRav*: what about a shoe whose body is leather but whose straps (*trisiotav*) are made of hair? Rav responds: *u-mi lo karina beih ve-analach tachash* — does not such a shoe still fall within the description of the *tachash* verse? Hair is, after all, a product of the animal kingdom, consistent with the category the verse establishes. Rav therefore permits hair straps on a leather shoe.
 
@@ -252,51 +238,45 @@ The *gemara* then asks: if hair straps are permitted, why not make the entire sh
 
 ## Chalitzah Etymology
 
+
+
 ### Remove Definition
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב כָּהֲנָא לִשְׁמוּאֵל: מִמַּאי דְּהַאי ״וְחָלְצָה נַעֲלוֹ מֵעַל רַגְלוֹ״ מִישְׁלַף הוּא — דִּכְתִיב: ״וְחִלְּצוּ אֶת הָאֲבָנִים אֲשֶׁר בָּהֵן הַנָּגַע״.
->
-> **Translation:** **Rav Kahana said to Shmuel: From where is it known that this phrase: "And she shall remove [*ḥaltza*] his shoe from on his foot"** (Deuteronomy 25:9), **means to remove? As it is written:** "Then the priest shall command, **and they shall take out [*ḥiltzu*] the stones in which the plague is"** (Leviticus 14:40), indicating that the word *ḥaltza* means that they shall remove the stones from their place.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב כָּהֲנָא לִשְׁמוּאֵל: מִמַּאי דְּהַאי ״וְחָלְצָה נַעֲלוֹ מֵעַל רַגְלוֹ״ מִישְׁלַף הוּא — דִּכְתִיב: ״וְחִלְּצוּ אֶת הָאֲבָנִים אֲשֶׁר בָּהֵן הַנָּגַע״.
+> **Translation:** **Rav Kahana said to Shmuel: From where is it known that this** phrase: **“And she shall remove [*ḥaltza*] his shoe from on his foot”** (Deuteronomy 25:9), **means to remove? As it is written:** “Then the priest shall command, **and they shall take out [*ḥiltzu*] the stones in which the plague is”** (Leviticus 14:40), indicating that the word *ḥaltza* means that they shall remove the stones from their place.
+
+> **Hebrew/Aramaic:** וְאֵימָא זָרוֹזֵי הוּא, דִּכְתִיב: ״הֵחָלְצוּ מֵאִתְּכֶם אֲנָשִׁים לַצָּבָא״! הָתָם נָמֵי — שַׁלּוֹפֵי מִבֵּיתָא לִקְרָבָא.
+> **Translation:** The Gemara asks whether the word *ḥaltza* can be interpreted differently based upon its apparent meaning in other contexts: **But** could you **say it is** a term for **strengthening, as it is written: “Arm [*heḥaletzu*] men from among you for the army”** (Numbers 31:3), meaning that men among you will be strengthened and take up arms to prepare for battle? The Gemara answers: **There too,** the meaning of the word is referring to taking something from its place, as it means **removing** people **from their houses** in order **to go** out **to war.**
+
+> **Hebrew/Aramaic:** וְהָכְתִיב: ״יְחַלֵּץ עָנִי בְעׇנְיוֹ״! בִּשְׂכַר עׇנְיוֹ, יְחַלְּצוֹ מִדִּינָהּ שֶׁל גֵּיהִנָּם.
+> **Translation:** The Gemara challenges: **But isn’t it written: “He delivers [*yeḥaletz*] the afflicted by His affliction [*be’onyo*]”** (Job 36:15)? This indicates that the afflicted one becomes stronger due to his affliction, as, if the intention was to deliver him from his affliction, it should have said: From His affliction, rather than “by His affliction.” The Gemara answers that the verse should be interpreted as follows: *Be’onyo*, in other words, **as reward for his** suffering from **affliction, He shall deliver him from the judgment of Gehenna,** as is understood from the term *be’onyo*, through the reward due to his affliction.
+
+> **Hebrew/Aramaic:** אֶלָּא הָא דִּכְתִיב: ״חֹנֶה מַלְאַךְ ה׳ סָבִיב לִירֵאָיו וַיְחַלְּצֵם״! בִּשְׂכַר יְרֵאָיו יְחַלְּצֵם מִדִּינָהּ שֶׁל גֵּיהִנָּם.
+> **Translation:** The Gemara challenges further: **But** with regard to **that it is written: “The angel of the Lord encamps around those who fear Him and delivers them [*vayeḥaltzem*]”** (Psalms 34:8), doesn’t *vayeḥaltzem* rather mean: He shall strengthen them? The Gemara answers: The verse means: **As a reward for those that fear Him, He shall deliver them from the judgment of Gehenna.** Therefore, the Gemara interprets *vayeḥaltzem* as “delivers them,” not as: Strengthens them.
+
+> **Hebrew/Aramaic:** אֶלָּא הָא דִּכְתִיב: ״וְעַצְמֹתֶיךָ יַחֲלִיץ״, וְאָמַר רַבִּי אֶלְעָזָר: זוֹ מְעוּלָּה שֶׁבַּבְּרָכוֹת, וְאָמַר רָבָא: זָרוֹזֵי גַּרְמֵי! אִין, מַשְׁמַע הָכִי וּמַשְׁמַע הָכִי. דְּהָכָא, אִי סָלְקָא דַעְתָּךְ זָרוֹזֵי הוּא, אִם כֵּן, לִכְתּוֹב רַחֲמָנָא ״וְחָלְצָה נַעֲלוֹ בְּרַגְלוֹ״!
+> **Translation:** The Gemara challenges further: **But** with regard to **that which is written:** “And the Lord will guide you, and satisfy your soul in drought, **and make your bones strong [*yaḥalitz*]”** (Isaiah 58:11), **and Rabbi Elazar said** regarding that verse: **This is the greatest of blessings, and Rava said** it means: **Strengthening of bones.** This seems to indicate that the root of the word *ḥalitza* is referring to strengthening. The Gemara answers: **Yes, it has this connotation, and it has this connotation,** i.e., the root *ḥ-l-tz* sometimes connotes removal and sometimes connotes strengthening. **But here,** only one meaning is possible, as, **if it enters your mind** that *ḥalitza* here **connotes strengthening, then let the Merciful One write** in the Torah: **She shall strengthen [*ḥaletza*] his shoe on his foot [*beraglo*],** indicating that she should tighten the shoe on his foot, rather than stating: “From on his foot [*me’al raglo*],” which indicates that she is removing something from his foot.
+
+> **Hebrew/Aramaic:** אִי כְּתַב רַחֲמָנָא ״בְּרַגְלוֹ״, הֲוָה אָמֵינָא: ״בְּרַגְלוֹ״ — אִין, בְּשׁוֹקוֹ — לָא, כְּתַב רַחֲמָנָא ״מֵעַל רַגְלוֹ״ דַּאֲפִילּוּ בְּשׁוֹקוֹ. אִם כֵּן, לִכְתּוֹב רַחֲמָנָא ״בְּמֵעַל רַגְלוֹ״. מַאי ״מֵעַל רַגְלוֹ״ — שְׁמַע מִינַּהּ מִישְׁלַף הוּא.
+> **Translation:** The Gemara responds: **If the Merciful One had written** in the Torah: **On his foot [*beraglo*], I would have said** she must strengthen and tighten the shoe **on his foot, yes, but on his calf, no;** and if his foot were amputated she may no longer perform *ḥalitza*. Therefore, **the Merciful One writes** in the Torah: **“From on his foot [*me’al raglo*],”** to teach that she may strengthen the shoe **even on his calf,** which is part of the leg, or *regel*, above the foot. The Gemara answers: **If so,** and *ḥalitza* really means strengthening, **let the Merciful One write** in the Torah: She shall strengthen his shoe **on the upper part of his foot [*beme’al raglo*],** indicating that the shoe can also be tightened on the area of the calf. **What** then **is** the meaning of **“from on his foot [*me’al raglo*],”** which is written in the verse? **Learn from here** that in this context the word *ḥalitza* clearly **indicates removal,** meaning that the mitzva of *ḥalitza* is for the *yevama* to remove the shoe of the *yavam* and not to tighten it on his foot.
 
 *Amar Rav Kahana leShmuel*: how do we know that the word *chalatz* in the verse *ve-chaltzah na'alo me-al raglo* means to remove, rather than to strengthen or arm? After all, *chalatz* appears elsewhere with the latter sense: *hechalitzu me-it-chem anashim la-tzava* — arm yourselves, men for battle. Perhaps the verse in *chalitzah* means something like: help him put on his shoe, prepare him for the road?
 
 Rav Kahana brings proof from the verse in Leviticus regarding *tzara'at* of a house: *ve-chiltzu et ha-avanim asher ba-hen ha-naga* — they shall remove the stones in which the affliction appears. There, *chalatz* unambiguously means to remove.
 
-> **Hebrew/Aramaic:** וְאֵימָא זָרוֹזֵי הוּא, דִּכְתִיב: ״הֵחָלְצוּ מֵאִתְּכֶם אֲנָשִׁים לַצָּבָא״! הָתָם נָמֵי — שַׁלּוֹפֵי מִבֵּיתָא לִקְרָבָא.
->
-> **Translation:** The Gemara asks whether the word *ḥaltza* can be interpreted differently based upon its apparent meaning in other contexts: **But could you say it is a term for strengthening, as it is written: "Arm [*heḥaletzu*] men from among you for the army"** (Numbers 31:3), meaning that men among you will be strengthened and take up arms to prepare for battle? The Gemara answers: **There too,** the meaning of the word is referring to taking something from its place, as it means **removing people from their houses** in order **to go out to war.**
-
-> **Hebrew/Aramaic:** וְהָכְתִיב: ״יְחַלֵּץ עָנִי בְעׇנְיוֹ״! בִּשְׂכַר עׇנְיוֹ, יְחַלְּצוֹ מִדִּינָהּ שֶׁל גֵּיהִנָּם.
->
-> **Translation:** **But isn't it written: "He delivers [*yeḥaletz*] the afflicted by His affliction [*be'onyo*]"** (Job 36:15)? **In reward for his suffering from affliction, He shall deliver him from the judgment of Gehenna.**
-
-> **Hebrew/Aramaic:** אֶלָּא הָא דִּכְתִיב: ״חֹנֶה מַלְאַךְ ה׳ סָבִיב לִירֵאָיו וַיְחַלְּצֵם״! בִּשְׂכַר יְרֵאָיו יְחַלְּצֵם מִדִּינָהּ שֶׁל גֵּיהִנָּם.
->
-> **Translation:** **But with regard to that it is written: "The angel of the Lord encamps around those who fear Him and delivers them [*vayeḥaltzem*]"** (Psalms 34:8). **As a reward for those that fear Him, He shall deliver them from the judgment of Gehenna.**
-
-> **Hebrew/Aramaic:** אֶלָּא הָא דִּכְתִיב: ״וְעַצְמֹתֶיךָ יַחֲלִיץ״, וְאָמַר רַבִּי אֶלְעָזָר: זוֹ מְעוּלָּה שֶׁבַּבְּרָכוֹת, וְאָמַר רָבָא: זָרוֹזֵי גַּרְמֵי! אִין, מַשְׁמַע הָכִי וּמַשְׁמַע הָכִי. דְּהָכָא, אִי סָלְקָא דַעְתָּךְ זָרוֹזֵי הוּא, אִם כֵּן, לִכְתּוֹב רַחֲמָנָא ״וְחָלְצָה נַעֲלוֹ בְּרַגְלוֹ״!
->
-> **Translation:** **But with regard to that which is written:** "And the Lord will guide you, and satisfy your soul in drought, **and make your bones strong [*yaḥalitz*]"** (Isaiah 58:11), **and Rabbi Elazar said** regarding that verse: **This is the greatest of blessings, and Rava said** it means: **Strengthening of bones.** **Yes, it has this connotation, and it has this connotation,** i.e., the root *ḥ-l-tz* sometimes connotes removal and sometimes connotes strengthening. **But here,** only one meaning is possible, as, **if it enters your mind that *ḥalitza* here connotes strengthening, then let the Merciful One write:** She shall strengthen his shoe **on his foot,** rather than stating: **"From on his foot,"** which indicates that she is removing something from his foot.
-
-> **Hebrew/Aramaic:** אִי כְּתַב רַחֲמָנָא ״בְּרַגְלוֹ״, הֲוָה אָמֵינָא: ״בְּרַגְלוֹ״ — אִין, בְּשׁוֹקוֹ — לָא, כְּתַב רַחֲמָנָא ״מֵעַל רַגְלוֹ״ דַּאֲפִילּוּ בְּשׁוֹקוֹ. אִם כֵּן, לִכְתּוֹב רַחֲמָנָא ״בְּמֵעַל רַגְלוֹ״. מַאי ״מֵעַל רַגְלוֹ״ — שְׁמַע מִינַּהּ מִישְׁלַף הוּא.
->
-> **Translation:** **If the Merciful One had written** in the Torah: **On his foot [*beraglo*], I would have said** she must strengthen and tighten the shoe **on his foot, yes, but on his calf, no;** **the Merciful One writes in the Torah: "From on his foot [*me'al raglo*],"** to teach that she may strengthen the shoe **even on his calf.** **If so,** **let the Merciful One write:** She shall strengthen his shoe **on the upper part of his foot [*beme'al raglo*].** **What then is the meaning of "from on his foot [*me'al raglo*],"** which is written in the verse? **Learn from here** that in this context the word *ḥalitza* clearly **indicates removal,** meaning that the mitzva of *ḥalitza* is for the *yevama* to remove the shoe of the *yavam* and not to tighten it on his foot.
-
 But Shmuel pushes back: even in the military context, perhaps *chalatz* means to remove — specifically to remove men from their homes and send them out to war: *shalufi mi-beisa le-karba*. The word may be rooted in the concept of extraction, of drawing out, in both senses.
 
-The *gemara* examines further verses. *Yachallaitz ani be-onyo* — will God strengthen the poor in his poverty? The *gemara* reads this as: because of his suffering, he will be removed from the judgment of *Gehennom* — *yechaltzu me-dina shel Gehennom*. Similarly, *choneh mal'ach Hashem saviv li-reyav vi-yachaltzem* — the angel of God encamps around those who fear Him and arms them — is read: because of their fear of God, they are removed from the judgment of *Gehennom*. And *ve-atzmotecha yachaltz* — God will strengthen your bones — which Rav Elazar calls the greatest of all blessings, *me'ula sheba-berachot* — is explained by Rava as *ziruzei garmei*, the invigorating of the bones.
+The *gemara* examines further verses. *Yachallaitz ani be-onyo* — will God strengthen the poor in his poverty? The *gemara* reads this as: because of his suffering, he will be removed from the judgment of *Gehennom* — *yechaltzu me-dina shel Gehennom*. Similarly, *choneh mal'ach Hashem saviv li-reyav vi-yachaltzem* — the angel of God encamps around those who fear Him and arms them — is read: because of their fear of God, they are removed from the judgment of *Gehennom*. And *ve-atzmotecha yachalitz* — God will strengthen your bones — which Rav Elazar calls the greatest of all blessings, *me'ula sheba-berachot* — is explained by Rava as *ziruzei garmei*, the invigorating of the bones.
 
 The *gemara* concedes: *mashma hacha u-mashma hacha* — the word *chalatz* carries both meanings, removal and strengthening, and context determines which applies. But in the *chalitzah* verse, the *gemara* demonstrates that removal must be the intended meaning through a *derashah* on the preposition *me-al*. If *chalatz* meant to strengthen or to put on, the Torah would have written *be-raglo* — on his foot. Had it written *be-raglo*, one might have thought that only the foot proper is included and not the calf. So the Torah wrote *me-al raglo* — from upon his foot. But *me-al* already implies removal; if the meaning were to put on, the verse would have said *b'me-al raglo* — on the part above his foot. Since *me-al raglo* is used, *shema mina mishlaf hu* — it must mean to remove.
 
 ### Heretic's Polemic
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ הָהוּא מִינָא לְרַבָּן גַּמְלִיאֵל: עַמָּא דַּחֲלַץ לֵיהּ מָרֵיהּ מִינֵּיהּ, דִּכְתִיב: ״בְּצֹאנָם וּבִבְקָרָם יֵלְכוּ לְבַקֵּשׁ אֶת ה׳ וְלֹא יִמְצָאוּ חָלַץ מֵהֶם״.
->
-> **Translation:** **A certain heretic said to Rabban Gamliel:** You, the children of Israel, are **a nation whose Master removed [*ḥalatz*] Himself from them,** for God has left you in much the same way in which a *yavam* would perform *ḥalitza* with his *yevama*, **as it is written: "With their flocks and with their herds they shall go to seek the Lord, but they shall not find Him. He has removed [*ḥalatz*] Himself from them [*meihem*]"** (Hoshea 5:6).
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ הָהוּא מִינָא לְרַבָּן גַּמְלִיאֵל: עַמָּא דַּחֲלַץ לֵיהּ מָרֵיהּ מִינֵּיהּ, דִּכְתִיב: ״בְּצֹאנָם וּבִבְקָרָם יֵלְכוּ לְבַקֵּשׁ אֶת ה׳ וְלֹא יִמְצָאוּ חָלַץ מֵהֶם״.
+> **Translation:** Parenthetical to this discussion, the Gemara relates: **A certain heretic said to Rabban Gamliel:** You, the children of Israel, are **a nation whose Master removed [*ḥalatz*] Himself from them,** for God has left you in much the same way in which a *yavam* would perform *ḥalitza* with his *yevama*, **as it is written: “With their flocks and with their herds they shall go to seek the Lord, but they shall not find Him. He has removed [*ḥalatz*] Himself from them [*meihem*]”** (Hoshea 5:6). The heretic tried to use this verse as scriptural support that God has performed *ḥalitza* with the Jewish people.
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: שׁוֹטֶה, מִי כְּתִיב ״חָלַץ לָהֶם״? ״חָלַץ מֵהֶם״ כְּתִיב, וְאִילּוּ יְבָמָה דְּחָלְצוּ לָהּ אַחִין — מִידֵּי מְשָׁשָׁא אִית בֵּיהּ?
->
-> **Translation:** **He, Rabban Gamliel, said to him: Imbecile, does it say: He performed *ḥalitza* to them [*lahem*]?** Rather, **it says "*ḥalatz* from them [*meihem*],"** meaning it is as if they, the Jewish people, performed *ḥalitza* on Him. **But if a *yevama* had her shoe removed by her *yevamin*, does this have any significance?** Here too, the meaning of the verse is that the nation of Israel abandoned God by removing themselves from Him, and this abandonment has no significance.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: שׁוֹטֶה, מִי כְּתִיב ״חָלַץ לָהֶם״? ״חָלַץ מֵהֶם״ כְּתִיב, וְאִילּוּ יְבָמָה דְּחָלְצוּ לָהּ אַחִין — מִידֵּי מְשָׁשָׁא אִית בֵּיהּ?
+> **Translation:** **He,** Rabban Gamliel, **said to him: Imbecile, does it say: He performed *ḥalitza* to them [*lahem*]?** Rather, **it says “*ḥalatz* from them [*meihem*],”** meaning it is as if they, the Jewish people, performed *ḥalitza* on Him. **But if a *yevama* had her shoe removed by her *yevamin*, does this have any significance?** Here too, the meaning of the verse is that the nation of Israel abandoned God by removing themselves from Him, and this abandonment has no significance.
 
 The *gemara* closes with a remarkable exchange. A *min* — a heretic, in this context typically understood as a Jewish Christian — approached Rabban Gamliel with a provocative claim: *ama de-chalatz marei minei* — you are a people whose Master has done *chalitzah* to you, has abandoned you. The proof text: *be-tzonam u-ve-vekaram yelchu le-vakesh et Hashem ve-lo yimtza'u, chalatz me-hem* — they will go with their flocks and herds to seek God and will not find Him; He has removed Himself from them.
 

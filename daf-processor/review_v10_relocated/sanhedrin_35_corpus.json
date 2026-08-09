@@ -1,0 +1,437 @@
+[
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Neged HaShemesh",
+    "candidates": [
+      "Monetary vs Capital",
+      "Erev Shabbat Restriction",
+      "Witness Restrictions",
+      "Ed Zomem Concern",
+      "Two Days Required",
+      "Rishil Lakish QVH",
+      "Fire Prohibition",
+      "Daytime Only",
+      "Neged HaShemesh",
+      "Hoka'ah Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage opens with the Gemara's question 'mena hanei millei' (from where are these matters derived) about capital cases being judged in daytime, then gives Rav Shimi bar \u1e24iyya's answer from the 'neged ha-shemesh' verse and Rav \u1e24isda's follow-up about hoka'ah meaning hanging \u2014 this entire unit belongs under 'Daytime Only' (index 7), which explicitly discusses the Bavli establishing that capital cases must be judged in daytime and asks 'mena hanei millei'.",
+      "chosen_heading": "Daytime Only",
+      "current_heading": "Neged HaShemesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Hoka'ah Definition",
+    "candidates": [
+      "Neged HaShemesh",
+      "Hoka'ah Definition",
+      "Moshe's Command",
+      "Multiple Courts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage cites the Rizpah verse to prove that hoka'ah means suspension/exposure of bodies, which is precisely what the 'Hoka'ah Definition' section's prose describes.",
+      "chosen_heading": "Hoka'ah Definition",
+      "current_heading": "Hoka'ah Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Multiple Courts",
+    "candidates": [
+      "Moshe's Command",
+      "Multiple Courts",
+      "Tzedek Yalin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete Gemara passage about the Peor incident \u2014 the question about why the chiefs were punished, Rav Yehuda/Rav's answer that they were appointed to run courts, and the resolution about turning away God's anger \u2014 which matches candidate 0's prose about reconciling the verse and explaining that the leaders were to organize judicial process, not be executed themselves.",
+      "chosen_heading": "Moshe's Command",
+      "current_heading": "Multiple Courts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Tzedek Yalin",
+    "candidates": [
+      "Multiple Courts",
+      "Tzedek Yalin",
+      "Chametz Drasha",
+      "Tzedakah Sleeping"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzedek Yalin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the Mishnaic rule and asks for its source, and Item 2 gives Rabbi \u1e24anina's derivation from 'meleti mishpat tzedek yalin bah' \u2014 both directly addressed by the 'Tzedek Yalin' prose which explains exactly this derivation.",
+      "second_heading": "Chametz Drasha",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the counter-reading of 'ashru chamotz' by Rabbi \u1e24anina and then asks what Rava does with the 'meleti mishpat' verse, which is precisely the content discussed in the 'Chametz Drasha' prose section.",
+      "current_heading": "Tzedek Yalin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Tzedakah Sleeping",
+    "candidates": [
+      "Chametz Drasha",
+      "Tzedakah Sleeping",
+      "Recess Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Elazar/Rabbi Yitzchak teaching about tzedaka left overnight on fast days, which is exactly what the 'Tzedakah Sleeping' section's prose describes and analyzes.",
+      "chosen_heading": "Tzedakah Sleeping",
+      "current_heading": "Tzedakah Sleeping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Recess Question",
+    "candidates": [
+      "Recess Question",
+      "Halnat Din",
+      "No Execute Shabbat",
+      "Inuy HaDin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why the mishna prohibits judging capital cases on the eve of Shabbat given the rule about overnight deliberations \u2014 this is precisely the 'Recess Question' setup asking why not begin on Friday and recess, which the prose of candidate 0 directly addresses.",
+      "chosen_heading": "Recess Question",
+      "current_heading": "Recess Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Inuy HaDin",
+    "candidates": [
+      "Halnat Din",
+      "No Execute Shabbat",
+      "Inuy HaDin",
+      "Liba D'Inshi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three problems (halanat din, no execution on Shabbat, and neged ha-shemesh) but the Gemara text begins with the halanat din concern as the first problem discussed, and heading 0 ('Halnat Din') is the natural starting point where this unified Gemara passage should be introduced, since the passage flows through all the possibilities starting from Friday-to-Friday judgment \u2014 however, looking more carefully, the passage contains all three issues together and the prose under heading 0 specifically discusses the first possibility and halanat din, which is where the Gemara passage begins its explanation, making it the best single home for this unified text.",
+      "chosen_heading": "Halnat Din",
+      "current_heading": "Inuy HaDin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Liba D'Inshi",
+    "candidates": [
+      "Inuy HaDin",
+      "Liba D'Inshi",
+      "Cannot Start Erev",
+      "Met Mitzvah QVH",
+      "Kal Vachomer Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'liba d'inshi inshi' reasoning about judges forgetting their deliberative thoughts even with written records, which is exactly what the prose under heading 1 'Liba D'Inshi' describes.",
+      "chosen_heading": "Liba D'Inshi",
+      "current_heading": "Liba D'Inshi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Kal Vachomer Structure",
+    "candidates": [
+      "Cannot Start Erev",
+      "Met Mitzvah QVH",
+      "Kal Vachomer Structure",
+      "Nazir Tamei",
+      "Vachoso Drasha",
+      "Pesach & Brit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's initial challenge to Rabbi Yochanan \u2014 proposing a kal va-chomer that meit mitzvah should override Shabbat \u2014 which matches exactly the 'Met Mitzvah QVH' prose description of Resh Lakish challenging Rabbi Yochanan through a kal va-chomer argument about meit mitzvah overriding Shabbat.",
+      "chosen_heading": "Met Mitzvah QVH",
+      "current_heading": "Kal Vachomer Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Pesach & Brit",
+    "candidates": [
+      "Nazir Tamei",
+      "Vachoso Drasha",
+      "Pesach & Brit",
+      "Exec vs Avodah",
+      "Ritzicha QVH"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Nazir Tamei",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the baraita deriving that a nazir going to slaughter his Paschal offering or circumcise his son cannot become impure for a relative but must become impure for a met mitzva \u2014 exactly what candidate 0 ('Nazir Tamei') and the flow into candidate 2 ('Pesach & Brit') describe, but the full baraita unit (items 1-3) most precisely matches the 'Nazir Tamei'/'Pesach & Brit' section which candidate 2's prose describes in full detail as establishing that met mitzva overrides avodah.",
+      "second_heading": "Exec vs Avodah",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are Reish Lakish's kal va-chomer that Shabbat should be overridden by met mitzva and Rabbi Yohanan's rebuttal using the counter-example of execution (ritzicha), which is precisely what candidate 3 ('Exec vs Avodah') describes.",
+      "current_heading": "Pesach & Brit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Ritzicha QVH",
+    "candidates": [
+      "Exec vs Avodah",
+      "Ritzicha QVH",
+      "Ritzicha Refutes",
+      "Lo Tiv'aru Eish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the kal va-chomer argument that murder itself should override Shabbat, which is precisely what the 'Ritzicha QVH' section's prose describes \u2014 Reish Lakish escalating by applying the kal va-chomer directly to execution using the verse me-im mizbachi tikachenu la-mut.",
+      "chosen_heading": "Ritzicha QVH",
+      "current_heading": "Ritzicha QVH",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Lo Tiv'aru Eish",
+    "candidates": [
+      "Ritzicha Refutes",
+      "Lo Tiv'aru Eish",
+      "Beit Din Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement that the tanna of the school of Rabbi Yishmael already resolved the question, which matches the prose of 'Ritzicha Refutes' describing Rava invoking this tannaitic tradition \u2014 the passage only introduces the verse without yet explaining it, so it belongs under the heading that frames Rava's response as supplanting Rabbi Yochanan's answer, not under the heading that discusses the verse's actual content.",
+      "chosen_heading": "Ritzicha Refutes",
+      "current_heading": "Lo Tiv'aru Eish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Beit Din Context",
+    "candidates": [
+      "Lo Tiv'aru Eish",
+      "Beit Din Context",
+      "Moshvoteichem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the content described in candidate 1's prose: item 1 covers the Rabbi Yosei/Rabbi Natan debate about hav'arah, and item 2 introduces Rava's question about the word moshvoteichem \u2014 precisely the sequence described in that section's prose.",
+      "chosen_heading": "Beit Din Context",
+      "current_heading": "Beit Din Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Moshvoteichem",
+    "candidates": [
+      "Moshvoteichem",
+      "Gezeirah Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two-sided argument about whether 've-humat' applies on Shabbat and how to reconcile it with 'me-challeleha mot yumat', which is precisely what the 'Moshvoteichem' prose section describes and analyzes.",
+      "chosen_heading": "Moshvoteichem",
+      "current_heading": "Moshvoteichem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Gezeirah Shava",
+    "candidates": [
+      "Gezeirah Shava",
+      "Explicit Prohibition",
+      "Inverted QVH"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage demonstrates the gezeirah shava linking moshvoteichem in the fire verse to moshvoteichem in the capital judgment verse, which is precisely what the 'Gezeirah Shava' section prose describes.",
+      "chosen_heading": "Gezeirah Shava",
+      "current_heading": "Gezeirah Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Inverted QVH",
+    "candidates": [
+      "Explicit Prohibition",
+      "Inverted QVH",
+      "Verse Contradiction",
+      "Yom Tov QVH"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's exact statement inverting the kal va-chomer to argue that execution does not override avodah, which is precisely what the 'Inverted QVH' prose section describes.",
+      "chosen_heading": "Inverted QVH",
+      "current_heading": "Inverted QVH",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Yom Tov QVH",
+    "candidates": [
+      "Verse Contradiction",
+      "Yom Tov QVH",
+      "Private Korban",
+      "Rava Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that the verse 'me-im mizbachi tikachenu la-mut' applies to a korban yachid (private offering) which does not override Shabbat, directly matching the 'Private Korban' section's prose about this exact resolution.",
+      "chosen_heading": "Private Korban",
+      "current_heading": "Yom Tov QVH",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Rava Counter",
+    "candidates": [
+      "Private Korban",
+      "Rava Counter",
+      "All Korbonot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form Rava's challenge and its clarification \u2014 the kal va-chomer against execution interfering with a private korban, followed by the question about whether it works according to those who hold private korbonot may be brought on Yom Tov \u2014 which is precisely what the 'Rava Counter' prose describes.",
+      "chosen_heading": "Rava Counter",
+      "current_heading": "Rava Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "All Korbonot",
+    "candidates": [
+      "All Korbonot",
+      "Mizbechi=Tamid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the problem that arises according to the opinion that private vow/gift offerings are sacrificed on Yom Tov \u2014 that 'me-im mizbachi' is left without application \u2014 which is precisely what the 'All Korbonot' section's prose discusses.",
+      "chosen_heading": "All Korbonot",
+      "current_heading": "All Korbonot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Mizbechi=Tamid",
+    "candidates": [
+      "Mizbechi=Tamid",
+      "Public Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the argument that 'mizbechi' refers specifically to the tamid (the designated public offering), which is precisely what the 'Mizbechi=Tamid' section's prose discusses.",
+      "chosen_heading": "Mizbechi=Tamid",
+      "current_heading": "Mizbechi=Tamid",
+      "moved": false
+    }
+  }
+]

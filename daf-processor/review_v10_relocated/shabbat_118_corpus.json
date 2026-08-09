@@ -1,0 +1,375 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Dispute: 3 vs 4 Meals",
+    "candidates": [
+      "Dispute: 3 vs 4 Meals",
+      "Hayom Derivation",
+      "Mishna Reconciliation",
+      "Rabbi Yosi's Rule",
+      "Tamchui & Kuppa",
+      "Standard: 2 Meals/Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with the gemara's attempt to reconcile the mishna (nafla deleika) with Rabbi \u1e24idka's four-meal position, which is precisely what heading 2 ('Mishna Reconciliation') describes in its prose.",
+      "chosen_heading": "Mishna Reconciliation",
+      "current_heading": "Dispute: 3 vs 4 Meals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Standard: 2 Meals/Day",
+    "candidates": [
+      "Hayom Derivation",
+      "Mishna Reconciliation",
+      "Rabbi Yosi's Rule",
+      "Tamchui & Kuppa",
+      "Standard: 2 Meals/Day",
+      "Rabbi Akiva's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the mishna about tamchui and kuppa thresholds (two meals and fourteen meals), which is precisely what the 'Tamchui & Kuppa' section's prose introduces and discusses, whereas the current placement under 'Standard: 2 Meals/Day' is where the gemara's resolution of the arithmetic puzzle belongs \u2014 the passage itself is the mishna being introduced, not yet the resolution.",
+      "chosen_heading": "Tamchui & Kuppa",
+      "current_heading": "Standard: 2 Meals/Day",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rabbi Akiva's Position",
+    "candidates": [
+      "Standard: 2 Meals/Day",
+      "Rabbi Akiva's Position",
+      "Peah Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the gemara's reasoning about whether the mishna fits the Rabbis or Rabbi Chidqa, including the objection about fasting all of erev shabbat, which is explicitly described in candidate 0's prose, making it a better fit than candidate 1 which covers the aftermath (Rabbi Akiva's position and its implications).",
+      "chosen_heading": "Standard: 2 Meals/Day",
+      "current_heading": "Rabbi Akiva's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Peah Evidence",
+    "candidates": [
+      "Rabbi Akiva's Position",
+      "Peah Evidence",
+      "Dish-Washing Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about the Peah mishna regarding a traveling poor person receiving bread, lodging provisions, and three Shabbat meals, with the Gemara's discussion of Rabbi \u1e24idka vs. Rabbis and Rav Pappa's explanation of 'parnasas linah' \u2014 exactly what the 'Peah Evidence' prose section describes.",
+      "chosen_heading": "Peah Evidence",
+      "current_heading": "Peah Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Dish-Washing Rules",
+    "candidates": [
+      "Dish-Washing Rules",
+      "Hachana Principle",
+      "Three Meals Salvation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly discusses the rules for rinsing dishes and drinking vessels on Shabbat, which is exactly what the 'Dish-Washing Rules' section's prose describes.",
+      "chosen_heading": "Dish-Washing Rules",
+      "current_heading": "Dish-Washing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Three Meals Salvation",
+    "candidates": [
+      "Hachana Principle",
+      "Three Meals Salvation",
+      "Oneg & Inheritance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three meals on Shabbat saving one from three afflictions (chevlei mashiach, Gehinnom, Gog u-Magog), which is precisely what the 'Three Meals Salvation' section's prose describes and analyzes.",
+      "chosen_heading": "Three Meals Salvation",
+      "current_heading": "Three Meals Salvation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Oneg & Inheritance",
+    "candidates": [
+      "Oneg & Inheritance",
+      "Freedom from Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous passage about delighting in Shabbat yielding a boundless inheritance, contrasting Abraham, Isaac, and Jacob's portions \u2014 exactly the content described in the 'Oneg & Inheritance' prose.",
+      "chosen_heading": "Oneg & Inheritance",
+      "current_heading": "Oneg & Inheritance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Freedom from Exile",
+    "candidates": [
+      "Freedom from Exile",
+      "Examples of Oneg",
+      "Idolater Forgiven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Nachman bar Yitzchak's teaching about freedom from exile and Rav Yehuda/Rav's teaching about heart's desires and oneg shabbat, all of which are explicitly discussed in the 'Freedom from Exile' prose, while the practical food examples that follow are addressed in the 'Examples of Oneg' section \u2014 but since the passage contains all of this content as one unit, it best fits under heading 0 which discusses all these teachings together.",
+      "chosen_heading": "Freedom from Exile",
+      "current_heading": "Freedom from Exile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Idolater Forgiven",
+    "candidates": [
+      "Examples of Oneg",
+      "Idolater Forgiven",
+      "First Shabbat Violation",
+      "Two Shabbatot, Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the teaching that observing Shabbat properly earns forgiveness even for idolatry as in the generation of Enosh, which is precisely what the 'Idolater Forgiven' section's prose describes.",
+      "chosen_heading": "Idolater Forgiven",
+      "current_heading": "Idolater Forgiven",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Two Shabbatot, Redemption",
+    "candidates": [
+      "First Shabbat Violation",
+      "Two Shabbatot, Redemption",
+      "Three Meals Merit",
+      "Hallel Daily"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the Rav Yehuda/Rav statement about the first Shabbat violation and the Rabbi Yochanan/Rabbi Shimon ben Yochai statement about two Shabbatot; since both belong together as one Talmudic passage, and candidate 0 ('First Shabbat Violation') is the first heading whose prose discusses this combined passage's opening statement, while candidate 1's prose already covers the second part, the passage as a whole most naturally sits under candidate 0 where the discussion begins \u2014 though confidence is medium given the passage spans both topics.",
+      "chosen_heading": "First Shabbat Violation",
+      "current_heading": "Two Shabbatot, Redemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Hallel Daily",
+    "candidates": [
+      "Three Meals Merit",
+      "Hallel Daily",
+      "Sunrise/Sunset Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yosei's statement about completing hallel every day and the clarification that it refers to pesukei dezimra, which is precisely what the 'Hallel Daily' section's prose addresses in detail.",
+      "chosen_heading": "Hallel Daily",
+      "current_heading": "Hallel Daily",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Sunrise/Sunset Prayer",
+    "candidates": [
+      "Sunrise/Sunset Prayer",
+      "Righteous Death",
+      "Death in Mitzvah",
+      "Tosefes Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses praying at sunrise/sunset (dimdumei chamah) and the verse from Psalms, which directly matches the 'Sunrise/Sunset Prayer' section's prose.",
+      "chosen_heading": "Sunrise/Sunset Prayer",
+      "current_heading": "Sunrise/Sunset Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Tosefes Shabbat",
+    "candidates": [
+      "Righteous Death",
+      "Death in Mitzvah",
+      "Tosefes Shabbat",
+      "Beit Midrash Sitters",
+      "Collecting Tzedakah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all four Rabbi Yosei sayings together as a unit, and the first one (dying from intestinal disease) belongs under 'Righteous Death' \u2014 the passage should sit under the first heading that covers the beginning of this sequence, with all four sayings grouped together there.",
+      "chosen_heading": "Righteous Death",
+      "current_heading": "Tosefes Shabbat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Collecting Tzedakah",
+    "candidates": [
+      "Beit Midrash Sitters",
+      "Collecting Tzedakah",
+      "Innocent Suspicion",
+      "Family Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the collector/distributor of charity statement and the innocent suspicion statement, and the current placement under 'Collecting Tzedakah' is where the passage sits \u2014 but actually the passage spans both headings 1 and 2; however since it must be placed under one heading and the passage begins with the tzedakah collector/distributor content which matches heading 1's prose, and heading 2's prose separately discusses the suspicion content, the current placement at index 1 is correct given that both statements appear together in the Talmudic text and the essay treats them in sequence under adjacent headings.",
+      "chosen_heading": "Collecting Tzedakah",
+      "current_heading": "Collecting Tzedakah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Family Life",
+    "candidates": [
+      "Innocent Suspicion",
+      "Family Life",
+      "Wife as Home"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yosei's five intimate encounters and five sons (including the Vardimas/Mena\u1e25em identification and the bo'el ve-shoneh resolution) is precisely what the 'Family Life' section prose describes.",
+      "chosen_heading": "Family Life",
+      "current_heading": "Family Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Wife as Home",
+    "candidates": [
+      "Wife as Home",
+      "Modesty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Rabbi Yosei's euphemistic references to his wife as 'my home' and his ox as 'my field,' which is precisely what the 'Wife as Home' section's prose discusses in detail.",
+      "chosen_heading": "Wife as Home",
+      "current_heading": "Wife as Home",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Modesty",
+    "candidates": [
+      "Modesty",
+      "Extreme Modesty",
+      "No Strife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yosi's modesty claim and Rabbi Yehuda HaNasi's identical claim plus the additional detail about his belt, which is precisely what heading 0's prose introduces as a unit, while heading 1 only covers the 'additional level' explanation as a separate point.",
+      "chosen_heading": "Modesty",
+      "current_heading": "Modesty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "No Strife",
+    "candidates": [
+      "Extreme Modesty",
+      "No Strife",
+      "Careful Speech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosi statements \u2014 the one about never violating friends' words (with the kohen/duchan example) AND the one about never retreating from his words \u2014 and the current placement under 'No Strife' covers both, with the second statement's prose under 'Careful Speech' describing a different interpretation of the second quote than what the passage actually says.",
+      "chosen_heading": "No Strife",
+      "current_heading": "No Strife",
+      "moved": false
+    }
+  }
+]

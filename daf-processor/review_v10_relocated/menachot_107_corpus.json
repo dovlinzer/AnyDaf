@@ -1,0 +1,416 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Oil Offering Debate",
+    "candidates": [
+      "Wine Vows Intro",
+      "Wine Minimum",
+      "Oil Offering Debate",
+      "Wine Source Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the case of 'perashti ve-eini yodea mah perashti / yavi ke-yom merube' \u2014 specifying an oil vow amount but not remembering it \u2014 which is explicitly discussed and anticipated in the 'Oil Offering Debate' prose.",
+      "chosen_heading": "Oil Offering Debate",
+      "current_heading": "Oil Offering Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Wine Source Pasuk",
+    "candidates": [
+      "Wine Source Pasuk",
+      "Wine Increase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage teaches that one may voluntarily pledge wine as a standalone offering and that the minimum quantity is three log \u2014 exactly what the 'Wine Source Pasuk' prose describes, covering the derivation from 'ezrach' and the three-log minimum.",
+      "chosen_heading": "Wine Source Pasuk",
+      "current_heading": "Wine Source Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Wine Increase",
+    "candidates": [
+      "Wine Increase",
+      "Derash Methodology"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wine Increase",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the derivation that one may add to the wine libation amount and may not decrease it, which matches exactly the 'Wine Increase' prose about yihye and kacha.",
+      "second_heading": "Derash Methodology",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new dispute between the Rabbis and Rabbi about oil minimums and asks 'be-mai ka-miflegi,' which is precisely what the 'Derash Methodology' prose discusses as its opening topic.",
+      "current_heading": "Wine Increase",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Derash Methodology",
+    "candidates": [
+      "Derash Methodology",
+      "Rabbanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Sages' statement before Rav Pappa about the dispute between don minah u-minah versus don minah ve-oki be-atrah, which is exactly what the 'Derash Methodology' prose section describes and analyzes.",
+      "chosen_heading": "Derash Methodology",
+      "current_heading": "Derash Methodology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rabbanan Position",
+    "candidates": [
+      "Rabbanan Position",
+      "Rabbi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the Rabbis' position using 'don minah u-minah,' deriving that oil is contributed like a meal offering and that the quantity is one log, which precisely matches the Rabbanan Position prose.",
+      "chosen_heading": "Rabbanan Position",
+      "current_heading": "Rabbanan Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabbi Position",
+    "candidates": [
+      "Rabbi Position",
+      "Rav Pappa Resolve"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda HaNasi's 'don minah ve-oki be-atrah' reasoning connecting oil to mincha and nesachim at three log, which is precisely what the 'Rabbi Position' prose describes.",
+      "chosen_heading": "Rabbi Position",
+      "current_heading": "Rabbi Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav Pappa Resolve",
+    "candidates": [
+      "Rav Pappa Resolve",
+      "Rav Huna Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement rejecting the mincha derivation and asserting that Rabbi derives from the ezrach verse, which exactly matches the prose under 'Rav Pappa Resolve.'",
+      "chosen_heading": "Rav Pappa Resolve",
+      "current_heading": "Rav Pappa Resolve",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Huna Challenge",
+    "candidates": [
+      "Rav Huna Challenge",
+      "Oil Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts exactly the challenge from Rav Huna berei de-Rav Natan to Rav Pappa regarding the baraita deriving three log from 'korban' and Rav Pappa's concession, which is precisely what the 'Rav Huna Challenge' prose describes.",
+      "chosen_heading": "Rav Huna Challenge",
+      "current_heading": "Rav Huna Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Oil Uncertainty",
+    "candidates": [
+      "Oil Uncertainty",
+      "Olah Lamb Default",
+      "Olah Birds Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of specifying an unknown oil amount and the maximum day (first day of Sukkot falling on Shabbat), which is exactly what the 'Oil Uncertainty' prose describes.",
+      "chosen_heading": "Oil Uncertainty",
+      "current_heading": "Oil Uncertainty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Olah Birds Debate",
+    "candidates": [
+      "Olah Lamb Default",
+      "Olah Birds Debate",
+      "Cattle Uncertainty",
+      "All Mammals Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents both the default ruling (bring a lamb) and Rabbi Elazar ben Azaryah's dissent as a single unit, and the prose of heading 0 ('Olah Lamb Default') explicitly introduces this mishna case of harei alai olah and the keves ruling, making it the natural home for the full mishna passage rather than splitting it under the subsequent heading about the birds debate.",
+      "chosen_heading": "Olah Lamb Default",
+      "current_heading": "Olah Birds Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "All Mammals Uncertainty",
+    "candidates": [
+      "Cattle Uncertainty",
+      "All Mammals Uncertainty",
+      "Todah Lamb Minimum",
+      "Todah Cattle Gender",
+      "Todah All Mammals",
+      "Ox Price",
+      "Calf Price",
+      "Ram Price",
+      "Lamb Price"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "All Mammals Uncertainty",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the olah uncertainty cases (cattle, all mammals, and unspecified including birds), which exactly matches the 'All Mammals Uncertainty' prose describing par ve-egel, ayil, sa'ir, gedi u-taleh plus the addition of tor u-ven yonah.",
+      "second_heading": "Todah Cattle Gender",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a new case about todah/shelamim with peirashti min ha-bakar bringing par u-parah egel ve-eglah (both genders), which matches exactly the 'Todah Cattle Gender' prose describing the shift to gender-inclusive pairs for shelamim/todah.",
+      "current_heading": "All Mammals Uncertainty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Lamb Price",
+    "candidates": [
+      "Todah Lamb Minimum",
+      "Todah Cattle Gender",
+      "Todah All Mammals",
+      "Ox Price",
+      "Calf Price",
+      "Ram Price",
+      "Lamb Price",
+      "Price Excludes Nesachim",
+      "Two Animals Fail"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ox Price",
+      "first_confidence": "high",
+      "first_reason": "Item 1 lists the standard prices for bull, calf, ram, and lamb together with their nesachim, which is precisely what candidates 3-6 ('Ox Price' through 'Lamb Price') discuss \u2014 the mishna's price schedule starting with 'Harei alai shor'; placing it under candidate 3 ('Ox Price') captures the start of this unified price list.",
+      "second_heading": "Price Excludes Nesachim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the case where one specifies both the animal type and a price, meaning the nesachim are excluded from that stated amount, which is exactly what candidate 7 ('Price Excludes Nesachim') describes.",
+      "current_heading": "Lamb Price",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Two Animals Fail",
+    "candidates": [
+      "Price Excludes Nesachim",
+      "Two Animals Fail",
+      "Color Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the case of bringing two bulls worth a combined maneh instead of one bull worth a maneh, which is precisely what the 'Two Animals Fail' section's prose discusses.",
+      "chosen_heading": "Two Animals Fail",
+      "current_heading": "Two Animals Fail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Color Specificity",
+    "candidates": [
+      "Color Specificity",
+      "Size Dispute",
+      "Tanna Kamma: Large OK",
+      "Rabbi: Large Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full sequence from color specifications through the size dispute and the machloket between Tanna Kamma and Rabbi, making 'Size Dispute' the best single heading since it introduces the transition from color to size and the controversy that follows.",
+      "chosen_heading": "Size Dispute",
+      "current_heading": "Color Specificity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Rabbi: Large Fails",
+    "candidates": [
+      "Size Dispute",
+      "Tanna Kamma: Large OK",
+      "Rabbi: Large Fails",
+      "Gemara Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the case of an unspecified burnt-offering vow and the role of locale/specificity in determining which animal must be brought \u2014 content that directly supports the Gemara's discussion referenced in candidate 3's prose about why one cannot simply bring an ox to cover all possibilities.",
+      "chosen_heading": "Gemara Question",
+      "current_heading": "Rabbi: Large Fails",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Gemara Question",
+    "candidates": [
+      "Rabbi: Large Fails",
+      "Gemara Question",
+      "Mixed Opinions",
+      "Rabbi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items together form the Gemara's challenge about mixed opinions in the mishna (reisha/metzi'ata/seifa), which is precisely what candidate 2 'Mixed Opinions' discusses \u2014 the difficulty that if the opening follows Rabbi, the middle follows Rabbis, and the end returns to Rabbi.",
+      "chosen_heading": "Mixed Opinions",
+      "current_heading": "Gemara Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rabbi Position",
+    "candidates": [
+      "Mixed Opinions",
+      "Rabbi Position",
+      "Debate Framework",
+      "Six Horns Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly answers the question raised in candidate 0's prose ('Reisha ve-seifa Rebbi, metzi'ata Rabbanan?') with the Gemara's confirmation 'ein' and explanation that this matter is a dispute between Rabbi and the Rabbis \u2014 it is the direct resolution of the question posed in that section.",
+      "chosen_heading": "Mixed Opinions",
+      "current_heading": "Rabbi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Six Horns Intro",
+    "candidates": [
+      "Debate Framework",
+      "Six Horns Intro",
+      "Six Families Theory",
+      "Coin Preservation",
+      "Animal Types Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the introductory unit for the six horns discussion: item 1 introduces the mishna and the question 'to what do they correspond,' item 2 gives \u1e24izkiyya's answer (which belongs under 'Six Families Theory' only as a standalone, but here it precedes Rabbi Yo\u1e25anan's answer), and item 3 gives Rabbi Yo\u1e25anan's answer \u2014 yet the 'Six Horns Intro' prose explicitly frames the question 'why specifically six boxes rather than one,' making it the natural home for the opening question plus the first answers that respond to it, consistent with current placement.",
+      "chosen_heading": "Six Horns Intro",
+      "current_heading": "Six Horns Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Animal Types Theory",
+    "candidates": [
+      "Six Families Theory",
+      "Coin Preservation",
+      "Animal Types Theory",
+      "Rabbi Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Ze'eiri's explanation about the six animal types corresponding to the collection horns, which is exactly what the 'Animal Types Theory' section's prose describes.",
+      "chosen_heading": "Animal Types Theory",
+      "current_heading": "Animal Types Theory",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Both Partners Forbidden",
+    "candidates": [
+      "Intro & Overview",
+      "Both Partners Forbidden",
+      "One Partner Forbidden",
+      "Third Party Forbidden",
+      "Bathhouse/Press Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Both Partners Forbidden",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the opening Mishnah case where BOTH partners are mutually forbidden from benefit and the prohibition on mill/oven/chickens, which matches exactly the 'Both Partners Forbidden' prose discussion.",
+      "second_heading": "One Partner Forbidden",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the cases where only ONE partner is forbidden and where a THIRD PARTY from the marketplace is forbidden, which correspond precisely to the 'One Partner Forbidden' and 'Third Party Forbidden' sections \u2014 item 3 matches 'One Partner Forbidden' but item 4 (the marketplace stranger case) structurally belongs to a new Mishnah scenario; however since items 3-4 together start a new set of cases and the next section heading 'One Partner Forbidden' covers item 3's content explicitly, the split should place items 3-4 under heading 2.",
+      "current_heading": "Both Partners Forbidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Bathhouse/Press Case",
+    "candidates": [
+      "One Partner Forbidden",
+      "Third Party Forbidden",
+      "Bathhouse/Press Case",
+      "House/Field Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the exact mishnah text about the bathhouse/olive press case with tefisat yad, which is precisely what the 'Bathhouse/Press Case' section's prose discusses.",
+      "chosen_heading": "Bathhouse/Press Case",
+      "current_heading": "Bathhouse/Press Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "House/Field Ownership",
+    "candidates": [
+      "House/Field Ownership",
+      "Bidirectional Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishnah's distinction between 'your house/field' (ownership-contingent) and 'this house/field' (object-contingent) formulations, which is precisely what the 'House/Field Ownership' section's prose analyzes in detail.",
+      "chosen_heading": "House/Field Ownership",
+      "current_heading": "House/Field Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Bidirectional Question",
+    "candidates": [
+      "Bidirectional Question",
+      "Forced Sale as Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong to the opening gemara dilemma about nadru vs. hediru ze et ze, which is precisely what heading 0 ('Bidirectional Question') discusses \u2014 the ibaya and the question of whether ones changes the Rabbanan's position.",
+      "chosen_heading": "Bidirectional Question",
+      "current_heading": "Bidirectional Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Forced Sale as Proof",
+    "candidates": [
+      "Forced Sale as Proof",
+      "Ones Paradox",
+      "Rabba: Small = Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's argument that the forced-sale clause (seifa) proves the mishna is discussing one who himself vowed, which is precisely what the prose of 'Forced Sale as Proof' describes.",
+      "chosen_heading": "Forced Sale as Proof",
+      "current_heading": "Forced Sale as Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rabba: Small = Permitted",
+    "candidates": [
+      "Ones Paradox",
+      "Rabba: Small = Permitted",
+      "Yosef: BK Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabba's ruling in the name of Ze'eiri that the dispute applies only when there is sufficient area for division (yesh bah kedei chalukah), while a courtyard too small to divide is permitted by everyone \u2014 exactly the content described in the 'Rabba: Small = Permitted' prose section.",
+      "chosen_heading": "Rabba: Small = Permitted",
+      "current_heading": "Rabba: Small = Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Yosef: BK Analogy",
+    "candidates": [
+      "Yosef: BK Analogy",
+      "Yosef: Size Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's synagogue analogy challenging Rabba's position, which is precisely what candidate 0's prose describes \u2014 the beit knesset as an indivisible communal space that is assur, defeating Rabba's framework.",
+      "chosen_heading": "Yosef: BK Analogy",
+      "current_heading": "Yosef: BK Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Yosef: Size Distinction",
+    "candidates": [
+      "Yosef: Size Distinction",
+      "Halacha Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef/Ze'eiri's distinction between small and large courtyards, which is precisely what heading 0 ('Yosef: Size Distinction') discusses in its prose.",
+      "chosen_heading": "Yosef: Size Distinction",
+      "current_heading": "Yosef: Size Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Halacha Ruling",
+    "candidates": [
+      "Halacha Ruling",
+      "How Breira Works",
+      "Why Ones Justifies Breira",
+      "Partnership Assumptions",
+      "Rav Nachman: Tefisat Yad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct halachic ruling by Rav Huna and Rabbi Elazar that the halacha follows Rabbi Eliezer ben Yaakov, which is precisely what the 'Halacha Ruling' section's prose describes and contextualizes.",
+      "chosen_heading": "Halacha Ruling",
+      "current_heading": "Halacha Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rav Nachman: Tefisat Yad",
+    "candidates": [
+      "How Breira Works",
+      "Why Ones Justifies Breira",
+      "Partnership Assumptions",
+      "Rav Nachman: Tefisat Yad",
+      "Abaye: <25% Tefisat Yad",
+      "Percentage vs Fixed Rate",
+      "Market Practice Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the tefisat yad question from the mishna, Rav Nachman's ruling on half/third/quarter thresholds, Abaye's disagreement about smaller percentages, and the taska resolution \u2014 all of which are introduced and discussed in candidate 3's prose, making the current placement correct.",
+      "chosen_heading": "Rav Nachman: Tefisat Yad",
+      "current_heading": "Rav Nachman: Tefisat Yad",
+      "moved": false
+    }
+  }
+]

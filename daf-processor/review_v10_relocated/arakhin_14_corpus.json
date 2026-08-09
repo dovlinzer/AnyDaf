@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Categories Explained",
+    "candidates": [
+      "New Chapter Overview",
+      "Categories Explained",
+      "Beautiful vs. Homely: 50"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, which is directly quoted and introduced in the 'New Chapter Overview' prose, making it the natural home for this opening mishna rather than the 'Categories Explained' section which discusses the mishna's content analytically.",
+      "chosen_heading": "New Chapter Overview",
+      "current_heading": "Categories Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Beautiful vs. Homely: 50",
+    "candidates": [
+      "Categories Explained",
+      "Beautiful vs. Homely: 50",
+      "Jews vs. Non-Jews",
+      "No Praise for Non-Jews",
+      "Single Nation Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beautiful vs. Homely: 50",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the erachin case of beautiful vs. homely paying fifty sela, which matches candidate 1's prose about the fixed fifty-shekel rate applying regardless of attractiveness.",
+      "second_heading": "Jews vs. Non-Jews",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 form the Gemara discussion about Jews vs. non-Jews in erachin, Rabbi Meir's position, and the incidental teaching about praising non-Jews, all of which matches candidate 2's prose about the gemara's inference from 'shebeyisrael' and the challenge from Rabbi Meir's opinion.",
+      "current_heading": "Beautiful vs. Homely: 50",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Single Nation Principle",
+    "candidates": [
+      "Jews vs. Non-Jews",
+      "No Praise for Non-Jews",
+      "Single Nation Principle",
+      "Bad & Premium Land Rate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about why the mishna limits itself to one nation (Jews), including the challenge from Kohanim/Israelites and the alternative answer about sdei achuza \u2014 exactly what the 'Single Nation Principle' prose describes.",
+      "chosen_heading": "Single Nation Principle",
+      "current_heading": "Single Nation Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Bad & Premium Land Rate",
+    "candidates": [
+      "Bad & Premium Land Rate",
+      "Rav Huna: Field + Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mishna about bad/premium land rates and Rabbi Eliezer's dispute \u2014 are explicitly discussed together in the 'Bad & Premium Land Rate' prose, which covers both the fixed-rate rule for ancestral fields and Rabbi Eliezer's view about the chomesh distinction.",
+      "chosen_heading": "Bad & Premium Land Rate",
+      "current_heading": "Bad & Premium Land Rate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Rav Huna: Field + Trees",
+    "candidates": [
+      "Rav Huna: Field + Trees",
+      "Potential vs. Actual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Huna's ruling about redeeming a field full of trees (item 1) and the challenge/response exchange with Rav Na\u1e25man about that same ruling (item 2), which is precisely what the 'Rav Huna: Field + Trees' prose describes.",
+      "chosen_heading": "Rav Huna: Field + Trees",
+      "current_heading": "Rav Huna: Field + Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Potential vs. Actual",
+    "candidates": [
+      "Potential vs. Actual",
+      "Three Trees Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial baraita challenge about 'beit zera' and fields of vines/reeds/trees, which is precisely what the prose under 'Potential vs. Actual' describes as its opening challenge and subsequent discussion.",
+      "chosen_heading": "Potential vs. Actual",
+      "current_heading": "Potential vs. Actual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Three Trees Case",
+    "candidates": [
+      "Three Trees Case",
+      "Rabbi Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain: Rav Huna's response to the baraita (item 1), Rav Na\u1e25man's objection about three trees (item 2), the less/more-dense case (item 3), the sequential consecration case (item 4), and the logical refutation of Rav Huna's reading via the seifa (item 5) \u2014 all of which are explicitly described and resolved in the 'Three Trees Case' prose.",
+      "chosen_heading": "Three Trees Case",
+      "current_heading": "Three Trees Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Rabbi Shimon Position",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Inherited Land Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the content described in the 'Rabbi Shimon Position' prose: item 1 is the baraita establishing Rabbi Shimon's narrow consecration view (charuv hamurkav / sadan hashikma), and item 2 is the gemara's immediate challenge from the seifa about redeeming trees consecrated before land \u2014 both explicitly anticipated in that section's prose.",
+      "chosen_heading": "Rabbi Shimon Position",
+      "current_heading": "Rabbi Shimon Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Inherited Land Status",
+    "candidates": [
+      "Inherited Land Status",
+      "Rocky Fields Market Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items deal with the question of whether a field purchased from one's father is treated as sdei achuza or sdei mikneh for redemption purposes, the dispute between Rabbi Meir, Rabbi Yehuda, and Rabbi Shimon, and Rav Nachman bar Yitzchak's resolution \u2014 exactly the content described in the 'Inherited Land Status' prose.",
+      "chosen_heading": "Inherited Land Status",
+      "current_heading": "Inherited Land Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rocky Fields Market Value",
+    "candidates": [
+      "Rocky Fields Market Value",
+      "Trees Alone: Market Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Pappa's ruling about consecrating rocky fields (terashin) and redeeming them at market value because they are not fit for sowing, which is precisely what the 'Rocky Fields Market Value' prose discusses.",
+      "chosen_heading": "Rocky Fields Market Value",
+      "current_heading": "Rocky Fields Market Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Trees Alone: Market Value",
+    "candidates": [
+      "Trees Alone: Market Value",
+      "Rabbi Eliezer Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with the same cluster of Rav Pappa rulings about rocky fields, consecrated trees, and sold trees \u2014 including the objection from the Neharde'a principle about land beneath a palm \u2014 which is precisely what the 'Trees Alone: Market Value' prose section describes in detail.",
+      "chosen_heading": "Trees Alone: Market Value",
+      "current_heading": "Trees Alone: Market Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Rabbi Eliezer Position",
+    "candidates": [
+      "Rabbi Eliezer Position",
+      "Chachamim Position",
+      "Rava: Chomesh Analysis",
+      "Shnei Ktuvim Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chachamim Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the baraita establishing the Chachamim's position (market value via 'worth') and Rabbi Eliezer's gezeirah shavah argument, which together constitute the Chachamim vs. Rabbi Eliezer dispute that belongs under 'Chachamim Position'.",
+      "second_heading": "Rava: Chomesh Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 3 poses exactly the dilemma about whether the Chachamim accept the gezeirah shavah and its chomesh implication, which is precisely what the 'Rava: Chomesh Analysis' prose describes as the gemara's next question.",
+      "current_heading": "Rabbi Eliezer Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Shnei Ktuvim Principle",
+    "candidates": [
+      "Chachamim Position",
+      "Rava: Chomesh Analysis",
+      "Shnei Ktuvim Principle",
+      "Slave: Fixed 30 Shekalim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Rava's reasoning about shnei ktuvim ha-ba'im ke-echad and the multiplicity of chomesh contexts, which is precisely what the 'Shnei Ktuvim Principle' prose describes in detail.",
+      "chosen_heading": "Shnei Ktuvim Principle",
+      "current_heading": "Shnei Ktuvim Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Slave: Fixed 30 Shekalim",
+    "candidates": [
+      "Slave: Fixed 30 Shekalim",
+      "Tame vs. Muad Ox"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Slave: Fixed 30 Shekalim",
+      "current_heading": "Slave: Fixed 30 Shekalim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Tame vs. Muad Ox",
+    "candidates": [
+      "Tame vs. Muad Ox",
+      "Muad Context Explains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial question about whether the mishna applies only to a muad ox and not a tam ox, and raises Rabbi Akiva's opposing view \u2014 exactly the content described in the 'Tame vs. Muad Ox' prose, before the resolution discussed under 'Muad Context Explains'.",
+      "chosen_heading": "Tame vs. Muad Ox",
+      "current_heading": "Tame vs. Muad Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Muad Context Explains",
+    "candidates": [
+      "Muad Context Explains",
+      "Offense: Fixed 50 Sela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the mishna uses 'muad' rather than 'tam' by pointing to the killing cases, which is exactly what the prose under 'Muad Context Explains' discusses.",
+      "chosen_heading": "Muad Context Explains",
+      "current_heading": "Muad Context Explains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Offense: Fixed 50 Sela",
+    "candidates": [
+      "Offense: Fixed 50 Sela",
+      "Boshet/Pgam Variable",
+      "Rav Zeira Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces both the fixed fifty sela payment and the variable boshet/pgam in one passage, but its primary structural point is the lehakeil ulehachmir dynamic around the fixed fifty sela fine, which is exactly what the 'Offense: Fixed 50 Sela' prose discusses, making the current placement correct.",
+      "chosen_heading": "Offense: Fixed 50 Sela",
+      "current_heading": "Offense: Fixed 50 Sela",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Rav Zeira Objection",
+    "candidates": [
+      "Boshet/Pgam Variable",
+      "Rav Zeira Objection",
+      "Rava Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the initial question about why fifty sela doesn't cover everything, Rav Zeira's objection about princess vs. commoner, Abaye's challenge about the slave analogy, and Rav Zeira's refined formulation about the two violators \u2014 are precisely the content described in candidate 1's prose ('Rav Zeira Objection'), which quotes all these exact arguments verbatim.",
+      "chosen_heading": "Rav Zeira Objection",
+      "current_heading": "Rav Zeira Objection",
+      "moved": false
+    }
+  }
+]

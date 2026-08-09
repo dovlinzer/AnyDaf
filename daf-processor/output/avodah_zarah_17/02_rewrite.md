@@ -188,24 +188,6 @@ The *gemara* connects the *bas kol*'s answer to the earlier question: what about
 
 ---
 
-## Proverbs Interpretation
-
-*(continued — see above)*
-
----
-
-## Physical Contact Rules
-
-*(continued — see above)*
-
----
-
-## Leech's Daughters
-
-*(continued — see above)*
-
----
-
 ## Crossroads Story
 
 ### Fork Choice

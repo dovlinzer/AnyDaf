@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Three Categories of Creditors and Land Quality Distribution",
@@ -63,7 +63,7 @@
           "timestamp": "05:17"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "17:12"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -136,8 +136,8 @@
           "timestamp": "21:25"
         }
       ],
-      "sefaria_index": 7,
-      "matched": false
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Machar Lokeach: Sales of Property and Creditor Collection Rights",
@@ -204,7 +204,7 @@
           "timestamp": "35:53"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -238,7 +238,7 @@
           "timestamp": "43:13"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -262,8 +262,8 @@
           "timestamp": "47:22"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Application: Buyer Sells A, Retains B and C",
@@ -301,7 +301,7 @@
           "timestamp": "49:38"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 28,
       "matched": true
     }
   ],
@@ -519,5 +519,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "35:53",
+  "amud_b_micro_title": "Leverage Fails",
+  "shiur_start_daf": 8,
+  "shiur_start_amud": "a"
 }

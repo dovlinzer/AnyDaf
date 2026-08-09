@@ -1,0 +1,277 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Incident Description",
+    "candidates": [
+      "Opening & Distinctions",
+      "Issur Hana'ah Question",
+      "Rishonim Debates",
+      "Incident Description",
+      "Rav's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the incident in Biram \u2014 the gentile climbing the palm tree, bringing down the lulav branch, and unintentionally touching the wine \u2014 which is precisely what the 'Incident Description' prose section narrates and analyzes.",
+      "chosen_heading": "Incident Description",
+      "current_heading": "Incident Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rav's Ruling",
+    "candidates": [
+      "Rav's Ruling",
+      "Challenge to Rav",
+      "Rav's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the challenge by Rav Kahana and Rav Asi to Rav about the day-old infant rendering wine yayin nesech, AND Rav's response distinguishing drinking from benefit \u2014 but candidate 1 ('Challenge to Rav') covers the challenge portion while candidate 2 ('Rav's Defense') covers the response; however, since the passage contains both the challenge and Rav's reply in one unit, and candidate 1's prose describes the challenge (which opens the passage) while candidate 2 describes Rav's defense separately, the passage as a whole fits best under candidate 1 which introduces the exchange, with Rav's reply being part of that same Talmudic unit \u2014 but actually candidate 2's prose explicitly quotes and discusses Rav's 'eimar de'amri ana beshtiya / behana'ah mi amri' response which is the substantive content of this passage, making candidate 2 the clearly better match.",
+      "chosen_heading": "Challenge to Rav",
+      "current_heading": "Rav's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav's Defense",
+    "candidates": [
+      "Challenge to Rav",
+      "Rav's Defense",
+      "Rav Restatement",
+      "Tosefta Challenge",
+      "Tosefta Full Text",
+      "Tumah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states Rav's ruling that a day-old infant renders wine yayin nesech, which matches candidate 2 ('Rav Restatement') whose prose explicitly discusses this same statement on its own terms, rather than candidate 1 which discusses Rav's defensive distinction in response to a challenge.",
+      "chosen_heading": "Rav Restatement",
+      "current_heading": "Rav's Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Tumah Status",
+    "candidates": [
+      "Rav Restatement",
+      "Tosefta Challenge",
+      "Tosefta Full Text",
+      "Tumah Status",
+      "Wine Section"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about slaves who were circumcised but not yet immersed (shemalu velo tavlu) and their tumah status, which matches the 'Tosefta Full Text' section's prose that specifically discusses this intermediate stage of milah without tevilah for both purchased slaves and benei shfachot.",
+      "chosen_heading": "Tosefta Full Text",
+      "current_heading": "Tumah Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Wine Section",
+    "candidates": [
+      "Tumah Status",
+      "Wine Section",
+      "Contradiction Analysis",
+      "Braita Reasoning",
+      "Rav Interprets Braita",
+      "Shmuel's Strictness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita text about adults rendering yayin nesech and children not, with the distinction based on knowledge of avodah zarah, which is exactly what the 'Wine Section' prose discusses.",
+      "chosen_heading": "Wine Section",
+      "current_heading": "Wine Section",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Shmuel's Strictness",
+    "candidates": [
+      "Contradiction Analysis",
+      "Braita Reasoning",
+      "Rav Interprets Braita",
+      "Shmuel's Strictness",
+      "Shmuel's Reasoning",
+      "Practical Concerns",
+      "Twelve Months Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items continue the Gemara's resolution of the contradiction between the baraita and Rav's ruling \u2014 interpreting the baraita as referring to benei shfachot, handling the 'vekhen' objection, and culminating in the teaching that circumcised-and-immersed slaves do not render wine prohibited (to the exclusion of Shmuel's stricter view) \u2014 which matches exactly the prose of 'Rav Interprets Braita' describing how Rav reinterprets the baraita's scope via benei shfachot and the parallel treatment of tumah laws.",
+      "chosen_heading": "Rav Interprets Braita",
+      "current_heading": "Shmuel's Strictness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Twelve Months Rule",
+    "candidates": [
+      "Shmuel's Reasoning",
+      "Practical Concerns",
+      "Twelve Months Rule",
+      "Rava's Proof",
+      "Shmuel Reinterprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Shmuel's ruling (via Rav Na\u1e25man) that slaves render yayin nesech until avodah zarah ceases from their mouths, plus Rabbi Yehoshua ben Levi's twelve-month quantification \u2014 this is the foundational statement that heading 0 'Shmuel's Reasoning' discusses, as its prose is dedicated to analyzing exactly this text and Shmuel's criterion of 'shetishka mipeihem.'",
+      "chosen_heading": "Shmuel's Reasoning",
+      "current_heading": "Twelve Months Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Shmuel Reinterprets",
+    "candidates": [
+      "Rava's Proof",
+      "Shmuel Reinterprets",
+      "Reconciliation",
+      "Final Disagreement",
+      "Shop Encounter",
+      "Sale & Pouring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's objection to Rav Na\u1e25man (defending Shmuel) from the baraita about slaves circumcised but not immersed, followed by the gemara's resolution and the teaching about adults vs. minors and the exclusion of Rav's position \u2014 this entire chain matches the prose of 'Rava's Proof' which describes exactly this challenge and its resolution, not the current placement under 'Shmuel Reinterprets' which belongs to a different stage of the argument.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Shmuel Reinterprets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Sale & Pouring",
+    "candidates": [
+      "Reconciliation",
+      "Final Disagreement",
+      "Shop Encounter",
+      "Sale & Pouring",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the incident in Mahoza where a gentile entered a Jewish wine shop, was told there was no wine, yet found wine in a bucket and stirred it \u2014 exactly what the 'Shop Encounter' prose section describes.",
+      "chosen_heading": "Shop Encounter",
+      "current_heading": "Sale & Pouring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Sale & Pouring",
+      "Rava's Ruling",
+      "Two Readings",
+      "Competing Rulings",
+      "Rava Excludes Rival"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes both Rava's ruling and the competing rulings of Rav Huna bar \u1e24innana and Rav Huna son of Rav Na\u1e25man, along with the public proclamations via shofarot \u2014 content that matches heading 3 ('Competing Rulings') which specifically discusses both sides dispatching students to publicly proclaim their positions.",
+      "chosen_heading": "Competing Rulings",
+      "current_heading": "Rava's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rava Excludes Rival",
+    "candidates": [
+      "Two Readings",
+      "Competing Rulings",
+      "Rava Excludes Rival",
+      "Confrontation",
+      "Rava Backs Down"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rava instructing his attendant Rav Elyakim to close the gates to prevent people from disturbing them when Rav Huna brei deRav Nachman arrived in Mahoza, which directly matches the 'Rava Excludes Rival' prose about Rava barring Rav Huna from the city to prevent disruption.",
+      "chosen_heading": "Rava Excludes Rival",
+      "current_heading": "Rava Excludes Rival",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rava Backs Down",
+    "candidates": [
+      "Confrontation",
+      "Rava Backs Down",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Huna entering Rava's presence and pressing the question 'ki hai gavna mai,' which matches the 'Confrontation' heading's prose describing exactly this direct challenge, whereas the current placement under 'Rava Backs Down' describes what happens after this initial exchange.",
+      "chosen_heading": "Confrontation",
+      "current_heading": "Rava Backs Down",
+      "moved": true
+    }
+  }
+]

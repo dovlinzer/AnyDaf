@@ -1,0 +1,309 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Why Rosh Chodesh?",
+    "candidates": [
+      "Intro to Megillat Ta'anit",
+      "Two Day Categories",
+      "Tanna Kamma vs. R. Yossi",
+      "Why Rosh Chodesh?",
+      "Purpose of Eulogies",
+      "Rav's Answer",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the baraita from Megillat Ta'anit listing the days and the immediate Gemara question about why Rosh Chodesh is mentioned, which is precisely what heading 3 ('Why Rosh Chodesh?') describes in its prose.",
+      "chosen_heading": "Why Rosh Chodesh?",
+      "current_heading": "Why Rosh Chodesh?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Purpose of Eulogies",
+      "Rav's Answer",
+      "Biblical vs. Rabbinic",
+      "Why Through End?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the principle that Rosh Chodesh/biblical law does not require reinforcement (lo ba'ei chizuk), which is the exact content Rav's Answer prose discusses \u2014 the Gemara's question about why Rosh Chodesh's independent status doesn't prohibit the day before it, answered by the de-Oraita principle, followed by the baraita that makes this principle explicit.",
+      "chosen_heading": "Rav's Answer",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Why Through End?",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Why Through End?",
+      "Rav Papa's Answer",
+      "Rabbi Yossi Position",
+      "29th Coverage Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why Through End?",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Gemara's question about why Megillat Ta'anit extends through the end of Passover and Rav Pappa's initial answer, which matches heading 1 ('Why Through End?') whose prose describes exactly this question and Rav Pappa's response about rendering Isru Chag forbidden.",
+      "second_heading": "Rabbi Yossi Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the challenge that this analysis depends on Rabbi Yossi's position (bein lefanav bein le-acharav assur) and then immediately introduces the twenty-ninth of Adar difficulty, matching heading 3 ('Rabbi Yossi Position') whose prose discusses exactly this observation that the entire analysis depends on Rabbi Yossi's view.",
+      "current_heading": "Why Through End?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "29th Coverage Issue",
+    "candidates": [
+      "Rav Papa's Answer",
+      "Rabbi Yossi Position",
+      "29th Coverage Issue",
+      "Abaye: 30-Day Month"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the twenty-eighth of Adar event from Megillat Ta'anit (the annulment of decrees against Torah, milah, and Shabbat), which is precisely the historical background that candidate 2's prose explicitly references as the basis for the Gemara's question about whether the twenty-ninth is already covered.",
+      "chosen_heading": "29th Coverage Issue",
+      "current_heading": "29th Coverage Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Abaye: 30-Day Month",
+    "candidates": [
+      "Abaye: 30-Day Month",
+      "Rav Ashi: Double Coverage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's statement about a full thirty-day month (chodesh meubar), which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Abaye: 30-Day Month",
+      "current_heading": "Abaye: 30-Day Month",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rav Ashi: Double Coverage",
+    "candidates": [
+      "Rav Ashi: Double Coverage",
+      "Overlap & Contingency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about a deficient month and a day positioned between two holidays being treated like a holiday itself, which is precisely what the prose in candidate 0 describes and analyzes.",
+      "chosen_heading": "Rav Ashi: Double Coverage",
+      "current_heading": "Rav Ashi: Double Coverage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Overlap & Contingency",
+    "candidates": [
+      "Overlap & Contingency",
+      "Rav's Position",
+      "Shmuel's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the question of why overlapping dates appear in Megillat Ta'anit and the built-in resilience logic (if one period is canceled, the shared date remains prohibited due to the other period), which is precisely what the 'Overlap & Contingency' prose describes.",
+      "chosen_heading": "Overlap & Contingency",
+      "current_heading": "Overlap & Contingency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Shmuel's Leniency",
+    "candidates": [
+      "Rav's Position",
+      "Shmuel's Leniency",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Shmuel's initial ruling like Rabbi Meir, the challenge from Rabban Shimon ben Gamliel's baraita, and the resolution explaining Shmuel's evolution to the most lenient position \u2014 are precisely what the 'Shmuel's Leniency' prose describes in detail, making this the clear and correct placement.",
+      "chosen_heading": "Shmuel's Leniency",
+      "current_heading": "Shmuel's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Reading Megilla Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly transmits the Bali-Rabbi \u1e24iyya bar Abba-Rabbi Yo\u1e25anan chain ruling that halakha follows Rabbi Yosei, with Rabbi \u1e24iyya's clarification limiting it to d'lo l'hityana days, which is precisely what the prose under heading 0 ('Rabbi Yochanan') describes.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Reading Megilla Case",
+    "candidates": [
+      "Reading Megilla Case",
+      "Nikanor Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items trace the single continuous Gemara discussion about whether Rabbi Yo\u1e25anan's ruling is consistent with the unattributed mishna permitting hesped and fasting on early-megilla-reading days, working through the calendrical options (fourteenth, thirteenth/Nicanor, twelfth/Trajan, eleventh) and resolving that Yom Turaynus was annulled \u2014 exactly the content described in the 'Reading Megilla Case' prose.",
+      "chosen_heading": "Reading Megilla Case",
+      "current_heading": "Reading Megilla Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Nikanor Story",
+    "candidates": [
+      "Nikanor Story",
+      "Turaynus Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Nicanor story specifically, matching exactly the prose of candidate 0 which discusses Nicanor's daily threats against Jerusalem and the Hasmonean victory over him.",
+      "chosen_heading": "Nikanor Story",
+      "current_heading": "Nikanor Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Turaynus Story",
+    "candidates": [
+      "Turaynus Story",
+      "Holiday Nullification",
+      "Override Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together narrate the complete Turaynus/Trajan story \u2014 the taunt, the brothers' response, and the immediate retribution \u2014 which matches exactly the prose under heading 0 ('Turaynus Story').",
+      "chosen_heading": "Turaynus Story",
+      "current_heading": "Turaynus Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Override Principle",
+    "candidates": [
+      "Holiday Nullification",
+      "Override Principle",
+      "When Series Begins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the question of how many fasts constitute a 'beginning' (hatchalah) sufficient to override Megillat Ta'anit, with Rav A\u1e25a saying three and Rabbi Asi saying one \u2014 which is precisely what the 'When Series Begins' section's prose discusses.",
+      "chosen_heading": "When Series Begins",
+      "current_heading": "Override Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "When Series Begins",
+    "candidates": [
+      "Override Principle",
+      "When Series Begins",
+      "Ending the Fast",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ending the Fast",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dispute between Rabbi Meir and the Chachamim about whether one fasts and completes the fast, plus Mar Zutra's ruling \u2014 exactly the content described in candidates 2 ('Ending the Fast') and 3 ('Final Ruling'), with the Chachamim's position and Mar Zutra's final ruling fitting most naturally together under candidate 3 which explicitly mentions both the mitaneh u-mashlim ruling and the Hadran.",
+      "second_heading": "Final Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Hadran (closing formula 'Hadran lach Seder Taaniyot Keitzad'), which candidate 3's prose explicitly ends with '*Hadran lach Seder Taaniyot Keitzad*', making it clearly the correct home for this closing marker.",
+      "current_heading": "When Series Begins",
+      "moved": true
+    }
+  }
+]

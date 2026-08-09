@@ -1,0 +1,464 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Shechitas Pigul & Toda",
+    "candidates": [
+      "Im lo alos tayreidu",
+      "Zerika with Pigul Intent",
+      "Kodshim Kalim & Emurim",
+      "Mertzeh l'Pigulo",
+      "Pigul Before Zerika",
+      "Shechitas Pigul & Toda",
+      "Hapigul l'olam",
+      "Zerika vs. No Zerika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "All five items form a continuous discussion about whether pigul intent at the stage of shechita/removal of the handful alone creates full piggul status, which relates directly to Rav Giddel's ruling and the effects of shechitas pigul, fitting the current placement under 'Shechitas Pigul & Toda.'",
+      "chosen_heading": "Shechitas Pigul & Toda",
+      "current_heading": "Shechitas Pigul & Toda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Zerika vs. No Zerika",
+    "candidates": [
+      "Hapigul l'olam",
+      "Zerika vs. No Zerika",
+      "Novelty Question",
+      "Why Pigul Without Zerika",
+      "Olah Me'ila Analysis",
+      "Dam Linah & Me'ila"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Zerika vs. No Zerika",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 continue the Rav Ashi/Ravina resolution about todah and what 'kadash' means in the context of piggul and zerika timing, fitting the current heading's discussion of zerika vs. no-zerika issues.",
+      "second_heading": "Hapigul l'olam",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 are precisely the baraita 'hapigul l'olam mo'ilin bo' proof attempt and its deflections, which heading 0's prose explicitly describes.",
+      "current_heading": "Zerika vs. No Zerika",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Dam Linah & Me'ila",
+    "candidates": [
+      "Novelty Question",
+      "Why Pigul Without Zerika",
+      "Olah Me'ila Analysis",
+      "Dam Linah & Me'ila",
+      "Zerika Timing Proof",
+      "Reisha-Seifa Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items analyze the seifa about dam linah to prove the baraita discusses a chatas (not an olah), which matches candidate 4's prose exactly: 'Ei amart b'chatas, shapir \u2014 if we are dealing with a chatas, it makes perfect sense: a timely and valid zerika would remove the meat from me'ila status, whereas dam linah prevents that change.'",
+      "chosen_heading": "Zerika Timing Proof",
+      "current_heading": "Dam Linah & Me'ila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Reisha-Seifa Parallel",
+    "candidates": [
+      "Zerika Timing Proof",
+      "Reisha-Seifa Parallel",
+      "Active vs. Passive Psul",
+      "Physical Action Element"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether the seifa supporting Rav Giddel means the reisha also supports him, which is exactly the ho'il umesayei lei seifa mesayei lei nami reisha logic described in the Reisha-Seifa Parallel prose.",
+      "chosen_heading": "Reisha-Seifa Parallel",
+      "current_heading": "Reisha-Seifa Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Physical Action Element",
+    "candidates": [
+      "Active vs. Passive Psul",
+      "Physical Action Element",
+      "Concrete vs. Mental",
+      "Zerika Pigul Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection and the 'mai shna halinah dekavid bayadayim' question, which is precisely what the 'Active vs. Passive Psul' prose describes as Rav Yosef's challenge about the distinction of linah being committed through active deed.",
+      "chosen_heading": "Active vs. Passive Psul",
+      "current_heading": "Physical Action Element",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Zerika Pigul Validity",
+    "candidates": [
+      "Concrete vs. Mental",
+      "Zerika Pigul Validity",
+      "Pigul Kodshei Kodashim",
+      "Zerika Pigul Status",
+      "Kodshim Kalim No Me'ila",
+      "Kodshim Kalim Examples",
+      "Seifa Proof",
+      "Kodshim Kalim Categorical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Candidate 1's prose covers both the conceptual argument that pigul's purely mental disqualification might allow zerika to change me'ila status (item 1) and the subsequent baraita proof attempt with its conclusion that the seifa supports Rav Giddel (items 2-4), matching all four items as a continuous unit.",
+      "chosen_heading": "Zerika Pigul Validity",
+      "current_heading": "Zerika Pigul Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Kodshim Kalim Categorical",
+    "candidates": [
+      "Pigul Kodshei Kodashim",
+      "Zerika Pigul Status",
+      "Kodshim Kalim No Me'ila",
+      "Kodshim Kalim Examples",
+      "Seifa Proof",
+      "Kodshim Kalim Categorical",
+      "Status Change Required",
+      "Pigul Distinction",
+      "Real Criterion",
+      "Sha'at Heter Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of whether the seifa (latter clause) also proves the reisha, and explains that kodshim kalim is pesika (clear-cut) while kodshei kodashim is not \u2014 which is precisely what the 'Kodshim Kalim Categorical' prose section discusses.",
+      "chosen_heading": "Kodshim Kalim Categorical",
+      "current_heading": "Kodshim Kalim Categorical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Sha'at Heter Kohanim",
+    "candidates": [
+      "Status Change Required",
+      "Pigul Distinction",
+      "Real Criterion",
+      "Sha'at Heter Kohanim",
+      "Status Change Examples",
+      "No Status Change"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sha'at Heter Kohanim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yehoshua's general principle about sha'at heter lakohanim, which is precisely what heading 3 ('Sha'at Heter Kohanim') describes in its prose.",
+      "second_heading": "Status Change Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the mishna's examples of cases where the meat did pass through a moment of heter (she'lanah, she'nitme'is, she'yatza'as), which is exactly what heading 4 ('Status Change Examples') describes in its prose.",
+      "current_heading": "Sha'at Heter Kohanim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "No Status Change",
+    "candidates": [
+      "Status Change Examples",
+      "No Status Change",
+      "Three Heter Options",
+      "Definitions of Heter",
+      "Omed Lizrok Principle",
+      "Chizkiyahu Position",
+      "Yochanan Position",
+      "Zeira Assessment",
+      "Lanah: Meat or Blood",
+      "Blood Linah Question",
+      "Meat Linah Implication",
+      "Zerika Needed",
+      "One or Two Scenarios",
+      "One Scenario = Kabala",
+      "Two Scenarios = Zerika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the cases where the sacrificial animal had no period of fitness \u2014 slaughter with wrong-time/wrong-place intent and pasul individuals collecting/sprinkling blood \u2014 which is precisely what the 'No Status Change' section's prose discusses.",
+      "chosen_heading": "No Status Change",
+      "current_heading": "No Status Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Two Scenarios = Zerika",
+    "candidates": [
+      "Three Heter Options",
+      "Definitions of Heter",
+      "Omed Lizrok Principle",
+      "Chizkiyahu Position",
+      "Yochanan Position",
+      "Zeira Assessment",
+      "Lanah: Meat or Blood",
+      "Blood Linah Question",
+      "Meat Linah Implication",
+      "Zerika Needed",
+      "One or Two Scenarios",
+      "One Scenario = Kabala",
+      "Two Scenarios = Zerika",
+      "Psul Blood No Kibus",
+      "Timing Irrelevant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "All 12 items form one continuous Talmudic discussion about the three heter options (shechitah/zerikah/achilah), \u1e24izkiyya vs. Rabbi Yo\u1e25anan, Rabbi Zeira's challenge via the lanah case, and the psulim kiblu/zarku analysis \u2014 exactly matching the 'Two Scenarios = Zerika' section's prose which covers all these elements culminating in Rav Yosef's challenge.",
+      "chosen_heading": "Two Scenarios = Zerika",
+      "current_heading": "Two Scenarios = Zerika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Timing Irrelevant",
+    "candidates": [
+      "Psul Blood No Kibus",
+      "Timing Irrelevant",
+      "Zevachim Categories",
+      "Blood Potency in Zevachim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage defines precisely the two categories \u2014 'she'hayesa la sha'as ha'kosher ve'nifselah' and 'she'lo hayesa la sha'as ha'kosher' \u2014 which is exactly what the prose of candidate 2 ('Zevachim Categories') describes: the braisa enumerating both categories separately despite identical legal outcomes.",
+      "chosen_heading": "Zevachim Categories",
+      "current_heading": "Timing Irrelevant",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Blood Potency in Zevachim",
+    "candidates": [
+      "Zevachim Categories",
+      "Blood Potency in Zevachim",
+      "Kri Kan Drasha",
+      "After Zerika No Potency",
+      "Stock Phrase Proof",
+      "Stock Phrase Origin",
+      "Meilah is Precise",
+      "Psul Oseh Shirayim",
+      "Psul Zerika Effect",
+      "Shirayim Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of Rav Yosef's analysis of the Zevachim mishna phrase, leading through the kri kan drasha, lav davka, Rav Asi's objection, the resolution that me'ila is precise, and the explanation that pasul oseh shirayim \u2014 exactly the content described in the 'Blood Potency in Zevachim' prose where Rav Yosef raises the parallel as a challenge and the Gemara develops it.",
+      "chosen_heading": "Blood Potency in Zevachim",
+      "current_heading": "Blood Potency in Zevachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Shirayim Question",
+    "candidates": [
+      "Kri Kan Drasha",
+      "After Zerika No Potency",
+      "Stock Phrase Proof",
+      "Stock Phrase Origin",
+      "Meilah is Precise",
+      "Psul Oseh Shirayim",
+      "Psul Zerika Effect",
+      "Shirayim Question",
+      "Yochanan: Only Pigul",
+      "Mertzeh Concept",
+      "Other Psulim Irrelevant",
+      "Only Pigul-Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly quotes Reish Lakish asking Rabbi Yochanan whether a pasul performing zerika renders remaining blood shirayim, which is precisely what heading 7 'Shirayim Question' describes.",
+      "chosen_heading": "Shirayim Question",
+      "current_heading": "Shirayim Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      180,
+      181,
+      182,
+      183,
+      184
+    ],
+    "current_heading": "Only Pigul-Type",
+    "candidates": [
+      "Yochanan: Only Pigul",
+      "Mertzeh Concept",
+      "Other Psulim Irrelevant",
+      "Only Pigul-Type",
+      "B'Tzibur Overwritten",
+      "Tuma Overwritten",
+      "Tuma Zerika Validity",
+      "Other Psulim Not",
+      "Hapigul Revisited",
+      "L'olam Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "All five items form one continuous chain of reasoning about Rabbi Yochanan's statement \u2014 from the initial formulation through the b'tzibur resolution \u2014 and heading 3's prose explicitly introduces both the mertzeh principle and the tuma difficulty that items 4-5 then resolve, making it the best single home for the entire passage.",
+      "chosen_heading": "Only Pigul-Type",
+      "current_heading": "Only Pigul-Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      199
+    ],
+    "current_heading": "L'olam Inference",
+    "candidates": [
+      "B'Tzibur Overwritten",
+      "Tuma Overwritten",
+      "Tuma Zerika Validity",
+      "Other Psulim Not",
+      "Hapigul Revisited",
+      "L'olam Inference",
+      "Lav Delo Zarak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the baraita 'hapigul l'olam mo'ilin bo' which is exactly what candidate 4 ('Hapigul Revisited') describes \u2014 the Gemara returning to its main inquiry and revisiting this first braisa formulation.",
+      "chosen_heading": "Hapigul Revisited",
+      "current_heading": "L'olam Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      202,
+      203
+    ],
+    "current_heading": "Lav Delo Zarak",
+    "candidates": [
+      "L'olam Inference",
+      "Lav Delo Zarak",
+      "L'olam Emphasis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly engage with the 'lav delo zarak' inference \u2014 item 1 proposes the interpretation that the baraita refers to blood not yet sprinkled, and item 2 rejects it by saying the baraita actually refers to a case where sprinkling did occur, which is precisely what the 'Lav Delo Zarak' prose describes.",
+      "chosen_heading": "Lav Delo Zarak",
+      "current_heading": "Lav Delo Zarak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      206
+    ],
+    "current_heading": "L'olam Emphasis",
+    "candidates": [
+      "L'olam Emphasis",
+      "Zerika Key Moment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses what 'l'olam' teaches us and cites Rav Giddel's ruling that zerika of pigul neither removes nor brings into me'ila status, which is precisely what the 'L'olam Emphasis' prose discusses.",
+      "chosen_heading": "L'olam Emphasis",
+      "current_heading": "L'olam Emphasis",
+      "moved": false
+    }
+  }
+]

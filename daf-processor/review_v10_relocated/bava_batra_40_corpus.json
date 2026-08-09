@@ -1,0 +1,217 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Modaa Definition",
+    "candidates": [
+      "Machaa Definition",
+      "Machaa Sans Auth.",
+      "Written Testimony",
+      "Rabbeinu Tam",
+      "Modaa Definition",
+      "Modaa No Auth.",
+      "Hodaah & Auth.",
+      "Kinyan Intro",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full statement of Rava citing Rav Na\u1e25man introducing all four categories (me\u1e25a'a, moda'a, hoda'a, kinyan) with their witness requirements and writing-authorization rules, which corresponds to the 'Machaa Definition' section that opens with exactly this Rava/Rav Na\u1e25man ruling about protest before two witnesses \u2014 the subsequent headings each deal with the prose elaboration of individual sub-cases, but the quoted Talmudic text itself is the single continuous sugya that the essay introduces under 'Machaa Definition.'",
+      "chosen_heading": "Machaa Definition",
+      "current_heading": "Modaa Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Modaa No Auth.",
+      "Hodaah & Auth.",
+      "Kinyan Intro",
+      "Rava's Question",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rava's question about kinyan's dual nature (court-like vs. not court-like), which is precisely what 'Rava's Question' prose describes.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Soloveitchik",
+      "Rambam Kinyan",
+      "Katan & Da'at",
+      "Rabba & R.Y.",
+      "Abaye & Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's resolution of his own dilemma \u2014 'batar de'bayye hadar pashtei' \u2014 explaining that kinyan is not like a court act and that stam kinyan lechtiva omeid, which is precisely what the 'Rava's Answer' section prose describes.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Abaye & Rava",
+    "candidates": [
+      "Soloveitchik",
+      "Rambam Kinyan",
+      "Katan & Da'at",
+      "Rabba & R.Y.",
+      "Abaye & Rava",
+      "Nehardai",
+      "Modaa Subject"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba & R.Y.",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the Rabba/Rav Yosef ruling (lo katbinan moda'ah ela aman d'lo tzai dina) and the Abaye/Rava ruling (afilu alai ve'alach), which together span candidates 3 and 4, but the Rabba/Rav Yosef position is the opening of this Gemara discussion and candidate 3's prose explicitly covers both positions as a unit starting with Rabba and Rav Yosef \u2014 however, since item 1 contains BOTH the Rabba/Rav Yosef and Abaye/Rava rulings, and candidate 4's prose is specifically about Abaye and Rava, the best single home for item 1 is candidate 3 which introduces the whole dispute.",
+      "second_heading": "Nehardai",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the Nehardai requirement (kol moda'ah delo ketiv bah anan yadinan beh be'onsa de'planya lav moda'ah hi), which is precisely what candidate 5's prose discusses.",
+      "current_heading": "Abaye & Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Modaa Subject",
+    "candidates": [
+      "Nehardai",
+      "Modaa Subject",
+      "Pardisa Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks what type of transaction a modaa addresses, contrasting get/matana (mere disclosure) with sale (Rava's rule against writing a modaa), which is precisely the content described in the 'Modaa Subject' prose.",
+      "chosen_heading": "Modaa Subject",
+      "current_heading": "Modaa Subject",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Pardisa Case",
+    "candidates": [
+      "Pardisa Case",
+      "Rav Yehuda",
+      "R.Y. Versions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the orchard (pardisa) case in which a creditor threatens to hide the mortgage document to force a sale, which is precisely what the 'Pardisa Case' prose section discusses as the paradigm for when a modaa is permissible for a sale.",
+      "chosen_heading": "Pardisa Case",
+      "current_heading": "Pardisa Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "R.Y. Versions",
+    "candidates": [
+      "Rav Yehuda",
+      "R.Y. Versions",
+      "Rava Secret",
+      "Pappa Clarif.",
+      "Fianc\u00e9e Case",
+      "Neither Acquires"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Yehuda's ruling on matana temirta AND Rav Yosef's definition of it, but the heading 'Rav Yehuda' (index 0) encompasses the entire unit including Rav Yosef's clarification as part of the same sugya, while 'R.Y. Versions' (index 1) is a separate section that the essay author treats as a distinct elaboration \u2014 however, since the Gemara text contains both the ruling and the definition in one continuous passage, and the current placement under 'R.Y. Versions' separates it from its primary ruling context, the best single home is index 0 which introduces the core ruling that the passage is fundamentally about.",
+      "chosen_heading": "Rav Yehuda",
+      "current_heading": "R.Y. Versions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Neither Acquires",
+    "candidates": [
+      "Rava Secret",
+      "Pappa Clarif.",
+      "Fianc\u00e9e Case",
+      "Neither Acquires",
+      "Owner's Intent",
+      "Stama Question",
+      "Ravina Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form Rav Pappa's clarification that Rava's ruling was inferred rather than explicit \u2014 item 1 is his statement, item 2 is the case from which the inference was drawn, and item 3 explains why the inference was incorrect \u2014 exactly what candidate 1 ('Pappa Clarif.') describes.",
+      "chosen_heading": "Pappa Clarif.",
+      "current_heading": "Neither Acquires",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Ravina Position",
+    "candidates": [
+      "Owner's Intent",
+      "Stama Question",
+      "Ravina Position",
+      "Rav Ashi",
+      "Halachic Conclusion",
+      "Rashbam Pract."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the dilemma and its resolution regarding the 'stama' (unspecified) case, which is precisely what candidate 1 ('Stama Question') describes \u2014 the plain case where no explicit instruction was given either way.",
+      "chosen_heading": "Stama Question",
+      "current_heading": "Ravina Position",
+      "moved": true
+    }
+  }
+]

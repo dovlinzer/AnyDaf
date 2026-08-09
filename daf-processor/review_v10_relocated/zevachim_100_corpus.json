@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Different Days Case",
+    "candidates": [
+      "Introduction",
+      "Yom Misa vs. Yom Kvura",
+      "Shimon's Proof",
+      "Shimon's Contradiction",
+      "Death/Burial Same Day",
+      "Same Day Case",
+      "Different Days Case",
+      "Rav Ashi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present Rav Mari's 'lo kashya' resolution distinguishing the two scenarios (death and burial on the fourteenth vs. death on thirteenth/burial on fourteenth), which is exactly what candidate 4 ('Death/Burial Same Day') describes as Rav Mari's first resolution at the top of 100a.",
+      "chosen_heading": "Death/Burial Same Day",
+      "current_heading": "Different Days Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rav Ashi's Challenge",
+    "candidates": [
+      "Different Days Case",
+      "Rav Ashi's Challenge",
+      "Status Priority Principle",
+      "Death Before Chatzos",
+      "Death After Chatzos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's challenge to Rav Mari about Rabbi Shimon's proof being irrelevant because it concerns yom kvura (rabbinic) while Rabbi Yehuda's position concerns yom misa (Torah law), ending with 'kashya' \u2014 exactly what the 'Rav Ashi's Challenge' prose describes.",
+      "chosen_heading": "Rav Ashi's Challenge",
+      "current_heading": "Rav Ashi's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Death After Chatzos",
+    "candidates": [
+      "Status Priority Principle",
+      "Death Before Chatzos",
+      "Death After Chatzos",
+      "Yosef Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's full resolution including both the before-midday and after-midday cases, which corresponds to the 'Status Priority Principle' section that describes Abaye's overall *lo kashya* answer and his principle of whichever status attached first taking precedence \u2014 the passage as a whole presents the complete principle, not just the after-midday half.",
+      "chosen_heading": "Status Priority Principle",
+      "current_heading": "Death After Chatzos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Yosef Story",
+    "candidates": [
+      "Death After Chatzos",
+      "Yosef Story",
+      "Nazir Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yosef Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about Yosef the kohen whose wife died on erev Pesach and was forcibly made tamei, which matches exactly the 'Yosef Story' prose describing this incident and its implication that tumah for a relative overrides korban Pesach.",
+      "second_heading": "Nazir Baraita",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the contradicting baraita about a nazir going to slaughter his Pesach who hears a relative died and is told he shall not become impure, which matches exactly the 'Nazir Baraita' prose describing this opposing baraita and the contradiction it creates with the Yosef story.",
+      "current_heading": "Yosef Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Nazir Baraita",
+    "candidates": [
+      "Nazir Baraita",
+      "Baraita Reconciliation",
+      "Inference to Onen",
+      "Bring vs. Eat",
+      "Before Shechita",
+      "After Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items \u2014 the nazir baraita's layered prohibitions, the met mitzva derivations, the Pesach implication, the Rabbi Yishmael/Akiva distinction, and its rejection \u2014 are all explicitly described in the 'Nazir Baraita' prose, making the current placement correct.",
+      "chosen_heading": "Nazir Baraita",
+      "current_heading": "Nazir Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "After Shechita",
+    "candidates": [
+      "Baraita Reconciliation",
+      "Inference to Onen",
+      "Bring vs. Eat",
+      "Before Shechita",
+      "After Shechita",
+      "Rav Adda's Challenge",
+      "Eating Me'akeiv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rava's resolution that both baraitot discuss cases after chatzos, distinguished by whether shechita and zerika occurred before or after the relative died \u2014 which is precisely what the 'Bring vs. Eat' section's prose describes as Rava's 'third and independently elegant resolution' where 'idi ve'idi achar chatzos' and the distinction is 'not temporal but procedural.'",
+      "chosen_heading": "Bring vs. Eat",
+      "current_heading": "After Shechita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Eating Me'akeiv",
+    "candidates": [
+      "Rav Adda's Challenge",
+      "Eating Me'akeiv",
+      "Pesach Eating Centrality",
+      "Baraita Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Adda bar Mattana's challenge ('what was done was done'), Ravina's response about eating being indispensable, and Rava's affirmation \u2014 all three exchanges together constitute the full dialogue that heading 0 ('Rav Adda's Challenge') introduces, while heading 1 ('Eating Me'akeiv') focuses only on the Ravina response aspect, making heading 0 the better fit for the complete exchange.",
+      "chosen_heading": "Rav Adda's Challenge",
+      "current_heading": "Eating Me'akeiv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Baraita Text",
+    "candidates": [
+      "Pesach Eating Centrality",
+      "Baraita Text",
+      "Internal Contradiction",
+      "Rav Chisda's Answer",
+      "Rabba Bar Rav Huna"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita Text",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita text and its internal contradiction, matching the 'Baraita Text' prose which covers the baraita's content and the inference about yom kvura blocking Pesach eating even at night, plus the internal tension created by 'echad ze ve-echad ze'.",
+      "second_heading": "Rav Chisda's Answer",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present Rav Chisda's tannai hi resolution and Rabba bar Rav Huna's lo kashya resolution with the concluding inference that achilas pesachim me'akeiv, which maps precisely onto the 'Rav Chisda's Answer' and 'Rabba Bar Rav Huna' sections \u2014 but since items 3-5 are one continuous chain through both resolutions, the split point should place them under 'Rav Chisda's Answer' (index 3) as the first of those two resolution sections.",
+      "current_heading": "Baraita Text",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rabba Bar Rav Huna",
+    "candidates": [
+      "Internal Contradiction",
+      "Rav Chisda's Answer",
+      "Rabba Bar Rav Huna",
+      "Rav Ashi's Reading",
+      "Rejection of Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's actual statement reinterpreting 'echad ze ve-echad ze' to refer only to yom shmuah and yom likut atzamot, which is precisely what candidate 3 'Rav Ashi's Reading' describes in its prose.",
+      "chosen_heading": "Rav Ashi's Reading",
+      "current_heading": "Rabba Bar Rav Huna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rejection of Rav Ashi",
+    "candidates": [
+      "Rav Ashi's Reading",
+      "Rejection of Rav Ashi",
+      "Duration of Onen",
+      "Tanna Kamma vs. Rabbi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly rejects Rav Ashi's reading as a mistake (*bidusa*), which matches precisely the prose of candidate 1 'Rejection of Rav Ashi' that describes the Gemara concluding Rav Ashi's reading is *bidusa* and untenable.",
+      "chosen_heading": "Rejection of Rav Ashi",
+      "current_heading": "Rejection of Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Tanna Kamma vs. Rabbi",
+    "candidates": [
+      "Duration of Onen",
+      "Tanna Kamma vs. Rabbi",
+      "Initial Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita asking 'until when does one mourn acutely,' which is precisely what the 'Duration of Onen' section's prose describes \u2014 the baraita addressing how long aninus status lasts \u2014 before the specific opinions of tanna kamma and Rabbi are analyzed separately.",
+      "chosen_heading": "Duration of Onen",
+      "current_heading": "Tanna Kamma vs. Rabbi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Initial Problem",
+    "candidates": [
+      "Tanna Kamma vs. Rabbi",
+      "Initial Problem",
+      "Rav Sheshes' Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's two-part initial objection \u2014 that neither the tanna kamma's nor Rabbi's formulation makes sense if the baraita is discussing yom misa \u2014 which is precisely what the 'Initial Problem' prose describes.",
+      "chosen_heading": "Initial Problem",
+      "current_heading": "Initial Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rav Sheshes' Attempt",
+    "candidates": [
+      "Rav Sheshes' Attempt",
+      "Rav Yosef's Challenge",
+      "Reinterpreted Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheshet's statement that the baraita discusses yom kvura rather than yom misa, which is precisely what heading 0 ('Rav Sheshes' Attempt') describes.",
+      "chosen_heading": "Rav Sheshes' Attempt",
+      "current_heading": "Rav Sheshes' Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Reinterpreted Debate",
+    "candidates": [
+      "Rav Yosef's Challenge",
+      "Reinterpreted Debate",
+      "Final Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rav Yosef's objection, Rabbi Yirmeya's counter-challenge, and the final resolution \u2014 that together constitute Rav Yosef's challenge and its working-out, which is precisely what heading 0 ('Rav Yosef's Challenge') describes; heading 1's prose describes the restructured conclusion that emerges after this exchange, not the exchange itself.",
+      "chosen_heading": "Rav Yosef's Challenge",
+      "current_heading": "Reinterpreted Debate",
+      "moved": true
+    }
+  }
+]

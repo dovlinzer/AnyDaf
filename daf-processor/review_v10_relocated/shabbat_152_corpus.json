@@ -1,0 +1,508 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Yehoshua's Decline",
+    "candidates": [
+      "Intro to Aging",
+      "Guards of House",
+      "Grinders & Eyes",
+      "Caesar Dialogue",
+      "Yehoshua's Decline",
+      "Bei Rav Saying",
+      "Youth vs Age",
+      "Roses & Thorns",
+      "Meir's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage depicts Caesar asking Rabbi Yehoshua why he didn't come to bei avidan and his metaphorical response, which matches the 'Caesar Dialogue' prose that explicitly introduces this exact exchange, while the current placement ('Yehoshua's Decline') covers only the interpretation of his metaphors without the Caesar framing.",
+      "chosen_heading": "Caesar Dialogue",
+      "current_heading": "Yehoshua's Decline",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Meir's Teaching",
+    "candidates": [
+      "Bei Rav Saying",
+      "Youth vs Age",
+      "Roses & Thorns",
+      "Meir's Teaching",
+      "Food & Drink",
+      "Animal Insults",
+      "Counter Insult"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all content from the 'Youth vs Age' riddle through 'Roses & Thorns,' Rabbi Meir's teaching, and Shmuel's advice about food and drink \u2014 it is a single continuous baraita/gemara unit that should sit under the first heading where it begins, 'Youth vs Age,' rather than being split across multiple headings.",
+      "chosen_heading": "Youth vs Age",
+      "current_heading": "Meir's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Counter Insult",
+    "candidates": [
+      "Food & Drink",
+      "Animal Insults",
+      "Counter Insult",
+      "Barefoot Shame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the entire exchange from the opening insult about baldness through the counter-insult about castration, matching heading 1 ('Animal Insults') whose prose explicitly introduces this very conversation \u2014 the current placement under 'Counter Insult' only covers the latter half.",
+      "chosen_heading": "Animal Insults",
+      "current_heading": "Counter Insult",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Barefoot Shame",
+    "candidates": [
+      "Counter Insult",
+      "Barefoot Shame",
+      "Three Blessings",
+      "Festival Absence",
+      "Obstacle Shift",
+      "Cane & Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the three-part exchange where Rabbi Yehoshua responds with three blessings (beard, wife, children) and the final eunuch/bald man rebuke, which exactly matches the 'Three Blessings' prose description.",
+      "chosen_heading": "Three Blessings",
+      "current_heading": "Barefoot Shame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Cane & Loss",
+    "candidates": [
+      "Three Blessings",
+      "Festival Absence",
+      "Obstacle Shift",
+      "Cane & Loss",
+      "Closed Doors",
+      "Bird Wake",
+      "Song Failure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full exchange between Rabbi and Rabbi Shimon ben \u1e24alafta including all four complaints of old age, and candidate 1 ('Festival Absence') is the section whose prose directly introduces and frames this exact exchange, while candidates 2 and 3 cover only the individual components of the reply in detail.",
+      "chosen_heading": "Festival Absence",
+      "current_heading": "Cane & Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Song Failure",
+    "candidates": [
+      "Closed Doors",
+      "Bird Wake",
+      "Song Failure",
+      "Barzillai Truth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four elements of Ecclesiastes 12:4 (closed doors, grinding sound, bird waking, daughters of music) as a unified expounding, and candidate 0 ('Closed Doors') is the section that begins this verse's exposition, making it the natural home for the entire passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Closed Doors",
+      "current_heading": "Song Failure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Barzillai Truth",
+    "candidates": [
+      "Song Failure",
+      "Barzillai Truth",
+      "Maidservant",
+      "Licentious Fall",
+      "Scholars Wisdom",
+      "Folk Folly",
+      "Scripture Split",
+      "Mind Exercise",
+      "Almond Blossom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous Barzillai passage \u2014 item 1 presents the Gemara's derivations from Barzillai's statement, and item 2 presents Rav's and Rava's responses to that same statement plus the baraita about scholars vs. ignoramuses \u2014 but the prose under heading 1 ('Barzillai Truth') explicitly covers all of this material including the discussion of what Barzillai meant, making it the correct single home for the entire passage.",
+      "chosen_heading": "Barzillai Truth",
+      "current_heading": "Barzillai Truth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Almond Blossom",
+    "candidates": [
+      "Maidservant",
+      "Licentious Fall",
+      "Scholars Wisdom",
+      "Folk Folly",
+      "Scripture Split",
+      "Mind Exercise",
+      "Almond Blossom",
+      "Grasshopper Drag",
+      "Caper Bush",
+      "Rav's Sigh",
+      "God's Command",
+      "Women Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage covers exactly the same verses (gam migavo'ah yira'u, vechatchatin baderech, veyanats hashaked, veyistabel hachagav, vetafer ha'aviyonah) that the 'Almond Blossom' section's prose describes, and the current placement under heading 6 is correct.",
+      "chosen_heading": "Almond Blossom",
+      "current_heading": "Almond Blossom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Women Baraita",
+    "candidates": [
+      "Grasshopper Drag",
+      "Caper Bush",
+      "Rav's Sigh",
+      "God's Command",
+      "Women Baraita",
+      "Individual Dwellings",
+      "King Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Kahana reading before Rav and Rav's sigh, the interpretation of 'ki hu amar vayehi' about woman and children, and the baraita about women \u2014 and heading 2 ('Rav's Sigh') is where this entire unit begins, covering all its content together, while headings 3 and 4 artificially split sub-portions of this single continuous Talmudic passage.",
+      "chosen_heading": "Rav's Sigh",
+      "current_heading": "Women Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "King Parable",
+    "candidates": [
+      "Individual Dwellings",
+      "King Parable",
+      "Youth Darkens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yitzchak's teaching about individual dwellings AND the king parable together as one unit, and heading 0 ('Individual Dwellings') introduces both the verse interpretation and Rav Yitzchak's derivation, while heading 1 ('King Parable') only covers the mashal portion \u2014 the full passage belongs under heading 0 which encompasses the complete teaching.",
+      "chosen_heading": "Individual Dwellings",
+      "current_heading": "King Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Youth Darkens",
+    "candidates": [
+      "King Parable",
+      "Youth Darkens",
+      "Maggot Needle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Youth Darkens' section prose, which explicitly discusses the same Rav Yitzchak teaching about yaldut/shachrut and actions in youth darkening one's face in old age.",
+      "chosen_heading": "Youth Darkens",
+      "current_heading": "Youth Darkens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Maggot Needle",
+    "candidates": [
+      "Maggot Needle",
+      "Soul Mourning",
+      "Communal Shiva",
+      "Dream Gratitude"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yitz\u1e25ak's maggot-needle statement and Rav \u1e24isda's soul-mourning statement together, and the current heading 'Maggot Needle' (index 0) already contains prose discussing both elements, while the 'Soul Mourning' heading (index 1) covers only the Rav \u1e24isda portion \u2014 the current placement keeps the full Talmudic unit together.",
+      "chosen_heading": "Maggot Needle",
+      "current_heading": "Maggot Needle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Dream Gratitude",
+    "candidates": [
+      "Soul Mourning",
+      "Communal Shiva",
+      "Dream Gratitude",
+      "Hearing Eulogies",
+      "Awareness Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the teaching and narrative about assembling ten people for a deceased who has no mourners, which is precisely what candidate 1 ('Communal Shiva') discusses \u2014 the prose there explicitly describes both Rav Yehuda's ruling and the story of the person who died in his neighborhood, whereas candidate 2 ('Dream Gratitude') covers only the dream aftermath, not the full passage.",
+      "chosen_heading": "Communal Shiva",
+      "current_heading": "Dream Gratitude",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Awareness Dispute",
+    "candidates": [
+      "Hearing Eulogies",
+      "Awareness Dispute",
+      "Garments Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the dispute between Rabbi \u1e24iyya and Rabbi Shimon about the duration of the deceased's awareness, with their respective prooftexts \u2014 exactly what heading 1 ('Awareness Dispute') describes in its prose.",
+      "chosen_heading": "Awareness Dispute",
+      "current_heading": "Awareness Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Garments Parable",
+    "candidates": [
+      "Garments Parable",
+      "Righteous Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the garments parable (the setup and the king's verdict), which is precisely what the 'Garments Parable' prose describes in detail.",
+      "chosen_heading": "Garments Parable",
+      "current_heading": "Garments Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Righteous Reward",
+    "candidates": [
+      "Righteous Reward",
+      "Wicked Punished",
+      "Eliezer Souls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both righteous and wicked in a single unit, and candidate 0 ('Righteous Reward') introduces this complete contrast (bodies and souls of both righteous and wicked), making it the correct home for the full passage rather than splitting it across candidates 1 or 2.",
+      "chosen_heading": "Righteous Reward",
+      "current_heading": "Righteous Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Eliezer Souls",
+    "candidates": [
+      "Wicked Punished",
+      "Eliezer Souls",
+      "Dumah Souls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's baraita about the souls of the righteous stored under the Throne of Glory and the wicked being slung between angels, which matches precisely the 'Eliezer Souls' section prose.",
+      "chosen_heading": "Eliezer Souls",
+      "current_heading": "Eliezer Souls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Dumah Souls",
+    "candidates": [
+      "Dumah Souls",
+      "Mari Dust",
+      "Grave Diggers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Dumah discussion (beinoni question, Shmuel's answer about Dumah) and Rav Mari's dust statement, and the current heading's prose explicitly covers all of this content including the beinoni/Dumah material that forms the bulk of the passage.",
+      "chosen_heading": "Dumah Souls",
+      "current_heading": "Dumah Souls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Grave Diggers",
+    "candidates": [
+      "Mari Dust",
+      "Grave Diggers",
+      "Nachman Challenge",
+      "Acha Jealousy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the grave diggers encountering Rav A\u1e25ai bar Yoshiya and the initial exchange with Rav Na\u1e25man identifying him, which matches exactly the 'Grave Diggers' section prose, and the current placement is correct.",
+      "chosen_heading": "Grave Diggers",
+      "current_heading": "Grave Diggers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Acha Jealousy",
+    "candidates": [
+      "Nachman Challenge",
+      "Acha Jealousy",
+      "Resurrection Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Proverbs verse about envy rotting the bones, which is exactly what the 'Acha Jealousy' section's prose describes as Rav Acha's response to Nachman's challenge about dust returning to earth.",
+      "chosen_heading": "Acha Jealousy",
+      "current_heading": "Acha Jealousy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Resurrection Only",
+    "candidates": [
+      "Resurrection Only",
+      "Second Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Na\u1e25man touching Rav A\u1e25ai and feeling substance, then being told he cannot leave his grave because only God opens graves at resurrection \u2014 exactly what the 'Resurrection Only' prose discusses in detail.",
+      "chosen_heading": "Resurrection Only",
+      "current_heading": "Resurrection Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Second Before",
+    "candidates": [
+      "Second Before",
+      "Heretic Question",
+      "Twelve Months",
+      "After Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the contradiction between bodily preservation and 'you shall return to dust,' resolved by the answer that it happens one hour before resurrection \u2014 exactly what the 'Second Before' section's prose describes.",
+      "chosen_heading": "Second Before",
+      "current_heading": "Second Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "After Months",
+    "candidates": [
+      "Heretic Question",
+      "Twelve Months",
+      "After Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi Abbahu's complete answer \u2014 the baraita about twelve months and the soul ascending/descending \u2014 which maps directly to the 'Twelve Months' prose, not to 'After Months' which discusses only the post-twelve-month phase (haguf batel).",
+      "chosen_heading": "Twelve Months",
+      "current_heading": "After Months",
+      "moved": true
+    }
+  }
+]

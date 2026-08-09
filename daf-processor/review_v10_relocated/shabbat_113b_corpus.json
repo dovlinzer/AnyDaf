@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Vesachas Kvodo Drasha",
+    "candidates": [
+      "Kavod Shabbat Intro",
+      "Vesachas Kvodo Drasha",
+      "Biblical Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the drasha on 'vesachas kvodo' from Isaiah 10:16, with Rabbi Yochanan's interpretation tied to his calling clothes his honor, and Rabbi Elazar and Rabbi Shmuel bar Na\u1e25mani's alternative readings \u2014 all of which are explicitly described in the 'Vesachas Kvodo Drasha' prose.",
+      "chosen_heading": "Vesachas Kvodo Drasha",
+      "current_heading": "Vesachas Kvodo Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Biblical Source",
+      "Derech Eretz",
+      "Patched Shoes Disgrace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the attribution (Rabbi A\u1e25a bar Abba said that Rabbi Yo\u1e25anan said) and the full teaching \u2014 the biblical source from Leviticus plus the school of Rabbi Yishmael's elaboration \u2014 which together form the complete unit that candidate 0 ('Biblical Source') describes, covering both the verse and the derech eretz lesson as one integrated teaching.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Biblical Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Patched Shoes Disgrace",
+    "candidates": [
+      "Derech Eretz",
+      "Patched Shoes Disgrace",
+      "Stains & Desecration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about patched shoes being disgraceful for a Torah scholar, which is exactly what the 'Patched Shoes Disgrace' section's prose discusses, including the same Talmudic exchange about Rabbi A\u1e25a bar \u1e24anina and the ruling about patch upon a patch.",
+      "chosen_heading": "Patched Shoes Disgrace",
+      "current_heading": "Patched Shoes Disgrace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Stains & Desecration",
+    "candidates": [
+      "Stains & Desecration",
+      "Revav vs Revvad",
+      "Isaiah Nakedness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the fat stain/death penalty teaching and Ravina's amendment about revad vs revav, plus the distinction between outer and inner garments \u2014 all of which are addressed together in the current heading's prose (candidate 0), which discusses the full teaching including the al tikrei reading, while candidate 1's prose is a separate summary that could follow but the passage as a whole is best placed under candidate 0 where the primary teaching is introduced.",
+      "chosen_heading": "Stains & Desecration",
+      "current_heading": "Stains & Desecration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Isaiah Nakedness",
+    "candidates": [
+      "Revav vs Revvad",
+      "Isaiah Nakedness",
+      "Chatzitza Stains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source about Isaiah walking 'naked and barefoot' meaning tattered clothing and patched shoes, which is precisely what the 'Isaiah Nakedness' section's prose describes and analyzes.",
+      "chosen_heading": "Isaiah Nakedness",
+      "current_heading": "Isaiah Nakedness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Chatzitza Stains",
+    "candidates": [
+      "Chatzitza Stains",
+      "Scholars & Stains",
+      "Lost Objects Trust",
+      "Appearance & Integrity",
+      "Community Support",
+      "Rabbinic Leadership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the mishna about fat stains (revav) on saddles and garments as chatzitza, which is precisely what the 'Chatzitza Stains' section prose covers in detail.",
+      "chosen_heading": "Chatzitza Stains",
+      "current_heading": "Chatzitza Stains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Rabbinic Leadership",
+    "candidates": [
+      "Scholars & Stains",
+      "Lost Objects Trust",
+      "Appearance & Integrity",
+      "Community Support",
+      "Rabbinic Leadership",
+      "Can YK Serve Shabbat",
+      "BeShabbato Limit",
+      "Kedusha Comparison"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Community Support",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover Rabbi Yo\u1e25anan's series of statements about who qualifies as a Torah scholar for community appointment, returning lost objects, and communal support \u2014 all of which are discussed under heading 3 ('Community Support') and its neighboring headings, but the full chain of Rabbi Yo\u1e25anan's statements about talmid chacham identity culminating in the parnas/rosh metivta distinction belongs under heading 3 or 4; however, since items 1-2 together cover the 'builders' identification, lost objects, community support, and leadership appointment criteria, and heading 4's prose explicitly covers all of these in sequence including the ulyarin transition, items 1-2 best fit under heading 3 which discusses the community support material that precedes the leadership appointment discussion.",
+      "second_heading": "Rabbinic Leadership",
+      "second_confidence": "high",
+      "second_reason": "Item 3 about Rabbi Shimon ben Lakish's identification of the banna'in garments as ulyarin bath-attendant robes, and the resolution of whether they are white or red, is explicitly discussed in heading 4's prose as the point where 'Rabbi Shimon ben Lakish returns the discussion to where it began.'",
+      "current_heading": "Rabbinic Leadership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Kedusha Comparison",
+    "candidates": [
+      "Can YK Serve Shabbat",
+      "BeShabbato Limit",
+      "Kedusha Comparison",
+      "Tekiah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita presenting Rabbi Yishmael's and Rabbi Akiva's readings of 'Olat Shabbat beShabbato' \u2014 exactly the tano rabbanan passage that heading 1 ('BeShabbato Limit') describes: the verse permits fats of Shabbat on Yom Kippur, and beShabbato forecloses the reverse, which is precisely what these two items contain.",
+      "chosen_heading": "BeShabbato Limit",
+      "current_heading": "Kedusha Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Tekiah Debate",
+    "candidates": [
+      "Kedusha Comparison",
+      "Tekiah Debate",
+      "Shofar Purpose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kedusha Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concludes the Rabbi Yishmael/Rabbi Akiva dispute about what the verse permits (Yom Tov vs Yom Kippur) and leads into Rabbi Zeira said \u2014 matching the 'Kedusha Comparison' prose which explicitly discusses this exact debate about nedarim/nedavot and what the verse comes to permit.",
+      "second_heading": "Tekiah Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Zeira's full statement about the tekiah/havdalah baraita and the exchange with Yehuda son of Rabbi Shimon ben Pazi, which matches precisely the 'Tekiah Debate' prose describing Rabbi Zeira's assumption in Bavel and his encounter with that sage in Eretz Yisrael.",
+      "current_heading": "Tekiah Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Shofar Purpose",
+    "candidates": [
+      "Shofar Purpose",
+      "Trimming Allowance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether kohanim are vigilant (zrizin hem), the shofar blasts in the Temple, and Abaye's answer about the blasts being for the rest of the people of Jerusalem \u2014 exactly what the 'Shofar Purpose' prose describes.",
+      "chosen_heading": "Shofar Purpose",
+      "current_heading": "Shofar Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Trimming Allowance",
+    "candidates": [
+      "Trimming Allowance",
+      "YK on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss whether the shofar should be sounded to announce that trimming vegetables (knivat yerek) is permitted, directly continuing the YK-on-Shabbat discussion about knivat yerek prohibition/permission, and the prose of candidate 1 ('YK on Shabbat') explicitly covers this exact topic including the permissibility of knivat yerek when Yom Kippur falls on Shabbat.",
+      "chosen_heading": "YK on Shabbat",
+      "current_heading": "Trimming Allowance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "YK on Shabbat",
+    "candidates": [
+      "Trimming Allowance",
+      "YK on Shabbat",
+      "Nuts & Seeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the dispute about trimming vegetables when Yom Kippur falls on Shabbat \u2014 item 1 presents Rav Huna's prohibition and the baraita supporting it, item 2 presents Rabbi Yo\u1e25anan's permissive view and the gemara's resolution \u2014 exactly matching the 'YK on Shabbat' section's prose.",
+      "chosen_heading": "YK on Shabbat",
+      "current_heading": "YK on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Nuts & Seeds",
+    "candidates": [
+      "Nuts & Seeds",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita confirming Rabbi Yo\u1e25anan's ruling about Yom Kippur on Shabbat is directly referenced in the 'Nuts & Seeds' prose, which explicitly connects the cracking of nuts/pomegranate seeds leniency to Rabbi Yochanan's position when Yom Kippur falls on Shabbat.",
+      "chosen_heading": "Nuts & Seeds",
+      "current_heading": "Nuts & Seeds",
+      "moved": false
+    }
+  }
+]

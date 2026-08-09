@@ -19,8 +19,8 @@
           "timestamp": "00:39"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Yehuda's Exception: Collecting Debts and the Concept of Immediate Harm vs. Long-Term Benefit",
@@ -58,7 +58,7 @@
           "timestamp": "05:52"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 28,
       "matched": true
     },
     {
@@ -184,7 +184,7 @@
         }
       ],
       "sefaria_index": 33,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Resolving Conflicting Opinions When Multiple Sages Offer Simultaneous Rulings",
@@ -261,8 +261,8 @@
           "timestamp": "45:13"
         }
       ],
-      "sefaria_index": 33,
-      "matched": false
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Three Days Before Non-Jewish Holidays: Geographic and Contextual Variations",
@@ -310,7 +310,7 @@
           "timestamp": "52:27"
         }
       ],
-      "sefaria_index": 33,
+      "sefaria_index": 28,
       "matched": false
     }
   ],
@@ -844,5 +844,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "42:47",
+  "amud_b_micro_title": "Tosafot: Scenarios",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "b"
 }

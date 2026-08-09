@@ -1,0 +1,418 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Mana Hani Milei",
+    "candidates": [
+      "Mana Hani Milei",
+      "Isha El Achota",
+      "Aleha Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mana Hani Milei",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains why sota and aylonit were omitted from the mishna's list, wrapping up the analysis of the mishna's order and language \u2014 matching heading 0's prose about the mishna's structure.",
+      "second_heading": "Isha El Achota",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the new scriptural derivation section with 'Mana hani milei \u2014 detanu rabanan' and cites the verse 'Isha el achota,' directly matching heading 1's prose about that baraita.",
+      "current_heading": "Mana Hani Milei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Aleha Drasha",
+    "candidates": [
+      "Isha El Achota",
+      "Aleha Drasha",
+      "Wife's Sister"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the gezeirah shavah on 'aleha' and its conclusion that the yibbum mitzva does not override the wife's sister prohibition, which is precisely what the 'Aleha Drasha' section's prose describes.",
+      "chosen_heading": "Aleha Drasha",
+      "current_heading": "Aleha Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Wife's Sister",
+    "candidates": [
+      "Wife's Sister",
+      "Mah Matzinu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the derivation of exemptions for the rival wife and the rival wife's rival wife from the word 'litzror,' which is precisely what the prose under 'Wife's Sister' heading elaborates on.",
+      "chosen_heading": "Wife's Sister",
+      "current_heading": "Wife's Sister",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Mah Matzinu",
+    "candidates": [
+      "Mah Matzinu",
+      "Tzarot Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the mah matzinu reasoning about wife's sister as paradigm for all arayot, which is precisely what heading 0 ('Mah Matzinu') discusses in its prose.",
+      "chosen_heading": "Mah Matzinu",
+      "current_heading": "Mah Matzinu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Tzarot Exemption",
+    "candidates": [
+      "Tzarot Exemption",
+      "Chamesh Esrei",
+      "Sheish Chamurot",
+      "Tzara Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 deriving that co-wives of all *arayot* are exempt using the wife's sister as paradigm, concluding with 'fifteen women exempt their rival wives' \u2014 is precisely what the 'Tzarot Exemption' prose describes, making the current placement correct.",
+      "chosen_heading": "Tzarot Exemption",
+      "current_heading": "Tzarot Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Tzara Context",
+    "candidates": [
+      "Chamesh Esrei",
+      "Sheish Chamurot",
+      "Tzara Context",
+      "Onesh Minayin",
+      "Kareit Yibbum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the complete question-and-answer unit about whether the six more severe arayot extend their prohibition to their co-wives, which is precisely what the 'Tzara Context' prose describes in detail, including the achot ishah analogy, the exclusion of the six chamurot, and the principle that tzara applies only in the context of a brother.",
+      "chosen_heading": "Tzara Context",
+      "current_heading": "Tzara Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Kareit Yibbum",
+    "candidates": [
+      "Onesh Minayin",
+      "Kareit Yibbum",
+      "Meichdi Reasoning",
+      "Asei Dochei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'azharah shamanu' (we have learned the warning) and 'onesh minayin' (from where is the punishment derived) question with its answer, which directly corresponds to candidate 0's prose about transitioning from prohibition to punishment via that exact question, not candidate 1 which discusses the kareit conclusion and its implications.",
+      "chosen_heading": "Onesh Minayin",
+      "current_heading": "Kareit Yibbum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Asei Dochei",
+    "candidates": [
+      "Meichdi Reasoning",
+      "Asei Dochei",
+      "Kareit Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'aleha' verse reasoning AND the hava amina about a wife's sister AND the asei dochei principle as the reason for that hava amina \u2014 this is the complete unit that belongs under 'Meichdi Reasoning' (heading 0), whose prose explicitly covers all these elements together, while headings 1 and 2 each cover only portions of what this single passage contains.",
+      "chosen_heading": "Meichdi Reasoning",
+      "current_heading": "Asei Dochei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Kareit Exception",
+    "candidates": [
+      "Asei Dochei",
+      "Kareit Exception",
+      "Velo Litzor",
+      "Lo Tilbash",
+      "Smuchim Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kareit Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge to the hava amina \u2014 questioning whether asei overrides lo ta'asei with kareit and asking where the basic principle comes from \u2014 which matches exactly the 'Kareit Exception' prose.",
+      "second_heading": "Lo Tilbash",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the answer to 'from where do we derive asei dochei lo ta'asei' \u2014 the shatnez/gedilim juxtaposition \u2014 which matches exactly the 'Lo Tilbash' prose.",
+      "current_heading": "Kareit Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Smuchim Drasha",
+    "candidates": [
+      "Velo Litzor",
+      "Lo Tilbash",
+      "Smuchim Drasha",
+      "Reb Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Elazar's derivation of the smuchin principle and Rav Sheshet's application of smuchin to the yevama/mukeh shechin case \u2014 are explicitly discussed together in the 'Smuchim Drasha' prose, which describes both teachings in sequence as part of the same hermeneutic discussion.",
+      "chosen_heading": "Smuchim Drasha",
+      "current_heading": "Smuchim Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Reb Yehuda Position",
+    "candidates": [
+      "Reb Yehuda Position",
+      "Ben Azzai vs Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yosef's ruling that even those who don't use smuchin generally will do so in Mishneh Torah (Devarim), and identifies Rabbi Yehuda as the one who rejects smuchin generally \u2014 precisely what the prose under 'Reb Yehuda Position' discusses.",
+      "chosen_heading": "Reb Yehuda Position",
+      "current_heading": "Reb Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Ben Azzai vs Yehuda",
+    "candidates": [
+      "Ben Azzai vs Yehuda",
+      "Mishneh Torah Rule",
+      "Mefutat Aviv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dispute between ben Azzai and Rabbi Yehuda about deriving stoning for a sorceress, exactly matching the 'Ben Azzai vs Yehuda' section prose which quotes and discusses precisely these same passages and arguments.",
+      "chosen_heading": "Ben Azzai vs Yehuda",
+      "current_heading": "Ben Azzai vs Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Mefutat Aviv",
+    "candidates": [
+      "Mishneh Torah Rule",
+      "Mefutat Aviv",
+      "Reb Yehuda Assur",
+      "Knaf Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with 'And from where do we derive that Rabbi Yehuda does derive homiletic interpretations in Deuteronomy?' \u2014 which is exactly the question posed in candidate 0's prose ('how do we know that Rabbi Yehuda is willing to use smuchin in Devarim?'), making candidate 0 the natural home for this entire quoted text including the mishna that answers it.",
+      "chosen_heading": "Mishneh Torah Rule",
+      "current_heading": "Mefutat Aviv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Knaf Interpretation",
+    "candidates": [
+      "Reb Yehuda Assur",
+      "Knaf Interpretation",
+      "Smuchim Anusa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Knaf Interpretation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Giddel/Rav's derivation of Rabbi Yehuda's position from the 'knaf aviv' phrase, which is exactly what the 'Knaf Interpretation' prose discusses.",
+      "second_heading": "Smuchim Anusa",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses how we know the verse refers to a raped woman via juxtaposition (smuchin) with the preceding anusa passage, which is precisely what the 'Smuchim Anusa' prose elaborates.",
+      "current_heading": "Knaf Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Smuchim Anusa",
+    "candidates": [
+      "Smuchim Anusa",
+      "Rabbis Counter",
+      "Shomeret Yavam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbis Counter",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbis' counter-argument about the interrupted juxtaposition, which matches exactly the 'Rabbis Counter' prose discussing ve'rabbanan and hashata de'lo samich lei.",
+      "second_heading": "Shomeret Yavam",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the Rabbis' alternative reading of velo yigaleh knaf aviv as referring to a shomeret yavam with two prohibitions, which matches exactly the 'Shomeret Yavam' prose.",
+      "current_heading": "Smuchim Anusa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Shomeret Yavam",
+    "candidates": [
+      "Rabbis Counter",
+      "Shomeret Yavam",
+      "Muchach Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address why smuchin is valid in Mishneh Torah/Deuteronomy, elaborating the two answers (muchach and mufneh), which is precisely what the 'Muchach Argument' prose section discusses.",
+      "chosen_heading": "Muchach Argument",
+      "current_heading": "Shomeret Yavam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Muchach Argument",
+    "candidates": [
+      "Muchach Argument",
+      "Mufneh Argument",
+      "Tzemer Upishtim",
+      "Tilbash Elevation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the tzitzit/shatnez case ('ve'gabbei tzitzit nami') and presents both the muchach and mufneh arguments for that context, concluding with 'shema mina le'afnuyei' \u2014 exactly what the 'Tzemer Upishtim' section's prose describes.",
+      "chosen_heading": "Tzemer Upishtim",
+      "current_heading": "Muchach Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Tilbash Elevation",
+    "candidates": [
+      "Mufneh Argument",
+      "Tzemer Upishtim",
+      "Tilbash Elevation",
+      "Hana'ah Levels",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the shatnez/tzitzit case \u2014 item 1 gives the muchach/mufneh arguments for why the shatnez verse in Devarim is available for drasha, items 2-3 address the objection that both verses are actually needed (hani mitzterechei) and resolve it \u2014 this entire sequence is described in candidate 1's prose about applying muchach and mufneh to shatnez and tzitzit in Devarim, whereas the current placement (candidate 2) describes only the hani mitzterechei objection without the preceding mufneh argument that opens item 1.",
+      "chosen_heading": "Tzemer Upishtim",
+      "current_heading": "Tilbash Elevation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Hana'ah Levels",
+      "Gezeirah Shavah",
+      "Established Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items trace the exact argument described in the 'Gezeirah Shavah' prose: why 'tzemer ufishtim' in Devarim is superfluous \u2014 the challenge that it might still be needed for levisha, the response that a gezeirah shavah of shatnez-shatnez would have sufficed, and the conclusion that the phrase is therefore free (mufneh) to enable the drasha.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Gezeirah Shavah",
+      "moved": false
+    }
+  }
+]

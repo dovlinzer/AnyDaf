@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Haggai Pasuk Intro",
+    "candidates": [
+      "Rav's Position Intro",
+      "Haggai Pasuk Intro",
+      "Sheretz Chain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'Come and hear' citation introducing the Haggai verse as a proof/challenge to the discussion about Rav's position on tumat mashkin, which matches the 'Rav's Position Intro' prose that explicitly describes the Gemara pausing to examine the Haggai passage as a tashma before its final proof on that question.",
+      "chosen_heading": "Rav's Position Intro",
+      "current_heading": "Haggai Pasuk Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sheretz Chain",
+    "candidates": [
+      "Haggai Pasuk Intro",
+      "Sheretz Chain",
+      "Revii vs. Chamishi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav's statement that the kohanim erred and the resolution distinguishing mashkei beit mitbachaya from mashkei beit midbachaya, which is exactly what the 'Sheretz Chain' prose discusses in its final paragraph.",
+      "chosen_heading": "Sheretz Chain",
+      "current_heading": "Sheretz Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Revii vs. Chamishi",
+    "candidates": [
+      "Revii vs. Chamishi",
+      "Why Kohanim Erred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items present exactly the Rav/Shmuel dispute about revii vs. chamishi and the bichnafo derivation that heading 0's prose describes in detail, matching perfectly.",
+      "chosen_heading": "Revii vs. Chamishi",
+      "current_heading": "Revii vs. Chamishi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Why Kohanim Erred",
+    "candidates": [
+      "Why Kohanim Erred",
+      "People as Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address why the kohanim erred in the sheretz case but not in the tamei nefesh case \u2014 the exact topic described in candidate 0's prose, including Rav Nachman/Rabbah bar Avuha's answer and Ravina's alternative resolution.",
+      "chosen_heading": "Why Kohanim Erred",
+      "current_heading": "Why Kohanim Erred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "People as Tamei",
+    "candidates": [
+      "People as Tamei",
+      "Rav v. Levi",
+      "Levi's Braisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's challenge from Haggai 2:14 regarding why the verse says 'tamei' according to Shmuel, and the resolution via Mar Zutra/Rav Ashi that corrupt deeds are reckoned as if they sacrificed in impurity \u2014 exactly what the 'People as Tamei' prose section describes in detail.",
+      "chosen_heading": "People as Tamei",
+      "current_heading": "People as Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Levi's Braisa",
+    "candidates": [
+      "Rav v. Levi",
+      "Levi's Braisa",
+      "Rav's Braisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items together constitute the Gemara's full treatment of the Rav v. Levi dispute \u2014 items 1-5 work through the cross-permutations of Rav/Levi with Shmuel/Rav, and items 6-8 cite the supporting baraitot \u2014 which matches heading 0's prose description of examining which position a braisa supports, whereas heading 1 ('Levi's Braisa') covers only part of this material (items 6-8) and heading 2 ('Rav's Braisa') covers yet another sub-portion.",
+      "chosen_heading": "Rav v. Levi",
+      "current_heading": "Levi's Braisa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rav's Braisa",
+    "candidates": [
+      "Levi's Braisa",
+      "Rav's Braisa",
+      "Halacha L'Moshe MiSinai",
+      "Challenge to Rav Pappa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the baraita supporting Rav's narrower reading \u2014 blood and water only as slaughterhouse liquids, with Rabbi Shimon's internal dissent distinguishing vessels from ground \u2014 which is precisely what the 'Rav's Braisa' prose describes.",
+      "chosen_heading": "Rav's Braisa",
+      "current_heading": "Rav's Braisa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Challenge to Rav Pappa",
+    "candidates": [
+      "Halacha L'Moshe MiSinai",
+      "Challenge to Rav Pappa",
+      "Reviyit Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form one continuous discussion: Rav Pappa's Halacha L'Moshe MiSinai claim (item 1), Rav Huna's challenge to it (item 2), Ravina's second challenge from Rabbi Shimon's vessel/ground distinction (items 3-4), and Rav Pappa's clarification about water vs. blood (item 5) \u2014 exactly matching the 'Challenge to Rav Pappa' prose which describes all these objections and the kashya conclusion, plus Rav Pappa's water/blood clarification mentioned in candidate 2's prose.",
+      "chosen_heading": "Challenge to Rav Pappa",
+      "current_heading": "Challenge to Rav Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Reviyit Threshold",
+    "candidates": [
+      "Reviyit Threshold",
+      "Cushion Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the reviyit threshold for water in the ground being tahor, which is precisely what the 'Reviyit Threshold' section's prose describes.",
+      "chosen_heading": "Reviyit Threshold",
+      "current_heading": "Reviyit Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Cushion Cases",
+    "candidates": [
+      "Cushion Cases",
+      "Logical Problem",
+      "Yehudah Changed Mind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the content described in the 'Cushion Cases' prose: the Gemara's question about Rabbi Yehudah's position on tumat mashkin de'oraita, the Mishnah about vessels with interior/exterior, and Rabbi Yehudah's qualification about liquids vs. sheretz \u2014 all of which the 'Cushion Cases' prose explicitly narrates.",
+      "chosen_heading": "Cushion Cases",
+      "current_heading": "Cushion Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Yehudah Changed Mind",
+    "candidates": [
+      "Logical Problem",
+      "Yehudah Changed Mind",
+      "Hands vs. Sheretz"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Logical Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the logical problem AND Rav Yehuda/Shmuel's resolution (chazar bo), which maps to heading 0 ('Logical Problem') that describes the tension, and heading 1 that describes the retraction \u2014 but since the logical problem prose and the retraction are both encapsulated in item 1, and heading 1's prose explicitly describes 'chazar bo Rabbi Yehudah' as its content, item 1 belongs under heading 1 ('Yehudah Changed Mind') where it currently sits.",
+      "second_heading": "Hands vs. Sheretz",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Ravina's alternative resolution distinguishing liquids from hands vs. sheretz, which matches heading 2 ('Hands vs. Sheretz') precisely.",
+      "current_heading": "Yehudah Changed Mind",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Hands vs. Sheretz",
+    "candidates": [
+      "Yehudah Changed Mind",
+      "Hands vs. Sheretz",
+      "Mishnah's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's rejection of Ravina's hands-vs-sheretz distinction by pointing out that the Mishnah should have stated that sub-category distinction explicitly if it were correct, concluding with 'it is clear as we initially answered, Rabbi Yehuda retracted' \u2014 which matches precisely the prose of candidate 2 ('Mishnah's Silence').",
+      "chosen_heading": "Mishnah's Silence",
+      "current_heading": "Hands vs. Sheretz",
+      "moved": true
+    }
+  }
+]

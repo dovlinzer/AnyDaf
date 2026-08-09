@@ -1,0 +1,376 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Father & Groom Roles",
+    "candidates": [
+      "Intro: Perek Organization",
+      "Mishnah: Blanket Annulme\u2026",
+      "Father & Groom Roles",
+      "Q1: Annul Without Hearing",
+      "Opening Conversation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father & Groom Roles",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the Mishnah describing father and groom's blanket annulments before nisu'in) belongs under 'Father & Groom Roles' whose prose explicitly discusses both the father's and groom's blanket declarations and their structural reasons.",
+      "second_heading": "Q1: Annul Without Hearing",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (Rami bar Chama's question about nullifying without hearing and Rava's proof from the mishnah) belong under 'Q1: Annul Without Hearing' whose prose directly discusses this exact question and the lav davka analysis.",
+      "current_heading": "Father & Groom Roles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Opening Conversation",
+    "candidates": [
+      "Q1: Annul Without Hearing",
+      "Opening Conversation",
+      "Act vs. Effect Split",
+      "Ran: Father vs. Husband"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's rejection that preemptive nullification works without hearing, and explains that the Torah scholar's practice (orcha d'tzurba merabanan lehadurei) is to initiate conversation so the daughter articulates her vows \u2014 exactly what the 'Opening Conversation' section's prose describes.",
+      "chosen_heading": "Opening Conversation",
+      "current_heading": "Opening Conversation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Ran: Father vs. Husband",
+    "candidates": [
+      "Act vs. Effect Split",
+      "Ran: Father vs. Husband",
+      "Future Vows Mishnah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Act vs. Effect Split",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the seifa challenge and its response using 'l'chi shamana') directly continue the Act vs. Effect Split discussion of the husband's pre-chuppah annulment and the hearing requirement.",
+      "second_heading": "Future Vows Mishnah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the new mishnah case of future vows during a trip (Nedarim 75a) and the 'perhaps I will be preoccupied' answer, which matches exactly the Future Vows Mishnah section's prose.",
+      "current_heading": "Ran: Father vs. Husband",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Future Vows Mishnah",
+    "candidates": [
+      "Ran: Father vs. Husband",
+      "Future Vows Mishnah",
+      "No Kiyum Before Existence",
+      "R. Eliezer: Hafarah Befo",
+      "Chachamim: Parallel Requ\u2026",
+      "Act & Effect Upon Hearing",
+      "Why State It Now",
+      "Epitropos Case",
+      "R. Yoshiya vs. R. Yonatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is the baraita about an apotropos being told to annul his wife's vows, which is precisely what the 'Epitropos Case' section's prose describes \u2014 the man appointing a steward and the question of whether the steward's annulment takes effect.",
+      "chosen_heading": "Epitropos Case",
+      "current_heading": "Future Vows Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "R. Yoshiya vs. R. Yonatan",
+    "candidates": [
+      "No Kiyum Before Existence",
+      "R. Eliezer: Hafarah Befo",
+      "Chachamim: Parallel Requ\u2026",
+      "Act & Effect Upon Hearing",
+      "Why State It Now",
+      "Epitropos Case",
+      "R. Yoshiya vs. R. Yonatan",
+      "Transferability of Powers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yonatan's specific statement that 'a person's agent is like himself,' which is exactly the content the prose in section 6 ('R. Yoshiya vs. R. Yonatan') describes and quotes.",
+      "chosen_heading": "R. Yoshiya vs. R. Yonatan",
+      "current_heading": "R. Yoshiya vs. R. Yonatan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Transferability of Powers",
+    "candidates": [
+      "Transferability of Powers",
+      "Shaliach Hearing Problem",
+      "Ran: Hearing as",
+      "Tosafot: Shaliach Can't",
+      "Can Cheresh Annul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yoshiya's position that the epitropos cannot annul only due to gezeirat hakatuv (ishah yekimenu ve'ishah yeferenu), and that everyone agrees shelucho shel adam kemoso applies in principle \u2014 which is precisely what the prose of heading 0 ('Transferability of Powers') describes and quotes verbatim.",
+      "chosen_heading": "Transferability of Powers",
+      "current_heading": "Transferability of Powers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Can Cheresh Annul",
+    "candidates": [
+      "Shaliach Hearing Problem",
+      "Ran: Hearing as",
+      "Tosafot: Shaliach Can't",
+      "Can Cheresh Annul",
+      "Bar Shmiya Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the Gemara's resolution using 'lechish'shameina mefer lah' and 'savar dilma mitradna' \u2014 is directly quoted and explained in Tosafot's section prose, which explicitly cites 'hacha nami de'amar lah lechish'shameina mefer lach' and 'savar dilma mitradna' as part of its discussion.",
+      "chosen_heading": "Tosafot: Shaliach Can't",
+      "current_heading": "Can Cheresh Annul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Bar Shmiya Requirement",
+    "candidates": [
+      "Can Cheresh Annul",
+      "Bar Shmiya Requirement",
+      "R. Zeira's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rami bar \u1e24ama's question about whether a deaf man can annul his wife's vows, which is precisely what candidate 0 ('Can Cheresh Annul') describes, whereas candidates 1 and 2 cover the conditional reasoning and Rabbi Zeira's principle that follow from this opening question.",
+      "chosen_heading": "Can Cheresh Annul",
+      "current_heading": "Bar Shmiya Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "R. Zeira's Principle",
+    "candidates": [
+      "R. Zeira's Principle",
+      "Beraita: Prat L'Eishet C\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's principle about billah/mingling, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "R. Zeira's Principle",
+      "current_heading": "R. Zeira's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Beraita: Prat L'Eishet C\u2026",
+    "candidates": [
+      "Beraita: Prat L'Eishet C\u2026",
+      "Category Membership Matt\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's citation of the baraita itself ('and her husband hears it \u2014 excludes the wife of a deaf man'), which directly matches heading 0's prose about Rava bringing the beraita and its explicit exclusion of the deaf man's wife.",
+      "chosen_heading": "Beraita: Prat L'Eishet C\u2026",
+      "current_heading": "Beraita: Prat L'Eishet C\u2026",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Category Membership Matt\u2026",
+    "candidates": [
+      "Category Membership Matt\u2026",
+      "Two Wives Simultaneously",
+      "Singular 'Otah' in Verse",
+      "Sota Parallel",
+      "Reason for Separation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Wives Simultaneously",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the dilemma about nullifying vows for two wives simultaneously, which matches heading 1 ('Two Wives Simultaneously') and its prose about Rami Bar Chama's question.",
+      "second_heading": "Sota Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravina's proof from the sota ritual (ein mashkin shtei sotos ke'achas), which matches heading 3 ('Sota Parallel') whose prose explicitly discusses this very baraita.",
+      "current_heading": "Category Membership Matt\u2026",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Reason for Separation",
+    "candidates": [
+      "Two Wives Simultaneously",
+      "Singular 'Otah' in Verse",
+      "Sota Parallel",
+      "Reason for Separation",
+      "Reason for Separation",
+      "Individual Annulment Req\u2026",
+      "Mishnah: Bogeret & Alman\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda's position that the sota waters must be administered individually because the verse says 'and he shall make her drink \u2014 her, by herself,' which matches exactly the prose in candidate 3 describing the dispute about the reason for separation in the sota mishnah.",
+      "chosen_heading": "Reason for Separation",
+      "current_heading": "Reason for Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Mishnah: Bogeret & Alman\u2026",
+    "candidates": [
+      "Reason for Separation",
+      "Individual Annulment Req\u2026",
+      "Mishnah: Bogeret & Alman\u2026",
+      "R. Eliezer: Payment Annul",
+      "Chachamim: Actual Nisu'in",
+      "Rava: Reconciliation",
+      "Terumah After 12 Months",
+      "Later Disallowance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text about a bogeret waiting twelve months and an almanah waiting thirty days, with the dispute between Rabbi Eliezer and the Chachamim about when the husband can annul vows, directly matches the prose of heading 2 which describes exactly this mishnah and its cases.",
+      "chosen_heading": "Mishnah: Bogeret & Alman\u2026",
+      "current_heading": "Mishnah: Bogeret & Alman\u2026",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Later Disallowance",
+    "candidates": [
+      "R. Eliezer: Payment Annul",
+      "Chachamim: Actual Nisu'in",
+      "Rava: Reconciliation",
+      "Terumah After 12 Months",
+      "Later Disallowance",
+      "Terumah vs. Nedarim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabba's observation that Rabbi Eliezer and the Mishnah Rishonah said the same thing, which is precisely what candidate 2 ('Rava: Reconciliation') describes \u2014 the prose there explicitly states 'Rabbi Eliezer u-Mishnah Rishonah amru davar echad,' matching the Gemara passage that opens with exactly those words.",
+      "chosen_heading": "Rava: Reconciliation",
+      "current_heading": "Later Disallowance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Terumah vs. Nedarim",
+    "candidates": [
+      "Later Disallowance",
+      "Terumah vs. Nedarim",
+      "Rabbinic vs. Torah Issue",
+      "Why Terumah Restricted",
+      "Implicit Husband Consent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection distinguishing rabbinic terumah from Torah-level nedarim, which is exactly what the 'Terumah vs. Nedarim' section's prose describes.",
+      "chosen_heading": "Terumah vs. Nedarim",
+      "current_heading": "Terumah vs. Nedarim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Implicit Husband Consent",
+    "candidates": [
+      "Rabbinic vs. Torah Issue",
+      "Why Terumah Restricted",
+      "Implicit Husband Consent",
+      "Psychological Intent",
+      "Vows vs. Terumah",
+      "Al Da'as Non-Husband",
+      "Formal Hafarah Mechanism",
+      "Torah's Rationale",
+      "Expanding Husband Catego\u2026",
+      "Role-Based Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explicitly contrasts the al da'as ba'alah reasoning as applying only to nedarim (vows) but not to terumah, which is precisely what the 'Vows vs. Terumah' section discusses \u2014 that the psychological intent framework operates for nedarim specifically while terumah is an external legal status.",
+      "chosen_heading": "Vows vs. Terumah",
+      "current_heading": "Implicit Husband Consent",
+      "moved": true
+    }
+  }
+]

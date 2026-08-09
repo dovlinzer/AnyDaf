@@ -1,0 +1,525 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Moach vs. Oro",
+    "candidates": [
+      "Opening",
+      "Moach vs. Oro",
+      "Majority Definition",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Moach vs. Oro",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the baraita dispute between Rabbi and Rabbi Yaakov plus Rav Huna's ruling, which is exactly what candidate 1 ('Moach vs. Oro') describes in its prose.",
+      "second_heading": "Majority Definition",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the debate between rov oro and rov mocho and the logical inference from each position, which is precisely what candidate 2 ('Majority Definition') and candidate 3 ('Rava's Logic') discuss \u2014 with item 3 belonging under 'Majority Definition' and item 4 under 'Rava's Logic', but since we can only split once, candidate 2 is the better anchor for items 3-4 as it opens the oro/mocho debate.",
+      "current_heading": "Moach vs. Oro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Majority Definition",
+      "Rava's Logic",
+      "Rav Huna Ruling",
+      "Dissolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly instantiate Rav Huna's ruling that 'the majority' means the majority of the outer skin and that the moach makes no difference \u2014 which is precisely what the 'Rav Huna Ruling' prose section discusses and contextualizes.",
+      "chosen_heading": "Rav Huna Ruling",
+      "current_heading": "Rava's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Dissolution",
+    "candidates": [
+      "Rav Huna Ruling",
+      "Dissolution",
+      "Types of Dissolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rabba bar bar \u1e24ana's teaching about *nitmareikh* and *nitmasmeis* with their definitions, which is precisely what the 'Dissolution' section's prose describes as its subject matter.",
+      "chosen_heading": "Dissolution",
+      "current_heading": "Dissolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Types of Dissolution",
+    "candidates": [
+      "Types of Dissolution",
+      "Levi Story",
+      "Abbaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Types of Dissolution' prose, which explicitly discusses Rabbi Yirmiya's dilemma about the cord being unable to stand due to weight, the teiku resolution, the beit Rav distinction between nitmasmes and nitmazmeza, and the baraita from Rabbi Shimon ben Elazar with its emendation \u2014 all of which appear in this passage.",
+      "chosen_heading": "Types of Dissolution",
+      "current_heading": "Types of Dissolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Abbaye's Position",
+    "candidates": [
+      "Levi Story",
+      "Abbaye's Position",
+      "Bein HaParshiyot",
+      "Shmuel's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge from Levi's bathhouse story and Abaye's resolution, but its core content \u2014 the narrative of Levi observing the man bang his head \u2014 belongs under the 'Levi Story' heading, which introduces this very challenge; Abaye's answer is part of the same textual unit that the Levi Story heading's prose frames as a challenge-and-response.",
+      "chosen_heading": "Levi Story",
+      "current_heading": "Abbaye's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Shmuel's Teaching",
+    "candidates": [
+      "Bein HaParshiyot",
+      "Shmuel's Teaching",
+      "Rav Dimi Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'until where does the spinal cord extend' and gives Shmuel's answer 'until bein haparshiyot,' which matches the 'Bein HaParshiyot' section's prose about the gemara asking 'ad heichan \u2014 until where along the spine does the rule apply,' before the detailed explanation of Shmuel's teaching in candidate 1.",
+      "chosen_heading": "Bein HaParshiyot",
+      "current_heading": "Shmuel's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rav Dimi Story",
+    "candidates": [
+      "Shmuel's Teaching",
+      "Rav Dimi Story",
+      "Inclusive Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rav Dimi bar Yitzchak story \u2014 the failed demonstration with the goats and Rav Yehuda's subsequent oral teaching of Shmuel's tradition \u2014 which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Rav Dimi Story",
+      "current_heading": "Rav Dimi Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Inclusive Language",
+    "candidates": [
+      "Inclusive Language",
+      "Bones Insignificant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the dilemmas of Rav Huna, Rav Pappa, and Rabbi Yirmeya about inclusive/exclusive language regarding the first gap, which is precisely what the 'Inclusive Language' prose discusses in detail.",
+      "chosen_heading": "Inclusive Language",
+      "current_heading": "Inclusive Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Bones Insignificant",
+    "candidates": [
+      "Bones Insignificant",
+      "Rabbi Yannai vs Reish Lak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about 'haparasha k'basar' being treated as flesh and the gemara's resolution that it refers to the third branch, which is precisely what the 'Bones Insignificant' section's prose describes.",
+      "chosen_heading": "Bones Insignificant",
+      "current_heading": "Bones Insignificant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rabbi Yannai vs Reish Lak",
+    "candidates": [
+      "Rabbi Yannai vs Reish Lak",
+      "Ulla & Rav Pazzi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the Rabbi Yannai vs Reish Lakish dispute about the spinal cord boundary in birds, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Rabbi Yannai vs Reish Lak",
+      "current_heading": "Rabbi Yannai vs Reish Lak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Ulla & Rav Pazzi",
+    "candidates": [
+      "Ulla & Rav Pazzi",
+      "Liver Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ulla's account of observing Rav Pazzi (ben Pazi) examining a bird, which matches exactly the prose under 'Ulla & Rav Pazzi' where the current placement already sits.",
+      "chosen_heading": "Ulla & Rav Pazzi",
+      "current_heading": "Ulla & Rav Pazzi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Liver Contradiction",
+    "candidates": [
+      "Liver Contradiction",
+      "Two Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the contradiction between the two mishnayot (mashehu vs. kezayit) that the 'Liver Contradiction' section's prose describes, before any resolution is offered.",
+      "chosen_heading": "Liver Contradiction",
+      "current_heading": "Liver Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Two Opinions",
+    "candidates": [
+      "Two Opinions",
+      "Troop Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's resolution of the contradiction between the two mishnayot via Rabbi \u1e24iyya and Rabbi Shimon bar Rabbi, along with the mnemonic, which is precisely what the 'Two Opinions' prose discusses in detail.",
+      "chosen_heading": "Two Opinions",
+      "current_heading": "Two Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Troop Story",
+    "candidates": [
+      "Troop Story",
+      "Rav Pappa Ruling",
+      "Kezayit Form"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire narrative including the army story, Rabba and Rav Yosef fleeing, Rabbi Zeira's remark, Rav Adda bar Ahava's opinion, AND Rav Pappa's ruling \u2014 but the current placement under 'Troop Story' already contains prose that explicitly discusses all these elements including the Rav Pappa conclusion, making it the best single home for the complete passage.",
+      "chosen_heading": "Troop Story",
+      "current_heading": "Troop Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Kezayit Form",
+    "candidates": [
+      "Rav Pappa Ruling",
+      "Kezayit Form",
+      "Adhesions Intro",
+      "Why Adhesions Matter",
+      "Lung Membranes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Kezayit Form' prose, which explicitly describes Rabbi Yirmiya's questions about gathered pieces/strips, Rav Ashi's flat olive-bulk question left in teiku, and Rav Zerika's question about a loosened liver still held by its membrane \u2014 all of which are the exact content of items 1 and 2.",
+      "chosen_heading": "Kezayit Form",
+      "current_heading": "Kezayit Form",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Lung Membranes",
+    "candidates": [
+      "Adhesions Intro",
+      "Why Adhesions Matter",
+      "Lung Membranes",
+      "Red Cloak",
+      "Peeled Lung"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the debate among Rav, Shmuel, and Rav Asi about whether perforation of the outer or inner lung membrane renders the animal a treifa, along with Rav Na\u1e25man's mnemonic \u2014 exactly the content described in the 'Lung Membranes' prose, which covers this same dispute and these same amora'im.",
+      "chosen_heading": "Lung Membranes",
+      "current_heading": "Lung Membranes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Peeled Lung",
+    "candidates": [
+      "Red Cloak",
+      "Peeled Lung",
+      "Inner vs. Outer",
+      "Avsha Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Peeled Lung",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the case where the outer membrane is perforated but the inner is not, referencing Rabba's ruling about a peeled lung \u2014 exactly the content of the 'Peeled Lung' section.",
+      "second_heading": "Inner vs. Outer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 poses the converse question \u2014 what if the inner membrane is perforated but the outer is not \u2014 which is precisely the question that opens the 'Inner vs. Outer' section's prose.",
+      "current_heading": "Peeled Lung",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Avsha Test",
+    "candidates": [
+      "Inner vs. Outer",
+      "Avsha Test",
+      "Water Test",
+      "Sound Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Rav A\u1e25a/Ravina dispute about whether the outer membrane protects when the inner is pierced, and the halakhic ruling that it does protect \u2014 which is precisely the content of the 'Inner vs. Outer' prose section, not the 'Avsha Test' section where it currently sits.",
+      "chosen_heading": "Inner vs. Outer",
+      "current_heading": "Avsha Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Sound Explanation",
+    "candidates": [
+      "Water Test",
+      "Sound Explanation",
+      "Lung Redness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the water test procedure (why not hot, why not cold, use lukewarm water, inflate and observe bubbles), which matches the 'Water Test' prose exactly, and only at the end explains the sound \u2014 the sound explanation is a consequence of the test result, not the primary content.",
+      "chosen_heading": "Water Test",
+      "current_heading": "Sound Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Lung Redness",
+    "candidates": [
+      "Sound Explanation",
+      "Lung Redness",
+      "Ravina Challenge",
+      "Shabbat Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce Rava's rulings about lung redness (the mnemonic and the rulings themselves), which is precisely what the 'Lung Redness' section's prose discusses.",
+      "chosen_heading": "Lung Redness",
+      "current_heading": "Lung Redness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Shabbat Context",
+    "candidates": [
+      "Ravina Challenge",
+      "Shabbat Context",
+      "Dried Lung"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous dialectical unit \u2014 Ravina's challenge to Rava about partial vs. complete reddening, supported by the baraita about creeping creatures, followed by the attempted resolution and the conclusion 'ela lo shna' \u2014 which perfectly matches the 'Ravina Challenge' prose description, not the broader 'Shabbat Context' section where it currently sits.",
+      "chosen_heading": "Ravina Challenge",
+      "current_heading": "Shabbat Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Dried Lung",
+    "candidates": [
+      "Shabbat Context",
+      "Dried Lung",
+      "Rabbi Yossi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's ruling on a partially dried lung and the crumbling-with-a-fingernail standard, which is precisely what the 'Dried Lung' section's prose discusses.",
+      "chosen_heading": "Dried Lung",
+      "current_heading": "Dried Lung",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Rabbi Yossi Position",
+    "candidates": [
+      "Rabbi Yossi Position",
+      "Redness Resolution",
+      "Ear vs. Lung"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whose opinion is followed and the baraita about Rabbi Yosei ben HaMeshullam's crumbling standard, which is precisely what the 'Rabbi Yossi Position' prose describes.",
+      "chosen_heading": "Rabbi Yossi Position",
+      "current_heading": "Rabbi Yossi Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Ear vs. Lung",
+    "candidates": [
+      "Redness Resolution",
+      "Ear vs. Lung",
+      "Discolorations",
+      "Blisters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the ear-vs-lung distinction (gabei ozen bechor) and Rava's ruling on discolorations, but since the current heading's prose explicitly covers both the ear/lung structural distinction AND mentions Rava's ruling as part of the same section, and the passage is a single continuous Talmudic excerpt, it best fits under 'Ear vs. Lung' which discusses both elements together.",
+      "chosen_heading": "Ear vs. Lung",
+      "current_heading": "Ear vs. Lung",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Blisters",
+    "candidates": [
+      "Discolorations",
+      "Blisters",
+      "Session End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Ameimar's ruling on not comparing cysts/blisters (buei) directly matches the 'Blisters' section's prose, which explicitly discusses this same ruling and its implications.",
+      "chosen_heading": "Blisters",
+      "current_heading": "Blisters",
+      "moved": false
+    }
+  }
+]

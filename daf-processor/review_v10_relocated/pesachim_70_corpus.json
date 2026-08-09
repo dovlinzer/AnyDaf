@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Akiva's Principle",
+    "candidates": [
+      "Tumah Recap",
+      "Akiva's Principle",
+      "Rav's Ruling",
+      "Two Rulings Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Akiva's principle for both Pesach and milah along with Rav's ruling in each case, which matches the 'Akiva's Principle' section's prose that explicitly discusses Rabbi Akiva's general rule in both contexts \u2014 the 'Rav's Ruling' and 'Two Rulings Needed' sections are separate downstream discussions.",
+      "chosen_heading": "Akiva's Principle",
+      "current_heading": "Akiva's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Two Rulings Needed",
+    "candidates": [
+      "Rav's Ruling",
+      "Two Rulings Needed",
+      "13 Covenants",
+      "Chagigah Definition",
+      "Chagigat 14th",
+      "Al HaSova",
+      "When Brought",
+      "When Not Brought",
+      "Chagigah Properties"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two Rulings Needed",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara's 'v'tzricha' argument explaining why both the Pesach and milah rulings were necessary, which exactly matches the 'Two Rulings Needed' prose.",
+      "second_heading": "When Brought",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Mishna opening a new topic about when one brings the chagigah with the Korban Pesach, which exactly matches the 'When Brought' prose describing the mishnah's conditions.",
+      "current_heading": "Two Rulings Needed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chagigah Properties",
+    "candidates": [
+      "13 Covenants",
+      "Chagigah Definition",
+      "Chagigat 14th",
+      "Al HaSova",
+      "When Brought",
+      "When Not Brought",
+      "Chagigah Properties",
+      "Eating Rules",
+      "Context",
+      "Not Obligatory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the chagigah coming from flock/herd, males/females, and being eaten two days and one night \u2014 exactly the content discussed in 'Chagigah Properties' prose, which mentions these same distinguishing features from the Pesach.",
+      "chosen_heading": "Chagigah Properties",
+      "current_heading": "Chagigah Properties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Not Obligatory",
+    "candidates": [
+      "Eating Rules",
+      "Context",
+      "Not Obligatory",
+      "Full Eating",
+      "Identical to Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion \u2014 items 1-3 explain why the chagigah is mentioned here (context) and establish it is not an obligation, and item 4 answers why it comes when portions are small \u2014 exactly matching the 'Context' prose which describes the Gemara's question about why the mishnah discusses chagigah here and transitions to the conditions under which it is brought, whereas the current heading 'Not Obligatory' only covers part of this passage.",
+      "chosen_heading": "Context",
+      "current_heading": "Not Obligatory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Identical to Pesach",
+    "candidates": [
+      "Full Eating",
+      "Identical to Pesach",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core Ben Teima baraita content \u2014 item 1 introduces his ruling comparing the chagigah of the fourteenth to the Pesach, and item 2 gives his statement about fulfilling simcha vs. chagigah obligations \u2014 which is precisely what the 'Identical to Pesach' prose section describes in detail.",
+      "chosen_heading": "Identical to Pesach",
+      "current_heading": "Identical to Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Baraita Proof",
+      "Questions",
+      "Roasted Only",
+      "Full Requirements"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the scriptural basis for Ben Teima's opinion (the verse lo yalin laboker zevach chag hapesach), which is precisely what the 'Baraita Proof' prose discusses.",
+      "second_heading": "Roasted Only",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the dilemma of whether the chagigah must be eaten roasted according to Ben Teima, which is exactly what the 'Roasted Only' prose addresses.",
+      "current_heading": "Baraita Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Full Requirements",
+    "candidates": [
+      "Questions",
+      "Roasted Only",
+      "Full Requirements",
+      "Bones Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Roasted Only",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the roasting question and Rav \u1e24isda's proof from the mishna's 'all roasted' formulation, matching the 'Roasted Only' section's prose exactly.",
+      "second_heading": "Questions",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 address the dilemmas about cattle/females/age and are resolved by the baraita equating the chagigah to the Pesach in all respects, matching the 'Questions' and 'Full Requirements' sections \u2014 but since items 2-3 pose the questions about cattle/females/age and items 4-5 resolve them, the natural home starting from item 2 is the 'Questions' heading which introduces exactly those dilemmas.",
+      "current_heading": "Full Requirements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Bones Question",
+    "candidates": [
+      "Full Requirements",
+      "Bones Question",
+      "Knife/Cleaver",
+      "Cleaver Use"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bones Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the dilemma about whether the chagigah is subject to sheviras etzem, which matches exactly the 'Bones Question' prose describing this very question about bo limiting the prohibition.",
+      "second_heading": "Knife/Cleaver",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the mishna about the slaughtering knife found on the fourteenth versus thirteenth, which matches exactly the 'Knife/Cleaver' prose describing this same mishna and its reasoning.",
+      "current_heading": "Bones Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Cleaver Use",
+    "candidates": [
+      "Knife/Cleaver",
+      "Cleaver Use",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whose opinion the mishnah reflects and argues that if it follows the Rabbis, the cleaver should also be assumed immersed since it is fit for the chagigah \u2014 exactly the content described in the 'Cleaver Use' prose.",
+      "chosen_heading": "Cleaver Use",
+      "current_heading": "Cleaver Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Complaint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items trace the Gemara's chain of rejected explanations (Shabbat case, large portion, tumah, nasi dying) and the final resolution with terei safeika, which is precisely what the 'Resolution' prose describes in detail.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Complaint",
+    "candidates": [
+      "Complaint",
+      "Rav Defends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Yehuda ben Dortai's separation and his complaint about Shemaya and Avtalyon not ruling that the chagigah overrides Shabbat, which is exactly what the 'Complaint' section's prose discusses in detail.",
+      "chosen_heading": "Complaint",
+      "current_heading": "Complaint",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Rav Defends",
+    "candidates": [
+      "Rav Defends",
+      "Ashi Objects",
+      "Money Use",
+      "Core Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Ashi-Nachman unit: item 1 is Rav's explanation of Ben Dortai (which Rav Ashi then rejects in item 2), item 2 is Rav Ashi's objection and introduction of Rav Nachman's alternative reading, and item 3 is Rav Nachman's actual derivation \u2014 all of which is discussed under the 'Ashi Objects' prose that covers Rav Ashi's rejection and the redirection to Rav Nachman's law of surplus Pesach funds.",
+      "chosen_heading": "Ashi Objects",
+      "current_heading": "Rav Defends",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Core Question",
+    "candidates": [
+      "Ashi Objects",
+      "Money Use",
+      "Core Question",
+      "Corporate Answer",
+      "Seven Days Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly poses the question 'why does the chagigah not override Shabbat according to the Rabbis, given it is certainly a communal offering,' which is precisely the fundamental question the 'Core Question' prose section introduces.",
+      "chosen_heading": "Core Question",
+      "current_heading": "Core Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Seven Days Proof",
+    "candidates": [
+      "Corporate Answer",
+      "Seven Days Proof",
+      "Tosafot Caveat",
+      "Ravin Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the verse-based proof (seven vs. eight days) that derives the chagigah does not override Shabbat, which is precisely what the 'Seven Days Proof' section's prose describes.",
+      "chosen_heading": "Seven Days Proof",
+      "current_heading": "Seven Days Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Ravin Challenge",
+    "candidates": [
+      "Tosafot Caveat",
+      "Ravin Challenge",
+      "Abaye Answer",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Ravin's challenge (only six days when first day falls on Shabbat) and Abaye's response (eight never found, seven found in most years), and the current placement under 'Ravin Challenge' is correct since that section's prose explicitly describes this exact content including Ravin's challenge about six days when Yom Tov rishon falls on Shabbat.",
+      "chosen_heading": "Ravin Challenge",
+      "current_heading": "Ravin Challenge",
+      "moved": false
+    }
+  }
+]

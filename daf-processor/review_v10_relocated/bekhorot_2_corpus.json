@@ -1,0 +1,455 @@
+[
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Tosafot View",
+    "candidates": [
+      "Kodashim Context",
+      "Rishonim Sources",
+      "Masechet Size",
+      "3 Types Overview",
+      "Peter Chamor Start",
+      "Buy Fetus Case",
+      "Exemption Principle",
+      "Sell Fetus Case",
+      "Az Prohibition",
+      "Partnership/Consignment",
+      "Exemption Source",
+      "Redundancy Question",
+      "All Cases Needed",
+      "Kedusha Concepts",
+      "Rashi View",
+      "No Knas Conclusion",
+      "Tosafot View",
+      "Partnership Case Need",
+      "R.Y. Exclusion",
+      "R.Y. Partnership",
+      "Matnot Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "high",
+      "reason": "The passage explains why both the buying and selling cases are necessary, specifically the concern that selling removes the fetus from kedusha and one might think a rabbinic fine (knas) should apply \u2014 exactly the content described in the 'Kedusha Concepts' prose section.",
+      "chosen_heading": "Kedusha Concepts",
+      "current_heading": "Tosafot View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Matnot Contrast",
+    "candidates": [
+      "Partnership Case Need",
+      "R.Y. Exclusion",
+      "R.Y. Partnership",
+      "Matnot Contrast",
+      "Consignment Opacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why the partnership case is needed and then answers with Rabbi Yehuda's position \u2014 it covers the full question-and-answer that heading 0 ('Partnership Case Need') introduces, rather than belonging under 'Matnot Contrast' which discusses downstream implications.",
+      "chosen_heading": "Partnership Case Need",
+      "current_heading": "Matnot Contrast",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Consignment Opacity",
+    "candidates": [
+      "Matnot Contrast",
+      "Consignment Opacity",
+      "Consequentialist View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why the mishna needed to state the kabala case \u2014 precisely because it serves as a vehicle to introduce the noten case \u2014 which is exactly what the 'Consignment Opacity' prose describes.",
+      "chosen_heading": "Consignment Opacity",
+      "current_heading": "Consignment Opacity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Consequentialist View",
+    "candidates": [
+      "Consequentialist View",
+      "Gezeira Rejected",
+      "Confusion Risk",
+      "AZ Sources",
+      "R.Y. Broken Leg"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the Gemara needed to state the 'noten b'kabbalah' case \u2014 specifically that one might have thought to impose a knas/penalty, and the mishna teaches no such penalty applies \u2014 which maps directly to the 'Gezeira Rejected' section's prose about the Rabbis not imposing a rabbinic gezeira and the Jew remaining exempt.",
+      "chosen_heading": "Gezeira Rejected",
+      "current_heading": "Consequentialist View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "R.Y. Broken Leg",
+    "candidates": [
+      "Gezeira Rejected",
+      "Confusion Risk",
+      "AZ Sources",
+      "R.Y. Broken Leg",
+      "Ben B. Horse",
+      "Fetus Question",
+      "Reason vs. Unusual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna from Avodah Zarah introducing both Rabbi Yehuda and ben Beteira's opinions together, which matches the 'AZ Sources' prose describing the Gemara invoking the relevant mishna in Masechet Avodah Zarah with 'tnan hosam \u2014 it was taught there,' before the essay breaks down each opinion separately in subsequent sections.",
+      "chosen_heading": "AZ Sources",
+      "current_heading": "R.Y. Broken Leg",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Reason vs. Unusual",
+    "candidates": [
+      "Ben B. Horse",
+      "Fetus Question",
+      "Reason vs. Unusual",
+      "Proof Source",
+      "Fetus Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about what Rabbi Yehuda would say regarding a fetus, which is precisely what 'Fetus Question' describes, whereas 'Reason vs. Unusual' (current placement) describes the resolution/elaboration of that dilemma in the essay prose.",
+      "chosen_heading": "Fetus Question",
+      "current_heading": "Reason vs. Unusual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Fetus Prohibition",
+    "candidates": [
+      "Proof Source",
+      "Fetus Prohibition",
+      "Silence Inference",
+      "No Inference Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Gemara's attempt to resolve the dilemma via 'Ta shema' (Come and hear), which matches the 'Proof Source' heading's prose about invoking the mishna as a source of evidence, rather than the 'Fetus Prohibition' heading which describes the conclusion drawn from the mishna.",
+      "chosen_heading": "Proof Source",
+      "current_heading": "Fetus Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "No Inference Rule",
+    "candidates": [
+      "Silence Inference",
+      "No Inference Rule",
+      "Receive Consignment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's rejection of the silence inference and its conclusion that Rabbi Yehuda disagrees but the mishna simply does not record it \u2014 exactly the content described in the 'No Inference Rule' prose.",
+      "chosen_heading": "No Inference Rule",
+      "current_heading": "No Inference Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Receive Consignment",
+    "candidates": [
+      "Receive Consignment",
+      "Half Value Obligation",
+      "Owner Gives Case",
+      "Redemption Fine",
+      "Full Value Penalty",
+      "Violation Identification",
+      "Mother Violation",
+      "Grammar Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita text covering both the 'receive consignment' case and the 'owner gives' case with penalties, but the current placement under 'Receive Consignment' is where the baraita is first introduced, and the essay breaks down the individual components of the baraita under subsequent headings \u2014 the current placement is correct as the locus where the baraita is cited in full.",
+      "chosen_heading": "Receive Consignment",
+      "current_heading": "Receive Consignment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Grammar Analysis",
+    "candidates": [
+      "Half Value Obligation",
+      "Owner Gives Case",
+      "Redemption Fine",
+      "Full Value Penalty",
+      "Violation Identification",
+      "Mother Violation",
+      "Grammar Analysis",
+      "Pregnant Animal",
+      "Fattening Rights",
+      "Extension Logic",
+      "Exception Rehash",
+      "No Healing",
+      "Future Capacity",
+      "Fetus Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items are the grammatical challenge and resolution sequence (masculine damav vs. feminine dameha, and the kohen problem) that the 'Grammar Analysis' prose section explicitly describes.",
+      "chosen_heading": "Grammar Analysis",
+      "current_heading": "Grammar Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Fetus Analogy",
+    "candidates": [
+      "Pregnant Animal",
+      "Fattening Rights",
+      "Extension Logic",
+      "Exception Rehash",
+      "No Healing",
+      "Future Capacity",
+      "Fetus Analogy",
+      "Conclusion",
+      "Version Difference",
+      "Mishna Hypothesis",
+      "Cross-Ref"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fetus Analogy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's 'ta shema' argument concluding that the fetus analogy proves Rabbi Yehuda forbids the sale \u2014 precisely the content described under 'Fetus Analogy' (heading 6), which discusses the fetus as analogous to something that can heal and therefore falls under Rabbi Yehuda's prohibition.",
+      "second_heading": "Version Difference",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the alternative textual tradition ('ve-ika de-matni lah a-matnitin') framing the discussion as starting from the mishna in Bekhorot rather than Avodah Zarah \u2014 exactly the structural shift described under 'Version Difference' (heading 8).",
+      "current_heading": "Fetus Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Cross-Ref",
+    "candidates": [
+      "Conclusion",
+      "Version Difference",
+      "Mishna Hypothesis",
+      "Cross-Ref",
+      "Repeated Analysis",
+      "Question Posed",
+      "Ownership Transfer",
+      "Non-Existent Rule",
+      "Fruit Analogy",
+      "Rights Ownership",
+      "Both Positions",
+      "Limited Exception",
+      "Visual Distinction",
+      "Whole Confusable",
+      "Distinction Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together constitute the 'repeated analysis' of the same shvura/ubar distinction and Rav Ashi's proof that Rabbi Yehuda prohibits fetus sale \u2014 exactly what the 'Repeated Analysis' prose describes as the second version of the tradition reaching the same conclusions through the same reasoning.",
+      "chosen_heading": "Repeated Analysis",
+      "current_heading": "Cross-Ref",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "current_heading": "Distinction Debate",
+    "candidates": [
+      "Repeated Analysis",
+      "Question Posed",
+      "Ownership Transfer",
+      "Non-Existent Rule",
+      "Fruit Analogy",
+      "Rights Ownership",
+      "Both Positions",
+      "Limited Exception",
+      "Visual Distinction",
+      "Whole Confusable",
+      "Distinction Debate",
+      "Rabbis' Reason",
+      "Rabbis Respond",
+      "Future Breeding",
+      "Initial Impression",
+      "Real Concern"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Both Positions",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 present the bifurcated dilemma (tiba'ei le-Rabbi Yehuda / tiba'ei le-Rabbanan) about selling for offspring-rights, which is precisely what candidate 6 ('Both Positions') describes \u2014 the question raised according to both Rabbi Yehuda and the Rabbis with its two-directional arguments.",
+      "second_heading": "Rabbis' Reason",
+      "second_confidence": "high",
+      "second_reason": "Item 6 opens with 've-ta'ama de-Rabbanan mishum hachi hu?' \u2014 the exact question candidate 11 ('Rabbis' Reason') describes: challenging whether the Rabbis' basis for disagreeing with Rabbi Yehuda is really the lo plug / confusion concern.",
+      "current_heading": "Distinction Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      198
+    ],
+    "current_heading": "Real Concern",
+    "candidates": [
+      "Rabbis' Reason",
+      "Rabbis Respond",
+      "Future Breeding",
+      "Initial Impression",
+      "Real Concern",
+      "Lo Plug Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explains what the Rabbis are 'really saying' to Rabbi Yehuda \u2014 that their concern is lo plug/confusion with unblemished animals \u2014 which directly matches the 'Real Concern' prose describing hachi ka'amar leh and ta'ama didan mishum de-ati le-ichlufei bi-behema.",
+      "chosen_heading": "Real Concern",
+      "current_heading": "Real Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      201,
+      202,
+      203
+    ],
+    "current_heading": "Lo Plug Focus",
+    "candidates": [
+      "Lo Plug Focus",
+      "Partnership Banned",
+      "Oath Risk",
+      "Foreign God Oath",
+      "Torah Prohibition",
+      "Causation Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items continue the same sugya about selling livestock for fetus-rights \u2014 items 1-2 address the breeding objection between Rabbi Yehuda and the Rabbis (explicitly described in candidate 0's prose), and item 3 brings a further proof from the mishna's receivership case, still within the same discussion that candidate 0's prose frames.",
+      "chosen_heading": "Lo Plug Focus",
+      "current_heading": "Lo Plug Focus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      216
+    ],
+    "current_heading": "Causation Issue",
+    "candidates": [
+      "Partnership Banned",
+      "Oath Risk",
+      "Foreign God Oath",
+      "Torah Prohibition",
+      "Causation Issue",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage opens with 'u-letamecha' (but according to your reasoning) and poses the question about why the mishna doesn't say 'af al pi she-eino rashai' in the partnership case, which is precisely what the 'Question Posed' prose describes.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Causation Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      221
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Causation Issue",
+      "Question Posed",
+      "Mechira Teaching",
+      "Mechira Fundamental",
+      "Tosafot View",
+      "Actual Scope",
+      "Oath Reality",
+      "Next Tosafot",
+      "Christian Oaths",
+      "Tomorrow Preview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains that the tanna taught 'mechira' and the same applies to shutafut and receivership, with mechira being the primary case \u2014 this directly matches the 'Mechira Teaching' section's prose about how the mishna's teaching of mechira implicitly encompasses shutafut and other cases.",
+      "chosen_heading": "Mechira Teaching",
+      "current_heading": "Question Posed",
+      "moved": true
+    }
+  }
+]

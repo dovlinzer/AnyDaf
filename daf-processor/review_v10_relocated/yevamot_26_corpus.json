@@ -1,0 +1,217 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Fear of One Death",
+    "candidates": [
+      "Intro: Four Brothers",
+      "Bittul Mitzvat Yabam",
+      "Why Four Not Three?",
+      "Zikah & Four Brothers",
+      "Fear of One Death",
+      "Setup: Three Sisters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly answers the question of why we don't extend to five brothers by stating 'we are not concerned over the death of two,' which is precisely what the 'Fear of One Death' section's prose describes as *lemita de-trei lo chayshinan*.",
+      "chosen_heading": "Fear of One Death",
+      "current_heading": "Fear of One Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Setup: Three Sisters",
+    "candidates": [
+      "Setup: Three Sisters",
+      "Chalitzah Psula Intro",
+      "Sequential Deaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the initial ruling of Rav about three sisters requiring \u1e25alitza and the first challenge from Rabba about \u1e25alitza pesulah, which the prose of heading 0 ('Setup: Three Sisters') explicitly anticipates and frames as the entry point before the detailed analysis of \u1e25alitza pesulah and sequential deaths in headings 1 and 2.",
+      "chosen_heading": "Setup: Three Sisters",
+      "current_heading": "Setup: Three Sisters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Sequential Deaths",
+    "candidates": [
+      "Chalitzah Psula Intro",
+      "Sequential Deaths",
+      "Rachel & Sarah's Status",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Chalitzah Me'alya",
+      "Chalitzah Weaker Woman",
+      "Stronger Chalitzah Works",
+      "Achot Zikukato"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Sequential Deaths",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 describe the zo achar zo (sequential) case with Reuven and Shimon performing \u1e25alitza sequentially, which is precisely what the 'Sequential Deaths' prose discusses.",
+      "second_heading": "Rav's Position",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 address the tension with Rav's ein zikah position and then Shmuel's echad \u1e25oletz lekulan ruling with the chalitzah ma'alya challenge and its resolution, which is exactly what 'Rav's Position' and subsequent sections discuss.",
+      "current_heading": "Sequential Deaths",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Achot Zikukato",
+    "candidates": [
+      "Rachel & Sarah's Status",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Chalitzah Me'alya",
+      "Chalitzah Weaker Woman",
+      "Stronger Chalitzah Works",
+      "Achot Zikukato",
+      "Simultaneous Deaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Shmuel ruling cited in candidate 3's prose ('chalatz l'achayot lo nifteru tzarot / chalatz litzarot nifteru achayot') along with the parallel cases of ba'alat ha-get and ba'alat ha-ma'amar, and concludes with the 'ein zikah' answer \u2014 all of which candidate 3's prose explicitly introduces as the source for the tension about Shmuel's position on chalitzah ma'alya.",
+      "chosen_heading": "Chalitzah Me'alya",
+      "current_heading": "Achot Zikukato",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Simultaneous Deaths",
+    "candidates": [
+      "Achot Zikukato",
+      "Simultaneous Deaths",
+      "Status Changes Sequential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the Gemara's challenge about Shmuel's position on yesh/ein zika and its consequences for whether chalitzah with the sisters releases their co-wives \u2014 exactly the topic described in the 'Simultaneous Deaths' prose, which explicitly sets up the ein zika question and asks why chalitzah with the sisters wouldn't release co-wives.",
+      "chosen_heading": "Simultaneous Deaths",
+      "current_heading": "Simultaneous Deaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Status Changes Sequential",
+    "candidates": [
+      "Status Changes Sequential",
+      "Rachel: Achot Chalutzato",
+      "Tzaras Krovat Chalitzato",
+      "Cannot Finish with Tzaros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and challenges with the mishna about 'assur adam bitzaras krovat chalitzato,' which is precisely the prohibition introduced and explained in the 'Tzaras Krovat Chalitzato' section's prose.",
+      "chosen_heading": "Tzaras Krovat Chalitzato",
+      "current_heading": "Status Changes Sequential",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Cannot Finish with Tzaros",
+    "candidates": [
+      "Rachel: Achot Chalutzato",
+      "Tzaras Krovat Chalitzato",
+      "Cannot Finish with Tzaros",
+      "Can Finish with Achayos",
+      "Zikah Not Strong Enough"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Shmuel reread based on the distinction between beginning with sisters vs. co-wives, citing the mishna about tzaras krovat chalitzato \u2014 which is precisely what the 'Tzaras Krovat Chalitzato' section's prose introduces and explains.",
+      "chosen_heading": "Tzaras Krovat Chalitzato",
+      "current_heading": "Cannot Finish with Tzaros",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Zikah Not Strong Enough",
+    "candidates": [
+      "Can Finish with Achayos",
+      "Zikah Not Strong Enough",
+      "Chalitzah with Tzara",
+      "Beit Shammai Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly express Rav Ashi's principle that 'the levirate bond is not strong enough to render the rival wife like a forbidden relative' \u2014 exactly the content described in the 'Zikah Not Strong Enough' prose, where the essay author explains Rav Ashi's *lo alima zika* reasoning and the baraita that supports it.",
+      "chosen_heading": "Zikah Not Strong Enough",
+      "current_heading": "Zikah Not Strong Enough",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Beit Shammai Permits",
+    "candidates": [
+      "Chalitzah with Tzara",
+      "Beit Shammai Permits",
+      "Covering All Views",
+      "Final Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abba bar Memel's proposal that the baraita follows Beit Shammai and the immediate Gemara objection about why yibum isn't also performed, which exactly matches the 'Beit Shammai Permits' section's prose describing this same argument and objection.",
+      "chosen_heading": "Beit Shammai Permits",
+      "current_heading": "Beit Shammai Permits",
+      "moved": false
+    }
+  }
+]

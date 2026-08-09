@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Mishnah Permitted Acts",
+    "candidates": [
+      "Welcome & Overview",
+      "Previous Perek Review",
+      "Scope of Vows",
+      "Ein Bein Formula",
+      "Mishnah Permitted Acts",
+      "Gap in Understanding",
+      "Rabbi Eliezer Attribution",
+      "Vittur Concept"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ein Bein Formula",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishnah presenting the 'ein bein' distinction between mudar hana'ah and mudar ma'achal, which is precisely what candidate 3 ('Ein Bein Formula') discusses in detail.",
+      "second_heading": "Mishnah Permitted Acts",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the continuation of the Mishnah listing specific forbidden and permitted utensils for one forbidden from food benefit, which is exactly what candidate 4 ('Mishnah Permitted Acts') describes in its prose.",
+      "current_heading": "Mishnah Permitted Acts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Vittur Concept",
+    "candidates": [
+      "Gap in Understanding",
+      "Rabbi Eliezer Attribution",
+      "Vittur Concept",
+      "Vittur Examples",
+      "Abstract Benefits",
+      "Sieve Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the gemara's question 'who is the tanna' and Rav Adda bar Ahava's answer attributing the mishna to Rabbi Eliezer, which directly matches the 'Rabbi Eliezer Attribution' section's prose description of that same exchange.",
+      "chosen_heading": "Rabbi Eliezer Attribution",
+      "current_heading": "Vittur Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Sieve Problem",
+    "candidates": [
+      "Vittur Examples",
+      "Abstract Benefits",
+      "Sieve Problem",
+      "Rav Shimon Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna passage about one forbidden from another's food not being able to borrow utensils is precisely the text that introduces the 'Sieve Problem' \u2014 why borrowing food-preparation vessels is forbidden when only food was vowed against.",
+      "chosen_heading": "Sieve Problem",
+      "current_heading": "Sieve Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Rav Shimon Interpretation",
+    "candidates": [
+      "Rav Shimon Interpretation",
+      "Rava Definition",
+      "Monetary Savings",
+      "Transportation Objects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Shimon Interpretation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shimon ben Lakish's interpretation ('benefit from your food is forbidden to me'), which is precisely what the 'Rav Shimon Interpretation' prose discusses.",
+      "second_heading": "Rava Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's broader formulation ('benefit that leads to your food is forbidden to me'), which is exactly what the 'Rava Definition' prose discusses.",
+      "current_heading": "Rav Shimon Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Transportation Objects",
+    "candidates": [
+      "Rava Definition",
+      "Monetary Savings",
+      "Transportation Objects",
+      "Rav Pappa Queries",
+      "Getting to Food",
+      "Clothing & Appearance",
+      "Inconclusive Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Transportation Objects' prose describes \u2014 Rav Pappa's statement about sacks, donkeys, and baskets for transporting food as hana'ah hamevia lidei ma'achal \u2014 and also includes Rav Pappa's dilemma about the horse, ring, and traversing land, which the subsequent headings (3-6) address separately in the essay's prose.",
+      "chosen_heading": "Transportation Objects",
+      "current_heading": "Transportation Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Inconclusive Proof",
+    "candidates": [
+      "Rav Pappa Queries",
+      "Getting to Food",
+      "Clothing & Appearance",
+      "Inconclusive Proof",
+      "Monetary Substitution",
+      "Mashkirin Concept",
+      "Car Rental Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items constitute the Gemara's attempt to resolve Rav Pappa's dilemma via the mishnah's seifa about lending clothing/rings, followed by the refutation showing the proof is inconclusive \u2014 exactly what the 'Inconclusive Proof' prose describes.",
+      "chosen_heading": "Inconclusive Proof",
+      "current_heading": "Inconclusive Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Car Rental Example",
+    "candidates": [
+      "Monetary Substitution",
+      "Mashkirin Concept",
+      "Car Rental Example",
+      "Rabbi Eliezer vs. Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 that any item not used for food preparation is forbidden when it is the type normally rented out \u2014 directly introduces the monetary substitution mechanism described in candidate 0's prose, which explains how renting-equivalent items constitute monetary benefit that translates into food benefit.",
+      "chosen_heading": "Monetary Substitution",
+      "current_heading": "Car Rental Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rabbi Eliezer vs. Rabbis",
+    "candidates": [
+      "Car Rental Example",
+      "Rabbi Eliezer vs. Rabbis",
+      "Three Permitted Acts",
+      "Temple Tax",
+      "Paying Off Debts",
+      "Lost Objects",
+      "Payment for Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's inference about the first clause of the mishna (sieves/strainers even where not normally rented) and identifies Rabbi Eliezer as the tanna, which matches exactly the prose under 'Rabbi Eliezer vs. Rabbis' that discusses michlal de-reisha, maskirin, and Rabbi Eliezer's position on vittur.",
+      "chosen_heading": "Rabbi Eliezer vs. Rabbis",
+      "current_heading": "Rabbi Eliezer vs. Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Payment for Return",
+    "candidates": [
+      "Three Permitted Acts",
+      "Temple Tax",
+      "Paying Off Debts",
+      "Lost Objects",
+      "Payment for Return",
+      "Creditors as Lions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introduces all three permitted acts together (shekel, debt repayment, lost object, and the hekdesh clause), and candidate 0 ('Three Permitted Acts') is the heading that explicitly introduces this mishna and its enumeration of permitted things \u2014 it is the natural home for the mishna itself before the essay breaks down each element individually.",
+      "chosen_heading": "Three Permitted Acts",
+      "current_heading": "Payment for Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Creditors as Lions",
+    "candidates": [
+      "Payment for Return",
+      "Creditors as Lions",
+      "Chanan Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Creditors as Lions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the 'driving away a lion' concept (avruchei ari), which is precisely what the 'Creditors as Lions' section discusses.",
+      "second_heading": "Chanan Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 identify the ruling with \u1e24anan, which is exactly what the 'Chanan Case' section discusses, including the attribution to Rav Hoshaya/Rabbi Oshaya and the divrei Chanan ruling.",
+      "current_heading": "Creditors as Lions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Chanan Case",
+    "candidates": [
+      "Chanan Case",
+      "Rava's Caveat",
+      "Deer's Horn Metaphor",
+      "Rav Hoshaya Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Caveat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's caveat about the non-enforceable debt (al menat shelo lifro'a), which matches heading 1 'Rava's Caveat' precisely.",
+      "second_heading": "Deer's Horn Metaphor",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 quote the full Ketubot mishnah about Chanan and the deer's horn metaphor (keren ha-tzvi), which matches heading 2 'Deer's Horn Metaphor' precisely.",
+      "current_heading": "Chanan Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Rav Hoshaya Response",
+    "candidates": [
+      "Rava's Caveat",
+      "Deer's Horn Metaphor",
+      "Rav Hoshaya Response",
+      "Rav Ami & Rav Assi",
+      "Own Property Doctrine",
+      "Irony of Prohibition",
+      "Pruta of Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains precisely why Rava preferred his approach over Rav Hoshaya's and vice versa, including the gezerah shelo lifro'a mishum lifro'a reasoning, which is exactly what the 'Rav Hoshaya Response' prose section discusses.",
+      "chosen_heading": "Rav Hoshaya Response",
+      "current_heading": "Rav Hoshaya Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Pruta of Rav Yosef",
+    "candidates": [
+      "Rav Ami & Rav Assi",
+      "Own Property Doctrine",
+      "Irony of Prohibition",
+      "Pruta of Rav Yosef",
+      "Rarity of Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the entire debate between Rabbi Ami and Rabbi Asi about returning a lost item, covering both opinions (the finder's property forbidden vs. owner's property forbidden, including the prutah of Rav Yosef), so it belongs under the heading that introduces this debate, not under a heading for just one part of it.",
+      "chosen_heading": "Rav Ami & Rav Assi",
+      "current_heading": "Pruta of Rav Yosef",
+      "moved": true
+    }
+  }
+]

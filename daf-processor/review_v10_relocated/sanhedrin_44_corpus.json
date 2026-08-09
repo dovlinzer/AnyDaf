@@ -1,0 +1,466 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Five Instances",
+    "candidates": [
+      "Daf Overview",
+      "Viduy & Atonement",
+      "Public vs. Private",
+      "Confession & Hatra'ah",
+      "Five Instances",
+      "Delayed Punishment",
+      "National Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the enumeration of Achan's multiple acts of misusing cherem property (three per Rav Asi/Rabbi \u1e24anina, five per Rabbi Yo\u1e25anan/Rabbi Elazar), which is precisely what the 'Five Instances' section prose describes.",
+      "chosen_heading": "Five Instances",
+      "current_heading": "Five Instances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "National Identity",
+    "candidates": [
+      "Delayed Punishment",
+      "National Identity",
+      "Preventable Sins",
+      "Unity vs. Blame",
+      "Family Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why Israel was not punished until crossing the Jordan \u2014 the Gemara's question and Rabbi Yochanan's answer (item 1) and the tannaitic source with the dotted letters teaching the same principle (item 2) \u2014 which is precisely what the 'Delayed Punishment' prose introduces, asking why collective punishment only materialized after the crossing of the Yarden.",
+      "chosen_heading": "Delayed Punishment",
+      "current_heading": "National Identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Family Knowledge",
+    "candidates": [
+      "Preventable Sins",
+      "Unity vs. Blame",
+      "Family Knowledge",
+      "Jewish Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Ne\u1e25emya's position \u2014 that collective punishment applies only to publicly preventable sins, with Achan's case explained by family knowledge \u2014 which is precisely what the 'Preventable Sins' prose describes, including the crossover point about the Yarden and the niglot standard.",
+      "chosen_heading": "Preventable Sins",
+      "current_heading": "Family Knowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Jewish Identity",
+    "candidates": [
+      "Family Knowledge",
+      "Jewish Identity",
+      "Five Books"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle that even a sinner remains 'Yisrael' and the myrtle-among-thorns adage, which is precisely what the 'Jewish Identity' section's prose elaborates upon.",
+      "chosen_heading": "Jewish Identity",
+      "current_heading": "Jewish Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Five Books",
+    "candidates": [
+      "Five Books",
+      "Brit Milah",
+      "Na'arah Me'orasah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Five Books",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the five 'gam' words teaching Achan transgressed all five books of the Torah, which is exactly what the 'Five Books' prose section discusses.",
+      "second_heading": "Brit Milah",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 cover Achan stretching his foreskin (brit milah violation) via gezeirah shavah on 'briti,' and the gemara's objection/answer about whether this is obvious \u2014 precisely what the 'Brit Milah' prose section describes.",
+      "current_heading": "Five Books",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Na'arah Me'orasah",
+    "candidates": [
+      "Brit Milah",
+      "Na'arah Me'orasah",
+      "Sekilah Punishment",
+      "Challenge to Justice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Na'arah Me'orasah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gezeirah shavah deriving Achan's sin with a betrothed maiden, which is precisely what candidate 1 ('Na'arah Me'orasah') discusses.",
+      "second_heading": "Sekilah Punishment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravina's statement that the na'arah ha-me'orasah analogy teaches Achan's mode of execution (sekilah), which is precisely what candidate 2 ('Sekilah Punishment') discusses.",
+      "current_heading": "Na'arah Me'orasah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Challenge to Justice",
+    "candidates": [
+      "Sekilah Punishment",
+      "Challenge to Justice",
+      "Public Deterrence",
+      "Disproportionate Punish",
+      "Institution Preservation",
+      "Two Punishments",
+      "Different Penalties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a single exchange between the Exilarch and Rav Huna about whether Achan's sons and daughters were justly punished, which is precisely what candidate 1 ('Challenge to Justice') describes in its prose.",
+      "chosen_heading": "Challenge to Justice",
+      "current_heading": "Challenge to Justice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Different Penalties",
+    "candidates": [
+      "Public Deterrence",
+      "Disproportionate Punish",
+      "Institution Preservation",
+      "Two Punishments",
+      "Different Penalties",
+      "Achan's Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage poses the question 'b'tarti?' (both punishments?) which is precisely what the 'Two Punishments' section's prose introduces, while the current placement under 'Different Penalties' contains Ravina's answer \u2014 the passage should sit under the heading that poses the question it answers.",
+      "chosen_heading": "Two Punishments",
+      "current_heading": "Different Penalties",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Achan's Theft",
+    "candidates": [
+      "Different Penalties",
+      "Achan's Theft",
+      "Garment Type",
+      "Pouring Out",
+      "Joshua's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rav and Shmuel's debate over the identity of the garment (itztela demeilta vs. sarbela ditzrifa), which directly matches the 'Garment Type' heading's prose describing exactly that dispute.",
+      "chosen_heading": "Garment Type",
+      "current_heading": "Achan's Theft",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Joshua's Challenge",
+    "candidates": [
+      "Garment Type",
+      "Pouring Out",
+      "Joshua's Challenge",
+      "Other Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are explicitly covered in candidate 2's prose, which describes Rav Nachman's interpretation of va-yatzikum, the baraita debate about thirty-six men vs. Yair ben Manashe, and the Proverbs verse contrasting Moses (poor man) with Joshua (rich man) \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Joshua's Challenge",
+      "current_heading": "Joshua's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Other Challenges",
+    "candidates": [
+      "Other Challenges",
+      "Joshua's Sin",
+      "Delayed Altar",
+      "Tosafot Resolution",
+      "No Sin, Contribution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Other Challenges",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the Gemara's challenges to identifying Joshua's impudence \u2014 the Pinchas parallel and the Moses parallel \u2014 which matches candidate 0's prose exactly, including the specific references to Pinchas's vayifaleil, the twenty-four thousand deaths, and the v'lu ho'alnu verse.",
+      "second_heading": "Joshua's Sin",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rabbi Sheila's teaching that God rebuked Joshua with 'shelcha kasha mi-shelahem' for the sixty-mil delay, which matches candidate 1's prose about kum lach and the implicit divine rebuke that Joshua's responsibility was harsher than the other sinners'.",
+      "current_heading": "Other Challenges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "No Sin, Contribution",
+    "candidates": [
+      "Joshua's Sin",
+      "Delayed Altar",
+      "Tosafot Resolution",
+      "No Sin, Contribution",
+      "Learned Lesson",
+      "Angel Encounter",
+      "Greeting at Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Item 1 is Rav's public rebuttal via the Joshua verse (no sin) and Item 2 is the 'attah geramta lahem' resolution \u2014 both are precisely what candidate 3's prose describes: Rav rejecting direct sin while affirming indirect causation through the cherem on Jericho's spoils.",
+      "chosen_heading": "No Sin, Contribution",
+      "current_heading": "No Sin, Contribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Greeting at Night",
+    "candidates": [
+      "Learned Lesson",
+      "Angel Encounter",
+      "Greeting at Night",
+      "Angel Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly poses Rabbi Yo\u1e25anan's prohibition against greeting someone at night due to concern it may be a demon, which is exactly the content described in the 'Greeting at Night' section's prose.",
+      "chosen_heading": "Greeting at Night",
+      "current_heading": "Greeting at Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Angel Identity",
+    "candidates": [
+      "Angel Identity",
+      "Two Failures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the angel's identity verification and the tradition about demons not invoking God's name, which is exactly what the 'Angel Identity' section's prose discusses.",
+      "chosen_heading": "Angel Identity",
+      "current_heading": "Angel Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Two Failures",
+    "candidates": [
+      "Two Failures",
+      "Talmud Torah Greater",
+      "Joshua Corrects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Joshua's question about which sin the angel came for and the angel's answer 'atah bati,' which directly matches the prose in heading 1 about Joshua asking 'al eizeh mehen bata' and the angel responding that bittul Talmud Torah was the greater sin.",
+      "chosen_heading": "Talmud Torah Greater",
+      "current_heading": "Two Failures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Joshua Corrects",
+    "candidates": [
+      "Talmud Torah Greater",
+      "Joshua Corrects",
+      "Explicit Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Joshua lodging in the depth of halacha, which directly matches the 'Joshua Corrects' section's prose about Joshua spending the night in depths of halachah as his immediate corrective response.",
+      "chosen_heading": "Joshua Corrects",
+      "current_heading": "Joshua Corrects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Explicit Teaching",
+    "candidates": [
+      "Explicit Teaching",
+      "Dispute Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Torah study is greater than the daily offerings, which matches exactly what the 'Explicit Teaching' prose section describes.",
+      "chosen_heading": "Explicit Teaching",
+      "current_heading": "Explicit Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Dispute Verse",
+    "candidates": [
+      "Dispute Verse",
+      "Yechezkel's Protest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's question to Rav Dimi about the verse from Proverbs 25:8\u20139, which matches exactly the 'Dispute Verse' section prose describing Abaye asking Rav Dimi how this verse is applied in Eretz Yisrael.",
+      "chosen_heading": "Dispute Verse",
+      "current_heading": "Dispute Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Yechezkel's Protest",
+    "candidates": [
+      "Yechezkel's Protest",
+      "Secret Principle",
+      "Angel's Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Yechezkel's Protest' prose narrates \u2014 God's command to Ezekiel, the spirit Paskonit's intervention, and the shaming of Abraham and Sarah \u2014 matching the current placement precisely.",
+      "chosen_heading": "Yechezkel's Protest",
+      "current_heading": "Yechezkel's Protest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Angel's Names",
+    "candidates": [
+      "Secret Principle",
+      "Angel's Names",
+      "Prayer Before Calamity",
+      "Abraham's Altar",
+      "Prayer Exertion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Gabriel's three names (Piskon, Itmon, Sigron) and his authority to intercede with God, which is exactly what the 'Angel's Names' section prose describes.",
+      "chosen_heading": "Angel's Names",
+      "current_heading": "Angel's Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Prayer Exertion",
+    "candidates": [
+      "Prayer Before Calamity",
+      "Abraham's Altar",
+      "Prayer Exertion",
+      "Divine Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three teachings (Rabbi Elazar, Reish Lakish, and Rabbi Yochanan) as a single Talmudic unit introduced by the verse about prayer before trouble, and the overarching heading 'Prayer Before Calamity' best captures the unified topic, while the sub-headings 1-3 artificially split what is one continuous passage.",
+      "chosen_heading": "Prayer Before Calamity",
+      "current_heading": "Prayer Exertion",
+      "moved": true
+    }
+  }
+]

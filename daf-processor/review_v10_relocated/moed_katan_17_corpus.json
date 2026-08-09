@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Maidservant Story",
+    "candidates": [
+      "Maidservant Story",
+      "Lifnei Iveir",
+      "Authority for Niddui",
+      "Fig-Eater Niddui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly recounts the maidservant story itself, which is precisely what the 'Maidservant Story' section's prose describes and introduces.",
+      "chosen_heading": "Maidservant Story",
+      "current_heading": "Maidservant Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Fig-Eater Niddui",
+    "candidates": [
+      "Lifnei Iveir",
+      "Authority for Niddui",
+      "Fig-Eater Niddui",
+      "Counter-Niddui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Reish Lakish guarding an orchard and declaring niddui on the fig-eater, which is precisely what the 'Fig-Eater Niddui' section's prose introduces \u2014 the current placement is correct.",
+      "chosen_heading": "Fig-Eater Niddui",
+      "current_heading": "Fig-Eater Niddui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Counter-Niddui",
+    "candidates": [
+      "Counter-Niddui",
+      "Beit Medrash Ruling",
+      "Release & Nasi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Reish Lakish going to the study hall and receiving the ruling that the fig-eater's niddui is valid while his is not \u2014 which is precisely what the 'Beit Medrash Ruling' section discusses.",
+      "chosen_heading": "Beit Medrash Ruling",
+      "current_heading": "Counter-Niddui",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Release & Nasi",
+    "candidates": [
+      "Beit Medrash Ruling",
+      "Release & Nasi",
+      "Av Beit Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Reish Lakish's remedy for his niddui, the suggestion to go to the original declarant, his response that he doesn't know him, and the baraita about going to the Nasi \u2014 all of which are explicitly discussed in the 'Release & Nasi' section prose.",
+      "chosen_heading": "Release & Nasi",
+      "current_heading": "Release & Nasi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Av Beit Din",
+    "candidates": [
+      "Av Beit Din",
+      "Private vs. Public"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Usha enactment regarding the av beit din who sins, which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Av Beit Din",
+      "current_heading": "Av Beit Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Private vs. Public",
+    "candidates": [
+      "Private vs. Public",
+      "Mar Zutra Self-Shamta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Reish Lakish's view that a Torah scholar who sins should not be ostracized publicly, which is precisely what the 'Private vs. Public' section's prose discusses and analyzes.",
+      "chosen_heading": "Private vs. Public",
+      "current_heading": "Private vs. Public",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Mar Zutra Self-Shamta",
+    "candidates": [
+      "Mar Zutra Self-Shamta",
+      "Corporal Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Mar Zutra's practice of self-excommunication before excommunicating a Torah scholar, which is precisely what the 'Mar Zutra Self-Shamta' section's prose discusses in detail.",
+      "chosen_heading": "Mar Zutra Self-Shamta",
+      "current_heading": "Mar Zutra Self-Shamta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Corporal Punishment",
+    "candidates": [
+      "Corporal Punishment",
+      "Shamta Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's practice of preferring lashes over ostracism for Torah scholars, which matches exactly the 'Corporal Punishment' section's prose about Rav Pappa never ostracizing a Torah scholar and the western practice of appointing a court for lashes instead of shamta.",
+      "chosen_heading": "Corporal Punishment",
+      "current_heading": "Corporal Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Shamta Etymology",
+    "candidates": [
+      "Shamta Etymology",
+      "248 Limbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the etymology of 'shamta' (Rav's 'sham mita' and Shmuel's 'shemama yiheyeh'), which is precisely what the 'Shamta Etymology' section's prose describes.",
+      "chosen_heading": "Shamta Etymology",
+      "current_heading": "Shamta Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "248 Limbs",
+    "candidates": [
+      "248 Limbs",
+      "Dog Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Reish Lakish's teaching about shamta entering and leaving all 248 limbs and the gematria support from cherem/racheim, which is precisely what the '248 Limbs' prose section describes and analyzes.",
+      "chosen_heading": "248 Limbs",
+      "current_heading": "248 Limbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Dog Story",
+    "candidates": [
+      "Dog Story",
+      "Vessel & Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the dog eating rabbis' shoes, the excommunication placed on it, and the tail catching fire \u2014 exactly the content discussed in the 'Dog Story' prose section.",
+      "chosen_heading": "Dog Story",
+      "current_heading": "Dog Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Vessel & Shofar",
+    "candidates": [
+      "Vessel & Shofar",
+      "Person's Death",
+      "Shofar & Evil Eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together tell the single continuous story of the violent man, Rav Yosef's vessel-and-shofar prescription, the man's death, and the brief etymology of 'shipuri' \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Vessel & Shofar",
+      "current_heading": "Vessel & Shofar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Shofar & Evil Eye",
+    "candidates": [
+      "Person's Death",
+      "Shofar & Evil Eye",
+      "Advance Notice Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about 'tavra' and Rabban Shimon ben Gamliel's statement about the Sages' gaze causing death or poverty is explicitly discussed in the prose of candidate 1 ('Shofar & Evil Eye'), which directly references 'tavra', 'tavri batei ramei', and the baraita about the rabbis' gaze resulting in death or poverty.",
+      "chosen_heading": "Shofar & Evil Eye",
+      "current_heading": "Shofar & Evil Eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Advance Notice Q",
+    "candidates": [
+      "Advance Notice Q",
+      "Korbanot Postponement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yirmeya's question about whether the nazir/metzora dispensation requires no prior opportunity, and Rabbi Zeira's answer citing the baraita that prior opportunity forfeits the permission \u2014 are precisely the question-and-answer sequence described in candidate 0's prose about 'Advance Notice Q'.",
+      "chosen_heading": "Advance Notice Q",
+      "current_heading": "Advance Notice Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Korbanot Postponement",
+    "candidates": [
+      "Korbanot Postponement",
+      "Kohen & Avel",
+      "Avel Eighth Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the nazirite and leper being permitted to cut hair on Chol HaMoed so as not to delay their korbanot, which is precisely what the 'Korbanot Postponement' section's prose is about.",
+      "chosen_heading": "Korbanot Postponement",
+      "current_heading": "Korbanot Postponement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Avel Eighth Day",
+    "candidates": [
+      "Kohen & Avel",
+      "Avel Eighth Day",
+      "Abba Shaul Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal precisely with the Gemara's elimination process regarding the avel's case in the baraita \u2014 first ruling out day-eight-on-Erev-haRegel, then raising the challenge about cutting hair on Friday \u2014 which is exactly what heading 1 ('Avel Eighth Day') describes in its prose.",
+      "chosen_heading": "Avel Eighth Day",
+      "current_heading": "Avel Eighth Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Abba Shaul Dispute",
+    "candidates": [
+      "Abba Shaul Dispute",
+      "Kohen Mishmar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the case where the seventh day of mourning falls on Shabbat Erev ha-Regel, and the dispute between Abba Shaul and the Rabbis regarding miktzat ha-yom ke-kulo \u2014 precisely the content described in the 'Abba Shaul Dispute' prose.",
+      "chosen_heading": "Abba Shaul Dispute",
+      "current_heading": "Abba Shaul Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Kohen Mishmar",
+    "candidates": [
+      "Kohen Mishmar",
+      "Haircuts During Aveilus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about the kohen whose mishmar ended during the regel, which is precisely the content described in the 'Kohen Mishmar' prose section.",
+      "chosen_heading": "Kohen Mishmar",
+      "current_heading": "Kohen Mishmar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Haircuts During Aveilus",
+    "candidates": [
+      "Haircuts During Aveilus",
+      "Overlapping Aveilus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita permitting haircuts during aveilus for those permitted on Chol HaMoed, and Rav \u1e24isda/Rav Sheila's resolution involving cumulative mourning \u2014 are exactly the content described in the 'Haircuts During Aveilus' prose, which quotes and explains both the baraita and the Rav \u1e24isda/Rav Sheila answer.",
+      "chosen_heading": "Haircuts During Aveilus",
+      "current_heading": "Haircuts During Aveilus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Overlapping Aveilus",
+    "candidates": [
+      "Overlapping Aveilus",
+      "Razor vs. Scissors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about why special categories are needed when a general baraita already permits relief for overlapping aveilus, which is precisely what heading 0 ('Overlapping Aveilus') discusses \u2014 the question and the baraita establishing the general leniency for sequential mourning periods.",
+      "chosen_heading": "Overlapping Aveilus",
+      "current_heading": "Overlapping Aveilus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Razor vs. Scissors",
+    "candidates": [
+      "Razor vs. Scissors",
+      "Laundry Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's razor/scissors qualification AND his concluding inference that a mourner is prohibited from laundering, and candidate 1's prose explicitly discusses both elements together as a unified closing argument, whereas candidate 0's prose misrepresents the passage by adding details not present (e.g., prison scenario) and doesn't capture the key inferential conclusion about the general laundry prohibition.",
+      "chosen_heading": "Laundry Prohibition",
+      "current_heading": "Razor vs. Scissors",
+      "moved": true
+    }
+  }
+]

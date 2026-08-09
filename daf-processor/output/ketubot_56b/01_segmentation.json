@@ -29,7 +29,7 @@
           "timestamp": "08:08"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -53,8 +53,8 @@
           "timestamp": "10:18"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "The Chattel Designation Debate and Limits on Protecting Woman's Interests",
@@ -77,7 +77,7 @@
           "timestamp": "14:13"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -529,5 +529,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "10:35",
+  "amud_b_micro_title": "Chattel Prohibition",
+  "shiur_start_daf": 56,
+  "shiur_start_amud": "a"
 }

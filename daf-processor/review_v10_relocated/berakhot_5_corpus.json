@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Scholar & Bedtime Shema",
+    "candidates": [
+      "Geulah Arichta Review",
+      "Baruch Hashem Le'olam",
+      "Ashrei Three Times Daily",
+      "Missing Nun in Ashrei",
+      "Somech Hashem L'Noflim",
+      "Michael vs Gabriel Speed",
+      "Ashrei Before Mincha",
+      "Angels' Flight Speeds",
+      "Bedtime Shema Mitzvah",
+      "Rigzu V'al Techeta'u",
+      "Scholar & Bedtime Shema",
+      "Rashi-Tosfos Shema Debate",
+      "Yetzer Tov vs Yetzer Hara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Nachman's ruling about a Torah scholar not needing bedtime Shema and Abaye's qualification that even a scholar should recite one verse of prayer (beyadcha afkid ruchi), which is precisely what the prose of heading 10 ('Scholar & Bedtime Shema') describes.",
+      "chosen_heading": "Scholar & Bedtime Shema",
+      "current_heading": "Scholar & Bedtime Shema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Yetzer Tov vs Yetzer Hara",
+    "candidates": [
+      "Rashi-Tosfos Shema Debate",
+      "Yetzer Tov vs Yetzer Hara",
+      "Torah Given at Sinai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about inciting the yetzer tov against the yetzer hara, with its four-step sequence culminating in reciting Shema and remembering the day of death, directly matches the 'Yetzer Tov vs Yetzer Hara' section's prose, which explicitly describes this same Reish Lakish teaching and its sequence.",
+      "chosen_heading": "Yetzer Tov vs Yetzer Hara",
+      "current_heading": "Yetzer Tov vs Yetzer Hara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Torah Given at Sinai",
+    "candidates": [
+      "Torah Given at Sinai",
+      "Shema as Two-Edged Sword"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expounds the verse about receiving Torah at Sinai, identifying each element with a component of the oral and written tradition, which is precisely what the 'Torah Given at Sinai' section's prose discusses in detail.",
+      "chosen_heading": "Torah Given at Sinai",
+      "current_heading": "Torah Given at Sinai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Shema as Two-Edged Sword",
+    "candidates": [
+      "Shema as Two-Edged Sword",
+      "Torah Repels Mazikin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yitzchak's teaching about reciting Shema on one's bed being like holding a double-edged sword, with the proof from Psalms 149:6 and the connection established by Mar Zutra/Rav Ashi \u2014 exactly what the 'Shema as Two-Edged Sword' prose describes.",
+      "chosen_heading": "Shema as Two-Edged Sword",
+      "current_heading": "Shema as Two-Edged Sword",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Torah Repels Mazikin",
+    "candidates": [
+      "Torah Repels Mazikin",
+      "Torah Protects \u2014 Really?",
+      "Neglecting Torah: Harsh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact teachings of Rabbi Yitzchak (Shema repels mazikin) and Reish Lakish (Torah repels yissurin) that the prose of heading 0 explicitly discusses in detail, making the current placement clearly correct.",
+      "chosen_heading": "Torah Repels Mazikin",
+      "current_heading": "Torah Repels Mazikin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Neglecting Torah: Harsh",
+    "candidates": [
+      "Torah Protects \u2014 Really?",
+      "Neglecting Torah: Harsh",
+      "God Gave Torah With Joy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's challenge ('even schoolchildren know this') citing the Exodus verse about divine protection, followed by the reinterpretation about those who neglect Torah \u2014 but the opening challenge and the Exodus 15:26 citation are the central content, which the prose under heading 0 explicitly describes, while heading 1's prose discusses only the consequence/reinterpretation portion as if it were separate from Rabbi Yochanan's initial challenge.",
+      "chosen_heading": "Torah Protects \u2014 Really?",
+      "current_heading": "Neglecting Torah: Harsh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "God Gave Torah With Joy",
+    "candidates": [
+      "Neglecting Torah: Harsh",
+      "God Gave Torah With Joy",
+      "Yissurin Shel Ahava (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes God giving Torah to Israel with joy rather than grief, which is exactly what the 'God Gave Torah With Joy' section's prose discusses.",
+      "chosen_heading": "God Gave Torah With Joy",
+      "current_heading": "God Gave Torah With Joy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Yissurin Shel Ahava (II)",
+    "candidates": [
+      "Yissurin Shel Ahava (II)",
+      "Accepting Yissurin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Yissurin Shel Ahava (II)' explicitly walks through the exact same sequential protocol \u2014 examining deeds, attributing to Torah neglect, and concluding with yissurin shel ahava \u2014 that both items in this passage address, making it the clear and correct home.",
+      "chosen_heading": "Yissurin Shel Ahava (II)",
+      "current_heading": "Yissurin Shel Ahava (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Accepting Yissurin",
+    "candidates": [
+      "Accepting Yissurin",
+      "Soloveitchik on Yissurin",
+      "1/60 of Suffering",
+      "Rav Papa's Illness",
+      "Yochanan Heals Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage covers the Gemara's discussion of yissurin shel ahava \u2014 who receives them, the condition of accepting them with love (lada'at), their reward, the dispute between Rabbi Ya'akov bar Idi and Rabbi A\u1e25a bar \u1e24anina, the a fortiori from tooth and eye, Rabbi Shimon ben Lakish's covenant analogy, Rabbi Shimon ben Yo\u1e25ai's three gifts, and Rabbi Yo\u1e25anan's qualifications about leprosy and children \u2014 all of which is precisely what the 'Accepting Yissurin' section's prose describes.",
+      "chosen_heading": "Accepting Yissurin",
+      "current_heading": "Accepting Yissurin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Yochanan Heals Chanina",
+    "candidates": [
+      "Soloveitchik on Yissurin",
+      "1/60 of Suffering",
+      "Rav Papa's Illness",
+      "Yochanan Heals Chanina",
+      "Ein Chavush Matir Atzmo"
+    ],
+    "result": {
+      "best_index": 3,
+      "action": "single",
+      "chosen_heading": "Yochanan Heals Chanina",
+      "current_heading": "Yochanan Heals Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Ein Chavush Matir Atzmo",
+    "candidates": [
+      "Ein Chavush Matir Atzmo",
+      "Yochanan Heals Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question of why Rabbi Yochanan couldn't heal himself and the answer about the prisoner \u2014 are explicitly discussed in the prose of candidate 0 ('Ein Chavush Matir Atzmo'), which is the current placement and a perfect match.",
+      "chosen_heading": "Ein Chavush Matir Atzmo",
+      "current_heading": "Ein Chavush Matir Atzmo",
+      "moved": false
+    }
+  }
+]

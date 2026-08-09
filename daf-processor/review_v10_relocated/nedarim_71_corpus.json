@@ -1,0 +1,205 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishnah: Vows",
+    "candidates": [
+      "Opening",
+      "Mishnah: Vows",
+      "Father as Anchor",
+      "Niru L'Arus Rishon Q",
+      "Shmuel's Verse Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself (nadra vehi arusa, nisgaresh bo bayom, etc.), which is precisely what the 'Mishnah: Vows' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Mishnah: Vows",
+      "current_heading": "Mishnah: Vows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Shmuel's Verse Proof",
+    "candidates": [
+      "Father as Anchor",
+      "Niru L'Arus Rishon Q",
+      "Shmuel's Verse Proof",
+      "Shmuel's Position",
+      "Braita Opening",
+      "Father Annuls, Groom Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the Gemara's question and initial answer about whether the last groom can annul vows already disclosed to the first groom \u2014 precisely the content described in candidate 1's prose about 'niru le'arus rishon' \u2014 while the current placement (candidate 2) describes Shmuel's verse proof and the challenge, which comes after the question is already posed.",
+      "chosen_heading": "Niru L'Arus Rishon Q",
+      "current_heading": "Shmuel's Verse Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Father Annuls, Groom Dies",
+    "candidates": [
+      "Shmuel's Position",
+      "Braita Opening",
+      "Father Annuls, Groom Dies",
+      "Groom Annuls, Father Dies",
+      "Beit Shammai vs Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita text itself ('tanya kavasei deShmuel'), which the 'Braita Opening' section (index 1) explicitly introduces as the complex baraita the Gemara cites in support of Shmuel \u2014 the prose there describes the opening of this exact baraita including 'na'arah hame'urasah aviha veba'alah meferin nedareha', matching the passage's content perfectly as an introduction to the whole baraita before it is broken into sub-scenarios.",
+      "chosen_heading": "Braita Opening",
+      "current_heading": "Father Annuls, Groom Dies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Beit Shammai vs Hillel",
+    "candidates": [
+      "Groom Annuls, Father Dies",
+      "Beit Shammai vs Hillel",
+      "Beit Shammai Position",
+      "Beit Hillel Position",
+      "Hafara as Key Factor",
+      "Gerushin Status Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Beit Shammai vs. Beit Hillel dispute \u2014 item 1 introduces the disagreement and item 2 explains the reasoning of each school \u2014 which is precisely what the 'Beit Shammai vs Hillel' prose section discusses, and the passage currently sits there correctly.",
+      "chosen_heading": "Beit Shammai vs Hillel",
+      "current_heading": "Beit Shammai vs Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Gerushin Status Q",
+    "candidates": [
+      "Beit Shammai Position",
+      "Beit Hillel Position",
+      "Hafara as Key Factor",
+      "Gerushin Status Q",
+      "Father's Rights After Get",
+      "Divorce & Remarriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage raises the exact dilemma 'gerushin k'shtika damya o k'hakama damya' which is precisely what section 3 ('Gerushin Status Q') introduces and discusses.",
+      "chosen_heading": "Gerushin Status Q",
+      "current_heading": "Gerushin Status Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Divorce & Remarriage Case",
+    "candidates": [
+      "Father's Rights After Get",
+      "Divorce & Remarriage Case",
+      "Logical Challenge",
+      "Mishnah Qualification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a single continuous Talmudic chain debating whether gerushin is like shtika or hakama \u2014 beginning with the nafka mina of divorce-and-remarriage (item 1), then the baraita proofs and counter-proofs (items 2-4), and concluding with the mishnah proof about repeated betrothals (item 5) \u2014 all of which is precisely what the 'Divorce & Remarriage Case' prose describes as the Gemara's attempt to resolve this question from a braita and then a mishna.",
+      "chosen_heading": "Divorce & Remarriage Case",
+      "current_heading": "Divorce & Remarriage Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Mishnah Qualification",
+    "candidates": [
+      "Logical Challenge",
+      "Mishnah Qualification",
+      "Vow Divorce Remarry Same"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge-and-answer sequence about why the mishnah specifies 'that day' if the first arus never heard the vow, and the resolution that the father's hearing drives the same-day requirement \u2014 exactly the content described in the 'Mishnah Qualification' prose.",
+      "chosen_heading": "Mishnah Qualification",
+      "current_heading": "Mishnah Qualification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Vow Divorce Remarry Same",
+    "candidates": [
+      "Vow Divorce Remarry Same",
+      "Gerushin as Hakama",
+      "Nesuah Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna text and its immediate conclusion ('learn from this that divorce is like ratification'), which matches heading 0's prose describing exactly this ta shema proof, before the elaboration in heading 1 and the counter in heading 2.",
+      "chosen_heading": "Vow Divorce Remarry Same",
+      "current_heading": "Vow Divorce Remarry Same",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Nesuah Objection",
+    "candidates": [
+      "Gerushin as Hakama",
+      "Nesuah Objection",
+      "Ran's Nesuah Analysis",
+      "Gerushin: Hakama vs Shtik",
+      "Hakama & Verbal Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's rejection that the mishna deals with a nesuah and that the reason for inability to annul is 'ein haba'al meifer bekodmin', which is precisely what the 'Nesuah Objection' prose describes.",
+      "chosen_heading": "Nesuah Objection",
+      "current_heading": "Nesuah Objection",
+      "moved": false
+    }
+  }
+]

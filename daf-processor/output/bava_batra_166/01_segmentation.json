@@ -24,7 +24,7 @@
           "timestamp": "03:53"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -277,5 +277,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "12:30",
+  "amud_b_micro_title": "Price Collapse",
+  "shiur_start_daf": 166,
+  "shiur_start_amud": "a"
 }

@@ -111,7 +111,7 @@
           "timestamp": "22:38"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -150,8 +150,8 @@
           "timestamp": "26:59"
         }
       ],
-      "sefaria_index": 5,
-      "matched": false
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Broader Conceptual Issues: Living with Doubt, Rov, Chazakah, Safek, and Decision-Making Under Uncertainty (continued)",
@@ -164,7 +164,7 @@
           "timestamp": "28:35"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -188,8 +188,8 @@
           "timestamp": "30:51"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "The Infant and Dough Case: When Chazaka Is Insufficient for Burning Terumah (Tinok Shenitzdza B'Tzad Ha-Issah) (continued)",
@@ -203,7 +203,7 @@
         }
       ],
       "sefaria_index": 8,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Reconciling the Dispute: When Chazaka Suffices to Burn Terumah vs When It Does Not (continued)",
@@ -216,7 +216,7 @@
           "timestamp": "34:07"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -283,8 +283,8 @@
           "timestamp": "43:44"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "The Mishna on Yichud: One Man with Two Women vs One Woman with Two Men; Exceptions for Wife and Close Relatives",
@@ -323,7 +323,7 @@
         }
       ],
       "sefaria_index": 14,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Conceptual Issues Underlying Yichud: Rape vs Consensual Sex, Male vs Female Perspective, Temptation vs Impossibility",
@@ -687,5 +687,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "34:07",
+  "amud_b_micro_title": "No Questions",
+  "shiur_start_daf": 80,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,805 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Soul Entry Timeline",
+    "candidates": [
+      "Daf 92 Overview",
+      "Rashi Attribution",
+      "Minim/Kuthim Variant",
+      "Intro to Dialogue",
+      "Soul Entry Timeline",
+      "Flesh Spoilage Argument",
+      "Soul at Conception",
+      "Philosophical Context",
+      "Yetzer Hara Timeline",
+      "Fetal Motion Objection",
+      "Yetzer at Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the exchange about when the soul enters a person (from conception vs. formation), which is precisely what the 'Soul Entry Timeline' section's prose describes and introduces.",
+      "chosen_heading": "Soul Entry Timeline",
+      "current_heading": "Soul Entry Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Yetzer at Birth",
+    "candidates": [
+      "Flesh Spoilage Argument",
+      "Soul at Conception",
+      "Philosophical Context",
+      "Yetzer Hara Timeline",
+      "Fetal Motion Objection",
+      "Yetzer at Birth",
+      "Reish Lakish Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly contains the resolution that the yetzer hara enters at birth (mishat yetzia), Rabbi's acknowledgment that Antoninus taught him this, and the supporting verse 'l'fetach chatat roveitz' \u2014 all of which is precisely what the 'Yetzer at Birth' section's prose describes.",
+      "chosen_heading": "Yetzer at Birth",
+      "current_heading": "Yetzer at Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Reish Lakish Paradox",
+    "candidates": [
+      "Reish Lakish Paradox",
+      "Resurrection with Healing",
+      "Ula's Death Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's contradiction between the two verses about the blind/lame persisting versus being healed, which is exactly what heading 0 ('Reish Lakish Paradox') describes in its prose, including the specific Hebrew phrases cited.",
+      "chosen_heading": "Reish Lakish Paradox",
+      "current_heading": "Reish Lakish Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Ula's Death Paradox",
+    "candidates": [
+      "Resurrection with Healing",
+      "Ula's Death Paradox",
+      "Jews vs Non-Jews Lifespan",
+      "Non-Jews' Role Future",
+      "Light Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's contradiction between the two Isaiah verses about death, which is precisely what the 'Ula's Death Paradox' section prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Ula's Death Paradox",
+      "current_heading": "Ula's Death Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Light Paradox",
+    "candidates": [
+      "Jews vs Non-Jews Lifespan",
+      "Non-Jews' Role Future",
+      "Light Paradox",
+      "Two Periods Resolved",
+      "Samuel's Naturalism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's contradiction between two verses about the luminaries, which is exactly what the 'Light Paradox' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Light Paradox",
+      "current_heading": "Light Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Samuel's Naturalism",
+    "candidates": [
+      "Two Periods Resolved",
+      "Samuel's Naturalism",
+      "Wounding & Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's view and its resolution (lo kashya \u2014 kan bi-machaneh tzadikkim kan bi-machaneh shechina), which is precisely what the 'Samuel's Naturalism' section discusses in detail.",
+      "chosen_heading": "Samuel's Naturalism",
+      "current_heading": "Samuel's Naturalism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Wounding & Healing",
+    "candidates": [
+      "Wounding & Healing",
+      "Kill & Revive Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's contradiction between 'I will kill and bring to life' and 'I wounded and I will heal,' with the resolution about sequence (resurrection then healing), which is precisely what the 'Wounding & Healing' prose describes.",
+      "chosen_heading": "Wounding & Healing",
+      "current_heading": "Wounding & Healing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Kill & Revive Proof",
+    "candidates": [
+      "Kill & Revive Proof",
+      "Future Tense Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about 'I will kill and I will bring to life' with the wounding/healing parallel proof for resurrection, which exactly matches the prose description in candidate 0.",
+      "chosen_heading": "Kill & Revive Proof",
+      "current_heading": "Kill & Revive Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Future Tense Argument",
+    "candidates": [
+      "Future Tense Argument",
+      "Solomon Idol Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Meir's future-tense arguments from the Song of the Sea and Joshua's altar, which is precisely what the 'Future Tense Argument' prose describes.",
+      "chosen_heading": "Future Tense Argument",
+      "current_heading": "Future Tense Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Solomon Idol Problem",
+    "candidates": [
+      "Solomon Idol Problem",
+      "Dwelling in God's House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Solomon/Chemosh idol problem and the principle that Scripture ascribes blame as though he built it, which is exactly what the 'Solomon Idol Problem' section's prose discusses.",
+      "chosen_heading": "Solomon Idol Problem",
+      "current_heading": "Solomon Idol Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Dwelling in God's House",
+    "candidates": [
+      "Dwelling in God's House",
+      "Singing Continuity",
+      "Prophets' Unified Voice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the resurrection proof and the singing continuity statement together as one unit, and the current heading's prose explicitly covers the resurrection derivation from 'yehalelucha' \u2014 the passage is correctly placed where it begins, encompassing both sayings of Rabbi Yehoshua ben Levi.",
+      "chosen_heading": "Dwelling in God's House",
+      "current_heading": "Dwelling in God's House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Prophets' Unified Voice",
+    "candidates": [
+      "Singing Continuity",
+      "Prophets' Unified Voice",
+      "Withholding Theft",
+      "Withholding Curses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what heading 1's prose describes: Rabbi Chiyya bar Abba citing Rabbi Yochanan deriving resurrection from the future tense 'yeranenu' and the prophecy of all prophets singing in unified voice, which is precisely what the 'Prophets' Unified Voice' section addresses.",
+      "chosen_heading": "Prophets' Unified Voice",
+      "current_heading": "Prophets' Unified Voice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Withholding Curses",
+    "candidates": [
+      "Withholding Theft",
+      "Withholding Curses",
+      "Pierced Like Sieve"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete passage about withholding halakha \u2014 item 1 contains Rav Yehuda/Rav's 'ancestral theft' teaching AND the beginning of Rav \u1e24ana bar Bizna's 'fetuses curse' teaching, while item 2 completes the prooftexts for the fetus/curse chain; candidate 0 ('Withholding Theft') covers the Rav Yehuda/Rav statement that begins item 1, and candidate 1 ('Withholding Curses') covers the Rav \u1e24ana bar Bizna continuation \u2014 but since the passage starts with the theft statement (candidate 0's content), the correct placement is candidate 0, with the understanding that the current placement under candidate 1 is wrong because item 1 begins with the ancestral-theft ruling that belongs under candidate 0.",
+      "chosen_heading": "Withholding Theft",
+      "current_heading": "Withholding Curses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Pierced Like Sieve",
+    "candidates": [
+      "Withholding Curses",
+      "Pierced Like Sieve",
+      "Teaching Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ulla bar Yishmael's image of perforating like a sieve and Abaye's launderers' utensil comparison, which exactly matches the 'Pierced Like Sieve' prose discussing menakvin oto ke-khivara and the wordplay on yikvuhu.",
+      "chosen_heading": "Pierced Like Sieve",
+      "current_heading": "Pierced Like Sieve",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Teaching Reward",
+    "candidates": [
+      "Teaching Reward",
+      "Extended Teaching Effort",
+      "Teaching in Olam HaBa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the reward for teaching halakha and the blessing of Joseph as the mashbir, which is exactly what the 'Teaching Reward' section's prose describes.",
+      "chosen_heading": "Teaching Reward",
+      "current_heading": "Teaching Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Teaching in Olam HaBa",
+    "candidates": [
+      "Extended Teaching Effort",
+      "Teaching in Olam HaBa",
+      "Da'at Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Teaching in Olam HaBa' explicitly discusses both Rav Sheshet's teaching about meriting to teach in the World-to-Come and the subsequent prooftexts for resurrection (Reuven, Daniel verses by Ravina and Rav Ashi), matching both items precisely.",
+      "chosen_heading": "Teaching in Olam HaBa",
+      "current_heading": "Teaching in Olam HaBa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Da'at Meaning",
+    "candidates": [
+      "Da'at Meaning",
+      "Da'at & Beis HaMikdash"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Da'at & Beis HaMikdash",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about a communal leader leading with compassion, which fits the Da'at & Beis HaMikdash section's discussion of mercy vs. judgment, but more precisely it is a standalone statement about leadership that precedes the da'at teaching \u2014 however, the Da'at & Beis HaMikdash prose discusses the Beit HaMikdash and de'ah equivalence with no mention of communal leadership, while Item 1 about the parnas leading calmly is a structurally distinct statement that does not fit either candidate's prose topic, making the best available home candidate 1 by elimination since candidate 0 is specifically about de'ah.",
+      "second_heading": "Da'at Meaning",
+      "second_confidence": "high",
+      "second_reason": "Item 2 about 'great is knowledge placed between two letters/names of God' is precisely the content discussed in candidate 0's prose about de'ah being placed between El and Hashem.",
+      "current_heading": "Da'at Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Da'at & Beis HaMikdash",
+    "candidates": [
+      "Da'at & Beis HaMikdash",
+      "Vengeance Question",
+      "Intellect Wealth"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Vengeance Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Elazar's claim about the Temple between two letters, Rav Adda's vengeance objection, and Ulla's resolution \u2014 all of which are discussed in the 'Vengeance Question' prose.",
+      "second_heading": "Da'at & Beis HaMikdash",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Elazar's conclusion that anyone with de'ah is as if the Temple was built in his days \u2014 the direct equivalence between de'ah and Beit HaMikdash that the 'Da'at & Beis HaMikdash' prose explicitly discusses.",
+      "current_heading": "Da'at & Beis HaMikdash",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Intellect Wealth",
+    "candidates": [
+      "Vengeance Question",
+      "Intellect Wealth",
+      "No Compassion Lack Da'at"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Elazar's statement that a person with de'ah ultimately becomes wealthy, citing Proverbs 24:4, which is exactly what the 'Intellect Wealth' section's prose discusses.",
+      "chosen_heading": "Intellect Wealth",
+      "current_heading": "Intellect Wealth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "No Compassion Lack Da'at",
+    "candidates": [
+      "No Compassion Lack Da'at",
+      "Bread to Foolish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's statement about withholding mercy from those lacking knowledge, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "No Compassion Lack Da'at",
+      "current_heading": "No Compassion Lack Da'at",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Bread to Foolish",
+    "candidates": [
+      "Bread to Foolish",
+      "Exile from Ignorance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses giving bread to one without knowledge causing afflictions, which matches exactly the 'Bread to Foolish' section's prose content.",
+      "chosen_heading": "Bread to Foolish",
+      "current_heading": "Bread to Foolish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Exile from Ignorance",
+    "candidates": [
+      "Exile from Ignorance",
+      "Night Torah Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses exile resulting from lack of knowledge (de'ah), which precisely matches the prose under 'Exile from Ignorance' that quotes and explains the same statement by Rabbi Elazar.",
+      "chosen_heading": "Exile from Ignorance",
+      "current_heading": "Exile from Ignorance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Night Torah Study",
+    "candidates": [
+      "Night Torah Study",
+      "Support Scholars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Torah study at night and fire consuming a house without it, which matches exactly the 'Night Torah Study' section's prose.",
+      "chosen_heading": "Night Torah Study",
+      "current_heading": "Night Torah Study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Support Scholars",
+    "candidates": [
+      "Support Scholars",
+      "Leftover Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about benefiting Torah scholars from one's property, which matches the 'Support Scholars' section's prose exactly, not the 'Leftover Bread' section which discusses leaving bread on the table.",
+      "chosen_heading": "Support Scholars",
+      "current_heading": "Support Scholars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Leftover Bread",
+    "candidates": [
+      "Leftover Bread",
+      "Proper Conduct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Elazar's teachings about leaving bread on the table \u2014 item 1 the requirement to leave bread for blessing, item 2 the apparent contradiction about leaving crumbs being idolatrous and its resolution \u2014 which is precisely what the 'Leftover Bread' prose section discusses in detail.",
+      "chosen_heading": "Leftover Bread",
+      "current_heading": "Leftover Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Proper Conduct",
+    "candidates": [
+      "Proper Conduct",
+      "Humility & Privacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly discusses both items \u2014 the deception/idolatry teaching and the nakedness/bow teaching \u2014 matching the passage content exactly, while Candidate 1 discusses entirely different material about humility and privacy.",
+      "chosen_heading": "Proper Conduct",
+      "current_heading": "Proper Conduct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Humility & Privacy",
+    "candidates": [
+      "Humility & Privacy",
+      "Never Satisfied Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Elazar's advice to remain anonymous and Rabbi Zeira's support from the mishna about a dark house is precisely what the 'Humility & Privacy' prose discusses.",
+      "chosen_heading": "Humility & Privacy",
+      "current_heading": "Humility & Privacy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Never Satisfied Three",
+    "candidates": [
+      "Never Satisfied Three",
+      "Womb & Underworld",
+      "Kal Vachomer Womb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the question about the verse (what does a grave have to do with a womb?) and the answer (the parallel between womb and grave), which is exactly what heading 0 describes, and heading 1's prose describes only the parallel/answer portion as if it were a separate elaboration.",
+      "chosen_heading": "Never Satisfied Three",
+      "current_heading": "Never Satisfied Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "Kal Vachomer Womb",
+    "candidates": [
+      "Womb & Underworld",
+      "Kal Vachomer Womb",
+      "No Return to Dust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the exact kal va-chomer argument comparing the womb (private entry, loud exit) to the grave (loud entry, therefore even louder exit), which is precisely what the prose of candidate 1 'Kal Vachomer Womb' describes.",
+      "chosen_heading": "Kal Vachomer Womb",
+      "current_heading": "Kal Vachomer Womb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "No Return to Dust",
+    "candidates": [
+      "No Return to Dust",
+      "Thousand Year Renewal",
+      "Eagle Wings Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the tanna de-vei Eliyahu teaching about righteous not returning to dust, which is precisely what the 'No Return to Dust' section's prose discusses and analyzes.",
+      "chosen_heading": "No Return to Dust",
+      "current_heading": "No Return to Dust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Eagle Wings Period",
+    "candidates": [
+      "Thousand Year Renewal",
+      "Eagle Wings Period",
+      "Believer Strength",
+      "Ezekiel as Proof",
+      "Miracle vs. Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage opens with the question about what the righteous will do during God's renewal of the world ('those years when the Holy One is destined to renew His world'), which corresponds most directly to the 'Thousand Year Renewal' heading's prose about the transitional period \u2014 though it also covers the eagle wings answer and the strength verse, making it span multiple sections; however, the full passage including all three elements (the question, the eagle wings answer, and the no-suffering assurance) is best anchored under the heading that poses the question it answers.",
+      "chosen_heading": "Thousand Year Renewal",
+      "current_heading": "Eagle Wings Period",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      179
+    ],
+    "current_heading": "Miracle vs. Metaphor",
+    "candidates": [
+      "Believer Strength",
+      "Ezekiel as Proof",
+      "Miracle vs. Metaphor",
+      "Eliezer: Actual Event"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's suggestion to derive proof from Ezekiel's revival and the response that it was only a parable, which directly corresponds to the 'Ezekiel as Proof' section that frames exactly this question \u2014 why not use Ezekiel as evidence \u2014 making it a better fit than the current placement under 'Miracle vs. Metaphor' which discusses the answer in more depth but whose prose already covers the answer side.",
+      "chosen_heading": "Ezekiel as Proof",
+      "current_heading": "Miracle vs. Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      183
+    ],
+    "current_heading": "Eliezer: Actual Event",
+    "candidates": [
+      "Miracle vs. Metaphor",
+      "Eliezer: Actual Event",
+      "Yehuda: Pure Metaphor",
+      "Actual Aliyah & Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's view that the dead actually stood and sang song, Rabbi Yehoshua's alternative song, and Rabbi Yehuda's 'emet mashal' position \u2014 the current heading 'Eliezer: Actual Event' covers all three opinions as introduced by the baraita, and its prose explicitly discusses all these views including the shira details.",
+      "chosen_heading": "Eliezer: Actual Event",
+      "current_heading": "Eliezer: Actual Event",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      189,
+      190
+    ],
+    "current_heading": "Actual Aliyah & Children",
+    "candidates": [
+      "Yehuda: Pure Metaphor",
+      "Actual Aliyah & Children",
+      "Ephraim Identity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Actual Aliyah & Children",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Ne\u1e25emya's parable/truth exchange and Rabbi Eliezer's claim about the revived dead marrying and having children, plus Rabbi Yehuda ben Beteira's testimony \u2014 all of which is precisely what the 'Actual Aliyah & Children' prose describes.",
+      "second_heading": "Ephraim Identity",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('And who are the dead that Ezekiel revived?') is the Gemara's opening question that launches the Ephraim identification discussion, which is exactly what the 'Ephraim Identity' prose section covers.",
+      "current_heading": "Actual Aliyah & Children",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      193
+    ],
+    "current_heading": "Ephraim Identity",
+    "candidates": [
+      "Ephraim Identity",
+      "Alternative Identities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav's statement identifying the dead as the descendants of Ephraim who miscalculated the end and erred, which is precisely what the 'Ephraim Identity' section's prose discusses.",
+      "chosen_heading": "Ephraim Identity",
+      "current_heading": "Ephraim Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      196,
+      197,
+      198
+    ],
+    "current_heading": "Alternative Identities",
+    "candidates": [
+      "Alternative Identities",
+      "Dura Valley Resurrection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (Shmuel, Rabbi Yirmiyah bar Abba, Rabbi Yitzchak Nappa\u1e25a) give alternative identities for who the revived dead were, and the prose under 'Alternative Identities' explicitly discusses all three of these opinions in the same order with matching content.",
+      "chosen_heading": "Alternative Identities",
+      "current_heading": "Alternative Identities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      204
+    ],
+    "current_heading": "Dura Valley Resurrection",
+    "candidates": [
+      "Dura Valley Resurrection",
+      "Dead Strike King"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the identity and origin of the dead of the Dura Valley \u2014 the beautiful youths killed by Nebuchadnezzar \u2014 which is exactly what the 'Dura Valley Resurrection' section's prose discusses, not the narrative of the resurrected dead striking Nebuchadnezzar in the face.",
+      "chosen_heading": "Dura Valley Resurrection",
+      "current_heading": "Dura Valley Resurrection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      207
+    ],
+    "current_heading": "Dead Strike King",
+    "candidates": [
+      "Dead Strike King",
+      "Nebuchadnezzar Conversion",
+      "Angel Intervention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about God commanding Ezekiel to revive the dead in the Dura Valley, the bones striking Nebuchadnezzar in the face, and his question about what these beings are \u2014 all of which matches precisely the prose under 'Dead Strike King,' which narrates this exact sequence including the slap, Nebuchadnezzar's bewilderment, and the explanation given to him.",
+      "chosen_heading": "Dead Strike King",
+      "current_heading": "Dead Strike King",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      212
+    ],
+    "current_heading": "Angel Intervention",
+    "candidates": [
+      "Nebuchadnezzar Conversion",
+      "Angel Intervention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yitz\u1e25ak's statement about molten gold and the angel intervening to stop Nebuchadnezzar's praise, which is precisely what the 'Angel Intervention' section's prose discusses.",
+      "chosen_heading": "Angel Intervention",
+      "current_heading": "Angel Intervention",
+      "moved": false
+    }
+  }
+]

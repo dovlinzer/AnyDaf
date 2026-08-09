@@ -1,0 +1,380 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hereg Intro",
+    "candidates": [
+      "Hereg Intro",
+      "Direct Strikes",
+      "Holding Underwater"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna listing those executed by hereg (the murderer and residents of an idolatrous city), which matches exactly what the 'Hereg Intro' prose describes as the mishnah on 76b opening with ve-eilu hen ha-harugin.",
+      "chosen_heading": "Hereg Intro",
+      "current_heading": "Hereg Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Holding Underwater",
+    "candidates": [
+      "Direct Strikes",
+      "Holding Underwater",
+      "Pushing Cases",
+      "Animal Agent Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both striking with stone/iron AND holding in water/fire as a combined mishna clause, and the 'Holding Underwater' section's prose explicitly quotes and discusses this exact combined passage including the holding-preventing-escape scenario.",
+      "chosen_heading": "Holding Underwater",
+      "current_heading": "Holding Underwater",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Animal Agent Cases",
+    "candidates": [
+      "Pushing Cases",
+      "Animal Agent Cases",
+      "Iron No Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the pushing case (water/fire with ability to escape) and the animal agent cases in a single mishnaic unit, but the essay has split them \u2014 the pushing portion with 'could have extricated himself' is discussed under 'Pushing Cases' (candidate 0), and the current placement under 'Animal Agent Cases' (candidate 1) duplicates that section's prose; however, since this is a single mishnaic passage covering pushing AND animal cases, and candidate 0's prose explicitly discusses *dachfo le-toch ha-mayim* and *ve-yakhol la'alot mi-sham u-met patur* which is the opening of this very passage, while candidate 1's prose discusses the animal cases that appear later in the same passage, the passage as a whole begins with the pushing case covered by candidate 0, making candidate 0 the better fit for where this unified passage should be anchored.",
+      "chosen_heading": "Pushing Cases",
+      "current_heading": "Animal Agent Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Iron No Shiur",
+    "candidates": [
+      "Animal Agent Cases",
+      "Iron No Shiur",
+      "Iron Distinctions",
+      "Reisha: Holding"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Iron No Shiur",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's statement explaining why iron has no 'yad' qualifier, which matches exactly the 'Iron No Shiur' prose about mipnei mah lo ne'emar yad be-varzel and she-ha-varzel meimit be-khol shehu.",
+      "second_heading": "Iron Distinctions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita plus the Gemara's qualification that the no-shiur rule applies only when stabbing (de-barza midza), which matches exactly the 'Iron Distinctions' prose about ve-hani mili de-barza midza.",
+      "current_heading": "Iron No Shiur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Reisha: Holding",
+    "candidates": [
+      "Iron Distinctions",
+      "Reisha: Holding",
+      "Seifa: Pushing",
+      "Shmuel Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses both the reisha (holding) and seifa (pushing) chiddushim as a combined Gemara comment on the mishnah, and the current heading 'Reisha: Holding' with its prose directly describes this exact Gemara passage \u2014 the novel ruling of kovesh even without pushing, which is the primary focus of this combined text.",
+      "chosen_heading": "Reisha: Holding",
+      "current_heading": "Reisha: Holding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Shmuel Derasha",
+    "candidates": [
+      "Seifa: Pushing",
+      "Shmuel Derasha",
+      "Animal Sunstroke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's derivation from 'o ve-eivah' that holding/confining someone constitutes murder, which is precisely what the 'Shmuel Derasha' section's prose discusses.",
+      "chosen_heading": "Shmuel Derasha",
+      "current_heading": "Shmuel Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Animal Sunstroke",
+    "candidates": [
+      "Animal Sunstroke",
+      "Rav Acha Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact case of confining an animal in the sun and the dispute between Ravina and Rav A\u1e25a bar Rav, which is precisely what the 'Animal Sunstroke' section's prose discusses.",
+      "chosen_heading": "Animal Sunstroke",
+      "current_heading": "Animal Sunstroke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Rav Acha Response",
+    "candidates": [
+      "Rav Acha Response",
+      "Starvation Exempt",
+      "Heat/Cold Present",
+      "Future Exposure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the complete Ravina/Rav A\u1e25a dispute about metzamtzem liability in nezikin via kal va-chomer and the verse restriction, which is precisely what the 'Rav Acha Response' prose describes in detail.",
+      "chosen_heading": "Rav Acha Response",
+      "current_heading": "Rav Acha Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Future Exposure",
+    "candidates": [
+      "Starvation Exempt",
+      "Heat/Cold Present",
+      "Future Exposure",
+      "Sealed House Case",
+      "Barrel & Roof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Heat/Cold Present",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the starvation exemption and the heat/cold present rulings, which map directly to headings 0 and 1, but since it contains both topics together and heading 1 ('Heat/Cold Present') explicitly discusses the sun/cold binding rulings that form the bulk of item 1's content, the better single match for item 1 alone is heading 1.",
+      "second_heading": "Future Exposure",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the lion/mosquito cases and Rav Ashi's gnats ruling, which is explicitly discussed in the prose of heading 2 ('Future Exposure'), making it the clear home for item 2.",
+      "current_heading": "Future Exposure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Barrel & Roof",
+    "candidates": [
+      "Sealed House Case",
+      "Barrel & Roof",
+      "Well & Ladder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are the continuous Gemara dispute about the overturned vat (kafa alav gigit) and breached plaster (para alav ma'azivah), including the attempt to identify who holds which position and the resolution distinguishing the barrel case from the marble house case \u2014 exactly the content described in the 'Barrel & Roof' prose.",
+      "chosen_heading": "Barrel & Roof",
+      "current_heading": "Barrel & Roof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Well & Ladder",
+    "candidates": [
+      "Well & Ladder",
+      "Arrow & Shield"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Well & Ladder",
+      "current_heading": "Well & Ladder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Arrow & Shield",
+    "candidates": [
+      "Arrow & Shield",
+      "Antivenom Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact arrow-and-shield scenario discussed in candidate 0's prose, matching both the case details and the reasoning about the shield blocking the arrow at the moment of shooting.",
+      "chosen_heading": "Arrow & Shield",
+      "current_heading": "Arrow & Shield",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Antivenom Case",
+    "candidates": [
+      "Antivenom Case",
+      "Marketplace Antivenom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's ruling about shooting an arrow at someone who has herbs in hand, which is precisely what the 'Antivenom Case' prose discusses \u2014 Rava's patur ruling based on the victim having available means of healing at the moment of the act.",
+      "chosen_heading": "Antivenom Case",
+      "current_heading": "Antivenom Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Marketplace Antivenom",
+    "candidates": [
+      "Marketplace Antivenom",
+      "Stone Rebound",
+      "Ball Game Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ashi's ruling about herbs in the marketplace and Rav Acha's question about herbs that happened to become available, both of which are explicitly described in the 'Marketplace Antivenom' section's prose.",
+      "chosen_heading": "Marketplace Antivenom",
+      "current_heading": "Marketplace Antivenom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Ball Game Rule",
+    "candidates": [
+      "Stone Rebound",
+      "Ball Game Rule",
+      "Player Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the ball-playing baraita \u2014 the ruling itself and the Gemara's analysis of why 'intentionally executed' is the chiddush while 'unwittingly exiled' is obvious \u2014 which precisely matches the 'Ball Game Rule' prose section's content about the beraita, the chiyuv meizid, and the hatra'at safek concern.",
+      "chosen_heading": "Ball Game Rule",
+      "current_heading": "Ball Game Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Player Intent",
+    "candidates": [
+      "Player Intent",
+      "Parah Rebound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the ball-playing case (Rav Ta\u1e25lifa's baraita and Ravina/Rav Ashi's exchange) that heading 0 'Player Intent' explicitly describes in its prose.",
+      "chosen_heading": "Player Intent",
+      "current_heading": "Player Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Parah Rebound",
+    "candidates": [
+      "Parah Rebound",
+      "Dam Release",
+      "First vs. Second"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Parah Adumah rebound/force cases (kiddush falling on the hand, the needle on pottery, and Rav \u1e24innana's emendation), which are precisely what the 'Parah Rebound' prose section describes in detail.",
+      "chosen_heading": "Parah Rebound",
+      "current_heading": "Parah Rebound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "First vs. Second",
+    "candidates": [
+      "Dam Release",
+      "First vs. Second"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the dam-release ruling and the koach rishon/sheni distinction as one unified Talmudic statement, and candidate 0's prose explicitly discusses the full ruling including the dam release scenario, while candidate 1 discusses the limitation as a separate analytical point \u2014 the actual Gemara text belongs under the heading that introduces the ruling it quotes.",
+      "chosen_heading": "Dam Release",
+      "current_heading": "First vs. Second",
+      "moved": true
+    }
+  }
+]

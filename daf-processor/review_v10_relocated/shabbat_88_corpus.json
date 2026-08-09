@@ -1,0 +1,292 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Seder Olam Braita",
+    "candidates": [
+      "Intro & Debate",
+      "Two vs. Three Days",
+      "51st Day Omer",
+      "Seder Olam Braita",
+      "Moshe's Ascents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Seder Olam baraita itself, and the prose under heading 3 ('Seder Olam Braita') directly describes and analyzes this exact baraita's content, the calendar calculation, and the challenge to Rabbi Yosi with his response.",
+      "chosen_heading": "Seder Olam Braita",
+      "current_heading": "Seder Olam Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Moshe's Ascents",
+    "candidates": [
+      "Moshe's Ascents",
+      "Mizbeach & Shabbat",
+      "Galilean Sermon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yosi's account of Moses's ascents and descents on the second through sixth days, which is precisely what the 'Moshe's Ascents' section prose discusses, including the Gemara's correction of the fourth-day formulation.",
+      "chosen_heading": "Moshe's Ascents",
+      "current_heading": "Moshe's Ascents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Galilean Sermon",
+    "candidates": [
+      "Mizbeach & Shabbat",
+      "Galilean Sermon",
+      "Maharal Matan/Kabbalat",
+      "Barrel Over Mountain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Galilean's homily before Rav \u1e24isda about the threefold Torah and the Gemara's conclusion that it follows the Rabbanan's opinion, which is precisely what the 'Galilean Sermon' section's prose discusses.",
+      "chosen_heading": "Galilean Sermon",
+      "current_heading": "Galilean Sermon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Barrel Over Mountain",
+    "candidates": [
+      "Maharal Matan/Kabbalat",
+      "Barrel Over Mountain",
+      "Modaa Objection",
+      "Purim Acceptance",
+      "Narrative Problem",
+      "Free Will Issue",
+      "Necessity & Will",
+      "Extra Hei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three elements (Rav Avdimi's barrel/mountain teaching, Rav Acha's modaa objection, and Rava's Purim resolution) and the current heading 'Barrel Over Mountain' with its prose explicitly introduces these aggadot together as a unit beginning with the vayityatzvu verse.",
+      "chosen_heading": "Barrel Over Mountain",
+      "current_heading": "Barrel Over Mountain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Extra Hei",
+    "candidates": [
+      "Modaa Objection",
+      "Purim Acceptance",
+      "Narrative Problem",
+      "Free Will Issue",
+      "Necessity & Will",
+      "Extra Hei",
+      "Suspended Creation",
+      "Rabbi Simai",
+      "Angel Crowns",
+      "Golden Calf Loss",
+      "Moshe's Inheritance",
+      "Future Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents \u1e24izkiya's interpretation of Psalms 76:9 and Reish Lakish's drasha on the extra 'heh' in 'yom ha-shishi,' explaining that creation was conditioned on Israel accepting the Torah \u2014 exactly what the 'Extra Hei' section's prose describes.",
+      "chosen_heading": "Extra Hei",
+      "current_heading": "Extra Hei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Future Return",
+    "candidates": [
+      "Suspended Creation",
+      "Rabbi Simai",
+      "Angel Crowns",
+      "Golden Calf Loss",
+      "Moshe's Inheritance",
+      "Future Return",
+      "Apple Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all elements discussed under headings 1-5 (Rabbi Simai's teaching, angel crowns, golden calf loss, Moses's inheritance, and future return) as one continuous Talmudic passage, and heading 1 'Rabbi Simai' is where this entire unit begins and belongs together.",
+      "chosen_heading": "Rabbi Simai",
+      "current_heading": "Future Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Apple Metaphor",
+    "candidates": [
+      "Future Return",
+      "Apple Metaphor",
+      "Impetuous Accusation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Apple Metaphor' prose section \u2014 Rabbi Elazar's bat kol about angels and Rabbi Chama bar Chanina's apple tree metaphor for na'aseh v'nishma \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Apple Metaphor",
+      "current_heading": "Apple Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Impetuous Accusation",
+    "candidates": [
+      "Impetuous Accusation",
+      "Rava's Defense",
+      "Two Approaches",
+      "Sfat Emet",
+      "Post-Cheit Path",
+      "Shir HaShirim Eyes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange between the heretic and Rava \u2014 the heretic's taunt (item 1) and Rava's defense citing the verse from Proverbs (item 2) \u2014 which is precisely what the 'Impetuous Accusation' prose describes in full, including Rava's response about walking in wholeness.",
+      "chosen_heading": "Impetuous Accusation",
+      "current_heading": "Impetuous Accusation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Shir HaShirim Eyes",
+    "candidates": [
+      "Rava's Defense",
+      "Two Approaches",
+      "Sfat Emet",
+      "Post-Cheit Path",
+      "Shir HaShirim Eyes",
+      "Bride Adultery",
+      "Fragrance Endures",
+      "Bearing Shame",
+      "Hammer & Rock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains all three elements discussed in candidates 4, 5, 6, and 7 \u2014 the Shir HaShirim 'one eye/two eyes' drasha, Ulla's bride adultery statement, Rav Mari's fragrance verse, Rav's 'chavivuta' observation, and the braita about bearing shame \u2014 and candidate 4 ('Shir HaShirim Eyes') is where it currently sits, which is the opening of this block of sequential material that flows naturally through the subsequent headings, but since the passage contains ALL items from candidates 4-7 together, and the current placement is the first/opening heading of this block, it correctly sits under candidate 4 as the passage's home heading encompasses all this content as a unified gemara passage.",
+      "chosen_heading": "Shir HaShirim Eyes",
+      "current_heading": "Shir HaShirim Eyes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Hammer & Rock",
+    "candidates": [
+      "Bride Adultery",
+      "Fragrance Endures",
+      "Bearing Shame",
+      "Hammer & Rock",
+      "Life & Death",
+      "Right & Left",
+      "Two Crowns Word",
+      "Aromatic Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Hammer & Rock' section's prose describes: Rabbi Yochanan on the divine word dividing into seventy languages, the school of Rabbi Yishmael's hammer/rock analogy, and then Rav Chananel bar Pappa on Torah being likened to a nagid with power to kill and give life \u2014 all of which the 'Hammer & Rock' prose covers, with the nagid point serving as a transition into the next section.",
+      "chosen_heading": "Hammer & Rock",
+      "current_heading": "Hammer & Rock",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Aromatic Field",
+    "candidates": [
+      "Life & Death",
+      "Right & Left",
+      "Two Crowns Word",
+      "Aromatic Field",
+      "Clearing Fragrance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with Rava's statement about right-handed vs left-handed approaches to Torah (sama de-chayei/sama de-mota), which is the core content of the 'Right & Left' section's prose, and the subsequent material about two crowns and the Song of Songs interpretations follows directly from that \u2014 the entire passage belongs under heading 1 rather than its current placement under 'Aromatic Field'.",
+      "chosen_heading": "Right & Left",
+      "current_heading": "Aromatic Field",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Clearing Fragrance",
+    "candidates": [
+      "Aromatic Field",
+      "Clearing Fragrance",
+      "Souls Depart/Return"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Souls Depart/Return",
+    "candidates": [
+      "Souls Depart/Return",
+      "Twelve Mil Retreat",
+      "Paradox Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the souls-departing/dew-revival teaching and the twelve-mil retreat teaching as a continuous block, and the current heading 'Souls Depart/Return' with its prose covers the first half while the second teaching about retreating twelve mil is also present \u2014 but since the passage is a single indivisible Talmudic unit and the current placement already contains it, and the prose under heading 0 explicitly covers the dew/revival content that opens this passage, the current placement is correct for this unified excerpt.",
+      "chosen_heading": "Souls Depart/Return",
+      "current_heading": "Souls Depart/Return",
+      "moved": false
+    }
+  }
+]

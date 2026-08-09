@@ -1,0 +1,94 @@
+[
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Yoma Evidence",
+    "candidates": [
+      "Tables Orientation",
+      "Beis Hamikdash Diagram",
+      "Shulchan Placement",
+      "Golden Altar",
+      "Solomon's Menorahs",
+      "Menorah Lighting",
+      "Gold Purification",
+      "Moshe's Menorah",
+      "Shofaros Categories",
+      "Old & New Shekels",
+      "Bird Sacrifices",
+      "Wood & Incense",
+      "Gold & Kaporet",
+      "Free-Will Offerings",
+      "R. Yehuda's View",
+      "Baraisa Evidence",
+      "Bittul Solutions",
+      "No Breirah",
+      "One Log vs. Two",
+      "Yoma Evidence",
+      "Mizbeach Dimensions",
+      "Log Length Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 19,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of whether a single log has independent korban status, resolved by Rebbi Eleazar from the Yoma mishna about two kohanim each carrying one log \u2014 exactly what the 'Yoma Evidence' section's prose describes.",
+      "chosen_heading": "Yoma Evidence",
+      "current_heading": "Yoma Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Log Length Requirement",
+    "candidates": [
+      "Mizbeach Dimensions",
+      "Log Length Requirement",
+      "Incense Handful",
+      "Azkarah Connection",
+      "Two Spoons Question",
+      "Each Kometz Independent",
+      "Kohen's Handbreadth",
+      "Gold Coin Amount"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mizbeach Dimensions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the physical dimensions of the logs and the mizbeiach structure (Rabbi Yehoshua ben Levi, Rabbi Chuni, Rabbi Shmuel bar Rav Yitzchak, and the baraita about amah sections), which matches the 'Mizbeach Dimensions' heading's prose perfectly.",
+      "second_heading": "Incense Handful",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the minimum kometz of levonah derived via gezeirah shavah from the azkarah, which matches the 'Incense Handful' heading's prose exactly.",
+      "current_heading": "Log Length Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Gold Coin Amount",
+    "candidates": [
+      "Incense Handful",
+      "Azkarah Connection",
+      "Two Spoons Question",
+      "Each Kometz Independent",
+      "Kohen's Handbreadth",
+      "Gold Coin Amount",
+      "Generic Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about gold donations not being less than a gold dinar and Rabbi Elazar's clarification about mentioning minting, which matches exactly the 'Gold Coin Amount' section's prose discussion.",
+      "chosen_heading": "Gold Coin Amount",
+      "current_heading": "Gold Coin Amount",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Roof Conditions",
+    "candidates": [
+      "Perek Overview",
+      "Agadeta Reflection",
+      "Chazka & Churban",
+      "Kavod HaMeit",
+      "Mishnah Text",
+      "Yetzia Definition",
+      "Inner Room",
+      "Roof Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The 'Hadran' formula is the concluding declaration recited at the end of a tractate or chapter, here marking the end of 'Chezkas HaBatim' \u2014 it signals a transition and belongs under the 'Perek Overview' heading that explicitly discusses moving from the previous perek to the new one.",
+      "chosen_heading": "Perek Overview",
+      "current_heading": "Roof Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Roof Conditions",
+    "candidates": [
+      "Roof Conditions",
+      "Three Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text that the 'Roof Conditions' prose directly discusses \u2014 covering the gallery, inner room, and roof exclusions including the parapet and Rabbi Yehuda's tzurat hapetach ruling, all of which are explicitly analyzed in that section's prose.",
+      "chosen_heading": "Roof Conditions",
+      "current_heading": "Roof Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Three Terms",
+    "candidates": [
+      "Three Terms",
+      "Tanach Sources",
+      "Beit Mikdash Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the interpretation of 'yatzia' as either 'afta' or 'bidka chalila' and the logical relationship between these two readings, which matches exactly what the 'Three Terms' section prose describes.",
+      "chosen_heading": "Three Terms",
+      "current_heading": "Three Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Beit Mikdash Structure",
+    "candidates": [
+      "Tanach Sources",
+      "Beit Mikdash Structure",
+      "Mar Zutra's Rule",
+      "Ravina's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's teaching about the three biblical names (yatzia, tzela, ta) with their Tanach sources, which matches the prose of candidate 0 that explicitly traces each term to its Nach source \u2014 the Mishnah citation at the end is a secondary addition that candidate 1's prose covers as a follow-up, but the bulk of the passage belongs under 'Tanach Sources'.",
+      "chosen_heading": "Tanach Sources",
+      "current_heading": "Beit Mikdash Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Ravina's Question",
+    "candidates": [
+      "Mar Zutra's Rule",
+      "Ravina's Question",
+      "Tashmishta Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Ravina's challenge to Mar Zutra \u2014 item 1 states Mar Zutra's four-cubit rule and item 2 is Ravina's immediate objection based on the pit/cistern case \u2014 which is precisely what heading 1 ('Ravina's Question') describes in its prose.",
+      "chosen_heading": "Ravina's Question",
+      "current_heading": "Ravina's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Tashmishta Distinction",
+    "candidates": [
+      "Tashmishta Distinction",
+      "Castle Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra's response distinguishing the well/house case from the gallery/house case based on discrete vs. shared tashmishta, which is precisely what the 'Tashmishta Distinction' prose discusses in detail.",
+      "chosen_heading": "Tashmishta Distinction",
+      "current_heading": "Tashmishta Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Castle Setup",
+    "candidates": [
+      "Castle Setup",
+      "Naming vs. Dimensions",
+      "Shayarti Line",
+      "Narrow Reading",
+      "Valley Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Gemara's question about why the mishna needed to teach the 'room behind' ruling, followed by the answer that it covers the case of exterior boundary delineation, confirmed by Rav Na\u1e25man's ruling about a birah \u2014 which is precisely the content described in the 'Castle Setup' prose.",
+      "chosen_heading": "Castle Setup",
+      "current_heading": "Castle Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Valley Setup",
+    "candidates": [
+      "Naming vs. Dimensions",
+      "Shayarti Line",
+      "Narrow Reading",
+      "Valley Setup",
+      "Address Theory",
+      "House vs. Field",
+      "Could Be Specific",
+      "Rav Mari"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Naming vs. Dimensions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara's interrogation and resolution of the bayit/birah (castle) case, matching the 'Naming vs. Dimensions' and 'Shayarti Line' prose about the residence/building terminology dispute and the shayarti clause.",
+      "second_heading": "Valley Setup",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 introduce the entirely new parallel case of selling a field within a large valley (sadeh/bika), followed by the necessity argument for both rulings, which matches the 'Valley Setup' section's prose precisely.",
+      "current_heading": "Valley Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rav Mari",
+    "candidates": [
+      "Address Theory",
+      "House vs. Field",
+      "Could Be Specific",
+      "Rav Mari",
+      "Presumption Logic",
+      "Case Setup",
+      "Singular/Plural Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara statement by Rav Mari bar bat Shmuel in the name of Abaye about the required clause in bills of sale, which is exactly what the 'Rav Mari' section's prose discusses and contextualizes.",
+      "chosen_heading": "Rav Mari",
+      "current_heading": "Rav Mari",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Singular/Plural Rule",
+    "candidates": [
+      "Presumption Logic",
+      "Case Setup",
+      "Singular/Plural Rule",
+      "Ambiguity Resolution",
+      "Ar'a Terms",
+      "Zeira",
+      "Nichsei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present exactly the content described in the 'Singular/Plural Rule' prose: Item 1 is Rav Ashi's ruling that 'ar'a' (singular) conveys only one plot, and Item 2 extends this to the ar'ata/kol ar'ata/zeira distinctions \u2014 precisely what that section's prose elaborates.",
+      "chosen_heading": "Singular/Plural Rule",
+      "current_heading": "Singular/Plural Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Nichsei",
+    "candidates": [
+      "Ambiguity Resolution",
+      "Ar'a Terms",
+      "Zeira",
+      "Nichsei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly states that 'nichsei' includes even houses and Canaanite slaves, which directly matches the prose under heading 3 ('Nichsei') describing how nichsei encompasses all possessions including houses and slaves.",
+      "chosen_heading": "Nichsei",
+      "current_heading": "Nichsei",
+      "moved": false
+    }
+  }
+]

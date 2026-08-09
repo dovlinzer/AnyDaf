@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Tanna Kamma & R. Shimon",
+    "candidates": [
+      "Hekdesh Iluy Review",
+      "Mishna: Dead Animals",
+      "Tanna Kamma & R. Shimon",
+      "Living Requirement",
+      "R. Yochanan's View",
+      "Reish Lakish's View",
+      "General vs. Specific",
+      "Reish Lakish Counter",
+      "Rabbi Shimon's Clarity",
+      "Pasuk Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items constitute the challenge to Reish Lakish (why did Rabbi Shimon need to specify 'kodshei bedek habayis'?) and its resolution, which is precisely what heading 7 ('Reish Lakish Counter') and heading 8 ('Rabbi Shimon's Clarity') describe \u2014 but since items 1-2 are the challenge and item 3 is the answer, and heading 7's prose describes exactly this textual difficulty while heading 8 describes the answer, the passage as a whole fits best under heading 7 as the starting point of this sub-discussion, though heading 8 is also very close; however since the passage includes both the objection and the answer together and heading 7 introduces the problem that the passage resolves, the current placement under heading 2 ('Tanna Kamma & R. Shimon') is clearly wrong, and heading 7 is the best single home for the complete objection-and-answer unit.",
+      "chosen_heading": "Reish Lakish Counter",
+      "current_heading": "Tanna Kamma & R. Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Pasuk Analysis",
+    "candidates": [
+      "Living Requirement",
+      "R. Yochanan's View",
+      "Reish Lakish's View",
+      "General vs. Specific",
+      "Reish Lakish Counter",
+      "Rabbi Shimon's Clarity",
+      "Pasuk Analysis",
+      "Korbanot Requirement",
+      "Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the baraita cited in support of Rabbi Yochanan, analyzing the pasuk from Vayikra 27 about blemished animals and the ha'amadah ve'ha'aracha requirement, which is precisely what the prose of candidate 6 ('Pasuk Analysis') describes in detail.",
+      "chosen_heading": "Pasuk Analysis",
+      "current_heading": "Pasuk Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Attribution",
+    "candidates": [
+      "Korbanot Requirement",
+      "Attribution",
+      "Bein Tov U'vein Ra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage concludes that the baraita is unattributed Sifra material reflecting Rabbi Yehuda's position (the tanna kamma), which directly matches the 'Attribution' section's prose about the Sifra's stam being attributed to Rabbi Yehuda and strengthening Rabbi Yochanan's position.",
+      "chosen_heading": "Attribution",
+      "current_heading": "Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Bein Tov U'vein Ra",
+    "candidates": [
+      "Bein Tov U'vein Ra",
+      "Bedek Habayit Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Giddel citing Rav's explanation of Reish Lakish's reasoning, which is grounded in the phrase 'bein tov uvein ra' from the verse \u2014 exactly what heading 0 discusses as the textual basis for Reish Lakish's position.",
+      "chosen_heading": "Bein Tov U'vein Ra",
+      "current_heading": "Bein Tov U'vein Ra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Bedek Habayit Logic",
+    "candidates": [
+      "Bedek Habayit Logic",
+      "Atem Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Bedek Habayit Logic' prose describes: that 'bein tov uvein ra' points to kodshei bedek habayis, and that 'otah' excludes kodshei mizbe'ach \u2014 matching Rav's explanation in the quoted text.",
+      "chosen_heading": "Bedek Habayit Logic",
+      "current_heading": "Bedek Habayit Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Atem Exclusion",
+    "candidates": [
+      "Atem Exclusion",
+      "R. Shimon's Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Atem Exclusion' prose, which explicitly discusses Rabbi Yochanan's use of 'otah' to exclude ba'al mum me'ikaro and then the tanna d'vei Levi's contrary position ending in 'kashya' \u2014 exactly what items 1 and 2 present.",
+      "chosen_heading": "Atem Exclusion",
+      "current_heading": "Atem Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "R. Shimon's Read",
+    "candidates": [
+      "R. Shimon's Read",
+      "Kodshei Mizbe'ach",
+      "Atem Excludes Treasury"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda citing Rav on Rabbi Shimon's reasoning (mai ta'amei d'Rabbi Shimon), which is precisely what heading 0 'R. Shimon's Read' describes \u2014 the introduction of Rabbi Shimon's derivation from 'bein tov uvein ra,' making the current placement correct.",
+      "chosen_heading": "R. Shimon's Read",
+      "current_heading": "R. Shimon's Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Atem Excludes Treasury",
+    "candidates": [
+      "Kodshei Mizbe'ach",
+      "Atem Excludes Treasury",
+      "Temimim & Mumim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's objection about 'bein tov uvein ra' versus 'bein tov lera' and concludes it is a difficulty against Rabbi Shimon, which is precisely what the prose in candidate 1 discusses.",
+      "chosen_heading": "Atem Excludes Treasury",
+      "current_heading": "Atem Excludes Treasury",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Temimim & Mumim",
+    "candidates": [
+      "Temimim & Mumim",
+      "First Assumption",
+      "Ba'al Mum Me'ikaro",
+      "Alignment",
+      "Reish Lakish Girsa",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita introduction (tanna kamma ruling on kodshei mizbe'ach vs. bedek habayis) and Rabbi Shimon's position with the initial refutation of Rabbi Yochanan \u2014 exactly what the 'Temimim & Mumim' prose describes as the baraita that generates significant complexity.",
+      "chosen_heading": "Temimim & Mumim",
+      "current_heading": "Temimim & Mumim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "First Assumption",
+      "Ba'al Mum Me'ikaro",
+      "Alignment",
+      "Reish Lakish Girsa",
+      "Reconciliation",
+      "Rav Yirmiyah Query",
+      "Keluvim Problem"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Keluvim Problem",
+    "candidates": [
+      "Rav Yirmiyah Query",
+      "Keluvim Problem",
+      "Shechut Chutz Case",
+      "Ba'al Mum Laws",
+      "Permissibility Details",
+      "Temura & Redemption",
+      "Rav Yehuda's Claim",
+      "Attribution Challenge",
+      "Reish Lakish Reasoning",
+      "Tanna Kamma Assumption",
+      "Unblemished Burial",
+      "Mizbe'ach Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmeya's question to Rabbi Zeira about the problem arising from Reish Lakish's position \u2014 that redeeming kodshei mizbe'ach whose consecration preceded their blemish would permit feeding them to dogs \u2014 which matches exactly the prose of heading 0 ('Rav Yirmiyah Query'), not heading 1 which discusses the answer/problem aftermath.",
+      "chosen_heading": "Rav Yirmiyah Query",
+      "current_heading": "Keluvim Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Mizbe'ach Domain",
+    "candidates": [
+      "Shechut Chutz Case",
+      "Ba'al Mum Laws",
+      "Permissibility Details",
+      "Temura & Redemption",
+      "Rav Yehuda's Claim",
+      "Attribution Challenge",
+      "Reish Lakish Reasoning",
+      "Tanna Kamma Assumption",
+      "Unblemished Burial",
+      "Mizbe'ach Domain",
+      "Treasury to Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the case where one transgressed and slaughtered the blemished animal (be'avar ve'shachtan), the baraita about slaughtered kodashim with a mum (Rabbi Meir vs. Rabbis), and Rabbi Yirmeya's question about Rabbi Shimon \u2014 all of which the prose of candidate 0 ('Shechut Chutz Case') explicitly describes as the content of this section.",
+      "chosen_heading": "Shechut Chutz Case",
+      "current_heading": "Mizbe'ach Domain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Treasury to Korban",
+    "candidates": [
+      "Mizbe'ach Domain",
+      "Treasury to Korban",
+      "Perpetual Claim",
+      "Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of candidate 1 directly describes and paraphrases this exact baraita about dedicating unblemished animals to the temple treasury and their redemption only for the altar, making it the clear home for this passage.",
+      "chosen_heading": "Treasury to Korban",
+      "current_heading": "Treasury to Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Perpetual Claim",
+      "Challenge",
+      "Mishna Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Pappa's challenge questioning whether everyone agrees that an animal blemished from the outset was not included in standing and valuation, which matches exactly the 'Challenge' section's prose describing Rav Pappa challenging the premise underpinning the discussion.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Mishna Evidence",
+    "candidates": [
+      "Mishna Evidence",
+      "R. Shimon Only",
+      "Chachamim Stringency",
+      "Tanna d'bei Levi",
+      "Final Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna in Bekhorot listing the distinctive halachot of a blemished animal consecrated as a korban (firstborn, matanot, shorn, labored), which is precisely what the 'Mishna Evidence' section discusses.",
+      "chosen_heading": "Mishna Evidence",
+      "current_heading": "Mishna Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Final Agreement",
+    "candidates": [
+      "R. Shimon Only",
+      "Chachamim Stringency",
+      "Tanna d'bei Levi",
+      "Final Agreement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Shimon Only",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the mishna text about blemished animals (offspring, milk, slaughter outside, substitutes, redemption after death) that precedes the Rav Yehuda/Rav attribution discussion, fitting under 'R. Shimon Only' as the source text being attributed.",
+      "second_heading": "Final Agreement",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 form the complete chain of the gemara's discussion \u2014 Rav Yehuda's attribution to Rabbi Shimon, the challenge from the Rabbis/tanna d'vei Levi, Abaye's responses via Reish Lakish, and the final ve'ibayeit eima resolution via Rabbi Yochanan \u2014 which precisely matches the 'Final Agreement' section's prose describing how Rav holds like Rabbi Yochanan and the mishna reflects both Rabbi Shimon and the tanna kamma.",
+      "current_heading": "Final Agreement",
+      "moved": true
+    }
+  }
+]

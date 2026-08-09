@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Intro: Father's Transfer",
+    "candidates": [
+      "Intro: Father's Transfer",
+      "Central Question",
+      "R. Yochanan Opinion",
+      "Reish Lakish Opinion",
+      "R. Yochanan Explains"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Central Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the central question/scenario (son sold during father's lifetime, son predeceased father) which matches exactly the 'Central Question' prose describing this precise fact pattern.",
+      "second_heading": "R. Yochanan Opinion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yochanan's ruling (lo kanah lokeach) and Reish Lakish's ruling (kanah lokeach), which matches the 'R. Yochanan Opinion' section introducing his position, with Reish Lakish's view following immediately as the contrasting opinion first introduced there.",
+      "current_heading": "Intro: Father's Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "R. Yochanan Explains",
+    "candidates": [
+      "Central Question",
+      "R. Yochanan Opinion",
+      "Reish Lakish Opinion",
+      "R. Yochanan Explains",
+      "Reish Lakish Explains",
+      "Case: Field for Fruit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yochanan Opinion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's ruling ('lo kanah lokeach') which belongs under 'R. Yochanan Opinion' whose prose states exactly that position.",
+      "second_heading": "Reish Lakish Opinion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Reish Lakish's ruling ('kanah lokeach') which belongs under 'Reish Lakish Opinion' whose prose states exactly that position.",
+      "current_heading": "R. Yochanan Explains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Case: Field for Fruit",
+    "candidates": [
+      "Reish Lakish Explains",
+      "Case: Field for Fruit",
+      "Bikkurim: R. Yochanan",
+      "Bikkurim: Reish Lakish",
+      "R. Yochanan Clarifies",
+      "Reish Lakish Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about why the dispute needs restating, and quotes the prior hamocher sadeh l'peirot case \u2014 exactly what the 'Case: Field for Fruit' section's prose describes as the context for that challenge.",
+      "chosen_heading": "Case: Field for Fruit",
+      "current_heading": "Case: Field for Fruit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Reish Lakish Clarifies",
+    "candidates": [
+      "Bikkurim: R. Yochanan",
+      "Bikkurim: Reish Lakish",
+      "R. Yochanan Clarifies",
+      "Reish Lakish Clarifies",
+      "Gift Sequence Formula"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yochanan Clarifies",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yochanan's explanation of why he needed to restate his position in the father-son case, which matches candidate 2's prose about R. Yochanan clarifying that even in the father-son context kinyan peirot k'kinyan haguf applies and the father does not waive his status.",
+      "second_heading": "Reish Lakish Clarifies",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Reish Lakish's explanation of why he needed to restate his position, which matches candidate 3's prose about Reish Lakish clarifying that ownership follows the kinyan haguf regardless of original ownership position.",
+      "current_heading": "Reish Lakish Clarifies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Gift Sequence Formula",
+    "candidates": [
+      "Gift Sequence Formula",
+      "Chain Breaking Question",
+      "Acharecha Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the challenge Rabbi Yochanan raises to Reish Lakish \u2014 presenting the baraita about the chain breaking (second dies before first) and the pointed question 'leyorshei noten mibaei lei' \u2014 which is precisely what Candidate 1 ('Chain Breaking Question') describes in its prose.",
+      "chosen_heading": "Chain Breaking Question",
+      "current_heading": "Gift Sequence Formula",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Acharecha Mechanism",
+    "candidates": [
+      "Chain Breaking Question",
+      "Acharecha Mechanism",
+      "Baraita: Sale Effect"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Acharecha Mechanism",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the 'acharecha shani' resolution transmitted by Rav Hoshaya and confirmed by Rabba bar Rav Huna before Rav, which is precisely what the 'Acharecha Mechanism' prose describes.",
+      "second_heading": "Chain Breaking Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the baraita challenge about property reverting to the giver's heirs (leyorshei noten), which is exactly the contradiction the 'Chain Breaking Question' prose anticipates and discusses.",
+      "current_heading": "Acharecha Mechanism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Baraita: Sale Effect",
+    "candidates": [
+      "Baraita: Sale Effect",
+      "Tannaic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the content described in candidate 0's prose: the two baraitot with Rabbi and Rabban Shimon ben Gamliel's positions on the sale effect, followed by the concluding statement that both sages contradict themselves across the two baraitot.",
+      "chosen_heading": "Baraita: Sale Effect",
+      "current_heading": "Baraita: Sale Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Tannaic Debate",
+    "candidates": [
+      "Tannaic Debate",
+      "Fruit vs. Land Kinyan",
+      "Rabban Shimon View",
+      "Advisor is Rasha",
+      "First Heir's Motivation",
+      "Advisor's Pure Harm"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fruit vs. Land Kinyan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the internal contradictions for both Rabbi and Rabban Shimon ben Gamliel (ha begufa/ha bepeiros and l'chatchila/di'eved), which is precisely what candidates 1 and 2 discuss \u2014 but since both sages' resolutions appear in one Gemara passage, the best single fit covering both is candidate 1 ('Fruit vs. Land Kinyan') which explicitly discusses the ha begufa/ha bepeiros resolution and leads into Rabban Shimon's, though candidate 2 is also closely related; the passage as a whole resolves both contradictions as the gemara does sequentially.",
+      "second_heading": "Advisor is Rasha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's statement identifying the cunning wicked person as one who advises selling property per Rabban Shimon ben Gamliel, which is exactly the content described in candidate 3 ('Advisor is Rasha').",
+      "current_heading": "Tannaic Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Advisor's Pure Harm",
+    "candidates": [
+      "Fruit vs. Land Kinyan",
+      "Rabban Shimon View",
+      "Advisor is Rasha",
+      "First Heir's Motivation",
+      "Advisor's Pure Harm",
+      "Halachic Ruling",
+      "Competing Claims",
+      "Timing Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage records Rabbi Yo\u1e25anan's halakhic ruling in favor of Rabban Shimon ben Gamliel and his concession regarding matnat shachiv mera, which directly matches the prose of 'Halachic Ruling' (index 5) that describes Rav Yochanan ruling halacha k'Rabban Shimon ben Gamliel.",
+      "chosen_heading": "Halachic Ruling",
+      "current_heading": "Advisor's Pure Harm",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Timing Distinction",
+    "candidates": [
+      "Halachic Ruling",
+      "Competing Claims",
+      "Timing Distinction",
+      "Moment vs. After",
+      "Deathbed Gift Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct ruling that matnat shachiv mera takes effect only after death and is therefore preceded by the acharecha transfer, which is exactly what the 'Timing Distinction' prose describes.",
+      "chosen_heading": "Timing Distinction",
+      "current_heading": "Timing Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Deathbed Gift Timing",
+    "candidates": [
+      "Moment vs. After",
+      "Deathbed Gift Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Abaye/Rava dispute about when a deathbed gift takes effect (im gmar mita vs. l'achar gmar mita), which is precisely what the 'Deathbed Gift Timing' prose section describes and analyzes.",
+      "chosen_heading": "Deathbed Gift Timing",
+      "current_heading": "Deathbed Gift Timing",
+      "moved": false
+    }
+  }
+]

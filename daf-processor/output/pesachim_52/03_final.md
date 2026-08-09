@@ -1,12 +1,9 @@
-# Pesachim 52 — Daf Yomi Shiur
-
+[DAF:51b]
 ## Minhagim Review
 
-### Binding Nature of Minhag
 
-> **Hebrew/Aramaic:** הַהוֹלֵךְ מִמָּקוֹם שֶׁעוֹשִׂין לְמָקוֹם שֶׁאֵין עוֹשִׂין — נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם, וְאַל יְשַׁנֶּה אָדָם מִפְּנֵי הַמַּחְלוֹקֶת וְלָא לֶיעְבֵּיד.
->
-> **Translation:** **one who travels from a place** where people perform labor on Passover eve **to a place where people do not, the Sages impose upon him the stringencies of the place to which he went, and a person should not deviate** from the standard practice in that place **due to** potential **dispute, and** he should **not perform** labor.
+
+### Minhagim & Scripture Auth
 
 Today's *daf* is 52. We pick up in the middle of 51b to review some of the highlights from the previous session, which raised a number of important issues regarding *minhagim*, even if it lacked a certain systematic quality. One foundational question that arose was the very nature of what makes *minhagim* binding upon later generations. The *pasuk* of *shma bni musar avicha* was cited as a way of giving expression to the idea that being bound by tradition is a fundamental, core operating principle of a religious traditional society — indeed more than a core value. That at least begins to open the question of the source and nature of that binding force.
 
@@ -34,11 +31,15 @@ The final point from the previous session touched less on *minhag* and more on *
 
 ## Abaye vs. Rava
 
+
+
 ### Mishnah Case
 
-> **Hebrew/Aramaic:** אֶלָּא מִמָּקוֹם שֶׁאֵין עוֹשִׂין לְמָקוֹם שֶׁעוֹשִׂין, אַל יְשַׁנֶּה אָדָם מִפְּנֵי הַמַּחְלוֹקֶת וְנַעְבֵּיד? הָא אָמְרַתְּ: "נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם וְחוּמְרֵי מָקוֹם שֶׁיָּצָא מִשָּׁם"!
->
-> **Translation:** **However,** if one traveled **from a place where** people **do not perform** labor **to a place where they** do **perform** labor, is the ruling there too, that **a person should not deviate** from the standard practice in that place **due to conflict, and perform** labor? That cannot be. **Didn't you say:** The Sages **impose upon him the stringencies of the place to which he went and the stringencies of the place from which he left?** He should not perform any labor.
+> **Hebrew/Aramaic:** הַהוֹלֵךְ מִמָּקוֹם וְכוּ׳. בִּשְׁלָמָא הַהוֹלֵךְ מִמָּקוֹם שֶׁעוֹשִׂין לְמָקוֹם שֶׁאֵין עוֹשִׂין — נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם, וְאַל יְשַׁנֶּה אָדָם מִפְּנֵי הַמַּחְלוֹקֶת וְלָא לֶיעְבֵּיד.
+> **Translation:** We learned in the mishna with regard to refraining from performance of labor on Passover eve: With regard to **one who travels from a place** where people perform labor on Passover eve to a place where people do not, or from a place where people do not perform labor on Passover eve to a place where people do, the Sages impose upon him the stringencies of the place from which he left and the stringencies of the place to which he went. The Gemara asks: **Granted,** in the case of **one who travels from a place where people perform labor to a place where they do not perform labor,** the Sages **impose upon him the stringencies of the place to which he went, and a person should not deviate** from the standard practice in that place **due to** potential **dispute, and** he should **not perform** labor.
+
+> **Hebrew/Aramaic:** אֶלָּא מִמָּקוֹם שֶׁאֵין עוֹשִׂין לְמָקוֹם שֶׁעוֹשִׂין, אַל יְשַׁנֶּה אָדָם מִפְּנֵי הַמַּחְלוֹקֶת וְנַעְבֵּיד? הָא אָמְרַתְּ: ״נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם וְחוּמְרֵי מָקוֹם שֶׁיָּצָא מִשָּׁם״!
+> **Translation:** **However,** if one traveled **from a place where** people **do not perform** labor **to a place where they** do **perform** labor, is the ruling there too, that **a person should not deviate** from the standard practice in that place **due to conflict, and perform** labor? That cannot be. **Didn’t you say:** The Sages **impose upon him the stringencies of the place to which he went and the stringencies of the place from which he left?** He should not perform any labor.
 
 We now continue in the *Mishnah* with the principle that when a person travels from one place to another, he carries the *chumros* of where he came from — and yet, out of respect for the local practice, he should not deviate from local norms *mipnei hamachlokes*. The *Gemara* identifies a tension between these two principles by examining the following case: *holech mimakom she'osim l'makom she'ein osim* — if you go from a place where they perform *melacha* on *Erev Pesach* to a place where they do not, *nosnim alav chumrei makom shehalach l'sham*, you adopt the practices of the place you are now visiting and therefore refrain from *melacha*. In this case, both principles align perfectly: you are keeping the *chumra* of your current location, and you are also avoiding conflict with local practice. No tension exists.
 
@@ -48,29 +49,21 @@ The difficulty emerges in the reverse case: *mimakom she'ein osim l'makom she'os
 
 ### Abaye Position
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: אַרֵישָׁא.
->
-> **Translation:** **Abaye said:** The principle that one should not deviate due to potential dispute is referring **to the first** clause, that one who arrives at a place where people do not perform labor adopts the local stringency.
-
 *Amar Abaye ha'reisha*: Abaye resolves this by saying that the principle of keeping the peace applies only in the first case — where you have traveled to a more stringent place. When you respect the *chumros* of where you are visiting, that is indeed *mipnei hamachlokes*, and in that case the two principles coincide. But if your own hometown is the place with *chumros*, then those *chumros* take priority. According to Abaye, when there is a conflict between preserving your personal *chumros* and keeping the peace in your current location, your *chumros* win out. To use a vivid example: if you are *Sefardi* and you are visiting an *Ashkenazi* community during *Pesach*, you are not truly bound by their practice of not eating rice — but the reason you refrain is *mipnei hamachlokes*. That is respecting the *chumros* of the place you are visiting. However, if you are *Ashkenazi* visiting *Sefardim*, what matters more is preserving your own practice.
 
 ### Rava Position
 
-> **Hebrew/Aramaic:** רָבָא אָמַר: לְעוֹלָם אַסֵּיפָא, וְהָכִי קָאָמַר: אֵין בָּזוֹ מִפְּנֵי שִׁינּוּי הַמַּחְלוֹקֶת.
->
-> **Translation:** **Rava said: Actually,** it is possible to say this *halakha* is also referring **to the latter** clause of the mishna, and **this is what it is saying:** Refraining from labor **does not** constitute **a deviation** that causes **dispute.**
-
 *Rava amar l'olam haseifa*: Rava disagrees fundamentally. He says that even in the second case — where you have traveled from a stringent place to a lenient one — the principle of keeping the peace can still be operative and can still reign. The question is *why* we assumed that not doing *melacha* when others are doing it would be contentious in the first place.
 
-### Rava's Logic
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: אַרֵישָׁא. רָבָא אָמַר: לְעוֹלָם אַסֵּיפָא, וְהָכִי קָאָמַר: אֵין בָּזוֹ מִפְּנֵי שִׁינּוּי הַמַּחְלוֹקֶת. מַאי קָא אָמְרַתְּ — הָרוֹאֶה אוֹמֵר מְלָאכָה אֲסוּרָה? מֵימָר אָמְרִי: כַּמָּה בַּטְלָנֵי הָוֵי בְּשׁוּקָא.
+> **Translation:** **Abaye said:** The principle that one should not deviate due to potential dispute is referring **to the first** clause, that one who arrives at a place where people do not perform labor adopts the local stringency. **Rava said: Actually,** it is possible to say this *halakha* is also referring **to the latter** clause of the mishna, and **this is what it is saying:** Refraining from labor **does not** constitute **a deviation** that causes **dispute. What are you saying; one who sees** him **will say that** he is not working because he believes that performing **labor is prohibited,** contrary to local practice? That is unlikely, as when people see him inactive that will not be their assumption. Instead, **they will say: How many idle people there are in the market** every day who do not work. In this case, people will assume that this individual was unable to find work that day.
 
-> **Hebrew/Aramaic:** מַאי קָא אָמְרַתְּ — הָרוֹאֶה אוֹמֵר מְלָאכָה אֲסוּרָה? מֵימָר אָמְרִי: כַּמָּה בַּטְלָנֵי הָוֵי בְּשׁוּקָא.
->
-> **Translation:** **What are you saying; one who sees** him **will say that** he is not working because he believes that performing **labor is prohibited,** contrary to local practice? That is unlikely, as when people see him inactive that will not be their assumption. Instead, **they will say: How many idle people there are in the market** every day who do not work.
+### Rava's Logic
 
 Rava's answer is striking: *ha'roeh omer melacha asura?* — are we worried that onlookers will conclude that you believe *melacha* is forbidden? No. *Eimar, kama batlanei havi bishuka* — there are plenty of lazy people in the marketplace. If you stay home on *Erev Pesach*, no one will conclude that you regard *melacha* as prohibited; they will simply assume you are taking the day off. Therefore, there is no real conflict of appearances and no cause for *machlokes*. The practical *halakhic* implication is important: if you go from a place that does not do *melacha* to a place that does, you should refrain from *melacha* — but you must be careful not to make it obvious that you are doing so on account of your *minhag*. If someone asks you to help with a task, you cannot say "that is not my *minhag*"; you need some other ordinary excuse. According to Rava, then, the principle of *mipnei hamachlokes* is actually the more important principle, one that can override *chumrei makom sheyatza misham* — with the recognition that it must be done in a way that does not visibly signal your departure from local practice.
 
 ### Halakha Application
+
 
 Tosafot states Rava's position explicitly as the operative *halakhah*. And the *halakhah* follows that if you go from a place with certain *minhagim* to another place, the more important principle is keeping the peace. This is true even in cases that are not a matter of *chumra* versus *kula* — for instance, a question about *nusach hatefilla*: if a *Sefardi* serves as *shliach tzibbur* in an *Ashkenazi* shul, the reigning principle is to respect the practice of the place, not to insist on one's own *nusach*. The difficult question is what to do when one's own *minhag* is genuinely more *machmir* but performing it publicly would visibly conflict with local norms. According to Rava, when you cannot maintain your own *chumros* without it being obvious that you are doing so in defiance of local practice, you are actually supposed to give more weight to the *minhagim* of the place you are in.
 
@@ -84,22 +77,26 @@ A further complication is how much the principle of *mipnei hamachlokes* applies
 
 One might observe that there is a broader tension at work throughout all of these discussions — a tension between consistency and creativity. As one attempts to apply these principles across new situations, the principles themselves frequently pull in opposite directions. The *Rishonim* grapple with this, and subsequent *poskim* continue to do so. *Poskim* will attempt to categorize — if it is *mipnei issura*, if it involves *chashash issur*, it carries more weight and cannot be easily set aside. But even that categorization is contested in practice, and many of these cases end up governed by guidelines rather than rules. *Minhagim* are given different types of emotional and religious weight at the grassroots level, and that lived weight does not always track the formal *halakhic* categories neatly.
 
+A concrete illustration of just how difficult it is to extract clean principles here: when one sought guidance from Rav Yehuda Herzl Henkin about which *minhagim* at a wedding — the *tenaim*, the *badeken* — a *chatan* and *kallah* could legitimately set aside, the response was striking in its candor. Rav Henkin acknowledged that he himself had not done the *tenaim* at his own wedding, but declined to furnish a governing principle. The honest answer, it seems, is that no such tidy principle is forthcoming. These are guidelines, not hard and fast rules, and the attempt to systematize them fully runs up against the irreducibly local and emotional character of *minhag* itself.
+
 ---
 
 ## Rav Safra Example
 
+
+
 ### Rav Safra's Question
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב סָפְרָא לְרַבִּי אַבָּא: כְּגוֹן אֲנַן דְּיָדְעִינַן בִּקְבִיעָא דְיַרְחָא.
->
-> **Translation:** **Rav Safra said to Rabbi Abba:** Communities in a situation **like us, who,** based on calculations, already **know the determination of the month** and are no longer concerned lest the Festival be observed on the wrong day,
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב סָפְרָא לְרַבִּי אַבָּא: כְּגוֹן אֲנַן דְּיָדְעִינַן בִּקְבִיעָא דְיַרְחָא,
+> **Translation:** After discussing stringencies resulting from customs, the Gemara elaborates on the second day of a Festival observed in the Diaspora. **Rav Safra said to Rabbi Abba:** Communities in a situation **like us, who,** based on calculations, already **know the determination of the month** and are no longer concerned lest the Festival be observed on the wrong day, clearly, on the second day of a Festival,
 
-*Amar lei Rav Safra le-Rabbi Abba: kegon ana, d-yidana b'kavia d'yarcha* — like me, who knows when *Rosh Chodesh* is fixed: why should I have to keep two days of *Yom Tov*? The question is posed against the backdrop of *Yom Tov sheni*, the second day of festivals observed in the diaspora. Rav Safra is raising the issue of someone who has direct knowledge of when *Rosh Chodesh* falls: what is the basis for requiring him to observe *Yom Tov sheni* when he knows the calendar precisely?
 
+*Amar lei Rav Safra le-Rabbi Abba: kegon ana, d-yidana b-kavia d-yarcha* — like me, who knows when *Rosh Chodesh* is fixed: why should I have to keep two days of *Yom Tov*? The question is posed against the backdrop of *Yom Tov sheni*, the second day of festivals observed in the diaspora. Rav Safra is raising the issue of someone who has direct knowledge of when *Rosh Chodesh* falls: what is the basis for requiring him to observe *Yom Tov sheni* when he knows the calendar precisely?
+
+[DAF:52a]
 ### Rabbi Ami Response
 
-> **Hebrew/Aramaic:** בַּיִּישּׁוּב לָא עָבֵידְנָא מִפְּנֵי שִׁינּוּי הַמַּחְלוֹקֶת. בַּמִּדְבָּר מַאי? אֲמַר לֵיהּ: הָכִי אָמַר רַב אַמֵּי: בַּיִּישּׁוּב אָסוּר, בַּמִּדְבָּר מוּתָּר.
->
+> **Hebrew/Aramaic:** בַּיִּישּׁוּב לָא עָבֵידְנָא מִפְּנֵי שִׁינּוּי הַמַּחְלוֹקֶת. בַּמִּדְבָּר מַאי? אֲמַר לֵיהּ: הָכִי אָמַר רַב אַמֵּי: בַּיִּישּׁוּב אָסוּר, בַּמִּדְבָּר מוּתָּר.
 > **Translation:** **we do not perform labor in the settled area due to** the need to avoid **deviation** that causes **dispute,** as it is the custom in the Diaspora to refrain from performance of labor on those days. However, **in the desert** outside the Jewish community, **what is** the *halakha*? **He said to him** that **this** is what **Rav Ami said: In a settled area it is prohibited; in the desert it is permitted.**
 
 The answer reported is *b'yishuv assur, u-vamidbar mutar*: in a settled town, one may not perform *melacha* on *Yom Tov sheni*, but out in the wilderness one is permitted. The distinction thus turns not on abstract knowledge but on context — on whether one is situated within a community where the second day is the reigning practice.
@@ -122,6 +119,8 @@ The flip case — an American visiting *Eretz Yisrael* for *Yom Tov* — raises 
 
 ## Chacham Tzvi
 
+
+
 ### Bal Tosif Concern
 
 The Chacham Tzvi addressed precisely this question in a brief but beautiful *teshuvah*. He ruled that with respect to the *nusach* of *davening*, one certainly says *nusach chol* — not *shel Yom Tov*. To *daven shel Yom Tov* when it is genuinely a weekday in *Eretz Yisrael* is not a *chumra*; it is actually the wrong *davening*. Similarly, if the question involves *tefillin* on a day when one is obligated to wear them, failing to wear them is not a *chumra* — it is a failure to fulfill the obligation. These cases are straightforward. But what about refraining from *melacha*? The Chacham Tzvi argued that this too is not permitted as a *chumra*. His reasoning: when do you keep your *chumros* in a place you are visiting? Only when, if you were living there, those *chumros* would constitute an acceptable practice. An Israeli who refuses to perform *melacha* on what is, in *Eretz Yisrael*, an ordinary weekday — or on the day after *Yom Tov* — is not being *machmir*. He is committing *bal tosif*: adding to the *mitzvah* in a context where the rabbinically mandated second day does not apply. The obvious question this raises — why is keeping *Yom Tov sheni* in *chutz la'aretz* not itself *bal tosif*? — is that there, at minimum, the rabbis mandated it. But where no such mandate exists and one is choosing to treat an ordinary day as *Yom Tov*, the violation of *bal tosif* is real.
@@ -138,31 +137,29 @@ This argument is genuinely persuasive, and increasingly widely applied. Many peo
 
 ## Rav Natan Story
 
-### Story Setup
 
-> **Hebrew/Aramaic:** רַב נָתָן בַּר אָסְיָא אֲזַל מִבֵּי רַב לְפוּמְבְּדִיתָא בְּיוֹם טוֹב שֵׁנִי שֶׁל עֲצֶרֶת. שַׁמְתֵּיהּ רַב יוֹסֵף.
->
-> **Translation:** **Rav Natan bar Asya** relied upon his knowledge of the calendar and **traveled from Rav's** study **hall to Pumbedita on the second day of** the festival of **Assembly,** i.e., *Shavuot*, and thereby desecrated the second day of the Festival by traveling beyond the town limits. **Rav Yosef excommunicated him** as punishment for this act.
+
+### Story Setup
 
 *Rav Natan bar Asya azal m'bei Rav l'Pumbedita* — Rav Natan bar Asya traveled from the house of Rav to Pumbedita on *Yom Tov sheni shel Atzeret*, the second day of *Shavuot*. In doing so, he was in violation of *Yom Tov sheni* — at minimum there is a *techum* issue, and potentially direct violations of *Yom Tov* observance as well. *Shamsay Rav Yosef* — Rav Yosef placed him in *cherem*.
 
+> **Hebrew/Aramaic:** רַב נָתָן בַּר אָסְיָא אֲזַל מִבֵּי רַב לְפוּמְבְּדִיתָא בְּיוֹם טוֹב שֵׁנִי שֶׁל עֲצֶרֶת. שַׁמְתֵּיהּ רַב יוֹסֵף. אֲמַר לֵיהּ אַבָּיֵי: וּלְנַגְּדֵיהּ מָר נַגֹּידֵי! אֲמַר לֵיהּ: עֲדִיפָא עֲבַדִי לֵיהּ, דִּבְמַעְרְבָא מִימְּנוּ אַנִּגְידָּא דְּבַר בֵּי רַב, וְלָא מִימְּנוּ אַשַּׁמְתָּא.
+> **Translation:** Tangentially, it is reported that **Rav Natan bar Asya** relied upon his knowledge of the calendar and **traveled from Rav’s** study **hall to Pumbedita on the second day of** the festival of **Assembly,** i.e., *Shavuot*, and thereby desecrated the second day of the Festival by traveling beyond the town limits. **Rav Yosef excommunicated him** as punishment for this act. **Abaye said to** Rav Yosef: **Let the Master flog** Rav Natan bar Asya for this grave sin. Rav Yosef **said to him: I** punished **him more severely, as in Eretz Yisrael they vote to flog a Torah scholar, but do not vote to** punish him with **excommunication,** in deference to the Torah. Apparently, excommunication is a more severe punishment than lashes.
+
 ### Cherem Choice
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: וּלְנַגְּדֵיהּ מָר נַגֹּידֵי! אֲמַר לֵיהּ: עֲדִיפָא עֲבַדִי לֵיהּ, דִּבְמַעְרְבָא מִימְּנוּ אַנִּגְידָּא דְּבַר בֵּי רַב, וְלָא מִימְּנוּ אַשַּׁמְתָּא.
->
-> **Translation:** **Abaye said to** Rav Yosef: **Let the Master flog** Rav Natan bar Asya for this grave sin. Rav Yosef **said to him: I** punished **him more severely, as in Eretz Yisrael they vote to flog a Torah scholar, but do not vote to** punish him with **excommunication,** in deference to the Torah. Apparently, excommunication is a more severe punishment than lashes.
 
 Abaye challenged this: *velingdeh mar nigidei* — why *cherem*? You should have given him lashes. Rav Yosef responded: *d'tav lei avidti lei* — I did something better for him, meaning more stringent. Why? *D'vema'arava, minu a-nigidei d'bar bei rav, v'lo minu a-shamta* — in *Eretz Yisrael*, they take a formal vote before administering lashes to a member of the rabbinic class, but they do not take a vote before placing someone in *cherem*. The explanation, following Rashi, is that *cherem* is reserved for violations that are so pressing and severe that there is no time to deliberate; one acts immediately. The gravity of the offense is such that the response bypasses the ordinary deliberative process. Hence *cherem* is the more stringent punishment.
 
 ### Alternate Reading
 
-> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי: נַגְּדֵיהּ רַב יוֹסֵף. אֲמַר לֵיהּ אַבָּיֵי: נְשַׁמְּתֵיהּ מָר, דְּרַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ מְנַדִּין עַל שְׁנֵי יָמִים טוֹבִים שֶׁל גָּלִיּוֹת! אֲמַר לֵיהּ: הָנֵי מִילֵּי — אִינִישׁ דְּעָלְמָא. הָכָא, צוּרְבָּא מִדְּרַבָּנַן הוּא — דְּטָבָא לֵיהּ עֲבַדִי.
->
-> **Translation:** **Some say: Rav Yosef** ordered the court officer to **flog him. Abaye said to** Rav Yosef: **Let the Master excommunicate him, as** it is **Rav and Shmuel who both say** that **one excommunicates for** desecration of **the second day of the Festival in the Diaspora.** Rav Yosef **said to him: That applies to an ordinary person. Here, he is a Torah scholar. I did what was best for him, as in Eretz Yisrael they vote to flog a Torah scholar but do not vote to** punish him with **excommunication.** Rav Yosef did not wish to sentence him to so severe a punishment.
-
 *Ika d'amri* — there is an alternate version of the story in which Rav Yosef actually administered lashes, not *cherem*. In that version, Abaye asks the opposite question: *v'lishamteih mar* — why did you not put him in *cherem*? The response is: *d'Rav u'Shmuel d'amri t'vayu, meshomtinan a-shnei yamim tovim shel galuyos* — both Rav and Shmuel rule that one is placed in *cherem* for violating *Yom Tov sheni shel galuyot*.
 
+> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי: נַגְּדֵיהּ רַב יוֹסֵף. אֲמַר לֵיהּ אַבָּיֵי: נְשַׁמְּתֵיהּ מָר, דְּרַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ מְנַדִּין עַל שְׁנֵי יָמִים טוֹבִים שֶׁל גָּלִיּוֹת! אֲמַר לֵיהּ: הָנֵי מִילֵּי — אִינִישׁ דְּעָלְמָא. הָכָא, צוּרְבָּא מִדְּרַבָּנַן הוּא — דְּטָבָא לֵיהּ עֲבַדִי. דִּבְמַעְרְבָא מִימְּנוּ אַנִּגְדְּתָא דְּבַר בֵּי רַב, וְלָא מִימְּנוּ אַשַּׁמְתָּא.
+> **Translation:** **Some say: Rav Yosef** ordered the court officer to **flog him. Abaye said to** Rav Yosef: **Let the Master excommunicate him, as** it is **Rav and Shmuel who both say** that **one excommunicates for** desecration of **the second day of the Festival in the Diaspora.** Rav Yosef **said to him: That applies to an ordinary person. Here, he is a Torah scholar. I did what was best for him, as in Eretz Yisrael they vote to flog a Torah scholar but do not vote to** punish him with **excommunication.** Rav Yosef did not wish to sentence him to so severe a punishment.
+
 ### Rabbinic Leniency
+
 
 Rav Yosef's answer: *hani mili inish d'alma* — that is the rule for an ordinary person. *Hacha tzurba miderabanan hu* — here he is a member of the rabbinic class. *D'tav lei avidti lei* — I did something better for him, meaning in this version, more lenient. And the same asymmetry applies: *d'vema'arava minu a-nagiduta d'bar bei rav v'lo minu a-shamta* — in *Eretz Yisrael*, they take a vote before lashing a *bar bei rav*, but not before placing him in *cherem*. Since lashes require a vote and *cherem* does not, lashes — counterintuitively — represent the lesser and more careful punishment, and Rav Yosef administered that out of leniency toward a fellow member of the rabbinic academy.
 
@@ -174,47 +171,42 @@ The larger lesson of this story deserves emphasis. We have been speaking through
 
 ## Shemita Produce
 
-### Mishnah Setup
 
-> **Hebrew/Aramaic:** כַּיּוֹצֵא בּוֹ הַמּוֹלִיךְ פֵּירוֹת שְׁבִיעִית וְכוּ׳.
->
-> **Translation:** **Similarly,** one **who transports Sabbatical** Year **produce** from a place where a crop has ceased in the fields to a place where it has not yet ceased, or from a place where it has not yet ceased to a place where it has already ceased, is obligated to remove the produce from his possession, in accordance with the stringencies of both locations.
+
+### Mishnah Setup
 
 We now turn to a *Mishnah* that appears to digress thematically but introduces an entirely new application of the principles we have been discussing — this time in the domain of *Shemita*. The basic law of *bi'ur* is as follows: during the *Shemita* year, produce that one has gathered may be kept in the house as long as the same type of produce is still available in the field for wild animals to forage. Once that produce is no longer available in the field, one is obligated to remove it from the house and distribute it — to the poor, to animals, to anyone — rather than holding it privately. The *Mishnah* addresses the case of someone who carries *Shemita* produce from one region to another, where the availability status of that produce differs between the two regions.
 
 ### Tanna vs. Yehuda
 
-> **Hebrew/Aramaic:** וְלֵית לֵיהּ לְרַבִּי יְהוּדָה הָא דִּתְנַן: נוֹתְנִין עָלָיו חוּמְרֵי הַמָּקוֹם שֶׁיָּצָא מִשָּׁם וְחוּמְרֵי הַמָּקוֹם שֶׁהָלַךְ לְשָׁם?!
->
-> **Translation:** Rabbi Yehuda says that one need not remove the produce, as he can say to a local resident: You too go out and bring this produce from a place where it remains in the field. Therefore, he may partake of the produce that he brought with him. The Gemara asks: **And is Rabbi Yehuda not** in agreement with **that which we learned** in the mishna: The Sages **impose upon him the stringencies of** both **the place from which he left and the stringencies of the place to which he went?**
-
 The *Tanna Kamma* takes the position that whenever produce must be removed by the laws of either place — where one came from or where one is — one must perform *bi'ur*. Rabbi Yehuda disagrees.
 
 ### Rabbi Yehuda Analogy
+
 
 Rabbi Yehuda's argument, as explained by Rashi, is powerful and direct. He says: this is not a matter of *chumrei makom shehalach l'sham v'chumrei makom sheyatza misham*. If I am visiting a place where there are no longer apples available in the field, but I have brought my apples from a place where apples are still on the trees — Ohio, let us say — then my continuing to eat those apples is not a failure to respect the local *chumra*. I can say to the local residents: if you were to import Ohio apples, you would not have to perform *bi'ur* on them either, because the produce follows the rules of where it was picked. These are Ohio apples, and Ohio apples are still permitted. This is an argument about the status of the *food*, not about the *minhag* of the place. And that seems like a reasonable position.
 
 ### Gemara Objection
 
+> **Hebrew/Aramaic:** כַּיּוֹצֵא בּוֹ הַמּוֹלִיךְ פֵּירוֹת שְׁבִיעִית וְכוּ׳. וְלֵית לֵיהּ לְרַבִּי יְהוּדָה הָא דִּתְנַן: נוֹתְנִין עָלָיו חוּמְרֵי הַמָּקוֹם שֶׁיָּצָא מִשָּׁם וְחוּמְרֵי הַמָּקוֹם שֶׁהָלַךְ לְשָׁם?!
+> **Translation:** We learned in the mishna: **Similarly,** one **who transports Sabbatical** Year **produce** from a place where a crop has ceased in the fields to a place where it has not yet ceased, or from a place where it has not yet ceased to a place where it has already ceased, is obligated to remove the produce from his possession, in accordance with the stringencies of both locations. Rabbi Yehuda says that one need not remove the produce, as he can say to a local resident: You too go out and bring this produce from a place where it remains in the field. Therefore, he may partake of the produce that he brought with him. The Gemara asks: **And is Rabbi Yehuda not** in agreement with **that which we learned** in the mishna: The Sages **impose upon him the stringencies of** both **the place from which he left and the stringencies of the place to which he went?**
+
 The *Gemara* is nonetheless troubled by Rabbi Yehuda's ruling. *Uleis lei leRebbi Yehuda haditnan* — does Rabbi Yehuda not hold by the principle that one follows the *chumros* of both the place one came from and the place one is traveling to? How can he simply say, "my apples are from Ohio," when the local practice requires *bi'ur*?
 
 ### Rav Sheshet Read
 
-> **Hebrew/Aramaic:** אָמַר רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי: מִילְּתָא אַחֲרִיתִי קָאָמַר רַבִּי יְהוּדָה.
->
-> **Translation:** **Rav Sheisha, son** of **Rav Idi, said: Rabbi Yehuda is stating a different matter,** and is therefore not subject to the principle of stringencies of two places.
-
 *Amar Rav Sheshet brei deRav Idi milsa achrita kaamar Rebbi Yehuda*: Rav Sheshet argues that Rabbi Yehuda is not addressing the simple case at all. He would fully agree that one must perform *bi'ur* when the produce's status requires it at either location. What Rabbi Yehuda is addressing is a more particular case — one in which the status changed in the interim — and the *Mishnah* must be read accordingly, with an implicit scenario that the straightforward text does not spell out.
+
+> **Hebrew/Aramaic:** אָמַר רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי: מִילְּתָא אַחֲרִיתִי קָאָמַר רַבִּי יְהוּדָה, וְהָכִי קָאָמַר: אוֹ מִמָּקוֹם שֶׁלֹּא כָּלוּ לְמָקוֹם שֶׁלֹּא כָּלוּ, וְשָׁמַע שֶׁכָּלוּ בִּמְקוֹמוֹ — חַיָּיב לְבַעֵר. רַבִּי יְהוּדָה אוֹמֵר: צֵא וְהָבֵא לְךָ אַף אַתָּה מֵהֵיכָא דְּאַיְיתִינְהוּ, וְהָא לָא כָּלוּ לְהוּ.
+> **Translation:** **Rav Sheisha, son** of **Rav Idi, said: Rabbi Yehuda is stating a different matter, and this is what** the mishna **is saying: Or** if one went **from a place where** a crop **has not ceased** in the fields **to a place where it has** also **not ceased** in the fields, **and he heard that it** now **ceased** in the fields **in his** original **location, he is** then **required to remove** the fruits from his possession. **Rabbi Yehuda says:** He need not remove it and can say to the people of his location of origin: **You, too, go out and bring** these fruits **from a place where they remain in the field, as they have not ceased** in the fields here, and I may continue eating this produce.
 
 ---
 
 ## Produce Status
 
-### Abaye Reading
 
-> **Hebrew/Aramaic:** אַבָּיֵי אָמַר: לְעוֹלָם כִּדְקָתָנֵי, וְהָכִי קָאָמַר: אוֹ מִמָּקוֹם שֶׁלֹּא כָּלוּ לְמָקוֹם שֶׁכָּלוּ, וְהֶחְזִירָן לִמְקוֹמָן וַעֲדַיִין לֹא כָּלוּ — אֵינוֹ חַיָּיב לְבַעֵר.
->
-> **Translation:** **Abaye said: Actually,** maintain the dispute in the mishna **as it is taught, and this is what** the mishna **is saying: Or,** if he brought it **from a place where it has not ceased** in the fields **to a place where it has ceased** in the fields, **and he returned** the fruits **to their** original **place** where they **have still not ceased** from the fields, **he is not required to remove** the produce.
+
+### Abaye Reading
 
 Abaye offers a more straightforward reading of the *Mishnah*, without the forced insertion of an additional case. *Vehachi kaamar* — this is what the *Mishnah* means: the debate concerns a situation in which the produce was taken from a place where it was still available in the field, brought to a place where it is no longer available, and then brought back.
 
@@ -224,10 +216,6 @@ To make the case concrete: one takes apples from Ohio, where they are still on t
 
 ### Tanna Allow
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: צֵא וְהָבֵא לְךָ אַף אַתָּה מֵהֵיכָא דְּאַיְיתִינְהוּ, וְהָא כָּלוּ לְהוּ.
->
-> **Translation:** **Rabbi Yehuda says: You, too, go out and bring** these fruits **from** the place **where I brought them, and hasn't** the crop **ceased** from the fields there? When he brought the produce back, he took it from a location where the fruit had ceased to be available, and he is required to remove it.
-
 The *Tanna Kamma* rules: *eino chayav leva'er* — you need not perform *bi'ur* when you return to Ohio. When you took the apples from Ohio, eating them was permitted; now that you have returned to Ohio, it is again permitted. The intermediate sojourn in New York does not retroactively alter the status of these apples.
 
 ### Yehuda Status
@@ -236,73 +224,79 @@ Rabbi Yehuda says otherwise: *tze v'havi lach apatza meheicha d'aytinu* — go t
 
 ### Rav Ashi Challenge
 
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב אָשֵׁי: לְרַבִּי יְהוּדָה אַטּוּ אַגַּבָּא דְחַמְרָא קַלְטִינְהוּ?!
->
-> **Translation:** **Rav Ashi strongly objects to this: Is that to say** that, according to **Rabbi Yehuda, did the back of the donkey absorb** these fruits?
-
 *Matkif lah Rav Ashi*: Rav Ashi finds this entirely unconvincing. *Atu agaba d'chamra kaltinhu?* — did they get absorbed into the city while riding on the back of the donkey? Because the apples spent some time in New York, they magically transformed into New York apples? They are still Ohio apples, grown from Ohio trees, and when returned to Ohio they plainly follow Ohio law. *Ela amar Rav Ashi* — rather, Rav Ashi reframes the entire debate. The dispute between the *Tanna Kamma* and Rabbi Yehuda does not actually hinge on some theory of produce changing its geographic identity. Instead, *b'plugta d'hanei tanna'ei* — it follows the lines of a dispute among *Tanna'im* found in a separate *Mishnah*, to which we now turn.
 
 ---
 
 ## Rav Papa Connect
 
+
+
 ### Rabbi Eliezer
 
-> **Hebrew/Aramaic:** דִּתְנַן: הַכּוֹבֵשׁ שְׁלֹשָׁה כְּבָשִׁין בְּחָבִית אַחַת, רַבִּי אֶלְעָזָר אוֹמֵר: אוֹכְלִין עַל הָרִאשׁוֹן.
->
-> **Translation:** **as we learned** in a mishna: With regard to **one who preserves three** types of vegetable **preserves in one barrel** during the Sabbatical Year, **Rabbi Eliezer says: One may eat** all three vegetables based **on** the status of **the first.** One may eat all three only until the date that the first of those vegetables ceases in the field. Thereafter, he is required to remove all the vegetables because they form a mixture of the prohibited and the permitted.
-
-The *Mishnah* referenced by Rav Ashi concerns the following case: *hakoveish shlosha kvashin b'chavit achat* — one pickles three different types of vegetables together in a single barrel. Imagine a mixture of cauliflower, cucumbers, and tomatoes, all pickled together. During the *Shemita* year, one or two of those types may no longer be available in the field while the third is still available. What is the law? There is also a question of *ta'am* — the transfer of taste — since all three types are pickling together in the same barrel. *Rabbi Eliezer omer ochlin al harishon*: one may eat all three vegetables based **on** the status of **the first.** One may eat all three only until the date that the first of those vegetables ceases in the field.
+The *Mishnah* referenced by Rav Ashi concerns the following case: *hakoveish shlosha kvashin b'chavit achat* — one pickles three different types of vegetables together in a single barrel. Imagine a mixture of cauliflower, cucumbers, and tomatoes, all pickled together. During the *Shemita* year, one or two of those types may no longer be available in the field while the third is still available. What is the law? There is also a question of *ta'am* — the transfer of taste — since all three types are pickling together in the same barrel. *Rabbi Eliezer omer ochlin al harishon*: one may eat only as long as every single type in the barrel is still permitted to be eaten. The moment any one type can no longer be eaten — because it is no longer available in the field — the taste of that type has permeated the entire barrel, and one must perform *bi'ur* on the whole mixture. No type remains edible once any single type has become subject to *bi'ur*.
 
 ### Rabbi Yehoshua
 
-> **Hebrew/Aramaic:** רַבִּי יְהוֹשֻׁעַ אוֹמֵר: אַף עַל הָאַחֲרוֹן. רַבָּן גַּמְלִיאֵל אוֹמֵר: כׇּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה — יְבַעֵר מִינוֹ מִן הֶחָבִית, וַהֲלָכָה כִּדְבָרָיו.
->
-> **Translation:** **Rabbi Yehoshua says:** One may **even** continue eating all of them based **on** the status of **the final** type of those vegetables, until it is no longer present in the field. **Rabban Gamliel says: Any** of the vegetables **whose type has ceased from the field, he** will **remove its type from the barrel** and it may not be eaten; **and the *halakha* is in accordance with his statement.**
 
 *Rabbi Yehoshua omer af al ha'acharon*: one may keep eating from the barrel as long as even one of the types is still available. Tosafot notes that this is an approach we would never apply to ordinary *issurim*: if three things are pickling together and one of them is *chametz*, we would never say the other two remain permitted simply because they are still present. But *Shemita* produce is categorically different — it is not *assur* in the sense of forbidden food. If one performs *bi'ur* and distributes the produce publicly, others may eat it, and even the original owner may eat alongside them. The food is not intrinsically *assur*; the obligation is about possession and distribution, not about the inherent status of the produce. Therefore, as long as one does not yet need to distribute one of the types, one may treat the whole barrel as a single unit and continue eating.
 
 ### Rabban Gamliel
 
-Rabban Gamliel says: *kol shekala mino min hasadeh yeva'er mino min hachavit* — anything that is no longer available in the field must be removed from the barrel. However, once you remove, say, all the cucumbers because cucumbers are no longer in the field, you may continue eating the pickled tomatoes — even though they have absorbed the taste of the cucumbers — because the concern of taste transfer does not apply here. You must physically remove the vegetables that have become subject to *bi'ur*, but what remains in the barrel is not disqualified by the absorbed taste. *V'halakha k'divarav* — and we rule in accordance with Rabban Gamliel.
+*Rabban Gamliel omer: kol shekala mino min hasadeh yeva'er mino min hachavit* — anything that is no longer available in the field must be removed from the barrel. However, once you remove, say, all the cucumbers because cucumbers are no longer in the field, you may continue eating the pickled tomatoes — even though they have absorbed the taste of the cucumbers — because the concern of taste transfer does not apply here. You must physically remove the vegetables that have become subject to *bi'ur*, but what remains in the barrel is not disqualified by the absorbed taste. *V'halakha k'divarav* — and we rule in accordance with Rabban Gamliel.
 
 ### Shemita Parallel
 
+> **Hebrew/Aramaic:** לְמֵימְרָא דְּרַבִּי יְהוּדָה לְקוּלָּא קָאָמַר? וְהָאָמַר רַבִּי אֶלְעָזָר: לֹא אָמַר רַבִּי יְהוּדָה אֶלָּא לְחוּמְרָא! אֶלָּא אֵיפוֹךְ — אֵינוֹ חַיָּיב לְבַעֵר, רַבִּי יְהוּדָה אוֹמֵר: צֵא וְהָבֵא לְךָ אַף אַתָּה מֵהֵיכָא דְּאַיְיתִינְהוּ, וְהָא כָּלוּ לְהוּ.
+> **Translation:** The Gemara asks: **Is that to say** that **Rabbi Yehuda is stating** his opinion **as a leniency** in his dispute with the Rabbis? **Didn’t Rabbi Elazar say: Rabbi Yehuda stated** his opinion **as a stringency? Rather, reverse** the statements in the mishna: If one travels from a place where a crop has not ceased in the fields to another place where it has not ceased in the fields, and hears that it has ceased in the fields in his original location, **he is not required to remove** that produce from his house. **Rabbi Yehuda says: You, too, go out and bring** these fruits **from** the place **where I brought them, and** the crop has **ceased** in the fields there, and therefore he is required to remove the produce from his house.
+
+> **Hebrew/Aramaic:** אַבָּיֵי אָמַר: לְעוֹלָם כִּדְקָתָנֵי, וְהָכִי קָאָמַר: אוֹ מִמָּקוֹם שֶׁלֹּא כָּלוּ לְמָקוֹם שֶׁכָּלוּ, וְהֶחְזִירָן לִמְקוֹמָן וַעֲדַיִין לֹא כָּלוּ — אֵינוֹ חַיָּיב לְבַעֵר, רַבִּי יְהוּדָה אוֹמֵר: צֵא וְהָבֵא לְךָ אַף אַתָּה מֵהֵיכָא דְּאַיְיתִינְהוּ, וְהָא כָּלוּ לְהוּ.
+> **Translation:** **Abaye said: Actually,** maintain the dispute in the mishna **as it is taught, and this is what** the mishna **is saying: Or,** if he brought it **from a place where it has not ceased** in the fields **to a place where it has ceased** in the fields, **and he returned** the fruits **to their** original **place** where they **have still not ceased** from the fields, **he is not required to remove** the produce. **Rabbi Yehuda says: You, too, go out and bring** these fruits **from** the place **where I brought them, and hasn’t** the crop **ceased** from the fields there? When he brought the produce back, he took it from a location where the fruit had ceased to be available, and he is required to remove it.
+
 Rav Papa now applies this to the dispute of the *Mishnah* about Rabbi Yehuda and the *Tanna Kamma*. The operative question in both contexts is: what determines whether produce is still considered "available in the field"? Is it the status at the current location? At the original location? And what happens when those statuses diverge? The debate between the *Tanna Kamma* and Rabbi Yehuda about fruit brought between regions maps onto the debate between the *Tanna'im* about the barrel — both turn on the same underlying question of when field availability controls what you may eat.
 
+[DAF:52b]
 ### Pickling Mishnah
 
-> **Hebrew/Aramaic:** אוֹכְלִים בִּתְמָרִים עַד שֶׁיִּכְלֶה הָאַחֲרוֹן שֶׁבְּצוֹעַר.
->
-> **Translation:** **One** may **eat dates** in all of Judea **until the very last date is no longer available anywhere on the palm trees in** the city **Tzoar,** has **ceased** producing dates.
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב אָשֵׁי: לְרַבִּי יְהוּדָה אַטּוּ אַגַּבָּא דְחַמְרָא קַלְטִינְהוּ?! אֶלָּא אָמַר רַב אָשֵׁי: בִּפְלוּגְתָּא דְהָנֵי תַנָּאֵי, דִּתְנַן: הַכּוֹבֵשׁ שְׁלֹשָׁה כְּבָשִׁין בְּחָבִית אַחַת, רַבִּי אֶלְעָזָר אוֹמֵר: אוֹכְלִין עַל הָרִאשׁוֹן.
+> **Translation:** **Rav Ashi strongly objects to this: Is that to say** that, according to **Rabbi Yehuda, did the back of the donkey absorb** these fruits? In other words, should this fruit be prohibited just because he transported the fruits on a donkey’s back through a place where it no longer exists in the field, even though it was neither grown there nor is he eating it there? **Rather, Rav Ashi said:** The dispute between the Rabbis and Rabbi Yehuda is parallel **to the dispute of these *tanna’im*, as we learned** in a mishna: With regard to **one who preserves three** types of vegetable **preserves in one barrel** during the Sabbatical Year, **Rabbi Eliezer says: One may eat** all three vegetables based **on** the status of **the first.** One may eat all three only until the date that the first of those vegetables ceases in the field. Thereafter, he is required to remove all the vegetables because they form a mixture of the prohibited and the permitted.
 
-The *Mishnah* on pickling further illustrates the point: *ochlim betmarim ad she-yichleh ha-achron she-be-Tzoar* — one may eat dates until the very last date is no longer available anywhere on the palm trees in *Tzoar*, the city of dates. Even if dates are no longer accessible in one's immediate locale, as long as they remain available somewhere in the region, one continues to eat. This connects directly to the broader regional framework for *bi'ur*, which the *Gemara* now elaborates.
+> **Hebrew/Aramaic:** רַבִּי יְהוֹשֻׁעַ אוֹמֵר: אַף עַל הָאַחֲרוֹן. רַבָּן גַּמְלִיאֵל אוֹמֵר: כׇּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה — יְבַעֵר מִינוֹ מִן הֶחָבִית, וַהֲלָכָה כִּדְבָרָיו.
+> **Translation:** **Rabbi Yehoshua says:** One may **even** continue eating all of them based **on** the status of **the final** type of those vegetables, until it is no longer present in the field. **Rabban Gamliel says: Any** of the vegetables **whose type has ceased from the field, he** will **remove its type from the barrel** and it may not be eaten; **and the *halakha* is in accordance with his statement.** The parallels between the dispute in this mishna and the dispute between the Rabbis and Rabbi Yehuda are: The unattributed opinion in the mishna is parallel to the opinion of Rabbi Yehoshua: As long as there is an element of leniency, it is all permitted. Rabbi Yehuda’s opinion is parallel to the opinion of Rabbi Eliezer: As long as there is an element of stringency, it is all prohibited (Rabbeinu Ḥananel).
+
+> **Hebrew/Aramaic:** רָבִינָא אָמַר: בִּפְלוּגְתָּא דְהָנֵי תַנָּאֵי, דִּתְנַן: אוֹכְלִין בִּתְמָרִין עַד שֶׁיִּכְלֶה הָאַחֲרוֹן שֶׁבְּצוֹעַר. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר:
+> **Translation:** **Ravina said:** The dispute between the Rabbis and Rabbi Yehuda is parallel **to the dispute of these *tanna’im*, as we learned** in a mishna: **One may eat dates** in all of Judea **until the last** palm tree, which produces the latest dates, **in Tzoar,** has **ceased** producing dates. **Rabban Shimon ben Gamliel says:**
+
+> **Hebrew/Aramaic:** אוֹכְלִין עַל שֶׁל בֵּין הַכִּיפִּין, וְאֵין אוֹכְלִין עַל שֶׁבֵּין הַשִּׁיצִין.
+> **Translation:** **One** may continue **eating** dates based **on** those that have fallen off the tree and are stuck **between the palm branches. But one** may **not** continue **eating on** the basis of the dates that have fallen **between the thorn branches,** as animals are unable to reach them there. According to the first *tanna* in the mishna cited, one may continue eating fruit as long as an animal has access to its type, parallel to the opinion of the Rabbis with regard to removal. Rabban Shimon ben Gamliel’s opinion is parallel to the opinion of Rabbi Yehuda: If the fruit from a certain place is not available to all, one is required to remove it.
+
+
+The *Mishnah* on pickling further illustrates the point: *ochlim betmarim ad she-yichleh ha-achron she-be-Tzoar* — one may eat dates until the very last date is no longer available anywhere on the palm trees in *Tzoar*, the city of dates. Even if dates are no longer accessible in one's immediate locale, as long as they remain available somewhere in the region, one continues to eat. Within this framework, *Rabban Gamliel* introduces a further distinction: *ochlim al she-bein ha-kishin ve-ein ochlim al she-bein ha-shitzin* — one may continue eating by virtue of dates still suspended among the fronds of the palm tree, but one may not continue eating on the basis of dates found only among the thorns and thistles at the base of the tree. The underlying logic is that dates resting on the fronds are still genuinely accessible in the field — animals can reach them and they remain in normal circulation — whereas dates that have fallen into the thorny undergrowth at the base are practically inaccessible; animals will not venture into that tangle, and the dates there are not meaningfully "available." What then is the dispute between the *Tanna Kamma* and Rabbi Yehuda? The *Tanna Kamma* holds that one may keep eating as long as dates exist anywhere, even if the only remaining dates are those lodged among the thorns, whereas Rabbi Yehuda holds that once the dates are only accessible in the thorns — effectively impossible to retrieve — they are no longer considered to be available in the field, and eating must cease. Importantly, this is not a dispute about following one regional custom over another; it is entirely a question about *shemita* law: at precisely what point is produce no longer considered "found in the field"? This connects directly to the broader regional framework for *bi'ur*, which the *Gemara* now elaborates.
 
 ---
 
 ## Shemita Regions
 
+
+
 ### Three Regions
 
-> **Hebrew/Aramaic:** תְּנַן הָתָם, שָׁלֹשׁ אֲרָצוֹת לְבִיעוּר: יְהוּדָה, וְעֵבֶר הַיַּרְדֵּן, וְגָלִיל. וְשָׁלֹשׁ אֲרָצוֹת בְּכׇל אַחַת וְאַחַת. וְלָמָה אָמְרוּ שָׁלֹשׁ אֲרָצוֹת לְבִיעוּר? שֶׁיִּהְיוּ אוֹכְלִים בְּכׇל אַחַת וְאַחַת עַד שֶׁיִּכְלֶה הָאַחֲרוֹן שֶׁבָּהּ.
->
-> **Translation:** **We learned there** in a mishna: Eretz Yisrael is divided into **three** separate **lands** with regard **to removal, Judea, Transjordan, and the Galilee. And** there are **three lands in each and every one** of them: The valley, the mountains, and the plains, in which the *halakhot* of removal differ. **And why did** the Sages **say** that there are **three lands** with regard **to removal** if those lands themselves are further divided? It is so **that** people **will eat in each and every one until** a certain crop **ceases** from the field **in the last** of the regions that comprise **it.**
+> **Hebrew/Aramaic:** תְּנַן הָתָם, שָׁלֹשׁ אֲרָצוֹת לְבִיעוּר: יְהוּדָה, וְעֵבֶר הַיַּרְדֵּן, וְגָלִיל. וְשָׁלֹשׁ אֲרָצוֹת בְּכׇל אַחַת וְאַחַת. וְלָמָה אָמְרוּ שָׁלֹשׁ אֲרָצוֹת לְבִיעוּר? שֶׁיִּהְיוּ אוֹכְלִין בְּכׇל אַחַת וְאַחַת עַד שֶׁיִּכְלֶה הָאַחֲרוֹן שֶׁבָּהּ.
+> **Translation:** Since the Gemara discussed the point when Sabbatical Year produce must be removed in different places, it cites a mishna from tractate *Shevi’it* that deals with a similar topic. **We learned there** in a mishna: Eretz Yisrael is divided into **three** separate **lands** with regard **to removal, Judea, Transjordan, and the Galilee. And** there are **three lands in each and every one** of them: The valley, the mountains, and the plains, in which the *halakhot* of removal differ. **And why did** the Sages **say** that there are **three lands** with regard **to removal** if those lands themselves are further divided? It is so **that** people **will eat in each and every one until** a certain crop **ceases** from the field **in the last** of the regions that comprise **it.** Therefore, even if a certain fruit is no longer available in a particular region within the land, it may still be eaten there as long as it is available in one of the other regions.
 
 *Shalosh aratzot le-vi'ur: Yehuda ve-Ever HaYarden ve-haGalil* — there are three regions for the law of *bi'ur*: Judea, Transjordan, and the Galilee. The principle is *she-ochlim be-chol achat ve-achat ad she-yichleh ha-achron she-bah*: one may eat within any one of those regions as long as there is still produce anywhere within that same region. So long as there are dates somewhere in Judea, one may eat dates anywhere in Judea. So long as there are dates somewhere in the Galilee, one may eat dates anywhere in the Galilee. One does not go by the immediate locale but by the entire region — as illustrated by the earlier example of *Tzoar*, where availability in a distant corner of the region suffices.
 
 ### Scriptural Source
 
-> **Hebrew/Aramaic:** מְנָא הָנֵי מִילֵּי? אָמַר רַב חָמָא בַּר עוּקְבָא אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: אָמַר קְרָא "וְלִבְהֶמְתְּךָ וְלַחַיָּה אֲשֶׁר בְּאַרְצֶךָ". כׇּל זְמַן שֶׁחַיָּה אוֹכֶלֶת מִן הַשָּׂדֶה — הַאֲכֵל לַבְּהֵמָה שֶׁבַּבַּיִת, כָּלָה לְחַיָּה אֲשֶׁר בַּשָּׂדֶה — כַּלֵּה לִבְהֶמְתְּךָ מִן הַבַּיִת.
->
-> **Translation:** **From where are these matters** derived? **Rav Ḥama bar Ukva said** that **Rabbi Yosei bar Ḥanina said: The verse says** with regard to land during the Sabbatical Year: **"And for the cattle and the beasts that are in your land,** all its produce may be eaten" (Leviticus 25:7), from which it is derived: **As long as the undomesticated animals eat** a type of produce **from the field, one may feed** that type **to the domesticated animal in** his **house,** as it still remains in the field. Deriving benefit from that type of produce is permitted. However, if that type of produce **has ceased for the undomesticated animals in the field, cease** providing it **to your domesticated animal in the house.**
+> **Hebrew/Aramaic:** מְנָא הָנֵי מִילֵּי? אָמַר רַב חָמָא בַּר עוּקְבָא אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: אָמַר קְרָא ״וְלִבְהֶמְתְּךָ וְלַחַיָּה אֲשֶׁר בְּאַרְצֶךָ״. כׇּל זְמַן שֶׁחַיָּה אוֹכֶלֶת מִן הַשָּׂדֶה — הַאֲכֵל לַבְּהֵמָה שֶׁבַּבַּיִת, כָּלָה לְחַיָּה אֲשֶׁר בַּשָּׂדֶה — כַּלֵּה לִבְהֶמְתְּךָ מִן הַבַּיִת.
+> **Translation:** The Gemara asks: **From where are these matters** derived, that it is permitted to continue eating a type of fruit that has ceased from the fields in a region, as long as it has not ceased elsewhere in the land, but that once it has ceased from the fields in the entire land it is prohibited, despite the fact that it has not ceased from the fields in the other lands? **Rav Ḥama bar Ukva said** that **Rabbi Yosei bar Ḥanina said: The verse says** with regard to land during the Sabbatical Year: **“And for the cattle and the beasts that are in your land,** all its produce may be eaten” (Leviticus 25:7), from which it is derived: **As long as the undomesticated animals eat** a type of produce **from the field, one may feed** that type **to the domesticated animal in** his **house,** as it still remains in the field. Deriving benefit from that type of produce is permitted. However, if that type of produce **has ceased for the undomesticated animals in the field, cease** providing it **to your domesticated animal in the house.**
 
 *Mena hani mili?* — where does this whole framework come from? *Amar Rav Chama bar Ukva amar Rabbi Yosi bar Chanina amar k'ra: ve-livhemtecha ve-lachaya asher be-artzecha* — the *pasuk* says that the *Shemita* produce is for "your animals and the wild animals in your land." The operative principle is: *kol zman she-chaya ochelet min ha-sadeh ha'achel li-vhema she-be-bayit* — as long as wild animals can eat the produce in the field, you may feed the domesticated animals in your home. *Kalyah la-chaya she-ba-sadeh, kalyah li-vhemtecha min ha-bayit* — once the produce is no longer available to the wild animals foraging in the field, you must remove it from your home as well. Your domesticated animal's access to the produce must remain on the same footing as the wild animal's.
 
 ### Animal Boundaries
 
-> **Hebrew/Aramaic:** וּגְמִירִי: דְּאֵין חַיָּה שֶׁבִּיהוּדָה גְּדֵילָה עַל פֵּירוֹת שֶׁבַּגָּלִיל, וְאֵין חַיָּה שֶׁבַּגָּלִיל גְּדֵילָה עַל פֵּירוֹת שֶׁבִּיהוּדָה.
->
-> **Translation:** **And we learned** as a tradition **that an undomesticated animal in Judea does not develop on the produce of the Galilee, and an undomesticated animal in the Galilee does not develop on the fruits of Judea.** In each region there are conditions uniquely suited to the species that live there. Animals wander from region to region within Judea or within the Galilee in search of food, but they do not stray beyond the borders of the land of their habitat.
+> **Hebrew/Aramaic:** וּגְמִירִי: דְּאֵין חַיָּה שֶׁבִּיהוּדָה גְּדֵילָה עַל פֵּירוֹת שֶׁבַּגָּלִיל, וְאֵין חַיָּה שֶׁבַּגָּלִיל גְּדֵילָה עַל פֵּירוֹת שֶׁבִּיהוּדָה.
+> **Translation:** **And we learned** as a tradition **that an undomesticated animal in Judea does not develop on the produce of the Galilee, and an undomesticated animal in the Galilee does not develop on the fruits of Judea.** In each region there are conditions uniquely suited to the species that live there (*Sefat Emet*). Animals wander from region to region within Judea or within the Galilee in search of food, but they do not stray beyond the borders of the land of their habitat.
 
 The three-region framework — why Judea is one unit and the Galilee another, rather than treating the whole land as a single unit — is derived from a received tradition: *de-ein chaya she-bi-Yehuda gedela al peirot she-ba-Galil ve-da-ein chaya she-ba-Galil gedela al peirot she-bi-Yehuda* — animals in Judea do not range over to feed on the produce of the Galilee, and animals in the Galilee do not range over to feed on the produce of Judea. Animals observe, in effect, the political boundaries of the regions. Therefore, as long as there are dates somewhere in Judea, the animals of Judea can access them, and one may eat throughout Judea. But the availability of dates in the Galilee provides no benefit to Judea, because Judean animals do not cross into the Galilee. The regional unit is defined by where the relevant wild animals actually forage.
 
@@ -312,9 +306,11 @@ What are the three sub-areas mentioned within each region? Rashi suggests they a
 
 ### Rabbi Shimon
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: פֵּירוֹת שֶׁיָּצְאוּ מֵאֶרֶץ יִשְׂרָאֵל לְחוּצָה לָאָרֶץ — מִתְבַּעֲרִין בְּכׇל מָקוֹם שֶׁהֵן. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: יַחְזְרוּ לִמְקוֹמָן וְיִתְבַּעֲרוּ, מִשּׁוּם שֶׁנֶּאֱמַר: "בְּאַרְצֶךָ".
->
-> **Translation:** **The Sages taught:** Sabbatical Year **fruits that left Eretz Yisrael** and went **to the Diaspora must be removed** in **any place that they are** located. **Rabbi Shimon ben Elazar says:** That is not so. Rather, the fruits **should return to their place** of origin in Eretz Yisrael **and be removed** there. According to his opinion, removal may not be performed outside Eretz Yisrael **because it is stated: "In your land,"** indicating that this activity may be performed only in Eretz Yisrael.
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: פֵּירוֹת שֶׁיָּצְאוּ מֵאֶרֶץ יִשְׂרָאֵל לְחוּצָה לָאָרֶץ — מִתְבַּעֲרִין בְּכׇל מָקוֹם שֶׁהֵן. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: יַחְזְרוּ לִמְקוֹמָן וְיִתְבַּעֲרוּ, מִשּׁוּם שֶׁנֶּאֱמַר: ״בְּאַרְצֶךָ״. הָא אַפֵּיקְתֵּיהּ?
+> **Translation:** **The Sages taught:** Sabbatical Year **fruits that left Eretz Yisrael** and went **to the Diaspora must be removed** in **any place that they are** located. **Rabbi Shimon ben Elazar says:** That is not so. Rather, the fruits **should return to their place** of origin in Eretz Yisrael **and be removed** there. According to his opinion, removal may not be performed outside Eretz Yisrael **because it is stated: “In your land,”** indicating that this activity may be performed only in Eretz Yisrael. The Gemara asks: **Didn’t you derive** from this verse that each of the three lands in Eretz Yisrael has a different halakhic status?
+
+> **Hebrew/Aramaic:** קְרִי בֵּיהּ: ״בָּאָרֶץ״ ״בְּאַרְצֶךָ״, אִי נָמֵי: ״מֵאֲשֶׁר בְּאַרְצֶךָ״.
+> **Translation:** The Gemara answers: **Read** the phrase as both **in the land** and **in your land.** It is possible to derive two *halakhot* from this verse; one *halakha* is with regard to Eretz Yisrael in general, i.e., one may not perform removal outside of Eretz Yisrael, the land, and one is with regard to the different lands within Eretz Yisrael, your land. **Alternatively,** the second *halakha* can be derived **from** the extraneous words in the expression: **“That are in your land,”** as the Torah could have sufficed with the phrase: “In your land.”
 
 *Peirot sheyatze'u me'eretz yisrael lechutz la'aretz mitbar'im bechol makom* — produce that leaves *Eretz Yisrael* for *chutz la'aretz* must be subjected to *bi'ur* wherever one is, even in *chutz la'aretz*. One distributes them in Cincinnati if that is where one finds oneself. *Sheyei bechol makom shehem sham* — the obligation follows the produce wherever it goes. *Rabbi Shimon ben Elazar omer yachzeru limkomam*: Rabbi Shimon ben Elazar rules that one must bring the produce back to *Eretz Yisrael* and distribute it there. His reasoning: *mishum shene'emar be'artzecha* — the *pasuk* says *asher be'artzecha*, specifically within the land. Making the produce available to the animals of *Eretz Yisrael* in particular is the requirement, not simply relinquishing private possession abroad. The *Gemara* asks how this *pasuk* can carry two separate lessons — both the regional framework and the requirement to distribute in *Eretz Yisrael*. The answer is that the extra word *asher* in *asher be'artzecha* yields both principles.
 
@@ -322,19 +318,17 @@ What are the three sub-areas mentioned within each region? Rashi suggests they a
 
 ## Rav Saphra Wine
 
+
+
 ### Saphra Situation
 
-> **Hebrew/Aramaic:** רַב סָפְרָא נְפַק מֵאֶרֶץ יִשְׂרָאֵל לְחוּצָה לָאָרֶץ. הֲוָה בַּהֲדֵיהּ גַּרְבָּא דְחַמְרָא דִּשְׁבִיעִית, לַוּוֹ בַּהֲדֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב אִיקָא וְרַב כָּהֲנָא, אָמַר לְהוּ: אִיכָּא דִּשְׁמִיעַ לֵיהּ מִינֵּיהּ דְּרַבִּי אֲבָהוּ הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹ לָא?
->
-> **Translation:** **Rav Safra left Eretz Yisrael** and went **to the Diaspora, and he had with him a jug of** Sabbatical Year **wine. Rav Huna, son** of **Rav Ika, and Rav Kahana accompanied him. He said to them: Is there** anyone **who heard** from **Rabbi Abbahu** whether **the *halakha* is in accordance with** the opinion of **Rabbi Shimon ben Elazar or not?**
+*Rav Saphra nafik me'eretz yisrael lechutz la'aretz* — Rav Saphra was departing from *Eretz Yisrael* to *chutz la'aretz*. *Hava ba'ahadei garba dechamra deshivita* — with him he had a flask of *Shemita* wine. He suddenly realized the halakhic question his departure created: does he have to return to *Eretz Yisrael* to distribute the wine there, in accordance with Rabbi Shimon ben Elazar, or may he distribute it wherever he ends up in *chutz la'aretz*?
 
-*Rav Saphra nafik me'eretz yisrael lechutz la'aretz* — Rav Safra was departing from *Eretz Yisrael* to *chutz la'aretz*. *Hava ba'ahadei garba dechamra deshivita* — with him he had a flask of *Shemita* wine. He suddenly realized the halakhic question his departure created: does he have to return to *Eretz Yisrael* to distribute the wine there, in accordance with Rabbi Shimon ben Elazar, or may he distribute it wherever he ends up in *chutz la'aretz*?
+> **Hebrew/Aramaic:** רַב סָפְרָא נְפַק מֵאֶרֶץ יִשְׂרָאֵל לְחוּצָה לָאָרֶץ. הֲוָה בַּהֲדֵיהּ גַּרְבָּא דְחַמְרָא דִּשְׁבִיעִית, לַוּוֹ בַּהֲדֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב אִיקָא וְרַב כָּהֲנָא, אָמַר לְהוּ: אִיכָּא דִּשְׁמִיעַ לֵיהּ מִינֵּיהּ דְּרַבִּי אֲבָהוּ הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹ לָא? אֲמַר לֵיהּ רַב כָּהֲנָא, הָכִי אָמַר רַבִּי אֲבָהוּ: הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר. אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב אִיקָא, הָכִי אָמַר רַבִּי אֲבָהוּ: אֵין הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר.
+> **Translation:** The Gemara relates: **Rav Safra left Eretz Yisrael** and went **to the Diaspora, and he had with him a jug of** Sabbatical Year **wine. Rav Huna, son** of **Rav Ika, and Rav Kahana accompanied him. He said to them: Is there** anyone **who heard** from **Rabbi Abbahu** whether **the *halakha* is in accordance with** the opinion of **Rabbi Shimon ben Elazar or not?** According to his opinion, Rav Safra would be required to return the wine to Eretz Yisrael. **Rav Kahana said to him** that **this** is what **Rabbi Abbahu said: The *halakha* is in accordance with** the opinion of **Rabbi Shimon ben Elazar,** and one is required to return and perform removal of the Sabbatical Year produce in Eretz Yisrael. **Rav Huna, son** of **Rav Ika, said** that **this** is what **Rabbi Abbahu said: The *halakha* is not in accordance with** the opinion of **Rabbi Shimon ben Elazar,** and one may perform removal wherever he may be.
 
 ### Two Traditions
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב כָּהֲנָא, הָכִי אָמַר רַבִּי אֲבָהוּ: הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר. אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב אִיקָא, הָכִי אָמַר רַבִּי אֲבָהוּ: אֵין הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר.
->
-> **Translation:** **Rav Kahana said to him** that **this** is what **Rabbi Abbahu said: The *halakha* is in accordance with** the opinion of **Rabbi Shimon ben Elazar,** and one is required to return to *Eretz Yisrael*. **Rav Huna, son** of **Rav Ika, said** that **this** is what **Rabbi Abbahu said: The *halakha* is not in accordance with** the opinion of **Rabbi Shimon ben Elazar,** and one may perform removal wherever he may be.
 
 He turned to his two companions, Rav Huna brei deRav Ika and Rav Kahana, and asked them whether they had heard from Rabbi Abbahu the ruling: *halacha keRabbi Shimon ben Elazar o lo* — do we rule like Rabbi Shimon ben Elazar or not? Rav Kahana reported: *hachi amar Rabbi Abbahu, halacha keRabbi Shimon ben Elazar* — we rule like Rabbi Shimon ben Elazar; you must return to *Eretz Yisrael*.
 
@@ -344,16 +338,8 @@ Rav Huna brei deRav Ika then said: *hachi amar Rabbi Abbahu, ein halacha keRabbi
 
 ### Saphra's Choice
 
-> **Hebrew/Aramaic:** אָמַר רַב סָפְרָא: נְקוֹט הָא כְּלָלָא דְּרַב הוּנָא בִּידָךְ, דְּדָיֵיק וְגָמַר שְׁמַעְתָּתָא מִפּוּמֵּיהּ דְּרַבֵּיהּ כְּרַחֲבָה דְפוּמְבְּדִיתָא.
->
-> **Translation:** **Rav Safra said: Take that principle of Rav Huna in your hand,** i.e., rely on it, **as he is scrupulous and he learned the *halakha* well from the mouth of its originator, as** the Sage **Raḥava** from the city of **Pumbedita** would do.
-
-*Amar Rav Safra: nakit klala deRav Huna beyadcha* — Rav Safra declared that they should follow Rav Huna's tradition. Why? *Dedaik agmra shamata mipumei derabeih krachaba depumbedita* — because Rav Huna is scrupulously precise in receiving and transmitting teachings directly from the mouth of his teacher. He is as precise as *Rachta* from Pumbedita, who transmitted from Rav Yehuda the tradition that *har habayit istav kaful hava* — the Temple Mount had a double *istav*, a portico within a portico — capturing that exact unusual phrasing *istav kaful* with evident precision. Just as *Rachta* heard and transmitted distinctive wording precisely, so too Rav Huna is the kind of transmitter who would not drop a word like *ein*.
+*Amar Rav Saphra: nakit klala deRav Huna beyadcha* — Rav Saphra declared that they should follow Rav Huna's tradition. Why? *Dedaik agmra shamata mipumei derabeih* — because Rav Huna is scrupulously precise in receiving and transmitting teachings directly from the mouth of his teacher. He is as precise as *Rachta* from Pumbedita, who transmitted from Rav Yehuda the tradition that *har habayit istav kaful hava* — the Temple Mount had a double *istav*, a portico within a portico — capturing that exact unusual phrasing *istav kaful* with evident precision. Just as *Rachta* heard and transmitted distinctive wording precisely, so too Rav Huna is the kind of transmitter who would not drop a word like *ein*.
 
 ### Rav Yosef Critique
 
-> **Hebrew/Aramaic:** קָרֵי עֲלֵיהּ רַב יוֹסֵף: "עַמִּי בְּעֵצוֹ יִשְׁאָל וּמַקְלוֹ יַגִּיד לוֹ". כׇּל הַמֵּיקֵל לוֹ — מַגִּיד לוֹ.
->
-> **Translation:** When Rav Yosef heard this story, he applied to Rav Safra the verse **"my people ask their wooden stick, and their staff tells them"** (Hosea 4:12) and interpreted it homiletically **with regard to** Rav Safra: **Anyone who is lenient [*mekel*] tells him** the *halakha*. He listens to the opinion of only the Sage who rules leniently.
-
-When Rav Yosef heard this story, he applied to Rav Safra the verse *ami be'etzo yishal umaklo yagid lo* — "my people ask their wooden stick, and their staff tells them" — a reference to the practice of seeking omens through divining rods. *Kol hameikel lo magid lo* — whoever will tell you the lenient ruling, that is who you ask. It is a sharp critique: Rav Safra, confronted with two conflicting traditions from Rabbi Abbahu, conveniently found a principled-sounding reason — Rav Huna's precision — to follow the one that spared him the inconvenience of turning around and returning to *Eretz Yisrael*. Rav Yosef's pointed remark suggests that the chosen criterion for preferring one tradition over another was not truly principled but was driven by the desired outcome. It is a fitting note on which to end the *daf*: a reminder that even within the world of *psak* and transmission, the human tendency to seek the lenient ruling — *kol hameikel lo magid lo* — is never far from the surface.
+When Rav Yosef heard this story, he applied to Rav Saphra the verse *ami be'etzo yishal umaklo yagid lo* — "my people ask their wooden stick, and their staff tells them" — a reference to the practice of seeking omens through divining rods. *Kol hameikel lo magid lo* — whoever will tell you the lenient ruling, that is who you ask. It is a sharp critique: Rav Saphra, confronted with two conflicting traditions from Rabbi Abbahu, conveniently found a principled-sounding reason — Rav Huna's precision — to follow the one that spared him the inconvenience of turning around and returning to *Eretz Yisrael*. Rav Yosef's pointed remark suggests that the chosen criterion for preferring one tradition over another was not truly principled but was driven by the desired outcome. It is a fitting note on which to end the *daf*: a reminder that even within the world of *psak* and transmission, the human tendency to seek the lenient ruling — *kol hameikel lo magid lo* — is never far from the surface.

@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Eruv Placement",
+    "candidates": [
+      "Eruv Placement",
+      "Shippura Definition",
+      "Shippura Succession",
+      "Suspicion Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0's prose describes: the Mishnah's ruling about placing the eruv in the old house for darkei shalom, and the Gemara's challenge from the shippura case \u2014 which is the opening move of the argument, before the subsequent headings analyze the shippura's identity, succession, and the final chashdah resolution.",
+      "chosen_heading": "Eruv Placement",
+      "current_heading": "Eruv Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Suspicion Rationale",
+    "candidates": [
+      "Shippura Definition",
+      "Shippura Succession",
+      "Suspicion Rationale",
+      "Well & Canal",
+      "Rav vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states the suspicion (chashdah) rationale, which is precisely what the 'Suspicion Rationale' section discusses, matching the current placement.",
+      "chosen_heading": "Suspicion Rationale",
+      "current_heading": "Suspicion Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rav vs Shmuel",
+    "candidates": [
+      "Well & Canal",
+      "Rav vs Shmuel",
+      "Shmuel's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the core Rav-Shmuel dispute about beni nahara water rights (tata'ei vs ila'ei) and the clarification about damming vs. free flow, which is precisely what the 'Rav vs Shmuel' prose describes.",
+      "chosen_heading": "Rav vs Shmuel",
+      "current_heading": "Rav vs Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Shmuel's Reading",
+    "candidates": [
+      "Shmuel's Reading",
+      "Might Makes Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Shmuel's reinterpretation of the Mishnah and the Gemara's question/answer about the chiddush \u2014 are explicitly discussed in the prose of heading 0 ('Shmuel's Reading'), which covers exactly these two elements in sequence.",
+      "chosen_heading": "Shmuel's Reading",
+      "current_heading": "Shmuel's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Might Makes Right",
+    "candidates": [
+      "Might Makes Right",
+      "Rav Shimi's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna bar Ta\u1e25alifa's statement about 'whoever is stronger prevails,' which is precisely what the prose under heading 0 discusses and introduces.",
+      "chosen_heading": "Might Makes Right",
+      "current_heading": "Might Makes Right",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rav Shimi's Story",
+    "candidates": [
+      "Rav Shimi's Story",
+      "Beni Becharmach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuous Rav Shimi bar Ashi narrative \u2014 the deal with Abaye and then its deceptive execution \u2014 which is exactly what candidate 0's prose describes in full.",
+      "chosen_heading": "Rav Shimi's Story",
+      "current_heading": "Rav Shimi's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Beni Becharmach",
+    "candidates": [
+      "Beni Becharmach",
+      "Traps & Possession",
+      "Vessels vs Hooks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Bei \u1e24armakh case with the Shanvata river diversion and Abaye's ruling, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Beni Becharmach",
+      "current_heading": "Beni Becharmach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Vessels vs Hooks",
+    "candidates": [
+      "Traps & Possession",
+      "Vessels vs Hooks",
+      "Olive Tree Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the distinction between nets/wicker traps (uzlei/oharei) versus hooks/spike traps (lechi/kukari), which is precisely the content described in the 'Vessels vs Hooks' prose section.",
+      "chosen_heading": "Vessels vs Hooks",
+      "current_heading": "Vessels vs Hooks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Olive Tree Story",
+    "candidates": [
+      "Olive Tree Story",
+      "Dates Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna about a deaf-mute/imbecile finding lost items and Rabbi Yosei's ruling of 'gezel gamur' with Rav \u1e24isda's clarification that it is rabbinic \u2014 this is a standalone Talmudic sugya unrelated to the olive tree or dates stories, but between the two candidate headings it fits better under 'Dates Story' as a transition passage; however, it actually belongs under neither story \u2014 yet since the current placement ('Olive Tree Story') is less relevant than 'Dates Story' which at least shares the gezel gamur terminology and darkei shalom framework discussed in the Rav Kahana narrative, 'Dates Story' is the marginally better fit among these two candidates.",
+      "chosen_heading": "Dates Story",
+      "current_heading": "Olive Tree Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Dates Story",
+    "candidates": [
+      "Olive Tree Story",
+      "Dates Story",
+      "Braita Text"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Olive Tree Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about a poor person gathering olives in his hand constituting full-fledged robbery, which is precisely what the 'Olive Tree Story' prose discusses.",
+      "second_heading": "Dates Story",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rav Kahana/dates story, which matches exactly the 'Dates Story' prose discussion of that narrative.",
+      "current_heading": "Dates Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Braita Text",
+    "candidates": [
+      "Braita Text",
+      "Rashi's Reading",
+      "Rambam View",
+      "Reciprocity Theme",
+      "Tosefta Version",
+      "Shemitah Lending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Mishnah and baraita text about not preventing gentile poor from taking gleanings and the obligations to sustain, visit, and bury gentiles alongside Jews, which is precisely what the 'Braita Text' section prose describes and analyzes.",
+      "chosen_heading": "Braita Text",
+      "current_heading": "Braita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Shemitah Lending",
+    "candidates": [
+      "Rashi's Reading",
+      "Rambam View",
+      "Reciprocity Theme",
+      "Tosefta Version",
+      "Shemitah Lending",
+      "Am Ha'aretz Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about lending tools to a woman suspected of violating shemitah laws, which is precisely what the 'Shemitah Lending' section's prose discusses in detail.",
+      "chosen_heading": "Shemitah Lending",
+      "current_heading": "Shemitah Lending",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Am Ha'aretz Wife",
+    "candidates": [
+      "Am Ha'aretz Wife",
+      "Abaye's Position",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Am Ha'aretz Wife",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text itself (the wife of a \u1e25aver case and the gentile/Sabbatical Year case), which the 'Am Ha'aretz Wife' section prose explicitly introduces and discusses.",
+      "second_heading": "Abaye's Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 are the Gemara discussion beginning with Abaye's answer about rov ammei ha-aretz tithing and continuing through Rava's position and the challenge/resolution, matching the 'Abaye's Position' and subsequent prose \u2014 but since items 3-6 form one continuous Gemara unit starting with Abaye, they belong under 'Abaye's Position' (index 1) which opens that Gemara discussion.",
+      "current_heading": "Am Ha'aretz Wife",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Abaye's Position",
+      "Rava's Position",
+      "Grain Grinding",
+      "Sealed Vessels",
+      "Unsoaked Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction from the baraita about grinding for those who eat in tumah, and Abaye's resolution that it concerns a kohen eating terumah in tumah (a Torah-level prohibition) \u2014 are precisely what candidate 1 ('Rava's Position') describes as the Gemara's challenge to Rava and Abaye's resolution of it.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Unsoaked Grain",
+    "candidates": [
+      "Grain Grinding",
+      "Sealed Vessels",
+      "Unsoaked Grain",
+      "Mother-in-Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Unsoaked Grain' prose: Rabbi Ile'a's sealed vessel resolution (item 2), the niddah wife concern (item 3), Rabbi Yirmiyah's resolution about produce not yet susceptible to impurity (item 4), the wheat-to-miller mishna contradiction (item 5), the Gemara's dismissal of the contradiction based on unsusceptible produce (item 6), and the explanation that the miller mishna was cited only to introduce the next question about swapping (item 7).",
+      "chosen_heading": "Unsoaked Grain",
+      "current_heading": "Unsoaked Grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Mother-in-Law",
+    "candidates": [
+      "Mother-in-Law",
+      "Innkeeper Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mother-in-Law",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form a self-contained challenge-and-answer about the mother-in-law case, which candidate 0's prose explicitly covers including the Rabbi Yehuda explanation about wanting good for her daughter and shame before the son-in-law.",
+      "second_heading": "Innkeeper Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the entirely new innkeeper (pundakit) case with its own distinct scenario and motive, which candidate 1's prose explicitly covers with the 'bar bei rav lachol chamima' reasoning.",
+      "current_heading": "Mother-in-Law",
+      "moved": true
+    }
+  }
+]

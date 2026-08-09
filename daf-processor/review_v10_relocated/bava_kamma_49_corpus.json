@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Ox Exemption Logic",
+      "Commodity vs. Injury",
+      "Valuation Method",
+      "RSbG Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself presenting the two parallel scenarios (ox vs. person, both intending to strike another), which is exactly what the 'Mishnah Setup' prose describes and introduces.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Mishnah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "RSbG Objection",
+    "candidates": [
+      "Ox Exemption Logic",
+      "Commodity vs. Injury",
+      "Valuation Method",
+      "RSbG Objection",
+      "Direct Assessment",
+      "No Heirs Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the mishnah's practical valuation method (shamin ha'isha kama hi yafa) and Rabban Shimon ben Gamliel's objection to it, which is precisely what the 'Valuation Method' prose discusses as the natural next question after establishing the conceptual framework.",
+      "chosen_heading": "Valuation Method",
+      "current_heading": "RSbG Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "No Heirs Case",
+    "candidates": [
+      "Direct Assessment",
+      "No Heirs Case",
+      "Slave Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishnah text about an emancipated slave or convert being exempt, which is precisely what the 'No Heirs Case' prose explains and analyzes in detail.",
+      "chosen_heading": "No Heirs Case",
+      "current_heading": "No Heirs Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Slave Exemption",
+    "candidates": [
+      "Slave Exemption",
+      "Payment Breakdown",
+      "Shvach Vlados"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Payment Breakdown",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 discuss the Gemara's challenge and resolution regarding Rav Adda bar Ahava's ruling about oxen intending to gore a woman, which fits under 'Payment Breakdown' (or an earlier heading) rather than 'Slave Exemption', but among the candidates, 'Payment Breakdown' is closest as it deals with the same analytical track of who pays dmei vlados and under what intent conditions \u2014 however, none of the candidates perfectly match, so 'Slave Exemption' (index 0) is retained as fallback; actually, items 1\u20132 are a self-contained dispute about intent and exemption that precedes the Rav Pappa ruling, and item 3 (Rav Pappa on the slave) is clearly the content that 'Slave Exemption' prose describes.",
+      "second_heading": "Slave Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rav Pappa's ruling about an ox goring a maidservant) is precisely what the 'Slave Exemption' prose discusses in detail, including the chamarta reasoning and the Tosafot analysis.",
+      "current_heading": "Slave Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Shvach Vlados",
+    "candidates": [
+      "Payment Breakdown",
+      "Shvach Vlados",
+      "Shvach Division",
+      "Pregnancy Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about why the mishnah says 'dmei vlados' when it should say 'shvach vlados,' and explains that both are assessed together \u2014 which is precisely what the 'Shvach Vlados' section's prose discusses as its opening topic.",
+      "chosen_heading": "Shvach Vlados",
+      "current_heading": "Shvach Vlados",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Pregnancy Timing",
+    "candidates": [
+      "Shvach Division",
+      "Pregnancy Timing",
+      "Rav Chisda View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items cover exactly the content described in the 'Pregnancy Timing' prose: the contradiction between the two braitot of Rabban Shimon ben Gamliel (items 1-6), the Rabbanan's derivation from 'hara' (item 7), and Rabban Shimon ben Gamliel's alternative use of 'hara' for the blow-opposite-the-womb requirement with Rav Pappa's clarification (item 8) \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Pregnancy Timing",
+      "current_heading": "Pregnancy Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rav Chisda View",
+    "candidates": [
+      "Rav Chisda View",
+      "Rabba's Rebuttal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba's Rebuttal",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabba's position distinguishing between injury before vs. after the ger's death, which matches the 'Rabba's Rebuttal' prose describing exactly that distinction.",
+      "second_heading": "Rav Chisda View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Chisda's sharp objection to Rabba's reasoning, which matches the 'Rav Chisda View' prose describing his challenge about fetuses not being ownable bundles of money.",
+      "current_heading": "Rav Chisda View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rabba's Rebuttal",
+    "candidates": [
+      "Rabba's Rebuttal",
+      "Tannaitic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises an objection (meitivi) from a baraita about dmei vlados and scenarios involving heirs, maidservants, and converts \u2014 this is the tannaitic testing material described in candidate 1's prose, not Rabba's rebuttal which discusses his resolution of the mishnah.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Rabba's Rebuttal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Tannaitic Debate",
+    "candidates": [
+      "Tannaitic Debate",
+      "Shvach vs. Dmei",
+      "Mother Gets Shvach",
+      "Fetus Non-Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items are part of the continuous tannaitic debate analysis \u2014 testing whether Rabba and Rav \u1e24isda's dispute maps to a tannaitic conflict about injury after the ger's death, and resolving both baraitot via the Rabbanan/Rabban Shimon ben Gamliel distinction and the shvach vs. dmei vlados distinction \u2014 which is exactly what the 'Tannaitic Debate' section's prose describes.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Tannaitic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Fetus Non-Property",
+    "candidates": [
+      "Shvach vs. Dmei",
+      "Mother Gets Shvach",
+      "Fetus Non-Property",
+      "Ger Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the distinction between shvach vlados (she has a share) and dmei vlados (she has no share), which is precisely what the 'Fetus Non-Property' section's prose discusses \u2014 the lo shaich yadah / de-shaich yadah contrast and why she acquires shvach but not dmei.",
+      "chosen_heading": "Fetus Non-Property",
+      "current_heading": "Fetus Non-Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Ger Documents",
+    "candidates": [
+      "Ger Documents",
+      "Collateral Rights",
+      "Lien Extinguishing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the question-and-answer exchange between Rav Yeiva Saba and Rav Nachman about acquiring a ger's documents, which is precisely the topic described in the 'Ger Documents' prose.",
+      "chosen_heading": "Ger Documents",
+      "current_heading": "Ger Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Lien Extinguishing",
+    "candidates": [
+      "Collateral Rights",
+      "Lien Extinguishing",
+      "Chatzer Kinyan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Collateral Rights",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the case where a Jew's collateral was held by a convert who died, and the lien is extinguished \u2014 exactly what heading 0 ('Collateral Rights') prose discusses.",
+      "second_heading": "Lien Extinguishing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the reverse case where a convert's collateral was held by a Jew and another Jew seizes the remainder \u2014 exactly what heading 1 ('Lien Extinguishing') prose discusses.",
+      "current_heading": "Lien Extinguishing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Chatzer Kinyan",
+    "candidates": [
+      "Chatzer Kinyan",
+      "Yard Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge invoking Rabbi Yosei bar \u1e24anina's chatzer kinyan principle, which is exactly what heading 0's prose describes as its content.",
+      "chosen_heading": "Chatzer Kinyan",
+      "current_heading": "Chatzer Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Yard Protection",
+    "candidates": [
+      "Yard Protection",
+      "Opening Rule",
+      "Domain Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the principle that a chatzer effects kinyan only when the owner is present and could personally acquire \u2014 exactly what the 'Yard Protection' prose elaborates, including the final halakhic ruling that matches item 2.",
+      "chosen_heading": "Yard Protection",
+      "current_heading": "Yard Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Domain Scenarios",
+    "candidates": [
+      "Opening Rule",
+      "Domain Scenarios",
+      "Private Domain",
+      "Liability Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna directly enumerates the domain scenarios (private-to-public, public-to-private, private-to-other-private) and declares liability in each case, which is precisely what the 'Domain Scenarios' prose describes.",
+      "chosen_heading": "Domain Scenarios",
+      "current_heading": "Domain Scenarios",
+      "moved": false
+    }
+  }
+]

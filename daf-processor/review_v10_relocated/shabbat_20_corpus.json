@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Bread & Crust",
+    "candidates": [
+      "Roasting Restrictions",
+      "Bread & Crust",
+      "Pesach Exception",
+      "Fire Vigilance",
+      "Fire-Starting Rules",
+      "Roasting Standard",
+      "Bishulei Nochrim",
+      "Chananya Cooking",
+      "Roast vs. Cook",
+      "Beit HaMoked"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Roasting Restrictions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the full Mishna text (roasting, bread, Pesach exception, and fire-starting rules) which the prose under 'Roasting Restrictions' introduces as opening the mishna's enumeration of actions requiring completion before Shabbat, but more precisely items 1-2 together form the complete mishna that spans multiple headings' prose discussions.",
+      "second_heading": "Roasting Standard",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara discussing the ben Drosai standard for roasting and the bread/crust question, which match exactly the prose under 'Roasting Standard' (ben Drosai) and 'Bread & Crust' (Rabbi Eliezer's bottom crust baraita), with item 3 fitting 'Roasting Standard' and item 4 fitting 'Bread & Crust' \u2014 but since item 3 begins the Gemara on roasting and the ben Drosai standard, the second segment starts at index 5 ('Roasting Standard').",
+      "current_heading": "Bread & Crust",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Beit HaMoked",
+    "candidates": [
+      "Pesach Exception",
+      "Fire Vigilance",
+      "Fire-Starting Rules",
+      "Roasting Standard",
+      "Bishulei Nochrim",
+      "Chananya Cooking",
+      "Roast vs. Cook",
+      "Beit HaMoked",
+      "Pasuk Derivation",
+      "Shabbat Fire Issue",
+      "Fats & Kohanim",
+      "Outside Beit Mikdash",
+      "Rav's Position",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pesach Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the Korban Pesach exception and the bnei chaburah zerizin principle, which matches the 'Pesach Exception' heading's prose about lowering the Paschal lamb, the mai ta'ama question, and the distinction between a whole roasted animal versus cut pieces.",
+      "second_heading": "Beit HaMoked",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the Beit HaMoked fire, the derivation from 'lo teva'aru esh be-chol moshvoteichem,' and Rav Chisda's objection about kindling on Shabbat itself, which matches the 'Beit HaMoked' heading's prose that explicitly walks through Rav Huna's derivation and Rav Chisda's challenge.",
+      "current_heading": "Beit HaMoked",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Pasuk Derivation",
+      "Shabbat Fire Issue",
+      "Fats & Kohanim",
+      "Outside Beit Mikdash",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Menorah Analogy",
+      "Single Stick Rule",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers both Rav's and Shmuel's positions plus the supporting baraita, and the current placement under 'Shmuel's Position' is correct since the prose there explicitly discusses Shmuel's functional standard and the self-sustaining flame criterion, which is the dominant content of this Gemara excerpt.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Shmuel's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Menorah Analogy",
+      "Single Stick Rule",
+      "Tannaim Debate",
+      "Ach Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the single branch debate (rov avyo vs. rov heikeifo, Rav Pappa's ruling) and the tannaitic parallel, which together form one continuous sugya \u2014 and candidate 1 ('Single Stick Rule') explicitly introduces both the etz yechidi debate and Rav Pappa's conclusion, with candidate 2 ('Tannaim Debate') covering only the second half; since the entire passage is one unit beginning with the single stick question, it belongs under the heading that opens that discussion.",
+      "chosen_heading": "Single Stick Rule",
+      "current_heading": "Tannaim Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Ach Meaning",
+    "candidates": [
+      "Tannaim Debate",
+      "Ach Meaning",
+      "Aravas Anecdote",
+      "Twigs vs. Bundles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the lexical question of what 'ach' means (Rav: achvana/willow, Shmuel: wood lit with achvana) and the marketplace anecdote confirming achvana means willow \u2014 all of which is covered together in candidate 1's prose, which explicitly addresses both the Rav/Shmuel dispute and the anecdote, while candidate 2 covers only the anecdote in isolation.",
+      "chosen_heading": "Ach Meaning",
+      "current_heading": "Ach Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Twigs vs. Bundles",
+    "candidates": [
+      "Aravas Anecdote",
+      "Twigs vs. Bundles",
+      "Chisda Opposition",
+      "Kahana Position",
+      "Special Fuels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Twigs vs. Bundles",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rav Huna's ruling and Rav Chisda's objection, which span headings 'Twigs vs. Bundles' and 'Chisda Opposition', but the prose of heading 1 ('Twigs vs. Bundles') covers Rav Huna's position and heading 2 ('Chisda Opposition') covers Rav Chisda's challenge \u2014 Item 1 contains both, but since the current placement is heading 1 and Item 1 ends with 'It was also stated' leading into Item 2, the structural seam is between items 1 and 2.",
+      "second_heading": "Kahana Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Kahana's ruling on the same reeds/seeds question, which matches exactly the prose of heading 3 ('Kahana Position') describing his split position on bundled sticks requiring a majority and baskets not requiring one.",
+      "current_heading": "Twigs vs. Bundles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Special Fuels",
+    "candidates": [
+      "Chisda Opposition",
+      "Kahana Position",
+      "Special Fuels",
+      "Babylonian Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about four bonfires not requiring a majority (pitch, sulfur, cheese, fatty materials, straw, rakings) is exactly what the 'Special Fuels' section prose describes.",
+      "chosen_heading": "Special Fuels",
+      "current_heading": "Special Fuels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Babylonian Wood",
+    "candidates": [
+      "Babylonian Wood",
+      "Fiddle Concern",
+      "Candle History",
+      "Karaite Context",
+      "Lachesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's statement about Babylonian wood not requiring a majority to catch fire, Rav Yosef's challenge about slivers vs. cedar branches, and Rami bar Abba's identification of zaza \u2014 exactly the content described in the 'Babylonian Wood' section prose.",
+      "chosen_heading": "Babylonian Wood",
+      "current_heading": "Babylonian Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Lachesh",
+    "candidates": [
+      "Fiddle Concern",
+      "Candle History",
+      "Karaite Context",
+      "Lachesh",
+      "Chosen Flax"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Karaite Context",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the hadran closing formula ending the first perek, which belongs with the Karaite Context section that discusses the end of the first perek and transition material rather than the second perek's content.",
+      "second_heading": "Lachesh",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the opening Mishna and Gemara of the second perek (bameh madlikin) discussing lachesh/lekhesh identified as cedar fiber, which is precisely what the 'Lachesh' prose section describes.",
+      "current_heading": "Lachesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Chosen Flax",
+    "candidates": [
+      "Chosen Flax",
+      "Klach Silk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the definition of *\u1e25osen*/*chosen* with the Rav Yosef/Abaye exchange about tow and beaten-but-not-combed flax, which is exactly what the 'Chosen Flax' section prose describes.",
+      "chosen_heading": "Chosen Flax",
+      "current_heading": "Chosen Flax",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Klach Silk",
+    "candidates": [
+      "Klach Silk",
+      "Silk Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the identification of *kalakh* \u2014 Shmuel's seafarers, Rav Yitz\u1e25ak bar Ze'ira's gushkera, and the Ravin/Abaye anecdote about metaksa \u2014 all of which are explicitly covered in the 'Klach Silk' prose, making that the clear best match.",
+      "chosen_heading": "Klach Silk",
+      "current_heading": "Klach Silk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Silk Types",
+    "candidates": [
+      "Silk Types",
+      "Idan & Desert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the objection and refutation regarding shira'im, kalakh, and sirikin as silk types requiring tzitzit, which matches exactly the prose in 'Silk Types' discussing the same baraita, tiyuvta, and the resolution that shira and shira peranda are distinct categories.",
+      "chosen_heading": "Silk Types",
+      "current_heading": "Silk Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Idan & Desert",
+    "candidates": [
+      "Idan & Desert",
+      "Moss Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses petilat ha'idan (willow wick) and petilat hamidbar (desert silk/mullein), which directly matches the 'Idan & Desert' section's prose about these exact two materials, not moss or water growth discussed in 'Moss Problem'.",
+      "chosen_heading": "Idan & Desert",
+      "current_heading": "Idan & Desert",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Moss Problem",
+    "candidates": [
+      "Moss Problem",
+      "Wool & Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the identification of the green moss (yaroka) and Rav Pappa's explanation that it refers to moss on ships, which is precisely what the 'Moss Problem' prose section describes.",
+      "chosen_heading": "Moss Problem",
+      "current_heading": "Moss Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Wool & Hair",
+    "candidates": [
+      "Wool & Hair",
+      "Wick-Oil Shift",
+      "Wax Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita adding wool and hair to the prohibited wicks list and the Tanna's reason for omitting them (wool shrinks, hair scorches), which matches exactly what the 'Wool & Hair' section prose describes.",
+      "chosen_heading": "Wool & Hair",
+      "current_heading": "Wool & Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Wax Debate",
+    "candidates": [
+      "Wick-Oil Shift",
+      "Wax Debate",
+      "Dross Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the baraita demarcating the wick/oil boundary AND the wax clarification, but the baraita's demarcation content ('ad kan psul petilot / mi-kan ve-eilach psul shmanim') is the primary content and matches heading 0's prose exactly, while the wax point is secondary; however, since heading 1's prose actually discusses the pshita/wax clarification content in detail and heading 0 discusses the boundary demarcation, the passage spans both \u2014 but given that heading 0's prose explicitly mentions both the baraita boundary AND the zefet/sha'avah transition, while heading 1 only discusses the wax clarification aftermath, the full passage (including the baraita) is better anchored under heading 0.",
+      "chosen_heading": "Wick-Oil Shift",
+      "current_heading": "Wax Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Dross Materials",
+    "candidates": [
+      "Wax Debate",
+      "Dross Materials",
+      "Commercial Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rami bar Avin's lexical definitions of itran as dross of pitch and sha'avah as dross of honey, which is precisely what the 'Dross Materials' prose describes and discusses.",
+      "chosen_heading": "Dross Materials",
+      "current_heading": "Dross Materials",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav Ashi: No Kinyan",
+    "candidates": [
+      "Rav Ashi: No Kinyan",
+      "Hilcheta: Kinyan Required",
+      "Baraita: 3 Judges, Gmar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Ashi's inference that peshara does not require kinyan AND the concluding halakha that it does require kinyan, and the current heading's prose explicitly discusses both elements together as part of the same unit of analysis.",
+      "chosen_heading": "Rav Ashi: No Kinyan",
+      "current_heading": "Rav Ashi: No Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Baraita: 3 Judges, Gmar",
+    "candidates": [
+      "Hilcheta: Kinyan Required",
+      "Baraita: 3 Judges, Gmar",
+      "R. Eliezer: Assur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of candidate 1, which describes the baraita requiring three judges for bitzua and the rule that once gmar din is pronounced bitzua is no longer permitted \u2014 exactly what items 1 and 2 state.",
+      "chosen_heading": "Baraita: 3 Judges, Gmar",
+      "current_heading": "Baraita: 3 Judges, Gmar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "R. Eliezer: Assur",
+    "candidates": [
+      "R. Eliezer: Assur",
+      "Rashi: Before Court",
+      "Stolen Goods & Judah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in candidate 0's prose: item 1 is Rabbi Eliezer's prohibition on compromise with the 'botze'a' verse, and item 2 is the 'yikov hadin et hahar' / Moses vs. Aaron contrast \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "R. Eliezer: Assur",
+      "current_heading": "R. Eliezer: Assur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Stolen Goods & Judah",
+    "candidates": [
+      "Rashi: Before Court",
+      "Stolen Goods & Judah",
+      "R. Yehoshua: Mitzva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's prose in candidate 1 ('Stolen Goods & Judah') directly describes both Rabbi Eliezer's stolen grain/challah case and Rabbi Meir's reading of Yehuda's role with Yosef \u2014 precisely the content of both items.",
+      "chosen_heading": "Stolen Goods & Judah",
+      "current_heading": "Stolen Goods & Judah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "R. Yehoshua: Mitzva",
+    "candidates": [
+      "R. Yehoshua: Mitzva",
+      "David's Tzedakah Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua ben Korcha's teaching about mitzva livtzoa and the Zechariah verse about mishpat shalom, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "R. Yehoshua: Mitzva",
+      "current_heading": "R. Yehoshua: Mitzva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "David's Tzedakah Model",
+    "candidates": [
+      "David's Tzedakah Model",
+      "R. Shimon: Before Clarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the David verse (II Samuel 8:15) and the tension between mishpat and tzedakah, which is precisely what candidate 0's prose ('David's Tzedakah Model') addresses in detail, including the first tanna's interpretation, the difficulty with 'lechol ammo,' and Rabbi Yehuda HaNasi's resolution \u2014 all matching the passage's content exactly.",
+      "chosen_heading": "David's Tzedakah Model",
+      "current_heading": "David's Tzedakah Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "R. Shimon: Before Clarity",
+    "candidates": [
+      "R. Shimon: Before Clarity",
+      "Reish Lakish: Recusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon ben Menasya's ruling about when a judge may or may not direct litigants to mediate, which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "R. Shimon: Before Clarity",
+      "current_heading": "R. Shimon: Before Clarity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Reish Lakish: Recusal",
+    "candidates": [
+      "Reish Lakish: Recusal",
+      "'Lo Taguru' Obligation",
+      "Student Must Speak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's ruling on judicial recusal, covering both the permitted early recusal and the forbidden late recusal, which is precisely what the current heading's prose describes.",
+      "chosen_heading": "Reish Lakish: Recusal",
+      "current_heading": "Reish Lakish: Recusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Student Must Speak",
+    "candidates": [
+      "'Lo Taguru' Obligation",
+      "Student Must Speak",
+      "Don't Withhold Words",
+      "Witness Awareness",
+      "Judge's Fear & Assurance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua ben Korcha's teaching about a student not staying silent (matching heading 1's prose exactly), Rabbi Chanina's formulation about not suppressing words (heading 2), and the witness awareness teaching (heading 3), but since all three items are in one quoted block and heading 1 is the current placement which begins the sequence, and the prose of heading 1 directly describes this passage's opening content, the current placement is correct.",
+      "chosen_heading": "Student Must Speak",
+      "current_heading": "Student Must Speak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Judge's Fear & Assurance",
+    "candidates": [
+      "Don't Withhold Words",
+      "Witness Awareness",
+      "Judge's Fear & Assurance",
+      "Gmar Din Definition",
+      "Halacha: Equal Option",
+      "Rav Huna's Practice",
+      "Mitzvah vs. Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses judges knowing before Whom they judge and who will exact payment from them, the verse about God standing in the congregation, Jehoshaphat's address, the concern about burden, and the assurance that a judge is accountable only for what his eyes see \u2014 all of which exactly matches the prose in 'Judge's Fear & Assurance' where the current placement sits.",
+      "chosen_heading": "Judge's Fear & Assurance",
+      "current_heading": "Judge's Fear & Assurance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Mitzvah vs. Permitted",
+    "candidates": [
+      "Gmar Din Definition",
+      "Halacha: Equal Option",
+      "Rav Huna's Practice",
+      "Mitzvah vs. Permitted",
+      "Tanchum: Egel Context",
+      "Aharon's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items cover the exact content described in the 'Mitzvah vs. Permitted' prose: defining gmar din, the halacha like Rabbi Yehoshua ben Korcha, Rav Huna's practice, the mitzva vs. reshut distinction between Rabbi Yehoshua ben Korcha and the tanna kamma, and the comparison with Rabbi Shimon ben Menasya regarding timing \u2014 all of which are addressed in candidate 3's prose.",
+      "chosen_heading": "Mitzvah vs. Permitted",
+      "current_heading": "Mitzvah vs. Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Aharon's Reasoning",
+    "candidates": [
+      "Tanchum: Egel Context",
+      "Aharon's Reasoning",
+      "Water = Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Tan\u1e25um bar \u1e24anilai's interpretation that the verse refers to the Golden Calf incident \u2014 item 1 introduces his view and the midrash about Hur, item 2 continues Aaron's reasoning \u2014 and candidate 0 ('Tanchum: Egel Context') is precisely the section whose prose introduces Rabbi Tanchum's dissenting view that the verse was said only in reference to the sin of the golden calf, making it the correct home for both items.",
+      "chosen_heading": "Tanchum: Egel Context",
+      "current_heading": "Aharon's Reasoning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Water = Torah",
+    "candidates": [
+      "Aharon's Reasoning",
+      "Water = Torah",
+      "Aphorisms Cited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly continue the discussion of tanna'im who read 'poter mayim reshit madon' via Rav Hamnuna's principle (Torah judgment), followed by Rav Huna and Abaye the Elder's metaphors about quarrel \u2014 all of which is precisely what candidate 1's prose describes as the alternative interpretation of that verse.",
+      "chosen_heading": "Water = Torah",
+      "current_heading": "Water = Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Aphorisms Cited",
+    "candidates": [
+      "Aphorisms Cited",
+      "Shechina Withdrawal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items are the series of folk aphorisms matched by Shmuel to biblical verses, which is exactly what the 'Aphorisms Cited' prose section describes in detail, covering all six/seven examples in sequence.",
+      "chosen_heading": "Aphorisms Cited",
+      "current_heading": "Aphorisms Cited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Shechina Withdrawal",
+    "candidates": [
+      "Shechina Withdrawal",
+      "'Lo Taguru' Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the sword-blade/sixty-cubits analogy and Rav Huna's scriptural proof about the Divine Presence contracting or expanding based on Israel's relationship with God, which is precisely what the 'Shechina Withdrawal' prose describes in detail.",
+      "chosen_heading": "Shechina Withdrawal",
+      "current_heading": "Shechina Withdrawal",
+      "moved": false
+    }
+  }
+]

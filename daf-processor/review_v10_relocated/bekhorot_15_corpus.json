@@ -1,0 +1,291 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Temura from Verse",
+    "candidates": [
+      "Blemish Before Sanctity",
+      "Temura from Verse",
+      "Good vs. Bad from Start",
+      "Rabbi Shimon's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question 'mai ta'ama' and the verse derivation for why a blemished-from-the-start animal does not effect tmura, which matches heading 1's prose that introduces the verse and the reasoning, while heading 2 covers the 'ella' conclusion \u2014 but since the passage contains both the question and the answer (including 'tov me'ikara/ra me'ikara'), and the current placement is heading 1 which already anticipates this content, the passage fits best under heading 1 as it initiates and resolves the verse-based derivation that heading 1 explicitly describes.",
+      "chosen_heading": "Temura from Verse",
+      "current_heading": "Temura from Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Rabbi Shimon's Position",
+    "candidates": [
+      "Good vs. Bad from Start",
+      "Rabbi Shimon's Position",
+      "Tana d'Bei Levi",
+      "Sages' Position Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss Rabbi Shimon's position on ha'amada veha'aracha for kodshei mizbe'ach vs. kodshei bedek habayis and the ba'al mum me'ikara exclusion, which is precisely what the 'Rabbi Shimon's Position' prose section describes; items 3-4 about tana d'bei Levi appear as supporting material within that same section's discussion, and the dedicated 'Tana d'Bei Levi' heading prose matches what comes next in the essay after this passage.",
+      "chosen_heading": "Rabbi Shimon's Position",
+      "current_heading": "Rabbi Shimon's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Sages' Position Clarified",
+    "candidates": [
+      "Tana d'Bei Levi",
+      "Sages' Position Clarified",
+      "Two Reasons Alive",
+      "Deer/Hart Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous Gemara discussion about the Rabbis' position versus Rabbi Shimon regarding standing and valuation, whether the mishna can be attributed to the Rabbis, and the resolution via Rabbi Shimon ben Lakish or Rabbi Yochanan \u2014 exactly matching the 'Sages' Position Clarified' section prose.",
+      "chosen_heading": "Sages' Position Clarified",
+      "current_heading": "Sages' Position Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Deer/Hart Comparison",
+    "candidates": [
+      "Two Reasons Alive",
+      "Deer/Hart Comparison",
+      "Limits of Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the baraita deriving from 'tzvi' and 'ayal' that pesulei mukdashin are exempt from bechora and matanot, plus the 'ach' limiting the comparison \u2014 exactly what candidate 1 ('Deer/Hart Comparison') describes in its prose, and this is also the current placement.",
+      "chosen_heading": "Deer/Hart Comparison",
+      "current_heading": "Deer/Hart Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Limits of Comparison",
+    "candidates": [
+      "Limits of Comparison",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (Rav Pappa's challenge about oto v'beno, Abaye's l'mai midamset response, and Rav Pappa's counter about chelev) are explicitly described in candidate 0's prose, which covers exactly this exchange before transitioning to Rava's solution in candidate 1.",
+      "chosen_heading": "Limits of Comparison",
+      "current_heading": "Limits of Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "Rava's Solution",
+      "Slaughter & Eat Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items constitute the continuous dispute between Rav Papa's challenge, Rava's resolution (ach for oto v'beno, chelev from damo), the Gemara's elaboration on why 'damo' means chelev with karet, and the reinterpretation of the baraita \u2014 all of which are explicitly discussed in the 'Rava's Solution' prose.",
+      "chosen_heading": "Rava's Solution",
+      "current_heading": "Rava's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Slaughter & Eat Verse",
+    "candidates": [
+      "Slaughter & Eat Verse",
+      "Benefit After Slaughter",
+      "Redeem Sanctified for Dog",
+      "Question on Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita derived from 'tizbach ve'achalta basar' \u2014 item 1 gives the word-by-word parsing (the primary reading) and item 2 gives the alternative holistic reading \u2014 both of which are precisely what candidate 0's prose describes as the content of the 'Slaughter & Eat Verse' section.",
+      "chosen_heading": "Slaughter & Eat Verse",
+      "current_heading": "Slaughter & Eat Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Question on Prohibition",
+    "candidates": [
+      "Benefit After Slaughter",
+      "Redeem Sanctified for Dog",
+      "Question on Prohibition",
+      "Conception Timing",
+      "Offspring Born Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 2 describes: the mishna's prohibition on offspring/milk after redemption, the gemara's heichi dami question, and the tzvi ve'ayal comparison \u2014 all of which are the specific content of the 'Question on Prohibition' section's prose.",
+      "chosen_heading": "Question on Prohibition",
+      "current_heading": "Question on Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Offspring Born Before",
+    "candidates": [
+      "Conception Timing",
+      "Offspring Born Before",
+      "Rav Kahuna's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives from the verse in Leviticus 3:1 that offspring and substitutes of consecrated animals carry kedusha, including offspring of blemished animals \u2014 exactly the scriptural derivation that candidate 1 ('Offspring Born Before') explicitly describes in its prose about zachar l'rabot et havelad, nekevah l'rabot et hatmurah, and im zachar l'rabot velad baalei mumin.",
+      "chosen_heading": "Offspring Born Before",
+      "current_heading": "Offspring Born Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Rav Kahuna's Ruling",
+    "candidates": [
+      "Rav Kahuna's Ruling",
+      "In Utero Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal directly with the question of offspring born after the mother's redemption and Rav Huna's (called 'Rav Kahuna' in the prose) ruling that they are locked in a chamber to die \u2014 exactly what candidate 0's prose discusses in detail, including the 'kedusha dchuya' and 'lo alimi l'mispas pidyonam' reasoning.",
+      "chosen_heading": "Rav Kahuna's Ruling",
+      "current_heading": "Rav Kahuna's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "In Utero Sanctification",
+    "candidates": [
+      "In Utero Sanctification",
+      "Cannot Add Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses sanctifying the fetus before the mother's redemption and the gezeirah against raising flocks, which is precisely what the 'In Utero Sanctification' section's prose covers in detail.",
+      "chosen_heading": "In Utero Sanctification",
+      "current_heading": "In Utero Sanctification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Cannot Add Sanctity",
+    "candidates": [
+      "Cannot Add Sanctity",
+      "Blemish-Before Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's question to Rav Sheshet about whether one can dedicate offspring as any offering desired, and Rav Sheshet's answer via gezeirah shavah from bechor that one cannot \u2014 exactly the content described in the 'Cannot Add Sanctity' prose.",
+      "chosen_heading": "Cannot Add Sanctity",
+      "current_heading": "Cannot Add Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Blemish-Before Case",
+    "candidates": [
+      "Blemish-Before Case",
+      "Sanctification-Then-Flaw",
+      "Residual Sanctity Final"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Blemish-Before Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the blemish-before-consecration case (chayav be'bechor, no lashes, vladoseihem chol, k'chulin l'chol divreihem), which matches exactly the prose of heading 0.",
+      "second_heading": "Sanctification-Then-Flaw",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover the consecration-before-blemish case (patur min habechor, sofeg arba'im, vladoseihem kodesh, k'hekdesh l'chol divreihem), which matches exactly the prose of heading 1 and heading 2.",
+      "current_heading": "Blemish-Before Case",
+      "moved": true
+    }
+  }
+]

@@ -187,7 +187,7 @@
           "timestamp": "33:35"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -235,7 +235,7 @@
           "timestamp": "44:25"
         }
       ],
-      "sefaria_index": 30,
+      "sefaria_index": 29,
       "matched": true
     },
     {
@@ -264,8 +264,8 @@
           "timestamp": "51:24"
         }
       ],
-      "sefaria_index": 32,
-      "matched": true
+      "sefaria_index": 29,
+      "matched": false
     },
     {
       "title": "The Philosophical Significance: Shofar as Call to Teshuvah vs. Prayer to God",
@@ -288,7 +288,7 @@
           "timestamp": "53:41"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 29,
       "matched": false
     }
   ],
@@ -539,5 +539,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "31:35",
+  "amud_b_micro_title": "Levi Stories",
+  "shiur_start_daf": 26,
+  "shiur_start_amud": "a"
 }

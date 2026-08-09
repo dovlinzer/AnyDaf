@@ -1,0 +1,454 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Abaye's Roasting",
+    "candidates": [
+      "Gebrochts Overview",
+      "Rav Yosef's Scalding",
+      "Abaye's Roasting",
+      "Rava's Challenge",
+      "Mei Peirot Doctrine",
+      "Flow vs. Absorption",
+      "Pot Orientation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yosef's Scalding",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's ruling about scalding two wheat kernels simultaneously, which is precisely what the 'Rav Yosef's Scalding' prose section discusses.",
+      "second_heading": "Abaye's Roasting",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's caution about roasting two stalks together and Rava's challenge/resolution, which matches the 'Abaye's Roasting' and leads into 'Rava's Challenge' \u2014 but the current placement under 'Abaye's Roasting' is correct since that section's prose introduces both Abaye's ruling and Rava's response as a unit beginning there.",
+      "current_heading": "Abaye's Roasting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Pot Orientation",
+    "candidates": [
+      "Rava's Challenge",
+      "Mei Peirot Doctrine",
+      "Flow vs. Absorption",
+      "Pot Orientation",
+      "Lesisa Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's retraction and his ruling about the inverted vs. upright pot (chatzva de'avishna), plus Rava's mei peirot response \u2014 exactly what the 'Pot Orientation' section's prose discusses in detail.",
+      "chosen_heading": "Pot Orientation",
+      "current_heading": "Pot Orientation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Lesisa Prohibition",
+    "candidates": [
+      "Lesisa Prohibition",
+      "Cracking Test",
+      "Rabbi Yosi's Vinegar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the cracking test outcome (nitbaku asurot, lo nitbaku mutarot), which matches exactly the 'Cracking Test' section's prose, not the general lesisa prohibition prose of section 0.",
+      "chosen_heading": "Cracking Test",
+      "current_heading": "Lesisa Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rabbi Yosi's Vinegar",
+    "candidates": [
+      "Cracking Test",
+      "Rabbi Yosi's Vinegar",
+      "Stringency Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei's vinegar solution and Shmuel's ruling against it, which is exactly what the 'Rabbi Yosi's Vinegar' section prose discusses.",
+      "chosen_heading": "Rabbi Yosi's Vinegar",
+      "current_heading": "Rabbi Yosi's Vinegar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Stringency Debate",
+    "candidates": [
+      "Stringency Debate",
+      "Shmuel's Position",
+      "Rabbah vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rav \u1e24isda/Mar Ukva's position (the stringent 'as if placed on a barrel' criterion) and Shmuel's opposing view (literally cracked), and the current heading 'Stringency Debate' covers both positions together, while candidate 1 covers only Shmuel's position \u2014 but since the passage presents both views as a debate, the current placement under 'Stringency Debate' is the better fit.",
+      "chosen_heading": "Stringency Debate",
+      "current_heading": "Stringency Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rabbah vs. Rava",
+    "candidates": [
+      "Shmuel's Position",
+      "Rabbah vs. Rava",
+      "Rav Nachman's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the prose in candidate 1 ('Rabbah vs. Rava'), which describes exactly this exchange: Rabba's ruling about the baal nefesh, the gemara's challenge about the baraita, the clarification about wheat, and Rav Nachman's critique about moldy bread along with the households of Rav Huna and Rava bar Avin \u2014 all matching the passage's content precisely.",
+      "chosen_heading": "Rabbah vs. Rava",
+      "current_heading": "Rabbah vs. Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav Nachman's Critique",
+    "candidates": [
+      "Rav Nachman's Critique",
+      "Permit Lesisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the baraita about not soaking barley and explains it via the lo mibaya construction showing both barley and wheat are forbidden, which is precisely what the 'Rav Nachman's Critique' section's prose discusses.",
+      "chosen_heading": "Rav Nachman's Critique",
+      "current_heading": "Rav Nachman's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Permit Lesisa",
+    "candidates": [
+      "Permit Lesisa",
+      "Rav Pappa Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's reversal permitting lesisa with the baraita about refined and coarse flour matzah, which is precisely what the 'Permit Lesisa' section's prose describes.",
+      "chosen_heading": "Permit Lesisa",
+      "current_heading": "Permit Lesisa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rav Pappa Challenge",
+    "candidates": [
+      "Rav Pappa Challenge",
+      "Flour Susceptibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's objection from the baraita about flour/refined flour in villages vs. cities and the inference that refined flour can be made without soaking, which is precisely what the 'Rav Pappa Challenge' prose describes.",
+      "chosen_heading": "Rav Pappa Challenge",
+      "current_heading": "Rav Pappa Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Flour Susceptibility",
+    "candidates": [
+      "Flour Susceptibility",
+      "Mitzvah to do Lesisa",
+      "Ushmartem Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's answer about ordinary flour and Rav Pappa's post-departure remark about wheat for meal-offerings not requiring soaking yet still being called refined flour, which matches exactly the 'Flour Susceptibility' prose discussion of this same exchange.",
+      "chosen_heading": "Flour Susceptibility",
+      "current_heading": "Flour Susceptibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Ushmartem Etymology",
+    "candidates": [
+      "Mitzvah to do Lesisa",
+      "Ushmartem Etymology",
+      "Non-Jewish Dough"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that it is a mitzvah to do lesisa, which directly matches heading 0's prose about 'mitzvah lelisos' and Rava's reversal, whereas heading 1 discusses the etymology/interpretation of 'ushmartem' as a basis for that claim \u2014 a subsequent discussion \u2014 making heading 0 the correct home for this specific Talmudic passage.",
+      "chosen_heading": "Mitzvah to do Lesisa",
+      "current_heading": "Ushmartem Etymology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Non-Jewish Dough",
+    "candidates": [
+      "Ushmartem Etymology",
+      "Non-Jewish Dough",
+      "When Shimur Begins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Jewish Dough",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's ruling about non-Jewish dough and the inference that gentile-prepared matza cannot fulfill the mitzvah, which matches exactly the 'Non-Jewish Dough' prose describing Rav Huna's teaching and the requirement for intentional guarding.",
+      "second_heading": "When Shimur Begins",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why shimur from baking onward wouldn't suffice and concludes that shimur must begin from the outset, which matches precisely the 'When Shimur Begins' prose discussing that same question and the same Aramaic conclusion shimur me'ikara ba'inan.",
+      "current_heading": "Non-Jewish Dough",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "When Shimur Begins",
+    "candidates": [
+      "When Shimur Begins",
+      "Early Shimur Requirement",
+      "Bundle Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a Gemara rejection challenging whether shimur at kneading could suffice, which directly matches the 'Early Shimur Requirement' section's prose discussion of the objection that shimur beginning at kneading might be sufficient and the gemara's acknowledgment of this challenge to Rava's proof.",
+      "chosen_heading": "Early Shimur Requirement",
+      "current_heading": "When Shimur Begins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Bundle Intent",
+    "candidates": [
+      "Early Shimur Requirement",
+      "Bundle Intent",
+      "Shmura Label",
+      "Mar's Mother Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava not retracting despite the rejected proof, and then illustrates his position by instructing field workers \u2014 this is exactly what the 'Early Shimur Requirement' prose discusses: the gemara acknowledging a valid challenge yet noting Rava did not reverse himself, which is the precise content of this passage.",
+      "chosen_heading": "Early Shimur Requirement",
+      "current_heading": "Bundle Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Mar's Mother Example",
+    "candidates": [
+      "Shmura Label",
+      "Mar's Mother Example",
+      "Machine Matzah",
+      "Shimur Distinction",
+      "Rishonim Timeline",
+      "Rosh's Position",
+      "Rava Permits Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Mar son of Ravina's mother placing wheat in a trough as a practical illustration of shimur from cutting, which is precisely what the 'Mar's Mother Example' prose describes.",
+      "chosen_heading": "Mar's Mother Example",
+      "current_heading": "Mar's Mother Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rava Permits Sale",
+    "candidates": [
+      "Machine Matzah",
+      "Shimur Distinction",
+      "Rishonim Timeline",
+      "Rosh's Position",
+      "Rava Permits Sale",
+      "Kilayim Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rava permitting sale of submerged wheat to gentiles before Passover, which is precisely what the 'Rava Permits Sale' section's prose discusses.",
+      "chosen_heading": "Rava Permits Sale",
+      "current_heading": "Rava Permits Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Kilayim Analogy",
+    "candidates": [
+      "Kilayim Analogy",
+      "Shrouds Solution",
+      "Sell in Portions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the kilayim objection to Rava \u2014 item 1 presents the baraita and item 2 clarifies the reason behind the prohibition on selling to a gentile \u2014 which is precisely the content described in the 'Kilayim Analogy' prose section.",
+      "chosen_heading": "Kilayim Analogy",
+      "current_heading": "Kilayim Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Sell in Portions",
+    "candidates": [
+      "Shrouds Solution",
+      "Sell in Portions",
+      "Mollel Prohibition",
+      "Flour-then-Vinegar",
+      "Vinegar-then-Flour",
+      "Vinegar Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's solution to sell wheat kav by kav to Jews before Pesach so it will be consumed, which is exactly what the 'Sell in Portions' section prose describes.",
+      "chosen_heading": "Sell in Portions",
+      "current_heading": "Sell in Portions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Vinegar Power",
+    "candidates": [
+      "Mollel Prohibition",
+      "Flour-then-Vinegar",
+      "Vinegar-then-Flour",
+      "Vinegar Power",
+      "Undiluted Vinegar",
+      "Ulla's Stricture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion: the baraita on molleling (item 1), the identity of 'some say' (item 2), Rav \u1e24isda's identification with Rabbi Yehudah via the Shabbat spices mishna (item 3), the challenge from Rabbi Yosei (item 4), and the answer distinguishing pure vs. mixed vinegar (item 5) \u2014 all of which are explicitly covered in heading 3's prose ('Vinegar Power'), which is the current placement and the correct one.",
+      "chosen_heading": "Vinegar Power",
+      "current_heading": "Vinegar Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Ulla's Stricture",
+    "candidates": [
+      "Undiluted Vinegar",
+      "Ulla's Stricture",
+      "Rav Pappi Roasted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ulla's statement and the nazirite vineyard maxim, which is precisely what the 'Ulla's Stricture' section prose discusses in detail.",
+      "chosen_heading": "Ulla's Stricture",
+      "current_heading": "Ulla's Stricture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Rav Pappi Roasted",
+    "candidates": [
+      "Rav Pappi Roasted",
+      "Rava Practical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1's prose explicitly discusses both Rava's objection about servants and the counter-note that Rava himself used roasted grains, covering the full content of this passage, whereas candidate 0's prose only covers Rav Pappi's permission without addressing Rava's response.",
+      "chosen_heading": "Rava Practical",
+      "current_heading": "Rav Pappi Roasted",
+      "moved": true
+    }
+  }
+]

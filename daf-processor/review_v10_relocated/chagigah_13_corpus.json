@@ -1,0 +1,412 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ma'on & Night Singing",
+    "candidates": [
+      "Ma'on & Night Singing",
+      "Torah Study at Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Ma'on as the heaven where ministering angels sing at night and are silent by day out of respect for Israel, which is precisely what the prose under 'Ma'on & Night Singing' (index 0) discusses.",
+      "chosen_heading": "Ma'on & Night Singing",
+      "current_heading": "Ma'on & Night Singing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Torah Study at Night",
+    "candidates": [
+      "Torah Study at Night",
+      "Machon & Weather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the 'Torah Study at Night' section's prose, which covers Reish Lakish's teaching about night Torah study, the olam hazeh/olam haba variant, Rabbi Levi's teaching about interrupting Torah for idle conversation and the broom tree coals, and the derivation that Ma'on is called shamayim \u2014 matching both items exactly.",
+      "chosen_heading": "Torah Study at Night",
+      "current_heading": "Torah Study at Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Machon & Weather",
+    "candidates": [
+      "Machon & Weather",
+      "David's Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the contents of Makhon including storehouses of snow, hail, harmful dews, tempests, and the proof from the 'good storehouse' verse, which directly matches the 'Machon & Weather' section's prose discussion.",
+      "chosen_heading": "Machon & Weather",
+      "current_heading": "Machon & Weather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "David's Prayer",
+    "candidates": [
+      "David's Prayer",
+      "Aravot Heaven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses David's prayer to bring destructive forces down from heaven to earth, which is precisely what the 'David's Prayer' section's prose describes in detail.",
+      "chosen_heading": "David's Prayer",
+      "current_heading": "David's Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Aravot Heaven",
+    "candidates": [
+      "Aravot Heaven",
+      "God's Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the contents of Aravot and the proof-texts supporting them, which is precisely what the 'Aravot Heaven' section's prose discusses in detail.",
+      "chosen_heading": "Aravot Heaven",
+      "current_heading": "Aravot Heaven",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "God's Separation",
+    "candidates": [
+      "God's Separation",
+      "Highest Rakia",
+      "Permitted Knowledge",
+      "Heavenly Response",
+      "Journey to God"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "God's Separation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the darkness/light contradiction and its resolution (betei gavai/betei barai), which is precisely what candidate 0 'God's Separation' discusses in its prose.",
+      "second_heading": "Highest Rakia",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rav Acha bar Yaakov's statement about the additional rakia above the chayos, which is exactly what candidate 1 'Highest Rakia' discusses in its prose.",
+      "current_heading": "God's Separation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Journey to God",
+    "candidates": [
+      "Highest Rakia",
+      "Permitted Knowledge",
+      "Heavenly Response",
+      "Journey to God",
+      "Ma'aseh Merkavah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita about Nebuchadnezzar's punishment introduced by the Ben Sira citation limiting permitted knowledge, which the prose of 'Permitted Knowledge' (index 1) explicitly discusses \u2014 including the Ben Sira quote, the bat kol's response, and the astronomical distances \u2014 while 'Journey to God' (index 3, current placement) discusses only the distances and the chayos, missing the opening framing of permitted speech.",
+      "chosen_heading": "Permitted Knowledge",
+      "current_heading": "Journey to God",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Ma'aseh Merkavah Rules",
+    "candidates": [
+      "Journey to God",
+      "Ma'aseh Merkavah Rules",
+      "Five Qualities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses who may receive the outlines of ma'aseh merkavah (Rabbi \u1e24iyya's baraita and Rabbi Zeira's restriction to the av beis din and one whose heart is concerned), which is exactly what the prose under 'Ma'aseh Merkavah Rules' analyzes.",
+      "chosen_heading": "Ma'aseh Merkavah Rules",
+      "current_heading": "Ma'aseh Merkavah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Five Qualities",
+    "candidates": [
+      "Five Qualities",
+      "Non-Jews & Torah",
+      "Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the five qualities statement and the non-Jews ruling in a single Talmudic excerpt, but it currently sits under 'Five Qualities' (index 0), and since the passage is a single unified quote covering both topics, the current placement is acceptable; however, the passage actually spans both headings 0 and 1, and since it must be placed under one, the current placement under index 0 is correct as the five qualities statement comes first and the non-Jews ruling is a secondary addition by the same rabbi.",
+      "chosen_heading": "Five Qualities",
+      "current_heading": "Five Qualities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rabbi Elazar",
+    "candidates": [
+      "Non-Jews & Torah",
+      "Rabbi Elazar",
+      "Rav Yosef Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the exchange between Rabbi Yochanan and Rabbi Elazar regarding teaching ma'aseh merkavah, which is precisely what the 'Rabbi Elazar' section's prose describes.",
+      "chosen_heading": "Rabbi Elazar",
+      "current_heading": "Rabbi Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rav Yosef Exchange",
+    "candidates": [
+      "Rav Yosef Exchange",
+      "Yechezkel Boundaries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the Rav Yosef/elders of Pumbedita exchange about teaching ma'aseh merkavah, including the honey-and-milk verse (item 1) and Rabbi Abbahu's alternative verse plus the elders' revelation about learning up to 'vayomer elai ben Adam' (item 2), all of which are explicitly discussed in the 'Rav Yosef Exchange' prose.",
+      "chosen_heading": "Rav Yosef Exchange",
+      "current_heading": "Rav Yosef Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Yechezkel Boundaries",
+    "candidates": [
+      "Yechezkel Boundaries",
+      "Chananya Preserves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the boundaries of ma'aseh merkavah (until which verse, and the chashmal incident), which are explicitly discussed in the 'Yechezkel Boundaries' prose section, including the baraita about Rabbi Yehuda HaNasi and Rabbi Yitzchak's opinions and the hahu yanuka story.",
+      "chosen_heading": "Yechezkel Boundaries",
+      "current_heading": "Yechezkel Boundaries",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Chananya Preserves",
+    "candidates": [
+      "Chananya Preserves",
+      "Child & Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Chananya ben Chizkiya's effort to preserve the book of Ezekiel by reconciling its apparent contradictions with Torah, which is exactly what the 'Chananya Preserves' section's prose discusses.",
+      "chosen_heading": "Chananya Preserves",
+      "current_heading": "Chananya Preserves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Child & Fire",
+    "candidates": [
+      "Child & Fire",
+      "Chashmal Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of the child reading Ezekiel, comprehending the chashmal, being burned, and Chananya ben Chizkiya's response \u2014 exactly what the 'Child & Fire' section prose discusses in detail.",
+      "chosen_heading": "Child & Fire",
+      "current_heading": "Child & Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Chashmal Definition",
+    "candidates": [
+      "Chashmal Definition",
+      "Beasts' Speech",
+      "Beasts Running"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's definition of chashmal \u2014 Rav Yehuda's acrostic explanation followed by the baraita's elaboration \u2014 which is precisely what the 'Chashmal Definition' prose section (candidate 0) describes, while candidate 1 ('Beasts' Speech') appears to be a separate essay section that restates and reflects on the baraita's content rather than being its primary home.",
+      "chosen_heading": "Chashmal Definition",
+      "current_heading": "Chashmal Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Beasts Running",
+    "candidates": [
+      "Beasts' Speech",
+      "Beasts Running",
+      "Whirlwind North"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the verse about the beasts running and returning like lightning (ratzo vashov/bazak), which is precisely what the 'Beasts Running' section's prose elaborates on, including Rav Yehuda's furnace interpretation and Rabbi Yosei bar Chanina's pottery interpretation.",
+      "chosen_heading": "Beasts Running",
+      "current_heading": "Beasts Running",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Whirlwind North",
+    "candidates": [
+      "Whirlwind North",
+      "God's Reluctance",
+      "Sandalphon Angel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the whirlwind going to empower Nebuchadnezzar AND God's reluctance about serving idol worshippers, and the current heading's prose already summarizes both points together, making it the best single home for the entire passage.",
+      "chosen_heading": "Whirlwind North",
+      "current_heading": "Whirlwind North",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Sandalphon Angel",
+    "candidates": [
+      "God's Reluctance",
+      "Sandalphon Angel",
+      "Crown-Bearing",
+      "Graphic vs Simple",
+      "Four Faces"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content discussed in the 'Sandalphon Angel' prose \u2014 the ofan angel, Sandalphon's name, his height, and his standing behind the chariot \u2014 and then transitions into the crown-weaving question, which continues into candidate 2, but the full passage including the crown resolution is already split between candidates 1 and 2; the current placement under candidate 1 is correct as it encompasses the Sandalphon identification which is the primary subject.",
+      "chosen_heading": "Sandalphon Angel",
+      "current_heading": "Sandalphon Angel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Four Faces",
+    "candidates": [
+      "Crown-Bearing",
+      "Graphic vs Simple",
+      "Four Faces",
+      "Ox to Cherub"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Rava statement about Ezekiel vs Isaiah (the villager/city-dweller parable) and the Reish Lakish statement about the four kings of creation, and candidate 1 ('Graphic vs Simple') explicitly discusses both of these together in its prose, making it the natural home for this passage rather than candidate 2 which only discusses the four faces material.",
+      "chosen_heading": "Graphic vs Simple",
+      "current_heading": "Four Faces",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Ox to Cherub",
+    "candidates": [
+      "Four Faces",
+      "Ox to Cherub",
+      "Cherub Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the contradiction between the two Ezekiel verses about the ox face being replaced by a cherub, and Reish Lakish's explanation that Ezekiel prayed to transform the ox into a cherub so the accuser would not become a defender \u2014 exactly the content described in the 'Ox to Cherub' prose.",
+      "chosen_heading": "Ox to Cherub",
+      "current_heading": "Ox to Cherub",
+      "moved": false
+    }
+  }
+]

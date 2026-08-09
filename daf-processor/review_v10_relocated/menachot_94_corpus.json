@@ -1,0 +1,376 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Tenufa Scope",
+    "candidates": [
+      "Smicha Weightier",
+      "Individual Duty",
+      "Tenufa Weightier",
+      "Tenufa Scope",
+      "Animate/Inanimate",
+      "Baraita Smicha",
+      "Kal V'Chomer",
+      "Korbano Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishna that compares smicha and tenufa in both directions \u2014 exactly what the 'Smicha Weightier' prose describes as the mishnah that 'systematically compares smicha with tenufa, identifies ways in which each practice is more demanding than the other.'",
+      "chosen_heading": "Smicha Weightier",
+      "current_heading": "Tenufa Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Korbano Proof",
+    "candidates": [
+      "Animate/Inanimate",
+      "Baraita Smicha",
+      "Kal V'Chomer",
+      "Korbano Proof",
+      "Reverse Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita's initial statement that 'korbano' includes all owners in smicha, which matches the 'Baraita Smicha' section's prose about the baraita citing 'korbano' to derive that every co-owner must personally perform smicha \u2014 whereas the current placement 'Korbano Proof' describes the baraita's conclusion after overriding the kal v'chomer, which appears later in the text.",
+      "chosen_heading": "Baraita Smicha",
+      "current_heading": "Korbano Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Reverse Logic",
+    "candidates": [
+      "Korbano Proof",
+      "Reverse Logic",
+      "Chatzitza Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Korbano Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the kal v'chomer that smicha should be limited for partners and the verse 'korbano' that overrides it \u2014 exactly what heading 0 'Korbano Proof' describes.",
+      "second_heading": "Reverse Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the reverse kal v'chomer arguing that tenufa should be amplified for partners \u2014 exactly what heading 1 'Reverse Logic' describes.",
+      "current_heading": "Reverse Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Chatzitza Problem",
+    "candidates": [
+      "Chatzitza Problem",
+      "Singular Form",
+      "Question Posed",
+      "Kohen Gadol Case",
+      "Relay Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the chatzitza problem with simultaneous waving and the singular-form rejection of sequential waving, but the current placement under 'Chatzitza Problem' is correct since the prose there explicitly references both issues (chatzitza and the sequential waving rejection), and the passage as a whole is a single unified Gemara unit that belongs together under one heading \u2014 and that heading is the current one (index 0), which already anticipates both points in its prose.",
+      "chosen_heading": "Chatzitza Problem",
+      "current_heading": "Chatzitza Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Relay Procedure",
+    "candidates": [
+      "Singular Form",
+      "Question Posed",
+      "Kohen Gadol Case",
+      "Relay Procedure",
+      "Smicha & Throwing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with the gemara's challenge question ('u'smicha b'shechutin leita?') and then cites the Tamid mishna as the refutation, which together constitute the 'Question Posed' section whose prose explicitly describes this exact challenge and citation.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Relay Procedure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Smicha & Throwing",
+    "candidates": [
+      "Relay Procedure",
+      "Smicha & Throwing",
+      "Honor Exception",
+      "Emergence Glory",
+      "Receiving Portions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the second priest handing the two forelegs through the relay chain to the High Priest, who performs smicha and throws them, then the second priest withdrawing and the process repeating for all remaining limbs \u2014 exactly what the 'Smicha & Throwing' section's prose describes.",
+      "chosen_heading": "Smicha & Throwing",
+      "current_heading": "Smicha & Throwing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Receiving Portions",
+    "candidates": [
+      "Honor Exception",
+      "Emergence Glory",
+      "Receiving Portions",
+      "Priestly Splendor",
+      "Fire vs. Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the High Priest optionally placing his hands and having other priests throw the limbs onto the altar fire, which directly corresponds to the 'Receiving Portions' section's discussion of the relay procedure where the kohen gadol receives netachim from his priestly colleagues at the top of the ramp.",
+      "chosen_heading": "Receiving Portions",
+      "current_heading": "Receiving Portions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Fire vs. Blood",
+    "candidates": [
+      "Priestly Splendor",
+      "Fire vs. Blood",
+      "Mishnah Text",
+      "Lechem Hapanim",
+      "Mold Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Abaye's statement explains that the High Priest's placing of hands on the offering is done 'due to the eminence of the High Priest' \u2014 this directly concerns the ceremonial honor/splendor of the kohen gadol, matching the 'Priestly Splendor' section's prose about the kohen gadol's distinguished service.",
+      "chosen_heading": "Priestly Splendor",
+      "current_heading": "Fire vs. Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Mold Stages",
+    "candidates": [
+      "Mishnah Text",
+      "Lechem Hapanim",
+      "Mold Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'hadran alach shtei midot' is the concluding formula for the perek, which the prose under 'Mishnah Text' explicitly mentions as the transition point before the next mishnah begins.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Mold Stages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Mold Stages",
+    "candidates": [
+      "Mold Stages",
+      "Isaron Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna discusses kneading/baking procedures and the use of molds (defus) for shewbread, which directly corresponds to the 'Mold Stages' section's prose about molds used at various production stages of lechem hapanim.",
+      "chosen_heading": "Mold Stages",
+      "current_heading": "Mold Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Isaron Measure",
+    "candidates": [
+      "Isaron Measure",
+      "Individual Kneading",
+      "Paired Baking",
+      "Otam Exclusivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives from 'shnei esronim yihye hachala ha'achat' specifically the rule that loaves are kneaded one by one (melamed sheniloshot achat achat), which matches the 'Individual Kneading' section's prose about deriving individual kneading from 'hachala ha'achat' \u2014 the current placement under 'Isaron Measure' focuses on the quantity of flour, not the kneading derivation.",
+      "chosen_heading": "Individual Kneading",
+      "current_heading": "Isaron Measure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Otam Exclusivity",
+    "candidates": [
+      "Individual Kneading",
+      "Paired Baking",
+      "Otam Exclusivity",
+      "Three Molds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the dual derivation from 'otam' \u2014 first establishing paired baking and then excluding the shtei halechem \u2014 which is precisely what the 'Otam Exclusivity' section's prose describes, including the vesamtam vs. vesamta otam grammatical argument and the shma mina tarti conclusion.",
+      "chosen_heading": "Otam Exclusivity",
+      "current_heading": "Otam Exclusivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Three Molds",
+    "candidates": [
+      "Three Molds",
+      "Expansion Problem",
+      "Open Box View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the three-mold baraita and the expansion question/answer, matching the current placement under 'Three Molds' which explicitly discusses all three stages; the expansion detail is embedded within the same baraita unit rather than being a separate discussion.",
+      "chosen_heading": "Three Molds",
+      "current_heading": "Three Molds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Open Box View",
+    "candidates": [
+      "Expansion Problem",
+      "Open Box View",
+      "V-Shaped View",
+      "Frankincense Placement",
+      "V-Shape Fix",
+      "Box Rod Support",
+      "V-Shape Rod Support",
+      "Box Stability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'How is the shewbread prepared, i.e., in what shape?' is the opening question that introduces the dispute about the shape of the lechem hapanim, which is exactly what the 'Open Box View' section begins to address.",
+      "chosen_heading": "Open Box View",
+      "current_heading": "Open Box View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Box Stability",
+    "candidates": [
+      "V-Shaped View",
+      "Frankincense Placement",
+      "V-Shape Fix",
+      "Box Rod Support",
+      "V-Shape Rod Support",
+      "Box Stability",
+      "Weight Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage begins with the two shape-opinions and then runs through three practical tests (frankincense, rods, panels); candidate 1 ('Frankincense Placement') is the natural home for the whole sequence as it introduces the gemara's testing of the views against practical requirements, starting with the frankincense challenge that opens the passage.",
+      "chosen_heading": "Frankincense Placement",
+      "current_heading": "Box Stability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Weight Distribution",
+    "candidates": [
+      "Weight Distribution",
+      "Panel Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why panels are needed under the open-box view, with the answer being weight distribution (agav yukra delachma tela\u1e25), which is precisely what the prose under 'Weight Distribution' discusses.",
+      "chosen_heading": "Weight Distribution",
+      "current_heading": "Weight Distribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Panel Placement",
+    "candidates": [
+      "Panel Placement",
+      "Mutual Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses where the panels (snifin) are placed \u2014 on the table vs. on the ground \u2014 according to the two views, which is precisely what the 'Panel Placement' section's prose describes.",
+      "chosen_heading": "Panel Placement",
+      "current_heading": "Panel Placement",
+      "moved": false
+    }
+  }
+]

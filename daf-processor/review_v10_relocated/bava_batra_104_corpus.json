@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Tosafot: Measured vs",
+    "candidates": [
+      "Beit Kor Measurement",
+      "Ona'ah & Bitul Mekach",
+      "Tosafot: Measured vs",
+      "Stam Case Question",
+      "1/24 Tolerance Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Beit Kor Measurement",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah and its continuation (the mechanics of returning land or money), which correspond precisely to heading 0's prose about the beit kor measurement rules, mida bechevel, hen chaser hen yeter, and the correction mechanics.",
+      "second_heading": "Stam Case Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's iba'ya lehu about the stam case and the initial attempt to resolve it from the Mishnah's inferences, matching exactly heading 3's prose about the stam land sale dilemma.",
+      "current_heading": "Tosafot: Measured vs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "1/24 Tolerance Proof",
+    "candidates": [
+      "Stam Case Question",
+      "1/24 Tolerance Proof",
+      "Stam = Tolerance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the reverse inference from the latter clause of the Mishnah and concludes 'ella meha leika lemishma mina,' which is exactly what the prose of heading 1 ('1/24 Tolerance Proof') describes as the Gemara's attempt to resolve from the Mishnah and its ultimate failure to do so.",
+      "chosen_heading": "1/24 Tolerance Proof",
+      "current_heading": "1/24 Tolerance Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Stam = Tolerance",
+    "candidates": [
+      "Stam = Tolerance",
+      "Field-Specific Context",
+      "Excess Land Handling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara debate about whether a stam (unspecified) land sale carries the hen chaser hen yater tolerance, culminating in Rav Ashi's objection and the final conclusion 'shema mina' \u2014 exactly what the 'Stam = Tolerance' prose describes.",
+      "chosen_heading": "Stam = Tolerance",
+      "current_heading": "Stam = Tolerance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Excess Land Handling",
+    "candidates": [
+      "Field-Specific Context",
+      "Excess Land Handling",
+      "Mishna vs. Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the seller's prerogative when the buyer receives excess land and asks why the buyer's power isn't equally enhanced, which is precisely what the 'Excess Land Handling' section's prose discusses.",
+      "chosen_heading": "Excess Land Handling",
+      "current_heading": "Excess Land Handling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Mishna vs. Baraita",
+    "candidates": [
+      "Mishna vs. Baraita",
+      "Price Adjustment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself that introduces the apparent contradiction with the Mishnah, which is precisely what the 'Mishna vs. Baraita' section discusses \u2014 the tension between the baraita's language of compelling both seller and buyer and the Mishnah's allocation of prerogative to the seller alone.",
+      "chosen_heading": "Mishna vs. Baraita",
+      "current_heading": "Mishna vs. Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Price Adjustment",
+    "candidates": [
+      "Price Adjustment",
+      "Rav Huna: Absolute Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the price adjustment scenarios (land expensive then cheap, and land cheap then expensive) that the 'Price Adjustment' prose explicitly describes in detail.",
+      "chosen_heading": "Price Adjustment",
+      "current_heading": "Price Adjustment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Rav Huna: Absolute Amount",
+    "candidates": [
+      "Rav Huna: Absolute Amount",
+      "Rav Nachman: Proportional",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Rav Huna / Rav Nachman dispute about absolute vs. proportional thresholds, which is precisely what heading 0 ('Rav Huna: Absolute Amount') introduces, and the passage is correctly placed there as the source text for that section's discussion.",
+      "chosen_heading": "Rav Huna: Absolute Amount",
+      "current_heading": "Rav Huna: Absolute Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rav Nachman: Proportional",
+      "Rava's Challenge",
+      "Case-Specific Sizes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rava's direct challenge to Rav Nachman from the Mishnah's language about nine kav in a field, and Rav Nachman's rebuttal that the Mishnah refers to a one-kor sale \u2014 exactly what the 'Rava's Challenge' section describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Case-Specific Sizes",
+    "candidates": [
+      "Case-Specific Sizes",
+      "Field-to-Garden Convert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's objections to Rav Na\u1e25man regarding garden thresholds (half-kav and quarter-kav), which the prose of 'Case-Specific Sizes' explicitly discusses in detail, including the exact deflections given for each challenge.",
+      "chosen_heading": "Case-Specific Sizes",
+      "current_heading": "Case-Specific Sizes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Field-to-Garden Convert",
+    "candidates": [
+      "Field-to-Garden Convert",
+      "Contiguous Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav Ashi's unresolved dilemma regarding a field becoming a garden or a garden becoming a field, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Field-to-Garden Convert",
+      "current_heading": "Field-to-Garden Convert",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Contiguous Property",
+    "candidates": [
+      "Contiguous Property",
+      "Physical Obstacles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about returning land when it is adjacent to the seller's field (samuch lesadehu) is precisely what the 'Contiguous Property' section's prose discusses.",
+      "chosen_heading": "Contiguous Property",
+      "current_heading": "Contiguous Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Physical Obstacles",
+    "candidates": [
+      "Physical Obstacles",
+      "Entire Amount Returned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's dilemmas about physical features (pit, water channel, public thoroughfare, row of palm trees) as interpositions, which is exactly what the 'Physical Obstacles' prose discusses in detail.",
+      "chosen_heading": "Physical Obstacles",
+      "current_heading": "Physical Obstacles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Entire Amount Returned",
+    "candidates": [
+      "Entire Amount Returned",
+      "Second Clause Wins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnah's language about returning the rova versus the entire surplus and Ravin bar Rav Na\u1e25man's emendation, which is precisely what the 'Entire Amount Returned' prose section analyzes.",
+      "chosen_heading": "Entire Amount Returned",
+      "current_heading": "Entire Amount Returned",
+      "moved": false
+    }
+  }
+]

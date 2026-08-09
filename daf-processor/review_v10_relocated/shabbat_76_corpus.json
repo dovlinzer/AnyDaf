@@ -1,0 +1,295 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Kashur Le-Hatznia",
+    "candidates": [
+      "Hotza'ah Centrality",
+      "Kashur Le-Hatznia",
+      "Objective/Subjective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text itself (introducing the new klal about hotza'ah/carrying with its shiur principle) is what the 'Hotza'ah Centrality' section's prose is directly introducing and setting up, while 'Kashur Le-Hatznia' prose already presupposes the mishna has been presented and begins analyzing its content.",
+      "chosen_heading": "Hotza'ah Centrality",
+      "current_heading": "Kashur Le-Hatznia",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Objective/Subjective",
+    "candidates": [
+      "Kashur Le-Hatznia",
+      "Objective/Subjective",
+      "Exclusions Debated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Objective/Subjective' directly discusses and explains this exact Gemara passage about what 'kasher le-hatznia' excludes, citing Rav Pappa (dam nida), Mar Ukva (atzei ashera), and the cat-feeding reasoning \u2014 matching the passage content precisely.",
+      "chosen_heading": "Objective/Subjective",
+      "current_heading": "Objective/Subjective",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Exclusions Debated",
+    "candidates": [
+      "Exclusions Debated",
+      "Cow/Camel/Sheep",
+      "Goat/Figs/Dried"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the gemara's discussion that the mishna does not accord with Rabbi Shimon (bar Yochai) and Rabbi Shimon ben Elazar, which is precisely what the 'Exclusions Debated' prose section discusses in detail.",
+      "chosen_heading": "Exclusions Debated",
+      "current_heading": "Exclusions Debated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Goat/Figs/Dried",
+    "candidates": [
+      "Cow/Camel/Sheep",
+      "Goat/Figs/Dried",
+      "Camel Intent Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishna passage introduces all the measures (straw/cow, etza/camel, ears/lamb, grass/goat, garlic leaves, and the non-combining rule) which is precisely what candidate 0 ('Cow/Camel/Sheep') begins discussing, and candidate 0's prose explicitly covers the opening of this mishna including teven/para, atza/gamal, and amir/taleh \u2014 the full mishna text belongs under that heading rather than being split mid-mishna under candidate 1.",
+      "chosen_heading": "Cow/Camel/Sheep",
+      "current_heading": "Goat/Figs/Dried",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Camel Intent Debate",
+    "candidates": [
+      "Goat/Figs/Dried",
+      "Camel Intent Debate",
+      "Forced Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong to the Rav Dimi/Ravin transmission of the Rabbi Yochanan\u2013Reish Lakish dispute about carrying straw in a cow's mouthful for a camel, which is precisely what candidate 1 ('Camel Intent Debate') describes in its prose.",
+      "chosen_heading": "Camel Intent Debate",
+      "current_heading": "Camel Intent Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Forced Eating",
+    "candidates": [
+      "Forced Eating",
+      "Stricter/Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Yo\u1e25anan/Reish Lakish dispute about achila al yedei d'chaka, which is precisely what the 'Forced Eating' section's prose discusses in detail.",
+      "chosen_heading": "Forced Eating",
+      "current_heading": "Forced Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Stricter/Lenient",
+    "candidates": [
+      "Stricter/Lenient",
+      "Common Shiur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Common Shiur",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses the equivalence of 'lamb's mouthful' and 'dried fig-bulk' as a single measure for an ear of grain, which is a self-contained unit about a common shiur \u2014 better matching the 'Common Shiur' prose than the 'Stricter/Lenient' prose.",
+      "second_heading": "Stricter/Lenient",
+      "second_confidence": "high",
+      "second_reason": "Item 2 directly addresses the garlic/onion leaves case with their differing wet/dry measures and Rabbi Yosei bar \u1e24anina's ruling about combining toward the more lenient vs. more stringent category, which matches precisely the 'Stricter/Lenient' prose discussion.",
+      "current_heading": "Stricter/Lenient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Common Shiur",
+    "candidates": [
+      "Common Shiur",
+      "Formal Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna and baraita about garment/sack/hide/mat combining despite different shiurim, and Rabbi Shimon's reasoning about tumas moshav \u2014 exactly what the prose under 'Common Shiur' describes and analyzes.",
+      "chosen_heading": "Common Shiur",
+      "current_heading": "Common Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Formal Categories",
+    "candidates": [
+      "Formal Categories",
+      "Grogeret Standard",
+      "Shells/Seeds/Bran",
+      "Legume Shells"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement 'here too, suited for a sample' (chazi le-dugma) is precisely what the 'Formal Categories' prose discusses at length \u2014 Rava applying the sample-use logic to animal-feed categories to license combination across categories.",
+      "chosen_heading": "Formal Categories",
+      "current_heading": "Formal Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Legume Shells",
+    "candidates": [
+      "Grogeret Standard",
+      "Shells/Seeds/Bran",
+      "Legume Shells",
+      "Wine/Milk/Other",
+      "Revi'it Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Grogeret Standard",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the grogeret standard, food combination, and the bran exclusion/\u1e25alla challenge resolved by Abaye \u2014 all discussed under the 'Grogeret Standard' and 'Shells/Seeds/Bran' headings, but item 1 is the opening Mishna establishing the grogeret standard and combination rule, which maps to heading 0, while item 2 addresses the bran exclusion which maps to heading 1; however since the Mishna of item 1 introduces both the grogeret standard AND the shell/bran exclusions as one unit, and item 2 is the Gemara on that same Mishna's bran clause, items 1-2 form one continuous unit best placed under heading 1 ('Shells/Seeds/Bran') which explicitly discusses both the exclusions and the Abaye/bran resolution.",
+      "second_heading": "Legume Shells",
+      "second_confidence": "high",
+      "second_reason": "Item 3 deals exclusively with Rabbi Yehuda's exception for lentil/bean shells, the baraita contradiction, the fresh/old bean resolution, and Rabbi Abbahu's flies-in-the-dish explanation \u2014 all of which are precisely the content described in the 'Legume Shells' prose, confirming it belongs under heading 2.",
+      "current_heading": "Legume Shells",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Revi'it Standard",
+    "candidates": [
+      "Wine/Milk/Other",
+      "Revi'it Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05db\u05dc\u05dc \u05d2\u05d3\u05d5\u05dc' is a closing formula marking the end of a chapter/tractate, which belongs at the end of the final section 'Revi'it Standard' as the conclusion of that perek rather than under the Wine/Milk/Other section.",
+      "chosen_heading": "Revi'it Standard",
+      "current_heading": "Revi'it Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Revi'it Standard",
+    "candidates": [
+      "Revi'it Standard",
+      "Quarter Revi'it"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers the full range of liquid measures including the revi'it standard for all other liquids and Rabbi Shimon's position that all liquids go by a revi'it, which is exactly what the 'Revi'it Standard' prose section discusses, whereas 'Quarter Revi'it' discusses the gemara's derivation of the specific minimum for dense wine.",
+      "chosen_heading": "Revi'it Standard",
+      "current_heading": "Revi'it Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Quarter Revi'it",
+    "candidates": [
+      "Quarter Revi'it",
+      "Water in Pitcher",
+      "Rava: Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Tosefta teaching about a 'significant cup,' Rav Na\u1e25man's ruling about a quarter-revi'it, and Rava's proof from the mishna with the three-to-one ratio \u2014 are precisely the content described in the 'Quarter Revi'it' section's prose.",
+      "chosen_heading": "Quarter Revi'it",
+      "current_heading": "Quarter Revi'it",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Rava: Intent",
+    "candidates": [
+      "Water in Pitcher",
+      "Rava: Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the objection-and-response exchange described in heading 0's prose ('Water in Pitcher'), which explicitly describes Abaye's two challenges and implicitly anticipates Rava's replies \u2014 the current placement under 'Rava: Intent' puts the passage one heading too late, while heading 0's prose is clearly written to introduce and frame exactly this Abaye-Rava exchange.",
+      "chosen_heading": "Water in Pitcher",
+      "current_heading": "Rava: Intent",
+      "moved": true
+    }
+  }
+]

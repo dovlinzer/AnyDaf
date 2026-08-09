@@ -1,0 +1,368 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Bikkurim vs. Menachot",
+    "candidates": [
+      "RY vs RL: Bikkurim",
+      "Tannai Hi Resolution",
+      "Rooftop Bikkurim Cases",
+      "Bikkurim vs. Menachot",
+      "Afurayim Introduction",
+      "Yochna & Mamre Taunt",
+      "Moshe's Comeback"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the 'ela le'Rabbi Yochanan kashia' difficulty and its 'tannai hi' resolution that candidate 1's prose explicitly describes.",
+      "chosen_heading": "Tannai Hi Resolution",
+      "current_heading": "Bikkurim vs. Menachot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Moshe's Comeback",
+    "candidates": [
+      "Afurayim Introduction",
+      "Yochna & Mamre Taunt",
+      "Moshe's Comeback",
+      "Non-Ideal Fields Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the taunt by Yochana and Mamre AND Moses's comeback as a single continuous exchange, and candidate 1 ('Yochna & Mamre Taunt') covers both figures and the full interaction, while the current placement under 'Moshe's Comeback' only covers half the passage.",
+      "chosen_heading": "Yochna & Mamre Taunt",
+      "current_heading": "Moshe's Comeback",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Non-Ideal Fields Mishna",
+    "candidates": [
+      "Moshe's Comeback",
+      "Non-Ideal Fields Mishna",
+      "Rashi vs. Tosafot Scope",
+      "Nira & 70-Day Planting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text about not bringing grain from fertilized, irrigated, or tree-filled fields, which is precisely what the 'Non-Ideal Fields Mishna' prose section discusses in detail.",
+      "chosen_heading": "Non-Ideal Fields Mishna",
+      "current_heading": "Non-Ideal Fields Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Nira & 70-Day Planting",
+    "candidates": [
+      "Rashi vs. Tosafot Scope",
+      "Nira & 70-Day Planting",
+      "Gizbar Flour Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the nira/first-year plowing and seventy-days-before-Passover planting producing fine flour, which is exactly what candidate 1's prose discusses under 'Nira & 70-Day Planting.'",
+      "chosen_heading": "Nira & 70-Day Planting",
+      "current_heading": "Nira & 70-Day Planting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Gizbar Flour Inspection",
+    "candidates": [
+      "Gizbar Flour Inspection",
+      "Once or Twice Plowing?",
+      "Southern Fields Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the gizbar's flour inspection method (inserting his hand, checking for powder/avak) and the disqualification for worms \u2014 exactly the content discussed in the 'Gizbar Flour Inspection' prose.",
+      "chosen_heading": "Gizbar Flour Inspection",
+      "current_heading": "Gizbar Flour Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Southern Fields Braita",
+    "candidates": [
+      "Once or Twice Plowing?",
+      "Southern Fields Braita",
+      "Zeret & Shibbolet Yield",
+      "Full Production Steps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items belong under 'Once or Twice Plowing?' \u2014 item 1 is the Gemara's dilemma about whether year two requires plowing, item 2 is the baraita brought as a resolution (ta shema), and item 3 is the baraita's answer explicitly stating 'plows once and repeats' \u2014 the entire sequence is the Gemara's resolution of that one dilemma, which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Once or Twice Plowing?",
+      "current_heading": "Southern Fields Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Full Production Steps",
+    "candidates": [
+      "Zeret & Shibbolet Yield",
+      "Full Production Steps",
+      "Avoda vs. Lo Avoda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the full production sequence from harvesting through the gizbar's flour inspection, which is precisely what the 'Full Production Steps' section's prose discusses in detail.",
+      "chosen_heading": "Full Production Steps",
+      "current_heading": "Full Production Steps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Avoda vs. Lo Avoda",
+    "candidates": [
+      "Avoda vs. Lo Avoda",
+      "Shmitta & Plowing",
+      "RY: Southern Field Omer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the baraita proving choresh veshoneh, the Gemara's rejection noting the Mishnah doesn't say shoneh, the resolution distinguishing avoda from she-eina avoda, and the concluding baraita of nir chatziya \u2014 are precisely the content described in the 'Avoda vs. Lo Avoda' prose section.",
+      "chosen_heading": "Avoda vs. Lo Avoda",
+      "current_heading": "Avoda vs. Lo Avoda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "RY: Southern Field Omer",
+    "candidates": [
+      "Shmitta & Plowing",
+      "RY: Southern Field Omer",
+      "Abba Shaul: Beit Makle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement about bringing the Omer from southern fields where the sun rises and sets, which is precisely what the prose under 'RY: Southern Field Omer' describes and contextualizes.",
+      "chosen_heading": "RY: Southern Field Omer",
+      "current_heading": "RY: Southern Field Omer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Abba Shaul: Beit Makle",
+    "candidates": [
+      "Abba Shaul: Beit Makle",
+      "Rav Hilkiya's Field",
+      "Majority Wormy = Pasul",
+      "Rov Chitin or Rov Se'ah?",
+      "Rava: Lashes for Worm?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abba Shaul: Beit Makle",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 cover Abba Shaul's baraita about the Omer field and Rav \u1e24ilkiya's practical demonstration of the same rotation method, matching candidates 0 and 1 which discuss exactly that content.",
+      "second_heading": "Majority Wormy = Pasul",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces an entirely new topic \u2014 the baraita about wormy flour/wheat being pasul and Rabbi Yirmeya's unresolved question about whether 'majority' means per-kernel or per-se'ah \u2014 which matches candidate 2's prose about majority-wormy grain being invalid.",
+      "current_heading": "Abba Shaul: Beit Makle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rava: Lashes for Worm?",
+    "candidates": [
+      "Rav Hilkiya's Field",
+      "Majority Wormy = Pasul",
+      "Rov Chitin or Rov Se'ah?",
+      "Rava: Lashes for Worm?",
+      "Wormy Wood for Mizbe'ach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rava's dilemma about whether consecrating wormy wheat incurs lashes for ba'al mum, which is exactly what candidate 3's prose describes.",
+      "chosen_heading": "Rava: Lashes for Worm?",
+      "current_heading": "Rava: Lashes for Worm?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Wormy Wood for Mizbe'ach",
+    "candidates": [
+      "Wormy Wood for Mizbe'ach",
+      "Wood Ba'al Mum Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna about wormy wood and Shmuel's distinction between wet and dry logs, which matches exactly the prose in heading 0 about wormy wood for the Mizbeach.",
+      "chosen_heading": "Wormy Wood for Mizbe'ach",
+      "current_heading": "Wormy Wood for Mizbe'ach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Wood Ba'al Mum Teiku",
+    "candidates": [
+      "Wood Ba'al Mum Teiku",
+      "Tekoa Premier Oil Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's unresolved question about flogging for consecrating a wormy log due to ba'al mum, which is precisely what heading 0's prose discusses in detail.",
+      "chosen_heading": "Wood Ba'al Mum Teiku",
+      "current_heading": "Wood Ba'al Mum Teiku",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tekoa Premier Oil Source",
+    "candidates": [
+      "Tekoa Premier Oil Source",
+      "Oil from Ever HaYarden?",
+      "Disqualified Oil Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah establishing Tekoa as the premier oil source and Regev as secondary, which is precisely what the prose in candidate 0 describes.",
+      "chosen_heading": "Tekoa Premier Oil Source",
+      "current_heading": "Tekoa Premier Oil Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Disqualified Oil Sources",
+    "candidates": [
+      "Oil from Ever HaYarden?",
+      "Disqualified Oil Sources",
+      "Yoav to Tekoa: Oil=Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the disqualified oil sources enumerated in the Mishnah \u2014 fertilized groves, irrigated groves, grain-interspersed groves, unripe olives, soaked/pickled/boiled olives \u2014 which is precisely what the 'Disqualified Oil Sources' section's prose discusses in detail.",
+      "chosen_heading": "Disqualified Oil Sources",
+      "current_heading": "Disqualified Oil Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Yoav to Tekoa: Oil=Wisdom",
+    "candidates": [
+      "Yoav to Tekoa: Oil=Wisdom",
+      "Asher's Oil Blessing",
+      "Ludkaya Oil Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about why Yoav chose Tekoa and Rabbi Yochanan's answer about olive oil and wisdom, which matches exactly what heading 0's prose discusses.",
+      "chosen_heading": "Yoav to Tekoa: Oil=Wisdom",
+      "current_heading": "Yoav to Tekoa: Oil=Wisdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Ludkaya Oil Story",
+    "candidates": [
+      "Asher's Oil Blessing",
+      "Ludkaya Oil Story",
+      "Mitroshesh VeHon Rav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Asher's Oil Blessing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 opens with the baraita about Asher's oil blessing and introduces the Laodicea story, matching heading 0's prose about the verse and Asher's oil abundance.",
+      "second_heading": "Ludkaya Oil Story",
+      "second_confidence": "high",
+      "second_reason": "Item 2 continues the Laodicea story with the messenger's journey to Gush \u1e24alav and the man hoeing under his olive trees, which is precisely what heading 1's prose describes in detail.",
+      "current_heading": "Ludkaya Oil Story",
+      "moved": true
+    }
+  }
+]

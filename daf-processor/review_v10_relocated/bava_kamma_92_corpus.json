@@ -1,0 +1,480 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Sharecropper Exemption",
+    "candidates": [
+      "Self-Injury Principle",
+      "Bal Tashchit Debate",
+      "Sapling Cutting Case",
+      "Sharecropper Exemption",
+      "Michael's Defense",
+      "Necessary Removal",
+      "Blood-Covering Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form exactly the baraita-before-Rav exchange and Rav's resolution ('interpret your baraita with regard to an ox ready to be killed / a tree ready to be cut down') that Candidate 3's prose explicitly describes and discusses in detail.",
+      "chosen_heading": "Sharecropper Exemption",
+      "current_heading": "Sharecropper Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Blood-Covering Story",
+    "candidates": [
+      "Michael's Defense",
+      "Necessary Removal",
+      "Blood-Covering Story",
+      "Mitzvah vs. Berachah",
+      "Rabbeinu Tam Amen",
+      "Rosh: Din Not Knas",
+      "IP & Copyright",
+      "Palm Tree Minimum"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Michael's Defense",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question-and-answer about what claim the owner is making (the mitzvah-theft framing), which the prose of candidate 0 ('Michael's Defense') describes precisely: 'ana bina lemevad hai mitzvah \u2014 I wanted to perform this mitzvah myself, and you stole it from me.'",
+      "second_heading": "Blood-Covering Story",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about v'shafach v'chisah and Rabban Gamliel's ten golden coins ruling, which is exactly what candidate 2 ('Blood-Covering Story') describes as establishing the legal concept that one can owe compensation for stealing another's mitzvah opportunity.",
+      "current_heading": "Blood-Covering Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Palm Tree Minimum",
+    "candidates": [
+      "Mitzvah vs. Berachah",
+      "Rabbeinu Tam Amen",
+      "Rosh: Din Not Knas",
+      "IP & Copyright",
+      "Palm Tree Minimum",
+      "Olive Tree Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rav's ruling about a palm tree producing a kav of dates being prohibited from cutting, which is precisely the content described in the 'Palm Tree Minimum' section's prose.",
+      "chosen_heading": "Palm Tree Minimum",
+      "current_heading": "Palm Tree Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Olive Tree Standard",
+    "candidates": [
+      "Olive Tree Standard",
+      "Death Before Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the olive tree standard (rova quarter-kav) and the resolution that olives are significant, which is precisely what the 'Olive Tree Standard' prose describes.",
+      "chosen_heading": "Olive Tree Standard",
+      "current_heading": "Olive Tree Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Death Before Time",
+    "candidates": [
+      "Death Before Time",
+      "Financial Override",
+      "Textual Abstraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi \u1e24anina's statement about his son Shiv\u1e25at dying for cutting a fig tree before its time AND Ravina's financial override qualification \u2014 but the current placement under 'Death Before Time' is correct because the essay's 'Financial Override' section prose discusses this same Ravina statement separately, meaning the gemara passage as a unit (both halves together) is best placed under the heading that introduces the narrative context, while the essay prose under 'Financial Override' elaborates on Ravina's ruling independently.",
+      "chosen_heading": "Death Before Time",
+      "current_heading": "Death Before Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Textual Abstraction",
+    "candidates": [
+      "Financial Override",
+      "Textual Abstraction",
+      "Wine-Tainted Dates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous baraita discussion about the verse's two halves \u2014 identifying fruit vs. barren trees, the preference principle (l'hakdim srak l'ma'achal), and the 'rak' qualification for financial override \u2014 which is precisely what the 'Textual Abstraction' prose describes as re-reading the pasuk into a preference principle qualified by financial logic.",
+      "chosen_heading": "Textual Abstraction",
+      "current_heading": "Textual Abstraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Wine-Tainted Dates",
+    "candidates": [
+      "Wine-Tainted Dates",
+      "Vine-Palm Economics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Shmuel story with wine-tasting dates and the sharecropper, which is precisely what candidate 0's prose narrates and analyzes.",
+      "chosen_heading": "Wine-Tainted Dates",
+      "current_heading": "Wine-Tainted Dates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Vine-Palm Economics",
+    "candidates": [
+      "Vine-Palm Economics",
+      "Payment Insufficient",
+      "Avimelech Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24isda ordering his sharecropper to uproot date palms growing among grapevines because grapevines are more valuable directly matches the 'Vine-Palm Economics' section prose, which discusses exactly this incident and its halachic implications.",
+      "chosen_heading": "Vine-Palm Economics",
+      "current_heading": "Vine-Palm Economics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Avimelech Example",
+    "candidates": [
+      "Payment Insufficient",
+      "Avimelech Example",
+      "Refusing Forgiveness",
+      "Mechila Scope",
+      "Bodily Injury Always"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text establishes that payment alone is insufficient for forgiveness (the core 'Payment Insufficient' thesis), and the prose under heading 0 directly quotes and discusses this exact mishna text including the Avimelech reference, whereas headings 1 and 2 discuss derivative points the gemara draws from the same passage.",
+      "chosen_heading": "Payment Insufficient",
+      "current_heading": "Avimelech Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Bodily Injury Always",
+    "candidates": [
+      "Refusing Forgiveness",
+      "Mechila Scope",
+      "Bodily Injury Always",
+      "Property Exemption",
+      "No Agency Sin",
+      "Prophet Foreknowledge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bodily Injury Always",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses bodily injury liability even with an explicit exemption clause, which is exactly what candidate 2 ('Bodily Injury Always') discusses.",
+      "second_heading": "Property Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses property damage liability, the effect of an explicit 'al menas liftor' exemption for one's own property, and third-party instructions, which matches candidate 3 ('Property Exemption') and candidate 4 ('No Agency Sin') \u2014 but the property exemption rule and the third-party liability ruling in item 2 are both covered under candidate 3's prose, which also mentions the third-party case.",
+      "current_heading": "Bodily Injury Always",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Prophet Foreknowledge",
+    "candidates": [
+      "Property Exemption",
+      "No Agency Sin",
+      "Prophet Foreknowledge",
+      "Divine Closure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Property Exemption",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a baraita about the distinction between monetary compensation for humiliation (for which a set amount suffices) and pain (which requires personal forgiveness), only incidentally quoting the Avimelech verse \u2014 this does not match the Prophet Foreknowledge prose which focuses entirely on the drash of the Avimelech story, and none of the candidates perfectly fits, but candidate 0 (Property Exemption) and 1 (No Agency Sin) discuss injury/mechila themes closest to item 1's subject of forgiveness for pain vs. humiliation; however since no candidate prose directly addresses this baraita, the current placement is the least wrong for it given the Avimelech verse connection.",
+      "second_heading": "Prophet Foreknowledge",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 are the gemara's drash on the Avimelech psukim \u2014 the question about the prophet's wife, Rabbi Shmuel bar Nahmani's answer, and the conclusion about ben Noach's liability \u2014 which precisely matches the Prophet Foreknowledge prose describing those exact moves in that exact order.",
+      "current_heading": "Prophet Foreknowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Divine Closure",
+    "candidates": [
+      "Divine Closure",
+      "Four Closings Women"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Divine Closure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Elazar's interpretation of atzor atzar with one closing for men and two for women) is exactly what the 'Divine Closure' prose discusses.",
+      "second_heading": "Four Closings Women",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the baraita adding urine/ketanim, giving two for men and three for women) is exactly what the 'Four Closings Women' prose discusses as the mattnita that extends the count further.",
+      "current_heading": "Divine Closure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Four Closings Women",
+    "candidates": [
+      "Four Closings Women",
+      "Hens' Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage from Ravina directly matches the prose in candidate 0, which explicitly describes Ravina's extension of the count to three for men and four for women with the same categories mentioned.",
+      "chosen_heading": "Four Closings Women",
+      "current_heading": "Four Closings Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Hens' Silence",
+    "candidates": [
+      "Hens' Silence",
+      "Prayer Others"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the school of Rabbi Yannai's teaching about hens not laying eggs in Avimelech's house, which matches exactly the prose under 'Hens' Silence.'",
+      "chosen_heading": "Hens' Silence",
+      "current_heading": "Hens' Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Prayer Others",
+    "candidates": [
+      "Prayer Others",
+      "Iyov Friends",
+      "Abraham Sarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's question about the source of the principle (matching heading 0's prose) and Rabba bar Mari's answer citing the Job verse (matching heading 1's prose), but since it is a single unified exchange, it belongs under the heading that introduces the question \u2014 'Prayer Others' \u2014 which is its current placement and correctly frames the entire passage.",
+      "chosen_heading": "Prayer Others",
+      "current_heading": "Prayer Others",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Abraham Sarah",
+    "candidates": [
+      "Iyov Friends",
+      "Abraham Sarah",
+      "Weeds Vegetables"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's response citing Abraham's prayer for Abimelech and Sarah's subsequent conception, which is exactly what the 'Abraham Sarah' section's prose describes.",
+      "chosen_heading": "Abraham Sarah",
+      "current_heading": "Abraham Sarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Weeds Vegetables",
+    "candidates": [
+      "Weeds Vegetables",
+      "Yosef Brothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact exchange about the popular saying 'the cabbage is damaged with the thorn,' with Rava and Rabba bar Mari citing their respective prooftexts, which matches precisely what the 'Weeds Vegetables' prose describes.",
+      "chosen_heading": "Weeds Vegetables",
+      "current_heading": "Weeds Vegetables",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Yosef Brothers",
+    "candidates": [
+      "Yosef Brothers",
+      "Yehuda Bones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same discussion about which five brothers Yosef chose, including the challenge about Yehuda's repeated name, which is explicitly described in the 'Yosef Brothers' prose.",
+      "chosen_heading": "Yosef Brothers",
+      "current_heading": "Yosef Brothers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Yehuda Bones",
+    "candidates": [
+      "Yehuda Bones",
+      "Yehuda Heaven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and explain the Gemara about Judah's bones rolling in the coffin for forty years and Moses' prayer on Judah's behalf \u2014 precisely the content described in the 'Yehuda Bones' prose section.",
+      "chosen_heading": "Yehuda Bones",
+      "current_heading": "Yehuda Bones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Yehuda Heaven",
+    "candidates": [
+      "Yehuda Heaven",
+      "Rich-Poor Baskets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Yehuda's step-by-step restoration and admission to the heavenly academy through Moses's prayers, which precisely matches the prose in the 'Yehuda Heaven' section.",
+      "chosen_heading": "Yehuda Heaven",
+      "current_heading": "Yehuda Heaven",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Rich-Poor Baskets",
+    "candidates": [
+      "Rich-Poor Baskets",
+      "Metzora Self",
+      "Breakfast Strength"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rich-Poor Baskets",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the full exchange about the bikurim baskets (Rava's question and Rabbah bar Mari's answer from the mishna), which matches the 'Rich-Poor Baskets' prose exactly.",
+      "second_heading": "Metzora Self",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the verse 'v'tamay tamay yikra' which Rava offers as his own preferred proof-text for the same proverb, and the 'Metzora Self' prose explicitly describes Rava deriving the principle from this very verse.",
+      "current_heading": "Rich-Poor Baskets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Breakfast Strength",
+    "candidates": [
+      "Metzora Self",
+      "Breakfast Strength"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the rabbinic teaching about eating early in the morning, its scriptural sources, and the baraita about bile \u2014 exactly what the 'Breakfast Strength' prose describes.",
+      "chosen_heading": "Breakfast Strength",
+      "current_heading": "Breakfast Strength",
+      "moved": false
+    }
+  }
+]

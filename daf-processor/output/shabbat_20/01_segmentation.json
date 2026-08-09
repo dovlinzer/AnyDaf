@@ -34,7 +34,7 @@
           "timestamp": "03:56"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -208,8 +208,8 @@
           "timestamp": "39:22"
         }
       ],
-      "sefaria_index": 8,
-      "matched": false
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Prohibited Wicks: Lachesh, Chosen, Klach (Silk), and Plant Fibers",
@@ -466,5 +466,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "29:56",
+  "amud_b_micro_title": "Kahana Position",
+  "shiur_start_daf": 20,
+  "shiur_start_amud": "a"
 }

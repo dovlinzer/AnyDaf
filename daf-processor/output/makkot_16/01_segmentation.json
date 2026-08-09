@@ -29,8 +29,8 @@
           "timestamp": "02:43"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Yochanan's Interpretation: Ba Katuv vs. Lo Ba Katuv",
@@ -48,8 +48,8 @@
           "timestamp": "09:15"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Interpretation and the Concept of Hatra'at Safek",
@@ -67,7 +67,7 @@
           "timestamp": "10:58"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -86,8 +86,8 @@
           "timestamp": "14:06"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Classification of Negative Commandments: Lav She'ein Bo Ma'aseh vs. Lav She'yesh Bo Ma'aseh",
@@ -110,7 +110,7 @@
           "timestamp": "16:08"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -129,8 +129,8 @@
           "timestamp": "17:00"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Overview of Lav Hanitak Le'aseh Examples: When the Aseh Potential Is Cancelled",
@@ -148,7 +148,7 @@
           "timestamp": "19:20"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 5,
       "matched": false
     },
     {
@@ -254,7 +254,7 @@
           "timestamp": "35:17"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -288,7 +288,7 @@
           "timestamp": "39:54"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -302,7 +302,7 @@
           "timestamp": "40:06"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": false
     },
     {
@@ -316,7 +316,7 @@
           "timestamp": "41:18"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -563,5 +563,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "33:32",
+  "amud_b_micro_title": "Gezel",
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "b"
 }

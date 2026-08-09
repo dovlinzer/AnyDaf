@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Dvar Bei Rabbi Ishmael: The Fourteenth as Rishon",
@@ -53,8 +53,8 @@
           "timestamp": "02:46"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Nachman Bar Yitzchak's Interpretation: Rishon as 'Prior' or 'Beforehand'",
@@ -92,7 +92,7 @@
           "timestamp": "10:50"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -131,7 +131,7 @@
           "timestamp": "20:54"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -174,8 +174,8 @@
           "timestamp": "25:10"
         }
       ],
-      "sefaria_index": 15,
-      "matched": false
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Answer: Melacha Problem on Yom Tov Rishon Proves Prior Removal",
@@ -274,7 +274,7 @@
           "timestamp": "41:54"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -298,7 +298,7 @@
           "timestamp": "43:42"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -817,5 +817,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "29:13",
+  "amud_b_micro_title": "Biyur = Sreifah",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "a"
 }

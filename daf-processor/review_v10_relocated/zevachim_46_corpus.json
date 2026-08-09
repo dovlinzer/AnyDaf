@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Ulla's Drasha",
+    "candidates": [
+      "Daf Overview",
+      "Piggul vs Notar/Tumah",
+      "Blood as Matir",
+      "Ulla's Drasha",
+      "Beis Yishmael",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Ulla's derivation from 'v'ani nasati lachem' that blood is 'shelachem yehei' (it shall be yours), which is precisely what the 'Ulla's Drasha' section discusses.",
+      "chosen_heading": "Ulla's Drasha",
+      "current_heading": "Ulla's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Beis Yishmael",
+      "Rabbi Yochanan",
+      "Principle Explained",
+      "Three Exceptions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beis Yishmael",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the school of Rabbi Yishmael's drasha on 'l'chaper', which matches exactly the prose under heading 0 ('Beis Yishmael').",
+      "second_heading": "Rabbi Yochanan",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rabbi Yochanan's derivation from 'hu' and the ensuing challenge/resolution with the ne'aseit mitzvato principle, which matches precisely the prose under heading 1 ('Rabbi Yochanan').",
+      "current_heading": "Rabbi Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Three Exceptions",
+    "candidates": [
+      "Principle Explained",
+      "Three Exceptions",
+      "Debate on Exceptions",
+      "Resolution: Extra Letters"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Three Exceptions",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the challenges to the ne'aseit mitzvato principle from trumat hadeshen, bigdei kehunah, and eglah arufah, and the shnei ketuvim responses, matching exactly the 'Three Exceptions' and 'Debate on Exceptions' prose \u2014 but since items 1\u20132 clearly fit under 'Three Exceptions' (trumat hadeshen + bigdei kehunah) and items 3\u20135 fit under 'Debate on Exceptions' (Rabbi Dosa + eglah arufah), yet all five are a continuous chain, the closest single heading for items 1\u20135 is candidate 1 ('Three Exceptions') which covers the trumat hadeshen/bigdei kehunah exchange and leads into Rabbi Dosa.",
+      "second_heading": "Resolution: Extra Letters",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20137 address the dispute over whether two verses that come as one do or do not teach, resolved by two exclusionary letters (ha'arufah and vesamo), which matches precisely the 'Resolution: Extra Letters' prose of candidate 3.",
+      "current_heading": "Three Exceptions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Resolution: Extra Letters",
+    "candidates": [
+      "Debate on Exceptions",
+      "Resolution: Extra Letters",
+      "Three Verses Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why three verses are needed regarding blood's exemption from me'ilah, which directly corresponds to the 'Resolution: Extra Letters' section's prose discussing the three biblical sources establishing no me'ilah by blood and their additional purposes.",
+      "chosen_heading": "Resolution: Extra Letters",
+      "current_heading": "Resolution: Extra Letters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Three Verses Purpose",
+    "candidates": [
+      "Three Verses Purpose",
+      "Rabbi Shimon Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the purpose of the three exclusionary terms for blood (from meila, notar, tumah, and piggul), which is precisely what the 'Three Verses Purpose' prose section discusses as the established three exclusions for blood.",
+      "chosen_heading": "Three Verses Purpose",
+      "current_heading": "Three Verses Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Rabbi Shimon Exemption",
+    "candidates": [
+      "Rabbi Shimon Exemption",
+      "Amoraim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit discussing Rabbi Yochanan's derivation from the three karet verses for peace offerings, culminating in Rabbi Shimon's position that the third verse includes inner sin offerings rather than inedible items \u2014 exactly the content described in the 'Rabbi Shimon Exemption' prose.",
+      "chosen_heading": "Rabbi Shimon Exemption",
+      "current_heading": "Rabbi Shimon Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Amoraim Debate",
+    "candidates": [
+      "Amoraim Debate",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present the Amoraic debate (Rav Tavyumei's and Rav Kahana's versions) about whether the dispute between Rabbi Shimon and the Rabbis concerns tumat basar, tumat haguf, or both \u2014 exactly what the 'Amoraim Debate' prose describes in detail.",
+      "chosen_heading": "Amoraim Debate",
+      "current_heading": "Amoraim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Six Intentions Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's ruling that the two cases rise and fall together, and the challenge/resolution regarding v'habasar including eitzim u'levonah yielding only rabbinic disqualification \u2014 are explicitly described in the prose of candidate 0 ('Rava's Resolution').",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Six Intentions Listed",
+    "candidates": [
+      "Six Intentions Listed",
+      "Rabbi Yose's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah listing the six intentions required for a sacrifice, which exactly matches the 'Six Intentions Listed' section's prose discussion of leshem shisha devarim and its enumeration of all six items.",
+      "chosen_heading": "Six Intentions Listed",
+      "current_heading": "Six Intentions Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rabbi Yose's Position",
+    "candidates": [
+      "Rabbi Yose's Position",
+      "Alternative Readings",
+      "Chattat Intent Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic text of Rabbi Yose's statement, which is precisely what the 'Rabbi Yose's Position' section's prose is analyzing and explicating.",
+      "chosen_heading": "Rabbi Yose's Position",
+      "current_heading": "Rabbi Yose's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Chattat Intent Cases",
+    "candidates": [
+      "Alternative Readings",
+      "Chattat Intent Cases",
+      "Why Intent Matters",
+      "Rabba's Challenge",
+      "Abaye's Resolution",
+      "Intentional vs Mistaken",
+      "Misyasek Problem",
+      "Misyasek Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous sugya covering the drasha on olah/ishim/reiach/nichoach/l'Hashem followed immediately by the chattat leshem olah vs. leshem chulin ruling and its challenges, exactly matching the 'Chattat Intent Cases' prose description.",
+      "chosen_heading": "Chattat Intent Cases",
+      "current_heading": "Chattat Intent Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Misyasek Source",
+    "candidates": [
+      "Why Intent Matters",
+      "Rabba's Challenge",
+      "Abaye's Resolution",
+      "Intentional vs Mistaken",
+      "Misyasek Problem",
+      "Misyasek Source",
+      "Conscious Intent Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage depicts exactly the exchange described in the 'Misyasek Source' prose: Shmuel asks Rav Huna for the source that misyasek b'kodashim is pasul, Rav Huna cites a verse, Shmuel replies 'we already know that,' and Rav Huna responds with 'lirtzonchem tizbachu' \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Misyasek Source",
+      "current_heading": "Misyasek Source",
+      "moved": false
+    }
+  }
+]

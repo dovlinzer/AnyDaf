@@ -1,0 +1,477 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mesit Definition",
+    "candidates": [
+      "Mesit Definition",
+      "Hidden Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the mesit as a hedyot who entices an individual with descriptions of an idol's eating, drinking, and actions, which directly matches the 'Mesit Definition' prose discussing the mishnah's opening definition and the act of enticement.",
+      "chosen_heading": "Mesit Definition",
+      "current_heading": "Mesit Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Hidden Witnesses",
+    "candidates": [
+      "Hidden Witnesses",
+      "Two-Witness Case",
+      "Wall Concealment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the principle that all capital offenders except the mesit may not have witnesses hidden against them, which is exactly what the 'Hidden Witnesses' section's prose discusses as its central topic.",
+      "chosen_heading": "Hidden Witnesses",
+      "current_heading": "Hidden Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Wall Concealment",
+    "candidates": [
+      "Two-Witness Case",
+      "Wall Concealment",
+      "Avodah Zarah Acts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two-Witness Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the two-witness case where the mesit speaks to two people directly and they become his witnesses, matching exactly the 'Two-Witness Case' prose.",
+      "second_heading": "Wall Concealment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the wall-concealment procedure (machminim lo eidim achorei hageder) for when the mesit is cunning, which is precisely what the 'Wall Concealment' prose elaborates upon.",
+      "current_heading": "Wall Concealment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Avodah Zarah Acts",
+    "candidates": [
+      "Avodah Zarah Acts",
+      "Mishna Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage enumerates the specific idolatrous acts (worship, sacrifice, incense, libation, prostration) with their singular and plural formulations, which is precisely what the 'Avodah Zarah Acts' prose discusses.",
+      "chosen_heading": "Avodah Zarah Acts",
+      "current_heading": "Avodah Zarah Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Mishna Reading",
+    "candidates": [
+      "Mishna Reading",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's inferences about hedyot vs. navi and individual vs. multitude, which is precisely what the 'Mishna Reading' prose describes as the opening move of the gemara's analysis.",
+      "chosen_heading": "Mishna Reading",
+      "current_heading": "Mishna Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Shimon",
+      "Ravina's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact content described in heading 0's prose: item 1 is the baraita establishing Rabbi Shimon's position, and item 2 is the 'eima seifa' objection \u2014 both of which are explicitly narrated in the 'Rabbi Shimon' section's prose.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Ravina's Resolution",
+    "candidates": [
+      "Ravina's Resolution",
+      "Rav Pappa View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Ravina's statement that the entire mishna follows the Rabbis using the 'not only this but also that' style, which is precisely what the prose in candidate 0 ('Ravina's Resolution') discusses.",
+      "chosen_heading": "Ravina's Resolution",
+      "current_heading": "Ravina's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Rav Pappa View",
+    "candidates": [
+      "Rav Pappa View",
+      "Real vs. Illusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Pappa's statement that 'hedyot' refers to the hiding/entrapment procedure, the baraita confirming this is unique among death-penalty cases, and the baraita's description of the candle-and-witnesses entrapment procedure \u2014 are precisely what the 'Rav Pappa View' prose describes and elaborates upon.",
+      "chosen_heading": "Rav Pappa View",
+      "current_heading": "Rav Pappa View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Real vs. Illusion",
+    "candidates": [
+      "Real vs. Illusion",
+      "Akiva Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern ben Setada \u2014 his execution in Lod on Passover eve and the Gemara's discussion of his parentage \u2014 which is a concrete historical example (like the cucumber case under 'Akiva Example') rather than the abstract real-vs-illusion distinction discussed in candidate 0's prose.",
+      "chosen_heading": "Akiva Example",
+      "current_heading": "Real vs. Illusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Akiva Example",
+    "candidates": [
+      "Real vs. Illusion",
+      "Akiva Example",
+      "Punishment Dispute"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Punishment Dispute",
+    "candidates": [
+      "Punishment Dispute",
+      "Ben Azai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the continuous dispute between Rabbi Yosei HaGelili and Rabbi Akiva over the mode of execution for a witch, which is precisely what the 'Punishment Dispute' prose describes in detail.",
+      "chosen_heading": "Punishment Dispute",
+      "current_heading": "Punishment Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ben Azai",
+    "candidates": [
+      "Ben Azai",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ben Azzai's own derivation using juxtaposition of verses, which is precisely what the 'Ben Azai' section's prose describes.",
+      "chosen_heading": "Ben Azai",
+      "current_heading": "Ben Azai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Two Kesuvim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda's objection to deriving stoning from juxtaposition and his alternative hekesh derivation, which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Two Kesuvim",
+    "candidates": [
+      "Two Kesuvim",
+      "Heavenly Powers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the principle of shnei kesuvim habayim ke'echad in relation to Rabbi Yehuda's position, which is precisely what the 'Two Kesuvim' section's prose describes.",
+      "chosen_heading": "Two Kesuvim",
+      "current_heading": "Two Kesuvim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Heavenly Powers",
+    "candidates": [
+      "Heavenly Powers",
+      "Egyptian Magic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous dialectical unit about sorcery contradicting heavenly powers vs. Rabbi \u1e24anina's immunity, which is precisely what the 'Heavenly Powers' prose describes in detail.",
+      "chosen_heading": "Heavenly Powers",
+      "current_heading": "Heavenly Powers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Egyptian Magic",
+    "candidates": [
+      "Egyptian Magic",
+      "Vessel Particularity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between belateihem (acts of demons) and belahateihem (acts of sorcery) in the context of Egyptian magicians, which is precisely what the 'Egyptian Magic' section prose describes.",
+      "chosen_heading": "Egyptian Magic",
+      "current_heading": "Egyptian Magic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Vessel Particularity",
+    "candidates": [
+      "Vessel Particularity",
+      "Keshafim Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about vessel particularity distinguishing shedim from keshafim, which is exactly what heading 0 discusses.",
+      "chosen_heading": "Vessel Particularity",
+      "current_heading": "Vessel Particularity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Keshafim Categories",
+    "candidates": [
+      "Keshafim Categories",
+      "Creation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Abaye's tripartite framework for keshafim categories and the Rav Chanina/Rav Oshaya example of permitted 'creation,' which is precisely what the 'Keshafim Categories' prose describes in detail.",
+      "chosen_heading": "Keshafim Categories",
+      "current_heading": "Keshafim Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Creation Debate",
+    "candidates": [
+      "Creation Debate",
+      "Shed Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly describes both items: Rav Ashi's observation about Karna's father blowing silk from his nostrils and Rabbi Eliezer/Elazar's derivation that a demon cannot create an entity smaller than a barley grain, matching both items exactly.",
+      "chosen_heading": "Creation Debate",
+      "current_heading": "Creation Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Shed Creation",
+    "candidates": [
+      "Shed Creation",
+      "Rav's Camel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about shedim being unable to create even a camel, which is precisely what the prose under 'Shed Creation' discusses \u2014 the distinction between creation and gathering (kinuf).",
+      "chosen_heading": "Shed Creation",
+      "current_heading": "Shed Creation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rav's Camel",
+    "candidates": [
+      "Rav's Camel",
+      "Alexandria Donkey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav's account of the Arab slicing a camel and Rabbi \u1e24iyya's conclusion that it was an illusion, which exactly matches the prose under 'Rav's Camel'.",
+      "chosen_heading": "Rav's Camel",
+      "current_heading": "Rav's Camel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Alexandria Donkey",
+    "candidates": [
+      "Alexandria Donkey",
+      "Inn Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ze'eiri's experience in Alexandria buying an enchanted donkey that dissolved in water, which matches exactly the 'Alexandria Donkey' section's prose about Zeiri, Alexandria, and water dissolving spells.",
+      "chosen_heading": "Alexandria Donkey",
+      "current_heading": "Alexandria Donkey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Inn Encounter",
+    "candidates": [
+      "Inn Encounter",
+      "Marketplace Exposure",
+      "Frog Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the complete inn encounter story \u2014 Yannai, the sorcery-laced drink, the scorpions, the donkey transformation, and the marketplace scene \u2014 which matches precisely the prose under 'Inn Encounter' (heading 0).",
+      "chosen_heading": "Inn Encounter",
+      "current_heading": "Inn Encounter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Frog Debate",
+    "candidates": [
+      "Marketplace Exposure",
+      "Frog Debate",
+      "Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete frog dispute \u2014 Rabbi Elazar's statement and the tannaitic parallel with Rabbi Akiva and Rabbi Elazar ben Azaryah \u2014 which is precisely what the 'Frog Debate' prose describes in full, including the rebuke and both positions.",
+      "chosen_heading": "Frog Debate",
+      "current_heading": "Frog Debate",
+      "moved": false
+    }
+  }
+]

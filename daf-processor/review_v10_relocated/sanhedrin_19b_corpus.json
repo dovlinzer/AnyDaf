@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yannai Slave Case",
+    "candidates": [
+      "King's Status",
+      "Israel vs. David",
+      "Yannai Slave Case",
+      "Shatach & Yannai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Yannai slave incident \u2014 the summoning of the slave, the summoning of the king, and the 've-hu'ad biv'alav' principle \u2014 which is precisely what the 'Yannai Slave Case' section's prose discusses.",
+      "chosen_heading": "Yannai Slave Case",
+      "current_heading": "Yannai Slave Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Shatach & Yannai",
+    "candidates": [
+      "Shatach & Yannai",
+      "Judging Authority",
+      "Standing Honor",
+      "Torah Acquisition",
+      "Chalitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items narrate the exact Yannai/Shimon ben Shata\u1e25 incident \u2014 the king being told to stand, the judges burying their faces, Gabriel striking them, and the resulting ruling \u2014 which is precisely what the 'Shatach & Yannai' section prose discusses in full detail.",
+      "chosen_heading": "Shatach & Yannai",
+      "current_heading": "Shatach & Yannai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chalitzah",
+    "candidates": [
+      "Judging Authority",
+      "Standing Honor",
+      "Torah Acquisition",
+      "Chalitzah",
+      "King's Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses chalitzah and the king's honor (citing Rav Ashi's ruling and the mitzvah exception), which directly matches the 'Chalitzah' section's prose about lo chalitzah, the king's kavod, and Rabbi Yehuda's position.",
+      "chosen_heading": "Chalitzah",
+      "current_heading": "Chalitzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "King's Widow",
+    "candidates": [
+      "King's Widow",
+      "Merav & Michal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the baraita responding to Rabbi Yehuda's position about marrying a king's widow, which is precisely what the 'King's Widow' section's prose discusses, including the Merav and Michal identification as the culmination of that argument.",
+      "chosen_heading": "King's Widow",
+      "current_heading": "King's Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Merav & Michal",
+    "candidates": [
+      "Merav & Michal",
+      "Sisters Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial question and both answers about David marrying two sisters, which matches the prose of candidate 0 that explicitly summarizes both the question and both answers (Michal after Merav's death, and kiddushei ta'ut), whereas candidate 1's prose discusses the subsequent derivation from the pasuk about which betrothal was defective.",
+      "chosen_heading": "Merav & Michal",
+      "current_heading": "Merav & Michal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Sisters Issue",
+    "candidates": [
+      "Sisters Issue",
+      "Goliath Prize"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the biblical derivation showing Michal (not Merav) is David's wife, which is precisely what the 'Sisters Issue' prose discusses \u2014 Rav Pappa's proof that the betrothal to Merav was invalid based on David's specification of Michal as his wife.",
+      "chosen_heading": "Sisters Issue",
+      "current_heading": "Sisters Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Goliath Prize",
+    "candidates": [
+      "Goliath Prize",
+      "Foreskins Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the Goliath prize money as a loan and why it cannot serve as kesef kiddushin, which is exactly what the 'Goliath Prize' section's prose describes.",
+      "chosen_heading": "Goliath Prize",
+      "current_heading": "Goliath Prize",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Foreskins Value",
+    "candidates": [
+      "Foreskins Value",
+      "Merav Bore"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the Merav/Michal story involving the foreskins, the loan-and-peruta dispute between Saul and David, and the question of whether foreskins have monetary value \u2014 exactly the content described in the 'Foreskins Value' prose.",
+      "chosen_heading": "Foreskins Value",
+      "current_heading": "Foreskins Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Merav Bore",
+    "candidates": [
+      "Merav Bore",
+      "Proof Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yose's interpretation of 'deliver me my wife Michal' and his method of deriving meaning from mixed verses, which is exactly what the current heading's prose discusses.",
+      "chosen_heading": "Merav Bore",
+      "current_heading": "Merav Bore",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Proof Method",
+    "candidates": [
+      "Proof Method",
+      "Korcha's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the textual problem (Michal vs. Adriel) and its resolution via the hekesh comparing Merab's betrothal to Adriel with Michal's betrothal to Palti \u2014 exactly what the 'Proof Method' prose describes.",
+      "chosen_heading": "Proof Method",
+      "current_heading": "Proof Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Korcha's View",
+    "candidates": [
+      "Korcha's View",
+      "Raising Teaches",
+      "Ruth Naomi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua ben Korcha's question and resolution about Michal/Merav, which is exactly what heading 0 ('Korcha's View') describes in its prose, including the specific phrases about Michal not giving birth and Merav bearing the children.",
+      "chosen_heading": "Korcha's View",
+      "current_heading": "Korcha's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Ruth Naomi",
+    "candidates": [
+      "Raising Teaches",
+      "Ruth Naomi",
+      "Bitya Moses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Chanina deriving the principle that the one who raises a child receives credit from the Ruth/Naomi verse, which is exactly what the 'Ruth Naomi' section's prose discusses.",
+      "chosen_heading": "Ruth Naomi",
+      "current_heading": "Ruth Naomi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Bitya Moses",
+    "candidates": [
+      "Bitya Moses",
+      "Support & Teach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Rabbi Yo\u1e25anan's proof from Chronicles regarding Bithiah/Bitya raising Moses, which is exactly what the prose under 'Bitya Moses' discusses.",
+      "chosen_heading": "Bitya Moses",
+      "current_heading": "Bitya Moses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Support & Teach",
+    "candidates": [
+      "Support & Teach",
+      "Torah Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Joseph sustaining (financially supporting) the children of Israel, which matches the 'Support & Teach' section's prose discussing how kilkul (sustenance/financial support) earns one the status of a parent \u2014 not the Torah Teaching section.",
+      "chosen_heading": "Support & Teach",
+      "current_heading": "Support & Teach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Torah Teaching",
+    "candidates": [
+      "Torah Teaching",
+      "Joseph & Jacob"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about teaching Torah being credited as if one sired the student, using the Aharon/Moshe example \u2014 exactly what the 'Torah Teaching' section's prose discusses.",
+      "chosen_heading": "Torah Teaching",
+      "current_heading": "Torah Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Joseph & Jacob",
+    "candidates": [
+      "Joseph & Jacob",
+      "Name Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Joseph & Jacob' directly discusses Rav Yehuda's teaching about Jacob redeeming Abraham from the suffering of raising children, which is exactly what this passage contains.",
+      "chosen_heading": "Joseph & Jacob",
+      "current_heading": "Joseph & Jacob",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Name Meaning",
+    "candidates": [
+      "Name Meaning",
+      "Sword Between"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the name explanation (Palti/Paltiel) and the sword detail together, but the current heading 'Name Meaning' and its prose explicitly introduces both elements including the sword, while heading 1 'Sword Between' covers the continuation and aftermath \u2014 the passage as a single item containing both the name derivation and the sword action best matches the current placement under 'Name Meaning' where the prose already addresses both aspects.",
+      "chosen_heading": "Name Meaning",
+      "current_heading": "Name Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Sword Between",
+    "candidates": [
+      "Sword Between",
+      "Trial Compare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the questions about Palti being called Michal's husband, his weeping, and the word Bahurim \u2014 all of which are explicitly discussed in the 'Sword Between' prose section.",
+      "chosen_heading": "Sword Between",
+      "current_heading": "Sword Between",
+      "moved": false
+    }
+  }
+]

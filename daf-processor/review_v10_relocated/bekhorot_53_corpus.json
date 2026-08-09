@@ -1,0 +1,239 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Mixing Animals",
+    "candidates": [
+      "Why in Bechorot",
+      "Tosafot's Triad",
+      "Eating w/ Blemish",
+      "Applies Everywhere",
+      "Counting Requirement",
+      "Rosh Chodesh Elul",
+      "Mixing Animals",
+      "Year Separation",
+      "Kilayim Argument",
+      "Torah's Generic Use",
+      "R. Akiva's Pasuk"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Applies Everywhere",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishnah establishing that ma'aser behema applies in Eretz Yisrael and outside it, bifnei habayit and shelo bifnei habayit, in chullin but not mukdashim \u2014 exactly what candidate 3 'Applies Everywhere' discusses.",
+      "second_heading": "Kilayim Argument",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the kilayim argument from the Mishnah \u2014 that one might have thought sheep and goats should not be counted together precisely because they are kilayim with each other \u2014 which is exactly what candidate 8 'Kilayim Argument' discusses.",
+      "current_heading": "Mixing Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "R. Akiva's Pasuk",
+    "candidates": [
+      "Year Separation",
+      "Kilayim Argument",
+      "Torah's Generic Use",
+      "R. Akiva's Pasuk",
+      "Agricultural Economy",
+      "Diaspora Evidence",
+      "Sanctify Not Offer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text raising the potential conflict with Rabbi Akiva's opinion and citing the baraita about bringing animal tithe from outside Israel, which is precisely what the prose under 'R. Akiva's Pasuk' describes.",
+      "chosen_heading": "R. Akiva's Pasuk",
+      "current_heading": "R. Akiva's Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Sanctify Not Offer",
+    "candidates": [
+      "Agricultural Economy",
+      "Diaspora Evidence",
+      "Sanctify Not Offer",
+      "Orphan Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address the Gemara's reconciliation of Rabbi Akiva's position with the Mishnah (distinguishing lehakriv from lekadesh) and the subsequent question of why consecration applies if the animal cannot be offered \u2014 precisely the content described in the 'Sanctify Not Offer' prose.",
+      "chosen_heading": "Sanctify Not Offer",
+      "current_heading": "Sanctify Not Offer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Orphan Animal",
+    "candidates": [
+      "Orphan Animal",
+      "Stumbling Block",
+      "Takala Response",
+      "No Sanctifying Today",
+      "Me'ila Concern",
+      "Destruction Methods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Orphan Animal",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with the yasom/orphan animal decree and the announcement counter-argument, which is precisely what the 'Orphan Animal' section's prose discusses, ending with a note that the gemara will address why these concerns didn't apply when the Temple stood.",
+      "second_heading": "Stumbling Block",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rabba's takala reasoning and cites the baraita about not consecrating items today, which is exactly what the 'Stumbling Block' section's prose discusses as the real concern replacing the orphan/announcement debate.",
+      "current_heading": "Orphan Animal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Destruction Methods",
+    "candidates": [
+      "Stumbling Block",
+      "Takala Response",
+      "No Sanctifying Today",
+      "Me'ila Concern",
+      "Destruction Methods",
+      "Ethical Questions",
+      "Transfer Kedusha",
+      "Bechor Auto Sanctify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the destruction methods prescribed by the baraita for inadvertently sanctified objects (animals locked to die, produce left to rot, money cast into the Dead Sea), which is precisely what the 'Destruction Methods' section's prose discusses.",
+      "chosen_heading": "Destruction Methods",
+      "current_heading": "Destruction Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Bechor Auto Sanctify",
+    "candidates": [
+      "Ethical Questions",
+      "Transfer Kedusha",
+      "Bechor Auto Sanctify",
+      "Create Blemish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the automatic sanctification of bechor through the womb and the suggestion to sell ears to gentiles before birth \u2014 exactly what the 'Bechor Auto Sanctify' section's prose describes.",
+      "chosen_heading": "Bechor Auto Sanctify",
+      "current_heading": "Bechor Auto Sanctify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Create Blemish",
+    "candidates": [
+      "Create Blemish",
+      "Blemish Benefits",
+      "Tosafot's View",
+      "Which Is Tenth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Yehuda ruling about inflicting a blemish before birth and the immediate Gemara challenge about applying this to ma'aser, which is exactly what the 'Create Blemish' section's prose describes as the Gemara's response using the Rav Yehuda solution.",
+      "chosen_heading": "Create Blemish",
+      "current_heading": "Create Blemish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Which Is Tenth",
+    "candidates": [
+      "Blemish Benefits",
+      "Tosafot's View",
+      "Which Is Tenth",
+      "Blanket Blemish",
+      "Future Temple Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of which animal will emerge as the tenth and the impossibility of pre-blemishing it, which is exactly what the 'Which Is Tenth' section prose describes.",
+      "chosen_heading": "Which Is Tenth",
+      "current_heading": "Which Is Tenth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Future Temple Need",
+    "candidates": [
+      "Blanket Blemish",
+      "Future Temple Need",
+      "Purchased Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'bimherah yibaneh beis hamikdash' objection to blanket blemishing and its application/limitation regarding firstborn animals, which is precisely what the 'Future Temple Need' prose describes.",
+      "chosen_heading": "Future Temple Need",
+      "current_heading": "Future Temple Need",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Purchased Animals",
+    "candidates": [
+      "Purchased Animals",
+      "Do Nothing Best",
+      "Resume When Ready"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge and response about purchased animals (likuchim) and explains why blemishing renders even purchased animals insufficient \u2014 exactly what the 'Purchased Animals' prose discusses.",
+      "chosen_heading": "Purchased Animals",
+      "current_heading": "Purchased Animals",
+      "moved": false
+    }
+  }
+]

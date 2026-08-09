@@ -1,0 +1,394 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Five Coal Rules",
+    "candidates": [
+      "39 Melachos Context",
+      "Tchumim on Yom Tov",
+      "Coal vs. Flame",
+      "Flame Nature",
+      "Hekdesh Coal & Flame",
+      "Carrying Fire",
+      "Five Coal Rules",
+      "Avodah Zarah Fire"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Coal vs. Flame",
+      "first_confidence": "high",
+      "first_reason": "The Mishnah (item 1) introduces the fundamental coal vs. flame distinction covering tchumim, hekdesh, and carrying \u2014 exactly what heading 2 'Coal vs. Flame' describes as the Mishnah's opening fundamental distinction.",
+      "second_heading": "Five Coal Rules",
+      "second_confidence": "high",
+      "second_reason": "The Gemara (item 2) presents the Tosefta's five rules about coal and flame, which is precisely what heading 6 'Five Coal Rules' describes as a Tosefta compiling five parallel rules about the gachelet.",
+      "current_heading": "Five Coal Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Avodah Zarah Fire",
+    "candidates": [
+      "Avodah Zarah Fire",
+      "Hekdesh vs. AZ",
+      "Flame Transport"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's resolution of the avodah zarah/hekdesh asymmetry \u2014 explaining that AZ is repulsive so no rabbinic decree was needed, while hekdesh is not repulsive so a gezeirah was enacted \u2014 which is precisely what candidate 1 ('Hekdesh vs. AZ') describes in its prose.",
+      "chosen_heading": "Hekdesh vs. AZ",
+      "current_heading": "Avodah Zarah Fire",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Flame Transport",
+    "candidates": [
+      "Hekdesh vs. AZ",
+      "Flame Transport",
+      "Oil & Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the coal/flame Shabbat liability discussion \u2014 the baraita contradiction resolved by Rav Sheshet (item 1) and the follow-up question about the wooden chip's own shiur (item 2) \u2014 which is precisely what the 'Flame Transport' prose describes.",
+      "chosen_heading": "Flame Transport",
+      "current_heading": "Flame Transport",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Oil & Vessel",
+    "candidates": [
+      "Oil & Vessel",
+      "Flame Exemption",
+      "Blown Flame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's case of smearing oil on a vessel and lighting it, which is exactly what the 'Oil & Vessel' section prose discusses.",
+      "chosen_heading": "Oil & Vessel",
+      "current_heading": "Oil & Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Blown Flame",
+    "candidates": [
+      "Flame Exemption",
+      "Blown Flame",
+      "Three Well Types",
+      "Private vs. City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution sequence about what scenario produces the Mishnah's flame exemption \u2014 exactly what 'Flame Exemption' prose describes \u2014 not the elaboration on the blown-flame mechanism that 'Blown Flame' discusses.",
+      "chosen_heading": "Flame Exemption",
+      "current_heading": "Blown Flame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Private vs. City",
+    "candidates": [
+      "Three Well Types",
+      "Private vs. City",
+      "Olei Bavel Wells",
+      "Breira & Filling",
+      "Rava's Question",
+      "Flowing Water",
+      "Collected Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself introducing all three categories of cisterns, which matches heading 0 ('Three Well Types') whose prose explicitly describes this Mishnah as 'introducing a parallel set of rules about wells' with 'three categories distinguished.'",
+      "chosen_heading": "Three Well Types",
+      "current_heading": "Private vs. City",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Collected Water",
+    "candidates": [
+      "Olei Bavel Wells",
+      "Breira & Filling",
+      "Rava's Question",
+      "Flowing Water",
+      "Collected Water",
+      "Who Owns Water",
+      "Rav Nachman",
+      "Rav Sheshet",
+      "Hefker Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text of Rava's contradiction between the mishna (private cistern) and the baraita (flowing rivers/springs), which directly matches the 'Rava's Question' section prose describing exactly this contradiction.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Collected Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Hefker Principle",
+    "candidates": [
+      "Who Owns Water",
+      "Rav Nachman",
+      "Rav Sheshet",
+      "Hefker Principle",
+      "Hefker vs. Shutafut",
+      "Vow Scenario",
+      "City Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Mishnah's ruling on the olei Bavel cistern and the amora'ic dispute about who fills for whom \u2014 exactly the scenario the 'Who Owns Water' prose sets up by asking what happens when one fills water from such a well for someone else.",
+      "chosen_heading": "Who Owns Water",
+      "current_heading": "Hefker Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "City Property",
+    "candidates": [
+      "Hefker vs. Shutafut",
+      "Vow Scenario",
+      "City Property",
+      "Olei Bavel Permitted",
+      "Olei Bavel Examples",
+      "City Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rava challenging Rav Na\u1e25man with the mishna about 'hareini alecha cherem,' which is precisely the vow scenario described in candidate 1's prose about the mudar hana'ah challenge to Rav Nachman.",
+      "chosen_heading": "Vow Scenario",
+      "current_heading": "City Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "City Examples",
+    "candidates": [
+      "Olei Bavel Permitted",
+      "Olei Bavel Examples",
+      "City Examples",
+      "Partnership Logic",
+      "Breira Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Olei Bavel Permitted",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Mishnaic rule about mutual \u1e25erem prohibition and the permitted/forbidden distinction between olei Bavel and city property, which is precisely the content discussed in the 'Olei Bavel Permitted' section's prose.",
+      "second_heading": "Olei Bavel Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 2 enumerates the specific examples of olei Bavel property (Temple Mount, chambers, courtyards, cistern) and city property (street, synagogue, bathhouse), matching exactly the 'Olei Bavel Examples' prose which discusses those same enumerated items.",
+      "current_heading": "City Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Breira Logic",
+    "candidates": [
+      "Partnership Logic",
+      "Breira Logic",
+      "Water Apportionment",
+      "Rav Nachman Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's challenge that if the cistern were a shutafut (partnership), it should be forbidden just as jointly owned property is forbidden \u2014 this is precisely the 'Partnership Logic' argument that the well being permitted implies it is not a partnership, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Partnership Logic",
+      "current_heading": "Breira Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Nachman Position",
+    "candidates": [
+      "Water Apportionment",
+      "Rav Nachman Position",
+      "Brothers' Estate",
+      "Obligations Differ"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the distinction between washing (using the shared cistern as a whole) and drawing/filling water (where breira applies so each fills from his own portion), which is precisely the content of the 'Water Apportionment' section's prose about drawing discrete quantities via breira.",
+      "chosen_heading": "Water Apportionment",
+      "current_heading": "Rav Nachman Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Obligations Differ",
+    "candidates": [
+      "Brothers' Estate",
+      "Obligations Differ",
+      "Rav Anan View",
+      "Even Division",
+      "Rav Nachman View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the Gemara's challenge to Rav Na\u1e25man's position using the mishna about brothers' estates (items 1\u20132) and Rav Anan's qualification (items 3\u20134), which is precisely what heading 0 ('Brothers' Estate') describes \u2014 the questioning of whether Rav Na\u1e25man holds yesh breira via the achim hashutafim mishna and its practical consequences in ma'aser behemah and kalbon.",
+      "chosen_heading": "Brothers' Estate",
+      "current_heading": "Obligations Differ",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rav Nachman View",
+    "candidates": [
+      "Rav Anan View",
+      "Even Division",
+      "Rav Nachman View",
+      "No Reconstitution",
+      "Well is Hefker",
+      "Filled for Other",
+      "Magbia Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's statement that even an even division (kids against kids, lambs against lambs) does not admit breira, which is precisely what the 'Rav Nachman View' prose describes.",
+      "chosen_heading": "Rav Nachman View",
+      "current_heading": "Rav Nachman View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Magbia Dispute",
+    "candidates": [
+      "No Reconstitution",
+      "Well is Hefker",
+      "Filled for Other",
+      "Magbia Dispute",
+      "Tosafot Resolution",
+      "Two-City Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly states that everyone agrees the well is hefker and that the dispute is about magbia metzia l'chavero \u2014 exactly what the 'Magbia Dispute' section's prose describes as the Gemara's explanation of the Rav Nachman/Rav Sheshet disagreement.",
+      "chosen_heading": "Magbia Dispute",
+      "current_heading": "Magbia Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Two-City Setup",
+    "candidates": [
+      "Tosafot Resolution",
+      "Two-City Setup",
+      "Fruit Transport Ban",
+      "Eruv Solution",
+      "Guest Gift Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishna passage introduces the two-city scenario (owner in one city, produce in another, residents wishing to bring the produce), which precisely matches the 'Two-City Setup' prose description of that introductory scenario.",
+      "chosen_heading": "Two-City Setup",
+      "current_heading": "Two-City Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Guest Gift Rules",
+    "candidates": [
+      "Fruit Transport Ban",
+      "Eruv Solution",
+      "Guest Gift Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the rule about invited guests carrying food portions back, matching exactly the 'Guest Gift Rules' section's prose about transferring ownership before yom tov (zachah lahem manoteihem me'erev yom tov).",
+      "chosen_heading": "Guest Gift Rules",
+      "current_heading": "Guest Gift Rules",
+      "moved": false
+    }
+  }
+]

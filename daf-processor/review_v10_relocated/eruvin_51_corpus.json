@@ -1,0 +1,371 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Outside City Scenario",
+      "Silent Designation",
+      "Where from 2000?",
+      "Biblical Source",
+      "Four vs Two-Thousand",
+      "Daisy Chain Link",
+      "Chain Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question 'where are these two thousand cubits written?' which is precisely what the 'Where from 2000?' section's prose describes as the Gemara's fundamental question (*hani alpaim amah heichan ksivan*), making it a clear match for that heading rather than 'Biblical Source' which discusses the answer.",
+      "chosen_heading": "Where from 2000?",
+      "current_heading": "Biblical Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Chain Process",
+    "candidates": [
+      "Four vs Two-Thousand",
+      "Daisy Chain Link",
+      "Chain Process",
+      "2000 vs 1000"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items address exactly the question raised in candidate 3's prose: why the chain links to the two-thousand-amah verse via 'chutz' rather than to the one-thousand-amah verse via 'chutza', which is precisely what item 2 resolves by stating that one derives 'chutz' from 'chutz' but not from 'chutza'.",
+      "chosen_heading": "2000 vs 1000",
+      "current_heading": "Chain Process",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "2000 vs 1000",
+    "candidates": [
+      "Chain Process",
+      "2000 vs 1000",
+      "Precise Matching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the school of Rabbi Yishmael's teaching about 'veshav hakohen' and 'uva hakohen' as evidence that imprecise verbal matches are acceptable in a gezeirah shavah, which is exactly what the prose of candidate 1 ('2000 vs 1000') describes and cites.",
+      "chosen_heading": "2000 vs 1000",
+      "current_heading": "2000 vs 1000",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Precise Matching",
+    "candidates": [
+      "Precise Matching",
+      "Mishnah Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that when a precisely matching term exists one derives from it rather than an imprecise match, which is exactly what the prose under 'Precise Matching' explains and elaborates upon.",
+      "chosen_heading": "Precise Matching",
+      "current_heading": "Precise Matching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Mishnah Positions",
+    "candidates": [
+      "Mishnah Positions",
+      "Circle Position",
+      "Square Position",
+      "Chanina's Derivation",
+      "Corners Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma about Rabbi Chanina ben Antignos's circular position \u2014 if he accepts the gezeirah shavah he should accept the square implied by pe'ah, and if he doesn't he has no source for two thousand cubits \u2014 which is precisely what section 3 'Chanina's Derivation' describes in its prose.",
+      "chosen_heading": "Chanina's Derivation",
+      "current_heading": "Mishnah Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Corners Limited",
+    "candidates": [
+      "Circle Position",
+      "Square Position",
+      "Chanina's Derivation",
+      "Corners Limited",
+      "Sages' Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's resolution 'le'olam is lei gezeirah shavah' and the inference from 'zeh yihyeh lahem migrashei he'arim' that corners are given to Levites but not to Shabbos observers, which is precisely what heading 3 ('Corners Limited') describes in its prose.",
+      "chosen_heading": "Corners Limited",
+      "current_heading": "Corners Limited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Sages' Response",
+    "candidates": [
+      "Sages' Response",
+      "Compass Orientation",
+      "Manhattan Example",
+      "Carrying Distance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Sages' (Rabbis') response via Rav \u1e24ananya's baraita, directly matching the prose description of Rabbi Chananya's reading of 'ke-zeh yihyu kol shovsei Shabbos' as expansive rather than limiting.",
+      "chosen_heading": "Sages' Response",
+      "current_heading": "Sages' Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Carrying Distance",
+    "candidates": [
+      "Compass Orientation",
+      "Manhattan Example",
+      "Carrying Distance",
+      "Pole Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Ya'akov's teaching about carrying four cubits plus their diagonal, which is precisely what the 'Carrying Distance' section's prose describes and contextualizes.",
+      "chosen_heading": "Carrying Distance",
+      "current_heading": "Carrying Distance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Pole Question",
+    "candidates": [
+      "Pole Question",
+      "Diagonal Discovery",
+      "Three Views",
+      "Direction Dependent",
+      "Rashi's View",
+      "Reshut HaYachid",
+      "City Boundaries",
+      "Poor Person Eruv",
+      "Nachman's View",
+      "Meir's Position",
+      "Meir's Rationale",
+      "Yehuda's Position",
+      "Nachman Clarifies",
+      "Stuck Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's question about whether a pillar in the public domain requires the diagonal measurement, which is precisely what the 'Pole Question' section's prose discusses.",
+      "chosen_heading": "Pole Question",
+      "current_heading": "Pole Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Stuck Only",
+    "candidates": [
+      "Diagonal Discovery",
+      "Three Views",
+      "Direction Dependent",
+      "Rashi's View",
+      "Reshut HaYachid",
+      "City Boundaries",
+      "Poor Person Eruv",
+      "Nachman's View",
+      "Meir's Position",
+      "Meir's Rationale",
+      "Yehuda's Position",
+      "Nachman Clarifies",
+      "Stuck Only",
+      "Parsing Mishnah",
+      "Distant Place Debate",
+      "Yehuda Allows Rich",
+      "Rich Person Can",
+      "Contrast Consensus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Parsing Mishnah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 present Rav Nachman's interpretation and the Gemara's parsing of the Mishna's language (ve-zo-hi she-amru, eino makir, lo amru me'arvin be-pas ela le-hakeil) to confirm his reading, matching heading 13's description exactly.",
+      "second_heading": "Contrast Consensus",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 present Rav Chisda's view on what is agreed upon (bimkomi, divrei hakol echad ani ve-echad ashir) and parse the Mishna under his framework, matching heading 17's description of Rav Chisda's reading and the consensus case.",
+      "current_heading": "Stuck Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Contrast Consensus",
+    "candidates": [
+      "Parsing Mishnah",
+      "Distant Place Debate",
+      "Yehuda Allows Rich",
+      "Rich Person Can",
+      "Contrast Consensus",
+      "Puzzle Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This baraita explicitly supports Rav Nachman's reading of the dispute \u2014 that Rabbi Meir limits eiruv by foot to one who was traveling and caught by dark, while Rabbi Yehuda holds it is the primary form open to all \u2014 which is precisely what the 'Parsing Mishnah' section describes as Rav Nachman's interpretation of the Mishna's language.",
+      "chosen_heading": "Parsing Mishnah",
+      "current_heading": "Contrast Consensus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Puzzle Explained",
+    "candidates": [
+      "Puzzle Explained",
+      "Two Houses Resolve"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Houses Resolve",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about the Memel/Guryon families distributing food to paupers who walked to the techum boundary \u2014 this illustrates establishing an eiruv by foot, which resolves a difficulty and belongs under 'Two Houses Resolve' as supporting material for Rav Huna's resolution.",
+      "second_heading": "Puzzle Explained",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's precise reading of the Mishna about a person turned back en route \u2014 this is exactly the puzzle the 'Puzzle Explained' prose describes (why the individual has greater range than the townspeople), matching that section's content directly.",
+      "current_heading": "Puzzle Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Two Houses Resolve",
+    "candidates": [
+      "Two Houses Resolve",
+      "Traveler Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Huna's resolution about two houses and two Shabbat limits between them, which is precisely what the 'Two Houses Resolve' section's prose describes.",
+      "chosen_heading": "Two Houses Resolve",
+      "current_heading": "Two Houses Resolve",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Traveler Status",
+    "candidates": [
+      "Traveler Status",
+      "Different Status",
+      "Inference From Text",
+      "Rabbah's Practice",
+      "Abaye's Challenge",
+      "Nachman Restated",
+      "Retraction",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states that the traveler became 'hava lei ani' \u2014 acquired pauper status \u2014 because he set out on his way, which directly corresponds to the 'Traveler Status' section's discussion of how departing on a journey confers the legal status of an ani.",
+      "chosen_heading": "Traveler Status",
+      "current_heading": "Traveler Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Final Resolution",
+    "candidates": [
+      "Different Status",
+      "Inference From Text",
+      "Rabbah's Practice",
+      "Abaye's Challenge",
+      "Nachman Restated",
+      "Retraction",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Rabbah's Practice",
+      "first_confidence": "low",
+      "first_reason": "Items 1-5 span multiple headings covering the inference from the Mishna through Rabba bar Rav \u1e24anan's retraction, so this is itself a multi-section block best placed at the earliest relevant heading.",
+      "second_heading": "Final Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 6 introduces Rami bar \u1e24ama's entirely new question about whether one who deposits an eiruv receives four cubits, which is a structurally new topic matching the 'Final Resolution' section's discussion of concluding the sugya.",
+      "current_heading": "Final Resolution",
+      "moved": true
+    }
+  }
+]

@@ -29,8 +29,8 @@
           "timestamp": "03:05"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Non-Binding Neder Formulations with Korban: Linguistic Analysis of Invalid Vows",
@@ -58,7 +58,7 @@
           "timestamp": "08:18"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -197,7 +197,7 @@
           "timestamp": "54:01"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -216,8 +216,8 @@
           "timestamp": "55:02"
         }
       ],
-      "sefaria_index": 16,
-      "matched": false
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Abaye's Distinction: Neder Changes Object Status vs. Shevuah Direct Prohibition of Actions (continued)",
@@ -230,7 +230,7 @@
           "timestamp": "56:58"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 17,
       "matched": false
     },
     {
@@ -259,7 +259,7 @@
           "timestamp": "57:25"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 17,
       "matched": false
     }
   ],
@@ -768,9 +768,9 @@
     }
   ],
   "amud_b_sefaria_index": 11,
-  "amud_b_segment_index": 7,
-  "amud_b_timestamp": "54:01",
-  "amud_b_micro_title": "Rava Objection",
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "33:39",
+  "amud_b_micro_title": "Biblical vs. Rabbinic",
   "shiur_start_daf": 16,
   "shiur_start_amud": "a"
 }

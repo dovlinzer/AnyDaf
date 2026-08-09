@@ -1,0 +1,202 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "R. Eliezer's Rule",
+    "candidates": [
+      "Return & New Perek",
+      "Definition to Annulment",
+      "R. Eliezer's Rule",
+      "Ran: Disgrace Parents",
+      "Rashi: Bad Things Heard",
+      "Vows in Practice",
+      "Tosafot: Child's Shame",
+      "R. Tzadok: Reductio",
+      "Kavod HaMakom",
+      "Universal Petach Problem",
+      "Policy Reasons",
+      "Chachamim Concede Parents",
+      "R. Eliezer Nolad",
+      "Mega Millions Example",
+      "Nolad Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Eliezer's Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah presenting Rabbi Eliezer's rule about opening with honor of father and mother, which matches the 'R. Eliezer's Rule' section prose exactly.",
+      "second_heading": "R. Tzadok: Reductio",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Tzadok's reductio ad absurdum argument followed by the Rabbis' concession, which matches the 'R. Tzadok: Reductio' section prose exactly.",
+      "current_heading": "R. Eliezer's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Nolad Examples",
+    "candidates": [
+      "Ran: Disgrace Parents",
+      "Rashi: Bad Things Heard",
+      "Vows in Practice",
+      "Tosafot: Child's Shame",
+      "R. Tzadok: Reductio",
+      "Kavod HaMakom",
+      "Universal Petach Problem",
+      "Policy Reasons",
+      "Chachamim Concede Parents",
+      "R. Eliezer Nolad",
+      "Mega Millions Example",
+      "Nolad Examples",
+      "Chachamim Reject Nolad",
+      "Expected vs. Unexpected",
+      "Abaye: Dishonesty",
+      "Ran Explains Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "Both items present the specific mishna examples of nolad \u2014 the sofer, the son's wedding, and the house becoming a synagogue \u2014 which is precisely what the prose under 'Nolad Examples' (index 11) describes.",
+      "chosen_heading": "Nolad Examples",
+      "current_heading": "Nolad Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Ran Explains Abaye",
+    "candidates": [
+      "Chachamim Reject Nolad",
+      "Expected vs. Unexpected",
+      "Abaye: Dishonesty",
+      "Ran Explains Abaye",
+      "Rava: Beit Din Undermined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text introducing Abaye's statement ('vows are not dissolved properly'), which directly corresponds to the prose in section 2 ('Abaye: Dishonesty') that quotes and introduces this exact Abaye statement as the topic of discussion.",
+      "chosen_heading": "Abaye: Dishonesty",
+      "current_heading": "Ran Explains Abaye",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rava: Beit Din Undermined",
+    "candidates": [
+      "Ran Explains Abaye",
+      "Rava: Beit Din Undermined",
+      "Exception Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that if such a universal petach existed, no one would bother coming to a chacham for vow dissolution, which is precisely what the 'Rava: Beit Din Undermined' section discusses.",
+      "chosen_heading": "Rava: Beit Din Undermined",
+      "current_heading": "Rava: Beit Din Undermined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Exception Permitted",
+    "candidates": [
+      "Exception Permitted",
+      "Rav Chisda Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rabbis' concession to Rabbi Eliezer regarding vows between a person and his parents, analyzing how this fits with Abaye's and Rava's positions respectively \u2014 exactly what the 'Exception Permitted' prose describes.",
+      "chosen_heading": "Exception Permitted",
+      "current_heading": "Exception Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rav Chisda Verse",
+    "candidates": [
+      "Rav Chisda Verse",
+      "Rabanan Challenge",
+      "R. Yochanan ID"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24isda's verse-based proof for Rabbi Eliezer's ruling on nolad, which is exactly what the 'Rav Chisda Verse' section's prose describes.",
+      "chosen_heading": "Rav Chisda Verse",
+      "current_heading": "Rav Chisda Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "R. Yochanan ID",
+    "candidates": [
+      "Rabanan Challenge",
+      "R. Yochanan ID",
+      "Reish Lakish: Poor=Death",
+      "Four Categories",
+      "Ani (Poor)",
+      "Metzora (Leper)",
+      "Suma (Blind)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the Rabbinic challenge (did they actually die?) and Reish Lakish's resolution (they became poor), but the opening question 'what is the Rabbis' reason' aligns most closely with the 'Rabanan Challenge' heading, with the Reish Lakish conclusion flowing naturally from that challenge \u2014 though candidate 2 also covers part of the content.",
+      "chosen_heading": "Rabanan Challenge",
+      "current_heading": "R. Yochanan ID",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Suma (Blind)",
+    "candidates": [
+      "Reish Lakish: Poor=Death",
+      "Four Categories",
+      "Ani (Poor)",
+      "Metzora (Leper)",
+      "Suma (Blind)",
+      "Blindness vs. Other",
+      "Childless"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yehoshua ben Levi's statement about the childless being like dead, then presents the full baraita listing all four categories (poor, leper, blind, childless) with their proof texts \u2014 this entire unit belongs under the 'Four Categories' heading which introduces the baraita as a whole, not under any single category's heading.",
+      "chosen_heading": "Four Categories",
+      "current_heading": "Suma (Blind)",
+      "moved": true
+    }
+  }
+]

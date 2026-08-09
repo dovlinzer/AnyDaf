@@ -1,12 +1,13 @@
-# Bava Batra 66 — Daf Yomi Shiur
-
+[DAF:65b]
 ## Itztroblin & Rainwater
 
+
+
+[DAF:66b]
 ### Rainwater & Intent
 
-> **Hebrew/Aramaic:** בָּעֵי רַב יוֹסֵף: מֵי גְשָׁמִים שֶׁחִשֵּׁב עֲלֵיהֶם לְהַדִּיחַ אֶת הָאִיצְטְרוֹבְלִין, מַהוּ לִזְרָעִים?
->
-> **Translation:** **Rav Yosef raises a dilemma:** With regard to **rainwater** that was falling and the owner consciously **desired** that it should fall **so that it would wash** his immovable **lower millstones, what is** the *halakha* **with regard to the seeds** in the millstones? The verse "But if any water be put upon the seed…it shall be unclean to you" (Leviticus 11:38) teaches that seeds and other food become susceptible to ritual purity only after they have been detached from the ground, and water, or another of the seven liquids specified in the mishna (*Makhshirin* 6:4), has been put on them. The food must be exposed to the liquid willfully by the owner; that is, he must desire or at least be pleased that the food should become wet. Rav Yosef asks about a case where the owner wants the rain to fall on the millstones: Does that water make the seeds upon which it falls susceptible to ritual impurity?
+> **Hebrew/Aramaic:** בָּעֵי רַב יוֹסֵף: מֵי גְשָׁמִים שֶׁחִשֵּׁב עֲלֵיהֶם לְהַדִּיחַ אֶת הָאִיצְטְרוֹבְלִין, מַהוּ לִזְרָעִים?
+> **Translation:** § **Rav Yosef raises a dilemma:** With regard to **rainwater** that was falling and the owner consciously **desired** that it should fall **so that it would wash** his immovable **lower millstones, what is** the *halakha* **with regard to the seeds** in the millstones? The verse “But if any water be put upon the seed…it shall be unclean to you” (Leviticus 11:38) teaches that seeds and other food become susceptible to ritual purity only after they have been detached from the ground, and water, or another of the seven liquids specified in the mishna (*Makhshirin* 6:4), has been put on them. The food must be exposed to the liquid willfully by the owner; that is, he must desire or at least be pleased that the food should become wet. Rav Yosef asks about a case where the owner wants the rain to fall on the millstones: Does that water make the seeds upon which it falls susceptible to ritual impurity?
 
 The daf opens by wrapping up the broad debate between Rabbi Eliezer and the *chachamim* concerning the principle of *chakkaku ulbesof chibru* — the question of whether an object that existed as a vessel and was subsequently attached to the ground retains its status as a *kli* or assumes the status of *karka*. That debate was explored in the previous session across several *halachot*: whether the attached object is sold together with a house, whether it is *mekabel tumah*, whether it renders a *mikvah* valid, and so on. The Gemara now applies this same conceptual framework to a new *halachah* concerning rainwater.
 
@@ -24,15 +25,16 @@ The answer, as *Tosafot* explains, is that the *itztroblin* occupies a genuinely
 
 ### Rabbi Eliezer & Rabbis
 
-> **Hebrew/Aramaic:** אַלִּיבָּא דְּרַבִּי אֱלִיעֶזֶר, דְּאָמַר: כׇּל הַמְחוּבָּר לַקַּרְקַע – הֲרֵי הוּא כַּקַּרְקַע, לָא תִּיבְּעֵי לָךְ; כִּי תִּיבְּעֵי לָךְ – אַלִּיבָּא דְּרַבָּנַן, דְּאָמְרִי: אֵינוֹ כַּקַּרְקַע. מַאי? תֵּיקוּ.
->
-> **Translation:** The Gemara clarifies Rav Yosef's question: **Do not raise this dilemma according to** the opinion **of Rabbi Eliezer, who says: Anything attached to the ground** has the same legal status **as the ground.** Since the lower millstones are attached to the ground, they therefore have the same legal status as the ground, and water that falls on the ground, even if it is pleasing to the owner, does not make food susceptible to ritual impurity. **When should you raise this dilemma?** Raise it **according to** the opinion **of the Rabbis, who say:** It does **not** have the same legal status **as the ground. What** is the *halakha* with respect to imparting susceptibility to ritual impurity? The Gemara concludes: An answer to this question was not found; therefore, the dilemma **shall stand** unresolved.
+> **Hebrew/Aramaic:** אַלִּיבָּא דְּרַבִּי אֱלִיעֶזֶר, דְּאָמַר: כׇּל הַמְחוּבָּר לַקַּרְקַע – הֲרֵי הוּא כַּקַּרְקַע, לָא תִּיבְּעֵי לָךְ; כִּי תִּיבְּעֵי לָךְ – אַלִּיבָּא דְּרַבָּנַן, דְּאָמְרִי: אֵינוֹ כַּקַּרְקַע. מַאי? תֵּיקוּ.
+> **Translation:** The Gemara clarifies Rav Yosef’s question: **Do not raise this dilemma according to** the opinion **of Rabbi Eliezer, who says: Anything attached to the ground** has the same legal status **as the ground.** Since the lower millstones are attached to the ground, they therefore have the same legal status as the ground, and water that falls on the ground, even if it is pleasing to the owner, does not make food susceptible to ritual impurity. **When should you raise this dilemma?** Raise it **according to** the opinion **of the Rabbis, who say:** It does **not** have the same legal status **as the ground. What** is the *halakha* with respect to imparting susceptibility to ritual impurity? The Gemara concludes: An answer to this question was not found; therefore, the dilemma **shall stand** unresolved.
 
 The Gemara resolves the question along predictable lines. According to Rabbi Eliezer, who holds that *kol hamechubar l'karka harei hu k'karka* — anything attached to the ground takes on the status of ground — the answer is clear: the *itztroblin* is ground, and no question arises. The question only applies according to the *rabbanan*, who generally maintain that a *kli* retains its status even after attachment. For them, the *itztroblin* may present a genuine ambiguity: is it treated like any other attached vessel, or is its fundamental orientation toward the ground sufficient to reclassify it as *karka* even for the *rabbanan*? The Gemara concludes with *teiku* — the question is left unresolved.
 
 ### Tosafot's Middle Category
 
 *Tosafot* illuminates the precise nature of the difficulty. The question in *Tosafot*'s framing is whether the *itztroblin*, which is considered subordinate to the ground (*batel l'gabei karka*) for purposes of a sale according to the *rabbanan*, is *fully* subordinate — like a wall — or whether that subordination applies only in the context of sales, while in other *halachic* domains it retains a measure of independent *kli* status.
+
+What makes the *itztroblin* a candidate for this middle category in the first place is precisely what distinguishes it from the shelf or the pipe. Those objects can exist and function whether or not they are attached to the ground; attachment is incidental to what they are. The *itztroblin*, by contrast, was made entirely for the sake of being attached to the ground and staying there — its entire functionality and purpose of being made is oriented toward the ground. It was never really designed to exist independent of the ground at all. That distinction is what opens the question: something whose very identity is constituted by its attachment to the ground may stand on a different footing than an ordinary vessel that happens to be fixed in place.
 
 *Tosafot* poses this as a two-sided possibility: either the *itztroblin* is *batel l'gamre kmo kotel* — fully subsumed into the ground like a wall, which would carry over to the laws of *hechsher zraim* (the susceptibility of grain to *tumah*) — or alternatively, perhaps it is not so fully attached for the purposes of *hechsher zraim*, and only in the context of sales (*mecher*) do we say it is included, as an application of *ayin yafa*.
 
@@ -50,11 +52,15 @@ This underscores a general point about the *halachot* of *mecher*: what is inclu
 
 ## Daughter's Dowry Case
 
+
+
 ### The Instruction
 
-> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב נְחֶמְיָה בְּרֵיהּ דְּרַב יוֹסֵף לְרַבָּה בְּרֵיהּ דְּרַב הוּנָא זוּטֵי, לִנְהַרְדְּעָא: כִּי אָתְיָא הָךְ אִיתְּתָא לְקַמָּךְ, אַגְבַּהּ עִישּׂוּר נִכְסֵי, אֲפִילּוּ מֵאִצְטְרוֹבְלֵי דְרֵיחַיִים.
->
-> **Translation:** **Rav Neḥemya, son of Rav Yosef, sent** a message **to Rabba son of Rav Huna the Short at Neharde'a: When this woman** bearing this letter **comes before you, collect for her one-tenth of** her father's **estate,** in keeping with the rabbinic ordinance that states that if a man dies, his sons are obligated to give his daughter a tenth of his landed properties as a dowry, and collect it **even from** his immovable **lower millstones,** as they too are considered landed property.
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב נְחֶמְיָה בְּרֵיהּ דְּרַב יוֹסֵף לְרַבָּה בְּרֵיהּ דְּרַב הוּנָא זוּטֵי, לִנְהַרְדְּעָא: כִּי אָתְיָא הָךְ אִיתְּתָא לְקַמָּךְ,
+> **Translation:** § **Rav Neḥemya, son of Rav Yosef, sent** a message **to Rabba son of Rav Huna the Short at Neharde’a: When this woman** bearing this letter **comes before you,**
+
+> **Hebrew/Aramaic:** אַגְבַּהּ עִישּׂוּר נִכְסֵי, אֲפִילּוּ מֵאִצְטְרוֹבְלֵי דְרֵיחַיִים. אָמַר רַב אָשֵׁי: כִּי הֲוֵינַן בֵּי רַב כָּהֲנָא, מַגְבֵּינַן אֲפִילּוּ מֵעַמְלָא דְבָתֵּי.
+> **Translation:** **collect for her one-tenth of** her father’s **estate,** in keeping with the rabbinic ordinance that states that if a man dies, his sons are obligated to give his daughter a tenth of his landed properties as a dowry, and collect it **even from** his immovable **lower millstones,** as they too are considered landed property. **Rav Ashi said: When we were** students **in Rav Kahana’s house we would collect** for this purpose **even from the rent of houses;** since this money is earned from real estate, it too has the status of landed property and is included in the dowry calculations.
 
 The Gemara now presents a new case. Rav Nechemiah the son of Rav Yosef sends word to Rabbah the son of Rav Huna Zuti in Neharde'a: when a certain woman comes before you, *agbei issur nichsei* — collect her tenth of the estate — *afilu me'itztrobla d'reichaya*, even from the *itztroblin* of the mill. The practical import is that for purposes of collecting from an estate, the *itztroblin* is to be treated as landed property.
 
@@ -76,15 +82,13 @@ The instruction of Rav Nechemiah is therefore significant: he directs that the d
 
 ### Rental Income Collection
 
-> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: כִּי הֲוֵינַן בֵּי רַב כָּהֲנָא, מַגְבֵּינַן אֲפִילּוּ מֵעַמְלָא דְבָתֵּי.
->
-> **Translation:** **Rav Ashi said: When we were** students **in Rav Kahana's house we would collect** for this purpose **even from the rent of houses;** since this money is earned from real estate, it too has the status of landed property and is included in the dowry calculations.
-
 Rav Ashi adds a further teaching: *ki havinan bei Rav Kahana*, when I was in the academy of Rav Kahana, he would collect the daughter's tenth even from *schar batim* — the rental income of the father's properties. The logic is that rent derives directly from land, and is therefore sufficiently connected to *karka* to be available for collection. This is a notable extension: the rent, when it is actually paid, is cash — *metaltelin* — yet Rav Kahana would nonetheless direct that it be collected for the daughter's dowry.
 
 ### Lien Attachment Timing
 
 *Tosafot* raises a pointed question about this ruling: at what moment exactly may the daughter collect the rent? If she comes to *beit din* after the rent has already been paid and is sitting as cash in the estate, it would seem to be pure *metaltelin* at that stage, with no lien available. If she comes before the rent is paid, then of course she can simply assert ownership over the land itself and collect its rental value going forward. The novel case, *Tosafot* explains, is where the daughter arrives in the middle of the rental month — the rent is not yet due until the end of the month. One might think she is entitled only to the pro-rated rent that accrues from the moment she asserts her claim. The *chidush* is the principle *ein sechirut mishtalemet ela l'basof* — rent is only due and payable at the conclusion of the rental period. Since the full month's rent has not yet been paid, the daughter who arrives mid-month has the right to the entire month's rent when it falls due at month's end, not merely a proportional share from the date she appeared before *beit din*.
+
+It is worth noting that while the rent she ultimately collects is cash, the tenth-of-the-estate calculation itself is determined by the value of the entire estate — landed property and *metaltelin* alike. The lien, however, attaches only to the *karka* portion; the *metaltelin*, even if they represent ninety percent of the estate's monetary value, are not subject to her claim. The tenth is computed against the whole, but collected only from the land.
 
 This also raises a deeper question about the critical moment at which the daughter's lien attaches and what assets it encumbers. The most logical answer — though one that would require further verification — is that the lien is determined as of the moment of the father's death: whatever was *karka* at that moment is encumbered, and whatever was *metaltelin* at that moment is not. A daughter could be seven years old when her father dies and only seek to collect her dowry fifteen years later; the estate's character at the time of death would govern which assets are available to her.
 
@@ -92,39 +96,33 @@ This also raises a deeper question about the critical moment at which the daught
 
 ## Courtyard Sale
 
-### What's Included
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַמּוֹכֵר אֶת הֶחָצֵר – מָכַר בָּתִּים, בּוֹרוֹת, שִׁיחִין וּמְעָרוֹת; אֲבָל לֹא אֶת הַמִּטַּלְטְלִין. בִּזְמַן שֶׁאָמַר לוֹ: ״הוּא וְכׇל מַה שֶּׁבְּתוֹכוֹ״ – הֲרֵי כּוּלָּן מְכוּרִין.
->
-> **Translation:** MISHNA: One **who sells a courtyard** without specifying what is included in the sale **has sold** with it **the houses, pits, ditches, and caves** found in the courtyard, **but** he has **not** sold **the movable property. When** the seller **says to** the buyer: I am selling you **it and everything that is in it, all these** components **are sold** along with the courtyard, even the movable property.
+
+### What's Included
 
 The Gemara now turns to a new *mishnah*: *hamocher et hachatzar* — one who sells a courtyard. The *chatzar* in this context is most naturally understood as a shared courtyard surrounded by multiple homes, all jointly accessed through a common yard. The *mishnah* rules: *machar batim boros shichin ume'aros* — the sale includes the houses, the wells, the cisterns, and all similar structures within the courtyard. The reasoning is that a *chatzar* is conceptualized as the whole ensemble — the yard together with everything that constitutes the residential complex. Unlike selling a single house, where a well is treated as a separate structure not automatically included, selling the courtyard sweeps in all structures that are part of the residential fabric.
 
-The exception for movable property (*metaltelin*) remains in force: furnishings, equipment, and personal items within the homes are not included in the sale of the *chatzar*, unless the seller explicitly says *hi v'chol mah sheb'tochah* — it and all its contents. When that broader language is used, the sale becomes truly comprehensive, including even items one might have considered personal property — dishes, furniture, household equipment — because the larger framing of the sale as an entire residential complex lends greater inclusivity to the term "contents" than would the same phrase applied to a single dwelling.
+The exception for movable property (*metaltelin*) remains in force: furnishings, equipment, and personal items within the homes are not included in the sale of the *chatzar*, unless the seller explicitly says *hi v'chol mah sheb'tochah* — it and all its contents. When that broader language is used, the sale becomes truly comprehensive, including even items one might have considered personal property — dishes, furniture, household equipment — because the larger framing of the sale as an entire residential complex lends greater inclusivity to the term "contents" than would the same phrase applied to a single dwelling. This is actually somewhat counterintuitive: one might expect that selling a single house and declaring all its contents included would be the more expansive formulation, since the focus is narrow and intimate, while declaring all the contents of an entire courtyard complex might seem more obviously rhetorical. But the rule runs the other way — the bigger the sale, the more weight the phrase "all its contents" carries, and the fewer personal exceptions are read into it. It is worth noting that this comprehensive scope applies only to what the seller actually owns within the homes; if the houses are rented out to tenants, the seller cannot convey the tenants' belongings, only whatever property of his own happens to remain inside.
 
 ### Separate Enterprises
-
-> **Hebrew/Aramaic:** בֵּין כָּךְ וּבֵין כָּךְ – לֹא מָכַר לֹא אֶת הַמֶּרְחָץ, וְלֹא אֶת בֵּית הַבַּד שֶׁבְּתוֹכָהּ.
->
-> **Translation:** **Both** in **this** case, where he executes the sale without specification, **and** in **that** case, where he adds the phrase that includes the movable property, **he has not sold the bathhouse, nor** has he sold **the olive press that is in** the courtyard, as each is an entity with a discrete purpose and not an integral part of the courtyard.
 
 Even when a seller uses the most expansive language — selling the *chatzar* with all its contents — one category of property is nonetheless excluded: *lo machar lo et hamerchataz velo et beit habad sheb'tochah* — the sale does not include a bathhouse or an olive press situated within the courtyard. These are treated as separate commercial enterprises rather than as features of residential living. A well, a cistern, even an inner room accessible only through the courtyard — these are part of the normal apparatus of dwelling in a place. But a bathhouse or an olive press is an independent enterprise: it may service the courtyard's residents or it may be rented out to others, but either way it has an economic existence that is not organically tied to the residential character of the *chatzar*. It stands apart and is not swept into the sale by the general term.
 
 ### Rabbi Eliezer's View
 
-> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר אוֹמֵר: הַמּוֹכֵר אֶת הֶחָצֵר – לֹא מָכַר אֶלָּא אֲוִירָהּ שֶׁל חָצֵר.
->
-> **Translation:** **Rabbi Eliezer says:** One **who sells a courtyard** without specifying what is included in the sale **has sold only the airspace,** i.e., the open space, **of the courtyard,** but nothing found in the courtyard, not even the houses.
+> **Hebrew/Aramaic:** מַתְנִי׳ הַמּוֹכֵר אֶת הֶחָצֵר – מָכַר בָּתִּים, בּוֹרוֹת, שִׁיחִין וּמְעָרוֹת; אֲבָל לֹא אֶת הַמִּטַּלְטְלִין. בִּזְמַן שֶׁאָמַר לוֹ: ״הוּא וְכׇל מַה שֶּׁבְּתוֹכוֹ״ – הֲרֵי כּוּלָּן מְכוּרִין. בֵּין כָּךְ וּבֵין כָּךְ – לֹא מָכַר לֹא אֶת הַמֶּרְחָץ, וְלֹא אֶת בֵּית הַבַּד שֶׁבְּתוֹכָהּ. רַבִּי אֱלִיעֶזֶר אוֹמֵר: הַמּוֹכֵר אֶת הֶחָצֵר – לֹא מָכַר אֶלָּא אֲוִירָהּ שֶׁל חָצֵר.
+> **Translation:** MISHNA: One **who sells a courtyard** without specifying what is included in the sale **has sold** with it **the houses, pits, ditches, and caves** found in the courtyard, **but** he has **not** sold **the movable property. When** the seller **says to** the buyer: I am selling you **it and everything that is in it, all these** components **are sold** along with the courtyard, even the movable property. **Both** in **this** case, where he executes the sale without specification, **and** in **that** case, where he adds the phrase that includes the movable property, **he has not sold the bathhouse, nor** has he sold **the olive press that is in** the courtyard, as each is an entity with a discrete purpose and not an integral part of the courtyard. **Rabbi Eliezer says:** One **who sells a courtyard** without specifying what is included in the sale **has sold only the airspace,** i.e., the open space, **of the courtyard,** but nothing found in the courtyard, not even the houses.
+
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: הַמּוֹכֵר אֶת הֶחָצֵר – מָכַר בָּתִּים הַחִיצוֹנִים, וּבָתִּים הַפְּנִימִים, וּבֵית הַחוֹלְסָאוֹת. חֲנוּיוֹת פְּתוּחוֹת לְתוֹכָהּ – נִמְכָּרוֹת עִמָּהּ, וְשֶׁאֵין פְּתוּחוֹת לְתוֹכָהּ – אֵין נִמְכָּרוֹת עִמָּהּ. פְּתוּחוֹת לְכָאן וּלְכָאן – [אֵלּוּ] וְאֵלּוּ נִמְכָּרוֹת עִמָּהּ. רַבִּי אֱלִיעֶזֶר אוֹמֵר: הַמּוֹכֵר אֶת הֶחָצֵר – לֹא מָכַר אֶלָּא מִילוּסָא שֶׁל חָצֵר.
+> **Translation:** GEMARA: **The Sages taught** in a *baraita* (*Tosefta*, 3:1): One **who sells a courtyard has sold** with it **the outer houses** that can be accessed directly from the courtyard, **and the inner houses** that can be entered only via the outer houses, **and the area of the sand fields [*uveit haḥolsaot*].** As for the **stores,** those **that open into** the courtyard **are sold** along **with it;** those that **do not open into it,** but rather open into the public domain, even if they are located in the courtyard, **are not sold** along **with it;** and those that **open** both **into this** courtyard **and into that** other public domain are grouped together with those that open into this courtyard alone, and both **these and those are sold with it. Rabbi Eliezer says:** One **who sells a courtyard** without specifying what is included in the sale **has sold only the open space of the courtyard.**
 
 Rabbi Eliezer takes a far more restrictive position: *hamocher et hachatzar lo machar ela avirah shel chatzar* — one who sells the courtyard has sold only the air — meaning the open space — of the courtyard. The *Rashbam* clarifies that this does not mean Rabbi Eliezer is selling literal airspace; the seller does convey ownership of the yard and its ground. But the sale does not include the homes. The word *chatzar* means yard, and if one wished to convey the homes, one would need to say so explicitly.
 
 A natural question arises: why not use the price paid to interpret the seller's intent? If someone pays a price consistent with a yard plus homes, surely that is evidence the sale included the homes. The principle of *hadamim modiin* — using the price as an interpretive guide — does not apply here, as *Tosafot* explains, because land values are too variable: buyers may pay premiums for speculative reasons, or land may be dramatically underpriced in distressed sales. Because the price is an unreliable guide, the *halachah* insists on clear, rule-based definitions of what each term conveys. The benefit of clarity outweighs the occasional unfairness of a rigid rule, provided the parties know the conventions in advance.
 
-### Sand Fields
+The *Gemara* then presents a *baraita* that specifies what the sale of a *chatzar* does include: *tanu Rabbanan* — the Rabbis taught — *hamocher et hachatzer machar batim hachitzoniyim ubatim hapnimiyim* — one who sells the courtyard has sold both the outer homes and the inner homes. This requires a word of explanation. The courtyard contains homes that open directly onto it, but it may also contain inner rooms — back rooms or rear structures — that do not open directly onto the courtyard at all, but whose only means of egress is through the main home and then out through the courtyard. One might have thought that since these inner structures have no direct connection to the courtyard, selling the courtyard would not carry them along. The answer is that these structures are not independent in any meaningful sense: their sole access to the outside world runs through the courtyard, and so they are understood to be part of what passes with it.
 
-> **Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַמּוֹכֵר אֶת הֶחָצֵר – מָכַר בָּתִּים הַחִיצוֹנִים, וּבָתִּים הַפְּנִימִים, וּבֵית הַחוֹלְסָאוֹת.
->
-> **Translation:** **The Sages taught** in a *baraita* (*Tosefta*, 3:1): One **who sells a courtyard has sold** with it **the outer houses** that can be accessed directly from the courtyard, **and the inner houses** that can be entered only via the outer houses, **and the area of the sand fields [*uveit haḥolsaot*].**
+### Sand Fields
 
 The *Gemara* also addresses *beit hacholsaot* — sand fields — within the courtyard. The *Rashbam* connects the term to *chol*, sand, and explains that these were patches of high-quality white sand used for glassmaking, situated within the courtyard precincts. One might have argued that a sand field, like a bathhouse or olive press, is a separate commercial enterprise — the sand is harvested and sold — and therefore should be excluded from the sale. The *mishnah* nonetheless includes it in the sale.
 
@@ -132,9 +130,8 @@ Later commentators are divided on the interpretation of this term and on the rul
 
 ### Courtyard Stores
 
-> **Hebrew/Aramaic:** חֲנוּיוֹת פְּתוּחוֹת לְתוֹכָהּ – נִמְכָּרוֹת עִמָּהּ, וְשֶׁאֵין פְּתוּחוֹת לְתוֹכָהּ – אֵין נִמְכָּרוֹת עִמָּהּ. פְּתוּחוֹת לְכָאן וּלְכָאן – [אֵלּוּ] וְאֵלּוּ נִמְכָּרוֹת עִמָּהּ.
->
-> **Translation:** As for the **stores,** those **that open into** the courtyard **are sold** along **with it;** those that **do not open into it,** but rather open into the public domain, even if they are located in the courtyard, **are not sold** along **with it;** and those that **open** both **into this** courtyard **and into that** other public domain are grouped together with those that open into this courtyard alone, and both **these and those are sold with it.**
+> **Hebrew/Aramaic:** אָמַר מָר: פְּתוּחוֹת לְכָאן וּלְכָאן – נִמְכָּרוֹת עִמָּהּ. וְהָא תָּנֵי רַבִּי חִיָּיא: אֵין נִמְכָּרוֹת עִמָּהּ! לָא קַשְׁיָא; הָא דְּרוֹב תַּשְׁמִישְׁתַּיְיהוּ לְגוֹ, הָא דְּרוֹב תַּשְׁמִישְׁתַּיְיהוּ לְבַר.
+> **Translation:** **The Master said** in the *baraita*: Stores that **open** both **into this** courtyard **and into that** public domain **are sold** along **with** the courtyard. The Gemara raises an objection: **But didn’t Rabbi Ḥiyya teach** a *baraita* that states that such stores **are not sold with** the courtyard? The Gemara answers that this is **not difficult: This** *baraita*, that teaches that the stores are sold along with the courtyard, is referring to a case **where the majority of their use is from within,** i.e., the stores are mainly accessed from within the courtyard, while **that** *baraita* of Rabbi Ḥiyya, that teaches that the stores are not sold along with the courtyard, is referring to a case **where the majority of their use is from without,** i.e., the stores are accessed mainly from the public domain.
 
 The *Gemara* next addresses *chanuyot petuchot letocha* — stores whose storefronts open into the courtyard. Stores occupy an interesting intermediate position: they are commercial in nature, but unlike an oil press or bathhouse, they may be integral to the daily life of the residential complex, providing the basic goods that the residents need. The *mishnah* and the *baraita* resolve the question based on the physical orientation of the storefront.
 
@@ -142,9 +139,11 @@ If the store's entrance faces the courtyard — *petuchot letocha* — then the 
 
 ### Linguistic Analysis
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה: אִי דַּאֲמַר לֵיהּ: ״דֵּירְתָּא״ – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּבָתֵּי מַשְׁמַע. כִּי פְּלִיגִי – דַּאֲמַר לֵיהּ: ״דָּרְתָּא״; מָר סָבַר: תַּרְבִּיצָא מַשְׁמַע, וּמָר סָבַר: בָּתֵּי מַשְׁמַע.
->
-> **Translation:** To clarify the disagreement between the unattributed opinion in the mishna and Rabbi Eliezer, **Rabba said: If** the seller **said to** the buyer that he is selling him ***dirata*,** i.e., the place of residence, **everyone agrees that he means** to sell **the houses** and that they are also included in the sale. **When they disagree,** it is **where he said to him** that he is selling him ***darta*,** i.e., the courtyard. One **Sage,** Rabbi Eliezer, **holds** that **he means** to sell only **the garden,** i.e., the space between the houses, **and** one **Sage,** the unattributed first opinion in the mishna, **holds** that **he means** to sell also **the houses.**
+> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר אוֹמֵר: הַמּוֹכֵר אֶת הֶחָצֵר – לֹא מָכַר אֶלָּא אֲוִירָהּ שֶׁל חָצֵר. אָמַר רַבָּה: אִי דַּאֲמַר לֵיהּ: ״דֵּירְתָּא״ – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּבָתֵּי מַשְׁמַע. כִּי פְּלִיגִי – דַּאֲמַר לֵיהּ: ״דָּרְתָּא״; מָר סָבַר: תַּרְבִּיצָא מַשְׁמַע, וּמָר סָבַר: בָּתֵּי מַשְׁמַע.
+> **Translation:** The mishna teaches, and it was similarly taught in the *baraita*, that **Rabbi Eliezer says:** One **who sells a courtyard has sold only the airspace of the courtyard,** and he has sold nothing found in the courtyard, not even the houses. To clarify the disagreement between the unattributed opinion in the mishna and Rabbi Eliezer, **Rabba said: If** the seller **said to** the buyer that he is selling him ***dirata*,** i.e., the place of residence, **everyone agrees that he means** to sell **the houses** and that they are also included in the sale. **When they disagree,** it is **where he said to him** that he is selling him ***darta*,** i.e., the courtyard. One **Sage,** Rabbi Eliezer, **holds** that **he means** to sell only **the garden,** i.e., the space between the houses, **and** one **Sage,** the unattributed first opinion in the mishna, **holds** that **he means** to sell also **the houses.**
+
+> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי, אָמַר רַבָּה: אִי דַּאֲמַר לֵיהּ ״דָּרְתָּא״ – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּבָתֵּי מַשְׁמַע. כִּי פְּלִיגִי, דַּאֲמַר לֵיהּ: ״חָצֵר״; מָר סָבַר: חָצֵר – אַוֵּירָא מַשְׁמַע, וּמָר סָבַר: כַּחֲצַר הַמִּשְׁכָּן.
+> **Translation:** **Some state** a different version of this discussion, according to which **Rabba says: If** the seller **says to** the buyer that he is selling him ***darta*, everyone agrees that he means** to sell also **the houses** and that they are included in the sale. **When they disagree,** it is **where he said to him** that he is selling him the ***ḥatzer*,** the Hebrew term for courtyard. One **Sage,** Rabbi Eliezer, **holds** that when he says ***ḥatzer*, he means** to sell him only **the airspace,** i.e., the open space of the courtyard itself, **and** one **Sage,** the unattributed first opinion in the mishna, **holds** that houses are also included in the sale, just **as the courtyard of the Tabernacle** included the Tabernacle itself.
 
 Rava introduces a striking linguistic analysis that reframes the entire debate between Rabbi Eliezer and the *tanna kamma*. The critical variable, Rava proposes, may be which word the seller actually used when effecting the sale.
 
@@ -154,50 +153,49 @@ According to one version of Rava's teaching, if the seller used *darta* — the 
 
 ### Mishkan Parallel
 
-> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי, אָמַר רַבָּה: אִי דַּאֲמַר לֵיהּ ״דָּרְתָּא״ – דְּכוּלֵּי עָלְמָא לָא פְּלִיגִי דְּבָתֵּי מַשְׁמַע. כִּי פְּלִיגִי, דַּאֲמַר לֵיהּ: ״חָצֵר״; מָר סָבַר: חָצֵר – אַוֵּירָא מַשְׁמַע, וּמָר סָבַר: כַּחֲצַר הַמִּשְׁכָּן.
->
-> **Translation:** **Some state** a different version of this discussion, according to which **Rabba says: If** the seller **says to** the buyer that he is selling him ***darta*, everyone agrees that he means** to sell also **the houses** and that they are included in the sale. **When they disagree,** it is **where he said to him** that he is selling him the ***ḥatzer*,** the Hebrew term for courtyard. One **Sage,** Rabbi Eliezer, **holds** that when he says ***ḥatzer*, he means** to sell him only **the airspace,** i.e., the open space of the courtyard itself, **and** one **Sage,** the unattributed first opinion in the mishna, **holds** that houses are also included in the sale, just **as the courtyard of the Tabernacle** included the Tabernacle itself.
-
 The reference to the *chatzer hamishkan* is significant and characteristically illuminating. The Torah uses the term *hachatzer* to describe the courtyard of the *mishkan*, yet that *chatzer* clearly encompassed the *mishkan* structure itself — the *Kodesh Kodashim*, the *keilim*, the *parochet* — not merely the surrounding open ground. The word *chatzer* in the Torah thus demonstrates that the term is capacious enough to include the dwelling or sacred structure situated within the enclosure. If the *chatzer* of the *mishkan* includes God's house, then the *chatzer* of a residential complex can include the houses of the residents. This is, as is frequently the case in the tractate's discussions of residential property, an instance of the Gemara drawing direct conceptual parallels between the laws of mundane property and the structure of the *beit hamikdash* and *mishkan*.
 
 ---
 
 ## Chazaka on Multiple Plots
 
+
+
 ### Sand & Pond Sale
 
-> **Hebrew/Aramaic:** וְאָמַר רַבָּה אָמַר רַב נַחְמָן: מָכַר לוֹ חוֹלְסִית וּמְצוּלָה; הֶחְזִיק בַּחוֹלְסִית – לֹא קָנָה מְצוּלָה, הֶחְזִיק בַּמְּצוּלָה – לֹא קָנָה חוֹלְסִית.
->
-> **Translation:** § **And Rabba says** that **Rav Naḥman says:** If one **sold** another **a sand field** for glass making, **and a pond** for fishing or some other purpose, if the buyer **took possession of the sand field** in order to finalize the transaction, **he has not acquired the pond** and must therefore perform a separate act of acquisition for it. Conversely, if **he took possession of the pond, he has not acquired the sand field.**
 
 Rava cites Rav Nachman for a new teaching: *machar lo chulsis u-metzula* — if a seller sells both a sand field (*chulsis*) and a pond (*metzula*) together. The pond is a distinct type of property with distinct uses: the *Rashbam* notes it may be used for fishing, or possibly for mining whatever lies beneath its floor. In any event, the two properties — a sand field and a pond — plainly serve very different economic functions.
 
+This case raises a question the tractate has encountered before in a different context: when a buyer performs an act of *chazaka* on one plot of land, does it work to acquire a separate plot as well? The earlier discussion, arising from the case of a *ger* — a convert — who died without heirs, established a key principle. Where there is no seller involved, no *daas acheres makneh*, no other party whose intention to convey ties the properties together into a single transaction, the *chazaka* operates only on the plot to which the physical act pertains. If the two plots are defined as distinct, the *chazaka* on one does not reach the other. However, where a seller is actively conveying both plots and the buyer has paid for both, the seller's intention pulls the two properties together into one unified package, such that a *chazaka* performed on one suffices for the other — even, as an extreme illustration makes vivid, if the two plots are as far apart as properties in two different cities. With that principle in view, the question becomes how this sale of a *chulsis* and a *metzula* is to be analyzed.
+
 ### Separate Functions Rule
 
-The teaching establishes that if the buyer performs an act of *chazaka* on the sand field, he does not thereby acquire the pond, and vice versa. Even though the seller intends to convey both and the buyer intends to acquire both, the *chazaka* on one does not work for the other. Separate acts of *kinyan* are required for each.
+Rav Nachman's ruling: *hechizik b'chulsis lo kanah metzula, hechizik b'metzula lo kanah chulsis* — if the buyer performs an act of *chazaka* on the sand field, he does not thereby acquire the pond, and vice versa. Even though the seller intends to convey both and the buyer intends to acquire both, the *chazaka* on one does not work for the other. Separate acts of *kinyan* are required for each.
 
 ### Shmuel's Inclusive View
-
-> **Hebrew/Aramaic:** אִינִי?! וְהָא אָמַר שְׁמוּאֵל: מָכַר לוֹ עֶשֶׂר שָׂדוֹת בְּעֶשֶׂר מְדִינוֹת, כֵּיוָן שֶׁהֶחְזִיק בְּאַחַת מֵהֶן – קָנָה כּוּלָּן!
->
-> **Translation:** The Gemara asks: **Is that so? But doesn't Shmuel say:** If one **sold** another **ten fields in ten** different **regions,** all in a single bill of sale, **once he takes possession of one of them, he has acquired them all;** and the two cases seem to be analogous.
 
 This ruling is immediately challenged from Shmuel's well-known statement: *machar lo eser sadot b'eser medinot* — if a seller sells ten fields in ten different provinces, *keivan she-hechizik b'achat me-hen kanah kulam* — once the buyer performs a *chazaka* on one of them, he acquires all of them. The seller's intent to package all ten in a single sale, combined perhaps with the buyer's payment for all of them, operates to bundle them together such that a single act of *chazaka* is sufficient. If ten geographically dispersed fields require only one *chazaka*, why should a sand field and an adjacent pond require two?
 
 ### Connected vs. Distinct
 
-> **Hebrew/Aramaic:** הָתָם הוּא דְּסַדָּנָא דְאַרְעָא חַד הוּא, וְכוּלַּהּ חֲדָא תַּשְׁמִישְׁתָּא הוּא; אֲבָל הָכָא – הָא תַּשְׁמִישְׁתָּא לְחוֹד, וְהָא תַּשְׁמִישְׁתָּא לְחוֹד.
->
-> **Translation:** The Gemara rejects the parallel: **There,** in the case of the ten fields, **the land is** all located in **one** geographic **block, and it all has one use,** i.e., to be farmed. The buyer, therefore, acquires all of the fields when he takes possession of one of them, even if they are not adjacent. **But here,** in the case of the sand field and the pond, **this,** the sand field, has **a distinct use,** i.e., to supply sand for glass making, **and that,** the pond, has **a distinct use,** i.e., for fishing. Therefore, taking possession of one of them does not effect a transfer of the other.
-
 The Gemara offers a distinction. In Shmuel's case — ten fields in ten provinces — *sadna d'ara chad hu v'kulu chad tashmisha*: the underlying ground of the earth is all one, and moreover, all ten fields share a common function. They are all *sadot*, fields, presumably all used for similar agricultural purposes. The unity of purpose coheres with the seller's packaging of them into one transaction, and together these factors allow one *chazaka* to suffice.
 
 In the case of the sand field and the pond, however — *hai tashmisha lechud v'hai tashmisha lechud* — these two properties serve so fundamentally different functions that despite the seller's intent to convey both, they cannot be treated as a unified parcel. The diversity of use prevents the *chazaka* on one from reaching the other, requiring independent acts of *kinyan* for each.
 
+This distinction raises interesting questions at the margins. What of a house and a wheat field sold together — one for dwelling, the other for agriculture? Or an oil field and an orange orchard? The analysis of *tashmisha* as the operative criterion opens a range of cases that the Gemara does not pursue here.
+
 ### Final Resolution
 
-> **Hebrew/Aramaic:** וְאִיכָּא דְּאָמְרִי,
->
+> **Hebrew/Aramaic:** וְאָמַר רַבָּה אָמַר רַב נַחְמָן: מָכַר לוֹ חוֹלְסִית וּמְצוּלָה; הֶחְזִיק בַּחוֹלְסִית – לֹא קָנָה מְצוּלָה, הֶחְזִיק בַּמְּצוּלָה – לֹא קָנָה חוֹלְסִית. אִינִי?! וְהָא אָמַר שְׁמוּאֵל: מָכַר לוֹ עֶשֶׂר שָׂדוֹת בְּעֶשֶׂר מְדִינוֹת, כֵּיוָן שֶׁהֶחְזִיק בְּאַחַת מֵהֶן – קָנָה כּוּלָּן!
+> **Translation:** § **And Rabba says** that **Rav Naḥman says:** If one **sold** another **a sand field** for glass making, **and a pond** for fishing or some other purpose, if the buyer **took possession of the sand field** in order to finalize the transaction, **he has not acquired the pond** and must therefore perform a separate act of acquisition for it. Conversely, if **he took possession of the pond, he has not acquired the sand field.** The Gemara asks: **Is that so? But doesn’t Shmuel say:** If one **sold** another **ten fields in ten** different **regions,** all in a single bill of sale, **once he takes possession of one of them, he has acquired them all;** and the two cases seem to be analogous.
+
+> **Hebrew/Aramaic:** הָתָם הוּא דְּסַדָּנָא דְאַרְעָא חַד הוּא, וְכוּלַּהּ חֲדָא תַּשְׁמִישְׁתָּא הוּא; אֲבָל הָכָא – הָא תַּשְׁמִישְׁתָּא לְחוֹד, וְהָא תַּשְׁמִישְׁתָּא לְחוֹד.
+> **Translation:** The Gemara rejects the parallel: **There,** in the case of the ten fields, **the land is** all located in **one** geographic **block, and it all has one use,** i.e., to be farmed. The buyer, therefore, acquires all of the fields when he takes possession of one of them, even if they are not adjacent. **But here,** in the case of the sand field and the pond, **this,** the sand field, has **a distinct use,** i.e., to supply sand for glass making, **and that,** the pond, has **a distinct use,** i.e., for fishing. Therefore, taking possession of one of them does not effect a transfer of the other.
+
+> **Hebrew/Aramaic:** וְאִיכָּא דְּאָמְרִי,
 > **Translation:** **And some state** a different version of the previous discussion.
+
+> **Hebrew/Aramaic:** אָמַר רַבָּה אָמַר רַב נַחְמָן: הֶחְזִיק בַּחוֹלְסִית – קָנָה מְצוּלָה. פְּשִׁיטָא – דְּהָא אָמַר שְׁמוּאֵל: מָכַר לוֹ עֶשֶׂר שָׂדוֹת וְכוּ׳! מַהוּ דְּתֵימָא: הָתָם הוּא דְּסַדָּנָא דְאַרְעָא חַד הוּא, אֲבָל הָכָא – הָא תַּשְׁמִישְׁתָּא לְחוֹד, וְהָא תַּשְׁמִישְׁתָּא לְחוֹד; קָא מַשְׁמַע לַן.
+> **Translation:** **Rabba** actually **said** that **Rav Naḥman said:** If one sold another a sand field and a pond, and the buyer **took possession of the sand field, he has** also **acquired the pond.** The Gemara asks: This is **obvious, as Shmuel says:** If one **sold ten fields to** another in ten different regions, once he takes possession of one of them, he has acquired them all. The Gemara explains why Rav Naḥman’s statement was nevertheless necessary: It is necessary **lest you say** that **there,** in the case of the ten fields, **the land is** all located in **one** geographic **block** with a single use, and therefore all the fields are acquired together. **But here,** in the case of the sand field and the pond, **this,** the sand field, has **a distinct use, and that,** the pond, has a **distinct use,** and therefore taking possession of one of them should not effect acquisition of the other. Therefore, Rav Naḥman **teaches us** that if the buyer took possession of the sand field, he has acquired the pond as well.
 
 The Gemara then presents an alternative version of Rav Nachman's ruling. According to this second version — and the practice is to follow the second version — Rav Nachman actually holds *hechizik b'chulsis kanah metzula*: acquiring the sand field via *chazaka* does acquire the pond as well. The Gemara then reframes the *chidush*: one might have thought that the functional distinction between the two properties (*hai tashmisha lechud v'hai tashmisha lechud*) is sufficient to defeat the bundling effect of the joint sale, even in the presence of *daas acheres makneh* — the seller's intent to convey both. The *kamashma lan* — the novelty of the teaching — is that this is not so. The seller's intent to sell both together, packaged in a single transaction, is sufficiently powerful to allow one *chazaka* to work for both, notwithstanding their different functions. The earlier attempt to distinguish sharply between same-function and different-function properties was an interesting approach, but ultimately the *halachah* does not draw that line.

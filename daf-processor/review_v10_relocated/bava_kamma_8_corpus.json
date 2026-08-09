@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Collection Hierarchy",
+    "candidates": [
+      "Opening",
+      "Akiva vs. Yishmael",
+      "Bishlo vs. Beshel Olam",
+      "Gemara's Answer",
+      "Braitah Introduction",
+      "Collection Hierarchy",
+      "Policy Rationale",
+      "Single Grade Cases",
+      "Mixed Grade Cases",
+      "Subjectivity Standard",
+      "Lien Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gemara's Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Abba's direct response invoking 'meitav sadeihu' to refute the universal standard, which is precisely what heading 3 ('Gemara's Answer') describes as the Gemara's immediate resolution of the bishlo vs. beshel olam question.",
+      "second_heading": "Braitah Introduction",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 constitute the baraita introduced in heading 4 ('Braitah Introduction') that sets out the collection hierarchy across different land-quality scenarios, matching that section's prose description exactly.",
+      "current_heading": "Collection Hierarchy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Lien Resolution",
+    "candidates": [
+      "Policy Rationale",
+      "Single Grade Cases",
+      "Mixed Grade Cases",
+      "Subjectivity Standard",
+      "Lien Resolution",
+      "Braitot Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's resolution to the subjectivity challenge \u2014 the case where Grade A existed and was sold \u2014 which is precisely what the 'Lien Resolution' prose describes, including Rav \u1e24isda's confirmation of the same answer.",
+      "chosen_heading": "Lien Resolution",
+      "current_heading": "Lien Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Braitot Contradiction",
+    "candidates": [
+      "Braitot Contradiction",
+      "Ever-Had-A Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two contradicting baraitot and states they are 'difficult' against each other, which is precisely what the 'Braitot Contradiction' section's prose describes \u2014 the direct contradiction between the two baraitot regarding the baal chov's entitlement.",
+      "chosen_heading": "Braitot Contradiction",
+      "current_heading": "Braitot Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Ever-Had-A Theory",
+    "candidates": [
+      "Ever-Had-A Theory",
+      "Standards Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the first resolution distinguishing the two braitot based on whether Grade A ever existed and was sold off, which is precisely what the 'Ever-Had-A Theory' prose describes.",
+      "chosen_heading": "Ever-Had-A Theory",
+      "current_heading": "Ever-Had-A Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Standards Debate",
+    "candidates": [
+      "Standards Debate",
+      "Ravina's Approach",
+      "Ula's Principle",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the second and third resolutions (ve-iba'it eima) to the contradiction between the two braitot, precisely matching the 'Standards Debate' prose which describes these exact two resolutions \u2014 the objective-standard resolution based on whether the debtor's Grade B equals world-standard Grade A, and the direct dispute between subjective (bishlo) versus objective (beshel olam) appraisal standards.",
+      "chosen_heading": "Standards Debate",
+      "current_heading": "Standards Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Ravina's Approach",
+      "Ula's Principle",
+      "Torah Source",
+      "Tosafot Challenge",
+      "Ne'ilat Delet Takana",
+      "Takana Scope",
+      "Braitah Sales",
+      "Same-Day Sales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Ravina's complete resolution \u2014 he introduces Ulla's principle and then applies it to explain the dispute between the baraitot \u2014 which is precisely what heading 0 ('Ravina's Approach') describes, making it the best home for this passage rather than the current placement under 'Torah Source' which covers only the verse derivation itself.",
+      "chosen_heading": "Ravina's Approach",
+      "current_heading": "Torah Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Same-Day Sales",
+    "candidates": [
+      "Tosafot Challenge",
+      "Ne'ilat Delet Takana",
+      "Takana Scope",
+      "Braitah Sales",
+      "Same-Day Sales",
+      "Sequential Sales",
+      "Primary Liability",
+      "Buyer Deflection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita discusses what happens when a debtor sells property to one person or to three people simultaneously, which matches heading 3 ('Braitah Sales') that introduces this new baraita about a debtor selling property to one buyer or three buyers on the same or different days \u2014 the passage is the opening case of that baraita, not the elaboration of same-day sales discussed under heading 4.",
+      "chosen_heading": "Braitah Sales",
+      "current_heading": "Same-Day Sales",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Buyer Deflection",
+    "candidates": [
+      "Sequential Sales",
+      "Primary Liability",
+      "Buyer Deflection",
+      "Sequential Purchase Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the sequential sales rule \u2014 all creditors collect from the last buyer first, then work backward \u2014 which is precisely what the 'Sequential Sales' prose introduces with 'kulam govin min ha-acharon.'",
+      "chosen_heading": "Sequential Sales",
+      "current_heading": "Buyer Deflection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Sequential Purchase Case",
+    "candidates": [
+      "Buyer Deflection",
+      "Sequential Purchase Case",
+      "Last Buyer Rule",
+      "Objection to Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage analyzes why the baraita needed to specify the 'sold to one person' case, concludes it must be sequential sales to one buyer, and then raises the 'hinachti lecha makom' objection \u2014 exactly the content described in the 'Sequential Purchase Case' prose, which explicitly discusses Michael buying sequentially and the surprising argument that creditors should be confined to the last parcel, matching items 1-5 precisely.",
+      "chosen_heading": "Sequential Purchase Case",
+      "current_heading": "Sequential Purchase Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Objection to Rule",
+    "candidates": [
+      "Last Buyer Rule",
+      "Objection to Rule",
+      "Buyer Leverage",
+      "Leverage Fails"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Objection to Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 present the case where superior-quality land was purchased last and the buyer's threat to creditors, which matches the 'Objection to Rule' and 'Buyer Leverage' prose \u2014 but more precisely items 1\u20133 walk through the explanation (eiddit purchased last) and the leverage mechanism, fitting best under 'Buyer Leverage' where the prose explicitly describes Michael's threat speech verbatim matching items 2\u20133; however since item 1 sets up why all creditors don't simply collect from eiddit (the objection), and items 2\u20133 give the leverage answer, all of 1\u20133 together map to the transition between 'Objection to Rule' and 'Buyer Leverage' \u2014 the current placement under 'Objection to Rule' is plausible for items 1\u20133.",
+      "second_heading": "Leverage Fails",
+      "second_confidence": "high",
+      "second_reason": "Items 4\u20135 ('if so, also with regard to damages let the buyer say this') constitute the Gemara's rejection of the leverage theory by showing it fails for nezikin, which directly matches the 'Leverage Fails' prose.",
+      "current_heading": "Objection to Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Leverage Fails",
+    "candidates": [
+      "Buyer Leverage",
+      "Leverage Fails",
+      "Takana Rule",
+      "Takana Purpose",
+      "Waiver Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the orphan scenario that breaks the leverage theory \u2014 the orphans receive property free of prior liens so Michael has no real threat to return the deed, which is precisely what the 'Leverage Fails' prose describes as the reason the leverage-based answer is rejected.",
+      "chosen_heading": "Leverage Fails",
+      "current_heading": "Leverage Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Waiver Right",
+    "candidates": [
+      "Takana Rule",
+      "Takana Purpose",
+      "Waiver Right",
+      "Waivable Rights",
+      "Woman's Waiver",
+      "Michael's Distribution",
+      "All Get A",
+      "Last Property Reason",
+      "Michael Sells A",
+      "Missing A Problem",
+      "Abaye's View",
+      "Rava's View",
+      "Waiver Power Transfer",
+      "Distribution Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Waiver Right",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the waiver right \u2014 the buyer declaring he does not want the rabbinic takana's protection, Rava's principle, and Rav Huna's analogy \u2014 which is precisely what heading 2 'Waiver Right' discusses.",
+      "second_heading": "Michael Sells A",
+      "second_confidence": "high",
+      "second_reason": "Items 5-10 present the specific case where Michael sold Grade B and C and retained Grade A (then the reverse case), which matches heading 8 'Michael Sells A' and the surrounding scenario analysis beginning with item 7's case setup.",
+      "current_heading": "Waiver Right",
+      "moved": true
+    }
+  }
+]

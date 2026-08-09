@@ -1,0 +1,322 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Chiddush Analysis",
+    "candidates": [
+      "Opening & Mishnah Text",
+      "Three Categories",
+      "Chiddush Analysis",
+      "Ran's Framework",
+      "Korban Analysis",
+      "Nazirut Analysis",
+      "Shvuah Exclusion",
+      "Shmuel's Three Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself, which the 'Opening & Mishnah Text' section explicitly introduces and discusses as the starting point of the daf's analysis.",
+      "chosen_heading": "Opening & Mishnah Text",
+      "current_heading": "Chiddush Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Shmuel's Three Ways",
+    "candidates": [
+      "Ran's Framework",
+      "Korban Analysis",
+      "Nazirut Analysis",
+      "Shvuah Exclusion",
+      "Shmuel's Three Ways",
+      "Yad Sheeinah",
+      "Okimta: Nazir Present",
+      "Ran vs. Tosafot",
+      "Raba: Hemenu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together constitute Shmuel's explanation of the three formulations (hareini/alai/heimenu) and the Gemara's challenges to each, which is precisely what the 'Shmuel's Three Ways' section's prose describes.",
+      "chosen_heading": "Shmuel's Three Ways",
+      "current_heading": "Shmuel's Three Ways",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Raba: Hemenu",
+    "candidates": [
+      "Yad Sheeinah",
+      "Okimta: Nazir Present",
+      "Ran vs. Tosafot",
+      "Raba: Hemenu",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the case of 'heimenu shelo ochal' and the chiddush that one need not utter the word 'shvuah' explicitly, which matches exactly the prose under 'Raba: Hemenu' where the Gemara explains that saying 'from it I will not eat' without the keyword shvuah still constitutes a binding oath.",
+      "chosen_heading": "Raba: Hemenu",
+      "current_heading": "Raba: Hemenu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Risk & Non-Fulfillment",
+      "Rabbi Yehudah View",
+      "Mishnah & Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question about which tanna distinguishes neder from nedava, answered by citing the baraita about Rabbi Meir and Rabbi Yehudah's positions \u2014 exactly what the prose of heading 0 ('Rabbi Meir's View') describes as its entry point discussion.",
+      "chosen_heading": "Rabbi Meir's View",
+      "current_heading": "Rabbi Meir's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Mishnah & Meir",
+    "candidates": [
+      "Risk & Non-Fulfillment",
+      "Rabbi Yehudah View",
+      "Mishnah & Meir",
+      "Meir Consistency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's resolution that Rabbi Meir's objection applies to neder but not nedava, which is precisely what the 'Meir Consistency' section's prose describes.",
+      "chosen_heading": "Meir Consistency",
+      "current_heading": "Mishnah & Meir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Meir Consistency",
+    "candidates": [
+      "Mishnah & Meir",
+      "Meir Consistency",
+      "Hillel's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'what is different about a vow vs. a gift offering if both risk stumbling,' which is precisely the question the Meir Consistency prose describes as the Gemara pressing \u2014 'dilma ati lidei takala' \u2014 making this the correct placement.",
+      "chosen_heading": "Meir Consistency",
+      "current_heading": "Meir Consistency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Hillel's Method",
+    "candidates": [
+      "Hillel's Method",
+      "Nedava Safety",
+      "Tosafot Solution",
+      "Nazir Nedava Q",
+      "Shimon HaTzadik",
+      "Beautiful Nazir Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly Hillel the Elder's method of bringing an unconsecrated animal to the azara and consecrating it immediately before slaughter, which is precisely what the 'Hillel's Method' section's prose discusses.",
+      "chosen_heading": "Hillel's Method",
+      "current_heading": "Hillel's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Beautiful Nazir Story",
+    "candidates": [
+      "Nedava Safety",
+      "Tosafot Solution",
+      "Nazir Nedava Q",
+      "Shimon HaTzadik",
+      "Beautiful Nazir Story",
+      "Tamei Nazir Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nazir Nedava Q",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 correspond to candidate 2 ('Nazir Nedava Q') and candidate 3 ('Shimon HaTzadik'), where item 1 raises the question about nezirut nedava and answers it by citing Shimon HaTzadik, and item 2 introduces the braisa about Shimon HaTzadik's practice \u2014 matching the prose of candidate 3 which describes exactly this braisa introduction.",
+      "second_heading": "Beautiful Nazir Story",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 contain the detailed narrative of the beautiful nazirite from the south and Shimon HaTzadik's kiss and blessing, which is precisely what candidate 4 ('Beautiful Nazir Story') describes in its prose.",
+      "current_heading": "Beautiful Nazir Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Tamei Nazir Issue",
+    "candidates": [
+      "Tamei Nazir Issue",
+      "Rav Yonah Regret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Mani's objection about why Shimon HaTzaddik refused to eat the guilt-offering of a ritually impure nazirite, which is precisely what the 'Tamei Nazir Issue' prose section describes.",
+      "chosen_heading": "Tamei Nazir Issue",
+      "current_heading": "Tamei Nazir Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rav Yonah Regret",
+    "candidates": [
+      "Rav Yonah Regret",
+      "Motivation Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yona's direct statement giving the reason for Shimon HaTzadik's practice, which is exactly what the prose under 'Rav Yonah Regret' describes and analyzes.",
+      "chosen_heading": "Rav Yonah Regret",
+      "current_heading": "Rav Yonah Regret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Motivation Types",
+    "candidates": [
+      "Motivation Types",
+      "Yehudah Reread"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Motivation Types",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's Q&A about why a pure nazirite is treated differently, which is explicitly discussed in the 'Motivation Types' prose ending with 'The nazir tamei's regret, by contrast, has been publicly demonstrated.'",
+      "second_heading": "Yehudah Reread",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce the 'and if you wish say' alternative answer reinterpreting Rabbi Yehuda's position, which matches the 'Yehudah Reread' prose that begins with 'afilu teima Rabbi Yehuda \u2014 even according to Rabbi Yehudah, the mishnah can be explained consistently.'",
+      "current_heading": "Motivation Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Yehudah Reread",
+    "candidates": [
+      "Yehudah Reread",
+      "Righteous Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain discussing Rabbi Yehudah's reinterpretation (noder\u2192nodev), the stumbling-block concern for nedava, Rabbi Yehudah's own baraita about bringing an animal to the azara, and the residual question about nezirut \u2014 exactly what candidate 0's prose describes as the parallel analysis for Rabbi Yehudah, ending with the question that transitions to candidate 1.",
+      "chosen_heading": "Yehudah Reread",
+      "current_heading": "Yehudah Reread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Righteous Nazir",
+    "candidates": [
+      "Righteous Nazir",
+      "Shimon Objection",
+      "Alternatives",
+      "Sinner Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yehuda's view that the early pious men accepted nezirut in order to bring a chatas, which is precisely what the 'Righteous Nazir' section's prose discusses.",
+      "chosen_heading": "Righteous Nazir",
+      "current_heading": "Righteous Nazir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Sinner Status",
+    "candidates": [
+      "Shimon Objection",
+      "Alternatives",
+      "Sinner Status",
+      "Denial Problem",
+      "Kadosh vs. Choteh",
+      "Embodied Religion",
+      "Rambam Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Shimon's rejection of naziriteship AND his proposed alternatives (olah, shlamim, todah as nedavot), which maps precisely to the 'Alternatives' section prose, rather than the current 'Sinner Status' section which focuses only on the 'choteh' reasoning.",
+      "chosen_heading": "Alternatives",
+      "current_heading": "Sinner Status",
+      "moved": true
+    }
+  }
+]

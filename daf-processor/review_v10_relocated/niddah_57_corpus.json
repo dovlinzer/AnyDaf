@@ -1,0 +1,435 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "City Stains",
+    "candidates": [
+      "Review & Intro",
+      "Non-Jew Stains",
+      "City Stains",
+      "Definition",
+      "Societal Attitudes",
+      "Halakhic Treatment",
+      "Halacha vs Practice",
+      "Samaritan Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishnah passage directly states the rule that stains found anywhere are pure except those in inner rooms and near the house of impurity, which is precisely what the 'City Stains' section's prose discusses \u2014 the public domain presumption of purity, the exception for chadarim, and the beit hatme'ot.",
+      "chosen_heading": "City Stains",
+      "current_heading": "City Stains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Samaritan Burial",
+    "candidates": [
+      "Definition",
+      "Societal Attitudes",
+      "Halakhic Treatment",
+      "Halacha vs Practice",
+      "Samaritan Burial",
+      "Drasha Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Samaritan beit hatme'ot imparting tumat ohel, Samaritan credibility about burying fetuses/animal firstborn/grave marking, their non-credibility about sechachot/peru'ot/beit hapras, and the zeh haklal principle \u2014 are explicitly discussed in the prose of candidate 4 ('Samaritan Burial'), which is also the current placement.",
+      "chosen_heading": "Samaritan Burial",
+      "current_heading": "Samaritan Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Drasha Basis",
+    "candidates": [
+      "Drasha Basis",
+      "Trust Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Samaritan derashah from Deuteronomy 19:14 about boundary markers and inheritance as the basis for not burying fetuses, which is exactly what the 'Drasha Basis' prose section describes.",
+      "chosen_heading": "Drasha Basis",
+      "current_heading": "Drasha Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Trust Question",
+    "candidates": [
+      "Trust Question",
+      "Kohen Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Trust Question' prose: the mishna's credibility ruling, the Gemara's objection about lifnei iver, and Rabbi Abbahu's initial answer about a Samaritan priest standing there \u2014 all of which the 'Trust Question' section explicitly discusses, while 'Kohen Evidence' covers the subsequent Gemara challenges about the kohen being tamei, holding terumah, etc.",
+      "chosen_heading": "Trust Question",
+      "current_heading": "Trust Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Kohen Evidence",
+    "candidates": [
+      "Kohen Evidence",
+      "Reject Mishnah",
+      "Lifnei Iver",
+      "Firstborn Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Kohen Evidence' prose, which explicitly describes the holding-teruma objection, the eating-teruma response, and the yetzirah knowledge question \u2014 precisely the content of items 1 and 2.",
+      "chosen_heading": "Kohen Evidence",
+      "current_heading": "Kohen Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Firstborn Animals",
+    "candidates": [
+      "Reject Mishnah",
+      "Lifnei Iver",
+      "Firstborn Animals",
+      "Knowledge/Intent",
+      "Grave Markers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's discussion of Samaritan credibility regarding firstborn animals \u2014 item 1 gives Rabbi Yochanan's answer (begozez veoved) and item 2 addresses the follow-up about knowledge of murky discharge \u2014 exactly matching the 'Firstborn Animals' prose which explicitly describes these same exchanges.",
+      "chosen_heading": "Firstborn Animals",
+      "current_heading": "Firstborn Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Grave Markers",
+    "candidates": [
+      "Knowledge/Intent",
+      "Grave Markers",
+      "Suchot/Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's explanation of why Samaritans are trusted for grave marking despite it being rabbinic, because it is written in a biblical verse \u2014 exactly what the 'Grave Markers' prose describes.",
+      "chosen_heading": "Grave Markers",
+      "current_heading": "Grave Markers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Suchot/Trees",
+    "candidates": [
+      "Suchot/Trees",
+      "Beit HaPras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the terms 'sechachot' (overhanging boughs) and 'peru'ot' (protruding stones), which directly matches the 'Suchot/Trees' section's prose discussion of these exact terms and their Rabbinic concerns.",
+      "chosen_heading": "Suchot/Trees",
+      "current_heading": "Suchot/Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Beit HaPras",
+    "candidates": [
+      "Beit HaPras",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss beit haperas \u2014 the blowing ruling, trampling ruling, extent of the field, the baraita about a lost grave, the tree case, and Rabbi Yo\u1e25anan's qualification \u2014 exactly matching the prose under heading 0.",
+      "chosen_heading": "Beit HaPras",
+      "current_heading": "Beit HaPras",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "General Principle",
+    "candidates": [
+      "General Principle",
+      "Body Locations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's interpretation of 'zeh haklal' to include techumim and yayin nesech, which is precisely what the 'General Principle' section's prose describes.",
+      "chosen_heading": "General Principle",
+      "current_heading": "General Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Body Locations",
+    "candidates": [
+      "Body Locations",
+      "Heel/Toe",
+      "Calf/Foot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers the full introductory content of perek haroa ketem \u2014 stains on the body adjacent vs. not adjacent to the vagina, plus the heel/toe rule \u2014 which matches heading 0's prose that explicitly describes all these elements as the opening of the new mishnah.",
+      "chosen_heading": "Body Locations",
+      "current_heading": "Body Locations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Calf/Foot",
+    "candidates": [
+      "Heel/Toe",
+      "Calf/Foot",
+      "Garment Belt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses stains on the leg (shok) and feet (parsot) with inner/outer and side distinctions, which exactly matches the 'Calf/Foot' section's prose about shok, parsot, inner vs. outer surfaces, and mikan umikan.",
+      "chosen_heading": "Calf/Foot",
+      "current_heading": "Calf/Foot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Garment Belt",
+    "candidates": [
+      "Garment Belt",
+      "Sleeve Stains",
+      "Ein Machzikin",
+      "Blanket Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the belt rule and the sleeve rule in a single Mishnaic unit, and the current heading 'Garment Belt' plus its prose already discusses both the belt and sleeve content together, making it the best single home for this combined passage.",
+      "chosen_heading": "Garment Belt",
+      "current_heading": "Garment Belt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Blanket Rule",
+    "candidates": [
+      "Sleeve Stains",
+      "Ein Machzikin",
+      "Blanket Rule",
+      "Moving Garments",
+      "Checked Ground Case",
+      "Biblical Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses a woman removing her garment and using it as a blanket at night, with the ruling that any stain found anywhere renders her impure because the garment moves \u2014 exactly what the 'Blanket Rule' prose describes.",
+      "chosen_heading": "Blanket Rule",
+      "current_heading": "Blanket Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Biblical Requirement",
+    "candidates": [
+      "Moving Garments",
+      "Checked Ground Case",
+      "Biblical Requirement",
+      "Woman as Subject",
+      "Rabbinic Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Shmuel's ruling on the checked-ground case and the gemara's derivation of 'ad she'targish be'vasarah' \u2014 precisely what the 'Checked Ground Case' prose introduces and discusses, making that section a clearly better home than the current 'Biblical Requirement' placement.",
+      "chosen_heading": "Checked Ground Case",
+      "current_heading": "Biblical Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Rabbinic Category",
+    "candidates": [
+      "Woman as Subject",
+      "Rabbinic Category",
+      "Within Flesh",
+      "Urinating Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'be'vasarah velo bishapir velo bachaticha' rule and the 'tarti shma mina' answer, which is precisely what the 'Within Flesh' section's prose describes.",
+      "chosen_heading": "Within Flesh",
+      "current_heading": "Rabbinic Category",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Urinating Case",
+    "candidates": [
+      "Within Flesh",
+      "Urinating Case",
+      "Misidentified Sensation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Ta shema challenge from the urinating woman mishna and the Gemara's analysis questioning Shmuel's requirement of hargashah, which is precisely what candidate 1 'Urinating Case' describes in its prose.",
+      "chosen_heading": "Urinating Case",
+      "current_heading": "Urinating Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Misidentified Sensation",
+    "candidates": [
+      "Misidentified Sensation",
+      "Checking Cloth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's answer about misidentified sensation (urination vs. menstrual flow) and the posture-based reasoning, which is precisely what the 'Misidentified Sensation' prose describes.",
+      "chosen_heading": "Misidentified Sensation",
+      "current_heading": "Misidentified Sensation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Checking Cloth",
+    "candidates": [
+      "Checking Cloth",
+      "Check Ambiguity",
+      "Post-Coital Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the checking cloth under the pillow scenario with round vs. elongated blood spots (agol tahor, mashuch tamei), which is precisely what the 'Checking Cloth' prose section discusses.",
+      "chosen_heading": "Checking Cloth",
+      "current_heading": "Checking Cloth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Post-Coital Check",
+    "candidates": [
+      "Check Ambiguity",
+      "Post-Coital Check",
+      "Sex Sensation",
+      "Sensation Summary",
+      "Modern Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Check Ambiguity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara's challenge and resolution regarding the mishna about round vs. elongated stains, which corresponds directly to the 'Check Ambiguity' prose about the bedikah sensation and the shape of the spot as corroborating evidence.",
+      "second_heading": "Post-Coital Check",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce an entirely new mishna (14a) about post-coital examination cloths with its own challenge-and-resolution cycle, matching precisely the 'Post-Coital Check' prose which describes that exact mishna and its Gemara analysis.",
+      "current_heading": "Post-Coital Check",
+      "moved": true
+    }
+  }
+]

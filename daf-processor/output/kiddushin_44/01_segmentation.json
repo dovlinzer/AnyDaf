@@ -34,8 +34,8 @@
           "timestamp": "03:19"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rabbi Yose b'Rabbi Chanina's Explanation: Will and Consent as the Key Distinction",
@@ -58,7 +58,7 @@
           "timestamp": "05:15"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 8,
       "matched": false
     },
     {
@@ -120,8 +120,8 @@
           "timestamp": "18:45"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Reconciling the Mishna: How Ma'amar Differs from Kiddushin and Gittin (continued)",
@@ -134,8 +134,8 @@
           "timestamp": "20:00"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Testing the Positions Against the First Mishna: Can a Na'arah Appoint a Shaliach?",
@@ -480,5 +480,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "32:16",
+  "amud_b_micro_title": "Hand vs. Courtyard",
+  "shiur_start_daf": 43,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,322 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rava's Braita Proof",
+    "candidates": [
+      "Dispute Overview",
+      "Rava's Braita Proof",
+      "Abaye's Two-Group Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are part of Abaye's analysis: item 1 infers from the seifa that the reisha also involves meifach vahazama (two-group model), item 2 quotes the seifa itself, and item 3 is Abaye's question about what happens if the latter witnesses don't concede any injury at all \u2014 exactly the chain of reasoning described in the 'Abaye's Two-Group Model' prose.",
+      "chosen_heading": "Abaye's Two-Group Model",
+      "current_heading": "Rava's Braita Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Abaye's Two-Group Model",
+    "candidates": [
+      "Rava's Braita Proof",
+      "Abaye's Two-Group Model",
+      "Eye/Tooth Cases",
+      "Hamarah B'Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the Gemara's clarification that all witnesses concede the injuries occurred and that the second group reversed the order while simultaneously performing hazama \u2014 which is precisely the two-group model Abaye's section describes.",
+      "chosen_heading": "Abaye's Two-Group Model",
+      "current_heading": "Abaye's Two-Group Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Hamarah B'Din",
+    "candidates": [
+      "Eye/Tooth Cases",
+      "Hamarah B'Din",
+      "Rav Acha's Challenge",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Hamarah B'Din",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 analyze the timing constraints and hamarah b'din requirement for the baraita's case, precisely matching heading 1's prose about why the scenario must involve a prior court ruling and not merely an act that preceded the testimony.",
+      "second_heading": "Rav Acha's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 present Rav Acha b'rei d'Rav Ika's challenge to Rava's inference from the reisha, arguing the middle kat was never truly contradicted due to d'is biklal meah masayim, which matches heading 2's prose exactly.",
+      "current_heading": "Hamarah B'Din",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Rav Acha's Challenge",
+      "Rava's Response",
+      "Abaye's Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rav Ashi's response on behalf of Rava \u2014 explaining that Rava infers from the seifa involving three kitot that hachasha is techilat hazama \u2014 which matches precisely the prose of candidate 1 ('Rava's Response').",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Abaye's Concession",
+    "candidates": [
+      "Abaye's Concession",
+      "Rav Idi's Teaching"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Abaye's Concession",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are precisely Abaye's concession about the reisha requiring three kitot while arguing the seifa does not, matching heading 0's prose exactly.",
+      "second_heading": "Rav Idi's Teaching",
+      "second_confidence": "low",
+      "second_reason": "Items 4-6 present Rabbi Zeira's objection about the emancipation principle and Abaye's verse-based rebuttal, which is a new sub-topic not described in heading 1's prose about Rav Idi's teaching, but it clearly does not belong under heading 0 either \u2014 heading 1 is the only other candidate.",
+      "current_heading": "Abaye's Concession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rav Idi's Teaching",
+    "candidates": [
+      "Rav Idi's Teaching",
+      "Application to Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Idi bar Avin's teaching and the immediate question about its structure (theft testimony + slaughter testimony both rendered hazama), which matches heading 0's prose about Rav Idi introducing the baraita and the sequential invalidation scenario \u2014 heading 1 deals with the Gemara's deflection/resolution, which comes after these items.",
+      "chosen_heading": "Rav Idi's Teaching",
+      "current_heading": "Rav Idi's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Application to Case",
+    "candidates": [
+      "Application to Case",
+      "Rabbi Elazar's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage argues from the mishna/baraita that once witnesses are rendered zomemim on theft, their slaughter testimony is 'contradicted' (huchash), yet they still pay for slaughter \u2014 proving hachasha is the start of hazama, which directly matches the 'Application to Case' prose discussing whether hachasha of the shechita testimony can precede hazama and what the baraita proves.",
+      "chosen_heading": "Application to Case",
+      "current_heading": "Application to Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Rabbi Elazar's View",
+    "candidates": [
+      "Rabbi Elazar's View",
+      "Malkus Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute between Rabbi Yochanan and Rabbi Elazar about witnesses who were contradicted and then rendered conspiring witnesses, which is precisely what the 'Rabbi Elazar's View' prose section discusses.",
+      "chosen_heading": "Rabbi Elazar's View",
+      "current_heading": "Rabbi Elazar's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Malkus Rule",
+    "candidates": [
+      "Malkus Rule",
+      "No Four/Five Cases",
+      "Special Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous Gemara discussion about Rabbi Elazar's view on malkus for contradicted witnesses in capital cases, the lav she'nitan l'azharas misas beis din principle, and the ba harug b'raglav case \u2014 exactly the content described in the 'Malkus Rule' prose.",
+      "chosen_heading": "Malkus Rule",
+      "current_heading": "Malkus Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Special Cases",
+    "candidates": [
+      "No Four/Five Cases",
+      "Special Cases",
+      "Rabbi Shimon View",
+      "One Witness Rule",
+      "Rav Huna Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "No Four/Five Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishnah text covering all the cases where double but not four-or-five is paid (including Rabbi Shimon's view on hekdesh), which correspond to headings 'No Four/Five Cases', 'Special Cases', and 'Rabbi Shimon View' \u2014 but since they form the continuous Mishnah unit, heading 0 ('No Four/Five Cases') is the best single home as it introduces the entire Mishnah's enumeration.",
+      "second_heading": "One Witness Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are the Gemara's opening analysis noting the one-witness case is obvious and deriving the chiddush about self-admission being analogous to one witness, which matches perfectly with heading 3 ('One Witness Rule') and its prose about this exact Gemara discussion.",
+      "current_heading": "Special Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Rav Huna Position",
+    "candidates": [
+      "Rabbi Shimon View",
+      "One Witness Rule",
+      "Rav Huna Position",
+      "The Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Huna's ruling that admission to a fine followed by witnesses yields exemption, which is precisely what the 'Rav Huna Position' prose describes \u2014 item 1 introduces the ruling to exclude Rav Huna's view, and item 2 probes it through the Rabban Gamliel narrative, exactly as the prose anticipates.",
+      "chosen_heading": "Rav Huna Position",
+      "current_heading": "Rav Huna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "The Admission",
+    "candidates": [
+      "The Admission",
+      "Rav Chisda Challenge",
+      "Rav Huna Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Rabban Gamliel/Tevi narrative and the inference that had witnesses existed he would be obligated \u2014 precisely the challenge to Rav Huna that the 'Rav Chisda Challenge' prose describes, not merely the admission incident itself.",
+      "chosen_heading": "Rav Chisda Challenge",
+      "current_heading": "The Admission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Rav Huna Response",
+    "candidates": [
+      "Rav Chisda Challenge",
+      "Rav Huna Response",
+      "Two Baraita Versions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely the Rav Huna response distinguishing Rabban Gamliel's admission as not being before beis din, followed by the objection about Rabbi Yehoshua being av beis din and the answer that he was not sitting in court \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Rav Huna Response",
+      "current_heading": "Rav Huna Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Two Baraita Versions",
+    "candidates": [
+      "Two Baraita Versions",
+      "Dispute Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the two baraita versions and the Gemara's initial suggestion that they reflect a tannaic dispute \u2014 exactly what heading 0 ('Two Baraita Versions') describes, before the resolution discussed in heading 1 is reached.",
+      "chosen_heading": "Two Baraita Versions",
+      "current_heading": "Two Baraita Versions",
+      "moved": false
+    }
+  }
+]

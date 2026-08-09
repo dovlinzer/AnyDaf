@@ -1,0 +1,516 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Two Kezayisim in Vessel",
+    "candidates": [
+      "Kezayit Ketores Debate",
+      "Two Kezayisim in Vessel",
+      "Kviusa Demana",
+      "Rava Six Log Wine",
+      "Rams & Lambs Shiur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kviusa Demana",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the exact formulation 'kviusa demana milta hi / lav milta hi' that candidate 2's prose explicitly describes as the gemara's encapsulation of the dispute.",
+      "second_heading": "Rava Six Log Wine",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's application of the framework to the six-log wine libation case, which candidate 3's prose describes precisely, including the four-log/ram detail.",
+      "current_heading": "Two Kezayisim in Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rams & Lambs Shiur",
+    "candidates": [
+      "Kviusa Demana",
+      "Rava Six Log Wine",
+      "Rams & Lambs Shiur",
+      "Chasar Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of four log designated for a ram, three log withdrawn and offered outside, with liability because three log is fit for a lamb \u2014 which is precisely what the 'Rams & Lambs Shiur' prose describes.",
+      "chosen_heading": "Rams & Lambs Shiur",
+      "current_heading": "Rams & Lambs Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Chasar Minimum",
+    "candidates": [
+      "Chasar Minimum",
+      "Rav Ashi Ketores",
+      "Ketores to Ketores"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chasar Minimum",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing ruling about the three-log minimum threshold (chasar kol shehu), which directly matches the 'Chasar Minimum' section's prose about the patur ruling when the three-log minimum is not met.",
+      "second_heading": "Rav Ashi Ketores",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's statement that the Rabbis do not derive the shiur for nisuch from haktara, which directly matches the 'Rav Ashi Ketores' section's prose about nisuch mehaketores lo yalpi rabbanan.",
+      "current_heading": "Chasar Minimum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Ketores to Ketores",
+    "candidates": [
+      "Rav Ashi Ketores",
+      "Ketores to Ketores",
+      "Kometz Levona Lacking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that burning incense (haktara) is derived from burning incense even across outer/inner distinction, which matches exactly the 'Ketores to Ketores' prose discussing haketores mehaketores yalfei af al gav de-chutz mi-pnim.",
+      "chosen_heading": "Ketores to Ketores",
+      "current_heading": "Ketores to Ketores",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Kometz Levona Lacking",
+    "candidates": [
+      "Kometz Levona Lacking",
+      "Chasar Chutz vs Pnim",
+      "Yotzei & Pesul",
+      "Abaye & Rav Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kometz Levona Lacking",
+      "first_confidence": "high",
+      "first_reason": "Items 1 introduces the mishna's ruling about lacking offerings and raises the dilemma about chasar de-chutz, matching candidate 0's prose about the mishna stating ve-chulan she-chasru and the question of why chasar is treated more severely, and candidate 1's prose about the specific question of chisaron de-chutz.",
+      "second_heading": "Yotzei & Pesul",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the two sides of the dilemma (yotzei vs. chasar distinction) and Abaye's attempted resolution from the mishna, matching candidates 2 and 3's prose exactly \u2014 item 2 matches candidate 2's discussion of mah li yotzei mah li chasar, and item 3 matches candidate 3's discussion of Abaye citing Rabbi Eliezer poter ad she-yakriv es kulan.",
+      "current_heading": "Kometz Levona Lacking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Abaye & Rav Proof",
+    "candidates": [
+      "Chasar Chutz vs Pnim",
+      "Yotzei & Pesul",
+      "Abaye & Rav Proof",
+      "When Lacking Occurred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts Rabba bar Rav \u1e24anan challenging Abaye's attempt to derive a ruling from Rabbi Eliezer's opinion, which is precisely the exchange described in the 'Abaye & Rav Proof' section's prose.",
+      "chosen_heading": "Abaye & Rav Proof",
+      "current_heading": "Abaye & Rav Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "When Lacking Occurred",
+    "candidates": [
+      "When Lacking Occurred",
+      "Mincha Not Komtzed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's repeated attempts to resolve whether 'chasar b'chutz' creates a lack, each time being rejected with 'lo, d'chasar b'pnim,' which is exactly what the prose of heading 0 describes.",
+      "chosen_heading": "When Lacking Occurred",
+      "current_heading": "When Lacking Occurred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Mincha Not Komtzed",
+    "candidates": [
+      "Mincha Not Komtzed",
+      "Kometz Nullification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items address the same question \u2014 why is one liable when meat interposes between the imurin and the fire \u2014 and candidate 0's prose explicitly describes all three answers (Shmuel, Rabbi Yochanan, and Rav's min bemino) as part of its discussion of this exact interposition question.",
+      "chosen_heading": "Mincha Not Komtzed",
+      "current_heading": "Mincha Not Komtzed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Kometz Nullification",
+    "candidates": [
+      "Kometz Nullification",
+      "Haktara Linked",
+      "Ein Olin Mevatlin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text describes exactly the case discussed in candidate 0's prose \u2014 a meal offering where the kometz was taken and returned, then offered outside, resulting in liability \u2014 which is the opening case that candidate 0's prose directly introduces and explains.",
+      "chosen_heading": "Kometz Nullification",
+      "current_heading": "Kometz Nullification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Ein Olin Mevatlin",
+    "candidates": [
+      "Haktara Linked",
+      "Ein Olin Mevatlin",
+      "One Matir Chayav",
+      "Full vs Partial Matir",
+      "Two Levona Spoons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question about why the remainder doesn't nullify the handful, and Rabbi Zeira's answer using the verbal analogy from 'haktara' \u2014 exactly the content described in the 'Haktara Linked' prose, which explains the gezerah shavah derivation that shirayim cannot nullify the kometz.",
+      "chosen_heading": "Haktara Linked",
+      "current_heading": "Ein Olin Mevatlin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Two Levona Spoons",
+    "candidates": [
+      "One Matir Chayav",
+      "Full vs Partial Matir",
+      "Two Levona Spoons",
+      "Rav Yitzchak Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "One Matir Chayav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna about the kometz and levona, which is the exact text being discussed under 'One Matir Chayav' and 'Full vs Partial Matir' \u2014 the prose there explicitly quotes and explains this Mishna's cases.",
+      "second_heading": "Two Levona Spoons",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Mishna about the two bezichin of levona for Lechem Hapanim, which is precisely what the 'Two Levona Spoons' prose describes and discusses.",
+      "current_heading": "Two Levona Spoons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Yitzchak Question",
+    "candidates": [
+      "Rav Yitzchak Question",
+      "Rabbi Meir Half Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yitzchak Nappa\u1e25a's dilemma about whether burning the handful permits the corresponding half of the remainder or merely weakens the prohibition, which is precisely what the prose under 'Rav Yitzchak Question' discusses.",
+      "chosen_heading": "Rav Yitzchak Question",
+      "current_heading": "Rav Yitzchak Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rabbi Meir Half Effect",
+    "candidates": [
+      "Rabbi Meir Half Effect",
+      "Rabbanan No Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses Rabbi Meir's opinion on piggul through half a matir and concludes 'mishra shari,' which matches exactly the prose of heading 0 ('Rabbi Meir Half Effect').",
+      "chosen_heading": "Rabbi Meir Half Effect",
+      "current_heading": "Rabbi Meir Half Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Rabbanan No Effect",
+    "candidates": [
+      "Rabbanan No Effect",
+      "Rabbi Eliezer Tayku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's rejection of posing the dilemma according to the Rabbis and then according to Rabbi Eliezer, concluding that the question stands \u2014 exactly what the 'Rabbi Eliezer Tayku' prose describes, whereas the current heading's prose only covers the Rabbis' position without the Rabbi Eliezer dismissal or the tayku conclusion.",
+      "chosen_heading": "Rabbi Eliezer Tayku",
+      "current_heading": "Rabbanan No Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Rabbi Eliezer Tayku",
+    "candidates": [
+      "Rabbanan No Effect",
+      "Rabbi Eliezer Tayku",
+      "Partial Dam Chayav",
+      "Rabbi Eliezer Dam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's conclusion that the dilemma is meaningful according to the rabbanan of the mishna and the tayku \u2014 are precisely what the 'Rabbi Eliezer Tayku' prose describes: the question being reframed for the rabbanan and left unresolved.",
+      "chosen_heading": "Rabbi Eliezer Tayku",
+      "current_heading": "Rabbi Eliezer Tayku",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Rabbi Eliezer Dam",
+    "candidates": [
+      "Partial Dam Chayav",
+      "Rabbi Eliezer Dam",
+      "Rava Chiddush Dam",
+      "Where Spilling Begins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Partial Dam Chayav",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna itself (hazorek miktzas dam, Rabbi Elazar on water libation, Rabbi Nechemya on shirayim), which candidate 0 'Partial Dam Chayav' directly introduces and summarizes.",
+      "second_heading": "Rabbi Eliezer Dam",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rava's Gemara statement 'u'modeh Rabbi Elazar bedamim,' which candidate 1 'Rabbi Eliezer Dam' explicitly discusses and quotes as its central proof.",
+      "current_heading": "Rabbi Eliezer Dam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Where Spilling Begins",
+    "candidates": [
+      "Rava Chiddush Dam",
+      "Where Spilling Begins",
+      "Water Libation Chayav",
+      "Rabbi Akiva Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the braita about Rabbi Elazar and Rabbi Shimon's ruling on resuming sprinklings from where one stopped, which is precisely the source discussed in the 'Where Spilling Begins' section's prose.",
+      "chosen_heading": "Where Spilling Begins",
+      "current_heading": "Where Spilling Begins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rabbi Akiva Source",
+    "candidates": [
+      "Water Libation Chayav",
+      "Rabbi Akiva Source",
+      "Reish Lakish Challenge",
+      "Sukkot Only Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's explanation that Rabbi Elazar follows Rabbi Akiva's position, with the baraita deriving water libation from 'u'nesacheha' \u2014 exactly what the 'Rabbi Akiva Source' prose describes.",
+      "chosen_heading": "Rabbi Akiva Source",
+      "current_heading": "Rabbi Akiva Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Sukkot Only Question",
+    "candidates": [
+      "Reish Lakish Challenge",
+      "Sukkot Only Question",
+      "Halakha Lemoshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH of Reish Lakish's challenges (the three-log amount AND the year-round vs. festival-only objection) in a single quoted text, and candidate 0 ('Reish Lakish Challenge') describes this as a unified challenge sequence, while the current placement under 'Sukkot Only Question' only covers the second half \u2014 but since the full quoted passage belongs under one heading, candidate 0 is the better fit as it introduces the full exchange.",
+      "chosen_heading": "Reish Lakish Challenge",
+      "current_heading": "Sukkot Only Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Halakha Lemoshe",
+    "candidates": [
+      "Sukkot Only Question",
+      "Halakha Lemoshe",
+      "Three Log Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Asi's statement that the water libation is a halakha l'Moshe mi-Sinai, which is precisely what the 'Halakha Lemoshe' section's prose discusses as the gemara's resolution via ishtamitayh.",
+      "chosen_heading": "Halakha Lemoshe",
+      "current_heading": "Halakha Lemoshe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Three Log Water",
+    "candidates": [
+      "Three Log Water",
+      "Kli Sharet Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the baraita about three log of water libation outside the Temple and Rabbi Elazar's position, which matches precisely what heading 0's prose describes and analyzes.",
+      "chosen_heading": "Three Log Water",
+      "current_heading": "Three Log Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Kli Sharet Debate",
+    "candidates": [
+      "Kli Sharet Debate",
+      "Midbar Nesachim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Na\u1e25man bar Yitz\u1e25ak's explanation that the dispute concerns whether there is a precise measure (shiur) of water for consecration, which matches exactly the 'Kli Sharet Debate' prose that discusses this shiur dispute between the chachamim and Rabbi Eliezer.",
+      "chosen_heading": "Kli Sharet Debate",
+      "current_heading": "Kli Sharet Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Midbar Nesachim",
+    "candidates": [
+      "Midbar Nesachim",
+      "Bamot Question",
+      "Ravina Water Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Pappa's statement about nesachim in the midbar, which is exactly what the 'Midbar Nesachim' prose section discusses in detail.",
+      "chosen_heading": "Midbar Nesachim",
+      "current_heading": "Midbar Nesachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Ravina Water Wine",
+    "candidates": [
+      "Bamot Question",
+      "Ravina Water Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement about deriving water libation liability from wine libation, which is precisely what the 'Ravina Water Wine' section's prose discusses.",
+      "chosen_heading": "Ravina Water Wine",
+      "current_heading": "Ravina Water Wine",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Maasrot Mishna",
+    "candidates": [
+      "Structure Overview",
+      "All Six Orders",
+      "Metamed Water-Wine",
+      "Maasrot Mishna",
+      "Rav Nachman: Hichmit",
+      "Potential Fermentation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion of 'Mani Matnitin' \u2014 who authored the mishna \u2014 followed by the resolution from Rav Nachman/Rabba bar Avuh that the dispute applies when it fermented, which is precisely what the prose of heading 3 ('Maasrot Mishna') describes in detail.",
+      "chosen_heading": "Maasrot Mishna",
+      "current_heading": "Maasrot Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Potential Fermentation",
+    "candidates": [
+      "Rav Nachman: Hichmit",
+      "Potential Fermentation",
+      "Sample Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling of Rav Nachman/Rabbah bar Avuha about temed purchased with second-tithe money before fermentation that subsequently fermented, with the retroactive revelation principle \u2014 exactly what the 'Potential Fermentation' prose describes and analyzes.",
+      "chosen_heading": "Potential Fermentation",
+      "current_heading": "Potential Fermentation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Sample Test",
+    "candidates": [
+      "Sample Test",
+      "Water-Milk Mixture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's resolution about leaving a sample in a cup to monitor fermentation, which is precisely what the 'Sample Test' section's prose discusses in detail.",
+      "chosen_heading": "Sample Test",
+      "current_heading": "Sample Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Water-Milk Mixture",
+    "candidates": [
+      "Water-Milk Mixture",
+      "Rav's Position",
+      "Appearance & Taste",
+      "Applied to Metamed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Mikvaot mishna cited by Rava (wine case, then milk case, then Rabbi Yochanan ben Nuri's ruling on appearance), which is precisely what the 'Water-Milk Mixture' prose describes in detail.",
+      "chosen_heading": "Water-Milk Mixture",
+      "current_heading": "Water-Milk Mixture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Applied to Metamed",
+    "candidates": [
+      "Rav's Position",
+      "Appearance & Taste",
+      "Applied to Metamed",
+      "Before Fermentation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yochanan's principle of following appearance and applies it to the metamed case, which directly matches heading 0's prose about invoking Rabbi Yochanan ben Nuri's appearance-based principle \u2014 the subsequent headings (1 and 2) cover the elaboration and application that follows this initial invocation.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Applied to Metamed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Before Fermentation",
+    "candidates": [
+      "Applied to Metamed",
+      "Before Fermentation",
+      "Rabbinic Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's statement that everyone agrees one cannot separate tithes from another place unless it fermented, which is exactly what the 'Before Fermentation' section's prose discusses \u2014 it quotes and explains this very statement (hakol modim she-ein mafrishin alav mi-makom acher ela im ken hechmitz) as Rabbi Elazar's dispute with Rav Nachman.",
+      "chosen_heading": "Before Fermentation",
+      "current_heading": "Before Fermentation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rabbinic Status",
+    "candidates": [
+      "Rabbinic Status",
+      "Metamed Mikvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's qualification of Rabbi Yehuda's position regarding tithing temed that has not fermented, which is precisely what the 'Rabbinic Status' section's prose elaborates on.",
+      "chosen_heading": "Rabbinic Status",
+      "current_heading": "Rabbinic Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Metamed Mikvah",
+    "candidates": [
+      "Metamed Mikvah",
+      "Pure Water Only",
+      "Rav Ashi's Q",
+      "Density Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about temed being purified via contact with mikvah water before fermentation and not after, plus Rava's qualification \u2014 exactly the content described in the 'Metamed Mikvah' prose section.",
+      "chosen_heading": "Metamed Mikvah",
+      "current_heading": "Metamed Mikvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Density Separation",
+    "candidates": [
+      "Pure Water Only",
+      "Rav Ashi's Q",
+      "Density Separation",
+      "Mutual Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rav Geviha's report of the halakha before Rav Ashi and the resulting question-and-answer (the density separation challenge and its resolution via intermingling), which is precisely what candidate 1 ('Rav Ashi's Q') describes in its prose, whereas candidate 2 ('Density Separation') already contains this entire exchange in its own prose, indicating the passage was placed one heading too late.",
+      "chosen_heading": "Rav Ashi's Q",
+      "current_heading": "Density Separation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Mutual Exclusion",
+    "candidates": [
+      "Density Separation",
+      "Mutual Exclusion",
+      "Rabbi Meir",
+      "Sages' Overlap",
+      "Mutual Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mutual Exclusion",
+      "first_confidence": "high",
+      "first_reason": "The Mishna and the opening Gemara statement attributing the mutual-exclusion principle to Rabbi Meir belong under 'Mutual Exclusion' (index 1), which discusses exactly this Mishna and its knas/mecher framework.",
+      "second_heading": "Rabbi Meir",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 detail the baraita distinguishing Rabbi Meir's strict non-overlap from the Sages' view of overlap, which maps precisely onto the 'Rabbi Meir' section (index 2) and then the 'Sages' Overlap' section (index 3) \u2014 but since items 2-4 form a continuous dispute resolved together, they belong under 'Rabbi Meir' (index 2) as the starting point of that dispute.",
+      "current_heading": "Mutual Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Mutual Exclusion",
+    "candidates": [
+      "Rabbi Meir",
+      "Sages' Overlap",
+      "Mutual Exclusion",
+      "Rabbi Meir",
+      "Sages' Overlap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishna states exactly the mutual exclusion principle between miun and chalitzah that candidate 2's prose is directly explaining and elaborating upon.",
+      "chosen_heading": "Mutual Exclusion",
+      "current_heading": "Mutual Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Sages' Overlap",
+    "candidates": [
+      "Rabbi Meir",
+      "Sages' Overlap",
+      "Mutual Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Meir's position (miun until two pubic hairs) AND Rabbi Yehuda/Sages' position (until black exceeds white), and the prose under heading 0 explicitly quotes and discusses both parts of this Gemara/baraita together, making it the better home for the complete passage.",
+      "chosen_heading": "Rabbi Meir",
+      "current_heading": "Sages' Overlap",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Mutual Exclusion",
+    "candidates": [
+      "Sages' Overlap",
+      "Mutual Exclusion",
+      "Yom Tov Erev",
+      "Yom Tov Motza'ei",
+      "Tekiah Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mutual Exclusion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna stating the general rule of mutual exclusion between tekiah and havdalah, which matches exactly the 'Mutual Exclusion' prose discussing kol makom sheyesh tkiyah ein havdalah.",
+      "second_heading": "Yom Tov Erev",
+      "second_confidence": "high",
+      "second_reason": "Item 2 elaborates the specific case of Yom Tov on erev Shabbat (tok'in v'lo mavdilin) and motzei Shabbat (mavdilin v'lo tok'in), which maps directly onto the 'Yom Tov Erev' prose discussing Yom Tov shechal lihyot be'erev Shabbat.",
+      "current_heading": "Mutual Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Tekiah Method",
+    "candidates": [
+      "Yom Tov Erev",
+      "Yom Tov Motza'ei",
+      "Tekiah Method",
+      "Havdalah Text"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Havdalah Text",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the havdalah formula ('hamavdil bein kodesh l'kodesh' and Rabbi Dosa's variant 'bein kodesh chamur l'kodesh kal'), which is precisely what candidate 3 'Havdalah Text' discusses in detail.",
+      "second_heading": "Tekiah Method",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 discuss how the tekiah is performed when Yom Tov falls on erev Shabbat (Rav Yehuda vs. Rav Asi's methods and the baraita challenge), which exactly matches candidate 2 'Tekiah Method' where it currently sits.",
+      "current_heading": "Tekiah Method",
+      "moved": true
+    }
+  }
+]

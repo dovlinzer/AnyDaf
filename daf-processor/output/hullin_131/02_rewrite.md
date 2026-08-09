@@ -132,9 +132,7 @@ This raises the broader question of why we apply the civil framework (*hamotzi m
 
 ### Rav Idi Question
 
-Rav Pappa was sitting and presenting this entire discussion about Rav's doubt regarding the *levi*'s status. Rav Idi bar Avin approached Rav Pappa with an attempt to resolve the question by drawing on an analogy from the *braita* concerning gifts to the poor. The structure of the comparison — between how the gifts of the poor and the gifts of the *kohanim* are treated with respect to *tovat hana'ah* and compulsion — is meant to shed light on whether a *levi* would be obligated to give *zeroa lechayayim vekeiva* to a *kohen*. This argument unfolds across the next section.
-
----
+Rav Idi bar Avin came before Rav Pappa to attempt to resolve the question one way or the other.
 
 ## Poor's Gifts
 

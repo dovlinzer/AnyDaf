@@ -1,0 +1,203 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Hidden Reasoning",
+    "candidates": [
+      "Intro: Boats & Tumah",
+      "Chananya's Principle",
+      "Jordan Boat",
+      "Rav's Teaching",
+      "Hidden Reasoning",
+      "Rabbi Yonatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the Jordan ship discussion (which belongs under 'Jordan Boat') and Rav's teaching, but since all items must go under one heading and the Jordan ship content with Rabbi \u1e24anina ben Akavya's explanation is the primary content that leads into Rav's teaching, heading 2 ('Jordan Boat') is actually too narrow \u2014 however, heading 4 ('Hidden Reasoning') covers exactly the combined content of the sfinat hayarden's reasoning being revealed and Rav's teaching about attending the beit midrash, making it the best single home for this passage as currently placed.",
+      "chosen_heading": "Jordan Boat",
+      "current_heading": "Hidden Reasoning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rabbi Yonatan",
+    "candidates": [
+      "Hidden Reasoning",
+      "Rabbi Yonatan",
+      "Reish Lakish",
+      "Rava on Oxen",
+      "Wagon Mishnah",
+      "Covered Wagon",
+      "Flatbed Wagon",
+      "Stone Wagon",
+      "Oxen & Tumah",
+      "Side-Opening Chest",
+      "Top-Opening Chest",
+      "Huge Chest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yonatan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the teachings of Rabbi Yonatan and Reish Lakish on Torah study even at the moment of death, which is precisely what the 'Rabbi Yonatan' section's prose discusses.",
+      "second_heading": "Rava on Oxen",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question about whether carrying by oxen counts as carrying (taltula yedei shevarim), followed by the wagon mishnah proof, which is exactly what the 'Rava on Oxen' section's prose describes.",
+      "current_heading": "Rabbi Yonatan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Huge Chest",
+    "candidates": [
+      "Reish Lakish",
+      "Rava on Oxen",
+      "Wagon Mishnah",
+      "Covered Wagon",
+      "Flatbed Wagon",
+      "Stone Wagon",
+      "Oxen & Tumah",
+      "Side-Opening Chest",
+      "Top-Opening Chest",
+      "Huge Chest",
+      "Pottery Exclusion",
+      "Rav Zevid",
+      "Pottery Boat Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage quotes the mishnah listing all three types of chests (side-opening, top-opening, and oversized), which is the full text being analyzed across sections 7-9, but its citation as a unified block ('shalosh tevot hen \u2014 there are three types of chests') matches the introductory prose of section 7 ('The gemara now quotes the continuation of the same mishnah: shalosh tevot hen \u2014 there are three types of chests').",
+      "chosen_heading": "Side-Opening Chest",
+      "current_heading": "Huge Chest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Pottery Boat Debate",
+    "candidates": [
+      "Pottery Exclusion",
+      "Rav Zevid",
+      "Pottery Boat Debate",
+      "Wooden vs Boat",
+      "Chizkiya's Logic",
+      "Mishkav Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Pottery Boat Debate' \u2014 the baraita about midras klei cheres, Rabbi Yosi's 'af hasfina' statement, Rav Zevid's interpretation involving pottery boats and Chananya, and Rav Pappa's objection about the word 'af' \u2014 all of which are precisely what that section's prose describes.",
+      "chosen_heading": "Pottery Boat Debate",
+      "current_heading": "Pottery Boat Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Mishkav Connection",
+    "candidates": [
+      "Wooden vs Boat",
+      "Chizkiya's Logic",
+      "Mishkav Connection",
+      "Rabbi Ila's Challenge",
+      "Back Door Entry",
+      "Rabbi Chanina's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Chizkiya's derivation (and the parallel from the school of Rabbi Yishmael) that pottery cannot become midras-tamei because the verse juxtaposes the mishkav to the zav/zavah who has tahara b'mikveh \u2014 exactly what candidate 1 ('Chizkiya's Logic') describes, whereas the current placement (candidate 2, 'Mishkav Connection') covers the downstream elaboration of that principle and the parallel zavah derivation as conclusions rather than as the primary derivation being introduced.",
+      "chosen_heading": "Chizkiya's Logic",
+      "current_heading": "Mishkav Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rabbi Chanina's Answer",
+    "candidates": [
+      "Rabbi Ila's Challenge",
+      "Back Door Entry",
+      "Rabbi Chanina's Answer",
+      "Competing Verses",
+      "Sealed Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Ila's challenge and Rabbi Chanina's response regarding the mat's mishkav status despite lacking mikveh purification, which is precisely what heading 2 ('Rabbi Chanina's Answer') describes in its prose.",
+      "chosen_heading": "Rabbi Chanina's Answer",
+      "current_heading": "Rabbi Chanina's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Sealed Vessels",
+    "candidates": [
+      "Competing Verses",
+      "Sealed Vessels",
+      "Proof via Seal",
+      "Bed Setup",
+      "Scripture Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's derivation from the sealed vessel verse and his challenge about a vessel designated for a niddah's use, which is exactly what the 'Sealed Vessels' prose describes as Rava's argument and the live practical concern about dedicated seats.",
+      "chosen_heading": "Sealed Vessels",
+      "current_heading": "Sealed Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Scripture Derivation",
+    "candidates": [
+      "Proof via Seal",
+      "Bed Setup",
+      "Scripture Derivation",
+      "Rashi's Principle",
+      "Separation Criteria",
+      "Rashi: Rabbinic Kilayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself introducing the arugah ruling (six by six handbreadths, five seeds, four sides plus center), which matches the 'Bed Setup' prose that explicitly paraphrases this exact Mishna content, while the current placement under 'Scripture Derivation' better fits the Gemara's subsequent exegesis of the Isaiah verse.",
+      "chosen_heading": "Bed Setup",
+      "current_heading": "Scripture Derivation",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishna Cases",
+    "candidates": [
+      "Basic Categories",
+      "Mishna Cases",
+      "Derech Hashomrim",
+      "Challenge to Mishna",
+      "In Your Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself, and candidate 1 ('Mishna Cases') is precisely the section whose prose describes and analyzes the three cases enumerated in this mishna text.",
+      "chosen_heading": "Mishna Cases",
+      "current_heading": "Mishna Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "In Your Hand",
+    "candidates": [
+      "Derech Hashomrim",
+      "Challenge to Mishna",
+      "In Your Hand",
+      "Pocket Checking",
+      "Cash Availability",
+      "Portfolio Advice"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Portfolio Advice",
+    "candidates": [
+      "Pocket Checking",
+      "Cash Availability",
+      "Portfolio Advice",
+      "Hidden Blessing",
+      "Hidden Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the teaching about keeping money readily in hand (l'olam yehei kaspei adam matzui b'yado) AND the teaching about dividing assets into thirds, and the prose under 'Cash Availability' (index 1) explicitly discusses both teachings together as a unit, while 'Portfolio Advice' (index 2) covers only the thirds-division teaching.",
+      "chosen_heading": "Cash Availability",
+      "current_heading": "Portfolio Advice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Hidden Sources",
+    "candidates": [
+      "Hidden Blessing",
+      "Hidden Sources",
+      "Measuring Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the two formulations (Rabbi Yitzchak's 'samui min ha'ayin' and the school of Rabbi Yishmael's 'ein ha'ayin sholetet bo') with the shared verse, which is precisely what the 'Hidden Sources' prose section explicates and compares.",
+      "chosen_heading": "Hidden Sources",
+      "current_heading": "Hidden Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Measuring Grain",
+    "candidates": [
+      "Measuring Grain",
+      "Shmuel's Rule",
+      "Shabbat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita about measuring grain at the threshing floor, reciting blessings before/during/after measuring, and the principle that blessing is found only in what is hidden from the eye \u2014 precisely what the prose under 'Measuring Grain' discusses in detail.",
+      "chosen_heading": "Measuring Grain",
+      "current_heading": "Measuring Grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Shabbat Exception",
+    "candidates": [
+      "Shmuel's Rule",
+      "Shabbat Exception",
+      "Norms Shape Care",
+      "Thief Escalation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 1's prose describes: Rava's qualification of Shmuel's ruling regarding erev Shabbat twilight, the resumption of liability after Shabbat ends, and the exception for a Torah scholar who may need money for havdala.",
+      "chosen_heading": "Shabbat Exception",
+      "current_heading": "Shabbat Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Thief Escalation",
+    "candidates": [
+      "Norms Shape Care",
+      "Thief Escalation",
+      "Burial Depth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the arms race between thieves and hiding places that the 'Thief Escalation' prose section explicitly narrates \u2014 rummagers, dismantlers, tappers, and the corresponding safeguarding solutions.",
+      "chosen_heading": "Thief Escalation",
+      "current_heading": "Thief Escalation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Burial Depth",
+    "candidates": [
+      "Burial Depth",
+      "Buried & Stolen",
+      "Liability Conflict",
+      "Armed Robbers",
+      "Duck Blind",
+      "Negligence & Oness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the burial depth question \u2014 the challenge from the chametz/dog-detection mishna and Rav Ashi's resolution distinguishing scent from visual concealment, concluding with Rafram's one-handbreadth ruling \u2014 which is precisely what the 'Burial Depth' prose section describes.",
+      "chosen_heading": "Burial Depth",
+      "current_heading": "Burial Depth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Negligence & Oness",
+    "candidates": [
+      "Buried & Stolen",
+      "Liability Conflict",
+      "Armed Robbers",
+      "Duck Blind",
+      "Negligence & Oness",
+      "Opposite View",
+      "Final Ruling",
+      "Buried & Forgot",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the case of the duck blind (willow hut), which is introduced under 'Duck Blind' \u2014 that section's prose explicitly describes 'hahu gavra de-afkid zuzei gabei chavreih' and the placement in the hunting hut, matching this passage exactly as the setup before Rav Yosef's ruling is analyzed in subsequent sections.",
+      "chosen_heading": "Duck Blind",
+      "current_heading": "Negligence & Oness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Opposite View",
+      "Final Ruling",
+      "Buried & Forgot",
+      "Rava's Ruling",
+      "Mother's Box"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the exact case of a shomer who deposited money and claims not to know where he placed it, which is precisely what the 'Buried & Forgot' section's prose introduces as its narrative setup.",
+      "chosen_heading": "Buried & Forgot",
+      "current_heading": "Rava's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Mother's Box",
+    "candidates": [
+      "Rava's Ruling",
+      "Mother's Box",
+      "Own Money Theory",
+      "Both Swear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the opening facts of the case \u2014 money deposited, given to mother, placed in a box, stolen, and Rava's question \u2014 which is precisely what the 'Mother's Box' section's prose introduces and discusses.",
+      "chosen_heading": "Mother's Box",
+      "current_heading": "Mother's Box",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Both Swear",
+    "candidates": [
+      "Own Money Theory",
+      "Both Swear",
+      "Tosafot Concern",
+      "Cow Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1\u20134 present the chain of arguments (kol hamafkid, mother's excuse, son's counter-reasoning) that candidate 0's prose explicitly walks through in detail, and item 5 (Rava's oath resolution) is the conclusion of that same continuous discussion \u2014 all five items belong under 'Own Money Theory,' not split off under 'Both Swear.'",
+      "chosen_heading": "Own Money Theory",
+      "current_heading": "Both Swear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Cow Setup",
+    "candidates": [
+      "Tosafot Concern",
+      "Cow Setup",
+      "Liability Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the steward purchasing the ox, handing it to the cowherd, and the ox dying because it lacked teeth \u2014 exactly the setup narrative described in 'Cow Setup' prose \u2014 while Rami bar \u1e24ama's question about how judges should rule is the transition point covered by 'Liability Split.'",
+      "chosen_heading": "Cow Setup",
+      "current_heading": "Cow Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Liability Split",
+    "candidates": [
+      "Liability Split",
+      "Cowherd Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the back-and-forth deflection of liability between the apotropos and the cowherd, which is exactly what the 'Liability Split' prose describes \u2014 each party deflecting responsibility to the other \u2014 before the gemara resolves it in the 'Cowherd Liable' section.",
+      "chosen_heading": "Liability Split",
+      "current_heading": "Liability Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Cowherd Liable",
+    "candidates": [
+      "Cowherd Liable",
+      "Mekach Taus",
+      "Middleman",
+      "Meat Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the cowherd as paid bailee (shomer sachar) of the orphans and his obligation to examine the situation, with the answer that there is no loss because the orphans recovered their money \u2014 exactly what the 'Cowherd Liable' prose describes as the setup before the Mekach Taus twist.",
+      "chosen_heading": "Cowherd Liable",
+      "current_heading": "Cowherd Liable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Meat Value",
+    "candidates": [
+      "Mekach Taus",
+      "Middleman",
+      "Meat Value",
+      "De Facto Shomer",
+      "Wrong Pile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the oath of the safsera and the payment of wholesale meat value (dmei basar bezol), which is precisely what the 'Meat Value' section's prose discusses.",
+      "chosen_heading": "Meat Value",
+      "current_heading": "Meat Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Wrong Pile",
+    "candidates": [
+      "De Facto Shomer",
+      "Wrong Pile",
+      "Negligence Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the hops-deposit case (the bailee, his brewer, and the wrong pile) which is exactly what the 'Wrong Pile' prose section introduces, and the dilemma of whom to hold liable belongs together as one continuous narrative unit under that heading.",
+      "chosen_heading": "Wrong Pile",
+      "current_heading": "Wrong Pile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Negligence Split",
+    "candidates": [
+      "Negligence Split",
+      "Benefit Principle",
+      "Damage Case",
+      "Inferior Hops"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the delay inference (bedela shaha) and the shomer's implicit acquiescence, which is explicitly described in the 'Negligence Split' prose as the clarifying factor about pile distance and delay.",
+      "chosen_heading": "Negligence Split",
+      "current_heading": "Negligence Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Inferior Hops",
+    "candidates": [
+      "Benefit Principle",
+      "Damage Case",
+      "Inferior Hops",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Benefit Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 opens with the 'Benefit Principle' question (sof sof mai psida ika, ha ka mishtarshi lei) and then gives Rav Sama's vinegar case as the first rebuttal \u2014 both of which are explicitly discussed under heading 0's prose about mishtarshi lei and heading 1's prose about the vinegar variation; but item 1 as a whole unit (the gemara's shortcut question plus Rav Sama's answer plus Rav Ashi's thorns answer) fits best under heading 0, which introduces the mishtarshi lei shortcut and whose prose anticipates the follow-on complications.",
+      "second_heading": "Inferior Hops",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (umashlim lei d'mei kisi \u2014 paying the value of the thorns/inferior hops) is the concluding clause of Rav Ashi's inferior-hops variation, which is exactly what heading 2 ('Inferior Hops') discusses in its prose about bekisi umashlim lei d'mei kisi.",
+      "current_heading": "Inferior Hops",
+      "moved": true
+    }
+  }
+]

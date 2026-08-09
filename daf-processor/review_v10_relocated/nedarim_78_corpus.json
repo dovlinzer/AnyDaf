@@ -1,0 +1,168 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Hillel Position",
+    "candidates": [
+      "Non-Judicial Status",
+      "Shabbat Permissibility",
+      "Standard Language",
+      "Intent Requirement",
+      "Shammai Position",
+      "Hillel Position",
+      "Heart Intent Synthesis",
+      "Meifer vs. Mevatel",
+      "Explicit vs. Implicit",
+      "Vow Negation Problem",
+      "Language Swapping Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The baraita presents the Beit Shammai/Beit Hillel dispute as a unit, but the passage content \u2014 the full baraita text including both positions \u2014 is introduced and explained under candidate 4 ('Shammai Position'), which explicitly states 'A baraisa presents an explicit dispute between Beit Shammai and Beit Hillel on this question' and discusses both sides together, while candidate 5 ('Hillel Position') is meant to analyze Beit Hillel's position in prose commentary after the baraita has already been quoted.",
+      "chosen_heading": "Shammai Position",
+      "current_heading": "Hillel Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Language Swapping Invalid",
+    "candidates": [
+      "Heart Intent Synthesis",
+      "Meifer vs. Mevatel",
+      "Explicit vs. Implicit",
+      "Vow Negation Problem",
+      "Language Swapping Invalid",
+      "Torah Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yo\u1e25anan's ruling that a sage using a husband's language or a husband using a sage's language 'has not said anything,' which is precisely what the 'Language Swapping Invalid' section's prose discusses and analyzes.",
+      "chosen_heading": "Language Swapping Invalid",
+      "current_heading": "Language Swapping Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Torah Derivation",
+    "candidates": [
+      "Torah Derivation",
+      "Hafara Authority",
+      "Ran Language Analysis",
+      "Zeh HaDavar Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two baraitot deriving from 'zeh hadavar' that a chacham dissolves but does not nullify, and a husband nullifies but does not dissolve \u2014 which is precisely what the 'Torah Derivation' prose describes, including the kal va-chomer arguments and the talmud lomar conclusions.",
+      "chosen_heading": "Torah Derivation",
+      "current_heading": "Torah Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Zeh HaDavar Link",
+    "candidates": [
+      "Hafara Authority",
+      "Ran Language Analysis",
+      "Zeh HaDavar Link",
+      "Three Hedyotos Valid",
+      "Shchutei Chutz Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the gezeira shava between parshas nedarim and shchutei chutz via 'zeh hadavar', which is precisely what the 'Zeh HaDavar Link' prose describes \u2014 the baraisa linking the two passages and deriving that parshas nedarim applies to all Israel while rashei ha-matos applies to shchutei chutz.",
+      "chosen_heading": "Zeh HaDavar Link",
+      "current_heading": "Zeh HaDavar Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Shchutei Chutz Link",
+    "candidates": [
+      "Three Hedyotos Valid",
+      "Shchutei Chutz Link",
+      "Moshe Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items trace exactly the content described in the 'Shchutei Chutz Link' prose: Rav Sheshet's she'eila b'hekdesh ruling, Beit Shammai's rejection of the gezeira shava, what zeh hadavar teaches in each parsha independently, and the closing question about Beit Shammai's source for three hedyotos \u2014 all of which the prose explicitly narrates and concludes with 'that is the question the gemara now turns to address.'",
+      "chosen_heading": "Shchutei Chutz Link",
+      "current_heading": "Shchutei Chutz Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Moshe Derivation",
+    "candidates": [
+      "Moshe Derivation",
+      "Moadim Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about the Festivals/Shabbat/vows distinction and Rav Asi bar Natan's difficulty traveling to find Rav Sheshet \u2014 are explicitly described in the 'Moshe Derivation' prose, which recounts exactly this baraita and Rav Assi bar Nasn's journey to Naharda'ah and then Mechuza.",
+      "chosen_heading": "Moshe Derivation",
+      "current_heading": "Moshe Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Moadim Requirement",
+    "candidates": [
+      "Moadim Requirement",
+      "Mumche Relativity",
+      "Knowledge Minimum",
+      "Gadol HaDor Requirement",
+      "Rosh Hashanah Question",
+      "Petach vs. Charata"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover the Gemara's exchange about why Shabbat and parshas nedarim are juxtaposed with the moadim, Rav Sheshet's resolution distinguishing kiddush beit din and mumche requirements, and the derivation that three hedyotos suffice for hataras nedarim \u2014 exactly the content described in the 'Moadim Requirement' prose.",
+      "chosen_heading": "Moadim Requirement",
+      "current_heading": "Moadim Requirement",
+      "moved": false
+    }
+  }
+]

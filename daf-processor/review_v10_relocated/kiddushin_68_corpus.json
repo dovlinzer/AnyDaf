@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Restricted Nations",
+    "candidates": [
+      "Opening & Daf",
+      "Mishnah: Yichus Cases",
+      "Restricted Nations",
+      "Three Generations",
+      "Mamzer Definition",
+      "Four Schools",
+      "Sexual Relation",
+      "Divorce Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Gemara's analysis of 'nitgayru halach achar hapagum shebishneihem' \u2014 the Egyptian/Ammonite conversion case \u2014 which is precisely what the 'Restricted Nations' section prose describes in detail.",
+      "chosen_heading": "Restricted Nations",
+      "current_heading": "Restricted Nations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Divorce Pasuk",
+    "candidates": [
+      "Three Generations",
+      "Mamzer Definition",
+      "Four Schools",
+      "Sexual Relation",
+      "Divorce Pasuk",
+      "Rabbi Abba Query",
+      "Achot Isha Paradigm",
+      "Kal Vachomer",
+      "Kal Vachomer Weak",
+      "Binyan Av"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in candidate 5's prose: the derivation from the divorce pasuk, Rabbi Abba's challenge about 'son' vs. 'relatives,' the gemara's response using 'lo yikach ish et eshet aviv,' and the follow-up suggestion that both pesukim address the son (lechatchila vs. bedi'eved) \u2014 all of which candidate 5's prose explicitly describes, whereas candidate 4 ('Divorce Pasuk') covers only the initial derivation (item 1) and not the subsequent objections.",
+      "chosen_heading": "Rabbi Abba Query",
+      "current_heading": "Divorce Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Binyan Av",
+    "candidates": [
+      "Rabbi Abba Query",
+      "Achot Isha Paradigm",
+      "Kal Vachomer",
+      "Kal Vachomer Weak",
+      "Binyan Av",
+      "Exceptions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kal Vachomer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the kal vachomer from achot isha to chayavei mitat beit din and the question of whether both pesukim refer to achot isha (lechatchila vs. bedi'eved), which matches the 'Kal Vachomer' prose exactly.",
+      "second_heading": "Binyan Av",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the binyan av from achot isha extending to all arayot with karet/chatat, which is precisely what the 'Binyan Av' prose describes with the same Hebrew formulation.",
+      "current_heading": "Binyan Av",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Exceptions",
+    "candidates": [
+      "Exceptions",
+      "Rabbi Yona Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's refutations of the binyan av for eshet ach and eshet ish respectively, which is precisely what the 'Exceptions' prose section describes and analyzes.",
+      "chosen_heading": "Exceptions",
+      "current_heading": "Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rabbi Yona Drasha",
+    "candidates": [
+      "Rabbi Yona Drasha",
+      "Niddah Question",
+      "Agreement Niddah",
+      "Chizkiyah Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly Rabbi Yona's (or Rav Huna bereih de-Rav Yehoshua's) hekesh deriving that all arayot disable kiddushin by juxtaposing them to achot isha via the concluding pasuk of the parasha, which is precisely what the 'Rabbi Yona Drasha' prose section describes.",
+      "chosen_heading": "Rabbi Yona Drasha",
+      "current_heading": "Rabbi Yona Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Chizkiyah Drasha",
+    "candidates": [
+      "Niddah Question",
+      "Agreement Niddah",
+      "Chizkiyah Drasha",
+      "Chumra Chumra Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge ('if so, even niddah should produce mamzerut') and its resolution via Chizkiyah's drasha from 'u-tehi nidatah alav' \u2014 which is exactly the content described in the 'Niddah Question' prose, including the hava amina about kiddushin with a niddah and the Chizkiyah verse-based answer.",
+      "chosen_heading": "Niddah Question",
+      "current_heading": "Chizkiyah Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Chumra Chumra Rule",
+    "candidates": [
+      "Chizkiyah Drasha",
+      "Chumra Chumra Rule",
+      "Rav Acha Kal V."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the question of why we juxtapose to achot isha rather than niddah, and the answer that we follow the stricter option \u2014 exactly the content described in the 'Chumra Chumra Rule' prose.",
+      "chosen_heading": "Chumra Chumra Rule",
+      "current_heading": "Chumra Chumra Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Acha Kal V.",
+    "candidates": [
+      "Rav Acha Kal V.",
+      "Two Wives Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav A\u1e25a bar Ya'akov's kal vachomer argument from yevamah and the subsequent challenge about other chayavei lavin, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rav Acha Kal V.",
+      "current_heading": "Rav Acha Kal V.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Two Wives Pasuk",
+    "candidates": [
+      "Two Wives Pasuk",
+      "Akiva vs Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's argument about the 'two wives' pasuk (Deuteronomy 21:15) and the ahuvah/senuah interpretation, which is exactly what the prose under 'Two Wives Pasuk' describes.",
+      "chosen_heading": "Two Wives Pasuk",
+      "current_heading": "Two Wives Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Akiva vs Rabbanan",
+    "candidates": [
+      "Akiva vs Rabbanan",
+      "Four Categories",
+      "Rabbi Simai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Akiva's position on kiddushin with chayavei lavin and his application of the verse to almanah le-Kohen Gadol, which is precisely what the 'Akiva vs Rabbanan' section's prose discusses.",
+      "chosen_heading": "Akiva vs Rabbanan",
+      "current_heading": "Akiva vs Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rabbi Simai",
+    "candidates": [
+      "Four Categories",
+      "Rabbi Simai",
+      "Rabbi Shaveiv",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Simai stating Rabbi Akiva's position with the exception of almanah le-Kohen Gadol, which is exactly what the 'Rabbi Simai' section's prose discusses.",
+      "chosen_heading": "Rabbi Simai",
+      "current_heading": "Rabbi Simai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Rabbi Shaveiv",
+      "Reconciliation",
+      "No Kiddushin Ever",
+      "Shifcha Donkey",
+      "Mother's Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items continue the same reconciliation discussion about Rabbi Yeshevav/Shaveiv, Rabbi Akiva, the Rabbanan, and how to interpret the 'hated woman' verse with respect to chayavei asei vs. chayavei lavin \u2014 exactly the content described in the 'Reconciliation' prose.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Mother's Status",
+    "candidates": [
+      "No Kiddushin Ever",
+      "Shifcha Donkey",
+      "Mother's Status",
+      "Non-Jew Marriage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shifcha Donkey",
+      "first_confidence": "high",
+      "first_reason": "Item 1 derives that kiddushin is ineffective with a Canaanite maidservant from the 'im ha-chamor' verse, which is precisely what the 'Shifcha Donkey' prose discusses.",
+      "second_heading": "Mother's Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives that the offspring follows the mother's status from 'ha-ishah vi-yladeha tihyeh le-adoneha', which is exactly what the 'Mother's Status' prose discusses.",
+      "current_heading": "Mother's Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Non-Jew Marriage",
+    "candidates": [
+      "Non-Jew Marriage",
+      "Severs Jewishness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the derivation that betrothal with a gentile woman is ineffective (from 'lo titchaten bam') and asks about her offspring's status, which is precisely what the 'Non-Jew Marriage' section's prose discusses.",
+      "chosen_heading": "Non-Jew Marriage",
+      "current_heading": "Non-Jew Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Severs Jewishness",
+    "candidates": [
+      "Severs Jewishness",
+      "All Nations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yo\u1e25anan/Rabbi Shimon ben Yo\u1e25ai's derivation, Ravina's inference about the daughter's son, and the Gemara's resolution that such a child is 'disqualified but not a mamzer' \u2014 are explicitly summarized in the 'Severs Jewishness' prose, making that the clear best match.",
+      "chosen_heading": "Severs Jewishness",
+      "current_heading": "Severs Jewishness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "All Nations",
+    "candidates": [
+      "All Nations",
+      "Drasha vs Pshat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of extending the intermarriage prohibition to all nations via the 'ki yasir' verse, which is exactly what the prose under 'All Nations' describes.",
+      "chosen_heading": "All Nations",
+      "current_heading": "All Nations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Drasha vs Pshat",
+    "candidates": [
+      "Drasha vs Pshat",
+      "Yefat Toar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's question about Rabbi Shimon's darish ta'ama de-kra versus the Rabbanan's approach, which is precisely what the prose under 'Drasha vs Pshat' discusses.",
+      "chosen_heading": "Drasha vs Pshat",
+      "current_heading": "Drasha vs Pshat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Yefat Toar",
+    "candidates": [
+      "Yefat Toar",
+      "Concluding Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the yefat to'ar verse (Deuteronomy 21:13) to derive that kiddushin does not take effect with a non-Jewish woman, which is precisely what the 'Yefat Toar' section's prose describes.",
+      "chosen_heading": "Yefat Toar",
+      "current_heading": "Yefat Toar",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Lack of Teshuvah",
+    "candidates": [
+      "Opening & Transition",
+      "Goat of Yom Kippur",
+      "Lack of Teshuvah",
+      "Teshuvah for Mitzvat Aseh",
+      "Omed BeMiddo",
+      "Ramban on Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the gemara's question about the positive mitzva case \u2014 the dilemma between lack of teshuvah (zevach reshaim to'evah) and having done teshuvah (any day suffices) \u2014 which is precisely what the 'Lack of Teshuvah' section's prose describes and analyzes.",
+      "chosen_heading": "Lack of Teshuvah",
+      "current_heading": "Lack of Teshuvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Ramban on Teshuvah",
+    "candidates": [
+      "Teshuvah for Mitzvat Aseh",
+      "Omed BeMiddo",
+      "Ramban on Teshuvah",
+      "All Sins Atoned",
+      "Three Exceptions",
+      "Porek Ol Defined",
+      "Megaleh Panim",
+      "Rashi on Megaleh Panim",
+      "Mefir Brit",
+      "Hikareit Tikareit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rabbi Zeira's statement and the baraita he cites explain the case of 'omed be-meredo' (persisting in rebellion), which is precisely what heading 1 ('Omed BeMiddo') is about \u2014 the prose there explicitly discusses Rabbi Zeira's answer about someone who is 'omed be-meredo' and how Yom Kippur forgives even this.",
+      "chosen_heading": "Omed BeMiddo",
+      "current_heading": "Ramban on Teshuvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Hikareit Tikareit",
+    "candidates": [
+      "All Sins Atoned",
+      "Three Exceptions",
+      "Porek Ol Defined",
+      "Megaleh Panim",
+      "Rashi on Megaleh Panim",
+      "Mefir Brit",
+      "Hikareit Tikareit",
+      "Avona Bah",
+      "Olam HaBa Reading",
+      "Death Atones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita's exegesis of 'hikaret tikaret' and 'avono vah' that Rabbi uses to derive his ruling \u2014 exactly what the 'Hikareit Tikareit' section's prose describes, including the doubling, the before/after Yom Kippur interpretation, and the limiting clause about 'avona vah'.",
+      "chosen_heading": "Hikareit Tikareit",
+      "current_heading": "Hikareit Tikareit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Death Atones",
+    "candidates": [
+      "Avona Bah",
+      "Olam HaBa Reading",
+      "Death Atones",
+      "Atonement Chart",
+      "Mitzvat Aseh Agreement",
+      "Challenge to Mishnah",
+      "End of Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Rabbis' interpretation of 'hikaret tikkaret' as referring to punishment in this world and the next, and 'avona vah' as teaching that death cleanses when teshuvah was done \u2014 this is precisely what the 'Olam HaBa Reading' prose section describes as the rabanan's reading of the verse's doubling and its reference to olam haba.",
+      "chosen_heading": "Olam HaBa Reading",
+      "current_heading": "Death Atones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "End of Mishnah",
+    "candidates": [
+      "Atonement Chart",
+      "Mitzvat Aseh Agreement",
+      "Challenge to Mishnah",
+      "End of Mishnah",
+      "Rav Yosef's Solution",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Challenge to Mishnah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge to attributing the mishnah to Rabbi, arguing from the seifa that it must be Rabbi Yehudah \u2014 exactly what the 'Challenge to Mishnah' prose describes.",
+      "second_heading": "End of Mishnah",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 is Rav Yosef's resolution that Rabbi holds like Rabbi Yehudah, which matches 'Rav Yosef's Solution' (index 4) better, but the current placement under 'End of Mishnah' (index 3) partially covers it; however index 4's prose is a clearly better match for Rav Yosef's specific statement.",
+      "current_heading": "End of Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Rav Yosef's Solution",
+      "Abaye's Challenge",
+      "Mutual Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Abaye's question is precisely whether Rav Yosef was being specific in saying Rabbi holds like Rabbi Yehudah (but not vice versa), or whether the phrasing merely reflects the natural convention of attributing agreement to the disciple \u2014 exactly what the 'Abaye's Challenge' prose describes.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Mutual Agreement",
+    "candidates": [
+      "Mutual Agreement",
+      "Sifra Source",
+      "Logical Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's confirmation that he was being precise (davka ka-amina) about the asymmetric relationship between Rabbi and Rabbi Yehudah's positions, which is exactly what the 'Mutual Agreement' section's prose discusses.",
+      "chosen_heading": "Mutual Agreement",
+      "current_heading": "Mutual Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Logical Derivation",
+    "candidates": [
+      "Sifra Source",
+      "Logical Derivation",
+      "Counter-argument",
+      "Ach Limitation",
+      "Sifra Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full baraita from the Sifra \u2014 opening with the possibility that Yom Kippur atones for all, the logical analogy, the counter-argument, and the 'ach' limitation \u2014 which matches exactly what heading 0 ('Sifra Source') describes as the baraita's opening and content, and the subsequent headings (1\u20133) already cover the individual sub-arguments in the essay's prose, meaning the quoted text as a whole belongs under the source heading that introduces the entire baraita.",
+      "chosen_heading": "Sifra Source",
+      "current_heading": "Logical Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Sifra Attribution",
+    "candidates": [
+      "Counter-argument",
+      "Ach Limitation",
+      "Sifra Attribution",
+      "Violating Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that the unattributed Sifra follows Rabbi Yehuda's opinion and that Yom Kippur atones only for those who repent, which is exactly what the 'Sifra Attribution' section's prose describes.",
+      "chosen_heading": "Sifra Attribution",
+      "current_heading": "Sifra Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Violating Yom Kippur",
+    "candidates": [
+      "Violating Yom Kippur",
+      "Non-Observant Scenario",
+      "Day of Atonement",
+      "Abaye's Resolution",
+      "Rava's Position",
+      "Teshuvah for Violation",
+      "Other Sins Atoned",
+      "Karet Problem",
+      "Karet Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction between the two Sifra baraitot, Abaye's attribution-based resolution, and Rava's nuanced alternative resolution \u2014 form one continuous dialectical unit that the prose under heading 0 ('Violating Yom Kippur') explicitly introduces and sets up, with subsequent headings 3\u20135 covering the same material in the essay's own prose, making the current placement the correct anchor for the quoted text.",
+      "chosen_heading": "Violating Yom Kippur",
+      "current_heading": "Violating Yom Kippur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Karet Scenarios",
+    "candidates": [
+      "Non-Observant Scenario",
+      "Day of Atonement",
+      "Abaye's Resolution",
+      "Rava's Position",
+      "Teshuvah for Violation",
+      "Other Sins Atoned",
+      "Karet Problem",
+      "Karet Scenarios",
+      "Rabbi's Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's attempt to construct an edge case where someone performed labor on the night of Yom Kippur and died before the day arrived, which is precisely the scenario discussed in the 'Karet Scenarios' section prose.",
+      "chosen_heading": "Karet Scenarios",
+      "current_heading": "Karet Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Rabbi's Agreement",
+    "candidates": [
+      "Rabbi's Agreement",
+      "Concern for Incentive",
+      "Teshuvah Essential",
+      "Se'ir HaMishtaleach",
+      "Without Temple",
+      "Mishnah Statement",
+      "Clarification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbi's Agreement",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous Gemara exchange (Rava's proof, a challenge, and its resolution) about whether karet applies for daytime Yom Kippur violations, which belongs under 'Rabbi's Agreement' where Rava's proof about Rabbi's concession is being established.",
+      "second_heading": "Mishnah Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens with the mishna's statement 'echad Yisrael ve-echad Kohanim ve-echad Kohen Mashuach,' which is precisely what the 'Mishnah Statement' prose describes as its subject matter.",
+      "current_heading": "Rabbi's Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Clarification",
+    "candidates": [
+      "Concern for Incentive",
+      "Teshuvah Essential",
+      "Se'ir HaMishtaleach",
+      "Without Temple",
+      "Mishnah Statement",
+      "Clarification",
+      "Tumat Mikdash Distinction",
+      "Rabbi Yehudah Confirmed",
+      "Mikdash Cleansing",
+      "Inner Sanctuary",
+      "Outer Areas",
+      "Both Groups",
+      "Extra Yechapper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's internal contradiction question about the mishnah's formulation ('echad Yisrael ve-echad Kohanim') and Rav Yehudah's resolution, which directly corresponds to the 'Mishnah Statement' section that discusses precisely this tension in the mishnah's formulation between equality and distinction.",
+      "chosen_heading": "Mishnah Statement",
+      "current_heading": "Clarification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Extra Yechapper",
+    "candidates": [
+      "Tumat Mikdash Distinction",
+      "Rabbi Yehudah Confirmed",
+      "Mikdash Cleansing",
+      "Inner Sanctuary",
+      "Outer Areas",
+      "Both Groups",
+      "Extra Yechapper",
+      "Yehudah: Equality",
+      "Shimon: Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita that interprets the verse phrase by phrase \u2014 innermost sanctum, Sanctuary, altar, courtyards, priests, Israelites, Levites \u2014 which maps directly onto candidate 3 ('Inner Sanctuary'), whose prose explicitly traces these same phrases including 'zeh lifnai ve-lifnim,' 'et Ohel Mo'ed zeh Heichal,' and 've-al ha-mizbe'ach ke-mashma'o,' making it the clearest match for the full baraita citation including its opening identification of Rabbi Yehuda.",
+      "chosen_heading": "Inner Sanctuary",
+      "current_heading": "Extra Yechapper",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148
+    ],
+    "current_heading": "Shimon: Separation",
+    "candidates": [
+      "Yehudah: Equality",
+      "Shimon: Separation",
+      "Shimon's Link",
+      "Bull Viduy",
+      "Same Result",
+      "Yehudah Counter"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimon: Separation",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Rabbi Shimon's baraita statement and the Gemara's immediate analysis of his 'equated' position, which are the core content described under 'Shimon: Separation' and 'Same Result' \u2014 but 'Shimon: Separation' is the better fit as it directly quotes and explains Rabbi Shimon's parallel structure.",
+      "second_heading": "Shimon's Link",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives Rabbi Shimon's proof-text from 've-lakach et shenei ha-se'irim' and the juxtaposition argument, which is precisely what 'Shimon's Link' prose describes.",
+      "current_heading": "Shimon: Separation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Yehudah Counter",
+    "candidates": [
+      "Shimon's Link",
+      "Bull Viduy",
+      "Same Result",
+      "Yehudah Counter",
+      "Own Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's direct response explaining that the juxtaposition of the two goats teaches only that they must be similar in appearance, height, and value \u2014 exactly what the 'Yehudah Counter' prose describes.",
+      "chosen_heading": "Yehudah Counter",
+      "current_heading": "Yehudah Counter",
+      "moved": false
+    }
+  }
+]

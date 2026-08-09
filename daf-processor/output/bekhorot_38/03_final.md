@@ -1,8 +1,10 @@
-# Bekhorot 38 — Daf Yomi Shiur
-
+[DAF:38a]
 ## Ear Defects
 
+
+
 ### Mumim Overview
+
 
 The daf formally under discussion is 38, though the opening material picks up from the two dots — the editorial marker — on 37b. Before entering the specifics, it is worth noting the broader halachic context of *mumim* for the *bechor*. The Torah in *Emor* provides considerable detail about *mumim* — both for *kohanim* and for *korbanot* in general — listing defects such as *yavelet, shavur, charutz, m'yuval,* and *gartav*. That passage addresses ordinary *kodshim* that cannot be brought as a *korban*. For the *bechor*, however, the Torah goes further: it does not merely prohibit offering it as a *korban* (which could have been derived from the *parasha* in *Emor*), but affirmatively permits eating it with its *mum* outside the *Beis HaMikdash*. The operative *pasuk* for our discussion is therefore the one in *Devarim* dealing specifically with the *bechor*: *pise'ach o iver kol mum ra, lo tizbachenu, bish'arecha tochelenu* — if it has a *mum*, do not offer it, but eat it in your gates.
 
@@ -13,30 +15,33 @@ That *pasuk* is the primary textual anchor for the entire discussion of *mumim* 
 ### Nisteka & Pegimah
 
 > **Hebrew/Aramaic:** נִסְדְּקָה אַף עַל פִּי שֶׁלֹּא חָסְרָה. תָּנוּ רַבָּנַן: הַסֶּדֶק — כׇּל שֶׁהוּא, הַפְּגִימָה — בֵּין בִּידֵי אָדָם בֵּין בִּידֵי שָׁמַיִם. מִכְּלָל דְּסֶדֶק בִּידֵי שָׁמַיִם לָא?
->
-> **Translation:** If the ear of the firstborn animal **was split, although it is not lacking,** one may slaughter the animal outside the Temple. With regard to this, **the Sages taught** in a *baraita*: **The split** that permits the animal to be slaughtered is one of **any size.** With regard to **the damage, whether** it was done **by the hand of a person or by the hand of God,** it may be slaughtered. The Gemara asks: Should it be derived **by inference that** with regard to **a split,** if it was caused **by the hand of God** it is **not** considered a blemish?
-
-> **Hebrew/Aramaic:** אֶלָּא, סֶדֶק וּפְגִימָה — בֵּין בִּידֵי שָׁמַיִם בֵּין בִּידֵי אָדָם. וְכַמָּה שִׁיעוּר פְּגִימָה? כְּדֵי שֶׁתַּחְגּוֹר בָּהּ צִיפּוֹרֶן.
->
-> **Translation:** The Gemara answers: **Rather,** the *baraita* should be interpreted as follows: The animal may be slaughtered for a split of any size, and with regard to **a split and damage, whether** it was done **by the hand of God or by the hand of a person,** the animal may be slaughtered. **And what is the measure of the damage** that is considered a blemish? It must be large enough **that a fingernail will be retained [*shetaḥgor*] on it,** i.e., if one passes his fingernail over the ear of the animal it can enter the area of the damage.
+> **Translation:** § The mishna teaches: If the ear of the firstborn animal **was split, although it is not lacking,** one may slaughter the animal outside the Temple. With regard to this, **the Sages taught** in a *baraita*: **The split** that permits the animal to be slaughtered is one of **any size.** With regard to **the damage, whether** it was done **by the hand of a person or by the hand of God,** it may be slaughtered. The Gemara asks: Should it be derived **by inference that** with regard to **a split,** if it was caused **by the hand of God** it is **not** considered a blemish? That also should be considered an obvious blemish and render the animal permitted for slaughter.
 
 The Mishnah states: *nisteka af al pi shelo chasra* — if the ear is cracked, even if nothing is actually missing, even if no skin is absent, the mere crack constitutes a *mum*. The *Tana Rabbanan* elaborates: *hasedek kol shehu* — a crack, however minimal, qualifies. *Hapegimah*, a nick or chip in the ear, is similarly a *mum*, and in both cases the rule applies *bein b'dei adam bein b'dei shamayim* — whether the defect was caused by human intervention or occurred naturally. The Gemara initially notices a textual imprecision: the original formulation seemed to say that only the *pegimah* applies regardless of cause, implying that a crack occurring naturally might not be a *mum*. The Gemara corrects this, establishing that both *sedek* and *pegimah*, whether through human or natural cause, constitute a *mum*.
 
 It is worth pausing on the practical dimension of *pegimah* as a *mum*. The classic example of improperly inducing a *mum* in one's *bechor* is precisely *hapogem ozen bechoro* — nicking the ear — and the Gemara elsewhere recounts the story of a Roman officer (*questor*) who did exactly this. The ease of creating this defect, combined with its negligible effect on the animal's value, made it an attractive and abused method.
 
+> **Hebrew/Aramaic:** אֶלָּא, סֶדֶק וּפְגִימָה — בֵּין בִּידֵי שָׁמַיִם בֵּין בִּידֵי אָדָם. וְכַמָּה שִׁיעוּר פְּגִימָה? כְּדֵי שֶׁתַּחְגּוֹר בָּהּ צִיפּוֹרֶן.
+> **Translation:** The Gemara answers: **Rather,** the *baraita* should be interpreted as follows: The animal may be slaughtered for a split of any size, and with regard to **a split and damage, whether** it was done **by the hand of God or by the hand of a person,** the animal may be slaughtered. **And what is the measure of the damage** that is considered a blemish? It must be large enough **that a fingernail will be retained [*shetaḥgor*] on it,** i.e., if one passes his fingernail over the ear of the animal it can enter the area of the damage.
+
 ### Fingernail Test
+
 
 The measurement standard for *pegimah* is *k'dei shetachgor ba tziporen* — the nick must be large enough that a fingernail dragged across the cartilage catches in it. This is a familiar test in *halacha*: the same method is used to check for a *pegimah* in a slaughtering knife. The standard is thus extremely small — the tiniest perceptible irregularity — which, on the one hand, explains why an expert *mumcheh* is required, and on the other hand, makes clear why nicking the ear is such an accessible way to create a *mum*.
 
 ### Nikva Size
 
-> **Hebrew/Aramaic:** נִקְּבָה מְלֹא וְכוּ׳. תָּנוּ רַבָּנַן: כַּמָּה נְקִיבַת הָאוֹזֶן? מְלֹא כַרְשִׁינָה. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: בְּכַעֲדָשָׁה. וְאֵיזוֹ הִיא יְבֵשָׁה? שֶׁאִם תִּינָּקֵב וְאֵינָהּ מוֹצִיאָה טִיפַּת דָּם. רַבִּי יוֹסֵי בֶּן הַמְשׁוּלָּם אוֹמֵר: יְבֵשָׁה כְּדֵי שֶׁתְּהֵא נִפְרֶכֶת.
->
-> **Translation:** With regard to this, **the Sages taught** in a *baraita*: **How large** must **the piercing of the ear** be? It must be **the size of a *karshina*. Rabbi Yosei, son of Rabbi Yehuda, says: Like** the size of **a lentil,** which is slightly smaller. **And what is a desiccated** ear that is considered a blemish? It is an ear **that if it is pierced, it does not discharge a drop of blood. Rabbi Yosei ben HaMeshullam says: Desiccated** means that the ear is **so** dry **that it will crumble** if one touches it.
-
 For a hole (*nikva*) in the ear, the Mishnah requires the size of a *karshina* — some type of grain. A *Tana Rabbanan* confirms this: *kama nekivat ha'ozen? malei karshina* — how large must a hole in the ear be? The size of a *karshina*. This raises an immediate question: one would expect a hole to represent a greater degree of *chisaron* than a nick, and yet the measurement for the nick (*k'dei shetachgor ba tziporen*) seems comparable to, or even smaller than, the *karshina* standard. The resolution lies in the fact that the two defects are conceptualized differently. *Pegimah* is framed as a smoothness problem — the surface of the ear is no longer uniform — while *nikva* is framed as a missing-substance problem. The two categories are therefore not directly comparable along a single axis of severity.
 
+> **Hebrew/Aramaic:** נִקְּבָה מְלֹא וְכוּ׳. תָּנוּ רַבָּנַן: כַּמָּה נְקִיבַת הָאוֹזֶן? מְלֹא כַרְשִׁינָה. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: בְּכַעֲדָשָׁה. וְאֵיזוֹ הִיא יְבֵשָׁה? שֶׁאִם תִּינָּקֵב וְאֵינָהּ מוֹצִיאָה טִיפַּת דָּם. רַבִּי יוֹסֵי בֶּן הַמְשׁוּלָּם אוֹמֵר: יְבֵשָׁה כְּדֵי שֶׁתְּהֵא נִפְרֶכֶת.
+> **Translation:** § The mishna stated that if the ear of a firstborn animal **was pierced** with a hole **the size of** a bitter vetch, the animal is slaughtered because of it. With regard to this, **the Sages taught** in a *baraita*: **How large** must **the piercing of the ear** be? It must be **the size of a *karshina*. Rabbi Yosei, son of Rabbi Yehuda, says: Like** the size of **a lentil,** which is slightly smaller. **And what is a desiccated** ear that is considered a blemish? It is an ear **that if it is pierced, it does not discharge a drop of blood. Rabbi Yosei ben HaMeshullam says: Desiccated** means that the ear is **so** dry **that it will crumble** if one touches it.
+
+> **Hebrew/Aramaic:** תָּנָא: קְרוֹבִין דִּבְרֵיהֶן לִהְיוֹת שָׁוִין. דִּבְרֵיהֶן דְּמַאן? אִילֵימָא דְּתַנָּא קַמָּא וְרַבִּי יוֹסֵי בֶּן הַמְשׁוּלָּם — טוּבָא אִיכָּא! אֶלָּא דְּתַנָּא קַמָּא וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה.
+> **Translation:** A Sage **taught: Their statements are close to being identical** in practice. The Gemara asks: **The statements of whom** are close to being identical? **If we say** that he is referring to the statements **of the first *tanna* and Rabbi Yosei ben HaMeshullam** with regard to a desiccated ear, **there is a significant** difference between these two opinions. One says it is determined by whether blood emerges, while the other holds it is based on whether it crumbles. **Rather,** he is referring to the statement **of the first *tanna* and** the statement of **Rabbi Yosei, son of Rabbi Yehuda,** as a *karshina* and a lentil are almost identical in size.
+
 ## Dryness & Size
+
+
 
 ### Yavesha Definition
 
@@ -44,27 +49,25 @@ The *Tana Rabbanan* also addresses *yavesha* — a dried-out ear. The definition
 
 ### Tana Kama vs. Yossi
 
-> **Hebrew/Aramaic:** תָּנָא: קְרוֹבִין דִּבְרֵיהֶן לִהְיוֹת שָׁוִין. דִּבְרֵיהֶן דְּמַאן? אִילֵימָא דְּתַנָּא קַמָּא וְרַבִּי יוֹסֵי בֶּן הַמְשׁוּלָּם — טוּבָא אִיכָּא! אֶלָּא דְּתַנָּא קַמָּא וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה.
->
-> **Translation:** A Sage **taught: Their statements are close to being identical** in practice. The Gemara asks: **The statements of whom** are close to being identical? **If we say** that he is referring to the statements **of the first *tanna* and Rabbi Yosei ben HaMeshullam** with regard to a desiccated ear, **there is a significant** difference between these two opinions. One says it is determined by whether blood emerges, while the other holds it is based on whether it crumbles. **Rather,** he is referring to the statement **of the first *tanna* and** the statement of **Rabbi Yosei, son of Rabbi Yehuda,** as a *karshina* and a lentil are almost identical in size.
-
 The *Baraita* concludes with the observation: *kruvin divreihem lihyos shavin* — these opinions are close to one another. The Gemara immediately asks: whose opinions are close? If the reference is to the two opinions about *yavesha* just cited — the *tana kama* and Rabbi Yossi ben HaMeshulam — that cannot be right, since *tuva ika*, there is a large gap between an ear that no longer bleeds when punctured and one that crumbles to the touch. The Gemara therefore concludes that the "close opinions" refer instead to the dispute between the *tana kama* (who requires a hole the size of a *karshina*) and Rabbi Yossi bar Yehuda.
 
 ### K'adasha Standard
 
+
 Rabbi Yossi bar Yehuda requires a hole the size of a *k'adasha* — slightly larger than an *adasha*, a lentil. These two grain-based measurements — *karshina* and *k'adasha* — are indeed close in size, which is precisely why the *Baraita* notes their proximity. The Gemara then asks: does the *k'adasha* standard mean that anything smaller than a *k'adasha* is not a problem? This question opens into a broader inquiry that will occupy the discussion for some time.
+
+> **Hebrew/Aramaic:** כַּעֲדָשָׁה — אִין, בְּצִיר מִכַּעֲדָשָׁה — לָא? וּרְמִינְהִי: ״מַרְצֵעַ״ — אֵין לִי אֶלָּא מַרְצֵעַ, מִנַּיִן לְרַבּוֹת הַסּוֹל, וְהַסִּירָה, וְהַמַּחַט, וְהַמַּקְדֵּחַ, וְהַמַּכְתֵּב?
+> **Translation:** The Gemara asks with regard to the statement of Rabbi Yosei, son of Rabbi Yehuda: If the ear was pierced with a hole **like** the size of **a lentil,** then **yes,** it is considered a blemish, but if it was pierced with a hole **less than** the size **of a lentil,** then is it **not** considered a blemish? **And** one can **raise a contradiction** from a *baraita*: The Torah provides a description of the process by which a Hebrew slave who has already completed his six years of servitude may continue on as a slave of his master: “And you shall take the **awl** and put it through his ear and in the door” (Deuteronomy 15:17). From this verse, **I have** derived **only** that **an awl** can be used. **From where** do I know **to include the palm thorn [*hassol*], a thorn, a needle, and a gimlet, and a stylus** for writing on wax as valid tools for piercing his ear?
+
+> **Hebrew/Aramaic:** תַּלְמוּד לוֹמַר: ״וְלָקַחְתָּ״ — כׇּל דָּבָר שֶׁנִּלְקָח בַּיָּד, דִּבְרֵי רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה. רַבִּי אוֹמֵר: ״מַרְצֵעַ״ — מָה מַרְצֵעַ מְיוּחָד שֶׁל מַתֶּכֶת, אַף כֹּל שֶׁל מַתֶּכֶת.
+> **Translation:** Therefore, **the verse states: “And you shall take,”** which indicates that **anything that can be taken by hand** is a valid tool. This is **the statement of Rabbi Yosei, son of Rabbi Yehuda. Rabbi** Yehuda HaNasi **says:** Not all these items can be used. Rather, since the verse specifies **an “awl,”** only items similar to an awl can be used; **just as an awl is distinct** in that it is fashioned **of metal, so too, anything** fashioned **of metal** can be used.
 
 ## Martzea & Tools
 
+
+
 ### Puncturing Tools
 
-> **Hebrew/Aramaic:** כַּעֲדָשָׁה — אִין, בְּצִיר מִכַּעֲדָשָׁה — לָא? וּרְמִינְהִי: ״מַרְצֵעַ״ — אֵין לִי אֶלָּא מַרְצֵעַ, מִנַּיִן לְרַבּוֹת הַסּוֹל, וְהַסִּירָה, וְהַמַּחַט, וְהַמַּקְדֵּחַ, וְהַמַּכְתֵּב?
->
-> **Translation:** If the ear was pierced with a hole **like** the size of **a lentil,** then **yes,** it is considered a blemish, but if it was pierced with a hole **less than** the size **of a lentil,** then is it **not** considered a blemish? **And** one can **raise a contradiction** from a *baraita*: The Torah provides a description of the process by which a Hebrew slave who has already completed his six years of servitude may continue on as a slave of his master: "And you shall take the **awl** and put it through his ear and in the door" (Deuteronomy 15:17). From this verse, **I have** derived **only** that **an awl** can be used. **From where** do I know **to include the palm thorn [*hassol*], a thorn, a needle, and a gimlet, and a stylus** for writing on wax as valid tools for piercing his ear?
-
-> **Hebrew/Aramaic:** תַּלְמוּד לוֹמַר: ״וְלָקַחְתָּ״ — כׇּל דָּבָר שֶׁנִּלְקָח בַּיָּד, דִּבְרֵי רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה. רַבִּי אוֹמֵר: ״מַרְצֵעַ״ — מָה מַרְצֵעַ מְיוּחָד שֶׁל מַתֶּכֶת, אַף כֹּל שֶׁל מַתֶּכֶת.
->
-> **Translation:** Therefore, **the verse states: "And you shall take,"** which indicates that **anything that can be taken by hand** is a valid tool. This is **the statement of Rabbi Yosei, son of Rabbi Yehuda. Rabbi** Yehuda HaNasi **says:** Not all these items can be used. Rather, since the verse specifies **an "awl,"** only items similar to an awl can be used; **just as an awl is distinct** in that it is fashioned **of metal, so too, anything** fashioned **of metal** can be used.
 
 The Gemara introduces a seemingly unrelated context in which one deliberately makes a hole in an ear: the *nirtza* ceremony of the *eved Ivri*, the Hebrew slave who chooses to remain with his master rather than go free after six years. The Torah specifies that an awl (*martzea*) is used to pierce the slave's ear at the doorpost. The Gemara asks: *ein li ela martzea* — I know only that an awl is used; how do I derive that other puncturing instruments are also valid? The list of instruments considered includes a *sol*, a *sira*, a *machat* (needle), and a *makde'ach* (a larger boring tool, something like an auger). How do we know all of these qualify? *Talmud lomar v'lakachta* — the Torah says "you shall take," implying any implement that can be held in the hand and used to make a hole. This is the position of Rabbi Yossi bar Yehuda.
 
@@ -74,28 +77,30 @@ Rabbi Yossi bar Yehuda's ruling — that any hand-held puncturing instrument is 
 
 ### Milas Doctrine
 
-> **Hebrew/Aramaic:** וְקָתָנֵי סֵיפָא: אָמַר רַבִּי, יוּדָן בְּרִבִּי הָיָה דּוֹרֵשׁ: כְּשֶׁהֵן רוֹצְעִין, אֵין רוֹצְעִין אֶלָּא בַּמִּילָת.
->
-> **Translation:** **And the latter clause** of the *baraita* **teaches: Rabbi** Elazar **said that Yudan the Distinguished would teach** as follows: **When they pierce** the ear of the slave, **they pierce only in the earlobe.**
-
 A further teaching is cited in the name of Rabbi Yudan b'Rebbi — the son of *Rebbi* — who expounded that the piercing in the *nirtza* ceremony is performed only in the *milas*, the soft fleshy flap of the ear, and not in the cartilage. This is precisely the part of the ear that, as the Mishnah established earlier, does *not* constitute a *mum* in the *bechor*, since the flap heals. The two discussions are thus elegantly mirror images of one another: the *nirtza* piercing targets the healable part, whereas a *mum* that disqualifies the *bechor* requires damage to the non-healing cartilage.
+
+> **Hebrew/Aramaic:** וְקָתָנֵי סֵיפָא: אָמַר רַבִּי, יוּדָן בְּרִבִּי הָיָה דּוֹרֵשׁ: כְּשֶׁהֵן רוֹצְעִין, אֵין רוֹצְעִין אֶלָּא בַּמִּילָת.
+> **Translation:** **And the latter clause** of the *baraita* **teaches: Rabbi** Elazar **said that Yudan the Distinguished would teach** as follows: **When they pierce** the ear of the slave, **they pierce only in the earlobe.**
 
 ### Kohen Exclusion
 
+
 > **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֵין עֶבֶד עִבְרִי כֹּהֵן נִרְצָע, מִפְּנֵי שֶׁנַּעֲשָׂה בַּעַל מוּם. וְאִם תֹּאמַר: בַּמִּילָת הָיוּ רוֹצְעִין, הֵיאַךְ עֶבֶד כֹּהֵן נַעֲשֶׂה בַּעַל מוּם? הָא אֵין רוֹצְעִין אֶלָּא בְּגוֹבַהּ שֶׁל אוֹזֶן.
->
 > **Translation:** **And the Rabbis say:** The piercing is not performed on that part of the ear, since there is a tradition that the ear of **a Hebrew slave** who is **a priest is not pierced, because** the piercing **renders him blemished** and unfit to serve in the Temple. **And if you say** that **they pierced** the slave **in the earlobe, how does a Hebrew slave** who is **a priest become blemished** through piercing? A wound on this part of the ear heals. **This** indicates that **they pierce only on the upper part of the ear,** through the cartilage.
 
 The *Chachamim* add: *ein eved Ivri kohen nirtza mipnei she'na'aseh ba'al mum* — a Hebrew slave who is a *kohen* does not undergo the *nirtza* ceremony, because doing so would render him a *ba'al mum* and disqualify him from performing the *avodah*. This ruling, however, creates a difficulty. If, as Rabbi Yudan taught, the piercing is done only in the *milas* — the flap — and we established that a hole in the flap does not constitute a *mum* in the *bechor*, why would it make the *kohen* a *ba'al mum*?
 
-The Gemara answers that this proves the piercing is actually performed not in the *milas* but in *govah shel ozen* — the raised ridge of the ear, meaning the cartilage. The fact that the Sages prohibit the *nirtza* of a *kohen* because it creates a *mum* establishes that the hole is made in the cartilage, since only a cartilage hole constitutes a permanent *mum*. This in turn raises the obvious practical question of how realistic the case of a *kohen* sold into indentured servitude would be — the answer being that *kohanim* could indeed fall into poverty, and while communities would typically support them through *maaser* and other gifts, a particularly unfortunate individual might still find himself in such straits.
+The Gemara answers that this proves the piercing is actually performed not in the *milas* but in *govah shel ozen* — the raised ridge of the ear, meaning the cartilage. The fact that the Sages prohibit the *nirtza* of a *kohen* because it creates a *mum* establishes that the hole is made in the cartilage, since only a cartilage hole constitutes a permanent *mum*. But this answer itself immediately generates a further question: we have just seen that the Mishnah requires a hole no smaller than a *k'adasha* or *karshina* before any *mum* is recognized, and the text even mentioned that a *machat* — a needle — is a valid tool for performing the *nirtza*. A needle-sized hole is certainly smaller than a *k'adasha*. So how can the Gemara simply assume that piercing the *kohen*'s ear with such a hole makes him a *ba'al mum*? What emerges from this is that even a very small hole — needle-sized — must suffice to disqualify a *kohen* from *avodah*, which raises the pointed question of how that is consistent with the size thresholds discussed for the *bechor*. This is the tension that the Gemara will now move to resolve.
+
+This in turn raises the obvious practical question of how realistic the case of a *kohen* sold into indentured servitude would be — the answer being that *kohanim* could indeed fall into poverty, and while communities would typically support them through *maaser* and other gifts, a particularly unfortunate individual might still find himself in such straits.
 
 ## Mum Levels
+
+
 
 ### Lishchot/Lifsol
 
 > **Hebrew/Aramaic:** אָמַר רַב חָנָא בַּר קַטִּינָא: לָא קַשְׁיָא — כָּאן לִשְׁחוֹט, כָּאן לִפְסוֹל.
->
 > **Translation:** In any event, it is clear from the statement of Rabbi Yosei, son of Rabbi Yehuda, that the piercing of a needle is considered a blemish, despite the fact that it is definitely smaller than the size of a lentil. The Gemara answers: **Rav Ḥana bar Ketina said:** It is **not difficult,** as **here,** Rabbi Yosei, son of Rabbi Yehuda, said that the hole must be the size of a lentil **with regard to slaughtering** an animal outside the Temple due to the blemish. **There, with regard to disqualifying** the animal from being sacrificed, even a tiny hole is considered a blemish, just as it renders the priest blemished.
 
 With this background in place, the Gemara introduces a new and critical conceptual distinction. The question is: how can it be that the *Chachamim* regard even a pinhole as creating a *mum* sufficient to disqualify the *kohen* from *avodah*, while the Mishnah requires a hole the size of a *k'adasha* or *karshina* for the *bechor* to be permitted outside the *Beis HaMikdash*? The Gemara addresses this through the statement of Rav Chana bar Katina: *lo kashya, kan lishchot, kan lifsol* — there is no contradiction, because these are two different halachic categories of *mum*.
@@ -112,19 +117,19 @@ One broader conceptual question emerges here: are the *mumim* for *kohanim* exac
 
 ## Measurements
 
+
+
 ### Karshina/Hinda
 
 > **Hebrew/Aramaic:** מַאי כַּרְשִׁינָה? אָמַר רַב שֵׁרֵבְיָא: הִינְדָּא.
->
-> **Translation:** **What is a *karshina*? Rav Sherevya says:** It is a bitter vetch, called ***hinda*** in Aramaic.
+> **Translation:** § According to the first opinion cited in the *baraita*, the size of the hole that is considered a blemish in the ear of the firstborn animal is like that of a *karshina*. The Gemara asks: **What is a *karshina*? Rav Sherevya says:** It is a bitter vetch, called ***hinda*** in Aramaic.
 
 The Gemara now turns to defining the *karshina* precisely. *Amar Rav Sharvya: hinda* — Rav Sharvya identifies it as what is called a *hinda*, a specific local name for this grain. Rashi acknowledges this identification while noting the inherent challenge: defining an unfamiliar term using another unfamiliar term simply illustrates the difficulties of translation and cross-linguistic identification. Without independent knowledge of either term, the definition remains circular.
 
 ### Tight/Loose Fit
 
 > **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַב הוֹשַׁעְיָא מֵרַב הוּנָא רַבָּה: כַּרְשִׁינָה הַנִּכְנֶסֶת וְיוֹצְאָה, אוֹ כַרְשִׁינָה הָעוֹמֶדֶת? אָמַר לוֹ: זוֹ לֹא שָׁמַעְתִּי, כַּיּוֹצֵא בָּהּ שָׁמַעְתִּי.
->
-> **Translation:** **Rav Hoshaya asked Rav Huna the Great:** Is this measure referring to **a bitter vetch that** can **enter and exit** the hole in the ear, which means that the hole is slightly larger than the bitter vetch? **Or** is it referring to **a bitter vetch that is stationary** in the hole, meaning that the hole is precisely the size of a bitter vetch? Rav Huna the Great **said to him: I did not hear this** *halakha* specifically, but **I heard a similar** *halakha* **to it,** that the expression: The size of a bitter vetch [*melo karshina*], means that the bitter vetch can enter and exit the hole.
+> **Translation:** With regard to this *halakha*, **Rav Hoshaya asked Rav Huna the Great:** Is this measure referring to **a bitter vetch that** can **enter and exit** the hole in the ear, which means that the hole is slightly larger than the bitter vetch? **Or** is it referring to **a bitter vetch that is stationary** in the hole, meaning that the hole is precisely the size of a bitter vetch? Rav Huna the Great **said to him: I did not hear this** *halakha* specifically, but **I heard a similar** *halakha* **to it,** that the expression: The size of a bitter vetch [*melo karshina*], means that the bitter vetch can enter and exit the hole.
 
 Rav Hoshaya posed a question to Rav Huna the elder: *karshina hanichneset v'yotzet o karshina ha'omedet* — when we say the hole must be the size of a *karshina*, does that mean a hole slightly larger than the grain, through which the grain can slide in and out easily, or does it mean the hole is exactly the diameter of the grain, so that it must be pressed in and would remain lodged there? This is a question about the circumference of the hole, not its depth. (A *nikva* is understood to go completely through the ear; a defect that does not penetrate fully would be classified as a *pegimah* and measured by the fingernail test rather than the *karshina* standard.)
 
@@ -133,8 +138,16 @@ Rav Huna replied: *zo lo shamati* — I have no tradition on this specific quest
 ### Spine/Skull
 
 > **Hebrew/Aramaic:** דִּתְנַן: הַשִּׁדְרָה וְהַגּוּלְגּוֹלֶת שֶׁחָסְרוּ, כַּמָּה חֶסְרוֹן בַּשִּׁדְרָה וְלֹא יְהֵא מְטַמֵּא בְּאֹהֶל? בֵּית שַׁמַּאי אוֹמְרִים: שְׁתֵּי חוּלְיוֹת, וּבֵית הִלֵּל אוֹמְרִים: חוּלְיָא אַחַת. וּבַגּוּלְגּוֹלֶת, בֵּית שַׁמַּאי אוֹמְרִים: כִּמְלֹא מַקְדֵּחַ, וּבֵית הִלֵּל אוֹמְרִים: כְּדֵי שֶׁיִּנָּטֵל מִן הַחַי וְיָמוּת.
->
 > **Translation:** **As we learned** in a mishna (*Oholot* 2:3): **The spine and the skull** of a corpse **that** are **incomplete** do not impart ritual impurity in a tent. This *halakha* was unanimously accepted, but the details were subject to dispute: **How much** is considered **a deficiency in the spine so that it will not impart impurity in a tent? Beit Shammai say:** If it is missing **two vertebrae, and Beit Hillel say:** Even if it is missing only **one vertebra,** it will not impart impurity. **And** likewise, they disagree concerning the deficiency **in the skull: Beit Shammai say** that it must be missing a piece **like the size of a drilled hole, and Beit Hillel say:** It must be missing **an amount that if removed from a living** person, **he would die.**
+
+> **Hebrew/Aramaic:** וְיָתֵיב רַב חִסְדָּא וְקָמִיבַּעְיָא לֵיהּ: ״כְּדֵי שֶׁיִּנָּטֵל מִן הַחַי״ — וְכַמָּה? אֲמַר לֵיהּ רַב תַּחְלִיפָא בַּר אֲבוּדִימִי: הָכִי אָמַר שְׁמוּאֵל — כְּסֶלַע.
+> **Translation:** The Gemara relates: **And Rav Ḥisda was sitting, and he raised a dilemma:** That which was stated: **An amount that if removed from a living** person, **how much** is that? **Rav Taḥlifa bar Avudimi said to him: This is what Shmuel says:** It is **like** the size of **a *sela*** coin.
+
+> **Hebrew/Aramaic:** וְאִיתְּמַר: רַב סָפְרָא אָמַר: שְׁמַעְתְּתָא אֲמַר לֵיהּ, וְרַב שְׁמוּאֵל בַּר יְהוּדָה אָמַר: מַתְנִיתָא אֲמַר לֵיהּ, וְסִימָנָיךְ: תָּנֵי רַב שְׁמוּאֵל בַּר יְהוּדָה.
+> **Translation:** The Gemara notes: **And it was stated** that the *amora’im* disagreed with regard to whom Rabbi Taḥlifa cited when relating this *halakha* to Rav Ḥisda. **Rav Safra says** that **he told him a *halakha*** of the *amora’im* citing Shmuel. **And Rav Shmuel bar Yehuda says** that **he told him a *baraita*** that stipulated that the measure is like the size of a *sela* coin. **And your mnemonic** to remember what each one said is the common talmudic phrase: **Rav Shmuel bar Yehuda teaches [*tanei*],** generally indicating a source from a *tanna*, which hints that according to Rav Shmuel bar Yehuda, Rav Taḥlifa cited a *baraita* to Rav Ḥisda, while according to Rav Safra, he related a tradition from Shmuel.
+
+> **Hebrew/Aramaic:** וַאֲמַר לֵיהּ: אִם כֵּן, עָשִׂיתָה דִּבְרֵי בֵּית שַׁמַּאי וְדִבְרֵי בֵּית הִלֵּל אֶחָד! דִּתְנַן: מָאוֹר שֶׁלֹּא נַעֲשָׂה בִּידֵי אָדָם, שִׁיעוּרוֹ מְלֹא אֶגְרוֹף גָּדוֹל, וְזֶהוּ אֶגְרוֹפוֹ שֶׁל בֶּן אֲבַטִּיחַ. אָמַר רַבִּי יוֹסֵי: וְיֶשְׁנוֹ כְּרֹאשׁ גָּדוֹל שֶׁל אָדָם.
+> **Translation:** **And** Rav Ḥisda **said to** Rav Taḥlifa: **If so,** that the measure of the deficiency according to the opinion of Beit Hillel is the size of a *sela* coin, **you have made the statement of Beit Shammai and the statement of Beit Hillel one** and the same, since the size of a *sela* coin and a drilled hole is identical. **As we learned** in a mishna (*Kelim* 17:12): With regard to **a window that was not fashioned by the hands of a person,** such as where a stone fell out of the wall by itself, **its measure** for which ritual impurity is transmitted from room to room is like **the size of a large fist. And this is** the size of **the fist of Ben Avatiaḥ,** who was known to be an exceptionally large man. **Rabbi Yosei said: And** the size of this fist **is like** the size of **a large human head.**
 
 The parallel derives from the laws of *tumas meis* (corpse impurity) transmitted through *ohel* (shared roof). The Mishnah teaches that a complete spine or skull of a human corpse transmits *tumah* to objects under the same roof. If the spine or skull is incomplete — missing pieces — it no longer transmits *tumah* through *ohel*, though it still does through contact. How much must be missing from the spine for it to lose its *ohel* status? *Beis Shammai* says two vertebrae; *Beis Hillel* says one. *Beis Hillel* is thus more lenient, removing *tumah* status at an earlier stage of incompleteness.
 
@@ -142,21 +155,14 @@ For the skull: *Beis Shammai* says the threshold is *k'mlo makde'ach* — the si
 
 ### Makdach = Sela
 
-> **Hebrew/Aramaic:** וְאִתְּמַר: רַב סָפְרָא אָמַר: שְׁמַעְתְּתָא אֲמַר לֵיהּ, וְרַב שְׁמוּאֵל בַּר יְהוּדָה אָמַר: מַתְנִיתָא אֲמַר לֵיהּ, וְסִימָנָיךְ: תָּנֵי רַב שְׁמוּאֵל בַּר יְהוּדָה.
->
-> **Translation:** The Gemara notes: **And it was stated** that the *amora'im* disagreed with regard to whom Rabbi Taḥlifa cited when relating this *halakha* to Rav Ḥisda. **Rav Safra says** that **he told him a *halakha*** of the *amora'im* citing Shmuel. **And Rav Shmuel bar Yehuda says** that **he told him a *baraita*** that stipulated that the measure is like the size of a *sela* coin. **And your mnemonic** to remember what each one said is the common talmudic phrase: **Rav Shmuel bar Yehuda teaches [*tanei*],** generally indicating a source from a *tanna*, which hints that according to Rav Shmuel bar Yehuda, Rav Taḥlifa cited a *baraita* to Rav Ḥisda, while according to Rav Safra, he related a tradition from Shmuel.
-
-> **Hebrew/Aramaic:** וַאֲמַר לֵיהּ: אִם כֵּן, עָשִׂיתָה דִּבְרֵי בֵּית שַׁמַּאי וְדִבְרֵי בֵּית הִלֵּל אֶחָד! דִּתְנַן: מָאוֹר שֶׁלֹּא נַעֲשָׂה בִּידֵי אָדָם, שִׁיעוּרוֹ מְלֹא אֶגְרוֹף גָּדוֹל, וְזֶהוּ אֶגְרוֹפוֹ שֶׁל בֶּן אֲבַטִּיחַ. אָמַר רַבִּי יוֹסֵי: וְיֶשְׁנוֹ כְּרֹאשׁ גָּדוֹל שֶׁל אָדָם.
->
-> **Translation:** **And** Rav Ḥisda **said to** Rav Taḥlifa: **If so,** that the measure of the deficiency according to the opinion of Beit Hillel is the size of a *sela* coin, **you have made the statement of Beit Shammai and the statement of Beit Hillel one** and the same, since the size of a *sela* coin and a drilled hole is identical. **As we learned** in a mishna (*Kelim* 17:12): With regard to **a window that was not fashioned by the hands of a person,** such as where a stone fell out of the wall by itself, **its measure** for which ritual impurity is transmitted from room to room is like **the size of a large fist. And this is** the size of **the fist of Ben Avatiaḥ,** who was known to be an exceptionally large man. **Rabbi Yosei said: And** the size of this fist **is like** the size of **a large human head.**
-
 This produces an immediate difficulty: *im kein asisa divrei Beis Shammai v'divrei Beis Hillel ke'echad* — you have rendered the opinions of *Beis Shammai* and *Beis Hillel* identical. *Beis Shammai* said the size of a *makde'ach*; *Beis Hillel* said something that Shmuel defined as a *sela*. If the *makde'ach* and the *sela* are the same size, what are they arguing about? The Gemara cites a source to confirm that they are indeed the same size. A *Mishnah* discusses *tumah* transmission through a skylight between a lower floor and an upper room. If the opening occurred naturally, the threshold is enormous — the size of a large fist, specifically *egrofo shel Ben Avatiach*, a fist described as the size of a large human skull, attributed to a man of apparently giant proportions. If the opening was made deliberately by human hands, the threshold is much smaller: *k'mlo makde'ach gadol shel lishka* — the size of the large auger that was kept in the chamber of the *Beis HaMikdash*. This auger is then described as being the size of an Italian *fundiyon* coin, of a Neronian *sela*, and of the hole in a yoke. The equation is thus established: the *makde'ach* equals the *sela*.
 
-> **Hebrew/Aramaic:** נַעֲשָׂה בִּידֵי אָדָם, שִׁיעֲרוּהוּ כִּמְלֹא מַקְדֵּחַ גָּדוֹל שֶׁל לִשְׁכָּה, שֶׁהוּא כְּפוּנְדְּיוֹן (שֶׁל) הָאִיטַלְקִי, וּכְסֶלַע נִירוֹנִית, וְיֶשְׁנוֹ כִּמְלֹא נֶקֶב שֶׁל עוּל!
->
-> **Translation:** The mishna continues: But if the window **was made by the hand of a person, its measure** for which ritual impurity is transmitted is **like the size of the drilled hole** of the **large** drill **of the chamber** in the Temple, **which is like** the size of **the Italian *pundeyon* and like** the size of **a *sela* of** the emperor **Nero. And its** size **is like the size of the hole of a yoke** of an animal.
+> **Hebrew/Aramaic:** נַעֲשָׂה בִּידֵי אָדָם, שִׁיעֲרוּהוּ כִּמְלֹא מַקְדֵּחַ גָּדוֹל שֶׁל לִשְׁכָּה, שֶׁהוּא כְּפוּנְדְּיוֹן (שֶׁל) הָאִיטַלְקִי, וּכְסֶלַע נִירוֹנִית, וְיֶשְׁנוֹ
+> **Translation:** The mishna continues: But if the window **was made by the hand of a person, its measure** for which ritual impurity is transmitted is **like the size of the drilled hole** of the **large** drill **of the chamber** in the Temple, **which is like** the size of **the Italian *pundeyon* and like** the size of **a *sela* of** the emperor **Nero. And its** size **is**
 
 ### Neronian Sela
+
+
 
 The identification of the relevant *sela* as the *sela Neroni* — the *sela* minted during the reign of Nero — provides a helpful historical anchor. Coins of a particular reign were standardized in size and weight, giving the comparison an objective precision that abstract descriptions could not. The passage also notes an awl (*martzea*) kept in the *Beis HaMikdash* alongside the *makde'ach*, preserving these implements as institutional reference standards for precisely these sorts of *halachic* measurements.
 
@@ -166,19 +172,25 @@ One student observation is worth noting: the entire enterprise of trying to spec
 
 ## Purity Digression
 
+
+
 ### Chizkiyah's Statement
 
 > **Hebrew/Aramaic:** כִּמְלֹא נֶקֶב שֶׁל עוֹל! אִישְׁתִּיק, וְאָמַר לֵיהּ רַב חִסְדָּא: שֶׁמָּא מַקְדֵּחַ וְחִיסּוּמוֹ שָׁנִינוּ.
->
 > **Translation:** **like the size of the hole of a yoke** of an animal. Evidently, the measure of the drilled hole stipulated by Beit Shammai with regard to a deficient skull equals the size of a *sela* coin stipulated by Beit Hillel according to the statement of Rav Taḥlifa. The Gemara relates: Rav Taḥlifa **was silent. And Rav Ḥisda said to him: Perhaps we learned** that Beit Shammai did not mean the size of a drilled hole alone, but rather the size of **a drilled** hole **and its obstruction,** i.e., a hole that allows for the drill to be inserted and removed. This is slightly larger than the *sela* mentioned by Beit Hillel.
 
 > **Hebrew/Aramaic:** וַאֲמַר לֵיהּ רַב תַּחְלִיפָא: לָא תֵּימָא שֶׁמָּא, אֶלָּא וַדַּאי מַקְדֵּחַ וְחִיסּוּמוֹ, צָרִיךְ לְהִתָּלוֹת עָלֶיהָ כְּחִזְקִיָּה אֲבִי עִקֵּשׁ.
->
 > **Translation:** **And Rav Taḥlifa said to him: Do not say: Perhaps. Rather,** say: Beit Shammai **definitely** was referring to the size of **a drilled** hole **and its obstruction,** and you **can rely on this** explanation since it is certainly correct, as certain **as** the testimony of **Ḥizkiyya, the father of Ikkesh,** which is uncontested. It can be derived from here that just as the phrase: Size of a drilled hole, is referring to the size of a hole into which the drill can be inserted and removed, so too, the size of a bitter vetch mentioned in the mishna is referring to a hole into which the bitter vetch can be inserted and removed.
 
 > **Hebrew/Aramaic:** דִּתְנַן: זוֹ עֵדוּת הֵעִיד חִזְקִיָּה אֲבִי עִקֵּשׁ לִפְנֵי רַבָּן גַּמְלִיאֵל בְּיַבְנֶה, שֶׁאָמַר מִשּׁוּם רַבָּן גַּמְלִיאֵל הַזָּקֵן: כֹּל שֶׁאֵין לוֹ תּוֹךְ בִּכְלִי חֶרֶס — אֵין לוֹ אֲחוֹרַיִם לַחֲלִיקָה. נִטְמָא תּוֹכוֹ — נִטְמָא גַּבּוֹ, נִטְמָא גַּבּוֹ — נִטְמָא תּוֹכוֹ.
->
 > **Translation:** § The Gemara explains the reference to the testimony of Ḥizkiyya the father of Ikkesh. **As we learned** in a *baraita* that **Ḥizkiyya, the father of Ikkesh, testified this testimony before Rabban Gamliel in Yavne, which he said in the name of Rabban Gamliel the Elder: With regard to earthenware vessels, any** vessel **that does not have a receptacle has no distinction with regard to** the halakhic status of **its sides.** This is in contrast to the earthenware vessels mentioned in the Torah, where only the inside, and not the outside, is susceptible to ritual impurity. Rather, if **its inside,** i.e., the sides that are used, **became impure, its outside** also **becomes impure.** Likewise, if **its outside became impure, its inside** also **becomes impure.**
+
+> **Hebrew/Aramaic:** כְּלִי חֶרֶס, בְּתוֹכוֹ תְּלָה רַחֲמָנָא — אִית לֵיהּ תּוֹךְ — אִיטַּמִּי לֵיהּ, לֵית לֵיהּ תּוֹךְ — לָא אִיטַּמִּי לֵיהּ!
+> **Translation:** The Gemara challenges: With regard to **an earthenware vessel, the Merciful One rendered** its susceptibility to impurity **dependent on** the presence of **a receptacle,** as it states: “And every earthen vessel into whose interior any of them falls” (Leviticus 11:33). Consequently, **if there is a receptacle, it will become impure,** but if **there is no receptacle, it** should **not become impure.**
+
+Rav Tachlifa concludes that rather than Rav Chisda's proposed resolution (tight versus loose fit), the proper approach is: *ela vadai b'duchak u'vachasumos* — the difference between *Beis Shammai* and *Beis Hillel* is definitively about tight versus loose fit, and the way to understand the equivalence of the *makde'ach* and the *sela* is to depend on the statement of Chizkiyah Avi Akash. He adds: *v'tzarich l'mitlos lah k'Chizkiyah Avi Akash* — one must rely on it in the manner that we rely on the statement of Chizkiyah Avi Akash, meaning: just as with that difficult statement, rather than rejecting it we invested considerable effort to make sense of it, so here too we make the effort to maintain the distinction between *Beis Shammai* and *Beis Hillel* rather than collapsing them into a single opinion.
+
+(Rashi's reading of the comparison is different — he holds the point is simply that Chizkiyah's statement went unchallenged and is therefore fully reliable. Tosafos objects that this is too thin a connection, and argues that the real parallel is the interpretive effort required in both cases.)
 
 The statement itself, transmitted as a testimony given by Chizkiyah Avi Akash before Rabban Gamliel at Yavneh — where the Rabbis were assembling the *Torah Sheba'al Peh* — is introduced as having been received by Chizkiyah in the name of Rabban Gamliel the Elder. It runs as follows: *kol she'ein lo toch b'kli cheres, ein lo achorayim l'chaleik* — any pottery vessel that has no receptacle (*toch*) has no distinction between its back (*achorayim*) and its inside. The subsequent elaboration is: *nitma tocho nitma gabo, nitma gabo nitma tocho* — if the inside becomes *tamei*, the outside does too; if the outside becomes *tamei*, the inside does too.
 
@@ -186,59 +198,29 @@ The statement is, as noted, deeply cryptic. As background: a *kli cheres* (potte
 
 ### Wood/Pottery Analysis
 
-> **Hebrew/Aramaic:** כְּלִי חֶרֶס, בְּתוֹכוֹ תְּלָה רַחֲמָנָא — אִית לֵיהּ תּוֹךְ — אִיטַּמִּי לֵיהּ, לֵית לֵיהּ תּוֹךְ — לָא אִיטַּמִּי לֵיהּ!
->
-> **Translation:** The Gemara challenges: With regard to **an earthenware vessel, the Merciful One rendered** its susceptibility to impurity **dependent on** the presence of **a receptacle,** as it states: "And every earthen vessel into whose interior any of them falls" (Leviticus 11:33). Consequently, **if there is a receptacle, it will become impure,** but if **there is no receptacle, it** should **not become impure.**
-
 > **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק בַּר אָבִין: הָכִי קָאָמַר, כֹּל שֶׁאֵין לוֹ תּוֹךְ בִּכְלִי חֶרֶס — כְּנֶגְדּוֹ בִּכְלִי שֶׁטֶף אֵין לוֹ אֲחוֹרַיִם לַחֲלִיקָה, נִטְמָא תּוֹכוֹ — נִטְמָא גַּבּוֹ, נִטְמָא גַּבּוֹ — נִטְמָא תּוֹכוֹ.
->
 > **Translation:** **Rabbi Yitzḥak bar Avin said** in response: The testimony is not referring to earthenware vessels, but to vessels that are purified through immersion in a ritual bath, such as wooden vessels, which are susceptible to ritual impurity even if they lack a receptacle. Accordingly, **this** is what the *tanna* **is saying: With regard to earthenware vessels, any** vessel **that does not have a receptacle** never becomes impure. The *halakha* in the **corresponding** case **with regard to a vessel** that is purified though **rinsing,** i.e., immersion in a ritual bath, where it lacks a receptacle, is that **there is no distinction with regard to the** halakhic status of **its sides.** Therefore, if **its inside,** i.e., the side that is used, **became impure, its outside** also **becomes impure.** Likewise, **if its outside became impure, its inside** also **becomes impure.**
+
+> **Hebrew/Aramaic:** לְמָה לִי לְמִיתְלְיֵיהּ בִּכְלִי חֶרֶס? נֵימָא: כֹּל שֶׁאֵין לוֹ תּוֹךְ בִּכְלִי שֶׁטֶף — אֵין לוֹ אֲחוֹרַיִם לַחֲלִיקָה!
+> **Translation:** The Gemara asks: **Why do I** need **to render** this *halakha* **dependent on an earthenware vessel? Let us** simply **say: With regard to a vessel** that is purified though **rinsing, any** vessel **that does not have a receptacle has no distinction** with regard **to the** halakhic status of **its sides.**
+
+> **Hebrew/Aramaic:** הָא קָא מַשְׁמַע לַן, דְּיֵשׁ לוֹ תּוֹךְ — הֲרֵי הוּא כִּכְלִי חֶרֶס; מָה כְּלִי חֶרֶס, נִטְמָא תּוֹכוֹ — נִטְמָא גַּבּוֹ, לֹא נִטְמָא תּוֹכוֹ — לֹא נִטְמָא גַּבּוֹ; אַף כְּלִי שֶׁטֶף, נִטְמָא תּוֹכוֹ — נִטְמָא גַּבּוֹ, לֹא נִטְמָא תּוֹכוֹ — לֹא נִטְמָא גַּבּוֹ.
+> **Translation:** The Gemara answers: **This** association **teaches us that** if the vessel that is purified through rinsing **has a receptacle, it is like an earthenware vessel.** Therefore, **just as** in the case of **an earthenware vessel,** if **its inside became impure, its outside** also **becomes impure,** but if **its inside did not become impure, its outside does not become impure, so too,** with regard to **a vessel** that is purified through **rinsing,** if **its inside became impure, its outside becomes impure.** But **if its inside did not become impure, its outside does not become impure.**
+
+> **Hebrew/Aramaic:** בִּשְׁלָמָא כְּלִי חֶרֶס, גַּלִּי בֵּיהּ רַחֲמָנָא ״תּוֹכוֹ״, אֶלָּא כְּלִי שֶׁטֶף, מִי גַּלִּי בֵּיהּ רַחֲמָנָא תּוֹכוֹ?
+> **Translation:** The Gemara asks: **Granted** that with regard to **an earthenware vessel, the Merciful One revealed** that **it** is rendered ritually impure only if the impure item fell into its **“inside”** (see Leviticus 11:33). **But** with regard to **a vessel** that is purified though **rinsing, did the Merciful One reveal with regard to it** that it becomes impure only through its **inside?** Therefore, even if the impure item touched the outside, it should become entirely impure.
 
 The Gemara addresses the initial paradox through Rav Yitzchak bar Avin: *hachi kama* — here is how to read the statement. *Kol she'ein lo toch b'kli cheres* should not be read as referring to an actual pottery vessel; rather, it refers to a wooden vessel that, *were it a pottery vessel*, would not have a qualifying receptacle — and therefore, as a wooden vessel, it has no *toch* either. Given that it is a wooden vessel (*kli shetef*) without a receptacle, the ruling is: *ein lo achorayim lachalko* — we do not divide its back from its inside; *nitma tocho nitma gabo, nitma gabo nitma tocho* — whichever surface is touched, the whole vessel becomes *tamei*.
 
 The reinterpretation moves the subject from pottery to wood, but this immediately generates a new question: why invoke the pottery vessel at all? Why not simply state the rule directly about a wooden vessel without a receptacle? The Gemara answers: *ha kamashma lan de'ish lei toch harei hu kekli cheres* — the comparison teaches a further rule. If this wooden vessel *does* have a receptacle, it takes on the status of a pottery vessel: just as a pottery vessel becomes *tamei* from the inside in such a way that the outside also becomes *tamei*, so too this wooden vessel. And — reading the corrected textual variant — *nitma gabo lo nitma tocho*: if only the outside of the pottery vessel is touched, the inside does not become *tamei*. The point of comparison, then, is that a wooden vessel with a receptacle behaves similarly: *nitma tocho nitma gabo, nitma gabo lo nitma tocho*.
 
-> **Hebrew/Aramaic:** לְמָה לִי לְמִיתְלְיֵיהּ בִּכְלִי חֶרֶס? נֵימָא: כֹּל שֶׁאֵין לוֹ תּוֹךְ בִּכְלִי שֶׁטֶף — אֵין לוֹ אֲחוֹרַיִם לַחֲלִיקָה!
->
-> **Translation:** The Gemara asks: **Why do I** need **to render** this *halakha* **dependent on an earthenware vessel? Let us** simply **say: With regard to a vessel** that is purified though **rinsing, any** vessel **that does not have a receptacle has no distinction** with regard **to the** halakhic status of **its sides.**
-
-> **Hebrew/Aramaic:** הָא קָא מַשְׁמַע לַן, דְּיֵשׁ לוֹ תּוֹךְ — הֲרֵי הוּא כִּכְלִי חֶרֶס; מָה כְּלִי חֶרֶס, נִטְמָא תּוֹכוֹ — נִטְמָא גַּבּוֹ, לֹא נִטְמָא תּוֹכוֹ — לֹא נִטְמָא גַּבּוֹ; אַף כְּלִי שֶׁטֶף, נִטְמָא תּוֹכוֹ — נִטְמָא גַּבּוֹ, לֹא נִטְמָא תּוֹכוֹ — לֹא נִטְמָא גַּבּוֹ.
->
-> **Translation:** The Gemara answers: **This** association **teaches us that** if the vessel that is purified through rinsing **has a receptacle, it is like an earthenware vessel.** Therefore, **just as** in the case of **an earthenware vessel,** if **its inside became impure, its outside** also **becomes impure,** but if **its inside did not become impure, its outside does not become impure, so too,** with regard to **a vessel** that is purified through **rinsing,** if **its inside became impure, its outside becomes impure.** But **if its inside did not become impure, its outside does not become impure.**
-
 ### Liquid Tumah
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא כְּלִי חֶרֶס, גַּלִּי בֵּיהּ רַחֲמָנָא ״תּוֹכוֹ״, אֶלָּא כְּלִי שֶׁטֶף, מִי גַּלִּי בֵּיהּ רַחֲמָנָא תּוֹכוֹ?
->
-> **Translation:** The Gemara asks: **Granted** that with regard to **an earthenware vessel, the Merciful One revealed** that **it** is rendered ritually impure only if the impure item fell into its **"inside"** (see Leviticus 11:33). **But** with regard to **a vessel** that is purified though **rinsing, did the Merciful One reveal with regard to it** that it becomes impure only through its **inside?** Therefore, even if the impure item touched the outside, it should become entirely impure.
-
 > **Hebrew/Aramaic:** אִי בְּטוּמְאָה דְּאוֹרָיְיתָא — הָכִי נָמֵי, הָכָא בְּמַאי עָסְקִינַן? בְּטוּמְאַת מַשְׁקִין דְּרַבָּנַן, דִּתְנַן: כְּלִי שֶׁנִּטְמָא אֲחוֹרָיו בְּמַשְׁקִין — אֲחוֹרָיו טְמֵאִין, תּוֹכוֹ אׇגְנוֹ אׇזְנוֹ וְיָדָיו טְהוֹרִין, נִטְמָא תּוֹכוֹ — כּוּלּוֹ טָמֵא.
->
 > **Translation:** The Gemara answers: **If** it is referring **to ritual impurity** that is **by Torah law,** then **indeed** a vessel that is purified through rinsing can be become impure even through its outside. But **here we are dealing with** the **ritual impurity of liquids,** i.e., liquids that became impure and subsequently touched the vessel, which becomes impure only **by rabbinic law. As we learned** in a mishna (*Kelim* 25:6): With regard to **a vessel whose outside became ritually impure by** contact with impure **liquids,** only **its outside is impure,** but **its inside, its rim, its ear-shaped handle, and its** straight **handle are pure.** If **its inside became impure,** it becomes **impure** in **its entirety.**
 
 > **Hebrew/Aramaic:** מִדְּאוֹרָיְיתָא, אֵין אוֹכֶל מְטַמֵּא כְּלִי, וְאֵין מַשְׁקֶה מְטַמֵּא כְּלִי, וְרַבָּנַן הוּא דִּגְזוּר מִשּׁוּם מַשְׁקֵה זָב וְזָבָה.
->
 > **Translation:** The Gemara explains the reason: **By Torah law, food does not transmit impurity** to **a vessel, and a liquid does not transmit impurity** to **a vessel. And it was the Sages who decreed** that an impure liquid transmits impurity to a vessel, **because** of the concern that people will be lenient with regard to **the liquid of a *zav* and a *zava*,** such as their urine or saliva, which are a primary source of impurity and impart impurity to vessels.
-
-> **Hebrew/Aramaic:** הִלְכָּךְ, שַׁוְּיוּהּ רַבָּנַן כְּטוּמְאָה דִּכְלִי חֶרֶס, וְלָא שַׁוְּיוּהּ רַבָּנַן כְּטוּמְאָה דְּאוֹרָיְיתָא דְּנַפְשֵׁיהּ.
->
-> **Translation:** **Therefore, the Sages deemed** the impurity of a vessel that is purified though rinsing whose outside became impure through liquid to be **like the impurity of an earthenware vessel,** and if its exterior became impure, its interior remains pure. **But the Sages did not deem** its impurity **like the impurity of itself,** i.e., a vessel that is purified through rinsing, **by Torah law,** that if its exterior became impure, the vessel becomes impure in its entirety.
-
-> **Hebrew/Aramaic:** עֲבַדוּ רַבָּנַן הֶיכֵּירָא, כִּי הֵיכִי דְּלָא לִישְׂרוֹף עֲלֵיהּ תְּרוּמָה וְקָדָשִׁים. אִי הָכִי, אֵין לוֹ תּוֹךְ נָמֵי, לֶיעְבֵּיד נָמֵי הֶיכֵּירָא!
->
-> **Translation:** The reason for this is that through this ruling **the Sages employed an indicator** that it is impure only by rabbinic law **so that** people **will not burn *teruma* and consecrated** items **due to** having come into contact with **those** vessels, as by Torah law they are ritually pure and it is prohibited to burn them. The Gemara asks: **If so,** that this is the case under discussion, then with regard to a vessel that is purified through rinsing that **has no receptacle as well,** the Sages **should employ an indicator.** They should rule that the inside remains pure so that *teruma* and consecrated items will not be burned after coming in contact with it. Why then did Ḥizkiyya, the father of Ikkesh, testify that if its outside became impure, its inside becomes impure as well?
-
-> **Hebrew/Aramaic:** כֵּיוָן דַּעֲבַדוּ הֶיכֵּירָא בְּיֵשׁ לוֹ תּוֹךְ, יְדִיעַ דְּאֵין לוֹ תּוֹךְ דְּרַבָּנַן.
->
-> **Translation:** The Gemara answers: **Since** the Sages **employed an indicator with regard to** vessels that are purified through rinsing that **have a receptacle,** it is thereby **known** that the impurity of a vessel **that does not have a receptacle** that comes in contact with an impure liquid is **by rabbinic law.** Therefore, no one will burn *teruma* and consecrated items that came in contact with it.
-
-> **Hebrew/Aramaic:** וְאֵין לוֹ תּוֹךְ בִּכְלִי שֶׁטֶף, דְּאוֹרָיְיתָא בַר קַבּוֹלֵי טוּמְאָה הוּא? דּוּמְיָא דְּשַׂק בָּעֵינַן, מָה שַׂק מִיטַּלְטֵל מָלֵא וְרֵיקָן, אַף כֹּל מִיטַּלְטֵל מָלֵא וְרֵיקָן.
->
-> **Translation:** The Gemara asks: **And with regard to a vessel** that is purified through **rinsing, is it susceptible to ritual impurity by Torah law,** so that the Sages found it necessary to decree that the exterior is susceptible to impurity of liquids? After all, in order for a vessel to be susceptible to impurity **it is required** to be **similar to a sack,** which is mentioned with regard to ritual impurity (see Leviticus 11:32): **Just as a sack is carried** both **full and empty, so too, any** object must be capable of being **carried** both **full and empty** in order to become ritually impure. This excludes a vessel that has no receptacle and cannot be carried full.
-
-> **Hebrew/Aramaic:** בְּהָנָךְ דַּחֲזוּ לְמִדְרָסוֹת. אִי הָכִי, חֶרֶס נָמֵי! אֵין מִדְרָס בִּכְלִי חֶרֶס.
->
-> **Translation:** The Gemara answers that it is referring **to these** vessels **that are suited for** sitting and are susceptible to ritual impurity imparted by **treading,** i.e., the ritual impurity imparted by a *zav*, *zava*, or a menstruating woman who sits or lies down on an item, even though it lacks a receptacle. The Gemara challenges: **If so,** with regard to **an earthenware** vessel that has no inside, the Rabbis should **also** decree that it is susceptible to the impurity of liquids if it is fit for sitting. The Gemara answers: **There is no** ritual impurity imparted by **treading with regard to earthenware vessels.**
 
 But this comparison is also problematic, because a wooden vessel does *not* follow the same rule as pottery regarding inside versus outside. By biblical law, a wooden vessel becomes *tamei* from any surface. The Gemara resolves this by specifying the context: *hacha b'mai askinan? b'tumas mashkin d'rabbanan* — we are discussing specifically the *tumah* of liquids, which is Rabbinic in nature.
 
@@ -247,6 +229,21 @@ The background is as follows. Biblically, neither food nor liquids can render a 
 However, because this extension is only Rabbinic, the Rabbis deliberately structured it in a way that signals its non-biblical character: *shavyu rabanan k'tumas kli cheres* — they modeled it on the *tumah* of pottery vessels. Specifically, the law for liquids touching a vessel is: if the liquid touches the outside (*achorayim*) of the vessel, only the outside is *tamei*, while the inside and all other parts (handle, lip, ear) remain *tahor*. If the liquid touches the inside, however, the entire vessel becomes *tamei*. This asymmetry serves a practical signaling function: *avdu rabanan hekera k'heichai d'lo lisrof alei teruma v'kodshim* — the Rabbis created this distinctive law so that people would recognize the *tumah* as Rabbinic rather than biblical, and would not burn *terumah* or *kodshim* on its account. (Burning *tamei terumah* is permitted — indeed required — only when the *tumah* is of biblical origin; Rabbinic *tumah* does not warrant burning.)
 
 ### No Distinction Rule
+
+> **Hebrew/Aramaic:** הִלְכָּךְ, שַׁוְּיוּהּ רַבָּנַן כְּטוּמְאָה דִּכְלִי חֶרֶס, וְלָא שַׁוְּיוּהּ רַבָּנַן כְּטוּמְאָה דְּאוֹרָיְיתָא דְּנַפְשֵׁיהּ.
+> **Translation:** **Therefore, the Sages deemed** the impurity of a vessel that is purified though rinsing whose outside became impure through liquid to be **like the impurity of an earthenware vessel,** and if its exterior became impure, its interior remains pure. **But the Sages did not deem** its impurity **like the impurity of itself,** i.e., a vessel that is purified through rinsing, **by Torah law,** that if its exterior became impure, the vessel becomes impure in its entirety.
+
+> **Hebrew/Aramaic:** עֲבַדוּ רַבָּנַן הֶיכֵּירָא, כִּי הֵיכִי דְּלָא לִישְׂרוֹף עֲלֵיהּ תְּרוּמָה וְקָדָשִׁים. אִי הָכִי, אֵין לוֹ תּוֹךְ נָמֵי, לֶיעְבֵּיד נָמֵי הֶיכֵּירָא!
+> **Translation:** The reason for this is that through this ruling **the Sages employed an indicator** that it is impure only by rabbinic law **so that** people **will not burn *teruma* and consecrated** items **due to** having come into contact with **those** vessels, as by Torah law they are ritually pure and it is prohibited to burn them. The Gemara asks: **If so,** that this is the case under discussion, then with regard to a vessel that is purified through rinsing that **has no receptacle as well,** the Sages **should employ an indicator.** They should rule that the inside remains pure so that *teruma* and consecrated items will not be burned after coming in contact with it. Why then did Ḥizkiyya, the father of Ikkesh, testify that if its outside became impure, its inside becomes impure as well?
+
+> **Hebrew/Aramaic:** כֵּיוָן דַּעֲבַדוּ הֶיכֵּירָא בְּיֵשׁ לוֹ תּוֹךְ, יְדִיעַ דְּאֵין לוֹ תּוֹךְ דְּרַבָּנַן.
+> **Translation:** The Gemara answers: **Since** the Sages **employed an indicator with regard to** vessels that are purified through rinsing that **have a receptacle,** it is thereby **known** that the impurity of a vessel **that does not have a receptacle** that comes in contact with an impure liquid is **by rabbinic law.** Therefore, no one will burn *teruma* and consecrated items that came in contact with it.
+
+> **Hebrew/Aramaic:** וְאֵין לוֹ תּוֹךְ בִּכְלִי שֶׁטֶף, דְּאוֹרָיְיתָא בַּר קַבּוֹלֵי טוּמְאָה הוּא? דּוּמְיָא דְּשַׂק בָּעֵינַן, מָה שַׂק מִיטַּלְטֵל מָלֵא וְרֵיקָן, אַף כֹּל מִיטַּלְטֵל מָלֵא וְרֵיקָן.
+> **Translation:** The Gemara asks: **And with regard to a vessel** that is purified through **rinsing, is it susceptible to ritual impurity by Torah law,** so that the Sages found it necessary to decree that the exterior is susceptible to impurity of liquids? After all, in order for a vessel to be susceptible to impurity **it is required** to be **similar to a sack,** which is mentioned with regard to ritual impurity (see Leviticus 11:32): **Just as a sack is carried** both **full and empty, so too, any** object must be capable of being **carried** both **full and empty** in order to become ritually impure. This excludes a vessel that has no receptacle and cannot be carried full.
+
+> **Hebrew/Aramaic:** בְּהָנָךְ דַּחֲזוּ לְמִדְרָסוֹת. אִי הָכִי, חֶרֶס נָמֵי! אֵין מִדְרָס בִּכְלִי חֶרֶס.
+> **Translation:** The Gemara answers that it is referring **to these** vessels **that are suited for** sitting and are susceptible to ritual impurity imparted by **treading,** i.e., the ritual impurity imparted by a *zav*, *zava*, or a menstruating woman who sits or lies down on an item, even though it lacks a receptacle. The Gemara challenges: **If so,** with regard to **an earthenware** vessel that has no inside, the Rabbis should **also** decree that it is susceptible to the impurity of liquids if it is fit for sitting. The Gemara answers: **There is no** ritual impurity imparted by **treading with regard to earthenware vessels.**
 
 With this framework in place, the statement of Chizkiyah Avi Akash becomes intelligible. When the wooden vessel has a receptacle, the inside-versus-outside distinction applies for *tumah* from liquids (as just described). When it does not have a receptacle, no such distinction is made — if the liquid touches either surface, the whole vessel becomes *tamei*.
 
@@ -258,49 +255,50 @@ A final question rounds out the discussion: if the logic is that an object usabl
 
 ## Shammai/Hillel
 
-### Rav Papa's Fix
 
-> **Hebrew/Aramaic:** רַב פָּפָּא אָמַר: מַקְדֵּחַ גָּדוֹל שָׁנִינוּ.
->
-> **Translation:** **Rav Pappa says** that it was with regard to **a large drill** that **we learned** that the minimum size of a window that imparts impurity equals the size of a *sela* coin.
+
+### Rav Papa's Fix
 
 The Gemara returns from the lengthy digression to the original question: how do we resolve the apparent equivalence of *Beis Shammai's makde'ach* and *Beis Hillel's sela*? Rav Papa offers a direct resolution: *makde'ach gadol shaninu* — when the tradition stated that the *makde'ach* makes a hole the size of a *sela*, it was specifically referring to a *big* *makde'ach*. When *Beis Shammai* used the *makde'ach* as their standard, they were referring to a *normal* (smaller) *makde'ach*. Since the big *makde'ach* equals the *sela*, a normal *makde'ach* is smaller than a *sela*, and *Beis Shammai* and *Beis Hillel* are in fact disputing different sizes.
 
-### Awl Types
+> **Hebrew/Aramaic:** רַב פָּפָּא אָמַר: מַקְדֵּחַ גָּדוֹל שָׁנִינוּ.
+> **Translation:** § The Gemara returns to the matter of an incomplete skull. According to the opinion of Beit Shammai, if the skull is missing a piece of bone the size of a drilled hole, it does not impart impurity. According to Shmuel, Beit Hillel holds that it must be missing a piece the size of a *sela* coin. If so, there would be no disagreement between Beit Shammai and Beit Hillel, as it was taught with regard to a window that imparts ritual impurity that a drilled hole is the same size as a *sela* coin. The Gemara now offers an additional answer: **Rav Pappa says** that it was with regard to **a large drill** that **we learned** that the minimum size of a window that imparts impurity equals the size of a *sela* coin.
 
 > **Hebrew/Aramaic:** מִכְּלָל דְּמַקְדֵּחַ סְתָם זוּטַרא נָמֵי מִכְּסֶלַע. הָנִיחָא לְרַבִּי מֵאִיר, אֶלָּא לְרַבָּנַן מַאי אִיכָּא לְמֵימַר?
->
 > **Translation:** The Gemara comments that **by inference, the unspecified drill** mentioned in the statement of Beit Shammai with regard to an incomplete skull is **also smaller than the size of a *sela*** coin mentioned by Beit Hillel. The Gemara asks: **This works out well according to** the explanation of **Rabbi Meir** for the opinion of Beit Shammai. **But according to the** opinion of **the Rabbis, what is there to say?**
 
 > **Hebrew/Aramaic:** דִּתְנַן: בְּאֵיזֶה מַקְדֵּחַ אָמְרוּ? בְּקָטָן שֶׁל רוֹפְאִים, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: בְּגָדוֹל שֶׁל לִשְׁכָּה.
->
 > **Translation:** **As we learned** in a mishna (*Oholot* 2:3): **With regard to which drill did** Beit Shammai **state** their opinion concerning an incomplete skull? It was **with regard to a small** drill **of doctors,** used for drilling bones. This is **the statement of Rabbi Meir. And the Rabbis say:** It was **with regard to a large** drill, such as that used **in the** Temple **chamber.** According to the mishna concerning a window that imparts impurity, the size of this drill is like that of a *sela* coin, and the opinions of Beit Shammai and Beit Hillel would still be identical.
 
-> **Hebrew/Aramaic:** וּלְרַבִּי מֵאִיר, מִי נִיחָא? הָוֵה לֵיהּ מִקּוּלֵּי בֵּית שַׁמַּאי וּמֵחוּמְרֵי בֵּית הִלֵּל. וַאֲנַן דִּתְנַן — תְּנַן, דְּלָא תְּנַן — לָא תְּנַן!
->
-> **Translation:** The Gemara asks further: **And** even **according to** the opinion of **Rabbi Meir, does it work out well?** If the unspecified drill mentioned by Beit Shammai is smaller than a *sela* coin, then **this is** an instance **of the leniencies of Beit Shammai and of the stringencies of Beit Hillel,** as with regard to a skull that was missing a piece only the size of a drilled hole, Beit Shammai are lenient and hold that it does not impart impurity in a tent, while Beit Hillel do consider it impure. **And we** have a principle: **That which we learned** in the mishna in tractate *Eduyyot* pertaining to the leniencies of Beit Shammai and the stringencies of Beit Hillel, **we learned,** and **that which we did not learn** there, **we did not learn.** Therefore, in all other cases, Beit Shammai are stringent and Beit Hillel are lenient.
+### Awl Types
+
 
 The Gemara immediately asks whether this is consistent: *mikhlal de-machtach stam zutra nami mi-sela* — does this imply that even a standard *makde'ach* is smaller than a *sela*? This works well for Rabbi Meir's position, but what about the Rabbis? The Gemara cites the relevant Mishnah: *b'eizeh makde'ach amru? b'katan shel rofim, divrei Rabbi Meir* — when the Mishnah says the *makde'ach*, it refers to the small one used by doctors, according to Rabbi Meir. *V'chachamim omrim: b'gadol shel lishkah* — the Sages say it refers to the large one used in the chamber of the *Beis HaMikdash*. According to the Sages, then, *Beis Shammai's* standard is explicitly this large *makde'ach* — the same one we have already established equals the *sela Neroni*. One cannot therefore use the "different size *makde'ach*" argument to distinguish *Beis Shammai* from *Beis Hillel* under the Sages' view. Furthermore, even under Rabbi Meir's view, if *Beis Shammai* refers to a small *makde'ach* — smaller than a *sela* — then *Beis Shammai* would be *more lenient* than *Beis Hillel*. But we have an established rule that what is in our Mishnah we have, and what is not — is not: *anan detnan tnan, de-lo tnan lo tnan*. Since a case of *Beis Shammai* being lenient and *Beis Hillel* strict on this matter does not appear in the authoritative list, it cannot be introduced now.
 
-### Rav Nachman Final
+> **Hebrew/Aramaic:** וּלְרַבִּי מֵאִיר, מִי נִיחָא? הָוֵה לֵיהּ מִקּוּלֵּי בֵּית שַׁמַּאי וּמֵחוּמְרֵי בֵּית הִלֵּל. וַאֲנַן דִּתְנַן — תְּנַן, דְּלָא תְּנַן — לָא תְּנַן!
+> **Translation:** The Gemara asks further: **And** even **according to** the opinion of **Rabbi Meir, does it work out well?** If the unspecified drill mentioned by Beit Shammai is smaller than a *sela* coin, then **this is** an instance **of the leniencies of Beit Shammai and of the stringencies of Beit Hillel,** as with regard to a skull that was missing a piece only the size of a drilled hole, Beit Shammai are lenient and hold that it does not impart impurity in a tent, while Beit Hillel do consider it impure. **And we** have a principle: **That which we learned** in the mishna in tractate *Eduyyot* pertaining to the leniencies of Beit Shammai and the stringencies of Beit Hillel, **we learned,** and **that which we did not learn** there, **we did not learn.** Therefore, in all other cases, Beit Shammai are stringent and Beit Hillel are lenient.
 
 > **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: סֶלַע נִירוֹנִית שָׁנִינוּ, כְּמַקְדֵּחַ גָּדוֹל, סֶלַע סְתָם זוּטַרא מִמַּקְדֵּחַ סְתָם.
->
 > **Translation:** **Rav Naḥman says:** It is specifically with regard to **a *sela* of** the emperor **Nero that we learned** in the mishna concerning a window that imparts impurity that it is **like** the size of **a large drilled** hole. But with regard to **the unspecified *sela*** coin mentioned by Beit Hillel as the measure, it is even **smaller than an unspecified drilled** hole. Therefore, Beit Shammai are stringent even according to the opinion of Rabbi Meir.
+
+### Rav Nachman Final
+
 
 The final resolution is offered by Rav Nachman: *sela Neroni shaninu* — the key is to focus not on the *makde'ach* but on which *sela* is meant. The *sela Neroni* — the coin minted under Nero, which is large — equals the size of the large *makde'ach* of the *Beis HaMikdash*. A standard *sela*, however, is smaller — even smaller than a standard *makde'ach*. *Beis Hillel*, then, requires a hole the size of a standard *sela* (the smaller size), while *Beis Shammai* requires the size of a *makde'ach* (the larger). The *makde'ach* — whether standard or large — is bigger than the ordinary *sela*, and only at the extreme of a *sela Neroni* does one reach the size of the large *makde'ach*. *Beis Shammai* is thus the *stricter* position, requiring a larger missing piece before the skull loses its *ohel tumah* status — consistent with the normal pattern of *Beis Shammai* stringency. This resolves all difficulties and concludes the *Shammai/Hillel* discussion.
 
 ## Eye Blemishes
 
-### Eye Defects Intro
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָרִיס שֶׁל עַיִן שֶׁנִּיקַּב, שֶׁנִּפְגַּם, שֶׁנִּסְדַּק, הֲרֵי בְּעֵינוֹ דַּק, תְּבַלּוּל, חִלָּזוֹן, נָחָשׁ, עָצָב. אֵיזֶהוּ תְּבַלּוּל? לָבָן הַפּוֹסֵק בַּסִּירָא וְנִכְנָס בַּשָּׁחוֹר. שָׁחוֹר נִכְנַס בַּלָּבָן — אֵינוֹ מוּם.
->
-> **Translation:** MISHNA: For these blemishes of the eye, one may slaughter the firstborn animal outside the Temple: **The eyelid that was pierced,** an eyelid **that was damaged** and is lacking, or an eyelid **that was split;** and likewise, one may slaughter a firstborn animal outside the Temple **if** there was **in his eye a cataract, a *tevallul*,** or a growth in the shape of **a snail, a snake,** or **a berry** that covers the pupil. **What is a *tevallul*?** It is **a white** thread **that bisects the iris and enters the black** pupil. If it is **a black** thread that bisects the iris and **enters the white** of the eye it **is not a blemish.**
+
+### Eye Defects Intro
 
 The Mishnah now transitions to eye defects. It lists: *dak, tavlul, chalazon, nachash* — a thin film, a crossing line, a snail-like marking, a serpentine marking — along with *ezav* or *etzev* (a term whose precise meaning will require further clarification). All of these constitute a *mum* in the eye of the *bechor*.
 
+> **Hebrew/Aramaic:** מַתְנִי׳ הָרִיס שֶׁל עַיִן שֶׁנִּיקַּב, שֶׁנִּפְגַּם, שֶׁנִּסְדַּק, הֲרֵי בְּעֵינוֹ דַּק, תְּבַלּוּל, חִלָּזוֹן, נָחָשׁ, עָצָב. אֵיזֶהוּ תְּבַלּוּל? לָבָן הַפּוֹסֵק בַּסִּירָא וְנִכְנָס בַּשָּׁחוֹר. שָׁחוֹר נִכְנַס בַּלָּבָן — אֵינוֹ מוּם.
+> **Translation:** MISHNA: For these blemishes of the eye, one may slaughter the firstborn animal outside the Temple: **The eyelid that was pierced,** an eyelid **that was damaged** and is lacking, or an eyelid **that was split;** and likewise, one may slaughter a firstborn animal outside the Temple **if** there was **in his eye a cataract, a *tevallul*,** or a growth in the shape of **a snail, a snake,** or **a berry** that covers the pupil. **What is a *tevallul*?** It is **a white** thread **that bisects the iris and enters the black** pupil. If it is **a black** thread that bisects the iris and **enters the white** of the eye it **is not a blemish.**
+
 ### Tavlul Definition
+
 
 The Mishnah asks: *eizu tavlul?* — what is a *tavlul*? The answer: *lavan haposek b'sira v'nichnas b'shachor* — a white line that originates at the edge of the colored part of the eye (*sira*) and extends inward into the black of the eye (*shachor*). When such a white streak crosses from the white region into the dark pupil area, it constitutes a *tavlul* and is a *mum*.
 
@@ -308,10 +306,10 @@ The Mishnah asks: *eizu tavlul?* — what is a *tavlul*? The answer: *lavan hapo
 
 The reverse, however, is not a *mum*: *shachor nichnas b'lavan eino mum* — a black line extending from the dark into the white of the eye does not qualify. The asymmetry here — that the direction of the discoloration matters — reflects the different aesthetic impact of each case, with a white intrusion into the dark center of the eye being more visually prominent and disqualifying than the reverse.
 
+[DAF:38b]
 ### Haris/Eyelid
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי הָרִיס? אָמַר רַב פָּפָּא: תּוֹרָא בָּרָא דְּעֵינָא.
->
-> **Translation:** GEMARA: The mishna's list of blemishes of the eye included an eyelid [*ris*] that was pierced, damaged, or split. The Gemara asks: **What** is the meaning of: **The *ris*? Rav Pappa says:** It means **the outer line,** or barrier, **of the eye,** i.e., the eyelid.
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי הָרִיס? אָמַר רַב פָּפָּא: תּוֹרָא בָּרָא דְּעֵינָא. דַּק תְּבַלּוּל, תָּנוּ רַבָּנַן: דַּק מְשׁוּקָּע — הֲרֵי זֶה מוּם, צָף — אֵינוֹ מוּם.
+> **Translation:** GEMARA: The mishna’s list of blemishes of the eye included an eyelid [*ris*] that was pierced, damaged, or split. The Gemara asks: **What** is the meaning of: **The *ris*? Rav Pappa says:** It means **the outer line,** or barrier, **of the eye,** i.e., the eyelid. The mishna further stated: **A cataract, a *tevallul*.** With regard to a cataract, **the Sages taught: A sunken cataract,** i.e., one that is in the eye itself, **is a blemish,** but **a floating** cataract, i.e., one that is floating above the eye, **is not a blemish.**
 
 Finally, the Mishnah lists the *haris* — the eyelid — as a structure whose being *nikva* (holed), *nifgam* (nicked), or *nistam* (blocked) constitutes a *mum*. The Gemara asks: *mai haris?* — what is the *haris*? Rav Papa answers: *tura bar de'eina* — the ridge that is "the son of the eye," the protective structure in front of the eye. That is to say, the *haris* is the eyelid itself. With this identification, the *daf* concludes on *amud bet*.

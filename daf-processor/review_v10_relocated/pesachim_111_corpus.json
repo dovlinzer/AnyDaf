@@ -1,0 +1,426 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Pairs & Combining",
+    "candidates": [
+      "Pairs & Combining",
+      "Water as Mixed Drink",
+      "Water Temperature Rules",
+      "Reish Lakish's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Mesharshiya on two-during/one-after not combining, Shmuel on mazug drinks combining, and the water/temperature rules \u2014 are explicitly discussed together in the prose of heading 0 ('Pairs & Combining'), which covers exactly this sequence of Gemara.",
+      "chosen_heading": "Pairs & Combining",
+      "current_heading": "Pairs & Combining",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Reish Lakish's Teaching",
+    "candidates": [
+      "Water as Mixed Drink",
+      "Water Temperature Rules",
+      "Reish Lakish's Teaching",
+      "Palm Trees & Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's statement about the four dangerous actions, which is precisely what the prose under 'Reish Lakish's Teaching' discusses in detail.",
+      "chosen_heading": "Reish Lakish's Teaching",
+      "current_heading": "Reish Lakish's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Palm Trees & Space",
+    "candidates": [
+      "Palm Trees & Space",
+      "Public Thoroughfares"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses relieving oneself between a palm tree and a wall with qualifications about four cubits and alternative routes, which exactly matches the 'Palm Trees & Space' prose discussion.",
+      "chosen_heading": "Palm Trees & Space",
+      "current_heading": "Palm Trees & Space",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Public Thoroughfares",
+    "candidates": [
+      "Public Thoroughfares",
+      "Borrowed Water Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the palm trees qualification and the borrowed water qualification together in one unit, and while candidate 1's prose discusses borrowed water in more detail, candidate 0's prose already addresses both topics as they appear in the Talmudic text, and the current placement is where this combined passage sits.",
+      "chosen_heading": "Public Thoroughfares",
+      "current_heading": "Public Thoroughfares",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Borrowed Water Limits",
+    "candidates": [
+      "Borrowed Water Limits",
+      "Spilled Water Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the qualifications on borrowed water danger (minor vs adult, field vs city, water vs wine/beer), which is exactly what the 'Borrowed Water Limits' section prose describes.",
+      "chosen_heading": "Borrowed Water Limits",
+      "current_heading": "Borrowed Water Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Spilled Water Rules",
+    "candidates": [
+      "Spilled Water Rules",
+      "Witchcraft Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage details exactly the qualifications for when spilled water poses a danger (dirt, spit, sun, sixty steps, donkey, shoes), which is precisely what the 'Spilled Water Rules' prose discusses.",
+      "chosen_heading": "Spilled Water Rules",
+      "current_heading": "Spilled Water Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Witchcraft Exception",
+    "candidates": [
+      "Witchcraft Exception",
+      "Three Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the witchcraft exception to the protective conditions and illustrates it with the story of the man on a donkey, which is precisely what the 'Witchcraft Exception' prose section describes.",
+      "chosen_heading": "Witchcraft Exception",
+      "current_heading": "Witchcraft Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Three Prohibited",
+    "candidates": [
+      "Three Prohibited",
+      "El/Lo Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the brayta about the three entities (dog, palm tree, woman, pig, snake) that must not become intermediaries, which is exactly what the prose under 'Three Prohibited' describes.",
+      "chosen_heading": "Three Prohibited",
+      "current_heading": "Three Prohibited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "El/Lo Remedy",
+    "candidates": [
+      "El/Lo Remedy",
+      "Torah as Incantation",
+      "Rabbeinu Chananel",
+      "Women as Niddah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the El/Lo remedy teaching from Rav Pappa that the prose under heading 0 explicitly discusses and analyzes in detail.",
+      "chosen_heading": "El/Lo Remedy",
+      "current_heading": "El/Lo Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Women as Niddah",
+    "candidates": [
+      "Torah as Incantation",
+      "Rabbeinu Chananel",
+      "Women as Niddah",
+      "Niddah Discussion",
+      "Crossroads Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about a niddah passing between two men is directly quoted and analyzed in the 'Women as Niddah' section's prose, which explicitly describes this exact Gemara text with the same terminology and analysis.",
+      "chosen_heading": "Women as Niddah",
+      "current_heading": "Women as Niddah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Crossroads Women",
+    "candidates": [
+      "Niddah Discussion",
+      "Crossroads Women",
+      "Witchcraft Remedies",
+      "Mikvah Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two women at a crossroads scenario that heading 1 'Crossroads Women' introduces, including the witchcraft diagnosis and the remedies \u2014 all of which the prose under that heading explicitly discusses.",
+      "chosen_heading": "Crossroads Women",
+      "current_heading": "Crossroads Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Mikvah Encounter",
+    "candidates": [
+      "Witchcraft Remedies",
+      "Mikvah Encounter",
+      "Rav Yochanan Story",
+      "Shadow Dangers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the mikvah encounter scenario and its remedy verse, matching the 'Mikvah Encounter' section's prose perfectly.",
+      "chosen_heading": "Mikvah Encounter",
+      "current_heading": "Mikvah Encounter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Shadow Dangers",
+    "candidates": [
+      "Rav Yochanan Story",
+      "Shadow Dangers",
+      "Moon Shade Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the shadow of a solitary palm tree and the analytical resolution of the baraita about courtyard danger, which is precisely what the 'Shadow Dangers' prose section describes in detail.",
+      "chosen_heading": "Shadow Dangers",
+      "current_heading": "Shadow Dangers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Moon Shade Danger",
+    "candidates": [
+      "Moon Shade Danger",
+      "Palm Tree Spirits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the conditions under which moon shade is dangerous (west vs. east), which is exactly what the 'Moon Shade Danger' section's prose addresses.",
+      "chosen_heading": "Moon Shade Danger",
+      "current_heading": "Moon Shade Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Palm Tree Spirits",
+    "candidates": [
+      "Palm Tree Spirits",
+      "Stepping Over Trees",
+      "Five Shades Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both palm tree stump hazards (relieving oneself, leaning one's head) and stepping over a palm tree, and the current heading 'Palm Tree Spirits' with its prose explicitly discusses the stump-related spirits (ruach palga, tzrada), making it the best match for this combined passage rather than the narrower 'Stepping Over Trees' section.",
+      "chosen_heading": "Palm Tree Spirits",
+      "current_heading": "Palm Tree Spirits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Five Shades Rule",
+    "candidates": [
+      "Stepping Over Trees",
+      "Five Shades Rule",
+      "Karumashe Exception",
+      "Parcha Spirit Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover exactly the content described in the 'Five Shades Rule' prose \u2014 the enumeration of dangerous shadows, the general principles about branch density and hard wood, and Rav Ashi's observation about Rav Kahana avoiding all shadows \u2014 all of which the prose explicitly discusses, whereas the 'Karumashe Exception' heading covers only the exception and the demonic folk narrative, which are sub-components already included in the 'Five Shades Rule' prose.",
+      "chosen_heading": "Five Shades Rule",
+      "current_heading": "Five Shades Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Parcha Spirit Story",
+    "candidates": [
+      "Karumashe Exception",
+      "Parcha Spirit Story",
+      "Sixty Demons Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the identification of demons near the caper-bush (parcha/pirchei), their names, the practical relevance for amulet-writing, and the story of a Torah scholar fleeing the eyeless demon near that tree \u2014 exactly what the 'Parcha Spirit Story' prose describes.",
+      "chosen_heading": "Parcha Spirit Story",
+      "current_heading": "Parcha Spirit Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Sixty Demons Story",
+    "candidates": [
+      "Sixty Demons Story",
+      "Ketev Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Sixty Demons Story' prose, which explicitly discusses the sorb tree harboring sixty demons and the narrative of the two sages writing amulets \u2014 exactly what items 1 and 2 contain.",
+      "chosen_heading": "Sixty Demons Story",
+      "current_heading": "Sixty Demons Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Ketev Types",
+    "candidates": [
+      "Ketev Types",
+      "Abaye Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the two types of Ketev demons and their appearances, which is precisely what the 'Ketev Types' section's prose discusses.",
+      "chosen_heading": "Ketev Types",
+      "current_heading": "Ketev Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Abaye Encounter",
+    "candidates": [
+      "Abaye Encounter",
+      "Ketev Seasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact encounter between Abaye, Rav Pappa, and Rav Huna son of Rav Yehoshua with the Ketev Meriri, which is precisely what the 'Abaye Encounter' section prose discusses.",
+      "chosen_heading": "Abaye Encounter",
+      "current_heading": "Abaye Encounter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Ketev Seasons",
+    "candidates": [
+      "Ketev Seasons",
+      "Ketev Habitat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the temporal information (Tammuz dates) AND the habitat details (shadow locations, privy), but candidate 1's prose explicitly discusses all three habitat locations mentioned in the text, while candidate 0's prose only covers the temporal aspect \u2014 however, looking more carefully, the passage contains both seasonal AND habitat content, and candidate 1's prose covers the habitat details that form the bulk of the passage, making it the better overall match since candidate 0 already covers the temporal material in its own prose separately.",
+      "chosen_heading": "Ketev Habitat",
+      "current_heading": "Ketev Seasons",
+      "moved": true
+    }
+  }
+]

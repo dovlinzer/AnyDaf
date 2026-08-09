@@ -1,0 +1,436 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Large Estate Case",
+    "candidates": [
+      "Gender Categories",
+      "Tumtum vs Androgynous",
+      "Large Estate Case",
+      "Small Estate Case",
+      "Safek Dynamics",
+      "Eino Notel Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah text introduces the entire scenario of tumtum inheritance (sons, daughters, and tumtum), which is the opening passage of the perek that candidate 0 describes as addressing heirs of ambiguous gender \u2014 it is the foundational text that precedes the breakdown into large/small estate cases.",
+      "chosen_heading": "Gender Categories",
+      "current_heading": "Large Estate Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Eino Notel Rule",
+    "candidates": [
+      "Small Estate Case",
+      "Safek Dynamics",
+      "Eino Notel Rule",
+      "Abaye Position",
+      "Rava Position",
+      "Mamah Nafshach",
+      "Doubtful Claim Problem",
+      "Priority Question",
+      "Kedusha Rule",
+      "Korban Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Eino Notel Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishnah text presenting the ha-omer case and the eino notel rule for a tumtum, which is exactly what the 'Eino Notel Rule' prose describes.",
+      "second_heading": "Abaye Position",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara presenting the contradiction between the reisha and seifa and Abaye's resolution (dochin oto ve-ein lo), which precisely matches the 'Abaye Position' prose.",
+      "current_heading": "Eino Notel Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Korban Analogy",
+    "candidates": [
+      "Abaye Position",
+      "Rava Position",
+      "Mamah Nafshach",
+      "Doubtful Claim Problem",
+      "Priority Question",
+      "Kedusha Rule",
+      "Korban Analogy",
+      "Gender First Principle",
+      "Alignment Analysis",
+      "Contradictory Source",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's position ('dochin oto ve-yeish lo') and then explains that the seifa reflects Rabban Shimon ben Gamliel's view, which is exactly what the 'Rava Position' prose describes \u2014 Rava disagrees with Abaye and holds the tumtum retains some claim, with the seifa handled by attributing it to Rabban Shimon ben Gamliel.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Korban Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "Gender First Principle",
+      "Alignment Analysis",
+      "Contradictory Source",
+      "Rava's Solution",
+      "Reconciliation",
+      "Abaye Problem",
+      "Abaye Reframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises an objection from a baraita and then presents Rava's explanation of it, but the text itself is the 'meitivei' challenge \u2014 the raising of the contradiction \u2014 which the prose of 'Contradictory Source' describes exactly, including the baraita's language and the apparent contradiction with the mishnah.",
+      "chosen_heading": "Contradictory Source",
+      "current_heading": "Rava's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Abaye Reframe",
+    "candidates": [
+      "Reconciliation",
+      "Abaye Problem",
+      "Abaye Reframe",
+      "Lemara Question",
+      "God's Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Abaye's position and its resolution via the *ra'ui* reinterpretation, which is precisely what the 'Abaye Reframe' section's prose describes.",
+      "chosen_heading": "Abaye Reframe",
+      "current_heading": "Abaye Reframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "God's Anger",
+    "candidates": [
+      "Lemara Question",
+      "God's Anger",
+      "Inheritance vs Gains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the mishna's setup (larger gift for daughter) and the Gemara's challenge citing Rabbi Yochanan/Rabbi Shimon ben Yochai, which together constitute the 'lemara question' \u2014 the prose of candidate 0 describes exactly this content (the pointed question about daughter vs. son preference and the contradiction with Rabbi Yochanan's statement), while candidate 1 describes only the Rabbi Yochanan teaching in isolation without the framing question.",
+      "chosen_heading": "Lemara Question",
+      "current_heading": "God's Anger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Inheritance vs Gains",
+    "candidates": [
+      "God's Anger",
+      "Inheritance vs Gains",
+      "First Child Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the distinction between inheritance (son preferred) and harvacha/comfort (daughter preferred), which is precisely what the 'Inheritance vs Gains' section prose discusses.",
+      "chosen_heading": "Inheritance vs Gains",
+      "current_heading": "Inheritance vs Gains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "First Child Sign",
+    "candidates": [
+      "First Child Sign",
+      "Omen Explanations",
+      "Rav Chisda",
+      "Bakol Beriyah",
+      "Meir Position",
+      "Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Shmuel's statement about the mivakeret and Rav Chisda's teaching that a firstborn daughter is a good sign, which is exactly what heading 0 'First Child Sign' describes in its prose.",
+      "chosen_heading": "First Child Sign",
+      "current_heading": "First Child Sign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Yehuda Position",
+    "candidates": [
+      "Omen Explanations",
+      "Rav Chisda",
+      "Bakol Beriyah",
+      "Meir Position",
+      "Yehuda Position",
+      "Feeding Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's discussion of who is the tanna of the mishna \u2014 introducing Rabbi Yehuda as candidate and then immediately questioning whether his 'bakol' position supports the mishna's preference for daughters \u2014 which matches precisely the 'Bakol Beriyah' prose about considering which tanna holds that having a daughter is preferable and the machloket over the verse va-donai berach et Avraham ba-kol.",
+      "chosen_heading": "Bakol Beriyah",
+      "current_heading": "Yehuda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Feeding Obligation",
+    "candidates": [
+      "Yehuda Position",
+      "Feeding Obligation",
+      "Yehuda Kal Vachomer",
+      "Conditional Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita recording the Rabbi Meir / Rabbi Yehuda dispute on feeding obligations, which is precisely what the 'Feeding Obligation' section's prose describes as its content.",
+      "chosen_heading": "Feeding Obligation",
+      "current_heading": "Feeding Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Conditional Gift",
+    "candidates": [
+      "Yehuda Kal Vachomer",
+      "Conditional Gift",
+      "Child as Recipient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita awarding six dinars to the male and two to the female, which is explicitly described in candidate 1's prose as the 'baraita recording the same basic case' that contrasts with the mishnah's preferential treatment of daughters, making it the clearest match.",
+      "chosen_heading": "Conditional Gift",
+      "current_heading": "Conditional Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Child as Recipient",
+    "candidates": [
+      "Child as Recipient",
+      "Messenger Recipient",
+      "Baraita Support",
+      "Twins & Nefel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's report to Rav Kahana explaining the 'bimsares' reordering of the conditional gift, which is precisely what the 'Child as Recipient' prose describes in detail, including the same arithmetic of the male taking 100 regardless and the remaining 100 being divided as mamon ha-mutal be-safek.",
+      "chosen_heading": "Child as Recipient",
+      "current_heading": "Child as Recipient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Twins & Nefel",
+    "candidates": [
+      "Messenger Recipient",
+      "Baraita Support",
+      "Twins & Nefel",
+      "Designation Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with the twins (male and female) case and the exclusion of a nefel, which is precisely what the 'Twins & Nefel' prose section describes, and the passage is already correctly placed there.",
+      "chosen_heading": "Twins & Nefel",
+      "current_heading": "Twins & Nefel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Designation Case",
+    "candidates": [
+      "Designation Case",
+      "Rav Huna Position",
+      "No Yad Problem",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Huna's ruling ('havei mezakeh le-ubar ve-ha-mezakeh le-ubar lo kana') which is precisely what the 'Rav Huna Position' prose section describes and quotes.",
+      "chosen_heading": "Rav Huna Position",
+      "current_heading": "Designation Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Huna Position",
+      "No Yad Problem",
+      "Rav Nachman",
+      "Rav Huna Defense",
+      "Rabbi Meir Option",
+      "Meir Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's objection to Rav Huna from the mishnah about the male fetus receiving 100 dinars, which is exactly what the 'Rav Nachman' section's prose describes \u2014 the challenge from the mishnah presupposing mezakeh le-ubar works.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Meir Limitation",
+    "candidates": [
+      "Rav Huna Defense",
+      "Rabbi Meir Option",
+      "Meir Limitation",
+      "Rabbi Yose Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's proposal and rejection of Rabbi Meir as the mishnah's author \u2014 item 1 raises the Rabbi Meir suggestion and item 2 rejects it \u2014 which is precisely what candidate 1 ('Rabbi Meir Option') describes as its content, while candidate 2 ('Meir Limitation') covers the downstream analytical implications of that rejection rather than the gemara's actual exchange.",
+      "chosen_heading": "Rabbi Meir Option",
+      "current_heading": "Meir Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Rabbi Yose Option",
+    "candidates": [
+      "Meir Limitation",
+      "Rabbi Yose Option",
+      "Yerusha Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's proposal of Rabbi Yosei as a solution and cites the mishna about ubar posel ve-eino ma'achil, which is precisely what the 'Rabbi Yose Option' prose discusses.",
+      "chosen_heading": "Rabbi Yose Option",
+      "current_heading": "Rabbi Yose Option",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Yerusha Distinction",
+    "candidates": [
+      "Yerusha Distinction",
+      "R. Yochanan b. Beroka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the phrase 'shani yerusha ha-ba'ah me-eleiha' and discusses the automatic nature of inheritance, which is precisely what the 'Yerusha Distinction' prose section is explaining and analyzing.",
+      "chosen_heading": "Yerusha Distinction",
+      "current_heading": "Yerusha Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "R. Yochanan b. Beroka",
+    "candidates": [
+      "R. Yochanan b. Beroka",
+      "Beroka Limitation",
+      "Combined Option Rejected",
+      "Ravina Escapes",
+      "Seifa Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "R. Yochanan b. Beroka",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 match headings 0 and 1 exactly: item 1 proposes Rabbi Yochanan ben Beroka as a resolution, and item 2 rejects it by limiting his ruling to entities that exist in the world \u2014 precisely what headings 0 ('R. Yochanan b. Beroka') and 1 ('Beroka Limitation') describe together.",
+      "second_heading": "Combined Option Rejected",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 match headings 2-4: item 3 is the combined Rabbi Yochanan ben Beroka + Rabbi Yose attempt and its rejection ('Combined Option Rejected'), and item 4 is Ravina's 'mevasreni' reading followed by the seifa objection ('Ravina Escapes' / 'Seifa Problem').",
+      "current_heading": "R. Yochanan b. Beroka",
+      "moved": true
+    }
+  }
+]

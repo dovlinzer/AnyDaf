@@ -1,0 +1,287 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Hilchesa Ke-R. Yochanan",
+    "candidates": [
+      "Dibbur Mevattel Dibbur",
+      "Reish Lakish's Versions",
+      "Hilchesa Ke-R. Yochanan",
+      "Status Change Analysis",
+      "Conflicting Piskei Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the halakhic ruling in favor of Rabbi Yochanan even in the first version of the dispute and addresses the objection about giving money being like a ma'aseh \u2014 exactly what the prose of 'Hilchesa Ke-R. Yochanan' describes.",
+      "chosen_heading": "Hilchesa Ke-R. Yochanan",
+      "current_heading": "Hilchesa Ke-R. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Conflicting Piskei Din",
+    "candidates": [
+      "Status Change Analysis",
+      "Conflicting Piskei Din",
+      "Get Remains Valid",
+      "Maasah Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the contradiction between the halakha per Rabbi Yo\u1e25anan and the halakha per Rav Na\u1e25man regarding voiding a shaliach ha-get, which is precisely what the 'Conflicting Piskei Din' section's prose discusses.",
+      "chosen_heading": "Conflicting Piskei Din",
+      "current_heading": "Conflicting Piskei Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Maasah Analysis",
+    "candidates": [
+      "Get Remains Valid",
+      "Maasah Analysis",
+      "Rav: Safek Le'olam",
+      "Shmuel: Tenai Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Rav Na\u1e25man/Rav Sheshet dispute and the resolution 'batlei mishum shlichus, lo batlei mishum get,' which is precisely what heading 0 ('Get Remains Valid') discusses in its prose, whereas heading 1 ('Maasah Analysis') discusses the downstream implications of that ruling rather than the ruling itself.",
+      "chosen_heading": "Get Remains Valid",
+      "current_heading": "Maasah Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Shmuel: Tenai Logic",
+    "candidates": [
+      "Rav: Safek Le'olam",
+      "Shmuel: Tenai Logic",
+      "Language Interpretation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shmuel: Tenai Logic",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss the dispute about 'mekudeshet la-sheni' and Rav \u1e24isda's difficulty with how the second betrothal lapses, which fits the Shmuel tenai logic section's discussion of paka kiddushei sheni.",
+      "second_heading": "Language Interpretation",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Yehuda's version of the dispute about 'me-achshav u-le'achar sheloshim yom' and explain the tenai-vs-retraction ambiguity, which is precisely what the 'Language Interpretation' prose discusses.",
+      "current_heading": "Shmuel: Tenai Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Language Interpretation",
+    "candidates": [
+      "Language Interpretation",
+      "Case Setup",
+      "Get Requirement Logic",
+      "Fixed Legal Meaning",
+      "Shivura Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items \u2014 the tannaitic dispute about 'from today and after death,' the necessity of Rav and Shmuel stating their positions explicitly, Abaye's three-men scenario, and the fixed-legal-meaning principle \u2014 are all discussed in detail in the prose of candidate 0 ('Language Interpretation'), making it the clear and correct home for this entire passage.",
+      "chosen_heading": "Language Interpretation",
+      "current_heading": "Language Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Shivura Metaphor",
+    "candidates": [
+      "Case Setup",
+      "Get Requirement Logic",
+      "Fixed Legal Meaning",
+      "Shivura Metaphor",
+      "Partial Marriage Status",
+      "Get After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Ulla and Rabbi Asi's transmission of Rabbi Yochanan's ruling that even one hundred men can betroth the woman, and Rav Mesharshiya's brick-row metaphor explanation \u2014 exactly the content described in the 'Shivura Metaphor' section's prose.",
+      "chosen_heading": "Shivura Metaphor",
+      "current_heading": "Shivura Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Get After Death",
+    "candidates": [
+      "Partial Marriage Status",
+      "Get After Death",
+      "Get Models Applied",
+      "Gezeira M'shum Leshon",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a continuous Talmudic discussion about 'me-hayom u-le'achar mita' (from today and after death) \u2014 the objection from the baraita, Rav/Shmuel/Rabbi Yochanan's positions, Rava's proposal, Abaye's refutation, and the gezeira explanation \u2014 which is precisely what the 'Get After Death' prose describes.",
+      "chosen_heading": "Get After Death",
+      "current_heading": "Get After Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Get Models Applied",
+      "Gezeira M'shum Leshon",
+      "Mishnah Cases",
+      "Tenai Timing Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah cases of conditional kiddushin (al menas) that candidate 2's prose explicitly summarizes, covering the exact same scenarios in the same order.",
+      "chosen_heading": "Mishnah Cases",
+      "current_heading": "Mishnah Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Tenai Timing Debate",
+    "candidates": [
+      "Tenai Timing Debate",
+      "Kiddushin vs. Geirushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Rav Huna/Rav Yehuda dispute over 've-hu yitten' vs. 'lich'she-yitten' and the nafka mina of a second betrothal, which is precisely what the prose of heading 0 ('Tenai Timing Debate') describes in detail.",
+      "chosen_heading": "Tenai Timing Debate",
+      "current_heading": "Tenai Timing Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Kiddushin vs. Geirushin",
+    "candidates": [
+      "Kiddushin vs. Geirushin",
+      "Get Validity Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Kiddushin vs. Geirushin",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the parallel dispute between Rav Huna and Rav Yehuda regarding gittin, the nafka mina of a torn/lost get, and the necessity of stating both betrothal and divorce cases \u2014 all of which match the 'Kiddushin vs. Geirushin' prose exactly.",
+      "second_heading": "Get Validity Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the baraita objection (tiuvta) proving that a torn/lost get still effects divorce, which matches the 'Get Validity Proof' prose that explicitly describes this baraita as marshaling decisive evidence in favor of Rav Huna.",
+      "current_heading": "Kiddushin vs. Geirushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Get Validity Proof",
+    "candidates": [
+      "Get Validity Proof",
+      "Consensus on Al Menas",
+      "Dispute Scope Limited"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Get Validity Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the second baraita (get al menas she-titni, dying before fulfillment, tiuvta to Rav Yehuda, and his deflection attributing the baraita to Rabbi) \u2014 exactly what candidate 0's prose describes.",
+      "second_heading": "Consensus on Al Menas",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 cover the 'gufah' analysis of Rav Huna/Rabbi's rule, Rabbi Zeira's report, Rabbi Asi's teaching that all agree on al menas, and the question about why the dispute is framed around me-hayom \u2014 exactly what candidates 1 and 2 describe, beginning with candidate 1's discussion of Rav Zeira's tradition.",
+      "current_heading": "Get Validity Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Dispute Scope Limited",
+    "candidates": [
+      "Consensus on Al Menas",
+      "Dispute Scope Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the baraita frames the dispute around 'me-hayom u-le'achar mita' rather than 'al menas,' and gives the answer of koach d-hetera adif \u2014 exactly the content described in the 'Dispute Scope Limited' prose.",
+      "chosen_heading": "Dispute Scope Limited",
+      "current_heading": "Dispute Scope Limited",
+      "moved": false
+    }
+  }
+]

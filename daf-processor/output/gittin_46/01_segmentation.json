@@ -64,8 +64,8 @@
           "timestamp": "14:17"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Divorce and Remarriage: When a Husband Cannot Remarry Due to Rumors or Vows",
@@ -172,7 +172,7 @@
           "timestamp": "57:35"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 0,
       "matched": true
     }
   ],
@@ -779,5 +779,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "53:08",
+  "amud_b_micro_title": "Abyei Analysis",
+  "shiur_start_daf": 45,
+  "shiur_start_amud": "b"
 }

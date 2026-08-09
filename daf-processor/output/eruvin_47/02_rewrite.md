@@ -108,9 +108,7 @@ This produces the second direction of the Gemara's challenge. Now we are not dea
 
 ### Rav vs Yochanan
 
-The Gemara's answer is that perhaps Rav himself does not hold of these general principles at all. It was Rabbi Yochanan who articulated the *klalim*, and perhaps they reflect only his approach. When Rav explicitly ruled like Rabbi Yehuda, he did so because without his statement there would be no way to know where the *halacha* fell — since the general principles are not operative from his perspective. What Rav Mesharshya was therefore saying, the Gemara now clarifies, is not that these principles never apply, but that they are not universally held. Rabbi Yochanan may hold of them; Rav does not. The rules are thus not a consensus position, and knowing that Rabbi Yochanan formulated them does not mean one can rely on them in all contexts or according to all authorities.
-
----
+The Gemara responds that perhaps Rav simply does not hold of these *klalim* at all. Rabbi Yochanan was the one who articulated them, and Rav may not share his view — after all, it was Rav who explicitly ruled like Rabbi Yehuda. What Rav Mesharshya's objection would therefore demonstrate at most, the Gemara notes, is that Rav does not operate according to these principles — not that the principles are categorically invalid. The Gemara then moves on: *ela me-ha*, let me try to prove it from the following *detnan*.
 
 ## Three Month Wait
 

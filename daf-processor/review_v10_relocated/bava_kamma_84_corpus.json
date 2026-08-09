@@ -1,0 +1,472 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Large vs Small Eye",
+    "candidates": [
+      "Rambam Classification",
+      "Five Categories",
+      "Perek HaChovel Setup",
+      "Large vs Small Eye",
+      "Equal Law Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Dostai ben Yehuda's baraita arguing that 'an eye for an eye' means monetary compensation, using the example of a large eye vs. small eye \u2014 exactly what the 'Large vs Small Eye' section's prose describes and analyzes.",
+      "chosen_heading": "Large vs Small Eye",
+      "current_heading": "Large vs Small Eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Equal Law Principle",
+    "candidates": [
+      "Equal Law Principle",
+      "Vision Not Eye",
+      "Capital Case Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'one manner of law' (mishpat echad) principle as a response to the suggestion of monetary restitution in unequal-eye cases, which is precisely what the 'Equal Law Principle' prose section discusses.",
+      "chosen_heading": "Equal Law Principle",
+      "current_heading": "Equal Law Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Capital Case Analogy",
+    "candidates": [
+      "Vision Not Eye",
+      "Capital Case Analogy",
+      "Blind Blinding Blind"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vision Not Eye",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening objection to Rabbi Dostai \u2014 'perhaps it is the vision that matters, not the eye size' \u2014 which matches exactly the prose of heading 0 ('Vision Not Eye') describing the same objection.",
+      "second_heading": "Capital Case Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the capital-case analogy (katan she-harag et ha-gadol) that extends the vision-equivalence argument, matching precisely the prose of heading 1 ('Capital Case Analogy') which paraphrases this exact passage.",
+      "current_heading": "Capital Case Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Blind Blinding Blind",
+    "candidates": [
+      "Blind Blinding Blind",
+      "Equal Law Again",
+      "Conditional Reciprocity",
+      "Treifa Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Shimon ben Yo\u1e25ai's argument about the blind/lame/severed-limb cases making literal reciprocity impossible, which is exactly what heading 0 ('Blind Blinding Blind') discusses, while the 'mishpat echad' conclusion is just the tail end of the same baraita and heading 0's prose explicitly references all three cases.",
+      "chosen_heading": "Blind Blinding Blind",
+      "current_heading": "Blind Blinding Blind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Treifa Objection",
+    "candidates": [
+      "Equal Law Again",
+      "Conditional Reciprocity",
+      "Treifa Objection",
+      "Yishmael Extra Word"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Sages' objection ('where it is possible \u2014 possible; where it is not possible \u2014 exempt him') and its ultimate rejection, which is precisely what candidate 1 ('Conditional Reciprocity') describes in its prose, whereas the current placement under 'Treifa Objection' covers the downstream analogy used to refute this suggestion rather than the suggestion itself.",
+      "chosen_heading": "Conditional Reciprocity",
+      "current_heading": "Treifa Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Yishmael Extra Word",
+    "candidates": [
+      "Treifa Objection",
+      "Yishmael Extra Word",
+      "Yishmael Rejection",
+      "Chiya Hand-Hand",
+      "Chiya Foot Objection",
+      "Chiya Resolution",
+      "Abaye Death Risk"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yishmael Extra Word",
+      "first_confidence": "low",
+      "first_reason": "Items 1-2 cover the school of Rabbi Yishmael's derivation and its challenge/resolution, which spans headings 1 ('Yishmael Extra Word') and 2 ('Yishmael Rejection') \u2014 since the current placement is heading 1 and both items 1-2 together cover the Yishmael material, the best single home for items 1-2 is heading 1 where they currently sit, as heading 2's prose already describes the resolution content.",
+      "second_heading": "Chiya Hand-Hand",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover the school of Rabbi \u1e24iyya's derivation from 'yad be-yad' and the 'regel be-regel' objection, matching exactly the prose of heading 3 ('Chiya Hand-Hand') and heading 4 ('Chiya Foot Objection'), and these belong under heading 3 as their natural home.",
+      "current_heading": "Yishmael Extra Word",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Abaye Death Risk",
+    "candidates": [
+      "Yishmael Rejection",
+      "Chiya Hand-Hand",
+      "Chiya Foot Objection",
+      "Chiya Resolution",
+      "Abaye Death Risk",
+      "Assessment Before Injury",
+      "Lashing Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Abaye's derivation from the school of \u1e24izkiyya about 'an eye and a life for an eye,' which is precisely what the 'Abaye Death Risk' prose section describes.",
+      "chosen_heading": "Abaye Death Risk",
+      "current_heading": "Abaye Death Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Lashing Analogy",
+    "candidates": [
+      "Assessment Before Injury",
+      "Lashing Analogy",
+      "Rav Zvid Petza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection that prior assessment could make literal punishment viable, which is exactly what heading 0 ('Assessment Before Injury') describes, while the lashing analogy is the gemara's response to that objection \u2014 but the entire quoted text (including the lashing reference) is part of one continuous argument that begins with the assessment objection, making heading 0 the better home since the passage opens with 'what is the difficulty? Perhaps we evaluate...' which matches heading 0's prose precisely.",
+      "chosen_heading": "Assessment Before Injury",
+      "current_heading": "Lashing Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Zvid Petza",
+    "candidates": [
+      "Lashing Analogy",
+      "Rav Zvid Petza",
+      "Sensitivity Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Zevid's derivation from 'petza tachat patza' to establish tza'ar as a separate compensable category, which is precisely what the 'Rav Zvid Petza' section's prose describes.",
+      "chosen_heading": "Rav Zvid Petza",
+      "current_heading": "Rav Zvid Petza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Sensitivity Objection",
+    "candidates": [
+      "Sensitivity Objection",
+      "Tzaar-Nezek Link",
+      "Rav Pappa Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the sensitivity objection (delicate vs. non-delicate persons experiencing different pain) and the resolution about paying the difference, which matches precisely the prose in candidate 0.",
+      "chosen_heading": "Sensitivity Objection",
+      "current_heading": "Sensitivity Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rav Pappa Healing",
+    "candidates": [
+      "Tzaar-Nezek Link",
+      "Rav Pappa Healing",
+      "Medical Care Objection",
+      "Medical Counter",
+      "Tachat Gezeira Shava",
+      "Why Not Capital",
+      "Damages from Damages",
+      "Rav Ashi Rape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Pappa/Rava proof from medical expenses and the gemara's objection that healing rates differ, which is precisely what headings 1 ('Rav Pappa Healing') and 2 ('Medical Care Objection') describe \u2014 and since both items belong under one heading, heading 1 is the current placement and covers the Rav Pappa derivation that Item 1 presents, while Item 2 (the objection about differing healing rates) is the immediate continuation of that same sugya still under heading 1's scope.",
+      "chosen_heading": "Rav Pappa Healing",
+      "current_heading": "Rav Pappa Healing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rav Ashi Rape",
+    "candidates": [
+      "Medical Care Objection",
+      "Medical Counter",
+      "Tachat Gezeira Shava",
+      "Why Not Capital",
+      "Damages from Damages",
+      "Rav Ashi Rape",
+      "Eliezer Literal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain: Rav Ashi's gezeirah shavah from 'tachat' (item 1), the challenge to learn from the human/capital case instead (item 2), the structural principle 'damages from damages' and its counter (item 3), and Rav Ashi's revised derivation from the rape case (item 4) \u2014 this entire sequence belongs under the 'Tachat Gezeira Shava' heading which introduces Rav Ashi's tachat-tachat proposal, not under 'Rav Ashi Rape' which covers only the final resolution.",
+      "chosen_heading": "Tachat Gezeira Shava",
+      "current_heading": "Rav Ashi Rape",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Eliezer Literal",
+    "candidates": [
+      "Rav Ashi Rape",
+      "Eliezer Literal",
+      "Rabbah Interpretation",
+      "Abaye Free Person",
+      "Rav Ashi Mazik"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita citing Rabbi Eliezer's literal interpretation and the Gemara's immediate questioning of it, which is precisely what the 'Eliezer Literal' section's prose describes.",
+      "chosen_heading": "Eliezer Literal",
+      "current_heading": "Eliezer Literal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rav Ashi Mazik",
+    "candidates": [
+      "Rabbah Interpretation",
+      "Abaye Free Person",
+      "Rav Ashi Mazik",
+      "Donkey Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rabbah, Abaye, and Rav Ashi) as a single continuous Talmudic exchange, and the first candidate heading 'Rabbah Interpretation' is where this unified sugya begins, making it the natural home for the entire passage rather than splitting it across three headings.",
+      "chosen_heading": "Rabbah Interpretation",
+      "current_heading": "Rav Ashi Mazik",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Donkey Case",
+    "candidates": [
+      "Rav Ashi Mazik",
+      "Donkey Case",
+      "No Authority Bavel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the donkey case before Rav Pappa bar Shmuel, with the exact dialogue about four vs. five categories and the donkey paying only nezek, which matches precisely the 'Donkey Case' prose description.",
+      "chosen_heading": "Donkey Case",
+      "current_heading": "Donkey Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "No Authority Bavel",
+    "candidates": [
+      "No Authority Bavel",
+      "Deferred Assessment",
+      "Ox Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts the father's objection to the slave assessment and the court's response about the child's damages, which is precisely the content described in the 'No Authority Bavel' prose section.",
+      "chosen_heading": "No Authority Bavel",
+      "current_heading": "No Authority Bavel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Ox Case",
+    "candidates": [
+      "Deferred Assessment",
+      "Ox Case",
+      "Rava Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the ox-chewing-a-child's-hand case before Rava with the slave-assessment objection and the 'lo tzricha de-itfas' reply, which matches precisely the 'Ox Case' prose description.",
+      "chosen_heading": "Ox Case",
+      "current_heading": "Ox Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rava Categories",
+    "candidates": [
+      "Rava Categories",
+      "Elohim Requirement",
+      "Shlichusaihu Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct quotation of Rava's rule distinguishing which damage cases are collected in Babylonia, which is precisely what the 'Rava Categories' prose section introduces and explicates.",
+      "chosen_heading": "Rava Categories",
+      "current_heading": "Rava Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Shlichusaihu Animals",
+    "candidates": [
+      "Elohim Requirement",
+      "Shlichusaihu Animals",
+      "Shachiach Chesron Kis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-objection about the *elohim* requirement \u2014 asking why animal cases differ from human cases, raising the counter that animal cases also require *elohim*, and then offering the *shlichusaihu* answer and its challenge \u2014 which matches the 'Elohim Requirement' prose that explicitly discusses *mai shna nizkei adam be-adam*, the *elohim* requirement, and *ve-leika*, rather than the 'Shlichusaihu Animals' section which discusses the resolution already established.",
+      "chosen_heading": "Elohim Requirement",
+      "current_heading": "Shlichusaihu Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Shachiach Chesron Kis",
+    "candidates": [
+      "Shlichusaihu Animals",
+      "Shachiach Chesron Kis",
+      "Not Common Enough",
+      "Boshes Not Chesron",
+      "Shor Tam Muad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form one continuous dialectical chain about the conditions for shlichusaihu ka'avdinan \u2014 kim lei be-gavei, mamona vs. kenasa, shachiach, and chesron kis \u2014 which is precisely what candidate 1 ('Shachiach Chesron Kis') describes in its prose, matching every sub-discussion in sequence.",
+      "chosen_heading": "Shachiach Chesron Kis",
+      "current_heading": "Shachiach Chesron Kis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Shor Tam Muad",
+    "candidates": [
+      "Not Common Enough",
+      "Boshes Not Chesron",
+      "Shor Tam Muad",
+      "Shen VeRegel Muad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara text that parses Rava's statement about ox damages in Babylonia, clarifying that it must refer to ox-damaged-ox rather than ox-damaged-person, which is exactly what the 'Shor Tam Muad' prose section describes and analyzes.",
+      "chosen_heading": "Shor Tam Muad",
+      "current_heading": "Shor Tam Muad",
+      "moved": false
+    }
+  }
+]

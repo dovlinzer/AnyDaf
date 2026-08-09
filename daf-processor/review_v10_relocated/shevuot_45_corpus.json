@@ -1,0 +1,515 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Chashud al HaShe'ua",
+    "candidates": [
+      "Overview",
+      "Substantiating Evidence",
+      "Chashud al HaShe'ua",
+      "Examples of Chashud",
+      "Shevuat Shav",
+      "Chidush of Mixing Oaths",
+      "Teshuva & Chashud",
+      "Dice Players & Usurers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the opening question ('how does this halakha apply to one whose opposing litigant is suspect with regard to oaths?') which directly introduces the 'Chashud al HaShe'ua' section, matching that section's prose about the case where the opposing party is suspect with respect to oaths.",
+      "chosen_heading": "Chashud al HaShe'ua",
+      "current_heading": "Chashud al HaShe'ua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Dice Players & Usurers",
+    "candidates": [
+      "Examples of Chashud",
+      "Shevuat Shav",
+      "Chidush of Mixing Oaths",
+      "Teshuva & Chashud",
+      "Dice Players & Usurers",
+      "Memona vs She'ua",
+      "Unproductive Activity",
+      "Professional vs Casual",
+      "Both Suspect (Chasudin)",
+      "Meir vs Yose Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers both the oath categories (shvuat ha'edut, shvuat hapikadon, shvuat shav) AND the dice players/usurers/pigeon flyers/shvi'is traders in a single mishna text, and the current placement under 'Dice Players & Usurers' is correct since that section's prose directly quotes and discusses these same individuals (mesachek bekubia, malveh beribit, mafrichei yonim, sochrei shvi'is) as a continuation of the oath-suspect discussion.",
+      "chosen_heading": "Dice Players & Usurers",
+      "current_heading": "Dice Players & Usurers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Meir vs Yose Split",
+    "candidates": [
+      "Memona vs She'ua",
+      "Unproductive Activity",
+      "Professional vs Casual",
+      "Both Suspect (Chasudin)",
+      "Meir vs Yose Split",
+      "Ledger Insufficient",
+      "Third Party Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yosei's ruling (hazra hashvua limkomah) and Rabbi Meir's ruling (yachloku) as a unit from the mishna, and candidate 3 ('Both Suspect') explicitly discusses hayu shneihem chashudim and mentions that the Gemara will discuss the readings of Rabbi Yose's position, making it the natural home for the complete mishna text covering both opinions.",
+      "chosen_heading": "Both Suspect (Chasudin)",
+      "current_heading": "Meir vs Yose Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Third Party Claims",
+    "candidates": [
+      "Ledger Insufficient",
+      "Third Party Claims",
+      "Double Collection",
+      "Ben Nanos Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains both what the storekeeper's ledger case is NOT (writing a debt claim) and what it IS (third-party delivery instructions), which directly matches heading 0's prose about the ledger being insufficient alone and the two contrasting types of claims \u2014 heading 1 only covers the latter half of the passage's content.",
+      "chosen_heading": "Ledger Insufficient",
+      "current_heading": "Third Party Claims",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Ben Nanos Objection",
+    "candidates": [
+      "Double Collection",
+      "Ben Nanos Objection",
+      "Ran's Version",
+      "Fruit Payment Case",
+      "Shevuat Hesset",
+      "Possession Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Ben Nannas's objection about both parties coming to a vain oath and his ruling that all collect without an oath, which is exactly what the 'Ben Nanos Objection' prose describes.",
+      "chosen_heading": "Ben Nanos Objection",
+      "current_heading": "Ben Nanos Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Possession Presumption",
+    "candidates": [
+      "Ran's Version",
+      "Fruit Payment Case",
+      "Shevuat Hesset",
+      "Possession Presumption",
+      "Money Changer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the fruit/produce-for-dinar transaction case that candidate 1 ('Fruit Payment Case') introduces and explains, covering both configurations (customer claiming he paid, storekeeper claiming he delivered), which is the subject of that prose section.",
+      "chosen_heading": "Fruit Payment Case",
+      "current_heading": "Possession Presumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Money Changer",
+    "candidates": [
+      "Possession Presumption",
+      "Money Changer",
+      "Real-World Examples",
+      "Keshem Formula",
+      "Ketuba Collection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact money changer cases (shulchani, dinar, maot) with Rabbi Yehuda's ruling about not giving change before receiving the dinar, which matches precisely the prose in the 'Money Changer' section.",
+      "chosen_heading": "Money Changer",
+      "current_heading": "Money Changer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Ketuba Collection",
+    "candidates": [
+      "Real-World Examples",
+      "Keshem Formula",
+      "Ketuba Collection",
+      "Structure Analysis",
+      "Liens & Orphans"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Keshem Formula",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna text that uses the 'keshem she'amru' formula introducing the list of oath cases, which is precisely what candidate 1 ('Keshem Formula') describes as its topic.",
+      "second_heading": "Liens & Orphans",
+      "second_confidence": "high",
+      "second_reason": "Item 2 details the specific oath formula orphans must take and the disputes of Rabbi Yo\u1e25anan ben Beroka and Rabban Shimon ben Gamliel about collecting from orphans' estates, matching candidate 4 ('Liens & Orphans') which discusses collecting from orphans and the required oath.",
+      "current_heading": "Ketuba Collection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Liens & Orphans",
+    "candidates": [
+      "Structure Analysis",
+      "Liens & Orphans",
+      "Collection Absence",
+      "Orphans Chidush",
+      "Orphans Oath Content",
+      "Posthumous Sons",
+      "Deathbed Exception",
+      "Suspicion Oaths",
+      "Partners & Sharecroppers",
+      "Agents & Women",
+      "Ben HaBayis",
+      "Non-Specific Suspicion",
+      "Partnership Dissolution",
+      "Gilgul She'ua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is the mishna text listing those who swear without a specific claim (partners, sharecroppers, stewards, women, ben habayit) and the 'retzoni shetishva li' case, which directly corresponds to the 'Suspicion Oaths' section's prose about ve'elu nishba'in shelo beta'ana.",
+      "chosen_heading": "Suspicion Oaths",
+      "current_heading": "Liens & Orphans",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Gilgul She'ua",
+    "candidates": [
+      "Collection Absence",
+      "Orphans Chidush",
+      "Orphans Oath Content",
+      "Posthumous Sons",
+      "Deathbed Exception",
+      "Suspicion Oaths",
+      "Partners & Sharecroppers",
+      "Agents & Women",
+      "Ben HaBayis",
+      "Non-Specific Suspicion",
+      "Partnership Dissolution",
+      "Gilgul She'ua",
+      "Shmitta Release",
+      "Torah Oaths",
+      "Scriptural Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage covers both gilgul shvua (oath extension after partnership dissolution) and shmitta releasing an oath, which maps directly to the 'Gilgul She'ua' section's prose about extending an oath via another hook, and the shmitta point is included in the same mishna passage being discussed there.",
+      "chosen_heading": "Gilgul She'ua",
+      "current_heading": "Gilgul She'ua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Scriptural Source",
+    "candidates": [
+      "Shmitta Release",
+      "Torah Oaths",
+      "Scriptural Source",
+      "Hired Hand Oath",
+      "Rabbis' Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the principle 'kol hanishba'in shebatorah nishba'in velo meshalmin' and asks 'menalan,' which matches the 'Torah Oaths' section prose exactly, while the current 'Scriptural Source' heading describes the verse and its interpretation which comes after this introductory question.",
+      "chosen_heading": "Torah Oaths",
+      "current_heading": "Scriptural Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Rabbis' Reason",
+    "candidates": [
+      "Hired Hand Oath",
+      "Rabbis' Reason",
+      "Big Edicts",
+      "Economic Argument",
+      "Oath Transfer",
+      "Owner's Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question of why the Rabbis instituted the hired worker's oath and the Shmuel/Rav Yehuda exchange about 'great halakhot/takanos' \u2014 are the direct Gemara response to the Mishnah's ruling about the hired worker, which is exactly what candidate 0 ('Hired Hand Oath') describes, while candidate 1 already covers this same content in its prose, suggesting the passage was placed one heading too late.",
+      "chosen_heading": "Hired Hand Oath",
+      "current_heading": "Rabbis' Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Owner's Benefit",
+    "candidates": [
+      "Big Edicts",
+      "Economic Argument",
+      "Oath Transfer",
+      "Owner's Benefit",
+      "Worker Counterargument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full sequence: Shmuel's explanation that the Rabbis transferred the oath to the worker due to livelihood concerns, the challenge about penalizing the employer, and the answer that the employer prefers it so workers will accept employment \u2014 this entire arc is introduced by the 'Economic Argument' heading's prose about *mishum kedei chayav*, and the challenge/response naturally flows from that same heading rather than being split across multiple headings.",
+      "chosen_heading": "Economic Argument",
+      "current_heading": "Owner's Benefit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Worker Counterargument",
+    "candidates": [
+      "Owner's Benefit",
+      "Worker Counterargument",
+      "Competition Rebuttal",
+      "Owner Distracted",
+      "Tosafot Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 1's prose: the counterargument that the worker would prefer the employer to take the oath (aderaba), followed by the rebuttals about both sides hiring perforce, and the final resolution about the employer being distracted \u2014 all of which candidate 1's prose explicitly describes, while candidates 2 and 3 cover only portions of this unified Talmudic exchange.",
+      "chosen_heading": "Worker Counterargument",
+      "current_heading": "Worker Counterargument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Tosafot Objection",
+    "candidates": [
+      "Competition Rebuttal",
+      "Owner Distracted",
+      "Tosafot Objection",
+      "Placate Owner",
+      "Alternatives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises the exact objection 'let him give wages without an oath' which is precisely the Tosafot objection that the prose in candidate 2 describes and frames.",
+      "chosen_heading": "Tosafot Objection",
+      "current_heading": "Tosafot Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Alternatives",
+    "candidates": [
+      "Placate Owner",
+      "Alternatives",
+      "Both Sides Prefer Delay",
+      "Wage Amount Dispute"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Wage Amount Dispute",
+    "candidates": [
+      "Both Sides Prefer Delay",
+      "Wage Amount Dispute",
+      "Different Rule Question",
+      "Amount Remembered",
+      "Time Period Passed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge 'if so, even fixed wages should be forgotten' and the answer 'fixing of wages he certainly remembers,' which together form the question-and-answer that candidate 2 ('Different Rule Question') and candidate 3 ('Amount Remembered') describe, but the full Gemara passage \u2014 question plus answer \u2014 most naturally sits under the heading that poses the question (candidate 2), since candidate 3's prose describes only the answer portion while candidate 2's prose describes the exact challenge raised in this passage.",
+      "chosen_heading": "Different Rule Question",
+      "current_heading": "Wage Amount Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Time Period Passed",
+    "candidates": [
+      "Different Rule Question",
+      "Amount Remembered",
+      "Time Period Passed",
+      "Bal Talin Presumption",
+      "Owner Focuses at Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks why the worker cannot take an oath after the payment time has passed (avar zemano), which is precisely the topic introduced in the 'Time Period Passed' section's prose.",
+      "chosen_heading": "Time Period Passed",
+      "current_heading": "Time Period Passed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Owner Focuses at Night",
+    "candidates": [
+      "Bal Talin Presumption",
+      "Owner Focuses at Night",
+      "Day vs Night Question",
+      "Defensive Psychology",
+      "No Reconsideration",
+      "Double Chazaka",
+      "Two Presumptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the chazaka that an employer will not violate bal talin and then explains that the distraction presumption applies only before the liability time arrives \u2014 this is exactly the content described in candidate 0's prose about chazaka ein ba'al habayis over bebal talin, while candidate 1's prose already summarizes this same Gemara exchange as background context for a further question, suggesting the passage itself belongs under heading 0 which introduces the presumption.",
+      "chosen_heading": "Bal Talin Presumption",
+      "current_heading": "Owner Focuses at Night",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "Two Presumptions",
+    "candidates": [
+      "Day vs Night Question",
+      "Defensive Psychology",
+      "No Reconsideration",
+      "Double Chazaka",
+      "Two Presumptions",
+      "Rav Nachman's Rule",
+      "Migo Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the double chazaka concept (asking whether the worker would violate robbery and answering with two presumptions), which is the setup that section 3 'Double Chazaka' introduces, while section 4 'Two Presumptions' already explains the content of those presumptions in its prose \u2014 so the Gemara text itself belongs under the heading that first raises the double chazaka.",
+      "chosen_heading": "Double Chazaka",
+      "current_heading": "Two Presumptions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      181
+    ],
+    "current_heading": "Migo Argument",
+    "candidates": [
+      "Rav Nachman's Rule",
+      "Migo Argument",
+      "Yesher Koach",
+      "Rabbi Yochanan Agrees",
+      "Reish Lakish Silent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Na\u1e25man/Shmuel rule about witnesses AND Rabbi Yitz\u1e25ak's endorsement AND Rabbi Yo\u1e25anan's agreement all in one unified statement, and the prose under heading 0 ('Rav Nachman's Rule') directly describes this complete teaching, whereas headings 1-3 fragment what is a single Talmudic passage into separate sections.",
+      "chosen_heading": "Rav Nachman's Rule",
+      "current_heading": "Migo Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Reish Lakish Silent",
+    "candidates": [
+      "Yesher Koach",
+      "Rabbi Yochanan Agrees",
+      "Reish Lakish Silent",
+      "Rav Menashia Repeats"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether Reish Lakish disagreed with Rabbi Yochanan and the two versions (drinking/waiting) explaining his silence, which matches exactly the prose under 'Reish Lakish Silent'.",
+      "chosen_heading": "Reish Lakish Silent",
+      "current_heading": "Reish Lakish Silent",
+      "moved": false
+    }
+  }
+]

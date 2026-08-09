@@ -1,16 +1,12 @@
-# Kiddushin 80 — Daf Yomi Shiur
-
+[DAF:80a]
 ## Kinship & Yichus
+
+
 
 ### Overseas Return
 
-> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁיָּצָא הוּא וְאִשְׁתּוֹ לִמְדִינַת הַיָּם, וּבָא הוּא וְאִשְׁתּוֹ וּבָנָיו וְאָמַר: ״אִשָּׁה שֶׁיָּצָאת עִמִּי לִמְדִינַת הַיָּם – הֲרֵי הִיא זוֹ, וְאֵלּוּ בָּנֶיהָ״ – אֵין צָרִיךְ לְהָבִיא רְאָיָה לֹא עַל הָאִשָּׁה, וְלֹא עַל הַבָּנִים. ״מֵתָה וְאֵלּוּ בָּנֶיהָ״ – מֵבִיא רְאָיָה עַל הַבָּנִים, וְאֵינוֹ מֵבִיא רְאָיָה עַל הָאִשָּׁה.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁיָּצָא הוּא וְאִשְׁתּוֹ לִמְדִינַת הַיָּם, וּבָא הוּא וְאִשְׁתּוֹ וּבָנָיו וְאָמַר: ״אִשָּׁה שֶׁיָּצָאת עִמִּי לִמְדִינַת הַיָּם – הֲרֵי הִיא זוֹ, וְאֵלּוּ בָּנֶיהָ״ – אֵין צָרִיךְ לְהָבִיא רְאָיָה לֹא עַל הָאִשָּׁה, וְלֹא עַל הַבָּנִים. ״מֵתָה וְאֵלּוּ בָּנֶיהָ״ – מֵבִיא רְאָיָה עַל הַבָּנִים, וְאֵינוֹ מֵבִיא רְאָיָה עַל הָאִשָּׁה.
 > **Translation:** MISHNA: With regard to **one who went overseas with his wife, and returned with his wife and children, and said: This is the woman who went overseas with me and these are her children,** he **is not required to bring proof with regard to** the lineage of **the woman,** since her lineage was already investigated at the time of their marriage, **nor with regard to** the lineage of **the children.** If he returned without the woman and said: My wife **died and these are her children,** he must **bring proof that the children** were born to his wife, **but he does not** need to **bring proof with regard to** the lineage of **the woman.**
-
-> **Hebrew/Aramaic:** ״אִשָּׁה נָשָׂאתִי בִּמְדִינַת הַיָּם – הֲרֵי הִיא זוֹ, וְאֵלּוּ בָּנֶיהָ״ – מֵבִיא רְאָיָה עַל הָאִשָּׁה וְאֵין צָרִיךְ לְהָבִיא רְאָיָה עַל הַבָּנִים. ״מֵתָה וְאֵלּוּ בָּנֶיהָ״ – צָרִיךְ לְהָבִיא רְאָיָה עַל הָאִשָּׁה וְעַל הַבָּנִים.
->
-> **Translation:** If he left when he was unmarried and said upon his return: **I married a woman overseas, and this is she, and these are her children,** he must **bring proof with regard to** the lineage of **the woman, but** he **is not required to bring proof with regard to** the lineage of **the children.** If he said: I married a woman overseas and **she died, and these are her children,** he is **required to bring proof with regard to** both the lineage of **the woman and the children.**
 
 Today's daf is 80, and we pick up at the *mishna* at the bottom of 79b, moving to a somewhat different topic. The present *perek* has been devoted largely to questions of *ne'emanus* and *yesod yuchasin*, while ranging across several classic *kiddushin* themes. The most proximate *mishna* concerned a man who appoints a *shaliach* to betroth his daughter and the question of whose *kiddushin* takes effect first. Now we return to a theme from two *mishnayos* earlier — someone testifying about the status of his own family and the question of whether he is believed.
 
@@ -20,13 +16,9 @@ Rashi explains that the *chiddush* here is twofold. First, since her acceptable 
 
 ### Three Scenarios
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַבָּה בַּר רַב הוּנָא: וְכוּלָּן בִּכְרוּכִים אַחֲרֶיהָ.
->
-> **Translation:** GEMARA: **Rabba bar Rav Huna says: And all of** the statements that he is not required to bring proof with regard to the lineage of the children are said **in** a case where **they cling to her** and treat the woman like their mother.
+> **Hebrew/Aramaic:** ״אִשָּׁה נָשָׂאתִי בִּמְדִינַת הַיָּם – הֲרֵי הִיא זוֹ, וְאֵלּוּ בָּנֶיהָ״ – מֵבִיא רְאָיָה עַל הָאִשָּׁה וְאֵין צָרִיךְ לְהָבִיא רְאָיָה עַל הַבָּנִים. ״מֵתָה וְאֵלּוּ בָּנֶיהָ״ – צָרִיךְ לְהָבִיא רְאָיָה עַל הָאִשָּׁה וְעַל הַבָּנִים.
+> **Translation:** If he left when he was unmarried and said upon his return: **I married a woman overseas, and this is she, and these are her children,** he must **bring proof with regard to** the lineage of **the woman, but** he **is not required to bring proof with regard to** the lineage of **the children.** If he said: I married a woman overseas and **she died, and these are her children,** he is **required to bring proof with regard to** both the lineage of **the woman and the children.**
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״אִשָּׁה נָשָׂאתִי בִּמְדִינַת הַיָּם״ – מֵבִיא רְאָיָה עַל הָאִשָּׁה, וְאֵין צָרִיךְ לְהָבִיא רְאָיָה עַל הַבָּנִים. וּמֵבִיא רְאָיָה עַל הַגְּדוֹלִים, וְאֵין צָרִיךְ לְהָבִיא רְאָיָה עַל הַקְּטַנִּים. בַּמֶּה דְּבָרִים אֲמוּרִים: בְּאִשָּׁה אַחַת, אֲבָל בִּשְׁתֵּי נָשִׁים – מֵבִיא רְאָיָה עַל הָאִשָּׁה וְעַל הַבָּנִים, עַל הַגְּדוֹלִים וְעַל הַקְּטַנִּים.
->
-> **Translation:** **The Sages taught** that if a man says: **I married a woman overseas,** he must **bring proof with regard to** the lineage of **the woman, but** he **is not required to bring proof with regard to** the lineage of **the children. And he** must **bring proof with regard to** the lineage of **the adult** children, **but** he **is not required to bring proof with regard to** the lineage of **the minor** children. Since their attachment to their mother is apparent, it can be assumed they are her offspring. **In what** case **is this statement said?** It is **in** the case of one who said he married **one woman, but when** it is the case of one who said he married **two women** overseas, he must **bring proof with regard to** the lineage of both **the woman and the children, with regard to the adult** ones **and with regard to the minor** ones. Even if they cling to the woman whose lineage has been found to be unflawed, they might be the children of the other wife and are merely being raised by this one.
 
 The *mishna* then addresses a second scenario: *meisah* — suppose he says his wife died overseas. *Ve-elu baneha* — but these are the children she bore. In that case, *meivi rayah al ha-banim ve-eino meivi rayah al ha-ishah* — he must bring proof that these children are indeed his wife's children, though he need not bring proof about the wife's own *yichus*, since that was established before they departed. Once he proves these are her children, their *yichus* follows from hers.
 
@@ -36,13 +28,14 @@ The structure is thus consistent: the presence of the children together with the
 
 ### Kerucha Achareiha
 
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַבָּה בַּר רַב הוּנָא: וְכוּלָּן בִּכְרוּכִים אַחֲרֶיהָ.
+> **Translation:** GEMARA: **Rabba bar Rav Huna says: And all of** the statements that he is not required to bring proof with regard to the lineage of the children are said **in** a case where **they cling to her** and treat the woman like their mother.
+
+*Amar Rabah bar Rav Huna: ve-kulan d'kruchin achareha* — in all these cases where the children are presumed to be hers while she is present, the operative principle is that they are literally intertwined with her, wrapped around her, conducting themselves toward her as young children do toward a mother. This behavioral reality creates the presumption of maternity.
+
 One might ask whether the man's claim plays any role, or whether the behavior of *kruchin achareha* alone is sufficient even without his identification. This is genuinely uncertain. Perhaps his framing lowers the behavioral threshold required, or perhaps the observed behavior standing alone would suffice regardless of who makes the claim. And if the question is raised from the woman's side — if she were to claim these are her children while exhibiting the same mothering behavior — it is not immediately obvious why that should carry less weight, though the matter remains open.
 
 ### Small vs Adult
-
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ... וּמֵבִיא רְאָיָה עַל הַגְּדוֹלִים, וְאֵין צָרִיךְ לְהָבִיא רְאָיָה עַל הַקְּטַנִּים.
->
-> **Translation:** **The Sages taught** ... **And he** must **bring proof with regard to** the lineage of **the adult** children, **but** he **is not required to bring proof with regard to** the lineage of **the minor** children.
 
 The *baraita* refines the principle further: *meivi rayah al ha-gedolim ve-ein tzarich l'havi rayah al ha-ketanim* — even if he is present with children, if the children are adults, their attachment to this woman does not create the same clear presumption. With small children, the behavior is unmistakable — they are being nursed, held, clung to. With adults, the relationship is more ambiguous; one could be a stepmother, a guardian, or simply a long-term acquaintance who has taken over care. The *gemara* limits the presumption of maternity from *kerucha achareha* to small children, for whom the behavior is sufficiently distinctive.
 
@@ -50,7 +43,10 @@ Of course, with adults one might simply ask them directly — which raises the i
 
 ### Two Wives Rule
 
-The *mishna* then addresses a second scenario: *meisah* — suppose he says his wife died overseas. *Ve-elu baneha* — but these are the children she bore. In that case, *meivi rayah al ha-banim ve-eino meivi rayah al ha-ishah* — he must bring proof that these children are indeed his wife's children, though he need not bring proof about the wife's own *yichus*, since that was established before they departed. Once he proves these are her children, their *yichus* follows from hers.
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״אִשָּׁה נָשָׂאתִי בִּמְדִינַת הַיָּם״ – מֵבִיא רְאָיָה עַל הָאִשָּׁה, וְאֵין צָרִיךְ לְהָבִיא רְאָיָה עַל הַבָּנִים. וּמֵבִיא רְאָיָה עַל הַגְּדוֹלִים, וְאֵין צָרִיךְ לְהָבִיא רְאָיָה עַל הַקְּטַנִּים. בַּמֶּה דְּבָרִים אֲמוּרִים: בְּאִשָּׁה אַחַת, אֲבָל בִּשְׁתֵּי נָשִׁים – מֵבִיא רְאָיָה עַל הָאִשָּׁה וְעַל הַבָּנִים, עַל הַגְּדוֹלִים וְעַל הַקְּטַנִּים.
+> **Translation:** **The Sages taught** that if a man says: **I married a woman overseas,** he must **bring proof with regard to** the lineage of **the woman, but** he **is not required to bring proof with regard to** the lineage of **the children. And he** must **bring proof with regard to** the lineage of **the adult** children, **but** he **is not required to bring proof with regard to** the lineage of **the minor** children. Since their attachment to their mother is apparent, it can be assumed they are her offspring. **In what** case **is this statement said?** It is **in** the case of one who said he married **one woman, but when** it is the case of one who said he married **two women** overseas, he must **bring proof with regard to** the lineage of both **the woman and the children, with regard to the adult** ones **and with regard to the minor** ones. Even if they cling to the woman whose lineage has been found to be unflawed, they might be the children of the other wife and are merely being raised by this one.
+
+*Bameh devarim amurim — b'ishah achat* — this entire framework applies when the man makes a claim about one woman. *Aval bishtei nashim* — but if he claims he married two women overseas, or if he left with two women and returned with only one, then even the *kerucha achareha* of small children is not sufficient. *Meivi rayah al ha-ishah ve-al ha-banim, al ha-gedolim ve-al ha-ketanim* — he must prove the woman's identity and must prove the identity of both the adult and the small children.
 
 The reason is that once there are two wives in the picture, a woman mothering children who cling to her proves nothing definitive, since she might naturally have taken in her co-wife's children after that woman's death. The *kerucha achareha* presumption thus fails when there is an alternative plausible explanation for the observed behavior.
 
@@ -58,13 +54,11 @@ One might note the apparent issue of *hapeh she-asar* — the man could simply h
 
 ### RL vs RY Dispute
 
-> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ: לֹא שָׁנוּ אֶלָּא בְּקׇדְשֵׁי הַגְּבוּל, אֲבָל בְּיוּחֲסִין – לֹא. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ בְּיוּחֲסִין.
->
-> **Translation:** **Reish Lakish said: The Sages taught that the children's attachment to her proves that she is their mother only with regard to the consecrated** items of **the border,** i.e., *teruma*, meaning that if she is the wife of a priest, her children may partake of *teruma*. **But with regard to lineage,** this proof is **not** relied upon, and her daughters may not marry priests. **And Rabbi Yoḥanan says:** If the children cling to her they are considered hers in all regards, **even with regard to lineage.**
+> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ:
+> **Translation:** **Reish Lakish said:**
 
-> **Hebrew/Aramaic:** וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: מַלְקִין עַל הַחֲזָקוֹת, סוֹקְלִין וְשׂוֹרְפִין עַל הַחֲזָקוֹת, וְאֵין שׂוֹרְפִין תְּרוּמָה עַל הַחֲזָקוֹת.
->
-> **Translation:** The Gemara comments: **And Rabbi Yoḥanan follows his** standard line of **reasoning, as Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** The court **flogs** one about whom witnesses testify that he violated a prohibition **on the** basis of **presumptive status,** even if there is no testimony to definitively establish that the person violated a prohibition, as will be explained. Similarly, the court **stones or burns** one about whom witnesses testify that he violated a prohibition resulting in court-imposed capital punishment **on the** basis of **presumptive status. But one does not burn *teruma* on the** basis of **presumptive status** unless there is testimony that it became ritually impure.
+> **Hebrew/Aramaic:** לֹא שָׁנוּ אֶלָּא בְּקׇדְשֵׁי הַגְּבוּל, אֲבָל בְּיוּחֲסִין – לֹא. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ בְּיוּחֲסִין.
+> **Translation:** The Sages **taught** that the children’s attachment to her proves that she is their mother **only with regard to the consecrated** items of **the border,** i.e., *teruma*, meaning that if she is the wife of a priest, her children may partake of *teruma*. **But with regard to lineage,** this proof is **not** relied upon, and her daughters may not marry priests. **And Rabbi Yoḥanan says:** If the children cling to her they are considered hers in all regards, **even with regard to lineage.**
 
 The *gemara* now focuses on a fundamental question: what standard of proof does the *kerucha achareha* presumption actually achieve? *Amar Resh Lakish: lo shanu ela be-kodshei ha-gvul* — this applies only for matters of sanctified things outside the Temple precincts, meaning *terumah*. If the man is a *kohen*, the behavioral presumption is sufficient to establish that these are his children and his wife's children, permitting them to eat *terumah*. *Aval le-yuchasin lo* — but for *yuchasin* purposes — for example, marrying a daughter off to a *kohen* — the higher standard of investigation we have been discussing throughout the *perek* would still be required, and mere behavioral presumption would not suffice.
 
@@ -74,6 +68,8 @@ The *gemara* now focuses on a fundamental question: what standard of proof does 
 
 ## Chazaka as Evidence
 
+
+
 ### Chazaka Definition
 
 Before examining the specific dispute, it is worth pausing on the concept of *chazakah* itself, because the word is used in two quite different senses in rabbinic literature. One usage refers to *status quo* — the prior established state of an object or person that we presume to continue absent evidence of change. So, for instance, a *mikvah* that previously had a valid amount of water is presumed to retain that status, or a vessel that had been *tamei* retains the *chazakah* of *tumah*. A *na'arah* retains the *chazakah* of being a *na'arah* until there is evidence she has become a *bogeres*.
@@ -82,35 +78,28 @@ The second usage — and this is the *chazakah* at stake in the coming discussio
 
 ### Lashes & Death
 
-> **Hebrew/Aramaic:** מַלְקִין עַל הַחֲזָקוֹת, סוֹקְלִין וְשׂוֹרְפִין עַל הַחֲזָקוֹת, וְאֵין שׂוֹרְפִין תְּרוּמָה עַל הַחֲזָקוֹת.
->
-> **Translation:** **The court flogs one about whom witnesses testify that he violated a prohibition on the** basis of **presumptive status,** even if there is no testimony to definitively establish that the person violated a prohibition, as will be explained. Similarly, the court **stones or burns** one about whom witnesses testify that he violated a prohibition resulting in court-imposed capital punishment **on the** basis of **presumptive status. But one does not burn *teruma* on the** basis of **presumptive status** unless there is testimony that it became ritually impure.
+> **Hebrew/Aramaic:** וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: מַלְקִין עַל הַחֲזָקוֹת, סוֹקְלִין וְשׂוֹרְפִין עַל הַחֲזָקוֹת, וְאֵין שׂוֹרְפִין תְּרוּמָה עַל הַחֲזָקוֹת.
+> **Translation:** The Gemara comments: **And Rabbi Yoḥanan follows his** standard line of **reasoning, as Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** The court **flogs** one about whom witnesses testify that he violated a prohibition **on the** basis of **presumptive status,** even if there is no testimony to definitively establish that the person violated a prohibition, as will be explained. Similarly, the court **stones or burns** one about whom witnesses testify that he violated a prohibition resulting in court-imposed capital punishment **on the** basis of **presumptive status. But one does not burn *teruma* on the** basis of **presumptive status** unless there is testimony that it became ritually impure.
 
 What level of legal consequence can such a *chazakah* support? This is the stunning claim of Rabbi Yochanan: *de-amar Rabbi Chiyya bar Abba amar Rabbi Yochanan — malkin al ha-chazakos, ve-soklin ve-sorfin al ha-chazakos, ve-ein sorfin terumah al ha-chazakah*. You give *malkus* — lashes — based on a *chazakah*. You would even stone or burn someone — administer capital punishment — based on a *chazakah*. Yet you would not burn *terumah* that is presumed *tamei* on the basis of a *chazakah*. This is immediately striking, if not outright baffling: the evidentiary standard appears higher for burning grain than for executing a human being.
 
 ### Niddah Status
 
-> **Hebrew/Aramaic:** מַלְקִין עַל הַחֲזָקוֹת – כְּרַב יְהוּדָה. דְּאָמַר רַב יְהוּדָה: הוּחְזְקָה נִדָּה בִּשְׁכֵינוֹתֶיהָ, בַּעְלָהּ – לוֹקֶה עָלֶיהָ מִשּׁוּם נִדָּה.
->
+> **Hebrew/Aramaic:** מַלְקִין עַל הַחֲזָקוֹת – כְּרַב יְהוּדָה. דְּאָמַר רַב יְהוּדָה: הוּחְזְקָה נִדָּה בִּשְׁכֵינוֹתֶיהָ, בַּעְלָהּ – לוֹקֶה עָלֶיהָ מִשּׁוּם נִדָּה.
 > **Translation:** How so? The court **flogs** one about whom witnesses testify that he violated a prohibition **on the** basis of **presumptive status, in accordance with** the opinion of **Rav Yehuda. As Rav Yehuda says:** If a woman **had** among **her neighbors the presumptive status of a menstruating woman,** and witnesses testified that **her husband** engaged in sexual intercourse with her, he **is flogged due to** her status as **a menstruating woman,** and there is no need for testimony that she was a menstruating woman.
 
 The *gemara* illustrates the principle of *malkin al ha-chazakos* with an example from Rav Yehuda: *huchzekah niddah bi-shchenoteiha* — if a woman has been established among her neighbors as being a *niddah*, through her conduct, what she has said to friends, perhaps the garments she wears, and there now exists a presumption in her social circle that she is in a state of *niddah* and will be going to the *mikvah* in a few days — then *ba'alah lokeh aleiha mishum niddah* — if her husband is witnessed having relations with her during this period, he receives lashes on account of transgressing the prohibition of relations with a *niddah*. No one has physically examined her garments or conducted a *bedikah*. The presumption that arose from her observed behavior is treated as establishing the underlying fact.
 
 ### Incest Case
 
-> **Hebrew/Aramaic:** סוֹקְלִין וְשׂוֹרְפִין עַל הַחֲזָקוֹת – כִּדְרַבָּה בַּר רַב הוּנָא. דְּאָמַר רַבָּה בַּר רַב הוּנָא: אִישׁ וְאִשָּׁה תִּינוֹק וְתִינוֹקֶת שֶׁהִגְדִּילוּ בְּתוֹךְ הַבַּיִת – נִסְקָלִין זֶה עַל זֶה, וְנִשְׂרָפִין זֶה עַל זֶה.
->
-> **Translation:** The court **stones or burns** one about whom witnesses testify that he violated a prohibition resulting in court-imposed capital punishment **on the** basis of **presumptive status, in accordance with** the opinion **of Rabba bar Rav Huna. As Rabba bar Rav Huna says:** With regard to **a man and a woman** and **a boy and a girl who grew up** together **in** one **home** as a single family, the presumption is that they are related, even absent witness testimony to that effect. Therefore, **they are stoned due to** engaging in intercourse with **each other** if the male child, now an adult, engages in intercourse with the woman, as it is considered incestuous sexual intercourse. **And they are burned due to** engaging in intercourse with **each other** if the man engages in intercourse with the female child, now an adult, since she is considered his wife's daughter.
-
 The capital punishment application is illustrated by a teaching of Rabbah bar Avuna: *ish ve-ishah tinok ve-tinoket she-gidelu be-toch ha-bayit* — a man, a woman, a young boy, and a young girl who all grow up together in one household. No one witnessed a marriage ceremony, no one was present at the births, no documentation exists. But *niskaalin zeh al zeh ve-nisrafin zeh al zeh* — if the presumed father were to have relations with the presumed daughter, or the presumed son with the presumed mother, these would be prosecuted as incest with the applicable capital penalties, even though the family relationships rest entirely on presumption developed through communal perception.
 
 This is a significant legal claim. The community perceives them as a family; that perception, established over time and through consistent behavior, is treated as constituting legal fact for all *halachic* purposes — including the most severe ones.
 
-### Facts vs Acts
+> **Hebrew/Aramaic:** סוֹקְלִין וְשׂוֹרְפִין עַל הַחֲזָקוֹת – כִּדְרַבָּה בַּר רַב הוּנָא. דְּאָמַר רַבָּה בַּר רַב הוּנָא: אִישׁ וְאִשָּׁה תִּינוֹק וְתִינוֹקֶת שֶׁהִגְדִּילוּ בְּתוֹךְ הַבַּיִת – נִסְקָלִין זֶה עַל זֶה, וְנִשְׂרָפִין זֶה עַל זֶה.
+> **Translation:** The court **stones or burns** one about whom witnesses testify that he violated a prohibition resulting in court-imposed capital punishment **on the** basis of **presumptive status, in accordance with** the opinion **of Rabba bar Rav Huna. As Rabba bar Rav Huna says:** With regard to **a man and a woman** and **a boy and a girl who grew up** together **in** one **home** as a single family, the presumption is that they are related, even absent witness testimony to that effect. Therefore, **they are stoned due to** engaging in intercourse with **each other** if the male child, now an adult, engages in intercourse with the woman, as it is considered incestuous sexual intercourse. **And they are burned due to** engaging in intercourse with **each other** if the man engages in intercourse with the female child, now an adult, since she is considered his wife’s daughter.
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי, אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִשּׁוּם בַּר קַפָּרָא: מַעֲשֶׂה בְּאִשָּׁה שֶׁבָּאת לִירוּשָׁלַיִם וְתִינוֹק מוּרְכָּב לָהּ עַל כְּתֵיפָהּ, וְהִגְדִּילַתּוּ, וּבָא עָלֶיהָ, וֶהֱבִיאוּם לְבֵית דִּין וּסְקָלוּם. לֹא מִפְּנֵי שֶׁבְּנָהּ וַדַּאי, אֶלָּא מִפְּנֵי שֶׁכָּרוּךְ אַחֲרֶיהָ.
->
-> **Translation:** The Gemara cites a related incident: **Rabbi Shimon ben Pazi says** that **Rabbi Yehoshua ben Levi says in the name of bar Kappara: An incident** occurred **involving a woman who came to Jerusalem with a child riding on her shoulders,** in the manner of a mother and a son, **and she raised him, and he** eventually **engaged in intercourse with her. And they brought them to court and stoned them** for violating the prohibition against a mother and son engaging in intercourse. This was **not because he** was **definitely her son,** as they had no testimony to that effect, **but because he clung to her,** and he therefore had the presumptive status of being her son.
+### Facts vs Acts
 
 A critical clarification, however: the *chazakah* establishes presumed *facts*, not presumed *acts*. The standard of proof required to establish that a transgression was actually committed remains unchanged — it always requires two witnesses to the act itself. The *gemara* famously discusses the case of a man running after another with a knife, who then enters a barn; witnesses arrive moments later to find the victim mortally wounded, the pursuer standing over him with a blood-dripping knife. This is not sufficient for conviction, because no one directly witnessed the act of murder. The evidentiary requirement for the commission of a sin is direct witness testimony; it cannot be replaced by inference, however compelling.
 
@@ -122,47 +111,57 @@ A parallel principle: *ed echad ne'eman be-issurin*. The Rambam rules that if on
 
 ## Doubt Concepts
 
+
+
 ### Practical Reality
 
 Underlying all of this is a practical reality that the *halacha* must confront: society cannot require proof of every foundational fact. Who is one's father, what is one's status, what is the nature of an ongoing social relationship — these are things known through communal perception and behavioral evidence. If halachic decision-making required documentary or testimonial proof for every such fact, normal life would become impossible. The framework of *chazakah*, *rov*, *safek*, and related concepts exists precisely to navigate this reality — to allow decisions to be made with appropriate confidence even in the absence of certainty.
 
 ### One Witness
 
+
 The Rambam's ruling on *ed echad ne'eman be-issurin* illustrates this further. A single witness establishes the status of an object or a situation, and once that status is established, subsequent transgressions committed in the face of that established status are prosecutable. The distinction, as already noted, is between establishing the *status* — where one witness or even communal presumption can suffice — and proving the *act*, which always requires the full standard of direct two-witness testimony.
+
+The Rambam does, however, draw an important internal limit here: he rules that *ed echad ne'eman be-issurin* — a single witness is believed regarding prohibitions — applies to establish status sufficient to impose *malkut*, lashes, but not *mitah*, the death penalty. If a single witness declares a piece of meat to be *chelev*, forbidden fat, and someone then eats it in defiance of that declaration, the eater can be lashed on the basis of the status established by that one witness. But the Rambam would not extend this to capital cases. What the mother-son narrative therefore demonstrates is something that goes beyond what a lone witness can accomplish: we are not speaking of one person's testimony that the court chooses to credit, but rather of a presumption so deeply embedded in the communal understanding of a social reality — how a woman raises a child clinging to her, how that relationship is perceived and known by all who observe it — that it constitutes established fact for *all* halachic purposes, including those that carry the death penalty. This is why the principle can operate even in a capital case without running afoul of the Rambam's limitation: the evidentiary foundation is not a single witness but a societal *chazakah* of the highest order.
 
 ---
 
 ## Chazaka as Evidence (II)
 
+
+
 ### Mother-Son Case
 
-This brings the *gemara* back to the anomaly that was flagged at the outset: *ve-ein sorfin terumah al ha-chazakos*. If a *chazakah* is robust enough to execute human beings, why is it not sufficient to burn *terumah* that is presumed *tamei*? The *gemara* attributes conflicting positions to Resh Lakish and Rabbi Yochanan: *d'amar Reish Lakish sorfin al ha-chazakot* — Resh Lakish says you would burn *terumah* on a *chazakah* — *Rabbi Yochanan amar ein sorfin* — Rabbi Yochanan says you would not. *Ve-azdu le-ta'amayhu* — they follow their respective reasonings, as we shall see.
+> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי, אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִשּׁוּם בַּר קַפָּרָא: מַעֲשֶׂה בְּאִשָּׁה שֶׁבָּאת לִירוּשָׁלַיִם וְתִינוֹק מוּרְכָּב לָהּ עַל כְּתֵיפָהּ, וְהִגְדִּילַתּוּ, וּבָא עָלֶיהָ, וֶהֱבִיאוּם לְבֵית דִּין וּסְקָלוּם. לֹא מִפְּנֵי שֶׁבְּנָהּ וַדַּאי, אֶלָּא מִפְּנֵי שֶׁכָּרוּךְ אַחֲרֶיהָ.
+> **Translation:** The Gemara cites a related incident: **Rabbi Shimon ben Pazi says** that **Rabbi Yehoshua ben Levi says in the name of bar Kappara: An incident** occurred **involving a woman who came to Jerusalem with a child riding on her shoulders,** in the manner of a mother and a son, **and she raised him, and he** eventually **engaged in intercourse with her. And they brought them to court and stoned them** for violating the prohibition against a mother and son engaging in intercourse. This was **not because he** was **definitely her son,** as they had no testimony to that effect, **but because he clung to her,** and he therefore had the presumptive status of being her son.
+
+The *gemara* brings a remarkable narrative to illustrate these principles: *amar Rabbi Shimon ben Pazi amar Rabbi Yehoshua ben Levi mishum Bar Kappara — maaseh be-ishah she-ba'ah li-Yerushalayim, ve-tinok murkav lah al ktefeiha* — a woman came to Jerusalem with an infant on her shoulders. *Ve-higdelto* — she raised him. After he grew up, *u-va aleha* — they had sexual relations. *Ve-hevi'um le-beit din ve-saklum* — they were brought to court and executed. And the basis for the execution was *lo mipnei she-binah vadai* — not because anyone had proof that this was her son — *ela mipnei she-korekh achareha* — but because of the principle of *korekh achareha*. The way he had been raised clinging to her, the way she had mothered him from infancy, created the presumption that she was his mother.
 
 Notably, in this case neither the man nor the woman was making any claim. The husband was not testifying. The presumption arose entirely from observed behavior, and it was sufficient to support a capital conviction. This answers directly the earlier question of whether *kerucha achareha* requires the man's framing claim or whether the behavior alone suffices. Here, the behavior alone was the basis for the legal determination.
 
 ### Terumah Anomaly
 
-> **Hebrew/Aramaic:** וְאֵין שׂוֹרְפִין תְּרוּמָה עַל הַחֲזָקוֹת – דְּאָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: שׂוֹרְפִין עַל הַחֲזָקוֹת, וְרַבִּי יוֹחָנָן אוֹמֵר: אֵין שׂוֹרְפִין. וְאָזְדוּ לְטַעְמַיְיהוּ, דִּתְנַן: תִּינוֹק שֶׁנִּמְצָא בְּצַד הָעִיסָּה וּבָצֵק בְּיָדוֹ – רַבִּי מֵאִיר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין, מִפְּנֵי שֶׁדַּרְכּוֹ שֶׁל תִּינוֹק לְטַפֵּחַ.
->
-> **Translation:** Rabbi Yoḥanan stated: **But one does not burn *teruma* on the** basis of **presumptive status. As Rabbi Shimon ben Lakish says: One burns** *teruma* **on the** basis of **presumptive status, and Rabbi Yoḥanan says: One does not burn** *teruma* in this case. The Gemara comments: **And they follow their** standard lines of **reasoning** in this matter, **as we learned** in a mishna (*Teharot* 3:8): If a ritually impure **child is found alongside** ritually pure **started dough, and** he has **risen dough in his hand** that may have been removed from the larger portion of started dough, **Rabbi Meir deems** the started dough **pure,** since there is no proof the child touched it, as he might have been given the piece by someone else. **And the Rabbis deem it impure,** as they assume that he touched the started dough. The child is presumed to be impure **because it is the manner of a child to handle [*letappe'aḥ*]** items.
+This brings the *gemara* back to the anomaly that was flagged at the outset: *ve-ein sorfin terumah al ha-chazakot*. If a *chazakah* is robust enough to execute human beings, why is it not sufficient to burn *terumah* that is presumed *tamei*? The *gemara* attributes conflicting positions to Resh Lakish and Rabbi Yochanan: *d'amar Reish Lakish sorfin al ha-chazakot* — Resh Lakish says you would burn *terumah* on a *chazakah* — *Rabbi Yochanan amar ein sorfin* — Rabbi Yochanan says you would not. *Ve-azdu le-ta'amayhu* — they follow their respective reasonings, as we shall see.
+
+> **Hebrew/Aramaic:** וְאֵין שׂוֹרְפִין תְּרוּמָה עַל הַחֲזָקוֹת – דְּאָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: שׂוֹרְפִין עַל הַחֲזָקוֹת, וְרַבִּי יוֹחָנָן אוֹמֵר: אֵין שׂוֹרְפִין. וְאָזְדוּ לְטַעְמַיְיהוּ, דִּתְנַן: תִּינוֹק שֶׁנִּמְצָא בְּצַד הָעִיסָּה וּבָצֵק בְּיָדוֹ – רַבִּי מֵאִיר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין, מִפְּנֵי שֶׁדַּרְכּוֹ שֶׁל תִּינוֹק לְטַפֵּחַ.
+> **Translation:** Rabbi Yoḥanan stated: **But one does not burn *teruma* on the** basis of **presumptive status. As Rabbi Shimon ben Lakish says: One burns** *teruma* **on the** basis of **presumptive status, and Rabbi Yoḥanan says: One does not burn** *teruma* in this case. The Gemara comments: **And they follow their** standard lines of **reasoning** in this matter, **as we learned** in a mishna (*Teharot* 3:8): If a ritually impure **child is found alongside** ritually pure **started dough, and** he has **risen dough in his hand** that may have been removed from the larger portion of started dough, **Rabbi Meir deems** the started dough **pure,** since there is no proof the child touched it, as he might have been given the piece by someone else. **And the Rabbis deem it impure,** as they assume that he touched the started dough. The child is presumed to be impure **because it is the manner of a child to handle [*letappe’aḥ*]** items.
 
 ---
 
-## Infant & Dough (III)
+## Infant & Dough
+
+
 
 ### Setup
 
-> **Hebrew/Aramaic:** וְהָוֵינַן בַּהּ: מַאי טַעְמֵיהּ דְּרַבִּי מֵאִיר? קָסָבַר: רוֹב תִּינוֹקוֹת מְטַפְּחִין, וּמִיעוּט אֵין מְטַפְּחִין, וְעִיסָּה בְּחֶזְקַת טׇהֳרָה עוֹמֶדֶת, וּסְמוֹךְ מִיעוּטָא לַחֲזָקָה אִיתְּרַע לֵיהּ רוּבָּא. וְרַבָּנַן: מִיעוּטָא כְּמַאן דְּלֵיתֵיהּ דָּמֵי, רוּבָּא וַחֲזָקָה – רוּבָּא עֲדִיף.
->
-> **Translation:** **And we discussed** that case: **What is the reasoning of Rabbi Meir? He holds** that **a majority of children handle** items, in this case the dough, that are within reach, **and a minority do not handle** items within reach, **and** the **dough** itself **retains a presumptive status of purity,** since its impurity has not been definitively determined. **And** if one **appends** the **minority** of children who do not handle items within reach **to the presumptive status** of purity of the dough, the force of the **majority** of children who handle items within reach **is weakened.** Therefore, the dough is considered pure. **And the Rabbis** contend that in a case where the majority is followed, **the minority is considered like it does not exist.** Consequently, there is a conflict between the determining factors of **the majority** of impure children who handle items within reach **and the presumptive status of purity** of the dough. In that case, **the majority takes precedence.**
 
-Following Tosafot's reading: what we do not know for certain is whether the infant reached into the larger dough mass himself and took the piece, or whether some adult gave him a piece. The *tinok* himself is *tamei* — according to Tosafot, because he has been held and nursed by his mother who is *tamei* as a *niddah* or after childbirth. The question is whether the larger dough mass has become *tamei* as a result of the infant's touch.
+The operative case is *tinok she-nimtza be-tzad ha-issah u-batzek be-yado* — an infant found beside a dough mass with a piece of dough in his hand. Following Tosafot's reading: what we do not know for certain is whether the infant reached into the larger dough mass himself and took the piece, or whether some adult gave him a piece. The *tinok* himself is *tamei* — according to Tosafot, because he has been held and nursed by his mother who is *tamei* as a *niddah* or after childbirth. The question is whether the larger dough mass has become *tamei* as a result of the infant's touch.
 
 Rashi reads the scenario slightly differently: we know the infant touched the dough, but we do not know whether the infant himself is *tamei*, which is presumed on the basis of his contact with his *tamei* mother. Either way, one element of the situation is known and one is presumed. And the question being posed is: may the larger dough mass be presumed *tamei*?
 
 ### RM vs Chachamim
 
-The *mishna* itself states: *Rabbi Meir metaher* — Rabbi Meir rules the dough is *tahor*. *Ve-Chachamim metamin* — and the *Chachamim* rule it is *tamei*. The *Chachamim*'s reasoning is stated in the *mishna* itself: *mipnei she-darko shel tinok le-tape'ach* — because it is the nature of an infant to pat and touch things. An infant will reach out and touch whatever is within reach; if he has a piece of dough in his hand, the presumption is that he took it by touching the larger mass.
+*Rabbi Meir metaher* — Rabbi Meir rules the dough is *tahor*. *Ve-Chachamim metamin* — and the *Chachamim* rule it is *tamei*. The *Chachamim*'s reasoning is stated in the *mishna* itself: *mipnei she-darko shel tinok le-tape'ach* — because it is the nature of an infant to pat and touch things. An infant will reach out and touch whatever is within reach; if he has a piece of dough in his hand, the presumption is that he took it by touching the larger mass.
 
 ### Infant Nature
 
@@ -178,17 +177,24 @@ This is Rabbi Meir's characteristic position that *chaishishan le-miuta* — we 
 
 The *Chachamim* take a different view: *miuta ke-man de-leita dami* — the minority possibility is treated as nonexistent. Therefore we have *rov* — the majority of infants touch — against *chazakah* — the prior status of the dough — and *rova adif* — *rov* trumps *chazakah*. The result is that the dough is presumed *tamei*.
 
-### RL Burning
+> **Hebrew/Aramaic:** וְהָוֵינַן בַּהּ: מַאי טַעְמֵיהּ דְּרַבִּי מֵאִיר? קָסָבַר: רוֹב תִּינוֹקוֹת מְטַפְּחִין, וּמִיעוּט אֵין מְטַפְּחִין, וְעִיסָּה בְּחֶזְקַת טׇהֳרָה עוֹמֶדֶת, וּסְמוֹךְ מִיעוּטָא לַחֲזָקָה אִיתְּרַע לֵיהּ רוּבָּא. וְרַבָּנַן: מִיעוּטָא כְּמַאן דְּלֵיתֵיהּ דָּמֵי, רוּבָּא וַחֲזָקָה – רוּבָּא עֲדִיף.
+> **Translation:** **And we discussed** that case: **What is the reasoning of Rabbi Meir? He holds** that **a majority of children handle** items, in this case the dough, that are within reach, **and a minority do not handle** items within reach, **and** the **dough** itself **retains a presumptive status of purity,** since its impurity has not been definitively determined. **And** if one **appends** the **minority** of children who do not handle items within reach **to the presumptive status** of purity of the dough, the force of the **majority** of children who handle items within reach **is weakened.** Therefore, the dough is considered pure. **And the Rabbis** contend that in a case where the majority is followed, **the minority is considered like it does not exist.** Consequently, there is a conflict between the determining factors of **the majority** of impure children who handle items within reach **and the presumptive status of purity** of the dough. In that case, **the majority takes precedence.**
 
-> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ מִשּׁוּם רַבִּי אוֹשַׁעְיָא: זוֹ הִיא שֶׁשּׂוֹרְפִין עָלֶיהָ אֶת הַתְּרוּמָה. רַבִּי יוֹחָנָן אָמַר: אֵין זוֹ חֲזָקָה שֶׁשּׂוֹרְפִין עָלֶיהָ תְּרוּמָה.
->
+> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ מִשּׁוּם רַבִּי אוֹשַׁעְיָא: זוֹ הִיא שֶׁשּׂוֹרְפִין עָלֶיהָ אֶת הַתְּרוּמָה. רַבִּי יוֹחָנָן אָמַר: אֵין זוֹ חֲזָקָה שֶׁשּׂוֹרְפִין עָלֶיהָ תְּרוּמָה.
 > **Translation:** **Reish Lakish says in the name of Rabbi Oshaya: This** *halakha* of a child **is** an example of a presumption, i.e., that children handle items within reach, **that one burns *teruma* based on it,** since the Rabbis hold that it is sufficiently established that the dough has become impure to allow it to be burned. **Rabbi Yoḥanan says: This is not the presumption that one burns *teruma* based on it.** Rather, the dough is set aside and may be neither eaten nor burned.
 
+### RL Burning
+
+
 *Amar Reish Lakish mishum Rabbi Oshaya: zo hi she-sorfin aleha et ha-terumah* — this is the scenario in which you would burn the *terumah*. And here the reversal becomes apparent: this is the same Resh Lakish who, in the earlier discussion about *kerucha achareha*, held that behavioral *chazakah* is insufficient for *yuchasin* — meaning he sets a higher evidentiary bar in that context. Yet here he says that in this *tinok* case you would burn *terumah*. And Rabbi Yochanan — who holds *chazakah* is good enough even for *yuchasin* and for capital punishment — would *not* burn *terumah* in this case.
+
+Before turning to that reversal directly, it is worth noting that Rashi already connects Rabbi Meir's position here to his general principle of *chashinan le-miuta* — we are concerned for the minority possibility. Rabbi Meir's broader view is that a minority possibility cannot simply be set aside; even if the majority of cases go one way, the real minority possibility demands our attention. This is precisely why he gives weight to the *miut* here — the minority of infants who do not touch — and combines it with the *chazakah*, the status quo of the dough's *tahara*. The result is at minimum a *safek*, and since this is *safek bi-reshus ha-rabim tahor*, the dough is presumed *tahor*. The *Chachamim*, by contrast, apply *miuta ke-man de-leita dami* and discard that minority possibility entirely, leaving *rov* to operate unopposed — a question of which presumption takes precedence that the first *perek* of Chullin addresses systematically.
 
 ---
 
 ## Doubt Concepts (II)
+
+
 
 ### Chullin Framework
 
@@ -198,11 +204,9 @@ The systematic treatment of all these categories — *rov*, *chazakah*, *safek*,
 
 ## Reconciliation
 
-### Inversion
 
-> **Hebrew/Aramaic:** אֶלָּא אֵיזוֹ חֲזָקָה לְרַבִּי יוֹחָנָן שֶׁשּׂוֹרְפִין עָלֶיהָ אֶת הַתְּרוּמָה? כְּדִתְנַן: עִיסָּה בְּתוֹךְ הַבַּיִת, וּשְׁרָצִים וּצְפַרְדְּעִים מִטַּפְּלִין שָׁם, וְנִמְצְאוּ חֲתִיכוֹת בָּעִיסָּה. אִם רוֹב שְׁרָצִים – טְמֵאָה. אִם רוֹב צְפַרְדְּעִים – טְהוֹרָה.
->
-> **Translation:** The Gemara asks: **But** if so, **according to Rabbi Yoḥanan, what is the presumption that one burns *teruma* based on it?** The Gemara answers: **As we learned** in a *baraita*: In a case where **started dough is in the house, and creeping animals,** which impart impurity when dead, **and frogs,** which do not impart impurity, **are** also **present there, and pieces** of an unidentified creature **were found in the started dough, if the majority** of creatures in the house **are creeping animals,** the dough **is impure,** since the presumption is that the pieces are from a creeping animal. **If the majority are frogs, it is pure.**
+
+### Inversion
 
 The inversion of positions between Resh Lakish and Rabbi Yochanan is initially puzzling. Rabbi Yochanan, who holds that *chazakah* supports capital punishment and *yuchasin*, says we do *not* burn *terumah* in the *tinok* case. Resh Lakish, who holds that *chazakah* does *not* suffice for *yuchasin*, says we *would* burn *terumah* in the *tinok* case. The positions appear to cross, but the resolution clarifies something fundamental about what kind of *chazakah* is actually being discussed in each case.
 
@@ -212,25 +216,18 @@ The resolution is that this is not a question of higher versus lower evidentiary
 
 ### Perception Type
 
-> **Hebrew/Aramaic:** תַּנְיָא כְּוָתֵיהּ דְּרַבִּי יוֹחָנָן: שְׁנֵי דְּבָרִים אֵין בָּהֶם דַּעַת לִישָּׁאֵל, וַעֲשָׂאוּם חֲכָמִים כְּמָה שֶׁיֵּשׁ בָּהֶם דַּעַת לִישָּׁאֵל: תִּינוֹק, וְעוֹד אַחֶרֶת.
->
-> **Translation:** The Gemara comments: It **is taught** in a *baraita* **in accordance with** the opinion of **Rabbi Yoḥanan:** There is a principle that when a possible case of impurity cannot be verified, even if it occurred in a private domain, where generally cases of uncertain impurity are deemed impure, it is deemed pure. **Two things do not have the capacity to be questioned,** i.e., one cannot verify what happened through investigation. Yet in these two cases, **the Sages deemed them as things that have the capacity to be questioned** and rendered them impure in cases of uncertainty in a private domain. The two cases are that of **a child and an additional** *halakha*.
-
-> **Hebrew/Aramaic:** תִּינוֹק – הָא דַּאֲמַרַן. וְעוֹד אַחֶרֶת מַאי הִיא? עִיסָּה בְּתוֹךְ הַבַּיִת, וְתַרְנְגוֹלִים וּמַשְׁקִים טְמֵאִים שָׁם, וְנִמְצְאוּ נִקּוּרִים בָּעִיסָּה – תּוֹלִין, לֹא אוֹכְלִין וְלֹא שׂוֹרְפִין.
->
-> **Translation:** The case of **a child** is **that which we said** concerning a child holding some dough discovered alongside a larger piece of dough. All of the dough is deemed impure, since the child cannot be asked whether or not he rendered the dough impure. **And what is the additional** one? If pure, **started dough** was located **inside the house, and chickens and impure liquids** were present **there, and there were found** to be **small holes in the dough** where the chickens had pecked it, in that case the dough is **held in suspension; it is neither eaten nor burned,** since the chickens may have drunk from the impure liquids before they pecked at the dough but there is no proof of this. Despite this being a case where they cannot be asked, which generally would result in the dough being deemed pure, here it is deemed impure due to the uncertainty. The fact that in the second case of the *baraita* it is not deemed to be definitely impure supports the opinion of Rabbi Yoḥanan, who holds that in the case of the child the status of the dough also remains a matter of uncertainty.
-
 The *chazakah* involved in capital cases — a family presumed to be a family over years of communal life, a woman presumed to be a *niddah* based on things she has said and done before her neighbors — is a *chazakah* of established communal perception. A status has been created, perceived, and maintained in public awareness. The *tinok* case is categorically different: there is no established perception, no status that has crystallized in communal consciousness. There is simply a question mark over a specific act — did the child touch the dough? This is closer in nature to asking whether a transgression occurred, which is the domain of direct testimony, not of *chazakah*. Applying the label *chazakah* to both obscures this qualitative distinction. The *chazakah* of *niddah* status among neighbors and the *chazakah* of a family's relationships are genuinely established presumptions of fact. The question of whether this specific child touched this specific dough on this specific occasion is not that kind of *chazakah*.
 
 ---
 
-## Infant & Dough (III)
+## Infant & Dough (II)
+
+
 
 ### Rodents & Frogs
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: לֹא שָׁנוּ אֶלָּא בְּמַשְׁקִים לְבָנִים, אֲבָל בְּמַשְׁקִים אֲדוּמִּים – אִם אִיתָא דִּנְקִיר מִידָּע יְדִיעַ. וְדִילְמָא בְּלַעְתִּינְהוּ עִיסָּה?
->
-> **Translation:** **Rabbi Yehoshua ben Levi says: They taught** this *halakha* **only in** a case of **white liquid,** when the appearance of the peck marks provides no proof of whether the chickens had previously drunk from the liquid, **but in** a case of **red,** impure **liquid, if it is so that they had pecked, it would be known** that they had drunk from the liquid, since the peck marks would be colored red. The Gemara asks: Even if the liquid were red and there were no red marks on the dough, how can one say definitively that they did not peck? **Perhaps** the **dough absorbed** the liquid, leaving no identifiable mark?
+> **Hebrew/Aramaic:** אֶלָּא אֵיזוֹ חֲזָקָה לְרַבִּי יוֹחָנָן שֶׁשּׂוֹרְפִין עָלֶיהָ אֶת הַתְּרוּמָה? כְּדִתְנַן: עִיסָּה בְּתוֹךְ הַבַּיִת, וּשְׁרָצִים וּצְפַרְדְּעִים מִטַּפְּלִין שָׁם, וְנִמְצְאוּ חֲתִיכוֹת בָּעִיסָּה. אִם רוֹב שְׁרָצִים – טְמֵאָה. אִם רוֹב צְפַרְדְּעִים – טְהוֹרָה.
+> **Translation:** The Gemara asks: **But** if so, **according to Rabbi Yoḥanan, what is the presumption that one burns *teruma* based on it?** The Gemara answers: **As we learned** in a *baraita*: In a case where **started dough is in the house, and creeping animals,** which impart impurity when dead, **and frogs,** which do not impart impurity, **are** also **present there, and pieces** of an unidentified creature **were found in the started dough, if the majority** of creatures in the house **are creeping animals,** the dough **is impure,** since the presumption is that the pieces are from a creeping animal. **If the majority are frogs, it is pure.**
 
 The *gemara* then asks: what would be a *chazakah* sufficient for Rabbi Yochanan to burn *terumah*? *Ke-de-tanya: issah be-toch ha-bayit, u-shratzim ve-tzfardaim mitaplim sham* — you have dough in a house where *shratzim* — impure rodents — and frogs are hopping about. The *shratzim* would render the dough *tamei* if they touched it; the frogs would not. *Ve-nimtzu chatichot be-issah* — and you find pieces — a little leg, for instance — in the dough. The question is whether the piece came from a *shratz* or a frog. *Im rov shratzim tamei; im rov tzfardaim tehorah* — if the majority of the creatures present are *shratzim*, the dough is *tamei*; if the majority are frogs, the dough is *tahor*.
 
@@ -240,11 +237,20 @@ Here the decision is made by *rov*, and something has definitely touched the dou
 
 ## Reconciliation (II)
 
+
+
+[DAF:80b]
 ### No Questions
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: דָּבָר זֶה שָׁמַע בְּרִיבִּי, וּפֵירוּשׁוֹ לֹא שָׁמַע: לֹא שָׁנוּ אֶלָּא בְּמַשְׁקִים צְלוּלִים, שֶׁבָּבוּאָה שֶׁל תִּינוֹק נִיכָּר בָּהֶ[ן], אֲבָל מַשְׁקִים עֲכוּרִים – לֹא.
->
-> **Translation:** **Rabbi Yoḥanan says: The Distinguished,** i.e., Rabbi Yehoshua ben Levi, **heard this matter, but he did not hear its interpretation,** and he should have supplied an additional detail: **They taught** this *halakha* **only in** a case **of clear liquid,** which can be absorbed in the dough without leaving a stain. What is meant by clear? It means **that in which the reflection [*bavua*] of a child is recognizable** when he peers into it. **But** in a case of **murky liquid,** this *halakha* was **not** stated, since the liquid would have left a mark.
+> **Hebrew/Aramaic:** תַּנְיָא כְּוָתֵיהּ דְּרַבִּי יוֹחָנָן: שְׁנֵי דְּבָרִים אֵין בָּהֶם דַּעַת לִישָּׁאֵל, וַעֲשָׂאוּם חֲכָמִים כְּמָה שֶׁיֵּשׁ בָּהֶם דַּעַת לִישָּׁאֵל: תִּינוֹק, וְעוֹד אַחֶרֶת.
+> **Translation:** The Gemara comments: It **is taught** in a *baraita* **in accordance with** the opinion of **Rabbi Yoḥanan:** There is a principle that when a possible case of impurity cannot be verified, even if it occurred in a private domain, where generally cases of uncertain impurity are deemed impure, it is deemed pure. **Two things do not have the capacity to be questioned,** i.e., one cannot verify what happened through investigation. Yet in these two cases, **the Sages deemed them as things that have the capacity to be questioned** and rendered them impure in cases of uncertainty in a private domain. The two cases are that of **a child and an additional** *halakha*.
+
+> **Hebrew/Aramaic:** תִּינוֹק – הָא דַּאֲמַרַן. וְעוֹד אַחֶרֶת מַאי הִיא? עִיסָּה בְּתוֹךְ הַבַּיִת, וְתַרְנְגוֹלִים וּמַשְׁקִים טְמֵאִים שָׁם, וְנִמְצְאוּ
+> **Translation:** The case of **a child** is **that which we said** concerning a child holding some dough discovered alongside a larger piece of dough. All of the dough is deemed impure, since the child cannot be asked whether or not he rendered the dough impure. **And what is the additional** one? If pure, **started dough** was located **inside the house, and chickens and impure liquids** were present **there, and there were found** to be
+
+> **Hebrew/Aramaic:** נִקּוּרִים נִקּוּרִים בָּעִיסָּה – תּוֹלִין, לֹא אוֹכְלִין וְלֹא שׂוֹרְפִין.
+> **Translation:** **small holes in the dough** where the chickens had pecked it, in that case the dough is **held in suspension; it is neither eaten nor burned,** since the chickens may have drunk from the impure liquids before they pecked at the dough but there is no proof of this. Despite this being a case where they cannot be asked, which generally would result in the dough being deemed pure, here it is deemed impure due to the uncertainty. The fact that in the second case of the *baraita* it is not deemed to be definitely impure supports the opinion of Rabbi Yoḥanan, who holds that in the case of the child the status of the dough also remains a matter of uncertainty.
+
 
 *Tanya ke-vateih de-Rabbi Yochanan: shnei devarim ein bahem da'at lishael* — there are two things whose relevant party has no *da'at lishael*, no capacity to respond to questions, and yet are treated stringently. The principle that *safek tumah be-reshus ha-yachid* is *tamei* — that doubt in a private space is ruled *tamei* — is derived from the case of the *sotah*, where the woman was alone with the man, present and capable of being asked. The *chachamim* extended this principle to ordinary cases of *tumah*, but maintained the limiting condition: it applies only when someone with *da'at lishael* was present. If no such person was present, technically the case should be *safek tahor*.
 
@@ -254,15 +260,25 @@ These cases thus represent a middle category: more stringent than a pure *safek 
 
 ---
 
-## Infant & Dough (III)…
+## Infant & Dough (III)
+
+
 
 ### Clear Liquid
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: לֹא שָׁנוּ אֶלָּא בְּמַשְׁקִים לְבָנִים, אֲבָל בְּמַשְׁקִים אֲדוּמִּים – אִם אִיתָא דִּנְקִיר מִידָּע יְדִיעַ. וְדִילְמָא בְּלַעְתִּינְהוּ עִיסָּה?
+> **Translation:** **Rabbi Yehoshua ben Levi says: They taught** this *halakha* **only in** a case of **white liquid,** when the appearance of the peck marks provides no proof of whether the chickens had previously drunk from the liquid, **but in** a case of **red,** impure **liquid, if it is so that they had pecked, it would be known** that they had drunk from the liquid, since the peck marks would be colored red. The Gemara asks: Even if the liquid were red and there were no red marks on the dough, how can one say definitively that they did not peck? **Perhaps** the **dough absorbed** the liquid, leaving no identifiable mark?
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: דָּבָר זֶה שָׁמַע בְּרִיבִּי, וּפֵירוּשׁוֹ לֹא שָׁמַע: לֹא שָׁנוּ אֶלָּא בְּמַשְׁקִים צְלוּלִים, שֶׁבָּבוּאָה שֶׁל תִּינוֹק נִיכָּר בָּהֶ[ן], אֲבָל מַשְׁקִים עֲכוּרִים – לֹא.
+> **Translation:** **Rabbi Yoḥanan says: The Distinguished,** i.e., Rabbi Yehoshua ben Levi, **heard this matter, but he did not hear its interpretation,** and he should have supplied an additional detail: **They taught** this *halakha* **only in** a case **of clear liquid,** which can be absorbed in the dough without leaving a stain. What is meant by clear? It means **that in which the reflection [*bavua*] of a child is recognizable** when he peers into it. **But** in a case of **murky liquid,** this *halakha* was **not** stated, since the liquid would have left a mark.
 
 *Amar Rabbi Yochanan: lo shanu ela be-mashkin tzelulim she-be-bavu'ah shel tinok nikar bah, aval mashkin achurin lo* — Rabbi Yochanan adds a further distinction within the chicken-and-liquid case. If the liquid is clear enough that one could see an infant's face reflected in it, then the following logic applies: had the chicken actually had this liquid in its beak, we would expect to see visible residue or evidence in the dough where it pecked. Since we do not see it, there is inferential reason to think the liquid was not present in the beak. But if the liquid is cloudy, this inference is unavailable, because cloudy liquid would not leave the same visible trace. The precise mechanism of this distinction — exactly how the absorption or residue differs between clear and cloudy liquids in the dough — is not entirely transparent from the text, but the general thrust is that clear liquid provides an evidentiary avenue by which the absence of visible residue can serve as circumstantial evidence that contact did not occur. Cloudy liquid does not provide that avenue.
 
 ---
 
 ## Modern Evidence
+
+
 
 ### Written Docs
 
@@ -286,11 +302,9 @@ The irony, of course, is that the modern empirical sciences have thoroughly docu
 
 ## Yichud Intro
 
-### Why Here
 
-> **Hebrew/Aramaic:** מַתְנִי׳ לֹא יִתְיַיחֵד אָדָם עִם שְׁתֵּי נָשִׁים, אֲבָל אִשָּׁה אַחַת מִתְיַיחֶדֶת עִם שְׁנֵי אֲנָשִׁים. רַבִּי שִׁמְעוֹן אוֹמֵר: אַף אִישׁ אֶחָד מִתְיַיחֵד עִם שְׁתֵּי נָשִׁים בִּזְמַן שֶׁאִשְׁתּוֹ עִמּוֹ, וְיָשֵׁן עִמָּהֶם בְּפוּנְדְּקִי, מִפְּנֵי שֶׁאִשְׁתּוֹ מְשַׁמַּרְתּוֹ. מִתְיַיחֵד אָדָם עִם אִמּוֹ וְעִם בִּתּוֹ וְיָשֵׁן עִמָּהֶם בְּקֵירוּב בָּשָׂר. וְאִם הִגְדִּילוּ – זוֹ יְשֵׁנָה בִּכְסוּתָהּ וְזֶה יָשֵׁן בִּכְסוּתוֹ.
->
-> **Translation:** MISHNA: **A man may not be secluded with two women** lest he sin with them, **but one woman may be secluded with two men. Rabbi Shimon says: Even one man may be secluded with two women when his wife is with him, and** in that situation he may even **sleep in** the same **inn** with two women, **because his wife guards him** from sinning with them. They further said that **a man may be secluded with his mother, and with his daughter, and sleep alongside them with bodily contact** without clothes, since there is no concern that they will engage in sexual intercourse. **And when they,** the son or daughter, **have grown up, this one sleeps in her garment and that one sleeps in his garment,** but they may share a bed.
+
+### Why Here
 
 We now turn to the final *mishnayot* of *Masechet Kiddushin*, which address the laws of *yichud* — the prohibition on a man and woman being in seclusion together — and represent a significant shift in topic. One could perhaps construct a connection to *yichus*, since forbidden seclusion might lead to relationships with forbidden consequences, but that is not the stated concern. The connection is more naturally to the general themes of *Masechet Kiddushin* — the nature of the marital bond and the boundaries of permitted and forbidden relationships. The broader question of sex outside of marriage, incidentally, is itself a *machloket rishonim*: the Rambam holds it is forbidden, while the Ramban holds that a committed, monogamous relationship with a woman who is not a *niddah* is not strictly prohibited, given the institution of *pilegesh* described in the Torah.
 
@@ -306,9 +320,14 @@ In the time of the *gemara*, single women would go to the *mikvah* for *taharah*
 
 ## Yichud Mishna
 
+
+
 ### One Man Rule
 
-The *mishna* reads: *Lo yityached adam im shtei nashim* — a man should not be in seclusion with two women. This is the *tanna kamma*'s position. Even though a third party is present, if that third party is a woman, it is insufficient to prevent *yichud*.
+*Lo yityached adam im shtei nashim* — a man should not be in seclusion with two women. This is the *tanna kamma*'s position. Even though a third party is present, if that third party is a woman, it is insufficient to prevent *yichud*.
+
+> **Hebrew/Aramaic:** מַתְנִי׳ לֹא יִתְיַיחֵד אָדָם עִם שְׁתֵּי נָשִׁים, אֲבָל אִשָּׁה אַחַת מִתְיַיחֶדֶת עִם שְׁנֵי אֲנָשִׁים. רַבִּי שִׁמְעוֹן אוֹמֵר: אַף אִישׁ אֶחָד מִתְיַיחֵד עִם שְׁתֵּי נָשִׁים בִּזְמַן שֶׁאִשְׁתּוֹ עִמּוֹ, וְיָשֵׁן עִמָּהֶם בְּפוּנְדְּקִי, מִפְּנֵי שֶׁאִשְׁתּוֹ מְשַׁמַּרְתּוֹ. מִתְיַיחֵד אָדָם עִם אִמּוֹ וְעִם בִּתּוֹ וְיָשֵׁן עִמָּהֶם בְּקֵירוּב בָּשָׂר. וְאִם הִגְדִּילוּ – זוֹ יְשֵׁנָה בִּכְסוּתָהּ וְזֶה יָשֵׁן בִּכְסוּתוֹ.
+> **Translation:** MISHNA: **A man may not be secluded with two women** lest he sin with them, **but one woman may be secluded with two men. Rabbi Shimon says: Even one man may be secluded with two women when his wife is with him, and** in that situation he may even **sleep in** the same **inn** with two women, **because his wife guards him** from sinning with them. They further said that **a man may be secluded with his mother, and with his daughter, and sleep alongside them with bodily contact** without clothes, since there is no concern that they will engage in sexual intercourse. **And when they,** the son or daughter, **have grown up, this one sleeps in her garment and that one sleeps in his garment,** but they may share a bed.
 
 ### Two Men Rule
 
@@ -320,9 +339,10 @@ The *mishna* reads: *Lo yityached adam im shtei nashim* — a man should not be 
 
 ### Wife Present
 
-Following Tosafot's reading of the text, a separate principle follows: *u-bizman she-ishto imo yashen imahem be-pundeki mipnei she-ishto meshamarto* — if a man's wife is with him, he may sleep at an inn in the company of other women, because his wife watches over him. The presence of one's wife functions as an independent mechanism that removes *yichud* concerns, distinct from the question of how many third parties are present.
+Following Tosafot's reading of the text, a separate principle follows: *u-vizman she-ishto imo yashen imahem be-pundeki mipnei she-ishto meshamarto* — if a man's wife is with him, he may sleep at an inn in the company of other women, because his wife watches over him. The presence of one's wife functions as an independent mechanism that removes *yichud* concerns, distinct from the question of how many third parties are present.
 
 ### Close Relatives
+
 
 *Mityached adam im imo ve-im bito* — a man may be in seclusion with his mother or his daughter. *Ve-yashen imahem be-keiruv basar* — and may even sleep in close physical proximity with them while they are small children. *Ve-im higdilu — zo yeshena bi-kesutah ve-zeh yashen bi-kesuto* — once the child is grown, they may still share a sleeping space but must be clothed. The practical realities of households with limited beds made some such ruling necessary, and obviously *yichud* cannot be applied between a father and his young child. The *gemara*'s ruling maintains the permissibility of the relationship while imposing a modest standard of modesty once the children have grown.
 
@@ -333,6 +353,8 @@ A genuinely difficult contemporary application arises with adopted children. Sin
 ---
 
 ## Yichud Concepts
+
+
 
 ### Rape or Sex
 
@@ -354,10 +376,11 @@ The Tzitz Eliezer disagrees with the gender-specific reading and maintains that 
 
 ## Yichud Gemara
 
+
+
 ### Women Light
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמָא? תְּנָא דְּבֵי אֵלִיָּהוּ: הוֹאִיל וְנָשִׁים דַּעְתָּן קַלּוֹת עֲלֵיהֶן.
->
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמָא? תְּנָא דְּבֵי אֵלִיָּהוּ: הוֹאִיל וְנָשִׁים דַּעְתָּן קַלּוֹת עֲלֵיהֶן.
 > **Translation:** GEMARA: **What is the reason** that a man may not be secluded with two women, but a woman may be secluded with two men? **The school of Eliyahu taught: Since women are of light mind** they are more easily seduced.
 
 The *gemara* asks why the *tanna kamma* rules differently for a man with two women versus a woman with two men. *Tana devei Eliyahu*: *ho'il ve-nashim da'atan kalot aleihen* — since women are more susceptible to being persuaded or seduced. The presumption is that one man might be able to seduce two women, either by persuading both or by seducing one while the other fails to object. This is the underlying rationale for the *tanna kamma*'s asymmetric ruling.
@@ -372,13 +395,11 @@ If a single man with two women is prohibited, what about one man with three wome
 
 ### Torah Source
 
-> **Hebrew/Aramaic:** מְנָא הָנֵי מִילֵּי? אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יִשְׁמָעֵאל: רֶמֶז לְיִחוּד מִן הַתּוֹרָה מִנַּיִן – שֶׁנֶּאֱמַר: ״כִּי יְסִיתְךָ אָחִיךָ בֶן אִמֶּךָ״.
->
-> **Translation:** The Gemara asks: **From where are these matters,** that it is prohibited for a man to be secluded with women, **derived? Rabbi Yoḥanan says in the name of Rabbi Yishmael: From where** is there **an allusion from the** Written **Torah to** the prohibition against **seclusion? As it is stated** concerning one who incites others to idolatrous worship: **"If your brother, the son of your mother, entices you"** (Deuteronomy 13:7).
+> **Hebrew/Aramaic:** מְנָא הָנֵי מִילֵּי? אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יִשְׁמָעֵאל: רֶמֶז לְיִחוּד מִן הַתּוֹרָה מִנַּיִן – שֶׁנֶּאֱמַר: ״כִּי יְסִיתְךָ אָחִיךָ בֶן אִמֶּךָ״.
+> **Translation:** The Gemara asks: **From where are these matters,** that it is prohibited for a man to be secluded with women, derived? **Rabbi Yoḥanan says in the name of Rabbi Yishmael: From where** is there **an allusion from the** Written **Torah to** the prohibition against **seclusion? As it is stated** concerning one who incites others to idolatrous worship: **“If your brother, the son of your mother, entices you”** (Deuteronomy 13:7).
 
-> **Hebrew/Aramaic:** וְכִי בֶּן אֵם מֵסִית, בֶּן אָב אֵינוֹ מֵסִית? אֶלָּא לוֹמַר לָךְ: בֵּן מִתְיַיחֵד עִם אִמּוֹ, וְאָסוּר לְהִתְיַיחֵד עִם כׇּל עֲרָיוֹת שֶׁבַּתּוֹרָה.
->
-> **Translation:** Rabbi Yishmael considers why the Torah uses the example of "the son of your mother." **But is it** only **the son of a mother** who **entices? Doesn't the son of a father entice? Rather,** the verse means **to say to you: A son may be secluded with his mother.** Consequently, if a woman has two sons from two different husbands, they will both stay close to her. The Torah therefore uses the example of "the son of your mother" because half-brothers who share a mother become close to each other. By contrast, half-brothers who share a father will not become close, since one's father's wife who is not one's mother is a forbidden relative. **And it is prohibited to be secluded with those with whom relations are forbidden by the Torah.**
+> **Hebrew/Aramaic:** וְכִי בֶּן אֵם מֵסִית, בֶּן אָב אֵינוֹ מֵסִית? אֶלָּא לוֹמַר לָךְ: בֵּן מִתְיַיחֵד עִם אִמּוֹ, וְאָסוּר לְהִתְיַיחֵד עִם כׇּל עֲרָיוֹת שֶׁבַּתּוֹרָה.
+> **Translation:** Rabbi Yishmael considers why the Torah uses the example of “the son of your mother.” **But is it** only **the son of a mother** who **entices? Doesn’t the son of a father entice? Rather,** the verse means **to say to you: A son may be secluded with his mother.** Consequently, if a woman has two sons from two different husbands, they will both stay close to her. The Torah therefore uses the example of “the son of your mother” because half-brothers who share a mother become close to each other. By contrast, half-brothers who share a father will not become close, since one’s father’s wife who is not one’s mother is a forbidden relative. **And it is prohibited to be secluded with those with whom relations are forbidden by the Torah.**
 
 *Amar Rabbi Yochanan mishum Rabbi Yishmael — remez le-yichud min ha-Torah minayin?* — where in the Torah is there a basis for the laws of *yichud*? *Ki yesit-cha achicha ben imcha* — when your brother, your mother's son, seduces you — and this verse concerns seduction to *avodah zarah*. The *derashah* proceeds: *ve-chi ben em masis, ben av ein masis?* — would only your mother's son seduce you to *avodah zarah* and not your father's son? The distinction implies a scenario in which *ben em* — the son of one's mother — is the natural companion for seclusion: *ben im mityached im imo* — a son may be secluded with his mother. And from this it follows that *asur lehityached im kol arayos she-ba-Torah* — all other forbidden relationships are subject to the prohibition of *yichud*.
 
@@ -392,28 +413,18 @@ The prohibition of *yichud* with a single woman was enacted later than the other
 
 ### Abaye Reading
 
-> **Hebrew/Aramaic:** נֵימָא מַתְנִיתִין דְּלָא כְּאַבָּא שָׁאוּל, דְּתַנְיָא: כׇּל שְׁלֹשִׁים יוֹם – יוֹצֵא בְּחֵיק, וְנִקְבָּר בְּאִשָּׁה אַחַת וּשְׁנֵי אֲנָשִׁים, אֲבָל לֹא בְּאִישׁ אֶחָד וּשְׁתֵּי נָשִׁים. אַבָּא שָׁאוּל אוֹמֵר: אַף בְּאִישׁ אֶחָד וּשְׁתֵּי נָשִׁים.
->
-> **Translation:** The Gemara comments: Shall **we say the mishna is not in accordance with** the opinion of **Abba Shaul, as it is taught** in a *baraita*: If a child dies **any** time during the first **thirty days** after his birth, he is not given a proper funeral but **is carried out** held **in** their **bosom,** not on a bier, **and buried by one woman and two men. But** he **may not** be buried **by one man and two women,** due to the prohibition against seclusion. **Abba Shaul says:** He may **even** be buried **by one man and two women.** This indicates that Abba Shaul deems it permitted for a man to be secluded with two women.
-
-> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא אַבָּא שָׁאוּל, בִּשְׁעַת אֲנִינוּת תְּבִיר יִצְרֵיהּ.
->
-> **Translation:** The Gemara rejects this: **You** can **even say** that the mishna is in accordance with the opinion of **Abba Shaul,** as he permits it only in the case of the *baraita*, because **at the time of acute mourning,** i.e., immediately after a close relative has died, one's **inclination** to sin **is broken,** and there is no concern that he might come to sin.
-
 *Amar Abaye: lo mibaya ka'amar* — Abaye offers the simple reading of why the verse specifies one's brother *on the mother's side* rather than the father's side. The verse is speaking *a fortiori*. The case it might not have had to mention is the one it does mention.
+
+> **Hebrew/Aramaic:** פְּשָׁטֵיהּ דִּקְרָא בְּמַאי כְּתִיב? אָמַר אַבָּיֵי: לָא מִיבַּעְיָא קָאָמַר. לָא מִיבַּעְיָא בֶּן אָב, דְּסָנֵי לֵיהּ וְעָיֵיץ לֵיהּ עֵצוֹת רָעוֹת, אֶלָּא אֲפִילּוּ בֶּן אֵם, דְּלָא סָנֵי לֵיהּ – אֵימָא צָיְיתִי לֵיהּ, קָא מַשְׁמַע לַן.
+> **Translation:** Since this verse merely alludes to the prohibition against seclusion, the Gemara asks: **With regard to what is the plain** meaning **of the verse written,** i.e., in the context of enticement to idolatrous worship, why does it emphasize “the son of your mother”? **Abaye said:** The verse **is speaking** utilizing the style of: **It is not necessary. It is not necessary** to state that one should not be enticed by **the son of a father, who hates him** due to their rivalry for their father’s inheritance **and** therefore **gives him bad advice. Rather,** the same is true **even** of **the son of a mother,** who **does not hate him,** since they are not rivals for the same inheritance, as each inherits from his own father. One might therefore **say** that **he should listen to him** and accept his advice. The verse consequently **teaches us** that he should pay no heed to his enticements.
 
 ### Inheritance Logic
 
-> **Hebrew/Aramaic:** וְרַבָּנַן סָבְרִי לַהּ כְּרַבִּי יִצְחָק. דְּאָמַר רַבִּי יִצְחָק: ״מַה יִּתְאוֹנֵן אָדָם חָי גֶּבֶר עַל חֲטָאָיו״ – אֲפִילּוּ בִּשְׁעַת אֲנִינוּתוֹ שֶׁל אָדָם יִצְרוֹ מִתְגַּבֵּר עָלָיו. וְאַבָּא שָׁאוּל? כִּי כְּתִיב הָהוּא – בְּמִתְרַעֵם עַל מִדּוֹתָיו כְּתִיב, וְהָכִי קָאָמַר: מָה יִתְרַעֵם עַל מִדּוֹתָיו, וְכִי גָּבַר עַל חֲטָאָיו? דַּיּוֹ חַיִּים שֶׁנָּתַתִּי לוֹ!
->
-> **Translation:** **And the Rabbis,** who render seclusion forbidden even then, **hold in accordance with** the statement of **Rabbi Yitzḥak, as Rabbi Yitzḥak says** as follows with regard to the verse: **"Why does a living man complain, a powerful man due to his sins?"** (Lamentations 3:39): **Even at the time of a person's acute mourning, his inclination** to sin **overpowers him.** The Gemara asks: **And** how does **Abba Shaul** explain this verse? The Gemara answers: **When that was written, it was written** with regard **to one who complains about** God's **ways. And this is** what the verse **is saying: Why does** one **complain about** God's **ways** and claim that he has been treated unjustly? **Has he overpowered his sins?** God responds: **The life I have given him is sufficient for him,** and he deserves no more.
-
 *Lo mibaya ben av d'sani lei* — it goes without saying that you would not listen to your brother on your father's side trying to lead you to *avodah zarah*, because your father's son is competing with you for your father's inheritance. He has a motive to see you destroyed — to get you executed for *avodah zarah* and thereby remove you from the picture. Naturally you would be suspicious of his counsel and disinclined to follow it.
 
+### Seduction Warn
+
+
 *Ela afilu ben em d'lo sani lei* — but your brother on your mother's side has no such conflict with you. He shares no inheritance with you from your father. You cannot assume he hates you or has ulterior motives. You might think his counsel is offered in good faith — *eima tzeis lei* — you might be inclined to listen to him. *Ka mashma lan* — therefore the Torah specifically warns you: even this brother, well-intentioned as he may appear, must not be heeded when he urges you toward *avodah zarah*. The seduction of someone close to you who seems to mean well is precisely the most dangerous kind.
-
----
-
-## Remaining Discussion in Yichud Gemara
 
 We will continue tomorrow with the further parameters of *yichud* — one man with two women as opposed to one woman with two men.

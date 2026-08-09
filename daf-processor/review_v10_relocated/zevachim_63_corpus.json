@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Kemitzah Anywhere Azarah",
+    "candidates": [
+      "Opening & Context",
+      "Kemitzah Anywhere Azarah",
+      "Menachot vs Kodshei",
+      "R. Elazar: Heichal Kosher",
+      "Lechem Hapanim Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah stating that kemitzah could be performed anywhere in the azarah, which is precisely what the 'Kemitzah Anywhere Azarah' section's prose discusses and even directly quotes.",
+      "chosen_heading": "Kemitzah Anywhere Azarah",
+      "current_heading": "Kemitzah Anywhere Azarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Lechem Hapanim Proof",
+    "candidates": [
+      "Menachot vs Kodshei",
+      "R. Elazar: Heichal Kosher",
+      "Lechem Hapanim Proof",
+      "Heichal Permissibility",
+      "Kemitzah Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's direct statement that a meal offering whose handful was removed in the Heichal is valid, which matches heading 1 ('R. Elazar: Heichal Kosher') that introduces this exact ruling, rather than heading 2 which discusses the lechem hapanim proof that follows from it.",
+      "chosen_heading": "R. Elazar: Heichal Kosher",
+      "current_heading": "Lechem Hapanim Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Kemitzah Restriction",
+    "candidates": [
+      "Heichal Permissibility",
+      "Kemitzah Restriction",
+      "Kemitzah Redo",
+      "Rabbi Yaakov Resolution",
+      "Verse Expands Location",
+      "North vs Kodshei Kodashim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kemitzah Restriction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the baraita challenge from Rabbi Yirmeya (the geographic restriction from 'misham') and Ben Beteira's parallel reading, both of which are discussed under 'Kemitzah Restriction' and 'Kemitzah Redo' \u2014 but since items 1 and 2 must go together under one heading, and candidate 1 ('Kemitzah Restriction') explicitly discusses Rabbi Yirmiyah's challenge and the baraita reading of 'misham' as a geographic limit including Ben Beteira's ruling parenthetically, items 1-2 best fit under candidate 1.",
+      "second_heading": "Rabbi Yaakov Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's resolution \u2014 some say Rabbi Yirmeya resolved it himself, others attribute it to Rabbi Akiva explaining to Rabbi Yirmeya bar Tachlifa that the verse expands rather than restricts \u2014 which matches exactly the prose of candidate 3 ('Rabbi Yaakov Resolution') describing this same answer.",
+      "current_heading": "Kemitzah Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "North vs Kodshei Kodashim",
+    "candidates": [
+      "Kemitzah Redo",
+      "Rabbi Yaakov Resolution",
+      "Verse Expands Location",
+      "North vs Kodshei Kodashim",
+      "Failed Comparisons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the hava amina (it might enter your mind to say) that since both olah and mincha are kodshei kodashim, the mincha should require the north \u2014 exactly the hava amina that section 3's prose describes and quotes.",
+      "chosen_heading": "North vs Kodshei Kodashim",
+      "current_heading": "North vs Kodshei Kodashim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Failed Comparisons",
+    "candidates": [
+      "Failed Comparisons",
+      "Southwest Corner Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the systematic dismantling of analogies to animal offerings (olah, chatat, asham, all together), which is precisely what the 'Failed Comparisons' prose describes.",
+      "chosen_heading": "Failed Comparisons",
+      "current_heading": "Failed Comparisons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Southwest Corner Logic",
+    "candidates": [
+      "Southwest Corner Logic",
+      "Shelamim Kosher",
+      "Kal v'Chomer Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the southwest corner argument (hagashah at keren dromit maaravit implies kemitzah there too), which is precisely what the 'Southwest Corner Logic' prose describes.",
+      "chosen_heading": "Southwest Corner Logic",
+      "current_heading": "Southwest Corner Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Kal v'Chomer Debate",
+    "candidates": [
+      "Shelamim Kosher",
+      "Kal v'Chomer Debate",
+      "Kodshei Kodashim Heichal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Yochanan's ruling that shlamim slaughtered in the heichal are valid and gives the kal vachomer basis, which is the content described in candidate 0's prose introducing Rabbi Yochanan's ruling \u2014 candidate 1 discusses the challenge to this kal vachomer, not the ruling itself.",
+      "chosen_heading": "Shelamim Kosher",
+      "current_heading": "Kal v'Chomer Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Kodshei Kodashim Heichal",
+    "candidates": [
+      "Kal v'Chomer Debate",
+      "Kodshei Kodashim Heichal",
+      "Avoda vs. Achila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita of Rabbi Yo\u1e25anan ben Beteira about priests eating kodshei kodashim in the heichal during a siege, which is precisely what candidate 1's prose describes as the challenge from this baraita.",
+      "chosen_heading": "Kodshei Kodashim Heichal",
+      "current_heading": "Kodshei Kodashim Heichal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Avoda vs. Achila",
+    "candidates": [
+      "Avoda vs. Achila",
+      "Chatat Ha'of Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the distinction between avoda and achila \u2014 item 1 raises the question of why a verse is needed when a kal vachomer from the courtyard should suffice, and item 2 resolves it with the exact hatam avoda/achila distinction that candidate 0's prose explicitly discusses.",
+      "chosen_heading": "Avoda vs. Achila",
+      "current_heading": "Avoda vs. Achila",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Chatat Ha'of Location",
+    "candidates": [
+      "Chatat Ha'of Location",
+      "Three Things at Corner",
+      "Altar Traffic Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe the three acts performed below and three above at the southwest corner, which is precisely what candidate 1 ('Three Things at Corner') discusses in its prose, whereas candidate 0 only addresses the location of the bird sin-offering itself.",
+      "chosen_heading": "Three Things at Corner",
+      "current_heading": "Chatat Ha'of Location",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Altar Traffic Rules",
+    "candidates": [
+      "Three Things at Corner",
+      "Altar Traffic Rules",
+      "Text Corruption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the general traffic rule on the altar ramp \u2014 ascending right, circling, descending left, with the exception for the three southwest-corner acts \u2014 which is precisely what the 'Altar Traffic Rules' prose discusses.",
+      "chosen_heading": "Altar Traffic Rules",
+      "current_heading": "Altar Traffic Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Text Corruption",
+    "candidates": [
+      "Text Corruption",
+      "Rashi's Position",
+      "Two Verses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's derivation from the verse equating chatat and mincha, leading to the north/southwest comparison \u2014 exactly what the 'Text Corruption' prose describes as the textual basis being sought, before noting it is immediately problematic.",
+      "chosen_heading": "Text Corruption",
+      "current_heading": "Text Corruption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Two Verses Rule",
+    "candidates": [
+      "Rashi's Position",
+      "Two Verses Rule",
+      "R. Eliezer Alternative",
+      "Rav Ashi's Explanation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two Verses Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 establish the derivation of hagashah at the southwest corner from the two verses, which matches the 'Two Verses Rule' prose describing exactly this baraita and its resolution via the southwest corner.",
+      "second_heading": "R. Eliezer Alternative",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rabbi Eliezer's alternative analysis of how the two verses are reconciled by choosing the southern face over the exact corner point, matching the 'R. Eliezer Alternative' prose precisely.",
+      "current_heading": "Two Verses Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rav Ashi's Explanation",
+    "candidates": [
+      "R. Eliezer Alternative",
+      "Rav Ashi's Explanation",
+      "Melika vs. Hazaya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's explanation that the tanna holds the entire altar stood in the north, which is precisely what the 'Rav Ashi's Explanation' section's prose describes.",
+      "chosen_heading": "Rav Ashi's Explanation",
+      "current_heading": "Rav Ashi's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Melika vs. Hazaya",
+    "candidates": [
+      "Melika vs. Hazaya",
+      "Baraita Editing",
+      "Dam Hanefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Ashi's statement distinguishing melika (valid anywhere) from hazaya (must be at southwest corner), which is precisely what the 'Melika vs. Hazaya' prose section discusses and quotes.",
+      "chosen_heading": "Melika vs. Hazaya",
+      "current_heading": "Melika vs. Hazaya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Dam Hanefesh",
+    "candidates": [
+      "Baraita Editing",
+      "Dam Hanefesh",
+      "Hazaya Southwest Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items comprise the baraita citation and the Gemara's parsing/editing of it \u2014 distinguishing hazaya from mitzuy \u2014 which is exactly what the 'Baraita Editing' prose describes, not the 'Dam Hanefesh' section where it currently sits.",
+      "chosen_heading": "Baraita Editing",
+      "current_heading": "Dam Hanefesh",
+      "moved": true
+    }
+  }
+]

@@ -146,7 +146,7 @@
           "timestamp": "22:18"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -406,7 +406,7 @@
           "timestamp": "55:58"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -440,7 +440,7 @@
           "timestamp": "57:50"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 18,
       "matched": false
     }
   ],
@@ -670,5 +670,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "43:00",
+  "amud_b_micro_title": "Maintenance & Ketubah",
+  "shiur_start_daf": 87,
+  "shiur_start_amud": "b"
 }

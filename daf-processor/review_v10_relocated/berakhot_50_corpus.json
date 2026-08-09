@@ -1,0 +1,537 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Shmuel's Principle",
+    "candidates": [
+      "Shmuel's Principle",
+      "Gemara's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Shmuel's principle and the Mishnah's apparent challenge from 'bishlosha vehu omer barchu' \u2014 are explicitly described in the 'Shmuel's Principle' prose section, making the current placement correct.",
+      "chosen_heading": "Shmuel's Principle",
+      "current_heading": "Shmuel's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Gemara's Resolution",
+    "candidates": [
+      "Gemara's Resolution",
+      "Braita Support",
+      "Uvetuvo Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara resolution \u2014 reinterpreting the Mishnah, citing Rav Adda bar Ahava's ruling about six dividing into two groups, and the logical proof that nevarech is preferable \u2014 which matches exactly what the 'Gemara's Resolution' prose describes.",
+      "chosen_heading": "Gemara's Resolution",
+      "current_heading": "Gemara's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Uvetuvo Debate",
+    "candidates": [
+      "Braita Support",
+      "Uvetuvo Debate",
+      "Chayinu vs. Chayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Uvetuvo Debate' prose: item 1 is the braita about uvetuvo vs. umituvo, and item 2 is the Abaye/Rav Dimi challenge and resolution about umibirchasecha, all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Uvetuvo Debate",
+      "current_heading": "Uvetuvo Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Chayinu vs. Chayim",
+    "candidates": [
+      "Chayinu vs. Chayim",
+      "She'achalnu Mishelo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about chayinu vs. chayim and the Neharbela dissent is exactly what the prose under 'Chayinu vs. Chayim' describes, including the ruling against Neharbela.",
+      "chosen_heading": "Chayinu vs. Chayim",
+      "current_heading": "Chayinu vs. Chayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "She'achalnu Mishelo",
+    "candidates": [
+      "She'achalnu Mishelo",
+      "Al HaMazon Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the nevarech she'achalnu mishelo vs. l'mi she'achalnu mishelo distinction and the Passover challenge/response, which is precisely what candidate 0's prose elaborates.",
+      "chosen_heading": "She'achalnu Mishelo",
+      "current_heading": "She'achalnu Mishelo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Al HaMazon Question",
+    "candidates": [
+      "Al HaMazon Question",
+      "Self-Contradiction",
+      "Rav Yosef's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'al ha-mazon' vs 'mishelo' formulation debate, and the prose under heading 0 explicitly discusses both Rabbi Yochanan's ruling about talmid chacham vs bur and Rav Huna son of Rav Yehoshua's refinement about three vs ten, matching these items precisely.",
+      "chosen_heading": "Al HaMazon Question",
+      "current_heading": "Al HaMazon Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rav Yosef's Resolution",
+    "candidates": [
+      "Self-Contradiction",
+      "Rav Yosef's Resolution",
+      "Rabbi Yose HaGelili",
+      "Rabbi Akiva's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Self-Contradiction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the self-contradiction within the Mishnah (echad asarah ve-echad asarah ribbo vs. the graduated formulas), which is precisely what heading 0 'Self-Contradiction' describes.",
+      "second_heading": "Rav Yosef's Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's resolution attributing the two parts of the Mishnah to Rabbi Yose HaGelili and Rabbi Akiva, which is exactly what heading 1 'Rav Yosef's Resolution' discusses.",
+      "current_heading": "Rav Yosef's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rabbi Akiva's Position",
+    "candidates": [
+      "Rabbi Yose HaGelili",
+      "Rabbi Akiva's Position",
+      "Rav Chama's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Akiva's position and what he does with Rabbi Yose HaGelili's verse (applying it to fetuses singing at the sea), which is explicitly and thoroughly addressed in the prose of candidate 1 ('Rabbi Akiva's Position').",
+      "chosen_heading": "Rabbi Akiva's Position",
+      "current_heading": "Rabbi Akiva's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav Chama's Question",
+    "candidates": [
+      "Rav Chama's Question",
+      "Groups of Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's ruling that the halakha follows Rabbi Akiva, and the story of Ravina stopping Rav Chama from assembling one hundred people at the Exilarch's house \u2014 exactly what heading 0 ('Rav Chama's Question') describes in its prose.",
+      "chosen_heading": "Rav Chama's Question",
+      "current_heading": "Rav Chama's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Groups of Three",
+    "candidates": [
+      "Groups of Three",
+      "Hearing Requirement",
+      "Benching Ahead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly why groups of three were used at the Exilarch's house (to avoid offending him with groups of ten) and why they couldn't rely on the Exilarch's own zimun (noise), which matches the 'Groups of Three' section's prose precisely.",
+      "chosen_heading": "Groups of Three",
+      "current_heading": "Groups of Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Benching Ahead",
+    "candidates": [
+      "Hearing Requirement",
+      "Benching Ahead",
+      "Seeing Criterion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Benching Ahead",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 belong under 'Benching Ahead' and the synagogue Torah-reading dispute respectively, but item 1 is precisely what the 'Benching Ahead' prose describes (Rabbah Tosfa'ah's ruling on retroactive zimun), while item 2 fits under 'Seeing Criterion' only loosely \u2014 however, the real structural seam is between items 2 and 3, where item 3 is a new Mishnah ('MISHNA:') opening an entirely new self-contained topic about groups dividing for zimun.",
+      "second_heading": "Seeing Criterion",
+      "second_confidence": "medium",
+      "second_reason": "Item 3 is a new Mishnah on whether groups may split for zimun, which is a self-contained unit distinct from the Torah-reading dispute in item 2, and best fits under 'Seeing Criterion' which discusses group composition and visibility criteria for zimun.",
+      "current_heading": "Benching Ahead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Seeing Criterion",
+    "candidates": [
+      "Seeing Criterion",
+      "Shamash Role",
+      "Rabbi Eliezer's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Mishnah about two groups seeing each other (miktzatan ro'im zeh et zeh) as the criterion for combining for zimmun, which is precisely what the 'Seeing Criterion' prose discusses.",
+      "chosen_heading": "Seeing Criterion",
+      "current_heading": "Seeing Criterion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rabbi Eliezer's View",
+    "candidates": [
+      "Shamash Role",
+      "Rabbi Eliezer's View",
+      "Rabbis' View",
+      "Three From Three Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah presenting both Rabbi Eliezer's view and the Rabbis' view together, and the current heading 'Rabbi Eliezer's View' with its prose about the wine-water dispute and mizigah is the best match for this combined passage.",
+      "chosen_heading": "Rabbi Eliezer's View",
+      "current_heading": "Rabbi Eliezer's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Three From Three Groups",
+    "candidates": [
+      "Rabbis' View",
+      "Three From Three Groups",
+      "Rava's Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items directly address the Gemara's question about what the mishna teaching about three who sat to eat together adds, culminating in Rav Huna's ruling about three from three groups and Rav \u1e24isda's qualification \u2014 exactly the content described in the 'Three From Three Groups' prose.",
+      "chosen_heading": "Three From Three Groups",
+      "current_heading": "Three From Three Groups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Rava's Limitation",
+    "candidates": [
+      "Rava's Limitation",
+      "Before Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 Rava's qualification about prior zimmun discharging obligation, the analogy to the bed's tum'ah, and the shamash combining two groups \u2014 are explicitly discussed together in candidate 0's prose, which covers exactly this content in sequence.",
+      "chosen_heading": "Rava's Limitation",
+      "current_heading": "Rava's Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Before Water",
+    "candidates": [
+      "Before Water",
+      "After Water",
+      "Whose Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the pre-water and post-water rulings of Rabbi Eliezer and the Rabbis in one continuous baraita, and the current heading 'Before Water' with its prose explicitly introduces this baraita in full, making it the correct home for the entire quoted text.",
+      "chosen_heading": "Before Water",
+      "current_heading": "Before Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Whose Position",
+    "candidates": [
+      "After Water",
+      "Whose Position",
+      "Kos Shel Bracha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whose position Shmuel's ruling aligns with, matching the 'Whose Position' section's prose which discusses exactly this Gemara question about Shmuel and Rabbi Eliezer.",
+      "chosen_heading": "Whose Position",
+      "current_heading": "Whose Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Kos Shel Bracha",
+    "candidates": [
+      "Kos Shel Bracha",
+      "Medicinal Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the kos shel bracha requirement for adding water and the principle of mitzvah min ha-muvchar, which is precisely what the prose under heading 0 elaborates on.",
+      "chosen_heading": "Kos Shel Bracha",
+      "current_heading": "Kos Shel Bracha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Medicinal Purpose",
+    "candidates": [
+      "Medicinal Purpose",
+      "Four Prohibitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses undiluted wine's fitness for a medicinal preparation (koraiytei), which matches exactly the 'Medicinal Purpose' section's prose about Rav Zeira's answer regarding undiluted wine being suitable for a curative mixture.",
+      "chosen_heading": "Medicinal Purpose",
+      "current_heading": "Medicinal Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Four Prohibitions",
+    "candidates": [
+      "Four Prohibitions",
+      "Throwing Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents all four prohibitions regarding bread, which directly matches the 'Four Prohibitions' section prose that discusses exactly these four rules, whereas the 'Throwing Food' section focuses on a subsequent Gemara discussion about whether throwing applies to foods other than bread.",
+      "chosen_heading": "Four Prohibitions",
+      "current_heading": "Four Prohibitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Throwing Food",
+    "candidates": [
+      "Throwing Food",
+      "Mar Zutra Story",
+      "Unpalatable Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange between Ameimar, Mar Zutra, and Rav Ashi about throwing food, including the conflicting baraitot, which matches the current heading's prose that describes this entire episode.",
+      "chosen_heading": "Throwing Food",
+      "current_heading": "Throwing Food",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Unpalatable Standard",
+    "candidates": [
+      "Mar Zutra Story",
+      "Unpalatable Standard",
+      "Pouring and Throwing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the resolution of the contradiction between the two baraitot, which is set up in the 'Mar Zutra Story' prose \u2014 it directly follows the statement that 'two braitot appear to contradict each other' and provides the 'lo kashya' answer, making it belong under that heading rather than 'Unpalatable Standard' which discusses the implications and Tosafot's view after the resolution.",
+      "chosen_heading": "Mar Zutra Story",
+      "current_heading": "Unpalatable Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Pouring and Throwing",
+    "candidates": [
+      "Unpalatable Standard",
+      "Pouring and Throwing",
+      "Three Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes drawing wine through pipes and throwing roasted grain/nuts and cakes before a bride and groom, which exactly matches the 'Pouring and Throwing' section's prose discussion of these same topics.",
+      "chosen_heading": "Pouring and Throwing",
+      "current_heading": "Pouring and Throwing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Three Options",
+    "candidates": [
+      "Three Options",
+      "Reconciling Braitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Yehuda's statement about moving food to the side of the mouth, which is what section 0's prose explicitly introduces as the teaching that precedes the three braitot.",
+      "chosen_heading": "Three Options",
+      "current_heading": "Three Options",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Reconciling Braitot",
+    "candidates": [
+      "Reconciling Braitot",
+      "Waste Priority",
+      "Mouth Empty Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the three conflicting baraitot and their reconciliation (lo kashya), which is precisely what the 'Reconciling Braitot' section's prose describes.",
+      "chosen_heading": "Reconciling Braitot",
+      "current_heading": "Reconciling Braitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Mouth Empty Standard",
+    "candidates": [
+      "Waste Priority",
+      "Mouth Empty Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yitz\u1e25ak Kaskesa'a's teaching about 'My mouth will be filled with Your praise,' which is precisely what the 'Mouth Empty Standard' prose describes and analyzes.",
+      "chosen_heading": "Mouth Empty Standard",
+      "current_heading": "Mouth Empty Standard",
+      "moved": false
+    }
+  }
+]

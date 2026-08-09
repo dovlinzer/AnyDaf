@@ -90,8 +90,6 @@ The conclusion is striking: by *eruv techumin* everyone agrees any food works; b
 
 *U-frusa mai ta'ama lo* — why does Rabbi Yehoshua disqualify a broken loaf? Rabbi Yosi ben Shaul said in the name of Rabbi: *mishum eivah* — because of enmity or social rivalry. The concern is that if broken loaves were permitted, participants would begin comparing contributions: one person gives a whole loaf while another gives a partial loaf, and this gives rise to ill-feeling and competition. Just as there is a takkanah that on Tu B'Av all the young women should dress uniformly so as to eliminate the embarrassment of the less wealthy, so too by the *eruv* one requires a uniform standard — everyone gives a whole loaf — in order to prevent this sort of invidious comparison.
 
-### Escalation Concern
-
 ### Deterioration of Practice
 
 Rav Acha the son of Rava asked Rav Ashi: what if everyone agreed to give broken loaves? If the concern is only comparison between participants, and everyone brings the same broken piece, what objection remains? Rav Ashi responded: *shema yachzor davar le-kilkulo* — we fear that once one permits broken loaves even as a uniform practice, someone will then choose to demonstrate generosity by bringing a whole loaf, prompting others to respond in kind with even larger loaves, and the entire standardization unravels. Therefore, even a collective arrangement of broken loaves is disqualified, because it is inherently unstable and leads to the deterioration of the practice.
@@ -242,9 +240,7 @@ The rest of the year, however, the calculus is different. The buyer might prefer
 
 ### Biblical Kinyan Invoked
 
-Rav Ila said in the name of Rabbi Yochanan: *be-arba'ah perakim elu he'emidu chakhamim divreihem al divrei Torah* — at these four times of the year, the rabbis relied on the biblical rule rather than their own ordinance. *De-var Torah ma'ot konot* — biblically, money effects the transaction. The rabbis ordinarily override this with the requirement of *meshichah*, but at these four times, given the strong interest in protecting buyers' ability to obtain festive meat, the rabbis step back and allow the biblical law to operate: money alone finalizes the sale.
-
----
+At these four times of the year, the rabbis relied on the biblical rule rather than their own ordinance — *be-arba prakim elu he'emidu chakhamim divreihem al divrei Torah*. Ordinarily the rabbis require *meshichah* or *hagbahah* — physical acquisition of the object — to finalize a sale, but the Torah's own rule is that money effects the transaction. Here, in order to protect the buyer's interest in sealing the deal as quickly as possible, the rabbis step back and allow that biblical rule to operate: once the buyer pays, the transaction is binding.
 
 ## R. Eliezer's Analogy
 

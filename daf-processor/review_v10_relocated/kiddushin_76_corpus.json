@@ -1,0 +1,363 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Three Tradition Versions",
+    "candidates": [
+      "Three Tradition Versions",
+      "R. Yishmael: Gerei Arayot",
+      "Disqualified Priests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the chain of transmission (Rabin/Rabbi Chiyya bar Abba/Rabbi Yochanan with two alternative versions) and the statement that there are 'three divisions of opinions,' which is precisely what the prose of heading 0 describes as the opening of this sugya.",
+      "chosen_heading": "Three Tradition Versions",
+      "current_heading": "Three Tradition Versions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Disqualified Priests",
+    "candidates": [
+      "R. Yishmael: Gerei Arayot",
+      "Disqualified Priests",
+      "R. Akiva: Valid Converts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yishmael's view that Samaritans are lion converts and the priests among them were disqualified, with Rabbah bar bar Chana's drasha on 'min ha-kotzim sheba'am' \u2014 exactly the content described in the 'Disqualified Priests' section prose.",
+      "chosen_heading": "Disqualified Priests",
+      "current_heading": "Disqualified Priests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "R. Akiva: Valid Converts",
+    "candidates": [
+      "R. Akiva: Valid Converts",
+      "Kuti Yibum Practices",
+      "Third Opinion: Kutim",
+      "R. Elazar & Matzah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover Rabbi Akiva's position on Samaritan converts, the priests among them, and the reason they were forbidden (yibum with arusos/exempting nesuos) plus his mamzer ruling \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "R. Akiva: Valid Converts",
+      "current_heading": "R. Akiva: Valid Converts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "R. Elazar & Matzah Proof",
+    "candidates": [
+      "Kuti Yibum Practices",
+      "Third Opinion: Kutim",
+      "R. Elazar & Matzah Proof",
+      "Kiddushin & Gittin Issues",
+      "Mamzer Admixture",
+      "Why Both Mamzer Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in candidate 2's prose: the baraita about Kuti matzah identifying Rabbi Eliezer/Elazar as the 'yesh omrim,' Rabban Shimon ben Gamliel's counter-observation, and the Gemara's follow-up question resolved by explaining the Kutim's unfamiliarity with laws of kiddushin and geirushin \u2014 all of which are explicitly discussed in candidate 2's prose.",
+      "chosen_heading": "R. Elazar & Matzah Proof",
+      "current_heading": "R. Elazar & Matzah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Why Both Mamzer Types",
+    "candidates": [
+      "Kiddushin & Gittin Issues",
+      "Mamzer Admixture",
+      "Why Both Mamzer Types",
+      "Slave Admixture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man/Rabba bar Avuha's statement about the mamzer admixture, which is precisely what heading 1 ('Mamzer Admixture') introduces, while heading 2 ('Why Both Mamzer Types') covers only the Gemara's follow-up question about why both types are mentioned \u2014 the full passage including both the initial statement and the Q&A belongs under heading 1.",
+      "chosen_heading": "Mamzer Admixture",
+      "current_heading": "Why Both Mamzer Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Slave Admixture",
+    "candidates": [
+      "Why Both Mamzer Types",
+      "Slave Admixture",
+      "Bedika Rationale",
+      "Chezkat Kashrus & Actual",
+      "Four Mothers Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's explanation about slave/maidservant admixture and the question of why both are mentioned, which precisely matches the 'Slave Admixture' section's prose discussion of eved ve-shifchah nit'arvu bahen and the lama li tarti question.",
+      "chosen_heading": "Slave Admixture",
+      "current_heading": "Slave Admixture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Four Mothers Requirement",
+    "candidates": [
+      "Bedika Rationale",
+      "Chezkat Kashrus & Actual",
+      "Four Mothers Requirement",
+      "Leviya & Yisraelit",
+      "Temple Service Exemptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself introducing the bedika requirement, which belongs under 'Bedika Rationale' where the essay prose explicitly states 'the Gemara introduces a new Mishnah dealing with bedika' \u2014 the subsequent headings discuss the content derived from that Mishnah rather than its introduction.",
+      "chosen_heading": "Bedika Rationale",
+      "current_heading": "Four Mothers Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Temple Service Exemptions",
+    "candidates": [
+      "Leviya & Yisraelit",
+      "Temple Service Exemptions",
+      "Insult & Yichus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Mishnah's list of exemptions from lineage investigation \u2014 the altar/duchan/Sanhedrin cases (item 1) and the extensions by Rabbi Yosei and Rabbi \u1e24anina ben Antigonus (item 2) \u2014 which is precisely what the 'Temple Service Exemptions' prose discusses.",
+      "chosen_heading": "Temple Service Exemptions",
+      "current_heading": "Temple Service Exemptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Insult & Yichus",
+    "candidates": [
+      "Insult & Yichus",
+      "Chazaka Default",
+      "Rav's Lenient View",
+      "No Obligation for Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why women are investigated but not men, explaining the asymmetry through the nature of quarrels (women accuse of immoral acts, men attack yichus/lineage), which is precisely what the 'Insult & Yichus' prose discusses.",
+      "chosen_heading": "Insult & Yichus",
+      "current_heading": "Insult & Yichus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "No Obligation for Women",
+    "candidates": [
+      "Chazaka Default",
+      "Rav's Lenient View",
+      "No Obligation for Women",
+      "Twelve-Generation Variant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Rav's Lenient View') directly discusses both the Gemara's question about why she doesn't check him and Rav Yehuda citing Rav's ruling that fit women were not prohibited from marrying men of flawed lineage, matching the passage's content precisely.",
+      "chosen_heading": "Rav's Lenient View",
+      "current_heading": "No Obligation for Women",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Twelve-Generation Variant",
+    "candidates": [
+      "No Obligation for Women",
+      "Twelve-Generation Variant",
+      "R. Meir vs. Sages",
+      "Investigation on Ir'ur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the variant traditions of four mothers yielding twelve or sixteen, and how Rav Adda bar Ahava's version and the baraita's version relate to the Mishnah's 'od achat' \u2014 exactly the content described in the 'Twelve-Generation Variant' prose.",
+      "chosen_heading": "Twelve-Generation Variant",
+      "current_heading": "Twelve-Generation Variant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Investigation on Ir'ur",
+    "candidates": [
+      "R. Meir vs. Sages",
+      "Investigation on Ir'ur",
+      "Court Purity Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the R. Meir vs. Sages dispute (Rav Yehuda amar Rav: 'zo divrei Rabbi Meir, va-chachamim omrim kol mishpachot be-chezkat kashrut') together with the ir'ur qualification, which candidate 0's prose explicitly describes as the core content of that section, whereas candidate 1's prose treats the ir'ur tension as already established background and moves to its resolution.",
+      "chosen_heading": "R. Meir vs. Sages",
+      "current_heading": "Investigation on Ir'ur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Court Purity Standard",
+    "candidates": [
+      "Investigation on Ir'ur",
+      "Court Purity Standard",
+      "Domim Lecha Principle",
+      "Dayan Categories"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Court Purity Standard",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the Mishnah's exemptions from investigation (altar, platform, Sanhedrin) and the derivation from Song of Songs, which directly matches the 'Court Purity Standard' prose about ve-lo min ha-Sanhedrin and Mareimar's citation of Shir ha-Shirim 4:7.",
+      "second_heading": "Domim Lecha Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address the challenge that the verse refers to physical blemish and the responses using 'imach be-domin lach' from Numbers and Exodus, which directly matches the 'Domim Lecha Principle' prose about Rav Acha bar Yaakov's drasha and Rav Nachman's verse from Yitro's advice.",
+      "current_heading": "Court Purity Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Dayan Categories",
+    "candidates": [
+      "Domim Lecha Principle",
+      "Dayan Categories",
+      "Municipal Officials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about shotrei rabbim and psulim, the braisa about hakol kesherim, Rav Yehuda's inclusion of a mamzer, and Abaye's resolution via Yerushalayim \u2014 exactly what the 'Dayan Categories' prose describes.",
+      "chosen_heading": "Dayan Categories",
+      "current_heading": "Dayan Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Municipal Officials",
+    "candidates": [
+      "Municipal Officials",
+      "Public Dispute Revelation",
+      "Mekrev Achecha Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why charity collectors (gabai tzedaka) may marry into the priesthood \u2014 because they quarrel with people and any lineage defect would become public \u2014 which is precisely what the 'Municipal Officials' prose discusses.",
+      "chosen_heading": "Municipal Officials",
+      "current_heading": "Municipal Officials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Mekrev Achecha Standard",
+    "candidates": [
+      "Public Dispute Revelation",
+      "Mekrev Achecha Standard",
+      "Ger Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete episode of Rav Adda bar Ahava's host disputing with Rav Beivai, Rav Yosef's ruling on 'mi-kerev achecha,' and Abaye's concluding moral \u2014 exactly the content described in candidate 1's prose.",
+      "chosen_heading": "Mekrev Achecha Standard",
+      "current_heading": "Mekrev Achecha Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Ger Restrictions",
+    "candidates": [
+      "Ger Restrictions",
+      "Rambam's Requirement",
+      "Gerim in Sanhedrin",
+      "Two Sanhedrin Functions",
+      "Soloveitchik's Two Roles"
+    ],
+    "result": null
+  }
+]

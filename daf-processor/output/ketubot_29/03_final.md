@@ -1,6 +1,7 @@
-# Ketubot 29 — Daf Yomi Shiur
-
+[DAF:29a]
 ## Intro & Kim Lei
+
+
 
 ### Perek Overview
 
@@ -12,11 +13,9 @@ One of the major theoretical issues running through the *perek* is *kim lei b'de
 
 ## Na'arah Definition
 
-### Na'arah vs. Bogeres
 
-> **Hebrew/Aramaic:** מַתְנִי׳ אֵלּוּ נְעָרוֹת שֶׁיֵּשׁ לָהֶן קְנָס: הַבָּא עַל הַמַּמְזֶרֶת וְעַל הַנְּתִינָה וְעַל הַכּוּתִית, הַבָּא עַל הַגִּיּוֹרֶת וְעַל הַשְּׁבוּיָה וְעַל הַשִּׁפְחָה שֶׁנִּפְדּוּ וְשֶׁנִּתְגַּיְּירוּ וְשֶׁנִּשְׁתַּחְרְרוּ, פְּחוּתוֹת מִבְּנוֹת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד.
->
-> **Translation:** MISHNA: **These** are the cases of **young women for whom there is a fine** paid **to their** fathers by one who rapes them: **One who engages in intercourse with a *mamzeret*, or with a Gibeonite woman [*netina*],** who are given [*netunim*] to the service of the people and the altar (see Joshua 9:27), **or with a Samaritan woman [*kutit*].** In addition, the same applies to **one who engages in intercourse with a female convert, or with a captive woman, or with a maidservant,** provided **that** the captives **were ransomed,** or **that** the converts **converted, or that** the maidservants **were liberated** when they were **less than three years and one day old,** as only in that case do they maintain the presumptive status of a virgin.
+
+### Na'arah vs. Bogeres
 
 The *mishnah* opens: *elu na'aros sheyesh lahem knas* — the following young women have a *knas*. A *na'arah* is a young woman who has reached *bas mitzvah* but has not yet become a *bogeres*. Halachically, *na'arah* is defined as a girl who is twelve years and one day old and has produced two pubic hairs, indicating the onset of puberty. Six months after that stage she is presumed to have reached *bagrut* and become a *bogeres* — fully physically mature, and legally independent. There are discussions in the Gemara suggesting that the transition may depend not solely on age but on additional physical indicators signaling the completion of puberty; biologically, of course, puberty takes considerably longer than six months. But halachically the framework is fixed: twelve years and one day with two pubic hairs marks the *na'arah*, and six months later the *bogeres*.
 
@@ -26,11 +25,18 @@ It is universally agreed upon that when the Torah describes the case of a *na'ar
 
 ## Forbidden Women
 
+
+
 ### Mamzeres & Knas
 
 The *mishnah* begins its list with the more marginal cases — those where one might have supposed the *knas* would not apply — in order to teach explicitly that it does. *Haba al hamamzeres* — if he raped a woman who is a *mamzeres* — one might have thought that since the Torah bundles the fine together with the *mitzvah* to marry the woman, and since it is impossible to legally marry a *mamzeres* (unless one is also a *mamzer*), perhaps none of the *halachos* would apply at all. The *mishnah* therefore teaches that this is not so: even where he cannot marry her, he must still pay the *knas*.
 
+> **Hebrew/Aramaic:** אֵלּוּ נְעָרוֹת שֶׁיֵּשׁ לָהֶן קְנָס: הַבָּא עַל הַמַּמְזֶרֶת וְעַל הַנְּתִינָה וְעַל הַכּוּתִית, הַבָּא עַל הַגִּיּוֹרֶת וְעַל הַשְּׁבוּיָה וְעַל הַשִּׁפְחָה שֶׁנִּפְדּוּ וְשֶׁנִּתְגַּיְּירוּ וְשֶׁנִּשְׁתַּחְרְרוּ, פְּחוּתוֹת מִבְּנוֹת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד.
+> **Translation:** MISHNA: **These** are the cases of **young women for whom there is a fine** paid **to their** fathers by one who rapes them: **One who engages in intercourse with a *mamzeret*, or with a Gibeonite woman [*netina*],** who are given [*netunim*] to the service of the people and the altar (see Joshua 9:27), **or with a Samaritan woman [*kutit*].** In addition, the same applies to **one who engages in intercourse with a female convert, or with a captive woman, or with a maidservant,** provided **that** the captives **were ransomed,** or **that** the converts **converted, or that** the maidservants **were liberated** when they were **less than three years and one day old,** as only in that case do they maintain the presumptive status of a virgin.
+
 ## Rape & Ethics
+
+
 
 ### Shechem & Dinah
 
@@ -44,11 +50,14 @@ A serious pedagogical problem attends the study of this *perek*, and it deserves
 
 ## Forbidden Women (II)
 
+
+
 ### Netinah Category
 
 The *mishnah* continues: *v'al hanetinah* — and also if he raped a woman who is a *netinah*. There is a significant dispute between Rashi and Tosafot regarding the identity of the *netinim*. Rashi holds that the *netinim* are the Gibeonites — the *Givonim* — who made peace with Yehoshua. When Yehoshua realized they had deceived him, he made them into slaves to serve the *Beis HaMikdash*, as woodchoppers and water-drawers (*chotevei etzim*). According to Rashi, the prohibition against marrying a *netinah* stems from their slave status. This is somewhat difficult, however, because the relevant prohibition against marrying a slave would normally apply only to a non-Jewish slave, not a *shifcha Kena'anit* or an *eved Ivri* — categories that can in various ways involve marriage. Tosafot therefore offers a different explanation: the *netinim* are forbidden not because of slave status but because they are descendants of the *shiv'at amamim*, the seven Canaanite nations, and the prohibition of *lo titchaten bam* — do not intermarry with them — continues to apply even after they converted.
 
 ### Kutit/Samaritans
+
 
 The *mishnah* then adds: *v'al ha-Kutit* — and also a Samaritan woman. The question of what is problematic about marrying a Samaritan turns on a dispute about the validity of their conversion. According to Rashi, the *mishnah* is operating on the assumption that the Samaritans' conversion during the period of the *Bayit Sheini* was not considered valid — that they were *gerei arayot*, converts who adopted the religion of the land only because lions came and frightened them, not *gerei emet*, genuine converts. On that reading they would be non-Jews, which immediately creates a difficulty: a *knas* is paid only to a Jewish woman, as is clear from the earlier Gemara. If they are non-Jewish, there should be no *knas* at all.
 
@@ -56,11 +65,9 @@ Tosafot addresses this by assuming that the Samaritans did undergo a valid conve
 
 ## Non-Virgin Cases
 
-### Pre-3-Year-Old Rule
 
-> **Hebrew/Aramaic:** הַבָּא עַל הַגִּיּוֹרֶת וְעַל הַשְּׁבוּיָה וְעַל הַשִּׁפְחָה שֶׁנִּפְדּוּ וְשֶׁנִּתְגַּיְּירוּ וְשֶׁנִּשְׁתַּחְרְרוּ, פְּחוּתוֹת מִבְּנוֹת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד.
->
-> **Translation:** **One who engages in intercourse with a female convert, or with a captive woman, or with a maidservant,** provided **that** the captives **were ransomed,** or **that** the converts **converted, or that** the maidservants **were liberated** when they were **less than three years and one day old,** as only in that case do they maintain the presumptive status of a virgin.
+
+### Pre-3-Year-Old Rule
 
 The *mishnah* continues: *haba al ha-giyores v'al ha-shevuyah v'al ha-shifchah* — if he raped a convert, a captive woman, or a freed slave woman. These three constitute a second category, distinct from the first. The issue here is not a prohibition against marriage, but rather the presumption that these women may not be virgins. A woman who converted from non-Jewish status, or who was taken captive, or who had been a slave, may have had prior sexual experience — in which case she would not be a *betulah* and the *knas*, which is tied to virginity, would not apply.
 
@@ -68,11 +75,11 @@ The *mishnah* specifies: *shenifdu v'shenisgayru v'shenishtachreru pachos mibnos
 
 ## Karat Relatives
 
+
+
 ### Karat List
 
-> **Hebrew/Aramaic:** הַבָּא עַל אֲחוֹתוֹ, וְעַל אֲחוֹת אָבִיו, וְעַל אֲחוֹת אִמּוֹ, וְעַל אֲחוֹת אִשְׁתּוֹ, וְעַל אֵשֶׁת אָחִיו, וְעַל אֵשֶׁת אֲחִי אָבִיו, וְעַל הַנִּדָּה — יֵשׁ לָהֶם קְנָס, אַף עַל פִּי שֶׁהֵן בְּהִכָּרֵת — אֵין בָּהֶן מִיתַת בֵּית דִּין.
->
-> **Translation:** Similarly, **one who engages in intercourse with his sister,** i.e., he rapes her, **or with his father's sister, or with his mother's sister, or with his wife's sister, or with his brother's wife, or with his father's brother's wife** after they divorced, **or with a menstruating woman, there is a fine** paid. **Although there is *karet* for** engaging in relations with any of the women enumerated in this list, one is liable to pay the fine because **there is no court**-imposed **capital punishment.** In cases where there is a court-imposed death penalty, the rapist would be exempt from paying the fine.
+
 
 The *mishnah* presents a third category: *v'haba al achoso v'al achas aviv v'al achas imo v'al achas ishto v'al eshes achiv v'al eshes achi aviv* — if he raped his sister, his father's sister, his mother's sister, his wife's sister, his brother's wife, or his father's brother's wife. These are all cases of *chayavei krisos* — violations subject to *kares*. Several conditions must be met in each case for the *knas* to apply. In the case of the brother's wife, the brother must have either divorced her or died, since if the brother is still married to her she is a fully married woman, a different category entirely. And the woman must never have had intercourse with the brother, because she must still be a *betulah*. Similarly with the father's brother's wife: the uncle must have died or divorced her, and she must never have had relations with him.
 
@@ -82,26 +89,35 @@ The *mishnah* adds: *v'al ha-niddah* — and also a woman who is a *niddah*. Thi
 
 ### Karat vs. Knas
 
+> **Hebrew/Aramaic:** הַבָּא עַל אֲחוֹתוֹ, וְעַל אֲחוֹת אָבִיו, וְעַל אֲחוֹת אִמּוֹ, וְעַל אֲחוֹת אִשְׁתּוֹ, וְעַל אֵשֶׁת אָחִיו, וְעַל אֵשֶׁת אֲחִי אָבִיו, וְעַל הַנִּדָּה — יֵשׁ לָהֶם קְנָס, אַף עַל פִּי שֶׁהֵן בְּהִכָּרֵת — אֵין בָּהֶן מִיתַת בֵּית דִּין.
+> **Translation:** Similarly, **one who engages in intercourse with his sister,** i.e., he rapes her, **or with his father’s sister, or with his mother’s sister, or with his wife’s sister, or with his brother’s wife, or with his father’s brother’s wife** after they divorced, **or with a menstruating woman, there is a fine** paid. **Although there is *karet* for** engaging in relations with any of the women enumerated in this list, one is liable to pay the fine because **there is no court**-imposed **capital punishment.** In cases where there is a court-imposed death penalty, the rapist would be exempt from paying the fine.
+
 The *mishnah* concludes: *af al pi shehen b'hikhares ein bahen misat beis din* — although these women carry the punishment of *kares*, there is no *mitat beis din* — no court-imposed death penalty — and therefore in all these cases there is still a *knas*. This is the key distinction. The first category — *issur lav* — is notable because even though there is a negative prohibition, the *knas* applies, and moreover, while the marriage would be prohibited, it would be binding *bedi'eved*. The third category — *issur kares* — is more striking, because marriage would not be binding even after the fact, and one might have argued that the weightier punishment of *kares* overrides the monetary obligation through *kim lei b'derabbah minei*. The *mishnah* teaches that neither of these considerations eliminates the *knas*, provided the woman is still a *betulah* in each case.
 
 ## Meir vs. Chachamim
 
+
+
 ### Rabbi Meir View
 
-> **Hebrew/Aramaic:** גְּמָ׳ נַעֲרָה אִין, קְטַנָּה לָא. מַאן תַּנָּא? אָמַר רַב יְהוּדָה אָמַר רַב: רַבִּי מֵאִיר הִיא. דְּתַנְיָא: קְטַנָּה מִבַּת יוֹם אֶחָד וְעַד שֶׁתָּבִיא שְׁתֵּי שְׂעָרוֹת — יֵשׁ לָהּ מֶכֶר וְאֵין לָהּ קְנָס. וּמִשֶּׁתָּבִיא שְׁתֵּי שְׂעָרוֹת וְעַד שֶׁתִּיבְגַּר — יֵשׁ לָהּ קְנָס וְאֵין לָהּ מֶכֶר. דִּבְרֵי רַבִּי מֵאִיר. שֶׁהָיָה רַבִּי מֵאִיר אוֹמֵר: כׇּל מָקוֹם שֶׁיֵּשׁ מֶכֶר — אֵין קְנָס, וְכׇּל מָקוֹם שֶׁיֵּשׁ קְנָס — אֵין מֶכֶר.
->
-> **Translation:** GEMARA: The Gemara wonders: Is it **these young women** with **flawed** lineage listed in the mishna, **for whom there is a fine** paid if they are raped, while for young women with **unflawed** lineage, **no,** there is no fine? The Gemara explains that **this** is what the *tanna* **is saying: These are** the **young women** with **flawed** lineage **for whom there is a fine** paid if they are raped. This is not a comprehensive list; rather, the *tanna* enumerates those young women for whom a fine is paid despite their flawed lineage: **One who has relations with a *mamzeret*, or with a Gibeonite woman, or with a Samaritan woman.** The mishna teaches the *halakha* with regard to a young woman, from which the Gemara infers: With regard to **a young woman, yes,** one is liable to pay the fine if he rapes her, but with regard to **a minor, no,** one is not liable to pay the fine. **Who is** the ***tanna*** who maintains that one is liable for raping a young woman but not a minor? **Rav Yehuda said** that **Rav said:** The *tanna* **is Rabbi Meir, as it is taught** in a *baraita*: **With regard to a minor from** the age of **one day old until she grows two** pubic **hairs, there is** the possibility of **sale for her,** as her father may sell her as a Hebrew maidservant, **but there is no fine** paid **for her** if she is raped. **And once she grows two** pubic **hairs,** from that point **until she matures** into a grown woman **there is a fine for her,** as during that period she is a young woman, with regard to whom the Torah law of a rapist and a seducer applies, **but there is no** possibility of **sale for her.** Once she grows two hairs she is no longer under her father's control and can no longer be sold. This is **the statement of Rabbi Meir, as Rabbi Meir would state** a principle: **Any place where there is a sale, there is no fine; and any place where there is a fine, there is no sale.**
+> **Hebrew/Aramaic:** גְּמָ׳ הָנֵי נְעָרוֹת, פְּסוּלוֹת אִית לְהוּ קְנָס, כְּשֵׁירוֹת לָא?! הָכִי קָאָמַר: אֵלּוּ נְעָרוֹת פְּסוּלוֹת שֶׁיֵּשׁ לָהֶם קְנָס — הַבָּא עַל הַמַּמְזֶרֶת וְעַל הַנְּתִינָה וְעַל הַכּוּתִית.
+> **Translation:** GEMARA: The Gemara wonders: Is it **these young women** with **flawed** lineage listed in the mishna, **for whom there is a fine** paid if they are raped, while for young women with **unflawed** lineage, **no,** there is no fine? The Gemara explains that **this** is what the *tanna* **is saying: These are** the **young women** with **flawed** lineage **for whom there is a fine** paid if they are raped. This is not a comprehensive list; rather, the *tanna* enumerates those young women for whom a fine is paid despite their flawed lineage: **One who has relations with a *mamzeret*, or with a Gibeonite woman, or with a Samaritan woman.**
+
+> **Hebrew/Aramaic:** נַעֲרָה אִין, קְטַנָּה לָא. מַאן תַּנָּא?
+> **Translation:** The mishna teaches the *halakha* with regard to a young woman, from which the Gemara infers: With regard to **a young woman, yes,** one is liable to pay the fine if he rapes her, but with regard to **a minor, no,** one is not liable to pay the fine. **Who is** the ***tanna*** who maintains that one is liable for raping a young woman but not a minor?
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: רַבִּי מֵאִיר הִיא. דְּתַנְיָא: קְטַנָּה מִבַּת יוֹם אֶחָד וְעַד שֶׁתָּבִיא שְׁתֵּי שְׂעָרוֹת — יֵשׁ לָהּ מֶכֶר וְאֵין לָהּ קְנָס. וּמִשֶּׁתָּבִיא שְׁתֵּי שְׂעָרוֹת וְעַד שֶׁתִּיבְגַּר — יֵשׁ לָהּ קְנָס וְאֵין לָהּ מֶכֶר. דִּבְרֵי רַבִּי מֵאִיר. שֶׁהָיָה רַבִּי מֵאִיר אוֹמֵר: כׇּל מָקוֹם שֶׁיֵּשׁ מֶכֶר — אֵין קְנָס, וְכׇל מָקוֹם שֶׁיֵּשׁ קְנָס — אֵין מֶכֶר.
+> **Translation:** **Rav Yehuda said** that **Rav said:** The *tanna* **is Rabbi Meir, as it is taught** in a *baraita*: **With regard to a minor from** the age of **one day old until she grows two** pubic **hairs, there is** the possibility of **sale for her,** as her father may sell her as a Hebrew maidservant, **but there is no fine** paid **for her** if she is raped. **And once she grows two** pubic **hairs,** from that point **until she matures** into a grown woman **there is a fine for her,** as during that period she is a young woman, with regard to whom the Torah law of a rapist and a seducer applies, **but there is no** possibility of **sale for her.** Once she grows two hairs she is no longer under her father’s control and can no longer be sold. This is **the statement of Rabbi Meir, as Rabbi Meir would state** a principle: **Any place where there is a sale, there is no fine; and any place where there is a fine, there is no sale.**
 
 The Gemara notes that the *mishnah* speaks of a *na'arah* and infers that a *ketannah* is excluded. The Gemara asks: whose position is this? *Amar Rav Yehuda amar Rav* — Rav Yehuda said in the name of Rav — *Rabbi Meir hi*, it is the position of Rabbi Meir, as taught in a *braisa*. The *braisa* states: *ketannah mi-bat yom echad v'ad she-tavi shtei searot yesh lah mecher v'ein lah knas* — from the day she is born until she produces two pubic hairs and reaches twelve years old, the father may sell her as a slave (*shifchah*), as we read in Parshas Mishpatim, and during this period there is no *knas*. *U-mi-she-tavi shtei searot v'ad she-tivgar yesh lah knas v'ein lah mecher* — once she has the two hairs until she reaches full maturity as a *bogeres*, she has a *knas* and can no longer be sold. These are mutually exclusive categories according to Rabbi Meir: *kol makom she-yesh mecher ein knas v'chol makom she-yesh knas ein mecher* — wherever there is *mecher* there is no *knas*, and wherever there is *knas* there is no *mecher*.
 
+[DAF:29b]
 ### Chachamim View
 
-> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: קְטַנָּה מִבַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד וְעַד שֶׁתִּיבְגַּר — יֵשׁ לָהּ קְנָס.
->
-> **Translation:** **And the Rabbis say: With regard to a minor from** the age of **three years and one day old until she matures** into a grown woman, **there is a fine for her.**
+> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: קְטַנָּה מִבַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד וְעַד שֶׁתִּיבְגַּר — יֵשׁ לָהּ קְנָס. קְנָס אִין, מֶכֶר לָא?! אֵימָא:
+> **Translation:** **And the Rabbis say: With regard to a minor from** the age of **three years and one day old until she matures** into a grown woman, **there is a fine for her.** The Gemara asks: Is that to say that a **fine, yes,** there is, but a **sale, no,** there is not? Do the Rabbis maintain that the father has no right to sell his minor daughter? The Gemara emends the text: **Say:**
 
-> **Hebrew/Aramaic:** אַף קְנָס בִּמְקוֹם מֶכֶר.
->
+> **Hebrew/Aramaic:** אַף קְנָס בִּמְקוֹם מֶכֶר.
 > **Translation:** There is a **fine even in a place** where there is **sale.** That is, not only can a minor girl from the age of three be sold until she matures, but she also receives payment of the fine.
 
 The *Chachamim* disagree. They say: *ktana mi-bat shalosh shanim v'yom echad v'ad she-tivgar yesh lah knas* — from age three years and one day until she reaches full maturity, there is a *knas*. This creates an overlap with the period of *mecher*: from age three until twelve, the father can still sell her, since she is a *ketannah* under full paternal control, but at the same time the *knas* already applies because she is old enough for the act to be considered a halachic *biah*.
@@ -112,37 +128,35 @@ The Gemara clarifies the positions. According to Rabbi Meir, *mecher* and *knas*
 
 ## Marriage Requirement
 
-### Fitness to Marry
 
-> **Hebrew/Aramaic:** וְהָנֵי בְּנֵי קְנָסָא נִינְהוּ? וְאַמַּאי? אִיקְּרִי כָּאן: "וְלוֹ תִּהְיֶה לְאִשָּׁה", אִשָּׁה הָרְאוּיָה לוֹ!
->
-> **Translation:** The Gemara questions the basic *halakha* that one who rapes young women of flawed lineage is liable to pay the fine: **And are these** young women **entitled** to the **fine? But why? I read here** with regard to a rapist: **"And to him she shall be as a wife"** (Deuteronomy 22:29), from which the Sages derived that only **a wife who is suitable for him** is eligible to receive payment of a fine from a rapist.
+
+### Fitness to Marry
 
 Having established this debate, the Gemara returns to the main point of the *mishnah*: that even these women who cannot be married by the rapist still receive a *knas*. The Gemara asks: *ve-hanei bnei knasa ninhu?* — are these women really subject to the *knas*? *Ve-amai?* — why? The Torah says *v'lo tihiyeh l'ishah* — she shall be to him as a wife — which implies, *isha ha-rauyah lo*, a woman who is fitting for him, someone he could in theory marry. Should not all these forbidden women be excluded? The reason the *knas* is not simply identical to a requirement of actual marriage is that the woman could refuse, or he might not be able to marry her for other reasons, and the *knas* is still paid. But at minimum she ought to be someone who *could* in principle be married.
 
+> **Hebrew/Aramaic:** וְהָנֵי בְּנֵי קְנָסָא נִינְהוּ? וְאַמַּאי? אִיקְּרִי כָּאן: ״וְלוֹ תִּהְיֶה לְאִשָּׁה״, אִשָּׁה הָרְאוּיָה לוֹ! אָמַר רֵישׁ לָקִישׁ: ״נַעֲרָה״, ״נַעֲרָה״, ״הַנַּעֲרָה״. חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.
+> **Translation:** § The Gemara questions the basic *halakha* that one who rapes young women of flawed lineage is liable to pay the fine: **And are these** young women **entitled** to the **fine? But why? I read here** with regard to a rapist: **“And to him she shall be as a wife”** (Deuteronomy 22:29), from which the Sages derived that only **a wife who is suitable for him** is eligible to receive payment of a fine from a rapist. **Reish Lakish said** that one verse states: “If a man finds a young woman” (Deuteronomy 22:28), and another states: “And he shall give to the father of the young woman” (Deuteronomy 22:29). This is tantamount to three mentions: **Young woman, young woman, the young woman,** as the superfluous definite article is interpreted as a third mention of the term. **One** mention is required **to** teach the matter **itself,** that one who rapes a young woman is liable to pay a fine; **and one** is **to include** payment of a fine to those young women for whose rape one is **liable for** violating **prohibitions; and one** is **to include** payment of a fine to those young women for whose rape one is **liable to** receive ***karet*.**
+
 ## Textual Redundancy
+
+
 
 ### Reish Lakish
 
-> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ: "נַעֲרָה", "נַעֲרָה", "הַנַּעֲרָה". חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.
->
-> **Translation:** **Reish Lakish said** that one verse states: "If a man finds a young woman" (Deuteronomy 22:28), and another states: "And he shall give to the father of the young woman" (Deuteronomy 22:29). This is tantamount to three mentions: **Young woman, young woman, the young woman,** as the superfluous definite article is interpreted as a third mention of the term. **One** mention is required **to** teach the matter **itself,** that one who rapes a young woman is liable to pay a fine; **and one** is **to include** payment of a fine to those young women for whose rape one is **liable for** violating **prohibitions; and one** is **to include** payment of a fine to those young women for whose rape one is **liable to** receive ***karet*.
 
 Reish Lakish answers that the Torah uses the word *na'arah* in redundant ways that allow for additional *drashos*. The *pasuk* says *ki yimtza ish na'arah betulah* — once — and then says *v'natan le-avi ha-na'arah* — to the father of the *na'arah*. That second mention, *ha-na'arah*, is understood as extra: the Torah could have said *le-aviha*, to her father. By saying *le-avi ha-na'arah*, the definite form counts as two words — *na'arah* and *ha-na'arah* — since it could have said simply *na'arah* without the definite article. *Chad legufei* — one usage is needed simply to establish that the victim must be a *na'arah* and not a *bogeres*. *V'chad le-atuyei chayavei lavin* — the extra word teaches that even women for whom there is a negative prohibition to marry are included. *V'chad le-atuyei chayavei krisos* — and the further extra word teaches that even women carrying an *issur kares* are included.
 
 ### Rav Pappa
 
-> **Hebrew/Aramaic:** רַב פָּפָּא אָמַר: "בְּתוּלָה", "בְּתוּלוֹת", "הַבְּתוּלוֹת". חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.
->
-> **Translation:** **Rav Pappa said:** This is derived from the *halakha* of the seducer, as the verses state: "And if a man seduce a virgin…he shall weigh money like the dowry of the virgins" (Exodus 22:15–16). This is tantamount to three mentions: **Virgin, virgins, the virgins. One** mention is required **to** teach the matter **itself; and one** is **to include** those young women for whose rape one is **liable for** violating **prohibitions; and one** is **to include** those young women for whom one who rapes them is **liable to** receive ***karet*.
+> **Hebrew/Aramaic:** רַב פָּפָּא אָמַר: ״בְּתוּלָה״, ״בְּתוּלוֹת״, ״הַבְּתוּלוֹת״. חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.
+> **Translation:** **Rav Pappa said:** This is derived from the *halakha* of the seducer, as the verses state: “And if a man seduce a virgin…he shall weigh money like the dowry of the virgins” (Exodus 22:15–16). This is tantamount to three mentions: **Virgin, virgins, the virgins. One** mention is required **to** teach the matter **itself; and one** is **to include** those young women for whose rape one is **liable for** violating **prohibitions; and one** is **to include** those young women for whom one who rapes them is **liable to** receive ***karet*.**
 
 Rav Pappa derives the same provisions from a different source: *betulah betulah ha-betulos*. In the case of the seducer (*mefateh*), the Torah says *v'ki yefateh ish betulah asher lo orasa v'shachav imah* — if a man seduces a *betulah* who is not betrothed — which is needed for its own sake. It then says *ke-mohar ha-betulos* — like the *mohar* of virgins — where it could have simply said *ke-mohar* or *ke-mohar ha-betulah*. The plural *ha-betulos* is treated as contributing two words. *Chad legufei*, one for its own sake; *v'chad le-atuyei chayavei lavin*, one to include those with a negative prohibition; *v'chad le-atuyei chayavei krisos*, one to include those with *kares*.
 
 ### Abaye's Rule
 
-> **Hebrew/Aramaic:** וְרַב פָּפָּא מַאי טַעְמָא לָא אָמַר כְּרֵישׁ לָקִישׁ? הָהוּא מִיבְּעֵי לֵיהּ לְכִדְאַבָּיֵי. דְּאָמַר אַבָּיֵי: בָּא עָלֶיהָ וּמֵתָה — פָּטוּר, שֶׁנֶּאֱמַר: "וְנָתַן לַאֲבִי הַנַּעֲרָה". לַאֲבִי נַעֲרָה, וְלֹא לַאֲבִי מֵתָה.
->
-> **Translation:** The Gemara asks: **And Rav Pappa, what is the reason** that **he did not cite** the source **as Reish Lakish** did? The Gemara answers: **That** derivation from the three instances of the term young woman is **required by him to** teach **in accordance with that** which **Abaye** said, **as Abaye said:** If one **engaged in** forced **intercourse with** a young woman **and she died** before he stood trial, he is **exempt** from paying the fine, **as it is stated: "And he shall give to the father of the young woman"** (Deuteronomy 22:29). From the fact that the verse does not simply say: To her father, it is inferred: **To the father of the young woman and not to the father of a dead** woman. He is liable only if the young woman is still alive.
+> **Hebrew/Aramaic:** וְרַב פָּפָּא מַאי טַעְמָא לָא אָמַר כְּרֵישׁ לָקִישׁ? הָהוּא מִיבְּעֵי לֵיהּ לְכִדְאַבָּיֵי. דְּאָמַר אַבָּיֵי: בָּא עָלֶיהָ וּמֵתָה — פָּטוּר, שֶׁנֶּאֱמַר: ״וְנָתַן לַאֲבִי הַנַּעֲרָה״. לַאֲבִי נַעֲרָה, וְלֹא לַאֲבִי מֵתָה.
+> **Translation:** The Gemara asks: **And Rav Pappa, what is the reason** that **he did not cite** the source **as Reish Lakish** did? The Gemara answers: **That** derivation from the three instances of the term young woman is **required by him to** teach **in accordance with that** which **Abaye** said, **as Abaye said:** If one **engaged in** forced **intercourse with** a young woman **and she died** before he stood trial, he is **exempt** from paying the fine, **as it is stated: “And he shall give to the father of the young woman”** (Deuteronomy 22:29). From the fact that the verse does not simply say: To her father, it is inferred: **To the father of the young woman and not to the father of a dead** woman. He is liable only if the young woman is still alive.
 
 The Gemara then asks why Rav Pappa did not simply use Reish Lakish's *drasha* from *na'arah*. The answer is that Rav Pappa needed the word *na'arah* to derive what Abaye teaches. *De-amar Abaye: ba'ah le-ha'amadah patur* — if the girl died before the time came to pay the fine, the rapist is exempt. The source for this ruling is *v'natan le-avi ha-na'arah* — and he shall give to the father of the *na'arah* — not *le-aviha*, to her father in the abstract. The definite form *ha-na'arah* implies that at the moment of payment she must be identifiable and present as a *na'arah*, meaning she must still be alive. *Le-avi ha-na'arah v'lo le-avi mesah* — to the father of the *na'arah*, not to the father of a dead woman.
 
@@ -150,47 +164,46 @@ This ruling opens a deeper conceptual question: when the father receives the *kn
 
 ### Six Words Rule
 
-> **Hebrew/Aramaic:** אֱלָּא: שִׁיתָּא קְרָאֵי כְּתִיבִי? "נַעֲרָה" "נַעֲרָה" "הַנַּעֲרָה". "בְּתוּלָה" "בְּתוּלוֹת" "הַבְּתוּלוֹת", תְּרֵי לְגוּפַיְיהוּ, חַד לְכִדְאַבָּיֵי, וְחַד לִגְזֵירָה שָׁוָה. אִיַּיתַּרוּ לֵיהּ תְּרֵי. חַד — לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד — לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.
->
-> **Translation:** **Rather,** there are **six verses written,** and both Reish Lakish and Rav Pappa derive matters from all of them. In the two passages discussing the rapist and the seducer, it is written: **Young woman, young woman, the young woman; virgin, virgins, the virgins. Two** mentions are required **to** teach the matters **themselves,** the basic *halakhot* of a rapist and a seducer; **one** mention is needed **to** teach **in accordance with that** which **Abaye** said; **and one** mention is necessary **to** derive **a verbal analogy** with regard to the dowry of virgins. **Two** mentions of the term **remain for him; one** is **to include** those young women for whose rape one is **liable for** violating **prohibitions, and one** is **to include** those young women for whom one who rapes them is **liable to** receive ***karet*.
+> **Hebrew/Aramaic:** וְרֵישׁ לָקִישׁ מַאי טַעְמָא לָא אָמַר כְּרַב פָּפָּא? הָהוּא מִיבְּעֵי לֵיהּ לִגְזֵירָה שָׁוָה. דְּתַנְיָא: ״כֶּסֶף יִשְׁקוֹל כְּמוֹהַר הַבְּתוּלוֹת״, שֶׁיְּהֵא זֶה כְּמוֹהַר הַבְּתוּלוֹת, וּמוֹהַר הַבְּתוּלוֹת כָּזֶה. וְרֵישׁ לָקִישׁ נָמֵי, מִיבְּעֵי לֵיהּ לְכִדְאַבָּיֵי. וְרַב פָּפָּא נָמֵי, מִיבְּעֵי לֵיהּ לִגְזֵירָה שָׁוָה!
+> **Translation:** The Gemara asks: **And Reish Lakish, what is the reason** that **he did not cite** the source **as Rav Pappa** did? The Gemara answers: **That** derivation from the three instances of the term virgin is **required by him to** derive **a verbal analogy, as it is taught** in a *baraita* that it is written with regard to a seducer: **“He shall weigh [*yishkol*] money like the dowry of the virgins”** (Exodus 22:16), from which it is derived **that this** fine of a seducer **should be** a sum of fifty *sela* **like the dowry of the virgins** specified in the case of a rapist; **and the dowry of the virgins must be** paid in *sela* **like this** fine of the seducer. Therefore, Reish Lakish holds that no additional matters may be derived from the term virgins. The Gemara asks: **And** for **Reish Lakish too,** isn’t it **required by him to** teach **in accordance with that** which **Abaye** said? **And** similarly, for **Rav Pappa,** isn’t it **required by him to** derive **a verbal analogy?**
 
-The Gemara then observes that both Reish Lakish and Rav Pappa need their respective words for different purposes, and asks how either of them can derive the inclusion of *chayavei lavin* and *chayavei krisos* if each extra word is already spoken for. The resolution is that there are in fact six words combined: *na'arah, na'arah, ha-na'arah* (from the *pasuk* dealing with the rapist) and *betulah, betulos, ha-betulos* (from the *pasuk* dealing with the seducer). *Trei l'gufeih* — two are needed for the plain sense of the *pesukim*, one *na'arah* and one *betulah*. *Chad l'chid'Abaye* — one of the *na'arah* forms teaches Abaye's rule that she must be alive at the time of payment. *V'chad l'gezeirah shavah* — one of the *betulah* forms is needed for the *gezeirah shavah* linking the two cases. And the remaining two — one extra *na'arah* and one extra *betulah* — serve to include *chayavei lavin* and *chayavei krisos* respectively. *Yasiri lehu trei, chad l'atuyei chayvei lavin v'chad l'atuyei chayvei keritot.*
+> **Hebrew/Aramaic:** אֶלָּא: שִׁיתָּא קְרָאֵי כְּתִיבִי? ״נַעֲרָה״ ״נַעֲרָה״ ״הַנַּעֲרָה״. ״בְּתוּלָה״ ״בְּתוּלוֹת״ ״הַבְּתוּלוֹת״, תְּרֵי לְגוּפַיְיהוּ, חַד לְכִדְאַבָּיֵי, וְחַד לִגְזֵירָה שָׁוָה. אִיַּיתַּרוּ לֵיהּ תְּרֵי. חַד — לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד — לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.
+> **Translation:** **Rather,** there are **six verses written,** and both Reish Lakish and Rav Pappa derive matters from all of them. In the two passages discussing the rapist and the seducer, it is written: **Young woman, young woman, the young woman; virgin, virgins, the virgins. Two** mentions are required **to** teach the matters **themselves,** the basic *halakhot* of a rapist and a seducer; **one** mention is needed **to** teach **in accordance with that** which **Abaye** said; **and one** mention is necessary **to** derive **a verbal analogy** with regard to the dowry of virgins. **Two** mentions of the term **remain for him; one** is **to include** those young women for whose rape one is **liable for** violating **prohibitions, and one** is **to include** those young women for whom one who rapes them is **liable to** receive ***karet*.** Reish Lakish and Rav Pappa do not disagree; the derivation of each complements that of the other.
+
+The Gemara then observes that both Reish Lakish and Rav Pappa need their respective words for different purposes, and asks how either of them can derive the inclusion of *chayavei lavin* and *chayavei krisos* if each extra word is already spoken for. The resolution is that there are in fact six words combined: *na'arah, na'arah, ha-na'arah* (from the *pasuk* dealing with the rapist) and *betulah, betulot, ha-betulos* (from the *pasuk* dealing with the seducer). *Trei l'gufeih* — two are needed for the plain sense of the *pesukim*, one *na'arah* and one *betulah*. *Chad l'chid'Abaye* — one of the *na'arah* forms teaches Abaye's rule that she must be alive at the time of payment. *V'chad l'gezeirah shavah* — one of the *betulah* forms is needed for the *gezeirah shavah* linking the two cases. And the remaining two — one extra *na'arah* and one extra *betulah* — serve to include *chayavei lavin* and *chayavei krisos* respectively. *Yasiri lehu trei, chad l'atuyei chayvei lavin v'chad l'atuyei chayvei keritot.*
 
 It is worth pausing to note what the *gezeirah shavah* accomplishes. The *pasuk* by the *mefateh* says *kesef yishkol ke-mohar ha-betulos* — he shall pay money like the *mohar* of virgins — without specifying a quantity. The *pasuk* by the *ones* says *v'natan le-avi ha-na'arah chamishim kesef* — fifty *kesef* — without specifying the denomination. From the seducer's case we know a number but not the coin; from the rapist's case we know the coin is *shekel* from context, but not which number applies to the seducer. The *gezeirah shavah* linking *betulos* here to the fifty over there allows us to derive: fifty *shekel* in both cases.
 
 ## Shimeon Positions
 
+
+
 ### Hatimni View
 
-> **Hebrew/Aramaic:** וּלְאַפּוֹקֵי מֵהַאי תַּנָּא, דְּתַנְיָא: "וְלוֹ תִּהְיֶה לְאִשָּׁה", שִׁמְעוֹן הַתִּימְנִי אוֹמֵר: אִשָּׁה שֶׁיֵּשׁ בָּהּ הֲוָיָה.
->
-> **Translation:** § The Gemara comments: **And** the mishna comes **to exclude** the opinion **of this *tanna*, as it is taught** in a *baraita* that it is written: **"And to him she shall be [*tihye*] as a wife"** (Deuteronomy 22:29). **Shimon HaTimni says:** This is referring to **a woman for whom there is betrothal [*havaya*].** If one betroths a woman with whom relations are punishable by *karet*, the betrothal does not take effect.
+> **Hebrew/Aramaic:** וּלְאַפּוֹקֵי מֵהַאי תַּנָּא, דְּתַנְיָא: ״וְלוֹ תִּהְיֶה לְאִשָּׁה״, שִׁמְעוֹן הַתִּימְנִי אוֹמֵר: אִשָּׁה שֶׁיֵּשׁ בָּהּ הֲוָיָה. רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר: אִשָּׁה הָרְאוּיָה לְקַיְּימָהּ.
+> **Translation:** § The Gemara comments: **And** the mishna comes **to exclude** the opinion **of this *tanna*, as it is taught** in a *baraita* that it is written: **“And to him she shall be [*tihye*] as a wife”** (Deuteronomy 22:29). **Shimon HaTimni says:** This is referring to **a woman for whom there is betrothal [*havaya*].** If one betroths a woman with whom relations are punishable by *karet*, the betrothal does not take effect. **Rabbi Shimon ben Menasya says:** This is referring to **a woman who is suitable for** him to **sustain,** whom he need not divorce due to her flawed lineage.
 
 The Gemara turns to alternative positions that the *mishnah* is implicitly rejecting. A *braisa* teaches the view of Shimon Hatimni: *v'lo tihiyeh l'ishah* — she shall be to him as a wife — this means only a woman for whom the *havayah* of marriage would be binding: *isha she'yesh bah havayah*. Since *kiddushin* does not take effect with *chayavei krisos*, those women would be excluded from the *knas* according to Shimon Hatimni. Women subject only to an *issur lav* would still be included, because marriage to them, while prohibited, would be binding *bedi'eved*.
 
 ### Ben Azai View
 
-> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר: אִשָּׁה הָרְאוּיָה לְקַיְּימָהּ.
->
-> **Translation:** **Rabbi Shimon ben Menasya says:** This is referring to **a woman who is suitable for** him to **sustain,** whom he need not divorce due to her flawed lineage.
-
 Rabbi Shimon ben Azai goes further, deriving from *v'lo tihiyeh* — with emphasis on *lo*, for him — that the woman must be *isha ha-re'uyah lekayma*, a woman fitting for him to remain married to. This means she must be completely permitted (*mutar*), not merely capable of a binding marriage. On this reading, even *chayavei lavin* — where marriage is prohibited but would be binding — would be excluded from the *knas*.
 
 ### Rav Zeira
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אָמַר רַבִּי זֵירָא: מַמְזֶרֶת וּנְתִינָה אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר יֵשׁ בָּהּ הֲוָיָה, הָא נָמֵי יֵשׁ בָּהּ הֲוָיָה. לְמַאן דְּאָמַר רְאוּיָה לְקַיְּימָהּ, הָא אֵינָהּ רְאוּיָה לְקַיְּימָהּ.
->
+> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אָמַר רַבִּי זֵירָא: מַמְזֶרֶת וּנְתִינָה אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר יֵשׁ בָּהּ הֲוָיָה, הָא נָמֵי יֵשׁ בָּהּ הֲוָיָה. לְמַאן דְּאָמַר רְאוּיָה לְקַיְּימָהּ, הָא אֵינָהּ רְאוּיָה לְקַיְּימָהּ.
 > **Translation:** The Gemara begins its analysis of the *baraita* with the question: **What is** the practical difference **between** the statements of Shimon HaTimni and Rabbi Shimon ben Menasya? The Gemara explains that **Rabbi Zeira said:** The difference **between their** opinions is with regard to **a *mamzeret* or a Gibeonite woman,** or any other woman who is forbidden but for whom betrothal takes effect. **According to the one who said** that the criterion is whether **there is betrothal,** for **this** woman **there is also betrothal.** If a Jewish man betroths a *mamzeret* or a Gibeonite woman, although it is prohibited to do so, the betrothal takes effect. However, **according to the one who said** that the criterion is whether the woman is **suitable for** him to **sustain, this** woman **is not suitable for** him to **sustain,** since due to the prohibition he is obligated to divorce her.
 
 Rav Zeira identifies the practical difference between these two positions: *mamzeres u'nesina ika beinaihu*. A *mamzeres* or a *netinah* — their marriages are prohibited, but marriage with them would be binding *bedi'eved*. According to Shimon Hatimni, who requires only that the marriage be binding (*havayah*), a *mamzeres* and a *netinah* would be included in the *knas*: *hai nami yesh bah havayah*. According to Rabbi Shimon ben Azai, who requires that the woman actually be fitting to remain married to (*re'uyah lekayma*), a *mamzeres* and a *netinah* would be excluded: *ha einah re'uyah lekayma*. Our *mishnah* rejects both positions and rules that the *knas* applies regardless — whether *issur lav* or *issur kares*, the fine is paid.
 
 ## Rabbi Akiva
 
+
+
 ### Akiva Rule
 
-> **Hebrew/Aramaic:** וּלְרַבִּי עֲקִיבָא דְּאָמַר: אֵין קִידּוּשִׁין תּוֹפְסִין בְּחַיָּיבֵי לָאוִין, מַאי בֵּינַיְיהוּ! אִיכָּא בֵּינַיְיהוּ אַלְמָנָה לְכֹהֵן גָּדוֹל, כְּרַבִּי סִימַאי, דְּתַנְיָא: רַבִּי סִימַאי אוֹמֵר: מִן הַכֹּל עוֹשֶׂה רַבִּי עֲקִיבָא מַמְזֵרִין, חוּץ מֵאַלְמָנָה לְכֹהֵן גָּדוֹל. שֶׁהֲרֵי אָמְרָה תּוֹרָה: "לֹא יִקַּח ... וְלֹא יְחַלֵּל" — חִילּוּלִין הוּא עוֹשֶׂה, וְאֵין עוֹשֶׂה מַמְזֵרִין.
->
-> **Translation:** The Gemara asks: **And according to Rabbi Akiva, who said: Betrothal does not take effect for** women for whose rape one is **liable for** violating **prohibitions, what is** the difference **between them?** According to his opinion, betrothal of a *mamzeret* does not take effect either. The Gemara answers: The difference **between their** statements is the case of **a widow** raped **by a High Priest, in accordance with** the opinion of **Rabbi Simai, as it is taught** in a *baraita* that **Rabbi Simai says: Rabbi Akiva deems** children **from all** illicit relations ***mamzerim*, except for a** child born **from a widow to a High Priest, as the Torah said:** "A widow and a divorcée **he shall not take…and he shall not profane [*yeḥallel*]** his seed among his people" (Leviticus 21:14–15), from which it is derived: If he has a child with a widow **he creates *ḥillulin*,** i.e., the male offspring of those relations is a *ḥalal*, disqualified from the priesthood, and the female offspring is a *ḥalala*, unfit to marry a priest, **but he does not create *mamzerim*.** Apparently, in that case, the betrothal does take effect.
+> **Hebrew/Aramaic:** וּלְרַבִּי עֲקִיבָא דְּאָמַר: אֵין קִידּוּשִׁין תּוֹפְסִין בְּחַיָּיבֵי לָאוִין, מַאי בֵּינַיְיהוּ! אִיכָּא בֵּינַיְיהוּ אַלְמָנָה לְכֹהֵן גָּדוֹל, כְּרַבִּי סִימַאי, דְּתַנְיָא: רַבִּי סִימַאי אוֹמֵר: מִן הַכֹּל עוֹשֶׂה רַבִּי עֲקִיבָא מַמְזֵרִין, חוּץ מֵאַלְמָנָה לְכֹהֵן גָּדוֹל. שֶׁהֲרֵי אָמְרָה תּוֹרָה: ״לֹא יִקַּח ... וְלֹא יְחַלֵּל״ — חִילּוּלִין הוּא עוֹשֶׂה, וְאֵין עוֹשֶׂה מַמְזֵרִין.
+> **Translation:** The Gemara asks: **And according to Rabbi Akiva, who said: Betrothal does not take effect for** women for whose rape one is **liable for** violating **prohibitions, what is** the difference **between them?** According to his opinion, betrothal of a *mamzeret* does not take effect either. The Gemara answers: The difference **between their** statements is the case of **a widow** raped **by a High Priest, in accordance with** the opinion of **Rabbi Simai, as it is taught** in a *baraita* that **Rabbi Simai says: Rabbi Akiva deems** children **from all** illicit relations ***mamzerim*, except for a** child born **from a widow to a High Priest, as the Torah said:** “A widow and a divorcée **he shall not take…and he shall not profane [*yeḥallel*]** his seed among his people” (Leviticus 21:14–15), from which it is derived: If he has a child with a widow **he creates *ḥillulin*,** i.e., the male offspring of those relations is a *ḥalal*, disqualified from the priesthood, and the female offspring is a *ḥalala*, unfit to marry a priest, **but he does not create *mamzerim*.** Apparently, in that case, the betrothal does take effect.
 
 The Gemara digresses to explore an adjacent question. According to Rabbi Akiva, *ein kiddushin tofsim b'chayavei lavin* — betrothal does not take effect with women subject to a negative prohibition. If that is so, then for Rabbi Akiva the distinction between the two positions above collapses: whether you require binding marriage or permitted marriage, the result is the same, since even *chayavei lavin* cannot be married bindingly according to Rabbi Akiva. What then would be the *nafka mina* between those two positions for Rabbi Akiva? The Gemara answers: *ika beinaihu almanah le-kohen gadol* — the case of a widow married to a *kohen gadol*. This is an *issur lav*, yet a unique *braisa* teaches: *detanya Rabbi Simai omer min ha-kol osir Rabbi Akiva mamzerim* — Rabbi Akiva would declare children *mamzerim* from all forbidden unions, *chutz me'almanah le-kohen gadol*, except for the case of a widow with a *kohen gadol*.
 
@@ -202,23 +215,31 @@ The reason the *almanah le-kohen gadol* case is different, the Gemara explains, 
 
 ## Yeshevav Position
 
-### Yeshevav All Case
 
-> **Hebrew/Aramaic:** וּלְרַבִּי יְשֵׁבָב, דְּאָמַר: בּוֹאוּ וְנִצְוַח עַל עֲקִיבָא בֶּן יוֹסֵף, שֶׁהָיָה אוֹמֵר: כֹּל שֶׁאֵין לוֹ בִּיאָה בְּיִשְׂרָאֵל — הַוָּלָד מַמְזֵר.
->
-> **Translation:** The Gemara asks: **And according to Rabbi Yeshevav, who said: Come, let us scream at Akiva ben Yosef,** who is proliferating *mamzerim*, **as he would say:** With regard to **anyone who does not have** the possibility of permitted **relations in the Jewish people,** including a widow with a High Priest, **the offspring is a *mamzer*, what is** the difference **between their** opinions, between the one who said that a fine is paid to women with whom the betrothal takes effect and the one who said that a fine is paid to women suitable for one to sustain? Rabbi Yeshevav maintains that betrothal does not take effect even in the case of a widow to a High Priest.
+
+### Yeshevav All Case
 
 The Gemara continues: *u'le-Rabbi Yeshevav* — and according to Rabbi Yeshevav, *d'amar bo v'nitztavei'ach al Akiva ben Yosef* — who said: come, let us cry out against Akiva the son of Yosef — *she-haya omer kol she'ein bo biah b'Yisrael ha-vlad mamzer* — who taught that any forbidden act of intercourse whatsoever produces a *mamzer*. The expression of outrage built into the way Rabbi Yeshevav formulates his criticism is itself significant: it reflects the enormity of the category he is attributing to Rabbi Akiva. If literally every forbidden union produced a *mamzer*, the number of *mamzerim* would be staggering. The Gemara is interested in whether *kol* — all — truly means all, or whether Rabbi Yeshevav is only pushing back against one specific position.
 
 ### Yeshevav Limited
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ בְּעוּלָה לְכֹהֵן גָּדוֹל. וּמַאי שְׁנָא? דְּהָוֵה לֵיהּ עֲשֵׂה שֶׁאֵינוֹ שָׁוֶה בַּכֹּל.
->
-> **Translation:** The Gemara answers: **There is** a difference **between them** in the case of **a non-virgin** raped **by a High Priest. And** the Gemara asks: Here, too, she is a woman for relations with whom one is liable for violating a positive mitzva, as the High Priest fails to fulfill the mitzva "But a virgin of his own people shall he take to wife" (Leviticus 21:14). If Rabbi Akiva rules that betrothal does not take effect when a positive mitzva is violated, **what is different** about this case? The Gemara answers: It is different **because it is a positive** mitzva **whose** application **is not equal for all.** There are two lenient aspects to this mitzva: It is a positive mitzva and not a prohibition, and it applies only to the High Priest and not to all Jews. Even Rabbi Yeshevav would agree that according to Rabbi Akiva, a child born from relations between a High Priest and a non-virgin is not a *mamzer*. However, the High Priest may not sustain the woman as his wife. Therefore, this case is the practical difference between the statements of Shimon HaTimni and Rabbi Shimon ben Menasya.
+> **Hebrew/Aramaic:** וּלְרַבִּי יְשֵׁבָב, דְּאָמַר: בּוֹאוּ וְנִצְוַח עַל עֲקִיבָא בֶּן יוֹסֵף, שֶׁהָיָה אוֹמֵר: כֹּל שֶׁאֵין לוֹ בִּיאָה בְּיִשְׂרָאֵל — הַוָּלָד מַמְזֵר. מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ
+> **Translation:** The Gemara asks: **And according to Rabbi Yeshevav, who said: Come, let us scream at Akiva ben Yosef,** who is proliferating *mamzerim*, **as he would say:** With regard to **anyone who does not have** the possibility of permitted **relations in the Jewish people,** including a widow with a High Priest, **the offspring is a *mamzer*, what is** the difference **between their** opinions, between the one who said that a fine is paid to women with whom the betrothal takes effect and the one who said that a fine is paid to women suitable for one to sustain? Rabbi Yeshevav maintains that betrothal does not take effect even in the case of a widow to a High Priest. The Gemara answers: **There is** a difference **between them** with regard to
+
+> **Hebrew/Aramaic:** חַיָּיבֵי עֲשֵׂה, מִצְרִי וַאֲדוֹמִי.
+> **Translation:** intercourse with women for which one is **liable for** violating a **positive** mitzva, e.g., **an Egyptian** convert **and an Edomite** convert (see Deuteronomy 23:8–9). If he raped a first- or second-generation Egyptian or Edomite convert, even Rabbi Yeshevav agrees that the child is not a *mamzer*, as the betrothal takes effect. On the other hand, it is prohibited for him to sustain her as a wife.
+
+> **Hebrew/Aramaic:** הָנִיחָא לְרַבִּי יְשֵׁבָב, אִי לְאַפּוֹקֵי מִטַּעְמָא דְּרַבִּי סִימַאי קָאָתֵי — שַׁפִּיר. אֶלָּא אִי טַעְמָא דְנַפְשֵׁיהּ קָאָמַר, כֹּל שֶׁאֵין לוֹ בִּיאָה בְּיִשְׂרָאֵל הַוָּלָד מַמְזֵר — וַאֲפִילּוּ חַיָּיבֵי עֲשֵׂה! מַאי בֵּינַיְיהוּ?
+> **Translation:** The Gemara asks: **This** works out **well according to Rabbi Yeshevav if he is coming to reject the opinion of Rabbi Simai.** If Rabbi Yeshevav merely takes issue with Rabbi Simai, who said that all offspring of forbidden relations are *mamzerim* according to Rabbi Akiva except for those resulting from relations between a widow and a High Priest, then it may **well** be explained that Rabbi Yeshevav holds that Rabbi Akiva rules that betrothal does not take effect and that there is *mamzerut* when one violates the prohibitions of the priesthood. **However, if he is stating his own opinion,** independent of Rabbi Simai’s statement, his ruling is more comprehensive and leads to the conclusion that in the case of relations with **anyone who does not have** the possibility of permitted **relations among the Jewish people, the child is a *mamzer*, and** this is true **even** of women for relations with whom one is **liable for** violating **positive** mitzvot, e.g., Egyptian or Edomite converts. In that case, **what is** the difference **between** the opinions of Shimon HaTimni and Rabbi Shimon ben Menasya?
+
+> **Hebrew/Aramaic:** אִיכָּא בֵּינַיְיהוּ בְּעוּלָה לְכֹהֵן גָּדוֹל. וּמַאי שְׁנָא? דְּהָוֵה לֵיהּ עֲשֵׂה שֶׁאֵינוֹ שָׁוֶה בַּכֹּל.
+> **Translation:** The Gemara answers: **There is** a difference **between them** in the case of **a non-virgin** raped **by a High Priest. And** the Gemara asks: Here, too, she is a woman for relations with whom one is liable for violating a positive mitzva, as the High Priest fails to fulfill the mitzva “But a virgin of his own people shall he take to wife” (Leviticus 21:14). If Rabbi Akiva rules that betrothal does not take effect when a positive mitzva is violated, **what is different** about this case? The Gemara answers: It is different **because it is a positive** mitzva **whose** application **is not equal for all.** There are two lenient aspects to this mitzva: It is a positive mitzva and not a prohibition, and it applies only to the High Priest and not to all Jews. Even Rabbi Yeshevav would agree that according to Rabbi Akiva, a child born from relations between a High Priest and a non-virgin is not a *mamzer*. However, the High Priest may not sustain the woman as his wife. Therefore, this case is the practical difference between the statements of Shimon HaTimni and Rabbi Shimon ben Menasya.
 
 The Gemara considers two readings of Rabbi Yeshevav's statement. If he is responding specifically to Rabbi Simai — who said that *almanah le-kohen gadol* does not produce a *mamzer* — then Rabbi Yeshevav's *kol* might only mean: even that case produces a *mamzer*, not necessarily every conceivable case including *chayavei asei*. In that reading, *kol* is rhetorically expansive but not literally all-inclusive. However, if Rabbi Yeshevav is issuing a free-standing statement on his own authority, then *kol she'ein bo biah b'Yisrael* should be understood literally — any forbidden intercourse produces a *mamzer*, including cases of *issur asei*. In that case, the Gemara asks, *mai beinaihu* — what would be the difference — between the two formulations (binding versus permitted) for Rabbi Akiva according to Rabbi Yeshevav? And it answers: there would still be one case remaining where even Rabbi Akiva, according to Rabbi Yeshevav's broadest reading, might concede that *kiddushin* is binding — *be'ulah le-kohen gadol*, a non-virgin woman with a *kohen gadol*. This is an *issur asei*, and moreover it is an *asei she'eino shaveh ba-kol* — an obligation that does not apply equally to all Jews, only to *kohanim*. The combination of these two features — that it is merely an *asei* and that it applies only to *kohanim* — makes this the one case where even on the broadest possible reading of Rabbi Akiva's position, marriage might still be binding.
 
 ## Beulah L'Kohen
+
+
 
 ### Kohen Exception
 

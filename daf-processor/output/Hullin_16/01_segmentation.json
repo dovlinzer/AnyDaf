@@ -39,7 +39,7 @@
           "timestamp": "03:00"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -453,5 +453,7 @@
   "amud_b_segment_index": 2,
   "amud_b_timestamp": "29:44",
   "amud_b_micro_title": "Summary Across Areas",
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "b"
 }

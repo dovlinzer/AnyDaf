@@ -100,15 +100,9 @@ The broader lesson is that protecting one party — worker or employer — does 
 
 ---
 
-## Mid-Job Departure
-
-### Tanna Kamma View
+## Rav's Ruling
 
 With the *baraita* analyzed, the *gemara* turns to a striking ruling: *amar Rav halacha ke-Rabbi Dosa* — Rav rules in accordance with Rabbi Dosa, establishing that when workers leave mid-job, their pay may be docked to cover the employer's resulting losses.
-
----
-
-## Rav's Ruling
 
 ### At-Will Employment
 
@@ -142,11 +136,9 @@ The *gemara* offers an alternative explanation: *amar Rav Nachman bar Yitzchak, 
 
 ### Retraction Principle
 
-The *gemara* turns to the *Mishna*'s general rule: *kol ha-meshaneh yado al ha-tachtona, ve-chol ha-chozer bo yado al ha-tachtona* — whoever changes the terms of an agreement has the lower hand, and whoever retracts has the lower hand. The first clause — regarding one who changes the terms — follows Rabbi Yehuda's position as discussed in Bava Kamma and need not be elaborated here. The second clause — that whoever retracts has the lower hand — has already been illustrated in the context of workers who leave mid-job and suffer deduction from their wages. Why, then, does the *Mishna* need to state it again as a general principle?
+The *gemara* turns to the *Mishna*'s general rule: *kol ha-meshaneh yado al ha-tachtona, ve-chol ha-chozer bo yado al ha-tachtona* — whoever changes the terms of an agreement has the lower hand, and whoever retracts has the lower hand. The first clause — regarding one who changes the terms — follows Rabbi Yehuda's position as discussed in Bava Kamma, which need not be elaborated here. The second clause raises a question: the *Mishna* has already illustrated the rule of retraction in the context of workers who leave mid-job and suffer consequences. Why restate it as a general principle?
 
-The *gemara* suggests that *kol ha-chozer bo yado al ha-tachtona* is extending the rule to an additional case: the sale of land. A field was sold for a thousand *zuz*, and the purchaser paid two hundred of them. *Bizman she-ha-mocher chozer bo, yad ha-lokeach al ha-elyona* — if the seller retracts, the buyer has the upper hand. And *yad po'el al ha-tachtona* refers here to the fact that the retracting party — in this case the seller — always has the lower hand.
-
----
+The *gemara* suggests that *kol ha-chozer bo yado al ha-tachtona* is broadening the rule: whether one is a *poel* or a contractor, under any circumstance of retraction there are consequences. This identifies our *Mishna* as following the position of Rabbi Dosa — that whoever leaves in the middle of the job has their pay docked to cover any resulting losses, regardless of the type of worker involved. The *gemara* thus understands the *Mishna* as expressing an across-the-board Rabbi Dosa position. This in turn raises a question about Rav, who rules like Rabbi Dosa, but —
 
 ## Rav's Ruling (II)
 

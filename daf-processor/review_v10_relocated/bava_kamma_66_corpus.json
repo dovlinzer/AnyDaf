@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Chametz over Pesach",
+    "candidates": [
+      "Ye'ush Acquisition",
+      "Chametz over Pesach",
+      "Neither Wants It"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ye'ush Acquisition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's general ruling that ye'ush is not koneh even by rabbinic law, which belongs under the 'Ye'ush Acquisition' heading introducing the machlokes between Rabbah and Rav Yosef.",
+      "second_heading": "Chametz over Pesach",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rav Yosef's specific challenge to Rabbah using the gazal chametz case and the harei shelcha lefanecha argument, which is precisely what the 'Chametz over Pesach' prose describes.",
+      "current_heading": "Chametz over Pesach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Neither Wants It",
+    "candidates": [
+      "Neither Wants It",
+      "Stolen Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's (or Rabbah's) response explaining that the chametz case differs from normal theft because neither the thief wants to acquire it nor does the owner want it back, which is precisely what the 'Neither Wants It' section's prose describes.",
+      "chosen_heading": "Neither Wants It",
+      "current_heading": "Neither Wants It",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Stolen Korban",
+    "candidates": [
+      "Stolen Korban",
+      "God's Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the opening move of Abaye's challenge \u2014 the verse 'korbano v'lo ha-gazul' and the question of why a verse is needed for the pre-ye'ush case \u2014 which is precisely what the 'Stolen Korban' section's prose describes.",
+      "chosen_heading": "Stolen Korban",
+      "current_heading": "Stolen Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "God's Domain",
+    "candidates": [
+      "God's Domain",
+      "Thief's Machshavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rava-Abaye exchange about mishkavo v'lo ha-gazul and korbano v'lo ha-gazul, which is precisely what the 'God's Domain' prose describes \u2014 Rava's rebuttal using the zav's bedding parallel to show these baraitot address consecrated/already-owned objects, not ordinary ye'ush cases.",
+      "chosen_heading": "God's Domain",
+      "current_heading": "God's Domain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Thief's Machshavah",
+    "candidates": [
+      "Thief's Machshavah",
+      "No Trimming Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute Abaye's challenge to Rav Yosef from the mishna about hides (items 1-4) and Rav Yosef's initial response about trimming (item 5), which is precisely what heading 0 ('Thief's Machshavah') describes in its prose \u2014 the challenge, the mishna's rulings about ganav/gazlan, and Rav Yosef's kitze'an deflection all belong there, while heading 1 picks up with Rabba bar Rav Chanan's objection to that deflection.",
+      "chosen_heading": "Thief's Machshavah",
+      "current_heading": "Thief's Machshavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "No Trimming Needed",
+    "candidates": [
+      "No Trimming Needed",
+      "Shinui Hashem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabba bar Rav \u1e24anan's objection that the itzba requires no trimming and the supporting proof from Kelim, which is precisely the content described in candidate 0's prose about the itzba challenge to Rav Yosef's trimming explanation.",
+      "chosen_heading": "No Trimming Needed",
+      "current_heading": "No Trimming Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Shinui Hashem",
+    "candidates": [
+      "Shinui Hashem",
+      "Stolen Beam Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rava's report of Rabba's twenty-two-year difficulty and Rav Yosef's resolution that shinui hashem is like shinui ma'aseh, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Shinui Hashem",
+      "current_heading": "Shinui Hashem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Stolen Beam Case",
+    "candidates": [
+      "Stolen Beam Case",
+      "Reversible Shinui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous sugya \u2014 the Gemara raises the beam case as a challenge to shinui hashem, and Rav Yosef resolves it by showing the beam retains its name even when built into a house \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Stolen Beam Case",
+      "current_heading": "Stolen Beam Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Reversible Shinui",
+    "candidates": [
+      "Reversible Shinui",
+      "Pipe Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Zeira's principle that a reversible shinui hashem is not a valid shinui, which is precisely what the 'Reversible Shinui' section's prose discusses and explains.",
+      "chosen_heading": "Reversible Shinui",
+      "current_heading": "Reversible Shinui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Pipe Case",
+    "candidates": [
+      "Pipe Case",
+      "Kelli Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge using the tzinor/duct case to question whether irreversible shinui hashem constitutes a change, which is exactly what the 'Pipe Case' prose describes as the Gemara testing Rav Zeira's formulation.",
+      "chosen_heading": "Pipe Case",
+      "current_heading": "Pipe Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Kelli Status",
+    "candidates": [
+      "Kelli Status",
+      "Thief Consecrates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the tzinor/log cases involving keli status and drawn water (she'uvim), which is precisely what the 'Kelli Status' prose describes \u2014 the distinction between a block hollowed out before vs. after being attached to the ground, and the resolution based on torat keli rather than shinui hashem.",
+      "chosen_heading": "Kelli Status",
+      "current_heading": "Kelli Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Thief Consecrates",
+    "candidates": [
+      "Thief Consecrates",
+      "Status Change",
+      "Shinui Koneh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Thief Consecrates",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the objection from the baraita about the thief's consecration/teruma/tithes, which matches heading 0's prose describing exactly this challenge to Rav Yosef.",
+      "second_heading": "Status Change",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the resolution invoking shinui hashem (tevel\u2192teruma, chullin\u2192hekdesh), which matches heading 1's prose describing precisely this answer about shinui hashem in these cases.",
+      "current_heading": "Thief Consecrates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Shinui Koneh",
+    "candidates": [
+      "Status Change",
+      "Shinui Koneh",
+      "Shinui Lo Koneh",
+      "Ye'ush Irrelevant",
+      "Rava Counter"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shinui Koneh",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the first version of Rav \u1e24isda/Rabbi Yonatan's teaching that shinui effects acquisition, with the objection about 'asher gazal' and its resolution \u2014 exactly matching the 'Shinui Koneh' prose.",
+      "second_heading": "Shinui Lo Koneh",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents the alternative version (ve-ikka de-amri) that shinui does NOT effect acquisition, with the 'asher gazal' phrase assigned solely to the chomesh law \u2014 exactly matching the 'Shinui Lo Koneh' prose.",
+      "current_heading": "Shinui Koneh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rava Counter",
+    "candidates": [
+      "Shinui Lo Koneh",
+      "Ye'ush Irrelevant",
+      "Rava Counter",
+      "Only Shor/Seh",
+      "Mentioned Twice",
+      "Pasuk Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 Ulla's proof from the Malachi verse, Rava's competing proof from 'korbano v'lo ha-gazul,' and the resolution of the apparent contradiction in Rava's positions \u2014 together establish that ye'ush does not effect acquisition, which is precisely what candidate 1 ('Ye'ush Irrelevant') describes in its prose, while candidate 2 ('Rava Counter') covers only part of the passage and is where it currently (incorrectly) sits.",
+      "chosen_heading": "Ye'ush Irrelevant",
+      "current_heading": "Rava Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Pasuk Analysis",
+    "candidates": [
+      "Only Shor/Seh",
+      "Mentioned Twice",
+      "Pasuk Analysis",
+      "Exclusion Proven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's detailed examination of whether alternative formulations of the verse could have omitted 'ox' and 'sheep' \u2014 the precise analysis described in candidate 2's prose about why neither the first nor the second mention can be considered superfluous, leading ultimately to the conclusion that only a cross-combination is redundant.",
+      "chosen_heading": "Pasuk Analysis",
+      "current_heading": "Pasuk Analysis",
+      "moved": false
+    }
+  }
+]

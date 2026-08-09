@@ -211,8 +211,8 @@
           "timestamp": "52:45"
         }
       ],
-      "sefaria_index": 28,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -391,5 +391,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "33:51",
+  "amud_b_micro_title": "Ayal Kamtza",
+  "shiur_start_daf": 37,
+  "shiur_start_amud": "a"
 }

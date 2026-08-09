@@ -1,0 +1,468 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Goat Age Problem",
+    "candidates": [
+      "R. Yehuda vs. Chachamim",
+      "Goat Age Problem",
+      "Ox Gezeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All seven items form a continuous chain of challenges and answers about why the bull and goat cannot be held over to the following year, which corresponds to the R. Yehuda vs. Chachamim debate section's discussion of what happens to unused paired animals \u2014 the 'Goat Age Problem' and 'Ox Gezeira' sections describe only portions of this chain, while heading 0 frames the broader question that drives the entire passage.",
+      "chosen_heading": "R. Yehuda vs. Chachamim",
+      "current_heading": "Goat Age Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Ox Gezeira",
+    "candidates": [
+      "Ox Gezeira",
+      "Resh Lakish Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezeira par atu se'ir argument \u2014 the bull/goat decree \u2014 which is precisely what the 'Ox Gezeira' section's prose discusses in detail.",
+      "chosen_heading": "Ox Gezeira",
+      "current_heading": "Ox Gezeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Resh Lakish Position",
+    "candidates": [
+      "Resh Lakish Position",
+      "Rava's Answer",
+      "Hekdesh Disposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Reish Lakish ruling about a sin-offering whose year has passed going to graze rather than dying, which is exactly what the prose under 'Resh Lakish Position' describes.",
+      "chosen_heading": "Resh Lakish Position",
+      "current_heading": "Resh Lakish Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Hekdesh Disposal",
+    "candidates": [
+      "Rava's Answer",
+      "Hekdesh Disposal",
+      "Te'aker Definition",
+      "Takala Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's gezeira mishum takala ruling plus the baraita's opening statement about not consecrating, which is precisely what candidate 0 ('Rava's Answer') describes as its content.",
+      "second_heading": "Hekdesh Disposal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 details the disposal rules for improperly consecrated items (animal uprooted, produce rots, money to Dead Sea, definition of te'aker), which matches candidate 1 ('Hekdesh Disposal') and candidate 2 ('Te'aker Definition') \u2014 but since item 2 covers both the disposal rules and the definition of te'aker together, and candidate 1's prose explicitly covers all of these disposal rules including te'aker, the current placement under candidate 1 is correct.",
+      "current_heading": "Hekdesh Disposal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Takala Analysis",
+    "candidates": [
+      "Te'aker Definition",
+      "Takala Analysis",
+      "Animal Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about what specific mishap (takala) is being avoided and the two possibilities (offering vs. shearing/working), which is precisely what the 'Takala Analysis' prose describes.",
+      "chosen_heading": "Takala Analysis",
+      "current_heading": "Takala Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Animal Categories",
+    "candidates": [
+      "Animal Categories",
+      "Takala Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly answers the question of why some disqualified animals (not fit for sacrifice) raise no takala concern while others (fit for future sacrifice) do \u2014 this is the core takala debate content discussed in candidate 1's prose, not the animal categories discussion in candidate 0.",
+      "chosen_heading": "Takala Debate",
+      "current_heading": "Animal Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Takala Debate",
+    "candidates": [
+      "Animal Categories",
+      "Takala Debate",
+      "Viduy Procedure",
+      "Viduy Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Tannaitic dispute about takala regarding the Pesach animal and money, which is precisely what the 'Takala Debate' prose describes \u2014 the baraita about pesach she-lo karev, the deflection about Rabbi Yehuda HaNasi vs. Rabbis, and the clinching proof from 've-chen ha-ma'ot' that the dispute is about takala itself.",
+      "chosen_heading": "Takala Debate",
+      "current_heading": "Takala Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Viduy Text",
+    "candidates": [
+      "Viduy Procedure",
+      "Viduy Text",
+      "Response Ritual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the actual text of the viduy confession recited over the scapegoat, which is precisely what the 'Viduy Text' section's prose describes and analyzes.",
+      "chosen_heading": "Viduy Text",
+      "current_heading": "Viduy Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Response Ritual",
+    "candidates": [
+      "Response Ritual",
+      "Handoff",
+      "Kohein Monopoly",
+      "Ramp Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the prostration/response ritual upon hearing the Explicit Name AND the handoff of the goat, and the current heading's prose explicitly addresses both elements together, making it the best match.",
+      "chosen_heading": "Response Ritual",
+      "current_heading": "Response Ritual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Ramp Purpose",
+    "candidates": [
+      "Handoff",
+      "Kohein Monopoly",
+      "Ramp Purpose",
+      "Viduy Recipients"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yosei's account of Arsela (a Yisrael) leading the goat and the ramp built due to Babylonians pulling at his hair \u2014 this directly matches the 'Kohein Monopoly' section's prose which explicitly discusses Rabbi Yose's exception case of Arselah performing the task as a Yisrael and the general Kohen practice.",
+      "chosen_heading": "Kohein Monopoly",
+      "current_heading": "Ramp Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Viduy Recipients",
+    "candidates": [
+      "Ramp Purpose",
+      "Viduy Recipients",
+      "Kohein vs. People",
+      "Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's question about why the viduy over the scapegoat omitted mention of Bnei Aharon, and the exchange between Rabbi Yirmiyah and Abaye about whether this conflicts with Rabbi Yehuda's view \u2014 exactly what the 'Viduy Recipients' prose describes.",
+      "chosen_heading": "Viduy Recipients",
+      "current_heading": "Viduy Recipients",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Conditions",
+    "candidates": [
+      "Kohein vs. People",
+      "Conditions",
+      "Non-Kohein"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita deriving three rules from 'ish itti' \u2014 qualifying a non-Kohen, permitting sending on Shabbat, and permitting sending in tumah \u2014 which is precisely what the 'Conditions' prose describes.",
+      "chosen_heading": "Conditions",
+      "current_heading": "Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Non-Kohein",
+    "candidates": [
+      "Non-Kohein",
+      "Shabbat Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation that a non-priest (ish) may perform the service, addressing the concern that 'kappara' language might require a Kohen, which matches exactly the prose under 'Non-Kohein'.",
+      "chosen_heading": "Non-Kohein",
+      "current_heading": "Non-Kohein",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Shabbat Issue",
+    "candidates": [
+      "Shabbat Issue",
+      "Yom Kippur Carrying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Sheshet's ruling about carrying the sick goat on Shabbat and the subsequent question about Rabbi Natan's principle of chai nosei et atzmo, which is precisely what the 'Shabbat Issue' prose describes.",
+      "chosen_heading": "Shabbat Issue",
+      "current_heading": "Shabbat Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Yom Kippur Carrying",
+    "candidates": [
+      "Yom Kippur Carrying",
+      "Tosafos Rejection",
+      "Tumah Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rafram's statement itself, and candidate 0's prose is explicitly about Rafram's inference and its logic, making it the correct home for this text.",
+      "chosen_heading": "Yom Kippur Carrying",
+      "current_heading": "Yom Kippur Carrying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Tumah Override",
+    "candidates": [
+      "Tosafos Rejection",
+      "Tumah Override",
+      "Sick Goat",
+      "Sick Messenger",
+      "Goat Doesn't Die"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita's teaching that the se'ir hamishtalei'ach overrides tumah and Rav Sheshet's explanation of the practical scenario, which is exactly what the 'Tumah Override' prose describes.",
+      "chosen_heading": "Tumah Override",
+      "current_heading": "Tumah Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Goat Doesn't Die",
+    "candidates": [
+      "Sick Goat",
+      "Sick Messenger",
+      "Goat Doesn't Die",
+      "No New Teachings",
+      "David Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover all three questions posed to Rabbi Eliezer (sick goat, sick messenger, goat doesn't die) plus the Chachamim's responses, which is precisely what the 'Goat Doesn't Die' section's prose discusses in full.",
+      "chosen_heading": "Goat Doesn't Die",
+      "current_heading": "Goat Doesn't Die",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "David Stories",
+    "candidates": [
+      "No New Teachings",
+      "David Stories",
+      "Mamzer Question",
+      "Woman Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "David Stories",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the evasive questions about so-and-so's World-to-Come fate, the shepherd/ewe/lion exchange, and the mamzer/plastering questions \u2014 all of which the 'David Stories' and 'Mamzer Question' prose sections discuss in detail, and since items 1-2 span both those topics the current placement under 'David Stories' is the better home for the deflection sequence as a whole.",
+      "second_heading": "No New Teachings",
+      "second_confidence": "high",
+      "second_reason": "Item 3 explicitly states the principle that Rabbi Eliezer never said anything he did not hear from his teacher, which is precisely what the 'No New Teachings' prose section is about.",
+      "current_heading": "David Stories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Woman Question",
+    "candidates": [
+      "Mamzer Question",
+      "Woman Question",
+      "Women's Role",
+      "Rav/Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the wise woman's question about the Golden Calf's unequal deaths posed to Rabbi Eliezer, which matches exactly the 'Woman Question' section's prose about the same question and its context.",
+      "chosen_heading": "Woman Question",
+      "current_heading": "Woman Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Rav/Levi",
+    "candidates": [
+      "Women's Role",
+      "Rav/Levi",
+      "Witnesses View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav and Levi's classification by type of act (sacrificing/burning, embracing/kissing, rejoicing inwardly), which matches exactly the prose under the 'Rav/Levi' heading.",
+      "chosen_heading": "Rav/Levi",
+      "current_heading": "Rav/Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Witnesses View",
+    "candidates": [
+      "Witnesses View",
+      "Levi Innocent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the juridical classification by witnesses and warning that the 'Witnesses View' prose explicitly describes and analyzes.",
+      "chosen_heading": "Witnesses View",
+      "current_heading": "Witnesses View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Levi Innocent",
+    "candidates": [
+      "Levi Innocent",
+      "Half-Sibling Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Yehuda's statement that the tribe of Levi did not worship idols, which is precisely what the prose under 'Levi Innocent' describes.",
+      "chosen_heading": "Levi Innocent",
+      "current_heading": "Levi Innocent",
+      "moved": false
+    }
+  }
+]

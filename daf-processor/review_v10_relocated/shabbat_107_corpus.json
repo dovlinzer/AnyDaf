@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "First Fills Door",
+    "candidates": [
+      "First Person",
+      "Second Person Liable",
+      "First Fills Door",
+      "Static vs. Active",
+      "Locking House Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "First Fills Door",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting both the 'first fills door' scenario and the locking-house analogy, which the 'First Fills Door' prose explicitly introduces as its topic.",
+      "second_heading": "Locking House Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara discussion of Rav's ruling about a bird under one's garment, which uses the locking-house analogy to resolve whether the second person is 'exempt but forbidden' or 'exempt and permitted' \u2014 exactly the content the 'Locking House Analogy' prose discusses.",
+      "current_heading": "First Fills Door",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Locking House Analogy",
+    "candidates": [
+      "Static vs. Active",
+      "Locking House Analogy",
+      "Rav's Teaching",
+      "Guarding Question",
+      "Nachman Challenge",
+      "Exempt = Permitted",
+      "House Comparison",
+      "Three Exceptions",
+      "Deer Exception",
+      "Abscess Exception",
+      "Indirect Melacha",
+      "Needle & Splinter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the 'ika d'amri' variant where Rav Nachman bar Yitzchak presents the mishna's locked-house analogy as corroboration that patur means muttar, which is precisely what candidate 6 ('House Comparison') describes in its prose.",
+      "chosen_heading": "House Comparison",
+      "current_heading": "Locking House Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Needle & Splinter",
+    "candidates": [
+      "Rav's Teaching",
+      "Guarding Question",
+      "Nachman Challenge",
+      "Exempt = Permitted",
+      "House Comparison",
+      "Three Exceptions",
+      "Deer Exception",
+      "Abscess Exception",
+      "Indirect Melacha",
+      "Needle & Splinter",
+      "Snake Exception",
+      "Vessel Sources",
+      "Torah List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains Shmuel's full statement about all Shabbat exemptions being 'patur aval assur' except three exceptions, along with all three examples and their proofs \u2014 this is precisely what the 'Three Exceptions' section (index 5) introduces, before the subsequent sections break down each individual exception.",
+      "chosen_heading": "Three Exceptions",
+      "current_heading": "Needle & Splinter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Torah List",
+    "candidates": [
+      "Snake Exception",
+      "Vessel Sources",
+      "Torah List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "The item '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d4\u05d0\u05d5\u05e8\u05d2' is a closing formula marking the end of a chapter (perek), not substantively related to any of the candidate prose sections; the current placement is as good as any other, so it remains where it is.",
+      "chosen_heading": "Torah List",
+      "current_heading": "Torah List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Torah List",
+    "candidates": [
+      "Torah List",
+      "Skin Distinction",
+      "Intent in Capture",
+      "Wounding Rules",
+      "Domestic Animals",
+      "Skin Derivation",
+      "Ben Nuri View",
+      "Tumah vs Shabbat",
+      "Pasuk Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the eight sheratzim, which is exactly what the 'Torah List' section's prose is describing \u2014 the enumeration of the eight creeping creatures from Vayikra and their relevance to tzeidah and chavalah.",
+      "chosen_heading": "Torah List",
+      "current_heading": "Torah List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Pasuk Basis",
+    "candidates": [
+      "Skin Distinction",
+      "Intent in Capture",
+      "Wounding Rules",
+      "Domestic Animals",
+      "Skin Derivation",
+      "Ben Nuri View",
+      "Tumah vs Shabbat",
+      "Pasuk Basis",
+      "Yehuda Physiology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain addressing whether the Rabbis dispute Rabbi Yochanan ben Nuri regarding Shabbat \u2014 introducing the baraita challenge, Abaye and Rava's interpretations, Rav Adda bar Mattana's resolution, and the further baraita confirming the Shabbat dispute \u2014 which matches exactly the content described in the 'Pasuk Basis' section's prose.",
+      "chosen_heading": "Pasuk Basis",
+      "current_heading": "Pasuk Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Yehuda Physiology",
+    "candidates": [
+      "Yehuda Physiology",
+      "Both Apply",
+      "Chavala Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is primarily about Rav Ashi identifying the first tanna as Rabbi Yehuda who follows physical texture (gisha), citing the lizard/weasel mishna, which is exactly what the 'Yehuda Physiology' section describes \u2014 the amendment about 'u'machlokto' is secondary and flows from that identification.",
+      "chosen_heading": "Yehuda Physiology",
+      "current_heading": "Yehuda Physiology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Chavala Definition",
+    "candidates": [
+      "Both Apply",
+      "Chavala Definition",
+      "Wounding/Killing",
+      "Eliezer Small Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the definition of chaburah as irreversible (eina chozeret) using the Jeremiah verse about the Cushite's skin, which is precisely what the 'Chavala Definition' section's prose describes.",
+      "chosen_heading": "Chavala Definition",
+      "current_heading": "Chavala Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Eliezer Small Life",
+    "candidates": [
+      "Wounding/Killing",
+      "Eliezer Small Life",
+      "Louse Special",
+      "Ram Paradigm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yirmiah's identification of the tanna as Rabbi Eliezer and Rav Yosef's objection about the louse dispute, which together are precisely what the 'Eliezer Small Life' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Eliezer Small Life",
+      "current_heading": "Eliezer Small Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Ram Paradigm",
+    "candidates": [
+      "Louse Special",
+      "Ram Paradigm",
+      "Lice Procreate",
+      "Flea Capture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses both sides deriving their positions from the ram paradigm (eilim) and Abaye's challenge about lice procreating, which maps precisely to the 'Ram Paradigm' section's prose about mah eilim and the Rabbis' reading \u2014 and the Abaye/beizei kinim exchange is the tail end of establishing that paradigm before moving to the fuller treatment in 'Lice Procreate'.",
+      "chosen_heading": "Ram Paradigm",
+      "current_heading": "Ram Paradigm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Flea Capture",
+    "candidates": [
+      "Lice Procreate",
+      "Flea Capture",
+      "All Creatures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'beizei kinim' species challenge and the flea/trapping debate including Rav Ashi's resolution, all of which are narrated within the 'Lice Procreate' section's prose, while the current 'Flea Capture' heading's prose also covers this same content \u2014 but the passage begins with the baraita about tefuyei and beizei kinim which is explicitly described in heading 0's prose as Abaye's second challenge, making heading 0 the better fit for the complete passage.",
+      "chosen_heading": "Lice Procreate",
+      "current_heading": "Flea Capture",
+      "moved": true
+    }
+  }
+]

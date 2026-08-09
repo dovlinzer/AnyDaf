@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Teshuva Extends Years",
+    "candidates": [
+      "Teshuva Extends Years",
+      "God vs Human Forgiveness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states 'great is repentance which lengthens a person's years,' matching exactly the prose in candidate 0 which paraphrases this very statement by Rabbi Shmuel bar Nachmani citing Rabbi Yonatan.",
+      "chosen_heading": "Teshuva Extends Years",
+      "current_heading": "Teshuva Extends Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "God vs Human Forgiveness",
+    "candidates": [
+      "God vs Human Forgiveness",
+      "Words Replace Sacrifices",
+      "Nedava Framework",
+      "Cosmic Healing Power",
+      "Akiva's Reversal",
+      "Rabbi's Exception",
+      "Tosafot Reconciliation",
+      "Kapara vs Taharah (II)",
+      "Meir: Individual Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Yitzchak/Rabba bar Mari passage contrasting human forgiveness with divine forgiveness, which is precisely what the 'God vs Human Forgiveness' section's prose describes and analyzes.",
+      "chosen_heading": "God vs Human Forgiveness",
+      "current_heading": "God vs Human Forgiveness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Meir: Individual Impact",
+    "candidates": [
+      "Words Replace Sacrifices",
+      "Nedava Framework",
+      "Cosmic Healing Power",
+      "Akiva's Reversal",
+      "Rabbi's Exception",
+      "Tosafot Reconciliation",
+      "Kapara vs Taharah (II)",
+      "Meir: Individual Impact",
+      "Repeated Temptation Test",
+      "Same Circumstances"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The baraita of Rabbi Meir about a single individual's teshuva bringing forgiveness to the entire world is precisely what the prose of heading 7 ('Meir: Individual Impact') describes and contextualizes.",
+      "chosen_heading": "Meir: Individual Impact",
+      "current_heading": "Meir: Individual Impact",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Same Circumstances",
+    "candidates": [
+      "Repeated Temptation Test",
+      "Same Circumstances",
+      "Breaking Habit",
+      "Contradiction Setup",
+      "Public/Private Sins",
+      "Bein Adam Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's definition of a ba'al teshuva (first and second time saved from sin) AND his gesture specifying the same woman/time/place, making it a single unit that belongs under 'Repeated Temptation Test' which covers the full question and answer, while 'Same Circumstances' (index 1) is meant to elaborate on just the gesture portion separately.",
+      "chosen_heading": "Repeated Temptation Test",
+      "current_heading": "Same Circumstances",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Bein Adam Distinction",
+    "candidates": [
+      "Breaking Habit",
+      "Contradiction Setup",
+      "Public/Private Sins",
+      "Bein Adam Distinction",
+      "Mechila Requirements",
+      "Three-Strike Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the contradiction setup AND both resolutions (public/private and bein adam), meaning it belongs under the 'Contradiction Setup' heading which introduces the textual tension that the full passage addresses, rather than being split across multiple headings \u2014 but since it must sit under one heading, the 'Contradiction Setup' prose is the one that explicitly frames this entire passage as a unit by noting 'the Gemara proceeds on the assumption that both verses are speaking within the framework of teshuva, and asks how to reconcile them,' covering both the Rav Yehuda/Rav contradiction and its two resolutions.",
+      "chosen_heading": "Contradiction Setup",
+      "current_heading": "Bein Adam Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Three-Strike Rule",
+    "candidates": [
+      "Mechila Requirements",
+      "Three-Strike Rule",
+      "Rambam's Reading",
+      "No Repeat Viduy",
+      "Backsliding Viduy",
+      "Move Forward",
+      "Eliezer's Praise",
+      "Huna's Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Three-Strike Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the baraita of Rabbi Yosei bar Yehuda about the three-strike forgiveness rule and its Gemara explanation, which is exactly what candidate 1 ('Three-Strike Rule') discusses.",
+      "second_heading": "No Repeat Viduy",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita about not repeating viduy for already-confessed sins, which is precisely what candidate 3 ('No Repeat Viduy') discusses.",
+      "current_heading": "Three-Strike Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Huna's Distinction",
+    "candidates": [
+      "Rambam's Reading",
+      "No Repeat Viduy",
+      "Backsliding Viduy",
+      "Move Forward",
+      "Eliezer's Praise",
+      "Huna's Distinction",
+      "Detail Requirement",
+      "Akiva No Enumeration",
+      "Moshe's Clarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Eliezer ben Ya'akov's dissenting view praising continued viduy plus the Rav Huna teaching about repeated sin becoming 'as if permitted,' which corresponds exactly to candidate 4 ('Eliezer's Praise') whose prose describes both Rabbi Eliezer's position and then resolves the contradiction via Rav Huna \u2014 the current placement under 'Huna's Distinction' separates the Rav Huna material from Rabbi Eliezer's statement, but the passage presents them as a continuous unit that belongs under the heading that introduces Rabbi Eliezer's view.",
+      "chosen_heading": "Eliezer's Praise",
+      "current_heading": "Huna's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Moshe's Clarity",
+    "candidates": [
+      "Detail Requirement",
+      "Akiva No Enumeration",
+      "Moshe's Clarity",
+      "Leaders' Preferences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the dispute between Rabbi Yehuda ben Bava (must detail the sin) and Rabbi Akiva (need not detail), plus Rabbi Yannai's explanation of Moshe's mention of the golden calf \u2014 all of which directly addresses the 'Detail Requirement' section's prose about whether one must specify sins in viduy, making heading 0 the clearly best match.",
+      "chosen_heading": "Detail Requirement",
+      "current_heading": "Moshe's Clarity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Leaders' Preferences",
+    "candidates": [
+      "Moshe's Clarity",
+      "Leaders' Preferences",
+      "Mashal Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the contrast between Moses and David regarding publicizing sin, which is exactly what the 'Leaders' Preferences' section prose describes.",
+      "chosen_heading": "Leaders' Preferences",
+      "current_heading": "Leaders' Preferences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Mashal Setup",
+    "candidates": [
+      "Mashal Setup",
+      "Rashi's Reading",
+      "Dignity Balance",
+      "Chanufim Exposure",
+      "Tzaddik Falling",
+      "Prevention Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text for the mashal about the two women flogged in court, which is precisely what the 'Mashal Setup' section's prose is explaining and analyzing.",
+      "chosen_heading": "Mashal Setup",
+      "current_heading": "Mashal Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Prevention Purpose",
+    "candidates": [
+      "Rashi's Reading",
+      "Dignity Balance",
+      "Chanufim Exposure",
+      "Tzaddik Falling",
+      "Prevention Purpose",
+      "Teshuva Power (II)",
+      "Wicked Tranquility",
+      "Authority Danger",
+      "Humility Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces the ruling that hypocrites are publicly exposed due to desecration of God's name and adds the teaching about repentance of the utterly wicked \u2014 both are the content the 'Chanufim Exposure' section prose introduces, making it the clear home for this passage rather than 'Prevention Purpose' which discusses Rashi's elaboration on the same ruling.",
+      "chosen_heading": "Chanufim Exposure",
+      "current_heading": "Prevention Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Humility Examples",
+    "candidates": [
+      "Teshuva Power (II)",
+      "Wicked Tranquility",
+      "Authority Danger",
+      "Humility Examples",
+      "Tzaddik Punishment",
+      "Rasha Deferral",
+      "Achav Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Authority Danger",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses 'shalvat resha'im' and 'ha-rashut mekaveret et be'aleha' \u2014 the tranquility of the wicked and the danger of authority \u2014 which matches the 'Authority Danger' section's prose exactly, not the humility examples section.",
+      "second_heading": "Humility Examples",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 present Rava's and Rav Zutra's specific humility practices when exercising authority, which is precisely what the 'Humility Examples' section describes.",
+      "current_heading": "Humility Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Achav Example",
+    "candidates": [
+      "Tzaddik Punishment",
+      "Rasha Deferral",
+      "Achav Example",
+      "Moshe Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the verse about Ahab being favored in this world and its consequence, which is precisely what the 'Achav Example' prose section discusses.",
+      "chosen_heading": "Achav Example",
+      "current_heading": "Achav Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Moshe Example",
+    "candidates": [
+      "Moshe Example",
+      "Specific Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Moses being punished in this world rather than shown favor, which matches the 'Moshe Example' prose section's focus on it being good for Moses that he was not exempted from punishment.",
+      "chosen_heading": "Moshe Example",
+      "current_heading": "Moshe Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Specific Cases",
+    "candidates": [
+      "Specific Cases",
+      "Interest Metaphor",
+      "Merit Bringer",
+      "Sin Causer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the paired tzaddik/rasha examples (Aharon's sons and Canaan's descendants) that illustrate inherited merit and debt across generations, which is precisely what candidate 0 'Specific Cases' prose describes in detail.",
+      "chosen_heading": "Specific Cases",
+      "current_heading": "Specific Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Sin Causer",
+    "candidates": [
+      "Interest Metaphor",
+      "Merit Bringer",
+      "Sin Causer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the merit-bringer and sin-causer as a unified Talmudic unit, and candidate 1 ('Merit Bringer') introduces the full passage starting with 'kol ha-mezakeh et ha-rabim,' while candidate 2 ('Sin Causer') only covers the second half \u2014 placing the entire passage under the heading that opens with its actual starting point is the correct match.",
+      "chosen_heading": "Merit Bringer",
+      "current_heading": "Sin Causer",
+      "moved": true
+    }
+  }
+]

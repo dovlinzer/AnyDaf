@@ -1,0 +1,279 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Tanna Contradiction",
+    "candidates": [
+      "Winter vs. Spring Wheat",
+      "Contradiction Issue",
+      "Mixing Chadash/Yashan",
+      "Tanna Contradiction",
+      "Binyan Av Hermeneutic",
+      "Two Verses Together"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement that one tanna of the school of Rabbi Yishmael contradicts another tanna of the same school, which is precisely what the 'Tanna Contradiction' section's prose describes as its content.",
+      "chosen_heading": "Tanna Contradiction",
+      "current_heading": "Tanna Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Two Verses Together",
+    "candidates": [
+      "Binyan Av Hermeneutic",
+      "Two Verses Together",
+      "Challah Comparison",
+      "Shabbat Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are the back-and-forth debate about shnei ketuvim haba'im ke'echad and the tzrichi/challah responses, which is precisely what the 'Two Verses Together' prose describes in detail.",
+      "chosen_heading": "Two Verses Together",
+      "current_heading": "Two Verses Together",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Shabbat Application",
+    "candidates": [
+      "Challah Comparison",
+      "Shabbat Application",
+      "Chelev Vedam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why 'moshvoteichem' is written by Shabbat and the answer that it prevents equating Shabbat's sanctification with that of the Festivals \u2014 exactly what the 'Shabbat Application' prose describes.",
+      "chosen_heading": "Shabbat Application",
+      "current_heading": "Shabbat Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Chelev Vedam",
+    "candidates": [
+      "Chelev Vedam",
+      "Matzah Umaror",
+      "Tefillin & Peter Chamor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chelev Vedam",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the 'dwelling' term by chelev vedam and why it's needed given the korbanot context, which matches candidate 0's prose exactly.",
+      "second_heading": "Matzah Umaror",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the 'dwelling' term by matzah and bitter herbs and the concern that they'd only apply when a Pesach offering exists, which matches candidate 1's prose exactly.",
+      "current_heading": "Chelev Vedam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Tefillin & Peter Chamor",
+    "candidates": [
+      "Matzah Umaror",
+      "Tefillin & Peter Chamor",
+      "Omer Necessity",
+      "Settlement Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the term 'coming' (bi'ah) written with regard to phylacteries (tefillin) and the firstborn donkey (peter chamor), and the school of Rabbi Yishmael's teaching that these mitzvot merit entry into the land \u2014 precisely what the 'Tefillin & Peter Chamor' section's prose addresses.",
+      "chosen_heading": "Tefillin & Peter Chamor",
+      "current_heading": "Tefillin & Peter Chamor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Settlement Timing",
+    "candidates": [
+      "Omer Necessity",
+      "Settlement Timing",
+      "Mahn Narrative",
+      "Chronology Timeline"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Omer Necessity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the two opinions on 'moshav' and the omer/chadash debate, directly matching the 'Omer Necessity' and 'Settlement Timing' prose \u2014 but the entire chain from the bishlama question through the manna resolution is one continuous sugya best placed under 'Settlement Timing' (index 1) which explicitly covers both the omer view and the manna narrative as a unified discussion.",
+      "second_heading": "Mahn Narrative",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is a separate baraita about whether the manna lasted a full forty years and the taste of manna in the Egyptian cakes, which matches precisely the 'Mahn Narrative' prose (index 2).",
+      "current_heading": "Settlement Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Chronology Timeline",
+    "candidates": [
+      "Mahn Narrative",
+      "Chronology Timeline",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous baraita establishing that Moses was born and died on the seventh of Adar, which matches exactly the 'Chronology Timeline' section prose describing this same baraita and its reasoning.",
+      "chosen_heading": "Chronology Timeline",
+      "current_heading": "Chronology Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Rabbi Elazar View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rabbi Shimon ben Yo\u1e25ai's baraita and his a fortiori reasoning about chadash, kilayim, and orla applying outside the land, which is precisely what the 'Rabbi Shimon View' prose section describes in detail.",
+      "chosen_heading": "Rabbi Shimon View",
+      "current_heading": "Rabbi Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rabbi Elazar View",
+    "candidates": [
+      "Rabbi Elazar View",
+      "Kesafim & Avadim",
+      "Loans Dependency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Elazar bar Rabbi Shimon's ruling about mitzvot commanded before vs. after entry into the land \u2014 exactly what the 'Rabbi Elazar View' prose describes \u2014 and the exceptions (kesafim/avadim) are discussed in that prose as part of his position before being explored separately in the next heading.",
+      "chosen_heading": "Rabbi Elazar View",
+      "current_heading": "Rabbi Elazar View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Loans Dependency",
+    "candidates": [
+      "Kesafim & Avadim",
+      "Loans Dependency",
+      "Slaves Release"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic exchange about hashmattat kesafim \u2014 questioning why Rabbi Elazar needed to state it applies outside the land, answering with the baraita about temporal dependency, and resolving the geographic vs. temporal reading \u2014 which is precisely what the 'Loans Dependency' prose describes in detail.",
+      "chosen_heading": "Loans Dependency",
+      "current_heading": "Loans Dependency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Slaves Release",
+    "candidates": [
+      "Slaves Release",
+      "Theological Framework",
+      "Mishna Statuses",
+      "Halachot Medinah",
+      "Halacha L'Moshe",
+      "Safek Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's analysis of shiluach avadim (slave emancipation) in relation to the Jubilee year and its application in chutz la'aretz, which is precisely what the 'Slaves Release' prose describes in detail.",
+      "chosen_heading": "Slaves Release",
+      "current_heading": "Slaves Release",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Safek Distinctions",
+    "candidates": [
+      "Theological Framework",
+      "Mishna Statuses",
+      "Halachot Medinah",
+      "Halacha L'Moshe",
+      "Safek Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items together constitute the Ulla vs. Rav Yehuda dispute about safek orlah vs. safek kilayim in chutz la'aretz, which is exactly what the 'Safek Distinctions' prose describes in detail.",
+      "chosen_heading": "Safek Distinctions",
+      "current_heading": "Safek Distinctions",
+      "moved": false
+    }
+  }
+]

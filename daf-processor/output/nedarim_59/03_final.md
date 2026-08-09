@@ -1,12 +1,9 @@
-# Nedarim 59 — Daf Yomi Shiur
-
+[DAF:59a]
 ## Intro: Growth & Status
 
-### Sugya Overview
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: "קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עָלַי״, "קֻוֽנָּם הֵן עַל פִּי״, "קֻוֽנָּם הֵן לְפִי״ — אָסוּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן. "שֶׁאֲנִי אוֹכֵל״, וְ"שֶׁאֲנִי טוֹעֵם״ — מוּתָּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן בְּדָבָר שֶׁזַּרְעוֹ כָּלֶה, אֲבָל בְּדָבָר שֶׁאֵין זַרְעוֹ כָּלֶה — אֲפִילּוּ גִּידּוּלֵי גִידּוּלִין אֲסוּרִין.
->
-> **Translation:** The Sages taught in a *baraita*: For one who says: **This produce is *konam* upon me,** or **it is *konam* upon my mouth,** or **it is *konam* to my mouth,** it **is prohibited** to partake of the produce, or **of its replacements, or** of anything that **grows from it.** If he says: This produce is *konam* for me, and for **that** reason **I** will not **eat** it, **or** for **that** reason **I** will not **taste** it, it **is permitted** for him to partake **of its replacements or** of anything that **grows from it.** This applies only **with regard to an item whose seeds cease** after it is sown. **However, with regard to an item whose seeds do not cease** after it is sown, it **is prohibited** for him to partake even of the **growths of** its **growths.**
+
+### Sugya Overview
 
 The sugya occupying our attention spans the entirety of Nedarim 59a, and it addresses a question that sits at the intersection of several *issurim*: if an object possesses a *halachic* status — *terumah*, *orlah*, *shmita*, or an object rendered forbidden through a *neder* — and it continues to grow, does the additional growth alter or nullify the original status?
 
@@ -16,10 +13,6 @@ To appreciate the question, consider that the *gemara* had already discussed the
 
 ### Konam vs. Ochel/Toeim
 
-> **Hebrew/Aramaic:** "קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עָלַי״, "קֻוֽנָּם הֵן עַל פִּי״, "קֻוֽנָּם הֵן לְפִי״ — אָסוּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן. "שֶׁאֲנִי אוֹכֵל״, וְ"שֶׁאֲנִי טוֹעֵם״ — מוּתָּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן בְּדָבָר שֶׁזַּרְעוֹ כָּלֶה, אֲבָל בְּדָבָר שֶׁאֵין זַרְעוֹ כָּלֶה — אֲפִילּוּ גִּידּוּלֵי גִידּוּלִין אֲסוּרִין.
->
-> **Translation:** For one who says: **This produce is *konam* upon me,** or **it is *konam* upon my mouth,** or **it is *konam* to my mouth,** it **is prohibited** to partake of the produce, or **of its replacements, or** of anything that **grows from it.** If he says: This produce is *konam* for me, and for **that** reason **I** will not **eat** it, **or** for **that** reason **I** will not **taste** it, it **is permitted** for him to partake **of its replacements or** of anything that **grows from it.** This applies only **with regard to an item whose seeds cease** after it is sown. **However, with regard to an item whose seeds do not cease** after it is sown, it **is prohibited** for him to partake even of the **growths of** its **growths.**
-
 The *gemara* now presents a *baraita* cited by Rami bar Chama that introduces us to the *mishnah* at the heart of the tractate. If someone declares *konam peiros ha-eilu alai* — "these fruits are forbidden to me as a *korban*" — or formulates the prohibition in a generic, object-centered way, then not only are the fruits themselves forbidden but so too is any money exchanged for them (*chilofeihem*) and anything that grows from them (*giduleihem*). The *konam* formulation is a sweeping speech act that imparts a broad *halachic* status to the object and everything flowing from it.
 
 However, if one uses a more restricted formulation — *she-ani ochel* or *she-ani toeim*, "that I will not eat" or "that I will not taste" — the prohibition is framed around a specific act rather than the object itself. In that case, the *mishnah* rules that *chilofeihem u-giduleihem mutarin*: proceeds and new growth are permitted. The reasoning is that eating or tasting the proceeds or the new grain is not the same act as eating or tasting the original fruit. These more limited formulations do not extend to what grows in the fruit's place.
@@ -28,20 +21,17 @@ There is, however, a critical qualification: *be-davar she-zaro kalah* — this 
 
 ### Bittul Question
 
-> **Hebrew/Aramaic:** אָסוּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן. ... בְּדָבָר שֶׁאֵין זַרְעוֹ כָּלֶה — אֲפִילּוּ גִּידּוּלֵי גִידּוּלִין אֲסוּרִין.
->
-> **Translation:** It **is prohibited** to partake of the produce, or **of its replacements, or** of anything that **grows from it.** ... **With regard to an item whose seeds do not cease** after it is sown, it **is prohibited** for him to partake even of the **growths of** its **growths.**
-
 This ruling of the *mishnah* raises a sharp conceptual question. If the onion has grown dramatically — if the original tiny bulb has expanded tenfold — why does *bittul* not apply? Normally, if a small quantity of a forbidden substance falls into a much larger quantity of permitted substance, the forbidden portion is nullified within the majority. Why, then, does the large new growth of the onion not nullify the small original bulb? One thing cannot be *mevatel* itself — the continued growth of the very same object cannot nullify the origin of that growth — and the *mishnah* seems to confirm this: the original onion remains forbidden regardless of how much it has grown. This appears to establish that *bittul* does not apply to a continuously growing object.
 
 ---
 
 ## Rav Abba: Matirin
 
+
+
 ### Nedarim & Bittul
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא: שָׁאנֵי קוֹנָמוֹת, הוֹאִיל וְאִי בָּעֵי מִתְּשִׁיל עֲלַיְיהוּ — הָווּ לְהוּ כְּדָבָר שֶׁיֵּשׁ לוֹ מַתִּירִין, וְאֵין בָּטֵיל בָּרוֹב.
->
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא: שָׁאנֵי קוֹנָמוֹת, הוֹאִיל וְאִי בָּעֵי מִתְּשִׁיל עֲלַיְיהוּ — הָווּ לְהוּ כְּדָבָר שֶׁיֵּשׁ לוֹ מַתִּירִין, וְאֵין בָּטֵיל בָּרוֹב.
 > **Translation:** **Rabbi Abba said: *Konamot* are different; since if he wishes** to do so he can **request** that a halakhic authority dissolve the vows and render the objects of the vows permitted, **their** legal status **is like** that of **an item that can become permitted, and** its prohibition **is not nullified by a majority** of permitted items.
 
 The *gemara* records the response of Rav Abba. He concedes the point: *bittul* indeed does not apply in the case of the *mishnah*. But his reason is not that there is something uniquely impossible about growth-based *bittul* as a general matter. Rather, he argues, *shani konamot* — *nedarim* are categorically different.
@@ -58,15 +48,13 @@ One technical refinement deserves mention: the principle that a *davar she-yesh 
 
 ### Terumah Objection
 
-> **Hebrew/Aramaic:** וַהֲרֵי תְּרוּמָה, דְּאִי בָּעֵי מִיתְּשִׁיל עֲלַהּ, וּבָטְלִי בְּרוֹב. דִּתְנַן: סְאָה תְּרוּמָה טְמֵאָה שֶׁנָּפְלָה לְפָחוֹת מִמֵּאָה חוּלִּין — תֵּרָקֵב. הָא לְמֵאָה — תַּעֲלֶה!
->
-> **Translation:** The Gemara asks: **And** isn't there the case of ***teruma*,** in **which if** he **wishes** he can **request** that a halakhic authority dissolve the designation of the produce as *teruma* **and** yet it is **nullified by a majority** of permitted items? **As we learned** in a mishna (*Terumot* 5:1): **A *se'a* of ritually impure *teruma* that fell into less than one hundred** *se'a* of **non-sacred produce** must be left **to decay.** The impure *teruma*, which is forbidden to all, renders the entire mixture forbidden. The Gemara infers: If it fell **into one hundred** *se'a* of non-sacred produce, its prohibition **is neutralized.**
-
 The *gemara* immediately raises an objection. *Ve-harei terumah* — consider *terumah*. Just as a *neder* can in principle be reversed by approaching a *chacham* who may find grounds to annul it retroactively, so too can *terumah* be reversed: if a *chacham* determines that the original designation was made in error or without proper intent, the speech act can be undone and the grain retroactively becomes *tevel*. Yet we know that *terumah* is subject to *bittul* — there is a well-established rule that *terumah* that falls into a mixture of *chullin* is nullified if the ratio is one part in a hundred. Why does *terumah* not qualify as a *davar she-yesh lo matirin* and thereby escape *bittul*?
 
 ---
 
 ## Speech Acts & Status
+
+
 
 ### Power of Speech
 
@@ -82,25 +70,29 @@ One might observe a certain theological resonance here. The power of divine spee
 
 ### Terumah Batel Case
 
-> **Hebrew/Aramaic:** אָמְרִי: בִּתְרוּמָה בְּיַד כֹּהֵן עָסְקִינַן, דְּלָא מָצֵי מִיתְּשִׁיל עֲלַהּ.
->
-> **Translation:** The Sages of the Gemara **say** in response: **We are dealing with *teruma*** that is **in the possession of a priest,** for **which** the owner **can no** longer **request** that a halakhic authority dissolve the designation.
-
 If *terumah* can also be reversed through a speech-act annulment, why is *terumah* not treated as a *davar she-yesh lo matirin*? The *gemara*'s first attempt at resolution is to restrict the scope of the question: perhaps *bittul* only applies to *terumah* that has already been given to a *kohen*. Once *terumah* has been transferred into the physical possession of a *kohen*, the speech act has had a concrete real-world effect: another person now owns the object and has relied on it. At that point, one cannot reverse the designation by approaching a *chacham* — the *kohen* would be deprived of property he has legitimately received. Since reversal is no longer possible, *terumah* in the hands of a *kohen* is no longer a *davar she-yesh lo matirin*, and *bittul* can apply.
+
+> **Hebrew/Aramaic:** וַהֲרֵי תְּרוּמָה, דְּאִי בָּעֵי מִיתְּשִׁיל עֲלַהּ, וּבָטְלִי בְּרוֹב. דִּתְנַן: סְאָה תְּרוּמָה טְמֵאָה שֶׁנָּפְלָה לְפָחוֹת מִמֵּאָה חוּלִּין — תֵּרָקֵב. הָא לְמֵאָה — תַּעֲלֶה! אָמְרִי: בִּתְרוּמָה בְּיַד כֹּהֵן עָסְקִינַן, דְּלָא מָצֵי מִיתְּשִׁיל עֲלַהּ.
+> **Translation:** The Gemara asks: **And** isn’t there the case of ***teruma*,** in **which if** he **wishes** he can **request** that a halakhic authority dissolve the designation of the produce as *teruma* **and** yet it is **nullified by a majority** of permitted items? **As we learned** in a mishna (*Terumot* 5:1): **A *se’a* of ritually impure *teruma* that fell into less than one hundred** *se’a* of **non-sacred produce** must be left **to decay.** The impure *teruma*, which is forbidden to all, renders the entire mixture forbidden. The Gemara infers: If it fell **into one hundred** *se’a* of non-sacred produce, its prohibition **is neutralized.** The Sages of the Gemara **say** in response: **We are dealing with *teruma*** that is **in the possession of a priest,** for **which** the owner **can no** longer **request** that a halakhic authority dissolve the designation. However, as long as the *teruma* is in the owner’s possession he can request that its designation be dissolved, and therefore its prohibition cannot be neutralized.
 
 ---
 
 ## Terumah Transfer
 
+
+
 ### Terumah Pre-Transfer
 
-> **Hebrew/Aramaic:** אִי הָכִי, אֵימָא סֵיפָא: אִם הָיְתָה טְהוֹרָה תִּמָּכֵר לְכֹהֵן! אֶלָּא בְּיִשְׂרָאֵל שֶׁנָּפְלוּ לוֹ מִבֵּית אֲבִי אִמּוֹ כֹּהֵן עָסְקִינַן. [וְהָא] קָתָנֵי סֵיפָא: תִּימָּכֵר לְכֹהֵן חוּץ מִדְּמֵי אוֹתָהּ סְאָה?
->
-> **Translation:** The Gemara asks: **If so, say the latter clause** of that mishna: **If** the *teruma* mixed with the non-sacred produce **was ritually pure,** it may **be sold to a priest,** who treats all the produce as though it were *teruma*. This indicates that the mishna is dealing with *teruma* in its owner's possession that was not yet given to a priest. **Rather, we are dealing with** the case of **an Israelite who inherited** the produce **from** a member of **the house of his mother's father,** who is **a priest.** The heir owns the *teruma*; however, since he was not the one who designated it as *teruma*, he may not request that the designation be dissolved. The Gemara asks: **But isn't it taught in** that **latter clause** of that mishna: It must **be sold to a priest;** however, the price must reflect the value of the entire mixture **except for the value of that *se'a*** of *teruma* that fell into the non-sacred produce, as the *teruma* belongs to the priest. If the mishna is referring to the case of an heir who owns the *teruma*, why can he not collect the value of that *se'a* as well, as it is his property?
+
+> **Hebrew/Aramaic:** אִי הָכִי, אֵימָא סֵיפָא: אִם הָיְתָה טְהוֹרָה תִּמָּכֵר לְכֹהֵן! אֶלָּא בְּיִשְׂרָאֵל שֶׁנָּפְלוּ לוֹ מִבֵּית אֲבִי אִמּוֹ כֹּהֵן עָסְקִינַן.
+> **Translation:** The Gemara asks: **If so, say the latter clause** of that mishna: **If** the *teruma* mixed with the non-sacred produce **was ritually pure,** it may **be sold to a priest,** who treats all the produce as though it were *teruma*. This indicates that the mishna is dealing with *teruma* in its owner’s possession that was not yet given to a priest. **Rather, we are dealing with** the case of **an Israelite who inherited** the produce **from** a member of **the house of his mother’s father,** who is **a priest.** The heir owns the *teruma*; however, since he was not the one who designated it as *teruma*, he may not request that the designation be dissolved.
+
+> **Hebrew/Aramaic:** [וְהָא] קָתָנֵי סֵיפָא: תִּימָּכֵר לְכֹהֵן חוּץ מִדְּמֵי אוֹתָהּ סְאָה?
+> **Translation:** The Gemara asks: **But isn’t it taught in** that **latter clause** of that mishna: It must **be sold to a priest;** however, the price must reflect the value of the entire mixture **except for the value of that *se’a*** of *teruma* that fell into the non-sacred produce, as the *teruma* belongs to the priest. If the mishna is referring to the case of an heir who owns the *teruma*, why can he not collect the value of that *se’a* as well, as it is his property?
 
 The *gemara* tests this proposed limitation by examining the continuation of the *mishnah* it cited. The *mishnah* discusses *se'ah terumah tme'iah* — a unit of impure *terumah* — that fell into a mixture of fewer than a hundred units of *chullin*, which is insufficient for *bittul* since *terumah* requires a ratio of one in a hundred. The *mishnah* says: *tirakev* — let it rot. By implication, the *gemara* infers, if it had fallen into a hundred units, *ta'aleh* — it would be nullified and the mixture would be permitted. This establishes that *bittul* does apply to *terumah*.
 
-But the *mishnah*'s continuation — *im hayeta tehorah*, the case where pure *terumah* became mixed — instructs that such a mixture should be sold to a *kohen*. This language, the *gemara* notes, indicates clearly that the *terumah* has not yet been given to a *kohen*; it is still in the possession of the Israelite who separated it. His only recourse is to find a *kohen* willing to purchase the entire mixture. Yet the *gemara* had proposed that *bittul* only applies after transfer to a *kohen*. Here we have *bittul* applying to *terumah* that has never been given to a *kohen*. The proposed limitation collapses.
+But the *mishnah*'s continuation — *im hayeta tehorah*, the case where pure *terumah* became mixed — instructs that such a mixture should be sold to a *kohen*. This language, the *gemara* notes, indicates clearly that the *terumah* has not yet been given to a *kohen*; it is still in the possession of the Israelite who separated it. His only recourse is to find a *kohen* willing to purchase the entire mixture. The Israelite is, practically speaking, over a barrel: the *kohen* knows the Israelite cannot eat the mixture himself, and so he will not pay the going rate for grain — he will pay only the *terumah* rate, which is lower. The Israelite has no real leverage. Nevertheless, the *mishnah* says this is what one does — sell it to a *kohen*, and at least salvage something from it. Yet the *gemara* had proposed that *bittul* only applies after transfer to a *kohen*. Here we have *bittul* applying to *terumah* that has never been given to a *kohen*. The proposed limitation collapses.
 
 ### No Charge Rule
 
@@ -112,15 +104,17 @@ The conclusion is that *bittul* demonstrably applies to *terumah* that is still 
 
 ## Rabbi Natan Critique
 
-### R. Natan Source
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא קוּנָּמוֹת — מִצְוָה לְאִיתְּשׁוֹלֵי עֲלֵיהֶן, מִשּׁוּם דְּרַבִּי נָתָן. דְּאָמַר רַבִּי נָתָן: כׇּל הַנּוֹדֵר — כְּאִילּוּ בָּנָה בָּמָה, וְהַמְקַיְּימוֹ — כְּאִילּוּ מַקְטִיר עָלֶיהָ. תְּרוּמָה מַאי מִצְוָה לְאִיתְּשׁוֹלֵי עֲלַהּ?
->
-> **Translation:** **Rather, say** that there is another distinction between *konamot* and other cases where one may request dissolution by a halakhic authority. **Granted,** in the case of ***konamot*,** there is **a mitzva to request** that a halakhic authority dissolve **them, due to** the statement **of Rabbi Natan, as Rabbi Natan said: Anyone who vows, it is as if he built** a personal **altar** outside the Temple, **and one who fulfills** that vow, it is **as though he burns** an offering **upon it.** However, in the case of ***teruma*, what mitzva** is there **to request** that a halakhic authority dissolve **its** designation?
+
+### R. Natan Source
 
 The *gemara* now arrives at the definitive answer. *Bishlama konamot* — for *nedarim*, it makes sense that they are classified as *yesh lo matirin* and therefore not subject to *bittul*. The reason is stated explicitly: *mitzvah le'itshulei aleihu* — there is a positive obligation to seek release from a vow. And the source for this obligation is Rabbi Natan.
 
+> **Hebrew/Aramaic:** אֶלָּא אֵימָא: בִּשְׁלָמָא קוּנָּמוֹת — מִצְוָה לְאִיתְּשׁוֹלֵי עֲלֵיהֶן, מִשּׁוּם דְּרַבִּי נָתָן. דְּאָמַר רַבִּי נָתָן: כׇּל הַנּוֹדֵר — כְּאִילּוּ בָּנָה בָּמָה, וְהַמְקַיְּימוֹ — כְּאִילּוּ מַקְטִיר עָלֶיהָ. תְּרוּמָה מַאי מִצְוָה לְאִיתְּשׁוֹלֵי עֲלַהּ?
+> **Translation:** **Rather, say** that there is another distinction between *konamot* and other cases where one may request dissolution by a halakhic authority. **Granted,** in the case of ***konamot*,** there is **a mitzva to request** that a halakhic authority dissolve **them, due to** the statement **of Rabbi Natan, as Rabbi Natan said: Anyone who vows, it is as if he built** a personal **altar** outside the Temple, **and one who fulfills** that vow, it is **as though he burns** an offering **upon it.** However, in the case of ***teruma*, what mitzva** is there **to request** that a halakhic authority dissolve **its** designation? Therefore, items forbidden by *konamot* are considered items that can become permitted, and *teruma* is not.
+
 ### Bamah Metaphor
+
 
 Rabbi Natan states: *kol ha-noder ke'ilu bana bamah* — anyone who makes a vow is as though he built a *bamah*, a private altar. The *bamah* is a resonant image. In an era when the *Beit HaMikdash* stands, constructing a private altar — even with sincere devotion to God — is a transgression. The worshipper may believe he is enhancing his religious experience; he is not. He is setting himself up as a private religious authority, creating his own sacred space outside the framework of communal, institutionalized worship.
 
@@ -142,6 +136,8 @@ This makes best sense against the historical background in which *nedarim* were 
 
 ## Mitzvah to Reverse
 
+
+
 ### Mitzvah Reversal
 
 Returning now to the legal question: since there is a *mitzvah* to seek release from a *neder*, the status of *neder*-based prohibition is categorically different from other *issurim*. The existence of a *mitzvah* to undo the *neder* means that the prohibition is, in a sense, already pointing toward its own dissolution. This is why it qualifies as a genuine *davar she-yesh lo matirin*: not merely that reversal is theoretically possible, but that reversal is what one is *supposed* to do. Rather than relying on *bittul* to navigate the practical consequences of the *neder*, one should simply go to a *chacham*, have the vow released, and the problem resolves itself entirely. That is the *halachically* preferred path, and because it exists, the tool of *bittul* is withheld.
@@ -154,21 +150,22 @@ By contrast, *terumah* carries no corresponding obligation to reverse it. Quite 
 
 ## R. Yochanan Case
 
-### Replanted Tithes
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: לִיטְרָא בְּצָלִים שֶׁתִּיקְּנָהּ וּזְרָעָהּ — מִתְעַשֶּׂרֶת לְפִי כוּלָּהּ.
->
-> **Translation:** **Rabbi Yoḥanan said:** With regard to **a *litra* of onions that one tithed, and** then **sowed, it is tithed according to the entire** crop.
+
+[DAF:59b]
+### Replanted Tithes
 
 The *gemara* now turns to a statement of Rabbi Yochanan that was cited earlier in the sugya and examines it directly. Rabbi Yochanan states: *litra betzalim she-tikna ve-zara* — if one had a *litra* of onions from which *terumot u-ma'asrot* had already been taken, and one then planted those onions, the subsequent produce is subject to *ma'aser* based on the total quantity — *mit'aseret lefi kulah*. One does not subtract the original unit from the calculation on the grounds that it had already been tithed; the entire yield, including the original unit, is treated as new *tevel* produce subject to a fresh round of *terumot u-ma'asrot*.
 
 This is a striking ruling, and it raises the fundamental question about *bittul* in a new register. Evidently, when one actively plants already-tithed grain and it grows into a larger yield, the original unit's previously-fixed status is overridden: it becomes subsumed into the new *tevel* identity of the entire crop, and one must tithe from the whole.
 
-### Chisda Objection
+> **Hebrew/Aramaic:** גּוּפָא, אָמַר רַבִּי יוֹחָנָן: לִיטְרָא בְּצָלִים שֶׁתִּיקְּנָהּ וּזְרָעָהּ — מִתְעַשֶּׂרֶת לְפִי כוּלָּהּ. יָתֵיב רַבָּה וְקָאָמַר לְהָא שְׁמַעְתָּא. אֲמַר לֵיהּ רַב חִסְדָּא: מַאן צָאֵית לָךְ וּלְרַבִּי יוֹחָנָן רַבָּךְ! הֶיתֵּר שֶׁבָּהֶן לְהֵיכָן הָלַךְ? אֲמַר לֵיהּ: מִי לָא תְּנַן דִּכְווֹתַהּ: בְּצָלִים שֶׁיָּרְדוּ עֲלֵיהֶם גְּשָׁמִים וְצִימְּחוּ,
+> **Translation:** § With regard to **the** matter **itself, Rabbi Yoḥanan said:** With regard to **a *litra* of onions that one tithed, and** then **sowed, it is tithed according to the entire** crop. **Rabba sat and stated this *halakha*. Rav Ḥisda said to him: Who listens to you and Rabbi Yoḥanan, your teacher? The permitted part of** the *litra*, **to where did it go?** The original *litra* that he sowed was permitted by virtue of the fact that he tithed it, but why is he obligated to tithe the entire crop? The original *litra* should be subtracted from the crop that must be tithed. Rabba **said to** Rav Ḥisda: **Didn’t we learn a corresponding** *halakha* in a mishna (*Shevi’it* 6:3): With regard to sixth-year **onions upon which rain fell** during the Sabbatical Year, **and they sprouted,**
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב חִסְדָּא: מַאן צָאֵית לָךְ וּלְרַבִּי יוֹחָנָן רַבָּךְ! הֶיתֵּר שֶׁבָּהֶן לְהֵיכָן הָלַךְ?
->
-> **Translation:** **Rav Ḥisda said to him: Who listens to you and Rabbi Yoḥanan, your teacher? The permitted part of** the *litra*, **to where did it go?**
+> **Hebrew/Aramaic:** אִם הָיוּ עָלִין שֶׁלָּהֶן שְׁחוֹרִין — אֲסוּרִין, הוֹרִיקוּ — מוּתָּרִין. וְכִי שְׁחוֹרִין אַמַּאי אֲסוּרִין? לֵימָא: הֶיתֵּר שֶׁבָּהֶן לְהֵיכָן הָלַךְ? אֲמַר לֵיהּ: מִי סָבְרַתְּ עַל עִיקָּר קָתָנֵי? אַתּוֹסֶפֶת קָתָנֵי אֲסוּרִין. אִי הָכִי, מַאי אֲתָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל לְמֵימַר? דְּתַנְיָא, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: הַגָּדֵל בְּחִיּוּב — חַיָּיב, הַגָּדֵל בִּפְטוּר — פָּטוּר. תַּנָּא קַמָּא נָמֵי הָכִי אָמַר!
+> **Translation:** **if their leaves were black,** the onions are **forbidden.** If their leaves **turned green,** the onions are **permitted. And if** the leaves **are black, why** are the onions **forbidden? Let us say** in this case too: **The permitted part,** the original onion, **to where did it go?** Rav Ḥisda **said to** Rabba: **Do you maintain** that this *halakha* **is taught about the primary,** original onion, that it is prohibited? It **is taught with regard to the additional** growth that sprouted, and it is those leaves that **are forbidden.** The Gemara asks: **If so, what is Rabban Shimon ben Gamliel,** who apparently disagrees with the *tanna* of the mishna, **coming to say? As it is taught** in a *baraita* that **Rabban Shimon ben Gamliel says: That which grew during** a period of **liability is liable** and is considered Sabbatical-Year produce, and that **which grew during** a period of **exemption is exempt.** According to Rav Ḥisda’s explanation, **the first *tanna*,** cited in the mishna, **also said that.**
+
+### Chisda Objection
 
 Rav Chisda's reaction to this teaching is memorable in its directness: *man tsayeis lach u-le-Rabbi Yochanan rabach?* — who would listen to you or your teacher Rabbi Yochanan in saying such a thing? His objection is: *heter she-bahen le-heichan halach?* — where did the *heter* portion go? That original unit was already tithed; it had *heter* status. Where did that status disappear to?
 
@@ -177,6 +174,8 @@ On the surface, this might seem like an ordinary *bittul* question — after all
 ---
 
 ## Bittul Mechanics
+
+
 
 ### Ran Analysis
 
@@ -192,31 +191,28 @@ But this analysis, the Ran continues, creates a difficulty for Rabbi Yochanan's 
 
 One of the *acharonim* poses a related question that illuminates this conceptual point. If nine *mezuzot* written with proper intent are mixed with one *mezuzah* written without proper intent, does the one defective *mezuzah* become *kasher* through *bittul*? The intuitive answer is no — *bittul* does not work to impart a positive *halachic* status onto an object. It is a mechanism for eliminating *issur*, not for conferring *heter* or *kashrut*. This is the same structural question raised by Rav Chisda: can *bittul* go in the direction of imposing a status, rather than merely removing one?
 
+The Ran's way of framing the difficulty sharpens this point further. When pig fat falls into a soup and is nullified because it cannot be tasted, we are not saying that the pig fat itself has disappeared or ceased to be pig fat. The Ran understands *bittul* as operating on the *issur* — the prohibition — rather than on the substance itself. The forbidden ingredient is still physically present; what *bittul* accomplishes is that its prohibition lapses, because the taste and identity of the forbidden thing can no longer be discerned. The thing does not vanish; its *assur* status does. Understood this way, *bittul* is always and only a mechanism for dissolving an existing prohibition. It has no capacity to reach out and attach a new obligatory status to something that was already *heter*. And that is precisely what would have to happen under Rabbi Yochanan's ruling: the original tithed unit, which carried no remaining obligation, would have to be swept back into *tevel* status by virtue of the new growth surrounding it. That is not the removal of an *issur* — it is the creation of one, which sits entirely outside the logic of *bittul*.
+
 ---
 
 ## Onion Growth Split
 
-### Six-to-Seven Year
 
-> **Hebrew/Aramaic:** דִּתְנַן: סְאָה תְּרוּמָה טְמֵאָה שֶׁנָּפְלָה לְפָחוֹת מִמֵּאָה חוּלִּין — תֵּרָקֵב. הָא לְמֵאָה — תַּעֲלֶה! אָמְרִי: בִּתְרוּמָה בְּיַד כֹּהֵן עָסְקִינַן, דְּלָא מָצֵי מִיתְּשִׁיל עֲלַהּ. ... אִם הָיוּ עָלִין שֶׁלָּהֶן שְׁחוֹרִין — אֲסוּרִין, הוֹרִיקוּ — מוּתָּרִין.
->
-> **Translation:** **As we learned** in a mishna (*Terumot* 5:1): **A *se'a* of ritually impure *teruma* that fell into less than one hundred** *se'a* of **non-sacred produce** must be left **to decay.** The impure *teruma*, which is forbidden to all, renders the entire mixture forbidden. The Gemara infers: If it fell **into one hundred** *se'a* of non-sacred produce, its prohibition **is neutralized.** The Sages of the Gemara **say** in response: **We are dealing with *teruma*** that is **in the possession of a priest,** for **which** the owner **can no** longer **request** that a halakhic authority dissolve the designation. ... With regard to sixth-year **onions upon which rain fell** during the Sabbatical Year, **and they sprouted,** **if their leaves were black,** the onions are **forbidden.** If their leaves **turned green,** the onions are **permitted.**
+
+### Six-to-Seven Year
 
 The *gemara* now turns to the *mishnah* about the onion that grew from the sixth year into the seventh year of the *shmitta* cycle — what has been called throughout the *sugyya* the paradigmatic case. The *mishnah* addresses onions that began growing in the sixth year, continued through the transition into the seventh year, and were still in the ground during *shmitta*. The question is: what *halachic* status does the resulting onion bear?
 
 ### Black Leaves Test
 
-The *mishnah* provides an observable criterion: *im hayu alin shelahen shchorim* — if the leaves of the onion are black, *assurin* — the onion is forbidden. *Horiku* — if the leaves have turned green, *mutarin* — it is permitted. The blackness or greenness of the leaves serves as an evidentiary indicator of when the decisive growth occurred. Black leaves suggest that the onion's significant growth happened during the *shmitta* year, while green leaves suggest it remained essentially a sixth-year product.
+
+The *mishnah* provides an observable criterion: *im hayu alin shelahen shchorin* — if the leaves of the onion are black, *assurin* — the onion is forbidden. *Horiku* — if the leaves have turned green, *mutarin* — it is permitted. The blackness or greenness of the leaves serves as an evidentiary indicator of when the decisive growth occurred. Black leaves suggest that the onion's significant growth happened during the *shmitta* year, while green leaves suggest it remained essentially a sixth-year product.
 
 The *gemara* now asks: if the leaves are black and the onion is therefore *assur*, why is the *whole* onion forbidden? Surely some part of the onion grew in the sixth year, when there was no *issur*. One would expect only the portion that grew during the seventh year to be forbidden. Why does the *mishnah* speak of the onion as simply *assur*, apparently as a whole?
 
 This language raises the very question about *bittul* in reverse: if the larger seventh-year portion renders the entire onion forbidden, it would appear that the seventh-year *issur* has been imposed not merely on the new growth but on the original sixth-year portion as well, transforming *heter* into *issur*. If so, the *gemara* would have evidence that *bittul* can indeed work bidirectionally — not only to erase *issur* but to impart it.
 
 ### New Growth Only
-
-> **Hebrew/Aramaic:** וְכִי שְׁחוֹרִין אַמַּאי אֲסוּרִין? לֵימָא: הֶיתֵּר שֶׁבָּהֶן לְהֵיכָן הָלַךְ? אֲמַר לֵיהּ: מִי סָבְרַתְּ עַל עִיקָּר קָתָנֵי? אַתּוֹסֶפֶת קָתָנֵי אֲסוּרִין.
->
-> **Translation:** **And if** the leaves **are black, why** are the onions **forbidden? Let us say** in this case too: **The permitted part,** the original onion, **to where did it go?** Rav Ḥisda **said to** Rabba: **Do you maintain** that this *halakha* **is taught about the primary,** original onion, that it is prohibited? It **is taught with regard to the additional** growth that sprouted, and it is those leaves that **are forbidden.**
 
 The *gemara* resolves the question by reinterpreting the *mishnah*'s language. *Mi savrat a-ikar katani* — do you think the *mishnah* is saying that even the original part of the onion is forbidden? *A-tosefet katani* — it is speaking only about the new growth. The *mishnah*'s ruling that the onion is *assur* refers specifically to the portion that grew during the seventh year. The original sixth-year core retains its *heter* status.
 
@@ -226,11 +222,9 @@ To be sure, since the two portions are thoroughly commingled within the same oni
 
 ## R. Gamliel Split
 
-### Gamliel Position
 
-> **Hebrew/Aramaic:** אִי הָכִי, מַאי אֲתָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל לְמֵימַר? דְּתַנְיָא, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: הַגָּדֵל בְּחִיּוּב — חַיָּיב, הַגָּדֵל בִּפְטוּר — פָּטוּר.
->
-> **Translation:** If so, what is Rabban Shimon ben Gamliel, who apparently disagrees with the *tanna* of the mishna, **coming to say? As it is taught** in a *baraita* that **Rabban Shimon ben Gamliel says: That which grew during** a period of **liability is liable** and is considered Sabbatical-Year produce, and that **which grew during** a period of **exemption is exempt.**
+
+### Gamliel Position
 
 With this reading established, the *gemara* examines the *baraita* that features Rabban Shimon ben Gamliel commenting on the same case. Rabban Shimon ben Gamliel states: *ha-gadel be-chiyuv chayav, ha-gadel be-fator patur* — that which grew during the period of obligation (*shmitta*) has the status of obligation; that which grew during the period of exemption (the sixth year) is exempt from *shmitta* restrictions.
 
@@ -238,11 +232,10 @@ Rabban Shimon ben Gamliel is explicitly articulating the principle that differen
 
 ### Tanna Kamma Debate
 
-> **Hebrew/Aramaic:** תַּנָּא קַמָּא נָמֵי הָכִי אָמַר! כּוּלָּהּ מַתְנִיתִין רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל קָתָנֵי לַהּ.
->
-> **Translation:** According to Rav Ḥisda's explanation, **the first *tanna*,** cited in the mishna, **also said that.** The Gemara explains: This is not difficult, as this **entire mishna, Rabban Shimon ben Gamliel taught it.**
 
 The *gemara* infers that this position of Rabban Gamliel is being offered as a clarification or qualification of what the *tanna kamma* seemed to say. The *tanna kamma*'s language — that the onion is *assur* — appeared to attribute the *assur* status to the entire onion, potentially suggesting that the seventh-year growth transforms the sixth-year portion as well. Rabban Gamliel contests this reading and insists that the portions must be tracked independently.
+
+What makes this significant is that the *tanna kamma*'s formulation seemed to offer evidence for a striking proposition: that *bittul* can work not merely to erase a status, but to actively *impart* a new one. If the sixth-year portion — which was *heter* — becomes *assur* by virtue of the seventh-year majority, that would mean the new, problematic status is being transmitted onto the old, neutral material. This is qualitatively different from *bittul* simply nullifying something; it would mean *bittul* functions in reverse, transforming *heter* into *issur*. The onion case, on its surface, appeared to be evidence that this can happen — that just as *bittul* can neutralize a minority *issur* into a *heter* majority, a *heter* minority can be swept up and re-characterized as *issur* by a majority carrying that status. The same dynamic that seemed to appear here would apply to *tevel*: if the new growth is *tevel*, does it render the original sixth-year portion *tevel* as well?
 
 The *gemara* proposes that our *mishnah* itself reflects the position of Rabban Shimon ben Gamliel — and that the *tanna kamma* of the *baraita* may also be read consistently with this approach. On this reading, there is no actual dispute: everyone agrees that only the new seventh-year growth is *assur*, and the *tanna kamma*'s language is simply speaking about the new portion in shorthand. The *mishnah* and the *baraita*'s first opinion are thus harmonized under Rabban Gamliel's framework.
 
@@ -250,11 +243,12 @@ The *gemara* proposes that our *mishnah* itself reflects the position of Rabban 
 
 ## Effort & Identity
 
+
+
 ### No Effort Case
 
-> **Hebrew/Aramaic:** וְעַד כָּאן לָא שָׁמְעַתְּ לֵיהּ לְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל דְּלָא קָא טָרַח, אֲבָל הֵיכָא דְּקָא טָרַח — בָּטֵיל בְּרוּבָּא.
->
-> **Translation:** **And** nevertheless, the mishna and the *baraita* pose no difficulty with regard to the opinion of Rabba, as **you heard that Rabban Shimon ben Gamliel** said that the prohibition of the primary, original part is not nullified **only** in a case where **he did not exert** himself, and the leaves sprouted on their own. **However,** in the case **where he exerted** himself, e.g., by sowing or planting, the prohibition of the original onions is **neutralized by the majority.**
+> **Hebrew/Aramaic:** כּוּלָּהּ מַתְנִיתִין רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל קָתָנֵי לַהּ. וְעַד כָּאן לָא שָׁמְעַתְּ לֵיהּ לְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל דְּלָא קָא טָרַח, אֲבָל הֵיכָא דְּקָא טָרַח — בָּטֵיל בְּרוּבָּא.
+> **Translation:** The Gemara explains: This is not difficult, as this **entire mishna, Rabban Shimon ben Gamliel taught it.** In the *baraita* Rabban Shimon ben Gamliel is not disagreeing with the opinion of the first *tanna* of the mishna; he is merely restating it. **And** nevertheless, the mishna and the *baraita* pose no difficulty with regard to the opinion of Rabba, as **you heard that Rabban Shimon ben Gamliel** said that the prohibition of the primary, original part is not neutralized **only** in a case where **he did not exert** himself, and the leaves sprouted on their own. **However,** in the case **where he exerted** himself, e.g., by sowing or planting, the prohibition of the original onions is **neutralized by the majority.**
 
 Having established that in the onion case, where growth simply continued naturally from year six into year seven without any human intervention, the old and new portions retain distinct statuses — the *gemara* now asks whether this analysis is universal. Is it always true that *bittul* cannot transform *heter* into *issur*, or are there circumstances in which the original portion's identity genuinely changes?
 
@@ -270,27 +264,23 @@ This is why Rav Chisda's question arises specifically in Rabbi Yochanan's case: 
 
 The *Ran* articulates this principle explicitly: *hani mili heicha de-lo tarach le-vatulei* — the rule that the original portion retains its status and only the new growth takes on the new status applies only where no transformative effort was made, as in the onion growing naturally from year six to year seven. But *aval heicha de-tarach* — where effort was invested, as when one took a unit of onions and planted them in the ground, *asu gidulim um-vatlin ikar le-gamrei* — the new growth comes up and completely transforms the original, to the point where even the original *heter* turns into *issur*.
 
+This last point is worth pausing on, because it is genuinely surprising. We are not simply saying that the new growth takes on a new *issur* status while the original *heter* remains intact. We are saying that the act of planting causes even the original permitted portion to be pulled into the new *issur* identity. The directionality runs against our intuitions: ordinarily we expect *heter* to be stable unless something actively renders it forbidden. Here, the transformation works in reverse — the *issur* of the new crop swallows the *heter* of the original, precisely because planting has dissolved the boundary between them. This is only coherent if identity transformation is taken seriously: once the object has been fully redefined, there is no "original portion" left to which the prior *heter* still attaches.
+
 The conceptual underpinning is this: when one takes produce and plants it, one has transformed the object from *vegetable* to *seed*. It is no longer the onion one had; it is a seed from which something new grows. The act of planting confers a new identity upon the original material. And once identity is transformed, the question of what the "original" status was becomes moot — there is no "original" in the relevant sense anymore. Everything that grows belongs to the new crop with its new status.
 
 ---
 
 ## Untithed Seed
 
-### Ma'aser Contrast
 
-> **Hebrew/Aramaic:** וְכׁוֹל הֵיכָא דְּקָא טָרַח בָּטֵיל בְּרוּבָּא? וַהֲרֵי לִיטְרָא מַעֲשֵׂר טֶבֶל, דְּקָטָרַח, וְקָתָנֵי: וְאוֹתָהּ לִיטְרָא מְעַשֵּׂר עָלָיו מִמָּקוֹם אַחֵר לְפִי חֶשְׁבּוֹן!
->
-> **Translation:** **And anywhere that one exerts** himself, **is** the original part **nullified by the majority?** The Gemara asks: **And** isn't there the case of one who sowed **a *litra* of untithed tithe,** where **he exerts** himself to sow it, **and it is taught: And that** original ***litra*** of untithed first tithe that he sowed, one **proportionally tithes for it from** produce in **a different place,** and its prohibition is not neutralized by the growth.
+
+### Ma'aser Contrast
 
 The *gemara* immediately challenges this framework with a countercase. *Ve-harei litra ma'aser tevel de-ka-tarach* — consider the case of a unit of *ma'aser* that was *tevel* (meaning the *terumat ma'aser* had not yet been taken from it), and one went ahead and planted it. Effort was clearly exerted — planting is the paradigmatic *tarach*. Yet the *mishnah* or *baraita* in question rules that one does not simply treat the entire yield as new *tevel* and tithe from the whole. Instead, one still separately addresses the original unit's *ma'aser tevel* status. The original *tevel* status of that planted unit is not erased and replaced by the new crop's status; it persists.
 
 This appears to be the same scenario — active planting of a unit that then grows — yet the outcome is the opposite of Rabbi Yochanan's case. In Rabbi Yochanan's case, actively planting already-tithed grain into a larger crop causes the original's *heter* to be absorbed into the new crop's *tevel* identity. Here, actively planting *tevel* grain apparently does not cause the original *tevel* unit's status to be absorbed into the new crop in the same way.
 
 ### Verse Limitation
-
-> **Hebrew/Aramaic:** שָׁאנֵי גַּבֵּי מַעֲשֵׂר, דְּאָמַר קְרָא ״עַשֵּׂר תְּעַשֵּׂר וְגוֹ׳״, וְהֶיתֵּירָא — זָרְעִי אִינָשֵׁי, אִיסּוּרָא — לָא זָרְעִי אִינָשֵׁי.
->
-> **Translation:** It **is different with regard to tithe, as the verse states: "You shall tithe** all the produce of your seed that is brought forth in the field" (Deuteronomy 14:22), indicating that all permitted seeds that are sown must be tithed, since **permitted** seeds that were tithed, **people** typically **sow. Forbidden** seeds that were not tithed, **people do not** typically **sow,** but the Sages penalized one who sowed untithed seeds and required him to tithe that which he was originally obligated to tithe and decreed that it is not neutralized by the majority.
 
 The *gemara* resolves this tension by appeal to a *pasuk*: *aser ta'aser et kol tevuat zar'echa* — you shall tithe all the produce of your seed. The critical word, the *gemara* notes, is *zar'echa* — your seed. This verse is addressed to the person planting in the normal, standard manner: *de-hetra zari inshi* — normal people plant *heter* grain, grain from which they have already taken *terumot u-ma'asrot*. The verse presupposes this normal scenario and instructs that everything that grows from such planting is assessed together as new produce for purposes of *ma'aser*.
 

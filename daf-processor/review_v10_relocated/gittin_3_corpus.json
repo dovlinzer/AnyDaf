@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Tosafot Defense",
+    "candidates": [
+      "Core Dispute Intro",
+      "Rabbah's Lishma Focus",
+      "Rava's Signature Focus",
+      "Nafka Minot Examples",
+      "One Witness Problem",
+      "Ed Echad Principle",
+      "Itchazek Issura Issue",
+      "Tosafot Defense",
+      "Davar Shebe'erva",
+      "Rov Principle",
+      "Rabbi Meir Mi'uta",
+      "Sofrim Knowledge",
+      "Mi'ut Categories",
+      "Leidas Hasafek",
+      "Rabbis' Initiative",
+      "Why Higher Standard",
+      "Rabbinic vs. Biblical",
+      "Two Witness Problem",
+      "Apparent Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 14,
+      "confidence": "high",
+      "reason": "Both items together express the complete gemara answer: rov beki'in means there is no real safek, even Rabbi Meir concedes because sofrim are learned, and it is the Rabbis who imposed the requirement \u2014 then relaxed it mishum aguna \u2014 which is precisely what heading 14 ('Rabbis' Initiative') describes with ve-rabbanan hu de-atzrich and mishum aguna akilu bah rabbanan.",
+      "chosen_heading": "Rabbis' Initiative",
+      "current_heading": "Tosafot Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Apparent Stringency",
+    "candidates": [
+      "Davar Shebe'erva",
+      "Rov Principle",
+      "Rabbi Meir Mi'uta",
+      "Sofrim Knowledge",
+      "Mi'ut Categories",
+      "Leidas Hasafek",
+      "Rabbis' Initiative",
+      "Why Higher Standard",
+      "Rabbinic vs. Biblical",
+      "Two Witness Problem",
+      "Apparent Stringency",
+      "Shaliach Diligence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage directly raises the challenge that accepting one witness is not a leniency but a stringency because two witnesses would prevent a husband from contesting the get, which is precisely what the prose of 'Apparent Stringency' (index 10) describes.",
+      "chosen_heading": "Apparent Stringency",
+      "current_heading": "Apparent Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Shaliach Diligence",
+    "candidates": [
+      "Shaliach Diligence",
+      "Rashi Refinement",
+      "Shaliach Credibility",
+      "Mishna Support",
+      "Signature Validation Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's reasoning about the shaliach's diligence \u2014 the debate between Rabbi Yo\u1e25anan and Rabbi \u1e24anina about how many witnesses are needed for delivery, and the conclusion that this makes the shaliach careful from the outset \u2014 which is precisely what the 'Shaliach Diligence' section's prose discusses.",
+      "chosen_heading": "Shaliach Diligence",
+      "current_heading": "Shaliach Diligence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Signature Validation Q",
+    "candidates": [
+      "Rashi Refinement",
+      "Shaliach Credibility",
+      "Mishna Support",
+      "Signature Validation Q",
+      "Kiyum Shtarot",
+      "Ed Echad Issurin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the question raised in candidate 3's prose \u2014 why not require two witnesses for Rava's signature-validation rationale \u2014 and the answer (eid echad ne'eman b'issurin) belongs under candidate 3 ('Signature Validation Q') which explicitly sets up this question, with candidate 5 ('Ed Echad Issurin') discussing the answer's implications in subsequent prose; the current placement under candidate 3 is correct as it introduces both the question and its brief answer together.",
+      "chosen_heading": "Signature Validation Q",
+      "current_heading": "Signature Validation Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ed Echad Issurin",
+    "candidates": [
+      "Kiyum Shtarot",
+      "Ed Echad Issurin",
+      "Woman Status Issue",
+      "Davar Shebe'erva",
+      "Signatures on Document",
+      "Vetting Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically argues that eid echad ne'eman b'issurin only applies when there is no established presumption of prohibition (using the chelev/shuman example), but here itchazek issura d'eishet ish exists \u2014 exactly what the 'Woman Status Issue' prose describes.",
+      "chosen_heading": "Woman Status Issue",
+      "current_heading": "Ed Echad Issurin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Vetting Presumption",
+    "candidates": [
+      "Woman Status Issue",
+      "Davar Shebe'erva",
+      "Signatures on Document",
+      "Vetting Presumption",
+      "Chiddush No Validation",
+      "Rabbinic Requirement",
+      "Waive Validation",
+      "Husband Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explains that by right (following Reish Lakish) no ratification should be required even for documents, that the Rabbis enacted the requirement of kiyum shtaros, and that they waived it here due to igun \u2014 which precisely matches the 'Rabbinic Requirement' section's prose about kiyum shtaros being a derabbanan enactment.",
+      "chosen_heading": "Rabbinic Requirement",
+      "current_heading": "Vetting Presumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Husband Challenge",
+    "candidates": [
+      "Chiddush No Validation",
+      "Rabbinic Requirement",
+      "Waive Validation",
+      "Husband Challenge",
+      "One Witness Protection",
+      "Delivery Witnesses",
+      "Shaliach Credibility",
+      "Writing Phrase Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains exactly the gemara's answer about bifnei kamma nosna lah (Rabbi Yochanan and Rabbi Chanina's debate about delivery witnesses) and meikara meidakdeik, which is precisely what candidate 5 'Delivery Witnesses' describes in its prose.",
+      "chosen_heading": "Delivery Witnesses",
+      "current_heading": "Husband Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Writing Phrase Q",
+    "candidates": [
+      "One Witness Protection",
+      "Delivery Witnesses",
+      "Shaliach Credibility",
+      "Writing Phrase Q",
+      "Confusion Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All seven items form a continuous dialectical exchange about why the mishna's formula includes both 'written in my presence' and 'signed in my presence,' centering on the confusion-with-standard-document-ratification argument that defines the 'Confusion Risk' section's prose.",
+      "chosen_heading": "Confusion Risk",
+      "current_heading": "Writing Phrase Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Confusion Risk",
+    "candidates": [
+      "Writing Phrase Q",
+      "Confusion Risk",
+      "Three Factors",
+      "Rabbah Counter",
+      "Both Required",
+      "Both Lishma Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rava's response about why the textual distinction (bifanai vs. yadina) is insufficient to prevent confusion \u2014 specifically that if a shaliach said 'yadina' it would still be accepted, creating genuine confusion risk \u2014 which matches the 'Rabbah Counter' prose describing Rava's counter-response about the insufficiency of distinguishing factors.",
+      "chosen_heading": "Rabbah Counter",
+      "current_heading": "Confusion Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Both Lishma Q",
+    "candidates": [
+      "Three Factors",
+      "Rabbah Counter",
+      "Both Required",
+      "Both Lishma Q",
+      "Rabbi Meir Position",
+      "Attached Ground",
+      "Cutting Down Valid",
+      "Rabbi Eliezer Position",
+      "Three Gittin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items are the gemara's search for the tanna who requires both kesivah and chasimah lishma, examining and rejecting Rabbi Meir and Rabbi Elazar as candidates \u2014 precisely the content described in the 'Both Lishma Q' prose.",
+      "chosen_heading": "Both Lishma Q",
+      "current_heading": "Both Lishma Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Three Gittin",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Attached Ground",
+      "Cutting Down Valid",
+      "Rabbi Eliezer Position",
+      "Three Gittin",
+      "No Sig Valid",
+      "Edei Mesirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna of three invalid gittin where if the woman remarried the offspring is valid, which is exactly what the 'Three Gittin' section's prose describes as its subject matter.",
+      "chosen_heading": "Three Gittin",
+      "current_heading": "Three Gittin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Edei Mesirah",
+    "candidates": [
+      "No Sig Valid",
+      "Edei Mesirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's ruling that a get without witness signatures but delivered before witnesses is valid, which directly matches candidate 0's prose about Rabbi Eliezer's position that even with no witnesses signed on the get it is kasher \u2014 whereas candidate 1 discusses the reasoning/principle behind that ruling rather than the ruling itself.",
+      "chosen_heading": "No Sig Valid",
+      "current_heading": "Edei Mesirah",
+      "moved": true
+    }
+  }
+]

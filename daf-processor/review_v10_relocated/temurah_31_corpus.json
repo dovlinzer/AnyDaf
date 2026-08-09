@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah & Baraita",
+    "candidates": [
+      "Mishnah & Baraita",
+      "Pregnant After Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah's general principle and Rav's statement plus the baraita with Rabbi Eliezer's dissent, which is exactly what the 'Mishnah & Baraita' prose describes.",
+      "chosen_heading": "Mishnah & Baraita",
+      "current_heading": "Mishnah & Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Pregnant After Forbidden",
+    "candidates": [
+      "Pregnant After Forbidden",
+      "Forbidden After Pregnant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna bar \u1e24innana/Rav Na\u1e25man's position that the dispute applies specifically to 'became pregnant and then were objects of bestiality,' while 'objects of bestiality and then became pregnant' is universally permitted \u2014 which precisely matches the prose under heading 0 ('Pregnant After Forbidden').",
+      "chosen_heading": "Pregnant After Forbidden",
+      "current_heading": "Pregnant After Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Forbidden After Pregnant",
+    "candidates": [
+      "Forbidden After Pregnant",
+      "Sanctification & Bizuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement about the dispute applying to animals that were subjected to bestiality and then became pregnant, invoking zeh vezeh gorem assur/mutar \u2014 which is precisely what the 'Forbidden After Pregnant' prose section discusses in detail.",
+      "chosen_heading": "Forbidden After Pregnant",
+      "current_heading": "Forbidden After Pregnant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Sanctification & Bizuy",
+    "candidates": [
+      "Sanctification & Bizuy",
+      "Treifa Birth Scenario",
+      "Zeh VeZeh Gorem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the lishna achrina version of Rav Nachman's dispute (bizuy milta, mukdashin vs. chullin, ho'il ve'ishtannu) and Rava's elaboration thereof, which is precisely what the 'Sanctification & Bizuy' prose describes in detail.",
+      "chosen_heading": "Sanctification & Bizuy",
+      "current_heading": "Sanctification & Bizuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Zeh VeZeh Gorem",
+    "candidates": [
+      "Treifa Birth Scenario",
+      "Zeh VeZeh Gorem",
+      "Treifa vs. Acts",
+      "Treifa Egg Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present both scenarios (treifa-then-pregnant and pregnant-then-treifa) and their respective disputes (zeh vezeh gorem and ubar yerech imo), which is exactly what the 'Treifa Birth Scenario' prose describes \u2014 both scenarios mapped onto their two frameworks \u2014 whereas the current placement under 'Zeh VeZeh Gorem' only covers part of the passage's content.",
+      "chosen_heading": "Treifa Birth Scenario",
+      "current_heading": "Zeh VeZeh Gorem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Treifa Egg Agreement",
+    "candidates": [
+      "Treifa vs. Acts",
+      "Treifa Egg Agreement",
+      "Rashi Explanations",
+      "Maggots Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and matches the Rav Huna statement about Rabbis conceding to Rabbi Eliezer regarding the egg of a treifa hen, which is precisely what the 'Treifa Egg Agreement' section's prose describes and analyzes.",
+      "chosen_heading": "Treifa Egg Agreement",
+      "current_heading": "Treifa Egg Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Maggots Analogy",
+    "candidates": [
+      "Rashi Explanations",
+      "Maggots Analogy",
+      "Abaye Egg Independence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita Rava cites to Rav Huna about maggots from a living person (Rabbi Eliezer vs. Rabbis) and the conclusion that an egg as part of the hen's body would be conceded even by the Rabbis \u2014 exactly what the 'Maggots Analogy' prose describes.",
+      "chosen_heading": "Maggots Analogy",
+      "current_heading": "Maggots Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Abaye Egg Independence",
+    "candidates": [
+      "Abaye Egg Independence",
+      "Extreme Feeding Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Abaye's rebuttal to Rava \u2014 distinguishing worms (which carry the person's status) from eggs (whose chick develops post-birth and is independent), culminating in the baraita that Rabbi Eliezer concedes the chick of a treifa is permitted \u2014 which is precisely what the 'Abaye Egg Independence' prose describes in detail.",
+      "chosen_heading": "Abaye Egg Independence",
+      "current_heading": "Abaye Egg Independence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Extreme Feeding Only",
+    "candidates": [
+      "Extreme Feeding Only",
+      "Feeding Insufficient",
+      "No Treifa Redemption",
+      "Parashat Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi \u1e24anina ben Antigonus's ruling about a kosher animal that suckled from a tereifa \u2014 first the Gemara's challenge about fattening vs. idolatrous grain, then Rabbi \u1e24anina Terita's precise limitation \u2014 which matches exactly the content described in heading 0's prose about the extreme feeding scenario and the rejection of the broader fattening principle.",
+      "chosen_heading": "Extreme Feeding Only",
+      "current_heading": "Extreme Feeding Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Parashat Restriction",
+    "candidates": [
+      "Feeding Insufficient",
+      "No Treifa Redemption",
+      "Parashat Restriction",
+      "Temurah Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items derive the prohibition on redeeming treifa kodashim, with item 1 presenting the baraita expounding 'tizbach/ve'achalta/basar' and item 2 presenting the minority opinion \u2014 this entire sugyah belongs under 'No Treifa Redemption' which explicitly introduces this principle, not under 'Parashat Restriction' where it currently sits.",
+      "chosen_heading": "No Treifa Redemption",
+      "current_heading": "Parashat Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Temurah Distinction",
+    "candidates": [
+      "Parashat Restriction",
+      "Temurah Distinction",
+      "Pigul Notar Tamei",
+      "Post-Redemption Status",
+      "Shechita Chutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form the opening Mishnah and Gemara of the final perek comparing kodshei mizbe'ach to kodshei bedek ha-bayit, with the Gemara specifically questioning the temurah rule \u2014 exactly what the 'Temurah Distinction' prose describes.",
+      "chosen_heading": "Temurah Distinction",
+      "current_heading": "Temurah Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Shechita Chutz",
+    "candidates": [
+      "Pigul Notar Tamei",
+      "Post-Redemption Status",
+      "Shechita Chutz",
+      "Stam Hekdesh",
+      "Applies to All",
+      "Me'ilah Products",
+      "No Personal Benefit",
+      "Eliezer Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's inference from the mishna that craftsmen may be paid from kodshei bedek ha-bayit funds, and Rabbi Abbahu's derivation from 'va'asu li,' which is precisely what the 'Shechita Chutz' section prose describes as the fifth distinction and its Gemara discussion.",
+      "chosen_heading": "Shechita Chutz",
+      "current_heading": "Shechita Chutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Eliezer Position",
+    "candidates": [
+      "Stam Hekdesh",
+      "Applies to All",
+      "Me'ilah Products",
+      "No Personal Benefit",
+      "Eliezer Position",
+      "Yehoshua Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question about whose view underlies the Mishnah's ruling on stam hekdesh and Rabbi Yochanan's answer that it follows Rabbi Eliezer rather than Rabbi Yehoshua, followed by the baraita from Shekalim demonstrating Rabbi Eliezer's position \u2014 exactly what the 'Eliezer Position' prose describes.",
+      "chosen_heading": "Eliezer Position",
+      "current_heading": "Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Yehoshua Position",
+    "candidates": [
+      "Yehoshua Position",
+      "Males & Females"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua's position on males becoming olot, females being sold for shelamim proceeds used for olot, and the rest going to bedek ha-bayit, which is precisely what the 'Yehoshua Position' prose explains.",
+      "chosen_heading": "Yehoshua Position",
+      "current_heading": "Yehoshua Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Males & Females",
+    "candidates": [
+      "Males & Females",
+      "Mixed Property"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Males & Females",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Rav Adda bar Ahava's first version (all-male herd concession) and the dispute limited to half-male/half-female herds, which exactly matches the 'Males & Females' prose about the dispute being limited to a flock with both males and females.",
+      "second_heading": "Mixed Property",
+      "second_confidence": "high",
+      "second_reason": "Item 4 presents the second version ('lishana achrina') where the concession applies to any animal-only consecration, which exactly matches the 'Mixed Property' prose describing the second version of Rav Adda bar Ahava's statement.",
+      "current_heading": "Males & Females",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Mixed Property",
+    "candidates": [
+      "Mixed Property",
+      "Text Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the textual resolution from the Mishnah's phrase 'with the rest of the property' \u2014 Item 1 presents the second version of the dispute (other property alongside animals) and Item 2 explicitly tests that version against the Mishnah's language, which is precisely what the 'Text Resolution' prose describes.",
+      "chosen_heading": "Text Resolution",
+      "current_heading": "Mixed Property",
+      "moved": true
+    }
+  }
+]

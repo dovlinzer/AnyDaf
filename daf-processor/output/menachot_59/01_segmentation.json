@@ -184,7 +184,7 @@
           "timestamp": "22:38"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -223,7 +223,7 @@
           "timestamp": "28:20"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 10,
       "matched": true
     }
   ],
@@ -547,5 +547,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 29
+  "amud_b_sefaria_index": 29,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "26:00",
+  "amud_b_micro_title": "SH Similarities",
+  "shiur_start_daf": 59,
+  "shiur_start_amud": "a"
 }

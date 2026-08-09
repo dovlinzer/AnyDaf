@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Detailed Mishnah in Kinnim: Woman's Vow and Mixed Bird Sacrifices",
@@ -129,7 +129,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Connection Back to Rabbi Yehoshua and Conclusion of Previous Discussion",
@@ -142,7 +142,7 @@
           "timestamp": "23:23"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -161,7 +161,7 @@
           "timestamp": "25:24"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": false
     },
     {
@@ -176,7 +176,7 @@
         }
       ],
       "sefaria_index": 5,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Second Mishnah: Invalid Melikah (Slaughter of Birds)",
@@ -525,5 +525,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "27:01",
+  "amud_b_micro_title": "Generic Opening",
+  "shiur_start_daf": 68,
+  "shiur_start_amud": "a"
 }

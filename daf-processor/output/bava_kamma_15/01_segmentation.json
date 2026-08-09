@@ -101,8 +101,8 @@
           "timestamp": "19:38"
         }
       ],
-      "sefaria_index": 10,
-      "matched": false
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Exclusion from Self-Admission in Cases of Fine: The Modeh Beknas Principle",
@@ -125,7 +125,7 @@
           "timestamp": "21:56"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 13,
       "matched": false
     },
     {
@@ -230,8 +230,8 @@
           "timestamp": "32:08"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Hanizak Vehamazik Betashlumin: Both Parties Participate in Paying Damages (continued)",
@@ -254,7 +254,7 @@
           "timestamp": "32:45"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -288,7 +288,7 @@
           "timestamp": "36:40"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -616,5 +616,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 25
+  "amud_b_sefaria_index": 25,
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "34:50",
+  "amud_b_micro_title": "Self-Admission Proof",
+  "shiur_start_daf": 14,
+  "shiur_start_amud": "b"
 }

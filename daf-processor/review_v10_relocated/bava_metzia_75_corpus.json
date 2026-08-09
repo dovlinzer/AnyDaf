@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Forward Purchase Rules",
+    "candidates": [
+      "Forward Purchase Rules",
+      "Rav Papa's Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishnah's ruling on 'posek imo k'sha'ar hagavo'ah' (forward purchasing at the highest rate), which is precisely what the 'Forward Purchase Rules' section's prose describes as its opening topic.",
+      "chosen_heading": "Forward Purchase Rules",
+      "current_heading": "Forward Purchase Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Rav Papa's Decision",
+    "candidates": [
+      "Rav Papa's Decision",
+      "Backing Out Rights",
+      "Ravina's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Pappa's ruling and the immediate challenge/clarification about it \u2014 the exact content described in heading 0's prose about the dowry case, the stipulation framework, and the mi shepara consequence, all of which heading 0 explicitly discusses.",
+      "chosen_heading": "Rav Papa's Decision",
+      "current_heading": "Rav Papa's Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Ravina's Position",
+    "candidates": [
+      "Backing Out Rights",
+      "Ravina's Position",
+      "Rav Papa Responds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Ravina's challenge to Rav Pappa questioning whether the mishnah follows the Rabbis or Rabbi Shimon, which is precisely what candidate 1 ('Ravina's Position') describes \u2014 the theoretical reframing of the mishnah's structure around the Rabbi Shimon vs. chachamim debate, including the da'atya d'inish argument.",
+      "chosen_heading": "Ravina's Position",
+      "current_heading": "Ravina's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rav Papa Responds",
+    "candidates": [
+      "Rav Papa Responds",
+      "Shlichut Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rav Papa's response \u2014 his challenge about one price vs. two prices, the baraita evidence, and his conclusion \u2014 which is precisely what the 'Rav Papa Responds' prose describes.",
+      "chosen_heading": "Rav Papa Responds",
+      "current_heading": "Rav Papa Responds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Shlichut Argument",
+    "candidates": [
+      "Shlichut Argument",
+      "Seed vs. Grain",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the shlichut argument between Rav Acha son of Rava and Rav Ashi, and Rav Ashi's merchant rebuttal, which is precisely what the 'Shlichut Argument' section prose describes.",
+      "chosen_heading": "Shlichut Argument",
+      "current_heading": "Shlichut Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Seed vs. Grain",
+      "Rabban Gamliel",
+      "Before/After Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the seed-lending rule and the Rabban Gamliel example as a single unit, and candidate 0's prose explicitly introduces this mishnah in its entirety including both the seed/food distinction and Rabban Gamliel's practice, making it the better home for the complete passage.",
+      "chosen_heading": "Seed vs. Grain",
+      "current_heading": "Rabban Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Before/After Work",
+    "candidates": [
+      "Rabban Gamliel",
+      "Before/After Work",
+      "Renegotiation Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text that introduces the baraita distinguishing between 'went down' and 'did not go down' and poses the question of the discrepancy with the mishnah, which is precisely what the 'Before/After Work' prose describes.",
+      "chosen_heading": "Before/After Work",
+      "current_heading": "Before/After Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Renegotiation Logic",
+    "candidates": [
+      "Renegotiation Logic",
+      "Price Fixing",
+      "Price Mechanics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rava's explanation from Rabbi Idi about the differing local customs (sharecropper vs. landowner providing seed) and the resulting renegotiation logic \u2014 exactly what the 'Renegotiation Logic' prose section discusses.",
+      "chosen_heading": "Renegotiation Logic",
+      "current_heading": "Renegotiation Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Price Mechanics",
+    "candidates": [
+      "Price Fixing",
+      "Price Mechanics",
+      "Harvest Return Ban",
+      "Hillel's Strictness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about lending wheat with a fixed price, then raises the difficulty about depreciation, and resolves it via Rav Sheshet's clarification about the unfixed-price case \u2014 exactly matching the 'Price Mechanics' prose which describes this same sequence of question, Rav Sheshet's answer, and the distinction between fixed and unfixed price scenarios.",
+      "chosen_heading": "Price Mechanics",
+      "current_heading": "Price Mechanics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Hillel's Strictness",
+    "candidates": [
+      "Harvest Return Ban",
+      "Hillel's Strictness",
+      "Ownership Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the harvest-return ban and Hillel's strictness as a single continuous text, but the prose under heading 0 ('Harvest Return Ban') explicitly describes all the content of this mishna including both the prohibition on lending until the granary and the permission for short-term loans, making it the better match for the full passage, while heading 1 focuses only on Hillel's additions which are only the latter portion.",
+      "chosen_heading": "Harvest Return Ban",
+      "current_heading": "Hillel's Strictness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Ownership Requirement",
+    "candidates": [
+      "Hillel's Strictness",
+      "Ownership Requirement",
+      "Chachamim's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Rav Huna/Rabbi Yitzchak dispute about how much one must own to borrow, and the supporting baraita of Rabbi Chiyya \u2014 exactly what the 'Ownership Requirement' prose describes.",
+      "chosen_heading": "Ownership Requirement",
+      "current_heading": "Ownership Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Chachamim's Leniency",
+    "candidates": [
+      "Chachamim's Leniency",
+      "Scholar Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Hillel's prohibition and Shmuel's ruling about the halakha following Hillel (then rejected), which is the core topic of the 'Chachamim's Leniency' section that explicitly discusses Hillel's position versus the chachamim and Rav Yehuda/Shmuel's rulings.",
+      "chosen_heading": "Chachamim's Leniency",
+      "current_heading": "Chachamim's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Scholar Gifts",
+    "candidates": [
+      "Scholar Gifts",
+      "Pepper Loan",
+      "Teaching Interest"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Pepper Loan",
+      "current_heading": "Scholar Gifts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Teaching Interest",
+    "candidates": [
+      "Pepper Loan",
+      "Teaching Interest",
+      "Equal Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda's ruling about lending to one's children with interest for pedagogical purposes and the Gemara's rejection of this practice, which is precisely what the 'Teaching Interest' section's prose describes.",
+      "chosen_heading": "Teaching Interest",
+      "current_heading": "Teaching Interest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Equal Labor",
+    "candidates": [
+      "Equal Labor",
+      "Unequal Labor",
+      "Prepaid Usury"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Equal Labor",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna introducing both permitted equal-labor exchanges and the prohibition on unequal exchanges, but its primary content \u2014 weeding-for-weeding and plowing-for-plowing as permitted \u2014 aligns with the 'Equal Labor' heading's prose about reciprocal equal-task exchanges.",
+      "second_heading": "Unequal Labor",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the prohibition on cross-season plowing exchanges (dry season vs. rainy season), which matches exactly the 'Unequal Labor' prose discussing the prohibition on exchanging labor across seasons as a ribbit-like concern.",
+      "current_heading": "Equal Labor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Prepaid Usury",
+    "candidates": [
+      "Unequal Labor",
+      "Prepaid Usury",
+      "Delayed Usury",
+      "Usury of Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both ribbit mukdemes and ribbit me'ucheres in a single Rabban Gamliel teaching, and the current placement under 'Prepaid Usury' is where this combined source naturally lives, as its prose introduces both categories together.",
+      "chosen_heading": "Prepaid Usury",
+      "current_heading": "Prepaid Usury",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Usury of Words",
+    "candidates": [
+      "Delayed Usury",
+      "Usury of Words",
+      "Lender Violations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lender Violations",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 together form a natural unit: Item 1 is Rabbi Shimon's mishnah on ribbit devarim and Item 2 is the closing mishnah enumerating who violates prohibitions and which verses they transgress \u2014 matching the 'Lender Violations' prose which explicitly discusses the final mishnah of the chapter and its enumeration of prohibitions including lo sitten, al tikach, lifnei iver, etc.",
+      "second_heading": "Usury of Words",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara baraita from Rabbi Shimon ben Yo\u1e25ai expanding ribbit devarim to include greetings, which is explicitly described in the 'Usury of Words' prose section and belongs there.",
+      "current_heading": "Usury of Words",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Lender Violations",
+    "candidates": [
+      "Lender Violations",
+      "Other Violators",
+      "Financial Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers all violators (lender, borrower, guarantor, witnesses) in a single Abaye teaching, but the current heading's prose specifically discusses the lender's violations in detail while the 'Other Violators' prose covers the borrower, guarantor, and witnesses \u2014 however, since the Talmudic passage is a single unified teaching that begins with the lender and cannot be split, and the current placement is where it sits, the medium confidence reflects that either heading could claim it, but the current placement is acceptable.",
+      "chosen_heading": "Lender Violations",
+      "current_heading": "Lender Violations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Financial Loss",
+    "candidates": [
+      "Other Violators",
+      "Financial Loss",
+      "Avoiding Humiliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly discusses Rabbi Shimon's teaching that usurers lose more than they gain and that they implicitly disparage Moshe Rabbeinu and the Torah, which is precisely what the 'Financial Loss' section's prose describes.",
+      "chosen_heading": "Financial Loss",
+      "current_heading": "Financial Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Avoiding Humiliation",
+    "candidates": [
+      "Avoiding Humiliation",
+      "Witness Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rav Dimi's ruling about not passing before a debtor and Rabbi Ami and Rabbi Asi's statement about two punishments) are explicitly discussed in the 'Avoiding Humiliation' prose, which quotes both teachings verbatim.",
+      "chosen_heading": "Avoiding Humiliation",
+      "current_heading": "Avoiding Humiliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Witness Requirement",
+    "candidates": [
+      "Witness Requirement",
+      "Ravina's Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Yehuda/Rav ruling about lending without witnesses violating lifnei iver and Reish Lakish's curse consequence, which is precisely what the 'Witness Requirement' prose discusses.",
+      "chosen_heading": "Witness Requirement",
+      "current_heading": "Witness Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Ravina's Example",
+    "candidates": [
+      "Ravina's Example",
+      "Unanswered Prayers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Ravina/Rav Ashi vignette that heading 0 ('Ravina's Example') discusses in its prose, matching every detail of the story.",
+      "chosen_heading": "Ravina's Example",
+      "current_heading": "Ravina's Example",
+      "moved": false
+    }
+  }
+]

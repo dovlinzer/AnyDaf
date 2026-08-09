@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "R. Eliezer: Bird Claim",
+    "candidates": [
+      "R. Eliezer: Bird Claim",
+      "R. Yehoshua: Rumors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna presenting Rabbi Eliezer's position about the 'flying bird' standard for seclusion, which is precisely what the prose under heading 0 ('R. Eliezer: Bird Claim') discusses in detail.",
+      "chosen_heading": "R. Eliezer: Bird Claim",
+      "current_heading": "R. Eliezer: Bird Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "R. Yehoshua: Rumors",
+    "candidates": [
+      "R. Yehoshua: Rumors",
+      "Slave Testimony Adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua's statement about women spinning by moonlight, which is precisely what the prose under 'R. Yehoshua: Rumors' discusses in detail.",
+      "chosen_heading": "R. Yehoshua: Rumors",
+      "current_heading": "R. Yehoshua: Rumors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Slave Testimony Adultery",
+    "candidates": [
+      "Slave Testimony Adultery",
+      "Jealous Relatives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses a single witness testifying to adultery and the credibility of slaves/maidservants to disqualify the wife from her ketubah, which is precisely what the 'Slave Testimony Adultery' section's prose addresses.",
+      "chosen_heading": "Slave Testimony Adultery",
+      "current_heading": "Slave Testimony Adultery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Jealous Relatives",
+    "candidates": [
+      "Jealous Relatives",
+      "Kal vaComer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the five categories of jealous female relatives and the ruling that they are believed to stop the drinking but not to disqualify the ketubah, which is precisely what the 'Jealous Relatives' section prose discusses.",
+      "chosen_heading": "Jealous Relatives",
+      "current_heading": "Jealous Relatives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Kal vaComer Logic",
+    "candidates": [
+      "Kal vaComer Logic",
+      "No Two Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 11 items cover precisely the kal va-chomer logic, the verse ve-eid ein bah, the reverse kal va-chomer, the gezeirah shavah from davar, and the bah limitation \u2014 exactly the content described in the 'Kal vaComer Logic' prose section.",
+      "chosen_heading": "Kal vaComer Logic",
+      "current_heading": "Kal vaComer Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "No Two Witnesses",
+    "candidates": [
+      "No Two Witnesses",
+      "Eid = Two Default"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Two Witnesses",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's inference from the mishna that a single witness is believed when unrefuted \u2014 exactly the foundational principle the 'No Two Witnesses' prose establishes before deriving the source.",
+      "second_heading": "Eid = Two Default",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita deriving that 'eid ein bah' refers to two witnesses, which is precisely the content the 'Eid = Two Default' prose discusses as a general klal about the word eid.",
+      "current_heading": "No Two Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Eid = Two Default",
+    "candidates": [
+      "Eid = Two Default",
+      "Ulla: Cannot Neutralize"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Eid = Two Default",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 establish the 'eid = two' principle and apply it to the sota verse, matching exactly the 'Eid = Two Default' prose which traces that very derivation and its application to ve-eid ein bah.",
+      "second_heading": "Ulla: Cannot Neutralize",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Ulla's principle that a Torah-empowered single witness counts as two, which is precisely what the 'Ulla: Cannot Neutralize' prose discusses as the challenge to the mishnah's one-against-one neutralization rule.",
+      "current_heading": "Eid = Two Default",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Ulla: Cannot Neutralize",
+    "candidates": [
+      "Ulla: Cannot Neutralize",
+      "R. Chiya: Simultaneous",
+      "Simultaneous vs Serial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's proposed alternative reading (lo hayetah shotah), Rabbi Yitzchak's agreement, and Rabbi Chiyya's dissent \u2014 exactly the content described in the 'Ulla: Cannot Neutralize' section's prose, which explicitly mentions Ulla proposing a different girsa, Rabbi Yitzchak adopting the same reading, and Rabbi Chiyya retaining the original text.",
+      "chosen_heading": "Ulla: Cannot Neutralize",
+      "current_heading": "Ulla: Cannot Neutralize",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Simultaneous vs Serial",
+    "candidates": [
+      "R. Chiya: Simultaneous",
+      "Simultaneous vs Serial",
+      "1 vs 2: Neutralizes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Simultaneous vs Serial",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's resolution of the tension between Rabbi Chiyya and Ulla via the simultaneous/sequential distinction, which is precisely what the 'Simultaneous vs Serial' prose describes.",
+      "second_heading": "1 vs 2: Neutralizes",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces a new challenge from the mishnah's next case (one vs. two witnesses), which is what the '1 vs 2: Neutralizes' prose is about \u2014 a refutation of Rabbi Chiyya from a different mishnaic ruling.",
+      "current_heading": "Simultaneous vs Serial",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "1 vs 2: Neutralizes",
+    "candidates": [
+      "1 vs 2: Neutralizes",
+      "2 vs 1: Two Win",
+      "Majority When One Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya's argument using the final clause (two say teme'ah, one says not \u2014 she would not drink, implying one vs one she would drink), which is precisely what the prose in candidate 1 describes as Rabbi Chiya's 'eima seifa' response.",
+      "chosen_heading": "2 vs 1: Two Win",
+      "current_heading": "1 vs 2: Neutralizes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Majority When One Witness",
+    "candidates": [
+      "2 vs 1: Two Win",
+      "Majority When One Witness",
+      "Gender Parity",
+      "Male Witness Lock-In"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Nechemya's principle that the entire mishnah concerns disqualified witnesses and that majority of opinions governs, which is precisely what the 'Majority When One Witness' section's prose describes.",
+      "chosen_heading": "Majority When One Witness",
+      "current_heading": "Majority When One Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Male Witness Lock-In",
+    "candidates": [
+      "Gender Parity",
+      "Male Witness Lock-In",
+      "Strict vs Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly elaborate the 'some say' qualification about a kosher male witness locking in testimony and the mishnah's case involving a woman testifying first \u2014 precisely what the 'Male Witness Lock-In' prose discusses in detail.",
+      "chosen_heading": "Male Witness Lock-In",
+      "current_heading": "Male Witness Lock-In",
+      "moved": false
+    }
+  }
+]

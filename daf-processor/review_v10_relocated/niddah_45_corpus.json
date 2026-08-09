@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Meir vs. Chachamim",
+    "candidates": [
+      "Meir vs. Chachamim",
+      "Yochanan: Mitzas Hashana"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meir vs. Chachamim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing line of the mishna's 'finger in the eye' principle, wrapping up the prior topic about the three-year threshold's halakhic meaning.",
+      "second_heading": "Yochanan: Mitzas Hashana",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 open the Gemara's baraita about Rabbi Meir vs. Chachamim and then Rabbi Yannai/Rabbi Yochanan's explanations of their dispute, which is precisely what the 'Meir vs. Chachamim' and 'Yochanan: Mitzas Hashana' prose sections describe.",
+      "current_heading": "Meir vs. Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yochanan: Mitzas Hashana",
+    "candidates": [
+      "Yochanan: Mitzas Hashana",
+      "Beraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's response to the beraita challenge \u2014 explaining how Rabbi Yochanan's framework accommodates both 'one day' and 'thirty days' as valid applications of mitzas hashana ke-kulah \u2014 which is precisely what the 'Beraita Challenge' section's prose describes.",
+      "chosen_heading": "Beraita Challenge",
+      "current_heading": "Yochanan: Mitzas Hashana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Beraita Challenge",
+    "candidates": [
+      "Beraita Challenge",
+      "Reconciliation",
+      "Rupture vs. Formation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'But according to Rabbi Yannai this baraita is difficult \u2014 indeed it is difficult' is the concluding kashya that the Reconciliation section's prose explicitly describes, ending with 'the Gemara leaves it with kashya.'",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Beraita Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rupture vs. Formation",
+    "candidates": [
+      "Reconciliation",
+      "Rupture vs. Formation",
+      "Nafka Mina: Bleeding Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma about whether the hymen ruptures and grows back or has not yet formed, which is precisely what the 'Rupture vs. Formation' section's prose describes and analyzes.",
+      "chosen_heading": "Rupture vs. Formation",
+      "current_heading": "Rupture vs. Formation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Nafka Mina: Bleeding Age",
+    "candidates": [
+      "Nafka Mina: Bleeding Age",
+      "Two Bleeding Cases",
+      "Eye Metaphor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Nafka Mina: Bleeding Age",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the original nafka mina case (intercourse within three with blood, then after three without blood) and its two-sided analysis, which is precisely what heading 0's prose describes.",
+      "second_heading": "Two Bleeding Cases",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav \u1e24iyya's objection to that first nafka mina and the reframed case (blood both times), which is exactly what heading 1's prose about Rav Chiya's challenge and the new distinguishing scenario describes.",
+      "current_heading": "Nafka Mina: Bleeding Age",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Eye Metaphor",
+    "candidates": [
+      "Two Bleeding Cases",
+      "Eye Metaphor",
+      "Pregnancy Age Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24isda's argument from the eye metaphor in the mishna to prove the hymen grows back, which is precisely what the 'Eye Metaphor' section's prose describes.",
+      "chosen_heading": "Eye Metaphor",
+      "current_heading": "Eye Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Pregnancy Age Question",
+    "candidates": [
+      "Pregnancy Age Question",
+      "Six-Year Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains only the first question (at what age does a woman marry) and Rebbe's answer of three years and one day, which is precisely what the 'Pregnancy Age Question' prose discusses as the first of two questions posed by Yusteni.",
+      "chosen_heading": "Pregnancy Age Question",
+      "current_heading": "Pregnancy Age Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Six-Year Marriage",
+    "candidates": [
+      "Six-Year Marriage",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the exchange between Yusteni and Rabbi Yehuda HaNasi about pregnancy age, marriage at six, birth at seven, and the 'woe for three years' statement \u2014 which is precisely what the 'Six-Year Marriage' prose section discusses in detail.",
+      "chosen_heading": "Six-Year Marriage",
+      "current_heading": "Six-Year Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Three Categories",
+      "Ages 11-12"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about the three women using a moch (minor, pregnant woman, nursing woman) with their respective reasons, which is precisely what the 'Three Categories' prose section describes in detail.",
+      "chosen_heading": "Three Categories",
+      "current_heading": "Three Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Ages 11-12",
+    "candidates": [
+      "Ages 11-12",
+      "Meir vs. Chachamim (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the minor (ketana) as ages 11-12 and attributes this to Rabbi Meir, which matches exactly the 'Ages 11-12' section prose discussing that same age window and Rabbi Meir's position, before the Chachamim's opposing view is introduced in the next section.",
+      "chosen_heading": "Ages 11-12",
+      "current_heading": "Ages 11-12",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Meir vs. Chachamim (II)",
+    "candidates": [
+      "Meir vs. Chachamim (II)",
+      "Gemara Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Rabbis' statement that women may engage in intercourse in their usual manner with Heaven's mercy (shomer peta'im Hashem), which is precisely what the 'Meir vs. Chachamim (II)' prose section discusses and analyzes in detail.",
+      "chosen_heading": "Meir vs. Chachamim (II)",
+      "current_heading": "Meir vs. Chachamim (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Gemara Response",
+    "candidates": [
+      "Gemara Response",
+      "Kohen Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the two Gemara answers (donkey flesh and lying) that Candidate 0's prose explicitly discusses and analyzes.",
+      "chosen_heading": "Gemara Response",
+      "current_heading": "Gemara Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Kohen Question",
+    "candidates": [
+      "Kohen Question",
+      "Honey Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the woman's inquiry about her fitness for the priesthood and Rabbi Akiva's ruling that she is fit, which is precisely what the 'Kohen Question' prose section discusses.",
+      "chosen_heading": "Kohen Question",
+      "current_heading": "Kohen Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Honey Metaphor",
+    "candidates": [
+      "Honey Metaphor",
+      "Halacha Lmoshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the honey metaphor and Rabbi Akiva's immediate response ('if so, you are disqualified'), which is precisely what the prose under 'Honey Metaphor' (candidate 0) describes and analyzes.",
+      "chosen_heading": "Honey Metaphor",
+      "current_heading": "Honey Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Halacha Lmoshe",
+    "candidates": [
+      "Halacha Lmoshe",
+      "Nine-Year-Old Boy",
+      "Kiddushin vs. Yibbum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the students' reaction, the halacha le-Moshe mi-Sinai statement, and Rabbi Akiva's pedagogical intent \u2014 exactly what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Halacha Lmoshe",
+      "current_heading": "Halacha Lmoshe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Kiddushin vs. Yibbum",
+    "candidates": [
+      "Nine-Year-Old Boy",
+      "Kiddushin vs. Yibbum",
+      "Yibbum Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna introduces the basic rule about the nine-year-old boy and yibbum, which belongs under the introductory 'Nine-Year-Old Boy' heading that frames the threshold rule, not under 'Kiddushin vs. Yibbum' (which discusses the conceptual distinction) or 'Yibbum Consequences' (which discusses downstream halakhic effects).",
+      "chosen_heading": "Nine-Year-Old Boy",
+      "current_heading": "Kiddushin vs. Yibbum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Yibbum Consequences",
+    "candidates": [
+      "Kiddushin vs. Yibbum",
+      "Yibbum Consequences",
+      "Maamar Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yibbum Consequences",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the specific halakhic consequences of the nine-year-old's yibbum (tumah from niddah, disqualifying from teruma, animal stoning, arayot liability) which are precisely the topics detailed in the 'Yibbum Consequences' prose.",
+      "second_heading": "Maamar Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening Gemara question about whether a get alone suffices when the boy reaches majority, introducing the maamar parallel \u2014 exactly the topic of the 'Maamar Parallel' prose section.",
+      "current_heading": "Yibbum Consequences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Maamar Parallel",
+    "candidates": [
+      "Maamar Parallel",
+      "Adult Actualization",
+      "Ages 11-12-13"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 2 and 3 are Rav's resolution \u2014 'when he reaches majority he should have intercourse and then give a get' \u2014 which matches the 'Adult Actualization' prose precisely; item 1 is the analogical argument from maamar that the 'Adult Actualization' section answers, and all three items flow as one continuous unit culminating in Rav's explanation of the mishna.",
+      "chosen_heading": "Adult Actualization",
+      "current_heading": "Maamar Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Ages 11-12-13",
+    "candidates": [
+      "Adult Actualization",
+      "Ages 11-12-13",
+      "Mufla Year",
+      "Pre-Mufla",
+      "Post-Mitzvah",
+      "Rashi Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the mishna that establishes the ages of examination and binding force for vows (11/12 for girls, 12/13 for boys, and the pre/post rules), which is precisely what the 'Ages 11-12-13' prose describes.",
+      "chosen_heading": "Ages 11-12-13",
+      "current_heading": "Ages 11-12-13",
+      "moved": false
+    }
+  }
+]

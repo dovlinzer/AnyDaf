@@ -1,0 +1,362 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Miluim/Har Sinai Recap",
+    "candidates": [
+      "Miluim/Har Sinai Recap",
+      "Beto = Wife",
+      "Lishkat Parhedrin",
+      "Tumah Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'lama mafrishin' question and its answer via Rabbi Yo\u1e25anan and Reish Lakish's previously established reasoning, which is exactly what the 'Miluim/Har Sinai Recap' prose describes.",
+      "chosen_heading": "Miluim/Har Sinai Recap",
+      "current_heading": "Miluim/Har Sinai Recap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Tumah Concern",
+    "candidates": [
+      "Beto = Wife",
+      "Lishkat Parhedrin",
+      "Tumah Concern",
+      "R. Yehuda ben Beteira",
+      "Atu Bershei",
+      "Timing Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'why did he withdraw from his house/wife?' and then introduces the baraita of Rabbi Yehuda ben Beteira as the answer \u2014 this matches the 'Beto = Wife' section's prose which explicitly poses the question 'mibeto lama pirash?' and asks why his wife couldn't join him, rather than the 'Tumah Concern' section which discusses the content of the baraita after it has already been introduced.",
+      "chosen_heading": "Beto = Wife",
+      "current_heading": "Tumah Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Timing Safek",
+    "candidates": [
+      "R. Yehuda ben Beteira",
+      "Atu Bershei",
+      "Timing Safek",
+      "R. Akiva/Rabbanan",
+      "24-Hour Retroactive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the gemara's objection 'are we dealing with wicked people?' followed by the reformulation \u2014 this is precisely the content described in candidate 1's prose ('atu bersha'ei askinan? \u2014 are we dealing with wicked people?'), not the refined scenario of retroactive safek described in candidate 2.",
+      "chosen_heading": "Atu Bershei",
+      "current_heading": "Timing Safek",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "24-Hour Retroactive",
+    "candidates": [
+      "R. Akiva/Rabbanan",
+      "24-Hour Retroactive",
+      "Three Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the keman question \u2014 whether the concern follows Rabbi Akiva (niddah metama bo'alah) or the rabbanan (ein niddah metama bo'alah) \u2014 which is precisely what candidate 0's prose describes, not the explanatory expansion in candidate 1.",
+      "chosen_heading": "R. Akiva/Rabbanan",
+      "current_heading": "24-Hour Retroactive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Three Scenarios",
+    "candidates": [
+      "24-Hour Retroactive",
+      "Three Scenarios",
+      "Time Periods",
+      "Spiritual Model Q",
+      "Miluim Immersion",
+      "Har Sinai Emphasis",
+      "Rashi",
+      "Tosafot Q",
+      "Underground Tunnel",
+      "Mikvah Timing Q",
+      "Timeline Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rav \u1e24isda's statement distinguishes between 'achar achar' (long afterward) versus 'chad achar' (merely afterward), explaining that the Rabbis only disagree with Rabbi Akiva in the former case \u2014 this directly supports the '24-Hour Retroactive' section's prose, which explains Rav Chisda's point that even according to the rabbanan there remains a real window where everyone agrees the husband is tamei.",
+      "chosen_heading": "24-Hour Retroactive",
+      "current_heading": "Three Scenarios",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Timeline Scenario",
+    "candidates": [
+      "Time Periods",
+      "Spiritual Model Q",
+      "Miluim Immersion",
+      "Har Sinai Emphasis",
+      "Rashi",
+      "Tosafot Q",
+      "Underground Tunnel",
+      "Mikvah Timing Q",
+      "Timeline Scenario",
+      "Day Seven Mikvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items constitute Rabbi Zeira's inference that a ba'al niddah immerses during the daytime of the seventh day (unlike the niddah herself who waits for nightfall), which is precisely the topic described in the 'Mikvah Timing Q' prose section.",
+      "chosen_heading": "Mikvah Timing Q",
+      "current_heading": "Timeline Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Day Seven Mikvah",
+    "candidates": [
+      "Timeline Scenario",
+      "Day Seven Mikvah",
+      "Niddah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Rav Shimi's statement directly responds to the challenge about ba'al niddah being like niddah, offering a rebuttal that preserves the seven-day structure by sequestering slightly before sunset \u2014 this fits the 'Niddah Exception' section which is testing Rav Zeira's position against the mishna about niddah's nighttime immersion, not the 'Day Seven Mikvah' section which discusses the proof from the separation itself.",
+      "chosen_heading": "Niddah Exception",
+      "current_heading": "Day Seven Mikvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Niddah Exception",
+    "candidates": [
+      "Day Seven Mikvah",
+      "Niddah Exception",
+      "Category Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita objection listing niddah and yoledet as the only nighttime-immersion exceptions and inferring ba'al niddah is not among them, which is precisely what the 'Niddah Exception' prose describes.",
+      "chosen_heading": "Niddah Exception",
+      "current_heading": "Niddah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Category Inclusion",
+    "candidates": [
+      "Category Inclusion",
+      "Dead Body Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses 'niddah ve-chol de-asi mi-ribui' \u2014 the deflection that 'niddah' subsumes those whose tumah derives from her \u2014 which is precisely what the 'Category Inclusion' section's prose describes.",
+      "chosen_heading": "Category Inclusion",
+      "current_heading": "Category Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Dead Body Comparison",
+    "candidates": [
+      "Dead Body Comparison",
+      "Duration Not Timing"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Duration Not Timing",
+    "candidates": [
+      "Duration Not Timing",
+      "Mishkav/Moshav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's argument that the baraita cannot be teaching tumah duration (since the Torah states it explicitly) and therefore must be about immersion timing \u2014 exactly the content described in the 'Duration Not Timing' prose.",
+      "chosen_heading": "Duration Not Timing",
+      "current_heading": "Duration Not Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Mishkav/Moshav",
+    "candidates": [
+      "Mishkav/Moshav",
+      "Seven-Day List",
+      "Ba'al Niddah Listed",
+      "Rav Zeira Victory",
+      "Logical Parallel",
+      "Hutrah Baitzibur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishkav/Moshav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection explaining why the baraita's grouping of ba'al niddah with tamei meit is about tumah duration and mishkav/moshav stringency, not immersion timing \u2014 exactly what the 'Mishkav/Moshav' prose discusses.",
+      "second_heading": "Seven-Day List",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita from Rabbi \u1e24iyya listing the seven-day tumot and their daytime immersion, which is precisely what the 'Seven-Day List' prose introduces.",
+      "current_heading": "Mishkav/Moshav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Hutrah Baitzibur",
+    "candidates": [
+      "Seven-Day List",
+      "Ba'al Niddah Listed",
+      "Rav Zeira Victory",
+      "Logical Parallel",
+      "Hutrah Baitzibur",
+      "Status vs Contact",
+      "Dchuya Status",
+      "Frequency Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the question about why the High Priest isn't isolated from potential corpse-impurity, which is precisely what candidate 3 ('Logical Parallel') describes \u2014 the natural follow-up question about tumat meit after establishing the tumah rationale for separating from his wife.",
+      "chosen_heading": "Logical Parallel",
+      "current_heading": "Hutrah Baitzibur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Frequency Argument",
+    "candidates": [
+      "Status vs Contact",
+      "Dchuya Status",
+      "Frequency Argument",
+      "All Tamei Scenario",
+      "Nafka Mina",
+      "Rav Nachman",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Ravina's statement introduces the 'dchuya' framework as an alternative, which is exactly what the 'Dchuya Status' section describes \u2014 Ravina offering an alternative framework even granting that tumat meit is only dchuya be-tzibbur.",
+      "chosen_heading": "Dchuya Status",
+      "current_heading": "Frequency Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "All Tamei Scenario",
+      "Nafka Mina",
+      "Rav Nachman",
+      "Rav Sheshet",
+      "Tame'im With Tahorim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together state the core Rav Nachman/Rav Sheshet dispute and then immediately define the nafka mina (seeking out tahor kohanim from another beit av), which is precisely what candidate 1 'Nafka Mina' describes \u2014 the practical difference between hutrah and dchuya regarding whether we make the effort to find tahor alternatives.",
+      "chosen_heading": "Nafka Mina",
+      "current_heading": "Rav Sheshet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Tame'im With Tahorim",
+    "candidates": [
+      "Rav Sheshet",
+      "Tame'im With Tahorim",
+      "Contact Tumah Hutrah",
+      "Pesach Status",
+      "True Tzibbur Only",
+      "Yachid Consensus",
+      "Kohen Gadol Korban"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tame'im With Tahorim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the 'some say' version of the dispute where teme'im may serve even when tehorim are available, which is exactly what the 'Tame'im With Tahorim' prose describes.",
+      "second_heading": "Contact Tumah Hutrah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the rationale 'de-chol tumat meit be-tzibbur rachmana sharya,' which is precisely what the 'Contact Tumah Hutrah' prose explains as the basis for the extreme hutrah position.",
+      "current_heading": "Tame'im With Tahorim",
+      "moved": true
+    }
+  }
+]

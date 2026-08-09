@@ -130,8 +130,8 @@
           "timestamp": "28:37"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Two-by-Two and Pair Counting: Does Designation of Grouping Override One-by-One Reality?",
@@ -154,7 +154,7 @@
           "timestamp": "32:35"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -202,7 +202,7 @@
           "timestamp": "46:33"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -221,7 +221,7 @@
           "timestamp": "48:02"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 32,
       "matched": true
     },
     {
@@ -279,7 +279,7 @@
           "timestamp": "59:13"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 35,
       "matched": true
     }
   ],
@@ -436,5 +436,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "39:59",
+  "amud_b_micro_title": "9 & 10 Together",
+  "shiur_start_daf": 60,
+  "shiur_start_amud": "a"
 }

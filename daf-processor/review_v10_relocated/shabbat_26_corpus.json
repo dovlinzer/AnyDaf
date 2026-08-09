@@ -1,0 +1,221 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rava's Aroma Concern",
+    "candidates": [
+      "Rava's Aroma Concern",
+      "Abaye's Fire Risk",
+      "Double Concern",
+      "Story: Balsam Fire"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Aroma Concern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabba's aroma-based explanation and Abaye's opening challenge, which corresponds to the 'Rava's Aroma Concern' section discussing the gezeirah shema yistapek mimenu rationale.",
+      "second_heading": "Double Concern",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the gemara's resolution invoking 'chada ve-od ka-amar' \u2014 both the volatility concern and the aroma concern together \u2014 which is precisely what the 'Double Concern' prose describes.",
+      "current_heading": "Rava's Aroma Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Story: Balsam Fire",
+    "candidates": [
+      "Abaye's Fire Risk",
+      "Double Concern",
+      "Story: Balsam Fire",
+      "Prohibited Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the cautionary story of the mother-in-law and the Rav Yosef teaching about balsam collectors \u2014 are precisely described in the prose of candidate 2 ('Story: Balsam Fire'), which is also the current placement, confirming it is correct.",
+      "chosen_heading": "Story: Balsam Fire",
+      "current_heading": "Story: Balsam Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Prohibited Materials",
+    "candidates": [
+      "Prohibited Materials",
+      "Tevel vs Terumah",
+      "Separation Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita introducing the prohibitions on tevel tamei and white naphtha along with the opening question about tevel's rationale, which is exactly what candidate 0's prose describes \u2014 the transition to this baraita and these two prohibitions.",
+      "chosen_heading": "Prohibited Materials",
+      "current_heading": "Prohibited Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Separation Requirement",
+    "candidates": [
+      "Tevel vs Terumah",
+      "Separation Requirement",
+      "Benefit in Destruction",
+      "Tzari Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the derivation from the plural 'terumot' verse establishing that benefit from terumah temei'ah applies only from the moment of separation onward, which is precisely what the 'Separation Requirement' prose describes and analyzes.",
+      "chosen_heading": "Separation Requirement",
+      "current_heading": "Separation Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Tzari Source",
+    "candidates": [
+      "Benefit in Destruction",
+      "Tzari Source",
+      "Yishmael Position",
+      "Yishmael b. Broka",
+      "Tarfon Position",
+      "Yochanan Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Shimon ben Elazar's prohibition on tzari and his identification of tzari as balsam sap, then continues through Rabbi Yishmael, Rabbi Yishmael ben Beroka, and Rabbi Tarfon \u2014 but the 'Tzari Source' heading's prose explicitly describes all of this content as part of the gufa discussion returning to Rabbi Shimon ben Elazar's ruling, and the current placement under 'Tzari Source' is the correct home for this single continuous passage.",
+      "chosen_heading": "Tzari Source",
+      "current_heading": "Tzari Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Yochanan Response",
+    "candidates": [
+      "Yishmael Position",
+      "Yishmael b. Broka",
+      "Tarfon Position",
+      "Yochanan Response",
+      "Shezuri Clarification",
+      "Sumchos Position",
+      "Oil Consensus",
+      "Plant Materials Tumah",
+      "Plant Materials Schach",
+      "Wool & Linen Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yochanan Response",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan ben Nuri's response defending permissibility of regional oils, which is precisely what candidate 3 'Yochanan Response' discusses in detail.",
+      "second_heading": "Oil Consensus",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the Mishnaic list of permitted oils (fish oil, tar, gourd oil, naphtha), Sumchos's position, and the Rav Beruna resolution \u2014 exactly what candidate 6 'Oil Consensus' discusses, including the Sumchos/tanna kamma question and v'lo mesaimei conclusion.",
+      "current_heading": "Yochanan Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Wool & Linen Only",
+    "candidates": [
+      "Shezuri Clarification",
+      "Sumchos Position",
+      "Oil Consensus",
+      "Plant Materials Tumah",
+      "Plant Materials Schach",
+      "Wool & Linen Only",
+      "Minimum Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Shimon ben Elazar's baraita about plant-derived materials and linen, Abaye's observation that Rabbi Shimon ben Elazar and the tana d'bei Rabbi Yishmael said the same thing, and Rava's distinction between them regarding three-by-three tefachim of other garments \u2014 are precisely the content described in the 'Wool & Linen Only' prose, which explicitly discusses Abaye's amru davar echad, the tana d'bei Rabbi Yishmael's reasoning, and Rava's disagreement about shlosha al shlosha bishe'ar begadim.",
+      "chosen_heading": "Wool & Linen Only",
+      "current_heading": "Wool & Linen Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Minimum Size",
+    "candidates": [
+      "Minimum Size",
+      "Larger Sizes",
+      "Material Debate",
+      "Abaye Position",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the core question of minimum size (three by three fingerbreadths vs. handbreadths) for wool/linen garments becoming tamei through nega'im, the baraita deriving this from 'v'habeged', the kal v'chomer from shesi v'erev, and the two exclusions for non-wool/linen materials \u2014 all of which are precisely what the 'Minimum Size' section's prose describes.",
+      "chosen_heading": "Minimum Size",
+      "current_heading": "Minimum Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Larger Sizes",
+      "Material Debate",
+      "Abaye Position",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All seven items form the continuous debate between Rava and Abaye about deriving the garment rules for shratzim from negaim and the use of 'o beged,' which is precisely what the 'Rava Position' prose describes in detail.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Rava Position",
+      "moved": false
+    }
+  }
+]

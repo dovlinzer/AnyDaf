@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Bed & Sefer Torah",
+    "candidates": [
+      "Bed & Sefer Torah",
+      "Rabba bar bar Chana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna's practice of moving a Sefer Torah off his bed before sitting on it, which matches precisely the prose under 'Bed & Sefer Torah' that discusses this same account and the principle that it is forbidden to sit on a bed upon which a Sefer Torah is placed.",
+      "chosen_heading": "Bed & Sefer Torah",
+      "current_heading": "Bed & Sefer Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rabba bar bar Chana",
+    "candidates": [
+      "Rabba bar bar Chana",
+      "Gemara's Correction",
+      "Kissei Hakodesh",
+      "Igeret vs. Sefer",
+      "Precision & Spelling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabba bar bar Chana's ruling permitting sitting on a bed with a Sefer Torah and the counter-proof from Rabbi Elazar's story, which is exactly what heading 0's prose describes, including the correction that the Torah was on the ground \u2014 all of this is introduced together in the Gemara text and the heading 0 prose covers it fully.",
+      "chosen_heading": "Rabba bar bar Chana",
+      "current_heading": "Rabba bar bar Chana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Precision & Spelling",
+    "candidates": [
+      "Gemara's Correction",
+      "Kissei Hakodesh",
+      "Igeret vs. Sefer",
+      "Precision & Spelling",
+      "Gezeirah Shavah",
+      "On Stick Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda/Shmuel's ruling that writing a mezuzah like a missive (igeret) renders it invalid and derives this from a verbal analogy with 'sefer,' which is precisely what the 'Igeret vs. Sefer' section's prose introduces and discusses.",
+      "chosen_heading": "Igeret vs. Sefer",
+      "current_heading": "Precision & Spelling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "On Stick Invalid",
+    "candidates": [
+      "Gezeirah Shavah",
+      "On Stick Invalid",
+      "Munbaz's Inns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses hanging a mezuza on a stick being invalid and the baraita about danger, which is precisely what the 'On Stick Invalid' section's prose describes.",
+      "chosen_heading": "On Stick Invalid",
+      "current_heading": "On Stick Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Munbaz's Inns",
+    "candidates": [
+      "Munbaz's Inns",
+      "Door Thickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes King Munbaz's household hanging mezuzot in inns as a zecher lemezuzah, which matches exactly the prose under heading 0 about Munbaz's inn practice.",
+      "chosen_heading": "Munbaz's Inns",
+      "current_heading": "Munbaz's Inns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Door Thickness",
+    "candidates": [
+      "Door Thickness",
+      "One Parchment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact Gemara passage about placing the mezuza within the airspace of the entrance versus the outer face, including Rava's ruling about the tefach adjacent to the public domain \u2014 precisely what the 'Door Thickness' prose describes.",
+      "chosen_heading": "Door Thickness",
+      "current_heading": "Door Thickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "One Parchment",
+    "candidates": [
+      "One Parchment",
+      "Door Hinge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses writing a mezuza on two sheets (shenei dapin) and the ruling that it is unfit, which matches the 'One Parchment' section's prose exactly.",
+      "chosen_heading": "One Parchment",
+      "current_heading": "One Parchment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Door Hinge",
+    "candidates": [
+      "Door Hinge",
+      "Resh Galuta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the heker tzir (hinge indication) rule for mezuzah placement, which is precisely what the 'Door Hinge' section's prose addresses in detail.",
+      "chosen_heading": "Door Hinge",
+      "current_heading": "Door Hinge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Resh Galuta",
+    "candidates": [
+      "Resh Galuta",
+      "Nagar Invalid",
+      "Rabbi's House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Resh Galuta/Rav Nachman door-hanging story discussed in candidate 0's prose.",
+      "chosen_heading": "Resh Galuta",
+      "current_heading": "Resh Galuta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rabbi's House",
+    "candidates": [
+      "Nagar Invalid",
+      "Rabbi's House",
+      "Horizontal vs Vertical",
+      "Rashi vs Tosafot",
+      "Doorbolt Analysis",
+      "Ashkenazi Angle",
+      "Rabbi's Door",
+      "Rav Huna's Door"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Yehuda/Rav's ruling that nagar placement is invalid, the challenge from Rav Yitzchak bar Yosef about Rabbi's house, and the resolution distinguishing sichta from istavira \u2014 all of which begins with the 'Nagar Invalid' heading's topic, and the current placement under 'Rabbi's House' splits what is a single continuous Talmudic passage across two headings when the natural home is the heading that introduces the ruling itself.",
+      "chosen_heading": "Nagar Invalid",
+      "current_heading": "Rabbi's House",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Huna's Door",
+    "candidates": [
+      "Horizontal vs Vertical",
+      "Rashi vs Tosafot",
+      "Doorbolt Analysis",
+      "Ashkenazi Angle",
+      "Rabbi's Door",
+      "Rav Huna's Door",
+      "Tosafot's Reading",
+      "Common Usage",
+      "Top Third"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge from Rav Huna's door having a mezuza and the resolution that it was 'ragil' (commonly used), which is precisely what the 'Rav Huna's Door' section prose describes.",
+      "chosen_heading": "Rav Huna's Door",
+      "current_heading": "Rav Huna's Door",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Top Third",
+    "candidates": [
+      "Tosafot's Reading",
+      "Common Usage",
+      "Top Third",
+      "Rav Huna's Range",
+      "Rabbi Yose's Top"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Zeira/Rav Mattana/Shmuel on placing the mezuza at the beginning of the upper third AND Rav Huna's range, and the 'Top Third' prose (index 2) explicitly discusses both of these together as a unit, making it the correct home for this combined quoted passage.",
+      "chosen_heading": "Top Third",
+      "current_heading": "Top Third",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rabbi Yose's Top",
+    "candidates": [
+      "Rav Huna's Range",
+      "Rabbi Yose's Top",
+      "Floor vs Ceiling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita with Rabbi Yehuda's and Rabbi Yose's rulings that the prose of heading 1 ('Rabbi Yose's Top') describes \u2014 the gezeirah shavah between ukshartem and uchtavtem placing the mezuzah at the top.",
+      "chosen_heading": "Rabbi Yose's Top",
+      "current_heading": "Rabbi Yose's Top",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Floor vs Ceiling",
+    "candidates": [
+      "Floor vs Ceiling",
+      "High Arches",
+      "Closest to Outside",
+      "Immediate Encounter",
+      "House Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Gemara discussion about whether Shmuel rules like Rabbi Yehuda or Rabbi Yosei regarding placement in the upper third, which is precisely what the 'Floor vs Ceiling' prose describes.",
+      "chosen_heading": "Floor vs Ceiling",
+      "current_heading": "Floor vs Ceiling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "House Protection",
+    "candidates": [
+      "High Arches",
+      "Closest to Outside",
+      "Immediate Encounter",
+      "House Protection",
+      "God's Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling about placing the mezuzah in the tefach closest to the public domain plus both reasons (the Rabbis' and Rav Chanina's), so it belongs under 'Closest to Outside' which introduces exactly this ruling and notes that two reasons are offered \u2014 the subsequent headings cover each reason separately in the essay's prose.",
+      "chosen_heading": "Closest to Outside",
+      "current_heading": "House Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "God's Protection",
+    "candidates": [
+      "House Protection",
+      "God's Protection",
+      "Superstition Downplay",
+      "Burial Depth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24anina's statement contrasting God's protection with human kings, which is precisely what the 'God's Protection' section prose describes and quotes.",
+      "chosen_heading": "God's Protection",
+      "current_heading": "God's Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Burial Depth",
+    "candidates": [
+      "Superstition Downplay",
+      "Burial Depth",
+      "Adding Stone",
+      "Doors Behind Doors",
+      "Tefach Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's ruling that embedding a mezuzah one handbreadth deep renders it invalid, and then introduces the baraita as a potential support \u2014 exactly what the 'Burial Depth' section's prose describes.",
+      "chosen_heading": "Burial Depth",
+      "current_heading": "Burial Depth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Tefach Separation",
+    "candidates": [
+      "Adding Stone",
+      "Doors Behind Doors",
+      "Tefach Separation",
+      "Reed Case",
+      "Frame First",
+      "Tasseh v'Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's reinterpretation of the baraita as referring to an entrance behind a door (petach she'achorei hadelet) and the explicit statement of the tefach criterion within that same reinterpretation \u2014 this is the content described in the 'Doors Behind Doors' prose, not the 'Tefach Separation' section which describes the conclusion after the reinterpretation is already established.",
+      "chosen_heading": "Doors Behind Doors",
+      "current_heading": "Tefach Separation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Tasseh v'Lo",
+    "candidates": [
+      "Reed Case",
+      "Frame First",
+      "Tasseh v'Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 the reed framework case, Rav Acha's qualification about sequence, and the ta'aseh v'lo min he'asui principle \u2014 and candidate 0 ('Reed Case') is the first heading that introduces this entire baraita, making it the natural home for the complete passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Reed Case",
+      "current_heading": "Tasseh v'Lo",
+      "moved": true
+    }
+  }
+]

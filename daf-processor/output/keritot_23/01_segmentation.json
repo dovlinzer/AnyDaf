@@ -121,7 +121,7 @@
           "timestamp": "37:29"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "53:47"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 28,
       "matched": true
     },
     {
@@ -588,5 +588,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "37:29",
+  "amud_b_micro_title": "Simultaneous Effect",
+  "shiur_start_daf": 23,
+  "shiur_start_amud": "a"
 }

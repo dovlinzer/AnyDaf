@@ -63,8 +63,8 @@
           "timestamp": "22:58"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Requirement of Quantifiability in Modeh BeKtszat: When Claims and Admissions Must Be Expressible in Measure, Weight, or Number",
@@ -82,8 +82,8 @@
           "timestamp": "25:24"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Objects Excluded from Oath, Double Payment, and Guardianship Obligations (continued)",
@@ -106,7 +106,7 @@
           "timestamp": "29:53"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -135,7 +135,7 @@
           "timestamp": "40:47"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -391,5 +391,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "49:10",
+  "amud_b_micro_title": "False Oath Risk",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "b"
 }

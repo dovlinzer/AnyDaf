@@ -72,7 +72,7 @@
           "timestamp": "08:02"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -96,7 +96,7 @@
           "timestamp": "11:40"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -212,7 +212,7 @@
           "timestamp": "38:09"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -226,8 +226,8 @@
           "timestamp": "38:59"
         }
       ],
-      "sefaria_index": 13,
-      "matched": false
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Tumtum in Marriage Law: Kiddushin, Chalitzah, and Yibum Obligations",
@@ -265,7 +265,7 @@
           "timestamp": "51:03"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -289,7 +289,7 @@
           "timestamp": "54:20"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 24,
       "matched": false
     }
   ],
@@ -535,5 +535,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "20:01",
+  "amud_b_micro_title": "Rabbi Shimon Position",
+  "shiur_start_daf": 41,
+  "shiur_start_amud": "b"
 }

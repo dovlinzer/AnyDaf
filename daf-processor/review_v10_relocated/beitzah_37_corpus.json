@@ -1,0 +1,500 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Beit Din Debate",
+    "candidates": [
+      "Shvut Definition",
+      "Tosafot Dancing",
+      "Medicine Gezeirah",
+      "Af Al Pi Shebatla",
+      "Beit Din Debate",
+      "Kiddushin & Pru Urvu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'v'eilu hein mishum reshut' category and the specific case of sitting in beit din with the 'lo tzricha d'ika d'adif minei' answer, which is precisely what the 'Beit Din Debate' prose section discusses.",
+      "chosen_heading": "Beit Din Debate",
+      "current_heading": "Beit Din Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Kiddushin & Pru Urvu",
+    "candidates": [
+      "Kiddushin & Pru Urvu",
+      "Tosafot Kiddushin",
+      "Chalitzah Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question and answer about why kiddushin is categorized as reshut rather than mitzvah, precisely the content discussed in the 'Kiddushin & Pru Urvu' prose section which explicitly references 'lo tzricha d'it lei isha u'vanim.'",
+      "chosen_heading": "Kiddushin & Pru Urvu",
+      "current_heading": "Kiddushin & Pru Urvu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Chalitzah Yibum",
+    "candidates": [
+      "Tosafot Kiddushin",
+      "Chalitzah Yibum",
+      "Mekach Umemkar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chalitzah Yibum",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the chalitzah/yibum case and the older brother principle, which matches precisely the 'Chalitzah Yibum' prose about mitzvah be-gadol leyabem.",
+      "second_heading": "Mekach Umemkar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the overarching reason 'gezeirah shema yichtov' for all the prohibitions, which the 'Mekach Umemkar' prose explicitly discusses as the concern applying across cases including kiddushin and yibum.",
+      "current_heading": "Chalitzah Yibum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Mekach Umemkar",
+    "candidates": [
+      "Mekach Umemkar",
+      "Terumot Ma'asrot",
+      "Terumah to Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses consecration, valuation vows, and the gezeirah against mekach u'memkar, which is exactly what the 'Mekach Umemkar' section's prose addresses in detail.",
+      "chosen_heading": "Mekach Umemkar",
+      "current_heading": "Mekach Umemkar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Terumah to Kohen",
+    "candidates": [
+      "Terumot Ma'asrot",
+      "Terumah to Kohen",
+      "Challah Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the mishna statement about separating terumot/ma'asrot AND Rav Yosef's qualification about giving it to a kohen on the same day \u2014 it is a single continuous Gemara unit that belongs under heading 0 ('Terumot Ma'asrot'), which discusses both the pshita question and notes Rav Yosef's addition, whereas heading 1 only covers Rav Yosef's qualification in isolation.",
+      "chosen_heading": "Terumot Ma'asrot",
+      "current_heading": "Terumah to Kohen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Challah Separation",
+    "candidates": [
+      "Terumah to Kohen",
+      "Challah Separation",
+      "Shvut Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between tevel from before Yom Tov versus dough that becomes tevel on Yom Tov itself, and the permissibility of separating challah and giving it to the kohen \u2014 precisely what the 'Challah Separation' section's prose discusses.",
+      "chosen_heading": "Challah Separation",
+      "current_heading": "Challah Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Shvut Levels",
+    "candidates": [
+      "Shvut Levels",
+      "Shabbat Yom Tov",
+      "Lowering Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the mishna's three-category structure and Rabbi Yitzchak's lav mibaya explanation of shvut gerideta, shvut d'reshut, and shvut d'mitzvah \u2014 exactly what the 'Shvut Levels' prose describes.",
+      "chosen_heading": "Shvut Levels",
+      "current_heading": "Shvut Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Lowering Fruit",
+    "candidates": [
+      "Shabbat Yom Tov",
+      "Lowering Fruit",
+      "Abuye Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the contradiction from the skylight mishna and Rav Yosef's resolution attributing the two mishnayot to Rabbi Eliezer and Rabbi Yehoshua \u2014 are precisely the content described in heading 1 ('Lowering Fruit') and heading 2 ('Abuye Resolution'), but since both items together form the opening of the contradiction-and-resolution sequence that heading 1's prose explicitly covers (raising the contradiction and noting the dispute), and Rav Yosef's attribution is the first step of the resolution described under heading 1, the current placement under 'Lowering Fruit' is the correct home for both items.",
+      "chosen_heading": "Lowering Fruit",
+      "current_heading": "Lowering Fruit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Abuye Resolution",
+    "candidates": [
+      "Abuye Resolution",
+      "Beit Shammai Hillel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Abuye Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the baraita about oto v'et beno and Abaye's challenge to Rav Yosef's resolution, which is precisely what the 'Abuye Resolution' prose describes.",
+      "second_heading": "Beit Shammai Hillel",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rav Pappa's Beit Shammai/Beit Hillel resolution, which is exactly what the 'Beit Shammai Hillel' prose discusses.",
+      "current_heading": "Abuye Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Beit Shammai Hillel",
+    "candidates": [
+      "Beit Shammai Hillel",
+      "Muktza Carrying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about Beit Shammai and Beit Hillel regarding carrying on Yom Tov, which directly corresponds to the prose in heading 0 that discusses exactly this mishna and its role in Rav Papa's resolution.",
+      "chosen_heading": "Beit Shammai Hillel",
+      "current_heading": "Beit Shammai Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Muktza Carrying",
+    "candidates": [
+      "Muktza Carrying",
+      "Unresolved Gaps",
+      "Behemah Keilim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's refutation and counter-refutation about whether Beit Shammai's strictness regarding hotza'ah (carrying/transferring) also implies strictness about tiltul (moving), which is precisely what the 'Muktza Carrying' section's prose describes.",
+      "chosen_heading": "Muktza Carrying",
+      "current_heading": "Muktza Carrying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Behemah Keilim",
+    "candidates": [
+      "Unresolved Gaps",
+      "Behemah Keilim",
+      "Shepherd Animal",
+      "Shared Estate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna introduces the general rule that animals and vessels follow the owner's feet, which matches the 'Behemah Keilim' section prose that explicitly discusses this concept and the laws of techumim \u2014 the shepherd case is a separate sub-clause covered by the next heading.",
+      "chosen_heading": "Behemah Keilim",
+      "current_heading": "Behemah Keilim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Shared Estate",
+    "candidates": [
+      "Shepherd Animal",
+      "Shared Estate",
+      "Borrowing Timing",
+      "Dough Techum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses vessels designated for one of several brothers in a shared estate versus undesignated shared vessels, which matches exactly the 'Shared Estate' section's prose about *keilim ha-myuchadim l'echad min ha-achim she-ba-bayit*.",
+      "chosen_heading": "Shared Estate",
+      "current_heading": "Shared Estate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Dough Techum",
+    "candidates": [
+      "Borrowing Timing",
+      "Dough Techum",
+      "Water Exemption",
+      "Purchase Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the borrowing-timing rule (vessel borrowed before vs. on Yom Tov) AND the dough/water cases in a single mishnah, and candidate 0 ('Borrowing Timing') is the section whose prose explicitly introduces and discusses this entire mishnah including the borrower/lender techum distinction, making it the best home for the complete passage.",
+      "chosen_heading": "Borrowing Timing",
+      "current_heading": "Dough Techum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Purchase Possession",
+    "candidates": [
+      "Water Exemption",
+      "Purchase Possession",
+      "Shepherd Transfer",
+      "Shepherd Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's opening assertion that the mishna does not accord with Rabbi Dosa, along with the baraita stating Rabbi Dosa's position \u2014 exactly what candidate 1 ('Purchase Possession') describes in its prose.",
+      "chosen_heading": "Purchase Possession",
+      "current_heading": "Purchase Possession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Shepherd Choice",
+    "candidates": [
+      "Shepherd Transfer",
+      "Shepherd Choice",
+      "Rav Yochanan Psak",
+      "Opposing Eiruv"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shepherd Choice",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the reconciliation of the contradiction between Rabbi Dosa and the mishna (one shepherd vs two shepherds), which matches candidate 1 'Shepherd Choice' prose exactly.",
+      "second_heading": "Rav Yochanan Psak",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's closing answer to Rabbi Yochanan's apparent contradiction, resolving his ruling in favor of Rabbi Dosa against the stam mishna \u2014 which matches candidate 2 'Rav Yochanan Psak' prose exactly.",
+      "current_heading": "Shepherd Choice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Opposing Eiruv",
+    "candidates": [
+      "Rav Yochanan Psak",
+      "Opposing Eiruv",
+      "Intersection Rule",
+      "Day Night",
+      "Zero Overlap",
+      "Rav Barrel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita about two borrowers of one robe with opposing eiruvei techumim, which is precisely what the 'Opposing Eiruv' section's prose describes \u2014 the case, the opposing directions, and the resulting restrictions.",
+      "chosen_heading": "Opposing Eiruv",
+      "current_heading": "Opposing Eiruv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rav Barrel",
+    "candidates": [
+      "Intersection Rule",
+      "Day Night",
+      "Zero Overlap",
+      "Rav Barrel",
+      "Shmuel Both",
+      "Bereira Theory",
+      "Animal Nutrients"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage records the Rav/Shmuel dispute about the barrel and animal, which is exactly what the 'Rav Barrel' section's prose describes.",
+      "chosen_heading": "Rav Barrel",
+      "current_heading": "Rav Barrel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Animal Nutrients",
+    "candidates": [
+      "Shmuel Both",
+      "Bereira Theory",
+      "Animal Nutrients",
+      "Muktza Challenge",
+      "Rav Ushaya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge to Rav's internal consistency (if yesh bereira why not animal; if ein bereira why barrel permitted) and the initial resolution \u2014 precisely the content described in candidate 1 'Bereira Theory' prose, which explicitly states 'The apparent inconsistency demands explanation' and covers both the yesh/ein bereira dilemma and the question of why the animal is different.",
+      "chosen_heading": "Bereira Theory",
+      "current_heading": "Animal Nutrients",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Rav Ushaya",
+    "candidates": [
+      "Muktza Challenge",
+      "Rav Ushaya",
+      "Multiple Exits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage reports the final ruling on bereira from Rabbi Hoshaya and Rabbi Yo\u1e25anan, which directly matches the 'Rav Ushaya' section prose discussing Rav Oshaya's position of yesh bereira and Rabbi Yochanan's position of ein bereira.",
+      "chosen_heading": "Rav Ushaya",
+      "current_heading": "Rav Ushaya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Multiple Exits",
+    "candidates": [
+      "Multiple Exits",
+      "Before Death",
+      "After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the challenge about a corpse in a house with multiple entrances and how designation/intention affects which entrance becomes impure, which is precisely what the 'Multiple Exits' section's prose describes.",
+      "chosen_heading": "Multiple Exits",
+      "current_heading": "Multiple Exits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "After Death",
+    "candidates": [
+      "Before Death",
+      "After Death",
+      "Forward Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Beit Shammai and Beit Hillel's positions together, but its specific content \u2014 the dispute about timing of intention relative to death \u2014 is best introduced under 'Before Death,' which frames the Beit Shammai position that anchors the entire dispute, rather than under 'After Death' which only discusses Beit Hillel's lenient ruling.",
+      "chosen_heading": "Before Death",
+      "current_heading": "After Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Forward Only",
+    "candidates": [
+      "After Death",
+      "Forward Only",
+      "Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Hoshaya's statement about purifying entrances 'from here and onward' but not retroactively, which is exactly what the 'Forward Only' section's prose describes and analyzes.",
+      "chosen_heading": "Forward Only",
+      "current_heading": "Forward Only",
+      "moved": false
+    }
+  }
+]

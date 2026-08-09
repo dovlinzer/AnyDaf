@@ -1,0 +1,371 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Baraita Evidence",
+    "candidates": [
+      "Opening",
+      "Mishnah & Gemara",
+      "Rabbi's Position",
+      "Proof Needed",
+      "Baraita Evidence",
+      "Resolution",
+      "Wheel Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form exactly the proof the Gemara seeks \u2014 the baraita citation and its resolution \u2014 which is precisely what heading 3 ('Proof Needed') introduces with the words 'from where do we know to distinguish,' while headings 4 and 5 cover the same material but are already matched to their own prose sections that describe the baraita's content and resolution in detail, making heading 3 the correct home for the actual quoted text that provides and resolves the proof.",
+      "chosen_heading": "Proof Needed",
+      "current_heading": "Baraita Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Wheel Contradiction",
+    "candidates": [
+      "Resolution",
+      "Wheel Contradiction",
+      "Pottery vs. Water",
+      "First vs. Second Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's resolution of the wheel contradiction by distinguishing between a potter's wheel and a water wheel, which is precisely what the 'Pottery vs. Water' section's prose discusses.",
+      "chosen_heading": "Pottery vs. Water",
+      "current_heading": "Wheel Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "First vs. Second Power",
+    "candidates": [
+      "Pottery vs. Water",
+      "First vs. Second Power",
+      "Sluice Gates Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the koach rishon/koach sheni distinction on a water wheel, which is precisely what the 'First vs. Second Power' section's prose discusses.",
+      "chosen_heading": "First vs. Second Power",
+      "current_heading": "First vs. Second Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Sluice Gates Example",
+    "candidates": [
+      "Sluice Gates Example",
+      "Application",
+      "Three Generations",
+      "Abraham & the Knife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's case about binding someone and diverting water (bidka de'maya), with the koach rishon/koach sheni distinction, which is exactly what the 'Sluice Gates Example' prose discusses in detail.",
+      "chosen_heading": "Sluice Gates Example",
+      "current_heading": "Sluice Gates Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Abraham & the Knife",
+    "candidates": [
+      "Application",
+      "Three Generations",
+      "Abraham & the Knife",
+      "Avodah Zarah Case",
+      "House Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the scene of Rav sitting behind Rabbi Chiyya who sits before Rabbi, which is precisely what the 'Three Generations' section's prose introduces and discusses, while the 'Abraham & the Knife' section's prose covers the subsequent content (the proof from the verse and its refutation) that would follow this passage.",
+      "chosen_heading": "Three Generations",
+      "current_heading": "Abraham & the Knife",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "House Forbidden",
+    "candidates": [
+      "Avodah Zarah Case",
+      "House Forbidden",
+      "Seeds & Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that detached-then-attached items are treated as detached for avodah zarah purposes, which is precisely what heading 0 ('Avodah Zarah Case') introduces, while heading 1 ('House Forbidden') covers the downstream elaboration and analysis of that principle rather than the Gemara passage itself.",
+      "chosen_heading": "Avodah Zarah Case",
+      "current_heading": "House Forbidden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Seeds & Water",
+    "candidates": [
+      "House Forbidden",
+      "Seeds & Water",
+      "Wall Types",
+      "Summary Across Areas"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Seeds & Water",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 cover the Mishnah citation, the internal contradiction, and Rabbi Elazar's resolution \u2014 exactly what the 'Seeds & Water' prose describes.",
+      "second_heading": "Wall Types",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20136 present Rav Pappa's single-Tanna resolution distinguishing cave walls from building walls \u2014 exactly what the 'Wall Types' prose describes.",
+      "current_heading": "Seeds & Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Summary Across Areas",
+    "candidates": [
+      "Wall Types",
+      "Summary Across Areas",
+      "Conceptual Framework",
+      "Moving the Animal",
+      "Position Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Summary Across Areas' prose: Rava's dilemma about talush u'levasof chibur for shechita, the baraita about a flint from a wall resolved as referring to a cave wall, the comparison to a naturally growing reed, and the knife-in-wall baraita rejected because a knife is never truly subsumed \u2014 all explicitly narrated in that section's prose.",
+      "chosen_heading": "Summary Across Areas",
+      "current_heading": "Summary Across Areas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Position Requirements",
+    "candidates": [
+      "Conceptual Framework",
+      "Moving the Animal",
+      "Position Requirements",
+      "Contradiction",
+      "Two Cases Resolved"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Position Requirements",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Shmuel's ruling distinguishing knife-above from knife-below, which is precisely what the 'Position Requirements' prose describes.",
+      "second_heading": "Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge from the baraita permitting both positions, which is exactly what the 'Contradiction' prose describes.",
+      "current_heading": "Position Requirements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Two Cases Resolved",
+    "candidates": [
+      "Contradiction",
+      "Two Cases Resolved",
+      "Birds Exception",
+      "Five Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Zevid's disjunctive resolution and Rav Pappa's birds exception together in one Talmudic unit, and the 'Two Cases Resolved' heading's prose explicitly covers both Rav Zevid's analysis and implicitly sets up Rav Pappa's point, making it the best single home for the combined passage.",
+      "chosen_heading": "Two Cases Resolved",
+      "current_heading": "Two Cases Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Five Restrictions",
+    "candidates": [
+      "Birds Exception",
+      "Five Restrictions",
+      "Reed Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the five restrictions regarding reed stalks, which precisely matches the 'Five Restrictions' section's prose discussion of those same five laws and their underlying rationale.",
+      "chosen_heading": "Five Restrictions",
+      "current_heading": "Five Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Reed Types",
+    "candidates": [
+      "Reed Types",
+      "Contextual Meat Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about the contradiction between prohibiting slaughter with a reed and permitting it, resolved by Rav Pappa's distinction between marsh reeds and common reeds \u2014 exactly what the 'Reed Types' prose discusses.",
+      "chosen_heading": "Reed Types",
+      "current_heading": "Reed Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Contextual Meat Cutting",
+    "candidates": [
+      "Contextual Meat Cutting",
+      "Witchcraft Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa and Rabbah bar Rav Huna's contextual use of reeds to cut fish innards and bird meat, which is precisely what the 'Contextual Meat Cutting' prose describes.",
+      "chosen_heading": "Contextual Meat Cutting",
+      "current_heading": "Contextual Meat Cutting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Witchcraft Concern",
+    "candidates": [
+      "Witchcraft Concern",
+      "Mishnah Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses wiping with flammable material, teeth falling out, and Rav Pappa's clarification about wound-wiping \u2014 all of which are precisely the content described in the 'Witchcraft Concern' prose section.",
+      "chosen_heading": "Witchcraft Concern",
+      "current_heading": "Witchcraft Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Mishnah Summary",
+    "candidates": [
+      "Mishnah Summary",
+      "All Require Shechita",
+      "Rabbi Yishmael View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly interprets 'hakkol sho\u1e25atin' as 'all animals require shechita, even a bird,' which is precisely what the 'All Require Shechita' section's prose describes as the Gemara's reinterpretation of the Mishnah.",
+      "chosen_heading": "All Require Shechita",
+      "current_heading": "Mishnah Summary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Rabbi Yishmael View",
+    "candidates": [
+      "All Require Shechita",
+      "Rabbi Yishmael View",
+      "Rava's Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yishmael's baraita about basar ta'avah being forbidden in the desert and permitted upon entering the Land, which is precisely what the 'Rabbi Yishmael View' prose section discusses in detail.",
+      "chosen_heading": "Rabbi Yishmael View",
+      "current_heading": "Rabbi Yishmael View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Rava's Inference",
+    "candidates": [
+      "Rava's Inference",
+      "Rav Yosef Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba's reasoning about exile potentially reinstating the original prohibition and the Mishnah's response of 'l'olam shochtim,' which is precisely what the 'Rava's Inference' section prose discusses.",
+      "chosen_heading": "Rava's Inference",
+      "current_heading": "Rava's Inference",
+      "moved": false
+    }
+  }
+]

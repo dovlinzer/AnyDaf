@@ -45,7 +45,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Gemara's Derivation of Blessings from Kodesh Hilulim and Neta Revai",
@@ -181,7 +181,7 @@
           "timestamp": "39:59"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -494,5 +494,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "38:08",
+  "amud_b_micro_title": "Before & After",
+  "shiur_start_daf": 34,
+  "shiur_start_amud": "b"
 }

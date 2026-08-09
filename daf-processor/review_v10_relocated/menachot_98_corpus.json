@@ -1,0 +1,517 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Chizkiya & Bar Kappara",
+    "candidates": [
+      "Pasuk & Dispute Intro",
+      "Upper vs. Lower Mouth",
+      "Chizkiya & Bar Kappara",
+      "Three Details Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and present the full dispute about 'va-alehu li-trufa,' which is precisely what candidate 0's prose describes \u2014 the pasuk from Yechezkel, the Rav \u1e24isda/Rav Yitz\u1e25ak bar Avdimi dispute, and the Chizkiya/bar Kappara parallel \u2014 making candidate 0 the best fit for the entire passage.",
+      "chosen_heading": "Pasuk & Dispute Intro",
+      "current_heading": "Chizkiya & Bar Kappara",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Three Details Explained",
+    "candidates": [
+      "Chizkiya & Bar Kappara",
+      "Three Details Explained",
+      "Why Three Details Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically addresses why 'six in a stack' must be stated \u2014 otherwise one might think four and eight is permissible \u2014 which matches exactly the 'Why Three Details Needed' prose that describes this very reasoning as the first of three necessary specifications.",
+      "chosen_heading": "Why Three Details Needed",
+      "current_heading": "Three Details Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Why Three Details Needed",
+    "candidates": [
+      "Three Details Explained",
+      "Why Three Details Needed",
+      "Valid Arrangement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the baraita demonstrating why all three scriptural details are indispensable, which is precisely what candidate 1 ('Why Three Details Needed') describes in its prose, including the specific conclusion quoted verbatim.",
+      "chosen_heading": "Why Three Details Needed",
+      "current_heading": "Why Three Details Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Valid Arrangement",
+    "candidates": [
+      "Valid Arrangement",
+      "Seventh Loaf Question",
+      "Frankincense Problem",
+      "Al Means Near",
+      "Paroches as Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 including both Rabbi's ruling about seven-loaf stacks and the Gemara's challenge about the frankincense needing to rest 'upon' the bread \u2014 matches precisely the 'Frankincense Problem' section's prose, which discusses exactly this challenge to Rabbi's ruling from the requirement that frankincense rest on top of the mitzvah bread.",
+      "chosen_heading": "Frankincense Problem",
+      "current_heading": "Valid Arrangement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Paroches as Proof",
+    "candidates": [
+      "Seventh Loaf Question",
+      "Frankincense Problem",
+      "Al Means Near",
+      "Paroches as Proof",
+      "All Vessels East-West",
+      "Ark North-South"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda/Rav Hamnuna's statement that Rabbi holds 'al' means 'adjacent to' (besamuch), which is exactly what the 'Al Means Near' section's prose describes, including the baraita proof \u2014 the Paroches proof is part of this same baraita and belongs with the 'al means near' explanation, not as a separate section.",
+      "chosen_heading": "Al Means Near",
+      "current_heading": "Paroches as Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Ark North-South",
+    "candidates": [
+      "All Vessels East-West",
+      "Ark North-South",
+      "Poles Stretched Out",
+      "Poles Bulge Paroches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the general rule (all vessels east-west) and its exception (Ark north-south) as a single baraita unit, and the prose of candidate 0 ('All Vessels East-West') explicitly introduces this very baraita and its general rule, making it the better home than candidate 1 which only discusses the exception already assumed to be established.",
+      "chosen_heading": "All Vessels East-West",
+      "current_heading": "Ark North-South",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Poles Bulge Paroches",
+    "candidates": [
+      "Poles Stretched Out",
+      "Poles Bulge Paroches",
+      "Pole Placement Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita about the staves \u2014 item 1 raises the contradiction and item 2 resolves it \u2014 and candidate 0 ('Poles Stretched Out') explicitly describes this entire baraita including the contradiction, making it the natural home for both items, whereas candidate 1 ('Poles Bulge Paroches') covers only the resolution and additional commentary beyond the baraita itself.",
+      "chosen_heading": "Poles Stretched Out",
+      "current_heading": "Poles Bulge Paroches",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Pole Placement Logic",
+    "candidates": [
+      "Poles Bulge Paroches",
+      "Pole Placement Logic",
+      "Four Carriers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about whether the poles were on the width or length of the Aron and Rav Yehuda's answer about two men not fitting in one and a half amot, which is exactly what the 'Pole Placement Logic' prose describes.",
+      "chosen_heading": "Pole Placement Logic",
+      "current_heading": "Pole Placement Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Four Carriers",
+    "candidates": [
+      "Four Carriers",
+      "Solomon's Ten Tables"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how we derive that four men carried the Ark, which matches exactly the 'Four Carriers' section's prose discussion of this derivation from the plural forms in the verse.",
+      "chosen_heading": "Four Carriers",
+      "current_heading": "Four Carriers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Solomon's Ten Tables",
+    "candidates": [
+      "Solomon's Ten Tables",
+      "Solomon's Ten Menorot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Solomon's ten tables, their placement relative to Moses' original table in the north, which exactly matches the prose under heading 0 ('Solomon's Ten Tables').",
+      "chosen_heading": "Solomon's Ten Tables",
+      "current_heading": "Solomon's Ten Tables",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Solomon's Ten Menorot",
+    "candidates": [
+      "Solomon's Ten Menorot",
+      "Location Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Solomon's ten candelabra, their placement relative to Moses's Menorah, and the derivation that Moshe's Menorah was in the center with five on each side \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Solomon's Ten Menorot",
+      "current_heading": "Solomon's Ten Menorot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Location Dispute",
+    "candidates": [
+      "Location Dispute",
+      "Rabbi East-West"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the baraita dispute about whether the tables and candelabra were placed at the half or third mark of the Temple, and the Gemara's resolution \u2014 exactly what the 'Location Dispute' prose describes.",
+      "chosen_heading": "Location Dispute",
+      "current_heading": "Location Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Rabbi East-West",
+    "candidates": [
+      "Rabbi East-West",
+      "R. Elazar North-South"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss Rabbi Yehuda HaNasi's east-west orientation argument derived from the Menorah's western lamp, which is precisely what the 'Rabbi East-West' prose describes.",
+      "chosen_heading": "Rabbi East-West",
+      "current_heading": "Rabbi East-West",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "R. Elazar North-South",
+    "candidates": [
+      "R. Elazar North-South",
+      "Wicks Lean Center"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Elazar ben Shimon's north-south derivation from the Aron and his response about the Menorah also being north-south, which exactly matches the prose of candidate 0.",
+      "chosen_heading": "R. Elazar North-South",
+      "current_heading": "R. Elazar North-South",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Wicks Lean Center",
+    "candidates": [
+      "Wicks Lean Center",
+      "Middle Lamp Superior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how the term 'western lamp' is reconciled with a north-south Menorah orientation by explaining that wicks were angled/turned to the side (mitzadadi), which is precisely what the 'Wicks Lean Center' section discusses.",
+      "chosen_heading": "Wicks Lean Center",
+      "current_heading": "Wicks Lean Center",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Middle Lamp Superior",
+    "candidates": [
+      "Middle Lamp Superior",
+      "N-S Fits Easily"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about the seven lamps facing the middle lamp and Rabbi Natan's inference about the middle lamp's preeminence, which is exactly what the 'Middle Lamp Superior' prose section describes.",
+      "chosen_heading": "Middle Lamp Superior",
+      "current_heading": "Middle Lamp Superior",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "N-S Fits Easily",
+    "candidates": [
+      "N-S Fits Easily",
+      "E-W Space Calc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the objections against the north-south arrangement, the two-row resolution, and the concluding statement that north-south 'works out well' \u2014 match exactly what Candidate 0's prose describes, including explicit mention of 'trei darei havo' and the transition to the east-west challenge.",
+      "chosen_heading": "N-S Fits Easily",
+      "current_heading": "N-S Fits Easily",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "E-W Space Calc",
+    "candidates": [
+      "E-W Space Calc",
+      "Moshe Table Front",
+      "Teacher-Student",
+      "One Table Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous calculation-and-resolution sequence about the east-west spatial problem: items 1-2 lay out the 10.5-amot difficulty, and item 3 resolves it by repositioning Moshe's table \u2014 exactly what the 'E-W Space Calc' prose describes.",
+      "chosen_heading": "E-W Space Calc",
+      "current_heading": "E-W Space Calc",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "One Table Opinion",
+    "candidates": [
+      "Moshe Table Front",
+      "Teacher-Student",
+      "One Table Opinion",
+      "All Tables Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the baraita stating that only Moses' table and menorah were used (not Solomon's ten), with singular-form proofs from Melachim \u2014 exactly what the 'One Table Opinion' prose describes as the first Tanna's position.",
+      "chosen_heading": "One Table Opinion",
+      "current_heading": "One Table Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "All Tables Opinion",
+    "candidates": [
+      "All Tables Opinion",
+      "Three Functional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar ben Shammua's opinion that shewbread was arranged on all tables and all candelabra were lit, with proofs from Divrei Hayamim plural forms \u2014 exactly what the 'All Tables Opinion' prose describes.",
+      "chosen_heading": "All Tables Opinion",
+      "current_heading": "All Tables Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Three Functional",
+    "candidates": [
+      "Three Functional",
+      "Silver & Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically covers Rabbi Yosei bar Rabbi Yehuda's position that the shewbread was arranged only on Moshe's table and that the plural 'tables' refers to the three tables in the Temple including the two in the Ulam \u2014 this matches exactly the 'Three Functional' section's prose, which introduces his view and describes these three tables, before the 'Silver & Gold' section continues with the specific functions of each Ulam table.",
+      "chosen_heading": "Three Functional",
+      "current_heading": "Three Functional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Silver & Gold",
+    "candidates": [
+      "Silver & Gold",
+      "Ascend Not Descend",
+      "Erecting Mishkan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the silver and gold tables' functions in the shewbread exchange procedure, which is precisely what the 'Silver & Gold' section's prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Silver & Gold",
+      "current_heading": "Silver & Gold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Erecting Mishkan",
+    "candidates": [
+      "Ascend Not Descend",
+      "Erecting Mishkan",
+      "Fire Pans Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about the source of 'ein moridin' and Rabbi Yehuda HaNasi's answer from the Mishkan verse, which exactly matches the prose in section 1 ('Erecting Mishkan') that discusses this same derivation from the pasuk about Moshe erecting the Mishkan.",
+      "chosen_heading": "Erecting Mishkan",
+      "current_heading": "Erecting Mishkan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Fire Pans Example",
+    "candidates": [
+      "Fire Pans Example",
+      "Broken Tablets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the fire pans of Korah's assembly being elevated from altar accessories to the altar itself, which is exactly what the 'Fire Pans Example' prose describes.",
+      "chosen_heading": "Fire Pans Example",
+      "current_heading": "Fire Pans Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Broken Tablets",
+    "candidates": [
+      "Broken Tablets",
+      "Talmid Chacham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the broken tablets in the Ark and the talmid chacham application as a single unified baraita, and the current heading's prose explicitly discusses both elements together, making it the best match.",
+      "chosen_heading": "Broken Tablets",
+      "current_heading": "Broken Tablets",
+      "moved": false
+    }
+  }
+]

@@ -19,8 +19,8 @@
           "timestamp": "01:16"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Nosar (Leftover Meat) and the Moment of Status Change: Before or After Zrika",
@@ -77,8 +77,8 @@
           "timestamp": "12:27"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Pigul (Improper Intent) and the Timing of Status Change: Before or After Zrika (continued)",
@@ -96,7 +96,7 @@
           "timestamp": "16:25"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -598,5 +598,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "34:43",
+  "amud_b_micro_title": "R. Akiva: Status Changes",
+  "shiur_start_daf": 6,
+  "shiur_start_amud": "a"
 }

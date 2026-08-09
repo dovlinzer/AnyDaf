@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Kerub vs. Human Face",
+    "candidates": [
+      "Kerub vs. Human Face",
+      "Six vs. Four Wings",
+      "Lost Wings Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the meaning of 'keruv' as an infant's face and the distinction between the large face (adult) and small face (baby), which is exactly what the prose in heading 0 'Kerub vs. Human Face' describes, including the specific Rav Pappa/Abaye exchange and the *appei ravrivi ve-appei zutrei* resolution.",
+      "chosen_heading": "Kerub vs. Human Face",
+      "current_heading": "Kerub vs. Human Face",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Lost Wings Debate",
+    "candidates": [
+      "Six vs. Four Wings",
+      "Lost Wings Debate",
+      "Angels from Dinur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss which wings were diminished (the 'Lost Wings Debate'), exactly matching candidate 1's prose about the Rav Chananel/Rav opinion and the rabbanan opinion regarding singing wings vs. leg-covering wings, including the face/feet comparison at the end.",
+      "chosen_heading": "Lost Wings Debate",
+      "current_heading": "Lost Wings Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Angels from Dinur",
+    "candidates": [
+      "Angels from Dinur",
+      "River & the Wicked",
+      "Lost Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction between Daniel 7:10 and Job 25:3 about the number of heavenly attendants, and the resolutions offered (Temple standing vs. not, single troop count, River Dinur interpretation) are all explicitly described in the 'Angels from Dinur' prose section.",
+      "chosen_heading": "Angels from Dinur",
+      "current_heading": "Angels from Dinur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Lost Generations",
+    "candidates": [
+      "River & the Wicked",
+      "Lost Generations",
+      "Daily Angel Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the destination of the River Dinur (heads of the wicked, the 974 lost generations, and Torah scholars), which is precisely what the 'Lost Generations' prose section describes in detail, including the braisa of Rabbi Shimon Hachasid and Rav Nachman bar Yitzchak's positive reading.",
+      "chosen_heading": "Lost Generations",
+      "current_heading": "Lost Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Daily Angel Creation",
+    "candidates": [
+      "Daily Angel Creation",
+      "Timing of Song"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes daily angel creation from the River Dinur and the disagreement with Rabbi Shmuel bar Na\u1e25mani, which directly matches the 'Daily Angel Creation' section's prose discussion of the same content.",
+      "chosen_heading": "Daily Angel Creation",
+      "current_heading": "Daily Angel Creation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Timing of Song",
+    "candidates": [
+      "Timing of Song",
+      "God & David"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about God appearing white-haired in the heavenly academy vs. black-haired in battle is explicitly discussed and quoted in the 'Timing of Song' section's prose, which directly addresses this tension and its resolution.",
+      "chosen_heading": "Timing of Song",
+      "current_heading": "Timing of Song",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "God & David",
+    "candidates": [
+      "God & David",
+      "Justice & Compassion",
+      "Throne & Footstool"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Akiva's position (one throne for God, one for David) and Rabbi Yosei HaGelili's rebuttal with the din/tzedakah alternative, but the current heading 'God & David' covers the full exchange including the baraita, and the prose explicitly describes all of this content including Rabbi Akiva's formulation and the correction \u2014 the passage fits best under heading 0 where it currently sits, as the 'God & David' section's prose already describes the entire passage including Rabbi Yosei's rebuttal.",
+      "chosen_heading": "God & David",
+      "current_heading": "God & David",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Throne & Footstool",
+    "candidates": [
+      "Justice & Compassion",
+      "Throne & Footstool",
+      "Ten Losses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar ben Azarya rebuking Rabbi Akiva for engaging in aggadah and redirecting to the throne/footstool interpretation, which matches exactly the prose under 'Throne & Footstool' where Rabbi Elazar ben Azarya's resolution of 'one throne and one footstool' is discussed.",
+      "chosen_heading": "Throne & Footstool",
+      "current_heading": "Throne & Footstool",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Ten Losses",
+    "candidates": [
+      "Ten Losses",
+      "Torah Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items constitute the continuous Gemara passage enumerating and explaining Isaiah's eighteen curses, which is precisely what the 'Ten Losses' section prose describes in detail.",
+      "chosen_heading": "Ten Losses",
+      "current_heading": "Ten Losses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Torah Interpretation",
+    "candidates": [
+      "Torah Interpretation",
+      "Honesty in Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items interpret Isaiah 3:4-5 about unworthy leaders (people devoid of mitzvot), which is precisely what the 'Torah Interpretation' prose discusses in detail, including the exact phrases ne'arim/meno'arim, ta'alulim/ta'alei, and the pomegranate imagery.",
+      "chosen_heading": "Torah Interpretation",
+      "current_heading": "Torah Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Honesty in Torah",
+    "candidates": [
+      "Honesty in Torah",
+      "Torah vs. Business"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Gemara passage that candidate 0's prose explicitly walks through \u2014 Rav Ketina's statement about trustworthy men at Jerusalem's downfall, the interpretation of 'cloak' as Torah knowledge, the stumbling-block passage, and the man's sworn refusal citing no bread/garment/Torah \u2014 all of which are detailed in candidate 0's prose but only alluded to in candidate 1's prose as prior context.",
+      "chosen_heading": "Honesty in Torah",
+      "current_heading": "Honesty in Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Torah vs. Business",
+    "candidates": [
+      "Torah vs. Business",
+      "Teaching Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about trustworthy men in Jerusalem \u2014 the verification objection, Rava's statement about destruction, and the Torah-vs-commerce resolution \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Torah vs. Business",
+      "current_heading": "Torah vs. Business",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Teaching Conditions",
+    "candidates": [
+      "Teaching Conditions",
+      "Elazar's Discourse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the exchange described in candidate 0's prose \u2014 Rabbi Elazar's request to learn Merkavah, Rabban Yochanan's citation of the teaching restriction, and Rabbi Elazar's humble request to demonstrate his own understanding \u2014 all of which is the content of the 'Teaching Conditions' section.",
+      "chosen_heading": "Teaching Conditions",
+      "current_heading": "Teaching Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Elazar's Discourse",
+    "candidates": [
+      "Elazar's Discourse",
+      "Yochanan's Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Yochanan dismounting, his explanation about the Divine Presence, and Rabbi Elazar beginning to expound with fire descending \u2014 all events covered in the 'Elazar's Discourse' prose section, not in the 'Yochanan's Praise' section which covers the subsequent blessing and praise.",
+      "chosen_heading": "Elazar's Discourse",
+      "current_heading": "Elazar's Discourse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Yochanan's Praise",
+    "candidates": [
+      "Yochanan's Praise",
+      "Yehoshua's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 0's prose discusses: the angel's confirmation, Rabban Yochanan's kiss and blessing of Rabbi Elazar, and the praise about expounding and fulfilling well, culminating in the invocation of Abraham \u2014 all of which are explicitly elaborated in candidate 0's prose.",
+      "chosen_heading": "Yochanan's Praise",
+      "current_heading": "Yochanan's Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Yehoshua's Teaching",
+    "candidates": [
+      "Yehoshua's Teaching",
+      "Third Group Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua expounding Ma'aseh Merkavah while walking with Rabbi Yosei HaKohen, the summer solstice clouds, rainbow, and angels gathering \u2014 all of which is precisely what the 'Yehoshua's Teaching' section prose discusses in detail.",
+      "chosen_heading": "Yehoshua's Teaching",
+      "current_heading": "Yehoshua's Teaching",
+      "moved": false
+    }
+  }
+]

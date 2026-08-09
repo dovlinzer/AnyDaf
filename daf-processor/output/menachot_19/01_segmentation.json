@@ -92,8 +92,8 @@
           "timestamp": "17:00"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Principle of Me'akev: When Repetition Makes an Act Invalidating, With Applications to Korbanot",
@@ -525,5 +525,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22
+  "amud_b_sefaria_index": 22,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "19:05",
+  "amud_b_micro_title": "Torah & Chok",
+  "shiur_start_daf": 19,
+  "shiur_start_amud": "a"
 }

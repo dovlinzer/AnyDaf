@@ -1,0 +1,524 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Maaser Transfer",
+    "candidates": [
+      "Intro & Background",
+      "Rav Yehuda vs Yose",
+      "Mishtameret Distinction",
+      "Yad vs Shlichut",
+      "Maaser Transfer",
+      "Challenge to Standing",
+      "Two Answers",
+      "Rav Papa's Resolution",
+      "Source: Chasing Deer",
+      "Deer Seizure Test",
+      "Matanah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Pappa's declaration about 'da'at acheret makneh otah shani,' which is precisely what the prose of 'Rav Papa's Resolution' (index 7) describes and explains.",
+      "chosen_heading": "Rav Papa's Resolution",
+      "current_heading": "Maaser Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Matanah Question",
+    "candidates": [
+      "Challenge to Standing",
+      "Two Answers",
+      "Rav Papa's Resolution",
+      "Source: Chasing Deer",
+      "Deer Seizure Test",
+      "Matanah Question",
+      "Matanah vs Metzia",
+      "Rav Shimi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yirmeyah's dilemma about matanah (gift), Rabbi Abba bar Kahana's ruling that a gift works even without being able to catch the deer, and the conclusion that da'at acheret makneh explains this \u2014 all of which matches the 'Matanah Question' section's prose exactly, and the current placement is correct.",
+      "chosen_heading": "Matanah Question",
+      "current_heading": "Matanah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Rav Shimi Challenge",
+    "candidates": [
+      "Matanah vs Metzia",
+      "Rav Shimi Challenge",
+      "Ulla on Get",
+      "Get Forced Transfer",
+      "Kal Vachomer",
+      "Yad or Shaliach",
+      "Ein Chavin L'Adam",
+      "Get Needs Yad",
+      "Three Categories",
+      "Flying Wallet",
+      "Flying vs Rolling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "All four items form a continuous chain \u2014 Rav Shimi's challenge and Rav Pappa's get response, Rav Sheshet's kal vachomer, and Rav Ashi's resolution \u2014 and candidate 4's prose explicitly covers the kal vachomer and notes that Rav Ashi definitively resolves the matter, making it the best single heading for this entire passage.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Rav Shimi Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Flying vs Rolling",
+    "candidates": [
+      "Ulla on Get",
+      "Get Forced Transfer",
+      "Kal Vachomer",
+      "Yad or Shaliach",
+      "Ein Chavin L'Adam",
+      "Get Needs Yad",
+      "Three Categories",
+      "Flying Wallet",
+      "Flying vs Rolling",
+      "Presence in Yard",
+      "Mishna Overview",
+      "Wife Rationale",
+      "Daughter Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All four items constitute the continuous Gemara discussion about the flying wallet (Rava's dilemma) and its attempted resolution via the mishna about running after a found object, culminating in Rava's distinction between flying airspace and rolling \u2014 exactly the content described in the 'Flying vs Rolling' prose.",
+      "chosen_heading": "Flying vs Rolling",
+      "current_heading": "Flying vs Rolling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Daughter Rationale",
+    "candidates": [
+      "Presence in Yard",
+      "Mishna Overview",
+      "Wife Rationale",
+      "Daughter Rationale",
+      "Slave Rationale",
+      "Minor Son Question",
+      "Runs to Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, which is introduced and summarized in the 'Mishna Overview' prose that explicitly describes its content about minor children, Canaanite slaves, and wife's findings.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Daughter Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Runs to Father",
+    "candidates": [
+      "Slave Rationale",
+      "Minor Son Question",
+      "Runs to Father",
+      "No Zachiya Implication",
+      "Worker vs Sharecropper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's explanation of why a minor's find goes to his father, which is exactly what the 'Runs to Father' section's prose describes and analyzes.",
+      "chosen_heading": "Runs to Father",
+      "current_heading": "Runs to Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Worker vs Sharecropper",
+    "candidates": [
+      "No Zachiya Implication",
+      "Worker vs Sharecropper",
+      "Ani Owner Restriction",
+      "Yose Dissent",
+      "Shmuel Paskens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the gemara's question about whether Shmuel holds a minor has no zachiya by Torah law, which matches heading 0's prose about pressing that exact question by examining a braisa \u2014 the entire baraita and Shmuel's ruling on it are part of that single challenge, not separate sections.",
+      "chosen_heading": "No Zachiya Implication",
+      "current_heading": "Worker vs Sharecropper",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Shmuel Paskens",
+    "candidates": [
+      "Ani Owner Restriction",
+      "Yose Dissent",
+      "Shmuel Paskens",
+      "Child First",
+      "Sharecropper Problem",
+      "Shmuel Rejects",
+      "Shmuel Clarified",
+      "Darchei Shalom Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's resolution that Shmuel was explaining the tanna's reasoning rather than his own view, which is precisely what candidate 6 ('Shmuel Clarified') describes with its prose about 'Shmuel ta'ama de-tanna de-idan ka'amar ve-lav leih sevira leih.'",
+      "chosen_heading": "Shmuel Clarified",
+      "current_heading": "Shmuel Paskens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Darchei Shalom Rule",
+    "candidates": [
+      "Child First",
+      "Sharecropper Problem",
+      "Shmuel Rejects",
+      "Shmuel Clarified",
+      "Darchei Shalom Rule",
+      "Yose: Gezel",
+      "Chisda Clarifies",
+      "Nafka Mina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage cites the mishnah about found items of a deaf-mute, imbecile, or minor and Rabbi Yosei's 'full-fledged robbery' position, which is precisely what the 'Darchei Shalom Rule' prose introduces \u2014 the gemara's challenge to whether Rabbi Yosei holds a minor has Torah-level acquisition capacity, grounded in this mishnah.",
+      "chosen_heading": "Darchei Shalom Rule",
+      "current_heading": "Darchei Shalom Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Nafka Mina",
+    "candidates": [
+      "Yose: Gezel",
+      "Chisda Clarifies",
+      "Nafka Mina",
+      "After Scavengers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav \u1e24isda's statement that it is 'full-fledged robbery by rabbinic law' and mentions the practical difference as a consequence, which matches the 'Chisda Clarifies' section's prose about Rav \u1e24isda clarifying Rabbi Yose's position as gezel gamur mi-divreicbem \u2014 the nafka mina content is embedded within this quote but the primary content is Rav \u1e24isda's clarification.",
+      "chosen_heading": "Chisda Clarifies",
+      "current_heading": "Nafka Mina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "After Scavengers",
+    "candidates": [
+      "Nafka Mina",
+      "After Scavengers",
+      "Child Gathers All",
+      "No Longer Restricted",
+      "Lions Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's explanation that the rabbis rendered the field like one through which last gleaners have walked and that the poor dismiss the field from their minds \u2014 precisely the content discussed in the 'After Scavengers' section's prose, which introduces and explains Abaye's nemosos mechanism.",
+      "chosen_heading": "After Scavengers",
+      "current_heading": "After Scavengers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Lions Kal Vachomer",
+    "candidates": [
+      "Child Gathers All",
+      "No Longer Restricted",
+      "Lions Kal Vachomer",
+      "Undermines Despair",
+      "Real Zachiya",
+      "Rabbinic Enactment",
+      "Aniyim Benefit",
+      "Dependence Test",
+      "Independent or Dependent",
+      "Good Relations",
+      "Compatible Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Adda bar Mattana's lion challenge to Abaye, which is exactly what the 'Lions Kal Vachomer' prose describes \u2014 the challenge about whether a person may station lions to frighten away the poor.",
+      "chosen_heading": "Lions Kal Vachomer",
+      "current_heading": "Lions Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Compatible Mechanism",
+    "candidates": [
+      "Undermines Despair",
+      "Real Zachiya",
+      "Rabbinic Enactment",
+      "Aniyim Benefit",
+      "Dependence Test",
+      "Independent or Dependent",
+      "Good Relations",
+      "Compatible Mechanism",
+      "Slave Keeps Metzia",
+      "Why Not Worse?",
+      "Hired Hand Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Aniyim Benefit",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Rava's alternative explanation and its rationale (aniyim benefit from the enactment), which the prose of 'Aniyim Benefit' explicitly discusses.",
+      "second_heading": "Dependence Test",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan's disagreement about the meaning of 'adult' and 'minor,' which is precisely what the 'Dependence Test' prose describes.",
+      "current_heading": "Compatible Mechanism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Hired Hand Rules",
+    "candidates": [
+      "Slave Keeps Metzia",
+      "Why Not Worse?",
+      "Hired Hand Rules",
+      "Pearl Driller"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's question ('why not merely a laborer?') and the baraita that answers it by distinguishing specific vs. general hire \u2014 this is exactly the content described in heading 1 ('Why Not Worse?'), which asks why the slave shouldn't be treated like a hired hand, and the baraita elaborates the hired-hand rules as part of answering that question; heading 2 ('Hired Hand Rules') covers the same baraita but as a standalone topic, whereas here it is introduced as the premise of the a-fortiori argument about the slave.",
+      "chosen_heading": "Why Not Worse?",
+      "current_heading": "Hired Hand Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Pearl Driller",
+    "candidates": [
+      "Hired Hand Rules",
+      "Pearl Driller",
+      "Off-Clock Logic",
+      "Collecting While Working"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi \u1e24iyya bar Abba's teaching about the pearl-drilling slave, which is precisely what the 'Pearl Driller' section's prose describes and explains.",
+      "chosen_heading": "Pearl Driller",
+      "current_heading": "Pearl Driller",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Collecting While Working",
+    "candidates": [
+      "Off-Clock Logic",
+      "Collecting While Working",
+      "Separate Act",
+      "Metzia Collection",
+      "Fish After Flood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's statement about lifting a found item along with his work, which is precisely the content the 'Collecting While Working' prose describes and analyzes.",
+      "chosen_heading": "Collecting While Working",
+      "current_heading": "Collecting While Working",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Fish After Flood",
+    "candidates": [
+      "Separate Act",
+      "Metzia Collection",
+      "Fish After Flood",
+      "Generic Hiring",
+      "Age Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's statement about hiring specifically to collect found items AND the Gemara's question and answer about the lake/fish scenario, making it a single unit that belongs under 'Metzia Collection' where Rav Pappa's proposal is introduced, rather than being split between two headings.",
+      "chosen_heading": "Metzia Collection",
+      "current_heading": "Fish After Flood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      179,
+      180
+    ],
+    "current_heading": "Age Status",
+    "candidates": [
+      "Generic Hiring",
+      "Age Status",
+      "Father Should Get",
+      "Freed on Death"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Age Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks what circumstances apply to the maidservant who has grown two hairs, matching heading 1 'Age Status' which discusses exactly this question about the signs of majority and why she would still be in the master's possession.",
+      "second_heading": "Father Should Get",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the scenario where she has not grown two hairs and the father is alive (findings go to father) or the father has died (she goes free), which maps directly to heading 2 'Father Should Get' and heading 3 'Freed on Death' \u2014 but since item 2 contains both sub-cases in a single sentence, it best fits heading 2 'Father Should Get' whose prose explicitly discusses the minor-without-signs scenario and the father's claim.",
+      "current_heading": "Age Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      185,
+      186,
+      187
+    ],
+    "current_heading": "Freed on Death",
+    "candidates": [
+      "Father Should Get",
+      "Freed on Death",
+      "Father Alive Case",
+      "Wife Keeps It"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Freed on Death",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 concern Reish Lakish's teaching that a Hebrew maidservant is freed upon her father's death and the gemara's challenge to his position, which matches the 'Freed on Death' prose precisely.",
+      "second_heading": "Father Alive Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the gemara's resolution that the mishnah speaks of a case where the father is alive and 'harei hen shelahen' excludes the master's claim, matching the 'Father Alive Case' prose exactly.",
+      "current_heading": "Freed on Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      193
+    ],
+    "current_heading": "Wife Keeps It",
+    "candidates": [
+      "Father Alive Case",
+      "Wife Keeps It",
+      "Uncertain Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's ruling about a divorced wife's found item and the Gemara's question about why the mishna specifies this obvious case, which directly matches the 'Wife Keeps It' section's prose about metziat ishto she-geirushah.",
+      "chosen_heading": "Wife Keeps It",
+      "current_heading": "Wife Keeps It",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      196,
+      197
+    ],
+    "current_heading": "Uncertain Divorce",
+    "candidates": [
+      "Uncertain Divorce",
+      "Normal Rationale",
+      "Divorce Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Uncertain Divorce",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the ruling that in an uncertain divorce the husband remains obligated for sustenance, which is exactly what heading 0 ('Uncertain Divorce') describes.",
+      "second_heading": "Normal Rationale",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why the Sages gave the wife's findings to the husband and answers 'to prevent enmity,' which is exactly what heading 1 ('Normal Rationale') describes as the general policy rationale before the divorce exception is introduced.",
+      "current_heading": "Uncertain Divorce",
+      "moved": true
+    }
+  }
+]

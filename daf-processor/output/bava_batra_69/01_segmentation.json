@@ -96,7 +96,7 @@
           "timestamp": "31:29"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -163,8 +163,8 @@
           "timestamp": "46:23"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "Hierarchy of Exclusions: Trees, Palm Trees, and Vines",
@@ -353,5 +353,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "26:28",
+  "amud_b_micro_title": "Vayikam Pasuk",
+  "shiur_start_daf": 69,
+  "shiur_start_amud": "a"
 }

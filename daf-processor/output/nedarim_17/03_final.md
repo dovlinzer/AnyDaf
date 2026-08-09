@@ -1,12 +1,9 @@
-# Nedarim 17 — Daf Yomi Shiur
-
+[DAF:17a]
 ## Neder vs. Shevua
 
-### Opening & Prior Issues
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב הוּנָא: לֹא שָׁנוּ אֶלָּא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם״ ״הֲרֵינִי נָזִיר לְמָחָר״, דְּמִיגּוֹ דְּקָא מִיתּוֹסַף יוֹמָא יַתִּירָא — חָיְילָא נְזִירוּת עַל נְזִירוּת. אֲבָל אָמַר ״הֲרֵינִי נָזִיר הַיּוֹם״, ״הֲרֵינִי נָזִיר הַיּוֹם״ — אֵין חָלָה נְזִירוּת עַל נְזִירוּת. וּשְׁמוּאֵל אָמַר: אֲפִילּוּ אָמַר: ״הֲרֵינִי נָזִיר הַיּוֹם״, ״הֲרֵינִי נָזִיר הַיּוֹם״ — חָלָה נְזִירוּת עֲלֵיהּ.
->
-> **Translation:** GEMARA: **Rav Huna said: They taught** that there is a vow within a vow **only where he said: I am hereby a nazirite today,** and then he said: **I am hereby a nazirite tomorrow. As since an additional day** of naziriteship **is added** by the second vow, an additional thirty-day obligation of **naziriteship takes effect upon** the first term of **naziriteship. However,** if **he said: I am hereby a nazirite today,** and then repeated: **I am hereby a nazirite today,** a vow of **naziriteship does not take effect upon** a previous vow of **naziriteship,** and he must observe only one term of naziriteship. **And Shmuel said** that **even** if **he said: I am hereby a nazirite today, I am hereby a nazirite today,** a second vow of **naziriteship takes effect with regard to him,** as one can apply two obligations of naziriteship to himself one after the other.
+
+### Opening & Prior Issues
 
 The daf opens a new *mishna*, continuing the trend of the preceding pages in moving from technical language distinctions toward more fundamental conceptual issues. By way of review: earlier *mishnayot* had drawn a distinction between *shevua* and *neder* in terms of language, and then moved to discuss the ways in which *nedarim* are more stringent, or at least broader in their effect, than *shevuot*. The key point established there was that a *neder* can indirectly prevent the performance of a *mitzvah* by rendering an object forbidden — since the *neder* operates on the object itself — whereas a *shevua* directed against one's own obligation would not take effect, given that *mitzvot* are not considered a halakhic form of *hana'ah*. This also generated an important discussion about the scope of what a *neder* can prohibit: whether it is limited to the domain of eating and benefit, or whether it can extend to other types of interactions with an object.
 
@@ -16,15 +13,16 @@ Central to those earlier discussions was the structural distinction between *ned
 
 ### New Mishna Overview
 
-> **Hebrew/Aramaic:** מַתְנִי׳ יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, וְאֵין שְׁבוּעָה בְּתוֹךְ שְׁבוּעָה. כֵּיצַד? אָמַר: ״הֲרֵינִי נָזִיר אִם אוֹכַל״, ״הֲרֵינִי נָזִיר אִם אוֹכַל״, וְאָכַל — חַיָּיב עַל כׇּל אַחַת וְאַחַת. ״שְׁבוּעָה שֶׁלֹּא אוֹכַל״, ״שְׁבוּעָה שֶׁלֹּא אוֹכַל״, וְאָכַל — אֵינוֹ חַיָּיב אֶלָּא אַחַת.
->
-> **Translation:** MISHNA: **There is a vow within a vow.** It is possible to impose an additional prohibition, by means of a vow, on an item that is already forbidden by means of a vow. **But there is no oath within an oath.** If one takes an oath twice with regard to the same action, the second oath does not take effect. **How so?** If one **said: I am hereby a nazirite if I eat,** and then repeated: **I am hereby a nazirite if I eat, and** then **he ate, he is obligated** to observe naziriteship for thirty days **for each and every one** of the vows, as both vows took effect. However, if he said: I hereby take **an oath that I will not eat,** and repeated: I hereby take **an oath that I will not eat, and** then **he ate, he is liable** to bring an offering **for only one** violation of an oath.
-
 The *mishna* on daf 17 now introduces a further dimension of this *neder*-*shevua* distinction, one connected, though perhaps less directly, to the object-versus-person dichotomy: *yesh neder betoch neder ve'ein shevua betoch shevua* — one may make a *neder* within, or on top of, another *neder*, but one may not make a *shevua* on top of another *shevua*. The discussion that follows unpacks precisely what this asymmetry means and why it exists.
+
+> **Hebrew/Aramaic:** מַתְנִי׳ יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, וְאֵין שְׁבוּעָה בְּתוֹךְ שְׁבוּעָה. כֵּיצַד? אָמַר: ״הֲרֵינִי נָזִיר אִם אוֹכַל״, ״הֲרֵינִי נָזִיר אִם אוֹכַל״, וְאָכַל — חַיָּיב עַל כׇּל אַחַת וְאַחַת. ״שְׁבוּעָה שֶׁלֹּא אוֹכַל״, ״שְׁבוּעָה שֶׁלֹּא אוֹכַל״, וְאָכַל — אֵינוֹ חַיָּיב אֶלָּא אַחַת.
+> **Translation:** MISHNA: **There is a vow within a vow.** It is possible to impose an additional prohibition, by means of a vow, on an item that is already forbidden by means of a vow. **But there is no oath within an oath.** If one takes an oath twice with regard to the same action, the second oath does not take effect. **How so?** If one **said: I am hereby a nazirite if I eat,** and then repeated: **I am hereby a nazirite if I eat, and** then **he ate, he is obligated** to observe naziriteship for thirty days **for each and every one** of the vows, as both vows took effect. However, if he said: I hereby take **an oath that I will not eat,** and repeated: I hereby take **an oath that I will not eat, and** then **he ate, he is liable** to bring an offering **for only one** violation of an oath.
 
 ---
 
 ## Nazir Status Principle
+
+
 
 ### Nazir as Status
 
@@ -45,6 +43,8 @@ This hovering phenomenon emerges from a fundamental principle that applies equal
 ---
 
 ## Shevua Overlay
+
+
 
 ### Parallel Shevua Case
 
@@ -70,11 +70,14 @@ This tension surfaced earlier in the *Gemara* — on daf 8 — in the famous pas
 
 ## Status vs. Obligation
 
+
+
 ### Parallel Structures
 
 The structural parallelism between the two principles can now be stated clearly: *ein neder chal al neder* and *ein shevua chala al shevua* are formally parallel, but they derive from different conceptual foundations. The *neder* operates by imposing a status of prohibition on an object; the *shevua* operates by generating a personal obligation. In both cases, the rule is that you cannot impose on what already exists.
 
 ### Logic Constraints
+
 
 There is, however, a significant tension in the *neder* case that demands attention. The general principle *ein issur chal al issur* already applies to objects independently of any speech act: if something is already forbidden as, say, *neveilah*, does it then also become forbidden as *basar bechalav*? Perhaps not — because the object already carries a forbidden status, and one cannot layer a second forbidden status on top of the first. This is, admittedly, conceptually puzzling on its face, since one might ask why an object cannot carry multiple prohibitions simultaneously. But this principle exists and is operative in halakha. Given that, one might expect a *neder* — which also operates on an object — to face the same bar. And indeed it does. The crucial clarification is this: a standard *konam* declaration — *konam kikar zeh alai*, repeated twice — would be entirely ineffective the second time. The second *neder* on a normal forbidden object means nothing; *ein issur chal al issur*. It is only *nezirut* that behaves differently, for the reasons now to be examined.
 
@@ -84,19 +87,23 @@ The resulting picture is this: by *shevua*, we focus on creating an obligation, 
 
 ### Nezirut Termination
 
+
 *Nezirut* is intrinsically a bounded, terminal unit. Unlike a vague or indefinite prohibition, *nezirut* is structured: it is a defined period — thirty days by default — with a clear endpoint marked by the bringing of *korbanot*. When a person attempts to accept two *neziruyot*, the first is seen as a time-bound, temporary status; the second remains in suspension, hovering, ready to take effect the moment the first concludes. This hovering is the genuine *chiddush* of *nezirut*.
 
 A natural question arises: why is hovering not available for a *shevua* or a standard *neder*? Consider a *shevua* not to eat a loaf of bread today: could a second identical *shevua* not simply hover and take effect the next day when the first one has run its course? The problem is that if the *shevua* is temporally defined — "not today" — then when today ends, there is no longer anything to hover over. And if the second *shevua* is open-ended — "not to eat this bread" — then one might wonder whether hovering could apply. But ultimately, the conceptual difference is that *nezirut* is a self-contained temporal unit, intrinsically designed to end and restart, which is precisely what makes the hovering model natural. For *shevua*, focused on personal obligation, there is no comparable termination-and-restart structure. The hovering model, then, is a *chiddush* peculiar to *nezirut* — and the interesting observation is that even a standard *neder* on an object does not share it.
+
+It is worth noting a further *chiddush* that some *rishonim* discuss — found in a *girsa* not present in our *gemara*, but cited by the *Ran* — concerning the case where a person says *hareini nazir* if I eat from this loaf of bread, and then proceeds to eat a *kezayis*, thereby triggering the *nezirut*, and then, after being warned, eats another *kezayis*, and then again. The question becomes whether each separate act of eating, once the person has been warned between them, generates its own distinct *nezirut*, each one hovering in line to take effect after the previous one concludes. This parallels the general principle by which a warning between repeated acts separates them into distinct transgressions for purposes of lashes. If that principle applies here, then one conditional *neder* of *nezirut* could generate multiple *neziruyot* stacked in sequence — which would be a remarkable further extension of the hovering concept. This is not explicit in our *mishna* and certainly not in our *gemara*, but it emerges from that alternate *girsa* as an additional dimension of the *chiddush*: not merely that a second *nezirut* can hover behind the first, but that a single conditional formulation might, through repeated warned violations, produce an entire chain of *neziruyot* waiting to take effect one after another.
 
 ---
 
 ## Rav Huna's View
 
+
+
 ### Distinction Required
 
-> **Hebrew/Aramaic:** וּלְרַב הוּנָא, אַדִּתְנָא אֵין שְׁבוּעָה בְּתוֹךְ שְׁבוּעָה, לִיתְנֵי: יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, וְאֵין נֶדֶר בְּתוֹךְ נֶדֶר. ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״ — יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, ״הֲרֵינִי נָזִיר הַיּוֹם״ ״הֲרֵינִי נָזִיר הַיּוֹם״ — אֵין נֶדֶר בְּתוֹךְ נֶדֶר!
->
-> **Translation:** And according to Rav Huna, instead of teaching** that **there is no oath within an oath,** drawing a distinction between a vow and an oath, **let** the mishna **teach** a narrower distinction between different vows, stating that **there is** a case of **a vow within a vow, and there is** a case in which there is **not a vow within a vow.** How so? If one says: **I am hereby a nazirite today, I am hereby a nazirite tomorrow,** in this case **there is a vow within a vow.** However, if one says: **I am hereby a nazirite today,** and then again says: **I am hereby a nazirite today, in this case there is no vow within a vow.**
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב הוּנָא: לֹא שָׁנוּ אֶלָּא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם״ ״הֲרֵינִי נָזִיר לְמָחָר״, דְּמִיגּוֹ דְּקָא מִיתּוֹסַף יוֹמָא יַתִּירָא — חָיְילָא נְזִירוּת עַל נְזִירוּת. אֲבָל אָמַר ״הֲרֵינִי נָזִיר הַיּוֹם״, ״הֲרֵינִי נָזִיר הַיּוֹם״ — אֵין חָלָה נְזִירוּת עַל נְזִירוּת. וּשְׁמוּאֵל אָמַר: אֲפִילּוּ אָמַר: ״הֲרֵינִי נָזִיר הַיּוֹם״, ״הֲרֵינִי נָזִיר הַיּוֹם״ — חָלָה נְזִירוּת עֲלֵיהּ.
+> **Translation:** GEMARA: **Rav Huna said: They taught** that there is a vow within a vow **only where he said: I am hereby a nazirite today,** and then he said: **I am hereby a nazirite tomorrow. As since an additional day** of naziriteship **is added** by the second vow, an additional thirty-day obligation of **naziriteship takes effect upon** the first term of **naziriteship. However,** if **he said: I am hereby a nazirite today,** and then repeated: **I am hereby a nazirite today,** a vow of **naziriteship does not take effect upon** a previous vow of **naziriteship,** and he must observe only one term of naziriteship. **And Shmuel said** that **even** if **he said: I am hereby a nazirite today, I am hereby a nazirite today,** a second vow of **naziriteship takes effect with regard to him,** as one can apply two obligations of naziriteship to himself one after the other.
 
 *Rav Huna* addresses the question of precisely when the second *nezirut* can take effect. His answer: *lo shanu ela de'amar hareni nazir hayom hareni nazir lemakhar* — the rule of *yesh neder betoch neder* applies only when the person said "I am a *nazir* today" and then "I will be a *nazir* starting tomorrow." What is required is that the two *neziruyot* not be completely coextensive — that there be some temporal distinction between them.
 
@@ -116,31 +123,43 @@ This distinction between the two readings has practical consequences. Consider a
 
 ## Shmuel's View
 
-### Complete Identity
 
-> **Hebrew/Aramaic:* קַשְׁיָא.
->
-> **Translation:** This question is **difficult,** although it is not a conclusive refutation.
+
+### Complete Identity
 
 *Shmuel* takes a broader position: *afilu amar hareni nazir hayom hareni nazir hayom* — even if the person said "I am a *nazir* today" and then immediately said "I am a *nazir* today" again, using an identical declaration with no temporal shift, *chala neziros aleha* — the second *nezirut* takes effect and hovers, waiting until the first concludes.
 
+[DAF:17b]
 ### Mishna Challenge
 
-> **Hebrew/Aramaic:** תְּנַן: יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, וְאֵין שְׁבוּעָה בְּתוֹךְ שְׁבוּעָה. הֵיכִי דָמֵי? אִילֵימָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״, דִּכְווֹתַהּ גַּבֵּי שְׁבוּעָה: ״שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל עֲנָבִים״ — אַמַּאי לָא חָלָה שְׁבוּעָה עַל שְׁבוּעָה?
->
-> **Translation:** The Gemara raises several problems with the opinion of Rav Huna. **We learned** in the mishna: **There is a vow within a vow, but there is no oath within an oath. What are the circumstances? If we say** that the case of a vow within a vow is **where** one **said: I am hereby a nazirite today, I am a hereby a nazirite tomorrow,** that **in the corresponding** situation **with regard to an oath** within an oath, which will not take effect, is where one said: I hereby take an oath **that I will not eat figs, and he then said:** I hereby take **an oath that I will not eat grapes,** i.e., he took two separate oaths; if so, **why does an** additional **oath not take effect** where **an oath** was already made? It ought to take effect, as the second oath is not connected to the first one.
+> **Hebrew/Aramaic:** וּלְרַב הוּנָא, אַדִּתְנָא אֵין שְׁבוּעָה בְּתוֹךְ שְׁבוּעָה, לִיתְנֵי: יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, וְאֵין נֶדֶר בְּתוֹךְ נֶדֶר. ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״ — יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, ״הֲרֵינִי נָזִיר הַיּוֹם״ ״הֲרֵינִי נָזִיר הַיּוֹם״ —
+> **Translation:** The Gemara asks: **And according to Rav Huna, instead of teaching** that **there is no oath within an oath,** drawing a distinction between a vow and an oath, **let** the mishna **teach** a narrower distinction between different vows, stating that **there is** a case of **a vow within a vow, and there is** a case in which there is **not a vow within a vow.** How so? If one says: **I am hereby a nazirite today, I am hereby a nazirite tomorrow,** in this case **there is a vow within a vow.** However, if one says: **I am hereby a nazirite today,** and then again says: **I am hereby a nazirite today,**
 
-The *Gemara* presses *Rav Huna* from the *mishna* itself: if *Rav Huna* holds that only a shifted second *nezirut* takes effect, the *mishna* should have made this qualification explicit. It should have distinguished between *hareni nazir hayom hareni nazir lemakhar*, which would constitute *yesh neder betoch neder*, and *hareni nazir hayom hareni nazir hayom*, which would not. The *mishna*'s blanket statement — *yesh neder betoch neder* — without any such qualification suggests that even a completely identical repetition is sufficient, as *Shmuel* holds. The *Gemara* acknowledges this as a difficulty for *Rav Huna*: *kasha le'Rav Huna*.
+> **Hebrew/Aramaic:** אֵין נֶדֶר בְּתוֹךְ נֶדֶר! קַשְׁיָא.
+> **Translation:** in this case **there is no vow within a vow.** The Gemara concludes: This question is **difficult,** although it is not a conclusive refutation.
+
+The *Gemara* presses *Rav Huna* from the *mishna* itself: if *Rav Huna* holds that only a shifted second *nezirut* takes effect, the *mishna* should have made this qualification explicit. It should have distinguished between *hareni nazir hayom hareni nazir lemakhar*, which would constitute *yesh neder betoch neder*, and *hareni nazir hayom hareni nazir hayom*, which would not. The *mishna*'s blanket statement — *yesh neder betoch neder* — without any such qualification suggests that even a completely identical repetition is sufficient, as *Shmuel* holds.
+
+One might object that the *mishna*'s statement is not really blanket to begin with. As the *rishonim* note, a normal *neder* cannot be doubled up at all — *ein issur chal al issur* — so the *mishna* is already operating within a restricted domain, speaking specifically about *nezirut* as a case where stacking is possible in principle. But even granting that, the question remains: even within the context of *nezirut*, why didn't the *mishna* tell us that not all *neziruyot* are alike, that some can be doubled up and some cannot? The fact that it offered no such internal distinction is what presses against *Rav Huna* — it seems to imply that whenever you say "I am a *nazir*, I am a *nazir*," it works, regardless of whether the declarations are temporally shifted.
+
+The *Gemara* acknowledges this as a difficulty for *Rav Huna*: *kasha le'Rav Huna*.
 
 ---
 
 ## Shvuot: Figs Case
 
+
+
 ### Figs-Grapes Query
 
-> **Hebrew/Aramaic:** אֶלָּא הֵיכִי דָּמֵי דְּלָא חָלָה שְׁבוּעָה עַל שְׁבוּעָה, כְּגוֹן דְּאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, דִּכְווֹתַהּ גַּבֵּי נְזִירוּת הֵיכִי דָּמֵי — דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר הַיּוֹם״, וְקָתָנֵי יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר. קַשְׁיָא לְרַב הוּנָא!
->
+> **Hebrew/Aramaic:** תְּנַן: יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר, וְאֵין שְׁבוּעָה בְּתוֹךְ שְׁבוּעָה. הֵיכִי דָמֵי? אִילֵימָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״, דִּכְווֹתַהּ גַּבֵּי שְׁבוּעָה: ״שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל עֲנָבִים״ — אַמַּאי לָא חָלָה שְׁבוּעָה עַל שְׁבוּעָה?
+> **Translation:** The Gemara raises several problems with the opinion of Rav Huna. **We learned** in the mishna: **There is a vow within a vow, but there is no oath within an oath. What are the circumstances? If we say** that the case of a vow within a vow is **where** one **said: I am hereby a nazirite today, I am a hereby a nazirite tomorrow,** that **in the corresponding** situation **with regard to an oath** within an oath, which will not take effect, is where one said: I hereby take an oath **that I will not eat figs, and he then said:** I hereby take **an oath that I will not eat grapes,** i.e., he took two separate oaths; if so, **why does an** additional **oath not take effect** where **an oath** was already made? It ought to take effect, as the second oath is not connected to the first one.
+
+> **Hebrew/Aramaic:** אֶלָּא הֵיכִי דָּמֵי דְּלָא חָלָה שְׁבוּעָה עַל שְׁבוּעָה, כְּגוֹן דְּאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, דִּכְווֹתַהּ גַּבֵּי נְזִירוּת הֵיכִי דָּמֵי — דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר הַיּוֹם״, וְקָתָנֵי יֵשׁ נֶדֶר בְּתוֹךְ נֶדֶר. קַשְׁיָא לְרַב הוּנָא!
 > **Translation:** **Rather, what are the circumstances in which** a second **oath does not take effect** after **an oath** was already made? **For example, where** one **said:** I hereby take **an oath that I will not eat figs, and he again said:** I hereby take **an oath that I will not eat figs. In the corresponding** situation **with regard to naziriteship, what are the circumstances?** It must be a case **where** one **said: I am hereby a nazirite today, I am a hereby a nazirite today; and** the mishna **teaches** that in this case **there is a vow within a vow.** This poses **a difficulty to** the opinion of **Rav Huna,** who holds that in this case the second vow does not take effect.
+
+> **Hebrew/Aramaic:** אָמַר לְךָ רַב הוּנָא: מַתְנִיתִין דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״. דִּכְווֹתַהּ גַּבֵּי שְׁבוּעָה, דְּאָמַר: ״שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר: ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים וַעֲנָבִים״, דְּלָא חָיְילָא.
+> **Translation:** The Gemara answers that **Rav Huna** could have **said to you** that **the mishna** is referring to a case **where** one **said: I am hereby a nazirite today, I am hereby a nazirite tomorrow;** that **in the corresponding** situation **with regard to an oath where** one **said:** I hereby take an oath **that I will not eat figs, and then said:** I hereby take **an oath that I will not eat figs and grapes,** the second oath **does not take effect,** as he had already taken an oath with regard to part of its content.
 
 The *Gemara* now turns to the parallel *shevua* case and asks a sharper question. According to *Rav Huna*, the key feature that allows *nezirut* to be doubled up is that the two *neziruyot* are not completely coextensive — the second adds an extra day. The analogous case for *shevua* would then be: a person says a *shevua* that he will not eat figs, and then says a *shevua* that he will not eat figs and grapes. Here, too, there is a portion of the second *shevua* — the prohibition on grapes — that does not overlap with the first. Why, then, should the second *shevua* not take effect, at least with respect to the grapes?
 
@@ -150,19 +169,20 @@ The second *shevua*, it should be understood precisely: the *Ran* reads it not a
 
 ### Rava's Example
 
-> **Hebrew/Aramaic:** וְהָאָמַר רַבָּה: ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר: ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים וַעֲנָבִים״, וְאָכַל תְּאֵנִים, וְהִפְרִישׁ קׇרְבָּן, וְחָזַר וְאָכַל עֲנָבִים — הָוְיָא לְהוּ עֲנָבִים חֲצִי שִׁיעוּר, וְאֵין מְבִיאִים קׇרְבָּן עַל חֲצִי שִׁיעוּר.
->
-> **Translation:** The Gemara asks: **But didn't Rabba say** that if one said: I hereby take **an oath that I will not eat figs, and then said:** I hereby take **an oath that I will not eat figs and grapes, and he** subsequently **ate figs,** violating the oath, **and he** then **set aside an offering** for the violation of an oath on a statement, **and he then ate grapes,** in this case the **grapes** that he ate **are** only **a half-measure** of the second oath. The inclusion of both figs and grapes in the oath indicates that his intention was to prohibit himself from eating both. Since he already set aside an offering for eating the figs, he is now considered as having eaten only grapes and as having violated only half of the oath. **And** therefore he is not liable to bring an offering for violating the second oath, as **one does not bring an offering for a half-measure.**
-
 *Rava* weighs in with a striking example that reveals his position. He posits: if a person took a *shevua* not to eat figs, then separately took a *shevua* not to eat figs and grapes, and then ate figs — thereby violating *shevua* number one — and then separated a *korban* for *shevua* number one, and thereafter ate grapes, what is the status of that grape-eating relative to *shevua* number two? *Rava* rules: *havei lei anavim chatzi shiur* — the grapes alone constitute only half a transgression of *shevua* number two. And since *ein mevi'in korban al chatzi shiur* — one does not bring a *korban* for half a transgression — no *korban* is owed at that point.
+
+> **Hebrew/Aramaic:** וְהָאָמַר רַבָּה: ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר: ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים וַעֲנָבִים״, וְאָכַל תְּאֵנִים, וְהִפְרִישׁ קׇרְבָּן, וְחָזַר וְאָכַל עֲנָבִים — הָוְיָא לְהוּ עֲנָבִים חֲצִי שִׁיעוּר, וְאֵין מְבִיאִים קׇרְבָּן עַל חֲצִי שִׁיעוּר.
+> **Translation:** The Gemara asks: **But didn’t Rabba say** that if one said: I hereby take **an oath that I will not eat figs, and then said:** I hereby take **an oath that I will not eat figs and grapes, and he** subsequently **ate figs,** violating the oath, **and he** then **set aside an offering** for the violation of an oath on a statement, **and he then ate grapes,** in this case the **grapes** that he ate **are** only **a half-measure** of the second oath. The inclusion of both figs and grapes in the oath indicates that his intention was to prohibit himself from eating both. Since he already set aside an offering for eating the figs, he is now considered as having eaten only grapes and as having violated only half of the oath. **And** therefore he is not liable to bring an offering for violating the second oath, as **one does not bring an offering for a half-measure.**
+
+> **Hebrew/Aramaic:** אַלְמָא הֵיכָא דְּאָמַר: ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים וַעֲנָבִים״, מִיגּוֹ דְּחָל שְׁבוּעָה עַל עֲנָבִים — חָיְילָא נָמֵי עַל תְּאֵנִים! רַב הוּנָא לָא סְבִירָא לֵיהּ כְּרַבָּה.
+> **Translation:** The fact that he is exempt from bringing an offering merely because he ate a half-measure indicates that the second oath took effect. **Apparently, where** one **said:** I hereby take **an oath that I will not eat figs, and then said:** I hereby take **an oath that I will not eat figs and grapes, since the** second **oath** can **take effect with regard to grapes,** as grapes were not included in the first oath, **it takes effect with regard to figs as well.** This poses a problem according to the opinion of Rav Huna, who would explain the mishna as teaching that the second oath in this case does not take effect at all. The Gemara answers: This is not a problem. **Rav Huna does not hold in accordance with** the opinion of **Rabba,** as Rabba was an *amora* and Rav Huna’s student.
 
 ### Implication
 
-> **Hebrew/Aramaic:** אַלְמָא הֵיכָא דְּאָמַר: ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים״, וְחָזַר וְאָמַר ״שְׁבוּעָה שֶׁלֹּא אוֹכַל תְּאֵנִים וַעֲנָבִים״, מִיגּוֹ דְּחָל שְׁבוּעָה עַל עֲנָבִים — חָיְילָא נָמֵי עַל תְּאֵנִים! רַב הוּנָא לָא סְבִירָא לֵיהּ כְּרַבָּה.
->
-> **Translation:** The fact that he is exempt from bringing an offering merely because he ate a half-measure indicates that the second oath took effect. **Apparently, where** one **said:** I hereby take **an oath that I will not eat figs, and then said:** I hereby take **an oath that I will not eat figs and grapes, since the** second **oath** can **take effect with regard to grapes,** as grapes were not included in the first oath, **it takes effect with regard to figs as well.** This poses a problem according to the opinion of Rav Huna, who would explain the mishna as teaching that the second oath in this case does not take effect at all. The Gemara answers: This is not a problem. **Rav Huna does not hold in accordance with** the opinion of **Rabba,** as Rabba was an *amora* and Rav Huna's student.
 
 The implication of *Rava*'s ruling is critical. By characterizing the grapes as *chatzi shiur* relative to *shevua* number two, *Rava* is implicitly affirming that *shevua* number two is operative — it took effect. Were it not in force, there would be no *shevua* number two to measure the grapes against. What the *korban*-separation does is segregate the fig-eating as a distinct, concluded act; now, viewing the grape-eating in isolation, it is only half of what *shevua* number two prohibits. But had the person eaten the figs and then, without separating a *korban*, immediately eaten the grapes, *Rava*'s logic implies he would have transgressed *shevua* number two as well — eating figs-and-grapes, the full prohibited combination.
+
+One might ask: how could a person ever arrive at violating *shevua* number two without having simultaneously violated *shevua* number one? The *Ran* addresses this by pointing to the case of partial forgetfulness. Imagine that both parties forgot that *shevua* number one — the oath about figs alone — had ever been taken. Someone warns the person: do not eat those figs, because if you eat figs and then eat grapes, you will violate *shevua* number two. The person disregards the warning and eats the figs, and is then warned again before eating the grapes. In that scenario, he is a *meizid* — a deliberate transgressor — with respect to *shevua* number two, while having acted in total ignorance of *shevua* number one. He would always, in practice, violate *shevua* number one whenever he completes *shevua* number two's prohibition, but the culpability and consequences need not be identical: he could receive lashes for *shevua* number two while bearing no such liability for *shevua* number one, which he had entirely forgotten.
 
 This creates a direct challenge to the view that the second *shevua* in the figs-and-grapes case simply does not take effect. If *Rava* is correct, it does take effect. And if that is so, why does the *Gemara* present this as a case where the second *shevua* fails, in contrast to *nezirut*?
 
@@ -170,9 +190,11 @@ This creates a direct challenge to the view that the second *shevua* in the figs
 
 ## Rav Huna vs. Rava
 
+
+
 ### Disagreement
 
-*Rav Huna* does not hold like *Rava*. The two *amora'im* disagree on the underlying question of whether the figs-and-grapes *shevua* takes effect at all.
+The *Gemara* resolves the tension directly: *Rav Huna lo sevira lei ke'Rava* — *Rav Huna* does not hold like *Rava*. The two *amora'im* disagree on the underlying question of whether the figs-and-grapes *shevua* takes effect at all.
 
 ### Redundancy
 
@@ -186,11 +208,9 @@ This creates a direct challenge to the view that the second *shevua* in the figs
 
 ## Two at Once
 
-### Single Statement
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: מִי שֶׁנָּזַר שְׁתֵּי נְזִירוֹת, מָנָה אֶת הָרִאשׁוֹנָה וְהִפְרִישׁ קׇרְבָּן, וְנִשְׁאַל עָלֶיהָ, עָלְתָה לוֹ שְׁנִיָּה בָּרִאשׁוֹנָה.
->
-> **Translation:** The Gemara **raises an objection** from a *baraita*: In the case of **one who took two** vows of **naziriteship, counted the** thirty days of the **first** term of naziriteship **and set aside an offering** at the end of its term, **and** then **requested** from a halakhic authority **for** dissolution of the vow before the offering was sacrificed, thereby rendering the offering unnecessary, **the second** term of naziriteship **is counted for him instead of the first.** He is considered as having fulfilled the second term of naziriteship during the period in which he observed the first one. Therefore, the offering that he set aside counts for the second term of naziriteship.
+
+### Single Statement
 
 The *Gemara* raises a further case: *mi shenazar shtei nezirus* — someone who accepts two *neziruyot* in a single statement, declaring both at once rather than sequentially. This case will bear directly on the question of what *Rav Huna* truly requires and where his position finds its limit.
 
@@ -198,11 +218,10 @@ The *Gemara* raises a further case: *mi shenazar shtei nezirus* — someone who 
 
 ## Hataras Nedarim
 
+
+
 ### Case Setup
 
-> **Hebrew/Aramaic:** הֵיכִי דָּמֵי? אִילֵימָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״ — אַמַּאי עָלְתָה לוֹ שְׁנִיָּה בָּרִאשׁוֹנָה, הָא אִיכָּא יוֹמָא יַתִּירָא? אֶלָּא פְּשִׁיטָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר הַיּוֹם״.
->
-> **Translation:** **What are the circumstances? If we say that** it is a case where **he said: I am hereby a nazirite today, I am hereby a nazirite tomorrow, why is the second** term of **naziriteship counted for him instead of the first? Isn't there an additional day** in the second term of naziriteship that he has not yet observed, as the second thirty day term commences the day after the first thirty day period had commenced? How, then, is it possible that the second obligation was fulfilled through his observance of the first one? **Rather,** it **is obvious that** it is a case where **he said: I am hereby a nazirite today, I am hereby a nazirite today,**
 
 The scenario is as follows. Someone accepts two *neziruyot*. He counts through the first thirty days, and then, having completed the period and separated a *korban*, he goes to a *chacham* and performs *hataras nedarim* — the process by which a *chacham* retroactively dissolves a *neder* upon finding grounds for regret (*charata*). The possibility of regret even after the fact, even after one has lived through a *nezirut* and separated a *korban*, is presumably available — the *chacham* can inquire whether, had the person known how difficult it would be, he ever would have accepted it. Whatever the specific mechanism, the *chacham* dissolves the first *nezirut* retroactively.
 
@@ -212,23 +231,46 @@ The ruling: *alsa lo shniya barishona* — the second *nezirut* is deemed to hav
 
 ### Rav Huna Defense
 
+> **Hebrew/Aramaic:** מֵיתִיבִי: מִי שֶׁנָּזַר שְׁתֵּי נְזִירוֹת, מָנָה אֶת הָרִאשׁוֹנָה וְהִפְרִישׁ קׇרְבָּן, וְנִשְׁאַל עָלֶיהָ, עָלְתָה לוֹ שְׁנִיָּה בָּרִאשׁוֹנָה.
+> **Translation:** The Gemara **raises an objection** from a *baraita*: In the case of **one who took two** vows of **naziriteship, counted the** thirty days of the **first** term of naziriteship **and set aside an offering** at the end of its term, **and** then **requested** from a halakhic authority **for** dissolution of the vow before the offering was sacrificed, thereby rendering the offering unnecessary, **the second** term of naziriteship **is counted for him instead of the first.** He is considered as having fulfilled the second term of naziriteship during the period in which he observed the first one. Therefore, the offering that he set aside counts for the second term of naziriteship.
+
+> **Hebrew/Aramaic:** הֵיכִי דָּמֵי? אִילֵימָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״ — אַמַּאי עָלְתָה לוֹ שְׁנִיָּה בָּרִאשׁוֹנָה, הָא אִיכָּא יוֹמָא יַתִּירָא? אֶלָּא פְּשִׁיטָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר הַיּוֹם״.
+> **Translation:** **What are the circumstances? If we say that** it is a case where **he said: I am hereby a nazirite today, I am hereby a nazirite tomorrow, why is the second** term of **naziriteship counted for him instead of the first? Isn’t there an additional day** in the second term of naziriteship that he has not yet observed, as the second thirty day term commences the day after the first thirty day period had commenced? How, then, is it possible that the second obligation was fulfilled through his observance of the first one? **Rather,** it **is obvious that** it is a case where **he said: I am hereby a nazirite today, I am hereby a nazirite today,**
+
 This ruling poses a challenge to *Rav Huna*: the case as described says the person took two *neziruyot* — it does not specify that he said *hayom* and *lemakhar*, that is, that the two were temporally offset. If it was simply a double acceptance of identical *neziruyot*, *Rav Huna* would say the second one never took effect, and there should be nothing to retroactively credit. The *Gemara* therefore defends *Rav Huna* by reading the case as one where he had indeed said *hareni nazir hayom hareni nazir lemakhar* — with the required temporal offset. That would mean the second *nezirut* did hover and wait; but when the *hatara* retroactively eliminates the first, the second now accounts for only twenty-nine of the thirty days, one day remaining. Or, alternatively, the *Gemara* will propose a different reading of the case entirely.
+
+> **Hebrew/Aramaic:** וּתְיוּבְתָּא דְרַב הוּנָא!
+> **Translation:** **and** this is **a conclusive refutation** of the statement **of Rav Huna.**
+
+> **Hebrew/Aramaic:** לָא, לְעוֹלָם ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי לְמָחָר״, וּמַאי ״עָלְתָה לוֹ״ — לְבַר מֵהָהוּא יוֹמָא יַתִּירָא. אִי נָמֵי, כְּגוֹן שֶׁקִּיבֵּל שְׁתֵּי נְזִירוּת בְּבַת אַחַת.
+> **Translation:** The Gemara answers: **No, actually** the case is where he said: **I am hereby a nazirite today, I am hereby** a nazirite **tomorrow. And what** is the meaning of the statement: The second term of naziriteship **is counted for him** instead of the first? It is counted **except for that additional day,** which he still must observe. **Alternatively,** it may be a case **where he accepted** upon himself **two** periods of **naziriteship simultaneously,** i.e., he said: I am hereby a nazirite twice. Therefore, when the vow with regard to the first term of naziriteship is dissolved, the days he observed count entirely for his second term.
 
 ---
 
 ## Two at Once (II)
 
+
+
 ### Rav Huna's Concession
 
-> **Hebrew/Aramaic:** לָא, לְעוֹלָם ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי לְמָחָר״, וּמַאי ״עָלְתָה לוֹ״ — לְבַר מֵהָהוּא יוֹמָא יַתִּירָא. אִי נָמֵי, כְּגוֹן שֶׁקִּיבֵּל שְׁתֵּי נְזִירוּת בְּבַת אַחַת.
->
-> **Translation:** The Gemara answers: **No, actually** the case is where he said: **I am hereby a nazirite today, I am hereby** a nazirite **tomorrow. And what** is the meaning of the statement: The second term of naziriteship **is counted for him** instead of the first? It is counted **except for that additional day,** which he still must observe. **Alternatively,** it may be a case **where he accepted** upon himself **two** periods of **naziriteship simultaneously,** i.e., he said: I am hereby a nazirite twice. Therefore, when the vow with regard to the first term of naziriteship is dissolved, the days he observed count entirely for his second term.
+
+> **Hebrew/Aramaic:** מֵתִיב רַב הַמְנוּנָא: ״נָזִיר לְהַזִּיר״ — מִכָּאן שֶׁהַנְּזִירוּת חָל עַל הַנְּזִירוּת. שֶׁיָּכוֹל, וַהֲלֹא דִּין הוּא: וּמָה שְׁבוּעָה חֲמוּרָה — אֵין שְׁבוּעָה חָלָה עַל שְׁבוּעָה, נְזִירוּת קַלָּה לֹא כׇּל שֶׁכֵּן — תַּלְמוּד לוֹמַר: נָזִיר לְהַזִּיר, מִכָּאן שֶׁהַנְּזִירוּת חָלָה עַל הַנְּזִירוּת.
+> **Translation:** **Rav Hamnuna raised** an additional **objection** against the opinion of Rav Huna from a *baraita*. It is stated in the verse: **“A nazirite, to consecrate [*nazir lehazzir*]”** (Numbers 6:2). **From** the use of similar, repetitive wording in the verse **here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship. As** one **might** have thought that it could be derived through an *a fortiori* **inference** that naziriteship does not take effect, as follows: **And just as** with regard to **an oath,** which is more **stringent, an oath does not take effect upon** a prior **oath,** with regard to **naziriteship,** which is more **lenient, all the more so** is it **not** clear that it does not take effect where a vow of naziriteship was already in effect? Therefore, **the verse states: “*Nazir lehazzir*.” From here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship.**
+
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵימָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״, הָא קְרָא בָּעֲיָא?! אֶלָּא לָאו: דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר הַיּוֹם״ — וְקָתָנֵי נְזִירוּת חָל עַל נְזִירוּת!
+> **Translation:** **What are the circumstances? If we say** it is a case **where** one **said: I am hereby a nazirite today, I am hereby a nazirite tomorrow, does that** case **require** proof from **a verse** that it takes effect? It is obvious that the second vow of naziriteship takes effect at least on the additional day. And as the minimum term of naziriteship is thirty days, an additional thirty days must be observed. **Rather, is it not** a case **where** one **said: I am a nazirite today, I am a nazirite today? And** the *baraita* **teaches** that in this case as well, **naziriteship takes effect upon** a prior vow of **naziriteship,** contrary to the opinion of Rav Huna.
+
+> **Hebrew/Aramaic:** לָא, הָכָא בְּמַאי עָסְקִינַן — כְּגוֹן שֶׁקִּיבֵּל עָלָיו שְׁתֵּי נְזִירוּת בְּבַת אַחַת.
+> **Translation:** The Gemara answers: That is **not** the case. Rather, **with what are we dealing here?** We are dealing with a case **where he accepted upon himself two** terms of **naziriteship simultaneously.** The *baraita* teaches that he must observe two terms of naziriteship and bring a separate offering for each.
 
 The *Gemara* then introduces the case of *kibel shtei nezirus be'vas achas* — the person accepted two *neziruyot* simultaneously, in a single statement, explicitly designating two distinct *neziruyot* together. The *Gemara* indicates that even *Rav Huna* would agree in this case: the second *nezirut* hovers and, upon completion of the first, kicks in, even though the two are entirely coextensive in time.
 
 This is a crucial clarification of *Rav Huna*'s position. His requirement of temporal offset — *hayom* versus *lemakhar* — is not a reflection of some conceptual difficulty with two coinciding *neziruyot* as such. *Rav Huna* has no objection to the model of complete overlap, where the second *nezirut* coincides entirely with the first and simply waits. What he objects to is creating that model through sequential, identical declarations. When someone says *hareni nazir hayom* and then, with the first *nezirut* already in place, repeats *hareni nazir hayom*, the second statement is simply a repetition — it is not doing anything. It does not introduce a second *nezirut*; it merely restates the first.
 
-### Sequential vs. Simultaneous
+### Sequential vs
+
+> **Hebrew/Aramaic:** וּמַאי חוּמְרָא דִּשְׁבוּעָה מִנֶּדֶר? אִילֵּימָא מִשּׁוּם דְּחָיְילָא אֲפִילּוּ עַל דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ, נֶדֶר נָמֵי חָמוּר, שֶׁכֵּן חָל עַל הַמִּצְוָה כִּרְשׁוּת. אֶלָּא — מִשּׁוּם דִּכְתִיב בָּהּ בִּשְׁבוּעָה: ״לֹא יְנַקֶּה״.
+> **Translation:** The *baraita* stated that an oath is more stringent than a vow. The Gemara asks: **And what is the stringency of an oath vis-à-vis a vow,** such as a vow of naziriteship? **If we say** the *baraita* posits this **because** an oath, unlike a vow, **takes effect even with regard to a matter that has no actual** substance, there is a counterargument that **a vow also has stringency** vis-à-vis an oath, **in that it,** unlike an oath, **takes effect with regard to a mitzva just as** it does with regard to a matter that is **permitted. Rather,** oaths are more stringent **because it is written with regard to an oath: “The Lord will not hold guiltless** he who takes His name in vain” (Exodus 20:6).
 
 The distinction *Rav Huna* draws is therefore not about conceptual structure but about the mechanics of halakhic speech acts. A simultaneous declaration — "I accept two *neziruyot* beginning today" — is unambiguous: both are accepted at once, one takes effect, the other hovers. But a sequential declaration — *hareni nazir hayom*, and then later *hareni nazir hayom* — is a problem not because of any impossibility of overlapping *neziruyot* but because the second utterance, made after the first has already taken hold, is indistinguishable from mere repetition. If someone wanted to create a hovering second *nezirut* through sequential speech, he would need to say something meaningfully different — such as *hareni nazir lemakhar* — to signal that he is designating a distinct, second *nezirut* and not simply echoing the first.
 
@@ -236,11 +278,21 @@ The distinction *Rav Huna* draws is therefore not about conceptual structure but
 
 ## Hataras Nedarim (II)
 
+
+
 ### Ran's Solution
 
-> **Hebrew/Aramaic:** מֵתִיב רַב הַמְנוּנָא: ״נָזִיר לְהַזִּיר״ — מִכָּאן שֶׁהַנְּזִירוּת חָל עַל הַנְּזִירוּת. שֶׁיָּכוֹל, וַהֲלֹא דִּין הוּא: וּמָה שְׁבוּעָה חֲמוּרָה — אֵין שְׁבוּעָה חָלָה עַל שְׁבוּעָה, נְזִירוּת קַלָּה לֹא כׇּל שֶׁכֵּן — תַּלְמוּד לוֹמַר: נָזִיר לְהַזִּיר, מִכָּאן שֶׁהַנְּזִירוּת חָלָה עַל הַנְּזִירוּת.
->
-> **Translation:** **Rav Hamnuna raised** an additional **objection** against the opinion of Rav Huna from a *baraita*. It is stated in the verse: **"A nazirite, to consecrate [*nazir lehazzir*]"** (Numbers 6:2). **From** the use of similar, repetitive wording in the verse **here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship. As** one **might** have thought that it could be derived through an *a fortiori* **inference** that naziriteship does not take effect, as follows: **And just as** with regard to **an oath,** which is more **stringent, an oath does not take effect upon** a prior **oath,** with regard to **naziriteship,** which is more **lenient, all the more so** is it **not** clear that it does not take effect where a vow of naziriteship was already in effect? Therefore, **the verse states: "*Nazir lehazzir*." From here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship.**
+> **Hebrew/Aramaic:** ״שְׁבוּעָה שֶׁלֹּא אוֹכַל, שְׁבוּעָה שֶׁלֹּא אוֹכַל״, וְאָכַל — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמַר רָבָא: אִם נִשְׁאַל עַל הָרִאשׁוֹנָה — שְׁנִיָּה חָלָה עָלָיו. מִמַּאי — מִדְּלָא קָתָנֵי ״אֵינוֹ אֶלָּא אַחַת״, וְקָתָנֵי ״אֵינוֹ חַיָּיב אֶלָּא אַחַת״, רַוְוחָא הוּא דְּלֵית לַהּ. כִּי מִיתְּשִׁיל עַל חֲבֶירְתַּהּ — חָיְילָא.
+> **Translation:** § It is taught in the mishna that if one said: I hereby take **an oath that I will not eat,** I hereby take **an oath that I will not eat, and he** then **ate, he is liable** to bring an offering for **only one** violation of an oath. **Rava said: If he requested** and received dissolution from a halakhic authority **for the first** oath, **the second** oath **takes effect upon him. From where** is this derived? **From** the fact **that it is not taught** in the mishna that **there is only one,** i.e., it is as though he took only one oath as the oaths are identical. **Rather, it is taught** that **he is liable for only one.** Evidently, he is not liable for the second oath only because it **does not have a span** of time in which to take effect, as he is already under oath not to eat. However, **when he requests** dissolution of **the other** oath, i.e. the first oath, the second oath has a span of time in which to take effect, and **takes effect.**
+
+> **Hebrew/Aramaic:** לִישָּׁנָא אַחֲרִינָא: חִיּוּבָא הוּא דְּלֵיכָּא, הָא שְׁבוּעָה אִיכָּא. לְמַאי הִלְכְתָא? לְכִדְרָבָא. דְּאָמַר רָבָא: נִשְׁאַל עַל הָרִאשׁוֹנָה — עָלְתָה לוֹ שְׁנִיָּה תַּחְתֶּיהָ.
+> **Translation:** **Another version** of Rava’s proof from the mishna is that it may be inferred from the statement: He is liable for only one, that although **there is no liability** to bring an offering for violating the second oath, **there is** an effective **oath.** But if there is no liability, then **with regard to what *halakha*** is it effective? Certainly it is effective **with regard to** the statement **of Rava, as Rava said: If he requested** and received dissolution from a halakhic authority **for the first** oath, **the second is counted for him in its place.**
+
+> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ: מִי שֶׁנָּדַר שְׁתֵּי נְזִירוֹת וּמָנָה אֶת הָרִאשׁוֹנָה, וְהִפְרִישׁ קׇרְבָּן וְנִשְׁאַל עָלֶיהָ — עָלְתָה לוֹ שְׁנִיָּה בָּרִאשׁוֹנָה.
+> **Translation:** The Gemara proposes: **Let us say** that the following mishna (*Shevuot* 27b) **supports his** opinion: In the case of **one who took two** vows of **naziriteship, and counted the first** term, **and set aside an offering, and requested** and received dissolution from a halakhic authority **for** the first oath, **the second** term **counts for him instead of the first.** Evidently, although initially the second term of naziriteship did not have a span of time in which to take effect, it was not completely void. Therefore, when the first vow was dissolved, the second one immediately took its place. It may be proved from here that this is true with regard to oaths as well.
+
+> **Hebrew/Aramaic:** כְּגוֹן שֶׁקִּיבֵּל עָלָיו שְׁתֵּי נְזִירוֹת בְּבַת אַחַת.
+> **Translation:** The Gemara refutes this proof: That mishna may be referring to a case **where he accepted upon himself two** terms of **naziriteship simultaneously.** Since two terms cannot be observed concurrently, when he accepts two terms simultaneously, the *halakha* is that the second term commences immediately following the close of the first, which immediately took effect upon sequential periods of time. However, when one takes an oath prohibiting himself from a matter that is already prohibited by an oath in the same period of time, the second oath may not take effect at all.
 
 The *Ran* offers an alternative resolution to the challenge posed by the *hataras nedarim* case that does not require reading the case as one where *hayom* and *lemakhar* were explicitly specified. His argument is this: even if the two *neziruyot* were stated in identical terms — *hareni nazir hayom hareni nazir hayom* — and even according to *Rav Huna*, the retroactive voiding of the first *nezirut* through *hatara* is sufficient to make the second statement meaningful in hindsight. At the time of the second declaration, it appeared to be a meaningless repetition — the first *nezirut* was already in place, and the second seemed to add nothing. *Rav Huna* would indeed have said at that moment that it took no effect. But when the *chacham* subsequently performs *hatara* and retroactively eliminates the first *nezirut*, we now look back and see that the first statement was, in hindsight, void. With the first statement retroactively void, the second statement — which at the time seemed redundant — is now seen to have been meaningful after all: there was no first *nezirut* to block it, and so it took effect.
 

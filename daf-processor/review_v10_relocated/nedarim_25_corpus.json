@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Fish Stories & Guzma",
+    "candidates": [
+      "Ein Piv Velibo Shavin",
+      "Nidrei Zeruzin",
+      "Nidrei Havai",
+      "Fish Stories & Guzma",
+      "Tana: Nidrei/Shvuot",
+      "Abaye's Translation",
+      "Rava's Objection",
+      "Shvuat Shav vs. Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items constitute the opening of the Gemara's discussion of nidrei/shvuot havai \u2014 item 1 is the tanna's teaching that vows of exaggeration are permitted while oaths are forbidden, and item 2 is the Gemara's first clarifying question about what constitutes a shvuat havai, which is exactly what the prose of candidate 4 ('Tana: Nidrei/Shvuot') describes.",
+      "chosen_heading": "Tana: Nidrei/Shvuot",
+      "current_heading": "Fish Stories & Guzma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Shvuat Shav vs. Food",
+    "candidates": [
+      "Tana: Nidrei/Shvuot",
+      "Abaye's Translation",
+      "Rava's Objection",
+      "Shvuat Shav vs. Food",
+      "Ravina: Anthill Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's formulation and Rava's objection to it, which corresponds precisely to the 'Rava's Objection' section prose that describes Rava objecting to Abaye's framing and noting the lack of novelty and the need for analogy to the neder case.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Shvuat Shav vs. Food",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Ravina: Anthill Case",
+    "candidates": [
+      "Shvuat Shav vs. Food",
+      "Ravina: Anthill Case",
+      "Rav Ashi: Oaths Standard",
+      "Braita: Beit Din Oaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Ravina's challenge (the anthill case) and Rav Ashi's response, which together form the exchange described in candidate 1's prose about Ravina posing the anthill challenge \u2014 candidate 2 covers Rav Ashi's response separately, but the current placement under 'Ravina: Anthill Case' encompasses both halves of this short exchange, and since the prose of candidate 1 already anticipates Rav Ashi's reply as part of the same unit, the current placement is correct.",
+      "chosen_heading": "Ravina: Anthill Case",
+      "current_heading": "Ravina: Anthill Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Braita: Beit Din Oaths",
+    "candidates": [
+      "Rav Ashi: Oaths Standard",
+      "Braita: Beit Din Oaths",
+      "Chips of Wood Case",
+      "Rava's Staff Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 explaining what beit din's 'al dateinu' declaration comes to exclude, specifically the case of giving tokens/chips called coins \u2014 matches exactly what the 'Chips of Wood Case' prose describes.",
+      "chosen_heading": "Chips of Wood Case",
+      "current_heading": "Braita: Beit Din Oaths",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Rava's Staff Story",
+    "candidates": [
+      "Chips of Wood Case",
+      "Rava's Staff Story",
+      "Crazy vs. Technical",
+      "Moshe & Arvot Moav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together narrate the Rava cane story \u2014 the Gemara's inferential question, the response redirecting to Rava's case, and the full cane incident \u2014 which is precisely what candidate 1 ('Rava's Staff Story') describes in its prose.",
+      "chosen_heading": "Rava's Staff Story",
+      "current_heading": "Rava's Staff Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Moshe & Arvot Moav",
+    "candidates": [
+      "Crazy vs. Technical",
+      "Moshe & Arvot Moav",
+      "God vs. Idols Name",
+      "Tech Accurate Rule",
+      "Specific Language Alt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about Moses's oath at Arvot Moav \u2014 the baraita about Moses's declaration, the question of what it excludes (idol worship called 'Eloha'), and the response that idol worship is itself called 'Eloha' in the Torah \u2014 which is precisely what the 'Moshe & Arvot Moav' section's prose describes.",
+      "chosen_heading": "Moshe & Arvot Moav",
+      "current_heading": "Moshe & Arvot Moav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Specific Language Alt",
+    "candidates": [
+      "God vs. Idols Name",
+      "Tech Accurate Rule",
+      "Specific Language Alt",
+      "Moshe Practical",
+      "Snake Exists?",
+      "Shavor Malka Snake",
+      "Shmuel: Notched"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara dialectic working through alternative oath formulations (mitzvos, kol mitzvos, Torah, Toros, Toros u-mitzvos, Torah kula, avodah zarah + Torah kula, taryag mitzvos) and concluding that Moshe simply took the straightforward approach \u2014 exactly the content described in candidate 2's prose.",
+      "chosen_heading": "Specific Language Alt",
+      "current_heading": "Specific Language Alt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Shmuel: Notched",
+    "candidates": [
+      "Moshe Practical",
+      "Snake Exists?",
+      "Shavor Malka Snake",
+      "Shmuel: Notched",
+      "Beam Business Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage covers all three elements \u2014 the question of whether such a snake exists, the Shapur Malka evidence, and Shmuel's notched-snake clarification \u2014 making it a single unified sugya that starts with the 'Snake Exists?' question raised in candidate 1, though candidates 2 and 3 also cover sub-portions; however since the passage begins with raising the possibility that such a snake exists (candidate 1's exact prose topic), and candidate 1's prose explicitly says 'It raises the question: is such a statement truly impossible?', that is the best single starting heading for this whole unified passage.",
+      "chosen_heading": "Snake Exists?",
+      "current_heading": "Shmuel: Notched",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Beam Business Law",
+    "candidates": [
+      "Beam Business Law",
+      "False Condition",
+      "Forgot Vow Later",
+      "Forget at Exec",
+      "Piv/Libo at Trigger",
+      "Mistaken Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is entirely about the incidental teaching regarding the beam of an olive press and its commercial implications (buying and selling), which is precisely what the 'Beam Business Law' section discusses.",
+      "chosen_heading": "Beam Business Law",
+      "current_heading": "Beam Business Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Mistaken Assumption",
+    "candidates": [
+      "False Condition",
+      "Forgot Vow Later",
+      "Forget at Exec",
+      "Piv/Libo at Trigger",
+      "Mistaken Assumption",
+      "Mixed Group Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all three examples together (false past condition remembered, future vow forgotten, wife-based vow on false premise), and the first candidate's prose introduces 'nidrei shegagot' as a category beginning with the false factual premise case \u2014 making it the natural heading under which this opening mishna sits, rather than the later 'Mistaken Assumption' section which discusses only the third example in isolation.",
+      "chosen_heading": "False Condition",
+      "current_heading": "Mistaken Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Mixed Group Debate",
+    "candidates": [
+      "Mistaken Assumption",
+      "Mixed Group Debate",
+      "Shvuot Rule",
+      "Rav Kahana Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage presents the core case of the figs/father-and-brother vow, which is the primary example of nidrei shegagot involving a mistaken assumption about the people present \u2014 the prose under 'Mistaken Assumption' explicitly describes this exact case, while 'Mixed Group Debate' discusses the subsequent Beit Shammai/Beit Hillel dispute that follows from it.",
+      "chosen_heading": "Mistaken Assumption",
+      "current_heading": "Mixed Group Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rav Kahana Story",
+    "candidates": [
+      "Shvuot Rule",
+      "Rav Kahana Story",
+      "Sheker Beshogeig",
+      "Oaths Extension",
+      "Consequence vs. Fact",
+      "Days Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the general rule about unintentional oaths and the Rav Kahana/Rav Assi example, and candidate 0's prose explicitly introduces both the rule and 'a far more interesting case,' making it the natural home for the complete quoted text rather than splitting it under the example-only heading (candidate 1).",
+      "chosen_heading": "Shvuot Rule",
+      "current_heading": "Rav Kahana Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Days Permitted",
+    "candidates": [
+      "Sheker Beshogeig",
+      "Oaths Extension",
+      "Consequence vs. Fact",
+      "Days Permitted",
+      "Hutar Miktzato",
+      "Rava: Qualifier"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the Shabbat/Yom Tov vow case as an example of a petach (failure of foresight rather than factual error), which is precisely what the 'Consequence vs. Fact' section discusses \u2014 distinguishing nidrei shegagot (factual error) from a petach (failure to foresee consequences like Shabbat), and the passage with Rabbi Akiva's ruling serves as the source text for both the pre-Akiva position (discussed in 'Days Permitted') and the final ruling (discussed in 'Hutar Miktzato'), but its primary role is introducing the Shabbat/Yom Tov petach concept that the 'Consequence vs. Fact' prose analyzes.",
+      "chosen_heading": "Consequence vs. Fact",
+      "current_heading": "Days Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rava: Qualifier",
+    "candidates": [
+      "Hutar Miktzato",
+      "Rava: Qualifier",
+      "Different Language",
+      "Rava Second",
+      "Beit Shammai"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava: Qualifier",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba's statement identifying the point of agreement (kulchem assurim chutz me'abba = all prohibited except father) and the disputed case (Ploni va-Ploni formulation), which matches the 'Rava: Qualifier' prose describing exactly that framing \u2014 though attributed to Rabba, the prose of candidate 1 describes this precise structure.",
+      "second_heading": "Rava Second",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's alternative framing where the completely-different-language case is universally agreed to void the neder and the machloket shifts to the qualifier case, which matches exactly the 'Rava Second' prose describing Rava's second approach relocating the dispute to the qualifier case.",
+      "current_heading": "Rava: Qualifier",
+      "moved": true
+    }
+  }
+]

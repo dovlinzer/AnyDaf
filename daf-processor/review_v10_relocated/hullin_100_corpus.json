@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Berya Exception",
+    "candidates": [
+      "Completion & Preview",
+      "Previous Topics Review",
+      "Mishnah vs. Gemara",
+      "Yavash/Lach Types",
+      "Three Exceptions",
+      "Berya Exception",
+      "Sold by Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge to nullify the sciatic nerve by majority and the answer that a berya is different \u2014 are precisely the content described in the 'Berya Exception' prose, which explicitly quotes 'u-livatel berubbah' and 'beryah shani' as the Gemara's exchange at the end of 99b.",
+      "chosen_heading": "Berya Exception",
+      "current_heading": "Berya Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Sold by Count",
+    "candidates": [
+      "Sold by Count",
+      "Chaticha Exception",
+      "Chaticha Parameters",
+      "Chopped Meat Example",
+      "Quadrant 1: Rov Enough",
+      "Quadrant 2: Shishim",
+      "Quadrant 4: Taam Keikar",
+      "Quadrant 3: Shishim",
+      "Cooking Together Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's challenge (let the neveilah piece be nullified by majority) and the resolution involving the darko limnot dispute and the chaticha harauya lehitchabed answer, which is precisely what the 'Sold by Count' section's prose describes.",
+      "chosen_heading": "Sold by Count",
+      "current_heading": "Sold by Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Cooking Together Q",
+    "candidates": [
+      "Chaticha Exception",
+      "Chaticha Parameters",
+      "Chopped Meat Example",
+      "Quadrant 1: Rov Enough",
+      "Quadrant 2: Shishim",
+      "Quadrant 4: Taam Keikar",
+      "Quadrant 3: Shishim",
+      "Cooking Together Q",
+      "Monsey Incident",
+      "Nine Pieces Q",
+      "Separate vs. Mixed",
+      "Penguin Metaphor",
+      "Intentional Mix Q",
+      "Tomato Sauce Q",
+      "Pork & Beans Q",
+      "Raba's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's 'tzricha' analysis explaining why the Mishnah needed to teach both the sciatic nerve case and the chaticha case \u2014 this is precisely the content the 'Chaticha Exception' section introduces, as it discusses the chaticha harauya lehitchabed exception and the Gemara's reasoning for why both cases are necessary.",
+      "chosen_heading": "Chaticha Exception",
+      "current_heading": "Cooking Together Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Raba's Principle",
+    "candidates": [
+      "Monsey Incident",
+      "Nine Pieces Q",
+      "Separate vs. Mixed",
+      "Penguin Metaphor",
+      "Intentional Mix Q",
+      "Tomato Sauce Q",
+      "Pork & Beans Q",
+      "Raba's Principle",
+      "Chanan Term",
+      "Need 120 Now",
+      "Rav Safra Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items form one continuous dispute \u2014 Rabba bar bar \u1e24ana's ruling, Rav's counter-ruling via his amora, and Rav Safra's objection to Abaye with its resolution \u2014 which is exactly what the prose under heading 7 ('Raba's Principle') describes in detail.",
+      "chosen_heading": "Raba's Principle",
+      "current_heading": "Raba's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rav Safra Q",
+    "candidates": [
+      "Chanan Term",
+      "Need 120 Now",
+      "Rav Safra Q",
+      "Answer: Original Removed",
+      "Rava's Formulation",
+      "Ashkenazi/Sefardi",
+      "Liquid Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present Rava's alternate formulation \u2014 that even without removing the original N, the mixture is min bemino v'davar acher \u2014 which is precisely what candidate 4 ('Rava's Formulation') describes in its prose.",
+      "chosen_heading": "Rava's Formulation",
+      "current_heading": "Rav Safra Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Liquid Application",
+    "candidates": [
+      "Answer: Original Removed",
+      "Rava's Formulation",
+      "Ashkenazi/Sefardi",
+      "Liquid Application",
+      "Mishnah Rule",
+      "Tanna Kamma/RY",
+      "RY's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that when a forbidden item and its transformed piece (N-prime) are both present, the same-kind meat is disregarded and only the eino mino components must be sixty times greater than both forbidden units combined \u2014 which is precisely what Rava's formulation section discusses.",
+      "chosen_heading": "Rava's Formulation",
+      "current_heading": "Liquid Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "RY's Argument",
+    "candidates": [
+      "Mishnah Rule",
+      "Tanna Kamma/RY",
+      "RY's Argument",
+      "Har Sinai Response",
+      "Noahide Q",
+      "Ein Issur Chal",
+      "Gid on Camel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full Mishnah text containing both the tanna kamma/Rabbi Yehuda dispute and the Sinai response, and candidate 0 ('Mishnah Rule') is the section whose prose explicitly introduces this Mishnah as a whole unit being returned to, making it the natural home for the complete Mishnah text.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "RY's Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Gid on Camel",
+    "candidates": [
+      "Har Sinai Response",
+      "Noahide Q",
+      "Ein Issur Chal",
+      "Gid on Camel",
+      "No Taste Answer",
+      "Refutation: Two Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge to Rabbi Yehuda via the principle of ein issur chal al issur, using the baraita about non-kosher bird carcasses as proof that Rabbi Yehuda does not allow a second prohibition to take effect on something already forbidden \u2014 this is precisely what candidate 2 ('Ein Issur Chal') describes as the Gemara examining Rabbi Yehuda's position through this technical principle.",
+      "chosen_heading": "Ein Issur Chal",
+      "current_heading": "Gid on Camel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Refutation: Two Lashes",
+    "candidates": [
+      "No Taste Answer",
+      "Refutation: Two Lashes",
+      "In Utero Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the 'no taste' proposal and its immediate refutation \u2014 item 1 raises the 'ein bigidin binoten ta'am' possibility and item 2 shoots it down with the baraita about two lashes \u2014 which matches heading 0 ('No Taste Answer') whose prose describes exactly this proposal, while heading 1 ('Refutation: Two Lashes') describes only the refutation half and the current placement splits the inseparable question-and-answer across two sections.",
+      "chosen_heading": "No Taste Answer",
+      "current_heading": "Refutation: Two Lashes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "In Utero Resolution",
+    "candidates": [
+      "Refutation: Two Lashes",
+      "In Utero Resolution",
+      "Sequential Prohibition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "In Utero Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 present the 'in utero' resolution and its internal challenge/answer, exactly matching the 'In Utero Resolution' prose about kasavar noheig bishilya and simultaneous prohibition onset.",
+      "second_heading": "Sequential Prohibition",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the Nazir Mishnah challenge that sinews form later in fetal development \u2014 precisely the argument described in the 'Sequential Prohibition' prose \u2014 making it a new structural objection that belongs under that heading.",
+      "current_heading": "In Utero Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Sequential Prohibition",
+    "candidates": [
+      "Sequential Prohibition",
+      "Override via Weight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the nazir/miscarriage argument and Rabbi Yo\u1e25anan's explanation about limbs forming before sinews, which directly supports the 'Sequential Prohibition' section's discussion of how the tamei-animal prohibition precedes the gid hanasheh prohibition.",
+      "chosen_heading": "Sequential Prohibition",
+      "current_heading": "Sequential Prohibition",
+      "moved": false
+    }
+  }
+]

@@ -29,8 +29,8 @@
           "timestamp": "03:06"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Yehoshua's Concession and the Distinction Between Migo and Peh She'Asar",
@@ -63,7 +63,7 @@
           "timestamp": "24:39"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -130,8 +130,8 @@
           "timestamp": "49:23"
         }
       ],
-      "sefaria_index": 13,
-      "matched": false
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Wedding Practices as Evidence of First Marriage: Kos, Wine Barrel, and Bedsheet",
@@ -426,5 +426,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "28:51",
+  "amud_b_micro_title": "Qol Counteracts Rov",
+  "shiur_start_daf": 16,
+  "shiur_start_amud": "a"
 }

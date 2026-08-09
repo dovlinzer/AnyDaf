@@ -1,0 +1,418 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Abaye's Seven Mitzvot",
+    "candidates": [
+      "Three Cardinal Sins",
+      "Bnei Noach Kiddush Hashem",
+      "Tosafot's Question",
+      "Abaye's Seven Mitzvot",
+      "Rava's Abizrayhu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the dilemma raised before Rabbi Ami about whether bnei Noach are obligated in kiddush Hashem, followed by Abaye's attempted proof from the seven mitzvot \u2014 all of which is introduced and framed under heading 1 ('Bnei Noach Kiddush Hashem'), whose prose explicitly says 'the Gemara records: bei'u minei mei-Rabbi Ami' and poses that exact question, making it the natural home for both items.",
+      "chosen_heading": "Bnei Noach Kiddush Hashem",
+      "current_heading": "Abaye's Seven Mitzvot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rava's Abizrayhu",
+    "candidates": [
+      "Abaye's Seven Mitzvot",
+      "Rava's Abizrayhu",
+      "Naaman Source",
+      "Bowing Analysis",
+      "Private vs Public",
+      "Rashi's Definition",
+      "Tosafot's Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'mai hava alah' question and Rav Adda bar Ahava's answer about Naaman, which is explicitly quoted and discussed in the 'Rava's Abizrayhu' section's prose as the direct conclusion to that debate.",
+      "chosen_heading": "Rava's Abizrayhu",
+      "current_heading": "Rava's Abizrayhu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Tosafot's Alternative",
+    "candidates": [
+      "Naaman Source",
+      "Bowing Analysis",
+      "Private vs Public",
+      "Rashi's Definition",
+      "Tosafot's Alternative",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question and answer about private vs. public (ha b'tzina ha b'farhesya), which is precisely what the 'Private vs Public' section's prose describes.",
+      "chosen_heading": "Private vs Public",
+      "current_heading": "Tosafot's Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Tosafot's Alternative",
+      "Case Setup",
+      "Sages' Response",
+      "Woman's Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the case setup \u2014 the man's illness and the doctors' recommendation \u2014 which matches 'Case Setup' prose exactly, and the Sages' rulings at all three levels are also included in this single Talmudic excerpt, making it best placed under the heading that introduces the case.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Woman's Status",
+    "candidates": [
+      "Sages' Response",
+      "Woman's Status",
+      "Pgam Mishpacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rabbi Ya'akov bar Idi and Rabbi Shmuel bar Na\u1e25mani about whether the woman was married or unmarried, and raises the question about why the Sages were so stringent if she was unmarried \u2014 exactly what the 'Woman's Status' section prose describes.",
+      "chosen_heading": "Woman's Status",
+      "current_heading": "Woman's Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Pgam Mishpacha",
+    "candidates": [
+      "Pgam Mishpacha",
+      "Societal Protection",
+      "Stolen Pleasures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's 'pgam mishpacha' statement and Rav Acha's 'prutzos ba'arayos' statement together, and the current heading's prose explicitly discusses Rav Pappa's pgam mishpacha answer, making it the best fit \u2014 the passage belongs under heading 0 where both opinions are introduced together.",
+      "chosen_heading": "Pgam Mishpacha",
+      "current_heading": "Pgam Mishpacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Stolen Pleasures",
+    "candidates": [
+      "Societal Protection",
+      "Stolen Pleasures",
+      "Analysis",
+      "Reflection",
+      "Hadran",
+      "Order Review",
+      "Mishnah List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rabbi Yitzchak teaching about stolen pleasures and the Temple's destruction that the 'Stolen Pleasures' section's prose directly describes and discusses.",
+      "chosen_heading": "Stolen Pleasures",
+      "current_heading": "Stolen Pleasures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Mishnah List",
+    "candidates": [
+      "Analysis",
+      "Reflection",
+      "Hadran",
+      "Order Review",
+      "Mishnah List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Hadran formula concluding the chapter of ben sorer u'moreh, which belongs under the 'Hadran' section whose prose explicitly states 'Hadran al ben sorer u'moreh. We conclude the chapter.'",
+      "chosen_heading": "Hadran",
+      "current_heading": "Mishnah List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Mishnah List",
+    "candidates": [
+      "Mishnah List",
+      "Case List",
+      "Biblical Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishnah listing those executed by burning, which matches exactly the 'Mishnah List' prose that discusses ve'eilu hanisrafin, haba al isha u'vittah, and bat kohen shezinisah.",
+      "chosen_heading": "Mishnah List",
+      "current_heading": "Mishnah List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Biblical Sources",
+    "candidates": [
+      "Case List",
+      "Biblical Sources",
+      "Mishnah Question",
+      "Concrete vs Abstract"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text enumerating the specific cases included in the 'isha u'bita' category, which directly matches the 'Case List' heading whose prose explicitly describes the same enumeration of daughter, granddaughter, stepdaughter, mother-in-law, and grandmothers-in-law.",
+      "chosen_heading": "Case List",
+      "current_heading": "Biblical Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Concrete vs Abstract",
+    "candidates": [
+      "Mishnah Question",
+      "Concrete vs Abstract",
+      "Abaye Position",
+      "Rava Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together form the Gemara's analysis of the Mishnah's language \u2014 why it says 'a woman and her daughter' rather than 'a woman whose daughter he married,' what the primary case is, and how both Abaye and Rava explain the Mishnah's formulation \u2014 which matches exactly the 'Mishnah Question' prose describing the Gemara's examination of the Mishnah's language and what its primary case is.",
+      "chosen_heading": "Mishnah Question",
+      "current_heading": "Concrete vs Abstract",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rava Reading",
+    "candidates": [
+      "Abaye Position",
+      "Rava Reading",
+      "Baraita Question",
+      "Zimah Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the opening of the baraita asking 'from where are these matters derived' and then quoting Leviticus 20:14 and asking about the daughter and granddaughter cases \u2014 exactly what the 'Baraita Question' prose describes.",
+      "chosen_heading": "Baraita Question",
+      "current_heading": "Rava Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Zimah Connection",
+    "candidates": [
+      "Baraita Question",
+      "Zimah Connection",
+      "Application Problem",
+      "Three Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the core content of the zimah-zimah gezeirah shava derivation (extending sereifah to daughters/granddaughters) and the zecharim ki-nekevot question, which is precisely what the 'Zimah Connection' prose describes and says it will unpack.",
+      "chosen_heading": "Zimah Connection",
+      "current_heading": "Zimah Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Three Generations",
+    "candidates": [
+      "Application Problem",
+      "Three Generations",
+      "Hena Link",
+      "Zimah Teaches Both"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Hena Link",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the zecharim ki-nekevot question, the objection that zimah is not written for a man's own descendants, and Rava's hena-hena resolution \u2014 exactly what heading 2 ('Hena Link') describes.",
+      "second_heading": "Zimah Teaches Both",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20139 cover the lemata ke-lema'ala question and Abaye's three-generations interpretation with the zimah below/above derivation \u2014 exactly what heading 3 ('Zimah Teaches Both') describes.",
+      "current_heading": "Three Generations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Zimah Teaches Both",
+    "candidates": [
+      "Hena Link",
+      "Zimah Teaches Both",
+      "Analogy Question",
+      "Abaye Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Zimah Teaches Both",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly correspond to the passage described in candidate 1's prose: item 1 is the baraita's phrase about punishment/prohibition (u-mah ba-ones... af be'azharah), and item 2 is Rav Ashi's alternative reading of lemata ke'lema'ala \u2014 both explicitly discussed in the 'Zimah Teaches Both' prose.",
+      "second_heading": "Analogy Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 asks whether the husband's own grandmother (em imo) should also be forbidden, which is precisely the parallel question described in candidate 2's 'Analogy Question' prose.",
+      "current_heading": "Zimah Teaches Both",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Abaye Limit",
+    "candidates": [
+      "Analogy Question",
+      "Abaye Limit",
+      "Rava Methodologies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement deriving from the verse 'she is your mother' that liability is for one's mother but not for one's mother's mother, which is precisely what the 'Abaye Limit' section describes.",
+      "chosen_heading": "Abaye Limit",
+      "current_heading": "Abaye Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Rava Methodologies",
+    "candidates": [
+      "Rava Methodologies",
+      "Punishment Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's statement about the two methodologies (don minah u'minah and don minah v'oki b'atrah), which is precisely what the 'Rava Methodologies' section prose describes.",
+      "chosen_heading": "Rava Methodologies",
+      "current_heading": "Rava Methodologies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Punishment Contradiction",
+    "candidates": [
+      "Punishment Contradiction",
+      "Consistency Problem",
+      "No Analogy Works"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Punishment Contradiction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 discuss the don minah u'minah approach and its refutations (punishment inversion, consistency problem), matching the 'Punishment Contradiction' prose exactly.",
+      "second_heading": "Consistency Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 6-10 discuss the don minah v'oki b'atrah approach and its refutations, matching the 'Consistency Problem' prose which explicitly addresses that method and its symmetry-destruction failure.",
+      "current_heading": "Punishment Contradiction",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "Hermeneutics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the mishna's exemption for keilim in bor and the note that it follows the rabbanan not Rabbi Yehuda, which is precisely what the 'Mishna Overview' prose describes.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Mishna Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Hermeneutics",
+    "candidates": [
+      "Hermeneutics",
+      "Rationale",
+      "Klal u'Prat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the gemara's reasoning about 'or' (o l'rabot/l'chaleik), ve-nafal in the singular, and the rabbanan's response \u2014 all of which are explicitly discussed in the 'Hermeneutics' prose, which even quotes the same key terms (o l'rabot et ha-keilim, l'chaleik, ve-nafal) and traces the same back-and-forth between Rabbi Yehuda and the rabbanan.",
+      "chosen_heading": "Hermeneutics",
+      "current_heading": "Hermeneutics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Klal u'Prat",
+    "candidates": [
+      "Rationale",
+      "Klal u'Prat",
+      "Breaking = Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the continuous klal u'prat u'klal sugyah \u2014 generalization/detail/generalization, the challenge about tumah, the ox/donkey necessity, and the final resolution via 'ha-meit yihyeh lo' \u2014 which is precisely what the 'Klal u'Prat' section's prose describes in detail.",
+      "chosen_heading": "Klal u'Prat",
+      "current_heading": "Klal u'Prat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Breaking = Death",
+    "candidates": [
+      "Breaking = Death",
+      "Hevel Theory",
+      "General Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Breaking = Death",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the 'breaking = death' equivalence (shvirasam zo hi misasam), which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Hevel Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses Rav's hevel theory and how new vessels (chadti) can crack from fumes, which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Breaking = Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "General Verse",
+    "candidates": [
+      "Hevel Theory",
+      "General Verse",
+      "Mishna Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation of the general liability verse for Pit (ha-meit yihyeh lo being reserved for Rava's ruling, kesef yashiv liv'alav as the inclusive source, shor/chamor exclusions, and the unresolved kashya about chamor and seh), which matches exactly the 'General Verse' prose description.",
+      "chosen_heading": "General Verse",
+      "current_heading": "General Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Mishna Case",
+    "candidates": [
+      "Mishna Case",
+      "The Paradox",
+      "Animal Not Owner",
+      "Braita Contradiction",
+      "Bar Da'at"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "The Paradox",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna's formulation and the gemara's challenge that interpreting 'shor cheresh shoteh v'katan' as ownership-based would absurdly exempt the pit owner for a competent adult's ox \u2014 exactly what 'The Paradox' prose describes.",
+      "second_heading": "Animal Not Owner",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan's resolution that the mishna refers to the ox's own characteristics rather than its owner \u2014 precisely what 'Animal Not Owner' prose describes.",
+      "current_heading": "Mishna Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Bar Da'at",
+    "candidates": [
+      "The Paradox",
+      "Animal Not Owner",
+      "Braita Contradiction",
+      "Bar Da'at",
+      "Rava Position",
+      "Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "The Paradox",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the apparent implication that a pikeach ox falling in would exempt the pit owner, resolved by Rabbi Yirmeya's lo mibaaya reading \u2014 exactly what candidate 0's prose describes.",
+      "second_heading": "Braita Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the braita challenge about 'bar da'at' falling in being patur and debate whether it refers to an intelligent ox or a person \u2014 precisely the content described in candidate 2's prose.",
+      "current_heading": "Bar Da'at",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Examples",
+    "candidates": [
+      "Rava Position",
+      "Examples",
+      "Rambam",
+      "All Animals Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's direct ruling and the supporting baraita, both of which are specifically discussed in the 'Rava Position' prose, which explicitly references both the ruling (*davka*) and the *baraita* confirmation \u2014 whereas the 'Examples' section prose discusses these as already-established content being reflected upon.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "All Animals Principle",
+    "candidates": [
+      "Rambam",
+      "All Animals Principle",
+      "Multiple Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the mishna that opens with 'echad shor ve'echad kol behema' and concludes with 'shediber ha-katuv be-hoveh,' which is precisely what the 'All Animals Principle' prose describes in detail.",
+      "chosen_heading": "All Animals Principle",
+      "current_heading": "All Animals Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Multiple Sources",
+    "candidates": [
+      "Multiple Sources",
+      "Shabbat Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items trace sources for inclusion of all animals across various laws (bor, Har Sinai, kefel, hashavat aveidah, perika), matching exactly the 'Multiple Sources' prose which describes this same individual-source-tracing exercise, and the passage does not yet reach the gezerah shavah from Shabbat that is the focus of candidate 1.",
+      "chosen_heading": "Multiple Sources",
+      "current_heading": "Multiple Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Shabbat Source",
+    "candidates": [
+      "Shabbat Source",
+      "Klal u'Prat 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Shabbat Source' (index 0) explicitly discusses the gezerah shavah from Shabbat for chasimah (using 'shor'), kilayim for plowing (using 'shor'), and kilayim for crossbreeding (using 'behemtecha'), which precisely matches all three items in the passage.",
+      "chosen_heading": "Shabbat Source",
+      "current_heading": "Shabbat Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Klal u'Prat 2",
+    "candidates": [
+      "Klal u'Prat 2",
+      "Kol Inclusive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous klal u'prat u'klal analysis for Shabbat \u2014 the baraita from Rabbi Yose/Yishmael, the generalization-detail challenge, the klal-prat-klal response, the tumah objection, and the ox/donkey pairing explanation \u2014 all of which are explicitly described in the prose of heading 0.",
+      "chosen_heading": "Klal u'Prat 2",
+      "current_heading": "Klal u'Prat 2",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Kol Inclusive",
+    "candidates": [
+      "Kol Inclusive",
+      "Shor Chamor Link"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Kol Inclusive",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 discuss the debate over whether 've-chol' is a ribuy or a klal, including the challenge from maasar sheni and the resolution distinguishing be-khol from kol, exactly matching the 'Kol Inclusive' prose about ve-chol as ribuy.",
+      "second_heading": "Shor Chamor Link",
+      "second_confidence": "high",
+      "second_reason": "Item 6 asks why 'your cattle' (dibros rishonot) and 'ox and donkey' (dibros acharonot) are needed given that ve-chol already includes all animals, which is precisely the question that launches the 'Shor Chamor Link' section's discussion of the specific functions of those words.",
+      "current_heading": "Kol Inclusive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Shor Chamor Link",
+    "candidates": [
+      "Shor Chamor Link",
+      "Human Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items explain why 'ox,' 'donkey,' and 'your cattle' are each specified \u2014 enabling gezerot shavot to chasimah, perika, and kilayim respectively \u2014 which is precisely what the 'Shor Chamor Link' prose describes.",
+      "chosen_heading": "Shor Chamor Link",
+      "current_heading": "Shor Chamor Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Human Inclusion",
+    "candidates": [
+      "Human Inclusion",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of whether humans should be prohibited in kilayim and cites the mishna that permits it \u2014 this is precisely the content described in the 'Human Inclusion' section's prose, not the resolution provided by Rav Pappa in section 1.",
+      "chosen_heading": "Human Inclusion",
+      "current_heading": "Human Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rav Pappa",
+    "candidates": [
+      "Rav Pappa",
+      "Tov Question",
+      "Dismissal",
+      "Breaking Tablets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Pappa citing Rav Acha bar Yaakov of Paphunya explaining that the verse equates humans and animals only for resting on Shabbat, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Rav Pappa",
+      "current_heading": "Rav Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Breaking Tablets",
+    "candidates": [
+      "Tov Question",
+      "Dismissal",
+      "Breaking Tablets",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete passage about why 'tov' is absent from the first Dibros \u2014 the question, the referral to an aggada expert, and the answer \u2014 which is precisely what heading 0 ('Tov Question') introduces, while the current placement under 'Breaking Tablets' only covers the final answer, missing that the whole unit belongs together under the heading that frames the entire inquiry.",
+      "chosen_heading": "Tov Question",
+      "current_heading": "Breaking Tablets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Breaking Tablets",
+      "Rav Ashi",
+      "Tet in Dreams"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's direct statement about good ceasing from Israel if the tablets broke, which matches exactly the prose under 'Rav Ashi' describing his explanation of chas ve-shalom paskah tovah mi-Yisrael.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Tet in Dreams",
+    "candidates": [
+      "Tet in Dreams",
+      "First Tet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses seeing the letter tet in a dream and the Gemara's question about whether it refers to 'tov' or destructive verses, which matches exactly the prose under 'Tet in Dreams' (candidate 0).",
+      "chosen_heading": "Tet in Dreams",
+      "current_heading": "Tet in Dreams",
+      "moved": false
+    }
+  }
+]

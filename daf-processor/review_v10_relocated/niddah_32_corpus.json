@@ -1,0 +1,485 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Male & Peace",
+    "candidates": [
+      "Male & Peace",
+      "Male, Female Roles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Male & Peace' section's prose, which explicitly discusses Rabbi Yitzchak's teaching that a male brings peace to the world using the same proof-text and zeh kar wordplay described in the translation.",
+      "chosen_heading": "Male & Peace",
+      "current_heading": "Male & Peace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Male, Female Roles",
+    "candidates": [
+      "Male, Female Roles",
+      "Essentialist vs. Societal",
+      "Shalom Debate",
+      "Students' Question",
+      "Labor Oath Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the male/female wordplay teaching (zachar=ze kar, nekeva=nekiya ba'ah) with their proof-texts, which is precisely what heading 0 'Male, Female Roles' discusses in its prose.",
+      "chosen_heading": "Male, Female Roles",
+      "current_heading": "Male, Female Roles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Labor Oath Answer",
+    "candidates": [
+      "Essentialist vs. Societal",
+      "Shalom Debate",
+      "Students' Question",
+      "Labor Oath Answer",
+      "Rav Yosef Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the students' question to Rabbi Shimon ben Yo\u1e25ai about why a woman after childbirth brings an offering, which is precisely what the 'Students' Question' section's prose describes \u2014 the question itself, before the answer given in the 'Labor Oath Answer' section.",
+      "chosen_heading": "Students' Question",
+      "current_heading": "Labor Oath Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Yosef Objects",
+    "candidates": [
+      "Labor Oath Answer",
+      "Rav Yosef Objects",
+      "One vs. Two Weeks",
+      "Joy vs. Sadness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection about the woman being a mezid and needing a korban shevuah, which is exactly what the 'Rav Yosef Objects' section's prose describes.",
+      "chosen_heading": "Rav Yosef Objects",
+      "current_heading": "Rav Yosef Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Joy vs. Sadness",
+    "candidates": [
+      "One vs. Two Weeks",
+      "Joy vs. Sadness",
+      "Modern Brachot Rulings",
+      "Why Seven Days?",
+      "Familiarity Remedy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "One vs. Two Weeks",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the question and answer about why a male birth yields 7 days and female birth yields 14 days of tumah, which is precisely what heading 0 ('One vs. Two Weeks') discusses.",
+      "second_heading": "Joy vs. Sadness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why circumcision is on the eighth day (so parents can rejoice together), which matches heading 1 ('Joy vs. Sadness') and is also explicitly referenced in heading 2's prose, but the current placement under 'Joy vs. Sadness' fits since that section's prose discusses the bris milah connection directly.",
+      "current_heading": "Joy vs. Sadness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Familiarity Remedy",
+    "candidates": [
+      "Modern Brachot Rulings",
+      "Why Seven Days?",
+      "Familiarity Remedy",
+      "Modern Marriage Context",
+      "Rambam Analogy",
+      "Man Pursues Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (Rabbi Meir's question 'why did the Torah say niddah for seven days?'), which belongs under 'Why Seven Days?' where the prose explicitly introduces this very baraita and its question, not under 'Familiarity Remedy' which discusses the answer to that question.",
+      "chosen_heading": "Why Seven Days?",
+      "current_heading": "Familiarity Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Man Pursues Woman",
+    "candidates": [
+      "Modern Marriage Context",
+      "Rambam Analogy",
+      "Man Pursues Woman",
+      "Downward/Upward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Baraita from Rabbi Dostai bar Yannai about why a man pursues a woman using the lost object parable, which is exactly what the 'Man Pursues Woman' section's prose discusses in detail.",
+      "chosen_heading": "Man Pursues Woman",
+      "current_heading": "Man Pursues Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Downward/Upward",
+    "candidates": [
+      "Downward/Upward",
+      "Appeasement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why a man faces downward and a woman faces upward during intercourse, which exactly matches the 'Downward/Upward' section's prose.",
+      "chosen_heading": "Downward/Upward",
+      "current_heading": "Downward/Upward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Appeasement",
+    "candidates": [
+      "Appeasement",
+      "Voice Beauty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why a man accepts appeasement and a woman does not, which is precisely what the 'Appeasement' section's prose addresses.",
+      "chosen_heading": "Appeasement",
+      "current_heading": "Appeasement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Voice Beauty",
+    "candidates": [
+      "Voice Beauty",
+      "Status Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why a woman's voice is pleasant versus a man's, matching exactly the 'Voice Beauty' section's prose about the same topic.",
+      "chosen_heading": "Voice Beauty",
+      "current_heading": "Voice Beauty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Status Overview",
+    "candidates": [
+      "Status Overview",
+      "Blood Color Indistinction",
+      "Stringency/Leniency",
+      "Safek Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishna about Samaritan girls being considered niddot from their cradles and Samaritan men transmitting impurity \u2014 exactly what the 'Status Overview' prose discusses in detail, including the bo'alei niddot status and the mishkav/moshav tumah.",
+      "chosen_heading": "Status Overview",
+      "current_heading": "Status Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Safek Status",
+    "candidates": [
+      "Blood Color Indistinction",
+      "Stringency/Leniency",
+      "Safek Status",
+      "Actual Bleeding?",
+      "Minority Possibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Safek Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing clause of the Mishnah about safek tumah \u2014 not liable for entering the Temple and terumah is not burned \u2014 which is precisely what the 'Safek Status' prose describes.",
+      "second_heading": "Actual Bleeding?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Gemara heichi dami challenge asking about the circumstances of the Mishnah's ruling on Samaritan infants, which is exactly what the 'Actual Bleeding?' prose describes.",
+      "current_heading": "Safek Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Minority Possibility",
+    "candidates": [
+      "Actual Bleeding?",
+      "Minority Possibility",
+      "Rabbi Meir Minority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheshet's resolution about the unspecified (stama) case and the minority concern, which is exactly what the 'Minority Possibility' section's prose describes, and the Gemara's closing question about which tanna is concerned for the minority leads directly into the Rabbi Meir discussion in the next section.",
+      "chosen_heading": "Minority Possibility",
+      "current_heading": "Minority Possibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rabbi Meir Minority",
+    "candidates": [
+      "Rabbi Meir Minority",
+      "Historical Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion of Rabbi Meir's concern for minorities in the context of yibbum for minors, which is precisely what the 'Rabbi Meir Minority' section prose describes.",
+      "chosen_heading": "Rabbi Meir Minority",
+      "current_heading": "Rabbi Meir Minority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Historical Stories",
+    "candidates": [
+      "Historical Stories",
+      "Drasha from Tanakh",
+      "Our Knowledge vs. Theirs",
+      "Gezeirah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about the three historical incidents (Ein Bul, Beit She'arim, Pumbedita) and the subsequent question about why Rav Yosef's Babylonian case required immersion, resolved by Mar Zutra's answer about teruma oil \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Historical Stories",
+      "current_heading": "Historical Stories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Gezeirah Logic",
+    "candidates": [
+      "Drasha from Tanakh",
+      "Our Knowledge vs. Theirs",
+      "Gezeirah Logic",
+      "Infant Girl Niddah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous question-and-answer unit ('if so, why not our girls too?' / 'because we have the drasha and act on it'), which corresponds precisely to candidate 0's prose describing the return to the central question and the answer that we derive from Torah that even underage girls can become niddot.",
+      "chosen_heading": "Drasha from Tanakh",
+      "current_heading": "Gezeirah Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Infant Girl Niddah",
+    "candidates": [
+      "Gezeirah Logic",
+      "Infant Girl Niddah",
+      "Vav Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving that a one-day-old infant girl can become a niddah from 've'ishah,' which is precisely what the 'Infant Girl Niddah' section's prose describes and explains.",
+      "chosen_heading": "Infant Girl Niddah",
+      "current_heading": "Infant Girl Niddah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Vav Inclusion",
+    "candidates": [
+      "Vav Inclusion",
+      "Zavah Question",
+      "Female Exclusivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the contradiction between the vav-inclusion of a one-day-old and the baraita that stops at three years and one day for bi'ah tumah, which is precisely what the 'Vav Inclusion' section's prose discusses as its central challenge.",
+      "chosen_heading": "Vav Inclusion",
+      "current_heading": "Vav Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Female Exclusivity",
+    "candidates": [
+      "Zavah Question",
+      "Female Exclusivity",
+      "Ish Ish Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a continuous chain discussing why both the niddah and zavah verses are needed for infant girls, culminating in the exclusion of a man from red-discharge impurity \u2014 exactly what candidate 1 ('Female Exclusivity') describes in its prose.",
+      "chosen_heading": "Female Exclusivity",
+      "current_heading": "Female Exclusivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Ish Ish Meaning",
+    "candidates": [
+      "Ish Ish Meaning",
+      "Yishmael Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the double expression 'ish ish' and its use to include a one-day-old infant boy in ziva impurity, which is exactly what the 'Ish Ish Meaning' section prose describes.",
+      "chosen_heading": "Ish Ish Meaning",
+      "current_heading": "Ish Ish Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Yishmael Objection",
+    "candidates": [
+      "Yishmael Objection",
+      "Divine Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yishmael's objection and his 'ein tzarich' argument with the male/female derivation, which is exactly what the 'Yishmael Objection' prose describes, while the 'Divine Language' section covers the resolution and subsequent gemara discussion that follows this passage.",
+      "chosen_heading": "Yishmael Objection",
+      "current_heading": "Yishmael Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Divine Language",
+    "candidates": [
+      "Divine Language",
+      "Male Zav Strictness",
+      "Female Zavah Strictness",
+      "No Cross-Gender Inference",
+      "Girl Tumah Ages",
+      "Boy Tumah Ages",
+      "Yibum/Terumah",
+      "Legal Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain resolving the contradiction between 'one-day-old' and 'nine years and a day,' Rava's hilchata/asmachta resolution, and why both male and female derivations are needed \u2014 exactly the content described in the 'Divine Language' prose.",
+      "chosen_heading": "Divine Language",
+      "current_heading": "Divine Language",
+      "moved": false
+    }
+  }
+]

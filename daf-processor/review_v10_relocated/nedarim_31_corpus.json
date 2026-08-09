@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Shabbat Observers",
+    "candidates": [
+      "Perek 3 Conclusion",
+      "Topic Progression",
+      "Shabbat Observers",
+      "Garlic Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about Shabbat observers and garlic eaters (and Jerusalem pilgrims) and the Gemara's clarification of 'those who rest on Shabbat' \u2014 directly match the 'Shabbat Observers' section prose, which explicitly discusses HaNoder MiShovsei Shabbos, the Samaritan connection, and the garlic case.",
+      "chosen_heading": "Shabbat Observers",
+      "current_heading": "Shabbat Observers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Garlic Custom",
+    "candidates": [
+      "Garlic Custom",
+      "Gemara Analysis",
+      "Jerusalem Pilgrims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly challenges the 'commanded' logic using the seifa about olei Yerushalayim, which is precisely what the 'Jerusalem Pilgrims' section discusses.",
+      "chosen_heading": "Jerusalem Pilgrims",
+      "current_heading": "Garlic Custom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Jerusalem Pilgrims",
+    "candidates": [
+      "Gemara Analysis",
+      "Jerusalem Pilgrims",
+      "Noahides Neder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's resolution distinguishing commanded-and-performing from commanded-but-not-performing, directly addressing the Jerusalem pilgrimage case, which matches exactly the prose under 'Jerusalem Pilgrims' that describes Abaye's answer about metzuvah v'oseh and olei Yerushalayim.",
+      "chosen_heading": "Jerusalem Pilgrims",
+      "current_heading": "Jerusalem Pilgrims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Noahides Neder",
+    "candidates": [
+      "Noahides Neder",
+      "Jews & Noach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself stating the rule about konam for bnei Noach, which directly matches the 'Noahides Neder' prose that summarizes this exact mishna content.",
+      "chosen_heading": "Noahides Neder",
+      "current_heading": "Noahides Neder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Jews & Noach",
+    "candidates": [
+      "Jews & Noach",
+      "Philosophical Status",
+      "Zera Avraham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether Jews are excluded from the category of bnei Noach and answers that since Abraham was sanctified his descendants are called by his name \u2014 exactly what the 'Jews & Noach' section's prose describes and analyzes.",
+      "chosen_heading": "Jews & Noach",
+      "current_heading": "Jews & Noach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Zera Avraham",
+    "candidates": [
+      "Philosophical Status",
+      "Zera Avraham",
+      "Overpaying Buyer",
+      "Underselling Seller",
+      "Non-Jews Only",
+      "Ran's Analysis",
+      "Test Drive Case"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Zera Avraham",
+      "first_confidence": "high",
+      "first_reason": "The mishna about 'zera Avraham' directly matches the 'Zera Avraham' heading's prose which explicitly discusses this vow.",
+      "second_heading": "Zera Avraham",
+      "second_confidence": "high",
+      "second_reason": "The Gemara discussing Ishmael, 'ki ve'Yitzchak yikarei lecha zara', and Esau directly matches the 'Zera Avraham' heading's prose which quotes these exact arguments.",
+      "third_heading": "Overpaying Buyer",
+      "third_confidence": "high",
+      "third_reason": "The mishna covering 'she'eini ne'eneh mi'Yisrael' with overpaying/underselling and the combined case matches the 'Overpaying Buyer' heading's prose, which discusses this exact mishna, though it also covers the content of headings 3 and 4.",
+      "current_heading": "Zera Avraham",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Test Drive Case",
+    "candidates": [
+      "Overpaying Buyer",
+      "Underselling Seller",
+      "Non-Jews Only",
+      "Ran's Analysis",
+      "Test Drive Case",
+      "Both Benefit",
+      "Hot Items Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's ruling about the test-drive/inspection case and the inference that the buyer is the primary beneficiary, which is exactly what the 'Test Drive Case' prose discusses.",
+      "chosen_heading": "Test Drive Case",
+      "current_heading": "Test Drive Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Hot Items Exception",
+    "candidates": [
+      "Both Benefit",
+      "Hot Items Exception",
+      "Jewelry to In-Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion challenging Shmuel's ruling from the mishnah, working through zvina deramei al apeih and zvina charifa, and concluding with matnisin bizvina mitza / udishmuel bizvina charifa \u2014 exactly what the 'Hot Items Exception' prose describes in detail.",
+      "chosen_heading": "Hot Items Exception",
+      "current_heading": "Hot Items Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Jewelry to In-Laws",
+    "candidates": [
+      "Jewelry to In-Laws",
+      "Safsira Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about sending vessels to one's father-in-law that the 'Jewelry to In-Laws' prose explicitly discusses, covering liability on the way there (item 1) and exemption on the return trip (item 2).",
+      "chosen_heading": "Jewelry to In-Laws",
+      "current_heading": "Jewelry to In-Laws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Safsira Case",
+    "candidates": [
+      "Safsira Case",
+      "Uncircumcised Neder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the safsira case \u2014 Rava's objection to Rav Na\u1e25man and Rav Na\u1e25man's resolution \u2014 which is precisely what the 'Safsira Case' prose discusses in detail.",
+      "chosen_heading": "Safsira Case",
+      "current_heading": "Safsira Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Uncircumcised Neder",
+    "candidates": [
+      "Uncircumcised Neder",
+      "Circumcised Neder",
+      "Identity Markers",
+      "Biblical Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing the 'uncircumcised neder' case, which is exactly what heading 0's prose discusses.",
+      "chosen_heading": "Uncircumcised Neder",
+      "current_heading": "Uncircumcised Neder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Biblical Sources",
+    "candidates": [
+      "Circumcised Neder",
+      "Identity Markers",
+      "Biblical Sources",
+      "Derogatory Usage",
+      "Brit Milah Greatness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about one who vows not to benefit from the circumcised (mulim), which matches heading 0 'Circumcised Neder' precisely; the biblical proofs embedded in the same passage are part of that ruling's explanation, not a standalone 'Biblical Sources' section.",
+      "chosen_heading": "Circumcised Neder",
+      "current_heading": "Biblical Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Brit Milah Greatness",
+    "candidates": [
+      "Derogatory Usage",
+      "Brit Milah Greatness",
+      "Ultimate Importance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Derogatory Usage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Elazar ben Azarya's statement that the foreskin is repulsive (*me'usa hi ha'arla*), which is precisely what the 'Derogatory Usage' prose discusses, along with Rabbi Yishmael's opening 'greatness' opinion which naturally follows and transitions into the next section.",
+      "second_heading": "Brit Milah Greatness",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 (Rabbi Yosei, Rabbi Yehoshua ben Korcha, Rabbi Nechemya, and Rabbi Yehuda HaNasi) are all 'gedola mila' statements that the 'Brit Milah Greatness' prose explicitly enumerates and discusses in detail.",
+      "current_heading": "Brit Milah Greatness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Ultimate Importance",
+    "candidates": [
+      "Ultimate Importance",
+      "Milah Wordplay",
+      "Moshe's Dilemma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that circumcision is so great that without it God would not have created the world, which is exactly what the 'Ultimate Importance' section's prose discusses.",
+      "chosen_heading": "Ultimate Importance",
+      "current_heading": "Ultimate Importance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Moshe's Dilemma",
+    "candidates": [
+      "Milah Wordplay",
+      "Moshe's Dilemma",
+      "Moshe's Punishment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moshe's Dilemma",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yehoshua ben Korcha's claim and Rabbi Yehuda HaNasi's defense of Moses's dilemma, which is exactly what heading 1 ('Moshe's Dilemma') discusses.",
+      "second_heading": "Moshe's Punishment",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives the answer to why Moses was punished despite having good reasons \u2014 he attended to lodging first \u2014 which is precisely what heading 2 ('Moshe's Punishment') discusses.",
+      "current_heading": "Moshe's Dilemma",
+      "moved": true
+    }
+  }
+]

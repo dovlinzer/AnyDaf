@@ -1,0 +1,489 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rava's Requirements",
+    "candidates": [
+      "Tasteless Spit Definition",
+      "Rava's Requirements",
+      "Rabbi Yochanan's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines tasteless saliva and discusses the precise meaning of 'me-ha-erev,' which matches the 'Tasteless Spit Definition' section's prose about requiring further precision on that formulation, not the 'Rava's Requirements' section which summarizes the conclusion Rava reaches.",
+      "chosen_heading": "Tasteless Spit Definition",
+      "current_heading": "Rava's Requirements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Yochanan's View",
+    "candidates": [
+      "Rava's Requirements",
+      "Rabbi Yochanan's View",
+      "Misnamnem Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's definition of rok tafal, the challenge from the baraita about sleeping all day vs. staying awake all night, and the resolution via misnamnem \u2014 all of which are explicitly described in the 'Rabbi Yochanan's View' prose.",
+      "chosen_heading": "Rabbi Yochanan's View",
+      "current_heading": "Rabbi Yochanan's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Misnamnem Status",
+    "candidates": [
+      "Misnamnem Status",
+      "Eating & Speaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines 'misnamnem' (dozing) exactly as Rav Ashi's explanation, which is precisely what the 'Misnamnem Status' section's prose discusses.",
+      "chosen_heading": "Misnamnem Status",
+      "current_heading": "Misnamnem Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Eating & Speaking",
+    "candidates": [
+      "Eating & Speaking",
+      "Three-Hour Speech",
+      "Mei Grisin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the quantification ruling (Rav Yehuda bar Sheila citing Rav Ashi citing Rabbi Elazar about 'most of three hours' speech), which is precisely what heading 1 'Three-Hour Speech' discusses, not the earlier baraita about rising and learning which heading 0 covers.",
+      "chosen_heading": "Three-Hour Speech",
+      "current_heading": "Eating & Speaking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Mei Grisin",
+    "candidates": [
+      "Three-Hour Speech",
+      "Mei Grisin",
+      "Rabbi Yehuda & Salt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses mei grisin, Reish Lakish's opinion about tasteless saliva, and the deflection about heat of the mouth \u2014 all of which are precisely what candidate 1's prose describes.",
+      "chosen_heading": "Mei Grisin",
+      "current_heading": "Mei Grisin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rabbi Yehuda & Salt",
+    "candidates": [
+      "Rabbi Yehuda & Salt",
+      "Etymology of Over"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's note that the Mishnah disagrees with Rabbi Yehuda and states his view about boiling mei grisin and timing relative to salt, which is exactly what heading 0 ('Rabbi Yehuda & Salt') describes.",
+      "chosen_heading": "Rabbi Yehuda & Salt",
+      "current_heading": "Rabbi Yehuda & Salt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Etymology of Over",
+    "candidates": [
+      "Etymology of Over",
+      "Aged Urine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the etymology of 'over' as a term meaning priority/before, with the same proof-texts cited in the prose under 'Etymology of Over'.",
+      "chosen_heading": "Etymology of Over",
+      "current_heading": "Etymology of Over",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Aged Urine",
+    "candidates": [
+      "Aged Urine",
+      "Quantities Need Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly teaches that urine must ferment for three days, which is precisely what the 'Aged Urine' section discusses, not the broader observation about all Sages' quantities needing further specification.",
+      "chosen_heading": "Aged Urine",
+      "current_heading": "Aged Urine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Quantities Need Detail",
+    "candidates": [
+      "Quantities Need Detail",
+      "Three Rubbings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's statement about the measures of the Sages requiring further specification, which matches precisely the prose of 'Quantities Need Detail' that paraphrases and analyzes this exact statement.",
+      "chosen_heading": "Quantities Need Detail",
+      "current_heading": "Quantities Need Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Three Rubbings",
+    "candidates": [
+      "Three Rubbings",
+      "Two Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dilemma of counting rubbings (going and coming as one or two), which matches exactly what the 'Three Rubbings' prose describes, including the unresolved teiku conclusion.",
+      "chosen_heading": "Three Rubbings",
+      "current_heading": "Three Rubbings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Two Groups",
+    "candidates": [
+      "Two Groups",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two conflicting Baraitot about applying the second group before the first group, which is precisely what the 'Two Groups' section's prose describes.",
+      "chosen_heading": "Two Groups",
+      "current_heading": "Two Groups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Abaye's Resolution",
+      "First vs Second",
+      "Mishnah Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement resolving the contradiction between the two Baraitot, which is exactly what the prose under 'Abaye's Resolution' describes.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Mishnah Categories",
+    "candidates": [
+      "First vs Second",
+      "Mishnah Categories",
+      "Three Occurrences",
+      "HaGuf vs HaYamim",
+      "Shofaat Clarification",
+      "Rabbah's Signs",
+      "Shmuel's Hierarchy",
+      "Veset Ma'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself introducing the categories of vestot ha-guf and the rule of dayah sha'atah, which is precisely what the 'Mishnah Categories' section's prose describes and discusses.",
+      "chosen_heading": "Mishnah Categories",
+      "current_heading": "Mishnah Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Veset Ma'aseh",
+    "candidates": [
+      "Three Occurrences",
+      "HaGuf vs HaYamim",
+      "Shofaat Clarification",
+      "Rabbah's Signs",
+      "Shmuel's Hierarchy",
+      "Veset Ma'aseh",
+      "Teaching Status",
+      "Day Changes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "HaGuf vs HaYamim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover the Gemara's clarification that the Mishnah addresses veset ha-guf vs. veset ha-yamim, the list of bodily signs, the shofaat clarification, and Rabbah bar Ulla's expansion \u2014 all matching the prose of candidates 1-3, with items 1-2 under 'HaGuf vs HaYamim', items 3-4 under 'Shofaat Clarification', and item 5 under 'Rabbah's Signs', but since all items must go under one heading for the first split, candidate 1 ('HaGuf vs HaYamim') is the best single home for items 1-5 as the prose there explicitly discusses items 1-4.",
+      "second_heading": "Shmuel's Hierarchy",
+      "second_confidence": "high",
+      "second_reason": "Items 6-8 deal with Shmuel's hierarchy (two/one/three occurrences), Rav Yosef's and Abaye's elaborations on what 'not enumerated by the Sages' includes, and Rav Yosef's statement that he did not hear the tradition \u2014 all of which match candidate 4 ('Shmuel's Hierarchy') whose prose explicitly discusses this same material.",
+      "current_heading": "Veset Ma'aseh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Day Changes",
+    "candidates": [
+      "Teaching Status",
+      "Day Changes",
+      "Shmuel's Hierarchy (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye reminding Rav Yosef of the teaching about switching from day fifteen to day twenty requiring three repetitions before the old day is released, which is precisely what the 'Day Changes' prose describes.",
+      "chosen_heading": "Day Changes",
+      "current_heading": "Day Changes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shmuel's Hierarchy (II)",
+    "candidates": [
+      "Shmuel's Hierarchy (II)",
+      "One-Two Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yehuda citing Shmuel that this is Rabban Gamliel bar Rabbi's position in the name of Rabban Shimon ben Gamliel, and that the Rabbis disagree \u2014 exactly what the 'Shmuel's Hierarchy (II)' prose describes.",
+      "chosen_heading": "Shmuel's Hierarchy (II)",
+      "current_heading": "Shmuel's Hierarchy (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "One-Two Resolution",
+    "candidates": [
+      "One-Two Resolution",
+      "Beginning Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the discussion of lishnot/leshalesh (twice/three times) distinction and Shmuel's teaching about Rabban Gamliel bar Rabbi holding like Rabban Shimon ben Gamliel \u2014 exactly the content described in the 'One-Two Resolution' prose.",
+      "chosen_heading": "One-Two Resolution",
+      "current_heading": "One-Two Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Beginning Period",
+    "candidates": [
+      "Beginning Period",
+      "End Period",
+      "Rabbi Yosi Hours"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna covers both the beginning and end cases as a single unit, and the current heading 'Beginning Period' is where the prose begins discussing this Mishna's content, with the 'End Period' section providing complementary commentary \u2014 the passage as a whole is introduced under heading 0 where the essay first engages with it.",
+      "chosen_heading": "Beginning Period",
+      "current_heading": "Beginning Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rabbi Yosi Hours",
+    "candidates": [
+      "End Period",
+      "Rabbi Yosi Hours",
+      "Yosi Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yosei's statement about days and hours as vestot and Rabbi Yehuda's response about the entire day, which is precisely what the 'Rabbi Yosi Hours' prose section discusses, including the af yamim ve-sha'ot, the subdivision of the day, and Rabbi Yehuda's kol ha-yom shelah ruling.",
+      "chosen_heading": "Rabbi Yosi Hours",
+      "current_heading": "Rabbi Yosi Hours",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Yosi Precision",
+    "candidates": [
+      "Yosi Precision",
+      "Yehuda Broader",
+      "20-Day Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the full baraita illustrating Rabbi Yehuda vs. Rabbi Yosi on the twenty-day/sixth-hour example, including what happens after the sixth hour passes \u2014 exactly the content discussed in the '20-Day Example' prose, which explicitly references both the 'kol shesh sha'ot rishonot' ruling and the 'mincha' leniency described in these two items.",
+      "chosen_heading": "20-Day Example",
+      "current_heading": "Yosi Precision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "20-Day Example",
+    "candidates": [
+      "Yehuda Broader",
+      "20-Day Example",
+      "Conflicting Baraisot",
+      "Beginning/End Resolution",
+      "Rava Ruling",
+      "Biblical Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yehuda Broader",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 resolve the contradiction between the mishna and baraita about Rabbi Yehuda's ruling by distinguishing 'beginning of day' vs 'end of night' patterns, which matches the '20-Day Example' section's discussion of how the unit boundary (sunrise) determines which onah is forbidden \u2014 but more precisely matches 'Yehuda Broader' since the content directly elaborates Rabbi Yehuda's ruling about the entire night/day unit.",
+      "second_heading": "Conflicting Baraisot",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 present two conflicting baraitot about Rabbi Yehuda (forbidden before vs. after the veset) and resolve them by the same beginning-of-day vs. end-of-night distinction, which is exactly what the 'Conflicting Baraisot' heading describes.",
+      "current_heading": "20-Day Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Conflicting Baraisot",
+      "Beginning/End Resolution",
+      "Rava Ruling",
+      "Biblical Source",
+      "Prisha Period",
+      "Scripture vs Halakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with Rava's ruling that halakha follows Rabbi Yehuda, then immediately raises the challenge from the baraita \u2014 this is the content of the 'Rava Ruling' section, which introduces Rava's definitive ruling and sets up the subsequent challenge, not the 'Biblical Source' section which discusses only the verse derivation.",
+      "chosen_heading": "Rava Ruling",
+      "current_heading": "Biblical Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Scripture vs Halakha",
+    "candidates": [
+      "Prisha Period",
+      "Scripture vs Halakha",
+      "Or Zarua Stringency",
+      "Ritva Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items address exactly the content described in the 'Scripture vs Halakha' prose: item 1 resolves whether 'samuch' means an additional prior onah or the same onah, and item 2 explains why both Rava's rulings are necessary \u2014 precisely the dual necessity argument described in that section's prose.",
+      "chosen_heading": "Scripture vs Halakha",
+      "current_heading": "Scripture vs Halakha",
+      "moved": false
+    }
+  }
+]

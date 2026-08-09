@@ -1,0 +1,380 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Brother's Claim",
+    "candidates": [
+      "Brother's Claim",
+      "Burden of Proof",
+      "Witness Coercion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Mari bar Isak story described in heading 0's prose \u2014 the arrival of the brother, Mari's denial, Rav Chisda's response citing the Joseph verse, and the instruction to bring witnesses \u2014 all of which are explicitly covered in that section's prose.",
+      "chosen_heading": "Brother's Claim",
+      "current_heading": "Brother's Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Witness Coercion",
+    "candidates": [
+      "Burden of Proof",
+      "Witness Coercion",
+      "False Testimony",
+      "Witnesses Confirm",
+      "Orchards Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Mari bar Isak's challenge 'dina hachi / hamotzi me-chavero alav ha-rayah' and Rav Chisda's response about judging violent men, which the 'Witness Coercion' prose explicitly describes and quotes in detail, making it the clear home for this text.",
+      "chosen_heading": "Witness Coercion",
+      "current_heading": "Witness Coercion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Orchards Claim",
+    "candidates": [
+      "False Testimony",
+      "Witnesses Confirm",
+      "Orchards Claim",
+      "Mishnah Rule",
+      "Abaye's Objection"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Mishnah Rule",
+      "Abaye's Objection",
+      "Rabbi Ami's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's objection (mi dami) to the comparison with the mishnah case, which is precisely what the 'Abaye's Objection' section's prose describes.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Abaye's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rabbi Ami's View",
+    "candidates": [
+      "Rabbi Ami's View",
+      "Rav Chisda Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records Rabbi Ami's ruling and his argument about the sharecropper (aris) analogy, which is precisely what the 'Rabbi Ami's View' prose section describes.",
+      "chosen_heading": "Rabbi Ami's View",
+      "current_heading": "Rabbi Ami's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav Chisda Rejects",
+    "candidates": [
+      "Rav Chisda Rejects",
+      "Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Chisda's rejection of the comparison to karov lenichsei shavuy on two grounds (unauthorized descent and the minor status), which is precisely what the prose under 'Rav Chisda Rejects' describes.",
+      "chosen_heading": "Rav Chisda Rejects",
+      "current_heading": "Rav Chisda Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Concession",
+    "candidates": [
+      "Concession",
+      "Mishnah Deductions",
+      "Loss Percentages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ami's concession that he lacked the critical detail that the brother was a minor, which matches exactly the 'Concession' section's prose about Rabbi Ami saying 'they did not tell me the brother was a minor.'",
+      "chosen_heading": "Concession",
+      "current_heading": "Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Loss Percentages",
+    "candidates": [
+      "Mishnah Deductions",
+      "Loss Percentages",
+      "Fixed Rat Losses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the deposited-produce scenario, which matches the 'Mishnah Deductions' prose that introduces and explains the operative scenario of hamafkid peirot etzel chaveiro, not the 'Loss Percentages' section which discusses the specific deduction figures in detail.",
+      "chosen_heading": "Mishnah Deductions",
+      "current_heading": "Loss Percentages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Fixed Rat Losses",
+    "candidates": [
+      "Loss Percentages",
+      "Fixed Rat Losses",
+      "Multiple Loss Sources",
+      "Rats' Behavior",
+      "Mixing Required",
+      "Separate Storage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Fixed Rat Losses",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Yochanan ben Nuri's fixed-rat-loss argument, the Gemara's clarifications about rice and flaxseed types, and the proportional-per-kor/per-year baraita \u2014 all content explicitly described under 'Fixed Rat Losses'.",
+      "second_heading": "Multiple Loss Sources",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the baraita where the Sages respond to Rabbi Yochanan ben Nuri by citing multiple loss sources (harbeh ovdot, harbeh mitpazrot), which is precisely what the 'Multiple Loss Sources' prose describes.",
+      "current_heading": "Fixed Rat Losses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Separate Storage",
+    "candidates": [
+      "Multiple Loss Sources",
+      "Rats' Behavior",
+      "Mixing Required",
+      "Separate Storage",
+      "Empirical Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita covers both conditions \u2014 mixing (candidate 2) and separate storage (candidate 3) \u2014 in a single passage, and candidate 2's prose introduces the full baraita with 'bamah devarim amurim, she'eirev mi'peirotav,' making it the better unified home for the entire quoted text rather than splitting it under 'Separate Storage.'",
+      "chosen_heading": "Mixing Required",
+      "current_heading": "Separate Storage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Empirical Measure",
+    "candidates": [
+      "Separate Storage",
+      "Empirical Measure",
+      "Unknown Usage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question posed in 'Empirical Measure' prose (why not measure the depositary's own shrinkage empirically?) and begins the answer, which flows naturally into the 'Unknown Usage' section \u2014 but this specific item, being the question-and-answer pair about mixing and the be'mistapek answer, aligns best with the 'Empirical Measure' heading that frames that very question.",
+      "chosen_heading": "Empirical Measure",
+      "current_heading": "Empirical Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Unknown Usage",
+    "candidates": [
+      "Unknown Usage",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question-and-answer about why the bailee cannot simply calculate how much he took as supplies, which is precisely what the 'Unknown Usage' section's prose describes.",
+      "chosen_heading": "Unknown Usage",
+      "current_heading": "Unknown Usage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Large Quantities",
+      "Rashi's Logic",
+      "Burst Jug"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Large Quantities",
+      "first_confidence": "high",
+      "first_reason": "Item 1 defines the threshold of ten kor for 'large measure,' which is exactly what the 'Large Quantities' prose describes.",
+      "second_heading": "Burst Jug",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the tanna teaching before Rav Nachman about granary vs. home measurement, which is precisely what the 'Burst Jug' section's prose describes as its opening scenario.",
+      "current_heading": "Rabbi Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Burst Jug",
+    "candidates": [
+      "Large Quantities",
+      "Rashi's Logic",
+      "Burst Jug",
+      "Wine Sixth",
+      "Wine Fifth",
+      "Oil Measures",
+      "Oil Refinements",
+      "Ongoing Sales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Nachman's clarification about the granary season vs. rainy season and Rav Pappa's burst-jug question with its two answers \u2014 are precisely the content described in the 'Burst Jug' section's prose, which covers the yemot hagoren/yemot hageshamim distinction and the expanding-grain/burst-jug discussion.",
+      "chosen_heading": "Burst Jug",
+      "current_heading": "Burst Jug",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Ongoing Sales",
+    "candidates": [
+      "Wine Sixth",
+      "Wine Fifth",
+      "Oil Measures",
+      "Oil Refinements",
+      "Ongoing Sales",
+      "Coatings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishna covers all the topics from wine sixth through ongoing sales in a single continuous text, and its natural home is under the first heading 'Wine Sixth' where the mishna begins, with the subsequent headings covering the Gemara's analysis of each clause.",
+      "chosen_heading": "Wine Sixth",
+      "current_heading": "Ongoing Sales",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Coatings",
+    "candidates": [
+      "Ongoing Sales",
+      "Coatings",
+      "Merchant Profits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the tanna kamma and Rabbi Yehuda don't truly disagree \u2014 explaining it by locale-specific barrel coatings (wax vs. pitch) and clay quality, which is precisely what the 'Coatings' section prose describes.",
+      "chosen_heading": "Coatings",
+      "current_heading": "Coatings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Merchant Profits",
+    "candidates": [
+      "Merchant Profits",
+      "Price Control"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rav Yehuda's barrel transaction and the arithmetic of his profit calculation, which is exactly what the 'Merchant Profits' prose section discusses in detail.",
+      "chosen_heading": "Merchant Profits",
+      "current_heading": "Merchant Profits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Price Control",
+    "candidates": [
+      "Price Control",
+      "Profit Justification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's ruling about the one-sixth profit cap and asks why Rav Yehuda didn't charge more to reach that limit, which is precisely what the 'Price Control' section's prose discusses.",
+      "chosen_heading": "Price Control",
+      "current_heading": "Price Control",
+      "moved": false
+    }
+  }
+]

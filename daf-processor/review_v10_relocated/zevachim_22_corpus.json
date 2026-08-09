@@ -1,0 +1,379 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Minimum Basin Size",
+    "candidates": [
+      "Minimum Basin Size",
+      "Kli Shares Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yosei b'Rabbi \u1e24anina's ruling about the minimum basin size for four priests, which is precisely what the 'Minimum Basin Size' prose describes and analyzes.",
+      "chosen_heading": "Minimum Basin Size",
+      "current_heading": "Minimum Basin Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Kli Shares Alternative",
+    "candidates": [
+      "Kli Shares Alternative",
+      "Rashi's Kodach View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita objection about vessels sanctifying regardless of revi'is capacity, which is exactly what 'Kli Shares Alternative' prose describes as the meitivei challenge.",
+      "chosen_heading": "Kli Shares Alternative",
+      "current_heading": "Kli Shares Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Rashi's Kodach View",
+    "candidates": [
+      "Rashi's Kodach View",
+      "Tosafos on Water Status",
+      "Kal v'Chomer Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Adda bar A\u1e25a's resolution via drilling a hole in the Basin and the subsequent challenge from 'mimenu' with its answer about 'yirchatzu' including service vessels \u2014 precisely the content described in the 'Rashi's Kodach View' prose.",
+      "chosen_heading": "Rashi's Kodach View",
+      "current_heading": "Rashi's Kodach View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Kal v'Chomer Argument",
+    "candidates": [
+      "Tosafos on Water Status",
+      "Kal v'Chomer Argument",
+      "Mar Zutra Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the kal v'chomer argument from the pedestal (kano) and the baraita of Rabbi Yehuda that underlies it, which is precisely what the 'Kal v'Chomer Argument' prose section describes.",
+      "chosen_heading": "Kal v'Chomer Argument",
+      "current_heading": "Kal v'Chomer Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mar Zutra Challenge",
+    "candidates": [
+      "Mar Zutra Challenge",
+      "Two Limiting Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra's challenge to the kal v'chomer argument and his conclusion that 'mimenu' excludes non-sacred vessels, which is precisely what the 'Mar Zutra Challenge' section's prose describes.",
+      "chosen_heading": "Mar Zutra Challenge",
+      "current_heading": "Mar Zutra Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Two Limiting Factors",
+    "candidates": [
+      "Two Limiting Factors",
+      "Reish Lakish Principle",
+      "Revi'is Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's challenge-and-response about why 'yirchatzu' includes a kli shares while 'mimenu' excludes a kli chol, which is precisely what the 'Two Limiting Factors' prose describes in detail.",
+      "chosen_heading": "Two Limiting Factors",
+      "current_heading": "Two Limiting Factors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Revi'is Exception",
+    "candidates": [
+      "Reish Lakish Principle",
+      "Revi'is Exception",
+      "Gemara Questions",
+      "Cow Drinkability Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full statement of Reish Lakish's principle (both the mikveh/kiyor part AND the revi'is exception in one sentence), so it belongs under the heading that introduces the principle itself; the current placement under 'Revi'is Exception' splits a single continuous quote across two sections.",
+      "chosen_heading": "Reish Lakish Principle",
+      "current_heading": "Revi'is Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Cow Drinkability Test",
+    "candidates": [
+      "Gemara Questions",
+      "Cow Drinkability Test",
+      "Water-Origin Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces the question 'to exclude what?' and immediately tests liquefied clay, which matches the 'Gemara Questions' section's prose about asking *limutei mai* and testing *tit ha-nerok*, whereas the 'Cow Drinkability Test' heading's prose describes the criterion and its implications as already established \u2014 yet the passage itself is the gemara raising the question and applying the test, making it the transition point; however, the cow-drinkability test is fully embedded in this passage and that section's prose describes exactly this content, so current placement is also defensible \u2014 but since the passage begins with the initial question (*limutei mai*) which is the opening move described under 'Gemara Questions', and the cow test is part of the same unit, heading 0 is a slightly better match as it covers the full arc of the passage including the *tit ha-nerok* test.",
+      "chosen_heading": "Gemara Questions",
+      "current_heading": "Cow Drinkability Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Water-Origin Criteria",
+    "candidates": [
+      "Water-Origin Criteria",
+      "Natan/Natal Se'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the red gnats exclusion and the baraita of Rabban Shimon ben Gamliel about water-originating creatures, which is precisely what the 'Water-Origin Criteria' prose describes.",
+      "chosen_heading": "Water-Origin Criteria",
+      "current_heading": "Water-Origin Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Natan/Natal Se'ah",
+    "candidates": [
+      "Natan/Natal Se'ah",
+      "Mikveh Crevice Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's ruling about natan se'ah v'natal se'ah and Rabbi Yochanan's extension up to the majority, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Natan/Natal Se'ah",
+      "current_heading": "Natan/Natal Se'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Mikveh Crevice Case",
+    "candidates": [
+      "Mikveh Crevice Case",
+      "Mikveh Waters Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's ruling about drilling a crevice in a mikveh wall and immersing needles and hooks, which is precisely what the 'Mikveh Crevice Case' prose describes.",
+      "chosen_heading": "Mikveh Crevice Case",
+      "current_heading": "Mikveh Crevice Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Mikveh Waters Valid",
+    "candidates": [
+      "Mikveh Waters Valid",
+      "Mayim Chayim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of Rabbi Yirmiah citing Reish Lakish stating that mikveh waters are valid for the kiyor, which is exactly what heading 0's prose introduces and discusses.",
+      "chosen_heading": "Mikveh Waters Valid",
+      "current_heading": "Mikveh Waters Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Mayim Chayim Dispute",
+    "candidates": [
+      "Mayim Chayim Dispute",
+      "No Modifying Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge from the baraita about washing innards with water and the a fortiori inference regarding kiyor water, which is precisely what the prose in 'Mayim Chayim Dispute' describes and analyzes.",
+      "chosen_heading": "Mayim Chayim Dispute",
+      "current_heading": "Mayim Chayim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "No Modifying Name",
+    "candidates": [
+      "No Modifying Name",
+      "Tannaim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the gemara's challenge to the 'sanctified water' interpretation, citing the baraita that excludes kiyor water due to its modifying name and concluding that the kal v'chomer must refer to water fit for the kiyor (mayim chayim) \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "No Modifying Name",
+      "current_heading": "No Modifying Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Tannaim Dispute",
+    "candidates": [
+      "Tannaim Dispute",
+      "Arel Definition",
+      "Source in Yechezkel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records the tannaim dispute about kiyor water that candidate 0's prose explicitly describes and analyzes.",
+      "chosen_heading": "Tannaim Dispute",
+      "current_heading": "Tannaim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Source in Yechezkel",
+    "candidates": [
+      "Arel Definition",
+      "Source in Yechezkel",
+      "Yechezkel's Text",
+      "Lechalel = Mechulal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Source in Yechezkel' \u2014 Rav \u1e24isda's declaration that this law comes from Yechezkel rather than the Torah of Moshe, which is precisely what that section's prose discusses.",
+      "chosen_heading": "Source in Yechezkel",
+      "current_heading": "Source in Yechezkel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Lechalel = Mechulal",
+    "candidates": [
+      "Yechezkel's Text",
+      "Lechalel = Mechulal",
+      "Ben Neichar Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks from where we derive that service is desecrated (mechulal) and cites Ezekiel 44:7 with the word l'chalel, which is precisely what the 'Lechalel = Mechulal' section's prose describes.",
+      "chosen_heading": "Lechalel = Mechulal",
+      "current_heading": "Lechalel = Mechulal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Ben Neichar Meaning",
+    "candidates": [
+      "Ben Neichar Meaning",
+      "Two Arel Categories",
+      "Aesthetic vs. Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the baraita parsing 'ben neichar' and 'arel lev/basar' terms, which is exactly what Candidate 0's prose describes as its content.",
+      "chosen_heading": "Ben Neichar Meaning",
+      "current_heading": "Ben Neichar Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Aesthetic vs. Intent",
+    "candidates": [
+      "Two Arel Categories",
+      "Aesthetic vs. Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why both 'arel basar' and 'arel lev' exclusions are necessary \u2014 exactly the aesthetic vs. intent distinction discussed in the 'Aesthetic vs. Intent' section's prose, which directly paraphrases this gemara's reasoning about mishum de'ma'is and ein libo lishmayim.",
+      "chosen_heading": "Aesthetic vs. Intent",
+      "current_heading": "Aesthetic vs. Intent",
+      "moved": false
+    }
+  }
+]

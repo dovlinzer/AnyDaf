@@ -1,0 +1,690 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Proclamation Read",
+    "candidates": [
+      "Aggadic Section Intro",
+      "King's Appointment",
+      "Proclamation Read",
+      "Yehoshua's Rebuke",
+      "Thorns Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the moment Rabbi Elazar ben Rabbi Shimon was appointed by the king's palace and began arresting thieves, plus the rebuke from Rabbi Yehoshua \u2014 but the core event being narrated is the king's appointment ('karyana de-igarta ihu leihavei parvanka'), which matches heading 1 'King's Appointment' best, as heading 2 ('Proclamation Read') and heading 3 ('Yehoshua's Rebuke') split content that is all contained within this single passage.",
+      "chosen_heading": "King's Appointment",
+      "current_heading": "Proclamation Read",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Thorns Metaphor",
+    "candidates": [
+      "Yehoshua's Rebuke",
+      "Thorns Metaphor",
+      "Launderer Insult",
+      "Realizes Error",
+      "Execution & Anguish",
+      "Man Was Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the thorns-in-the-vineyard exchange AND the launderer incident, but candidate 1 ('Thorns Metaphor') explicitly describes both the kotzim defense and the yavo ba'al hakerem response as ending without resolution, and then flows into the launderer story \u2014 matching the full content of this Talmudic excerpt which covers both exchanges in sequence.",
+      "chosen_heading": "Thorns Metaphor",
+      "current_heading": "Thorns Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Man Was Wicked",
+    "candidates": [
+      "Launderer Insult",
+      "Realizes Error",
+      "Execution & Anguish",
+      "Man Was Wicked",
+      "Fat Examination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items belong under 'Man Was Wicked': item 1 covers the execution, the consolation about the man's wickedness, and item 2 covers Rabbi Elazar's response of addressing his innards with rejoicing \u2014 exactly what the 'Man Was Wicked' prose discusses in full detail.",
+      "chosen_heading": "Man Was Wicked",
+      "current_heading": "Man Was Wicked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Fat Examination",
+    "candidates": [
+      "Fat Examination",
+      "Finds Peace",
+      "Elijah Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe the fat examination procedure and its validation logic (baskets of fat, red veins not putrefying), which is precisely what the 'Fat Examination' prose section discusses in detail.",
+      "chosen_heading": "Fat Examination",
+      "current_heading": "Fat Examination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Elijah Encounter",
+    "candidates": [
+      "Finds Peace",
+      "Elijah Encounter",
+      "Elijah's Advice",
+      "Two Obese Rabbis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Elijah Encounter",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the encounter between Elijah and Rabbi Yishmael, matching candidate 1's prose about Elijah encountering him and posing the question.",
+      "second_heading": "Elijah's Advice",
+      "second_confidence": "high",
+      "second_reason": "Item 3 contains Rabbi Yishmael's response ('what can I do, it is the king's edict') and Elijah's directive to flee, which matches candidate 2's prose exactly.",
+      "current_heading": "Elijah Encounter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Two Obese Rabbis",
+    "candidates": [
+      "Elijah's Advice",
+      "Two Obese Rabbis",
+      "Matron's Challenge",
+      "Responses to Matron"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the meeting of the two obese rabbis and the oxen passing between them, which is exactly what the 'Two Obese Rabbis' section prose discusses.",
+      "chosen_heading": "Two Obese Rabbis",
+      "current_heading": "Two Obese Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Responses to Matron",
+    "candidates": [
+      "Matron's Challenge",
+      "Responses to Matron",
+      "Don't Answer Fool",
+      "Defense of Legitimacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the matron's challenge and all the responses (the wives being larger, kal v'chomer, ki k'ish gvurato, ahavah dochekes), and candidate 1's prose explicitly covers all these elements together, making it the best single home for the entire passage.",
+      "chosen_heading": "Responses to Matron",
+      "current_heading": "Responses to Matron",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Defense of Legitimacy",
+    "candidates": [
+      "Don't Answer Fool",
+      "Defense of Legitimacy",
+      "R. Yochanan Specs",
+      "Rav Pappa Compare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question about why they answered a fool and the prooftext from Proverbs 26:4, which is precisely what heading 0 ('Don't Answer Fool') describes in its prose, while the answer portion about casting aspersions on children is a single unit with the question and belongs there too.",
+      "chosen_heading": "Don't Answer Fool",
+      "current_heading": "Defense of Legitimacy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav Pappa Compare",
+    "candidates": [
+      "R. Yochanan Specs",
+      "Rav Pappa Compare",
+      "Term Interpretation",
+      "Beauty Metaphors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yishmael's organ (R. Yochanan speaking), Rabbi Yochanan's organ (Rav Pappa speaking), and Rav Pappa's own belly \u2014 all three statements are a single continuous Gemara unit that begins with Rabbi Yochanan's statement, which is what heading 0 'R. Yochanan Specs' is introducing, making it the better home for the entire passage rather than splitting it at Rav Pappa's contribution.",
+      "chosen_heading": "R. Yochanan Specs",
+      "current_heading": "Rav Pappa Compare",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Beauty Metaphors",
+    "candidates": [
+      "Term Interpretation",
+      "Beauty Metaphors",
+      "Chain of Beauty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan's beauty using the silver goblet/pomegranate/rose metaphor, which is exactly what the 'Beauty Metaphors' section's prose discusses in detail.",
+      "chosen_heading": "Beauty Metaphors",
+      "current_heading": "Beauty Metaphors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Chain of Beauty",
+    "candidates": [
+      "Chain of Beauty",
+      "Glory of Face",
+      "Mikvah Encounter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the chain of beauty (Rav Kahana \u2192 Rabbi Abbahu \u2192 Jacob \u2192 Adam) and the challenge that Rabbi Yochanan is not in it, which is precisely what Candidate 0's prose discusses, while Candidate 1 covers only the answer/resolution about hadrat panim.",
+      "chosen_heading": "Chain of Beauty",
+      "current_heading": "Chain of Beauty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Mikvah Encounter",
+    "candidates": [
+      "Glory of Face",
+      "Mikvah Encounter",
+      "Evil Eye Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan sitting at the entrance to the ritual bath so women would encounter him after immersion and conceive beautiful, learned children \u2014 exactly what the 'Mikvah Encounter' section's prose discusses in detail.",
+      "chosen_heading": "Mikvah Encounter",
+      "current_heading": "Mikvah Encounter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Evil Eye Defense",
+    "candidates": [
+      "Evil Eye Defense",
+      "Jordan Jump",
+      "Torah Strength",
+      "Beauty Belongs Women",
+      "Sister Offer",
+      "Strength Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Joseph's descendants being protected from the evil eye, which is precisely what the 'Evil Eye Defense' prose describes, including both Rabbi Abbahu's reading and Rabbi Yose bar Chanina's fish analogy.",
+      "chosen_heading": "Evil Eye Defense",
+      "current_heading": "Evil Eye Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Strength Loss",
+    "candidates": [
+      "Jordan Jump",
+      "Torah Strength",
+      "Beauty Belongs Women",
+      "Sister Offer",
+      "Strength Loss",
+      "Teaching Talmud",
+      "Kelim Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire encounter from Rabbi Yochanan bathing in the Jordan through Reish Lakish jumping in, the exchange about strength/beauty, the sister offer, and the loss of physical strength \u2014 all of which together constitute the 'Jordan Jump' scene, and the 'Jordan Jump' heading's prose explicitly introduces this whole encounter as a unit.",
+      "chosen_heading": "Jordan Jump",
+      "current_heading": "Strength Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Kelim Mishnah",
+    "candidates": [
+      "Teaching Talmud",
+      "Kelim Mishnah",
+      "Two Positions",
+      "Bandit Insult",
+      "Wounded Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the teaching of Reish Lakish (mikra, mishna, making him a great man) AND the opening of the beis midrash dispute, but the current heading 'Kelim Mishnah' already covers the dispute content in its prose, while heading 0 'Teaching Talmud' explicitly discusses the teaching transformation AND notes it led to him becoming a great talmid chacham \u2014 however, the passage's second half about the sword/knife/dagger baraita is clearly what 'Kelim Mishnah' (index 1) is about, and the current placement under index 1 captures the full quoted text including both the teaching summary and the dispute opening, making index 1 the better single home since its prose explicitly addresses both the 'gavra rabba' result and the Kelim dispute content together.",
+      "chosen_heading": "Teaching Talmud",
+      "current_heading": "Kelim Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Wounded Response",
+    "candidates": [
+      "Two Positions",
+      "Bandit Insult",
+      "Wounded Response",
+      "Divine Closeness",
+      "Anguish Causes Illness",
+      "Wife's Pleas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 the two positions on completion of manufacture (Rabbi Yochanan vs. Reish Lakish), the bandit insult, the wounded response, and Rabbi Yochanan's defense about Divine Presence \u2014 and belongs under a single heading that encompasses the full exchange, with 'Two Positions' being the first heading that introduces this entire unit of gemara.",
+      "chosen_heading": "Two Positions",
+      "current_heading": "Wounded Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Wife's Pleas",
+    "candidates": [
+      "Divine Closeness",
+      "Anguish Causes Illness",
+      "Wife's Pleas",
+      "Reish Lakish Dies",
+      "Consolation Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Yochanan's sister pleading for her children and widowhood, and Rabbi Yochanan responding with the Jeremiah verse \u2014 exactly what the 'Wife's Pleas' prose describes.",
+      "chosen_heading": "Wife's Pleas",
+      "current_heading": "Wife's Pleas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Consolation Attempt",
+    "candidates": [
+      "Reish Lakish Dies",
+      "Consolation Attempt",
+      "Lament Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Reish Lakish's death and Rabbi Yochanan's initial grief, which matches the 'Reish Lakish Dies' section's prose about his death and subsequent anguish, while the 'Consolation Attempt' section's prose begins mid-passage by quoting the Aramaic and explaining the rabbis' plan \u2014 suggesting the full passage including the setup belongs under heading 0.",
+      "chosen_heading": "Reish Lakish Dies",
+      "current_heading": "Consolation Attempt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Lament Challenge",
+    "candidates": [
+      "Consolation Attempt",
+      "Lament Challenge",
+      "Value Opposition",
+      "Recognition",
+      "Rending Garments",
+      "Loses Mind",
+      "Prayer for Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose summarizes: Rabbi Elazar sitting before Rabbi Yochanan, bringing baraita support, and Rabbi Yochanan's lament comparing him unfavorably to Reish Lakish's 24 challenges.",
+      "chosen_heading": "Lament Challenge",
+      "current_heading": "Lament Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Prayer for Death",
+    "candidates": [
+      "Value Opposition",
+      "Recognition",
+      "Rending Garments",
+      "Loses Mind",
+      "Prayer for Death",
+      "Lost Trust",
+      "Accepts Afflictions",
+      "Boils Accept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan going around weeping and calling out 'where are you Bar Lakish,' losing his mind, the rabbis praying for mercy, and his death \u2014 the prose under 'Loses Mind' (index 3) explicitly discusses the crying, the calling out, and the loss of mind, making it the best match for the full quoted passage including the prayer for death which follows immediately in the same textual unit.",
+      "chosen_heading": "Loses Mind",
+      "current_heading": "Prayer for Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Boils Accept",
+    "candidates": [
+      "Lost Trust",
+      "Accepts Afflictions",
+      "Boils Accept",
+      "Wife Abandons",
+      "Sailors Arrive"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Accepts Afflictions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the physical afflictions Rabbi Elazar accepted and his wife's daily preparations, which match heading 'Accepts Afflictions'/'Boils Accept' \u2014 but the prose of 'Accepts Afflictions' (index 1) says 'The Gemara will describe exactly what it entailed,' making it the intended home for items 1-2 which deliver that description, while the current placement (index 2) already has its own prose summarizing this same content.",
+      "second_heading": "Wife Abandons",
+      "second_confidence": "high",
+      "second_reason": "Item 3 describes the wife overhearing Rabbi Elazar welcoming his afflictions and rebelling to go to her father's house, which matches exactly the prose of heading 'Wife Abandons' (index 3).",
+      "current_heading": "Boils Accept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Sailors Arrive",
+    "candidates": [
+      "Wife Abandons",
+      "Sailors Arrive",
+      "Storm Oath",
+      "Care Received",
+      "Wealth Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the sixty sailors arriving, bringing sixty servants with sixty purses and sixty types of relish, which directly matches the 'Sailors Arrive' section's prose about sixty sailors presenting sixty slaves with sixty wallets.",
+      "chosen_heading": "Sailors Arrive",
+      "current_heading": "Sailors Arrive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Wealth Reversal",
+    "candidates": [
+      "Storm Oath",
+      "Care Received",
+      "Wealth Reversal",
+      "Blood Samples",
+      "Sixty Males"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly depicts the wealth reversal scene \u2014 the wife sending the daughter to check, Rabbi Elazar's message about 'ours being greater than theirs,' and his recitation of the Eishet Chayil verse \u2014 which is precisely what the 'Wealth Reversal' prose section describes.",
+      "chosen_heading": "Wealth Reversal",
+      "current_heading": "Wealth Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Sixty Males",
+    "candidates": [
+      "Blood Samples",
+      "Sixty Males",
+      "Named Elazar",
+      "Wife's Prevention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the ruling on sixty blood samples AND the murmuring, declaration, and male births \u2014 all of which are narrated together in the Talmudic text, and the 'Blood Samples' heading (index 0) introduces this entire episode, while the current placement under 'Sixty Males' splits the passage mid-narrative.",
+      "chosen_heading": "Blood Samples",
+      "current_heading": "Sixty Males",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Wife's Prevention",
+    "candidates": [
+      "Named Elazar",
+      "Wife's Prevention",
+      "Attic Request",
+      "Uncorrupted Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about Rabbi Yehuda HaNasi lamenting how much procreation 'this evil woman' prevented, which is precisely what the 'Wife's Prevention' section prose discusses and analyzes.",
+      "chosen_heading": "Wife's Prevention",
+      "current_heading": "Wife's Prevention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Uncorrupted Body",
+    "candidates": [
+      "Attic Request",
+      "Uncorrupted Body",
+      "Worm Appears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar's dying instructions to his wife (attic request) and the report of how long she kept him there, which together form the complete narrative discussed under 'Attic Request' \u2014 the current placement under 'Uncorrupted Body' splits this unified text away from the heading whose prose explicitly discusses these exact words and instructions.",
+      "chosen_heading": "Attic Request",
+      "current_heading": "Uncorrupted Body",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      180
+    ],
+    "current_heading": "Worm Appears",
+    "candidates": [
+      "Uncorrupted Body",
+      "Worm Appears",
+      "Heavenly Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose discusses: the worm emerging from his ear, her distress, his dream appearance, and the explanation about not protesting the insult to a Torah scholar.",
+      "chosen_heading": "Worm Appears",
+      "current_heading": "Worm Appears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      183
+    ],
+    "current_heading": "Heavenly Judgment",
+    "candidates": [
+      "Heavenly Judgment",
+      "Proper Burial",
+      "Rabbis Intervene",
+      "Village Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the voice-from-the-attic adjudication scene AND the neighbor's curse/rabbis' reaction, which maps precisely to headings 0 and 1 together, but since the passage is a single item it must go under one heading \u2014 and heading 0's prose explicitly covers both the legal rulings and notes 'the Gemara records it without apparent skepticism,' while heading 1's prose separately addresses only the quarrel/burial decision; however, re-examining, the passage covers the full arc from adjudication through the quarrel to the rabbis' decision, and heading 0 currently holds it and its prose addresses the adjudication portion while acknowledging the broader context, making it the best single home given the current placement matches the opening content of the passage.",
+      "chosen_heading": "Heavenly Judgment",
+      "current_heading": "Heavenly Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      191
+    ],
+    "current_heading": "Village Protection",
+    "candidates": [
+      "Proper Burial",
+      "Rabbis Intervene",
+      "Village Protection",
+      "Erev Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon bar Yochai appearing in a dream to tell the rabbis to bring his son for burial, which matches exactly the prose of 'Rabbis Intervene' \u2014 not 'Village Protection,' which focuses on the townspeople's refusal to allow removal.",
+      "chosen_heading": "Rabbis Intervene",
+      "current_heading": "Village Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      194
+    ],
+    "current_heading": "Erev Yom Kippur",
+    "candidates": [
+      "Village Protection",
+      "Erev Yom Kippur",
+      "Snake Miracle",
+      "Final Burial",
+      "Marriage Proposal",
+      "Vessel Metaphor",
+      "Weapons Pouch",
+      "Greater Deeds",
+      "Afflictions Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Erev Yom Kippur opportunity and the removal of the bier to the father's cave, which matches exactly the prose of candidate 1 ('Erev Yom Kippur'), even though it also touches on the snake miracle \u2014 the snake element is a continuation within the same narrative unit but the primary content aligns with the current placement.",
+      "chosen_heading": "Erev Yom Kippur",
+      "current_heading": "Erev Yom Kippur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      210
+    ],
+    "current_heading": "Afflictions Counter",
+    "candidates": [
+      "Snake Miracle",
+      "Final Burial",
+      "Marriage Proposal",
+      "Vessel Metaphor",
+      "Weapons Pouch",
+      "Greater Deeds",
+      "Afflictions Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the entire marriage proposal exchange \u2014 from Rabbi's initial approach through the vessel metaphor, the weapons adage, Rabbi's counter about deeds, and the widow's final response about afflictions \u2014 and should sit under the 'Marriage Proposal' heading which introduces this whole episode, rather than being split across multiple sub-headings.",
+      "chosen_heading": "Marriage Proposal",
+      "current_heading": "Afflictions Counter",
+      "moved": true
+    }
+  }
+]

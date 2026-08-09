@@ -1,0 +1,182 @@
+[
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Shchiv Mera Hoda'ah",
+    "candidates": [
+      "Kol vs. Miktzat Nechasav",
+      "Amar Chozer Principle",
+      "Hedkesh Case",
+      "Hefker Case",
+      "Tzedakah Case",
+      "Psychology & Rashbam",
+      "Valid Gift Terms",
+      "Inheritance Language",
+      "Rabbi Yochanan Exception",
+      "Yehana Bahen Question",
+      "Other Ambiguous Terms",
+      "Teiku & Lo Kana",
+      "Machar Kol Nechasav",
+      "Devarim Shebalev Issue",
+      "Rav's Teaching",
+      "Shchiv Mera Hoda'ah",
+      "Issur Giyora Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 14,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda citing Rav's two seemingly contradictory rulings about whether a shchiv mera who sold all his property can retract upon recovery, and reconciles them based on whether the proceeds were used to pay debts or remain on hand \u2014 exactly what the prose under 'Rav's Teaching' describes.",
+      "chosen_heading": "Rav's Teaching",
+      "current_heading": "Shchiv Mera Hoda'ah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Issur Giyora Story",
+    "candidates": [
+      "Shchiv Mera Hoda'ah",
+      "Issur Giyora Story",
+      "Rava's Dilemma",
+      "Matnat Like Inheritance",
+      "No Patrilineal Heir",
+      "Failed Kinyan Methods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shchiv Mera Hoda'ah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dilemma of shchiv mera shehoda and introduces the Issur Giyora story as the Gemara's response, which fits squarely under 'Shchiv Mera Hoda'ah' where the essay prose describes exactly this question and the ta shema answer.",
+      "second_heading": "Rava's Dilemma",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's reasoning about how Rav Mari cannot acquire the money via inheritance or matnat shchiv mera, which matches 'Rava's Dilemma' whose prose explicitly discusses Rava working through the legal avenues and the inheritance problem.",
+      "current_heading": "Issur Giyora Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Failed Kinyan Methods",
+    "candidates": [
+      "Rava's Dilemma",
+      "Matnat Like Inheritance",
+      "No Patrilineal Heir",
+      "Failed Kinyan Methods",
+      "Udita Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly enumerates the failed kinyan methods (meshicha, chalipin, agav karka, ma'amad shelishtan), which is exactly what the 'Failed Kinyan Methods' prose section describes.",
+      "chosen_heading": "Failed Kinyan Methods",
+      "current_heading": "Failed Kinyan Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Udita Solution",
+    "candidates": [
+      "Udita Solution",
+      "Issur's Admission",
+      "Rava's Reaction",
+      "Rava Apologetics",
+      "Debt vs. Property",
+      "Kinyan Udita",
+      "Shayar Karka Rule",
+      "Kidei Parnasaso"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ika's proposal of the udita solution, the emergence of the document, and Rava's angry reaction \u2014 all three events are narrated together in the Gemara, and the current heading 'Udita Solution' with its prose about Rav Ika bar Rav Ami proposing the kinyan udita mechanism is the best fit, even though the reaction is mentioned, since the passage is one continuous unit describing the proposal and its immediate consequence.",
+      "chosen_heading": "Udita Solution",
+      "current_heading": "Udita Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Kidei Parnasaso",
+    "candidates": [
+      "Issur's Admission",
+      "Rava's Reaction",
+      "Rava Apologetics",
+      "Debt vs. Property",
+      "Kinyan Udita",
+      "Shayar Karka Rule",
+      "Kidei Parnasaso",
+      "Rabbi Zeira Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about 'how much is kol shehu' and the answers of Rav Yehuda/Rav (karka kidei parnasaso) and Rav Yirmiya bar Abba (metaltelim kidei parnasaso), which is precisely what the 'Kidei Parnasaso' section's prose describes.",
+      "chosen_heading": "Kidei Parnasaso",
+      "current_heading": "Kidei Parnasaso",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Rabbi Zeira Reading",
+    "candidates": [
+      "Rabbi Zeira Reading",
+      "Rav Yosef Challenge",
+      "Abaye's Precedent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Zeira Reading",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Zeira praising the precision of the elders' halakhic statements, which matches heading 0's prose describing Rabbi Zeira articulating the rationale and praising the teaching as 'kama mechavnin shemaata desavei.'",
+      "second_heading": "Rav Yosef Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's sharp objection challenging what is so precise about the statements, which matches heading 1's prose describing Rav Yosef objecting with 'umai kavanaso' and pointing out the two liberties taken with the Mishnah's language.",
+      "current_heading": "Rabbi Zeira Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Abaye's Precedent",
+    "candidates": [
+      "Rav Yosef Challenge",
+      "Abaye's Precedent",
+      "Why Karka Mentioned",
+      "Kol Shehu Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's challenge using the slave-freeing Mishnah, Rav Dimi bar Yosef's ruling about movable property and the slave, and Rav Yosef's reply explaining why 'karka' was used contextually \u2014 are precisely the content described in the 'Abaye's Precedent' prose, which covers Abaye's proof, the Rav Dimi bar Yosef teaching about metaltelim and the slave, and the contextual explanation for the Mishnah's use of 'karka'.",
+      "chosen_heading": "Abaye's Precedent",
+      "current_heading": "Abaye's Precedent",
+      "moved": false
+    }
+  }
+]

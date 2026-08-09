@@ -1,0 +1,240 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Metzora/Nazir Shaving",
+    "candidates": [
+      "Metzora/Nazir Shaving",
+      "Rami's Question",
+      "Shechita/Milah Analogy",
+      "Depilatory vs. Razor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's dilemma about whether the four shavings are required as a formal mitzva or merely to remove impure hair, which is precisely what the 'Rami's Question' section's prose describes.",
+      "chosen_heading": "Rami's Question",
+      "current_heading": "Metzora/Nazir Shaving",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Depilatory vs. Razor",
+    "candidates": [
+      "Rami's Question",
+      "Shechita/Milah Analogy",
+      "Depilatory vs. Razor",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the nafka minah of whether a depilatory suffices versus a razor, which is precisely what the 'Depilatory vs. Razor' section's prose discusses.",
+      "chosen_heading": "Depilatory vs. Razor",
+      "current_heading": "Depilatory vs. Razor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Hakutim Intro",
+      "Non-Jews Excluded",
+      "Women/Slaves Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's resolution using the four shavings argument, which matches exactly the prose in candidate 0 describing Rava's answer about four shavings and the mitzva conclusion.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Women/Slaves Status",
+    "candidates": [
+      "Hakutim Intro",
+      "Non-Jews Excluded",
+      "Women/Slaves Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The 'Hadran' formula marks the conclusion of a chapter/tractate section, and given it references 'Shnei Nezirim' (the previous perek), it serves as a transition marker that logically precedes the introduction to the new final perek (Hakutim), making it belong under the Hakutim Intro heading rather than under Women/Slaves Status.",
+      "chosen_heading": "Hakutim Intro",
+      "current_heading": "Women/Slaves Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Women/Slaves Status",
+    "candidates": [
+      "Women/Slaves Status",
+      "Bnei Yisrael Exegesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introduces all three rulings (gentiles, women, slaves) but the current section's prose specifically focuses on the stringency distinguishing women from slaves (master can force slave but husband cannot force wife), which is exactly what the latter half of this mishna discusses, making it the correct placement.",
+      "chosen_heading": "Women/Slaves Status",
+      "current_heading": "Women/Slaves Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Bnei Yisrael Exegesis",
+    "candidates": [
+      "Bnei Yisrael Exegesis",
+      "Erchin Half-Status",
+      "Father Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover the gemara's derivation that gentiles lack naziriteship (from 'Daber el Bnei Yisrael'), why slaves need a separate verse, and the erchin parallel \u2014 exactly the content described in the 'Bnei Yisrael Exegesis' prose.",
+      "chosen_heading": "Bnei Yisrael Exegesis",
+      "current_heading": "Bnei Yisrael Exegesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Father Concept",
+    "candidates": [
+      "Erchin Half-Status",
+      "Father Concept",
+      "No Tumah = No Nezirut",
+      "Parah Adumah Source",
+      "Tahara-Tumah Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain discussing the exclusion of non-Jews from nezirut via l'aviv ul'imo lo yitama \u2014 first rejecting the 'no father' reading via inheritance, then rejecting the kibbud av reading, then arriving at the tumah framework \u2014 which matches exactly the 'Father Concept' prose that walks through these successive rejections and ends with the tumah category, while 'No Tumah = No Nezirut' and 'Parah Adumah Source' cover the subsequent derivations.",
+      "chosen_heading": "Father Concept",
+      "current_heading": "Father Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Tahara-Tumah Link",
+    "candidates": [
+      "No Tumah = No Nezirut",
+      "Parah Adumah Source",
+      "Tahara-Tumah Link",
+      "Nachala Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge-and-response sequence about whether the parah adumah verse merely excludes karet vs. tumah entirely, and then whether taharah-tumah linkage still leaves tumah possible \u2014 exactly what the 'Tahara-Tumah Link' prose describes with vehizah hatahor al hatamei and veha'ish asher yitma velo yitchata.",
+      "chosen_heading": "Tahara-Tumah Link",
+      "current_heading": "Tahara-Tumah Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Nachala Alternative",
+    "candidates": [
+      "Nachala Alternative",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav A\u1e25a bar Ya'akov's derivation from the verse about bequeathing slaves to children, which is precisely the content described in the 'Nachala Alternative' prose section.",
+      "chosen_heading": "Nachala Alternative",
+      "current_heading": "Nachala Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Rava's Logic",
+      "Half-Status Hypotheticals",
+      "Child Nezirut"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Logic",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is Rav A\u1e25a bar Ya'akov's inheritance-based argument and the objection about slaves, which belongs under 'Rava's Logic' as the setup that Rava's argument displaces.",
+      "second_heading": "Half-Status Hypotheticals",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 are Rava's full argument about why the erchin analogy fails and the subsequent half-status hypotheticals (nezirut olam, vowing for one's child), which match precisely the prose of 'Rava's Logic' (items 2\u20134) and 'Half-Status Hypotheticals' (items 5\u20136) \u2014 but since items 2\u20134 are already under 'Rava's Logic' and items 5\u20136 discuss the hypotheticals dismissed by Rabbi Yo\u1e25anan, the structural seam falls after item 4, making items 5\u20136 belong under 'Half-Status Hypotheticals'.",
+      "current_heading": "Rava's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Child Nezirut",
+    "candidates": [
+      "Half-Status Hypotheticals",
+      "Child Nezirut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the suggestion that Bnei Yisrael excludes non-Jews from megalchin al nezirut avihem and Rabbi Yochanan's response that this is halacha l'Moshe miSinai, which is precisely what the 'Child Nezirut' prose describes as the third suggestion in Rava's argument.",
+      "chosen_heading": "Child Nezirut",
+      "current_heading": "Child Nezirut",
+      "moved": false
+    }
+  }
+]

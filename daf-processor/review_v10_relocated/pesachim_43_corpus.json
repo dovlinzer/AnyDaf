@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Women's Cosmetics",
+    "candidates": [
+      "Intro: Chametz Categories",
+      "Women's Cosmetics",
+      "Grain Principle",
+      "Specifics vs. Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss women's cosmetic preparations (tipulei nashim), the depilatory practices by class, and the identity of shemen hamor/anpikanon \u2014 exactly the content described in the 'Women's Cosmetics' prose section.",
+      "chosen_heading": "Women's Cosmetics",
+      "current_heading": "Women's Cosmetics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Specifics vs. Rule",
+    "candidates": [
+      "Grain Principle",
+      "Specifics vs. Rule",
+      "Kutach Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the general grain principle and Rabbi Yehoshua's question about why specifics were enumerated alongside it, which perfectly matches the 'Specifics vs. Rule' section's prose discussing exactly this tension and the answer about becoming familiar with names.",
+      "chosen_heading": "Specifics vs. Rule",
+      "current_heading": "Specifics vs. Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Kutach Story",
+    "candidates": [
+      "Kutach Story",
+      "Tosafot on Specifics",
+      "Conceptual Framework",
+      "Nuksha Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kutach Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the kutach story narrative that section 0's prose discusses in detail as a practical kashrut illustration.",
+      "second_heading": "Conceptual Framework",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 ('these are included in the prohibition') introduces the mishna's categorical framework that section 2's prose analyzes when discussing who holds that chametz in a mixture carries a lav rather than karet.",
+      "current_heading": "Kutach Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Nuksha Definition",
+    "candidates": [
+      "Tosafot on Specifics",
+      "Conceptual Framework",
+      "Nuksha Definition",
+      "Rabbi Meir: Se'or"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly which tanna holds that both chametz dagan gamur al yedei taaruvet and nuksha be-einei carry a lav, which is precisely the 'core analytical question' described in the 'Conceptual Framework' prose.",
+      "chosen_heading": "Conceptual Framework",
+      "current_heading": "Nuksha Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rabbi Meir: Se'or",
+    "candidates": [
+      "Nuksha Definition",
+      "Rabbi Meir: Se'or",
+      "Burning vs. Dogs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda/Rav's attribution of the nuksha category to Rabbi Meir via a baraita about se'or, which is exactly what the 'Rabbi Meir: Se'or' section's prose describes.",
+      "chosen_heading": "Rabbi Meir: Se'or",
+      "current_heading": "Rabbi Meir: Se'or",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Burning vs. Dogs",
+    "candidates": [
+      "Burning vs. Dogs",
+      "Meir vs. Yehuda Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the internal contradiction within the baraita \u2014 burning implies benefit is forbidden, giving to a dog implies benefit is permitted \u2014 which is precisely what the 'Burning vs. Dogs' section's prose describes.",
+      "chosen_heading": "Burning vs. Dogs",
+      "current_heading": "Burning vs. Dogs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Meir vs. Yehuda Stages",
+    "candidates": [
+      "Meir vs. Yehuda Stages",
+      "Meir: Nuksha Lav",
+      "Rav Yehuda: Rabbi Meir",
+      "Rav Nachman: R. Eliezer",
+      "Attribution Dispute",
+      "Small Proportions",
+      "Bread Identity Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly explain how the baraita's clauses map onto Rabbi Meir's and Rabbi Yehuda's respective thresholds for se'or \u2014 burn it, give to dog, forty lashes \u2014 which is precisely what the 'Meir vs. Yehuda Stages' prose describes.",
+      "chosen_heading": "Meir vs. Yehuda Stages",
+      "current_heading": "Meir vs. Yehuda Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Bread Identity Lost",
+    "candidates": [
+      "Meir: Nuksha Lav",
+      "Rav Yehuda: Rabbi Meir",
+      "Rav Nachman: R. Eliezer",
+      "Attribution Dispute",
+      "Small Proportions",
+      "Bread Identity Lost",
+      "Kol Machmetzet",
+      "Ki Kol Ochel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meir: Nuksha Lav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the inference drawn from Rabbi Meir's position \u2014 that nuksha be-inei carries a lav, and all the more so chametz dagan gamur betaarovet \u2014 which is exactly what heading 0 ('Meir: Nuksha Lav') describes.",
+      "second_heading": "Rav Nachman: R. Eliezer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's alternative attribution to Rabbi Eliezer, citing the baraita that explicitly states chametz dagan gamur carries karet while its mixture carries a lav, which is precisely what heading 2 ('Rav Nachman: R. Eliezer') describes.",
+      "current_heading": "Bread Identity Lost",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Ki Kol Ochel",
+    "candidates": [
+      "Kol Machmetzet",
+      "Ki Kol Ochel",
+      "Machmetzet: Leavened",
+      "Kol Resolution",
+      "Women & Chametz"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Ki Kol Ochel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 cover the Rav Na\u1e25man/Rav Yehuda dispute and the baraita identifying Rabbi Eliezer's position on tarovet vs. nuksha, which is exactly what heading 1 ('Ki Kol Ochel') describes.",
+      "second_heading": "Machmetzet: Leavened",
+      "second_confidence": "high",
+      "second_reason": "Items 7-12 cover the biblical derivation of Rabbi Eliezer's ruling from 'machmetzes' and 'kol,' the external leavening agent baraita, and the revision that 'kol' is the true source, matching heading 2 ('Machmetzet: Leavened') precisely.",
+      "current_heading": "Ki Kol Ochel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Women & Chametz",
+    "candidates": [
+      "Machmetzet: Leavened",
+      "Kol Resolution",
+      "Women & Chametz",
+      "Kol Expands What?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items directly discuss the inclusion of women in the chametz prohibition and matzah obligation \u2014 the Rav Yehuda/Rav principle, the necessity of a special verse due to the chametz-matzah linkage, and Rabbi Eliezer's derivation that women are obligated in matzah \u2014 which is precisely what the 'Women & Chametz' prose describes.",
+      "chosen_heading": "Women & Chametz",
+      "current_heading": "Women & Chametz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Kol Expands What?",
+    "candidates": [
+      "Kol Expands What?",
+      "Chelev Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge and resolution about whether 'kol' in the karet verse expands eaters (people) or objects eaten (mixtures), which is precisely what the 'Kol Expands What?' section's prose describes.",
+      "chosen_heading": "Kol Expands What?",
+      "current_heading": "Kol Expands What?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Chelev Analogy",
+    "candidates": [
+      "Chelev Analogy",
+      "Context-Dependent Kol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about chelev (forbidden fat) and Rav Natan's objection using it, which is precisely what the 'Chelev Analogy' prose describes \u2014 the drashah from 'ki kol ochel chelev' that expands the objects rather than the eaters.",
+      "chosen_heading": "Chelev Analogy",
+      "current_heading": "Chelev Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Context-Dependent Kol",
+    "candidates": [
+      "Context-Dependent Kol",
+      "Rabbanan: No Betaarovet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Context-Dependent Kol",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's answer explaining context-dependent application of kol \u2014 exactly what the 'Context-Dependent Kol' prose describes.",
+      "second_heading": "Rabbanan: No Betaarovet",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the Rabbanan's position that they do not interpret kol at all and asks how they derive women's inclusion \u2014 precisely what the 'Rabbanan: No Betaarovet' prose discusses.",
+      "current_heading": "Context-Dependent Kol",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Rabbanan: No Betaarovet",
+    "candidates": [
+      "Rabbanan: No Betaarovet",
+      "Eliezer: Both Inclusions",
+      "Se'or & Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items address Rabbi Eliezer's use of 'kol' vs. 'ki kol' to derive two separate inclusions (women and betaarovet), which is precisely what the 'Eliezer: Both Inclusions' prose describes.",
+      "chosen_heading": "Eliezer: Both Inclusions",
+      "current_heading": "Rabbanan: No Betaarovet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Se'or & Korban",
+    "candidates": [
+      "Eliezer: Both Inclusions",
+      "Se'or & Korban",
+      "Unsolved Problem",
+      "Two Categories Recap",
+      "Rabbanan: No Prohibition",
+      "Eliezer: Two Rationales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita about se'or bal taktiru and the Gemara's observation that Rabbi Eliezer derives from both kol and ki kol in the sacrificial context, which is exactly what candidate 1's prose describes.",
+      "chosen_heading": "Se'or & Korban",
+      "current_heading": "Se'or & Korban",
+      "moved": false
+    }
+  }
+]

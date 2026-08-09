@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mishnah categories",
+    "candidates": [
+      "Overview & context",
+      "Mishnah categories",
+      "Gemara interprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text itself presenting the four/five categories of obligation by gender, which is precisely what the 'Mishnah categories' prose describes in detail, including the specific formulations and the three exceptions (bal takif, bal tashchit, bal titama lametim) that appear in item 2.",
+      "chosen_heading": "Mishnah categories",
+      "current_heading": "Mishnah categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Gemara interprets",
+    "candidates": [
+      "Gemara interprets",
+      "Kibbud av va'em",
+      "Five obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question about the meaning of 'kol mitzvot haben al ha'av' and Rav Yehuda's resolution \u2014 exactly the content described in candidate 0's prose about the Gemara asking what the phrase means and Rav Yehuda reframing it.",
+      "chosen_heading": "Gemara interprets",
+      "current_heading": "Gemara interprets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Five obligations",
+    "candidates": [
+      "Kibbud av va'em",
+      "Five obligations",
+      "R. Yehuda on trade",
+      "Father's obligation",
+      "Fallback obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the list of five paternal obligations (circumcision, redemption, Torah, marriage, trade, swimming) and Rabbi Yehuda's banditry statement, which together are discussed under the 'Five obligations' heading \u2014 the current placement \u2014 whose prose explicitly covers both elements of this baraita.",
+      "chosen_heading": "Five obligations",
+      "current_heading": "Five obligations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Fallback obligations",
+    "candidates": [
+      "R. Yehuda on trade",
+      "Father's obligation",
+      "Fallback obligations",
+      "Women excluded",
+      "Tanaic proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father's obligation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 establishes the father's obligation and the fallback hierarchy (father \u2192 court \u2192 self), which matches candidate 1's prose about deriving the father's obligation from Abraham circumcising Isaac and the fallback structure \u2014 but candidate 2's prose also covers the hierarchy in detail; however, candidate 1 explicitly says 'The Gemara now unpacks each obligation in turn' and 'Abraham's act establishes the paradigm,' which is precisely what item 1 begins with, and candidate 2's prose already summarizes the full hierarchy as its own discussion, making candidate 1 the better home for item 1 alone.",
+      "second_heading": "Women excluded",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives the mother's exemption from 'oso v'lo osa,' which matches candidate 3's prose exactly: 'How do we know that the mother bears no obligation? D'ksiv kaasher tziva oso Elohim\u2026 oso v'lo osa: him and not her.'",
+      "current_heading": "Fallback obligations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Tanaic proof",
+    "candidates": [
+      "Women excluded",
+      "Tanaic proof",
+      "Hierarchy of duty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses how the mitzva applies to future generations via the school of Rabbi Yishmael's teaching about 'tzav' signaling both immediacy and multigenerational applicability, which is precisely what the 'Tanaic proof' section discusses.",
+      "chosen_heading": "Tanaic proof",
+      "current_heading": "Tanaic proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Hierarchy of duty",
+    "candidates": [
+      "Hierarchy of duty",
+      "Bidirectional logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bidirectional logic",
+      "first_confidence": "low",
+      "first_reason": "Item 1 discusses the word 'command' indicating galvanization and application across generations, which doesn't match any candidate's prose well, but candidate 1 ('Bidirectional logic') is the least mismatched among options \u2014 however, this item appears to belong to an earlier section not listed here, so defaulting to the nearest candidate.",
+      "second_heading": "Hierarchy of duty",
+      "second_confidence": "high",
+      "second_reason": "Item 2 directly matches the 'Hierarchy of duty' prose, which explicitly discusses the obligation to redeem one's son from kol bechor banecha tifdeh and the hierarchy where the son must redeem himself if the father fails, citing padoh tifdeh.",
+      "current_heading": "Hierarchy of duty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Bidirectional logic",
+    "candidates": [
+      "Bidirectional logic",
+      "Logical deduction",
+      "Daughters excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly establishes the bidirectional principle (tifde/tippadeh) that whoever is not commanded to redeem themselves is not commanded to redeem others, which is precisely what the 'Bidirectional logic' prose section describes.",
+      "chosen_heading": "Bidirectional logic",
+      "current_heading": "Bidirectional logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Daughters excluded",
+    "candidates": [
+      "Logical deduction",
+      "Daughters excluded",
+      "Self first"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the self-redemption principle (tifdeh/tippadeh) and the exclusion of daughters, but the prose of candidate 0 ('Logical deduction') directly describes and quotes the specific Gemara reasoning about the self-redemption obligation being tied to others' obligation, while candidate 1 treats daughters as foundational conclusion \u2014 yet the Gemara passage itself leads with the self-redemption derivation first, matching candidate 0's framing, and candidate 0's prose explicitly asks 'how do we know a woman is not obligated to redeem herself?' which is precisely the question opening this Gemara passage.",
+      "chosen_heading": "Logical deduction",
+      "current_heading": "Daughters excluded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Self first",
+    "candidates": [
+      "Daughters excluded",
+      "Self first",
+      "R. Yehuda: son first",
+      "Five sela'im case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita stating that the man takes precedence over his son (the first tanna's view) and Rabbi Yehuda's dissent that the son comes first \u2014 the current placement under 'Self first' covers the full baraita including both opinions, and the prose explicitly describes this exact text.",
+      "chosen_heading": "Self first",
+      "current_heading": "Self first",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Five sela'im case",
+    "candidates": [
+      "R. Yehuda: son first",
+      "Five sela'im case",
+      "Ten sela'im lien"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yirmiyahu's statement that everyone agrees when only five sela'im are available the father redeems himself first, and then introduce the lien dispute \u2014 exactly what candidate 1's prose describes as Rav Yirmiyahu's reframing, making the current placement correct.",
+      "chosen_heading": "Five sela'im case",
+      "current_heading": "Five sela'im case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Ten sela'im lien",
+    "candidates": [
+      "Ten sela'im lien",
+      "Son redeemed first",
+      "R. Yehuda rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Rabbi Yehuda / Rabbis dispute about whether a Torah-written loan creates a property lien (milveh haktuva baTorah), which is precisely the content described in the 'Ten sela'im lien' prose section.",
+      "chosen_heading": "Ten sela'im lien",
+      "current_heading": "Ten sela'im lien",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "R. Yehuda rationale",
+    "candidates": [
+      "Son redeemed first",
+      "R. Yehuda rationale",
+      "Verse order logic",
+      "Plural sons proof",
+      "Peter rechem logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita dispute (Rabbis vs. R. Yehuda) and the Gemara's explanation of the Rabbis' rationale \u2014 all of which is introduced by heading 0's prose about the competing obligations case and the majority view to redeem first, making heading 0 the natural home for the entire passage including R. Yehuda's counter-position and the verse-order proof.",
+      "chosen_heading": "Son redeemed first",
+      "current_heading": "R. Yehuda rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Peter rechem logic",
+    "candidates": [
+      "Verse order logic",
+      "Plural sons proof",
+      "Peter rechem logic",
+      "Father teaches son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete unit of the baraita plus its question-and-answer (the obvious objection from peter rechem and the resolution via reishis ono), which is precisely what the 'Peter rechem logic' prose describes in full.",
+      "chosen_heading": "Peter rechem logic",
+      "current_heading": "Peter rechem logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Father teaches son",
+    "candidates": [
+      "Father teaches son",
+      "Sons not daughters",
+      "Learn-teach logic",
+      "Women's exemption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father teaches son",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about the father's obligation to teach his son Torah and the son's obligation to teach himself if the father did not \u2014 exactly what candidate 0's prose describes.",
+      "second_heading": "Learn-teach logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives the mother's exemption from teaching Torah using the bidirectional learn-teach logic \u2014 exactly what candidate 2's prose ('whoever is obligated to learn is obligated to teach; whoever is not obligated to learn is not obligated to teach') describes.",
+      "current_heading": "Father teaches son",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Women's exemption",
+    "candidates": [
+      "Sons not daughters",
+      "Learn-teach logic",
+      "Women's exemption",
+      "Modern discourse",
+      "Sinai context",
+      "Self first",
+      "R. Yehuda condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives a woman's exemption from self-teaching using the bidirectional logic (if others aren't obligated to teach you, you aren't obligated to teach yourself) and the 'sons not daughters' verse, which matches exactly the prose of candidate 2 ('Women's exemption').",
+      "chosen_heading": "Women's exemption",
+      "current_heading": "Women's exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "R. Yehuda condition",
+    "candidates": [
+      "Modern discourse",
+      "Sinai context",
+      "Self first",
+      "R. Yehuda condition",
+      "Rav Yaakov story",
+      "Demon episode"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about self vs. son priority AND Rabbi Yehuda's refinement AND the Rav Yaakov story \u2014 it is one continuous unit that should sit under the 'Self first' heading where the Gemara first introduces the self-versus-son framework for Talmud Torah, since headings 3 and 4 are meant to be discussed by the essay prose separately rather than introduced by this single quoted block.",
+      "chosen_heading": "Self first",
+      "current_heading": "R. Yehuda condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Demon episode",
+    "candidates": [
+      "Rav Yaakov story",
+      "Demon episode",
+      "Duties recap",
+      "Gender patterns",
+      "Balancing rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items narrate the demon/mazik episode in Abaye's beit midrash involving Rav Acha bar Ya'akov, which is precisely what the 'Demon episode' prose describes in detail.",
+      "chosen_heading": "Demon episode",
+      "current_heading": "Demon episode",
+      "moved": false
+    }
+  }
+]

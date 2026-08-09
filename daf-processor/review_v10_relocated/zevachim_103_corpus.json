@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Zachah Principle",
+    "candidates": [
+      "Zachah Principle",
+      "Psul Before Zerikah",
+      "Tame & Neveilah Cases",
+      "Olat Ish Concept",
+      "Distribution by Type",
+      "Lev 7:8 Citation",
+      "Kal Vachomer Logic",
+      "Mizbeiach Counterpoint",
+      "Olat Hekdesh Exclusion",
+      "Motarot Funds Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself establishing the foundational 'zachah' principle \u2014 that if the altar did not acquire the flesh, the kohanim do not acquire the skin \u2014 which is precisely what the 'Zachah Principle' section's prose describes and discusses.",
+      "chosen_heading": "Zachah Principle",
+      "current_heading": "Zachah Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Motarot Funds Debate",
+    "candidates": [
+      "Psul Before Zerikah",
+      "Tame & Neveilah Cases",
+      "Olat Ish Concept",
+      "Distribution by Type",
+      "Lev 7:8 Citation",
+      "Kal Vachomer Logic",
+      "Mizbeiach Counterpoint",
+      "Olat Hekdesh Exclusion",
+      "Motarot Funds Debate",
+      "Abba & Yannai: Olah+Bedek",
+      "Skin Ownership Bedek",
+      "Hamakdish Nechasav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All 11 items deal with the Gemara's discussion of the baraita's exclusions from the kohanim's entitlement to the olah's skin \u2014 specifically the 'olat ish' derashah, olat hekdesh, motarot funds, the matfis olah l'vedek ha-bayis case, and the midrash of Jehoiada \u2014 which is precisely what candidate 7 ('Olat Hekdesh Exclusion') describes, whereas candidate 8 ('Motarot Funds Debate') covers only a subset of these items and the current placement is too narrow.",
+      "chosen_heading": "Olat Hekdesh Exclusion",
+      "current_heading": "Motarot Funds Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Hamakdish Nechasav",
+    "candidates": [
+      "Abba & Yannai: Olah+Bedek",
+      "Skin Ownership Bedek",
+      "Hamakdish Nechasav",
+      "R. Eliezer View",
+      "R. Yehoshua View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the exchange where Rav Na\u1e25man asks how Rav Hamnuna interprets the verse and Rav Hamnuna answers 'I interpret it as referring to one who consecrates all his property' \u2014 this is precisely the introduction of the hamakdish nechasav case, which is what section 2's prose describes.",
+      "chosen_heading": "Hamakdish Nechasav",
+      "current_heading": "Hamakdish Nechasav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "R. Yehoshua View",
+    "candidates": [
+      "R. Eliezer View",
+      "R. Yehoshua View",
+      "Skin as Bedek Habayis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the full Mishnah dispute (Rabbi Eliezer's view in item 1, Rabbi Yehoshua's view in item 2), and the essay introduces this passage with 'in accordance with Rabbi Yehoshua,' making the R. Yehoshua View section the correct home for the complete citation that establishes his position.",
+      "chosen_heading": "R. Yehoshua View",
+      "current_heading": "R. Yehoshua View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Skin as Bedek Habayis",
+    "candidates": [
+      "Skin as Bedek Habayis",
+      "Ish Inclusivity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Skin as Bedek Habayis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Hamnuna's qualification that even Rabbi Yehoshua agrees the hide is captured by bedek ha-bayis, which is precisely what the 'Skin as Bedek Habayis' prose discusses.",
+      "second_heading": "Ish Inclusivity",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a baraita about the word 'ish' in 'olat ish' and whether it excludes converts, which matches exactly the 'Ish Inclusivity' prose about who is included in the skin-entitlement based on that word.",
+      "current_heading": "Skin as Bedek Habayis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Ish Inclusivity",
+    "candidates": [
+      "Ish Inclusivity",
+      "Olah She'alah L'ish",
+      "Shelo Lishmah Challenge",
+      "Or Ha'olah Principle",
+      "Asher Hikriv Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Ish Inclusivity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a single continuous baraita discussing olat ish, the inclusion of converts/women/slaves, the exclusion of piggul, and the restoration of entitlement for shelo lishmah \u2014 exactly matching candidates 0-3's prose flow, and since all five items are one baraita, items 1-4 belong under candidate 0 as the start of that discussion.",
+      "second_heading": "Asher Hikriv Drasha",
+      "second_confidence": "high",
+      "second_reason": "Item 5 begins a new derivation about kodshei kodashim from the phrase 'asher hikriv,' which is precisely the content described under candidate 4 'Asher Hikriv Drasha.'",
+      "current_heading": "Ish Inclusivity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Asher Hikriv Drasha",
+    "candidates": [
+      "Olah She'alah L'ish",
+      "Shelo Lishmah Challenge",
+      "Or Ha'olah Principle",
+      "Asher Hikriv Drasha",
+      "Natural Unity Assumption",
+      "Flesh-Skin Unity Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yishmael's kal vachomer argument that kohanim receive hides of kodshei kodashim because they certainly should if they receive the hide of an olah where they get no flesh \u2014 exactly what the prose in candidate 4 ('Natural Unity Assumption') describes.",
+      "chosen_heading": "Natural Unity Assumption",
+      "current_heading": "Asher Hikriv Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Flesh-Skin Unity Examples",
+    "candidates": [
+      "Natural Unity Assumption",
+      "Flesh-Skin Unity Examples",
+      "Rabbi's Position: Olah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Natural Unity Assumption",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are part of the kal vachomer dialectic and Rabbi's counterpoint about derivation, which belong under 'Natural Unity Assumption' where Rabbi Yishmael's kal vachomer and Rabbi's position on derivation are discussed.",
+      "second_heading": "Flesh-Skin Unity Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Baraita listing the practical examples of skin following flesh across different offering categories, which is precisely what the 'Flesh-Skin Unity Examples' prose describes \u2014 parim ha-nisrafim, chatat/asham/shalmei tzibbur, and kodashim kalim cases.",
+      "current_heading": "Flesh-Skin Unity Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Rabbi's Position: Olah",
+    "candidates": [
+      "Rabbi's Position: Olah",
+      "Excluded Categories",
+      "Meat vs. Skin Fitness",
+      "Bones & Skin Rights"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi's Position: Olah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the derivation that kohanim receive the hide of the olah and the exclusion of disqualified priests from receiving it, matching headings 0-2 about Rabbi's position on olah and the excluded categories/meat vs skin fitness.",
+      "second_heading": "Bones & Skin Rights",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's question about why the first tanna cited a verse rather than deriving via kal vachomer, which directly corresponds to the 'Bones & Skin Rights' prose discussing Rabbi Yishmael's use of lo yihyeh and the superfluous word enabling the gezeirah shavah.",
+      "current_heading": "Rabbi's Position: Olah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Bones & Skin Rights",
+    "candidates": [
+      "Excluded Categories",
+      "Meat vs. Skin Fitness",
+      "Bones & Skin Rights",
+      "Psul Before/After Flaying",
+      "R. Chanina Sgan View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with Rabbi Yishmael's use of 'asher hikriv' to exclude tuvul yom/mechusar kipurim/onen, and his use of 'lo yihyeh' for the gezeirah shavah linking olah and asham bones \u2014 precisely what the 'Bones & Skin Rights' prose describes.",
+      "chosen_heading": "Bones & Skin Rights",
+      "current_heading": "Bones & Skin Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "R. Chanina Sgan View",
+    "candidates": [
+      "Psul Before/After Flaying",
+      "R. Chanina Sgan View",
+      "Chachamim Counterpoint",
+      "Zerikah vs. Flaying",
+      "Abaye's Synthesis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Psul Before/After Flaying",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the before/after flaying framework along with Rabbi Chanina's testimony, which is precisely what candidate 0 ('Psul Before/After Flaying') describes in its prose.",
+      "second_heading": "R. Chanina Sgan View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rabbi Akiva's derivation from Rabbi Chanina's testimony and the Rabbis' counterpoint, which is exactly what candidate 1 ('R. Chanina Sgan View') discusses in its prose about Rabbi Akiva making explicit the implication of Rabbi Chanina's words and the Rabbis' response.",
+      "current_heading": "R. Chanina Sgan View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Abaye's Synthesis",
+    "candidates": [
+      "Chachamim Counterpoint",
+      "Zerikah vs. Flaying",
+      "Abaye's Synthesis",
+      "Rav's Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the earlier mishnah's rule that the altar's non-acquisition of flesh means the priests don't acquire the hide \u2014 even if flayed before zerikah \u2014 and attributes this to Rabbi Elazar ben Rabbi Shimon's view that blood-throwing doesn't effect acceptance for the hide independently, which is precisely the content discussed under 'Zerikah vs. Flaying' as the foundation for the apparent contradiction between the two mishnahs.",
+      "chosen_heading": "Zerikah vs. Flaying",
+      "current_heading": "Abaye's Synthesis",
+      "moved": true
+    }
+  }
+]

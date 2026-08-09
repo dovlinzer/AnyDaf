@@ -1,0 +1,342 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ulla in Kalanbo",
+    "candidates": [
+      "Ulla in Kalanbo",
+      "Scriptural Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Ulla/Kalanbo incident with Rava's challenge and Rabbi Yochanan's ruling, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Ulla in Kalanbo",
+      "current_heading": "Ulla in Kalanbo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Scriptural Examples",
+    "candidates": [
+      "Scriptural Examples",
+      "Mocking Idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of whether idol names must be written in the Torah, Rav Mesharshiyya's objection from the zav mishna mentioning Gadyon, and Ravina's answer that Gad is indeed written in Scripture \u2014 exactly what the 'Scriptural Examples' prose describes.",
+      "chosen_heading": "Scriptural Examples",
+      "current_heading": "Scriptural Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Mocking Idolatry",
+    "candidates": [
+      "Mocking Idolatry",
+      "Starving Calves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rav Na\u1e25man's ruling that mockery of idolatry is permitted, with the two proof-texts (Isaiah 46 and Hosea 10) that the 'Mocking Idolatry' prose explicitly discusses in detail.",
+      "chosen_heading": "Mocking Idolatry",
+      "current_heading": "Mocking Idolatry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Starving Calves",
+    "candidates": [
+      "Starving Calves",
+      "Sexual Freedom Motive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items (the Hosea 13:2 exposition, the starving calves explanation, Rava's correction, the list of idols from II Kings 17, and the salamander story about Hezekiah) are explicitly discussed in the 'Starving Calves' prose section, which covers every one of these passages in sequence.",
+      "chosen_heading": "Starving Calves",
+      "current_heading": "Starving Calves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Sexual Freedom Motive",
+    "candidates": [
+      "Sexual Freedom Motive",
+      "Child & Idol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Israel knew idolatry was meaningless and only worshipped idols to permit themselves forbidden sexual relations in public, which is precisely what the 'Sexual Freedom Motive' section discusses.",
+      "chosen_heading": "Sexual Freedom Motive",
+      "current_heading": "Sexual Freedom Motive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Child & Idol",
+    "candidates": [
+      "Child & Idol",
+      "Second Temple Yeitzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of objections and answers about whether Israel's idol worship was genuine attachment or merely instrumental, including the Elijah story and its resolution \u2014 exactly what the 'Child & Idol' prose describes in detail.",
+      "chosen_heading": "Child & Idol",
+      "current_heading": "Child & Idol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Second Temple Yeitzer",
+    "candidates": [
+      "Second Temple Yeitzer",
+      "Pagan Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items narrate the Talmudic aggadah about the leaders in Nehemiah's time praying to remove the yetzer hara for avodah zarah and then for sexual sin, which is precisely what the 'Second Temple Yeitzer' prose discusses in detail.",
+      "chosen_heading": "Second Temple Yeitzer",
+      "current_heading": "Second Temple Yeitzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Pagan Woman",
+    "candidates": [
+      "Pagan Woman",
+      "Savta ben Alas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the gentile woman's tour of idols, the nitzmadim/dvekim contrast in Rav Yehuda's name, and the baraita's opposing reading \u2014 are explicitly discussed together in the 'Pagan Woman' prose section, which covers exactly this material in sequence.",
+      "chosen_heading": "Pagan Woman",
+      "current_heading": "Pagan Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Savta ben Alas",
+    "candidates": [
+      "Savta ben Alas",
+      "Defecation Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the narrative incident of Sabbeta ben Alas renting his donkey to a gentile woman and entering the Peor temple, which matches exactly the prose under heading 0 ('Savta ben Alas') that narrates this same story.",
+      "chosen_heading": "Savta ben Alas",
+      "current_heading": "Savta ben Alas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Defecation Intent",
+    "candidates": [
+      "Defecation Intent",
+      "Throwing Stones",
+      "Rav Menashya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Baal Peor and Markulis cases together as a unified halachic unit, and the current heading's prose explicitly discusses both cases (the Markulis line is included in the same Mishnaic statement), making it the best single home for this combined text.",
+      "chosen_heading": "Defecation Intent",
+      "current_heading": "Defecation Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Rav Menashya",
+    "candidates": [
+      "Throwing Stones",
+      "Rav Menashya",
+      "Molech vs Idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rav Menashe/Bei Torta episode \u2014 throwing a stone at Mercury, consulting the study hall, and the ruling about removing stones \u2014 which is exactly what the 'Rav Menashya' section's prose describes in detail.",
+      "chosen_heading": "Rav Menashya",
+      "current_heading": "Rav Menashya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Molech vs Idolatry",
+    "candidates": [
+      "Molech vs Idolatry",
+      "Two Components"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Two Components",
+      "current_heading": "Molech vs Idolatry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Two Components",
+    "candidates": [
+      "Two Components",
+      "Verse Integration",
+      "Definition of Zera"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two Components",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the two required components (handing over and passing through fire) and the requirement that it be specifically to Molekh, which is precisely what heading 'Two Components' covers in its prose.",
+      "second_heading": "Verse Integration",
+      "second_confidence": "high",
+      "second_reason": "Item 3 performs the gezera shava integrating the Leviticus verse (lacking 'fire') with the Deuteronomy verse (specifying 'fire'), which is exactly what heading 'Verse Integration' describes.",
+      "current_heading": "Two Components",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Definition of Zera",
+    "candidates": [
+      "Verse Integration",
+      "Definition of Zera",
+      "Manner of Passing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items deal with the definition and scope of 'zera' \u2014 who counts as offspring for Molech liability (all children passed at once, blind/sleeping children, grandchildren, legitimate vs. flawed lineage) \u2014 which is precisely what the 'Definition of Zera' prose section discusses.",
+      "chosen_heading": "Definition of Zera",
+      "current_heading": "Definition of Zera",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Manner of Passing",
+    "candidates": [
+      "Manner of Passing",
+      "Recipients"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the manner of passing (derekh ha-avara) \u2014 Abaye's brick-row description, Rava's Purim-leaping description, and the baraita supporting Rava \u2014 exactly matching the 'Manner of Passing' prose.",
+      "chosen_heading": "Manner of Passing",
+      "current_heading": "Manner of Passing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Recipients",
+    "candidates": [
+      "Recipients",
+      "Self-Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers liability for descendants versus ancestors/siblings (son, daughter = liable; father, mother, brother, sister = exempt), which matches heading 0 'Recipients' exactly, plus a brief mention of self-passing which is the transition point \u2014 but the primary content aligns with the Recipients prose, and the self-passing line is merely the tail end of the baraita before the dedicated 'Self-Sacrifice' section takes over.",
+      "chosen_heading": "Recipients",
+      "current_heading": "Recipients",
+      "moved": false
+    }
+  }
+]

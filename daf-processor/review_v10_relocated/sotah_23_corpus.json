@@ -1,0 +1,286 @@
+[
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Intro: Mincha Burned",
+    "candidates": [
+      "Zimri & Pinchas",
+      "Broader Phenomenon",
+      "Zenut & Kina",
+      "R. Shimon: No Zechut",
+      "Public Trust Problem",
+      "Rebbi: Zechut Works",
+      "Observable Signs",
+      "Before Sanctification",
+      "After Sanctification",
+      "Intro: Mincha Burned",
+      "Confession",
+      "Witnesses",
+      "Refuses to Drink",
+      "Husband's Relations",
+      "Shared Ownership",
+      "Rashi: Beis Hadeshen",
+      "Kohenet Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intro: Mincha Burned",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 list the sota women whose mincha is burned, directly matching the 'Intro: Mincha Burned' prose which introduces 've'elu sheminchoteihen nisrafot' and explains the category of women whose mincha is burned due to the procedure becoming moot.",
+      "second_heading": "Shared Ownership",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses women married to kohanim whose mincha is burned for an entirely different reason (minchat kohen rule), directly matching the 'Shared Ownership' prose which discusses 've-chol hanesu'ot le-kohanim minchateihem nisrafot' and the husband's co-ownership principle.",
+      "current_heading": "Intro: Mincha Burned",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Kohenet Status",
+    "candidates": [
+      "Confession",
+      "Witnesses",
+      "Refuses to Drink",
+      "Husband's Relations",
+      "Shared Ownership",
+      "Rashi: Beis Hadeshen",
+      "Kohenet Status",
+      "Chalalah",
+      "Tumah Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna asking 'what is the difference between a kohen and a kohenet,' which is precisely what the 'Kohenet Status' section's prose says the mishna's discussion is organized around.",
+      "chosen_heading": "Kohenet Status",
+      "current_heading": "Kohenet Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Tumah Differences",
+    "candidates": [
+      "Chalalah",
+      "Tumah Differences",
+      "Eating Offerings",
+      "Summary: Kohenet",
+      "The Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tumah Differences",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 covers tumah and kodshei kodashim distinctions for kohenet vs kohen, matching the Tumah Differences section's prose which explicitly discusses these same rulings.",
+      "second_heading": "Summary: Kohenet",
+      "second_confidence": "low",
+      "second_reason": "Item 2 is a new mishna on man vs. woman differences (leper, nazirite vow, shaving) unrelated to the kohenet discussion; no candidate heading perfectly fits it, but it follows the kohenet summary material and is placed here as the closest available option.",
+      "current_heading": "Tumah Differences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "The Problem",
+    "candidates": [
+      "Eating Offerings",
+      "Summary: Kohenet",
+      "The Problem",
+      "R. Eliezer: Eitzim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Summary: Kohenet",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a Mishnah listing distinctions between men and women in various legal contexts (betrothal, sale, stoning, hanging, theft), which fits the 'Summary: Kohenet' section's discussion of how women lack distinct legal status compared to men.",
+      "second_heading": "The Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara baraita about women married into the priesthood having their meal-offerings burned, which is precisely what the 'The Problem' prose discusses \u2014 the legal puzzle of the minchat sotah for a woman married to a kohen, the kometz/shirayim resolution, and the tension between minchat Yisrael and minchat kohen.",
+      "current_heading": "The Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "R. Eliezer: Eitzim",
+    "candidates": [
+      "R. Eliezer: Eitzim",
+      "Tosafot's Question",
+      "R. Elazar b.R. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the question about 'bal taktiru' and Yehuda ben Rabbi Shimon ben Pazi's answer about burning le-shem eitzim in accordance with Rabbi Eliezer, which is precisely what the prose under heading 0 ('R. Eliezer: Eitzim') discusses.",
+      "chosen_heading": "R. Eliezer: Eitzim",
+      "current_heading": "R. Eliezer: Eitzim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "R. Elazar b.R. Shimon",
+    "candidates": [
+      "Tosafot's Question",
+      "R. Elazar b.R. Shimon",
+      "Rabbanan Agree",
+      "General M/F Diffs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Elazar b.R. Shimon",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita of Rabbi Elazar b. Rabbi Shimon about the kometz being offered and the remainder scattered on the beis hadeshen, which is precisely what candidate 1's prose discusses.",
+      "second_heading": "Rabbanan Agree",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states that even the Rabbis agree in the case of the sota married to a kohen, which is exactly what candidate 2's prose discusses as the Gemara's crucial concession.",
+      "current_heading": "R. Elazar b.R. Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "General M/F Diffs",
+    "candidates": [
+      "Rabbanan Agree",
+      "General M/F Diffs",
+      "Metzora Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items enumerate the halachic distinctions between male kohanim and female kohanot (mincha, chalal status, tum'at meis, kodshei kodashim), which is precisely what candidate 1 'General M/F Diffs' describes in its prose.",
+      "chosen_heading": "General M/F Diffs",
+      "current_heading": "General M/F Diffs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Metzora Hair",
+    "candidates": [
+      "Metzora Hair",
+      "Nazirite Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita deriving that 'ish' limits hair-growing and garment-rending to men while women are still subject to tzara'at tum'ah, which is precisely what the 'Metzora Hair' prose describes.",
+      "chosen_heading": "Metzora Hair",
+      "current_heading": "Metzora Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Nazirite Vow",
+    "candidates": [
+      "Nazirite Vow",
+      "Nazirite Inheritance",
+      "Father Marries Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both mishna statements (man can vow his son as nazirite, man can shave using father's offerings) with Rabbi Yochanan's 'halacha hi be-Nazir' response to each, and the current placement under 'Nazirite Vow' already addresses both halakhot together in its prose, making it the best fit.",
+      "chosen_heading": "Nazirite Vow",
+      "current_heading": "Nazirite Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Father Marries Daughter",
+    "candidates": [
+      "Nazirite Inheritance",
+      "Father Marries Daughter",
+      "Sale to Slavery",
+      "Stoning Execution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both betrothal (kiddushin) and sale of a daughter, matching headings 1 and 2, but since the text combines both topics in one unit and heading 1's prose already notes the biblical source 'et bitti natati la'ish ha-zeh' while heading 2 covers the sale separately, the current placement under 'Father Marries Daughter' (index 1) is correct as it is where the passage begins and the essay prose for index 1 matches the first half of the passage exactly.",
+      "chosen_heading": "Father Marries Daughter",
+      "current_heading": "Father Marries Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Stoning Execution",
+    "candidates": [
+      "Sale to Slavery",
+      "Stoning Execution",
+      "Hanging"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the stoning execution halakha \u2014 a man stoned naked but not a woman \u2014 which precisely matches the 'Stoning Execution' section's prose about niskal arom and the derivation from 'oto'.",
+      "chosen_heading": "Stoning Execution",
+      "current_heading": "Stoning Execution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Hanging",
+    "candidates": [
+      "Hanging",
+      "Sale for Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the law of hanging (nitlah/nitlit) and the derivation from 'oto ve-lo otah,' which is precisely what the 'Hanging' section's prose addresses.",
+      "chosen_heading": "Hanging",
+      "current_heading": "Hanging",
+      "moved": false
+    }
+  }
+]

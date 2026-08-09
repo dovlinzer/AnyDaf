@@ -1,0 +1,301 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Limbs & Mixed Blood",
+    "candidates": [
+      "Limbs & Mixed Blood",
+      "Pairs Only",
+      "Rav Dimi's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Limbs & Mixed Blood",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 are the Mishnah and its internal debates (blemished/unblemished blood mixtures, above/below the line, one-placement vs four-placements disputes between Rabbi Eliezer and Rabbi Yehoshua), which is exactly what the 'Limbs & Mixed Blood' prose describes.",
+      "second_heading": "Pairs Only",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is the Gemara's refinement of Rabbi Eliezer's position \u2014 that his leniency applies only when cups are offered two by two \u2014 which is precisely what the 'Pairs Only' prose discusses.",
+      "current_heading": "Limbs & Mixed Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rav Dimi's Challenge",
+    "candidates": [
+      "Pairs Only",
+      "Rav Dimi's Challenge",
+      "Two Cases Necessary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Dimi's objection from the Mishnah and Rabbi Yaakov's resolution (mai echad \u2014 zug echad), which is precisely what the prose under 'Rav Dimi's Challenge' describes.",
+      "chosen_heading": "Rav Dimi's Challenge",
+      "current_heading": "Rav Dimi's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Two Cases Necessary",
+    "candidates": [
+      "Two Cases Necessary",
+      "Mixed Blood Cases",
+      "Parah Adumah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the classic vetzricha argument explaining why both the limbs case and the blood case must be stated independently \u2014 exactly what the 'Two Cases Necessary' prose describes.",
+      "chosen_heading": "Two Cases Necessary",
+      "current_heading": "Two Cases Necessary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Parah Adumah Case",
+    "candidates": [
+      "Mixed Blood Cases",
+      "Parah Adumah Case",
+      "Chachamim Position",
+      "Yesh Bilah Principle",
+      "Rabbi Eliezer Deduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the Mishnah from Parah about a flask of purification water into which ordinary water fell, which is precisely what the 'Parah Adumah Case' section's prose describes and introduces.",
+      "chosen_heading": "Parah Adumah Case",
+      "current_heading": "Parah Adumah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Rabbi Eliezer Deduction",
+    "candidates": [
+      "Chachamim Position",
+      "Yesh Bilah Principle",
+      "Rabbi Eliezer Deduction",
+      "Reish Lakish View",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Eliezer Deduction",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the Rabbanan's position and the deductive proof of Rabbi Eliezer's three positions, which is precisely what the 'Rabbi Eliezer Deduction' prose describes.",
+      "second_heading": "Reish Lakish View",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Reish Lakish's statement that the mixture is one-to-one, which matches exactly the 'Reish Lakish View' prose.",
+      "current_heading": "Rabbi Eliezer Deduction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Reish Lakish View",
+      "Rava's Position",
+      "Rav Ashi's Approach",
+      "Braita on Small Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's statement that there is mixing but sprinkling requires no minimum measure, and that the double sprinkling is a rabbinic penalty \u2014 exactly matching the prose of 'Rava's Position.'",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Braita on Small Amount",
+    "candidates": [
+      "Rav Ashi's Approach",
+      "Braita on Small Amount",
+      "Braita Mixed Blood"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi's Approach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Ashi's 'ein bilah' position, which is precisely what the 'Rav Ashi's Approach' prose describes.",
+      "second_heading": "Braita on Small Amount",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita objection from Rabbi Yehuda HaNasi that the 'Braita on Small Amount' prose explicitly discusses, including the three formulations of 'kol shehu,' 'ein tzrichah shiur,' and 'mechtzah kesherah umechtzah pesulah.'",
+      "current_heading": "Braita on Small Amount",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Braita Mixed Blood",
+    "candidates": [
+      "Braita Mixed Blood",
+      "Majority Blood Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about blood placed above mixed with blood placed below, with Rabbi Eliezer's ruling, which is exactly what the 'Braita Mixed Blood' section's prose describes and analyzes.",
+      "chosen_heading": "Braita Mixed Blood",
+      "current_heading": "Braita Mixed Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Majority Blood Case",
+    "candidates": [
+      "Majority Blood Case",
+      "Below Then Above",
+      "Above First Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items cover the Gemara's challenges and answers regarding ein bilah using the majority-blood case and the shirayim resolution, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Majority Blood Case",
+      "current_heading": "Majority Blood Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Above First Agreement",
+    "candidates": [
+      "Below Then Above",
+      "Above First Agreement",
+      "Bechor & Maaser",
+      "One Application Question",
+      "Rashi Four & Four",
+      "Four & One Mixed",
+      "Rashi Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's resolution that 'eilu ve'eilu alu lo' reflects the Rabbis' position alone (seifa atan lerabbanan de'amri yesh bilah), which is precisely what the 'Above First Agreement' prose describes as the Gemara's elegant resolution of the third baraita.",
+      "chosen_heading": "Above First Agreement",
+      "current_heading": "Above First Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Rashi Division",
+    "candidates": [
+      "Bechor & Maaser",
+      "One Application Question",
+      "Rashi Four & Four",
+      "Four & One Mixed",
+      "Rashi Division",
+      "Tosafot Minimum",
+      "Rava Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items discuss the 'matan arba b'matanah achat' case \u2014 the mixing of four-placement blood with one-placement blood \u2014 and the resulting bal tosif concern raised by Rabbi Yehoshua, which is precisely what candidate 3 'Four & One Mixed' describes.",
+      "chosen_heading": "Four & One Mixed",
+      "current_heading": "Rashi Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Rava Distinction",
+    "candidates": [
+      "Tosafot Minimum",
+      "Rava Distinction",
+      "Rabbi Yehuda Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's exact statement distinguishing between blended liquids and mixed cups, which is precisely what the 'Rava Distinction' section's prose discusses and explains.",
+      "chosen_heading": "Rava Distinction",
+      "current_heading": "Rava Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rabbi Yehuda Braita",
+    "candidates": [
+      "Rabbi Yehuda Braita",
+      "Rabbanim Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita quoted by Rabbi Yehuda presenting the dispute between Rabbi Eliezer and the Rabbis, which is exactly what heading 0 ('Rabbi Yehuda Braita') describes in its prose.",
+      "chosen_heading": "Rabbi Yehuda Braita",
+      "current_heading": "Rabbi Yehuda Braita",
+      "moved": false
+    }
+  }
+]

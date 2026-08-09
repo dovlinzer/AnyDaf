@@ -1,0 +1,334 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Mes Mitzva",
+    "candidates": [
+      "Joshua's Takanos",
+      "Mes Mitzva",
+      "Counting Issue",
+      "Shlomo's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction from the baraita about moving a met mitzva from the esratya, the hierarchy of fields, and Rav Beivai's resolution \u2014 are precisely the content described in the 'Mes Mitzva' prose section.",
+      "chosen_heading": "Mes Mitzva",
+      "current_heading": "Mes Mitzva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Shlomo's Teaching",
+    "candidates": [
+      "Counting Issue",
+      "Shlomo's Teaching",
+      "Additional Takanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's resolution to the counting discrepancy \u2014 item 1 identifies the Shlomo attribution and item 2 is the baraita elaborating on why withholding passage through a harvested field is morally wrong, exactly as described in the 'Shlomo's Teaching' prose.",
+      "chosen_heading": "Shlomo's Teaching",
+      "current_heading": "Shlomo's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Additional Takanos",
+    "candidates": [
+      "Additional Takanos",
+      "Leadership Shift",
+      "Torah Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with the additional conditions beyond the ten Joshua stipulated (Rabbi Yehuda, Rabbi Yishmael, Rabbi Yo\u1e25anan via Rabbi Avin, and the resolution attributing the list of ten to Rabbi Yehoshua ben Levi), which is precisely what the 'Additional Takanos' prose describes.",
+      "chosen_heading": "Additional Takanos",
+      "current_heading": "Additional Takanos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Torah Readings",
+    "candidates": [
+      "Leadership Shift",
+      "Torah Readings",
+      "Ancient Source",
+      "Ezra Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items cover exactly what the 'Torah Readings' prose discusses: the listing of Ezra's ten ordinances, the Shabbat Mincha reading for yoshvei kranot, and the Monday-Thursday reading with the baraita showing it predates Ezra via the three-days-without-water/Torah passage from the Exodus narrative.",
+      "chosen_heading": "Torah Readings",
+      "current_heading": "Torah Readings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Ezra Expansion",
+    "candidates": [
+      "Ancient Source",
+      "Ezra Expansion",
+      "Court & Laundry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Ezra Expansion' prose discusses: the original institution of three pesukim corresponding to kohen/levi/yisrael, and Ezra's expansion to three aliyos and ten pesukim corresponding to the asara batlanim.",
+      "chosen_heading": "Ezra Expansion",
+      "current_heading": "Ezra Expansion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Court & Laundry",
+    "candidates": [
+      "Court & Laundry",
+      "Garlic & Onah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 courts on Monday/Thursday and laundry on Thursday \u2014 are precisely the topics discussed in the 'Court & Laundry' prose section, which explicitly mentions *danin b'sheni u'v'chamishi* and *mechabsin b'chamishi b'shabbat mishum kevod Shabbat*.",
+      "chosen_heading": "Court & Laundry",
+      "current_heading": "Court & Laundry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Garlic & Onah",
+    "candidates": [
+      "Garlic & Onah",
+      "Women's Takanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the garlic/onah takana \u2014 item 1 derives the Friday night connection and item 2 lists garlic's five properties \u2014 exactly matching the 'Garlic & Onah' prose which discusses both points explicitly.",
+      "chosen_heading": "Garlic & Onah",
+      "current_heading": "Garlic & Onah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Women's Takanos",
+    "candidates": [
+      "Women's Takanos",
+      "Peddlers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items cover exactly the three women's takanos (early baking, sinar, and hair-combing before immersion) plus the Gemara's question and resolution about whether combing is biblical or rabbinic, which is precisely what the 'Women's Takanos' prose discusses in detail.",
+      "chosen_heading": "Women's Takanos",
+      "current_heading": "Women's Takanos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Peddlers",
+    "candidates": [
+      "Peddlers",
+      "Tevilah Ba'alei Keri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses peddlers circulating through towns for women's cosmetics so they won't become unattractive to their husbands, which matches exactly the prose under the 'Peddlers' heading.",
+      "chosen_heading": "Peddlers",
+      "current_heading": "Peddlers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Tevilah Ba'alei Keri",
+    "candidates": [
+      "Tevilah Ba'alei Keri",
+      "Jerusalem Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Ezra's ordinance of immersion for ba'alei keri and its extension to Torah study, which is precisely what the 'Tevilah Ba'alei Keri' section prose addresses.",
+      "chosen_heading": "Tevilah Ba'alei Keri",
+      "current_heading": "Tevilah Ba'alei Keri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Jerusalem Property",
+    "candidates": [
+      "Jerusalem Property",
+      "Urban Restrictions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Jerusalem Property",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 list all ten halakhot of Jerusalem (including the house, egla arufa, ir hanidachas, leprous sores, projections, garbage dumps, kilns, gardens, chickens, corpse), matching heading 0's prose about the ten laws and heading 1's urban restrictions \u2014 but the baraita list itself is the enumeration that both headings introduce, and it currently sits under heading 0 which covers the first three items specifically.",
+      "second_heading": "Urban Restrictions",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20136 give the Gemara's analysis of the individual halakhot (irredeemable house, egla arufa, idolatrous city, leprous sores), all grounded in the shared reasoning that Jerusalem was not apportioned to the tribes, which is the analytical content that follows the list and belongs under heading 0's discussion of those specific laws.",
+      "current_heading": "Jerusalem Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Urban Restrictions",
+    "candidates": [
+      "Urban Restrictions",
+      "Animal & Death Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (projections/balconies, garbage dumps, kilns, gardens/orchards) are precisely the urban restrictions discussed in candidate 0's prose, with matching Hebrew terms and explanations.",
+      "chosen_heading": "Urban Restrictions",
+      "current_heading": "Urban Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Animal & Death Rules",
+    "candidates": [
+      "Animal & Death Rules",
+      "Scriptural Sources",
+      "Transition",
+      "Siege Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Animal & Death Rules' prose, which explicitly discusses the chicken prohibition (mishum kodashim) and the corpse overnight prohibition (a tradition), exactly as described in both items.",
+      "chosen_heading": "Animal & Death Rules",
+      "current_heading": "Animal & Death Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Siege Account",
+    "candidates": [
+      "Scriptural Sources",
+      "Transition",
+      "Siege Account",
+      "Pig Incident",
+      "Curse Enacted"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Transition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita background to the pig prohibition \u2014 the Hasmonean siege and the daily lowering of coins for the tamid \u2014 which matches the 'Transition' heading's prose about returning to the mishna's prohibition on raising pigs and the 'Siege Account' heading; but the Transition prose explicitly sets up this baraita as the historical event, and the Siege Account prose already narrates both the daily coin-exchange AND the elder's warning, so Item 1 (the setup of the siege and the coin-lowering) belongs under 'Siege Account'.",
+      "second_heading": "Pig Incident",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the pig being sent up and the earth quaking, which matches exactly the 'Pig Incident' prose describing the pig digging its claws into the wall at the midpoint and the land of Israel shaking.",
+      "current_heading": "Siege Account",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Curse Enacted",
+    "candidates": [
+      "Pig Incident",
+      "Curse Enacted",
+      "Tosafot Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the curse against pig-raising and Greek wisdom, plus the mishna about the omer from Tzrifin and shtei halechem from Ein Socher \u2014 all of which is precisely what the 'Curse Enacted' section's prose discusses.",
+      "chosen_heading": "Curse Enacted",
+      "current_heading": "Curse Enacted",
+      "moved": false
+    }
+  }
+]

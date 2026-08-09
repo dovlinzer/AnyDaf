@@ -1,0 +1,483 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Shimon: Kareis Distinct",
+    "candidates": [
+      "Shimon's Kal Vachomer",
+      "Rabbanan: Challal, Arayot",
+      "Shimon: Kareis Distinct",
+      "Rabbanan's Asei Argument",
+      "Halakha Ani Omer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 2's prose describes: the Rabbis' response citing the challal case derived from an issur asei, in accordance with Rabbi Elazar ben Yaakov, as a parallel showing an issur asei can yield a prohibition applying to both sexes.",
+      "chosen_heading": "Shimon: Kareis Distinct",
+      "current_heading": "Shimon: Kareis Distinct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Halakha Ani Omer",
+    "candidates": [
+      "Rabbanan's Asei Argument",
+      "Halakha Ani Omer",
+      "Tosafot on Tradition",
+      "Barim Pasuk Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains what Rabbi Shimon meant by 'lo ki' and 'halacha ani omer,' which is precisely what the 'Halakha Ani Omer' section's prose describes and analyzes.",
+      "chosen_heading": "Halakha Ani Omer",
+      "current_heading": "Halakha Ani Omer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Barim Pasuk Support",
+    "candidates": [
+      "Tosafot on Tradition",
+      "Barim Pasuk Support",
+      "Yehuda's Yuladu Reading",
+      "Yochanan's Evaluation",
+      "Gerim Are Kahal",
+      "Marital Impasse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Barim Pasuk Support",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita where Rabbi Shimon states 'halacha ani omer' and derives 'banim v'lo banot' from the verse, which is precisely what candidate 1 ('Barim Pasuk Support') discusses.",
+      "second_heading": "Yehuda's Yuladu Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita where Rabbi Yehuda reads 'banim asher yivaldu lahem' as making the prohibition dependent on birth, which is exactly what candidate 2 ('Yehuda's Yuladu Reading') discusses.",
+      "current_heading": "Barim Pasuk Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Marital Impasse",
+    "candidates": [
+      "Yehuda's Yuladu Reading",
+      "Yochanan's Evaluation",
+      "Gerim Are Kahal",
+      "Marital Impasse",
+      "Mutar Pathway",
+      "B'di'avad Not in Torah",
+      "Mamzer Precedent",
+      "Negative vs. Positive"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yochanan's Evaluation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's evaluation of Rabbi Yehuda's position, introducing the 'kahal gerim ikrei kahal' point, which matches heading 1 ('Yochanan's Evaluation') and its prose exactly.",
+      "second_heading": "B'di'avad Not in Torah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of how a second-generation Mitzri achieves purity and rejects the b'di'avad answer because 'd'i lo katav kra,' which matches heading 5 ('B'di'avad Not in Torah') precisely.",
+      "current_heading": "Marital Impasse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Negative vs. Positive",
+    "candidates": [
+      "Mutar Pathway",
+      "B'di'avad Not in Torah",
+      "Mamzer Precedent",
+      "Negative vs. Positive",
+      "Mechzir Grushato Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's answer that 'that if' resulting in prohibition the Torah writes but 'that if' leading to an allowance it does not write, which is precisely what the 'Negative vs. Positive' section's prose describes.",
+      "chosen_heading": "Negative vs. Positive",
+      "current_heading": "Negative vs. Positive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Mechzir Grushato Case",
+    "candidates": [
+      "Mechzir Grushato Case",
+      "Primary vs. Secondary",
+      "Women Forbidden Necessary",
+      "Banim vs. Dorot",
+      "Banim Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the machzir grushato objection, which is exactly what candidate 0's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Mechzir Grushato Case",
+      "current_heading": "Mechzir Grushato Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Banim Meaning",
+    "candidates": [
+      "Primary vs. Secondary",
+      "Women Forbidden Necessary",
+      "Banim vs. Dorot",
+      "Banim Meaning",
+      "Dorot Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises the redundancy question of why both 'banim' and 'dorot' are stated, which matches the 'Banim vs. Dorot' section's prose about the apparent redundancy in the verse and the question of why both terms are necessary \u2014 this is the setup before the explanation is given in sections 3 and 4.",
+      "chosen_heading": "Banim vs. Dorot",
+      "current_heading": "Banim Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Dorot Meaning",
+    "candidates": [
+      "Banim Meaning",
+      "Dorot Meaning",
+      "First Lahem",
+      "Second Lahem - Psul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why 'dorot' alone is insufficient and 'banim' is needed to anchor the count to conversion rather than Sinai, which is precisely what the 'Dorot Meaning' prose section discusses.",
+      "chosen_heading": "Dorot Meaning",
+      "current_heading": "Dorot Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Second Lahem - Psul",
+    "candidates": [
+      "First Lahem",
+      "Second Lahem - Psul",
+      "Mamzer Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Second Lahem - Psul",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover both instances of 'lahem' and the necessity of 'asher yivaldu' alongside the first 'lahem', which matches the 'First Lahem' section's prose that explicitly discusses both words and the pregnant Mitzrit scenario.",
+      "second_heading": "Mamzer Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 3 addresses why both 'lahem' by Mitzri and 'lo' by mamzer are each necessary, which is precisely what the 'Mamzer Parallel' prose section discusses.",
+      "current_heading": "Second Lahem - Psul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Mamzer Parallel",
+    "candidates": [
+      "Mamzer Parallel",
+      "Yochanan - Follow Father",
+      "Patrilineal Status",
+      "Rav Yosef Challenge",
+      "Minymin Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly explain why both the Mitzri and mamzer derivations are necessary (tzericha), which is precisely what the 'Mamzer Parallel' prose discusses in its final sentences about each being indispensable.",
+      "chosen_heading": "Mamzer Parallel",
+      "current_heading": "Mamzer Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Minymin Example",
+    "candidates": [
+      "Yochanan - Follow Father",
+      "Patrilineal Status",
+      "Rav Yosef Challenge",
+      "Minymin Example",
+      "Yochanan Emends",
+      "Dimi - Follow Mother?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Yosef Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yochanan's ruling that we follow the father and Rav Yosef's challenge from the mamzer/shifcha case with its resolution, which matches heading 2 ('Rav Yosef Challenge') perfectly.",
+      "second_heading": "Minymin Example",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rava's objection from the Minyamin baraita and Rabbi Yochanan's emendation of it, which matches heading 3 ('Minymin Example') or heading 4 ('Yochanan Emends') \u2014 but since item 3 contains both the Minyamin challenge AND Rabbi Yochanan's textual amendment together, and heading 3's prose discusses the Minyamin baraita while heading 4 discusses the amendment, the current placement under heading 3 captures the primary content of the objection, with the amendment being the resolution within the same unit.",
+      "current_heading": "Minymin Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Dimi - Follow Mother?",
+    "candidates": [
+      "Yochanan Emends",
+      "Dimi - Follow Mother?",
+      "Abaye's Challenge",
+      "Chatas Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly the content described in the 'Dimi - Follow Mother?' prose: Rav Dimi's transmission of Rabbi Yochanan's ruling that a second-generation Egyptian man who married a first-generation Egyptian woman produces a second-generation child, implying we follow the mother.",
+      "chosen_heading": "Dimi - Follow Mother?",
+      "current_heading": "Dimi - Follow Mother?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Chatas Precedent",
+    "candidates": [
+      "Abaye's Challenge",
+      "Chatas Precedent",
+      "Ubar Yerech Imo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's challenge to Rav Dimi \u2014 item 1 raises the challenge from Rabbi Yochanan's ruling about a pregnant sin-offering, and item 2 explains why that ruling works (ubar lav yerech imo, like two guarantor sin-offerings), which is the substance of the challenge itself; this matches candidate 0's prose about Abaye challenging Rav Dimi using Rabbi Yochanan's ruling.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Chatas Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Ubar Yerech Imo",
+    "candidates": [
+      "Chatas Precedent",
+      "Ubar Yerech Imo",
+      "Abaye's Logic",
+      "Dimi's Pasuk Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the argument that if ubar yerech imo, the offspring would be a velad chatas that goes to death, which is precisely the content described in the 'Ubar Yerech Imo' section's prose about velad chatas lemissa azil.",
+      "chosen_heading": "Ubar Yerech Imo",
+      "current_heading": "Ubar Yerech Imo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Dimi's Pasuk Response",
+    "candidates": [
+      "Abaye's Logic",
+      "Dimi's Pasuk Response",
+      "Normally Father",
+      "Males Determine",
+      "Canaanite Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rav Dimi falling silent, Abaye suggesting the resolution based on 'asher yivaldu', and Rav Dimi praising Abaye \u2014 exactly matching the 'Dimi's Pasuk Response' section's prose about Abaye suggesting the verse-based resolution and Rav Dimi's acknowledgment, which is where it currently sits.",
+      "chosen_heading": "Dimi's Pasuk Response",
+      "current_heading": "Dimi's Pasuk Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Canaanite Case",
+    "candidates": [
+      "Normally Father",
+      "Males Determine",
+      "Canaanite Case",
+      "Worse Status",
+      "Gender-Dependent"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Gender-Dependent",
+    "candidates": [
+      "Worse Status",
+      "Gender-Dependent",
+      "Mishna Rule",
+      "Resh Lakish",
+      "Gezeira Shavah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gender-Dependent",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's concrete example clarifying how 'follow the worse status' works depending on the child's sex, which is precisely what the 'Gender-Dependent' prose discusses.",
+      "second_heading": "Mishna Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah of an entirely new topic (mamzerim and netinim), matching exactly the 'Mishna Rule' prose which introduces that same Mishnah.",
+      "current_heading": "Gender-Dependent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Gezeira Shavah",
+    "candidates": [
+      "Mishna Rule",
+      "Resh Lakish",
+      "Gezeira Shavah",
+      "Gezeira Shavah Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Resh Lakish's ruling and the gezeira shavah derivation that a mamzeret is permitted after ten generations \u2014 exactly what the 'Resh Lakish' prose section introduces as his 'startling position' demanding examination, before the methodology dispute is handled separately under 'Gezeira Shavah Method'.",
+      "chosen_heading": "Resh Lakish",
+      "current_heading": "Gezeira Shavah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Gezeira Shavah Method",
+    "candidates": [
+      "Gezeira Shavah",
+      "Gezeira Shavah Method",
+      "Compromise Resolution",
+      "Eliezer Cryptic",
+      "Mamzerim Don't Live"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's reconciliation of Resh Lakish with the Mishnah via the dispute between 'don minah u-minah' and 'don minah ve-okei be-atrah,' which is precisely what the 'Gezeira Shavah Method' prose describes.",
+      "chosen_heading": "Gezeira Shavah Method",
+      "current_heading": "Gezeira Shavah Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148
+    ],
+    "current_heading": "Mamzerim Don't Live",
+    "candidates": [
+      "Compromise Resolution",
+      "Eliezer Cryptic",
+      "Mamzerim Don't Live",
+      "Zeira's Nuance",
+      "Rav Ami Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eliezer Cryptic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Eliezer's cryptic answer and the Gemara's inference that mamzerim don't survive, plus Rav Huna's corroboration \u2014 exactly what heading 1 ('Eliezer Cryptic') and heading 2 ('Mamzerim Don't Live') discuss, but the prose of heading 1 introduces the exchange and heading 2's prose explicitly covers 'mamzera lo chaya' and Rav Huna, making item 1 best matched to heading 1 which sets up the enigma, while the full explanation lands under heading 2.",
+      "second_heading": "Zeira's Nuance",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the challenge from the Mishnah's 'ad olam' language followed by Rabbi Zeira's nuanced distinction (known/unknown/partially known mamzer), which is the exact content described in heading 3 ('Zeira's Nuance').",
+      "current_heading": "Mamzerim Don't Live",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Rav Ami Story",
+    "candidates": [
+      "Zeira's Nuance",
+      "Rav Ami Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Ami declaring a neighbor a mamzer and telling him 'I have given you life,' which is exactly what the 'Rav Ami Story' prose describes.",
+      "chosen_heading": "Rav Ami Story",
+      "current_heading": "Rav Ami Story",
+      "moved": false
+    }
+  }
+]

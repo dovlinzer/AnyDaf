@@ -20,7 +20,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Deriving Shvuat Ha'edut from Sotah: Gzerah Shava vs. Semantic Analysis",
@@ -67,7 +67,7 @@
           "timestamp": "20:33"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -91,7 +91,7 @@
           "timestamp": "25:01"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -624,5 +624,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 29
+  "amud_b_sefaria_index": 29,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "46:53",
+  "amud_b_micro_title": "Monetary Stipulations",
+  "shiur_start_daf": 35,
+  "shiur_start_amud": "b"
 }

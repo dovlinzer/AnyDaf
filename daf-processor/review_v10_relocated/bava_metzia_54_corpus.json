@@ -1,0 +1,324 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav vs. Rav Asi",
+    "candidates": [
+      "Ona'ah & Coins",
+      "Rav vs. Rav Asi",
+      "New vs. Used Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita deriving from 'mi-ma'asro' and the amoraic dispute between Rav Ami/Rav Asi and Rabbi Yochanan/Resh Lakish regarding whether the disqualification applies to the ma'aser itself (ein bo) or its chomesh (ein be-chomsho), which is precisely what the 'Rav vs. Rav Asi' section's prose describes.",
+      "chosen_heading": "Rav vs. Rav Asi",
+      "current_heading": "Rav vs. Rav Asi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "New vs. Used Money",
+    "candidates": [
+      "New vs. Used Money",
+      "How Fifth Calculated",
+      "Be'alim Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single continuous objection-and-analysis sequence about whether the prutah threshold applies to the ma'aser itself or its chomesh, which is precisely what the 'New vs. Used Money' prose describes in detail, including the baraita, the dayo analysis, and the kashya conclusion.",
+      "chosen_heading": "New vs. Used Money",
+      "current_heading": "New vs. Used Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Be'alim Redemption",
+    "candidates": [
+      "How Fifth Calculated",
+      "Be'alim Redemption",
+      "Four or Four on Five"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Ravina's baraita about be'alim bidding scenarios, the conclusion that chomesh is mi-lebar, and the tannaic dispute between Rabbi Yoshiya and Rabbi Yonatan \u2014 are precisely the content described in the 'Be'alim Redemption' prose section, which covers exactly these calculations and that tannaic dispute.",
+      "chosen_heading": "Be'alim Redemption",
+      "current_heading": "Be'alim Redemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Four or Four on Five",
+    "candidates": [
+      "Four or Four on Five",
+      "Demai Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma of whether chomesh me'akev or not, framed as 'four on four' vs 'four on five', which is precisely what the 'Four or Four on Five' section prose describes.",
+      "chosen_heading": "Four or Four on Five",
+      "current_heading": "Four or Four on Five",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Demai Proof",
+    "candidates": [
+      "Demai Proof",
+      "Rabbi Eliezer vs Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Ravina's proof from demai \u2014 the Mishnah citation and its logical explanation \u2014 which precisely matches the 'Demai Proof' section's prose describing the same argument about keren vs. chomesh in demai.",
+      "chosen_heading": "Demai Proof",
+      "current_heading": "Demai Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Rabbi Eliezer vs Yehoshua",
+    "candidates": [
+      "Rabbi Eliezer vs Yehoshua",
+      "Rav Pappa Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the baraita dispute between Rabbi Eliezer and Rabbi Yehoshua, Rabbi's split ruling, the Gemara's inference about their universal disagreement, and the question of whether they dispute whether the chomesh is me'akev \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Rabbi Eliezer vs Yehoshua",
+      "current_heading": "Rabbi Eliezer vs Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Pappa Resolves",
+    "candidates": [
+      "Rav Pappa Resolves",
+      "Hekdesh & Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's alternative resolution \u2014 that everyone agrees chomesh is not me'akev and the dispute is about chashinan le-fshiyuta \u2014 which is precisely what the prose of 'Rav Pappa Resolves' (index 0) describes and analyzes in detail.",
+      "chosen_heading": "Rav Pappa Resolves",
+      "current_heading": "Rav Pappa Resolves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Hekdesh & Shabbat",
+    "candidates": [
+      "Hekdesh & Shabbat",
+      "Fifth Not Me'akev",
+      "Fifth Properties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous sugya about Rabbi Yo\u1e25anan's statement that all agree regarding hekdesh, the challenge from the baraita disputing this, and the resolution that the statement applies specifically to Shabbat with hekdesh \u2014 exactly what the 'Hekdesh & Shabbat' prose describes.",
+      "chosen_heading": "Hekdesh & Shabbat",
+      "current_heading": "Hekdesh & Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Fifth Properties",
+    "candidates": [
+      "Fifth Not Me'akev",
+      "Fifth Properties",
+      "Rava's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the series of questions Rami bar Chama raises about whether the chomesh mirrors the properties of the principal (hekdesh/land, terumah/chullin, ma'aser/asimon), which is precisely what the 'Fifth Properties' prose describes.",
+      "chosen_heading": "Fifth Properties",
+      "current_heading": "Fifth Properties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rava's Drasha",
+    "candidates": [
+      "Rava's Drasha",
+      "Terumah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's resolution using the word 'alav' to derive that the chomesh must be like the principal, which is precisely what the 'Rava's Drasha' prose section discusses.",
+      "chosen_heading": "Rava's Drasha",
+      "current_heading": "Rava's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Terumah Proof",
+    "candidates": [
+      "Terumah Proof",
+      "Gezel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Ravina's proof from the terumah mishnah and its conclusion 'shma mina chomesh ke-moto,' which is precisely what the 'Terumah Proof' prose section describes.",
+      "chosen_heading": "Terumah Proof",
+      "current_heading": "Terumah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Gezel Case",
+    "candidates": [
+      "Gezel Case",
+      "Terumah Case",
+      "Ma'aser No Fifth\u00b2",
+      "Hekdesh Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gezel Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's citation of the gezel verse and the Mishnah about recursive chomesh on chomesh in the robbery context, which matches exactly the 'Gezel Case' prose discussing the plural chamishitav and the mechanism of compounding fifths until below a peruta.",
+      "second_heading": "Terumah Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's parallel citation of the teruma verse and its Mishnah (including chumsha de-chumsha) and explicitly contrasts with ma'aser, which matches the 'Terumah Case' prose discussing the singular verse yet recursive fifth obligation and the absence of recursive fifths for ma'aser.",
+      "current_heading": "Gezel Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Hekdesh Question",
+    "candidates": [
+      "Terumah Case",
+      "Ma'aser No Fifth\u00b2",
+      "Hekdesh Question",
+      "Hekdesh Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the unresolved question of whether chomesh on a chomesh applies to hekdesh \u2014 the textual comparison of ve-yasaf in teruma vs. hekdesh, the vav manipulation argument, and the Rabbi Yehoshua ben Levi/Rava point about first vs. second consecration \u2014 all of which are explicitly described in the 'Hekdesh Question' prose.",
+      "chosen_heading": "Hekdesh Question",
+      "current_heading": "Hekdesh Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Hekdesh Resolution",
+    "candidates": [
+      "Hekdesh Resolution",
+      "RYBLI Position",
+      "Makdish vs. Metfis",
+      "Non-Kosher Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Tavyumei/Abaye resolution using the hekesh from 'chamishit kesef erchecha' to derive that a fifth is added upon the fifth for hekdesh, which is precisely what the 'Hekdesh Resolution' prose describes.",
+      "chosen_heading": "Hekdesh Resolution",
+      "current_heading": "Hekdesh Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Non-Kosher Animal",
+    "candidates": [
+      "RYBLI Position",
+      "Makdish vs. Metfis",
+      "Non-Kosher Animal",
+      "Ha-Article Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Makdish vs. Metfis",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers Rabbi Yehoshua ben Levi's ruling and Rava's textual derivation (ha-makdish vs. ha-matfis), which matches the 'Makdish vs. Metfis' prose exactly.",
+      "second_heading": "Non-Kosher Animal",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the tanna's baraita before Rabbi Elazar about the non-kosher animal and Rabbi Elazar's challenge/resolution regarding me'ilah vs. chomesh, which matches the 'Non-Kosher Animal' prose exactly.",
+      "current_heading": "Non-Kosher Animal",
+      "moved": true
+    }
+  }
+]

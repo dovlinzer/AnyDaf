@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Kohen Steals from Ger",
+    "candidates": [
+      "L'Hashem L'Kohen",
+      "Which Kohen Gets It",
+      "Kohen Steals from Ger",
+      "Kal Vachomer Refutation",
+      "Rabbi Natan's Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about a kohen who stole from a ger and considers keeping the money since it goes to kohanim anyway, which is precisely what the 'Kohen Steals from Ger' section prose describes.",
+      "chosen_heading": "Kohen Steals from Ger",
+      "current_heading": "Kohen Steals from Ger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rabbi Natan's Version",
+    "candidates": [
+      "Kal Vachomer Refutation",
+      "Rabbi Natan's Version",
+      "Davar She-Yesh Lo",
+      "Ve-Ish Et Kodashav",
+      "Kohen Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Natan's formulation of the kal vachomer argument using truma vs. gezel hager, which is precisely what the 'Rabbi Natan's Version' section's prose describes.",
+      "chosen_heading": "Rabbi Natan's Version",
+      "current_heading": "Rabbi Natan's Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Kohen Tamei",
+    "candidates": [
+      "Davar She-Yesh Lo",
+      "Ve-Ish Et Kodashav",
+      "Kohen Tamei",
+      "Kohen Bring Anytime"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain covering the kohen tamei resolution, the gezera shava from sdeh achuza, and the baraita about the ancestral field \u2014 exactly the content described in the 'Kohen Tamei' prose section.",
+      "chosen_heading": "Kohen Tamei",
+      "current_heading": "Kohen Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Kohen Bring Anytime",
+    "candidates": [
+      "Kohen Bring Anytime",
+      "Derivation Verses",
+      "Ba'al Mum Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita asking 'from where do we know a kohen may bring his offerings at any time he wishes,' which directly matches the 'Kohen Bring Anytime' section's prose describing exactly this baraita and its question.",
+      "chosen_heading": "Kohen Bring Anytime",
+      "current_heading": "Kohen Bring Anytime",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Ba'al Mum Scenario",
+    "candidates": [
+      "Derivation Verses",
+      "Ba'al Mum Scenario",
+      "Tamei Korban Tzibur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Ba'al Mum Scenario",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the ba'al mum scenario and the zaken/choleh case with Rav Pappa's resolution, which matches exactly the prose under 'Ba'al Mum Scenario'.",
+      "second_heading": "Tamei Korban Tzibur",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rav Sheshet's ruling about a tamei kohen in a korban tzibbur, which is precisely the scenario described in the 'Tamei Korban Tzibur' section's prose.",
+      "current_heading": "Ba'al Mum Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Tamei Korban Tzibur",
+    "candidates": [
+      "Tamei Korban Tzibur",
+      "Kohen Gadol Onen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement directly resolves the challenge about who eats when the mishmar is tamei by identifying blemished but ritually pure priests, which is exactly the resolution described in the 'Tamei Korban Tzibur' prose.",
+      "chosen_heading": "Tamei Korban Tzibur",
+      "current_heading": "Tamei Korban Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Kohen Gadol Onen",
+    "candidates": [
+      "Kohen Gadol Onen",
+      "Gazlan Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Ashi's ruling about a Kohen Gadol who is an onen \u2014 the question of what novelty it adds and the answer about appointing an agent \u2014 which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Kohen Gadol Onen",
+      "current_heading": "Kohen Gadol Onen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Gazlan Dies",
+    "candidates": [
+      "Gazlan Dies",
+      "Money to Sons",
+      "Asham After Death",
+      "Money as Kaparah",
+      "Money Given First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself (ha'gozel es ha'ger) which introduces the case of robbing a convert, swearing falsely, and the convert dying, which is precisely what heading 0 ('Gazlan Dies') discusses as its opening subject matter.",
+      "chosen_heading": "Gazlan Dies",
+      "current_heading": "Gazlan Dies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Money Given First",
+    "candidates": [
+      "Money to Sons",
+      "Asham After Death",
+      "Money as Kaparah",
+      "Money Given First",
+      "Order of Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers all the mishna's cases in sequence \u2014 money to sons, asham grazing, and money given to the mishmar \u2014 and the current heading 'Money Given First' with its prose about giving money to kohanim and the heirs' inability to recover it is the section that directly introduces and discusses the final clause of this mishna passage, making it the best single home for the complete quoted text.",
+      "chosen_heading": "Money Given First",
+      "current_heading": "Money Given First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Order of Acts",
+    "candidates": [
+      "Order of Acts",
+      "Keren Without Chomesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the order of giving money versus guilt-offering to different priestly watches, which matches exactly what the 'Order of Acts' prose describes.",
+      "chosen_heading": "Order of Acts",
+      "current_heading": "Order of Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Keren Without Chomesh",
+    "candidates": [
+      "Keren Without Chomesh",
+      "Asham = Keren"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that giving the principal without the fifth does not preclude the offering, which is precisely what the 'Keren Without Chomesh' section's prose discusses.",
+      "chosen_heading": "Keren Without Chomesh",
+      "current_heading": "Keren Without Chomesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Asham = Keren",
+    "candidates": [
+      "Asham = Keren",
+      "Why Call It Asham",
+      "Cannot Return Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form the continuous baraita discussion establishing that 'asham' = principal, with item 2 being an embedded Gemara interruption within that same baraita unit, and heading 0's prose explicitly covers all the derivations including ruling out asham=ram, asham=chomesh, and ha'mushav=kefel.",
+      "chosen_heading": "Asham = Keren",
+      "current_heading": "Asham = Keren",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Cannot Return Night",
+    "candidates": [
+      "Why Call It Asham",
+      "Cannot Return Night",
+      "Pruta Requirement",
+      "Different Mishmar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cannot Return Night",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses returning the stolen item at night or in halves being invalid, which matches the 'Cannot Return Night' heading's prose about laila and chatziyo.",
+      "second_heading": "Pruta Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the peruta requirement for each kohen in the mishmar, which perfectly matches the 'Pruta Requirement' heading's prose about gezel hager she'ein bo shaveh pruta l'chol kohen v'kohen.",
+      "current_heading": "Cannot Return Night",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Different Mishmar",
+    "candidates": [
+      "Pruta Requirement",
+      "Different Mishmar",
+      "Pool All Gezel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rava's dilemma about giving gezel hager to the Jedaiah mishmar during Joiarib's week, which is precisely what the 'Different Mishmar' prose describes, including the teyku conclusion.",
+      "chosen_heading": "Different Mishmar",
+      "current_heading": "Different Mishmar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Pool All Gezel",
+    "candidates": [
+      "Pool All Gezel",
+      "Korban Comparison",
+      "Separate Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's dilemma about whether priests may divide gezel hager against gezel hager (pooling/trading shares), which matches heading 0's prose about pooling gezel hager money, while the korban comparison in item 2 is the internal reasoning within that same dilemma rather than a resolved conclusion belonging to headings 1 or 2.",
+      "chosen_heading": "Pool All Gezel",
+      "current_heading": "Pool All Gezel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Separate Division",
+    "candidates": [
+      "Korban Comparison",
+      "Separate Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava's resolution using 'asham kara Rachmana' and Rav A\u1e25a's explicit formulation, which directly matches the 'Separate Division' prose that explicitly references this content.",
+      "chosen_heading": "Separate Division",
+      "current_heading": "Separate Division",
+      "moved": false
+    }
+  }
+]

@@ -280,8 +280,8 @@
           "timestamp": "33:00"
         }
       ],
-      "sefaria_index": 12,
-      "matched": false
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -541,5 +541,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "04:55",
+  "amud_b_micro_title": "Two Positions",
+  "shiur_start_daf": 74,
+  "shiur_start_amud": "b"
 }

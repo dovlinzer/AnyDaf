@@ -1,0 +1,379 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rabbi Eliezer Shabbat",
+    "candidates": [
+      "Rabbi Eliezer Shabbat",
+      "Tosafot Clarification",
+      "Yehoshua Kal Vachomer",
+      "Zochin LeKatan",
+      "Zochin Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents Rabbi Eliezer's Shabbat/weekday distinction and Rabbi Yehoshua's kal vachomer response together as a single unit, and the current heading's prose explicitly discusses both positions in sequence, making it the best match.",
+      "chosen_heading": "Rabbi Eliezer Shabbat",
+      "current_heading": "Rabbi Eliezer Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Zochin Principle",
+    "candidates": [
+      "Tosafot Clarification",
+      "Yehoshua Kal Vachomer",
+      "Zochin LeKatan",
+      "Zochin Principle",
+      "Mishna Compilation",
+      "Rabbi Meir Version",
+      "Rabbi Meir Zochin",
+      "Case Setup",
+      "Competing Interests"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zochin LeKatan",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the mishna text presenting Rabbi Eliezer and Rabbi Yehoshua's dispute about zochin lekatan/legadol, which is exactly what the 'Zochin LeKatan' prose describes.",
+      "second_heading": "Mishna Compilation",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 begin the Gemara with 'matnitin mani Rabbi Yehuda hi' and present the baraita contrasting Rabbi Meir's and Rabbi Yehuda's versions \u2014 precisely what 'Mishna Compilation' describes.",
+      "current_heading": "Zochin Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Competing Interests",
+    "candidates": [
+      "Mishna Compilation",
+      "Rabbi Meir Version",
+      "Rabbi Meir Zochin",
+      "Case Setup",
+      "Competing Interests",
+      "Mishna Positions",
+      "Beit Shammai Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text introduces the scenario of a house collapsing on a son and his father with outstanding debts, which is precisely what the 'Case Setup' prose describes \u2014 the paradigm case of Reuven and Yaakov with creditors \u2014 rather than the 'Competing Interests' prose which analyzes the implications of the scenario.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Competing Interests",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Beit Shammai Hillel",
+    "candidates": [
+      "Mishna Positions",
+      "Beit Shammai Hillel",
+      "Shtar Explanation",
+      "Shtar Liens Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Beit Shammai/Beit Hillel ruling ('yachloku' and 'nechasim bechezkasan'), which is precisely what the 'Beit Shammai Hillel' section's prose introduces and discusses.",
+      "chosen_heading": "Beit Shammai Hillel",
+      "current_heading": "Beit Shammai Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Shtar Liens Rules",
+    "candidates": [
+      "Shtar Explanation",
+      "Shtar Liens Rules",
+      "Shmuel Future Liens",
+      "Rabbi Meir Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the mishna ruling about shtar loans collecting from liened property versus witness-only loans collecting from free property, which is precisely what the 'Shtar Liens Rules' prose section discusses and explains.",
+      "chosen_heading": "Shtar Liens Rules",
+      "current_heading": "Shtar Liens Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rabbi Meir Future",
+    "candidates": [
+      "Shmuel Future Liens",
+      "Rabbi Meir Future",
+      "Rashbam Reasons",
+      "Rav Yosef Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's dilemma and clarifies it is unproblematic according to Rabbi Meir but pressing according to the Rabbanan, which matches exactly the prose of candidate 1 ('Rabbi Meir Future') that discusses how the question is clear for Rabbi Meir but hard for the Rabbanan.",
+      "chosen_heading": "Rabbi Meir Future",
+      "current_heading": "Rabbi Meir Future",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Yosef Proof",
+    "candidates": [
+      "Rashbam Reasons",
+      "Rav Yosef Proof",
+      "Rava Pushback"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's proof from the Admon/chachamim mishna about the perspicacious lender selling land to create a lien, which is precisely what the 'Rav Yosef Proof' prose describes.",
+      "chosen_heading": "Rav Yosef Proof",
+      "current_heading": "Rav Yosef Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rava Pushback",
+    "candidates": [
+      "Rava Pushback",
+      "Rav Chana Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's pushback clarifying that 'minei' (from the debtor himself) was never in dispute and redirecting to the unresolved dilemma of 'd'ikni kana umachar' and 'd'ikni kana vehoreish', which exactly matches the 'Rava Pushback' prose.",
+      "chosen_heading": "Rava Pushback",
+      "current_heading": "Rava Pushback",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rav Chana Proof",
+    "candidates": [
+      "Rav Chana Proof",
+      "Gemara Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the mishna that Rav Chana cites as proof, matching the prose of candidate 0 which explicitly describes Rav Chana bringing proof from the collapsed house mishna with the same parties (yorshei ha'av, ba'al chov) and sequence-of-death dispute.",
+      "chosen_heading": "Rav Chana Proof",
+      "current_heading": "Rav Chana Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Gemara Question",
+    "candidates": [
+      "Gemara Question",
+      "Mitzvah Obligation",
+      "Two Degrees",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'de'ikni' (future-acquired property) lien question and its implications for the mishna, which matches the Gemara Question prose about whether future-acquired property becomes encumbered.",
+      "chosen_heading": "Gemara Question",
+      "current_heading": "Gemara Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Mitzvah Obligation",
+      "Two Degrees",
+      "Rav Ashi Challenge",
+      "Ha Mani Defense",
+      "Predating Invalid",
+      "Postdating Benefit",
+      "Inference Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Ashi's challenge about milveh al peh and the ruling of Rav and Shmuel that an oral loan cannot be collected from heirs or buyers, which is precisely what the 'Rav Ashi Challenge' section's prose describes.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Inference Proof",
+    "candidates": [
+      "Ha Mani Defense",
+      "Predating Invalid",
+      "Postdating Benefit",
+      "Inference Proof",
+      "Indeterminate Amounts",
+      "Insurance Scenario",
+      "Collection Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: items 2-3 present the postdated shtar proof and the challenge that postdating only makes sense if future liens exist, and items 1 and 4 deliver the 'ha mani Rabbi Meir' deflection \u2014 exactly what the 'Inference Proof' prose describes as the gemara's pattern of accumulating evidence for future liens and deflecting each instance by attributing it to Rabbi Meir.",
+      "chosen_heading": "Inference Proof",
+      "current_heading": "Inference Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Collection Rights",
+    "candidates": [
+      "Indeterminate Amounts",
+      "Insurance Scenario",
+      "Collection Rights",
+      "Shevach Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about collecting the principal from liened property and the enhancement only from free property, which is precisely what the 'Collection Rights' section's prose explains and quotes in transliteration.",
+      "chosen_heading": "Collection Rights",
+      "current_heading": "Collection Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Shevach Proof",
+    "candidates": [
+      "Shevach Proof",
+      "Two Liens Priority",
+      "Sequential Liens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Shevach Proof' prose, which explicitly describes the gemara's question about why the creditor collects the enhancement (shevach) and the deflection invoking Rabbi Meir's rule about transferring entities not yet in the world.",
+      "chosen_heading": "Shevach Proof",
+      "current_heading": "Shevach Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Sequential Liens",
+    "candidates": [
+      "Two Liens Priority",
+      "Sequential Liens",
+      "Rav Nachman Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the cascading hypothetical with 'im timtzei lomar' and poses the exact question of two lenders with future liens competing over subsequently acquired property, which is precisely what heading 0 ('Two Liens Priority') describes in its prose.",
+      "chosen_heading": "Two Liens Priority",
+      "current_heading": "Sequential Liens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Nachman Debate",
+    "candidates": [
+      "Sequential Liens",
+      "Rav Nachman Debate",
+      "Rav Ashi Cycles",
+      "Hilchata Ruling",
+      "Meisivei Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Rav Nachman Debate' prose describes: Rav Nachman reporting the response from Eretz Yisrael (rishon kana), Rav Huna ruling yachloku, and Rabba bar Avuha likewise ruling yachloku \u2014 plus Ravina's note about Rav Ashi's two cycles and the final halakhic ruling, all of which flow continuously from the debate Rav Nachman introduces, making this single passage best placed under the heading whose prose explicitly summarizes these same figures and rulings.",
+      "chosen_heading": "Rav Nachman Debate",
+      "current_heading": "Rav Nachman Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Meisivei Question",
+    "candidates": [
+      "Rav Ashi Cycles",
+      "Hilchata Ruling",
+      "Meisivei Question",
+      "Split Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is a Meisivei objection from the shevach karkaos baraita asking why the buyer collects all the shevach rather than half, which matches exactly the prose of 'Meisivei Question' describing this precise objection.",
+      "chosen_heading": "Meisivei Question",
+      "current_heading": "Meisivei Question",
+      "moved": false
+    }
+  }
+]

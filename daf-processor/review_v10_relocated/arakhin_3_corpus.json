@@ -1,0 +1,690 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Megilla Obligation",
+    "candidates": [
+      "Opening Remarks",
+      "Previous Day Review",
+      "Megilla Obligation",
+      "Three Mitzvot",
+      "Pirsumei Nisa",
+      "Af Textual Issue",
+      "Tosafot Limitation",
+      "Reconciliation",
+      "Modern Debates",
+      "Teaching Question",
+      "Zimun Basic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the gemara's question and answer about what 'hakol' includes in the Megilla obligation passages \u2014 exactly the content described in the 'Megilla Obligation' section's prose about hakol chayavin/kesherin l'atuyei nashim and Rabbi Yehoshua ben Levi's ruling.",
+      "chosen_heading": "Megilla Obligation",
+      "current_heading": "Megilla Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Zimun Basic",
+    "candidates": [
+      "Three Mitzvot",
+      "Pirsumei Nisa",
+      "Af Textual Issue",
+      "Tosafot Limitation",
+      "Reconciliation",
+      "Modern Debates",
+      "Teaching Question",
+      "Zimun Basic",
+      "Rashi's Reason",
+      "Tosafot Pirtzuta",
+      "Modern Zimun Debate",
+      "Obligation Question",
+      "Tosafot: Reshut",
+      "Vilna Gaon View",
+      "Mixed Group Issue",
+      "Minor Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly introduces the ruling 'hakol chayavim b'zimmun' and explains it includes women and slaves who form zimmun among themselves, which is exactly what the 'Zimun Basic' section's prose discusses.",
+      "chosen_heading": "Zimun Basic",
+      "current_heading": "Zimun Basic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Minor Inclusion",
+    "candidates": [
+      "Rashi's Reason",
+      "Tosafot Pirtzuta",
+      "Modern Zimun Debate",
+      "Obligation Question",
+      "Tosafot: Reshut",
+      "Vilna Gaon View",
+      "Mixed Group Issue",
+      "Minor Inclusion",
+      "Tosafot Rejects Bavli",
+      "Beit Yosef Difficulty",
+      "Ashkenazi Customs",
+      "Mechaber vs. Rama",
+      "Ten vs. Three",
+      "Elokeinu Status",
+      "Practical Question",
+      "Sephardi View",
+      "Zav Status",
+      "One-Day Infant",
+      "Ish vs. Zachar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's inclusion of a minor who knows to Whom one recites a blessing in a zimmun, which is precisely what the 'Minor Inclusion' section's prose describes.",
+      "chosen_heading": "Minor Inclusion",
+      "current_heading": "Minor Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Ish vs. Zachar",
+    "candidates": [
+      "Tosafot Rejects Bavli",
+      "Beit Yosef Difficulty",
+      "Ashkenazi Customs",
+      "Mechaber vs. Rama",
+      "Ten vs. Three",
+      "Elokeinu Status",
+      "Practical Question",
+      "Sephardi View",
+      "Zav Status",
+      "One-Day Infant",
+      "Ish vs. Zachar",
+      "Torah Vernacular",
+      "Corpse Impurity",
+      "Minor Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "Both items together form the baraita dispute between Rabbi Yehuda and Rabbi Yishmael about deriving the inclusion of a day-old infant from 'ish ish' vs. 'lazachar', which is precisely what heading 10 ('Ish vs. Zachar') describes in its prose.",
+      "chosen_heading": "Ish vs. Zachar",
+      "current_heading": "Ish vs. Zachar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Minor Impurity",
+    "candidates": [
+      "Torah Vernacular",
+      "Corpse Impurity",
+      "Minor Impurity",
+      "Leprosy Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the inclusion of a minor in corpse-impurity and the exclusion of a minor from karet, which is precisely what the 'Minor Impurity' prose describes.",
+      "chosen_heading": "Minor Impurity",
+      "current_heading": "Minor Impurity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Leprosy Impurity",
+    "candidates": [
+      "Leprosy Impurity",
+      "Adam vs. Ish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna's ruling that everyone becomes impure by leprous marks and the inclusion of minors, which matches exactly the prose under 'Leprosy Impurity' rather than the 'Adam vs. Ish' section which discusses the resolution via the word 'adam'.",
+      "chosen_heading": "Leprosy Impurity",
+      "current_heading": "Leprosy Impurity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Adam vs. Ish",
+    "candidates": [
+      "Adam vs. Ish",
+      "Comportment Behaviors",
+      "Women & Tzniut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the question and answer about why minors are included in tzara'at tumah via the word 'adam,' which is precisely what the 'Adam vs. Ish' section's prose describes.",
+      "chosen_heading": "Adam vs. Ish",
+      "current_heading": "Adam vs. Ish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Women & Tzniut",
+    "candidates": [
+      "Comportment Behaviors",
+      "Women & Tzniut",
+      "Seeing Spots",
+      "Non-Expert",
+      "Explanation & Understanding",
+      "Ravina's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete gemara passage establishing that 'ish' teaches that men but not women must perform the comportment behaviors (pore'a u'faramat), which is precisely what the 'Comportment Behaviors' section's prose describes and analyzes.",
+      "chosen_heading": "Comportment Behaviors",
+      "current_heading": "Women & Tzniut",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Ravina's Resolution",
+    "candidates": [
+      "Seeing Spots",
+      "Non-Expert",
+      "Explanation & Understanding",
+      "Ravina's Resolution",
+      "Kohen & Scholar",
+      "Understanding vs. Parroting",
+      "Tosafot Alternative",
+      "Understanding Reasoning",
+      "Mixing Ashes",
+      "Normal Exclusions",
+      "Gender vs. Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's discussion of what 'hakol ro'in' and 'hakol kesherin' add (the non-expert question and Ravina's resolution), which is precisely what heading 0 'Seeing Spots' introduces as its topic \u2014 the two related formulations treated together \u2014 while headings 1-3 split this unified sugya artificially across multiple sections.",
+      "chosen_heading": "Seeing Spots",
+      "current_heading": "Ravina's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Gender vs. Age",
+    "candidates": [
+      "Kohen & Scholar",
+      "Understanding vs. Parroting",
+      "Tosafot Alternative",
+      "Understanding Reasoning",
+      "Mixing Ashes",
+      "Normal Exclusions",
+      "Gender vs. Age",
+      "Why Men Required",
+      "Sprinkling",
+      "Arel Included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question 'l'atuyei mai' about who is included in 'hakol kesherin l'kadesh,' which is precisely what the 'Mixing Ashes' section introduces.",
+      "chosen_heading": "Mixing Ashes",
+      "current_heading": "Gender vs. Age",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Arel Included",
+    "candidates": [
+      "Why Men Required",
+      "Sprinkling",
+      "Arel Included",
+      "Marginal Cases",
+      "Shechita",
+      "Kuti Included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the inclusion of an uncircumcised person (arel) in the sprinkling qualification and cites Rabbi Elazar's ruling, which precisely matches the 'Arel Included' section's prose.",
+      "chosen_heading": "Arel Included",
+      "current_heading": "Arel Included",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Kuti Included",
+    "candidates": [
+      "Marginal Cases",
+      "Shechita",
+      "Kuti Included",
+      "Mumar Included",
+      "Chullin Reference",
+      "Aliyah Demand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks what 'everyone slaughters' adds and explains both inclusions (Kuti and mumar), making it a natural fit under the 'Shechita' heading which introduces the hakol shochtin formula and notes the gemara accounts for both appearances \u2014 rather than splitting it under the more specific 'Kuti Included' heading.",
+      "chosen_heading": "Shechita",
+      "current_heading": "Kuti Included",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Aliyah Demand",
+    "candidates": [
+      "Mumar Included",
+      "Chullin Reference",
+      "Aliyah Demand",
+      "Spouse Dynamics",
+      "Wife Aliyah",
+      "Husband Aliyah",
+      "Slave Aliyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and asks about the mishna 'hakol ma'alin l'Eretz Yisrael' from Ketubot 110b, which is precisely what the 'Aliyah Demand' section's prose describes.",
+      "chosen_heading": "Aliyah Demand",
+      "current_heading": "Aliyah Demand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Slave Aliyah",
+    "candidates": [
+      "Spouse Dynamics",
+      "Wife Aliyah",
+      "Husband Aliyah",
+      "Slave Aliyah",
+      "Rashi vs. Rambam",
+      "Poor Neighborhoods",
+      "Cannot Force Out",
+      "Escaped Slave",
+      "Jerusalem Priority",
+      "Nice to Not Nice",
+      "Leave Jerusalem",
+      "Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case of moving from a pleasant residence to a noxious one (minaveh yafeh l'naveh hara) as what 'l'atuyei' adds when slaves are mentioned explicitly, which is precisely what section 5 'Poor Neighborhoods' is about.",
+      "chosen_heading": "Poor Neighborhoods",
+      "current_heading": "Slave Aliyah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168
+    ],
+    "current_heading": "Summary",
+    "candidates": [
+      "Rashi vs. Rambam",
+      "Poor Neighborhoods",
+      "Cannot Force Out",
+      "Escaped Slave",
+      "Jerusalem Priority",
+      "Nice to Not Nice",
+      "Leave Jerusalem",
+      "Summary",
+      "New Theme Intro"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Escaped Slave",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the runaway slave who fled to Eretz Yisrael and cannot be removed, which matches heading 3 'Escaped Slave' exactly.",
+      "second_heading": "Leave Jerusalem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the Jerusalem ascending/descending rules including moving from a noxious to pleasant residence, which matches heading 6 'Leave Jerusalem' (and its companion heading 5 'Nice to Not Nice'), but since item 2 covers both directions in one passage, heading 6 best captures the full content including the 'cannot force out from naveh ra to naveh yafeh' conclusion.",
+      "current_heading": "Summary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "New Theme Intro",
+    "candidates": [
+      "Summary",
+      "New Theme Intro",
+      "Sukkah Explicit",
+      "Why Explicit",
+      "Kohanim Needed",
+      "Dwell at Home",
+      "Kohanim Busy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the baraita stating everyone is obligated in sukka including Kohanim, Levites, and Israelites, followed by the Gemara's 'pshita' question \u2014 matches precisely the prose of candidate 2 ('Sukkah Explicit'), which describes exactly this baraita and this pshita exchange.",
+      "chosen_heading": "Sukkah Explicit",
+      "current_heading": "New Theme Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      183
+    ],
+    "current_heading": "Kohanim Busy",
+    "candidates": [
+      "Sukkah Explicit",
+      "Why Explicit",
+      "Kohanim Needed",
+      "Dwell at Home",
+      "Kohanim Busy",
+      "Work Hours Exempt",
+      "Travelers Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the full reasoning from 'salka da'atach amina' through the teshvu k'ein taduru / mah dirah ish v'ishto logic to the conclusion that Kohanim might be exempt, which matches heading 2 ('Kohanim Needed') and its elaboration in heading 3 ('Dwell at Home'), but since the passage is a single unit containing all these elements, heading 2 is the best single match as it introduces the core reasoning this passage presents.",
+      "chosen_heading": "Kohanim Needed",
+      "current_heading": "Kohanim Busy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      188
+    ],
+    "current_heading": "Travelers Analogy",
+    "candidates": [
+      "Work Hours Exempt",
+      "Travelers Analogy",
+      "Better Girsa",
+      "Women Exempt",
+      "Rama's Justification",
+      "Girsa Problems",
+      "Tzitzit Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both the teaching about priests being obligated when not on duty AND the travelers analogy together as one unit, but the prose of candidate 0 ('Work Hours Exempt') directly describes the exact content of this Talmudic text \u2014 the ka mashma lan that priests are exempt during avodah but obligated outside it, with the travelers analogy as the supporting proof \u2014 making it the better match, while candidate 1 ('Travelers Analogy') describes only the analogy portion as if it were already established context.",
+      "chosen_heading": "Work Hours Exempt",
+      "current_heading": "Travelers Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      200
+    ],
+    "current_heading": "Tzitzit Obligation",
+    "candidates": [
+      "Better Girsa",
+      "Women Exempt",
+      "Rama's Justification",
+      "Girsa Problems",
+      "Tzitzit Obligation",
+      "Why Spell Out",
+      "Shatnez Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about everyone being obligated in tzitzit (Kohanim, Levi'im, v'Yisraelim) and the 'pshita' question, which is exactly what the prose of candidate 4 describes.",
+      "chosen_heading": "Tzitzit Obligation",
+      "current_heading": "Tzitzit Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      205
+    ],
+    "current_heading": "Shatnez Concern",
+    "candidates": [
+      "Why Spell Out",
+      "Shatnez Concern",
+      "Exempt from Shatnez",
+      "Kohanim Shatnez",
+      "Avodah Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full argument for why one might have thought to exempt Kohanim from tzitzit, which corresponds directly to heading 0 ('Why Spell Out' \u2014 'Why would I have thought to exempt Kohanim?'), as it contains the entire reasoning from the shatnez-tzitzit juxtaposition through the conclusion that Kohanim should be exempt \u2014 all of which is the answer to that question.",
+      "chosen_heading": "Why Spell Out",
+      "current_heading": "Shatnez Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      213
+    ],
+    "current_heading": "Avodah Exemption",
+    "candidates": [
+      "Exempt from Shatnez",
+      "Kohanim Shatnez",
+      "Avodah Exemption",
+      "Outside Avodah",
+      "Tzitzit Connection",
+      "Priestly Concept",
+      "Tefillin Obligation",
+      "Why Explicit",
+      "Shel Yad vs. Shel Rosh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's resolution \u2014 permitted during avodah but not outside avodah \u2014 which is precisely what the 'Avodah Exemption' section's prose describes and is the current placement.",
+      "chosen_heading": "Avodah Exemption",
+      "current_heading": "Avodah Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      227
+    ],
+    "current_heading": "Shel Yad vs. Shel Rosh",
+    "candidates": [
+      "Outside Avodah",
+      "Tzitzit Connection",
+      "Priestly Concept",
+      "Tefillin Obligation",
+      "Why Explicit",
+      "Shel Yad vs. Shel Rosh",
+      "Chatzitzah Issue",
+      "Direct Contact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita stating 'everyone is obligated in tefillin, priests, Levites, and Israelites' with the Gemara's question 'obvious?' and answer about priests \u2014 exactly what the prose under 'Tefillin Obligation' summarizes with 'Hakol chayavin b'tefillin... Kohanim itztricha lei'.",
+      "chosen_heading": "Tefillin Obligation",
+      "current_heading": "Shel Yad vs. Shel Rosh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      232
+    ],
+    "current_heading": "Direct Contact",
+    "candidates": [
+      "Chatzitzah Issue",
+      "Direct Contact",
+      "One Doesn't Prevent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically raises the concern that priests are excluded from tefillin shel yad because of the chatzitzah requirement ('shelo yehei davar chotzetz beino uvein besaro'), which is exactly the chatzitzah issue discussed in candidate 0's prose, not the direct-contact elaboration of candidate 1.",
+      "chosen_heading": "Chatzitzah Issue",
+      "current_heading": "Direct Contact",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      235,
+      236
+    ],
+    "current_heading": "One Doesn't Prevent",
+    "candidates": [
+      "Direct Contact",
+      "One Doesn't Prevent",
+      "Hair Area"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "One Doesn't Prevent",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the conclusion that tefillin shel yad and shel rosh do not prevent each other, exactly matching the 'One Doesn't Prevent' section's prose about ka mashma lan d'lo me'akvi adadi.",
+      "second_heading": "Hair Area",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the new question of why the kohen isn't also exempt from tefillin shel rosh due to the mitznefet on his head, which is precisely the topic of the 'Hair Area' section about where tefillin shel rosh can be placed given the priestly headgear.",
+      "current_heading": "One Doesn't Prevent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      239
+    ],
+    "current_heading": "Hair Area",
+    "candidates": [
+      "Hair Area",
+      "Hair Space",
+      "Mitznefes Chatzitzah",
+      "Shofar Obligation",
+      "Why Explicit",
+      "Daily Blasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses where tefillin shel rosh can be placed on the Kohen Gadol's head \u2014 the visible hair between the tzitz and mitznefet \u2014 which is precisely what the 'Hair Area' section's prose discusses.",
+      "chosen_heading": "Hair Area",
+      "current_heading": "Hair Area",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      251,
+      252
+    ],
+    "current_heading": "Daily Blasts",
+    "candidates": [
+      "Hair Space",
+      "Mitznefes Chatzitzah",
+      "Shofar Obligation",
+      "Why Explicit",
+      "Daily Blasts",
+      "Yovel Connection",
+      "Yovel Equality",
+      "Relevance Principle",
+      "Yovel Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together cover the exact content described in the 'Daily Blasts' prose: the yom teruah reasoning (item 1) and the priests' year-round trumpet blowing argument with the gemara's immediate rejection (mi dami? hasam chatzotzros hacha shofar) (item 2), which is precisely what that section's prose describes.",
+      "chosen_heading": "Daily Blasts",
+      "current_heading": "Daily Blasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      261,
+      262
+    ],
+    "current_heading": "Yovel Exclusions",
+    "candidates": [
+      "Yovel Connection",
+      "Yovel Equality",
+      "Relevance Principle",
+      "Yovel Exclusions",
+      "Partial Inclusion",
+      "Enough Inclusion",
+      "Textual Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full argument that the Yovel-Rosh Hashanah equivalence might exclude priests from shofar obligation and the response that partial inclusion in Yovel suffices \u2014 this is precisely the content described in candidate 0's prose about the d'isa/d'leis reasoning, whereas the current placement (candidate 3) covers only the Kohanim/Levi'im exclusion detail that appears mid-argument.",
+      "chosen_heading": "Yovel Connection",
+      "current_heading": "Yovel Exclusions",
+      "moved": true
+    }
+  }
+]

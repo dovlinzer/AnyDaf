@@ -1,0 +1,346 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Woman's Vow",
+    "candidates": [
+      "Kinnim Overview",
+      "Rabbi Yehoshua Position",
+      "Gemara Evidence",
+      "Authorial Voice",
+      "Woman's Vow",
+      "Same Type Birds",
+      "Kohen's Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the opening mishna case of a woman who vows to bring a nest if she gives birth to a male and then does so, which corresponds exactly to the 'Woman's Vow' section's prose about that same scenario.",
+      "chosen_heading": "Woman's Vow",
+      "current_heading": "Woman's Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Kohen's Error",
+    "candidates": [
+      "Same Type Birds",
+      "Kohen's Error",
+      "Same Type Obligation",
+      "Two Types Birds",
+      "Two Types Obligation",
+      "Pirshah Nidrah",
+      "Forgot Specification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the priest sacrificing three above and one below when given four birds of unspecified designation, which directly matches the 'Same Type Birds' section's discussion of the kohen performing three olahs above and one chatas below.",
+      "chosen_heading": "Same Type Birds",
+      "current_heading": "Kohen's Error",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Forgot Specification",
+    "candidates": [
+      "Same Type Obligation",
+      "Two Types Birds",
+      "Two Types Obligation",
+      "Pirshah Nidrah",
+      "Forgot Specification",
+      "Pirshah Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case where the priest sacrificed two above and two below without consulting, and the remedy is one additional bird offered above \u2014 which matches exactly the 'Same Type Obligation' prose discussing the straightforward single-species case requiring one more preidah achat above.",
+      "chosen_heading": "Same Type Obligation",
+      "current_heading": "Forgot Specification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Pirshah Obligation",
+    "candidates": [
+      "Forgot Specification",
+      "Pirshah Obligation",
+      "Kava'ah Nidrah",
+      "Kava'ah Constraint",
+      "Kava'ah Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the 'pirshah nidrah' case \u2014 same-species vs. two-species outcomes (two more, then three more, then four more birds) \u2014 which is exactly what the 'Pirshah Obligation' prose discusses, including the specific counts of three and four additional birds and the reasoning about species ordering.",
+      "chosen_heading": "Pirshah Obligation",
+      "current_heading": "Pirshah Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Kava'ah Obligation",
+    "candidates": [
+      "Kava'ah Nidrah",
+      "Kava'ah Constraint",
+      "Kava'ah Obligation",
+      "Woman Unclear",
+      "Kohen Confused",
+      "Both Unclear",
+      "One Chatas",
+      "Chatas vs Ola",
+      "Ben Azzai"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Kava'ah Obligation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 describe the kava'ah nidrah case with five birds (same species) and six birds (two species), matching exactly the prose of 'Kava'ah Obligation' which explains the five/six count and the two-species complication.",
+      "second_heading": "Woman Unclear",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces an entirely new scenario where both the woman and priest are in complete uncertainty about what was given and done, matching the 'Woman Unclear' section which introduces this final compounded-confusion case.",
+      "current_heading": "Kava'ah Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ben Azzai",
+    "candidates": [
+      "Woman Unclear",
+      "Kohen Confused",
+      "Both Unclear",
+      "One Chatas",
+      "Chatas vs Ola",
+      "Ben Azzai",
+      "Closing Statement",
+      "Ram Sound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes Ben Azzai's ruling of two sin offerings, which directly matches the 'Ben Azzai' section's prose explaining his position that two chatatot are required.",
+      "chosen_heading": "Ben Azzai",
+      "current_heading": "Ben Azzai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Ram Sound",
+    "candidates": [
+      "Closing Statement",
+      "Ram Sound",
+      "Expansion Theme",
+      "Clarification",
+      "Generic Opening",
+      "Baseline Halacha",
+      "Left Hand & Night",
+      "Shechita Cases",
+      "Neveila Cases",
+      "Key Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Closing Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing statement of Rabbi Yehoshua with his parable about the ram/sheep, which belongs under 'Closing Statement' where the prose discusses identifying Rabbi Yehoshua as the author via the phrase 'zehu she'amru' and the parable he offers.",
+      "second_heading": "Clarification",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's response distinguishing between removing me'ilah and satisfying the chova obligation \u2014 exactly what the 'Clarification' prose describes: 'eima de-amar Rabbi Yehoshua la-apokei midei me'ilah... le-maskei lei le-chovah mi amar'.",
+      "current_heading": "Ram Sound",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Key Principle",
+    "candidates": [
+      "Expansion Theme",
+      "Clarification",
+      "Generic Opening",
+      "Baseline Halacha",
+      "Left Hand & Night",
+      "Shechita Cases",
+      "Neveila Cases",
+      "Key Principle",
+      "Rav Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items constitute the full Mishnah of Zevachim/Kinnim dealing with psulim who performed melikah, the cases of neveilah vs. non-neveilah status, and the closing principle \u2014 exactly what candidate 2 ('Generic Opening') introduces with its prose about 'kol ha-psulim she-malku, melikatam psulah ve-einah metamei be-veit ha-beli'ah,' making it the natural home for the entire Mishnah passage.",
+      "chosen_heading": "Generic Opening",
+      "current_heading": "Key Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rav Position",
+    "candidates": [
+      "Key Principle",
+      "Rav Position",
+      "Rav Reasoning",
+      "Bama Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav's statement distinguishing left/night from non-priest/knife, which is precisely what the 'Rav Position' prose describes.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Rav Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Bama Challenge",
+    "candidates": [
+      "Rav Reasoning",
+      "Bama Challenge",
+      "Para Aduma"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bama Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the gemara's challenge about the zar/shechita case and the answer that shechita is not an avodah, which is precisely what the 'Bama Challenge' prose describes.",
+      "second_heading": "Para Aduma",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection from para aduma's shechita requiring a kohen, which is exactly the content the 'Para Aduma' prose discusses.",
+      "current_heading": "Bama Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Para Aduma",
+    "candidates": [
+      "Para Aduma",
+      "Im Alu Lo Yered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address the para aduma / kedushat bedek ha-bayit distinction and the tzara'at analogy, which is precisely what the 'Para Aduma' prose section describes.",
+      "chosen_heading": "Para Aduma",
+      "current_heading": "Para Aduma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Im Alu Lo Yered",
+    "candidates": [
+      "Im Alu Lo Yered",
+      "Conclusion",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about whether halakhot of the bamah can be applied to Temple service, culminating in the answer that 'zot torat ha-olah' is the actual source \u2014 exactly what the 'Im Alu Lo Yered' prose describes.",
+      "chosen_heading": "Im Alu Lo Yered",
+      "current_heading": "Im Alu Lo Yered",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Conclusion",
+      "Rabbi Yochanan",
+      "Mishnah Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yochanan's position and the initial proof from the mishnah's 'kol' language \u2014 content that precisely matches the 'Rabbi Yochanan' section's prose about his ruling and the valid-but-psul category, before the fuller mishnah analysis of the closing klal described under 'Mishnah Analysis'.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Mishnah Analysis",
+    "candidates": [
+      "Mishnah Analysis",
+      "Person vs Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly discuss the gemara's analysis of the general formulations (klalim) in the mishnah \u2014 the 'kol ha-psulim' opening and 'kol she-haya psulo ba-kodesh' closing \u2014 which is precisely what the 'Mishnah Analysis' prose describes, including the conclusion that these klalim add shechitat kodshim bifnim and melikat chulin bachutz.",
+      "chosen_heading": "Mishnah Analysis",
+      "current_heading": "Mishnah Analysis",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,448 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Amemar: Bedikah Focus",
+    "candidates": [
+      "Amemar: Bedikah Focus",
+      "Mar Zutra & Rav Pappa",
+      "Rav Ashi: Simanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ameimar's statement and Mar Zutra's response, and the current heading's prose explicitly covers both opinions together, while candidate 1 ('Mar Zutra & Rav Pappa') discusses only the follow-up tradition \u2014 the full passage as a unit best fits under heading 0 where both are introduced.",
+      "chosen_heading": "Amemar: Bedikah Focus",
+      "current_heading": "Amemar: Bedikah Focus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Ashi: Simanim",
+    "candidates": [
+      "Mar Zutra & Rav Pappa",
+      "Rav Ashi: Simanim",
+      "Bird in Water Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records Huna Mar's question to Rav Ashi about the simanim and Rav Ashi's reply that they are resistant to falling damage, which is exactly what the prose under 'Rav Ashi: Simanim' describes.",
+      "chosen_heading": "Rav Ashi: Simanim",
+      "current_heading": "Rav Ashi: Simanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Bird in Water Test",
+    "candidates": [
+      "Bird in Water Test",
+      "Taut Cloaks & Nets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the bird-in-water swimming test articulated by Rav Yehuda/Shmuel, including the upstream/downstream distinction and the straw test, which is precisely what the 'Bird in Water Test' prose section discusses.",
+      "chosen_heading": "Bird in Water Test",
+      "current_heading": "Bird in Water Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Taut Cloaks & Nets",
+    "candidates": [
+      "Taut Cloaks & Nets",
+      "Flax & Bundle Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses taut/non-taut garments and closely/loosely knotted nets, which is precisely what the 'Taut Cloaks & Nets' prose describes.",
+      "chosen_heading": "Taut Cloaks & Nets",
+      "current_heading": "Taut Cloaks & Nets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Flax & Bundle Types",
+    "candidates": [
+      "Flax & Bundle Types",
+      "Sand, Ash, Straw"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Flax & Bundle Types",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers flax bundle types (bundles, beaten/combed flax, tow) which matches the 'Flax & Bundle Types' prose exactly.",
+      "second_heading": "Sand, Ash, Straw",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers nevara/tima\u1e25ta (palm fibers) and sifted/unsifted ashes, which matches the 'Sand, Ash, Straw' prose that explicitly discusses kitma nehila and also mentions the nevara/timchasa distinction.",
+      "current_heading": "Flax & Bundle Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Sand, Ash, Straw",
+    "candidates": [
+      "Sand, Ash, Straw",
+      "Legumes & Slip Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers fine sand, coarse sand, road dust, bundled and unbundled straw \u2014 exactly the substances discussed in the 'Sand, Ash, Straw' section prose.",
+      "chosen_heading": "Sand, Ash, Straw",
+      "current_heading": "Sand, Ash, Straw",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Legumes & Slip Rule",
+    "candidates": [
+      "Legumes & Slip Rule",
+      "Glued Trap Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses wheat, barley, legumes, fenugreek, peas, chickpeas, and the slip rule \u2014 exactly the content described in the 'Legumes & Slip Rule' prose section.",
+      "chosen_heading": "Legumes & Slip Rule",
+      "current_heading": "Legumes & Slip Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Glued Trap Dispute",
+    "candidates": [
+      "Glued Trap Dispute",
+      "Amemar: Rib Majority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the glued-trap (davuk) dispute between Rav Ashi and Ameimar regarding one vs. two wings stuck, including the two versions of the dispute and the final halakha, which exactly matches the prose of heading 0.",
+      "chosen_heading": "Glued Trap Dispute",
+      "current_heading": "Glued Trap Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Amemar: Rib Majority",
+    "candidates": [
+      "Amemar: Rib Majority",
+      "Zeiri: Upper Half Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines 'most of the ribs' as twelve out of twenty-two, matching the current heading's prose about rov tzalot and the Tanna'im's definition of majority ribs.",
+      "chosen_heading": "Amemar: Rib Majority",
+      "current_heading": "Amemar: Rib Majority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Zeiri: Upper Half Rule",
+    "candidates": [
+      "Zeiri: Upper Half Rule",
+      "Ben Zakkai vs. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ze'eiri's upper-half rule and Rabbi Yochanan's clarification about large ribs with marrow, which precisely matches the prose of candidate 0.",
+      "chosen_heading": "Zeiri: Upper Half Rule",
+      "current_heading": "Zeiri: Upper Half Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Ben Zakkai vs. Yochanan",
+    "candidates": [
+      "Ben Zakkai vs. Yochanan",
+      "Rav: Rib + Vertebra",
+      "Challenge: Opposing Ribs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Ben Zakkai (as cited by Ulla) and Rabbi Yochanan regarding whether dislocated vs. broken ribs require a majority of one side or both sides, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Ben Zakkai vs. Yochanan",
+      "current_heading": "Ben Zakkai vs. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Challenge: Opposing Ribs",
+    "candidates": [
+      "Rav: Rib + Vertebra",
+      "Challenge: Opposing Ribs",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous exchange: Rav Kahana and Rav Assi's challenge about opposing ribs (item 1), the Gemara's question about Rav's own ruling seemingly being gistera (item 2), and the resolution that Rav meant half a vertebra (item 3) \u2014 this is precisely what heading 1 ('Challenge: Opposing Ribs') and its prose describe, and heading 2's prose covers the subsequent reconciliation with Ben Zakkai and Rabbi Yochanan, which does not appear in these items.",
+      "chosen_heading": "Challenge: Opposing Ribs",
+      "current_heading": "Challenge: Opposing Ribs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Gemara Resolution",
+      "Inquiry Strategy Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the challenge from Ben Zakkai/Rabbi Yochanan's rulings requiring a majority and the resolution via the buchna/asita (ball and socket) distinction, which is precisely what the 'Gemara Resolution' prose describes.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Inquiry Strategy Debate",
+    "candidates": [
+      "Inquiry Strategy Debate",
+      "Shmuel's Three Treifot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are part of the continuous Gemara debate about why Rav Kahana and Rav Asi asked about two opposing ribs rather than one, which is precisely what the 'Inquiry Strategy Debate' prose describes in detail, including the reasoning, the objections, and Rav's angry response (*gistera ka ramitu* / *hainu rathichei*).",
+      "chosen_heading": "Inquiry Strategy Debate",
+      "current_heading": "Inquiry Strategy Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Shmuel's Three Treifot",
+    "candidates": [
+      "Shmuel's Three Treifot",
+      "Rib vs. Vertebra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of Shmuel's three treifot transmitted through Rabba bar Rav Sheila and Rav Mattana, which is exactly what heading 0 describes \u2014 the three Amoraic treifot of uprooted rib, crushed skull, and torn abdominal flesh.",
+      "chosen_heading": "Shmuel's Three Treifot",
+      "current_heading": "Shmuel's Three Treifot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Rib vs. Vertebra",
+    "candidates": [
+      "Rib vs. Vertebra",
+      "Beit Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion about rib vs. vertebra as *treifah* \u2014 the contradiction, its resolution (rib without vertebra vs. vertebra without rib), and the practical question of how to find a vertebra without a rib \u2014 which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Rib vs. Vertebra",
+      "current_heading": "Rib vs. Vertebra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Beit Shammai vs. Hillel",
+    "candidates": [
+      "Beit Shammai vs. Hillel",
+      "Skull: Height vs Circumf."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Oshaya's objection about why the Beit Shammai/Beit Hillel treifah dispute isn't listed among kulei/chumrei cases, and Rav's response that the original debate was framed in tumah context \u2014 exactly what the prose under 'Beit Shammai vs. Hillel' describes.",
+      "chosen_heading": "Beit Shammai vs. Hillel",
+      "current_heading": "Beit Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Skull: Height vs Circumf.",
+    "candidates": [
+      "Skull: Height vs Circumf.",
+      "Abdominal Muscle Torn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yirmeya's dilemma about whether the skull's majority means height or circumference, which matches exactly the prose under 'Skull: Height vs Circumf.' (noting that the prose attributes the question to Rami bar Ami while the Gemara text attributes it to Rabbi Yirmeya, but the topic is identical).",
+      "chosen_heading": "Skull: Height vs Circumf.",
+      "current_heading": "Skull: Height vs Circumf.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Abdominal Muscle Torn",
+    "candidates": [
+      "Abdominal Muscle Torn",
+      "Rav Yehuda: Wolf & Netz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Rav Ashi's dilemma about the flesh enveloping the rumen (torn vs. removed), the attempted resolution from the mishnah via Rabbi Yosei b. Rabbi \u1e24anina's identification of the external keres, and Shmuel's rejection of that identification \u2014 exactly the content described in the 'Abdominal Muscle Torn' prose.",
+      "chosen_heading": "Abdominal Muscle Torn",
+      "current_heading": "Abdominal Muscle Torn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rav Yehuda: Wolf & Netz",
+    "candidates": [
+      "Rav Yehuda: Wolf & Netz",
+      "R. Yehuda: Lion vs. Wolf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda's ruling about wolves for behemah and hawks for birds, which matches exactly the prose under heading 0 that describes Rav Yehuda establishing these same thresholds.",
+      "chosen_heading": "Rav Yehuda: Wolf & Netz",
+      "current_heading": "Rav Yehuda: Wolf & Netz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "R. Yehuda: Lion vs. Wolf",
+    "candidates": [
+      "R. Yehuda: Lion vs. Wolf",
+      "Rav Chisda: Cat & Weasel",
+      "Baraita: Organ Piercing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous Gemara discussion about what Rav's ruling excluding animals smaller than a wolf serves to teach \u2014 the cat exclusion, the challenge from Rabbi Yehuda's mishna position, and the resolution \u2014 which is precisely what the 'R. Yehuda: Lion vs. Wolf' prose describes.",
+      "chosen_heading": "R. Yehuda: Lion vs. Wolf",
+      "current_heading": "R. Yehuda: Lion vs. Wolf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Baraita: Organ Piercing",
+    "candidates": [
+      "Rav Chisda: Cat & Weasel",
+      "Baraita: Organ Piercing",
+      "Birebbi: Rescue Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Chisda's ruling and the immediate objection from the baraita (plus the hawk resolution), which is exactly what heading 0 ('Rav Chisda: Cat & Weasel') describes \u2014 the current placement under heading 1 splits the ruling from its own baraita challenge, but heading 0's prose already anticipates this entire unit including the species/size variables that the baraita and hawk clarification address.",
+      "chosen_heading": "Rav Chisda: Cat & Weasel",
+      "current_heading": "Baraita: Organ Piercing",
+      "moved": true
+    }
+  }
+]

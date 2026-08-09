@@ -1,6 +1,7 @@
-# Menachot 58 — Daf Yomi Shiur
-
+[DAF:57b]
 ## Chametz in Lechem HaPanim
+
+
 
 ### Lechem HaPanim Review
 
@@ -14,17 +15,20 @@ Having reviewed those conclusions, the *gemara* now pivots to a completely diffe
 
 ---
 
-## Kol Shemimenu L'Ishi (II)
+## Kol Shemimenu L'Ishim
+
+
 
 ### Tanu Rabbanan Teaching
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מִנַּיִן לְמַעֲלֶה מִבְּשַׂר חַטָּאת, וּמִבְּשַׂר אָשָׁם, וּמִבְּשַׂר קׇדְשֵׁי הַקֳּדָשִׁים, וּמִקֳּדָשִׁים קַלִּים, וּמִמּוֹתַר הָעוֹמֶר, וּמִמּוֹתַר שְׁתֵּי הַלֶּחֶם, וּמִלֶּחֶם הַפָּנִים, וּמִשְּׁיָרֵי מְנָחוֹת, שֶׁהוּא בְּלֹא תַעֲשֶׂה?
->
-> **Translation:** The **Sages taught** in a *baraita*: **From where** is it derived **that one who offers up** outside the Temple courtyard a portion **of the meat of a sin offering, or** a portion **of the meat of a guilt offering, or** a portion **of the meat of offerings of the most sacred order, or** a portion **of the meat of offerings of lesser sanctity, or** a portion **of the surplus of the *omer* offering, or** a portion **of the leftover of the two loaves,** i.e., the public offering on *Shavuot* of two loaves from the new wheat, **or the shewbread, or the remainder of meal offerings, that** in all these cases **he** violates **a prohibition,** although these items are not meant to be sacrificed on the altar?
+> **Translation:** § **The Sages taught** in a *baraita*: **From where** is it derived **that one who offers up** outside the Temple courtyard a portion **of the meat of a sin offering, or** a portion **of the meat of a guilt offering, or** a portion **of the meat of offerings of the most sacred order, or** a portion **of the meat of offerings of lesser sanctity, or** a portion **of the surplus of the *omer* offering, or** a portion **of the leftover of the two loaves,** i.e., the public offering on *Shavuot* of two loaves from the new wheat, **or the shewbread, or the remainder of meal offerings, that** in all these cases **he** violates **a prohibition,** although these items are not meant to be sacrificed on the altar?
 
-> תַּלְמוּד לוֹמַר: ״כִּי כׇל שְׂאֹר וְכׇל דְּבַשׁ לֹא תַקְטִירוּ מִמֶּנּוּ אִשֶּׁה לַה׳״, כֹּל שֶׁהוּא מִמֶּנּוּ לָאִישִּׁים הֲרֵי הוּא בְּבַל תַּקְטִירוּ.
->
-> The *baraita* answers: **The verse states: "For any leaven, and any honey, you shall not burn any of it as an offering made by fire to the Lord"** (Leviticus 2:11). The extra term "of it" teaches that **any** item **that** has already had some part **of it** burned **in** the **fire** on the altar **is** included **in** the prohibition: **Do not burn,** stated in that verse explicitly with regard to honey and leaven.
+> **Hebrew/Aramaic:** תַּלְמוּד לוֹמַר: ״כִּי כׇל שְׂאֹר וְכׇל דְּבַשׁ לֹא תַקְטִירוּ מִמֶּנּוּ אִשֶּׁה לַה׳״, כֹּל שֶׁהוּא מִמֶּנּוּ לָאִישִּׁים הֲרֵי הוּא בְּבַל תַּקְטִירוּ.
+> **Translation:** The *baraita* answers: **The verse states: “For any leaven, and any honey, you shall not burn any of it as an offering made by fire to the Lord”** (Leviticus 2:11). The extra term “of it” teaches that **any** item **that** has already had some part **of it** burned **in** the **fire** on the altar **is** included **in** the prohibition: **Do not burn,** stated in that verse explicitly with regard to honey and leaven.
+
+> **Hebrew/Aramaic:** וּשְׁתֵּי הַלֶּחֶם וְלֶחֶם הַפָּנִים, יֵשׁ מֵהֶן לָאִישִּׁים? וְהָתַנְיָא: יָצְאוּ שְׁתֵּי הַלֶּחֶם וְלֶחֶם הַפָּנִים שֶׁאֵין מֵהֶם לָאִישִּׁים!
+> **Translation:** The Gemara asks: **And** with regard to **the two loaves and the shewbread, is there** some part **of them** burned **in** the **fire? But isn’t it taught** in a *baraita*: A portion of every offering is sacrificed on the altar, **except for the two loaves and the shewbread, as no** part **of them** is burned **in** the **fire?**
 
 The *tanu rabbanan* asks: from where do we know that one who takes the meat of a *chatat*, the meat of an *asham*, the meat of any of the other *kodshei kodashim*, or the meat of *kodashim kalim* — items that are ordinarily designated to be eaten — and burns them on the *mizbeach* instead, has transgressed a negative prohibition? The *gemara* clarifies what *kodshei kodashim* apart from *chatat* and *asham* could have edible meat: it is the meat of the *zivchei shalmei tzibur* whose flesh, together with the *shoke v'chazeh*, was eaten on *Shavuos*. The prohibition likewise applies to *mosar ha'omer* — the remainder of the *omer mincha* that the *kohanim* eat after the *kometz* is taken — *mosar shnei halachem*, the entirety of the *shtei halachem* themselves (since no part of the *shtei halachem* itself is ever placed on the *mizbeach*), *lechem hapanim*, and indeed the remnant of any *mincha*.
 
@@ -34,13 +38,8 @@ This is conceptually striking. The normal understanding of the prohibition again
 
 ### Hagasha Requirements
 
-> **Hebrew/Aramaic:** וּשְׁתֵּי הַלֶּחֶם וְלֶחֶם הַפָּנִים, יֵשׁ מֵהֶן לָאִישִּׁים? וְהָתַנְיָא: יָצְאוּ שְׁתֵּי הַלֶּחֶם וְלֶחֶם הַפָּנִים שֶׁאֵין מֵהֶם לָאִישִּׁים!
->
-> **Translation:** The Gemara asks: **And** with regard to **the two loaves and the shewbread, is there** some part **of them** burned **in** the **fire? But isn't it taught** in a *baraita*: A portion of every offering is sacrificed on the altar, **except for the two loaves and the shewbread, as no** part **of them** is burned **in** the **fire?**
-
-> אָמַר רַב שֵׁשֶׁת: אֵין מִגּוּפוֹ לָאִישִּׁים.
->
-> **Rav Sheshet said:** Although **no** part **of** the two loaves or the shewbread **themselves** is burned **in** the **fire,** nevertheless, they are included in the prohibition against offering them up to the altar, since they are not viewed as independent entities but rather as parts of larger offerings. The two loaves accompany the sheep sacrificed as burnt offerings on Shavuot, and are permitted for consumption only once those sheep have been burned on the altar. Similarly, the shewbread is permitted for consumption only after the bowls of frankincense that were on the Table with it have been burned on the altar.
+> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: אֵין מִגּוּפוֹ לָאִישִּׁים.
+> **Translation:** **Rav Sheshet said:** Although **no** part **of** the two loaves or the shewbread **themselves** is burned **in** the **fire,** nevertheless, they are included in the prohibition against offering them up to the altar, since they are not viewed as independent entities but rather as parts of larger offerings. The two loaves accompany the sheep sacrificed as burnt offerings on Shavuot, and are permitted for consumption only once those sheep have been burned on the altar. Similarly, the shewbread is permitted for consumption only after the bowls of frankincense that were on the Table with it have been burned on the altar.
 
 The *gemara* immediately raises a question about the *shtei halachem* and *lechem hapanim*: are these truly considered *shemimenu l'ishim* — that from them goes to the fire? After all, the *shtei halachem* themselves are never placed on the *mizbeach*; it is the *imurin* of the accompanying *kevasim* that are burned. Similarly, by the *lechem hapanim*, it is the *levonah* in the golden dishes on the *shulchan* that is burned, not the bread itself. Can it be said that from these offerings something goes to the fire?
 
@@ -52,25 +51,22 @@ Rav Sheshet resolves the tension by distinguishing the parameters of these two *
 
 ## Kibesh Dispute
 
-### Ramp Case Dispute
 
-> **Hebrew/Aramaic:** אִיתְּמַר: הַמַּעֲלֶה מִכּוּלָּם עַל גַּבֵּי הַכֶּבֶשׁ, רַבִּי יוֹחָנָן אָמַר: חַיָּיב, רַבִּי אֶלְעָזָר אָמַר: פָּטוּר.
->
-> **Translation:** § The Gemara discusses the prohibition against offering up on the altar parts of offerings after their sacrificial portions have already been burned. **It was stated:** With regard to **one who brings up** any part **of any of** the items listed in the *baraita* **onto the ramp** leading to the altar, but not to the altar itself, **Rabbi Yoḥanan says** he is **liable** and **Rabbi Elazar says** he is **exempt.**
+
+### Ramp Case Dispute
 
 The *gemara* introduces a dispute between Rabbi Yochanan and Rabbi Elazar concerning a case where someone places *chametz* or honey on the *kibesh* — the ramp leading up to the *mizbeach* — rather than on the *mizbeach* proper. Rabbi Yochanan rules the person is *chayav*, while Rabbi Elazar rules the person is *patur*.
 
 The dispute must be understood against the backdrop of a general question, familiar from *Zevachim*, about the status of the *kibesh*: to what degree is the ramp treated as an extension of the *mizbeach* itself? Note that the scenario involves actually burning the item on the ramp — it is not merely a question of placing it there — and so the act does constitute *haktara*. The question is whether doing so on the ramp rather than on the *mizbeach* proper triggers the prohibition.
 
+> **Hebrew/Aramaic:** אִיתְּמַר: הַמַּעֲלֶה מִכּוּלָּם עַל גַּבֵּי הַכֶּבֶשׁ, רַבִּי יוֹחָנָן אָמַר: חַיָּיב, רַבִּי אֶלְעָזָר אָמַר: פָּטוּר.
+> **Translation:** § The Gemara discusses the prohibition against offering up on the altar parts of offerings after their sacrificial portions have already been burned. **It was stated:** With regard to **one who brings up** any part **of any of** the items listed in the *baraita* **onto the ramp** leading to the altar, but not to the altar itself, **Rabbi Yoḥanan says** he is **liable** and **Rabbi Elazar says** he is **exempt.**
+
+> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן אָמַר חַיָּיב, דְּתַנְיָא: ״הַמִּזְבֵּחַ״ – אֵין לִי אֶלָּא מִזְבֵּחַ, כֶּבֶשׁ מִנַּיִן? תַּלְמוּד לוֹמַר ״וְאֶל הַמִּזְבֵּחַ לֹא יַעֲלוּ לְרָצוֹן״.
+> **Translation:** The Gemara elaborates. **Rabbi Yoḥanan says** he is **liable, as it is taught** in a *baraita*: After the verse: “As any leaven and any honey, you shall not burn any of it as an offering made by fire to the Lord,” the next verse states: “As an offering of first fruits you may bring them to the Lord, but they shall not come up to **the altar** for a pleasing aroma” (Leviticus 2:12). **I have** derived **only** that this *halakha* applies to an item that is brought on the **altar. From where** is it derived that the same applies if it is brought to the **ramp** of the altar? **The verse states: “But they shall not come up to the altar** for a pleasing aroma,” to be accepted, and the ramp is the means to ascend to the altar.
+
 ### Elazar Rationale
 
-> **Hebrew/Aramaic:** וְרַבִּי אֶלְעָזָר אָמַר פָּטוּר, מַאי טַעְמָא? דְּאָמַר קְרָא: ״שְׂאֹר וּדְבַשׁ ... קׇרְבַּן רֵאשִׁית תַּקְרִיבוּ אֹתָם״.
->
-> **Translation:** **And what is the reason** that **Rabbi Elazar says** that one who brings up parts to the ramp is **exempt? As the verse states:** "For any **leaven, and** any **honey,** you shall not burn any of it as an offering made by fire to the Lord. **As an offering of first produce you may bring them** to the Lord, but they shall not come up to the altar for a pleasing aroma" (Leviticus 2:11–12).
-
-> ״אוֹתָם״ – הוּא דְּרַבִּי לְךָ כֶּבֶשׁ כְּמִזְבֵּחַ, אֲבָל מִידֵּי אַחֲרִינָא – לָא.
->
-> **Translation:** The Gemara explains: The term **"them"** indicates that this *halakha* applies only to those offerings that come from leaven or honey and which are called: "An offering of first produce." This category consists of first fruits, which are brought from dates and other sweet fruit and which are called: "The choicest first fruits of your land" (Exodus 23:19), and the two loaves, which are leaven and are the first meal offerings brought from the new crop each year. In other words, it is with regard to **this** category **that** the verse **amplifies for you** the *halakha* that the **ramp** of the altar is considered **like** the **altar** itself. **But** with regard to **other items,** e.g., the meat of sin offerings and guilt offerings, the ramp of the altar is **not** treated like the altar itself.
 
 Rabbi Elazar's position is grounded in a close reading of the *pasuk*. The verse reads: *ki kol se'or v'chol devash lo saktiru mimenu isheh laShem korban reishit takrivu otam laShem v'el hamizbeach lo ya'alu l'rei'ach nicho'ach*. The phrase *v'el hamizbeach lo ya'alu* — "they shall not ascend toward the *mizbeach*" — uses the word *el*, meaning "toward," which, Rabbi Elazar acknowledges, can extend the prohibition to the ramp. However, he argues that this extension applies only to *se'or u'dvash* themselves, as the *pasuk* reads: *korban reishit takrivu otam* — you shall bring *them* as a *korban reishit*. The word *otam* — "them" — links the clause about ascending toward the *mizbeach* specifically back to *se'or u'dvash*.
 
@@ -78,64 +74,66 @@ The *peshat* of the *pasuk* is instructive: *shtei halachem* are made of *chamet
 
 ### Yochanan on Otam
 
-> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן, הַאי ״אֹתָם״ מַאי עָבֵיד לֵיהּ?
->
-> **Translation:** The Gemara asks: **And what does Rabbi Yoḥanan,** who maintains that the prohibition against bringing leftover portions up to the ramp applies to all of the items listed in the *baraita*, **do with this** term: **"Them,"** in the verse: "As an offering of first produce you may bring them" (Leviticus 2:12), from which Rabbi Elazar learns that only first fruits and the two loaves are included in the prohibition?
-
-> מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: יָכוֹל יְהֵא יָחִיד מִתְנַדֵּב וּמֵבִיא כַּיּוֹצֵא בָּהּ נְדָבָה, וְקוֹרֵא אֲנִי בָּהּ ״מוֹצֵא שְׂפָתֶיךָ תִּשְׁמֹר וְעָשִׂיתָ״?
->
-> **Translation:** The Gemara answers: **He requires it for that which is taught** in a *baraita*: One **might** have thought that **an individual may donate and bring** to the Temple **a gift** offering **similar to those** two loaves brought by the community, **and** in support **I** will **read with regard to** this offering the verse that deals with other gift offerings: **"That which has gone out of your lips you shall observe and do;** according to what you have vowed freely to the Lord your God, even that which you have promised with your mouth" (Deuteronomy 23:24), which would mean that the offering is consecrated and he must bring it as he declared.
-
-> תַּלְמוּד לוֹמַר ״קׇרְבַּן רֵאשִׁית תַּקְרִיבוּ״, צִיבּוּר אָמַרְתִּי לְךָ, וְלֹא יָחִיד.
->
-> Therefore, **the verse states: "As an offering of first produce you may bring."** The phrase: "You may bring," is written in the plural, meaning that it is addressed to the community. Therefore, it is interpreted to mean: **I said to you** that **a community** may consecrate and bring the two loaves, which are an offering of first produce, **but an individual** may **not** consecrate and bring two loaves of this nature.
-
 Rabbi Yochanan, who rules one is *chayav* even on the ramp for all categories, must then account for the word *otam* differently. His answer is that *otam* is needed for an entirely different *derasha* — namely, the teaching that *shtei halachem* cannot be brought as a *nedavah*. That *derasha* is taken up in the following section.
+
+> **Hebrew/Aramaic:** וְרַבִּי אֶלְעָזָר אָמַר פָּטוּר, מַאי טַעְמָא? דְּאָמַר קְרָא: ״שְׂאֹר וּדְבַשׁ ... קׇרְבַּן רֵאשִׁית תַּקְרִיבוּ אֹתָם״.
+> **Translation:** **And what is the reason** that **Rabbi Elazar says** that one who brings up parts to the ramp is **exempt? As the verse states:** “For any **leaven, and** any **honey,** you shall not burn any of it as an offering made by fire to the Lord. **As an offering of first produce you may bring them** to the Lord, but they shall not come up to the altar for a pleasing aroma” (Leviticus 2:11–12).
+
+> **Hebrew/Aramaic:** ״אוֹתָם״ – הוּא דְּרַבִּי לְךָ כֶּבֶשׁ כְּמִזְבֵּחַ, אֲבָל מִידֵּי אַחֲרִינָא – לָא.
+> **Translation:** The Gemara explains: The term **“them”** indicates that this *halakha* applies only to those offerings that come from leaven or honey and which are called: “An offering of first produce.” This category consists of first fruits, which are brought from dates and other sweet fruit and which are called: “The choicest first fruits of your land” (Exodus 23:19), and the two loaves, which are leaven and are the first meal offerings brought from the new crop each year. In other words, it is with regard to **this** category **that** the verse **amplifies for you** the *halakha* that the **ramp** of the altar is considered **like** the **altar** itself. **But** with regard to **other items,** e.g., the meat of sin offerings and guilt offerings, the ramp of the altar is **not** treated like the altar itself.
 
 ---
 
 ## Shtei HaLechem Nedavah
 
-### Nedavah Hypothetical
 
-> **Hebrew/Aramaic:** יָכוֹל לֹא יְהֵא יָחִיד מֵבִיא, שֶׁאֵינוֹ מֵבִיא חוֹבָתוֹ כַּיּוֹצֵא בָּהּ, אֲבָל יְהֵא צִיבּוּר מֵבִיא שֶׁמֵּבִיא חוֹבָתוֹ כַּיּוֹצֵא בָּהּ? תַּלְמוּד לוֹמַר ״אֹתָם״, וּמָה יֵשׁ לְךָ לְהָבִיא? שְׁתֵּי הַלֶּחֶם מִן הַשְּׂאוֹר, וּבִכּוּרִים מִן הַדְּבַשׁ.
->
-> **Translation:** The *baraita* continues: One **might** have thought that only **an individual may not bring** two loaves as a gift offering, **as** an individual **does not bring his obligatory** offering in a manner **similar to those** two loaves, i.e., perhaps specifically an individual, who never has an obligatory offering of two loaves, may not bring two loaves as a gift offering. **But** the **community shall bring** two loaves as a gift offering, **as** the community **does bring its obligatory** offering in a manner **similar to those** two loaves. Therefore, **the verse states:** "You may bring **them,"** to exclude the possibility of a communal gift offering of two loaves. The *baraita* concludes: **And what is there** left **for you to bring** as offerings that come from leaven and honey? **The two loaves** that come **from leaven, and** the **first fruits** that come **from honey,** i.e., sweet fruits.
+
+[DAF:58a]
+### Nedavah Hypothetical
 
 The *gemara* now addresses the question of whether an individual or the *tzibur* could bring *shtei halachem* as a free-will offering. The *braisa* raises the hypothetical: might one think an individual could voluntarily bring *shtei halachem* as a *nedavah*? The reasoning that would support such a *hava amina* is that one could invoke *motza sefatecha tishmor v'asita* — once one has made a *neder*, one is obligated to fulfill it — and perhaps the *beis din* would permit such an offering. One might further ask: even if an individual cannot bring *shtei halachem* as a *nedavah* since he never brings them as an obligatory *korban*, perhaps the *tzibur* — which does bring *shtei halachem* as a *chovah* on *Shavuos* — could bring them as a *nedavah* on some other occasion?
 
 It should be noted, parenthetically, that there are other *korbanos* of which *chametz* bread is a component — notably the *korban toda*, which includes ten loaves of *chametz* — so the *hava amina* here is not that no *korban* can ever incorporate *chametz* bread. As Rashi notes later on the daf, the bread of the *toda* may even be brought at a somewhat later time than the animal, making it less tightly integrated into the package; the *shtei halachem* by contrast are a more integral part of their *korban*. Regardless, the *gemara* here is focused on whether the *shtei halachem* specifically can come as a *nedavah*.
 
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן, הַאי ״אֹתָם״ מַאי עָבֵיד לֵיהּ?
+> **Translation:** The Gemara asks: **And what does Rabbi Yoḥanan,** who maintains that the prohibition against bringing leftover portions up to the ramp applies to all of the items listed in the *baraita*, **do with this** term: **“Them,”** in the verse: “As an offering of first produce you may bring them” (Leviticus 2:12), from which Rabbi Elazar learns that only first fruits and the two loaves are included in the prohibition?
+
+> **Hebrew/Aramaic:** מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: יָכוֹל יְהֵא יָחִיד מִתְנַדֵּב וּמֵבִיא כַּיּוֹצֵא בָּהּ נְדָבָה, וְקוֹרֵא אֲנִי בָּהּ ״מוֹצֵא שְׂפָתֶיךָ תִּשְׁמֹר וְעָשִׂיתָ״?
+> **Translation:** The Gemara answers: **He requires it for that which is taught** in a *baraita*: One **might** have thought that **an individual may donate and bring** to the Temple **a gift** offering **similar to those** two loaves brought by the community, **and** in support **I** will **read with regard to** this offering the verse that deals with other gift offerings: **“That which has gone out of your lips you shall observe and do;** according to what you have vowed freely to the Lord your God, even that which you have promised with your mouth” (Deuteronomy 23:24), which would mean that the offering is consecrated and he must bring it as he declared.
+
+> **Hebrew/Aramaic:** תַּלְמוּד לוֹמַר ״קׇרְבַּן רֵאשִׁית תַּקְרִיבוּ״, צִיבּוּר אָמַרְתִּי לְךָ, וְלֹא יָחִיד.
+> **Translation:** Therefore, **the verse states: “As an offering of first produce you may bring.”** The phrase: “You may bring,” is written in the plural, meaning that it is addressed to the community. Therefore, it is interpreted to mean: **I said to you** that **a community** may consecrate and bring the two loaves, which are an offering of first produce, **but an individual** may **not** consecrate and bring two loaves of this nature.
+
+> **Hebrew/Aramaic:** יָכוֹל לֹא יְהֵא יָחִיד מֵבִיא, שֶׁאֵינוֹ מֵבִיא חוֹבָתוֹ כַּיּוֹצֵא בָּהּ, אֲבָל יְהֵא צִיבּוּר מֵבִיא שֶׁמֵּבִיא חוֹבָתוֹ כַּיּוֹצֵא בָּהּ? תַּלְמוּד לוֹמַר ״אֹתָם״, וּמָה יֵשׁ לְךָ לְהָבִיא? שְׁתֵּי הַלֶּחֶם מִן הַשְּׂאוֹר, וּבִכּוּרִים מִן הַדְּבַשׁ.
+> **Translation:** The *baraita* continues: One **might** have thought that only **an individual may not bring** two loaves as a gift offering, **as** an individual **does not bring his obligatory** offering in a manner **similar to those** two loaves, i.e., perhaps specifically an individual, who never has an obligatory offering of two loaves, may not bring two loaves as a gift offering. **But** the **community shall bring** two loaves as a gift offering, **as** the community **does bring its obligatory** offering in a manner **similar to those** two loaves. Therefore, **the verse states:** “You may bring **them,”** to exclude the possibility of a communal gift offering of two loaves. The *baraita* concludes: **And what is there** left **for you to bring** as offerings that come from leaven and honey? **The two loaves** that come **from leaven, and** the **first fruits** that come **from honey,** i.e., sweet fruits.
+
+> **Hebrew/Aramaic:** וּשְׁתֵּי הַלֶּחֶם לֹא יִקְרְבוּ נְדָבָה? וְהָתַנְיָא: אִם נֶאֱמַר ״כׇּל שְׂאֹר״, לָמָּה נֶאֱמַר ״כׇּל דְּבַשׁ״? וְאִם נֶאֱמַר ״כׇּל דְּבַשׁ״, לָמָּה נֶאֱמַר ״כׇּל שְׂאֹר״? מִפְּנֵי שֶׁיֵּשׁ בַּשְּׂאוֹר מַה שֶּׁאֵין בַּדְּבַשׁ, וְיֵשׁ בַּדְּבַשׁ מַה שֶּׁאֵין בִּשְׂאוֹר.
+> **Translation:** The Gemara asks: **And may the two loaves not be sacrificed** as communal **gift** offerings? **But isn’t it taught** in a *baraita* with regard to the verse: “As any leaven, and any honey, you shall not burn any of it” (Leviticus 2:11): **If it is stated: “Any leaven,” why is it stated: “Any honey”? And if it is stated: “Any honey,” why is it stated: “Any leaven”?** In other words, why is it necessary for the verse to repeat the inclusive term “any,” from which it is derived that offering an insufficient quantity of honey or leaven is included in the prohibition? The *baraita* answers: Both of these terms had to be stated, **because there is** a *halakha* that applies **to leaven that is not** applicable **to honey, and there is** another *halakha* that applies **to honey that is not** applicable **to leaven.**
+
 ### Korban Reishit Derasha
 
-> **Hebrew/Aramaic:** וְלֹא יְהֵא צִיבּוּר מֵבִיא שֶׁמֵּבִיא חוֹבָתוֹ כַּיּוֹצֵא בָּהּ? תַּלְמוּד לוֹמַר ״אֹתָם״, וּמָה יֵשׁ לְךָ לְהָבִיא? שְׁתֵּי הַלֶּחֶם מִן הַשְּׂאוֹר, וּבִכּוּרִים מִן הַדְּבַשׁ.
->
-> **Translation:** One **might** have thought that only **an individual may not bring** two loaves as a gift offering, **as** an individual **does not bring his obligatory** offering in a manner **similar to those** two loaves, i.e., perhaps specifically an individual, who never has an obligatory offering of two loaves, may not bring two loaves as a gift offering. **But** the **community shall bring** two loaves as a gift offering, **as** the community **does bring its obligatory** offering in a manner **similar to those** two loaves. Therefore, **the verse states:** "You may bring **them,"** to exclude the possibility of a communal gift offering of two loaves. The *baraita* concludes: **And what is there** left **for you to bring** as offerings that come from leaven and honey? **The two loaves** that come **from leaven, and** the **first fruits** that come **from honey,** i.e., sweet fruits.
+
 
 The prohibition is derived from the *pasuk*: *korban reishit takrivu* — "you shall bring a *korban reishit*" — the plural "you" referring to the *tzibur*, not an individual. *Korban reishit* encompasses both the *shtei halachem*, which are the first offering of the new wheat crop and are considered a form of *bikurim* and *reishit* before the *mizbeach*, and the *bikurim* themselves, which are called *reishit* as the first fruits. This establishes that the *tzibur* — not the individual — is the one who brings *shtei halachem*.
 
-The *braisa* then asks: perhaps the individual cannot bring *shtei halachem* simply because he never has an obligatory *shtei halachem* offering, and therefore lacks the option of a parallel *nedavah*. But the *tzibur*, which does bring *shtei halachem* as a *chovah* on *Shavuos*, might be permitted to bring them as a *nedavah* at other times. Here is where Rabbi Yochanan deploys the word *otam*: *korban reishit takrivu otam laShem* — "them" you shall bring. The word *otam* restricts the permissible occasions for bringing offerings involving *chametz* or *dvash* to precisely those cases the Torah has prescribed. There is no latitude to bring *shtei halachem* as a *nedavah* — neither by an individual, nor by the *tzibur* on some day other than *Shavuos*. The prescribed cases are: *shtei halachem* from *chametz* on *Shavuos*, and *bikurim* which include *dvash* from dates. Both are *reishit*, both come as part of a package — *v'el hamizbeach lo ya'alu l'rei'ach nicho'ach* — and neither may be offered up on the *mizbeach*. Those are the only permissible contexts; a *nedavah* of *shtei halachem* is thus foreclosed entirely.
+The *braisa* then asks: perhaps the individual cannot bring *shtei halachem* simply because he never has an obligatory *shtei halachem* offering, and therefore lacks the option of a parallel *nedavah*. But the *tzibur*, which does bring *shtei halachem* as a *chovah* on *Shavuos*, might be permitted to bring them as a *nedavah* at other times. Here is where Rabbi Yochanan deploys the word *otam*: *korban reishit takrivu otam laShem* — "them" you shall bring. The word *otam* restricts the permissible occasions for bringing offerings involving *chametz* or *dvash* to precisely those cases the Torah has prescribed. There is no latitude to bring *shtei halachem* as a *nedavah* — neither by an individual, nor by the *tzibur* on some day other than *Shavuos*.
+
+It is worth pausing to appreciate why the *shtei halachem* required a special verse to foreclose the *nedavah* option at all. The reason is that both the *shtei halachem* and the *kivsei atzeret* that accompany them are inherently the kind of things that can come as *nedavot*: *shlamim* can come as a *nedavah*, and a *mincha* — including bread — can come as a *nedavah*, as with the *toda*. Because the components of this package belong to categories that ordinarily admit of voluntary offering, there was a genuine *hava amina* that the whole package might be brought as a *nedavah*. This stands in contrast to a *korban* like a *chatat* or *asham*, where there is no *hava amina* whatsoever that one could bring such a *korban* voluntarily — their nature as *chovah* is simply assumed. It is precisely because *shtei halachem* are built from the stuff of *nedavot* that the Torah needed *otam* to restrict them.
+
+The prescribed cases are: *shtei halachem* from *chametz* on *Shavuos*, and *bikurim* which include *dvash* from dates. Both are *reishit*, both come as part of a package — *v'el hamizbeach lo ya'alu l'rei'ach nicho'ach* — and neither may be offered up on the *mizbeach*. Those are the only permissible contexts; a *nedavah* of *shtei halachem* is thus foreclosed entirely.
 
 ### Se'or Hutar Miklalo
 
-> **Hebrew/Aramaic:** וּשְׁתֵּי הַלֶּחֶם לֹא יִקְרְבוּ נְדָבָה? וְהָתַנְיָא: אִם נֶאֱמַר ״כׇּל שְׂאֹר״, לָמָּה נֶאֱמַר ״כׇּל דְּבַשׁ״? וְאִם נֶאֱמַר ״כׇּל דְּבַשׁ״, לָמָּה נֶאֱמַר ״כׇּל שְׂאֹר״? מִפְּנֵי שֶׁיֵּשׁ בַּשְּׂאוֹר מַה שֶּׁאֵין בַּדְּבַשׁ, וְיֵשׁ בַּדְּבַשׁ מַה שֶּׁאֵין בִּשְׂאוֹר.
->
-> **Translation:** The Gemara asks: **And may the two loaves not be sacrificed** as communal **gift** offerings? **But isn't it taught** in a *baraita* with regard to the verse: "As any leaven, and any honey, you shall not burn any of it" (Leviticus 2:11): **If it is stated: "Any leaven," why is it stated: "Any honey"? And if it is stated: "Any honey," why is it stated: "Any leaven"?** In other words, why is it necessary for the verse to repeat the inclusive term "any," from which it is derived that offering an insufficient quantity of honey or leaven is included in the prohibition? The *baraita* answers: Both of these terms had to be stated, **because there is** a *halakha* that applies **to leaven that is not** applicable **to honey, and there is** another *halakha* that applies **to honey that is not** applicable **to leaven.**
-
-> שְׂאוֹר הוּתַּר מִכְּלָלוֹ בַּמִּקְדָּשׁ, דְּבַשׁ לֹא הוּתַּר מִכְּלָלוֹ בַּמִּקְדָּשׁ.
->
+> **Hebrew/Aramaic:** שְׂאוֹר הוּתַּר מִכְּלָלוֹ בַּמִּקְדָּשׁ, דְּבַשׁ לֹא הוּתַּר מִכְּלָלוֹ בַּמִּקְדָּשׁ.
 > **Translation:** The *baraita* explains: In the case of **leaven,** although it may not be sacrificed on the altar, **its general** prohibition **was permitted** in certain circumstances **in the Temple,** as the two loaves and the bread of the thanks offering, i.e., the four loaves of the thanks offering that were eaten by the priests, are leavened bread. By contrast, with regard to **honey,** there are **no** circumstances in which **its general** prohibition **was permitted in the Temple.**
 
-> דְּבַשׁ הוּתַּר בִּשְׁיָרֵי מְנָחוֹת, שְׂאוֹר לֹא הוּתַּר בִּשְׁיָרֵי מְנָחוֹת. הָא מִפְּנֵי שֶׁיֵּשׁ בַּשְּׂאוֹר מַה שֶּׁאֵין בַּדְּבַשׁ, וְיֵשׁ בַּדְּבַשׁ מַה שֶּׁאֵין בִּשְׂאוֹר, הוּצְרַךְ לוֹמַר ״כׇּל שְׂאֹר״, וְהוּצְרַךְ לוֹמַר ״כׇּל דְּבַשׁ״.
->
-> **Translation:** There is a *halakha* that applies to honey but not to leaven, as the prohibition concerning **honey is permitted** in the case **of the remainder of meal offerings,** meaning that the priests may eat their portion of meal offerings with honey, whereas the prohibition concerning **leaven is not permitted** in the case **of the remainder of meal offerings,** since one may not leaven this remainder. The *baraita* summarizes: **Due to** the fact **that there is** a *halakha* that applies **to leaven that is not** applicable **to honey, and there is** a *halakha* that applies **to honey that is not** applicable **to leaven, it was necessary** for the verse **to state: "Any leaven," and it was** also **necessary** for it **to state: "Any honey."**
+> **Hebrew/Aramaic:** דְּבַשׁ הוּתַּר בִּשְׁיָרֵי מְנָחוֹת, שְׂאוֹר לֹא הוּתַּר בִּשְׁיָרֵי מְנָחוֹת. הָא מִפְּנֵי שֶׁיֵּשׁ בַּשְּׂאוֹר מַה שֶּׁאֵין בַּדְּבַשׁ, וְיֵשׁ בַּדְּבַשׁ מַה שֶּׁאֵין בִּשְׂאוֹר, הוּצְרַךְ לוֹמַר ״כׇּל שְׂאֹר״, וְהוּצְרַךְ לוֹמַר ״כׇּל דְּבַשׁ״.
+> **Translation:** There is a *halakha* that applies to honey but not to leaven, as the prohibition concerning **honey is permitted** in the case **of the remainder of meal offerings,** meaning that the priests may eat their portion of meal offerings with honey, whereas the prohibition concerning **leaven is not permitted** in the case **of the remainder of meal offerings,** since one may not leaven this remainder. The *baraita* summarizes: **Due to** the fact **that there is** a *halakha* that applies **to leaven that is not** applicable **to honey, and there is** a *halakha* that applies **to honey that is not** applicable **to leaven, it was necessary** for the verse **to state: “Any leaven,” and it was** also **necessary** for it **to state: “Any honey.”**
 
-> שְׂאוֹר דְּהוּתַּר מִכְּלָלוֹ בַּמִּקְדָּשׁ, מַאי נִיהוּ? לָאו שְׁתֵּי הַלֶּחֶם דְּקָרְבָה נְדָבָה? אָמַר רַב עַמְרָם: לָא, לִיקְרַב עִמָּהֶם.
->
-> **Translation:** The Gemara analyzes the *baraita*. When the *baraita* states concerning **leaven that its general** prohibition **was permitted** in certain circumstances **in the Temple, what is this? Isn't** this referring to the *halakha* **that** the meal offering of the **two loaves may be sacrificed** by the community as **a gift** offering on the altar, as the two loaves of the communal offering themselves were not sacrificed on the altar? This would mean that two loaves may be brought as a gift offering by the community, which contradicts this claim of the previous *baraita*. **Rav Amram said: No,** the *baraita* is referring to the fact that the two loaves, which were leaven, **are brought** as an offering **with** the two lambs, which are brought up onto the altar as communal peace offerings. Since they are brought together, the two loaves and the two lambs are considered a single offering, and the lambs are sacrificed on the altar.
+> **Hebrew/Aramaic:** שְׂאוֹר דְּהוּתַּר מִכְּלָלוֹ בַּמִּקְדָּשׁ, מַאי נִיהוּ? לָאו שְׁתֵּי הַלֶּחֶם דְּקָרְבָה נְדָבָה? אָמַר רַב עַמְרָם: לָא, לִיקְרַב עִמָּהֶם.
+> **Translation:** The Gemara analyzes the *baraita*. When the *baraita* states concerning **leaven that its general** prohibition **was permitted** in certain circumstances **in the Temple, what is this? Isn’t** this referring to the *halakha* **that** the meal offering of the **two loaves may be sacrificed** by the community as **a gift** offering on the altar, as the two loaves of the communal offering themselves were not sacrificed on the altar? This would mean that two loaves may be brought as a gift offering by the community, which contradicts this claim of the previous *baraita*. **Rav Amram said: No,** the *baraita* is referring to the fact that the two loaves, which were leaven, **are brought** as an offering **with** the two lambs, which are brought up onto the altar as communal peace offerings. Since they are brought together, the two loaves and the two lambs are considered a single offering, and the lambs are sacrificed on the altar.
 
-> אִי הָכִי, בִּכּוּרִים נָמֵי, דִּתְנַן: הַגּוֹזָלוֹת שֶׁעַל גַּבֵּי הַסַּלִּין הָיוּ עוֹלוֹת, וְהַסַּלִּים שֶׁבְּיָדָם נִיתָּנִין לַכֹּהֲנִים. הָנְהוּ לְעַטֵּר בִּכּוּרִים הוּא דְּאָתוּ.
->
+> **Hebrew/Aramaic:** אִי הָכִי, בִּכּוּרִים נָמֵי, דִּתְנַן: הַגּוֹזָלוֹת שֶׁעַל גַּבֵּי הַסַּלִּין הָיוּ עוֹלוֹת, וְהַסַּלִּים שֶׁבְּיָדָם נִיתָּנִין לַכֹּהֲנִים. הָנְהוּ לְעַטֵּר בִּכּוּרִים הוּא דְּאָתוּ.
 > **Translation:** The Gemara asks: **If so,** in the case of **first fruits also,** the fruits should be considered part of the offering that was brought with them. **As we learned** in a mishna (*Bikkurim* 3:5): As for **the fledglings that** were placed **on top of the baskets** that contained the first fruits brought to the Temple, **they would** sacrifice these as **burnt offerings, and the baskets** themselves **that were in the possession** of those bringing the first fruits would **be given to the priests.** Accordingly, with regard to honey as well, its general prohibition was permitted in certain circumstances, as these first fruits containing honey are included with the sacrifice of burnt offerings. The Gemara answers: **These** fledglings **came** only **to decorate** the **first fruits,** despite the fact that they were later sacrificed as burnt offerings. Bringing the fledglings is not obligatory, and therefore cannot be considered part of the same offering as first fruits.
 
 Having established that *shtei halachem* cannot come as a *nedavah*, the *gemara* returns to an earlier observation embedded in the *braisa*: the statement that *se'or hutar miklalo bamikdash* — leaven has been permitted as part of a broader package in the *mikdash* — while *devash lo hutar miklalo bamikdash* — honey has never been so permitted. What does this mean?
@@ -152,27 +150,15 @@ This, then, is the *peshat* of the *pasuk*: *korban reishit takrivu otam v'el ha
 
 ## Kol Shemimenu L'Ishi (II)
 
+
+
 ### Chatat HaOf Analysis
 
 > **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא מֵרַב חִסְדָּא: הַמַּעֲלֶה מִבְּשַׂר חַטַּאת הָעוֹף עַל גַּבֵּי הַמִּזְבֵּחַ, מַהוּ?
->
 > **Translation:** § The Gemara continues to discuss the prohibition against bringing leftover parts of offerings up to the altar after the sacrificial parts have been burned. **Rami bar Ḥama asked Rav Ḥisda:** With regard to **one who offers up on the altar** some **of the meat of a bird** sacrificed as **a sin offering,** which is meant to be eaten by the priests, **what is** the *halakha*? Is he liable to receive lashes for this action?
 
-> כֹּל שֶׁמִּמֶּנּוּ לָאִישִּׁים, אָמַר רַחֲמָנָא, וְהַאי אֵין מִמֶּנּוּ לָאִישִּׁים? אוֹ דִלְמָא כֹּל שֶׁשְּׁמוֹ קׇרְבָּן, וְהַאי נָמֵי שְׁמוֹ קׇרְבָּן? אֲמַר לֵיהּ: כֹּל שֶׁשְּׁמוֹ קׇרְבָּן, וְהַאי נָמֵי שְׁמוֹ קׇרְבָּן.
->
+> **Hebrew/Aramaic:** כֹּל שֶׁמִּמֶּנּוּ לָאִישִּׁים, אָמַר רַחֲמָנָא, וְהַאי אֵין מִמֶּנּוּ לָאִישִּׁים? אוֹ דִלְמָא כֹּל שֶׁשְּׁמוֹ קׇרְבָּן, וְהַאי נָמֵי שְׁמוֹ קׇרְבָּן? אֲמַר לֵיהּ: כֹּל שֶׁשְּׁמוֹ קׇרְבָּן, וְהַאי נָמֵי שְׁמוֹ קׇרְבָּן.
 > **Translation:** The Gemara clarifies the possibilities: **The Merciful One states** with regard to **any** item **that** has already had some portion **of it** burned **in** the **fire** on the altar that one who sacrifices any leftover part of it violates the prohibition. **And** as **no** part **of this** bird sacrificed as a sin offering is burned **in** the **fire** on the altar, is he therefore exempt? **Or perhaps, any** item **that is called an offering** is included in the prohibition, **and** since **this** bird is **also called an offering,** one is liable. Rav Ḥisda **said to** Rami bar Ḥama: **Any** item **that is called an offering** is included in the prohibition, **and this** bird sacrificed as a sin offering is **also called an offering.**
-
-> כְּתַנָּאֵי: רַבִּי אֱלִיעֶזֶר אוֹמֵר: כֹּל שֶׁמִּמֶּנּוּ לָאִישִּׁים, רַבִּי עֲקִיבָא אוֹמֵר: כֹּל שֶׁשְּׁמוֹ קׇרְבָּן.
->
-> **Translation:** The Gemara notes: Rami bar Ḥama's dilemma is **subject to** a dispute between ***tanna'im*,** as is taught in a *baraita*: **Rabbi Eliezer says:** Only **any** item **that** has already had some portion **of it** burned **in** the **fire** on the altar is included in the prohibition: Do not burn. **Rabbi Akiva says: Any** item **that is called an offering** is included in this prohibition.
-
-> מַאי בֵּינַיְיהוּ? אָמַר רַב חִסְדָּא: בְּשַׂר חַטַּאת הָעוֹף אִיכָּא בֵּינַיְיהוּ.
->
-> **Translation:** The Gemara asks: **What is** the difference **between** the opinions of Rabbi Akiva and Rabbi Eliezer? **Rav Ḥisda said:** The difference **between them** concerns the case discussed earlier, of one who brings some of **the meat of a bird sin offering** up to the altar. Rabbi Akiva maintains that he is liable, as it is called an offering, whereas Rabbi Eliezer holds that he is exempt, as no portion of it is burned on the altar.
-
-> רַב אָמַר: לוֹג שֶׁמֶן שֶׁל מְצוֹרָע אִיכָּא בֵּינַיְיהוּ, דְּתָנֵי לֵוִי: ״כׇּל קׇרְבָּנָם״ – לְרַבּוֹת לוֹג שֶׁמֶן שֶׁל מְצוֹרָע.
->
-> **Translation:** **Rav said:** The difference **between them** concerns the ***log* of oil** that accompanies the guilt offering **of** a recovered **leper, as Levi teaches:** Concerning the consecrated items given to priests as gifts, the verse states: **"Every offering of theirs**…shall be most holy for you and for your sons" (Numbers 18:9). The phrase "every offering" serves **to include the *log* of oil of a leper.** This oil is not burned on the altar. Nevertheless, Rabbi Akiva would deem one who brings some of this *log* up to the altar liable, as it is called an offering, whereas Rabbi Eliezer would deem him exempt, since no part of it is burned in the fire.
 
 The *gemara* returns to the *kol shemimenu l'ishim* discussion. Rami bar Chama poses a question to Rav Chisda: does the prohibition against burning the edible portions of a *korban* on the *mizbeach* depend strictly and literally on the criterion of *mimenu l'ishim* — that some part of the same *korban* goes to the fire — or is it actually a broader principle that any *korban* whose edible portions are wrongly burned on the *mizbeach* constitutes a violation?
 
@@ -181,6 +167,15 @@ The test case is the *chatat ha'of*, the bird *chatat*. In a *chatat ha'of*, the
 Rav Chisda answers: it is not the *mimenu l'ishim* that is the operative category, but rather *kol sheshmo korban* — anything that is called a *korban* by the Torah. As long as the Torah designates something as a *korban*, one may not burn the portion designated for eating. The *mimenu l'ishim* was the linguistic hook in the *pasuk* that generated the *derasha*, but the underlying principle, once derived, is broader: any *korban* — even one where nothing is burned on the *mizbeach* — carries the prohibition against burning its edible portions.
 
 ### Eliezer vs. Akiva Debate
+
+> **Hebrew/Aramaic:** כְּתַנָּאֵי: רַבִּי אֱלִיעֶזֶר אוֹמֵר: כֹּל שֶׁמִּמֶּנּוּ לָאִישִּׁים, רַבִּי עֲקִיבָא אוֹמֵר: כֹּל שֶׁשְּׁמוֹ קׇרְבָּן.
+> **Translation:** The Gemara notes: Rami bar Ḥama’s dilemma is **subject to** a dispute between ***tanna’im*,** as is taught in a *baraita*: **Rabbi Eliezer says:** Only **any** item **that** has already had some portion **of it** burned **in** the **fire** on the altar is included in the prohibition: Do not burn. **Rabbi Akiva says: Any** item **that is called an offering** is included in this prohibition.
+
+> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אָמַר רַב חִסְדָּא: בְּשַׂר חַטַּאת הָעוֹף אִיכָּא בֵּינַיְיהוּ.
+> **Translation:** The Gemara asks: **What is** the difference **between** the opinions of Rabbi Akiva and Rabbi Eliezer? **Rav Ḥisda said:** The difference **between them** concerns the case discussed earlier, of one who brings some of **the meat of a bird sin offering** up to the altar. Rabbi Akiva maintains that he is liable, as it is called an offering, whereas Rabbi Eliezer holds that he is exempt, as no portion of it is burned on the altar.
+
+> **Hebrew/Aramaic:** רַב אָמַר: לוֹג שֶׁמֶן שֶׁל מְצוֹרָע אִיכָּא בֵּינַיְיהוּ, דְּתָנֵי לֵוִי: ״כׇּל קׇרְבָּנָם״ – לְרַבּוֹת לוֹג שֶׁמֶן שֶׁל מְצוֹרָע.
+> **Translation:** **Rav said:** The difference **between them** concerns the ***log* of oil** that accompanies the guilt offering **of** a recovered **leper, as Levi teaches:** Concerning the consecrated items given to priests as gifts, the verse states: **“Every offering of theirs**…shall be most holy for you and for your sons” (Numbers 18:9). The phrase “every offering” serves **to include the *log* of oil of a leper.** This oil is not burned on the altar. Nevertheless, Rabbi Akiva would deem one who brings some of this *log* up to the altar liable, as it is called an offering, whereas Rabbi Eliezer would deem him exempt, since no part of it is burned in the fire.
 
 The *gemara* identifies this dispute as one between *tannaim*. Rabbi Eliezer holds *kol shemimenu l'ishim*: the prohibition applies only when a part of the *korban* goes to the fire, which more starkly designates the remaining portion as the part that is not burned and is to be eaten. Rabbi Akiva holds *kol sheshmo korban*: any *korban* is subject to the prohibition, regardless of whether any of it is burned.
 
@@ -196,11 +191,10 @@ In the end, the *gemara* adopts the broader definition: the prohibition against 
 
 ## Shiur Debate
 
+
+
 ### Kol as Indicator
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״שְׂאֹר ... בַּל תַּקְטִירוּ״ – אֵין לִי אֶלָּא כּוּלּוֹ, מִקְצָתוֹ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כׇל״. עֵירוּבוֹ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כִּי כׇל״.
->
-> **Translation:** § The Gemara returns to the discussion about the prohibition against sacrificing leaven. **The Sages taught** in a *baraita*: When the Torah states with regard to **leaven: Do not burn** it (see Leviticus 2:11), **I have** derived **only** that one who burns **all of it** is liable, as will be explained. **From where** is it derived that one who burns only **part of it** is also included in the prohibition? **The verse states: "Any [*kol*]** leaven," which serves to include such a case. The *baraita* adds: This *halakha* has been derived only with regard to leaven in a pure state; **from where** is it derived that the same applies to one who sacrifices it in **its mixed state,** i.e., mixed with another substance? **The verse states** the additional expression: **"As [*ki*] any** leaven."
 
 The *gemara* now focuses on the word *kol* — "any" — in the *pasuk*'s prohibition: *kol se'or v'chol devash lo saktiru*. A *tanu rabbanan* is cited that derives from this word *kol* that the prohibition applies even to less than a full measure. The question is: why did the Torah need to say *kol* separately by both *se'or* and *dvash*? Could it not have stated it by one and let us infer it applies equally to the other?
 
@@ -208,29 +202,35 @@ The answer is that there are characteristics of *se'or* not shared by *dvash*, a
 
 ### Abaye Position
 
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״שְׂאֹר ... בַּל תַּקְטִירוּ״ – אֵין לִי אֶלָּא כּוּלּוֹ, מִקְצָתוֹ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כׇל״. עֵירוּבוֹ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כִּי כׇל״.
+> **Translation:** § The Gemara returns to the discussion about the prohibition against sacrificing leaven. **The Sages taught** in a *baraita*: When the Torah states with regard to **leaven: Do not burn** it (see Leviticus 2:11), **I have** derived **only** that one who burns **all of it** is liable, as will be explained. **From where** is it derived that one who burns only **part of it** is also included in the prohibition? **The verse states: “Any [*kol*]** leaven,” which serves to include such a case. The *baraita* adds: This *halakha* has been derived only with regard to leaven in a pure state; **from where** is it derived that the same applies to one who sacrifices it in **its mixed state,** i.e., mixed with another substance? **The verse states** the additional expression: **“As [*ki*] any** leaven.”
+
 > **Hebrew/Aramaic:** מַאי קָאָמַר? אָמַר אַבָּיֵי, הָכִי קָאָמַר: ״שְׂאֹר בַּל תַּקְטִירוּ״ – אֵין לִי אֶלָּא כְּזַיִת, חֲצִי זַיִת מִנַּיִן? תַּלְמוּד לוֹמַר ״כׇּל״, עֵירוּבוֹ מִנַּיִן? תַּלְמוּד לוֹמַר ״כִּי כׇל״.
->
-> **Translation:** The Gemara analyzes this *baraita*: **What is it saying?** What is the meaning of the term: All of it, and the term: Part of it? **Abaye said: This** is what the *baraita* **is saying:** When the verse states about **leaven: Do not burn** it, **I have** derived **only** that this prohibition applies to **an olive-bulk** of leaven. **From where** is it derived that this prohibition applies if it is only **half an olive-bulk? The verse states: "Any** leaven." Furthermore, **from where** is it derived that one is liable not only for leaven by itself, but also for leaven in **its mixed state? The verse states: "As any** leaven."
+> **Translation:** The Gemara analyzes this *baraita*: **What is it saying?** What is the meaning of the term: All of it, and the term: Part of it? **Abaye said: This** is what the *baraita* **is saying:** When the verse states about **leaven: Do not burn** it, **I have** derived **only** that this prohibition applies to **an olive-bulk** of leaven. **From where** is it derived that this prohibition applies if it is only **half an olive-bulk? The verse states: “Any** leaven.” Furthermore, **from where** is it derived that one is liable not only for leaven by itself, but also for leaven in **its mixed state? The verse states: “As any** leaven.”
+
 
 Abaye reads the *tanu rabbanan* as follows. When the Torah says *se'or bal taktiru*, one might have thought one only transgresses with a *kezayit* — the normal minimum measure we associate with acts of eating and the like. The word *kol* teaches that one transgresses even with half of a *kezayit*. And once the threshold is below a full *kezayit*, there is no further minimum — any amount whatsoever is sufficient. For Abaye, then, the practical outcome is that the prohibition is violated by even an infinitesimal amount. The same reasoning is then applied to *devash* via the phrase *ki chol*, understood as an intensifier indicating that even in any form — including mixed into a *taarovet* — one transgresses.
 
 ### Rava Position
 
-> **Hebrew/Aramaic:** רָבָא אָמַר: הָכִי קָאָמַר – ״שְׂאֹר בַּל תַּקְטִירוּ״ אֵין לִי אֶלָּא קוֹמֶץ, חֲצִי קוֹמֶץ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כׇּל״. עֵירוּבוֹ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כִּי כׇל״.
->
-> **Translation:** **Rava said** that there is a different interpretation of the *baraita*: **This** is what the *baraita* **is saying:** When the verse states about **leaven: Do not burn** it, **I have** derived **only** that this prohibition applies to the entire **handful** that is removed from the meal offering. **From where** is it derived that this prohibition applies to **half** of the **handful? The verse states: "Any** leaven." Furthermore, **from where** is it derived that one is liable not only for leaven by itself, but also for **its mixed state? The verse states: "As any** leaven."
+> **Hebrew/Aramaic:** רָבָא אָמַר: הָכִי קָאָמַר – ״שְׂאֹר בַּל תַּקְטִירוּ״ אֵין לִי אֶלָּא קוֹמֶץ, חֲצִי קוֹמֶץ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כׇל״. עֵירוּבוֹ מִנַּיִן? תַּלְמוּד לוֹמַר: ״כִּי כׇל״.
+> **Translation:** **Rava said** that there is a different interpretation of the *baraita*: **This** is what the *baraita* **is saying:** When the verse states about **leaven: Do not burn** it, **I have** derived **only** that this prohibition applies to the entire **handful** that is removed from the meal offering. **From where** is it derived that this prohibition applies to **half** of the **handful? The verse states: “Any** leaven.” Furthermore, **from where** is it derived that one is liable not only for leaven by itself, but also for **its mixed state? The verse states: “As any** leaven.”
 
 Rava reads the *tanu rabbanan* differently. The baseline measure for *haktara*, he argues, is a *kometz* — not a *kezayit* — since that is the normative amount offered on the *mizbeach* in the context of a *mincha*. When the Torah says one transgresses even a lesser amount and uses the word *kol*, it means even half of a *kometz*. For Rava, one transgresses even without a full *kometz*, but one must still have at least a *kezayit*, since half of a *kometz* is still at least a *kezayit*.
 
+At the level of *peshat*, then, the debate between Abaye and Rava turns on what the Torah treats as the natural point of departure when it speaks about *haktara*: is it the *kezayit*, the standard measure we associate with eating and similar acts, or is it the *kometz*, the standard measure we associate with *haktara* itself? It is worth noting, though, that not every act of *haktara* involves a *kometz* — *haktaras mincha* is a *kometz*, but the *levonah* of a *mincha*, for instance, is a *she-hacol*, so the *kometz* is not universal to *haktara* as such. The *gemara*, however, will reframe the dispute entirely, explaining that even Abaye in fact agrees the point of departure is a *kometz* rather than a *kezayit* — a clarification taken up in detail in the section that follows.
+
+[DAF:58b]
 ### Kometz Baseline
 
-> **Hebrew/Aramaic:** בְּמַאי קָא מִיפַּלְגִי? אַבָּיֵי סָבַר: יֵשׁ קוֹמֶץ פָּחוֹת מִשְּׁנֵי זֵיתִים, וְיֵשׁ הַקְטָרָה פְּחוּתָה מִכְּזַיִת.
->
-> **Translation:** The Gemara asks: With regard to **what** principle **do** Abaye and Rava **disagree?** The Gemara answers: **Abaye holds: There is** such an entity as **a handful** that is **less than** the volume of **two olives. And** Abaye consequently maintains that **there is** such a matter as a halakhically significant **burning** of a handful even if it is **less than** the volume of **an olive-bulk.** It follows that the phrase "any leaven" teaches that if one sacrificed less than an olive-bulk of a handful that was leaven, he is liable.
+> **Hebrew/Aramaic:** בְּמַאי קָא מִיפַּלְגִי? אַבָּיֵי סָבַר: יֵשׁ קוֹמֶץ פָּחוֹת מִשְּׁנֵי זֵיתִים,
+> **Translation:** The Gemara asks: With regard to **what** principle **do** Abaye and Rava **disagree?** The Gemara answers: **Abaye holds: There is** such an entity as **a handful** that is **less than** the volume of **two olives.**
 
-> וְרָבָא אָמַר: אֵין קוֹמֶץ פָּחוֹת מִשְּׁנֵי זֵיתִים, וְאֵין הַקְטָרָה פְּחוּתָה מִכְּזַיִת.
->
-> **Translation:** **And Rava says: There is no** such entity as **a handful** that is **less than** the size of **two olives,** and consequently the mitzva not to burn leaven is referring initially to a full handful of two olive-bulks. **And** Rava holds that **there is no** such matter as a halakhically significant **burning** of a handful if it is **less than** the volume of **an olive-bulk.** Therefore, one cannot derive from the phrase "as any leaven" that one can be liable for sacrificing leaven of less than one olive-bulk. Instead, the phrase must be referring to a case where half the handful is leaven.
+> **Hebrew/Aramaic:** וְיֵשׁ הַקְטָרָה פְּחוּתָה מִכְּזַיִת.
+> **Translation:** **And** Abaye consequently maintains that **there is** such a matter as a halakhically significant **burning** of a handful even if it is **less than** the volume of **an olive-bulk.** It follows that the phrase “any leaven” teaches that if one sacrificed less than an olive-bulk of a handful that was leaven, he is liable.
+
+> **Hebrew/Aramaic:** וְרָבָא אָמַר: אֵין קוֹמֶץ פָּחוֹת מִשְּׁנֵי זֵיתִים, וְאֵין הַקְטָרָה פְּחוּתָה מִכְּזַיִת.
+> **Translation:** **And Rava says: There is no** such entity as **a handful** that is **less than** the size of **two olives,** and consequently the mitzva not to burn leaven is referring initially to a full handful of two olive-bulks. **And** Rava holds that **there is no** such matter as a halakhically significant **burning** of a handful if it is **less than** the volume of **an olive-bulk.** Therefore, one cannot derive from the phrase “as any leaven” that one can be liable for sacrificing leaven of less than one olive-bulk. Instead, the phrase must be referring to a case where half the handful is leaven.
 
 The *gemara* clarifies that both Abaye and Rava agree that the point of departure is a *kometz*, not a *kezayit*. Abaye also begins from the *kometz*, but holds that a *kometz* may exist that is less than two *zeitim* in volume. When the Torah says to transgress even with half the normal amount, half of a sub-two-*zayit kometz* yields less than a *kezayit*, and therefore *yesh haktara pechutas mikezayit* — an act of *haktara* less than a *kezayit* is halachically cognizable. Once one is below a *kezayit*, there is effectively no lower limit.
 
@@ -240,31 +240,29 @@ Rava, by contrast, holds *ein kometz pachot mishnei zeitim* — a *kometz* is al
 
 ## Ta'aroves Lashes
 
-### Rava: Four Lashes
 
-> **Hebrew/Aramaic:** אִיתְּמַר: הַמַּעֲלֶה מִשְּׂאוֹר וּמִדְּבַשׁ עַל גַּבֵּי הַמִּזְבֵּחַ, אָמַר רָבָא: לוֹקֶה מִשּׁוּם שְׂאוֹר, וְלוֹקֶה מִשּׁוּם דְּבַשׁ, לוֹקֶה מִשּׁוּם עֵירוּבֵי שְׂאוֹר, וּמִשּׁוּם עֵירוּבֵי דְּבַשׁ.
->
-> **Translation:** § The Gemara discusses another dispute between Abaye and Rava on this topic: **It was stated:** With regard to **one who offers up** a mixture made **of leaven and of honey on the altar, Rava says:** He is flogged with four sets of lashes for this act, as the verse: "As any leaven and any honey, you shall not burn any of it as an offering made by fire to the Lord" (Leviticus 2:11), includes four separate prohibitions. He **is flogged** one set **due to** the prohibition against sacrificing **leaven, and he is flogged** a second set **due to** the prohibition against sacrificing **honey,** and **he is flogged** a third set **due to** the prohibition against sacrificing **mixtures of leaven, and** he is flogged a fourth set **due to** the prohibition against sacrificing **mixtures of honey.**
+
+### Rava: Four Lashes
 
 The *gemara* now addresses the question of *malkos* for someone who places *se'or* and *dvash* together on the *mizbeach*, including separate quantities and a *taarovet* — a mixture of the two. Rava's position is that such a person receives four sets of *malkos*: one for the *se'or* alone, one for the *dvash* alone, one for the *taarovet* of *se'or* (which violates *kol se'or*), and one for the *taarovet* of *dvash* (which violates *kol dvash*). Tosafot understands the physical case as follows: there is a discrete quantity of *se'or* on one side, a discrete quantity of *dvash* on the other, and a mixture of the two in the middle. The pure *se'or* yields one *lav*; the pure *dvash* yields another; in the middle the mixture violates both *kol se'or* and *kol dvash*, thus generating two additional sets of *malkos*.
 
 ### Abaye: Generic Lav
 
-> **Hebrew/Aramaic:** אַבָּיֵי אָמַר: אֵין לוֹקִין עַל לָאו שֶׁבִּכְלָלוֹת.
->
-> **Translation:** **Abaye says: One is not flogged for a general prohibition,** i.e., a single mitzva in the Torah that includes many different prohibited acts. Since all these actions are covered by the prohibition: "You shall not burn," it is considered a general prohibition, for which one is not flogged.
-
 Abaye, citing Rav Chisda, holds *ein lokin alav shebiklalos* — one does not receive *malkos* for a *lav shebiklalos*, a prohibition that is expressed in generic or broadly inclusive terms. The prohibition *kol se'or v'chol dvash* — especially via the expansive word *kol* and the further extension *ki chol* — encompasses *se'or* alone, *dvash* alone, *taarovet se'or*, *taarovet dvash*, and countless other combinations and forms. Because the prohibition's *taarovet* aspect sweeps in an indefinite range of possibilities, it constitutes a *lav shebiklalos* for which *malkos* are not administered. Abaye therefore does not give *malkos* for the mixed portions.
 
 ### Tosafot Interpretation
 
-> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי: חֲדָא מִיהָא לָקֵי.
->
-> **Translation:** The Gemara cites a dispute between the Sages with regard to the opinion of Abaye. **There are** those **who say** that Abaye concedes that **in any event** the offender is **flogged** with **one** set of lashes for sacrificing leaven, and he is also flogged a second set of lashes for sacrificing honey, as these are not considered general prohibitions. Since the phrase: "You shall not burn," is referring to both leaven and honey, it is as though it were written: You shall not burn leaven; you shall not burn honey.
+> **Hebrew/Aramaic:** אִיתְּמַר: הַמַּעֲלֶה מִשְּׂאוֹר וּמִדְּבַשׁ עַל גַּבֵּי הַמִּזְבֵּחַ, אָמַר רָבָא: לוֹקֶה מִשּׁוּם שְׂאוֹר, וְלוֹקֶה מִשּׁוּם דְּבַשׁ, לוֹקֶה מִשּׁוּם עֵירוּבֵי שְׂאוֹר, וּמִשּׁוּם עֵירוּבֵי דְּבַשׁ.
+> **Translation:** § The Gemara discusses another dispute between Abaye and Rava on this topic: **It was stated:** With regard to **one who offers up** a mixture made **of leaven and of honey on the altar, Rava says:** He is flogged with four sets of lashes for this act, as the verse: “As any leaven and any honey, you shall not burn any of it as an offering made by fire to the Lord” (Leviticus 2:11), includes four separate prohibitions. He **is flogged** one set **due to** the prohibition against sacrificing **leaven, and he is flogged** a second set **due to** the prohibition against sacrificing **honey,** and **he is flogged** a third set **due to** the prohibition against sacrificing **mixtures of leaven, and** he is flogged a fourth set **due to** the prohibition against sacrificing **mixtures of honey.**
 
-> וְאִיכָּא דְּאָמְרִי, חֲדָא נָמֵי לָא לָקֵי, דְּהָא לָא מְיַחַד לָאוֵיהּ כְּלָאו דַּחֲסִימָה.
->
-> **Translation:** **And there are** those **who say** that Abaye maintains that the offender **is not even flogged** with **one** set of lashes, **as the prohibition** he transgressed **is not specific** to one matter, **like the prohibition against muzzling.** The principle that one is liable to be flogged for violating a prohibition is derived from the juxtaposition of the mitzva: "You shall not muzzle an ox while it treads out the grain" (Deuteronomy 25:4), with the verses that mention lashes. It is inferred from this juxtaposition that one is not liable to be flogged for violating prohibitions whose circumstances are not similar to that of muzzling, e.g., a general prohibition that is not referring to one specific action.
+> **Hebrew/Aramaic:** אַבָּיֵי אָמַר: אֵין לוֹקִין עַל לָאו שֶׁבִּכְלָלוֹת.
+> **Translation:** **Abaye says: One is not flogged for a general prohibition,** i.e., a single mitzva in the Torah that includes many different prohibited acts. Since all these actions are covered by the prohibition: “You shall not burn,” it is considered a general prohibition, for which one is not flogged.
+
+> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי: חֲדָא מִיהָא לָקֵי.
+> **Translation:** The Gemara cites a dispute between the Sages with regard to the opinion of Abaye. **There are** those **who say** that Abaye concedes that **in any event** the offender is **flogged** with **one** set of lashes for sacrificing leaven, and he is also flogged a second set of lashes for sacrificing honey, as these are not considered general prohibitions. Since the phrase: “You shall not burn,” is referring to both leaven and honey, it is as though it were written: You shall not burn leaven; you shall not burn honey.
+
+> **Hebrew/Aramaic:** וְאִיכָּא דְּאָמְרִי, חֲדָא נָמֵי לָא לָקֵי, דְּהָא לָא מְיַחַד לָאוֵיהּ כְּלָאו דַּחֲסִימָה.
+> **Translation:** **And there are** those **who say** that Abaye maintains that the offender **is not even flogged** with **one** set of lashes, **as the prohibition** he transgressed **is not specific** to one matter, **like the prohibition against muzzling.** The principle that one is liable to be flogged for violating a prohibition is derived from the juxtaposition of the mitzva: “You shall not muzzle an ox while it treads out the grain” (Deuteronomy 25:4), with the verses that mention lashes. It is inferred from this juxtaposition that one is not liable to be flogged for violating prohibitions whose circumstances are not similar to that of muzzling, e.g., a general prohibition that is not referring to one specific action.
 
 The *gemara* records two versions of Abaye's position. According to one version, *chada miha laki* — one receives at least one set of *malkos* for any form of *taarovet*, regardless of its composition. According to the other, *chada nami lo laki* — one does not even receive one set, because the *lav* is not sufficiently singled out in the manner of the paradigmatic prohibition of *chasimah* — *lo sachsom shor b'disho* — which the Torah juxtaposes with the laws of *malkos* and which is therefore the model of the specific, well-defined prohibition that warrants lashes.
 

@@ -68,7 +68,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Mishna on Co-wives: One Says Husband Died, One Says He Did Not Die (continued)",
@@ -105,7 +105,7 @@
           "timestamp": "10:54"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -192,7 +192,7 @@
           "timestamp": "34:10"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -394,5 +394,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "24:29",
+  "amud_b_micro_title": "Uncertainty Case",
+  "shiur_start_daf": 117,
+  "shiur_start_amud": "b"
 }

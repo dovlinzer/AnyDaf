@@ -1,0 +1,200 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Prazim/Kerach Definition",
+    "candidates": [
+      "Rabbinic Authority",
+      "Multiple Purim Days",
+      "Prazim/Kerach Definition",
+      "Yehoshua vs. Achashverosh",
+      "Medinah/Ir Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's resolution that Shushan is exceptional because the miracle occurred there, which is precisely what the 'Prazim/Kerach Definition' prose describes as its concluding point about Shushan's special status.",
+      "chosen_heading": "Prazim/Kerach Definition",
+      "current_heading": "Prazim/Kerach Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Medinah/Ir Distinctions",
+    "candidates": [
+      "Yehoshua vs. Achashverosh",
+      "Medinah/Ir Distinctions",
+      "City Extensions/Mil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in candidate 0's prose: the bishlama letanna didan analysis of medinah u'medinah and ir v'ir, Rabbi Yehoshua ben Korcha's challenge about the gezeirah shavah of prazi prazi making medinah u'medinah redundant, and the resolution that it comes for the derasha of Rabbi Yehoshua ben Levi about krach v'chol hasamuch lo \u2014 all of which candidate 0 describes in detail, while candidate 1's prose claims this exchange was 'set out in the previous discussion' and treats it as already resolved.",
+      "chosen_heading": "Yehoshua vs. Achashverosh",
+      "current_heading": "Medinah/Ir Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "City Extensions/Mil",
+    "candidates": [
+      "Medinah/Ir Distinctions",
+      "City Extensions/Mil",
+      "Megillah as Torah",
+      "Sofiyot Letters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the measurement of a mil using the distance from \u1e24amtan to Tiberias, which is precisely what the 'City Extensions/Mil' section's prose describes.",
+      "chosen_heading": "City Extensions/Mil",
+      "current_heading": "City Extensions/Mil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Sofiyot Letters",
+    "candidates": [
+      "Megillah as Torah",
+      "Sofiyot Letters",
+      "No Prophetic Innovation",
+      "Targumim Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a single continuous discussion about the sofiyot letters (mantzepakh) \u2014 the claim that prophets established them, the objections from 'eleh hamitzvot' and Rav \u1e24isda's statement about mem and samach in the tablets, and the resolution that they were forgotten and reestablished \u2014 which is precisely what the 'Sofiyot Letters' section's prose describes.",
+      "chosen_heading": "Sofiyot Letters",
+      "current_heading": "Sofiyot Letters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Targumim Authority",
+    "candidates": [
+      "No Prophetic Innovation",
+      "Targumim Authority",
+      "Yonatan Revelation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the authorship of the Aramaic Targumim \u2014 Onkelos on Torah and Yonatan ben Uziel on Nevi'im \u2014 which is precisely what the 'Targumim Authority' section's prose discusses, including the same attributions to Rabbi Eliezer, Rabbi Yehoshua, and Haggai, Zechariah, and Malachi.",
+      "chosen_heading": "Targumim Authority",
+      "current_heading": "Targumim Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Yonatan Revelation",
+    "candidates": [
+      "Yonatan Revelation",
+      "Targum/Peshat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Yonatan ben Uzziel's defense of his Targum on Nevi'im and the bat kol forbidding him to translate Ketuvim because it contains the ketz haMashiach \u2014 are explicitly discussed and quoted in the 'Yonatan Revelation' prose, which is their current placement.",
+      "chosen_heading": "Yonatan Revelation",
+      "current_heading": "Yonatan Revelation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Targum/Peshat",
+    "candidates": [
+      "Targum/Peshat",
+      "Daniel/Nevi'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Targum of Torah and Prophets \u2014 Onkelos, the Nehemiah verse, the quaking of Eretz Yisrael, and the Zechariah verse clarified by Rav Yosef \u2014 which exactly matches the prose under heading 0 ('Targum/Peshat').",
+      "chosen_heading": "Targum/Peshat",
+      "current_heading": "Targum/Peshat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Daniel/Nevi'im",
+    "candidates": [
+      "Daniel/Nevi'im",
+      "Suspension Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (Daniel's vision, comparison with Haggai/Zechariah/Malachi, the guardian angel explanation, and Ravina's practical remedy) are precisely the content described in candidate 0's prose, which explicitly covers every element of this passage in detail.",
+      "chosen_heading": "Daniel/Nevi'im",
+      "current_heading": "Daniel/Nevi'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Suspension Service",
+    "candidates": [
+      "Suspension Service",
+      "Talmud Torah Hierarchy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Suspension Service",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rabbi Yosei bar \u1e24anina's exposition and Rav Yehuda/Rav's statement about priests, Levites, and Israelites canceling service) are explicitly discussed in candidate 0's prose about the weight of Megilla reading displacing Temple service.",
+      "second_heading": "Talmud Torah Hierarchy",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the baraita plus the kal v'chomer from avodah to talmud Torah derived by the house of Rabbi) is the exact starting point discussed in candidate 1's prose about the hierarchy between talmud Torah and Megilla reading.",
+      "current_heading": "Suspension Service",
+      "moved": true
+    }
+  }
+]

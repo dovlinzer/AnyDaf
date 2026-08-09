@@ -24,8 +24,8 @@
           "timestamp": "01:22"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Baraita Debate: Rabbi Eliezer vs. Rabbi Akiva on Collateral",
@@ -49,7 +49,7 @@
         }
       ],
       "sefaria_index": 2,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rashi's Explanation: Memory Aid vs. Collection Purpose",
@@ -183,7 +183,7 @@
           "timestamp": "24:02"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -207,7 +207,7 @@
           "timestamp": "27:50"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -438,5 +438,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "24:02",
+  "amud_b_micro_title": "Mitzvah Collateral",
+  "shiur_start_daf": 82,
+  "shiur_start_amud": "a"
 }

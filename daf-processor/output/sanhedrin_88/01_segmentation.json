@@ -100,7 +100,7 @@
           "timestamp": "12:44"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -143,7 +143,7 @@
           "timestamp": "21:39"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -581,5 +581,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "21:39",
+  "amud_b_micro_title": "Gemara Reconciliation",
+  "shiur_start_daf": 88,
+  "shiur_start_amud": "a"
 }

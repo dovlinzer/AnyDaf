@@ -1,0 +1,410 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "War Protocol",
+    "candidates": [
+      "Harp Wakes Dovid",
+      "Sages Seek Parnassah",
+      "Milchemet Reshut",
+      "War Protocol",
+      "Rashi vs Tosafot",
+      "Sanhedrin's Role",
+      "Dovid Wakes Morning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly continue the War Protocol section's identification of Benayahu ben Yehoyada as the Sanhedrin and Evyatar as the Urim VeTummim, and the explanation of Kereti uPeleti \u2014 all of which the prose of heading 3 explicitly discusses.",
+      "chosen_heading": "War Protocol",
+      "current_heading": "War Protocol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Dovid Wakes Morning",
+    "candidates": [
+      "Rashi vs Tosafot",
+      "Sanhedrin's Role",
+      "Dovid Wakes Morning",
+      "Harp as Alarm Clock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara source (Rav Yitzchak bar Adda citing Psalms 57:9) that the 'Dovid Wakes Morning' section's prose directly discusses and elaborates upon, making it the clear home for this text.",
+      "chosen_heading": "Dovid Wakes Morning",
+      "current_heading": "Dovid Wakes Morning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Harp as Alarm Clock",
+    "candidates": [
+      "Harp as Alarm Clock",
+      "Astrologers & Moshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form exactly the Rabbi Zeira statement about Moses and David knowing midnight and the harp serving as an alarm clock, which is precisely what the 'Harp as Alarm Clock' prose discusses.",
+      "chosen_heading": "Harp as Alarm Clock",
+      "current_heading": "Harp as Alarm Clock",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Astrologers & Moshe",
+    "candidates": [
+      "Astrologers & Moshe",
+      "Eini Yodeia Maxim",
+      "Rashi & Oral Torah",
+      "Rav Ashi: Kaf Dimyon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the astrologers concern and the Eini Yodeia maxim as one continuous unit, and the current heading 'Astrologers & Moshe' is where this combined text sits, with its prose explicitly discussing both elements together.",
+      "chosen_heading": "Astrologers & Moshe",
+      "current_heading": "Astrologers & Moshe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Ashi: Kaf Dimyon",
+    "candidates": [
+      "Eini Yodeia Maxim",
+      "Rashi & Oral Torah",
+      "Rav Ashi: Kaf Dimyon",
+      "Chasid Ani Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's explanation that the \u05db in \u05db\u05b7\u05bc\u05d7\u05b2\u05e6\u05d5\u05b9\u05ea is a \u05db of comparison (kaf dimyon), explaining that Moses spoke at midnight of the 13th comparing it to midnight of the 14th \u2014 exactly what the 'Rav Ashi: Kaf Dimyon' section's prose describes.",
+      "chosen_heading": "Rav Ashi: Kaf Dimyon",
+      "current_heading": "Rav Ashi: Kaf Dimyon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Chasid Ani Debate",
+    "candidates": [
+      "Chasid Ani Debate",
+      "Dovid & Niddah Psak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Levi and Rabbi Yitz\u1e25ak debate about Dovid's claim of piety (\u05d7\u05b8\u05e1\u05b4\u05d9\u05d3 \u05d0\u05b8\u05e0\u05b4\u05d9) and specifically the first opinion about rising at midnight, which exactly matches the 'Chasid Ani Debate' section's prose.",
+      "chosen_heading": "Chasid Ani Debate",
+      "current_heading": "Chasid Ani Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Dovid & Niddah Psak",
+    "candidates": [
+      "Dovid & Niddah Psak",
+      "Dovid Talmid Chacham",
+      "Mefiboshet Consult",
+      "Neged Melachim Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the niddah/blood examination material AND the Mefiboshet consultation in a single continuous speech by David, and the current placement under 'Dovid & Niddah Psak' is reasonable since that section's prose directly addresses the blood/niddah content that opens David's statement, while the Mefiboshet detail is handled in a subsequent dedicated section.",
+      "chosen_heading": "Dovid & Niddah Psak",
+      "current_heading": "Dovid & Niddah Psak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Neged Melachim Verse",
+    "candidates": [
+      "Dovid Talmid Chacham",
+      "Mefiboshet Consult",
+      "Neged Melachim Verse",
+      "Kilav vs. Mefiboshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the verse citation from Rabbi Yehoshua son of Rav Idi (\u05d5\u05b7\u05d0\u05b2\u05d3\u05b7\u05d1\u05b0\u05bc\u05e8\u05b8\u05d4 \u05d1\u05b0\u05e2\u05b5\u05d3\u05b9\u05ea\u05b6\u05d9\u05da\u05b8 \u05e0\u05b6\u05d2\u05b6\u05d3 \u05de\u05b0\u05dc\u05b8\u05db\u05b4\u05d9\u05dd) which is precisely what the 'Neged Melachim Verse' section's prose discusses and quotes.",
+      "chosen_heading": "Neged Melachim Verse",
+      "current_heading": "Neged Melachim Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Kilav vs. Mefiboshet",
+    "candidates": [
+      "Kilav vs. Mefiboshet",
+      "Dot Over Lulei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Mefivoshet/Kilav dynamic \u2014 their real names, why they were renamed, and Solomon's verses praising Kilav's wisdom \u2014 which is precisely what candidate 0's prose covers in detail.",
+      "chosen_heading": "Kilav vs. Mefiboshet",
+      "current_heading": "Kilav vs. Mefiboshet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Dot Over Lulei",
+    "candidates": [
+      "Dot Over Lulei",
+      "Shema Yigrom HaChet",
+      "Yaakov's Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dot over 'lulei' and David's uncertainty about his portion among the righteous, which is exactly what the 'Dot Over Lulei' section's prose addresses.",
+      "chosen_heading": "Dot Over Lulei",
+      "current_heading": "Dot Over Lulei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Yaakov's Fear",
+    "candidates": [
+      "Shema Yigrom HaChet",
+      "Yaakov's Fear",
+      "Second Entry & Sin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shema Yigrom HaChet",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (\u05e9\u05b6\u05c1\u05de\u05b8\u05bc\u05d0 \u05d9\u05b4\u05d2\u05b0\u05e8\u05d5\u05b9\u05dd \u05d4\u05b7\u05d7\u05b5\u05d8\u05b0\u05d0 as David's concern about future sin) is the closing resolution discussed under heading 0, whose prose explicitly addresses David's fear that future sin will cost him his reward.",
+      "second_heading": "Yaakov's Fear",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rabbi Ya'akov bar Idi's contradiction about Jacob's fear despite God's promise, which is precisely the content heading 1 ('Yaakov's Fear') discusses in its prose.",
+      "current_heading": "Yaakov's Fear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Second Entry & Sin",
+    "candidates": [
+      "Second Entry & Sin",
+      "Rambam Nevuah Issue",
+      "Chatzos Fits Neither"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita about the two entries and sin causing the diminished return, which is exactly what the 'Second Entry & Sin' prose discusses in detail.",
+      "chosen_heading": "Second Entry & Sin",
+      "current_heading": "Second Entry & Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Chatzos Fits Neither",
+    "candidates": [
+      "Rambam Nevuah Issue",
+      "Chatzos Fits Neither",
+      "Fence Against Aveirah",
+      "Worker & Sleep Trap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question about what position the Rabbis hold \u2014 Rabbi Eliezer or Rabban Gamliel \u2014 and why midnight fits neither, which is exactly what the 'Chatzos Fits Neither' prose describes.",
+      "chosen_heading": "Chatzos Fits Neither",
+      "current_heading": "Chatzos Fits Neither",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Worker & Sleep Trap",
+    "candidates": [
+      "Fence Against Aveirah",
+      "Worker & Sleep Trap",
+      "Chayav Misah \u2014 Why?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with the Gemara's answer that the Rabbis actually hold like Rabban Gamliel and explains the midnight deadline as a 'fence against transgression' \u2014 which is precisely what heading 0 ('Fence Against Aveirah') describes, and the passage contains the entire baraita including both the sleep-trap scenario and the proper sequence, making it a single unified passage best placed under heading 0 where the overall argument (fence/seyag) is introduced.",
+      "chosen_heading": "Fence Against Aveirah",
+      "current_heading": "Worker & Sleep Trap",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Chayav Misah \u2014 Why?",
+    "candidates": [
+      "Worker & Sleep Trap",
+      "Chayav Misah \u2014 Why?",
+      "Order Supports Yochanan",
+      "Tefillot B'Emtza",
+      "Geulah at Night?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Chayav Misah \u2014 Why?",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the 'chayav misah' warning and the two answers explaining why that language appears here, which matches exactly the prose of candidate 1.",
+      "second_heading": "Order Supports Yochanan",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 discuss the baraita's order of Shema then prayer supporting Rabbi Yochanan, followed by Rabbi Yehoshua ben Levi's opposing view and the question of their underlying dispute, which matches candidates 2 and onward \u2014 item 4 fits candidate 2's prose about the baraita supporting Rabbi Yochanan.",
+      "current_heading": "Chayav Misah \u2014 Why?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Geulah at Night?",
+    "candidates": [
+      "Order Supports Yochanan",
+      "Tefillot B'Emtza",
+      "Geulah at Night?",
+      "Mekish Shechivah Kimah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the \u05e1\u05d1\u05e8\u05d0 framework for the dispute between Rabbi Yochanan and Rabbi Yehoshua ben Levi regarding whether redemption occurred at night (geulah me'urta), which is precisely what the 'Geulah at Night?' section's prose addresses.",
+      "chosen_heading": "Geulah at Night?",
+      "current_heading": "Geulah at Night?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Mekish Shechivah Kimah",
+    "candidates": [
+      "Mekish Shechivah Kimah",
+      "Hashkiveinu Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the verse-based derivation of Rabbi Yochanan and Rabbi Yehoshua ben Levi's positions via the hekesh of shechivah and kimah, which is precisely what the prose under 'Mekish Shechivah Kimah' (index 0) elaborates in detail.",
+      "chosen_heading": "Mekish Shechivah Kimah",
+      "current_heading": "Mekish Shechivah Kimah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Hashkiveinu Objection",
+    "candidates": [
+      "Hashkiveinu Objection",
+      "Sefasai Tiftach Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Mar bar Ravina's objection about Hashkiveinu breaking the juxtaposition of redemption to prayer, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Hashkiveinu Objection",
+      "current_heading": "Hashkiveinu Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Sefasai Tiftach Parallel",
+    "candidates": [
+      "Sefasai Tiftach Parallel",
+      "Shema as Parenthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge-and-resolution sequence about Hashkiveinu as geulah arichta, using the Sefasai Tiftach parallel \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Sefasai Tiftach Parallel",
+      "current_heading": "Sefasai Tiftach Parallel",
+      "moved": false
+    }
+  }
+]

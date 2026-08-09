@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Debate Clarification",
+    "candidates": [
+      "Opening Remarks",
+      "Mishna Description",
+      "R. Yochanan Position",
+      "R. Elazar Position",
+      "Debate Clarification",
+      "Braita Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items discuss how the debate between Rabbi Yochanan and Rabbi Elazar is clarified by the underlying dispute between Rabbi Elazar b'Rabbi Shimon and Rebbi, which is precisely what the 'Debate Clarification' prose section describes.",
+      "chosen_heading": "Debate Clarification",
+      "current_heading": "Debate Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Braita Procedure",
+    "candidates": [
+      "Braita Procedure",
+      "Ideal vs. Acceptable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita's procedure for applying blood at the altar corners, which is precisely what the 'Braita Procedure' section's prose discusses in detail.",
+      "chosen_heading": "Braita Procedure",
+      "current_heading": "Braita Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Ideal vs. Acceptable",
+    "candidates": [
+      "Ideal vs. Acceptable",
+      "Blood Division Intro",
+      "Altar Structure",
+      "Rabbi vs. R. Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the mitzva ideally is performed at the edge/corner but if done an amah in either direction it is still acceptable, which is precisely the 'Ideal vs. Acceptable' section's topic of lechatchila versus b'dieved application.",
+      "chosen_heading": "Ideal vs. Acceptable",
+      "current_heading": "Ideal vs. Acceptable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Rabbi vs. R. Elazar",
+    "candidates": [
+      "Blood Division Intro",
+      "Altar Structure",
+      "Rabbi vs. R. Elazar",
+      "Four Amot Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present exactly the baraita recording the dispute between Rebbi and Rabbi Elazar b'Rabbi Shimon about upper/lower bloods and the specific qualification about chattat behemah needing the horn itself \u2014 which is precisely what the 'Rabbi vs. R. Elazar' prose describes.",
+      "chosen_heading": "Rabbi vs. R. Elazar",
+      "current_heading": "Rabbi vs. R. Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Four Amot Derivation",
+    "candidates": [
+      "Four Amot Derivation",
+      "Red Line Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Abbahu's derivation from Ezekiel regarding the four-amot zone of the corners (reshus ha-karnos), which is precisely what the 'Four Amot Derivation' prose section discusses.",
+      "chosen_heading": "Four Amot Derivation",
+      "current_heading": "Four Amot Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Red Line Purpose",
+    "candidates": [
+      "Red Line Purpose",
+      "South Base Stated",
+      "South Base Derived"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the red line (chut ha-sikra) dividing the altar at the midpoint and its biblical derivation from the verse about the grillwork reaching halfway, which is precisely what the 'Red Line Purpose' prose describes.",
+      "chosen_heading": "Red Line Purpose",
+      "current_heading": "Red Line Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "South Base Derived",
+    "candidates": [
+      "South Base Stated",
+      "South Base Derived",
+      "Shimon vs. Yishmael"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "South Base Stated",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening baraita that poses the question of whether 'at the base of the altar' refers to the southern or western base, which matches heading 0's prose about the baraita stating 'zeh yesod dromi' and raising the possibility of the western base.",
+      "second_heading": "South Base Derived",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the analogical reasoning deriving the southern base from the principle of proximity upon descent from the ramp versus exit from the Sanctuary, which matches heading 1's prose about 'yilamad yeridato min ha-kevesh liyetziaso min ha-heichal' and the underlying principle.",
+      "current_heading": "South Base Derived",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Shimon vs. Yishmael",
+    "candidates": [
+      "Shimon vs. Yishmael",
+      "North Altar Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita dispute between Rabbi Yishmael (western base) and Rabbi Shimon ben Yo\u1e25ai (southern base) and the Gemara's initial clarification of Rabbi Yishmael's derivation method \u2014 exactly the content described in the 'Shimon vs. Yishmael' prose.",
+      "chosen_heading": "Shimon vs. Yishmael",
+      "current_heading": "Shimon vs. Yishmael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "North Altar Theory",
+    "candidates": [
+      "North Altar Theory",
+      "Tradition Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Asi's explanation that the entire altar stands in the north (kula mizbeach b'tzafon kai) and the alternative formulation about the entrance standing in the south, which is precisely what the 'North Altar Theory' prose section discusses.",
+      "chosen_heading": "North Altar Theory",
+      "current_heading": "North Altar Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Tradition Dispute",
+    "candidates": [
+      "Tradition Dispute",
+      "Ola Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the school of Rabbi Yishmael reporting Rabbi Shimon ben Yo\u1e25ai's position as 'western base' and the mnemonic 'the men pulled the man,' which is precisely what the 'Tradition Dispute' prose discusses.",
+      "chosen_heading": "Tradition Dispute",
+      "current_heading": "Tradition Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Ola Procedure",
+    "candidates": [
+      "Ola Procedure",
+      "Two-That-Are-Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mishna introducing the ola's procedures and the gemara explaining why the mishna explicitly states kodshei kodashim \u2014 are directly addressed in the 'Ola Procedure' prose, which covers exactly these two points in sequence.",
+      "chosen_heading": "Ola Procedure",
+      "current_heading": "Ola Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Two-That-Are-Four",
+    "candidates": [
+      "Two-That-Are-Four",
+      "Braita Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav/Shmuel dispute about how to perform the two-that-are-four blood applications, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Two-That-Are-Four",
+      "current_heading": "Two-That-Are-Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Braita Parallel",
+    "candidates": [
+      "Braita Parallel",
+      "Two Corners Only",
+      "Tribal Portions",
+      "Devouring Wolf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the gamma-shaped application, Rabbi Yishmael's verbal analogy to the chattat, and the question about four corners resolved by the yesod requirement \u2014 are precisely the content described in the 'Braita Parallel' prose, which explicitly covers all three points in sequence.",
+      "chosen_heading": "Braita Parallel",
+      "current_heading": "Braita Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Devouring Wolf",
+    "candidates": [
+      "Two Corners Only",
+      "Tribal Portions",
+      "Devouring Wolf",
+      "Southeast Extension",
+      "Binyamin's Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why the southeast corner lacked a yesod \u2014 because it was not in Binyamin's portion \u2014 and introduces Rav Shmuel bar Yitzchak's statement that the altar encroached one cubit into Yehuda's portion, which is precisely what the 'Tribal Portions' prose describes.",
+      "chosen_heading": "Tribal Portions",
+      "current_heading": "Devouring Wolf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Binyamin's Merit",
+    "candidates": [
+      "Southeast Extension",
+      "Binyamin's Merit",
+      "Shechina Dwelling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete midrashic passage about Binyamin's anguish over the strip of land and his reward of hosting the Shechina, which is precisely what candidate 1 ('Binyamin's Merit') discusses in detail.",
+      "chosen_heading": "Binyamin's Merit",
+      "current_heading": "Binyamin's Merit",
+      "moved": false
+    }
+  }
+]

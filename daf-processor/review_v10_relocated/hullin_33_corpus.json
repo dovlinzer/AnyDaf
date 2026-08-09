@@ -1,0 +1,414 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Shimon Lakish Lung",
+    "candidates": [
+      "Treifa vs Neveilah",
+      "Cut Trachea Problem",
+      "Cut Incorporated",
+      "Shimon Lakish Lung",
+      "Lung Irrelevant",
+      "Organ Rendered Removed",
+      "Mishna Not Changed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to Reish Lakish's position by citing his own ruling about the cut trachea and perforated lung, which is precisely what the 'Shimon Lakish Lung' section's prose describes.",
+      "chosen_heading": "Shimon Lakish Lung",
+      "current_heading": "Shimon Lakish Lung",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Mishna Not Changed",
+    "candidates": [
+      "Lung Irrelevant",
+      "Organ Rendered Removed",
+      "Mishna Not Changed",
+      "Final: Neveilah",
+      "Rava: Lung Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya bar Abba citing Rabbi Yo\u1e25anan's resolution that the contradiction is not difficult because one source is before Rabbi Akiva's retraction and one after, and that a mishna does not move from its place \u2014 which is precisely what the 'Mishna Not Changed' section's prose describes.",
+      "chosen_heading": "Mishna Not Changed",
+      "current_heading": "Mishna Not Changed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rava: Lung Only",
+    "candidates": [
+      "Final: Neveilah",
+      "Rava: Lung Only",
+      "Zeira Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's ruling about the trachea and lung, and Rava's qualification limiting it to the lung (not innards), which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Rava: Lung Only",
+      "current_heading": "Rava: Lung Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Zeira Challenge",
+    "candidates": [
+      "Zeira Challenge",
+      "Zeira Reversal",
+      "Combine Simanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's initial challenge to Rava's distinction, which matches exactly the 'Zeira Challenge' prose describing his objection that onset of shechita should immunize against treifa status regardless of which organ is injured.",
+      "chosen_heading": "Zeira Challenge",
+      "current_heading": "Zeira Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Combine Simanim",
+    "candidates": [
+      "Zeira Reversal",
+      "Combine Simanim",
+      "Fetus Limb Case",
+      "Injury = Treifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rabbi Zeira's retraction and the dilemma he raises (including the parallel to Ilfa's case), which is precisely what the 'Zeira Reversal' prose section describes \u2014 the reversal evidenced by his own question about combining simanim.",
+      "chosen_heading": "Zeira Reversal",
+      "current_heading": "Combine Simanim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Injury = Treifa",
+    "candidates": [
+      "Fetus Limb Case",
+      "Injury = Treifa",
+      "Acha: No Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the conclusion 'we raise the dilemma only to purify from neveilah status, but eating is forbidden,' which is precisely what the 'Injury = Treifa' section's prose describes and analyzes.",
+      "chosen_heading": "Injury = Treifa",
+      "current_heading": "Injury = Treifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Acha: No Reversal",
+    "candidates": [
+      "Acha: No Reversal",
+      "Unresolved",
+      "Shechita Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav A\u1e25a bar Rav's argument to Ravina that Rabbi Zeira never retracted his position but was arguing within Rava's framework, which matches exactly the prose of candidate 0 'Acha: No Reversal'.",
+      "chosen_heading": "Acha: No Reversal",
+      "current_heading": "Acha: No Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Shechita Concept",
+    "candidates": [
+      "Unresolved",
+      "Shechita Concept",
+      "Organs Removed",
+      "Non-Jews: Eiver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the inference from Reish Lakish's principle about Jews being invited to eat innards but not gentiles, which is precisely what the 'Shechita Concept' prose section describes.",
+      "chosen_heading": "Shechita Concept",
+      "current_heading": "Shechita Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Non-Jews: Eiver",
+    "candidates": [
+      "Organs Removed",
+      "Non-Jews: Eiver",
+      "Principle",
+      "Acha & Pappa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the reasoning for both Jews (shechita determines status) and non-Jews (death determines status), which directly matches heading 0 'Organs Removed' whose prose already discusses the Jewish side of this exact rationale, while the current placement under 'Non-Jews: Eiver' is where the conclusion is applied but the passage itself is the explanatory gemara giving the ta'ama (reason) for both sides together.",
+      "chosen_heading": "Organs Removed",
+      "current_heading": "Non-Jews: Eiver",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Acha & Pappa",
+    "candidates": [
+      "Principle",
+      "Acha & Pappa",
+      "Baraita: Both Permit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa sitting before Rav Acha bar Yaakov, wanting to raise the objection but restraining himself because Rav Acha bar Yaakov gave a reason \u2014 which matches exactly the prose of candidate 1 ('Acha & Pappa').",
+      "chosen_heading": "Acha & Pappa",
+      "current_heading": "Acha & Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Baraita: Both Permit",
+    "candidates": [
+      "Baraita: Both Permit",
+      "Lenient Application",
+      "Health Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself stating that both gentile and Jew are permitted, which is exactly what candidate 0's prose discusses \u2014 the baraita contradicting Rav Acha bar Yaakov and declaring both permitted.",
+      "chosen_heading": "Baraita: Both Permit",
+      "current_heading": "Baraita: Both Permit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Health Benefit",
+    "candidates": [
+      "Lenient Application",
+      "Health Benefit",
+      "Mishna Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the statement of Rav Idi bar Avin about cutting meat from the slaughter area for health benefit, which is precisely what the 'Health Benefit' section's prose discusses.",
+      "chosen_heading": "Health Benefit",
+      "current_heading": "Health Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Mishna Meat",
+    "candidates": [
+      "Mishna Meat",
+      "Liquid Required",
+      "Shimon: Shechita",
+      "Proof: Chulin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself, and candidate 0 ('Mishna Meat') is the section whose prose directly introduces and explains the full mishna text including the shechita validity, the no-blood scenario, and the mesoavot ruling \u2014 matching the passage's complete content before Rabbi Shimon's dissent is handled separately in candidate 2.",
+      "chosen_heading": "Mishna Meat",
+      "current_heading": "Mishna Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Proof: Chulin",
+    "candidates": [
+      "Liquid Required",
+      "Shimon: Shechita",
+      "Proof: Chulin",
+      "Hands: Sheni",
+      "Ma'aser Sheni"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hands: Sheni",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the question of why tamei hands (sheini) would matter for chulin, which is precisely what candidate 3 ('Hands: Sheni') discusses \u2014 yadayim shniyos hen and ein sheini oseh shlishi be-chulin.",
+      "second_heading": "Proof: Chulin",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 are the gemara's multiple proofs establishing that the mishnah deals with chulin and not kodshim, which is exactly what candidate 2 ('Proof: Chulin') describes in its prose.",
+      "current_heading": "Proof: Chulin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Ma'aser Sheni",
+    "candidates": [
+      "Hands: Sheni",
+      "Ma'aser Sheni",
+      "Shimi: Eating Only"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ma'aser Sheni",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Rav Nachman/Rabbah bar Avuha's resolution about ma'aser sheni and the Rabbi Meir/Rabbis debate, which is exactly what heading 1 ('Ma'aser Sheni') describes in its prose.",
+      "second_heading": "Shimi: Eating Only",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Shimi bar Ashi's objection that the Rabbis' dispute concerns eating ma'aser sheni (not touching), which is precisely what heading 2 ('Shimi: Eating Only') describes in its prose.",
+      "current_heading": "Ma'aser Sheni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Shimi: Eating Only",
+    "candidates": [
+      "Shimi: Eating Only",
+      "Hands Rishon",
+      "Shimon Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly makes the argument that the mishnah's passive voice ('ne'echalin be-yadayim meso'avot') implies feeding by another person with tamei hands, demonstrating the concern is about negia (touching) not eating \u2014 which is precisely what the 'Shimi: Eating Only' section's prose describes.",
+      "chosen_heading": "Shimi: Eating Only",
+      "current_heading": "Shimi: Eating Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Shimon Elazar",
+    "candidates": [
+      "Hands Rishon",
+      "Shimon Elazar",
+      "Akiva vs Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's answer about yadayim techilot and the baraita identifying Rabbi Shimon ben Elazar's position, which is precisely what the 'Shimon Elazar' section's prose discusses.",
+      "chosen_heading": "Shimon Elazar",
+      "current_heading": "Shimon Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Akiva vs Sages",
+    "candidates": [
+      "Akiva vs Sages",
+      "Hands Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly clarifies Rabbi Shimon ben Elazar's teaching about first-degree vs second-degree hand impurity and their effects on chulin vs teruma, which is precisely what the 'Akiva vs Sages' prose introduces when referencing Rabbi Shimon ben Elazar's ruling and its consequences for chulin.",
+      "chosen_heading": "Akiva vs Sages",
+      "current_heading": "Akiva vs Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Hands Status",
+    "candidates": [
+      "Hands Status",
+      "Relying Akiva",
+      "Akiva Limitation",
+      "Elazar: Chulin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Hands Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 establish that hands can be rishon, explain the partial-entry principle, and articulate the Rabbi Akiva vs. Rabbis dispute \u2014 exactly what heading 0's prose describes.",
+      "second_heading": "Akiva Limitation",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises and answers the question of whether Rabbi Akiva's rishon ruling extends to chulin or only to teruma/kodshim \u2014 precisely what heading 2 ('Akiva Limitation') describes.",
+      "current_heading": "Hands Status",
+      "moved": true
+    }
+  }
+]

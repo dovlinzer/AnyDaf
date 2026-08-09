@@ -1,0 +1,210 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Yachlok vs Chelek",
+    "candidates": [
+      "Opening",
+      "Shchiv Mera Definition",
+      "Yachlok vs Chelek",
+      "Ravina bar Kissi Braita",
+      "Chelek b'Bor",
+      "Chelek L'Chavit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces the yachlok/chelek distinction \u2014 the obvious ruling that yachlok means half, followed by the question of what chelek means \u2014 which is precisely what the 'Yachlok vs Chelek' section's prose describes.",
+      "chosen_heading": "Yachlok vs Chelek",
+      "current_heading": "Yachlok vs Chelek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Chelek L'Chavit",
+    "candidates": [
+      "Ravina bar Kissi Braita",
+      "Chelek b'Bor",
+      "Chelek L'Chavit",
+      "Chelek L'Kdeira & Tafiach",
+      "Water Usage Context",
+      "Ben Levi Sells Field",
+      "Davar Shelo Ba Olam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full baraita cited by Ravina bar Kisi covering all four vessel cases (cistern, barrel, pot, cup), and it belongs under the 'Ravina bar Kissi Braita' heading which introduces and frames the entire baraita, not under the partial 'Chelek L'Chavit' heading where it is currently placed.",
+      "chosen_heading": "Ravina bar Kissi Braita",
+      "current_heading": "Chelek L'Chavit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Davar Shelo Ba Olam",
+    "candidates": [
+      "Chelek L'Kdeira & Tafiach",
+      "Water Usage Context",
+      "Ben Levi Sells Field",
+      "Davar Shelo Ba Olam",
+      "Zechut Resolution",
+      "Variations & Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about a Levite selling a field with the stipulation that the first tithe remains his, which is precisely what candidate 2 ('Ben Levi Sells Field') describes as its topic, including the same 'tanu rabanan' introduction and the al menat condition.",
+      "chosen_heading": "Ben Levi Sells Field",
+      "current_heading": "Davar Shelo Ba Olam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Variations & Conditions",
+    "candidates": [
+      "Zechut Resolution",
+      "Variations & Conditions",
+      "Diyuta Elyona"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in 'Variations & Conditions': item 1 is the 'kol zman shehasadeh zo biyadecha' variation (field sold and repurchased extinguishes the right), and item 2 is the Gemara's challenge 'ein adam makneh davar shelo ba l'olam' with its al menat resolution \u2014 both of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Variations & Conditions",
+      "current_heading": "Variations & Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Diyuta Elyona",
+    "candidates": [
+      "Diyuta Elyona",
+      "Zizin Rights",
+      "Building Aliyah",
+      "Rav Pappa Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's statement itself, which is precisely what the 'Diyuta Elyona' section's prose introduces and explains.",
+      "chosen_heading": "Diyuta Elyona",
+      "current_heading": "Diyuta Elyona",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Rav Pappa Difficulty",
+    "candidates": [
+      "Zizin Rights",
+      "Building Aliyah",
+      "Rav Pappa Difficulty",
+      "Explicit Language",
+      "Umka V'Ruma Logic",
+      "Bor V'Dut Proof",
+      "Mishna Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rav Zevid (zizin) and Rav Pappa (aliyah) and the subsequent difficulty with Rav Pappa's interpretation \u2014 this is one continuous unit that opens with the lemah hilkheta question, and the 'Zizin Rights' heading's prose explicitly discusses Rav Zevid's position as the primary focus of Reish Lakish's ruling, which is precisely what these items establish and then test via the zot omeret challenge.",
+      "chosen_heading": "Zizin Rights",
+      "current_heading": "Rav Pappa Difficulty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Mishna Reinterpretation",
+    "candidates": [
+      "Explicit Language",
+      "Umka V'Ruma Logic",
+      "Bor V'Dut Proof",
+      "Mishna Reinterpretation",
+      "Roof Retained",
+      "Chashiv Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: item 1 states Rav Dimi's ruling, items 2-3 are the Gemara's attempt to derive proof from the mishna about bor and dut and the subsequent reinterpretation \u2014 this entire sequence belongs under 'Bor V'Dut Proof' whose prose explicitly describes the mishna proof attempt and Rav Dimi's position, whereas 'Mishna Reinterpretation' (index 3) only covers the later hachi ka'amar resolution and should not absorb item 1 (Rav Dimi's initial ruling) as well.",
+      "chosen_heading": "Bor V'Dut Proof",
+      "current_heading": "Mishna Reinterpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Chashiv Status",
+    "candidates": [
+      "Roof Retained",
+      "Chashiv Status",
+      "Al Menat Necessity",
+      "Ravina-Rav Ashi",
+      "Liability Interpretation",
+      "Rashbam Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the mishna about the roof not being sold when it has a ten-tefachim parapet, which is precisely what 'Roof Retained' prose describes \u2014 the ta shema introduction of that mishna and the gemara's brief answer about chashivut belong at the point where the mishna is first introduced, not under 'Chashiv Status' which discusses the reasoning in the context of the al menat question.",
+      "chosen_heading": "Roof Retained",
+      "current_heading": "Chashiv Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Rashbam Caveat",
+    "candidates": [
+      "Al Menat Necessity",
+      "Ravina-Rav Ashi",
+      "Liability Interpretation",
+      "Rashbam Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Ravina-Rav Ashi exchange: item 1 presents Reish Lakish's ruling with Rav Zevid and Rav Pappa's interpretations, and item 2 raises the 'lama li al menat' challenge with its answer \u2014 precisely what candidate 1's prose describes as 'ta shema de-amar Reish Lakish... lama li al menat... ahani lei al menat de-ei nafal hadar banei lei.'",
+      "chosen_heading": "Ravina-Rav Ashi",
+      "current_heading": "Rashbam Caveat",
+      "moved": true
+    }
+  }
+]

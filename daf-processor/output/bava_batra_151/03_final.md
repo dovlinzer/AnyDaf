@@ -1,20 +1,17 @@
-# Bava Batra 151 — Daf Yomi Shiur
-
+[DAF:150b]
 ## Nechasim Definition
+
+
 
 ### Daf 151 Intro
 
-> **Hebrew/Aramaic:** אָמַר "נִכְסַי לִפְלָנְיָא" – עַבְדָּא אִיקְּרִי "נִכְסֵי", דִּתְנַן: הַכּוֹתֵב כׇּל נְכָסָיו לְעַבְדּוֹ – יָצָא בֶּן חוֹרִין. אַרְעָא אִיקְּרִי "נִכְסֵי", דִּתְנַן: נְכָסִים שֶׁיֵּשׁ לָהֶם אַחְרָיוּת, נִקְנִין בְּכֶסֶף וּבִשְׁטָר וּבַחֲזָקָה. גְּלִימָא אִיקְּרִי "נִכְסֵי", דִּתְנַן: וְשֶׁאֵין לָהֶם אַחְרָיוּת – אֵין נִקְנִין אֶלָּא בִּמְשִׁיכָה.
->
-> **Translation:** If one **said: My property** shall go **to so-and-so,** anything that is referred to as property is included in the gift. A Canaanite **slave is called property, as we learned** in a mishna (*Pe'a* 3:8): With regard to **one who writes,** i.e., gives via a document, **all of his property to his** Canaanite **slave,** the slave **has been emancipated. Land is called property, as we learned** in a mishna (*Kiddushin* 26a): **Property that serves as a guarantee,** i.e., land, **can be acquired by** means of **money, by** means of **a deed, or by taking possession** of it. **A cloak,** as well as other garments and movable property, **is called property, as we learned** in that same mishna: **And** property **that does not serve as a guarantee,** i.e., movable property, **can be acquired only by pulling.**
-
 Daf 151 picks up four to five lines in, with the word *behema*, and continues the sustained inquiry into what types of property are encompassed by the term *nechasim* — possessions or property — as used throughout the relevant *mishnayot*. The broader context is the gift of a *shchiv mera*, a dying person, who declares that all his *nechasim* go to a particular recipient, as well as the parallel case of one who is not a *shchiv mera* but uses the same formulation. In the previous session, the *gemara* established that the word *nechasim* is inclusive enough to cover land, movable property (*metaltalin*), promissory documents (*shtarot*), and cash. The question now is what additional categories fall within that term, and whether anything falls outside it.
 
+[DAF:151a]
 ### Animals/Behema
 
-> **Hebrew/Aramaic:** בְּהֵמָה אִיקְּרִי "נִכְסֵי", דִּתְנַן: הַמַּקְדִּישׁ נְכָסָיו וְהָיְתָה בָּהֶן בְּהֵמָה רְאוּיָה לְגַבֵּי מִזְבֵּחַ; זְכָרִים – עוֹלוֹת, וּנְקֵבוֹת – יִמָּכְרוּ לְצׇרְכֵי זִבְחֵי שְׁלָמִים.
->
-> **Translation:** **An animal is called property, as we learned** in a mishna (*Shekalim* 12a): In a case of **one who consecrated his property, and on** the property **there were animals fit to** be sacrificed **upon** the **altar, male** animals are sacrificed as **burnt-offerings, and female** animals **are sold for the purpose of** being sacrificed as **peace-offerings.**
+> **Hebrew/Aramaic:** בְּהֵמָה אִיקְּרִי ״נִכְסֵי״, דִּתְנַן: הַמַּקְדִּישׁ נְכָסָיו וְהָיְתָה בָּהֶן בְּהֵמָה רְאוּיָה לְגַבֵּי מִזְבֵּחַ; זְכָרִים – עוֹלוֹת, וּנְקֵבוֹת – יִמָּכְרוּ לְצׇרְכֵי זִבְחֵי שְׁלָמִים. עוֹפוֹת אִיקְּרִי ״נִכְסֵי״, דִּתְנַן: הַמַּקְדִּישׁ נְכָסָיו וְהָיוּ בָּהֶן דְּבָרִים הָרְאוּיִין לְגַבֵּי מִזְבֵּחַ – יֵינוֹת, שְׁמָנִים וְעוֹפוֹת.
+> **Translation:** **An animal is called property, as we learned** in a mishna (*Shekalim* 12a): In a case of **one who consecrated his property, and on** the property **there were animals fit to** be sacrificed **upon** the **altar, male** animals are sacrificed as **burnt-offerings, and female** animals **are sold for the purpose of** being sacrificed as **peace-offerings. Birds are called property, as we learned** in a mishna (*Shekalim* 12a): In a case of **one who consecrated his property, and on** the property **there were items that were fit to** be sacrificed **upon** the **altar,** e.g., **wines, oils, and birds,** Rabbi Eliezer says: They are sold for the needs of that kind of item, i.e., to individuals who will use them as such.
 
 The *gemara* states: *behema itkrei nechasai* — animals are called *nechasim*. One might have thought that livestock, being living creatures rather than static objects, occupy a different conceptual category. The *gemara* refutes this by citing the *mishnah* dealing with one who says *hamakdish nechasav* — I hereby consecrate all my possessions. The *mishnah* addresses the case where amongst his property are animals *re'ui legabei mizbeiach* — fit to be brought as a sacrifice on the altar.
 
@@ -26,17 +23,9 @@ The central point for our purposes, however, is simply that when this person sai
 
 ### Birds/Ofos
 
-> **Hebrew/Aramaic:** עוֹפוֹת אִיקְּרִי "נִכְסֵי", דִּתְנַן: הַמַּקְדִּישׁ נְכָסָיו וְהָיוּ בָּהֶן דְּבָרִים הָרְאוּיִים לְגַבֵּי מִזְבֵּחַ – יֵינוֹת, שְׁמָנִים וְעוֹפוֹת.
->
-> **Translation:** **Birds are called property, as we learned** in a mishna (*Shekalim* 12a): In a case of **one who consecrated his property, and on** the property **there were items that were fit to** be sacrificed **upon** the **altar,** e.g., **wines, oils, and birds,** Rabbi Eliezer says: They are sold for the needs of that kind of item, i.e., to individuals who will use them as such.
-
 The *gemara* continues: *ofos ikru nechasai* — birds are likewise called *nechasim*. A *baraita* is cited involving the same framework: *hamakdish nechasav*, someone who consecrates all his possessions, and *hayu vahen devarim harauyim legabei mizbeiach* — among those possessions are items fit for the altar. The *baraita* includes *yeinos shemanim* — wine and oil, which accompany sacrifices — and explicitly *ofos*, birds, which may be brought as offerings. The same logic of ensuring that altar-fit items reach the *mizbeiach* applies, and the conclusion is that birds too fall under the umbrella of *nechasim*.
 
 ### Tefillin
-
-> **Hebrew/Aramaic:** תְּפִלִּין אִיקְּרִי "נִכְסֵי", דִּתְנַן: הַמַּקְדִּישׁ נְכָסָיו, מַעֲלִין לוֹ תְּפִלִּין.
->
-> **Translation:** **Phylacteries are called property, as we learned** in a mishna (*Arakhin* 23b): With regard to **one who consecrates his property,** the value of his **phylacteries is assessed for him** and he redeems them by paying their value to the Temple treasury.
 
 Having established animals and birds as *nechasim*, the *gemara* now asks about *mitzvah* objects. *Tefillin ikri nechasai* — *tefillin* are called *nechasim*. One might argue that objects designated for a *mitzvah* are not conceptualized as ordinary property — that they exist in a separate register in the owner's mind. The *gemara* rejects this from a *baraita*: when someone says *hamakdish nechasav*, the ruling is *ma'alim lo tefillin* — and his *tefillin* are subject to the consecration as well.
 
@@ -46,9 +35,8 @@ One might object: surely the person would not have intended to consecrate his *t
 
 ### Sefer Torah Question
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: סֵפֶר תּוֹרָה מַאי? כֵּיוָן דְּלָא מִזְדַּבַּן – דְּאָסוּר לְזַבּוֹנֵיהּ – לָאו נִכְסֵי הוּא; אוֹ דִלְמָא, כֵּיוָן דְּמִזְדַּבַּן לִלְמוֹד תּוֹרָה וְלִישָּׂא אִשָּׁה – נִכְסֵי הוּא? תֵּיקוּ.
->
-> **Translation:** **A dilemma was raised before** the Sages: With regard to **a Torah scroll, what** is the *halakha*? Is it considered property or not? Does one say that **since it is not sold, as it is prohibited to sell** a Torah scroll, **it is** therefore **not** considered **property? Or perhaps** one says that **since it may be sold** in order to enable one **to study Torah or to marry a woman, it is** considered **property.** The Gemara concludes: The dilemma **shall stand** unresolved.
+> **Hebrew/Aramaic:** תְּפִלִּין אִיקְּרִי ״נִכְסֵי״, דִּתְנַן: הַמַּקְדִּישׁ נְכָסָיו, מַעֲלִין לוֹ תְּפִלִּין. אִיבַּעְיָא לְהוּ: סֵפֶר תּוֹרָה מַאי? כֵּיוָן דְּלָא מִזְדַּבַּן – דְּאָסוּר לְזַבּוֹנֵיהּ – לָאו נִכְסֵי הוּא; אוֹ דִלְמָא, כֵּיוָן דְּמִזְדַּבַּן לִלְמוֹד תּוֹרָה וְלִישָּׂא אִשָּׁה – נִכְסֵי הוּא? תֵּיקוּ.
+> **Translation:** **Phylacteries are called property, as we learned** in a mishna (*Arakhin* 23b): With regard to **one who consecrates his property,** the value of his **phylacteries is assessed for him** and he redeems them by paying their value to the Temple treasury. **A dilemma was raised before** the Sages: With regard to **a Torah scroll, what** is the *halakha*? Is it considered property or not? Does one say that **since it is not sold, as it is prohibited to sell** a Torah scroll, **it is** therefore **not** considered **property? Or perhaps** one says that **since it may be sold** in order to enable one **to study Torah or to marry a woman, it is** considered **property.** The Gemara concludes: The dilemma **shall stand** unresolved.
 
 At this point the *gemara* introduces an unresolved question: *Sefer Torah mai?* — what is the status of a *Sefer Torah*? Why might a *Sefer Torah* differ from *tefillin*? The *gemara* articulates the logic of each side. *Keivan d'lo mizdaben, va'asur lezabunei* — since a *Sefer Torah* is generally forbidden to be sold, perhaps it is not called *nechasim*. The concept of *nechasim* may be predicated on the ability to treat something as exchangeable property, something from which one can realize monetary value by selling it. An object that is categorically unsellable may fall outside that definition.
 
@@ -66,10 +54,14 @@ There is also an additional dimension worth noting. *Tefillin* and a *Sefer Tora
 
 ## Mivrachat Case
 
+
+
 ### Rav Zutra's Mother
 
-> **Hebrew/Aramaic:** אִימֵּיהּ דְּרַב זוּטְרָא בַּר טוֹבִיָּא כַּתְבִינְהוּ לְנִכְסַהּ לְרַב זוּטְרָא בַּר טוֹבִיָּא, דְּבָעֲיָא לְאִנְּסוֹבֵי לֵיהּ לְרַב זְבִיד. אִינְּסִיבָא וְגָרְשַׁהּ. אָתְיָא לְקַמֵּיהּ דְּרַב בִּיבִי בַּר אַבָּיֵי, אֲמַר: מִשּׁוּם אִנְּסוֹבֵי – וְהָא אִינְּסִיבָא.
->
+> **Hebrew/Aramaic:** (סִימָן: זוּטְרָא, אִימֵּיהּ דְּעַמְרָם, מִתַּרְתֵּי אַחְווֹתָא, רַב טוֹבִי וְרַב דִּימִי וְרַב יוֹסֵף.)
+> **Translation:** § The Gemara presents **a mnemonic** for the series of incidents stated below: **Zutra, the mother, of Amram, from two sisters, Rav Tovi, and Rav Dimi and Rav Yosef.**
+
+> **Hebrew/Aramaic:** אִימֵּיהּ דְּרַב זוּטְרָא בַּר טוֹבִיָּא כַּתְבִינְהוּ לְנִכְסַהּ לְרַב זוּטְרָא בַּר טוֹבִיָּא, דְּבָעֲיָא לְאִנְּסוֹבֵי לֵיהּ לְרַב זְבִיד. אִינְּסִיבָא וְגָרְשַׁהּ. אָתְיָא לְקַמֵּיהּ דְּרַב בִּיבִי בַּר אַבָּיֵי, אֲמַר: מִשּׁוּם אִנְּסוֹבֵי – וְהָא אִינְּסִיבָא.
 > **Translation:** **The mother of Rav Zutra bar Toviyya wrote** a deed granting **her property to Rav Zutra bar Toviyya,** explaining that she was doing so **because she wanted to get married to Rav Zevid,** and she did not want him to acquire her property. **She married** Rav Zevid, **and he divorced her. She came before Rav Beivai bar Abaye** to claim her property from her son. Rav Beivai **said:** She transferred her property **because** she wanted **to get married, and she married.** Since her intentions were fulfilled, even though she subsequently was divorced, the gift is a valid gift.
 
 The *gemara* now pivots to a different topic, though it remains organized around the question of *nechasim* and their transfer. *Imeih d'Rav Zutra bar Tuvia* — the mother of Rav Zutra bar Tuvia — *ktavin'hu l'nechasah l'Rav Tuvia* — wrote over all of her property to her son Rav Zutra bar Tuvia. The reason: *d'ba'aya l'minsaveih* — she was about to remarry. This is the *mivra'chat* scenario — a woman who, anticipating a new marriage, transfers her property to protect it from her future husband's access.
@@ -82,9 +74,8 @@ The case came before Rav Bibi bar Abaye. His ruling was surprising: *mishum d'in
 
 ### Rav Huna Correction
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: מִשּׁוּם דְּאַתּוּ מִמּוּלָאֵי, אָמְרִיתוּ מִילֵּי מוּלְיָיתָא? אֲפִילּוּ לְמַאן דְּאָמַר מַבְרַחַת קָנֵי, הָנֵי מִילֵּי הֵיכָא דְּלָא גַלְּיָא דַּעְתַּהּ, אֲבָל הָכָא – גַלְּיָא דַּעְתַּהּ דְּמִשּׁוּם אִינְּסוֹבֵי הוּא, וְהָא אִינְּסִיבָא וְאִיגָּרְשָׁה.
->
-> **Translation:** **Rav Huna, son of Rav Yehoshua, said to** Rav Beivai: Is it **because you come from** a line of **truncated [*mula'ei*] people,** from the house of the High Priest Eli, whose descendants were condemned to premature death (see I Samuel 2:31), that **you say truncated [*mulyata*]** and unsound **matters? Even according to the one who says** that the deed of **a woman who shelters** her property from her intended husband **effects acquisition,** and the woman cannot reclaim the property, **this matter** applies **where she did not reveal her intentions** in transferring ownership of her property. **But here, she revealed her intentions that** she transferred the property **because** she wanted **to marry; and she married, but was divorced.** Therefore, since she is no longer married, she can reclaim the property.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: מִשּׁוּם דְּאַתּוּ מִמּוּלָאֵי, אָמְרִיתוּ מִילֵּי מוּלְיָיתָא? אֲפִילּוּ לְמַאן דְּאָמַר מַבְרַחַת קָנֵי, הָנֵי מִילֵּי הֵיכָא דְּלָא גַלְּיָא דַּעְתַּהּ, אֲבָל הָכָא – גַלְּיָא דַּעְתַּהּ דְּמִשּׁוּם אִינְּסוֹבֵי הוּא, וְהָא אִינְּסִיבָא וְאִיגָּרְשָׁה.
+> **Translation:** **Rav Huna, son of Rav Yehoshua, said to** Rav Beivai: Is it **because you come from** a line of **truncated [*mula’ei*] people,** from the house of the High Priest Eli, whose descendants were condemned to premature death (see I Samuel 2:31), that **you say truncated [*mulyata*]** and unsound **matters? Even according to the one who says** that the deed of **a woman who shelters** her property from her intended husband **effects acquisition,** and the woman cannot reclaim the property, **this matter** applies **where she did not reveal her intentions** in transferring ownership of her property. **But here, she revealed her intentions that** she transferred the property **because** she wanted **to marry; and she married, but was divorced.** Therefore, since she is no longer married, she can reclaim the property.
 
 Rav Huna brei d'Rav Yehoshua responded sharply: *mishum d'atu miMulai, amrisu milei mulaysa* — you come from Mulai, the *rashbam* identifies as the place associated with the descendants of Eli HaKohen, and you say blemished things. This is a pointed rebuke, playing on the name of the place.
 
@@ -96,7 +87,7 @@ The practical upshot is that the *mivra'chat* mechanism works most clearly in tw
 
 ### Tosafot Analysis
 
-The *Tosafot* raise several incisive points about the mechanics of *mivra'chat*. First, regarding the threshold of *kol nechasim* versus *miktzas nechasim*: *Tosafot* argues, drawing on another *gemara* in Perek Kol Ha'isha Shenafalu, that when it is *kol nechasim*, all of the property, nobody disputes that it works as a *mivra'chat* — even without explicit statement. The debate exists only regarding *miktzas nechasim*, a partial transfer, where explicit articulation of purpose becomes necessary. This is the cleaner reading of what we established yesterday, and *Tosafot* is clarifying that it was never genuinely contested in the *kol nechasim* case.
+The *Tosafot* raise several incisive points about the mechanics of *mivra'chat*. First, regarding the threshold of *kol nechasim* versus *miktzas nechasim*: *Tosafot* argues, drawing on another *gemara* in Perek Kol Ha'isha Shenafelu, that when it is *kol nechasim*, all of the property, nobody disputes that it works as a *mivra'chat* — even without explicit statement. The debate exists only regarding *miktzas nechasim*, a partial transfer, where explicit articulation of purpose becomes necessary. This is the cleaner reading of what we established yesterday, and *Tosafot* is clarifying that it was never genuinely contested in the *kol nechasim* case.
 
 The second and more searching question concerns the ownership structure during the interval of the marriage itself. The *girsa* that includes *v'igirsha* — she was divorced — might imply that while she was married to Rav Zivid, her son Rav Zutra in fact owned the property. *Tosafot* cites the R"I's objection to this reading, drawing on another *gemara* that makes clear that even while the woman is married, neither the husband nor the recipient truly owns the property. The *gemara* there asks: if the recipient does not own it, why does the husband not own it? The resolution — *takanta d'rabbanan she'asuha* — is that the Rabbis created an institution. It is a rabbinic enactment that treats the property as if it were in the recipient's possession for the purpose of shielding it from the husband, while in reality the woman herself retains ownership throughout.
 
@@ -108,11 +99,12 @@ The conceptual challenge is real: either the son owns it or the husband does. Th
 
 ## Matnat Shchiv Mera
 
+
+
 ### Two Sons Case
 
-> **Hebrew/Aramaic:** אִימֵּיהּ דְּרָמֵי בַּר חָמָא, בְּאוּרְתָּא כְּתַבְתִּינְהוּ לְנִכְסַהּ לְרָמִי בַּר חָמָא, בְּצַפְרָא כְּתַבְתִּינְהוּ לְרַב עוּקְבָא בַּר חָמָא.
->
-> **Translation:** **The mother of Rami bar Ḥama wrote** a deed **in the evening** granting **her property to Rami bar Ḥama. In the morning** of the following day, **she wrote** a deed granting her property **to** his brother, **Rav Ukva bar Ḥama.**
+> **Hebrew/Aramaic:** אִימֵּיהּ דְּרָמֵי בַּר חָמָא, בְּאוּרְתָּא כְּתַבְתִּינְהוּ לְנִכְסַהּ לְרָמִי בַּר חָמָא, בְּצַפְרָא כְּתַבְתִּינְהוּ לְרַב עוּקְבָא בַּר חָמָא. אֲתָא רָמֵי בַּר חָמָא לְקַמֵּיהּ דְּרַב שֵׁשֶׁת, אוֹקְמֵיהּ בְּנִכְסֵי. אֲזַל רַב עוּקְבָא בַּר חָמָא קַמֵּיהּ דְּרַב נַחְמָן, אוֹקְמֵיהּ בְּנִכְסֵי.
+> **Translation:** **The mother of Rami bar Ḥama wrote** a deed **in the evening** granting **her property to Rami bar Ḥama. In the morning** of the following day, **she wrote** a deed granting her property **to** his brother, **Rav Ukva bar Ḥama. Rami bar Ḥama came before Rav Sheshet,** who **established him** as the owner **of the property,** as the deed transferring the property to him preceded the gift to his brother. **Rav Ukva bar Ḥama came before Rav Naḥman,** who **established him** as the owner **of the property.**
 
 The *gemara* now presents the story of the mother of Rami bar Chama. *Be'ursa kasivnah lenachasei le'Rami bar Chama* — in the evening, she wrote over all her property to Rami bar Chama, her son. *B'tzafra kasivnah le'Rav Ukva bar Chama* — the next morning, she wrote it over to Rav Ukva bar Chama, her other son. Both were sons of Chama. She was a *shchiv mera* — a dying person — throughout this episode. The question is which gift controls: the first or the second?
 
@@ -120,9 +112,8 @@ As a matter of intuition, most would answer: the last will and testament — the
 
 ### Rav Sheshet/Nachman
 
-> **Hebrew/Aramaic:** אֲתָא רָמֵי בַּר חָמָא לְקַמֵּיהּ דְּרַב שֵׁשֶׁת, אוֹקְמֵיהּ בְּנִכְסֵי. אֲזַל רַב עוּקְבָא בַּר חָמָא קַמֵּיהּ דְּרַב נַחְמָן, אוֹקְמֵיהּ בְּנִכְסֵי. אֲתָא רַב שֵׁשֶׁת לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַר לֵיהּ: מַאי טַעְמָא אוֹקְמֵיהּ מָר לְרַב עוּקְבָא בַּר חָמָא? אִי מִשּׁוּם דַּהֲדַרָא בַּהּ – וְהָא שְׁכִיבָא!
->
-> **Translation:** **Rami bar Ḥama came before Rav Sheshet,** who **established him** as the owner **of the property,** as the deed transferring the property to him preceded the gift to his brother. **Rav Ukva bar Ḥama came before Rav Naḥman,** who **established him** as the owner **of the property. Rav Sheshet came before Rav Naḥman** and **said to him: What is the reason** that the **Master established Rav Ukva bar Ḥama** as the owner of the property? **If** it is **because she retracted** her gift, **but didn't she die?** Since the gift of a person on his deathbed is considered valid, Rami bar Ḥama already acquired the property in the evening.
+> **Hebrew/Aramaic:** אֲתָא רַב שֵׁשֶׁת לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַר לֵיהּ: מַאי טַעְמָא אוֹקְמֵיהּ מָר לְרַב עוּקְבָא בַּר חָמָא? אִי מִשּׁוּם דַּהֲדַרָא בַּהּ – וְהָא שְׁכִיבָא! אֲמַר לֵיהּ, הָכִי אָמַר שְׁמוּאֵל: כֹּל שֶׁאִילּוּ עָמַד – חוֹזֵר, חוֹזֵר בְּמַתְּנָתוֹ.
+> **Translation:** **Rav Sheshet came before Rav Naḥman** and **said to him: What is the reason** that the **Master established Rav Ukva bar Ḥama** as the owner of the property? **If** it is **because she retracted** her gift, **but didn’t she die?** Since the gift of a person on his deathbed is considered valid, Rami bar Ḥama already acquired the property in the evening. Rav Naḥman **said to** Rav Sheshet: **This** is what **Shmuel says:** With regard to the gift of a person on his deathbed, in **any** case **where he could retract** his gift **if he were to recover,** i.e., if he transferred ownership of all of his property, even if he does not recover, **he can retract his gift.**
 
 Rami bar Chama, the first recipient, came before Rav Sheshet, who awarded him the property. Rav Ukva bar Chama, the second recipient, came before Rav Nachman, who awarded it to him. Rav Sheshet then came to Rav Nachman to challenge his ruling.
 
@@ -130,9 +121,8 @@ Rav Sheshet's position was: *imi mishum dehadrabah* — if you say the mother re
 
 ### Chozer B'Matanto
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ, הָכִי אָמַר שְׁמוּאֵל: כֹּל שֶׁאִילּוּ עָמַד – חוֹזֵר, חוֹזֵר בְּמַתְּנָתוֹ. אֵימוֹר דְּאָמַר שְׁמוּאֵל – לְעַצְמוֹ; לְאַחֵר מִי אָמַר? אֲמַר לֵיהּ, בְּפֵירוּשׁ אָמַר שְׁמוּאֵל: בֵּין לְעַצְמוֹ בֵּין לְאַחֵר.
->
-> **Translation:** Rav Naḥman **said to** Rav Sheshet: **This** is what **Shmuel says:** With regard to the gift of a person on his deathbed, in **any** case **where he could retract** his gift **if he were to recover,** i.e., if he transferred ownership of all of his property, even if he does not recover, **he can retract his gift.** Rav Sheshet responded: **Say that Shmuel said** that he can retract his gift if he wants to retain the property **for himself,** but if he wants to retract his gift in order to give it **to another, did he** also **say** that he can do so? Rav Naḥman **said to** Rav Sheshet: **Shmuel explicitly said** that he can retract his gift **both** in order to retain the property **for himself and** to grant it **to another.**
+> **Hebrew/Aramaic:** אֵימוֹר דְּאָמַר שְׁמוּאֵל – לְעַצְמוֹ; לְאַחֵר מִי אָמַר? אֲמַר לֵיהּ, בְּפֵירוּשׁ אָמַר שְׁמוּאֵל: בֵּין לְעַצְמוֹ בֵּין לְאַחֵר.
+> **Translation:** Rav Sheshet responded: **Say that Shmuel said** that he can retract his gift if he wants to retain the property **for himself,** but if he wants to retract his gift in order to give it **to another, did he** also **say** that he can do so? Rav Naḥman **said to** Rav Sheshet: **Shmuel explicitly said** that he can retract his gift **both** in order to retain the property **for himself and** to grant it **to another.**
 
 Rav Nachman responded: *hachi amar Shmuel* — Shmuel taught: *kol she'ilu amad chozer, chozer b'matnato* — anyone whose gift would be voided if he recovered has the right to retract his gift and reassign it. The reasoning is that the entire frame of a *matnat shchiv mera* — a dying person's gift — is one of ongoing reassessment. A person in that condition who is divesting all of his property is doing so in the expectation of death and with the understanding that until death arrives, he retains a kind of continuing dominion over that process of divestiture. This is the principle of *chozer b'matnato*: within the dying person's frame, there is a right to continuously retract and redistribute until the end.
 
@@ -152,19 +142,16 @@ It is also worth noting at this point a principle that has been operative throug
 
 ## No Kinyan Principle
 
+
+
 ### Rav Amram Case
 
-> **Hebrew/Aramaic:** אִימֵּיהּ דְּרַב עַמְרָם חֲסִידָא הֲוָה לַהּ מְלוּגָא דִּשְׁטָרֵאי. כִּי קָא שָׁכְבָא, אָמְרָה: לֶיהֱוֵי לְעַמְרָם בְּרִי. אֲתוֹ אֲחוֹהָ לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַרוּ לֵיהּ: וְהָא לָא מְשַׁךְ!
->
-> **Translation:** **The mother of Rav Amram the Pious had a bundle [*meloga*] of** promissory **notes. When she was dying, she said: Let** these promissory notes **be for Amram, my son. His brothers came before Rav Naḥman. They said to** Rav Naḥman: **But** Rav Amram **did not pull** the bundle of documents, and since an act of acquisition was not performed he did not acquire them.
+> **Hebrew/Aramaic:** אִימֵּיהּ דְּרַב עַמְרָם חֲסִידָא הֲוָה לַהּ מְלוּגָא דִּשְׁטָרֵאי. כִּי קָא שָׁכְבָא, אָמְרָה: לֶיהֱוֵי לְעַמְרָם בְּרִי. אֲתוֹ אֲחוֹהָ לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַרוּ לֵיהּ: וְהָא לָא מְשַׁךְ! אֲמַר לְהוּ: דִּבְרֵי שְׁכִיב מְרַע כִּכְתוּבִין וְכִמְסוּרִין דָּמוּ.
+> **Translation:** **The mother of Rav Amram the Pious had a bundle [*meloga*] of** promissory **notes. When she was dying, she said: Let** these promissory notes **be for Amram, my son. His brothers came before Rav Naḥman. They said to** Rav Naḥman: **But** Rav Amram **did not pull** the bundle of documents, and since an act of acquisition was not performed he did not acquire them. Rav Naḥman **said to them:** An act of acquisition was not required, because **the statement of a person on his deathbed is considered as written and as** though the documents were **delivered** to the recipient.
 
 The mother of Rav Amram Chasida *hava lah meluga de-shatari* — had a satchel of promissory documents, outstanding debts owed to her. As she was dying, *amrah le-havei le-Amram beri* — she said: let them go to my son Amram. The brothers of Rav Amram came before Rav Nachman and argued: *halo mashach* — he did not take physical possession, he performed no *kinyan*. Since a satchel of *shtarot* is presumably not the entirety of her possessions, this is a *miktzas nechasim* transfer, not a *kol nechasim* transfer, and therefore it is not a *matnat shchiv mera* but rather a *matnat bari*, which would require a proper *kinyan*.
 
 ### Rav Nachman Ruling
-
-> **Hebrew/Aramaic:** אֲמַר לְהוּ: דִּבְרֵי שְׁכִיב מְרַע כִּכְתוּבִין וְכִמְסוּרִין דָּמוּ.
->
-> **Translation:** Rav Naḥman **said to them:** An act of acquisition was not required, because **the statement of a person on his deathbed is considered as written and as** though the documents were **delivered** to the recipient.
 
 Rav Nachman ruled: *divrei shchiv mera k'chtuvim u'k'msurim damu* — the words of a dying person are as if they were written in a document and physically handed over. No *kinyan* is needed. This is a striking ruling — and it is the first explicit articulation of this principle in the *gemara*. One could have read through all the *mishnayot* and all the *gemara* to this point and concluded that a *shchiv mera* must perform a *kinyan* like anyone else; the *mishnah's* discussion was solely about whether the gift is voided upon recovery (*amad chozer*), not about whether a *kinyan* is required. Rav Nachman is introducing this as a new and independent rule.
 
@@ -172,15 +159,25 @@ Rav Nachman ruled: *divrei shchiv mera k'chtuvim u'k'msurim damu* — the words 
 
 The *rashbam's* comment at this point is somewhat puzzling. He writes *kegon she'kanu mi'yadah* — as if they performed a *kinyan* from her hand — which would seem to reintroduce the *kinyan* requirement that Rav Nachman is precisely abolishing. The *Maharsha* already noted the difficulty. The *rashbam* then adds: *ei nami belo kinyan ve'kegon delo shayrei midi* — alternatively, without a *kinyan*, and assuming that she left over nothing, meaning this was indeed all of her possessions. The second reading makes better sense of the case: we are forced to assume that the satchel of *shtarot* constituted the entirety of her estate, putting it in the category of *kol nechasav* and thus a genuine *matnat shchiv mera* requiring no *kinyan*. On that reading, Rav Nachman's ruling flows from that premise.
 
+It is worth pausing here to appreciate what has been quietly happening throughout all of this. The *mishnah's* entire framework, as we encountered it, was organized around a different axis entirely: the distinction between *kol nechasav* and *miktzat nechasav* was about whether the gift is voided upon recovery — *amad chozer* — not about whether a *kinyan* is required at all. The great *chiddush* of *shchiv mera* that one carries away from serious study — that *divrei shchiv mera k'chtuvim u'k'msurim damu*, that the spoken words themselves effect the transfer without any formal *kinyan* — was never stated anywhere in the *mishnayot* or in the *gemara* until this very moment. Rav Nachman is the first to say it explicitly, and only now, as we work through the *rashbam*, does it become fully clear that this is the principle being introduced here and not merely assumed as background.
+
 ---
 
 ## Metzaveh Machmas Misa
 
+
+
+[DAF:151b]
 ### Orchard Case
 
-> **Hebrew/Aramaic:** אֲחָתֵיהּ דְּרַב דִּימִי בַּר יוֹסֵף הֲוָה לַהּ פִּיסְקְתָא דְפַרְדֵּיסָא, כׇּל אֵימַת דַּהֲוָת חָלְשָׁא הֲוָה מַקְנְיָא לֵיהּ נִיהֲלֵיהּ, וְכִי קָיְימָא הֲוָת הָדְרָא בָּהּ. זִימְנָא חֲדָא חֲלַשָׁא, שְׁלַחָה לֵיהּ: תָּא קְנִי. שְׁלַח: לָא בָּעֵינָא. שְׁלַחָה לֵיהּ: תָּא קְנִי כֹּל הֵיכָא דְּבָעֵית. אֲזַל שַׁיַּירה וּקְנוֹ מִינַּהּ. כִּי קָיְימָא, הָדְרָא בָּהּ.
->
-> **Translation:** **The sister of Rav Dimi bar Yosef had a tract of** land in **an orchard. Whenever she was sick** and thought that she was dying, **she would transfer** ownership of the orchard **to** Rav Dimi, **and when she recovered she would retract** her gift. On **one occasion she was sick. She sent** a message **to** Rav Dimi: **Come** and **acquire** my property. **He sent** a message back to her: **I do not want** to come. **She sent** a message **to him: Come** and **acquire** my property in **any manner that you want. He went and reserved** for her part of the orchard, **and** he **acquired** the rest of the property **from her** with an act of acquisition. **When she recovered she retracted** the gift.
+> **Hebrew/Aramaic:** אֲחָתֵיהּ דְּרַב טוֹבִי בַּר רַב מַתְנָה כְּתַבְתִּינְהוּ לְנִכְסַהּ לְרַב טוֹבִי בַּר רַב מַתְנָה – בְּצַפְרָא. לְפַנְיָא, אֲתָא רַב אַחָדְבוּי בַּר רַב מַתְנָה בְּכָה לַהּ – אֲמַר לַהּ, הַשְׁתָּא אָמְרִי: מָר צוּרְבָּא מֵרַבָּנַן, וּמָר לָאו צוּרְבָּא מֵרַבָּנַן! כְּתַבְתִּינְהוּ נִיהֲלֵיהּ. אֲתָא לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַר לֵיהּ, הָכִי אָמַר שְׁמוּאֵל: כׇּל שֶׁאִילּוּ עָמַד חוֹזֵר, חוֹזֵר בְּמַתְּנָתוֹ.
+> **Translation:** **The sister of Rav Tovi bar Rav Mattana wrote** a deed **in the morning** granting **her property to Rav Tovi bar Rav Mattana. In the evening** another brother, **Rav Aḥadvoi bar Rav Mattana, came** and **cried to her.** Rav Aḥadvoi **said to her: Now** people **will say** that you gave your property to Rav Tovi because this **Master,** Rav Tovi, is **a Torah scholar, and** that **Master,** Rav Aḥadvoi, **is not a Torah scholar. She wrote** a deed granting the property **to him.** Rav Tovi **came before Rav Naḥman.** Rav Naḥman **said to** Rav Tovi: **This** is what **Shmuel says:** With regard to the gift of a person on his deathbed, in **any** case **where he could retract** his gift **if he were to recover,** even if he does not recover, **he can retract his gift,** and therefore the property belongs to Rav Aḥadvoi.
+
+> **Hebrew/Aramaic:** אֲחָתֵיהּ דְּרַב דִּימִי בַּר יוֹסֵף הֲוָה לַהּ פִּיסְקְתָא דְפַרְדֵּיסָא, כׇּל אֵימַת דַּהֲוָת חָלְשָׁא הֲוָה מַקְנְיָא לֵיהּ נִיהֲלֵיהּ,
+> **Translation:** **The sister of Rav Dimi bar Yosef had a tract of** land in **an orchard. Whenever she was sick** and thought that she was dying, **she would transfer** ownership of the orchard **to** Rav Dimi,
+
+> **Hebrew/Aramaic:** וְכִי קָיְימָא הֲוָת הָדְרָא בָּהּ. זִימְנָא חֲדָא חֲלַשָׁא, שְׁלַחָה לֵיהּ: תָּא קְנִי. שְׁלַח: לָא בָּעֵינָא. שְׁלַחָה לֵיהּ: תָּא קְנִי כֹּל הֵיכָא דְּבָעֵית. אֲזַל שַׁיַּירה וּקְנוֹ מִינַּהּ. כִּי קָיְימָא, הָדְרָא בָּהּ.
+> **Translation:** **and when she recovered she would retract** her gift. On **one occasion she was sick. She sent** a message **to** Rav Dimi: **Come** and **acquire** my property. **He sent** a message back to her: **I do not want** to come. **She sent** a message **to him: Come** and **acquire** my property in **any manner that you want. He went and reserved** for her part of the orchard, **and** he **acquired** the rest of the property **from her** with an act of acquisition. **When she recovered she retracted** the gift.
 
 The *gemara* now presents the case of the sister of Rav Tuvi bar Rav Mattana. This is another in the remarkable series of stories about female relatives of named *amoraim* who manage their property as *shchiv mera*. *Havi lah piska d'pardisa* — she had a small plot of an orchard. *Kol eimas d'havya chalsha, havya maknya leh nihaleh* — whenever she became ill, she would transfer it to her brother as a *matnat shchiv mera*, and then *d'kayma, havya hadra* — when she recovered, it would be voided and she would retract. This cycle apparently repeated itself over the years.
 
@@ -190,23 +187,24 @@ The significance of this maneuver is crucial. By doing a *kinyan* on *part* of t
 
 ### Rav Dimi Refusal
 
-> **Hebrew/Aramaic:** אֲתַאי לְקַמֵּיהּ דְּרַב נַחְמָן, שְׁלַח לֵיהּ: תָּא. לָא אֲתָא. אָמַר: מַאי אֵיתֵי? הָא שַׁיַּירִה וּקְנוֹ מִינַּהּ! שְׁלַח לֵיהּ: אִי לָא אָתֵית, מָחֵינָא לָךְ בְּסִילְוָא דְּלָא מַבַּע דְּמָא.
->
-> **Translation:** **She came before Rav Naḥman** to reclaim it. Rav Naḥman **sent** a message **to** Rav Dimi: **Come** to court. Rav Dimi **did not come. He said: What** reason is there for **me to come? Didn't** I **reserve** part of the property for her, **and** I **acquired** the rest of the property **from her** with an act of acquisition? Therefore, the acquisition is complete. Rav Naḥman **sent** a message **to** Rav Dimi: **If you do not come, I will strike you with a thorn [*besileva*] that does not draw blood,** i.e., I will excommunicate you.
+> **Hebrew/Aramaic:** אֲתַאי לְקַמֵּיהּ דְּרַב נַחְמָן, שְׁלַח לֵיהּ: תָּא. לָא אֲתָא. אָמַר: מַאי אֵיתֵי? הָא שַׁיַּירִה וּקְנוֹ מִינַּהּ! שְׁלַח לֵיהּ: אִי לָא אָתֵית, מָחֵינָא לָךְ בְּסִילְוָא דְּלָא מַבַּע דְּמָא.
+> **Translation:** **She came before Rav Naḥman** to reclaim it. Rav Naḥman **sent** a message **to** Rav Dimi: **Come** to court. Rav Dimi **did not come. He said: What** reason is there for **me to come? Didn’t** I **reserve** part of the property for her, **and** I **acquired** the rest of the property **from her** with an act of acquisition? Therefore, the acquisition is complete. Rav Naḥman **sent** a message **to** Rav Dimi: **If you do not come, I will strike you with a thorn [*besileva*] that does not draw blood,** i.e., I will excommunicate you.
 
-She brought the case before Rav Nachman. He sent word to Rav Dimi bar Yosef — the brother — to appear before the *beis din*. He refused: *lo ata* — he did not come. His reasoning, which he sent back, was: *ha shiyer v'kana minah* — she left over a portion and I performed a *kinyan*, therefore *amar einu chozer* — it cannot be retracted. He saw no need to appear, since his legal position was clear. Rav Nachman sent back: *ei lo atis, m'china lach b'silva d'lo mivza dama* — if you do not come, I will place you in *cherem*. He came.
+She brought the case before Rav Nachman. He sent word to Rav Dimi bar Yosef — the brother — to appear before the *beis din*. He refused: *lo ata* — he did not come. His reasoning, which he sent back, was: *ha shiyer v'kana minah* — she left over a portion and I performed a *kinyan*, therefore *amar einu chozer* — it cannot be retracted. He saw no need to appear, since his legal position was clear. Rav Nachman sent back: *ei lo atis, m'china lach b'silva d'lo mivza dama* — if you do not come, I will strike you with a nail that draws no blood, meaning I will place you in *cherem*. He came.
 
 ### Alas Oy Oy Oy
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ לְסָהֲדִי: הֵיכִי הֲוָה מַעֲשֶׂה? אֲמַרוּ לֵיהּ, אֲמַרָה הָכִי: "וַוי דְּקָא מָיְתָה הָךְ אִיתְּתָא!" אֲמַר לְהוּ: אִם כֵּן, הֲוָה מְצַוֶּה מֵחֲמַת מִיתָה, וּמְצַוֶּה מֵחֲמַת מִיתָה – חוֹזֵר.
->
+Rav Nachman asked the witnesses: *heichi havah ma'aseh* — tell me exactly what happened. They reported that she said: *oy oy oy, I'm about to die!* The *rashbam* notes that she said this particularly when her brother had failed to appear at her summons, expressing anguish that she would die without seeing him. What she said was an explicit, articulated expression of fear of imminent death — *metzaveh machmas misa*, giving instructions because she was dying.
+
+> **Hebrew/Aramaic:** אֲמַר לְהוּ לְסָהֲדִי: הֵיכִי הֲוָה מַעֲשֶׂה? אֲמַרוּ לֵיהּ, אֲמַרָה הָכִי: ״וַוי דְּקָא מָיְתָה הָךְ אִיתְּתָא!״ אֲמַר לְהוּ: אִם כֵּן, הֲוָה מְצַוֶּה מֵחֲמַת מִיתָה, וּמְצַוֶּה מֵחֲמַת מִיתָה – חוֹזֵר.
 > **Translation:** Inquiring into the matter, Rav Naḥman **said to the witnesses: How did the act** of transferring the property take place? The witnesses **said to** Rav Naḥman: **This** is what **she said: Woe, that woman is dying!** Rav Naḥman **said to them: If so, this is** a case of **one who issues directives** with regard to his property **due to** his expectation of his imminent **death. And one who issues directives due to** his expectation of his imminent **death can retract** his gift even if he did not transfer all of his property, as he evidently granted the gift only because he expected to die.
 
-Rav Nachman asked the witnesses: *heichi havah ma'aseh* — tell me exactly what happened. They reported that she said: *oy oy oy, I'm about to die!* The *rashbam* notes that she said this particularly when her brother had failed to appear at her summons, expressing anguish that she would die without seeing him. What she said was an explicit, articulated expression of fear of imminent death — *metzaveh machmas misa*, giving instructions because she was dying.
+### Rav Nachman Ruling
 
 Rav Nachman ruled: *im kein, metzaveh machmas misa, u'metzaveh machmas misa chozer* — if that is the case, she was giving her instructions out of fear of death, and one who gives instructions because of fear of death also has the right to retract. This is a major *chiddush*. Until now, the dividing line between *matnat shchiv mera* and *matnat bari* seemed to be *kol nechasav* versus *miktzas nechasav*: give everything and it is a *shchiv mera* gift with all its attendant rules, give only part and it is a regular gift requiring *kinyan* and not retractable. Now a new category is introduced: *miktzas nechasav* paired with *metzaveh machmas misa* — a partial transfer, but one explicitly made out of fear of death — also qualifies as *matnat shchiv mera*. The transfer here, which was of *miktzas nechasim*, is pulled into the *shchiv mera* framework by the explicit expression of mortal fear, and therefore it is retractable after all.
 
 ### Abiyi Clarification
+
 
 Abaye adds a clarifying point: the critical variable is whether the person explicitly expresses that they are acting out of fear of death. With *kol nechasav*, no such explicit statement is needed — the totality of the transfer itself, combined with the fact that the person is ill, suffices to establish *metzaveh machmas misa*. But with *miktzas nechasim*, explicit expression is required. The mere fact that a person is lying ill in bed and conducting some property transfer does not automatically make it a *matnat shchiv mera*. A person can be near death and still transact ordinary business. Only when they say — as this woman said, with her *oy oy oy, I'm about to die* — that this transfer is being made because they fear death does the *miktzas nechasim* transfer rise to the level of *matnat shchiv mera*.
 
@@ -216,11 +214,12 @@ This raises a further question: what of a person who is not ill at all, but is a
 
 ## Boundaries/Definitions
 
+
+
 ### Hybrid Category
 
-> **Hebrew/Aramaic:** אִיתְּמַר: מַתְּנַת שְׁכִיב מְרַע בְּמִקְצָת; אַמְרוּהָ רַבָּנַן קַמֵּיהּ דְּרָבָא מִשְּׁמֵיהּ דְּמָר זוּטְרָא בְּרֵיהּ דְּרַב נַחְמָן דְּאָמַר מִשְּׁמֵיהּ דְּרַב נַחְמָן: הֲרֵי הִיא כְּמַתְּנַת בָּרִיא, וַהֲרֵי הִיא כְּמַתְּנַת שְׁכִיב מְרַע. הֲרֵי הִיא כְּמַתְּנַת בָּרִיא – שֶׁאִם עָמַד אֵינוֹ חוֹזֵר, וַהֲרֵי הִיא כְּמַתְּנַת שְׁכִיב מְרַע – דְּלָא בָּעֲיָא קִנְיָן.
->
-> **Translation:** § **It was stated** that the *amora'im* disagreed with regard to **a gift of a person on his deathbed** that includes only **a part** of his property. **The Sages said** the following **before Rava in the name of Mar Zutra, son of Rav Naḥman, who said** it **in the name of Rav Naḥman: This** type of gift **is** in some respects **like the gift of a healthy person, and** in other respects **it is like** the **gift of a person on his deathbed. It is like the gift of a healthy person, as, if he recovers he cannot retract** it, as stated in the mishna. **And it is like** the **gift of a person on his deathbed, as it does not require** an act of **acquisition.** Rather, it is acquired by means of verbal instruction alone.
+> **Hebrew/Aramaic:** אִיתְּמַר: מַתְּנַת שְׁכִיב מְרַע בְּמִקְצָת; אַמְרוּהָ רַבָּנַן קַמֵּיהּ דְּרָבָא מִשְּׁמֵיהּ דְּמָר זוּטְרָא בְּרֵיהּ דְּרַב נַחְמָן דְּאָמַר מִשְּׁמֵיהּ דְּרַב נַחְמָן: הֲרֵי הִיא כְּמַתְּנַת בָּרִיא, וַהֲרֵי הִיא כְּמַתְּנַת שְׁכִיב מְרַע. הֲרֵי הִיא כְּמַתְּנַת בָּרִיא – שֶׁאִם עָמַד אֵינוֹ חוֹזֵר, וַהֲרֵי הִיא כְּמַתְּנַת שְׁכִיב מְרַע – דְּלָא בָּעֲיָא קִנְיָן.
+> **Translation:** § **It was stated** that the *amora’im* disagreed with regard to **a gift of a person on his deathbed** that includes only **a part** of his property. **The Sages said** the following **before Rava in the name of Mar Zutra, son of Rav Naḥman, who said** it **in the name of Rav Naḥman: This** type of gift **is** in some respects **like the gift of a healthy person, and** in other respects **it is like** the **gift of a person on his deathbed. It is like the gift of a healthy person, as, if he recovers he cannot retract** it, as stated in the mishna. **And it is like** the **gift of a person on his deathbed, as it does not require** an act of **acquisition.** Rather, it is acquired by means of verbal instruction alone.
 
 The *gemara* now reports a teaching: *matnat shchiv mera b'miktzas* — a partial gift by a dying person — was attributed to Rav Nachman as establishing a hybrid category: *harei kematnat bari veharei kematnat shchiv mera* — it is in some respects like a *matnat bari* and in some respects like a *matnat shchiv mera*. *Harei kematnat bari she'im amad eino chozer* — like a *matnat bari* in that if the person recovers, the gift is not retracted. *Harei kematnat shchiv mera dlo ba'ei kinyan* — like a *matnat shchiv mera* in that no *kinyan* is required.
 
@@ -228,8 +227,7 @@ The logic of this hybrid construction is that since we have just established the
 
 ### Rava Correction
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ רָבָא, לָאו אָמֵינָא לְכוּ: לָא תִּיתְלוֹ בּוּקֵי סְרִיקֵי בְּרַב נַחְמָן? הָכִי אָמַר רַב נַחְמָן: הֲרֵי הִיא כְּמַתְּנַת בָּרִיא, וּבָעֲיָא קִנְיַן.
->
+> **Hebrew/Aramaic:** אֲמַר לְהוּ רָבָא, לָאו אָמֵינָא לְכוּ: לָא תִּיתְלוֹ בּוּקֵי סְרִיקֵי בְּרַב נַחְמָן? הָכִי אָמַר רַב נַחְמָן: הֲרֵי הִיא כְּמַתְּנַת בָּרִיא, וּבָעֲיָא קִנְיַן.
 > **Translation:** **Rava said to** the Sages: **Did I not say to you: Do not hang empty pitchers [*bukei*] upon Rav Naḥman,** i.e., do not attribute incorrect statements to him? **This is** what **Rav Naḥman says:** A gift of a person on his deathbed that includes only a part of his property **is like the gift of a healthy person and requires** an act of **acquisition.** If an act of acquisition is not performed, the acquisition of the gift is not effective even if the owner dies.
 
 Rava rejected this emphatically: *lav amina lachu, lo tiplu buki seriki be-Rav Nachman* — have I not told you not to hang empty pitchers on Rav Nachman, do not attribute such nonsense to him. *Hachi amar Rav Nachman: harei hu kematnat bari u'ba'ei kinyan* — what Rav Nachman actually said is: it is entirely like a *matnat bari* and a *kinyan* is required. The two halves of the proposed hybrid — *amad eino chozer* and no *kinyan* needed — must both track the same model. If it is *matnat bari* in the sense that recovery does not void the gift, then it is *matnat bari* in every operative sense, and a *kinyan* is required.

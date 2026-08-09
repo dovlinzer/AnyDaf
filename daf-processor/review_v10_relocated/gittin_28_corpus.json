@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Wife of Kohen Overseas",
+    "candidates": [
+      "Opening & Mishnah Intro",
+      "Chazaka & Status Quo",
+      "Wife of Kohen Overseas",
+      "Chattat from Overseas",
+      "Terumah as Chidush",
+      "Rava's Limitations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two cases discussed in candidate 2 ('Wife of Kohen Overseas') and candidate 3 ('Chattat from Overseas'), but since both cases appear together in a single mishnaic text and candidate 2's prose explicitly introduces both cases as part of the same mishna unit, the current placement under 'Wife of Kohen Overseas' (index 2) is the correct home for this combined passage.",
+      "chosen_heading": "Wife of Kohen Overseas",
+      "current_heading": "Wife of Kohen Overseas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rava's Limitations",
+    "candidates": [
+      "Chattat from Overseas",
+      "Terumah as Chidush",
+      "Rava's Limitations",
+      "Rava: Zaken & Gosses",
+      "Braita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rava's qualification that the mishna's ruling applies only to an ordinary elderly man who has not reached gevurot and an ordinary sick person (because most sick people recover), which is precisely what heading 2 'Rava's Limitations' describes in its prose.",
+      "chosen_heading": "Rava's Limitations",
+      "current_heading": "Rava's Limitations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Braita Challenge",
+    "candidates": [
+      "Rava: Zaken & Gosses",
+      "Braita Challenge",
+      "Plateau Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's challenge from the baraita about delivering a get to a hundred-year-old man, which is exactly what the 'Braita Challenge' section's prose describes.",
+      "chosen_heading": "Braita Challenge",
+      "current_heading": "Braita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Plateau Effect",
+    "candidates": [
+      "Plateau Effect",
+      "Gosses Status",
+      "The Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that once someone has demonstrated exceptional longevity ('since he reached an exceptionally old age'), normal presumptions don't apply \u2014 this directly elaborates on the 'plateau effect' concept discussed in the current section's prose about Rava's keivan de'ifrak ifrak argument.",
+      "chosen_heading": "Plateau Effect",
+      "current_heading": "Plateau Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "The Contradiction",
+    "candidates": [
+      "Gosses Status",
+      "The Contradiction",
+      "Rava's Distinction",
+      "Tosafot Reframes",
+      "Rav Ada's Answer",
+      "Rav Papa's Challenge",
+      "Abaye's Proposal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "The Contradiction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Abaye's contradiction between gittin and terumah and Rabba's response distinguishing them, matching heading 1 'The Contradiction' precisely.",
+      "second_heading": "Tosafot Reframes",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present the new terumah-vs-terumah contradiction, Rav Adda's answer, and Rav Papa's challenge, matching heading 3 'Tosafot Reframes' which explicitly describes comparing terumah against terumah as the starting point for this sub-discussion.",
+      "current_heading": "The Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Abaye's Proposal",
+    "candidates": [
+      "Rava's Distinction",
+      "Tosafot Reframes",
+      "Rav Ada's Answer",
+      "Rav Papa's Challenge",
+      "Abaye's Proposal",
+      "Barrel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Abaye's resolution attributing the contradiction to a tannaitic dispute between Rabbi Meir and Rabbi Yehuda, which is precisely what the 'Abaye's Proposal' section's prose describes.",
+      "chosen_heading": "Abaye's Proposal",
+      "current_heading": "Abaye's Proposal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Barrel Case",
+    "candidates": [
+      "Barrel Case",
+      "Rabbi Meir Unconcerned",
+      "Parallel to Death",
+      "The Distinction",
+      "Chazaka & Future",
+      "Present vs. Future",
+      "Rav Ada Challenges",
+      "Barrel vs. Death",
+      "Guardian Needs Guardian",
+      "All Agree: No Shema Met",
+      "Shema Yamut Debate",
+      "Rabbi Meir & Long Term",
+      "Rabbi Yehuda's Concern",
+      "Absurd Consequence",
+      "Time-Qualified Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about purchasing wine from Samaritans and the dispute between Rabbi Meir and Rabbi Yehuda/Yosei/Shimon, which is precisely what the 'Barrel Case' prose describes.",
+      "chosen_heading": "Barrel Case",
+      "current_heading": "Barrel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Time-Qualified Dispute",
+    "candidates": [
+      "Rabbi Meir Unconcerned",
+      "Parallel to Death",
+      "The Distinction",
+      "Chazaka & Future",
+      "Present vs. Future",
+      "Rav Ada Challenges",
+      "Barrel vs. Death",
+      "Guardian Needs Guardian",
+      "All Agree: No Shema Met",
+      "Shema Yamut Debate",
+      "Rabbi Meir & Long Term",
+      "Rabbi Yehuda's Concern",
+      "Absurd Consequence",
+      "Time-Qualified Dispute",
+      "The Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains Rava's distinction (shema met vs. shema yamut), Rav Adda bar Mattana's challenge about the wineskin/barrel case being a tannaitic dispute, Rav Yehuda of Diskarta's response, Rav Mesharshiya's objection, and Rava's final reformulation \u2014 all of which directly corresponds to candidate 5 ('Rav Ada Challenges'), whose prose describes precisely this sequence: Rav Ada challenging Rava's formulation by pointing to the barrel case as a tannaitic dispute, pressing Rava to refine his position.",
+      "chosen_heading": "Rav Ada Challenges",
+      "current_heading": "Time-Qualified Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "The Challenge",
+    "candidates": [
+      "Time-Qualified Dispute",
+      "The Challenge",
+      "Rav Yosef's Answer",
+      "Rav Pappa's Answer",
+      "Three Cases Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the Gemara's challenge about smicha and both Rav Yosef's and Rav Pappa's answers together, which maps directly to 'The Challenge' section that introduces the smicha problem \u2014 and notably the subsequent headings (2 and 3) treat each answer separately in the essay prose, but the quoted text contains all three elements as a single unit, making the introductory 'Challenge' heading the best single placement.",
+      "chosen_heading": "The Challenge",
+      "current_heading": "The Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Three Cases Explained",
+    "candidates": [
+      "Rav Yosef's Answer",
+      "Rav Pappa's Answer",
+      "Three Cases Explained",
+      "Three Hazakas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items explain why the mishna must state the chazkat chayim rule in all three cases (get, teruma, chattat ha'of), which matches exactly the 'Three Cases Explained' prose describing why each case is necessary and what it teaches that the others do not.",
+      "chosen_heading": "Three Cases Explained",
+      "current_heading": "Three Cases Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Three Hazakas",
+    "candidates": [
+      "Three Hazakas",
+      "When Hazaka Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces the three cases where Rabbi Elazar ben Parta establishes a presumption of life, which directly matches the 'Three Hazakas' section prose describing these same three cases and the principle of bechezkat kayamin.",
+      "chosen_heading": "Three Hazakas",
+      "current_heading": "Three Hazakas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "When Hazaka Fails",
+    "candidates": [
+      "When Hazaka Fails",
+      "Consequences for Terumah",
+      "Time Limits & Witnesses",
+      "Rav Yosef's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the three cases (conquered city, lost ship, condemned man) and the rule of applying stringencies of both life and death, which is precisely what heading 0 ('When Hazaka Fails') discusses, before the terumah implications are elaborated under heading 1.",
+      "chosen_heading": "When Hazaka Fails",
+      "current_heading": "When Hazaka Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Rav Yosef's Position",
+    "candidates": [
+      "Consequences for Terumah",
+      "Time Limits & Witnesses",
+      "Rav Yosef's Position",
+      "Abaye Challenges",
+      "Sealed Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement distinguishing Jewish courts from non-Jewish courts, which is precisely what the prose under 'Rav Yosef's Position' describes.",
+      "chosen_heading": "Rav Yosef's Position",
+      "current_heading": "Rav Yosef's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Sealed Judgment",
+    "candidates": [
+      "Abaye Challenges",
+      "Sealed Judgment",
+      "Baraita on Courts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's challenge about bribery in non-Jewish courts AND Rav Yosef's response about sealed judgments \u2014 it is a single exchange that belongs under 'Abaye Challenges' since that heading introduces the bribery objection, while the current placement under 'Sealed Judgment' captures only Rav Yosef's reply, splitting what is one continuous dialogue.",
+      "chosen_heading": "Abaye Challenges",
+      "current_heading": "Sealed Judgment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Baraita on Courts",
+    "candidates": [
+      "Sealed Judgment",
+      "Baraita on Courts",
+      "The Question",
+      "Logical Problem",
+      "Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita on Courts",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the objection from the Makkot baraita and its resolution (boreiach shani), plus the new proof from the Jewish/gentile court announcement, which exactly matches the 'Baraita on Courts' prose.",
+      "second_heading": "The Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the logical problem about what 'died/was killed' means and why a gentile registrar's statement wouldn't be believed under the masiach lefi tumo principle, which exactly matches the 'The Question' and 'Logical Problem' prose \u2014 and 'The Question' prose is the better fit as it frames the clarifying question the Gemara is asking.",
+      "current_heading": "Baraita on Courts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "The Question",
+      "Logical Problem",
+      "Resolution",
+      "Alternative View",
+      "Mesiach Lefi Tumo",
+      "Court's Vested Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the interpretive question of whether 'died' and 'was killed' mean literally completed or going-out-to-die/be-executed, which is precisely what 'The Question' section is about, not the resolution itself.",
+      "chosen_heading": "The Question",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Court's Vested Interest",
+    "candidates": [
+      "Alternative View",
+      "Mesiach Lefi Tumo",
+      "Court's Vested Interest",
+      "Jewish Court Finality"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Alternative View",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 directly answer why the non-Jewish court's testimony is unreliable by invoking and then limiting masiach lefi tumo, which is precisely what the 'Alternative View' prose describes \u2014 the actual died/executed reading and the reason the non-Jewish court cannot be trusted.",
+      "second_heading": "Jewish Court Finality",
+      "second_confidence": "high",
+      "second_reason": "Item 3 states that once a Jewish court's verdict to execute has emerged they carry it out, which directly matches the 'Jewish Court Finality' prose about the practical finality of Jewish court sentencing.",
+      "current_heading": "Court's Vested Interest",
+      "moved": true
+    }
+  }
+]

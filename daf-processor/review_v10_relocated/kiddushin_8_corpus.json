@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rav Yosef on Kayatz",
+    "candidates": [
+      "Two Versions",
+      "Rav Yosef on Kayatz",
+      "Eved Ivri Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Yosef's core principle that shaveh kessef must be 'kaitz' (fixed/determinate) just as kessef is, which is precisely what the 'Rav Yosef on Kayatz' prose section describes and introduces.",
+      "chosen_heading": "Rav Yosef on Kayatz",
+      "current_heading": "Rav Yosef on Kayatz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Eved Ivri Source",
+    "candidates": [
+      "Eved Ivri Source",
+      "Rabba's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's citation of the baraita about eved ivri acquisition through money (not grain or vessels), which is precisely what the 'Eved Ivri Source' prose describes as Rav Yosef's proof text.",
+      "chosen_heading": "Eved Ivri Source",
+      "current_heading": "Eved Ivri Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Rabba's Response",
+    "candidates": [
+      "Rabba's Response",
+      "Pidyon Ha-Ben"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are part of the Gemara's back-and-forth on the braita about tevuah and keilim \u2014 Rav Yosef's reading, Rabba's response, the Rav Nachman objection, and the lo mibaya resolution \u2014 which is precisely what the 'Rabba's Response' prose section describes in detail.",
+      "chosen_heading": "Rabba's Response",
+      "current_heading": "Rabba's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Pidyon Ha-Ben",
+    "candidates": [
+      "Pidyon Ha-Ben",
+      "Tosafot on Shiraim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the continuous Rav Yosef pidyon ha-ben baraita passage with its gemara clarification and Rav Kahana illustration, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Pidyon Ha-Ben",
+      "current_heading": "Pidyon Ha-Ben",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Tosafot on Shiraim",
+    "candidates": [
+      "Tosafot on Shiraim",
+      "Maneh Stam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ashi's qualification that redeeming a firstborn son with an overpriced cloth only works for a great man like Rav Kahana who genuinely needs it, illustrated by Mar bar Rav Ashi paying thirteen for something worth ten \u2014 this is about smichat da'at and whether a buyer's personal need justifies paying above market value, which relates to the 'maneh stam' section's discussion of kiddushin with specified amounts and the underlying logic of valuation and intent, and is clearly unrelated to the Tosafot on shiraim discussion about silk appraisal and plain rings.",
+      "chosen_heading": "Maneh Stam",
+      "current_heading": "Tosafot on Shiraim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Maneh Stam",
+    "candidates": [
+      "Tosafot on Shiraim",
+      "Maneh Stam",
+      "Maneh Zu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Elazar's ruling about 'hitkadshi li be-maneh' with a dinar and Rav Huna/Rav's principle about 'al menat' being like 'me-achshav,' which is precisely what the 'Maneh Stam' prose describes.",
+      "chosen_heading": "Maneh Stam",
+      "current_heading": "Maneh Stam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Maneh Zu",
+    "candidates": [
+      "Maneh Zu",
+      "Clarification by Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara discussion of the baraita challenge and its resolution via 'maneh zu,' which is precisely what the 'Maneh Zu' section's prose describes.",
+      "chosen_heading": "Maneh Zu",
+      "current_heading": "Maneh Zu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Clarification by Action",
+    "candidates": [
+      "Clarification by Action",
+      "Dinar Ra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita's reisha and seifa regarding maneh stam vs. maneh zeh, the question of whether the seifa is clarificatory or introduces a chiddush, and Rav Ashi's explanation about counting \u2014 all of which are precisely what the 'Clarification by Action' prose section addresses.",
+      "chosen_heading": "Clarification by Action",
+      "current_heading": "Clarification by Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Dinar Ra",
+    "candidates": [
+      "Dinar Ra",
+      "Meshkon Not Kessef",
+      "Kedisha B'Meshkon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's analysis of the copper dinar and flawed dinar cases from the baraita, which is precisely what the 'Dinar Ra' section's prose addresses \u2014 the distinction between dinar shel nechoshet and dinar ra, and Rav Papa's ruling about nafik al yedei hadach.",
+      "chosen_heading": "Dinar Ra",
+      "current_heading": "Dinar Ra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Kedisha B'Meshkon",
+    "candidates": [
+      "Meshkon Not Kessef",
+      "Kedisha B'Meshkon",
+      "Creditor Owns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugyah of Rav Nachman's ruling (maneh ein kan, mashkon ein kan) plus Rava's objection and its resolution \u2014 all of which is described under heading 0 ('Meshkon Not Kessef'), while heading 1 ('Kedisha B'Meshkon') covers only the second half (the braita and its distinction), making heading 0 the better home for the unified passage.",
+      "chosen_heading": "Meshkon Not Kessef",
+      "current_heading": "Kedisha B'Meshkon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Creditor Owns",
+    "candidates": [
+      "Kedisha B'Meshkon",
+      "Creditor Owns",
+      "Priti Without Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of Rabbi Yitzchak's teaching about a creditor acquiring collateral, which is exactly what the 'Creditor Owns' section's prose discusses and explains in detail.",
+      "chosen_heading": "Creditor Owns",
+      "current_heading": "Creditor Owns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Priti Without Payment",
+    "candidates": [
+      "Priti Without Payment",
+      "Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about the sons of Rav Huna bar Avin purchasing a maidservant with perutot and Rabbi Ami's ruling is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Priti Without Payment",
+      "current_heading": "Priti Without Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Destruction",
+    "candidates": [
+      "Destruction",
+      "Sheliach Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita about throwing money into the sea/fire and the lo mibaya resolution, which is precisely what the 'Destruction' prose section describes in detail.",
+      "chosen_heading": "Destruction",
+      "current_heading": "Destruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Sheliach Cases",
+    "candidates": [
+      "Sheliach Cases",
+      "Ploni Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about 'give it to my/your father' and the gemara's explanation of why both cases are taught \u2014 are precisely the content described in the 'Sheliach Cases' prose, which explicitly covers the father/your-father distinction, the al menat formula, and the lesson each clause conveys.",
+      "chosen_heading": "Sheliach Cases",
+      "current_heading": "Sheliach Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Ploni Distinction",
+    "candidates": [
+      "Ploni Distinction",
+      "Sela on Rock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present exactly the gemara's discussion of the *ploni* case and the *tzricha* reasoning explaining why both the father-case and the *ploni*-case must be stated, which is precisely what the 'Ploni Distinction' prose describes in detail.",
+      "chosen_heading": "Ploni Distinction",
+      "current_heading": "Ploni Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Sela on Rock",
+    "candidates": [
+      "Sela on Rock",
+      "Dog Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the rock case with Rav Bibi's dilemma about jointly-owned rock, which exactly matches the 'Sela on Rock' section's prose content.",
+      "chosen_heading": "Sela on Rock",
+      "current_heading": "Sela on Rock",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rabbi Tarfon Case",
+    "candidates": [
+      "Opening Question",
+      "Rabbi Tarfon Case",
+      "Rabban Gamliel Illanit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with Rabbi Tarfon's 'te-avni' statement and the Gemara's interpretation that he meant to exclude Rabbi Yochanan ben Nuri's position, which is precisely what the 'Rabbi Tarfon Case' prose describes in detail.",
+      "chosen_heading": "Rabbi Tarfon Case",
+      "current_heading": "Rabbi Tarfon Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rabban Gamliel Illanit",
+    "candidates": [
+      "Rabban Gamliel Illanit",
+      "Illanit Status Debate",
+      "Tenai Bikiddushin Issue",
+      "Rabbi Akiva Ma'aserot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion about Rabban Gamliel's daughter (the aylonit/illanit story), including the initial incident, the objection, and the various resolutions (hikir/lo hikir, kanas u'levasof geires, yesh tenai b'viah) \u2014 exactly what candidate 0's prose describes, and candidates 1 and 2 are subordinate elaborations of the same story already covered under heading 0.",
+      "chosen_heading": "Rabban Gamliel Illanit",
+      "current_heading": "Rabban Gamliel Illanit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Rabbi Akiva Ma'aserot",
+    "candidates": [
+      "Illanit Status Debate",
+      "Tenai Bikiddushin Issue",
+      "Rabbi Akiva Ma'aserot",
+      "Gamliel's Uncertainty",
+      "Shammai Sukkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about Rabbi Akiva's double-tithing of an etrog on the first of Shevat and the Gemara's rebuttal that he acted out of uncertainty about Beit Hillel's position \u2014 exactly what the 'Rabbi Akiva Ma'aserot' heading's prose describes.",
+      "chosen_heading": "Rabbi Akiva Ma'aserot",
+      "current_heading": "Rabbi Akiva Ma'aserot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Shammai Sukkah",
+    "candidates": [
+      "Gamliel's Uncertainty",
+      "Shammai Sukkah",
+      "Yehu's Trough Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Shammai sukkah incident that candidate 1's prose discusses in detail, including the removal of the ceiling, placement of sechach over the crib, and the Gemara's deflection about ventilation.",
+      "chosen_heading": "Shammai Sukkah",
+      "current_heading": "Shammai Sukkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Yehu's Trough Story",
+    "candidates": [
+      "Yehu's Trough Story",
+      "Mikvaot Connection Law",
+      "Rabbi Elazar Bar Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are a continuous unit: Mar Zutra's objection about the Yehu trough, the mishna on joining ritual baths, and the Gemara's deflection \u2014 all directly discussed in candidate 0's prose about the shokat Yehu story and Beit Shammai's intervention.",
+      "chosen_heading": "Yehu's Trough Story",
+      "current_heading": "Yehu's Trough Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rabbi Elazar Bar Tzadok",
+    "candidates": [
+      "Mikvaot Connection Law",
+      "Rabbi Elazar Bar Tzadok",
+      "Novelty Analysis",
+      "Standard Answer",
+      "Pasken Like Whom",
+      "Head Between Mountains"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbi Elazar Bar Tzadok",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the Rabbi Elazar bar Tzadok story about Rabbi Yochanan Hachorni, the olives, the perforated barrel, and the Beit Shammai/Beit Hillel mishna \u2014 all discussed in the 'Rabbi Elazar Bar Tzadok' prose.",
+      "second_heading": "Novelty Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 4's inference about the greatness/novelty of Rabbi Yochanan Hachorni's following Beit Hillel, and what this proves about whether Beit Shammai acted on their rulings, is precisely what the 'Novelty Analysis' prose section discusses.",
+      "current_heading": "Rabbi Elazar Bar Tzadok",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Head Between Mountains",
+    "candidates": [
+      "Novelty Analysis",
+      "Standard Answer",
+      "Pasken Like Whom",
+      "Head Between Mountains",
+      "Two Great Families"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full exchange \u2014 the initial question about tzarat ha-bat, Rabbi Yehoshua's identification of the dispute, the follow-up about which ruling to follow, and his refusal \u2014 and candidate 1 ('Standard Answer') is the section whose prose explicitly introduces and frames this entire inquiry, making it the best single home for the complete passage.",
+      "chosen_heading": "Standard Answer",
+      "current_heading": "Head Between Mountains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Two Great Families",
+    "candidates": [
+      "Head Between Mountains",
+      "Two Great Families",
+      "Explains the Fear",
+      "Consequence Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua's testimony about the two great Jerusalem families (Beit Tzevo'im and Beit Kofai) who were descendants of rival wives yet produced High Priests, which matches exactly the prose in candidate 1 'Two Great Families.'",
+      "chosen_heading": "Two Great Families",
+      "current_heading": "Two Great Families",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Consequence Concern",
+    "candidates": [
+      "Explains the Fear",
+      "Consequence Concern",
+      "Pagum Not Mamzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Rabbi Yehoshua's fear is intelligible if Beit Shammai acted on their rulings versus not, which is precisely what heading 0 'Explains the Fear' discusses \u2014 the inference that Beit Shammai maintained their position based on Rabbi Yehoshua's stated fear.",
+      "chosen_heading": "Explains the Fear",
+      "current_heading": "Consequence Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Pagum Not Mamzer",
+    "candidates": [
+      "Consequence Concern",
+      "Pagum Not Mamzer",
+      "Kal Vachomer",
+      "Evasion Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'pagum not mamzer' resolution \u2014 item 1 presents the answer that the child would be pagum even if not a mamzer, and item 2 provides the kal vachomer from the almana case to establish the pagum status, which is precisely what the 'Pagum Not Mamzer' section's prose describes.",
+      "chosen_heading": "Pagum Not Mamzer",
+      "current_heading": "Pagum Not Mamzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Evasion Strategy",
+    "candidates": [
+      "Kal Vachomer",
+      "Evasion Strategy",
+      "Tashma Dosa Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together describe precisely the structure the 'Evasion Strategy' prose explains: the two-part question about tzarot and benei tzarot, the kal vachomer digression about machzir gerushato, and Rabbi Yehoshua's strategic refusal to rule on the wives while testifying about the children.",
+      "chosen_heading": "Evasion Strategy",
+      "current_heading": "Evasion Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Tashma Dosa Time",
+    "candidates": [
+      "Tashma Dosa Time",
+      "Sages' Distress"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's proof from Rabbi Dosa ben Harkinas that Beit Shammai acted on their opinions, which is exactly what the prose in candidate 0 discusses, including the shema mina conclusion.",
+      "chosen_heading": "Tashma Dosa Time",
+      "current_heading": "Tashma Dosa Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Sages' Distress",
+    "candidates": [
+      "Sages' Distress",
+      "Delegation Visits",
+      "Honors Distributed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 0's prose discusses: the matter being difficult for the sages, Rabbi Dosa's greatness, and his eyes dimming so he couldn't come to the study hall.",
+      "chosen_heading": "Sages' Distress",
+      "current_heading": "Sages' Distress",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Honors Distributed",
+    "candidates": [
+      "Delegation Visits",
+      "Honors Distributed",
+      "Dosa Realizes Generations",
+      "Indirect Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the delegation's formation and arrival at Rabbi Dosa's house \u2014 exactly what candidate 0 ('Delegation Visits') discusses \u2014 while the current placement under 'Honors Distributed' actually covers what happens after entry (the golden couch scene), which is the content of item 2 only partially and belongs to a later moment.",
+      "chosen_heading": "Delegation Visits",
+      "current_heading": "Honors Distributed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Indirect Approach",
+    "candidates": [
+      "Dosa Realizes Generations",
+      "Indirect Approach",
+      "Main Question Asked",
+      "Dosa's Answer",
+      "Sages Object",
+      "Brother Yonatan Revealed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dosa Realizes Generations",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rabbi Dosa's reaction to Rabbi Elazar ben Azaryah and Rabbi Akiva, including the golden bed and the warm greeting \u2014 content that belongs under 'Dosa Realizes Generations' which explicitly discusses these events including the golden couch and Akiva's reception.",
+      "second_heading": "Indirect Approach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the sages encircling Rabbi Dosa with halachot until reaching tzarat ha-bat, which matches 'Indirect Approach' prose about hitchilu mesavvevim oto be-halachot and the gentle lead-up to the sensitive question.",
+      "current_heading": "Indirect Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Brother Yonatan Revealed",
+    "candidates": [
+      "Main Question Asked",
+      "Dosa's Answer",
+      "Sages Object",
+      "Brother Yonatan Revealed",
+      "Three Hundred Proofs",
+      "Chagai's Tradition",
+      "Chagai's Three Points"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Dosa's clarifying question about the name, the sages' admission of 'stam shamanu,' and the revelation of the younger brother Yonatan as a disciple of Shammai \u2014 exactly what the 'Brother Yonatan Revealed' prose describes.",
+      "chosen_heading": "Brother Yonatan Revealed",
+      "current_heading": "Brother Yonatan Revealed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Chagai's Three Points",
+    "candidates": [
+      "Three Hundred Proofs",
+      "Chagai's Tradition",
+      "Chagai's Three Points",
+      "Leaving Separately"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Hundred Proofs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rabbi Dosa's warning about three hundred proofs AND the opening of Chagai's testimony (tzarat ha-bat asurah), which maps precisely to heading 0 ('Three Hundred Proofs') whose prose covers exactly the warning about three hundred proofs and then heading 1 ('Chagai's Tradition') which covers the invocation of Chagai and the first ruling \u2014 but item 1 as a unit best fits under heading 1 since it includes both the warning AND Chagai's first point, while heading 0's prose covers only the warning portion; however heading 1's prose explicitly covers both the warning and tzarat ha-bat asurah together, making it the better single home for item 1.",
+      "second_heading": "Chagai's Three Points",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the second and third points of Chagai's testimony (Ammon/Moab tithing and accepting converts from Karduyin/Tarmodim), which is precisely what heading 2 ('Chagai's Three Points') discusses in its prose.",
+      "current_heading": "Chagai's Three Points",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Leaving Separately",
+    "candidates": [
+      "Leaving Separately",
+      "Akiva Stumped",
+      "Yonatan's Insult"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both entering through one entrance and leaving through three entrances, plus the encounter with Rabbi Akiva where he withstood the objections \u2014 but the translation 'he withstood him' (ukmei) matches the 'Leaving Separately' prose which correctly explains this baraita, while the 'Akiva Stumped' prose contradicts the translation by claiming Akiva had no response, indicating the passage belongs under heading 0 where it currently sits.",
+      "chosen_heading": "Leaving Separately",
+      "current_heading": "Leaving Separately",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Yonatan's Insult",
+    "candidates": [
+      "Akiva Stumped",
+      "Yonatan's Insult",
+      "Akiva's Response",
+      "Ammon Moav Ma'aser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Yonatan's withering insult about Akiva's reputation not even reaching the level of cattle herders, and Akiva's humble response about shepherds \u2014 exactly the content described in the 'Yonatan's Insult' prose, which quotes the key phrases from this exchange.",
+      "chosen_heading": "Yonatan's Insult",
+      "current_heading": "Yonatan's Insult",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Ammon Moav Ma'aser",
+    "candidates": [
+      "Akiva's Response",
+      "Ammon Moav Ma'aser",
+      "Cities for Poor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the Ammon and Moab ma'aser ani ruling and the principle of kedusha rishona, which is exactly what the 'Ammon Moav Ma'aser' section's prose discusses.",
+      "chosen_heading": "Ammon Moav Ma'aser",
+      "current_heading": "Ammon Moav Ma'aser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Cities for Poor",
+    "candidates": [
+      "Cities for Poor",
+      "Accepting Converts",
+      "Kartuyim vs Karduyim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses leaving towns unsanctified so the poor could rely on them during the Sabbatical Year, which is precisely what the 'Cities for Poor' section's prose describes.",
+      "chosen_heading": "Cities for Poor",
+      "current_heading": "Cities for Poor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Kartuyim vs Karduyim",
+    "candidates": [
+      "Accepting Converts",
+      "Kartuyim vs Karduyim",
+      "Tarmodim Debate",
+      "Rekem Stains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal precisely with the Kartuyim/Karduyim distinction and Rav Ashi's resolution \u2014 the exact content described in the 'Kartuyim vs Karduyim' prose.",
+      "chosen_heading": "Kartuyim vs Karduyim",
+      "current_heading": "Kartuyim vs Karduyim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Rekem Stains",
+    "candidates": [
+      "Tarmodim Debate",
+      "Rekem Stains",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Tarmodim debate \u2014 the contradiction between Rabbi Yo\u1e25anan rejecting converts from Tarmod and then himself deriving from the Rekem mishna that they are accepted \u2014 which is precisely what candidate 0's prose describes, while candidate 1 ('Rekem Stains') only covers the mishna about stains in isolation and candidate 2 ('Rabbi Yochanan') describes the resolution, making candidate 0 the best home for the full passage including its setup.",
+      "chosen_heading": "Tarmodim Debate",
+      "current_heading": "Rekem Stains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rekem Stains",
+      "Rabbi Yochanan",
+      "Resolution Amoraim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly contains the Gemara's resolution 'amorai ninhu ve-aliba de-Rabbi Yochanan,' which is the precise content described in the 'Resolution Amoraim' section's prose.",
+      "chosen_heading": "Resolution Amoraim",
+      "current_heading": "Rabbi Yochanan",
+      "moved": true
+    }
+  }
+]

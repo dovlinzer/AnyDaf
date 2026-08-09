@@ -1,0 +1,514 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Relatives & Mourning",
+    "candidates": [
+      "Burial Overview",
+      "Bone Collection",
+      "Relatives & Mourning",
+      "Hanging Method",
+      "Sunset Timing",
+      "Body Removal",
+      "Tree vs. Post"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about not mourning (aveilus) but being permitted to grieve inwardly (aninut), with the concluding phrase 'she'ein aninut ela balev,' which is precisely what the 'Relatives & Mourning' prose describes and analyzes.",
+      "chosen_heading": "Relatives & Mourning",
+      "current_heading": "Relatives & Mourning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Tree vs. Post",
+    "candidates": [
+      "Hanging Method",
+      "Sunset Timing",
+      "Body Removal",
+      "Tree vs. Post",
+      "Twin Brothers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sunset Timing",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the method and timing of hanging \u2014 first put to death then hang, delayed until near sunset, one ties and one unties \u2014 which matches headings 0-2 (Body Removal being the best fit for the 'echad koveish v'echad matir' content, but the baraita opening in item 1 matches 'Hanging Method' and the sunset/timing content matches heading 1-2); however items 1-2 together cover the sequence through 'echad koveish v'echad matir' which belongs under 'Body Removal' (index 2).",
+      "second_heading": "Tree vs. Post",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (the second baraita about 'etz' \u2014 detached vs. attached tree, mi she'eino mechusar ela kevurah, and Rabbi Yosi's dispute) directly match the 'Tree vs. Post' prose which explicitly discusses this exact content.",
+      "current_heading": "Tree vs. Post",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Twin Brothers",
+    "candidates": [
+      "Twin Brothers",
+      "God's Anguish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Meir's twin brothers parable, which is precisely what candidate 0's prose describes and analyzes in detail.",
+      "chosen_heading": "Twin Brothers",
+      "current_heading": "Twin Brothers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "God's Anguish",
+    "candidates": [
+      "God's Anguish",
+      "Biblical Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Gemara's parsing of 'kilalat Elokim' \u2014 Abaye and Rava's interpretations and the double-teaching inference \u2014 which is precisely what the 'God's Anguish' prose section describes in detail.",
+      "chosen_heading": "God's Anguish",
+      "current_heading": "God's Anguish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Biblical Basis",
+    "candidates": [
+      "Biblical Basis",
+      "Shapur's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items derive the obligation/prohibition related to burial from 'kavor tikberenu' \u2014 item 1 addresses leaving a body overnight as a lo ta'aseh, and item 2 addresses the hint to burial in the Torah generally \u2014 exactly matching the Biblical Basis prose which describes Rabbi Yochanan/Rashbi's derivation and the pivot to where the obligation to bury comes from at all.",
+      "chosen_heading": "Biblical Basis",
+      "current_heading": "Biblical Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Shapur's Challenge",
+    "candidates": [
+      "Shapur's Challenge",
+      "Doubling of Bury",
+      "Rabbinic Obligation",
+      "Disgrace vs. Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous Gemara passage about Shapur's challenge to Rav \u1e24ama regarding the Torah source for burial, and heading 0's prose explicitly describes every element: the challenge, Rav Acha's rebuke, the deflections of ki kavor tikberenu, the doubled verb, the tzaddikim's practice, God burying Moses, and the conclusion that none of these demonstrations establishes a chiyuv.",
+      "chosen_heading": "Shapur's Challenge",
+      "current_heading": "Shapur's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Disgrace vs. Atonement",
+    "candidates": [
+      "Doubling of Bury",
+      "Rabbinic Obligation",
+      "Disgrace vs. Atonement",
+      "Refusal Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma 'kevurah mishum bizyona hu o mishum kapara' which is precisely what the 'Disgrace vs. Atonement' section's prose introduces and discusses.",
+      "chosen_heading": "Disgrace vs. Atonement",
+      "current_heading": "Disgrace vs. Atonement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Refusal Implications",
+    "candidates": [
+      "Refusal Implications",
+      "Righteous Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical difference (nafka mina) between the two rationales when someone says they do not want to be buried, which is exactly what the 'Refusal Implications' prose section addresses.",
+      "chosen_heading": "Refusal Implications",
+      "current_heading": "Refusal Implications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Righteous Burial",
+    "candidates": [
+      "Righteous Burial",
+      "Hesped Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the same continuous Talmudic discussion about whether burial is required for atonement (kapara), directly matching the 'Righteous Burial' prose which addresses exactly this question about tzaddikim and kapara.",
+      "chosen_heading": "Righteous Burial",
+      "current_heading": "Righteous Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Hesped Purpose",
+    "candidates": [
+      "Hesped Purpose",
+      "Abraham & Sarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma about whether hesped is for the honor of the living or the dead, with the exact practical cases (waiver by deceased and collection from heirs) that are discussed in the 'Hesped Purpose' prose section.",
+      "chosen_heading": "Hesped Purpose",
+      "current_heading": "Hesped Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Abraham & Sarah",
+    "candidates": [
+      "Abraham & Sarah",
+      "Yerovam's Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Abraham coming to eulogize Sarah and the gemara's argument about delaying burial for Abraham's honor, which is precisely what the 'Abraham & Sarah' section's prose discusses.",
+      "chosen_heading": "Abraham & Sarah",
+      "current_heading": "Abraham & Sarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Yerovam's Son",
+    "candidates": [
+      "Yerovam's Son",
+      "Chizkiyahu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the same continuous Talmudic discussion about whether hesped is for the honor of the living, using prooftexts from Abijah/Jeroboam's family, the curse on the wicked, and Zedekiah \u2014 exactly matching the prose under 'Yerovam's Son' which explicitly discusses the nicha/lo nicha reasoning for righteous and wicked relatives.",
+      "chosen_heading": "Yerovam's Son",
+      "current_heading": "Yerovam's Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Chizkiyahu",
+    "candidates": [
+      "Chizkiyahu",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Hezekiah dragging his father's bones on a rope bier for atonement, and Israel forgoing their honor \u2014 exactly what the 'Chizkiyahu' prose describes.",
+      "chosen_heading": "Chizkiyahu",
+      "current_heading": "Chizkiyahu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi's instruction not to eulogize him in small towns and the gemara's answer about concentrating Israel's honor in larger cities, which is precisely what the prose in candidate 0 describes.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Conclusion",
+      "Disgrace Definition",
+      "Legitimate Delays"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Conclusion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form the complete chain of argumentation about bizayon, legitimate delays, and the yikara de-shachvei conclusion, which the 'Conclusion' prose describes exactly.",
+      "second_heading": "Disgrace Definition",
+      "second_confidence": "medium",
+      "second_reason": "Item 5 begins a new mishna section (marked with \u00a7) about burial plots for the executed, which is a structurally distinct topic about not burying wicked next to righteous.",
+      "current_heading": "Conclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Legitimate Delays",
+    "candidates": [
+      "Disgrace Definition",
+      "Legitimate Delays",
+      "Abaye vs. Rava"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Disgrace Definition",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss the Elisha resurrection story specifically in the context of whether the man was resurrected to prevent disgrace of a wicked man buried near a righteous one, which aligns with the 'Disgrace Definition' section's focus on bizayon as a contextual category.",
+      "second_heading": "Abaye vs. Rava",
+      "second_confidence": "medium",
+      "second_reason": "Item 3 opens a new self-contained discussion about the two graveyards for executed criminals and the principle of not burying an extremely wicked man next to a less wicked one, which connects thematically to the 'Abaye vs. Rava' section's discussion of executed criminals and their status.",
+      "current_heading": "Legitimate Delays",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Abaye vs. Rava",
+      "Death Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Abaye vs. Rava",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 discuss the principle of dichuy (permanent rejection of offerings) through cases of apostasy and insanity, which is the foundational topic leading into the ir hanidachat discussion, and candidate 0's prose explicitly introduces the ir hanidachat/kodshei mizbeiach scenario (item 5) as the entry point to the Abaye-Rava dispute.",
+      "second_heading": "Death Types",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20137 contain the Abaye-Rava dispute about whether dying/being killed in a state of wickedness achieves kapara, which is precisely what candidate 1 ('Death Types') describes in its prose.",
+      "current_heading": "Abaye vs. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Death Types",
+    "candidates": [
+      "Death Types",
+      "Court Execution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the proof from Mizmor L'Asaph (Psalms 79) demonstrating that violent death achieves kapara, which is explicitly discussed in the 'Death Types' prose section as Rava's proof text distinguishing natural death from execution.",
+      "chosen_heading": "Death Types",
+      "current_heading": "Death Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Court Execution",
+    "candidates": [
+      "Court Execution",
+      "Decomposition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (Abaye's distinction between harugei malchus and harugei Beis Din, plus the proof from separate burial) are explicitly discussed in the 'Court Execution' prose, which quotes and explains exactly this content.",
+      "chosen_heading": "Court Execution",
+      "current_heading": "Court Execution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Decomposition",
+    "candidates": [
+      "Decomposition",
+      "Time Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the continuous objection-and-resolution sequence about whether burial alone produces kapara, with Rav Adda's challenge (item 1) and the gemara's answer requiring ikul basar/decomposition (item 2), which is precisely what the 'Decomposition' section's prose describes.",
+      "chosen_heading": "Decomposition",
+      "current_heading": "Decomposition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Time Gap",
+    "candidates": [
+      "Time Gap",
+      "Grave Soil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the Rav Ashi discussion about the time gap between aveilus and kapara, including the follow-up question about why decomposition is still required \u2014 all of which is explicitly covered in the 'Time Gap' prose.",
+      "chosen_heading": "Time Gap",
+      "current_heading": "Time Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Grave Soil",
+    "candidates": [
+      "Grave Soil",
+      "Ground Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the background case of people taking dirt from Rav's grave and Shmuel's initial permissive response, which matches heading 0's prose about the segula practice and the framing of the question about issurei hana'ah \u2014 the derivation and principle of karka olam belongs under heading 1, but this specific gemara passage covers both the case and the answer together, and its current placement under 'Grave Soil' which introduces the background case is the correct home since the passage as a whole initiates the discussion.",
+      "chosen_heading": "Grave Soil",
+      "current_heading": "Grave Soil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Ground Analogy",
+    "candidates": [
+      "Ground Analogy",
+      "Mausoleums"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the idol worship analogy (avodat kochavim bemachubar) and the verse about mountains, which is precisely what the 'Ground Analogy' prose discusses.",
+      "chosen_heading": "Ground Analogy",
+      "current_heading": "Ground Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Mausoleums",
+    "candidates": [
+      "Mausoleums",
+      "Grave Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are gemara challenges (from a grave dug for a father, and from a nefel placed in a fresh grave) resolved by the kever binyan distinction \u2014 exactly what the 'Mausoleums' prose describes as 'several challenges from the gemara\u2026 all resolved by the gemara as referring to constructed graves.'",
+      "chosen_heading": "Mausoleums",
+      "current_heading": "Mausoleums",
+      "moved": false
+    }
+  }
+]

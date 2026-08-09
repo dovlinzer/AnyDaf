@@ -1,0 +1,630 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Shlomo Genealogy",
+    "candidates": [
+      "Tanakh Fertility Age",
+      "Shlomo Genealogy",
+      "Absalom Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage cites the exact verses about Bathsheba/Eliam/Ahithophel and Solomon's birth (Jedidiah) that the 'Shlomo Genealogy' prose explicitly describes as the first proof's chain of citations.",
+      "chosen_heading": "Shlomo Genealogy",
+      "current_heading": "Shlomo Genealogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Absalom Timeline",
+    "candidates": [
+      "Absalom Timeline",
+      "Eight-Year Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items trace the biblical timeline of Absalom's movements (two years to sheep-shearing, three years in Geshur, two years in Jerusalem, then the forty-year verse and Ahithophel's death), which is precisely the content described in the 'Absalom Timeline' prose.",
+      "chosen_heading": "Absalom Timeline",
+      "current_heading": "Absalom Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Eight-Year Calculation",
+    "candidates": [
+      "Eight-Year Calculation",
+      "Age Nine Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about Doeg and Ahithophel's ages and the arithmetic calculation yielding eight years per generation, which is precisely what the 'Eight-Year Calculation' prose section describes.",
+      "chosen_heading": "Eight-Year Calculation",
+      "current_heading": "Eight-Year Calculation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Age Nine Alternative",
+    "candidates": [
+      "Age Nine Alternative",
+      "Abraham Genealogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's refutation involving the 'nine years old' alternative and Bathsheba's capacity to give birth at six, which is precisely what the 'Age Nine Alternative' prose section describes.",
+      "chosen_heading": "Age Nine Alternative",
+      "current_heading": "Age Nine Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Abraham Genealogy",
+    "candidates": [
+      "Abraham Genealogy",
+      "Birth Order Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's proof from Avraham's genealogy \u2014 the age relationships among Terah's sons, the identification of Yiskah as Sarah, and the calculation that Haran fathered Sarah at age eight \u2014 which exactly matches the 'Abraham Genealogy' prose.",
+      "chosen_heading": "Abraham Genealogy",
+      "current_heading": "Abraham Genealogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Birth Order Debate",
+    "candidates": [
+      "Birth Order Debate",
+      "Betzalel Mishkan",
+      "Caleb Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about whether Avraham was the oldest brother, arguing that Torah lists by wisdom not birth order, proved from Noach's sons (Shem/Yefet), which precisely matches the 'Birth Order Debate' prose describing this exact chain of argument including Rav Kahana and Rav Zvid.",
+      "chosen_heading": "Birth Order Debate",
+      "current_heading": "Birth Order Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Caleb Timeline",
+    "candidates": [
+      "Betzalel Mishkan",
+      "Caleb Timeline",
+      "Tosafot Age Shift",
+      "Shimon's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Betzalel proof \u2014 item 1 establishes Betzalel's age and the mishkan timeline, and item 2 completes the arithmetic calculation \u2014 matching exactly the prose of candidate 0 ('Betzalel Mishkan'), which describes both the verse identification and the full derivation, while candidate 1 ('Caleb Timeline') covers only the second half of the calculation that was already placed there incorrectly.",
+      "chosen_heading": "Betzalel Mishkan",
+      "current_heading": "Caleb Timeline",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Shimon's Logic",
+    "candidates": [
+      "Tosafot Age Shift",
+      "Shimon's Logic",
+      "Gezeirat HaKatuv",
+      "Measure Requirements"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimon's Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shimon's argument that a daughter should be treated like a stubborn and rebellious son, matching exactly the 'Shimon's Logic' prose about Rabbi Shimon's reasoning.",
+      "second_heading": "Gezeirat HaKatuv",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the categorical scriptural decree response ('gezeirat ha-katuv hi ben ve-lo bat'), which matches exactly the 'Gezeirat HaKatuv' prose describing this as a scriptural decree limiting the law to sons only.",
+      "current_heading": "Shimon's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Measure Requirements",
+    "candidates": [
+      "Gezeirat HaKatuv",
+      "Measure Requirements",
+      "Mitzvah Gatherings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text defines the quantity thresholds for liability (tartimar of meat, half-log of wine, Rabbi Yosi's doubled amounts), which is precisely what the 'Measure Requirements' section prose discusses.",
+      "chosen_heading": "Measure Requirements",
+      "current_heading": "Measure Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Mitzvah Gatherings",
+    "candidates": [
+      "Mitzvah Gatherings",
+      "Both Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly lists the mishna's cases of mitzvah contexts and forbidden foods (nevelos, tereifot, tevel, etc.) that exempt one from ben sorer u-moreh liability, which is precisely what the 'Mitzvah Gatherings' prose section discusses in detail.",
+      "chosen_heading": "Mitzvah Gatherings",
+      "current_heading": "Mitzvah Gatherings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Both Required",
+    "candidates": [
+      "Both Required",
+      "Tartemar Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the requirement for both meat and wine, the zolel ve-sovei verse, and the zeikher la-davar from Proverbs \u2014 exactly what the 'Both Required' prose describes.",
+      "chosen_heading": "Both Required",
+      "current_heading": "Both Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Tartemar Amount",
+    "candidates": [
+      "Tartemar Amount",
+      "Cheap Purchase Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Zeira's reasoning about the unknown measure of tarteimar being inferred as half a maneh from Rabbi Yosei's doubling pattern, which is precisely what the prose under 'Tartemar Amount' describes.",
+      "chosen_heading": "Tartemar Amount",
+      "current_heading": "Tartemar Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Cheap Purchase Rule",
+    "candidates": [
+      "Cheap Purchase Rule",
+      "Dilution Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the cheap purchase rule (bezol) and cites the zolel/bezol wordplay, matching exactly what the 'Cheap Purchase Rule' section's prose discusses.",
+      "chosen_heading": "Cheap Purchase Rule",
+      "current_heading": "Cheap Purchase Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Dilution Standards",
+    "candidates": [
+      "Dilution Standards",
+      "Seduction Theory",
+      "Salted/Fresh Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav \u1e24anan/Rav Huna statement about raw meat and undiluted wine, the apparent contradiction from Rabba and Rav Yosef, and Ravina's resolution about intermediate states \u2014 which is precisely what the 'Dilution Standards' prose discusses.",
+      "chosen_heading": "Dilution Standards",
+      "current_heading": "Dilution Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Salted/Fresh Wine",
+    "candidates": [
+      "Seduction Theory",
+      "Salted/Fresh Wine",
+      "Duration Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba and Rav Yosef's ruling on salted meat and wine from the press, along with the supporting baraita from erev Tisha be-Av, which is precisely what the 'Salted/Fresh Wine' section's prose describes.",
+      "chosen_heading": "Salted/Fresh Wine",
+      "current_heading": "Salted/Fresh Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Duration Limits",
+    "candidates": [
+      "Duration Limits",
+      "Wine Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the precise duration thresholds for salted meat and wine from the press, both for erev Tisha be-Av and ben sorer u-moreh, which is exactly what the 'Duration Limits' prose describes.",
+      "chosen_heading": "Duration Limits",
+      "current_heading": "Duration Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Wine Purpose",
+    "candidates": [
+      "Wine Purpose",
+      "Wicked Reward",
+      "Wine Color Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav \u1e24anan's teaching that wine was created to comfort mourners and reward the wicked, which is precisely what the 'Wine Purpose' section prose describes and introduces.",
+      "chosen_heading": "Wine Purpose",
+      "current_heading": "Wine Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Wine Color Warning",
+    "candidates": [
+      "Wicked Reward",
+      "Wine Color Warning",
+      "Wine Blood",
+      "Head/Poor Pun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yitzchak's interpretation (wine reddens faces of the wicked in this world, whitens them in the next) and Rava's reading (wine leads to bloodshed), and the current placement under 'Wine Color Warning' covers both interpretations together, with 'Wine Blood' covering only Rava's portion separately \u2014 keeping the full passage under heading 1 is correct as it encompasses the complete unit.",
+      "chosen_heading": "Wine Color Warning",
+      "current_heading": "Wine Color Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Head/Poor Pun",
+    "candidates": [
+      "Wine Blood",
+      "Head/Poor Pun",
+      "Joy/Desolation Pun"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Head/Poor Pun",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Kahana's ketiv/keri on tirosh (rosh/rash pun), which matches exactly the 'Head/Poor Pun' prose.",
+      "second_heading": "Joy/Desolation Pun",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's ketiv/keri on yesameach (joy/desolation pun), which matches exactly the 'Joy/Desolation Pun' prose.",
+      "current_heading": "Head/Poor Pun",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Joy/Desolation Pun",
+    "candidates": [
+      "Joy/Desolation Pun",
+      "Rava's Wisdom",
+      "Noah's Thirteen Woes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage interprets Proverbs 23:29\u201330 listing woes associated with wine, which directly connects to the 'Noah's Thirteen Woes' section discussing the chain of woes linked to wine consumption, whereas the current placement under 'Joy/Desolation Pun' discusses a completely different textual point about yismach/yishma.",
+      "chosen_heading": "Noah's Thirteen Woes",
+      "current_heading": "Joy/Desolation Pun",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Noah's Thirteen Woes",
+    "candidates": [
+      "Rava's Wisdom",
+      "Noah's Thirteen Woes",
+      "Noah's Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Galilean preacher's exposition of the thirteen conversive vavs in the wine narrative of Noah, which is precisely what the 'Noah's Thirteen Woes' section's prose describes.",
+      "chosen_heading": "Noah's Thirteen Woes",
+      "current_heading": "Noah's Thirteen Woes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Noah's Violation",
+    "candidates": [
+      "Noah's Violation",
+      "Adam Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between Rav and Shmuel about what Ham did to Noah (castration vs. sodomy) and the Gemara's resolution that both occurred \u2014 exactly what the prose under 'Noah's Violation' describes.",
+      "chosen_heading": "Noah's Violation",
+      "current_heading": "Noah's Violation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Adam Parallel",
+    "candidates": [
+      "Adam Parallel",
+      "Fruit Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav \u1e24isda/Rav Ukva/Mar Ukva statement about God rebuking Noah to learn from Adam, which is precisely what the 'Adam Parallel' prose describes, and only mentions the grapevine opinion in passing as a parenthetical note rather than as the focus of a discussion about the three-way machloket covered in 'Fruit Identity'.",
+      "chosen_heading": "Adam Parallel",
+      "current_heading": "Adam Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Fruit Identity",
+    "candidates": [
+      "Fruit Identity",
+      "Solomon's Youth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita presenting the three-way machloket (Rabbi Meir, Rabbi Yehuda, Rabbi Nechemya) about the identity of the forbidden fruit, which is precisely what the 'Fruit Identity' prose section describes and analyzes in detail.",
+      "chosen_heading": "Fruit Identity",
+      "current_heading": "Fruit Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Solomon's Youth",
+    "candidates": [
+      "Solomon's Youth",
+      "David's Piety",
+      "Conception Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Bathsheba binding Solomon to a pillar and the first complaint 'mah beri' about David's piety, both of which are discussed in the 'Solomon's Youth' prose, which explicitly describes the binding to the post and the drinking context \u2014 the current placement is correct.",
+      "chosen_heading": "Solomon's Youth",
+      "current_heading": "Solomon's Youth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Conception Sacrifice",
+    "candidates": [
+      "David's Piety",
+      "Conception Sacrifice",
+      "Mother's Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'mah bar bitni' complaint about Bathsheba forcing her way in while pregnant to produce a vigorous and fair-skinned son, which is precisely what the 'Conception Sacrifice' section's prose describes.",
+      "chosen_heading": "Conception Sacrifice",
+      "current_heading": "Conception Sacrifice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Mother's Vow",
+    "candidates": [
+      "Mother's Vow",
+      "Kings' Folly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Bat Sheva's vow distinguishing her hopes for a Torah-filled, prophecy-worthy son from other women's vows for a son fit for kingship, which is precisely what the 'Mother's Vow' section's prose describes.",
+      "chosen_heading": "Mother's Vow",
+      "current_heading": "Mother's Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Kings' Folly",
+    "candidates": [
+      "Kings' Folly",
+      "Solomon's Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Proverbs 31:4 and Bathsheba's warning to Solomon about kings who drink wine and forget God, as well as the 'rozenim/razei' wordplay \u2014 exactly what the 'Kings' Folly' prose describes.",
+      "chosen_heading": "Kings' Folly",
+      "current_heading": "Kings' Folly",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Solomon's Repentance",
+    "candidates": [
+      "Solomon's Repentance",
+      "Mitzvah Company"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Solomon's repentance and his admission to his mother, matching exactly the prose under heading 0 which discusses Rabbi Yitzchak's question about Solomon accepting his mother's rebuke and the interpretation of the verse from Proverbs 30:2.",
+      "chosen_heading": "Solomon's Repentance",
+      "current_heading": "Solomon's Repentance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Mitzvah Company",
+    "candidates": [
+      "Mitzvah Company",
+      "Mitzvah Reason",
+      "Ibur Chodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete unit of Rabbi Abbahu's ruling about a group of serikin plus the Gemara's challenge and resolution \u2014 exactly what candidate 0's prose describes as Rav Abbahu specifying the condition for the non-mitzvah case, with the implication about respectable company; candidate 1's prose describes the subsequent Gemara challenge and resolution which are a continuation, but the current placement under 'Mitzvah Company' correctly houses both the ruling and its immediate dialectical follow-up as one continuous unit.",
+      "chosen_heading": "Mitzvah Company",
+      "current_heading": "Mitzvah Company",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Ibur Chodesh",
+    "candidates": [
+      "Mitzvah Reason",
+      "Ibur Chodesh",
+      "Night/Day Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ibbur ha-chodesh gathering, the contradiction with the baraita about bread and legumes, and the resolution that the mitzvah context prevents the boy from being drawn to sin \u2014 exactly what the 'Ibur Chodesh' prose describes.",
+      "chosen_heading": "Ibur Chodesh",
+      "current_heading": "Ibur Chodesh",
+      "moved": false
+    }
+  }
+]

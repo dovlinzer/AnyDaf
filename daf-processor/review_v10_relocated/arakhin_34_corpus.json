@@ -1,0 +1,187 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Geulat Olam Fields",
+    "candidates": [
+      "Mishna Intro",
+      "Geulat Olam Fields",
+      "Geulat Olam Houses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the baraita discussing 'geulat olam tihyeh laleviim' \u2014 item 1 addresses the first chiddush (waiting period for fields) and item 2 addresses the second chiddush (sanctified field going to kohanim at yovel), both of which are explicitly described in the 'Geulat Olam Fields' prose section.",
+      "chosen_heading": "Geulat Olam Fields",
+      "current_heading": "Geulat Olam Fields",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Geulat Olam Houses",
+    "candidates": [
+      "Geulat Olam Houses",
+      "Walled City Problem",
+      "Cities of Refuge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the third chiddush about a Levi's house in a walled city \u2014 quoting the 'litzmitut' verse and the 'geulat olam' counter-verse \u2014 which is precisely what the 'Geulat Olam Houses' section prose describes.",
+      "chosen_heading": "Geulat Olam Houses",
+      "current_heading": "Geulat Olam Houses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Cities of Refuge",
+    "candidates": [
+      "Walled City Problem",
+      "Cities of Refuge",
+      "Wall Precedence",
+      "Non-Jewish Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara question 'bishlama hani tarti lachai' about whether Levites can have walled-city houses, which candidate 0's prose explicitly describes as the sharp question the Gemara pauses to ask after the third chiddush.",
+      "chosen_heading": "Walled City Problem",
+      "current_heading": "Cities of Refuge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Non-Jewish Walls",
+    "candidates": [
+      "Wall Precedence",
+      "Non-Jewish Walls",
+      "Pre-Conquest Standard",
+      "Refuge Then Walled"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wall Precedence",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 match heading 0 ('Wall Precedence') precisely: Rav Kahana's lo kashya resolution distinguishing hukaf-then-yashav from yashav-then-hukaf, followed immediately by the Gemara's challenge citing the baraita about 'ir chomah' requiring the wall to precede settlement.",
+      "second_heading": "Non-Jewish Walls",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 match heading 1 ('Non-Jewish Walls') precisely: the baraita's gezeirah shavah establishing that only non-Jewish walls qualify, and then the further refinement that non-Jewish walls must predate the conquest \u2014 exactly what the prose of heading 1 describes.",
+      "current_heading": "Non-Jewish Walls",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Refuge Then Walled",
+    "candidates": [
+      "Pre-Conquest Standard",
+      "Refuge Then Walled",
+      "Wall Knockdown",
+      "Non-Levitical Field",
+      "Kohen's Claim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Refuge Then Walled",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Yosef's interpretation about walled cities falling by lot to the Levites, which is precisely what the 'Refuge Then Walled' prose describes.",
+      "second_heading": "Wall Knockdown",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Ashi's clarification about why the ruling is necessary even during the interim period before demolition, which is exactly what the 'Wall Knockdown' prose discusses.",
+      "current_heading": "Refuge Then Walled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Kohen's Claim",
+    "candidates": [
+      "Wall Knockdown",
+      "Non-Levitical Field",
+      "Kohen's Claim",
+      "Cherem Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita asking what happens when a kohen sanctifies his sedeh charmo and presenting the kohen's potential claim \u2014 exactly what candidate 1 ('Non-Levitical Field') describes as the content of this new baraita, introducing the question and the kohen's argument before the Torah's response, which is addressed in candidate 2.",
+      "chosen_heading": "Non-Levitical Field",
+      "current_heading": "Kohen's Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Cherem Comparison",
+    "candidates": [
+      "Kohen's Claim",
+      "Cherem Comparison",
+      "Group vs Individual",
+      "Korbanot Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita's hekesh between sedeh charmo and sedeh achuza shel Yisrael, which is precisely what the 'Cherem Comparison' section's prose describes \u2014 the bidirectional analogy and the equal distribution among kohanim.",
+      "chosen_heading": "Cherem Comparison",
+      "current_heading": "Cherem Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Korbanot Analogy",
+    "candidates": [
+      "Group vs Individual",
+      "Korbanot Analogy",
+      "Acharit Olam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Group vs Individual",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form one continuous chain of Gemara analysis (group vs individual objection, Rami bar Hama's korbanot analogy, its refutation, and Rav Nachman's acharit olam argument) spanning all three candidate sections, but item 1 belongs under 'Group vs Individual' as its starting point, with the whole passage actually spanning candidates 0-2; however since all items 1-4 form one continuous topic that begins with the group/individual objection (candidate 0) and the current placement (candidate 1) misses item 1, the best single heading covering the full chain is candidate 0 where the passage begins.",
+      "second_heading": "Acharit Olam",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the hadran closing formula which the prose of candidate 2 ('Acharit Olam') explicitly incorporates at its end, confirming it belongs there.",
+      "current_heading": "Korbanot Analogy",
+      "moved": true
+    }
+  }
+]

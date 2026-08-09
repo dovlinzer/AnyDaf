@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Baldness Debate",
+    "candidates": [
+      "Opening & Scope",
+      "Kohanim Blemishes",
+      "Fixed vs. Transitory",
+      "Head Shape Blemishes",
+      "More Physical Deformities",
+      "Baldness Debate",
+      "Visibility in Service",
+      "Why Derive Lists",
+      "Textual Gaps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly describes the Mishnah's ruling on kireach (baldness) and the dispute over ba'alei chatoteret (hunchbacks), which is precisely what the 'Baldness Debate' section's prose discusses.",
+      "chosen_heading": "Baldness Debate",
+      "current_heading": "Baldness Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Textual Gaps",
+    "candidates": [
+      "Visibility in Service",
+      "Why Derive Lists",
+      "Textual Gaps",
+      "Garav & Yalefet Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage asks why the mishna equates animal and human blemish lists when the Torah lists are not identical \u2014 this is precisely the structural question about why we derive one list from the other, matching 'Why Derive Lists' prose, not 'Textual Gaps' which describes the specific asymmetries identified after this opening question.",
+      "chosen_heading": "Why Derive Lists",
+      "current_heading": "Textual Gaps",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Garav & Yalefet Link",
+    "candidates": [
+      "Textual Gaps",
+      "Garav & Yalefet Link",
+      "Mufne Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita establishing the gezeira shava via garav\u2013garav and yalefet\u2013yalefet to cross-apply blemish lists between humans and animals, which is precisely what the 'Garav & Yalefet Link' prose describes.",
+      "chosen_heading": "Garav & Yalefet Link",
+      "current_heading": "Garav & Yalefet Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Mufne Requirement",
+    "candidates": [
+      "Mufne Requirement",
+      "Asymmetric Learning",
+      "Animals on Altar",
+      "Nitraba Bemitzvot",
+      "Kodushat Kohanim",
+      "Why Repeat Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the mufne requirement: item 1 explains why the gezeira shava would be refutable without free words (the asymmetric learning arguments), and item 2 proves that garav is indeed superfluous via the kal v'chomer from yalefet \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Mufne Requirement",
+      "current_heading": "Mufne Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Why Repeat Words",
+    "candidates": [
+      "Asymmetric Learning",
+      "Animals on Altar",
+      "Nitraba Bemitzvot",
+      "Kodushat Kohanim",
+      "Why Repeat Words",
+      "Rava's Question",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items constitute the Gemara's sustained discussion of why the Torah needed to repeat the full blemish lists in both contexts, culminating in the school of Rabbi Yishmael's principle \u2014 exactly the content described in the 'Why Repeat Words' prose section.",
+      "chosen_heading": "Why Repeat Words",
+      "current_heading": "Why Repeat Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Rava's Question",
+      "Three Categories",
+      "Rav Yochanan Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form Rava's question and answer about why the Torah needed to write 'mum' in three separate contexts, which is precisely what heading 0 ('Rava's Question') describes, while the current placement under 'Three Categories' is the answer section that heading 0's prose already anticipates as part of the same unit.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Three Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Yochanan Drasha",
+    "candidates": [
+      "Three Categories",
+      "Rav Yochanan Drasha",
+      "Mum vs. She'eino",
+      "Aseh Not Lo Ta'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's drasha deriving the 'yeser aleihem' category from the verse about 'ish sheshaveh bezera shel Aharon,' which is precisely what the 'Rav Yochanan Drasha' section's prose describes.",
+      "chosen_heading": "Rav Yochanan Drasha",
+      "current_heading": "Rav Yochanan Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Aseh Not Lo Ta'aseh",
+    "candidates": [
+      "Mum vs. She'eino",
+      "Aseh Not Lo Ta'aseh",
+      "Marit Ha'ayin Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks the exact question 'what is the practical halakhic difference between a mum and she'eino shaveh bezera shel Aharon,' which is precisely what heading 0's prose ('The Gemara asks the obvious question: what is the practical halakhic difference...') introduces, whereas heading 1's prose already discusses the answer to that question.",
+      "chosen_heading": "Mum vs. She'eino",
+      "current_heading": "Aseh Not Lo Ta'aseh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Marit Ha'ayin Defined",
+    "candidates": [
+      "Aseh Not Lo Ta'aseh",
+      "Marit Ha'ayin Defined",
+      "Three Categories (II)",
+      "Kilyon (Pointy)",
+      "Lifta (Turnip)",
+      "Makban (Hammer)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly what difference exists between 'she'eino shaveh bezera shel Aharon' and 'marit ha'ayin' and answers 'ika beineihu aseh,' which is precisely the content discussed in the 'Marit Ha'ayin Defined' section's prose.",
+      "chosen_heading": "Marit Ha'ayin Defined",
+      "current_heading": "Marit Ha'ayin Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Makban (Hammer)",
+    "candidates": [
+      "Three Categories (II)",
+      "Kilyon (Pointy)",
+      "Lifta (Turnip)",
+      "Makban (Hammer)",
+      "Neck Deformities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both kilyon and lifta blemishes together, and the prose under 'Kilyon (Pointy)' begins this discussion \u2014 the lifta description and the baraita about the neck standing in the middle of the head both belong to this same gemara passage starting with kilyon, not under 'Makban' where it currently sits.",
+      "chosen_heading": "Kilyon (Pointy)",
+      "current_heading": "Makban (Hammer)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Neck Deformities",
+    "candidates": [
+      "Makban (Hammer)",
+      "Neck Deformities",
+      "Skifat (Flat Back)",
+      "Hunchback Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers makban (hammer-head), shakut (frontal depression), sekifat (flat back), AND neck deformities all in one continuous Talmudic excerpt, and the 'Makban (Hammer)' heading is the starting topic of this multi-part passage, but more importantly the passage's content spans from makban through neck deformities sequentially \u2014 however, since the passage begins with makban and the Makban heading's prose specifically describes the hammerhead shape, while the current placement under 'Neck Deformities' only captures the tail end, the passage should be placed under heading 0 (Makban) as the first/primary topic introduced, with the understanding that all subsequent content flows from there.",
+      "chosen_heading": "Makban (Hammer)",
+      "current_heading": "Neck Deformities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Hunchback Debate",
+    "candidates": [
+      "Skifat (Flat Back)",
+      "Hunchback Debate",
+      "RY vs. Chachamim",
+      "Bone Question",
+      "Baldness Specifics",
+      "Baldness Girsaot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ba'alei chatoteret dispute and the bone/no-bone distinction, which matches exactly the prose under 'Hunchback Debate' where it currently sits.",
+      "chosen_heading": "Hunchback Debate",
+      "current_heading": "Hunchback Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Baldness Girsaot",
+    "candidates": [
+      "RY vs. Chachamim",
+      "Bone Question",
+      "Baldness Specifics",
+      "Baldness Girsaot",
+      "Natural Baldness OK",
+      "RY's List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the two versions (girsaot) of Rava's qualification of the kere'a\u1e25 ruling \u2014 exactly what the 'Baldness Girsaot' prose describes as multiple girsaot of Rava's statement with consequential differences in which baldness pattern is disqualifying.",
+      "chosen_heading": "Baldness Girsaot",
+      "current_heading": "Baldness Girsaot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "RY's List",
+    "candidates": [
+      "Natural Baldness OK",
+      "RY's List",
+      "Watery Eyes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's list of disqualified priests and the Gemara's initial challenge questioning why he needed to mention baldness and dwarves, which matches exactly the prose of 'RY's List' where Rabbi Yochanan's ruling is introduced and framed.",
+      "chosen_heading": "RY's List",
+      "current_heading": "RY's List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Watery Eyes",
+    "candidates": [
+      "Watery Eyes",
+      "Gemara Challenge",
+      "Eyelashes Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the necessity of teaching *savleganim* (leaky eyes) AND the concern that *karchanim* and *nanasim* might be disqualified only due to *marit ha'ayin*, which matches exactly the prose of candidate 1 ('Gemara Challenge'), not candidate 0 which only discusses *savleganim*.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Watery Eyes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Eyelashes Example",
+    "candidates": [
+      "Gemara Challenge",
+      "Eyelashes Example",
+      "Marit Ha'ayin Scope",
+      "Baraita RY"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge using the fallen-eyelashes example as proof that marit ha'ayin is labeled explicitly in the Mishnah, followed by the response about teaching one case to cover all \u2014 exactly what the 'Eyelashes Example' prose describes.",
+      "chosen_heading": "Eyelashes Example",
+      "current_heading": "Eyelashes Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Baraita RY",
+    "candidates": [
+      "Marit Ha'ayin Scope",
+      "Baraita RY",
+      "Pesak vs. Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce and identify the baraita that rules karchanim/nanasim/savleganim as kesherim with only marit ha'ayin concern, and attribute it to Rabbi Yehuda \u2014 exactly what the 'Baraita RY' prose describes.",
+      "chosen_heading": "Baraita RY",
+      "current_heading": "Baraita RY",
+      "moved": false
+    }
+  }
+]

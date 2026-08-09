@@ -35,7 +35,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Gemara Debate on Dovecote Generations: First and Second Brood Explained",
@@ -97,7 +97,7 @@
           "timestamp": "12:13"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -160,7 +160,7 @@
           "timestamp": "19:11"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -194,7 +194,7 @@
           "timestamp": "24:44"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -213,8 +213,8 @@
           "timestamp": "29:45"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Olive Trees and Sycamores: Cutting Heights and Regrowth Standards",
@@ -476,5 +476,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "16:50",
+  "amud_b_micro_title": "Ground Attachment",
+  "shiur_start_daf": 80,
+  "shiur_start_amud": "a"
 }

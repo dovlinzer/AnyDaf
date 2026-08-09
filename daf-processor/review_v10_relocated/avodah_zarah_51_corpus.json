@@ -1,0 +1,413 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro & Markulis",
+    "candidates": [
+      "Intro & Markulis",
+      "Rav Yehuda's Chiddush",
+      "Abaye's Challenge",
+      "Rava's Criteria",
+      "Dung & Urine Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Yehuda/Rav teaching about breaking vs. throwing a stick before an idol, which is precisely what the 'Rav Yehuda's Chiddush' section describes, not the introductory Markulis section where it currently sits.",
+      "chosen_heading": "Rav Yehuda's Chiddush",
+      "current_heading": "Intro & Markulis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Dung & Urine Case",
+    "candidates": [
+      "Rav Yehuda's Chiddush",
+      "Abaye's Challenge",
+      "Rava's Criteria",
+      "Dung & Urine Case",
+      "Grasshopper Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are precisely the dung-and-urine challenge to Rava's criterion (eisivei with tzoa and avit shel mei raglayim) and its resolution (tzoa lacha), which is exactly what the 'Dung & Urine Case' prose describes.",
+      "chosen_heading": "Dung & Urine Case",
+      "current_heading": "Dung & Urine Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Grasshopper Dispute",
+    "candidates": [
+      "Grasshopper Dispute",
+      "Tosafot's Proviso",
+      "Rav Nachman's Rule",
+      "Rashi's Brackets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Talmudic exchange about the grasshopper dispute \u2014 the suggestion that Tannaim disagree about ke'ein zvicha vs. ke'ein panim, and the Gemara's rejection explaining that everyone agrees ke'ein panim is required and locusts are different because of their neck anatomy \u2014 which matches exactly the prose under 'Grasshopper Dispute'.",
+      "chosen_heading": "Grasshopper Dispute",
+      "current_heading": "Grasshopper Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Rashi's Brackets",
+    "candidates": [
+      "Tosafot's Proviso",
+      "Rav Nachman's Rule",
+      "Rashi's Brackets",
+      "Markulis Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Nachman's ruling about breaking vs. throwing a stick and Rava's challenge/resolution regarding mishtaber, which is precisely what candidate 1 ('Rav Nachman's Rule') describes in its prose \u2014 including the chayav/tikroves distinction and the mishtaber requirement.",
+      "chosen_heading": "Rav Nachman's Rule",
+      "current_heading": "Rashi's Brackets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Markulis Resolution",
+    "candidates": [
+      "Rashi's Brackets",
+      "Markulis Resolution",
+      "Chain Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Markulis Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Markulis stones question and Rav's answer that throwing is comparable to enlarging the idol \u2014 exactly what the 'Markulis Resolution' prose describes as the restatement of the na'aseh kemigdal answer.",
+      "second_heading": "Chain Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the complication about the view requiring actual worship (ad she'te'aveid) and the chain resolution (kol achas ve'achas), which is precisely what the 'Chain Analysis' prose describes as its central content.",
+      "current_heading": "Markulis Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Chain Analysis",
+    "candidates": [
+      "Chain Analysis",
+      "Rav Ashi's View",
+      "Mishnah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's statement that each stone becomes tikroves to itself and to the other, which is precisely what Candidate 1 ('Rav Ashi's View') discusses in its prose.",
+      "chosen_heading": "Rav Ashi's View",
+      "current_heading": "Chain Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Mishnah Rules",
+    "candidates": [
+      "Rav Ashi's View",
+      "Mishnah Rules",
+      "Grapes & Wheat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself that candidate 1 ('Mishnah Rules') explicitly introduces and discusses, describing the garment/money/vessels vs. grapes/grain distinction that its prose analyzes in detail.",
+      "chosen_heading": "Mishnah Rules",
+      "current_heading": "Mishnah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Grapes & Wheat",
+    "candidates": [
+      "Grapes & Wheat",
+      "Rava's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the problem that grapes and grain stalks lack both 'ke'ein panim' and 'ke'ein zrika mishtaberes', which is precisely what the 'Grapes & Wheat' prose section discusses as the genuine problem these items present for Rava's criterion.",
+      "chosen_heading": "Grapes & Wheat",
+      "current_heading": "Grapes & Wheat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rava's Intent",
+    "candidates": [
+      "Rava's Intent",
+      "Blemished Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rava citing Ulla about grapes picked initially for idolatrous purpose, which directly matches the 'Rava's Intent' section prose discussing exactly this teaching about cutting grapes from the vine with intention for idol worship.",
+      "chosen_heading": "Rava's Intent",
+      "current_heading": "Rava's Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Blemished Animals",
+    "candidates": [
+      "Blemished Animals",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items discuss the ruling about slaughtering a blemished animal for idolatrous worship and the derived discussion about animals lacking limbs for Bnei Noach \u2014 exactly the content described in the 'Blemished Animals' prose section.",
+      "chosen_heading": "Blemished Animals",
+      "current_heading": "Blemished Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Pasuk Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Elazar's derivation about slaughtering for Markulis using the se'irim verse and the Deuteronomy verse, which exactly matches the prose description under heading 0 ('Rabbi Eliezer').",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Pasuk Context",
+    "candidates": [
+      "Pasuk Context",
+      "Velo Od"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form the continuous baraita about shchutei chutz (Leviticus 17) that candidate 0's prose explicitly describes \u2014 the two categories of animals (consecrated during issur/heter bamot), the derivation of the lav from 'pen ta'aleh olotecha,' the punishment of karet, and the limitation 'zot lahem ve-lo acheret lahem' \u2014 exactly matching the current placement under 'Pasuk Context.'",
+      "chosen_heading": "Pasuk Context",
+      "current_heading": "Pasuk Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Velo Od",
+    "candidates": [
+      "Velo Od",
+      "Noy Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about reading 'velo yizbechu' and 'velo od' as two separate prohibitions, which is precisely what the 'Velo Od' section's prose describes and analyzes.",
+      "chosen_heading": "Velo Od",
+      "current_heading": "Velo Od",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Noy Definition",
+    "candidates": [
+      "Noy Definition",
+      "Non-Beautiful Items"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Beautiful Items",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the Mishna that opens the case of money/garments/vessels found at the head of an idol, which the 'Non-Beautiful Items' prose explicitly discusses as the starting point for explaining why those items are permitted under the noy framework.",
+      "second_heading": "Noy Definition",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara's derivation from the two biblical verses (imahem vs. aleihem) establishing the noy-based criterion, which is precisely what the 'Noy Definition' prose describes in detail.",
+      "current_heading": "Noy Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Non-Beautiful Items",
+    "candidates": [
+      "Non-Beautiful Items",
+      "Inner Sanctum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's explanations for why money, garments, and vessels found at the idol's head are permitted despite appearing to be decorative items \u2014 exactly the content described in the 'Non-Beautiful Items' prose section.",
+      "chosen_heading": "Non-Beautiful Items",
+      "current_heading": "Non-Beautiful Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Inner Sanctum",
+    "candidates": [
+      "Inner Sanctum",
+      "No Curtains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rav Asi bar \u1e24iyya's ruling about the kikalin and Rabbi Yosei bar \u1e24anina's qualification about Pe'or and Markulis, but since item 1 is a single indivisible text containing both statements, and the essay splits them across two headings, the current placement under 'Inner Sanctum' (index 0) is reasonable given that the kikalin framework is the primary content, though index 1 also has strong claim to the second half.",
+      "chosen_heading": "Inner Sanctum",
+      "current_heading": "Inner Sanctum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "No Curtains",
+    "candidates": [
+      "No Curtains",
+      "Ancillary Structures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's reasoning about Pe'or and Mercury lacking curtains and the rejection of the lenient reading in favor of the stringent one (afilu chutz ke-fnim dami ve-assur), which is exactly what the 'No Curtains' prose describes.",
+      "chosen_heading": "No Curtains",
+      "current_heading": "No Curtains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Ancillary Structures",
+    "candidates": [
+      "Ancillary Structures",
+      "Gratitude Issue",
+      "Joint Ownership",
+      "Mishnah Rules",
+      "Abaye's Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage introduces the garden/bathhouse case and the immediate/worshipped distinction, which the 'Ancillary Structures' heading directly introduces as its topic, making the current placement correct.",
+      "chosen_heading": "Ancillary Structures",
+      "current_heading": "Ancillary Structures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Abaye's Readings",
+    "candidates": [
+      "Gratitude Issue",
+      "Joint Ownership",
+      "Mishnah Rules",
+      "Abaye's Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items contain Abaye's two readings of the mishna's tovah/shelo be-tovah language applied to the reisha and seifa cases, which is precisely what the 'Abaye's Readings' prose describes in detail.",
+      "chosen_heading": "Abaye's Readings",
+      "current_heading": "Abaye's Readings",
+      "moved": false
+    }
+  }
+]

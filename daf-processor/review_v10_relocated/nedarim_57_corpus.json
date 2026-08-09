@@ -1,0 +1,172 @@
+[
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Mishna Reread",
+    "candidates": [
+      "Opening & Scope Shift",
+      "Konam Formula",
+      "Hekdesh Parallel",
+      "Issurei Hana'ah",
+      "Ochel/To'em Language",
+      "State vs. Action",
+      "Zaro Kalah Case",
+      "Ein Zaro Kalah Case",
+      "Gidulei Gidulim",
+      "Duration Restriction",
+      "Object Restriction",
+      "Mishna Reread",
+      "Konam Wife Labor",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna about a husband saying konam/she'ani ochel/she'ani to'em regarding his wife's handicraft, with the zaro kalah/ein zaro kalah distinction, which is precisely what heading 11 ('Mishna Reread') describes as returning to the preliminary clause about ha'omer le'ishto.",
+      "chosen_heading": "Mishna Reread",
+      "current_heading": "Mishna Reread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Konam Wife Labor",
+      "Scenario Setup",
+      "Triggered Before",
+      "Retroactive Transgress",
+      "Lechatchila Question",
+      "Rambam vs. Ran",
+      "Condition Expires First",
+      "Visit Timing Effect",
+      "Onion Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The two items together constitute the mishna text introducing the conditional vow scenario with its multiple cases, which best belongs under 'Scenario Setup' where the essay author introduces this complex structure with two distinct time-frames \u2014 the subsequent candidate headings represent the gemara's analytical breakdown of individual clauses from this same mishna.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Onion Question",
+    "candidates": [
+      "Triggered Before",
+      "Retroactive Transgress",
+      "Lechatchila Question",
+      "Rambam vs. Ran",
+      "Condition Expires First",
+      "Visit Timing Effect",
+      "Onion Question",
+      "Ran's Interpretation",
+      "Bittul Question",
+      "Terumah Onion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly introduces Yishmael of Kfar Yama's onion dilemma about shvi'it roots and eighth-year growths, which is precisely what the 'Onion Question' section's prose describes as its content.",
+      "chosen_heading": "Onion Question",
+      "current_heading": "Onion Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Terumah Onion",
+    "candidates": [
+      "Ran's Interpretation",
+      "Bittul Question",
+      "Terumah Onion",
+      "Orlah Grafting",
+      "Orlah Specifics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose of 'Terumah Onion' discusses: Rabbi Yitzchak Naphcha citing Rabbi Chanina Treita/Rabbi Yannai's ruling about a terumah onion whose growth exceeded its core being permitted, followed by Rabbi Yirmiyah/Rabbi Zerika's challenge about setting aside two opinions for one \u2014 which is precisely what this Talmudic excerpt contains.",
+      "chosen_heading": "Terumah Onion",
+      "current_heading": "Terumah Onion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Orlah Specifics",
+    "candidates": [
+      "Orlah Grafting",
+      "Orlah Specifics",
+      "Kilayim Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about who the 'two' sages are and then identifies Rabbi Abahu/Rabbi Yochanan as the first of them \u2014 this is precisely the setup described in candidate 0's prose about Rabbi Yirmiyah's challenge and the first ruling going against bittul, not candidate 1 which discusses the detailed halacha of the grafting case itself.",
+      "chosen_heading": "Orlah Grafting",
+      "current_heading": "Orlah Specifics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Kilayim Case",
+    "candidates": [
+      "Orlah Specifics",
+      "Kilayim Case",
+      "Ma'asrot Scenario",
+      "Ma'asrot Halacha",
+      "Stringency Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about an onion planted in a vineyard (kilayim) that was subsequently uprooted, which is exactly what the 'Kilayim Case' prose describes and analyzes.",
+      "chosen_heading": "Kilayim Case",
+      "current_heading": "Kilayim Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Stringency Objection",
+    "candidates": [
+      "Ma'asrot Scenario",
+      "Ma'asrot Halacha",
+      "Stringency Objection",
+      "Unresolved Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the actual Talmudic text of Rabbi Ami citing Rabbi Yitzchak/Rabbi Yochanan's ruling about the litra of onions, which is precisely what heading 0 ('Ma'asrot Scenario') describes as its content \u2014 the citation itself belongs under the heading that introduces and explains it, not under the objection that follows.",
+      "chosen_heading": "Ma'asrot Scenario",
+      "current_heading": "Stringency Objection",
+      "moved": true
+    }
+  }
+]

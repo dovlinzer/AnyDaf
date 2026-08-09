@@ -1,0 +1,513 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Promise vs Exchange",
+    "candidates": [
+      "Shevuat HaEdut Intro",
+      "Promise vs Exchange",
+      "Oath Precedence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text for the first case (promise vs. exchange), which is precisely what candidate 1's prose discusses \u2014 the ruling that a promise to give creates no liability because no binding monetary obligation exists.",
+      "chosen_heading": "Promise vs Exchange",
+      "current_heading": "Promise vs Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Oath Precedence",
+    "candidates": [
+      "Oath Precedence",
+      "Synagogue & Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case where an oath precedes testimony, and the prose under 'Oath Precedence' directly discusses this scenario including the ruling and its rationale about proper sequence.",
+      "chosen_heading": "Oath Precedence",
+      "current_heading": "Oath Precedence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Synagogue & Specificity",
+    "candidates": [
+      "Synagogue & Specificity",
+      "Disqualified Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the synagogue announcement case and the exemption until witnesses are specifically directed, which exactly matches the 'Synagogue & Specificity' section's prose discussion of this scenario.",
+      "chosen_heading": "Synagogue & Specificity",
+      "current_heading": "Synagogue & Specificity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Disqualified Witnesses",
+    "candidates": [
+      "Disqualified Witnesses",
+      "Messenger & Defendant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the case of hearsay testimony and disqualified/relative witnesses rendering the oath of testimony exempt, which is precisely what the 'Disqualified Witnesses' prose section discusses.",
+      "chosen_heading": "Disqualified Witnesses",
+      "current_heading": "Disqualified Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Messenger & Defendant",
+    "candidates": [
+      "Messenger & Defendant",
+      "Promise Obligation",
+      "Shevua Comparison",
+      "Witness Hearing",
+      "Samuel's Rule",
+      "General vs Specific",
+      "Baraita Distinction",
+      "Hearsay & Pasul Witnesses",
+      "Capable Witnesses",
+      "Servant & Defendant",
+      "Double Lo Interpretation",
+      "Plaintiff Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage describes the fifth mishna case about sending the oath via a servant or the defendant administering the oath, which matches the 'Servant & Defendant' prose that explicitly discusses tanu rabbanan, b'yad avdo, and ha'nitba administering the oath.",
+      "chosen_heading": "Servant & Defendant",
+      "current_heading": "Messenger & Defendant",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Plaintiff Authority",
+    "candidates": [
+      "Promise Obligation",
+      "Shevua Comparison",
+      "Witness Hearing",
+      "Samuel's Rule",
+      "General vs Specific",
+      "Baraita Distinction",
+      "Hearsay & Pasul Witnesses",
+      "Capable Witnesses",
+      "Servant & Defendant",
+      "Double Lo Interpretation",
+      "Plaintiff Authority",
+      "Binding Words",
+      "Non-Binding Phrases",
+      "God's Names",
+      "Cursing Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 10,
+      "first_heading": "Double Lo Interpretation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-10 cover the Gemara's analysis of the slave/defendant case and Rabbi Elazar's double-lo interpretation, matching candidate 9 ('Double Lo Interpretation').",
+      "second_heading": "Binding Words",
+      "second_confidence": "high",
+      "second_reason": "Item 11 onward begins an entirely new Mishna (marked 'MISHNA:') about the binding formulas of oath language, matching candidate 11 ('Binding Words').",
+      "current_heading": "Plaintiff Authority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Cursing Dispute",
+    "candidates": [
+      "Binding Words",
+      "Non-Binding Phrases",
+      "God's Names",
+      "Cursing Dispute",
+      "Self & Family Cursing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about cursing using God's names with the Rabbi Meir/Chachamim dispute, which is precisely what the 'Cursing Dispute' section's prose describes.",
+      "chosen_heading": "Cursing Dispute",
+      "current_heading": "Cursing Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Self & Family Cursing",
+    "candidates": [
+      "Self & Family Cursing",
+      "Rav Yehuda Formula",
+      "Abaye's Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with cursing one's father/mother, oneself, or another using divine names, including the Rabbi Meir vs. Chachamim dispute \u2014 exactly what the 'Self & Family Cursing' prose describes.",
+      "chosen_heading": "Self & Family Cursing",
+      "current_heading": "Self & Family Cursing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Abaye's Correction",
+    "candidates": [
+      "Rav Yehuda Formula",
+      "Abaye's Correction",
+      "Names vs Descriptions",
+      "Unerasable List"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yehuda Formula",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Yehuda's formula interpreting the mishna's terms as references to Torah language, which matches heading 0's prose exactly.",
+      "second_heading": "Abaye's Correction",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Abaye's challenge to Rav Yehuda using Rabbi \u1e24iyya's 'kovel' term and Abaye's reframing of the formula around 'shvu'ah', which matches heading 1's prose exactly.",
+      "current_heading": "Abaye's Correction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Unerasable List",
+    "candidates": [
+      "Names vs Descriptions",
+      "Unerasable List",
+      "Erasable List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the gemara's challenge \u2014 the mishna lists Chanun veRachum as binding names, and the baraita contradicts this by omitting them from the unerasable (sacred name) list \u2014 which is precisely what heading 0 ('Names vs Descriptions') describes as its content.",
+      "chosen_heading": "Names vs Descriptions",
+      "current_heading": "Unerasable List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Erasable List",
+    "candidates": [
+      "Unerasable List",
+      "Erasable List",
+      "Heaven & Earth",
+      "Alef-Lamed, Yud-Hey",
+      "Shin-Dalet, Alef-Dalet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form one continuous dispute about the erasable descriptive attributes \u2014 the mishna's list, Abaye's explanation of Chanun veRachum, Rava's challenge with heaven and earth, and the Gemara's resolution \u2014 which is precisely what candidate 1 ('Erasable List') describes in its prose.",
+      "chosen_heading": "Erasable List",
+      "current_heading": "Erasable List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Shin-Dalet, Alef-Dalet",
+    "candidates": [
+      "Heaven & Earth",
+      "Alef-Lamed, Yud-Hey",
+      "Shin-Dalet, Alef-Dalet",
+      "Tzvaot Dependency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the alef-lamed/yud-heh (may not be erased) and shin-dalet/alef-dalet/tzadi-beit (may be erased) rulings in a single baraita, and candidate 1 ('Alef-Lamed, Yud-Hey') introduces and discusses this entire baraita, making it the natural home for the complete passage.",
+      "chosen_heading": "Alef-Lamed, Yud-Hey",
+      "current_heading": "Shin-Dalet, Alef-Dalet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Tzvaot Dependency",
+    "candidates": [
+      "Shin-Dalet, Alef-Dalet",
+      "Tzvaot Dependency",
+      "Prefixes Erasable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei's ruling that Tzva'ot may be erased entirely because it is not an independent divine name, and Shmuel's rejection of this view \u2014 exactly what the 'Tzvaot Dependency' prose describes.",
+      "chosen_heading": "Tzvaot Dependency",
+      "current_heading": "Tzvaot Dependency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Prefixes Erasable",
+    "candidates": [
+      "Prefixes Erasable",
+      "Suffixes Erasable",
+      "Suffix Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses only prefixes (lamed, beit, vav, mem, shin, heh, kaf) that may be erased when attached before God's name, which matches exactly the 'Prefixes Erasable' section's prose content.",
+      "chosen_heading": "Prefixes Erasable",
+      "current_heading": "Prefixes Erasable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Suffix Sanctity",
+    "candidates": [
+      "Suffixes Erasable",
+      "Suffix Sanctity",
+      "Abraham Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the initial ruling that suffixes may be erased AND the A\u1e25erim/Rav Huna dispute that suffixes may not be erased, making 'Suffix Sanctity' (index 1) the best fit since it covers the full content including the A\u1e25erim opinion and Rav Huna's ruling, while index 0 only covers the erasable-suffix view without the dispute.",
+      "chosen_heading": "Suffix Sanctity",
+      "current_heading": "Suffix Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Abraham Overview",
+    "candidates": [
+      "Abraham Overview",
+      "Adonim Ambiguity",
+      "Abraham Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic siman and the opening rule that all divine names in the Torah regarding Abraham are sacred except one \u2014 are exactly what the 'Abraham Overview' prose describes: the siman for the series and the first principle about kodesh vs. chol names.",
+      "chosen_heading": "Abraham Overview",
+      "current_heading": "Abraham Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Abraham Interpretation",
+    "candidates": [
+      "Adonim Ambiguity",
+      "Abraham Interpretation",
+      "Lot Overview",
+      "Lot Escape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses \u1e24anina and Rabbi Elazar's ruling that the Adonim in Avraham's narrative is kodesh, and connects it to Rav Yehuda's teaching about hospitality being greater than receiving the Shechinah \u2014 exactly what the 'Abraham Interpretation' prose section describes.",
+      "chosen_heading": "Abraham Interpretation",
+      "current_heading": "Abraham Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Lot Escape",
+    "candidates": [
+      "Lot Overview",
+      "Lot Escape",
+      "Navot Sacred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the specific verse about Lot's appeal (Genesis 19:18) and explains why it is kodesh based on the power to kill and vivify, which is precisely what the 'Lot Escape' prose discusses in detail.",
+      "chosen_heading": "Lot Escape",
+      "current_heading": "Lot Escape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Navot Sacred",
+    "candidates": [
+      "Navot Sacred",
+      "Gibeah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the Navot/Micah sacred-vs-non-sacred names distinction, including Rabbi Eliezer's refinement about alef-lamed vs. yod-heh and the Shiloh exception, which matches the prose under 'Navot Sacred' precisely.",
+      "chosen_heading": "Navot Sacred",
+      "current_heading": "Navot Sacred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Gibeah Dispute",
+    "candidates": [
+      "Gibeah Dispute",
+      "Eliezer: Mundane",
+      "Yehoshua: Sacred",
+      "Three Battles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the opening of the Gibeah dispute \u2014 the initial positions of Rabbi Eliezer and Rabbi Yehoshua plus Rabbi Eliezer's challenge \u2014 which is precisely what the 'Gibeah Dispute' prose describes as a unit.",
+      "chosen_heading": "Gibeah Dispute",
+      "current_heading": "Gibeah Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Three Battles",
+    "candidates": [
+      "Eliezer: Mundane",
+      "Yehoshua: Sacred",
+      "Three Battles",
+      "Shlomo Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua's counter-argument explaining that God fulfilled His promise but the people failed to inquire properly, which matches the 'Yehoshua: Sacred' prose discussing 've'hem lo bachan im lintoach o lenatzeach' \u2014 the proof-verse about Pinchas is the culmination of that argument, not a separate section.",
+      "chosen_heading": "Yehoshua: Sacred",
+      "current_heading": "Three Battles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159,
+      160
+    ],
+    "current_heading": "Shlomo Overview",
+    "candidates": [
+      "Three Battles",
+      "Shlomo Overview",
+      "One-Sixth Rule",
+      "Daniel Mundane",
+      "Daniel Sacred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are a continuous discussion about which mentions of 'Shlomo' in Shir HaShirim are kodesh or chol, including the baraita, Shmuel's challenge, and its resolution \u2014 exactly what the 'Shlomo Overview' prose describes.",
+      "chosen_heading": "Shlomo Overview",
+      "current_heading": "Shlomo Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Daniel Sacred",
+    "candidates": [
+      "One-Sixth Rule",
+      "Daniel Mundane",
+      "Daniel Sacred",
+      "Ambiguous Address"
+    ],
+    "result": null
+  }
+]

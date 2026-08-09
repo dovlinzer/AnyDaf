@@ -1,0 +1,285 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Setting Up Contradiction",
+    "candidates": [
+      "Setting Up Contradiction",
+      "Rava's Answer: Dirt",
+      "Oath on Top of Torah",
+      "Broader Prohibition Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the internal contradiction (hagufa kashya) and its initial resolution (reisha bistam, seifa bimfaresh) that the 'Setting Up Contradiction' prose explicitly describes.",
+      "chosen_heading": "Setting Up Contradiction",
+      "current_heading": "Setting Up Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Broader Prohibition Works",
+    "candidates": [
+      "Rava's Answer: Dirt",
+      "Oath on Top of Torah",
+      "Broader Prohibition Works",
+      "Reish Lakish Disagrees"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oath on Top of Torah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses the mushba ve'omed objection against the mefareish case, which is precisely what candidate 1's prose describes.",
+      "second_heading": "Broader Prohibition Works",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the Rav/Shmuel/Rabbi Yochanan answer of issur kolel, which is exactly what candidate 2's prose discusses.",
+      "current_heading": "Broader Prohibition Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Reish Lakish Disagrees",
+    "candidates": [
+      "Reish Lakish Disagrees",
+      "Self vs. Automatic",
+      "Already Sworn Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's direct statement of his alternative solution (chatzi shiur / Rabbi Akiva), which is precisely what the 'Reish Lakish Disagrees' section's prose discusses and analyzes.",
+      "chosen_heading": "Reish Lakish Disagrees",
+      "current_heading": "Reish Lakish Disagrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Already Sworn Status",
+    "candidates": [
+      "Self vs. Automatic",
+      "Already Sworn Status",
+      "Reversible Oaths",
+      "Half-Measure Solution",
+      "Generic Oath Solution",
+      "Back to Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The 'Already Sworn Status' section's prose explicitly covers all six items: the automatic vs. self-imposed prohibition distinction (items 1-3), Rabbi Shimon's exemption explained under both Reish Lakish and Rabbi Yochanan (items 4-5), and the lav v'hein reversibility problem (item 6), making it the clearest match for this entire continuous passage.",
+      "chosen_heading": "Already Sworn Status",
+      "current_heading": "Already Sworn Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Back to Rava's Answer",
+    "candidates": [
+      "Reversible Oaths",
+      "Half-Measure Solution",
+      "Generic Oath Solution",
+      "Back to Rava's Answer",
+      "Rava's Mechanism"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Back to Rava's Answer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover Rava's ruling about dirt being inedible, Rav Mari's proof from the mishna, and the gemara's qualification via achshavei \u2014 all of which are explicitly described in heading 3's prose.",
+      "second_heading": "Rava's Mechanism",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 present Rava's foundational question about the rationale of issur kolel and its analogy to issur mosif, along with the distinction between single and two pieces \u2014 which is precisely what heading 4's prose describes.",
+      "current_heading": "Back to Rava's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Rava's Mechanism",
+    "candidates": [
+      "Rava's Mechanism",
+      "Sister-to-Wife Example",
+      "What is Kolel",
+      "What is Mosif",
+      "Rabbi Shimon Rejects",
+      "The Setup",
+      "Forbidden Fat",
+      "Made into Sacrifice",
+      "Leftover Status",
+      "Impurity Adds",
+      "Yom Kippur Layer",
+      "Shabbat Carrying",
+      "Oath Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "This passage illustrates issur kolel applied to oaths (shevua on figs and grapes), which is precisely the content discussed in the 'Oath Objection' section's prose about a shevua not to eat figs and chelev and how issur kolel would apply to it.",
+      "chosen_heading": "Oath Objection",
+      "current_heading": "Rava's Mechanism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Oath Objection",
+    "candidates": [
+      "Sister-to-Wife Example",
+      "What is Kolel",
+      "What is Mosif",
+      "Rabbi Shimon Rejects",
+      "The Setup",
+      "Forbidden Fat",
+      "Made into Sacrifice",
+      "Leftover Status",
+      "Impurity Adds",
+      "Yom Kippur Layer",
+      "Shabbat Carrying",
+      "Oath Objection",
+      "Variable Offering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "All 10 items form a continuous chain of objection and answer about why an oath (shevua) was not included in the mishna's list, covering the 'issur haba me'atzmo' distinction, the she'eila rationale, and the bechor resolution \u2014 precisely the content described in the 'Oath Objection' prose.",
+      "chosen_heading": "Oath Objection",
+      "current_heading": "Oath Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Variable Offering",
+    "candidates": [
+      "Variable Offering",
+      "No Minimum Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the fixed vs. sliding-scale offering distinction, the challenge about the impure person who ate consecrated food, and the answer about a king per Rabbi Eliezer \u2014 are exactly what candidate 0's prose describes under 'Variable Offering.'",
+      "chosen_heading": "Variable Offering",
+      "current_heading": "Variable Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "No Minimum Amount",
+    "candidates": [
+      "No Minimum Amount",
+      "No Kares Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'No Minimum Amount' section prose: Rav Ashi's answer about shiur requirements and the subsequent challenge about hekdesh/me'ilah are explicitly described in that section's prose.",
+      "chosen_heading": "No Minimum Amount",
+      "current_heading": "No Minimum Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "No Kares Requirement",
+    "candidates": [
+      "No Kares Requirement",
+      "Non-Physical Acts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "No Kares Requirement",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the peruta requirement clarification and the Rav Zeira/karet criterion with its asham challenge and resolution, all of which match the 'No Kares Requirement' prose exactly.",
+      "second_heading": "Non-Physical Acts",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is Ravina's answer about prohibitions applying only to edible items, which matches the 'Non-Physical Acts' prose precisely.",
+      "current_heading": "No Kares Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Non-Physical Acts",
+    "candidates": [
+      "Non-Physical Acts",
+      "Oath Affirmed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single challenge-and-response unit about why shevua is excluded from the mishnah's list because it applies to non-physical acts, which is precisely what the 'Non-Physical Acts' prose describes in detail, including the hekdesh objection and the sleep/non-sleep answer.",
+      "chosen_heading": "Non-Physical Acts",
+      "current_heading": "Non-Physical Acts",
+      "moved": false
+    }
+  }
+]

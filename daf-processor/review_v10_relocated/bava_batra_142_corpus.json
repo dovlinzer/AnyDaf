@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Rav Huna's Position",
+    "candidates": [
+      "Tumtum Background",
+      "Abaye's Tumtum",
+      "Daughter Preference Joke",
+      "Rav Huna's Position",
+      "Reinterpretation Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All seven items are the Gemara's attempts to identify a Tannaic authority who permits transferring ownership to a fetus (Rabbi Meir, Rabbi Yosei, Rabbi Yo\u1e25anan ben Beroka), each rejected in turn \u2014 exactly the content described in the 'Rav Huna's Position' prose, which explicitly summarizes these rescue attempts and rejections.",
+      "chosen_heading": "Rav Huna's Position",
+      "current_heading": "Rav Huna's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Reinterpretation Attempt",
+    "candidates": [
+      "Reinterpretation Attempt",
+      "Rav Huna Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are rejected reinterpretation attempts ('but let Rav Huna say...') that the Gemara shoots down from the Mishna's own language \u2014 Item 1 is the 'informer' proposal rejected by the heir language, and Item 2 is the 'already gave birth' proposal rejected by the future-tense language \u2014 exactly matching the 'Reinterpretation Attempt' prose which explicitly discusses the future-tense rejection.",
+      "chosen_heading": "Reinterpretation Attempt",
+      "current_heading": "Reinterpretation Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Rav Huna Rejects",
+    "candidates": [
+      "Rav Huna Rejects",
+      "Rav Nachman's Compromise",
+      "Rav Sheshet Permits",
+      "Ger Dies & Looting",
+      "Return & Miscarriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the three-way dispute between Rav Na\u1e25man, Rav Huna, and Rav Sheshet on 'liksheteiled,' which is exactly what the 'Rav Nachman's Compromise' prose discusses \u2014 Rav Na\u1e25man's position that liksheteiled kanah, Rav Huna's rejection of even that, and Rav Sheshet's expansive view \u2014 rather than belonging under 'Rav Huna Rejects' which only covers Rav Huna's position in isolation.",
+      "chosen_heading": "Rav Nachman's Compromise",
+      "current_heading": "Rav Huna Rejects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Return & Miscarriage",
+    "candidates": [
+      "Rav Nachman's Compromise",
+      "Rav Sheshet Permits",
+      "Ger Dies & Looting",
+      "Return & Miscarriage",
+      "Why First Kinyan Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Baraita text itself (the ger who died, looting, hearing of a son or pregnant wife, obligation to return) which corresponds exactly to the 'Ger Dies & Looting' section prose that introduces and describes this Baraita, not the 'Return & Miscarriage' section which discusses the subsequent ruling about the second chazaka.",
+      "chosen_heading": "Ger Dies & Looting",
+      "current_heading": "Return & Miscarriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Why First Kinyan Fails",
+    "candidates": [
+      "Return & Miscarriage",
+      "Why First Kinyan Fails",
+      "Abaye's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's rhetorical question about why a second chazakah was needed if the fetus never had ownership \u2014 which is precisely the argument the 'Why First Kinyan Fails' prose describes Rav Sheshet making from the Baraita.",
+      "chosen_heading": "Why First Kinyan Fails",
+      "current_heading": "Why First Kinyan Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Abaye's Answer",
+    "candidates": [
+      "Abaye's Answer",
+      "Rava's Rifyon Answer",
+      "Nafka Mina Scenario",
+      "Abaye: Subjective",
+      "Rava: Objective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's and Rava's brief statements, and the current heading 'Abaye's Answer' is where the passage sits \u2014 but examining the content, it contains both responses together, and the current placement under index 0 is the first of the two responses, matching the gemara's presentation of both answers in sequence as a unit that introduces the distinction the subsequent sections elaborate upon.",
+      "chosen_heading": "Abaye's Answer",
+      "current_heading": "Abaye's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rava: Objective",
+    "candidates": [
+      "Rava's Rifyon Answer",
+      "Nafka Mina Scenario",
+      "Abaye: Subjective",
+      "Rava: Objective",
+      "Mishna: One Day Old",
+      "Why It Matters",
+      "Rav Sheshet's Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the nafka mina scenario (heard he died but he had not yet died, then he did die) which is precisely what the 'Nafka Mina Scenario' prose section introduces and discusses.",
+      "chosen_heading": "Nafka Mina Scenario",
+      "current_heading": "Rava: Objective",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rav Sheshet's Read",
+    "candidates": [
+      "Mishna: One Day Old",
+      "Why It Matters",
+      "Rav Sheshet's Read",
+      "Fetus Dies First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Mishna challenge ('Come and hear: a one-day-old child inherits...') and Rav Sheshet's initial reply distinguishing the Mishna's topic, which matches exactly the prose of candidate 0 ('Mishna: One Day Old') that describes this very Mishna and Rav Sheshet's position in response to it.",
+      "chosen_heading": "Mishna: One Day Old",
+      "current_heading": "Rav Sheshet's Read",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Fetus Dies First",
+    "candidates": [
+      "Rav Sheshet's Read",
+      "Fetus Dies First",
+      "Initial Question",
+      "Double Portion Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'fetus dies first' reasoning \u2014 item 1 states the principle that a son does not inherit from his mother while in the grave, and item 2 challenges and then defends (via Mar bar Rav Ashi's lizard analogy) the assumption that the fetus always dies first, which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Fetus Dies First",
+      "current_heading": "Fetus Dies First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Double Portion Math",
+    "candidates": [
+      "Initial Question",
+      "Double Portion Math",
+      "Math Example",
+      "Only Born Count",
+      "Born After Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Mar bereih deRav Yosef's statement that a one-day-old reduces the bechor's double portion but a fetus does not, which is exactly what the 'Double Portion Math' section's prose describes.",
+      "chosen_heading": "Double Portion Math",
+      "current_heading": "Double Portion Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Born After Father",
+    "candidates": [
+      "Math Example",
+      "Only Born Count",
+      "Born After Father",
+      "Rule Like Rava",
+      "Rav Yochanan Rule",
+      "Own Child Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Only Born Count",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns a son born after the father's death not reducing the firstborn's portion (using 'yaldu lo'), which matches the 'Only Born Count' section's discussion of fetuses not diminishing the bechor's double portion via the yaldu lo verse.",
+      "second_heading": "Rule Like Rava",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents both the Pumbedita version (firstborn born after father's death gets no double portion) and the concluding 'vehilcheta kechol hanei' ruling, which perfectly matches the 'Rule Like Rava' section's prose about the decisive ruling following all of Mar bereih deRav Yosef's positions.",
+      "current_heading": "Born After Father",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Own Child Exception",
+    "candidates": [
+      "Rule Like Rava",
+      "Rav Yochanan Rule",
+      "Own Child Exception",
+      "Shmuel's Minority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yitzchak/Yochanan's ruling that mezakeh l'ubar lo kanah, with the mishna as an apparent objection \u2014 this is the core content of the 'Rav Yochanan Rule' section, not the 'Own Child Exception' section which discusses the exception itself as a resolved matter.",
+      "chosen_heading": "Rav Yochanan Rule",
+      "current_heading": "Own Child Exception",
+      "moved": true
+    }
+  }
+]

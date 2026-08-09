@@ -58,8 +58,8 @@
           "timestamp": "07:56"
         }
       ],
-      "sefaria_index": 4,
-      "matched": false
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Puzzle of Groom's Power Over a Bogeres: Why Does Husband Have Rights Without Father?",
@@ -111,8 +111,8 @@
           "timestamp": "13:41"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Why the Current Mishna Mentions Bogeres: Borrowing a Case to Show Comparative Powers",
@@ -135,7 +135,7 @@
           "timestamp": "17:25"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -164,7 +164,7 @@
           "timestamp": "23:21"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 13,
       "matched": false
     },
     {
@@ -188,7 +188,7 @@
           "timestamp": "26:02"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 13,
       "matched": false
     },
     {
@@ -212,7 +212,7 @@
           "timestamp": "27:36"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 13,
       "matched": false
     }
   ],
@@ -500,5 +500,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "02:49",
+  "amud_b_micro_title": "Verse Derivation",
+  "shiur_start_daf": 70,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,230 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Gezeirah Challenge",
+    "candidates": [
+      "Backup Wife Review",
+      "Onen Question",
+      "Gezeirah Challenge",
+      "Yom Kippur Exception",
+      "Onen Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what Candidate 2's prose describes: Rabbi Yehuda's ruling that a kohen gadol who is an onen may not serve all day due to a gezeirah lest he eat, and Rav Adda bar Ahava's challenge to Rava based on the backup wife mishna.",
+      "chosen_heading": "Gezeirah Challenge",
+      "current_heading": "Gezeirah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Onen Resolved",
+    "candidates": [
+      "Yom Kippur Exception",
+      "Onen Resolved",
+      "Seven Days Start",
+      "Daily Services",
+      "Service Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of whether aninut applies when the wife is retroactively divorced and the gemara's response about emotional distraction, which is precisely what the 'Onen Resolved' section's prose describes.",
+      "chosen_heading": "Onen Resolved",
+      "current_heading": "Onen Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Service Scope",
+    "candidates": [
+      "Seven Days Start",
+      "Daily Services",
+      "Service Scope",
+      "Year-Round Rights",
+      "Mishnah Authorship",
+      "Rabbi Akiva Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself, which opens with 'kol shivat hayamim' \u2014 exactly what heading 0 ('Seven Days Start') introduces, describing the start of the mishna about the seven-day sequestering period.",
+      "chosen_heading": "Seven Days Start",
+      "current_heading": "Service Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Rabbi Akiva Paradox",
+    "candidates": [
+      "Year-Round Rights",
+      "Mishnah Authorship",
+      "Rabbi Akiva Paradox",
+      "Rabbis Limit Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of who authored the mishna (Rav \u1e24isda's answer that it is not Rabbi Akiva), the baraita about sprinkling on pure vs. impure persons, and the Rabbinic counter-position \u2014 all of which matches the 'Mishnah Authorship' heading's prose, which explicitly introduces Rav \u1e24isda's statement and the parah adumah sprinkling question as the reason the mishna cannot follow Rabbi Akiva.",
+      "chosen_heading": "Mishnah Authorship",
+      "current_heading": "Rabbi Akiva Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rabbis Limit Paradox",
+    "candidates": [
+      "Rabbi Akiva Paradox",
+      "Rabbis Limit Paradox",
+      "Sprinkling Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Akiva citing Solomon's 'I said I would become wise' and the Rabbis' position on the mazeh/nogea distinction, which directly matches the 'Rabbis Limit Paradox' prose that covers exactly these two elements \u2014 Rabbi Akiva's response using Ecclesiastes 7:23 and the Rabbinic claim that the mazeh is tahor.",
+      "chosen_heading": "Rabbis Limit Paradox",
+      "current_heading": "Rabbis Limit Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Sprinkling Terms",
+    "candidates": [
+      "Sprinkling Terms",
+      "Mazeh & Mazin Tahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the initial question of whether the mazeh is pure and the immediate rejection of reinterpreting mazeh as nogea because the verse distinguishes them with different laws \u2014 exactly what the prose in 'Sprinkling Terms' describes as the first step of the gemara's analysis.",
+      "chosen_heading": "Sprinkling Terms",
+      "current_heading": "Sprinkling Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Mazeh & Mazin Tahor",
+    "candidates": [
+      "Mazeh & Mazin Tahor",
+      "Sunset Sprinkling",
+      "Mishnah Order",
+      "Tamid Order",
+      "Different Authors"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mazeh & Mazin Tahor",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the meaning of 'mazeh' as 'nosei', the measure required for sprinkling, and the vessel minimum \u2014 all directly matching the 'Mazeh & Mazin Tahor' prose about the Rabbinic position on the mazeh/nosei distinction and the shiur required in the vessel.",
+      "second_heading": "Sunset Sprinkling",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Abaye's resolution that the kohen gadol performs service all day and is sprinkled toward evening then immerses for sunset \u2014 exactly what the 'Sunset Sprinkling' prose describes as Abaye's afilu teima Rabbi Akiva scheduling solution.",
+      "current_heading": "Mazeh & Mazin Tahor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Different Authors",
+    "candidates": [
+      "Sunset Sprinkling",
+      "Mishnah Order",
+      "Tamid Order",
+      "Different Authors",
+      "Abaye's Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 the contradiction between Yoma and Tamid, Rav Huna's attribution to Rabbi Shimon Ish HaMitzpah, the challenge from the baraita showing he dissents from Tamid, Rabbi Yochanan's reattribution to Yoma, and the internal Yoma contradiction \u2014 exactly matching the 'Different Authors' prose description.",
+      "chosen_heading": "Different Authors",
+      "current_heading": "Different Authors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Abaye's Split",
+    "candidates": [
+      "Abaye's Split",
+      "Blood vs Incense",
+      "What Divides Lamps",
+      "Verse Interpretation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Split",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's resolution splitting the menorah into five and two lamps, which is precisely what heading 0 ('Abaye's Split') describes.",
+      "second_heading": "Blood vs Incense",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the challenge that Abaye's own tradition placed the dam ha-tamid (not the ketoret) as the divider between the two parts of the menorah, and then resolves it via the Abba Shaul/Rabbanan dispute \u2014 exactly what heading 1 ('Blood vs Incense') describes.",
+      "current_heading": "Abaye's Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Verse Interpretation",
+    "candidates": [
+      "Blood vs Incense",
+      "What Divides Lamps",
+      "Verse Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Abba Shaul's rationale from the verse and asks how the Rabbis interpret it, which is precisely what the 'Verse Interpretation' section's prose discusses.",
+      "chosen_heading": "Verse Interpretation",
+      "current_heading": "Verse Interpretation",
+      "moved": false
+    }
+  }
+]

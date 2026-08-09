@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishnah Introduction",
+    "candidates": [
+      "Daf Overview",
+      "Mishnah Introduction",
+      "Rebbi Meir Position",
+      "Chalalah Status",
+      "R. Eliezer & Shimon",
+      "Bat Kohen Case",
+      "Position Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text itself \u2014 enumerating the forbidden relationships (almanah to kohen gadol, gerushah/chalutzah to kohen hedyot) and the erusin/terumah disqualification with the dispute of Rabbi Elazar and Rabbi Shimon \u2014 is the opening mishna that the Daf Overview prose describes as 'the next mishnah' the sugya now turns to, making it the introductory passage for the daf rather than belonging under the more analytical 'Mishnah Introduction' heading which discusses consequences already unpacked from the mishna's content.",
+      "chosen_heading": "Daf Overview",
+      "current_heading": "Mishnah Introduction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Position Analysis",
+    "candidates": [
+      "Rebbi Meir Position",
+      "Chalalah Status",
+      "R. Eliezer & Shimon",
+      "Bat Kohen Case",
+      "Position Analysis",
+      "Post-Nisuin Chalalah",
+      "Erusin Only Reversal",
+      "Meir's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses widowhood/divorce from nisuin causing disqualification versus from erusin restoring fitness, which directly matches the 'Position Analysis' prose describing how almanah/gerushah after nisuin is universally disqualified while erusin cases differ.",
+      "chosen_heading": "Position Analysis",
+      "current_heading": "Position Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Meir's Argument",
+    "candidates": [
+      "Post-Nisuin Chalalah",
+      "Erusin Only Reversal",
+      "Meir's Argument",
+      "Refutation Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's kal vachomer argument from the baraita, which is exactly what the 'Meir's Argument' section prose describes and analyzes.",
+      "chosen_heading": "Meir's Argument",
+      "current_heading": "Meir's Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Refutation Logic",
+    "candidates": [
+      "Refutation Logic",
+      "Middle Zone",
+      "Oshaya's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the refutation logic described in candidate 0's prose, which explicitly quotes and explains this exact text about kiddushei reshut vs. kiddushei averah and the ability to enable eating terumah in another case.",
+      "chosen_heading": "Refutation Logic",
+      "current_heading": "Refutation Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Oshaya's Position",
+    "candidates": [
+      "Middle Zone",
+      "Oshaya's Position",
+      "Problem Distinction",
+      "Support Criterion",
+      "Abaye Position",
+      "Rashi Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items cover the Rebbi Oshaya statement about a ptzua daka kohen and the immediate gemara scrutiny of that parallelism, which is precisely what heading 1 ('Oshaya's Position') describes \u2014 though the refutation material (items 3-4) bleeds into headings 2-3, the entire passage is the continuous chain of argument that heading 1's prose explicitly anticipates ('a conclusion the gemara will immediately subject to scrutiny'), making it the best single home for all four items.",
+      "chosen_heading": "Oshaya's Position",
+      "current_heading": "Oshaya's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rashi Explanation",
+    "candidates": [
+      "Problem Distinction",
+      "Support Criterion",
+      "Abaye Position",
+      "Rashi Explanation",
+      "Continuity Proof",
+      "Rava Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's statement about a woman eating teruma since her husband has not known her after becoming a ptzua daka, which directly corresponds to the 'Abaye Position' section describing the dispute and the specific scenario of a kohen who married before becoming a ptzua daka and has not had bi'ah with her since.",
+      "chosen_heading": "Abaye Position",
+      "current_heading": "Rashi Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Rava Response",
+    "candidates": [
+      "Continuity Proof",
+      "Rava Response",
+      "Unresolved Question",
+      "Oshaya's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rava's reason (slaves eating teruma), Abaye's rejection (kinyan d'ishut from kinyan d'ishut), and the final exchange about 'paka kinyano' vs 'lo paka kinyano' \u2014 are precisely the content described in the 'Rava Response' prose, which explicitly covers Rava's avadim argument, Abaye's kinyan d'ishut objection, and the distinction between the kohen dying (paka kinyano) versus becoming a ptzua daka (lo paka kinyano).",
+      "chosen_heading": "Rava Response",
+      "current_heading": "Rava Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Oshaya's Silence",
+    "candidates": [
+      "Unresolved Question",
+      "Oshaya's Silence",
+      "Rebuke & Explanation",
+      "Yehuda Position",
+      "Bat Ger Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers the full episode \u2014 Rabbi Yochanan's question, Oshaya's silence, Resh Lakish's arrival, the rebuke, and Oshaya's explanation \u2014 but its specific content (the dilemma itself remaining unresolved) most closely matches heading 0's prose about returning to the question and its lack of resolution, while headings 1 and 2 each cover only a fragment of what this single Talmudic passage contains; heading 0 frames the whole episode as a unit around the unresolved question.",
+      "chosen_heading": "Unresolved Question",
+      "current_heading": "Oshaya's Silence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Bat Ger Status",
+    "candidates": [
+      "Rebuke & Explanation",
+      "Yehuda Position",
+      "Bat Ger Status",
+      "Yossi Position",
+      "Status Paradox",
+      "Conditional Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the full gemara analysis of Rebbi Yehuda's position (items 1-2) and Rebbi Yossi's position (item 3), which is precisely what the 'Yehuda Position' prose describes as the gemara's framing of both opinions \u2014 the current placement under 'Bat Ger Status' covers only part of this material, while candidate 1 explicitly introduces both Rebbi Yehuda and Rebbi Yossi's positions as a unified analytical framework.",
+      "chosen_heading": "Yehuda Position",
+      "current_heading": "Bat Ger Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Conditional Status",
+    "candidates": [
+      "Yossi Position",
+      "Status Paradox",
+      "Conditional Status",
+      "Implication Question",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Eliezer ben Yaakov's ruling and the precise dilemma it generates (kashrut vs. kedushah being added), which is exactly what the 'Conditional Status' prose section describes as its content.",
+      "chosen_heading": "Conditional Status",
+      "current_heading": "Conditional Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Implication Question",
+      "Baraita Proof",
+      "Kashrah vs Kedushah",
+      "Rav vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita brought by Rabbi A\u1e25a bar \u1e24innana and the Gemara's analysis of whose opinion it follows, concluding it must be Rabbi Eliezer ben Ya'akov \u2014 exactly what the 'Baraita Proof' section's prose describes.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Baraita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Rav vs Shmuel",
+    "candidates": [
+      "Kashrah vs Kedushah",
+      "Rav vs Shmuel",
+      "Rav Agrees Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the opening of the Rav vs. Shmuel dispute about yesh/ein chuppah le-pesulot, which is precisely what the 'Rav vs Shmuel' section's prose introduces and frames.",
+      "chosen_heading": "Rav vs Shmuel",
+      "current_heading": "Rav vs Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Agrees Exception",
+    "candidates": [
+      "Rav Agrees Exception",
+      "Sex Possible Rule",
+      "Consequences List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's statement about Rav (Abba) conceding the exception for a girl under three years and one day, which matches exactly the prose of heading 0 describing Rav's agreement on this specific case.",
+      "chosen_heading": "Rav Agrees Exception",
+      "current_heading": "Rav Agrees Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Consequences List",
+    "candidates": [
+      "Sex Possible Rule",
+      "Consequences List",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of 'Consequences List' explicitly walks through each element of Rava's baraita \u2014 kiddushei bi'ah, yibbum, eshet ish, niddah tumah, terumah, and pesulim \u2014 which maps precisely onto both items in this passage.",
+      "chosen_heading": "Consequences List",
+      "current_heading": "Consequences List",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Chatas Ha'of",
+    "candidates": [
+      "Perek 4 Intro",
+      "Hillel vs Shammai",
+      "Kapara Status",
+      "One App Suffices",
+      "Shirayim to Yesod",
+      "Chatas Ha'of",
+      "Multiple Teachings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are the baraita deriving from 'v'hanishar badam yimatze' (chatat ha'of) that all leftover blood must go to the yesod, which is precisely what the 'Chatas Ha'of' section's prose describes in detail.",
+      "chosen_heading": "Chatas Ha'of",
+      "current_heading": "Chatas Ha'of",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Multiple Teachings",
+    "candidates": [
+      "Multiple Teachings",
+      "Shficha Alternative",
+      "Second Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Candidate 2 ('Second Drasha') provides the most detailed and accurate prose description of this specific passage, including the precise baraita about zrika/shficha and the conclusion about the pasuk being 'occupied' with teaching shficha as an alternative, matching the gemara's question and content exactly.",
+      "chosen_heading": "Second Drasha",
+      "current_heading": "Multiple Teachings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Second Drasha",
+    "candidates": [
+      "Shficha Alternative",
+      "Second Drasha",
+      "Rabbi Akiva View",
+      "Pesachim Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rabbi Akiva's view that sprinkling and pouring are mutually exclusive (not included in each other), which is precisely what the 'Rabbi Akiva View' section's prose describes as the content it will examine.",
+      "chosen_heading": "Rabbi Akiva View",
+      "current_heading": "Second Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Pesachim Mishnah",
+    "candidates": [
+      "Rabbi Akiva View",
+      "Pesachim Mishnah",
+      "Pesach/Chagiga",
+      "Yosi HaGelili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the direct text of the Pesachim mishnah (121a) cited by the gemara \u2014 Rabbi Yishmael's ruling that the Pesach blessing exempts the chagiga but not vice versa, and Rabbi Akiva's ruling that neither exempts the other \u2014 which is exactly what the 'Pesachim Mishnah' prose describes.",
+      "chosen_heading": "Pesachim Mishnah",
+      "current_heading": "Pesachim Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Yosi HaGelili",
+    "candidates": [
+      "Pesach/Chagiga",
+      "Yosi HaGelili",
+      "Textual Tensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge that Deuteronomy 12:27 is needed for Rabbi Yishmael's baraita deriving blood-placement rules for bechor/ma'aser/Pesach, which is precisely the subject of the 'Yosi HaGelili' section's prose discussing how multiple halakhot are derived from this one pasuk and how Rabbi Yishmael uses v'dam zvacheicha yishafech.",
+      "chosen_heading": "Yosi HaGelili",
+      "current_heading": "Yosi HaGelili",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Textual Tensions",
+    "candidates": [
+      "Textual Tensions",
+      "Yishmael vs Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items deal with the textual tension between Rabbi Yishmael and Rabbi Yosei HaGelili over the plural forms in Numbers 18:17-18, the question about 'u'vsaram yiyeh lach,' and the bechor ba'al mum halakha \u2014 exactly what the 'Textual Tensions' prose discusses, including the resolution via echad tam v'echad ba'al mum and the note that we find no parallel elsewhere in the Torah.",
+      "chosen_heading": "Textual Tensions",
+      "current_heading": "Textual Tensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Yishmael vs Yosi",
+    "candidates": [
+      "Yishmael vs Yosi",
+      "Temura Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Temura Laws' prose describes: the mishna about temurat bechor u'ma'aser eaten with a blemish, Rabbi Yehoshua's statement about temurat haPesach, and Rabbi Yishmael's derivations via gezeira shava (avara-avara) for ma'aser and the 'im kesev' inclusion for Pesach \u2014 all of which match candidate 1's prose precisely, whereas candidate 0's prose ends just before these citations begin.",
+      "chosen_heading": "Temura Laws",
+      "current_heading": "Yishmael vs Yosi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Temura Laws",
+    "candidates": [
+      "Yishmael vs Yosi",
+      "Temura Laws",
+      "Problem Setup",
+      "Chatas Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of where tanna'im who derive other expositions from 'dam zvacheicha yishafech' learn the single-placement rule, which is precisely the 'Problem Setup' section's content (v'chol hanahu tanna'im d'mapkei lei l'hai dam zvacheicha yishapech l'drasha acharina), not the answer section ('Chatas Solution').",
+      "chosen_heading": "Problem Setup",
+      "current_heading": "Temura Laws",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Chatas Solution",
+    "candidates": [
+      "Problem Setup",
+      "Chatas Solution",
+      "Six Corners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes 'Rav Huna said: What is the reasoning of Beit Shammai?' which is precisely what the 'Six Corners' prose describes as its opening move (Amar Rav Huna: mai ta'ama d'Beit Shammai?), making that section the clear home for this text.",
+      "chosen_heading": "Six Corners",
+      "current_heading": "Chatas Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Six Corners",
+    "candidates": [
+      "Chatas Solution",
+      "Six Corners",
+      "Shammai Math",
+      "Shina Principle",
+      "Hillel Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states 'arba l'mitzvah u'shtayim l'akev' \u2014 four for a mitzva and two to invalidate \u2014 which is precisely what the 'Shammai Math' section discusses, not the 'Six Corners' section which covers only the counting of karnos occurrences to reach six.",
+      "chosen_heading": "Shammai Math",
+      "current_heading": "Six Corners",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Hillel Reading",
+    "candidates": [
+      "Shammai Math",
+      "Shina Principle",
+      "Hillel Reading",
+      "Gemara Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains Beit Hillel's reasoning using karnat/karnat/karnot to derive four corners (three for mitzva, one me'akev), which directly matches the 'Hillel Reading' section's prose describing exactly this derivation.",
+      "chosen_heading": "Hillel Reading",
+      "current_heading": "Hillel Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Gemara Q",
+    "candidates": [
+      "Gemara Q",
+      "Kapara Min",
+      "Averaging Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question ('why not say all are for mitzva?') and the answer ('we have not found atonement with no blood placement'), which together correspond to the prose in candidate 0 ('Gemara Q') that raises this exact question, while candidate 1 ('Kapara Min') covers only the answer/reasoning portion \u2014 but since the item contains both question and answer as a single unit, and candidate 0's prose explicitly describes both the question and implicitly anticipates the answer, the current placement is the best fit.",
+      "chosen_heading": "Gemara Q",
+      "current_heading": "Gemara Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Averaging Method",
+    "candidates": [
+      "Kapara Min",
+      "Averaging Method",
+      "Hillel Math",
+      "Tefillin Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the alternative formulation of Beit Hillel's reasoning using both mikra and masores to add one and subtract one respectively, which is precisely what the 'Averaging Method' prose describes.",
+      "chosen_heading": "Averaging Method",
+      "current_heading": "Averaging Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tefillin Case",
+    "candidates": [
+      "Hillel Math",
+      "Tefillin Case",
+      "Totafot Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the stress-test question about tefillin compartments ('chamisha batei ba'ei l'me'avad'), which is precisely what the 'Tefillin Case' prose describes as the gemara's challenge to the averaging methodology.",
+      "chosen_heading": "Tefillin Case",
+      "current_heading": "Tefillin Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Totafot Etymology",
+    "candidates": [
+      "Totafot Etymology",
+      "Sukkah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Akiva's etymology of 'totafot' (tat=two in Katpi, pat=two in Afriki), which is precisely what the 'Totafot Etymology' section's prose discusses.",
+      "chosen_heading": "Totafot Etymology",
+      "current_heading": "Totafot Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Sukkah Case",
+    "candidates": [
+      "Sukkah Case",
+      "Sukkah Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection that the sukka case would require five walls, which is exactly what the 'Sukkah Case' prose describes \u2014 the question of five walls arising from combining mikra and masores \u2014 before the resolution discussed in 'Sukkah Resolution'.",
+      "chosen_heading": "Sukkah Case",
+      "current_heading": "Sukkah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Sukkah Resolution",
+    "candidates": [
+      "Sukkah Resolution",
+      "Yoledet Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's resolution about sukka walls \u2014 one verse for the mitzva itself, one for sechach, and the halacha lemoshe misinai reducing the third wall to a tefach \u2014 which is precisely what the 'Sukkah Resolution' prose discusses.",
+      "chosen_heading": "Sukkah Resolution",
+      "current_heading": "Sukkah Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Yoledet Case",
+    "candidates": [
+      "Yoledet Case",
+      "Yoledet Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection about the yoledet/female birth case (the forty-two day calculation), which matches the 'Yoledet Case' prose exactly, before the resolution given in 'Yoledet Resolved'.",
+      "chosen_heading": "Yoledet Case",
+      "current_heading": "Yoledet Case",
+      "moved": false
+    }
+  }
+]

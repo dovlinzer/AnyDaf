@@ -1,0 +1,163 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Realization as Hearing",
+    "candidates": [
+      "Existence of Hafara",
+      "Yom Shamo Defined",
+      "Relevance Anecdote",
+      "Specific Neder Unknown",
+      "Ran's Explanations",
+      "Realization as Hearing",
+      "Two Half-Hearings",
+      "B'lo Ra'ot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents both cases (unknown hafara and unknown specific neder), but the passage itself is the mishna being introduced \u2014 it belongs under the first heading 'Existence of Hafara' which explicitly introduces and discusses this exact mishna from daf 88/87b, describing both cases of the mishna including the Rabbi Meir/Chachamim dispute.",
+      "chosen_heading": "Existence of Hafara",
+      "current_heading": "Realization as Hearing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "B'lo Ra'ot",
+    "candidates": [
+      "Two Half-Hearings",
+      "B'lo Ra'ot",
+      "Rabbi Yehuda's Derivation",
+      "Rabbi Meir's Derivation",
+      "Partial Awareness Drive",
+      "Vow Setup",
+      "Automatic Transfer",
+      "Different Verses",
+      "Noseies V'Notenes",
+      "Stipulation Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous Gemara unit \u2014 the contradiction from the baraita about b'lo ra'ot and Rava's resolution \u2014 which candidate 1 ('B'lo Ra'ot') explicitly describes as the Gemara's challenge from the laws of accidental manslaughter and the blind person dispute, matching the passage's content precisely.",
+      "chosen_heading": "B'lo Ra'ot",
+      "current_heading": "B'lo Ra'ot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Stipulation Fails",
+    "candidates": [
+      "Rabbi Yehuda's Derivation",
+      "Rabbi Meir's Derivation",
+      "Partial Awareness Drive",
+      "Vow Setup",
+      "Automatic Transfer",
+      "Different Verses",
+      "Noseies V'Notenes",
+      "Stipulation Fails",
+      "Yad Isha Identity",
+      "Money vs Food",
+      "Rav: Both Phrases",
+      "Shmuel: Stipulation Only",
+      "Shitur Concept",
+      "Wife as Third Party",
+      "Rabbi Meir Problem",
+      "Rava's Caveat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vow Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the son-in-law vow scenario, which matches heading 3 ('Vow Setup') whose prose describes exactly this case of hamadir hana'ah mechasno and the father wishing to give money to his daughter.",
+      "second_heading": "Rav: Both Phrases",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rav's position (lo shanu ela de-amar mah she-at noset) and the question of which tanna Rav follows (Rabbi Meir's yad isha k'yad ba'alah), which matches heading 10 ('Rav: Both Phrases') whose prose discusses exactly Rav's ruling that only the full mishna formulation works and not 'do as you please'.",
+      "current_heading": "Stipulation Fails",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Rava's Caveat",
+    "candidates": [
+      "Yad Isha Identity",
+      "Money vs Food",
+      "Rav: Both Phrases",
+      "Shmuel: Stipulation Only",
+      "Shitur Concept",
+      "Wife as Third Party",
+      "Rabbi Meir Problem",
+      "Rava's Caveat",
+      "Wife Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items constitute the challenge to Rav from the shituf mevo'ot mishna (items 1-2) and Rava's resolution (item 3), which together form the content described in candidate 4's prose about the shituf mevo'ot institution and the challenge it poses \u2014 the current placement under 'Rava's Caveat' (index 7) contains only Rava's answer, while the passage includes the setup from the mishna and the contradiction, which properly belongs under the 'Shitur Concept' heading that introduces this entire sugya.",
+      "chosen_heading": "Shitur Concept",
+      "current_heading": "Rava's Caveat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Wife Contradiction",
+    "candidates": [
+      "Rava's Caveat",
+      "Wife Contradiction",
+      "Wife's Property Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's objection to Rav Ashi presenting the baraita that lists the wife among those who cannot acquire on behalf of others, which is precisely what the 'Wife Contradiction' section's prose describes.",
+      "chosen_heading": "Wife Contradiction",
+      "current_heading": "Wife Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Wife's Property Interest",
+    "candidates": [
+      "Wife's Property Interest",
+      "House Ownership",
+      "Shmuel Ruling",
+      "Alternative Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's resolution citing the wife's courtyard ownership, which is precisely what heading 0 ('Wife's Property Interest') and its prose describe, making the current placement correct.",
+      "chosen_heading": "Wife's Property Interest",
+      "current_heading": "Wife's Property Interest",
+      "moved": false
+    }
+  }
+]

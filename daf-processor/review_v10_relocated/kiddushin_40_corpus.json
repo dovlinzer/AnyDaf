@@ -1,0 +1,534 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Not Injured",
+    "candidates": [
+      "Mishna Rewards",
+      "R. Yaakov Position",
+      "Maharsha Solution",
+      "Not Injured",
+      "Fixed Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Elazar's teaching that those performing mitzvot are not harmed and the tension with the child who died, which is precisely what the 'Not Injured' section's prose describes.",
+      "chosen_heading": "Not Injured",
+      "current_heading": "Not Injured",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Fixed Danger",
+    "candidates": [
+      "Fixed Danger",
+      "Samuel Example",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rickety ladder, the principle of kevia hezeika, and the Samuel verse as illustration \u2014 all of which are explicitly covered in the 'Fixed Danger' prose section.",
+      "chosen_heading": "Fixed Danger",
+      "current_heading": "Fixed Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Samuel Example",
+      "Rav Yosef",
+      "Acher Stories",
+      "Chutzpit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's statement about Acher and the initial 'there are those who say he saw a case like this' \u2014 both of which are discussed together under the 'Rav Yosef' heading, whose prose explicitly addresses both the Rav Yosef statement and the account of what Acher witnessed.",
+      "chosen_heading": "Rav Yosef",
+      "current_heading": "Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Chutzpit",
+    "candidates": [
+      "Acher Stories",
+      "Chutzpit",
+      "Rami Contradiction",
+      "Temptation Resistance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Acher witnessing the tongue of Chutzpit the Meturgeman being dragged by a pig, which is precisely what the 'Chutzpit' section prose discusses.",
+      "chosen_heading": "Chutzpit",
+      "current_heading": "Chutzpit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Temptation Resistance",
+    "candidates": [
+      "Rami Contradiction",
+      "Temptation Resistance",
+      "R. Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: item 1 is the contradiction and resolution, items 2-3 are the illustrative story of Rabbi \u1e24anina bar Pappi resisting sexual temptation and being miraculously protected, which is exactly what candidate 1 ('Temptation Resistance') describes in its prose.",
+      "chosen_heading": "Temptation Resistance",
+      "current_heading": "Temptation Resistance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "R. Tzadok",
+    "candidates": [
+      "R. Tzadok",
+      "Rav Kahana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Rabbi Tzadok story, which is precisely what candidate 0's prose discusses in detail, making the current placement correct.",
+      "chosen_heading": "R. Tzadok",
+      "current_heading": "R. Tzadok",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Kahana",
+    "candidates": [
+      "Rav Kahana",
+      "Heroic Resistance",
+      "Bird Sending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Kahana selling baskets, being propositioned by a noblewoman, jumping from the roof, being caught by Elijah, and receiving a basket of dinars \u2014 exactly the narrative discussed in the 'Rav Kahana' section prose.",
+      "chosen_heading": "Rav Kahana",
+      "current_heading": "Rav Kahana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Bird Sending",
+    "candidates": [
+      "Heroic Resistance",
+      "Bird Sending",
+      "Five Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the Rava-Rav Na\u1e25man exchange about the mishna in Pe'ah listing mitzvot with this-worldly fruits, including the challenge about shiluach ha-ken and the tana ve-shayer response, which is precisely what the 'Bird Sending' prose describes.",
+      "chosen_heading": "Bird Sending",
+      "current_heading": "Bird Sending",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Five Mitzvot",
+    "candidates": [
+      "Five Mitzvot",
+      "Good vs. Righteous",
+      "Rasha Ra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava citing Rav Idi's explanation of 'tzaddik ki tov,' which is precisely what the 'Five Mitzvot' section's prose describes and analyzes as the underlying principle governing the mitzvot list.",
+      "chosen_heading": "Five Mitzvot",
+      "current_heading": "Five Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rasha Ra",
+    "candidates": [
+      "Good vs. Righteous",
+      "Rasha Ra",
+      "Merit Structure",
+      "Sin Structure",
+      "Bearing Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rava derashah on 'oi la-rasha ra' distinguishing between a wicked person who is evil (to Heaven and people) versus one who is not evil (to Heaven only but not to people), which is precisely what the 'Rasha Ra' section's prose discusses.",
+      "chosen_heading": "Rasha Ra",
+      "current_heading": "Rasha Ra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Bearing Fruit",
+    "candidates": [
+      "Merit Structure",
+      "Sin Structure",
+      "Bearing Fruit",
+      "Good Thoughts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Merit Structure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents both the merit-has-principal-and-profits rule and the sin-has-principal-but-no-profits rule, matching the content of candidates 0 and 1 together, but since it opens with the merit structure (zechut yesh la keren ve-yesh la peirot) it naturally anchors under 'Merit Structure' which introduces the full contrast.",
+      "second_heading": "Bearing Fruit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the challenge from the verse about sinners eating fruit of their ways and its resolution (aveirah she-osah peirot), which is precisely what candidate 2 'Bearing Fruit' discusses in its prose.",
+      "current_heading": "Bearing Fruit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Good Thoughts",
+    "candidates": [
+      "Good Thoughts",
+      "Bad Thoughts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses God joining good thoughts to deeds and crediting intended mitzvahs to those prevented by circumstances, which exactly matches the 'Good Thoughts' section prose.",
+      "chosen_heading": "Good Thoughts",
+      "current_heading": "Good Thoughts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Bad Thoughts",
+    "candidates": [
+      "Bad Thoughts",
+      "Idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle that God does not join evil thoughts to deeds, with the exact verses and resolution about 'thoughts that bear fruit' that the 'Bad Thoughts' prose describes.",
+      "chosen_heading": "Bad Thoughts",
+      "current_heading": "Bad Thoughts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Idolatry",
+    "candidates": [
+      "Idolatry",
+      "Habitual Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the verse about seizing Israel's heart in the context of idol worship and Rav Acha bar Yaakov's explanation about the severity of idolatry, which precisely matches the 'Idolatry' section's prose.",
+      "chosen_heading": "Idolatry",
+      "current_heading": "Idolatry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Habitual Sin",
+    "candidates": [
+      "Habitual Sin",
+      "Private Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's principle about habitual sin becoming 'as if permitted,' which is precisely what the prose under 'Habitual Sin' discusses and analyzes.",
+      "chosen_heading": "Habitual Sin",
+      "current_heading": "Habitual Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Private Sin",
+    "candidates": [
+      "Private Sin",
+      "Anonymity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbi Abbahu/Rabbi \u1e24anina teaching about sinning in secret versus public desecration of God's name, which is precisely what the 'Private Sin' section's prose discusses and quotes.",
+      "chosen_heading": "Private Sin",
+      "current_heading": "Private Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Anonymity",
+    "candidates": [
+      "Anonymity",
+      "Theological Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for Rabbi Ilai the Elder's teaching about going to an unknown place, wearing black, and not desecrating God's name publicly \u2014 exactly what the 'Anonymity' section's prose explicates in detail.",
+      "chosen_heading": "Anonymity",
+      "current_heading": "Anonymity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Theological Problem",
+    "candidates": [
+      "Theological Problem",
+      "Ability Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about not caring for God's honor and the dispute between Rabba and Rav Yosef, which is precisely what the 'Theological Problem' prose discusses and explicates.",
+      "chosen_heading": "Theological Problem",
+      "current_heading": "Theological Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Ability Distinction",
+    "candidates": [
+      "Ability Distinction",
+      "Unbalanceable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's resolution distinguishing between one who can versus cannot overcome the yetzer hara, which is precisely what the 'Ability Distinction' section's prose discusses.",
+      "chosen_heading": "Ability Distinction",
+      "current_heading": "Ability Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Unbalanceable",
+    "candidates": [
+      "Unbalanceable",
+      "Fifty-Fifty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two interpretations of 'makkifin' regarding chillul Hashem \u2014 God not extending credit and the unbalanceable nature of the sin \u2014 which is precisely what the 'Unbalanceable' section's prose describes.",
+      "chosen_heading": "Unbalanceable",
+      "current_heading": "Unbalanceable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Fifty-Fifty",
+    "candidates": [
+      "Fifty-Fifty",
+      "One Act",
+      "Majority Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita about viewing oneself as half-liable and half-meritorious, which is precisely what the 'Fifty-Fifty' section's prose describes and introduces.",
+      "chosen_heading": "Fifty-Fifty",
+      "current_heading": "Fifty-Fifty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Majority Rule",
+    "candidates": [
+      "One Act",
+      "Majority Rule",
+      "Righteous Rebellion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the statement of Rabbi Elazar son of Rabbi Shimon about the world being judged by its majority and the individual by his majority, which is precisely what the 'Majority Rule' prose section discusses.",
+      "chosen_heading": "Majority Rule",
+      "current_heading": "Majority Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Righteous Rebellion",
+    "candidates": [
+      "Righteous Rebellion",
+      "Wicked Repentance",
+      "Gemara Challenge",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the righteous-rebellion and wicked-repentance teachings of Rabbi Shimon ben Yo\u1e25ai as a single unit, and it currently sits under 'Righteous Rebellion' whose prose explicitly discusses this combined teaching, making the current placement the best match.",
+      "chosen_heading": "Righteous Rebellion",
+      "current_heading": "Righteous Rebellion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Wicked Repentance",
+      "Gemara Challenge",
+      "Reish Lakish",
+      "Non-Sinners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's challenge 've-nehevei ke-mechtza avonot u-mechtza zachuyot' and Reish Lakish's answer, but the prose of candidate 1 ('Gemara Challenge') explicitly quotes and discusses this exact challenge text, while candidate 2's prose discusses Reish Lakish's answer in detail \u2014 the quoted item includes both the question and the answer, and since the Gemara challenge section's prose directly quotes 've-nehevei ke-mechtza avonot u-mechtza zachuyot' and frames the question, this passage (which contains that challenge plus its answer) belongs under the heading whose prose introduces and contextualizes it, which is candidate 1.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Non-Sinners",
+    "candidates": [
+      "Reish Lakish",
+      "Non-Sinners",
+      "Outsiders",
+      "Tzaddik Tree",
+      "Suffering Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text directly describes those engaged in mikra, mishna, and derech eretz not sinning quickly, which is exactly what the 'Non-Sinners' section prose discusses.",
+      "chosen_heading": "Non-Sinners",
+      "current_heading": "Non-Sinners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Suffering Purpose",
+    "candidates": [
+      "Outsiders",
+      "Tzaddik Tree",
+      "Suffering Purpose",
+      "Rasha Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full tree parable about the righteous (the tzaddik tree imagery with tahara/tuma and cutting branches), which is the specific content described in the 'Tzaddik Tree' prose, while 'Suffering Purpose' only covers the second half of the passage's teaching.",
+      "chosen_heading": "Tzaddik Tree",
+      "current_heading": "Suffering Purpose",
+      "moved": true
+    }
+  }
+]

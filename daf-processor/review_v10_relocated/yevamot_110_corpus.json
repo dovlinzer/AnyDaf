@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "New Kiddushin Theory",
+    "candidates": [
+      "Scenario Setup",
+      "Rabban Gamliel's View",
+      "The Core Problem",
+      "Rav Elazar Asks",
+      "Suspended Kiddushin",
+      "New Kiddushin Theory",
+      "Rav Sheshet Objects",
+      "Baraita on Teluyim",
+      "Rav Avin's Response",
+      "Woman's Rights",
+      "Core Question",
+      "Rav's Position",
+      "Challenge to Rav",
+      "Rav Implied",
+      "Gemara's Resolution",
+      "Shmuel's Position",
+      "Three-Way Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Elazar's question to Rav about Rabban Gamliel's reasoning, presenting the two possible explanations (suspended kiddushin vs. new kiddushin after bi'ah) \u2014 this is exactly what heading 3 'Rav Elazar Asks' describes, before the essay breaks out each theory separately under headings 4 and 5.",
+      "chosen_heading": "Rav Elazar Asks",
+      "current_heading": "New Kiddushin Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Three-Way Debate",
+    "candidates": [
+      "Rav Sheshet Objects",
+      "Baraita on Teluyim",
+      "Rav Avin's Response",
+      "Woman's Rights",
+      "Core Question",
+      "Rav's Position",
+      "Challenge to Rav",
+      "Rav Implied",
+      "Gemara's Resolution",
+      "Shmuel's Position",
+      "Three-Way Debate",
+      "Rav Moshe Approach",
+      "Henkin's Disagreement",
+      "Kiddushin B'Tnai",
+      "Rav on Tnai",
+      "Shmuel on Tnai",
+      "Gemara's Reasoning",
+      "Possible Agreement"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Possible Agreement",
+    "candidates": [
+      "Rav Moshe Approach",
+      "Henkin's Disagreement",
+      "Kiddushin B'Tnai",
+      "Rav on Tnai",
+      "Shmuel on Tnai",
+      "Gemara's Reasoning",
+      "Possible Agreement",
+      "Objection to Rav",
+      "Abduction Story",
+      "Rav Huna/Chananel",
+      "Implication",
+      "Rav Papa's Explanation",
+      "Rav Ashi's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explains why the dispute must be stated in both cases (the tzericha argument), which directly corresponds to the 'Gemara's Reasoning' section prose about why the two cases cannot be derived from each other.",
+      "chosen_heading": "Gemara's Reasoning",
+      "current_heading": "Possible Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Rav Ashi's Approach",
+    "candidates": [
+      "Objection to Rav",
+      "Abduction Story",
+      "Rav Huna/Chananel",
+      "Implication",
+      "Rav Papa's Explanation",
+      "Rav Ashi's Approach",
+      "Hafka'as Kiddushin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Objection to Rav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's objection to Rav's position based on the Neresh incident, matching heading 0 ('Objection to Rav') which describes exactly this challenge \u2014 a story from Narash that appears to cut against Rav's stated position.",
+      "second_heading": "Rav Papa's Explanation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains both Rav Pappa's resolution (local custom of bi'ah before the bridal chair) and Rav Ashi's approach (abrogation due to improper conduct), but Rav Pappa's explanation is the opening content of item 2 and heading 4 ('Rav Papa's Explanation') is the first heading that covers this material, making it the correct placement for the combined Rav Pappa/Rav Ashi response.",
+      "current_heading": "Rav Ashi's Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Hafka'as Kiddushin",
+    "candidates": [
+      "Rav Ashi's Approach",
+      "Hafka'as Kiddushin",
+      "Case-Specific Nature",
+      "Reiteration",
+      "Tosafot's Doubt",
+      "Distinction",
+      "Two Categories",
+      "Rabbinical Override",
+      "Application",
+      "Conclusion",
+      "Rav Yosef's Ruling",
+      "Next Mishnah",
+      "Two Katanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses hafka'as kiddushin mechanics (voiding kiddushei bi'ah by declaring it beilas zenus) and then the ruling that halacha follows Rabbi Eliezer, which matches precisely the 'Hafka'as Kiddushin' section's prose about shavyuh rabbanan le-vi'alaso beilas zenus and the current placement is correct.",
+      "chosen_heading": "Hafka'as Kiddushin",
+      "current_heading": "Hafka'as Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Two Katanot",
+    "candidates": [
+      "Case-Specific Nature",
+      "Reiteration",
+      "Tosafot's Doubt",
+      "Distinction",
+      "Two Categories",
+      "Rabbinical Override",
+      "Application",
+      "Conclusion",
+      "Rav Yosef's Ruling",
+      "Next Mishnah",
+      "Two Katanot",
+      "Two Chereshot",
+      "Pikachat & Choreshet",
+      "Pikachat Releases",
+      "D'oraita vs. D'rabbanan",
+      "Gedolah & Ketanah",
+      "Chalitzah Problem",
+      "Question on Chalitzah",
+      "Not Bat Chalitzah",
+      "Invalid Chalitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishnah presenting the cases of two minor orphans, two deaf-mutes, and the mixed cases, which is precisely what heading 10 ('Two Katanot') introduces as the next Mishnah with its scenarios of different legal statuses.",
+      "chosen_heading": "Two Katanot",
+      "current_heading": "Two Katanot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Invalid Chalitzah",
+    "candidates": [
+      "Two Chereshot",
+      "Pikachat & Choreshet",
+      "Pikachat Releases",
+      "D'oraita vs. D'rabbanan",
+      "Gedolah & Ketanah",
+      "Chalitzah Problem",
+      "Question on Chalitzah",
+      "Not Bat Chalitzah",
+      "Invalid Chalitzah",
+      "Rav Gidel",
+      "Rava's Position",
+      "Distinction",
+      "Always Choreshet",
+      "Became Deaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct question 'Can a deaf-mute perform chalitzah? Didn't we learn...' which is precisely what candidate 6 ('Question on Chalitzah') describes \u2014 the Gemara asking 'chereshet bat chalitzah hi?' \u2014 rather than candidate 8 which describes the baraita's confirmation/answer.",
+      "chosen_heading": "Question on Chalitzah",
+      "current_heading": "Invalid Chalitzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Became Deaf",
+    "candidates": [
+      "Rav Gidel",
+      "Rava's Position",
+      "Distinction",
+      "Always Choreshet",
+      "Became Deaf",
+      "Abaye Challenges",
+      "Two Brothers Setup",
+      "Deaf Brother Dies",
+      "Question",
+      "Attempted Resolution",
+      "Hearing Brother Dies",
+      "Divorce Logic",
+      "Conclusion",
+      "Sisters Scenario",
+      "Hearing Dies",
+      "Deaf Dies",
+      "The Problem",
+      "Agunah Result",
+      "Divorce Proof",
+      "Deaf Me'ikara",
+      "Yet Chalitzah Forbidden",
+      "Explicit Mishnah",
+      "Gemara Silent",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's position and his distinction between chereshet me'ikara and pikachat she-nishtareshet, which is precisely what candidate 1 ('Rava's Position') describes \u2014 the passage belongs there, not under 'Became Deaf' (candidate 4) which covers only one half of Rava's distinction.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Became Deaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192
+    ],
+    "current_heading": "Final Conclusion",
+    "candidates": [
+      "Abaye Challenges",
+      "Two Brothers Setup",
+      "Deaf Brother Dies",
+      "Question",
+      "Attempted Resolution",
+      "Hearing Brother Dies",
+      "Divorce Logic",
+      "Conclusion",
+      "Sisters Scenario",
+      "Hearing Dies",
+      "Deaf Dies",
+      "The Problem",
+      "Agunah Result",
+      "Divorce Proof",
+      "Deaf Me'ikara",
+      "Yet Chalitzah Forbidden",
+      "Explicit Mishnah",
+      "Gemara Silent",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form a single continuous Talmudic exchange \u2014 Abaye's challenge to Rava, the supporting Mishnayot, attempted resolutions, and the final silence (ishtik) \u2014 which precisely matches the 'Abaye Challenges' heading's prose describing Abaye's challenge regarding whether a chereshet me'ikara can perform chalitzah.",
+      "chosen_heading": "Abaye Challenges",
+      "current_heading": "Final Conclusion",
+      "moved": true
+    }
+  }
+]

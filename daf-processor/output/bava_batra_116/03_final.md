@@ -1,23 +1,22 @@
-# Bava Batra 116 — Daf Yomi Shiur
 [DAF:116a]
+## Bnot Tzelofchad & Takanah
 
-## Bnot Tzelofchad & Binyam…
+
 
 ### Yerushah & Binyamin
-
-> **Hebrew/Aramaic:** ״וַיֹּאמְרוּ יְרֻשַּׁת פְּלֵטָה לְבִנְיָמִן, וְלֹא יִמָּחֶה שֵׁבֶט מִיִּשְׂרָאֵל״ –
->
-> **Translation:** Having discussed the *halakha* of a son's daughter's right to inheritance, the Gemara cites a verse that relates to the matter. After the incident known as: The concubine in Gibeah, the men of the tribe of Benjamin numbered only six hundred, and each of these men had inherited large plots of land from their deceased relatives. The verse states: **"And they said: They that are escaped must be as an inheritance for Benjamin, that a tribe be not blotted out from Israel"** (Judges 21:17).
 
 The daf opens with a *pasuk* from *Shoftim*: *vayomeru yerushat pleitah l'Vinyamin v'lo yimacheh shevet miYisrael* — "And they said: an inheritance for the remnant of Binyamin, so that a tribe shall not be wiped out from Israel." The historical backdrop is the aftermath of *Pilegesh b'Givah*, when only six hundred men remained of the tribe of Binyamin. The other tribes arranged for their daughters to be taken by the men of Binyamin so that the tribe could repopulate. This episode also echoes the principle stated on the previous *daf* — *d'lo khalah shivta* — that no tribe will ever be completely destroyed. Here it nearly happened, and the *pasuk* records their determination to prevent it.
 
 The word *yerushah* — inheritance — is striking given the tractate's subject matter. What does it mean to speak of an "inheritance" for the remnant of Binyamin?
 
+> **Hebrew/Aramaic:** ״וַיֹּאמְרוּ יְרֻשַּׁת פְּלֵטָה לְבִנְיָמִן, וְלֹא יִמָּחֶה שֵׁבֶט מִיִּשְׂרָאֵל״ –
+> **Translation:** Having discussed the *halakha* of a son’s daughter’s right to inheritance, the Gemara cites a verse that relates to the matter. After the incident known as: The concubine in Gibeah, the men of the tribe of Benjamin numbered only six hundred, and each of these men had inherited large plots of land from their deceased relatives. The verse states: **“And they said: They that are escaped must be as an inheritance for Benjamin, that a tribe be not blotted out from Israel”** (Judges 21:17).
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק דְּבֵי רַבִּי אַמֵּי: מְלַמֵּד שֶׁהִתְנוּ עַל שֵׁבֶט בִּנְיָמִין, שֶׁלֹּא תִּירַשׁ בַּת הַבֵּן עִם הָאַחִין.
+> **Translation:** **Rabbi Yitzḥak of the house of Rabbi Ami says:** This **teaches that** the elders of that generation **stipulated with regard to the tribe of Benjamin that a daughter of a son shall not inherit with the brothers** of her father. Since the daughter of a son who inherits her grandfather’s property may later bequeath it to her husband, who may be from another tribe, the elders instituted this temporary ordinance in order to ensure that other tribes would not inherit large quantities of land belonging to the tribe of Benjamin, lest the tribe of Benjamin be left with little land of its own.
+
 ### Takanah: Daughters & Sons
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק דְּבֵי רַבִּי אַמֵּי: מְלַמֵּד שֶׁהִתְנוּ עַל שֵׁבֶט בִּנְיָמִין, שֶׁלֹּא תִּירַשׁ בַּת הַבֵּן עִם הָאַחִין.
->
-> **Translation:** **Rabbi Yitzḥak of the house of Rabbi Ami says:** This **teaches that** the elders of that generation **stipulated with regard to the tribe of Benjamin that a daughter of a son shall not inherit with the brothers** of her father. Since the daughter of a son who inherits her grandfather's property may later bequeath it to her husband, who may be from another tribe, the elders instituted this temporary ordinance in order to ensure that other tribes would not inherit large quantities of land belonging to the tribe of Benjamin, lest the tribe of Benjamin be left with little land of its own.
 
 Rabbi Yitzchak of the school of Rabbi Ami explains: *melamed she-hitnu al shevet Binyamin she-lo tirash bat haben im ha'ahim* — this teaches that they enacted a *takanah* for the tribe of Binyamin that a son's daughter would not inherit together with his brothers.
 
@@ -31,7 +30,7 @@ The general rule, against which this *takanah* stands in contrast, is the inheri
 
 The Gemara rejects this. Even in the presence of the brothers, Tzelofchad's daughters step into their father's place and inherit alongside their uncles. His daughters are not competing with the brothers as daughters; they are representing their father. They inherit *as* Tzelofchad, taking the portion that would have been his had he lived.
 
-### Sons' Descendants Priori…
+### Sons Descendants Priority
 
 This leads to a broader principle: a son's descendants — even daughters — take priority over a daughter. The reason is that before passing to a daughter in the inheritance chart, one must first exhaust all descendants of the sons. The male line is followed as far down as necessary, and it is only when there are truly no descendants to be found anywhere in that line that the inheritance moves to a daughter.
 
@@ -41,31 +40,45 @@ Furthermore, the *takanah* of Binyamin also sheds light on the reverse concern. 
 
 ## No Son = God's Anger
 
+
+
 ### Kol she'eino maniach ben
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי: כֹּל שֶׁאֵינוֹ מַנִּיחַ בֵּן לְיוֹרְשׁוֹ – הַקָּדוֹשׁ בָּרוּךְ הוּא מָלֵא עָלָיו עֶבְרָה. כְּתִיב הָכָא: ״וְהַעֲבַרְתֶּם אֶת נַחֲלָתוֹ״, וּכְתִיב הָתָם: ״יוֹם עֶבְרָה הַיּוֹם הַהוּא״.
->
-> **Translation:** § The Gemara presents a related statement. **Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yoḥai:** Concerning **anyone who does not leave** behind **a son to inherit** from **him, the Holy One, Blessed be He, is filled with wrath [*evra*] toward him,** as **it is written here:** "If a man die, and he has no son, **then you shall pass his inheritance [*veha'avartem*]** to his daughter" (Numbers 27:8), **and it is written there: "That day is a day of wrath [*evra*]"** (Zephaniah 1:15). The words "*veha'avartem*" and "*evra*" share common root letters, whereby Rabbi Shimon ben Yoḥai interprets that God's wrath may be the result of the inheritance passing to a daughter rather than a son.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי: כֹּל שֶׁאֵינוֹ מַנִּיחַ בֵּן לְיוֹרְשׁוֹ – הַקָּדוֹשׁ בָּרוּךְ הוּא מָלֵא עָלָיו עֶבְרָה. כְּתִיב הָכָא: ״וְהַעֲבַרְתֶּם אֶת נַחֲלָתוֹ״, וּכְתִיב הָתָם: ״יוֹם עֶבְרָה הַיּוֹם הַהוּא״.
+> **Translation:** § The Gemara presents a related statement. **Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yoḥai:** Concerning **anyone who does not leave** behind **a son to inherit** from **him, the Holy One, Blessed be He, is filled with wrath [*evra*] toward him,** as **it is written here:** “If a man die, and he has no son, **then you shall pass his inheritance [*veha’avartem*]** to his daughter” (Numbers 27:8), **and it is written there: “That day is a day of wrath [*evra*]”** (Zephaniah 1:15). The words “*veha’avartem*” and “*evra*” share common root letters, whereby Rabbi Shimon ben Yoḥai interprets that God’s wrath may be the result of the inheritance passing to a daughter rather than a son.
 
 Rabbi Yochanan said in the name of Rabbi Shimon ben Yochai: *kol she'eino maniach ben leyoresho, HaKadosh Baruch Hu malei alav evrah* — whoever does not leave behind a son to inherit him, the Holy One, Blessed be He, is filled with wrath against that person. The Gemara derives this from the language of the *pesukim*: the word *havartem* — "you shall transfer" the *nachala* to his daughter — is read as *evrah*, wrath. And a further verse reinforces this: *asher ein chalifot lamo* — there is no substitute or exchange for him — meaning he has left no son who serves as his continuation, *velo yiru Elohim* — and they will not see God.
 
-This is a striking statement. There is an obvious tension: the person who died without a son presumably did not choose that fate. And if one views dying without a son as a mark of divine anger, it creates a troubling implication for those who mourn. Yet the Gemara's tone is not simply punitive; the language of *evrah* seems to be expressing how deeply disruptive — how contrary to the proper order of things — it is when there is no continuation of the person. In a profoundly patriarchal context, the absence of a son meant that the name, the property, and the identity of the father came to an end.
+It is worth pausing to note that the Gemara appears to be abstracting beyond the specific concern about tribal land. When the Torah used *havartem* in the context of Benot Tzelofchad, the word carried the concrete sense of property passing out of a tribe. Here, however, the teaching seems to generalize that same language into a broader statement about continuation and identity — it is not limited to the Land of Israel or to the disruption of tribal inheritance. The disruption being lamented is something more personal: the sense that this person has no one to carry him forward.
+
+This is a striking statement. There is an obvious tension: the person who died without a son presumably did not choose that fate. And if one views dying without a son as a mark of divine anger, it creates a troubling implication for those who mourn. One might ask whether the causality runs the other way — whether the absence of a son is being described as a *sign* of divine anger rather than its object, something like a *siman* that God's favor was withheld. But even that framing offers little comfort: it would mean that the bereaved are left not only without an heir but with the additional burden of being perceived as sinners. The Gemara's tone is not simply punitive; the language of *evrah* seems to be expressing how deeply disruptive — how contrary to the proper order of things — it is when there is no continuation of the person. In a profoundly patriarchal context, the absence of a son meant that the name, the property, and the identity of the father came to an end. That this sentiment carries some echo even today — in the weight people still place on a family name passing forward — suggests the feeling the Gemara is capturing is not entirely foreign, even if its framing is jarring.
 
 ### Son vs. Student Dispute
 
-> **Hebrew/Aramaic:** ״אֲשֶׁר אֵין חֲלִיפוֹת לָמוֹ וְלֹא יָרְאוּ אֱלֹהִים״ – רַבִּי יוֹחָנָן וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי, חַד אָמַר: כֹּל שֶׁאֵינוֹ מַנִּיחַ בֵּן. וְחַד אָמַר: כֹּל שֶׁאֵינוֹ מַנִּיחַ תַּלְמִיד.
->
-> **Translation:** The Gemara presents a related statement. Concerning the verse: "God shall hear, and humble them, even He that is enthroned of old, Selah; **those that have no exchange, and fear not God"** (Psalms 55:20), **Rabbi Yoḥanan and Rabbi Yehoshua ben Levi** each interpret the verse in a different manner. **One says** that this is a reference to **anyone who does not leave** behind **a son** to inherit from him, as he does not leave anyone to serve in exchange, i.e., as a replacement, for him; **and one says** that this is a reference to **anyone who does not leave** behind **a student** to serve in exchange for him.
-
 The Gemara records a dispute between Rav Yochanan and Rabbi Yehoshua ben Levi about the precise meaning of this teaching. *Chad amar*: it refers to one who does not leave behind a son — a biological heir. *Vechad amar*: it refers to one who does not leave behind a *talmid* — a student, a spiritual heir. The concept of the *talmid* as a form of son is well-established: *velimadetem et beneichem* — *beneichem elu talmideichem* — "your sons" refers to your students. A *rav* functions as a father and a student as a son, and there are practical *halachot* that reflect this, such as the principle that returning a lost object to one's *rav* takes precedence over returning it to one's father.
 
-The Gemara then attempts to determine which sage held which position: *tistayeim* — let us conclude — that Rav Yochanan is the one who says the teaching refers to a *talmid*.
+The Gemara then attempts to determine which sage held which position: *tistayeim* — let us conclude — that Rav Yochanan is the one who says the teaching refers to a *talmid*. The proof rests on both the fact that Rav Yochanan himself left no surviving sons and, crucially, that he actively used this circumstance to console mourners who had lost a child — a point the *Rashbam* emphasizes: it is not simply that the tragedy befell him, but that he deployed it as a source of comfort. Had Rav Yochanan been the one who taught that God is filled with wrath at a person who leaves no son, he could hardly have used his own sonless state to console bereaved parents — that would compound their grief rather than relieve it. The two positions are therefore incompatible in the same person, and the inference follows that Rav Yochanan must be the one who locates divine anger at the failure to leave a *talmid*, not a biological son — a resolution the Gemara will then press further to untangle an apparent contradiction within Rav Yochanan himself.
+
+> **Hebrew/Aramaic:** ״אֲשֶׁר אֵין חֲלִיפוֹת לָמוֹ וְלֹא יָרְאוּ אֱלֹהִים״ – רַבִּי יוֹחָנָן וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי, חַד אָמַר: כֹּל שֶׁאֵינוֹ מַנִּיחַ בֵּן. וְחַד אָמַר: כֹּל שֶׁאֵינוֹ מַנִּיחַ תַּלְמִיד.
+> **Translation:** The Gemara presents a related statement. Concerning the verse: “God shall hear, and humble them, even He that is enthroned of old, Selah; **those that have no exchange, and fear not God”** (Psalms 55:20), **Rabbi Yoḥanan and Rabbi Yehoshua ben Levi** each interpret the verse in a different manner. **One says** that this is a reference to **anyone who does not leave** behind **a son** to inherit from him, as he does not leave anyone to serve in exchange, i.e., as a replacement, for him; **and one says** that this is a reference to **anyone who does not leave** behind **a student** to serve in exchange for him.
+
+> **Hebrew/Aramaic:** תִּסְתַּיֵּים רַבִּי יוֹחָנָן דְּאָמַר תַּלְמִיד – דְּאָמַר רַבִּי יוֹחָנָן: דֵּין גַּרְמֵיהּ דַּעֲשִׂירָאָה בִּיר. תִּסְתַּיֵּים דְּרַבִּי יוֹחָנָן דְּאָמַר תַּלְמִיד.
+> **Translation:** The Gemara suggests: **It may be concluded** that it was **Rabbi Yoḥanan who says** that the verse is referring to one who does not leave behind **a student, for Rabbi Yoḥanan,** whose ten sons died in his lifetime, **said** to those he would console: **This is the bone of my tenth son,** to encourage them not to succumb to their sorrow. Since Rabbi Yoḥanan knew that he would not leave any sons to inherit his property, it is reasonable to assume that he interpreted the verse as meaning that God is full of wrath toward one who does not leave behind a student. The Gemara comments that **it may be concluded that** it was **Rabbi Yoḥanan who says** that the verse is referring to one who does not leave behind **a student.**
+
+> **Hebrew/Aramaic:** וּמִדְּרַבִּי יוֹחָנָן אָמַר תַּלְמִיד – רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי אָמַר בֵּן?!
+> **Translation:** The Gemara notes: **And from** this, **that Rabbi Yoḥanan** is the one who **says** that the verse is referring to one who does not leave behind **a student,** it follows that **Rabbi Yehoshua ben Levi says** the verse is referring to one who does not leave behind **a son.**
+
+> **Hebrew/Aramaic:** וְהָא רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי לָא אָזֵיל לְבֵי טַמְיָא אֶלָּא לְבֵי מַאן דְּשָׁכֵיב בְּלָא בְּנֵי, דִּכְתִיב: ״בְּכוּ בָכֹה לַהֹלֵךְ״, וְאָמַר רַב יְהוּדָה אָמַר רַב: לַהוֹלֵךְ בְּלֹא בֵּן זָכָר! אֶלָּא רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי הוּא דְּאָמַר תַּלְמִיד.
+> **Translation:** The Gemara asks: **But** this cannot be, as **Rabbi Yehoshua ben Levi would not go to a house of mourning [*bei tamya*]** to console the bereaved so as not to interrupt his studies, **except to the house of one who died without any sons, as it is written:** “Weep not for the dead, neither bemoan him; but **weep sore for him that goes away”** (Jeremiah 22:10), **and Rabbi Yehuda says** that **Rav says** that the verse is referring **to** one who **departs** from this world **without** leaving behind **a male child.** From the fact that Rabbi Yehoshua ben Levi would console specifically one who died without leaving a son, it is apparent that he does not hold that God is full of wrath toward such an individual. **Rather,** it must be that **Rabbi Yehoshua ben Levi is** the Sage **who says** that the verse is referring to one who does not leave behind **a student.**
+
+> **Hebrew/Aramaic:** וּמִדְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי הוּא דְּאָמַר תַּלְמִיד – רַבִּי יוֹחָנָן אָמַר בֵּן?!
+> **Translation:** The Gemara notes: **And from** this **that Rabbi Yehoshua ben Levi is** the one **who says** that the verse is referring to one who does not leave behind **a student,** it follows that **Rabbi Yoḥanan says** it is referring to one who does not leave behind **a son.**
+
+> **Hebrew/Aramaic:** קַשְׁיָא דְּרַבִּי יוֹחָנָן אַדְּרַבִּי יוֹחָנָן! לָא קַשְׁיָא, הָא דִידֵיהּ, הָא דְרַבֵּיהּ.
+> **Translation:** The Gemara asks: This poses **a difficulty** from one statement **of Rabbi Yoḥanan,** that the verse is referring to one who does not leave behind a son, **to** another statement **of Rabbi Yoḥanan,** as he would say: This is the bone of my tenth son. The Gemara answers: It is **not difficult: This** statement, with regard to the bone of his son, **is his,** while **that** statement, with regard to the verse, **is his teacher’s.**
 
 ### Resolution & Rav Yochanan
 
-> **Hebrew/Aramaic:** תִּסְתַּיֵּים רַבִּי יוֹחָנָן דְּאָמַר תַּלְמִיד – דְּאָמַר רַבִּי יוֹחָנָן: דֵּין גַּרְמֵיהּ דַּעֲשִׂירָאָה בִּיר. תִּסְתַּיֵּים דְּרַבִּי יוֹחָנָן דְּאָמַר תַּלְמִיד.
->
-> **Translation:** The Gemara suggests: **It may be concluded** that it was **Rabbi Yoḥanan who says** that the verse is referring to one who does not leave behind **a student, for Rabbi Yoḥanan,** whose ten sons died in his lifetime, **said** to those he would console: **This is the bone of my tenth son,** to encourage them not to succumb to their sorrow. Since Rabbi Yoḥanan knew that he would not leave any sons to inherit his property, it is reasonable to assume that he interpreted the verse as meaning that God is full of wrath toward one who does not leave behind a student. The Gemara comments that **it may be concluded that** it was **Rabbi Yoḥanan who says** that the verse is referring to one who does not leave behind **a student.**
 
 The proof is from a well-known story in *Berachot*: Rav Yochanan would carry with him a small bone — the *Rashbam* identifies it as a tooth, since a detached tooth does not convey *tumah*, which would have been a concern for *kohanim* — and would use it to console those who had lost a child. He would say: know how much I myself have suffered — this is the bone of my tenth son who died. All ten of Rav Yochanan's sons predeceased him.
 
@@ -83,15 +96,18 @@ The conclusion is that Rabbi Shimon ben Yochai held that God is angry at one who
 
 ## Midrash: David & Yoav
 
+
+
 ### David & Yoav Drasha
 
 > **Hebrew/Aramaic:** (סִימָן: הֲדַד, עָנִי וְחָכָם.)
->
-> דָּרַשׁ רַבִּי פִּנְחָס בֶּן חָמָא, מַאי דִּכְתִיב: ״וַהֲדַד שָׁמַע בְּמִצְרַיִם כִּי שָׁכַב דָּוִד עִם אֲבוֹתָיו, וְכִי מֵת יוֹאָב שַׂר הַצָּבָא״? מִפְּנֵי מָה בְּדָוִד נֶאֶמְרָה בּוֹ ״שְׁכִיבָה״, וּבְיוֹאָב נֶאֶמְרָה בּוֹ ״מִיתָה״? דָּוִד, שֶׁהִנִּיחַ בֵּן – נֶאֶמְרָה בּוֹ שְׁכִיבָה. יוֹאָב, שֶׁלֹּא הִנִּיחַ בֵּן – נֶאֶמְרָה בּוֹ מִיתָה.
->
 > **Translation:** § The Gemara continues with three homiletic interpretations by Rabbi Pineḥas ben Ḥama, and provides **a mnemonic** to facilitate the memorization of these expositions: **Hadad, poverty, and sage.**
->
-> The Gemara presents the first homiletic interpretation: **Rabbi Pineḥas ben Ḥama interpreted** a verse **homiletically: What** is the meaning of that **which is written: "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead"** (I Kings 11:21)? **For what** reason is it that **in** the case of King **David, sleeping was stated with regard to his** demise, **and in** the case of **Joab, death was stated with regard to his** demise? He answers: Concerning King **David, who left a son** behind, **sleeping was stated with regard to his** demise, as it was not a complete death, while concerning **Joab, who did not leave a son** behind, **death was stated with regard to his** demise, as he left no son to succeed him.
+
+> **Hebrew/Aramaic:** דָּרַשׁ רַבִּי פִּנְחָס בֶּן חָמָא, מַאי דִּכְתִיב: ״וַהֲדַד שָׁמַע בְּמִצְרַיִם כִּי שָׁכַב דָּוִד עִם אֲבוֹתָיו, וְכִי מֵת יוֹאָב שַׂר הַצָּבָא״? מִפְּנֵי מָה בְּדָוִד נֶאֶמְרָה בּוֹ ״שְׁכִיבָה״, וּבְיוֹאָב נֶאֶמְרָה בּוֹ ״מִיתָה״? דָּוִד, שֶׁהִנִּיחַ בֵּן – נֶאֶמְרָה בּוֹ שְׁכִיבָה. יוֹאָב, שֶׁלֹּא הִנִּיחַ בֵּן – נֶאֶמְרָה בּוֹ מִיתָה.
+> **Translation:** The Gemara presents the first homiletic interpretation: **Rabbi Pineḥas ben Ḥama interpreted** a verse **homiletically: What** is the meaning of that **which is written: “And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead”** (I Kings 11:21)? **For what** reason is it that **in** the case of King **David, sleeping was stated with regard to his** demise, **and in** the case of **Joab, death was stated with regard to his** demise? He answers: Concerning King **David, who left a son** behind, **sleeping was stated with regard to his** demise, as it was not a complete death, while concerning **Joab, who did not leave a son** behind, **death was stated with regard to his** demise, as he left no son to succeed him.
+
+> **Hebrew/Aramaic:** וְיוֹאָב לֹא הִנִּיחַ בֵּן?! וְהָכְתִיב: ״מִבְּנֵי יוֹאָב – עֹבַדְיָה בֶּן יְחִיאֵל״! אֶלָּא: דָּוִד, שֶׁהִנִּיחַ בֵּן כְּמוֹתוֹ – נֶאֶמְרָה בּוֹ ״שְׁכִיבָה״. יוֹאָב, שֶׁלֹּא הִנִּיחַ בֵּן כְּמוֹתוֹ – נֶאֶמְרָה בּוֹ ״מִיתָה״.
+> **Translation:** The Gemara asks: **And** is it so that **Joab did not leave a son** behind; **but isn’t it written: “Of the sons of Joab: Obadiah, son of Jehiel”** (Ezra 8:9)? **Rather,** concerning King **David, who left a son as** great as **himself, sleeping was stated with regard to his** demise, but concerning **Joab, who did not leave a son as** great as **himself, death was stated with regard to his** demise.
 
 The Gemara turns from *halacha* to *aggadata*, though still within the thematic orbit of leaving behind an heir. Rabbi Pinchas ben Chama expounded the verse from *Melachim*: *V'Hadad shama b'Mitzrayim ki shakhav David im avotav* — Hadad heard in Egypt that David had lain with his fathers — *v'ki met Yoav sar hatzava* — and that Yoav the general had died. The *drasha* notes an asymmetry in language: regarding David it says *shakhav* — he lay down — a softer, more euphemistic expression; regarding Yoav it says *met* — he died, plainly. Why the difference?
 
@@ -101,23 +117,17 @@ The Gemara immediately challenges this: did Yoav not leave a son? Is it not writ
 
 ### Ben Kamoso Concept
 
-> **Hebrew/Aramaic:** וְיוֹאָב לֹא הִנִּיחַ בֵּן?! וְהָכְתִיב: ״מִבְּנֵי יוֹאָב – עֹבַדְיָה בֶּן יְחִיאֵל״! אֶלָּא: דָּוִד, שֶׁהִנִּיחַ בֵּן כְּמוֹתוֹ – נֶאֶמְרָה בּוֹ ״שְׁכִיבָה״. יוֹאָב, שֶׁלֹּא הִנִּיחַ בֵּן כְּמוֹתוֹ – נֶאֶמְרָה בּוֹ ״מִיתָה״.
->
-> **Translation:** The Gemara asks: **And** is it so that **Joab did not leave a son** behind; **but isn't it written: "Of the sons of Joab: Obadiah, son of Jehiel"** (Ezra 8:9)? **Rather,** concerning King **David, who left a son as** great as **himself, sleeping was stated with regard to his** demise, but concerning **Joab, who did not leave a son as** great as **himself, death was stated with regard to his** demise.
-
 The resolution is: *ela David she'hini'ach ben kamoso ne'emar bo shkhivah* — it is not merely leaving a biological son, but leaving *a son like oneself* — *ben kamoso* — a son who embodies one's values and continues one's spiritual legacy. David left a son who was in some meaningful sense a continuation of what David stood for. Yoav had biological descendants but not a *ben kamoso*, and so the text uses the language of death.
 
 This formulation elegantly synthesizes the two sides of the earlier dispute. A *ben kamoso* is simultaneously a biological heir and a spiritual one — the one who continues the name, the values, and the path of the father. The earlier discussion about *talmid* as heir and the concept of *ולימדתם את בניכם — בניכם אלו תלמידיכם* both converge here. It is not enough to have sired a son, and it is not enough to have taught a student; the ideal is a son who is truly like you in what matters, who will carry forward both your identity and your substance.
 
 ### Poverty & Wisdom
 
-> **Hebrew/Aramaic:** דָּרַשׁ רַבִּי פִּנְחָס בֶּן חָמָא: קָשָׁה עֲנִיּוּת בְּתוֹךְ בֵּיתוֹ שֶׁל אָדָם, יוֹתֵר מֵחֲמִשִּׁים מַכּוֹת – שֶׁנֶּאֱמַר: ״חׇנֻּנִי חׇנֻּנִי אַתֶּם רֵעָי, כִּי יַד אֱלוֹהַּ נָגְעָה בִּי״, וְקָא אָמְרִי לֵיהּ חַבְרֵיהּ: ״הִשָּׁמֶר אַל תֵּפֶן אֶל אָוֶן, כִּי עַל זֶה בָּחַרְתָּ מֵעֹנִי״.
->
-> דָּרַשׁ רַבִּי פִּנְחָס בַּר חָמָא: כֹּל שֶׁיֵּשׁ לוֹ חוֹלֶה בְּתוֹךְ בֵּיתוֹ, יֵלֵךְ אֵצֶל חָכָם וִיבַקֵּשׁ עָלָיו רַחֲמִים – שֶׁנֶּאֱמַר: ״חֲמַת מֶלֶךְ מַלְאֲכֵי מָוֶת, וְאִישׁ חָכָם יְכַפְּרֶנָּה״.
->
-> **Translation:** The Gemara presents the second homiletic interpretation: **Rabbi Pineḥas ben Ḥama interpreted** a verse **homiletically,** and derived that **poverty in a person's household is more difficult than fifty plagues, as it is stated: "Have pity upon me, have pity upon me, O you my friends; for the hand of God has touched me"** (Job 19:21), **and his friends were saying to him: "Take heed, regard not iniquity; for this have you chosen rather than poverty"** (Job 36:21). Job, who suffered many plagues, was told by his friends that his suffering was preferable to poverty.
->
-> The Gemara presents the third homiletic interpretation: **Rabbi Pineḥas bar Ḥama interpreted** a verse **homiletically: Anyone who has a sick person in his home should go to a sage, and** the sage will **ask** for **mercy on** the sick person's behalf, **as it is stated: "The wrath of a king is as messengers of death; but a wise man will pacify it"** (Proverbs 16:14).
+> **Hebrew/Aramaic:** דָּרַשׁ רַבִּי פִּנְחָס בֶּן חָמָא: קָשָׁה עֲנִיּוּת בְּתוֹךְ בֵּיתוֹ שֶׁל אָדָם, יוֹתֵר מֵחֲמִשִּׁים מַכּוֹת – שֶׁנֶּאֱמַר: ״חׇנֻּנִי חׇנֻּנִי אַתֶּם רֵעָי, כִּי יַד אֱלוֹהַּ נָגְעָה בִּי״, וְקָא אָמְרִי לֵיהּ חַבְרֵיהּ: ״הִשָּׁמֶר אַל תֵּפֶן אֶל אָוֶן, כִּי עַל זֶה בָּחַרְתָּ מֵעֹנִי״.
+> **Translation:** The Gemara presents the second homiletic interpretation: **Rabbi Pineḥas ben Ḥama interpreted** a verse **homiletically,** and derived that **poverty in a person’s household is more difficult than fifty plagues, as it is stated: “Have pity upon me, have pity upon me, O you my friends; for the hand of God has touched me”** (Job 19:21), **and his friends were saying to him: “Take heed, regard not iniquity; for this have you chosen rather than poverty”** (Job 36:21). Job, who suffered many plagues, was told by his friends that his suffering was preferable to poverty.
+
+> **Hebrew/Aramaic:** דָּרַשׁ רַבִּי פִּנְחָס בַּר חָמָא: כֹּל שֶׁיֵּשׁ לוֹ חוֹלֶה בְּתוֹךְ בֵּיתוֹ, יֵלֵךְ אֵצֶל חָכָם וִיבַקֵּשׁ עָלָיו רַחֲמִים – שֶׁנֶּאֱמַר: ״חֲמַת מֶלֶךְ מַלְאֲכֵי מָוֶת, וְאִישׁ חָכָם יְכַפְּרֶנָּה״.
+> **Translation:** The Gemara presents the third homiletic interpretation: **Rabbi Pineḥas bar Ḥama interpreted** a verse **homiletically: Anyone who has a sick person in his home should go to a sage, and** the sage will **ask** for **mercy on** the sick person’s behalf, **as it is stated: “The wrath of a king is as messengers of death; but a wise man will pacify it”** (Proverbs 16:14).
 
 Rabbi Pinchas bar Chama continues with additional *drashos*. He taught: *kashe aniyut b'soch beiso shel adam p'amim yoter mikhamishim makah* — poverty in a person's home is more difficult than fifty plagues. The derivation follows the method familiar from the *Haggadah*: the verse in *Iyov* says *ki yad Eloh nig'ah bi* — the hand of God has struck me — and since a hand is equivalent to five times what a finger (*etzba*) represents, and *etzba* equals ten plagues, therefore a *yad* equals fifty. His companions then say to him: *ki al zeh bacharta mei'oni* — this is preferable to poverty — meaning even all that Job suffered was considered preferable to destitution.
 
@@ -127,11 +137,9 @@ Rabbi Pinchas bar Chama also taught: if there is a sick person in one's house wh
 
 ## General Inheritance Rules
 
-### Son, Daughter, Father
 
-> **Hebrew/Aramaic:** זֶה הַכְּלָל: כׇּל הַקּוֹדֵם בַּנַּחֲלָה – יוֹצְאֵי יְרֵכוֹ קוֹדְמִין, וְהָאָב קוֹדֵם לְכׇל יוֹצְאֵי יְרֵכוֹ. בָּעֵי רָמֵי בַּר חָמָא: אֲבִי הָאָב וַאֲחֵי הָאָב – כְּגוֹן אַבְרָהָם וְיִשְׁמָעֵאל בְּנִכְסֵי עֵשָׂו, אֵיזֶה מֵהֶן קוֹדֵם? אָמַר רָבָא, תָּא שְׁמַע: הָאָב קוֹדֵם לְכׇל יוֹצְאֵי יְרֵכוֹ. וְרָמֵי בַּר חָמָא –
->
-> **Translation:** § The mishna teaches that **this is the principle:** Concerning **anyone who precedes** another **with regard to inheritance, his descendants precede** the other as well, **and a father precedes all of his descendants. Rami bar Ḥama raises a dilemma:** With regard to the claim of **a father of the** deceased's **father and** the claim of **the brother of the** deceased's **father, such as** the claims of **Abraham and Ishmael to the property of Esau,** who was Abraham's grandson and Ishmael's nephew, **which of them precedes** the other and inherits the property? **Rava said: Come** and **hear** a proof from the mishna: **A father precedes all of his descendants,** therefore, Abraham would inherit, as Ishmael was his descendant. The Gemara asks: **And** why did **Rami bar Ḥama** have a dilemma; was he not aware of the statement of the mishna?
+
+### Son, Daughter, Father
 
 The Gemara now returns to the substance of the *mishnah* and its general formulation of inheritance order. The *klal* stated is: *kol hakodem benachala, yotzei yerecho kodmin, v'av kodem lechol yotzei yerecho* — whoever takes precedence in inheritance, his descendants take precedence before him; and the father takes precedence over all of his descendants.
 
@@ -147,19 +155,32 @@ At every level, males are preferred over females. The Gemara establishes this th
 
 The concrete case is *bnei achot velo bnot achot* — nephews inherit before nieces. One might have thought that since they are all standing in the same position — children of the deceased's sister, for instance — sex would not be a differentiating factor. But the Gemara says no: the preference for males applies at every level of descent, by analogy to the primary level.
 
-This means that, in a case where a man dies and the inheritance passes through multiple generations, a great-great-granddaughter in the male line may inherit together with a surviving daughter of the deceased — or even before other women who are closer in generation — because she is taking her male ancestor's place, and that place carries priority over the female line at the same or even higher generational level. The *Rashbam* states this explicitly: *kach seder nachala* — this is the order of inheritance. The rule that males precede females is applied at every node in the descent, not only at the top.
+This means that, in a case where a man dies and the inheritance passes through multiple generations, a great-great-granddaughter in the male line may inherit together with a surviving daughter of the deceased — or even before other women who are closer in generation — because she is taking her male ancestor's place, and that place carries priority over the female line at the same or even higher generational level. What is more, the daughter herself may be cut out entirely in such a scenario: if the deceased had a son and a daughter, and the son predeceased him but left descendants, one first identifies the son as the rightful heir at that level and then follows his line downward before moving to the daughter at all. The result is that a great-great-granddaughter through the son can inherit alongside the daughter — or instead of her — even though the daughter is a generation closer to the deceased. The daughter's exclusion in favor of the son's distant descendants is not an anomaly but a direct consequence of always resolving priority by sex first, and only then descending through the preferred line. The *Rashbam* states this explicitly: *kach seder nachala* — this is the order of inheritance. The rule that males precede females is applied at every node in the descent, not only at the top.
 
 ---
 
 ## Grandfather vs. Uncle
 
+
+
+[DAF:116b]
 ### Avi ha'av Question
 
 Rami bar Chama posed a question: *avi ha'av ve'achei ha'av* — the grandfather versus the paternal uncles. He framed it using the biblical cast: *Avraham veYishmael benichsei Eisav* — Avraham and Yishmael with respect to the property of Eisav. Eisav is dead, Yitzchak is dead, Yaakov is dead. Who inherits? Does it go to Avraham, Eisav's grandfather, or to Yishmael, Eisav's uncle?
 
 The question presupposes that Eisav had no children and no direct descendants, so the inheritance must move elsewhere on the chart. Once we are past the direct descendants of the deceased, does the principle *av kodem lechol yotzei yerecho* — the father takes precedence over all of his descendants — mean that the grandfather takes precedence even over the uncle?
 
+> **Hebrew/Aramaic:** זֶה הַכְּלָל: כׇּל הַקּוֹדֵם בַּנַּחֲלָה – יוֹצְאֵי יְרֵכוֹ קוֹדְמִין, וְהָאָב קוֹדֵם לְכׇל יוֹצְאֵי יְרֵכוֹ. בָּעֵי רָמֵי בַּר חָמָא: אֲבִי הָאָב וַאֲחֵי הָאָב – כְּגוֹן אַבְרָהָם וְיִשְׁמָעֵאל בְּנִכְסֵי עֵשָׂו, אֵיזֶה מֵהֶן קוֹדֵם? אָמַר רָבָא, תָּא שְׁמַע: הָאָב קוֹדֵם לְכׇל יוֹצְאֵי יְרֵכוֹ. וְרָמֵי בַּר חָמָא –
+> **Translation:** § The mishna teaches that **this is the principle:** Concerning **anyone who precedes** another **with regard to inheritance, his descendants precede** the other as well, **and a father precedes all of his descendants. Rami bar Ḥama raises a dilemma:** With regard to the claim of **a father of the** deceased’s **father and** the claim of **the brother of the** deceased’s **father, such as** the claims of **Abraham and Ishmael to the property of Esau,** who was Abraham’s grandson and Ishmael’s nephew, **which of them precedes** the other and inherits the property? **Rava said: Come** and **hear** a proof from the mishna: **A father precedes all of his descendants,** therefore, Abraham would inherit, as Ishmael was his descendant. The Gemara asks: **And** why did **Rami bar Ḥama** have a dilemma; was he not aware of the statement of the mishna?
+
+> **Hebrew/Aramaic:** אַגַּב חוּרְפֵּיהּ לָא עַיֵּין בָּהּ.
+> **Translation:** The Gemara answers: **Due to his keen** mind, **he did not analyze** the mishna carefully.
+
+> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: אֲבִי הָאָב וְאָחִיו – כְּגוֹן אַבְרָהָם וְיַעֲקֹב בְּנִכְסֵי עֵשָׂו, אֵיזֶה מֵהֶן קוֹדֵם? אֲמַר רָבָא, תָּא שְׁמַע: הָאָב קוֹדֵם לְכׇל יוֹצְאֵי יְרֵיכוֹ. וְרָמֵי בַּר חָמָא – יוֹצְאֵי יְרֵיכוֹ שֶׁלּוֹ, וְלֹא יוֹצְאֵי יְרֵיכוֹ שֶׁל בְּנוֹ.
+> **Translation:** **Rami bar Ḥama raised a dilemma:** With regard to the claim of **a father of the** deceased’s **father and** the claim of the deceased’s **brother, such as** the claims of **Abraham and Jacob to the property of Esau,** who was Abraham’s grandson and Jacob’s brother, **which of them precedes** the other and inherits the property? **Rava said: Come** and **hear** a proof from the mishna: **A father precedes all of his descendants,** therefore, Abraham would inherit, as Jacob was his descendant. The Gemara asks: **And** why did **Rami bar Ḥama** have a dilemma; presumably, he was aware of the statement of the mishna? The Gemara answers: Rami bar Ḥama understood that the mishna teaches that a father **precedes** only **his own** immediate **descendants, but not the descendants of his son.**
+
 ### Rava vs. Rami Answer
+
 
 Rava initially answered: *ta shma — ha'av kodem lechol yotzei yerecho* — the father takes precedence over all his descendants. He read this phrase to mean that Avraham, as grandfather, would come before Yishmael. On a literal reading, *av* who is higher in the chart should precede any of his own descendants — and Yishmael is after all a descendant of Avraham.
 
@@ -167,16 +188,10 @@ Rami bar Chama then refined the question: *Avraham veYaakov benichsei Eisav* —
 
 If *av kodem lechol yotzei yerecho* means the father precedes *all* descendants at every remove, it would produce an absurd result: Eisav's own children could never inherit before Yitzchak, since Yitzchak — as father — would always come first. But clearly the children of the deceased are the *first* heirs. The phrase cannot be read that absolutely.
 
-[DAF:116b]
 ### Direct Descendants First
 
-> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: אֲבִי הָאָב וְאָחִיו – כְּגוֹן אַבְרָהָם וְיַעֲקֹב בְּנִכְסֵי עֵשָׂו, אֵיזֶה מֵהֶן קוֹדֵם? אֲמַר רָבָא, תָּא שְׁמַע: הָאָב קוֹדֵם לְכׇל יוֹצְאֵי יְרֵיכוֹ. וְרָמֵי בַּר חָמָא – יוֹצְאֵי יְרֵיכוֹ שֶׁלּוֹ, וְלֹא יוֹצְאֵי יְרֵיכוֹ שֶׁל בְּנוֹ.
->
-> הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי: זֶה הַכְּלָל, כׇּל הַקּוֹדֵם בַּנַּחֲלָה – יוֹצְאֵי יְרֵיכוֹ קוֹדְמִין; וְאִילּוּ אִיתֵיהּ לְיִצְחָק – יִצְחָק קוֹדֵם, הַשְׁתָּא נָמֵי דְּלֵיתֵיהּ יִצְחָק – יַעֲקֹב קוֹדֵם; שְׁמַע מִינַּהּ.
->
-> **Translation:** **Rami bar Ḥama raised a dilemma:** With regard to the claim of **a father of the** deceased's **father and** the claim of the deceased's **brother, such as** the claims of **Abraham and Jacob to the property of Esau,** who was Abraham's grandson and Jacob's brother, **which of them precedes** the other and inherits the property? **Rava said: Come** and **hear** a proof from the mishna: **A father precedes all of his descendants,** therefore, Abraham would inherit, as Jacob was his descendant. The Gemara asks: **And** why did **Rami bar Ḥama** have a dilemma; presumably, he was aware of the statement of the mishna? The Gemara answers: Rami bar Ḥama understood that the mishna teaches that a father **precedes** only **his own** immediate **descendants, but not the descendants of his son.**
->
-> The Gemara notes that **so too, it is reasonable** to understand the mishna in that manner, **as it teaches: This is the principle: Anyone who precedes** another **with regard to inheritance, his descendants precede** the other as well. **And if Isaac were** alive, **Isaac** would **precede** Abraham and inherit Esau's property. **Now, also, when Isaac is not** alive, **Jacob** should **precede** Abraham, because of the principle that the descendants of one who precedes another with regard to inheritance also precede the other. The Gemara affirms: **Conclude from** this clause of the mishna that the brother of the deceased precedes the grandfather.
+> **Hebrew/Aramaic:** הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי: זֶה הַכְּלָל, כׇּל הַקּוֹדֵם בַּנַּחֲלָה – יוֹצְאֵי יְרֵיכוֹ קוֹדְמִין; וְאִילּוּ אִיתֵיהּ לְיִצְחָק – יִצְחָק קוֹדֵם, הַשְׁתָּא נָמֵי דְּלֵיתֵיהּ יִצְחָק – יַעֲקֹב קוֹדֵם; שְׁמַע מִינַּהּ.
+> **Translation:** The Gemara notes that **so too, it is reasonable** to understand the mishna in that manner, **as it teaches: This is the principle: Anyone who precedes** another **with regard to inheritance, his descendants precede** the other as well. **And if Isaac were** alive, **Isaac** would **precede** Abraham and inherit Esau’s property. **Now, also, when Isaac is not** alive, **Jacob** should **precede** Abraham, because of the principle that the descendants of one who precedes another with regard to inheritance also precede the other. The Gemara affirms: **Conclude from** this clause of the mishna that the brother of the deceased precedes the grandfather.
 
 Rami bar Chama therefore explains: *yotzei yerecho shelo velo yotzei yerecho shel beno* — *yotzei yerecho* means only the father's own first-generation descendants, not the descendants of his son. The father comes before his own children — that is the content of *av kodem lechol yotzei yerecho*. But the father does not come before his son's descendants.
 
@@ -189,6 +204,8 @@ Interestingly, the underlying structure here parallels the logic of *yibum*: the
 ---
 
 ## Rules Summary & Examples
+
+
 
 ### Three Essential Rules
 
@@ -210,13 +227,14 @@ In this particular case, however, because the community had imposed the renuncia
 
 ---
 
-## Tzelofchad's Three Porti…
+## Tzelofchad's Daughters
+
+
 
 ### Yotzei Mitzrayim Division
 
-> **Hebrew/Aramaic:** מַתְנִי׳ בְּנוֹת צְלָפְחָד נָטְלוּ שְׁלֹשָׁה חֲלָקִים בַּנַּחֲלָה: חֵלֶק אֲבִיהֶן – שֶׁהָיָה עִם יוֹצְאֵי מִצְרַיִם, וְחֶלְקוֹ עִם אֶחָיו בְּנִכְסֵי חֵפֶר, וְשֶׁהָיָה בְּכוֹר נוֹטֵל שְׁנֵי חֲלָקִים.
->
-> **Translation:** MISHNA: **Zelophehad's daughters took three portions** of land **in** the **inheritance** of Eretz Yisrael: **Their father's portion** that he received **because he was among those who left Egypt; and his portion** that he received **with his brothers in** the **property of Hepher,** their father; **and** an additional portion that he received from Hepher **because he was a firstborn,** and a firstborn **takes two portions** of inheritance from his father.
+> **Hebrew/Aramaic:** מַתְנִי׳ בְּנוֹת צְלָפְחָד נָטְלוּ שְׁלֹשָׁה חֲלָקִים בַּנַּחֲלָה: חֵלֶק אֲבִיהֶן – שֶׁהָיָה עִם יוֹצְאֵי מִצְרַיִם, וְחֶלְקוֹ עִם אֶחָיו בְּנִכְסֵי חֵפֶר, וְשֶׁהָיָה בְּכוֹר נוֹטֵל שְׁנֵי חֲלָקִים.
+> **Translation:** MISHNA: **Zelophehad’s daughters took three portions** of land **in** the **inheritance** of Eretz Yisrael: **Their father’s portion** that he received **because he was among those who left Egypt; and his portion** that he received **with his brothers in** the **property of Hepher,** their father; **and** an additional portion that he received from Hepher **because he was a firstborn,** and a firstborn **takes two portions** of inheritance from his father.
 
 The *mishnah* states: *Bnot Tzelofchad natlu gimel chalakim benachala* — the daughters of Tzelofchad received three portions in the inheritance. To understand why, the *mishnah* invokes the first of several key principles: *leyotzei mitzrayim nechlekah ha'aretz* — the land of Israel was divided according to those who left Egypt, not according to those who entered the land.
 

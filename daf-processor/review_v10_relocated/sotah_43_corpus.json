@@ -1,0 +1,406 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Midian War Example",
+    "candidates": [
+      "Priest & Ark",
+      "Rashi on Halicha",
+      "Midian War Example",
+      "Pinchas Genealogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rashi on Halicha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the divine name resting in the Ark as the reason for 'haholeich,' which matches the 'Rashi on Halicha' prose exactly.",
+      "second_heading": "Midian War Example",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Midian war proof-text with identification of Sanhedrin, Pinchas, Ark, and shofrot, which matches the 'Midian War Example' prose exactly and is the current placement.",
+      "current_heading": "Midian War Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Pinchas Genealogy",
+    "candidates": [
+      "Pinchas Genealogy",
+      "Three Categories",
+      "House Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Pinchas's genealogy \u2014 his descent from Joseph and/or Yitro via the word 'Putiel' \u2014 which is precisely what the 'Pinchas Genealogy' prose section covers in detail.",
+      "chosen_heading": "Pinchas Genealogy",
+      "current_heading": "Pinchas Genealogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "House Exemption",
+    "candidates": [
+      "Three Categories",
+      "House Exemption",
+      "Vineyard Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna that lists the types of structures (storehouse, barn, shed, warehouse) and the modes of acquisition (building, purchasing, inheriting, receiving as gift) that qualify for the house exemption \u2014 exactly what the 'House Exemption' prose describes.",
+      "chosen_heading": "House Exemption",
+      "current_heading": "House Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Vineyard Exemption",
+    "candidates": [
+      "Vineyard Exemption",
+      "Betrothal Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the vineyard exemption, expanding the definition of 'kerem' to include five fruit trees, and listing who qualifies (planters, layers, grafters, purchasers, inheritors, gift recipients), which matches exactly what the 'Vineyard Exemption' prose describes.",
+      "chosen_heading": "Vineyard Exemption",
+      "current_heading": "Vineyard Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Betrothal Exemption",
+    "candidates": [
+      "Betrothal Exemption",
+      "Support vs. Leave",
+      "No Exemption Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the betrothal exemption categories (virgin, widow, shomeret yavam) and the support duty (water, food, roads), and the current heading's prose explicitly discusses both the scope of the betrothal exemption and the support role, making it the best single home for this unified mishnaic passage.",
+      "chosen_heading": "Betrothal Exemption",
+      "current_heading": "Betrothal Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "No Exemption Cases",
+    "candidates": [
+      "Support vs. Leave",
+      "No Exemption Cases",
+      "Complete Exemption",
+      "Speaker Authority"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Exemption Cases",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna listing cases where one does NOT return (no exemption cases), matching heading 1's prose exactly \u2014 gatehouse, trees, remarrying divorced wife, forbidden unions, Rabbi Yehuda, Rabbi Eliezer.",
+      "second_heading": "Complete Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a new mishna (structurally marked by 'Elu she'ein zazin mimkoman') describing the complete exemption group who don't even move from their places, matching heading 2's prose about those fully exempt from all military service.",
+      "current_heading": "No Exemption Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Speaker Authority",
+    "candidates": [
+      "Complete Exemption",
+      "Speaker Authority",
+      "Three-Part Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of who speaks the words at the war assembly \u2014 concluding that 'the priest speaks and an officer calls out' \u2014 which is precisely what the 'Speaker Authority' section's prose addresses.",
+      "chosen_heading": "Speaker Authority",
+      "current_heading": "Speaker Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Three-Part Division",
+    "candidates": [
+      "Three-Part Division",
+      "Hermeneutics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the three contradicting baraitot and Abaye's resolution dividing the speech into three sections, which is precisely what the 'Three-Part Division' prose discusses.",
+      "chosen_heading": "Three-Part Division",
+      "current_heading": "Three-Part Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Hermeneutics",
+    "candidates": [
+      "Hermeneutics",
+      "Habitable Test",
+      "Chanuch & Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita's hermeneutical derivations from 'asher bana' and 'bayit' \u2014 exactly what the 'Hermeneutics' prose describes, including the expansion to purchased/inherited houses and the inclusion of barns/storehouses, which is the current placement.",
+      "chosen_heading": "Hermeneutics",
+      "current_heading": "Hermeneutics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Chanuch & Theft",
+    "candidates": [
+      "Habitable Test",
+      "Chanuch & Theft",
+      "Five Trees Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the exclusion of a robber (gazlan) from the house-dedication exemption, the challenge from Rabbi Yosei HaGelili's interpretation of 'fearful-hearted,' and the resolution involving teshuvah and payment \u2014 exactly the content described in the 'Chanuch & Theft' prose.",
+      "chosen_heading": "Chanuch & Theft",
+      "current_heading": "Chanuch & Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Five Trees Rule",
+    "candidates": [
+      "Five Trees Rule",
+      "Chilul & Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita expanding 'vineyard' to include purchased/inherited/gifted vineyards and five fruit trees of other species, which matches exactly the 'Five Trees Rule' prose that summarizes this same hermeneutical expansion of asher nata and kerem.",
+      "chosen_heading": "Five Trees Rule",
+      "current_heading": "Five Trees Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Chilul & Fruit",
+    "candidates": [
+      "Chilul & Fruit",
+      "Grafting Exclusions",
+      "Prohibited Grafting",
+      "Status Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav Chisda/Rabbi Zeira resolution distinguishing harkavat issur from harkavat heter, which is precisely what the 'Prohibited Grafting' section's prose describes and analyzes.",
+      "chosen_heading": "Prohibited Grafting",
+      "current_heading": "Chilul & Fruit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Status Transfer",
+    "candidates": [
+      "Grafting Exclusions",
+      "Prohibited Grafting",
+      "Status Transfer",
+      "Young on Young"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of what constitutes 'harkavat heter' and works through the yeladah be-yeladah and yeladah be-zkeinah cases, which is precisely what the 'Status Transfer' section's prose describes.",
+      "chosen_heading": "Status Transfer",
+      "current_heading": "Status Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Young on Young",
+    "candidates": [
+      "Young on Young",
+      "Beams Exception",
+      "Bas Mahdar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Young on Young",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yirmiya's proposal about the young-on-young case with the fence/beams exception, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Beams Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question asking why young-on-old causes negation but young-on-young does not, which is precisely the conceptual question candidate 1's prose frames as the setup for the bas mahdar answer.",
+      "current_heading": "Young on Young",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Bas Mahdar",
+    "candidates": [
+      "Beams Exception",
+      "Bas Mahdar",
+      "Joint Ownership",
+      "Yibum Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bas Mahdar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the bas mahdar principle and the olu me'eileihen precedent, which is precisely what the 'Bas Mahdar' prose describes.",
+      "second_heading": "Joint Ownership",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the kerem shel shenei shutfin question and Rav Pappa's ruling, which is exactly what the 'Joint Ownership' prose describes.",
+      "current_heading": "Bas Mahdar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Yibum Analogy",
+    "candidates": [
+      "Joint Ownership",
+      "Yibum Analogy",
+      "Branch on Veg",
+      "Vegetable Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question comparing the partnership case to the five brothers/yibum case and its answer distinguishing 'his wife' from 'his vineyard,' which is precisely what the 'Yibum Analogy' prose describes.",
+      "chosen_heading": "Yibum Analogy",
+      "current_heading": "Yibum Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Vegetable Dispute",
+    "candidates": [
+      "Branch on Veg",
+      "Vegetable Dispute",
+      "Stunted Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Na\u1e25man bar Yitz\u1e25ak's case of layering a tree onto a vegetable and the dispute between Rabban Shimon ben Gamliel and the Sages, followed by Rav Dimi's attribution of the grafting exemption to Rabbi Eliezer ben Yaakov's literalism \u2014 are precisely the content described in candidate 1's prose, which covers both the vegetable-grafting dispute and Rav Dimi/Rabbi Yo\u1e25anan's reattribution of the exemption to Rabbi Eliezer ben Yaakov.",
+      "chosen_heading": "Vegetable Dispute",
+      "current_heading": "Vegetable Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Stunted Trees",
+    "candidates": [
+      "Stunted Trees",
+      "Orchard Known",
+      "Four Amos Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses stunted grapevines less than a handbreadth tall being obligated in orla all their years because they appear like one-year-old vines, with the exception for an entire vineyard where publicity removes the concern \u2014 this matches exactly the content described in the 'Stunted Trees' section prose.",
+      "chosen_heading": "Stunted Trees",
+      "current_heading": "Stunted Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Four Amos Rule",
+    "candidates": [
+      "Orchard Known",
+      "Four Amos Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about a corpse occupying four amot for Shema recitation is explicitly discussed in the 'Four Amos Rule' prose, which directly describes this ruling and its transmission chain.",
+      "chosen_heading": "Four Amos Rule",
+      "current_heading": "Four Amos Rule",
+      "moved": false
+    }
+  }
+]

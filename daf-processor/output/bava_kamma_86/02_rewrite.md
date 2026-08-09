@@ -16,13 +16,7 @@ Several concrete examples illustrate this principle. A person whose hand has bee
 
 ### Successive Injuries
 
-The *gemara* introduces a question of Rava: *keta yado velo imduhu* — suppose a person severed someone's hand and the *beit din* had not yet had an opportunity to assess the damage. Then he went and broke the victim's leg — again without assessment. Then he blinded him, again without assessment. And finally he made him deaf. The question is: *mahu*? What is the law in such a case?
-
-One possibility is that since the *beit din* never assessed each injury individually as it occurred, only a single assessment at the end is conducted, and the tortfeasor simply pays *dmei kulo* — the full value — in one lump sum. The alternative is that each injury must be assessed independently, resulting in four separate payments.
-
-The practical consequence of this question — the *nafka mina* — turns on *tzaar* and *boshet*. For *nezek*, *shevet*, and *ripui*, the cumulative amounts would be essentially equivalent whether assessed together or separately, because each incremental injury reduces the slave-market valuation by a further step, and those steps add up to the same total. But *tzaar* — pain and suffering — and *boshet* — embarrassment — are categorically different. Each individual injury generates its own distinct pain experience and its own occasion for public embarrassment. Consequently, if each injury is assessed independently, the aggregate *tzaar* and *boshet* will be substantially greater than if all injuries are assessed in a single undifferentiated evaluation. As the *gemara* puts it, *dehai d'nezek veripuy veshevet kol chada vechada lo havina lei* — for *nezek*, *ripui*, and *shevet*, we do not assess separately — *dekeivan deyahiv lei dmei kulo keman dekatleh damei* — since paying the full value is, in a sense, like having killed the person in terms of earning capacity. But *tzaar* and *boshet* are not subsumed in that calculation.
-
----
+The *gemara* introduces a question posed by Rava: *keta yado velo imduhu* — suppose a person severed someone's hand and the *beit din* had not yet assessed the damage. Then he broke the victim's foot, again without assessment. Then he blinded him, again without assessment. And finally he made him deaf. The question, *mahu*, is: what is the law? One possibility is that since the injuries were never assessed individually as they occurred, a single assessment is conducted at the end and the tortfeasor pays *dmei kulo* — one lump sum for all four injuries together. The other possibility is that each injury must be assessed independently, resulting in four separate payments. The *gemara* notes that a *nafka mina* — a practical difference — must exist between these two approaches, which will be explored further.
 
 ## Shevet Overview (II)
 

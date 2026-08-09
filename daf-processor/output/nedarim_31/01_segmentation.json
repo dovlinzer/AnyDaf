@@ -20,7 +20,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Neder about Shabbat Observers and Garlic Eaters",
@@ -48,7 +48,7 @@
           "timestamp": "06:09"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -208,7 +208,7 @@
           "timestamp": "53:13"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 21,
       "matched": true
     }
   ],
@@ -416,5 +416,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "30:32",
+  "amud_b_micro_title": "Hot Items Exception",
+  "shiur_start_daf": 30,
+  "shiur_start_amud": "b"
 }

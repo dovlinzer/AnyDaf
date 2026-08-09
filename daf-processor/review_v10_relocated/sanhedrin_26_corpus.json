@@ -1,0 +1,164 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rabbi Zeira's Father",
+    "candidates": [
+      "Rabbi Zeira's Father",
+      "Otzrei vs. Sochrei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the concluding parts of the story about Rabbi Zeira's father \u2014 everyone hiding when the tax collector arrived, and his deathbed confession about the thirteen ma'ah \u2014 which are explicitly described and analyzed in the prose under heading 0.",
+      "chosen_heading": "Rabbi Zeira's Father",
+      "current_heading": "Rabbi Zeira's Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Otzrei vs. Sochrei",
+    "candidates": [
+      "Otzrei vs. Sochrei",
+      "Arnona & Permissibility",
+      "Encounters & Excuses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are a continuous Gemara discussion about Rabbi Shimon's statement regarding the shift from 'otzrei shevi'is' to 'sochrei shevi'is,' including Rav Yehuda's explanation, the b'nei Rechava's objection, and the final resolution involving arnona \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Otzrei vs. Sochrei",
+      "current_heading": "Otzrei vs. Sochrei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Encounters & Excuses",
+    "candidates": [
+      "Arnona & Permissibility",
+      "Encounters & Excuses",
+      "Reish Lakish's Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items \u2014 the travel narrative, the plowing and pruning encounters, the ordering question, the question about priests, the baraita about teruma falling into shevi'is, and Rav Chiyya's conclusion that kohanim are suspected regarding shevi'is \u2014 are precisely the content described in the 'Encounters & Excuses' prose section.",
+      "chosen_heading": "Encounters & Excuses",
+      "current_heading": "Encounters & Excuses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Reish Lakish's Critique",
+    "candidates": [
+      "Reish Lakish's Critique",
+      "Kesher Resha'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 being called a nuisance, Reish Lakish's question to Rabbi Yo\u1e25anan about those suspected of Sabbatical Year violations, his attempted analogy to the cattle herders, and his rejection of that analogy ending with Rabbi Yo\u1e25anan's 'da'aka' \u2014 are fully covered and discussed in the 'Reish Lakish's Critique' prose, which narrates the entire sequence in order.",
+      "chosen_heading": "Reish Lakish's Critique",
+      "current_heading": "Reish Lakish's Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Kesher Resha'im",
+    "candidates": [
+      "Kesher Resha'im",
+      "Shevna's Plot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Chiyya bar Zarnuki and Rabbi Shimon ben Yehotzadak complaining to Rabbi Yochanan about Reish Lakish calling them 'ro'ei bakar,' and Rabbi Yochanan's dismissive response \u2014 exactly the scene described in the 'Kesher Resha'im' prose section.",
+      "chosen_heading": "Kesher Resha'im",
+      "current_heading": "Kesher Resha'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Shevna's Plot",
+    "candidates": [
+      "Shevna's Plot",
+      "Foundations & Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items cover the Shebna narrative \u2014 his following, his treachery, his punishment, leprosy, exile, humiliation, and hedonism \u2014 which is precisely what heading 0 ('Shevna's Plot') describes in detail, while heading 1 moves on to a different Gemara discussion about the verse 'ki ha-shatos yeharesun.'",
+      "chosen_heading": "Shevna's Plot",
+      "current_heading": "Shevna's Plot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Foundations & Torah",
+    "candidates": [
+      "Foundations & Torah",
+      "Machshavah & Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the interpretation of 'ki hashatot yeharesun' and the linguistic justification for calling Hezekiah's camp, the Temple, or Sennacherib's schemes 'shatot' \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Foundations & Torah",
+      "current_heading": "Foundations & Torah",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Redemption Solution",
+    "candidates": [
+      "Metzora Stipulation",
+      "Kli Sharet Sanctification",
+      "Extra Oil Problem",
+      "Redemption Solution",
+      "Shimen Oil Nedavah",
+      "Talui Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the redemption solution and the chullin b'azarah problem, which is precisely what the 'Redemption Solution' prose discusses \u2014 d'parik lei, the question of where redemption occurs (inside vs. outside the azarah), and the answer that chullin mimeila havyan.",
+      "chosen_heading": "Redemption Solution",
+      "current_heading": "Redemption Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Talui Alternative",
+    "candidates": [
+      "Shimen Oil Nedavah",
+      "Talui Alternative",
+      "Shimon Rejects Talui",
+      "Sheep vs. Ram",
+      "Limbs Mixed",
+      "Eliezer Firewood",
+      "Sages Notar"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Sages Notar",
+    "candidates": [
+      "Shimon Rejects Talui",
+      "Sheep vs. Ram",
+      "Limbs Mixed",
+      "Eliezer Firewood",
+      "Sages Notar",
+      "Eliezer Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text describes the exact scenario introduced in candidate 2's prose \u2014 limbs of a chatat mixed with limbs of an olah \u2014 and candidate 2's prose directly quotes and introduces this mishna, making it the correct home for this passage.",
+      "chosen_heading": "Limbs Mixed",
+      "current_heading": "Sages Notar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Eliezer Derivation",
+    "candidates": [
+      "Sages Notar",
+      "Eliezer Derivation",
+      "Sages Counter",
+      "Eliezer Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question about Rabbi Eliezer's textual basis and the Rabbis' counter-reading of the same verse, which is precisely what the 'Eliezer Derivation' prose section discusses \u2014 the derivation from Leviticus 2:11\u201312 and the l'rei'ach nicho'ach qualification, followed by the Rabbinic response using 'osam'.",
+      "chosen_heading": "Eliezer Derivation",
+      "current_heading": "Eliezer Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Eliezer Reply",
+    "candidates": [
+      "Sages Counter",
+      "Eliezer Reply",
+      "Rashi Strictness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Eliezer's derivation from 'otam' regarding the ramp prohibition being specific to chametz and honey but not other substances, which is precisely what the 'Eliezer Reply' prose section describes.",
+      "chosen_heading": "Eliezer Reply",
+      "current_heading": "Eliezer Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rashi Strictness",
+    "candidates": [
+      "Rashi Strictness",
+      "Sages Firewood",
+      "Three Severity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains what the Rabbis derive from the word 'them' \u2014 specifically that both halakhot (firewood leniency and ramp extension) apply to chametz and honey, which directly matches the 'Sages Firewood' section's discussion of how the Sages derive the firewood leniency from the verse and its application to chametz and honey specifically.",
+      "chosen_heading": "Sages Firewood",
+      "current_heading": "Rashi Strictness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Three Severity",
+    "candidates": [
+      "Sages Firewood",
+      "Three Severity",
+      "Agreement Extremes",
+      "Debate Locus",
+      "Huna Minor Blemish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the baraita passage and its immediate Gemara question that section 'Three Severity' explicitly introduces and describes \u2014 the three-tiered structure, Rabbi Yehuda's formulation of where the dispute lies, and the Gemara's follow-up question about Rabbi Eliezer's distinction between blemished animals and bestiality animals.",
+      "chosen_heading": "Three Severity",
+      "current_heading": "Three Severity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Huna Minor Blemish",
+    "candidates": [
+      "Agreement Extremes",
+      "Debate Locus",
+      "Huna Minor Blemish",
+      "Firewood Challenge",
+      "Pappa Ramp",
+      "Exegesis Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's statement about minor ocular blemishes and Rabbi Akiva's ruling, which is precisely what the 'Huna Minor Blemish' section's prose describes.",
+      "chosen_heading": "Huna Minor Blemish",
+      "current_heading": "Huna Minor Blemish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Exegesis Mum",
+    "candidates": [
+      "Firewood Challenge",
+      "Pappa Ramp",
+      "Exegesis Mum",
+      "Eliezer Acceptable"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Eliezer Acceptable",
+    "candidates": [
+      "Eliezer Acceptable",
+      "Sages Blemish",
+      "Eliezer Bam",
+      "Firewood Compromise",
+      "Limbs Blemished",
+      "Bad Already",
+      "Sages Burn",
+      "Pairs Requirement",
+      "One Pair",
+      "Sight Principle",
+      "Blood Water",
+      "Blood Wine",
+      "Blood Blood",
+      "Blood Blood",
+      "Yehuda Identity",
+      "Spill Invalid",
+      "Eliezer Permit",
+      "Halakha Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 15,
+      "confidence": "high",
+      "reason": "The passage describes blood mixed with invalid offerings or dam hatamtzit being poured into the drain, with Rabbi Eliezer permitting the dam hatamtzit mixture and a ruling about validity if not consulted \u2014 exactly what the 'Spill Invalid' prose discusses.",
+      "chosen_heading": "Spill Invalid",
+      "current_heading": "Eliezer Acceptable",
+      "moved": true
+    }
+  }
+]

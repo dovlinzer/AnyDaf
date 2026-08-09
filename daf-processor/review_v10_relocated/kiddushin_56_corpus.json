@@ -1,0 +1,290 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Tosafot Challenge",
+    "candidates": [
+      "Recap Me'ilah",
+      "Ma'aser Sheni Status",
+      "Rule: No Animal Purchase",
+      "Rashi Explanation 1",
+      "Tosafot Challenge",
+      "Rashi Explanation 2",
+      "Tosafot Explanation",
+      "Shogeg: Sale Reversed",
+      "Mekach Taos Principle",
+      "Mezid Rule",
+      "Rabbi Yehuda Limit",
+      "Shelamim Use Case",
+      "Problem Scenario",
+      "Tosafot Reading",
+      "Misuse Risk",
+      "Reversal Solution",
+      "Kiddushin Valid",
+      "Why No Reversal?",
+      "Woman Knows Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about not purchasing an animal with ma'aser sheni money and its consequences (shogeg/mezid/Rabbi Yehuda), which is precisely what heading 2 ('Rule: No Animal Purchase') introduces as the gemara citing this baraita.",
+      "chosen_heading": "Rule: No Animal Purchase",
+      "current_heading": "Tosafot Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Woman Knows Status",
+    "candidates": [
+      "Rashi Explanation 2",
+      "Tosafot Explanation",
+      "Shogeg: Sale Reversed",
+      "Mekach Taos Principle",
+      "Mezid Rule",
+      "Rabbi Yehuda Limit",
+      "Shelamim Use Case",
+      "Problem Scenario",
+      "Tosafot Reading",
+      "Misuse Risk",
+      "Reversal Solution",
+      "Kiddushin Valid",
+      "Why No Reversal?",
+      "Woman Knows Status",
+      "Challenge Posed",
+      "Presumption of Knowledge",
+      "Gemara Response",
+      "Non-Food Remedy",
+      "Interpretation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rabbi Elazar's answer that the woman knows the money retains kedusha, Rabbi Yirmiyah's challenge from non-food items, and the resolution that we deal with a chavera who knows \u2014 which is precisely what the prose under heading 13 ('Woman Knows Status') describes.",
+      "chosen_heading": "Woman Knows Status",
+      "current_heading": "Woman Knows Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Interpretation Debate",
+    "candidates": [
+      "Challenge Posed",
+      "Presumption of Knowledge",
+      "Gemara Response",
+      "Non-Food Remedy",
+      "Interpretation Debate",
+      "Solutions Differ?",
+      "Seller Presence Key"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage asks why the remedy is 'yochal k'negdan' rather than reversal ('money returns to its place'), directly raising the inconsistency between different solutions \u2014 which is exactly what 'Solutions Differ?' discusses.",
+      "chosen_heading": "Solutions Differ?",
+      "current_heading": "Interpretation Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Seller Presence Key",
+    "candidates": [
+      "Solutions Differ?",
+      "Seller Presence Key",
+      "Decision Chart",
+      "Default Question",
+      "Fine the Seller",
+      "Seller More Eager",
+      "Seller as Enabler",
+      "Buyer More Culpable",
+      "Rectify Not Punish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage contains Shmuel's statement about fleeing, the gemara's comment that had the seller not fled we would penalize him, the question of why not penalize the buyer, and the answer 'not the mouse but the hole steals' \u2014 all of which corresponds precisely to the 'Seller as Enabler' section's prose about the achbara/chura principle and the counterintuitive allocation of penalty to the seller.",
+      "chosen_heading": "Seller as Enabler",
+      "current_heading": "Seller Presence Key",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rectify Not Punish",
+    "candidates": [
+      "Decision Chart",
+      "Default Question",
+      "Fine the Seller",
+      "Seller More Eager",
+      "Seller as Enabler",
+      "Buyer More Culpable",
+      "Rectify Not Punish",
+      "Six Categories",
+      "Object Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question 'what has the hole done without the rat?' \u2014 i.e., why penalize the seller when the buyer is more culpable \u2014 which is precisely what the 'Buyer More Culpable' section discusses, and the Gemara's answer (mistavra, kol heicha de'ika issura) belongs as the resolution to that question, but the quoted text itself is the challenge-and-answer pair that fits under heading 5's framing of the buyer's greater culpability argument.",
+      "chosen_heading": "Buyer More Culpable",
+      "current_heading": "Rectify Not Punish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Object Examples",
+    "candidates": [
+      "Six Categories",
+      "Object Examples",
+      "Kiddushin Invalid",
+      "No Status Transfer",
+      "Market Value Q",
+      "Value Answer",
+      "Awareness Answer",
+      "Rashba: Lawful Valuation",
+      "Orlah Source"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Orlah Source",
+    "candidates": [
+      "Kiddushin Invalid",
+      "No Status Transfer",
+      "Market Value Q",
+      "Value Answer",
+      "Awareness Answer",
+      "Rashba: Lawful Valuation",
+      "Orlah Source",
+      "Kilai Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the Gemara deriving the biblical source for the prohibition of benefit from orla, which matches exactly the prose of candidate 6 ('Orlah Source') describing ba'orlah minalan and the beraita about orla lo ye'achel.",
+      "chosen_heading": "Orlah Source",
+      "current_heading": "Orlah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Kilai Source",
+    "candidates": [
+      "Kilai Source",
+      "Rav Ashi Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses \u1e24izkiyya's derivation of 'pen tikdash' as 'pen tukad esh' (lest it be burned), which matches exactly what the 'Kilai Source' prose describes.",
+      "chosen_heading": "Kilai Source",
+      "current_heading": "Kilai Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rav Ashi Read",
+    "candidates": [
+      "Rav Ashi Read",
+      "Objection",
+      "Resolution",
+      "Neveilah Status",
+      "Redundancy Q",
+      "Slaughter Teaching",
+      "Benefit Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Ashi's reading AND the objection to it AND the conclusion ('ela mechavarta k'deChizkiyah'), but the bulk of the content \u2014 the gemara questioning Rav Ashi's analogy and showing it fails \u2014 matches the 'Objection' prose most precisely, and the concluding line ('ela mechavarta k'deChizkiyah') is a direct response to that objection rather than a standalone resolution section.",
+      "chosen_heading": "Objection",
+      "current_heading": "Rav Ashi Read",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Benefit Source",
+    "candidates": [
+      "Objection",
+      "Resolution",
+      "Neveilah Status",
+      "Redundancy Q",
+      "Slaughter Teaching",
+      "Benefit Source",
+      "Standard Rule",
+      "Exception Case",
+      "Shor Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Candidate 8's prose describes exactly the content of all 5 items: the baraita's derivations, the challenge of why 'ba'al hashor naki' is needed when 'lo ye'achel' could teach issur hana'ah, and the resolution that since the eating prohibition derives from 'sakol yisakel' rather than 'lo ye'achel,' the extra phrase teaches the slaughter-after-verdict case while hana'ah comes from 'ba'al hashor naki.'",
+      "chosen_heading": "Shor Application",
+      "current_heading": "Benefit Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Shor Application",
+    "candidates": [
+      "Standard Rule",
+      "Exception Case",
+      "Shor Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'et besaro' phrase and its teaching that even slaughtering the ox like kosher meat leaves it forbidden, which is precisely what the 'Shor Application' prose describes as the chiddush of 'et besaro' within the context of resolving why lo ye'achel et besaro cannot teach issur hana'ah for the shor haniskal.",
+      "chosen_heading": "Shor Application",
+      "current_heading": "Shor Application",
+      "moved": false
+    }
+  }
+]

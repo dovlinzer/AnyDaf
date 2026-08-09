@@ -19,7 +19,7 @@
           "timestamp": "02:00"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -91,7 +91,7 @@
           "timestamp": "29:19"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -353,5 +353,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "16:29",
+  "amud_b_micro_title": "Well Domains",
+  "shiur_start_daf": 34,
+  "shiur_start_amud": "a"
 }

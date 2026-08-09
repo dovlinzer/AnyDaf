@@ -148,19 +148,13 @@ Since he acted in violation of basic ethical norms, the Rabbis responded in kind
 
 ### Case-Specific Nature
 
-This episode of *hafka'as kiddushin* is striking precisely because it is entirely case-specific. The more familiar instances of *hafka'as kiddushin* operate within pre-defined rabbinic rules: the Rabbis set up a system in advance, and if a person violates the parameters of that system, the *kiddushin* is automatically void — for example, if a husband attempts to annul a *get* in the absence of the agent (*shelo bifnei ha-shali'ah*), the Rabbis simply refused to recognize the transmission as valid. All of this flows from the principle *kol d'mekadesh ada'ata d'rabbanan mekadesh*: every act of *kiddushin* is implicitly performed within and subject to the rabbinic framework, and the Rabbis therefore retain the authority to void it when their rules are violated.
-
-The *bei korsaia* case is different. Here, the man is not working within the rabbinic system at all — he is brazenly circumventing it. Invoking *ada'ata d'rabbanan* to void his *kiddushin* would be difficult, since he clearly had no intention of operating within rabbinic norms.
-
----
+The *sugya* concludes with a ruling: *Rav Yosef* states that the *halacha* follows *Rabbi Elazar* — that in the case of the sisters, we instruct the *ketanah* to perform *mi'un*.
 
 ## Ruling & Implications
 
 ### Reiteration
 
-The practical ruling that emerges from the entire preceding discussion: *Rav Yosef* declares that the *halacha* follows *Rabbi Eliezer* — one teaches the *ketanah* to perform *mi'un*. The Amora *Rabbi Elazar* similarly states: *halacha k'Rabbi Eliezer*, affirming that in the scenario involving sisters, the correct practical course is to have the minor perform *mi'un* rather than wait for her to mature.
-
----
+The *Amora* states *halacha k'Rabbi Elazar*: the practical ruling is that one teaches the *ketanah* to perform *mi'un*.
 
 ## Hafka'as Kiddushin (II)
 

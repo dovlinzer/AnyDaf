@@ -29,8 +29,8 @@
           "timestamp": "01:13"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mar Zutra's Position: Three Rabbinic Enactments Without Clear Mechanism",
@@ -468,5 +468,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "39:54",
+  "amud_b_micro_title": "Kinyan Demand",
+  "shiur_start_daf": 14,
+  "shiur_start_amud": "a"
 }

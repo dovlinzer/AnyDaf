@@ -90,7 +90,7 @@
           "timestamp": "20:00"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -115,7 +115,7 @@
         }
       ],
       "sefaria_index": 1,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Attempting to Redeem Half Pruta: Why Combining Doesn't Work",
@@ -153,8 +153,8 @@
           "timestamp": "42:26"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Second Case: Brought Into and Out of Jerusalem",
@@ -522,5 +522,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "44:36",
+  "amud_b_micro_title": "Tamei Exception",
+  "shiur_start_daf": 52,
+  "shiur_start_amud": "b"
 }

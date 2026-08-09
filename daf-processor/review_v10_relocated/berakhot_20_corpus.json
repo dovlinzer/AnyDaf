@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Nazir & Meis Mitzvah",
+    "candidates": [
+      "Previous Summary",
+      "Nazir & Meis Mitzvah",
+      "Limits of Override",
+      "Hutrah or Dehuya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous braisa about the nazir going to slaughter his Paschal lamb/circumcise his son, the derivation that 'and his sister' permits tumah for a met mitzva but not for relatives, and the challenge/answer about 'ein chochma' \u2014 exactly the content described in the 'Nazir & Meis Mitzvah' prose.",
+      "chosen_heading": "Nazir & Meis Mitzvah",
+      "current_heading": "Nazir & Meis Mitzvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Hutrah or Dehuya",
+    "candidates": [
+      "Limits of Override",
+      "Hutrah or Dehuya",
+      "Synthesis of Override",
+      "Subjectivity Issue",
+      "Kavod HaMeit Question",
+      "Tosafot Alternative",
+      "Tzaar Baalei Chayim",
+      "Rav Pappa's Question",
+      "Learning Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's suggestion to derive a general principle from meis mitzvah and the rejection via 'shev ve'al taaseh shani,' which is precisely what the 'Limits of Override' section's prose discusses \u2014 asking why we can't extend the meis mitzvah paradigm further and answering with the passive non-performance distinction.",
+      "chosen_heading": "Limits of Override",
+      "current_heading": "Hutrah or Dehuya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Learning Comparison",
+    "candidates": [
+      "Synthesis of Override",
+      "Subjectivity Issue",
+      "Kavod HaMeit Question",
+      "Tosafot Alternative",
+      "Tzaar Baalei Chayim",
+      "Rav Pappa's Question",
+      "Learning Comparison",
+      "Abaye's Answer",
+      "Rav Adda Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic text of Rav Pappa's question to Abaye about why miracles no longer occur, which belongs under the heading 'Rav Pappa's Question' (index 5) where that question is introduced, rather than under 'Learning Comparison' (index 6) which discusses the answer/refutation that follows.",
+      "chosen_heading": "Rav Pappa's Question",
+      "current_heading": "Learning Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rav Adda Example",
+    "candidates": [
+      "Abaye's Answer",
+      "Rav Adda Example",
+      "Zealotry Problem",
+      "Rav Gidel Case",
+      "White Ducks Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains BOTH Abaye's statement about the earlier generations' dedication to kiddush Hashem AND the Rav Adda story as its supporting example, making it a single unit that belongs under 'Abaye's Answer' which discusses Abaye's response and its connection to kiddush Hashem, rather than splitting it artificially between two headings.",
+      "chosen_heading": "Abaye's Answer",
+      "current_heading": "Rav Adda Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "White Ducks Defense",
+    "candidates": [
+      "Zealotry Problem",
+      "Rav Gidel Case",
+      "White Ducks Defense",
+      "Rabbi Yochanan Case",
+      "Conception Belief",
+      "Ayin Hara Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Gidel sitting at the gates of the mikveh and instructing women how to immerse, which is precisely what the 'Rav Gidel Case' prose introduces, while the current placement under 'White Ducks Defense' covers only the exchange about the evil inclination and his response.",
+      "chosen_heading": "Rav Gidel Case",
+      "current_heading": "White Ducks Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Ayin Hara Protection",
+    "candidates": [
+      "Rabbi Yochanan Case",
+      "Conception Belief",
+      "Ayin Hara Protection",
+      "Contextuality Principle",
+      "Time-Bound Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items concern Rabbi Yochanan's immunity from ayin hara by virtue of descent from Joseph, with proofs from verses and the ethical derivation \u2014 exactly what the 'Ayin Hara Protection' prose discusses in detail.",
+      "chosen_heading": "Ayin Hara Protection",
+      "current_heading": "Ayin Hara Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Time-Bound Principle",
+    "candidates": [
+      "Contextuality Principle",
+      "Time-Bound Principle",
+      "Tefillin Exemption",
+      "Prayer Obligation",
+      "Kriat Shema Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishna stating that women, slaves, and minors are exempt from kriat shema and tefillin but obligated in prayer, mezuza, and Grace after Meals \u2014 exactly what the 'Time-Bound Principle' prose introduces and discusses.",
+      "chosen_heading": "Time-Bound Principle",
+      "current_heading": "Time-Bound Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Kriat Shema Exemption",
+    "candidates": [
+      "Tefillin Exemption",
+      "Prayer Obligation",
+      "Kriat Shema Exemption",
+      "Mezuza Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Gemara's question and answer about why the Mishnah needs to state women's exemption from kriat shema, which is precisely what the 'Kriat Shema Exemption' prose describes \u2014 including the malchut shamayim point.",
+      "chosen_heading": "Kriat Shema Exemption",
+      "current_heading": "Kriat Shema Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Mezuza Obligation",
+    "candidates": [
+      "Mezuza Obligation",
+      "Prayer Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about women's exemption from tefillin and the juxtaposition of tefillin with mezuza, which is exactly what the 'Mezuza Obligation' section's prose discusses \u2014 the hava amina that women might be exempt from mezuza due to its juxtaposition with tefillin.",
+      "chosen_heading": "Mezuza Obligation",
+      "current_heading": "Mezuza Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Prayer Nature",
+    "candidates": [
+      "Prayer Nature",
+      "Birkat HaMazon",
+      "Historical Practice Gap"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Prayer Nature",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the gemara's reasoning for women's obligation in tefilla and the hava amina about time-bound prayer, which is precisely what heading 0 'Prayer Nature' discusses in detail.",
+      "second_heading": "Birkat HaMazon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses women's obligation in mezuza (not Birkat HaMazon), but the structural seam is clear \u2014 it opens an entirely new mitzva (mezuza) with its own independent hava amina unrelated to tefilla, and heading 1 'Birkat HaMazon' is the next section in sequence where the essay moves on from tefilla to subsequent mishnah obligations, making it the closest available home for this passage about the next mishnah item.",
+      "current_heading": "Prayer Nature",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Historical Practice Gap",
+    "candidates": [
+      "Birkat HaMazon",
+      "Historical Practice Gap",
+      "Rashi vs. Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's ruling on Birkat HaMazon and why it is not considered time-bound despite the verse about evening meat and morning bread, which is precisely what the 'Historical Practice Gap' section's prose describes when it explains the Birkat HaMazon obligation and the quasi-time-bound concern.",
+      "chosen_heading": "Historical Practice Gap",
+      "current_heading": "Historical Practice Gap",
+      "moved": false
+    }
+  }
+]

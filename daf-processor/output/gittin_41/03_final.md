@@ -1,13 +1,9 @@
-# Gittin 41 — Daf Yomi Shiur
-[DAF:41a]
-
+[DAF:40b]
 ## Slave & Apoteki
 
-### Tikkun Olam Intro
 
-> **Hebrew/Aramaic:** עֶבֶד שֶׁעֲשָׂאוֹ רַבּוֹ אַפּוֹתֵיקֵי לַאֲחֵרִים, וְשִׁיחְרְרוֹ – שׁוּרַת הַדִּין אֵין הָעֶבֶד חַיָּיב כְּלוּם; אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם, כּוֹפִין אֶת רַבּוֹ וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב שְׁטָר עַל דָּמָיו. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵינוֹ כּוֹתֵב, אֶלָּא מְשַׁחְרֵר.
->
-> **Translation:** MISHNA: In the case of **a slave whose master set him aside as designated repayment** [***apoteiki***] of a debt **to other** people from whom he borrowed money, **and** afterward **he emancipated him,** then **according to the letter of the law the slave bears no** responsibility for the debt. **However, for the betterment of the world, his master is forced to make him a freeman, and** the slave **writes** a promissory **note for his value** to pay the debt to the creditor. **Rabban Shimon ben Gamliel says: He does not write** a promissory note; **he only emancipates** the slave.
+
+### Tikkun Olam Intro
 
 The daf begins at the bottom of 40b, where the *mishnah* introduces another case falling under the category of rabbinic enactments made *mipnei tikkun olam* — for the betterment of the world — with a particular focus on the legal status of slaves. The *mishnah* reads: *eved she'asa rabbo apoteki l'acherim* — a slave whose master designated him as an *apoteki*, a focused lien, for others.
 
@@ -19,7 +15,12 @@ An *apoteki* is a particular form of lien that grants the lienholder strong and 
 
 In the *mishnah*'s case, a slave owner — we will call him Reuven — owes money to Shimon. To secure the debt, Reuven designates his slave as an *apoteki*, granting Shimon the right to collect his debt from the slave. Subsequently, *veshichraro* — he freed him. The simple reading is that Reuven freed the slave. Shimon is now without recourse: his lien was on a piece of property, and a free person is no longer property against which a lien can be enforced. As a strict matter of law, *shurat hadin ein ha'eved chayav klum* — the slave bears no legal obligation whatsoever. It was Reuven who owed Shimon money; the slave did nothing wrong.
 
+> **Hebrew/Aramaic:** מַתְנִי׳ עֶבֶד שֶׁעֲשָׂאוֹ רַבּוֹ אַפּוֹתֵיקֵי לַאֲחֵרִים, וְשִׁיחְרְרוֹ – שׁוּרַת הַדִּין אֵין הָעֶבֶד חַיָּיב כְּלוּם; אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם, כּוֹפִין אֶת רַבּוֹ וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב שְׁטָר עַל דָּמָיו. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵינוֹ כּוֹתֵב, אֶלָּא מְשַׁחְרֵר.
+> **Translation:** MISHNA: In the case of **a slave whose master set him aside as designated repayment** [***apoteiki***] of a debt **to other** people from whom he borrowed money, **and** afterward **he emancipated him,** then **according to the letter of the law the slave bears no** responsibility for the debt. **However, for the betterment of the world, his master is forced to make him a freeman, and** the slave **writes** a promissory **note for his value** to pay the debt to the creditor. **Rabban Shimon ben Gamliel says: He does not write** a promissory note; **he only emancipates** the slave.
+
 ### Mishna Readings
+
+
 
 Yet the *mishnah* then prescribes a remedy *mipnei tikkun olam*: *kofin et rabbo ve'oseh oto ben chorin* — we compel the master to make him a free person. This is immediately puzzling, since the slave appears already to have been freed. The *mishnah* adds that *vechotev shtar al damav* — the slave writes a promissory note for his own monetary value — apparently obligating himself to reimburse that value to Shimon. This too is difficult: why should the slave bear any financial burden for what Reuven did? And why must a new writ of freedom be written at all? These difficulties drive two distinct readings of the *mishnah* in the *gemara*, which we will now examine. Rabban Shimon ben Gamliel offers an alternative: *eino kotev ela meshachrer kotev* — it is not the slave who writes the debt but rather the one who freed him, i.e., Reuven, who must compensate Shimon. At least that much makes intuitive sense, even if the standard reading of the *mishnah* resists a clean interpretation.
 
@@ -27,11 +28,9 @@ Yet the *mishnah* then prescribes a remedy *mipnei tikkun olam*: *kofin et rabbo
 
 ## Raba's Principle
 
-### Three Categories
 
-> **Hebrew/Aramaic:** כִּדְרָבָא, דְּאָמַר רָבָא: הֶקְדֵּשׁ, חָמֵץ וְשִׁחְרוּר – מַפְקִיעִין מִידֵי שִׁיעְבּוּד;
->
-> **Translation:** This *halakha* is **in accordance with** the statement **of Rava, as Rava says: Consecration** of an item to the Temple, becoming subject to the prohibition of **leavened bread** on Passover, **and** the **emancipation** of a slave **abrogate** any **lien** that exists upon an item.
+
+### Three Categories
 
 Before presenting the two readings of the *mishnah*, the *gemara* invokes the principle of Rava: *hekdesh chametz veshichrur mafki'in midei shibud* — sanctification to the Temple, *chametz*, and the freeing of a slave each have the power to destroy any lien that may rest upon the object in question. This principle explains the threshold question: how was Reuven able to free the slave in a way that extinguished Shimon's lien entirely? The answer lies in the nature of these three categories.
 
@@ -53,11 +52,19 @@ The case of *shichrur* — freeing a slave — follows the same logic. A slave i
 
 ## Rav's Reading
 
+
+
+[DAF:41a]
 ### First Master Freed
 
-> **Hebrew/Aramaic:** אָמַר רַב: רַבּוֹ רִאשׁוֹן. שׁוּרַת הַדִּין אֵין הָעֶבֶד חַיָּיב כְּלוּם לְרַבּוֹ שֵׁנִי – אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם, שֶׁמָּא יִמְצָאֶנּוּ בַּשּׁוּק וְיֹאמַר לוֹ: ״עַבְדִּי אָתָּה״ – כּוֹפִין אֶת רַבּוֹ שֵׁנִי, וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב עֶבֶד שְׁטָר עַל דָּמָיו.
->
-> **Translation:** **Rav said: His first master** emancipated him, and the mishna is teaching as follows: **According to the letter of the law, the slave is not obligated to** serve **his second master at all.** **However, for the betterment of the world, lest** the creditor **will find** the slave **in the market and will say to him: You are my slave,** because he was designated to be used as repayment for the debt, and lest the future children of this emancipated slave acquire the reputation of being disqualified, the court **forces his second master,** i.e., the creditor, **and** he **makes him a freeman, and the slave writes** a promissory **note for his value,** that he owes his own value to the creditor.
+> **Hebrew/Aramaic:** גְּמָ׳ עֶבֶד שֶׁעֲשָׂאוֹ רַבּוֹ אַפּוֹתֵיקֵי וְשִׁיחְרְרוֹ: מִי שִׁחְרְרוֹ? אָמַר רַב: רַבּוֹ רִאשׁוֹן. שׁוּרַת הַדִּין אֵין הָעֶבֶד חַיָּיב כְּלוּם לְרַבּוֹ שֵׁנִי –
+> **Translation:** GEMARA: The mishna taught the case of **a slave whose master set him aside as designated repayment** of a debt **to other** people **and** afterward **emancipated him.** The Gemara clarifies: **Who emancipated him? Rav said: His first master** emancipated him, and the mishna is teaching as follows: **According to the letter of the law, the slave is not obligated to** serve **his second master at all.**
+
+> **Hebrew/Aramaic:** כִּדְרָבָא, דְּאָמַר רָבָא: הֶקְדֵּשׁ, חָמֵץ וְשִׁחְרוּר – מַפְקִיעִין מִידֵי שִׁיעְבּוּד; אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם, שֶׁמָּא יִמְצָאֶנּוּ בַּשּׁוּק
+> **Translation:** Why does he not have to serve the second master? This *halakha* is **in accordance with** the statement **of Rava, as Rava says: Consecration** of an item to the Temple, becoming subject to the prohibition of **leavened bread** on Passover, **and** the **emancipation** of a slave **abrogate** any **lien** that exists upon an item. Therefore, in the case of the mishna, the slave should be a freeman after his master emancipates him, and the creditor may not take possession of him. **However, for the betterment of the world, lest** the creditor **will find** the slave **in the market**
+
+> **Hebrew/Aramaic:** וְיֹאמַר לוֹ: ״עַבְדִּי אָתָּה״ – כּוֹפִין אֶת רַבּוֹ שֵׁנִי, וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב עֶבֶד שְׁטָר עַל דָּמָיו. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין הָעֶבֶד כּוֹתֵב אֶלָּא מְשַׁחְרֵר כּוֹתֵב.
+> **Translation:** **and will say to him: You are my slave,** because he was designated to be used as repayment for the debt, and lest the future children of this emancipated slave acquire the reputation of being disqualified, the court **forces his second master,** i.e., the creditor, **and** he **makes him a freeman, and the slave writes** a promissory **note for his value,** that he owes his own value to the creditor. **Rabban Shimon ben Gamliel says: The slave does not write** a promissory note for his value. **Rather,** his first master, **who emancipated** him, **writes** a promissory note, and then pays the value of the slave to the creditor, as the master designated the slave to be used for repayment.
 
 With Rava's principle established, the *gemara* presents its first interpretation. *Amar Rav rabbo rishon* — Rav reads the *mishnah* as saying that the first master, Reuven, is the one who freed the slave. This is the straightforward reading: Reuven freed him, and by operation of Rava's principle, Shimon's lien was thereby extinguished. *Shurat hadin ein ha'eved chayav klum l'rabbo sheni* — as a matter of law, the slave owes nothing to what would have been his second master, i.e., Shimon. Shimon simply loses his debt.
 
@@ -71,29 +78,28 @@ To protect the freed slave, the rabbis therefore enacted: *kofin et rabbo sheni 
 
 ### Gamliel Debate
 
-> **Hebrew/Aramaic:** רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין הָעֶבֶד כּוֹתֵב אֶלָּא מְשַׁחְרֵר כּוֹתֵב.
->
-> **Translation:** **Rabban Shimon ben Gamliel says: The slave does not write** a promissory note for his value. **Rather,** his first master, **who emancipated** him, **writes** a promissory note, and then pays the value of the slave to the creditor, as the master designated the slave to be used for repayment.
-
 Rabban Gamliel disagrees: *eino kotev ela meshachrer kotev* — it is not the slave who writes the debt but the one who freed him, i.e., Reuven, who owes the money to Shimon. This is the morally intuitive position: Reuven caused the damage to Shimon by freeing the slave; Reuven should bear the financial consequence.
 
 ---
 
 ## Hezek Shibud Debate
 
-### Damaging Lien
 
-> **Hebrew/Aramaic:** בְּמַאי קָא מִיפַּלְגִי? בְּמַזִּיק שִׁיעְבּוּדוֹ שֶׁל חֲבֵירוֹ קָא מִיפַּלְגִי – דְּמָר סָבַר חַיָּיב, וּמָר סָבַר פָּטוּר. אִיתְּמַר נָמֵי: הַמַּזִּיק שִׁיעְבּוּדוֹ שֶׁל חֲבֵירוֹ, בָּאנוּ לְמַחְלוֹקֶת רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל וְרַבָּנַן.
->
-> **Translation:** The Gemara explains: **With regard to what** *halakha* **do they disagree? They disagree with regard to** the *halakha* in the case of **one who causes damage** to **his friend's lien, as** one **Sage,** Rabban Shimon ben Gamliel, **holds** that one who causes damage to his friend's lien is **liable** to pay for the damage, although the liened object itself does not belong to his friend. Therefore, in the case of the mishna, the one who emancipated the slave is required to write a promissory note for his value. **And** one **Sage,** the first *tanna*, **holds** that he is **exempt.** Consequently, it is the slave who is required to write a promissory note for his value. **It was also stated** that Rabban Shimon ben Gamliel and the Rabbis disagree with regard to that issue: When discussing **one who causes damage** to **his friend's lien, we have arrived at the dispute** between **Rabban Shimon ben Gamliel and the Rabbis,** which supports the above analysis.
+
+### Damaging Lien
 
 What is the underlying dispute between Rabban Gamliel and the *chachamim*? *B'mazik shibudo shel havero kamifligi* — they debate the question of whether destroying another person's lien constitutes a compensable tort. The scenario can be generalized: if Reuven owns a house on which Shimon holds a lien, and I destroy the house, I may be liable to Reuven for destroying his property — but am I also liable to Shimon, whose security interest I have wiped out? Shimon held a form of property right, and my action eliminated it. Is the destruction of a lien treated as a tort against the lienholder?
 
+> **Hebrew/Aramaic:** בְּמַאי קָא מִיפַּלְגִי? בְּמַזִּיק שִׁיעְבּוּדוֹ שֶׁל חֲבֵירוֹ קָא מִיפַּלְגִי – דְּמָר סָבַר חַיָּיב, וּמָר סָבַר פָּטוּר.
+> **Translation:** The Gemara explains: **With regard to what** *halakha* **do they disagree? They disagree with regard to** the *halakha* in the case of **one who causes damage** to **his friend’s lien, as** one **Sage,** Rabban Shimon ben Gamliel, **holds** that one who causes damage to his friend’s lien is **liable** to pay for the damage, although the liened object itself does not belong to his friend. Therefore, in the case of the mishna, the one who emancipated the slave is required to write a promissory note for his value. **And** one **Sage,** the first *tanna*, **holds** that he is **exempt.** Consequently, it is the slave who is required to write a promissory note for his value.
+
 ### Gamliel: Liable
+
 
 Rabban Gamliel holds *hayyav* — liable. Reuven, by freeing the slave, destroyed Shimon's lien. That act constitutes a tortious injury to Shimon's property right, and therefore Reuven owes Shimon compensation. Because Reuven is legally obligated to pay, the rabbis' enactment of *tikkun olam* rests on Reuven paying — not the slave.
 
 ### Chachamim: Not Liable
+
 
 The *chachamim* hold *patur* — exempt. Reuven is not legally obligated for having freed his own slave, even though this cost Shimon his security. Once there is no tort liability on Reuven, and the rabbis need nonetheless to induce Shimon to write a manumission document for the slave's protection, the one who stands to benefit from this arrangement — the slave — becomes the one who bears the financial burden. As the *gemara* reinforces: *itmar nami, hamazzik shibudo shel havero — banu l'mahloket Rabban Gamliel verabanan* — when one damages another's lien, that is precisely the core of their dispute.
 
@@ -101,11 +107,9 @@ The *chachamim* hold *patur* — exempt. Reuven is not legally obligated for hav
 
 ## Ulla's Reading
 
-### Shimon Freed
 
-> **Hebrew/Aramaic:** עוּלָּא אָמַר: מִי שִׁיחְרְרוֹ – רַבּוֹ שֵׁנִי. שׁוּרַת הַדִּין אֵין הָעֶבֶד חַיָּיב כְּלוּם בְּמִצְוֹת; אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם – שֶׁהֲרֵי יָצָא עָלָיו שֵׁם בֶּן חוֹרִין, כּוֹפִין אֶת רַבּוֹ רִאשׁוֹן וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב שְׁטָר עַל דָּמָיו. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵינוֹ כּוֹתֵב, אֶלָּא מְשַׁחְרֵר כּוֹתֵב.
->
-> **Translation:** **Ulla said** another explanation of the dispute in the mishna: **Who emancipated him? His second master,** for whom he served as a lien for his debt. The mishna should be explained as follows: **According to the letter of the law, the slave is not at all obligated in mitzvot** as a result of this emancipation, because the creditor did not have the authority to emancipate him. **However, for the betterment of the world, since a rumor has spread about him** that he is **a freeman** as a result of the emancipation, **his first master is forced to make him a freeman, and** the slave **writes** a promissory **note for his value** to be paid to his original master, who was forced to emancipate his slave without receiving compensation. **Rabban Shimon ben Gamliel says:** The slave **does not write** a promissory note for his value. **Rather, the one who emancipates,** the creditor, **writes** a promissory note and pays the original master.
+
+### Shimon Freed
 
 Ulla offers a fundamentally different reading of the *mishnah*. *Rabbo sheni shichraro* — it is the second master, Shimon, who freed the slave. That is, the *mishnah*'s phrase "and he freed him" refers not to Reuven's genuine act of manumission but to Shimon's attempted — and legally ineffective — declaration of freedom. Shimon, the creditor who held the *apoteki*, went ahead and wrote a writ purporting to free the slave. Since Shimon was never actually the slave's owner, this act had no legal force.
 
@@ -119,23 +123,30 @@ The *chachamim*'s solution is elegant: rather than correct the perception, corre
 
 ### Reuven Pays Back
 
+> **Hebrew/Aramaic:** אִיתְּמַר נָמֵי: הַמַּזִּיק שִׁיעְבּוּדוֹ שֶׁל חֲבֵירוֹ, בָּאנוּ לְמַחְלוֹקֶת רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל וְרַבָּנַן.
+> **Translation:** **It was also stated** that Rabban Shimon ben Gamliel and the Rabbis disagree with regard to that issue: When discussing **one who causes damage** to **his friend’s lien, we have arrived at the dispute** between **Rabban Shimon ben Gamliel and the Rabbis,** which supports the above analysis.
+
+> **Hebrew/Aramaic:** עוּלָּא אָמַר: מִי שִׁיחְרְרוֹ – רַבּוֹ שֵׁנִי. שׁוּרַת הַדִּין אֵין הָעֶבֶד חַיָּיב כְּלוּם בְּמִצְוֹת; אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם – שֶׁהֲרֵי יָצָא עָלָיו שֵׁם בֶּן חוֹרִין, כּוֹפִין אֶת רַבּוֹ רִאשׁוֹן וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב שְׁטָר עַל דָּמָיו. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵינוֹ כּוֹתֵב, אֶלָּא מְשַׁחְרֵר כּוֹתֵב.
+> **Translation:** **Ulla said** another explanation of the dispute in the mishna: **Who emancipated him? His second master,** for whom he served as a lien for his debt. The mishna should be explained as follows: **According to the letter of the law, the slave is not at all obligated in mitzvot** as a result of this emancipation, because the creditor did not have the authority to emancipate him. **However, for the betterment of the world, since a rumor has spread about him** that he is **a freeman** as a result of the emancipation, **his first master is forced to make him a freeman, and** the slave **writes** a promissory **note for his value** to be paid to his original master, who was forced to emancipate his slave without receiving compensation. **Rabban Shimon ben Gamliel says:** The slave **does not write** a promissory note for his value. **Rather, the one who emancipates,** the creditor, **writes** a promissory note and pays the original master.
+
+> **Hebrew/Aramaic:** בְּמַאי קָמִיפַּלְגִי? בְּהֶיזֵּק שֶׁאֵינוֹ נִיכָּר קָמִיפַּלְגִי – מָר סָבַר: שְׁמֵיהּ הֶיזֵּק, וּמָר סָבַר: לָא שְׁמֵיהּ הֶיזֵּק.
+> **Translation:** The Gemara explains: **With regard to what** principle **do they disagree? They disagree with regard to damage that is not evident,** i.e., a case where the value of an item was lowered due to a change that occurred that is not noticeable in the physical properties of that item. One **Sage,** Rabban Shimon ben Gamliel, **holds** that damage that is not evident **is termed damage.** Consequently, since the master is forced to emancipate his slave as a result of the action of the creditor, it is viewed as if the creditor has damaged the item of the master. **And** one **Sage,** the first *tanna*, **holds** that damage that is not evident **is not termed damage,** and the creditor is not liable to pay.
+
 Once Reuven is compelled to free the slave, the slave receives his freedom without having done anything to earn or pay for it. *Vechotev shtar al damav* — the slave then writes a promissory note to Reuven for his value, which represents a reasonable and even advantageous arrangement for the slave: freedom now in exchange for a debt to be repaid over time.
 
 Rabban Shimon ben Gamliel again disagrees: not the slave but *meshachrer kotev* — the one who freed him, i.e., Shimon, pays. As Rashi explains, consider the case where the slave's value exceeds the underlying debt — say, the debt was eight hundred and the slave is worth a thousand. Had Shimon simply seized the slave to collect his debt, he would have owed Reuven the surplus of two hundred. Now that Reuven is compelled to free the slave — costing him a thousand — and the debt of eight hundred is extinguished by Shimon's action, Shimon must return to Reuven the two hundred difference. The question, then, is whether that remaining obligation falls on the slave or on Shimon.
 
-### Textual Problems
-
-> **Hebrew/Aramaic:** בְּמַאי קָמִיפַּלְגִי? בְּהֶיזֵּק שֶׁאֵינוֹ נִיכָּר קָמִיפַּלְגִי – מָר סָבַר: שְׁמֵיהּ הֶיזֵּק, וּמָר סָבַר: לָא שְׁמֵיהּ הֶיזֵּק.
->
-> **Translation:** The Gemara explains: **With regard to what** principle **do they disagree? They disagree with regard to damage that is not evident,** i.e., a case where the value of an item was lowered due to a change that occurred that is not noticeable in the physical properties of that item. One **Sage,** Rabban Shimon ben Gamliel, **holds** that damage that is not evident **is termed damage.** Consequently, since the master is forced to emancipate his slave as a result of the action of the creditor, it is viewed as if the creditor has damaged the item of the master. **And** one **Sage,** the first *tanna*, **holds** that damage that is not evident **is not termed damage,** and the creditor is not liable to pay.
-
-> **Hebrew/Aramaic:** עוּלָּא, מַאי טַעְמָא לָא אָמַר כְּרַב? אָמַר לָךְ: שֵׁנִי – ״רַבּוֹ״ קָרֵית לֵיהּ?! וְרַב, מַאי טַעְמָא לָא אָמַר כְּעוּלָּא? אָמַר לָךְ: שֵׁנִי – ״מְשַׁחְרֵר״ קָרֵית לֵיהּ?!
->
-> **Translation:** The Gemara asks: **What is the reason** that **Ulla did not say** an explanation **in accordance with** the explanation of **Rav** with regard to the proper understanding of the mishna? The Gemara answers: Ulla could have **said to you:** Do **you call the second** person: **His master,** which is the term employed in the mishna to describe the one who emancipated the slave? The creditor never was in fact the master of the slave, as the slave was only liened to him. The Gemara asks: **And what is the reason** that **Rav did not say in accordance with** the explanation of **Ulla** with regard to the proper understanding of the mishna? The Gemara answers: Rav could have **said to you:** Do **you call the second** person: **One who emancipates,** which is the term employed in the mishna to describe the action taken? The action he performed is not emancipation, as he does not have the authority to emancipate a slave that does not belong to him.
-
 What underlies this dispute? *Behezek she'eino nikkar kamiflagi* — they debate the question of *hezek she'eino nikkar*, a non-visible or non-manifest damage. Shimon's act of purporting to free the slave effectively caused Reuven's ownership to be dissolved — the rabbis, responding to the perception Shimon created, compelled Reuven to lose his property. The damage, however, is not straightforwardly visible. *Tosafot* notes a legitimate difficulty here: is it truly imperceptible? A person walking around as a free man is visibly different from a slave. *Tosafot* further observes that the better characterization may be that the damage was indirect — Shimon did not himself take the slave; he merely made a declaration or issued a document that, through the rabbinic response to the resulting perception, led Reuven to lose his property. Either way, the dispute is whether this kind of damage — indirect, or at minimum not fully visible — constitutes a compensable tort: *mar savar shemeh hezek, umar savar lo shemeh hezek*.
 
 If Shimon's action is treated as damage, then Shimon pays Reuven the difference. If it is not treated as damage, then since no tort liability attaches to Shimon, the slave — who is the beneficiary of the freedom — bears the financial obligation.
+
+### Textual Problems
+
+> **Hebrew/Aramaic:** עוּלָּא, מַאי טַעְמָא לָא אָמַר כְּרַב? אָמַר לָךְ: שֵׁנִי – ״רַבּוֹ״ קָרֵית לֵיהּ?!
+> **Translation:** The Gemara asks: **What is the reason** that **Ulla did not say** an explanation **in accordance with** the explanation of **Rav** with regard to the proper understanding of the mishna? The Gemara answers: Ulla could have **said to you:** Do **you call the second** person: **His master,** which is the term employed in the mishna to describe the one who emancipated the slave? The creditor never was in fact the master of the slave, as the slave was only liened to him.
+
+> **Hebrew/Aramaic:** וְרַב, מַאי טַעְמָא לָא אָמַר כְּעוּלָּא? אָמַר לָךְ: שֵׁנִי – ״מְשַׁחְרֵר״ קָרֵית לֵיהּ?!
+> **Translation:** The Gemara asks: **And what is the reason** that **Rav did not say in accordance with** the explanation of **Ulla** with regard to the proper understanding of the mishna? The Gemara answers: Rav could have **said to you:** Do **you call the second** person: **One who emancipates,** which is the term employed in the mishna to describe the action taken? The action he performed is not emancipation, as he does not have the authority to emancipate a slave that does not belong to him.
 
 The *gemara* then asks why Ulla did not simply adopt Rav's reading, and vice versa. *Amar lach seifa rabo kari lei?* — Ulla objects that on Rav's reading, the *mishnah* refers to Shimon as "the master" when describing who writes the writ, but Shimon is not truly the master; calling him such would be misleading. Rav responds in kind: *sheini meshacher kari lei* — on Ulla's reading, the *mishnah* calls Shimon "the one who freed him" when it discusses Rabban Shimon ben Gamliel's position, but Shimon did not really free anyone; it was Reuven who actually executed the manumission. The conclusion is that both readings have textual problems: only Reuven is genuinely both the master and the freer, but the *mishnah*'s structure forces one to read Shimon into one of those roles, and neither assignment is entirely natural. Ulla's reading is particularly strained, since it requires interpreting *ein ha'eved chayav klum* as referring to *mitzvah* obligations rather than monetary ones — a difficult read by any measure.
 
@@ -143,19 +154,17 @@ The *gemara* then asks why Ulla did not simply adopt Rav's reading, and vice ver
 
 ## Apoteki Types
 
-### River Swamps Field
 
-> **Hebrew/Aramaic:** אִיתְּמַר: הָעוֹשָׂה שָׂדֵהוּ אַפּוֹתֵיקֵי לַאֲחֵרִים, וּשְׁטָפָהּ נָהָר; אַמֵּי שַׁפִּיר נָאֶה אָמַר רַבִּי יוֹחָנָן: אֵינוֹ גּוֹבֶה מִשְּׁאָר נְכָסִים; וַאֲבוּהּ דִּשְׁמוּאֵל אָמַר: גּוֹבֶה מִשְּׁאָר נְכָסִים.
->
-> **Translation:** § **It was stated** that the Sages disagreed with regard to a similar question: In the case of **one who sets aside his field as designated repayment for others** to whom he owes a debt, **and a river flooded** the field in a way that caused permanent damage, the Sage known as **Ami Shappir Na'e,** literally meaning Ami the Beautiful, says that **Rabbi Yoḥanan says:** The creditor **does not collect from other property,** and because this field was ruined the creditor incurs a loss. **And Shmuel's father said: He collects from other property.**
+
+### River Swamps Field
 
 Having treated the *mishnah*'s case at length, the *gemara* takes the opportunity to examine the nature of the *apoteki* lien more closely. A new case is introduced: *ha'oseh sadeh apotiki l'acherim veshatfah nahar* — someone designates his field as an *apoteki* for a creditor, and the field is subsequently swamped by a river and rendered worthless. The question is whether the creditor can now collect from the debtor's other assets.
 
+> **Hebrew/Aramaic:** אִיתְּמַר: הָעוֹשָׂה שָׂדֵהוּ אַפּוֹתֵיקֵי לַאֲחֵרִים, וּשְׁטָפָהּ נָהָר; אַמֵּי שַׁפִּיר נָאֶה אָמַר רַבִּי יוֹחָנָן: אֵינוֹ גּוֹבֶה מִשְּׁאָר נְכָסִים; וַאֲבוּהּ דִּשְׁמוּאֵל אָמַר: גּוֹבֶה מִשְּׁאָר נְכָסִים.
+> **Translation:** § **It was stated** that the Sages disagreed with regard to a similar question: In the case of **one who sets aside his field as designated repayment for others** to whom he owes a debt, **and a river flooded** the field in a way that caused permanent damage, the Sage known as **Ami Shappir Na’e,** literally meaning Ami the Beautiful, says that **Rabbi Yoḥanan says:** The creditor **does not collect from other property,** and because this field was ruined the creditor incurs a loss. **And Shmuel’s father said: He collects from other property.**
+
 ### Exclusive Rights
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: מִשּׁוּם דְּאַמֵּי שַׁפִּיר נָאֶה הוּא, אוֹמֵר שְׁמַעְתָּא דְּלָא שַׁפִּירָן?! תְּתַרְגַּם שְׁמַעְתֵּיהּ, דַּאֲמַר לֵיהּ: ״לֹא יְהֵא לְךָ פֵּרָעוֹן אֶלָּא מִזּוֹ״. תַּנְיָא נָמֵי הָכִי: הָעוֹשָׂה שָׂדֵהוּ אַפּוֹתֵיקֵי לְאַחֵר, וּשְׁטָפָהּ נָהָר – גּוֹבֶה מִשְּׁאָר נְכָסִים. וְאִם אָמַר לוֹ: ״לֹא יְהֵא לְךָ פֵּרָעוֹן אֶלָּא מִזּוֹ״ – אֵינוֹ גּוֹבֶה מִשְּׁאָר נְכָסִים.
->
-> **Translation:** **Rav Naḥman bar Yitzḥak said: Because Ami is beautiful [*shappir na'e*],** does **he say *halakhot* that are not beautiful** and correct? Why should the creditor not be able to collect his debt from other property? **Interpret his *halakha*** as referring to a case **where** the debtor **said** explicitly **to** the creditor: Not only is this field liened property, but **you will have payment only from this** field. In such a case, Ami Shappir Na'e ruled that if that field is destroyed, the creditor has no recourse. **This is also taught** in a *baraita*: In the case of **one who sets aside his field as designated repayment for another** to whom he owes a debt, **and a river flooded** the field, the creditor **collects from other property. But if** the debtor **said to** the creditor: **You will have payment only from this** field, then **he does not collect from other property.**
 
 *Immi Shafir Noeh* — a sage whose name means "of pleasant visage" — cites Rabbi Yochanan: *eino goveh mishar nechasim* — the creditor cannot collect from the debtor's other property. The *apoteki* is exclusive; by accepting this focused lien, the creditor surrendered his diffuse lien rights over the debtor's other holdings. If this property is gone, so is his ability to collect. *Va'avuah deShmuel amar goveh mishar nechasim* — the father of Shmuel disagrees, holding that the *apoteki* prioritizes that particular asset but does not eliminate the creditor's rights to other property; if that asset becomes unavailable, the creditor may look elsewhere.
 
@@ -163,9 +172,11 @@ Rav Nachman bar Yitzchak quips that because Immi is so attractive in person, his
 
 ### Three Grades
 
-> **Hebrew/Aramaic:** תַּנְיָא אִידַּךְ: הָעוֹשֶׂה שָׂדֵהוּ אַפּוֹתֵיקֵי לְבַעַל חוֹב וְלִכְתוּבַּת אִשָּׁה – גּוֹבִין מִשְּׁאָר נְכָסִים. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: בַּעַל חוֹב גּוֹבֶה מִשְּׁאָר נְכָסִים, אִשָּׁה אֵינָהּ גּוֹבָה מִשְּׁאָר נְכָסִים – שֶׁאֵין דַּרְכָּהּ שֶׁל אִשָּׁה לְחַזֵּר עַל בָּתֵּי דִינִין.
->
-> **Translation:** It **is taught** in **another** *baraita* (*Tosefta*, *Ketubot* 12:3): In the case of one **who sets aside his field as designated repayment to a creditor or for a woman's marriage contract,** and he later sells that field, the creditor or the woman **collects** only **from other property** but not from the field that was sold. **Rabban Shimon ben Gamliel says: A creditor collects** only **from other property,** but **a woman does not** need to **collect from other property.** She may seize the field that had been designated. What is the reason for the distinction? **Since it is not the way of a woman to go to court,** it is assumed that that particular field was designated to pay her marriage contract in any event, to avoid the need for her to enter into litigation to claim her due.
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: מִשּׁוּם דְּאַמֵּי שַׁפִּיר נָאֶה הוּא, אוֹמֵר שְׁמַעְתָּא דְּלָא שַׁפִּירָן?! תְּתַרְגַּם שְׁמַעְתֵּיהּ, דַּאֲמַר לֵיהּ: ״לֹא יְהֵא לְךָ פֵּרָעוֹן אֶלָּא מִזּוֹ״.
+> **Translation:** **Rav Naḥman bar Yitzḥak said: Because Ami is beautiful [*shappir na’e*],** does **he say *halakhot* that are not beautiful** and correct? Why should the creditor not be able to collect his debt from other property? **Interpret his *halakha*** as referring to a case **where** the debtor **said** explicitly **to** the creditor: Not only is this field liened property, but **you will have payment only from this** field. In such a case, Ami Shappir Na’e ruled that if that field is destroyed, the creditor has no recourse.
+
+> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: הָעוֹשָׂה שָׂדֵהוּ אַפּוֹתֵיקֵי לְאַחֵר, וּשְׁטָפָהּ נָהָר – גּוֹבֶה מִשְּׁאָר נְכָסִים. וְאִם אָמַר לוֹ: ״לֹא יְהֵא לְךָ פֵּרָעוֹן אֶלָּא מִזּוֹ״ – אֵינוֹ גּוֹבֶה מִשְּׁאָר נְכָסִים.
+> **Translation:** **This is also taught** in a *baraita*: In the case of **one who sets aside his field as designated repayment for another** to whom he owes a debt, **and a river flooded** the field, the creditor **collects from other property. But if** the debtor **said to** the creditor: **You will have payment only from this** field, then **he does not collect from other property.**
 
 The *gemara* resolves the apparent tension by distinguishing three grades of lien status. At the baseline level, one has ordinary, *stam* liens — diffuse rights over the debtor's assets generally, with no particular concentration on any one item. A standard *apoteki* — *stam apotiki* — grants the creditor stronger and more immediate rights to the designated property (perhaps he can void any attempted sale of it), but it does not eliminate his residual rights over the debtor's other assets. If the designated property is unavailable, he may still collect elsewhere. An *apoteki meforash*, however, is an explicitly exclusive designation — the parties agreed that *lo yehe pira'on ela mizu*, collection will come from this and this alone. In such a case, if the property is destroyed or lost, the creditor is simply out of luck and cannot pursue other assets.
 
@@ -173,19 +184,29 @@ This threefold scheme is corroborated by a *braitah*: *ha'oseh sadeh apotiki l'a
 
 ### Wife vs. Creditor
 
+> **Hebrew/Aramaic:** תַּנְיָא אִידַּךְ: הָעוֹשֶׂה שָׂדֵהוּ אַפּוֹתֵיקֵי לְבַעַל חוֹב וְלִכְתוּבַּת אִשָּׁה – גּוֹבִין מִשְּׁאָר נְכָסִים. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: בַּעַל חוֹב גּוֹבֶה מִשְּׁאָר נְכָסִים, אִשָּׁה אֵינָהּ גּוֹבָה מִשְּׁאָר נְכָסִים – שֶׁאֵין דַּרְכָּהּ שֶׁל אִשָּׁה לְחַזֵּר עַל בָּתֵּי דִינִין.
+> **Translation:** It **is taught** in **another** *baraita* (*Tosefta*, *Ketubot* 12:3): In the case of one **who sets aside his field as designated repayment to a creditor or for a woman’s marriage contract,** and he later sells that field, the creditor or the woman **collects** only **from other property** but not from the field that was sold. **Rabban Shimon ben Gamliel says: A creditor collects** only **from other property,** but **a woman does not** need to **collect from other property.** She may seize the field that had been designated. What is the reason for the distinction? **Since it is not the way of a woman to go to court,** it is assumed that that particular field was designated to pay her marriage contract in any event, to avoid the need for her to enter into litigation to claim her due.
+
+A further *braitah* extends the analysis to the *ketubah*. *Ha'oseh sadehu apotiki l'baal chov o liktuvas isha goveh mishar nechasim* — designating a field as an *apoteki* for a creditor or for a wife's *ketubah* does not prevent collection from other property. However, Rabban Shimon ben Gamliel distinguishes the two cases: *baal chov goveh mishar nechasim* — a creditor retains his general collection rights even after an *apoteki*, but *isha einah govah mishar nechasim* — a wife may not collect from other property. The reason given is *she'ein darchah shel isha l'chazer achar batei dinin* — it is not the manner of women to go pursing debts through the court system, tracing paper trails of transferred assets across multiple jurisdictions and proceedings.
+
 One might initially think this is a disadvantage — by restricting her to one asset, you limit her recovery. *Tosafot* addresses this directly: it is in fact protective, in that the *apoteki meforash* gives her iron-clad rights to that one designated asset and shields it from being sold away from her. She need not trace anything; she has a secured, nearly unchallengeable claim on that specific property. That is Rabban Shimon ben Gamliel's view of what serves her interests best.
 
 ---
 
 ## Half-Slave Half-Free
 
+
+
+[DAF:41b]
 ### Half Status Paradox
 
-> **Hebrew/Aramaic:** מִי שֶׁחֶצְיוֹ עֶבֶד וְחֶצְיוֹ בֶּן חוֹרִין – עוֹבֵד אֶת רַבּוֹ יוֹם אֶחָד, וְאֶת עַצְמוֹ יוֹם אֶחָד; דִּבְרֵי בֵּית הִלֵּל. בֵּית שַׁמַּאי אוֹמְרִים: תִּקַּנְתֶּם אֶת רַבּוֹ, וְאֶת עַצְמוֹ לֹא תִּקַּנְתֶּם – לִישָּׂא שִׁפְחָה אִי אֶפְשָׁר, שֶׁכְּבָר חֶצְיוֹ בֶּן חוֹרִין; בַּת חוֹרִין אִי אֶפְשָׁר, שֶׁכְּבָר חֶצְיוֹ עֶבֶד. יִבָּטֵל? וַהֲלֹא לֹא נִבְרָא הָעוֹלָם אֶלָּא לִפְרִיָּה וּרְבִיָּה, שֶׁנֶּאֱמַר: ״לֹא תוֹהוּ בְרָאָהּ לָשֶׁבֶת יְצָרָהּ״! אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם – כּוֹפִין אֶת רַבּוֹ וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב שְׁטָר עַל חֲצִי דָמָיו. וְחָזְרוּ בֵּית הִלֵּל לְהוֹרוֹת כְּדִבְרֵי בֵּית שַׁמַּאי.
->
-> **Translation:** MISHNA: In the case of **one who is a half-slave half-freeman** because only one of his two owners emancipated him, **he serves his master one day and** serves **himself one day;** this is **the statement of Beit Hillel. Beit Shammai say:** Through such an arrangement **you have remedied his master,** as his master loses nothing through this. However, **you have not remedied** the slave **himself,** as the slave himself remains in an unsustainable situation. **It is not possible** for him **to marry a maidservant** because **he is already a half-freeman,** as it is prohibited for a freeman to marry a maidservant. **It is** also **not possible** for him to marry **a free woman, as he is still a half-slave.** If you say **he should be idle** and not marry, **but isn't it** true that **the world was created only for procreation, as it is stated: "He did not create it to be a waste; He formed it to be inhabited"** (Isaiah 45:18)? **Rather, for the betterment of the world his master is forced to make him a freeman, and** the slave **writes** a promissory **note** accepting his responsibility to pay **half his value** to his master. **And Beit Hillel** ultimately **retracted** their opinion, **to rule in accordance with the statement of Beit Shammai,** that a half-slave must be set free.
-
 The *gemara* now turns to a celebrated *mishnah* dealing with the *chatzi eved chatzi ben chorin* — the person who is simultaneously half slave and half free. The simplest way this status arises is when a slave is owned jointly by two partners and one of them frees his half share while the other does not. The legal result is genuinely paradoxical. As we observed regarding the freeing of a slave, the transformation is not merely a question of who owns him — it is a question of identity. The half of him that has been freed has the legal status of a *ben chorin*, with the obligations and privileges that entails: he is obligated in *mitzvot* as a free person, and he is permitted to marry a Jewish woman. The half of him that remains a slave has the status of an *eved*, with a diminished level of *mitzvah* obligation and a prohibition against marrying a free Jewish woman. That *halacha* permits this dual status to coexist in a single person is itself remarkable.
+
+> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁחֶצְיוֹ עֶבֶד וְחֶצְיוֹ בֶּן חוֹרִין – עוֹבֵד אֶת רַבּוֹ יוֹם אֶחָד, וְאֶת עַצְמוֹ יוֹם אֶחָד; דִּבְרֵי בֵּית הִלֵּל. בֵּית שַׁמַּאי אוֹמְרִים: תִּקַּנְתֶּם אֶת רַבּוֹ, וְאֶת עַצְמוֹ לֹא תִּקַּנְתֶּם – לִישָּׂא שִׁפְחָה אִי אֶפְשָׁר, שֶׁכְּבָר חֶצְיוֹ בֶּן חוֹרִין;
+> **Translation:** MISHNA: In the case of **one who is a half-slave half-freeman** because only one of his two owners emancipated him, **he serves his master one day and** serves **himself one day;** this is **the statement of Beit Hillel. Beit Shammai say:** Through such an arrangement **you have remedied his master,** as his master loses nothing through this. However, **you have not remedied** the slave **himself,** as the slave himself remains in an unsustainable situation. **It is not possible** for him **to marry a maidservant** because **he is already a half-freeman,** as it is prohibited for a freeman to marry a maidservant.
+
+> **Hebrew/Aramaic:** בַּת חוֹרִין אִי אֶפְשָׁר, שֶׁכְּבָר חֶצְיוֹ עֶבֶד. יִבָּטֵל? וַהֲלֹא לֹא נִבְרָא הָעוֹלָם אֶלָּא לִפְרִיָּה וּרְבִיָּה, שֶׁנֶּאֱמַר: ״לֹא תוֹהוּ בְרָאָהּ לָשֶׁבֶת יְצָרָהּ״! אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם – כּוֹפִין אֶת רַבּוֹ וְעוֹשֶׂה אוֹתוֹ בֶּן חוֹרִין, וְכוֹתֵב שְׁטָר עַל חֲצִי דָמָיו. וְחָזְרוּ בֵּית הִלֵּל לְהוֹרוֹת כְּדִבְרֵי בֵּית שַׁמַּאי.
+> **Translation:** **It is** also **not possible** for him to marry **a free woman, as he is still a half-slave.** If you say **he should be idle** and not marry, **but isn’t it** true that **the world was created only for procreation, as it is stated: “He did not create it to be a waste; He formed it to be inhabited”** (Isaiah 45:18)? **Rather, for the betterment of the world his master is forced to make him a freeman, and** the slave **writes** a promissory **note** accepting his responsibility to pay **half his value** to his master. **And Beit Hillel** ultimately **retracted** their opinion, **to rule in accordance with the statement of Beit Shammai,** that a half-slave must be set free.
 
 ### Beit Hillel View
 
@@ -203,6 +224,7 @@ Perhaps one might suggest that he simply remain unmarried and forgo procreation.
 
 ### Beit Hillel Reversal
 
+
 *Vechazru Beis Hillel lehorot kedivrei Beis Shammai* — ultimately, *Beit Hillel* reversed their position and ruled in accordance with *Beit Shammai*. This is a striking reversal. We generally expect *Beit Hillel* to be the more lenient, more accommodating school — the ones responsive to the complexities of human circumstance. Here it is *Beit Shammai* who argued for the slave's liberation, and *Beit Hillel* who eventually accepted their stringent position.
 
 Why did *Beit Shammai* invoke the verse *lo tohu bera'ah* rather than simply citing the *mitzvah* of *peru urvu*? *Tosafot* addresses this directly: the *mitzvah* of *peru urvu* alone might be insufficient grounds to compel manumission, because one can be in a state of *ones* — involuntary inability to fulfill a *mitzvah* — without this generating any obligation on others to remedy the situation. People sometimes cannot perform *mitzvot* through no fault of their own, and God does not hold them accountable. We would not free a slave merely because he cannot sit in a *sukkah*. But *beit Shammai*'s argument goes beyond the technical question of *mitzvah* obligation: this is not just a *mitzvah* the slave is unable to fulfill. It touches something so fundamental to the human condition — the very reason the world was created — that leaving him in this state is simply unacceptable. A fully owned slave can marry and have children within his permitted sphere; this *chatzi eved chatzi ben chorin* cannot marry anyone at all. That is what demands correction.
@@ -213,25 +235,41 @@ Why did *Beit Shammai* invoke the verse *lo tohu bera'ah* rather than simply cit
 
 ## Half-Freedom Creation
 
+
+
 ### Master Frees Half
 
-> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: הַמְשַׁחְרֵר חֲצִי עַבְדּוֹ, רַבִּי אוֹמֵר: קָנָה, וַחֲכָמִים אוֹמְרִים: לֹא קָנָה.
->
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: הַמְשַׁחְרֵר חֲצִי עַבְדּוֹ, רַבִּי אוֹמֵר: קָנָה, וַחֲכָמִים אוֹמְרִים: לֹא קָנָה.
 > **Translation:** GEMARA: **The Sages taught:** With regard to a master **who emancipates** only **half of his slave, Rabbi** Yehuda HaNasi **says: He** has **acquired** himself, i.e., the transaction is complete and half of the slave is emancipated, **and the Rabbis say: He** has **not acquired** himself.
 
 The *gemara* now turns to the question of how the status of *chatzi eved chatzi ben chorin* can be created by a single owner. The *mishnah* assumed the case of two partners, but can one person, who owns a slave entirely, free only half? *Tanu rabbanan* — our rabbis taught: *hamishachrer chatzi avdo* — one who frees half of his slave. *Rabbi omer kana* — Rabbi holds that it takes effect; the slave acquires half of himself and becomes half-free. *Vachachamim omrim lo kana* — the sages hold that it does not take effect at all.
 
 ### Rabbi: Half Works
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה: מַחְלוֹקֶת בִּשְׁטָר – דְּרַבִּי סָבַר: ״וְהׇפְדֵּה לֹא נִפְדָּתָה אוֹ חוּפְשָׁה לֹא נִתַּן לָהּ״ – מַקִּישׁ שְׁטָר לְכֶסֶף, מָה כֶּסֶף – בֵּין כּוּלּוֹ בֵּין חֶצְיוֹ, אַף שְׁטָר נָמֵי – בֵּין כּוּלּוֹ בֵּין חֶצְיוֹ; וְרַבָּנַן גָּמְרִי ״לָהּ״–״לָהּ״ מֵאִשָּׁה – מָה אִשָּׁה חֶצְיָהּ לֹא, אַף עֶבֶד נָמֵי חֶצְיוֹ לֹא; אֲבָל בְּכֶסֶף – דִּבְרֵי הַכֹּל קָנָה, פְּדוּיָה וְאֵינָהּ פְּדוּיָה.
->
-> **Translation:** **Rabba said:** Their **dispute** pertains only to a case where the master emancipated him **with a bill** of manumission, **as Rabbi** Yehuda HaNasi **holds:** In the context of a Jewish man who engages in sexual intercourse with a maidservant who had been designated to cohabit with a Hebrew slave, the Torah writes that neither the Jewish man nor the maidservant is liable to receive the death penalty, though the man is liable to bring a guilt-offering. If the woman had been emancipated, she would be a regular married woman, and they would incur the death penalty for their act of intercourse. In describing the woman in that case, the Torah writes: **"And not at all redeemed, nor was freedom given to her"** (Leviticus 19:20). This is referring to two methods of emancipating a slave: Redemption via money, in the phrase: "And not at all redeemed," and emancipation via a bill of manumission, in the phrase: "Nor was freedom given her." The verse **juxtaposes** the freeing of a slave via **a bill** of manumission **to** the freeing of a slave via payment of **money,** to teach that **just as** with **money** the slave can free **either all of him or half of him,** for if he were to pay half of his value to the master he would be half-redeemed, **so too,** by receiving **a bill** of manumission **either all of him or half of him** can be emancipated. **And the Rabbis derive** their opinion, that a slave cannot acquire half of his freedom via a bill of manumission, **from** a verbal analogy of the word **"her [*lah*]"** written here: "Nor was freedom given to her [*lah*]" (Leviticus 19:20), and the word **"her [*lah*]"** written with regard to a man who divorces **a woman:** "And he writes her [*lah*] a scroll of severance" (Deuteronomy 24:1). **Just as** in the case of **a woman,** one is **not** able to divorce **half of her** with a bill of divorce, **so too,** in the case of **a slave,** one is **not** able to emancipate **half of him** with a bill of manumission. **However, with regard to** a slave who frees himself by giving **money, everyone agrees that** the slave **acquires** half of himself, and a female slave would also be partially **redeemed but not** fully **redeemed.**
+> **Hebrew/Aramaic:** אָמַר רַבָּה: מַחְלוֹקֶת בִּשְׁטָר – דְּרַבִּי סָבַר: ״וְהׇפְדֵּה לֹא נִפְדָּתָה אוֹ חוּפְשָׁה לֹא נִתַּן לָהּ״ –
+> **Translation:** **Rabba said:** Their **dispute** pertains only to a case where the master emancipated him **with a bill** of manumission, **as Rabbi** Yehuda HaNasi **holds:** In the context of a Jewish man who engages in sexual intercourse with a maidservant who had been designated to cohabit with a Hebrew slave, the Torah writes that neither the Jewish man nor the maidservant is liable to receive the death penalty, though the man is liable to bring a guilt-offering. If the woman had been emancipated, she would be a regular married woman, and they would incur the death penalty for their act of intercourse. In describing the woman in that case, the Torah writes: **“And not at all redeemed, nor was freedom given to her”** (Leviticus 19:20). This is referring to two methods of emancipating a slave: Redemption via money, in the phrase: “And not at all redeemed,” and emancipation via a bill of manumission, in the phrase: “Nor was freedom given her.”
+
+> **Hebrew/Aramaic:** מַקִּישׁ שְׁטָר לְכֶסֶף, מָה כֶּסֶף – בֵּין כּוּלּוֹ בֵּין חֶצְיוֹ, אַף שְׁטָר נָמֵי – בֵּין כּוּלּוֹ בֵּין חֶצְיוֹ;
+> **Translation:** The verse **juxtaposes** the freeing of a slave via **a bill** of manumission **to** the freeing of a slave via payment of **money,** to teach that **just as** with **money** the slave can free **either all of him or half of him,** for if he were to pay half of his value to the master he would be half-redeemed, **so too,** by receiving **a bill** of manumission **either all of him or half of him** can be emancipated.
+
 
 Raba explains: *machlokes beshtar* — the debate is specifically when the attempted half-liberation is effected by a *shtar*, a written writ of manumission. Rabbi derives his position from the verse dealing with a man who sleeps with a female slave: *vehaftay lo niftasah* — she has not been fully redeemed, *o chufshah lo nitan lah* — or her freedom has not been given to her. The first clause speaks of redemption through money (*pidyon*) and uses the formulation "not fully redeemed," already implying the possibility of partial redemption. The second clause speaks of freedom given through a document — the *shtar*. Rabbi reads a *hekesh*, a juxtaposition: the *shtar* is linked to the money. Just as money can achieve half-liberation — paying half one's value and thereby half-owning oneself — so too a *shtar* can achieve half-liberation. *Af shtar nami bein kulo bein chatziyo* — the *shtar* works whether for full or for half freedom.
+
+### Chachamim: All-or-Nothing
+
+
+> **Hebrew/Aramaic:** וְרַבָּנַן גָּמְרִי ״לָהּ״–״לָהּ״ מֵאִשָּׁה – מָה אִשָּׁה חֶצְיָהּ לֹא, אַף עֶבֶד נָמֵי חֶצְיוֹ לֹא; אֲבָל בְּכֶסֶף – דִּבְרֵי הַכֹּל קָנָה, פְּדוּיָה וְאֵינָהּ פְּדוּיָה.
+> **Translation:** **And the Rabbis derive** their opinion, that a slave cannot acquire half of his freedom via a bill of manumission, **from** a verbal analogy of the word **“her [*lah*]”** written here: “Nor was freedom given to her [*lah*]” (Leviticus 19:20), and the word **“her [*lah*]”** written with regard to a man who divorces **a woman:** “And he writes her [*lah*] a scroll of severance” (Deuteronomy 24:1). **Just as** in the case of **a woman,** one is **not** able to divorce **half of her** with a bill of divorce, **so too,** in the case of **a slave,** one is **not** able to emancipate **half of him** with a bill of manumission. **However, with regard to** a slave who frees himself by giving **money, everyone agrees that** the slave **acquires** half of himself, and a female slave would also be partially **redeemed but not** fully **redeemed.**
 
 The *chachamim* derive from this same verse by way of a *gezeirah shavah* — a verbal analogy. The phrase *chufshah lo nitan lah*, "her freedom given to her," employs the word *lah*, "to her," which also appears in the laws of divorce: *vechatav lah sefer keritut*, "and he shall write for her a writ of separation." This *gezeirah shavah* (*lah lah*) teaches that the *shtar* of manumission is structurally analogous to a *get* of divorce. And a *get* operates on an all-or-nothing basis — one cannot half-divorce a wife; a woman is either divorced or she is not. Accordingly, *af eved nami chatzio lo* — a slave cannot be half-freed by a *shtar*. The *shtar* speaks to the totality of personal identity and cannot be applied in fractional terms.
 
 ### Raba's Reading
+
+> **Hebrew/Aramaic:** לֵימָא בְּהָא קָמִיפַּלְגִי – דְּמָר סָבַר: הֶקֵּישָׁא עֲדִיף, וּמָר סָבַר: גְּזֵרָה שָׁוָה עֲדִיפָא?
+> **Translation:** The Gemara suggests: **Let us say that they disagree about this: As** one **Sage,** Rabbi Yehuda HaNasi, **holds** that a derivation from **a juxtaposition is preferable,** and consequently he derives the *halakha* of emancipation via a bill of manumission from the *halakha* stated in the same verse concerning redemption via money. **And** one **Sage,** i.e., the Rabbis, **holds** that **a verbal analogy is preferable** and therefore derives the *halakha* of emancipation via a bill of manumission from the *halakha* of the divorce of a woman, where the verse employs an analogous term.
+
+> **Hebrew/Aramaic:** לָא; דְּכוּלֵּי עָלְמָא גְּזֵירָה שָׁוָה עֲדִיפָא, וְשָׁאנֵי הָכָא דְּאִיכָּא לְמִיפְרַךְ: מָה לְאִשָּׁה שֶׁכֵּן אֵינָהּ יוֹצְאָה בְּכֶסֶף, תֹּאמַר בְּעֶבֶד שֶׁיּוֹצֵא בְּכֶסֶף.
+> **Translation:** The Gemara rejects this: **No, everyone agrees** that generally **a verbal analogy is preferable, but it is different here because** the verbal analogy **can be refuted** by stating the following: **What** is unique **about a woman** is that she **cannot leave** a marriage **via money** at all, **shall you say** that one should compare her case **to** that of **a slave, who does leave** his servitude **via money?** Since there are differences between divorce and emancipation, Rabbi Yehuda HaNasi holds that it is preferable to derive the *halakha* from a juxtaposition.
 
 Raba's reading of the debate thus emerges as follows. When it comes to money, all opinions agree that partial payment for one's freedom can produce a genuine half-free status — this is textually explicit in the *pasuk* (*peduya ve'eina peduya*). The debate is solely about the *shtar*: can a writ of manumission be issued for half a slave, or must it be all-or-nothing by analogy to a *get*? The conceptual underpinning of this question is significant. Money-based liberation is grounded in ownership: I pay half my value; I now half-own myself. The *shtar*, by contrast, speaks to identity rather than ownership — as discussed earlier in the context of why freeing a slave destroys a lien. A *shtar* either transforms a person into a *ben chorin* or it does not; it is about who you are, not about who owns what percentage of you. That is the pull toward the *get* analogy. Rabbi, however, holds that because money works at half — and because a slave is fundamentally different from a wife in that money can free a slave but not dissolve a marriage — the *shtar* too can operate at the halfway mark.
 
@@ -241,12 +279,12 @@ Raba's reading of the debate thus emerges as follows. When it comes to money, al
 
 ## Rav Yosef's View
 
-[DAF:41b]
+
+
 ### Shtar All-or-Nothing
 
-> **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר: מַחְלוֹקֶת בְּכֶסֶף – דְּרַבִּי סָבַר: ״וְהׇפְדֵּה לֹא נִפְדָּתָה״ – פְּדוּיָה וְאֵינָהּ פְּדוּיָה; וְרַבָּנַן סָבְרִי: דִּבְּרָה תּוֹרָה כִּלְשׁוֹן בְּנֵי אָדָם; אֲבָל בִּשְׁטָר – דִּבְרֵי הַכֹּל לֹא קָנָה.
->
-> **Translation:** **And Rav Yosef said:** The **dispute** between Rabbi Yehuda HaNasi and the Rabbis pertains only to a case where the slave was freed **via money, for Rabbi** Yehuda HaNasi **holds:** The *halakha* that a slave can be half-freed can be derived from the phrase: **"And not at all redeemed [*vehofde lo nifdata*]"** (Leviticus 19:20), indicating that she has been partially **redeemed but not** fully **redeemed. And the Rabbis hold: The Torah spoke in the language of people,** and the repetition of the verb in the verse is not to be used as a source for deriving a *halakha*. **However,** when the slave is half-emancipated **via a bill** of manumission, **everyone agrees that** the slave has **not acquired** himself and remains a full slave.
+> **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר: מַחְלוֹקֶת בְּכֶסֶף – דְּרַבִּי סָבַר: ״וְהׇפְדֵּה לֹא נִפְדָּתָה״ – פְּדוּיָה וְאֵינָהּ פְּדוּיָה; וְרַבָּנַן סָבְרִי: דִּבְּרָה תּוֹרָה כִּלְשׁוֹן בְּנֵי אָדָם; אֲבָל בִּשְׁטָר – דִּבְרֵי הַכֹּל לֹא קָנָה.
+> **Translation:** **And Rav Yosef said:** The **dispute** between Rabbi Yehuda HaNasi and the Rabbis pertains only to a case where the slave was freed **via money, for Rabbi** Yehuda HaNasi **holds:** The *halakha* that a slave can be half-freed can be derived from the phrase: **“And not at all redeemed [*vehofde lo nifdata*]”** (Leviticus 19:20), indicating that she has been partially **redeemed but not** fully **redeemed. And the Rabbis hold: The Torah spoke in the language of people,** and the repetition of the verb in the verse is not to be used as a source for deriving a *halakha*. **However,** when the slave is half-emancipated **via a bill** of manumission, **everyone agrees that** the slave has **not acquired** himself and remains a full slave.
 
 Rav Yosef offers a fundamentally different reading of the same debate. *Machloket bechesef* — the dispute between Rabbi and the *chachamim* is specifically about money, not about the *shtar*. On Rav Yosef's reading, there is no dispute about the *shtar*: *aval beshtar divrei hakol lo kana* — by a *shtar*, everyone agrees that half-liberation does not take effect; a *shtar* is all-or-nothing for all opinions. The debate is whether money can produce a half-free status. Rabbi reads *vehafpedeh lo nifdatah* as explicitly describing a woman who is half-redeemed — *peduya ve'eina peduya* — and therefore money can achieve half-freedom. The *chachamim* counter with *dibrah Torah kileshon bnei adam* — the Torah speaks in ordinary human language, and the phrase simply means she has not been redeemed at all; there is no textual evidence for a half-way monetary liberation.
 
@@ -254,26 +292,26 @@ So the two readings are mirror images. Raba holds that money is universally agre
 
 ### Braita Contradiction
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: הַמְשַׁחְרֵר חֲצִי עַבְדּוֹ בִּשְׁטָר, רַבִּי אוֹמֵר: קָנָה, וַחֲכָמִים אוֹמְרִים: לֹא קָנָה. תְּיוּבְתָּא דְּרַב יוֹסֵף! תְּיוּבְתָּא.
->
-> **Translation:** The Gemara **raises an objection** against Rav Yosef's statement based on what was taught in a *baraita*: With regard to **one who emancipates half** of **his slave with a bill** of manumission, **Rabbi** Yehuda HaNasi **says: He** has **acquired** himself, **and the Rabbis say: He has not acquired** himself. The Gemara concludes: **The refutation** of the opinion **of Rav Yosef is a conclusive refutation.**
+> **Hebrew/Aramaic:** מֵיתִיבִי: הַמְשַׁחְרֵר חֲצִי עַבְדּוֹ בִּשְׁטָר, רַבִּי אוֹמֵר: קָנָה, וַחֲכָמִים אוֹמְרִים: לֹא קָנָה. תְּיוּבְתָּא דְּרַב יוֹסֵף! תְּיוּבְתָּא.
+> **Translation:** The Gemara **raises an objection** against Rav Yosef’s statement based on what was taught in a *baraita*: With regard to **one who emancipates half** of **his slave with a bill** of manumission, **Rabbi** Yehuda HaNasi **says: He** has **acquired** himself, **and the Rabbis say: He has not acquired** himself. The Gemara concludes: **The refutation** of the opinion **of Rav Yosef is a conclusive refutation.**
+
+> **Hebrew/Aramaic:** (נֵימָא) בִּשְׁטָר הוּא דִּפְלִיגִי, אֲבָל בְּכֶסֶף לָא פְּלִיגִי; לֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרַב יוֹסֵף בְּתַרְתֵּי!
+> **Translation:** The Gemara suggests: In this *baraita*, **they disagree** in a case where the slave is half-emancipated **via a bill** of manumission. **However, they do not** explicitly **disagree** in a case where the slave is half-redeemed **with money. Shall we say** that **this is a conclusive refutation** of the statement **of Rav Yosef with regard to two** aspects: First, as above, Rabbi Yehuda HaNasi holds that he is half-freed via a bill of manumission; second, according to his statement, the dispute pertains to redeeming with money, yet the *baraita* gives no indication that the Rabbis would hold that the slave can be half-redeemed with money?
+
+> **Hebrew/Aramaic:** אָמַר לְךָ רַב יוֹסֵף: פְּלִיגִי בִּשְׁטָר, וְהוּא הַדִּין בְּכֶסֶף. וְהָא דְּקָא מִיפַּלְגִי בִּשְׁטָר – לְהוֹדִיעֲךָ כֹּחוֹ דְּרַבִּי.
+> **Translation:** The Gemara rejects this: **Rav Yosef** could have **said to you:** They **disagree with regard to** emancipation **via a bill** of manumission, **and the same is true,** that they would disagree, with regard to redeeming **with money. And this, that they** explicitly **disagree with regard to** emancipation **via a bill** of manumission, is **to convey to you the far-reaching** nature of the opinion **of Rabbi** Yehuda HaNasi, that a slave can be half-freed even by receiving a bill of manumission.
 
 *Meitivei* — an objection is raised from a *braitah*: *hamishachrer chatzi avdo beshtar — Rebbi omer kana, vachachamim omrim lo kana* — if someone frees half of his slave with a *shtar*, Rabbi says it works and the sages say it does not. This *braitah* makes it explicit that Rabbi and the *chachamim* debate the case of a *shtar*. That directly contradicts Rav Yosef's claim that everyone agrees a *shtar* is all-or-nothing. *Tiuvta deRav Yosef tiuvta* — this is a definitive refutation of Rav Yosef. Moreover, the *gemara* observes, the *braitah* debates only the *shtar* case; by mentioning only that, it seems to imply that money working halfway is undisputed — which would align with Raba and further undermine Rav Yosef's position that the money case is the one in dispute. The *gemara* asks whether this *braitah* constitutes a double refutation of Rav Yosef, on both counts.
 
 ### Defense of Rav Yosef
 
-> **Hebrew/Aramaic:** אָמַר לְךָ רַב יוֹסֵף: פְּלִיגִי בִּשְׁטָר, וְהוּא הַדִּין בְּכֶסֶף. וְהָא דְּקָא מִיפַּלְגִי בִּשְׁטָר – לְהוֹדִיעֲךָ כֹּחוֹ דְּרַבִּי. וְלִיפְלְגוּ בְּכֶסֶף, וּלְהוֹדִיעֲךָ כֹּחָן דְּרַבָּנַן! כֹּחַ דְּהֶיתֵּירָא עֲדִיף לֵיהּ.
->
-> **Translation:** The Gemara rejects this: **Rav Yosef** could have **said to you:** They **disagree with regard to** emancipation **via a bill** of manumission, **and the same is true,** that they would disagree, with regard to redeeming **with money. And this, that they** explicitly **disagree with regard to** emancipation **via a bill** of manumission, is **to convey to you the far-reaching** nature of the opinion **of Rabbi** Yehuda HaNasi, that a slave can be half-freed even by receiving a bill of manumission. The Gemara asks: **And let them disagree** with regard to redeeming **with money, and to convey to you the far-reaching nature of** the opinion of **the Rabbis,** that they hold he cannot be half-freed even through redeeming with money. The Gemara responds: It is **preferable to** the *tanna* to emphasize **the power of leniency,** and therefore the dispute is presented as it is.
-
 Rav Yosef responds: *phaligi beshtar vehu hadin bechesef* — yes, I accept that they debate the *shtar* case; I was wrong about that. But I maintain that they also debate the money case. There is no implication from the *braitah*'s silence about money that they agree on it. The *braitah* chose to frame the debate in terms of the *shtar*, and that does not establish consensus about money. The debate, in Rav Yosef's revised view, covers both modes: Rabbi holds that both money and *shtar* can achieve half-liberation; the *chachamim* hold that neither can.
+
+### Power of Stringency
+
+> **Hebrew/Aramaic:** וְלִיפְלְגֻי בְּכֶסֶף, וּלְהוֹדִיעֲךָ כֹּחָן דְּרַבָּנַן! כֹּחַ דְּהֶיתֵּירָא עֲדִיף לֵיהּ.
+> **Translation:** The Gemara asks: **And let them disagree** with regard to redeeming **with money, and to convey to you the far-reaching nature of** the opinion of **the Rabbis,** that they hold he cannot be half-freed even through redeeming with money. The Gemara responds: It is **preferable to** the *tanna* to emphasize **the power of leniency,** and therefore the dispute is presented as it is.
 
 This raises the obvious question: if both money and *shtar* are in dispute, why did the *braitah* frame the debate specifically about the *shtar* and not about money? *Lehodiecha kocho deRebbe* — to demonstrate the extent of Rabbi's position, its full strength. That Rabbi permits half-liberation via money is, in some ways, less surprising — money-based liberation tracks ownership, and partial ownership is easily conceptualized. But that Rabbi would extend this to the *shtar*, which speaks to identity and which is by analogy all-or-nothing like a *get*, represents a far more striking and bold ruling. The *braitah* chose to highlight the *shtar* case to show how far Rabbi is willing to go.
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: ״וְהׇפְדֵּה״; יָכוֹל לַכֹּל? תַּלְמוּד לוֹמַר: ״לֹא נִפְדָּתָה״. אִי ״לֹא נִפְדָּתָה״, יָכוֹל לַכֹּל? תַּלְמוּד לוֹמַר: ״וְהׇפְדֵּה״. הָא כֵּיצַד? פְּדוּיָה וְאֵינָהּ פְּדוּיָה; בְּכֶסֶף וּבְשָׁוֶה כֶּסֶף. וְאֵין לִי אֶלָּא בְּכֶסֶף, בִּשְׁטָר מִנַּיִן? תַּלְמוּד לוֹמַר: ״וְהׇפְדֵּה לֹא נִפְדָּתָה אוֹ חוּפְשָׁה לֹא נִתַּן לָהּ״, וּלְהַלָּן הוּא אוֹמֵר: ״וְכָתַב לָהּ סֵפֶר כְּרִיתוּת״ – מָה לְהַלָּן בִּשְׁטָר, אַף כָּאן בִּשְׁטָר. אֵין לִי אֶלָּא חֶצְיוֹ בְּכֶסֶף, אוֹ כּוּלּוֹ בִּשְׁטָר; חֶצְיוֹ בִּשְׁטָר מִנַּיִן? תַּלְמוּד לוֹמַר: ״וְהׇפְדֵּה לֹא נִפְדָּתָה אוֹ חוּפְשָׁה לֹא נִתַּן לָהּ״ – מַקִּישׁ שְׁטָר לְכֶסֶף, מָה כֶּסֶף בֵּין כּוּלּוֹ בֵּין חֶצְיוֹ, אַף שְׁטָר נָמֵי בֵּין כּוּלּוֹ בֵּין חֶצְיוֹ.
->
-> **Translation:** The Gemara suggests: **Come** and **hear** a proof with regard to this discussion based on a *baraita*: The verse in Leviticus employs the double expression "*vehofde lo nifdata*," literally: And redeemed not redeemed, in discussing the designated maidservant. The *baraita* analyzes this wording. If the verse had stated only **"and redeemed,"** one **might** have thought that the verse discusses a maidservant that is **entirely** redeemed. Therefore, **the verse states "not redeemed." If** it had stated only **"not redeemed,"** one **might** have thought that it means **an entirely** unredeemed maidservant, i.e., a full maidservant. Therefore, **the verse states "and redeemed." How** can **these** texts be reconciled? The verse is discussing a case where she is partially **redeemed but not** fully **redeemed.** This was accomplished **via money or an equivalent** value of **money. And I have** derived **only** that she can be partially redeemed **via money. From where** do I derive that she can also be emancipated **via a bill** of manumission? **The verse states: "And not at all redeemed, nor was freedom given to her"** (Leviticus 19:20), **and later on,** in the case of divorce, **it states: "And he writes her a scroll of severance"** (Deuteronomy 24:1). **Just as later on** freedom is granted **via a bill** of divorce, **so too here,** a maidservant is freed **via a bill** of manumission. **I have** derived **only** that **half of** a slave can be redeemed **via money,** as detailed above, **or that** **all of him** can be emancipated **via a bill** of manumission. **From where** do I derive that **half of him** can be emancipated **via a bill** of manumission? **The verse states: "And not at all redeemed, nor was freedom given her,"** and thereby **juxtaposes a bill** of manumission **to money. Just as** a slave can be **either fully** redeemed **or** half-redeemed via **money, so too, he** can **be either fully** emancipated **or** half-emancipated via **a bill** of manumission. This marks the end of the *baraita*.
-
 But then why not, conversely, frame the debate in terms of money, to demonstrate the reach of the *chachamim*'s restrictive position — that not even money works halfway? Here the *gemara* invokes the principle *koach deheteira adif leh* — the power of the permitting position is always the more significant, and it is that which the tradition prefers to highlight. It is easy and intuitive to say that something does not work — that it is not perfect, not complete, and therefore invalid. The *chachamim*'s refusal even of half-liberation via money is not surprising; things tend toward either-or. What is remarkable is Rabbi's readiness to validate the halfway, and most remarkable of all is his willingness to validate it even via *shtar*. That is the position worth highlighting, and that is why the *braitah* frames the debate as it does.
-
----

@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Scriptural Proof",
+    "candidates": [
+      "Opening & Location",
+      "Three Groups",
+      "Scriptural Proof",
+      "Gedola Chazaka",
+      "No Genealogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the question 'from where do we derive that they ascended?' and the scriptural answer together, matching the 'Three Groups' section's prose which frames both the question (minalan disliku) and anticipates the verse answer, whereas the 'Scriptural Proof' section's prose only covers the answer/verse portion.",
+      "chosen_heading": "Three Groups",
+      "current_heading": "Scriptural Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "No Genealogy",
+    "candidates": [
+      "Gedola Chazaka",
+      "No Genealogy",
+      "Kodshei Kodashim",
+      "Terumah Exemption",
+      "Terumah Jurisdiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita where Rabbi Yosei introduces 'gedola chazaka' and cites the Ezra verses \u2014 this is precisely what the 'Gedola Chazaka' section prose describes, whereas the current placement under 'No Genealogy' focuses on the verse's content about lack of documentation rather than the principle being introduced.",
+      "chosen_heading": "Gedola Chazaka",
+      "current_heading": "No Genealogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Terumah Jurisdiction",
+    "candidates": [
+      "Kodshei Kodashim",
+      "Terumah Exemption",
+      "Terumah Jurisdiction",
+      "Chazaka Strength",
+      "Gerim & Freedmen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items deal continuously with the same topic discussed in candidate 2's prose: the teruma exemption for these kohanim, the ma'alin mitrumah le'yichus complication, what 'gedola chazaka' means in terms of rabbinic vs. Torah-level teruma, and the textual question about kodshei hakodashim \u2014 all of which are explicitly addressed in candidate 2's prose.",
+      "chosen_heading": "Terumah Jurisdiction",
+      "current_heading": "Terumah Jurisdiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Gerim & Freedmen",
+    "candidates": [
+      "Chazaka Strength",
+      "Gerim & Freedmen",
+      "Intermarriage Issue",
+      "Mamzeirim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the derivation for converts/emancipated slaves and the derivation for mamzeirim from Tobiah the Ammonite's marriages \u2014 are explicitly discussed together in candidate 1's prose, which covers exactly this sequence of geirim, charurim, and mamzeirim with the same verses cited.",
+      "chosen_heading": "Gerim & Freedmen",
+      "current_heading": "Gerim & Freedmen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mamzeirim",
+    "candidates": [
+      "Intermarriage Issue",
+      "Mamzeirim",
+      "Genealogy Proof",
+      "Tel Melach Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the exact objections discussed in candidate 0's prose \u2014 that the mamzer ruling only holds according to one opinion, and that we don't rule that way \u2014 matching perfectly with 'Intermarriage Issue' rather than the current placement under 'Mamzeirim' which discusses the subsequent further objections about whether they had children and where they were born.",
+      "chosen_heading": "Intermarriage Issue",
+      "current_heading": "Mamzeirim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Tel Melach Derasha",
+    "candidates": [
+      "Genealogy Proof",
+      "Tel Melach Derasha",
+      "Shtukim",
+      "Asufim",
+      "Leopard Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage quotes and begins interpreting the verse from Nehemiah 7:61, which is precisely what the 'Genealogy Proof' section's prose describes \u2014 introducing the verse and its plain meaning about those who could not establish their Israelite identity \u2014 while the Tel Melach derasha itself is only partially covered here before moving into Tel Charsha, suggesting the passage straddles both sections but fits better as the transition point under 'Genealogy Proof' where the verse is first introduced and the derasha begins.",
+      "chosen_heading": "Genealogy Proof",
+      "current_heading": "Tel Melach Derasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Leopard Metaphor",
+    "candidates": [
+      "Shtukim",
+      "Asufim",
+      "Leopard Metaphor",
+      "Unequal Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the 'asufi' derivation (foundling gathered from the marketplace) and the Cherub/Addon/Namer aggadah, and the prose under 'Asufim' explicitly discusses both the asufi definition and the Keruv Addon ve'Immer names, making it the clear home for this combined textual unit.",
+      "chosen_heading": "Asufim",
+      "current_heading": "Leopard Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Unequal Marriage",
+    "candidates": [
+      "Leopard Metaphor",
+      "Unequal Marriage",
+      "Marrying for Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about marrying a woman who is not suited/fitting ('hogenet') and the Tel Melah/Tel Harsha verse is precisely what the 'Unequal Marriage' prose section describes and explicates.",
+      "chosen_heading": "Unequal Marriage",
+      "current_heading": "Unequal Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Marrying for Money",
+    "candidates": [
+      "Marrying for Money",
+      "Divine Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern marrying for money and the consequent loss of offspring quality and wealth, which is precisely what the 'Marrying for Money' prose discusses in detail, including the same verse, the same Rav Nachman bar Yitzchak explanation, and the same points about chelkeihem and chodesh.",
+      "chosen_heading": "Marrying for Money",
+      "current_heading": "Marrying for Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Divine Judgment",
+    "candidates": [
+      "Divine Judgment",
+      "Kol Haposel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the teaching about marrying an unsuited woman and Elijah binding/God strapping, which is precisely what the 'Divine Judgment' prose discusses and analyzes in detail.",
+      "chosen_heading": "Divine Judgment",
+      "current_heading": "Divine Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Kol Haposel",
+    "candidates": [
+      "Kol Haposel",
+      "Butcher Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'kol haposel pasul' teaching and Shmuel's 'bemumo posel' maxim, which is precisely what the prose under heading 0 discusses and explains.",
+      "chosen_heading": "Kol Haposel",
+      "current_heading": "Kol Haposel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Butcher Incident",
+    "candidates": [
+      "Butcher Incident",
+      "Court Summons",
+      "Huna's Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the butcher shop incident in Pumbedita, the mocking of Rav Yehuda's name, the excommunication, and the slave declaration \u2014 all of which are precisely what the 'Butcher Incident' prose section discusses.",
+      "chosen_heading": "Butcher Incident",
+      "current_heading": "Butcher Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Huna's Advice",
+    "candidates": [
+      "Court Summons",
+      "Huna's Advice",
+      "Yehuda Arrives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the summons arriving and Rav Yehuda consulting Rav Huna, but the 'Court Summons' prose explicitly describes the pitka de'azmana being delivered and sets up the consultation, making it a slightly better fit than the current 'Huna's Advice' heading which focuses only on the advice portion \u2014 however the current placement also works since the bulk of the text is the advice exchange.",
+      "chosen_heading": "Court Summons",
+      "current_heading": "Huna's Advice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Yehuda Arrives",
+    "candidates": [
+      "Yehuda Arrives",
+      "Terminology Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Yehuda's arrival, the challenge about performing labor as a communal leader, and Rav Nachman's minimizing response plus the question about terminology \u2014 all of which is narrated and discussed in the 'Yehuda Arrives' prose, which already describes exactly this exchange including the terminology challenge about ma'aka/mechitza.",
+      "chosen_heading": "Yehuda Arrives",
+      "current_heading": "Yehuda Arrives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Terminology Dispute",
+    "candidates": [
+      "Terminology Dispute",
+      "Women's Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the terminology dispute over words for bench, citron, and drink (karfita/safsal/itzteva, etronga/etrog/etroga, anbaga/ispargus/anpak), which is precisely what the 'Terminology Dispute' section prose describes.",
+      "chosen_heading": "Terminology Dispute",
+      "current_heading": "Terminology Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Women's Service",
+    "candidates": [
+      "Women's Service",
+      "Yalta's Intervention",
+      "Nachman's Capitulation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Women's Service",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Dunag pouring wine and the kol be'ishah ervah exchange, which are explicitly discussed in the 'Women's Service' prose.",
+      "second_heading": "Yalta's Intervention",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the conclusion of the greeting exchange ending with Yalta's intervention sending a message to her husband, which matches the 'Yalta's Intervention' prose exactly.",
+      "current_heading": "Women's Service",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Nachman's Capitulation",
+    "candidates": [
+      "Yalta's Intervention",
+      "Nachman's Capitulation",
+      "Hasmonean Claim",
+      "Slave Verdict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items cover exactly the sequence described in candidate 1's prose: Rav Nachman asking what brings Rav Yehuda, the subpoena exchange, the nidui/lashes discussion, and the slave proclamation challenge \u2014 all continuous deliberation under 'Nachman's Capitulation.'",
+      "chosen_heading": "Nachman's Capitulation",
+      "current_heading": "Nachman's Capitulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Slave Verdict",
+    "candidates": [
+      "Hasmonean Claim",
+      "Slave Verdict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the litigant's claim of Hasmonean descent AND Rav Yehuda's slave verdict reply, making it a single unit; however, section 0 ('Hasmonean Claim') introduces the litigant's challenge while section 1's prose covers Rav Yehuda's reply \u2014 but since the Gemara text is one continuous exchange, and the passage opens with the litigant's arrival and claim (matching section 0's prose about the litigant stepping forward), while section 1's prose separately describes Rav Yehuda's response as if the Gemara text were already presenting it, the passage best fits under section 0 where the litigant's arrival and claim are introduced, with the reply naturally following in the same quoted unit.",
+      "chosen_heading": "Hasmonean Claim",
+      "current_heading": "Slave Verdict",
+      "moved": true
+    }
+  }
+]

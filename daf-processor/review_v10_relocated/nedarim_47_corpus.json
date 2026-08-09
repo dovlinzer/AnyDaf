@@ -1,0 +1,250 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah intro",
+    "candidates": [
+      "Mishnah intro",
+      "Ran's distinctions",
+      "Shivrei keilim",
+      "Sukkah parallel",
+      "Avimi's question",
+      "Core question",
+      "Rava's proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly introduces Avimi's dilemma about whether one can forbid a house to another person ('konam labayit zeh she-atah nichnas') and what happens if the owner dies or sells it, which is precisely what the 'Avimi's question' section discusses, including the framing of 'ein adam oser davar she-eino shelo' and the ownership context.",
+      "chosen_heading": "Avimi's question",
+      "current_heading": "Mishnah intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rava's proof",
+    "candidates": [
+      "Ran's distinctions",
+      "Shivrei keilim",
+      "Sukkah parallel",
+      "Avimi's question",
+      "Core question",
+      "Rava's proof",
+      "Implicit vs explicit",
+      "Ran's problems",
+      "Inheritance paradox",
+      "Hekdesh vs nedarim",
+      "Mishna case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from Bava Kamma about the father's konam to his son and inheritance, which is exactly what the 'Rava's proof' section prose describes.",
+      "chosen_heading": "Rava's proof",
+      "current_heading": "Rava's proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Mishna case",
+    "candidates": [
+      "Implicit vs explicit",
+      "Ran's problems",
+      "Inheritance paradox",
+      "Hekdesh vs nedarim",
+      "Mishna case",
+      "Rami's question",
+      "Rami's analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself stating the konam peirot ha-eilu case with chilufeihem u-giduleihem, which matches exactly the 'Mishna case' section prose that introduces and describes this very mishna.",
+      "chosen_heading": "Mishna case",
+      "current_heading": "Mishna case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rami's analogy",
+    "candidates": [
+      "Rami's question",
+      "Rami's analogy",
+      "Two possibilities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's initial question about whether chilufeihem applies when the neder is directed at another person, which matches the 'Rami's question' heading prose exactly \u2014 the analogy and two-sided reasoning he uses to frame the dilemma is the content of the question itself, not a separate elaboration.",
+      "chosen_heading": "Rami's question",
+      "current_heading": "Rami's analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Two possibilities",
+    "candidates": [
+      "Rami's analogy",
+      "Two possibilities",
+      "Wife case",
+      "Ran's caveat",
+      "Creditor question",
+      "First answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the second possibility ('o dilma mishum de-chilufin ke-gidulin dami') that replacements are like growths and therefore forbidden universally to both him and another, which is precisely what the 'Two possibilities' section's prose discusses and quotes directly.",
+      "chosen_heading": "Two possibilities",
+      "current_heading": "Two possibilities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "First answer",
+    "candidates": [
+      "Wife case",
+      "Ran's caveat",
+      "Creditor question",
+      "First answer",
+      "Rava's orlah proof",
+      "Orlah explained"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Creditor question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav A\u1e25a bar Minyumi's proof from the wife/creditor case asking whether chilufin are like gidulin, which matches heading 2 ('Creditor question') exactly.",
+      "second_heading": "First answer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's rejection of that proof via the lechatchila/bedi'avad distinction, which matches heading 3 ('First answer') exactly.",
+      "current_heading": "First answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Orlah explained",
+    "candidates": [
+      "Rava's orlah proof",
+      "Orlah explained",
+      "Two-step removal",
+      "Legality discussion",
+      "Orlah burning",
+      "Rambam ruling",
+      "Ra'avad objects",
+      "Ownership question",
+      "Cherem cases",
+      "Olei bavel defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from the orlah mishna and the gemara's response that it only shows bedi'avad permissibility, which matches heading 0's prose about Rava bringing this proof, not heading 1 which discusses the explanation of why orlah kiddushin fails and the significance of chilufei issur.",
+      "chosen_heading": "Rava's orlah proof",
+      "current_heading": "Orlah explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Olei bavel defined",
+    "candidates": [
+      "Two-step removal",
+      "Legality discussion",
+      "Orlah burning",
+      "Rambam ruling",
+      "Ra'avad objects",
+      "Ownership question",
+      "Cherem cases",
+      "Olei bavel defined",
+      "City property",
+      "Radical implication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together form the complete Mishnah on cherem cases \u2014 item 1 introduces the basic cherem formulas and item 2 completes it with the definitions of Olei Bavel and city property \u2014 and the prose of candidate 6 ('Cherem cases') directly describes this Mishnah's content including the hareini alecha/harei at alai formulas and the Olei Bavel distinction, making it a clearly better match than the current placement under 'Olei bavel defined' (index 7) which covers only the second half.",
+      "chosen_heading": "Cherem cases",
+      "current_heading": "Olei bavel defined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Radical implication",
+    "candidates": [
+      "City property",
+      "Radical implication",
+      "Rabbi Elazar consistency",
+      "Ktiva solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mechanics of writing over one's share to the Nasi (ktiva), the difference between writing to the Nasi versus a common person regarding formal conferral of possession, and the Galileans' ancestral writing \u2014 all of which are precisely what the 'Ktiva solution' prose section introduces and discusses.",
+      "chosen_heading": "Ktiva solution",
+      "current_heading": "Radical implication",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Ktiva solution",
+    "candidates": [
+      "Rabbi Elazar consistency",
+      "Ktiva solution",
+      "Rabbi Yehuda view",
+      "Rabbis' response",
+      "Galil exemption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ktiva solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's clarification of the mishna's remedy (writing to the Nasi), which matches the 'Ktiva solution' prose about the practical mechanism of writing over one's share.",
+      "second_heading": "Rabbi Yehuda view",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Rabbi Yehuda's distinction between writing to the Nasi vs. a hedyot and the Rabbis' response, which spans both 'Rabbi Yehuda view' and \"Rabbis' response\" \u2014 but since both speakers appear in item 2, it best fits under 'Rabbi Yehuda view' as the starting point of that dispute.",
+      "current_heading": "Ktiva solution",
+      "moved": true
+    }
+  }
+]

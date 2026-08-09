@@ -1,0 +1,485 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Pasuk Division",
+    "candidates": [
+      "Chalalah vs. Zonah",
+      "Kohein Hedyot Dispute",
+      "Giyores Status",
+      "Giyores Positions",
+      "De'oraisa/Derabbanan",
+      "Modern Applications",
+      "Pasuk Division",
+      "Shmuel Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly depicts Rav Nachman's challenge to Rava about whether a single verse can address two different groups (High Priest and common priest), which is precisely what the 'Pasuk Division' section's prose describes.",
+      "chosen_heading": "Pasuk Division",
+      "current_heading": "Pasuk Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Shmuel Precedent",
+    "candidates": [
+      "Shmuel Precedent",
+      "Almana Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Shmuel precedent \u2014 the verse about the lamp and Shmuel lying in the Temple, the problem of sitting in the azarah, and the resolution by redistributing the verse's clauses \u2014 which is precisely what the 'Shmuel Precedent' prose section describes.",
+      "chosen_heading": "Shmuel Precedent",
+      "current_heading": "Shmuel Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Almana Interpretation",
+    "candidates": [
+      "Almana Interpretation",
+      "Widow-Daughter Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the interpretation of 'mikohein yikchu' as meaning all other priests may marry a widow, and includes the baraita confirmation \u2014 exactly what the 'Almana Interpretation' prose describes, before moving to Rabbi Yehuda's widow-daughter rule in the next section.",
+      "chosen_heading": "Almana Interpretation",
+      "current_heading": "Almana Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Widow-Daughter Rule",
+    "candidates": [
+      "Widow-Daughter Rule",
+      "Halacha k'Rabbi Yossi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Yehuda's widow-daughter rule (*kol she-atah nosei bito atah nosei almanato*), which is exactly what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Widow-Daughter Rule",
+      "current_heading": "Widow-Daughter Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Halacha k'Rabbi Yossi",
+    "candidates": [
+      "Halacha k'Rabbi Yossi",
+      "Post-Destruction Practice",
+      "Prospective/Retroactive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the halacha ke-Rabbi Yose ruling AND the post-destruction priestly practice, and the current heading's prose explicitly covers both Rav Hamnuna and Rabbah bar bar Chana's declarations, making it the best single home for this unified Talmudic excerpt.",
+      "chosen_heading": "Halacha k'Rabbi Yossi",
+      "current_heading": "Halacha k'Rabbi Yossi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Prospective/Retroactive",
+    "candidates": [
+      "Post-Destruction Practice",
+      "Prospective/Retroactive",
+      "Father Not Believed",
+      "Legal Basis",
+      "Parents Not Believed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the prospective/retroactive distinction (consulting before vs. after marriage), matching exactly the prose of candidate 1 about ruling like Rabbi Eliezer ben Yaakov before the fact and Rabbi Yossi after the fact.",
+      "chosen_heading": "Prospective/Retroactive",
+      "current_heading": "Prospective/Retroactive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Parents Not Believed",
+    "candidates": [
+      "Father Not Believed",
+      "Legal Basis",
+      "Parents Not Believed",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the mishnah's ruling that neither the father alone nor both parents together are believed to declare mamzerut \u2014 including the lo mibaya structure explaining why even the mother is not believed and even for a fetus without chazakah de-kashrut \u2014 which is precisely what the 'Parents Not Believed' prose describes.",
+      "chosen_heading": "Parents Not Believed",
+      "current_heading": "Parents Not Believed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Migo Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda's position and the baraita supporting it (yakir/yakirenu le-acheirim), along with the Rabbis' dissent, which is precisely what the prose under heading 0 ('Rabbi Yehuda') discusses.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Migo Argument",
+    "candidates": [
+      "Migo Argument",
+      "Future Earnings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the question of why 'yakir' is needed according to the rabbanan and the migo argument regarding giving a double portion as a gift \u2014 exactly what the 'Migo Argument' prose describes, before the resolution about future earnings appears in the next section.",
+      "chosen_heading": "Migo Argument",
+      "current_heading": "Migo Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Future Earnings",
+    "candidates": [
+      "Future Earnings",
+      "Goses Debate",
+      "Father's Override",
+      "Uncertainty Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's discussion of property that comes to the father at a later point and Rabbi Meir's position on transferring things not yet in the world, which is precisely what the 'Future Earnings' section's prose describes.",
+      "chosen_heading": "Future Earnings",
+      "current_heading": "Future Earnings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Uncertainty Resolution",
+    "candidates": [
+      "Goses Debate",
+      "Father's Override",
+      "Uncertainty Resolution",
+      "Woman's Override",
+      "Father's Reasoning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Father's Override",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the father's agency case including the uncertainty resolution (both give a get / one gives get and other marries), which matches heading 1 'Father's Override' and heading 2 'Uncertainty Resolution' \u2014 but since these items are the Mishnah text that heading 1's prose explicitly describes, and heading 2's prose covers the uncertainty scenario that is part of the same Mishnah, the natural structural break is between the father's case (items 1-2) and the woman's parallel case (item 3).",
+      "second_heading": "Woman's Override",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the parallel case of a woman who authorized her agent and then betrothed herself, which exactly matches heading 3 'Woman's Override' whose prose describes this precise scenario.",
+      "current_heading": "Uncertainty Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Father's Reasoning",
+    "candidates": [
+      "Woman's Override",
+      "Father's Reasoning",
+      "Woman's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why it is necessary to state both cases, beginning with the father's case and the reasoning that a man is expert in lineage (gavra kim leh be-yuchsin), which is precisely what the 'Father's Reasoning' prose section describes.",
+      "chosen_heading": "Father's Reasoning",
+      "current_heading": "Father's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Woman's Reasoning",
+    "candidates": [
+      "Woman's Reasoning",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the woman's reasoning (*itata daika u-minsava*) and why stating only the woman's case would be insufficient, which is precisely what the 'Woman's Reasoning' prose section describes.",
+      "chosen_heading": "Woman's Reasoning",
+      "current_heading": "Woman's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Scenario Setup",
+      "Rav Position",
+      "Shmuel Position",
+      "Six-Month Window"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full scenario setup including both Rav's and Shmuel's positions in a single Talmudic statement, and the 'Scenario Setup' prose explicitly describes this combined case and question, making it the best home for the complete quoted text before the essay breaks down each position separately.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Six-Month Window",
+    "candidates": [
+      "Rav Position",
+      "Shmuel Position",
+      "Six-Month Window",
+      "Mikvah Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's question-and-answer about the precise timing of the betrothal (within six months, after six months, or on the very day the six months complete), which is exactly what the 'Six-Month Window' prose describes.",
+      "chosen_heading": "Six-Month Window",
+      "current_heading": "Six-Month Window",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Mikvah Validity",
+    "candidates": [
+      "Mikvah Validity",
+      "Tarti Le're'usa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the mikvah mishna and asks how Shmuel can differentiate from it, which is exactly what the 'Mikvah Validity' section's prose describes \u2014 the tannaitic ruling about a deficient mikvah and its retroactive impurity implications.",
+      "chosen_heading": "Mikvah Validity",
+      "current_heading": "Mikvah Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Tarti Le're'usa",
+    "candidates": [
+      "Tarti Le're'usa",
+      "Chavit Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara dialectic about tarti le-rei'usa versus chada le-rei'usa \u2014 the mikvah/bogeres comparison that the prose under heading 0 explicitly describes.",
+      "chosen_heading": "Tarti Le're'usa",
+      "current_heading": "Tarti Le're'usa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Chavit Analogy",
+    "candidates": [
+      "Chavit Analogy",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chavit Analogy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the barrel/chavit baraita and its three-day rule, which matches the 'Chavit Analogy' prose describing that baraita and the safek ruling.",
+      "second_heading": "Rabbi Shimon",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 resolve the contradiction between the chavit and mikvah cases via Rabbi Shimon's position and return to the bogeres/Shmuel difficulty, precisely matching the 'Rabbi Shimon' prose about R. Shimon treating both cases as safek and the structural parallel resolving the contradiction.",
+      "current_heading": "Chavit Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Shimon",
+      "Deathbed Gift Case",
+      "Rabbi Yaakov View",
+      "Rabbi Natan View",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 ('Let us say it is parallel to a dispute between tanna'im') is the Gemara's transitional phrase wrapping up the previous discussion and introducing the tannaitic parallel, most naturally closing out the Rabbi Shimon section.",
+      "second_heading": "Deathbed Gift Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the deathbed gift scenario and the 'who removes from whom' question, which is precisely what the 'Deathbed Gift Case' prose describes.",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Deathbed Gift Case",
+      "Rabbi Yaakov View",
+      "Rabbi Natan View",
+      "Reconciliation",
+      "Dual Baraitas",
+      "Harmonization Try",
+      "Claim Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yaakov View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rabbi Yaakov / Rabbi Natan dispute itself, which belongs under 'Rabbi Natan View' (index 2) where the prose explicitly says 'the gemara considers: does this dispute map onto the dispute of Rav and Shmuel?' \u2014 item 1 is the source baraita being discussed there.",
+      "second_heading": "Reconciliation",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the gemara's rejection of the mapping and Rav's and Shmuel's reconciling statements ('ana d'amri afilu'), which match exactly the 'Reconciliation' prose at index 3.",
+      "current_heading": "Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Claim Distinction",
+    "candidates": [
+      "Dual Baraitas",
+      "Harmonization Try",
+      "Claim Distinction",
+      "Rav Yosef Incident",
+      "Shmuel Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's suggestion that the dispute between Rav and Shmuel parallels the two tannaitic baraitas, asking 'is it not the case that one baraita follows Rav and one follows Shmuel?' \u2014 this is precisely the 'Harmonization Try' content described in candidate 1.",
+      "chosen_heading": "Harmonization Try",
+      "current_heading": "Claim Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Shmuel Rebuke",
+    "candidates": [
+      "Rav Yosef Incident",
+      "Shmuel Rebuke",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the reconciliation attempt (items 1-2) and its rejection (item 3) \u2014 that together demonstrate Rav and Shmuel genuinely disagree, which is precisely what candidate 0 ('Rav Yosef Incident') is about; candidate 1 ('Shmuel Rebuke') covers only Shmuel's angry reaction and its implications, which is a later sub-topic, while this passage is still in the thick of proving the dispute is real.",
+      "chosen_heading": "Rav Yosef Incident",
+      "current_heading": "Shmuel Rebuke",
+      "moved": true
+    }
+  }
+]

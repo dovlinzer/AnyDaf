@@ -86,9 +86,7 @@ The evidence for Rabbi Padat's claim is drawn from a *baraita* concerning the *p
 
 ### Tosafot's Use
 
-Before the *gemara* tests this proposed resolution, it is worth noting how *Tosafot* deploys it practically. On the previous *daf*, *Tosafot* confronted the question of why, in his time, Jews left their animals in the stables of non-Jews without concern — seemingly in violation of the *mishnah*. *Tosafot*'s ultimate answer was precisely this final resolution of the *gemara*: since the debate is between Rabbi Eliezer and the *chachamim* over whether to be concerned about *riva'ah* at all, and since the *halacha* follows the *chachamim*, we rule that there is no concern for such acts. For *Tosafot*, this is not an evasion but a clean *pesak*: the *mishnah*'s prohibition reflects Rabbi Eliezer's minority position, and the majority view of the *chachamim* — that we are not concerned — is the operative ruling.
-
----
+*Tosafot* raises the question of why Jews in his time would leave their animals in the stables of non-Jews without concern, and his basic answer is that the *gemara*'s final resolution frames the underlying issue as a debate between Rabbi Eliezer and the *chachamim* over whether to be concerned about such acts at all — and since the *halacha* follows the *chachamim*, those concerns are effectively set aside. This allows *Tosafot* to bracket the troubling implications of the *mishnah* as reflecting Rabbi Eliezer's minority position rather than the operative ruling.
 
 ## Burden Question
 

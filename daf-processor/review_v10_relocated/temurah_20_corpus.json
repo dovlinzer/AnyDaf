@@ -1,0 +1,405 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Female Asham Problem",
+    "candidates": [
+      "Opening & Overview",
+      "Female Asham Problem",
+      "Transform Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about why a female asham must wait for a blemish before being sold, which is precisely the content described in the 'Female Asham Problem' prose section.",
+      "chosen_heading": "Female Asham Problem",
+      "current_heading": "Female Asham Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Transform Doctrine",
+    "candidates": [
+      "Transform Doctrine",
+      "Rava's Logic",
+      "Rav Kahana vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav Yehuda amar Rav statement about migu d'nachit kedushat damim/kedushat haguf and Rava's inference about hamakdish zachar lidamav, which are precisely what the 'Transform Doctrine' prose introduces and explains as the core teaching of that section.",
+      "chosen_heading": "Transform Doctrine",
+      "current_heading": "Transform Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rav Kahana vs. Rava",
+    "candidates": [
+      "Rava's Logic",
+      "Rav Kahana vs. Rava",
+      "Rabbi Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav Kahana vs. Rava dispute and Rava's retraction based on Rav Yehuda citing Rav, which is precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Rav Kahana vs. Rava",
+      "current_heading": "Rav Kahana vs. Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Rabbi Shimon's View",
+      "Challenge to Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Shimon's position and the gemara's challenge/resolution regarding kedushat haguf vs. kedushat damim for a wrong-gender asham animal, which is precisely what candidate 0's prose discusses in detail, including the specific migo d'necheta challenge and the baraita about asham ben shana/ben shtayim.",
+      "chosen_heading": "Rabbi Shimon's View",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Challenge to Shimon",
+    "candidates": [
+      "Challenge to Shimon",
+      "Pesach Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about the mechusar zman challenge to Rabbi Shimon's position \u2014 exactly what the 'Challenge to Shimon' prose describes in detail, including the objection, the answer about future fitness, the asham ben shtayim counter, and the baraita deriving from bechor.",
+      "chosen_heading": "Challenge to Shimon",
+      "current_heading": "Challenge to Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Pesach Exception",
+    "candidates": [
+      "Pesach Exception",
+      "Olah Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous unit covering exactly the content described in the 'Pesach Exception' prose: the baraita about consecrating a female for olah/pesach/asham, Rabbi Shimon's dispute, the temurah principle, Rabbi Yehuda HaNasi's challenge regarding pesach, and the gemara's explanation of why Rebbe doesn't extend his objection to asham (because of nedavat tzibur).",
+      "chosen_heading": "Pesach Exception",
+      "current_heading": "Pesach Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Olah Concession",
+    "candidates": [
+      "Olah Concession",
+      "Testing Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain testing Rabbi Shimon's olah reasoning \u2014 the bird olah suggestion, the parah adumah objection/answer, and the king/individual goat permutations \u2014 all of which are explicitly described and analyzed in the 'Olah Concession' prose section.",
+      "chosen_heading": "Olah Concession",
+      "current_heading": "Olah Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Testing Limits",
+    "candidates": [
+      "Testing Limits",
+      "Bird Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the gemara's probing of the nasi/se'ir case \u2014 sinning before appointment and the relevance of the male goat \u2014 which is precisely what the 'Testing Limits' prose describes, not the bird olah discussion of 'Bird Alternative'.",
+      "chosen_heading": "Testing Limits",
+      "current_heading": "Testing Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Bird Alternative",
+    "candidates": [
+      "Bird Alternative",
+      "Eliezer View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Shimon holding like Rabbi Elazar ben Azarya regarding the bird alternative for a voluntary olah, which is precisely what the 'Bird Alternative' section's prose discusses.",
+      "chosen_heading": "Bird Alternative",
+      "current_heading": "Bird Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Eliezer View",
+    "candidates": [
+      "Eliezer View",
+      "Yehoshua View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the mishna from Shekalim and Rabbi Eliezer's ruling that animals are sold and proceeds go to bedek habayit, which is precisely what the 'Eliezer View' prose describes.",
+      "chosen_heading": "Eliezer View",
+      "current_heading": "Eliezer View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Yehoshua View",
+    "candidates": [
+      "Yehoshua View",
+      "Female Olah Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua's view on how consecrated animals are treated (males as olot, females sold for shelamim proceeds used for olot), which matches exactly the prose under 'Yehoshua View' that explains this same position.",
+      "chosen_heading": "Yehoshua View",
+      "current_heading": "Yehoshua View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Female Olah Issue",
+    "candidates": [
+      "Female Olah Issue",
+      "Yehoshua Agrees Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the same question (in two versions) posed by Rabbi \u1e24iyya bar Abba to Rabbi Yo\u1e25anan \u2014 namely, how can females with kedushat haguf as olot be sold without a mum \u2014 which is exactly the difficulty described in candidate 0's prose about the Female Olah Issue.",
+      "chosen_heading": "Female Olah Issue",
+      "current_heading": "Female Olah Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Yehoshua Agrees Shimon",
+    "candidates": [
+      "Yehoshua Agrees Shimon",
+      "Mishna Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous dispute between Rabbi Yo\u1e25anan and Rabbi \u1e24iyya bar Abba about whether Rabbi Yehoshua follows Rabbi Shimon's view \u2014 including the objections and Rabbi Yo\u1e25anan's final resolution citing Rabbi Shimon ben Yehuda \u2014 which exactly matches the 'Yehoshua Agrees Shimon' prose describing this very chain of reasoning.",
+      "chosen_heading": "Yehoshua Agrees Shimon",
+      "current_heading": "Yehoshua Agrees Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Mishna Law",
+    "candidates": [
+      "Mishna Law",
+      "Eliezer Dissent",
+      "Elazar Dissent",
+      "Five Cases",
+      "Default Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishna text covering all three opinions (the default rule, Rabbi Eliezer, and Rabbi Elazar), and the current heading's prose directly introduces and explains this complete mishna, making it the best fit.",
+      "chosen_heading": "Mishna Law",
+      "current_heading": "Mishna Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Default Halacha",
+    "candidates": [
+      "Eliezer Dissent",
+      "Elazar Dissent",
+      "Five Cases",
+      "Default Halacha",
+      "Private vs. Communal",
+      "Private Olah Details",
+      "Communal Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists all five cases of a derailed asham (owners died, owners atoned with another animal, etc.) along with the three-way dispute between tanna kamma, Rabbi Eliezer, and Rabbi Elazar, which directly matches the 'Five Cases' prose describing the mishnah widening the discussion to all cases where an asham becomes unavailable.",
+      "chosen_heading": "Five Cases",
+      "current_heading": "Default Halacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Communal Details",
+    "candidates": [
+      "Private vs. Communal",
+      "Private Olah Details",
+      "Communal Details",
+      "Eliezer's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's answer to 'what is the difference between Rabbi Elazar and the Rabbis?' \u2014 they present the contrast as a unit, which matches heading 0's prose about the mishna posing exactly that question, rather than belonging under the separate 'Private Olah Details' or 'Communal Details' headings that describe each side in isolation.",
+      "chosen_heading": "Private vs. Communal",
+      "current_heading": "Communal Details",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Eliezer's Logic",
+    "candidates": [
+      "Communal Details",
+      "Eliezer's Logic",
+      "After Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the tzericha argument explaining why both cases in the mishna were necessary \u2014 exactly what candidate 1 ('Eliezer's Logic') describes in its prose about the decree after atonement vs. before atonement and the necessity of stating Rabbi Eliezer's ruling in both contexts.",
+      "chosen_heading": "Eliezer's Logic",
+      "current_heading": "Eliezer's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "After Atonement",
+    "candidates": [
+      "After Atonement",
+      "Rava Rejects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "After Atonement",
+      "first_confidence": "high",
+      "first_reason": "Items 1 is Rav Nachman's teaching that before atonement everyone agrees the offspring itself is brought as an asham, which is exactly what heading 0 ('After Atonement') describes \u2014 Rav Nachman's ruling and its framing.",
+      "second_heading": "Rava Rejects",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are Rava's two refutations of that premise followed by the corrected version of Rav Nachman's statement, which is exactly what heading 1 ('Rava Rejects') describes.",
+      "current_heading": "After Atonement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rava Rejects",
+    "candidates": [
+      "Rava Rejects",
+      "Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the Gemara conceding 'kasha' (difficulty) after citing Rav \u1e24ananya's baraita in support of Rabbi Yehoshua ben Levi \u2014 matches exactly the end of Candidate 1's prose, which explicitly describes the gemara concluding with 'kasha' after the second-generation offspring issue is raised.",
+      "chosen_heading": "Clarification",
+      "current_heading": "Rava Rejects",
+      "moved": true
+    }
+  }
+]

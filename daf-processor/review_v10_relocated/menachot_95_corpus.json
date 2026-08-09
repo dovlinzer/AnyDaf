@@ -1,0 +1,336 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Kaveiret & Squared",
+    "candidates": [
+      "V-Shape Debate",
+      "Kaveiret & Squared",
+      "Tosafot Reconciliation",
+      "Sideboards Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about the mold resembling a rectangular tablet and the Gemara's response that only the opening was square-shaped, which is exactly what the 'Kaveiret & Squared' section's prose discusses.",
+      "chosen_heading": "Kaveiret & Squared",
+      "current_heading": "Kaveiret & Squared",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Sideboards Theory",
+    "candidates": [
+      "Tosafot Reconciliation",
+      "Sideboards Theory",
+      "Merosheihem Meaning",
+      "Rambam Box Shape",
+      "Question Posed",
+      "Becomes Pasul View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Baraita about four golden sideboards (snifim) supporting boat-shaped bread, which is precisely what the 'Sideboards Theory' section's prose discusses \u2014 the same Baraita, the same terminology (snifim, dakranim, sefina rokedet), and the same interpretation.",
+      "chosen_heading": "Sideboards Theory",
+      "current_heading": "Sideboards Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Becomes Pasul View",
+    "candidates": [
+      "Merosheihem Meaning",
+      "Rambam Box Shape",
+      "Question Posed",
+      "Becomes Pasul View",
+      "Remains Kosher View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma (ibaia lehu) about whether shewbread becomes disqualified during journeys, which matches exactly the 'Question Posed' section's prose introducing this very question, before the debate between the two views is elaborated.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Becomes Pasul View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Remains Kosher View",
+    "candidates": [
+      "Becomes Pasul View",
+      "Remains Kosher View",
+      "Rav Dimi Reframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the full debate \u2014 the 'becomes pasul' view (item 1), the 'not disqualified' view (item 2), and the counter-reading of the shared verse (item 3) \u2014 and candidate 0 ('Becomes Pasul View') is where this debate begins, with its prose explicitly summarizing both sides of this exact exchange including the ka'asher yachanu verse and the le-idach gisa rebuttal, whereas candidate 1's prose already presupposes the reader has seen the debate open and moves to elaborating the second view's additional support.",
+      "chosen_heading": "Becomes Pasul View",
+      "current_heading": "Remains Kosher View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rav Dimi Reframe",
+    "candidates": [
+      "Rav Dimi Reframe",
+      "Practical Stability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening of Rav Dimi's reframing \u2014 item 1 introduces the mesudar/mesulak distinction and item 2 gives the reason of the 'disqualified' opinion \u2014 exactly what heading 0's prose describes as Rav Dimi's reformulation of the debate.",
+      "chosen_heading": "Rav Dimi Reframe",
+      "current_heading": "Rav Dimi Reframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Practical Stability",
+    "candidates": [
+      "Practical Stability",
+      "Zevachim Baraita",
+      "Apparent Contradiction",
+      "Two Cases Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Practical Stability",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the amoraic debate about the verses 'venasah ohel moed' and 'ka'asher yachanu kein yisa'u', which candidate 0's prose explicitly describes in detail.",
+      "second_heading": "Zevachim Baraita",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 introduce the Zevachim baraita ('meitivei') and the logical contradiction it creates, matching candidate 1's prose which discusses this baraita and the tension it generates.",
+      "current_heading": "Practical Stability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Two Cases Solution",
+    "candidates": [
+      "Zevachim Baraita",
+      "Apparent Contradiction",
+      "Two Cases Solution",
+      "Night Travel Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Ravin's resolution that the two Amoraim were discussing different cases (arranged vs. removed bread), which is exactly what the 'Two Cases Solution' prose describes.",
+      "chosen_heading": "Two Cases Solution",
+      "current_heading": "Two Cases Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Night Travel Inference",
+    "candidates": [
+      "Night Travel Inference",
+      "Rabbi Eliezer View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Abaye inference about night travel and the immediate Gemara challenge/resolution \u2014 exactly the content described in the 'Night Travel Inference' prose section.",
+      "chosen_heading": "Night Travel Inference",
+      "current_heading": "Night Travel Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Rabbi Eliezer View",
+    "candidates": [
+      "Rabbi Eliezer View",
+      "Three Purity Levels",
+      "Mixed Location View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit presenting the contradiction between two baraitot and Rav Ashi's resolution via the Rabbi Eliezer/Rabbis dispute, which is precisely what the 'Rabbi Eliezer View' prose describes in detail.",
+      "chosen_heading": "Rabbi Eliezer View",
+      "current_heading": "Rabbi Eliezer View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Mixed Location View",
+    "candidates": [
+      "Three Purity Levels",
+      "Mixed Location View",
+      "Lina Problem",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the Mishna about kneading/shaping outside and baking inside, the Gemara's 'ha gufa kashya' comment, the dry-measure contradiction, Rabba's attribution to Rav Sheshet, the 'mai kashya/dilma isaron' exchange, and Rava's reformulation of the real difficulty \u2014 are precisely the content described in the 'Mixed Location View' prose, which walks through each of these steps in order.",
+      "chosen_heading": "Mixed Location View",
+      "current_heading": "Mixed Location View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Lina Problem",
+      "Rav Ashi Challenge",
+      "Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's resolution suggesting 'bifnim' means 'in a place of vigilant people' rather than literally inside the Temple, which is precisely what the 'Rav Ashi Challenge' section describes.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Refutation",
+    "candidates": [
+      "Refutation",
+      "Rabbi Yehuda: All Inside",
+      "Rabbi Shimon: All Outside",
+      "Same Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's refutation of Rav Ashi's explanation, which is exactly what the 'Refutation' section's prose describes in detail.",
+      "chosen_heading": "Refutation",
+      "current_heading": "Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Same Verse Source",
+    "candidates": [
+      "Rabbi Yehuda: All Inside",
+      "Rabbi Shimon: All Outside",
+      "Same Verse Source",
+      "Biblical Narrative",
+      "Rav Yehuda Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Abbahu bar Kahana's statement that both Rabbi Yehuda and Rabbi Shimon derived their opinions from the same verse, which is precisely what the 'Same Verse Source' section's prose discusses.",
+      "chosen_heading": "Same Verse Source",
+      "current_heading": "Same Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Rav Yehuda Reading",
+    "candidates": [
+      "Biblical Narrative",
+      "Rav Yehuda Reading",
+      "Rabbi Shimon Reading",
+      "Me'ila Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Yehuda Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present Rabbi Yehuda's and Rabbi Shimon's competing readings of the verse, which is exactly what candidates 1 ('Rav Yehuda Reading') and 2 ('Rabbi Shimon Reading') discuss \u2014 but since both views appear together they belong under the first of those headings where the dispute is introduced, i.e., candidate 1.",
+      "second_heading": "Me'ila Issue",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's challenge ('how can you say David found them at the time of baking?') based on the verse about bread already removed from the Table, which is precisely what candidate 3 ('Me'ila Issue') addresses in its prose.",
+      "current_heading": "Rav Yehuda Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Me'ila Issue",
+    "candidates": [
+      "Rabbi Shimon Reading",
+      "Me'ila Issue",
+      "Pikuach Nefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage clarifies what David meant by 'derech chol' in the context of the me'ila question \u2014 explaining that the priests told David the only bread available was the shewbread removed from before God \u2014 which directly matches the Me'ila Issue section's prose about David addressing the me'ila question regarding bread already removed from the Shulchan.",
+      "chosen_heading": "Me'ila Issue",
+      "current_heading": "Me'ila Issue",
+      "moved": false
+    }
+  }
+]

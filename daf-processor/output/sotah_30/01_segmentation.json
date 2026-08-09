@@ -116,8 +116,8 @@
           "timestamp": "20:12"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "The Challah Dispute: Rabbi Eliezer's Use of a Kebeitzah Interposition and the Debate on Chulin Tumah Transmission (continued)",
@@ -630,5 +630,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "20:49",
+  "amud_b_micro_title": "Gemara Analysis",
+  "shiur_start_daf": 29,
+  "shiur_start_amud": "b"
 }

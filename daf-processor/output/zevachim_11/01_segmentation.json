@@ -24,7 +24,7 @@
           "timestamp": "02:00"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 25,
       "matched": true
     },
     {
@@ -59,7 +59,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Finding the Common Ground: Both Olah and Chatat Are Kodshei Kodashim",
@@ -82,7 +82,7 @@
           "timestamp": "10:28"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -169,8 +169,8 @@
           "timestamp": "19:20"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Rav Yehuda's Explanation: How the Mincha Resembles Chatat and Asham",
@@ -193,7 +193,7 @@
           "timestamp": "22:29"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -217,8 +217,8 @@
           "timestamp": "23:28"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "The Rabbis' Derivation: Asham and Chatat Both Require Semichah (Leaning)",
@@ -391,7 +391,7 @@
           "timestamp": "58:46"
         }
       ],
-      "sefaria_index": 39,
+      "sefaria_index": 41,
       "matched": true
     }
   ],
@@ -850,5 +850,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 28
+  "amud_b_sefaria_index": 28,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "41:04",
+  "amud_b_micro_title": "Chatat-Olah",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "b"
 }

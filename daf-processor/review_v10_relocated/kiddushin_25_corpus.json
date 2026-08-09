@@ -1,0 +1,352 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Usability Standard",
+    "candidates": [
+      "Usability Standard",
+      "Pre-existing Conditions",
+      "Necessity of Both Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both baraitot \u2014 the first about striking a functioning eye/tooth and the usability standard, and the second about pre-existing conditions \u2014 and the current heading's prose explicitly describes both, making it the correct placement (the separate headings 1 and 2 describe the Gemara's subsequent analysis of these baraitot, not the baraitot themselves).",
+      "chosen_heading": "Usability Standard",
+      "current_heading": "Usability Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Necessity of Both Cases",
+    "candidates": [
+      "Pre-existing Conditions",
+      "Necessity of Both Cases",
+      "Master-Doctor Injury",
+      "Intent Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's classic 'tzericha' argument explaining why both the first and second baraitot must be stated despite apparently teaching the same principle, which is precisely what candidate 1 ('Necessity of Both Cases') describes.",
+      "chosen_heading": "Necessity of Both Cases",
+      "current_heading": "Necessity of Both Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Intent Requirement",
+    "candidates": [
+      "Master-Doctor Injury",
+      "Intent Requirement",
+      "Fetus Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita describes the master-doctor scenario (painting the eye, drilling the tooth) and the emancipation ruling, which matches the 'Master-Doctor Injury' prose exactly, while Rabban Shimon ben Gamliel's dissent about intent is included in the same baraita text and is separately discussed in the 'Intent Requirement' section's prose.",
+      "chosen_heading": "Master-Doctor Injury",
+      "current_heading": "Intent Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Fetus Case",
+    "candidates": [
+      "Intent Requirement",
+      "Fetus Case",
+      "Veshichatah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbanan's use of 've-shichatah' to derive Rabbi Elazar's ruling, which is precisely what the 'Intent Requirement' prose describes when it says 'The Rabbanan who do not require destructive intent must account for the word ve-shichatah. They respond: mibaei lei le-khidatanya\u2014the word is needed to teach the ruling of Rabbi Elazar.'",
+      "chosen_heading": "Intent Requirement",
+      "current_heading": "Fetus Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Veshichatah Debate",
+    "candidates": [
+      "Fetus Case",
+      "Veshichatah Debate",
+      "Complete Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the debate over 'shichat' vs 'shichatah' and whether the doubled form is expounded, which is precisely what the 'Veshichatah Debate' prose section discusses.",
+      "chosen_heading": "Veshichatah Debate",
+      "current_heading": "Veshichatah Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Complete Removal",
+    "candidates": [
+      "Complete Removal",
+      "24 Limb Heads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Sheshet's ruling about a blind eye being gouged out and the slave going free because he is 'mechusar eivar,' which is precisely what heading 0 ('Complete Removal') describes in its prose.",
+      "chosen_heading": "Complete Removal",
+      "current_heading": "Complete Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "24 Limb Heads",
+    "candidates": [
+      "24 Limb Heads",
+      "Testicles Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items match exactly what candidate 0's prose describes: the baraita about unblemished/male status for animals vs. birds, the bird blemish exclusion (withered wing, severed leg, gouged eye), and Rabbi Hiyya bar Ashi/Rav Huna's ruling about an extra finger freeing a slave \u2014 all explicitly covered in the '24 Limb Heads' section prose.",
+      "chosen_heading": "24 Limb Heads",
+      "current_heading": "24 Limb Heads",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Testicles Query",
+    "candidates": [
+      "Testicles Query",
+      "Hamnuna's Mission",
+      "Castration & Tongue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the elders' boycott of Rav \u1e24isda's lecture and their castration question to Rav Hamnuna \u2014 are exactly the content described in candidate 0's prose, which narrates the whole exchange from the boycott through Rav Hamnuna's failure to answer.",
+      "chosen_heading": "Testicles Query",
+      "current_heading": "Testicles Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Castration & Tongue",
+    "candidates": [
+      "Hamnuna's Mission",
+      "Castration & Tongue",
+      "Tumah Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All eight items deal continuously with the baraita about the twenty-four extremities, Rabbi's castration ruling, ben Azzai's tongue ruling, and the textual ordering dispute \u2014 exactly the content described in candidate 1's prose about 'Castration & Tongue.'",
+      "chosen_heading": "Castration & Tongue",
+      "current_heading": "Castration & Tongue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Tumah Context",
+    "candidates": [
+      "Tumah Context",
+      "Tvilah Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Ulla's statement specifically about the tongue's status for tum'ah through contact (nega'), which is precisely what the 'Tumah Context' prose describes, not the tvilah context.",
+      "chosen_heading": "Tumah Context",
+      "current_heading": "Tumah Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Tvilah Context",
+    "candidates": [
+      "Tvilah Context",
+      "Maidservant Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the tvilah/immersion context and the dispute between Rabbi and the Rabbis over whether sprinkling is compared to impurity or immersion, which is precisely the content described in the 'Tvilah Context' prose.",
+      "chosen_heading": "Tvilah Context",
+      "current_heading": "Tvilah Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Maidservant Story",
+    "candidates": [
+      "Maidservant Story",
+      "Natural Cavities",
+      "Potential vs. Actual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly recounts the maidservant incident (ma'aseh be-shifchato shel beis Rebbe) and Rabbi's requirement for a second immersion, which is precisely what the 'Maidservant Story' prose section describes and discusses.",
+      "chosen_heading": "Maidservant Story",
+      "current_heading": "Maidservant Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Potential vs. Actual",
+    "candidates": [
+      "Natural Cavities",
+      "Potential vs. Actual",
+      "Blemish Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together state the 'rauy la-vo' principle for natural cavities and its Rabbi Zeira analogy, which is precisely what the 'Natural Cavities' prose discusses, while the current 'Potential vs. Actual' heading already covers this same material in its own prose \u2014 but the passage itself is the direct Gemara source for the Natural Cavities section's opening resolution.",
+      "chosen_heading": "Natural Cavities",
+      "current_heading": "Potential vs. Actual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Blemish Verse",
+    "candidates": [
+      "Potential vs. Actual",
+      "Blemish Verse",
+      "Testicle Blemish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's position that all four blemish terms refer to the testicles, which is precisely what the 'Blemish Verse' section's prose describes.",
+      "chosen_heading": "Blemish Verse",
+      "current_heading": "Blemish Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Testicle Blemish",
+    "candidates": [
+      "Testicle Blemish",
+      "Yosi's Position",
+      "Mishna Modes",
+      "Hagbaha Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the dispute between Rabbi Yehuda, Rabbi Eliezer ben Yaakov, and Rabbi Yosi about whether testicle blemishes qualify, which is precisely what the 'Testicle Blemish' section's prose addresses.",
+      "chosen_heading": "Testicle Blemish",
+      "current_heading": "Testicle Blemish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Hagbaha Dispute",
+    "candidates": [
+      "Yosi's Position",
+      "Mishna Modes",
+      "Hagbaha Dispute",
+      "Shmuel Challenge",
+      "Alignment Question",
+      "Shimon Opinion",
+      "Rashi's Hierarchy",
+      "Rav Yosef Query",
+      "Abaye Solutions",
+      "Vessels & Bundles",
+      "Rise vs. Lift",
+      "One vs. Multiple",
+      "Kinyan Mitzvot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Modes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing modes of acquisition for large vs. small animals, matching the 'Mishna Modes' prose which explicitly describes this exact Mishna content about behema gasa/daka and mesira/hagbaha.",
+      "second_heading": "Shmuel Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 cover Rav's ruling in Kimchonya, Shmuel's challenge to his students, and the elephant objection with Abaye's answers, which align with the 'Shmuel Challenge' prose describing exactly this sequence, while item 3's elephant question belongs under 'Rav Yosef Query' but the split_after field only allows one split \u2014 the primary structural seam is after item 1 where the new Gemara begins.",
+      "current_heading": "Hagbaha Dispute",
+      "moved": true
+    }
+  }
+]

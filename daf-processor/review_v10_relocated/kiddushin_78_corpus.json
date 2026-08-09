@@ -1,0 +1,451 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Braita: Kohen Gadol",
+    "candidates": [
+      "Chalal/Zonah/Almanah",
+      "Braita: Kohen Gadol",
+      "Rav Sheshet/Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught before Rav Sheshet, and candidate 1 ('Braita: Kohen Gadol') directly discusses its content \u2014 the rule of kol shehu b'yikach/lo yikach and the exclusion of the High Priest's widowed sister \u2014 which is exactly what this passage contains.",
+      "chosen_heading": "Braita: Kohen Gadol",
+      "current_heading": "Braita: Kohen Gadol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav Sheshet/Rabbi Shimon",
+    "candidates": [
+      "Rav Sheshet/Rabbi Shimon",
+      "Neveilah/Yom Kippur",
+      "Issur Chamur/Kal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Sheshet's attribution to Rabbi Shimon and the neveilah/Yom Kippur baraita as supporting proof, and the current heading's prose explicitly covers both elements together, making it the correct placement.",
+      "chosen_heading": "Rav Sheshet/Rabbi Shimon",
+      "current_heading": "Rav Sheshet/Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Issur Chamur/Kal",
+    "candidates": [
+      "Neveilah/Yom Kippur",
+      "Issur Chamur/Kal",
+      "Sister Cannot Add Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Issur Chamur/Kal",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection of the Rabbanan attribution via the issur chamur/kal principle, which is precisely what the 'Issur Chamur/Kal' prose describes.",
+      "second_heading": "Sister Cannot Add Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the ika d'amri version presenting the same limiting principle attributed to the Rabbanan, which is exactly what the 'Sister Cannot Add Status' prose describes as the second version (ika d'amri).",
+      "current_heading": "Issur Chamur/Kal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Sister Cannot Add Status",
+    "candidates": [
+      "Sister Cannot Add Status",
+      "Kehunah Shani",
+      "Rav Pappa Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the concern that issur kehunah might operate differently, and the Gemara's rejection (ka mashma lan) matches precisely the prose of the 'Kehunah Shani' section.",
+      "chosen_heading": "Kehunah Shani",
+      "current_heading": "Sister Cannot Add Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Rav Pappa Query",
+    "candidates": [
+      "Kehunah Shani",
+      "Rav Pappa Query",
+      "Kal Vechomer",
+      "Abaye's Answer",
+      "Rava's Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Pappa Query",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's question to Abaye about whether a sister becomes a chalalah, which matches exactly the 'Rav Pappa Query' prose describing this precise question.",
+      "second_heading": "Kal Vechomer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the kal vachomer reasoning and Abaye's answer, which spans both the 'Kal Vechomer' and \"Abaye's Answer\" sections, but the kal vachomer framing matches candidate 2's prose most directly as the opening move of that argument.",
+      "current_heading": "Rav Pappa Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rava's Source",
+    "candidates": [
+      "Kal Vechomer",
+      "Abaye's Answer",
+      "Rava's Source",
+      "Grushah Enumeration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's question about the source of the principle that chalalah comes only from issur kehunah, answered by the braita about grushah by the kohen gadol \u2014 exactly what candidate 2 ('Rava's Source') describes.",
+      "chosen_heading": "Rava's Source",
+      "current_heading": "Rava's Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Grushah Enumeration",
+    "candidates": [
+      "Grushah Enumeration",
+      "Chalalah Context",
+      "Zonah Linkage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle that just as grushah is distinct from chalalah and zonah by a common priest (indicating separate prohibitions/lashes), so too almanah is distinct from grushah, chalalah, and zonah by the High Priest \u2014 which is precisely what the 'Grushah Enumeration' prose section discusses.",
+      "chosen_heading": "Grushah Enumeration",
+      "current_heading": "Grushah Enumeration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Zonah Linkage",
+    "candidates": [
+      "Chalalah Context",
+      "Zonah Linkage",
+      "Rav Ashi Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the \u1e25alala and zona questions from the baraita, but its primary content \u2014 the gezeirah shavah linking 'zona' in both verses to teach that a common priest's offspring are also profaned \u2014 matches exactly what Candidate 1 ('Zonah Linkage') describes in its prose.",
+      "chosen_heading": "Zonah Linkage",
+      "current_heading": "Zonah Linkage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Ashi Conclusion",
+    "candidates": [
+      "Rav Ashi Conclusion",
+      "Rav Yehudah Two Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Ashi's conclusion about a priest who has relations with his sister \u2014 exactly what the 'Rav Ashi Conclusion' prose describes, including the zona/chalalah distinction and the effect of a subsequent act.",
+      "chosen_heading": "Rav Ashi Conclusion",
+      "current_heading": "Rav Ashi Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Rav Yehudah Two Lashes",
+    "candidates": [
+      "Rav Yehudah Two Lashes",
+      "Lo Yechallel Zaro",
+      "Gamur Biah",
+      "Almanah/Grushah",
+      "Two Shemot",
+      "Grushah/Chalutzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Rav Yehuda's ruling about two lashes (item 1), Rava's objection from the mishna (item 2), and the Gemara's resolution (item 3) all directly concern Rav Yehuda's principle about a High Priest with a widow receiving two sets of lashes, which is precisely what heading 0 ('Rav Yehudah Two Lashes') discusses in its prose.",
+      "chosen_heading": "Rav Yehudah Two Lashes",
+      "current_heading": "Rav Yehudah Two Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Grushah/Chalutzah",
+    "candidates": [
+      "Lo Yechallel Zaro",
+      "Gamur Biah",
+      "Almanah/Grushah",
+      "Two Shemot",
+      "Grushah/Chalutzah",
+      "Each Shemot",
+      "Rashi/Rambam",
+      "Abaye Position",
+      "Rashi Interpretation",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the grushah/chalutzah case from the seifa of the mishna and the question of whether chalutzah is derabanan with the asmachta resolution, which is precisely what candidate 4's prose describes.",
+      "chosen_heading": "Grushah/Chalutzah",
+      "current_heading": "Grushah/Chalutzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Each Shemot",
+      "Rashi/Rambam",
+      "Abaye Position",
+      "Rashi Interpretation",
+      "Rava Position",
+      "Machzir Gerushah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's and Rava's positions in a single Gemara unit, and the 'Abaye Position' heading's prose explicitly introduces both positions as part of the same structural question, making it the correct home for the entire passage rather than splitting it under 'Rava Position'.",
+      "chosen_heading": "Abaye Position",
+      "current_heading": "Rava Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Machzir Gerushah",
+    "candidates": [
+      "Rava Position",
+      "Machzir Gerushah",
+      "Sex Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's concession in the case of machzir gerushato \u2014 that kiddushin without intercourse does not trigger lashes because the verse 'lakachtah lihyos lo l'ishah' frames the prohibition around full marital consummation \u2014 which is precisely what the 'Machzir Gerushah' section's prose describes.",
+      "chosen_heading": "Machzir Gerushah",
+      "current_heading": "Machzir Gerushah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Sex Alone",
+    "candidates": [
+      "Sex Alone",
+      "Abaye/Rava Summary",
+      "Rambam Limitation",
+      "Rabbi Yehudah Position",
+      "Logic Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's concession regarding the kohen gadol with a widow and the machzir gerushato case, which matches exactly the content described in the 'Sex Alone' section's prose.",
+      "chosen_heading": "Sex Alone",
+      "current_heading": "Sex Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Logic Argument",
+    "candidates": [
+      "Abaye/Rava Summary",
+      "Rambam Limitation",
+      "Rabbi Yehudah Position",
+      "Logic Argument",
+      "Gemarah Challenge",
+      "Two Ways Chalalah",
+      "Common Denominator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Items 2 and 3 are precisely the Gemara's challenge (mah lechallal shekein yetziraso ba'aveira) and the kohen gadol be'almanah counterexample that candidate 4's prose explicitly describes, and item 1 is the Rabbi Yehudah logical derivation that sets up that challenge \u2014 all three together form the continuous dialectic described in candidate 4's prose, not the setup-only description in candidate 3.",
+      "chosen_heading": "Gemarah Challenge",
+      "current_heading": "Logic Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Common Denominator",
+    "candidates": [
+      "Gemarah Challenge",
+      "Two Ways Chalalah",
+      "Common Denominator",
+      "Too Broad",
+      "Aveira Element",
+      "Mitzri Rishon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items describe the *tzad hashaveh* argument based on *aveira* (item 1 proposes the common denominator of 'not like most of the congregation' leading to the ger conclusion, item 2 rejects it by pointing out the aveira element), which matches the 'Aveira Element' prose that discusses how the refined common denominator is the presence of transgression \u2014 not the broader 'Common Denominator' heading which only covers the initial *she'einan b'rov hakahal* proposal.",
+      "chosen_heading": "Aveira Element",
+      "current_heading": "Common Denominator",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Mitzri Rishon",
+    "candidates": [
+      "Too Broad",
+      "Aveira Element",
+      "Mitzri Rishon",
+      "Final Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are precisely the Mitzri rishon yochiach dialectic and the chalal yochiach counter-counterexample that the 'Mitzri Rishon' prose section explicitly describes.",
+      "chosen_heading": "Mitzri Rishon",
+      "current_heading": "Mitzri Rishon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Final Application",
+    "candidates": [
+      "Final Application",
+      "Rabbi Eliezer",
+      "Rabbi Shimon Age",
+      "Midianite Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the tzad hashaveh (common denominator) argument about the ger's daughter being unfit for kehunah, with item 1 presenting the analogy and item 2 presenting the rejection and Rabbi Yehudah's response \u2014 exactly what the 'Final Application' prose discusses, including the extension of Rabbi Yehudah's position to the ger disqualifying through intercourse.",
+      "chosen_heading": "Final Application",
+      "current_heading": "Final Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Midianite Source",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Rabbi Shimon Age",
+      "Midianite Source",
+      "Rabbanan Alternative",
+      "Yechezkel Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Shimon ben Yo\u1e25ai's ruling about age of conversion and the Rabbanan's rebuttal of the Midian verse, but the primary content \u2014 introducing Rabbi Shimon's position on converts under three years old being fit for kehunah \u2014 matches the 'Rabbi Shimon Age' prose best, and the subsequent elements (Midian source and Rabbanan alternative) are subordinate details within this single baraita unit.",
+      "chosen_heading": "Rabbi Shimon Age",
+      "current_heading": "Midianite Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Yechezkel Pasuk",
+    "candidates": [
+      "Rabbanan Alternative",
+      "Yechezkel Pasuk",
+      "Zera Beit Yisrael",
+      "Miktzat Zera",
+      "Rabbi Yosei",
+      "Core Issue",
+      "Betuloteha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that all the tannaim derived their positions from a single verse in Yechezkel (Ezekiel 44:22) and then presents Rabbi Yehuda's and Rabbi Eliezer ben Yaakov's readings, which is precisely what the 'Yechezkel Pasuk' section's prose describes as its content.",
+      "chosen_heading": "Yechezkel Pasuk",
+      "current_heading": "Yechezkel Pasuk",
+      "moved": false
+    }
+  }
+]

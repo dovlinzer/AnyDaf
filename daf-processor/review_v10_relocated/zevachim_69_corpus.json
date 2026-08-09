@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Melikah Overview",
+    "candidates": [
+      "Melikah Overview",
+      "Three Determinants",
+      "Pesulah Bakodesh",
+      "R. Yochanan Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 10,
+      "first_heading": "Pesulah Bakodesh",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u201310 discuss Rav's position on left hand, night, non-priest, and knife rendering the bird a neveilah, along with the supporting dialectic about slaughter as a rite and derivation from private altars \u2014 exactly the content described in the 'Pesulah Bakodesh' prose which introduces the Rav vs. Rabbi Yochanan debate and ends noting Rav holds a zar's melikah renders the bird a neveilah.",
+      "second_heading": "R. Yochanan Position",
+      "second_confidence": "high",
+      "second_reason": "Items 11\u201316 present Rabbi Yochanan's opposing ruling that a non-priest does not render the bird a neveilah and the subsequent proofs from the mishna's language, matching the 'R. Yochanan Position' prose which discusses Rabbi Yochanan's ruling and the braita supporting it.",
+      "current_heading": "Melikah Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "R. Yochanan Position",
+    "candidates": [
+      "Three Determinants",
+      "Pesulah Bakodesh",
+      "R. Yochanan Position",
+      "Two Separate Halachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rabbi Yochanan's position, and candidate 2's prose explicitly describes this baraita (tanya k'vattei d'Rabbi Yochanan) listing disqualified melikah cases and ruling ein metam'in b'veit ha'bli'ah, which is exactly what the quoted text contains.",
+      "chosen_heading": "R. Yochanan Position",
+      "current_heading": "R. Yochanan Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Two Separate Halachot",
+    "candidates": [
+      "Two Separate Halachot",
+      "Chizkiyah Resolution",
+      "Bamah & Kli Sharet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Separate Halachot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yitzchak's report of two heard halakhot and Chizkiyah's resolution, which matches the 'Two Separate Halachot' prose describing exactly this shamati and uncertainty, while Chizkiyah's ruling itself opens the next section.",
+      "second_heading": "Chizkiyah Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge to Chizkiyah's resolution (the bamah objection), which is the precise content described in the 'Chizkiyah Resolution' prose section.",
+      "current_heading": "Two Separate Halachot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Bamah & Kli Sharet",
+    "candidates": [
+      "Chizkiyah Resolution",
+      "Bamah & Kli Sharet",
+      "Neveilah Principle",
+      "Melikah Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the relationship between minchah/birds on a bamah and the kli sharet distinction, which is precisely what the 'Bamah & Kli Sharet' prose describes \u2014 Rav Sheshet's linkage of minchah and bird offerings on a bamah, and the resolution that ein kiddush b'kli sharet applies to minchah on a bamah but not to bird offerings.",
+      "chosen_heading": "Bamah & Kli Sharet",
+      "current_heading": "Bamah & Kli Sharet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Melikah Braita",
+    "candidates": [
+      "Neveilah Principle",
+      "Melikah Braita",
+      "Shechitah Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the first braita about melikah \u2014 covering the neveilah/treifah derivation, the exclusion of valid melikah inside the Temple, and the inclusion of melikah on kodashim outside or chullin inside/outside \u2014 which is precisely what the 'Melikah Braita' prose describes in detail.",
+      "chosen_heading": "Melikah Braita",
+      "current_heading": "Melikah Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Shechitah Braita",
+    "candidates": [
+      "Shechitah Braita",
+      "Inside-Outside Link",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the treifah-based derivation (mah treifah shaveh bifnim kevachutz) and its application to exclude shechitat chullin bifnim and shechitat kodashim from neveilah status, which is precisely what the 'Shechitah Braita' prose describes.",
+      "chosen_heading": "Shechitah Braita",
+      "current_heading": "Shechitah Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Inside-Outside Link",
+      "Rava Challenge",
+      "Rava Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge that shechitat kodashim is disqualified both inside and outside, which is precisely what the 'Rava Challenge' prose describes as the difficult case that the inside-outside principle alone cannot resolve.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Rava Resolution",
+    "candidates": [
+      "Rava Resolution",
+      "Proper vs. Improper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of Rava's logical derivation about shechitat kodashim outside the Temple not creating neveilah status, followed by the extension to inside the Temple, and the challenge about melikah outside \u2014 all of which is precisely what the 'Rava Resolution' prose describes.",
+      "chosen_heading": "Rava Resolution",
+      "current_heading": "Rava Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Proper vs. Improper",
+    "candidates": [
+      "Proper vs. Improper",
+      "Logical Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Shimi bar Ashi's principle about deriving improper from improper, the challenge from the baraita about items that emerged, and the resolution via the verse 'zot torat ha'olah' \u2014 are precisely the content described in candidate 0's prose about the proper-vs-improper derivation rule and its counterexample/resolution.",
+      "chosen_heading": "Proper vs. Improper",
+      "current_heading": "Proper vs. Improper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Logical Question",
+    "candidates": [
+      "Logical Question",
+      "Rabbi Meir Position",
+      "Kal V'Chomer",
+      "R. Yose Position",
+      "Pasuk Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Logical Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna presenting the dispute between Rabbi Meir and Rabbi Yehuda, which the 'Logical Question' prose introduces as the new case of malak v'nimtzet treifah and the resulting three-way dispute.",
+      "second_heading": "Kal V'Chomer",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 contain Rabbi Meir's kal vachomer argument and the mah matzinu extension followed by Rabbi Yose's dayyo objection, which maps precisely to the 'Kal V'Chomer' prose describing Rabbi Meir's two-stage argument and Rabbi Yose's response.",
+      "current_heading": "Logical Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Pasuk Source",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Kal V'Chomer",
+      "R. Yose Position",
+      "Pasuk Source",
+      "R. Yehudah Objection",
+      "Treifah Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara discussion described in the 'Pasuk Source' prose: the challenge that dayyo is d'Oraita (items 1-2), Rabbi Yose b'Rabbi Avin's answer that Rabbi Meir found a pasuk (item 3), and the exposition of 'zot torat habehemah v'ha'of' equating beast and fowl through the common principle of machshirah l'achilah (items 4-5).",
+      "chosen_heading": "Pasuk Source",
+      "current_heading": "Pasuk Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Treifah Definition",
+    "candidates": [
+      "R. Yehudah Objection",
+      "Treifah Definition",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact Gemara text 'Rabbi Yehuda, mai ta'ama? kra ashkach v'darash' and the full reasoning about why treifah is mentioned in the verse, which heading 0's prose explicitly says 'is taken up in the next stage of the discussion' \u2014 meaning this passage is the continuation of heading 0's topic, not heading 1's follow-up challenge material.",
+      "chosen_heading": "R. Yehudah Objection",
+      "current_heading": "Treifah Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Treifah Definition",
+      "Gemara Challenge",
+      "Yehudah Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's challenge to Rabbi Yehuda's interpretive method using the verse about chelev neveilah/tereifa (Lev. 7:24), which is precisely what the 'Gemara Challenge' prose describes \u2014 the juxtaposition of neveilah and tereifa in that verse, the inference about tumah, and the resolution that tereifa there excludes non-kosher animals.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  }
+]

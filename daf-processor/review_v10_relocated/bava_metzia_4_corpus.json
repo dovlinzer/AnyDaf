@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Ein Adam Mesim",
+    "candidates": [
+      "Rabbi Chiya's Position",
+      "Power Comparison",
+      "Ein Adam Mesim",
+      "Admission Irreducibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the asham/korban objection and the chomesh objection to Rabbi Chiya's kal va-chomer, along with the Gemara's responses invoking Rabbi Meir's position \u2014 precisely the content described in the 'Ein Adam Mesim' prose section.",
+      "chosen_heading": "Ein Adam Mesim",
+      "current_heading": "Ein Adam Mesim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Admission Irreducibility",
+    "candidates": [
+      "Admission Irreducibility",
+      "One to Two Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the argument that witnesses are subject to contradiction and hazama while admission is not \u2014 precisely the content discussed in the 'Admission Irreducibility' section's prose.",
+      "chosen_heading": "Admission Irreducibility",
+      "current_heading": "Admission Irreducibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "One to Two Witnesses",
+    "candidates": [
+      "One to Two Witnesses",
+      "Contradiction Distinction",
+      "Gilgul Shvua",
+      "Gilgul Inapplicable",
+      "Common Denominator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the kal va-chomer from one witness to two witnesses that candidate 0's prose describes: a single witness who cannot compel payment nonetheless obligates an oath, so two witnesses who can compel payment should certainly obligate an oath.",
+      "chosen_heading": "One to Two Witnesses",
+      "current_heading": "One to Two Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Common Denominator",
+    "candidates": [
+      "Contradiction Distinction",
+      "Gilgul Shvua",
+      "Gilgul Inapplicable",
+      "Common Denominator",
+      "Distinguishing Features"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The passage traces the full dialectic of failed single-case proofs and the resulting *tzad ha-shaveh* argument, which candidate 4 ('Distinguishing Features') describes most precisely \u2014 covering why neither *eid echad* nor admission alone suffices and how the common denominator resolves it.",
+      "chosen_heading": "Distinguishing Features",
+      "current_heading": "Common Denominator",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Distinguishing Features",
+    "candidates": [
+      "Distinguishing Features",
+      "Thief vs. Denier",
+      "Trustworthiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the common-denominator argument concluding that two-witness testimony triggers an oath, followed immediately by the rejection that the common denominator is distinguished because in those cases the defendant has not been proven a liar (*huchzak kafran*) \u2014 which is precisely the content described in the 'Thief vs. Denier' prose.",
+      "chosen_heading": "Thief vs. Denier",
+      "current_heading": "Distinguishing Features",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Trustworthiness",
+    "candidates": [
+      "Thief vs. Denier",
+      "Trustworthiness",
+      "Asymmetry Problem",
+      "Holding Equals Admission",
+      "Equal Standing",
+      "Different Teaching",
+      "Rabbi Chiya on Heilech",
+      "Rav Sheshet's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the kafran/pikadon distinction from Rav Idi bar Avin/Rav \u1e24isda, the torat hazama refutation, and its dismissal \u2014 are precisely what candidate 1's prose describes as the content of the 'Trustworthiness' section, including both the kasher/pasul le-edut ruling and the torat hazama objection with its immediate rejection.",
+      "chosen_heading": "Trustworthiness",
+      "current_heading": "Trustworthiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Rav Sheshet's Objection",
+    "candidates": [
+      "Asymmetry Problem",
+      "Holding Equals Admission",
+      "Equal Standing",
+      "Different Teaching",
+      "Rabbi Chiya on Heilech",
+      "Rav Sheshet's Objection",
+      "Biblical vs. Rabbinic",
+      "Policy Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Asymmetry Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 complete the 'Asymmetry Problem' resolution \u2014 item 1 shows why the tallit mishna cannot support Rabbi Chiya's witnesses-ruling, and item 2 redirects to the heilech ruling \u2014 matching exactly the prose of heading 0 ('Asymmetry Problem') and heading 3 ('Different Teaching').",
+      "second_heading": "Rabbi Chiya on Heilech",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 present Rabbi Chiya's heilech ruling, the tallit comparison, and Rav Sheshet's objection with the mishna challenge and response, which corresponds precisely to heading 4 ('Rabbi Chiya on Heilech') covering the heilech debate and the tallit proof attempt.",
+      "current_heading": "Rav Sheshet's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Policy Argument",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Policy Argument",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the argument about whether the Sages would enact an oath without a biblical parallel, which is the exact content described in candidate 0's prose about the Gemara pressing on whether heilech is chayav or patur and the rabbinic enactment needing a biblical analogue.",
+      "chosen_heading": "Biblical vs. Rabbinic",
+      "current_heading": "Policy Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Policy Argument",
+      "Case Setup",
+      "Rabban Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the introduction of the baraita objection \u2014 item 1 is the framing phrase and item 2 is the baraita's case content \u2014 which matches 'Case Setup' prose describing exactly this damaged shtar scenario with the plaintiff claiming five and the defendant claiming three.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Rabban Shimon",
+    "candidates": [
+      "Rabban Shimon",
+      "Rabbi Akiva",
+      "Two vs. Three",
+      "Shiud and Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's analysis of whether admitting to two vs. three dinars triggers an oath, specifically the inference from Rabbi Shimon ben Elazar's statement about three implying two is patur, and the rejection of that inference \u2014 which matches exactly the 'Two vs. Three' prose about the Gemara analyzing the relationship between the two positions and why two is patur.",
+      "chosen_heading": "Two vs. Three",
+      "current_heading": "Rabban Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Shiud and Land",
+    "candidates": [
+      "Rabbi Akiva",
+      "Two vs. Three",
+      "Shiud and Land",
+      "Shtar's Role",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1 and 2 give exactly the two technical reasons why admitting 'two' is patur (shtar backs it up, and shibud karkaot), and item 3 raises the objection from Rabbi Akiva's clause \u2014 all of which is precisely what the 'Shiud and Land' prose discusses, including both the shtar-support reason and the shibud karkaot exemption.",
+      "chosen_heading": "Shiud and Land",
+      "current_heading": "Shiud and Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Shtar's Role",
+      "Reconciliation",
+      "Why Two Is Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's rejection and confirmation that two is also patur, and the reasoning about strategic behavior if two were chayav \u2014 exactly what the 'Reconciliation' prose describes as the Gemara's argument that the debate is limited to the three case.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Korban Bifnei Atzmo",
+    "candidates": [
+      "Shehecheyanu Review",
+      "Pezer Keshev",
+      "Pais Bifnei Atzmo",
+      "Zman Bifnei Atzmo",
+      "Regel Bifnei Atzmo",
+      "Korban Bifnei Atzmo",
+      "Shira & Bracha",
+      "Eight Days",
+      "Mishnah Cited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita cited in support of Rav Nachman's ruling on shehecheyanu, introduced by 'tanya k'vateih d'Rav Nachman,' which is precisely what the 'Shehecheyanu Review' prose describes \u2014 the Gemara adding a tannaitic source after resolving the shehecheyanu question, with the pezer keshev list serving as that supporting baraita.",
+      "chosen_heading": "Shehecheyanu Review",
+      "current_heading": "Korban Bifnei Atzmo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Mishnah Cited",
+    "candidates": [
+      "Shira & Bracha",
+      "Eight Days",
+      "Mishnah Cited",
+      "Vehayisa Ach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself stating that hallel and simcha are for eight days, which belongs under 'Eight Days' where the Gemara takes up this teaching \u2014 the current placement under 'Mishnah Cited' is actually the prose that explains and analyzes the mishnah after it is introduced, so the mishnah text itself should appear under the introductory 'Eight Days' heading.",
+      "chosen_heading": "Eight Days",
+      "current_heading": "Mishnah Cited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Vehayisa Ach",
+    "candidates": [
+      "Mishnah Cited",
+      "Vehayisa Ach",
+      "Last vs First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the obligation of simcha on Shemini Atzeret from 've'hayita ach sameach,' specifically including leil Yom Tov haAchron, which is exactly what the 'Vehayisa Ach' section's prose discusses.",
+      "chosen_heading": "Vehayisa Ach",
+      "current_heading": "Vehayisa Ach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Last vs First",
+    "candidates": [
+      "Last vs First",
+      "Night Extension",
+      "Shalmei Simcha",
+      "Rambam Simcha",
+      "Removing Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the last night is included and the first night excluded from simcha, which is precisely what the 'Last vs First' section's prose discusses.",
+      "chosen_heading": "Last vs First",
+      "current_heading": "Last vs First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Removing Vessels",
+    "candidates": [
+      "Night Extension",
+      "Shalmei Simcha",
+      "Rambam Simcha",
+      "Removing Vessels",
+      "Kavod Yom Tov",
+      "No Vessels?",
+      "Invalidation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 finishing eating, not dismantling the sukka, but bringing vessels down from mincha onward out of honor for the last day \u2014 is precisely what the prose under 'Removing Vessels' introduces and discusses.",
+      "chosen_heading": "Removing Vessels",
+      "current_heading": "Removing Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Invalidation",
+    "candidates": [
+      "Kavod Yom Tov",
+      "No Vessels?",
+      "Invalidation",
+      "EY vs Bavel",
+      "Dirty Dishes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 1's prose describes: the Gemara's question about having no vessels, its self-correction to 'no place to bring them down,' and then Rabbi \u1e24iyya bar Rav's and Rabbi Yehoshua ben Levi's solutions with the resolution 'ha lan veha lehu' \u2014 all of which candidate 1 ('No Vessels?') explicitly discusses, while candidate 2 ('Invalidation') covers the same material but is where it currently sits, and candidate 1's prose is a clearly better match for the opening question and reformulation that drives this entire passage.",
+      "chosen_heading": "No Vessels?",
+      "current_heading": "Invalidation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Dirty Dishes",
+    "candidates": [
+      "EY vs Bavel",
+      "Dirty Dishes",
+      "Targum Onkelos",
+      "Transition Theme",
+      "Golden Vessel",
+      "Process",
+      "Two Funnels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about large vs small sukkah and bringing dirty dishes (mane demichla) is precisely what the 'Dirty Dishes' section prose describes and discusses in detail.",
+      "chosen_heading": "Dirty Dishes",
+      "current_heading": "Dirty Dishes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Two Funnels",
+    "candidates": [
+      "Targum Onkelos",
+      "Transition Theme",
+      "Golden Vessel",
+      "Process",
+      "Two Funnels",
+      "Placement",
+      "R. Yehudah",
+      "Sadducee"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishnah describing the water libation ritual \u2014 the golden jug, the Siloam pool, the Gate of Water, the silver basins, and the perforated funnels \u2014 which matches the 'Golden Vessel' section's prose introduction to nisuch hamayim beginning with 'tzelochit shel zahav'.",
+      "chosen_heading": "Golden Vessel",
+      "current_heading": "Two Funnels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Sadducee",
+    "candidates": [
+      "Placement",
+      "R. Yehudah",
+      "Sadducee",
+      "Shabbat Prep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both of Rabbi Yehudah's disagreements \u2014 the one-log quantity and the eight-day duration \u2014 along with the Sadducee incident, and candidate 1's prose explicitly covers both of Rabbi Yehudah's positions, making it the natural home for this combined mishna text; the Sadducee incident is embedded within Rabbi Yehudah's statement rather than standing alone.",
+      "chosen_heading": "R. Yehudah",
+      "current_heading": "Sadducee",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Shabbat Prep",
+    "candidates": [
+      "Sadducee",
+      "Shabbat Prep",
+      "Laver Backup",
+      "Ushavtem Mayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Shabbat preparation procedure \u2014 filling a golden unsanctified barrel from the Siloam on Erev Shabbat and placing it in the chamber \u2014 which is precisely what the 'Shabbat Prep' section's prose discusses, and it is already correctly placed there.",
+      "chosen_heading": "Shabbat Prep",
+      "current_heading": "Shabbat Prep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Ushavtem Mayim",
+    "candidates": [
+      "Laver Backup",
+      "Ushavtem Mayim",
+      "Sasson Simcha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question 'from where are these matters derived?' and Rav Eina's answer citing the verse 'ushavtem mayim besasson,' which is precisely what the 'Ushavtem Mayim' section's prose discusses, including the dispute between Rashi and Tosafot on what the verse derives.",
+      "chosen_heading": "Ushavtem Mayim",
+      "current_heading": "Ushavtem Mayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Sasson Simcha",
+    "candidates": [
+      "Sasson Simcha",
+      "Rabbi Abbahu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the wordplay debate between the two heretics named Sason and Simcha, which is exactly what the prose under heading 0 ('Sasson Simcha') discusses in detail.",
+      "chosen_heading": "Sasson Simcha",
+      "current_heading": "Sasson Simcha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rabbi Abbahu",
+    "candidates": [
+      "Rabbi Abbahu",
+      "Standard",
+      "Three Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact exchange between the heretic named Sason and Rabbi Abbahu about drawing water, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Rabbi Abbahu",
+      "current_heading": "Rabbi Abbahu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Three Exceptions",
+    "candidates": [
+      "Standard",
+      "Three Exceptions",
+      "Smoke Hazard",
+      "Wine Staining",
+      "Post-Facto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita establishing both the general rule (all ascend right, circle, descend left) AND the three exceptions, but the prose under heading 0 ('Standard') explicitly introduces this baraita as contextualizing the general rule, while heading 1 ('Three Exceptions') covers only the exceptions \u2014 the passage as a whole, which opens with the general rule before listing exceptions, better fits under heading 0 which frames the entire baraita.",
+      "chosen_heading": "Standard",
+      "current_heading": "Three Exceptions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Post-Facto",
+    "candidates": [
+      "Smoke Hazard",
+      "Wine Staining",
+      "Post-Facto",
+      "Psychology",
+      "R. Yehudah View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why the water basin blackened and answers that wine was sometimes poured into it, which is precisely the question-and-answer the 'Wine Staining' prose section sets up, not the post-facto ruling discussion of candidate 2.",
+      "chosen_heading": "Wine Staining",
+      "current_heading": "Post-Facto",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "R. Yehudah View",
+    "candidates": [
+      "Psychology",
+      "R. Yehudah View",
+      "Viscosity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's suggestion that the mishnah follows Rabbi Yehuda's view (one log of water vs. three log of wine), which is precisely what the 'R. Yehudah View' section's prose describes.",
+      "chosen_heading": "R. Yehudah View",
+      "current_heading": "R. Yehudah View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Viscosity",
+    "candidates": [
+      "Viscosity",
+      "Braita Proof",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Viscosity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the wine-is-thick water-is-thin answer, which is exactly what the 'Viscosity' section prose describes.",
+      "second_heading": "Braita Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita proof distinguishing Rabbi Yehuda's terminology (rachav/katzar) from the mishnah's (broad/thin), which is precisely what the 'Braita Proof' section prose describes.",
+      "current_heading": "Viscosity",
+      "moved": true
+    }
+  }
+]

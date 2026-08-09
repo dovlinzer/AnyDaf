@@ -1,0 +1,352 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Mishna: Limb Out",
+    "candidates": [
+      "Opening Remarks",
+      "Ben Pakua Concept",
+      "Mishna: Limb Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'Hadaran alach Eilu Treifos' is a concluding formula marking the end of the previous perek (Eilu Treifos), which fits squarely under 'Opening Remarks' where the essay author discusses completing that previous perek as a major accomplishment before beginning the fourth perek.",
+      "chosen_heading": "Opening Remarks",
+      "current_heading": "Mishna: Limb Out",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Mishna: Limb Out",
+    "candidates": [
+      "Mishna: Limb Out",
+      "Mishna: Head Born",
+      "Fetus vs. Spleen",
+      "Fetus Not True Limb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire mishna including both the limb case and the head case, but the current placement under 'Mishna: Limb Out' is correct since this is a single mishna unit and the prose under index 0 directly addresses the opening of this mishna text, while index 1 covers only the head portion in its prose commentary.",
+      "chosen_heading": "Mishna: Limb Out",
+      "current_heading": "Mishna: Limb Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Fetus Not True Limb",
+    "candidates": [
+      "Mishna: Head Born",
+      "Fetus vs. Spleen",
+      "Fetus Not True Limb",
+      "Limb Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's text contrasting the fetus vs. spleen/kidneys case, which is precisely what candidate 1 ('Fetus vs. Spleen') describes in its prose, while the current placement (candidate 2) discusses the reasoning/explanation behind that contrast rather than the mishna text itself.",
+      "chosen_heading": "Fetus vs. Spleen",
+      "current_heading": "Fetus Not True Limb",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Limb Forbidden",
+    "candidates": [
+      "Fetus Not True Limb",
+      "Limb Forbidden",
+      "Basar Basadeh",
+      "Sacrificial Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda citing Rav that 'the limb itself is forbidden,' which is exactly what candidate 1 ('Limb Forbidden') discusses \u2014 Rav's ruling that the protruding limb remains forbidden even after being pulled back in.",
+      "chosen_heading": "Limb Forbidden",
+      "current_heading": "Limb Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Sacrificial Meat",
+    "candidates": [
+      "Basar Basadeh",
+      "Sacrificial Meat",
+      "Field Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's derivation from the verse 'u'vasar basadeh tereifah lo tocheilu' and explains the principle that meat outside its boundary becomes forbidden \u2014 which is precisely what the 'Basar Basadeh' section's prose discusses, not the sacrificial meat application.",
+      "chosen_heading": "Basar Basadeh",
+      "current_heading": "Sacrificial Meat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Field Metaphor",
+    "candidates": [
+      "Sacrificial Meat",
+      "Field Metaphor",
+      "What Is Permitted",
+      "Mishna's Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's challenge to Rav from the mishna (mai lav eivar / lo ha-ubbar) and its resolution, which is precisely what the 'What Is Permitted' section's prose describes.",
+      "chosen_heading": "What Is Permitted",
+      "current_heading": "Field Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Mishna's Point",
+    "candidates": [
+      "What Is Permitted",
+      "Mishna's Point",
+      "Birth Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the mishna specifies the limb was pulled back, concluding it is structural/stylistic to parallel the closing clause about the head \u2014 exactly what the 'Mishna's Point' section discusses.",
+      "chosen_heading": "Mishna's Point",
+      "current_heading": "Mishna's Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Birth Definition",
+    "candidates": [
+      "Birth Definition",
+      "Human vs. Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the gemara's challenge that the latter clause of the mishna is redundant because the definition of birth via head-emergence can already be inferred from Bekhorot, which is precisely what the 'Birth Definition' prose section describes in detail.",
+      "chosen_heading": "Birth Definition",
+      "current_heading": "Birth Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Human vs. Animal",
+    "candidates": [
+      "Human vs. Animal",
+      "Placenta Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the human vs. animal distinction \u2014 why one cannot derive birth rules from the other due to the prozdor and partzuf panim \u2014 which is exactly what the 'Human vs. Animal' prose section discusses in detail.",
+      "chosen_heading": "Human vs. Animal",
+      "current_heading": "Human vs. Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Placenta Proof",
+    "candidates": [
+      "Placenta Proof",
+      "Limb Pulls Back",
+      "Braita Parallel",
+      "Limb Forbidden",
+      "Cutting Limb"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Placenta Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the placenta mishna and the subsequent dialectic about whether the mishna's clauses teach novelties, directly matching the 'Placenta Proof' prose.",
+      "second_heading": "Limb Pulls Back",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce the makom chatach concept and the 'ta shema' baraita, which match 'Limb Pulls Back' whose prose explicitly ends with 'The gemara then proceeds: ta shema' and discusses the makom chataach.",
+      "current_heading": "Placenta Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Cutting Limb",
+    "candidates": [
+      "Limb Pulls Back",
+      "Braita Parallel",
+      "Limb Forbidden",
+      "Cutting Limb",
+      "Boundary Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the two cases described in candidate 3's prose: (1) limb extended and cut off while outside \u2014 severed part is tamei/forbidden as ever min hachai, remainder inside is tahor/permitted; and (2) mother slaughtered first then limb cut \u2014 dispute between Rabbi Meir (maga neveilah) and Rabbis (maga tereifah shechuta), which is precisely what the 'Cutting Limb' section discusses.",
+      "chosen_heading": "Cutting Limb",
+      "current_heading": "Cutting Limb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Boundary Solution",
+    "candidates": [
+      "Boundary Solution",
+      "Hoof Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's challenge to Rav's ruling via the baraita's first and last clauses (fetus extended limb, pulled back, then mother slaughtered \u2014 mutar; vs. slaughtered first then pulled back \u2014 asur), and the questioning of whether 'lo, al ha-ubbar' works, which is precisely what the 'Boundary Solution' prose describes in detail.",
+      "chosen_heading": "Boundary Solution",
+      "current_heading": "Boundary Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Hoof Braita",
+    "candidates": [
+      "Hoof Braita",
+      "Limb Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous chain of question-objection-answer about the Avimi baraita (parsah/parasot), Rav Nachman bar Yitzchak's 'makom chataach' resolution, the two-verse challenge, and the kalut ben parah answer \u2014 precisely the content described in the 'Hoof Braita' prose.",
+      "chosen_heading": "Hoof Braita",
+      "current_heading": "Hoof Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Limb Permitted",
+    "candidates": [
+      "Limb Permitted",
+      "Rav Yehuda Challenge",
+      "Ulla's Response",
+      "Chatat Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's statement in Rabbi Yochanan's name that the limb itself is permitted, which is exactly what the 'Limb Permitted' section's prose describes and discusses.",
+      "chosen_heading": "Limb Permitted",
+      "current_heading": "Limb Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Chatat Only",
+    "candidates": [
+      "Rav Yehuda Challenge",
+      "Ulla's Response",
+      "Chatat Only",
+      "Fetus Not Sacrifice",
+      "Moshe's Inquiry",
+      "Braita Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yochanan's full ruling as transmitted by Ulla \u2014 item 1 opens with Ulla's veneration of Rav and Shmuel and then introduces Rabbi Yochanan's position, and item 2 completes the reasoning (chatat is the specific case, all else returns to permissibility) \u2014 which is precisely what the 'Chatat Only' section's prose describes in detail.",
+      "chosen_heading": "Chatat Only",
+      "current_heading": "Chatat Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Braita Rule",
+    "candidates": [
+      "Fetus Not Sacrifice",
+      "Moshe's Inquiry",
+      "Braita Rule",
+      "Maaser Sheni",
+      "Favors Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the *baraita* about *basar basadeh tereifah*, its derivation via Rabba comparing it to *tereifah*, the conclusive refutation of Ulla, and the follow-up question about the source for the *maaser sheni/bikurim* leniency \u2014 exactly the content described in the 'Braita Rule' prose.",
+      "chosen_heading": "Braita Rule",
+      "current_heading": "Braita Rule",
+      "moved": false
+    }
+  }
+]

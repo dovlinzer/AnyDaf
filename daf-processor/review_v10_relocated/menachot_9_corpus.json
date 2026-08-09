@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Issaron Anointed",
+    "candidates": [
+      "Rav: Sanctify Alone",
+      "R. Chanina: All Together",
+      "Issaron Anointed",
+      "Shmuel: Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks why the log vessel was anointed and answers 'for the log of oil of a leper,' which is explicitly discussed in the 'Issaron Anointed' section's prose as the Gemara's answer about why the log measure required consecration.",
+      "chosen_heading": "Issaron Anointed",
+      "current_heading": "Issaron Anointed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Shmuel: Vessels",
+    "candidates": [
+      "Shmuel: Vessels",
+      "Shlamim OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss Shmuel's position on vessels sanctifying dry goods, the mizrakot proof from the nesi'im verse, and the derivation that hai belo hai applies \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Shmuel: Vessels",
+      "current_heading": "Shmuel: Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Shlamim OK",
+    "candidates": [
+      "Shlamim OK",
+      "Eating Inside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Elazar's ruling that a meal offering's handful removed inside the Sanctuary (heichal) is valid, then works through the baraita about 'from the place where non-priests stand' and resolves it \u2014 this is directly about the validity of actions performed inside the heichal, matching the 'Eating Inside' section's prose about what is permitted inside the heichal, not about shlamim slaughtered there.",
+      "chosen_heading": "Eating Inside",
+      "current_heading": "Shlamim OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Eating Inside",
+    "candidates": [
+      "Shlamim OK",
+      "Eating Inside",
+      "Eating Undignified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: Rabbi Yo\u1e25anan's ruling about shlamim in the heichal (item 1), the baraita objection about eating inside (items 2-3), and the Gemara's challenge to Rabbi Yo\u1e25anan's kal vachomer logic (item 4) \u2014 the entire passage is about establishing and testing Rabbi Yo\u1e25anan's principle, which is precisely what heading 0 ('Shlamim OK') discusses, while heading 1 ('Eating Inside') picks up from where this passage ends.",
+      "chosen_heading": "Shlamim OK",
+      "current_heading": "Eating Inside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Eating Undignified",
+    "candidates": [
+      "Eating Undignified",
+      "Outside Azara",
+      "R.L. vs. R.Y."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between avodah (service) and achila (eating) in terms of what is appropriate bemakom rabbo, which is precisely what the 'Eating Undignified' section's prose discusses.",
+      "chosen_heading": "Eating Undignified",
+      "current_heading": "Eating Undignified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "R.L. vs. R.Y.",
+    "candidates": [
+      "Outside Azara",
+      "R.L. vs. R.Y.",
+      "Refill Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the debate between Rabbi Yochanan and Reish Lakish on mixing outside the azara wall, including their proofs and the supporting baraita \u2014 exactly what heading 1 ('R.L. vs. R.Y.') discusses in its prose.",
+      "chosen_heading": "R.L. vs. R.Y.",
+      "current_heading": "R.L. vs. R.Y.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Refill Before",
+    "candidates": [
+      "Refill Before",
+      "R.Y.: Refill OK",
+      "R.L.: No Refill"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the debate between Rabbi Yochanan and Reish Lakish about refilling a lacking meal offering before kemitza, which is exactly what the 'Refill Before' section's prose describes as its content \u2014 the introduction of this second debate.",
+      "chosen_heading": "Refill Before",
+      "current_heading": "Refill Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "R.L.: No Refill",
+    "candidates": [
+      "R.Y.: Refill OK",
+      "R.L.: No Refill",
+      "Metzora Log"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents BOTH Rabbi Yochanan's and Reish Lakish's positions together in a single Gemara excerpt, and since it begins with Rabbi Yochanan's view (kemitza kav'ah), it belongs under heading 0 ('R.Y.: Refill OK') which covers Rabbi Yochanan's position \u2014 the two opinions are stated together and the passage is anchored by Rabbi Yochanan's ruling coming first.",
+      "chosen_heading": "R.Y.: Refill OK",
+      "current_heading": "R.L.: No Refill",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Metzora Log",
+    "candidates": [
+      "R.L.: No Refill",
+      "Metzora Log",
+      "R.Y. vs. R.L.",
+      "R. Eliezer vs. R.Y."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan's challenge to Reish Lakish from the metzora's log of oil and the Gemara's declaration of tiyuvta, which is precisely what the 'Metzora Log' section's prose discusses.",
+      "chosen_heading": "Metzora Log",
+      "current_heading": "Metzora Log",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "R. Eliezer vs. R.Y.",
+    "candidates": [
+      "R.Y. vs. R.L.",
+      "R. Eliezer vs. R.Y.",
+      "Lechem Break"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous discussion of the Rabbi Yo\u1e25anan/Reish Lakish dispute about shirayim that became lacking between kemitza and haktara, framed through the Rabbi Eliezer/Rabbi Yehoshua debate, which is precisely what candidate 1 ('R. Eliezer vs. R.Y.') describes in its prose.",
+      "chosen_heading": "R. Eliezer vs. R.Y.",
+      "current_heading": "R. Eliezer vs. R.Y.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Lechem Break",
+    "candidates": [
+      "Lechem Break",
+      "Deficiency=Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous exchange \u2014 Rabbi Yochanan's challenge from the lechem hapanim baraita, Reish Lakish's deflection attributing it to Rabbi Eliezer, Rabbi Yochanan's dismissal of that deflection, and Reish Lakish's silence \u2014 which is precisely what the 'Lechem Break' prose describes in detail.",
+      "chosen_heading": "Lechem Break",
+      "current_heading": "Lechem Break",
+      "moved": false
+    }
+  }
+]

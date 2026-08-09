@@ -1,18 +1,18 @@
-# Yoma 17 — Daf Yomi Shiur
-
+[DAF:17a]
 ## Beit HaMoked Rooms
 
-### Intro: Sheep Room
 
-> **Hebrew/Aramaic:** אֶלָּא לָאו שְׁמַע מִינַּהּ, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב הִיא. שְׁמַע מִינַּהּ.
->
-> **Translation:** **Rather,** must one **not conclude from it** that that the *mishnayot* in tractate *Middot* are in accordance with the opinion of **Rabbi Eliezer ben Ya'akov?** The Gemara concludes: Indeed, **conclude from it** that this is so.
+
+### Intro: Sheep Room
 
 Today's daf is 17, and the *gemara* is in the middle of resolving a contradiction between *Middot* and *Tamid* concerning the locations of the various rooms within the *Beit HaMoked* and how they were used. The reason this discussion appears here at all follows the structure established earlier in the tractate: the *gemara* had already shown a contradiction between *Yoma* and *Tamid* regarding the order of the lighting of the *nerot* and the burning of the *ketoret*, and resolved that the *stam mishnayot* of *Tamid* have a different author than the *stam mishnayot* of *Yoma*. The same methodology is now applied to *Middot* and *Tamid*.
 
 The specific contradiction is this: the *mishna* in *Tamid* states that *lishkat telayim hayta b'miktzoa tzafonit ma'aravit* — the chamber used for the sheep of the *korban tamid* was in the northwest — while the *mishna* in *Middot* places it in the southwest. The primary resolution already established by the previous daf is that the author of *Middot* is Rabbi Eliezer ben Yaakov, who holds a different view than the author of *Tamid* as to the room's location and function.
 
 ### Rabbi Eliezer b. Yaakov
+
+> **Hebrew/Aramaic:** אֶלָּא לָאו שְׁמַע מִינַּהּ, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב הִיא. שְׁמַע מִינַּהּ.
+> **Translation:** **Rather,** must one **not conclude from it** that that the *mishnayot* in tractate *Middot* are in accordance with the opinion of **Rabbi Eliezer ben Ya’akov?** The Gemara concludes: Indeed, **conclude from it** that this is so.
 
 To appreciate the discussion, it helps to orient ourselves physically. The *Beit HaMikdash* runs along a north–south axis, with the *Ezrat Nashim* to the east leading through *Shaar Nicanor* into the *Ezrat Yisrael*. The *mizbeach* stands in the courtyard, with the *ulam* and the *heichal* beyond it. Along the northern side of the complex lay the *Beit HaMoked*, a large chamber kept warm with a fire — *Tosafot* notes that one purpose of this fire was to supply wood for the *mizbeach* — and this chamber contained four corner rooms, each with a distinct function. The *mishna* in *Tamid* places the sheep-room in the northwest; the *mishna* in *Middot* places it in the southwest. That is the contradiction, and the initial answer is simply that the two tractates reflect different authors, with *Middot* authored by Rabbi Eliezer ben Yaakov.
 
@@ -22,19 +22,15 @@ One might ask: does it even matter? This discussion is not *halakha* in any prac
 
 ### Perspective Solution
 
-> **Hebrew/Aramaic:** רַב אַדָּא בְּרֵיהּ דְּרַב יִצְחָק אָמַר: הַאי לִשְׁכָּה אַקְצוֹיֵי מַקְצְיָא, וּדְאָתֵי מִצָּפוֹן מִתְחַזְיָא לֵיהּ בְּדָרוֹם, וּדְאָתֵי מִדָּרוֹם מִתְחַזְיָא לֵיהּ בְּצָפוֹן.
->
+> **Hebrew/Aramaic:** רַב אַדָּא בְּרֵיהּ דְּרַב יִצְחָק אָמַר: הַאי לִשְׁכָּה אַקְצוֹיֵי מַקְצְיָא, וּדְאָתֵי מִצָּפוֹן מִתְחַזְיָא לֵיהּ בְּדָרוֹם, וּדְאָתֵי מִדָּרוֹם מִתְחַזְיָא לֵיהּ בְּצָפוֹן.
 > **Translation:** § In an additional attempt to resolve the contradiction with regard to the Chamber of the Lambs, **Rav Adda, son of Rav Yitzḥak, said: This chamber was removed** from the corner, as it was not actually in the corner of the Hall of the Hearth but was located along the middle of the western side of the hall. **And** therefore, for one **who comes from the north,** the chamber **appears to him** to be in the **south** of the hall; **and** for one **who comes from the south,** the chamber **appears to him** to be in the **north** of the hall.
 
 A second answer is now introduced: *Rava brei deRav Yitzchak amar hai lishka akzuyei makziya* — Rava son of Rav Yitzchak says that this chamber was positioned at the edge, straddling the boundary. As *Rashi* explains, *aktzuyei* suggests something both designated and extended. The *gemara* elaborates: *de'ati mitzafon mitchazi lei bedarom, v'de'ati midarom mitchazi lei betzafon* — when one approached from the north, the room appeared to be in the south, and when one approached from the south, it appeared to be in the north.
 
 *Tosafot*'s reading of this is that the chamber was not clearly in either the northwest or the southwest but occupied something like a middle position between them. From different vantage points, one would naturally describe it differently — as northwest from the south, and as southwest from the north. This is not a deeply satisfying answer, since one might reasonably expect the *mishna* simply to place it in the west, or more precisely at the midpoint of the western side. Nevertheless, the point stands: the two descriptions are not contradictory accounts of two distinct locations, but rather two perspective-dependent descriptions of a single room that occupied the space between the two corners.
 
+[DAF:17b]
 ### Lechem HaPanim
-
-> **Hebrew/Aramaic:** וּמִסְתַּבְּרָא דִּבְמַעֲרָבִית דְּרוֹמִית הֲוַאי. מִמַּאי — מִדְּרָמֵינַן לֶחֶם הַפָּנִים אַלֶּחֶם הַפָּנִים,
->
-> **Translation:** The Gemara comments: In any event, **it is reasonable** to say that this chamber **was** closer to the **southwest** corner than it was to the northwest corner. **From where** does one arrive at that conclusion? **From** the fact **that we raise a contradiction** between the mishna in tractate *Tamid*, where we learned that the chamber in which the **shewbread** was prepared stood in the northeast corner, and the mishna in tractate *Middot*, where we learned that the chamber in which the **shewbread** was prepared stood in the southeast corner.
 
 At this point a second contradiction is introduced, and it is this second contradiction that will ultimately determine which of the two answers — different authors or perspective-dependence — is more persuasive. The *gemara* notes: *u-mistabra d'vi-ma'arav d'romi havah* — it makes more sense to say the room was really in the southwest. Why? *De-raminan lechem hapanim a-lechem hapanim* — because there is an additional contradiction between *Tamid* and *Middot* concerning which room was used for the *lechem hapanim*, and it is the resolution of that second contradiction that will point us to the southwest.
 
@@ -44,11 +40,17 @@ The *mishna* in *Tamid*, by contrast, starts with the sheep-room and then lists 
 
 It should be noted that not every divergence between the two listings constitutes a genuine contradiction. The fact that one source mentions the Chashmonaic stones and another does not, or that one mentions the descent to *Beit HaTevilah* in a different position, may reflect different emphases or overlapping functions. The two firm contradictions are: where was the sheep-room, and where was the *lechem hapanim* room?
 
+> **Hebrew/Aramaic:** וּמִסְתַּבְּרָא דִּבְמַעֲרָבִית דְּרוֹמִית הֲוַאי. מִמַּאי — מִדְּרָמֵינַן לֶחֶם הַפָּנִים אַלֶּחֶם הַפָּנִים,
+> **Translation:** The Gemara comments: In any event, **it is reasonable** to say that this chamber **was** closer to the **southwest** corner than it was to the northwest corner. **From where** does one arrive at that conclusion? **From** the fact **that we raise a contradiction** between the mishna in tractate *Tamid*, where we learned that the chamber in which the **shewbread** was prepared stood in the northeast corner, and the mishna in tractate *Middot*, where we learned that the chamber in which the **shewbread** was prepared stood in the southeast corner.
+
+> **Hebrew/Aramaic:** וּמְשַׁנֵּינַן, אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: מָר קָא חָשֵׁיב דֶּרֶךְ יָמִין, וּמָר קָא חָשֵׁיב דֶּרֶךְ שְׂמֹאל.
+> **Translation:** **And we resolve** the contradiction based on what **Rav Huna, son of Rav Yehoshua, said: The Master** in tractate *Middot* **envisions** the chambers as one coming **via** the **right,** from the south to the east, then to the north and then to the west. And **the Master** in tractate *Tamid* **envisions** the chambers as one coming **via** the **left,** from the south to the west, then to the north and then to the east. Both agree with regard to the location of the chamber in which the shewbread was prepared; they merely describe that location from different perspectives.
+
+> **Hebrew/Aramaic:** אִי אָמְרַתְּ בִּשְׁלָמָא בְּמַעֲרָבִית דְּרוֹמִית הֲוַאי, הַיְינוּ דִּמְתָרֵץ לֶחֶם הַפָּנִים אַלֶּחֶם הַפָּנִים. אֶלָּא אִי אָמְרַתְּ צְפוֹנִית מַעֲרָבִית הֲוַאי, סוֹף סוֹף מַאי תֵּירוּצָא דְּלֶחֶם הַפָּנִים! אֶלָּא לָאו שְׁמַע מִינַּהּ, בְּמַעֲרָבִית דְּרוֹמִית הֲוַאי. שְׁמַע מִינַּהּ.
+> **Translation:** **Granted, if you say** that the Chamber of the Lambs **was** actually closer to the **southwest** corner, that is how Rav Huna **resolves** the contradiction between one mishna discussing **the shewbread** and the other mishna discussing **the shewbread. However, if you say** that the Chamber of the Lambs **was** in the **northwest** corner, **ultimately, what is the resolution** with regard to the **shewbread?** Even if you envision the path from the other direction, the Chamber of the Seals interposes between the Chamber of the Lambs and the chamber where the shewbread is prepared. **Rather,** must one **not conclude from it** that the Chamber of the Lambs **was** indeed **in the southwest?** The Gemara concludes: Indeed, **conclude from it** that this is so.
+
 ### Southwest & Clockwise
 
-> **Hebrew/Aramaic:** וּמְשַׁנֵּינַן, אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: מָר קָא חָשֵׁיב דֶּרֶךְ יָמִין, וּמָר קָא חָשֵׁיב דֶּרֶךְ שְׂמֹאל.
->
-> **Translation:** **And we resolve** the contradiction based on what **Rav Huna, son of Rav Yehoshua, said: The Master** in tractate *Middot* **envisions** the chambers as one coming **via** the **right,** from the south to the east, then to the north and then to the west. And **the Master** in tractate *Tamid* **envisions** the chambers as one coming **via** the **left,** from the south to the west, then to the north and then to the east. Both agree with regard to the location of the chamber in which the shewbread was prepared; they merely describe that location from different perspectives.
 
 The resolution now offered is elegant. The *mishna* in *Tamid* does not tell us in which direction its author is listing the rooms — it merely starts with the sheep-room and proceeds. If we make two assumptions simultaneously, both contradictions dissolve. First, we assume that the author of *Tamid*, even though he called the sheep-room "northwest," actually agrees it was really in the southwest — the room was between the two corners, and he simply described it from his vantage point as northwest. Second, we assume that the author of *Tamid* listed the rooms not in the customary counterclockwise direction but clockwise.
 
@@ -58,9 +60,8 @@ Moreover, this solution provides the proof that the room truly was in the southw
 
 ### Kol Pinot Objection
 
-> **Hebrew/Aramaic:** וְהָאָמַר מָר: כׇּל פִּינּוֹת שֶׁאַתָּה פּוֹנֶה לֹא יִהְיוּ אֶלָּא דֶּרֶךְ יָמִין לַמִּזְרָח? הָנֵי מִילֵּי בַּעֲבוֹדָה. אֲבָל הָכָא — חוּשְׁבָּנָא בְּעָלְמָא הוּא.
->
-> **Translation:** The Gemara questions the assertion that one *tanna* envisions the chambers as one coming via the left. **But didn't the Master say: All turns that you turn should be only to the right,** which in certain cases is **to the east?** Here the turns are to the left. The Gemara answers: **This** restriction **applies only in** the course of performing **the** Temple **service; however, here, it is a mere reckoning,** and no priest actually proceeded that way from one chamber to the other.
+> **Hebrew/Aramaic:** וְהָאָמַר מָר: כׇּל פִּינּוֹת שֶׁאַתָּה פּוֹנֶה לֹא יִהְיוּ אֶלָּא דֶּרֶךְ יָמִין לַמִּזְרָח? הָנֵי מִילֵּי בַּעֲבוֹדָה. אֲבָל הָכָא — חוּשְׁבָּנָא בְּעָלְמָא הוּא.
+> **Translation:** The Gemara questions the assertion that one *tanna* envisions the chambers as one coming via the left. **But didn’t the Master say: All turns that you turn should be only to the right,** which in certain cases is **to the east?** Here the turns are to the left. The Gemara answers: **This** restriction **applies only in** the course of performing **the** Temple **service; however, here, it is a mere reckoning,** and no priest actually proceeded that way from one chamber to the other.
 
 The *gemara* immediately raises an objection. *Ve-ha amar: kol pinot she'ata poneh lo yehu ela derech yamin* — does not a principle exist that all turns in the *mikdash* must be to the right? When one ascends the ramp of the *mizbeach* or moves through the Temple, one always turns toward the right, which, when facing the center of the space, means one moves counterclockwise. How then can we posit that the author of *Tamid* listed the rooms in a clockwise direction?
 
@@ -72,11 +73,9 @@ To summarize: the two contradictions between *Tamid* and *Middot* — the locati
 
 ## Kohen Gadol Rights
 
-### General Principle
 
-> **Hebrew/Aramaic:** שֶׁכֹּהֵן גָּדוֹל מַקְרִיב חֵלֶק בָּרֹאשׁ וְנוֹטֵל חֵלֶק בָּרֹאשׁ. תָּנוּ רַבָּנַן: כֵּיצַד מַקְרִיב חֵלֶק בָּרֹאשׁ? אוֹמֵר: עוֹלָה זוֹ אֲנִי מַקְרִיב, מִנְחָה זוֹ אֲנִי מַקְרִיב.
->
-> **Translation:** § It was taught in the mishna: **As the High Priest sacrifices** any **portion** that he chooses **first and takes** any **portion** that he chooses **first. The Sages taught** in a *baraita*: **How does** the High Priest **sacrifice** any **portion** that he chooses **first?** If the High Priest so desires, **he says: This burnt-offering, I am sacrificing,** or: **This meal-offering, I am sacrificing.** That is sufficient, and the High Priest does not participate in a lottery.
+
+### General Principle
 
 With the discussion of the *Beit HaMoked* rooms resolved, the *gemara* returns to its primary topic: the *kohen gadol* in the context of *Yom Kippur* preparation. The *mishna* had established that the *kohen gadol* performs the entire *avoda* himself during the seven days preceding *Yom Kippur*. The *gemara* now broadens the discussion to a general principle that applies throughout the year: the *kohen gadol* has the prerogative, on any day, to perform any *korban* he wishes before others, and to take the first portion from any division of *korbanot*.
 
@@ -84,9 +83,8 @@ With the discussion of the *Beit HaMoked* rooms resolved, the *gemara* returns t
 
 ### Mishnah Examples
 
-> **Hebrew/Aramaic:** כֵּיצַד נוֹטֵל חֵלֶק בָּרֹאשׁ? אוֹמֵר: חַטָּאת זוֹ אֲנִי אוֹכֵל, אָשָׁם זֶה אֲנִי אוֹכֵל. וְנוֹטֵל חַלָּה מִשְׁתֵּי חַלּוֹת, אַרְבַּע אוֹ חָמֵשׁ מִמַּעֲשֵׂה לֶחֶם הַפָּנִים. רַבִּי אוֹמֵר: לְעוֹלָם חָמֵשׁ, שֶׁנֶּאֱמַר: ״וְהָיְתָה לְאַהֲרֹן וּלְבָנָיו״ — מֶחֱצָה לְאַהֲרֹן וּמֶחֱצָה לְבָנָיו.
->
-> **Translation:** **How does** the High Priest **take** any **portion** that he chooses **first?** The High Priest **says: This sin-offering, I am eating,** or: **This guilt-offering, I am eating. And he** may even **take** one **loaf** of the **two loaves** offered on the festival of *Shavuot*. He may take **four or five** of the twelve **shewbread loaves** that are distributed to the priests every Shabbat. **Rabbi** Yehuda HaNasi **says:** The High Priest **always** takes **five** of the twelve shewbread loaves, **as it is stated: "It shall be for Aaron and his sons** and they shall eat it in a sacred place" (Leviticus 24:9). From the fact that Aaron and his sons are listed separately, it is derived that **half** of the loaves were given **to Aaron,** or the High Priests who succeeded him, **and half** were given **to his sons.** Since, as explained below, only ten of the loaves were actually distributed, the High Priest received five.
+> **Hebrew/Aramaic:** שֶׁכֹּהֵן גָּדוֹל מַקְרִיב חֵלֶק בָּרֹאשׁ וְנוֹטֵל חֵלֶק בָּרֹאשׁ. תָּנוּ רַבָּנַן: כֵּיצַד מַקְרִיב חֵלֶק בָּרֹאשׁ? אוֹמֵר: עוֹלָה זוֹ אֲנִי מַקְרִיב, מִנְחָה זוֹ אֲנִי מַקְרִיב.
+> **Translation:** § It was taught in the mishna: **As the High Priest sacrifices** any **portion** that he chooses **first and takes** any **portion** that he chooses **first. The Sages taught** in a *baraita*: **How does** the High Priest **sacrifice** any **portion** that he chooses **first?** If the High Priest so desires, **he says: This burnt-offering, I am sacrificing,** or: **This meal-offering, I am sacrificing.** That is sufficient, and the High Priest does not participate in a lottery.
 
 The *braita* elaborates on both dimensions of this privilege. *Keitzad makriv chelek berosh?* — How does he exercise the right to bring first? He may appear on any day of the year and say: *olah zu ani makriv* — I wish to bring this *olah*. *Mincha zu ani makriv* — I wish to bring this *mincha*. He is given precedence and his offering goes first.
 
@@ -96,39 +94,59 @@ This last example begins to define the outer boundary of the privilege. He takes
 
 ### Four/Five/Half
 
+> **Hebrew/Aramaic:** כֵּיצַד נוֹטֵל חֵלֶק בָּרֹאשׁ? אוֹמֵר: חַטָּאת זוֹ אֲנִי אוֹכֵל, אָשָׁם זֶה אֲנִי אוֹכֵל. וְנוֹטֵל חַלָּה מִשְׁתֵּי חַלּוֹת, אַרְבַּע אוֹ חָמֵשׁ מִמַּעֲשֵׂה לֶחֶם הַפָּנִים. רַבִּי אוֹמֵר: לְעוֹלָם חָמֵשׁ, שֶׁנֶּאֱמַר: ״וְהָיְתָה לְאַהֲרֹן וּלְבָנָיו״ — מֶחֱצָה לְאַהֲרֹן וּמֶחֱצָה לְבָנָיו.
+> **Translation:** **How does** the High Priest **take** any **portion** that he chooses **first?** The High Priest **says: This sin-offering, I am eating,** or: **This guilt-offering, I am eating. And he** may even **take** one **loaf** of the **two loaves** offered on the festival of *Shavuot*. He may take **four or five** of the twelve **shewbread loaves** that are distributed to the priests every Shabbat. **Rabbi** Yehuda HaNasi **says:** The High Priest **always** takes **five** of the twelve shewbread loaves, **as it is stated: “It shall be for Aaron and his sons** and they shall eat it in a sacred place” (Leviticus 24:9). From the fact that Aaron and his sons are listed separately, it is derived that **half** of the loaves were given **to Aaron,** or the High Priests who succeeded him, **and half** were given **to his sons.** Since, as explained below, only ten of the loaves were actually distributed, the High Priest received five.
+
 The question of how large the *chelek berosh* can be becomes acute when the *braita* turns to the *lechem hapanim*. There are twelve loaves. Half of twelve is six. But the *braita* says the *kohen gadol* takes four or five — not six. Then *Rebbi* (Rabbi Yehuda HaNasi) states: *le'olam chamesh* — it is always five, because the verse says *ve-hayetah le'Aharon u-le-vanav*, indicating that Aaron and his sons each receive half, meaning the *kohen gadol* is entitled to a full half of whatever is being divided. Somehow, then, five must constitute half — though precisely how that works remains to be explained.
 
 ### Braita Contradiction
 
-> **Hebrew/Aramaic:** הָא גּוּפַהּ קַשְׁיָא: אָמְרַתְּ נוֹטֵל חַלָּה אַחַת מִשְׁתֵּי חַלּוֹת, מַנִּי — רַבִּי הִיא, דְּאָמַר פַּלְגָא שָׁקֵיל. אֵימָא מְצִיעֲתָא: אַרְבַּע אוֹ חָמֵשׁ מִמַּעֲשֵׂה לֶחֶם הַפָּנִים, אֲתָאן לְרַבָּנַן, דְּאָמְרִי: לָא שָׁקֵיל פַּלְגָא. אֵימָא סֵיפָא, רַבִּי אוֹמֵר: לְעוֹלָם חָמֵשׁ. רֵישָׁא וְסֵיפָא רַבִּי, וּמְצִיעֲתָא רַבָּנַן?
->
+> **Hebrew/Aramaic:** הָא גּוּפַהּ קַשְׁיָא: אָמְרַתְּ נוֹטֵל חַלָּה אַחַת מִשְׁתֵּי חַלּוֹת, מַנִּי — רַבִּי הִיא, דְּאָמַר פַּלְגָא שָׁקֵיל. אֵימָא מְצִיעֲתָא: אַרְבַּע אוֹ חָמֵשׁ מִמַּעֲשֵׂה לֶחֶם הַפָּנִים, אֲתָאן לְרַבָּנַן, דְּאָמְרִי: לָא שָׁקֵיל פַּלְגָא. אֵימָא סֵיפָא, רַבִּי אוֹמֵר: לְעוֹלָם חָמֵשׁ. רֵישָׁא וְסֵיפָא רַבִּי, וּמְצִיעֲתָא רַבָּנַן?
 > **Translation:** **This** *baraita* **is itself difficult,** as it is self-contradictory. First **you said: He takes** one **loaf** of the **two loaves** offered on the festival of *Shavuot*. **Whose** opinion is this? **It is** the opinion of **Rabbi** Yehuda HaNasi, **who said** that the High Priest **takes half. Say the middle clause** of the *baraita* as follows: The High Priest takes **four or five** of the twelve **shewbread loaves; we have come to** the opinion of **the Rabbis, who say** that the High Priest **does not take half** but takes less than half. **Say the last clause** of the *baraita* as follows: **Rabbi** Yehuda HaNasi **says** that the High Priest **always** takes **five.** The Gemara asks: Is that to say that **the first clause and the last clause** of the *baraita* are in accordance with the opinion of **Rabbi** Yehuda HaNasi, **and the middle** clause is in accordance with the opinion of **the Rabbis?** That conclusion is difficult.
 
 The *gemara* immediately flags the internal incoherence of the *braita*. *Ha gufa kashya* — the text is itself contradictory. The opening clause says the *kohen gadol* receives one of the two loaves on *Shavuot* — that is half, which sounds like *Rebbi*'s position. The middle clause says four or five of the twelve loaves of *lechem hapanim* — that is clearly less than half, which sounds like the Rabbis' position. The final clause is *Rebbi*'s explicit statement that he always gets five and always gets half. So the *braita* appears to begin with *Rebbi*, shift to the Rabbis, and then end with *Rebbi* again. *Reisha ve-seifa Rebbi, metzi'ata Rabbanan?* — Can the *braita* really be bouncing back and forth between two positions in this way?
 
 ### Abaye's Reading
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: רֵישָׁא וּמְצִיעֲתָא רַבָּנַן — וּמוֹדוּ רַבָּנַן בִּפְרוּסָה, דְּלָאו אוֹרַח אַרְעָא לְמִיתְּבַהּ לְכֹהֵן גָּדוֹל.
->
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: רֵישָׁא וּמְצִיעֲתָא רַבָּנַן — וּמוֹדוּ רַבָּנַן בִּפְרוּסָה, דְּלָאו אוֹרַח אַרְעָא לְמִיתְּבַהּ לְכֹהֵן גָּדוֹל.
 > **Translation:** **Abaye said: The first clause and the middle clause** of the *baraita* are in accordance with the opinion of **the Rabbis,** and in the case of the two loaves, **the Rabbis concede with regard to a piece** of a loaf **that it is inappropriate to give it to the High Priest.** According to the Rabbis, the High Priest should actually receive less than one loaf, as in their opinion he is entitled to less than half; however, since it is inappropriate to give him a piece of the loaf, he takes an entire loaf as his portion.
 
 *Amar Abaye*: *reisha u-metzi'ata Rabbanan* — both the opening and middle clauses reflect the position of the Rabbis. The Rabbis hold that the *kohen gadol* may receive his first portion, but it must be less than half. The reason the first clause says he receives one of the two loaves on *Shavuot* is not because one out of two equals half, but because you do not give the *kohen gadol* a fractional loaf. *Modu Rabbanan be-frusah de-lav orach ar'a le-meitiv le-kohen gadol* — the Rabbis concede that it would be beneath the dignity of the *kohen gadol* to give him a broken piece. So even though the Rabbis say he gets less than half, when there are only two loaves, he receives one whole loaf — he rounds up to the nearest whole unit. Both the first and middle clauses thus reflect the Rabbis. Only the final line is *Rebbi*, who says he always gets exactly half.
 
 ### Why 4 or 5
 
+> **Hebrew/Aramaic:** וּמַאי אַרְבַּע אוֹ חָמֵשׁ? לְרַבָּנַן דְּאָמְרִי נִכְנָס נוֹטֵל שֵׁשׁ, וְיוֹצֵא נוֹטֵל שֵׁשׁ, וּשְׂכַר הַגָּפַת דְּלָתוֹת לָא, מִשְׁתֵּים עֶשְׂרֵה בָּעֵי מִיפְלַג. בַּצֵּיר חֲדָא מִפַּלְגָא, חָמֵשׁ שָׁקֵיל.
+> **Translation:** **And what** is the meaning of **four or five;** i.e., when does the High Priest take four loaves and when does he take five? According **to the Rabbis, who say:** The priestly watch that is **incoming** on Shabbat **takes six** of the loaves, **and** the **outgoing** watch **takes six, and** the incoming watch receives **no** greater portion as **payment for closing the doors,** it is **from twelve** loaves that the High Priest **must divide** and take his share, but he receives **half** of the loaves **less one,** meaning that **he takes five.** According to the Rabbis, the High Priest receives less than half; however, since it is inappropriate to give him a piece of a loaf, less than half is five whole loaves.
+
+> **Hebrew/Aramaic:** לְרַבִּי יְהוּדָה, דְּאָמַר: נִכְנָס נוֹטֵל שֶׁבַע, שְׁתַּיִם בִּשְׂכַר הַגָּפַת דְּלָתוֹת, וְיוֹצֵא נוֹטֵל חָמֵשׁ, מֵעֶשֶׂר בָּעֵי מִיפְלַג. בַּצֵּיר חֲדָא מִפַּלְגָא, וְשָׁקֵיל אַרְבַּע.
+> **Translation:** According **to Rabbi Yehuda, who said:** The priestly watch that is **incoming** on Shabbat **takes seven** of the loaves, **two** of which **are payment for closing the doors;** and the **outgoing** watch **takes five** loaves, it is **from ten** that **he must divide** the loaves. Those two of the twelve loaves are a separate payment and are not factored into the tally of those designated for distribution. **Subtract one from half** of that total, as subtracting less than one loaf would lead to a situation where the High Priest receives a piece of a loaf, which is inappropriate. **And** therefore, the High Priest **takes four.**
+
 The four or five of the middle clause requires further explanation. Under normal circumstances, the twelve loaves of *lechem hapanim* are divided on *Shabbat* between the outgoing *mishmar* (the weekly rotation of *kohanim* departing) and the incoming *mishmar* (those arriving to serve the coming week). There is a dispute among the Rabbis in tractate *Sukkah* about how this division works.
 
 According to the Rabbis cited there, *nichnas noteil shesh ve-yotzei noteil shesh* — the incoming group takes six and the outgoing group takes six, with no special payment allocated for closing the Temple gates. Thus the full twelve loaves are divided, and half of twelve is six. The *kohen gadol*, who must take less than half, takes five — one less than six. That is the reading that gives five.
 
-According to Rabbi Yehuda, however, the incoming group receives seven — two of which constitute payment for closing the gates that the outgoing group had opened — and the outgoing group receives five. The two loaves set aside as gate-closing payment are not part of the general pool; they are designated from the outset. So the real pool for division is ten. Half of ten is five, and one less than half is four. That is the reading that gives four.
+According to Rabbi Yehuda, however, the incoming group receives seven — two of which constitute payment for closing the gates that the outgoing group had opened — and the outgoing group receives five. The logic behind this extra payment is worth pausing on: the incoming *mishmar* arrives on *Shabbat* to find gates already opened by the outgoing group, and it falls to them to close those gates at the end of the day. Even though next *Shabbat* the roles will reverse — this week's incoming group will open the gates that some future group closes — there is a felt asymmetry in the present moment. Right now, you are closing gates you did not open, and that extra effort receives compensation. Two loaves are therefore designated from the outset as payment for *schar hagafat delatos* — the closing of the gates — and are not part of the general pool. So the real pool for division is ten. Half of ten is five, and one less than half is four. That is the reading that gives four.
 
 Thus when the *braita* says four or five, both figures represent the same Rabbinic position — that the *kohen gadol* takes one less than half — applied to two different understandings of the baseline pool: twelve (giving five) or ten (giving four).
 
 ### Rava's Reading
 
-Rava offers an alternative reading in which the entire *braita* represents *Rebbi*'s position that the *kohen gadol* always takes exactly half. On this reading, the first clause — one of the two loaves on *Shavuot* — is straightforwardly half. The middle clause — four or five of the *lechem hapanim* — also works as half, because *Rebbi* holds like Rabbi Yehuda that two loaves are always set aside, leaving ten, of which half is five. How does four also qualify as half? The *gemara* explains: *lo kashya — ha de-ika mishmar ha-mit'akev, ha de-leika mishmar ha-mit'akev* — it depends on whether there is a *mishmar ha-mitakev*, a group of *kohanim* holding over.
+*Rava amar: kula Rabbi hi* — Rava offers an alternative reading in which the entire *braita* represents *Rebbi*'s position that the *kohen gadol* always takes exactly half. On this reading, the first clause — one of the two loaves on *Shavuot* — is straightforwardly half. The middle clause — four or five of the *lechem hapanim* — also works as half, because *Rebbi* holds like Rabbi Yehuda that two loaves are always set aside, leaving ten, of which half is five. How does four also qualify as half? The *gemara* explains: *lo kashya — ha de-ika mishmar ha-mit'akev, ha de-leika mishmar ha-mit'akev* — it depends on whether there is a *mishmar ha-mitakev*, a group of *kohanim* holding over.
+
+> **Hebrew/Aramaic:** רָבָא אָמַר: כּוּלָּהּ רַבִּי הִיא, וְסָבַר לַהּ כְּרַבִּי יְהוּדָה. וְאֶלָּא מַאי אַרְבַּע? הָא חָמֵשׁ בָּעֵי לְמִשְׁקַל!
+> **Translation:** **Rava said** that the *baraita* should be explained differently. The **entire** *baraita* **is** in accordance with the opinion of **Rabbi** Yehuda HaNasi, **and he holds** in accordance with the opinion of **Rabbi Yehuda** that only ten loaves are divided. **Rather, what** then is the meaning of the statement that the High Priest takes **four** loaves? According to Rabbi Yehuda HaNasi, **doesn’t he need to take five?**
+
+> **Hebrew/Aramaic:** לָא קַשְׁיָא: הָא דְּאִיכָּא מִשְׁמָר הַמִּתְעַכֵּב, הָא דְּלֵיכָּא מִשְׁמָר הַמִּתְעַכֵּב.
+> **Translation:** The Gemara answers: This is **not difficult. This** *halakha* that the High Priest takes four loaves is in a case **where there is a watch that is detained.** When the start of a Festival occurs on a Sunday night and one of the priestly watches was forced to arrive before Shabbat to ensure that they would arrive in time for the Festival; or, alternatively, if the Festival ended on a Thursday and one of the priestly watches was detained until the conclusion of Shabbat and only then departed, that priestly watch takes two loaves. **That** *halakha* that the High Priest takes five loaves is in a case **where there is not a watch that is detained,** and the shewbread in divided only between the watch that concludes its service that Shabbat and the watch that begins its service that Shabbat.
+
+> **Hebrew/Aramaic:** אִי אִיכָּא מִשְׁמָר הַמִּתְעַכֵּב — מִשְּׁמֹנֶה בָּעֵי לְמִפְלַג, וְשָׁקֵיל אַרְבַּע. אִי לֵיכָּא מִשְׁמָר הַמִּתְעַכֵּב — מֵעֶשֶׂר בָּעֵי לְמִפְלַג, וְשָׁקֵיל חָמֵשׁ.
+> **Translation:** **If there is a watch that is detained,** that detained watch takes two loaves, and the outgoing watch takes two loaves as payment for closing the doors. Therefore, it is **from eight** that the High Priest **must divide** the loaves, and he **takes four. If there is not a watch that is detained,** it is **from ten** that **he must divide** the loaves and the High Priest **takes five.**
+
+> **Hebrew/Aramaic:** אִי הָכִי, מַאי רַבִּי אוֹמֵר: לְעוֹלָם חָמֵשׁ? קַשְׁיָא.
+> **Translation:** The Gemara asks: **If so,** that even the middle statement of the *baraita* is attributed to Rabbi Yehuda HaNasi and it is referring to a watch that is detained, **what** is the meaning of the last clause in the *baraita*: **Rabbi** Yehuda HaNasi **says:** The High Priest **always** takes **five** loaves? That statement indicates that Rabbi Yehuda HaNasi disagrees with the middle clause, while according to Rava’s interpretation Rabbi Yehuda HaNasi concedes that in certain circumstances the High Priest takes only four loaves. The Gemara concludes: Indeed, it is **difficult** to reconcile Rava’s interpretation with the language of the *baraita*.
 
 ### Mishmar HaMitakev
+
 
 The *mishmar ha-mitakev* is a group of *kohanim* present in the *Beit HaMikdash* on a given *Shabbat* not because it is their assigned week, but because they have stayed over from or in anticipation of an adjacent *Yom Tov*. On *Yom Tov* itself, all twenty-four *mishmarot* would come up to *Yerushalayim* as *oleh l'regel* and serve together, dividing the offerings equally. The scenario that creates the *mishmar ha-mitakev* is when *Shabbat* and *Yom Tov* are juxtaposed — either *Yom Tov* falls immediately before or after *Shabbat*, or there is a single intervening day that makes travel impractical.
 

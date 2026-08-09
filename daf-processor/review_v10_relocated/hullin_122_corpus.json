@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Food Not Yet Dead",
+    "candidates": [
+      "Shechita Defects",
+      "Non-Jew Physical Act",
+      "Food Not Yet Dead",
+      "Swallowed Objects",
+      "Bestiality Case",
+      "Rabbi Yehuda Alal",
+      "Rav Huna Condition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Food Not Yet Dead",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the question-and-counter-question exchange between Rabbi Zeira and Rav Sheshet about whether the post-shechita animal saves swallowed items, which is precisely what heading 2 ('Food Not Yet Dead') describes in its prose.",
+      "second_heading": "Swallowed Objects",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Abaye's definitive resolution that the animal does not save swallowed items because it imparts tumas ochlin, which is exactly what heading 3 ('Swallowed Objects') describes \u2014 Abaye's ruling that the balu'a protection is lost once the animal is reclassified as food.",
+      "current_heading": "Food Not Yet Dead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Huna Condition",
+    "candidates": [
+      "Swallowed Objects",
+      "Bestiality Case",
+      "Rabbi Yehuda Alal",
+      "Rav Huna Condition",
+      "Yishmael/Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda's ruling about alal and Rav Huna's condition 've-hu she-kinso' together as one unit, and candidate 2 ('Rabbi Yehuda Alal') is the section that introduces this exact topic \u2014 the mishna's ruling about alal/meat residue gathered from the hide \u2014 making it the natural home for this combined quote, before the detailed analysis of Rav Huna's qualification begins in candidate 3.",
+      "chosen_heading": "Rabbi Yehuda Alal",
+      "current_heading": "Rav Huna Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Yishmael/Akiva",
+    "candidates": [
+      "Rav Huna Condition",
+      "Yishmael/Akiva",
+      "Yishmael Subjectivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous gemara unit \u2014 Rav Huna's ruling about the hide nullifying two half-olive-bulks, the question of whose opinion it follows, the objection regarding Rabbi Yishmael vs. Rabbi Akiva, and the initial answer \u2014 which exactly matches the 'Yishmael/Akiva' prose describing this very dispute and the gemara's challenge of 'aliba d'man' followed by the peshita objection.",
+      "chosen_heading": "Yishmael/Akiva",
+      "current_heading": "Yishmael/Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Yishmael Subjectivity",
+    "candidates": [
+      "Yishmael Subjectivity",
+      "Akiva Objectivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara challenge about whether Rav Huna's ruling is consistent with Rabbi Yishmael's position regarding knife-flayed pieces, which is precisely what the 'Yishmael Subjectivity' prose discusses \u2014 the concern that if knife-flaying causes objective negation under Rabbi Yishmael, then Rabbi Yehuda's ruling about collecting the alal becomes incoherent.",
+      "chosen_heading": "Yishmael Subjectivity",
+      "current_heading": "Yishmael Subjectivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Akiva Objectivity",
+    "candidates": [
+      "Akiva Objectivity",
+      "Mishna Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items continue the same discussion about Rabbi Akiva's objective principle that the hide nullifies attached flesh regardless of how it was flayed, which is precisely what the 'Akiva Objectivity' prose describes.",
+      "chosen_heading": "Akiva Objectivity",
+      "current_heading": "Akiva Objectivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "Human Skin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the complete Mishna text being introduced and summarized under 'Mishna Overview', which explicitly walks through every clause of this exact Mishna including human skin, pig skin, camel hump, calf head, hooves, womb, fetus, sheep tail, the four sheratzim, tanning/treading, and Rabbi Yochanan ben Nuri's dissent \u2014 matching the passage perfectly.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Mishna Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Human Skin",
+    "candidates": [
+      "Human Skin",
+      "Pig Skin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Ulla's statement about human skin being pure by Torah law and the rabbinic decree, along with the two versions of where it is taught and their logical relationship \u2014 exactly what the 'Human Skin' prose discusses in detail.",
+      "chosen_heading": "Human Skin",
+      "current_heading": "Human Skin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Pig Skin",
+    "candidates": [
+      "Pig Skin",
+      "Young Camel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute about pig skin (domesticated vs. wild boar) being tough or soft, which is exactly what the 'Pig Skin' section's prose describes.",
+      "chosen_heading": "Pig Skin",
+      "current_heading": "Pig Skin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Young Camel",
+    "candidates": [
+      "Young Camel",
+      "Young Calf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the definition of 'young camel' (gamal ha-rakah), the ruling of Rabbi Yehoshua ben Levi, the dilemmas of Rabbi Yirmeya and Abaye, the parallel anecdotes of Reish Lakish and Rabbi Zeira, and the concluding editorial comparison \u2014 all of which are explicitly described in the prose under heading 0 ('Young Camel').",
+      "chosen_heading": "Young Camel",
+      "current_heading": "Young Camel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Young Calf",
+    "candidates": [
+      "Young Calf",
+      "Yochanan Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the dispute between Ulla and Rabbi Yo\u1e25anan about what makes a calf 'young,' and the gemara's resolution \u2014 exactly what the 'Young Calf' prose describes in detail.",
+      "chosen_heading": "Young Calf",
+      "current_heading": "Young Calf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Yochanan Ruling",
+    "candidates": [
+      "Yochanan Ruling",
+      "Baraita Pigul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items depict the exact exchange between Reish Lakish and Rabbi Yochanan \u2014 the question about tumah, the ruling eino metamei, the challenge from the mishna, and the response al taknitani/bi-leshon yachid \u2014 which is precisely what the 'Yochanan Ruling' prose describes in detail.",
+      "chosen_heading": "Yochanan Ruling",
+      "current_heading": "Yochanan Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Baraita Pigul",
+    "candidates": [
+      "Baraita Pigul",
+      "Animal Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita about pigul \u2014 the opening ruling on skin beneath the tail, the extension by Elazar ben Yehuda and Rabbi Shimon to all meat-like skins, and the concluding application \u2014 which is precisely what the 'Baraita Pigul' prose describes in detail.",
+      "chosen_heading": "Baraita Pigul",
+      "current_heading": "Baraita Pigul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Animal Parts",
+    "candidates": [
+      "Animal Parts",
+      "Eight Sheratzim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the anatomical meaning of 'beit ha-parsos' (hoof area) with Rav and Rabbi \u1e24anina's opinions, which directly matches the prose in 'Animal Parts' describing exactly these two opinions about the hoof/lower leg area.",
+      "chosen_heading": "Animal Parts",
+      "current_heading": "Animal Parts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Eight Sheratzim",
+    "candidates": [
+      "Eight Sheratzim",
+      "Rav Verse",
+      "Tinshames"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover exactly what candidate 0's prose describes: the baraita deriving that skins are like flesh from 'eileh ha-teme'im,' the question whether this applies to all eight sheratzim, and Rav's answer that 'le-mineihu' interrupts the matter \u2014 all of which candidate 0 explicitly narrates.",
+      "chosen_heading": "Eight Sheratzim",
+      "current_heading": "Eight Sheratzim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Tinshames",
+    "candidates": [
+      "Rav Verse",
+      "Tinshames",
+      "Yehuda Feel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the tinshames objection to Rav's verse-based approach and its resolution via 'Rav tanna hu,' which is precisely what the 'Tinshames' section prose describes.",
+      "chosen_heading": "Tinshames",
+      "current_heading": "Tinshames",
+      "moved": false
+    }
+  }
+]

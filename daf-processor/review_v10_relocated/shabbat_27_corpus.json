@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Intro: Two baraitot",
+    "candidates": [
+      "Intro: Two baraitot",
+      "Abaye's contradiction",
+      "Rava: size matters",
+      "Rava reverses himself",
+      "Rava/Rav Papa revision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage centers on Rava's distinction that three-by-three handbreadths in other garments is the practical difference between the two opinions, with supporting baraitot about wool/linen leprosy impurity and derivations \u2014 all of which matches heading 2 ('Rava: size matters') best, even though item 12 introduces the Abaye contradiction that heading 1 describes.",
+      "chosen_heading": "Rava: size matters",
+      "current_heading": "Intro: Two baraitot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Rava/Rav Papa revision",
+    "candidates": [
+      "Abaye's contradiction",
+      "Rava: size matters",
+      "Rava reverses himself",
+      "Rava/Rav Papa revision",
+      "Shatnez vs. Tuma'ah",
+      "Shatnez is explicit",
+      "Kol V'Chomer logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's resolution that the tanna of Rabbi Yishmael's school distinguishes between three-by-three fingers and three-by-three handbreadths, which is precisely what candidate 1 ('Rava: size matters') describes, while the current placement (candidate 3) describes the retraction and Rav Papa alternative that actually appears later in the essay's flow \u2014 the challenge and retraction in item 2 belong with Rava's initial size-distinction proposal under candidate 1, not split off under candidate 3.",
+      "chosen_heading": "Rava: size matters",
+      "current_heading": "Rava/Rav Papa revision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Kol V'Chomer logic",
+    "candidates": [
+      "Shatnez vs. Tuma'ah",
+      "Shatnez is explicit",
+      "Kol V'Chomer logic",
+      "Tum'ah vs. Tzitzit",
+      "Garment inclusivity",
+      "Rava on Tzitzit",
+      "Wool/linen universal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover exactly the content described in candidate 2's prose: Rav Pappa's proposal that 'af kol' addresses sha'atnez/kilayim, the salka daitach amina about ha'ala vs. levisha, the kal vachomer refutation, and the conclusion that Rav Pappa's approach is a mistake \u2014 all of which match the current placement under 'Kol V'Chomer logic'.",
+      "chosen_heading": "Kol V'Chomer logic",
+      "current_heading": "Kol V'Chomer logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Wool/linen universal",
+    "candidates": [
+      "Tum'ah vs. Tzitzit",
+      "Garment inclusivity",
+      "Rava on Tzitzit",
+      "Wool/linen universal",
+      "Blind person vs. night"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tum'ah vs. Tzitzit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Na\u1e25man bar Yitz\u1e25ak's opening statement that the tanna of Rabbi Yishmael's school was teaching about tzitzit, not tum'ah \u2014 exactly what candidate 0 ('Tum'ah vs. Tzitzit') describes.",
+      "second_heading": "Garment inclusivity",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Gemara's challenge that tzitzit's limitation to wool and linen is already explicit from the juxtaposed verses, matching candidate 1 ('Garment inclusivity') which describes exactly that challenge.",
+      "current_heading": "Wool/linen universal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Blind person vs. night",
+    "candidates": [
+      "Wool/linen universal",
+      "Blind person vs. night",
+      "Wool/linen emphasized",
+      "Tosafot/Rava ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the same continuous discussion about whether 'asher techaseh ba' includes a blind person's garment vs. night garments vs. other fabric garments, which is precisely what the 'Blind person vs. night' section's prose describes.",
+      "chosen_heading": "Blind person vs. night",
+      "current_heading": "Blind person vs. night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Tosafot/Rava ruling",
+    "candidates": [
+      "Wool/linen emphasized",
+      "Tosafot/Rava ruling",
+      "Wool preference custom",
+      "Rav Moshe polyester",
+      "Flax is a tree",
+      "Warp/woof tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's statement identifying Rabbi Shimon ben Elazar and Sumchus as sharing the same position, with the baraita about spun thread sechach being disqualified due to nega'im tum'ah \u2014 exactly what the prose under 'Tosafot/Rava ruling' explicitly discusses as the content immediately preceding the Tosafot ruling.",
+      "chosen_heading": "Tosafot/Rava ruling",
+      "current_heading": "Tosafot/Rava ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Warp/woof tamei",
+    "candidates": [
+      "Wool preference custom",
+      "Rav Moshe polyester",
+      "Flax is a tree",
+      "Warp/woof tamei",
+      "Flax wood proof",
+      "Plant vs. tree",
+      "Tent vs. building"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is explicitly about warp and woof becoming tamei through nega'im and the dispute between Rabbi Meir and Rabbi Yehuda, which is precisely what the 'Warp/woof tamei' section's prose discusses.",
+      "chosen_heading": "Warp/woof tamei",
+      "current_heading": "Warp/woof tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Tent vs. building",
+    "candidates": [
+      "Flax wood proof",
+      "Plant vs. tree",
+      "Tent vs. building",
+      "Gezeirah Shavah",
+      "Beams vs. fabric",
+      "Mishkan materials",
+      "Rabbi Elazar query",
+      "Kosher only for Mishkan",
+      "Covering debate",
+      "Tachash identity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Flax wood proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah and its immediate Gemara establishing that flax is called a tree, which matches heading 0 ('Flax wood proof') perfectly.",
+      "second_heading": "Gezeirah Shavah",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 cover the gezeirah shavah derivation for tum'at ohalim applying to linen, the discussion of beams, coverings, and Rabbi Elazar's dilemma about non-kosher animal hides \u2014 exactly what heading 3 ('Gezeirah Shavah') describes as its content.",
+      "current_heading": "Tent vs. building",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Tachash identity",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Beams vs. fabric",
+      "Mishkan materials",
+      "Rabbi Elazar query",
+      "Kosher only for Mishkan",
+      "Covering debate",
+      "Tachash identity",
+      "Nega'im standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abba's objection citing the baraita where Rabbi Yehuda and Rabbi Nechemiah debate whether there were two coverings or one, which is precisely what heading 5 ('Covering debate') describes in its prose.",
+      "chosen_heading": "Covering debate",
+      "current_heading": "Tachash identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Nega'im standard",
+    "candidates": [
+      "Tachash identity",
+      "Nega'im standard",
+      "Kal V'Chomer logic",
+      "Tefillin practical"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Nega'im standard",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover the full derivation of non-kosher animal hide being tamei through tum'at ohalim \u2014 from nega'im, shratzim, hatzad ha-shaveh, and the kal vachomer \u2014 matching exactly what headings 1 and 2 discuss, and the prose of heading 1 explicitly covers items 1\u20133 while heading 2 covers items 4\u20135; but since all six items are currently placed under one heading, items 1\u20135 together span headings 1\u20132 as one continuous derivation chain.",
+      "second_heading": "Tefillin practical",
+      "second_confidence": "high",
+      "second_reason": "Item 6 \u2014 the question about Rav Yosef's baraita and its resolution that it applies to tefillin \u2014 matches exactly the prose of heading 3 ('Tefillin practical'), which describes precisely this concluding exchange.",
+      "current_heading": "Nega'im standard",
+      "moved": true
+    }
+  }
+]

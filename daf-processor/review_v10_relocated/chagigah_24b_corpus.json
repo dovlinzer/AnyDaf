@@ -1,0 +1,347 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tosfos's View",
+    "candidates": [
+      "Kodesh vs Terumah",
+      "Rashi's View",
+      "Chiburin Defined",
+      "Tosfos's View",
+      "Rashi's Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheizevi's statement about 'be-chiburin shanu' (they taught this only when in contact), which is precisely what the 'Chiburin Defined' section's prose describes \u2014 introducing the principle of chiburin through Rav Shezbi's statement.",
+      "chosen_heading": "Chiburin Defined",
+      "current_heading": "Tosfos's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rashi's Example",
+    "candidates": [
+      "Tosfos's View",
+      "Rashi's Example",
+      "Gemara's Challenge",
+      "Extended Touch Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the braisa about yad neguvah rendering kodesh tamei but not teruma, and Rabbi Yose's qualification about pasul vs. tamei \u2014 exactly the content described in candidate 1's prose about the Gemara raising a challenge from this braisa.",
+      "chosen_heading": "Rashi's Example",
+      "current_heading": "Rashi's Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Extended Touch Logic",
+    "candidates": [
+      "Gemara's Challenge",
+      "Extended Touch Logic",
+      "Resh Lakish's View",
+      "Yochanan's View",
+      "Original Hand Power",
+      "Posel vs Metamei",
+      "Resh Lakish Retracts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly articulates the Gemara's challenge \u2014 that the noteworthiness of a dry hand only makes sense if the hands are not in simultaneous contact, which is precisely the argument described in the 'Gemara's Challenge' prose.",
+      "chosen_heading": "Gemara's Challenge",
+      "current_heading": "Extended Touch Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Resh Lakish Retracts",
+    "candidates": [
+      "Resh Lakish's View",
+      "Yochanan's View",
+      "Original Hand Power",
+      "Posel vs Metamei",
+      "Resh Lakish Retracts",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together cover the full dispute between Reish Lakish and Rabbi Yochanan (items 1-2), the derivation supporting Rabbi Yochanan (item 3), Reish Lakish's retraction (item 4), and the Tannaitic background (item 5) \u2014 this is one continuous sugya that begins with Reish Lakish's view, making heading 0 ('Resh Lakish's View') the natural home for the entire passage's opening statement that launches the discussion.",
+      "chosen_heading": "Resh Lakish's View",
+      "current_heading": "Resh Lakish Retracts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Resh Lakish Retracts",
+      "Tannaim Debate",
+      "Shelishi Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's inference about whether the Chachamim's disagreement with Rabbi Yehoshua concerns the degree of tumah (sheni vs. shelishi) rather than whether any tumah transfers at all \u2014 which is precisely what the 'Tannaim Debate' prose describes.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Shelishi Conclusion",
+    "candidates": [
+      "Shelishi Conclusion",
+      "Dry Food Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's rejection of the earlier proof and the subsequent baraita about a dry hand rendering the second hand impure to different degrees \u2014 exactly the content described in the 'Shelishi Conclusion' prose, which explicitly discusses the Gemara's rejection and the yad neguvah baraita with Rabbi Yose and Rabbi Yose son of Rabbi Yehuda.",
+      "chosen_heading": "Shelishi Conclusion",
+      "current_heading": "Shelishi Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Dry Food Rules",
+    "candidates": [
+      "Dry Food Rules",
+      "Chanana's Principle",
+      "Eating Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rabbi \u1e24anina ben Antigonus's question regarding chibbat hakodesh rendering dry food susceptible to impurity, which is precisely what Candidate 1 ('Chanana's Principle') discusses in its prose.",
+      "chosen_heading": "Chanana's Principle",
+      "current_heading": "Dry Food Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Eating Scenario",
+    "candidates": [
+      "Chanana's Principle",
+      "Eating Scenario",
+      "Gezeira Distinction",
+      "Onen & Mechusar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eating Scenario",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the reframed case of inserting food via a friend or spindle and wanting to eat chullin alongside it, which matches exactly the 'Eating Scenario' prose about placing kodesh in the mouth without hands and then wanting to eat dry chullin.",
+      "second_heading": "Gezeira Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states the Sages decreed against this for kodesh but not for teruma, which matches precisely the 'Gezeira Distinction' prose describing the asymmetric decree between kodesh and teruma in this scenario.",
+      "current_heading": "Eating Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Onen & Mechusar",
+    "candidates": [
+      "Gezeira Distinction",
+      "Onen & Mechusar",
+      "Mikvah Requirement",
+      "Status Logic",
+      "Yehuda's Leniency",
+      "Kodesh Belief",
+      "Terumah Season"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the mishna teaching about the onen and mechusar kipurim requiring immersion for kodesh but not terumah, which is exactly what the 'Onen & Mechusar' section's prose introduces.",
+      "chosen_heading": "Onen & Mechusar",
+      "current_heading": "Onen & Mechusar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Terumah Season",
+    "candidates": [
+      "Mikvah Requirement",
+      "Status Logic",
+      "Yehuda's Leniency",
+      "Kodesh Belief",
+      "Terumah Season",
+      "Deferral Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text introduces 'chomer b'terumah' and describes the trust given to amei ha'aretz regarding wine and oil purity in Judea, which matches candidate 2's prose that explicitly introduces this mishnah under the heading 'chomer b'terumah' and explains the inversion dynamic between terumah and kodesh \u2014 not candidate 4, whose prose discusses the seasonal exception that comes later in the analysis.",
+      "chosen_heading": "Yehuda's Leniency",
+      "current_heading": "Terumah Season",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Deferral Practice",
+    "candidates": [
+      "Terumah Season",
+      "Deferral Practice",
+      "Mixed Belief"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what happens after the pressing season ends \u2014 the kohen cannot accept the barrel, may defer it to the next season, and the exception for a quarter-log of sacrificial wine \u2014 all of which matches the 'Deferral Practice' prose precisely.",
+      "chosen_heading": "Deferral Practice",
+      "current_heading": "Deferral Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Mixed Belief",
+    "candidates": [
+      "Mixed Belief",
+      "Pre-Pressing Period",
+      "Samaritan Strip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the single mishnaic case of mixed barrels (midumaot) and their credibility during the pressing season, which is precisely what the 'Mixed Belief' prose describes.",
+      "chosen_heading": "Mixed Belief",
+      "current_heading": "Mixed Belief",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Samaritan Strip",
+    "candidates": [
+      "Pre-Pressing Period",
+      "Samaritan Strip",
+      "Eretz Ha'amim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why the Judea/Galilee distinction exists, which is precisely the question that the 'Samaritan Strip' section answers with Resh Lakish's explanation about the retzu'ah shel Kusim separating Galilee from Judea.",
+      "chosen_heading": "Samaritan Strip",
+      "current_heading": "Samaritan Strip",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Eretz Ha'amim",
+    "candidates": [
+      "Eretz Ha'amim",
+      "Transport Failure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Reish Lakish's statement explains why the Samaritan strip creates an insurmountable transport problem for Galilean kodesh, which is precisely what the 'Eretz Ha'amim' prose section discusses.",
+      "chosen_heading": "Eretz Ha'amim",
+      "current_heading": "Eretz Ha'amim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Transport Failure",
+    "candidates": [
+      "Transport Failure",
+      "Kodesh Sealing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses transporting items in a box/chest/closet and the principle of ohel zaruk, which is precisely what the 'Transport Failure' section's prose describes.",
+      "chosen_heading": "Transport Failure",
+      "current_heading": "Transport Failure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Kodesh Sealing",
+    "candidates": [
+      "Kodesh Sealing",
+      "Eliyahu Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the question of whether kodesh can be protected by a tzamid pasil (tightly bound cover), which is precisely what the 'Kodesh Sealing' prose describes, including the challenge from the baraita about chatas water and the Gemara's resolution about unconsecrated water.",
+      "chosen_heading": "Kodesh Sealing",
+      "current_heading": "Kodesh Sealing",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,563 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Human in Animal Womb",
+    "candidates": [
+      "Fetus: Animal Appearance",
+      "Pidyon HaBen Context",
+      "Meir's Position",
+      "Human in Animal Womb",
+      "Dove-like Fetus",
+      "Hoof Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the question posed by Rav Adda bar Ahava to Abaye about Rabbi Meir's position and the initial attempted resolution, which is precisely what heading 2 ('Meir's Position') describes \u2014 the question arising from Rabbi Meir's ruling about the reverse scenario \u2014 while the current heading 3 ('Human in Animal Womb') describes the Gemara's analysis of that question's implications, which comes after.",
+      "chosen_heading": "Meir's Position",
+      "current_heading": "Human in Animal Womb",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Hoof Distinction",
+    "candidates": [
+      "Dove-like Fetus",
+      "Hoof Distinction",
+      "Chachamim Requirement",
+      "Consensus Hybrids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's rejection comparing the dove-like fetus (no hooves at all) to the human-appearing fetus (has feet/hooves), which is precisely what the 'Hoof Distinction' section's prose describes.",
+      "chosen_heading": "Hoof Distinction",
+      "current_heading": "Hoof Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Consensus Hybrids",
+    "candidates": [
+      "Chachamim Requirement",
+      "Consensus Hybrids",
+      "Mixed Eye Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yirmeya bar Abba's teaching about the consensus cases (hakol modim) regarding goat-body/human-face and human-body/goat-face hybrids, which is precisely what the 'Consensus Hybrids' prose section discusses.",
+      "chosen_heading": "Consensus Hybrids",
+      "current_heading": "Consensus Hybrids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Mixed Eye Debate",
+    "candidates": [
+      "Mixed Eye Debate",
+      "Facial Components"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the Rabbi Meir vs. chachamim dispute over partial vs. complete human facial form and the baraita reversal resolved by Rav Yirmiyah bar Abba's 'i tanya tanya' \u2014 exactly what the 'Mixed Eye Debate' prose describes.",
+      "chosen_heading": "Mixed Eye Debate",
+      "current_heading": "Mixed Eye Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Facial Components",
+    "candidates": [
+      "Facial Components",
+      "Rava Half-Features",
+      "One Feature Objection",
+      "Missing Limb Position",
+      "Cyclops Malformation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's and Rava/Chasa's lists of facial features, which is precisely what the 'Facial Components' section prose discusses \u2014 both views are introduced together in that section's narrative before the subsequent sections treat their implications separately.",
+      "chosen_heading": "Facial Components",
+      "current_heading": "Facial Components",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Cyclops Malformation",
+    "candidates": [
+      "Rava Half-Features",
+      "One Feature Objection",
+      "Missing Limb Position",
+      "Cyclops Malformation",
+      "Esophagus Viability"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava Half-Features",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the lo peligi resolution, the one-feature baraita objection, and Abaye's answer \u2014 all discussed together in candidates 0 and 1, and candidate 0's prose explicitly mentions 'lo peligi' and 'ha keman de'amar kol tzurat / mitzurat' while candidate 1's prose covers the baraita objection and Abaye's resolution, making items 1-3 a continuous unit best placed under candidate 0 (which flows into 1), but since all four items are being split, items 1-3 belong under candidate 0.",
+      "second_heading": "Missing Limb Position",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rava's ruling about a fetus with one eye or thigh located to the side vs. the middle, which is precisely what candidate 2 ('Missing Limb Position') describes \u2014 a fetus with one eye/thigh in its correct anatomical position rendering the mother impure.",
+      "current_heading": "Cyclops Malformation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Esophagus Viability",
+    "candidates": [
+      "Cyclops Malformation",
+      "Esophagus Viability",
+      "Missing Limbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's teaching about a punctured vs. sealed esophagus determining the mother's purity status, which is precisely what the 'Esophagus Viability' section's prose discusses.",
+      "chosen_heading": "Esophagus Viability",
+      "current_heading": "Esophagus Viability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Missing Limbs",
+    "candidates": [
+      "Missing Limbs",
+      "Leg Amputation Debate",
+      "Eliezer Already Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines 'guf atum' and Rabbi Yehuda HaNasi's criterion, which is precisely what the 'Missing Limbs' section prose discusses \u2014 the baraita about guf atum, the mother's impurity status, and Rabbi's functional definition of kedei sheyinnatel min hachai vayammut.",
+      "chosen_heading": "Missing Limbs",
+      "current_heading": "Missing Limbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Eliezer Already Dead",
+    "candidates": [
+      "Leg Amputation Debate",
+      "Eliezer Already Dead",
+      "Head Defect Priority",
+      "Sealed Skull"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the three-way dispute (Rabbi Zakkai/Yannai/Yochanan) and the subsequent Gemara explanation of their disagreements (treifa survival and Rabbi Elazar's thigh ruling), which is precisely what candidate 0 'Leg Amputation Debate' describes in its prose.",
+      "chosen_heading": "Leg Amputation Debate",
+      "current_heading": "Eliezer Already Dead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Sealed Skull",
+    "candidates": [
+      "Head Defect Priority",
+      "Sealed Skull",
+      "Palm Tree Fetus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's statement about the asymmetry between bottom-up and top-down deficiencies AND Rav Giddel/Rabbi Yochanan's ruling about the sealed skull \u2014 both are introduced together as a unit, and the prose under 'Head Defect Priority' explicitly covers both points (Rav Pappa's asymmetry principle plus its application), while 'Sealed Skull' treats them as separate items when they are a single Talmudic statement.",
+      "chosen_heading": "Head Defect Priority",
+      "current_heading": "Sealed Skull",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Palm Tree Fetus",
+    "candidates": [
+      "Sealed Skull",
+      "Palm Tree Fetus",
+      "Smushed Face"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses a fetus resembling a palm tree configuration (afakuta d'dikla), which directly matches the 'Palm Tree Fetus' section's prose description of this exact case.",
+      "chosen_heading": "Palm Tree Fetus",
+      "current_heading": "Palm Tree Fetus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Smushed Face",
+    "candidates": [
+      "Smushed Face",
+      "Challenge Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records the exact dispute between Rabbi Yochanan and Resh Lakish about a fetus with a mashed face, which is precisely what the 'Smushed Face' section's prose describes.",
+      "chosen_heading": "Smushed Face",
+      "current_heading": "Smushed Face",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Challenge Logic",
+    "candidates": [
+      "Challenge Logic",
+      "Resolution Smushed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's challenge to Resh Lakish about the baraita's silence on mashed faces, which matches exactly the 'Challenge Logic' section's prose describing this very objection.",
+      "chosen_heading": "Challenge Logic",
+      "current_heading": "Challenge Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Resolution Smushed",
+    "candidates": [
+      "Resolution Smushed",
+      "Stringency Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Pappi's resolution distinguishing musmasin from tuchot and the follow-up question about why Reish Lakish didn't object using the baraita \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Resolution Smushed",
+      "current_heading": "Resolution Smushed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Stringency Leniency",
+    "candidates": [
+      "Stringency Leniency",
+      "Two Backs Status",
+      "Rav Non-Viable",
+      "Shmuel Viable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi \u1e24iyya episode about the flat-faced fetus ruling and the chumra-leads-to-kula principle, which is exactly what the 'Stringency Leniency' prose describes in detail.",
+      "chosen_heading": "Stringency Leniency",
+      "current_heading": "Stringency Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Shmuel Viable",
+    "candidates": [
+      "Two Backs Status",
+      "Rav Non-Viable",
+      "Shmuel Viable",
+      "Priest Blemish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together introduce and explain the dispute between Rav and Shmuel over the two-backs-two-spines creature, which is precisely what the 'Two Backs Status' heading's prose describes as introducing this new case and its questions about velad status and permissibility for consumption.",
+      "chosen_heading": "Two Backs Status",
+      "current_heading": "Shmuel Viable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Priest Blemish",
+    "candidates": [
+      "Shmuel Viable",
+      "Priest Blemish",
+      "Rav Bent Spine",
+      "Gestation Periods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge from Rav Shimi bar \u1e24iyya about the priestly blemish (two backs/two spines disqualifying a kohen) AND Rav's response about the bent spine, and the current placement under 'Priest Blemish' covers the challenge portion while 'Rav Bent Spine' covers the response \u2014 but since the single passage contains both elements together, and candidate 1's prose explicitly describes this exact challenge from Rav Shimi about the Mishnah/baraita on priestly blemishes contradicting Rav, the current placement is the best single heading for the complete passage.",
+      "chosen_heading": "Priest Blemish",
+      "current_heading": "Priest Blemish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Gestation Periods",
+    "candidates": [
+      "Rav Bent Spine",
+      "Gestation Periods",
+      "Rav Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's citation of the baraita about gestation thresholds and the two-spine exclusion, plus the initial question it raises \u2014 exactly what heading 1 ('Gestation Periods') describes in its prose, before Rav's full resolution (heading 2) takes over; item 3 begins Rav's answer but only its opening line, and the full Rav/Shmuel reconciliation properly belongs under heading 1's framing of the baraita challenge rather than heading 2 which describes Rav's complete explained position.",
+      "chosen_heading": "Gestation Periods",
+      "current_heading": "Gestation Periods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Rav Reading",
+    "candidates": [
+      "Rav Reading",
+      "Shmuel Reading",
+      "Two-Spine Application",
+      "Huna Warning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Reading",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's reading of the baraita \u2014 the rule applies to birth into the world, with the two-spine exception forbidden even in the womb \u2014 which matches exactly the 'Rav Reading' prose.",
+      "second_heading": "Shmuel Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Shmuel's alternative reading of the same baraita \u2014 the rule applies when months are not complete, with the two-spine exception forbidden even when months are complete and born \u2014 which matches exactly the 'Shmuel Reading' prose.",
+      "current_heading": "Rav Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Huna Warning",
+    "candidates": [
+      "Shmuel Reading",
+      "Two-Spine Application",
+      "Huna Warning",
+      "Human Months",
+      "Animal Seven Month"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the continuous discussion about the two-spine case applied to human childbirth impurity: the baraita (item 1), Rav's addition of the two-spine case (item 2), and Rav Huna's ruling that one must follow Rav's position (item 3) \u2014 exactly what the 'Huna Warning' prose describes.",
+      "chosen_heading": "Huna Warning",
+      "current_heading": "Huna Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Animal Seven Month",
+    "candidates": [
+      "Human Months",
+      "Animal Seven Month",
+      "Species Distinction",
+      "Braita Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All three items form one continuous discussion initiated by Rava's question about whether large animals can give birth viably at seven months (introduced in item 1), with items 2\u20133 being Rav Na\u1e25man's attempted proof and the Gemara's response \u2014 the entire sequence belongs under 'Human Months' which describes exactly this question of whether the human seven-month viability rule extends to large animals, rather than 'Animal Seven Month' which focuses on the eight-month non-viability already established.",
+      "chosen_heading": "Human Months",
+      "current_heading": "Animal Seven Month",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Braita Scope",
+    "candidates": [
+      "Species Distinction",
+      "Braita Scope",
+      "Lilith Fetus",
+      "Simuni Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion about whether the baraita's ruling on premature birth applies to small domesticated animals (sheep/goats) and whether the seven-month human viability analogy might otherwise apply, which is precisely what the 'Braita Scope' prose describes.",
+      "chosen_heading": "Braita Scope",
+      "current_heading": "Braita Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Simuni Case",
+    "candidates": [
+      "Lilith Fetus",
+      "Simuni Case",
+      "Snake Fetus",
+      "Chanania Initial",
+      "Gamliel Summons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Shmuel's ruling AND the baraita of Rabbi Yosei's case in Simuni as a single continuous unit, and candidate 0 ('Lilith Fetus') is the section whose prose introduces this entire topic including the Shmuel ruling that opens the passage, making it the natural home for the whole unit rather than splitting it across two headings.",
+      "chosen_heading": "Lilith Fetus",
+      "current_heading": "Simuni Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Gamliel Summons",
+    "candidates": [
+      "Snake Fetus",
+      "Chanania Initial",
+      "Gamliel Summons",
+      "Daughter-in-law Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Gamliel Summons' prose discusses: Rabbi Yosef bringing the matter to Rabban Gamliel and Rabban Gamliel sending word to Rabbi Yehoshua to bring his nephew before him.",
+      "chosen_heading": "Gamliel Summons",
+      "current_heading": "Gamliel Summons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Daughter-in-law Exchange",
+    "candidates": [
+      "Daughter-in-law Exchange",
+      "Yehoshua Support",
+      "Abyaye Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the daughter-in-law exchange (the snake ruling question and reversal) and Rabbi Yehoshua's memory/message to Rabban Gamliel, but the current placement under 'Daughter-in-law Exchange' is the best single match since its prose explicitly covers the full sequence including Yehoshua's recollection triggered by the exchange, while candidate 0's prose already describes this entire episode flow.",
+      "chosen_heading": "Daughter-in-law Exchange",
+      "current_heading": "Daughter-in-law Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Abyaye Principle",
+    "candidates": [
+      "Yehoshua Support",
+      "Abyaye Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's principle about Torah scholars stating their reasoning, which matches exactly the prose in 'Abyaye Principle' that explicates this very teaching.",
+      "chosen_heading": "Abyaye Principle",
+      "current_heading": "Abyaye Principle",
+      "moved": false
+    }
+  }
+]

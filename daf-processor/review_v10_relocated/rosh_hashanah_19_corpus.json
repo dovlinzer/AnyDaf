@@ -1,0 +1,452 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "What is Megillat Ta'anit",
+    "candidates": [
+      "Rav vs. Rabbi Yochanan",
+      "What is Megillat Ta'anit",
+      "Five Fast Days Reversed",
+      "Taanit vs. Yom Tov Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav vs. Rabbi Yochanan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the core Amoraic dispute about whether Megillat Ta'anit has been nullified, which matches heading 0's prose describing exactly this 'itmar' dispute between Rav/Rabbi Chanina vs. Rabbi Yochanan/Rabbi Yehoshua ben Levi.",
+      "second_heading": "Five Fast Days Reversed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains Rav and Rabbi Chanina's reasoning by connecting their position to the Zechariah verse about peace/no-peace determining fast vs. feast days, which matches heading 2's prose describing precisely this 'bizman sheyesh shalom' paradigm applied to Megillat Ta'anit.",
+      "current_heading": "What is Megillat Ta'anit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Taanit vs. Yom Tov Status",
+    "candidates": [
+      "Five Fast Days Reversed",
+      "Taanit vs. Yom Tov Status",
+      "Lod Fast Declared",
+      "Public Demonstration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan and Rabbi Yehoshua ben Levi's position that Megillat Ta'anit has not been nullified because the five fast days are tied to the Temple while Megillat Ta'anit days are not \u2014 exactly what the prose of candidate 1 describes.",
+      "chosen_heading": "Taanit vs. Yom Tov Status",
+      "current_heading": "Taanit vs. Yom Tov Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Public Demonstration",
+    "candidates": [
+      "Lod Fast Declared",
+      "Public Demonstration",
+      "Tosafot: Chanukah Holiday",
+      "Status Independence",
+      "Chanukah Has Mitzvah",
+      "Abaye's Challenge",
+      "Pirsumei Nisa Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of the fast declared on Chanukah in Lod, which is precisely what heading 0 'Lod Fast Declared' introduces \u2014 the challenge raised by Rav Kahana about the case where a fast was decreed on Chanukah in Lod; heading 1 'Public Demonstration' covers the response of Rabbi Eliezer and Rabbi Yehoshua, but the quoted passage includes the entire incident from its introduction through the response, making heading 0 the better match as it frames the whole baraita.",
+      "chosen_heading": "Lod Fast Declared",
+      "current_heading": "Public Demonstration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Pirsumei Nisa Argument",
+    "candidates": [
+      "Tosafot: Chanukah Holiday",
+      "Status Independence",
+      "Chanukah Has Mitzvah",
+      "Abaye's Challenge",
+      "Pirsumei Nisa Argument",
+      "Rashi: Social Entrenchm",
+      "God's Name Removed",
+      "Greek Decree & Reversal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains exactly the exchange described in candidate 3's prose: Rav Yosef's initial argument that Chanukah has a mitzvah, and Abaye's challenge asking why that mitzvah shouldn't also be nullified.",
+      "second_heading": "Pirsumei Nisa Argument",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's revised answer based on pirsumei nisa, which is precisely what candidate 4's prose describes as his refined answer about the miracle being well known.",
+      "current_heading": "Pirsumei Nisa Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Greek Decree & Reversal",
+    "candidates": [
+      "Rashi: Social Entrenchm",
+      "God's Name Removed",
+      "Greek Decree & Reversal",
+      "Desecration Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Megillat Ta'anit entry about the third of Tishrei and the removal/reinstatement of God's name in documents, which matches heading 1's prose introducing this exact challenge ('be-telasa be-Tishrei beteilit adkarata min shtaraya'), while heading 2 covers only the explanatory gloss/details that follow.",
+      "chosen_heading": "God's Name Removed",
+      "current_heading": "Greek Decree & Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Desecration Concern",
+    "candidates": [
+      "Greek Decree & Reversal",
+      "Desecration Concern",
+      "Made into Holiday",
+      "Why Another Holiday?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Sages' concern about documents being discarded with God's name on them, their annulment of the practice, and the dialectical question about Megillat Ta'anit \u2014 all of which directly matches the 'Desecration Concern' section's prose about the Sages' reasoning and reversal of the Hasmonean innovation.",
+      "chosen_heading": "Desecration Concern",
+      "current_heading": "Desecration Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Why Another Holiday?",
+    "candidates": [
+      "Made into Holiday",
+      "Why Another Holiday?",
+      "Rabbinic Strengthening",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly answers the question of when the third of Tishrei was added to Megillat Ta'anit by saying it was during Temple times, which is precisely the dialectical moment described in the 'Why Another Holiday?' section's prose.",
+      "chosen_heading": "Why Another Holiday?",
+      "current_heading": "Why Another Holiday?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Rabbinic Strengthening",
+      "Biblical vs. Rabbinic",
+      "Roman Persecutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the distinction between biblical and rabbinic law regarding the 'strengthening' (chizuk) of surrounding days \u2014 the baraita in item 3 explicitly states the divrei Torah vs. divrei sofrim principle, and item 4 introduces divrei kabbalah \u2014 all of which are the precise content described in the 'Biblical vs. Rabbinic' prose.",
+      "chosen_heading": "Biblical vs. Rabbinic",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Roman Persecutions",
+    "candidates": [
+      "Roman Persecutions",
+      "Seeking Influence",
+      "Night Protest & Appeal",
+      "Decree Reversed",
+      "Addition Post-Churban",
+      "Pre-Churban Dating",
+      "Tannaitic Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Roman Persecutions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the decree and the consultation with the matron, which matches heading 0 ('Roman Persecutions') and heading 1 ('Seeking Influence') \u2014 but since the passage opens with the objection and decree (the content of heading 0's prose), and heading 1 covers the matron consultation separately, item 1 spans both; however the current placement under 'Roman Persecutions' covers the decree content which is the primary subject of item 1.",
+      "second_heading": "Night Protest & Appeal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the nighttime protest, the appeal to shared ancestry, the annulment of decrees, and the logical challenge about Megillat Ta'anit being nullified \u2014 matching heading 2 ('Night Protest & Appeal') and heading 3 ('Decree Reversed'), but the nighttime protest and its content is the primary focus, making heading 2 the best single match.",
+      "current_heading": "Roman Persecutions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Tannaitic Dispute",
+    "candidates": [
+      "Seeking Influence",
+      "Night Protest & Appeal",
+      "Decree Reversed",
+      "Addition Post-Churban",
+      "Pre-Churban Dating",
+      "Tannaitic Dispute",
+      "Halacha: Chanukah & Purim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pre-Churban Dating",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the proof from the Mishnah about Yehuda ben Shammua and Rabbi Meir's teacher-student relationship, which candidate 4 ('Pre-Churban Dating') explicitly describes as its content, including the specific glass vessel case and the conclusion that the pre-churban dating collapses.",
+      "second_heading": "Tannaitic Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita presenting the Tannaitic dispute between Rabbi Meir and Rabbi Yose about whether Megillat Ta'anit days remain prohibited after the churban, which is precisely what candidate 5 ('Tannaitic Dispute') describes in its prose.",
+      "current_heading": "Tannaitic Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Halacha: Chanukah & Purim",
+    "candidates": [
+      "Halacha: Chanukah & Purim",
+      "Elul Shlichim",
+      "Tishrei Shlichim",
+      "Always 29 Days?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the halakhic ruling distinguishing Chanukah and Purim from other days in Megillat Ta'anit, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Halacha: Chanukah & Purim",
+      "current_heading": "Halacha: Chanukah & Purim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Always 29 Days?",
+    "candidates": [
+      "Elul Shlichim",
+      "Tishrei Shlichim",
+      "Always 29 Days?",
+      "Theoretical Possibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question about why Tishrei messengers are needed if Elul messengers already went out, and the response citing Rabbi \u1e24innana bar Kahana/Rav that Elul has never been extended \u2014 exactly what candidate 2 ('Always 29 Days?') describes in its prose.",
+      "chosen_heading": "Always 29 Days?",
+      "current_heading": "Always 29 Days?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Theoretical Possibility",
+    "candidates": [
+      "Theoretical Possibility",
+      "Better Wrong RH"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer that Elul was never extended simply because it was not necessary but could be if needed \u2014 this is precisely the 'theoretical possibility' content described in candidate 0's prose.",
+      "chosen_heading": "Theoretical Possibility",
+      "current_heading": "Theoretical Possibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Better Wrong RH",
+    "candidates": [
+      "Better Wrong RH",
+      "Moon Sighting Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expresses the Gemara's answer that it is better for Rosh Hashanah to be ruined than for all the festivals to be compromised, which is precisely what the 'Better Wrong RH' section's prose discusses.",
+      "chosen_heading": "Better Wrong RH",
+      "current_heading": "Better Wrong RH",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Moon Sighting Priority",
+    "candidates": [
+      "Moon Sighting Priority",
+      "Lunar Basis",
+      "Listed in Mishnah",
+      "Adar Sheni Omission",
+      "Majority: Rishon Suffices",
+      "Rabbi: Need Sheni",
+      "Fixed vs. Variable",
+      "Need Depends on Length"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that the Gemara infers from the Mishnah's language (*tikkun hamo'adot*) that the mo'adot are grounded in actual lunar appearance, which is precisely what the 'Lunar Basis' prose describes.",
+      "chosen_heading": "Lunar Basis",
+      "current_heading": "Moon Sighting Priority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Need Depends on Length",
+    "candidates": [
+      "Lunar Basis",
+      "Listed in Mishnah",
+      "Adar Sheni Omission",
+      "Majority: Rishon Suffices",
+      "Rabbi: Need Sheni",
+      "Fixed vs. Variable",
+      "Need Depends on Length",
+      "All Combinations Possible",
+      "Rav: Always 30-29",
+      "29 Day Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Need Depends on Length",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the dispute about whether shlichim are needed for Adar Sheni due to the fixed vs. variable length of Adar Rishon, including Rav Pappa's resolution \u2014 exactly what candidate 6 ('Need Depends on Length') describes.",
+      "second_heading": "All Combinations Possible",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 introduce the testimony of Rabbi Yehoshua ben Levi and Rabbi Simai about the permissible combinations of full and short Adar months, which is precisely what candidate 7 ('All Combinations Possible') discusses.",
+      "current_heading": "Need Depends on Length",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "29 Day Rule",
+    "candidates": [
+      "All Combinations Possible",
+      "Rav: Always 30-29",
+      "29 Day Rule",
+      "Two Months Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling sent to Mar Ukva that Adar immediately preceding Nisan is always short (twenty-nine days), which is precisely what the '29 Day Rule' section's prose describes and analyzes.",
+      "chosen_heading": "29 Day Rule",
+      "current_heading": "29 Day Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Two Months Only",
+    "candidates": [
+      "Two Months Only",
+      "Nachman's Challenge",
+      "Mitzvah of Testimony",
+      "Alternative: Adar Varies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's objection using the Mishnah about two months (Nisan/Tishrei) to challenge the ruling that Adar is always short \u2014 exactly what Candidate 1 ('Nachman's Challenge') describes, not merely an exposition of the Mishnah itself.",
+      "chosen_heading": "Nachman's Challenge",
+      "current_heading": "Two Months Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Alternative: Adar Varies",
+    "candidates": [
+      "Nachman's Challenge",
+      "Mitzvah of Testimony",
+      "Alternative: Adar Varies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mitzvah of Testimony",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the challenge (why desecrate Shabbat if Adar is always short?) and the answer (mitzvah to sanctify on the basis of actual testimony), which matches the 'Mitzvah of Testimony' prose exactly.",
+      "second_heading": "Alternative: Adar Varies",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the alternative scenario where Adar varies (sometimes full, sometimes short) and proposes a different solution, which matches the 'Alternative: Adar Varies' prose exactly.",
+      "current_heading": "Alternative: Adar Varies",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,319 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Swallowed Rings",
+    "candidates": [
+      "Swallowed Rings",
+      "Two Rings Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement is a direct response to Rabba's principle about tumah beluah and whether it was already known from prior mishnayot \u2014 exactly what the prose in 'Swallowed Rings' discusses as the question of Rabba's chiddush.",
+      "chosen_heading": "Swallowed Rings",
+      "current_heading": "Swallowed Rings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Two Rings Case",
+    "candidates": [
+      "Two Rings Case",
+      "Fetus-Midwife Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the source material for the 'Two Rings Case' heading: items 1-2 provide the mishnaic precedents about encapsulated impurity, and item 3 is Rabba's novel ruling about two rings swallowed together, which is exactly what the prose of candidate 0 discusses.",
+      "chosen_heading": "Two Rings Case",
+      "current_heading": "Two Rings Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Fetus-Midwife Problem",
+    "candidates": [
+      "Fetus-Midwife Problem",
+      "Rav Yosef Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the objection from the fetus-midwife case and the initial Rabba/Rava exchange about sofo latzeis \u2014 are explicitly described in candidate 0's prose, which covers exactly this gemara passage before the Rav Yosef resolution that belongs under candidate 1.",
+      "chosen_heading": "Fetus-Midwife Problem",
+      "current_heading": "Fetus-Midwife Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Yosef Resolution",
+    "candidates": [
+      "Rav Yosef Resolution",
+      "Midwife Stricture Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Yosef/Rav Yehuda/Shmuel ruling that the midwife's tumah is rabbinic and explains the formulation distinguishing Rabbi Akiva from Rabbi Yishmael, which is precisely what the 'Rav Yosef Resolution' prose discusses.",
+      "chosen_heading": "Rav Yosef Resolution",
+      "current_heading": "Rav Yosef Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Midwife Stricture Logic",
+    "candidates": [
+      "Midwife Stricture Logic",
+      "Biblical Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Hoshaya's decree about the fetus's head emerging and the mother/midwife dynamic, which is precisely what the 'Midwife Stricture Logic' prose section discusses in detail.",
+      "chosen_heading": "Midwife Stricture Logic",
+      "current_heading": "Midwife Stricture Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Biblical Sources",
+    "candidates": [
+      "Biblical Sources",
+      "Rabbi Akiva Position",
+      "Rabbi Yishmael Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita dispute between Rabbi Yishmael and Rabbi Akiva over the verse 'al p'nei hasadeh,' plus the follow-up questions about golel/dofek and the fetus source \u2014 exactly what the 'Biblical Sources' prose describes step by step, including the concluding question about Rav Oshaya's derivation that the prose says the gemara 'will now develop.'",
+      "chosen_heading": "Biblical Sources",
+      "current_heading": "Biblical Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Rabbi Yishmael Position",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Rabbi Yishmael Position",
+      "Tosafot on Stages",
+      "Debate Summary",
+      "Limb Cut Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the dispute between Rabbi Yishmael and Rabbi Akiva over the derivation of tumah from a revi'it of blood from a corpse \u2014 exactly the content described in the 'Rabbi Yishmael Position' prose, which explicitly covers both Rabbi Yishmael's use of 'benefesh' for the blood ruling and Rabbi Akiva's counter-derivation from 've'al kol nafshos meis' for blood from two corpses.",
+      "chosen_heading": "Rabbi Yishmael Position",
+      "current_heading": "Rabbi Yishmael Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Limb Cut Before",
+    "candidates": [
+      "Tosafot on Stages",
+      "Debate Summary",
+      "Limb Cut Before",
+      "Limb Cut After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text describes exactly the two cases (limb cut before slaughter \u2192 tahor, limb cut after slaughter \u2192 contact with carcass) that the 'Limb Cut Before' prose introduces as the starting point of the gemara's discussion, and the current placement is correct.",
+      "chosen_heading": "Limb Cut Before",
+      "current_heading": "Limb Cut Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Limb Cut After",
+    "candidates": [
+      "Limb Cut After",
+      "Rabbi Meir Debate",
+      "Meir's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Rabbis' ruling (maga tereifa shechuta) and their analogical reasoning (ma matzinu betereifa sheshechitatah metaheratah), which is precisely what candidate 1 ('Rabbi Meir Debate') describes in its prose, making it the clearly correct home for this passage.",
+      "chosen_heading": "Rabbi Meir Debate",
+      "current_heading": "Limb Cut After",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Meir's Argument",
+    "candidates": [
+      "Rabbi Meir Debate",
+      "Meir's Argument",
+      "Mishnah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's direct rebuttal explaining that the tereifa's shechita purifies because it is performed on the animal's own body (davar she'be'gufah), while the limb is not part of the mother's body \u2014 exactly the content described in the 'Meir's Argument' prose.",
+      "chosen_heading": "Meir's Argument",
+      "current_heading": "Meir's Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Mishnah Logic",
+    "candidates": [
+      "Mishnah Logic",
+      "Non-Kosher vs. Tereifa",
+      "Born Tereifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the logical challenge described in heading 0's prose \u2014 comparing tereifa to non-kosher animal to question whether shechita renders it tahor \u2014 which is the opening question before the mishnah's response discussed in headings 1 and 2.",
+      "chosen_heading": "Mishnah Logic",
+      "current_heading": "Mishnah Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Born Tereifa",
+    "candidates": [
+      "Non-Kosher vs. Tereifa",
+      "Born Tereifa",
+      "Eighth-Month Animal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Kosher vs. Tereifa",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the sha'at ha-kosher distinction that Candidate 0's prose explicitly describes as the mishnah's initial response.",
+      "second_heading": "Born Tereifa",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the born-tereifa challenge and the reformulated 'ein be-minah shechita' distinction that Candidate 1's prose centers on.",
+      "current_heading": "Born Tereifa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Eighth-Month Animal",
+    "candidates": [
+      "Eighth-Month Animal",
+      "Hidden Contact Problem",
+      "Self-Touching Theory",
+      "Splitting Seat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the eighth-month animal (ben shmonah chai) and why slaughter does not render it ritually pure, which is exactly what the 'Eighth-Month Animal' section's prose describes.",
+      "chosen_heading": "Eighth-Month Animal",
+      "current_heading": "Eighth-Month Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Splitting Seat Case",
+    "candidates": [
+      "Hidden Contact Problem",
+      "Self-Touching Theory",
+      "Splitting Seat Case",
+      "Ulla's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's initial question about beit hastarim (item 1) and the cited proof that Rabbi Meir holds impurity can be imparted in a concealed area (items 2-3 from Kelim), which is precisely the content described under heading 0 ('Hidden Contact Problem') \u2014 the sharp difficulty about where the limb and fetus are touching and whether hidden contact transfers tumah.",
+      "chosen_heading": "Hidden Contact Problem",
+      "current_heading": "Splitting Seat Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Ulla's Distinction",
+    "candidates": [
+      "Splitting Seat Case",
+      "Ulla's Distinction",
+      "Ravina's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form Ulla's distinction \u2014 item 1 presents Rabbi Yosei's challenge, item 2 introduces Ulla's qualification ('only when the three-by-three cloth was split'), and item 3 completes Ulla's resolution by applying the 'at the moment of separation' principle to the fetus case, exactly as described in the 'Ulla's Distinction' prose.",
+      "chosen_heading": "Ulla's Distinction",
+      "current_heading": "Ulla's Distinction",
+      "moved": false
+    }
+  }
+]

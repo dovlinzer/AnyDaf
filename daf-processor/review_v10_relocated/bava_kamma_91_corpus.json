@@ -1,0 +1,433 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Owner Absence",
+    "candidates": [
+      "Stone or Fist Dispute",
+      "Direct Inspection View",
+      "Witnesses Suffice",
+      "Shor Tam & Mu'ad",
+      "Reversed Order Problem",
+      "Rava's Explanation",
+      "Immediate Execution",
+      "Plowing First",
+      "Postponement Affliction",
+      "Owner Absence",
+      "Payment from Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's alternative explanation involving the owner fleeing after witnesses were accepted, which is precisely what the 'Owner Absence' section's prose describes.",
+      "chosen_heading": "Owner Absence",
+      "current_heading": "Owner Absence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Payment from Ox",
+    "candidates": [
+      "Payment from Ox",
+      "Plowing Not Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why the plowing-payment solution doesn't apply to a shor tam, which is exactly the objection described at the end of the 'Payment from Ox' prose section.",
+      "chosen_heading": "Payment from Ox",
+      "current_heading": "Payment from Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Plowing Not Body",
+    "candidates": [
+      "Plowing Not Body",
+      "Shor Tam Exemption",
+      "Shor Mu'ad Solution",
+      "Question Formulation",
+      "Murder Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Mari bar Rav Kahana's statement that plowing benefit is considered the owner's superior-quality property (not the ox's body), which is precisely what the 'Plowing Not Body' section's prose describes.",
+      "chosen_heading": "Plowing Not Body",
+      "current_heading": "Plowing Not Body",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Murder Standard",
+    "candidates": [
+      "Shor Tam Exemption",
+      "Shor Mu'ad Solution",
+      "Question Formulation",
+      "Murder Standard",
+      "Well Depth Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the question itself \u2014 'is there an evaluation with regard to damage?' \u2014 which is precisely what the 'Question Formulation' prose describes as 'yesh omed l'nezikin o ein omed l'nezikin,' making that section the clear best match.",
+      "chosen_heading": "Question Formulation",
+      "current_heading": "Murder Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Well Depth Example",
+    "candidates": [
+      "Murder Standard",
+      "Well Depth Example",
+      "Eye Ear Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the continuous gemara discussion about the bor proof \u2014 the initial question about whether assessment applies to damages, the mishna about pit depth, the initial reading (bottom-up), and the rejection (top-down) \u2014 which exactly matches the 'Well Depth Example' prose describing this very sequence.",
+      "chosen_heading": "Well Depth Example",
+      "current_heading": "Well Depth Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Eye Ear Distinction",
+    "candidates": [
+      "Eye Ear Distinction",
+      "Direct vs Indirect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about striking near the eye/ear and the suggestion that the slave's non-emancipation is due to umdena, which is precisely what the 'Eye Ear Distinction' prose describes as the gemara's attempted proof that yesh umdena l'nezikin.",
+      "chosen_heading": "Eye Ear Distinction",
+      "current_heading": "Eye Ear Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Direct vs Indirect",
+    "candidates": [
+      "Direct vs Indirect",
+      "Medical Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita about frightening another person and the distinction between shouting into someone's ear with and without physical contact \u2014 precisely the content discussed in the 'Direct vs Indirect' prose section.",
+      "chosen_heading": "Direct vs Indirect",
+      "current_heading": "Direct vs Indirect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Medical Assessment",
+    "candidates": [
+      "Medical Assessment",
+      "Object Inspection Rule",
+      "Spit Contact Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the baraita about medical/livelihood assessment (ripui and sheves), the question of whether this proves yesh omed l'nezikin, the clarification that the unresolved question is about evaluating the object's capacity (le-omed \u1e25eftza), and Rava's supporting ruling about full-day assessment \u2014 all of which are explicitly described in the 'Medical Assessment' prose.",
+      "chosen_heading": "Medical Assessment",
+      "current_heading": "Medical Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Spit Contact Rule",
+    "candidates": [
+      "Object Inspection Rule",
+      "Spit Contact Rule",
+      "Verbal vs Physical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's spitting rule and Rav Pappa's refinement distinguishing contact with the person versus clothing, which is precisely what the 'Spit Contact Rule' prose describes.",
+      "chosen_heading": "Spit Contact Rule",
+      "current_heading": "Spit Contact Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Verbal vs Physical",
+    "candidates": [
+      "Verbal vs Physical",
+      "Words No Payment",
+      "Amounts Min or Max"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that verbal shaming carries no legal liability, which is precisely what the 'Verbal vs Physical' section's prose discusses \u2014 quoting this exact Talmudic statement about Rabbi Yossi bar Avin and biyush bidvarim.",
+      "chosen_heading": "Verbal vs Physical",
+      "current_heading": "Verbal vs Physical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Amounts Min or Max",
+    "candidates": [
+      "Words No Payment",
+      "Amounts Min or Max",
+      "Akiva Full Amount",
+      "Hair Covering Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact gemara discussion described in candidate 1's prose: the dilemma of whether the tanna kamma's listed amounts are maximums or minimums, resolved by Rabbi Akiva's ruling about the poor, with the shema mina conclusion \u2014 matching the 'Amounts Min or Max' section perfectly.",
+      "chosen_heading": "Amounts Min or Max",
+      "current_heading": "Amounts Min or Max",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Hair Covering Story",
+    "candidates": [
+      "Akiva Full Amount",
+      "Hair Covering Story",
+      "No Time Injury",
+      "Financial Loss Logic",
+      "Time to Pay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's specific content \u2014 the Gemara's question about whether time is granted for injuries, citing Rabbi \u1e24anina's ruling that one does not give time for chavalot \u2014 directly matches the 'No Time Injury' section's prose, which introduces exactly this procedural question about Rabbi Chanina's rule.",
+      "chosen_heading": "No Time Injury",
+      "current_heading": "Hair Covering Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Time to Pay",
+    "candidates": [
+      "No Time Injury",
+      "Financial Loss Logic",
+      "Time to Pay",
+      "Embarrass Not Wound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains that no time is given for physical injury because it causes a monetary loss, but time is given for humiliation because it does not cause a monetary loss \u2014 this is precisely the 'nature of the loss' logic described in candidate 1's prose.",
+      "chosen_heading": "Financial Loss Logic",
+      "current_heading": "Time to Pay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Embarrass Not Wound",
+    "candidates": [
+      "Time to Pay",
+      "Embarrass Not Wound",
+      "Oath to Injure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the exact chain of question-objection-answer about whether self-injury is permitted or prohibited, and how Rabbi Akiva's mishna and baraita statements are reconciled \u2014 precisely what candidate 1 ('Embarrass Not Wound') describes in its prose.",
+      "chosen_heading": "Embarrass Not Wound",
+      "current_heading": "Embarrass Not Wound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Oath to Injure",
+    "candidates": [
+      "Oath to Injure",
+      "Fasting Interpretation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oath to Injure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita challenge about oaths to harm oneself, which is precisely what heading 0 ('Oath to Injure') discusses.",
+      "second_heading": "Fasting Interpretation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's resolution reinterpreting the baraita as referring to fasting, which is precisely what heading 1 ('Fasting Interpretation') discusses.",
+      "current_heading": "Oath to Injure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Fasting Interpretation",
+    "candidates": [
+      "Fasting Interpretation",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the gemara's challenge to Shmuel's fasting interpretation \u2014 questioning whether the parallel case of harming others can mean forced fasting, and then the baraita clarifying that harming others means physical assault \u2014 exactly what the 'Fasting Interpretation' prose describes.",
+      "chosen_heading": "Fasting Interpretation",
+      "current_heading": "Fasting Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Tannaim Debate",
+      "Suicide Verse",
+      "Bal Tashchit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tannaim Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the conclusion that this is a tannaic dispute, matching the 'Tannaim Debate' prose exactly.",
+      "second_heading": "Suicide Verse",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce the specific tanna identified via the suicide verse and then the challenge 'but perhaps killing is different,' matching the 'Suicide Verse' prose which discusses Rabbi Elazar's derivation and the ketala shani objection.",
+      "current_heading": "Tannaim Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Bal Tashchit",
+    "candidates": [
+      "Suicide Verse",
+      "Bal Tashchit",
+      "Non-Permanent Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Elazar's ruling that excessive garment-rending in mourning violates bal tashchit, and the kal va-chomer extension to the body \u2014 exactly what the 'Bal Tashchit' section's prose describes.",
+      "chosen_heading": "Bal Tashchit",
+      "current_heading": "Bal Tashchit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Non-Permanent Examples",
+    "candidates": [
+      "Non-Permanent Examples",
+      "Affliction Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the garment/body distinction via Rabbi Yochanan and Rav Chisda examples, which is precisely what candidate 0's prose describes under 'Non-Permanent Examples.'",
+      "chosen_heading": "Non-Permanent Examples",
+      "current_heading": "Non-Permanent Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Affliction Sin",
+    "candidates": [
+      "Affliction Sin",
+      "Rambam Wounding",
+      "Basis Unclear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Elazar HaKappar about the nazirite sinning against his soul by abstaining from wine, which is precisely what the prose under 'Affliction Sin' describes and analyzes.",
+      "chosen_heading": "Affliction Sin",
+      "current_heading": "Affliction Sin",
+      "moved": false
+    }
+  }
+]

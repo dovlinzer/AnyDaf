@@ -58,8 +58,8 @@
           "timestamp": "10:13"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Order of Oath and Testimony: Hearing the Oath as a Witness",
@@ -72,8 +72,8 @@
           "timestamp": "11:14"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Specification of Witnesses in Public Oath: General vs. Specific Address",
@@ -96,8 +96,8 @@
           "timestamp": "14:03"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Disqualified Witnesses and the Requirement for Valid Testimony",
@@ -115,8 +115,8 @@
           "timestamp": "17:04"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Unauthorized Messenger and the Requirement of Direct Speech to Proper Party",
@@ -139,7 +139,7 @@
           "timestamp": "19:44"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -364,7 +364,7 @@
           "timestamp": "52:16"
         }
       ],
-      "sefaria_index": 41,
+      "sefaria_index": 43,
       "matched": true
     },
     {
@@ -588,5 +588,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 29
+  "amud_b_sefaria_index": 29,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "31:01",
+  "amud_b_micro_title": "Erasable List",
+  "shiur_start_daf": 35,
+  "shiur_start_amud": "a"
 }

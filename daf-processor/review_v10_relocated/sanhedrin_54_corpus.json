@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Contradiction in Verses",
+    "candidates": [
+      "Opening: Dual Identity",
+      "Reb Yehuda's View",
+      "Contradiction in Verses",
+      "Ervata Reading Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's challenge to Abaye's reading \u2014 deriving from the competing 'hi' in Leviticus 18:8 that the two verses cancel each other out, leaving the woman who is both mother and father's wife liable for neither \u2014 which is precisely what the 'Contradiction in Verses' prose describes.",
+      "chosen_heading": "Contradiction in Verses",
+      "current_heading": "Contradiction in Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Ervata Reading Rejected",
+    "candidates": [
+      "Ervata Reading Rejected",
+      "Rava's Interpretation",
+      "How Verses Align",
+      "Tannaitic Source",
+      "Braita Sources"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Ervata Reading Rejected",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 complete the rejection of the ervata reading (and the hi reading), exactly matching the prose of 'Ervata Reading Rejected' which describes the daughter-in-law objection, its resolution, and how that resolution defeats the ervata argument.",
+      "second_heading": "Rava's Interpretation",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 introduce Rava's entirely new proposal that ervat avicha means eshet avicha via gezeirah shavah, with the imcha hi restriction, which is precisely what 'Rava's Interpretation' describes.",
+      "current_heading": "Ervata Reading Rejected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Braita Sources",
+    "candidates": [
+      "Rava's Interpretation",
+      "How Verses Align",
+      "Tannaitic Source",
+      "Braita Sources",
+      "Ervat Avicha Derivation",
+      "Ervat Aviv Gila Link",
+      "Prohibition Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita that confirms Rava's interpretation (tanya kavatei d'Rava), which is precisely what the 'Tannaitic Source' prose describes \u2014 a braita taught in accordance with Rava, identified with the stam Sifra/Reb Yehuda position.",
+      "chosen_heading": "Tannaitic Source",
+      "current_heading": "Braita Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Prohibition Sources",
+    "candidates": [
+      "Ervat Avicha Derivation",
+      "Ervat Aviv Gila Link",
+      "Prohibition Sources",
+      "Gezeirah Shavah Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ervat Aviv Gila Link",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 derive the punishment by stoning and establish the scope of the punishment verse including the *mufneh* phrase *ervat aviv gillah*, matching heading 1's discussion of that phrase as free for a *gezeirah shavah*.",
+      "second_heading": "Prohibition Sources",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 open a new inquiry (*onesh shamanu, azharah minayin*) and derive the prohibition from *ervat avicha lo tegaleh*, exactly matching heading 2's prose about the *azharah* derivation and the inclusion of both types of mother/father's wife.",
+      "current_heading": "Prohibition Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Gezeirah Shavah Method",
+    "candidates": [
+      "Gezeirah Shavah Method",
+      "Literal Father Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita's question and answer about extending punishment via gezeirah shavah using the verbal analogy between 'ervat avicha lo tegaleh' and 'ervat aviv gillah,' which is precisely what the 'Gezeirah Shavah Method' prose describes.",
+      "chosen_heading": "Gezeirah Shavah Method",
+      "current_heading": "Gezeirah Shavah Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Literal Father Reading",
+    "candidates": [
+      "Literal Father Reading",
+      "Double Liability: Father",
+      "Rav Yehuda's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita's phrase 'she is your mother' limiting liability to one category and the Rabbis' counter-reading of 'ervat avicha' as literal, which is precisely what the 'Literal Father Reading' prose section discusses.",
+      "chosen_heading": "Literal Father Reading",
+      "current_heading": "Literal Father Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Rav Yehuda's Rule",
+    "candidates": [
+      "Double Liability: Father",
+      "Rav Yehuda's Rule",
+      "Rava's Clarification",
+      "Tannaitic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Yehuda's double-liability ruling and Rava's clarification about it being a euphemism for a Jew acting unwittingly \u2014 the prose under 'Rav Yehuda's Rule' explicitly describes both the ruling and the lishna ma'alya/shogeg/korban explanation, making it the single best home for all three items.",
+      "chosen_heading": "Rav Yehuda's Rule",
+      "current_heading": "Rav Yehuda's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Tannaitic Debate",
+    "candidates": [
+      "Rava's Clarification",
+      "Tannaitic Debate",
+      "Eshet Av After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit about the baraita corroborating double liability for intercourse with one's father and father's brother, the dispute about whether this fits Rabbi Yehuda's view, the kal vachomer argument, and the Abaye-Rava dispute about onshin min hadin \u2014 exactly what candidate 1 ('Tannaitic Debate') describes in its prose.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Tannaitic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Eshet Av After Death",
+    "candidates": [
+      "Eshet Av After Death",
+      "Mother's Punishment",
+      "Actor and Passive",
+      "Why Stone Animal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Eshet Av After Death",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 all deal with deriving prohibitions and punishments for eshet av (after death), the dispute between Rabbi Yehuda and the Rabbanan, and the punishment for a mother who is not the father's wife \u2014 precisely the content described in headings 0 and 1.",
+      "second_heading": "Actor and Passive",
+      "second_confidence": "high",
+      "second_reason": "Item 10 opens a new Mishnah case about one who engages in intercourse with his daughter-in-law (kallah), which is an entirely new self-contained unit unrelated to eshet av, and does not fit under headings 0, 1, or 2 \u2014 but given the candidates available, it marks a structural seam toward the next topic.",
+      "current_heading": "Eshet Av After Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Why Stone Animal",
+    "candidates": [
+      "Mother's Punishment",
+      "Actor and Passive",
+      "Why Stone Animal",
+      "Age Requirements",
+      "Types of Intercourse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna passage directly addresses the stoning of the animal in bestiality cases and the two rationales for why the animal is stoned, which is exactly what the 'Why Stone Animal' section's prose discusses.",
+      "chosen_heading": "Why Stone Animal",
+      "current_heading": "Why Stone Animal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Types of Intercourse",
+    "candidates": [
+      "Age Requirements",
+      "Types of Intercourse",
+      "Punishment Derivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Age Requirements",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita that derives the age exclusion ('ish \u2014 prat le'katan') and the two modes of intercourse ('mishkevei ishah'), with the age-of-the-actor/victim distinction matching the 'Age Requirements' prose precisely.",
+      "second_heading": "Types of Intercourse",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Yishmael's comment that the phrase 'comes to teach' the punishment rule and is 'found to be derived') is about deriving the punishment, matching the 'Punishment Derivation' prose.",
+      "current_heading": "Types of Intercourse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Punishment Derivation",
+    "candidates": [
+      "Punishment Derivation",
+      "Actor's Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gezeirah shavah derivation using 'dmeihem bam' to establish stoning as the punishment, which is precisely what the 'Punishment Derivation' section's prose describes.",
+      "chosen_heading": "Punishment Derivation",
+      "current_heading": "Punishment Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Actor's Prohibition",
+    "candidates": [
+      "Actor's Prohibition",
+      "Passive's Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the prohibition (azharah) for the active partner from Leviticus 18:22, which is precisely what the 'Actor's Prohibition' section discusses \u2014 establishing the prohibition for the one who lies with (the actor/shochev).",
+      "chosen_heading": "Actor's Prohibition",
+      "current_heading": "Actor's Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Passive's Prohibition",
+    "candidates": [
+      "Passive's Prohibition",
+      "Bestiality Age Rules",
+      "Punishment Source",
+      "Actor's Prohibition (II)",
+      "Passive's Prohibition",
+      "Male-Male Both Sides",
+      "Bestiality Both Sides",
+      "Abaye's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the derivation of the prohibition for the passive participant in male-male intercourse \u2014 exactly what candidate 0 ('Passive's Prohibition') discusses, including the Reb Yishmael/Reb Akiva dispute about whether a separate verse is needed.",
+      "chosen_heading": "Passive's Prohibition",
+      "current_heading": "Passive's Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Abaye's View",
+    "candidates": [
+      "Bestiality Age Rules",
+      "Punishment Source",
+      "Actor's Prohibition (II)",
+      "Passive's Prohibition",
+      "Male-Male Both Sides",
+      "Bestiality Both Sides",
+      "Abaye's View",
+      "Mixed Partners",
+      "All Four Acts Summary",
+      "Abaye's Correction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 12,
+      "first_heading": "Abaye's View",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-12 cover the derivation of punishments and prohibitions for bestiality through Abaye's correction, which heading 6 'Abaye's View' summarizes in its prose as the full arc from derivation through Abaye's intervention.",
+      "second_heading": "Mixed Partners",
+      "second_confidence": "medium",
+      "second_reason": "Items 13-15 address the mixed partners case and all-four-acts summary, which correspond to the 'Mixed Partners' heading's prose discussion of nirba la'zachar v'la'behemah.",
+      "current_heading": "Abaye's View",
+      "moved": true
+    }
+  }
+]

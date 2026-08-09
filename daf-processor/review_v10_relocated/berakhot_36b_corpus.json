@@ -1,0 +1,331 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Orlah & Rabbi Akiva",
+    "candidates": [
+      "Tzlaf Overview",
+      "Orlah & Rabbi Akiva",
+      "Ma'aser Comparison",
+      "Orlah Leniencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda's ruling on orlah of the caper-bush and the resolution via Rabbi Akiva's position \u2014 are precisely the content described in the 'Orlah & Rabbi Akiva' prose, which walks through the same ruling, the same contradiction with brachos, and the same resolution through Rabbi Akiva's mishna in ma'asros.",
+      "chosen_heading": "Orlah & Rabbi Akiva",
+      "current_heading": "Orlah & Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Orlah Leniencies",
+    "candidates": [
+      "Ma'aser Comparison",
+      "Orlah Leniencies",
+      "Kilayim Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ma'aser Comparison",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are a continuous chain of question-and-answer about why Rav stated the orla ruling as he did rather than simply citing Rabbi Akiva, establishing the principle of kol ha-meikel b'aretz and its application to ma'aser vs. orla \u2014 exactly what candidate 0 ('Ma'aser Comparison') discusses.",
+      "second_heading": "Orlah Leniencies",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces an entirely new scenario (Ravina finding Mar bar Rav Ashi eating caper buds) and raises the Beit Shammai/Beit Hillel kilayim dispute regarding the caper bush, which is the specific illustrative story and dispute discussed at length in candidate 1 ('Orlah Leniencies') prose.",
+      "current_heading": "Orlah Leniencies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Kilayim Dispute",
+    "candidates": [
+      "Kilayim Dispute",
+      "Beit Shammai Logic",
+      "Safek Orlah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the internal contradiction in the mishna (caper-bush called kilayim implying vegetable, yet obligated in orlah implying tree), which is precisely the contradiction that the 'Beit Shammai Logic' section's prose addresses and resolves with the 'sepuki mesapka lehu' answer.",
+      "chosen_heading": "Beit Shammai Logic",
+      "current_heading": "Kilayim Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Safek Orlah Rules",
+    "candidates": [
+      "Beit Shammai Logic",
+      "Safek Orlah Rules",
+      "Shomer Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the safek orlah rules across territories and the principle that Beit Shammai's opinion cannot serve as a halakhic anchor even in chutz la'aretz, which is precisely what the 'Safek Orlah Rules' prose describes.",
+      "chosen_heading": "Safek Orlah Rules",
+      "current_heading": "Safek Orlah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Shomer Concept",
+    "candidates": [
+      "Shomer Concept",
+      "Shomer Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the initial derivation that buds qualify as shomer and Rava's criterion for what counts as a shomer, which is precisely what the 'Shomer Concept' prose describes \u2014 the et piryo extension and Rava's heicha d'ita formulation \u2014 before Abaye's challenge which belongs under 'Shomer Definition'.",
+      "chosen_heading": "Shomer Concept",
+      "current_heading": "Shomer Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Shomer Definition",
+    "candidates": [
+      "Shomer Definition",
+      "Pomegranate & Dates",
+      "Rabbi Yosi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge about the pomegranate's netz not joining for tumah yet being obligated in orlah, which is precisely what the 'Shomer Definition' prose describes as Abaye's challenge to Rava's formulation.",
+      "chosen_heading": "Shomer Definition",
+      "current_heading": "Shomer Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rabbi Yosi Position",
+    "candidates": [
+      "Pomegranate & Dates",
+      "Rabbi Yosi Position",
+      "Shemita Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rava's revised rule (item 1), the challenge from Rav Nachman/Rabbah bar Avuha about date coverings (item 2), and the resolution via Rabbi Yosi's opinion (item 3) \u2014 and candidate 0's prose explicitly covers all three of these moves (Rava's revision, the mitchali/kuphra challenge, and the unresolved tension), making it the correct home for this passage rather than candidate 1, which discusses the Rabbi Yosi/Rabbanan dispute in isolation.",
+      "chosen_heading": "Pomegranate & Dates",
+      "current_heading": "Rabbi Yosi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Shemita Categories",
+    "candidates": [
+      "Rabbi Yosi Position",
+      "Shemita Categories",
+      "Kafrisin Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the Shemita mishna about when trees may not be cut and Rav Asi's clarification of 'misheyegaru' as the size of a white bean, which is precisely the content described in the 'Shemita Categories' prose section.",
+      "chosen_heading": "Shemita Categories",
+      "current_heading": "Shemita Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Kafrisin Test",
+    "candidates": [
+      "Kafrisin Test",
+      "Kafrisin Conclusion",
+      "Pilpeli Debate",
+      "Rav Sheshet/Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Kafrisin Test' prose, which explicitly discusses Rava's reformulation of the shomer criterion and the empirical incident with the pomegranate and caper-bush \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Kafrisin Test",
+      "current_heading": "Kafrisin Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Rav Sheshet/Rava",
+    "candidates": [
+      "Kafrisin Conclusion",
+      "Pilpeli Debate",
+      "Rav Sheshet/Rava",
+      "Yom Kippur Test",
+      "Orlah & Peppers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kafrisin Conclusion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the halakhic conclusion (vehilchasa) about kafrisin, directly matching the 'Kafrisin Conclusion' prose which discusses exactly this ruling and its Gaonic attribution.",
+      "second_heading": "Pilpeli Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens an entirely new case about peppers with Rav Sheshet and Rava's dispute, matching the 'Pilpeli Debate' prose which introduces the peppercorn blessing question.",
+      "current_heading": "Rav Sheshet/Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Orlah & Peppers",
+    "candidates": [
+      "Yom Kippur Test",
+      "Orlah & Peppers",
+      "Moist/Dried States"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly the baraita about Rabbi Meir deriving from 'etz ma'achal' that peppers are obligated in orlah and that Eretz Yisrael lacks nothing, which is precisely what the 'Orlah & Peppers' section prose describes.",
+      "chosen_heading": "Orlah & Peppers",
+      "current_heading": "Orlah & Peppers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Moist/Dried States",
+    "candidates": [
+      "Moist/Dried States",
+      "Tosafot Spices",
+      "Ginger Modern Use",
+      "Chavitz/Daysa",
+      "Ikar vs. Tafel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the moist/dry distinction for pepper and ginger that the 'Moist/Dried States' prose explicitly describes, including the ginger-from-India ruling and the lo kashya resolution \u2014 the current placement is correct.",
+      "chosen_heading": "Moist/Dried States",
+      "current_heading": "Moist/Dried States",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Ikar vs. Tafel",
+    "candidates": [
+      "Tosafot Spices",
+      "Ginger Modern Use",
+      "Chavitz/Daysa",
+      "Ikar vs. Tafel",
+      "Five Grains Rule",
+      "Five Grains Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the dispute between Rav Yehuda and Rav Kahana over the bracha on chavitz/daysa and the resolution by Rav Yosef, which is precisely what the 'Chavitz/Daysa' section's prose describes as its topic.",
+      "chosen_heading": "Chavitz/Daysa",
+      "current_heading": "Ikar vs. Tafel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Five Grains Status",
+    "candidates": [
+      "Five Grains Rule",
+      "Five Grains Status",
+      "Rice Bread Baraisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both parallel statements of Rav and Shmuel and explains why both are necessary \u2014 covering mixtures vs. pure grain and excluding rice/millet \u2014 which matches exactly the prose of candidate 1 ('Five Grains Status'), where the current placement already sits.",
+      "chosen_heading": "Five Grains Status",
+      "current_heading": "Five Grains Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rice Bread Baraisa",
+    "candidates": [
+      "Rice Bread Baraisa",
+      "Rice Bracha",
+      "Borei Nefashos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact question-and-answer sequence about rice/millet bread being 'like a cooked dish and not like a cooked dish,' which is precisely what the 'Rice Bread Baraisa' prose describes in detail.",
+      "chosen_heading": "Rice Bread Baraisa",
+      "current_heading": "Rice Bread Baraisa",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Intro: Chuppah Status",
+    "candidates": [
+      "Intro: Chuppah Status",
+      "Rashi: Chuppah Alone",
+      "Tosafot: Chuppah Act",
+      "Baraita: No Sex Yet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Intro: Chuppah Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the continuous Rami bar Chama argument and the Gemara's pushback \u2014 precisely the material described in the 'Intro: Chuppah Status' prose, which explicitly summarizes these moves.",
+      "second_heading": "Baraita: No Sex Yet",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces the baraita about women who entered chuppah without intercourse eating teruma, which is exactly the content described in the 'Baraita: No Sex Yet' prose section.",
+      "current_heading": "Intro: Chuppah Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Baraita: No Sex Yet",
+    "candidates": [
+      "Rashi: Chuppah Alone",
+      "Tosafot: Chuppah Act",
+      "Baraita: No Sex Yet",
+      "R. Yishmael: Chuppah Efct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly examines the baraita's wording ('nisu' vs 'nichnesu'), questioning whether 'nisu' implies actual consummated marriage, which is precisely the content described in the 'Baraita: No Sex Yet' section prose.",
+      "chosen_heading": "Baraita: No Sex Yet",
+      "current_heading": "Baraita: No Sex Yet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "R. Yishmael: Chuppah Efct",
+    "candidates": [
+      "R. Yishmael: Chuppah Efct",
+      "Sotah Prerequisites"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items continue the Gemara's analysis of Rabbi Yishmael's position on chuppah for psulot \u2014 items 1-2 present the baraita, and items 3-4 refute the claim that Rabbi Yishmael's view simply maps onto Rabbi Meir's position, exactly as described in the prose of heading 0.",
+      "chosen_heading": "R. Yishmael: Chuppah Efct",
+      "current_heading": "R. Yishmael: Chuppah Efct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Sotah Prerequisites",
+    "candidates": [
+      "Sotah Prerequisites",
+      "Chuppah No Consummation",
+      "Sex Requirement Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in 'Sotah Prerequisites': item 1 is Rav Amram citing Rav Sheshet's proof from the sotah mishna's double amen (arusa/nesuah/shomeret yavam/knusah), and item 2 is the immediate Gemara question about what case of arusah is meant, followed by the objection from the mishna that an arusa does not drink \u2014 exactly what the 'Sotah Prerequisites' prose describes.",
+      "chosen_heading": "Sotah Prerequisites",
+      "current_heading": "Sotah Prerequisites",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Sex Requirement Issue",
+    "candidates": [
+      "Chuppah No Consummation",
+      "Sex Requirement Issue",
+      "Rav: Intent Irrelevant"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chuppah No Consummation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 resolve the problem of how the sotah water can examine a woman who was forbidden during erusin by landing on the solution of chuppah without biah, which is precisely the 'Chuppah No Consummation' section's topic of yesh chuppah li-psulot.",
+      "second_heading": "Sex Requirement Issue",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 deal with Rava's challenge from the baraita of mibal'adei ishech (shechivat ba'al must precede bo'el), Rami bar Chama's solution via intercourse during erusin, and the shomeret yavam difficulty \u2014 exactly what the 'Sex Requirement Issue' prose describes.",
+      "current_heading": "Sex Requirement Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rav: Intent Irrelevant",
+    "candidates": [
+      "Rav: Intent Irrelevant",
+      "Maamar Changes Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's specific content \u2014 that the case involves maamar performed before the intercourse, and that Beit Shammai holds maamar acquires a full kinyan, explaining how she remains shomeret yavam after biah \u2014 is precisely what the 'Maamar Changes Status' prose section discusses, not the 'Rav: Intent Irrelevant' section.",
+      "chosen_heading": "Maamar Changes Status",
+      "current_heading": "Rav: Intent Irrelevant",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Maamar Changes Status",
+    "candidates": [
+      "Rav: Intent Irrelevant",
+      "Maamar Changes Status",
+      "Status Parallels",
+      "Two Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the mishnah lists shomeret yavam and arusah as separate categories when they appear identical, resolving this by explaining that nesuah/knusah and arusah/shomeret yavam are parallel relational constructs \u2014 exactly what the 'Status Parallels' prose describes.",
+      "chosen_heading": "Status Parallels",
+      "current_heading": "Maamar Changes Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Two Solutions",
+    "candidates": [
+      "Status Parallels",
+      "Two Solutions",
+      "Maamar Scenario",
+      "Zikat Yibum Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Pappa's baraita about kinui during erusin for drinking as nesuah, and Rav Na\u1e25man bar Yitz\u1e25ak's gilgul solution \u2014 are precisely the two resolutions described in the 'Two Solutions' prose, which explicitly discusses both of them in detail.",
+      "chosen_heading": "Two Solutions",
+      "current_heading": "Two Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Zikat Yibum Problem",
+    "candidates": [
+      "Maamar Scenario",
+      "Zikat Yibum Problem",
+      "Chalal Brother Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic text of Rav \u1e24anina's ruling about maamar disqualifying teruma even when both parties are priests, which is precisely what the 'Maamar Scenario' heading introduces and describes, not the subsequent analysis of the zikat yibum mechanism under heading 1.",
+      "chosen_heading": "Maamar Scenario",
+      "current_heading": "Zikat Yibum Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Chalal Brother Case",
+    "candidates": [
+      "Zikat Yibum Problem",
+      "Chalal Brother Case",
+      "Post-Get Status",
+      "Yochanan v. Lakish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zikat Yibum Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge asking 'according to whom' Rabbi Yochanan's statement was made, analyzing whether it fits Rabbi Meir or Rabbi Elazar/Shimon \u2014 this directly matches the 'Zikat Yibum Problem' prose which discusses Rabbi Meir's principle of shomeret l'viah psulah and the question of whether it applies to biblical vs. rabbinic prohibitions.",
+      "second_heading": "Chalal Brother Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravin's clarification establishing the three-way split (maamar alone = all agree she eats; chalal brother = all agree she doesn't; get = disputed by Yochanan and Lakish), which matches the 'Chalal Brother Case' prose that introduces Ravin's transmission and discusses the chalal brother scenario, with the get dispute flowing into 'Post-Get Status' and 'Yochanan v. Lakish' \u2014 but the Ravin statement itself is the opening of the chalal case section.",
+      "current_heading": "Chalal Brother Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Yochanan v. Lakish",
+    "candidates": [
+      "Post-Get Status",
+      "Yochanan v. Lakish",
+      "Ketanah-Bogeret Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the Rabbi Yochanan vs. Resh Lakish dispute and its subsequent objection/resolution, which exactly matches the prose description in candidate 1 ('Yochanan v. Lakish').",
+      "chosen_heading": "Yochanan v. Lakish",
+      "current_heading": "Yochanan v. Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Ketanah-Bogeret Timing",
+    "candidates": [
+      "Ketanah-Bogeret Timing",
+      "Widow Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form exactly the dilemma and Shmuel's response described in candidate 0's prose \u2014 the ketanah-bogeret timing question posed by Rabbi \u1e24iyya bar Yosef and Shmuel's answer from the mishna \u2014 before the pushback discussed in candidate 1.",
+      "chosen_heading": "Ketanah-Bogeret Timing",
+      "current_heading": "Ketanah-Bogeret Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Widow Exemption",
+    "candidates": [
+      "Widow Exemption",
+      "One Word Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous exchange about whether kiddushin or nisuin is the operative moment, with item 1 being Rav Chiyya's clarification of his dilemma and item 2 being Shmuel's proof from the almanah mishnah followed by its refutation \u2014 all of which is described precisely in the 'Widow Exemption' prose.",
+      "chosen_heading": "Widow Exemption",
+      "current_heading": "Widow Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "One Word Limit",
+    "candidates": [
+      "One Word Limit",
+      "Status Change Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's objection and answer about 'isha achas v'lo shtayim' \u2014 one word allowing only one derivation \u2014 which is precisely what the 'One Word Limit' section's prose describes.",
+      "chosen_heading": "One Word Limit",
+      "current_heading": "One Word Limit",
+      "moved": false
+    }
+  }
+]

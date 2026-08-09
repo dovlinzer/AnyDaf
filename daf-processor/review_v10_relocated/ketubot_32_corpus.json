@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Incest/Rape Case",
+    "candidates": [
+      "Incest/Rape Case",
+      "Both Lashes & Payment",
+      "Ein Lokeh u-Meshalem",
+      "Na'arah vs. Bogeret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the contradiction between the Ketubot mishna (monetary fine) and the Makkot mishna (lashes), which is precisely what the 'Incest/Rape Case' prose describes as the new dimension coming into focus \u2014 the tannaitic source listing the forbidden relationships and the tension it creates.",
+      "chosen_heading": "Incest/Rape Case",
+      "current_heading": "Incest/Rape Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Na'arah vs. Bogeret",
+    "candidates": [
+      "Both Lashes & Payment",
+      "Ein Lokeh u-Meshalem",
+      "Na'arah vs. Bogeret",
+      "Boshet u-Pegam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's resolution distinguishing between achoto na'arah and achoto bogeret, which is exactly what the 'Na'arah vs. Bogeret' section's prose describes.",
+      "chosen_heading": "Na'arah vs. Bogeret",
+      "current_heading": "Na'arah vs. Bogeret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Boshet u-Pegam",
+    "candidates": [
+      "Boshet u-Pegam",
+      "Consensual Sex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks about boshet u-pegam in the case of a bogeret, which is precisely what the prose of heading 0 discusses, and the answers (shotah, mfutah) are setup/transition content that the heading 0 prose also covers.",
+      "chosen_heading": "Boshet u-Pegam",
+      "current_heading": "Boshet u-Pegam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Consensual Sex",
+    "candidates": [
+      "Consensual Sex",
+      "Money Overrides",
+      "Five Payments",
+      "Why Money?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Consensual Sex",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the orphan/seduced young woman scenario and the conclusion that no monetary liability means lashes apply, which matches the 'Consensual Sex' prose about yetomah u-mfutah and the articulation of Ulla's rule.",
+      "second_heading": "Money Overrides",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks from where Ulla derives his principle and answers with the chovel b'chaveiro analogy, which matches exactly the 'Money Overrides' prose about deriving the rule from one who injures another person.",
+      "current_heading": "Consensual Sex",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Why Money?",
+    "candidates": [
+      "Money Overrides",
+      "Five Payments",
+      "Why Money?",
+      "Edim Zomemin",
+      "Common Denominator",
+      "Chovel Exceptions",
+      "Edim Zomemin Features",
+      "Not a General Rule",
+      "Tachat Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "The passage spans the rejection of chovel, proposal/rejection of edim zomemin, and proposal/rejection of the tzad hashaveh \u2014 a continuous dialectical chain that no single candidate heading fully captures, but the current placement under 'Why Money?' covers the core logical structure of why neither paradigm nor their combination works.",
+      "chosen_heading": "Why Money?",
+      "current_heading": "Why Money?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Tachat Connection",
+    "candidates": [
+      "Edim Zomemin",
+      "Common Denominator",
+      "Chovel Exceptions",
+      "Edim Zomemin Features",
+      "Not a General Rule",
+      "Tachat Connection",
+      "Tosafot on Rape",
+      "Warning Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes Ulla's gezeirah shavah from 'tachat' (rape) to 'tachat' (eye for an eye) to derive that monetary payment overrides lashes, which is precisely what the 'Tachat Connection' section's prose discusses.",
+      "chosen_heading": "Tachat Connection",
+      "current_heading": "Tachat Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Warning Requirement",
+    "candidates": [
+      "Tosafot on Rape",
+      "Warning Requirement",
+      "Lashes Primary",
+      "Kedei Rishato",
+      "One Wickedness",
+      "Multiple Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's resolution distinguishing forewarning from no forewarning, which is precisely what the 'Warning Requirement' section's prose describes.",
+      "chosen_heading": "Warning Requirement",
+      "current_heading": "Warning Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Multiple Lashes",
+    "candidates": [
+      "Lashes Primary",
+      "Kedei Rishato",
+      "One Wickedness",
+      "Multiple Lashes",
+      "Perutah Case",
+      "Any Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rabbi Yochanan's source from the verse 'kedei rishato' (according to his wickedness), which is exactly what the 'Kedei Rishato' section's prose describes, not the 'Multiple Lashes' section where it currently sits.",
+      "chosen_heading": "Kedei Rishato",
+      "current_heading": "Multiple Lashes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Any Payment",
+    "candidates": [
+      "Perutah Case",
+      "Any Payment",
+      "Torah Explicit",
+      "False Witness Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the problem of chovel b'chaveiro (injury requiring money not lashes) and attempts the hatra'ah-based solution, which is precisely what candidate 0's prose describes \u2014 whereas candidate 1's prose discusses the conclusion drawn from Rabbi Yochanan's ruling, not the initial problem and attempted resolution.",
+      "chosen_heading": "Perutah Case",
+      "current_heading": "Any Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "False Witness Verse",
+    "candidates": [
+      "Torah Explicit",
+      "False Witness Verse",
+      "Hand for Hand",
+      "Injury Verse",
+      "Yinaten Means Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Ile'a's principle that the Torah explicitly amplified both conspiring witnesses and one who injures another for monetary payment, which is precisely what the 'Torah Explicit' section's prose describes \u2014 the current 'False Witness Verse' section's prose discusses the specific verse and Rabbi Meir/Rabbis dispute, but the passage itself is the initial statement of Rabbi Ile'a's rule that belongs under 'Torah Explicit.'",
+      "chosen_heading": "Torah Explicit",
+      "current_heading": "False Witness Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Yinaten Means Money",
+    "candidates": [
+      "Hand for Hand",
+      "Injury Verse",
+      "Yinaten Means Money",
+      "Gemara Challenge",
+      "Ben Gerusha Case",
+      "Perutah Edge Case",
+      "Incest Lashes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hand for Hand",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's derivation from 'yad beyad' that edim zomemin pay money, which is exactly what heading 0 ('Hand for Hand') describes \u2014 deriving monetary payment from the phrase yad beyad.",
+      "second_heading": "Injury Verse",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the parallel derivation for chovel b'chaveiro from 'ken yinaten bo', which is exactly what heading 1 ('Injury Verse') introduces \u2014 the verse ka'asher asa ken ye'aseh lo and why an additional phrase is needed.",
+      "current_heading": "Yinaten Means Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Incest Lashes",
+    "candidates": [
+      "Gemara Challenge",
+      "Ben Gerusha Case",
+      "Perutah Edge Case",
+      "Incest Lashes",
+      "Tachat Already Used",
+      "Ulla's Deduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-response chain: item 1 asks why Rabbi Yochanan doesn't follow Ulla (raising the 'bataltah ervat achoto' objection), and item 2 extends that same logic to chovel b'chaveiro and edim zomemin with their resolutions \u2014 exactly the content described in candidate 0's prose about the gemara pressing a challenge against Rabbi Yochanan's exceptions.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Incest Lashes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Ulla's Deduction",
+    "candidates": [
+      "Tachat Already Used",
+      "Ulla's Deduction",
+      "Bottom Line"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact content described in candidate 1's prose: item 1 shows Rabbi Yochanan's use of 'tachat asher innah' for Abaye's derivation of boshet u-pegam, and item 2 shows Ulla's alternative source (Rava's derivation from 'venatan ha'ish hashochev imah') \u2014 precisely what candidate 1's prose describes, making this the correct current placement.",
+      "chosen_heading": "Ulla's Deduction",
+      "current_heading": "Ulla's Deduction",
+      "moved": false
+    }
+  }
+]

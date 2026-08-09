@@ -1,0 +1,299 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Change of Clothes",
+    "candidates": [
+      "Review & Context",
+      "Kriat Shema",
+      "Prayer Framing",
+      "Antiquity of Prayer",
+      "Lottery Call",
+      "Sequential Lotteries",
+      "R. Eliezer View",
+      "Change of Clothes",
+      "Kevach System",
+      "Cubby Details",
+      "Kaf Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes priests being handed over to the chazanim, undressed to their michnasayim, and the storage compartments with labeled uses \u2014 exactly what the 'Change of Clothes' section's prose discusses.",
+      "chosen_heading": "Change of Clothes",
+      "current_heading": "Change of Clothes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Kaf Description",
+    "candidates": [
+      "Kevach System",
+      "Cubby Details",
+      "Kaf Description",
+      "Bazach Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the kaf (spoon/ladle) used for the ketoret, its size (three kav), and the bazach nested inside it, which directly matches the 'Kaf Description' section's prose discussing the kaf's appearance, gold material, and three-kav capacity.",
+      "chosen_heading": "Kaf Description",
+      "current_heading": "Kaf Description",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Bazach Structure",
+    "candidates": [
+      "Bazach Structure",
+      "Metultelet",
+      "Eyewitness Detail",
+      "Silver Shovel",
+      "Shovel Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the bazach being filled and overflowing with ketoret and having a cover, which matches exactly the 'Bazach Structure' prose discussion of malei ve-gadush ketoret and v'chisuy haya lo.",
+      "chosen_heading": "Bazach Structure",
+      "current_heading": "Bazach Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Shovel Transfer",
+    "candidates": [
+      "Metultelet",
+      "Eyewitness Detail",
+      "Silver Shovel",
+      "Shovel Transfer",
+      "Spilled Coals",
+      "Psachtar Vessel",
+      "Chains System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the mishna about winning the coal pan lottery, ascending the altar, scooping coals, descending, and transferring to the gold pan \u2014 exactly what the 'Silver Shovel' prose section discusses in detail.",
+      "chosen_heading": "Silver Shovel",
+      "current_heading": "Shovel Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Chains System",
+    "candidates": [
+      "Spilled Coals",
+      "Psachtar Vessel",
+      "Chains System",
+      "Throw Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the pesakhter vessel \u2014 its Shabbat use covering coals, its two chains, and its three purposes \u2014 which exactly matches the 'Psachtar Vessel' prose that covers all these details together, whereas the current placement under 'Chains System' splits content that belongs unified under the earlier heading.",
+      "chosen_heading": "Psachtar Vessel",
+      "current_heading": "Chains System",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Throw Action",
+    "candidates": [
+      "Chains System",
+      "Throw Action",
+      "Sound Signal",
+      "Three Functions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes arriving between the ulam and mizbe'ach and throwing the magreifa, which is precisely what the 'Throw Action' prose discusses.",
+      "chosen_heading": "Throw Action",
+      "current_heading": "Throw Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Three Functions",
+    "candidates": [
+      "Sound Signal",
+      "Three Functions",
+      "Tameim Placement",
+      "Tameim Debate",
+      "Ascending Ulam",
+      "Inner Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the three functions of the magreifa sound (priests running to prostrate, Levites running to sing, and the maamad head positioning the tameim), which directly matches the 'Three Functions' section's prose discussion of these exact three purposes.",
+      "chosen_heading": "Three Functions",
+      "current_heading": "Three Functions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Inner Altar",
+    "candidates": [
+      "Tameim Placement",
+      "Tameim Debate",
+      "Ascending Ulam",
+      "Inner Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "low",
+      "reason": "The passage 'Hadaran alakh' is a closing formula marking the end of a tractate chapter, and its content does not clearly match any of the candidate prose sections; the current placement under 'Inner Altar' is retained by default as no other candidate is a clearly better match.",
+      "chosen_heading": "Inner Altar",
+      "current_heading": "Inner Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Inner Altar",
+    "candidates": [
+      "Inner Altar",
+      "Menorah Cleaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the priest entering to remove ash from the inner altar, taking the basket, prostrating, and leaving \u2014 which matches exactly the prose under 'Inner Altar' that discusses the same sequence of events.",
+      "chosen_heading": "Inner Altar",
+      "current_heading": "Inner Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Menorah Cleaning",
+    "candidates": [
+      "Menorah Cleaning",
+      "Koz Pitcher",
+      "Spreading Coals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire menorah cleaning procedure including finding the two western lamps burning, cleaning the eastern one, leaving the western one burning for afternoon lighting, and relighting from the altar if extinguished \u2014 all of which precisely matches the 'Menorah Cleaning' prose, with the koz and prostration at the end matching the tail of that section rather than warranting a separate placement.",
+      "chosen_heading": "Menorah Cleaning",
+      "current_heading": "Menorah Cleaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Spreading Coals",
+    "candidates": [
+      "Koz Pitcher",
+      "Spreading Coals",
+      "Bazach Transfer",
+      "Hand Pouring",
+      "Burning Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes piling and flattening coals on the inner altar with the coal pan and then prostrating \u2014 exactly what the 'Spreading Coals' section's prose discusses.",
+      "chosen_heading": "Spreading Coals",
+      "current_heading": "Spreading Coals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Burning Warning",
+    "candidates": [
+      "Bazach Transfer",
+      "Hand Pouring",
+      "Burning Warning",
+      "Performance",
+      "Authorization",
+      "People Separate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Burning Warning",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the bazach transfer, hand pouring, and the warning not to begin from the near side \u2014 all topics concluded under 'Burning Warning' \u2014 making it the best single home for item 1's full content.",
+      "second_heading": "Performance",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the actual flattening/spreading performance (*meradded*) and the memuneh's authorization command, which maps directly to the 'Performance' heading's prose about *hitchil meradded ve-yatza*.",
+      "current_heading": "Burning Warning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "People Separate",
+    "candidates": [
+      "Performance",
+      "Authorization",
+      "People Separate",
+      "Middot Conclusion",
+      "Guard Stations",
+      "Honor Guards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "People Separate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the people withdrawing, the incense being burned, prostration, and departure \u2014 exactly the content discussed in the 'People Separate' prose.",
+      "second_heading": "Middot Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran (closing formula) for a tractate chapter, which belongs under 'Middot Conclusion' where the essay author explicitly discusses the hadran for Masechet Middot.",
+      "current_heading": "People Separate",
+      "moved": true
+    }
+  }
+]

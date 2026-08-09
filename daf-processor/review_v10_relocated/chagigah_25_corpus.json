@@ -1,0 +1,398 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Pressing Season Rule",
+    "candidates": [
+      "Intro: Belief Times",
+      "Pressing Season Rule",
+      "Rashi's Rationale",
+      "Early vs. Late Harvest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah's pressing-season rule and immediately raises the contradicting baraita about leaving unpressed olives for a poor kohen, which is precisely what the 'Pressing Season Rule' prose describes.",
+      "chosen_heading": "Pressing Season Rule",
+      "current_heading": "Pressing Season Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Early vs. Late Harvest",
+    "candidates": [
+      "Rashi's Rationale",
+      "Early vs. Late Harvest",
+      "Judea vs. Galilee"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Nachman's early/late harvest distinction and Rav Adda bar Ahava's example about Rav Nachman's father's house, which is precisely what the 'Early vs. Late Harvest' section's prose describes.",
+      "chosen_heading": "Early vs. Late Harvest",
+      "current_heading": "Early vs. Late Harvest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Judea vs. Galilee",
+    "candidates": [
+      "Judea vs. Galilee",
+      "Post-Season Refusal",
+      "Acceptance Question",
+      "Inheritance Case",
+      "Wet/Dry Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong to the Rav Yosef/Abaye exchange about the Galilee distinction and its rejection, which is precisely what the 'Judea vs. Galilee' section's prose describes.",
+      "chosen_heading": "Judea vs. Galilee",
+      "current_heading": "Judea vs. Galilee",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Wet/Dry Division",
+    "candidates": [
+      "Post-Season Refusal",
+      "Acceptance Question",
+      "Inheritance Case",
+      "Wet/Dry Division",
+      "Burning Produce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Acceptance Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 form the question posed to Rav Sheshet and his answer ('You learned it') pointing to the inheritance mishna, which matches candidate 1 ('Acceptance Question') exactly.",
+      "second_heading": "Inheritance Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 are the inheritance mishna itself (\u1e25aver and am ha'aretz dividing their father's estate), which matches candidate 2 ('Inheritance Case') and its prose about dividing the estate, not candidate 3 ('Wet/Dry Division') which belongs to the Gemara's analysis of that mishna.",
+      "current_heading": "Wet/Dry Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Burning Produce",
+    "candidates": [
+      "Wet/Dry Division",
+      "Burning Produce",
+      "Pesach vs. Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the baraita ruling that a chav\u00e9r burns wet teruma and retains dry produce, followed by the Gemara's question about why not wait for the next winepress season or pilgrimage festival \u2014 exactly the content described in the 'Burning Produce' prose.",
+      "chosen_heading": "Burning Produce",
+      "current_heading": "Burning Produce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Pesach vs. Terumah",
+    "candidates": [
+      "Pesach vs. Terumah",
+      "Blowing Method",
+      "Pre-Tread Paths"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pesach vs. Terumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the Mishnah from Oholot about examining for Pesach vs. teruma, which matches heading 0's prose about that exact Mishnah and the beit haperas context.",
+      "second_heading": "Blowing Method",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains the blowing method (menapei'ach) attributed to Rav Yehuda/Shmuel, which matches heading 1's prose precisely describing that same ruling and its rationale.",
+      "current_heading": "Pesach vs. Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Pre-Tread Paths",
+    "candidates": [
+      "Blowing Method",
+      "Pre-Tread Paths",
+      "Karet vs. Misah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses a beit haperas that has been trodden being pure for korban Pesach performers, which is precisely what the 'Pre-Tread Paths' section describes, including the same quote and reasoning about prior foot traffic.",
+      "chosen_heading": "Pre-Tread Paths",
+      "current_heading": "Pre-Tread Paths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Karet vs. Misah",
+    "candidates": [
+      "Karet vs. Misah",
+      "Pesach to Terumah",
+      "Unified Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the Sages upholding their words regarding teruma even where misah bidei shamayim is involved, which is precisely the contrast (karet vs. misah) that the 'Karet vs. Misah' section's prose analyzes.",
+      "chosen_heading": "Karet vs. Misah",
+      "current_heading": "Karet vs. Misah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Unified Status",
+    "candidates": [
+      "Pesach to Terumah",
+      "Unified Status",
+      "Barrel Belief",
+      "Meduma'os Definition",
+      "Empty vs. Filled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the dispute between Ulla and Rabbah bar Ulla about whether examination for the paschal offering permits eating terumah, followed by the elder's proof from the barrel Mishnah \u2014 exactly what heading 1 'Unified Status' describes in its prose.",
+      "chosen_heading": "Unified Status",
+      "current_heading": "Unified Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Empty vs. Filled",
+    "candidates": [
+      "Barrel Belief",
+      "Meduma'os Definition",
+      "Empty vs. Filled",
+      "Wine/Vessel Paradox",
+      "Rashi's Policy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous sugya analyzing the baraita's ruling that amei ha'aretz are not believed about flasks or teruma \u2014 asking what kind of flasks, resolving with empty kodesh flasks vs. full teruma flasks, then challenging from the mishna's use of 'meduma'os' and resolving it via Rabbi \u1e24iyya's school and Rabbi Elai's school \u2014 which matches candidate 1's prose about the tana glossing the Mishnah and the Gemara pressing 'what exactly is the case' regarding jugs for kodesh wine.",
+      "chosen_heading": "Meduma'os Definition",
+      "current_heading": "Empty vs. Filled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rashi's Policy",
+    "candidates": [
+      "Wine/Vessel Paradox",
+      "Rashi's Policy",
+      "Modi'in Vessels",
+      "Kiln Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage about seventy days before the winepress is incidental Abaye teaching derived from the mishna's pressing-season rule, which fits within the broader discussion of pressing-season believability that Rashi's policy section addresses, though the fit is imperfect since the passage is really about tenant farmer obligations rather than Rashi's rationale specifically.",
+      "chosen_heading": "Rashi's Policy",
+      "current_heading": "Rashi's Policy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Kiln Location",
+    "candidates": [
+      "Modi'in Vessels",
+      "Kiln Location",
+      "Community Needs",
+      "Modi'in Context",
+      "Direction Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage directly introduces the Modi'in/inward vs. outward distinction for pottery vessels and the potter case, which matches candidate 0's prose about the Mishnah turning to pottery vessels and the *min ha-Modiin u-lefanim* rule \u2014 not candidate 1's discussion of kilns or candidate 3's focus on the outward distinction.",
+      "chosen_heading": "Modi'in Vessels",
+      "current_heading": "Kiln Location",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Direction Test",
+    "candidates": [
+      "Community Needs",
+      "Modi'in Context",
+      "Direction Test",
+      "Thin Vessels Only",
+      "Size/Full Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the directional status of Modi'in itself \u2014 when it counts as 'inside' vs 'outside' based on which way the potter and \u1e25aver are traveling \u2014 which is precisely what the 'Direction Test' prose describes.",
+      "chosen_heading": "Direction Test",
+      "current_heading": "Direction Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Size/Full Dispute",
+    "candidates": [
+      "Thin Vessels Only",
+      "Size/Full Dispute",
+      "Vessel Contents Purity",
+      "Tax Collectors"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Thin Vessels Only",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the dispute between Reish Lakish and Rabbi Yochanan about the size definition of 'small vessels' (one hand vs. two hands), which matches heading 0 'Thin Vessels Only' whose prose describes the scope of the leniency for small pottery vessels.",
+      "second_heading": "Size/Full Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the Reish Lakish/Rabbi Yochanan dispute about empty vs. full vessels and Rava's clarification about liquids, which matches heading 1 'Size/Full Dispute' whose prose explicitly discusses both the empty/full dispute and Rava's clarification about Rabbi Yochanan's position on liquid contents.",
+      "current_heading": "Size/Full Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tax Collectors",
+    "candidates": [
+      "Vessel Contents Purity",
+      "Tax Collectors",
+      "Festival Rule",
+      "Supervisor Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah passage describes tax collectors entering a house, thieves returning vessels, and the Jerusalem/festival credibility rules \u2014 exactly the content the 'Tax Collectors' prose introduces and explicates, including the specific phrases about gabba'im, thieves, lo naganu, and u-vi-Yerushalayim ne'emanim al ha-kodesh.",
+      "chosen_heading": "Tax Collectors",
+      "current_heading": "Tax Collectors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Supervisor Present",
+    "candidates": [
+      "Festival Rule",
+      "Supervisor Present",
+      "Fear Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's contradiction about tax collectors and the resolution distinguishing cases with/without a gentile supervisor, which is precisely what the 'Supervisor Present' section's prose describes.",
+      "chosen_heading": "Supervisor Present",
+      "current_heading": "Supervisor Present",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Fear Source",
+    "candidates": [
+      "Fear Source",
+      "Thieves' Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan and Rabbi Elazar's dispute about whether the fear is of the gentile personally or of governmental authority, and the practical difference concerning a non-important gentile \u2014 exactly what the 'Fear Source' prose describes.",
+      "chosen_heading": "Fear Source",
+      "current_heading": "Fear Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Thieves' Teshuvah",
+    "candidates": [
+      "Thieves' Teshuvah",
+      "Sukkot Lead-in"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses thieves who returned vessels, the contradiction with Teharot, and Rav Pinchas's resolution about teshuvah \u2014 exactly what the 'Thieves' Teshuvah' section prose describes.",
+      "chosen_heading": "Thieves' Teshuvah",
+      "current_heading": "Thieves' Teshuvah",
+      "moved": false
+    }
+  }
+]

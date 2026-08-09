@@ -1,0 +1,245 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rav Chisda: Shiurim",
+    "candidates": [
+      "Rav Chisda: Shiurim",
+      "Soter: Rov Rosho",
+      "Soter: Razors Only?",
+      "Gemara Challenges",
+      "Ke'ein Ta'ar",
+      "Second Braita",
+      "R. Shimon ben Yehuda"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda: Shiurim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav \u1e24isda's ruling introducing the three shiurim (lalkot, le'akev, listor) with the razor condition, which is exactly what heading 0 'Rav Chisda: Shiurim' describes.",
+      "second_heading": "Gemara Challenges",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge 'be-ta'ar in, be-midi achrini lo?' followed by the baraita 'minyan le-rabbot et kol ha-ma'avirin', which is precisely what heading 3 'Gemara Challenges' describes.",
+      "current_heading": "Rav Chisda: Shiurim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "R. Shimon ben Yehuda",
+    "candidates": [
+      "Soter: Rov Rosho",
+      "Soter: Razors Only?",
+      "Gemara Challenges",
+      "Ke'ein Ta'ar",
+      "Second Braita",
+      "R. Shimon ben Yehuda",
+      "Three Cases",
+      "Mishnah: All Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita that presents Rabbi Shimon ben Yehuda's opinion (citing Rabbi Shimon) about two hairs being sufficient for soter, which is precisely what the prose under heading 5 discusses.",
+      "chosen_heading": "R. Shimon ben Yehuda",
+      "current_heading": "R. Shimon ben Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Mishnah: All Three",
+    "candidates": [
+      "Three Cases",
+      "Mishnah: All Three",
+      "Why Mention Mitzvah?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself from Nega'im listing the three categories who must shave with a razor, which is exactly what heading 1 ('Mishnah: All Three') describes in its prose.",
+      "chosen_heading": "Mishnah: All Three",
+      "current_heading": "Mishnah: All Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Why Mention Mitzvah?",
+    "candidates": [
+      "Why Mention Mitzvah?",
+      "Nazir: Ta'ar Explicit",
+      "Levi'im: Ta'ar Explicit",
+      "Metzora: Ta'ar Source?",
+      "From Levi'im?",
+      "Levi'im Distinct",
+      "From Nazir?",
+      "Nazir Distinct",
+      "Common Denominator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Mishnah explicitly states shaving is a mitzva, explaining that it rules out depilatory as a substitute\u2014exactly what the 'Why Mention Mitzvah?' section's prose describes.",
+      "chosen_heading": "Why Mention Mitzvah?",
+      "current_heading": "Why Mention Mitzvah?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Common Denominator",
+    "candidates": [
+      "Nazir: Ta'ar Explicit",
+      "Levi'im: Ta'ar Explicit",
+      "Metzora: Ta'ar Source?",
+      "From Levi'im?",
+      "Levi'im Distinct",
+      "From Nazir?",
+      "Nazir Distinct",
+      "Common Denominator",
+      "Metzora: Sliding Scale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All five items form the complete *tzad ha-shaveh* argument \u2014 the question of the metzora's razor source, the failed attempts from Levi'im and Nazir individually, and the combined common-denominator derivation (*lo re'i zeh ke-re'i zeh*, *tzad ha-shaveh*) \u2014 which is precisely what heading 7 ('Common Denominator') describes in its prose.",
+      "chosen_heading": "Common Denominator",
+      "current_heading": "Common Denominator",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Metzora: Sliding Scale",
+    "candidates": [
+      "Metzora: Sliding Scale",
+      "Cannot Learn Metzora"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the objection raised by Rava of Barnish about the sliding-scale korban, which is precisely what the 'Metzora: Sliding Scale' prose describes in detail.",
+      "chosen_heading": "Metzora: Sliding Scale",
+      "current_heading": "Metzora: Sliding Scale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Cannot Learn Metzora",
+    "candidates": [
+      "Cannot Learn Metzora",
+      "Peah Zakenim Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contradiction between the two beraitot\u2014one assuming metzora's razor requirement and one failing to derive it\u2014which is precisely what the 'Cannot Learn Metzora' prose describes as its central topic, including Rava bar Masharsheya's explanation to Rava.",
+      "chosen_heading": "Cannot Learn Metzora",
+      "current_heading": "Cannot Learn Metzora",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Peah Zakenim Source",
+    "candidates": [
+      "Peah Zakenim Source",
+      "Kohen Metzora: Why?",
+      "Yegalechu & Tashchit",
+      "Metzora: Implicitly Ta'ar",
+      "Not Mere Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together constitute the Gemara's derivation that beard-shaving liability requires a razor \u2014 item 1 resolves the Rabbanan/Rabbi Eliezer dispute by citing the Makkot mishna, and items 2-4 present the baraita working through the yegalechu/tashchit convergence \u2014 which is precisely what candidate 2 ('Yegalechu & Tashchit') describes in its prose.",
+      "chosen_heading": "Yegalechu & Tashchit",
+      "current_heading": "Peah Zakenim Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Not Mere Permission",
+    "candidates": [
+      "Kohen Metzora: Why?",
+      "Yegalechu & Tashchit",
+      "Metzora: Implicitly Ta'ar",
+      "Not Mere Permission",
+      "No Alternatives Exist",
+      "R. Eliezer: Plucking Too",
+      "Source: Rosho",
+      "Nazir Metzora: Why?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's challenge and response to the question of whether the pasuk merely permits a razor or obligates it, culminating in Reish Lakish's principle \u2014 exactly the content described in the 'Not Mere Permission' prose, which explicitly previews both the nazir argument and the Reish Lakish resolution that closes the passage.",
+      "chosen_heading": "Not Mere Permission",
+      "current_heading": "Not Mere Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Nazir Metzora: Why?",
+    "candidates": [
+      "No Alternatives Exist",
+      "R. Eliezer: Plucking Too",
+      "Source: Rosho",
+      "Nazir Metzora: Why?",
+      "Eliezer Cannot Assume"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita explaining why the verse states 'his head' (rosho) in the context of the metzora's shaving, which directly matches the 'Source: Rosho' section's prose about Rabbi Eliezer deriving his position from the word rosho and the explicit mention teaching something additional about the nazir metzora.",
+      "chosen_heading": "Source: Rosho",
+      "current_heading": "Nazir Metzora: Why?",
+      "moved": true
+    }
+  }
+]

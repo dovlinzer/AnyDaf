@@ -34,8 +34,8 @@
           "timestamp": "09:20"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Why Oil Cannot Be Used Like Wine: The Distinction Between Loss to the Kohein and Market Value",
@@ -111,7 +111,7 @@
           "timestamp": "30:41"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -130,7 +130,7 @@
           "timestamp": "32:37"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -347,5 +347,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "31:36",
+  "amud_b_micro_title": "Unnecessary Service",
+  "shiur_start_daf": 115,
+  "shiur_start_amud": "b"
 }

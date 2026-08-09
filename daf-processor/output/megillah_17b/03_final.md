@@ -1,13 +1,9 @@
-# Megillah 17b — Daf Yomi Shiur
 [DAF:17a]
+## Sequential Order Shmoneh
 
-## al ha-seder in Shmoneh E…
+
 
 ### al ha-seder & Tosafot
-
-> **Hebrew/Aramaic:** תְּפִלָּה מְנָא לַן? דְּתַנְיָא: שִׁמְעוֹן הַפָּקוֹלִי הִסְדִּיר שְׁמוֹנֶה עֶשְׂרֵה בְּרָכוֹת לִפְנֵי רַבָּן גַּמְלִיאֵל עַל הַסֵּדֶר בְּיַבְנֶה. אָמַר רַבִּי יוֹחָנָן, וְאָמְרִי לַהּ בְּמַתְנִיתָא תָּנָא: מֵאָה וְעֶשְׂרִים זְקֵנִים, וּבָהֶם כַּמָּה נְבִיאִים, תִּיקְּנוּ שְׁמוֹנֶה עֶשְׂרֵה בְּרָכוֹת עַל הַסֵּדֶר.
->
-> **Translation:** § The *baraita* cited previously taught that the *halakha* against reciting a text out of order applies to the *Amida* **prayer** as well. The Gemara asks: **From where do we** derive this? **As it is taught** in a *baraita*: **Shimon HaPakuli arranged the eighteen blessings** of the *Amida* prayer **before Rabban Gamliel in their** fixed **order in Yavne,** which indicates that there is a specific order to these blessings that must not be changed. **Rabbi Yoḥanan said, and some say that it was taught in a *baraita*: A hundred and twenty Elders,** i.e., the Men of the Great Assembly, and **among them several prophets, established** the **eighteen blessings** of the *Amida* **in their** fixed **order,** which also shows that the order of these blessings may not be changed.
 
 The daf picks up in the middle of the discussion of things that must be performed *al ha-seder* — in sequential order. Having already treated the *Megillah* and *Shema*, the *Gemara* now turns to *Shmoneh Esrei*. Because the text of *Shmoneh Esrei* is rabbinic rather than biblical, no verses are cited to prove that it must be recited *al ha-seder*; instead, the *Gemara* engages the question of what the logical organization of the *brachot* is and what the practical implications of that ordering requirement are.
 
@@ -25,32 +21,29 @@ The halakhic upshot, and the position that is accepted as practical *halacha*, f
 
 ## Binah, Teshuvah, Selichah
 
+
+
 [DAF:17b]
 ### Binah After Kedushah
 
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר בִּינָה אַחַר קְדוּשָּׁה — שֶׁנֶּאֱמַר: ״וְהִקְדִּישׁוּ אֶת קְדוֹשׁ יַעֲקֹב וְאֶת אֱלֹהֵי יִשְׂרָאֵל יַעֲרִיצוּ״, וּסְמִיךְ לֵיהּ: ״וְיָדְעוּ תוֹעֵי רוּחַ בִּינָה״.
->
-> **Translation:** The Gemara continues: **And why did they see** fit to institute **to say** the blessing of **understanding after** the blessing of **holiness? As it is stated: "They shall sanctify the Holy One of Jacob, and shall revere the God of Israel"** (Isaiah 29:23), and adjacent to that verse it is written: **"They also that erred in spirit shall come to understanding"** (Isaiah 29:24). This shows that it is proper for the theme of understanding to follow the theme of God's holiness.
+> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר בִּינָה אַחַר קְדוּשָּׁה — שֶׁנֶּאֱמַר: ״וְהִקְדִּישׁוּ אֶת קְדוֹשׁ יַעֲקֹב וְאֶת אֱלֹהֵי יִשְׂרָאֵל יַעֲרִיצוּ״, וּסְמִיךְ לֵיהּ: ״וְיָדְעוּ תוֹעֵי רוּחַ בִּינָה״. וּמָה רָאוּ לוֹמַר תְּשׁוּבָה אַחַר בִּינָה — דִּכְתִיב: ״וּלְבָבוֹ יָבִין וָשָׁב וְרָפָא לוֹ״.
+> **Translation:** The Gemara continues: **And why did they see** fit to institute **to say** the blessing of **understanding after** the blessing of **holiness? As it is stated: “They shall sanctify the Holy One of Jacob, and shall revere the God of Israel”** (Isaiah 29:23), and adjacent to that verse it is written: **“They also that erred in spirit shall come to understanding”** (Isaiah 29:24). This shows that it is proper for the theme of understanding to follow the theme of God’s holiness. **And why did they see** fit to institute **to say** the blessing of **repentance after** the blessing of **understanding? As it is written: “And they will understand with their heart, repent, and be healed”** (Isaiah 6:10-11), showing that the theme of repentance properly follows the theme of understanding.
 
 Having established that the order of *Shmoneh Esrei* is authoritative and obligatory, the *Gemara* now turns to the question of what the logic of that order actually is. It begins: *u'mah ra'u lomar binah achar kedusha* — why, after the first three opening *brachot* that culminate in *Kedushah*, do we transition immediately to *binah*, to understanding? Why is *binah* the first of the *bakasha*-oriented *brachot*?
 
 The *Gemara* cites a verse from Isaiah: *v'hikdishu et Kadosh Yaakov v'et Elohei Yisrael ya'aritzu* — "they shall sanctify the Holy One of Jacob and the God of Israel they shall glorify." The immediately following verse reads: *v'yadu to'ei ruach binah* — "those who are of wayward or searching spirit will know understanding." The structural juxtaposition of *kedushah* and *binah* in the verse provides the textual anchor. The *Gemara* does not at this point offer a deeper logical argument; it grounds the sequence in the *pasuk*.
 
-### Understanding & Repentance
-
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר תְּשׁוּבָה אַחַר בִּינָה — דִּכְתִיב: ״וּלְבָבוֹ יָבִין וָשָׁב וְרָפָא לוֹ״.
->
-> **Translation:** **And why did they see** fit to institute **to say** the blessing of **repentance after** the blessing of **understanding? As it is written: "And they will understand with their heart, repent, and be healed"** (Isaiah 6:10-11), showing that the theme of repentance properly follows the theme of understanding.
+### Understanding & Repent
 
 The next question is why *teshuvah* follows *binah*. The *Gemara* cites a verse: *u'l'vavo yavin v'shav v'rafa lo* — "and his heart will understand, and he will repent, and it will be healed for him." The verse makes the sequence explicit: first comes understanding, and understanding leads directly to *teshuvah*. When a person truly comprehends the nature of his actions and their consequences, the natural result is repentance. The connection between *binah* and *teshuvah* is thus not merely sequential but causal.
 
 ### Selichah Over Refuah
 
-> **Hebrew/Aramaic:** אִי הָכִי — לֵימָא רְפוּאָה בָּתְרַהּ דִּתְשׁוּבָה? לָא סָלְקָא דַּעְתָּךָ, דִּכְתִיב: ״וְיָשׁוֹב אֶל ה׳ וִירַחֲמֵהוּ וְאֶל אֱלֹהֵינוּ כִּי יַרְבֶּה לִסְלוֹחַ״. וּמַאי חָזֵית דְּסָמְכַתְּ אַהָא? סְמוֹךְ אַהָא! כְּתַב קְרָא אַחֲרִינָא: ״הַסּוֹלֵחַ לְכׇל עֲוֹנֵיכִי הָרוֹפֵא לְכׇל תַּחֲלוּאָיְכִי הַגּוֹאֵל מִשַּׁחַת חַיָּיְכִי״. לְמֵימְרָא דִּגְאוּלָּה וּרְפוּאָה בָּתַר סְלִיחָה הִיא, וְהָכְתִיב: ״וָשָׁב וְרָפָא לוֹ״! הָהוּא לָאו רְפוּאָה דְתַחְלוּאִים הִיא, אֶלָּא רְפוּאָה דִסְלִיחָה הִיא.
->
-> **Translation:** The Gemara asks: **If so,** that the sequence of blessings is based on this verse, **let** us **say** that **the** blessing of **healing should be said after** the blessing of **repentance.** Why, then, is the next blessing in the *Amida* the blessing of forgiveness and not the blessing of healing? The Gemara explains: **This cannot enter your mind, as it is written: "And let him return to the Lord, and He will have compassion upon him; and to our God, for He will abundantly pardon"** (Isaiah 55:7), which shows that the theme of repentance should be followed by that of forgiveness.
->
-> But this still leaves a loose end: what does one do with the original verse, *v'shav v'rafa lo*, which seemed to place healing immediately after *teshuvah*? The *Gemara* resolves this cleanly: The *Gemara* answers: **But what did you see to rely on this** verse? **Rely on the other** verse, which juxtaposes repentance to healing. The Gemara answers: **Another verse,** in which it is **written: "Who forgives all your iniquities, Who heals all your diseases, Who redeems your life from the pit"** (Psalms 103:3–4), proves that the theme of healing should follow that of forgiveness. The Gemara asks: **Is that** verse coming **to say that** the blessings of **redemption and healing** should be placed following the blessing of **forgiveness? But isn't it written: "Repent, and be healed"** (Isaiah 6:10), which suggests that repentance should be followed by healing? The Gemara answers: **That** verse is referring **not** to **the** literal **healing from illness, but rather** to **the** figurative **healing of forgiveness,** and therefore this verse too supports the sequence of forgiveness following repentance.
+> **Hebrew/Aramaic:** אִי הָכִי — לֵימָא רְפוּאָה בָּתְרַהּ דִּתְשׁוּבָה? לָא סָלְקָא דַּעְתָּךְ, דִּכְתִיב: ״וְיָשׁוֹב אֶל ה׳ וִירַחֲמֵהוּ וְאֶל אֱלֹהֵינוּ כִּי יַרְבֶּה לִסְלוֹחַ״.
+> **Translation:** The Gemara asks: **If so,** that the sequence of blessings is based on this verse, **let** us **say** that **the** blessing of **healing should be said after** the blessing of **repentance.** Why, then, is the next blessing in the *Amida* the blessing of forgiveness and not the blessing of healing? The Gemara explains: **This cannot enter your mind, as it is written: “And let him return to the Lord, and He will have compassion upon him; and to our God, for He will abundantly pardon”** (Isaiah 55:7), which shows that the theme of repentance should be followed by that of forgiveness.
+
+> **Hebrew/Aramaic:** וּמַאי חָזֵית דְּסָמְכַתְּ אַהָא? סְמוֹךְ אַהָא! כְּתַב קְרָא אַחֲרִינָא: ״הַסּוֹלֵחַ לְכׇל עֲוֹנֵיכִי הָרוֹפֵא לְכׇל תַּחֲלוּאָיְכִי הַגּוֹאֵל מִשַּׁחַת חַיָּיְכִי״. לְמֵימְרָא דִּגְאוּלָּה וּרְפוּאָה בָּתַר סְלִיחָה הִיא, וְהָכְתִיב: ״וָשָׁב וְרָפָא לוֹ״! הָהוּא לָאו רְפוּאָה דְתַחְלוּאִים הִיא, אֶלָּא רְפוּאָה דִסְלִיחָה הִיא.
+> **Translation:** The Gemara poses a question: **But what did you see to rely on this** verse? **Rely on the other** verse, which juxtaposes repentance to healing. The Gemara answers: **Another verse,** in which it is **written: “Who forgives all your iniquities, Who heals all your diseases, Who redeems your life from the pit”** (Psalms 103:3–4), proves that the theme of healing should follow that of forgiveness. The Gemara asks: **Is that** verse coming **to say that** the blessings of **redemption and healing** should be placed following the blessing of **forgiveness? But isn’t it written: “Repent, and be healed”** (Isaiah 6:10), which suggests that repentance should be followed by healing? The Gemara answers: **That** verse is referring **not** to **the** literal **healing from illness, but rather** to **the** figurative **healing of forgiveness,** and therefore this verse too supports the sequence of forgiveness following repentance.
 
 Given this verse, however, the *Gemara* raises an immediate challenge. Since the verse continues *v'shav v'rafa lo* — and he will return and it will be *healed* — why does *selichah*, forgiveness, follow *teshuvah* in the *Shmoneh Esrei* rather than *refuah*, healing? The verse seems to place healing directly after repentance. The *Gemara* presses: *leima refuah batrah* — perhaps *refuah* should come next, before *selichah*?
 
@@ -58,7 +51,7 @@ The *Gemara* responds by citing a different verse: *v'yashav el Hashem v'yeracha
 
 ### Spiritual vs. Physical
 
-Two different types of healing, two different verses, and no contradiction.
+But this still leaves a loose end: what does one do with the original verse, *v'shav v'rafa lo*, which seemed to place healing immediately after *teshuvah*? The *Gemara* resolves this cleanly: *hahu lav refuah d'tachalu'in hee, ela refuah d'selichah hee* — that *rafa* in the original verse does not refer to physical healing of illness at all. It refers to the spiritual healing of forgiveness. The response to *teshuvah* in that verse is the inner healing that comes from being forgiven, not the physical recovery from sickness addressed in the *brachah* of *rofeh cholei amo Yisrael*. Two different types of healing, two different verses, and no contradiction.
 
 ### Intellect & Human Dignity
 
@@ -70,11 +63,9 @@ It follows naturally, then, that a life of *teshuvah* and *selichah* — of mora
 
 ## Refuah & Geulah
 
-### Geulah in Seventh
 
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר גְּאוּלָה בִּשְׁבִיעִית? אָמַר רָבָא: מִתּוֹךְ שֶׁעֲתִידִין לִיגָּאֵל בִּשְׁבִיעִית — לְפִיכָךְ קְבָעוּהָ בִּשְׁבִיעִית. וְהָאָמַר מָר: בְּשִׁשִּׁית קוֹלוֹת, בִּשְׁבִיעִית מִלְחָמוֹת, בְּמוֹצָאֵי שְׁבִיעִית בֶּן דָּוִד בָּא! מִלְחָמָה נָמֵי אַתְחַלְתָּא דִגְאוּלָּה הִיא.
->
-> **Translation:** The Gemara continues: **And why did they see** fit to institute **to say** the blessing of **redemption as the seventh** blessing? **Rava said: Since** there is a tradition that the Jewish people are **destined to be redeemed in the seventh** year of the Sabbatical cycle, **consequently, they fixed** redemption **as the seventh** blessing. **But didn't the Master say** in a *baraita*: **In the sixth** year of the Sabbatical cycle in the days of the arrival of the Messiah, heavenly **sounds** will be heard; **in the seventh** year there will be **wars; and upon the conclusion of the seventh** year, in the eighth year, **the son of David,** the Messiah, **will come?** The redemption will take place not during the seventh year but after it. The Gemara answers: Nevertheless, the **war** that takes place during the seventh year **is also the beginning of the redemption** process, and it is therefore correct to say that Israel will be redeemed in the seventh year.
+
+### Geulah in Seventh
 
 Having established the internal logic of the first cluster of middle *brachot*, the *Gemara* turns to the placement of *geulah* and *refuah* — and here the reasoning shifts from logical sequence to symbolic numerology. The *Gemara* asks: *u'mah ra'u lomar geulah bashvi'it* — why do we place *geulah*, redemption, as the seventh *brachah*? The answer given is that of Rava: *mitoch she'atidim liga'el bashvi'it* — because the future redemption will unfold in the seventh year. According to certain *Midrashim*, the cosmic process of redemption and the war of *Gog u-Magog* will culminate in the seventh year of that process. Since seven is the number with which redemption is associated — just as *Shabbat* represents a qualitative elevation after six ordinary days — *geulah* was fixed in the seventh position.
 
@@ -86,14 +77,16 @@ This is worth pausing on. The *pasuk* from which this *brachah* draws — *harof
 
 ### War & Atchalta
 
+> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר גְּאוּלָּה בִּשְׁבִיעִית? אָמַר רָבָא: מִתּוֹךְ שֶׁעֲתִידִין לִיגָּאֵל בִּשְׁבִיעִית — לְפִיכָךְ קְבָעוּהָ בִּשְׁבִיעִית. וְהָאָמַר מָר: בְּשִׁשִּׁית קוֹלוֹת, בִּשְׁבִיעִית מִלְחָמוֹת, בְּמוֹצָאֵי שְׁבִיעִית בֶּן דָּוִד בָּא! מִלְחָמָה נָמֵי אַתְחַלְתָּא דִגְאוּלָּה הִיא.
+> **Translation:** The Gemara continues: **And why did they see** fit to institute **to say** the blessing of **redemption as the seventh** blessing? **Rava said: Since** there is a tradition that the Jewish people are **destined to be redeemed in the seventh** year of the Sabbatical cycle, **consequently, they fixed** redemption **as the seventh** blessing. **But didn’t the Master say** in a *baraita*: **In the sixth** year of the Sabbatical cycle in the days of the arrival of the Messiah, heavenly **sounds** will be heard; **in the seventh** year there will be **wars; and upon the conclusion of the seventh** year, in the eighth year, **the son of David,** the Messiah, **will come?** The redemption will take place not during the seventh year but after it. The Gemara answers: Nevertheless, the **war** that takes place during the seventh year **is also the beginning of the redemption** process, and it is therefore correct to say that Israel will be redeemed in the seventh year.
+
 The placement in the seventh position also generates a textual tension that the *Gemara* addresses. A teaching is cited: in the sixth year are the *kolot*, sounds or premonitions of war; in the seventh year are the *milchamot*, the wars themselves; only after the seventh — in what would be the eighth year — does *ben David* arrive. If ultimate redemption comes only after the seventh, why place *geulah* in the seventh?
 
 The *Gemara* resolves this by invoking a phrase of great significance: *milchama nami atchalta degeulah hi* — even the war of the seventh year is itself the beginning of redemption. The wars are not a delay of *geulah* but its opening phase. The concept of *atchalta degeulah*, the beginning of the redemptive process, is foundational in thinking about how redemption unfolds — not as a single instantaneous event but as a process with stages, in which even apparent suffering and upheaval can represent the opening of something larger. This perspective becomes all the more pressing when considered against the backdrop of ongoing and difficult conflict in our own time.
 
 ### Refuah in Eighth
 
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר רְפוּאָה בִּשְׁמִינִית? אָמַר רַבִּי אַחָא: מִתּוֹךְ שֶׁנִּתְּנָה מִילָה בִּשְׁמִינִית שֶׁצְּרִיכָה רְפוּאָה — לְפִיכָךְ קְבָעוּהָ בִּשְׁמִינִית.
->
+> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר רְפוּאָה בִּשְׁמִינִית? אָמַר רַבִּי אַחָא: מִתּוֹךְ שֶׁנִּתְּנָה מִילָה בִּשְׁמִינִית שֶׁצְּרִיכָה רְפוּאָה — לְפִיכָךְ קְבָעוּהָ בִּשְׁמִינִית.
 > **Translation:** The Gemara continues: **And why did they see** fit to institute that one **says** the blessing of **healing as the eighth** blessing? **Rabbi Aḥa said: Since circumcision was assigned to the eighth** day of life, and circumcision **requires healing, consequently, they established** healing **as the eighth** blessing.
 
 With *geulah* placed seventh for reasons of symbolic numerology, *refuah* is necessarily displaced to the eighth position. The *Gemara* might have stopped there, but Rabbi Acha offers an additional reason: *mitoch she-nitna milah bishminis she-tzricha refuah* — because *milah* is given on the eighth day and requires healing, *refuah* is placed eighth. This is a correspondence of symbolic number rather than a logical sequence of ideas, and it is noticeably less satisfying than the carefully reasoned connections traced in the earlier *brachot*. The logical thread of *binah*-*teshuvah*-*selichah* gave way to a different mode of justification, one grounded in numerical symbolism.
@@ -102,15 +95,17 @@ With *geulah* placed seventh for reasons of symbolic numerology, *refuah* is nec
 
 ## Birchat Hashanim
 
-### Psalm 9 & Breaking Evil
 
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר בִּרְכַּת הַשָּׁנִים בִּתְשִׁיעִית? אָמַר רַבִּי אֲלֶכְּסַנְדְּרִי: כְּנֶגֶד מַפְקִיעֵי שְׁעָרִים, דִּכְתִיב: ״שְׁבוֹר זְרוֹעַ רָשָׁע״, וְדָוִד כִּי אַמְרַהּ — בִּתְשִׁיעִית אַמְרַהּ.
->
-> **Translation:** **And why did they see** fit to institute that one **says the blessing of** bountiful **years as the ninth** blessing? **Rabbi Alexandri said:** This blessing was instituted **in reference to those who raise the prices** of food. We pray for rain so that the price of produce will not rise as a result of shortages, **as it is written: "Break the arm of the wicked"** (Psalms 10:15), referring to the wicked, who practice deception and extort the poor. **And when David expressed this** request, **he expressed it in the ninth** psalm. Although today it is considered the tenth psalm, the first and second psalms are actually counted as one, and therefore this is the ninth psalm. Therefore, the blessing of the years was fixed as the ninth blessing.
+
+### Psalm 9 & Breaking Evil
 
 The *Gemara* continues: *u'mah ra'u lomar birchat hashanim bitshi'it* — why is *mevarech hashanim*, the *brachah* for sustenance and agricultural blessing, placed ninth? Rabbi Alexandri answers: it corresponds to those who manipulate prices — *kineged maskie she'arim* — the price-fixers who exploit the poor and deprive them of basic necessities. The verse cited is *shevor zero'a rasha*, "break the arm of the wicked," which in its context refers to those who use economic power to harm the vulnerable.
 
+> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר בִּרְכַּת הַשָּׁנִים בִּתְשִׁיעִית? אָמַר רַבִּי אֲלֶכְּסַנְדְּרִי: כְּנֶגֶד מַפְקִיעֵי שְׁעָרִים, דִּכְתִיב: ״שְׁבוֹר זְרוֹעַ רָשָׁע״, וְדָוִד כִּי אַמְרַהּ — בִּתְשִׁיעִית אַמְרַהּ.
+> **Translation:** **And why did they see** fit to institute that one **says the blessing of** bountiful **years as the ninth** blessing? **Rabbi Alexandri said:** This blessing was instituted **in reference to those who raise the prices** of food. We pray for rain so that the price of produce will not rise as a result of shortages, **as it is written: “Break the arm of the wicked”** (Psalms 10:15), referring to the wicked, who practice deception and extort the poor. **And when David expressed this** request, **he expressed it in the ninth** psalm. Although today it is considered the tenth psalm, the first and second psalms are actually counted as one, and therefore this is the ninth psalm. Therefore, the blessing of the years was fixed as the ninth blessing.
+
 ### Justice in Sustenance
+
 
 The connection being drawn is between the blessing of sustenance and the perversion of sustenance through injustice. The provision of *Birchat Hashanim* — the physical food and economic stability that allows people to live — is undermined precisely by those who manipulate markets and concentrate access to basic goods. Praying for the blessing of the years is thus not merely an agricultural petition; it carries within it an implicit demand for economic justice, that the basic sustenance God provides should actually reach those who need it. The numerical connection to the ninth is grounded in the fact that David articulated this in the ninth *perek* of Psalms — though there is a textual question worth noting: Rashi identifies it as the eighth *perek*, while another authority identifies it as the tenth. This discrepancy reflects the broader question of whether the first two *perakim* of Psalms were treated by *Chazal* as a single unit. The second *perek* does not open with a standard heading — no *mizmor le-David* or *lamnatze'ach* — and its final verse, *ashrei kol chosei vo*, echoes the opening of the first *perek*, *ashrei ha-ish*. This structural envelope suggests that what we now number as two were originally understood as one, which would shift all subsequent numbering accordingly.
 
@@ -118,21 +113,19 @@ The connection being drawn is between the blessing of sustenance and the pervers
 
 ## National Arc of Geulah
 
-### Gathering Exiles
 
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר קִיבּוּץ גָּלִיּוֹת לְאַחַר בִּרְכַּת הַשָּׁנִים? דִּכְתִיב: ״וְאַתֶּם הָרֵי יִשְׂרָאֵל עַנְפְּכֶם תִּתֵּנוּ וּפֶרְיְכֶם תִּשְׂאוּ לְעַמִּי יִשְׂרָאֵל כִּי קֵרְבוּ לָבוֹא״. וְכֵיוָן שֶׁנִּתְקַבְּצוּ גָּלִיּוֹת — נַעֲשֶׂה דִּין בָּרְשָׁעִים, שֶׁנֶּאֱמַר: ״וְאָשִׁיבָה יָדִי עָלַיִךְ וְאֶצְרוֹף כַּבּוֹר סִיגָיִךְ״, וּכְתִיב: ״וְאָשִׁיבָה שׁוֹפְטַיִךְ כְּבָרִאשׁוֹנָה״.
->
-> **Translation:** The Gemara asks: **And why did they see** fit to institute that one **says** the blessing of **the ingathering of** the **exiles after the blessing of the years? As it is written: "And you, O mountains of Israel, you shall shoot forth your branches, and yield your fruit to My people Israel; for they will soon be coming"** (Ezekiel 36:8), which indicates that the ingathering of the exiles will follow after Eretz Yisrael is blessed with bountiful produce. **And once the exiles have been gathered, judgment will be meted out to the wicked, as it is stated: "And I will turn my hand against you and purge away your dross as with lye"** (Isaiah 1:25), **and** immediately after **it is written: "And I will restore your judges as at first"** (Isaiah 1:26). For this reason the blessing of the restoration of judges comes after the blessing of the ingathering of the exiles.
+
+### Gathering Exiles
 
 With *birchat hashanim* established, the *Gemara* notes a pivot in the character of the middle *brachot*: *u'mah ra'u lomar kibbutz galuyot achar birchat hashanim* — why does *kibbutz galuyot*, the gathering of the exiles, follow the *brachah* of sustenance? The answer draws on a verse: *Ve'atem harei Yisrael anpechem titenu u'pirechem tisa'u le'ami Yisrael ki karevu lavo* — "and you, mountains of Israel, shall give forth your branches and bear your fruit for my people Israel, for the time of coming is near." The blossoming of the land and its agricultural abundance — which is precisely what *birchat hashanim* invokes — is itself a prophetic sign and foreshadowing of the impending redemption. The *brachah* of sustenance thus functions not only as a personal petition but as a threshold that opens into the national arc of *geulah*.
 
 From this point, the character of the *brachot* shifts from the personal to the national and collective.
 
+> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר קִיבּוּץ גָּלִיּוֹת לְאַחַר בִּרְכַּת הַשָּׁנִים? דִּכְתִיב: ״וְאַתֶּם הָרֵי יִשְׂרָאֵל עַנְפְּכֶם תִּתֵּנוּ וּפֶרְיְכֶם תִּשְׂאוּ לְעַמִּי יִשְׂרָאֵל כִּי קֵרְבוּ לָבוֹא״. וְכֵיוָן שֶׁנִּתְקַבְּצוּ גָּלִיּוֹת — נַעֲשֶׂה דִּין בָּרְשָׁעִים, שֶׁנֶּאֱמַר: ״וְאָשִׁיבָה יָדִי עָלַיִךְ וְאֶצְרוֹף כַּבּוֹר סִיגָיִךְ״, וּכְתִיב: ״וְאָשִׁיבָה שׁוֹפְטַיִךְ כְּבָרִאשׁוֹנָה״.
+> **Translation:** The Gemara asks: **And why did they see** fit to institute that one **says** the blessing of **the ingathering of** the **exiles after the blessing of the years? As it is written: “And you, O mountains of Israel, you shall shoot forth your branches, and yield your fruit to My people Israel; for they will soon be coming”** (Ezekiel 36:8), which indicates that the ingathering of the exiles will follow after Eretz Yisrael is blessed with bountiful produce. **And once the exiles have been gathered, judgment will be meted out to the wicked, as it is stated: “And I will turn my hand against you and purge away your dross as with lye”** (Isaiah 1:25), **and** immediately after **it is written: “And I will restore your judges as at first”** (Isaiah 1:26). For this reason the blessing of the restoration of judges comes after the blessing of the ingathering of the exiles.
+
 ### Din in Geulah
 
-> **Hebrew/Aramaic:** וְכֵיוָן שֶׁכָּלוּ הַפּוֹשְׁעִים — מִתְרוֹמֶמֶת קֶרֶן צַדִּיקִים, דִּכְתִיב: ״וְכׇל קַרְנֵי רְשָׁעִים אֲגַדֵּעַ תְּרוֹמַמְנָה קַרְנוֹת צַדִּיק״.
->
-> **Translation:** **And once the heretics cease to be, the horn,** i.e., the glory, **of the righteous will be exalted, as it is written: "All the horns of the wicked will I cut off; but the horns of the righteous shall be exalted"** (Psalms 75:11). Therefore, after the blessing of the heretics, one says the blessing about the righteous.
 
 Once the exiles are gathered, the *Gemara* explains, *na'asa din b'resha'im* — judgment is executed against the wicked. National restoration is not simply a matter of return and rebuilding; it necessarily entails the establishment of justice. The verse cited is *Ve'ashiva yadai alayich ve'etzrof kavor sigayich* — "I will turn my hand against you and smelt out your dross" — evoking the prophetic image of a painful but necessary process of purification in which the wicked are judged and a society grounded in *mishpat* is established.
 
@@ -142,9 +135,14 @@ Rashi notes that the *Gemara*'s specific emphasis on two categories — *posh'im
 
 ### Tzadikim & Gerim
 
-> **Hebrew/Aramaic:** וְכוֹלֵל גֵּירֵי הַצֶּדֶק עִם הַצַּדִּיקִים, שֶׁנֶּאֱמַר: ״מִפְּנֵי שֵׂיבָה תָּקוּם וְהָדַרְתָּ פְּנֵי זָקֵן״ — וּסְמִיךְ לֵיהּ: ״וְכִי יָגוּר אִתְּכֶם גֵּר״.
->
-> **Translation:** **And he includes the righteous converts along with the righteous, as it is stated: "You shall rise up before the hoary head, and honor the face of the elder"** (Leviticus 19:32), **and adjacent to this** it is stated: **"And if a stranger sojourns with you"** (Leviticus 19:33). An "elder" is one with Torah wisdom and a "stranger" is one who has converted to Judaism.
+> **Hebrew/Aramaic:** וְכֵיוָן שֶׁנַּעֲשָׂה דִּין מִן הָרְשָׁעִים — כָּלוּ הַפּוֹשְׁעִים, וְכוֹלֵל זֵדִים עִמָּהֶם, שֶׁנֶּאֱמַר: ״וְשֶׁבֶר פּוֹשְׁעִים וְחַטָּאִים יַחְדָּיו (יִכְלוּ)״.
+> **Translation:** **And once judgment is meted out to the wicked, the transgressors,** i.e., the heretics and sectarians, **will cease to be.** Consequently, the next blessing is that of the heretics, **and one includes evildoers with them, as it is stated: “And the destruction of the transgressors and of the sinners shall be together,** and they that forsake the Lord **shall cease to be”** (Isaiah 1:28). The “transgressors and sinners” are the evildoers, and “they that forsake the Lord” are the heretics.
+
+> **Hebrew/Aramaic:** וְכֵיוָן שֶׁכָּלוּ הַפּוֹשְׁעִים — מִתְרוֹמֶמֶת קֶרֶן צַדִּיקִים, דִּכְתִיב: ״וְכׇל קַרְנֵי רְשָׁעִים אֲגַדֵּעַ תְּרוֹמַמְנָה קַרְנוֹת צַדִּיק״. וְכוֹלֵל גֵּירֵי הַצֶּדֶק עִם הַצַּדִּיקִים, שֶׁנֶּאֱמַר: ״מִפְּנֵי שֵׂיבָה תָּקוּם וְהָדַרְתָּ פְּנֵי זָקֵן״ — וּסְמִיךְ לֵיהּ: ״וְכִי יָגוּר אִתְּכֶם גֵּר״.
+> **Translation:** **And once the heretics cease to be, the horn,** i.e., the glory, **of the righteous will be exalted, as it is written: “All the horns of the wicked will I cut off; but the horns of the righteous shall be exalted”** (Psalms 75:11). Therefore, after the blessing of the heretics, one says the blessing about the righteous. **And he includes the righteous converts along with the righteous, as it is stated: “You shall rise up before the hoary head, and honor the face of the elder”** (Leviticus 19:32), **and adjacent to this** it is stated: **“And if a stranger sojourns with you”** (Leviticus 19:33). An “elder” is one with Torah wisdom and a “stranger” is one who has converted to Judaism.
+
+> **Hebrew/Aramaic:** וְהֵיכָן מִתְרוֹמֶמֶת קַרְנָם — בִּירוּשָׁלַיִם, שֶׁנֶּאֱמַר: ״שַׁאֲלוּ שְׁלוֹם יְרוּשָׁלִָם יִשְׁלָיוּ אוֹהֲבָיִךְ״.
+> **Translation:** **And where will the horns** of the righteous **be exalted? In Jerusalem, as it is stated: “Pray for the peace of Jerusalem; they who love you shall prosper”** (Psalms 122:6). “They who love you” are the righteous. Therefore, the blessing of the rebuilding of Jerusalem is placed after the blessing of the righteous.
 
 Once the wicked are judged and the *posh'im* have been dealt with, *mitromemes keren tzadikim* — the horn of the righteous is lifted up. The *Gemara* cites: *Vechol karnei resha'im agade'a, teromamna karnot tzadik* — "I will cut down all the horns of the wicked, and the horn of the righteous will be raised." The suppression of wickedness and the elevation of righteousness are not separate events but two aspects of a single redemptive movement.
 
@@ -154,19 +152,15 @@ There is real depth here. The elevation of *tzadikim* in the process of *geulah*
 
 ### Jerusalem & Tzedek
 
-> **Hebrew/Aramaic:** וְהֵיכָן מִתְרוֹמֶמֶת קַרְנָם — בִּירוּשָׁלַיִם, שֶׁנֶּאֱמַר: ״שַׁאֲלוּ שְׁלוֹם יְרוּשָׁלִָם יִשְׁלָיוּ אוֹהֲבָיִךְ״.
->
-> **Translation:** **And where will the horns** of the righteous **be exalted? In Jerusalem, as it is stated: "Pray for the peace of Jerusalem; they who love you shall prosper"** (Psalms 122:6). "They who love you" are the righteous. Therefore, the blessing of the rebuilding of Jerusalem is placed after the blessing of the righteous.
-
 Where does righteousness flourish in its fullest expression? *B'Yerushalayim* — in Jerusalem. The *Gemara* asks: *Veheicha mitremez karna?* — where does this good take root? And the answer is anchored in the verse *Sha'alu shalom Yerushalayim yishlayu ohavayich* — "seek the peace of Jerusalem; those who love it will be at peace." The flourishing of righteousness leads to and is located within the rebuilt Jerusalem. One might have expected Jerusalem to appear earlier in the sequence — after all, a functioning system of courts and justice would seem to require a capital — but the *Gemara*'s point is about process: it is the full flowering of righteousness and good that constitutes the Jerusalem envisioned by the prophets, not merely the physical infrastructure of the city.
 
 This raises the perennial question of what *boneh Yerushalayim* means in our own time, when the physical Jerusalem is built up and flourishing to an unprecedented degree, yet the religious and spiritual Jerusalem of prophetic vision has not been fully realized. Rav Lichtenstein addressed this in the context of *Nachem* on *Tisha B'Av*, noting that the terms *ha'aveila veha'shomema* can be interpreted in a spiritual sense even when they are no longer literally true physically, and adjusting his own practice accordingly — though with characteristic conservatism about altering liturgical text.
 
 ### David's Kingship
 
-> **Hebrew/Aramaic:** וְכֵיוָן שֶׁנִּבְנֵית יְרוּשָׁלַיִם — בָּא דָּוִד, שֶׁנֶּאֱמַר:
->
+> **Hebrew/Aramaic:** וְכֵיוָן שֶׁנִּבְנֵית יְרוּשָׁלַיִם — בָּא דָּוִד, שֶׁנֶּאֱמַר:
 > **Translation:** **And once Jerusalem is rebuilt,** the Messiah, scion of the house of **David, will come, as it is stated:**
+
 
 Once Jerusalem is built: *vekivan she'nivnit Yerushalayim ba David* — then David comes. The *Gemara* cites: *Achar yashuvu b'nei Yisrael u'vikshu et Hashem Eloheihem v'et David malkam* — they will seek God and David their king. This is the climax of the national redemptive arc: the restoration of Davidic kingship, which presumably signifies *Mashiach*. The whole process — gathering of exiles, agricultural renewal, establishment of justice, judgment of the wicked, elevation of the righteous and of converts, the rebuilding of Jerusalem — culminates in this.
 
@@ -178,7 +172,12 @@ There is also a textual-historical dimension: evidence from the Tosefta suggests
 
 ## Prayer & Temple
 
+
+
 ### Shomea Tefillah
+
+> **Hebrew/Aramaic:** ״אַחַר יָשׁוּבוּ בְּנֵי יִשְׂרָאֵל וּבִקְשׁוּ אֶת ה׳ אֱלֹהֵיהֶם וְאֵת דָּוִד מַלְכָּם״. וְכֵיוָן שֶׁבָּא דָּוִד — בָּאתָה תְּפִלָּה, שֶׁנֶּאֱמַר: ״וַהֲבִיאוֹתִים אֶל הַר קׇדְשִׁי וְשִׂמַּחְתִּים בְּבֵית תְּפִלָּתִי״.
+> **Translation:** **“Afterward the children of Israel shall return, and seek the Lord their God and David their king”** (Hosea 3:5), and consequently, the blessing of the kingdom of David follows the blessing of the building of Jerusalem. **And once** the scion of **David comes,** the time for **prayer will come, as it is stated: “I will bring them to My sacred mountain and make them joyful in My house of prayer”** (Isaiah 56:7). Therefore, the blessing of hearing prayer is recited after the blessing of the kingdom of David.
 
 The *Gemara* continues: *vekivan sheba David ba'ah tefilla* — once we have the Davidic kingship, prayer arrives. The verse cited is: *Vahavi'otim el har kodshi vesimachtim b'veit tefillati* — "I will bring them to My holy mountain and gladden them in My house of prayer." What happens at the moment of messianic culmination? The Temple is reestablished — but the *Gemara* characterizes it as a house of *tefilla*, not a house of *korbanot*.
 
@@ -186,7 +185,10 @@ This is a striking framing. *Shomea Tefillah* in its natural function within *Sh
 
 ### Retzei & Service
 
-The *Gemara* continues to describe the progression toward the completion of the *Shmoneh Esrei*. From *tefilla* as the defining character of the renewed Temple, the *Gemara* moves to *retzei*: *vekivan sheba'at tefilla ba'at avodah* — now that prayer is established, the *avodah* follows. The verse: *Oloteichem v'zivicheichem l'ratzon al mizbechi ki beiti beit tefilla yikarei l'chol ha'amim* — "your burnt offerings and your sacrifices will be accepted upon My altar, for My house shall be called a house of prayer for all peoples." The sequence is maintained: the Temple as a house of prayer comes first, and then, as part of that reality, *korbanot* are accepted within it.
+> **Hebrew/Aramaic:** וְכֵיוָן שֶׁבָּאת תְּפִלָּה — בָּאת עֲבוֹדָה, שֶׁנֶּאֱמַר: ״עוֹלוֹתֵיהֶם וְזִבְחֵיהֶם לְרָצוֹן עַל מִזְבְּחִי״. וְכֵיוָן שֶׁבָּאת עֲבוֹדָה — בָּאתָה תּוֹדָה, שֶׁנֶּאֱמַר: ״זוֹבֵחַ תּוֹדָה יְכַבְּדָנְנִי״.
+> **Translation:** **And after prayer comes, the** Temple **service will arrive, as it is stated** in the continuation of that verse: **“Their burnt-offerings and their sacrifices shall be accepted on My altar”** (Isaiah 56:7). The blessing of restoration of the Temple service follows the blessing of hearing prayer. **And when the** Temple **service comes,** with it will also **come thanksgiving, as it is stated: “Whoever sacrifices a thanks-offering honors Me”** (Psalms 50:23), which teaches that thanksgiving follows sacrifice. Therefore, the blessing of thanksgiving follows the blessing of restoration of the Temple service.
+
+From *tefilla* as the defining character of the renewed Temple, the *Gemara* moves to *retzei*: *vekivan sheba'at tefilla ba'at avodah* — now that prayer is established, the *avodah* follows. The verse: *Oloteichem v'zivicheichem l'ratzon al mizbechi ki beiti beit tefilla yikarei l'chol ha'amim* — "your burnt offerings and your sacrifices will be accepted upon My altar, for My house shall be called a house of prayer for all peoples." The sequence is maintained: the Temple as a house of prayer comes first, and then, as part of that reality, *korbanot* are accepted within it.
 
 Stepping back from the *Gemara*'s framework, a more straightforward reading of *retzei* within the *Shmoneh Esrei* would see it as functioning alongside *shomea koleinu*: we have made our requests, asked that they be heard, and now we ask that our *avodah* — our *tefilla* standing in place of the *avodah* of the Temple — be accepted. This recalls the classic concept of *tefilla k'neged korbanot*: prayer as the substitute for sacrifice. The invocation of *avodah* in *retzei* evokes the time when *korbanot* were the mechanism by which service was offered and accepted.
 
@@ -200,7 +202,7 @@ Even within *retzei*, which is the one *brachah* most concerned with sacrifice, 
 
 This is not accidental. If one is establishing a religious community whose central act of *avodah* is *tefilla*, and if that community has no access to *korbanot*, it would be theologically counterproductive to construct the liturgy in a way that treats *tefilla* as a weak and inadequate substitute for the real thing. The *Shmoneh Esrei* does not do that. It establishes *tefilla* as the primary mode of service in its own right.
 
-One further detail is illuminating: the opening verse with which *Shmoneh Esrei* is introduced — *Hashem sefatai tiftach upi yagid tehilatecha* — appears in Psalms 51, and the very next verses read: *ki lo tachpotz zevach v'etena, olah lo tirtzeh — zivchei Elohim ruach nishbara, lev nishbar v'nidkeh Elohim lo tivzeh* — "for You do not desire sacrifice, that I should give it; burnt offering You do not want. The sacrifices of God are a broken spirit; a broken and contrite heart, O God, You will not despise." The verse with which *Shmoneh Esrei* is framed is thus drawn from a Psalm that explicitly subordinates *korbanot* to the inner service of the heart.
+One further detail is illuminating: the opening verse with which *Shmoneh Esrei* is introduced — *Hashem sefatai tiftach ufi yagid tehilatecha* — appears in Psalms 51, and the very next verses read: *ki lo tachpotz zevach v'etena, olah lo tirtzeh — zivchei Elohim ruach nishbara, lev nishbar v'nidkeh Elohim lo tivzeh* — "for You do not desire sacrifice, that I should give it; burnt offering You do not want. The sacrifices of God are a broken spirit; a broken and contrite heart, O God, You will not despise." The verse with which *Shmoneh Esrei* is framed is thus drawn from a Psalm that explicitly subordinates *korbanot* to the inner service of the heart.
 
 ### Modim
 
@@ -208,19 +210,29 @@ Once the service is complete — *vekivan sheba'at avodah ba'at todah* — thank
 
 ### Birkat Kohanim
 
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר בִּרְכַּת כֹּהֲנִים אַחַר הוֹדָאָה? דִּכְתִיב: ״וַיִּשָּׂא אַהֲרֹן אֶת יָדָיו אֶל הָעָם וַיְבָרְכֵם וַיֵּרֶד מֵעֲשׂוֹת הַחַטָּאת וְהָעוֹלָה וְהַשְּׁלָמִים״.
->
-> **Translation:** **And why did they see** fit to institute that one **says the Priestly Benediction after** the blessing of **thanksgiving? As it is written: "And Aaron lifted up his hand toward the people and blessed them, and he came down from sacrificing the sin-offering, and the burnt-offering, and the peace-offerings"** (Leviticus 9:22), teaching that the Priestly Benediction follows the sacrificial service, which includes the thanks-offering.
+> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר בִּרְכַּת כֹּהֲנִים אַחַר הוֹדָאָה? דִּכְתִיב: ״וַיִּשָּׂא אַהֲרֹן אֶת יָדָיו אֶל הָעָם וַיְבָרְכֵם וַיֵּרֶד מֵעֲשׂוֹת הַחַטָּאת וְהָעוֹלָה וְהַשְּׁלָמִים״.
+> **Translation:** **And why did they see** fit to institute that one **says the Priestly Benediction after** the blessing of **thanksgiving? As it is written: “And Aaron lifted up his hand toward the people and blessed them, and he came down from sacrificing the sin-offering, and the burnt-offering, and the peace-offerings”** (Leviticus 9:22), teaching that the Priestly Benediction follows the sacrificial service, which includes the thanks-offering.
 
-With *modim* complete, the *Gemara* turns to *birkat kohanim*: *u'mah ra'u lomar birkat kohanim achar hoda'ah* — why does the priestly blessing come after *modim*? The verse cited is: *Vayisa Aharon et yadav el ha'am vayivarechem vayered me'asot hachatat ve'ha'olah ve'hashlamim* — Aharon lifted his hands toward the people and blessed them, and then descended from performing the sacrificial service. The *Gemara* clarifies the temporal sequence: *meyasot*, "from having performed" — the verse uses the past tense, meaning Aharon first completed the sacrifices and *then* blessed the people. The blessing came after the service was done.
+> **Hebrew/Aramaic:** אֵימָא, קוֹדֶם עֲבוֹדָה? לָא סָלְקָא דַּעְתָּךְ, דִּכְתִיב: ״וַיֵּרֶד מֵעֲשׂוֹת הַחַטָּאת וְגוֹ׳״. מִי כְּתִיב ״לַעֲשׂוֹת״, ״מֵעֲשׂוֹת״ כְּתִיב.
+> **Translation:** The Gemara asks: But the cited verse indicates that Aaron blessed the people and then sacrificed the offerings. Should we not then **say** the Priestly Benediction **before the** blessing of the Temple **service?** The Gemara answers: **It should not enter your mind** to say this, **as it is written: “And he came down from sacrificing the sin-offering.” Is it written** that he came down **to sacrifice** the offerings, implying that after blessing the people Aaron came down and sacrificed the offerings? No, **it is written, “from sacrificing,”** indicating that the offerings had already been sacrificed.
 
-The logic is structurally elegant. The human being approaches God: we ask (*bakasha*), we ask to be heard (*shomea tefillah*), we ask that our service be accepted (*retzei*), we give thanks (*modim*). Having completed our part of the encounter, the divine response comes in the reverse direction: God blesses us through the medium of the *kohanim*. The verse *v'samu et shmi al benei Yisrael va'ani avarechem* — "they shall place My name upon the children of Israel, and I will bless them" — establishes that the priestly blessing is the vehicle of divine blessing flowing toward the human. The encounter is complete only when both directions have been traversed.
+> **Hebrew/Aramaic:** וְלֵימְרַהּ אַחַר הָעֲבוֹדָה! לָא סָלְקָא דַּעְתָּךְ, דִּכְתִיב: ״זוֹבֵחַ תּוֹדָה״.
+> **Translation:** The Gemara asks: If, as derived from this verse, the Priestly Benediction follows the sacrificial service, the Priestly Benediction should be **said** immediately **after** the blessing of restoration of **the** Temple **service,** without the interruption of the blessing of thanksgiving. The Gemara rejects this argument: **It should not enter your mind** to say this, **as it is written: “Whoever sacrifices a thanks-offering** honors Me,” from which we learn that thanksgiving follows sacrifice, as already explained.
+
+> **Hebrew/Aramaic:** מַאי חָזֵית דְּסָמְכַתְּ אַהַאי, סְמוֹךְ אַהַאי! מִסְתַּבְּרָא עֲבוֹדָה וְהוֹדָאָה חֲדָא מִילְּתָא הִיא.
+> **Translation:** The Gemara asks: **What did you see to rely on this** verse and juxtapose thanksgiving with sacrifice? **Rely** rather **on the other** verse, which indicates that it is the Priestly Benediction that should be juxtaposed with the sacrificial service. The Gemara answers: **It stands to reason** to have the blessing of thanksgiving immediately following the blessing of the sacrificial service, since the sacrificial **service and thanksgiving,** which are closely related conceptually, **are one matter.**
+
+
+With *modim* complete, the *Gemara* turns to *birkat kohanim*: *u'mah ra'u lomar birkat kohanim achar hoda'ah* — why does the priestly blessing come after *modim*? The verse cited is: *Vayisa Aharon et yadav el ha'am vayivarechem vayered me'asot hachatat ve'ha'olah ve'hashlamim* — Aharon lifted his hands toward the people and blessed them, and then descended from performing the sacrificial service. The *Gemara* clarifies the temporal sequence: *me'asot*, "from having performed" — the verse uses the past tense, meaning Aharon first completed the sacrifices and *then* blessed the people. The blessing came after the service was done.
+
+But a question arises: why not place *birkat kohanim* immediately after *retzei*, right after the *avodah*, before *modim*? The *Gemara* answers: *lo salka datcha de-chtiv zove'ach todah* — the *korban todah*, the thanksgiving sacrifice, is itself part of the *avodah*. You cannot extract *modim* from the sacrificial service and treat it as something tacked on afterward; *mistabra avodah ve'hoda'ah chada milta hi* — it makes sense that *avodah* and *hoda'ah* are one thing. The *birkat kohanim* must therefore wait until *modim* is complete, because *modim* is not a separate coda to the service but part of the service itself.
+
+The logic is structurally elegant. The human being approaches God: we ask (*bakasha*), we ask to be heard (*shomea tefillah*), we ask that our service be accepted (*retzei*), we give thanks (*modim*). Having completed our part of the encounter, the divine response comes in the reverse direction: God blesses us through the medium of the *kohanim*. The verse *v'samu et shemi al benei Yisrael va'ani avarechem* — "they shall place My name upon the children of Israel, and I will bless them" — establishes that the priestly blessing is the vehicle of divine blessing flowing toward the human. The encounter is complete only when both directions have been traversed.
 
 ### Shim Shalom
 
-> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר ״שִׂים שָׁלוֹם״ אַחַר בִּרְכַּת כֹּהֲנִים? דִּכְתִיב: ״וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם״, בְּרָכָה דְּהַקָּדוֹשׁ בָּרוּךְ הוּא שָׁלוֹם, שֶׁנֶּאֱמַר: ״ה׳ יְבָרֵךְ אֶת עַמּוֹ בַשָּׁלוֹם״.
->
-> **Translation:** **And why did they see** fit to institute that one **says** the blessing beginning with the words: **Grant peace, after the Priestly Benediction? As it is written** immediately following the Priestly Benediction: **"And they shall put My name upon the children of Israel, and I will bless them"** (Numbers 6:27). The Priestly Benediction is followed by God's blessing, and **the blessing of the Holy One, Blessed be He, is peace, as it is stated: "The Lord blesses His people with peace"** (Psalms 29:11).
+> **Hebrew/Aramaic:** וּמָה רָאוּ לוֹמַר ״שִׂים שָׁלוֹם״ אַחַר בִּרְכַּת כֹּהֲנִים? דִּכְתִיב: ״וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם״, בְּרָכָה דְּהַקָּדוֹשׁ בָּרוּךְ הוּא שָׁלוֹם, שֶׁנֶּאֱמַר: ״ה׳ יְבָרֵךְ אֶת עַמּוֹ בַשָּׁלוֹם״.
+> **Translation:** **And why did they see** fit to institute that one **says** the blessing beginning with the words: **Grant peace, after the Priestly Benediction? As it is written** immediately following the Priestly Benediction: **“And they shall put My name upon the children of Israel, and I will bless them”** (Numbers 6:27). The Priestly Benediction is followed by God’s blessing, and **the blessing of the Holy One, Blessed be He, is peace, as it is stated: “The Lord blesses His people with peace”** (Psalms 29:11).
 
 Finally: *u'mah ra'u lomar sim shalom achar birkat kohanim* — why does *sim shalom* follow *birkat kohanim*? The verse cited is: *Hashem yivarech et amo bashalom* — "God will bless His people with peace." The divine blessing channeled through the *kohanim* finds its culmination and expression in *shalom*. Notably, the *Gemara* could have cited the final verse of *birkat kohanim* itself — *v'yasem lecha shalom* — which would have been the most direct textual bridge. But in any case, the logic is clear: once God has blessed us, that blessing takes the form of peace.
 
@@ -230,21 +242,25 @@ The *Gemara* frames *shalom* as a *kli*, a vessel — the container that holds a
 
 ## Prohibition on Praise
 
-### Fixed Liturgy
 
-> **Hebrew/Aramaic:** מִכָּאן וְאֵילָךְ, אָסוּר לְסַפֵּר בְּשִׁבְחוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא. דְּאָמַר רַבִּי אֶלְעָזָר, מַאי דִּכְתִיב: ״מִי יְמַלֵּל גְּבוּרוֹת ה׳ יַשְׁמִיעַ כׇּל תְּהִלָּתוֹ״, לְמִי נָאֶה לְמַלֵּל גְּבוּרוֹת ה׳ לְמִי שֶׁיָּכוֹל לְהַשְׁמִיעַ כׇּל תְּהִלָּתוֹ.
->
-> **Translation:** These nineteen blessings are a fixed number, and **beyond this it is prohibited** for one **to declare the praises of the Holy One, Blessed be He,** by adding additional blessings to the *Amida*. As **Rabbi Elazar said: What is** the meaning of that **which is written: "Who can utter the mighty acts of the Lord? Who can declare all His praise?"** (Psalms 106:2)? It means: **For whom is it fitting to utter the mighty acts of the Lord?** Only **for one who can declare all His praise.** And since no one is capable of declaring all of God's praises, we must suffice with the set formula established by the Sages.
+
+### Fixed Liturgy
 
 Having traced the logic and sequence of all eighteen *brachot*, the *Gemara* turns to a striking principle that governs how one relates to that liturgy. *Mikan ve'eilach asur lesaper b'shivcho shel makom* — from this point on, one may not elaborate on God's praise beyond what has been established. The fixed liturgy is not a limitation on piety; it is its protection. The very comprehensiveness of *Shmoneh Esrei* — eighteen *brachot* covering the full range of human need and aspiration — carries with it the acknowledgment that even this does not begin to exhaust what could be said about God. Adding further praise beyond the fixed structure does not enhance one's devotion; it is actually forbidden.
 
 The reasoning is precise: any attempt to enumerate God's praises implies the project of completing that enumeration. Since the task is impossible — no finite being can speak all of God's praises — every attempt to go further falls short in a way that is worse than not attempting it. The fixed liturgy sidesteps this trap. By working within an established form, one does not claim to be saying everything; one is simply fulfilling an obligation. The moment one departs from the fixed form to add one's own elaborations, one implicitly takes on the impossible task of completing what cannot be completed.
 
+> **Hebrew/Aramaic:** מִכָּאן וְאֵילָךְ, אָסוּר לְסַפֵּר בְּשִׁבְחוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא. דְּאָמַר רַבִּי אֶלְעָזָר, מַאי דִּכְתִיב: ״מִי יְמַלֵּל גְּבוּרוֹת ה׳ יַשְׁמִיעַ כׇּל תְּהִלָּתוֹ״, לְמִי נָאֶה לְמַלֵּל גְּבוּרוֹת ה׳ לְמִי שֶׁיָּכוֹל לְהַשְׁמִיעַ כׇּל תְּהִלָּתוֹ.
+> **Translation:** The Gemara comments: These nineteen blessings are a fixed number, and **beyond this it is prohibited** for one **to declare the praises of the Holy One, Blessed be He,** by adding additional blessings to the *Amida*. As **Rabbi Elazar said: What is** the meaning of that **which is written: “Who can utter the mighty acts of the Lord? Who can declare all His praise?”** (Psalms 106:2)? It means: **For whom is it fitting to utter the mighty acts of the Lord?** Only **for one who can declare all His praise.** And since no one is capable of declaring all of God’s praises, we must suffice with the set formula established by the Sages.
+
+> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: הַמְסַפֵּר בְּשִׁבְחוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא יוֹתֵר מִדַּאי — נֶעֱקָר מִן הָעוֹלָם, שֶׁנֶּאֱמַר: ״הַיְסוּפַּר לוֹ כִּי אֲדַבֵּר אִם אָמַר אִישׁ כִּי יְבֻלָּע״.
+> **Translation:** **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said:** With regard to **one who excessively declares the praises of the Holy One, Blessed be He,** his fate **is** to be **uprooted from the world,** as it appears as if he had exhausted all of God’s praises. **As it is stated: “Shall it be told to Him when I speak? If a man says** it, **he would be swallowed up”** (Job 37:20). The Gemara interprets the verse as saying: Can all of God’s praises be expressed when I speak? If a man would say such a thing, he would be “swallowed up” as punishment.
+
 ### Kol HaMosif Goreia
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: הַמְסַפֵּר בְּשִׁבְחוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא יוֹתֵר מִדַּאי — נֶעֱקָר מִן הָעוֹלָם, שֶׁנֶּאֱמַר: ״הַיְסוּפַּר לוֹ כִּי אֲדַבֵּר אִם אָמַר אִישׁ כִּי יְבֻלָּע״.
->
-> **Translation:** **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said:** With regard to **one who excessively declares the praises of the Holy One, Blessed be He,** his fate **is** to be **uprooted from the world,** as it appears as if he had exhausted all of God's praises. **As it is stated: "Shall it be told to Him when I speak? If a man says** it, **he would be swallowed up"** (Job 37:20). The Gemara interprets the verse as saying: Can all of God's praises be expressed when I speak? If a man would say such a thing, he would be "swallowed up" as punishment.
+> **Hebrew/Aramaic:** וְכִי מֵאַחַר דְּמֵאָה וְעֶשְׂרִים זְקֵנִים וּמֵהֶם כַּמָּה נְבִיאִים תִּקְּנוּ תְּפִלָּה עַל הַסֵּדֶר, שִׁמְעוֹן הַפָּקוֹלִי מַאי הִסְדִּיר? שְׁכָחוּם, וְחָזַר וְסִדְּרוֹם.
+> **Translation:** The Gemara returns to the *baraita* cited at the beginning of the discussion: **Now, since** the *baraita* teaches that **a hundred and twenty Elders, including many prophets, established the** *Amida* **prayer in its** fixed **order, what** is it that **Shimon HaPakuli arranged** in a much later period of time, as related by Rabbi Yoḥanan? The Gemara answers: Indeed, the blessings of the *Amida* prayer were originally arranged by the hundred and twenty members of the Great Assembly, but over the course of time the people **forgot them, and** Shimon HaPakuli then **arranged them again.**
+
 
 Rabbi Elazar states: *mai d'chtiv mi yimalel gevurot Hashem yashmia kol tehilato* — "who will speak of God's mighty deeds and make heard all of God's praises?" The verse poses a question: *l'mi na'eh l'malel gevurot Hashem?* — to whom is it fitting to speak of God's great deeds? The answer: only to one who is capable of making heard *all* of God's praises. Since no human being can do that, no human being is truly in a position to elaborate beyond the fixed form.
 
@@ -256,9 +272,8 @@ The *Gemara* in Berakhot tells the story of a *shliach tzibur* who was adding a 
 
 ### Silence Praised
 
-> **Hebrew/Aramaic:** דָּרֵשׁ רַבִּי יְהוּדָה אִישׁ כְּפַר גִּבּוֹרַיָּא, וְאָמְרִי לַהּ אִישׁ כְּפַר גִּבּוֹר חַיִל: מַאי דִּכְתִיב: ״לְךָ דוּמִיָּה תְהִלָּה״? סַמָּא דְּכוֹלָּה — מַשְׁתּוּקָא. כִּי אֲתָא רַב דִּימִי, אֲמַר: אָמְרִי בְּמַעְרְבָא: מִלָּה — בְּסֶלַע, מַשְׁתּוּקָא — בִּתְרֵין.
->
-> **Translation:** The Gemara relates: **Rabbi Yehuda, a man of Kefar Gibboraya, and some say** he was **a man of Kefar Gibbor Ĥayil, taught: What is** the meaning of that **which is written: "For You silence is praise"** (Psalms 65:2)? **The** best **remedy of all is silence,** i.e., the optimum form of praising God is silence. The Gemara relates: **When Rav Dimi came** from Eretz Israel to Babylonia, **he said: In the West,** Eretz Yisrael, **they say** an adage: If **a word is** worth one ***sela*, silence is** worth **two.**
+> **Hebrew/Aramaic:** דָּרֵשׁ רַבִּי יְהוּדָה אִישׁ כְּפַר גִּבּוֹרַיָּא, וְאָמְרִי לַהּ אִישׁ כְּפַר גִּבּוֹר חַיִל: מַאי דִּכְתִיב: ״לְךָ דוּמִיָּה תְהִלָּה״? סַמָּא דְּכוֹלָּה — מַשְׁתּוּקָא. כִּי אֲתָא רַב דִּימִי, אֲמַר: אָמְרִי בְּמַעְרְבָא: מִלָּה — בְּסֶלַע, מַשְׁתּוּקָא — בִּתְרֵין.
+> **Translation:** The Gemara relates: **Rabbi Yehuda, a man of Kefar Gibboraya, and some say** he was **a man of Kefar Gibbor Ĥayil, taught: What is** the meaning of that **which is written: “For You silence is praise”** (Psalms 65:2)? **The** best **remedy of all is silence,** i.e., the optimum form of praising God is silence. The Gemara relates: **When Rav Dimi came** from Eretz Israel to Babylonia, **he said: In the West,** Eretz Yisrael, **they say** an adage: If **a word is** worth one ***sela*, silence is** worth **two.**
 
 The positive formulation of this principle is given by Rabbi Yehuda of *Kfar Gvraya*: *mai d'chtiv lecha dumiyah tehilla* — what is meant by the verse "to You, silence is praise"? *Sama d'kula mashtoka* — the medicine for all of this is silence. Rav Dimi brings a formulation from the schools of *Eretz Yisrael*: *mila b'sela, mashtoka b'trein* — a word is worth a *sela*, silence is worth two. This is more than a rhetorical flourish. Silence, in the context of speaking about God, is not merely the absence of words; it is the most theologically accurate response to the infinite. The moment words are spoken, the infinite is being measured against finite categories. Silence preserves the acknowledgment that the reality of God exceeds everything that can be said.
 

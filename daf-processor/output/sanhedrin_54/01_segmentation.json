@@ -117,7 +117,7 @@
           "timestamp": "31:03"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -131,8 +131,8 @@
           "timestamp": "35:46"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Intercourse with a Male: Prohibition and Punishment",
@@ -145,7 +145,7 @@
           "timestamp": "37:54"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -193,7 +193,7 @@
           "timestamp": "46:18"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 28,
       "matched": true
     },
     {
@@ -222,8 +222,8 @@
           "timestamp": "51:54"
         }
       ],
-      "sefaria_index": 34,
-      "matched": true
+      "sefaria_index": 28,
+      "matched": false
     },
     {
       "title": "Multiple Acts in One State of Forgetfulness: How Many Sin Offerings",
@@ -241,8 +241,8 @@
           "timestamp": "55:50"
         }
       ],
-      "sefaria_index": 40,
-      "matched": true
+      "sefaria_index": 28,
+      "matched": false
     },
     {
       "title": "Multiple Acts in One State of Forgetfulness: How Many Sin Offerings (continued)",
@@ -265,7 +265,7 @@
           "timestamp": "60:13"
         }
       ],
-      "sefaria_index": 43,
+      "sefaria_index": 34,
       "matched": true
     },
     {
@@ -279,7 +279,7 @@
           "timestamp": "56:17"
         }
       ],
-      "sefaria_index": 43,
+      "sefaria_index": 34,
       "matched": false
     }
   ],
@@ -465,5 +465,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 31
+  "amud_b_sefaria_index": 31,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "46:18",
+  "amud_b_micro_title": "Passive's Prohibition",
+  "shiur_start_daf": 54,
+  "shiur_start_amud": "a"
 }

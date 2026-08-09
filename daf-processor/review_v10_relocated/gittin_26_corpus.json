@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Pre-written Forms",
+    "candidates": [
+      "Pre-written Forms",
+      "Leaving Blanks",
+      "Lishmah Concern",
+      "Loan Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishnah introducing the practice of pre-writing tofes forms, which is exactly what the 'Pre-written Forms' section prose describes \u2014 the hakotev tofsei gittin case and the analogy to pre-prepared boilerplate forms.",
+      "chosen_heading": "Pre-written Forms",
+      "current_heading": "Pre-written Forms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Loan Documents",
+    "candidates": [
+      "Leaving Blanks",
+      "Lishmah Concern",
+      "Loan Documents",
+      "Sale Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is about loan documents (shtarei milveh) and the requirement to leave blanks for lender, borrower, amount, and date, which matches exactly the prose of the 'Loan Documents' section.",
+      "chosen_heading": "Loan Documents",
+      "current_heading": "Loan Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sale Documents",
+    "candidates": [
+      "Sale Documents",
+      "Takanah Principle",
+      "Tanna Kamma",
+      "Rabbi Yehuda Position",
+      "Rabbi Eliezer",
+      "Tosafot Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific blanks required in sale documents (buyer, seller, price, field, date), which is exactly what the 'Sale Documents' section prose discusses.",
+      "chosen_heading": "Sale Documents",
+      "current_heading": "Sale Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Tosafot Reading",
+    "candidates": [
+      "Takanah Principle",
+      "Tanna Kamma",
+      "Rabbi Yehuda Position",
+      "Rabbi Eliezer",
+      "Tosafot Reading",
+      "Harei at Muteret",
+      "Toref Requirement",
+      "Gemara Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda invalidating all documents and Rabbi Elazar validating all except gittin with the lishmah verse, which is precisely the content described in the 'Rabbi Yehuda Position' and 'Rabbi Eliezer' sections \u2014 but since the passage covers both opinions together and the essay structure places Rabbi Yehuda's section (index 2) before Rabbi Elazar's (index 3), and the passage opens with Rabbi Yehuda's ruling, it most naturally belongs under the 'Rabbi Yehuda Position' heading where the Mishnaic text presenting both rulings would first appear.",
+      "chosen_heading": "Rabbi Yehuda Position",
+      "current_heading": "Tosafot Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Gemara Attribution",
+    "candidates": [
+      "Harei at Muteret",
+      "Toref Requirement",
+      "Gemara Attribution",
+      "Three Cases",
+      "Why Three Cases",
+      "Rabbeinu Tam Practice",
+      "Takanat Sofrim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content of candidate 4 ('Why Three Cases'): Rav Yehuda amar Shmuel's ruling about harei at muteret, the attribution to Rabbi Elazar, and then the ve-tzricha argument explaining why each of the three mishnayot required its own explicit attribution \u2014 which is precisely what candidate 4's prose discusses in detail.",
+      "chosen_heading": "Why Three Cases",
+      "current_heading": "Gemara Attribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Takanat Sofrim",
+    "candidates": [
+      "Three Cases",
+      "Why Three Cases",
+      "Rabbeinu Tam Practice",
+      "Takanat Sofrim",
+      "Takanat Ketata",
+      "Takanat Agunot",
+      "Agunot Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items discuss the takanat sofrim rationale (items 1-3), the Rabbi Elazar/vechatav lah issue (items 4-5), and the trei tanna'ei resolution (item 6), which precisely matches the 'Takanat Sofrim' prose section's detailed description of these exact topics in this exact order.",
+      "chosen_heading": "Takanat Sofrim",
+      "current_heading": "Takanat Sofrim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Agunot Application",
+    "candidates": [
+      "Takanat Ketata",
+      "Takanat Agunot",
+      "Agunot Application",
+      "Get for Arusa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Takanat Ketata",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Shabbetai/\u1e24izkiyya's 'mishum ketata' (quarrel-prevention) rationale, which matches the 'Takanat Ketata' prose exactly.",
+      "second_heading": "Takanat Agunot",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present Rav \u1e24isda/Avimi's 'mishum takkanat agunot' rationale with both Rabbi Meir and Rabbi Elazar applications, matching the 'Takanat Agunot' prose exactly.",
+      "current_heading": "Agunot Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Get for Arusa",
+    "candidates": [
+      "Agunot Application",
+      "Get for Arusa",
+      "Takanas Valad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's analysis of why the date must be left blank in a get, specifically contrasting the nisuin and erusin cases and raising the objection that an arusa has no peiros \u2014 which is precisely what the 'Get for Arusa' prose describes.",
+      "chosen_heading": "Get for Arusa",
+      "current_heading": "Get for Arusa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Takanas Valad",
+    "candidates": [
+      "Takanas Valad",
+      "Reputation Concern",
+      "Arusa Protection",
+      "Rabbi Elazar Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Amram's report of hearing the 'takanas valad' explanation from Ulla and the baraita about writing a get for a betrothed woman, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Takanas Valad",
+      "current_heading": "Takanas Valad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rabbi Elazar Ruling",
+    "candidates": [
+      "Reputation Concern",
+      "Arusa Protection",
+      "Rabbi Elazar Ruling",
+      "Other Documents",
+      "Mechezi k'Shikra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the chain-transmission ruling that the halakha follows Rabbi Elazar and Rav's praise of him as 'tuveina d'hakimi,' which is precisely what the 'Rabbi Elazar Ruling' prose section describes.",
+      "chosen_heading": "Rabbi Elazar Ruling",
+      "current_heading": "Rabbi Elazar Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Mechezi k'Shikra",
+    "candidates": [
+      "Other Documents",
+      "Mechezi k'Shikra",
+      "Non-Get Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins by asking whether Rabbi Elazar's ruling extends to other documents, then immediately introduces Rav Pappi/Rava's case as a counter-argument \u2014 the entire unit belongs under the 'Other Documents' heading which frames this exact question, while the current heading 'Mechezi k'Shikra' only describes the Rava sub-point without the framing question.",
+      "chosen_heading": "Other Documents",
+      "current_heading": "Mechezi k'Shikra",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Non-Get Leniency",
+    "candidates": [
+      "Mechezi k'Shikra",
+      "Non-Get Leniency",
+      "Pre-writing Leniency",
+      "Ketubah Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man's statement about Rabbi Meir's ruling (found in garbage, signed and valid) and the limitation that Rabbis only dispute Rabbi Meir for gittin due to lishmah, which is precisely what candidate 1's prose describes and the current placement covers.",
+      "chosen_heading": "Non-Get Leniency",
+      "current_heading": "Non-Get Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Ketubah Practice",
+    "candidates": [
+      "Pre-writing Leniency",
+      "Ketubah Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content\u2014Rabbi Asi citing Rabbi Yochanan about a repaid promissory note that cannot be reused because its lien was discharged, with the inference that pre-writing is not a shikra concern\u2014is precisely what the 'Ketubah Practice' prose discusses, including the same Aramaic phrase 'ta'ama d'nimchal shibudo, aval mishum shikra lo chaishinan.'",
+      "chosen_heading": "Ketubah Practice",
+      "current_heading": "Ketubah Practice",
+      "moved": false
+    }
+  }
+]

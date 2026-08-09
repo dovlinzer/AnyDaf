@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two Prohibitions",
+    "candidates": [
+      "Two Prohibitions",
+      "Rabbi Yossi: Two",
+      "Rabbi Shimon: One",
+      "Lo Kashya Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita including both Rabbi Yosei's and Rabbi Shimon's positions plus the immediate contradiction about Rabbi Shimon's conflicting statements, which matches the 'Two Prohibitions' section prose that describes the baraita opening into a major conceptual discussion \u2014 the subsequent headings break down the individual components that this passage introduces all at once.",
+      "chosen_heading": "Two Prohibitions",
+      "current_heading": "Two Prohibitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Lo Kashya Reconciliation",
+    "candidates": [
+      "Rabbi Yossi: Two",
+      "Rabbi Shimon: One",
+      "Lo Kashya Reconciliation",
+      "Marriage Sequence Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the lo kashya resolution itself, explaining the two different factual sequences (nasa chai then nasa mes vs. nasa mes then nasa chai), which is precisely what the 'Lo Kashya Reconciliation' section's prose describes.",
+      "chosen_heading": "Lo Kashya Reconciliation",
+      "current_heading": "Lo Kashya Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Marriage Sequence Example",
+    "candidates": [
+      "Marriage Sequence Example",
+      "Concept Introduction",
+      "Rav Ashi: Hovering",
+      "Status Replacement Rules",
+      "Yibbum Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage asks why Rabbi Shimon's ruling doesn't lead to yibbum being performed when the deceased married first (since achos isha never took effect), which is precisely the yibbum paradox that the 'Yibbum Paradox' section's prose addresses \u2014 the self-sealing mechanism preventing yibbum.",
+      "chosen_heading": "Yibbum Paradox",
+      "current_heading": "Marriage Sequence Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Yibbum Paradox",
+    "candidates": [
+      "Concept Introduction",
+      "Rav Ashi: Hovering",
+      "Status Replacement Rules",
+      "Yibbum Paradox",
+      "Contradiction Question",
+      "Mother-in-law Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's exact statement about the prohibition of achos isha 'hovering' (miktala tali vekay), which is precisely what the 'Rav Ashi: Hovering' section's prose describes, not the Yibbum Paradox section which discusses the consequence of that hovering.",
+      "chosen_heading": "Rav Ashi: Hovering",
+      "current_heading": "Yibbum Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Mother-in-law Case",
+    "candidates": [
+      "Contradiction Question",
+      "Mother-in-law Case",
+      "First Relationship Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge questioning whether Rabbi Yosei holds 'issur chal al issur,' which directly matches the 'Contradiction Question' section's prose about the tension in Rabbi Yosei's position, not the 'Mother-in-law Case' section which discusses the content of the baraita answer rather than the question itself.",
+      "chosen_heading": "Contradiction Question",
+      "current_heading": "Mother-in-law Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "First Relationship Rule",
+    "candidates": [
+      "Mother-in-law Case",
+      "First Relationship Rule",
+      "Sequence: Status Apply",
+      "Rabbi Abbahu Resolution",
+      "Issur Mosif Definition",
+      "Mosif Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 explaining Rabbi Yossi's rule about being judged by the first relationship, with the mother-in-law/married woman examples \u2014 is precisely what heading 0 ('Mother-in-law Case') introduces and discusses, while heading 1's prose already describes and analyzes these same examples as if the baraita has already been quoted.",
+      "chosen_heading": "Mother-in-law Case",
+      "current_heading": "First Relationship Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Mosif Example",
+    "candidates": [
+      "Sequence: Status Apply",
+      "Rabbi Abbahu Resolution",
+      "Issur Mosif Definition",
+      "Mosif Example",
+      "Issur Kolel Definition",
+      "Kolel Example",
+      "Kolel & Double Issurim",
+      "Rava's Formulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion of the *issur mosif* distinction in the specific case of *achos isha* and *eshes ach* \u2014 exactly what the 'Mosif Example' prose describes, including the *migo d'itosaf issur legabei achim* logic, the reverse-sequence question (*mai issur mosif ika*), and the identification of the alternative argument as *issur kolel* rather than *issur mosif*.",
+      "chosen_heading": "Mosif Example",
+      "current_heading": "Mosif Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rava's Formulation",
+    "candidates": [
+      "Issur Kolel Definition",
+      "Kolel Example",
+      "Kolel & Double Issurim",
+      "Rava's Formulation",
+      "Mah Nafka Mina",
+      "Burial Application",
+      "Zar BeShabbat",
+      "Rabbi Chiyya vs. Bar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's formulation ('maaleh ani alav k'ilu asah shtayim v'eino chayav ela achas') and the citation of Rabbi Yochanan via Ravin, which is precisely what the prose under 'Rava's Formulation' describes and analyzes.",
+      "chosen_heading": "Rava's Formulation",
+      "current_heading": "Rava's Formulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Rabbi Chiyya vs. Bar",
+    "candidates": [
+      "Mah Nafka Mina",
+      "Burial Application",
+      "Zar BeShabbat",
+      "Rabbi Chiyya vs. Bar",
+      "Chiyya's Logic",
+      "Bar Kappara Logic",
+      "Ba'al Mum BeTemeiut"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Chiyya vs. Bar",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the zar b'Shabbat dispute \u2014 the oaths and the logical deliberations of Rabbi Chiyya and Bar Kappara \u2014 which is exactly what headings 3, 4, and 5 discuss; since all three items of the oaths and reasoning for the zar case belong together under heading 3 (current placement covers the oaths) with 4 and 5 covering the reasoning, but items 1-2 as a unit best fit under heading 3 as the current placement.",
+      "second_heading": "Ba'al Mum BeTemeiut",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the entirely new parallel case of ba'al mum sheshimmesh b'tuma, which is structurally a new scenario with its own facts, matching heading 6 'Ba'al Mum BeTemeiut' precisely.",
+      "current_heading": "Rabbi Chiyya vs. Bar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Ba'al Mum BeTemeiut",
+    "candidates": [
+      "Chiyya's Logic",
+      "Bar Kappara Logic",
+      "Ba'al Mum BeTemeiut",
+      "Zar Melikah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses a blemished kohen (ba'al mum) serving while tamei, with Rabbi Chiyya and Bar Kappara's competing logics about tumah dispensation \u2014 exactly what heading 2 ('Ba'al Mum BeTemeiut') describes in its prose.",
+      "chosen_heading": "Ba'al Mum BeTemeiut",
+      "current_heading": "Ba'al Mum BeTemeiut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Zar Melikah",
+    "candidates": [
+      "Zar Melikah",
+      "Reframing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rabbi \u1e24iyya and Bar Kappara over a non-priest eating from a bird offering killed by melikah, including their oaths and reasonings, which is precisely what the 'Zar Melikah' section prose describes in detail.",
+      "chosen_heading": "Zar Melikah",
+      "current_heading": "Zar Melikah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Reframing Question",
+    "candidates": [
+      "Reframing Question",
+      "Chiyya: Kolel Applies",
+      "Bar Kappara: Issur Kolel",
+      "Zar BeShabbat Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's reframing question ('bemai kamifligi') and its answer that the dispute concerns issur kolel according to Rabbi Yosei, along with both positions (Rabbi Chiyya and Bar Kappara) in a single unified statement \u2014 this matches the 'Reframing Question' heading's prose which describes exactly this moment where the gemara steps back and proposes the unified deeper question about issur kolel.",
+      "chosen_heading": "Reframing Question",
+      "current_heading": "Reframing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Zar BeShabbat Analysis",
+    "candidates": [
+      "Chiyya: Kolel Applies",
+      "Bar Kappara: Issur Kolel",
+      "Zar BeShabbat Analysis",
+      "Ba'al Mum Analysis",
+      "Melikah Problem",
+      "Simultaneous Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's analysis of the zar/Shabbat case as an instance of issur kolel, which is precisely what the 'Zar BeShabbat Analysis' section's prose describes.",
+      "chosen_heading": "Zar BeShabbat Analysis",
+      "current_heading": "Zar BeShabbat Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Simultaneous Prohibition",
+    "candidates": [
+      "Ba'al Mum Analysis",
+      "Melikah Problem",
+      "Simultaneous Prohibition",
+      "Scenarios Constructed",
+      "Zar Bar Mitzvah",
+      "Kohein Bar Mitzvah",
+      "Knife Injury Alternative",
+      "Both Heard Rebbe",
+      "Different Tannaim",
+      "Mutual Truthfulness",
+      "Rabbi Shimon Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All six items concern the *issur be'vas achas* debate \u2014 items 1-2 introduce the reframing, items 3-4 construct the simultaneous scenarios explicitly anticipated by heading 2's prose, and items 5-6 continue the same dispute about Rabbi Yosei vs Rabbi Shimon, forming one continuous analytical chain best housed under 'Simultaneous Prohibition'.",
+      "chosen_heading": "Simultaneous Prohibition",
+      "current_heading": "Simultaneous Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Rabbi Shimon Focus",
+    "candidates": [
+      "Scenarios Constructed",
+      "Zar Bar Mitzvah",
+      "Kohein Bar Mitzvah",
+      "Knife Injury Alternative",
+      "Both Heard Rebbe",
+      "Different Tannaim",
+      "Mutual Truthfulness",
+      "Rabbi Shimon Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses how Bar Kappara's account works (Rebbe taught him per Rabbi Shimon, taught Rabbi Chiyya per Rabbi Yosei) and then raises the reverse problem \u2014 was Bar Kappara lying according to Rabbi Chiyya? \u2014 which precisely matches the 'Different Tannaim' section's prose about bishlama/ela framing and the symmetrical challenge about swearing.",
+      "chosen_heading": "Different Tannaim",
+      "current_heading": "Rabbi Shimon Focus",
+      "moved": true
+    }
+  }
+]

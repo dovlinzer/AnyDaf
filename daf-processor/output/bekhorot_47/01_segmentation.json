@@ -34,7 +34,7 @@
           "timestamp": "04:52"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -68,7 +68,7 @@
           "timestamp": "13:27"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -126,7 +126,7 @@
           "timestamp": "34:53"
         }
       ],
-      "sefaria_index": 30,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -367,5 +367,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "19:47",
+  "amud_b_micro_title": "Final Consensus",
+  "shiur_start_daf": 47,
+  "shiur_start_amud": "a"
 }

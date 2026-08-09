@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Shmuel's Vow Analogy",
+    "candidates": [
+      "Kabbalah Duration Kinyan",
+      "Shmuel's Non-Binding View",
+      "Shmuel's Vow Analogy",
+      "Types of Vows",
+      "Steak Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Yehuda in the name of Rav's teaching about borrowing and repaying a fast, along with Shmuel's initial dismissive response \u2014 this is the foundational content described in candidate 0's prose about 'loveh adam ta'anito upore'a' and the framing of the fast as a personal debt, before the alternative version (ika d'amri) discussed in candidate 2.",
+      "chosen_heading": "Kabbalah Duration Kinyan",
+      "current_heading": "Shmuel's Vow Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Steak Story",
+    "candidates": [
+      "Types of Vows",
+      "Steak Story",
+      "Dream Fasting Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Types of Vows",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'some say' version of Rav Yehuda/Rav's ruling that borrowing a fast is obvious because it is like a vow, which is exactly what the 'Types of Vows' prose discusses \u2014 Shmuel's point that a fast operates like a neder/nidrei mitzvah where the act matters more than the specific date.",
+      "second_heading": "Steak Story",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the story of Rav Yehoshua son of Rav Idi being offered to borrow his fast over a fine veal, which is precisely the 'Steak Story' prose describes in detail.",
+      "current_heading": "Steak Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Dream Fasting Exception",
+    "candidates": [
+      "Dream Fasting Exception",
+      "Tosafos Limitations",
+      "Three Fast Cycles",
+      "Full-Blown Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about fasting for a dream, its same-day requirement, permissibility on Shabbat, and the remedy fast is directly discussed in the 'Dream Fasting Exception' prose, which quotes and explains the exact same Talmudic content.",
+      "chosen_heading": "Dream Fasting Exception",
+      "current_heading": "Dream Fasting Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Full-Blown Restrictions",
+    "candidates": [
+      "Tosafos Limitations",
+      "Three Fast Cycles",
+      "Full-Blown Restrictions",
+      "Seven More Fasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna describes the three additional fasts with full restrictions (eating only while still day, prohibitions on labor/bathing/anointing/shoes/marital relations, closing bathhouses), which is precisely what the 'Full-Blown Restrictions' prose section discusses.",
+      "chosen_heading": "Full-Blown Restrictions",
+      "current_heading": "Full-Blown Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Seven More Fasts",
+    "candidates": [
+      "Seven More Fasts",
+      "Crisis Escalation",
+      "Shift to Mourning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the seven additional fasts decreed by the court, their greater stringency, sounding the alarm, locking stores, and the Monday/Thursday leniencies \u2014 all of which match precisely the 'Seven More Fasts' section's prose.",
+      "chosen_heading": "Seven More Fasts",
+      "current_heading": "Seven More Fasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Shift to Mourning",
+    "candidates": [
+      "Crisis Escalation",
+      "Shift to Mourning",
+      "Yechidim Persistence",
+      "Labor Prohibition",
+      "Scriptural Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Shift to Mourning' prose discusses \u2014 the community decreasing business, building, betrothals, and greetings like people rejected by God (nizufim), followed by the yechidim fasting until Nisan ends and the siman kelalah of late rain \u2014 all of which is the direct content of candidate 1's prose.",
+      "chosen_heading": "Shift to Mourning",
+      "current_heading": "Shift to Mourning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Scriptural Source",
+    "candidates": [
+      "Yechidim Persistence",
+      "Labor Prohibition",
+      "Scriptural Source",
+      "Community Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with the scriptural derivation of the labor prohibition from the word 'atzarah' and the subsequent question about whether the prohibition begins at night or only by day, which is precisely what the 'Scriptural Source' prose section describes.",
+      "chosen_heading": "Scriptural Source",
+      "current_heading": "Scriptural Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Community Inspection",
+    "candidates": [
+      "Community Inspection",
+      "Justice vs. Repentance",
+      "Liturgical Structure",
+      "Action Before Prayer",
+      "Ezra Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's account of the fast day structure beginning with examining the affairs of the town, which is precisely what the 'Community Inspection' prose discusses \u2014 the morning audit of civic matters and Rashi's gloss about examining townspeople's conduct.",
+      "chosen_heading": "Community Inspection",
+      "current_heading": "Community Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Ezra Model",
+    "candidates": [
+      "Justice vs. Repentance",
+      "Liturgical Structure",
+      "Action Before Prayer",
+      "Ezra Model",
+      "Two Categories",
+      "Avelut Severity",
+      "Ta'anit Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Ezra verses (Ezra 9:4-5) that the prose of 'Ezra Model' explicitly discusses \u2014 the gathering of the community before prayer, and Ezra spreading his hands to God only after addressing the communal trespass.",
+      "chosen_heading": "Ezra Model",
+      "current_heading": "Ezra Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Ta'anit Leniency",
+    "candidates": [
+      "Two Categories",
+      "Avelut Severity",
+      "Ta'anit Leniency",
+      "Reasoning",
+      "Bathhouse Closure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24isda's full statement establishing both categories simultaneously, making it the founding text for the 'Two Categories' section rather than belonging under either of the individual category sections.",
+      "chosen_heading": "Two Categories",
+      "current_heading": "Ta'anit Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Bathhouse Closure",
+    "candidates": [
+      "Reasoning",
+      "Bathhouse Closure",
+      "Mikvah Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly concerns the inference from the mishna's mention of locking bathhouses and Abaye's challenge about damming rivers \u2014 exactly the content discussed in the 'Bathhouse Closure' section's prose.",
+      "chosen_heading": "Bathhouse Closure",
+      "current_heading": "Bathhouse Closure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Mikvah Braita",
+    "candidates": [
+      "Mikvah Braita",
+      "Hot/Cold Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hot/Cold Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Sheisha's explanation of his father Rav Idi's difficulty with the mishna's clause about locking bathhouses, concluding that hot water is forbidden but cold water is permitted \u2014 this is a dispute about the hot/cold distinction, matching the 'Hot/Cold Status' prose which discusses exactly this argument.",
+      "second_heading": "Mikvah Braita",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the baraita about those obligated in immersions immersing on Tisha B'Av and Yom Kippur, which is precisely what the 'Mikvah Braita' section's prose describes and analyzes in detail.",
+      "current_heading": "Mikvah Braita",
+      "moved": true
+    }
+  }
+]

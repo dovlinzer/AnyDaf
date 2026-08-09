@@ -1,0 +1,657 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Two Forms of Ba'al Ov",
+    "candidates": [
+      "Ba'al Ov Definition",
+      "Two Forms of Ba'al Ov",
+      "Turnus Rufus Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita defining the two forms of ba'al ov and the Gemara's follow-up question about the word 'oleh,' which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Two Forms of Ba'al Ov",
+      "current_heading": "Two Forms of Ba'al Ov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Turnus Rufus Exchange",
+    "candidates": [
+      "Turnus Rufus Exchange",
+      "Sambatyon Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Turnus Rufus/Rabbi Akiva exchange about why Shabbat is distinguished, which matches exactly the prose described under heading 0.",
+      "chosen_heading": "Turnus Rufus Exchange",
+      "current_heading": "Turnus Rufus Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Sambatyon Evidence",
+    "candidates": [
+      "Sambatyon Evidence",
+      "Necromancer Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Sambatyon River proof, the ba'al ov proof, the father's grave proof, and Turnus Rufus's angry response \u2014 all of which are the precise content discussed in the 'Sambatyon Evidence' prose.",
+      "chosen_heading": "Sambatyon Evidence",
+      "current_heading": "Sambatyon Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Necromancer Distinction",
+    "candidates": [
+      "Necromancer Distinction",
+      "Doreish El HaMetim (II)",
+      "Akiva's Lament"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the classic question-and-answer unit distinguishing *ba'al ov* from *doreish el ha-meitim*, which is precisely what candidate 0's prose describes in detail, including the baraita about starving oneself and sleeping in the graveyard.",
+      "chosen_heading": "Necromancer Distinction",
+      "current_heading": "Necromancer Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Akiva's Lament",
+    "candidates": [
+      "Doreish El HaMetim (II)",
+      "Akiva's Lament",
+      "Rava's Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's weeping and his kal va-chomer argument about ruach tum'ah vs. ruach taharah, followed by the lament about sins causing separation \u2014 exactly what the 'Akiva's Lament' prose describes in detail.",
+      "chosen_heading": "Akiva's Lament",
+      "current_heading": "Akiva's Lament",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rava's Creation",
+    "candidates": [
+      "Rava's Creation",
+      "Golem Creation",
+      "Golem's Speechlessness",
+      "Return to Dust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about righteous individuals being able to create worlds due to lack of sin, which directly matches the 'Rava's Creation' section prose discussing exactly this claim and the same verse about sin as separation.",
+      "chosen_heading": "Rava's Creation",
+      "current_heading": "Rava's Creation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Return to Dust",
+    "candidates": [
+      "Golem Creation",
+      "Golem's Speechlessness",
+      "Return to Dust",
+      "Friday Calf Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire golem episode \u2014 Rava creating the man, sending him to Rabbi Zeira, the speechlessness, and the 'return to dust' command \u2014 and heading 0's prose explicitly introduces all these elements (bara gavra, Sefer Yetzirah, shadrei l'kamei d'Rabbi Zeira), making it the natural home for this single unified Talmudic excerpt.",
+      "chosen_heading": "Golem Creation",
+      "current_heading": "Return to Dust",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Friday Calf Creation",
+    "candidates": [
+      "Return to Dust",
+      "Friday Calf Creation",
+      "Erev Shabbat Significance",
+      "Shimon's Definition",
+      "Illusionists Definition",
+      "Akiva Astrology",
+      "Omen Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24anina and Rav Oshaya creating a calf via Sefer Yetzira every Erev Shabbat, which is precisely what the 'Friday Calf Creation' section's prose discusses in detail.",
+      "chosen_heading": "Friday Calf Creation",
+      "current_heading": "Friday Calf Creation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Omen Examples",
+    "candidates": [
+      "Erev Shabbat Significance",
+      "Shimon's Definition",
+      "Illusionists Definition",
+      "Akiva Astrology",
+      "Omen Examples",
+      "Rambam Rationalism",
+      "Ramban Supernaturalism",
+      "Basic Omens",
+      "Detailed Omens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rabbi Shimon, the Rabbis, and Rabbi Akiva) defining me'onein, and heading 1 ('Shimon's Definition') introduces this entire baraita \u2014 the current placement under 'Omen Examples' only covers Rabbi Akiva's illustrative examples, missing that this is one unified text covering all three definitions beginning with Rabbi Shimon's.",
+      "chosen_heading": "Shimon's Definition",
+      "current_heading": "Omen Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Detailed Omens",
+    "candidates": [
+      "Rambam Rationalism",
+      "Ramban Supernaturalism",
+      "Basic Omens",
+      "Detailed Omens",
+      "Morning Avoidance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage defines menachesh with the full list of omens (bread falling, staff falling, raven, deer, snake, fox), and the prose of candidate 2 ('Basic Omens') explicitly describes this baraita as defining menachesh with exactly these examples, while candidate 3 ('Detailed Omens') treats only the continuation of the list as if the bread/staff examples were already covered \u2014 but since this is a single baraita covering all examples at once, it best fits under the heading whose prose introduces the entire menachesh definition.",
+      "chosen_heading": "Basic Omens",
+      "current_heading": "Detailed Omens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Morning Avoidance",
+    "candidates": [
+      "Detailed Omens",
+      "Morning Avoidance",
+      "Rosh Hashanah Simanim",
+      "Weekly Timing",
+      "Animal Charms",
+      "Entrails Reading",
+      "Shabbat Violation Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Weekly Timing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the 'al tatchil bi' examples including Rosh Chodesh and Motzaei Shabbat temporal thresholds, which exactly matches the 'Weekly Timing' prose discussing these same cases.",
+      "second_heading": "Animal Charms",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita on 'lo tenachashu v'lo te'onenu' with weasel/birds/fish divination, which exactly matches the 'Animal Charms' prose describing this same baraita and Rashi's explanation.",
+      "current_heading": "Morning Avoidance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Shabbat Violation Types",
+    "candidates": [
+      "Rosh Hashanah Simanim",
+      "Weekly Timing",
+      "Animal Charms",
+      "Entrails Reading",
+      "Shabbat Violation Types",
+      "Techumim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna defining Shabbat desecration by karet/chatat acts and the Gemara's inference that there must exist Shabbat violations without those consequences \u2014 are precisely what the 'Shabbat Violation Types' prose describes, making the current placement correct.",
+      "chosen_heading": "Shabbat Violation Types",
+      "current_heading": "Shabbat Violation Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Techumim Exception",
+    "candidates": [
+      "Techumim Exception",
+      "Fire-Kindling Exception",
+      "Name Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the techumim and fire-kindling exceptions in a single Gemara unit, and it currently sits under the 'Techumim Exception' heading which introduces the question and both answers together, making the current placement the best single home for the complete passage.",
+      "chosen_heading": "Techumim Exception",
+      "current_heading": "Techumim Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Name Requirement",
+    "candidates": [
+      "Fire-Kindling Exception",
+      "Name Requirement",
+      "Meir vs. Sages",
+      "Sages Identified",
+      "Shem Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers both the name requirement for liability and the Meir/Sages dispute about kinui, and the current placement under 'Name Requirement' is correct since that section's prose directly paraphrases this exact mishna passage.",
+      "chosen_heading": "Name Requirement",
+      "current_heading": "Name Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Shem Derasha",
+    "candidates": [
+      "Meir vs. Sages",
+      "Sages Identified",
+      "Shem Derasha",
+      "Gender Inclusivity",
+      "Both or Either"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies who 'the Sages' are (Rabbi Mena\u1e25em son of Rabbi Yosei) and introduces his baraita, which is precisely what the 'Sages Identified' section prose describes.",
+      "chosen_heading": "Sages Identified",
+      "current_heading": "Shem Derasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Both or Either",
+    "candidates": [
+      "Gender Inclusivity",
+      "Both or Either",
+      "Vav Interpretation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gender Inclusivity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita expanding liability to daughters, tumtum, and androginos via the doubled 'ish ish' \u2014 exactly what candidate 0 ('Gender Inclusivity') discusses.",
+      "second_heading": "Both or Either",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 present Rabbi Yoshiya's derivation for cursing either parent alone and Rabbi Yonatan's counter-argument about the vav \u2014 precisely the content of candidate 1 ('Both or Either') and its continuation in candidate 2, but since they are currently placed under candidate 1 which covers the Rabbi Yoshiya material and flows into candidate 2 for Rabbi Yonatan, the current placement for items 2\u20133 under candidate 1 is correct.",
+      "current_heading": "Both or Either",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Vav Interpretation",
+    "candidates": [
+      "Vav Interpretation",
+      "Damav Bo Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving stoning via gezeirah shavah (damav bo / dmeihem bam), which is exactly what the 'Vav Interpretation' prose describes as the conclusion of the section.",
+      "chosen_heading": "Vav Interpretation",
+      "current_heading": "Vav Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Damav Bo Link",
+    "candidates": [
+      "Damav Bo Link",
+      "Uniqueness Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Damav Bo Link",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the derivation of the prohibition from the verses about judges and kings, which is exactly what the 'Damav Bo Link' prose describes.",
+      "second_heading": "Uniqueness Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the problem of deriving the prohibition for a non-judge, non-king father via binyan av, and the challenge that the characteristics of nasi and dayan are not alike \u2014 precisely what the 'Uniqueness Problem' prose discusses.",
+      "current_heading": "Damav Bo Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Uniqueness Problem",
+    "candidates": [
+      "Uniqueness Problem",
+      "Nation Commonality",
+      "Cheresh Proof",
+      "Logic Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the asymmetric distinctions between judge and king \u2014 the judge obligates compliance with his ruling while the king obligates against rebellion \u2014 which is precisely what the 'Uniqueness Problem' prose describes as the core challenge preventing a binyan av derivation.",
+      "chosen_heading": "Uniqueness Problem",
+      "current_heading": "Uniqueness Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Logic Resolution",
+    "candidates": [
+      "Nation Commonality",
+      "Cheresh Proof",
+      "Logic Resolution",
+      "Elohim Dispute"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      150,
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Elohim Dispute",
+    "candidates": [
+      "Elohim Dispute",
+      "Double Lamed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly address the dispute between Rabbi Yishmael and Rabbi Akiva over whether 'Elohim' in the verse is sacred or non-sacred, which is precisely what the 'Elohim Dispute' prose section describes.",
+      "chosen_heading": "Elohim Dispute",
+      "current_heading": "Elohim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158
+    ],
+    "current_heading": "Double Lamed",
+    "candidates": [
+      "Double Lamed",
+      "Deriving Judge",
+      "Four Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the double lamed technique \u2014 item 1 raises why the verse uses 'tekallel' instead of 'takel', and item 2 concludes that the doubled lamed teaches two prohibitions simultaneously \u2014 which is precisely what the 'Double Lamed' prose section describes.",
+      "chosen_heading": "Double Lamed",
+      "current_heading": "Double Lamed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165
+    ],
+    "current_heading": "Four Conditions",
+    "candidates": [
+      "Deriving Judge",
+      "Four Conditions",
+      "Age Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna establishing the four conditions for sekilah of a betrothed maiden and the Gemara's baraita restating those same conditions \u2014 are precisely the content described in candidate 1's prose, which covers na'arah, besulah, me'orasah, be-veit aviha, the transfer to the husband's agents, and the two-man scenario, all of which appear in these two items.",
+      "chosen_heading": "Four Conditions",
+      "current_heading": "Four Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Age Requirement",
+    "candidates": [
+      "Age Requirement",
+      "Until Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yehuda/Rav's statement about Rabbi Meir vs. the Sages regarding whether 'na'arah me'orasah' includes a ketanah, which is precisely what the 'Age Requirement' prose discusses and quotes verbatim.",
+      "chosen_heading": "Age Requirement",
+      "current_heading": "Age Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175,
+      176
+    ],
+    "current_heading": "Until Language",
+    "candidates": [
+      "Until Language",
+      "Punishment Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute the exact exchange between Rav A\u1e25a of Difti and Ravina about whether the mishna's 'ad shetehe' language proves it follows Rabbi Meir, which is precisely what the 'Until Language' prose describes.",
+      "chosen_heading": "Until Language",
+      "current_heading": "Until Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      180,
+      181,
+      182,
+      183,
+      184
+    ],
+    "current_heading": "Punishment Query",
+    "candidates": [
+      "Punishment Query",
+      "Rav's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous chain \u2014 the question to Rav, the objection from 'sheneihem,' Rav's silence, Shmuel's response, and the tannaitic dispute \u2014 and candidate 0's prose explicitly covers all of this content including the verse, Rashi, and the symmetry requirement, while candidate 1's prose covers only the latter portion (Rav's silence onward), making candidate 0 the better single home for the entire passage.",
+      "chosen_heading": "Punishment Query",
+      "current_heading": "Punishment Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Rav's Silence",
+    "candidates": [
+      "Rav's Silence",
+      "Yoshiyah Adult Rule",
+      "Yonatan Counter",
+      "Rava Necrophilia",
+      "Virginity Definition",
+      "Ten Men Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks what Rabbi Yoshiya derives from 'levado' (alone), which is precisely the topic of the 'Yonatan Counter' section discussing Rabbi Yonatan's use of that same verse \u2014 the question posed here is the setup for understanding how each tanna interprets 'levado.'",
+      "chosen_heading": "Yonatan Counter",
+      "current_heading": "Rav's Silence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      202
+    ],
+    "current_heading": "Ten Men Case",
+    "candidates": [
+      "Yoshiyah Adult Rule",
+      "Yonatan Counter",
+      "Rava Necrophilia",
+      "Virginity Definition",
+      "Ten Men Case",
+      "Parallel Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita about ten men engaging in intercourse with a betrothed young woman who remains a virgin, with the dispute between the anonymous first opinion (all by stoning) and Rabbi (first by stoning, rest by strangulation), which is precisely what the 'Ten Men Case' prose describes.",
+      "chosen_heading": "Ten Men Case",
+      "current_heading": "Ten Men Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      207,
+      208,
+      209,
+      210,
+      211
+    ],
+    "current_heading": "Parallel Categories",
+    "candidates": [
+      "Parallel Categories",
+      "Techilah Defilement",
+      "Yosef Alternative",
+      "Defilement Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All five items form a continuous discussion about the bat kohen's penalty \u2014 items 1-3 cover Rav Huna's interpretation (Rabbi follows Rabbi Yishmael, first intercourse = sreifah) and items 4-5 introduce Rav Yosef's alternative (Rabbi follows Rabbi Meir), which together map most closely to the 'Parallel Categories' heading that already discusses both Rav Huna's position and Rabbi Yishmael's ruling about arusah/nesuah, even though candidates 1-3 also discuss related sub-points.",
+      "chosen_heading": "Parallel Categories",
+      "current_heading": "Parallel Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      220
+    ],
+    "current_heading": "Defilement Types",
+    "candidates": [
+      "Techilah Defilement",
+      "Yosef Alternative",
+      "Defilement Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the interpretation distinguishing between two types of defilement (first defilement through adultery = sreifah, vs. already disqualified through marriage = chenek), which matches the 'Yosef Alternative' prose describing Rav Yosef's reading that follows Rabbi Meir's position about a bat kohen married to an invalidating partner receiving chenek \u2014 not the 'Defilement Types' section which describes this same content as its own explanatory prose, nor the 'Techilah Defilement' section which focuses on first vs. subsequent acts of intercourse.",
+      "chosen_heading": "Yosef Alternative",
+      "current_heading": "Defilement Types",
+      "moved": true
+    }
+  }
+]

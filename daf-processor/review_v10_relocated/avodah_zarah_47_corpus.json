@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Shinuy be-Ne'evad",
+    "candidates": [
+      "Intro & Grain Question",
+      "Shinuy be-Ne'evad",
+      "Fetus Proof & Rejection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intro & Grain Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses Rami bar Chama's dilemma about grain and shinuy, which the 'Intro & Grain Question' prose explicitly describes as the question Rami bar Chama poses about grain used for a minchah offering.",
+      "second_heading": "Fetus Proof & Rejection",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 present Mar Zutra's proof from the fetal bestiality case and its rejection/qualification by Rav Nachman, which is precisely what the 'Fetus Proof & Rejection' prose discusses in detail.",
+      "current_heading": "Shinuy be-Ne'evad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Fetus Proof & Rejection",
+    "candidates": [
+      "Shinuy be-Ne'evad",
+      "Fetus Proof & Rejection",
+      "Mitzvah & Dichui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection of the fetus-to-born-animal comparison with the wheat-to-flour transformation, which is explicitly discussed and quoted in the 'Fetus Proof & Rejection' section's prose.",
+      "chosen_heading": "Fetus Proof & Rejection",
+      "current_heading": "Fetus Proof & Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Mitzvah & Dichui",
+    "candidates": [
+      "Mitzvah & Dichui",
+      "Blood Covering Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Reish Lakish's dilemma about bowing to a palm tree, the narrowing of the question to a tree planted for ordinary use but subsequently worshipped, the further narrowing to the Rabbanan's view, and Rav Dimi's reinterpretation involving bittul and dichui \u2014 are precisely the content described in the 'Mitzvah & Dichui' prose, which explicitly walks through each of these steps.",
+      "chosen_heading": "Mitzvah & Dichui",
+      "current_heading": "Mitzvah & Dichui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Blood Covering Proof",
+    "candidates": [
+      "Blood Covering Proof",
+      "Teiku on Bittul",
+      "Wool for Techeiles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about the blood-covering proof and Rav Pappa's inference that there is no dichui by mitzvos, which is precisely what heading 0 ('Blood Covering Proof') describes in its prose.",
+      "chosen_heading": "Blood Covering Proof",
+      "current_heading": "Blood Covering Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Wool for Techeiles",
+    "candidates": [
+      "Teiku on Bittul",
+      "Wool for Techeiles",
+      "Animal Parts & Levite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern Rav Pappa's dilemma about wool of a worshipped animal for techeiles and the Gemara's immediate clarification that it duplicates prior questions \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Wool for Techeiles",
+      "current_heading": "Wool for Techeiles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Animal Parts & Levite",
+    "candidates": [
+      "Animal Parts & Levite",
+      "Instruments - Essential?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why Rav Pappa raised his dilemma \u2014 to introduce the additional questions about wool, horns, thigh-bones, and innards for Levitical instruments \u2014 which matches exactly what the 'Animal Parts & Levite' section's prose discusses.",
+      "chosen_heading": "Animal Parts & Levite",
+      "current_heading": "Animal Parts & Levite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Instruments - Essential?",
+    "candidates": [
+      "Instruments - Essential?",
+      "Wellspring Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the dispute between shira bikli and shira bepeh and its implications for using parts of a ne'evad animal for musical instruments, which is precisely what the 'Instruments - Essential?' prose section discusses in detail.",
+      "chosen_heading": "Instruments - Essential?",
+      "current_heading": "Instruments - Essential?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Wellspring Question",
+    "candidates": [
+      "Wellspring Question",
+      "Public Water & Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous chain of question and reframing that is precisely described in the 'Wellspring Question' prose, which explicitly covers the reflection-vs-water dilemma and the subsequent reframing about worshipping the current water versus the source.",
+      "chosen_heading": "Wellspring Question",
+      "current_heading": "Wellspring Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Public Water & Ownership",
+    "candidates": [
+      "Public Water & Ownership",
+      "House Fell Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the objection about public water becoming forbidden and its resolution regarding privately-owned springs, which is precisely what the 'Public Water & Ownership' section's prose describes.",
+      "chosen_heading": "Public Water & Ownership",
+      "current_heading": "Public Water & Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "House Fell Case",
+    "candidates": [
+      "House Fell Case",
+      "Four Cubits Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about a house adjacent to idol worship that fell and the prohibition to rebuild it, which is exactly what the 'House Fell Case' prose discusses as its primary subject.",
+      "chosen_heading": "House Fell Case",
+      "current_heading": "House Fell Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Four Cubits Solution",
+    "candidates": [
+      "Four Cubits Solution",
+      "Non-Jew Benefit & Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the half-and-half wall case, the tumah like a sheretz, and Rabbi Akiva's niddah comparison \u2014 are explicitly discussed in the 'Four Cubits Solution' prose, which covers exactly these Mishnaic rulings in sequence.",
+      "chosen_heading": "Four Cubits Solution",
+      "current_heading": "Four Cubits Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Non-Jew Benefit & Uses",
+    "candidates": [
+      "Non-Jew Benefit & Uses",
+      "House Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous chain of question-and-answer about whether the four-cubit gap benefits idol worship and how to prevent that benefit (latrine, nighttime use, children, thorns), which exactly matches the prose under 'Non-Jew Benefit & Uses'.",
+      "chosen_heading": "Non-Jew Benefit & Uses",
+      "current_heading": "Non-Jew Benefit & Uses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "House Categories",
+    "candidates": [
+      "House Categories",
+      "Rav on House Worship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text describes the three categories of houses in relation to avodah zarah, which is precisely what the 'House Categories' section prose discusses in detail.",
+      "chosen_heading": "House Categories",
+      "current_heading": "House Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rav on House Worship",
+    "candidates": [
+      "Rav on House Worship",
+      "Building vs Worship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav's ruling that bowing to a house renders it forbidden and the immediate Gemara inference about talush ulevasof chibur, along with the initial question from the Mishnah's use of 'benao' \u2014 all of which corresponds precisely to the 'Rav on House Worship' section's prose.",
+      "chosen_heading": "Rav on House Worship",
+      "current_heading": "Rav on House Worship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Building vs Worship",
+    "candidates": [
+      "Building vs Worship",
+      "Stone Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about why building and bowing are counted as one category rather than two, which is precisely what the 'Building vs Worship' prose describes.",
+      "chosen_heading": "Building vs Worship",
+      "current_heading": "Building vs Worship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Stone Categories",
+    "candidates": [
+      "Stone Categories",
+      "Rabbi Ami - Plaster"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text presenting the three categories of stones, which exactly matches the 'Stone Categories' prose that directly quotes and explains these same three cases.",
+      "chosen_heading": "Stone Categories",
+      "current_heading": "Stone Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Rabbi Ami - Plaster",
+    "candidates": [
+      "Rabbi Ami - Plaster",
+      "Plaster Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of Rabbi Ami's statement about plastering within the stone itself, followed by the Gemara's challenge from the house analogy and its resolution, exactly matching the 'Rabbi Ami - Plaster' prose description.",
+      "chosen_heading": "Rabbi Ami - Plaster",
+      "current_heading": "Rabbi Ami - Plaster",
+      "moved": false
+    }
+  }
+]

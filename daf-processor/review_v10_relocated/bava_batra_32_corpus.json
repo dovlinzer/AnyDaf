@@ -1,0 +1,198 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Priest Status",
+    "candidates": [
+      "Witnesses & Property",
+      "Court Reversal",
+      "Tannaitic Support",
+      "Priest Status",
+      "Two vs One",
+      "Rumor Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Court Reversal",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rav Nachman going out and performing an action (reversing his ruling) because it depends on 'great authorities,' which is the conclusion of the Court Reversal narrative described in candidate 1's prose.",
+      "second_heading": "Tannaitic Support",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present the mishna about Rabbi Yehuda, Rabbi Elazar, and Rabban Shimon ben Gamliel on establishing priestly status via one witness, followed by the Gemara's question about their dispute \u2014 exactly what candidate 2 ('Tannaitic Support') describes as its content.",
+      "current_heading": "Priest Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Rumor Case",
+    "candidates": [
+      "Two vs One",
+      "Rumor Case",
+      "Combining Testimony",
+      "Rav Ashi Challenges",
+      "Everyone Agrees",
+      "Baraita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items describe the dispute between Rabbi Elazar and Rabban Shimon ben Gamliel as turning on ziluta d'bei dina \u2014 exactly what candidate 2 ('Combining Testimony') discusses \u2014 rather than the construction of the rumor/witness case itself, which belongs under candidate 1 ('Rumor Case').",
+      "chosen_heading": "Combining Testimony",
+      "current_heading": "Rumor Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Baraita Support",
+    "candidates": [
+      "Combining Testimony",
+      "Rav Ashi Challenges",
+      "Everyone Agrees",
+      "Baraita Support",
+      "Land Migo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's objection and reframing \u2014 Item 1 is his challenge and alternative explanation, Item 2 is the baraita he invokes to ground that reframing \u2014 and candidate 1 ('Rav Ashi Challenges') explicitly describes exactly this content: Rav Ashi pressing why the case needs the one-witness structure if ziluta d'bei dina were the real issue, which is precisely what Item 1 contains, with Item 2 as the supporting baraita he cites.",
+      "chosen_heading": "Rav Ashi Challenges",
+      "current_heading": "Baraita Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Land Migo",
+    "candidates": [
+      "Baraita Support",
+      "Land Migo",
+      "Yosef Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the opening of the land dispute incident \u2014 Shimon producing a bill of sale and then whispering to the dayan that it is forged but he had a genuine one \u2014 which is precisely what the 'Land Migo' prose describes as the setup for Rava's migo ruling.",
+      "chosen_heading": "Land Migo",
+      "current_heading": "Land Migo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Yosef Challenge",
+    "candidates": [
+      "Yosef Challenge",
+      "Money Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's migo argument and Rav Yosef's 'chaspa be'alma' objection in the land/bill-of-sale case, which is precisely what the 'Yosef Challenge' prose section discusses and analyzes.",
+      "chosen_heading": "Yosef Challenge",
+      "current_heading": "Yosef Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Money Case",
+    "candidates": [
+      "Money Case",
+      "Land/Money Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the money case incident and the Rabba/Rav Yosef dispute about it, which is precisely what the 'Money Case' prose section describes.",
+      "chosen_heading": "Money Case",
+      "current_heading": "Money Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Land/Money Rule",
+    "candidates": [
+      "Land/Money Rule",
+      "Re-Loan Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling of Rav Idi bar Avin reconciling the land and money cases, which is precisely what the 'Land/Money Rule' section's prose discusses.",
+      "chosen_heading": "Land/Money Rule",
+      "current_heading": "Land/Money Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Re-Loan Setup",
+    "candidates": [
+      "Re-Loan Setup",
+      "Old Receipt",
+      "Abaye Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the guarantor presenting the shtar and the exchange with the debtor about repayment and re-borrowing, which matches exactly the 'Re-Loan Setup' prose describing this scenario.",
+      "chosen_heading": "Re-Loan Setup",
+      "current_heading": "Re-Loan Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Abaye Answer",
+    "candidates": [
+      "Old Receipt",
+      "Abaye Answer",
+      "Bad Coin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's terse response citing the Rabba/Rav Yosef ruling, which is precisely what the 'Abaye Answer' prose describes.",
+      "chosen_heading": "Abaye Answer",
+      "current_heading": "Abaye Answer",
+      "moved": false
+    }
+  }
+]

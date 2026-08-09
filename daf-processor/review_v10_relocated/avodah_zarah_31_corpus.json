@@ -1,0 +1,252 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Yayin Nesech",
+    "candidates": [
+      "Rav Assi's Classes",
+      "Yayin Nesech",
+      "Stam Yeinam",
+      "Entrusted Wine",
+      "Swapping Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the complete three-category teaching of Rav Assi/Rabbi Yochanan/Rabbi Yehuda ben Beteira \u2014 yayin nesech, stam yeinam, and entrusted wine \u2014 which is precisely what heading 0 ('Rav Assi's Classes') describes as a 'tidy classificatory teaching' announcing 'shloshah yeinos hein,' making it the natural home for the full passage rather than splitting it across the individual category headings.",
+      "chosen_heading": "Rav Assi's Classes",
+      "current_heading": "Yayin Nesech",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Swapping Presumption",
+    "candidates": [
+      "Stam Yeinam",
+      "Entrusted Wine",
+      "Swapping Presumption",
+      "Bar Kappara Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the mishna about depositing produce with a gentile and the 'designated corner' answer, which is precisely what the 'Swapping Presumption' section's prose describes and analyzes.",
+      "chosen_heading": "Swapping Presumption",
+      "current_heading": "Swapping Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Bar Kappara Teaching",
+    "candidates": [
+      "Bar Kappara Teaching",
+      "Eliezer vs Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe Rabbi Yo\u1e25anan's visit to Parod, Bar Kappara's teaching about deposited wine, and the verse about the fallen tree \u2014 exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Bar Kappara Teaching",
+      "current_heading": "Bar Kappara Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Eliezer vs Sages",
+    "candidates": [
+      "Eliezer vs Sages",
+      "One Seal Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Zeira's resolution, the baraita about Rabbi Eliezer vs. the Sages, and the ruling that the halakha follows Rabbi Eliezer \u2014 are explicitly discussed in the 'Eliezer vs Sages' prose, which covers exactly this material including the transmission chains for the final ruling.",
+      "chosen_heading": "Eliezer vs Sages",
+      "current_heading": "Eliezer vs Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "One Seal Rule",
+    "candidates": [
+      "One Seal Rule",
+      "Double Seal",
+      "Seal Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between Rabbi Elazar and Rabbi Yo\u1e25anan regarding one seal vs. double seal for wine, which is precisely what the 'One Seal Rule' prose covers in detail, including the alternative formulation (ika d'amri) about chotam betoch chotam.",
+      "chosen_heading": "One Seal Rule",
+      "current_heading": "One Seal Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Seal Examples",
+    "candidates": [
+      "Double Seal",
+      "Seal Examples",
+      "Sealed Barrels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content discussed in candidate 0's prose \u2014 Rava's definition of chotam betoch chotam with the bowl/barrel example \u2014 as well as the subsequent examples that candidate 1 covers, but candidate 0's prose explicitly introduces and frames all these examples together, and the essay author intended candidate 0 ('Double Seal') to introduce Rava's teaching while candidate 1 ('Seal Examples') was meant to elaborate on the further cases; however, since the Talmudic passage contains ALL the examples as a single continuous unit, it belongs under candidate 0 which first introduces Rava's statement that opens this entire passage.",
+      "chosen_heading": "Double Seal",
+      "current_heading": "Seal Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Sealed Barrels",
+    "candidates": [
+      "Seal Examples",
+      "Sealed Barrels",
+      "Transport & Seals",
+      "City vs Road"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about wine in Samaritan territory \u2014 the evolution from place-based prohibitions to the open/sealed distinction, the reasoning behind each position, the contradiction from the baraita about sending barrels, and Rabbi Zeira's resolution \u2014 which exactly matches the 'Sealed Barrels' prose describing this same progression.",
+      "chosen_heading": "Sealed Barrels",
+      "current_heading": "Sealed Barrels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "City vs Road",
+    "candidates": [
+      "Transport & Seals",
+      "City vs Road",
+      "Beer Rationales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yirmeya's objection and resolution (between the winepresses/seasonal explanation), which is explicitly discussed in the 'City vs Road' prose section.",
+      "chosen_heading": "City vs Road",
+      "current_heading": "City vs Road",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Beer Rationales",
+    "candidates": [
+      "Beer Rationales",
+      "Old Beer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the opening dispute about why gentile beer is forbidden (chatnut vs. gilluy) and the immediate clarification of what type of exposure is meant \u2014 exactly what heading 0's prose describes as the two rationales and the gilluy concern.",
+      "chosen_heading": "Beer Rationales",
+      "current_heading": "Beer Rationales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Old Beer",
+    "candidates": [
+      "Old Beer",
+      "Beer Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses aged beer, Rabbi Yehuda HaNasi's ruling about miyashan mutar, the vinegar parallel, and the gezeirah yashan atu chadash \u2014 all of which are explicitly covered in the 'Old Beer' prose.",
+      "chosen_heading": "Old Beer",
+      "current_heading": "Old Beer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Beer Practice",
+    "candidates": [
+      "Beer Practice",
+      "Rav & Chiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the practices of Rav Pappa and Rav A\u1e25ai regarding drinking non-Jewish beer away from the store/social setting due to chatnut concerns, and Rav Shmuel bar Bisna's related practice \u2014 all of which are explicitly described and analyzed in the 'Beer Practice' prose.",
+      "chosen_heading": "Beer Practice",
+      "current_heading": "Beer Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Rav & Chiya",
+    "candidates": [
+      "Rav & Chiya",
+      "Non-Jewish Immunity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav/Chiya beer passage \u2014 the challenge and its resolution about gilluy and hops neutralizing venom \u2014 which is precisely what the 'Rav & Chiya' prose describes in detail.",
+      "chosen_heading": "Rav & Chiya",
+      "current_heading": "Rav & Chiya",
+      "moved": false
+    }
+  }
+]

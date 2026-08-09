@@ -1,0 +1,291 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Shmuel's Categories",
+    "candidates": [
+      "Shofrot Purpose",
+      "Shmuel's Categories",
+      "Rabbi Oshaya List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's statement introducing his view on the six shofrot, which Section 0's prose explicitly describes as the next explanation after Bar Padda's, noting 'Now the Gemara presents the view of Shmuel' \u2014 making it the natural introduction before the detailed analysis in Section 1.",
+      "chosen_heading": "Shofrot Purpose",
+      "current_heading": "Shmuel's Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabbi Oshaya List",
+    "candidates": [
+      "Shmuel's Categories",
+      "Rabbi Oshaya List",
+      "Bird Sacrifice Omission",
+      "Kinnim Shofrot Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Oshaya's list of six collection horns, which directly corresponds to the 'Rabbi Oshaya List' section's prose describing his alternative enumeration.",
+      "chosen_heading": "Rabbi Oshaya List",
+      "current_heading": "Rabbi Oshaya List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Kinnim Shofrot Split",
+    "candidates": [
+      "Bird Sacrifice Omission",
+      "Kinnim Shofrot Split",
+      "Money Rot Principle",
+      "Baraita Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items address why Shmuel doesn't follow Rabbi Oshaya regarding kinnim \u2014 item 1 gives the answer (kinnim already in the first clause) and item 2 resolves the follow-up tension (Rabbi Oshaya has both a kinnim horn and a motar kinnim horn), which is precisely what candidate 0 ('Bird Sacrifice Omission') describes in its prose, while candidate 1 ('Kinnim Shofrot Split') discusses only the second half of this exchange.",
+      "chosen_heading": "Bird Sacrifice Omission",
+      "current_heading": "Kinnim Shofrot Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Baraita Interpretation",
+    "candidates": [
+      "Money Rot Principle",
+      "Baraita Interpretation",
+      "Rabbah's Ruling",
+      "Kohen Gadol Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the baraita citation and its two competing interpretations (Rav \u1e24isda and Rabbah), which is precisely what the 'Baraita Interpretation' prose describes in detail, including the mai kamar question, Rav \u1e24isda's reading, and Rabbah's alternative \u2014 the current placement is correct.",
+      "chosen_heading": "Baraita Interpretation",
+      "current_heading": "Baraita Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Kohen Gadol Debate",
+    "candidates": [
+      "Rabbah's Ruling",
+      "Kohen Gadol Debate",
+      "Shekalim Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the dispute between Rabbi Yo\u1e25anan (nedavah) and Rabbi Elazar (yerakev) regarding the surplus of the kohen gadol's tenth of an ephah, which is precisely what the 'Kohen Gadol Debate' prose describes as an established dispute among Amoraim corresponding to the positions of Shmuel/Rabbah and Rabbi Oshaya.",
+      "chosen_heading": "Kohen Gadol Debate",
+      "current_heading": "Kohen Gadol Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Shekalim Mishna",
+    "candidates": [
+      "Shekalim Mishna",
+      "Non-Standard Chatat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shekalim Mishna",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 (the objection from the Shekalim mishna, the question about the High Priest's tenth of an ephah, and the deflection to minchat choteh) are all discussed in candidate 0's prose about the Shekalim Mishnah challenge.",
+      "second_heading": "Non-Standard Chatat",
+      "second_confidence": "high",
+      "second_reason": "Item 4 (Rav Nachman bar Rav Yitzchak's statement that the surplus of the High Priest's tenth of an ephah should rot) is explicitly discussed in candidate 1's prose as the opening of that section's argument.",
+      "current_heading": "Shekalim Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Non-Standard Chatat",
+    "candidates": [
+      "Non-Standard Chatat",
+      "True Chatat Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the baraita and Rabbi Yehuda's statement about the minchat chote being called a chatat while no other offering is, which is precisely what the 'Non-Standard Chatat' prose describes; the 'True Chatat Standard' prose covers the continuation/implication of that teaching.",
+      "chosen_heading": "Non-Standard Chatat",
+      "current_heading": "Non-Standard Chatat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "True Chatat Standard",
+    "candidates": [
+      "True Chatat Standard",
+      "Ox Quantity Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that surplus coins of this offering should rot because it is not called a sin offering, which is the exact conclusion being analyzed in the 'True Chatat Standard' prose about why leftover money must rot.",
+      "chosen_heading": "True Chatat Standard",
+      "current_heading": "True Chatat Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Ox Quantity Change",
+    "candidates": [
+      "Ox Quantity Change",
+      "Sheep-Ram Transfers",
+      "Sanctification vs. Vow",
+      "Rabbi No Changes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sheep-Ram Transfers",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text covering ox quantity changes and sheep-ram transfers, matching the prose of candidates 0 and 1, but since items 1-2 form the Mishnah unit that candidate 1 ('Sheep-Ram Transfers') specifically discusses (the ram/lamb cases), and item 1 belongs under candidate 0 ('Ox Quantity Change'), the split separates the ox mishna (item 1) from the sheep-ram mishna (item 2).",
+      "second_heading": "Sanctification vs. Vow",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 are the Gemara discussion beginning with the tension between personal vows and sanctification (item 3-4), then Rabbi's reasoning (items 5-6), and the challenge about the first clause (item 7), which matches candidates 2 and 3's prose precisely, but since items 3-7 form one continuous Gemara discussion, they belong together \u2014 however the structural seam is actually between item 2 (Mishnah conclusion) and item 3 (Gemara opening), so items 3-7 belong under candidate 2 ('Sanctification vs. Vow') which covers the Gemara's opening question and answer.",
+      "current_heading": "Ox Quantity Change",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Rabbi No Changes",
+    "candidates": [
+      "Sheep-Ram Transfers",
+      "Sanctification vs. Vow",
+      "Rabbi No Changes",
+      "Vow Pattern Logic",
+      "Proof Both Cases",
+      "Species Change Query",
+      "Cost Equivalence Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's proof that Rabbi disagrees with both clauses \u2014 item 1 states Rabbi disagrees with the whole matter and waited for the Rabbis to finish, item 2 provides the proof from the sheep-ram cases \u2014 which is precisely what heading 4 ('Proof Both Cases') describes in its prose.",
+      "chosen_heading": "Proof Both Cases",
+      "current_heading": "Rabbi No Changes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Cost Equivalence Rule",
+    "candidates": [
+      "Vow Pattern Logic",
+      "Proof Both Cases",
+      "Species Change Query",
+      "Cost Equivalence Rule",
+      "Bila Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The prose of 'Species Change Query' explicitly covers the dilemma of cross-species transfer (item 1), the baraita about bull/rams (item 2), and the subsequent challenge and two-tanna'im resolution (items 3-4), while item 5's bila inference flows from the same baraita and belongs in this continuous discussion.",
+      "chosen_heading": "Species Change Query",
+      "current_heading": "Cost Equivalence Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Bila Principle",
+    "candidates": [
+      "Cost Equivalence Rule",
+      "Bila Principle",
+      "Two Tannaic Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge from the Mishnah (ram-to-lamb and lamb-to-ram cases where Rebbi forbids) used to question whether bila is Rebbi's only concern, which is exactly what the 'Bila Principle' prose section describes and quotes.",
+      "chosen_heading": "Bila Principle",
+      "current_heading": "Bila Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Two Tannaic Views",
+    "candidates": [
+      "Two Tannaic Views",
+      "Personal Vow Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states 'two tanna'im disagree about Rabbi's opinion,' which is precisely what the 'Two Tannaic Views' section's prose discusses in detail.",
+      "chosen_heading": "Two Tannaic Views",
+      "current_heading": "Two Tannaic Views",
+      "moved": false
+    }
+  }
+]

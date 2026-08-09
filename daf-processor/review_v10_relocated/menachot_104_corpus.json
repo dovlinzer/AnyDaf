@@ -1,0 +1,376 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rav Bibi's Poverty",
+    "candidates": [
+      "Dead Mule, Revi'it Blood",
+      "Eduyot: Blood is Pure",
+      "Lions Stadium Story",
+      "Rav Bibi's Poverty",
+      "Beit Hillel: Blood Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Bibi's concluding statement that he relies on a baker, which is the punchline of the poverty/lack-of-presence-of-mind explanation described in the 'Rav Bibi's Poverty' section prose.",
+      "chosen_heading": "Rav Bibi's Poverty",
+      "current_heading": "Rav Bibi's Poverty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Beit Hillel: Blood Tamei",
+    "candidates": [
+      "Beit Hillel: Blood Tamei",
+      "Revi'it Congeals Kezayit",
+      "Shiurim Connection",
+      "Mishnah: Log Limits",
+      "Wine Denominations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Yosef's resolution about Rabbi Yehuda's ruling on dam neveilah and the supporting baraita about Beit Shammai/Beit Hillel's positions, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Beit Hillel: Blood Tamei",
+      "current_heading": "Beit Hillel: Blood Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Wine Denominations",
+    "candidates": [
+      "Revi'it Congeals Kezayit",
+      "Shiurim Connection",
+      "Mishnah: Log Limits",
+      "Wine Denominations",
+      "Keva L'Nesachim?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishnah text directly states the rule about which log quantities are permitted or forbidden for wine donations, which is precisely what the prose under 'Mishnah: Log Limits' introduces and summarizes.",
+      "chosen_heading": "Mishnah: Log Limits",
+      "current_heading": "Wine Denominations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Keva L'Nesachim?",
+    "candidates": [
+      "Wine Denominations",
+      "Keva L'Nesachim?",
+      "Six Shofarot Boxes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the exact dilemma '\u05d9\u05e9 \u05e7\u05d1\u05e2 \u05dc\u05e0\u05e1\u05db\u05d9\u05dd \u05d0\u05d5 \u05d0\u05d9\u05df \u05e7\u05d1\u05e2 \u05dc\u05e0\u05e1\u05db\u05d9\u05dd' which is precisely what the 'Keva L'Nesachim?' section's prose introduces and explains.",
+      "chosen_heading": "Keva L'Nesachim?",
+      "current_heading": "Keva L'Nesachim?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Six Shofarot Boxes",
+    "candidates": [
+      "Six Shofarot Boxes",
+      "Leftover Wine Pooled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Abaye proof from the six shofarot boxes: item 1 sets up the stakes (five log scenario), item 2 introduces the mishna about the six boxes, and item 3 draws the inference that if leftover libation wine were common there would be a seventh box \u2014 exactly what the 'Six Shofarot Boxes' prose describes.",
+      "chosen_heading": "Six Shofarot Boxes",
+      "current_heading": "Six Shofarot Boxes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Leftover Wine Pooled",
+    "candidates": [
+      "Leftover Wine Pooled",
+      "Ezrach: Independent Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why leftover wine needs no dedicated shofar box \u2014 because it can be pooled between individuals \u2014 which matches exactly the prose of 'Leftover Wine Pooled.'",
+      "chosen_heading": "Leftover Wine Pooled",
+      "current_heading": "Leftover Wine Pooled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Ezrach: Independent Wine",
+    "candidates": [
+      "Ezrach: Independent Wine",
+      "Yosef = Five Log"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rava's proof from the baraita about independent libations (\u05d0\u05d6\u05e8\u05d7, \u05d9\u05d4\u05d9\u05d4, \u05db\u05db\u05d4), which is exactly what the 'Ezrach: Independent Wine' prose describes in detail.",
+      "chosen_heading": "Ezrach: Independent Wine",
+      "current_heading": "Ezrach: Independent Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Yosef = Five Log",
+    "candidates": [
+      "Yosef = Five Log",
+      "Rav Ashi: Five = Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses what \u05d9\u05d5\u05e1\u05d9\u05e3 means and concludes \u05d0\u05d9\u05df \u05e7\u05d1\u05e2 \u05dc\u05e0\u05e1\u05db\u05d9\u05dd, which is precisely what the prose under heading 0 ('Yosef = Five Log') describes.",
+      "chosen_heading": "Yosef = Five Log",
+      "current_heading": "Yosef = Five Log",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rav Ashi: Five = Two",
+    "candidates": [
+      "Rav Ashi: Five = Two",
+      "Different Grounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's argument that five log is analogous to two log (both entirely unsuitable), which is precisely what heading 0 describes.",
+      "chosen_heading": "Rav Ashi: Five = Two",
+      "current_heading": "Rav Ashi: Five = Two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Different Grounds",
+    "candidates": [
+      "Different Grounds",
+      "Eleven Log Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's dismissal of a comparison using \u05de\u05d9\u05d3\u05d9 \u05d0\u05d9\u05e8\u05d9\u05d0, directly matching the 'Different Grounds' prose which explains that two log and five log are forbidden for entirely different reasons and the parallel does not hold.",
+      "chosen_heading": "Different Grounds",
+      "current_heading": "Different Grounds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Eleven Log Problem",
+    "candidates": [
+      "Eleven Log Problem",
+      "Teiku: Eleven Log",
+      "Akiva vs. Tarfon: Oil",
+      "Tarfon: Oil Like Wine",
+      "Akiva: Oil Not Alone"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eleven Log Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's opening of the eleven-log problem, which is precisely what heading 0 ('Eleven Log Problem') discusses in its prose.",
+      "second_heading": "Teiku: Eleven Log",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the \u05ea\u05d9\u05e7\u05d5 conclusion of the eleven-log dilemma, matching heading 1 ('Teiku: Eleven Log') which explicitly discusses the unresolved question being left with \u05ea\u05d9\u05e7\u05d5.",
+      "current_heading": "Eleven Log Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Akiva: Oil Not Alone",
+    "candidates": [
+      "Teiku: Eleven Log",
+      "Akiva vs. Tarfon: Oil",
+      "Tarfon: Oil Like Wine",
+      "Akiva: Oil Not Alone",
+      "Minchat Nesachim Daily"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Akiva vs. Tarfon: Oil",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 contain the Mishna and the Akiva-Tarfon debate about oil, which is exactly what heading 1 ('Akiva vs. Tarfon: Oil') introduces \u2014 the question of whether oil may be donated independently, with both positions presented.",
+      "second_heading": "Akiva: Oil Not Alone",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the closing ruling of the mishna about two people not jointly pledging a single \u05e2\u05d9\u05e9\u05e8\u05d5\u05df, which heading 3 ('Akiva: Oil Not Alone') explicitly describes as the mishna's concluding case after the oil dispute.",
+      "current_heading": "Akiva: Oil Not Alone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Minchat Nesachim Daily",
+    "candidates": [
+      "Minchat Nesachim Daily",
+      "Explicit Nesachim Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement deriving that one may pledge minchat nesachim daily, which is precisely what candidate 0's prose explains and unpacks, before the 'peshita' objection discussed in candidate 1.",
+      "chosen_heading": "Minchat Nesachim Daily",
+      "current_heading": "Minchat Nesachim Daily",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Explicit Nesachim Mincha",
+    "candidates": [
+      "Explicit Nesachim Mincha",
+      "Mishnah: No Joint Mincha",
+      "Nefesh = Individual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's \u05e4\u05e9\u05d9\u05d8\u05d0 challenge and the response about voluntary meal offerings and the nesachim ratio, which is precisely what the prose under 'Explicit Nesachim Mincha' describes.",
+      "chosen_heading": "Explicit Nesachim Mincha",
+      "current_heading": "Explicit Nesachim Mincha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Nefesh = Individual",
+    "candidates": [
+      "Mishnah: No Joint Mincha",
+      "Nefesh = Individual",
+      "Baraita: Mincha Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question-and-answer chain about why two people cannot jointly bring a \u05de\u05e0\u05d7\u05d4, culminating in the \u05e0\u05e4\u05e9 reasoning, which is precisely what candidate 1 ('Nefesh = Individual') describes in its prose.",
+      "chosen_heading": "Nefesh = Individual",
+      "current_heading": "Nefesh = Individual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Baraita: Mincha Alone",
+    "candidates": [
+      "Baraita: Mincha Alone",
+      "Poor Person's Nefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a baraita teaching that all offerings may be brought in partnership except the meal offering (mincha), which matches exactly the prose under 'Baraita: Mincha Alone' and not the subsequent section about Rabbi Yitzchak's question regarding why the Torah uses 'nefesh' for the mincha.",
+      "chosen_heading": "Baraita: Mincha Alone",
+      "current_heading": "Baraita: Mincha Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Poor Person's Nefesh",
+    "candidates": [
+      "Poor Person's Nefesh",
+      "Five Preparations Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly about Rabbi Yitzchak's teaching on why the meal offering uses the word 'nefesh' and God crediting the poor person as if he offered his soul, which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Poor Person's Nefesh",
+      "current_heading": "Poor Person's Nefesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Five Preparations Parable",
+    "candidates": [
+      "Five Preparations Parable",
+      "Dignity of Poor's Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yitzchak's parable about why the meal offering has five types of preparation, which matches exactly the prose under 'Five Preparations Parable' that explains this same parable and its meaning.",
+      "chosen_heading": "Five Preparations Parable",
+      "current_heading": "Five Preparations Parable",
+      "moved": false
+    }
+  }
+]

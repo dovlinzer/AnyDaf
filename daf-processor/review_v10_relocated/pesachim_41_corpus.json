@@ -1,0 +1,427 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "Vinegar Role",
+      "Eat Immediately",
+      "Roasting Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself (ein notnim kemach letoch charoset o letoch chardal) which is directly introduced and explained in the 'Mishna Overview' section's prose.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Mishna Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Roasting Only",
+    "candidates": [
+      "Vinegar Role",
+      "Eat Immediately",
+      "Roasting Only",
+      "Basting vs. Cooking",
+      "Baker's Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states that one may not boil the Paschal lamb in liquids or fruit juices, which directly matches the 'Roasting Only' section's prose about *ein mevashelin et hapesach* and the prohibition extending to all liquids including fruit juices.",
+      "chosen_heading": "Roasting Only",
+      "current_heading": "Roasting Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Baker's Water",
+    "candidates": [
+      "Basting vs. Cooking",
+      "Baker's Water",
+      "Rav Kahana's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna ruling about baker's water being poured out because it leavens, which is exactly what the 'Baker's Water' section prose discusses.",
+      "chosen_heading": "Baker's Water",
+      "current_heading": "Baker's Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Rav Kahana's View",
+    "candidates": [
+      "Rav Kahana's View",
+      "Vinegar Neutral"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Rav Kahana's View",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 cover Rav Kahana's distinction between \u1e25aroset and mustard, the supporting baraita, Shmuel's ruling via Rav Huna, and the exchange with Rav Na\u1e25man bar Yitz\u1e25ak, all of which are explicitly discussed in the 'Rav Kahana's View' prose.",
+      "second_heading": "Vinegar Neutral",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is Rav Ashi's proof from Shmuel's rejection of Rabbi Yosei regarding vinegar, which is precisely the content described in the 'Vinegar Neutral' prose section.",
+      "current_heading": "Rav Kahana's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Vinegar Neutral",
+    "candidates": [
+      "Vinegar Neutral",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's rebuttal that vinegar neither shrinks nor leavens grain, which is explicitly discussed in the 'Vinegar Neutral' section's prose about *dilma lo matzmit tzamit velo hachmei machme*.",
+      "chosen_heading": "Vinegar Neutral",
+      "current_heading": "Vinegar Neutral",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Rabbi's Drasha",
+      "Pan-Roasting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita establishing the kal vachomer argument \u2014 item 1 poses the question about other liquids and item 2 provides the kal vachomer answer \u2014 which is exactly what the 'Kal Vachomer' section's prose describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Pan-Roasting",
+    "candidates": [
+      "Rabbi's Drasha",
+      "Pan-Roasting",
+      "Cook Then Roast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Rabbi Yehuda HaNasi's derivation from 'uvashel mevushal' and the practical difference (tzeli kedeirah) between his approach and the Rabbis' kal vachomer \u2014 exactly what heading 0 ('Rabbi's Drasha') discusses, not the deeper analysis of pan-roasting found in heading 1.",
+      "chosen_heading": "Rabbi's Drasha",
+      "current_heading": "Pan-Roasting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Cook Then Roast",
+    "candidates": [
+      "Pan-Roasting",
+      "Cook Then Roast",
+      "Roast Then Cook"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses what the Rabbanan do with the double language 'uvashel mevushal,' answering that it teaches the baraita about cooking-then-roasting or roasting-then-cooking, which is precisely what the 'Cook Then Roast' section's prose discusses.",
+      "chosen_heading": "Cook Then Roast",
+      "current_heading": "Cook Then Roast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Roast Then Cook",
+    "candidates": [
+      "Roast Then Cook",
+      "Rabbi Yosi Matzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the analytical question about roasting then boiling \u2014 exactly the challenge described in the 'Roast Then Cook' prose \u2014 before the resolution via Rabbi Yosi is introduced in the next section.",
+      "chosen_heading": "Roast Then Cook",
+      "current_heading": "Roast Then Cook",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Rabbi Yosi Matzah",
+    "candidates": [
+      "Rabbi Yosi Matzah",
+      "Apply to Pesach",
+      "Charred"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yosi Matzah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Kahana's baraita about Rabbi Yosi and matzah) is precisely what candidate 0's prose describes \u2014 the dispute between Rabbi Meir and Rabbi Yosi about fulfilling matzah obligation with a soaked/boiled wafer, and the principle that a secondary process changes the item's halakhic label.",
+      "second_heading": "Apply to Pesach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Ulla's point that even according to Rabbi Meir the korban Pesach is different due to the double language 'uvashel mevushal mikol makom') is exactly what candidate 1's prose describes.",
+      "current_heading": "Rabbi Yosi Matzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Charred",
+    "candidates": [
+      "Apply to Pesach",
+      "Charred",
+      "Completely Raw",
+      "Definition Na",
+      "Hot Springs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Charred",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the case of fully roasting/charring the korban Pesach and Rav Ashi's explanation, which exactly matches the 'Charred' section's prose about tzala'o kol tzorko and de-shavei charucha.",
+      "second_heading": "Completely Raw",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new baraita introducing the entirely separate case of eating the korban completely raw (chai), which exactly matches the 'Completely Raw' section's prose about yachol achal kezayit chai.",
+      "current_heading": "Charred",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Hot Springs",
+    "candidates": [
+      "Completely Raw",
+      "Definition Na",
+      "Hot Springs",
+      "Two Halves",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Definition Na",
+      "first_confidence": "high",
+      "first_reason": "Item 1 defines 'na' via Rav's Persian term 'avarnim', which is precisely what the 'Definition Na' prose describes.",
+      "second_heading": "Hot Springs",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 form the complete Rav \u1e24isda hot-springs discussion (ruling, challenge, Rava's resolution, and Rav \u1e24iyya's explicit version), exactly matching the 'Hot Springs' prose.",
+      "current_heading": "Hot Springs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Two Halves",
+      "Rava Position",
+      "Abaye Position",
+      "Abaye Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly Rava's ruling about lashes for eating the Paschal lamb rare, boiled, or both \u2014 matching the 'Rava Position' prose precisely.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Rava Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Abaye Dispute",
+    "candidates": [
+      "Abaye Position",
+      "Abaye Dispute",
+      "Rashi Solution",
+      "Nazir Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the two versions of Abaye's position (tarti lo laki / chada meiha laki vs. chada nami lo laki) that candidate 1 'Abaye Dispute' describes in its prose, making the current placement correct.",
+      "chosen_heading": "Abaye Dispute",
+      "current_heading": "Abaye Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Nazir Example",
+    "candidates": [
+      "Rashi Solution",
+      "Nazir Example",
+      "When Cooked",
+      "When Eaten"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Rava/Abaye dispute about a nazirite eating grape skin and pit, which is precisely what the 'Nazir Example' prose describes in detail.",
+      "chosen_heading": "Nazir Example",
+      "current_heading": "Nazir Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "When Eaten",
+    "candidates": [
+      "When Cooked",
+      "When Eaten",
+      "Pasuk Contrast"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "When Eaten",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers exactly what heading 1 ('When Eaten') describes: the baraita distinguishing eating rare vs. roasted before/after nightfall and the chavurah disqualification ruling.",
+      "second_heading": "Pasuk Contrast",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the a fortiori argument that eating rare before nightfall might be forbidden, which heading 2 ('Pasuk Contrast') explicitly discusses as the counterintuitive argument the baraita raises and then refutes via the pasuk's juxtaposition.",
+      "current_heading": "When Eaten",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Pasuk Contrast",
+    "candidates": [
+      "Pasuk Contrast",
+      "Eat Day Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items directly concern the 'Pasuk Contrast' argument: the counterintuitive suggestion that the prohibition of eating rare might apply only before nightfall, its refutation via the verse's juxtaposition of prohibited modes with the command to eat roasted, and Rabbi Yehuda HaNasi's derivation from 'bashel mevushal' \u2014 all of which are precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Pasuk Contrast",
+      "current_heading": "Pasuk Contrast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Eat Day Before",
+    "candidates": [
+      "Eat Day Before",
+      "Negative from Positive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly states the two cases (roasted during day = liable, partially roasted after dark = liable) that the 'Eat Day Before' prose explicitly discusses and analyzes in detail.",
+      "chosen_heading": "Eat Day Before",
+      "current_heading": "Eat Day Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Negative from Positive",
+    "candidates": [
+      "Negative from Positive",
+      "Lav M'Klal Aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the Gemara's chain of reasoning about how roasted meat carries a lav \u2014 asking where it comes from, answering with the nighttime verse, and concluding it parallels na \u2014 which is precisely what the 'Negative from Positive' prose discusses (the derivation of the lav from v'achlu et habasar balaila hazeh and the inference balaila in beyom lo).",
+      "chosen_heading": "Negative from Positive",
+      "current_heading": "Negative from Positive",
+      "moved": false
+    }
+  }
+]

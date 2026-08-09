@@ -1,0 +1,239 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rabbi Yehuda's Exceptions",
+    "candidates": [
+      "Principle Overview",
+      "Types of Items",
+      "Cases Staying Up",
+      "Notar, Yotzei, Tamei",
+      "Improper Slaughter Cases",
+      "Piggul Concept",
+      "Rabbi Yehuda's Exceptions",
+      "Rabbi Shimon Position",
+      "Kodesh Accepts",
+      "Invalid Before Kodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rabbi Yehuda's three exceptions (slaughtered at night, blood spilled, blood outside the curtains) and Rabbi Shimon's response, which is precisely what the prose under heading 6 ('Rabbi Yehuda's Exceptions') discusses.",
+      "chosen_heading": "Rabbi Yehuda's Exceptions",
+      "current_heading": "Rabbi Yehuda's Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Invalid Before Kodesh",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Kodesh Accepts",
+      "Invalid Before Kodesh",
+      "Ritual vs. Defect",
+      "Rabbi Akiva on Mumin",
+      "Practice Testimony",
+      "Reciprocity Principle",
+      "Alive Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna text enumerating the items whose disqualification did not occur in sanctity (ve'eilu she-lo hayu psulan ba-kodesh), which is exactly what the 'Invalid Before Kodesh' section's prose describes and analyzes.",
+      "chosen_heading": "Invalid Before Kodesh",
+      "current_heading": "Invalid Before Kodesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Alive Animals",
+    "candidates": [
+      "Ritual vs. Defect",
+      "Rabbi Akiva on Mumin",
+      "Practice Testimony",
+      "Reciprocity Principle",
+      "Alive Animals",
+      "Zot Hi Ha'olah",
+      "Three Limiting Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states the reciprocity principle (keshem she'alu lo yerdu, kach im yerdu lo ya'alu) and then addresses alive animals ascending the altar and slaughtering at the top \u2014 the reciprocity principle section's prose describes exactly this content, while the current 'Alive Animals' heading's prose better matches only the latter portion, making heading 3 'Reciprocity Principle' the best overall match for the complete passage.",
+      "chosen_heading": "Reciprocity Principle",
+      "current_heading": "Alive Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Three Limiting Words",
+    "candidates": [
+      "Zot Hi Ha'olah",
+      "Three Limiting Words",
+      "Torat as Inclusive",
+      "Shimon's Expansion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Limiting Words",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehuda's three limiting words (zot, hi, ha'olah) yielding three exclusions, which is precisely what candidate 1's prose describes as 'gimel miyutim \u2014 three exclusionary terms' corresponding to his three exceptional cases.",
+      "second_heading": "Torat as Inclusive",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present Rabbi Shimon's expansive inclusive approach using 'torat' to bring in disqualified offerings, matching candidate 2's prose about Rabbi Shimon focusing on the word 'torat' as an inclusive umbrella encompassing a broad category of cases.",
+      "current_heading": "Three Limiting Words",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Shimon's Expansion",
+    "candidates": [
+      "Torat as Inclusive",
+      "Shimon's Expansion",
+      "Methodology Shift",
+      "Notar Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon's question about including rove'a/nirba/muktzeh etc., the answer from 'zot', and the ribah u-mi'et principle with the psuluto ba-kodesh line \u2014 exactly what candidate 1 ('Shimon's Expansion') describes in its prose.",
+      "chosen_heading": "Shimon's Expansion",
+      "current_heading": "Shimon's Expansion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Notar Analogy",
+    "candidates": [
+      "Methodology Shift",
+      "Notar Analogy",
+      "Yotzei Analogy",
+      "Tamei Analogy",
+      "Chutz Lizmano Analogy",
+      "Chutz Limekomo Analogy",
+      "Kibel Psulim Analogy",
+      "Gemara Critique",
+      "Resolution via Torat",
+      "Night Inside, Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yehuda's derivation from the baraita showing why blood left overnight stays on the altar via the chain analogy (blood \u2192 emurim \u2192 shlamim meat), which is precisely what the 'Notar Analogy' prose describes.",
+      "chosen_heading": "Notar Analogy",
+      "current_heading": "Notar Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Night Inside, Out",
+    "candidates": [
+      "Yotzei Analogy",
+      "Tamei Analogy",
+      "Chutz Lizmano Analogy",
+      "Chutz Limekomo Analogy",
+      "Kibel Psulim Analogy",
+      "Gemara Critique",
+      "Resolution via Torat",
+      "Night Inside, Out",
+      "Comparative Logic"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Comparative Logic",
+    "candidates": [
+      "Comparative Logic",
+      "Bird Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yochanan's ruling and the 'lo tehei pechuta' comparative logic that forms the core of the 'Comparative Logic' section's prose, which explicitly discusses this exact argument about night-slaughter inside versus slaughter outside.",
+      "chosen_heading": "Comparative Logic",
+      "current_heading": "Comparative Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Bird Exception",
+    "candidates": [
+      "Bird Exception",
+      "Melikah Issue",
+      "Mammal Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24iyya bar Avin's objection from the mishna about slaughtering a bird inside vs. outside, which is exactly what the 'Bird Exception' prose describes as the tiyufta raised against Rabbi Yo\u1e25anan.",
+      "chosen_heading": "Bird Exception",
+      "current_heading": "Bird Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Mammal Distinction",
+    "candidates": [
+      "Melikah Issue",
+      "Mammal Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the tiyuvta (refutation) and the 'if you wish say' explanation about shechitat ha'of bifnim being categorically different (mikatl katleih), which is precisely what section 0 ('Melikah Issue') discusses \u2014 the gemara's resolution after the refutation that bird slaughter inside the Temple is not real shechita but rather 'killing.'",
+      "chosen_heading": "Melikah Issue",
+      "current_heading": "Mammal Distinction",
+      "moved": true
+    }
+  }
+]

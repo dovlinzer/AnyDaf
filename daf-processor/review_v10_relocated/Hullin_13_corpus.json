@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Physical Act vs Intent",
+    "candidates": [
+      "Physical Act vs Intent",
+      "Non-Agency & Halakhic",
+      "Daat vs. Kavana",
+      "Intention Alone",
+      "Self-Evident Action",
+      "Ambiguous Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states that Rabbi Yochanan's dilemma is not about machshava alone (gureita) but about thought discernible from actions, which is precisely what the 'Intention Alone' section's prose describes as Rabbi Yochanan's clarified question.",
+      "chosen_heading": "Intention Alone",
+      "current_heading": "Physical Act vs Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Ambiguous Action",
+    "candidates": [
+      "Non-Agency & Halakhic",
+      "Daat vs. Kavana",
+      "Intention Alone",
+      "Self-Evident Action",
+      "Ambiguous Action",
+      "Tosafot's Framework",
+      "Rashi's Framework",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case discussed in 'Ambiguous Action' prose: a korban olah standing in the south being brought to the north and slaughtered there, raising the question of whether this ambiguous action indicates intent or mere circumstance.",
+      "chosen_heading": "Ambiguous Action",
+      "current_heading": "Ambiguous Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Tosafot's Framework",
+      "Rashi's Framework",
+      "Case Setup",
+      "Adult's Intention",
+      "Minor's Intention",
+      "Middle Case Example",
+      "Action Biblically Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together constitute the Case Setup: items 1-2 cite the Mishna about fruit on a rooftop (the ki yutan case), item 3 gives Rabbi Yochanan's qualification about turning the fruit over, and item 4 clarifies that Rabbi Yochanan's actual question was whether the middle-case action has biblical or rabbinic weight \u2014 exactly what the 'Case Setup' prose describes as Rabbi Yochanan addressing 'a version of this middle-case question on a prior occasion, citing a Mishna about fruit brought to a rooftop.'",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Action Biblically Valid",
+    "candidates": [
+      "Adult's Intention",
+      "Minor's Intention",
+      "Middle Case Example",
+      "Action Biblically Valid",
+      "Intention Never Valid",
+      "Middle Case Level",
+      "Kavana's Role",
+      "Mitasek Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about whether a minor's action/thought is biblically or rabbinically valid \u2014 exactly what candidate 3 ('Action Biblically Valid') discusses: katan yesh lo maaseh, Rabbi Ami's objection, and the resolution that action is de'oraisa while machshava is not even derabanan, with the middle case carrying only rabbinic weight.",
+      "chosen_heading": "Action Biblically Valid",
+      "current_heading": "Action Biblically Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Mitasek Definition",
+    "candidates": [
+      "Intention Never Valid",
+      "Middle Case Level",
+      "Kavana's Role",
+      "Mitasek Definition",
+      "Korban Requirement",
+      "Minor & Korban",
+      "Kedoshim Intent",
+      "Neveilah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is precisely about Shmuel's question to Rav Huna regarding the source for mitasek be-kodashim being invalid, which is exactly what heading 3 ('Mitasek Definition') describes in its prose.",
+      "chosen_heading": "Mitasek Definition",
+      "current_heading": "Mitasek Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Neveilah Status",
+    "candidates": [
+      "Korban Requirement",
+      "Minor & Korban",
+      "Kedoshim Intent",
+      "Neveilah Status",
+      "Categorical Exclusion",
+      "Avodah Zarah Concern",
+      "Eliezer's Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Mishna explicitly states that shechitat oved kochavim is neveilah and imparts tumah through carrying, which is precisely what the 'Neveilah Status' section's prose discusses.",
+      "chosen_heading": "Neveilah Status",
+      "current_heading": "Neveilah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Eliezer's Assumption",
+    "candidates": [
+      "Categorical Exclusion",
+      "Avodah Zarah Concern",
+      "Eliezer's Assumption",
+      "Objection to Intent",
+      "Mainstream View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the neveilah/issur hana'ah distinction and asks which tanna holds this position, which is exactly what the 'Avodah Zarah Concern' prose describes \u2014 the question of whether non-Jewish slaughter might constitute avodah zarah and who authored the Mishna's position; the current placement under 'Eliezer's Assumption' belongs to the answer that follows this passage.",
+      "chosen_heading": "Avodah Zarah Concern",
+      "current_heading": "Eliezer's Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Mainstream View",
+    "candidates": [
+      "Objection to Intent",
+      "Mainstream View",
+      "Minority Concern",
+      "No Minim Among"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Ami's reading of the Mishna and the supporting Baraita listing the comprehensive consequences for a min's slaughter, bread, wine, scrolls, produce, and children \u2014 exactly the content described in the 'Mainstream View' prose.",
+      "chosen_heading": "Mainstream View",
+      "current_heading": "Mainstream View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "No Minim Among",
+    "candidates": [
+      "Minority Concern",
+      "No Minim Among",
+      "Custom vs. Belief",
+      "Medieval Application",
+      "Context-Specific",
+      "Execution Rule",
+      "Sacrifices Allowed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Minority Concern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 wraps up the prior discussion about the first tanna's view on heretics not releasing their wives, which belongs under the 'Minority Concern' heading that discusses the concern about devout idolaters.",
+      "second_heading": "No Minim Among",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form a continuous chain \u2014 Rav Nachman's ruling that there are no minim among the nations, the challenge and majority-based resolution, the Rabbi Yochanan principle, and the context-specific refinement \u2014 all of which are precisely what the 'No Minim Among' prose describes.",
+      "current_heading": "No Minim Among",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Sacrifices Allowed",
+    "candidates": [
+      "Custom vs. Belief",
+      "Medieval Application",
+      "Context-Specific",
+      "Execution Rule",
+      "Sacrifices Allowed",
+      "Tumah Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly discuss the acceptance of sacrifices from non-Jews (mikem baraita and ish ish baraita), which is precisely what candidate 4 'Sacrifices Allowed' describes in its prose.",
+      "chosen_heading": "Sacrifices Allowed",
+      "current_heading": "Sacrifices Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Tumah Levels",
+    "candidates": [
+      "Tumah Levels",
+      "Rabbi Yehuda View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's teaching that the non-Jew's shechita causes tumah through carrying (massa) contrasted with tikrovet avodah zarah causing tumah even in a tent, which is exactly what the 'Tumah Levels' prose describes.",
+      "chosen_heading": "Tumah Levels",
+      "current_heading": "Tumah Levels",
+      "moved": false
+    }
+  }
+]

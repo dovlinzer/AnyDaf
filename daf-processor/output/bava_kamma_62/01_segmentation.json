@@ -35,7 +35,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Rabbi Mordechai's Challenge to Rava and Baraita on Wheat and Barley",
@@ -63,8 +63,8 @@
           "timestamp": "06:36"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rav's Forgotten Ruling on Rabbi Yehuda and Takanat Nigzal",
@@ -345,7 +345,7 @@
           "timestamp": "39:14"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -379,7 +379,7 @@
           "timestamp": "42:59"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -679,5 +679,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "27:42",
+  "amud_b_micro_title": "Hammer Spark",
+  "shiur_start_daf": 62,
+  "shiur_start_amud": "a"
 }

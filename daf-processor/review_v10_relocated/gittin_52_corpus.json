@@ -1,0 +1,418 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Delay Mechanism",
+    "candidates": [
+      "Rabbi Eliezer vs. Rabanan",
+      "Three Shvuot Categories",
+      "Rabbah's Chazakah",
+      "Delay Mechanism",
+      "Eliezer's Position",
+      "Rabanan Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rabbah's chazakah principle and its reasoning (ain adam meiz panav bifnei ba'al chovo) along with the psychological explanation for partial admission, which is precisely what candidate 2 'Rabbah's Chazakah' discusses in its prose.",
+      "chosen_heading": "Rabbah's Chazakah",
+      "current_heading": "Delay Mechanism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rabanan Counter",
+    "candidates": [
+      "Eliezer's Position",
+      "Rabanan Counter",
+      "Types of Apotropsin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains both Rabbi Eliezer ben Ya'akov's position AND the Rabbis' counter-position as a unified explanation, but its opening clause begins with Rabbi Eliezer ben Ya'akov's view, and the prose under heading 0 ('Eliezer's Position') explicitly describes this combined explanation of both positions following Rabbah's reasoning, making it the better fit \u2014 the current placement under 'Rabanan Counter' splits what is a single unified Talmudic passage.",
+      "chosen_heading": "Eliezer's Position",
+      "current_heading": "Rabanan Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Types of Apotropsin",
+    "candidates": [
+      "Rabanan Counter",
+      "Types of Apotropsin",
+      "Tithes Separation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Types of Apotropsin",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah introducing orphans/apotropos and the oath distinction, which candidate 1 ('Types of Apotropsin') explicitly discusses with the same opening mishnah text and the three types of apotropos.",
+      "second_heading": "Tithes Separation",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara raising the contradiction from the baraita about 'atem' excluding apotropsin from separating teruma, which is precisely what candidate 2 ('Tithes Separation') describes as its core content (uvreminhu, the atem principle, and Rav Chisda's resolution).",
+      "current_heading": "Types of Apotropsin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Tithes Separation",
+    "candidates": [
+      "Tithes Separation",
+      "Braita's Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24isda's resolution of the contradiction between the mishna and baraita regarding tithes separation, which is precisely what the prose under 'Tithes Separation' (candidate 0) discusses, including the kan le-hachil/kan le-haniach distinction.",
+      "chosen_heading": "Tithes Separation",
+      "current_heading": "Tithes Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Braita's Restrictions",
+    "candidates": [
+      "Braita's Restrictions",
+      "Fixed vs. Indefinite Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes stewards separating teruma/tithes and selling assets to feed orphans but not to put aside \u2014 exactly the le-hachil vs. le-haniach distinction that candidate 0's prose explicitly discusses, making the current placement correct.",
+      "chosen_heading": "Braita's Restrictions",
+      "current_heading": "Braita's Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Fixed vs. Indefinite Gift",
+    "candidates": [
+      "Fixed vs. Indefinite Gift",
+      "Court & Property Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the lulav, arava, sukka, tzitzit, shofar, Sefer Torah, tefillin, mezuzot, and megilla that apotropsin may purchase for orphans \u2014 exactly what candidate 0's prose discusses under 'Fixed vs. Indefinite Gift.'",
+      "chosen_heading": "Fixed vs. Indefinite Gift",
+      "current_heading": "Fixed vs. Indefinite Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Court & Property Limits",
+    "candidates": [
+      "Court & Property Limits",
+      "Field Sale Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with restrictions on apotropsin regarding charity/captive redemption/open-ended expenses and litigation involving orphan property, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Court & Property Limits",
+      "current_heading": "Court & Property Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Field Sale Restrictions",
+    "candidates": [
+      "Field Sale Restrictions",
+      "Slaves for Fields",
+      "Apotropsin: Slaves, Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses stewards selling distant/bad fields to redeem nearby/good ones and the blight rationale, which matches exactly what the 'Field Sale Restrictions' prose describes.",
+      "chosen_heading": "Field Sale Restrictions",
+      "current_heading": "Field Sale Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Apotropsin: Slaves, Sale",
+    "candidates": [
+      "Slaves for Fields",
+      "Apotropsin: Slaves, Sale",
+      "Rabbi's Self-Redemption",
+      "Accounting Requirements",
+      "Ineligible Apotropsin",
+      "Rabbi Meir's Dream"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slaves for Fields",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is specifically about selling fields vs. slaves and Rabban Shimon ben Gamliel's concern about unproductive fields, which matches exactly the prose of heading 0 ('Slaves for Fields').",
+      "second_heading": "Apotropsin: Slaves, Sale",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 cover freeing slaves (with Rabbi's self-redemption view) and accounting/ineligible apotropsin, which align with headings 1 onward where the current placement sits and the prose discusses these exact topics.",
+      "current_heading": "Apotropsin: Slaves, Sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rabbi Meir's Dream",
+    "candidates": [
+      "Rabbi's Self-Redemption",
+      "Accounting Requirements",
+      "Ineligible Apotropsin",
+      "Rabbi Meir's Dream",
+      "Satan Possession Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Meir not allowing the steward to sell land and buy slaves, being shown a dream warning, and dismissing it \u2014 matching exactly the prose under 'Rabbi Meir's Dream' which discusses this same narrative and Rabbi Meir's dismissal of dreams with 'divrei chalomot lo maalin velo moridin.'",
+      "chosen_heading": "Rabbi Meir's Dream",
+      "current_heading": "Rabbi Meir's Dream",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Satan Possession Case",
+    "candidates": [
+      "Satan Possession Case",
+      "Oxen Sale Uncontested"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact story of Rabbi Meir intervening between two people incited by Satan every Friday twilight, which matches perfectly with the 'Satan Possession Case' prose that describes this same story in detail.",
+      "chosen_heading": "Satan Possession Case",
+      "current_heading": "Satan Possession Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Oxen Sale Uncontested",
+    "candidates": [
+      "Oxen Sale Uncontested",
+      "Widow's Ox Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the apotropos selling land and buying oxen in Rabbi Yehoshua ben Levi's neighborhood, with the explanation based on Rabbi Yosi's dictum, which matches exactly the prose of candidate 0 ('Oxen Sale Uncontested').",
+      "chosen_heading": "Oxen Sale Uncontested",
+      "current_heading": "Oxen Sale Uncontested",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Widow's Ox Sale",
+    "candidates": [
+      "Widow's Ox Sale",
+      "Property as Hekdesh",
+      "Wine Price Fluctuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the same continuous case of the old woman who sold the orphans' ox, with the relatives' objections about appreciation in value and non-payment of money \u2014 exactly what the 'Widow's Ox Sale' prose describes.",
+      "chosen_heading": "Widow's Ox Sale",
+      "current_heading": "Widow's Ox Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Wine Price Fluctuation",
+    "candidates": [
+      "Property as Hekdesh",
+      "Wine Price Fluctuation",
+      "Merchant Incentives"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Wine Price Fluctuation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the foundational cases (Rav Nachman's ruling on the wine of Rabbana Ukva's orphans) that establish the Rav Chanilai bar Idi principle, which is precisely what the 'Wine Price Fluctuation' prose describes.",
+      "second_heading": "Merchant Incentives",
+      "second_confidence": "high",
+      "second_reason": "Items 3-10 work through the multiple buying/selling scenarios with Rav Sheisha's practical objections about merchant incentives (nisrefu chitechem ba'aliya, reluctance to do business), which matches the 'Merchant Incentives' prose exactly.",
+      "current_heading": "Wine Price Fluctuation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Merchant Incentives",
+    "candidates": [
+      "Merchant Incentives",
+      "Amram Tzeva Accusations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Ashi and Rav Kahana signing a deed for the mother of Ze'eira the orphan, selling land without public announcement for head tax payment, is explicitly discussed in the 'Merchant Incentives' prose which describes this exact episode including the Nehardai ruling about the three categories of pressing need.",
+      "chosen_heading": "Merchant Incentives",
+      "current_heading": "Merchant Incentives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Amram Tzeva Accusations",
+    "candidates": [
+      "Amram Tzeva Accusations",
+      "Negligent Guard Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Amram the dyer dressing himself from orphans' property and Rav Nachman's measured response about why he does so, which directly matches the 'Amram Tzeva Accusations' section prose describing exactly this incident and Rav Nachman's measured reaction.",
+      "chosen_heading": "Amram Tzeva Accusations",
+      "current_heading": "Amram Tzeva Accusations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Negligent Guard Removal",
+    "candidates": [
+      "Negligent Guard Removal",
+      "Tanna Kamma Position",
+      "Incentive Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses removing a damaging apotropos, the presumption of good faith, and the machlokes between Rav Huna/Rav and the school of Rabbi Shila \u2014 all of which match precisely the prose under 'Negligent Guard Removal'.",
+      "chosen_heading": "Negligent Guard Removal",
+      "current_heading": "Negligent Guard Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Incentive Rationale",
+    "candidates": [
+      "Tanna Kamma Position",
+      "Incentive Rationale",
+      "Abba Shaul Reversal",
+      "Public Reputation Logic",
+      "Shmuel's Ruling",
+      "Rabbi Elazar's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Incentive Rationale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Tanna Kamma's reasoning for why the father-appointed apotropos takes an oath and the court-appointed one does not, which matches the 'Incentive Rationale' prose exactly.",
+      "second_heading": "Abba Shaul Reversal",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Abba Shaul's reversal and its rationale, along with Shmuel's ruling following Abba Shaul, which maps directly onto the 'Abba Shaul Reversal' and subsequent headings \u2014 but since item 4 contains Shmuel's ruling, the split places items 3-4 under 'Abba Shaul Reversal' (index 2) where the content of the reversal and its logic begins, with Shmuel's ruling naturally concluding that section before 'Shmuel's Ruling' prose takes over.",
+      "current_heading": "Incentive Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rabbi Elazar's View",
+    "candidates": [
+      "Abba Shaul Reversal",
+      "Public Reputation Logic",
+      "Shmuel's Ruling",
+      "Rabbi Elazar's View",
+      "Paid Guardian Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita of Rabbi Eliezer ben Ya'akov stating that both types of apotropos take an oath and that the halacha follows his view, which is precisely what candidate 3's prose discusses.",
+      "chosen_heading": "Rabbi Elazar's View",
+      "current_heading": "Rabbi Elazar's View",
+      "moved": false
+    }
+  }
+]

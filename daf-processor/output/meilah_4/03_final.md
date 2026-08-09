@@ -1,12 +1,9 @@
-# Meilah 4 — Daf Yomi Shiur
-
+[DAF:4a]
 ## Rav Giddel: Psul Zerika
 
-### Im lo alos tayreidu
 
-> **Hebrew/Aramaic:** אָמַר רַב גִּידֵּל אָמַר רַב: זְרִיקַת פִּיגּוּל אֵינוֹ מוֹצִיא מִידֵי מְעִילָה בְּקׇדְשֵׁי קָדָשִׁים, וְאֵינוֹ מֵבִיא לִידֵי מְעִילָה בְּקָדָשִׁים קַלִּים.
->
-> **Translation:** § With regard to the misuse of offerings that were rendered unfit, **Rav Giddel says** that **Rav said: Sprinkling** the blood of **an offering** with **the intent to consume it after its appointed time [*piggul*],** in a case where there was *piggul* intent during the slaughter as well, **does not remove** the meat of the offering **from** the status of being subject to the *halakhot* of **misuse, in** the case of **offerings of the most sacred order.** The reason is that its meat is still classified as "the sacred items of the Lord" (Leviticus 5:15), since there was no proper sprinkling that permitted the priests to partake of the offering, as it is *piggul*. Similarly, this sprinkling **does not bring** the sacrificial portions **of offerings of lesser sanctity into** the status of being subject to the *halakhot* of **misuse,** as only a valid sprinkling confers that status.
+
+### Im lo alos tayreidu
 
 We pick up in the middle of daf 4a, approximately four or five lines from the bottom, still engaged with the position of Rav Giddel amar Rav. By way of context: the *mishna* had already established that when *avodos* are performed *b'psul* — whether through *shechita* done with *machshaves pigul*, in the wrong place, or under similar disqualifying conditions — two consequences follow. First, the *korban* retains its consecrated status as *kodshei Hashem* by virtue of the principle of *im lo alos tayreidu*: what has ascended to the *mizbe'ach* is not removed. Second, the meat of *kodshei kodashim* does not exit the category of *me'ila*, as it ordinarily would if the *zerika* had been performed correctly — for a proper *zerika* renders the meat *mutar l'kohanim*, thereby removing it from *me'ila*. When the *avodah* is performed *b'psul*, however, the meat never becomes *mutar l'kohanim* and therefore remains subject to *me'ila*.
 
@@ -28,9 +25,20 @@ The discussion acknowledges that *pigul* status can exist even at earlier stages
 
 ### Shechitas Pigul & Toda
 
-> **Hebrew/Aramaic:** שְׁחָטָהּ חוּץ לִזְמַנָּהּ וְחוּץ לִמְקוֹמָהּ – קָדַשׁ הַלֶּחֶם.
->
-> **Translation:** If the priest **slaughtered** the thanks offering with the intent to partake of it or to burn the portions consumed on the altar **beyond its** designated **time** and it was thereby rendered *piggul*, **or outside its** designated **area** and was disqualified, **the loaves are sanctified** and are subject to the *halakhot* of misuse. This is presumably the case even if he also sprinkled the blood with *piggul* intent, as the mishna does not differentiate in this regard.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אִיסּוּרָא דְּמַיְיתֵי לִידֵי פִיגּוּל.
+> **Translation:** Rava **said to** Rav Ashi: This is not a difficulty, as Ulla did not mean that the intent during the removal of the handful alone rendered the meal offering full-fledged *piggul*. Rather, he meant that **a prohibited act** was performed upon it **which brings** it to a status of ***piggul*,** but the full status of *piggul* is attained only if there is also improper intent at the time of the sacrificing of the handful, which is equivalent to sprinkling in the case of an animal.
+
+> **Hebrew/Aramaic:** וְהָא קָתָנֵי: אִם אֲחֵרִים מֵבִיא לִידֵי פִּיגּוּל, הוּא עַצְמוֹ לֹא כׇּל שֶׁכֵּן!
+> **Translation:** With regard to Rava’s answer to Rav Ashi, the Gemara objects: **But didn’t** Ulla **teach** in justification of his opinion: **If** the taking of this handful **brings others,** i.e., the remainder of the meal offering, **into** a status of ***piggul*,** by means of the intent to consume it after its appointed time, with regard to the handful **itself,** is it **not all the more so** that it should be rendered *piggul* by this intent? If so, the same should likewise apply in the case of an offering of lesser sanctity that was slaughtered with the intent to consume it after its appointed time, i.e., it should be rendered *piggul* by this intent alone, regardless of intent during sprinkling.
+
+> **Hebrew/Aramaic:** הָא נָמֵי, אִיסּוּרָא דְּמַיְיתֵי לִידֵי פִּיגּוּל.
+> **Translation:** The Gemara explains: This is not difficult, as in **this** instance, **as well,** Ulla did not mean that it is full-fledged *piggul* by intent with regard to the taking of the handful alone. Rather, he meant that **a prohibited act** was performed upon it **which brings** it to a status of ***piggul*,** but the full status of *piggul* is attained only if there is also an improper intent at the time of the sacrificing of the handful.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: וְהָאָמַר אִילְפָא: מַחֲלוֹקֶת בִּשְׁתֵּי עֲבוֹדוֹת,
+> **Translation:** There is a dispute in a mishna (*Zevaḥim* 29b) with regard to two consecutive improper intentions. Rabbi Yehuda maintains that if there first was intent to partake of an offering or to burn the portions consumed on the altar beyond its designated time, which renders it *piggul* and therefore one who consumes it would be liable to receive *karet*, and then there was intent to perform that act outside its designated area, which merely disqualifies the offering, it is *piggul*. But if the order is reversed, it is merely disqualified. The Rabbis rule that in either case it is only disqualified. With that mishna in mind, **Ravina said to Rav Ashi: But doesn’t Ilfa say:** This **disagreement** applies **in** a case where the different intentions occurred during the performance of **two** different sacrificial **rites?**
+
+> **Hebrew/Aramaic:** כְּגוֹן דְּאָמַר ״הֲרֵינִי שׁוֹחֵט סִימָן רִאשׁוֹן חוּץ לִזְמַנּוֹ, וְסִימָן שֵׁנִי חוּץ לִמְקוֹמוֹ״, אֲבָל בַּעֲבוֹדָה אַחַת – דְּכוּלֵּי עָלְמָא עֵירוּבֵי מַחְשָׁבוֹת הֲוַאי!
+> **Translation:** Ilfa elaborated: **For example, if one said: I am hereby slaughtering** the **first one of the organs that must be severed in ritual slaughter,** i.e., either the trachea or the esophagus, with the intention of consuming the offering **beyond its** designated **time; and** he then slaughtered its **second** organ with the intention of consuming it **outside its** designated **area,** then these *halakhot* apply. **But** if both intentions occurred **in** the course of **one rite,** e.g., during the slaughtering of the same organ, then **everyone,** including Rabbi Yehuda, agrees that this **constitutes a mixture of intentions,** and the offering is not rendered *piggul*. This example indicates that slaughtering alone with intent beyond its designated time renders the offering *piggul*, contrary to the opinion of Rav Giddel.
 
 While it was acknowledged that a *shechitas pigul* can accomplish something — for instance, it can sanctify the bread of a *toda* — it will nonetheless not have the effect of altering the *me'ila* status of the *korban*. That requires a *zerika* performed *b'hechsher*, a fully valid sprinkling, which alone renders either the meat fit for *kohanim* (in the case of *kodshei kodashim*) or the *emurim* fit for the *mizbe'ach* (in the case of *kodshim kalim*). Only when this is done properly does the *me'ila* status change.
 
@@ -38,19 +46,32 @@ While it was acknowledged that a *shechitas pigul* can accomplish something — 
 
 ## Braisa on Pigul & Me'ila
 
-### Hapigul l'olam
 
-> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ: הַפִּיגּוּל לְעוֹלָם מוֹעֲלִין בּוֹ. לָאו אַף עַל גַּב דְּאִיזְּרִיק דָּם, וּמְסַיַּיע לֵיהּ!
->
-> **Translation:** The Gemara suggests: **Let us say** that the following *baraita* **supports** the opinion of Rav Giddel: With regard to an offering that is ***piggul*,** one who derives benefit **from it** is **always** liable for **misuse** of consecrated property. Does this **not** mean that the meat of an offering of the most sacred order is subject to the *halakhot* of misuse **even though** its **blood was sprinkled** with the intent to partake of it or to burn the portions consumed on the altar beyond its designated time? **And** if so, this **supports** Rav Giddel's opinion.
+
+### Hapigul l'olam
 
 The *Gemara* now turns to a *braisa* in an attempt to bring a proof: *hapigul l'olam mo'ilin bo* — there is always *me'ila* in the case of *pigul*. This statement would seem to mean that when *pigul* is involved in *kodshei kodashim*, the meat never exits the *me'ila* category, presumably because the *zerika* with *pigul* intent is not a valid *zerika* and the meat therefore never becomes *mutar l'kohanim*. This appears to support Rav Giddel amar Rav directly.
 
+> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ: הַפִּיגּוּל לְעוֹלָם מוֹעֲלִין בּוֹ. לָאו אַף עַל גַּב דְּאִיזְּרִיק דָּם, וּמְסַיַּיע לֵיהּ!
+> **Translation:** The Gemara suggests: **Let us say** that the following *baraita* **supports** the opinion of Rav Giddel: With regard to an offering that is ***piggul*,** one who derives benefit **from it** is **always** liable for **misuse** of consecrated property. Does this **not** mean that the meat of an offering of the most sacred order is subject to the *halakhot* of misuse **even though** its **blood was sprinkled** with the intent to partake of it or to burn the portions consumed on the altar beyond its designated time? **And** if so, this **supports** Rav Giddel’s opinion.
+
+> **Hebrew/Aramaic:** לָא, דְּלֹא זָרַק הַדָּם. אִי דְּלֹא זָרַק הַדָּם, מַאי לְמֵימְרָא?
+> **Translation:** The Gemara rejects this suggestion: **No,** one cannot cite a proof from this *baraita*, as it is possible that the *baraita* is referring to a case **where** the priest did **not** yet **sprinkle the blood,** and that is why the offering is subject to the *halakhot* of misuse. But once the blood is sprinkled with improper intent, the offering is no longer subject to the *halakhot* of misuse. The Gemara asks: **If** the *baraita* is dealing with a case **where** the priest did **not** yet **sprinkle the blood, what** is the purpose **of stating** it? Certainly before its blood is sprinkled the offering is included in the category of “the sacred items of the Lord,” and is subject to the *halakhot* of misuse.
+
+> **Hebrew/Aramaic:** אֶלָּא: לְעוֹלָם דְּזָרֵיק, וְכִי תַּנְיָא הָהִיא, בְּעוֹלָה. אִי בְּעוֹלָה, פְּשִׁיטָא, דְּגָבוֹהַּ הִיא כּוּלַּהּ.
+> **Translation:** The Gemara suggest an alternative reason for rejecting the suggestion: **Rather,** the *baraita* is **actually** referring to a case **where** the blood was **sprinkled. But** nevertheless, it does not support Rav Giddel’s opinion, as **when that** *baraita* **is taught,** it is referring **to a burnt offering.** A burnt offering is always subject to the *halakhot* of misuse even after its blood is sprinkled, as it is never permitted to the priests in consumption. The Gemara raises a difficulty: **If** the ruling of the *baraita* is stated **with regard to a burnt offering,** then it is **obvious** that it is still subject to the *halakhot* of misuse, **as it entirely** belongs **to the Most High,** i.e., the entire offering is burned on the altar and none of it is consumed by the owners or priests.
+
 ### Zerika vs. No Zerika
 
-> **Hebrew/Aramaic:** לָא, דְּלֹא זָרַק הַדָּם. אִי דְּלֹא זָרַק הַדָּם, מַאי לְמֵימְרָא?
->
-> **Translation:** The Gemara rejects this suggestion: **No,** one cannot cite a proof from this *baraita*, as it is possible that the *baraita* is referring to a case **where** the priest did **not** yet **sprinkle the blood,** and that is why the offering is subject to the *halakhot* of misuse. But once the blood is sprinkled with improper intent, the offering is no longer subject to the *halakhot* of misuse. The Gemara asks: **If** the *baraita* is dealing with a case **where** the priest did **not** yet **sprinkle the blood, what** is the purpose **of stating** it? Certainly before its blood is sprinkled the offering is included in the category of "the sacred items of the Lord," and is subject to the *halakhot* of misuse.
+> **Hebrew/Aramaic:** הָכִי נָמֵי, לְכִי זָרֵיק תִּיגַּלֵּי מִילְּתָא. אִי בַּעֲבוֹדָה אַחַת, אִי בִּשְׁתֵּי עֲבוֹדוֹת.
+> **Translation:** Rav Ashi answered Ravina: **Indeed,** Rav Giddel agrees with this ruling. Although he maintains that slaughtering alone does not render an offering *piggul*, nevertheless, he agrees that **when** the blood is **sprinkled** afterward with *piggul* intent, it **will be revealed** whether there was *piggul* intent in the course of one rite or two rites. Consequently, **if** both intentions occurred **during one** sacrificial **rite,** everyone agrees that the offering is not *piggul*, despite the fact that the sprinkling was performed with *piggul* intent. But **if** the two intentions took place **during two** different sacrificial **rites,** then the question of whether it is *piggul* or merely disqualified is subject to the dispute between Rabbi Yehuda and the Rabbis. Yet, the offering cannot be established as *piggul* until after the sprinkling.
+
+> **Hebrew/Aramaic:** אִי הָכִי, גַּבֵּי תוֹדָה נָמֵי, עַד דְּזָרֵיק!
+> **Translation:** The Gemara raises a difficulty: But **if so, with regard to a thanks offering,** where it is stated that if the priest slaughtered it with the intent to partake of it or to burn the portions consumed on the altar beyond its designated time, then the loaves are sanctified (see 3b), the intention only at the time of the slaughtering should **also** not render the offering *piggul* **until** the blood is **sprinkled.** Since the mishna is apparently referring to a regular case of *piggul*, it must be speaking of a situation where the sprinkling was also performed with the *piggul* intent, which is how Ilfa explained the mishna on *Zevaḥim* 29b. If so, according to Rav Giddel, who maintains that slaughtering with the intent of *piggul* does not bring offerings of lesser sanctity into the status of being subject to the *halakhot* of misuse, how could the loaves be considered sanctified?
+
+> **Hebrew/Aramaic:** מַאי ״קָדַשׁ״ – לִיפָּסֵל, דְּבָעֵי שְׂרֵיפָה.
+> **Translation:** The Gemara explains: **What** does the mishna mean when it says that the loaves are considered **sanctified?** It does not mean that they are sanctified in the sense that they are subject to the *halakhot* of misuse. Rather, it means that they are sanctified to the extent that they have the possibility **to be disqualified,** to the extent **that** they **require burning** afterward.
+
 
 The *Gemara* asks: does this *braisa* not mean that even when *zerikas hadam* was performed — albeit with *machshaves pigul* — it is still not considered a legitimate *zerika*, and thus *me'ila* remains? *Umesayei lei* — this would be a support for Rav Giddel amar Rav. But the *Gemara* deflects: *lo, d'lo zarak dam* — perhaps the *braisa* is discussing a case where the blood was never sprinkled at all, meaning the *pigul* occurred at an earlier stage before any *zerika* took place.
 
@@ -64,33 +85,31 @@ The *Gemara* presses further: *iy d'lo zarak dam mai l'meimra* — if no *zerika
 
 ### Olah Me'ila Analysis
 
-> **Hebrew/Aramaic:** אֶלָּא: לְעוֹלָם דְּזָרֵיק, וְכִי תַּנְיָא הָהִיא, בְּעוֹלָה. אִי בְּעוֹלָה, פְּשִׁיטָא, דְּגָבוֹהַּ הִיא כּוּלַּהּ.
->
-> **Translation:** The Gemara suggest an alternative reason for rejecting the suggestion: **Rather,** the *baraita* is **actually** referring to a case **where** the blood was **sprinkled. But** nevertheless, it does not support Rav Giddel's opinion, as **when that** *baraita* **is taught,** it is referring **to a burnt offering.** A burnt offering is always subject to the *halakhot* of misuse even after its blood is sprinkled, as it is never permitted to the priests in consumption. The Gemara raises a difficulty: **If** the ruling of the *baraita* is stated **with regard to a burnt offering,** then it is **obvious** that it is still subject to the *halakhot* of misuse, **as it entirely** belongs **to the Most High,** i.e., the entire offering is burned on the altar and none of it is consumed by the owners or priests.
-
 The *Gemara* then proposes that the *braisa* may be discussing an *olah*, where there is no status change under any circumstances — before *zerika hadam* all parts belong to the *mizbe'ach*, and after *zerika hadam* they equally belong to the *mizbe'ach*. (The *or*, the hide, is a separate discussion we bracket here.) For an *olah*, then, there is always *me'ila*, and neither *pigul* nor the absence of *pigul* changes anything. *Iy b'olah peshita d'gavoa ihi kulla* — if it is an *olah*, of course there will always be *me'ila*: the entire offering belongs to God both before and after *zerika*, and *machshaves pigul* has no bearing on that.
 
 ### Dam Linah & Me'ila
 
-> **Hebrew/Aramaic:** וְעוֹד, דְּקָתָנֵי סֵיפָא: לָן דָּמָהּ, אַף עַל פִּי שֶׁחָזַר וּזְרָקוֹ – מוֹעֲלִין בּוֹ.
->
-> **Translation:** **And furthermore,** one may cite proof for the opinion of Rav Giddel from that *baraita*, **as the latter clause** of the *baraita* **teaches:** If **its blood was left overnight** instead of being sprinkled on the altar on the day it was slaughtered, **even though** the priest **later sprinkled it** on the following day, nevertheless, one who derives benefit **from it** is liable for **misuse** of consecrated property.
 
 The *seifa* of that *braisa*, however, states: *lan dama* — if the blood was left overnight (*linah*), even if one subsequently performed the *zerika*, *me'ilin bah* — *me'ila* still applies. The reason is clear: overnight blood is disqualified, and therefore no valid *zerika hadam* can be performed, so the meat cannot become *mutar ba'achilah*.
 
+[DAF:4b]
 ### Zerika Timing Proof
 
-> **Hebrew/Aramaic:** אִי אָמְרַתְּ בִּשְׁלָמָא בְּחַטָּאת – שַׁפִּיר.
->
+> **Hebrew/Aramaic:** וְעוֹד, דְּקָתָנֵי סֵיפָא: לָן דָּמָהּ, אַף עַל פִּי שֶׁחָזַר וּזְרָקוֹ – מוֹעֲלִין בּוֹ.
+> **Translation:** **And furthermore,** one may cite proof for the opinion of Rav Giddel from that *baraita*, **as the latter clause** of the *baraita* **teaches:** If **its blood was left overnight** instead of being sprinkled on the altar on the day it was slaughtered, **even though** the priest **later sprinkled it** on the following day, nevertheless, one who derives benefit **from it** is liable for **misuse** of consecrated property.
+
+> **Hebrew/Aramaic:** אִי אָמְרַתְּ בִּשְׁלָמָא בְּחַטָּאת – שַׁפִּיר.
 > **Translation:** The Gemara analyzes this statement of the *baraita*: **Granted, if you say** that the *baraita* is referring **to a sin offering,** then it is **well.** Since the blood was disqualified for sprinkling by being left overnight, it does not become permitted to the priests even after the blood is sprinkled, and is therefore subject to the *halakhot* of misuse. But if the blood had not been left overnight, the offering would not be subject to the *halakhot* of misuse, as the sprinkling would have removed the sin offering from that category due to the fact that it became permitted for the priests.
+
+> **Hebrew/Aramaic:** אֶלָּא אִי אָמְרַתְּ בְּעוֹלָה – צְרִיכָא לְמֵימַר?
+> **Translation:** **But if you say** that the *baraita* is referring **to a burnt offering,** does it **need to be said** that it is still subject to the *halakhot* of misuse? A burnt offering remains subject to the *halakhot* of misuse even if the blood had not been left overnight and the sprinkling was performed properly, as it never becomes permitted to the priests.
 
 Crucially, this *seifa* implies that had the blood been sprinkled at the correct time it *would* have changed the *me'ila* status. Therefore we cannot be discussing an *olah*, where there is never any change. *Ei amart b'chatas, shapir* — if we are dealing with a *chatas*, it makes perfect sense: a timely and valid *zerika* would remove the meat from *me'ila* status, whereas *dam linah* prevents that change.
 
 ### Reisha-Seifa Parallel
 
-> **Hebrew/Aramaic:** סֵיפָא וַדַּאי מְסַיַּיע לֵיהּ.
->
-> **Translation:** The Gemara comments: **The latter clause** of the *baraita* **certainly supports** the opinion of Rav Giddel, as it clearly shows that an unfit sprinkling does not remove an offering from being subject to the *halakhot* of misuse.
+> **Hebrew/Aramaic:** סֵיפָא וַדַּאי מְסַיַּיע לֵיהּ. רֵישָׁא, מַאי? הוֹאִיל וּמְסַיַּיע לֵיהּ סֵיפָא, מְסַיַּיע לֵיהּ נָמֵי רֵישָׁא?
+> **Translation:** The Gemara comments: **The latter clause** of the *baraita* **certainly supports** the opinion of Rav Giddel, as it clearly shows that an unfit sprinkling does not remove an offering from being subject to the *halakhot* of misuse. But with regard to **the first clause** of the *baraita*, **what** does it teach concerning the opinion of Rav Giddel? Is it reasonable to say that **since the latter clause** of the *baraita* **supports** the opinion of Rav Giddel, **the earlier clause,** which states that *piggul* is always subject to the *halakhot* of misuse, **also supports his** opinion?
 
 Since the *seifa* is clearly discussing a *chatas*, the *Gemara* concludes that the *reisha* should likewise be understood as discussing a *chatas*. *Ho'il umesayei lei seifa, mesayei lei nami reisha* — since the end of the *braisa* supports Rav Giddel amar Rav (inasmuch as it is clearly about a *chatas* and addresses a case of invalid *zerika*), the beginning of the *braisa* should also be read as discussing a *chatas*, where *pigul* at the *zerika* stage fails to change the *me'ila* status. Thus the *braisa* in its entirety provides a proof.
 
@@ -98,27 +117,37 @@ Since the *seifa* is clearly discussing a *chatas*, the *Gemara* concludes that 
 
 ## Linah vs. Pigul Intent
 
-### Active vs. Passive Psul
 
-> **Hebrew/Aramaic:** מַאי שְׁנָא הֲלָנָה – דְּקָעָבֵיד בְּיָדַיִם, לָא מַהְנֵי זְרִיקָה לְאַפּוֹקֵי מִידֵי מְעִילָה.
->
-> **Translation:** The Gemara clarifies: **What is the difference** between the two cases? The difference is with regard to **leaving** the blood **overnight, where it is performed in** relation to **an action,** i.e., the priest failed to act in the proper manner, **sprinkling** the blood **is not effective to remove** the offering from the status of being subject to the *halakhot* of **misuse.**
+
+### Active vs. Passive Psul
 
 The *Gemara* does not rest with this conclusion, however. Rav Yosef challenges the analogy between *dam linah* and *machshaves pigul* as causes of *psul*. The argument from *dam linah* to the *zerika* of *pigul* is that in both cases the *zerika* is invalid and therefore ought not to change *me'ila* status. But Rav Yosef presses: *mai shna halinah dekavid bayadayim?* — what is the distinction of *linah* that it was, in a sense, committed through active deed?
 
+> **Hebrew/Aramaic:** סֵיפָא לָאו וַדַּאי מְסַיַּיע לֵיהּ: מַאי שְׁנָא הֲלָנָה – דְּקָעָבֵיד בְּיָדַיִם, לָא מַהְנֵי זְרִיקָה לְאַפּוֹקֵי מִידֵי מְעִילָה.
+> **Translation:** The Gemara rejects this suggestion: It is **not** even **certain** that **the latter clause supports** Rav Giddel, as it is possible that although the sprinkling of blood that was left overnight does not remove an offering from being subject to the *halakhot* of misuse, nevertheless, sprinkling after *piggul* does achieve this. The Gemara clarifies: **What is the difference** between the two cases? The difference is with regard to **leaving** the blood **overnight, where it is performed in** relation to **an action,** i.e., the priest failed to act in the proper manner, **sprinkling** the blood **is not effective to remove** the offering from the status of being subject to the *halakhot* of **misuse.**
+
 ### Physical Action Element
+
 
 The subtlety here is the following. With *dam linah*, the blood is physically old blood, left overnight and then sprinkled — there is a concrete, objective defect in the blood itself. With *machshaves pigul*, by contrast, the only problem lies in one's intention. Physically, everything is performed correctly; the only disqualifying element is a thought in the mind of the *kohen*. *Machshava lo ka'avid bayadayim* — thought does not constitute physical action in the manner that leaving blood overnight does. Therefore, *mahni lei zerika le'afokei midei me'ila* — perhaps the *zerika* itself is sufficient to change the *me'ila* status, and the mental *psul* of *pigul* should not block it.
 
 ### Concrete vs. Mental
 
-> **Hebrew/Aramaic:** מַחְשָׁבָה – לָא קָא עָבֵיד בְּיָדַיִם, מַהְנֵי לֵיהּ זְרִיקָה לְאַפּוֹקֵי מִידֵי מְעִילָה.
->
-> **Translation:** By contrast, in the case of sprinkling after *piggul*, where the disqualification is merely a function of **intent,** which **is not performed in** relation to **an action,** perhaps **sprinkling** the blood **is effective to remove** the offering from the status of being subject to the *halakhot* of **misuse.**
-
 This distinction is, as noted, somewhat counterintuitive. One might have supposed that actively thinking something is more "active" than passively allowing blood to remain overnight. Yet the *Gemara*'s reasoning appears to be that when something must be done and one fails to do it correctly, one is operating within the domain of physical action — even if the action itself is incorrect. The blood was supposed to be sprinkled that day; by leaving it overnight and sprinkling it the next day, one has engaged in the domain of physical action and done it wrong. Whereas if everything physical was done correctly and only the mind went astray, this may be a less objectively concrete form of *psul*. Understood in this light: precisely because the *psul* of *pigul* is less tangible — it resides entirely in the mental realm, while the physical world remained undisturbed — one might argue that the *zerika* is valid enough in the physical dimension to change the *me'ila* status.
 
 ### Zerika Pigul Validity
+
+> **Hebrew/Aramaic:** מַחְשָׁבָה – לָא קָא עָבֵיד בְּיָדַיִם, מַהְנֵי לֵיהּ זְרִיקָה לְאַפּוֹקֵי מִידֵי מְעִילָה.
+> **Translation:** By contrast, in the case of sprinkling after *piggul*, where the disqualification is merely a function of **intent,** which **is not performed in** relation to **an action,** perhaps **sprinkling** the blood **is effective to remove** the offering from the status of being subject to the *halakhot* of **misuse.**
+
+> **Hebrew/Aramaic:** לֵימָא הָא מְסַיַּיע לֵיהּ: הַפִּיגּוּל בְּקׇדְשֵׁי קָדָשִׁים – מוֹעֲלִין בּוֹ. לָאו אַף עַל גַּב דְּזָרַק וּמְסַיַּיע לֵיהּ! לָא, דְּלֹא זָרַק.
+> **Translation:** The Gemara suggests: **Let** us **say** that **this** *baraita* **supports** the opinion of Rav Giddel: With regard to **an offering of the most sacred order that** is ***piggul*,** one who derives benefit **from it** is liable for **misuse** of consecrated property.Does this **not** mean that it is subject to the *halakhot* of misuse **even though** the priest **sprinkled** its blood, **and** if so this *baraita* **supports** Rav Giddel’s opinion? The Gemara rejects this suggestion: **No,** one cannot cite a proof from this *baraita*, as it is possible that it is referring to a case **where** the priest did **not** yet **sprinkle the blood.**
+
+> **Hebrew/Aramaic:** אֲבָל זָרַק, מַאי? הָכִי נָמֵי דְּאֵין מוֹעֲלִין בּוֹ? אַמַּאי קָתָנֵי סֵיפָא: בְּקָדָשִׁים קַלִּים – אֵין מוֹעֲלִין בּוֹ?
+> **Translation:** The Gemara asks: **But** if that is so, **what,** then, is the *halakha* if the priest did **sprinkle** the blood? Is the *halakha* **indeed that** one is **not** liable for **misusing it?** If so, **why is it taught** in **the latter clause** of the *baraita*: Unlike an offering of the most sacred order, **in** the case of **an offering of lesser sanctity,** one who derives benefit **from it** is **not** liable for **misuse** of consecrated property?
+
+> **Hebrew/Aramaic:** לִיפְלוֹג בְּרֵישָׁא, וְלִיתְנֵי: לִפְנֵי זְרִיקָה – מוֹעֲלִין בּוֹ, לְאַחַר זְרִיקָה – אֵין מוֹעֲלִין בּוֹ! הָהוּא וַדַּאי מְסַיַּיע לֵיהּ.
+> **Translation:** The Gemara explains the difficulty: If there is a difference between whether or not the priest sprinkled the blood, **let** the *baraita* **distinguish and teach** the distinction **in the first clause,** with regard to the case of offerings of the most sacred order itself, as follows: **Before** the **sprinkling** of the blood one is liable for **misusing** the offering, but **after** the **sprinkling** of the blood one is **not** liable for **misusing it.** It is not necessary to mention offerings of lesser sanctity at all. The Gemara concludes: **That** statement in the latter clause of the *baraita* **certainly supports** Rav Giddel’s opinion.
 
 This is the crux of why the *Gemara* cannot simply infer from *dam linah* to *machshaves pigul*. In the case of *linah*, there is an actual, objective disqualification of the blood itself; clearly the status does not change. When only a thought is involved and physically everything is in order, perhaps the *zerika* is considered sufficiently real to effect a change in status. Therefore the *braisa*'s ruling about *dam linah* cannot automatically be extended to the case of *pigul* at the moment of *zerika*.
 
@@ -128,27 +157,17 @@ The *Gemara* nonetheless notes that while this argument prevents a direct proof 
 
 ## Kadashim Braisa & Pigul
 
-### Pigul Kodshei Kodashim
 
-> **Hebrew/Aramaic:** לֵימָא הַפִּיגּוּל בְּקׇדְשֵׁי קָדָשִׁים – מוֹעֲלִין בּוֹ. לָאו אַף עַל גַּב דְּזָרַק וּמְסַיַּיע לֵיהּ! לָא, דְּלֹא זָרַק.
->
-> **Translation:** The Gemara suggests: **Let** us **say** that **this** *baraita* **supports** the opinion of Rav Giddel: With regard to **an offering of the most sacred order that** is ***piggul*,** one who derives benefit **from it** is liable for **misuse** of consecrated property.Does this **not** mean that it is subject to the *halakhot* of misuse **even though** the priest **sprinkled** its blood, **and** if so this *baraita* **supports** Rav Giddel's opinion? The Gemara rejects this suggestion: **No,** one cannot cite a proof from this *baraita*, as it is possible that it is referring to a case **where** the priest did **not** yet **sprinkle the blood.**
+
+### Pigul Kodshei Kodashim
 
 The *Gemara* attempts once more to bring a proof: *hapigul bekadshei kodashim mo'alin bo* — *pigul* in *kodshei kodashim* is subject to *me'ila*. This is a parallel formulation to the one discussed above, apparently stating that even with *pigul*, the meat of *kodshei kodashim* retains its *me'ila* status — which seems to support the view that *zerika* with *machshaves pigul* does not change the status.
 
-### Zerika Pigul Status Chan…
-
-> **Hebrew/Aramaic:** אֲבָל זָרַק, מַאי? הָכִי נָמֵי דְּאֵין מוֹעֲלִין בּוֹ? אַמַּאי קָתָנֵי סֵיפָא: בְּקָדָשִׁים קַלִּים – אֵין מוֹעֲלִין בּוֹ?
->
-> **Translation:** The Gemara asks: **But** if that is so, **what,** then, is the *halakha* if the priest did **sprinkle** the blood? Is the *halakha* **indeed that** one is **not** liable for **misusing it?** If so, **why is it taught** in **the latter clause** of the *baraita*: Unlike an offering of the most sacred order, **in** the case of **an offering of lesser sanctity,** one who derives benefit **from it** is **not** liable for **misuse** of consecrated property?
+### Zerika Pigul Status
 
 The *Gemara* asks: *lav af al gav dezarak* — does this not mean that even when *zerikas hadam* was performed (albeit with *machshaves pigul*), the status does not change? *Umesayei lei* — and that would support Rav Giddel amar Rav. The *Gemara* answers: *lo, d'lo zarak* — perhaps it refers to a case where no *zerika hadam* occurred at all. And if so, *aval zarak mai?* — if one did perform *zerika*, what would the rule be? Perhaps even with *pigul* intent the *zerika* would change the status.
 
 ### Kodshim Kalim No Me'ila
-
-> **Hebrew/Aramaic:** לִיפְלוֹג בְּרֵישָׁא, וְלִיתְנֵי: לִפְנֵי זְרִיקָה – מוֹעֲלִין בּוֹ, לְאַחַר זְרִיקָה – אֵין מוֹעֲלִין בּוֹ!
->
-> **Translation:** The Gemara explains the difficulty: If there is a difference between whether or not the priest sprinkled the blood, **let** the *baraita* **distinguish and teach** the distinction **in the first clause,** with regard to the case of offerings of the most sacred order itself, as follows: **Before** the **sprinkling** of the blood one is liable for **misusing** the offering, but **after** the **sprinkling** of the blood one is **not** liable for **misusing it.** It is not necessary to mention offerings of lesser sanctity at all.
 
 The *seifa* of this *braisa* states: *bekodashim kalim ein mo'alin bo* — in *kodshim kalim*, when there is *pigul*, there is no *me'ila*. The *Gemara* seizes on this. *Amai katani seifa bekodashim kalim ein mo'alin bo?* — why does the *braisa* need to go to *kodshim kalim* to find a case of no *me'ila*?
 
@@ -158,17 +177,12 @@ If one genuinely held that *zerika* with *pigul* intent is meaningless and there
 
 ### Seifa Proof
 
-> **Hebrew/Aramaic:** הָהוּא וַדַּאי מְסַיַּיע לֵיהּ.
->
-> **Translation:** The Gemara concludes: **That** statement in the latter clause of the *baraita* **certainly supports** Rav Giddel's opinion.
-
 *Liplug b'reisha v'lisni* — why not subdivide the *reisha* itself and teach: before *zerika* there is *me'ila*, and after *zerika* even with *pigul* intent there is no *me'ila*? The very fact that the *braisa* did not do so implies that after *zerika* with *pigul* intent, *me'ila* still applies. The *braisa* therefore went to *kodshim kalim* to find a categorical example of no *me'ila*, because it could not find that category in *kodshei kodashim* after a *zerika* of *pigul*. *Hahu vadai mesayei lei* — the *seifa* is definitely a proof for Rav Giddel amar Rav.
 
 ### Kodshim Kalim Categorical
 
-> **Hebrew/Aramaic:* קָדָשִׁים קַלִּים – פְּסִיקָא לֵיהּ, הָכָא – לָא פְּסִיקָא לֵיהּ.
->
-> **Translation:** The Gemara again answers that even the latter clause does not necessarily support the opinion of Rav Giddel, as one can explain that the reason the *baraita* distinguishes between offerings of the most sacred order and offerings of lesser sanctity, rather than providing a distinction within the category of offerings of the most sacred order itself, is that the case of **offerings of lesser sanctity is clear-cut,** i.e., all cases of offerings of lesser sanctity that are *piggul* are not subject to the *halakhot* of misuse. By contrast, **here** in the case of offerings of the most sacred order, it **is not clear-cut,** as there is a difference depending on the sprinkling of the blood.
+> **Hebrew/Aramaic:** לֵימָא הוֹאִיל וּמְסַיַּיע לֵיהּ סֵיפָא מְסַיַּיע לֵיהּ נָמֵי רֵישָׁא? קָדָשִׁים קַלִּים – פְּסִיקָא לֵיהּ, הָכָא – לָא פְּסִיקָא לֵיהּ.
+> **Translation:** The Gemara suggests: **Shall** we **say** that **since the latter clause supports** the opinion of Rav Giddel, **the first clause also supports** his opinion? The Gemara again answers that even the latter clause does not necessarily support the opinion of Rav Giddel, as one can explain that the reason the *baraita* distinguishes between offerings of the most sacred order and offerings of lesser sanctity, rather than providing a distinction within the category of offerings of the most sacred order itself, is that the case of **offerings of lesser sanctity is clear-cut,** i.e., all cases of offerings of lesser sanctity that are *piggul* are not subject to the *halakhot* of misuse. By contrast, **here** in the case of offerings of the most sacred order, it **is not clear-cut,** as there is a difference depending on the sprinkling of the blood.
 
 The reason the *braisa* chose *kodshim kalim* as its example is now explained: by *kodshim kalim* with a *pigul* thought, there is categorically never *me'ila* from beginning to end. Before *zerika* there is no *me'ila* because these are *kodshim kalim*. After *zerika* — even a *zerika* with *pigul* intent — there is still no *me'ila* because the *zerika* does not elevate the *emurim*. The category is thus *pesika* — settled and complete — without any internal exceptions. This makes *kodshim kalim* an ideal vehicle for stating a universal negative.
 
@@ -177,6 +191,8 @@ The *Gemara* then turns to the parallel structural question: since the *seifa* i
 ---
 
 ## Psul & Me'ila Conclusion
+
+
 
 ### Status Change Required
 
@@ -194,26 +210,26 @@ The real criterion for a change in *me'ila* status is physical fitness — eithe
 
 ## Mishna: Status Change
 
+
+
 ### Sha'at Heter Kohanim
 
-> **Hebrew/Aramaic:** כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ: כֹּל שֶׁהָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים – אֵין מוֹעֲלִין בָּהּ, וְכֹל שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים – מוֹעֲלִין בָּהּ.
->
+> **Hebrew/Aramaic:** כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ: כֹּל שֶׁהָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים – אֵין מוֹעֲלִין בָּהּ, וְכֹל שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים – מוֹעֲלִין בָּהּ.
 > **Translation:** § The mishna teaches that **Rabbi Yehoshua said a principle** with regard to misuse of disqualified sacrificial animals: With regard to **any** sacrificial animal **that had a period of fitness to the priests** before it was disqualified, one is **not** liable for **misusing it.** Misuse fundamentally applies to items consecrated to God, which are not permitted for human consumption at all. Once the offering was permitted for consumption by the priests, it is no longer in that category. **And** with regard to **any** sacrificial animal **that did not have a period of fitness for the priests** before it was disqualified, one is liable for **misusing it,** as it remained consecrated to God throughout.
+
 
 The *Gemara* now moves to the next passage of the *mishna*, which addresses precisely this issue of when status change occurs. Rabbi Yehoshua stated a general principle: *kol shena'asa lo sha'at heter lakohanim, ein mo'alin bo* — any time there was a moment when the meat became *mutar l'kohanim*, there is no longer *me'ila* on the meat of *kodshei kodashim*. Conversely, *vekol shelo na'asa lo sha'at heter lakohanim, mo'alin bo* — if it never became *mutar*, it retains its *me'ila* status.
 
 ### Status Change Examples
 
-> **Hebrew/Aramaic:** אֵיזוֹהִי שֶׁהָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים? שֶׁלָּנָה, וְשֶׁנִּטְמֵאת, וְשֶׁיָּצָאת.
->
+> **Hebrew/Aramaic:** אֵיזוֹהִי שֶׁהָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים? שֶׁלָּנָה, וְשֶׁנִּטְמֵאת, וְשֶׁיָּצָאת.
 > **Translation:** The mishna clarifies: **Which is** the sacrificial animal **that had a period of fitness for the priests?** This category includes a sacrificial animal **whose** meat **remained overnight** after it was properly sacrificed, and was therefore disqualified as *notar*, **and** one **that** was disqualified when it **became ritually impure** after it was properly sacrificed, **and** one **that left** the Temple courtyard after it was properly sacrificed and was thereby disqualified. All of these disqualifications transpired after consumption of the sacrificial meat was permitted, and therefore one who derives benefit from these offerings is not liable for misuse.
 
 The *mishna* then provides examples of cases where the meat *did* pass through a moment of *heter*: *she'lanah* — the meat stayed overnight (it had been *mutar* but became *notar*); *she'nitme'is* — it became *tamei* after being fit; *she'yatza'as* — it exited the *Beis Hamikdash* and became a *psul yotzei*. In all these cases there was a moment when the meat could have been eaten, and therefore it is no longer subject to *me'ila*.
 
 ### No Status Change
 
-> **Hebrew/Aramaic:** וְאֵיזוֹהִי שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים? שֶׁנִּשְׁחֲטָה חוּץ לִזְמַנָּהּ, וְחוּץ לִמְקוֹמָהּ, וְשֶׁקִּבְּלוּ פְּסוּלִין וְזָרְקוּ אֶת דָּמָהּ.
->
+> **Hebrew/Aramaic:** וְאֵיזוֹהִי שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הֶיתֵּר לַכֹּהֲנִים? שֶׁנִּשְׁחֲטָה חוּץ לִזְמַנָּהּ, וְחוּץ לִמְקוֹמָהּ, וְשֶׁקִּבְּלוּ פְּסוּלִין וְזָרְקוּ אֶת דָּמָהּ.
 > **Translation:** **And which is** the sacrificial animal **that did not have a period of fitness for the priests?** It is a sacrificial animal **that was slaughtered** with the intent to partake of it or sprinkle its blood or sacrifice its sacrificial portions **beyond its** designated **time, or outside its** designated **area, or** one **that** those **unfit** for Temple service **collected and sprinkled its blood.** All of these disqualifications occurred before consumption of the sacrificial meat was permitted by means of the sprinkling of the blood. Therefore, these offerings remain consecrated to God and one is liable for misuse if one derives benefit from them.
 
 Conversely, the *mishna* gives examples where the meat never passed through such a moment: *she'nishchetah chutz lizmano ve'chutz limkomo* — it was slaughtered with a *machshavah* of the wrong time or wrong place, a *pigul*-type disqualification; *she'kiblu psulim ve'zarku es damah* — *pasul* individuals caught the blood or sprinkled it. In all such cases the meat never became *mutar*, and *me'ila* applies throughout.
@@ -222,11 +238,9 @@ Conversely, the *mishna* gives examples where the meat never passed through such
 
 ## Bar Kappara Question
 
-### Three Heter Options
 
-> **Hebrew/Aramaic:** אָמַר לֵיהּ בַּר קַפָּרָא לְבַר פְּדָת: בֶּן אֲחוֹתִי, רְאֵה מָה אַתָּה שׁוֹאֲלֵנִי לְמָחָר בְּבֵית הַמִּדְרָשׁ: הֶיתֵּר שְׁחִיטָה שָׁנִינוּ,
->
-> **Translation:** With regard to this matter, the Gemara relates that **bar Kappara said to bar Pedat: My sister's son, look** into the topic of the question **that you will ask me tomorrow in the study hall.** The question involved the interpretation of Rabbi Yehoshua's statement: Any sacrificial animal that had a period of fitness to the priests. Was it **fitness** of **slaughtering** that **we learned,** i.e., provided that it was slaughtered properly, even if the offering was later disqualified, it is no longer subject to the *halakhot* of misuse.
+
+### Three Heter Options
 
 Bar Kappara said to Bar Padda — his nephew — the following: *re'ei mah ani sho'alcha lemachar beveis hamedrash* — "See what I want you to ask me tomorrow in the *Beis Hamedrash*." He was, in effect, either prepping his nephew to pose the right question publicly, or setting up the discussion that was to follow. The question he wished to have posed was this: when the *mishna* says that there was a *sha'at heter lakohanim*, what precise moment does that refer to? Three possibilities present themselves: *heter shechitah* — that the *shechitah* was performed correctly; *heter zerikah* — that it was fit for *zerikah*; or *heter achilah* — that it was actually fit to be eaten.
 
@@ -242,23 +256,17 @@ The *heter zerikah* option is connected to the principle of *kol ha'omed lizrok 
 
 ## Chizkiyahu vs. Yochanan
 
+
+
 ### Chizkiyahu Position
 
 The next day, when the question was posed in the *Beis Hamedrash*, Bar Kappara responded by presenting a *tannaitic*-era debate, or perhaps a debate among *Amoraim*. Chizkiyahu said: *heter shechitah shaninu* — the *mishna* is speaking of the moment of *shechitah*. As long as the *shechitah* was performed correctly, even if a *psul* occurred thereafter, that suffices to establish a *sha'at heter* and remove the meat from *me'ila*.
 
 ### Yochanan Position
 
-> **Hebrew/Aramaic:* אוֹ הֶיתֵּר זְרִיקָה שָׁנִינוּ, אוֹ הֶיתֵּר אֲכִילָה שָׁנִינוּ? חִזְקִיָּה אָמַר: הֶיתֵּר שְׁחִיטָה שָׁנִינוּ, רַבִּי יוֹחָנָן אָמַר: הֶיתֵּר אֲכִילָה שָׁנִינוּ.
->
-> **Translation:** **Or** was it **fitness** of **sprinkling** of the blood that **we learned,** i.e., once the blood is ready to be sprinkled, even if it was not sprinkled yet, the offering is no longer subject to the *halakhot* of misuse? **Or** was it **fitness** of **consuming** the meat of the offering that **we learned?** In other words, is it only after the blood was actually sprinkled properly, and the meat of the offering is permitted to be consumed by the priests, that the offering is no longer subject to the *halakhot* of misuse? The Gemara cites the different opinions with regard to this matter: **Ḥizkiyya says:** It was **fitness** of **slaughtering** that **we learned,** whereas **Rabbi Yoḥanan says:** It was **fitness** of **consuming** the meat of the offering that **we learned.**
-
 Rabbi Yochanan disagreed: *heter achilah shaninu* — the *mishna* means the moment at which the meat was actually fit to be eaten. Only when it reached that stage, having passed through a valid *zerika*, is there a true *sha'at heter lakohanim*. Notably, no opinion is recorded for *heter zerikah* in the sense of *kabalah* being the key moment — though that option will resurface shortly.
 
 ### Zeira Assessment
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: לָא דַּיְיקָא מַתְנִיתִין דְּלָא כְּחִזְקִיָּה וּדְלָא כְּרַבִּי יוֹחָנָן.
->
-> **Translation:** The Gemara further discusses this matter. **Rabbi Zeira says: The mishna is not precisely in accordance with** the opinion of **Ḥizkiyya nor** precisely **in accordance with** the opinion of **Rabbi Yoḥanan,** i.e., a close reading of the mishna does not conform to either of their interpretations of the phrase: A period of fitness.
 
 Rabbi Zeira then made a striking observation: *lo daka matnisin, delo k'Chizkiyahu, vedelo k'Rabbi Yochanan* — the *mishna* does not read precisely according to either position. This is a significant claim: the *mishna*'s language, if analyzed carefully, does not straightforwardly support either *heter shechitah* or *heter achilah*.
 
@@ -266,11 +274,9 @@ Rabbi Zeira then made a striking observation: *lo daka matnisin, delo k'Chizkiya
 
 ## Meat vs. Blood Analysis
 
-### Lanah: Meat or Blood
 
-> **Hebrew/Aramaic:** תְּנַן: שֶׁלָּנָה, וְשֶׁנִּטְמֵאת, וְשֶׁיָּצָאת. לָאו דְּלָן דָּם, וְקָתָנֵי: אֵין מוֹעֲלִין בּוֹ,
->
-> **Translation:** Rabbi Zeira elaborates: **We learned** in the mishna, in its list of examples of offerings that were disqualified after a period of fitness: A sacrificial animal **that remained overnight** after its blood was sacrificed on the altar and was therefore disqualified as *notar*, **and** one **that** was disqualified when it **became ritually impure, and** one **that left** the Temple courtyard and was thereby disqualified. **Isn't** the case of remaining overnight referring to a situation **where the blood remained overnight** and was not sprinkled after it was collected in a cup? **And** yet the mishna **teaches:** One is **not** liable for **misusing it,** as there was a period of fitness.
+
+### Lanah: Meat or Blood
 
 To demonstrate this, the *Gemara* turns to the specific examples in the *mishna*. The *mishna* says *she'lanah* — it stayed overnight. But what is the "it" that stayed overnight? The *Gemara* initially assumes, given the thrust of the discussion about *sha'at heter*, that the "it" refers to the meat: the meat was *mutar*, remained overnight, became *notar*. But one could alternatively read *lan dam* — the blood stayed overnight.
 
@@ -280,17 +286,9 @@ If the blood stayed overnight — meaning the *kabalah* was done correctly but t
 
 ### Meat Linah Implication
 
-> **Hebrew/Aramaic:* וּשְׁמַע מִינַּהּ: הֶיתֵּר זְרִיקָה שָׁנִינוּ!
->
-> **Translation:** **And** therefore, one can **learn from** the mishna that it was **fitness** of **sprinkling** of the blood that **we learned.**
-
 If, on the other hand, we read *lan basar* — the meat stayed overnight — then clearly the *zerika* must have already occurred, because only after a valid *zerika* does the meat attain its *mutar* status and become susceptible to becoming *notar*. Under this reading, the *mishna* is saying: the meat was once *mutar* (implying a valid *zerika* had taken place), subsequently became *notar* through *linah*, and therefore there is no *me'ila* — because there was indeed a *sha'at heter*.
 
 ### Zerika Needed
-
-> **Hebrew/Aramaic:* לָא, דְּלָן בָּשָׂר, אֲבָל דָּם אִיזְדְּרִיק, מִשּׁוּם הָכִי קָתָנֵי: אֵין מוֹעֲלִין בּוֹ.
->
-> **Translation:** The Gemara rejects this conclusion: **No,** the mishna is not referring to a case where the blood had not been sprinkled. Rather, it is dealing with a case **where the meat was left overnight, but the blood had** already **been sprinkled** properly. It is **due to this** that the mishna **teaches:** One is **not** liable for **misusing it,** as there was a period of fitness of consuming the meat, as stated by Rabbi Yoḥanan.
 
 Thus if we read *lan basar*, the *mishna* implicitly requires *zerika hadam* as a precondition for any status change — which aligns with Rabbi Yochanan's *heter achilah* position (or at least is consistent with it), since only after *zerika* does the meat become *mutar ba'achilah*. The *Gemara* concludes that this second reading is the correct one: it is the meat, not the blood, that stayed overnight, and therefore *zerika hadam* was necessarily a precondition. The *mishna*'s example thus does not support the *heter zerikah* / *kabalah* reading.
 
@@ -298,11 +296,9 @@ Thus if we read *lan basar*, the *mishna* implicitly requires *zerika hadam* as 
 
 ## Kiblu & Zarku Phrase
 
-### One or Two Scenarios
 
-> **Hebrew/Aramaic:* תְּנַן: וְאֵיזוֹ הִיא שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר לַכֹּהֲנִים? שֶׁנִּשְׁחֲטָה חוּץ לִזְמַנָּהּ, וְחוּץ לִמְקוֹמָהּ, וְשֶׁקִּבְּלוּ פְּסוּלִין וְזָרְקוּ אֶת דָּמָהּ.
->
-> **Translation:** The Gemara further analyzes Rabbi Yehoshua's statement. **We learned** in the mishna: **And which is** the sacrificial animal **that did not have a period of fitness for the priests?** It is a sacrificial animal **that was slaughtered** with the intent to partake of it or sprinkle its blood **beyond its** designated **time, or outside its** designated **area, or** one **that** those who are **unfit** for Temple service **collected** its blood for use in the sacrificial rite **and sprinkled its blood.**
+
+### One or Two Scenarios
 
 The *Gemara* then examines the second example in the *mishna* of where there was *no sha'at heter*: *she'kiblu psulim ve'zarku es damah* — *pasul* people received and sprinkled the blood. The critical question is how to parse this phrase: are *kiblu* and *zarku* describing one single scenario, or two independent scenarios connected by an implied "or"?
 
@@ -312,29 +308,90 @@ If it is one scenario — *pasulim* both caught and then sprinkled the blood —
 
 ### Two Scenarios = Zerika
 
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ בַּר קַפָּרָא לְבַר פְּדָת: בֶּן אֲחוֹתִי, רְאֵה מָה אַתָּה שׁוֹאֲלֵנִי לְמָחָר בְּבֵית הַמִּדְרָשׁ: הֶיתֵּר שְׁחִיטָה שָׁנִינוּ,
+> **Translation:** With regard to this matter, the Gemara relates that **bar Kappara said to bar Pedat: My sister’s son, look** into the topic of the question **that you will ask me tomorrow in the study hall.** The question involved the interpretation of Rabbi Yehoshua’s statement: Any sacrificial animal that had a period of fitness to the priests. Was it **fitness** of **slaughtering** that **we learned,** i.e., provided that it was slaughtered properly, even if the offering was later disqualified, it is no longer subject to the *halakhot* of misuse.
+
+> **Hebrew/Aramaic:** אוֹ הֶיתֵּר זְרִיקָה שָׁנִינוּ, אוֹ הֶיתֵּר אֲכִילָה שָׁנִינוּ? חִזְקִיָּה אָמַר: הֶיתֵּר שְׁחִיטָה שָׁנִינוּ, רַבִּי יוֹחָנָן אָמַר: הֶיתֵּר אֲכִילָה שָׁנִינוּ.
+> **Translation:** **Or** was it **fitness** of **sprinkling** of the blood that **we learned,** i.e., once the blood is ready to be sprinkled, even if it was not sprinkled yet, the offering is no longer subject to the *halakhot* of misuse? **Or** was it **fitness** of **consuming** the meat of the offering that **we learned?** In other words, is it only after the blood was actually sprinkled properly, and the meat of the offering is permitted to be consumed by the priests, that the offering is no longer subject to the *halakhot* of misuse? The Gemara cites the different opinions with regard to this matter: **Ḥizkiyya says:** It was **fitness** of **slaughtering** that **we learned,** whereas **Rabbi Yoḥanan says:** It was **fitness** of **consuming** the meat of the offering that **we learned.**
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: לָא דַּיְיקָא מַתְנִיתִין דְּלָא כְּחִזְקִיָּה וּדְלָא כְּרַבִּי יוֹחָנָן.
+> **Translation:** The Gemara further discusses this matter. **Rabbi Zeira says: The mishna is not precisely in accordance with** the opinion of **Ḥizkiyya nor** precisely **in accordance with** the opinion of **Rabbi Yoḥanan,** i.e., a close reading of the mishna does not conform to either of their interpretations of the phrase: A period of fitness.
+
+> **Hebrew/Aramaic:** תְּנַן: שֶׁלָּנָה, וְשֶׁנִּטְמֵאת, וְשֶׁיָּצָאת. לָאו דְּלָן דָּם, וְקָתָנֵי: אֵין מוֹעֲלִין בּוֹ,
+> **Translation:** Rabbi Zeira elaborates: **We learned** in the mishna, in its list of examples of offerings that were disqualified after a period of fitness: A sacrificial animal **that remained overnight** after its blood was sacrificed on the altar and was therefore disqualified as *notar*, **and** one **that** was disqualified when it **became ritually impure, and** one **that left** the Temple courtyard and was thereby disqualified. **Isn’t** the case of remaining overnight referring to a situation **where the blood remained overnight** and was not sprinkled after it was collected in a cup? **And** yet the mishna **teaches:** One is **not** liable for **misusing it,** as there was a period of fitness.
+
+> **Hebrew/Aramaic:** וּשְׁמַע מִינַּהּ: הֶיתֵּר זְרִיקָה שָׁנִינוּ!
+> **Translation:** **And** therefore, one can **learn from** the mishna that it was **fitness** of **sprinkling** of the blood that **we learned.** Since the slaughtering and collecting of the blood was performed properly, the offering is no longer subject to the *halakhot* of misuse, despite the fact that the blood was not actually sprinkled. This is not in accordance with the opinion of Ḥizkiyya or with the opinion of Rabbi Yoḥanan.
+
+> **Hebrew/Aramaic:** לָא, דְּלָן בָּשָׂר, אֲבָל דָּם אִיזְדְּרִיק, מִשּׁוּם הָכִי קָתָנֵי: אֵין מוֹעֲלִין בּוֹ.
+> **Translation:** The Gemara rejects this conclusion: **No,** the mishna is not referring to a case where the blood had not been sprinkled. Rather, it is dealing with a case **where the meat was left overnight, but the blood had** already **been sprinkled** properly. It is **due to this** that the mishna **teaches:** One is **not** liable for **misusing it,** as there was a period of fitness of consuming the meat, as stated by Rabbi Yoḥanan.
+
+> **Hebrew/Aramaic:** תְּנַן: וְאֵיזוֹ הִיא שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר לַכֹּהֲנִים? שֶׁנִּשְׁחֲטָה חוּץ לִזְמַנָּהּ, וְחוּץ לִמְקוֹמָהּ, וְשֶׁקִּבְּלוּ פְּסוּלִין וְזָרְקוּ אֶת דָּמָהּ.
+> **Translation:** The Gemara further analyzes Rabbi Yehoshua’s statement. **We learned** in the mishna: **And which is** the sacrificial animal **that did not have a period of fitness for the priests?** It is a sacrificial animal **that was slaughtered** with the intent to partake of it or sprinkle its blood **beyond its** designated **time, or outside its** designated **area, or** one **that** those who are **unfit** for Temple service **collected** its blood for use in the sacrificial rite **and sprinkled its blood.**
+
+> **Hebrew/Aramaic:** הֵיכִי דָּמֵי, אִילֵּימָא דִּזְרָקוּהוּ פְּסוּלִין וְקִבְּלוּהוּ פְּסוּלִין – לְמָה לִי עַד דְּאִיכָּא תַּרְתֵּי?
+> **Translation:** **What are the circumstances** referred to in the mishna, with regard to people who are unfit for collecting and sprinkling the blood? **If we say** that the mishna is dealing with a case **where** the blood was both **sprinkled** by those who are **unfit** for Temple service **and** the blood was also **collected** by those who are **unfit** for Temple service, this is difficult: **Why do I** need to say that it is not disqualified **until there are two** actions, collecting and sprinkling, which were performed improperly? After all, the offering is disqualified as soon as those who are unfit for Temple service collect the blood.
+
+> **Hebrew/Aramaic:** אֶלָּא לָאו דְּקִבְּלוּהוּ פְּסוּלִין וּזְרָקוּהוּ כְּשֵׁרִים, וְקָתָנֵי מוֹעֲלִין בּוֹ,
+> **Translation:** **Rather, is it not** referring to a case **where** the blood was **collected** by those who are **unfit** for Temple service **but sprinkled** by those who are **fit? And** the mishna thereby **teaches** us that it is only in this case that one is liable for **misusing it.** This is due to the fact that there was no period of fitness for sprinkling the blood. By contrast, had the blood been collected by those who are fit for Temple service, where the blood is fit for sprinkling, the offering would no longer be subject to the *halakhot* of misuse, even if it was sprinkled by those who are unfit for Temple service.
+
+> **Hebrew/Aramaic:** שְׁמַע מִינַּהּ: הֶיתֵּר זְרִיקָה שָׁנִינוּ.
+> **Translation:** If so, one can **learn from** the mishna that it is **fitness** of **sprinkling** of the blood that **we learned.** In other words, already at this stage the offering is no longer subject to the *halakhot* of misuse, despite the fact that the blood was not actually sprinkled. This is not in accordance with the opinion of Ḥizkiyya or the opinion of Rabbi Yoḥanan.
+
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב יוֹסֵף: וְאִי סָלְקָא דַּעְתָּךְ אִיכָּא לְפַלּוֹגֵי הָכִי, הָא דִּתְנַן הָתָם:
+> **Translation:** **Rav Yosef objects to this** interpretation of the mishna: **But if** it **enters your mind** that **there is** a way **to make this distinction** in the mishna, between a case where the blood was collected by those who are unfit for Temple service and sprinkled by those who are fit and a situation where it was collected by those who are fit for Temple service and sprinkled by those who are unfit, then this would present a difficulty with regard to **that which we learned** in a mishna **there** (*Zevaḥim* 92a).
+
+> **Hebrew/Aramaic:** חַטָּאת פְּסוּלָה – אֵין דָּמָהּ טָעוּן כִּיבּוּס, בֵּין שֶׁהָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר וְנִפְסְלָה, וּבֵין שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר וְנִפְסְלָה.
+> **Translation:** The Gemara cites the relevant mishna: With regard to **a disqualified sin offering, its blood does not** cause a garment to **require laundering whether** the offering **had a period of fitness** when its blood was fit for presentation **or whether it did not have a period of fitness.** In either case, as the offering is currently unfit, its blood does not require laundering.
+
 Alternatively, one could read the *vav* as a disjunction: either *psulim* caught the blood, *or* they sprinkled it. Under this reading, the *mishna* is giving two independent examples of disqualification, one involving *kabalah* alone and one involving *zerika* alone. This would imply that the *zerika* stage is independently significant — a *pasul zerika*, even with a proper *kabalah*, is itself sufficient to prevent the status change. This reading would align the *mishna* with the view that *zerika* is the key moment.
+
+The *Gemara*, however, does not accept this disjunctive reading. Instead, it pursues the one-scenario interpretation and pushes it further. Even granting the one-scenario reading, a question arises about how to parse the phrase *kiblu psulim ve-zarku es hadam* — they caught and they sprinkled the blood. If both the catching and the sprinkling were done by *psulim*, then why does the *mishna* need to state both? The redundancy would serve no purpose. The more economical reading, then, is *ella lav de-kiblu psulim ve-zarku ksheirim* — that *psulim* caught the blood, but qualified priests performed the *zerika*. Crucially, the *mishna* does not specify who sprinkled; it says only that the blood was sprinkled — *ve-zarku es hadam*, passive in its implication — and so the act of *zerika* reverts to valid officiants. On this reading, the *psul* resides entirely in the *kabalah*, and the argument is that had the disqualification entered only at the *zerika* stage rather than at the *kabalah*, it would not have prevented the status change at all. The entire weight of the case rests on the moment of *kabalah*. The lecturer notes, though, that this is not the most airtight proof — its force depends entirely on how one chooses to read that *vav*, and reasonable readers could parse it otherwise. It is with that caveat in mind that *Rav Yosef* now challenges the argument, as the *Gemara* will address shortly.
 
 ---
 
 ## Zevachim Comparison
 
-### Psul Blood No Kibus
 
-> **Hebrew/Aramaic:* הֵיכִי דָּמֵי, אִילֵּימָא דִּזְרָקוּהוּ פְּסוּלִים וְקִבְּלוּהוּ פְּסוּלִים – לְמָה לִי עַד דְּאִיכָּא תַּרְתֵּי?
->
-> **Translation:** **What are the circumstances** referred to in the mishna, with regard to people who are unfit for collecting and sprinkling the blood? **If we say** that the mishna is dealing with a case **where** the blood was both **sprinkled** by those who are **unfit** for Temple service **and** the blood was also **collected** by those who are **unfit** for Temple service, this is difficult: **Why do I** need to say that it is not disqualified **until there are two** actions, collecting and sprinkling, which were performed improperly? After all, the offering is disqualified as soon as those who are unfit for Temple service collect the blood.
+
+### Psul Blood No Kibus
 
 The *Gemara* now introduces a comparison to a *halacha* from *Zevachim* in order to evaluate these competing readings of the phrase *kiblu psulim ve'zarku es damah*. That *halacha* concerns the *mitzvas ha-Torah* that blood of a *chatas* which splatters on a garment must be laundered (*kibus*) in a holy place. The *halacha* is that this applies only to the blood of a *chatas kesherah* — a valid *chatas*. A *chatas pesulah* whose blood splatters on a garment does not require *kibus*.
 
 ### Timing Irrelevant
 
+
 In this context of *Zevachim*, the timing of the *psul* is irrelevant. It does not matter whether the *chatas* was once fit and subsequently became disqualified, or whether it was never fit from the beginning. All that matters is its present status at the time of the spattering: if it is *pasul* now, the blood does not have the potency to require *kibus*.
 
 ### Zevachim Categories
 
+> **Hebrew/Aramaic:** אִי זוֹ הִיא שֶׁהָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר וְנִפְסְלָה? שֶׁלָּנָה, וְשֶׁנִּטְמֵאת, אוֹ שֶׁיָּצְאָה.
+> **Translation:** The mishna proceeds to explain: **Which** offering **is** the disqualified sin offering **that had a period of fitness and was** then **disqualified?** It is one **that was left overnight** and then became disqualified as *notar*; **or** it is one **that became ritually impure; or** it is one **that left** the Temple courtyard.
+
+> **Hebrew/Aramaic:** אֵיזוֹהִי שֶׁלֹּא הָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר? שֶׁנִּשְׁחֲטָה חוּץ לִמְקוֹמָהּ, חוּץ לִזְמַנָּהּ, וְשֶׁקִּבְּלוּ פְּסוּלִין וְזָרְקוּ אֶת דָּמָהּ.
+> **Translation:** **Which** offering **is** the disqualified sin offering **that did not have a period of fitness?** It is one **that was slaughtered** with the intent to eat it or present its blood **beyond its** designated **time or outside its** designated **area; or** it is one whose blood was **collected** by people **disqualified** for Temple service **and** they **sprinkled its blood.**
+
 Nevertheless, the *Gemara* there in *Zevachim* does describe both categories: *she'hayesa la sha'as ha'kosher ve'nifselah* — it was once fit and then became disqualified; and *she'lo hayesa la sha'as ha'kosher* — it was never fit. Although the legal outcome is identical in both cases, the *braisa* describes them separately.
 
-### No Distinction in Zevach…
+### Blood Potency in Zevachim
+
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא דְּקִבְּלוּהוּ פְּסוּלִין וְזָרְקוּ פְּסוּלִין – הוּא דְּאֵין דָּמָהּ טָעוּן כִּיבּוּס, הָא קִבְּלוּהוּ וְזָרְקוּ כְּשֵׁרִים – דָּמָהּ טָעוּן כִּיבּוּס.
+> **Translation:** Rav Yosef analyzes this mishna: **What are the circumstances** of the mishna’s case? **If we say** that the mishna is referring specifically to a situation **where** the blood was both **collected** by those who are **unfit** for Temple service **and** also **sprinkled** by those who are **unfit** for Temple service, and it is only in such a case **that its blood does not** cause a garment to **require laundering,** it may be inferred that if the blood was **collected** by those who are **fit** for Temple service and sprinkled by those who are unfit, or collected by those who are unfit and **sprinkled** by those who are **fit,** then **its blood** does cause a garment to **require laundering.** But this inference is difficult: It is not possible to interpret the mishna in such a manner, as that conclusion is incorrect.
+
+> **Hebrew/Aramaic:** קְרִי כָּאן: ״אֲשֶׁר יִזֶּה מִדָּמָהּ״ – וְלֹא שֶׁכְּבָר הוּזָּה? אֶלָּא: לָאו דַּוְקָא,
+> **Translation:** The Gemara explains why the above conclusion is untenable: **Read here** the verse that states, with regard to laundering a garment on which the blood of a sin offering was sprayed: “And **if any of its blood is sprinkled** on a garment, you shall wash that upon which it was sprinkled in a holy place” (Leviticus 6:20). The Sages infer from the verse that this *halakha* applies only to the blood of a sin offering that has not yet been sprinkled, **and not to** blood of a sin offering whose blood **had already been sprinkled. Rather,** one can conclude that the language of the mishna with regard to the topic of the blood of a sin offering is **not exact,** as the same *halakha* applies even if the blood was collected and sprinkled by those who are fit.
+
+> **Hebrew/Aramaic:** הָכִי נָמֵי, לָאו דַּוְקָא. אָמַר רַב אַסִּי: אִם כֵּן, לְמָה לִי לְמִיתְנֵי תַּרְתֵּי?
+> **Translation:** If so, one can say that **so too** the mishna here is **not exact,** and therefore one cannot infer from it that the *halakhot* of misuse apply only when those who were unfit for Temple service collected the blood. Rather, the *halakhot* of misuse are in effect even if those who collected the blood were fit and those who sprinkled it were unfit, which means that the phrase: A period of fitness, can be referring to fitness of consuming the meat of the offering. **Rav Asi said: If so,** that the mishna is not exact, **why do I** need the *tanna* to **teach two** *mishnayot* in an inexact manner? It must be that at least one of them is taught in a precise fashion, and for that reason the same style was preserved in the other mishna.
+
+> **Hebrew/Aramaic:** אֶלָּא לְעוֹלָם דִּמְעִילָה דַּוְקָא,
+> **Translation:** **Rather,** one must say that only one mishna is imprecise, i.e., the one in *Zevaḥim* with regard to the blood of a sin offering, and **actually** the mishna here **with regard to misuse** of consecrated property is **precise,** and therefore one can infer that the meaning of the phrase: A period of fitness, is fitness to sprinkle the blood.
+
+> **Hebrew/Aramaic:** וְהָא קָא מַשְׁמַע לַן: דְּפָסוּל עוֹשֶׂה שִׁירַיִים,
+> **Translation:** **And** as for the mishna in *Zevaḥim*, which speaks of those who are unfit for collecting the blood despite the fact that the same *halakha* applies if those who are fit collected it, **this** is what it **teaches us: That** if those who are **unfit** for Temple service collected some of the blood, it **renders** the blood, including that which he did not collect, as **leftovers.** The blood has the same status as the remainder of the blood of a fit offering after some of its blood was sprinkled on the altar.
+
+> **Hebrew/Aramaic:** אַף עַל גַּב דְּקִיבֵּל פָּסוּל וְזָרַק, וְקִיבֵּל כָּשֵׁר וְזָרַק – לָאו כְּלוּם הִיא. מַאי טַעְמָא? דְּשִׁירַיִים נִינְהוּ.
+> **Translation:** And consequently, it teaches with regard to a case where the blood was collected in two vessels, that **even though** the priest who was **unfit collected** the blood **and sprinkled** it, **and** a priest who was **fit** subsequently **collected** the blood **and sprinkled** it, the sprinkling of the fit priest is considered as though he did **not** do **anything. What is the reason** for this? The reason is **that** the blood **is** considered **leftovers.**
 
 In the *Zevachim* passage, the same phrase appears: *she'kiblu psulim ve'zarku es damah* — as an example of a *chatas* that was never fit. Rav Yosef raises this parallel as a challenge to the reading proposed earlier in the context of *me'ila*, where one wished to be very precise about the phrase and infer from it that the *kabalah* is the key moment. Rav Yosef points out: if you read this phrase with such precision in *me'ila*, then in *Zevachim* — where the identical phrase appears — you would be claiming that only *kiblu psulim ve'zarku* (both together in one scenario) constitutes a *chatas pesulah*, and that if only *psulim* caught the blood but *kesherim* subsequently sprinkled it, the garment *would* require *kibus*. But that cannot be correct, for reasons the *Gemara* now develops.
 
@@ -342,11 +399,9 @@ In the *Zevachim* passage, the same phrase appears: *she'kiblu psulim ve'zarku e
 
 ## Torah Requirement Drasha
 
-### Kri Kan Drasha
 
-> **Hebrew/Aramaic:* קְרִי כָּאן: ״אֲשֶׁר יִזֶּה מִדָּמָהּ״ – וְלֹא שֶׁכְּבָר הוּזָּה? אֶלָּא: לָאו דַּוְקָא,
->
-> **Translation:** The Gemara explains why the above conclusion is untenable: **Read here** the verse that states, with regard to laundering a garment on which the blood of a sin offering was sprayed: "And **if any of its blood is sprinkled** on a garment, you shall wash that upon which it was sprinkled in a holy place" (Leviticus 6:20). The Sages infer from the verse that this *halakha* applies only to the blood of a sin offering that has not yet been sprinkled, **and not to** blood of a sin offering whose blood **had already been sprinkled. Rather,** one can conclude that the language of the mishna with regard to the topic of the blood of a sin offering is **not exact,** as the same *halakha* applies even if the blood was collected and sprinkled by those who are fit.
+
+### Kri Kan Drasha
 
 The *Torah* states: *va'asher yizeh mi-damah* — "whichever [garment] its blood spatters upon." The *Gemara* derives through a *drasha*: *kri kan asher yizeh mi-damah velo she-kevar huzah* — the verse refers to blood that is *about to be* sprinkled, not blood after it has already been sprinkled on the *mizbe'ach*. Once blood has been properly placed on the *mizbe'ach*, all remaining blood — including blood that was legitimately caught by a *kasher kohen* — loses its potency for the purpose of *kibus*. The remainder becomes *shirayim*, blood that is poured at the base of the *mizbe'ach* but no longer has the active status that would require *kibus*.
 
@@ -362,11 +417,9 @@ The *Gemara* therefore proposes: *ela lav davka* — the phrase *kiblu psulim ve
 
 ## Rav Assi Challenge
 
-### Stock Phrase Origin
 
-> **Hebrew/Aramaic:* אֶלָּא לָאו דְּקִבְּלוּהוּ פְּסוּלִים וּזְרָקוּהוּ כְּשֵׁרִים, וְקָתָנֵי מוֹעֲלִין בּוֹ,
->
-> **Translation:** **Rather, is it not** referring to a case **where** the blood was **collected** by those who are **unfit** for Temple service **but sprinkled** by those who are **fit? And** the mishna thereby **teaches** us that it is only in this case that one is liable for **misusing it.** This is due to the fact that there was no period of fitness for sprinkling the blood. By contrast, had the blood been collected by those who are fit for Temple service, where the blood is fit for sprinkling, the offering would no longer be subject to the *halakhot* of misuse, even if it was sprinkled by those who are unfit for Temple service.
+
+### Stock Phrase Origin
 
 Rav Assi is not satisfied with this resolution. *Im ken lama li lemitni tarti?* — if the phrase is a stock phrase, why would it be taught in two places? If it is inexact in both places, then there was no point at which the phrase was used with genuine precision, and one must wonder how such an imprecise formula came into circulation at all. A stock phrase borrowed imprecisely must have had its origin in a place where it was precise. One location must have meant the phrase exactly as stated, and then it was borrowed elsewhere with some looseness.
 
@@ -386,11 +439,12 @@ Here is the scenario: two people caught blood from the same *korban* — one *pa
 
 ## Shirayim Debate
 
+
+
 ### Shirayim Question
 
-> **Hebrew/Aramaic:* שְׁמַע מִינַּהּ: הֶיתֵּר זְרִיקָה שָׁנִינוּ.
->
-> **Translation:** If so, one can **learn from** the mishna that it is **fitness** of **sprinkling** of the blood that **we learned.** In other words, already at this stage the offering is no longer subject to the *halakhot* of misuse, despite the fact that the blood was not actually sprinkled. This is not in accordance with the opinion of Ḥizkiyya or the opinion of Rabbi Yoḥanan.
+> **Hebrew/Aramaic:** וְהָא בְּעָא מִינֵּיהּ רֵישׁ לָקִישׁ מֵרַבִּי יוֹחָנָן: פָּסוּל, מַהוּ שֶׁיַּעֲשֶׂה שִׁירַיִים?
+> **Translation:** The Gemara objects: **But didn’t Reish Lakish ask Rabbi Yoḥanan:** In the case of an individual **unfit** for Temple service who sprinkled the blood, **what is** the *halakha* with regard to the remaining blood? Does the fact that he sprinkled some of the blood **render** the remaining blood **leftovers?**
 
 Reish Lakish had in fact posed precisely this question to Rabbi Yochanan: *pasul mahu sheyaaseh shirayim?* — if a *pasul* person performs *zerika* and there is other blood that was caught by a *kasher kohen*, does the *pasul* person's *zerika* make the *kasher* blood *shirayim*?
 
@@ -410,13 +464,26 @@ Any other form of *psul*, however, is completely ineffective for this purpose. A
 
 ## Pigul & Tuma Validity
 
+
+
 ### Only Pigul-Type
 
-> **Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב יוֹסֵף: וְאִי סָלְקָא דַּעְתָּךְ אִיכָּא לְפַלּוֹגֵי הָכִי, הָא דִּתְנַן הָתָם:
->
-> **Translation:** **Rav Yosef objects to this** interpretation of the mishna: **But if** it **enters your mind** that **there is** a way **to make this distinction** in the mishna, between a case where the blood was collected by those who are unfit for Temple service and sprinkled by those who are fit and a situation where it was collected by those who are fit for Temple service and sprinkled by those who are unfit, then this would present a difficulty with regard to **that which we learned** in a mishna **there** (*Zevaḥim* 92a).
+> **Hebrew/Aramaic:** וַאֲמַר לֵיהּ: אֵין לְךָ דָּבָר שֶׁיַּעֲשֶׂה שִׁירַיִים אֶלָּא חוּץ לִזְמַנּוֹ וְחוּץ לִמְקוֹמוֹ, הוֹאִיל וּמְרַצִּין לְפִיגּוּלָן.
+> **Translation:** **And** Rabbi Yoḥanan **said to him** in response: **You do not have a matter** of an invalid sprinkling **that renders** the remaining blood **leftovers except** for a case where he sprinkled the blood with the intent to consume the offering **beyond its** designated **time or outside its** designated **area.** In these instances it is considered a significant sprinkling, **since** this sprinkling with improper intent **effects acceptance,** i.e., it is considered a valid sprinkling **with regard to** rendering the meat of the offering ***piggul*.**
 
-The *Gemara* then refines Rabbi Yochanan's statement. The formulation *ein lecha davar sheyaaseh shirayim ela chutz lizmano ve'chutz limkomo* — nothing creates *shirayim* except *pigul*-type intent — appears at first to be absolute. Yet this raises an obvious difficulty: what about *tuma*?
+> **Hebrew/Aramaic:** מַאי לָאו, בַּר מִפָּסוּל? לָא, אֲפִילּוּ פָּסוּל.
+> **Translation:** The Gemara analyzes Rabbi Yoḥanan’s statement: **What, is it not** the case that when he said that only *piggul* intent renders the blood leftovers, this is **to the exclusion of** a sprinkling performed by **an unfit** priest? If so, this would mean that an unfit priest does not render the remainder of the blood leftovers, which contradicts the opinion of Rav Asi. The Gemara rejects this inference: **No, even an unfit** priest renders the blood leftovers.
+
+> **Hebrew/Aramaic:** וְהָא ״אֵין לְךָ״ קָתָנֵי!
+> **Translation:** The Gemara objects: **But** Rabbi Yoḥanan **taught** in a broad manner: **You do not have** a matter of an invalid sprinkling that renders the remaining blood leftovers except for a case where he sprinkled the blood with the intent to consume the offering beyond its designated time or outside its designated area. Evidently, Rabbi Yoḥanan maintains that the blood is rendered leftovers only in those cases.
+
+> **Hebrew/Aramaic:** הָכִי קָתָנֵי: אֵין לְךָ דָּבָר שֶׁאֵינוֹ מְרַצֶּה בְּצִיבּוּר וְעוֹשֶׂה שִׁירַיִים אֶלָּא חוּץ לִזְמַנּוֹ וְחוּץ לִמְקוֹמוֹ, אֲבָל טָמֵא, דְּאִיתֵיהּ בְּצִיבּוּר – מְשַׁוֵּי שִׁירַיִים,
+> **Translation:** The Gemara explains that **this** is what Rabbi Yoḥanan **is teaching: You do not have a matter** of an invalid sprinkling **that does not effect acceptance in** the case of offerings of the **community,** and yet **which renders** the remaining blood **leftovers, except** for a case where he sprinkled the blood with the intent to consume the offering **beyond its** designated **time or outside its** designated **area.** Although these offerings are not sacrificed, nevertheless the sprinklings render the blood leftovers. **But** Rabbi Yoḥanan was not referring to a ritually **impure** priest, **who is** fit to effect acceptance for offerings **of** the **community** in a case where the majority of the community is impure, as he **does render** the remainder of the blood **leftovers.**
+
+> **Hebrew/Aramaic:** שְׁאָר פְּסוּלִין דְּלָא אִיתַנּוּן בְּצִיבּוּר – לָא מְשַׁוִּין שִׁירַיִים.
+> **Translation:** By contrast, with regard to all **other invalid** sprinklings, which **are not** fit to effect acceptance in the case of offerings **of** the **community,** e.g., a blemished priest, they **do not render** the blood **leftovers.** Accordingly, Rav Asi’s comment, that the mishna in *Zevaḥim* teaches that if those who are unfit for Temple service collect some of the blood they thereby render the blood leftovers, is referring only to an impure priest.
+
+The *Gemara* then refines Rabbi Yochanan's statement. The formulation *ein lecha davar sheyaaseh shirayim ela chutz lizmano ve'chutz limkomo* — nothing creates *shirayim* except *pigul*-type intent — appears at first to be absolute. The reasoning behind this formulation, as the *Gemara* makes explicit, is the principle of *hoil umeratzin lepigulan* — since *chutz lizmano* and *chutz limkomo* thoughts cause the *korban* to be accepted, as it were, for the purpose of *pigul*. In that sense, the *zerika* is treated as a good *avodah* in some meaningful respect, and it is precisely that quasi-validity which renders the remaining blood *shirayim*. Anything short of that — any *psul* that carries no such dimension of acceptance — is entirely irrelevant to the status of the remaining blood. Yet this raises an obvious difficulty: what about *tuma*?
 
 ### B'Tzibur Overwritten
 
@@ -440,27 +507,34 @@ This clarification, while initially appearing as a digression, in fact crystalli
 
 ## Back to Main Question
 
-### Hapigul Revisited
 
-> **Hebrew/Aramaic:* לֵימָא הוֹאִיל וּמְסַיַּיע לֵיהּ סֵיפָא מְסַיַּיע לֵיהּ נָמֵי רֵישָׁא?
->
-> **Translation:** The Gemara suggests: **Shall** we **say** that **since the latter clause supports** the opinion of Rav Giddel, **the first clause also supports** his opinion?
+
+### Hapigul Revisited
 
 The *Gemara* returns to its main inquiry — the question of which moment determines the status change in *me'ila* — and revisits the first *braisa*: *hapigul l'olam mo'ilin bo*. This is the same formulation examined at the beginning of the *daf*.
 
+> **Hebrew/Aramaic:** תָּא שְׁמַע: הַפִּיגּוּל – לְעוֹלָם מוֹעֲלִין בּוֹ.
+> **Translation:** The Gemara further analyzes Rabbi Yehoshua’s phrase: That had a period of fitness to the priests. **Come** and **hear** a *baraita*: With regard to an offering of the most sacred order that is ***piggul*,** one who derives benefit **from it** is **always** liable for **misuse** of consecrated property.
+
 ### L'olam Inference
+
 
 The *Gemara* attempts to use this *braisa* as evidence for the *kabalah* position. The argument runs as follows: the phrase *l'olam mo'ilin bo* — "always there is *me'ila*" — implies a universality. Perhaps the emphasis of *l'olam* is to convey that even when *pigul* occurred at an earlier stage, before *zerika*, the *me'ila* status never changes. This would suggest that the key moment is *kabalah* — since if *pigul* attached at *kabalah*, the *zerika* cannot remedy it. The *l'olam* underscores that no subsequent act repairs the problem.
 
 ### Lav Delo Zarak
 
-> **Hebrew/Aramaic:* אֶלָּא: לְעוֹלָם דְּזָרֵיק, וְכִי תַּנְיָא הָהִיא, בְּעוֹלָה. אִי בְּעוֹלָה, פְּשִׁיטָא, דְּגָבוֹהַּ הִיא כּוּלַּהּ.
->
-> **Translation:** The Gemara suggest an alternative reason for rejecting the suggestion: **Rather,** the *baraita* is **actually** referring to a case **where** the blood was **sprinkled. But** nevertheless, it does not support Rav Giddel's opinion, as **when that** *baraita* **is taught,** it is referring **to a burnt offering.** A burnt offering is always subject to the *halakhot* of misuse even after its blood is sprinkled, as it is never permitted to the priests in consumption. The Gemara raises a difficulty: **If** the ruling of the *baraita* is stated **with regard to a burnt offering,** then it is **obvious** that it is still subject to the *halakhot* of misuse, **as it entirely** belongs **to the Most High,** i.e., the entire offering is burned on the altar and none of it is consumed by the owners or priests.
+> **Hebrew/Aramaic:** לָאו דְּלֹא זָרַק, וּשְׁמַע מִינַּהּ: הֶיתֵּר זְרִיקָה שָׁנִינוּ!
+> **Translation:** The Gemara analyzes this statement: Is this **not** referring to a case **where** the priest collected the blood but did **not** yet **sprinkle** it? If so, this would mean that it is specifically the collection of the blood after the intent of *piggul* that does not remove the offering from the *halakhot* of misuse. One can infer from here that if the blood was collected with the proper intent, i.e., when the offering is not *piggul*, and is ready to be sprinkled, it does remove the offering from the *halakhot* of misuse. Accordingly, **conclude from** the *baraita* that it is **fitness** of **sprinkling** of the blood that **we learned** in the mishna.
+
+> **Hebrew/Aramaic:** לָא, זַרְקֵהּ.
+> **Translation:** The Gemara rejects this inference: **No,** one cannot cite a proof from here, as it is possible that the *baraita* is referring to a case where the priest already **sprinkled** the blood. If so, the reason that one is liable for misuse is because the sprinkling of *piggul* does not remove it from the *halakhot* of misuse. It can therefore be inferred from the *baraita* that if the offering was not *piggul*, then the sprinkling would remove it from misuse. This interpretation is in accordance with the opinion that when Rabbi Yehoshua referred to a period of fitness, he meant fitness of consuming the meat of the offering, i.e., only when the blood was sprinkled properly.
 
 The *Gemara* resists this reading: *lav delo zarak* — this does not mean the blood was not sprinkled at all. We are, in fact, discussing a case where *zerika* did occur. The *braisa* is addressing *zerika* performed with *pigul* intent.
 
 ### L'olam Emphasis
+
+> **Hebrew/Aramaic:** וּמַאי ״לְעוֹלָם״? הָא קָא מַשְׁמַע לַן כִּדְרַב גִּידֵּל, דְּאָמַר רַב גִּידֵּל אָמַר רַב: זְרִיקַת פִּיגּוּל – אֵינוֹ מוֹצִיא מִידֵי מְעִילָה, וְאֵינוֹ מֵבִיא לִידֵי מְעִילָה.
+> **Translation:** **And** if so, **what** does the *baraita* mean when it states that one who derives benefit from an offering that is *piggul* **always** remains subject to the *halakhot* of misuse? **This** is what the *baraita* **teaches us** by this phrase, that the *halakha* is **in accordance with** the opinion **of Rav Giddel, as Rav Giddel said** that **Rav said: Sprinkling** the blood of **an offering** with ***piggul*** intent **does not remove** the offering **from** the status of being subject to the *halakhot* of **misuse,** in the case of offerings of the most sacred order. **And** similarly, such a sprinkling **does not bring** the sacrificial portions of offerings of lesser sanctity **into** the status of being subject to the *halakhot* of **misuse.**
 
 What, then, is the significance of *l'olam*? The *Gemara* explains that the emphasis of *l'olam* is directed at precisely the case of *zerika* with *pigul* intent — the very case where one might have thought the *zerika* should count for purposes of *me'ila* because of *mertzeh l'pigulo*. The *l'olam* conveys that *pigul* is always a problem, even at the stage of *zerika*, and that even a *zerika* which operates through *mertzeh l'pigulo* will not change the *me'ila* status. It is specifically the *zerika*-stage *pigul* that the *braisa* is ruling on.
 

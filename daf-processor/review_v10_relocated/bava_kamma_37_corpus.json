@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Boshet",
+    "candidates": [
+      "Mishna Boshet",
+      "Sela Tzori v. Medina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about hatokea paying a sela (or maneh per Rabbi Yose HaGlili), which is precisely what the 'Mishna Boshet' prose describes and analyzes.",
+      "chosen_heading": "Mishna Boshet",
+      "current_heading": "Mishna Boshet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Sela Tzori v. Medina",
+    "candidates": [
+      "Sela Tzori v. Medina",
+      "Ox Mishna Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the case of the man who slapped another and Rav Toviya bar Mattana's question about sela Tzori vs. sela Medina, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Sela Tzori v. Medina",
+      "current_heading": "Sela Tzori v. Medina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Ox Mishna Evidence",
+    "candidates": [
+      "Ox Mishna Evidence",
+      "Tzori vs. Medina",
+      "Chanan Bisha Case",
+      "Tosafot Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's exchange about the goring ox mishna \u2014 Rav Yosef's argument that the mishna's use of gold dinar proves the tanna does not use sela Medina, and the rebuttal that the tanna need not enumerate every case like a peddler \u2014 which is precisely what the 'Ox Mishna Evidence' prose describes.",
+      "chosen_heading": "Ox Mishna Evidence",
+      "current_heading": "Ox Mishna Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Tosafot Transfer",
+    "candidates": [
+      "Tzori vs. Medina",
+      "Chanan Bisha Case",
+      "Tosafot Transfer",
+      "Muad Mishna"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Tzori vs. Medina",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 form one continuous narrative: the resolution via Tzori/Medina, the victim's attempt to redirect the payment to the poor, Rav Yosef's ruling that the poor already acquired it, and the supporting proofs about beit din as the hand of the poor \u2014 all discussed under heading 0 ('Tzori vs. Medina') and then continued under heading 2 ('Tosafot Transfer'), but items 1\u20135 most naturally close out the Tzori/Medina resolution and the 'give it to the poor' episode which heading 0's prose explicitly discusses.",
+      "second_heading": "Chanan Bisha Case",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is the self-contained Chanan Bisha story \u2014 a new narrative case with new parties and new facts \u2014 which matches heading 1 ('Chanan Bisha Case') precisely.",
+      "current_heading": "Tosafot Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Muad Mishna",
+    "candidates": [
+      "Tosafot Transfer",
+      "Muad Mishna",
+      "Shabbat Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text is directly about an ox that is muad (forewarned) for certain categories but not others, paying full or half damages accordingly, which matches exactly the prose description in the 'Muad Mishna' section.",
+      "chosen_heading": "Muad Mishna",
+      "current_heading": "Muad Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Shabbat Question",
+    "candidates": [
+      "Shabbat Question",
+      "Vav Question",
+      "Zevid v. Pappa",
+      "Mishna Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content discussed under 'Shabbat Question': item 1 is Rabbi Yehuda's ruling about full vs. half damages for Shabbat/weekday goring, and item 2 is the question of when the animal reverts to tam status after three Shabbatot \u2014 both explicitly addressed in that section's prose.",
+      "chosen_heading": "Shabbat Question",
+      "current_heading": "Shabbat Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Mishna Structure",
+    "candidates": [
+      "Vav Question",
+      "Zevid v. Pappa",
+      "Mishna Structure",
+      "Sumchus Baraita",
+      "Teshuva Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 10 items constitute the Gemara's attempt to determine from the mishna's structure (reisha and seifa) which reading is correct \u2014 exactly what the 'Mishna Structure' prose describes, including Rav Zevid's inference from the seifa, Rav Pappa's inference from the reisha, and their respective rebuttals, culminating in the hazara explanation.",
+      "chosen_heading": "Mishna Structure",
+      "current_heading": "Mishna Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Teshuva Focus",
+    "candidates": [
+      "Sumchus Baraita",
+      "Teshuva Focus",
+      "Shabbat Revisited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the objection from Sumchus's baraita and Rav Zevid's rebuttal that Sumchus is discussing reversion (hazara), which is precisely what the 'Teshuva Focus' prose describes \u2014 Rav Zevid deflecting by reinterpreting Sumchus as debating hazara rather than initial muad status.",
+      "chosen_heading": "Teshuva Focus",
+      "current_heading": "Teshuva Focus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Shabbat Revisited",
+    "candidates": [
+      "Shabbat Revisited",
+      "Mixed Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the Shabbat/weekday forewarning case and Rav Yannai's inference from the reisha \u2014 exactly the content described in the 'Shabbat Revisited' prose.",
+      "chosen_heading": "Shabbat Revisited",
+      "current_heading": "Shabbat Revisited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Mixed Animals",
+    "candidates": [
+      "Mixed Animals",
+      "Alternating Gores"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of an ox goring a shor, chamor, and gamal becoming muad for all, which is exactly what the 'Mixed Animals' prose elaborates on.",
+      "chosen_heading": "Mixed Animals",
+      "current_heading": "Mixed Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Alternating Gores",
+    "candidates": [
+      "Alternating Gores",
+      "Teiku Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Alternating Gores",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the two baraitot about alternating gores (sirugin) for oxen and for all species, which match exactly the 'Alternating Gores' prose.",
+      "second_heading": "Teiku Cases",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 present the unresolved dilemmas about how to classify an ox that gored mixed sequences (ox/ox/ox/donkey/camel and chamor/gamal/shor/shor/shor), which match precisely the 'Teiku Cases' prose describing those exact scenarios.",
+      "current_heading": "Alternating Gores",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Teiku Cases",
+    "candidates": [
+      "Teiku Cases",
+      "Monthly Dates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Shabbat/Sunday/Monday dilemma, the Thursday/Friday/Shabbat dilemma, and the teiku conclusion \u2014 directly match the 'Teiku Cases' prose, which explicitly describes both of these day-of-week scenarios and their unresolved status.",
+      "chosen_heading": "Teiku Cases",
+      "current_heading": "Teiku Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Monthly Dates",
+    "candidates": [
+      "Monthly Dates",
+      "Shofar Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the case of goring on the 15th, 16th, and 17th of successive months and the parallel Rav-Shmuel dispute about vesset, which is precisely what the 'Monthly Dates' prose section describes.",
+      "chosen_heading": "Monthly Dates",
+      "current_heading": "Monthly Dates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Shofar Example",
+    "candidates": [
+      "Shofar Example",
+      "Formalist Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the shofar/goring passage that the 'Shofar Example' prose explicitly discusses, including Rava's ruling and the siyuta objection and its rejection.",
+      "chosen_heading": "Shofar Example",
+      "current_heading": "Shofar Example",
+      "moved": false
+    }
+  }
+]

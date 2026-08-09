@@ -1,0 +1,210 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Ma'aseh Kinyan",
+    "candidates": [
+      "Ganav bi-Reshut",
+      "Ma'aseh Kinyan",
+      "Tosafot: Simta vs Reshus",
+      "Meshikhah: Reshus HaRabim",
+      "Three Readings of Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Mishna introducing ganav bi-reshut ha-ba'alim and the cases of stealing/slaughtering inside vs. outside the owner's domain, along with the meshikhah/hagbahah distinction \u2014 exactly the content described in candidate 0's prose about the fundamental act of geneivah and what constitutes taking something out of the owner's reshut.",
+      "chosen_heading": "Ganav bi-Reshut",
+      "current_heading": "Ma'aseh Kinyan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Three Readings of Mishna",
+    "candidates": [
+      "Tosafot: Simta vs Reshus",
+      "Meshikhah: Reshus HaRabim",
+      "Three Readings of Mishna",
+      "Unwitting Agent",
+      "Meshikhah & Shomrim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the exact mishnah text that section 2 ('Three Readings of Mishna') quotes and analyzes in its prose, discussing the netano li-bekhor beno case and the interpretive difficulty it generates.",
+      "chosen_heading": "Three Readings of Mishna",
+      "current_heading": "Three Readings of Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Meshikhah & Shomrim",
+    "candidates": [
+      "Unwitting Agent",
+      "Meshikhah & Shomrim",
+      "Ganav Gives to Third"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ameimar's dilemma about whether meshikhah was instituted for shomrim, which is precisely the topic introduced and discussed in the 'Meshikhah & Shomrim' section's prose.",
+      "chosen_heading": "Meshikhah & Shomrim",
+      "current_heading": "Meshikhah & Shomrim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Ganav Gives to Third",
+    "candidates": [
+      "Ganav Gives to Third",
+      "Hiding in Forest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous discussion about whether meshikhah was instituted for bailees, matching exactly the prose of 'Ganav Gives to Third' which describes Rav Yeimar's proof, Ameimar's objection, Rav Ashi's counter, Rabbi Elazar's ruling, and Rav \u1e24isda's clarification about rental of land.",
+      "chosen_heading": "Ganav Gives to Third",
+      "current_heading": "Ganav Gives to Third",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Hiding in Forest",
+    "candidates": [
+      "Hiding in Forest",
+      "Definition of Gazlan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous sugya about the forest-hider case \u2014 the meshikhah objection, Rav \u1e24isda's answer, and the ganav/gazlan challenge with its resolution \u2014 all of which are explicitly discussed in the 'Hiding in Forest' prose.",
+      "chosen_heading": "Hiding in Forest",
+      "current_heading": "Hiding in Forest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Definition of Gazlan",
+    "candidates": [
+      "Definition of Gazlan",
+      "Motivation for Hiding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines gazlan through the example of Benaiah ben Jehoiada, which is precisely what the 'Definition of Gazlan' section's prose discusses.",
+      "chosen_heading": "Definition of Gazlan",
+      "current_heading": "Definition of Gazlan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Motivation for Hiding",
+    "candidates": [
+      "Motivation for Hiding",
+      "Theological Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the men of Shechem example and the debate between Rabbi Abbahu and Rabbi Yochanan about why hiding does or does not classify them as thieves rather than robbers \u2014 exactly the content described in the 'Motivation for Hiding' prose.",
+      "chosen_heading": "Motivation for Hiding",
+      "current_heading": "Motivation for Hiding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Theological Basis",
+    "candidates": [
+      "Theological Basis",
+      "Rabban Gamliel's Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabban Yo\u1e25anan ben Zakkai's answer about the thief vs. robber and the theological elaboration about the eye/ear below \u2014 are directly discussed and quoted in the 'Theological Basis' prose, which explicitly covers both the distinction and the supporting verses about divine oversight.",
+      "chosen_heading": "Theological Basis",
+      "current_heading": "Theological Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rabban Gamliel's Parable",
+    "candidates": [
+      "Rabban Gamliel's Parable",
+      "Ox vs Sheep Fine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's parable in the name of Rabban Gamliel about two men hosting feasts, which matches exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Rabban Gamliel's Parable",
+      "current_heading": "Rabban Gamliel's Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Ox vs Sheep Fine",
+    "candidates": [
+      "Ox vs Sheep Fine",
+      "Dignity & Embarrassment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Meir's statement about the power of labor explaining the ox/sheep fine difference, which directly matches the 'Ox vs Sheep Fine' section prose discussing exactly this teaching.",
+      "chosen_heading": "Ox vs Sheep Fine",
+      "current_heading": "Ox vs Sheep Fine",
+      "moved": false
+    }
+  }
+]

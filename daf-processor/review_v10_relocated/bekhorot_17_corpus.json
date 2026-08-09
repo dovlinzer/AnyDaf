@@ -1,0 +1,366 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rejection of Rav Yehuda",
+    "candidates": [
+      "Sharecropping Setup",
+      "He'emid v'ladot",
+      "Rav Huna Position",
+      "Rav Yehuda Position",
+      "Rejection of Rav Yehuda",
+      "Ten Generations View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: the Mishnah's he'emid case, the attempted refutation of Rav Yehuda, his response, and the reason the Mishnah needed to state the he'emid case \u2014 exactly what the 'Rejection of Rav Yehuda' prose describes in detail.",
+      "chosen_heading": "Rejection of Rav Yehuda",
+      "current_heading": "Rejection of Rav Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Ten Generations View",
+    "candidates": [
+      "Ten Generations View",
+      "Rabbi Meir Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are a continuous Talmudic discussion about the same dispute between Rav Yehuda and Rav Huna regarding how many generations are exempt when animals are given as a guaranteed investment from a gentile, directly corresponding to the 'Ten Generations View' section's prose about Rabban Shimon ben Gamliel's statement and the Gemara's challenges to both Rav Yehuda and Rav Huna.",
+      "chosen_heading": "Ten Generations View",
+      "current_heading": "Ten Generations View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rabbi Meir Baraita",
+    "candidates": [
+      "Rabbi Meir Baraita",
+      "Hoshaya Transmission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Oshaya's baraita presenting Rabbi Meir's obligation ruling versus the Rabbis' exemption, which is precisely what the 'Rabbi Meir Baraita' section's prose describes.",
+      "chosen_heading": "Rabbi Meir Baraita",
+      "current_heading": "Rabbi Meir Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Hoshaya Transmission",
+    "candidates": [
+      "Hoshaya Transmission",
+      "Father's Lineage Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening questions posed by Rav Hoshaya to Rabba about what law Rabbi Meir's ruling addresses (bechora or reishit hagez), which is precisely what the 'Hoshaya Transmission' prose describes in detail.",
+      "chosen_heading": "Hoshaya Transmission",
+      "current_heading": "Hoshaya Transmission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Father's Lineage Issue",
+    "candidates": [
+      "Father's Lineage Issue",
+      "Multi-Gen Definition",
+      "Korban Chovah Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Father's Lineage Issue",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabba's proposal that the dispute concerns choshshin l'zera ha-av in the context of oto v'et bno, followed by the Gemara's objection that if so they should have argued it in the broader Chananya dispute \u2014 exactly the content described in heading 0's prose.",
+      "second_heading": "Multi-Gen Definition",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present the three multi-generational cases (rachel bat rachel bat ez, rachel bat ez bat rachel) with the zil basar imei / zil basar imei de'imei / chazra seyusa limkoman debates \u2014 precisely what heading 1's prose describes as the core content of the 'Multi-Gen Definition' section.",
+      "current_heading": "Father's Lineage Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Korban Chovah Requirement",
+    "candidates": [
+      "Multi-Gen Definition",
+      "Korban Chovah Requirement",
+      "Kilayim Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Multi-Gen Definition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Ashi's interpretation about 'some characteristics' and Rabbi Shimon's requirement for head-and-majority resemblance) belongs under 'Multi-Gen Definition' as it directly discusses how nidmeh is defined based on resemblance criteria.",
+      "second_heading": "Korban Chovah Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Yochanan's ruling about Rabbi Meir conceding for the New Moon goat offering requiring pure lineage back to Creation) is precisely what 'Korban Chovah Requirement' describes in its prose, making the current placement correct for this item.",
+      "current_heading": "Korban Chovah Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Kilayim Exclusion",
+    "candidates": [
+      "Kilayim Exclusion",
+      "Tzemmer Purity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous question-and-answer unit about deriving the nidmeh exclusion from two verses (Leviticus and Numbers), with the tzericha answer explaining why both are needed \u2014 exactly what the 'Kilayim Exclusion' prose describes.",
+      "chosen_heading": "Kilayim Exclusion",
+      "current_heading": "Kilayim Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Tzemmer Purity",
+    "candidates": [
+      "Tzemmer Purity",
+      "Tzaraat Immunity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi A\u1e25a bar Yaakov's statement about not being flogged for kilayim/shatnez with wool that has changed, matching exactly the prose in 'Tzemmer Purity' which quotes and explains this same statement.",
+      "chosen_heading": "Tzemmer Purity",
+      "current_heading": "Tzemmer Purity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Tzaraat Immunity",
+    "candidates": [
+      "Tzaraat Immunity",
+      "Wine Purity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rav Pappa on tcheiles and Rav Nachman bar Yitzchak on nega'im) are explicitly described and quoted in the 'Tzaraat Immunity' prose, which is their current placement and the clearly correct home.",
+      "chosen_heading": "Tzaraat Immunity",
+      "current_heading": "Tzaraat Immunity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Wine Purity",
+    "candidates": [
+      "Wine Purity",
+      "Ravina Objection",
+      "Plant Nature Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ashi's ruling about wine from vines trellised over fig trees being unfit for libations, which is precisely what the 'Wine Purity' section's prose describes.",
+      "chosen_heading": "Wine Purity",
+      "current_heading": "Wine Purity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Plant Nature Distinction",
+    "candidates": [
+      "Ravina Objection",
+      "Plant Nature Distinction",
+      "Rav Ashi's Answer",
+      "Twin Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's objection about flax trained around a shrub, which is precisely what Candidate 0 ('Ravina Objection') describes, while the current placement under 'Plant Nature Distinction' (Candidate 1) better fits Rav Ashi's answer distinguishing scent changes \u2014 which is only the final line of this passage and belongs to a follow-up section.",
+      "chosen_heading": "Ravina Objection",
+      "current_heading": "Plant Nature Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Twin Scenario",
+    "candidates": [
+      "Rav Ashi's Answer",
+      "Twin Scenario",
+      "Yose HaGlili Position",
+      "Chachamim Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the full Mishnah of the twin firstborn scenario \u2014 the dispute between Rabbi Yose HaGlili and the Chachamim, then Rabbi Tarfon and Rabbi Akiva on the division, and the concluding cases \u2014 which is precisely what the 'Twin Scenario' prose describes.",
+      "chosen_heading": "Twin Scenario",
+      "current_heading": "Twin Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Chachamim Position",
+    "candidates": [
+      "Yose HaGlili Position",
+      "Chachamim Position",
+      "Altar Line Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the school of Rabbi Yannai's framing of the dispute, specifically raising the open question about what the Chachamim hold regarding b'yedei adam \u2014 which is precisely the topic the 'Chachamim Position' prose discusses.",
+      "chosen_heading": "Chachamim Position",
+      "current_heading": "Chachamim Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Altar Line Proof",
+    "candidates": [
+      "Altar Line Proof",
+      "Best Effort Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the red line (chut shel sikra) on the altar and the Gemara's rejection via d'marvach lei porta, which is precisely what the 'Altar Line Proof' prose describes.",
+      "chosen_heading": "Altar Line Proof",
+      "current_heading": "Altar Line Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Best Effort Standard",
+    "candidates": [
+      "Best Effort Standard",
+      "Pottery Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Temple vessels and altar measurements proof and the Gemara's rejection using the 'do your best' principle, which is precisely what the 'Best Effort Standard' prose section describes.",
+      "chosen_heading": "Best Effort Standard",
+      "current_heading": "Best Effort Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Pottery Exception",
+    "candidates": [
+      "Pottery Exception",
+      "Egla Arufa Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the pottery vessel proof and Rav Kahana's rejection citing jagged edges (gumot), which matches exactly the 'Pottery Exception' prose discussion of the kli cheres case and the shani kli cheres d'it bei gumot response.",
+      "chosen_heading": "Pottery Exception",
+      "current_heading": "Pottery Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Egla Arufa Case",
+    "candidates": [
+      "Egla Arufa Case",
+      "Measurement Opportunity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous Talmudic discussion about the egla arufa case and whether Rabbi Eliezer's ruling proves efshar l'tzamtzem b'yedei adam, including the baraita and the final resolution via Rav Hiyya bar Avin \u2014 exactly what the 'Egla Arufa Case' prose describes.",
+      "chosen_heading": "Egla Arufa Case",
+      "current_heading": "Egla Arufa Case",
+      "moved": false
+    }
+  }
+]

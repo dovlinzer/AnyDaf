@@ -1,0 +1,515 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Vines Drying Out",
+    "candidates": [
+      "Vines Drying Out",
+      "Abaye: Dried Wood Fruit",
+      "Rava: Vines as Principal",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full case (orchard mortgaged for ten years, aged after five) along with both Abaye's and Rava's rulings together, matching the 'Vines Drying Out' section's prose which introduces and frames the entire dispute before the subsequent sections treat each opinion separately.",
+      "chosen_heading": "Vines Drying Out",
+      "current_heading": "Vines Drying Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Abaye: Dried Wood Fruit",
+      "Rava: Vines as Principal",
+      "Baraita Proof",
+      "Abaye's Rebuttal",
+      "Inherited Trees Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items form the baraita objection and its rejection \u2014 item 1 is the challenge from the baraita (yavesh dumya de-niktzas, supporting Rava) and item 2 is Abaye's rebuttal reading it the other way (niktzas dumya de-yavesh), which is precisely what the 'Baraita Proof' and 'Abaye's Rebuttal' prose sections describe, but since both items together constitute the baraita citation plus its immediate resolution within the same argumentative unit, and the current placement under 'Baraita Proof' already contains both the objection and the rebuttal in its prose, the current placement is the best single heading.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Baraita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Inherited Trees Case",
+    "candidates": [
+      "Abaye's Rebuttal",
+      "Inherited Trees Case",
+      "Abaye's Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the mishna case of a woman inheriting old vines/olive trees and the gemara's emendation ('eima ve-hizkinu'), which is precisely what the 'Inherited Trees Case' prose describes \u2014 the challenge to Rava and the initial answer about premature aging.",
+      "chosen_heading": "Inherited Trees Case",
+      "current_heading": "Inherited Trees Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Abaye's Concession",
+    "candidates": [
+      "Abaye's Concession",
+      "Lost Document Setup",
+      "Three vs. Two Years",
+      "Karka Be-Chezkat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the second 've-iba'it eima' response from Abaye about trees falling in a different field consuming principal, which is precisely what Abaye's Concession prose describes as his alternative explanation.",
+      "chosen_heading": "Abaye's Concession",
+      "current_heading": "Abaye's Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Karka Be-Chezkat",
+    "candidates": [
+      "Lost Document Setup",
+      "Three vs. Two Years",
+      "Karka Be-Chezkat",
+      "Rav Kahana Position",
+      "Rav Nachman Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the full setup of the dispute \u2014 the unspecified years, the creditor's claim of three vs. debtor's two, the creditor consuming the produce, and the question 'mi ne'eman?' followed by both Rav Yehuda's and Rav Kahana's positions \u2014 which corresponds exactly to the 'Three vs. Two Years' section that introduces the scenario and the two opinions together, rather than the 'Karka Be-Chezkat' section which is meant to analyze only Rav Yehuda's position in depth.",
+      "chosen_heading": "Three vs. Two Years",
+      "current_heading": "Karka Be-Chezkat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rav Nachman Contradiction",
+    "candidates": [
+      "Rav Kahana Position",
+      "Rav Nachman Contradiction",
+      "Evidence Distinction",
+      "No Court Reversals",
+      "Five vs. Three Years",
+      "Rav Yehuda Migo"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nachman Contradiction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the contradiction between Rav Kahana's ruling and Rav Nachman's ruling, which is precisely what the 'Rav Nachman Contradiction' prose describes.",
+      "second_heading": "Evidence Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the contradiction with the distinction between matters that can vs. cannot be revealed and the principle of not burdening the court twice, which is exactly what the 'Evidence Distinction' prose discusses.",
+      "current_heading": "Rav Nachman Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Yehuda Migo",
+    "candidates": [
+      "Evidence Distinction",
+      "No Court Reversals",
+      "Five vs. Three Years",
+      "Rav Yehuda Migo",
+      "Rejection of Migo",
+      "Careful with Document"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the five-vs-three scenario with the lost document and introduces Rav Yehuda's ruling, which matches the 'Five vs. Three Years' section that sets up this exact case \u2014 the 'Rav Yehuda Migo' section's prose is meant to analyze the ruling in depth, while this passage is the primary source text introducing both the case and Rav Yehuda's initial ruling.",
+      "chosen_heading": "Five vs. Three Years",
+      "current_heading": "Rav Yehuda Migo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Careful with Document",
+    "candidates": [
+      "Rejection of Migo",
+      "Careful with Document",
+      "Abuse Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Zevid and Rav Avira's rejection of Rav Yehuda's migo and gives the reason, which matches heading 0 ('Rejection of Migo') whose prose explicitly states they 'reject Rav Yehuda's migo entirely' and 'the creditor did not lose the document' \u2014 the current heading 1 elaborates the reasoning in detail but the passage itself is the introductory statement of rejection.",
+      "chosen_heading": "Rejection of Migo",
+      "current_heading": "Careful with Document",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Abuse Concern",
+    "candidates": [
+      "Careful with Document",
+      "Abuse Concern",
+      "Tax and Trench Test",
+      "Annual Protest Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's challenge to Rav Ashi about the mashkanta de-Sura being exploitable if creditors could claim purchase after concealing the document, along with Rav Ashi's response about taxes and trenches \u2014 this spans both the abuse concern and the tax/trench answer, but the current placement under 'Abuse Concern' is where the passage begins and the prose explicitly describes Ravina's challenge including the response, making it the best single heading match.",
+      "chosen_heading": "Abuse Concern",
+      "current_heading": "Abuse Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Annual Protest Required",
+    "candidates": [
+      "Tax and Trench Test",
+      "Annual Protest Required",
+      "Half vs. Third Share"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses land with no trenches or taxes and the requirement to protest (machaah), which is precisely what the 'Annual Protest Required' section's prose describes.",
+      "chosen_heading": "Annual Protest Required",
+      "current_heading": "Annual Protest Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Half vs. Third Share",
+    "candidates": [
+      "Half vs. Third Share",
+      "Rav Yehuda Position",
+      "Rav Nachman Custom",
+      "Local Variation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full dispute in one block (sharecropper claims half, landowner claims one-third, then both Rav Yehuda's and Rav Nachman's rulings), and the 'Half vs. Third Share' heading's prose introduces exactly this scenario including the mi ne'eman question, making it the best single home for the entire quoted text.",
+      "chosen_heading": "Half vs. Third Share",
+      "current_heading": "Half vs. Third Share",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Local Variation",
+    "candidates": [
+      "Rav Yehuda Position",
+      "Rav Nachman Custom",
+      "Local Variation",
+      "Abaye Overrides Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the initial reconciliation attempt suggesting the two Sages address different locales (half vs. one-third), which is exactly what the 'Local Variation' prose describes.",
+      "chosen_heading": "Local Variation",
+      "current_heading": "Local Variation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Abaye Overrides Custom",
+    "candidates": [
+      "Abaye Overrides Custom",
+      "Landowner's Migo",
+      "Improvements Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage reports Abaye's position (via Rav Mari) that even where local custom gives the sharecropper half, Rav Yehuda still deems the homeowner credible \u2014 which is precisely what heading 0 ('Abaye Overrides Custom') describes, while heading 1 focuses on the migo argument as a separate, additional basis for credibility.",
+      "chosen_heading": "Abaye Overrides Custom",
+      "current_heading": "Abaye Overrides Custom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Improvements Question",
+    "candidates": [
+      "Landowner's Migo",
+      "Improvements Question",
+      "Rav Chanina View",
+      "Rabbi Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the exact question \u2014 orphans claim they made the improvements, creditor says the father made them, who bears the burden of proof \u2014 which is precisely what the 'Improvements Question' prose introduces as the central issue of this case.",
+      "chosen_heading": "Improvements Question",
+      "current_heading": "Improvements Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rabbi Yochanan Position",
+    "candidates": [
+      "Rav Chanina View",
+      "Rabbi Yochanan Position",
+      "Apotiki Lien Status",
+      "Tree Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Rav Chanina's initial view AND Rabbi Yochanan's correction in a single continuous Talmudic excerpt, but since it opens with 'Savar Rabbi Chanina le-meimar' and the prose of candidate 0 explicitly describes this combined exchange (Rav Chanina's inclination followed by the elder's correction), and candidate 0's prose actually summarizes the entire passage including both positions, the passage belongs under heading 0 which covers Rav Chanina's view as the starting point of this discussion.",
+      "chosen_heading": "Rav Chanina View",
+      "current_heading": "Rabbi Yochanan Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Tree Analogy",
+    "candidates": [
+      "Apotiki Lien Status",
+      "Tree Analogy",
+      "Land Division View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute Abaye's tree analogy \u2014 the mishnaic source and its application to the document case \u2014 which is precisely what the 'Tree Analogy' prose section describes.",
+      "chosen_heading": "Tree Analogy",
+      "current_heading": "Tree Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Land Division View",
+    "candidates": [
+      "Land Division View",
+      "Cash Payment View",
+      "Three Evaluators",
+      "Inheritance Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi \u1e24anina's initial view that removal is done via land division, which is precisely what the 'Land Division View' prose describes.",
+      "chosen_heading": "Land Division View",
+      "current_heading": "Land Division View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Inheritance Example",
+    "candidates": [
+      "Cash Payment View",
+      "Three Evaluators",
+      "Inheritance Example",
+      "Uniform Treatment",
+      "Valuation Threshold",
+      "Improvements Within Loan",
+      "Improvements Exceed Loan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the 'Ve-lo hi' refutation and Rav Nachman's ruling that creditors pay in cash, which is precisely what candidate 0 ('Cash Payment View') discusses \u2014 the creditor takes the whole plot and pays in money \u2014 before the enumerated three cases are elaborated in candidates 1-3.",
+      "chosen_heading": "Cash Payment View",
+      "current_heading": "Inheritance Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Improvements Exceed Loan",
+    "candidates": [
+      "Uniform Treatment",
+      "Valuation Threshold",
+      "Improvements Within Loan",
+      "Improvements Exceed Loan",
+      "Cash Alternative",
+      "Apotiki Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Valuation Threshold",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 contain Ravina's challenge about Shmuel's position on collecting enhancement and the gemara's resolution distinguishing whether the loan covers land-plus-enhancement, which is precisely the 'Valuation Threshold' and 'Improvements Within/Exceed Loan' discussion \u2014 but most directly Item 1 raises the threshold question and Item 2 resolves it, fitting under 'Valuation Threshold' as the introductory challenge-and-answer that establishes the distinction.",
+      "second_heading": "Cash Alternative",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the problem about the creditor paying cash to the buyer in the 'did not owe full land+enhancement' scenario and whether the buyer can demand a land slice instead of cash, which matches exactly the 'Cash Alternative' prose describing Ravina's question about the purchaser leveraging cash into a retained slice of land.",
+      "current_heading": "Improvements Exceed Loan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Apotiki Exception",
+    "candidates": [
+      "Cash Alternative",
+      "Apotiki Exception",
+      "Seven-Year Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's apotiki answer, which the prose of candidate 1 directly quotes and explains in full, making it the correct placement.",
+      "chosen_heading": "Apotiki Exception",
+      "current_heading": "Apotiki Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Seven-Year Period",
+    "candidates": [
+      "Seven-Year Period",
+      "Seven Planting Years",
+      "Torah Sources",
+      "Day Workers",
+      "Night Workers",
+      "Hourly Workers",
+      "Long-Term Workers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both cases (shavua vs. seven years) in a single passage, and the current heading 'Seven-Year Period' with its prose explicitly addresses this full mishna including both the shavua formulation and the contrast with the seven-years formulation, making it the correct placement.",
+      "chosen_heading": "Seven-Year Period",
+      "current_heading": "Seven-Year Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Long-Term Workers",
+    "candidates": [
+      "Seven Planting Years",
+      "Torah Sources",
+      "Day Workers",
+      "Night Workers",
+      "Hourly Workers",
+      "Long-Term Workers",
+      "One-Time Transgression",
+      "Bal Teshahe"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Torah Sources",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 cover the Mishnah on worker payment windows and the Gemara deriving their Torah sources, matching the 'Torah Sources' heading which discusses exactly these pesukim and their application to day/night workers.",
+      "second_heading": "One-Time Transgression",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the baraita teaching that the employer transgresses lo talin only at the first morning, which is precisely what heading 6 ('One-Time Transgression') discusses in its prose.",
+      "current_heading": "Long-Term Workers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Bal Teshahe",
+    "candidates": [
+      "One-Time Transgression",
+      "Bal Teshahe",
+      "Money Availability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bal teshahe prohibition and the Proverbs verse, which is exactly what the 'Bal Teshahe' section's prose describes.",
+      "chosen_heading": "Bal Teshahe",
+      "current_heading": "Bal Teshahe",
+      "moved": false
+    }
+  }
+]

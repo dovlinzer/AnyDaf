@@ -1,0 +1,294 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Rabbi Chanina's Method",
+    "candidates": [
+      "Rabbi Yishmael's Approach",
+      "Rava's Comparison",
+      "Mishnah: Omer on Shabbos",
+      "Rabbi Chanina's Method",
+      "Distinguishing Positions",
+      "Pirsumei Milsa Factor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Comparison",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah texts that candidate 1 ('Rava's Comparison') explicitly says it invokes \u2014 the mishna recording Rabbi Yishmael's position and Rabbi Chanina's position \u2014 which Rava proposes say 'davar echad'.",
+      "second_heading": "Rabbi Chanina's Method",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara's analysis questioning and then resolving Rabbi Yishmael's position via Rava's answer about exertion vs. non-exertion, which is precisely what candidate 3 ('Rabbi Chanina's Method') discusses as the underlying principle and the parallel between the two Tannaim.",
+      "current_heading": "Rabbi Chanina's Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Pirsumei Milsa Factor",
+    "candidates": [
+      "Distinguishing Positions",
+      "Pirsumei Milsa Factor",
+      "Tzorech Gavoa Discussion",
+      "Rav Ashi's Proposal",
+      "Rabbi Yosi's Position",
+      "Keivan De'Efshar Princ.",
+      "Case Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces Rabba's claim that Rabbi Yishmael and Rabbi Yishmael son of Rabbi Yo\u1e25anan ben Beroka said the same thing, citing the baraita about flaying the Paschal offering on Shabbat \u2014 this is the content that Rav Ashi's Proposal section sets up, as the gemara is trying a new parallel after the previous comparisons failed, and this baraita about the Paschal offering is the new case being introduced under Rav Ashi's attempt (actually it precedes Rav Ashi but serves as the transition into that discussion), but more precisely it fits under 'Distinguishing Positions' (index 0) as the gemara is establishing a new equivalence claim to then probe \u2014 however the closest match is the Rav Ashi proposal context; re-examining, the passage is Rabba's statement paralleling two Rabbi Yishmael figures, which is a distinct proposal separate from Rav Ashi's, suggesting it belongs under 'Distinguishing Positions' where the gemara objects to such equivalences.",
+      "chosen_heading": "Rav Ashi's Proposal",
+      "current_heading": "Pirsumei Milsa Factor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Case Distinctions",
+    "candidates": [
+      "Tzorech Gavoa Discussion",
+      "Rav Ashi's Proposal",
+      "Rabbi Yosi's Position",
+      "Keivan De'Efshar Princ.",
+      "Case Distinctions",
+      "Unified Principle",
+      "Case Setup",
+      "Rava's Ruling",
+      "Hindsight & Second"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "Tzorech Gavoa Discussion",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-8 discuss the comparisons involving Rabbi Yishmael ben Yochanan ben Beroka and Rabbi Chanina segan ha-kohanim, including the tzorech gavoah distinctions that heading 0's prose explicitly addresses.",
+      "second_heading": "Case Distinctions",
+      "second_confidence": "medium",
+      "second_reason": "Items 9-12 discuss Rav Ashi's proposal comparing Rabbi Yishmael and Rabbi Yosi on the new moon case, including the 'machshilo le'asid lavo' and tzorech gavoah distinctions that heading 4's prose explicitly describes.",
+      "current_heading": "Case Distinctions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Hindsight & Second",
+    "candidates": [
+      "Unified Principle",
+      "Case Setup",
+      "Rava's Ruling",
+      "Hindsight & Second",
+      "Nicer Korban Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the case setup (two communal sin offerings slaughtered when only one was needed) along with Rabba/Rabbi Ami's ruling and the corollaries about hindsight \u2014 all of which are introduced together as a single stated unit, matching the 'Case Setup' prose which describes exactly this scenario including Rashi's reading of the two animals.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Hindsight & Second",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Nicer Korban Principle",
+    "candidates": [
+      "Hindsight & Second",
+      "Nicer Korban Principle",
+      "Attribution Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's ruling about the fat/gaunt sin offerings and the instruction to slaughter the better animal, which is precisely the 'Nicer Korban Principle' contradiction that candidate 1's prose describes in detail.",
+      "chosen_heading": "Nicer Korban Principle",
+      "current_heading": "Nicer Korban Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Attribution Question",
+    "candidates": [
+      "Attribution Question",
+      "Moral Concerns",
+      "Ravina's Question",
+      "Machshava vs. Ma'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the two resolutions to the contradiction \u2014 excising the kachusha clause and attributing the stricter ruling to Rabbi Ami rather than Rabba/Rava \u2014 which is precisely what the 'Attribution Question' prose describes.",
+      "chosen_heading": "Attribution Question",
+      "current_heading": "Attribution Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Machshava vs. Ma'aseh",
+    "candidates": [
+      "Moral Concerns",
+      "Ravina's Question",
+      "Machshava vs. Ma'aseh",
+      "Drowning Infant Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's question to Rav Ashi about the first animal being found gaunt in its intestines after slaughter, which matches exactly the 'Ravina's Question' section prose describing this precise scenario, not the 'Machshava vs. Ma'aseh' section which discusses the conceptual framework introduced in response to that question.",
+      "chosen_heading": "Ravina's Question",
+      "current_heading": "Machshava vs. Ma'aseh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Drowning Infant Case",
+    "candidates": [
+      "Machshava vs. Ma'aseh",
+      "Drowning Infant Case",
+      "Rabbah vs. Rava",
+      "Reconciling Rabbah",
+      "Application to Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the drowning infant case and the Rabbah/Rava dispute, which is precisely what the 'Drowning Infant Case' prose describes \u2014 its current placement is correct.",
+      "chosen_heading": "Drowning Infant Case",
+      "current_heading": "Drowning Infant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Application to Animal",
+    "candidates": [
+      "Rabbah vs. Rava",
+      "Reconciling Rabbah",
+      "Application to Animal",
+      "Multiple Helpers Case",
+      "All Exempt Rule",
+      "Recovered Patient",
+      "Intent Principle",
+      "Permissive Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the refinement/clarification of Rabbah's position \u2014 item 1 explains that Rabbah exempts only because hearing about the drowning child creates some minimal intent, and item 2 presents the alternative reading where Rabbah vs. Rava is purely objectivist vs. subjectivist \u2014 which matches exactly the 'Reconciling Rabbah' prose about how Rabbah's exemption depends on having heard about the infant and the nuance of his position.",
+      "chosen_heading": "Reconciling Rabbah",
+      "current_heading": "Application to Animal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Permissive Standard",
+    "candidates": [
+      "Multiple Helpers Case",
+      "All Exempt Rule",
+      "Recovered Patient",
+      "Intent Principle",
+      "Permissive Standard",
+      "Fruit Distribution Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbah's case of the ill person needing one fig while ten men bring ten figs, which is precisely what the 'Multiple Helpers Case' prose describes as its content.",
+      "chosen_heading": "Multiple Helpers Case",
+      "current_heading": "Permissive Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Fruit Distribution Case",
+    "candidates": [
+      "Permissive Standard",
+      "Fruit Distribution Case",
+      "Picking Strategy Question",
+      "Minimize Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's dilemma about which figs to bring for the ill person, which matches the 'Fruit Distribution Case' prose that sets up exactly this scenario of two figs on two stems versus three figs on one stem.",
+      "chosen_heading": "Fruit Distribution Case",
+      "current_heading": "Fruit Distribution Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Minimize Acts",
+    "candidates": [
+      "Picking Strategy Question",
+      "Minimize Acts",
+      "Distinguished from Omer",
+      "Unified Principle (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's answer \u2014 'it is obvious we bring three' plus the distinction from Rabbi Yishmael \u2014 which is precisely what heading 1 ('Minimize Acts') describes: the peshita answer and its rationale, while heading 2 ('Distinguished from Omer') covers the author's own prose elaboration of that distinction rather than the Talmudic text itself.",
+      "chosen_heading": "Minimize Acts",
+      "current_heading": "Minimize Acts",
+      "moved": false
+    }
+  }
+]

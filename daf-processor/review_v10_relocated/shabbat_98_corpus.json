@@ -1,0 +1,255 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Carrying Includes Resting",
+    "candidates": [
+      "Eight vs Four",
+      "Four vs Eight",
+      "Shimon Analogy",
+      "Carrying Includes Resting",
+      "Public-Private-Public",
+      "Through vs Resting",
+      "Reshuyos Mitztarfos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly refutes the Shimon analogy (*mi dami?*) to explain why intending eight but throwing four does not create liability, which is precisely the content described in the 'Carrying Includes Resting' section's prose about reversing the initial pshita and explaining why the Shimon comparison fails.",
+      "chosen_heading": "Carrying Includes Resting",
+      "current_heading": "Carrying Includes Resting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Reshuyos Mitztarfos",
+    "candidates": [
+      "Public-Private-Public",
+      "Through vs Resting",
+      "Reshuyos Mitztarfos",
+      "Roofed = Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita itself (the case of throwing from reshus harabim through reshus hayachid to reshus harabim, with the four-cubits liability and less-than-four exemption), which is exactly what heading 0 'Public-Private-Public' describes in its prose, before the Gemara's analysis of what the ruling teaches (kluta and reshuyos mitztarfos) is taken up under headings 1 and 2.",
+      "chosen_heading": "Public-Private-Public",
+      "current_heading": "Reshuyos Mitztarfos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Roofed = Exempt",
+    "candidates": [
+      "Reshuyos Mitztarfos",
+      "Roofed = Exempt",
+      "Not Diglei Midbar",
+      "Wagons Were Covered",
+      "Spaces Around Wagon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly why carrying in a roofed reshus harabim is exempt \u2014 because it is not similar to diglei midbar \u2014 and then raises the challenge about the covered wagons and resolves it with 'bedadarta,' which matches candidate 2 ('Not Diglei Midbar') and 3/4 combined, but the opening statement about the ruling itself with the diglei midbar reasoning is the primary content, and candidate 2's prose explicitly covers this ruling and the wagon challenge together as one unit.",
+      "chosen_heading": "Not Diglei Midbar",
+      "current_heading": "Roofed = Exempt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Spaces Around Wagon",
+    "candidates": [
+      "Not Diglei Midbar",
+      "Wagons Were Covered",
+      "Spaces Around Wagon",
+      "Three Beams & Gaps",
+      "Four Beams Problem",
+      "Angled Beams Taper",
+      "Atzbe'i Columns",
+      "Frame Without Floor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items deal with the 'Four Beams Problem' \u2014 item 1 raises the lavud objection when beams are placed on their width (three beams, half-amah gap) and resolves it by suggesting placing on their depth, while item 2 then shows that even with four beams on their depth a one-amah remainder still falls under lavud, and introduces the tapered-beams opinion \u2014 exactly what candidate 4's prose describes.",
+      "chosen_heading": "Four Beams Problem",
+      "current_heading": "Spaces Around Wagon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Frame Without Floor",
+    "candidates": [
+      "Three Beams & Gaps",
+      "Four Beams Problem",
+      "Angled Beams Taper",
+      "Atzbe'i Columns",
+      "Frame Without Floor",
+      "R. Yehuda: Tapered",
+      "R. Nechemya: Uniform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly continue the 'Atzbe'i Columns' discussion: Item 1 is Rav Kahana's statement about atzbai placement on top of the wagon (agava de-agala) and the objection that the wagon itself is covered, which is precisely where candidate 3's prose ends ('The Gemara then asks: atzbai heichi manchat lehu \u2014 but where exactly are these combined columns placed? Agava de-agala \u2014 on the floor of the wagon itself'), and Item 2 is Shmuel's answer about stakes/pegs resolving that the wagon had no solid floor \u2014 this belongs in the same continuous exchange, not yet at the 'Frame Without Floor' heading where it currently sits.",
+      "chosen_heading": "Atzbe'i Columns",
+      "current_heading": "Frame Without Floor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "R. Nechemya: Uniform",
+    "candidates": [
+      "R. Yehuda: Tapered",
+      "R. Nechemya: Uniform",
+      "Corner Configuration",
+      "Tapered Corner Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rabbi Yehuda (tapered) and Rabbi Ne\u1e25emya (uniform), along with each side's response to the other's prooftext (*tamim* and *yachdav*), which is precisely what the 'R. Nechemya: Uniform' prose describes in full.",
+      "chosen_heading": "R. Nechemya: Uniform",
+      "current_heading": "R. Nechemya: Uniform",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Tapered Corner Problem",
+    "candidates": [
+      "Corner Configuration",
+      "Tapered Corner Problem",
+      "Central Pole Rings",
+      "Three-Way Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the elegant fit of corner beams according to the uniform-thickness opinion AND the problem that arises under the tapering opinion, with the mountain-shaping solution \u2014 this is precisely the content described in 'Corner Configuration' (candidate 0), which explicitly addresses d'ati putya d'hanei and the clean corner junction, while candidate 1 ('Tapered Corner Problem') only partially captures the passage and misattributes the initial 'granted' portion.",
+      "chosen_heading": "Corner Configuration",
+      "current_heading": "Tapered Corner Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Three-Way Miracle",
+    "candidates": [
+      "Central Pole Rings",
+      "Three-Way Miracle",
+      "Inner Curtains",
+      "Width-Wise Coverage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the miraculous standing of the middle bar, which directly matches the 'Three-Way Miracle' section's prose about the tradition that the central pole's placement was miraculous and the debate over its nature.",
+      "chosen_heading": "Three-Way Miracle",
+      "current_heading": "Three-Way Miracle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Width-Wise Coverage",
+    "candidates": [
+      "Inner Curtains",
+      "Width-Wise Coverage",
+      "R. Yehuda vs R. Nechemya",
+      "Length-Wise Coverage",
+      "Goat Hair Curtains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage details the width-wise curtain calculation (28 cubits, subtract 10 for ceiling, 9 on each side) and then introduces the Rabbi Yehuda/Rabbi Nechemya distinction as a consequence of that calculation, which matches exactly the 'Width-Wise Coverage' section's prose describing the same arithmetic and noting the dispute follows from it.",
+      "chosen_heading": "Width-Wise Coverage",
+      "current_heading": "Width-Wise Coverage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Goat Hair Curtains",
+    "candidates": [
+      "R. Yehuda vs R. Nechemya",
+      "Length-Wise Coverage",
+      "Goat Hair Curtains",
+      "Doubled Front Curtain",
+      "Train Behind Mishkan",
+      "Mishkan as Bride"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Length-Wise Coverage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 calculates the linen curtains' width placed along the Tabernacle's length (40 cubits), matching the Length-Wise Coverage prose exactly.",
+      "second_heading": "Goat Hair Curtains",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 introduce the goat hair curtains with their distinct dimensions and the confirming baraita, matching the Goat Hair Curtains prose which explicitly describes these calculations and the baraita.",
+      "current_heading": "Goat Hair Curtains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Mishkan as Bride",
+    "candidates": [
+      "Doubled Front Curtain",
+      "Train Behind Mishkan",
+      "Mishkan as Bride"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Ne\u1e25emya's interpretation of 'tisrach' as trailing more than the others, followed by the school of Rabbi Yishmael's analogy of the Mishkan to a woman with her train trailing \u2014 both of which are explicitly covered in the 'Mishkan as Bride' prose section.",
+      "chosen_heading": "Mishkan as Bride",
+      "current_heading": "Mishkan as Bride",
+      "moved": false
+    }
+  }
+]

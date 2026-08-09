@@ -1,0 +1,468 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Pigul & Blood-Throwing",
+    "candidates": [
+      "Reu'uy Principle",
+      "Pigul & Blood-Throwing",
+      "Rav Ashi's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe Rav Ashi's report to Rav Nachman distinguishing between verbal redemption (i bei porik) and blood-throwing (i bei havi zorik), which is precisely what Candidate 2's prose describes.",
+      "chosen_heading": "Rav Ashi's Distinction",
+      "current_heading": "Pigul & Blood-Throwing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Ashi's Distinction",
+    "candidates": [
+      "Pigul & Blood-Throwing",
+      "Rav Ashi's Distinction",
+      "Sha'at Heter Principle",
+      "Examples of Heter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehoshua's 'sha'at heter' principle as a challenge to Rav Ashi, which is precisely what the 'Sha'at Heter Principle' section describes \u2014 the Gemara invoking Rabbi Yehoshua's rule about whether something had a period of permissibility for kohanim.",
+      "chosen_heading": "Sha'at Heter Principle",
+      "current_heading": "Rav Ashi's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Examples of Heter",
+    "candidates": [
+      "Sha'at Heter Principle",
+      "Examples of Heter",
+      "Theoretical vs. Actual"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Examples of Heter",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 give the concrete examples of what does and does not constitute a 'sha'as heter lakohanim,' which is exactly what candidate 1's prose describes.",
+      "second_heading": "Theoretical vs. Actual",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20135 form a continuous Gemara challenge-and-response about whether 'lana mamash' (actually left overnight, blood and all) counts as a sha'as heter, directly matching candidate 2's prose about theoretical vs. actual permissibility.",
+      "current_heading": "Examples of Heter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Theoretical vs. Actual",
+    "candidates": [
+      "Theoretical vs. Actual",
+      "Actual Throwing Required",
+      "Grammar & Hypothetical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is questioning why Rabbi Yehoshua used 'kol she-hayesa lo' (past tense/hypothetical framing) rather than 'kol she-yesh lah' (present/actual), which is precisely the grammatical and hypothetical language debate described in candidate 2's prose.",
+      "chosen_heading": "Grammar & Hypothetical",
+      "current_heading": "Theoretical vs. Actual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Grammar & Hypothetical",
+    "candidates": [
+      "Actual Throwing Required",
+      "Grammar & Hypothetical",
+      "Kedushah & Possibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's direct statement 'Are you raising a contradiction between misuse and ritual impurity?' which is precisely the opening of the argument described in candidate 2's prose about Rav Ashi responding that me'ilah and tumah are categorically different questions.",
+      "chosen_heading": "Kedushah & Possibility",
+      "current_heading": "Grammar & Hypothetical",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Kedushah & Possibility",
+    "candidates": [
+      "Kedushah & Possibility",
+      "Food Requires Actuality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how me'ilah liability depends on kedushah and asks how sanctity can return once it has lapsed, which matches exactly the prose in 'Kedushah & Possibility' discussing depaka lei kedushtei and u-vemai hadra rachva lah.",
+      "chosen_heading": "Kedushah & Possibility",
+      "current_heading": "Kedushah & Possibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Food Requires Actuality",
+    "candidates": [
+      "Food Requires Actuality",
+      "Losing vs. Gaining States",
+      "Asham Discovery Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that impurity/food status depends on whether the item is actually food, not merely theoretically accessible \u2014 precisely the content described in the 'Food Requires Actuality' prose, which explicitly quotes and discusses 'mishum ochla velav ochla hi' and the kol heicha de'i ba'ei zarku formulation.",
+      "chosen_heading": "Food Requires Actuality",
+      "current_heading": "Food Requires Actuality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Asham Discovery Case",
+    "candidates": [
+      "Losing vs. Gaining States",
+      "Asham Discovery Case",
+      "Post-Shechita Discovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Mishnah from Kerisot about the asham talui case \u2014 Rabbi Meir's ruling that the animal goes back to the flock and the Sages' ruling that it grazes until blemished plus Rabbi Eliezer's position \u2014 which is precisely what the 'Asham Discovery Case' prose describes in detail.",
+      "chosen_heading": "Asham Discovery Case",
+      "current_heading": "Asham Discovery Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Post-Shechita Discovery",
+    "candidates": [
+      "Post-Shechita Discovery",
+      "Rabbi Yosei's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the post-shechita discovery scenario where blood is spilled and meat burned, which is precisely what the 'Post-Shechita Discovery' section's prose discusses.",
+      "chosen_heading": "Post-Shechita Discovery",
+      "current_heading": "Post-Shechita Discovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rabbi Yosei's Position",
+    "candidates": [
+      "Rabbi Yosei's Position",
+      "Rava's Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes both the base ruling (nizrak hadam habasar yeiachel) and Rabbi Yosei's extension (afilu hadam bekos yizraik vehabasar yeiachel), which is precisely what section 0's prose explicates, whereas section 1 discusses Rava's subsequent explanation of Rabbi Yosei's reasoning rather than the ruling itself.",
+      "chosen_heading": "Rabbi Yosei's Position",
+      "current_heading": "Rabbi Yosei's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rava's Attribution",
+    "candidates": [
+      "Rava's Attribution",
+      "Kli Sharet Receives Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement attributing Rabbi Yosei's ruling to Rabbi Shimon's principle of kol ha'omed lizrok k'zaruk dami, which is precisely what the 'Rava's Attribution' prose section discusses.",
+      "chosen_heading": "Rava's Attribution",
+      "current_heading": "Rava's Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Kli Sharet Receives Blood",
+    "candidates": [
+      "Kli Sharet Receives Blood",
+      "Safety in Kli Sharet",
+      "Burn Obligation Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Western tradition in the name of Rabbi Yosei bar \u1e24anina that Rabbi Yosei's reasoning is that a service vessel sanctifies disqualified offerings ab initio, which is precisely what the prose under 'Kli Sharet Receives Blood' describes.",
+      "chosen_heading": "Kli Sharet Receives Blood",
+      "current_heading": "Kli Sharet Receives Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Burn Obligation Problem",
+    "candidates": [
+      "Safety in Kli Sharet",
+      "Burn Obligation Problem",
+      "Chibat HaKodesh Solution",
+      "Tamei vs. Pasul Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Ashi's question about notar and parah adumah being 'merely dust' AND Rav Kahana's answer 'chibas hakodesh machshartan,' which corresponds precisely to the 'Chibat HaKodesh Solution' section's prose about chibas hakodesh rendering items susceptible to tumah.",
+      "chosen_heading": "Chibat HaKodesh Solution",
+      "current_heading": "Burn Obligation Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Tamei vs. Pasul Question",
+    "candidates": [
+      "Chibat HaKodesh Solution",
+      "Tamei vs. Pasul Question",
+      "Reish Lakish Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Ravina's question to Rav Ashi about whether chibas hakodesh makes something genuinely tamei (counting rishon and sheni) versus merely pasul, which is precisely what the 'Tamei vs. Pasul Question' prose describes.",
+      "chosen_heading": "Tamei vs. Pasul Question",
+      "current_heading": "Tamei vs. Pasul Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Reish Lakish Resolution",
+    "candidates": [
+      "Reish Lakish Resolution",
+      "D'Rabbanan Level"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's dilemma about tzarid/dry meal offering and whether first- and second-degree impurity counts with it, which is exactly what the 'Reish Lakish Resolution' section's prose describes \u2014 the connection between the notar/parah adumah question and Reish Lakish's inquiry about chibas hakodesh producing genuine tumah transmission.",
+      "chosen_heading": "Reish Lakish Resolution",
+      "current_heading": "Reish Lakish Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "D'Rabbanan Level",
+    "candidates": [
+      "D'Rabbanan Level",
+      "Vessel Type Mismatch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between d'Oraisa and d'Rabbanan levels in Reish Lakish's dilemma, which is precisely what the prose under 'D'Rabbanan Level' discusses.",
+      "chosen_heading": "D'Rabbanan Level",
+      "current_heading": "D'Rabbanan Level",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Vessel Type Mismatch",
+    "candidates": [
+      "Vessel Type Mismatch",
+      "Sanctification Mismatch",
+      "Vow Two Esronot, Bring On"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vessel Type Mismatch",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah case of a vow (harei alai) with a vessel-type mismatch, which candidate 0's prose explicitly describes as the first case with that exact ruling.",
+      "second_heading": "Sanctification Mismatch",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the sanctification (zo lehavi) case where the ruling is invalidity (pesula), which candidate 1's prose explicitly describes as the second distinct case involving sanctified flour with a specific designation.",
+      "current_heading": "Vessel Type Mismatch",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Vow Two Esronot, Bring On",
+    "candidates": [
+      "Sanctification Mismatch",
+      "Vow Two Esronot, Bring On",
+      "Sanctify Flour: Config",
+      "Reminder Reframes Vow"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vow Two Esronot, Bring On",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the vow case (harei alai) where bringing in wrong vessel configuration results in 'mah sheheivi heivi veyedei chovato lo yatza' \u2014 exactly what candidate 1 discusses.",
+      "second_heading": "Sanctify Flour: Config",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the sanctified-flour case (elu bikli echad) where bringing in wrong configuration renders the offering pasul \u2014 exactly what candidate 2 discusses.",
+      "current_heading": "Vow Two Esronot, Bring On",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Reminder Reframes Vow",
+    "candidates": [
+      "Sanctify Flour: Config",
+      "Reminder Reframes Vow",
+      "Both Cases Necessary"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Reminder Reframes Vow",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the two Mishnah cases about vowing in one vessel vs. two with bystander reminders, which exactly match the 'Reminder Reframes Vow' prose describing those precise scenarios.",
+      "second_heading": "Both Cases Necessary",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's opening comment ('And it is necessary') launching the analysis of why both cases are needed, which exactly matches the 'Both Cases Necessary' prose describing that standard Talmudic necessity argument.",
+      "current_heading": "Reminder Reframes Vow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Both Cases Necessary",
+    "candidates": [
+      "Both Cases Necessary",
+      "Kli Sharet Non-Sanctify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the classic Talmudic 'tzericha' construction explaining why both cases of the Mishnah are necessary, which is precisely what the 'Both Cases Necessary' section's prose describes in detail.",
+      "chosen_heading": "Both Cases Necessary",
+      "current_heading": "Both Cases Necessary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Kli Sharet Non-Sanctify",
+    "candidates": [
+      "Kli Sharet Non-Sanctify",
+      "Abaye's Position",
+      "Neder Time Fixes Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita about bringing a meal offering different from the one vowed, and Rabbi Shimon's ruling that the type/configuration is not significant for fulfilling the vow, directly illustrates the principle discussed in 'Neder Time Fixes Identity' \u2014 specifically the distinction between what was specified at the time of the neder versus what matters for fulfillment, and the confirmation via parallel transmission about neder vs. hafrasha.",
+      "chosen_heading": "Neder Time Fixes Identity",
+      "current_heading": "Kli Sharet Non-Sanctify",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Neder Time Fixes Identity",
+    "candidates": [
+      "Abaye's Position",
+      "Neder Time Fixes Identity",
+      "Reminder Reframes Vow"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Abaye's reconciliation of the baraita with the Mishnah via the kli shares consecration distinction, which matches heading 0's prose about Abaye's position on lo kadshem likarev aval kadshem lipassel.",
+      "second_heading": "Neder Time Fixes Identity",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 (starting from Abaye's additional principle about neder time vs. hafrasha time) match heading 1's prose about lo shanu ela shekeva'am besha'as neder and the parallel transmission from Rabbi Yochanan.",
+      "current_heading": "Neder Time Fixes Identity",
+      "moved": true
+    }
+  }
+]
